@@ -295,7 +295,8 @@ async function main() {
     addLandmark(p.label, p.sublabel ?? '', p.lat, p.lon, p.countryCode, 'chip' in p && p.chip !== p.label ? [String(p.chip)] : [])
   }
 
-  const version = new Date().toISOString().slice(0, 10).replace(/-/g, '')
+  // To the minute: a rebuild on the same day must not reuse a path browsers cache as immutable.
+  const version = new Date().toISOString().slice(0, 16).replace(/[-:T]/g, '')
   if (existsSync(OUT)) for (const d of readdirSync(OUT)) rmSync(join(OUT, d), { recursive: true })
   mkdirSync(join(OUT, version, 's'), { recursive: true })
   mkdirSync(join(OUT, version, 't'), { recursive: true })

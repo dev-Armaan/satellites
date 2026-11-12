@@ -33,7 +33,7 @@ export function shardOf(key: string): string | undefined {
 
 /** Search files hold at most this many places; a larger group is split by the next letter, down to this length. */
 export const SHARD_MAX_PLACES = 800
-export const SHARD_MAX_PREFIX = 5
+export const SHARD_MAX_PREFIX = 7
 /** A split group keeps a head file (`<prefix>_`) of its largest places, for a query no longer than its prefix. */
 export const SHARD_HEAD_PLACES = 100
 
@@ -72,4 +72,20 @@ export function tileIndex(row: number, col: number): number {
 
 export function tileAt(lat: number, lon: number): { row: number; col: number } {
   return { row: Math.floor((lat + 90) / TILE_DEG), col: Math.floor((lon + 180) / TILE_DEG) }
+}
+
+/** A tile with more towns than this is written as its four quarters. */
+export const TILE_MAX_PLACES = 1500
+
+/**
+ * The file (without `.txt`) holding (lat, lon)'s tile: `<i>`, or `<i>-<q>` for a quarter of a split tile, q = 2 × the
+ * northern half + the eastern half.
+ */
+export function tileFile(lat: number, lon: number, split: boolean): string {
+  const { row, col } = tileAt(lat, lon)
+  const i = tileIndex(row, col)
+  if (!split) return String(i)
+  const north = (lat + 90) / TILE_DEG - row >= 0.5 ? 1 : 0
+  const east = (((lon + 180) / TILE_DEG - col) % 1) >= 0.5 ? 1 : 0
+  return `${i}-${north * 2 + east}`
 }

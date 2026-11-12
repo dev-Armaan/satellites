@@ -5,26 +5,30 @@
  *                                        Two letters, or more where that group is large ("san", "sant"): no file
  *                                        holds more than 800 places, so a typed search fetches one of ~1–20 kB
  *                                        (placeKey.ts shardFor). A split group's `<ab>_.txt` holds its largest.
- *   public/places/<version>/t/<i>.txt    naming a spot: the towns and cities in one 5° tile (placeKey.ts tileIndex).
+ *   public/places/<version>/t/<i>.txt    naming a spot: the towns and cities in one 5° tile (placeKey.ts tileIndex),
+ *                                        or `<i>-<q>.txt` for each quarter of a tile with more than 1,500.
  *   public/places/<version>/l.txt        landmarks (scripts/landmarks.ts, and the landing's Surprise me and example
  *                                        places): `name|lat|lon|cc|where|alias;alias`, one small file for every search.
- *   src/imagery/localPlaces.gen.ts       the version, which shards exist and a bitmap of which tiles exist, so the
- *                                        app never asks for a file that isn't there (a 404 is not cached).
+ *   src/imagery/localPlaces.gen.ts       the version, which search groups exist and which are split, and which tiles
+ *                                        exist and which are quartered, so the app rarely asks for a missing file.
  *
  * Each line is `name|lat|lon|cc|admin1|p|kind|ascii`, trailing empty fields dropped: p is the population on a log
- * scale (round(20·log10)), kind is '' for a settlement, 'r' for a state or province and 'c' for a country, and ascii
+ * scale (round(20·log10)), kind is '' for a settlement, 'r' for a state or province, 'c' for a country and 'f' for a
+ * named feature or building (ranked by how many names it has: featurePop), and ascii
  * the GeoNames ASCII name only where the name itself has no Latin key. Country names in sublabels come from
  * Intl.DisplayNames in the browser, so they cost no bytes here.
  *
- * Source: GeoNames (CC BY 4.0): cities1000 (every settlement of 1,000+ people and every seat of government),
- * admin1CodesASCII, countryInfo, and allCountries for the coordinates of states and countries (only those rows are
- * kept). The output is committed; the version directory changes with each build, so the files can be cached as
- * immutable. City data changes slowly: rebuild a few times a year, not on a schedule, since every rebuild adds the
- * whole list (~5 MB compressed) to git history.
+ * Source: GeoNames (CC BY 4.0): cities500 (every settlement of 500+ people and every seat of government),
+ * admin1CodesASCII, countryInfo, allCountries (the coordinates of states and countries, and the features in
+ * FEATURES) and alternateNamesV2 (which features have an English Wikipedia article, and their English names). ~316,000
+ * places. The output is committed; the version directory changes with each build, so the files can be cached as
+ * immutable. Place data changes slowly: rebuild a few times a year, not on a schedule, since every rebuild adds the
+ * whole list (~10 MB compressed) to git history.
  *
- * Usage: tsx scripts/build-places.ts <dir with the GeoNames downloads>
- *   The dir must hold cities1000.zip, admin1CodesASCII.txt, countryInfo.txt and allCountries.zip from
- *   https://download.geonames.org/export/dump/ (needs `unzip` on the PATH).
+ * Usage: NODE_OPTIONS=--max-old-space-size=6000 npm run data:places <dir with the GeoNames downloads>
+ *   The dir must hold cities500.zip, admin1CodesASCII.txt, countryInfo.txt, allCountries.zip and
+ *   alternateNamesV2.zip from https://download.geonames.org/export/dump/ (~650 MB; needs `unzip` on the PATH).
+ *   Takes ~2 minutes and ~4 GB of memory.
  */
 import { spawn } from 'node:child_process'
 import { existsSync, mkdirSync, readFileSync, readdirSync, rmSync, writeFileSync } from 'node:fs'
@@ -32,12 +36,27 @@ import { join } from 'node:path'
 import { createInterface } from 'node:readline'
 import { EXAMPLE_PLACES, SURPRISE_PLACES } from '../src/ui/landing/places'
 import { LANDMARKS } from './landmarks'
-import { compactKey, placeKey, SHARD_HEAD_PLACES, SHARD_MAX_PLACES, SHARD_MAX_PREFIX, shardOf, TILE_COLS, TILE_ROWS, tileAt, tileIndex } from '../src/imagery/placeKey'
+import { compactKey, placeKey, SHARD_HEAD_PLACES, SHARD_MAX_PLACES, SHARD_MAX_PREFIX, shardOf, TILE_COLS, TILE_MAX_PLACES, TILE_ROWS, tileAt, tileFile, tileIndex } from '../src/imagery/placeKey'
 
 const SRC = process.argv[2]
 if (!SRC) throw new Error('usage: tsx scripts/build-places.ts <geonames dir>')
 const OUT = 'public/places'
 const GEN = 'src/imagery/localPlaces.gen.ts'
+
+/**
+ * Named features and buildings people look for from orbit (GeoNames feature codes), kept only if they have an
+ * English Wikipedia article: a mountain, lake or dam with one is one people have heard of; the thousands without
+ * one would bury the real answers.
+ */
+const FEATURES = new Set(
+  [
+    ...['MT', 'MTS', 'PK', 'PKS', 'VLC', 'ISL', 'ISLS', 'ATOL', 'CNYN', 'DSRT', 'PEN', 'CAPE', 'CRTR', 'MESA', 'GRGE', 'DLTA'],
+    ...['LK', 'LKS', 'LKN', 'BAY', 'BAYS', 'GLCR', 'STRT', 'LGN', 'RSV', 'FLLS', 'RF', 'GULF', 'FJD', 'SD', 'SEA', 'CNL', 'GYSR'],
+    ...['PRK', 'RESN', 'RESF', 'RESW'],
+    ...['AIRP', 'STDM', 'DAM', 'MNMT', 'CSTL', 'UNIV', 'PAL', 'TMPL', 'MUS', 'BDG', 'TOWR', 'PYR', 'PYRS', 'RUIN', 'ANS'],
+    ...['OBS', 'ZOO', 'HSTS', 'CTRS', 'SQR', 'OPRA', 'WALL', 'GDN', 'FT', 'MN'],
+  ],
+)
 
 /** Feature codes left out: historical, abandoned or destroyed places, and religious centres. */
 const SKIP = new Set(['PPLH', 'PPLQ', 'PPLW', 'PPLCH', 'PPLR'])
@@ -53,9 +72,16 @@ interface Entry {
   cc: string
   admin1: string
   pop: number
-  kind: '' | 'r' | 'c'
+  kind: '' | 'r' | 'c' | 'f'
   section: boolean
 }
+
+/**
+ * A feature has no population to rank by. How many names it has (languages, spellings) says how widely it is known:
+ * ranked as a place of 10^(2 + 1.5·log10(names + 1)) people, e.g. ~3,000 for a lake with 9 names, ~1 million for a
+ * mountain with 50, capped at 10 million.
+ */
+const featurePop = (names: number) => Math.min(1e7, 10 ** (2 + 1.5 * Math.log10(names + 1)))
 
 /**
  * GeoNames lists some cities' districts as towns of their own, named after the city ("Paris 16 Passy", "Lyon 03"):
@@ -88,8 +114,8 @@ function markDistricts(entries: Entry[]) {
   }
 }
 
-async function* unzipLines(zip: string): AsyncGenerator<string> {
-  const p = spawn('unzip', ['-p', zip], { stdio: ['ignore', 'pipe', 'inherit'] })
+async function* unzipLines(zip: string, member?: string): AsyncGenerator<string> {
+  const p = spawn('unzip', ['-p', zip, ...(member ? [member] : [])], { stdio: ['ignore', 'pipe', 'inherit'] })
   yield* createInterface({ input: p.stdout, crlfDelay: Infinity })
 }
 
@@ -105,19 +131,47 @@ async function main() {
   const countries = new Map<string, { name: string; pop: number; id: string }>()
   for (const p of tsv('countryInfo.txt')) countries.set(p[0], { name: p[4], pop: Number(p[7]) || 0, id: p[16] })
 
-  // Coordinates of states and countries, from the full dump (only the rows we need are kept).
+  // Pass 1 over the full dump: which rows are candidate features.
+  const candidates = new Set<string>()
+  for await (const l of unzipLines(join(SRC, 'allCountries.zip'))) {
+    const p = l.split('\t', 8)
+    if (FEATURES.has(p[7])) candidates.add(p[0])
+  }
+  // The alternate names: which candidates have an English Wikipedia article, and their English names.
+  const notable = new Set<string>()
+  const english = new Map<string, { name: string; preferred: boolean }>()
+  for await (const l of unzipLines(join(SRC, 'alternateNamesV2.zip'), 'alternateNamesV2.txt')) {
+    const p = l.split('\t')
+    if (!candidates.has(p[1])) continue
+    if (p[2] === 'link' && p[3].includes('en.wikipedia.org/')) notable.add(p[1])
+    else if (p[2] === 'en' && p[6] !== '1' && p[7] !== '1' && !/[|;]/.test(p[3])) {
+      const preferred = p[4] === '1'
+      const had = english.get(p[1])
+      if (!had || (preferred && !had.preferred)) english.set(p[1], { name: p[3], preferred })
+    }
+  }
+  candidates.clear()
+
+  // Pass 2: the coordinates of states and countries, and the notable features.
   const wanted = new Set<string>([...admin1.values()].map((a) => a.id).concat([...countries.values()].map((c) => c.id)))
   const coords = new Map<string, [number, number]>()
+  const features: Entry[] = []
   for await (const l of unzipLines(join(SRC, 'allCountries.zip'))) {
-    const tab = l.indexOf('\t')
-    if (!wanted.has(l.slice(0, tab))) continue
+    const id = l.slice(0, l.indexOf('\t'))
+    const isFeature = notable.has(id)
+    if (!wanted.has(id) && !isFeature) continue
     const p = l.split('\t')
-    coords.set(p[0], [Number(p[4]), Number(p[5])])
+    coords.set(id, [Number(p[4]), Number(p[5])])
+    if (!isFeature) continue
+    const name = english.get(id)?.name ?? p[1]
+    const names = p[3] ? p[3].split(',').length : 0
+    const code = `${p[8]}.${p[10]}`
+    features.push({ name, ascii: p[2], lat: Number(p[4]), lon: Number(p[5]), cc: p[8], admin1: admin1.get(code)?.name ?? '', pop: featurePop(names), kind: 'f', section: false })
   }
 
   const entries: Entry[] = []
   const regionPop = new Map<string, number>()
-  for await (const l of unzipLines(join(SRC, 'cities1000.zip'))) {
+  for await (const l of unzipLines(join(SRC, 'cities500.zip'))) {
     const p = l.split('\t')
     if (p.length < 15 || SKIP.has(p[7])) continue
     const pop = Number(p[14]) || 0
@@ -150,8 +204,15 @@ async function main() {
     if (!c) continue
     entries.push({ name: k.name, ascii: k.name, lat: c[0], lon: c[1], cc, admin1: '', pop: k.pop, kind: 'c', section: false })
   }
-  entries.sort((a, b) => b.pop - a.pop || a.name.localeCompare(b.name))
   markDistricts(entries)
+  // Features named exactly like a town within 10 km of it are the same place to a searcher ("Monaco", "Gibraltar").
+  const townAt = new Map<string, [number, number][]>()
+  for (const e of entries) if (!e.kind) townAt.set(placeKey(e.name), [...(townAt.get(placeKey(e.name)) ?? []), [e.lat, e.lon]])
+  for (const f of features) {
+    const close = townAt.get(placeKey(f.name))?.some(([la, lo]) => Math.abs(la - f.lat) < 0.09 && Math.abs(lo - f.lon) < 0.12)
+    if (!close && placeKey(f.name)) entries.push(f)
+  }
+  entries.sort((a, b) => b.pop - a.pop || a.name.localeCompare(b.name))
 
   const line = (e: Entry, withAscii: boolean) =>
     [e.name, e.lat.toFixed(3), e.lon.toFixed(3), e.cc, e.admin1, e.pop > 0 ? Math.round(20 * Math.log10(e.pop)) : 0, e.kind, withAscii ? e.ascii : '']
@@ -194,14 +255,28 @@ async function main() {
     for (const [k, l] of next) emit(k, l)
   }
   for (const [k, list] of groups) emit(k, list)
-  const tiles = new Map<number, string[]>()
+  // Pin tiles: towns only. A tile with more than TILE_MAX_PLACES is written as its four quarters (placeKey.ts tileFile).
+  const byTile = new Map<number, Entry[]>()
   for (const e of entries) {
     if (e.kind || e.section) continue
     const { row, col } = tileAt(e.lat, e.lon)
     const i = tileIndex(row, col)
-    let list = tiles.get(i)
-    if (!list) tiles.set(i, (list = []))
-    list.push(line(e, false))
+    const list = byTile.get(i) ?? []
+    list.push(e)
+    byTile.set(i, list)
+  }
+  const tiles = new Map<string, string[]>()
+  const splitTiles: number[] = []
+  for (const [i, list] of byTile) {
+    if (list.length <= TILE_MAX_PLACES) {
+      tiles.set(String(i), list.map((e) => line(e, false)))
+      continue
+    }
+    splitTiles.push(i)
+    for (const e of list) {
+      const f = tileFile(e.lat, e.lon, true)
+      tiles.set(f, [...(tiles.get(f) ?? []), line(e, false)])
+    }
   }
 
   // Landmarks: the curated list, then the landing's own places, except those that are just a city in the list
@@ -229,7 +304,7 @@ async function main() {
   writeFileSync(join(OUT, version, 'l.txt'), [...landmarks.values()].join('\n') + '\n')
 
   const bits = new Uint8Array(Math.ceil((TILE_ROWS * TILE_COLS) / 8))
-  for (const i of tiles.keys()) bits[i >> 3] |= 1 << (i & 7)
+  for (const i of byTile.keys()) bits[i >> 3] |= 1 << (i & 7)
   writeFileSync(
     GEN,
     `/**
@@ -243,6 +318,8 @@ export const PLACE_GROUPS = '${[...shards.keys()].map((k) => k.slice(0, 2)).filt
 export const PLACE_SPLIT = '${[...shards.keys()].filter((k) => k.endsWith('_')).map((k) => k.slice(0, -1)).sort().join(',')}'
 /** Which tiles exist: bit i of the decoded bytes is tile i (placeKey.ts tileIndex). */
 export const PLACE_TILES = '${Buffer.from(bits).toString('base64')}'
+/** The tiles written as four quarters, comma-separated (placeKey.ts tileFile). */
+export const PLACE_TILES_SPLIT = '${splitTiles.sort((a, b) => a - b).join(',')}'
 `,
   )
   console.log(`${entries.length} places, ${landmarks.size} landmarks, ${shards.size} shards, ${tiles.size} tiles → ${OUT}/${version}`)

@@ -1,10 +1,10 @@
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest'
-import { reversePlace, searchPlaces, SEARCH_GRACE_MS } from './geocode'
+import { reversePlace, searchPlaces } from './geocode'
 import { nearestLocal, parsePlaces, reachKm, searchLocal } from './localPlaces'
 import { placeKey, shardFor, shardOf, tileAt, tileIndex } from './placeKey'
 
 /** The committed place files (public/places), loaded on demand by path. */
-const FILES = import.meta.glob<string>('/public/places/*/*/*.txt', { query: '?raw', import: 'default' })
+const FILES = import.meta.glob<string>('/public/places/**/*.txt', { query: '?raw', import: 'default' })
 
 /** Serves the committed place files from public/ (the real data), and stalls every network geocoder. */
 function serveFiles(network?: (url: string) => Response) {
@@ -85,6 +85,19 @@ describe('the offline list (real data)', () => {
     expect(await searchLocal('qqqx')).toEqual([])
   })
 
+  it('finds landmarks by name, another name or a later word', async () => {
+    const first = async (q: string) => (await searchLocal(q))[0]?.name
+    expect(await first('central park')).toBe('Central Park')
+    expect((await searchLocal('central park'))[0]).toMatchObject({ kind: 'l', where: 'New York, United States' })
+    expect(await first('pyramids')).toBe('Pyramids of Giza')
+    expect(await first('area 51')).toBe('Area 51')
+    expect(await first('groom lake')).toBe('Area 51')
+    expect(await first('everest')).toBe('Mount Everest')
+    expect(await first('ghent')).toBe('Ghent')
+    // "Giza" is also the example chip's name for the pyramids: they lead, the city follows.
+    expect((await searchLocal('giza')).map((r) => r.name).slice(0, 2)).toEqual(['Pyramids of Giza', 'Giza'])
+  })
+
   it('narrows by state or country after the name', async () => {
     expect((await searchLocal('paris, texas'))[0]).toMatchObject({ name: 'Paris', admin1: 'Texas' })
     expect((await searchLocal('waterloo belgium'))[0]).toMatchObject({ name: 'Waterloo', cc: 'BE' })
@@ -109,33 +122,26 @@ describe('searchPlaces and reversePlace with the offline list', () => {
     expect((await reversePlace(35.6595, 139.7005)).sublabel).toBe('Japan') // Tokyo, not "Tokyo, Tokyo"
   })
 
-  it('shows offline rows after the grace while Photon stalls, and only ever adds below them', async () => {
-    const om = { results: [{ name: 'Toronto Islands', latitude: 43.62, longitude: -79.38, country_code: 'CA', country: 'Canada', admin1: 'Ontario', population: 900 }] }
-    serveFiles((url) =>
-      url.includes('open-meteo')
-        ? (new Promise((r) => setTimeout(() => r(Response.json(om)), 50)) as unknown as Response)
-        : (new Promise(() => undefined) as unknown as Response), // Photon: never answers
-    )
-    const early: string[][] = []
-    const t0 = Date.now()
-    const r = await searchPlaces('Toronto', undefined, (p) => early.push(p.map((x) => `${x.label} · ${x.sublabel}`)))
-    expect(Date.now() - t0).toBeGreaterThanOrEqual(SEARCH_GRACE_MS)
-    expect(early).toHaveLength(1)
-    expect(early[0][0]).toBe('Toronto · Ontario, Canada')
-    const labels = r.map((x) => `${x.label} · ${x.sublabel}`)
-    expect(labels.slice(0, early[0].length)).toEqual(early[0])
-    expect(labels).toContain('Toronto Islands · Ontario, Canada')
+  it('answers from the offline list alone when it has enough', async () => {
+    const f = serveFiles()
+    const r = await searchPlaces('Toronto')
+    expect(r[0]).toMatchObject({ label: 'Toronto', sublabel: 'Ontario, Canada' })
+    expect(f.mock.calls.every((c) => String(c[0]).startsWith('/places/'))).toBe(true)
   })
 
-  it('lets a quick Photon answer lead', async () => {
-    serveFiles((url) =>
-      url.startsWith('https://photon.komoot.io/')
-        ? Response.json({ features: [{ geometry: { type: 'Point', coordinates: [-79.38, 43.65] }, properties: { name: 'Toronto', osm_key: 'place', osm_value: 'city', state: 'Ontario', country: 'Canada', countrycode: 'CA' } }] })
-        : new Response('', { status: 404 }),
-    )
+  it('does not ask the network when a landmark is named exactly', async () => {
+    const f = serveFiles()
+    expect((await searchPlaces('Eiffel Tower')).map((p) => p.label)).toEqual(['Eiffel Tower'])
+    expect(f.mock.calls.every((c) => String(c[0]).startsWith('/places/'))).toBe(true)
+  })
+
+  it('asks Open-Meteo when the list has too few, offline rows first and kept in place', async () => {
+    const om = { results: [{ name: 'Eiffel', latitude: 45.1, longitude: 5.5, country_code: 'FR', country: 'France', admin1: 'Auvergne-Rhône-Alpes', population: 50 }] }
+    const f = serveFiles((url) => (url.includes('open-meteo') ? Response.json(om) : (new Promise(() => undefined) as unknown as Response)))
     const early = vi.fn()
-    const r = await searchPlaces('toronto quick', undefined, early)
-    expect(early).not.toHaveBeenCalled()
-    expect(r[0]).toMatchObject({ label: 'Toronto', lat: 43.65 })
+    const r = await searchPlaces('eiffel', undefined, early)
+    expect(early).toHaveBeenCalledWith([expect.objectContaining({ label: 'Eiffel Tower', sublabel: 'Paris, France' })])
+    expect(r.map((p) => p.label)).toEqual(['Eiffel Tower', 'Eiffel'])
+    expect(f.mock.calls.some((c) => String(c[0]).startsWith('https://photon.komoot.io/'))).toBe(false)
   })
 })

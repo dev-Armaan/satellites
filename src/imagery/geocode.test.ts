@@ -336,7 +336,7 @@ describe('Open-Meteo search results', () => {
   })
 })
 
-describe('searchPlaces while Photon stalls', () => {
+describe('searchPlaces on the network (Open-Meteo first, Photon as backup)', () => {
   afterEach(() => vi.unstubAllGlobals())
   const stalledPhoton = (other: () => Response) =>
     vi.fn((url: string, init?: RequestInit) =>
@@ -345,7 +345,7 @@ describe('searchPlaces while Photon stalls', () => {
         : Promise.resolve(other()),
     )
 
-  it('answers from Open-Meteo, and does not cache that answer', async () => {
+  it('answers from Open-Meteo without waiting for Photon, and caches it', async () => {
     const f = stalledPhoton(() => Response.json({ results: omWaterloo }))
     vi.stubGlobal('fetch', f)
     const t0 = Date.now()
@@ -353,11 +353,12 @@ describe('searchPlaces while Photon stalls', () => {
     expect(Date.now() - t0).toBeLessThan(SEARCH_HEDGE_MS + 1_000)
     expect(r2.map((p) => p.sublabel)).toEqual(['Ontario, Canada', 'Iowa, United States'])
     expect(String((f.mock.calls.at(-1) as unknown[])[0])).toBe('https://geocoding-api.open-meteo.com/v1/search?name=Waterlo&count=10&language=en&format=json')
-    vi.stubGlobal('fetch', vi.fn(async () => Response.json(waterloo)))
-    expect((await searchPlaces('waterlo')).length).toBeGreaterThan(0)
+    f.mockClear()
+    expect((await searchPlaces('waterlo')).map((p) => p.sublabel)).toEqual(['Ontario, Canada', 'Iowa, United States'])
+    expect(f).not.toHaveBeenCalled()
   })
 
-  it('still waits for Photon when Open-Meteo has no match', async () => {
+  it('waits for Photon when Open-Meteo has no match', async () => {
     const ctrl = new AbortController()
     vi.stubGlobal('fetch', stalledPhoton(() => Response.json({})))
     const p = searchPlaces('CN Tower stalled', ctrl.signal)

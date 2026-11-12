@@ -13,7 +13,7 @@ import { haversineKm } from '@/lib/geo'
 import { PLACE_GROUPS, PLACE_SPLIT, PLACE_TILES, PLACES_VERSION } from './localPlaces.gen'
 import { Lru } from './lru'
 import { raceAbort, throwIfAborted } from './net'
-import { placeKey, shardFor, TILE_COLS, TILE_DEG, TILE_ROWS, tileAt, tileIndex } from './placeKey'
+import { placeKey, shardFor, shardOf, TILE_COLS, TILE_DEG, TILE_ROWS, tileAt, tileIndex } from './placeKey'
 
 export interface LocalPlace {
   name: string
@@ -25,13 +25,19 @@ export interface LocalPlace {
   admin1: string
   /** Population on a log scale: round(20·log10(people)); 0 when unknown */
   p: number
-  /** '' a settlement, 'r' a state or province, 'c' a country */
-  kind: '' | 'r' | 'c'
+  /** '' a settlement, 'r' a state or province, 'c' a country, 'l' a landmark */
+  kind: '' | 'r' | 'c' | 'l'
   /** placeKey of the name (or of the ASCII name, where the name has no Latin key) */
   key: string
+  /** A landmark's sublabel as written ("Giza, Egypt"), and its other names' keys */
+  where?: string
+  aliases?: string[]
+  /** On a search result: the query is this place's whole name (or another of its names, or name and region) */
+  exact?: boolean
 }
 
 const BASE = `/places/${PLACES_VERSION}`
+const LANDMARKS = 'l.txt'
 const GROUPS = new Set(PLACE_GROUPS.match(/../g) ?? [])
 const SPLIT = new Set(PLACE_SPLIT.split(','))
 let tileBits: Uint8Array | undefined
@@ -54,6 +60,20 @@ export function parsePlaces(text: string): LocalPlace[] {
   return out
 }
 
+/** The landmark file: `name|lat|lon|cc|where|alias;alias` (scripts/build-places.ts). */
+export function parseLandmarks(text: string): LocalPlace[] {
+  const out: LocalPlace[] = []
+  for (const l of text.split('\n')) {
+    const f = l.split('|')
+    const lat = Number(f[1])
+    const lon = Number(f[2])
+    if (f.length < 4 || !f[0] || !Number.isFinite(lat) || !Number.isFinite(lon)) continue
+    const aliases = (f[5] ?? '').split(';').filter(Boolean).map(placeKey)
+    out.push({ name: f[0], lat, lon, cc: f[3], admin1: '', p: 0, kind: 'l', key: placeKey(f[0]), where: f[4] || undefined, aliases })
+  }
+  return out
+}
+
 const files = /* @__PURE__ */ new Lru<string, Promise<LocalPlace[] | null>>(48)
 
 /** A file's places, or null if it doesn't exist. */
@@ -63,7 +83,8 @@ function load(path: string, signal?: AbortSignal): Promise<LocalPlace[] | null> 
     p = fetch(`${BASE}/${path}`).then(async (res) => {
       if (res.status === 404) return null // no such file: remembered, not asked again
       if (!res.ok) throw new Error(`HTTP ${res.status} for ${path}`)
-      return parsePlaces(await res.text())
+      const text = await res.text()
+      return path === LANDMARKS ? parseLandmarks(text) : parsePlaces(text)
     })
     p.catch(() => files.delete(path)) // a failed load is retried by the next caller
     files.set(path, p)
@@ -89,34 +110,58 @@ export function countryName(cc: string): string {
 }
 
 /**
- * Up to `limit` places whose name starts with `query`, best first: the larger place, with an exact name counted
- * as a hundred times the people (so "toro" leads with Toronto, not a village called Toro, but "paris" with Paris,
- * not Parisot). "paris france" and "waterloo, ontario" also match: the name, then words that start the place's
- * state or country, counted as exact. [] if the query has no Latin key or no file holds it. Rejects if the file
- * can't be loaded.
+ * Up to `limit` places matching `query`, best first, from the search file for its first letters and the landmark
+ * file (both small; each fetched once a page). Towns, states and countries match from the start of the name, the
+ * larger first, an exact name counted as a hundred times the people (so "toro" leads with Toronto, not a village
+ * called Toro, but "paris" with Paris, not Parisot); "paris france" and "waterloo, ontario" also match, the words
+ * after the name starting the place's state or country. Landmarks match from the start of their name or another
+ * name typed in full ("Area 51", "Groom Lake"), ranked as a large city, and from a later word or the start of
+ * another name, 3+ letters ("pyramids", "giza"), ranked as a small one. [] if the query has no Latin key. Rejects only if neither
+ * file can be loaded.
  */
 export async function searchLocal(query: string, signal?: AbortSignal, limit = 6): Promise<LocalPlace[]> {
   throwIfAborted(signal)
   const q = placeKey(query)
+  if (!shardOf(q)) return []
   const shard = shardFor(q, GROUPS, SPLIT)
-  if (!shard) return []
-  let rows = await load(`s/${shard.file}.txt`, signal)
-  if (!rows && shard.head) rows = await load(`s/${shard.head}.txt`, signal)
-  if (!rows) return []
-  const hits: { r: LocalPlace; score: number }[] = []
-  for (const r of rows) {
+  const [towns, marks] = await Promise.allSettled([
+    shard ? load(`s/${shard.file}.txt`, signal).then((rows) => (rows || !shard.head ? rows : load(`s/${shard.head}.txt`, signal))) : Promise.resolve(null),
+    load(LANDMARKS, signal),
+  ])
+  throwIfAborted(signal)
+  if (towns.status === 'rejected' && marks.status === 'rejected') throw towns.reason
+  const hits: { r: LocalPlace; score: number; exact?: boolean }[] = []
+  for (const r of (towns.status === 'fulfilled' && towns.value) || []) {
     const exact = r.key === q || (q.startsWith(`${r.key} `) && inContext(q.slice(r.key.length + 1), r))
-    if (exact || r.key.startsWith(q)) hits.push({ r, score: r.p + (exact ? EXACT_BONUS : 0) })
+    if (exact || r.key.startsWith(q)) hits.push({ r, score: r.p + (exact ? EXACT_BONUS : 0), exact })
+  }
+  for (const r of (marks.status === 'fulfilled' && marks.value) || []) {
+    const aliases = r.aliases ?? []
+    const keys = [r.key, ...aliases]
+    if (keys.includes(q)) hits.push({ r, score: LANDMARK_SCORE + EXACT_BONUS, exact: true })
+    else if (r.key.startsWith(q)) hits.push({ r, score: LANDMARK_SCORE })
+    else if (q.length >= 3 && (aliases.some((k) => k.startsWith(q)) || keys.some((k) => k.split(' ').slice(1).some((w) => w.startsWith(q)))))
+      hits.push({ r, score: LANDMARK_WORD_SCORE })
   }
   // Files are largest first and the sort is stable, so equal scores stay largest first.
+  const seen = new Set<string>()
   return hits
     .sort((a, b) => b.score - a.score)
+    .filter(({ r }) => {
+      const k = `${r.key}|${r.lat.toFixed(1)}|${r.lon.toFixed(1)}`
+      if (seen.has(k)) return false
+      seen.add(k)
+      return true
+    })
     .slice(0, limit)
-    .map((h) => h.r)
+    .map((h) => (h.exact ? { ...h.r, exact: true } : h.r))
 }
 
 /** An exact name's head start, on the log scale of `p` (20 per factor of ten): a hundred times the people. */
 const EXACT_BONUS = 40
+/** A landmark named from its start ranks as a city of ~30 million; from a later word, as a town of ~300,000. */
+const LANDMARK_SCORE = 150
+const LANDMARK_WORD_SCORE = 110
 
 function inContext(rest: string, r: LocalPlace): boolean {
   const words = placeKey(`${r.admin1} ${countryName(r.cc)}`).split(' ')

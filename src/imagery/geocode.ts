@@ -2,20 +2,20 @@
  * Places: forward search and reverse lookup (Photon / OpenStreetMap), browser geolocation, and
  * time zones (offline, @photostructure/tz-lookup).
  *
- * Reverse lookups (a dropped pin, "Near me", typed coordinates) are hedged: Photon's public server usually answers
- * in well under a second but can stall for 45 s (2026-11-12), and someone is watching "Naming this spot" the whole
- * time. If Photon has not answered within REVERSE_HEDGE_MS, Nominatim (the same OSM data) is asked too, and the first
- * answer wins. Nominatim's usage policy allows about one request a second and no autocomplete, so it is never used
- * for search-as-you-type, is asked only when Photon is slow, and its requests are spaced NOMINATIM_GAP_MS apart.
+ * Most names never need the network: the offline place list (./localPlaces.ts: towns, states, countries and the
+ * landmarks people search for) names a pin near a town, and answers a typed search that it has at least
+ * ENOUGH_LOCAL matches for. That keeps them fast (Photon's public server stalled for 45 s on 2026-11-12) and keeps
+ * the free geocoders' quotas for what only they know.
  *
- * Both are answered from the offline place list first where it can (./localPlaces.ts): a pin near a town is named
- * from it with no network at all, and a typed search shows its towns, states and countries if Photon has not answered
- * within SEARCH_GRACE_MS, network-only results (landmarks, streets) joining below them later, never above.
+ * Typed searches the list can't answer go to Open-Meteo's place search first (GeoNames, made for type-ahead; free
+ * up to ~10,000 requests a day), and to Photon too if Open-Meteo is slow or has nothing, since only Photon knows
+ * streets and points of interest. Open-Meteo matches old and alternate names ("waterloo" → Austin, Texas, once
+ * called Waterloo), so only results whose own name matches the query are kept, and an empty answer counts as none.
  *
- * Typed searches are hedged the same way, to Open-Meteo's place search (GeoNames, made for type-ahead). It knows
- * settlements and natural features but no landmarks, and it matches old and alternate names ("waterloo" → Austin,
- * Texas, once called Waterloo), so only results whose own name matches the query are kept, an empty answer counts as
- * none (Photon is still waited for), and its answers are never cached.
+ * Reverse lookups the list can't answer (open sea, wilderness) are hedged: if Photon has not answered within
+ * REVERSE_HEDGE_MS, Nominatim (the same OSM data) is asked too, and the first answer wins. Nominatim's usage policy
+ * allows about one request a second and no autocomplete, so it is never used for search-as-you-type, is asked only
+ * when Photon is slow, and its requests are spaced NOMINATIM_GAP_MS apart.
  *
  * Labels are built for a two-line display: `label` is the thing itself ("Waterloo"),
  * `sublabel` is where it is ("Ontario, Canada"), with no part repeated.
@@ -327,7 +327,7 @@ async function photonSearch(query: string, signal: AbortSignal): Promise<Place[]
     res = await fetchJson<PhotonResponse>(`${PHOTON}/api/?q=${encodeURIComponent(query)}&limit=${PHOTON_LIMIT}&lang=en`, {
       signal,
       timeoutMs: PHOTON_TIMEOUT_MS,
-      retries: 1,
+      retries: 0,
     })
   } catch (err) {
     if (err instanceof HttpError && err.status === 400) return [] // e.g. a query Photon can't parse
@@ -339,9 +339,7 @@ async function photonSearch(query: string, signal: AbortSignal): Promise<Place[]
   })
   const ranked = preferSettlements(hits)
   const distinct = distinctIndexes(ranked.map((h) => h.place)).map((i) => ranked[i])
-  const places = disambiguate(distinct).slice(0, MAX_RESULTS)
-  searchCache.set(textKey(query), places)
-  return places
+  return disambiguate(distinct).slice(0, MAX_RESULTS)
 }
 
 async function openMeteoSearch(query: string, signal: AbortSignal): Promise<Place[]> {
@@ -355,42 +353,47 @@ async function openMeteoSearch(query: string, signal: AbortSignal): Promise<Plac
   return places
 }
 
-/** How long a typed search waits for Photon's better-ranked answer before showing the offline list's. */
-export const SEARCH_GRACE_MS = 350
-/** Rows the offline list may fill while the network is still out, leaving room for what only it knows. */
-const EARLY_ROWS = 4
-
-/** A state that only repeats the city's name ("Berlin · State of Berlin") says nothing: "Berlin · Germany". */
-const echoes = (admin1: string, name: string) => ` ${placeKey(admin1)} `.includes(` ${placeKey(name)} `)
+/**
+ * A typed search goes to the network only if the offline list (towns, states, countries, landmarks) has fewer
+ * matches than this, and none of them is named exactly what was typed.
+ */
+export const ENOUGH_LOCAL = 3
 
 const localToPlace = (r: LocalPlace, source: Place['source']): Place => ({
   lat: r.lat,
   lon: r.lon,
   label: r.name,
-  sublabel: r.kind === 'c' ? undefined : sublabelOf(r.name, [echoes(r.admin1, r.name) ? undefined : r.admin1, countryName(r.cc)]),
+  sublabel: r.kind === 'l' ? r.where : r.kind === 'c' ? undefined : sublabelOf(r.name, [echoes(r.admin1, r.name) ? undefined : r.admin1, countryName(r.cc)]),
   countryCode: r.cc.toLowerCase() || undefined,
   source,
 })
+
+/** A state that only repeats the city's name ("Berlin · State of Berlin") says nothing: "Berlin · Germany". */
+function echoes(admin1: string, name: string): boolean {
+  return ` ${placeKey(admin1)} `.includes(` ${placeKey(name)} `)
+}
 
 /** `first`, then whatever in `more` is not already there (dedupePlaces' rules), at most MAX_RESULTS. */
 const appendNew = (first: Place[], more: Place[]) => dedupePlaces([...first, ...more]).slice(0, MAX_RESULTS)
 
 /**
- * Up to 6 places matching `q`, best first, in English where OSM has it. Coordinates are accepted
- * and reverse-geocoded. Resolves [] for queries under 2 characters, with no letters or digits, or
- * that Photon rejects. Rejects on network failure with nothing found offline (show "search
- * unavailable") and on abort.
+ * Up to 6 places matching `q`, best first. Coordinates are accepted and reverse-geocoded. Resolves [] for queries
+ * under 2 characters or with no letters or digits. Rejects on network failure with nothing found offline (show
+ * "search unavailable") and on abort.
  *
- * Photon is asked first, Open-Meteo too if it is slow (see the top of this module), and the offline list at once.
- * If the network answers within SEARCH_GRACE_MS, its order leads and the offline list only fills gaps. Otherwise
- * `onEarly` gets the offline list's best rows now, and the promise resolves with those same rows first and the
- * network's new ones after them, so a list on screen only ever grows at the bottom.
+ * The offline list answers first (./localPlaces.ts: towns, states, countries and landmarks, in ~50 ms). With at least
+ * ENOUGH_LOCAL matches, or one named exactly what was typed, that is the answer, and no geocoder is asked: most searches never leave the site, which keeps
+ * them fast and Open-Meteo's free quota for the rest. Otherwise Open-Meteo is asked, and Photon too if Open-Meteo is
+ * slow or has nothing (it knows streets and points of interest); `onEarly` gets the offline matches meanwhile, and
+ * the promise resolves with them first and the network's new ones after, so a list on screen only grows at the
+ * bottom.
  */
 export async function searchPlaces(q: string, signal?: AbortSignal, onEarly?: (places: Place[]) => void): Promise<Place[]> {
   throwIfAborted(signal)
   const query = q.trim().replace(/\s+/g, ' ')
   if (query.length < 2 || !hasText(query)) return []
-  const hit = searchCache.get(textKey(query))
+  const key = textKey(query)
+  const hit = searchCache.get(key)
   if (hit) return hit
 
   const coords = parseCoordinates(query)
@@ -399,41 +402,42 @@ export async function searchPlaces(q: string, signal?: AbortSignal, onEarly?: (p
     return [place]
   }
 
-  const net = hedge(
-    (s) => photonSearch(query, s),
-    (s) => openMeteoSearch(query, s),
-    SEARCH_HEDGE_MS,
-    signal,
-  )
-  const settledNet = net.then(
-    (places) => ({ places }),
-    (err: unknown) => ({ err }),
-  )
-  const local = searchLocal(query, signal).then(
-    (rows) => rows.map((r) => localToPlace(r, 'search')),
+  let exact = false
+  const local = await searchLocal(query, signal).then(
+    (rows) => {
+      exact = rows.some((r) => r.exact)
+      return dedupePlaces(rows.map((r) => localToPlace(r, 'search')))
+    },
     (err: unknown) => {
-      if (isAbortError(err)) throw err
+      if (isAbortError(err) || signal?.aborted) throw err
       return [] as Place[]
     },
   )
-  local.catch(() => undefined)
-
-  const quick = await Promise.race([settledNet, sleep(SEARCH_GRACE_MS, signal).then(() => undefined)])
-  if (quick) {
-    if ('places' in quick) return appendNew(quick.places, await local)
-    const found = await local
-    if (found.length) return found
-    throw quick.err
+  if (local.length >= ENOUGH_LOCAL || exact) {
+    searchCache.set(key, local)
+    return local
   }
 
-  const found = await local
-  if (!found.length) return net
-  const early = found.slice(0, EARLY_ROWS)
-  onEarly?.(early)
-  const late = await settledNet
-  throwIfAborted(signal)
-  if ('err' in late) return appendNew(early, found)
-  return appendNew(appendNew(early, late.places), found)
+  const net = hedge(
+    (s) => openMeteoSearch(query, s),
+    (s) => photonSearch(query, s),
+    SEARCH_HEDGE_MS,
+    signal,
+  )
+  if (!local.length) {
+    const found = await net
+    searchCache.set(key, found)
+    return found
+  }
+  onEarly?.(local)
+  try {
+    const found = appendNew(local, await net)
+    searchCache.set(key, found)
+    return found
+  } catch (err) {
+    if (isAbortError(err) || signal?.aborted) throw err
+    return local
+  }
 }
 
 /** Photon's budget for one reverse lookup: no retry, since Nominatim is already being asked by then. */

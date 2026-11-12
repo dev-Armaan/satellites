@@ -176,14 +176,15 @@ The orbit maths runs in your browser. The site counts how it is used; it does no
 |:--|:--|
 | Lookup | A cell about 10 km across (0.1°), and that place's country and town. |
 | Share | The town-level place name, a point rounded to about 1 km (0.01°), the pass and its photos, and a view count. |
-| Visit | What happened (searches, results, passes and photos opened, shares, errors, page speed), tied to a random ID that lives only as long as the browser tab, with the device class, your country (from Vercel's edge), the referring site, any UTM tags and the app version. |
+| Visit | What happened (searches, results, passes and photos opened, shares, errors, page speed), tied to a random ID that lives only as long as the browser tab, with the device class, your country (from the host's edge), the referring site, any UTM tags and the app version. |
 
 Raw events, visits and single lookups are deleted after 48 hours. What stays is counts: usage per hour and per day,
 and lookups per cell. Shares are kept.
 
 Watched's database never stores exact coordinates, IP addresses, cookies or full referrer URLs, and the event relay
-never reads the IP. The app never sends street-level place names. Vercel and Supabase see IP addresses in transit and
-in their own request logs, like any host.
+never reads the IP. The app never sends street-level place names. The site's host and Supabase see IP addresses in
+transit and in their own request logs, like any host. The host is Vercel until the site moves to Cloudflare in November
+2026.
 
 Other services see the place too, but less often than you might think: names come from a list of towns,
 countries and landmarks that ships with the site, so most searches, and any spot near a town, never leave your
@@ -191,13 +192,16 @@ browser. A search the list can't answer goes to [Open-Meteo](https://open-meteo.
 [Photon](https://photon.komoot.io) if Open-Meteo has nothing; a spot far from any town goes to Photon, and to
 [Nominatim](https://nominatim.openstreetmap.org) if Photon is slow. Planetary Computer and NASA GIBS see the point and the area around it, to send the photos, and so
 does EUMETSAT where a Meteosat watches the place.
-Element 84 sees it only when Planetary Computer is down. Vercel Web Analytics receives the page address, which for a
-place link includes its coordinates and name.
+Element 84 sees it only when Planetary Computer is down.
+
+The host also counts page views and page speed, with no cookies or local storage: Vercel Web Analytics while the site is
+on Vercel, Cloudflare Web Analytics once it is on Cloudflare. Both receive the page address, which for a place link can
+include its coordinates and name.
 
 Usage events are sent only from watched.earth, and never from a development build, an automated browser or a tab
 opened with `?noanalytics=1` (for as long as that tab stays open). The flag doesn't stop lookups and shares being
-counted: any build with Supabase configured counts them, development included. Vercel Web Analytics is cookieless
-and ignores the flag.
+counted: any build with Supabase configured counts them, development included. The host's web analytics ignores the
+flag.
 
 ## Run it locally
 

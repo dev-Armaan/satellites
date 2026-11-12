@@ -1,0 +1,3 @@
+# Files wrangler does not upload from dist/ to Cloudflare (gitignore syntax; worker/assets.test.ts checks it).
+# Source maps: Vercel keeps them from the public (403), so the Cloudflare copy does not publish them either.
+*.map

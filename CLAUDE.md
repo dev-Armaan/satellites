@@ -49,6 +49,10 @@
   ones (`roll_event_day`: `event_days`, `event_dists`, `event_alltime*`), and raw events only for the hour or so not
   rolled yet. A new number on the admin page must be rolled up there too, never computed over `public.events` (that is
   what overloaded the database). Each hour and day keeps its top 3000 cells / 200 values per breakdown (`event_keep`).
+- `log_events` is open to anyone with the public key; its limits (0020) stop a script filling the database: 2000
+  events per tab, 120 a minute per tab on average, 6000 events + new tabs a minute overall (counters in
+  `overflight_private.event_rate`, constant cost). Over a limit, events are dropped silently. 2026-11-12's viral peak was
+  2,555 a minute. Raising the overall limit raises the worst-case storage (48 hours of it) and the prune's work.
 - Ad-hoc queries on production: at most an hour or two of `public.events` at a time. A 12-hour scan on 2026-11-12
   stalled the API on the small machine.
 - `VITE_*` env vars are bundled into the browser. Server secrets (`CDSE_CLIENT_ID` / `CDSE_CLIENT_SECRET`) are only

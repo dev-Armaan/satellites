@@ -31,13 +31,13 @@ import type { Pass, SatCategory } from '@/types'
 import { palette } from '@/ui/system/palette'
 import { damp } from './cameraMath'
 import { geoDiveAt } from './acquisition'
-import { getSatInfo, groundTrack, propagate } from './data'
+import { getSatInfo, groundTrack, propagate, scanAngleAt, scanLine, scanSeatOf } from './data'
 import { Hairline } from './hairline'
 import { createCurtainMaterial, createRibbonMaterial, createSpacecraftMaterial, lin, type RibbonLook } from './materials'
 import { FRAME, useRuntime } from './runtime'
 import { SatGlyph, useSatAnchor, type MarkTone, type SatTrackFn } from './SatMarker'
 import { buildSpacecraftGeometry, SPACECRAFT_SPAN } from './spacecraft'
-import { buildRibbon, fieldModelFor, GEO_SCAN_FIELD } from './swath'
+import { buildRibbon, buildScanRibbon, fieldModelFor, GEO_SCAN_FIELD } from './swath'
 
 /** Trail length behind the satellite (≈ 2,500 km: enough to read the direction, short of the screen edge), and its sampling. */
 const TRAIL_MS = 6 * 60_000
@@ -111,7 +111,7 @@ function PassScene({ pass, place, onGone }: { pass: Pass; place?: { lat: number;
   const info = getSatInfo(pass.norad)
   const category: SatCategory = info?.category ?? 'other'
   const field = useMemo(() => (pass.geostationary ? GEO_SCAN_FIELD : fieldModelFor(info)), [info, pass.geostationary])
-  const look = useMemo(() => ({ ...lookFor(pass, category, field.mode), noTrack: !!pass.geostationary }), [pass, category, field.mode])
+  const look = useMemo(() => ({ ...lookFor(pass, category, field.mode), noTrack: !!pass.geostationary, fadeEnds: !!pass.geostationary }), [pass, category, field.mode])
   const pointable = field.mode === 'regard' || pass.verdict === 'could'
   // Imaging spacecraft get the model and the curtain; crewed / ambient objects keep their glyph and a nadir line.
   const imager = category !== 'crewed' && category !== 'other'
@@ -119,9 +119,25 @@ function PassScene({ pass, place, onGone }: { pass: Pass; place?: { lat: number;
   // camera starts behind it: framing.geoScanPose). Its foot is the line itself, not the ground under the spacecraft.
   const curtainOn = imager && field.mode !== 'none'
 
+  // A geostationary scan's line at a moment: where the plane its mirror sweeps cuts the Earth, the width of the disc
+  // (engine geostationary.ts). The ribbon's rows and the curtain's foot are both this line, so they cannot part.
+  const scanLineAt = useMemo(() => {
+    const seat = pass.geostationary ? scanSeatOf(pass) : undefined
+    return seat ? (t: number) => scanLine(seat, scanAngleAt(pass, t)) : undefined
+  }, [pass])
+
   // ── ribbon
   const ribbon = useMemo(() => {
-    const r = buildRibbon(pass.track, pass.tClosest, field.halfWidthKm, { minHalfWidthKm: 20, clipKm: RIBBON_CLIP_KM, maxStepDeg: 0.25 })
+    // The line's last RIBBON_CLIP_KM of travel before the place and the same after, as for a ground track.
+    const clipMs = (RIBBON_CLIP_KM / Math.max(1, pass.groundSpeedKmS)) * 1000
+    const r = scanLineAt
+      ? buildScanRibbon(scanLineAt, {
+          tRef: pass.tClosest,
+          tFrom: Math.max(pass.tStart, pass.tClosest - clipMs),
+          tTo: Math.min(pass.tEnd, pass.tClosest + clipMs),
+          dir: pass.node === 'descending' ? -1 : 1,
+        })
+      : buildRibbon(pass.track, pass.tClosest, field.halfWidthKm, { minHalfWidthKm: 20, clipKm: RIBBON_CLIP_KM, maxStepDeg: 0.25 })
     const g = new BufferGeometry()
     g.setAttribute('position', new BufferAttribute(r.positions, 3))
     g.setAttribute('aAlong', new BufferAttribute(r.along, 1))
@@ -130,7 +146,7 @@ function PassScene({ pass, place, onGone }: { pass: Pass; place?: { lat: number;
     g.setIndex(new BufferAttribute(r.index, 1))
     g.computeBoundingSphere()
     return g
-  }, [pass, field])
+  }, [pass, field, scanLineAt])
   const ribbonMat = useMemo(
     () =>
       createRibbonMaterial(
@@ -386,41 +402,38 @@ function PassScene({ pass, place, onGone }: { pass: Pass; place?: { lat: number;
     if (curtainVisible) {
       const { g, right, q } = tmp
       const tdir = tmp.x
-      let delta = Math.max(20, field.halfWidthKm(s.altKm)) / EARTH_RADIUS_KM
-      if (pass.geostationary) {
-        // The foot is the scan line: across the line's path (the pass's track) where the line is now, and no wider
-        // than the disc the spacecraft can see at that distance from the point under it.
-        const tr = pass.track
-        let i = 0
-        while (i < tr.length - 2 && tr[i + 1].t < now) i++
-        const fr = Math.max(0, Math.min(1, (now - tr[i].t) / Math.max(1, tr[i + 1].t - tr[i].t)))
-        latLonToWorld(tr[i].lat, tr[i].lon, 1, g)
-        latLonToWorld(tr[i + 1].lat, tr[i + 1].lon, 1, q)
-        tdir.copy(q).sub(g)
-        g.lerp(q, fr).normalize()
-        tdir.addScaledVector(g, -tdir.dot(g)).normalize()
-        const limb = (EARTH_RADIUS_KM / (EARTH_RADIUS_KM + s.altKm)) * 1.25
-        const c = g.dot(tmp.z.copy(s.pos).normalize())
-        delta = c > limb ? Math.min(delta, Math.acos(Math.min(1, limb / c))) : 0
-      } else {
-        g.copy(s.pos).normalize()
-        tdir.copy(s.ahead).sub(s.pos)
-        tdir.addScaledVector(g, -tdir.dot(g)).normalize()
-      }
-      right.crossVectors(tdir, g).normalize()
       const attr = curtain.geometry.attributes.position as BufferAttribute
       const arr = attr.array as Float32Array
       arr[0] = s.pos.x
       arr[1] = s.pos.y
       arr[2] = s.pos.z
-      for (let j = 0; j <= CURTAIN_COLS; j++) {
-        const a = ((j / CURTAIN_COLS) * 2 - 1) * delta
-        q.copy(g).multiplyScalar(Math.cos(a)).addScaledVector(right, Math.sin(a)).multiplyScalar(CURTAIN_LIFT)
+      const foot = (j: number) => {
         arr[(j + 1) * 3] = q.x
         arr[(j + 1) * 3 + 1] = q.y
         arr[(j + 1) * 3 + 2] = q.z
         if (j === 0) lines.edgePts[0].copy(q)
         if (j === CURTAIN_COLS) lines.edgePts[2].copy(q)
+      }
+      if (scanLineAt) {
+        // The foot is the scan line where it is now, from one end of the disc to the other: the curtain is the very
+        // plane the mirror sweeps, so from behind the spacecraft the line runs straight across the Earth.
+        const line = scanLineAt(now)
+        for (let j = 0; j <= CURTAIN_COLS; j++) {
+          const p = line.at(((j / CURTAIN_COLS) * 2 - 1) * line.reach)
+          latLonToWorld(p.lat, p.lon, CURTAIN_LIFT, q)
+          foot(j)
+        }
+      } else {
+        const delta = Math.max(20, field.halfWidthKm(s.altKm)) / EARTH_RADIUS_KM
+        g.copy(s.pos).normalize()
+        tdir.copy(s.ahead).sub(s.pos)
+        tdir.addScaledVector(g, -tdir.dot(g)).normalize()
+        right.crossVectors(tdir, g).normalize()
+        for (let j = 0; j <= CURTAIN_COLS; j++) {
+          const a = ((j / CURTAIN_COLS) * 2 - 1) * delta
+          q.copy(g).multiplyScalar(Math.cos(a)).addScaledVector(right, Math.sin(a)).multiplyScalar(CURTAIN_LIFT)
+          foot(j)
+        }
       }
       attr.needsUpdate = true
       const cu = curtain.material.uniforms

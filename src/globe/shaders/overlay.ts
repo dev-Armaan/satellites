@@ -35,6 +35,8 @@ export const ribbonVertex = glsl`
  *  - Everything thins over cloud and unlit ground and stays modest, so bright cloud never turns salmon.
  * uKind: 0 = fixed swath (solid edges), 1 = field of regard (dashed edges), 2 = track only.
  * The mesh is clipped to ±700 km along-track around the place (swath.ts clipAlongTrack); vU fades its ends.
+ * A geostationary scan's mesh is the line itself, limb to limb (swath.ts buildScanRibbon): no edges, no track, and
+ * uEndFade thins it toward the limbs.
  */
 export const ribbonFragment = glsl`
   ${COMMON}
@@ -47,6 +49,7 @@ export const ribbonFragment = glsl`
   uniform vec3 uFrontColor;   // the scan line's core (HDR signal)
   uniform float uFill;
   uniform float uTrack;     // 1 = draw the ground track line, 0 = not (a geostationary scan has none)
+  uniform float uEndFade;   // 1 = fade the marks out toward |side| = 0.45 (a geostationary scan line, which ends where the disc does), 0 = not
   uniform float uOpacity;
   uniform vec3 uSunDir;
   uniform sampler2D uClouds;
@@ -130,7 +133,10 @@ export const ribbonFragment = glsl`
       vec3 frontCol = mix(uColor, uFrontColor, core);
       acc = over(vec4(frontCol, min(1.0, frontA)), acc);
     }
-    float a = acc.a * ends * uOpacity;
+    // A scan line the width of the disc thins out over its last few hundred km: its end is the limb the spacecraft
+    // sees, which from a camera down at the place would otherwise be a hard cut across the ground.
+    float sides = 1.0 - uEndFade * smoothstep(0.42, 0.45, abs(vSide));
+    float a = acc.a * ends * sides * uOpacity;
     if (a < 0.003) discard;
     gl_FragColor = vec4(acc.rgb, a);
     ${OUTPUT}

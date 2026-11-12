@@ -2,7 +2,8 @@ import { describe, expect, it } from 'vitest'
 import { Vector3 } from 'three'
 import { DEG, EARTH_RADIUS_KM, haversineKm, latLonToWorld, worldToLatLon } from '@/lib/geo'
 import type { SatInfo, TrackPoint } from '@/types'
-import { buildRibbon, clipAlongTrack, densifyTrack, fieldModelFor, groundRangeAtOffNadirKm, sweptAcross, trackPointAt } from './swath'
+import { scanAngleAt, scanAngleOf, scanLine } from '@/engine/geostationary'
+import { buildRibbon, buildScanRibbon, clipAlongTrack, densifyTrack, fieldModelFor, groundRangeAtOffNadirKm, sweptAcross, trackPointAt } from './swath'
 
 /** A straight southbound track along lon −80.5°, 20 s steps, ~7 km/s ground speed (≈ 0.063° per s). */
 function southbound(n = 49, t0 = 1_000_000): TrackPoint[] {
@@ -68,6 +69,79 @@ describe('buildRibbon', () => {
     expect(Math.min(...r.side)).toBe(-1)
     expect(Math.max(...r.side)).toBe(1)
     expect(r.halfWidthKm).toBe(145)
+  })
+})
+
+describe('buildScanRibbon (a geostationary scan: the line itself, the width of the disc)', () => {
+  // GOES-19 scanning from the north in 10 minutes; Abidjan is 71° of longitude east of it, near the disc's edge.
+  const seat = { lat: 0, lon: -75.2, altKm: 35_786 }
+  const abidjan = { lat: 5.38, lon: -3.94 }
+  const scan = { tStart: 2_000_000, tEnd: 2_600_000, altitudeKm: seat.altKm, node: 'descending' as const }
+  const lineAt = (t: number) => scanLine(seat, scanAngleAt(scan, t))
+  // The moment the line is at the angle the spacecraft sees Abidjan at.
+  const limb = Math.asin(1 / (1 + seat.altKm / EARTH_RADIUS_KM))
+  const tc = scan.tStart + ((limb - scanAngleOf(seat, abidjan)) / (2 * limb)) * 600_000
+  const r = buildScanRibbon(lineAt, { tRef: tc, tFrom: tc - 36_000, tTo: tc + 36_000, dir: -1 })
+  const vpr = r.cols + 1
+  const vertex = (i: number, j: number) => new Vector3().fromArray(r.positions, (i * vpr + j) * 3)
+
+  it('lays one row per moment, all at the lifted radius, with time relative to the crossing', () => {
+    expect(r.positions.length).toBe(r.rows * vpr * 3)
+    for (let k = 0; k < r.rows * vpr; k++) expect(new Vector3().fromArray(r.positions, k * 3).length()).toBeCloseTo(1.0006, 5)
+    expect(r.along[0]).toBeCloseTo(-36, 9)
+    expect(r.along[r.along.length - 1]).toBeCloseTo(36, 9)
+    const mid = (r.rows - 1) / 2
+    for (let j = 0; j <= r.cols; j++) expect(r.along[mid * vpr + j]).toBeCloseTo(0, 9)
+    expect(r.u[0]).toBe(0)
+    expect(r.u[r.u.length - 1]).toBe(1)
+  })
+
+  it('passes over the place at the crossing, though the place is 7,900 km from the point under the spacecraft', () => {
+    const mid = (r.rows - 1) / 2
+    let best = Infinity
+    for (let j = 0; j < r.cols; j++) {
+      const a = vertex(mid, j)
+      const b = vertex(mid, j + 1)
+      for (let k = 0; k <= 20; k++) best = Math.min(best, haversineKm(worldToLatLon(a.clone().lerp(b, k / 20)), abidjan))
+    }
+    expect(best).toBeLessThan(8)
+    expect(haversineKm(abidjan, seat)).toBeGreaterThan(7900)
+    // Earlier rows are north of it, later ones south: the line travels south.
+    expect(worldToLatLon(vertex(0, r.cols / 2)).lat).toBeGreaterThan(worldToLatLon(vertex(r.rows - 1, r.cols / 2)).lat)
+  })
+
+  it('reaches from one side of the disc to the other, and no step along it is long enough to cut under the globe', () => {
+    const mid = (r.rows - 1) / 2
+    const west = worldToLatLon(vertex(mid, r.cols))
+    const east = worldToLatLon(vertex(mid, 0))
+    // Southward travel: the first column is on the left of the motion, the east.
+    expect(east.lon).toBeGreaterThan(0)
+    expect(west.lon).toBeLessThan(-150)
+    for (const end of [east, west]) expect(haversineKm(end, seat) / EARTH_RADIUS_KM / DEG).toBeCloseTo(79.1, 0)
+    for (let j = 0; j < r.cols; j++) expect(haversineKm(worldToLatLon(vertex(mid, j)), worldToLatLon(vertex(mid, j + 1)))).toBeLessThan(200)
+  })
+
+  it('has no swath edges to draw: side stays inside the band where the shader draws none', () => {
+    expect(Math.max(...r.side)).toBeLessThanOrEqual(0.45)
+    expect(Math.min(...r.side)).toBeGreaterThanOrEqual(-0.45)
+  })
+
+  it('winds every triangle outward, for a scan from the north and one from the south', () => {
+    const up = { ...scan, node: 'ascending' as const }
+    const north = buildScanRibbon((t) => scanLine(seat, scanAngleAt(up, t)), { tRef: tc, tFrom: tc - 36_000, tTo: tc + 36_000, dir: 1, rows: 9, cols: 24 })
+    const a = new Vector3()
+    const b = new Vector3()
+    const c = new Vector3()
+    const n = new Vector3()
+    for (const ribbon of [r, north]) {
+      for (let t = 0; t < ribbon.index.length; t += 3) {
+        a.fromArray(ribbon.positions, ribbon.index[t] * 3)
+        b.fromArray(ribbon.positions, ribbon.index[t + 1] * 3)
+        c.fromArray(ribbon.positions, ribbon.index[t + 2] * 3)
+        n.subVectors(b, a).cross(c.clone().sub(a))
+        expect(n.dot(a)).toBeGreaterThan(0)
+      }
+    }
   })
 })
 

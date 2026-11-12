@@ -14,9 +14,13 @@ import {
   loadCatalog,
   profileFor,
   propagate,
+  scanAngleAt,
+  scanLine,
+  scanSeatOf,
   type ElementBuffer,
   type LoadedCatalog,
   type SatState,
+  type ScanLine,
 } from '@/engine'
 
 export {
@@ -28,9 +32,13 @@ export {
   keplerJ2World,
   profileFor,
   propagate,
+  scanAngleAt,
+  scanLine,
+  scanSeatOf,
   type ElementBuffer,
   type LoadedCatalog,
   type SatState,
+  type ScanLine,
 }
 
 export interface CatalogBuffers {

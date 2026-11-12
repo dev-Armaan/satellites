@@ -62,8 +62,8 @@ export function fieldModelFor(info: SatInfo | undefined): FieldModel {
 }
 
 /**
- * A geostationary scan (a pass with `geostationary`: its track is the scan line's path): the line reaches right
- * across the disc, so the ribbon is as wide as the region in view and its edges stay off screen.
+ * A geostationary scan (a pass with `geostationary`): a swath in kind, though its ribbon and curtain are not built
+ * around a ground track at all (`buildScanRibbon`): the line reaches right across the disc.
  */
 export const GEO_SCAN_FIELD: FieldModel = { mode: 'swath', halfWidthKm: () => 5000 }
 
@@ -204,6 +204,77 @@ export function buildRibbon(
   }
   const mid = pts.reduce((best, p) => (Math.abs(p.t - tRef) < Math.abs(best.t - tRef) ? p : best), pts[0])
   return { positions, along, side, u, index, rows, cols, halfWidthKm: mid ? halfWidthKm(mid.altKm) : 0 }
+}
+
+/** A geostationary scan line on the ground at one moment (engine geostationary.ts scanLine). */
+export interface GroundLine {
+  at(phi: number): { lat: number; lon: number }
+  reach: number
+}
+
+/**
+ * The ribbon of a geostationary scan: each row is the scan line itself at one moment, from one end of its drawn
+ * length to the other, for the moments between `tFrom` and `tTo`. Nothing here is a great circle around a ground
+ * track: a scan line is the cut of a plane through the spacecraft (a circle on the sphere), and it runs the width of
+ * the disc, so a place at the disc's edge is on it too. Built around a track (as `buildRibbon` does) the line was
+ * 5,000 km of a great circle either side of the meridian under the spacecraft: it never reached such a place, and
+ * crossed the middle of the disc up to 1,300 km from where the imager was looking (2026-11-12, Abidjan from GOES-19).
+ *
+ * `dir` is the line's travel: −1 southward (a scan from the north), +1 northward. Columns run left to right of that
+ * travel, as in `buildRibbon`, so the faces look outward. `side` stays inside ±0.45: the shader draws a swath's
+ * edges from |side| = 0.5 out, and a scan line has no edges to draw (it ends where the disc does, and the shader
+ * thins it out over its last 7%: uEndFade).
+ */
+export function buildScanRibbon(
+  lineAt: (t: number) => GroundLine,
+  o: { tRef: number; tFrom: number; tTo: number; dir: 1 | -1; lift?: number; rows?: number; cols?: number },
+): Ribbon {
+  const lift = o.lift ?? 1.0006
+  const rows = Math.max(2, o.rows ?? 51)
+  // 96 columns of a line at most 17,500 km long: 180 km a step, which sags 0.6 km under the sphere (the lift is 3.8).
+  const cols = Math.max(2, o.cols ?? 96)
+  const vpr = cols + 1
+  const n = rows * vpr
+  const positions = new Float32Array(n * 3)
+  const along = new Float32Array(n)
+  const side = new Float32Array(n)
+  const u = new Float32Array(n)
+  const q = new Vector3()
+  const span = Math.max(1, o.tTo - o.tFrom)
+  for (let i = 0; i < rows; i++) {
+    const t = o.tFrom + (span * i) / (rows - 1)
+    const line = lineAt(t)
+    for (let j = 0; j <= cols; j++) {
+      const s = (j / cols) * 2 - 1
+      // East is to the right of a northward travel, to the left of a southward one.
+      const p = line.at(o.dir * s * line.reach)
+      latLonToWorld(p.lat, p.lon, lift, q)
+      const k = i * vpr + j
+      positions[k * 3] = q.x
+      positions[k * 3 + 1] = q.y
+      positions[k * 3 + 2] = q.z
+      along[k] = (t - o.tRef) / 1000
+      side[k] = s * 0.45
+      u[k] = i / (rows - 1)
+    }
+  }
+  const index = new Uint32Array((rows - 1) * cols * 6)
+  let w = 0
+  for (let i = 0; i < rows - 1; i++) {
+    for (let j = 0; j < cols; j++) {
+      const a = i * vpr + j
+      const b = a + 1
+      const c = a + vpr
+      const d = c + 1
+      index[w++] = a
+      index[w++] = b
+      index[w++] = c
+      index[w++] = b
+      index[w++] = d
+      index[w++] = c
+    }
+  }
+  return { positions, along, side, u, index, rows, cols, halfWidthKm: 0 }
 }
 
 /**

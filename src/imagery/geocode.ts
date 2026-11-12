@@ -2,15 +2,21 @@
  * Places: forward search and reverse lookup (Photon / OpenStreetMap), browser geolocation, and
  * time zones (offline, @photostructure/tz-lookup).
  *
+ * Reverse lookups (a dropped pin, "Near me", typed coordinates) are hedged: Photon's public server usually answers
+ * in well under a second but can stall for 45 s (2026-11-12), and someone is watching "Naming this spot" the whole
+ * time. If Photon has not answered within REVERSE_HEDGE_MS, Nominatim (the same OSM data) is asked too, and the first
+ * answer wins. Nominatim's usage policy allows about one request a second and no autocomplete, so it is never used
+ * for search-as-you-type, is asked only when Photon is slow, and its requests are spaced NOMINATIM_GAP_MS apart.
+ *
  * Labels are built for a two-line display: `label` is the thing itself ("Waterloo"),
  * `sublabel` is where it is ("Ontario, Canada"), with no part repeated.
  */
 import { haversineKm } from '@/lib/geo'
 import type { LatLon, Place } from '@/types'
 import { fmtLat, fmtLon } from '@/ui/system/format'
-import { PHOTON } from './endpoints'
+import { NOMINATIM, PHOTON } from './endpoints'
 import { Lru } from './lru'
-import { fetchJson, HttpError, isAbortError, throwIfAborted } from './net'
+import { fetchJson, hedge, HttpError, isAbortError, sleep, throwIfAborted } from './net'
 
 // ── Photon wire types ──────────────────────────────────────────────────────────────────────
 
@@ -301,9 +307,79 @@ export async function searchPlaces(q: string, signal?: AbortSignal): Promise<Pla
   return places
 }
 
+/** Photon's budget for one reverse lookup: no retry, since Nominatim is already being asked by then. */
+const REVERSE_TIMEOUT_MS = 6_000
+/** How long Photon has to answer a reverse lookup before Nominatim is asked as well. */
+export const REVERSE_HEDGE_MS = 1_200
+/** Nominatim's usage policy: at most about one request a second from us. */
+const NOMINATIM_GAP_MS = 1_100
+let nominatimNextAt = 0
+
+/** Nominatim's GeoCodeJSON reply: the same fields as Photon's, under `properties.geocoding`. */
+interface NominatimGeocoding extends Omit<PhotonProperties, 'countrycode' | 'extent'> {
+  country_code?: string
+}
+interface NominatimResponse {
+  features?: { properties?: { geocoding?: NominatimGeocoding } }[]
+  error?: string
+}
+
+/** Nominatim types that name the field Photon would have put the object's name in. */
+const NOMINATIM_TYPE_FIELD: Record<string, 'city' | 'district' | 'locality' | 'county' | 'state'> = {
+  city: 'city',
+  town: 'city',
+  village: 'city',
+  hamlet: 'city',
+  municipality: 'city',
+  district: 'district',
+  suburb: 'district',
+  locality: 'locality',
+  county: 'county',
+  state: 'state',
+}
+
 /**
- * Name the place at (lat, lon). Never rejects except on abort: if Photon has nothing nearby (open
- * ocean, ice sheet) or can't be reached, the label is the coordinates themselves.
+ * A Nominatim GeoCodeJSON feature → the Photon shape photonReverseToPlace reads. Nominatim names the object
+ * itself (a city's boundary: name "Waterloo", type "city", no `city` field), so the name also fills the field its
+ * type stands for. Null when Nominatim has nothing here (open sea, ice sheet). The point is the queried one, as
+ * photonReverseToPlace keeps it.
+ */
+export function nominatimToPhoton(res: NominatimResponse, lat: number, lon: number): PhotonFeature | null {
+  const f = res.features?.[0]
+  const g = f?.properties?.geocoding
+  if (!f || !g) return null
+  const { country_code, ...rest } = g
+  const props: PhotonProperties = { ...rest, countrycode: country_code }
+  const field = g.type ? NOMINATIM_TYPE_FIELD[g.type] : undefined
+  if (field && hasText(g.name)) props[field] ??= g.name
+  return { type: 'Feature', geometry: { type: 'Point', coordinates: [lon, lat] }, properties: props }
+}
+
+async function photonReverse(lat: number, lon: number, signal: AbortSignal): Promise<PhotonFeature | null> {
+  const res = await fetchJson<PhotonResponse>(`${PHOTON}/reverse?lat=${lat.toFixed(6)}&lon=${lon.toFixed(6)}&lang=en&limit=1&radius=25`, {
+    signal,
+    timeoutMs: REVERSE_TIMEOUT_MS,
+    retries: 0,
+  })
+  return res.features?.[0] ?? null
+}
+
+async function nominatimReverse(lat: number, lon: number, signal: AbortSignal): Promise<PhotonFeature | null> {
+  const now = Date.now()
+  const at = Math.max(now, nominatimNextAt)
+  nominatimNextAt = at + NOMINATIM_GAP_MS
+  if (at > now) await sleep(at - now, signal)
+  // zoom 10: the settlement or district, never the nearest shop (Photon's reply is ranked the same way).
+  const res = await fetchJson<NominatimResponse>(
+    `${NOMINATIM}/reverse?lat=${lat.toFixed(6)}&lon=${lon.toFixed(6)}&format=geocodejson&zoom=10&accept-language=en`,
+    { signal, timeoutMs: REVERSE_TIMEOUT_MS, retries: 0 },
+  )
+  return nominatimToPhoton(res, lat, lon)
+}
+
+/**
+ * Name the place at (lat, lon). Never rejects except on abort: if neither geocoder has anything nearby (open
+ * ocean, ice sheet) or can be reached, the label is the coordinates themselves.
  * The returned position is exactly (lat, lon), not the matched OSM object's.
  */
 export async function reversePlace(lat: number, lon: number, signal?: AbortSignal): Promise<Place> {
@@ -311,11 +387,12 @@ export async function reversePlace(lat: number, lon: number, signal?: AbortSigna
   const fallback: Place = { lat, lon, label: coordinateLabel(lat, lon), source: 'geolocation' }
   if (!(Math.abs(lat) <= 90 && Math.abs(lon) <= 180)) return fallback
   try {
-    const res = await fetchJson<PhotonResponse>(
-      `${PHOTON}/reverse?lat=${lat.toFixed(6)}&lon=${lon.toFixed(6)}&lang=en&limit=1&radius=25`,
-      { signal, timeoutMs: PHOTON_TIMEOUT_MS, retries: 1 },
+    const f = await hedge(
+      (s) => photonReverse(lat, lon, s),
+      (s) => nominatimReverse(lat, lon, s),
+      REVERSE_HEDGE_MS,
+      signal,
     )
-    const f = res.features?.[0]
     return f ? photonReverseToPlace(f, lat, lon) : fallback
   } catch (err) {
     if (isAbortError(err) || signal?.aborted) throw err

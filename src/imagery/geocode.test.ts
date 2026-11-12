@@ -19,7 +19,9 @@ import {
   parseCoordinates,
   photonReverseToPlace,
   photonToPlace,
+  nominatimToPhoton,
   reversePlace,
+  REVERSE_HEDGE_MS,
   searchPlaces,
   sublabelOf,
   timeZoneAt,
@@ -240,5 +242,71 @@ describe('network', () => {
     expect(await reversePlace(30, -40)).toEqual({ lat: 30, lon: -40, label: '30.0000°N 40.0000°W', source: 'geolocation' })
     vi.stubGlobal('fetch', vi.fn(async () => Promise.reject(new TypeError('Failed to fetch'))))
     expect((await reversePlace(43.4723, -80.5449)).label).toBe('43.4723°N 80.5449°W')
+  })
+
+  it('reversePlace asks Nominatim when Photon stalls, and names the spot from its reply', async () => {
+    const urls: string[] = []
+    const f = vi.fn((url: string, init?: RequestInit) => {
+      urls.push(url)
+      if (url.startsWith('https://photon.komoot.io/')) {
+        return new Promise<Response>((_, rej) => init?.signal?.addEventListener('abort', () => rej(new DOMException('aborted', 'AbortError'))))
+      }
+      return Promise.resolve(Response.json(nominatimWaterloo))
+    })
+    vi.stubGlobal('fetch', f)
+    const t0 = Date.now()
+    const place = await reversePlace(43.4723, -80.5449)
+    expect(Date.now() - t0).toBeLessThan(REVERSE_HEDGE_MS + 1_000)
+    expect(place).toEqual({ lat: 43.4723, lon: -80.5449, label: 'Waterloo', sublabel: 'Ontario, Canada', countryCode: 'ca', source: 'geolocation' })
+    expect(urls[1]).toBe('https://nominatim.openstreetmap.org/reverse?lat=43.472300&lon=-80.544900&format=geocodejson&zoom=10&accept-language=en')
+  })
+})
+
+/** Nominatim GeoCodeJSON replies (abridged from live answers, 2026-11-12). */
+const nominatimWaterloo = {
+  type: 'FeatureCollection',
+  features: [
+    {
+      type: 'Feature',
+      properties: {
+        geocoding: {
+          osm_key: 'boundary',
+          osm_value: 'administrative',
+          type: 'city',
+          name: 'Waterloo',
+          county: 'Region of Waterloo',
+          state: 'Ontario',
+          country: 'Canada',
+          country_code: 'ca',
+        },
+      },
+      geometry: { type: 'Point', coordinates: [-80.5222961, 43.4652699] },
+    },
+  ],
+}
+const geocoding = (g: Record<string, string>) => ({ features: [{ properties: { geocoding: g } }] })
+
+describe('Nominatim reverse labels', () => {
+  const label = (res: Parameters<typeof nominatimToPhoton>[0]) => {
+    const f = nominatimToPhoton(res, 1, 2)
+    return f && photonReverseToPlace(f, 1, 2)
+  }
+
+  it('names a city by the city, not its county', () => {
+    expect(label(nominatimWaterloo)).toMatchObject({ label: 'Waterloo', sublabel: 'Ontario, Canada', countryCode: 'ca' })
+  })
+
+  it('prefers the city over its district, as Photon does', () => {
+    const r = geocoding({ osm_key: 'boundary', type: 'district', name: 'Suginami', city: 'Tokyo', country: 'Japan', country_code: 'jp' })
+    expect(label(r)).toMatchObject({ label: 'Tokyo', sublabel: 'Japan' })
+  })
+
+  it('falls back to the region in open country', () => {
+    const r = geocoding({ osm_key: 'boundary', type: 'state', name: 'Matruh', country: 'Egypt', country_code: 'eg' })
+    expect(label(r)).toMatchObject({ label: 'Matruh', sublabel: 'Egypt' })
+  })
+
+  it('has nothing at sea', () => {
+    expect(nominatimToPhoton({ error: 'Unable to geocode' }, 1, 2)).toBeNull()
   })
 })

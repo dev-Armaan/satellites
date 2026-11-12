@@ -2,8 +2,9 @@
  * The dropped pin's card (DOM over the canvas, outside the R3F tree like GlobeOverlay): the spot's name and
  * coordinates, an orange arrow that searches it (the search field's own "go" button), and a close button.
  *
- *   name         Photon reverse geocoding (imagery.reversePlace), fetched the moment the pin drops; the coordinates
- *                show at once, the name follows (~0.2–0.5 s). Unnamed ground (open sea, ice) says so.
+ *   name         reverse geocoding (imagery.reversePlace: Photon, and Nominatim too if Photon is slow), fetched the
+ *                moment the pin drops; the coordinates show at once, the name follows (~0.2–0.5 s, about 2 s while
+ *                Photon is stalling). Unnamed ground (open sea, ice) says so.
  *   search       the arrow (or Enter) searches the pin: the named place when the name is in, else at most
  *                PIN_NAME_WAIT_MS more for it, else the coordinates.
  *   placement    right of the pin, else left of it, else centred below (or above) it; always inside the bezel and

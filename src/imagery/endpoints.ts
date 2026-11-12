@@ -17,6 +17,8 @@ export const WORLDVIEW = 'https://worldview.earthdata.nasa.gov/'
 export const EUMETSAT_GEOSERVER = 'https://view.eumetsat.int/geoserver'
 export const EUMETSAT_WMS = `${EUMETSAT_GEOSERVER}/ows`
 export const PHOTON = 'https://photon.komoot.io'
+/** OSM's own geocoder: reverse lookups only, as Photon's backup (./geocode.ts reversePlace). */
+export const NOMINATIM = 'https://nominatim.openstreetmap.org'
 
 export type StacCollection = 'sentinel-2-l2a' | 'landsat-c2-l2'
 

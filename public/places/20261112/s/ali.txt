@@ -36,6 +36,7 @@ Alice|-32.787|26.834|ZA|Eastern Cape|85
 Alipur|33.649|73.178|PK|Islamabad|85
 Aliyābād|12.632|79.216|IN|Tamil Nadu|83
 Alijó|41.276|-7.475|PT|Vila Real|82
+Alice Springs Airport|-23.804|133.900|AU|Northern Territory|81|f
 Aliade|7.296|8.483|NG|Benue State|80
 Aliquippa|40.637|-80.240|US|Pennsylvania|79
 Aliabad|41.483|46.635|AZ|Zaqatala District|79
@@ -46,13 +47,17 @@ Alīgarh|25.965|76.083|IN|Rajasthan|78
 Ali-Yurt|43.142|44.852|RU|Ingushetiya Republic|78
 Alimodian|10.821|122.431|PH|Western Visayas|77
 Alifakı|36.883|34.995|TR|Mersin|76
+Alice International Airport|27.741|-98.027|US|Texas|75|f
+Alid Volcano|14.890|39.927|ER|Northern Red Sea|74|f
 Aliança do Tocantins|-11.306|-48.936|BR|Tocantins|74
 Alivéri|38.417|24.033|GR|Central Greece|74
 Ali-Berdukovskiy|43.990|41.742|RU|Karachayevo-Cherkesiya Republic|74
+Alicante-Elche Airport|38.282|-0.558|ES|Valencia|73|f
 Alicedale|-33.319|26.091|ZA|Eastern Cape|73
 Alibago|17.117|121.867|PH|Cagayan Valley|73
 Alicia|9.895|124.442|PH|Central Visayas|73
 Alíartos|38.367|23.100|GR|Central Greece|73
+Alindao Airport|5.016|21.201|CF|Basse-Kotto|72|f
 Alianza Real|25.851|-100.383|MX|Nuevo León|72
 Alitagtag|13.864|121.004|PH|Calabarzon|72
 Alibunar|45.081|20.966|RS|Vojvodina|72
@@ -86,6 +91,10 @@ Alijis|10.458|122.835|PH|Western Visayas|67
 Alimena|37.693|14.114|IT|Sicily|66
 Aliseda|39.423|-6.692|ES|Extremadura|66
 ‘Alī Beyglū|38.176|45.514|IR|East Azerbaijan|65
+Al Istād ar Riyāḑī bil Sīb|23.619|58.216|OM|Muscat|63|f
+Ali Shan Shanmo|23.527|120.729|TW|Taiwan|63|f
+Ali’ite Island|-10.139|161.926|SB||63|f
+Alicudi|38.544|14.352|IT|Sicily|63|f
 Alijilán|-28.179|-65.495|AR|Catamarca|63
 ‘Alīābād|34.099|51.385|IR|Isfahan|63
 Alizay|49.322|1.179|FR|Normandy|62
@@ -96,25 +105,80 @@ Aliminusa|37.864|13.781|IT|Sicily|62
 Alífeira|37.539|21.863|GR|West Greece|62
 Alía|39.448|-5.218|ES|Extremadura|61
 ‘Alīābād-e Kenār Shahr|36.898|54.521|IR|Golestan|61
+Ali-Sabieh Airport|11.147|42.718|DJ|Ali Sabieh|61|f
 ‘Alīābād-e Qeshlāq|37.232|46.069|IR|East Azerbaijan|61
 Alista|19.634|-103.789|MX|Jalisco|61
 Alissas|44.713|4.629|FR|Auvergne-Rhône-Alpes|61
 Alitaşı|37.813|39.665|TR|Diyarbakır Province|61
 Aliaj|42.257|19.427|AL|Shkodër County|60
+Alipaşa|41.112|28.220|TR|Istanbul|60
+Aliefendi|36.441|32.189|TR|Antalya|60
+Alioș|46.038|21.493|RO|Timiș County|60
 Alice Town|25.728|-79.297|BS|Bimini|60
+Aliefendioğlu|36.883|34.910|TR|Mersin|59
+‘Alīābād|31.107|51.426|IR|Isfahan|59
+Alija de los Melones|42.139|-5.835|ES|Castille and León|59
+‘Alīābād|35.446|51.182|IR|Tehran|59
+Alikianós|35.454|23.912|GR|Crete|59
 Aliaguilla|39.741|-1.326|ES|Castille-La Mancha|58
+Alissós|38.137|21.592|GR|West Greece|58
 Alì|38.027|15.419|IT|Sicily|58
+Alibahadır|41.178|29.206|TR|Istanbul|58
+Alix|52.400|-113.185|CA|Alberta|58
 Aliano|40.314|16.230|IT|Basilicate|58
+Alitzé|21.559|-99.073|MX|San Luis Potosí|58
+Ali Alikro|7.382|-5.038|CI|Lacs District|57
+Alisofu|40.343|42.680|TR|Kars Province|57
+Alix|45.913|4.654|FR|Auvergne-Rhône-Alpes|57
+Alise-Sainte-Reine|47.538|4.486|FR|Bourgogne-Franche-Comté|57
+‘Ālī Changī|28.956|51.062|IR|Bushehr|57
+Alıçören|40.766|31.761|TR|Bolu|56
+Alibey|37.238|40.094|TR|Mardin|56
+Alibey|37.941|40.820|TR|Diyarbakır Province|56
+Aliabad-e Keshmar|35.292|58.100|IR|Razavi Khorasan|56
+Alihocalı|36.933|35.400|TR|Adana|56
+‘Alīābād|30.770|52.559|IR|Fars|55
+Alibeyli|37.114|34.845|TR|Mersin|55
 Alicún de Ortega|37.609|-3.136|ES|Andalusia|55
+Aliköy|41.398|32.034|TR|Zonguldak Province|55
+Alibardak|38.102|40.425|TR|Diyarbakır Province|55
+Aliceni|45.263|26.864|RO|Buzău County|55
+‘Alī Sarā|37.311|49.702|IR|Gilan Province|55
+Ali Pulan Airport|30.398|81.139|CN|Tibet|54|f
+Alibey Barajı|41.103|28.920|TR|Istanbul|54|f
+Alifushi|5.967|72.954|MV||54|f
+Aligarh Airport|27.858|78.149|IN|Uttar Pradesh|54|f
+Alīgarh Fort|27.930|78.063|IN|Uttar Pradesh|54|f
+Alison Bugt|74.533|-56.417|GL|Avannaata|54|f
+Alite Island|-8.898|160.734|SB||54|f
+Aliveren|37.212|29.426|TR|Denizli|54
+Ali Oune|11.392|43.142|DJ|Ali Sabieh|54
 Alianza Cristiana|-3.475|-76.434|PE|Loreto|53
 Alıcık|40.803|35.323|TR|Amasya|52
 Alió|41.294|1.306|ES|Catalonia|52
 Aliaga|40.674|-0.703|ES|Aragon|52
 Alice Superiore|45.461|7.779|IT|Piedmont|51
+Ali Island|-3.127|142.470|PG|Sandaun Province|49|f
+Ali Pasha Castle|39.742|19.992|AL|Vlorë County|49|f
+Alianza|-28.628|-70.622|CL|Atacama|49|f
+Alibi, Mount|-65.912|-62.685|AQ||49|f
+Alice Gade, Mount|-85.750|-163.667|AQ||49|f
+Alice Glacier|-83.967|170.000|AQ||49|f
+Alison Hartman Gardens|-35.023|117.883|AU|Western Australia|49|f
+Alistair Knox Park|-37.718|145.144|AU|Victoria|49|f
 Alice Bel Colle|44.726|8.451|IT|Piedmont|48
 Alicún|36.966|-2.602|ES|Andalusia|48
 Alis|-12.279|-75.787|PE|Lima region|46
 Al ‘Inān|16.722|44.313|YE|Al Jawf|40
+Aliah University|22.590|88.487|IN|West Bengal|40|f
+Alibates Flint Quarries National Monument|35.582|-101.672|US|Texas|40|f
+Alice Arm|55.449|-129.567|CA|British Columbia|40|f
+Alice Lake Park|49.783|-123.119|CA|British Columbia|40|f
+Aliceville Lake|33.239|-88.285|US|Alabama|40|f
+Alidade Lake|43.961|-115.165|US|Idaho|40|f
+Aligarh Muslim University|27.913|78.078|IN|Uttar Pradesh|40|f
+Alikdjuak Island|68.068|-65.463|CA|Nunavut|40|f
+Alison Sound|51.250|-127.003|CA|British Columbia|40|f
 Alique|40.587|-2.644|ES|Castille-La Mancha|32
 Aliud|41.654|-2.253|ES|Castille and León|30
 ‘Alī Khēl|33.943|69.719|AF|Paktia|0
@@ -124,3 +188,4 @@ Aliabad|36.307|74.615|PK|Gilgit-Baltistan|0
 Aliero|12.288|4.471|NG|Kebbi|0
 Aliko|39.859|20.079|AL|Vlorë County|0
 Alilem|16.886|120.530|PH|Ilocos|0
+Aliuroba|-8.238|123.790|ID|East Nusa Tenggara|0

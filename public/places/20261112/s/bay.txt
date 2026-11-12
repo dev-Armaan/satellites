@@ -20,6 +20,7 @@ Bayiji|34.267|117.683|CN|Jiangsu|96
 Bayburt Province|40.259|40.226|TR||95|r
 Bayt Lāhyā|31.546|34.495|PS|Gaza Strip|95
 Bayan|46.076|127.394|CN|Heilongjiang|95
+Bay of Bengal|13.539|87.671|||95|f
 Bayombong|16.481|121.150|PH|Cagayan Valley|94
 Bayburt|40.256|40.223|TR|Bayburt Province|94
 Bayonne|43.493|-1.473|FR|New Aquitaine|93
@@ -65,6 +66,8 @@ Bay Village|41.485|-81.922|US|Ohio|84
 Bayt Sāḩūr|31.701|35.226|PS|West Bank|83
 Bayswater|-31.917|115.918|AU|Western Australia|83
 Bayou Boeuf|29.869|-90.597|US|Louisiana|83
+Bay of All Saints|-12.873|-38.575|BR|Bahia|83|f
+Bay of Vlorë|40.435|19.429|AL||83|f
 Bayview Woods-Steeles|43.797|-79.382|CA|Ontario|82
 Baytūnyā|31.897|35.170|PS|West Bank|82
 Bayt Ūmmar|31.623|35.104|PS|West Bank|82
@@ -72,10 +75,13 @@ Bayswater|-37.850|145.267|AU|Victoria|81
 Baykan|38.158|41.773|TR|Siirt|81
 Bayt al ‘Awābī|23.303|57.525|OM|Al Batinah South|81
 Bayt Fajjār|31.624|35.155|PS|West Bank|80
+Bay of Cádiz|36.559|-6.268|ES|Andalusia|80|f
 Bayt Fūrīk|32.177|35.335|PS|West Bank|80
 Bay Saint Louis|30.309|-89.330|US|Mississippi|79
 Bayt Ūlā|31.596|35.030|PS|West Bank|79
 Bay Minette|30.883|-87.773|US|Alabama|79
+Baykit Airport|61.678|96.354|RU|Krasnoyarsk Krai|79|f
+Bayonne Bridge|40.642|-74.142|US|New Jersey|79|f
 Bayanga|2.905|16.260|CF|Sangha-Mbaéré|79
 Bayport|40.738|-73.051|US|New York|79
 Baytā al Fawqā|32.143|35.288|PS|West Bank|79
@@ -84,18 +90,24 @@ Bayt Liqyā|31.870|35.065|PS|West Bank|78
 Bayt Yāfā|32.523|35.786|JO|Irbid|78
 Bayganin|48.690|55.875|KZ|Aktobe|78
 Bay Wood|40.750|-73.291|US|New York|77
+Bay City Municipal Airport|28.973|-95.864|US|Texas|77|f
 Bayville|40.911|-73.562|US|New York|77
+Bay of Greifswald|54.232|13.563|DE|Mecklenburg-Vorpommern|76|f
+Bay of Riga|57.937|23.520|||76|f
 Bayang|7.793|124.192|PH|Autonomous Region in Muslim Mindanao|76
 Baykalovo|57.396|63.768|RU|Sverdlovsk Oblast|76
 Bay Harbor Islands|25.888|-80.131|US|Florida|76
 Bay Roberts|47.600|-53.265|CA|Newfoundland and Labrador|76
 Bay|27.314|75.296|IN|Rajasthan|75
+Bayon|13.441|103.859|KH|Siem Reap|75|f
 Bay Harbor|45.364|-85.082|US|Michigan|75
 Bayt Līd|32.261|35.132|PS|West Bank|75
 Bayanaul|50.793|75.701|KZ|Pavlodar Region|75
 Bayt Kāḩil|31.570|35.065|PS|West Bank|75
 Bayat|40.646|34.261|TR|Çorum|75
 Bayānpur|28.963|77.008|IN|Haryana|75
+Bay of Biscay|44.951|-4.408|||74|f
+Bay of Pigs|22.180|-81.166|CU|Matanzas Province|74|f
 Bayevo|53.271|80.779|RU|Altai Krai|74
 Bayanga|7.521|124.252|PH|Autonomous Region in Muslim Mindanao|74
 Bayston Hill|52.675|-2.762|GB|England|74
@@ -114,11 +126,15 @@ Bāyqūt|37.156|46.054|IR|East Azerbaijan|72
 Baykit|61.677|96.379|RU|Krasnoyarsk Krai|71
 Bayport|45.021|-92.781|US|Minnesota|71
 Bayt Sūrīk|31.824|35.149|PS|West Bank|71
+Bay of Isles|-54.028|-37.387|GS||71|f
+Bayerischer Plöckenstein|48.772|13.831|CZ|South Bohemian Region|71|f
 Bayanan|13.359|121.170|PH|Central Luzon|71
 Baylo|7.855|126.056|PH|Davao Region|71
 Bayt Dajan|32.193|35.371|PS|West Bank|71
 Bayshore|34.290|-77.787|US|North Carolina|71
 Bayt Ībā|32.237|35.210|PS|West Bank|70
+Bay Minette Municipal Airport|30.872|-87.820|US|Alabama|70|f
+Bayas Island|11.435|123.184|PH|Western Visayas|70|f
 Bayaoas|15.834|120.265|PH|Ilocos|70
 Bayuin|13.041|121.389|PH|Mimaropa|70
 Bay-Khaak|51.161|94.464|RU|Republic of Tyva|70
@@ -132,6 +148,9 @@ Bayanday|53.061|105.507|RU|Irkutsk Oblast|69
 Bayswater|-36.816|174.773|NZ|Auckland|69
 Bayt Imrīn|32.293|35.216|PS|West Bank|69
 Bayt Sīrā|31.888|35.046|PS|West Bank|69
+Bay Island|10.493|103.595|KH|Preah Sihanouk|69|f
+Bay of Harbours|-52.250|-59.250|FK||69|f
+Bay of Islands|-35.184|174.165|NZ|Northland|69|f
 Bayou La Batre|30.404|-88.249|US|Alabama|68
 Bayt Maqdum|31.535|34.972|PS|West Bank|68
 Bayfield|37.226|-107.598|US|Colorado|68
@@ -143,6 +162,7 @@ Bay View|-39.420|176.867|NZ|Hawke's Bay Region|68
 Bayzhansay|43.167|69.915|KZ|Turkistan|68
 Bayas|11.434|123.182|PH|Western Visayas|67
 Bayard|32.762|-108.131|US|New Mexico|67
+Bay of Mali Ston|42.917|17.550|BA||67|f
 Bay Horse|53.969|-2.776|GB|England|67
 Bay Park|40.633|-73.670|US|New York|67
 Baybay|13.408|123.713|PH|Bicol Region|67
@@ -151,6 +171,10 @@ Bayt ‘Amrah|31.450|35.050|PS|West Bank|67
 Bayou Gauche|29.787|-90.413|US|Louisiana|66
 Bayraky|48.115|26.130|UA|Chernivtsi|65
 Baychunas|47.240|52.940|KZ|Atyrau Oblisi|65
+Bay Islet|22.336|114.334|HK||65|f
+Bay of Anfile|14.775|40.787|ER|Southern Red Sea|65|f
+Bay of Kotor|42.406|18.539|ME||65|f
+Baynes Mountains|-17.152|12.901|NA|Kunene Region|65|f
 Bay|35.742|-90.562|US|Arkansas|65
 Bayt ‘Īnūn|31.559|35.124|PS|West Bank|65
 Bayview|38.007|-122.319|US|California|65
@@ -165,6 +189,10 @@ Bayou Vista|29.326|-94.939|US|Texas|64
 Bay Bulls|47.317|-52.815|CA|Newfoundland and Labrador|64
 Bayunovskiye Klyuchi|53.328|84.182|RU|Altai Krai|64
 Bayard-sur-Marne|48.554|5.077|FR|Grand Est|63
+Bay of Hawakil|15.039|40.212|ER|Northern Red Sea|63|f
+Bay of the Sheep|-37.444|-73.603|CL|Biobio|63|f
+Bay View Airport|48.470|-122.424|US|Washington|63|f
+Bayan Nuur|48.450|95.117|MN|Dzabkhan|63|f
 Bayon|48.474|6.316|FR|Grand Est|63
 Bayangol|50.698|103.466|RU|Buryatiya Republic|63
 Bayt Qād|32.470|35.356|PS|West Bank|63
@@ -174,18 +202,114 @@ Bayboro|35.143|-76.770|US|North Carolina|62
 Bayt Ta‘mar|31.679|35.240|PS|West Bank|62
 Bayard|41.755|-103.324|US|Nebraska|61
 Bayan-Kol|51.580|93.553|RU|Republic of Tyva|61
+Bay of Algeciras|36.139|-5.396|GI||61|f
+Bay of Moskitia|11.000|-81.810|||61|f
+Bay of Pillars|56.602|-134.253|US|Alaska|61|f
+Bay Point|-64.764|-63.417|AQ||61|f
+Bayannur Airport|40.926|107.739|CN|Inner Mongolia|61|f
+Baydaratskaya Guba|69.000|67.500|RU|Yamalo-Nenets|61|f
 Bayt Ḩasan|32.238|35.404|PS|West Bank|61
 Bay St. George South|48.228|-58.842|CA|Newfoundland and Labrador|61
 Baybuzivka|48.115|29.902|UA|Odesa|60
 Bayt Wazan|32.231|35.216|PS|West Bank|60
+Bayékou-Bassi|6.211|-5.911|CI|Goh-Djiboua|60
+Bayt Amīn|32.131|35.021|PS|West Bank|60
+Baye|47.857|-3.605|FR|Brittany|60
+Bay Head|40.072|-74.054|US|New Jersey|60
+Bayt ar Rūsh al Fawqā|31.452|34.926|PS|West Bank|60
+Bayraklar|36.642|29.888|TR|Antalya|59
+Bayenghem-lès-Éperlecques|50.808|2.121|FR|Hauts-de-France|59
+Baysu|38.150|40.103|TR|Diyarbakır Province|59
+Bayındır|36.189|29.681|TR|Antalya|59
+Bayside Gardens|45.714|-123.915|US|Oregon|59
+Bayel|48.198|4.778|FR|Grand Est|59
+Bayt ‘Ūr al Fawqā|31.885|35.115|PS|West Bank|59
+Bayankhongor Airport|46.163|100.704|MN|Bayankhongor|58|f
+Bayview Stadium|56.189|-2.999|GB|Scotland|58|f
+Bayandur|40.693|43.771|AM|Shirak|58
+Bayatlı|37.164|37.048|TR|Gaziantep|58
+Bay Shore|45.358|-85.097|US|Michigan|58
+Bayraktutan|40.005|43.910|TR|Iğdır|57
+Bayon-sur-Gironde|45.050|-0.583|FR|New Aquitaine|57
+Bay View|48.484|-122.478|US|Washington|57
+Bayt Ijzā|31.847|35.152|PS|West Bank|57
+Baydon|51.500|-1.597|GB|England|56
+Bay View|41.433|-82.960|US|Ohio|56
+Bayet|46.248|3.269|FR|Auvergne-Rhône-Alpes|56
+Bayıryüzü|41.526|32.451|TR|Bartın|56
+Bayersried|48.260|10.449|DE|Bavaria|56
+Bayalemo Dos|16.934|-92.767|MX|Chiapas|56
+Bay View|41.469|-82.827|US|Ohio|56
+Bayou Goula|30.210|-91.169|US|Louisiana|56
+Bayola|8.134|-7.933|CI|Woroba|56
+Bayramhacılı|37.090|35.316|TR|Adana|55
+Bayraklı|37.994|41.183|TR|Batman|55
+Bayırkonağı|37.591|40.096|TR|Diyarbakır Province|55
+Bay Chene Fleur|29.484|-89.895|US|Louisiana|54|f
+Bay Farm Island|37.731|-122.227|US|California|54|f
+Bay Island|33.607|-117.905|US|California|54|f
+Bay Lake|46.390|-93.855|US|Minnesota|54|f
+Bay of Santander|43.440|-3.801|ES|Cantabria|54|f
+Baya Mountain|7.786|124.097|PH|Autonomous Region in Muslim Mindanao|54|f
+Bayard Islands|-64.943|-63.223|AQ||54|f
+Bayet Peak|-65.061|-62.979|AQ||54|f
+Bayfront Park|25.777|-80.186|US|Florida|54|f
+Bayındır Barajı|39.914|32.992|TR|Ankara|54|f
+Bayle, Cape|-64.283|-63.200|AQ||54|f
+Bayly Glacier|-64.633|-61.800|AQ||54|f
+Bayonne, Mount|-68.913|-70.966|AQ||54|f
+Bayramiç Barajı|39.824|26.667|TR|Canakkale|54|f
+Baytown Airport|29.787|-94.957|US|Texas|54|f
 Bayamón|7.968|-78.216|PA|Embera|53
+Bayerfeld-Steckweiler|49.679|7.798|DE|Rheinland-Pfalz|53
+Bāyjān|35.984|52.282|IR|Māzandarān|52
 Bayárcal|37.031|-2.996|ES|Andalusia|49
+Bay Islands|14.217|121.283|PH|Calabarzon|49|f
+Bay of Fires|-41.120|148.297|AU|Tasmania|49|f
+Bay of Linton|59.050|-2.817|GB|Scotland|49|f
+Bay of Scousburgh|59.950|-1.333|GB|Scotland|49|f
+Bay of Skaill|59.050|-3.333|GB|Scotland|49|f
+Baynes Island|-40.770|147.930|AU|Tasmania|49|f
+Bayou Plaquemine Lock|30.292|-91.235|US|Louisiana|49|f
+Bayview Park|-33.858|151.121|AU|New South Wales|49|f
 Bayarque|37.331|-2.436|ES|Andalusia|48
 Bayubas de Abajo|41.527|-2.896|ES|Castille and León|47
 Bayano|7.638|-80.385|PA|Los Santos Province|47
+Bay Area Museum|29.569|-95.069|US|Texas|40|f
+Bay Bridge Airport|38.975|-76.328|US|Maryland|40|f
+Bay d'Espoir|47.667|-56.115|CA|Newfoundland and Labrador|40|f
+Bay de Grave|47.583|-53.215|CA|Newfoundland and Labrador|40|f
+Bay de Loup|47.650|-57.532|CA|Newfoundland and Labrador|40|f
+Bay de Verde Peninsula|48.117|-52.931|CA|Newfoundland and Labrador|40|f
+Bay Lake|28.415|-81.572|US|Florida|40|f
+Bay Le Moine|47.650|-58.632|CA|Newfoundland and Labrador|40|f
+Bay of Exploits|49.333|-55.165|CA|Newfoundland and Labrador|40|f
+Bay of Gods Mercy|63.501|-86.167|CA|Nunavut|40|f
+Bay of Islands|49.167|-58.232|CA|Newfoundland and Labrador|40|f
+Bay of Quinte|44.150|-77.249|CA|Ontario|40|f
+Bay of Wrecks|1.867|-157.333|KI|Line Islands|40|f
+Bay Saint Louis Bridge|30.318|-89.307|US|Mississippi|40|f
+Bay Springs Lake|34.575|-88.314|US|Mississippi|40|f
+Bayard Truss Bridge|39.274|-79.370|US|West Virginia|40|f
+Bayas Islets|11.433|123.183|PH|Western Visayas|40|f
+Bayers Lake|44.643|-63.671|CA|Nova Scotia|40|f
+Bayle Mountain|43.784|-71.251|US|New Hampshire|40|f
+Bayles Lake|40.531|-88.096|US|Illinois|40|f
+Baylor Ballpark|31.551|-97.108|US|Texas|40|f
+Baynard Castle|53.782|-0.422|GB|England|40|f
+Bayou Cocodrie National Wildlife Refuge|31.553|-91.621|US|Louisiana|40|f
+Bayou Sauvage National Wildlife Refuge|30.047|-89.842|US|Louisiana|40|f
+Bayou Segnette State Park|29.891|-90.160|US|Louisiana|40|f
+Bayou Teche National Wildlife Refuge|29.753|-91.498|US|Louisiana|40|f
+Bayport Aerodrome|40.760|-73.052|US|New York|40|f
+Bayville Bridge|40.903|-73.549|US|New York|40|f
 Bayubas de Arriba|41.557|-2.887|ES|Castille and León|37
 Bay|41.792|81.864|CN|Xinjiang|0
 Bayabas|8.970|126.286|PH|Caraga|0
+Bayad|-8.447|115.242|ID|Bali|0
+Bayah|-6.928|106.255|ID|Banten|0
+Bayan|36.766|101.132|CN|Qinghai|0
+Bayan|-8.269|116.425|ID|West Nusa Tenggara|0
 Bayan|49.433|99.600|MN|Khövsgöl Province|0
 Bayan|46.993|95.200|MN|Govi-Altai Province|0
 Bayan|48.550|111.083|MN|Hentiy|0
@@ -193,17 +317,28 @@ Bayan|47.917|112.950|MN|East Aimak|0
 Bayan|47.450|103.150|MN|Arkhangai Province|0
 Bayan|47.167|110.817|MN|Hentiy|0
 Bayan|46.250|110.167|MN|East Gobi Aymag|0
+Bayan Bulag|44.233|115.950|CN|Inner Mongolia|0
+Bayan Ewenke Minzu|49.462|124.766|CN|Inner Mongolia|0
+Bayan Gol|46.567|122.483|CN|Inner Mongolia|0
 Bayan Huxu|45.150|121.400|CN|Inner Mongolia|0
+Bayan Huxu|44.883|117.483|CN|Inner Mongolia|0
+Bayan Qagan|46.339|124.045|CN|Heilongjiang|0
+Bayan Tal|44.400|120.450|CN|Inner Mongolia|0
+Bayan Tug|44.917|114.650|CN|Inner Mongolia|0
 Bayan Tuohai|49.133|119.733|CN|Inner Mongolia|0
 Bayan Uula Sumu|45.167|101.400|MN|Övörhangay|0
 Bayan-Ovoo|44.617|94.917|MN|Govi-Altai Province|0
 Bayan-Ovoo|49.017|111.633|MN|Hentiy|0
 Bayan-Uhaa|48.719|98.792|MN|Dzabkhan|0
 Bayan-Ulaan|46.522|102.594|MN|Övörhangay|0
+Bayanan|-8.103|111.913|ID|East Java|0
+Bayanbaogede|41.232|100.478|CN|Inner Mongolia|0
 Bayanbaraat|46.867|106.250|MN|Central Aimak|0
 Bayanbulag|46.810|98.090|MN|Bayankhongor|0
 Bayanbulag|47.867|109.917|MN|Hentiy|0
 Bayandelger|47.727|108.111|MN|Central Aimak|0
+Bayang|30.933|108.588|CN|Chongqing|0
+Bayangang|46.043|127.541|CN|Heilongjiang|0
 Bayangol|45.557|94.364|MN|Govi-Altai Province|0
 Bayanhoshuu|48.233|91.917|MN|Hovd|0
 Bayanhoshuu|46.702|100.143|MN|Bayankhongor|0
@@ -211,10 +346,19 @@ Bayansayr|45.555|99.433|MN|Bayankhongor|0
 Bayantal|46.562|108.304|MN|Govĭ-Sumber|0
 Bayantöhöm|46.917|105.050|MN|Central Aimak|0
 Bayantsagaan|48.732|100.760|MN|Arkhangai Province|0
+Bayart Huxu|45.100|120.350|CN|Inner Mongolia|0
+Bayasari Kulon|-7.176|108.423|ID|West Java|0
 Bayasgalant|47.179|108.260|MN|Central Aimak|0
 Bayasgalant|46.983|112.050|MN|Sühbaatar|0
+Bayeman|-7.602|109.220|ID|Central Java|0
+Bayeman|-7.796|114.128|ID|East Java|0
 Bayeuen|4.590|97.909|ID|Aceh|0
 Bayḩān|14.801|45.719|YE|Shabwah|0
+Bayi’awati|39.090|77.084|CN|Xinjiang|0
+Bayin|41.624|112.632|CN|Inner Mongolia|0
+Bayin Tala Dahan’er Minzu|49.016|119.726|CN|Inner Mongolia|0
+Bayinaobao|46.845|86.136|CN|Heilongjiang|0
+Baying|25.647|115.969|CN|Jiangxi|0
 Bayinsai|39.500|106.720|CN|Inner Mongolia|0
 Bayongbong|-7.272|107.820|ID|West Java|0
 Bayraklı|38.467|27.164|TR|İzmir Province|0
@@ -224,4 +368,6 @@ Bayshint|47.417|104.817|MN|Central Aimak|0
 Bayt ‘Adhāqah|15.616|43.702|YE|Omran|0
 Bayt Marrān|15.693|44.205|YE|Sanaa Governorate|0
 Bayt Yāshūţ|35.310|36.115|SY|Latakia|0
+Bayu|34.337|107.277|CN|Shaanxi|0
 Bayunglincir|-2.055|103.683|ID|South Sumatra|0
+Bayuwan|-8.321|123.141|ID|East Nusa Tenggara|0

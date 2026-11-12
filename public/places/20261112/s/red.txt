@@ -1,5 +1,7 @@
 Red Sea|19.967|35.667|SD||116|r
 Red Sea|27.186|33.788|EG||114|r
+Red Square|55.754|37.620|RU|Moscow|104|f
+Red Fort, Delhi|28.655|77.240|IN|Uttar Pradesh|101|f
 Red Deer|52.267|-113.802|CA|Alberta|100
 Redding|40.587|-122.392|US|California|99
 Redditch|52.306|-1.946|GB|England|99
@@ -13,6 +15,7 @@ Redford|42.383|-83.297|US|Michigan|94
 Redruth|50.233|-5.224|GB|England|93
 Redcliff|-19.033|29.783|ZW|Midlands Province|92
 Redcar|54.617|-1.060|GB|England|91
+Red Sea|20.267|38.535|||90|f
 Redan|33.745|-84.132|US|Georgia|90
 Reddipālaiyam|13.108|80.121|IN|Tamil Nadu|89
 Redondela|42.283|-8.610|ES|Galicia|89
@@ -38,23 +41,28 @@ Redentora|-27.664|-53.638|BR|Rio Grande do Sul|80
 Redlynch|-16.925|145.696|AU|Queensland|80
 Red Bank|33.932|-81.238|US|South Carolina|80
 Redon|47.652|-2.084|FR|Brittany|80
+Redding Municipal Airport|40.509|-122.294|US|California|79|f
 Redlands|39.079|-108.636|US|Colorado|79
 Redenção do Gurguéia|-9.489|-44.582|BR|Piauí|78
+Redange|49.797|5.887|LU||78|r
 Reduto|-20.219|-41.983|BR|Minas Gerais|78
 Red Bay Estate|19.287|-81.341|KY||78
 Rednitzhembach|49.301|11.080|DE|Bavaria|77
 Rediu|47.217|27.500|RO|Iași County|76
 Redován|38.116|-0.910|ES|Valencia|76
+Red Bluff Municipal Airport|40.151|-122.253|US|California|76|f
+Redondo Peak|35.872|-106.561|US|New Mexico|76|f
 Red Lion|39.901|-76.606|US|Pennsylvania|76
 Red Chute|32.556|-93.613|US|Louisiana|76
 Red Lion|40.481|-75.616|US|Pennsylvania|76
 Reddersburg|-29.653|26.168|ZA|Free State|75
 Redondo|38.649|-7.547|PT|Évora|75
+Red Lake Airport|51.067|-93.793|CA|Ontario|75|f
 Redcliff|50.083|-110.785|CA|Alberta|75
 Red Oak|41.010|-95.226|US|Iowa|75
-Redange|49.797|5.887|LU||75|r
 Red Hill|-20.317|148.500|AU|Queensland|75
 Red Cliffs|-34.309|142.190|AU|Victoria|74
+Redlands Municipal Airport|34.085|-117.146|US|California|74|f
 Rediu|46.756|26.563|RO|Neamț County|74
 Redbourn|51.799|-0.396|GB|England|74
 Redwood Falls|44.539|-95.117|US|Minnesota|74
@@ -62,7 +70,11 @@ Rędziny|50.859|19.216|PL|Silesia|74
 Redenção da Serra|-23.282|-45.533|BR|São Paulo|73
 Red Lake|51.017|-93.827|CA|Ontario|73
 Redwood|29.810|-97.911|US|Texas|73
+Red Sucker Lake Airport|54.167|-93.557|CA|Manitoba|72|f
+Redoubt Volcano|60.485|-152.743|US|Alaska|72|f
 Rediu|45.717|27.833|RO|Galați County|72
+Red Bay|51.733|-56.415|CA|Newfoundland and Labrador|71|f
+Red Lion Airport|39.904|-74.750|US|New Jersey|71|f
 Red Oaks Mill|41.656|-73.875|US|New York|71
 Red Bud|38.212|-89.994|US|Illinois|71
 Red Springs|34.815|-79.183|US|North Carolina|71
@@ -72,6 +84,9 @@ Redea|44.050|24.300|RO|Olt|70
 Red Bay|34.440|-88.141|US|Alabama|70
 Redessan|43.831|4.496|FR|Occitanie|70
 Reding|46.817|14.850|AT|Carinthia|69
+Redcliffe Airport|-15.472|167.835|VU|Penama|69|f
+Redoubt Lake|56.888|-135.250|US|Alaska|69|f
+Redwing Airport|40.027|-74.692|US|New Jersey|69|f
 Redlynch|51.099|-2.427|GB|England|69
 Redwood|42.422|-123.387|US|Oregon|68
 Redding|55.989|-3.732|GB|Scotland|68
@@ -82,6 +97,8 @@ Red Hill|40.373|-75.481|US|Pennsylvania|68
 Redfield|44.876|-98.519|US|South Dakota|68
 Reddivaripalle|13.603|79.047|IN|Andhra Pradesh|67
 Red Bank Village|16.616|-88.559|BZ|Stann Creek|67
+Redcliffe Airport|-27.206|153.069|AU|Queensland|67|f
+Redoubt St. Archangel Michael|57.130|-135.373|US|Alaska|67|f
 Red Lodge|45.186|-109.247|US|Montana|67
 Redington Shores|27.826|-82.829|US|Florida|67
 Redcliffs|-43.562|172.737|NZ|Canterbury|67
@@ -89,6 +106,10 @@ Redgranite|44.042|-89.098|US|Wisconsin|66
 Red Hook|41.995|-73.875|US|New York|66
 Redstone Arsenal|34.684|-86.648|US|Alabama|66
 Redemption|13.164|-61.229|VC|Saint Andrew Parish|65
+Red Flag Canal|36.234|113.818|CN|Henan|65|f
+Red Yit|25.274|119.519|CN|Fujian|65|f
+Redcloud Peak|37.941|-107.422|US|Colorado|65|f
+Redwood Falls Municipal Airport|44.545|-95.080|US|Minnesota|65|f
 Red Lake|47.876|-95.017|US|Minnesota|65
 Redwood Valley|39.265|-123.204|US|California|65
 Red|16.999|74.152|IN|Maharashtra|64
@@ -97,6 +118,14 @@ Redfield|34.445|-92.183|US|Arkansas|64
 Réde|47.430|17.914|HU|Komárom-Esztergom|64
 Red Head|45.249|-66.000|CA|New Brunswick|64
 Redington Beach|27.809|-82.811|US|Florida|63
+Red Bluff Dam|31.901|-103.911|US|Texas|63|f
+Red Cedar Lake|41.554|-72.228|US|Connecticut|63|f
+Red Deer Regional Airport|52.180|-113.893|CA|Alberta|63|f
+Red Hills Lake|13.164|80.178|IN|Tamil Nadu|63|f
+Red Mountain|37.112|-105.181|US|Colorado|63|f
+Red Rock Ridge|-68.295|-67.073|AQ||63|f
+Red Table Mountain|39.418|-106.771|US|Colorado|63|f
+Redl Zipf Concentration Camp (Schlier)|48.032|13.506|AT|Upper Austria|63|f
 Red Corral|38.412|-120.606|US|California|63
 Rediu|47.240|26.864|RO|Iași County|63
 Red Lake Falls|47.882|-96.274|US|Minnesota|63
@@ -106,6 +135,19 @@ Redway|40.120|-123.823|US|California|62
 Red Lake|51.067|-93.734|CA|Ontario|61
 Redange-sur-Attert|49.764|5.890|LU|Redange|61
 Red Boiling Springs|36.533|-85.850|US|Tennessee|61
+Red Bluff Diversion Dam|40.153|-122.202|US|California|61|f
+Red Eagle Mountain|48.654|-113.549|US|Montana|61|f
+Red Lake Peak|38.714|-119.987|US|California|61|f
+Red Mountain|48.536|-113.424|US|Montana|61|f
+Red Mountain|47.392|-121.145|US|Washington|61|f
+Red Mountain|46.298|-119.441|US|Washington|61|f
+Red Mountain|43.978|-110.872|US|Wyoming|61|f
+Red Rock Canyon National Conservation Area|36.152|-115.454|US|Nevada|61|f
+Red Slate Mountain|37.507|-118.869|US|California|61|f
+Redds Pond|42.510|-70.848|US|Massachusetts|61|f
+Redhorn Peak|48.865|-114.007|US|Montana|61|f
+Redonda Mesa|33.491|-117.346|US|California|61|f
+Redondo Point|-65.204|-64.075|AQ||61|f
 Rediu|48.231|26.778|RO|Botoșani County|61
 Reduzum|53.118|5.788|NL|Friesland|61
 Redwater|33.358|-94.254|US|Texas|61
@@ -113,11 +155,159 @@ Redland|31.404|-94.721|US|Texas|60
 Redavalle|45.038|9.202|IT|Lombardy|60
 Red Lick|33.465|-94.171|US|Texas|60
 Red Cloud|40.089|-98.519|US|Nebraska|60
+Reddelich|54.089|11.851|DE|Mecklenburg-Vorpommern|59
+Red Rock|48.945|-88.260|CA|Ontario|59
+Reddeber|51.866|10.804|DE|Saxony-Anhalt|59
+Redfield|41.589|-94.196|US|Iowa|59
+Reda|44.302|11.969|IT|Emilia-Romagna|59
+Redención del Campesino|17.328|-91.284|MX|Tabasco|59
+Rediu|47.010|27.005|RO|Neamț County|59
+Rédange|49.494|5.919|FR|Grand Est|58
 Redondesco|45.166|10.512|IT|Lombardy|58
+Red Bridge|41.827|-71.380|US|Rhode Island|58|f
+Red Butte|35.820|-112.090|US|Arizona|58|f
+Red Cones|37.589|-119.058|US|California|58|f
+Red Hills|37.840|-120.458|US|California|58|f
+Red Mountain|35.523|-111.875|US|Arizona|58|f
+Red Mountain|47.456|-121.389|US|Washington|58|f
+Red Mountains|37.221|-113.688|US|Utah|58|f
+Red Peak|38.925|-120.221|US|California|58|f
+Red Screes|54.471|-2.933|GB|England|58|f
+Red Sea Hills|27.900|33.550|EG||58|f
+Red Wing Regional Airport|44.589|-92.481|US|Wisconsin|58|f
+Redan Island|63.184|-67.864|CA|Nunavut|58|f
+Rediu|46.682|23.693|RO|Cluj County|58
+Redipiano|39.353|16.316|IT|Calabria|57
+Red Cross|35.267|-80.356|US|North Carolina|57
+Redmond|39.006|-111.862|US|Utah|57
+Redipuglia|45.846|13.486|IT|Friuli Venezia Giulia|57
+Reddell|30.674|-92.426|US|Louisiana|57
+Redekin|52.466|12.076|DE|Saxony-Anhalt|57
+Rediu Galian|46.886|27.732|RO|Vaslui County|57
+Redișoara|44.042|24.347|RO|Olt|56
+Redwater|32.767|-89.537|US|Mississippi|56
+Redwood|44.301|-75.801|US|New York|56
+Rediu|47.541|27.241|RO|Botoșani County|55
+Red Jacket|37.648|-82.140|US|West Virginia|55
+Redfield|43.533|-75.822|US|New York|55
+Redefin|53.349|11.203|DE|Mecklenburg-Vorpommern|55
+Red Rock|-29.985|153.226|AU|New South Wales|54
+Red Bluff Reservoir|31.949|-103.939|US|Texas|54|f
+Red Bridge|44.519|-72.677|US|Vermont|54|f
+Red Castle|40.800|-110.462|US|Utah|54|f
+Red Dog Airport|68.029|-162.909|US|Alaska|54|f
+Red Fort|34.383|73.465|PK|Azad Kashmir|54|f
+Red Hills|37.342|-99.080|US|Kansas|54|f
+Red Hills State Park Lake Dam|38.728|-87.838|US|Illinois|54|f
+Red Kaweah|36.540|-118.506|US|California|54|f
+Red Lodge Airport|45.187|-109.268|US|Montana|54|f
+Red Mountain|48.600|-120.987|US|Washington|54|f
+Red Peak|37.654|-119.409|US|California|54|f
+Red Point|39.528|-75.981|US|Maryland|54|f
+Red Rock Lakes National Wildlife Refuge|44.638|-111.737|US|Montana|54|f
+Red Sea International Airport|25.625|37.087|SA|Tabuk Region|54|f
+Redenção Airport|-8.033|-49.980|BR|Pará|54|f
+Redhill Aerodrome|51.214|-0.139|GB|England|54|f
+Reds Wallowa Horse Ranch Airport|45.346|-117.627|US|Oregon|54|f
+Reddick|29.367|-82.197|US|Florida|54
+Red Creek|43.247|-76.724|US|New York|54
+Red Oak|34.951|-95.080|US|Oklahoma|54
 Redbourne|53.487|-0.536|GB|England|52
 Redlham|48.024|13.747|AT|Upper Austria|52
+Red and White Mountain|37.480|-118.857|US|California|49|f
+Red Arch Mountain|37.256|-112.949|US|Utah|49|f
+Red Bridge|-41.930|147.490|AU|Tasmania|49|f
+Red Buttress Peak|-76.817|162.350|AQ||49|f
+Red Castle, Angus|56.650|-2.511|GB|Scotland|49|f
+Red Covered Bridge|41.416|-89.478|US|Illinois|49|f
+Red Crow Mountain|48.402|-113.348|US|Montana|49|f
+Red Devil Airport|61.785|-157.342|US|Alaska|49|f
+Red Dog mine|68.072|-162.855|US|Alaska|49|f
+Red Face Mountain|48.890|-121.369|US|Washington|49|f
+Red House Hill|42.771|-74.905|US|New York|49|f
+Red Lake|-34.431|116.662|AU|Western Australia|49|f
+Red Oak Municipal Airport|41.015|-95.257|US|Iowa|49|f
+Red Point|18.330|-64.671|VI|Saint John Island|49|f
+Red Ridge|-77.100|162.133|AQ||49|f
+Red Rock Dam|-23.094|133.778|AU|Northern Territory|49|f
+Red Rock Peak|-71.967|166.083|AQ||49|f
+Red Wharf Bay|53.333|-4.167|GB|Wales|49|f
+Red Willow Dam|40.358|-100.668|US|Nebraska|49|f
+Redcastle Ridge|-72.433|169.950|AQ||49|f
+Redcliffe Bridge|-31.931|115.936|AU|Western Australia|49|f
+Rederangsee|53.456|12.752|DE|Mecklenburg-Vorpommern|49|f
+Redfearn Island|-68.613|77.888|AQ||49|f
+Redonda Island|16.938|-62.346|AG|Redonda|49|f
+Redonda Lagoon|-36.813|-73.068|CL|Biobio|49|f
+Redshaw Point|-64.316|-57.364|AQ||49|f
 Redueña|40.817|-3.598|ES|Madrid|47
 Redecilla del Camino|42.438|-3.065|ES|Castille and León|43
+Red Bank Battlefield|39.871|-75.190|US|New Jersey|40|f
+Red Bridge|41.541|-93.021|US|Iowa|40|f
+Red Cedar Lake|46.712|-79.937|CA|Ontario|40|f
+Red Cedar Lake|45.602|-91.583|US|Wisconsin|40|f
+Red Cliffs National Conservation Area|37.186|-113.554|US|Utah|40|f
+Red Deer Lake|46.406|-80.720|CA|Ontario|40|f
+Red Deer Lake|52.946|-101.362|CA|Manitoba|40|f
+Red Eagle Glacier|48.593|-113.619|US|Montana|40|f
+Red Eagle Lake|48.652|-113.507|US|Montana|40|f
+Red Fish Island|29.518|-94.892|US|Texas|40|f
+Red Hills|35.596|-120.250|US|California|40|f
+Red Hills of Dundee|45.286|-123.052|US|Oregon|40|f
+Red Hook Park|40.678|-74.008|US|New York|40|f
+Red Indian Lake|48.750|-56.748|CA|Newfoundland and Labrador|40|f
+Red Island|47.386|-54.177|CA|Newfoundland and Labrador|40|f
+Red Lake|28.404|-81.258|US|Florida|40|f
+Red Lake|46.179|-91.764|US|Wisconsin|40|f
+Red Lake|35.928|-109.041|US|New Mexico|40|f
+Red Lodge Provincial Park|51.950|-114.252|CA|Alberta|40|f
+Red Man Mountain|50.783|-115.535|CA|Alberta|40|f
+Red Mountain|49.083|-117.819|CA|British Columbia|40|f
+Red Mountain|51.200|-122.553|CA|British Columbia|40|f
+Red Mountain|45.064|-117.246|US|Oregon|40|f
+Red Oak Creek Covered Bridge|33.038|-84.552|US|Georgia|40|f
+Red Point Provincial Park|46.367|-62.132|CA|Prince Edward Island|40|f
+Red Ridge Hill|42.565|-74.968|US|New York|40|f
+Red River Bridge|33.356|-93.706|US|Arkansas|40|f
+Red River State Recreation Area|47.933|-97.036|US|Minnesota|40|f
+Red River Valley Museum|34.152|-99.320|US|Texas|40|f
+Red Rock Bridge|34.716|-114.488|US|California|40|f
+Red Rock Canyon State Park|35.449|-98.352|US|Oklahoma|40|f
+Red Rock Canyon State Park|35.361|-117.980|US|California|40|f
+Red Rock Dam|41.373|-92.981|US|Iowa|40|f
+Red Rock Lake|45.244|-66.735|CA|New Brunswick|40|f
+Red Rock Mountain|41.310|-76.325|US|Pennsylvania|40|f
+Red Rocks Park|39.670|-105.203|US|Colorado|40|f
+Red Sea University|19.611|37.221|SD||40|f
+Red Shirt Table|43.535|-102.874|US|South Dakota|40|f
+Red Square|47.656|-122.309|US|Washington|40|f
+Red Squirrel Lake|47.160|-80.024|CA|Ontario|40|f
+Red Willow Lake|47.647|-98.374|US|North Dakota|40|f
+Redberry Lake|52.700|-107.167|CA|Saskatchewan|40|f
+Reddish Knob|38.462|-79.242|US|Virginia|40|f
+Redemption Rock|42.509|-71.873|US|Massachusetts|40|f
+Redfern - Keily Park|57.433|-123.953|CA|British Columbia|40|f
+Redfish Bay|27.908|-97.113|US|Texas|40|f
+Redfish Lake|44.117|-114.932|US|Idaho|40|f
+Redford Theatre Historical Marker|42.417|-83.258|US|Michigan|40|f
+Redgrave and Lopham Fen|52.377|1.010|GB|England|40|f
+Redhorn Lake|48.865|-113.979|US|Montana|40|f
+Redinger Ditch|41.181|-86.171|US|Indiana|40|f
+Redonda Bay|50.262|-124.962|CA|British Columbia|40|f
+Redoubt Glacier|48.955|-121.276|US|Washington|40|f
+Redoubt Mountain|51.467|-116.085|CA|Alberta|40|f
+Redoubt Peak|52.683|-118.286|CA|Alberta|40|f
+Redpath Museum|45.504|-73.577|CA|Quebec|40|f
+Redpath Peaks|-80.467|-81.300|AQ||40|f
+Redrock Lake|48.796|-113.706|US|Montana|40|f
+Redruth Transmitting Station|50.210|-5.238|GB|England|40|f
+Redscar Bay|-9.165|146.809|PG|Central Province|40|f
+Redstone Lake|45.183|-78.538|CA|Ontario|40|f
+Redtop Mountain|50.317|-116.535|CA|British Columbia|40|f
+Redwater Lake|29.201|-81.890|US|Florida|40|f
+Redwood Bowl|40.877|-124.076|US|California|40|f
+Redwood Regional Park|37.814|-122.166|US|California|40|f
 Redecilla del Campo|42.467|-3.115|ES|Castille and León|38
+Redakodi|-9.454|119.227|ID|East Nusa Tenggara|0
 Redonda|16.939|-62.346|AG||0|r
 Redwick|51.553|-2.850|GB|Wales|0

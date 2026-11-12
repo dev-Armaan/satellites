@@ -22,6 +22,7 @@ Selangau|2.525|112.325|MY|Sarawak|86
 Selma|32.407|-87.021|US|Alabama|86
 Sélestat|48.262|7.449|FR|Grand Est|86
 Sel’tso|53.368|34.103|RU|Bryansk Oblast|85
+Selhurst Park|51.398|-0.086|GB|England|85|f
 Selb|50.171|12.131|DE|Bavaria|85
 Selouma|11.117|-10.983|GN|Faranah|82
 Selenginsk|52.006|106.865|RU|Buryatiya Republic|82
@@ -39,17 +40,21 @@ Selvíria|-20.367|-51.419|BR|Mato Grosso do Sul|78
 Selvazzano Dentro|45.388|11.792|IT|Veneto|78
 Selah|46.654|-120.530|US|Washington|78
 Selizharovo|56.852|33.449|RU|Tver Oblast|77
+Selfoss Airport|63.929|-21.038|IS|South|77|f
 Selenicë|40.531|19.636|AL|Vlorë County|77
 Selcetta|41.765|12.475|IT|Lazio|77
 Selamba|21.518|73.822|IN|Gujarat|77
 Séliéguhé|6.623|-6.868|CI|Sassandra-Marahoue|77
 Selattānpatti|11.663|78.095|IN|Tamil Nadu|76
+Selfridge Air National Guard Base|42.608|-82.835|US|Michigan|76|f
 Selma|35.537|-78.284|US|North Carolina|76
 Seloncourt|47.460|6.855|FR|Bourgogne-Franche-Comté|76
 Selim|40.458|42.783|TR|Kars Province|75
+Sélibaby Airport|15.180|-12.207|MR|Guidimaka|75|f
 Selinsgrove|40.799|-76.862|US|Pennsylvania|75
 Selkirk|55.547|-2.839|GB|Scotland|75
 Selty|57.313|52.135|RU|Udmurtiya Republic|75
+Selat Marianne|-7.823|139.012|ID|South Papua|74|f
 Selbach|-28.629|-52.953|BR|Rio Grande do Sul|74
 Selles-sur-Cher|47.279|1.554|FR|Centre-Val de Loire|74
 Selci-Lama|43.517|12.213|IT|Umbria|74
@@ -57,9 +62,11 @@ Selci-Lama|43.517|12.213|IT|Umbria|74
 Selbitz|50.317|11.750|DE|Bavaria|74
 Seltjarnarnes|64.153|-21.995|IS|Capital Region|73
 Selikhino|50.368|137.504|RU|Khabarovsk|73
+Seletar Airport|1.417|103.866|SG||73|f
 Selezni|52.804|41.240|RU|Tambov Oblast|73
 Selmer|35.170|-88.592|US|Tennessee|73
 Sellersville|40.354|-75.305|US|Pennsylvania|72
+Selaön|59.400|17.200|SE|Södermanland|72|f
 Selby-on-the-Bay|38.916|-76.522|US|Maryland|72
 Şelaru|44.477|25.300|RO|Dâmbovița County|72
 Sellia Marina|38.886|16.749|IT|Calabria|72
@@ -71,12 +78,16 @@ Selsingen|53.373|9.213|DE|Lower Saxony|70
 Selva|39.755|2.901|ES|Balearic Islands|70
 Sellye|45.872|17.847|HU|Baranya|70
 Seltz|48.895|8.108|FR|Grand Est|70
+Selayar Strait|-5.714|120.481|ID|South Sulawesi|70|f
+Selura|58.308|6.704|NO|Agder|70|f
 Seleuş|46.383|21.717|RO|Arad County|70
 Selama Kedah|5.232|100.683|MY|Kedah|69
 Selzach|47.205|7.455|CH|Solothurn|69
 Selice|48.096|17.964|SK|Nitra Region|69
 Sélékaha|9.107|-5.251|CI|Vallée du Bandama District|69
 Selters|50.533|7.756|DE|Rheinland-Pfalz|69
+Selinunte|37.583|12.825|IT|Sicily|69|f
+Seløyna|60.647|4.809|NO|Vestland|69|f
 Selmont-West Selmont|32.378|-87.007|US|Alabama|69
 Selenduma|50.913|106.241|RU|Buryatiya Republic|68
 Selínia|37.933|23.531|GR|Attica|68
@@ -87,6 +98,10 @@ Seliatyn|47.867|25.199|UA|Chernivtsi|68
 Sellin|54.378|13.694|DE|Mecklenburg-Vorpommern|67
 Selongey|47.588|5.185|FR|Bourgogne-Franche-Comté|67
 Selino Basso|45.810|9.535|IT|Lombardy|67
+Selat Lombok|-8.500|115.850|ID||67|f
+Selawik Lake|66.507|-160.676|US|Alaska|67|f
+Selenite Range|40.534|-119.262|US|Nevada|67|f
+Selennyakhskaya Gryada|69.539|138.972|RU|Sakha|67|f
 Selmsdorf|53.882|10.860|DE|Mecklenburg-Vorpommern|67
 Selvigny|50.080|3.349|FR|Hauts-de-France|67
 Selce|48.763|19.203|SK|Banská Bystrica Region|67
@@ -96,6 +111,9 @@ Selaya|43.214|-3.806|ES|Cantabria|66
 Selce|42.035|20.940|MK|Tetovo|66
 Selvino|45.785|9.753|IT|Lombardy|66
 Sellingen|52.946|7.151|NL|Groningen|65
+Selapiu Island|-2.676|150.538|PG|New Ireland|65|f
+Selayar Haji Aroeppala Airport|-6.179|120.437|ID|South Sulawesi|65|f
+Seletar Island|1.443|103.862|SG||65|f
 Selvik|59.566|10.260|NO|Vestfold|65
 Seleuš|45.128|20.915|RS|Vojvodina|65
 Selva del Montello|45.788|12.143|IT|Veneto|65
@@ -105,6 +123,10 @@ Selva|42.114|14.344|IT|Abruzzo|64
 Selyshche|49.327|31.150|UA|Cherkasy|64
 Seleuș|46.243|24.694|RO|Mureș County|64
 Selzen|49.861|8.255|DE|Rheinland-Pfalz|64
+Selden Island|39.075|-77.451|US|Maryland|63|f
+Sellwood Bridge|45.464|-122.665|US|Oregon|63|f
+Selsøya|66.550|12.836|NO|Nordland|63|f
+Selwyn Range|-21.583|140.583|AU|Queensland|63|f
 Seliminovo|42.650|26.150|BG|Sliven|63
 Selci Ðakovački|45.309|18.350|HR|County of Osijek-Baranja|63
 Seltisberg|47.462|7.720|CH|Basel-Landschaft|63
@@ -121,38 +143,144 @@ Selegas|39.568|9.103|IT|Sardinia|62
 Sélého|9.186|-6.707|CI|Savanes District|62
 Selles-Saint-Denis|47.387|1.923|FR|Centre-Val de Loire|62
 Seljord|59.485|8.630|NO|Telemark|61
+Selawik Airport|66.601|-159.992|US|Alaska|61|f
+Selbusjøen|63.231|10.948|NO|Trøndelag|61|f
+Seličevica|43.225|21.940|RS||61|f
+Seligman Airport|35.334|-112.887|US|Arizona|61|f
+Selja|62.049|5.303|NO|Vestland|61|f
+Seløyna|60.242|5.236|NO|Vestland|61|f
 Selnica ob Muri|46.683|15.700|SI|Municipality of Šentilj|61
 Seloignes|50.015|4.255|BE|Wallonia|61
 Selzthal|47.550|14.312|AT|Styria|60
 Selec|48.784|17.991|SK|Trenčín Region|60
 Sellero|46.051|10.348|IT|Lombardy|60
 Selnica|46.493|16.389|HR|Međimurje|60
+Sel’nikovo|55.136|39.160|RU|Moscow Oblast|59
+Šelpice|48.431|17.531|SK|Trnava Region|59
+Selianítika|38.282|22.028|GR|West Greece|59
+Sela|45.508|16.305|HR|Sisak-Moslavina|59
+Selawik|66.604|-160.007|US|Alaska|59
+Selma|40.192|-85.269|US|Indiana|59
+Seligman|36.523|-93.940|US|Missouri|58
+Selk|54.473|9.578|DE|Schleswig-Holstein|58
+Selbach|50.746|7.770|DE|Rheinland-Pfalz|58
+Sellières|46.828|5.564|FR|Bourgogne-Franche-Comté|58
+Selglaid|58.460|23.641|EE|Pärnumaa|58|f
+Selvagem Grande|30.145|-15.866|PT|Madeira|58|f
+Selommes|47.756|1.194|FR|Centre-Val de Loire|58
+Selpritsch|46.600|14.026|AT|Carinthia|58
+Selimağa|39.583|28.540|TR|Balıkesir|58
+Selamlar|40.855|30.965|TR|Düzce|58
+Sélange|49.609|5.851|BE|Wallonia|58
+Selnik|46.265|16.611|HR|Varaždin|58
+Sellindge|51.103|1.005|GB|England|58
+Selyshche|48.208|25.671|UA|Chernivtsi|57
+Selládes|39.109|21.078|GR|Epirus|57
+Selbagnone|44.174|12.109|IT|Emilia-Romagna|57
+Selma|42.279|-123.616|US|Oregon|57
+Selje|62.044|5.347|NO|Vestland|57
 Selca|43.297|16.851|HR|Split-Dalmatia|57
+Sélakro|7.802|-5.180|CI|Vallée du Bandama District|57
+Selca|46.224|14.206|SI|Municipality of Železniki|56
+Selalmaz|36.812|39.134|TR|Şanlıurfa|56
+Selvotta|41.420|14.087|IT|Molise|56
 Sella|38.609|-0.273|ES|Valencia|56
 Selby|45.506|-100.032|US|South Dakota|56
 Selci|42.303|12.621|IT|Lazio|56
+Seleciköse|38.372|33.930|TR|Aksaray|56
+Selpin|53.991|12.496|DE|Mecklenburg-Vorpommern|56
+Selnica|46.026|16.045|HR|Krapina-Zagorje|56
+Seliștea|46.466|22.027|RO|Arad County|55
+Sela pri Dobovi|45.917|15.633|SI|Municipality of Brežice|55
 Selva di Cadore|46.450|12.057|IT|Veneto|55
+Seliștea|44.976|22.650|RO|Mehedinți County|55
+Selja|61.017|14.467|SE|Dalarna|55
+Selborne|51.095|-0.940|GB|England|55
+Seloutky|49.441|17.063|CZ|Olomouc Region|55
+Selma|37.807|-79.848|US|Virginia|54
+Selat Berhala|-0.805|104.145|ID|Riau Islands|54|f
+Selbjørn|59.981|5.162|NO|Vestland|54|f
+Selbjørn|60.017|5.203|NO|Vestland|54|f
+Selden Hills|32.534|-106.961|US|New Mexico|54|f
+Seldovia Airport|59.442|-151.704|US|Alaska|54|f
+Selkä-Sarvi|65.609|24.196|FI|Lapland|54|f
+Selsey Bill|50.733|-0.783|GB|England|54|f
+Seltannasaggart|54.130|-8.153|IE|Connacht|54|f
+Selvær|66.583|12.233|NO|Nordland|54|f
+Seldiren|36.231|35.989|TR|Hatay|54
 Sellia|38.982|16.631|IT|Calabria|54
 Selva dei Molini|46.890|11.858|IT|Trentino-Alto Adige|54
 Sellent|39.032|-0.588|ES|Valencia|53
+Selchenbach|49.500|7.300|DE|Rheinland-Pfalz|52
+Sellerich|50.233|6.367|DE|Rheinland-Pfalz|51
+Selbhorn|47.450|12.967|AT|Salzburg|49|f
+Selenite Peak|40.606|-119.266|US|Nevada|49|f
+Selenter See|54.304|10.454|DE|Schleswig-Holstein|49|f
+Seljalandsfoss|63.616|-19.988|IS|South|49|f
+Seljordsvatnet|59.454|8.710|NO|Telemark|49|f
+Selker Noor|54.481|9.578|DE|Schleswig-Holstein|49|f
+Seller Glacier|-69.339|-66.326|AQ||49|f
+Selliner See|54.366|13.688|DE|Mecklenburg-Vorpommern|49|f
+Selmun Palace|35.959|14.382|MT|Il-Mellieħa|49|f
+Selous Game Reserve|-9.000|37.500|TZ|Lindi|49|f
+Selter|51.912|9.877|DE|Lower Saxony|49|f
 Sellano|42.887|12.923|IT|Umbria|48
 Selva di Progno|45.611|11.138|IT|Veneto|45
 Selve Marcone|45.620|8.087|IT|Piedmont|40
+Selamiut Range|58.884|-63.748|CA|Newfoundland and Labrador|40|f
+Selassie Lake|50.448|-88.736|CA|Ontario|40|f
+Selawik National Wildlife Refuge|66.586|-159.307|US|Alaska|40|f
+Selfoss|65.799|-16.383|IS|Northeast|40|f
+Selibüel|46.732|7.439|CH|Bern|40|f
+Selkirk Mountains|50.500|-117.502|CA|British Columbia|40|f
+Selkirk Transmitting Station|55.556|-2.793|GB|Scotland|40|f
+Sellards Lake|45.074|-94.329|US|Minnesota|40|f
+Selling Building|45.520|-122.679|US|Oregon|40|f
+Sells Airport|31.929|-111.899|US|Arizona|40|f
+Sellwood Riverfront City Park|45.468|-122.665|US|Oregon|40|f
+Selset Reservoir|54.586|-2.140|GB|England|40|f
+Selun|47.153|9.256|CH|Saint Gallen|40|f
+Selwyn Lake|60.000|-104.501|CA|Saskatchewan|40|f
+Selwyn Range|52.917|-119.169|CA|British Columbia|40|f
 Selas|40.952|-2.102|ES|Castille-La Mancha|36
 Sela Žakanjska|45.606|15.343|HR|Karlovac|34
+Selaawi|-7.319|107.478|ID|West Java|0
+Selaawi|-7.549|107.813|ID|West Java|0
+Selacai|-7.216|108.383|ID|West Java|0
+Selagalas|-8.581|116.144|ID|West Nusa Tenggara|0
+Selagedang Dua|-7.186|107.111|ID|West Java|0
 Selajambe|-7.118|108.463|ID|West Java|0
+Selajambe|-7.384|107.080|ID|West Java|0
+Selajambe Satu|-7.119|108.461|ID|West Java|0
 Selamber|6.478|37.462|ET|South Ethiopia Regional State|0
+Selaparang Timur|-8.548|116.601|ID|West Nusa Tenggara|0
 Selaphum|16.030|103.938|TH|Roi Et|0
+Selasaan|-7.703|114.100|ID|East Java|0
+Selasari|-7.620|108.520|ID|West Java|0
+Selat|-8.435|115.475|ID|Bali|0
+Selat|-8.582|116.210|ID|West Nusa Tenggara|0
 Selat Panjang|0.994|102.708|ID|Riau|0
+Selawangi|-7.335|108.096|ID|West Java|0
 Selçuklu|37.884|32.492|TR|Konya|0
+Selebung|-8.765|116.482|ID|West Nusa Tenggara|0
+Selebung Satu|-8.602|116.323|ID|West Nusa Tenggara|0
+Selemadeg Kelod|-8.496|115.041|ID|Bali|0
 Selenge|49.433|101.467|MN|Khövsgöl Province|0
+Selfkant|51.022|5.930|DE|North Rhine-Westphalia|0
 Selimiye|37.400|27.655|TR|Muğla|0
 Selishtë|41.627|20.279|AL|Dibër County|0
 Selitë|41.635|19.755|AL|Lezhë County|0
 Selitë|40.547|19.848|AL|Fier County|0
 Sellack|51.950|-2.633|GB|England|0
+Selo|-6.766|111.610|ID|Central Java|0
 Selo Temirbeka Zhurgenova|50.433|60.500|KZ|Aktobe|0
+Selojeneng|-8.078|111.947|ID|East Java|0
+Selokambang|-8.143|113.166|ID|East Java|0
+Selopuro|-8.145|112.309|ID|East Java|0
 Selorejo|-8.139|112.426|ID|East Java|0
+Selorejo|-8.138|111.995|ID|East Java|0
+Selorejo|-8.524|114.189|ID|East Java|0
+Selorok|-8.144|112.526|ID|East Java|0
 Selva|-29.768|-62.048|AR|Santiago del Estero|0
 Selva Alegre|-3.551|-79.345|EC|Loja|0
 Selva Alegre|0.932|-78.860|EC|Esmeraldas|0

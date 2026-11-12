@@ -11,6 +11,7 @@ Narasaraopet|16.235|80.049|IN|Andhra Pradesh|101
 Narok County|-1.241|35.736|KE||100|r
 Naryn Region|41.433|75.967|KG||98|r
 Narnaul|28.044|76.108|IN|Haryana|97
+Narita International Airport|35.765|140.386|JP|Chiba|97|f
 Naro-Fominsk|55.388|36.733|RU|Moscow Oblast|97
 Narok|-1.081|35.871|KE|Narok County|96
 Narutochō-mitsuishi|34.199|134.609|JP|Tokushima|96
@@ -41,6 +42,7 @@ Narre Warren|-38.033|145.300|AU|Victoria|89
 Naranjito|23.079|-82.377|CU|Havana|89
 Narasannapeta|18.414|84.045|IN|Andhra Pradesh|88
 Narutō|35.600|140.417|JP|Chiba|88
+Nargen Island|59.566|24.518|EE|Harjumaa|88|f
 Narakal|10.038|76.222|IN|Kerala|88
 Nara|15.169|-7.290|ML|Koulikoro|87
 Narasingapuram|11.604|78.578|IN|Tamil Nadu|87
@@ -66,6 +68,7 @@ Naroli|20.274|72.942|IN|Dadra and Nagar Haveli and Daman and Diu|84
 Narragansett|41.450|-71.450|US|Rhode Island|84
 Nārāyankher|18.034|77.773|IN|Telangana|84
 Naraini|25.190|80.475|IN|Madhya Pradesh|84
+Narathiwat Airport|6.521|101.745|TH|Narathiwat|83|f
 Nārāyanapuram|14.704|77.578|IN|Andhra Pradesh|83
 Narvik|68.438|17.427|NO|Nordland|83
 Naranja|25.518|-80.423|US|Florida|83
@@ -78,6 +81,7 @@ Nārāyanavanam|13.426|79.589|IN|Andhra Pradesh|81
 Narasingāpuram|13.608|79.317|IN|Andhra Pradesh|81
 Nārāyangarh|24.271|75.050|IN|Madhya Pradesh|80
 Narman|40.344|41.861|TR|Erzurum|80
+Narragansett Bay|41.570|-71.334|US|Rhode Island|80|f
 Naryshkino|52.968|35.727|RU|Oryol oblast|80
 Närpes|62.473|21.337|FI|Ostrobothnia|80
 Nari|21.773|72.073|IN|Gujarat|80
@@ -93,6 +97,7 @@ Narynkol|42.726|80.175|KZ|Almaty Region|78
 Nardaran|40.556|50.006|AZ|Baki|78
 Narendrapur|22.648|88.072|IN|West Bengal|77
 Narsingarh|23.910|91.251|IN|Tripura|77
+Narromine Airport|-32.215|148.225|AU|New South Wales|77|f
 Narlı|37.391|37.136|TR|Kahramanmaraş|77
 Narsāpuram|18.100|78.880|IN|Telangana|76
 Narharpur|20.449|81.620|IN|Chhattisgarh|76
@@ -102,6 +107,7 @@ Naryanpur|26.950|93.858|IN|Assam|76
 Narasingam|9.966|78.183|IN|Tamil Nadu|76
 Narwanwala|31.392|73.579|PK|Punjab|75
 Naracoorte|-36.958|140.738|AU|South Australia|75
+Narrabri Airport|-30.319|149.827|AU|New South Wales|75|f
 Narandiba|-22.407|-51.524|BR|São Paulo|75
 Narjeh|35.991|49.625|IR|Qazvin Province|75
 Narra|23.782|86.101|IN|Jharkhand|75
@@ -110,29 +116,40 @@ Narni|42.520|12.528|IT|Umbria|74
 Narmāshīr|28.952|58.698|IR|Kerman|74
 Narni Scalo|42.536|12.517|IT|Umbria|74
 Narendranagar|30.162|78.287|IN|Uttarakhand|74
+Narikrik Atoll|5.911|172.147|MH|Mili Atoll|73|f
 Narromine|-32.231|148.241|AU|New South Wales|73
 Narrandera|-34.748|146.551|AU|New South Wales|73
 Narovchat|53.877|43.695|RU|Penza Oblast|73
 Narberth|40.008|-75.260|US|Pennsylvania|73
 Narrogin|-32.933|117.178|AU|Western Australia|73
+Naruko Dam|38.755|140.705|JP|Miyagi|72|f
+Narva Bay|59.500|27.667|EE||72|f
 Naranjito|14.953|-88.683|HN|Santa Bárbara Department|72
+Naranjo|17.134|-89.262|GT|Petén|71|f
+Nargin Island|40.294|49.922|AZ|Baki|71|f
+Nārī Dāgh|37.708|55.245|IR|Golestan|71|f
 Narragansett Pier|41.432|-71.456|US|Rhode Island|71
 Narach|54.910|26.708|BY|Minsk|71
 Narach|54.565|26.731|BY|Minsk|71
 Nariño|5.609|-75.177|CO|Antioquia|70
 Naranja de Tapia|19.777|-101.760|MX|Michoacán|70
+Nargadaga Desēt|11.917|37.267|ET|Amhara|70|f
+Narufuchi Dam|33.626|130.553|JP|Fukuoka|70|f
 Narvacan|17.418|120.475|PH|Ilocos|70
 Naro|11.897|123.674|PH|Bicol Region|69
 Nariño|1.290|-77.357|CO|Nariño|69
 Narodychi|51.203|29.083|UA|Zhytomyr Oblast|69
 Narusawa|35.483|138.701|JP|Yamanashi|69
 Narrosse|43.703|-1.008|FR|New Aquitaine|69
+Närsholmen|57.229|18.691|SE|Gotland|69|f
 Narva-Jõesuu|59.459|28.041|EE|Ida-Virumaa|69
 Narooma|-36.218|150.132|AU|New South Wales|68
 Narāq|34.011|50.838|IR|Markazi|68
 Narlıkuyu|36.443|34.113|TR|Mersin|68
 Narazeni|42.372|41.911|GE|Samegrelo and Zemo Svaneti|67
 Narberth|51.798|-4.743|GB|Wales|67
+Naru Island|32.852|128.935|JP|Nagasaki|67|f
+Narudhoo|6.263|73.215|MV||67|f
 Naranjal|18.811|-96.963|MX|Veracruz|67
 Narrows|37.205|-79.959|US|Virginia|67
 Naranjal|-25.974|-55.187|PY|Alto Paraná Department|67
@@ -150,6 +167,10 @@ Narciso Mendoza|18.874|-98.970|MX|Morelos|64
 Narjābād|37.324|46.179|IR|East Azerbaijan|64
 Narzole|44.594|7.868|IT|Piedmont|64
 Narkevychi|49.517|26.638|UA|Khmelnytskyi|63
+Naracoorte Airport|-36.980|140.727|AU|South Australia|63|f
+Naramata-damu|36.882|139.079|JP|Gunma|63|f
+Naru Island|-8.139|156.918|SB||63|f
+Narvik Airport, Framnes|68.436|17.388|NO|Nordland|63|f
 Nariz|40.539|-8.591|PT|Aveiro|63
 Narew|52.914|23.520|PL|Podlasie|63
 Narince|37.859|38.445|TR|Adıyaman Province|63
@@ -158,31 +179,88 @@ Narek|40.000|44.665|AM|Ararat|62
 Nariño|4.398|-74.827|CO|Cundinamarca|62
 Narciso Mendoza|16.580|-92.989|MX|Chiapas|62
 Nargis|48.111|2.756|FR|Centre-Val de Loire|61
+Narrow Island|-51.383|-59.711|FK||61|f
+Narva Reservoir|59.291|28.207|EE||61|f
 Narborough|52.683|0.583|GB|England|61
 Narganá|9.444|-78.587|PA|Guna Yala|61
 Narayanpur|23.650|91.158|BD|Chittagong|61
 Narciso Mendoza|24.013|-103.966|MX|Durango|60
+Nartháki|39.243|22.487|GR|Thessaly|60
+Nārenjak|35.129|48.095|IR|Kurdistan Province|60
+Narmān|27.502|53.011|IR|Fars|59
+Nārkanda|31.257|77.461|IN|Himachal Pradesh|59
+Nărtești|46.013|27.408|RO|Galați County|59
+NARA Institute of Science and Technology|34.732|135.733|JP|Nara|58|f
+Nara Keibane Airport|15.231|-7.264|ML|Bamako|58|f
+Narberth Castle|51.796|-4.743|GB|Wales|58|f
+Narborough Island|-0.390|-91.499|EC|Galápagos|58|f
+Narganá Island|9.444|-78.585|PA|Guna Yala|58|f
+Narsaq Heliport|60.917|-46.050|GL|Kujalleq|58|f
+Narsarsuaq Airport|61.161|-45.426|GL|Kujalleq|58|f
+Naryn Airport|41.440|76.129|KG|Naryn Region|58|f
+Narewka|52.833|23.763|PL|Podlasie|58
+Naranjal Poniente|19.362|-88.460|MX|Quintana Roo|58
+Naranjitos|-5.818|-78.276|PE|Amazonas|56
+Ňárad|47.834|17.612|SK|Trnava Region|56
+Näre|38.449|56.359|TM|Balkan|56
+Naranjillos|19.546|-96.977|MX|Veracruz|55
+Narta|45.833|16.786|HR|Bjelovar-Bilogora|55
 Narlıdere|38.227|41.890|TR|Bitlis|55
+Narcastet|43.251|-0.320|FR|New Aquitaine|55
+Naranjal|9.133|-79.229|PA|Panamá|55
+Naranjo de Chila|18.921|-102.621|MX|Michoacán|55
+Naranjito de Copal|21.622|-104.567|MX|Nayarit|54
+Naranjo de Bulnes|43.201|-4.817|ES|Asturias|54|f
+Narcondam Island|13.448|94.264|IN|Andaman and Nicobar|54|f
+Narrandera Airport|-34.702|146.512|AU|New South Wales|54|f
+Narrow Gauge Railway Museum|52.584|-4.089|GB|Wales|54|f
+Naryan Mar Airport|67.640|53.122|RU|Nenets|54|f
+Naranjo|17.288|-93.221|MX|Chiapas|54
+Narcy|47.237|3.069|FR|Bourgogne-Franche-Comté|54
 Nardodipace|38.474|16.343|IT|Calabria|54
+Nara Canal|26.147|68.983|PK|Sindh|49|f
+Naracoorte Caves National Park|-37.059|140.807|AU|South Australia|49|f
+Narawntapu National Park|-41.110|146.640|AU|Tasmania|49|f
+Nares Land|82.417|-45.000|GL||49|f
+Nares Rocks|-40.582|144.684|AU|Tasmania|49|f
+Narrien Range National Park|-22.929|146.925|AU|Queensland|49|f
+Narrows Dam|34.149|-93.716|US|Arkansas|49|f
 Narros de Matalayegua|40.699|-5.927|ES|Castille and León|48
 Naruszewo|52.527|20.352|PL|Mazovia|47
 Narros del Castillo|40.859|-5.060|ES|Castille and León|46
 Narros de Saldueña|40.873|-4.869|ES|Castille and León|43
 Narrillos del Álamo|40.567|-5.466|ES|Castille and León|43
 Narboneta|39.750|-1.467|ES|Castille-La Mancha|40
+Naraghi Lake|37.682|-120.960|US|California|40|f
+Narebski Point|-62.242|-58.783|AQ||40|f
+Narechen Glacier|-69.575|-71.672|AQ||40|f
+Nares Lake|60.163|-134.662|CA|Yukon|40|f
+Národní památník Vítkov|50.089|14.450|CZ|Prague|40|f
+Narragansett Pond|41.930|-70.735|US|Massachusetts|40|f
+Narraguagus Bay|44.503|-67.837|US|Maine|40|f
+Narrow Gauge Railroad Museum|43.662|-70.244|US|Maine|40|f
+Narrow Hills Provincial Park|54.025|-104.647|CA|Saskatchewan|40|f
+Narrow Lake|54.619|-113.616|CA|Alberta|40|f
+Narsarsuk Glacier|72.907|-77.348|CA|Nunavut|40|f
 Narrillos del Rebollar|40.665|-4.966|ES|Castille and León|36
 Narros|41.849|-2.295|ES|Castille and León|34
 Narros del Puerto|40.541|-4.993|ES|Castille and León|33
 Naraiv|49.529|24.775|UA|Ternopil|0
+Naran Bulag|44.633|114.117|CN|Inner Mongolia|0
 Naranbulag|49.367|92.567|MN|Uvs Province|0
 Naranbulag|49.244|113.374|MN|East Aimak|0
 Narang|34.760|71.047|AF|Kunar|0
+Narang|-8.777|120.369|ID|East Nusa Tenggara|0
 Naranjillo|-9.249|-75.994|PE|Huánuco Department|0
 Naranjos|-5.743|-77.497|PE|San Martín Department|0
+Narawayong|-8.291|123.239|ID|East Nusa Tenggara|0
 Nāṟay|35.220|71.523|AF|Kunar|0
 Narince|37.883|38.759|TR|Adıyaman Province|0
 Naringgul|-7.334|107.328|ID|West Java|0
 Narlı|37.884|42.976|TR|Siirt|0
 Narmada|-8.591|116.202|ID|West Nusa Tenggara|0
+Narong|29.143|89.617|CN|Tibet|0
 Nart|49.145|105.388|MN|Selenge Province|0
 Naru|-8.572|118.993|ID|West Nusa Tenggara|0
+Naru|-8.764|120.986|ID|East Nusa Tenggara|0
+Narukan|-6.694|111.583|ID|Central Java|0

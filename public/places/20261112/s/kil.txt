@@ -8,6 +8,7 @@ Kilifi|-3.630|39.850|KE|Kilifi County|97
 Kilju|40.964|129.328|KP|North Hamgyong|96
 Kilmarnock|55.612|-4.496|GB|Scotland|93
 Kilakarai|9.232|78.785|IN|Tamil Nadu|92
+Kilimanjaro International Airport|-3.429|37.074|TZ|Kilimanjaro|90|f
 Killarney|49.226|-123.043|CA|British Columbia|89
 Kilburn|51.553|-0.192|GB|England|89
 Kilindoni|-7.914|39.662|TZ|Pwani|87
@@ -25,6 +26,7 @@ Kīlattingal|8.693|76.793|IN|Kerala|84
 Kilgore|32.386|-94.876|US|Texas|83
 Kilquade|53.097|-6.084|IE|Leinster|83
 Killarney|52.060|-9.509|IE|Munster|83
+Kilmainham Gaol|53.342|-6.310|IE|Leinster|83|f
 Killai|11.449|79.767|IN|Tamil Nadu|83
 Kilinochchi|9.396|80.398|LK|Northern Province|82
 Kilsyth|-37.800|145.317|AU|Victoria|81
@@ -33,6 +35,7 @@ Kilo|60.217|24.782|FI|Uusimaa|80
 Killara|-33.766|151.162|AU|New South Wales|80
 Kilsyth|55.976|-4.059|GB|Scotland|80
 Killamarsh|53.324|-1.317|GB|England|80
+Kilwa Masoko Airport|-8.910|39.509|TZ|Lindi|79|f
 Kilkunda|11.263|76.654|IN|Tamil Nadu|79
 Kildare|53.156|-6.914|IE|Leinster|79
 Kilvelur|10.767|79.742|IN|Tamil Nadu|78
@@ -45,26 +48,33 @@ Kīlpuduppākkam|12.680|79.545|IN|Tamil Nadu|77
 Kilchberg|47.324|8.545|CH|Zurich|76
 Kilkeel|54.062|-6.003|GB|Northern Ireland|76
 Kilampadi|11.204|77.843|IN|Tamil Nadu|76
+Kilkenny Airport|52.651|-7.296|IE|Leinster|76|f
+Killeen-Fort Hood Regional Airport|31.067|-97.829|US|Texas|76|f
 Kilómetro 30|16.998|-99.780|MX|Guerrero|76
 Kila Ambur|8.761|77.401|IN|Tamil Nadu|76
 Killingworth|41.358|-72.564|US|Connecticut|76
 Kilimatinde|-5.850|34.950|TZ|Singida|76
 Kil’mez’|56.945|51.064|RU|Kirov Oblast|75
+Kilwa Island|-9.267|28.450|ZM|Luapula Province|75|f
 Kilburn|53.006|-1.439|GB|England|75
 Kilcock|53.402|-6.671|IE|Leinster|75
 Kīlvayattanānkuppam|12.955|78.987|IN|Tamil Nadu|75
 Killester|53.373|-6.204|IE|Leinster|74
 Kilbirnie|-41.318|174.795|NZ|Wellington Region|74
 Kilcoole|53.103|-6.065|IE|Leinster|73
+Kil’dinskiy Proliv|69.306|34.164|RU|Murmansk|72|f
 Kildeer|42.171|-88.048|US|Illinois|72
 Kilmacolm|55.895|-4.626|GB|Scotland|72
 Kilimoukro|6.677|-4.325|CI|Comoé District|72
 Kiltan|11.486|73.004|IN|Lakshadweep|72
 Kilemary|56.778|46.865|RU|Mariy-El Republic|72
 Kilcullen|53.130|-6.744|IE|Leinster|71
+Killington Peak|43.605|-72.820|US|Vermont|71|f
 Kilbarchan|55.836|-4.554|GB|Scotland|71
 Kill|53.251|-6.592|IE|Leinster|70
 Kilim|10.712|124.797|PH|Eastern Visayas|70
+Kilifarevo Island|-62.374|-59.787|AQ||70|f
+Kilpisjärvi|69.034|20.767|FI||70|f
 Kilmanagh|43.756|-83.357|US|Michigan|69
 Kīlān|35.550|52.168|IR|Tehran|69
 Kīlauea|22.212|-159.413|US|Hawaii|69
@@ -75,6 +85,7 @@ Kilifarevo|42.983|25.633|BG|Veliko Tarnovo|68
 Kiloloran|14.636|121.606|PH|Calabarzon|68
 Kılavuz|37.484|41.779|TR|Mardin|68
 Killarney|49.183|-99.664|CA|Manitoba|67
+Killarney Airport|45.977|-81.496|CA|Ontario|67|f
 Kılıçlı|37.079|35.453|TR|Adana|67
 Kiln|30.409|-89.435|US|Mississippi|67
 Killorglin|52.100|-9.783|IE|Munster|67
@@ -83,6 +94,8 @@ Kilmia|12.186|52.233|YE|Muhafazat Hadramaout|66
 Kilgetty|51.732|-4.720|GB|Wales|66
 Kılıçkaya|37.796|40.014|TR|Diyarbakır Province|66
 Kilcoy|-26.943|152.565|AU|Queensland|66
+Kilfree O’Flynn|53.767|-8.633|IE|Connacht|65|f
+Kiltān Island|11.480|73.008|IN|Lakshadweep|65|f
 Killwangen|47.432|8.351|CH|Aargau|65
 Kilmallock|52.400|-8.577|IE|Munster|65
 Kilingi-Nõmme|58.150|24.964|EE|Pärnumaa|64
@@ -90,6 +103,8 @@ Killearn|56.042|-4.368|GB|Scotland|64
 Kilrea|54.951|-6.557|GB|Northern Ireland|64
 Kılbasan|37.325|33.186|TR|Karaman|64
 Killaloe|52.807|-8.444|IE|Munster|63
+Kilbolane Castle|52.339|-8.851|IE|Munster|63|f
+Killisnoo Island|57.469|-134.590|US|Alaska|63|f
 Kılçak|41.169|31.379|TR|Zonguldak Province|63
 Kilmarnock|37.710|-76.380|US|Virginia|63
 Killucan|53.514|-7.142|IE|Leinster|63
@@ -104,6 +119,9 @@ Kilkee|52.680|-9.643|IE|Munster|62
 Kilafors|61.233|16.567|SE|Gävleborg|62
 Kilsby|52.334|-1.175|GB|England|62
 Killumney|51.872|-8.648|IE|Munster|61
+Kīlauea Point National Wildlife Refuge|22.223|-159.393|US|Hawaii|61|f
+Killdeer Mountains|47.446|-102.933|US|North Dakota|61|f
+Kilvatnet|68.129|16.019|NO|Nordland|61|f
 Kilómetro Noventa y Nueve|28.127|-105.580|MX|Chihuahua|61
 Kilómetro 40|17.049|-99.771|MX|Guerrero|61
 Kiltamagh|53.850|-9.000|IE|Connacht|61
@@ -111,10 +129,99 @@ Killam|52.783|-111.852|CA|Alberta|60
 Kilworth|52.176|-8.244|IE|Munster|60
 Killem|50.958|2.561|FR|Hauts-de-France|60
 Kilmacanoge|53.167|-6.134|IE|Leinster|60
+Killik|37.195|30.671|TR|Antalya|60
+Kilmeage|53.252|-6.842|IE|Leinster|60
+Killen|34.863|-87.538|US|Alabama|60
+Kilder|51.938|6.232|NL|Gelderland|60
 Kilham|54.064|-0.381|GB|England|60
+Kilcormac|53.174|-7.726|IE|Leinster|59
+Killarney|-28.333|152.294|AU|Queensland|59
+Kil|58.892|9.301|NO|Telemark|59
+Killeagh|51.942|-7.998|IE|Munster|59
 Kılıç|40.633|29.395|TR|Yalova|59
+Kilmacthomas|52.205|-7.426|IE|Munster|59
+Kilómetro 42 (Juan N. Álvarez)|17.055|-99.760|MX|Guerrero|59
+Kilkhampton|50.876|-4.484|GB|England|59
+Killbuck|40.495|-81.985|US|Ohio|59
+Kilómetro 26 (Las Panguitas)|25.884|-108.798|MX|Sinaloa|59
+Kilmington|50.778|-3.039|GB|England|58
+Kilsheelan|52.360|-7.577|IE|Munster|58
+Kilaguni Airport|-2.913|38.070|KE|Taita Taveta|58|f
+Kilbeck Hills|34.313|-115.308|US|California|58|f
+Kilgore Hills|41.691|-122.617|US|California|58|f
+Killary Fjord|53.606|-9.805|IE|Connacht|58|f
+Kilmashogue Mountain|53.251|-6.267|IE|Leinster|58|f
+Killona|30.006|-90.483|US|Louisiana|58
+Kilfinnane|52.359|-8.468|IE|Munster|58
+Kilmacrenan|55.031|-7.779|IE|Ulster|58
+Kilkivan|-26.087|152.234|AU|Queensland|57
+Kilmuckridge|52.512|-6.285|IE|Leinster|57
+Killin|56.467|-4.317|GB|Scotland|57
+Killinaboy|52.972|-9.081|IE|Munster|57
+Kilómetro Treinta y Tres (Paso Real)|20.903|-97.594|MX|Veracruz|57
+Kilcornan|52.617|-8.883|IE|Munster|57
+Kilconnell|53.333|-8.392|IE|Connacht|57
+Kildalkey|53.570|-6.905|IE|Leinster|56
+Kilmessan|53.559|-6.659|IE|Leinster|56
+Killenaule|52.568|-7.671|IE|Munster|56
+Kilmacow|52.317|-7.178|IE|Leinster|56
+Killenard|53.133|-7.149|IE|Leinster|56
+Killygordon|54.800|-7.683|IE|Ulster|56
+Killara|-36.140|146.951|AU|Victoria|56
 Kili|5.644|169.121|MH|Kili Island|56
 Kili Island|5.646|169.127|MH||56|r
+Kilmichael|33.443|-89.572|US|Mississippi|56
+Killeberg|56.477|14.097|SE|Skåne|56
+Kilrane|52.242|-6.356|IE|Leinster|55
+Kildrum|54.980|-7.412|IE|Ulster|55
+Killala|54.212|-9.220|IE|Connacht|55
+Kilkishen|52.807|-8.746|IE|Munster|55
+Kilakro|7.774|-4.566|CI|Vallée du Bandama District|55
+Kılıç|37.718|41.377|TR|Batman|55
+Kilómetro 19|25.929|-108.850|MX|Sinaloa|54
+Kilak|3.036|31.973|UG|Northern Region|54|f
+Kīlauea Volcano|19.400|-155.283|US|Hawaii|54|f
+Kilberry Head|55.816|-5.649|GB|Scotland|54|f
+Kilbourn Dam|43.627|-89.782|US|Wisconsin|54|f
+Kilchattan Bay|55.750|-5.000|GB|Scotland|54|f
+Kilefjorden|58.423|7.798|NO|Agder|54|f
+Kilen|56.501|8.564|DK|Central Jutland|54|f
+Kili Holm|59.183|-2.917|GB|Scotland|54|f
+Kiliantoppen|79.233|12.333|SJ|Svalbard|54|f
+Killens Pond State Park|38.983|-75.540|US|Delaware|54|f
+Killinure Lough|53.450|-7.900|IE|Leinster|54|f
+Kilaben Bay|-33.032|151.590|AU|New South Wales|49|f
+Kilby Island|-66.272|110.522|AQ||49|f
+Kilchurn Castle|56.400|-5.017|GB|Scotland|49|f
+Kilembe Mines|0.167|30.033|UG|Western Region|49|f
+Kilglass Lough|53.817|-8.017|IE|Connacht|49|f
+Kilian Island|73.585|-107.887|CA|Nunavut|49|f
+Kilkenny Hill|42.350|-75.335|US|New York|49|f
+Killala Bay|54.250|-9.133|IE||49|f
+Killegray|57.733|-7.083|GB|Scotland|49|f
+Killer Ridge|-77.200|162.100|AQ||49|f
+Kilmar Tor|50.547|-4.468|GB|England|49|f
+Kilsbergen|59.333|14.783|SE|Örebro|49|f
+Kiltooris Lough|54.820|-8.501|IE|Ulster|49|f
+Kiliansroda|50.915|11.372|DE|Thuringia|47
+Kilauea|19.409|-155.283|US|Hawaii|40|f
+Kilbella Bay|51.696|-127.350|CA|British Columbia|40|f
+Kilbourne Hole|31.975|-106.967|US|New Mexico|40|f
+Kilburn Dam|-28.589|29.098|ZA||40|f
+Kilby Park|49.237|-121.964|CA|British Columbia|40|f
+Kildare Capes|46.900|-63.982|CA|Prince Edward Island|40|f
+Kildonald Bay|55.490|-5.511|GB|Scotland|40|f
+Kildonan Lake|49.034|-124.976|CA|British Columbia|40|f
+KILJ-FM (Mount Pleasant)|40.942|-91.569|US|Iowa|40|f
+Killarney National Park|51.993|-9.557|IE||40|f
+Killarney Provincial Park|46.083|-81.383|CA|Ontario|40|f
+Killbear Provincial Park|45.350|-80.191|CA|Ontario|40|f
+Killcohook National Wildlife Refuge|39.620|-75.553|US|New Jersey|40|f
+Killer Lake|44.884|-77.328|CA|Ontario|40|f
+Killiniq Island|60.413|-64.639|CA|Nunavut|40|f
+Kilsyth Terrace|42.338|-71.144|US|Massachusetts|40|f
+KILT-FM (Houston)|29.576|-95.510|US|Texas|40|f
+Kilton Castle|54.549|-0.916|GB|England|40|f
 Kilimli|41.491|31.839|TR|Zonguldak Province|0
 Kilmington|51.127|-2.327|GB|England|0
 Kilpin|53.733|-0.834|GB|England|0

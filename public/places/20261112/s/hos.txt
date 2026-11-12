@@ -12,12 +12,15 @@ Hostafrancs|41.377|2.143|ES|Catalonia|84
 Hösbach|50.006|9.208|DE|Bavaria|82
 Hosakote|14.276|77.168|IN|Karnataka|81
 Hostivice|50.082|14.259|CZ|Central Bohemia|79
+Hoskins Airport|-5.462|150.405|PG|West New Britain Province|78|f
 Hosanagara|13.914|75.065|IN|Karnataka|75
+Hostomel Airport|50.591|30.208|UA|Kyiv Oblast|75|f
 Hosszúpályi|47.393|21.733|HU|Hajdú-Bihar|75
 Hoshcha|50.602|26.681|UA|Rivne Oblast|74
 Hosenfeld|50.505|9.480|DE|Hesse|74
 Hostinné|50.541|15.723|CZ|Hradec Králové Region|72
 Hostotipaquillo|21.058|-104.050|MX|Jalisco|72
+Hostilian Court|41.893|12.485|IT|Lazio|71|f
 Hostalric|41.750|2.633|ES|Catalonia|71
 Hosszúhetény|46.164|18.351|HU|Baranya|70
 Ḩoseynābād|37.402|57.827|IR|North Khorasan|69
@@ -25,6 +28,7 @@ Hoşhaber|39.909|43.966|TR|Iğdır|69
 Hosangadi|13.698|74.954|IN|Karnataka|68
 Hostedde|51.565|7.535|DE|North Rhine-Westphalia|67
 Hošťálková|49.355|17.869|CZ|Zlín|67
+Hose Mountains|2.000|114.167|MY|Sarawak|67|f
 Ḩoseynābād|37.072|46.150|IR|East Azerbaijan|67
 Hosha‘ya|32.759|35.294|IL|Northern District|66
 Hostos|19.180|-70.020|DO|Duarte Province|65
@@ -33,6 +37,7 @@ Hostouň|50.114|14.201|CZ|Central Bohemia|64
 Hostomice|49.825|14.046|CZ|Central Bohemia|63
 Hostěradice|48.950|16.259|CZ|South Moravian|63
 Hošťka|50.489|14.335|CZ|Ústí nad Labem Region|63
+Hostovatnet|63.186|9.566|NO|Trøndelag|63|f
 Hoschton|34.096|-83.761|US|Georgia|63
 Hostouň|49.560|12.771|CZ|Plzeň Region|62
 Hostomice|50.588|13.808|CZ|Ústí nad Labem Region|62
@@ -40,9 +45,50 @@ Höslwang|47.954|12.329|DE|Bavaria|62
 Hostie|48.453|18.438|SK|Nitra Region|61
 Ḩoseynābād|27.174|60.460|IR|Sistan and Baluchestan|61
 H̱osen|32.999|35.298|IL|Northern District|61
+Hosséré Oupay|10.886|13.781|CM|Far North|61|f
 Hospital de Órbigo|42.464|-5.886|ES|Castille and León|61
 Hostyntseve|49.798|23.199|UA|Lviv|61
+Hostěnice|49.237|16.777|CZ|South Moravian|58
+Hostun|45.033|5.200|FR|Auvergne-Rhône-Alpes|58
 Hosingen|50.012|6.091|LU|Clervaux|58
+Hostens|44.493|-0.640|FR|New Aquitaine|58
+Ḩoseynābād-e Latkā|35.023|48.585|IR|Hamadan Province|58
+Hosmer Lake|43.964|-121.780|US|Oregon|58|f
+Hosta Butte|35.587|-108.194|US|New Mexico|58|f
+Hostěrádky-Rešov|49.118|16.784|CZ|South Moravian|58
+Hosťovce|48.418|18.358|SK|Nitra Region|58
+Hostetter|40.266|-79.398|US|Pennsylvania|57
+Hosman|45.833|24.430|RO|Sibiu County|57
+Hospers|43.072|-95.904|US|Iowa|57
+Hoßkirch|47.950|9.450|DE|Baden-Wurttemberg|57
+Hosín|49.037|14.476|CZ|South Bohemian Region|57
+Hostašovice|49.534|17.997|CZ|Moravian-Silesian Region|57
+Hošťálkovy|50.112|17.600|CZ|Moravian-Silesian Region|56
+Hosford|30.387|-84.799|US|Florida|56
+Hospital|52.473|-8.431|IE|Munster|56
+Hoštice-Heroltice|49.287|17.061|CZ|South Moravian|56
+Ḩoseyn Mashlūsh|31.891|48.377|IR|Khuzestan|56
+Hospital Propiedad (Dos Estrellas)|19.423|-99.948|MX|México|56
+Hose|52.857|-0.904|GB|England|55
+Hostert|49.657|6.233|LU|Luxembourg|55
+Hostre|47.992|37.403|UA|Donetsk|55
+Hospozín|50.307|14.172|CZ|Central Bohemia|54
+Hoşap Kalesi|38.318|43.801|TR|Van|54|f
+Hoseason Island|-62.583|-61.667|AQ||54|f
+Hostýn|49.378|17.700|CZ|Zlín|54|f
+Hoseason Glacier|-67.150|58.194|AQ||49|f
+Hoskins Peak|-67.776|-67.562|AQ||49|f
+Hoskins, Mount|-81.833|159.050|AQ||49|f
+Hoskyn Islands|-23.805|152.293|AU|Queensland|49|f
+Hospital Island|32.312|-64.846|BM|Sandys|49|f
+Host Island|-64.934|-63.910|AQ||49|f
+Hosten|49.900|6.617|DE|Rheinland-Pfalz|45
+Hosei University|35.695|139.741|JP|Tokyo|40|f
+Hoselaw Lake|54.117|-110.937|CA|Alberta|40|f
+Hoshko Glacier|-71.817|163.400|AQ||40|f
+Hossa|61.378|21.527|FI|Satakunta|40|f
+Hostal dos Reis Católicos|42.881|-8.546|ES|Galicia|40|f
 Höshigiyn-Ar|47.557|106.963|MN|Central Aimak|0
 Höshööt|48.948|89.144|MN|Bayan-Ölgii Province|0
 Höshööt|48.101|102.557|MN|Arkhangai Province|0
+Hostenbach|49.264|6.814|DE|Saarland|0

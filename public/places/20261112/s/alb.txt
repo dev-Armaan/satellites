@@ -3,7 +3,7 @@ Albania|41.000|20.000|AL||127|c
 Alborz Province|36.011|50.810|IR||127|r
 Albuquerque|35.084|-106.651|US|New Mexico|115
 Al Batinah North|24.000|56.750|OM||114|r
-Alba County|46.068|23.572|RO||112|r
+Alba County|46.068|23.572|RO||113|r
 Al Bahah Region|20.167|41.433|SA||105|r
 Albacete|38.994|-1.856|ES|Castille-La Mancha|105
 Al Butnan|29.933|24.033|LY||105|r
@@ -55,12 +55,14 @@ Albenga|44.050|8.218|IT|Liguria|85
 Albolote|37.231|-3.655|ES|Andalusia|85
 Al Baţţālīyah|25.433|49.633|SA|Eastern Province|84
 Albignasego|45.347|11.868|IT|Veneto|84
+Albano Machado Airport|-12.809|15.761|AO|Huambo|84|f
 Albemarle|35.350|-80.200|US|North Carolina|84
 Albufeira|37.088|-8.250|PT|Faro|84
 Al Bawīţī|28.348|28.869|EG|Giza|84
 Albany Creek|-27.354|152.968|AU|Queensland|84
 Albal|39.400|-0.417|ES|Valencia|84
 Alborada Jaltenco|19.662|-99.069|MX|México|84
+Al Bateen Executive Airport|24.428|54.458|AE|Abu Dhabi|83|f
 Albino|45.764|9.799|IT|Lombardy|82
 Albion Park|-34.571|150.776|AU|New South Wales|82
 Albany|-36.717|174.700|NZ|Auckland|82
@@ -73,6 +75,7 @@ Alby|59.233|17.854|SE|Stockholm|81
 Albox|37.389|-2.149|ES|Andalusia|81
 Alberic|39.117|-0.517|ES|Valencia|81
 Alba Adriatica|42.832|13.926|IT|Abruzzo|81
+Albrook Marcos A. Gelabert International Airport|8.973|-79.556|PA|Panamá|81|f
 Al’burikent|42.974|47.471|RU|Dagestan|80
 Albert|50.001|2.651|FR|Hauts-de-France|80
 Al Barakāt|24.894|10.183|LY|Ghat|80
@@ -80,14 +83,19 @@ Albisola Superiore|44.339|8.510|IT|Liguria|80
 Alberobello|40.784|17.236|IT|Apulia|79
 Alberti|-35.032|-60.280|AR|Buenos Aires|79
 Al Bardīyah|31.756|25.085|LY|Al Butnan|79
+Albula Alps|46.550|9.800|CH|Grisons|79|f
 Al-Bi‘na|32.930|35.271|IL|Northern District|79
 Albro Lake|44.684|-63.581|CA|Nova Scotia|79
+Alboran Sea|35.667|-3.000|||78|f
 Albion|42.243|-84.753|US|Michigan|78
 Albergaria-a-Velha|40.693|-8.480|PT|Aveiro|78
 Albano Sant'Alessandro|45.688|9.767|IT|Lombardy|78
+Albert Lea Municipal Airport|43.681|-93.367|US|Minnesota|78|f
+Alberto Carnevalli Airport|8.582|-71.161|VE|Mérida|78|f
 Albertina|-34.205|21.580|ZA|Western Cape|78
 Albbruck|47.591|8.130|DE|Baden-Wurttemberg|77
 Albertville|45.238|-93.654|US|Minnesota|77
+Alborz Mountains|35.966|52.543|IR|Māzandarān|77|f
 Albion Park Rail|-34.566|150.792|AU|New South Wales|77
 Alba Posse|-27.569|-54.684|AR|Misiones|76
 Albeşti|47.700|27.067|RO|Botoșani County|76
@@ -97,6 +105,7 @@ Albuñol|36.792|-3.205|ES|Andalusia|76
 Albion|43.246|-78.194|US|New York|76
 Albavilla|45.800|9.185|IT|Lombardy|75
 Albeştii Pământeni|45.207|24.668|RO|Arges|75
+Albert Whitted Airport|27.764|-82.628|US|Florida|75|f
 Albeşti-Paleologu|44.950|26.217|RO|Prahova|75
 Alburquerque|39.221|-7.002|ES|Extremadura|75
 Albert Falls|-29.440|30.433|ZA|KwaZulu-Natal|75
@@ -108,16 +117,21 @@ Albertson|40.773|-73.643|US|New York|74
 Albuera|10.916|124.695|PH|Eastern Visayas|74
 Alba de Tormes|40.827|-5.512|ES|Castille and León|74
 Albrighton|52.636|-2.280|GB|England|74
+Albany Island|-10.730|142.605|AU|Queensland|73|f
+Alberto Delgado Airport|21.788|-79.998|CU|Sancti Spíritus Province|73|f
 Albinea|44.629|10.610|IT|Emilia-Romagna|73
 Albeşti|45.310|25.008|RO|Arges|73
 Albershausen|48.691|9.565|DE|Baden-Wurttemberg|73
 Albania|1.329|-75.878|CO|Caquetá|72
+Albuq Airport|17.350|44.625|YE|Omran|72|f
 Albese Con Cassano|45.795|9.164|IT|Lombardy|72
 Albairate|45.420|8.937|IT|Lombardy|72
 Albina|5.498|-54.055|SR|Marowijne District|72
 Albota de Jos|44.767|24.833|RO|Arges|72
 Albia|41.027|-92.806|US|Iowa|72
 Albrechtice|49.786|18.524|CZ|Moravian-Silesian Region|72
+Albacete Airport|38.949|-1.864|ES|Castille-La Mancha|71|f
+Albert Hall Museum|26.912|75.819|IN|Rajasthan|71|f
 Albersdorf|54.145|9.287|DE|Schleswig-Holstein|71
 Albalat dels Sorells|39.544|-0.346|ES|Valencia|71
 Albeşti|43.800|28.417|RO|Constanța County|71
@@ -128,6 +142,7 @@ Albeşti|46.500|27.867|RO|Vaslui County|70
 Albertstadt|51.083|13.767|DE|Saxony|70
 Albion|-20.208|57.408|MU|Black River|70
 Alberschwende|47.450|9.832|AT|Vorarlberg|70
+Al-Baha Domestic Airport|20.295|41.640|SA|Al Bahah Region|70|f
 Albertina|-22.201|-46.616|BR|Minas Gerais|69
 Albinia|42.503|11.210|IT|Tuscany|69
 Albigowa|50.014|22.224|PL|Subcarpathia|69
@@ -164,6 +179,7 @@ Albersweiler|49.219|8.030|DE|Rheinland-Pfalz|66
 Alby-sur-Chéran|45.817|6.017|FR|Auvergne-Rhône-Alpes|66
 Albiano Magra|44.176|9.916|IT|Tuscany|66
 Albota|44.783|24.850|RO|Arges|65
+Albertus Airport|42.246|-89.582|US|Illinois|65|f
 Albadarr|13.334|-16.387|GM|North Bank|65
 Albany|39.223|-94.113|US|Missouri|65
 Albareto|44.690|10.967|IT|Emilia-Romagna|65
@@ -183,6 +199,12 @@ Albesa|41.753|0.659|ES|Catalonia|64
 Albudeite|38.029|-1.387|ES|Murcia|64
 Albiano|46.145|11.195|IT|Trentino-Alto Adige|63
 Albanella|40.479|15.115|IT|Campania|63
+Ålbæk Bugt|57.596|10.532|DK|North Denmark|63|f
+Albany Hill|37.895|-122.305|US|California|63|f
+Albemarle Island|-0.593|-91.025|EC|Galápagos|63|f
+Albeni Falls Dam|48.179|-116.999|US|Idaho|63|f
+Albufera de Valencia|39.333|-0.367|ES|Valencia|63|f
+Albuquerque International Airport|35.042|-106.607|US|New Mexico|63|f
 Albion|41.891|-80.366|US|Pennsylvania|63
 Ålbæk|55.487|8.642|DK|South Denmark|63
 Albidona|39.923|16.472|IT|Calabria|63
@@ -201,6 +223,12 @@ Albalate de Cinca|41.725|0.152|ES|Aragon|61
 Albers|38.543|-89.612|US|Illinois|61
 Albersdorf|47.122|15.698|AT|Styria|61
 Albania|5.767|-73.233|CO|Boyacá|61
+Albany County Airport|42.748|-73.802|US|New York|61|f
+Alberni Valley Regional Airport|49.319|-124.930|CA|British Columbia|61|f
+Albert – Picardie Airport|49.972|2.698|FR|Hauts-de-France|61|f
+Albright Peak|43.671|-110.814|US|Wyoming|61|f
+Albysjön|59.239|17.874|SE|Stockholm|61|f
+Albysjön|59.228|18.285|SE|Stockholm|61|f
 Albești-Muru|44.944|26.209|RO|Prahova|61
 Alberi|44.748|10.330|IT|Emilia-Romagna|61
 Alberto Carrera Torres|21.772|-101.012|MX|San Luis Potosí|61
@@ -212,49 +240,141 @@ Albiș|47.390|22.245|RO|Bihor County|60
 Albrechtice nad Vltavou|49.253|14.303|CZ|South Bohemian Region|60
 Albany|42.708|-89.437|US|Wisconsin|60
 Albarracín|40.408|-1.444|ES|Aragon|60
+Albești|44.990|26.926|RO|Buzău County|60
 Alborache|39.383|-0.767|ES|Valencia|60
+Alban|43.888|2.461|FR|Occitanie|59
 Albondón|36.828|-3.211|ES|Andalusia|59
+Albany|39.228|-82.202|US|Ohio|59
+Albulești|44.516|23.204|RO|Mehedinți County|59
 Albalá|39.256|-6.185|ES|Extremadura|59
+Alburitel|39.649|-8.520|PT|Santarém|59
+Albany|41.789|-90.219|US|Illinois|59
 Albelda|41.865|0.460|ES|Aragon|59
 Alberona|41.432|15.123|IT|Apulia|59
+Alba-Penia|46.458|11.797|IT|Trentino-Alto Adige|59
 Albatana|38.571|-1.522|ES|Castille-La Mancha|59
+Albarè Stazione|45.572|10.756|IT|Veneto|58
+Albești|44.068|25.120|RO|Teleorman County|58
 Albania|5.759|-73.914|CO|Santander Department|58
+Albarradones|21.040|-101.504|MX|Guanajuato|58
+Alberone|45.690|11.848|IT|Veneto|58
 Albettone|45.358|11.584|IT|Veneto|58
+Alboussière|44.944|4.729|FR|Auvergne-Rhône-Alpes|58
+Al Bayda Airport|14.107|45.442|YE|Shabwah|58|f
+Albatross Island|-54.020|-37.332|GS||58|f
+Albert J. Ellis Airport|34.831|-77.606|US|North Carolina|58|f
+Albury Botanic Gardens|-36.081|146.909|AU|New South Wales|58|f
 Albalat dels Tarongers|39.700|-0.333|ES|Valencia|58
 Alborea|39.283|-1.383|ES|Castille-La Mancha|58
 Albalate de Zorita|40.308|-2.843|ES|Castille-La Mancha|58
+Alberoni|45.348|12.318|IT|Veneto|58
+Albaro|45.353|11.192|IT|Veneto|58
+Albolodúy|37.033|-2.622|ES|Andalusia|58
 Albi|39.025|16.597|IT|Calabria|58
 Albanchez|37.284|-2.182|ES|Andalusia|57
+Alberndorf|48.700|16.100|AT|Lower Austria|57
 Alberndorf in der Riedmark|48.406|14.414|AT|Upper Austria|57
+Alberto Villarreal|25.944|-100.412|MX|Nuevo León|57
+Albany|43.958|-71.168|US|New Hampshire|57
+Alburnett|42.148|-91.619|US|Iowa|57
+Albefeuille-Lagarde|44.048|1.262|FR|Occitanie|57
+Albestroff|48.933|6.856|FR|Grand Est|57
+Albele|46.365|26.673|RO|Bacău County|57
+Albert City|42.782|-94.949|US|Iowa|57
+Albussac|45.138|1.836|FR|New Aquitaine|57
+Al Buwayrah|31.488|35.117|PS|West Bank|57
+Albrechtičky|49.702|18.096|CZ|Moravian-Silesian Region|57
 Albarreal de Tajo|39.897|-4.229|ES|Castille-La Mancha|57
+Albești|44.375|23.767|RO|Dolj|57
+Albina|45.883|12.514|IT|Veneto|56
+Albanne|45.206|6.420|FR|Auvergne-Rhône-Alpes|56
+Alberoro|43.367|11.808|IT|Tuscany|56
+Albes|46.677|11.631|IT|Trentino-Alto Adige|56
+Al Buwayb|31.464|35.152|PS|West Bank|56
+Albești|44.689|24.461|RO|Olt|55
+Albeuve|46.517|7.057|CH|Fribourg|55
+Albas|44.468|1.237|FR|Occitanie|55
+Albion|46.791|-117.250|US|Washington|55
+Albury|51.220|-0.502|GB|England|55
+Alberone|44.965|11.827|IT|Emilia-Romagna|55
 Albonese|45.293|8.706|IT|Lombardy|55
 Albons|42.104|3.084|ES|Catalonia|55
+Alberswil|47.150|8.003|CH|Lucerne|55
+Albisu|-31.384|-57.815|UY|Salto Department|55
+Albine|43.459|2.539|FR|Occitanie|55
+Alba|37.238|-94.417|US|Missouri|55
 Albareto|44.447|9.702|IT|Emilia-Romagna|55
 Albares|40.307|-3.009|ES|Castille-La Mancha|55
+Albany Street Bridge|40.497|-74.438|US|New Jersey|54|f
+Albert Capsouto Park|40.722|-74.006|US|New York|54|f
+Albert Park|-37.847|144.970|AU|Victoria|54|f
+Albertville Regional Airport|34.229|-86.256|US|Alabama|54|f
+Albion Mountains|42.230|-113.718|US|Idaho|54|f
+Albion Municipal Airport|41.729|-98.056|US|Nebraska|54|f
+Albis|47.268|8.527|CH|Zurich|54|f
+Albone Glacier|-64.236|-59.725|AQ||54|f
+Albrunhorn|46.364|8.283|IT|Piedmont|54|f
+Albury Airport|-36.068|146.958|AU|New South Wales|54|f
+Alberstedt|51.448|11.625|DE|Saxony-Anhalt|54
+Albrechtice|49.928|16.645|CZ|Pardubice Region|54
+Alba|32.793|-95.634|US|Texas|54
 Albuñán|37.227|-3.133|ES|Andalusia|53
 Albalate de las Nogueras|40.366|-2.277|ES|Castille-La Mancha|52
 Albaladejo del Cuende|39.807|-2.229|ES|Castille-La Mancha|52
 Alberuela de Tubo|41.908|-0.214|ES|Aragon|52
 Albaredo|46.103|9.590|IT|Lombardy|51
 Albiztur|43.129|-2.136|ES|Basque Country|50
+Alba Fucens|42.080|13.411|IT|Abruzzo|49|f
+Albanus Glacier|-85.867|-151.000|AQ||49|f
+Albarquel Fort|38.511|-8.914|PT|Setúbal|49|f
+Albatross Island|-35.068|136.180|AU|South Australia|49|f
+Albatross Island|-40.370|144.650|AU|Tasmania|49|f
+Albay Gulf|13.188|123.871|PH|Bicol Region|49|f
+Alberbury Castle|52.723|-2.952|GB|England|49|f
+Albert Falls Dam|-29.440|30.412|ZA|KwaZulu-Natal|49|f
+Albertis Castle|44.418|8.924|IT|Liguria|49|f
+Alberton Oval|-34.864|138.519|AU|South Australia|49|f
+Alberts Glacier|-66.847|-64.899|AQ||49|f
+Albrecht Penck Glacier|-76.667|162.333|AQ||49|f
+Albristhore|46.497|7.489|CH|Bern|49|f
 Albano Vercellese|45.426|8.381|IT|Piedmont|49
 Albagiara|39.787|8.862|IT|Sardinia|49
 Albalatillo|41.735|-0.151|ES|Aragon|48
 Alba de Yeltes|40.672|-6.317|ES|Castille and León|48
 Alba|40.618|-1.347|ES|Aragon|48
+Albersdorf|50.903|11.773|DE|Thuringia|47
 Albugnano|45.078|7.971|IT|Piedmont|47
 Albillos|42.277|-3.789|ES|Castille and León|47
 Albornos|40.838|-4.881|ES|Castille and León|47
 Albosaggia|46.147|9.854|IT|Lombardy|46
 Albeta|41.826|-1.499|ES|Aragon|44
 Albendea|40.488|-2.417|ES|Castille-La Mancha|44
+Albessen|49.517|7.333|DE|Rheinland-Pfalz|42
 Alborge|41.334|-0.357|ES|Aragon|42
 Albero Alto|42.050|-0.337|ES|Aragon|42
 Alberite de San Juan|41.820|-1.471|ES|Aragon|40
+Albany Municipal Airport|32.720|-99.269|US|Texas|40|f
+Albany Municipal Airport|40.264|-94.340|US|Missouri|40|f
+Albany Municipal Airport|44.639|-123.060|US|Oregon|40|f
+Albarregas Roman bridge|38.924|-6.349|ES|Extremadura|40|f
+Albena Peninsula|-64.142|-62.150|AQ||40|f
+Alberich Glacier|-77.600|161.600|AQ||40|f
+Albert Bridge|51.482|-0.167|GB|England|40|f
+Albert Edward Bay|69.534|-102.419|CA|Nunavut|40|f
+Albert Lake|63.374|-152.512|US|Alaska|40|f
+Albert Mountain|35.052|-83.477|US|North Carolina|40|f
+Alberta B Farrington Softball Stadium|33.425|-111.923|US|Arizona|40|f
+Alberts Lake|54.810|-101.539|CA|Manitoba|40|f
+Alberts, Mount|-73.033|167.867|AQ||40|f
+Albreda Lake|52.630|-119.158|CA|British Columbia|40|f
+Albright Bridge|42.405|-93.810|US|Iowa|40|f
+Albright-Knox Art Gallery|42.933|-78.876|US|New York|40|f
+Albuquerque Museum|35.097|-106.669|US|New Mexico|40|f
 Alba de Cerrato|41.813|-4.365|ES|Castille and León|40
 Albero Bajo|42.024|-0.380|ES|Aragon|39
 Albaretto della Torre|44.596|8.065|IT|Piedmont|39
 Albera Ligure|44.702|9.067|IT|Piedmont|36
+Albsfelde|53.683|10.700|DE|Schleswig-Holstein|33
 Albendiego|41.227|-3.052|ES|Castille-La Mancha|31
 Al Ba‘āj|36.043|41.716|IQ|Nineveh|0
 Al Bahlūlīyah|35.637|35.960|SY|Latakia|0

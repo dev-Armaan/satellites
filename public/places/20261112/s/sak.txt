@@ -15,6 +15,7 @@ Sakon Nakhon|17.161|104.147|TH|Sakon Nakhon|98
 Sakrand|26.138|68.274|PK|Sindh|97
 Sakurai|34.500|135.850|JP|Nara|95
 Sakaidechō|34.323|133.836|JP|Kagawa|95
+Sakhalin|51.000|143.000|RU|Sakhalin Oblast|95|f
 Sakura|36.721|139.988|JP|Tochigi|93
 Sakété|6.736|2.659|BJ|Plateau|93
 Sakhipur|24.320|90.169|BD|Dhaka Division|92
@@ -35,6 +36,7 @@ Sakri|20.991|74.315|IN|Maharashtra|87
 Sakchu-ŭp|40.389|125.047|KP|P'yŏngan-bukto|85
 Sake|-1.574|29.043|CD|North Kivu|85
 Sakassou|7.455|-5.293|CI|Vallée du Bandama District|85
+Sakon Nakhon Airport|17.195|104.118|TH|Sakon Nakhon|84|f
 Sakai|35.706|139.544|JP|Tokyo|84
 Sakaki|36.467|138.183|JP|Nagano|84
 Sakharkherda|20.206|76.398|IN|Maharashtra|83
@@ -55,14 +57,18 @@ Saksaul’skiy|47.082|61.152|KZ|Kyzylorda|79
 Sakahogi|35.427|136.985|JP|Gifu|78
 Saki|34.298|136.393|JP|Mie|78
 Sakīt|27.435|78.779|IN|Uttar Pradesh|78
+Sakishima Group|24.767|124.000|JP|Okinawa|78|f
 Sakaridani|34.270|132.917|JP|Hiroshima|77
 Sakhnovshchyna|49.150|35.873|UA|Kharkiv|77
 Sakiet Sidi Youssef|36.223|8.355|TN|Kef Governorate|76
 Säkylä|61.033|22.333|FI|Satakunta|76
 Sakaouo|6.464|-5.691|CI|Goh-Djiboua|75
 Saktasanala|22.787|70.803|IN|Gujarat|75
+Sakurajima|31.592|130.656|JP|Kagoshima|74|f
 Šakiai|54.953|23.048|LT|Marijampolė County|74
 Sakré|5.682|-7.392|CI|Montagnes|74
+Sakkyryr Airport|67.792|130.391|RU|Sakha|73|f
+Saksaywaman|-13.509|-71.983|PE|Cuzco Department|73|f
 Sakmara|51.984|55.334|RU|Orenburg Oblast|73
 Sakskøbing|54.800|11.626|DK|Zealand|73
 Saku|59.304|24.664|EE|Harjumaa|73
@@ -71,22 +77,47 @@ Sakharna Holovka|44.584|33.644|UA|Sevastopol City|72
 Sakçagöz|37.172|36.916|TR|Gaziantep|72
 Sakiaré|5.381|-6.644|CI|Bas-Sassandra District|72
 Sakharovo|56.899|36.050|RU|Tver Oblast|72
+Sakao|-16.500|167.817|VU|Malampa|71|f
 Sakanoue|41.915|140.288|JP|Hokkaido|71
 Sak Sampov|11.458|104.859|KH|Phnom Penh|71
 Saksahan|48.344|33.842|UA|Dnipropetrovsk|68
 Sakouéllé|9.230|-6.019|CI|Savanes District|68
 Sakule|45.147|20.486|RS|Vojvodina|67
+Sakuma Dam|35.124|139.897|JP|Chiba|67|f
 Sa Khan Gyi|17.123|96.220|MM|Yangon|67
+Sakura Jima|31.583|130.667|JP|Kagoshima|65|f
 Sakuragaokachō|35.656|139.701|JP|Tokyo|65
 Sakae|36.988|138.577|JP|Nagano|64
 Šakvice|48.897|16.714|CZ|South Moravian|64
+Sakar Planina|41.983|26.354|BG|Haskovo|63|f
+Sakate-jima|34.487|136.858|JP||63|f
+Saken Island|-16.428|-144.354|PF|Tuamotu-Gambier Islands|63|f
+Sakuma-damu|35.100|137.794|JP|Aichi|63|f
 Sakgar|38.432|56.394|TM|Balkan|62
 Sakota|5.904|-5.193|CI|Goh-Djiboua|61
+Sakar Island|-5.408|148.083|PG|Morobe Province|61|f
+Säkkiluoto|60.279|21.767|FI|Southwest Finland|61|f
 Sakarkaya|37.645|37.404|TR|Kahramanmaraş|60
 Sakua|6.014|-5.920|CI|Goh-Djiboua|60
+Sakassou|6.549|-4.825|CI|Lacs District|60
+Sakallı|37.847|39.885|TR|Diyarbakır Province|59
+Sakmut Leu|13.518|107.190|KH|Ratanakiri|56
+Sakhanske|47.270|30.033|UA|Odesa|56
+Sakoumadougou|9.705|-6.032|CI|Savanes District|56
+Sakmut Kraom|13.533|107.214|KH|Ratanakiri|55
+Sakura Park|40.813|-73.962|US|New York|54|f
+Sakhnivshchyna|49.447|34.974|UA|Poltava|54
+Sakkiak Island|64.151|-76.549|CA|Nunavut|40|f
+Saklıkent National Park|36.469|29.405|TR|Antalya|40|f
 Sa Khrai|17.675|102.751|TH|Nong Khai|0
 Sak Lek|16.505|100.471|TH|Phichit|0
 Sakaba|11.065|5.596|NG|Kebbi|0
+Sakerta Barat|-7.034|108.406|ID|West Java|0
+Sakerta Timur|-7.037|108.416|ID|West Java|0
 Saketi|-6.401|105.992|ID|Banten|0
+Saketipasar|-6.401|105.994|ID|Banten|0
+Saketipasir|-6.398|105.993|ID|Banten|0
 Sakhnivtsi|49.971|26.853|UA|Khmelnytskyi|0
 Sakra|-8.683|116.462|ID|West Nusa Tenggara|0
+Sakteo|-9.796|124.280|ID|East Nusa Tenggara|0
+Sakti|-8.706|115.482|ID|Bali|0

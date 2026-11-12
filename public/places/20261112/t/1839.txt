@@ -489,20 +489,34 @@ Castiglione Cosentino|39.353|16.288|IT|Calabria|60
 Carlopoli|39.054|16.455|IT|Calabria|60
 San Basile|39.810|16.163|IT|Calabria|60
 Santa Domenica Talao|39.819|15.854|IT|Calabria|60
+Bosco-Belloro|38.142|16.126|IT|Calabria|60
 Laino Borgo|39.954|15.973|IT|Calabria|60
 Maropati|38.442|16.098|IT|Calabria|60
 Castelsilano|39.269|16.767|IT|Calabria|60
+Karousádes|39.780|19.745|GR|Ionian Islands|60
 Cicala|39.022|16.486|IT|Calabria|60
+Bosco Sant'Ippolito|38.135|16.141|IT|Calabria|60
 Falerna|39.003|16.172|IT|Calabria|60
+Piragineti|39.610|16.574|IT|Calabria|60
 Serra Pedace|39.279|16.346|IT|Calabria|60
+Archi|38.195|15.274|IT|Sicily|60
+Káto Korakiána|39.690|19.828|GR|Ionian Islands|60
+Salice|38.250|15.496|IT|Sicily|60
 Melicuccà|38.303|15.882|IT|Calabria|60
 Gerocarne|38.588|16.218|IT|Calabria|60
+Áno Korakiána|39.706|19.792|GR|Ionian Islands|60
 Petrizzi|38.702|16.472|IT|Calabria|60
+San Filippo Superiore|38.165|15.501|IT|Sicily|60
+Ortomatera|39.325|16.214|IT|Calabria|59
 Montepaone|38.722|16.498|IT|Calabria|59
+Mortilla|38.942|16.211|IT|Calabria|59
 Bagaladi|38.026|15.822|IT|Calabria|59
 Orsomarso|39.799|15.907|IT|Calabria|59
 Scido|38.244|15.933|IT|Calabria|59
 Platania|39.006|16.322|IT|Calabria|59
+Bosco-Strisce|38.463|15.939|IT|Calabria|59
+Giampilieri|38.068|15.470|IT|Sicily|59
+Barbarano del Capo|39.863|18.327|IT|Apulia|59
 Arena|38.562|16.211|IT|Calabria|59
 Serrata|38.513|16.101|IT|Calabria|59
 Antillo|37.979|15.240|IT|Sicily|59
@@ -511,94 +525,249 @@ Scala Coeli|39.448|16.887|IT|Calabria|59
 Civita|39.828|16.313|IT|Calabria|59
 Limina|37.941|15.271|IT|Sicily|59
 Trenta|39.285|16.321|IT|Calabria|59
+Chrysiída|39.590|19.897|GR|Ionian Islands|59
+Salerni|39.388|16.229|IT|Calabria|59
 San Nicola dell'Alto|39.291|16.972|IT|Calabria|59
+Camigliatello Silano|39.341|16.441|IT|Calabria|59
 Figline Vegliaturo|39.225|16.330|IT|Calabria|59
 Bruzzano Zeffirio|38.013|16.083|IT|Calabria|59
+Curcuraci|38.260|15.569|IT|Sicily|59
+Martelletto|38.892|16.535|IT|Calabria|59
+Fontane Bianche|36.966|15.209|IT|Sicily|59
+Farina IV|39.041|17.110|IT|Calabria|59
+Monforte Marina|38.206|15.337|IT|Sicily|59
+Vaccarizzo-Delfino|37.373|15.081|IT|Sicily|59
+Liapádes|39.669|19.740|GR|Ionian Islands|59
+Vena di Maida|38.887|16.409|IT|Calabria|59
+Itala Marina|38.037|15.453|IT|Sicily|59
 Simbario|38.612|16.336|IT|Calabria|59
 Samo|38.074|16.059|IT|Calabria|59
+Scarcelli|38.205|15.432|IT|Sicily|59
+Káto Agios Márkos|39.706|19.833|GR|Ionian Islands|59
 Rometta|38.170|15.414|IT|Sicily|59
+Camigliano|39.546|16.852|IT|Calabria|59
+Marina di Santa Maria del Cedro|39.754|15.807|IT|Calabria|59
+Sinarádes|39.566|19.848|GR|Ionian Islands|59
+Terreti|38.121|15.711|IT|Calabria|59
 Benestare|38.185|16.139|IT|Calabria|59
+Apollinara|39.701|16.417|IT|Calabria|59
+La Gala|38.118|15.231|IT|Sicily|59
+Áfra|39.622|19.858|GR|Ionian Islands|58
+Gouviá|39.653|19.843|GR|Ionian Islands|58
 Serrastretta|39.013|16.416|IT|Calabria|58
+Avliótes|39.778|19.664|GR|Ionian Islands|58
+Pedali|39.995|16.060|IT|Basilicate|58
 Magisano|39.013|16.628|IT|Calabria|58
 Montauro|38.749|16.512|IT|Calabria|58
 Santa Cristina d'Aspromonte|38.255|15.970|IT|Calabria|58
 Marzi|39.171|16.307|IT|Calabria|58
+Rodia-S.saba|38.273|15.486|IT|Sicily|58
+Drosi|38.426|15.957|IT|Calabria|58
+Kassiopi|39.788|19.921|GR|Ionian Islands|58
 Amato|38.942|16.462|IT|Calabria|58
+Fronti|38.981|16.348|IT|Calabria|58
 Dinami|38.531|16.145|IT|Calabria|58
 Miglierina|38.951|16.472|IT|Calabria|58
 Malvagna|37.918|15.055|IT|Sicily|58
+Brattirò|38.646|15.887|IT|Calabria|58
+Kastanéa|39.593|19.885|GR|Ionian Islands|58
+Monsoreto|38.515|16.167|IT|Calabria|58
 Mongiuffi Melia|37.903|15.275|IT|Sicily|58
+Scalo Ferroviario|39.246|16.060|IT|Calabria|58
 Zaccanopoli|38.665|15.929|IT|Calabria|58
 Alì|38.027|15.419|IT|Sicily|58
 Paterno Calabro|39.228|16.265|IT|Calabria|58
 Crucoli|39.427|17.003|IT|Calabria|58
+Piano D'Agazio|38.915|16.755|IT|Calabria|58
 Sant'Andrea Apostolo dello Ionio|38.622|16.530|IT|Calabria|58
 Spadola|38.604|16.337|IT|Calabria|58
+Ypsos|39.695|19.837|GR|Ionian Islands|58
+Simeri Mare|38.865|16.698|IT|Calabria|58
 Santo Stefano in Aspromonte|38.169|15.790|IT|Calabria|58
+Othonoí|39.842|19.405|GR|Ionian Islands|58
 Albi|39.025|16.597|IT|Calabria|58
 Andali|39.013|16.769|IT|Calabria|58
+Fondachello|38.216|15.356|IT|Sicily|58
 Plataci|39.900|16.433|IT|Calabria|58
+San Leonardo di Cutro|38.952|16.981|IT|Calabria|58
 Joppolo|38.583|15.897|IT|Calabria|58
+San Filippo-Battendieri|39.505|15.971|IT|Calabria|58
 Moio Alcantara|37.901|15.051|IT|Sicily|57
 Carfizzi|39.308|16.974|IT|Calabria|57
+Cirella|39.714|15.810|IT|Calabria|57
+Redipiano|39.353|16.316|IT|Calabria|57
+Contrada Sant'Anna Iv|39.000|17.070|IT|Calabria|57
+Longobardi|38.704|16.121|IT|Calabria|57
+Lido di Noto|36.859|15.114|IT|Sicily|57
 San Nicola|38.212|15.694|IT|Calabria|57
+San Paolo-Cannistrà|38.133|15.233|IT|Sicily|57
+Kompítsion|39.605|19.867|GR|Ionian Islands|57
 Santa Caterina dello Ionio|38.533|16.522|IT|Calabria|57
+Monterosso|37.643|15.091|IT|Sicily|57
+Barritteri|38.330|15.849|IT|Calabria|57
+Límni|39.663|19.848|GR|Ionian Islands|57
 Aiello Calabro|39.118|16.165|IT|Calabria|57
+Spina|38.418|15.988|IT|Calabria|57
 San Giorgio Albanese|39.582|16.453|IT|Calabria|57
+Contrada Difesa II|38.797|16.218|IT|Calabria|57
+San Costantino|38.705|16.003|IT|Calabria|57
 Stignano|38.417|16.470|IT|Calabria|57
 Aieta|39.928|15.823|IT|Calabria|57
+Torre Suda|39.956|18.034|IT|Apulia|57
+Uria|38.913|16.727|IT|Calabria|57
 Roccavaldina|38.183|15.374|IT|Sicily|57
 Bonifati|39.586|15.902|IT|Calabria|57
 Motta Santa Lucia|39.091|16.293|IT|Calabria|57
+Sant'Ippolito|39.267|16.294|IT|Calabria|57
+Sambatello|38.179|15.693|IT|Calabria|57
+Rocchenere|37.974|15.376|IT|Sicily|57
+Gallina|36.935|15.174|IT|Sicily|57
 Conflenti|39.072|16.285|IT|Calabria|57
 Francavilla Angitola|38.780|16.272|IT|Calabria|57
 Placanica|38.411|16.453|IT|Calabria|57
+Fontanesi-Santa Lucia|39.301|16.191|IT|Calabria|57
+Cavora-Lenticchia|38.952|16.557|IT|Calabria|57
 Roccella Valdemone|37.933|15.010|IT|Sicily|57
 Cessaniti|38.664|16.030|IT|Calabria|57
 Careri|38.177|16.116|IT|Calabria|57
 San Benedetto Ullano|39.427|16.124|IT|Calabria|57
 San Vincenzo la Costa|39.365|16.151|IT|Calabria|57
+Gastoúri|39.561|19.898|GR|Ionian Islands|57
+Marina|39.164|16.066|IT|Calabria|57
 Torre di Ruggiero|38.653|16.372|IT|Calabria|57
+Amendola|39.343|16.137|IT|Calabria|57
+Perouládes|39.786|19.673|GR|Ionian Islands|57
+Caredia-Lacco|37.956|15.797|IT|Calabria|57
+Corica|39.085|16.088|IT|Calabria|56
+Arenella|37.003|15.262|IT|Sicily|56
 Castroreale|38.099|15.210|IT|Sicily|56
+Petrití|39.453|19.998|GR|Ionian Islands|56
+Arente|39.383|16.263|IT|Calabria|56
+Argyrádes|39.435|19.976|GR|Ionian Islands|56
 Brognaturo|38.601|16.341|IT|Calabria|56
+Foresta|39.564|16.497|IT|Calabria|56
+Prunella|37.941|15.795|IT|Calabria|56
 Cerzeto|39.508|16.116|IT|Calabria|56
+Cucco-Riviere|39.701|15.816|IT|Calabria|56
+Morelli Catena Sottana|39.281|16.284|IT|Calabria|56
+San Giacomo|39.525|16.464|IT|Calabria|56
+Caria|38.647|15.903|IT|Calabria|56
+Pratora|38.912|16.535|IT|Calabria|56
+Marinella|38.926|16.224|IT|Calabria|56
+Bafia|38.074|15.205|IT|Sicily|56
+Canalello|38.018|16.134|IT|Calabria|56
+Stromboli|38.803|15.238|IT|Sicily|56
 Sorianello|38.594|16.232|IT|Calabria|56
+Rina|37.943|15.334|IT|Sicily|56
+Casello dei Morti|39.597|16.117|IT|Calabria|56
+Benítses|39.544|19.914|GR|Ionian Islands|56
 Sant'Agata del Bianco|38.092|16.083|IT|Calabria|56
 Martirano Lombardo|39.075|16.232|IT|Calabria|56
+Doukádes|39.690|19.741|GR|Ionian Islands|56
+Calimera|38.555|16.015|IT|Calabria|56
 San Pietro di Caridà|38.524|16.135|IT|Calabria|56
 Milo|37.724|15.116|IT|Sicily|56
 San Lorenzo Bellizzi|39.889|16.330|IT|Calabria|56
+San Sostene Marina|38.650|16.553|IT|Calabria|56
 Pazzano|38.476|16.451|IT|Calabria|56
+San Giacomo|39.500|16.114|IT|Calabria|56
+Pertina|39.516|16.441|IT|Calabria|56
 Roseto Capo Spulico|39.986|16.604|IT|Calabria|56
+San Giacomo-Marinella|39.574|16.822|IT|Calabria|56
+Santa Maria di Settimo|39.376|16.202|IT|Calabria|56
+Pianetti|39.430|16.193|IT|Calabria|56
+Protonotaro|38.121|15.192|IT|Sicily|56
+San Biase|39.224|16.091|IT|Calabria|56
+Contessa|39.440|16.216|IT|Calabria|56
+Magolà|38.977|16.330|IT|Calabria|56
+Ágios Ioánnis|39.616|19.848|GR|Ionian Islands|56
 Calopezzati|39.561|16.802|IT|Calabria|56
+Scalo Ferroviario|39.607|16.207|IT|Calabria|56
+Laise|39.629|15.870|IT|Calabria|56
+Marina di Mancaversa|39.967|18.023|IT|Apulia|55
+Padula|39.339|16.270|IT|Calabria|55
+Colelli|38.212|15.722|IT|Calabria|55
+Serra Miceli|39.306|16.201|IT|Calabria|55
+Germaneto|38.885|16.577|IT|Calabria|55
 Martirano|39.081|16.248|IT|Calabria|55
+San Pier Marina|38.200|15.326|IT|Sicily|55
 Domanico|39.217|16.207|IT|Calabria|55
+Trafinello I|39.054|17.105|IT|Calabria|55
 Motta Camastra|37.894|15.170|IT|Sicily|55
 Mandanici|38.004|15.317|IT|Sicily|55
 Riace|38.418|16.481|IT|Calabria|55
 Basicò|38.061|15.063|IT|Sicily|55
+Massa|39.984|15.745|IT|Basilicate|55
+Solano Superiore|38.252|15.799|IT|Calabria|55
 San Cosmo Albanese|39.584|16.415|IT|Calabria|55
+Kokkínion|39.609|19.815|GR|Ionian Islands|55
 Mangone|39.204|16.333|IT|Calabria|55
+Capitano|39.357|16.271|IT|Calabria|55
+Káto Garoúna|39.539|19.865|GR|Ionian Islands|55
 Ricadi|38.625|15.867|IT|Calabria|55
+Sangineto Lido|39.587|15.867|IT|Calabria|55
+Chimento|39.560|16.460|IT|Calabria|55
+Mazzeo|37.872|15.301|IT|Sicily|55
+Solicchiata|37.864|15.065|IT|Sicily|55
+Giannádes|39.631|19.763|GR|Ionian Islands|55
+Mongiove|38.148|15.014|IT|Sicily|55
+Kyrá Chrysikoú|39.640|19.835|GR|Ionian Islands|55
 Mongrassano|39.526|16.112|IT|Calabria|55
+Acquaficara|38.129|15.207|IT|Sicily|55
+Melicuccà|38.537|16.157|IT|Calabria|55
+Róda|39.787|19.793|GR|Ionian Islands|55
+Arzona-Pizzinni|38.625|16.047|IT|Calabria|55
+Donnici Superiore|39.248|16.304|IT|Calabria|55
+Marina di San Lorenzo|37.921|15.832|IT|Calabria|55
+Sant'Anna|37.745|15.204|IT|Sicily|55
 Zambrone|38.699|15.990|IT|Calabria|55
 Mongiana|38.515|16.319|IT|Calabria|55
+Cancello|38.941|16.430|IT|Calabria|55
 San Donato di Ninea|39.712|16.047|IT|Calabria|55
+San Pantaleone|37.989|15.842|IT|Calabria|55
+Scaro-Reggio-Scornavacca-Vardano|39.228|16.061|IT|Calabria|55
+Moraḯtika|39.485|19.925|GR|Ionian Islands|55
+Masella|37.966|15.754|IT|Calabria|55
 Martone|38.354|16.288|IT|Calabria|55
+Mili San Pietro|38.126|15.489|IT|Sicily|55
+Chorio|37.986|15.812|IT|Calabria|55
+Gesso|38.235|15.469|IT|Sicily|55
+Destro|39.489|16.694|IT|Calabria|55
 Agnana Calabra|38.302|16.227|IT|Calabria|55
+Castagna|39.055|16.437|IT|Calabria|55
+Macchia|39.506|16.423|IT|Calabria|55
 Malito|39.158|16.247|IT|Calabria|55
+Vasì|38.337|16.448|IT|Calabria|55
 Evangelisti-Rubino|37.984|15.173|IT|Sicily|55
+Marina di Sant'Ilario dello Ionio|38.198|16.226|IT|Calabria|55
+Santa Venera-Portosalvo|37.779|15.172|IT|Sicily|55
+Giuliano|39.849|18.337|IT|Apulia|55
 Jacurso|38.846|16.380|IT|Calabria|55
+Torremezzo di Falconara|39.269|16.058|IT|Calabria|55
+Vallegianno|39.199|16.305|IT|Calabria|55
 San Giovanni di Gerace|38.365|16.278|IT|Calabria|55
+Santa Maria le Grotte|39.477|16.142|IT|Calabria|55
+Favaco|38.361|16.485|IT|Calabria|55
+Ruggiano|39.870|18.316|IT|Apulia|54
+Trunca|38.046|15.751|IT|Calabria|54
+Fanusa|37.023|15.280|IT|Sicily|54
 Alessandria del Carretto|39.959|16.380|IT|Calabria|54
 Fiumefreddo Bruzio|39.236|16.071|IT|Calabria|54
+Calalunga-Pietragrande|38.739|16.549|IT|Calabria|54
 Roccaforte del Greco|38.048|15.892|IT|Calabria|54
+Tritanti|38.449|16.101|IT|Calabria|54
+Bucita|39.348|16.132|IT|Calabria|54
 Casignana|38.102|16.090|IT|Calabria|54
+Kavvadádes|39.746|19.679|GR|Ionian Islands|54
+Spartýlas|39.721|19.841|GR|Ionian Islands|54
 Forza d'Agrò|37.915|15.334|IT|Sicily|54
+Mandorleto|38.214|16.244|IT|Calabria|54
 Caraffa del Bianco|38.093|16.088|IT|Calabria|54
 San Procopio|38.282|15.891|IT|Calabria|54
 Calvisi|39.127|16.306|IT|Calabria|54
+Solano Inferiore|38.257|15.800|IT|Calabria|54
 Grotteria|38.365|16.265|IT|Calabria|54
+Castellace|38.317|15.940|IT|Calabria|54
 Olivadi|38.726|16.424|IT|Calabria|54
 Ciminà|38.246|16.140|IT|Calabria|54
 Sorbo San Basile|39.019|16.569|IT|Calabria|54
@@ -606,6 +775,7 @@ Tortora|39.941|15.805|IT|Calabria|54
 Antonimina|38.273|16.148|IT|Calabria|54
 Crosia|39.568|16.771|IT|Calabria|54
 Cenadi|38.719|16.416|IT|Calabria|54
+Agios Geórgios Argyrádon|39.427|19.949|GR|Ionian Islands|54
 Monasterace|38.453|16.552|IT|Calabria|54
 Falconara Albanese|39.275|16.088|IT|Calabria|54
 Nardodipace|38.474|16.343|IT|Calabria|54

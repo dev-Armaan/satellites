@@ -1060,8 +1060,248 @@ Goodland|40.763|-87.294|US|Indiana|60
 Lakeview|43.446|-85.274|US|Michigan|60
 Athens|42.089|-85.235|US|Michigan|60
 Glasford|40.573|-89.813|US|Illinois|60
+Odell|41.004|-88.525|US|Illinois|60
+Wenona|41.053|-89.050|US|Illinois|60
+Mazon|41.241|-88.420|US|Illinois|60
+Pleasant Hill|40.613|-88.747|US|Illinois|60
+Summitville|40.339|-85.644|US|Indiana|60
+Wolcott|40.758|-87.042|US|Indiana|60
+Downs|40.397|-88.871|US|Illinois|60
+Lawrence|42.219|-86.051|US|Michigan|60
+Ashley|41.526|-85.067|US|Indiana|60
 Green Lake|43.844|-88.960|US|Wisconsin|60
+Milledgeville|41.963|-89.775|US|Illinois|60
+Mentone|41.173|-86.035|US|Indiana|60
+Maple Grove|44.189|-87.924|US|Wisconsin|60
+Utica|41.341|-89.010|US|Illinois|60
+Saxeville|44.176|-89.115|US|Wisconsin|60
+Brook|40.866|-87.364|US|Indiana|60
+Franklin Grove|41.842|-89.300|US|Illinois|60
+Saugatuck|42.655|-86.202|US|Michigan|60
+Elkhart Lake|43.833|-88.018|US|Wisconsin|60
+Butte des Morts|44.099|-88.654|US|Wisconsin|60
+Waynetown|40.088|-87.060|US|Indiana|60
+Wyanet|41.365|-89.584|US|Illinois|60
+Swayzee|40.508|-85.826|US|Indiana|60
+Timberlane|42.335|-88.861|US|Illinois|60
+Chums Corner|44.672|-85.656|US|Michigan|60
+Goodfield|40.630|-89.275|US|Illinois|60
+Leland|41.613|-88.800|US|Illinois|59
+Valders|44.066|-87.884|US|Wisconsin|59
+Blue Mounds|43.018|-89.835|US|Wisconsin|59
+Hesperia|43.569|-86.040|US|Michigan|59
+Shirland|42.444|-89.198|US|Illinois|59
+Millersburg|41.528|-85.694|US|Indiana|59
+Shabbona|41.768|-88.877|US|Illinois|59
+Silver Lake|41.072|-85.892|US|Indiana|59
+Shiocton|44.445|-88.579|US|Wisconsin|59
+Ashton|41.866|-89.221|US|Illinois|59
+Augusta|42.336|-85.352|US|Michigan|59
+Iron Ridge|43.400|-88.533|US|Wisconsin|59
+Sheffield|41.358|-89.737|US|Illinois|59
+Hingham|43.639|-87.914|US|Wisconsin|59
+Grant|43.336|-85.811|US|Michigan|59
+Delton|42.500|-85.408|US|Michigan|59
+Mansfield|40.211|-88.506|US|Illinois|59
+Gaston|40.314|-85.501|US|Indiana|59
+Vermont|43.072|-89.786|US|Wisconsin|59
+Eden|43.694|-88.361|US|Wisconsin|59
+La Fontaine|40.674|-85.721|US|Indiana|59
+Lake Shangrila|42.505|-88.071|US|Wisconsin|59
+Mendon|42.006|-85.450|US|Michigan|59
+Lake Lac La Belle|43.131|-88.545|US|Wisconsin|59
+Brandon|43.735|-88.781|US|Wisconsin|59
+Annawan|41.397|-89.905|US|Illinois|59
+Bunker Hill|40.660|-86.103|US|Indiana|59
+Brimfield|40.839|-89.886|US|Illinois|59
+Marion|44.103|-85.147|US|Michigan|59
+Baroda|41.958|-86.486|US|Michigan|59
+Shoreham|42.059|-86.516|US|Michigan|59
+Argyle|42.701|-89.867|US|Wisconsin|59
+Pentwater|43.782|-86.433|US|Michigan|59
+Wheatfield|41.193|-87.056|US|Indiana|59
+Selma|40.192|-85.269|US|Indiana|59
+Darlington|40.110|-86.772|US|Indiana|59
+Hopedale|40.421|-89.415|US|Illinois|59
 Lake City|44.335|-85.215|US|Michigan|59
+Francesville|40.985|-86.879|US|Indiana|58
+Royal Center|40.864|-86.500|US|Indiana|58
+Mexico|40.822|-86.116|US|Indiana|58
+Plainfield|44.214|-89.492|US|Wisconsin|58
+Van Buren|40.617|-85.505|US|Indiana|58
+Arena|43.166|-89.913|US|Wisconsin|58
+Allenton|43.421|-88.341|US|Wisconsin|58
+Ringwood|42.392|-88.297|US|Illinois|58
+Paw Paw|41.689|-88.981|US|Illinois|58
+Burr Oak|41.847|-85.319|US|Michigan|58
+Blanchardville|42.810|-89.862|US|Wisconsin|58
+McLean|40.314|-89.170|US|Illinois|58
+Arlington|43.338|-89.380|US|Wisconsin|58
+Cissna Park|40.565|-87.893|US|Illinois|58
+Gobles|42.361|-85.879|US|Michigan|58
+Howe|41.721|-85.421|US|Indiana|58
+Ogden|40.114|-87.956|US|Illinois|58
+Pearl City|42.265|-89.826|US|Illinois|58
+Biron|44.424|-89.780|US|Wisconsin|58
+Footville|42.671|-89.209|US|Wisconsin|58
+Windfall|40.363|-85.956|US|Indiana|58
+Hamlet|41.548|-86.582|US|Indiana|58
+Sherry|44.584|-89.916|US|Wisconsin|58
+Birnamwood|44.933|-89.210|US|Wisconsin|58
+Piper City|40.757|-88.191|US|Illinois|58
+Tiskilwa|41.292|-89.506|US|Illinois|58
+Lakeville|41.524|-86.273|US|Indiana|58
+Richland|42.376|-85.455|US|Michigan|58
+Saint Nazianz|44.008|-87.922|US|Wisconsin|58
+Climax|42.238|-85.335|US|Michigan|58
+Kirklin|40.193|-86.361|US|Indiana|58
+Grawn|44.663|-85.694|US|Michigan|58
+Essex|41.177|-88.186|US|Illinois|58
+Braceville|41.227|-88.265|US|Illinois|58
+Ridgeville|40.289|-85.029|US|Indiana|58
+Lake Village|41.138|-87.449|US|Indiana|58
+Boswell|40.521|-87.378|US|Indiana|58
+Vermontville|42.629|-85.024|US|Michigan|58
+Tampico|41.630|-89.786|US|Illinois|58
+Linden|40.188|-86.904|US|Indiana|58
+Orangeville|42.468|-89.644|US|Illinois|58
+Cambria|43.542|-89.107|US|Wisconsin|58
+Greenview|40.083|-89.738|US|Illinois|57
+Mount Calvary|43.826|-88.246|US|Wisconsin|57
+Whitelaw|44.145|-87.821|US|Wisconsin|57
+Wyocena|43.496|-89.308|US|Wisconsin|57
+Bluffview|43.371|-89.773|US|Wisconsin|57
+Tonica|41.216|-89.067|US|Illinois|57
+Ashkum|40.880|-87.955|US|Illinois|57
+Bradford|41.177|-89.658|US|Illinois|57
+Atlanta|40.215|-86.026|US|Indiana|57
+Palmyra|41.852|-89.578|US|Illinois|57
+Monroe|40.286|-86.735|US|Indiana|57
+Potomac|40.305|-87.801|US|Illinois|57
+Tigerton|44.741|-89.063|US|Wisconsin|57
+Cedarville|42.376|-89.633|US|Illinois|57
+Aroma Park|41.080|-87.811|US|Illinois|57
+Shannon|42.155|-89.740|US|Illinois|57
+Lost Nation|41.911|-89.367|US|Illinois|57
+North Freedom|43.460|-89.868|US|Wisconsin|57
+Town of Pines|41.682|-86.960|US|Indiana|57
+Buckley|44.504|-85.677|US|Michigan|57
+Parkdale|44.267|-86.303|US|Michigan|57
+Taycheedah|43.809|-88.395|US|Wisconsin|57
+West Lebanon|40.270|-87.387|US|Indiana|57
+Cascade|43.658|-88.007|US|Wisconsin|57
+La Moille|41.532|-89.280|US|Illinois|57
+Wild Rose|44.179|-89.249|US|Wisconsin|57
 Hennepin|41.254|-89.342|US|Illinois|57
+New Milford|42.187|-89.068|US|Illinois|57
+Pennville|40.494|-85.148|US|Indiana|57
+Buffalo|40.883|-86.745|US|Indiana|57
+Forest View|41.809|-87.793|US|Illinois|57
+Neopit|44.981|-88.831|US|Wisconsin|57
+Rome|42.980|-88.631|US|Wisconsin|57
+Reeseville|43.305|-88.845|US|Wisconsin|57
+Green Valley|40.408|-89.643|US|Illinois|57
+Saybrook|40.427|-88.526|US|Illinois|57
+Shipshewana|41.673|-85.580|US|Indiana|57
+Deer Creek|40.630|-89.333|US|Illinois|57
+Dalzell|41.358|-89.176|US|Illinois|57
+Godley|41.237|-88.244|US|Illinois|57
+Colfax|40.195|-86.667|US|Indiana|57
+Clarks Hill|40.247|-86.725|US|Indiana|57
+Sullivan|43.013|-88.588|US|Wisconsin|57
+Winchester|44.199|-88.665|US|Wisconsin|57
 Friendship|43.971|-89.817|US|Wisconsin|57
+Fremont|44.260|-88.865|US|Wisconsin|56
+Millington|41.563|-88.598|US|Illinois|56
+McBain|44.194|-85.213|US|Michigan|56
+South Wilmington|41.173|-88.277|US|Illinois|56
+Waubeka|43.475|-87.990|US|Wisconsin|56
+Francis Creek|44.199|-87.721|US|Wisconsin|56
+Sheridan|43.212|-85.074|US|Michigan|56
+Creston|41.931|-88.965|US|Illinois|56
+Ridgeway|43.002|-89.990|US|Wisconsin|56
+Davis|42.423|-89.414|US|Illinois|56
+Burlington|42.053|-88.548|US|Illinois|56
+Stockbridge|44.072|-88.299|US|Wisconsin|56
+Roseland|41.716|-86.253|US|Indiana|56
+Lyndon|41.718|-89.926|US|Illinois|56
+Suttons Bay|44.977|-85.651|US|Michigan|56
+Laketon|40.974|-85.836|US|Indiana|56
+Fairmount|40.046|-87.831|US|Illinois|56
+Eau Claire|41.985|-86.300|US|Michigan|56
+Forest Junction|44.212|-88.144|US|Wisconsin|56
+San Jose|40.306|-89.603|US|Illinois|56
+Beverly Shores|41.693|-86.978|US|Indiana|56
+Zanesville|40.917|-85.281|US|Indiana|56
+Hopkins|42.624|-85.760|US|Michigan|56
+Greenleaf|44.313|-88.096|US|Wisconsin|56
+Hatley|44.887|-89.339|US|Wisconsin|56
+Hopkins Park|41.063|-87.625|US|Illinois|56
+Chenequa|43.112|-88.392|US|Wisconsin|56
+Kewanna|41.019|-86.413|US|Indiana|56
+Camden|40.609|-86.540|US|Indiana|56
+Crescent City|40.770|-87.859|US|Illinois|56
+Burlington|40.480|-86.395|US|Indiana|56
+Westpoint|40.345|-87.043|US|Indiana|55
+Holiday Hills|42.290|-88.225|US|Illinois|55
+Medaryville|41.081|-86.892|US|Indiana|55
+Oxford|43.781|-89.573|US|Wisconsin|55
+Etna Green|41.279|-86.046|US|Indiana|55
+Interlochen|44.645|-85.767|US|Michigan|55
+Brownsville|43.616|-88.491|US|Wisconsin|55
+Rolling Prairie|41.671|-86.616|US|Indiana|55
+Stanford|40.435|-89.218|US|Illinois|55
+Sharpsville|40.379|-86.089|US|Indiana|55
+Casco|44.558|-87.618|US|Wisconsin|55
+Danforth|40.820|-87.978|US|Illinois|55
+Mettawa|42.233|-87.926|US|Illinois|55
+Bedford Park|41.763|-87.800|US|Illinois|55
+Gresham|44.853|-88.788|US|Wisconsin|55
+Buckley|40.597|-88.038|US|Illinois|55
+Oak Hill|44.224|-86.304|US|Michigan|55
+Matthews|40.389|-85.499|US|Indiana|55
+Como|41.766|-89.767|US|Illinois|55
+Dellwood|43.984|-89.939|US|Wisconsin|55
+Vesper|44.482|-89.964|US|Wisconsin|55
+Leesburg|41.332|-85.850|US|Indiana|55
+Union|42.233|-88.542|US|Illinois|55
+Neosho|43.310|-88.518|US|Wisconsin|55
+Bismarck|40.264|-87.608|US|Illinois|55
+Carlock|40.582|-89.132|US|Illinois|55
+La Paz|41.460|-86.308|US|Indiana|55
+Cecil|44.810|-88.452|US|Wisconsin|55
+Lena|44.951|-88.047|US|Wisconsin|55
+Stockwell|40.286|-86.771|US|Indiana|55
+Indian Creek|42.227|-87.980|US|Illinois|55
+Wapella|40.220|-88.962|US|Illinois|55
+Rankin|40.465|-87.896|US|Illinois|55
+Shelby|41.195|-87.348|US|Indiana|55
+Dyckesville|44.643|-87.761|US|Wisconsin|55
+Hillsboro|40.109|-87.186|US|Indiana|55
+Dayton|41.385|-88.794|US|Illinois|55
+La Crosse|41.318|-86.891|US|Indiana|55
+South Boardman|44.641|-85.280|US|Michigan|55
+Bancroft|44.310|-89.514|US|Wisconsin|55
+Galien|41.798|-86.499|US|Michigan|55
+Grand Ridge|41.237|-88.831|US|Illinois|55
+Mark|41.264|-89.250|US|Illinois|55
+Edgewood|42.241|-88.921|US|Illinois|55
+Cullom|40.878|-88.269|US|Illinois|54
+Trout Valley|42.198|-88.253|US|Illinois|54
+Dale|44.273|-88.678|US|Wisconsin|54
+Suring|44.999|-88.372|US|Wisconsin|54
+Chadwick|42.013|-89.891|US|Illinois|54
+Polonia|44.570|-89.413|US|Wisconsin|54
+Reynolds|40.749|-86.872|US|Indiana|54
+Adell|43.619|-87.952|US|Wisconsin|54
+Sand Lake|43.292|-85.518|US|Michigan|54
+Buda|41.326|-89.679|US|Illinois|54
+Sun River Terrace|41.127|-87.736|US|Illinois|54
+Hudson|41.533|-85.081|US|Indiana|54
+Harrison|42.427|-89.192|US|Illinois|54
+Gibbsville|43.652|-87.827|US|Wisconsin|54
+Cromwell|41.401|-85.616|US|Indiana|54
+Golf|42.059|-87.793|US|Illinois|54
+Park Ridge|44.519|-89.546|US|Wisconsin|54
+Chalmers|40.663|-86.869|US|Indiana|54
 Beulah|44.632|-86.091|US|Michigan|51

@@ -21,6 +21,7 @@ Zürich (Kreis 9) / Altstetten|47.389|8.485|CH|Zurich|89
 Zürich (Kreis 12)|47.404|8.576|CH|Zurich|89
 Zürich (Kreis 4) / Aussersihl|47.378|8.521|CH|Zurich|89
 Zuitai|33.331|105.605|CN|Gansu|89
+Zugspitze|47.421|10.986|DE|Bavaria|88|f
 Zumpango del Río|17.654|-99.527|MX|Guerrero|88
 Zungeru|9.807|6.152|NG|Niger State|88
 Zuru|11.435|5.235|NG|Kebbi|88
@@ -58,6 +59,8 @@ Zuchwil|47.202|7.566|CH|Solothurn|79
 Županja|45.078|18.698|HR|Vukovar-Srijem|79
 Żuromin|53.066|19.909|PL|Mazovia|79
 Zumaia|43.295|-2.253|ES|Basque Country|79
+Zunyi Xinzhou Airport|27.591|106.998|CN|Guizhou|78|f
+Zurafa Rocks|40.472|25.839|GR|East Macedonia and Thrace|78|f
 Zubtsov|56.175|34.589|RU|Tver Oblast|77
 Zuidhorn|53.247|6.403|NL|Groningen|77
 Zutendaal|50.933|5.575|BE|Flanders|77
@@ -70,8 +73,11 @@ Zuya|45.054|34.322|UA|Crimea|76
 Zuera|41.868|-0.790|ES|Aragon|76
 Zuogaimanma|34.997|103.049|CN|Gansu|75
 Zuni|41.217|14.131|IT|Campania|75
+Zuckerhütl|46.964|11.154|AT|Tyrol|75|f
+Zuñi Mountains|35.168|-108.317|US|New Mexico|75|f
 Zuiderburen|53.173|5.843|NL|Friesland|75
 Zubří|49.466|18.092|CZ|Zlín|75
+Zürichberg|47.386|8.567|CH|Zurich|74|f
 Zuolan|32.148|108.451|CN|Chongqing|74
 Zubutli-Miatli|43.202|46.809|RU|Dagestan|74
 Zuékokoré|6.568|-4.289|CI|Comoé District|73
@@ -87,6 +93,8 @@ Zuid-Berghuizen|52.301|6.933|NL|Overijssel|72
 Zuogaiduoma|35.056|103.126|CN|Gansu|72
 Zuidlaren|53.094|6.682|NL|Drenthe|72
 Zugliano-Terenzano-Cargnacco|46.008|13.217|IT|Friuli Venezia Giulia|71
+Žumberačka Gora|45.750|15.333|SI||71|f
+Zuri Island|43.652|15.661|HR|Šibenik-Knin|71|f
 Zumbrota|44.294|-92.669|US|Minnesota|71
 Zuyivka|48.060|38.249|UA|Donetsk|70
 Zugliano|45.730|11.524|IT|Veneto|70
@@ -96,11 +104,13 @@ Zubrzyca Górna|49.562|19.650|PL|Lesser Poland|70
 Zunilito|14.613|-91.510|GT|Suchitepeque|69
 Zuid-Beijerland|51.751|4.368|NL|South Holland|69
 Zuienkerke|51.265|3.155|BE|Flanders|69
+Zurich airport|47.453|8.560|CH|Zurich|69|f
 Zunzgen|47.449|7.808|CH|Basel-Landschaft|68
 Zújar|37.543|-2.842|ES|Andalusia|68
 Zubrohlava|49.445|19.512|SK|Žilina Region|67
 Żurowa|49.826|21.169|PL|Lesser Poland|67
 Zurgena|37.342|-2.040|ES|Andalusia|67
+Zuid-Willemsvaart|50.867|5.650|BE||67|f
 Zuidbroek|53.163|6.861|NL|Groningen|67
 Zurndorf|47.983|17.003|AT|Burgenland|67
 Zubovo|60.318|36.971|RU|Vologda Oblast|67
@@ -110,6 +120,10 @@ Zumbi|-22.822|-43.176|BR|Rio de Janeiro|66
 Zuce|44.698|20.555|RS|Central Serbia|66
 Zūrābād|36.735|57.342|IR|Razavi Khorasan|66
 Zuberec|49.262|19.615|SK|Žilina Region|66
+Zubof Rock|57.292|-134.931|US|Alaska|65|f
+Zuigan Ji|38.372|141.060|JP|Miyagi|65|f
+Zuñi Salt Lake|34.450|-108.769|US|New Mexico|65|f
+Zunyi Maotai Airport|27.816|106.333|CN|Guizhou|65|f
 Župčany|49.012|21.159|SK|Prešov Region|65
 Zutkerque|50.853|2.068|FR|Hauts-de-France|65
 Zungri|38.657|15.984|IT|Calabria|65
@@ -128,30 +142,93 @@ Zuoz|46.602|9.960|CH|Grisons|62
 Zumpango|17.934|-98.683|MX|Guerrero|61
 Zuccoli|-12.507|131.007|AU|Northern Territory|61
 Žulová|50.309|17.099|CZ|Olomouc Region|61
+Zub Lake|-70.764|11.740|AQ||61|f
+Żukówko|54.233|17.633|PL|Pomerania|61|f
 Zuenda|7.699|-5.591|CI|Vallée du Bandama District|61
 Zūdān|32.441|51.579|IR|Isfahan|61
 Zubivka|50.016|33.699|UA|Poltava|60
 Žužemberk|45.834|14.928|SI|Municipality of Žužemberk|60
 Zurita|43.343|-3.995|ES|Cantabria|60
+Zuiddorpe|51.235|3.904|NL|Zeeland|60
+Zurbaua|44.490|25.914|RO|Ilfov|60
+Zuidwolde|53.263|6.592|NL|Groningen|59
+Żukowice|51.673|15.983|PL|Lower Silesia|59
+Zuzgen|47.525|7.900|CH|Aargau|59
+Župkov|48.525|18.630|SK|Banská Bystrica Region|59
+Zúngaro Cocha|-3.830|-73.356|PE|Loreto|58
+Zubák|49.150|18.216|SK|Trenčín Region|58
+Zuygaghbyur|41.032|43.874|AM|Shirak|58
+Zug|21.565|-14.104|EH||58
 Zuheros|37.543|-4.315|ES|Andalusia|58
+Zuzua|6.624|-6.478|CI|Sassandra-Marahoue|58
+Zudaire|42.773|-2.134|ES|Navarre|58
+Zuckerhut, Mount|-71.417|13.450|AQ||58|f
+Zulia|4.128|33.984|UG|Northern Region|58|f
+Zümrütova|36.603|29.808|TR|Antalya|58
 Zungoli|41.128|15.203|IT|Campania|58
+Zūl|33.612|59.117|IR|South Khorasan Province|58
+Zunú y Patastal|17.473|-92.813|MX|Tabasco|57
+Zuidbuurt|52.108|4.504|NL|South Holland|57
 Zumaglia|45.594|8.089|IT|Piedmont|57
+Züsch|49.650|7.000|DE|Rheinland-Pfalz|57
+Zuidschermer|52.585|4.779|NL|North Holland|57
+Zuidzijde|52.080|4.772|NL|South Holland|56
+Zudausques|50.749|2.148|FR|Hauts-de-France|56
+Zullwil|47.391|7.600|CH|Solothurn|55
+Zuidveen|52.778|6.107|NL|Overijssel|55
+Zubrynka|50.612|28.305|UA|Zhytomyr Oblast|55
+Zuidermeer|52.664|4.983|NL|North Holland|55
+Zulzeke|50.792|3.571|BE|Flanders|55
+Žurče|41.283|21.234|MK|Demir Hisar|54
+Zudar|54.243|13.385|DE|Mecklenburg-Vorpommern|54|f
+Zuestoll|47.154|9.285|CH|Saint Gallen|54|f
+Zug Island|42.284|-83.113|US|Michigan|54|f
 Zuglio|46.458|13.026|IT|Friuli Venezia Giulia|53
 Zubiena|45.493|7.996|IT|Piedmont|51
 Zumpano|39.311|16.293|IT|Calabria|51
 Zuclo|46.034|10.751|IT|Trentino-Alto Adige|50
 Zubieta|43.125|-1.742|ES|Navarre|49
+Zugerberg|47.143|8.542|CH|Zug|49|f
+Zuiderduintjes|53.523|6.588|NL|Groningen|49|f
+Zukriegel Island|-65.893|-65.786|AQ||49|f
+Zumberge, Cape|-76.233|-69.707|AQ||49|f
+Zumbro Parkway Bridge|44.280|-92.420|US|Minnesota|49|f
+Zumsteinspitze|45.932|7.871|IT|Piedmont|49|f
 Zuccarello|44.110|8.118|IT|Liguria|49
 Zugarramurdi|43.270|-1.541|ES|Navarre|47
 Zucaina|40.117|-0.417|ES|Valencia|46
 Zúñiga|42.692|-2.300|ES|Navarre|46
+Zubizuri|43.266|-2.928|ES|Basque Country|40|f
+Zuiderzeemuseum|52.708|5.298|NL|North Holland|40|f
+Zuidlaardermeer|53.128|6.698|NL||40|f
+Zukey Lake|42.460|-83.846|US|Michigan|40|f
+Zumar Lake|52.340|-87.206|CA|Ontario|40|f
+Zuniga Glacier|-74.567|-111.850|AQ||40|f
+Zupjok Peak|49.616|-121.153|CA|British Columbia|40|f
+Zurn Peak|-75.733|-115.667|AQ||40|f
 Zuñeda|42.605|-3.226|ES|Castille and León|36
 Žumberak|45.767|15.415|HR|Zagreb County|19
+Zu’an|34.096|108.484|CN|Shaanxi|0
+Zudun|27.652|118.689|CN|Fujian|0
 Zufre|37.833|-6.333|ES|Andalusia|0
+Zuhu|39.732|112.031|CN|Shanxi|0
 Zuitou|34.062|107.313|CN|Shaanxi|0
 Zumbahua|-0.961|-78.898|EC|Cotopaxi|0
+Zumiao|23.025|113.130|CN|Guangdong|0
 Zuña|-2.188|-78.359|EC|Morona-Santiago Province|0
 Zunhua|40.186|117.959|CN|Hebei|0
+Zunhuadian|33.706|113.401|CN|Henan|0
+Zuntan|19.814|110.299|CN|Hainan|0
+Zuobude|28.003|86.303|CN|Tibet|0
+Zuocun|29.326|120.498|CN|Zhejiang|0
+Zuocun|37.060|119.942|CN|Shandong|0
+Zuofang|27.823|116.751|CN|Jiangxi|0
+Zuojia|33.968|106.405|CN|Gansu|0
+Zuokou|29.731|119.045|CN|Zhejiang|0
+Zuoli|29.424|116.197|CN|Jiangxi|0
+Zuoling|30.533|114.600|CN|Hubei|0
+Zuolong|27.314|115.409|CN|Jiangxi|0
+Zuoxi|27.630|119.379|CN|Zhejiang|0
 Zurite|-13.455|-72.256|PE|Cuzco Department|0
 Zurmat|33.438|69.028|AF|Paktia|0
 Zurmi|12.777|6.784|NG|Zamfara State|0

@@ -7,21 +7,26 @@ Hackensack|40.886|-74.043|US|New Jersey|93
 Hachimantai|39.900|141.130|JP|Iwate|88
 Hacıqabul|40.039|48.943|AZ|Hacıqabul|87
 Hacılar|38.644|35.451|TR|Kayseri|87
+Hachijojima Airport|33.115|139.786|JP|Tokyo|84|f
+Hachijojima Island|33.112|139.795|JP|Tokyo|82|f
 Hachīrūd|36.685|51.344|IR|Māzandarān|80
 Hacarí|8.321|-73.146|CO|Norte de Santander Department|80
 Hackettstown|40.854|-74.829|US|New Jersey|80
 Hacienda Huancane|-15.822|-70.886|PE|Puno|78
 Hacienda Blanca|17.140|-96.776|MX|Oaxaca|78
 Hachijō|33.103|139.779|JP|Tokyo|77
+Hachwan Island|21.658|112.605|CN|Guangdong|77|f
 Hacıbektaş|38.941|34.558|TR|Nevşehir Province|77
 Hacienda Pucala|-6.779|-79.603|PE|Lambayeque|76
 Hachenburg|50.660|7.823|DE|Rheinland-Pfalz|75
 Hachirougata|39.933|140.083|JP|Akita|75
 Hacienda San Marcos [Fraccionamiento]|21.806|-102.266|MX|Aguascalientes|74
+Hachirō Lagoon|39.917|140.000|JP|Akita|73|f
 Hacienda los Fresnos|20.519|-103.393|MX|Jalisco|73
 Haccourt|50.731|5.670|BE|Wallonia|72
 Hacienda Santa Rosa|10.572|123.101|PH|Western Visayas|72
 Hacienda San Pedro|25.915|-100.163|MX|Nuevo León|71
+Hackettstown Airport|40.821|-74.855|US|New Jersey|71|f
 Hacienda Nueva|22.825|-102.608|MX|Zacatecas|71
 Haczów|49.662|21.898|PL|Subcarpathia|71
 Hacıpaşa|36.069|36.371|TR|Hatay|70
@@ -40,15 +45,53 @@ Hacienda Sotavento|19.134|-96.181|MX|Veracruz|64
 Hacienda Arriba|21.231|-101.705|MX|Guanajuato|64
 Hacheney|51.479|7.490|DE|North Rhine-Westphalia|64
 Hackleburg|34.277|-87.829|US|Alabama|63
+Hachisu-damu|34.377|136.209|JP|Mie|63|f
 Hackleton|52.188|-0.823|GB|England|63
 Hacienda de la Bolsa|20.375|-101.105|MX|Guanajuato|62
 Hackberry|29.996|-93.342|US|Louisiana|62
 Hacılar|41.491|32.093|TR|Zonguldak Province|62
+Hachinosu Peak|-69.017|39.583|AQ||61|f
 Hacıhalilarpaç|36.725|34.378|TR|Mersin|60
 Hackberry|33.152|-96.918|US|Texas|60
 Hacıköy|40.980|26.551|TR|Edirne|60
 Hacılar|39.099|40.823|TR|Bingöl|60
+Hacıaliobası|37.833|27.709|TR|Aydın|60
+Hacıbeyli|39.058|30.281|TR|Afyonkarahisar Province|59
+Hacienda Nueva (San Pedro el Águila)|19.334|-97.412|MX|Puebla|59
+Hackett|35.190|-94.411|US|Arkansas|58
+Hacaritama Airport|8.246|-73.580|CO|Cesar Department|58|f
+Hacienda Guadalupe|20.840|-101.327|MX|Guanajuato|58
+Hacienda los Encinos|19.804|-99.040|MX|México|58
+Hacıekber|36.816|38.947|TR|Şanlıurfa|58
+Hacibeyli|37.312|35.879|TR|Adana|58
+Hachy|49.702|5.680|BE|Wallonia|58
+Hacıhalit|39.431|43.702|TR|Ağrı|57
+Hacıali|36.816|35.265|TR|Adana|57
+Hachelbich|51.344|10.965|DE|Thuringia|56
+Hacımusalı|37.311|35.276|TR|Adana|56
+Hacienda Santa Rosa [Fraccionamiento]|20.767|-100.438|MX|Querétaro|56
+Hacketstown|52.864|-6.557|IE|Leinster|56
+Hacısekililer|36.842|30.520|TR|Antalya|55
+Hacienda Vieja|16.540|-96.759|MX|Oaxaca|55
+Hacienda del Mar|32.428|-117.094|MX|Baja California|55
+Hacıhasan|39.746|32.748|TR|Ankara|55
+Hacıobası|36.733|31.581|TR|Antalya|55
+Hacıali|40.943|42.920|TR|Ardahan|55
+Hackås|62.917|14.517|SE|Jämtland|55
+Hacienda Blanca|20.272|-100.102|MX|Querétaro|54
+Hacıağa|39.937|44.485|TR|Iğdır|54
+Hachinohe Ab|40.556|141.466|JP|Aomori|54|f
+Hacıhıdır Barajı|37.713|39.192|TR|Şanlıurfa|54|f
+Hackley Head|57.333|-1.950|GB|Scotland|54|f
+Hacienda Nueva|21.907|-102.359|MX|Aguascalientes|54
+Hacıhüseyin|39.693|27.652|TR|Balıkesir|54
+Hackberry|29.578|-96.880|US|Texas|54
 Hackerberg|47.198|16.106|AT|Burgenland|51
+Hacks Lagoon Conservation Park|-37.100|140.727|AU|South Australia|49|f
 Hacinas|41.985|-3.287|ES|Castille and León|45
+Hackberry Mountain|35.051|-115.223|US|California|40|f
+Hackerman Ridge|-72.650|167.767|AQ||40|f
+Hacklebarney State Park|40.748|-74.732|US|New Jersey|40|f
+Hackmatack National Wildlife Refuge|42.379|-88.466|US|Illinois|40|f
 Hacıhamza|41.074|34.449|TR|Çorum|0
 Hackney|51.550|-0.050|GB|England|0

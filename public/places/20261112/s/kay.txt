@@ -18,7 +18,11 @@ Kayah State|19.250|97.500|MM||87|r
 Kaynaşlı|40.769|31.322|TR|Düzce|86
 Kayakent|42.387|47.903|RU|Dagestan|81
 Kayattār|8.948|77.774|IN|Tamil Nadu|80
+Kayangel Island|8.087|134.720|PW|Kayangel|80|f
 Kays Qal‘ah|36.630|43.304|IQ|Nineveh|80
+Kayes Airport|14.481|-11.404|ML|Kayes|79|f
+Kayak Island|59.925|-144.406|US|Alaska|78|f
+Kaya Airport|13.067|-1.100|BF|Centre-Nord|78|f
 Kaynarca|41.031|30.308|TR|Sakarya|76
 Kayo|5.810|-6.475|CI|Bas-Sassandra District|75
 Kayabağlar|37.986|41.668|TR|Siirt|75
@@ -30,14 +34,19 @@ Kaytitinga|14.107|120.829|PH|Calabarzon|73
 Kaymakçı|38.168|28.115|TR|İzmir Province|73
 Kayl|49.489|6.040|LU|Esch-sur-Alzette|73
 Kayéta|6.639|-5.654|CI|Sassandra-Marahoue|72
+Kayseri Erkilet Airport|38.770|35.495|TR|Kayseri|71|f
 Kaytazdere|40.682|29.532|TR|Yalova|71
 Kaysersberg|48.138|7.264|FR|Grand Est|69
 Kayhador|44.964|35.356|UA|Crimea|68
+Kayser Mountain|81.567|-58.300|GL||67|f
 Kayima|8.888|-11.159|SL|Eastern Province|65
+Kayış Dağı|40.971|29.164|TR|Istanbul|65|f
 Kaya-Ziduho|7.409|-6.048|CI|Sassandra-Marahoue|65
 Kayalıoğlu|38.884|27.766|TR|Manisa|65
 Kaynakkaya|37.340|40.932|TR|Mardin|64
 Kayna|50.994|12.237|DE|Saxony-Anhalt|64
+Kaya-san|36.704|126.609|KR|Chungcheongnam-do|63|f
+Kayne Island|64.764|-172.369|RU|Chukotka|63|f
 Kayin Chaung|16.570|96.412|MM|Yangon|63
 Kayapınar|38.599|27.351|TR|Manisa|63
 Kayalıpınar|37.330|41.228|TR|Mardin|62
@@ -48,7 +57,40 @@ Kayaönü|37.805|38.192|TR|Adıyaman Province|61
 Kayaköy|38.206|27.818|TR|İzmir Province|61
 Kaynardzha|43.993|27.507|BG|Silistra|61
 Kāyetkhāli|23.210|89.247|BD|Khulna Division|60
+Kayaburnu|36.934|31.010|TR|Antalya|60
+Kayırlı|38.318|34.510|TR|Niğde Province|60
+Kayabaşı|36.927|36.515|TR|Gaziantep|60
+Kaynarca|40.414|29.826|TR|Bursa Province|59
+Kaygısız|38.276|40.301|TR|Diyarbakır Province|58
+Kaynarca|37.854|34.635|TR|Niğde Province|58
+Kayagediği|38.160|39.586|TR|Diyarbakır Province|58
+Kayatepe|37.518|40.927|TR|Mardin|58
+Kayaboyun|37.471|42.100|TR|Şırnak|57
+Kayoulo|8.379|-4.750|CI|Vallée du Bandama District|57
+Kayadibi|38.724|30.398|TR|Afyonkarahisar Province|57
+Kaynarca|37.091|40.280|TR|Mardin|57
+Kayiry|46.938|30.968|UA|Odesa|57
+Kayı|37.901|34.404|TR|Niğde Province|57
+Kayabaşı|39.850|41.857|TR|Erzurum|56
+Kayran|37.997|28.517|TR|Aydın|56
+Kayabaşı|41.364|32.061|TR|Zonguldak Province|56
+Kayabo|6.743|-4.738|CI|Lacs District|56
+Kayabaşı|36.975|29.805|TR|Antalya|56
+Kayabaşı|40.574|35.750|TR|Amasya|56
+Kayıslı|36.890|35.238|TR|Adana|56
+Kayrak|36.350|33.524|TR|Mersin|55
+Kayk|40.581|44.376|AM|Aragatsotn|55
+Kayabaşı|37.315|28.858|TR|Denizli|54
+Kaye Crest|-72.083|4.333|AQ||49|f
+Kayenta Airport|36.714|-110.234|US|Arizona|49|f
 Kayangel|8.082|134.717|PW|Kayangel|45
+Kay Peak|-75.233|-110.950|AQ||40|f
+Kayak Island|62.217|-92.467|CA|Nunavut|40|f
+Kayak Point|48.135|-122.368|US|Washington|40|f
+KAYE-FM (Tonkawa)|36.678|-97.298|US|Oklahoma|40|f
+Kaylana Lake|26.302|72.972|IN|Rajasthan|40|f
+KAYQ-FM (Warsaw)|38.287|-93.310|US|Missouri|40|f
+KAYU-TV (Spokane)|47.579|-117.297|US|Washington|40|f
 Kayacık|38.341|40.613|TR|Diyarbakır Province|0
 Kayadibi|39.480|36.712|TR|Sivas|0
 Kayan Hulu|3.826|115.867|ID|North Kalimantan|0
@@ -56,8 +98,11 @@ Kayao|12.013|-1.842|BF|Centre-Sud|0
 Kayapa|16.359|120.887|PH|Cagayan Valley|0
 Kayapa|39.493|27.445|TR|Balıkesir|0
 Kayapınar|37.937|40.178|TR|Diyarbakır Province|0
+Kayen|-6.825|111.741|ID|East Java|0
 Kaymas|40.923|30.266|TR|Kocaeli|0
 Kaymaz|39.517|31.180|TR|Eskişehir|0
 Kaynar|38.899|36.454|TR|Kayseri|0
 Kaypak|37.115|36.465|TR|Osmaniye|0
 Kayu Agung|-3.392|104.831|ID|South Sumatra|0
+Kayuaru|-6.913|115.558|ID|East Java|0
+Kayukembang|-6.934|113.981|ID|East Java|0

@@ -32,6 +32,7 @@ Wheelers Hill|-37.900|145.183|AU|Victoria|86
 White Oak|39.213|-84.599|US|Ohio|86
 Whitehall|39.967|-82.885|US|Ohio|85
 Whakatane|-37.959|176.985|NZ|Bay of Plenty|85
+White Hart Lane|51.603|-0.067|GB|England|85|f
 White Oak|39.040|-76.993|US|Maryland|85
 White Settlement|32.760|-97.458|US|Texas|85
 Whickham|54.946|-1.676|GB|England|84
@@ -45,6 +46,7 @@ Whiston|53.420|-2.789|GB|England|83
 White Center|47.517|-122.355|US|Washington|83
 Whitby|54.488|-0.615|GB|England|82
 Whittlesey|52.558|-0.130|GB|England|82
+White Mountains|44.271|-71.304|US|New Hampshire|82|f
 Whitby|-41.108|174.890|NZ|Wellington Region|82
 Whitburn|55.867|-3.683|GB|Scotland|81
 White House|36.470|-86.651|US|Tennessee|81
@@ -54,15 +56,20 @@ Whatcom|49.041|-122.240|CA|British Columbia|80
 Whitchurch|52.967|-2.683|GB|England|80
 White Marsh|39.384|-76.432|US|Maryland|80
 White Horse|40.191|-74.702|US|New Jersey|80
+Whiteface Mountain|44.366|-73.903|US|New York|79|f
+Whitsuntide|-15.746|168.186|VU|Penama|79|f
 White Meadow Lake|40.924|-74.511|US|New Jersey|79
 Whippany|40.825|-74.417|US|New Jersey|79
 Whitecourt|54.150|-115.685|CA|Alberta|79
 Wharton|29.312|-96.103|US|Texas|79
 Whistler|50.118|-122.954|CA|British Columbia|79
+Wheeler Peak|36.557|-105.417|US|New Mexico|78|f
 Whitehouse|32.227|-95.225|US|Texas|78
 White City|42.437|-122.832|US|Oregon|78
 White Oak|40.338|-79.809|US|Pennsylvania|78
+Wheeling Ohio County Airport|40.176|-80.647|US|West Virginia|78|f
 Whitefish|48.411|-114.338|US|Montana|77
+Whitegrass Airport|-19.455|169.224|VU|Tafea|77|f
 Whitemarsh Island|32.029|-81.017|US|Georgia|77
 Whitinsville|42.111|-71.666|US|Massachusetts|77
 Whampoa Estate|22.306|114.188|HK|Kowloon City|76
@@ -70,15 +77,28 @@ Wharton|40.893|-74.582|US|New Jersey|76
 Whetstone|52.567|-1.183|GB|England|76
 Wheelersburg|38.730|-82.855|US|Ohio|76
 Whitmore Lake|42.440|-83.745|US|Michigan|76
+Whalsay|60.333|-0.983|GB|Scotland|76|f
+Wheeler Peak|38.986|-114.313|US|Nevada|76|f
+Whistler Mountain|50.059|-122.957|CA|British Columbia|76|f
+Whiteman Airport|34.260|-118.414|US|California|76|f
+Whitsunday Islands|-20.300|148.933|AU|Queensland|76|f
 White Oak|32.528|-94.861|US|Texas|76
 Whitianga|-36.833|175.700|NZ|Waikato Region|76
 Whitestown|39.997|-86.346|US|Indiana|76
+Whale Cove Airport|62.240|-92.598|CA|Nunavut|75|f
+Whale Island|57.953|-152.792|US|Alaska|75|f
+Wharton Regional Airport|29.254|-96.154|US|Texas|75|f
+White Island|-78.133|167.400|AQ||75|f
+Whitney Museum of American Art|40.773|-73.964|US|New York|75|f
+Whyalla Airport|-33.059|137.514|AU|South Australia|75|f
 Whitworth|53.656|-2.177|GB|England|75
 White Rock|35.828|-106.204|US|New Mexico|75
 Whiteville|34.339|-78.703|US|North Carolina|75
 Wheatley|51.747|-1.139|GB|England|75
 White City|40.566|-111.864|US|Utah|75
 Whitburn|54.953|-1.369|GB|England|75
+Whatì Airport|63.132|-117.248|CA|Northwest Territories|74|f
+White Sea|65.500|38.000|RU||74|f
 White Hall|34.274|-92.091|US|Arkansas|74
 Whaley Bridge|53.330|-1.983|GB|England|74
 White Hill|13.214|-59.581|BB|Saint Andrew|74
@@ -87,6 +107,8 @@ Whiting|41.680|-87.494|US|Indiana|74
 White Rock|-16.974|145.763|AU|Queensland|74
 Whalley|53.822|-2.407|GB|England|74
 Whitfield|40.336|-76.006|US|Pennsylvania|74
+Wheeler Dam|34.806|-87.382|US|Alabama|73|f
+White Mountain Peak|37.634|-118.256|US|California|73|f
 Whiskey Creek|26.573|-81.890|US|Florida|73
 Whitney Pier|46.159|-60.187|CA|Nova Scotia|73
 Whiteville|35.326|-89.150|US|Tennessee|73
@@ -96,6 +118,10 @@ Wheathampstead|51.811|-0.294|GB|England|73
 Whiteland|39.550|-86.080|US|Indiana|73
 Whithorn|18.264|-78.033|JM|Westmoreland|73
 Whangamata|-37.200|175.867|NZ|Waikato Region|73
+Whangarei Airport|-35.769|174.365|NZ|Northland|72|f
+Whipple Mountains|34.298|-114.438|US|California|72|f
+White Island|-66.733|48.583|AQ||72|f
+Whitsunday Airport|-20.277|148.755|AU|Queensland|72|f
 Whiteriver|33.837|-109.964|US|Arizona|72
 Whitesboro|33.656|-96.907|US|Texas|72
 Whitwell|53.283|-1.217|GB|England|72
@@ -105,15 +131,22 @@ White City|27.374|-80.334|US|Florida|71
 Whitehead|54.754|-5.709|GB|Northern Ireland|71
 Whitesboro|43.122|-75.292|US|New York|71
 Wheatland|42.054|-104.953|US|Wyoming|71
+Wheeling Suspension Bridge|40.070|-80.727|US|West Virginia|71|f
+White Sea-Baltic Canal|62.800|34.800|RU|Karelia|71|f
+Whitecourt Airport|54.144|-115.787|CA|Alberta|71|f
 White Bluff|36.108|-87.221|US|Tennessee|71
 Whyteleafe|51.308|-0.084|GB|England|70
 Whitehouse|18.093|-77.967|JM|Westmoreland|70
 Wheeland|21.814|-72.282|TC||70
+Whirlpool Rapids Bridge|43.109|-79.059|US|New York|70|f
+White Cap Mountain|45.554|-69.246|US|Maine|70|f
+Whiteside Mountain|35.081|-83.138|US|North Carolina|70|f
 Whispering Pines|35.256|-79.372|US|North Carolina|70
 White City|50.433|-104.368|CA|Saskatchewan|70
 Whitford|-36.933|174.967|NZ|Auckland|70
 Whitfield|27.412|-82.566|US|Florida|69
 Whitehall|43.410|-86.349|US|Michigan|69
+Whidbey Island|48.293|-122.676|US|Washington|69|f
 Whetstone|31.693|-110.350|US|Arizona|68
 Whitehall|43.556|-73.404|US|New York|68
 Whiteman Air Force Base|38.730|-93.559|US|Missouri|68
@@ -127,6 +160,10 @@ Whitefield|44.170|-69.625|US|Maine|67
 White Salmon|45.728|-121.486|US|Washington|67
 White River Junction|43.649|-72.319|US|Vermont|67
 White River Junction VA Medical Center|42.830|-72.568|US|Vermont|67
+White County Airport|40.710|-86.765|US|Indiana|67|f
+White Pine Range|38.912|-115.393|US|Nevada|67|f
+Whitewater Baldy|33.324|-108.642|US|New Mexico|67|f
+Whitianga Aerodrome|-36.832|175.679|NZ|Auckland|67|f
 White Pine|36.108|-83.287|US|Tennessee|67
 White Mountain Lake|34.349|-109.998|US|Arizona|67
 Whitesboro|39.039|-74.857|US|New Jersey|67
@@ -139,6 +176,9 @@ Whittington|52.674|-1.761|GB|England|66
 Whitesburg|37.118|-82.827|US|Kentucky|66
 Wheldrake|53.896|-0.963|GB|England|66
 Wheaton Aston|52.711|-2.221|GB|England|66
+Whaddon Road|51.906|-2.060|GB|England|65|f
+White Mountain|41.578|-109.320|US|Wyoming|65|f
+Whittington Castle|52.873|-3.004|GB|England|65|f
 White Castle|30.170|-91.147|US|Louisiana|65
 Whakarongo|-40.333|175.667|NZ|Manawatu-Wanganui|65
 Whiting|44.494|-89.559|US|Wisconsin|65
@@ -153,6 +193,17 @@ Whittlesford|52.113|0.150|GB|England|64
 White Pigeon|41.798|-85.643|US|Michigan|64
 Whitland|51.819|-4.615|GB|Wales|64
 Whittington|52.873|-3.003|GB|England|63
+Wheatland County Airport at Harlowton|46.447|-109.855|US|Montana|63|f
+Wheeler Island|-18.026|146.167|AU|Queensland|63|f
+Whetstone Mountain|38.822|-106.980|US|Colorado|63|f
+Whiskey Dick Mountain|47.025|-120.232|US|Washington|63|f
+Whiskey Mountain|43.430|-109.623|US|Wyoming|63|f
+White Butte|46.387|-103.302|US|North Dakota|63|f
+White Mountains|65.531|-147.543|US|Alaska|63|f
+White Rock|42.754|-73.280|US|New York|63|f
+White Rock Mountains|38.249|-114.103|US|Nevada|63|f
+Whitehorse Mountain|48.212|-121.678|US|Washington|63|f
+Whitlock Island|-30.319|114.994|AU|Western Australia|63|f
 Whitmire|34.503|-81.611|US|South Carolina|63
 White Cloud|43.550|-85.772|US|Michigan|63
 Wheaton|45.804|-96.499|US|Minnesota|63
@@ -164,15 +215,375 @@ Whitegate|51.831|-8.230|IE|Munster|61
 Whitefield|44.373|-71.610|US|New Hampshire|61
 Whitehills|57.677|-2.579|GB|Scotland|61
 Whiteparish|51.010|-1.649|GB|England|61
+Whale Sound|77.244|-71.327|GL|Avannaata|61|f
+Whatcom Peak|48.856|-121.383|US|Washington|61|f
+Wheeler Lake|34.669|-87.047|US|Alabama|61|f
+Wheeling Island|40.071|-80.733|US|West Virginia|61|f
+Whernside|54.230|-2.406|GB|England|61|f
+White Calf Mountain|48.644|-113.408|US|Montana|61|f
+White Mountain Airport|64.688|-163.409|US|Alaska|61|f
+White Peaks|44.814|-110.874|US|Wyoming|61|f
+White Picacho|33.972|-112.510|US|Arizona|61|f
+White River Falls State Park|45.242|-121.096|US|Oregon|61|f
+Whitetop Mountain|36.639|-81.605|US|Virginia|61|f
+Whitewater Lake|42.765|-88.695|US|Wisconsin|61|f
+Whiting Bay|44.848|-67.145|US|Maine|61|f
+Whittier Narrows Dam|34.020|-118.083|US|California|61|f
+Whorl Mountain|38.074|-119.383|US|California|61|f
 White Haven|41.061|-75.774|US|Pennsylvania|61
 Whitehall|45.871|-112.097|US|Montana|61
 White Plains|36.446|-80.633|US|North Carolina|61
 Whitbourne|47.417|-53.531|CA|Newfoundland and Labrador|61
 White Plains|35.234|-81.398|US|North Carolina|60
+White Deer|35.435|-101.173|US|Texas|60
+Whangarei Heads|-35.817|174.500|NZ|Northland|60
+Whitney Point|42.329|-75.968|US|New York|59
+Whitchurch|51.882|-0.838|GB|England|59
+Whitewood|44.461|-103.639|US|South Dakota|59
 White Sulphur Springs|46.548|-110.902|US|Montana|59
+Whisky Creek|49.308|-124.506|CA|British Columbia|59
+White Plains|37.184|-87.384|US|Kentucky|59
+Whycocomagh|45.983|-61.115|CA|Nova Scotia|59
+Wheatfield|41.193|-87.056|US|Indiana|59
+White Cone|35.605|-110.068|US|Arizona|58
+White Hall|32.327|-86.712|US|Alabama|58
+White Plains|33.747|-85.689|US|Alabama|58
+W. H. 'Bud' Barron Airport|32.564|-82.987|US|Georgia|58|f
+Wharton Range|-8.633|147.417|PG|Central Province|58|f
+Wheat Hill|42.314|-75.224|US|New York|58|f
+Whiskeytown Lake|40.626|-122.559|US|California|58|f
+Whisler Island|81.669|-72.328|CA|Nunavut|58|f
+Whistler Range|39.711|-116.126|US|Nevada|58|f
+Whitaker Mountain|35.137|-81.503|US|South Carolina|58|f
+White Cap Mountain|45.236|-70.818|US|Maine|58|f
+White Cloud Peaks|44.040|-114.586|US|Idaho|58|f
+White Hills|34.605|-120.436|US|California|58|f
+White Horse Mountains|42.217|-118.501|US|Oregon|58|f
+White Mountain|39.003|-111.469|US|Utah|58|f
+White Mountain|47.676|-123.328|US|Washington|58|f
+White Mountains|37.583|-118.268|US|California|58|f
+White River Range|38.833|-115.209|US|Nevada|58|f
+White Throne Mountains|39.259|-118.718|US|Nevada|58|f
+White’s Island|32.373|-64.681|BM|Saint Georgeʼs|58|f
+White’s Island|32.288|-64.785|BM|Paget|58|f
+Whitehead Island|43.980|-69.129|US|Maine|58|f
+Whitehorse Mountains|41.294|-121.495|US|California|58|f
+Whitehorse Ranch Airport|42.335|-118.254|US|Oregon|58|f
+Whiteriver Airport|33.816|-109.984|US|Arizona|58|f
+Whitestone Bridge|40.802|-73.830|US|New York|58|f
+Whitlock Island|-24.886|113.647|AU|Western Australia|58|f
+Whittier Airport|60.777|-148.720|US|Alaska|58|f
+Whittier Bridge|43.822|-71.212|US|New Hampshire|58|f
+White Swan|46.383|-120.731|US|Washington|58
+Whithorn|54.732|-4.416|GB|Scotland|58
+White Lake|34.640|-78.484|US|North Carolina|58
+Whitecross|55.973|-3.659|GB|Scotland|58
+White Springs|30.330|-82.759|US|Florida|58
+Whiting|42.127|-96.149|US|Iowa|58
+Whitelaw|44.145|-87.821|US|Wisconsin|57
+Wheatland|41.832|-90.838|US|Iowa|57
+Whitakers|36.105|-77.713|US|North Carolina|57
+White|34.283|-84.745|US|Georgia|57
+Wheatland|40.040|-76.351|US|Pennsylvania|57
+Whitewater|37.965|-97.148|US|Kansas|57
+Wheaton|36.763|-94.056|US|Missouri|57
+White Oak|34.646|-90.354|US|Mississippi|57
+White Hall|39.421|-80.183|US|West Virginia|56
+White Mills|41.526|-75.204|US|Pennsylvania|56
+White Lake|50.883|-119.302|CA|British Columbia|56
+Whiting Bay|55.492|-5.097|GB|Scotland|56
+Whakatu|-39.600|176.883|NZ|Hawke's Bay Region|56
+Whitsett|36.071|-79.564|US|North Carolina|56
+What Cheer|41.401|-92.355|US|Iowa|56
+Whitwell|50.598|-1.264|GB|England|56
+Wheatland|41.201|-80.498|US|Pennsylvania|56
+Whitesburg|33.494|-84.914|US|Georgia|56
+Whittlebury|52.090|-0.992|GB|England|55
+White City|38.796|-96.736|US|Kansas|55
+White Earth|47.097|-95.843|US|Minnesota|55
+White Haven|48.345|-115.517|US|Montana|55
 White River|43.568|-100.745|US|South Dakota|55
+Whitechurch|51.981|-8.514|IE|Munster|55
+Whitby|21.954|-71.966|TC||55
+White River|48.592|-85.278|CA|Ontario|55
+Wheelwright|37.333|-82.721|US|Kentucky|55
+Whitesville|37.683|-86.871|US|Kentucky|55
+Whaddon|52.000|-0.828|GB|England|55
+Whakarewarewa|-38.167|176.267|NZ||54|f
+Whakatane Airport|-37.918|176.910|NZ|Auckland|54|f
+Whale Rock|41.444|-71.424|US|Rhode Island|54|f
+Whalen Hill|42.691|-75.066|US|New York|54|f
+Whalsay Airport|60.379|-0.926|GB|Scotland|54|f
+Whanganui Inlet|-40.600|172.583|NZ||54|f
+Whangaparaoa Peninsula|-36.600|174.817|NZ||54|f
+Whiskey Island|41.496|-81.717|US|Ohio|54|f
+Whiskeytown National Recreation Area|40.609|-122.610|US|California|54|f
+Whit Rock|-66.033|-65.916|AQ||54|f
+White Chuck Cinder Cone|48.052|-121.167|US|Washington|54|f
+White Clay Creek Preserve|39.743|-75.789|US|Pennsylvania|54|f
+White Clay Creek State Park|39.736|-75.762|US|Delaware|54|f
+White Island|-37.519|177.182|NZ|Auckland|54|f
+White Lady|-21.103|14.667|NA|Erongo Region|54|f
+White Oak Mountain|35.118|-85.030|US|Tennessee|54|f
+White River National Fish Hatchery|43.810|-72.658|US|Vermont|54|f
+Whitecloud Glacier|-63.964|-59.537|AQ||54|f
+Whitehead Memorial Museum|29.352|-100.898|US|Texas|54|f
+Whites Bridge|36.733|-120.342|US|California|54|f
+Whites Pond|41.805|-70.603|US|Massachusetts|54|f
+Whitewater Bay|25.286|-80.993|US|Florida|54|f
+Whitney Young Memorial Bridge|38.890|-76.965|US|District of Columbia|54|f
+Whitsand Bay|50.333|-4.283|GB|England|54|f
+Whitten Peak|-63.407|-57.069|AQ||54|f
 White Waltham|51.492|-0.772|GB|England|51
+Whale Island|32.279|-64.881|BM|Sandys|49|f
+Whale Skerries|-60.700|-45.100|AQ||49|f
+Whale Valley|29.271|30.044|EG|Faiyum|49|f
+Whalers Bay|-35.004|136.179|AU|South Australia|49|f
+Whangaroa|-43.850|-176.700|NZ||49|f
+Wharminda Conservation Park|-33.931|136.211|AU|South Australia|49|f
+Wheal Hughes|-34.052|137.618|AU|South Australia|49|f
+Wheaton Municipal Airport|45.785|-96.543|US|Minnesota|49|f
+Wheaton Regional Park|39.053|-77.032|US|Maryland|49|f
+Wheatstone Glacier|-64.750|-62.450|AQ||49|f
+Wheatstone, Cape|-72.617|170.217|AQ||49|f
+Wheel Mountain|37.047|-118.629|US|California|49|f
+Wheeler Glacier|-54.601|-36.402|GS||49|f
+Wheeler Islands|38.161|-81.302|US|West Virginia|49|f
+Wheeler Mountain|39.381|-106.136|US|Colorado|49|f
+Whicher Range|-33.803|115.404|AU|Western Australia|49|f
+Whidbey Isles Conservation Park|-34.728|135.157|AU|South Australia|49|f
+Whiddy Island|51.691|-9.501|IE|Munster|49|f
+Whillans, Mount|-84.450|-64.250|AQ||49|f
+Whiplash Glacier|-72.267|167.700|AQ||49|f
+Whitcombe, Mount|-76.767|162.200|AQ||49|f
+White Bay|-33.832|151.168|AU|New South Wales|49|f
+White Hills|35.869|-117.714|US|California|49|f
+White Island|49.978|-6.291|GB|England|49|f
+White Lake|-33.732|121.843|AU|Western Australia|49|f
+White Lake Mountain|43.269|-74.451|US|New York|49|f
+White Lough|54.112|-6.972|IE|Ulster|49|f
+White Massif|-70.541|67.211|AQ||49|f
+White Mountain|37.947|-119.310|US|California|49|f
+White Oak Creek Covered Bridge|33.149|-84.550|US|Georgia|49|f
+White Park|-34.720|149.742|AU|New South Wales|49|f
+White Park Bay|55.239|-6.399|GB|Northern Ireland|49|f
+White Rock Conservation Park|-27.687|152.858|AU|Queensland|49|f
+Whitecross Mountain|37.931|-107.493|US|Colorado|49|f
+Whitehall Glacier|-72.717|169.417|AQ||49|f
+Whites Bridge|43.014|-85.298|US|Michigan|49|f
+Whitesand Bay|50.100|-5.700|GB|England|49|f
+Whitfell|54.325|-3.295|GB|England|49|f
+Whiting Peak|-80.033|159.483|AQ||49|f
+Whiting Rocks|-65.250|-64.350|AQ||49|f
+Whitman Mission National Historic Site|46.042|-118.464|US|Washington|49|f
+Whitsunday Island|-20.260|148.981|AU|Queensland|49|f
+Whittier Peak|47.947|-121.031|US|Washington|49|f
+Whittle Peninsula|-63.804|-59.802|AQ||49|f
+Whitworth Ridge|-70.396|66.123|AQ||49|f
+Whoopee Hill|37.504|-86.901|US|Kentucky|49|f
+Whorlton Castle|54.416|-1.260|GB|England|49|f
+Whyalla Conservation Park|-32.952|137.544|AU|South Australia|49|f
 Whittingham|55.401|-1.893|GB|England|49
+WHAB-FM (Acton)|42.480|-71.457|US|Massachusetts|40|f
+WHAG-TV (Hagerstown)|39.660|-77.966|US|Maryland|40|f
+WHAJ-FM (Bluefield)|37.256|-81.182|US|West Virginia|40|f
+Whakaki Lagoon|-39.050|177.550|NZ||40|f
+Whakaki Lagoon|-39.038|177.540|NZ|Hawke's Bay Region|40|f
+Whale Bay|-35.168|174.110|NZ|Auckland|40|f
+Whale Cove|51.405|179.356|US|Alaska|40|f
+Whale Cove|44.789|-124.072|US|Oregon|40|f
+Whale Island|50.817|-1.097|GB|England|40|f
+Whale Lake|47.892|-90.546|US|Minnesota|40|f
+Whale Rock Reservoir|35.450|-120.877|US|California|40|f
+Whale Watching Center|44.810|-124.062|US|Oregon|40|f
+Whaleboat Island Marine Park|49.073|-123.692|CA|British Columbia|40|f
+Whaletown Water Aerodrome|50.108|-125.051|CA|British Columbia|40|f
+Whaley Lake|41.558|-73.663|US|New York|40|f
+Whalom Park|42.576|-71.747|US|Massachusetts|40|f
+Whanganui Island|-36.783|175.433|NZ||40|f
+Whangapoua Harbour|-36.738|175.630|NZ|Auckland|40|f
+Whangaroa Harbour|-35.048|173.730|NZ|Auckland|40|f
+WHAP-AM (Hopewell)|37.296|-77.314|US|Virginia|40|f
+Wharncliffe Range|50.492|-125.737|CA|British Columbia|40|f
+Wharton Brook State Park|41.426|-72.837|US|Connecticut|40|f
+WHAS-TV (Louisville)|38.356|-85.848|US|Kentucky|40|f
+Whatcom Falls Park|48.752|-122.428|US|Washington|40|f
+Whatcom Glacier|48.865|-121.367|US|Washington|40|f
+Whatshan Range|50.217|-118.152|CA|British Columbia|40|f
+WHAW-AM (Weston)|39.040|-80.455|US|West Virginia|40|f
+WHBB-AM (Selma)|32.435|-87.018|US|Alabama|40|f
+WHBF-TV|41.546|-90.477|US|Iowa|40|f
+WHBL-AM (Sheboygan)|43.721|-87.735|US|Wisconsin|40|f
+WHBQ-TV (Memphis)|35.175|-89.845|US|Tennessee|40|f
+WHBU-AM (Anderson)|40.105|-85.679|US|Indiana|40|f
+WHCE-FM (Highland Springs)|37.538|-77.324|US|Virginia|40|f
+WHDH-TV (Boston)|42.311|-71.216|US|Massachusetts|40|f
+Wheatley Provincial Park|42.083|-82.442|CA|Ontario|40|f
+Wheaton Lake|49.693|-125.634|CA|British Columbia|40|f
+WHEC-TV (Rochester)|43.135|-77.584|US|New York|40|f
+Wheeler Airport|41.190|-86.603|US|Indiana|40|f
+Wheeler Island|59.854|-96.595|CA|Manitoba|40|f
+Wheeler Island|38.085|-121.937|US|California|40|f
+Wheeler National Wildlife Refuge|34.600|-86.882|US|Alabama|40|f
+Wheelock Hill|42.985|-75.145|US|New York|40|f
+WHEO-AM (Stuart)|36.624|-80.264|US|Virginia|40|f
+WHEP-AM (Foley)|30.435|-87.683|US|Alabama|40|f
+Wherowhero Lagoon|-38.728|177.930|NZ|Gisborne|40|f
+Whetstone Gulf State Park|43.698|-75.483|US|New York|40|f
+Whetstone International Airport|48.999|-112.786|US|Montana|40|f
+Whetstone Mountains|31.795|-110.425|US|Arizona|40|f
+Whewell Glacier|-72.067|169.783|AQ||40|f
+WHFD-FM (Lawrenceville)|36.753|-77.863|US|Virginia|40|f
+WHFI-FM (Lindside)|37.482|-80.661|US|West Virginia|40|f
+WHFT-TV (Miami)|25.993|-80.174|US|Florida|40|f
+WHHO-AM (Hornell)|42.292|-77.674|US|New York|40|f
+WHHV-AM (Hillsville)|36.750|-80.722|US|Virginia|40|f
+Whiddon Lake|50.420|-88.851|CA|Ontario|40|f
+WHIE-AM (Griffin)|33.242|-84.305|US|Georgia|40|f
+Whiltilla Mountain|50.366|-126.703|CA|British Columbia|40|f
+WHIO-TV (Dayton)|39.734|-84.248|US|Ohio|40|f
+Whipple Lake|47.167|-95.232|US|Minnesota|40|f
+Whirlpool State Park|43.120|-79.064|US|New York|40|f
+Whirlwind Glaciers|-67.400|-65.533|AQ||40|f
+Whiskers Point Park|54.900|-122.936|CA|British Columbia|40|f
+Whiskey Creek Airport|32.768|-108.209|US|New Mexico|40|f
+Whiskey Hills|42.980|-120.502|US|Oregon|40|f
+Whiskey Island|44.233|-76.449|CA|Ontario|40|f
+Whiskey Island|45.811|-85.595|US|Michigan|40|f
+Whiskukun Island|63.201|-68.048|CA|Nunavut|40|f
+Whistle Lake|45.871|-78.700|CA|Ontario|40|f
+Whistler Mountain|48.515|-120.708|US|Washington|40|f
+Whitaker Airport|43.427|-123.280|US|Oregon|40|f
+Whitcomb Cabin|45.936|-121.331|US|Washington|40|f
+Whitcomb Ridge|-73.117|166.000|AQ||40|f
+White Ash Lake|45.448|-92.311|US|Wisconsin|40|f
+White Bay|50.000|-56.531|CA|Newfoundland and Labrador|40|f
+White Bear Bay|47.683|-57.315|CA|Newfoundland and Labrador|40|f
+White Bear Lake|48.083|-57.382|CA|Newfoundland and Labrador|40|f
+White Bird Hill Summit|45.847|-116.222|US|Idaho|40|f
+White Castle|51.846|-2.902|GB|Wales|40|f
+White Chuck Glacier|48.065|-121.116|US|Washington|40|f
+White Chuck Mountain|48.209|-121.416|US|Washington|40|f
+White Cloud Airport|43.557|-85.772|US|Michigan|40|f
+White Cloud Island|44.833|-80.966|CA|Ontario|40|f
+White Crown Mountain|79.935|-92.318|CA|Nunavut|40|f
+White Elephant Butte|41.904|-115.068|US|Nevada|40|f
+White Glacier|-75.750|-140.833|AQ||40|f
+White Glacier|47.802|-123.743|US|Washington|40|f
+White Head Island|44.629|-66.706|CA|New Brunswick|40|f
+White Hill|41.736|-70.371|US|Massachusetts|40|f
+White Hills|35.888|-114.352|US|Arizona|40|f
+White Horse Bluff|51.900|-120.119|CA|British Columbia|40|f
+White House Rose Garden|38.898|-77.037|US|District of Columbia|40|f
+White Island|65.784|-84.899|CA|Nunavut|40|f
+White Island|42.968|-70.625|US|New Hampshire|40|f
+White Island Pond|41.809|-70.622|US|Massachusetts|40|f
+White Islands|-77.283|-153.167|AQ||40|f
+White Lake|45.298|-76.519|CA|Ontario|40|f
+White Lake|43.384|-86.382|US|Michigan|40|f
+White Lake|43.544|-75.149|US|New York|40|f
+White Lake National Wildlife Refuge|46.476|-103.213|US|North Dakota|40|f
+White Lake Park|50.900|-119.252|CA|British Columbia|40|f
+White Lake Provincial Park|48.700|-85.675|CA|Ontario|40|f
+White Lead Lake|43.383|-74.908|US|New York|40|f
+White Lily Lake|46.087|-93.102|US|Minnesota|40|f
+White Man Mountain|50.750|-115.485|CA|British Columbia|40|f
+White Man Mountain|42.285|-74.534|US|New York|40|f
+White Mountains|63.183|-137.351|CA|Yukon|40|f
+White Mountains|33.911|-109.585|US|Arizona|40|f
+White Oak Lake State Park|33.690|-93.115|US|Arkansas|40|f
+White Oak Pond|43.716|-71.559|US|New Hampshire|40|f
+White Otter Lake|49.091|-91.863|CA|Ontario|40|f
+White Pelican Park|52.283|-123.036|CA|British Columbia|40|f
+White Pyramid|51.833|-116.702|CA|Alberta|40|f
+White Ridge Park|49.777|-125.970|CA|British Columbia|40|f
+White River Glacier|45.353|-121.697|US|Oregon|40|f
+White River Glacier|48.058|-121.097|US|Washington|40|f
+White River Light Station Museum|43.375|-86.423|US|Michigan|40|f
+White River National Wildlife Refuge|34.458|-91.184|US|Arkansas|40|f
+White River Park|50.166|-126.003|CA|British Columbia|40|f
+White River State Park|39.767|-86.180|US|Indiana|40|f
+White Rock Lake|32.815|-96.725|US|Texas|40|f
+White Rocks National Recreation Area|43.380|-72.918|US|Vermont|40|f
+White Salmon Glacier|46.200|-121.503|US|Washington|40|f
+White Sands National Monument|32.779|-106.333|US|New Mexico|40|f
+White Stone Lake|45.345|-92.936|US|Minnesota|40|f
+White Top|38.625|-79.877|US|West Virginia|40|f
+White Triplets Peaks|79.502|-90.967|CA|Nunavut|40|f
+Whitecap Mountain|50.716|-122.503|CA|British Columbia|40|f
+Whiteclay Lake|50.913|-88.719|CA|Ontario|40|f
+Whitecrow Glacier|48.922|-113.836|US|Montana|40|f
+Whitecrow Lake|48.900|-113.832|US|Montana|40|f
+Whitecrow Mountain|52.567|-118.269|CA|Alberta|40|f
+Whitefish Dunes State Natural Area|44.927|-87.193|US|Wisconsin|40|f
+Whitefish Island|46.517|-84.350|CA|Ontario|40|f
+Whitefish Lake|44.516|-76.240|CA|Ontario|40|f
+Whitefish Lake|44.906|-77.405|CA|Ontario|40|f
+Whitehorn Mountain|53.137|-119.267|CA|British Columbia|40|f
+Whitehorse Mountain|41.415|-74.007|US|New York|40|f
+Whitemantle Range|51.100|-125.253|CA|British Columbia|40|f
+Whites Lake|44.534|-63.754|CA|Nova Scotia|40|f
+Whitesail Range|53.600|-127.003|CA|British Columbia|40|f
+Whitesand Lake|50.375|-88.849|CA|Ontario|40|f
+Whitesand Lake|48.847|-87.382|CA|Ontario|40|f
+Whiteshield Mountain|53.300|-119.353|CA|British Columbia|40|f
+Whiteswan Lake Park|50.150|-115.502|CA|British Columbia|40|f
+Whitetail Peak|45.089|-109.588|US|Montana|40|f
+Whitetop Mountain|52.650|-124.553|CA|British Columbia|40|f
+Whitewater Canal|39.452|-85.113|US|Indiana|40|f
+Whitewater Glacier|44.681|-121.791|US|Oregon|40|f
+Whitewater Lake|46.533|-81.142|CA|Ontario|40|f
+Whitewater Lake|49.250|-100.310|CA|Manitoba|40|f
+Whitewater State Park|44.058|-92.059|US|Minnesota|40|f
+Whiting Bay|55.887|-4.900|GB||40|f
+Whiting Hill|41.405|-70.701|US|Massachusetts|40|f
+Whitland Abbey|51.833|-4.602|GB|Wales|40|f
+Whitman Glacier|46.842|-121.694|US|Washington|40|f
+Whitmer Peninsula|-75.833|162.750|AQ||40|f
+Whitmore Islands|52.643|-129.440|CA|British Columbia|40|f
+Whitney Glacier|41.414|-122.211|US|California|40|f
+Whitney Lakes Provincial Park|53.850|-110.535|CA|Alberta|40|f
+Whitney Peak|-76.433|-126.050|AQ||40|f
+Whittier Field|43.908|-69.955|US|Maine|40|f
+Whittington Hall|54.180|-2.620|GB|England|40|f
+Whittle Glacier|-66.367|114.217|AQ||40|f
+WHIZ-TV (Zanesville)|39.928|-81.985|US|Ohio|40|f
+WHJT-FM (Clinton)|32.338|-90.330|US|Mississippi|40|f
+WHJY-FM (Providence)|41.828|-71.369|US|Rhode Island|40|f
+WHK-AM (Cleveland)|41.358|-81.667|US|Ohio|40|f
+WHKR-FM (Rockledge)|28.368|-80.753|US|Florida|40|f
+WHKY-TV (Hickory)|35.733|-81.331|US|North Carolina|40|f
+WHLF-AM (South Boston)|36.707|-78.924|US|Virginia|40|f
+WHLG-FM (Jensen Beach)|27.215|-80.256|US|Florida|40|f
+WHMI-FM (Howell)|42.663|-83.940|US|Michigan|40|f
+WHMS-FM (Champaign)|40.086|-88.249|US|Illinois|40|f
+WHNC-AM (Henderson)|36.346|-78.376|US|North Carolina|40|f
+WHNN-FM (Bay City)|43.553|-83.690|US|Michigan|40|f
+WHNT-TV (Huntsville)|34.739|-86.532|US|Alabama|40|f
+WHOK-FM (Lancaster)|39.676|-82.676|US|Ohio|40|f
+WHOL-AM (Allentown)|40.593|-75.478|US|Pennsylvania|40|f
+Wholdaia Lake|60.717|-104.167|CA|Northwest Territories|40|f
+Whonnock Lake|49.213|-122.448|CA|British Columbia|40|f
+WHOS-AM (Decatur)|34.599|-87.007|US|Alabama|40|f
+WHOV-FM (Hampton)|37.018|-76.337|US|Virginia|40|f
+WHPY-AM (Clayton)|35.647|-78.506|US|North Carolina|40|f
+WHRO-TV (Hampton-Norfolk)|36.809|-76.503|US|Virginia|40|f
+WHRV-FM (Norfolk)|36.809|-76.503|US|Virginia|40|f
+WHRW-FM (Binghamton)|42.090|-75.968|US|New York|40|f
+WHSC-AM (Hartsville)|34.354|-80.072|US|South Carolina|40|f
+WHSD-FM (Hinsdale)|41.788|-87.934|US|Illinois|40|f
+WHSG-TV (Monroe)|33.740|-84.004|US|Georgia|40|f
+WHSM-FM (Hayward)|45.985|-91.539|US|Wisconsin|40|f
+WHSV-TV (Harrisonburg)|38.602|-78.632|US|Virginia|40|f
+WHTM-TV (Harrisburg)|40.316|-76.950|US|Pennsylvania|40|f
+WHUC-AM (Hudson)|42.254|-73.762|US|New York|40|f
+WHUD-FM (Peekskill)|41.338|-73.894|US|New York|40|f
+WHUS-FM (Storrs)|41.813|-72.259|US|Connecticut|40|f
+WHVW-AM (Hyde Park)|41.746|-73.912|US|New York|40|f
+WHWH-AM (Princeton)|40.367|-74.743|US|New Jersey|40|f
+WHYC-FM (Swan Quarter)|35.442|-76.219|US|North Carolina|40|f
+WHYN-FM (Springfield)|42.241|-72.648|US|Massachusetts|40|f
+Whaddon|52.101|-0.034|GB|England|0
 Whiston|53.409|-1.315|GB|England|0
 Whitchurch|51.850|-2.650|GB|England|0
 Whitchurch|51.406|-2.563|GB|England|0

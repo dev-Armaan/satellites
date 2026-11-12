@@ -27,6 +27,7 @@ Athi River|-1.456|36.978|KE|Machakos County|98
 Atakpamé|7.533|1.133|TG|Plateaux|98
 Attili|16.700|81.600|IN|Andhra Pradesh|97
 Atascocita|29.999|-95.177|US|Texas|96
+Atatürk Olympic Stadium|41.074|28.765|TR|Istanbul|96|f
 Attur|11.594|78.601|IN|Tamil Nadu|96
 At Tall|33.610|36.311|SY|Rif-dimashq|95
 Athani|16.726|75.064|IN|Karnataka|94
@@ -41,6 +42,7 @@ Atlantic City|39.364|-74.423|US|New Jersey|92
 Aţ Ţārif|25.738|32.637|EG|New Valley|92
 Attingal|8.696|76.815|IN|Kerala|91
 Ataq|14.538|46.832|YE|Shabwah|91
+Atlas Mountains|34.000|2.000|DZ|Laghouat|91|f
 Atmakūr|15.881|78.587|IN|Andhra Pradesh|91
 Atbasar|51.809|68.358|KZ|Aqmola|91
 Atami|35.088|139.053|JP|Shizuoka|91
@@ -74,6 +76,7 @@ Attimarappatti|8.740|78.105|IN|Tamil Nadu|87
 Atherton|53.524|-2.494|GB|England|87
 Atoyac de Álvarez|17.207|-100.433|MX|Guerrero|87
 Aţ Ţaraf|25.362|49.728|SA|Eastern Province|87
+Atka Island|52.138|-174.445|US|Alaska|86|f
 Attibele|12.778|77.773|IN|Karnataka|86
 Atima|14.933|-88.490|HN|Santa Bárbara Department|85
 Atuntaqui|0.328|-78.219|EC|Imbabura|85
@@ -96,6 +99,8 @@ Athens|32.205|-95.856|US|Texas|82
 Atabey|37.951|30.639|TR|Isparta|82
 Atuncolla|-15.689|-70.144|PE|Puno|82
 Aţ Ţayyibah|32.543|35.718|JO|Irbid|82
+Atanasio Girardot Sports Complex|6.257|-75.590|CO|Antioquia|82|f
+Atlantic City International Airport|39.458|-74.577|US|New Jersey|82|f
 Atco|39.770|-74.887|US|New Jersey|82
 Athmallik|20.721|84.535|IN|Odisha|82
 Atmākūr|16.338|77.809|IN|Telangana|82
@@ -109,6 +114,7 @@ Atherstone|52.575|-1.547|GB|England|81
 Atru|24.877|76.661|IN|Rajasthan|81
 Atrobou|6.090|-4.059|CI|Lagunes District|81
 Attippattu|13.263|80.291|IN|Tamil Nadu|81
+Attu Island|52.903|172.909|US|Alaska|81|f
 Atlautla|19.022|-98.779|MX|México|81
 Atamanovka|51.929|113.644|RU|Zabaykalskiy (Transbaikal) Kray|81
 Atencingo|18.513|-98.605|MX|Puebla|81
@@ -116,12 +122,14 @@ Atchison|39.563|-95.122|US|Kansas|81
 Attleborough|52.518|1.016|GB|England|80
 Atilio Vivacqua|-20.914|-41.198|BR|Espírito Santo|80
 Atarrabia|42.832|-1.607|ES|Navarre|80
+Atka Airport|52.220|-174.207|US|Alaska|80|f
 ‘Attīl|32.369|35.072|PS|West Bank|80
 Atmore|31.024|-87.494|US|Alabama|80
 Attanūr|11.501|78.136|IN|Tamil Nadu|80
 Attleborough|52.513|-1.455|GB|England|80
 Athy|52.991|-6.980|IE|Leinster|80
 Attinguié|6.064|-4.548|CI|Lagunes District|80
+Atua|-13.950|-171.633|WS||80|r
 Atiquizaya|13.977|-89.752|SV|Ahuachapan|80
 Attinguié|5.467|-4.185|CI|Abidjan Autonomous District|80
 Atauro|-8.267|125.601|TL|Dili Municipality|79
@@ -129,7 +137,9 @@ Atoka|35.441|-89.778|US|Tennessee|79
 Athelstone|-34.870|138.700|AU|South Australia|79
 Atripalda|40.919|14.827|IT|Campania|79
 Atzacan|18.907|-97.083|MX|Veracruz|79
+Atbara Airport|17.710|34.057|SD|River Nile|79|f
 Attnang-Puchheim|48.008|13.717|AT|Upper Austria|79
+Attapu|14.667|107.000|LA||79|r
 Attāni|11.522|77.512|IN|Tamil Nadu|79
 Attippatti|9.494|78.127|IN|Tamil Nadu|78
 Atouguia da Baleia|39.338|-9.326|PT|Leiria|78
@@ -141,6 +151,8 @@ Athhmuqam|34.589|73.913|PK|Azad Kashmir|78
 Atlatlahucan|18.936|-98.897|MX|Morelos|78
 At Tūbī|26.558|49.992|SA|Eastern Province|78
 Aterazawa|38.384|140.212|JP|Yamagata|78
+Atoll Maupihaa|-16.833|-153.917|PF||78|f
+Atqasuk Edward Burnell Sr. Memorial Airport|70.468|-157.431|US|Alaska|78|f
 Ateli Mandi|28.101|76.260|IN|Haryana|78
 Atça|37.889|28.215|TR|Aydın|78
 Atherton|-17.269|145.475|AU|Queensland|78
@@ -150,11 +162,17 @@ Atizapán|19.250|-99.550|MX|México|77
 Atherton|37.461|-122.198|US|California|77
 Atenas|9.975|-84.379|CR|Alajuela Province|77
 Åtvidaberg|58.202|15.998|SE|Östergötland|77
+Ataq Airport|14.551|46.826|YE|Shabwah|77|f
+Atlantic Municipal Airport|41.407|-95.047|US|Iowa|77|f
 Atayurt|36.384|34.022|TR|Mersin|77
 Atlantic|41.404|-95.014|US|Iowa|77
 Atkinson|42.838|-71.147|US|New Hampshire|77
 Atequiza|20.395|-103.139|MX|Jalisco|76
 Atempan|19.839|-97.459|MX|Puebla|76
+AT&T Stadium|32.748|-97.093|US|Texas|76|f
+Ateneum|60.170|24.944|FI|Uusimaa|76|f
+Atmautluak Airport|60.867|-162.273|US|Alaska|76|f
+Attawapiskat Airport|52.928|-82.432|CA|Ontario|76|f
 Atulayan|17.665|121.694|PH|Cagayan Valley|76
 Atitalaquia|20.060|-99.222|MX|Hidalgo|76
 Atoyatempan|18.819|-97.914|MX|Puebla|76
@@ -162,13 +180,15 @@ Atliaca|17.652|-99.375|MX|Guerrero|76
 Atyashevo|54.564|46.069|RU|Mordoviya Republic|75
 Attalla|34.022|-86.089|US|Alabama|75
 Atri|42.576|13.989|IT|Abruzzo|75
-Atua|-13.950|-171.633|WS||75|r
-Attapu|14.667|107.000|LA||75|r
+Atiu Island|-19.992|-158.119|CK||75|f
+Atkamba Airport|-6.067|141.100|PG|Western Province|75|f
 Atlanta|33.114|-94.164|US|Texas|75
 Atlántida|-34.772|-55.758|UY|Canelones|75
 Atemajac de Brizuela|20.141|-103.728|MX|Jalisco|75
 Atsipópoulo|35.353|24.434|GR|Crete|75
 ‘Aţāābād|36.981|54.621|IR|Golestan|75
+Atauro Island|-8.218|125.581|TL|Dili Municipality|74|f
+Athens Olympic Sports Complex|38.039|23.786|GR|Attica|74|f
 Athíenou|35.062|33.542|CY|Larnaka|74
 Atoluca|19.855|-97.354|MX|Puebla|74
 Atkaracalar|40.816|33.076|TR|Çankırı|74
@@ -180,6 +200,7 @@ Atalánti|38.651|22.999|GR|Central Greece|74
 Atlatongo|19.666|-98.905|MX|México|74
 Atyrá|-25.279|-57.173|PY|Cordillera Department|74
 Attossè|6.875|-5.868|CI|Sassandra-Marahoue|73
+Atoll Pukapuka|-14.817|-138.800|PF||73|f
 Ātgāon|25.772|88.503|BD|Rangpur Division|73
 Attiégouakro|6.774|-5.114|CI|Yamoussoukro|73
 Atexcatzingo|19.469|-98.147|MX|Tlaxcala|73
@@ -189,6 +210,7 @@ Atessa|42.070|14.450|IT|Abruzzo|73
 Atlantic Highlands|40.408|-74.034|US|New Jersey|73
 Attapeu|14.811|106.832|LA|Attapu|73
 At-Taybeh|30.251|35.466|JO|Ma’an|73
+Atoll Maturei-Vavao|-21.467|-136.400|PF||72|f
 Atlacholoaya|18.743|-99.226|MX|Morelos|72
 Atemar|54.181|45.409|RU|Mordoviya Republic|72
 Atalaia|-23.151|-52.054|BR|Paraná|72
@@ -198,6 +220,9 @@ Atan|6.665|3.092|NG|Ogun State|72
 Atig|56.693|59.423|RU|Sverdlovsk Oblast|72
 Atlzayanca|19.431|-97.796|MX|Tlaxcala|72
 Atengo|20.173|-99.326|MX|Hidalgo|71
+Atikokan Municipal Airport|48.774|-91.639|CA|Ontario|71|f
+Atlanta Airport|43.814|-115.135|US|Idaho|71|f
+Atoll Tauere|-17.367|-141.500|PF||71|f
 Aţel|46.150|24.467|RO|Sibiu County|71
 Atlashevo|56.012|47.556|RU|Chuvash Republic|71
 Atongo|20.771|-100.239|MX|Querétaro|71
@@ -215,6 +240,9 @@ Atalanta|-27.420|-49.781|BR|Santa Catarina|70
 Attiékoi|5.536|-3.969|CI|Abidjan Autonomous District|70
 Atotonilco|18.650|-98.831|MX|Morelos|70
 Atzitzintla|18.899|-97.324|MX|Puebla|70
+Athens International Airport|37.936|23.944|GR|Attica|70|f
+Atoll Nengo-Nengo|-18.783|-141.800|PF||70|f
+Atoll Tematagi|-21.683|-140.667|PF||70|f
 Attica|40.294|-87.249|US|Indiana|70
 Atoka|34.386|-96.128|US|Oklahoma|70
 Atkins|35.246|-92.937|US|Arkansas|70
@@ -226,6 +254,14 @@ Atenango del Río|18.104|-99.108|MX|Guerrero|69
 Atid|46.450|25.050|RO|Harghita County|69
 Atoyac|18.912|-96.779|MX|Veracruz|69
 Atikokan|48.757|-91.624|CA|Ontario|69
+Atakor|23.243|5.645|DZ|Tamanrasset|69|f
+Atávyros Óros|36.187|27.848|GR|South Aegean|69|f
+Athens Municipal Airport|32.164|-95.828|US|Texas|69|f
+Atoll Maria|-21.800|-154.683|PF||69|f
+Atoll Marutea|-21.500|-135.567|PF||69|f
+Atoll Paraoa|-19.150|-140.717|PF||69|f
+Atoll Vahaga|-21.333|-136.650|PF||69|f
+Atuona Airport|-9.766|-139.009|PF|Marquesas Islands|69|f
 Atalaya|8.044|-80.925|PA|Veraguas Province|69
 Atitiasso|7.555|-2.991|CI|Zanzan District|68
 Atalar|37.175|37.022|TR|Gaziantep|68
@@ -241,6 +277,14 @@ Attalens|46.506|6.850|CH|Fribourg|68
 Atabayan|10.683|122.417|PH|Western Visayas|67
 Atapan|19.650|-102.425|MX|Michoacán|67
 Attiches|50.522|3.062|FR|Hauts-de-France|67
+Atāl|35.286|69.826|AF|Panjshir|67|f
+Atna Peaks|61.749|-143.240|US|Alaska|67|f
+Atoll Amanu|-17.800|-140.767|PF||67|f
+Atoll Manuae|-16.500|-154.667|PF||67|f
+Atoll Morane|-23.167|-137.117|PF||67|f
+Atoll Reao|-18.517|-136.383|PF|Tuamotu-Gambier Islands|67|f
+Atoll Vairaatea|-19.349|-139.222|PF||67|f
+Atyrau Airport|47.122|51.821|KZ|Atyrau Oblisi|67|f
 Atzacoaloya|17.546|-99.137|MX|Guerrero|67
 Atsikí|39.946|25.224|GR|North Aegean|67
 A Ting|15.986|107.827|VN|Da Nang City|67
@@ -264,6 +308,16 @@ Athens|39.961|-89.724|US|Illinois|66
 Atworth|51.392|-2.193|GB|England|66
 Atlantic Beach|40.589|-73.729|US|New York|66
 Ataköy|41.175|36.669|TR|Samsun|65
+‘Ata|-22.333|-176.200|TO|Tongatapu|65|f
+Atacama Desert|-24.500|-69.250|CL|Antofagasta|65|f
+Atia|42.450|27.579|BG|Burgas|65|f
+Atlanta Regional Airport|33.357|-84.572|US|Georgia|65|f
+Atnsjøen|61.881|10.174|NO|Innlandet|65|f
+Atoko Island|38.489|20.814|GR|Ionian Islands|65|f
+Atoll Maria|-22.000|-136.167|PF||65|f
+Atoll Reitoru|-17.867|-143.083|PF||65|f
+Atoll Tenaruga|-21.350|-136.533|PF||65|f
+Atumata|-23.199|-134.906|PF|Tuamotu-Gambier Islands|65|f
 Attainville|49.058|2.345|FR|Île-de-France|65
 Atocha|-20.935|-66.221|BO|Potosí Department|65
 Atburgazı|37.636|27.246|TR|Aydın|65
@@ -302,6 +356,14 @@ Atalpan|19.844|-97.560|MX|Puebla|64
 Ataun|43.006|-2.177|ES|Basque Country|64
 Atlantic Beach|34.699|-76.740|US|North Carolina|64
 Attawapiskat|52.928|-82.417|CA|Ontario|64
+Atascosa Mountains|31.433|-111.147|US|Arizona|63|f
+Athar el Musawwrat es Safra|16.413|33.326|SD|River Nile|63|f
+Āthāra Mura Range|23.713|91.743|IN|Tripura|63|f
+Atlantic Peak|42.616|-109.001|US|Wyoming|63|f
+Atlas Mountains|32.000|-2.000|||63|f
+Atoll de Farquhar|-10.167|51.167|SC||63|f
+Atsumi Peninsula|34.659|137.242|JP|Aichi|63|f
+Attapeu International Airport|14.793|107.045|LA|Attapu|63|f
 Aţ Ţaybah|31.954|35.300|PS|West Bank|63
 Atecax|19.699|-97.367|MX|Puebla|63
 Attoutou|5.221|-4.572|CI|Lagunes District|63
@@ -330,6 +392,13 @@ Athena|45.812|-118.491|US|Oregon|61
 Atwater|45.139|-94.778|US|Minnesota|61
 Atzala|18.546|-98.553|MX|Puebla|61
 ‘Atsmon Segev|32.866|35.252|IL|Northern District|61
+Ataliklikun Bay|-4.267|151.917|PG|East New Britain Province|61|f
+Atatürk Bridge|41.024|28.965|TR||61|f
+Atbasar Airport|51.852|68.363|KZ|Aqmola|61|f
+Athol Island|25.083|-77.267|BS|New Providence|61|f
+Atkins Peak|44.376|-110.069|US|Wyoming|61|f
+Atoll Manuhangi|-19.200|-141.267|PF||61|f
+Atoll Tenararo|-21.300|-136.750|PF||61|f
 Ataeymir|37.705|28.772|TR|Aydın|61
 Athens|45.033|-90.074|US|Wisconsin|61
 Atakrou|7.216|-3.084|CI|Zanzan District|61
@@ -344,28 +413,209 @@ Attien Kouassikro|7.099|-4.872|CI|Lacs District|60
 Attimis|46.190|13.311|IT|Friuli Venezia Giulia|60
 Athens|42.089|-85.235|US|Michigan|60
 Atokoum|7.497|-2.943|CI|Zanzan District|60
+Attanou|6.968|-4.304|CI|Lacs District|60
+Attica|43.030|-83.166|US|Michigan|60
+Atmanai|46.376|35.182|UA|Zaporizhzhia|60
+Athens|44.633|-75.949|CA|Ontario|60
+Atlixtac|18.202|-99.676|MX|Guerrero|60
+Atexcal|18.400|-97.735|MX|Puebla|60
+Athens|37.422|-81.016|US|West Virginia|60
+Athies|50.302|2.838|FR|Hauts-de-France|60
+Atkinson|41.421|-90.015|US|Illinois|60
+Atlamajalcingo del Monte|17.311|-98.604|MX|Guerrero|59
+Atlixtac|17.644|-99.631|MX|Guerrero|59
+Ataliva Roca|-37.031|-64.284|AR|La Pampa|59
+Atacocha|-10.573|-76.215|PE|Pasco|59
+Atwood|35.973|-88.678|US|Tennessee|59
+Atlantongo|20.265|-98.119|MX|Puebla|59
+Atopixco|20.602|-98.608|MX|Hidalgo|59
+Atzala|18.515|-99.661|MX|Guerrero|59
+Attala|46.378|18.064|HU|Somogy County|59
 Atrani|40.636|14.609|IT|Campania|59
+Atlamaxátl|21.311|-98.825|MX|San Luis Potosí|59
 Atina|41.620|13.799|IT|Lazio|59
+Attenschwiller|47.567|7.463|FR|Grand Est|59
+Athens|44.923|-69.673|US|Maine|59
+Attica|41.065|-82.888|US|Ohio|59
+Atrixco|16.634|-98.935|MX|Guerrero|59
+Atlantic|37.901|-75.508|US|Virginia|59
+Atequexquitla|20.265|-97.892|MX|Puebla|59
+Atlaxco|19.187|-97.090|MX|Puebla|58
 Atlanta|45.005|-84.144|US|Michigan|58
+Atotonilco|22.388|-105.483|MX|Nayarit|58
+Atlas|40.800|-76.428|US|Pennsylvania|58
 Ataquines|41.182|-4.803|ES|Castille and León|58
+Atengo|20.488|-99.722|MX|Hidalgo|58
+Atongo de Abajo|25.359|-99.986|MX|Nuevo León|58
+Atacazo|-0.357|-78.619|EC|Pichincha|58|f
+Atauro Airport|-8.211|125.616|TL|Dili Municipality|58|f
+Atchin Island|-15.941|167.344|VU|Malampa|58|f
+Athens-Ben Epps Airport|33.948|-83.327|US|Georgia|58|f
+Atiya|42.466|27.585|BG|Burgas|58|f
+Atlanta South Regional Airport|33.391|-84.326|US|Georgia|58|f
+Atuona Bay|-9.809|-139.039|PF||58|f
+Atwood-Rawlins County City-County Airport|39.838|-101.044|US|Kansas|58|f
+Atenquique|19.530|-103.440|MX|Jalisco|58
+Atimabo|7.744|-3.841|CI|Lacs District|58
+Atioyan|19.780|-97.469|MX|Puebla|58
+Athis|49.016|4.128|FR|Grand Est|58
+Atoukoukouakoukro|6.809|-4.435|CI|Lacs District|58
+Attekro|7.166|-4.803|CI|Lacs District|58
+Atwater|41.024|-81.163|US|Ohio|58
+Attre|50.607|3.839|BE|Wallonia|58
+Athol|43.493|-73.843|US|New York|57
+Atlanta|40.215|-86.026|US|Indiana|57
+Atlanca|18.699|-97.056|MX|Veracruz|57
+Atakent|37.600|38.200|TR|Adıyaman Province|57
+Atatlahuaca|17.535|-96.829|MX|Oaxaca|57
+Atehuetzin|20.013|-97.254|MX|Puebla|57
+Athée|47.230|5.373|FR|Bourgogne-Franche-Comté|57
+Attin|50.487|1.746|FR|Hauts-de-France|57
+Atton|48.891|6.089|FR|Grand Est|57
+Atlajque|21.214|-98.804|MX|San Luis Potosí|57
+Atetetla|18.327|-99.374|MX|Guerrero|57
+Athol|47.948|-116.708|US|Idaho|57
+Atexacapa|18.516|-96.971|MX|Puebla|57
+Atik|36.510|36.220|TR|Hatay|57
+Atempa|20.883|-98.490|MX|Hidalgo|57
+Atara|42.872|41.270|GE|Abkhazia|56
+Athies|49.854|2.983|FR|Hauts-de-France|56
+Atonihio|6.089|-6.010|CI|Goh-Djiboua|56
+Atrokro|7.588|-4.816|CI|Vallée du Bandama District|56
+Atalaya|25.654|-103.261|MX|Coahuila|56
+Ataram|7.937|-3.007|CI|Zanzan District|56
+Atempa|20.756|-98.416|MX|Veracruz|56
+Athesans-Étroitefontaine|47.600|6.517|FR|Bourgogne-Franche-Comté|56
+Atzcala|17.977|-99.663|MX|Guerrero|56
+Ataky|48.542|26.482|UA|Chernivtsi|56
+Atzelgift|50.700|7.833|DE|Rheinland-Pfalz|56
 Atzenbrugg|48.291|15.906|AT|Lower Austria|56
+Atexcalco|18.714|-97.183|MX|Veracruz|56
+Atahualpa|-4.846|-77.482|PE|Loreto|56
+Atecoxco|20.508|-98.588|MX|Hidalgo|56
+Atissa|8.311|-4.442|CI|Vallée du Bandama District|56
+Atotonilco|27.307|-110.174|MX|Sonora|56
+Atlapa Chico|19.679|-97.019|MX|Veracruz|56
 Átil|30.844|-111.584|MX|Sonora|56
 Ateleta|41.854|14.198|IT|Abruzzo|56
+Atayurdu|36.181|36.280|TR|Hatay|56
+Attica|37.241|-98.227|US|Kansas|55
+Atla (Tecuautitlán Atla)|19.749|-98.689|MX|México|55
+Ataköy|39.274|32.518|TR|Ankara|55
+Atchin|7.054|-5.016|CI|Lacs District|55
+Atotonilco|19.999|-98.133|MX|Puebla|55
+Atotonilco|21.993|-100.442|MX|San Luis Potosí|55
+Atzing|47.357|12.800|AT|Salzburg|55
+Atexcac|19.813|-97.924|MX|Puebla|55
+Athenree|-37.467|175.917|NZ|Bay of Plenty|55
+Atalpa|19.854|-97.504|MX|Puebla|55
+Atka|60.834|151.790|RU|Magadan Oblast|55
+Atlalco|20.819|-98.286|MX|Hidalgo|55
+Atlantic|34.885|-76.340|US|North Carolina|55
+Atopoltitlán|18.267|-98.296|MX|Puebla|55
+Ath Thaghrah|32.330|35.390|PS|West Bank|55
+Atlizacuapan|18.466|-96.762|MX|Veracruz|55
+Atabakan|39.558|43.969|TR|Ağrı|55
+Atotonilco|23.287|-103.770|MX|Zacatecas|54
 Atafu|-8.558|-172.497|TK||54|r
 Atafu Village|-8.542|-172.516|TK|Atafu|54
+Attienkonankro|7.594|-5.157|CI|Vallée du Bandama District|54
+Attignat-Oncin|45.508|5.777|FR|Auvergne-Rhône-Alpes|54
+Atzumpa|18.769|-99.937|MX|México|54
+AT&T Park|37.778|-122.389|US|California|54|f
+Atar Airport|20.507|-13.043|MR|Adrar|54|f
+Atascadero Lake|35.465|-120.667|US|California|54|f
+Atatürk Anıtı|37.860|27.251|TR|Aydın|54|f
+Atatürk Dam|37.481|38.318|TR|Şanlıurfa|54|f
+Ateqángitsorssuaq|73.233|-55.900|GL|Avannaata|54|f
+Athelstan, Mount|-70.166|-69.261|AQ||54|f
+Atherton Islands|-62.088|-58.946|AQ||54|f
+Atikhisar Barajı|40.121|26.524|TR|Canakkale|54|f
+Atilissuaq|72.800|-55.883|GL|Avannaata|54|f
+Atkinson Municipal Airport|37.444|-94.732|US|Kansas|54|f
+Atlanta Stadium (historical)|33.745|-84.390|US|Georgia|54|f
+Atløyna|61.333|4.968|NO|Vestland|54|f
+Atoka Municipal Airport|34.395|-96.149|US|Oklahoma|54|f
+Atomic Energy Museum|36.007|-84.283|US|Tennessee|54|f
+Atriceps Island|-60.783|-45.150|AQ||54|f
+Atsena Otie Key|29.122|-83.027|US|Florida|54|f
+Atsugi United States Naval Air Station|35.455|139.450|JP|Kanagawa|54|f
+Attlee Glacier|-66.200|-63.850|AQ||54|f
+Atwood Lake|40.552|-81.237|US|Ohio|54|f
+Atzenberger Höhe|47.981|9.612|DE|Baden-Wurttemberg|54|f
+Ateritz|51.739|12.632|DE|Saxony-Anhalt|54
+Athée|47.887|-0.951|FR|Pays de la Loire|54
+Atalco|21.091|-98.442|MX|Hidalgo|54
+Ateopa|19.115|-97.106|MX|Veracruz|54
 Atlangatepec|19.532|-98.209|MX|Tlaxcala|54
 Atzbach|48.084|13.703|AT|Upper Austria|53
 Atienza|41.197|-2.871|ES|Castille-La Mancha|53
+Attenhausen|50.292|7.876|DE|Rheinland-Pfalz|52
 Attersee|47.916|13.540|AT|Upper Austria|52
 Atarjea|21.267|-99.720|MX|Guanajuato|52
 Attendorf|47.004|15.339|AT|Styria|51
 Atalaya|38.333|-6.467|ES|Extremadura|51
+Ath/Isieres Airport|50.668|3.802|BE|Wallonia|49|f
+Athabasca Airport|54.738|-113.206|CA|Alberta|49|f
+Athene Glacier|-68.922|-64.132|AQ||49|f
+Atherton Island|37.956|-121.350|US|California|49|f
+Atherton Peak|-54.117|-36.750|GS||49|f
+Athos Range|-70.217|65.250|AQ||49|f
+Athribis|26.500|31.667|EG|Sohag|49|f
+Atka Glacier|-76.683|161.550|AQ||49|f
+Atkinson Glacier|-71.500|167.417|AQ||49|f
+Atlantic Beach Bridge|40.593|-73.737|US|New York|49|f
+Atlas, Mount|-72.733|165.500|AQ||49|f
+Atlin Airport|59.580|-133.668|CA|British Columbia|49|f
+Atom Rock|-66.467|-66.405|AQ||49|f
+Atwood Stadium|43.017|-83.702|US|Michigan|49|f
 Atapuerca|42.378|-3.508|ES|Castille and León|46
 Atico|-16.209|-73.622|PE|Arequipa|46
 Atea|41.161|-1.555|ES|Aragon|45
 Atajate|36.640|-5.246|ES|Andalusia|45
 Atiquipa|-15.796|-74.364|PE|Arequipa|43
 Atalaya del Cañavate|39.519|-2.252|ES|Castille-La Mancha|41
+Atalaya Castle|38.632|-0.861|ES|Valencia|40|f
+Atalaya Castle|33.502|-79.068|US|South Carolina|40|f
+Atanasoff Nunatak|-62.614|-60.120|AQ||40|f
+Atantano Shrine|13.424|144.679|GU|Piti|40|f
+Atco Lake|39.757|-74.886|US|New Jersey|40|f
+Atelier Cézanne|43.539|5.446|FR|Provence-Alpes-Côte d'Azur|40|f
+Athabasca Falls|52.665|-117.885|CA|Alberta|40|f
+Athabasca Glacier|52.183|-117.264|CA|Alberta|40|f
+Athabasca Sand Dunes Provincial Park|59.059|-108.719|CA|Saskatchewan|40|f
+Athapapuskow Lake|54.550|-101.667|CA|Manitoba|40|f
+Athen Dipylon|37.978|23.719|GR|Attica|40|f
+Athenry Castle|53.300|-8.745|IE|Connacht|40|f
+Atikaki Provincial Park|51.500|-95.517|CA|Manitoba|40|f
+Atikonak Lake|52.667|-64.532|CA|Newfoundland and Labrador|40|f
+Atkinson Lake|44.980|-94.556|US|Minnesota|40|f
+Atkinson, Mount|-78.650|-85.483|AQ||40|f
+Atlanta Botanical Garden|33.790|-84.374|US|Georgia|40|f
+Atlanta Municipal Airport|44.997|-84.128|US|Michigan|40|f
+Atlanta Prisoner of War Camp Historical Marker|40.379|-99.459|US|Nebraska|40|f
+Atlanta State Park|33.232|-94.249|US|Texas|40|f
+Atlantic Cable Quartz Lode Historical Marker|46.169|-113.161|US|Montana|40|f
+Atlin Lake|59.532|-133.722|CA|British Columbia|40|f
+Atlin Mountain|59.533|-133.870|CA|British Columbia|40|f
+Atlin Park|59.166|-134.004|CA|British Columbia|40|f
+Atmore Municipal Airport|31.013|-87.448|US|Alabama|40|f
+Atna Range|55.900|-127.504|CA|British Columbia|40|f
+Atoka Lake|34.417|-96.154|US|Oklahoma|40|f
+Atomizer Geyser|44.478|-110.849|US|Wyoming|40|f
+Atsina Lake|48.875|-113.843|US|Montana|40|f
+Atsion Lake|39.742|-74.737|US|New Jersey|40|f
+Atsutla Range|59.266|-131.354|CA|British Columbia|40|f
+Attawapiskat Lake|52.238|-87.876|CA|Ontario|40|f
+Attitti Lake|55.133|-102.467|CA|Saskatchewan|40|f
+Attwater Prairie Chicken National Wildlife Refuge|29.691|-96.278|US|Texas|40|f
+Atuba Park|-25.380|-49.206|BR|Paraná|40|f
+Atwater Kent Museum|39.950|-75.152|US|Pennsylvania|40|f
+Atwell Peak|49.841|-123.009|CA|British Columbia|40|f
+Atwood House Museum|41.682|-69.962|US|Massachusetts|40|f
+Atwood Lake|43.365|-74.898|US|New York|40|f
+Atwood, Mount|-77.267|-142.283|AQ||40|f
+Atzelberg|50.175|8.389|DE|Hesse|40|f
 Atzesberg|48.540|13.869|AT|Upper Austria|35
 At Samat|15.843|103.878|TH|Roi Et|0
 Aţ Ţalḩ|15.156|47.399|YE|Shabwah|0
@@ -382,8 +632,13 @@ Atahualpa|-1.218|-78.611|EC|Tungurahua Province|0
 Atan|6.895|4.007|NG|Ogun State|0
 Atanzón|40.667|-2.997|ES|Castille-La Mancha|0
 Atap|3.857|117.047|ID|North Kalimantan|0
+Atarodangkedang|-8.199|123.745|ID|East Nusa Tenggara|0
+Atarodangwautu|-8.184|123.759|ID|East Nusa Tenggara|0
 Ataura|-11.801|-75.440|PE|Junin|0
+Atawolo|-8.513|123.523|ID|East Nusa Tenggara|0
+Atawutung|-8.243|123.495|ID|East Nusa Tenggara|0
 Atbasar|51.800|68.333|KZ|Aqmola|0
+Atengmelang|-8.226|124.671|ID|East Nusa Tenggara|0
 Athmuqam|34.572|73.897|PK|Azad Kashmir|0
 Atiu|-19.996|-158.109|CK||0|r
 Atóme|-11.748|14.498|AO|Kwanza Sul|0

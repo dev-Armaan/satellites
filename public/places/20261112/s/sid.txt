@@ -71,6 +71,7 @@ Sidney|47.717|-104.156|US|Montana|77
 Sidi Bouzid|33.232|-8.551|MA|Casablanca-Settat|77
 Sidi Bibi|30.238|-9.529|MA|Souss-Massa|77
 Sidi Smai’il|32.825|-8.511|MA|Casablanca-Settat|76
+Sidney-Richland Municipal Airport|47.707|-104.193|US|Montana|75|f
 Sidi Allal Tazi|34.523|-6.322|MA|Rabat-Salé-Kénitra|75
 Sidirókastro|41.235|23.389|GR|Central Macedonia|74
 Sidi Jaber|32.390|-6.421|MA|Beni Mellal-Khenifra|74
@@ -82,20 +83,61 @@ Sidney|42.315|-75.392|US|New York|71
 Sidney|44.413|-69.729|US|Maine|71
 Sidi Bou Rouis|36.177|9.123|TN|Siliana Governorate|70
 Sidzina|49.591|19.711|PL|Lesser Poland|70
+Sido|37.536|126.428|KR|Incheon|70|f
 Siddeburen|53.250|6.868|NL|Groningen|69
 Sidi el Hani|35.671|10.316|TN|Sousse Governorate|69
+Sidney Municipal Airport|41.101|-102.986|US|Nebraska|65|f
 Sidvokodvo|-26.628|31.420|SZ|Manzini Region|65
 Sidney|40.025|-88.073|US|Illinois|62
+Sidi Bel Abbes Airport|35.172|-0.595|DZ|Sidi Bel Abbès|61|f
 Sidney|40.748|-95.647|US|Iowa|60
 Sidzina|50.574|17.449|PL|Opole Voivodeship|60
+Sidney Municipal Airport|42.304|-75.416|US|New York|58|f
+Sidra|53.552|23.450|PL|Podlasie|57
 Siddi|39.673|8.888|IT|Sardinia|57
+Sidougou|8.195|-7.776|CI|Woroba|57
+Sidlow|51.205|-0.204|GB|England|56
+Sidell|39.910|-87.821|US|Illinois|55
+Sidjou|-11.671|43.405|KM|Grande Comore|55
+Sidhu Hari Singh|31.112|75.633|IN|Punjab|55
+Siddons Point|-62.550|-60.433|AQ||54|f
+Side Cut Metropark|41.556|-83.672|US|Ohio|54|f
+Sideia Island|-10.598|150.865|PG|Milne Bay Province|54|f
+Sidon|33.408|-90.204|US|Mississippi|54
+Sideville|49.590|-1.682|FR|Normandy|54
+Side Crater|-77.533|167.150|AQ||49|f
+Sidley, Mount|-77.033|-126.100|AQ||49|f
+Sidmouth Rock|-43.840|147.020|AU|Tasmania|49|f
+Sidney Municipal Airport|40.236|-84.153|US|Ohio|49|f
+Sidas Cone|57.866|-130.637|CA|British Columbia|40|f
+Sidelhorn|46.553|8.313|CH|Bern|40|f
+Sidney Island|48.605|-123.294|CA|British Columbia|40|f
+Sidney Lanier Bridge|31.116|-81.485|US|Georgia|40|f
+Sidney Mountain|42.277|-75.386|US|New York|40|f
+Sidneys Knob|40.064|-77.900|US|Pennsylvania|40|f
 Šid|45.128|19.226|RS|Vojvodina|0
 Sida|15.550|102.567|TH|Nakhon Ratchasima|0
+Sidaharja|-7.447|108.598|ID|West Java|0
+Sidakaya|-7.575|108.864|ID|Central Java|0
 Sidamon|41.633|0.833|ES|Catalonia|0
+Sidamukti|-6.487|105.803|ID|Banten|0
+Sidamukti|-6.452|106.056|ID|Banten|0
+Sidamulya|-7.488|108.805|ID|Central Java|0
+Sidamulya Satu|-6.385|106.084|ID|Banten|0
+Sidangpalay|-7.209|107.956|ID|West Java|0
+Sidaogou|41.745|127.052|CN|Jilin|0
+Sidaohezi|44.689|85.705|CN|Xinjiang|0
+Sidaraja|-7.028|108.306|ID|West Java|0
+Sidasari|-7.577|109.202|ID|Central Java|0
+Sidaurip|-7.542|108.750|ID|Central Java|0
+Sidaurip|-7.549|108.838|ID|Central Java|0
 Sidayu|-6.999|112.564|ID|East Java|0
 Siddington|53.233|-2.233|GB|England|0
+Sidem|-8.097|111.583|ID|East Java|0
+Sidem|-8.080|111.812|ID|East Java|0
 Sidemen|-8.484|115.445|ID|Bali|0
 Sidenreng|-3.928|119.799|ID|South Sulawesi|0
+Siderejo|-8.491|114.258|ID|East Java|0
 Sidi Abdallah|32.535|-7.832|MA|Marrakesh-Safi|0
 Sidi Abdallah Ghiat|31.523|-7.833|MA|Marrakesh-Safi|0
 Sidi Amar|32.950|-5.832|MA|Beni Mellal-Khenifra|0
@@ -105,6 +147,47 @@ Sidi Lamine|32.908|-6.051|MA|Beni Mellal-Khenifra|0
 Sidi Moussa|32.272|-7.201|MA|Marrakesh-Safi|0
 Sidi Redouane|34.687|-5.445|MA|Rabat-Salé-Kénitra|0
 Sidi Yahya Ou Saad|32.680|-5.577|MA|Beni Mellal-Khenifra|0
+Siding|-6.799|111.731|ID|East Java|0
+Sidoaji|-8.087|112.633|ID|East Java|0
+Sidodadi|-8.106|113.219|ID|East Java|0
+Sidodadi|-8.364|113.656|ID|East Java|0
+Sidodadi|-7.739|113.495|ID|East Java|0
+Sidoger Lebak|-6.593|106.513|ID|West Java|0
+Sidokumpul|-6.882|112.453|ID|East Java|0
+Sidomakmur|-8.056|113.145|ID|East Java|0
+Sidomekar|-8.211|113.461|ID|East Java|0
+Sidomukti|-8.205|113.828|ID|East Java|0
+Sidomukti|-6.625|111.053|ID|Central Java|0
+Sidomukti|-6.903|112.058|ID|East Java|0
+Sidomukti|-6.908|112.197|ID|East Java|0
 Sidomulyo|0.650|122.615|ID|Gorontalo|0
+Sidomulyo|-8.093|112.449|ID|East Java|0
+Sidomulyo|-8.064|112.643|ID|East Java|0
+Sidomulyo|-8.036|113.157|ID|East Java|0
+Sidomulyo|-8.225|113.928|ID|East Java|0
+Sidomulyo|-7.655|108.626|ID|West Java|0
+Sidomulyo|-6.806|111.460|ID|Central Java|0
+Sidomulyo|-6.878|111.861|ID|East Java|0
+Sidomulyo|-8.135|111.481|ID|East Java|0
+Sidomulyo|-8.259|113.271|ID|East Java|0
+Sidomulyo|-8.310|113.332|ID|East Java|0
+Sidomulyo|-8.178|111.809|ID|East Java|0
+Sidomulyo|-6.993|112.564|ID|East Java|0
+Sidomulyo|-6.967|112.551|ID|East Java|0
+Sidomulyo Kulon|-8.351|112.744|ID|East Java|0
+Sidonganti|-6.921|111.822|ID|East Java|0
+Sidorejo|-8.074|112.380|ID|East Java|0
+Sidorejo|-8.010|113.180|ID|East Java|0
 Sidorejo|-5.585|105.524|ID|Lampung|0
+Sidorejo|-6.768|111.474|ID|Central Java|0
+Sidorukun|-8.590|114.119|ID|East Java|0
+Sidowayah|-6.736|111.503|ID|Central Java|0
 Sidowayah Kidul|-6.720|111.347|ID|Central Java|0
+Sidowayah Lor|-6.711|111.349|ID|Central Java|0
+Sidu|29.152|114.590|CN|Jiangxi|0
+Sidu|25.655|116.199|CN|Fujian|0
+Sidu|23.784|117.274|CN|Fujian|0
+Sidu|28.216|120.954|CN|Zhejiang|0
+Sidu|24.215|115.251|CN|Guangdong|0
+Sidui|34.417|119.467|CN|Jiangsu|0
+Siduping|28.930|110.430|CN|Hunan|0

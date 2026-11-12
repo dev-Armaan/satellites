@@ -13,6 +13,7 @@ Puerto Cortez|15.826|-87.930|HN|Cortés Department|103
 Puerto Ayacucho|5.660|-67.583|VE|Amazonas|102
 Pueblo|38.254|-104.609|US|Colorado|101
 Puerto Barrios|15.727|-88.598|GT|Izabal Department|100
+Puerto Rico|18.249|-66.501|PR||99|f
 Puerto Maldonado|-12.589|-69.199|PE|Madre de Dios|99
 Puerto Padre|21.196|-76.604|CU|Las Tunas Province|98
 Puerto Madryn|-42.768|-65.038|AR|Chubut|96
@@ -36,6 +37,7 @@ Puerto de la Cruz|28.417|-16.551|ES|Canary Islands|90
 Puerto Iguazú|-25.599|-54.574|AR|Misiones|90
 Puerto Wilches|7.348|-73.896|CO|Santander Department|90
 Puerto Cumarebo|11.486|-69.353|VE|Falcón|90
+Puerto Plata Airport|19.758|-70.570|DO|Puerto Plata|90|f
 Puente-Genil|37.389|-4.767|ES|Andalusia|90
 Puerto del Carmen|28.923|-13.666|ES|Canary Islands|90
 Puerto Escondido|15.863|-97.068|MX|Oaxaca|90
@@ -61,6 +63,7 @@ Puerto Esperanza|-26.023|-54.614|AR|Misiones|84
 Puebla|32.566|-115.354|MX|Baja California|84
 Puerto Salgar|5.463|-74.654|CO|Cundinamarca|84
 Puerto Lumbreras|37.563|-1.810|ES|Murcia|84
+Puente del Alamillo|37.413|-5.991|ES|Andalusia|83|f
 Pueblo Rico|5.222|-76.030|CO|Risaralda Department|83
 Pueblo Yaqui|27.355|-110.034|MX|Sonora|83
 Puerto Santa|-8.990|-78.646|PE|Ancash|83
@@ -70,6 +73,7 @@ Puerto Suárez|-18.967|-57.801|BO|Santa Cruz Department|82
 Puente Tocinos|37.993|-1.102|ES|Murcia|82
 Pueblo Nuevo|-5.717|-79.883|PE|Lambayeque|82
 Puerto Escondido|9.194|-80.096|PA|Colón|82
+Puerta de Alcalá|40.420|-3.689|ES|Madrid|81|f
 Puerto Armuelles|8.278|-82.862|PA|Chiriquí Province|81
 Puente de Hierro|-32.866|-68.674|AR|Mendoza|81
 Puerto Rico|27.789|-15.710|ES|Canary Islands|81
@@ -77,6 +81,8 @@ Puerto Escondido (Tepeolulco Puerto Escondido)|19.552|-99.098|MX|México|81
 Puerto Quijarro|-17.783|-57.767|BO|Santa Cruz Department|80
 Pueblo Nuevo|17.160|-92.899|MX|Chiapas|80
 Puerto Tirol|-27.374|-59.089|AR|Chaco|80
+Pueblo Memorial Airport|38.289|-104.497|US|Colorado|80|f
+Puerto Jiménez Airport|8.533|-83.300|CR|Puntarenas Province|80|f
 Puerto Madero|14.721|-92.421|MX|Chiapas|80
 Pueblo Nuevo|8.241|-74.958|CO|Córdoba|79
 Puente Viru|-8.425|-78.781|PE|La Libertad|79
@@ -84,11 +90,15 @@ Puerto Pilón|9.363|-79.793|PA|Colón|79
 Puerto Piray|-26.469|-54.707|AR|Misiones|79
 Puerto Vilelas|-27.511|-58.942|AR|Chaco|79
 Puerto Bolívar|-3.266|-79.997|EC|El Oro|78
+Puerto Escondido International Airport|15.877|-97.089|MX|Oaxaca|78|f
 Puerto Concordia|2.622|-72.757|CO|Meta Department|78
 Puerto Morazán|12.851|-87.172|NI|Chinandega Department|78
+Puente Nuevo|36.741|-5.166|ES|Andalusia|78|f
 Puerto Baquerizo Moreno|-0.902|-89.610|EC|Galápagos|77
+Puerto Barrios Airport|15.731|-88.584|GT|Izabal Department|77|f
 Puerto Serrano|36.922|-5.543|ES|Andalusia|77
 Puelay|15.887|120.574|PH|Ilocos|77
+Puerto Deseado Airport|-47.735|-65.904|AR|Santa Cruz|76|f
 Puerto Real|18.075|-67.187|PR|Cabo Rojo|76
 Puerto Libertad|-25.920|-54.582|AR|Misiones|76
 Puerto San Julián|-49.307|-67.730|AR|Santa Cruz|76
@@ -116,6 +126,7 @@ Puerto Sandino|12.196|-86.760|NI|León Department|73
 Pueblo Nuevo Viñas|14.226|-90.476|GT|Santa Rosa Department|72
 Pueblo Viejo|18.400|-70.768|DO|Azua Province|72
 Puerto Caimito|8.874|-79.716|PA|Panamá Oeste Province|72
+Puerta del Sol|40.417|-3.703|ES|Madrid|72|f
 Puerto Guzmán|0.970|-76.586|CO|Putumayo Department|72
 Pueblo Libertador|-30.220|-59.390|AR|Corrientes|72
 Pueblo Nuevo|19.674|-99.617|MX|México|72
@@ -126,6 +137,7 @@ Pueblo Nuevo|20.526|-101.372|MX|Guanajuato|71
 Puerto Rondón|6.280|-71.100|CO|Arauca Department|71
 Pueblo Hidalgo|16.952|-98.656|MX|Guerrero|71
 Puerto Rosario de Laberinto|-12.717|-69.587|PE|Madre de Dios|71
+Puerto Peñasco International Airport|31.349|-113.306|MX|Sonora|71|f
 Pueblo Nuevo|15.347|-87.990|HN|Cortés Department|71
 Puebla de Alfindén|41.632|-0.752|ES|Aragon|71
 Puerto Magú|19.684|-99.376|MX|México|71
@@ -142,6 +154,9 @@ Puentecillas|20.932|-101.279|MX|Guanajuato|69
 Puerto Ceiba|18.411|-93.179|MX|Tabasco|69
 Puegnago sul Garda|45.567|10.510|IT|Lombardy|69
 Puerto Pinares|-26.427|-54.683|AR|Misiones|69
+Puente Hills|34.000|-117.918|US|California|69|f
+Puerto Ingeniero Ibáñez Airport|-46.294|-71.950|CL|Aysén|69|f
+Puerto Marín Balmaceda Airport|-43.788|-72.951|CL|Aysén|69|f
 Puerto de Aguirre|20.807|-100.433|MX|Querétaro|69
 Puerto Pailas|-17.668|-62.790|BO|Santa Cruz Department|69
 Puerto Ángel|15.669|-96.492|MX|Oaxaca|68
@@ -153,6 +168,8 @@ Pueblo Juárez (La Magdalena)|19.167|-103.931|MX|Colima|68
 Pueblillo|20.255|-97.257|MX|Veracruz|68
 Puente Jula|19.201|-96.349|MX|Veracruz|67
 Pueblos Unidos|24.293|-107.151|MX|Sinaloa|67
+Puerto Berrio Airport|6.460|-74.410|CO|Antioquia|67|f
+Puerto Nare Airport|6.210|-74.591|CO|Antioquia|67|f
 Puente de Camotlán|21.699|-104.080|MX|Jalisco|67
 Puerto Adolfo López Mateos|25.192|-112.110|MX|Baja California Sur|67
 Puerto Villamil|-0.955|-90.967|EC|Galápagos|67
@@ -163,6 +180,10 @@ Puebla de Obando|39.176|-6.628|ES|Extremadura|66
 Puerto Williams|-54.934|-67.610|CL|Region of Magallanes|66
 Puertecito de la Virgen|21.960|-102.269|MX|Aguascalientes|66
 Pueu|-17.738|-149.224|PF|Îles du Vent|66
+Puelches Airport|-38.146|-65.924|AR|La Pampa|65|f
+Puelo Bajo Airport|-41.659|-72.300|CL|Los Lagos Region|65|f
+Puerto Cisnes Airport|-44.759|-72.698|CL|Aysén|65|f
+Puerto Sanchez Airport|-46.592|-72.587|CL|Aysén|65|f
 Puentecillas|20.023|-99.963|MX|México|65
 Pueblo Nuevo Tlalmimilolpan|19.392|-99.502|MX|México|65
 Puerto Bermejo|-26.927|-58.509|AR|Chaco|65
@@ -177,6 +198,7 @@ Puerto Yeruá|-31.533|-58.015|AR|Entre Rios|64
 Pueblo Viejo|17.097|-99.988|MX|Guerrero|64
 Pueblo Nuevo|24.594|-107.353|MX|Sinaloa|64
 Pueblito del Rio|18.228|-65.863|PR|Las Piedras|63
+Puerto Saavedra Airport|-33.028|-70.880|CL|Santiago Metropolitan|63|f
 Puerto Parra|6.651|-74.057|CO|Santander Department|63
 Pueblo Viejo|17.908|-96.057|MX|Oaxaca|63
 Puerto Alto|15.700|-87.867|HN|Cortés Department|63
@@ -204,6 +226,7 @@ Pueblo Sequeira|-30.989|-56.870|UY|Artigas|61
 Pueblo Nuevo|18.701|-99.153|MX|Morelos|61
 Pueblo Centenario|-32.867|-56.467|UY|Durazno Department|61
 Puerta del Monte|20.259|-101.025|MX|Guanajuato|61
+Puente Internacional General José Gervasio Artigas|-32.265|-58.102|UY||61|f
 Pueblo Nuevo|8.881|-82.224|PA|Ngöbe-Buglé Comarca|61
 Pueblo Viejo|18.201|-93.086|MX|Tabasco|61
 Puerta de San José|-27.548|-67.006|AR|Catamarca|61
@@ -216,14 +239,119 @@ Pueblo Benito García|30.516|-115.933|MX|Baja California|60
 Pueblo Nuevo|19.141|-99.426|MX|México|60
 Puerto de Chiquihuite|20.701|-99.835|MX|Querétaro|60
 Puerto Lápice|39.324|-3.481|ES|Castille-La Mancha|60
+Pueblo Nuevo (San Cayetano)|15.853|-93.655|MX|Chiapas|60
+Puerto Naos|28.586|-17.910|ES|Canary Islands|60
+Puerta de San Rafael|20.433|-100.403|MX|Querétaro|60
+Puerta del Monte (Elguera)|20.562|-100.886|MX|Guanajuato|60
+Pueblo Nuevo|14.383|-87.283|HN|Francisco Morazán Department|60
+Pueblo Nuevo de los Ángeles|19.776|-100.008|MX|México|60
 Puebla del Príncipe|38.568|-2.926|ES|Castille-La Mancha|60
+Pueblo Juárez|17.643|-93.160|MX|Chiapas|60
+Puerto Arista|15.934|-93.809|MX|Chiapas|59
+Puerta de Palapares|22.103|-105.631|MX|Nayarit|59
 Puebla de la Reina|38.665|-6.102|ES|Extremadura|59
+Pueblito de Matlaluca|19.065|-96.787|MX|Veracruz|59
 Puerto Ocopa|-11.145|-74.308|PE|Junin|59
+Puerta de Alegrías|20.351|-100.105|MX|Querétaro|59
+Puerto General Nicolás Bravo (Filo de Caballos)|17.648|-99.844|MX|Guerrero|59
+Puerto Piña|7.583|-78.178|PA|Darién|59
+Pueblo Viejo|19.816|-96.874|MX|Veracruz|59
+Puerta de Enmedio|20.763|-100.149|MX|Querétaro|59
+Puerto del Salitre|20.723|-99.690|MX|Querétaro|59
+Puerta de la Reserva|20.645|-101.694|MX|Guanajuato|59
+Puente de Los Serranos|-4.784|-80.610|PE|Piura|59
+Puente de Guadalupe|18.742|-97.250|MX|Veracruz|59
+Puerto de Valle|20.489|-101.135|MX|Guanajuato|59
+Puerta Azul|21.830|-105.171|MX|Nayarit|59
+Pueblo Viejo|20.126|-102.608|MX|Michoacán|59
+Pueblos de la Barranca (El Maestranzo)|20.585|-103.137|MX|Jalisco|58
+Puerto Huarmey|-10.100|-78.170|PE|Ancash|58
+Pueblo Mountain|42.100|-118.650|US|Oregon|58|f
+Puerto Obaldia Airport|8.667|-77.418|PA|Guna Yala|58|f
+Puerto Paez Airport|6.223|-67.446|VE|Apure|58|f
 Puebla del Maestre|38.083|-6.083|ES|Extremadura|58
+Puerto Rico|15.935|-92.255|MX|Chiapas|58
+Pueblitos|34.623|-106.778|US|New Mexico|58
+Puentezuelos|19.713|-96.927|MX|Veracruz|58
+Pueblo Libre|-4.942|-80.257|PE|Piura|58
+Pueblo Nuevo|-5.238|-79.991|PE|Piura|58
+Puentecilla|19.096|-96.850|MX|Veracruz|58
+Puerto México|25.179|-100.711|MX|Nuevo León|58
+Pueblo Nuevo de Porfirio Díaz|18.512|-98.556|MX|Puebla|58
+Pueblo Nuevo|20.173|-98.689|MX|Hidalgo|58
+Pueblo Nuevo|8.391|-80.205|PA|Coclé|57
+Puentecillas Cahuacán|19.633|-99.445|MX|México|57
+Puerta Pulache|-4.741|-80.159|PE|Piura|57
+Puerta de Alambre (Ayacuato)|19.024|-102.449|MX|Michoacán|57
+Pueblo Nuevo|8.152|-77.692|PA|Darién|57
+Puente de Piedra|19.496|-99.306|MX|México|57
+Puebla Tornesa|40.103|-0.001|ES|Valencia|57
+Puerta del Sol [Fraccionamiento]|20.431|-103.237|MX|Jalisco|57
+Puerto Guaraní|-21.283|-57.925|PY|Alto Paraguay|57
+Puerto Indio|8.022|-78.205|PA|Darién|57
+Puerto América|-4.728|-77.060|PE|Loreto|57
+Pueblo Viejo Dos|20.056|-97.021|MX|Veracruz|57
 Puebla de Lillo|43.007|-5.274|ES|Castille and León|57
+Pueblo Viejo|16.551|-97.630|MX|Oaxaca|57
+Pueblo Viejo|16.205|-89.142|BZ|Toledo District|57
+Puerto de Sandoval|21.523|-101.113|MX|Guanajuato|57
+Puerto México|20.097|-99.000|MX|Hidalgo|57
+Puente Campuzano|18.450|-99.588|MX|Guerrero|56
+Puerto Enrique|-5.920|-74.841|PE|Loreto|56
+Pueblo Nuevo Luis Echeverría|25.812|-108.862|MX|Sinaloa|56
+Pueblo Nuevo|8.303|-82.100|PA|Chiriquí Province|56
+Puente de la Vía|18.008|-102.252|MX|Michoacán|56
+Puerta del Muerto|22.297|-102.248|MX|Aguascalientes|56
+Pueblo Viejo|17.227|-99.273|MX|Guerrero|56
+Puerto Azul (Quinta Manzana de San Felipe)|19.479|-100.397|MX|Michoacán|56
+Puente de Tierra|19.506|-100.710|MX|Michoacán|56
+Pueblo de Álamos|29.206|-110.141|MX|Sonora|56
+Pueblo Nuevo|19.290|-100.028|MX|México|56
+Puerto del Toro|27.963|-105.229|MX|Chihuahua|56
+Puente Colorado|18.704|-97.361|MX|Puebla|56
+Puerto Arturo|19.659|-89.067|MX|Quintana Roo|56
+Puerto de Santiago|28.237|-16.843|ES|Canary Islands|56
+Pueblo Nuevo|21.099|-100.407|MX|Guanajuato|55
+Puerta Siete|20.943|-97.702|MX|Veracruz|55
+Puerta del Río|22.239|-100.261|MX|San Luis Potosí|55
+Pueblo de Santiago|24.866|-103.685|MX|Durango|55
+Puente Caporal (La Guancha)|18.902|-99.455|MX|México|55
+Puerta de Agua Caliente|20.223|-101.682|MX|Guanajuato|55
+Puerto Pirámides|-42.572|-64.284|AR|Chubut|55
+Pueblo Nuevo|19.106|-98.439|MX|Puebla|55
 Puebla del Prior|38.570|-6.196|ES|Extremadura|55
+Puerto de Sosa|21.000|-100.653|MX|Guanajuato|55
+Puerto Alegría|-4.121|-70.053|PE|Loreto|55
+Puerto Amargura|-12.407|-73.906|PE|Ayacucho|55
+Pueblo Nuevo|8.536|-82.506|PA|Chiriquí Province|55
+Pueblo Nuevo|8.584|-82.423|PA|Chiriquí Province|55
 Puerto Obaldía|8.666|-77.419|PA|Guna Yala|55
+Puerto Rico|18.621|-91.939|MX|Campeche|55
+Pueblo Nuevo (Peñuelas)|19.956|-98.111|MX|Puebla|54
+Pueblo Nuevo Ojo de Agua|17.894|-95.918|MX|Oaxaca|54
+Puerta Cañada|18.815|-97.409|MX|Puebla|54
+Pueblo Nuevo|27.489|-99.310|US|Texas|54
+Pueblo Nuevo Colonia|27.494|-99.310|US|Texas|54
+Pueblo Mountains|42.104|-118.724|US|Oregon|54|f
+Puengasí|-0.250|-78.500|EC|Pichincha|54|f
+Puente de los Leones|18.013|-66.591|PR|Ponce|54|f
+Puerto Carreno / A. Guauquea|6.185|-67.493|CO|Vichada Department|54|f
+Puerto La Victoria Airport|-22.295|-57.864|PY|Concepción|54|f
+Puerto Lempira Airport|15.262|-83.781|HN|Gracias a Dios Department|54|f
+Puerto Madryn, CHT|-42.759|-65.103|AR|Chubut|54|f
+Puerto Princesa Airport|9.742|118.758|PH|Mimaropa|54|f
+Puerto Rico Airport|-11.108|-67.551|BO|Pando|54|f
+Pueblito de San Juan|8.264|-81.975|PA|Chiriquí Province|54
+Puerto del Varal|17.708|-99.948|MX|Guerrero|54
+Puerto de Martínez|21.712|-99.881|MX|San Luis Potosí|54
+Pueblo Quieto|20.445|-99.969|MX|Querétaro|54
+Puerto de la Cruz|20.701|-101.586|MX|Guanajuato|54
+Pueblo Nuevo|21.772|-105.309|MX|Nayarit|54
+Puente del Carmen|20.886|-100.641|MX|Guanajuato|54
+Puente Madera|16.373|-95.182|MX|Oaxaca|54
 Puerto Vidal|8.049|-81.605|PA|Veraguas Province|54
+Puerto Alegría|-4.325|-77.215|PE|Loreto|54
+Puentecillas|19.576|-97.036|MX|Veracruz|54
 Puebla de Almenara|39.784|-2.814|ES|Castille-La Mancha|53
 Puerto de Béjar|40.351|-5.838|ES|Castille and León|53
 Puerto de Santa Cruz|39.316|-5.859|ES|Extremadura|52
@@ -231,6 +359,14 @@ Puerto Casma|-9.461|-78.383|PE|Ancash|52
 Pueyo de Santa Cruz|41.858|0.157|ES|Aragon|50
 Pueyo|42.565|-1.648|ES|Navarre|50
 Puerto de San Vicente|39.523|-5.114|ES|Castille-La Mancha|49
+Puente Angostura|8.145|-63.597|VE|Bolívar|49|f
+Puente de Segovia|40.414|-3.723|ES|Madrid|49|f
+Puente de Toledo|40.400|-3.715|ES|Madrid|49|f
+Puente dos Hermanos|18.460|-66.085|PR|San Juan|49|f
+Puente El Zacatal|18.639|-91.839|MX|Campeche|49|f
+Puente General Rafael Urdaneta|10.575|-71.573|VE|Zulia|49|f
+Puente Romano|37.877|-4.778|ES|Andalusia|49|f
+Puente Tampico|22.200|-97.844|MX|Veracruz|49|f
 Puebla del Salvador|39.567|-1.667|ES|Castille-La Mancha|49
 Puente del Congosto|40.490|-5.526|ES|Castille and León|49
 Pueblica de Valverde|41.918|-5.900|ES|Castille and León|49
@@ -243,12 +379,22 @@ Puebla de Arenoso|40.100|-0.583|ES|Valencia|44
 Puebla de Albortón|41.385|-0.856|ES|Aragon|44
 Puerto Castilla|40.288|-5.624|ES|Castille and León|43
 Puentedura|42.041|-3.582|ES|Castille and León|41
+Puente de Alcantara|39.860|-4.017|ES|Castille-La Mancha|40|f
+Puente de la Constitucion de 1812|36.523|-6.265|ES||40|f
+Puente de Occidente|6.578|-75.798|CO|Antioquia|40|f
+Puente Marqués De Ureña|36.486|-6.191|ES|Andalusia|40|f
+Puente Romano|38.914|-6.349|ES|Extremadura|40|f
+Puerta de Europa|40.467|-3.689|ES|Madrid|40|f
+Puerta de Sevilla|37.471|-5.641|ES|Andalusia|40|f
+Puerta de Toledo|40.407|-3.712|ES|Madrid|40|f
+Puerto Princesa Subterranean River National Park|10.167|118.917|PH|Mimaropa|40|f
 Puerto Seguro|40.827|-6.761|ES|Castille and León|40
 Puebla de Pedraza|41.206|-3.914|ES|Castille and León|39
 Puertas|41.097|-6.288|ES|Castille and León|38
 Puebla de San Miguel|40.050|-1.133|ES|Valencia|37
 Puebla de Beleña|40.888|-3.216|ES|Castille-La Mancha|35
 Puebla de San Medel|40.511|-5.737|ES|Castille and León|34
+Pu’er|28.250|104.167|CN|Yunnan|0
 Puearto Pailas|-17.663|-62.812|BO|Santa Cruz Department|0
 Puebla de Don Fadrique|37.962|-2.440|ES|Andalusia|0
 Pueblo Bello|10.417|-73.580|CO|Cesar Department|0

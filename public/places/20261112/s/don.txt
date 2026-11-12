@@ -6,6 +6,7 @@ Dongcun|36.777|121.160|CN|Shandong|116
 Dongsheng|39.816|109.978|CN|Inner Mongolia|115
 Donghe|40.566|110.020|CN|Inner Mongolia|114
 Đống Đa|21.013|105.825|VN|Hanoi|111
+Dong Hoi Airport|17.515|106.591|VN|Quang Tri|109|f
 Donghai|22.946|115.642|CN|Guangdong|108
 Dongtai|32.852|120.309|CN|Jiangsu|108
 Donga|9.333|1.783|BJ||105|r
@@ -37,6 +38,7 @@ Dongola|19.182|30.477|SD|Northern State|95
 Donetsk|48.337|39.952|RU|Rostov|94
 Dongcheng|19.709|109.456|CN|Hainan|94
 Donggang|22.465|120.449|TW|Taiwan|94
+Don Mueang International Airport|13.913|100.607|TH|Bangkok|94|f
 Dondaicha|21.324|74.568|IN|Maharashtra|93
 Dongyang|29.833|106.451|CN|Chongqing|92
 Dongargarh|21.189|80.755|IN|Chhattisgarh|91
@@ -58,6 +60,7 @@ Dongchuan|37.368|101.836|CN|Qinghai|85
 Don Antonio|19.874|-98.935|MX|Hidalgo|85
 Dongjiang|33.379|104.951|CN|Gansu|85
 Donna|26.170|-98.052|US|Texas|84
+Donegal Airport|55.044|-8.341|IE|Ulster|84|f
 Donskoye|45.453|41.972|RU|Stavropol Kray|84
 Donghui|22.441|99.800|CN|Yunnan|84
 Donaghmede|53.398|-6.162|IE|Leinster|84
@@ -67,6 +70,7 @@ Dongargaon|20.972|80.851|IN|Chhattisgarh|83
 Donmatías|6.486|-75.395|CO|Antioquia|83
 Donskoy|47.414|40.257|RU|Rostov|83
 Donvale|-37.789|145.175|AU|Victoria|82
+Dongola Airport|19.154|30.430|SD|Northern State|82|f
 Don Sak|9.317|99.692|TH|Surat Thani|82
 Dongmazar|43.831|81.851|CN|Xinjiang|82
 Donzdorf|48.685|9.811|DE|Baden-Wurttemberg|81
@@ -88,10 +92,14 @@ Doñihue|-34.226|-70.965|CL|O'Higgins Region|78
 Donabate|53.487|-6.152|IE|Leinster|77
 Donaghadee|54.641|-5.536|GB|Northern Ireland|77
 Donnacona|46.680|-71.724|CA|Quebec|77
+Donakonda Airport|15.833|79.499|IN|Andhra Pradesh|77|f
+Donaldson Center Airport|34.757|-82.376|US|South Carolina|77|f
 Dong’an|31.778|109.086|CN|Chongqing|77
 Donges|47.318|-2.075|FR|Pays de la Loire|77
 Donimalai Township|15.060|76.592|IN|Karnataka|76
 Dondukovskaya|44.882|40.363|RU|Adygeya Republic|76
+Dongxi Liandao|34.757|119.464|CN|Jiangsu|76|f
+Donnington Castle|51.419|-1.338|GB|England|76|f
 Donsol|12.905|123.595|PH|Bicol Region|76
 Dongyuan|24.917|118.752|CN|Fujian|76
 Dona Euzébia|-21.316|-42.811|BR|Minas Gerais|76
@@ -111,11 +119,15 @@ Donnington|51.951|-1.721|GB|England|73
 Dongnigu|39.017|117.444|CN|Tianjin|73
 Donskoye|52.775|41.478|RU|Tambov Oblast|73
 Dona Emma|-26.987|-49.723|BR|Santa Catarina|73
+Don Valley Stadium|53.396|-1.426|GB|England|72|f
+Donauinsel|48.267|16.371|AT|Vienna|72|f
+Dongting Lake|29.293|112.989|CN|Hunan|72|f
 Dongling|24.983|118.898|CN|Fujian|72
 Dongxi|32.066|106.248|CN|Sichuan|72
 Donskoye|52.617|38.974|RU|Lipetsk Oblast|72
 Donja Međiđa|44.802|18.405|BA|Federation of B&H|72
 Donaustauf|49.033|12.205|DE|Bavaria|71
+Dongji Yu|23.256|119.672|TW|Taiwan|71|f
 Dona Eugénia|0.140|6.611|ST|São Tomé Island|71
 Donk|51.538|5.629|NL|North Brabant|71
 Donetskyi|48.700|38.676|UA|Luhansk|71
@@ -128,6 +140,8 @@ Dongo|46.130|9.282|IT|Lombardy|71
 Donghu|26.235|119.514|CN|Fujian|71
 Donskoye|54.938|19.968|RU|Kaliningrad Oblast|70
 Donnalucata|36.761|14.640|IT|Sicily|70
+Dong Tac Airport|13.044|109.339|VN|Dak Lak|70|f
+Donnersberg|49.625|7.915|DE|Rheinland-Pfalz|70|f
 Donakakaha|9.632|-5.469|CI|Savanes District|70
 Dona Francisca|-29.622|-53.357|BR|Rio Grande do Sul|70
 Dongu|19.844|-99.587|MX|México|69
@@ -137,6 +151,9 @@ Dongbo|5.408|-4.832|CI|Lagunes District|69
 Don Pedro|15.885|120.430|PH|Ilocos|69
 Donington|52.905|-0.205|GB|England|69
 Donceel|50.648|5.320|BE|Wallonia|69
+Doñana National Park|37.049|-6.475|ES|Andalusia|69|f
+Donghai Dao|21.033|110.417|CN|Guangdong|69|f
+Dongying Shengli Airport|37.509|118.787|CN|Shandong|69|f
 Donalsonville|31.040|-84.879|US|Georgia|69
 Donnybrook|-33.571|115.824|AU|Western Australia|68
 Donhio|5.895|-5.917|CI|Goh-Djiboua|68
@@ -149,6 +166,10 @@ Don Juan|18.828|-69.946|DO|Monte Plata Province|68
 Donchery|49.696|4.874|FR|Grand Est|67
 Donaji|17.230|-95.053|MX|Oaxaca|67
 Donzenac|45.227|1.524|FR|New Aquitaine|67
+Dongdaemun|37.571|127.009|KR|Seoul|67|f
+Dongjun Mountain|23.627|121.092|TW|Taiwan|67|f
+Dongqian Lake|29.769|121.657|CN|Zhejiang|67|f
+Donuzlav Bay|45.388|33.107|UA|Crimea|67|f
 Donnery|47.915|2.103|FR|Centre-Val de Loire|67
 Donja Stubica|45.983|15.967|HR|Krapina-Zagorje|67
 Donnas|45.603|7.775|IT|Aosta Valley|66
@@ -158,6 +179,9 @@ Doniphan|36.621|-90.823|US|Missouri|66
 Donaghcloney|54.419|-6.258|GB|Northern Ireland|66
 Donnersdorf|49.967|10.417|DE|Bavaria|66
 Donisthorpe|52.724|-1.538|GB|England|66
+Doña Ana Mountains|32.477|-106.795|US|New Mexico|65|f
+Donaldson Mountain|44.154|-74.211|US|New York|65|f
+Donetsk Sergey Prokofiev International Airport|48.074|37.740|UA|Donetsk|65|f
 Donnerskirchen|47.894|16.646|AT|Burgenland|65
 Donk|50.939|5.137|BE|Flanders|65
 Donethat|20.258|100.163|LA|Bokeo|65
@@ -170,6 +194,9 @@ Dongzhaogezhuang|39.949|117.370|CN|Tianjin|64
 Donja Lomnica|45.712|16.021|HR|Zagreb County|64
 Donovan Estates|32.709|-114.678|US|Arizona|64
 Doneztebe-Santesteban|43.133|-1.667|ES|Navarre|64
+Dông Ấp Bia|16.250|107.183|VN|Thừa Thiên Huế Province|63|f
+Donghai Bridge|30.743|121.975|CN||63|f
+Dongping Hu|35.993|116.199|CN|Shandong|63|f
 Donald|-36.369|142.981|AU|Victoria|63
 Donja Bistra|45.908|15.854|HR|Zagreb County|63
 Donji Stupnik|45.740|15.860|HR|Zagreb County|63
@@ -191,6 +218,14 @@ Donji Žabar|44.943|18.647|BA|Srpska|61
 Donja Trnova|44.658|19.102|BA|Srpska|61
 Donkerbroek|53.017|6.239|NL|Friesland|61
 Donzella|44.930|12.331|IT|Veneto|61
+Donaldson Peak|44.065|-113.698|US|Idaho|61|f
+Dong Co|32.167|84.700|CN|Tibet|61|f
+Dong Yu|22.637|115.483|CN|Guangdong|61|f
+Dongdaesan|35.638|129.379|KR|Ulsan|61|f
+Donghwasa|35.993|128.704|KR|Daegu|61|f
+Dongsan|37.025|128.227|KR|North Chungcheong|61|f
+Dønnesfjorden|70.661|22.618|NO|Finnmark|61|f
+Døntind|62.405|7.901|NO|Møre og Romsdal|61|f
 Donguikro|7.527|-4.003|CI|Lacs District|61
 Don Samuel|18.360|-90.857|MX|Campeche|61
 Đông Sơn|16.113|107.320|VN|Thừa Thiên Huế Province|61
@@ -200,19 +235,118 @@ Dondoni|7.663|-4.208|CI|Lacs District|60
 Donduran|37.834|28.243|TR|Aydın|60
 Don Francisco|20.904|-100.919|MX|Guanajuato|60
 Donald|45.222|-122.839|US|Oregon|60
+Donsieders|49.265|7.642|DE|Rheinland-Pfalz|60
 Donja Motičina|45.495|18.024|HR|County of Osijek-Baranja|60
+Donja Dubona|44.521|20.727|RS|Central Serbia|60
+Donja Gorevnica|43.877|20.500|RS|Central Serbia|60
 Donja Voća|46.301|16.105|HR|Varaždin|60
+Donja Zdenčina|45.667|15.767|HR|Zagreb County|59
+Donneville|43.472|1.549|FR|Occitanie|59
+Donnellson|40.643|-91.565|US|Iowa|59
+Dongshigu|39.879|117.330|CN|Tianjin|59
+Donja Kupčina|45.541|15.805|HR|Zagreb County|59
+Donnini|43.732|11.501|IT|Tuscany|59
+Donzac|44.111|0.819|FR|Occitanie|59
+Dongoteay|20.359|-99.680|MX|Hidalgo|59
+Doniphan|40.772|-98.370|US|Nebraska|59
 Donja Pušća|45.917|15.778|HR|Zagreb County|59
+Donnezac|45.248|-0.444|FR|New Aquitaine|58
+Donja Budriga|42.410|21.455|XK|Gjilan|58
+Donndorf|51.294|11.373|DE|Thuringia|58
 Doñinos de Salamanca|40.960|-5.743|ES|Castille and León|58
+Donja Gračenica|45.506|16.674|HR|Sisak-Moslavina|58
+Donicá|20.043|-100.071|MX|Querétaro|58
+Donji Laduč|45.883|15.733|HR|Zagreb County|58
+Don Island|49.166|-122.986|CA|British Columbia|58|f
+Don Không|14.153|105.824|LA|Champasak Province|58|f
+Don Pedro Reservoir|37.704|-120.363|US|California|58|f
+Donats Mountain|42.661|-74.484|US|New York|58|f
+Doncourt-lès-Conflans Airport|49.153|5.933|FR|Grand Est|58|f
+Dongbaekseom|35.155|129.153|KR|Busan|58|f
+Dongjiang Hu|25.855|113.408|CN|Hunan|58|f
+Dongsha Island Airport|20.705|116.728|TW|Takao|58|f
+Dongzhi Men|39.939|116.427|CN|Beijing|58|f
+Donnelly Airport|55.709|-117.101|CA|Alberta|58|f
+Donner Lake|39.323|-120.265|US|California|58|f
+Donja Šemnica|46.119|15.927|HR|Krapina-Zagorje|58
+Donja Zelina|45.910|16.230|HR|Zagreb County|58
+Doneraile|52.217|-8.583|IE|Munster|58
+Donato Guerra|24.615|-104.638|MX|Durango|58
+Donore|53.693|-6.420|IE|Leinster|58
+Donja Badanja|44.506|19.475|RS|Central Serbia|58
+Don Sebastián|21.165|-100.890|MX|Guanajuato|57
+Donji Desinec|45.682|15.709|HR|Zagreb County|57
+Donofrosë|40.743|19.789|AL|Berat County|57
+Donja Lupljanica|44.912|17.861|BA|Srpska|57
+Dongola|37.361|-89.166|US|Illinois|57
+Donji Kućan|46.280|16.394|HR|Varaždin|57
 Donji Lapac|44.553|15.962|HR|Lika-Senj|57
+Donja Lastva|42.443|18.689|ME|Tivat|57
+Donji Smrtići|44.967|17.762|BA|Srpska|57
+Donja Pačetina|46.091|15.882|HR|Krapina-Zagorje|56
+Donji Kneginec|46.259|16.384|HR|Varaždin|56
+Donkoi|5.616|-3.953|CI|Lagunes District|56
+Dongoro Ba|13.383|-15.283|GM|Lower River|56
+Donato Guerra|18.828|-97.106|MX|Veracruz|56
 Don Álvaro|38.848|-6.275|ES|Extremadura|56
+Döngeli|41.076|31.178|TR|Düzce|56
+Donji Daruvar|45.614|17.231|HR|Bjelovar-Bilogora|56
+Donji Mihaljevec|46.335|16.714|HR|Međimurje|56
+Don|-41.175|146.319|AU|Tasmania|56
+Dongelberg|50.703|4.820|BE|Wallonia|56
+Donnemain-Saint-Mamès|48.106|1.369|FR|Centre-Val de Loire|55
+Donji Dragonožec|45.662|15.947|HR|Zagreb|55
+Don Roque|18.479|-98.627|MX|Puebla|55
+Donnici Superiore|39.248|16.304|IT|Calabria|55
+Donato Márquez Azuara|20.525|-97.364|MX|Veracruz|55
 Donji Muć|43.694|16.462|HR|Split-Dalmatia|55
+Don Juan Xido de Abajo (Cabras de Begoña)|20.851|-100.779|MX|Guanajuato|55
+Donkin|46.183|-59.865|CA|Nova Scotia|55
+Donji Macelj|46.226|15.841|HR|Krapina-Zagorje|54
+Donji Kokoti|42.401|19.197|ME|Podgorica|54
+Don Haskins Center - University of Texas El Paso|31.778|-106.506|US|Texas|54|f
+Don Pedro Island State Park|26.871|-82.321|US|Florida|54|f
+Don Sôm|14.034|105.878|LA|Champasak Province|54|f
+Donovan Lake|45.574|-94.062|US|Minnesota|54|f
+Donja Vrba|45.166|18.107|HR|Brod-Posavina|54
+Donja Višnjica|46.293|16.011|HR|Varaždin|54
+Donesayoudoom|18.622|102.642|LA|Vientiane|54
+Donja Konjuša|43.223|21.414|RS|Central Serbia|54
+Donje Mrzlo Polje|45.460|15.501|HR|Karlovac|54
 Donato|45.526|7.910|IT|Piedmont|52
 Donnersbach|47.461|14.130|AT|Styria|49
+Don Juan Pond|-77.567|161.183|AQ||49|f
+Don Pedro Christophersen, Mount|-85.533|-165.783|AQ||49|f
+Don Quixote Pond|-77.533|161.150|AQ||49|f
+Donald Airport|-36.361|143.005|AU|Victoria|49|f
+Donegal Bay|54.533|-8.500|IE||49|f
+Động Re Lao|16.300|107.250|VN|Thừa Thiên Huế Province|49|f
+Donje Bare|43.318|18.631|BA|Srpska|49|f
+Donnally Glacier|-81.617|159.300|AQ||49|f
+Donnelly Weir|-37.628|145.536|AU|Victoria|49|f
+Donohue Peak|37.775|-119.230|US|California|49|f
+Donovan Islands|-66.189|110.409|AQ||49|f
 Don|46.389|11.136|IT|Trentino-Alto Adige|48
 Don|46.221|11.956|IT|Veneto|47
 Donji Kukuruzari|45.266|16.483|HR|Sisak-Moslavina|45
 Donjimeno|40.960|-4.846|ES|Castille and León|42
+Don Castro Regional Recreation Area|37.692|-122.059|US|California|40|f
+Don Coleman Community Coliseum|29.777|-95.605|US|Texas|40|f
+Don Edwards San Francisco Bay National Wildlife Refuge|37.482|-122.040|US|California|40|f
+Don Pedro Island|26.863|-82.316|US|Florida|40|f
+Don Peninsula|52.500|-128.170|CA|British Columbia|40|f
+Don Quixote Statue|38.897|-77.054|US|District of Columbia|40|f
+Donaca Lake|44.530|-122.187|US|Oregon|40|f
+Donald Ridge|-79.617|-83.167|AQ||40|f
+Donaldsonville Historic District|30.103|-90.988|US|Louisiana|40|f
+Donalsonville Municipal Airport|31.010|-84.880|US|Georgia|40|f
+Donjek Glacier|61.059|-139.718|CA|Yukon|40|f
+Donnafugata Castle|36.882|14.564|IT|Sicily|40|f
+Donnellan Glacier|-78.600|-85.800|AQ||40|f
+Donnellys Lake|45.733|-60.971|CA|Nova Scotia|40|f
+Donner Memorial State Park|39.320|-120.243|US|California|40|f
+Donner Peak|39.309|-120.312|US|California|40|f
+Donoho Peak|61.557|-142.970|US|Alaska|40|f
 Doñinos de Ledesma|41.013|-6.034|ES|Castille and León|40
 Donhierro|41.116|-4.697|ES|Castille and León|39
 Donvidas|41.090|-4.806|ES|Castille and León|37
@@ -223,6 +357,8 @@ Don Mueang|13.913|100.590|TH|Bangkok|0
 Don Phut|14.591|100.628|TH|Saraburi|0
 Don Tan|16.317|104.920|TH|Mukdahan|0
 Don Tum|13.961|100.079|TH|Nakhon Pathom|0
+Dona|-8.901|121.026|ID|East Nusa Tenggara|0
+Donan|-7.207|111.637|ID|East Java|0
 Donat|46.628|9.430|CH|Grisons|0
 Đông Anh|21.140|105.849|VN|Hanoi|0
 Dong Charoen|16.021|100.663|TH|Phichit|0
@@ -233,48 +369,287 @@ Dong Luang|16.816|104.538|TH|Mukdahan|0
 Đồng Nai|11.580|107.365|VN|Lam Dong|0
 Đông Thành|10.892|106.306|VN|Tay Ninh|0
 Đồng Xuân|13.377|109.108|VN|Dak Lak|0
+Dong’an|22.130|110.951|CN|Guangdong|0
+Dong’an|28.983|118.657|CN|Zhejiang|0
 Dong’an|44.579|129.619|CN|Heilongjiang|0
+Dong’ao|18.716|110.396|CN|Hainan|0
 Donga|7.722|10.045|NG|Taraba State|0
+Dongba|40.173|99.003|CN|Gansu|0
+Dongba|39.962|116.553|CN|Beijing|0
+Dongba|31.298|119.054|CN|Jiangsu|0
+Dongba|22.940|111.752|CN|Guangdong|0
+Dongbang|31.648|120.926|CN|Jiangsu|0
+Dongbatu|40.063|95.706|CN|Gansu|0
+Dongbei|27.210|116.131|CN|Jiangxi|0
+Dongbei|24.992|112.296|CN|Guangdong|0
+Dongbeicha|41.737|127.288|CN|Jilin|0
+Dongbeitang|31.634|120.354|CN|Jiangsu|0
+Dongbian|27.777|115.126|CN|Jiangxi|0
 Dongbok|35.070|127.130|KR|Jeollanam-do|0
 Dongchang|41.698|125.922|CN|Jilin|0
+Dongchen|32.402|120.640|CN|Jiangsu|0
+Dongchen|35.001|109.807|CN|Shaanxi|0
+Dongcheng|28.929|121.270|CN|Zhejiang|0
+Dongcheng|22.686|112.319|CN|Guangdong|0
 Dongcheng|21.882|112.010|CN|Guangdong|0
+Dongcheng|22.246|112.381|CN|Guangdong|0
+Dongcheng|23.335|112.722|CN|Guangdong|0
+Dongcheng|23.732|113.058|CN|Guangdong|0
+Dongcheng|30.351|112.188|CN|Hubei|0
+Dongcheng|40.405|122.372|CN|Liaoning|0
+Dongcheng|23.045|113.785|CN|Guangdong|0
 Dongcheng|28.894|120.040|CN|Zhejiang|0
 Dongcheng|28.647|121.271|CN|Zhejiang|0
+Dongcheng|29.848|106.073|CN|Chongqing|0
+Dongchengyuan|30.347|113.909|CN|Hubei|0
+Dongchong|31.020|119.377|CN|Anhui|0
 Dongchuan|25.477|101.285|CN|Yunnan|0
 Dongcun|38.294|111.704|CN|Shanxi|0
+Dongcun|26.363|115.552|CN|Jiangxi|0
+Dongcun|28.014|114.815|CN|Jiangxi|0
+Dongda|34.044|108.768|CN|Shaanxi|0
 Dongdajie|37.927|102.634|CN|Gansu|0
+Dongdong|39.500|98.667|CN|Gansu|0
+Dongdu|28.620|120.054|CN|Zhejiang|0
+Dongfang|28.754|120.165|CN|Zhejiang|0
+Dongfanghong|47.332|130.331|CN|Heilongjiang|0
+Dongfeng|27.102|118.496|CN|Fujian|0
+Dongfeng|39.937|116.499|CN|Beijing|0
+Dongfeng|22.690|113.245|CN|Guangdong|0
+Dongfeng|23.541|116.682|CN|Guangdong|0
+Dongfeng|47.410|127.105|CN|Heilongjiang|0
+Dongfeng|40.975|122.266|CN|Liaoning|0
+Dongfeng|34.090|96.227|CN|Qinghai|0
 Dongfeng|46.820|130.395|CN|Heilongjiang|0
+Dongfenglu|30.093|114.964|CN|Hubei|0
+Dongfu|46.662|127.011|CN|Heilongjiang|0
 Donggala|-0.672|119.740|ID|Central Sulawesi|0
+Donggang|28.937|114.226|CN|Jiangxi|0
+Donggang|22.987|115.934|CN|Guangdong|0
+Donggang|42.162|127.486|CN|Jilin|0
+Donggang|34.780|127.334|KR|Jeollanam-do|0
+Donggao|28.381|120.805|CN|Zhejiang|0
+Donggaocun|35.602|111.292|CN|Shanxi|0
+Donggaocun|40.107|117.112|CN|Beijing|0
+Donggaohuang|33.758|113.364|CN|Henan|0
+Dongge|19.660|110.845|CN|Hainan|0
 Donggo|-8.425|118.595|ID|West Nusa Tenggara|0
+Donggong|31.326|111.831|CN|Hubei|0
+Donggong Cilao|41.200|110.432|CN|Xinjiang|0
+Donggou|35.904|101.509|CN|Qinghai|0
+Donggou|32.272|118.990|CN|Jiangsu|0
+Donggu|26.725|115.391|CN|Jiangxi|0
+Dongguan|30.012|120.814|CN|Zhejiang|0
 Dongguan|39.017|111.127|CN|Shanxi|0
+Dongguan|27.827|116.460|CN|Jiangxi|0
+Dongguan|33.780|106.106|CN|Shaanxi|0
+Dongguan|25.295|118.359|CN|Fujian|0
 Dongguang|37.887|116.535|CN|Hebei|0
+Dongguang|43.291|129.807|CN|Jilin|0
+Dongguantun|42.692|123.349|CN|Liaoning|0
 Donggye|35.442|127.243|KR|Jeollabuk-do|0
+Donghai|31.768|121.871|CN|Jiangsu|0
+Donghai|39.052|117.247|CN|Tianjin|0
+Donghai|25.276|118.917|CN|Fujian|0
+Donghan|25.432|119.606|CN|Fujian|0
+Donghe|30.979|118.456|CN|Anhui|0
+Donghe|19.051|108.938|CN|Hainan|0
+Donghenan|39.382|114.044|CN|Shanxi|0
+Donghongsheng|41.332|110.884|CN|Inner Mongolia|0
+Donghoufang|38.182|114.898|CN|Hebei|0
+Donghu|39.094|112.113|CN|Shanxi|0
+Donghu|30.026|120.608|CN|Zhejiang|0
+Donghua|28.080|108.088|CN|Guizhou|0
 Donghua|35.215|106.653|CN|Gansu|0
+Donghua|24.231|113.665|CN|Guangdong|0
+Donghuan|22.945|113.368|CN|Guangdong|0
 Donghuang|28.333|106.216|CN|Guizhou|0
+Donghuanggou|33.104|106.228|CN|Shaanxi|0
+Donghui|29.850|119.278|CN|Zhejiang|0
+Donghuishe|38.253|114.089|CN|Hebei|0
 Dongi|36.284|127.620|KR|North Chungcheong|0
+Dongji|30.196|122.681|CN|Zhejiang|0
 Dongji|42.900|125.129|CN|Jilin|0
+Dongjia|28.274|115.510|CN|Jiangxi|0
+Dongjiahe|34.962|108.997|CN|Shaanxi|0
+Dongjiahe|34.586|107.359|CN|Shaanxi|0
+Dongjian|21.037|110.495|CN|Guangdong|0
+Dongjiang|42.649|128.100|CN|Jilin|0
+Dongjiang|29.034|111.747|CN|Hunan|0
+Dongjiang|37.625|120.512|CN|Shandong|0
+Dongjiang Matoukou|31.598|118.453|CN|Anhui|0
+Dongjiao|19.577|110.856|CN|Hainan|0
+Dongjiao|23.082|113.218|CN|Guangdong|0
+Dongjiao|29.875|121.587|CN|Zhejiang|0
+Dongjiao|36.005|106.289|CN|Ningxia|0
+Dongjiao|32.503|119.934|CN|Jiangsu|0
+Dongjiao|29.021|111.710|CN|Hunan|0
+Dongjiao|25.268|119.167|CN|Fujian|0
 Dongjie|26.088|119.294|CN|Fujian|0
+Dongjin|32.025|112.225|CN|Hubei|0
+Dongjin|46.740|127.209|CN|Heilongjiang|0
+Dongjing|28.087|113.029|CN|Hunan|0
+Dongjing|31.087|121.263|CN|Shanghai|0
+Dongjingcheng|44.114|129.210|CN|Heilongjiang|0
+Dongke|36.335|99.667|CN|Qinghai|0
+Dongkeng|27.796|119.711|CN|Zhejiang|0
+Dongkeng|22.989|113.941|CN|Guangdong|0
+Dongkeng|23.950|117.383|CN|Fujian|0
+Dongkeng|23.276|115.712|CN|Guangdong|0
+Dongkengkou|29.056|118.143|CN|Zhejiang|0
 Dongko|-8.188|111.575|ID|East Java|0
 Dongkou|27.053|110.536|CN|Hunan|0
+Dongla|29.075|90.746|CN|Tibet|0
 Donglai|37.647|120.523|CN|Shandong|0
+Donglai|41.652|126.144|CN|Jilin|0
 Donglan|24.514|107.373|CN|Guangxi|0
+Dongle|38.827|100.798|CN|Gansu|0
+Dongli|23.561|116.812|CN|Guangdong|0
+Dongli|20.792|110.361|CN|Guangdong|0
 Dongliao|42.924|124.986|CN|Jilin|0
+Donglin|23.838|117.615|CN|Fujian|0
+Donglin|29.234|114.538|CN|Jiangxi|0
+Donglin|47.505|127.020|CN|Heilongjiang|0
+Donglinxi|29.676|118.292|CN|Anhui|0
+Dongliu|25.144|115.989|CN|Fujian|0
+Donglong|23.009|116.283|CN|Guangdong|0
+Donglu|19.739|110.678|CN|Hainan|0
+Donglu|29.025|118.534|CN|Zhejiang|0
+Donglu|31.089|109.040|CN|Chongqing|0
+Dongluqiao|36.681|115.341|CN|Hebei|0
+Dongmafang|38.681|112.324|CN|Shanxi|0
+Dongmafang|30.919|113.696|CN|Hubei|0
+Dongmaku|28.432|109.566|CN|Hunan|0
+Dongmen|25.524|111.609|CN|Hunan|0
+Dongming|47.575|130.841|CN|Heilongjiang|0
 Dongming Chengguanzhen|35.291|115.090|CN|Shandong|0
+Dongmugou|39.857|111.476|CN|Inner Mongolia|0
 Dongmyeon|38.201|128.043|KR|Gangwon-do|0
 Dongmyeon|35.031|127.038|KR|Jeollanam-do|0
 Dongnae|35.202|129.085|KR|Busan|0
 Dongnae|37.847|127.762|KR|Gangwon-do|0
 Dongo|-14.595|15.719|AO|Huíla|0
+Dongpaizi|44.912|84.474|CN|Heilongjiang|0
 Dongping|35.935|116.444|CN|Shandong|0
 Dongping|28.377|111.208|CN|Hunan|0
+Dongping|27.429|118.638|CN|Fujian|0
+Dongping|27.310|116.683|CN|Jiangxi|0
+Dongping|21.739|112.217|CN|Guangdong|0
+Dongping|24.744|113.188|CN|Guangdong|0
+Dongping|25.306|118.333|CN|Fujian|0
+Dongping|46.089|123.276|CN|Jilin|0
 Dongping|36.499|117.996|CN|Shandong|0
+Dongpu|30.056|120.531|CN|Zhejiang|0
+Dongpu|23.886|117.116|CN|Fujian|0
+Dongpu|23.752|114.693|CN|Guangdong|0
+Dongqianhu|29.791|121.632|CN|Zhejiang|0
+Dongqiao|31.193|112.831|CN|Hubei|0
+Dongqiao|26.371|118.891|CN|Fujian|0
+Dongqiao|29.781|121.403|CN|Zhejiang|0
+Dongqiao|30.076|119.583|CN|Zhejiang|0
+Dongqinggou|34.524|99.968|CN|Qinghai|0
 Dongqu|37.920|112.200|CN|Shanxi|0
+Dongqu|22.517|113.404|CN|Guangdong|0
+Dongsha|30.314|122.141|CN|Zhejiang|0
+Dongsha|23.068|113.250|CN|Guangdong|0
+Dongshan|31.083|120.403|CN|Jiangsu|0
 Dongshan|31.956|118.833|CN|Jiangsu|0
 Dongshan|25.794|114.543|CN|Jiangxi|0
+Dongshan|21.035|110.392|CN|Guangdong|0
+Dongshan|19.752|110.233|CN|Hainan|0
+Dongshan|29.303|118.543|CN|Zhejiang|0
+Dongshan|36.963|122.440|CN|Shandong|0
+Dongshan|21.667|110.645|CN|Guangdong|0
+Dongshan|23.909|116.929|CN|Guangdong|0
+Dongshan|30.776|114.014|CN|Hubei|0
 Dongshan|47.336|130.309|CN|Heilongjiang|0
+Dongshanba|26.741|116.060|CN|Jiangxi|0
+Dongshandi|29.125|118.649|CN|Zhejiang|0
+Dongshangen|40.376|119.772|CN|Liaoning|0
+Dongshangguan|34.730|109.216|CN|Shaanxi|0
+Dongshao|26.940|116.004|CN|Jiangxi|0
+Dongshaoqu|40.289|116.957|CN|Beijing|0
+Dongshe|32.097|121.181|CN|Jiangsu|0
 Dongsheng|30.574|103.921|CN|Sichuan|0
+Dongsheng|22.622|113.289|CN|Guangdong|0
+Dongsheng|48.233|126.660|CN|Heilongjiang|0
+Dongsheng|42.652|123.131|CN|Liaoning|0
+Dongsheng|29.830|116.696|CN|Jiangxi|0
+Dongsheng|47.004|126.885|CN|Heilongjiang|0
+Dongsheng|29.717|112.523|CN|Hubei|0
+Dongshengyong|42.809|129.500|CN|Jilin|0
+Dongshengyong|41.042|110.107|CN|Xinjiang|0
+Dongshentou|39.387|112.580|CN|Shanxi|0
+Dongshi|30.409|111.704|CN|Hubei|0
+Dongshi|24.679|115.948|CN|Guangdong|0
+Dongshi|24.665|118.456|CN|Fujian|0
+Dongshui|24.256|115.173|CN|Guangdong|0
+Dongsi|40.897|122.630|CN|Liaoning|0
+Dongtan|37.861|101.806|CN|Gansu|0
+Dongtang|25.081|113.631|CN|Guangdong|0
+Dongtang|28.777|112.969|CN|Hunan|0
+Dongtian|25.149|111.649|CN|Hunan|0
+Dongting|30.872|119.520|CN|Anhui|0
+Dongtou|25.307|115.910|CN|Jiangxi|0
+Dongtuan|28.391|117.849|CN|Jiangxi|0
+Dongtucheng|41.119|111.261|CN|Inner Mongolia|0
 Dongtundu|28.184|113.032|CN|Hunan|0
+Dongwan|44.064|85.803|CN|Xinjiang|0
+Dongwang|28.561|99.744|CN|Yunnan|0
+Dongwang|38.587|114.849|CN|Henan|0
+Dongwangpo|38.448|114.128|CN|Hebei|0
+Dongwu|34.799|108.529|CN|Shaanxi|0
+Dongwu|29.809|121.722|CN|Zhejiang|0
+Dongwu|29.234|118.548|CN|Zhejiang|0
+Dongxi|28.649|89.120|CN|Tibet|0
+Dongxi|29.142|110.825|CN|Hunan|0
+Dongxi|27.424|119.960|CN|Zhejiang|0
+Dongxi|29.136|117.013|CN|Jiangxi|0
+Dongxia|37.038|101.789|CN|Qinghai|0
+Dongxia|31.168|119.090|CN|Anhui|0
+Dongxia|36.682|101.326|CN|Qinghai|0
+Dongxiang|25.595|119.882|CN|Fujian|0
+Dongxiang|32.121|112.484|CN|Hubei|0
+Dongxiao|25.029|117.008|CN|Fujian|0
+Dongxiaokou|40.057|116.403|CN|Beijing|0
+Dongxin|28.589|115.828|CN|Jiangxi|0
+Dongxin|39.142|117.271|CN|Tianjin|0
+Dongxin|31.703|114.208|CN|Hubei|0
+Dongxing|31.982|120.161|CN|Jiangsu|0
+Dongxing|47.268|125.030|CN|Heilongjiang|0
+Dongxing|46.380|127.865|CN|Heilongjiang|0
+Dongyang|25.914|118.641|CN|Fujian|0
+Dongyang|48.012|124.247|CN|Heilongjiang|0
+Dongyang|34.384|109.628|CN|Shaanxi|0
+Dongyang|34.928|109.630|CN|Shaanxi|0
+Dongyangzhen|28.871|115.637|CN|Jiangxi|0
+Dongyin|19.961|109.643|CN|Hainan|0
+Dongying|20.053|110.413|CN|Hainan|0
+Dongyingcun|23.689|117.386|CN|Fujian|0
+Dongyingfang|41.220|124.523|CN|Liaoning|0
+Dongyong|22.887|113.456|CN|Guangdong|0
+Dongyong|22.796|115.426|CN|Guangdong|0
+Dongyou|27.163|118.631|CN|Fujian|0
+Dongyu|32.312|106.820|CN|Sichuan|0
+Dongyuan|23.512|116.130|CN|Guangdong|0
+Dongyuan|27.213|119.896|CN|Fujian|0
+Dongyuan|28.770|116.449|CN|Jiangxi|0
+Dongyuan|31.980|121.728|CN|Jiangsu|0
+Dongyuan|28.319|120.232|CN|Zhejiang|0
+Dongyueguan|29.560|111.036|CN|Hunan|0
+Dongzaogang|32.090|121.487|CN|Jiangsu|0
+Dongzha|30.761|120.786|CN|Zhejiang|0
+Dongzhai|38.809|112.098|CN|Shanxi|0
+Dongzhang|25.712|119.246|CN|Fujian|0
+Dongzhao|37.694|112.848|CN|Shanxi|0
 Dongzhen|22.380|110.939|CN|Guangdong|0
+Dongzhong|30.774|113.431|CN|Hubei|0
+Dongzhou|41.864|124.038|CN|Liaoning|0
+Dongzhou|22.713|115.527|CN|Guangdong|0
+Dongzhou|33.784|112.807|CN|Henan|0
+Dongzhou|30.078|119.985|CN|Zhejiang|0
+Dongzhu|31.335|120.401|CN|Jiangsu|0
 Donji Dubovik|44.890|16.325|BA|Srpska|0
 Donnington|52.000|-2.417|GB|England|0
 Donomulyo|-8.287|112.427|ID|East Java|0
+Donorejo|-8.281|112.742|ID|East Java|0

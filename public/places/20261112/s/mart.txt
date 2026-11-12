@@ -18,11 +18,13 @@ Martigny-Ville|46.103|7.072|CH|Valais|85
 Martinsburg|39.456|-77.964|US|West Virginia|85
 Marte|12.365|13.829|NG|Borno State|84
 Martha Lake|47.851|-122.239|US|Washington|84
+Martha's Vineyard Island|41.417|-70.616|US|Massachusetts|83|f
 Martindale|51.118|-113.956|CA|Alberta|83
 Martinho Campos|-19.332|-45.237|BR|Minas Gerais|83
 Martinlaakso|60.274|24.851|FI|Uusimaa|83
 Martinsville|36.692|-79.873|US|Virginia|83
 Martí|22.947|-80.919|CU|Matanzas Province|83
+Martinique|14.663|-61.004|MQ|Martinique|82|f
 Martuni|40.140|45.302|AM|Gegharkunik|82
 Martinsville|40.601|-74.559|US|New Jersey|82
 Martinsville|39.428|-86.428|US|Indiana|81
@@ -38,15 +40,19 @@ Marte R. Gómez (Tobarito)|27.368|-109.886|MX|Sonora|79
 Martins Soares|-20.257|-41.877|BR|Minas Gerais|78
 Martins|-6.088|-37.911|BR|Rio Grande do Norte|78
 Martuk|50.747|56.506|KZ|Aktobe|78
+Martin State Airport|39.326|-76.414|US|Maryland|78|f
 Mart’q’opi|41.787|45.023|GE|Kvemo Kartli|77
 Martellago|45.544|12.164|IT|Veneto|77
 Martignas-sur-Jalle|44.845|-0.783|FR|New Aquitaine|77
 Martins Ferry|40.096|-80.725|US|Ohio|77
+Martinique Aimé Césaire International Airport|14.591|-61.003|MQ|Martinique|76|f
+Martinitoren|53.219|6.568|NL|Groningen|76|f
 Martin Kertváros|48.092|20.814|HU|Borsod-Abaúj-Zemplén|76
 Marton|-40.069|175.378|NZ|Manawatu-Wanganui|75
 Martan-Chu|43.064|45.562|RU|Chechnya|75
 Martonvásár|47.316|18.790|HU|Fejér|74
 Martignacco|46.093|13.140|IT|Friuli Venezia Giulia|74
+Martín Miguel de Güemes International Airport|-24.856|-65.486|AR|Salta|73|f
 Martock|50.974|-2.767|GB|England|73
 Martyush|56.400|61.882|RU|Sverdlovsk Oblast|72
 Martvili|42.414|42.379|GE|Samegrelo and Zemo Svaneti|72
@@ -56,9 +62,12 @@ Mărtiniş|46.233|25.383|RO|Harghita County|69
 Martorell|18.076|-65.898|PR|Yabucoa|69
 Martfeld|52.876|9.061|DE|Lower Saxony|69
 Martín de la Jara|37.109|-4.963|ES|Andalusia|69
+Martín García Island|-34.182|-58.251|AR|Buenos Aires|69|f
+Martyrs Square Beirut|33.896|35.507|LB|Beirut|69|f
 Martinniemi|65.212|25.309|FI|North Ostrobothnia|68
 Martynivske|47.471|31.277|UA|Mykolaiv|68
 Martigné-Ferchaud|47.829|-1.318|FR|Brittany|68
+Martensøya|80.681|21.249|SJ|Svalbard|67|f
 Martillac|44.711|-0.537|FR|New Aquitaine|67
 Marttila|60.583|22.900|FI|Southwest Finland|67
 Martinborough|-41.208|175.430|NZ|Wellington Region|66
@@ -91,6 +100,9 @@ Marthasville|38.628|-91.058|US|Missouri|61
 Martinvast|49.596|-1.664|FR|Normandy|61
 Martinsville|39.336|-87.882|US|Illinois|61
 Mártires|-27.423|-55.377|AR|Misiones|61
+Martha's Vineyard Airport|41.390|-70.613|US|Massachusetts|61|f
+Martin Reef|-67.567|65.517|AQ||61|f
+Martin, Mount|-69.615|-63.080|AQ||61|f
 Marto-Ivanivka|48.642|33.099|UA|Kirovohrad|61
 Martinez|22.068|-99.625|MX|San Luis Potosí|61
 Martensrade|54.280|10.394|DE|Schleswig-Holstein|61
@@ -98,22 +110,111 @@ Martinsheim|49.623|10.149|DE|Bavaria|61
 Martizay|46.808|1.043|FR|Centre-Val de Loire|61
 Martin|43.172|-101.733|US|South Dakota|61
 Mărtineşti|45.817|23.133|RO|Hunedoara County|60
+Martha|25.790|-103.619|MX|Durango|60
+Mártires de Tacubaya|16.538|-98.253|MX|Oaxaca|60
+Martin|45.492|18.067|HR|County of Osijek-Baranja|60
+Martin Lake|45.381|-93.095|US|Minnesota|59
+Martins Additions|38.979|-77.069|US|Maryland|59
+Martenslinde|50.856|5.534|BE|Flanders|59
+Martelletto|38.892|16.535|IT|Calabria|59
+Martinroda|50.723|10.889|DE|Thuringia|59
+Martiel|44.376|1.922|FR|Occitanie|59
+Marter|46.032|11.391|IT|Trentino-Alto Adige|59
+Mărtănuș|46.020|26.292|RO|Covasna County|59
+Martigny-les-Bains|48.105|5.824|FR|Grand Est|59
+Mártires de Río Blanco|22.831|-99.006|MX|Tamaulipas|58
+Martin Creek Mountains|41.652|-117.432|US|Nevada|58|f
+Martin Glacier|-68.500|-66.830|AQ||58|f
+Martin Islands|-65.631|-65.379|AQ||58|f
+Martinbreen|77.647|15.689|SJ|Svalbard|58|f
+Martine, Mount|-69.741|-75.163|AQ||58|f
+Martins Head|-62.188|-58.225|AQ||58|f
+Martins Pond|42.596|-71.125|US|Massachusetts|58|f
 Martiniana Po|44.627|7.363|IT|Piedmont|58
+Mărtinești|45.503|27.305|RO|Vrancea|58
+Martinet|46.677|-1.680|FR|Pays de la Loire|57
+Mártir Cuauhtémoc (San José Cuauhtémoc)|18.800|-98.461|MX|Puebla|57
+Martiněves|50.373|14.153|CZ|Ústí nad Labem Region|57
+Martin|53.125|-0.327|GB|England|57
+Martinice|49.310|17.601|CZ|Zlín|56
+Mărtineni|45.921|26.096|RO|Covasna County|56
+Martainville-Épreville|49.460|1.293|FR|Normandy|56
+Martins Creek|40.783|-75.186|US|Pennsylvania|56
 Martirano Lombardo|39.075|16.232|IT|Calabria|56
+Martinice v Krkonoších|50.581|15.534|CZ|Liberec Region|56
+Martenshoek|53.163|6.731|NL|Groningen|56
+Marthon|45.615|0.443|FR|New Aquitaine|56
+Martinchel|39.536|-8.312|PT|Santarém|56
+Martin|37.573|-82.753|US|Kentucky|56
+Martiri di Pizzocalvo|44.450|11.398|IT|Emilia-Romagna|56
 Martirano|39.081|16.248|IT|Calabria|55
+Martynovka|45.872|34.331|UA|Crimea|55
+Martynivka|50.371|34.330|UA|Poltava|55
+Martin|32.085|-93.220|US|Louisiana|55
+Martigny|49.867|1.151|FR|Normandy|55
 Martone|38.354|16.288|IT|Calabria|55
+Martuni|40.665|45.254|AM|Gegharkunik|55
+Martínkovice|50.548|16.342|CZ|Hradec Králové Region|55
+Mărtinie|45.794|23.609|RO|Alba County|55
 Martinska Ves|45.586|16.370|HR|Sisak-Moslavina|55
+Martjanci|46.686|16.198|SI|Municipality of Moravske Toplice|55
+Martin nad Žitavou|48.394|18.357|SK|Nitra Region|55
+Martin Massif|-70.471|65.648|AQ||54|f
+Martins Lake|-38.067|143.578|AU|Victoria|54|f
+Martins Mill Covered Bridge|43.533|-72.396|US|Vermont|54|f
+Martschenspitz|46.328|8.460|CH|Ticino|54|f
 Martín de Yeltes|40.776|-6.292|ES|Castille and León|54
 Martis|40.778|8.809|IT|Sardinia|54
+Martres-sur-Morge|45.937|3.220|FR|Auvergne-Rhône-Alpes|54
 Martinsberg|48.375|15.150|AT|Lower Austria|54
 Martín del Río|40.845|-0.895|ES|Aragon|53
 Martín Muñoz de las Posadas|40.995|-4.597|ES|Castille and León|52
 Martiago|40.454|-6.490|ES|Castille and León|51
+Marth|51.383|10.000|DE|Thuringia|51
 Martijanec|46.266|16.540|HR|Varaždin|51
+Martinstein|49.803|7.544|DE|Rheinland-Pfalz|50
+Martinroda|50.800|10.067|DE|Thuringia|49
+Martin Airport|49.064|18.950|SK|Žilina Region|49|f
+Martin County Airport|35.860|-77.178|US|North Carolina|49|f
+Martin Dome|-83.250|157.350|AQ||49|f
+Martin Island|-66.733|56.967|AQ||49|f
+Martin Islet|-34.490|150.935|AU|New South Wales|49|f
+Martin Luther University of Halle-Wittenberg|51.487|11.969|DE|Saxony-Anhalt|49|f
+Martin Peak|-84.366|-65.350|AQ||49|f
+Martins Bay|-44.367|167.967|NZ||49|f
+Martins Bay|-36.450|174.767|NZ||49|f
+Martnaham Loch|55.417|-4.533|GB|Scotland|49|f
+Martubah Airport|32.542|22.745|LY|Darnah|49|f
 Martiherrero|40.674|-4.782|ES|Castille and León|46
 Martínez|40.630|-5.348|ES|Castille and León|45
 Martín Muñoz de la Dehesa|41.067|-4.687|ES|Castille and León|45
 Martín Miguel|40.952|-4.272|ES|Castille and León|45
+Martello Tower|51.088|1.197|GB|England|40|f
+Marten River Provincial Park|46.725|-79.812|CA|Ontario|40|f
+Martens Peak|-85.567|-131.033|AQ||40|f
+Martha Creek Park|51.142|-118.202|CA|British Columbia|40|f
+Martha Gold Mine|-37.385|175.843|NZ|Auckland|40|f
+Martha Lake|50.031|-125.629|CA|British Columbia|40|f
+Martha Lake|37.095|-118.738|US|California|40|f
+Martha's Vineyard Museum|41.388|-70.517|US|Massachusetts|40|f
+Martin Covered Bridge|44.284|-72.414|US|Vermont|40|f
+Martin Dam|32.680|-85.911|US|Alabama|40|f
+Martin Hill|34.392|-86.263|US|Alabama|40|f
+Martin Hill|39.840|-78.546|US|Pennsylvania|40|f
+Martin Island|48.800|-53.798|CA|Newfoundland and Labrador|40|f
+Martin Islands|70.218|-91.517|CA|Nunavut|40|f
+Martin Lake|48.717|-55.565|CA|Newfoundland and Labrador|40|f
+Martin Lake|44.692|-63.573|CA|Nova Scotia|40|f
+Martin Lake|59.550|-108.584|CA|Saskatchewan|40|f
+Martin Mountain|39.739|-78.611|US|Pennsylvania|40|f
+Martin Municipal Airport|43.168|-101.717|US|South Dakota|40|f
+Martin National Wildlife Refuge|38.006|-76.007|US|Maryland|40|f
+Martin Ridge|-84.417|165.500|AQ||40|f
+Martin River Glacier|60.550|-143.873|US|Alaska|40|f
+Martin Van Buren National Historic Site|42.367|-73.715|US|New York|40|f
+Martinez Lake|32.981|-114.475|US|Arizona|40|f
+Martins Fork Lake|36.738|-83.261|US|Kentucky|40|f
+Marts Peak|-78.538|-85.402|AQ||40|f
 Martinamor|40.807|-5.599|ES|Castille and León|37
 Martanesh|41.400|20.200|AL|Dibër County|0
 Martapura|-4.319|104.347|ID|South Sumatra|0

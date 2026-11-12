@@ -17,6 +17,7 @@ Káposztásmegyer|47.589|19.116|HU|Budapest|87
 Kapasan|24.889|74.317|IN|Rajasthan|86
 Kāpren|25.405|76.074|IN|Rajasthan|86
 Kapsan-ŭp|41.090|128.293|KP|Yanggang-do|86
+Kapiti Island|-40.855|174.915|NZ||86|f
 Kappiyara|8.247|77.262|IN|Tamil Nadu|84
 Kapolei Villages|21.336|-158.067|US|Hawaii|84
 Kapolei|21.336|-158.058|US|Hawaii|84
@@ -29,17 +30,22 @@ Kapsowar|0.979|35.559|KE|Elegeyo-Marakwet|79
 Kapelle-op-den-Bos|51.010|4.363|BE|Flanders|79
 Kapelle|51.486|3.958|NL|Zeeland|79
 Kapuskasing|49.417|-82.433|CA|Ontario|78
+Kapalua Airport|20.963|-156.674|US|Hawaii|78|f
 Kaplice|48.739|14.494|CZ|South Bohemian Region|78
 Kapsokwony|0.852|34.702|KE|Bungoma County|77
 Kapoeta|4.772|33.591|SS|Eastern Equatoria|77
+Kapellbrücke|47.051|8.307|CH|Lucerne|77|f
 Kapustin Yar|48.582|45.745|RU|Astrakhan Oblast|76
 Kaprijke|51.217|3.615|BE|Flanders|76
 Kappelrodeck|48.592|8.117|DE|Baden-Wurttemberg|75
 Kappel-Grafenhausen|48.284|7.766|DE|Baden-Wurttemberg|74
+Kapchagay Reservoir|43.808|77.532|KZ|Almaty Region|73|f
 Kaplan|29.998|-92.285|US|Louisiana|73
 Kapaya|6.543|124.563|PH|Soccsksargen|72
+Kaputjugh Lerr|39.159|46.004|AZ|Nakhchivan|72|f
 Kapasia|24.114|90.561|BD|Dhaka Division|72
 Ka Pin Gyi|16.614|95.831|MM|Yangon|72
+Kapıdağ Peninsula|40.467|27.833|TR|Balıkesir|71|f
 Kapsoit|-0.320|35.218|KE|Kericho County|71
 Kapandríti|38.216|23.879|GR|Attica|71
 Kapékaha|9.941|-5.547|CI|Savanes District|71
@@ -53,6 +59,8 @@ Kapunda|-34.339|138.916|AU|South Australia|69
 Kapatan|5.901|125.237|PH|Soccsksargen|69
 Kapok|5.024|115.047|BN|Brunei-Muara District|69
 Kapatalan|14.474|121.490|PH|Calabarzon|69
+Kapota Island|37.283|27.367|TR|Muğla|69|f
+Kappa Island|-64.322|-62.998|AQ||69|f
 Kapitanivka|48.920|31.716|UA|Kirovohrad|68
 Kaposmérő|46.362|17.704|HU|Somogy County|68
 Kapkatet|-0.630|35.194|KE|Kericho County|68
@@ -60,32 +68,80 @@ Kappl|47.067|10.383|AT|Tyrol|66
 Kapolokoro|8.683|-4.603|CI|Vallée du Bandama District|66
 Kapısuyu|36.129|35.940|TR|Hatay|66
 Kapuria|23.881|78.745|IN|Madhya Pradesh|66
+Kapuskasing Airport|49.414|-82.468|CA|Ontario|65|f
 Kapélé|9.435|-5.697|CI|Savanes District|65
 Kapaau|20.234|-155.802|US|Hawaii|65
 Kapūr Chāl|37.549|49.234|IR|Gilan Province|64
 Kapytolivka|49.194|37.348|UA|Kharkiv|63
 Kaparéllion|38.237|23.214|GR|Central Greece|63
+Kap Alexander|78.170|-73.027|GL|Avannaata|63|f
+Kapi‘olani Park|21.269|-157.822|US|Hawaii|63|f
 Kaplivka|48.447|26.511|UA|Chernivtsi|63
 Kaputan|40.325|44.700|AM|Kotayk|63
+Kap York|75.908|-66.446|GL|Avannaata|61|f
+Kapapa Island|21.477|-157.799|US|Hawaii|61|f
+Kapchang-san|36.347|128.189|KR|Gyeongsangbuk-do|61|f
+Kapsing Island|22.340|114.063|HK|Tsuen Wan|61|f
 Kappelen|47.060|7.269|CH|Bern|61
 Kapellen|50.886|4.952|BE|Flanders|60
 Kaptol|45.435|17.726|HR|Požega-Slavonia|60
 Kapsweyer|49.044|8.022|DE|Rheinland-Pfalz|60
 Kapfing|47.333|11.850|AT|Tyrol|60
+Kaplna|48.292|17.458|SK|Bratislava Region|60
+Kapellen-Drusweiler|49.102|8.031|DE|Rheinland-Pfalz|59
+Kapp Heights|40.900|-76.808|US|Pennsylvania|59
+Kappa|6.432|-5.586|CI|Goh-Djiboua|59
+Kapé|8.529|-3.818|CI|Zanzan District|58
+Kap Morris Jesup|83.650|-33.382|GL||58|f
+Kaps|40.871|43.755|AM|Shirak|56
+Kapelica|45.080|14.097|HR|Istria|56
+Kapinovë|40.636|20.121|AL|Berat County|55
+Kápi|39.334|26.311|GR|North Aegean|55
+Kappel|50.000|7.367|DE|Rheinland-Pfalz|54
+Kappelen|47.619|7.439|FR|Grand Est|54
+Kapaklı|36.230|29.895|TR|Antalya|54
+Kap Dalton|69.417|-24.100|GL|Sermersooq|54|f
+Kapalai|4.220|118.695|MY|Sabah|54|f
+Kapanga Airport|-8.376|22.646|CD|Lualaba|54|f
+Kapfenberg Airport|47.457|15.331|AT|Styria|54|f
+Kapit Airport|2.017|112.950|MY|Sarawak|54|f
+Kapustyne|47.066|32.036|UA|Mykolaiv|54
+Kapélé|10.653|-6.344|CI|Savanes District|54
+Kapellendorf|50.975|11.469|DE|Thuringia|53
 Kapfenstein|46.886|15.972|AT|Styria|53
 Kapellen|47.648|15.629|AT|Styria|53
 Kappel am Krappfeld|46.839|14.486|AT|Carinthia|52
 Kapela|45.988|16.851|HR|Bjelovar-Bilogora|51
 Kapelln|48.258|15.757|AT|Lower Austria|49
+Kapoeta Airport|4.784|33.584|SS|Eastern Equatoria|49|f
+Kapunda Island Conservation Park|-34.448|140.561|AU|South Australia|49|f
+Kapuzinerberg|47.804|13.057|AT|Salzburg|49|f
+Kaperich|50.250|7.033|DE|Rheinland-Pfalz|46
+Kappeln|49.683|7.567|DE|Rheinland-Pfalz|45
+Kap-Kig-Iwan Provincial Park|47.800|-79.883|CA|Ontario|40|f
+Kapama Private Game Reserve|-24.437|31.067|ZA|Limpopo|40|f
+Kaparoqtalik Glacier|72.919|-77.675|CA|Nunavut|40|f
+KAPB-FM (Marksville)|31.124|-92.078|US|Louisiana|40|f
+KAPE-AM (Cape Girardeau)|37.279|-89.558|US|Missouri|40|f
+Kaptai Dam|22.494|92.225|BD|Chittagong|40|f
+Kapuskasing Lake|48.484|-82.945|CA|Ontario|40|f
+KAPZ-AM (Bald Knob)|35.276|-91.561|US|Arkansas|40|f
 Kap Choeng|14.475|103.594|TH|Surin|0
+Kapakabisa|-9.722|119.300|ID|East Nusa Tenggara|0
 Kapaklı|41.329|27.981|TR|Tekirdağ|0
 Kapalong|7.771|125.559|PH|Davao Region|0
 Kapan|-9.735|124.274|ID|East Nusa Tenggara|0
 Kapangan|16.575|120.597|PH|Cordillera|0
+Kapasan|-6.777|111.379|ID|Central Java|0
+Kapasan|-6.900|113.186|ID|East Java|0
 Kapho|6.560|101.534|TH|Pattani|0
+Kapinango|-6.413|105.862|ID|Banten|0
 Kapingamarangi|1.079|154.808|FM|Pohnpei State|0
 Kapoe|9.585|98.596|TH|Ranong province|0
 Kapong|8.697|98.409|TH|Phang Nga|0
 Kapongan|-7.691|114.062|ID|East Java|0
 Kaptanpaşa|40.961|40.782|TR|Rize Province|0
+Kapu|-6.889|111.989|ID|East Java|0
+Kapuan|-7.189|111.557|ID|Central Java|0
+Kapunduk|-9.450|120.048|ID|East Nusa Tenggara|0
 Kaputian|6.966|125.726|PH|Davao Region|0

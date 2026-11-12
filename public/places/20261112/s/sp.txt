@@ -1,5 +1,5 @@
 Spain|40.000|-4.000|ES||154|c
-Split-Dalmatia|43.167|16.500|HR||111|r
+Split-Dalmatia|43.167|16.500|HR||112|r
 Spokane|47.660|-117.429|US|Washington|107
 Springs|-26.250|28.400|ZA|Gauteng|105
 Spring Valley|36.108|-115.245|US|Nevada|105
@@ -13,6 +13,7 @@ Sparks|39.535|-119.753|US|Nevada|100
 Spokane Valley|47.673|-117.239|US|Washington|100
 Springdale|36.187|-94.129|US|Arkansas|98
 Spijkenisse|51.845|4.329|NL|South Holland|97
+Spitsbergen|78.750|16.000|SJ|Svalbard|96|f
 Springfield|44.046|-123.022|US|Oregon|96
 Springfield|39.924|-83.809|US|Ohio|96
 Spring|30.080|-95.417|US|Texas|95
@@ -26,6 +27,7 @@ Spring Hill|35.751|-86.930|US|Tennessee|91
 Spišská Nová Ves|48.945|20.562|SK|Košice Region|91
 Spring Valley|41.113|-74.044|US|New York|90
 Springville|40.165|-111.611|US|Utah|90
+Spinalonga|35.298|25.738|GR|Crete|90|f
 Spalding|52.787|-0.151|GB|England|90
 Springfield Gardens|40.663|-73.762|US|New York|90
 Springfield|38.789|-77.187|US|Virginia|90
@@ -41,6 +43,7 @@ Speke|53.341|-2.841|GB|England|87
 Sparta|41.033|-74.638|US|New Jersey|86
 Spanish Lake|38.788|-90.216|US|Missouri|86
 Spoleto|42.741|12.739|IT|Umbria|86
+Spokane International Airport|47.620|-117.534|US|Washington|86|f
 Springboro|39.552|-84.233|US|Ohio|85
 Spennymoor|54.699|-1.602|GB|England|85
 Springfield|36.509|-86.885|US|Tennessee|85
@@ -75,18 +78,22 @@ Spangen|51.917|4.435|NL|South Holland|80
 Spryfield|44.612|-63.618|CA|Nova Scotia|80
 Spreydon|-43.557|172.617|NZ|Canterbury|80
 Sparta|43.944|-90.813|US|Wisconsin|80
+Spīn Ghar|33.987|70.373|AF|Nangarhar|80|f
+Sports Authority Field at Mile High|39.744|-105.020|US|Colorado|80|f
 Springfield|30.153|-85.611|US|Florida|80
 Spáta|37.962|23.915|GR|Attica|79
 Spilamberto|44.533|11.017|IT|Emilia-Romagna|79
 Spassk-Ryazanskiy|54.408|40.377|RU|Ryazan Oblast|79
 Spotswood|40.392|-74.398|US|New Jersey|79
 Spelle|52.364|7.474|DE|Lower Saxony|78
+Spanish square|40.423|-3.713|ES|Madrid|78|f
 Spicchio-Sovigliana|43.730|10.939|IT|Tuscany|78
 Spring Valley Lake|34.494|-117.268|US|California|78
 Spanish Fort|30.675|-87.915|US|Alabama|78
 Spotts|19.274|-81.313|KY||78
 Sparanise|41.188|14.096|IT|Campania|77
 Spassk|53.926|43.184|RU|Penza Oblast|77
+Špiro Mugoša Airport|42.423|19.291|ME|Podgorica|77|f
 Spišská Belá|49.187|20.459|SK|Prešov Region|76
 Spirovo|57.420|34.981|RU|Tver Oblast|76
 Spinazzola|40.964|16.091|IT|Apulia|76
@@ -94,6 +101,8 @@ Springs|41.016|-72.159|US|New York|76
 Spino d'Adda|45.401|9.487|IT|Lombardy|76
 Spezzano Albanese|39.669|16.309|IT|Calabria|76
 Spring Lake Park|45.108|-93.238|US|Minnesota|76
+Spotland Stadium|53.621|-2.180|GB|England|76|f
+Springdale Municipal Airport|36.176|-94.119|US|Arkansas|76|f
 Spinetta Marengo|44.886|8.678|IT|Piedmont|76
 Speichersdorf|49.871|11.781|DE|Bavaria|76
 Spreckelsville|20.897|-156.415|US|Hawaii|76
@@ -101,12 +110,15 @@ Spangenberg|51.116|9.663|DE|Hesse|76
 Spasskoye|44.612|132.799|RU|Primorye|76
 Spring Hill|38.743|-94.826|US|Kansas|76
 Spas-Klepiki|55.138|40.180|RU|Ryazan Oblast|75
+Spencer Municipal Airport|43.164|-95.202|US|Iowa|75|f
+Split Airport|43.539|16.298|HR|Split-Dalmatia|75|f
 Spring Ridge|39.401|-77.352|US|Maryland|75
 Spring Grove|42.444|-88.236|US|Illinois|75
 Spencer|42.244|-71.992|US|Massachusetts|75
 Spirano|45.581|9.669|IT|Lombardy|75
 Spring Valley|41.328|-89.200|US|Illinois|75
 Spokoynaya|44.247|41.401|RU|Krasnodar Krai|74
+Spermonde Archipelago|-4.876|119.114|ID|South Sulawesi|74|f
 Spalt|49.176|10.925|DE|Bavaria|74
 Springfield|42.326|-85.239|US|Michigan|74
 Spas-Demensk|54.412|34.023|RU|Kaluga Oblast|74
@@ -118,6 +130,9 @@ Spanbroek|52.698|4.961|NL|North Holland|74
 Sports Square|22.724|113.831|CN|Guangdong|74
 Spry|39.918|-76.685|US|Pennsylvania|74
 Spring Lake Heights|40.152|-74.039|US|New Jersey|73
+Spandau Citadel|52.541|13.213|DE|State of Berlin|73|f
+Spangdahlem Air Base|49.973|6.692|DE|Rheinland-Pfalz|73|f
+Springer Mountain|34.627|-84.194|US|Georgia|73|f
 Spanţov|44.117|26.783|RO|Călărași County|73
 Spadafora|38.223|15.382|IT|Sicily|73
 Sparks|31.673|-106.240|US|Texas|73
@@ -136,6 +151,9 @@ Spy|50.481|4.709|BE|Wallonia|73
 Spielberg bei Knittelfeld|47.217|14.783|AT|Styria|73
 Sparks|30.929|-97.360|US|Texas|72
 Springville|33.775|-86.472|US|Alabama|72
+Speos Artemidos|27.904|30.872|EG|Red Sea|72|f
+Sportsman Airpark|45.296|-122.955|US|Oregon|72|f
+Spruce Creek Airport|29.080|-81.046|US|Florida|72|f
 Spiegelau|48.915|13.362|DE|Bavaria|72
 Spackenkill|41.656|-73.913|US|New York|72
 Spencer|35.523|-97.377|US|Oklahoma|72
@@ -153,6 +171,12 @@ Spanish Town|18.448|-64.435|VG||72
 Spišské Podhradie|49.001|20.753|SK|Prešov Region|72
 Spoltore|42.455|14.140|IT|Abruzzo|71
 Spean Thma|11.467|104.891|KH|Phnom Penh|71
+Spanggur Tso|33.518|78.908|IN||71|f
+Sparrevohn LRRS Airport|61.097|-155.574|US|Alaska|71|f
+Spirit Mountain|35.275|-114.724|US|Nevada|71|f
+Spirkin Oseredok Island|46.450|49.883|KZ|Atyrau Oblisi|71|f
+Spørteggbreen|61.603|7.486|NO|Vestland|71|f
+Spratly Islands|10.000|114.000|||71|f
 Speightstown|13.251|-59.644|BB|Saint Peter|71
 Sprundel|51.538|4.597|NL|North Brabant|71
 Sperone|40.953|14.605|IT|Campania|71
@@ -194,6 +218,10 @@ Spring Arbor|42.205|-84.553|US|Michigan|69
 Springtown|32.966|-97.684|US|Texas|69
 Springdale|33.959|-81.109|US|South Carolina|69
 Springhill|45.650|-64.049|CA|Nova Scotia|69
+Spadaro Airport|40.826|-72.750|US|New York|69|f
+Spark Point|-62.444|-59.726|AQ||69|f
+Speer|47.186|9.123|CH|Saint Gallen|69|f
+Spencer Airport|42.290|-71.966|US|Massachusetts|69|f
 Spercheiáda|38.907|22.128|GR|Central Greece|69
 Spaniard's Bay|47.617|-53.281|CA|Newfoundland and Labrador|68
 Spooner|45.822|-91.889|US|Wisconsin|68
@@ -205,6 +233,14 @@ Spay|47.924|0.151|FR|Pays de la Loire|68
 Spring Lake|43.077|-86.197|US|Michigan|68
 Spring Valley|43.687|-92.389|US|Minnesota|68
 Spencer|39.287|-86.763|US|Indiana|67
+Spanish Steps|41.906|12.483|IT|Lazio|67|f
+Spiš Castle|49.001|20.768|SK|Košice Region|67|f
+Spitfire Aerodrome|39.735|-75.398|US|New Jersey|67|f
+Split Mountain|37.021|-118.422|US|California|67|f
+Spofforth Castle|53.955|-1.452|GB|England|67|f
+Springfield-Branson National Airport|37.244|-93.387|US|Missouri|67|f
+Springvale Airport|-23.562|140.719|AU|Queensland|67|f
+Spruce Island|57.917|-152.418|US|Alaska|67|f
 Spring Mount|40.276|-75.457|US|Pennsylvania|67
 Spillern|48.383|16.250|AT|Lower Austria|67
 Spencerville|40.709|-84.354|US|Ohio|67
@@ -234,6 +270,13 @@ Springfield|42.854|-97.897|US|South Dakota|66
 Spangler|40.643|-78.773|US|Pennsylvania|66
 Spencer|44.758|-90.297|US|Wisconsin|66
 Spézet|48.192|-3.716|FR|Brittany|65
+Specimen Mountain|40.445|-105.809|US|Colorado|65|f
+Spectacle Island|-33.849|151.164|AU|New South Wales|65|f
+Spinnaker Island|42.301|-70.895|US|Massachusetts|65|f
+Spirit Island|52.633|-117.486|CA|Alberta|65|f
+Spissøya|60.130|5.104|NO|Vestland|65|f
+Springbank Island|-35.290|149.111|AU|Australian Capital Territory|65|f
+Spruce Mountain|40.552|-114.822|US|Nevada|65|f
 Spinnerstown|40.439|-75.437|US|Pennsylvania|65
 Sparneck|50.162|11.843|DE|Bavaria|65
 Sparta|37.001|-93.082|US|Missouri|65
@@ -261,6 +304,21 @@ Springbrook|52.179|-113.880|CA|Alberta|64
 Spodnja Idrija|46.032|14.027|SI|Municipality of Idrija|64
 Spanish Wells|25.547|-76.764|BS|Spanish Wells|64
 Springfield Lake|44.813|-63.745|CA|Nova Scotia|64
+Spaatz Island|-73.000|-75.000|AQ||63|f
+Space Coast Regional Airport|28.511|-80.801|US|Florida|63|f
+Spangler Hills|35.566|-117.515|US|California|63|f
+Sparta Mountains|41.043|-74.617|US|New Jersey|63|f
+Spartanburg Downtown Memorial Airport|34.918|-81.958|US|South Carolina|63|f
+Spéan Mônivôngs|11.531|104.933|KH|Phnom Penh|63|f
+Spence Airport|31.140|-83.709|US|Georgia|63|f
+Spenser Mountains|-42.250|172.500|NZ||63|f
+Sperry Hills|35.834|-116.276|US|California|63|f
+Spike Island|51.834|-8.285|IE|Munster|63|f
+Spildra|70.021|21.631|NO|Troms|63|f
+Spinnaker Island|-35.294|149.107|AU|Australian Capital Territory|63|f
+Splitrock Reservoir|40.966|-74.455|US|New Jersey|63|f
+Springerville Municipal Airport|34.131|-109.308|US|Arizona|63|f
+Spy Rock|30.897|-99.150|US|Texas|63|f
 Speldhurst|51.151|0.219|GB|England|63
 Spital am Pyhrn|47.665|14.340|AT|Upper Austria|63
 Spinoso|40.269|15.967|IT|Basilicate|63
@@ -303,6 +361,25 @@ Spring Valley|34.345|-112.159|US|Arizona|61
 Springville|42.059|-91.443|US|Iowa|61
 Speers|40.125|-79.880|US|Pennsylvania|61
 Spring Glen|39.659|-110.853|US|Utah|61
+Spandaryani Jrambar|39.664|45.811|AM|Syunik|61|f
+Spanish Lake|30.058|-91.861|US|Louisiana|61|f
+Spanish Oak Mountain|36.068|-81.940|US|North Carolina|61|f
+Spantik|36.057|74.966|PK|Gilgit-Baltistan|61|f
+Sparrefjellet|78.367|13.133|SJ|Svalbard|61|f
+Spearhead Peak|43.637|-110.911|US|Wyoming|61|f
+Speckled Mountain|44.291|-70.955|US|Maine|61|f
+Specter Range|36.648|-116.173|US|Nevada|61|f
+Speedwell Island|-52.218|-59.717|FK||61|f
+Spichenkovo Airport|53.808|86.874|RU|Kuzbass|61|f
+Spiess Rocks|-54.406|3.434|BV||61|f
+Spirit Lake Municipal Airport|43.383|-95.139|US|Iowa|61|f
+Spirit of St Louis Airport|38.662|-90.649|US|Missouri|61|f
+Spiterhøi|61.613|8.439|NO|Innlandet|61|f
+Split Mountain|48.598|-113.539|US|Montana|61|f
+Sponghøe|62.149|7.986|NO|Innlandet|61|f
+Spratly Island|8.633|111.917|VN||61|f
+Spring Point|-64.295|-61.051|AQ||61|f
+Springvale Airport|-17.787|127.670|AU|Western Australia|61|f
 Springsure|-24.115|148.088|AU|Queensland|61
 Spiere|50.719|3.356|BE|Flanders|61
 Spergau|51.293|12.023|DE|Saxony-Anhalt|61
@@ -316,28 +393,399 @@ Springfield|43.495|-72.033|US|New Hampshire|60
 Sperchógeia|37.074|22.062|GR|Peloponnese|60
 Spring Ridge|40.353|-75.990|US|Pennsylvania|60
 Spring City|39.482|-111.496|US|Utah|60
+Spodnje Gorje|46.414|14.035|SI|Gorje|60
+Spiringen|46.873|8.730|CH|Uri|60
+Springfield|56.295|-3.061|GB|Scotland|60
+Spořice|50.441|13.392|CZ|Ústí nad Labem Region|60
 Spigno Saturnia Inferiore|41.311|13.737|IT|Lazio|60
+Spiennes|50.425|3.987|BE|Wallonia|60
 Spinone al Lago|45.765|9.922|IT|Lombardy|60
+Springer|36.361|-104.595|US|New Mexico|59
+Spodnja Polskava|46.411|15.639|SI|Municipality of Slovenska Bistrica|59
+Springville|36.130|-118.818|US|California|59
+Spálov|49.704|17.722|CZ|Moravian-Silesian Region|59
 Spital am Semmering|47.613|15.751|AT|Styria|59
+Spodnja Besnica|46.257|14.306|SI|Municipality of Naklo|59
+Sponheim|49.845|7.727|DE|Rheinland-Pfalz|59
+Spot Bay|19.754|-79.746|KY||59
+Spuhlja|46.413|15.915|SI|Urban Municipality of Ptuj|59
+Spadellata|41.525|12.612|IT|Lazio|59
+Spineda|45.750|11.878|IT|Veneto|59
+Spătaru|45.085|26.779|RO|Buzău County|59
+Spaulding|39.866|-89.540|US|Illinois|59
+Spiceland|39.838|-85.439|US|Indiana|59
+Spontin|50.323|5.006|BE|Wallonia|59
+Sprötau|51.125|11.197|DE|Thuringia|59
+Spantekow|53.778|13.517|DE|Mecklenburg-Vorpommern|59
 Sparone|45.414|7.545|IT|Piedmont|59
 Spinetoli|42.890|13.765|IT|The Marches|58
+Spring Hill|40.376|-78.670|US|Pennsylvania|58
+Spangdahlem|49.983|6.683|DE|Rheinland-Pfalz|58
+Spijk|51.769|5.121|NL|North Brabant|58
+Spaske|47.020|35.386|UA|Zaporizhzhia|58
+Spatzenhausen|47.717|11.200|DE|Bavaria|58
+Spaske|45.763|29.440|UA|Odesa|58
+Spiekeroog|53.770|7.695|DE|Lower Saxony|58
+Spearville|37.850|-99.757|US|Kansas|58
+Space World|33.873|130.811|JP|Fukuoka|58|f
+Spallanzani Point|-64.141|-61.996|AQ||58|f
+Spanish Island|51.496|-9.393|IE|Munster|58|f
+Spano Island|-66.400|110.600|AQ||58|f
+Sparta-Fort McCoy Airport|43.958|-90.738|US|Wisconsin|58|f
+Spaulding Mountain|45.003|-70.333|US|Maine|58|f
+Spectacle Island|32.259|-64.835|BM|Southampton|58|f
+Spencer Butte|43.983|-123.096|US|Oregon|58|f
+Sperillen|60.440|10.069|NO|Buskerud|58|f
+Sperry Peak|48.016|-121.502|US|Washington|58|f
+Spielgajavri,vuolit|69.243|23.316|NO|Finnmark|58|f
+Spieser|47.527|10.384|DE|Bavaria|58|f
+Split Island|-51.473|-60.711|FK||58|f
+Spooner Lake|39.109|-119.908|US|Nevada|58|f
+Spray Mountains|50.750|-115.302|CA|Alberta|58|f
+Spring Gap Mountain|39.458|-78.481|US|West Virginia|58|f
+Springbank Airport|51.103|-114.374|CA|Alberta|58|f
+Springhill Airport|32.988|-93.412|US|Louisiana|58|f
+Spur Battery|36.123|-5.344|GI||58|f
+Spuyten Duyvil Bridge|40.878|-73.925|US|New York|58|f
+Spodnje Pirniče|46.135|14.439|SI|Municipality of Medvode|58
+Springport|42.378|-84.699|US|Michigan|58
+Spessart|50.440|7.110|DE|Rheinland-Pfalz|58
+Spankeren|52.058|6.112|NL|Gelderland|58
+Spaska|48.295|25.799|UA|Chernivtsi|58
+Spechbach-le-Bas|47.670|7.227|FR|Grand Est|58
+Sproughton|52.062|1.095|GB|England|58
 Spadola|38.604|16.337|IT|Calabria|58
+Spišské Hanušovce|49.331|20.345|SK|Prešov Region|58
+Spencer|41.100|-82.123|US|Ohio|58
+Spincourt|49.331|5.667|FR|Grand Est|58
+Sporle|52.666|0.732|GB|England|58
+Špičkovina|46.028|15.960|HR|Krapina-Zagorje|57
+Sparreholm|59.067|16.817|SE|Södermanland|57
+Speluzzi|-35.550|-63.821|AR|La Pampa|57
+Spencer|42.210|-76.493|US|New York|57
+Springmont|40.326|-76.000|US|Pennsylvania|57
+Spina|38.418|15.988|IT|Calabria|57
+Spílion|35.220|24.534|GR|Crete|57
+Spirkelbach|49.200|7.883|DE|Rheinland-Pfalz|57
+Springer|34.315|-97.143|US|Oklahoma|57
+Spregamore|41.736|12.552|IT|Lazio|57
 Spielfeld|46.706|15.637|AT|Styria|57
 Spiczyn|51.341|22.754|PL|Lublin|57
+Spiano|40.762|14.750|IT|Campania|57
+Spinești|45.892|26.706|RO|Vrancea|57
+Spodnja Voličina|46.544|15.815|SI|Municipality of Lenart|57
+Spreckels|36.622|-121.647|US|California|57
+Spring Valley|38.297|-85.611|US|Kentucky|57
+Spoordonk|51.517|5.271|NL|North Brabant|56
+Spören|51.602|12.123|DE|Saxony-Anhalt|56
+Spechbach-le-Haut|47.682|7.216|FR|Grand Est|56
+Springton|-34.707|139.089|AU|South Australia|56
+Spodnji Slemen|46.567|15.533|SI|Municipality of Selnica ob Dravi|56
+Spanish|46.200|-82.350|CA|Ontario|56
 Sporminore|46.237|11.029|IT|Trentino-Alto Adige|56
+Sparbu|63.919|11.433|NO|Trøndelag|56
+Spârleni|44.704|24.138|RO|Vâlcea County|56
+Spodnja Rečica|46.164|15.215|SI|Municipality of Laško|56
+Spaldwick|52.342|-0.344|GB|England|56
+Spodnje Jarše|46.150|14.600|SI|Municipality of Domžale|56
+Spickendorf|51.550|12.133|DE|Saxony-Anhalt|56
+Spinu|45.391|24.404|RO|Vâlcea County|56
+Spodnje Poljčane|46.315|15.590|SI|Municipality of Poljčane|56
+Springstille|50.687|10.528|DE|Thuringia|56
+Spangereid|58.046|7.141|NO|Agder|56
+Spineni|47.489|27.319|RO|Iași County|56
 Sperlinga|37.767|14.351|IT|Sicily|56
+Splietsdorf|54.124|12.931|DE|Mecklenburg-Vorpommern|56
+Spaarndam gem. Haarlem|52.415|4.675|NL|North Holland|55
+Spomyšl|50.335|14.361|CZ|Central Bohemia|55
+Spodnje Gameljne|46.117|14.500|SI|Ljubljana|55
+Spančevac|42.363|21.856|RS|Central Serbia|55
+Spean Bridge|56.892|-4.920|GB|Scotland|55
+Spešov|49.395|16.629|CZ|South Moravian|55
+Spina|42.985|12.281|IT|Umbria|55
+Spring Gardens|27.762|-97.741|US|Texas|55
+Sprinkange|49.580|5.965|LU|Capellen|55
+Springdale|37.189|-112.999|US|Utah|55
+Spetisbury|50.821|-2.125|GB|England|55
+Springwater Hamlet|42.635|-77.596|US|New York|55
+Spoláïta|38.697|21.347|GR|West Greece|55
+Spodnja Slivnica|45.924|14.658|SI|Municipality of Grosuplje|55
+Spodobivka|49.559|37.432|UA|Kharkiv|55
+Speziale|40.791|17.458|IT|Apulia|55
+Springston|-43.650|172.417|NZ|Canterbury|55
 Spineda|45.061|10.512|IT|Lombardy|55
+Spręcowo|53.880|20.438|PL|Warmia-Masuria|55
+Spijk|51.849|6.154|NL|Gelderland|54
+Spojil|50.042|15.822|CZ|Pardubice Region|54
+Spaccanapoli|40.846|14.247|IT|Campania|54|f
+Spanish Peaks|37.376|-104.994|US|Colorado|54|f
+Spanish Springs Airport|39.676|-119.726|US|Nevada|54|f
+Spanish Wall|6.967|158.212|FM|Pohnpei State|54|f
+Spar Island|41.689|-71.220|US|Rhode Island|54|f
+Sparkling Lake|46.009|-89.700|US|Wisconsin|54|f
+Sparti Airport|36.974|22.526|GR|Peloponnese|54|f
+Spåtind|61.077|9.789|NO|Innlandet|54|f
+Spechtenköpfe|47.704|12.884|DE|Bavaria|54|f
+Spectacle Island|-42.867|147.603|AU|Tasmania|54|f
+Spectrum Range|57.416|-130.671|CA|British Columbia|54|f
+Speerschneider Point|-65.763|-66.158|AQ||54|f
+Spert Island|-63.853|-60.945|AQ||54|f
+Sphinxkopf Peak|-71.400|11.917|AQ||54|f
+Spieden Island|48.640|-123.134|US|Washington|54|f
+Spigot Peak|-64.635|-62.556|AQ||54|f
+Spike Cape|-77.300|163.567|AQ||54|f
+Spil Dağı|38.582|27.440|TR|Manisa|54|f
+Spinatizha|30.526|66.400|PK|Balochistan|54|f
+Spiret Peak|-72.517|-3.633|AQ||54|f
+Spitzingsee|47.665|11.885|DE|Bavaria|54|f
+Splinten Peak|-72.683|-4.000|AQ||54|f
+Split Mountain|43.164|-109.672|US|Wyoming|54|f
+Split Rock Lighthouse State Park|47.192|-91.393|US|Minnesota|54|f
+Splitska Vrata|43.326|16.400|HR||54|f
+Spofford Lake|42.911|-72.444|US|New Hampshire|54|f
+Spooners Cove|35.275|-120.891|US|California|54|f
+Spotted Range|36.761|-115.760|US|Nevada|54|f
+Spøttrup|56.640|8.782|DK|Central Jutland|54|f
+Spraglegga Ridge|-71.950|14.750|AQ||54|f
+Sprightly Island|-64.286|-61.069|AQ||54|f
+Spring Point Airport|22.442|-73.971|BS|Acklins|54|f
+Springbrook Airport|42.553|-123.202|US|Oregon|54|f
+Springfield Wildlife Management Area|39.465|-78.655|US|West Virginia|54|f
+Springton Reservoir|39.957|-75.406|US|Pennsylvania|54|f
+Springwater Lake National Wildlife Refuge|46.294|-100.117|US|North Dakota|54|f
+Sprogø|55.335|10.969|DK|Zealand|54|f
+Spruce Run State Recreation Area|40.658|-74.931|US|New Jersey|54|f
+Spur Point|-66.593|-63.801|AQ||54|f
+Sputnik Islands|-70.367|163.367|AQ||54|f
+Spy Pond|42.408|-71.155|US|Massachusetts|54|f
+Spartýlas|39.721|19.841|GR|Ionian Islands|54
+Spodnje Duplje|46.300|14.300|SI|Municipality of Naklo|54
+Spiveys Corner|35.195|-78.487|US|North Carolina|54
+Springfield|33.497|-81.279|US|South Carolina|54
 Spulber|45.752|26.761|RO|Vrancea|54
 Spittal|51.869|-4.942|GB|Wales|54
 Spera|46.070|11.509|IT|Trentino-Alto Adige|54
 Spessa|45.114|9.349|IT|Lombardy|50
 Spigno Monferrato|44.543|8.334|IT|Piedmont|50
 Spinete|41.544|14.487|IT|Molise|49
+Spa-La Sauvenière Airport|50.483|5.917|BE|Wallonia|49|f
+Spafarief Bay|66.131|-161.850|US|Alaska|49|f
+Spain Peak|-77.298|161.694|AQ||49|f
+Spanish Fork Peak|40.088|-111.528|US|Utah|49|f
+Spanish Point|-62.635|-60.358|AQ||49|f
+Spanish Virgin Islands|18.143|-65.356|PR||49|f
+Spark Plug Mountain|47.660|-121.156|US|Washington|49|f
+Spartan Glacier|-71.055|-68.342|AQ||49|f
+Sparwood/Elk Valley Airport|49.834|-114.879|CA|British Columbia|49|f
+Spath Crest|-80.623|-26.213|AQ||49|f
+Spath Peninsula|-64.348|-56.939|AQ||49|f
+Spaull Point|-60.729|-45.686|AQ||49|f
+Spayd Island|-70.631|72.104|AQ||49|f
+Spear Glacier|-75.841|-68.240|AQ||49|f
+Specker See|53.440|12.807|DE|Mecklenburg-Vorpommern|49|f
+Spectacle Island|-33.532|151.210|AU|New South Wales|49|f
+Spectacle Island|44.368|-68.100|US|Maine|49|f
+Speed, Mount|-84.500|-176.833|AQ||49|f
+Speicherbecken Lohsa|51.377|14.393|DE|Saxony|49|f
+Spenceley Glacier|-54.583|-36.317|GS||49|f
+Spencer Park|-36.888|149.919|AU|New South Wales|49|f
+Spencer Peak|-54.250|-36.483|GS||49|f
+Spencer Street Bridge|-37.823|144.956|AU|Victoria|49|f
+Spermwhale Ridge|-65.783|-62.866|AQ||49|f
+Sperrin Mountains|54.800|-7.083|GB|Northern Ireland|49|f
+Sperring Point|-67.400|59.533|AQ||49|f
+Spessartskopf|49.610|8.874|DE|Hesse|49|f
+Spey Bay|57.683|-3.000|GB|Scotland|49|f
+Sphinx Peak|-72.283|165.583|AQ||49|f
+Spicers Gap Road Conservation Park|-28.088|152.424|AU|Queensland|49|f
+Spider Mountain|48.409|-121.036|US|Washington|49|f
+Spiess Glacier|-72.233|-61.216|AQ||49|f
+Spike Island|-40.550|148.100|AU|Tasmania|49|f
+Spike Island|12.283|92.717|IN|Andaman and Nicobar|49|f
+Spindrift Rocks|-60.683|-45.644|AQ||49|f
+Spire Mountain|47.866|-121.405|US|Washington|49|f
+Spirogyra Lake|-60.701|-45.647|AQ||49|f
+Spirtle Rock|-65.233|-64.350|AQ||49|f
+Spit Fort|50.771|-1.099|GB|England|49|f
+Spittal Pond|32.312|-64.726|BM|Smithʼs|49|f
+Spitz Ridge|-75.817|-114.867|AQ||49|f
+Spitzkofel|46.773|12.745|AT|Tyrol|49|f
+Spitzstein|47.717|12.250|AT|Tyrol|49|f
+Spivey, Mount|-69.515|-69.830|AQ||49|f
+Split Rock|-64.782|-64.112|AQ||49|f
+Split Thumb|58.406|-134.311|US|Alaska|49|f
+Splityard Creek Dam|-27.367|152.717|AU|Queensland|49|f
+Spokane Washington LDS Temple|47.620|-117.221|US|Washington|49|f
+Sponsors Peak|-77.300|161.400|AQ||49|f
+Spouter Peak|-65.820|-62.396|AQ||49|f
+Sprague Mountain|40.347|-105.736|US|Colorado|49|f
+Spratt Mountain|48.859|-120.948|US|Washington|49|f
+Spread Eagle Peak|38.125|-105.644|US|Colorado|49|f
+Spree-Dahme-Umflutkanal|52.083|13.817|DE|Brandenburg|49|f
+Sprekkefjellet|-71.700|5.600|AQ||49|f
+Spring Bay|-42.530|147.909|AU|Tasmania|49|f
+Spring Gully Conservation Park|-33.911|138.599|AU|South Australia|49|f
+Springbrook National Park|-28.209|153.291|AU|Queensland|49|f
+Springfield|-26.783|28.483|ZA|Mpumalanga|49|f
+Springfield Park|-33.863|150.980|AU|New South Wales|49|f
+Springsure Airport|-24.128|148.087|AU|Queensland|49|f
+Spruce Mountain|43.406|-74.199|US|New York|49|f
+Spume Island|-64.798|-64.113|AQ||49|f
 Spineto Scrivia|44.837|8.874|IT|Piedmont|49
 Springview|42.824|-99.749|US|Nebraska|47
+Sprakebüll|54.783|9.083|DE|Schleswig-Holstein|47
 Spigno Saturnia Superiore|41.314|13.709|IT|Lazio|47
+Spesenroth|50.050|7.450|DE|Rheinland-Pfalz|44
+Spall|49.883|7.683|DE|Rheinland-Pfalz|44
+S P Crater|35.582|-111.632|US|Arizona|40|f
+Spalentor|47.558|7.581|CH|Basel-City|40|f
+Spam Museum|43.676|-92.976|US|Minnesota|40|f
+Spaneggsee|47.075|9.131|CH|Glarus|40|f
+Spangle Lake|43.948|-115.034|US|Idaho|40|f
+Spanish Arch|53.270|-9.054|IE|Connacht|40|f
+Spanish Bay|46.273|-60.195|CA|Nova Scotia|40|f
+Spanish Bay|30.256|-88.089|US|Alabama|40|f
+Spanish Hill|41.996|-76.549|US|Pennsylvania|40|f
+Spanish Lake|46.716|-81.691|CA|Ontario|40|f
+Spanish Lake|30.292|-91.036|US|Louisiana|40|f
+Spanish Peaks|45.387|-111.427|US|Montana|40|f
+Spanish Point|32.305|-64.811|BM|Pembroke|40|f
+Spanish Ship Bay|45.017|-61.999|CA|Nova Scotia|40|f
+Sparadok Point|-62.623|-60.998|AQ||40|f
+Sparks Lake|44.016|-121.744|US|Oregon|40|f
+Sparrenburg|52.015|8.527|DE|North Rhine-Westphalia|40|f
+Sparrhorn|46.404|7.984|CH|Valais|40|f
+Sparrow Lake|44.819|-79.396|CA|Ontario|40|f
+Sparrow Lane Bridge|31.466|-92.611|US|Louisiana|40|f
+Sparruhorn|46.184|7.769|CH|Valais|40|f
+Spartacus Peak|-62.638|-59.922|AQ||40|f
+Spasmodic Geyser|44.466|-110.836|US|Wyoming|40|f
+spätkeltisches Oppidum|50.095|11.030|DE|Bavaria|40|f
+Spatsizi Headwaters Park|57.100|-128.754|CA|British Columbia|40|f
+Spatsizi Mountain|57.533|-128.637|CA|British Columbia|40|f
+Spatsizi Plateau Wilderness Park|57.416|-128.504|CA|British Columbia|40|f
+Spatulate Ridge|-73.467|167.217|AQ||40|f
+Spaulding Peninsula|-74.433|-116.000|AQ||40|f
+Spaulding Pond|-77.650|163.117|AQ||40|f
+Spear Hills|45.015|-105.879|US|Montana|40|f
+Spearhead Glacier|50.091|-122.853|CA|British Columbia|40|f
+Spearhead Range|50.066|-122.836|CA|British Columbia|40|f
+Spechtensee|47.560|14.098|AT|Styria|40|f
+Special Olympics Stadium|43.206|-77.952|US|New York|40|f
+Spectacle Island|32.287|-64.801|BM|Paget|40|f
+Spectacle Island|42.325|-70.987|US|Massachusetts|40|f
+Spectacle Lake|44.025|-66.094|CA|Nova Scotia|40|f
+Spectacle Lake|45.570|-93.404|US|Minnesota|40|f
+Spectacle Lake Park|48.583|-123.569|CA|British Columbia|40|f
+Spectacle Pond|41.769|-70.665|US|Massachusetts|40|f
+Spednic Lake|45.633|-67.633|CA|New Brunswick|40|f
+Speedwell Mountain|42.101|-75.305|US|New York|40|f
+Speicher Finstertal|47.195|11.022|AT|Tyrol|40|f
+Speicher Längental|47.211|11.001|AT|Tyrol|40|f
+Spellman Lake|44.672|-95.775|US|Minnesota|40|f
+Spencer Island|53.509|-79.700|CA|Nunavut|40|f
+Spencer Lake|45.395|-70.291|US|Maine|40|f
+Sperry Glacier|48.623|-113.762|US|Montana|40|f
+Sperry Hill|43.488|-75.315|US|New York|40|f
+Spesburg|48.402|7.397|FR|Grand Est|40|f
+Spesutie Island Bridge|39.475|-76.097|US|Maryland|40|f
+Spey Bay|57.719|-3.268|GB||40|f
+Sphinx|46.548|7.985|CH|Valais|40|f
+Sphinx Glacier|-62.189|-58.458|AQ||40|f
+Sphinx Mountain|45.157|-111.481|US|Montana|40|f
+Spidean Mialach|57.089|-5.194|GB|Scotland|40|f
+Spider Glacier|48.414|-121.032|US|Washington|40|f
+Spider Island|45.209|-86.976|US|Wisconsin|40|f
+Spider Islands|53.486|-97.738|CA|Manitoba|40|f
+Spider Lake|44.210|-65.951|CA|Nova Scotia|40|f
+Spider Lake|45.322|-92.828|US|Minnesota|40|f
+Spider Lake|46.097|-91.223|US|Wisconsin|40|f
+Spider Lake Park|49.350|-124.636|CA|British Columbia|40|f
+Spiegelwald|50.576|12.792|DE|Saxony|40|f
+Spielzeugmuseum Nürnberg|49.455|11.074|DE|Bavaria|40|f
+Spiesshorn|47.830|8.042|DE|Baden-Wurttemberg|40|f
+Špik|46.353|13.884|SI|Municipality of Bohinj|40|f
+Spilauer See|46.923|8.693|CH|Uri|40|f
+Spinner Island|38.070|-121.869|US|California|40|f
+Spípiyus Park|49.662|-123.919|CA|British Columbia|40|f
+Spire Glacier|48.321|-121.080|US|Washington|40|f
+Spire of Lloyd|53.733|-6.905|IE|Leinster|40|f
+Spirit Lake|48.230|-83.757|CA|Ontario|40|f
+Spirit Lake|60.254|-134.740|CA|Yukon|40|f
+Spirit Lake|44.493|-97.609|US|South Dakota|40|f
+Spirit Lake|46.273|-122.140|US|Washington|40|f
+Spirit Mountain|45.040|-109.551|US|Montana|40|f
+Spit|-71.300|170.217|AQ||40|f
+Spitfire Lake|44.416|-74.273|US|New York|40|f
+Spitz|47.087|9.624|LI||40|f
+Spitzhore|46.375|7.310|CH|Valais|40|f
+Spitzhorli|46.265|7.981|CH|Valais|40|f
+Spitzmeilen|47.024|9.236|CH|Saint Gallen|40|f
+Splash Pad Park|37.811|-122.248|US|California|40|f
+Splendid Geyser|44.470|-110.845|US|Wyoming|40|f
+Splettstoesser Glacier|-79.200|-84.150|AQ||40|f
+Split Island|56.850|-79.850|CA|Nunavut|40|f
+Split Lake|56.132|-96.255|CA|Manitoba|40|f
+Split Lake|-35.058|173.170|NZ|Auckland|40|f
+Split Rock|42.481|-107.530|US|Wyoming|40|f
+Split Rock Creek State Park|43.898|-96.364|US|Minnesota|40|f
+Spokane Hills|46.617|-111.771|US|Montana|40|f
+Sponholz Peak|-80.133|-83.000|AQ||40|f
+Sponza Palace|42.641|18.111|HR||40|f
+Spoon Hill|42.945|-75.045|US|New York|40|f
+Spotted Island|53.517|-55.781|CA|Newfoundland and Labrador|40|f
+Spotted Lake|49.078|-119.567|CA|British Columbia|40|f
+Sprague Glacier|40.342|-105.733|US|Colorado|40|f
+Sprague Lake|44.252|-65.880|CA|Nova Scotia|40|f
+Sprague Lake|40.320|-105.605|US|Colorado|40|f
+Spray Lakes Reservoir|50.900|-115.335|CA|Alberta|40|f
+Spread Eagle Bay|47.550|-53.598|CA|Newfoundland and Labrador|40|f
+Spreepark|52.482|13.492|DE|State of Berlin|40|f
+Sprengel Museum Hannover|52.363|9.740|DE|Lower Saxony|40|f
+Spring Creek Dam|40.630|-122.474|US|California|40|f
+Spring Creek Forest Preserve|32.964|-96.655|US|Texas|40|f
+Spring Creek Mountain|39.804|-114.043|US|Utah|40|f
+Spring Creek Reservoir|40.631|-122.482|US|California|40|f
+Spring Glacier|-77.917|163.100|AQ||40|f
+Spring Hill|41.114|-73.424|US|Connecticut|40|f
+Spring Hill|41.747|-70.462|US|Massachusetts|40|f
+Spring Hollow Reservoir|37.225|-80.175|US|Virginia|40|f
+Spring Island|32.330|-80.825|US|South Carolina|40|f
+Spring Lake|45.810|-79.682|CA|Ontario|40|f
+Spring Lake|53.517|-114.141|CA|Alberta|40|f
+Spring Lake|42.653|-73.421|US|New York|40|f
+Spring Lake Bridge|35.151|-93.432|US|Arkansas|40|f
+Spring Lake Recreation Area|35.151|-93.425|US|Arkansas|40|f
+Spring Meadow Lake State Park|46.612|-112.076|US|Montana|40|f
+Spring Mill State Park|38.733|-86.420|US|Indiana|40|f
+Spring Mountains|36.268|-115.694|US|Nevada|40|f
+Spring Park|34.728|-87.705|US|Alabama|40|f
+Spring Pond|42.497|-70.947|US|Massachusetts|40|f
+Springdale Lake|34.029|-85.254|US|Georgia|40|f
+Springer Lake|50.534|-95.454|CA|Manitoba|40|f
+Springer Municipal Airport|36.328|-104.620|US|New Mexico|40|f
+Springer Peak|-79.400|-84.883|AQ||40|f
+Springfield Park|51.572|-0.058|GB|England|40|f
+Springfield Park|40.662|-73.762|US|New York|40|f
+Springfield Recreation Area|42.860|-97.881|US|South Dakota|40|f
+Springfield Science Museum|42.105|-72.586|US|Massachusetts|40|f
+Springtail Point|-77.167|160.700|AQ||40|f
+Sproat Lake|49.269|-125.060|CA|British Columbia|40|f
+Sproat Lake Park|49.300|-124.920|CA|British Columbia|40|f
+Sprocket Glacier|-77.200|160.567|AQ||40|f
+Spruce Knob|38.700|-79.533|US|West Virginia|40|f
+Spruce Knob Lake|38.703|-79.588|US|West Virginia|40|f
+Spruce Knob-Seneca Rocks National Recreation Area|38.882|-79.298|US|West Virginia|40|f
+Spruce Mountain|35.614|-83.173|US|North Carolina|40|f
+Spruce Mountain|38.700|-79.533|US|West Virginia|40|f
+Spruce Mountain|43.216|-73.906|US|New York|40|f
+Spruce Top|42.151|-74.168|US|New York|40|f
+Spry Bay|44.800|-62.582|CA|Nova Scotia|40|f
+Spurlock Museum|40.108|-88.221|US|Illinois|40|f
 Spriana|46.220|9.864|IT|Lombardy|39
 Spasovo|43.702|28.304|BG|Dobrich|0
 Spērah|33.202|69.515|AF|Khowst|0
 Spīn Bōldak|31.006|66.400|AF|Kandahar|0
 Spotsylvania|38.201|-77.589|US|Virginia|0
+Spremberg|51.570|14.374|DE|Brandenburg|0
+Sprowston|52.650|1.333|GB|England|0

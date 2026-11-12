@@ -17,20 +17,24 @@ Dera Bugti|29.036|69.158|PK|Balochistan|85
 Derhachi|50.108|36.121|UA|Kharkiv|85
 Dera Māndi|28.436|77.176|IN|Delhi|84
 Dera Colliery Township|20.953|85.172|IN|Odisha|84
+Derawar Fort|28.768|71.335|PK|Punjab|83|f
 Derzhavinsk|51.097|66.319|KZ|Aqmola|83
 Derby|41.321|-73.089|US|Connecticut|82
 Derinkuyu|38.375|34.734|TR|Nevşehir Province|82
 DeRidder|30.846|-93.289|US|Louisiana|81
 Derventa|44.978|17.908|BA|Srpska|80
 Derazhnya|49.269|27.429|UA|Khmelnytskyi|80
+Dera Ghazi Khan International Airport|29.961|70.486|PK|Punjab|80|f
 Dergachi|51.235|48.766|RU|Saratov Oblast|80
 Derecske|47.350|21.567|HU|Hajdú-Bihar|79
 Dereli|40.739|38.443|TR|Giresun|79
 Derbent|38.014|32.016|TR|Konya|78
 Derby|39.839|-104.919|US|Colorado|78
+Dera Ismail Khan Airport|31.909|70.897|PK|Khyber Pakhtunkhwa|78|f
 Derā Nānak|32.037|75.028|IN|Punjab|77
 Derne|51.571|7.520|DE|North Rhine-Westphalia|77
 Dernekpazarı|40.797|40.245|TR|Trabzon|77
+Derryveagh Mountains|55.017|-8.050|IE|Ulster|76|f
 Derýneia|35.065|33.961|CY|Ammochostos|76
 Derendingen|47.199|7.588|CH|Solothurn|76
 Dersca|47.983|26.200|RO|Botoșani County|74
@@ -44,6 +48,7 @@ De Rust|-33.490|22.535|ZA|Western Cape|73
 De Rijp|52.557|4.846|NL|North Holland|73
 Deruta|42.985|12.418|IT|Umbria|72
 Derby|-25.909|27.042|ZA|North West|72
+Derbin Island|54.071|-165.153|US|Alaska|72|f
 Derby|-17.303|123.629|AU|Western Australia|72
 Dermbach|50.714|10.118|DE|Thuringia|70
 Derval|47.668|-1.672|FR|Pays de la Loire|70
@@ -57,6 +62,7 @@ Dervio|46.077|9.307|IT|Lombardy|69
 Derry|40.334|-79.300|US|Pennsylvania|68
 Dernbach|50.456|7.790|DE|Rheinland-Pfalz|68
 Derwood|39.117|-77.161|US|Maryland|68
+Derwentwater|54.584|-3.150|GB|England|67|f
 Déragon|7.542|-6.515|CI|Sassandra-Marahoue|67
 Derșida|47.388|22.802|RO|Sălaj County|66
 Dernau|50.533|7.050|DE|Rheinland-Pfalz|66
@@ -66,10 +72,16 @@ Dereseki|41.152|29.129|TR|Istanbul|64
 Derrinturn|53.342|-6.941|IE|Leinster|64
 Derrybeg|55.083|-8.289|IE|Ulster|64
 Dersum|52.961|7.274|DE|Lower Saxony|63
+Derby Airport|-17.370|123.663|AU|Western Australia|63|f
+Derby Dam|39.587|-119.448|US|Nevada|63|f
+Derry Cairngorm|57.063|-3.622|GB|Scotland|63|f
+Derryclare|53.496|-9.786|IE|Connacht|63|f
+Derrynasaggart Mountains|51.983|-9.233|IE|Munster|63|f
 Derramaderos|22.570|-100.932|MX|San Luis Potosí|63
 Derinsu|37.456|40.083|TR|Mardin|63
 Dérigoué|5.924|-5.900|CI|Goh-Djiboua|62
 Dersekow|54.046|13.292|DE|Mecklenburg-Vorpommern|61
+Derby Field|40.068|-118.563|US|Nevada|61|f
 Dereyanı|37.425|40.862|TR|Mardin|61
 Derschen|50.717|7.983|DE|Rheinland-Pfalz|61
 Dergneau|50.714|3.580|BE|Wallonia|60
@@ -77,10 +89,59 @@ Derramadero Segundo (Infiernillo)|21.098|-100.514|MX|Guanajuato|60
 Dernbach|50.550|7.600|DE|Rheinland-Pfalz|60
 Deri|51.708|-3.263|GB|Wales|60
 Derma|33.856|-89.285|US|Mississippi|60
+Derecik|40.599|43.220|TR|Kars Province|60
+Dereköy|40.664|29.563|TR|Kocaeli|60
+Dersau|54.118|10.334|DE|Schleswig-Holstein|59
+Derevok|51.751|25.349|UA|Volyn|59
+Derāzī|28.625|51.238|IR|Bushehr|59
+De Rips|51.550|5.810|NL|North Brabant|59
+Deresinek|38.557|31.154|TR|Afyonkarahisar Province|59
+Dereboyu|38.183|39.933|TR|Diyarbakır Province|59
+Deriivka|48.911|33.788|UA|Kirovohrad|58
+Derhanivka|49.691|29.062|UA|Zhytomyr Oblast|58
+Derekarabağ|38.709|31.191|TR|Afyonkarahisar Province|58
+Derýa|37.885|58.753|TM|Ahal|58
+Derental|51.695|9.432|DE|Lower Saxony|57
+Dervišaga|45.330|17.728|HR|Požega-Slavonia|57
+Dernișoara|47.221|22.253|RO|Bihor County|57
+Derrington|52.801|-2.163|GB|England|56
+Derby Line|45.005|-72.099|US|Vermont|56
+Derenti|39.992|27.078|TR|Canakkale|56
+Dereağzı|37.954|28.323|TR|Aydın|56
+Dereköy|38.354|41.394|TR|Batman|56
+De Rojas|18.630|-97.657|MX|Puebla|56
+Derby Center|44.948|-72.133|US|Vermont|55
+Derramaderos|22.515|-100.274|MX|San Luis Potosí|55
+Derdil|37.645|41.491|TR|Batman|55
+DeRuyter|42.758|-75.884|US|New York|55
+Derramaderos|22.293|-101.137|MX|San Luis Potosí|55
+Dereel|-37.817|143.767|AU|Victoria|54
+Derramadero de Charcas|21.108|-100.308|MX|Guanajuato|54
+Derbent Barajı|41.460|35.842|TR|Samsun|54|f
+Derby Island|-66.632|140.085|AQ||54|f
+DeRidder Commerical Historic District|30.847|-93.287|US|Louisiana|54|f
+Derryclare Lough|53.467|-9.767|IE|Connacht|54|f
+DeRuyter Reservoir|42.814|-75.892|US|New York|54|f
+Deryugin, Mount|-71.850|11.333|AQ||54|f
+Derevky|49.994|34.709|UA|Poltava|54
+Dereshk|38.157|44.819|IR|West Azerbaijan|54
+Dernbach|49.247|8.005|DE|Rheinland-Pfalz|54
+Deransko Jezero|43.044|17.801|BA|Federation of B&H|49|f
+Derocher Peninsula|-71.392|-73.392|AQ||49|f
+Derrick Peak|-80.067|156.383|AQ||49|f
+Derwent Reservoir|53.417|-1.750|GB|England|49|f
 Derovere|45.110|10.248|IT|Lombardy|41
+Derby Haven|54.076|-4.614|IM||40|f
+Derbyshire Peak|-72.517|161.100|AQ||40|f
+Dereše|48.942|19.572|SK|Žilina Region|40|f
+Derwent Park|54.648|-3.556|GB|England|40|f
 Dernice|44.767|9.050|IT|Piedmont|36
 Dera Allahyar|28.374|68.351|PK|Balochistan|0
+Derah|-7.511|108.091|ID|West Java|0
+Deranitan|-10.861|123.012|ID|East Nusa Tenggara|0
 Derazhne|50.862|26.047|UA|Rivne Oblast|0
+Derbing|-6.995|113.259|ID|East Java|0
+Derbur|50.992|121.058|CN|Inner Mongolia|0
 Derdara|35.110|-5.290|MA|Tanger-Tetouan-Al Hoceima|0
 Dere|38.983|39.300|TR|Tunceli|0
 Derecik|40.946|39.594|TR|Trabzon|0
@@ -90,4 +151,6 @@ Derik|37.363|40.265|TR|Mardin|0
 Derjan|41.674|20.058|AL|Dibër County|0
 Derkar|37.200|42.824|IQ|Duhok|0
 Dërmënas|40.746|19.494|AL|Fier County|0
+Dêrnang|33.433|100.167|CN|Qinghai|0
+Dersah|-6.784|111.156|ID|Central Java|0
 Derwen|53.033|-3.400|GB|Wales|0

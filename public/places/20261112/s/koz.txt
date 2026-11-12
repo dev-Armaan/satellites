@@ -12,6 +12,7 @@ Kozel’sk|54.037|35.771|RU|Kaluga Oblast|86
 Kozienice|51.583|21.548|PL|Mazovia|85
 Kozanów|51.144|16.969|PL|Lower Silesia|84
 Kōzan|34.583|133.050|JP|Hiroshima|84
+Kozani National Airport Filippos|40.286|21.841|GR|West Macedonia|83|f
 Koźle|50.336|18.143|PL|Opole Voivodeship|83
 Kozhukkallur|11.515|75.708|IN|Kerala|83
 Kozhancheri|9.350|76.700|IN|Kerala|82
@@ -27,10 +28,12 @@ Kozhevnikovo|56.262|83.968|RU|Tomsk Oblast|78
 Kōzu|35.282|139.209|JP|Kanagawa|78
 Kozelets|50.912|31.117|UA|Chernihiv Oblast|78
 Koźmin Wielkopolski|51.827|17.454|PL|Greater Poland|76
+Kozara National Park|45.008|16.892|BA||76|f
 Kozul’ka|56.165|91.391|RU|Krasnoyarsk Krai|76
 Kōzaki|35.900|140.400|JP|Chiba|75
 Kozawa|42.971|140.679|JP|Hokkaido|75
 Kozarë|40.831|19.901|AL|Berat County|75
+Kóziouf|41.151|22.168|GR||74|f
 Kozlovo|56.510|36.273|RU|Tver Oblast|73
 Kozármisleny|46.030|18.292|HU|Baranya|72
 Kozatske|46.786|33.350|UA|Kherson|71
@@ -44,6 +47,9 @@ Kozlovice|49.590|18.257|CZ|Moravian-Silesian Region|70
 Kozłowo|53.307|20.291|PL|Warmia-Masuria|70
 Koziegłowy|50.600|19.163|PL|Silesia|68
 Koziyivka|50.147|35.222|UA|Kharkiv|67
+Kōzu Shima|34.213|139.148|JP|Tokyo|67|f
+Kozubová|49.567|18.673|CZ|Moravian-Silesian Region|67|f
+Kozyrevsk Airport|56.089|159.878|RU|Kamchatka|67|f
 Kōzushima|34.200|139.133|JP|Tokyo|65
 Kozmice|49.913|18.156|CZ|Moravian-Silesian Region|65
 Koźminek|51.799|18.339|PL|Greater Poland|65
@@ -60,6 +66,8 @@ Kozyrevsk|56.049|159.871|RU|Kamchatka|62
 Kozjak|44.587|19.284|RS|Central Serbia|62
 Kozacha Lopan|50.332|36.198|UA|Kharkiv|62
 Kozjak|45.183|20.864|RS|Vojvodina|61
+Kōzan Ji|33.996|130.982|JP|Yamaguchi|61|f
+Kozomor|44.091|19.945|RS|Central Serbia|61|f
 Kozyrka|46.810|31.880|UA|Mykolaiv|61
 Kozinka|50.461|35.603|RU|Belgorod Oblast|61
 Kozatske|48.337|33.462|UA|Kirovohrad|61
@@ -67,8 +75,40 @@ Kozağacı|36.951|29.919|TR|Antalya|61
 Kozluca|37.493|30.133|TR|Burdur|60
 Kozłów|50.484|20.025|PL|Lesser Poland|60
 Kozyryany|48.368|26.646|UA|Chernivtsi|60
+Kozłów|50.307|18.564|PL|Silesia|60
+Kozolupy|49.764|13.252|CZ|Plzeň Region|60
+Koziegłówki|50.587|19.184|PL|Silesia|59
+Kozluyazı|37.192|37.508|TR|Gaziantep|59
+Kozłów Biskupi|52.192|20.192|PL|Mazovia|59
+Kožušany-Tážaly|49.536|17.254|CZ|Olomouc Region|59
+Kozluören|40.126|29.353|TR|Bursa Province|58
+Kozłówka|51.449|22.497|PL|Lublin|58
+Kozan Barajı|37.519|35.844|TR|Adana|58|f
+Koznica|42.640|21.371|XK|Pristina|58|f
+Kožino|44.171|15.196|HR|Zadar|58
+Kozçeşme|40.266|27.031|TR|Canakkale|58
 Kozubszczyzna|51.223|22.427|PL|Lublin|58
+Kozłów|50.827|20.161|PL|Świętokrzyskie|57
+Kožlí|49.670|15.253|CZ|Vysocina|57
+Kozubivka|47.541|31.146|UA|Mykolaiv|57
+Kozatske|47.225|29.705|UA|Odesa|57
+Kozatske|47.994|29.647|UA|Odesa|56
 Kozje|46.073|15.560|SI|Municipality of Kozje|56
+Kozojedy|49.931|13.542|CZ|Plzeň Region|56
+Kozlu|37.637|41.369|TR|Batman|56
+Kozarac|45.719|18.676|HR|County of Osijek-Baranja|56
+Kozjak nad Pesnico|46.610|15.634|SI|Municipality of Kungota|56
+Kozlar|37.251|29.010|TR|Denizli|55
+Kozubivka|49.723|33.182|UA|Poltava|55
+Kozojídky|48.919|17.400|CZ|South Moravian|55
+Kozina|45.610|13.936|SI|Municipality of Hrpelje–Kozina|55
+Kozyrshchyna|49.029|35.296|UA|Dnipropetrovsk|55
+Kozojedy|49.997|14.814|CZ|Central Bohemia|54
+Kozjak|42.308|21.929|MK||54|f
+Kozlivshchyna|49.779|34.750|UA|Poltava|54
+Kozachi Laheri|46.943|34.048|UA|Kherson|54
+Kōzushima Airport|34.189|139.133|JP|Tokyo|49|f
+Kozjak|42.294|21.877|MK||40|f
 Kozak|39.251|27.090|TR|İzmir Province|0
 Kozaklı|39.221|34.851|TR|Nevşehir Province|0
 Kozcağız|41.483|32.333|TR|Bartın|0

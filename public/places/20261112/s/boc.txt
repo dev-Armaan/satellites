@@ -4,7 +4,7 @@ Bocaue|14.798|120.926|PH|Central Luzon|100
 Boca Raton|26.359|-80.083|US|Florida|99
 Bocholt|51.839|6.615|DE|North Rhine-Westphalia|97
 Boconó|9.254|-70.251|VE|Trujillo|97
-Bocas del Toro Province|9.200|-82.467|PA||95|r
+Bocas del Toro Province|9.200|-82.467|PA||96|r
 Bocaiúva|-17.108|-43.815|BR|Minas Gerais|94
 Boca Chica|18.450|-69.600|DO|Santo Domingo Province|93
 Bocaranga|6.985|15.641|CF|Ouham-Pendé|91
@@ -25,10 +25,12 @@ Bochum|-23.286|29.140|ZA|Limpopo|82
 Bocaina|-22.136|-48.518|BR|São Paulo|81
 Bockenem|52.010|10.132|DE|Lower Saxony|81
 Boca de Uchire|10.132|-65.422|VE|Anzoátegui|81
+Bocas del Toro Isla Colón International Airport|9.341|-82.251|PA|Bocas del Toro Province|80|f
 Boca de Aroa|10.682|-68.298|VE|Falcón|80
 Boca del Rio|19.105|-96.104|MX|Veracruz|80
 Bockhorn|53.395|8.020|DE|Lower Saxony|79
 Bocana de Paiwas|12.786|-85.123|NI|South Caribbean Coast|78
+Boca Raton Airport|26.379|-80.107|US|Florida|78|f
 Böcklersiedlung-Bugenhagen|54.074|9.955|DE|Schleswig-Holstein|76
 Bocas del Toro|9.340|-82.242|PA|Bocas del Toro Province|75
 Bocaina de Minas|-22.168|-44.395|BR|Minas Gerais|75
@@ -58,27 +60,75 @@ Bochov|50.149|13.052|CZ|Carlsbad Region|65
 Bócsa|46.610|19.484|HU|Bács-Kiskun|65
 Boćki|52.652|23.045|PL|Podlasie|64
 Bocchigliero|39.419|16.751|IT|Calabria|63
+Boca Chica Key|24.573|-81.688|US|Florida|63|f
+Bocksberg|51.857|10.357|DE|Lower Saxony|63|f
 Bocage|13.989|-60.972|LC|Castries|63
 Boca de Parita|8.011|-80.451|PA|Herrera Province|63
 Bockfließ|48.360|16.604|AT|Lower Austria|63
 Bocabo|6.690|-4.591|CI|Lacs District|62
 Bockenau|49.833|7.683|DE|Rheinland-Pfalz|62
+Boca Ciega Bay|27.806|-82.786|US|Florida|61|f
+Boca Dam|39.390|-120.096|US|California|61|f
+Boca De Quadra|55.133|-130.706|US|Alaska|61|f
+Bocayna Strait|28.807|-13.797|ES|Canary Islands|61|f
 Boca del Monte|17.614|-95.731|MX|Veracruz|61
 Bochojbo Alto|16.736|-92.717|MX|Chiapas|61
 Bockhorst|53.033|7.576|DE|Lower Saxony|60
 Bocas|22.518|-101.022|MX|San Luis Potosí|60
+Bochoř|49.421|17.428|CZ|Olomouc Region|60
+Bocamiño|20.242|-99.071|MX|Hidalgo|60
+Bochmanivka|47.656|29.566|UA|Odesa|59
 Boca de Cupe|8.035|-77.586|PA|Darién|59
+Boca del Río|16.207|-95.161|MX|Oaxaca|58
 Bocksdorf|47.143|16.178|AT|Burgenland|58
+Boca Grande Key|24.531|-82.002|US|Florida|58|f
+Bockfjorden|79.483|13.300|SJ||58|f
 Bocoyna|27.841|-107.589|MX|Chihuahua|58
 Boca|45.679|8.409|IT|Piedmont|58
+Böchingen|49.237|8.093|DE|Rheinland-Pfalz|58
+Bocicoel|47.697|24.319|RO|Maramureş|58
+Boca Mismaloya|20.529|-105.287|MX|Jalisco|57
+Boca de Lima|20.557|-97.136|MX|Veracruz|57
+Boca Nopal|18.756|-97.352|MX|Puebla|57
 Boceguillas|41.336|-3.638|ES|Castille and León|57
+Boczów|52.322|14.947|PL|Lubusz|57
+Boca de Tomatlán|20.512|-105.314|MX|Jalisco|56
+Boca del Monte|17.062|-95.016|MX|Oaxaca|56
+Bocicău|48.097|23.156|RO|Satu Mare County|56
+Boca del Monte|18.390|-97.079|MX|Puebla|56
+Bočna|46.289|14.855|SI|Municipality of Gornji Grad|56
+Boca de San Jerónimo|17.904|-91.913|MX|Tabasco|55
+Bocca Callalta|45.705|12.443|IT|Veneto|55
 Boca de Huérgano|42.973|-4.924|ES|Castille and León|55
+Bocka|50.817|11.967|DE|Thuringia|55
+Bocaja|20.270|-99.009|MX|Hidalgo|55
+Bocé|47.507|-0.082|FR|Pays de la Loire|55
+Boca del Río|25.287|-108.497|MX|Sinaloa|54
+Boč|46.283|15.600|SI|Municipality of Rogaška Slatina|54|f
+Bocana de Río Kukra|11.892|-83.822|NI|South Caribbean Coast|54|f
+Bocca della Verità|41.888|12.482|IT|Lazio|54|f
+Boccard Point|42.056|-122.485|US|Oregon|54|f
+Boca del Monte|18.386|-95.376|MX|Veracruz|54
+Bocholtzerheide|50.816|5.990|NL|Limburg|54
 Bocenago|46.119|10.759|IT|Trentino-Alto Adige|52
 Boca del Monte|8.356|-82.117|PA|Chiriquí Province|51
+Bockstadt|50.400|10.883|DE|Thuringia|50
 Boca de Balsa|8.530|-82.031|PA|Ngöbe-Buglé Comarca|50
+Boca Grande|-52.367|-74.733|CL|Region of Magallanes|49|f
+Bocaranga Airport|6.924|15.624|CF|Ouham-Pendé|49|f
+Bockkarkopf|47.292|10.285|DE|Bavaria|49|f
+Bocot Island|11.325|123.180|PH|Western Visayas|49|f
 Bocco|44.351|9.303|IT|Liguria|48
 Boca Chica|8.220|-82.219|PA|Chiriquí Province|47
 Bocigas|41.231|-4.681|ES|Castille and León|42
+Boca Chita Key|25.506|-80.174|US|Florida|40|f
+Boca do Inferno|38.691|-9.431|PT|Lisbon|40|f
+Boca Raton Museum of Art|26.355|-80.086|US|Florida|40|f
+Boca Reservoir|39.406|-120.097|US|California|40|f
+Bochen Lake|43.361|-74.755|US|New York|40|f
+Bockheim, Mount|-78.033|161.983|AQ||40|f
+Bocktenhorn|46.707|9.903|CH|Grisons|40|f
+Bocktschingel|46.849|8.894|CH|Uri|40|f
 Boccioleto|45.830|8.113|IT|Piedmont|40
 Bocos de Duero|41.623|-4.070|ES|Castille and León|37
 Boca de Río|10.967|-64.180|VE|Nueva Esparta|0
@@ -87,3 +137,4 @@ Boca de Río Indio|9.193|-80.191|PA|Colón|0
 Boca de Sábalos|11.050|-84.467|NI|Río San Juan Department|0
 Bocas de Satinga|2.348|-78.326|CO|Nariño|0
 Bochechky|51.299|33.414|UA|Sumy|0
+Bocowanti|-6.971|111.320|ID|Central Java|0

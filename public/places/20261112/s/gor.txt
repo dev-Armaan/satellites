@@ -1,5 +1,5 @@
 Gorakhpur|26.766|83.369|IN|Uttar Pradesh|117
-Gorj County|45.046|23.283|RO||111|r
+Gorj County|45.046|23.283|RO||113|r
 Gorgān|36.843|54.444|IR|Golestan|108
 Gorontalo|0.537|123.063|ID|Gorontalo|106
 Gorgol|16.000|-12.833|MR||102|r
@@ -23,16 +23,18 @@ Gorlice|49.656|21.160|PL|Lesser Poland|89
 Goryachiy Klyuch|44.634|39.136|RU|Krasnodar Krai|89
 Görogly|41.650|59.916|TM|Dasoguz|89
 Gorantla|13.984|77.772|IN|Andhra Pradesh|88
+Goranboy District|40.583|46.667|AZ||88|r
 Gornji Milanovac|44.026|20.462|RS|Central Serbia|88
-Goranboy District|40.583|46.667|AZ||87|r
 Gorelovo|59.772|30.135|RU|St. Petersburg|87
 Gorongosa|-18.676|34.073|MZ|Sofala|87
 Gorbitz|51.045|13.661|DE|Saxony|87
 Gordon Head|48.483|-123.317|CA|British Columbia|87
 Gormi|26.600|78.512|IN|Madhya Pradesh|86
 Gorseinon|51.669|-4.042|GB|Wales|86
+Gorakhpur Airport|26.740|83.450|IN|Uttar Pradesh|86|f
 Gorodishche|48.803|44.475|RU|Volgograd Oblast|86
 Gorgonzola|45.531|9.405|IT|Lombardy|86
+Górnik Zabrze|50.296|18.769|PL|Silesia|86|f
 Goroka|-6.085|145.387|PG|Eastern Highlands Province|85
 Goražde|43.668|18.976|BA|Federation of B&H|85
 Goris|39.511|46.342|AM|Syunik|85
@@ -42,6 +44,7 @@ Gorjī-ye Soflá|36.356|59.660|IR|Razavi Khorasan|84
 Gorbea|-39.102|-72.676|CL|Araucania|83
 Gorokhovets|56.200|42.689|RU|Vladimir Oblast|83
 Gornyak|55.134|61.683|RU|Chelyabinsk|83
+Gorgan Airport|36.909|54.401|IR|Māzandarān|82|f
 Gorrakunta|17.976|79.645|IN|Telangana|82
 Gorakhpur|29.448|75.672|IN|Haryana|82
 Gore|-46.103|168.944|NZ|Southland|82
@@ -54,22 +57,26 @@ Gördes|38.933|28.289|TR|Manisa|81
 Góra Kalwaria|51.977|21.215|PL|Mazovia|81
 Gorodoviki|46.135|41.966|RU|Kalmykiya Republic|81
 Goronyo|13.442|5.672|NG|Sokoto|80
+Goroka Airport|-6.082|145.392|PG|Eastern Highlands Province|80|f
 Gorey|52.675|-6.293|IE|Leinster|80
 Gorodovikovsk|46.088|41.933|RU|Kalmykiya Republic|80
 Gornyy|55.115|83.906|RU|Novosibirsk Oblast|80
 Gorom-Gorom|14.443|-0.235|BF|Sahel|80
 Gorgāb|32.866|51.597|IR|Isfahan|80
+Gordion|39.650|31.978|TR|Ankara|80|f
 Gornyatskiy|48.296|40.924|RU|Rostov|79
 Goranboy|40.610|46.790|AZ|Goranboy District|79
 Gorodishche|53.278|45.702|RU|Penza Oblast|78
 Gorla Minore|45.641|8.903|IT|Lombardy|78
 Gorzyce|50.667|21.840|PL|Subcarpathia|78
+Gornergrat|45.983|7.785|CH|Valais|78|f
 Gorbunki|59.813|29.985|RU|Leningradskaya Oblast'|78
 Gorredijk|53.007|6.064|NL|Friesland|78
 Gornyi|51.548|113.039|RU|Zabaykalskiy (Transbaikal) Kray|77
 Goregaon|18.155|73.291|IN|Maharashtra|77
 Gornyy|51.757|48.537|RU|Saratov Oblast|77
 Gornji Vakuf|43.938|17.588|BA|Federation of B&H|77
+Gora Munku-Sardyk|51.750|100.333|MN||77|f
 Gorham|43.680|-70.444|US|Maine|77
 Gorshechnoye|51.524|38.038|RU|Kursk Oblast|77
 Gorle|45.701|9.714|IT|Lombardy|76
@@ -79,9 +86,12 @@ Gorūr|12.823|76.065|IN|Karnataka|76
 Gorjī Maḩalleh|36.678|53.445|IR|Māzandarān|76
 Gorleston-on-Sea|52.573|1.731|GB|England|75
 Gora|11.913|7.665|NG|Katsina State|75
+Gorodomlya Island|57.202|33.066|RU|Tver Oblast|75|f
 Gorneşti|46.671|24.648|RO|Mureș County|75
 Gornozavodsk|46.561|141.842|RU|Sakhalin Oblast|75
 Gorgota|44.783|26.083|RO|Prahova|75
+Gorriti Island|-34.954|-54.972|UY|Maldonado|74|f
+Gortyn|35.062|24.948|GR|Crete|74|f
 Gornyye Klyuchi|45.245|133.500|RU|Primorye|74
 Gornopravdinsk|60.050|69.900|RU|Khanty-Mansia|74
 Gorla Maggiore|45.664|8.895|IT|Lombardy|74
@@ -89,12 +99,18 @@ Gorodnya|56.706|36.318|RU|Tver Oblast|74
 Górowo Iławeckie|54.286|20.489|PL|Warmia-Masuria|74
 Gorlago|45.674|9.823|IT|Lombardy|74
 Goragorskiy|43.500|45.086|RU|Chechnya|74
+Gora Moslavačka|45.659|16.711|HR||73|f
 Gornje Živinice|44.429|18.617|BA|Federation of B&H|73
 Gornyy Shchit|56.688|60.519|RU|Sverdlovsk Oblast|73
 Gorah Salathian|32.605|75.042|IN|Jammu and Kashmir|73
 Gornja Koprivna|45.011|15.955|BA|Federation of B&H|73
 Görwihl|47.643|8.075|DE|Baden-Wurttemberg|73
 Gorodi|6.705|-6.912|CI|Sassandra-Marahoue|73
+Gora Diklosmta|42.489|45.774|GE||72|f
+Gora Dombay-Ul’gen|43.243|41.728|GE||72|f
+Gordon Island|26.274|119.987|TW|Fujian|72|f
+Gorée|14.667|-17.398|SN|Dakar|72|f
+Gorham Airport|44.394|-71.197|US|New Hampshire|72|f
 Gorahun|7.464|-11.240|SL|Eastern Province|72
 Goring|51.523|-1.133|GB|England|72
 Gordon Heights|40.859|-72.971|US|New York|72
@@ -106,6 +122,9 @@ Gorskaya|60.040|29.989|RU|St. Petersburg|72
 Gornau|50.759|13.037|DE|Saxony|71
 Gornja Breza|44.038|18.246|BA|Federation of B&H|71
 Gorin|51.199|136.662|RU|Khabarovsk|71
+Gora Bol’shaya Udina|55.758|160.528|RU|Kamchatka|71|f
+Gora Stokap|44.839|147.342|RU|Sakhalin Oblast|71|f
+Gore Bay-Manitoulin Airport|45.884|-82.571|CA|Ontario|71|f
 Gorbăneşti|47.783|26.850|RO|Botoșani County|71
 Gorodeya|53.312|26.540|BY|Minsk|71
 Górki Wielkie|49.780|18.831|PL|Silesia|71
@@ -113,6 +132,9 @@ Gorssel|52.202|6.201|NL|Gelderland|71
 Gorbatovka|56.257|43.746|RU|Nizhny Novgorod Oblast|71
 Gornorechenskiy|44.264|135.114|RU|Primorye|71
 Gorzkowice|51.215|19.596|PL|Łódź Voivodeship|70
+Gora Dzhimara|42.719|44.417|GE|Kvemo Kartli|70|f
+Gora Kurumdy|39.455|73.567|KG||70|f
+Gora Ostryy Tolbachik|55.833|160.326|RU|Kamchatka|70|f
 Gornja Radgona|46.673|15.992|SI|Municipality of Gornja Radgona|70
 Gornoye Loo|43.713|39.605|RU|Krasnodar Krai|70
 Goro|44.852|12.297|IT|Emilia-Romagna|70
@@ -127,6 +149,9 @@ Gorki Vtoryye|55.726|37.163|RU|Moscow Oblast|69
 Goravan|39.905|44.731|AM|Ararat|69
 Gornyy|47.816|40.204|RU|Rostov|69
 Goranu|45.105|24.384|RO|Vâlcea County|69
+Gora Bazardyuzi|41.234|47.837|AZ||69|f
+Gora Gamchen|54.975|160.701|RU|Kamchatka|69|f
+Gora Kyapaz|40.352|46.349|AZ|Goygol Rayon|69|f
 Gornyy Balykley|49.550|45.068|RU|Volgograd Oblast|68
 Gornet-Cricov|45.083|26.267|RO|Prahova|68
 Görbeháza|47.833|21.233|HU|Hajdú-Bihar|68
@@ -141,6 +166,10 @@ Gorshkovo|56.376|37.412|RU|Moscow Oblast|68
 Goričan|46.384|16.681|HR|Međimurje|67
 Gorzów Śląski|51.029|18.423|PL|Opole Voivodeship|67
 Gornsdorf|50.700|12.883|DE|Saxony|67
+Gora Dyul’tydag|41.960|46.922|RU|Dagestan|67|f
+Gora Konzhakovskiy Kamen’|59.631|59.138|RU|Sverdlovsk Oblast|67|f
+Gora Kukisvumchorr|67.733|33.667|RU|Murmansk|67|f
+Gora Mus-Khaya|62.583|140.833|RU|Sakha|67|f
 Gordes|43.913|5.199|FR|Provence-Alpes-Côte d'Azur|67
 Gorcy|49.535|5.685|FR|Grand Est|67
 Gorjīābād|36.522|52.723|IR|Māzandarān|67
@@ -155,6 +184,14 @@ Gordon|32.882|-83.332|US|Georgia|66
 Gorbatov|56.131|43.064|RU|Nizhny Novgorod Oblast|66
 Górno|50.282|22.145|PL|Subcarpathia|66
 Gorliczyna|50.092|22.488|PL|Subcarpathia|66
+Gora Aylama|42.957|43.180|GE||65|f
+Gora Bol’shoy Iremel’|54.520|58.842|RU|Bashkortostan Republic|65|f
+Gora Dzerzhinskaya|53.851|27.069|BY|Minsk|65|f
+Gora Fisht|43.954|39.903|RU|Adygeya Republic|65|f
+Gora Tordoki-Yani|48.898|138.053|RU|Khabarovsk|65|f
+Gorgona|43.429|9.899|IT|Tuscany|65|f
+Goris State University|39.518|46.346|AM|Syunik|65|f
+Góry Bystrzyckie|50.267|16.550|PL|Lower Silesia|65|f
 Gorgier|46.901|6.780|CH|Neuchâtel|65
 Górki|49.644|22.043|PL|Subcarpathia|65
 Gørding|55.475|8.797|DK|South Denmark|65
@@ -175,6 +212,24 @@ Gordon|42.805|-102.203|US|Nebraska|64
 Görzke|52.172|12.375|DE|Brandenburg|64
 Gorna Malina|42.683|23.700|BG|Sofia|64
 Górno|50.848|20.825|PL|Świętokrzyskie|64
+Gorje|46.379|14.068|SI||64|r
+Gora Agepsta|43.549|40.481|GE||63|f
+Gora Khalatsa|42.598|43.836|GE||63|f
+Gora Livadiyskaya|43.070|132.693|RU|Primorye|63|f
+Gora Narodnaya|65.035|60.115|RU||63|f
+Gora Oval’naya Zimina|55.861|160.606|RU|Kamchatka|63|f
+Gora Shalbuzdag|41.327|47.800|RU|Dagestan|63|f
+Gora Skalistyy Golets|55.850|130.733|RU|Sakha|63|f
+Gora Yamantau|54.255|58.105|RU|Bashkortostan Republic|63|f
+Gora Zakkakhokh|42.702|44.230|RU|North Ossetia–Alania|63|f
+Gore Mountain|43.676|-74.035|US|New York|63|f
+Gore Mountain|44.920|-71.794|US|Vermont|63|f
+Gorges du Verdon|43.709|6.003|FR|Provence-Alpes-Côte d'Azur|63|f
+Gorno-Altaysk Airport|51.969|85.836|RU|Altai|63|f
+Gorŋejávri|67.605|16.264|NO|Nordland|63|f
+Gorupogisan|37.647|128.733|KR|Gangwon-do|63|f
+Góry Kaczawskie|50.963|15.847|PL|Lower Silesia|63|f
+Goryeosan|37.744|126.437|KR|Incheon|63|f
 Gorzano|44.516|10.880|IT|Emilia-Romagna|63
 Gornji Smrtići|44.991|17.741|BA|Srpska|63
 Gornji Kneginec|46.251|16.376|HR|Varaždin|63
@@ -201,6 +256,20 @@ Gornji Vinjani|43.484|17.236|HR|Split-Dalmatia|61
 Goruni|47.104|27.719|RO|Iași County|61
 Goréké|4.796|-6.703|CI|Bas-Sassandra District|61
 Gordon|-37.582|144.109|AU|Victoria|61
+Gora Akhun|43.551|39.844|RU|Krasnodar Krai|61|f
+Gora Deavgay|41.497|47.326|RU|Dagestan|61|f
+Gora Dykhtau|43.052|43.132|RU|Kabardino-Balkariya Republic|61|f
+Gora Kamen’|69.131|95.056|RU||61|f
+Gora Khangar|54.760|157.407|RU|Kamchatka|61|f
+Gora Khibiny|67.667|33.350|RU|Murmansk|61|f
+Gora Kos’vinskiy Kamen’|59.516|59.061|RU|Sverdlovsk Oblast|61|f
+Gora Koshtantau|43.050|43.213|RU|Kabardino-Balkariya Republic|61|f
+Gora Malakatyn-Tas|74.871|138.758|RU|Sakha|61|f
+Gora Shan|42.669|44.755|GE||61|f
+Gora Suntar-Khayata|62.450|140.433|RU||61|f
+Góra Świętej Anny|50.447|18.223|PL|Opole Voivodeship|61|f
+Gorna Orechovista|43.151|25.713|BG|Veliko Tarnovo|61|f
+Gory Byrranga|74.488|96.029|RU|Krasnoyarsk Krai|61|f
 Gordon Town|18.036|-76.718|JM|Saint Andrew Parish|61
 Gorganu|44.842|25.038|RO|Arges|61
 Górażdże|50.529|18.010|PL|Opole Voivodeship|61
@@ -215,30 +284,198 @@ Gor|37.369|-2.970|ES|Andalusia|60
 Görmin|53.991|13.271|DE|Mecklenburg-Vorpommern|60
 Gorman|36.037|-78.823|US|North Carolina|60
 Goring-by-Sea|50.812|-0.422|GB|England|60
+Горно Јаболчиште|41.722|21.486|MK||60||Gorno Jabolchishte
+Gorgo|45.747|13.024|IT|Friuli Venezia Giulia|60
+Gorunești|44.567|23.961|RO|Vâlcea County|60
+Gore|35.529|-95.117|US|Oklahoma|59
+Gori Blénou|7.499|-5.322|CI|Vallée du Bandama District|59
+Gorabous|11.304|42.217|DJ|Dikhil|59
+Górki Śląskie|50.141|18.388|PL|Silesia|59
 Goruia|45.187|21.779|RO|Caraș-Severin County|59
+Gorodishche|53.983|27.838|BY|Minsk|59
+Górki|53.729|18.962|PL|Pomerania|59
+Gorno Strogomište|41.606|20.966|MK|Kichevo|59
+Gornja Gračenica|45.513|16.696|HR|Sisak-Moslavina|59
+Goretta|7.579|-6.091|CI|Sassandra-Marahoue|59
+Gorica|45.142|14.015|HR|Istria|59
+Gorran Haven|50.241|-4.790|GB|England|59
+Gornji Dobrić|44.583|19.309|RS|Central Serbia|59
+Gornje Ladanje|46.316|16.158|HR|Varaždin|59
+Goryachegorsk|55.402|88.916|RU|Krasnoyarsk Krai|59
+Gorgópi|40.961|22.524|GR|Central Macedonia|59
+Göritz|53.406|13.916|DE|Brandenburg|59
+Gorzyce|50.184|20.861|PL|Lesser Poland|58
+Gornji Karin|44.136|15.634|HR|Zadar|58
+Görgeshausen|50.417|7.950|DE|Rheinland-Pfalz|58
+Gordevio|46.226|8.743|CH|Ticino|58
+Gornje Nedeljice|44.516|19.339|RS|Central Serbia|58
+Gore Bay|45.913|-82.462|CA|Ontario|58
+Gora Angvundaschorr|67.852|34.551|RU|Murmansk|58|f
+Gora Azov|56.475|60.085|RU|Sverdlovsk Oblast|58|f
+Gora Bagnarges|43.462|40.167|GE|Abkhazia|58|f
+Gora Beshtau|44.098|43.024|RU|Stavropol Kray|58|f
+Gora Boboiob|40.849|70.343|TJ|Sughd|58|f
+Gora Chugush|43.798|40.210|RU|Adygeya Republic|58|f
+Gora Ko|47.118|136.567|RU|Khabarovsk|58|f
+Gora Latsga|43.175|42.863|RU|Kabardino-Balkariya Republic|58|f
+Gora Ledyanaya|61.886|171.172|RU|Kamchatka|58|f
+Gora Malyy Taganay|55.271|59.775|RU|Chelyabinsk|58|f
+Gora Menchul|48.021|24.261|UA|Zakarpattia|58|f
+Gora Nevskaya|62.217|155.433|RU|Magadan Oblast|58|f
+Gora Oslyanka|59.163|58.551|RU|Perm Krai|58|f
+Gora Pobeda|65.177|146.008|RU|Sakha|58|f
+Góra Radostowa|50.898|20.803|PL|Świętokrzyskie|58|f
+Gora Rebra|48.111|24.558|UA|Zakarpattia|58|f
+Gora Rudakova|45.875|149.819|RU|Sakhalin Oblast|58|f
+Gora Tsakhvoa|43.672|40.577|RU|Krasnodar Krai|58|f
+Gora Uratman|47.121|152.246|RU|Sakhalin Oblast|58|f
+Gora Vysokaya|57.967|59.833|RU|Sverdlovsk Oblast|58|f
+Gora Zadnyaya Belalakaya|43.265|41.583|RU|Karachayevo-Cherkesiya Republic|58|f
+Goraesan|37.607|127.297|KR|Gyeonggi-do|58|f
+Gordon’s Bay|-34.159|18.865|ZA|Western Cape|58|f
+Gore Airport|8.162|35.553|ET|Oromiya|58|f
+Gore Island|-11.990|143.249|AU|Queensland|58|f
+Gored Gôch|53.217|-4.183|GB|Wales|58|f
+Gorham Bridge|43.680|-73.038|US|Vermont|58|f
+Gorihorn|46.794|9.959|CH|Grisons|58|f
+Gorki Ridge|-71.600|11.650|AQ||58|f
+Gorom-Gorom Airport|14.454|-0.219|BF|Sahel|58|f
+Gorumna Island|53.262|-9.678|IE|Connacht|58|f
+Góry Bardzkie|50.467|16.750|PL|Lower Silesia|58|f
+Gorskino|54.467|85.628|RU|Kuzbass|58
+Gornji Kuršanec|46.330|16.363|HR|Međimurje|58
 Gorjani|45.399|18.372|HR|County of Osijek-Baranja|58
 Gorišnica|46.415|16.014|SI|Municipality of Gorišnica|58
+Gornji Laduč|45.884|15.713|HR|Zagreb County|58
+Gormans Hill|-33.467|149.595|AU|New South Wales|58
+Gornji Hrašćan|46.378|16.349|HR|Međimurje|58
+Gorgast|52.568|14.548|DE|Brandenburg|58
+Górki Małe|49.765|18.857|PL|Silesia|58
+Goriçan|40.817|19.982|AL|Berat County|58
+Gornăcel|45.173|23.348|RO|Gorj County|57
+Gordon|40.752|-76.336|US|Pennsylvania|57
 Gornja Stubica|45.975|16.019|HR|Krapina-Zagorje|57
+Gorma|51.023|12.376|DE|Thuringia|57
+Gorsiān Nihāl|31.026|75.580|IN|Punjab|57
+Gorgofreddo|40.886|17.263|IT|Apulia|57
+Gornja Bistrica|46.567|16.267|SI|Municipality of Črenšovci|57
+Goros Pueblo|25.954|-109.078|MX|Sinaloa|57
+Gorelovk’a|41.217|43.693|GE|Samtskhe-Javakheti|57
+Gornea|44.681|21.857|RO|Caraș-Severin County|57
+Gorodishche|54.190|30.619|BY|Mogilev|57
+Gorduno|46.216|9.031|CH|Ticino|57
 Gornje Jesenje|46.206|15.912|HR|Krapina-Zagorje|57
+Gortipohl|47.011|9.999|AT|Vorarlberg|56
+Gorno Količani|41.880|21.472|MK|Studenichani|56
 Górzno|51.847|21.709|PL|Mazovia|56
+Gorino|44.823|12.348|IT|Emilia-Romagna|56
+Gornja Jelenska|45.596|16.689|HR|Sisak-Moslavina|56
 Gordoncillo|42.136|-5.402|ES|Castille and León|56
+Gornje Plavnice|45.941|16.855|HR|Bjelovar-Bilogora|56
+Gorleben|53.048|11.357|DE|Lower Saxony|56
+Gorfigliano|44.146|10.248|IT|Tuscany|56
+Góra|54.632|18.116|PL|Pomerania|56
+Gorsleben|51.275|11.184|DE|Thuringia|56
+Gorham|42.799|-77.132|US|New York|56
+Göritz|47.486|15.332|AT|Styria|56
+Gorica|44.041|15.413|HR|Zadar|56
+Goritschach|46.612|13.809|AT|Carinthia|56
+Gorno-Chuyskiy|57.643|111.722|RU|Irkutsk Oblast|56
+Gorjī Sarā|36.700|51.185|IR|Māzandarān|56
+Gortina|46.606|15.126|SI|Municipality of Muta|56
+Gornji Desinec|45.693|15.692|HR|Zagreb County|56
 Goriano Sicoli|42.080|13.775|IT|Abruzzo|56
+Gorrevod|46.419|4.945|FR|Auvergne-Rhône-Alpes|55
+Gorst|47.525|-122.705|US|Washington|55
+Gorna Bela Crkva|41.050|21.028|MK|Resen|55
+Gornate Superiore|45.754|8.861|IT|Lombardy|55
+Gornji Detlak|44.913|17.822|BA|Srpska|55
+Gorni Dlapkin Dol|41.559|20.935|MK|Kichevo|55
+Gorgogýri|39.548|21.588|GR|Thessaly|55
+Gornja Šemnica|46.156|15.941|HR|Krapina-Zagorje|55
+Gorunești|45.099|23.892|RO|Vâlcea County|55
+Gornja Greda|45.812|16.322|HR|Zagreb County|55
+Gorica pri Šmartnem|46.274|15.231|SI|Urban Municipality of Celje|55
+Gorneni|44.282|25.865|RO|Giurgiu County|55
+Góra Włodowska|50.577|19.448|PL|Silesia|55
+Gorica pri Slivnici|46.187|15.432|SI|Sentjur|55
+Görece|37.612|40.069|TR|Diyarbakır Province|55
+Görmeli|36.544|32.978|TR|Karaman|55
+Gornje Mrzlo Polje|45.467|15.503|HR|Karlovac|55
+Gornja Pušća|45.929|15.772|HR|Zagreb County|55
 Gornji Bogičevci|45.259|17.236|HR|Brod-Posavina|55
+Gorafe|37.480|-3.042|ES|Andalusia|55
+Gorghetto|44.770|11.072|IT|Emilia-Romagna|54
+Görschen|51.112|11.902|DE|Saxony-Anhalt|54
+Gora Anik|47.261|137.027|RU||54|f
+Gora Donas|54.469|18.437|PL|Pomerania|54|f
+Gora Gorod-Makit|52.952|134.657|RU||54|f
+Gora Karaugom|42.784|43.700|GE||54|f
+Gora Katyntau|43.030|43.036|RU||54|f
+Gora Manaraga|65.045|59.759|RU|Komi|54|f
+Gora Turan|53.652|93.950|RU|Krasnoyarsk Krai|54|f
+Gorce Mountains|49.583|20.200|PL|Lesser Poland|54|f
+Gordil Airport|9.581|21.729|CF|Vakaga|54|f
+Gordon Peak|-72.433|0.533|AQ||54|f
+Görecek Adası|36.996|27.384|TR|Muğla|54|f
+Gorev Island|-66.535|92.981|AQ||54|f
+Gorge Dam|48.698|-121.208|US|Washington|54|f
+Gorges du Dadès|31.535|-5.918|MA|Drâa-Tafilalet|54|f
+Gorgons Head|-79.558|157.500|AQ||54|f
+Gorlice Ghetto|49.667|21.167|PL|Lesser Poland|54|f
+Gornergletscher|45.975|7.817|CH||54|f
+Gorontalo / Jalaluddin|0.637|122.850|ID|Gorontalo|54|f
+Gorregan|49.868|-6.388|GB|England|54|f
+Góry Kamienne|50.667|16.300|PL||54|f
+Góry Świętokrzyskie|50.800|20.833|PL||54|f
+Gornji Kraljevec|46.463|16.470|HR|Međimurje|54
+Goričane|46.139|14.394|SI|Municipality of Medvode|54
+Gornovița|45.073|22.968|RO|Gorj County|54
+Gorra|44.183|8.298|IT|Liguria|54
+Gordonville|40.020|-76.134|US|Pennsylvania|54
+Gornji Dolič|46.423|15.184|SI|Municipality of Mislinja|54
 Gorgorillo|-10.335|-77.126|PE|Ancash|54
-Gorje|46.379|14.068|SI||54|r
 Gorga|41.655|13.107|IT|Lazio|53
 Gornji Petrovci|46.804|16.219|SI|Municipality of Gornji Petrovci|52
 Góra Świętej Małgorzaty|52.057|19.320|PL|Łódź Voivodeship|51
+Görkwitz|50.583|11.783|DE|Thuringia|50
 Gornja Rijeka|46.111|16.392|HR|Koprivnica-Križevci|50
 Gordaliza del Pino|42.344|-5.157|ES|Castille and León|50
+Gora Demir-Kapu|44.586|34.208|UA|Crimea|49|f
+Gora Koshka|44.404|33.993|UA|Crimea|49|f
+Góra Ziuty|50.730|16.113|PL|Lower Silesia|49|f
+Gordon Park|-33.754|151.166|AU|New South Wales|49|f
+Gordonbrook Dam|-26.434|151.740|AU|Queensland|49|f
+Goreangab Dam|-22.528|17.017|NA|Khomas Region|49|f
+Gorecki, Mount|-83.333|-57.583|AQ||49|f
+Gorges d'Apremont|48.432|2.636|FR|Île-de-France|49|f
+Gorgon Pool|-57.067|-26.683|GS||49|f
+Gorki park|55.728|37.602|RU|Moscow Oblast|49|f
+Gornje Bare|43.322|18.608|BA|Srpska|49|f
+Gorvion|47.078|9.619|AT|Vorarlberg|49|f
 Gorga|38.719|-0.356|ES|Valencia|48
 Gorzków|50.948|23.013|PL|Lublin|48
 Gornji Mihaljevec|46.430|16.326|HR|Međimurje|47
+Gornhausen|49.867|7.050|DE|Rheinland-Pfalz|46
 Gorzegno|44.512|8.135|IT|Piedmont|44
 Gornjaki|46.112|16.241|HR|Krapina-Zagorje|40
+Göran Karlsson's Motor Museum|57.138|12.710|SE|Halland|40|f
+Gorbeia|43.034|-2.781|ES|Basque Country|40|f
+Gordon Bay Park|48.833|-124.203|CA|British Columbia|40|f
+Gordon Lake|45.387|-62.767|CA|Nova Scotia|40|f
+Gordon Lake|46.421|-83.834|CA|Ontario|40|f
+Gore Island|49.649|-126.395|CA|British Columbia|40|f
+Gores Island|54.370|-5.663|GB|Northern Ireland|40|f
+Gorges State Park|35.083|-82.912|US|North Carolina|40|f
+Görlitzer Park|52.497|13.438|DE|State of Berlin|40|f
+Goronyo Dam|13.531|5.882|NG|Sokoto|40|f
+Gorrie Lake|47.123|-79.544|CA|Ontario|40|f
+Gorski Kotar|45.441|14.508|HR|Primorje-Gorski Kotar|40|f
+Görvälns slott|59.435|17.786|SE|Stockholm|40|f
 Gorreto|44.605|9.291|IT|Liguria|34
 Gormaz|41.492|-3.005|ES|Castille and León|26
 Gor’kovskoye|55.369|74.367|RU|Omsk Oblast|0
+Gorang|-8.429|123.131|ID|East Nusa Tenggara|0
 Gordexola|43.179|-3.076|ES|Basque Country|0
 Gorgor|-10.583|-77.033|PE|Lima region|0
 Gorichevo|43.850|26.450|BG|Razgrad|0

@@ -6,8 +6,8 @@ Mongolia|46.000|105.000|MN||131|c
 Montagnes|6.954|-7.629|CI||129|r
 Mogadishu|2.037|45.344|SO|Banaadir|128
 Moldova|47.250|28.583|MD||127|c
-Montréal|45.509|-73.588|CA|Quebec|125
 Morelos|18.750|-99.067|MX||125|r
+Montréal|45.509|-73.588|CA|Quebec|125
 Mosul|36.335|43.119|IQ|Nineveh|125
 Montserrado County|6.500|-10.567|LR||124|r
 Monrovia|6.301|-10.797|LR|Montserrado County|124
@@ -16,8 +16,8 @@ Montevideo Department|-34.825|-56.200|UY||122|r
 Montevideo|-34.903|-56.188|UY|Montevideo Department|122
 Mombasa|-4.055|39.664|KE|Mombasa County|122
 Morogoro|-7.917|37.250|TZ||121|r
-Monterrey|25.684|-100.317|MX|Nuevo León|121
 Moravian-Silesian Region|49.833|18.000|CZ||121|r
+Monterrey|25.684|-100.317|MX|Nuevo León|121
 Mon|16.250|97.750|MM||120|r
 Monufia|30.500|31.000|EG||120|r
 Monagas|9.333|-63.000|VE||119|r
@@ -25,7 +25,7 @@ Mogilev|54.000|30.750|BY||118|r
 Morelia|19.701|-101.184|MX|Michoacán|117
 Morādābād|28.839|78.777|IN|Uttar Pradesh|117
 Monastir Governorate|35.617|10.750|TN||117|r
-Montana|47.000|-109.751|US||116|r
+Montana|47.000|-109.751|US||117|r
 Montenegro|42.750|19.250|ME||116|c
 Mordoviya Republic|54.225|44.450|RU||115|r
 Mohammadpur|24.898|88.528|BD|Rajshahi Division|114
@@ -41,6 +41,7 @@ Mount Lebanon|33.917|35.667|LB||109|r
 Mokpo|34.813|126.392|KR|Jeollanam-do|109
 Mossoró|-5.188|-37.344|BR|Rio Grande do Norte|108
 Mönchengladbach|51.185|6.442|DE|North Rhine-Westphalia|108
+Mount Everest|27.988|86.925|NP||108|f
 Mossamedes|-15.196|12.152|AO|Namibe|108
 Montpellier|43.611|3.876|FR|Occitanie|108
 Mohammedia|33.686|-7.383|MA|Casablanca-Settat|107
@@ -59,15 +60,15 @@ Montgomery|32.367|-86.300|US|Alabama|106
 Mopti|14.484|-4.183|ML|Mopti|105
 Modena|44.648|10.925|IT|Emilia-Romagna|105
 Mobile|30.694|-88.043|US|Alabama|105
-Monywa|22.109|95.136|MM|Sagaing Region|105
 Møre og Romsdal|62.734|7.151|NO||105|r
+Monywa|22.109|95.136|MM|Sagaing Region|105
 Moratuwa|6.773|79.882|LK|Western Province|105
 Mohali|30.680|76.722|IN|Punjab|104
 Moga|30.814|75.169|IN|Punjab|104
 Mostaganem|35.931|0.089|DZ|Mostaganem|104
+Moquegua Department|-16.837|-70.920|PE||104|r
 Moyen-Chari|9.333|18.500|TD||104|r
 Mogi Guaçu|-22.368|-46.946|BR|São Paulo|104
-Moquegua Department|-16.837|-70.920|PE||104|r
 Moreno|-34.634|-58.791|AR|Buenos Aires|103
 Moriguchi|34.733|135.567|JP|Osaka|103
 Moro|26.663|68.000|PK|Sindh|103
@@ -90,12 +91,11 @@ Mostar|43.343|17.808|BA|Federation of B&H|100
 Mono|6.583|1.833|BJ||100|r
 Moers|51.453|6.633|DE|North Rhine-Westphalia|100
 Mormugao|15.389|73.815|IN|Goa|100
+Mount Kilimanjaro|-3.076|37.353|TZ|Kilimanjaro|100|f
 Mokopane|-24.194|29.010|ZA|Limpopo|100
 Model Town|31.481|74.326|PK|Punjab|100
 Morón|-34.651|-58.622|AR|Buenos Aires|100
 Molenbeek-Saint-Jean|50.850|4.312|BE|Brussels Capital|100
 Monkayo|7.815|126.054|PH|Davao Region|100
 Mons|50.454|3.952|BE|Wallonia|100
-Mogi Mirim|-22.432|-46.958|BR|São Paulo|99
-Monastir|35.778|10.826|TN|Monastir Governorate|99
 Mo|60.816|5.806|NO|Vestland|0

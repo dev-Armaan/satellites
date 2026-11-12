@@ -46,6 +46,7 @@ Jackson|32.299|-90.185|US|Mississippi|104
 Jaranwala|31.333|73.419|PK|Punjab|104
 Jalalpur Jattan|32.641|74.206|PK|Punjab|103
 Jahrom|28.500|53.560|IR|Fars|103
+Java Sea|-5.000|110.000|||103|f
 Jacmel|18.236|-72.537|HT|Sud-Est|103
 Jaú|-22.296|-48.558|BR|São Paulo|103
 Jardim Helena|-23.484|-46.413|BR|São Paulo|102
@@ -68,14 +69,15 @@ Jaworzno|50.205|19.275|PL|Silesia|100
 Japekrom|7.576|-2.785|GH|Bono|100
 Jastrzębie Zdrój|49.955|18.575|PL|Silesia|100
 Jaçanã|-23.460|-46.575|BR|São Paulo|100
+Jämtland|63.000|14.667|SE||99|r
 Jamūī|24.926|86.225|IN|Bihar|99
 Jardim Paulista|-23.567|-46.664|BR|São Paulo|98
 Jacobina|-11.181|-40.514|BR|Bahia|98
 Jangipur|24.470|88.077|IN|West Bengal|98
+Java|-7.492|110.004|ID||98|f
 Jāmirdia|24.294|90.395|BD|Mymensingh Division|98
 Jardim Botânico|-15.865|-47.815|BR|Federal District|98
 Jaboticabal|-21.255|-48.322|BR|São Paulo|98
-Jämtland|63.000|14.667|SE||98|r
 Jaora|23.638|75.127|IN|Madhya Pradesh|97
 Jatibarang|-6.475|108.315|ID|West Java|97
 Janaúba|-15.803|-43.309|BR|Minas Gerais|97
@@ -96,5 +98,3 @@ Jatiwangi|-6.734|108.263|ID|West Java|95
 Jahāngīrābād|28.405|78.106|IN|Uttar Pradesh|95
 Jahangira|33.964|72.221|PK|Khyber Pakhtunkhwa|95
 Jamrud|34.002|71.380|PK|Khyber Pakhtunkhwa|95
-Jaguare|-23.544|-46.749|BR|São Paulo|95
-Jālaun|26.145|79.337|IN|Uttar Pradesh|95

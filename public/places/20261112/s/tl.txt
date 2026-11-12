@@ -68,6 +68,7 @@ Tlumačov|49.254|17.496|CZ|Zlín|68
 Tlacotepec de José Manzo|19.272|-98.485|MX|Puebla|68
 Tlacotepec de Mejía|19.189|-96.838|MX|Veracruz|68
 Tlacolula|21.091|-97.960|MX|Veracruz|67
+Tlos|36.553|29.421|TR|Muğla|67|f
 Tlalixtaquilla|17.575|-98.369|MX|Guerrero|67
 Tlacuitlapa|19.122|-99.417|MX|México|67
 Tlaxmalac|18.361|-99.414|MX|Guerrero|67
@@ -82,6 +83,7 @@ Tlamanca de Hernández|19.956|-97.815|MX|Puebla|66
 Tlacomulco|20.153|-98.120|MX|Hidalgo|66
 Tlyarata|42.106|46.354|RU|Dagestan|66
 Tlaxinga (Clatzinga)|17.521|-99.193|MX|Guerrero|66
+Tlstá|48.934|18.971|SK|Žilina Region|65|f
 Tlacomulco|19.121|-99.448|MX|México|65
 Tlaltepango|20.145|-97.877|MX|Puebla|65
 Tlaxco (Santiago Tlaxco)|20.058|-97.962|MX|Puebla|65
@@ -126,7 +128,93 @@ Tlacpac|20.149|-98.217|MX|Hidalgo|60
 Tlamaya Grande|20.147|-97.803|MX|Puebla|60
 Tlaminca|19.136|-99.440|MX|México|60
 Tlalnelhuayocan|19.567|-96.975|MX|Veracruz|60
+Tlanicuilulco|17.390|-99.105|MX|Guerrero|59
+Tlahuico|19.671|-98.757|MX|México|59
+Tlacocuspan|18.619|-100.318|MX|México|59
+Tlacuitlapa|18.327|-99.705|MX|Guerrero|59
+Tlalquetzala|17.706|-98.537|MX|Guerrero|59
+Tlaltengo|19.082|-97.004|MX|Veracruz|59
+Tlaltenango Arriba|19.473|-99.595|MX|México|59
+Tlalcruz de Libres|20.304|-98.112|MX|Puebla|59
+Tlaquilzingo|17.507|-98.627|MX|Guerrero|59
+Tlayolapa|17.136|-99.374|MX|Guerrero|58
+Tlacotlapilco|20.375|-99.219|MX|Hidalgo|58
+Tlaltinango|17.240|-96.847|MX|Oaxaca|58
+Tlustice|49.850|13.886|CZ|Central Bohemia|58
+Tlamaya Chico|20.135|-97.829|MX|Puebla|58
+Tlalchichiltipán Nuevo|17.398|-98.999|MX|Guerrero|58
+Tlalquetzalapa|17.499|-98.720|MX|Guerrero|58
+Tlaltenango|20.117|-97.961|MX|Puebla|58
+Tlhareselele|-25.506|25.636|BW|Ngwaketsi|58
+Tlacomulco|18.737|-97.655|MX|Puebla|58
+Tlatlapanala|20.173|-97.929|MX|Puebla|58
 Tlaquilpa|18.610|-97.119|MX|Veracruz|58
+Tlanipatlán|18.159|-99.748|MX|Guerrero|58
+Tlacaquipa|18.226|-99.872|MX|Guerrero|58
+Tlahuanapa|20.413|-97.363|MX|Veracruz|57
+Tlamamala|20.970|-98.542|MX|Hidalgo|57
+Tlaltegco (Venta Quemada)|20.145|-98.192|MX|Hidalgo|57
+Tlaltecatla|20.865|-98.285|MX|Hidalgo|57
+Tlaquimpa|19.963|-97.881|MX|Puebla|57
+Tlalayo|18.504|-98.706|MX|Morelos|57
+Tlalmaya|20.158|-97.985|MX|Puebla|57
+Tlalcosahua|22.273|-103.169|MX|Jalisco|57
+Tlapacoya|20.123|-97.851|MX|Puebla|57
+Tlapehuala|20.313|-98.029|MX|Puebla|57
+Tlalpujahuilla|19.654|-99.633|MX|México|57
+Tlanipatla|17.534|-99.146|MX|Guerrero|56
+Tlalcomulco|17.709|-99.041|MX|Guerrero|56
+Tlalca|18.622|-97.045|MX|Veracruz|56
+Tlecuaxco|18.758|-96.993|MX|Veracruz|56
+Tlachimaltepec|17.485|-99.013|MX|Guerrero|56
+Tlamamacan|17.923|-99.526|MX|Guerrero|56
+Tlahuizapa|17.303|-99.602|MX|Guerrero|56
+Tlaxco|20.706|-98.810|MX|Hidalgo|56
+Tlapetlahuaya|18.755|-98.571|MX|Puebla|56
+Tlalchy|19.382|-97.079|MX|Veracruz|55
+Tlacohuaque|21.336|-98.908|MX|San Luis Potosí|55
+Tlalpan|18.744|-97.160|MX|Veracruz|55
+Tlalixtlahuacán|17.486|-99.119|MX|Guerrero|55
+Tlatzintla|20.156|-98.190|MX|Hidalgo|55
+Tlacotes|22.574|-102.334|MX|Zacatecas|55
+Tlatepexe|20.603|-98.785|MX|Hidalgo|55
 Tlatlaya|18.618|-100.208|MX|México|55
+Tlacuapa (Temascal)|21.420|-98.945|MX|San Luis Potosí|55
+Tlacuapan|21.045|-98.308|MX|Hidalgo|55
+Tlapala|18.235|-99.348|MX|Guerrero|55
+Tlacotenco|17.780|-99.930|MX|Guerrero|55
+Tlamanca|19.294|-97.113|MX|Puebla|55
+Tlachiquilillacapa|21.173|-98.840|MX|San Luis Potosí|55
+Tlapacholoya|19.942|-97.788|MX|Puebla|55
+Tlalpan|20.718|-99.361|MX|Hidalgo|55
+Tlalmimilolpa|19.681|-98.756|MX|México|54
+Tlilcalco|18.639|-97.141|MX|Veracruz|54
+Tlamapa|19.742|-98.757|MX|México|54
+Tlemcen Zenata|35.017|-1.450|DZ|Tlemcen|54|f
+Tlokoeng Airport|-29.233|28.883|LS|Mokhotlong District|54|f
+Tlacote el Alto|20.692|-100.526|MX|Querétaro|54
+Tlamapa|19.142|-98.836|MX|México|54
+Tlatlazoquico|20.821|-98.356|MX|Veracruz|54
+Tlamoloaxtla|19.288|-97.083|MX|Puebla|54
+Tlalixtlahuac|18.543|-97.086|MX|Veracruz|54
+T Lake Mountain|43.447|-74.577|US|New York|49|f
+Tlagah Timur|-6.915|113.213|ID|East Java|0
 Tlahuiltepa|20.924|-98.950|MX|Hidalgo|0
+Tlatah|-7.212|111.701|ID|East Java|0
+Tlogo|-6.509|111.023|ID|Central Java|0
+Tlogoagung|-6.778|111.670|ID|East Java|0
+Tlogocilik|-6.756|111.105|ID|Central Java|0
+Tlogoharum|-6.670|111.106|ID|Central Java|0
+Tlogomojo|-6.742|111.173|ID|Central Java|0
+Tlogorejo|-6.710|111.017|ID|Central Java|0
+Tlogosadang|-6.887|112.443|ID|East Java|0
+Tlogosari|-7.999|113.935|ID|East Java|0
+Tlogosari|-8.281|112.473|ID|East Java|0
+Tlogotunggal|-6.757|111.297|ID|Central Java|0
+Tlogowaru|-6.853|111.924|ID|East Java|0
+Tlogowetan|-8.146|113.755|ID|East Java|0
+Tlogowungu|-6.932|111.278|ID|Central Java|0
 Tlogowungu|-6.707|111.014|ID|Central Java|0
+Tlutup|-6.649|111.089|ID|Central Java|0
+Tluwah|-6.731|111.144|ID|Central Java|0
+Tluwuk|-6.679|111.116|ID|Central Java|0

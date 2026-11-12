@@ -27,6 +27,7 @@ Okahandja|-21.981|16.903|NA|Otjozondjupa Region|89
 Okuta|9.219|3.201|NG|Kwara State|88
 Okha|53.595|142.953|RU|Sakhalin Oblast|88
 Oktyabr’sk|53.167|48.697|RU|Samara Oblast|88
+Okapi Wildlife Reserve|2.000|28.500|CD|Ituri|88|f
 Okoa|3.983|11.600|CM|Centre|88
 Ōkawara|38.050|140.734|JP|Miyagi|87
 Ōkuchi-shinohara|32.068|130.624|JP|Kagoshima|87
@@ -38,19 +39,26 @@ Okromodou|5.351|-5.676|CI|Bas-Sassandra District|85
 Okrouyo|5.764|-6.408|CI|Bas-Sassandra District|84
 Ōka|34.500|136.550|JP|Mie|83
 Okulovka|58.408|33.289|RU|Novgorod Oblast|83
+Oki Daitō Island|24.467|131.188|JP|Okinawa|82|f
 Okuno|34.122|134.493|JP|Tokushima|82
 Okeho|8.035|3.348|NG|Oyo State|82
 Okondja|-0.655|13.675|GA|Haut-Ogooué|82
 Okinawa Uno|-17.219|-62.895|BO|Santa Cruz Department|82
 Okmulgee|35.623|-95.961|US|Oklahoma|82
+Okadama Airport|43.116|141.380|JP|Hokkaido|81|f
+Okinoerabujima Island|27.384|128.611|JP|Kagoshima|81|f
 Okni|24.000|85.355|IN|Jharkhand|81
+Okushiri Airport|42.072|139.433|JP|Hokkaido|81|f
 Oktyabr’skiy|55.608|37.977|RU|Moscow Oblast|81
+Okinoerabu Airport|27.433|128.705|JP|Kagoshima|80|f
 Oktyabr’skiy|61.089|43.172|RU|Arkhangelskaya|79
 Oktyabr’skiy|56.517|57.205|RU|Perm Krai|79
 Oktyabr’skiy|50.445|36.361|RU|Belgorod Oblast|79
+Okushiri Island|42.159|139.470|JP|Hokkaido|78|f
 Okhansk|57.715|55.391|RU|Perm Krai|78
 Okehampton|50.738|-4.002|GB|England|78
 Okahao|-17.888|15.067|NA|Omusati Region|77
+Oki Islands|36.250|133.250|JP|Shimane|76|f
 Okugano|34.417|131.833|JP|Shimane|76
 Oktyabr’skiy|54.227|38.894|RU|Ryazan Oblast|76
 Oktyabr’skiy|49.057|140.255|RU|Khabarovsk|76
@@ -60,7 +68,12 @@ Okhotsk|59.362|143.215|RU|Khabarovsk|75
 Okoneshnikovo|54.840|75.077|RU|Omsk Oblast|75
 Okola|4.017|11.383|CM|Centre|75
 Okny|47.543|29.456|UA|Odesa|74
+Okinawa Islands|26.693|128.044|JP|Okinawa|74|f
+Okondja Airport|-0.665|13.673|GA|Haut-Ogooué|74|f
+Ōkuno Shima|34.309|132.993|JP|Hiroshima|74|f
 Okinawa Número Uno|-17.233|-62.817|BO|Santa Cruz Department|74
+Okinotori Shima|20.417|136.083|JP||73|f
+Okoyo Airport|-1.448|15.073|CG|Cuvette|73|f
 Okauchee Lake|43.123|-88.441|US|Wisconsin|73
 Okurcalar|36.649|31.704|TR|Antalya|73
 Okoppe|44.469|143.120|JP|Hokkaido|72
@@ -69,17 +82,25 @@ Okoč|47.888|17.809|SK|Trnava Region|71
 Oktyabr’skiy|48.655|43.804|RU|Volgograd Oblast|71
 Okiot|9.567|123.167|PH|Central Visayas|71
 Okemah|35.433|-96.305|US|Oklahoma|70
+Okains Bay|-43.686|173.074|NZ||70|f
+Okamura Jima|34.187|132.876|JP|Ehime|70|f
+Okayama Airport|34.757|133.855|JP|Okayama|70|f
+Okubo Dam|35.268|139.876|JP|Chiba|70|f
 Oketo|43.680|143.590|JP|Hokkaido|70
 Okány|46.900|21.350|HU|Bekes County|69
 Okoudougou|8.329|-5.715|CI|Woroba|69
 Oksbøl|55.627|8.288|DK|South Denmark|69
 Okrug Gornji|43.495|16.265|HR|Split-Dalmatia|69
+Okinawa|26.507|127.946|JP|Okinawa|69|f
 Oktisi|41.233|20.607|MK|Struga|69
 Okolona|34.002|-88.755|US|Mississippi|68
 Okanogan|48.361|-119.583|US|Washington|68
 Okushiri|42.172|139.512|JP|Hokkaido|68
 Октябрьский|54.041|28.198|BY|Minsk|67||Oktjabr'skij
 Okanagan Falls|49.350|-119.567|CA|British Columbia|67
+Oki Airport|36.180|133.329|JP|Shimane|67|f
+Oksfjorden|70.987|27.534|NO|Finnmark|67|f
+Okstindbreen|65.987|14.148|NO|Nordland|67|f
 Okroq’ana|41.687|44.774|GE|Tbilisi|67
 Oksovskiy|62.606|39.898|RU|Arkhangelskaya|67
 Okegem|50.856|4.055|BE|Flanders|67
@@ -88,7 +109,15 @@ Okhrimivka|46.507|35.288|UA|Zaporizhzhia|66
 Oktyabr’skiy|56.219|42.041|RU|Vladimir Oblast|66
 Okříšky|49.245|15.770|CZ|Vysocina|66
 Okocim|49.949|20.602|PL|Lesser Poland|66
+Okazaki castle|34.956|137.159|JP|Aichi|65|f
+Okkabake Dake|44.104|145.149|JP|Hokkaido|65|f
+Oksedalshøi|61.388|8.405|NO|Innlandet|65|f
+Oksibil Airport|-4.907|140.626|ID|Highland Papua|65|f
 Okhotnikovo|45.240|33.594|UA|Crimea|64
+Okinoshima|34.330|129.380|JP|Nagasaki|63|f
+Okstinden|65.999|14.253|NO|Nordland|63|f
+Okususobana-damu|36.725|137.967|JP|Nagano|63|f
+Okutadami-damu|37.154|139.250|JP|Niigata|63|f
 Okoličná na Ostrove|47.804|17.921|SK|Nitra Region|63
 Oklalı|41.225|28.478|TR|Istanbul|63
 Oktyabr'skoye|45.362|36.368|UA|Crimea|63
@@ -105,13 +134,71 @@ Oka|45.465|-74.089|CA|Quebec|62
 Okeene|36.116|-98.317|US|Oklahoma|62
 Oktyabr’skoye|45.655|33.949|UA|Crimea|62
 Okučani|45.260|17.199|HR|Brod-Posavina|61
+Okayama university|34.686|133.919|JP|Okayama|61|f
+Okmulgee Regional Airport|35.667|-95.953|US|Oklahoma|61|f
+Oksfjorden|69.912|21.246|NO|Troms|61|f
+Oku-iwa Glacier|-68.700|40.767|AQ||61|f
 Okonsk|51.252|25.550|UA|Volyn|61
 Okino-Klyuchi|50.598|107.107|RU|Buryatiya Republic|61
 Okçular|37.739|42.438|TR|Siirt|60
+Okleśna|50.031|19.531|PL|Lesser Poland|60
+Oksamytne|45.639|28.626|UA|Odesa|59
+Oktyabr’|45.629|34.553|UA|Crimea|59
 Oksa|50.729|20.101|PL|Świętokrzyskie|59
+Okanguati|-17.436|13.273|NA|Kunene Region|59
+Okoboji|43.386|-95.148|US|Iowa|58
+Okino-shima|34.244|130.105|JP|Fukuoka|58|f
+Oksunbong|36.943|128.237|KR|North Chungcheong|58|f
+Oklahoma|40.581|-79.574|US|Pennsylvania|58
+Oklahoma|41.114|-78.733|US|Pennsylvania|58
+Okabonou|7.362|-4.985|CI|Lacs District|56
+Okçular|38.857|40.115|TR|Elazığ|56
+Okhrimivka|50.335|37.217|UA|Kharkiv|56
+Okay|35.851|-95.318|US|Oklahoma|56
+Okrouhlá|49.508|16.732|CZ|South Moravian|56
+Okli Hed|48.011|23.048|UA|Zakarpattia|56
+Okato|-39.200|173.883|NZ|Taranaki Region|56
+Okip|50.164|33.199|UA|Poltava|55
+Okruhla|48.088|23.664|UA|Zakarpattia|55
+Oktyabr’skoye|45.399|34.910|UA|Crimea|55
+Okanagan Centre|50.050|-119.450|CA|British Columbia|55
+Okouguié|6.042|-4.113|CI|Lagunes District|55
 Okunevka|45.369|32.764|UA|Crimea|54
+Ok|64.600|-20.880|IS|West|54|f
+Okatibbee Dam|32.475|-88.798|US|Mississippi|54|f
+Okeechobee County Airport|27.266|-80.854|US|Florida|54|f
+Okerstausee|51.842|10.453|DE|Lower Saxony|54|f
+Okha Airport|53.517|142.892|RU|Sakhalin Oblast|54|f
+Okhotsk Airport|59.410|143.056|RU|Khabarovsk|54|f
+Oktyabrskiy Airport|54.440|53.388|RU|Bashkortostan Republic|54|f
+Okutama-ko|35.780|139.034|JP|Tokyo|54|f
+Okhthonía|38.525|24.163|GR|Central Greece|54
 Øksfjord|70.239|22.351|NO|Finnmark|54
+Ókhthia|38.658|21.285|GR|West Greece|54
+Okrouhlo|49.919|14.447|CZ|Central Bohemia|54
 Oklaj|43.963|16.077|HR|Šibenik-Knin|52
+O.K. Range|54.516|-128.253|CA|British Columbia|49|f
+O'Kane Canyon|-74.417|163.000|AQ||49|f
+Okanagan Highland|49.583|-119.002|CA|British Columbia|49|f
+Okehampton Castle|50.731|-4.008|GB|England|49|f
+Oklahoma City National Memorial|35.473|-97.518|US|Oklahoma|49|f
+Oksskolten|66.012|14.339|NO|Nordland|49|f
+O'Kane Glacier|-74.433|163.100|AQ||40|f
+Okabena Lake|43.616|-95.599|US|Minnesota|40|f
+Okamanpeedan Lake|43.503|-94.574|US|Minnesota|40|f
+Okanagan Falls Park|49.333|-119.586|CA|British Columbia|40|f
+Okanagan Lake|49.847|-119.519|CA|British Columbia|40|f
+Okanagan Lake Park|49.683|-119.719|CA|British Columbia|40|f
+Okanagan Mountain|49.716|-119.619|CA|British Columbia|40|f
+Okanagan Range|49.083|-120.169|CA|British Columbia|40|f
+Okarito Lagoon|-43.200|170.217|NZ||40|f
+Oke Bay|-35.228|174.260|NZ|Auckland|40|f
+Okeechobee Battlefield|27.213|-80.785|US|Florida|40|f
+Okeeheelee Park|26.659|-80.167|US|Florida|40|f
+Okeover Arm Park|49.991|-124.714|CA|British Columbia|40|f
+Okmulgee State Park|35.600|-96.060|US|Oklahoma|40|f
+Okolli Island|64.167|-76.615|CA|Nunavut|40|f
+Okse Bay|77.118|-87.500|CA|Nunavut|40|f
 Oka|7.460|5.802|NG|Ondo State|0
 Okada|6.735|5.394|NG|Edo State|0
 Ōkak|33.898|67.957|AF|Ghazni|0

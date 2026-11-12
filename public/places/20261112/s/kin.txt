@@ -14,8 +14,11 @@ Kingsport|36.548|-82.562|US|Tennessee|94
 Kingisepp|59.376|28.614|RU|Leningradskaya Oblast'|94
 King's Lynn|52.752|0.395|GB|England|93
 Kinoi|-1.656|37.375|KE|Machakos County|93
+King Fahd International Airport|26.471|49.798|SA|Eastern Province|92|f
 Kingswood|51.453|-2.508|GB|England|92
+King William Island|69.168|-97.418|CA|Nunavut|91|f
 Kinel’|53.227|50.626|RU|Samara Oblast|91
+Kinkaku-ji|35.039|135.729|JP|Kyoto|90|f
 Kingman|35.189|-114.053|US|Arizona|89
 Kinwat|19.626|78.199|IN|Maharashtra|89
 Kintinian|11.600|-9.383|GN|Kankan Region|89
@@ -25,11 +28,15 @@ King Khalid Military City|27.905|45.553|SA|Eastern Province|88
 Kinzan|36.103|127.489|KR|Chungcheongnam-do|88
 Kinoshita|35.901|137.988|JP|Nagano|88
 Kingstown|13.155|-61.227|VC|Saint George Parish|88
+King Shaka International Airport|-29.613|31.116|ZA|KwaZulu-Natal|88|f
 Kingston|41.927|-73.997|US|New York|87
+King Hussein International Airport|29.612|35.018|JO|Aqaba|87|f
 Kingori|-3.283|36.983|TZ|Arusha|87
 Kingsville|42.100|-82.733|CA|Ontario|87
 Kingsview Village-The Westway|43.699|-79.548|CA|Ontario|87
 Kinston|35.263|-77.582|US|North Carolina|87
+Kingman Reef|6.400|-162.399|UM|Kingman Reef|86|f
+Kinshasa N'Dolo Airport|-4.327|15.328|CD|Kinshasa|86|f
 Kingswinford|52.498|-2.169|GB|England|86
 King of Prussia|40.089|-75.396|US|Pennsylvania|86
 Kingsessing|39.937|-75.230|US|Pennsylvania|86
@@ -38,6 +45,7 @@ Kinel’-Cherkassy|53.467|51.494|RU|Samara Oblast|85
 Kinross|-26.417|29.087|ZA|Mpumalanga|85
 Kings Park|40.886|-73.257|US|New York|85
 Kingsland|30.800|-81.690|US|Georgia|84
+King Island|-39.876|143.986|AU|Tasmania|84|f
 Kindi|12.439|-2.033|BF|Centre-Ouest|84
 Kinarut|5.823|116.047|MY|Sabah|84
 Kingsford|-33.924|151.227|AU|New South Wales|84
@@ -70,6 +78,8 @@ Kinabatangan|5.586|117.851|MY|Sabah|80
 Kingston|-42.976|147.304|AU|Tasmania|80
 Kingston upon Thames|51.413|-0.297|GB|England|80
 King Abdullah City|22.446|39.125|SA|Mecca Region|80
+Kingman Airport|35.259|-113.939|US|Arizona|79|f
+Kingston/Norman Rogers Airport|44.225|-76.597|CA|Ontario|79|f
 Kinattukkadavu|10.822|77.020|IN|Tamil Nadu|79
 Kindamba|-3.728|14.521|CG|Pool|79
 King City|43.929|-79.527|CA|Ontario|78
@@ -77,12 +87,15 @@ Kings Grant|34.263|-77.864|US|North Carolina|78
 Kinango|-4.137|39.315|KE|Kwale County|78
 Kintinku|-5.883|35.233|TZ|Singida|78
 Kindirip|37.447|41.220|TR|Mardin|78
+Kinmen|24.446|118.376|TW|Fujian|78|f
 Kings Langley|51.714|-0.450|GB|England|77
 King|36.281|-80.359|US|North Carolina|77
+Kindamba Airport|-3.950|14.517|CG|Pool|77|f
 Kingston|41.480|-71.523|US|Rhode Island|77
 King|43.965|-79.590|CA|Ontario|77
 Kingswood|51.295|-0.214|GB|England|77
 Kincardine|44.183|-81.633|CA|Ontario|77
+King Island|64.971|-168.066|US|Alaska|76|f
 Kinchil|20.914|-89.950|MX|Yucatán|76
 Kingston|42.936|-71.053|US|New Hampshire|76
 Kingsbridge|50.285|-3.776|GB|England|76
@@ -90,6 +103,7 @@ Kingsland|30.658|-98.441|US|Texas|76
 Kinmparana|12.842|-4.925|ML|Ségou|76
 Kingston|35.881|-84.509|US|Tennessee|75
 Kinsealy-Drinan|53.444|-6.203|IE|Leinster|75
+Kinkasan|38.294|141.568|JP|Miyagi|75|f
 Kingsford Terrace|22.340|114.211|HK|Wong Tai Sin District|75
 Kingston Estates|39.924|-74.988|US|New Jersey|75
 Kinablangan|7.693|126.549|PH|Davao Region|75
@@ -103,6 +117,8 @@ Kingfisher|35.861|-97.932|US|Oklahoma|74
 Kingswells|57.158|-2.224|GB|Scotland|74
 Kinvere|52.450|-2.233|GB|England|73
 Kingskerswell|50.499|-3.582|GB|England|73
+King Salmon Airport|58.677|-156.649|US|Alaska|73|f
+Kings Canyon National Park|36.888|-118.555|US|California|73|f
 Kintore|57.237|-2.345|GB|Scotland|73
 Kinangan|6.301|125.585|PH|Davao Region|73
 King George|38.268|-77.184|US|Virginia|73
@@ -115,11 +131,13 @@ King Shan Court|22.342|114.210|HK|Wong Tai Sin District|72
 Kings Beach|39.238|-120.027|US|California|72
 Kingsbury|52.561|-1.679|GB|England|71
 King City|45.391|-122.816|US|Oregon|71
+Kincardine Airport|44.201|-81.607|CA|Ontario|71|f
 Kinetspil|48.004|30.787|UA|Mykolaiv|71
 King's Clipstone|53.177|-1.101|GB|England|71
 Kingston|44.992|-64.941|CA|Nova Scotia|71
 Kingstree|33.668|-79.831|US|South Carolina|70
 Kingsclere|51.325|-1.243|GB|England|70
+Kinh Tàu Hú|10.734|106.634|VN|Ho Chi Minh City (HCMC)|70|f
 Kinski Rozdory|47.412|36.423|UA|Zaporizhzhia|70
 Kingman|37.646|-98.114|US|Kansas|70
 Kingwood|39.472|-79.683|US|West Virginia|69
@@ -128,6 +146,12 @@ Kingsclear|45.884|-66.909|CA|New Brunswick|69
 Kincardine|56.069|-3.720|GB|Scotland|69
 Kingston Springs|36.102|-87.115|US|Tennessee|69
 Kinatakutan|13.955|122.468|PH|Calabarzon|69
+King Range|-71.867|165.050|AQ||69|f
+Kingfisher Lake Airport|53.013|-89.855|CA|Ontario|69|f
+Kingsmeadow|51.405|-0.282|GB|England|69|f
+Kingston Range|35.784|-115.902|US|California|69|f
+Kingston-Ulster Airport|41.985|-73.965|US|New York|69|f
+Kinmen Shang Yi Airport|24.428|118.359|TW|Fujian|69|f
 Kinnegad|53.452|-7.100|IE|Leinster|69
 Kings Hill|51.274|0.402|GB|England|68
 Kinabhangan|8.969|125.358|PH|Caraga|68
@@ -140,6 +164,10 @@ Kinder|30.485|-92.851|US|Louisiana|68
 Kinalaglagan|14.001|121.098|PH|Calabarzon|68
 Kinkinkaha|9.489|-5.059|CI|Savanes District|67
 Kingston Bagpuize|51.681|-1.420|GB|England|67
+Kinbidhoo|2.169|73.064|MV||67|f
+King County International Airport|47.535|-122.306|US|Washington|67|f
+King George Island|-62.000|-58.100|AQ||67|f
+Kinzua Dam|41.838|-79.004|US|Pennsylvania|67|f
 Kinsey|31.299|-85.344|US|Alabama|67
 Kingsbury|38.977|-119.907|US|Nevada|67
 Kinalansan|13.704|123.553|PH|Bicol Region|67
@@ -150,6 +178,15 @@ Kınalı|40.907|29.055|TR|Istanbul|66
 Kineton|52.156|-1.511|GB|England|66
 Kindelbrück|51.262|11.090|DE|Thuringia|66
 Kingscote|-35.656|137.639|AU|South Australia|66
+King Baudouin Stadium|50.896|4.334|BE|Brussels Capital|65|f
+King Haakon Bay|-54.159|-37.344|GS||65|f
+King Khalid AB|18.297|42.804|SA|'Asir Region|65|f
+Kingfisher Airport|35.872|-97.954|US|Oklahoma|65|f
+Kings Mountain|61.748|-148.510|US|Alaska|65|f
+Kinnaird Head|57.699|-2.004|GB|Scotland|65|f
+Kinsley Mountains|40.165|-114.339|US|Nevada|65|f
+Kintoki Zan|35.290|139.005|JP|Kanagawa|65|f
+Kinzua Bridge|41.763|-78.589|US|Pennsylvania|65|f
 Kingsthorpe|-27.476|151.814|AU|Queensland|65
 Kinglassie|56.174|-3.242|GB|Scotland|65
 Kings Bay Base|30.798|-81.566|US|Georgia|65
@@ -167,6 +204,18 @@ Kinnula|63.383|24.950|FI|Central Finland|63
 Kinglake|-37.533|145.340|AU|Victoria|63
 Kingsey Falls|45.850|-72.066|CA|Quebec|63
 Kingussie|57.080|-4.052|GB|Scotland|63
+Kindersley Regional Airport|51.518|-109.175|CA|Saskatchewan|63|f
+Kindu Airport|-2.923|25.916|CD|Maniema|63|f
+King George Bay|-51.617|-60.485|FK||63|f
+King George Islands|-14.484|-145.531|PF|Tuamotu-Gambier Islands|63|f
+King Island|-14.096|144.333|AU|Queensland|63|f
+King Island|53.917|-106.184|CA|Saskatchewan|63|f
+Kingaroy Airport|-26.581|151.841|AU|Queensland|63|f
+Kings Canyon|-24.249|131.511|AU|Northern Territory|63|f
+Kings Peak|47.305|-116.605|US|Idaho|63|f
+Kinh Vĩnh Tế|10.533|104.599|VN||63|f
+Kinnerly Peak|48.956|-114.165|US|Montana|63|f
+Kintla Peak|48.944|-114.171|US|Montana|63|f
 Kingston|-34.233|140.350|AU|South Australia|63
 Kincaid|39.589|-89.415|US|Illinois|63
 Kinsley|37.923|-99.410|US|Kansas|63
@@ -186,21 +235,212 @@ Kinkoua|7.867|-2.883|CI|Zanzan District|61
 Kingfield|44.959|-70.154|US|Maine|61
 Kinil|20.324|-89.133|MX|Yucatán|61
 Kinderbeuern|50.009|7.024|DE|Rheinland-Pfalz|61
+King Frederik IX Bridge|54.759|11.866|DK|Zealand|61|f
+King Haakon VII Sea|-68.000|6.996|||61|f
+King Island|12.510|98.377|MM|Tanintharyi Region|61|f
+King Range|40.165|-124.134|US|California|61|f
+Kingscote Airport|-35.715|137.526|AU|South Australia|61|f
+Kinston Regional Jetport|35.323|-77.612|US|North Carolina|61|f
+Kintrishi Reserve|41.730|42.028|GE||61|f
+Kinzua Airport|45.001|-120.049|US|Oregon|61|f
 Kinlough|54.450|-8.283|IE|Connacht|60
 Kindenheim|49.611|8.164|DE|Rheinland-Pfalz|60
 Kingston|39.474|-82.911|US|Ohio|60
 Kingskettle|56.262|-3.117|GB|Scotland|60
 King Cove|55.061|-162.319|US|Alaska|60
 King City|40.051|-94.524|US|Missouri|60
+Kinsau|47.883|10.917|DE|Bavaria|60
+Kinnarp|58.078|13.521|SE|Västra Götaland|60
+Kinderdorf Sankt Isidor|48.264|14.266|AT|Upper Austria|59
+Kinlochleven|56.712|-4.974|GB|Scotland|59
+Kinka Beach|-23.225|150.797|AU|Queensland|59
 Kingston|-29.055|167.966|NF||59
+Kinoulton|52.871|-0.992|GB|England|59
+Kinderdijk|51.886|4.632|NL|South Holland|59
+Kindrativka|51.143|34.773|UA|Sumy|59
+Kington Langley|51.489|-2.117|GB|England|58
 Kindrashivka|49.766|37.583|UA|Kharkiv|58
+Kingston near Lewes|50.858|-0.022|GB|England|58
+Kinheim|49.967|7.050|DE|Rheinland-Pfalz|58
+King George Island|-42.949|147.823|AU|Tasmania|58|f
+King George Sound|-42.950|147.841|AU|Tasmania|58|f
+King Hussein Air Base|32.356|36.259|JO|Mafraq|58|f
+King Island|38.065|-121.437|US|California|58|f
+King Island Airport|-39.878|143.883|AU|Tasmania|58|f
+King Lear Peak|41.202|-118.555|US|Nevada|58|f
+King Peak|40.477|-115.471|US|Nevada|58|f
+King Point|-63.161|-55.485|AQ||58|f
+Kings Bay|30.792|-81.497|US|Georgia|58|f
+Kings Lake|44.686|-94.307|US|Minnesota|58|f
+Kings Land O' Lakes Airport|46.156|-89.211|US|Wisconsin|58|f
+Kings Pond|41.910|-70.705|US|Massachusetts|58|f
+Kingston Hill|41.482|-71.525|US|Rhode Island|58|f
+Kinloss Airport|57.649|-3.561|GB|Scotland|58|f
+Kinnarøya|65.943|12.217|NO|Nordland|58|f
+Kinnear Mountains|-69.490|-67.635|AQ||58|f
+Kinnersley Castle|52.140|-2.957|GB|England|58|f
+Kinuta Park|35.630|139.621|JP|Tokyo|58|f
+Kinyeti|3.946|32.910|SS|Eastern Equatoria|58|f
+Kinzert|49.535|9.122|DE|Baden-Wurttemberg|58|f
+Kınık|38.762|30.135|TR|Afyonkarahisar Province|58
+Kingsbury|29.649|-97.827|US|Texas|58
+Kinmundy|38.773|-88.847|US|Illinois|58
+Kingseat|56.098|-3.406|GB|Scotland|58
+Kingseat|57.262|-2.159|GB|Scotland|58
+King Arthur Park|45.667|-111.123|US|Montana|57
+Kindred|46.649|-97.017|US|North Dakota|57
+Kınık|39.707|28.935|TR|Bursa Province|57
+Kingsley|53.017|-1.983|GB|England|57
+Kincumber|-33.483|151.417|AU|New South Wales|57
+Kinneret Kvutsa|32.713|35.561|IL|Northern District|57
+Kındıra|40.821|31.980|TR|Bolu|57
+Kinneret Moshava|32.723|35.565|IL|Northern District|57
+Kinkélédougou|8.346|-4.478|CI|Vallée du Bandama District|57
+Kingstown|35.351|-81.612|US|North Carolina|57
+Kinkémougosso|8.308|-4.410|CI|Vallée du Bandama District|57
+Kingston|33.480|-82.079|US|Georgia|56
+Kingston|34.237|-84.944|US|Georgia|56
+King's Point|49.583|-56.181|CA|Newfoundland and Labrador|56
+Kingsbury Episcopi|50.989|-2.807|GB|England|56
+Kinvarra|53.139|-8.934|IE|Connacht|56
+Kinsman Center|41.453|-80.584|US|Ohio|56
+Kingston Mills|44.293|-76.445|CA|Ontario|56
+Kinteh Kunda|13.507|-16.067|GM|North Bank|55
+Kindwiller|48.863|7.597|FR|Grand Est|55
+Kingham|51.915|-1.622|GB|England|55
+Kings Point|-35.370|150.434|AU|New South Wales|55
+Kinston|31.216|-86.171|US|Alabama|55
+Kinder Farm Park|39.102|-76.584|US|Maryland|54|f
+Kinder Scout|53.385|-1.869|GB|England|54|f
+King Cove Airport|55.115|-162.272|US|Alaska|54|f
+King Khalid International|24.958|46.699|SA|Riyadh Region|54|f
+King Peak|40.157|-124.124|US|California|54|f
+King Talal Dam|32.190|35.801|JO|Balqa|54|f
+King-Lincoln Park|36.967|-76.411|US|Virginia|54|f
+King's Airport|45.935|-118.449|US|Oregon|54|f
+King's Observatory|51.469|-0.315|GB|England|54|f
+Kingman Lake|38.901|-76.964|US|District of Columbia|54|f
+Kings Bridge|-37.822|144.958|AU|Victoria|54|f
+Kings Mountain State Park|35.133|-81.351|US|South Carolina|54|f
+Kings Peak|40.776|-110.373|US|Utah|54|f
+Kingsbury Covered Bridge|43.881|-72.582|US|Vermont|54|f
+Kingsley Covered Bridge|43.524|-72.941|US|Vermont|54|f
+Kingsley Lake|29.965|-81.999|US|Florida|54|f
+Kingston Airport|39.202|-117.068|US|Nevada|54|f
+Kingston Harbour|17.955|-76.800|JM|Kingston|54|f
+Kinjhar Dhand|24.955|68.054|PK|Sindh|54|f
+Kinkungwa Airport|-2.578|26.734|CD|Maniema|54|f
+Kinnefjellet|78.314|13.159|SJ|Svalbard|54|f
+Kinnick Stadium|41.658|-91.551|US|Iowa|54|f
+Kinntanna Peak|-71.883|8.350|AQ||54|f
+Kintersburg Covered Bridge|40.714|-79.081|US|Pennsylvania|54|f
+Kintla Lake|48.959|-114.305|US|Montana|54|f
+Kingston Park|-35.038|138.516|AU|South Australia|54
+Kingston Blount|51.689|-0.932|GB|England|54
 Kingsland|52.249|-2.815|GB|England|54
 Kinsarvik|60.376|6.719|NO|Vestland|53
 Kingston Seymour|51.398|-2.861|GB|England|52
 Kingston|39.644|-94.039|US|Missouri|51
+Kin Beach Provincial Park|49.728|-124.898|CA|British Columbia|49|f
+Kinchega National Park|-32.498|142.335|AU|New South Wales|49|f
+Kindrum Lough|55.234|-7.707|IE|Ulster|49|f
+King Abdullah Bin Abdelaziz Airport|17.073|42.504|SA|Jazan Region|49|f
+King Davids Peak|-41.810|146.280|AU|Tasmania|49|f
+King Edward Park|-32.934|151.780|AU|New South Wales|49|f
+King George Sound|-35.046|117.973|AU|Western Australia|49|f
+King George V Memorial Park|-31.649|150.726|AU|New South Wales|49|f
+King George V Reservoir|51.650|-0.017|GB|England|49|f
+King Island|-15.873|123.637|AU|Western Australia|49|f
+King Leopold Ranges|-17.495|126.019|AU|Western Australia|49|f
+King Pin|-77.450|163.167|AQ||49|f
+King Ridge|-84.635|-63.940|AQ||49|f
+King Sound|-16.833|123.417|AU|Western Australia|49|f
+King Vly Mountain|43.321|-74.304|US|New York|49|f
+King William Range|-42.299|146.134|AU|Tasmania|49|f
+King's Bastion|36.140|-5.355|GI||49|f
+King's Seat|56.483|-3.251|GB|Scotland|49|f
+Kingguru Island|-8.753|158.129|SB||49|f
+Kingman Museum|42.337|-85.211|US|Michigan|49|f
+Kings Domain|-37.826|144.975|AU|Victoria|49|f
+Kings Island|37.858|-121.569|US|California|49|f
+Kings Park|-31.957|115.835|AU|Western Australia|49|f
+Kings Park|-35.297|149.145|AU|Australian Capital Territory|49|f
+Kings Plains National Park|-29.565|151.335|AU|New South Wales|49|f
+Kingston Interchange Underpass|-42.970|147.310|AU|Tasmania|49|f
+Kinky Island|57.790|-136.330|US|Alaska|49|f
+Kinn|61.560|4.753|NO|Vestland|49|f
+Kinnagoe Bay|55.250|-7.000|IE|Ulster|49|f
+Kinnitty Castle|53.104|-7.707|IE|Leinster|49|f
+Kinsella Peak|-83.683|-56.883|AQ||49|f
+Kinsey, Mount|-84.917|169.300|AQ||49|f
+Kinsky Palace|50.088|14.422|CZ|Prague|49|f
+Kinzl Crests|-67.085|-66.278|AQ||49|f
 King William|37.687|-77.014|US|Virginia|48
+Kinaskan Lake Park|57.500|-130.237|CA|British Columbia|40|f
+Kinbasket Lake|52.133|-118.450|CA|British Columbia|40|f
+Kinbrook Island Provincial Park|50.450|-111.902|CA|Alberta|40|f
+Kincaid Field|44.045|-123.078|US|Oregon|40|f
+Kincaid Lake|38.724|-84.278|US|Kentucky|40|f
+Kincaid Lake State Park|38.721|-84.287|US|Kentucky|40|f
+Kindrick Legion Field|46.599|-112.027|US|Montana|40|f
+King Alfred's Tower|51.115|-2.365|GB|England|40|f
+King and Queen Hill|45.701|-112.571|US|Montana|40|f
+King Christian Island|77.802|-101.673|CA|Nunavut|40|f
+King Edward Peak|49.025|-114.270|CA|British Columbia|40|f
+King George Island|30.299|-90.750|US|Louisiana|40|f
+King George VI Park|49.017|-117.819|CA|British Columbia|40|f
+King Glacier|-83.483|170.300|AQ||40|f
+King Hill|42.816|-74.979|US|New York|40|f
+King Island|47.600|-54.198|CA|Newfoundland and Labrador|40|f
+King Island|52.208|-127.641|CA|British Columbia|40|f
+King Island|60.600|-64.765|CA|Nunavut|40|f
+King Lake|44.850|-63.519|CA|Nova Scotia|40|f
+King Lake|44.906|-63.979|CA|Nova Scotia|40|f
+King Mongkut's Institute of Technology Ladkrabang|13.727|100.780|TH|Bangkok|40|f
+King Peak|-85.350|-88.200|AQ||40|f
+King Peak|58.216|-124.870|CA|British Columbia|40|f
+King Peak|60.583|-140.654|CA|Yukon|40|f
+Kingak Island|68.151|-112.270|CA|Nunavut|40|f
+Kingcome Glacier|51.416|-126.286|CA|British Columbia|40|f
+Kingdom Come State Park|36.997|-82.979|US|Kentucky|40|f
+Kingdon Airpark|38.089|-121.355|US|California|40|f
+Kingerby Hall|53.421|-0.412|GB|England|40|f
+Kingfield Stadium|51.306|-0.559|GB|England|40|f
+Kingfisher Tower|42.728|-74.906|US|New York|40|f
+Kings Bay|44.274|-64.251|CA|Nova Scotia|40|f
+Kings Highway Bridge|36.835|-76.550|US|Virginia|40|f
+Kings Lake|43.903|-65.915|CA|Nova Scotia|40|f
+Kings Lake|45.074|-97.446|US|South Dakota|40|f
+Kings Mountain|33.088|-87.579|US|Alabama|40|f
+Kings Mountain National Military Park|35.139|-81.390|US|South Carolina|40|f
+Kings Peak|49.816|-125.836|CA|British Columbia|40|f
+Kingsley Castle Cob|53.256|-2.700|GB|England|40|f
+Kingsley Dam|41.219|-101.671|US|Nebraska|40|f
+Kingsley Plantation|30.440|-81.438|US|Florida|40|f
+Kingston Airpark|44.775|-122.731|US|Oregon|40|f
+Kingston Peninsula|45.467|-66.032|CA|New Brunswick|40|f
+Kingswear Castle|50.342|-3.560|GB|England|40|f
+Kingswood Abbey|51.627|-2.367|GB|England|40|f
+Kington Castle Hill|52.205|-3.038|GB|England|40|f
+Kinhorn|46.077|7.834|CH|Valais|40|f
+Kinikinik Lake|54.583|-113.017|CA|Alberta|40|f
+Kinkaid Lake|37.805|-89.460|US|Illinois|40|f
+Kinman Pond|40.460|-124.207|US|California|40|f
+Kinnear Park|47.627|-122.367|US|Washington|40|f
+Kinney Lake|53.083|-119.193|CA|British Columbia|40|f
+Kinnickinnic State Park|44.832|-92.743|US|Wisconsin|40|f
+Kinnikinick Lake|34.897|-111.305|US|Arizona|40|f
+Kinsac Lake|44.828|-63.654|CA|Nova Scotia|40|f
+Kinsey Ridge|-75.383|-139.133|AQ||40|f
+KINT-TV (El Paso)|31.796|-106.483|US|Texas|40|f
+Kintla Glacier|48.930|-114.197|US|Montana|40|f
+Kinton Knob|40.014|-78.555|US|Pennsylvania|40|f
+KINY-AM (Juneau)|58.302|-134.441|US|Alaska|40|f
 King and Queen Court House|37.670|-76.877|US|Virginia|39
+Kinzenburg|50.117|6.350|DE|Rheinland-Pfalz|31
+Kincir Wetan|-6.701|111.120|ID|Central Java|0
 Kingman Reef|6.384|-162.375|UM||0|r
+Kingsley|51.138|-0.878|GB|England|0
 Kingstone|52.017|-2.833|GB|England|0
 Kinh Môn|20.990|106.555|VN|Hai Phong|0
 Kinnersley|52.133|-2.950|GB|England|0

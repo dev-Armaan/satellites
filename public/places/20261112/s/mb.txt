@@ -22,12 +22,15 @@ Mbala|-8.840|31.366|ZM|Northern Province|93
 Mboro|15.141|-16.887|SN|Thies|92
 Mbandjok|4.450|11.900|CM|Centre|89
 M’Bengué|10.002|-5.900|CI|Savanes District|89
+Mbombela Stadium|-25.461|30.929|ZA|Mpumalanga|88|f
 M’Batto|6.472|-4.358|CI|Comoé District|88
 Mbaïki|3.868|17.989|CF|Lobaye|87
 M’Bahiakro|7.457|-4.340|CI|Lacs District|86
 Mboursou Léré|9.764|14.154|TD|Mayo-Kebbi Ouest|85
 Mbita|-0.425|34.207|KE|Homa Bay County|83
 Mbekenyera|-10.000|38.983|TZ|Lindi|81
+Mbuji Mayi Airport|-6.121|23.569|CD|East Kasai|81|f
+Mbandaka Airport|0.023|18.289|CD|Équateur|80|f
 Mbrés|6.668|19.803|CF|Nana-Grébizi|80
 Mbengwi|6.017|10.000|CM|North-West|80
 Mburucuyá|-28.045|-58.228|AR|Corrientes|79
@@ -36,9 +39,12 @@ Mberubu|6.173|7.630|NG|Enugu State|79
 Mborou|5.595|-4.363|CI|Lagunes District|77
 Mbigou|-1.900|11.906|GA|Ngouni|77
 Mboutt|16.023|-12.579|MR|Gorgol|77
+Mbanza Congo Airport|-6.270|14.247|AO|Zaire|76|f
 Mbinda|-2.108|12.871|CG|Niari|76
 Mbaoussiéssou|6.581|-4.271|CI|Comoé District|75
+Mbeya Airport|-8.919|33.463|TZ|Mbeya|75|f
 Mborla-Dioulasso|8.469|-4.481|CI|Vallée du Bandama District|74
+M'Boki Airport|5.333|25.929|CF|Haut-Mbomou|74|f
 Mbéni|-11.501|43.377|KM|Grande Comore|74
 Mbouba|16.190|-14.016|SN|Saint-Louis|74
 Mbrimbo|6.026|-4.874|CI|Lagunes District|73
@@ -58,19 +64,48 @@ Mbohouin|5.567|-3.642|CI|Lagunes District|68
 Mbankomo|3.783|11.383|CM|Centre|68
 Mbocayaty|-25.719|-56.422|PY|Guairá|67
 Mboyo|16.636|-14.803|SN|Saint-Louis|67
+Mborokua|-9.019|158.742|SB||67|f
+Mbudya Island|-6.657|39.250|TZ|Dar es Salaam Region|67|f
 Mbuyapey|-26.219|-56.758|PY|Paraguarí|67
 Mbékro|6.897|-5.152|CI|Yamoussoukro|66
 Mbattra|5.965|-4.132|CI|Lagunes District|65
 Mbrati|5.156|-3.145|CI|Comoé District|64
 Mbeuleukhé|15.649|-15.349|SN|Louga|64
+Mbatiki Island|-17.783|179.157|FJ|Eastern|63|f
+Mbava Island|-7.823|156.540|SB||63|f
 Mbutuý|-24.975|-56.309|PY|Caaguazú Department|63
 Mbabrasso|7.685|-4.013|CI|Lacs District|63
 Mbia|9.516|-6.046|CI|Savanes District|62
 Mbéboussou|6.853|-4.502|CI|Lacs District|62
 Mbang|4.583|13.333|CM|East|62
+MBS International Airport|43.532|-84.088|US|Michigan|61|f
 Mbouédio|7.217|-5.149|CI|Lacs District|61
+Mbala|8.661|-4.695|CI|Vallée du Bandama District|59
+Mborono|8.252|-4.030|CI|Vallée du Bandama District|59
+Mborola-Banbarasso|8.474|-4.486|CI|Vallée du Bandama District|58
+Mbéri|6.957|-4.624|CI|Lacs District|58
+Mbazo|6.023|-5.360|CI|Goh-Djiboua|58
+Mbam|7.408|-5.058|CI|Lacs District|58
+Mbrakull|40.629|20.067|AL|Berat County|57
+M'Brakro|6.628|-3.827|CI|Lacs District|56
+Mbouini|-12.990|45.137|YT|Kani-Kéli|54
+Mbambani|-11.852|43.342|KM|Grande Comore|54
+M'Bigou Airport|-1.883|11.933|GA|Ngouni|54|f
+Mbarara Airport|-0.556|30.602|UG|Western Region|54|f
+Mbulo Island|-8.768|158.285|SB||54|f
+Mbeya Range|-8.833|33.333|TZ|Mbeya|49|f
 Mbalano|5.734|7.502|NG|Abia State|0
+Mbani|-8.685|121.655|ID|East Nusa Tenggara|0
 Mbanji ya Ngola|-8.438|16.670|AO|Malanje|0
+Mbarungkeli|-8.405|120.996|ID|East Nusa Tenggara|0
 Mbave|-12.445|15.892|AO|Huambo|0
 Mbay|-8.561|121.272|ID|East Nusa Tenggara|0
+Mbeku|-8.867|121.286|ID|East Nusa Tenggara|0
+Mberheleng|-8.512|120.066|ID|East Nusa Tenggara|0
+Mbomba|-8.828|121.620|ID|East Nusa Tenggara|0
+Mbongawani|-8.847|121.645|ID|East Nusa Tenggara|0
+Mboto|-8.091|112.569|ID|East Java|0
 Mbrostar-Urë|40.754|19.579|AL|Fier County|0
+Mbueaian|-10.807|122.829|ID|East Nusa Tenggara|0
+Mbulung|-10.224|120.540|ID|East Nusa Tenggara|0
+Mburukullu|-10.078|120.757|ID|East Nusa Tenggara|0

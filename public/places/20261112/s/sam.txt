@@ -25,7 +25,7 @@ Samā’il|23.298|57.953|OM|Ad Dakhiliyah|98
 Samar|48.629|35.259|UA|Dnipropetrovsk|97
 Samāstipur|25.862|85.780|IN|Bihar|97
 Samut Sakhon|13.548|100.274|TH|Samut Sakhon|96
-Samtskhe-Javakheti|41.583|43.267|GE||95|r
+Samtskhe-Javakheti|41.583|43.267|GE||96|r
 Sāmalkot|17.057|82.176|IN|Andhra Pradesh|95
 Samāna|30.154|76.199|IN|Punjab|95
 Sampang|-7.187|113.239|ID|East Java|95
@@ -41,11 +41,13 @@ Samal|14.768|120.543|PH|Central Luzon|92
 Sama|43.296|-5.684|ES|Asturias|92
 Samālkha|29.236|77.013|IN|Haryana|92
 Sampsonievskiy|59.985|30.343|RU|Leningradskaya Oblast'|92
+Samar Sea|11.833|124.533|PH||91|f
 Sam Phran|13.727|100.215|TH|Nakhon Pathom|91
 Samut Songkhram|13.415|100.003|TH|Samut Songkhram|91
 Same|-4.067|37.733|TZ|Kilimanjaro|91
 Sambir|49.516|23.201|UA|Lviv|91
 Samjiyŏn-ŭp|41.804|128.319|KP|Yanggang-do|90
+Samarkand International Airport|39.701|66.984|UZ|Samarqand Region|90|f
 Sam Sen Nai|13.777|100.551|TH|Bangkok|90
 Şāmitah|16.596|42.944|SA|Jazan Region|89
 Sāmba|32.562|75.120|IN|Jammu and Kashmir|89
@@ -57,6 +59,7 @@ Samux|40.917|46.417|AZ||87|r
 Samthar|25.843|78.907|IN|Uttar Pradesh|87
 Sampués|9.184|-75.382|CO|Sucre Department|87
 Samtredia|42.154|42.335|GE|Imereti|86
+Samaná El Catey International Airport|19.269|-69.737|DO|María Trinidad Sánchez|86|f
 Sāmalāpuram|11.072|77.198|IN|Tamil Nadu|86
 Sāmpla|28.777|76.772|IN|Haryana|86
 Sampaloc|14.540|121.360|PH|Calabarzon|86
@@ -67,11 +70,14 @@ Samuyuzi|43.719|81.864|CN|Xinjiang|86
 Samho-rodongjagu|39.947|127.871|KP|South Hamgyong|86
 Samraong|14.182|103.518|KH|Ŏtâr Méanchey|85
 Samdari|25.813|72.579|IN|Rajasthan|85
+Samos Island|37.733|26.812|GR|North Aegean|85|f
 Samālka|28.535|77.091|IN|Delhi|85
 Samobor|45.803|15.718|HR|Zagreb County|85
 Sāmbūrvadakara|8.999|77.388|IN|Tamil Nadu|84
 Samurou|24.701|93.903|IN|Manipur|84
 Sam Shing|22.381|113.979|HK|Tuen Mun|84
+Samedan Airport|46.534|9.884|CH|Grisons|84|f
+Sam Ratulangi International Airport|1.549|124.926|ID|North Sulawesi|83|f
 Samsikāpuram|9.416|77.592|IN|Tamil Nadu|83
 Sāmān|32.450|50.911|IR|Chaharmahal and Bakhtiari|83
 Samarate|45.624|8.785|IT|Lombardy|83
@@ -79,12 +85,15 @@ Samora Correia|38.937|-8.872|PT|Santarém|83
 Šamorín|48.030|17.310|SK|Trnava Region|83
 Sāmbre|15.870|74.611|IN|Karnataka|82
 Samarvarni|20.256|73.008|IN|Dadra and Nagar Haveli and Daman and Diu|82
+Samothrace|40.458|25.583|GR|East Macedonia and Thrace|82|f
 Sam|11.033|2.733|BJ|Alibori|82
 Samaná|19.204|-69.334|DO|Samaná|81
 Samukh|40.765|46.409|AZ|Samux|81
 Samashki|43.289|45.298|RU|Chechnya|81
 Samarskoye|46.936|39.683|RU|Rostov|81
+Samsø|55.867|10.617|DK|Central Jutland|80|f
 Samonta Bazar|23.248|88.784|BD|Khulna Division|80
+Samos Strait|37.695|27.017|GR|North Aegean|80|f
 Sambuceto|42.422|14.187|IT|Abruzzo|80
 Samata|32.621|130.821|JP|Kumamoto|79
 Samdrup Jongkhar|26.801|91.505|BT|Samdrup Jongkhar|79
@@ -101,11 +110,14 @@ Samamiya|11.349|9.640|NG|Jigawa State|78
 Samarkandyk|39.998|70.546|KG|Batken|78
 Same|-9.004|125.649|TL|Manufahi|78
 Sampacho|-33.385|-64.723|AR|Cordoba|77
+Sambava Airport|-14.279|50.175|MG|Sava|77|f
 Sambaina|-18.900|47.783|MG|Analamanga|77
 Sampaloc|14.163|121.640|PH|Calabarzon|77
 Sammichele di Bari|40.887|16.949|IT|Apulia|76
+Sambailo Airport|12.573|-13.358|GN|Boké Region|76|f
 Samatiguila|9.820|-7.561|CI|Denguélé District|76
 Sambuca di Sicilia|37.653|13.115|IT|Sicily|75
+Samos International Airport Aristarchos of Samos|37.690|26.912|GR|North Aegean|75|f
 Samattūr|10.603|77.014|IN|Tamil Nadu|75
 Samus’|56.745|84.704|RU|Tomsk Oblast|75
 Sambaíba|-7.140|-45.346|BR|Maranhão|75
@@ -117,16 +129,19 @@ Samassi|39.482|8.905|IT|Sardinia|75
 Sambek|47.743|39.824|RU|Rostov|74
 Sampao|6.877|124.596|PH|Soccsksargen|74
 Şambayadı|37.042|35.199|TR|Adana|74
+Sam Boyd Stadium|36.086|-115.017|US|Nevada|74|f
 Samapleu|7.762|-7.938|CI|Montagnes|74
 Samangaon|19.968|73.876|IN|Maharashtra|74
 Samsula-Spruce Creek|29.049|-81.062|US|Florida|74
 Samsung Renjia|22.571|113.883|CN|Guangdong|74
 Samine Escale|12.494|-15.631|SN|Sédhiou|74
 Samtengang|27.518|89.979|BT|Wangdi Phodrang|74
+Samnaun Alps|47.000|10.417|AT|Tyrol|73|f
 Samnū|27.275|14.882|LY|Sabha District|73
 Sāmanattam|9.868|78.146|IN|Tamil Nadu|73
 Samburu|-3.795|39.264|KE|Kwale County|73
 Sampaio|-5.348|-47.873|BR|Tocantins|73
+Samae San Island|12.573|100.951|TH|Chon Buri|72|f
 Sāmen|34.209|48.705|IR|Hamadan Province|72
 Samoset|27.469|-82.541|US|Florida|72
 Samur|41.825|48.486|RU|Dagestan|71
@@ -141,6 +156,7 @@ Samazan|7.499|-3.573|CI|Lacs District|70
 Samer|50.638|1.746|FR|Hauts-de-France|70
 Samugheo|39.949|8.942|IT|Sardinia|70
 Samstagern|47.192|8.682|CH|Zurich|70
+Sampit H. Asan Airport|-2.499|112.975|ID|Central Kalimantan|70|f
 Samouco|38.720|-9.005|PT|Setúbal|70
 Sambruson|45.410|12.103|IT|Veneto|70
 Şamād|32.476|36.521|SY|Daraa|70
@@ -159,6 +175,8 @@ Sampiro|13.784|121.384|PH|Calabarzon|68
 Samoreau|48.429|2.756|FR|Île-de-France|67
 Sammanifla|6.833|-5.738|CI|Sassandra-Marahoue|67
 Samuil|43.517|26.750|BG|Razgrad|67
+Samborombón Bay|-35.951|-57.147|AR|Buenos Aires|67|f
+Samsaris K’edi|41.517|43.667|GE||67|f
 Samuhú|-27.519|-60.394|AR|Chaco|67
 Sammbokaha|9.279|-5.947|CI|Savanes District|67
 Sampagar|7.514|124.955|PH|Northern Mindanao|67
@@ -175,6 +193,9 @@ Samoded|63.608|40.511|RU|Arkhangelskaya|66
 Samson|31.113|-86.046|US|Alabama|66
 Samos|37.754|26.977|GR|North Aegean|66
 Samos|42.731|-7.326|ES|Galicia|65
+Samakh|32.700|35.583|IL|Northern District|65|f
+Samariá Gorge|35.291|23.959|GR|Crete|65|f
+Sambong-san|35.883|127.852|KR|Jeollabuk-do|65|f
 Samorossoba|9.869|-6.383|CI|Savanes District|65
 Saména|7.820|-6.523|CI|Woroba|65
 Samur|41.637|48.430|AZ|Qusar District|65
@@ -188,6 +209,13 @@ Samone|45.449|7.842|IT|Piedmont|64
 Sambuca Pistoiese|44.104|11.000|IT|Tuscany|64
 Samotoyivka|50.808|35.152|UA|Sumy|63
 Samalayuca|31.344|-106.477|MX|Chihuahua|63
+Sam Peak|56.581|-132.619|US|Alaska|63|f
+Samalga Island|52.783|-169.201|US|Alaska|63|f
+Sameura-damu|33.757|133.550|JP|Kochi|63|f
+Samjeongsan|35.383|127.626|KR|Gyeongsangnam-do|63|f
+Samphrey|60.467|-1.150|GB|Scotland|63|f
+Samuel Islands|-54.183|-37.617|GS||63|f
+Samyeongsan|38.077|127.906|KR|Gangwon-do|63|f
 Sâmbăta de Sus|45.762|24.821|RO|Brașov County|63
 Saminikro|7.696|-4.770|CI|Vallée du Bandama District|63
 Samokov|41.683|21.146|MK|Makedonski Brod|63
@@ -209,6 +237,12 @@ Sambuca|43.573|11.214|IT|Tuscany|62
 Sam Rayburn|31.064|-94.036|US|Texas|61
 Samal-e Jonūbī|29.101|51.227|IR|Bushehr|61
 Sammatti|60.320|23.821|FI|Uusimaa|61
+Samana Bay|19.153|-69.432|DO||61|f
+Samana Cay|23.082|-73.739|BS|Crooked Island and Long Cay|61|f
+Sambang-san|37.339|128.432|KR|Gangwon-do|61|f
+Sambong-san|37.190|127.961|KR|North Chungcheong|61|f
+Samsjøen|63.096|10.669|NO|Trøndelag|61|f
+Samsun-Çarşamba Airport|41.258|36.556|TR|Samsun|61|f
 Samad Vurghun|40.919|46.191|AZ|Şǝmkir|61
 Samadet|43.639|-0.487|FR|New Aquitaine|61
 Samary-Orikhovi|51.845|24.675|UA|Volyn|61
@@ -218,20 +252,119 @@ Sammeron|48.947|3.083|FR|Île-de-France|60
 Sammersdorf|48.181|14.167|AT|Upper Austria|60
 Samary|51.863|24.617|UA|Volyn|60
 Samper de Calanda|41.189|-0.389|ES|Aragon|60
+Samurcași|44.575|25.921|RO|Dâmbovița County|60
+Samatau|-13.900|-172.057|WS|A'ana|59
 Sambuci|41.985|12.938|IT|Lazio|59
+Sambang|13.533|-15.333|GM|Central River|59
+Samango|9.664|-7.731|CI|Denguélé District|59
 Samo|38.074|16.059|IT|Calabria|59
+Samorokaha|9.190|-5.567|CI|Savanes District|59
+Samatigila|8.810|-5.885|CI|Savanes District|59
+Sammbakaha|9.411|-5.107|CI|Savanes District|59
+Samarína|40.105|21.019|GR|West Macedonia|58
+Samandöken|37.044|37.850|TR|Gaziantep|58
 Sama Grande|-17.791|-70.500|PE|Tacna|58
+Sammardenchia|45.985|13.230|IT|Friuli Venezia Giulia|58
+Sam Rayburn Reservoir|31.112|-94.145|US|Texas|58|f
+Samaksan|37.840|127.661|KR|Gangwon-do|58|f
+Sāmbhar Salt Lake|26.968|75.042|IN||58|f
+Sambor Ghetto|49.517|23.200|UA|Lviv|58|f
+Samdobong|36.023|127.876|KR|Jeollabuk-do|58|f
+Samhwa-sa|37.464|129.014|KR|Gangwon-do|58|f
+Samjeongsan|35.734|128.647|KR|Daegu|58|f
+Sampson County Airport|34.980|-78.363|US|North Carolina|58|f
+Sampson Hill|41.378|-70.484|US|Massachusetts|58|f
+Sampson Pond|41.851|-70.750|US|Massachusetts|58|f
+Sampsons Island|41.607|-70.426|US|Massachusetts|58|f
+Sampigny|48.828|5.510|FR|Grand Est|58
+Samalaeulu|-13.501|-172.300|WS|Gaga'emauga|58
+Samandöken|40.844|42.510|TR|Ardahan|58
+Samazan|44.434|0.112|FR|New Aquitaine|58
+Samnaun|46.944|10.361|CH|Grisons|58
+Samanyolu|38.106|41.225|TR|Batman|58
+Sâmboleni|46.807|24.109|RO|Cluj County|57
+Sambin|47.439|1.297|FR|Centre-Val de Loire|57
+Sampans|47.126|5.457|FR|Bourgogne-Franche-Comté|57
+Samern|52.298|7.257|DE|Lower Saxony|57
 Samothráki|40.473|25.522|GR|East Macedonia and Thrace|57
+Samrée|50.210|5.634|BE|Wallonia|57
+Sambatello|38.179|15.693|IT|Calabria|57
+Samakona|9.968|-7.224|CI|Denguélé District|57
+Samusu|-14.001|-171.426|WS||57
+Samtavisi|42.008|44.410|GE|Shida Kartli|57
+Sampieri|36.722|14.738|IT|Sicily|57
+Sambú|8.025|-78.209|PA|Darién|56
+Sâmbăta Nouă|44.839|28.402|RO|Tulcea County|56
+Samoborski Otok|45.837|15.733|HR|Zagreb County|56
+Samito|-3.858|-73.583|PE|Loreto|56
+Samakova|48.008|24.968|UA|Chernivtsi|55
+Samán|-6.139|-75.042|PE|Loreto|55
+Samson Vale|-27.267|152.850|AU|Queensland|55
+Samiilove|47.255|38.253|UA|Donetsk|55
+Sămara|44.826|24.714|RO|Arges|55
 Sampeyre|44.578|7.190|IT|Piedmont|55
+Samne|-7.991|-78.681|PE|La Libertad|55
+Sâmbăta de Jos|45.811|24.821|RO|Brașov County|55
+Sammarçolles|47.033|0.146|FR|New Aquitaine|55
 Samboal|41.258|-4.417|ES|Castille and León|55
+Samokhvalovo|44.824|33.921|UA|Crimea|55
 Sâmbotin|45.133|23.333|RO|Gorj County|55
+Samukalan|41.148|35.292|TR|Samsun|54
+Sam Hill Memorial Bridge|45.676|-120.836|US|Washington|54|f
+Sam Tung Uk Museum|22.372|114.120|HK|Tsuen Wan|54|f
+Samar|11.934|125.034|PH|Eastern Visayas|54|f
+Samarinbreen|76.911|16.323|SJ|Svalbard|54|f
+Samarinvågen|76.962|16.251|SJ|Svalbard|54|f
+Samberigi Airport|-6.719|143.934|PG|Southern Highlands Province|54|f
+Sambli Dam|33.724|73.339|PK||54|f
+Samburu South Airport|0.533|37.533|KE|Isiolo County|54|f
+Sammisoq|60.005|-43.687|GL|Kujalleq|54|f
+Samsjøen|60.373|10.197|NO|Buskerud|54|f
+Samuel Gompers Memorial|38.904|-77.026|US|District of Columbia|54|f
+Samuel P. Taylor State Park|38.026|-122.728|US|California|54|f
+Samuel Paley Plaza|40.760|-73.976|US|New York|54|f
+Samuilova Krepost|41.395|23.029|BG|Blagoevgrad|54|f
+Samat|40.689|32.211|TR|Bolu|54
+Samatovci|45.596|18.504|HR|County of Osijek-Baranja|54
+Samaniato|-12.660|-73.700|PE|Cuzco Department|54
 Samborzec|50.647|21.648|PL|Świętokrzyskie|54
 Sâmbăta|46.802|22.204|RO|Bihor County|53
 Samone|46.082|11.523|IT|Trentino-Alto Adige|53
 Samán|-15.292|-70.017|PE|Puno|52
 Samaniego|42.569|-2.680|ES|Basque Country|50
+Sam Miller Hill|41.874|-75.087|US|New York|49|f
+Samanjac|43.812|21.656|RS||49|f
+Samnangerfjorden|60.313|5.636|NO|Vestland|49|f
+Sampaloc Lake|14.077|121.330|PH|Calabarzon|49|f
+Samphire Island|-40.210|148.210|AU|Tasmania|49|f
+Sampson Cay Airport|24.217|-76.479|BS|Black Point|49|f
+Samsel, Mount|-70.381|-63.183|AQ||49|f
+Samsø Airport|55.889|10.614|DK|Central Jutland|49|f
+Samson|49.932|-6.353|GB|England|49|f
+Samson Mountain|41.910|-74.402|US|New York|49|f
+Samuel Peak|-62.542|-60.130|AQ||49|f
 Samir de los Caños|41.673|-6.164|ES|Castille and León|47
 Samper del Salz|41.235|-0.825|ES|Aragon|42
+Sam A Baker State Park|37.253|-90.526|US|Missouri|40|f
+Sam Ford Fiord|70.501|-71.148|CA|Nunavut|40|f
+Sam Nujoma Stadium|-22.516|17.061|NA|Khomas Region|40|f
+Sam Riggs Airpark|36.220|-95.648|US|Oklahoma|40|f
+Samalan Island|56.452|-6.136|GB|Scotland|40|f
+Samara Kryazh Airport|53.116|50.097|RU|Samara Oblast|40|f
+Sambro Creek|44.472|-63.606|CA|Nova Scotia|40|f
+Samlesbury Lower Hall|53.778|-2.613|GB|England|40|f
+Samokov Knoll|-62.605|-60.159|AQ||40|f
+Samosata|37.542|38.521|TR|Adıyaman Province|40|f
+Sampson State Park|42.724|-76.902|US|New York|40|f
+Samson Peak|52.683|-117.502|CA|Alberta|40|f
+Sämtisersee|47.271|9.458|CH|Appenzell Innerrhoden|40|f
+Samuel Beckett Bridge|53.347|-6.241|IE|Leinster|40|f
+Samuel Black Range|57.283|-126.953|CA|British Columbia|40|f
+Samuel de Champlain Provincial Park|46.300|-78.866|CA|Ontario|40|f
+Samuel Kanyon Doe Sports Complex|6.257|-10.702|LR|Montserrado County|40|f
+Samuel Noble Monument|33.658|-85.827|US|Alabama|40|f
+Samuel P Harn Museum of Art|29.637|-82.370|US|Florida|40|f
+Samuel Point|-62.727|-60.152|AQ||40|f
 Samamea|-13.934|-171.531|WS|Va'a-o-Fonoti|39
 Sambuco|44.335|7.079|IT|Piedmont|39
 Sam Chai|16.863|103.541|TH|Kalasin|0
@@ -241,27 +374,55 @@ Sam Ngam|16.507|100.205|TH|Phichit|0
 Sam Ngao|17.243|99.023|TH|Tak|0
 Sam Sung|16.543|103.080|TH|Khon Kaen|0
 Samā as Sirḩān|32.469|36.244|JO|Mafraq|0
+Samada|28.404|89.555|CN|Tibet|0
 Samadua|3.336|97.131|ID|Aceh|0
+Samajie Ewenkeminzu|47.530|122.226|CN|Inner Mongolia|0
 Samalantan|0.793|109.197|ID|West Kalimantan|0
 Samaná|5.413|-74.992|CO|Caldas Department|0
 Samanco|-9.262|-78.496|PE|Ancash|0
 Samandıra|40.999|29.226|TR|Istanbul|0
 Samanente|-2.199|138.880|ID|Papua|0
+Samangawah|-8.495|118.299|ID|West Nusa Tenggara|0
+Samanggen|-7.168|107.984|ID|West Java|0
+Samaran|-6.775|111.476|ID|Central Java|0
+Samarang|-7.228|108.535|ID|West Java|0
 Samarskoye|49.022|83.366|KZ|East Kazakhstan|0
 Samba Cajú|-8.762|15.408|AO|Cuanza Norte|0
 Samba Lucala|-8.990|15.584|AO|Cuanza Norte|0
 Sambas|1.333|109.250|ID|West Kalimantan|0
 Sambelia|-8.379|116.687|ID|West Nusa Tenggara|0
+Sambi|-8.152|111.798|ID|East Java|0
+Sambidoplang|-8.138|111.966|ID|East Java|0
+Sambigede|-8.205|112.343|ID|East Java|0
+Sambilawang|-6.660|111.103|ID|Central Java|0
+Sambipondok|-6.972|112.525|ID|East Java|0
+Sambirata|-6.786|111.574|ID|Central Java|0
+Sambirejo|-8.145|111.950|ID|East Java|0
+Sambirejo|-7.045|111.339|ID|Central Java|0
+Sambiringkik|-8.356|113.538|ID|East Java|0
+Sambirobyong|-8.065|111.969|ID|East Java|0
+Sambiyan|-6.731|111.270|ID|Central Java|0
 Sambo|-13.059|16.120|AO|Huambo|0
+Sambogunung|-6.989|112.498|ID|East Java|0
 Samboja|-1.033|117.033|ID|East Kalimantan|0
+Sambong|-6.695|111.435|ID|Central Java|0
+Sambong|-6.724|111.547|ID|Central Java|0
+Sambong|-6.799|111.420|ID|Central Java|0
 Sambong|42.689|129.795|KP|North Hamgyong|0
+Sambonggede|-6.875|111.984|ID|East Java|0
+Sambongmulyo|-6.735|111.493|ID|Central Java|0
+Sambongpari|-7.346|108.205|ID|West Java|0
+Sambongrejo|-6.979|111.317|ID|Central Java|0
 Sambopinggir|-7.022|112.479|ID|East Java|0
 Samboto|-13.322|16.010|AO|Huambo|0
+Sambungjaya|-7.462|108.537|ID|West Java|0
+Samburat|-6.908|114.038|ID|East Java|0
 Sâmbureşti|44.800|24.417|RO|Olt|0
 Samdo|31.214|96.599|CN|Tibet|0
 Samegua|-17.179|-70.899|PE|Moquegua Department|0
 Samhorodok|49.532|28.842|UA|Vinnytsia|0
 Saminaka|10.412|8.687|NG|Kaduna State|0
+Samir|-8.147|112.001|ID|East Java|0
 Samko|14.609|100.220|TH|Ang Thong|0
 Şamlı|39.812|27.846|TR|Balıkesir|0
 Samlout|12.617|102.859|KH|Battambang|0
@@ -269,7 +430,15 @@ Sammā ar Rawsān|32.638|35.827|JO|Irbid|0
 Samoeng|18.848|98.732|TH|Chiang Mai|0
 Sampalan|-8.674|115.559|ID|Bali|0
 Sampang|-7.563|109.197|ID|Central Java|0
+Sampang Selatan|-7.567|109.200|ID|Central Java|0
+Sampangan|-7.072|112.459|ID|East Java|0
+Sampangbitung|-6.350|105.918|ID|Banten|0
+Samparna|-6.987|113.693|ID|East Java|0
+Sampir|-8.742|116.856|ID|West Nusa Tenggara|0
+Sampiran|-6.208|106.073|ID|Banten|0
 Sampov Lun|13.432|102.376|KH|Banteay Meanchey|0
+Sampung|-6.784|111.652|ID|Central Java|0
+Sampungu|-8.265|118.544|ID|West Nusa Tenggara|0
 Sampuran|2.008|98.967|ID|North Sumatra|0
 Samran|16.863|103.541|TH|Kalasin|0
 Samrong|15.008|104.784|TH|Ubon Ratchathani|0

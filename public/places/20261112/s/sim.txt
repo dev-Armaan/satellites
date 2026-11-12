@@ -9,6 +9,7 @@ Simpang Renggam|1.825|103.311|MY|Johor|95
 Simpang Empat|4.950|100.633|MY|Perak|95
 Simdega|22.615|84.502|IN|Jharkhand|93
 Simão Dias|-10.738|-37.811|BR|Sergipe|93
+Simferopol International Airport|45.052|33.975|UA|Crimea|92|f
 Simei New Town|1.341|103.956|SG||92
 Simpang|-1.264|104.097|ID|Jambi|91
 Simav|39.088|28.978|TR|Kütahya|91
@@ -17,8 +18,10 @@ Simen|34.622|105.013|CN|Gansu|89
 Simunjan|1.383|110.750|MY|Sarawak|87
 Simpsonville|34.737|-82.254|US|South Carolina|86
 Simonésia|-20.124|-42.001|BR|Minas Gerais|86
+Simón Bolívar International Airport|10.600|-66.998|VE|Vargas|86|f
 Si Mahosot|13.888|101.405|TH|Prachin Buri|86
 Sīmīn Shahr|37.014|54.230|IR|Golestan|85
+Simón Bolívar International Airport|11.120|-74.231|CO|Magdalena Department|84|f
 Simga|21.628|81.704|IN|Chhattisgarh|84
 Şimleu Silvaniei|47.233|22.800|RO|Sălaj County|84
 Sim|54.993|57.698|RU|Chelyabinsk|84
@@ -28,8 +31,10 @@ Simaria|24.795|81.152|IN|Madhya Pradesh|83
 Simcoe|42.833|-80.300|CA|Ontario|83
 Simeria|45.850|23.017|RO|Hunedoara County|83
 Simplício Mendes|-7.854|-41.910|BR|Piauí|82
+Simara Airport|27.159|84.980|NP|Madhesh|82|f
 Simojovel de Allende|17.140|-92.714|MX|Chiapas|81
 Simbach am Inn|48.265|13.023|DE|Bavaria|80
+Simikot Airport|29.971|81.819|NP|Karnali Pradesh|80|f
 Şimian|44.614|22.707|RO|Mehedinți County|79
 Simpang Empat|5.282|100.478|MY|Penang|79
 Simpang Empat|6.027|100.396|MY|Kedah|79
@@ -42,7 +47,10 @@ Simeonovgrad|42.033|25.833|BG|Haskovo|77
 Simrishamn|55.557|14.350|SE|Skåne|77
 Simitli|41.883|23.117|BG|Blagoevgrad|77
 Simon's Town|-34.193|18.436|ZA|Western Cape|76
+Simpang Tiga Airport|0.461|101.445|ID|Riau|76|f
+Simushir Island|46.965|152.046|RU|Sakhalin Oblast|76|f
 Simsbury Center|41.881|-72.811|US|Connecticut|75
+Simpson Bay Lagoon|18.053|-63.109|MF||75|f
 Simolândia|-14.474|-46.483|BR|Goiás|75
 Si Ma Cai|22.695|104.279|VN|Lao Cai|75
 Simenqian|27.487|110.886|CN|Hunan|75
@@ -59,13 +67,17 @@ Simuay|7.277|124.307|PH|Autonomous Region in Muslim Mindanao|73
 Simancas|41.591|-4.828|ES|Castille and León|73
 Simontornya|46.755|18.555|HU|Tolna County|73
 Şimnicu de Sus|44.383|23.800|RO|Dolj|73
+Simi Hills|34.224|-118.717|US|California|72|f
 Şimand|46.433|21.450|RO|Arad County|72
 Şimian|47.483|22.100|RO|Bihor County|72
 Simli Murārpur|25.579|85.240|IN|Bihar|71
 Simoneşti|46.333|25.100|RO|Harghita County|71
 Simbach|48.566|12.739|DE|Bavaria|71
+Simpson Bay|18.036|-63.105|SX||71|f
+Simsbury Airport|41.916|-72.778|US|Connecticut|71|f
 Simmelsdorf|49.598|11.339|DE|Bavaria|71
 Simat de la Valldigna|39.033|-0.317|ES|Valencia|70
+Simon Bolivar International Bridge|7.818|-72.451|VE|Táchira|70|f
 Simeprodeso (Colectivo Nuevo)|25.853|-100.292|MX|Nuevo León|70
 Siminicea|47.700|26.400|RO|Suceava|70
 Simón Sarlat|18.342|-92.807|MX|Tabasco|70
@@ -74,6 +86,7 @@ Simimbaan|17.119|121.581|PH|Cagayan Valley|69
 Simo|65.667|25.050|FI|Lapland|69
 Simmozheim|48.751|8.811|DE|Baden-Wurttemberg|69
 Simpsonville|38.223|-85.355|US|Kentucky|69
+Simara Island|12.804|122.050|PH|Mimaropa|69|f
 Simanu Sur|17.485|121.834|PH|Cagayan Valley|68
 Simeyiz|44.406|34.007|UA|Crimea|68
 Simala|9.973|123.616|PH|Central Visayas|68
@@ -85,6 +98,7 @@ Símantra|40.346|23.310|GR|Central Macedonia|68
 Simpelveld|50.834|5.982|NL|Limburg|68
 Šimanovci|44.874|20.092|RS|Vojvodina|68
 Simin Han|44.528|18.742|BA|Federation of B&H|67
+Simberi Island|-2.627|151.986|PG|New Ireland|67|f
 Simmersfeld|48.617|8.517|DE|Baden-Wurttemberg|67
 Simacota|6.443|-73.337|CO|Santander Department|67
 Simmesport|30.984|-91.800|US|Louisiana|67
@@ -94,29 +108,128 @@ Simpang Pertang|2.943|102.259|MY|Negeri Sembilan|66
 Simnas|54.382|23.646|LT|Alytus|65
 Simer|48.733|22.522|UA|Zakarpattia|65
 Simmern|50.389|7.674|DE|Rheinland-Pfalz|64
+Simlepiggen|61.864|9.845|NO|Innlandet|63|f
+Şimleul Silvaniei Ghetto|47.233|22.800|RO|Sălaj County|63|f
+Simpang Airport|3.115|101.705|MY|Kuala Lumpur|63|f
 Simandres|45.620|4.873|FR|Auvergne-Rhône-Alpes|62
 Șimon|45.485|25.357|RO|Brașov County|62
 Simandre|46.624|4.988|FR|Bourgogne-Franche-Comté|62
 Simpson|41.592|-75.485|US|Pennsylvania|62
+Simav Gölü|39.150|28.917|TR|Kütahya|61|f
+Simmons Peak|37.760|-119.294|US|California|61|f
 Șimișna|47.232|23.624|RO|Sălaj County|61
 Siminoc|44.169|28.353|RO|Constanța County|60
+Simmershofen|49.533|10.133|DE|Bavaria|60
+Șimnicu de Jos|44.360|23.822|RO|Dolj|60
+Simoradz|49.812|18.760|PL|Silesia|60
+Simerky|48.758|22.577|UA|Zakarpattia|60
+Simard|46.720|5.181|FR|Bourgogne-Franche-Comté|59
 Simbario|38.612|16.336|IT|Calabria|59
+Simonsberg|54.434|8.977|DE|Schleswig-Holstein|59
+Simonton|29.679|-95.977|US|Texas|59
+Simsboro|32.535|-92.788|US|Louisiana|59
+Simionești|46.971|26.867|RO|Neamț County|58
+Simila|46.263|27.701|RO|Vaslui County|58
+Símantra|41.138|25.025|GR|East Macedonia and Thrace|58
 Simbal|-7.976|-78.813|PE|La Libertad|58
+Simi Peak|34.204|-118.781|US|California|58|f
+Simiutaq|60.690|-46.582|GL|Kujalleq|58|f
+Simlipal National Park|21.804|86.272|IN|Odisha|58|f
+Simmons Island|38.097|-121.991|US|California|58|f
+Simonsenøya|78.927|21.664|SJ||58|f
+Simpelejärvi|61.506|29.418|FI|South Karelia|58|f
+Simeri Mare|38.865|16.698|IT|Calabria|58
+Simorre|43.450|0.734|FR|Occitanie|57
+Simiane|45.463|34.765|UA|Crimea|57
+Simson Bay Village|18.038|-63.119|SX||57
+Simandre-sur-Suran|46.227|5.418|FR|Auvergne-Rhône-Alpes|57
+Simlångsdalen|56.722|13.132|SE|Halland|56
+Simla|39.142|-104.084|US|Colorado|56
+Simpson|31.246|-93.015|US|Louisiana|56
+Simiane-la-Rotonde|43.981|5.563|FR|Provence-Alpes-Côte d'Azur|55
+Simikoṭ|29.971|81.820|NP|Karnali Pradesh|55
+Simencourt|50.258|2.643|FR|Hauts-de-France|55
+Simao Airport|22.793|100.959|CN|Yunnan|54|f
+Simensen Peak|-71.933|25.550|AQ||54|f
+Simmons Lake|47.033|-122.951|US|Washington|54|f
+Simojärvi|66.083|27.170|FI|Lapland|54|f
+Simon and Helen Director Park|45.519|-122.681|US|Oregon|54|f
+Simon Kenton Memorial Bridge|38.650|-83.760|US|Kentucky|54|f
+Simonszand|53.519|6.409|NL|Groningen|54|f
+Simpson Rocks|-61.966|-57.416|AQ||54|f
+Sīmakān|30.421|53.444|IR|Fars|52
 Simala|39.721|8.828|IT|Sardinia|51
+Simcoe Mountains|45.985|-120.723|US|Washington|49|f
+Simetsberg|47.566|11.253|DE|Bavaria|49|f
+Simmers Peaks|-66.100|52.800|AQ||49|f
+Simmersberg|50.502|10.893|DE|Thuringia|49|f
+Simon Peak|-69.261|-71.932|AQ||49|f
+Simpson Conservation Park|-35.856|137.996|AU|South Australia|49|f
+Simpson Desert Conservation Park|-26.227|137.879|AU|South Australia|49|f
+Simpson Desert National Park|-25.147|138.240|AU|Queensland|49|f
+Simpson Glacier Tongue|-71.250|168.750|AQ||49|f
+Simpson Head|-73.348|-61.059|AQ||49|f
+Simpson Ridge|-68.112|62.378|AQ||49|f
+Simssee|47.874|12.239|DE|Bavaria|49|f
+Simcoe Island|44.167|-76.533|CA|Ontario|40|f
+Simeon Peak|-62.692|-60.211|AQ||40|f
+Simitli Point|-62.617|-61.242|AQ||40|f
+Simmonds Islands|-34.748|173.150|NZ|Auckland|40|f
+Simmonds Peak|-85.967|-158.533|AQ||40|f
+Simmons Glacier|-75.000|-113.600|AQ||40|f
+Simmons Lake|-77.767|161.333|AQ||40|f
+Simmons Lake|59.186|-129.776|CA|British Columbia|40|f
+Simmons, Mount|-80.367|-81.750|AQ||40|f
+Simms Island|37.959|-122.505|US|California|40|f
+Simms Mountain|37.798|-90.562|US|Missouri|40|f
+Simon Peak|52.650|-118.336|CA|Alberta|40|f
+Simon Peak|52.656|-118.319|CA|British Columbia|40|f
+Simons Park|41.911|-87.715|US|Illinois|40|f
+Simpson Glacier|-71.283|168.633|AQ||40|f
+Simpson Island|48.800|-87.683|CA|Ontario|40|f
+Simpson Peak|59.716|-131.470|CA|British Columbia|40|f
+Simpson Peak|36.549|-105.414|US|New Mexico|40|f
+Simpson Peninsula|68.568|-88.750|CA|Nunavut|40|f
+Simpsonville Stone Arch Bridge|43.071|-72.656|US|Vermont|40|f
+Simsarian, Mount|-86.100|-132.833|AQ||40|f
+Simson Marine Park|49.483|-123.968|CA|British Columbia|40|f
 Si Mueang Mai|15.493|105.276|TH|Ubon Ratchathani|0
 Simabur|-0.464|100.528|ID|West Sumatra|0
+Simajia|46.770|130.617|CN|Heilongjiang|0
+Simapu|23.262|116.362|CN|Guangdong|0
+Simaqiao|25.416|111.761|CN|Hunan|0
 Simcheon|36.237|127.722|KR|North Chungcheong|0
+Simen|30.162|121.039|CN|Zhejiang|0
+Simenzi|40.733|123.817|CN|Liaoning|0
 Simiatug|-1.292|-78.961|EC|Bolívar|0
+Simingshan|29.736|121.110|CN|Zhejiang|0
+Simo|-6.821|111.775|ID|East Java|0
+Simo Satu|-8.037|111.903|ID|East Java|0
 Simón Bolívar|-2.185|-80.359|EC|Guayas|0
 Simón Bolívar|-2.002|-79.485|EC|Guayas|0
+Simpang|-7.368|107.217|ID|West Java|0
+Simpang|-7.342|106.458|ID|West Java|0
+Simpang|-7.141|107.003|ID|West Java|0
 Simpang|-4.449|104.192|ID|South Sumatra|0
+Simpang|-7.474|107.669|ID|West Java|0
+Simpang|-7.367|107.776|ID|West Java|0
+Simpang|-7.640|107.907|ID|West Java|0
 Simpang|-7.623|108.106|ID|West Java|0
+Simpang|-7.280|108.167|ID|West Java|0
+Simpang|-7.419|107.159|ID|West Java|0
+Simpang Bandung|2.073|100.585|ID|Riau|0
 Simpang Empat|0.097|99.823|ID|West Sumatra|0
+Simpang Pasir|2.083|100.592|ID|Riau|0
 Simpang Teritit|4.697|96.857|ID|Aceh|0
 Simpang Tiga Redelong|4.722|96.874|ID|Aceh|0
 Simpang Ulim|5.122|97.562|ID|Aceh|0
+Simpanganduwet|-8.032|112.797|ID|East Java|0
 Simpangempat|-3.279|115.029|ID|South Kalimantan|0
+Simpanggarung|-6.710|106.049|ID|Banten|0
+Simpasai|-8.691|118.665|ID|West Nusa Tenggara|0
 Simpele|61.433|29.367|FI|South Karelia|0
+Simpenan|-7.350|106.514|ID|West Java|0
 Simpson|52.017|-0.700|GB|England|0
 Simpur|-2.828|115.267|ID|South Kalimantan|0
+Simu|-8.669|117.690|ID|West Nusa Tenggara|0
 Simwon|35.524|126.551|KR|Jeollabuk-do|0

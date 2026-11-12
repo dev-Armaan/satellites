@@ -17,11 +17,13 @@ Babat|-7.113|112.164|ID|East Java|89
 Babaeski|41.428|27.097|TR|Kırklareli|89
 Bablāi|30.357|76.879|IN|Haryana|88
 Bābra|21.846|71.305|IN|Gujarat|88
+Babeldaob|7.562|134.569|PW||86|f
 Babor|36.490|5.539|DZ|Sétif|85
 Babenhausen|49.965|8.951|DE|Hesse|85
 Babana|10.429|3.815|NG|Niger State|85
 Bābai|22.703|77.935|IN|Madhya Pradesh|84
 Babrāla|28.264|78.406|IN|Uttar Pradesh|84
+Bab-el-Mandeb|12.604|43.336|DJ|Obock|84|f
 Baben|21.137|73.096|IN|Gujarat|84
 Baberu|25.547|80.704|IN|Uttar Pradesh|84
 Babo-Pangulo|15.083|120.517|PH|Central Luzon|84
@@ -42,6 +44,7 @@ Bāba Bakāla|31.555|75.264|IN|Punjab|79
 Bababé|16.337|-13.953|MR|Brakna|79
 Baba|-1.784|-79.679|EC|Los Ríos|79
 Babaçulândia|-7.205|-47.757|BR|Tocantins|78
+Babi Yar|50.472|30.449|UA|Kyiv City|78|f
 Babayi|49.896|36.193|UA|Kharkiv|77
 Babura|12.773|9.015|NG|Jigawa State|77
 Babugarh|28.724|77.847|IN|Uttar Pradesh|77
@@ -70,16 +73,23 @@ Babensham|48.083|12.267|DE|Bavaria|69
 Băbana|44.900|24.700|RO|Arges|69
 Babchyntsi|48.417|28.157|UA|Vinnytsia|69
 Babina Greda|45.117|18.537|HR|Vukovar-Srijem|69
+Baba|41.003|21.184|MK||69|f
+Babadil Adası|36.122|33.532|TR|Mersin|69|f
+Babine Lake|54.776|-126.014|CA|British Columbia|69|f
 Babushara|42.868|41.124|GE|Abkhazia|69
 Babino|56.211|43.603|RU|Nizhny Novgorod Oblast|68
 Băbiciu|44.033|24.567|RO|Olt|67
 Babasso|8.540|-6.692|CI|Woroba|67
+Ba Bể Lake|22.411|105.613|VN|Thai Nguyen|67|f
+Bāba Budan Hills|13.495|75.758|IN|Karnataka|67|f
+Baby Islands|53.993|-166.064|US|Alaska|67|f
 Babanango|-28.377|31.085|ZA|KwaZulu-Natal|67
 Babanka|48.710|30.440|UA|Cherkasy|67
 Babyn|48.525|26.857|UA|Chernivtsi|67
 Babakro|7.770|-3.979|CI|Lacs District|67
 Băbeni|47.300|23.400|RO|Sălaj County|66
 Babócsa|46.042|17.343|HU|Somogy County|65
+Babadağ|41.020|48.304|AZ|Quba|65|f
 Baboszewo|52.681|20.255|PL|Mazovia|65
 Babice|49.122|17.481|CZ|Zlín|65
 Babli Yaya|6.612|-8.153|CI|Montagnes|65
@@ -87,6 +97,7 @@ Babice|50.056|19.200|PL|Lesser Poland|64
 Babbitt|47.709|-91.945|US|Minnesota|64
 Babiak|52.345|18.667|PL|Greater Poland|64
 Baburía|25.842|-108.204|MX|Sinaloa|63
+Bablomekang|7.142|134.319|PW|Koror|63|f
 Babice nad Svitavou|49.283|16.696|CZ|South Moravian|63
 Babberich|51.907|6.111|NL|Gelderland|63
 Babice|50.069|19.449|PL|Lesser Poland|63
@@ -98,22 +109,147 @@ Babica|49.935|21.870|PL|Subcarpathia|62
 Babót|47.576|17.074|HU|Győr-Moson-Sopron|61
 Báb|48.310|17.867|SK|Nitra Region|61
 Băbeni|45.446|26.979|RO|Buzău County|61
+Babička Gora|43.125|22.062|RS||61|f
 Babokoon-Appolo|5.544|-5.331|CI|Goh-Djiboua|61
 Babayağmur|39.363|35.479|TR|Yozgat|61
 Babța|47.458|22.943|RO|Satu Mare County|60
 Băbeni-Oltețu|44.614|23.978|RO|Vâlcea County|60
 Babroukro|7.918|-5.459|CI|Vallée du Bandama District|60
 Babilafuente|40.977|-5.426|ES|Castille and León|60
+Babičky|50.009|14.726|CZ|Central Bohemia|60
+Babice|50.352|22.902|PL|Lublin|60
+Babychi|48.443|22.902|UA|Zakarpattia|60
+Bábonymegyer|46.754|18.095|HU|Somogy County|59
+Baboucar Toumbou|14.109|-16.719|SN|Fatick|59
+Babaroaga|44.547|25.193|RO|Arges|59
+Babice|50.143|18.297|PL|Silesia|59
+Babice|49.818|22.476|PL|Subcarpathia|58
+Babindol|48.289|18.238|SK|Nitra Region|58
+Babbs Bridge|43.766|-70.448|US|Maine|58|f
+Babel Island|-39.940|148.330|AU|Tasmania|58|f
+Babice u Rosic|49.173|16.359|CZ|South Moravian|58
+Babyne|48.327|25.482|UA|Chernivtsi|58
+Babarc|46.004|18.552|HU|Baranya|57
+Babilonia|17.481|-91.991|MX|Chiapas|57
+Babycheve|49.944|38.224|UA|Luhansk|57
+Bābālū|38.140|48.859|IR|Gilan Province|57
+Băbășești|47.776|23.099|RO|Satu Mare County|57
+Babaköy|39.401|28.043|TR|Balıkesir|56
+Baba Novac|47.649|22.793|RO|Satu Mare County|56
+Babacan|39.979|44.301|TR|Iğdır|56
+Babbie|31.280|-86.326|US|Alabama|56
+Babiahan|5.956|-4.215|CI|Lagunes District|56
+Babychivka|49.292|33.245|UA|Poltava|55
+Babyn|48.645|25.627|UA|Chernivtsi|55
+Baba|47.340|23.746|RO|Maramureş|55
+Baboué|5.892|-5.832|CI|Goh-Djiboua|55
+Babango|7.739|-3.249|CI|Zanzan District|54
+Babase Island|-4.014|153.713|PG|New Ireland|54|f
+Babbs Island|40.625|-80.555|US|West Virginia|54|f
+Babel Rock|-63.885|-61.401|AQ||54|f
+Babia Góra|49.573|19.530|PL|Lesser Poland|54|f
+Babo Airport|-2.532|133.439|ID|West Papua|54|f
+Baboosic Lake|42.885|-71.578|US|New Hampshire|54|f
+Babordsranten Ridge|-72.283|-3.433|AQ||54|f
+Babushkin Island|-69.083|157.500|AQ||54|f
+Babuyan Island|19.531|121.949|PH|Cagayan Valley|54|f
+Babuyan Islands|19.250|121.667|PH|Cagayan Valley|54|f
+Babenkovo|45.097|35.130|UA|Crimea|54
+Babinec|46.373|16.109|HR|Varaždin|54
+Băbiceni|47.754|27.075|RO|Botoșani County|54
+Babadougou|8.267|-4.333|CI|Vallée du Bandama District|54
+Bābakān|38.437|44.792|IR|West Azerbaijan|54
+Baba|43.836|21.552|RS|Central Serbia|49|f
+Baba Island|24.823|66.962|PK|Sindh|49|f
+Babbacombe Bay|50.517|-3.417|GB|England|49|f
+Babe Island|-54.267|-36.300|GS||49|f
+Babina Stena|43.211|20.601|RS||49|f
+Baby Roach Cay|17.483|-87.783|BZ|Belize District|49|f
 Babino Polje|42.735|17.551|HR|Dubrovnik-Neretva|48
+Baba Yara Stadium|6.684|-1.605|GH|Ashanti|40|f
+Babasaheb Bhimrao Ambedkar Bihar University|26.100|85.386|IN|Bihar|40|f
+Babb Airport|48.851|-113.431|US|Montana|40|f
+Babcock Lake|44.476|-76.651|CA|Ontario|40|f
+Babcock Lake|37.757|-119.397|US|California|40|f
+Babcock Memorial Park|45.290|-93.557|US|Minnesota|40|f
+Babcock State Park|37.994|-80.971|US|West Virginia|40|f
+Babe Ruth Field|34.276|-119.299|US|California|40|f
+Babine River Corridor Park|55.600|-127.037|CA|British Columbia|40|f
+Babler State Park|38.621|-90.696|US|Missouri|40|f
+Babson Ledge|42.606|-70.667|US|Massachusetts|40|f
+Baby Glacier|48.905|-114.155|US|Montana|40|f
+Baby Glacier|43.171|-109.683|US|Wyoming|40|f
+Babylon Bend Bridge|40.590|-90.348|US|Illinois|40|f
 Bābā Şāḩib|31.661|65.661|AF|Kandahar|0
+Babadan|-6.722|111.295|ID|Central Java|0
 Babaera|-12.899|14.805|AO|Benguela|0
+Babagan|-6.700|111.440|ID|Central Java|0
 Babah Rot|3.929|96.689|ID|Aceh|0
+Babaiqiao|32.421|118.928|CN|Jiangsu|0
+Babak|-6.769|111.643|ID|Central Java|0
 Babak|7.136|125.688|PH|Davao Region|0
+Babakan|-7.282|107.222|ID|West Java|0
+Babakan|-6.729|105.906|ID|Banten|0
+Babakan|-6.894|106.212|ID|Banten|0
+Babakan|-7.636|107.712|ID|West Java|0
+Babakan|-7.221|106.802|ID|West Java|0
+Babakan|-7.246|106.981|ID|West Java|0
+Babakan|-7.154|107.911|ID|West Java|0
+Babakan|-7.162|108.204|ID|West Java|0
+Babakan|-7.771|108.461|ID|West Java|0
+Babakan|-7.091|108.433|ID|West Java|0
+Babakan|-7.366|108.641|ID|West Java|0
+Babakan|-6.352|106.074|ID|Banten|0
+Babakan|-6.417|106.019|ID|Banten|0
+Babakan|-7.320|108.059|ID|West Java|0
+Babakan|-7.027|108.535|ID|West Java|0
+Babakan Barat|-8.602|116.137|ID|West Nusa Tenggara|0
+Babakan Baru|-7.315|106.620|ID|West Java|0
+Babakan Baru|-7.252|107.927|ID|West Java|0
+Babakan Loak|-7.292|107.913|ID|West Java|0
+Babakan Nyampay|-7.046|108.087|ID|West Java|0
+Babakan Sukasari|-7.270|107.883|ID|West Java|0
+Babakanbandung|-7.096|107.027|ID|West Java|0
+Babakanbungur|-6.553|105.701|ID|Banten|0
+Babakancibaliung|-6.718|105.737|ID|Banten|0
+Babakancikaso|-7.019|108.004|ID|West Java|0
+Babakancilamo|-7.074|108.012|ID|West Java|0
+Babakandesa|-7.048|107.968|ID|West Java|0
+Babakanjaya|-7.578|108.676|ID|West Java|0
+Babakankadu|-7.661|108.027|ID|West Java|0
+Babakankalong|-7.383|108.160|ID|West Java|0
+Babakankaret|-7.238|106.642|ID|West Java|0
+Babakankasilun|-6.498|106.225|ID|Banten|0
+Babakankiray|-7.684|107.965|ID|West Java|0
+Babakanlapang|-7.066|107.060|ID|West Java|0
+Babakanloa|-7.161|107.997|ID|West Java|0
+Babakanloa|-7.136|107.948|ID|West Java|0
+Babakanloa|-7.101|107.980|ID|West Java|0
+Babakanloa|-7.197|107.886|ID|West Java|0
+Babakannagamukti|-6.699|106.334|ID|Banten|0
+Babakansalam|-7.502|107.625|ID|West Java|0
+Babakansari|-7.370|108.561|ID|West Java|0
+Babakansingkur|-7.091|107.916|ID|West Java|0
+Babakansukamulya|-6.583|106.168|ID|Banten|0
+Babakansumur|-7.256|106.981|ID|West Java|0
+Babakantengah|-6.642|105.698|ID|Banten|0
+Babakantonggoh|-6.694|105.630|ID|Banten|0
+Babakantugu|-7.259|107.086|ID|West Java|0
+Babakbawo|-6.989|112.487|ID|East Java|0
+Baban|-6.927|113.491|ID|East Java|0
+Baban Tengah|-8.336|113.851|ID|East Java|0
 Babana|-2.078|119.199|ID|West Sulawesi|0
+Babantar|-7.164|108.340|ID|West Java|0
+Babao|30.182|111.870|CN|Hubei|0
+Babaoshan|39.901|116.231|CN|Beijing|0
 Babat|-2.738|103.640|ID|South Sumatra|0
+Babatan|-7.002|108.455|ID|West Java|0
+Babatan|-6.611|111.054|ID|Central Java|0
 Babatorun|36.077|36.291|TR|Hatay|0
 Babau|-10.105|123.786|ID|East Nusa Tenggara|0
 Babban Gida|12.155|11.771|NG|Yobe State|0
+Babgot|-7.143|108.010|ID|West Java|0
+Babice|52.250|20.851|PL|Mazovia|0
 Babirik|-2.541|115.159|ID|South Kalimantan|0
 Babu|24.335|111.655|CN|Guangxi|0
 Babyn|50.602|26.528|UA|Rivne Oblast|0

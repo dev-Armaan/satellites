@@ -870,27 +870,279 @@ Farmersville|39.679|-84.429|US|Ohio|60
 Despard|39.289|-80.306|US|West Virginia|60
 Thornport|39.913|-82.411|US|Ohio|60
 Newport|39.391|-81.227|US|Ohio|60
+Huntsville|35.777|-84.282|US|Tennessee|60
+Thornville|39.896|-82.420|US|Ohio|60
 Columbus|35.253|-82.197|US|North Carolina|60
+Piney View|37.836|-81.135|US|West Virginia|60
+Poca|38.472|-81.814|US|West Virginia|60
+Hillsdale|36.005|-80.439|US|North Carolina|60
 Sutton|38.665|-80.710|US|West Virginia|60
+Maineville|39.315|-84.221|US|Ohio|60
 Grundy|37.278|-82.099|US|Virginia|60
+Glenvar|37.274|-80.134|US|Virginia|60
 Jonesville|36.689|-83.111|US|Virginia|60
+Cooleemee|35.810|-80.556|US|North Carolina|60
+Saint Paul|36.905|-82.311|US|Virginia|60
+Meadowview|36.760|-81.863|US|Virginia|60
+Pound|37.124|-82.601|US|Virginia|60
+Burgin|37.753|-84.767|US|Kentucky|60
+Evarts|36.866|-83.190|US|Kentucky|60
+Enterprise|39.421|-80.278|US|West Virginia|60
+Flat Lick|36.829|-83.770|US|Kentucky|60
+Blue Jay|39.227|-84.737|US|Ohio|60
+Clarktown|38.851|-82.911|US|Ohio|60
+Pleasantville|39.810|-82.522|US|Ohio|60
+Sardinia|39.008|-83.809|US|Ohio|60
+Cedar Grove|38.221|-81.428|US|West Virginia|60
+Athens|37.422|-81.016|US|West Virginia|60
+Winfield|36.556|-84.452|US|Tennessee|60
+Rivesville|39.530|-80.117|US|West Virginia|59
+Ferguson|37.067|-84.600|US|Kentucky|59
+Mason|39.022|-82.029|US|West Virginia|59
+Tellico Plains|35.363|-84.294|US|Tennessee|59
+Mooresburg|36.346|-83.228|US|Tennessee|59
+Fort Chiswell|36.947|-80.941|US|Virginia|59
+Elkhorn City|37.304|-82.351|US|Kentucky|59
+Gratton|37.135|-81.414|US|Virginia|59
+Highlands|35.053|-83.199|US|North Carolina|59
+East Bank|38.218|-81.443|US|West Virginia|59
+Rupert|37.963|-80.690|US|West Virginia|59
+Addyston|39.137|-84.709|US|Ohio|59
+Belwood|35.477|-81.523|US|North Carolina|59
 Independence|36.622|-81.153|US|Virginia|59
+Piedmont|37.451|-81.264|US|West Virginia|59
+Seaman|38.942|-83.572|US|Ohio|59
+Bloomingburg|39.605|-83.395|US|Ohio|59
+Telford|36.249|-82.545|US|Tennessee|59
+Friendsville|35.760|-84.136|US|Tennessee|59
+Old Fort|35.629|-82.181|US|North Carolina|59
+Albany|39.228|-82.202|US|Ohio|59
 Wartburg|36.105|-84.597|US|Tennessee|59
+Cameron|39.827|-80.566|US|West Virginia|59
+Elliston|37.217|-80.233|US|Virginia|59
+Gassaway|38.673|-80.775|US|West Virginia|59
+Belmont|39.380|-81.258|US|West Virginia|59
+Chesnee|35.148|-81.861|US|South Carolina|59
+Pinnacle|36.329|-80.433|US|North Carolina|59
+Phelps|37.513|-82.150|US|Kentucky|59
+Gary|37.364|-81.550|US|West Virginia|59
+Duncan Falls|39.872|-81.909|US|Ohio|59
+New Madison|39.968|-84.709|US|Ohio|59
+Pleasant Hill|36.257|-80.883|US|North Carolina|59
+Glasgow|38.215|-81.425|US|West Virginia|59
+Holden|37.824|-82.060|US|West Virginia|59
 Marshall|35.797|-82.684|US|North Carolina|59
+Cleveland|35.733|-80.677|US|North Carolina|59
+Bellefonte|38.493|-82.690|US|Kentucky|59
+Garrison|38.606|-83.173|US|Kentucky|59
+Helenwood|36.430|-84.544|US|Tennessee|59
+Hamden|39.160|-82.527|US|Ohio|59
+Lumberport|39.374|-80.348|US|West Virginia|59
+North Bend|39.153|-84.748|US|Ohio|59
+Gratis|39.648|-84.527|US|Ohio|59
+Riner|37.067|-80.441|US|Virginia|59
+South Wallins|36.815|-83.411|US|Kentucky|59
+Rockford|35.828|-83.941|US|Tennessee|59
+Cannonsburg|38.389|-82.703|US|Kentucky|59
+Ellenboro|35.329|-81.759|US|North Carolina|59
+Rio Grande|38.880|-82.380|US|Ohio|59
+Bainbridge|39.228|-83.270|US|Ohio|59
+Burnside|36.989|-84.600|US|Kentucky|59
 Elizabeth|39.063|-81.395|US|West Virginia|58
+New Holland|39.554|-83.257|US|Ohio|58
+Crab Orchard|37.465|-84.507|US|Kentucky|58
 West Union|39.296|-80.777|US|West Virginia|58
+North Hills|39.316|-81.513|US|West Virginia|58
+South Webster|38.813|-82.727|US|Ohio|58
+Felicity|38.839|-84.096|US|Ohio|58
+Germanton|36.263|-80.231|US|North Carolina|58
+Syracuse|38.998|-81.974|US|Ohio|58
+Owensville|39.123|-84.136|US|Ohio|58
+Faith|35.587|-80.463|US|North Carolina|58
+Junction City|39.721|-82.299|US|Ohio|58
+Bromley|39.082|-84.560|US|Kentucky|58
+Damascus|36.634|-81.784|US|Virginia|58
+Rose Hill|36.672|-83.367|US|Virginia|58
+Millersburg|38.302|-84.147|US|Kentucky|58
+Old Washington|38.616|-83.809|US|Kentucky|58
+Hide-A-Way Hills|39.655|-82.477|US|Ohio|58
+Darbydale|39.854|-83.183|US|Ohio|58
 Middlebourne|39.492|-80.904|US|West Virginia|58
+Smithers|38.181|-81.307|US|West Virginia|58
 McKee|37.430|-83.998|US|Kentucky|58
+McRoberts|37.208|-82.672|US|Kentucky|58
+Seven Mile Ford|36.810|-81.630|US|Virginia|58
+Riverview|36.935|-82.482|US|Virginia|58
+Arlington|36.227|-80.833|US|North Carolina|58
+Fountain City|39.956|-84.917|US|Indiana|58
+Andersonville|39.428|-83.010|US|Ohio|58
+Bromley|38.641|-84.848|US|Kentucky|58
+Chelyan|38.195|-81.491|US|West Virginia|58
+War|37.301|-81.691|US|West Virginia|58
+Seven Mile|39.480|-84.552|US|Ohio|58
+West Hamlin|38.286|-82.196|US|West Virginia|58
+Perryville|37.650|-84.952|US|Kentucky|58
+Crab Orchard|35.909|-84.878|US|Tennessee|58
+Sugar Grove|36.776|-81.412|US|Virginia|58
+Anmoore|39.257|-80.292|US|West Virginia|58
+Chattaroy|37.703|-82.281|US|West Virginia|58
+Iron Station|35.442|-81.156|US|North Carolina|58
+Rich Creek|37.382|-80.823|US|Virginia|57
+Amanda|39.650|-82.744|US|Ohio|57
+Salem|37.069|-84.986|US|Kentucky|57
+Red Cross|35.267|-80.356|US|North Carolina|57
 Hindman|37.336|-82.980|US|Kentucky|57
+Arlington Heights|39.215|-84.456|US|Ohio|57
+Mather|39.935|-80.074|US|Pennsylvania|57
+Mount Morris|39.733|-80.068|US|Pennsylvania|57
+Philo|39.861|-81.907|US|Ohio|57
+Cawood|36.784|-83.228|US|Kentucky|57
+Stamping Ground|38.272|-84.686|US|Kentucky|57
+Fleming-Neon|37.192|-82.706|US|Kentucky|57
+Chesapeake|38.428|-82.457|US|Ohio|57
+Montcalm|37.354|-81.253|US|West Virginia|57
+Bulls Gap|36.257|-83.086|US|Tennessee|57
+Millville|39.389|-84.654|US|Ohio|57
+Montreat|35.644|-82.303|US|North Carolina|57
+High Shoals|35.403|-81.202|US|North Carolina|57
+Niota|35.513|-84.545|US|Tennessee|57
+Misenheimer|35.485|-80.288|US|North Carolina|57
+East Bernstadt|37.190|-84.118|US|Kentucky|57
+New Straitsville|39.578|-82.238|US|Ohio|57
+Lynch|36.966|-82.922|US|Kentucky|57
+Saluda|35.236|-82.349|US|North Carolina|57
+Man|37.740|-81.878|US|West Virginia|57
+Cassville|39.666|-80.064|US|West Virginia|57
+Grover|35.175|-81.450|US|North Carolina|57
+Dry Tavern|39.939|-80.012|US|Pennsylvania|57
+Science Hill|37.177|-84.636|US|Kentucky|57
+Minford|38.859|-82.862|US|Ohio|57
+Light Oak|35.285|-81.477|US|North Carolina|57
+Betsy Layne|37.551|-82.633|US|Kentucky|57
+Philadelphia|35.680|-84.404|US|Tennessee|57
+Verdunville|37.845|-82.055|US|West Virginia|57
 Newland|36.087|-81.927|US|North Carolina|57
 Inez|37.866|-82.539|US|Kentucky|57
+Fort Gay|38.116|-82.596|US|West Virginia|57
+Riverview|35.003|-80.980|US|South Carolina|57
+Saint Leon|39.292|-84.958|US|Indiana|57
+Charleston|35.287|-84.758|US|Tennessee|57
+Jefferson|38.375|-81.780|US|West Virginia|57
+Kingstown|35.351|-81.612|US|North Carolina|57
+McAdenville|35.259|-81.075|US|North Carolina|57
+Riceville|35.385|-84.693|US|Tennessee|57
+Auxier|37.737|-82.758|US|Kentucky|57
+Hometown|38.533|-81.861|US|West Virginia|56
+Concorde Hills|39.211|-84.357|US|Ohio|56
+Robinette|37.785|-81.794|US|West Virginia|56
+White Hall|39.421|-80.183|US|West Virginia|56
+Racine|38.971|-81.914|US|Ohio|56
+Alexander Mills|35.311|-81.859|US|North Carolina|56
+New Baltimore|39.265|-84.667|US|Ohio|56
+Malta|39.649|-81.862|US|Ohio|56
+Harts|38.031|-82.129|US|West Virginia|56
+Danville|38.081|-81.834|US|West Virginia|56
+Loyall|36.852|-83.354|US|Kentucky|56
+Caroleen|35.281|-81.796|US|North Carolina|56
+Shrewsbury|38.206|-81.472|US|West Virginia|56
+North Middletown|38.145|-84.111|US|Kentucky|56
+Dante|36.978|-82.298|US|Virginia|56
+Shawnee|39.605|-82.212|US|Ohio|56
+Peterstown|37.397|-80.799|US|West Virginia|56
+West College Corner|39.568|-84.816|US|Indiana|56
+Pippa Passes|37.335|-82.874|US|Kentucky|56
+Rocky Fork Point|39.191|-83.491|US|Ohio|56
 Brooksville|38.683|-84.066|US|Kentucky|56
+Allardt|36.381|-84.884|US|Tennessee|56
 Sandy Hook|38.086|-83.126|US|Kentucky|56
 Pineville|37.583|-81.537|US|West Virginia|56
+Big Chimney|38.406|-81.536|US|West Virginia|56
+Hilltop|37.943|-81.151|US|West Virginia|56
+Petersburg|39.069|-84.868|US|Kentucky|56
+Valley View|39.966|-83.072|US|Ohio|56
+Powellton|38.099|-81.324|US|West Virginia|56
+West Milford|39.201|-80.404|US|West Virginia|56
+Catawba|35.707|-81.076|US|North Carolina|56
+Grant Town|39.558|-80.182|US|West Virginia|56
+Kopperston|37.748|-81.570|US|West Virginia|56
+Boomer|38.151|-81.287|US|West Virginia|56
+Cliffside|35.238|-81.770|US|North Carolina|56
+Idamay|39.497|-80.257|US|West Virginia|56
+Richfield|35.470|-80.258|US|North Carolina|56
+Thurston|39.840|-82.546|US|Ohio|56
+Pleasant Hills|39.236|-84.525|US|Ohio|56
+New London|35.443|-80.219|US|North Carolina|56
+Patterson Springs|35.235|-81.515|US|North Carolina|56
+Martin|37.573|-82.753|US|Kentucky|56
+South Williamson|37.672|-82.284|US|Kentucky|56
+Fallston|35.429|-81.501|US|North Carolina|56
+East Bend|36.217|-80.513|US|North Carolina|56
+Millingport|35.381|-80.305|US|North Carolina|56
+Hartford City|39.004|-81.989|US|West Virginia|56
 Robbinsville|35.323|-83.807|US|North Carolina|56
+Ansonville|35.105|-80.109|US|North Carolina|55
+Gauley Bridge|38.168|-81.195|US|West Virginia|55
+Switzer|37.793|-81.988|US|West Virginia|55
+Boger City|35.481|-81.213|US|North Carolina|55
+Bancroft|38.510|-81.840|US|West Virginia|55
+Lawndale|35.414|-81.563|US|North Carolina|55
+Artemus|36.833|-83.842|US|Kentucky|55
+Ravenna|37.685|-83.953|US|Kentucky|55
+Butler|38.786|-84.370|US|Kentucky|55
+Pratt|38.210|-81.384|US|West Virginia|55
+Marble Cliff|39.987|-83.062|US|Ohio|55
+New Haven|39.276|-84.741|US|Ohio|55
+Petros|36.096|-84.442|US|Tennessee|55
+Red Jacket|37.648|-82.140|US|West Virginia|55
+Williamsdale|39.441|-84.530|US|Ohio|55
+Accoville|37.769|-81.837|US|West Virginia|55
+Corning|39.603|-82.088|US|Ohio|55
+Rosman|35.144|-82.821|US|North Carolina|55
+Nettie|38.218|-80.686|US|West Virginia|55
+Hepzibah|39.333|-80.335|US|West Virginia|55
+Stoutsville|39.605|-82.829|US|Ohio|55
+Pittman Center|35.759|-83.396|US|Tennessee|55
+Harmony|35.956|-80.772|US|North Carolina|55
+Hot Springs|35.893|-82.831|US|North Carolina|55
+Max Meadows|36.970|-80.950|US|Virginia|55
+Proctorville|38.437|-82.377|US|Ohio|55
+Sardis|39.623|-80.913|US|Ohio|55
 Union|37.592|-80.544|US|West Virginia|55
+Buchtel|39.462|-82.182|US|Ohio|55
+Phillipsburg|39.904|-84.402|US|Ohio|55
+Omar|37.756|-82.000|US|West Virginia|55
+Harveysburg|39.504|-84.010|US|Ohio|55
+Ivanhoe|36.840|-80.967|US|Virginia|55
+Wheelwright|37.333|-82.721|US|Kentucky|55
+Highland Holiday|39.198|-83.469|US|Ohio|55
+Amsterdam|39.958|-82.378|US|Ohio|55
+Bolt|37.762|-81.412|US|West Virginia|55
 Grantsville|38.923|-81.096|US|West Virginia|55
+Lowell|39.530|-81.506|US|Ohio|55
+Clarksville|39.401|-83.981|US|Ohio|55
+Sunbright|36.243|-84.670|US|Tennessee|55
+Bruno|37.691|-81.869|US|West Virginia|55
+Russellville|38.866|-83.787|US|Ohio|55
+Kirkersville|39.960|-82.596|US|Ohio|55
+Delbarton|37.711|-82.184|US|West Virginia|55
+Hiddenite|35.904|-81.091|US|North Carolina|55
+Polkville|35.418|-81.643|US|North Carolina|55
+Hooven|39.178|-84.759|US|Ohio|55
+Hamersville|38.918|-83.983|US|Ohio|55
 Frenchburg|37.951|-83.626|US|Kentucky|55
+Matheny|37.665|-81.600|US|West Virginia|55
+Fair Garden|35.902|-83.413|US|Tennessee|54
+Kistler|37.756|-81.860|US|West Virginia|54
+Prichard|38.240|-82.598|US|West Virginia|54
+Campobello|35.116|-82.150|US|South Carolina|54
+Carroll|39.799|-82.701|US|Ohio|54
+Pine Grove|39.566|-80.679|US|West Virginia|54
+Belmont|39.730|-84.140|US|Ohio|54
+Laurelville|39.473|-82.739|US|Ohio|54
+Darrtown|39.496|-84.661|US|Ohio|54
+McConnell|37.826|-81.967|US|West Virginia|54
+Paw Paw|39.549|-80.153|US|West Virginia|54
+Cowen|38.410|-80.558|US|West Virginia|54
 Clay|38.460|-81.085|US|West Virginia|53
 Bakersville|36.016|-82.159|US|North Carolina|53
 Floyd|36.911|-80.320|US|Virginia|53

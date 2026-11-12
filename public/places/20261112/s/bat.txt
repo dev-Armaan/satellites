@@ -36,6 +36,7 @@ Batī|11.192|40.017|ET|Amhara|92
 Bathurst|-33.417|149.581|AU|New South Wales|91
 Baturité|-4.329|-38.885|BR|Ceará|91
 Bath Beach|40.605|-74.004|US|New York|90
+Batumi International Airport|41.610|41.600|GE|Adjara|90|f
 Batubulan|-8.624|115.262|ID|Bali|89
 Batifa|37.175|43.012|IQ|Duhok|89
 Batken|40.060|70.819|KG|Batken|89
@@ -50,6 +51,8 @@ Bataguassu|-21.714|-52.422|BR|Mato Grosso do Sul|87
 Batu Arang|3.317|101.467|MY|Selangor|87
 Batu Kurau|4.967|100.800|MY|Perak|87
 Batu Anam|2.583|102.711|MY|Johor|87
+Baths of Trajan|41.892|12.497|IT|Lazio|87|f
+Bathurst Island|75.752|-100.002|CA|Nunavut|86|f
 Batang Berjuntai|3.383|101.417|MY|Selangor|86
 Batu Feringgi|5.471|100.245|MY|Penang|86
 Battle Ground|45.781|-122.533|US|Washington|86
@@ -58,26 +61,36 @@ Batié|9.883|-2.917|BF|Sud-Ouest|85
 Batemans Bay|-35.707|150.175|AU|New South Wales|85
 Bato|13.353|123.368|PH|Bicol Region|85
 Batuco|-33.233|-70.809|CL|Santiago Metropolitan|84
+Batna International Airport|35.752|6.309|DZ|Batna|84|f
 Bathurst Manor|43.765|-79.456|CA|Ontario|84
 Batavia|42.998|-78.188|US|New York|84
 Bátonyterenye|47.970|19.841|HU|Nógrád|83
+Bata Airport|1.905|9.806|GQ|Litoral|83|f
 Batabanó|22.717|-82.290|CU|Mayabeque|83
+Bathurst Island|-11.736|130.434|AU|Northern Territory|82|f
 Batchworth|51.634|-0.464|GB|England|82
+Bathinda Airport|30.270|74.756|IN|Punjab|82|f
 Bateau Bay|-33.383|151.467|AU|New South Wales|82
 Bathurst|47.618|-65.651|CA|New Brunswick|82
+Bathpalathang Airport|27.563|90.747|BT|Bumthang District|81|f
 Batu Kawan|5.258|100.429|MY|Penang|81
 Batroûn|34.255|35.658|LB|North Lebanon|81
 Batayporã|-22.295|-53.271|BR|Mato Grosso do Sul|81
 Batesville|35.770|-91.641|US|Arkansas|81
+Baton Rouge Metropolitan Airport|30.533|-91.150|US|Louisiana|80|f
+Batura Sar|36.510|74.522|PK|Gilgit-Baltistan|80|f
 Bato|10.328|124.791|PH|Eastern Visayas|80
 Batobato|6.825|126.085|PH|Davao Region|80
 Batibo|5.836|9.855|CM|North-West|79
 Bath|43.911|-69.821|US|Maine|78
+Bathurst Airport|47.630|-65.739|CA|New Brunswick|78|f
+Båtsfjord Airport|70.602|29.694|NO|Finnmark|78|f
 Batalha|39.660|-8.825|PT|Leiria|78
 Bathurst|-33.500|26.829|ZA|Eastern Cape|78
 Batsari|12.756|7.248|NG|Katsina State|77
 Batesville|34.312|-89.944|US|Mississippi|77
 Batal|16.688|121.601|PH|Cagayan Valley|77
+Batesville Regional Airport|35.726|-91.647|US|Arkansas|77|f
 Batarashi|24.869|92.335|IN|Assam|77
 Bát Xát|22.543|103.890|VN|Lao Cai|77
 Bátaszék|46.194|18.723|HU|Tolna County|77
@@ -101,6 +114,7 @@ Batobalane|14.233|122.750|PH|Bicol Region|74
 Bato|7.043|125.473|PH|Davao Region|74
 Batasan Bata|15.144|120.941|PH|Central Luzon|74
 Batasan|12.767|120.783|PH|Mimaropa|74
+Batagay Airport|67.649|134.695|RU|Sakha|73|f
 Batán|10.084|-83.334|CR|Limón Province|73
 Batan|11.586|122.497|PH|Western Visayas|73
 Battlement Mesa|39.441|-108.025|US|Colorado|73
@@ -130,11 +144,16 @@ Batitang|15.400|120.803|PH|Central Luzon|70
 Bátorove Kosihy|47.829|18.420|SK|Nitra Region|70
 Batz-sur-Mer|47.277|-2.480|FR|Pays de la Loire|70
 Batinci|41.919|21.480|MK|Studenichani|70
+Bat’umis Qure|41.662|41.663|GE|Adjara|70|f
 Batana|13.250|123.564|PH|Bicol Region|70
 Batu|7.753|122.829|PH|Zamboanga Peninsula|69
 Batiovo|48.364|22.399|UA|Zakarpattia|69
 Bato|8.603|123.645|PH|Northern Mindanao|69
 Bätterkinden|47.132|7.538|CH|Bern|69
+Batizovský štít|49.165|20.124|SK|Prešov Region|69|f
+Batlava Lake|42.822|21.302|XK|Pristina|69|f
+Båtsfjorden|70.672|29.829|NO|Finnmark|69|f
+Batuliya Point|-62.404|-59.345|AQ||69|f
 Battifolle-Ruscello-Poggiola|43.450|11.800|IT|Tuscany|69
 Bath|40.726|-75.394|US|Pennsylvania|69
 Bato|10.825|119.471|PH|Mimaropa|68
@@ -161,6 +180,10 @@ Bătrâni|45.314|26.151|RO|Prahova|66
 Batea|41.094|0.311|ES|Catalonia|66
 Bath|42.819|-84.449|US|Michigan|66
 Báta|46.129|18.770|HU|Tolna County|66
+Batou-Bara Island|-17.428|-179.529|FJ|Eastern|65|f
+Battambang Airport|13.096|103.225|KH|Battambang|65|f
+Battlement Mountain|48.415|-113.518|US|Montana|65|f
+Battleship Island|58.359|-134.663|US|Alaska|65|f
 Batrad|48.324|22.414|UA|Zakarpattia|65
 Bathsheba|13.211|-59.526|BB|Saint Joseph|65
 Battaglione-Bagnara|45.116|10.067|IT|Lombardy|65
@@ -170,6 +193,8 @@ Batavia|39.077|-84.177|US|Ohio|64
 Bat A'in|31.658|35.103|PS|West Bank|64
 Bátmonostor|46.102|18.928|HU|Bács-Kiskun|64
 Battle Ground|40.508|-86.842|US|Indiana|63
+Batavia Downs Airport|-12.659|142.675|AU|Queensland|63|f
+Batu Licin Airport|-3.412|115.995|ID|South Kalimantan|63|f
 Batres|40.210|-3.923|ES|Madrid|63
 Battenheim|47.820|7.382|FR|Grand Est|63
 Batal’noye|45.194|35.616|UA|Crimea|62
@@ -181,42 +206,220 @@ Battle Creek|41.999|-97.598|US|Nebraska|62
 Batschuns|47.276|9.672|AT|Vorarlberg|61
 Bath|44.183|-76.783|CA|Ontario|61
 Batilly|49.174|5.969|FR|Grand Est|61
+Batgala|7.188|80.433|LK|Sabaragamuwa Province|61|f
+Baths of Caracalla|41.879|12.493|IT|Lazio|61|f
+Batterbee Mountains|-71.432|-67.336|AQ||61|f
+Battersea Bridge|51.481|-0.173|GB|England|61|f
+Batticaloa Airport|7.706|81.679|LK|Eastern Province|61|f
+Battle Ax|44.826|-122.139|US|Oregon|61|f
+Battle Mountain Airport|40.607|-116.874|US|Nevada|61|f
+Battleship Mountain|43.723|-110.869|US|Wyoming|61|f
 Batesville|28.951|-99.618|US|Texas|61
 Batsíon|37.860|24.785|GR|South Aegean|60
+Batu Niah|3.800|113.750|MY|Sarawak|60
+Batury|25.272|-108.242|MX|Sinaloa|60
 Batorz|50.850|22.493|PL|Lublin|60
+Battle Ground|19.738|-79.761|KY||60
+Batsra|32.214|34.878|IL|Central District|60
+Batiscan|46.495|-72.251|CA|Quebec|60
+Bath|44.167|-71.966|US|New Hampshire|60
+Batin|47.073|24.061|RO|Cluj County|59
+Batesford|-38.088|144.279|AU|Victoria|59
+Batzendorf|48.783|7.706|FR|Grand Est|59
+Batepá|0.301|6.660|ST|São Tomé Island|59
+Battle Lake|46.281|-95.714|US|Minnesota|59
+Batu Marang|4.982|115.035|BN||59
+Batrina|45.189|17.666|HR|Brod-Posavina|59
+Bața|47.189|23.996|RO|Bistrița-Năsăud County|58
+Bati Ndar|13.700|-15.200|GM|Central River|58
+Bateman Island|46.250|-119.230|US|Washington|58|f
+Bates Island|-65.821|-65.631|AQ||58|f
+Bath Bridge|44.167|-71.967|US|New Hampshire|58|f
+Bath-Haverhill Bridge|44.155|-72.036|US|New Hampshire|58|f
+Bathurst Island Airport|-11.768|130.618|AU|Northern Territory|58|f
+Batken Airport|40.046|70.834|KG|Batken|58|f
+Battle Mountain Forest State Scenic Corridor|45.267|-118.975|US|Oregon|58|f
+Battleship Island|48.625|-123.185|US|Washington|58|f
+Batu Buli Hill|3.811|115.440|MY|Sarawak|58|f
+Batogu|44.997|27.430|RO|Brăila County|58
+Battweiler|49.278|7.464|DE|Rheinland-Pfalz|58
+Bat Hadar|31.648|34.597|IL|Southern District|58
+Batısandal|36.564|34.184|TR|Mersin|57
+Batky|50.027|34.569|UA|Poltava|57
+Bátorliget|47.762|22.273|HU|Szabolcs-Szatmár-Bereg|57
+Battle Creek|42.316|-95.599|US|Iowa|57
+Batsa|-11.628|43.260|KM|Grande Comore|57
+Batňovice|50.513|16.051|CZ|Hradec Králové Region|57
+Batuecas|20.040|-101.478|MX|Michoacán|56
+Batchelor|-13.050|131.031|AU|Northern Territory|56
+Batrouan|6.543|-6.632|CI|Sassandra-Marahoue|56
+Batalla Nacional|32.476|-116.821|MX|Baja California|56
+Batcha|4.801|-7.025|CI|Bas-Sassandra District|56
+Batignano|42.867|11.167|IT|Tuscany|56
+Batiz|45.778|23.002|RO|Hunedoara County|56
+Batina|45.846|18.850|HR|County of Osijek-Baranja|55
+Batou|-11.499|43.358|KM|Grande Comore|55
+Bataconcica|27.558|-110.131|MX|Sonora|55
+Bățanii Mici|46.104|25.695|RO|Covasna County|55
+Bătășani|44.675|23.996|RO|Vâlcea County|55
+Battal|37.104|37.652|TR|Gaziantep|55
+Battleboro|36.049|-77.749|US|North Carolina|54
+Batenburg|51.824|5.629|NL|Gelderland|54
+Batajnica Air Base|44.935|20.258|RS|Vojvodina|54|f
+Batangafo Airport|7.314|18.309|CF|Ouham-Fafa|54|f
+Bates Pond|41.836|-70.773|US|Massachusetts|54|f
+Bathurst Airport|-33.408|149.651|AU|New South Wales|54|f
+Batman Airport|37.929|41.117|TR|Batman|54|f
+Batom Airport|-4.167|140.850|ID|Highland Papua|54|f
+Batouri Airport|4.476|14.363|CM|East|54|f
+Battery Kemble Park|38.930|-77.095|US|District of Columbia|54|f
+Batti Malv Island|8.827|92.858|IN|Andaman and Nicobar|54|f
+Battle Branch Mine|34.475|-84.042|US|Georgia|54|f
+Battle Mountain|38.657|-78.060|US|Virginia|54|f
+Battleship Promontory|-76.917|160.917|AQ||54|f
+Batu|6.917|39.733|ET|Oromiya|54|f
+Batura Glacier|36.568|74.619|PK|Gilgit-Baltistan|54|f
+Batura Muztagh|36.551|74.356|PK|Gilgit-Baltistan|54|f
+Batavia|40.994|-92.167|US|Iowa|54
+Batacosa|27.530|-109.403|MX|Sonora|54
 Batnfjordsøra|62.895|7.673|NO|Møre og Romsdal|52
 Baterno|38.956|-4.910|ES|Extremadura|51
 Battuda|45.275|9.078|IT|Lombardy|50
+Bata Shoe Museum|43.667|-79.400|CA|Ontario|49|f
+Batalden|61.650|4.800|NO|Vestland|49|f
+Batan Island|20.421|121.960|PH|Cagayan Valley|49|f
+Batan Island|13.253|123.999|PH|Bicol Region|49|f
+Batangas Bay|13.701|120.987|PH|Calabarzon|49|f
+Bate Bay|-34.048|151.168|AU|New South Wales|49|f
+Bates Island|42.032|-71.835|US|Massachusetts|49|f
+Bates Peak|-69.557|-72.867|AQ||49|f
+Bath Mountain|38.058|-119.465|US|California|49|f
+Bathurst Bay|-14.236|144.368|AU|Queensland|49|f
+Bathurst Island|-16.038|123.530|AU|Western Australia|49|f
+Batman Bridge|-41.210|146.910|AU|Tasmania|49|f
+Batman Park|-37.822|144.957|AU|Victoria|49|f
+Batong|0.000|107.517|ID||49|f
+Batterbee, Cape|-65.850|53.800|AQ||49|f
+Battery Island|-40.450|148.170|AU|Tasmania|49|f
+Batticaloa Lake|7.583|81.750|LK|Eastern Province|49|f
+Battistero di San Giovanni|43.318|11.329|IT|Tuscany|49|f
+Battle Point|-67.165|-64.758|AQ||49|f
+Battye Glacier|-70.867|67.900|AQ||49|f
 Battifollo|44.320|8.011|IT|Piedmont|47
 Bătrâna|45.783|22.583|RO|Hunedoara County|45
+Batak Point|-63.042|-62.655|AQ||40|f
+Batchawana Bay|46.883|-84.483|CA|Ontario|40|f
+Batchawana Bay Provincial Park|46.942|-84.558|CA|Ontario|40|f
+Bate Islands|68.384|-111.286|CA|Nunavut|40|f
+Batería de San Genís|36.395|-6.214|ES|Andalusia|40|f
+Bates College Museum of Art|44.107|-70.201|US|Maine|40|f
+Bates Glacier|-74.217|163.850|AQ||40|f
+Bates Point|-70.717|166.783|AQ||40|f
+Bath School Disaster Historical Marker|42.816|-84.449|US|Michigan|40|f
+Bathhouse Row|34.515|-93.054|US|Arkansas|40|f
+Batiquitos Lagoon|33.089|-117.293|US|California|40|f
+Baton Rouge Zoo|30.564|-91.161|US|Louisiana|40|f
+Batterson Park|41.738|-72.779|US|Connecticut|40|f
+Battle Island State Park|43.362|-76.437|US|New York|40|f
+Battle Lake|50.637|-100.186|CA|Manitoba|40|f
+Battle Lake|52.968|-114.189|CA|Alberta|40|f
+Battle Monument|39.290|-76.612|US|Maryland|40|f
+Battle Mountain|50.967|-117.519|CA|British Columbia|40|f
+Battle Mountain|51.950|-119.853|CA|British Columbia|40|f
+Battle of Almansa|38.875|-1.094|ES|Castille-La Mancha|40|f
+Battle of Bentonville Monument|35.302|-78.320|US|North Carolina|40|f
+Battle of Birch Coulee Historical Marker|44.577|-94.978|US|Minnesota|40|f
+Battle of Bloody Run Historical Marker|42.342|-83.014|US|Michigan|40|f
+Battle of Britain Range|58.250|-125.086|CA|British Columbia|40|f
+Battle of Capua|41.107|14.208|IT|Campania|40|f
+Battle of Fort Ridgely Historical Marker|44.453|-94.731|US|Minnesota|40|f
+Battle of Kepaniwai Historical Marker|20.883|-156.536|US|Hawaii|40|f
+Battle of Killdeer Mountain Historical Monument Park|47.421|-102.917|US|North Dakota|40|f
+Battle of Monroe’s Crossroads Monument|35.122|-79.207|US|North Carolina|40|f
+Battle of Wood Lake September 23 1862 Historical Marker|44.701|-95.435|US|Minnesota|40|f
+Battle Range|50.917|-117.336|CA|British Columbia|40|f
+Battleship|-78.017|161.733|AQ||40|f
+Battleship Cove|41.706|-71.162|US|Massachusetts|40|f
+Battleship Island|45.000|-79.583|CA|Ontario|40|f
+Battleship Lake|49.719|-125.309|CA|British Columbia|40|f
+Bättlihorn|46.337|8.094|CH|Valais|40|f
+Batty Bay|73.235|-91.417|CA|Nunavut|40|f
 Ba Tơ|14.764|108.732|VN|Quang Ngai|0
 Ba Tri|10.044|106.590|VN|Vinh Long|0
 Bat Dambang|13.263|103.090|KH|Battambang|0
 Bat-Öldziyt|48.216|104.773|MN|Central Aimak|0
+Bata Tengah|-6.906|113.778|ID|East Java|0
 Batad|11.418|123.108|PH|Western Visayas|0
 Batagarawa|12.906|7.606|NG|Katsina State|0
 Batakte|-10.256|123.557|ID|East Nusa Tenggara|0
+Batambak|-6.998|112.981|ID|East Java|0
+Batan|34.142|120.067|CN|Jiangsu|0
+Batanamang|-8.577|123.415|ID|East Nusa Tenggara|0
+Batang|-9.592|118.987|ID|East Nusa Tenggara|0
 Batang|-6.908|109.730|ID|Central Java|0
 Batangan|-6.709|111.230|ID|Central Java|0
 Batanghari|-5.141|105.375|ID|Lampung|0
+Batangsaren|-8.054|111.881|ID|East Java|0
 Batangtoru|1.483|99.066|ID|North Sumatra|0
+Batas Barat|-7.051|113.543|ID|East Java|0
 Batauga|-5.588|122.596|ID|Southeast Sulawesi|0
+Batawa|-8.895|121.148|ID|East Nusa Tenggara|0
+Bate|-6.995|111.687|ID|East Java|0
 Bate Nafadji|10.667|-9.267|GN|Kankan Region|0
+Bateke|-6.963|113.175|ID|East Java|0
 Batheay|11.989|104.942|KH|Kampong Cham|0
 Bathford|51.400|-2.302|GB|England|0
 Bati|34.243|70.729|AF|Nangarhar|0
 Batibati|-3.618|114.717|ID|South Kalimantan|0
 Batočina|44.154|21.082|RS|Central Serbia|0
+Batojaran|-7.094|113.666|ID|East Java|0
+Batokan|-7.143|111.613|ID|East Java|0
+Bator|-6.896|112.902|ID|East Java|0
+Batou|31.958|121.166|CN|Jiangsu|0
+Batou|24.612|115.934|CN|Guangdong|0
+Battal Krajan|-7.747|114.041|ID|East Java|0
 Battalgazi|38.423|38.358|TR|Malatya|0
 Battlesden|51.948|-0.596|GB|England|0
 Batu Panjang|1.712|101.514|ID|Riau|0
+Batuagung|-8.359|114.643|ID|Bali|0
 Batuampar|-0.739|109.525|ID|West Kalimantan|0
+Batuan|27.038|113.722|CN|Hunan|0
 Batubantar|-6.350|106.044|ID|Banten|0
+Batubasong Lauk|-8.528|116.583|ID|West Nusa Tenggara|0
+Batububut|-7.305|108.574|ID|Central Java|0
+Batudulang|-8.587|117.281|ID|West Nusa Tenggara|0
+Batugede Kulon|-7.079|107.913|ID|West Java|0
+Batugulung|-8.796|116.392|ID|West Nusa Tenggara|0
+Batuidu|-10.623|123.405|ID|East Nusa Tenggara|0
+Batujaran|-6.993|113.903|ID|East Java|0
+Batukarut|-7.292|107.014|ID|West Java|0
+Batukarut|-7.137|107.971|ID|West Java|0
+Batukuta|-8.603|116.200|ID|West Nusa Tenggara|0
+Batulawang|-7.367|107.150|ID|West Java|0
+Batulawang|-7.567|108.182|ID|West Java|0
+Batulayang|-6.289|105.974|ID|Banten|0
+Batulenger Barat|-6.889|113.383|ID|East Java|0
 Batulicin|-3.420|116.006|ID|South Kalimantan|0
+Batulilok Satu|-10.736|123.242|ID|East Nusa Tenggara|0
+Batumadeg Kaja|-8.746|115.507|ID|Bali|0
 Batumandi|-2.422|115.441|ID|South Kalimantan|0
+Batuna Satu|-10.255|123.775|ID|East Nusa Tenggara|0
 Batuputih|-6.916|113.918|ID|East Java|0
 Batuputih|-2.958|120.181|ID|South Sulawesi|0
+Batuputih|-7.118|113.552|ID|East Java|0
+Batuputih Atas|-6.875|115.370|ID|East Java|0
+Batur|-8.254|115.332|ID|Bali|0
+Batur Kidul|-6.757|111.136|ID|Central Java|0
+Baturinggit Kaja|-8.246|115.563|ID|Bali|0
 Baturiti|-8.325|115.186|ID|Bali|0
+Baturono|-7.046|112.476|ID|East Java|0
+Baturotok|-8.665|117.146|ID|West Nusa Tenggara|0
+Batursari|-6.709|111.231|ID|Central Java|0
 Batusangkar|-0.461|100.611|ID|West Sumatra|0
 Batusopang|-1.824|115.913|ID|East Kalimantan|0
+Batutanata|-8.215|124.526|ID|East Nusa Tenggara|0
+Batutering|-8.666|117.480|ID|West Nusa Tenggara|0
 Batutua|-10.859|122.984|ID|East Nusa Tenggara|0
+Batutua Satu|-10.861|122.983|ID|East Nusa Tenggara|0
+Batutulis|-8.691|116.214|ID|West Nusa Tenggara|0
+Batutumpang|-7.437|107.624|ID|West Java|0

@@ -7,15 +7,15 @@ Central Visayas|10.358|123.871|PH||134|r
 Central Serbia|44.000|21.000|RS||131|r
 Centre|12.379|-1.533|BF||129|r
 Central District|32.083|34.917|IL||127|r
-Centre-Val de Loire|47.500|1.750|FR||126|r
-Centre|4.750|11.833|CM||125|r
+Centre-Val de Loire|47.500|1.750|FR||127|r
 Central Macedonia|40.914|22.841|GR||125|r
+Centre|4.750|11.833|CM||125|r
 Central Region|-13.500|34.000|MW||123|r
 Central Department|-25.533|-57.467|PY||122|r
+Central Bohemia|50.127|14.196|CZ||121|r
 Central Jutland|56.167|9.500|DK||121|r
 Central and Western|22.282|114.145|HK||121|r
 Cesar Department|9.333|-73.500|CO||120|r
-Central Bohemia|50.127|14.196|CZ||120|r
 Cebu City|10.317|123.891|PH|Central Visayas|120
 Central|5.500|-1.000|GH||118|r
 Central Ethiopia Regional State|7.556|37.826|ET||118|r
@@ -23,14 +23,14 @@ Central Sulawesi|-0.917|122.354|ID||118|r
 Central Equatoria|4.750|31.000|SS||117|r
 Central Kalimantan|-2.000|113.500|ID||117|r
 Central Province|-14.000|29.000|ZM||114|r
-Central Greece|38.352|23.140|GR||113|r
+Central Greece|38.352|23.140|GR||114|r
 Centre-Ouest|12.255|-2.369|BF||112|r
 Central|-22.000|26.000|BW||112|r
 Centre-Est|11.789|-0.357|BF||111|r
 Central Coast|-33.430|151.371|AU|New South Wales|111
 Celaya|20.522|-100.814|MX|Guanajuato|111
 Centre-Nord|13.098|-1.085|BF||110|r
-Central Finland|62.500|25.500|FI||109|r
+Central Finland|62.500|25.500|FI||110|r
 Central Province|7.333|80.750|LK||109|r
 Ceilândia|-15.809|-48.131|BR|Federal District|109
 Central Papua|-3.364|135.512|ID||109|r
@@ -57,9 +57,9 @@ Cerro Largo|-32.333|-54.333|UY||98|r
 Central Ostrobothnia|63.583|24.083|FI||98|r
 Centreville|38.840|-77.429|US|Virginia|97
 Celle|52.623|10.080|DE|Lower Saxony|97
+Central River|13.583|-14.917|GM||97|r
 Cedar Park|30.505|-97.820|US|Texas|96
 Celina|33.325|-96.784|US|Texas|96
-Central River|13.583|-14.917|GM||95|r
 Cerro de Pasco|-10.666|-76.253|PE|Pasco|95
 Cerdanyola del Vallès|41.491|2.141|ES|Catalonia|95
 Central City|33.440|-112.058|US|Arizona|95
@@ -88,6 +88,7 @@ Cesano Maderno|45.629|9.152|IT|Lombardy|91
 Cenisia|45.069|7.651|IT|Piedmont|91
 Central Darfur|12.383|23.300|SD||91|r
 Central Islip|40.791|-73.202|US|New York|91
+Český Krumlov Castle|48.813|14.315|CZ|South Bohemian Region|91|f
 Ceerigaabo|10.616|47.368|SO|Sanaag|91
 Çeşme|38.326|26.306|TR|İzmir Province|90
 Cendajuru|-3.289|30.601|BI|Cankuzo|90
@@ -97,4 +98,3 @@ Ceylanpınar|36.847|40.050|TR|Şanlıurfa|90
 Cedar City|37.677|-113.062|US|Utah|90
 Cernusco sul Naviglio|45.525|9.333|IT|Lombardy|89
 Cervia|44.262|12.348|IT|Emilia-Romagna|89
-Ceper|-7.674|110.679|ID|Central Java|89

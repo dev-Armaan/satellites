@@ -13,6 +13,7 @@ Tanga|-5.069|39.099|TZ|Tanga|112
 Tanzhou|22.255|113.467|CN|Guangdong|112
 Tantou|22.751|113.835|CN|Guangdong|110
 Tanghe|32.685|112.832|CN|Henan|109
+Tan Son Nhat International Airport|10.819|106.652|VN|Ho Chi Minh City (HCMC)|109|f
 Tanjung Pinang|0.917|104.458|ID|Riau Islands|107
 Tân An|10.536|106.414|VN|Tay Ninh|107
 Tanjungbalai|2.967|99.800|ID|North Sumatra|106
@@ -75,6 +76,7 @@ Tanah Merah|5.800|102.150|MY|Kelantan|89
 Tandag|9.078|126.199|PH|Caraga|89
 Tanuma|36.367|139.583|JP|Tochigi|89
 Tanout|14.971|8.888|NE|Zinder Region|89
+Tangier Ibn Battouta Airport|35.727|-5.917|MA|Tanger-Tetouan-Al Hoceima|89|f
 Tanguiéta|10.621|1.267|BJ|Atakora|89
 Tanabi|-20.626|-49.649|BR|São Paulo|88
 Tanjungtiram|4.061|98.370|ID|North Sumatra|88
@@ -105,7 +107,9 @@ Tangará|-6.199|-35.802|BR|Rio Grande do Norte|82
 Tăng Krâsăng|12.567|105.046|KH|Kampong Thom|82
 Ţăndărei|44.641|27.656|RO|Ialomița County|82
 Tanjung Tokong|5.461|100.307|MY|Penang|82
+Tanga Airport|-5.093|39.073|TZ|Tanga|82|f
 Tanping|33.811|104.975|CN|Gansu|81
+Tangra Yumco|31.000|86.633|CN|Tibet|81|f
 Tanglin Halt|1.301|103.797|SG||80
 Tangalle|6.023|80.797|LK|Southern Province|80
 Tantangan|6.615|124.749|PH|Soccsksargen|80
@@ -113,6 +117,7 @@ Tankāra|22.656|70.749|IN|Gujarat|80
 Tanquián de Escobedo|21.606|-98.663|MX|San Luis Potosí|80
 Tangermünde|52.545|11.976|DE|Saxony-Anhalt|80
 Tangdhār|34.398|73.860|IN|Jammu and Kashmir|80
+Tannadice Park|56.475|-2.969|GB|Scotland|80|f
 Tanhuato de Guerrero|20.285|-102.328|MX|Michoacán|80
 Tangwani|28.279|68.998|PK|Sindh|79
 Tanjung Piandang|5.072|100.381|MY|Perak|78
@@ -122,12 +127,15 @@ Tân Ninh|10.334|106.445|VN|Dong Thap|78
 Tanr Balidih|23.669|86.050|IN|Jharkhand|78
 Tanquinho|-11.979|-39.104|BR|Bahia|78
 Tangapur|16.396|78.627|IN|Telangana|78
+Tanjung Manis Airport|2.178|111.202|MY|Sarawak|78|f
+Tanna|-19.529|169.386|VU|Tafea|78|f
 Tanah Rata|4.464|101.376|MY|Pahang|77
 Tankéssi|7.349|-3.203|CI|Zanzan District|77
 Tanvald|50.737|15.306|CZ|Liberec Region|77
 Tanbi|8.233|-2.574|CI|Zanzan District|77
 Tancítaro|19.337|-102.363|MX|Michoacán|77
 Taneytown|39.658|-77.174|US|Maryland|77
+Tancarville Bridge|49.473|0.464|FR|Normandy|76|f
 Tananger|58.936|5.574|NO|Rogaland|76
 Tanokuchi|35.055|138.097|JP|Shizuoka|76
 Tangerhütte|52.434|11.809|DE|Saxony-Anhalt|76
@@ -138,16 +146,23 @@ Tanque d'Arca|-9.532|-36.433|BR|Alagoas|75
 Tanglewilde|47.051|-122.782|US|Washington|75
 Tanglewilde-Thompson Place|47.051|-122.781|US|Washington|75
 Tanintharyi|12.090|99.012|MM|Tanintharyi Region|75
+Tanda Dam|33.570|71.397|PK|Khyber Pakhtunkhwa|74|f
+Tang-e Ghārō|34.550|69.500|AF|Kabul|74|f
+Tanjung Harapan Airport|2.836|117.374|ID|East Kalimantan|74|f
+Tantallon Castle|56.050|-2.650|GB|Scotland|74|f
 Tannum Sands|-23.947|151.367|AU|Queensland|74
 Tancacha|-32.238|-63.980|AR|Cordoba|74
 Tangbian|22.616|113.840|CN|Guangdong|74
 Tankerton|51.364|1.049|GB|England|74
 Tanaf|12.650|-15.426|SN|Sédhiou|74
 Tann|50.643|10.024|DE|Hesse|73
+Tanga Islands|-3.469|153.218|PG|New Ireland|73|f
+Tanzawa Ōyama Kokutei Kōen|35.467|139.133|JP|Kanagawa|73|f
 Tankamān|35.891|50.615|IR|Alborz Province|73
 Tanunda|-34.523|138.960|AU|South Australia|73
 Tāngi|19.933|85.400|IN|Odisha|73
 Tanna|50.495|11.857|DE|Thuringia|72
+Tanasee Bald|35.292|-82.918|US|North Carolina|72|f
 Tann|48.315|12.893|DE|Bavaria|72
 Tanosso|6.672|-4.267|CI|Comoé District|72
 Tangkou|26.954|119.013|CN|Fujian|72
@@ -160,6 +175,7 @@ Tangal|13.845|120.101|PH|Mimaropa|70
 Tangmere|50.851|-0.716|GB|England|70
 Tanganhuato|18.286|-100.611|MX|Guerrero|70
 Tandoc|15.959|120.329|PH|Ilocos|70
+Tanega Shima|30.595|130.995|JP|Kagoshima|70|f
 Tandragee|54.355|-6.414|GB|Northern Ireland|70
 Tangob|13.887|121.253|PH|Calabarzon|70
 Tansa|46.917|27.233|RO|Iași County|70
@@ -174,6 +190,8 @@ Tannersville|41.040|-75.306|US|Pennsylvania|69
 Tanolong|15.804|120.414|PH|Ilocos|69
 Tangga’an|35.143|102.850|CN|Gansu|69
 Tando Mitha Khan|25.996|69.203|PK|Sindh|69
+Tanaga Island|51.793|-177.929|US|Alaska|69|f
+Tangshan Sannühe Airport|39.721|117.993|CN|Hebei|69|f
 Tano|33.417|134.017|JP|Kochi|68
 Tanza|11.582|122.784|PH|Western Visayas|68
 Tânganu|44.406|26.313|RO|Ilfov|68
@@ -191,6 +209,11 @@ Tân Hiệp|15.950|108.500|VN||66
 Tanais|47.268|39.334|RU|Rostov|66
 Tangoumassou|6.736|-4.672|CI|Lacs District|66
 Tannhausen|48.979|10.361|DE|Baden-Wurttemberg|65
+Tanglewood Island|47.268|-122.642|US|Washington|65|f
+Tanigawa Dake|36.837|138.931|JP|Gunma|65|f
+Tanji-bong|35.782|128.071|KR|Gyeongsangnam-do|65|f
+Tanjung Api Airport|-0.863|121.624|ID|Central Sulawesi|65|f
+Tanzawa Sanchi|35.467|139.133|JP|Kanagawa|65|f
 Tangstedt|53.677|9.849|DE|Schleswig-Holstein|65
 Tangiteroria|-35.817|174.050|NZ|Northland|65
 Tanumshede|58.724|11.326|SE|Västra Götaland|65
@@ -205,6 +228,13 @@ Tancoco|21.286|-97.791|MX|Veracruz|64
 Tannenbergsthal|50.437|12.458|DE|Saxony|64
 Tännesberg|49.532|12.328|DE|Bavaria|64
 Taneatua|-38.067|177.017|NZ|Bay of Plenty|64
+Tanadak Island|51.354|-179.016|US|Alaska|63|f
+Tanafjorden|70.747|28.391|NO|Finnmark|63|f
+Tandai Mount|23.601|121.213|TW|Taiwan|63|f
+Tang-e Sarvak|31.010|50.172|IR|Kohgiluyeh and Boyer-Ahmad|63|f
+Tangorombohitr’ Ankaratra|-19.417|47.200|MG|Vakinankaratra|63|f
+Tanjung Mangkalihat|1.026|118.990|ID|East Kalimantan|63|f
+Tanks Peak|40.426|-108.766|US|Colorado|63|f
 Tangjiafang|26.840|110.365|CN|Hunan|63
 Taneto|44.772|10.456|IT|Emilia-Romagna|63
 Tanute|21.652|-99.038|MX|San Luis Potosí|63
@@ -224,6 +254,16 @@ Tangent|44.541|-123.108|US|Oregon|62
 Tansley|53.132|-1.519|GB|England|62
 Tanlay|47.845|4.085|FR|Bourgogne-Franche-Comté|61
 Tanay|46.345|6.830|CH|Valais|61
+Tanahmerah Bay|-2.428|140.330|ID|Papua|61|f
+Tanegashima Airport|30.605|130.991|JP|Kagoshima|61|f
+Tanera Beg|58.010|-5.445|GB|Scotland|61|f
+Tang-e Qāf|31.734|50.124|IR|Khuzestan|61|f
+Tang-e Sīāh|30.586|50.869|IR|Kohgiluyeh and Boyer-Ahmad|61|f
+Tang-e Tīr|31.482|51.724|IR|Isfahan|61|f
+Tanintharyi Island|12.561|97.875|MM|Tanintharyi Region|61|f
+Tanjung Selatan|-4.160|114.620|ID|South Kalimantan|61|f
+Tankobu Peak|-69.400|39.817|AQ||61|f
+Tanner Island|-54.633|-36.767|GS||61|f
 Tanetze de Zaragoza|17.376|-96.301|MX|Oaxaca|61
 Tannheim|47.499|10.516|AT|Tyrol|61
 Tanou|7.688|-4.926|CI|Vallée du Bandama District|61
@@ -232,11 +272,110 @@ Tankhoy|51.557|105.126|RU|Buryatiya Republic|60
 Tanner|47.475|-121.746|US|Washington|60
 Tankuché|20.508|-90.243|MX|Campeche|60
 Tano Sakassou|7.466|-5.091|CI|Vallée du Bandama District|60
+Tanjung Rhu|6.452|99.820|MY|Kedah|60
+Tanske|48.793|30.391|UA|Cherkasy|60
+Tanem|63.317|10.450|NO|Trøndelag|60
+Tanchanaco|21.667|-99.046|MX|San Luis Potosí|60
+Tantoyuquita|22.542|-98.555|MX|Tamaulipas|60
+Tångaberg|57.174|12.228|SE|Halland|60
+Tantocoy Uno|21.531|-98.991|MX|San Luis Potosí|59
+Tankular|13.418|-16.037|GM|Lower River|59
+Tanque Nuevo|24.382|-100.967|MX|Zacatecas|59
+Tanchachín|21.830|-99.148|MX|San Luis Potosí|59
+Tanya|21.111|-89.248|MX|Yucatán|59
+Tang-e Lateh|36.501|53.096|IR|Māzandarān|59
+Tano Akakro|6.791|-4.588|CI|Lacs District|59
+Tanowo|53.539|14.466|PL|West Pomerania|58
+Tanque de los Ángeles|22.394|-99.923|MX|San Luis Potosí|58
+Tangipahoa|30.876|-90.512|US|Louisiana|58
+Tanugamanono|-13.851|-171.759|WS|Tuamasaga|58
+Tanacross Airport|63.372|-143.339|US|Alaska|58|f
+Tang-e Zard|31.100|50.740|IR|Kohgiluyeh and Boyer-Ahmad|58|f
+Tangoa Island|-15.593|166.991|VU|Sanma|58|f
+Taniantaweng Shan|31.333|98.000|CN||58|f
+Tanner-Hiller Airport|42.356|-72.129|US|Massachusetts|58|f
+Tannheimer Gebirge|47.517|10.617|AT||58|f
+Tân Tiến|18.431|105.796|VN|Hà Tĩnh Province|58
+Tanaunella|40.684|9.725|IT|Sardinia|58
+Tantow|53.272|14.351|DE|Brandenburg|58
 Taniche|16.567|-96.753|MX|Oaxaca|57
+Tanne|51.698|10.722|DE|Saxony-Anhalt|57
+Tangier|37.826|-75.992|US|Virginia|57
+Tanque Colorado|23.535|-100.731|MX|San Luis Potosí|57
+Tanxi|26.314|109.203|CN|Guizhou|57
+Tantóbal|21.784|-98.941|MX|San Luis Potosí|57
+Tanjong Pagar|1.283|103.833|SG||57
+Tangoa|8.273|-5.776|CI|Woroba|56
+Tanca Marchese|39.740|8.607|IT|Sardinia|56
+Tanque el Jagüey|22.115|-100.856|MX|San Luis Potosí|56
+Tantonville|48.470|6.138|FR|Grand Est|56
+Tang Kabūd|33.511|47.152|IR|Lorestan Province|56
+Tanque Blanco|22.954|-99.768|MX|Tamaulipas|56
+Tanleab Uno|21.543|-98.957|MX|San Luis Potosí|56
+Tannay|47.368|3.591|FR|Bourgogne-Franche-Comté|56
+Tanguche|-8.747|-78.522|PE|La Libertad|56
+Tangafla|9.556|-5.940|CI|Savanes District|56
+Tan Jajnec|21.635|-98.894|MX|San Luis Potosí|55
+Tangambalanga|-36.252|147.029|AU|Victoria|55
+Tang Se|13.876|107.353|KH|Ratanakiri|55
+Tanby|-23.233|150.750|AU|Queensland|54
+Tanlacut (Labor Zapata)|21.673|-99.328|MX|San Luis Potosí|54
+Tanus|44.101|2.316|FR|Occitanie|54
+Tanaga Volcano|51.884|-178.141|US|Alaska|54|f
+Tanambogho Island|-9.111|160.185|SB||54|f
+Tancredo Thomas de Faria Airport|-25.387|-51.520|BR|Paraná|54|f
+Tandil Aerodrome|-37.237|-59.228|AR|Buenos Aires|54|f
+Tandubatu Island|5.210|120.277|PH|Autonomous Region in Muslim Mindanao|54|f
+Tanera More|58.009|-5.409|GB|Scotland|54|f
+Tangier Island|37.828|-75.992|US|Virginia|54|f
+Tangjiashan Lake|31.837|104.455|CN|Sichuan|54|f
+Tanglewood Park|35.994|-80.409|US|North Carolina|54|f
+Tank Island|24.562|-81.814|US|Florida|54|f
+Tanner Butte|45.567|-121.907|US|Oregon|54|f
+Tanngarden Peaks|-72.033|23.283|AQ||54|f
+Tanami|-19.983|129.717|AU|Northern Territory|54
+Tanaeang Village|-1.138|174.677|KI|Gilbert Islands|54
+Tanjil South|-38.117|146.250|AU|Victoria|54
+Tannersville|42.196|-74.134|US|New York|54
 Tanta|-12.122|-76.014|PE|Lima region|53
 Tanrake Village|-7.246|177.145|TV|Nui|52
 Tantara|-13.074|-75.645|PE|Huancavelica|52
 Tantamayo|-9.392|-76.720|PE|Huánuco Department|50
+Tana Rapids National Park|15.300|105.477|TH|Ubon Ratchathani|49|f
+Tana River Primate National Reserve|-1.900|40.145|KE|Tana River County|49|f
+Tanagra Airport|38.340|23.565|GR|Central Greece|49|f
+Tanajib Airport|27.867|48.768|SA|Eastern Province|49|f
+Tangahnsee|53.396|12.475|DE|Mecklenburg-Vorpommern|49|f
+Tange Promontory|-67.450|46.750|AQ||49|f
+Tanglefoot Peak|-67.358|-67.529|AQ||49|f
+Tangy Loch Castle|55.491|-5.649|GB|Scotland|49|f
+Tania Park|-33.809|151.267|AU|New South Wales|49|f
+Tanilba Bay|-32.715|152.001|AU|New South Wales|49|f
+Tanis|30.967|31.900|EG|Sharqia|49|f
+Tanjung Ringgit|-8.862|116.594|ID|West Nusa Tenggara|49|f
+Tanquary Fiord Airport|81.411|-76.861|CA|Nunavut|49|f
+Tantalus Peak|-73.883|161.350|AQ||49|f
+Tantamanni|65.600|23.917|SE|Norrbotten|49|f
+Tantangara Dam|-35.797|148.662|AU|New South Wales|49|f
+Tan Tar A Resort Seaplane Base|38.133|-92.734|US|Missouri|40|f
+Tana Glacier|60.615|-142.174|US|Alaska|40|f
+Tana River|-2.599|40.339|KE|Tana River County|40|f
+Tändsticksmuseet|57.785|14.160|SE|Jönköping|40|f
+Tangamong Lake|44.713|-77.837|CA|Ontario|40|f
+Tangier Grand Lake|44.885|-62.817|CA|Nova Scotia|40|f
+Tangier Lake|44.831|-62.731|CA|Nova Scotia|40|f
+Tangle Lakes|63.028|-146.062|US|Alaska|40|f
+Tanglewood Lake|42.231|-74.871|US|New York|40|f
+Tanintharyi Nature Reserve|12.865|99.060|MM|Tanintharyi Region|40|f
+Tankwa Karoo National Park|-32.250|19.750|ZA|Northern Cape|40|f
+Tannensee|46.774|8.306|CH|Obwalden|40|f
+Tanner Hill|43.161|-75.065|US|New York|40|f
+Tanner Park|40.658|-73.396|US|New York|40|f
+Tanner Springs Park|45.531|-122.682|US|Oregon|40|f
+Tannhorn|46.775|7.985|CH|Bern|40|f
+Tanquary Fiord|81.085|-79.747|CA|Nunavut|40|f
+Tantalus Park|49.841|-123.286|CA|British Columbia|40|f
+Tantalus Range|49.816|-123.303|CA|British Columbia|40|f
 Tandel|49.898|6.183|LU|Vianden|39
 Tanggul|-8.165|113.453|ID|East Java|10
 Tân Biên|11.544|106.012|VN|Tay Ninh|0
@@ -256,55 +395,236 @@ Tân Túc|10.695|106.591|VN|Ho Chi Minh City (HCMC)|0
 Tân Việt|22.864|105.459|VN|Cao Bằng Province|0
 Tana Bru|70.199|28.192|NO|Finnmark|0
 Tana Paser|-1.905|116.191|ID|East Kalimantan|0
+Tanabara|-9.691|120.292|ID|East Nusa Tenggara|0
+Tanagara|-6.265|106.095|ID|Banten|0
 Tanah Merah|-6.098|140.306|ID|South Papua|0
 Tanah Merah|3.632|97.702|ID|Aceh|0
+Tanahbeureum|-7.107|106.964|ID|West Java|0
+Tanahedang|-8.553|122.903|ID|East Nusa Tenggara|0
+Tanahmerah|-7.134|113.571|ID|East Java|0
+Tanahmerah|-6.912|113.106|ID|East Java|0
+Tanahpukang|-8.316|123.150|ID|East Nusa Tenggara|0
+Tanahputih|-8.310|120.483|ID|East Nusa Tenggara|0
+Tanahsong Daya|-8.351|116.168|ID|West Nusa Tenggara|0
 Tanahwangko|1.394|124.682|ID|North Sulawesi|0
+Tanahwulan|-8.029|113.759|ID|East Java|0
+Tanahwurung|-9.694|120.276|ID|East Nusa Tenggara|0
+Tanakawu Dua|-8.774|116.268|ID|West Nusa Tenggara|0
+Tanakbeak Daye|-8.607|116.203|ID|West Nusa Tenggara|0
+Tanakereket|-8.361|123.502|ID|East Nusa Tenggara|0
+Tanaktepong|-8.596|116.211|ID|West Nusa Tenggara|0
+Tanalodu|-8.791|120.974|ID|East Nusa Tenggara|0
 Tanalt|29.775|-9.168|MA|Souss-Massa|0
+Tanamera|-7.077|114.337|ID|East Java|0
+Tanamiting|-9.702|120.492|ID|East Nusa Tenggara|0
+Tanarara|-9.634|119.545|ID|East Nusa Tenggara|0
+Tanarara Timur|-10.011|120.295|ID|East Nusa Tenggara|0
+Tanatoku|-9.521|119.539|ID|East Nusa Tenggara|0
+Tanba|21.446|110.855|CN|Guangdong|0
+Tanbin|22.818|111.396|CN|Guangdong|0
+Tanbira|-10.208|123.885|ID|East Nusa Tenggara|0
+Tanbu|28.116|114.216|CN|Jiangxi|0
+Tanbu|23.337|113.101|CN|Guangdong|0
+Tanbu|23.623|112.560|CN|Guangdong|0
+Tanbuqiao|29.007|117.630|CN|Jiangxi|0
 Tancheng|34.615|118.338|CN|Shandong|0
+Tancheng|27.438|115.498|CN|Jiangxi|0
 Tancheng|25.508|119.807|CN|Fujian|0
 Tancung|-4.053|120.029|ID|South Sulawesi|0
+Tandes|-7.158|113.541|ID|East Java|0
+Tandian|33.376|113.926|CN|Henan|0
 Tando Zinze|-5.367|12.500|AO|Cabinda|0
+Tandou|20.527|109.896|CN|Guangdong|0
+Tanenofunan|-10.270|123.675|ID|East Nusa Tenggara|0
+Tang’ao|28.393|108.813|CN|Chongqing|0
 Tangalan|11.779|122.263|PH|Western Visayas|0
+Tangang|27.417|115.753|CN|Jiangxi|0
 Tangantangancut|3.688|96.890|ID|Aceh|0
+Tangba|29.005|108.233|CN|Guizhou|0
+Tangban|29.684|118.914|CN|Zhejiang|0
+Tangbao|24.874|116.812|CN|Fujian|0
+Tangchi|46.981|123.764|CN|Heilongjiang|0
+Tangchi|40.530|122.623|CN|Liaoning|0
+Tangchi|30.910|113.343|CN|Hubei|0
+Tangchijie|24.962|103.034|CN|Yunnan|0
+Tangchuan|26.115|118.426|CN|Fujian|0
+Tangcun|29.806|118.849|CN|Zhejiang|0
+Tangcun|29.287|119.299|CN|Zhejiang|0
+Tangcun|25.541|115.342|CN|Jiangxi|0
+Tangcun|34.525|107.308|CN|Shaanxi|0
+Tangdi|31.239|113.587|CN|Hubei|0
 Tangdong|26.002|113.254|CN|Hunan|0
 Tangdukou|26.966|111.241|CN|Hunan|0
+Tangezhuang|37.119|120.592|CN|Shandong|0
+Tangfang|34.237|108.362|CN|Shaanxi|0
+Tangfang|26.622|116.483|CN|Jiangxi|0
+Tangfang|45.909|127.057|CN|Heilongjiang|0
 Tangga|-8.656|118.694|ID|West Nusa Tenggara|0
+Tanggan|35.204|100.412|CN|Qinghai|0
 Tanggeung|-7.268|107.124|ID|West Java|0
+Tanggeung Kolot|-7.276|107.133|ID|West Java|0
+Tanggir Timur|-6.981|111.759|ID|East Java|0
+Tanggou|40.600|123.610|CN|Liaoning|0
+Tangguhang|-10.153|120.628|ID|East Nusa Tenggara|0
+Tanggul Kulon|-8.165|113.448|ID|East Java|0
+Tanggul Wetan|-8.172|113.471|ID|East Java|0
+Tanggulangin|-8.085|111.926|ID|East Java|0
+Tanggulangin|-6.763|111.613|ID|Central Java|0
+Tanggung|-8.171|112.677|ID|East Java|0
+Tanggung|-8.132|111.889|ID|East Java|0
+Tanggung|-6.567|111.041|ID|Central Java|0
+Tanggung|-6.936|111.693|ID|East Java|0
 Tanggunggunung|-8.219|111.876|ID|East Java|0
+Tanggungrejo|-6.994|111.852|ID|East Java|0
+Tangguwisia|-8.198|114.947|ID|Bali|0
+Tanghekou|40.735|116.637|CN|Beijing|0
 Tanghin-Dassouri|12.273|-1.717|BF|Centre|0
+Tanghu|29.214|113.983|CN|Hubei|0
+Tanghua|29.370|111.865|CN|Hunan|0
+Tanghui|30.795|120.772|CN|Zhejiang|0
+Tangjia|20.843|109.847|CN|Guangdong|0
+Tangjiakou|39.127|117.237|CN|Tianjin|0
+Tangjian|34.133|119.004|CN|Jiangsu|0
+Tangjiapo|37.224|120.986|CN|Shandong|0
+Tangjiawan|22.361|113.596|CN|Guangdong|0
+Tangjie|33.898|113.315|CN|Henan|0
+Tangkanpulit|-8.660|117.174|ID|West Nusa Tenggara|0
+Tangkeng|23.759|116.171|CN|Guangdong|0
+Tangkil|-6.315|105.850|ID|Banten|0
+Tangkilsari|-8.060|112.653|ID|East Java|0
+Tangkolo|-7.159|108.511|ID|West Java|0
+Tangkou|21.832|111.573|CN|Guangdong|0
+Tangkou|22.368|112.617|CN|Guangdong|0
+Tangkou|30.081|118.185|CN|Anhui|0
+Tangkup|-7.933|114.372|ID|East Java|0
+Tanglad|-8.774|115.583|ID|Bali|0
+Tanglag|33.997|99.446|CN|Qinghai|0
+Tangnaihai|35.514|100.131|CN|Qinghai|0
+Tangnan|23.724|116.201|CN|Guangdong|0
+Tangnan|31.414|118.658|CN|Anhui|0
+Tangnanzhen|28.658|116.136|CN|Jiangxi|0
 Tango|-8.094|15.635|AO|Cuanza Norte|0
+Tangpeng|21.794|110.112|CN|Guangdong|0
+Tangpu|29.861|120.784|CN|Zhejiang|0
+Tangpu|28.444|114.985|CN|Jiangxi|0
+Tangqi|30.478|120.181|CN|Zhejiang|0
+Tangqian|25.866|119.149|CN|Fujian|0
+Tangquan|32.092|118.507|CN|Jiangsu|0
 Tangratte|-3.050|119.764|ID|South Sulawesi|0
 Tangse|5.014|95.915|ID|Aceh|0
+Tangshan|29.496|115.497|CN|Jiangxi|0
+Tangsi|-7.348|108.308|ID|West Java|0
+Tangtang|23.743|113.467|CN|Guangdong|0
+Tangtou|25.806|118.132|CN|Fujian|0
+Tangtou|29.670|121.713|CN|Zhejiang|0
+Tangtu|41.827|124.337|CN|Liaoning|0
+Tangtuzhui|21.474|110.538|CN|Guangdong|0
+Tangulun|-7.069|107.920|ID|West Java|0
 Tangvall|58.098|7.815|NO|Agder|0
+Tangwan|28.076|117.222|CN|Jiangxi|0
+Tangwang|32.370|119.460|CN|Jiangsu|0
+Tangwang|46.608|129.742|CN|Heilongjiang|0
+Tangwei|21.395|110.728|CN|Guangdong|0
+Tangwu|29.346|118.480|CN|Zhejiang|0
+Tangxi|29.052|119.398|CN|Zhejiang|0
+Tangxi|23.901|116.863|CN|Guangdong|0
+Tangxi|23.758|116.153|CN|Guangdong|0
+Tangxia|22.682|113.032|CN|Guangdong|0
+Tangxia|22.808|114.096|CN|Guangdong|0
+Tangxian|31.979|113.114|CN|Hubei|0
 Tangxing|35.745|111.699|CN|Shanxi|0
+Tangyang|32.637|120.691|CN|Jiangsu|0
 Tangyin|35.921|114.358|CN|Henan|0
+Tangyin|27.494|116.304|CN|Jiangxi|0
+Tangyu|34.018|109.214|CN|Shaanxi|0
+Tangyu|34.149|107.873|CN|Shaanxi|0
 Tangyuan|46.728|129.898|CN|Heilongjiang|0
+Tangzang|34.091|106.584|CN|Shaanxi|0
+Tangzha|32.064|120.804|CN|Jiangsu|0
+Tangzhuang|33.103|112.948|CN|Henan|0
+Tangzhuang|32.769|119.738|CN|Jiangsu|0
+Tangzi|32.936|120.082|CN|Jiangsu|0
 Tánh Linh|11.084|107.681|VN|Lam Dong|0
 Tanhyeon|37.802|126.716|KR|Gyeonggi-do|0
 Tanicuchí|-0.781|-78.638|EC|Cotopaxi|0
 Taniwel|-2.852|128.477|ID|Maluku|0
 Tanır|38.419|36.912|TR|Kahramanmaraş|0
+Tanjang|-6.808|111.821|ID|East Java|0
+Tanjia|34.332|108.968|CN|Shaanxi|0
+Tanjiahe|31.902|113.964|CN|Henan|0
+Tanjiang|24.098|116.522|CN|Guangdong|0
+Tanjiaqiao|30.174|118.268|CN|Anhui|0
 Tanjung|-8.356|116.156|ID|West Nusa Tenggara|0
 Tanjung|4.015|108.343|ID|Riau Islands|0
+Tanjung|-7.115|112.387|ID|East Java|0
+Tanjung|-8.098|113.156|ID|East Java|0
+Tanjung|-8.200|111.640|ID|East Java|0
+Tanjung|-8.757|115.534|ID|Bali|0
+Tanjung Kidul|-7.721|113.498|ID|East Java|0
 Tanjung Lubuk|-3.527|104.759|ID|South Sumatra|0
 Tanjung Lubuk|-3.360|104.843|ID|South Sumatra|0
+Tanjung Lumba-lumba|2.088|100.650|ID|Riau|0
 Tanjung Mas|-0.497|100.773|ID|West Sumatra|0
+Tanjung Palas|1.679|101.470|ID|Riau|0
 Tanjung Palas|2.830|117.343|ID|North Kalimantan|0
+Tanjung Timur|-7.187|111.499|ID|Central Java|0
+Tanjung Utara|-6.817|111.370|ID|Central Java|0
 Tanjungampalu|-0.622|100.825|ID|West Sumatra|0
 Tanjungampalu|-0.639|100.828|ID|West Sumatra|0
+Tanjungan|-6.824|105.827|ID|Banten|0
+Tanjungan|-6.708|111.636|ID|Central Java|0
+Tanjungbahagia|-8.299|123.358|ID|East Nusa Tenggara|0
 Tanjungbatu|-3.000|116.223|ID|South Kalimantan|0
 Tanjungbatu|0.659|103.462|ID|Riau Islands|0
+Tanjungbatu|-8.269|123.466|ID|East Nusa Tenggara|0
 Tanjungbumi|-6.891|113.080|ID|East Java|0
 Tanjunggadang|-0.778|101.198|ID|West Sumatra|0
 Tanjunggadang|-0.301|100.738|ID|West Sumatra|0
+Tanjunghurip|-7.143|108.164|ID|West Java|0
 Tanjungjaya|-7.388|108.121|ID|West Java|0
+Tanjungjaya|-7.169|108.349|ID|West Java|0
+Tanjungjaya|-7.177|108.452|ID|West Java|0
+Tanjungkerta|-7.070|108.677|ID|West Java|0
+Tanjungluar|-8.775|116.518|ID|West Nusa Tenggara|0
 Tanjungpati|-0.160|100.680|ID|West Sumatra|0
+Tanjungpecinan Utara|-7.633|114.034|ID|East Java|0
 Tanjungraja|-3.337|104.775|ID|South Sumatra|0
+Tanjungrejo Lor|-8.266|113.307|ID|East Java|0
 Tanjungsakti|-4.168|103.069|ID|South Sumatra|0
 Tanjungsamalantakan|-2.582|116.410|ID|South Kalimantan|0
+Tanjungsari|-6.708|111.554|ID|Central Java|0
+Tanjungsari|-7.301|108.768|ID|Central Java|0
+Tanjungsari Barat|-7.661|114.049|ID|East Java|0
+Tanlin|30.521|115.849|CN|Hubei|0
+Tanniu|19.712|110.731|CN|Hainan|0
+Tanqiao|30.165|112.296|CN|Hubei|0
+Tanqiu|27.631|115.597|CN|Jiangxi|0
+Tanshan|36.377|106.305|CN|Ningxia|0
+Tanshan|28.544|114.752|CN|Jiangxi|0
+Tanshan|24.031|116.588|CN|Guangdong|0
+Tanshan|33.028|111.122|CN|Hubei|0
+Tanshang|38.958|113.171|CN|Shanxi|0
+Tanshi|28.715|118.493|CN|Zhejiang|0
+Tanshui|22.047|111.601|CN|Guangdong|0
 Tanta|-2.228|115.452|ID|South Kalimantan|0
+Tantou|29.112|121.119|CN|Zhejiang|0
+Tantou|28.283|104.267|CN|Yunnan|0
+Tantou|27.264|111.144|CN|Hunan|0
+Tantou|26.837|115.490|CN|Jiangxi|0
+Tantou|22.184|110.857|CN|Guangdong|0
+Tantou|27.205|119.661|CN|Fujian|0
+Tantouchang|28.309|104.285|CN|Yunnan|0
+Tantu|46.185|123.342|CN|Jilin|0
 Tanudan|17.296|121.238|PH|Cordillera|0
 Tanusan|-3.134|133.647|ID|West Papua|0
+Tanuwore|-8.280|123.199|ID|East Nusa Tenggara|0
+Tanxi|28.984|115.635|CN|Jiangxi|0
+Tanxi|28.267|109.950|CN|Hunan|0
+Tanxi|22.936|115.562|CN|Guangdong|0
+Tanxi|29.628|119.943|CN|Zhejiang|0
+Tanxi|27.289|116.937|CN|Jiangxi|0
+Tanxia|23.945|115.535|CN|Guangdong|0
 Tanyeri|39.611|39.832|TR|Erzincan|0
 Tanyeri|39.602|39.897|TR|Erzincan|0
 Tanza|14.398|120.855|PH|Calabarzon|0
+Tanzhesi|39.872|116.028|CN|Beijing|0

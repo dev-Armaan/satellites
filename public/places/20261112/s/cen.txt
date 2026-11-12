@@ -6,27 +6,27 @@ Central Visayas|10.358|123.871|PH||134|r
 Central Serbia|44.000|21.000|RS||131|r
 Centre|12.379|-1.533|BF||129|r
 Central District|32.083|34.917|IL||127|r
-Centre-Val de Loire|47.500|1.750|FR||126|r
-Centre|4.750|11.833|CM||125|r
+Centre-Val de Loire|47.500|1.750|FR||127|r
 Central Macedonia|40.914|22.841|GR||125|r
+Centre|4.750|11.833|CM||125|r
 Central Region|-13.500|34.000|MW||123|r
 Central Department|-25.533|-57.467|PY||122|r
+Central Bohemia|50.127|14.196|CZ||121|r
 Central Jutland|56.167|9.500|DK||121|r
 Central and Western|22.282|114.145|HK||121|r
-Central Bohemia|50.127|14.196|CZ||120|r
 Central|5.500|-1.000|GH||118|r
 Central Ethiopia Regional State|7.556|37.826|ET||118|r
 Central Sulawesi|-0.917|122.354|ID||118|r
 Central Equatoria|4.750|31.000|SS||117|r
 Central Kalimantan|-2.000|113.500|ID||117|r
 Central Province|-14.000|29.000|ZM||114|r
-Central Greece|38.352|23.140|GR||113|r
+Central Greece|38.352|23.140|GR||114|r
 Centre-Ouest|12.255|-2.369|BF||112|r
 Central|-22.000|26.000|BW||112|r
 Centre-Est|11.789|-0.357|BF||111|r
 Central Coast|-33.430|151.371|AU|New South Wales|111
 Centre-Nord|13.098|-1.085|BF||110|r
-Central Finland|62.500|25.500|FI||109|r
+Central Finland|62.500|25.500|FI||110|r
 Central Province|7.333|80.750|LK||109|r
 Central Papua|-3.364|135.512|ID||109|r
 Centurion|-25.859|28.186|ZA|Gauteng|107
@@ -39,7 +39,7 @@ Centre-Sud|11.671|-1.074|BF||100|r
 Centro|28.127|-15.431|ES|Canary Islands|99
 Central Ostrobothnia|63.583|24.083|FI||98|r
 Centreville|38.840|-77.429|US|Virginia|97
-Central River|13.583|-14.917|GM||95|r
+Central River|13.583|-14.917|GM||97|r
 Central City|33.440|-112.058|US|Arizona|95
 Center City|39.951|-75.159|US|Pennsylvania|95
 Centre|19.000|-72.000|HT||94|r
@@ -59,6 +59,7 @@ Centereach|40.858|-73.100|US|New York|90
 Central|30.554|-91.037|US|Louisiana|89
 Central 14th Street / Spring Road|38.937|-77.033|US|District of Columbia|88
 Centretown|45.415|-75.696|CA|Ontario|88
+Central Park|40.782|-73.965|US|New York|88|f
 Centerville|39.628|-84.159|US|Ohio|88
 Cenon|44.856|-0.534|FR|New Aquitaine|87
 Central St. John's|47.573|-52.719|CA|Newfoundland and Labrador|87
@@ -88,20 +89,26 @@ Central 14th Street / WMATA Northern Bus Barn|38.945|-77.033|US|District of Colu
 Central|22.283|114.158|HK|Central and Western|81
 Centenário do Sul|-22.821|-51.595|BR|Paraná|81
 Centreville Chicopee|43.436|-80.428|CA|Ontario|80
+Centraal Museum|52.084|5.126|NL|Utrecht|80|f
 Centralina|-18.584|-49.199|BR|Minas Gerais|80
 Centerville|41.649|-70.348|US|Massachusetts|79
 Centobuchi|42.895|13.848|IT|The Marches|78
 Center Line|42.485|-83.028|US|Michigan|78
 Centennial Place|46.083|-64.817|CA|New Brunswick|78
+Central Makran Range|26.667|64.500|PK|Balochistan|78|f
 Center Moriches|40.800|-72.790|US|New York|78
 Centerville|32.630|-83.690|US|Georgia|78
 Centelles|41.797|2.219|ES|Catalonia|77
 Central do Maranhão|-2.199|-44.826|BR|Maranhão|77
 Central York|46.005|-66.908|CA|New Brunswick|77
 Centerville|34.532|-82.704|US|South Carolina|76
+Central Airport|65.574|-144.783|US|Alaska|76|f
+Central Mountain Range|23.181|120.892|TW|Takao|76|f
+Central Wisconsin Airport|44.778|-89.666|US|Wisconsin|76|f
 Cenes de la Vega|37.160|-3.535|ES|Andalusia|76
 Central de Minas|-18.762|-41.306|BR|Minas Gerais|76
 Central City|37.294|-87.123|US|Kentucky|75
+Central Nebraska Regional Airport|40.967|-98.309|US|Nebraska|75|f
 Centerville|42.093|-93.936|US|Iowa|75
 Center|31.511|-96.425|US|Texas|75
 Cenxi|28.338|109.109|CN|Chongqing|75
@@ -115,6 +122,7 @@ Central|34.724|-82.781|US|South Carolina|74
 Centreville|38.583|-90.125|US|Illinois|74
 Centuripe|37.623|14.740|IT|Sicily|74
 Cenei|45.716|20.904|RO|Timiș County|74
+Central Jersey Regional Airport|40.525|-74.598|US|New Jersey|73|f
 Centreville|39.042|-76.066|US|Maryland|73
 Central Gardens|29.995|-94.014|US|Texas|73
 Century City|-33.891|18.513|ZA|Western Cape|73
@@ -123,16 +131,21 @@ Centralia|39.210|-92.138|US|Missouri|72
 Centallo|44.502|7.588|IT|Piedmont|72
 Centerville|45.163|-93.056|US|Minnesota|72
 Cene|45.781|9.827|IT|Lombardy|72
+Center Island Airport|48.490|-122.832|US|Washington|71|f
 Centerville|35.779|-87.467|US|Tennessee|71
 Centre|34.152|-85.679|US|Alabama|71
 Centenary|-16.723|31.115|ZW|Mashonaland Central|71
 Cenotillo|20.966|-88.605|MX|Yucatán|70
 Čenta|45.108|20.389|RS|Vojvodina|70
 Centerville|40.045|-79.976|US|Pennsylvania|70
+Centralia Municipal Airport|38.515|-89.092|US|Illinois|70|f
+Centre Island|22.439|114.222|HK||70|f
 Central Waterford|41.345|-72.129|US|Connecticut|69
 Central City|41.116|-98.002|US|Nebraska|69
 Centenário|-27.761|-51.999|BR|Rio Grande do Sul|69
 Centreville|32.946|-87.117|US|Alabama|69
+Cenderawasih Bay|-2.250|135.250|ID|Papua|69|f
+Center Island|48.490|-122.832|US|Washington|69|f
 Cenate di Sotto|45.699|9.826|IT|Lombardy|69
 Central|35.804|-89.537|US|Tennessee|69
 Central Park|46.973|-123.692|US|Washington|69
@@ -142,8 +155,11 @@ Central Heights-Midland City|33.404|-110.815|US|Arizona|68
 Center Point|42.191|-91.785|US|Iowa|68
 Centro de Readaptación Social|19.625|-97.220|MX|Veracruz|68
 Central|36.326|-82.290|US|Tennessee|67
+Cengiz Topel Naval Air Station|40.735|30.083|TR|Kocaeli|67|f
+Central Illinois Regional Airport at Bloomington-Normal|40.483|-88.914|US|Illinois|67|f
 Center|37.753|-106.109|US|Colorado|67
 Centro de Readaptación Social Nuevo|31.184|-110.968|MX|Sonora|67
+Central Province|-10.000|148.000|PG||67|r
 Cendras|44.150|4.067|FR|Occitanie|67
 Centenário|-8.951|-47.336|BR|Tocantins|67
 Centro1, Santa. Rosa 1, Baco, Oriental Mindoro|13.374|121.063|PH|Mimaropa|67
@@ -154,6 +170,8 @@ Centerburg|40.305|-82.696|US|Ohio|66
 Cenicero|42.481|-2.644|ES|La Rioja|66
 Centinarola|43.831|12.990|IT|The Marches|66
 Cénac|44.780|-0.461|FR|New Aquitaine|65
+Centenary Airport|-16.734|31.122|ZW|Mashonaland Central|65|f
+Central Colorado Regional Airport|38.813|-106.120|US|Colorado|65|f
 Cenon-sur-Vienne|46.774|0.537|FR|New Aquitaine|65
 Central Square|43.287|-76.146|US|New York|65
 Central Valley|41.332|-74.121|US|New York|65
@@ -162,10 +180,11 @@ Central Province|-9.097|160.241|SB||65|r
 Centane|-32.506|28.316|ZA|Eastern Cape|65
 Centro de Readaptación Social|18.137|-94.519|MX|Veracruz|65
 Central Aguirre|17.954|-66.223|PR|Salinas|64
-Central Province|-10.000|148.000|PG||64|r
 Centreville|31.090|-91.068|US|Mississippi|64
 Cenlle|42.342|-8.090|ES|Galicia|64
 Centro Histórico|14.895|-24.499|CV|São Filipe|63
+Centennial Hall|51.107|17.077|PL|Lower Silesia|63|f
+Central Maine Airport of Norridgewock|44.717|-69.863|US|Maine|63|f
 Centreville|41.923|-85.528|US|Michigan|63
 Cenderiang|4.267|101.233|MY|Perak|63
 Centerfield|39.125|-111.819|US|Utah|63
@@ -184,6 +203,8 @@ Cencenighe Agordino|46.352|11.968|IT|Veneto|61
 Centreville|45.133|-64.532|CA|Nova Scotia|61
 Cénac|44.800|1.204|FR|New Aquitaine|61
 Central City|38.549|-89.127|US|Illinois|61
+Centennial Park|-33.898|151.235|AU|New South Wales|61|f
+Centralia/James T. Field Memorial Aerodrome|43.286|-81.508|CA|Ontario|61|f
 Centreville-Wareham-Trinity|49.011|-53.889|CA|Newfoundland and Labrador|61
 Čenkovce|48.106|17.430|SK|Trnava Region|61
 Centerfield|40.691|-111.898|US|Utah|61
@@ -194,24 +215,114 @@ Center Harbor|43.710|-71.460|US|New Hampshire|61
 Centro de Readaptación Social|18.838|-96.939|MX|Veracruz|60
 Cenobio Aguilar (La Trinidad)|17.405|-92.319|MX|Chiapas|60
 Cenade|46.050|24.017|RO|Alba County|60
+Centro Tre Denari|41.916|12.200|IT|Lazio|60
+Centenario|18.651|-90.286|MX|Campeche|59
+Central Lake|45.070|-85.265|US|Michigan|59
 Ceneselli|45.014|11.369|IT|Veneto|59
+Centuria|45.451|-92.554|US|Wisconsin|59
+Çenger|36.690|31.624|TR|Antalya|59
 Centerville|31.258|-95.978|US|Texas|59
+Centerville|43.119|-96.961|US|South Dakota|59
+Čentiba|46.556|16.497|SI|Municipality of Lendava|58
+Centro de Readaptación Social Piedras Negras|28.773|-100.603|MX|Coahuila|58
+Centre Airpark|40.812|-77.657|US|Pennsylvania|58|f
+Centre Covered Bridge|44.544|-72.002|US|Vermont|58|f
+Centre Island|-51.423|-58.308|FK||58|f
+Centre Pompidou-Metz|49.108|6.182|FR|Grand Est|58|f
+Centurion Glacier|-68.203|-66.910|AQ||58|f
+Centennial Park|-35.015|117.881|AU|Western Australia|58
+Centro Chich|17.170|-92.153|MX|Chiapas|58
 Central City|39.802|-105.514|US|Colorado|57
+Ceniga|45.951|10.901|IT|Trentino-Alto Adige|57
+Center Valley|40.529|-75.393|US|Pennsylvania|57
+Centro Habitacional Burócratas de Guadalupe|25.637|-100.153|MX|Nuevo León|56
+Centro (Cidade)|15.096|-23.666|CV|Santa Catarina|56
+Central|32.868|-109.793|US|Arizona|56
 Center City|45.394|-92.817|US|Minnesota|56
+Centrès|44.164|2.409|FR|Occitanie|56
+Central|37.417|-113.624|US|Utah|56
+Cenoví|19.255|-70.368|DO|Duarte Province|56
+Central Bridge|42.711|-74.339|US|New York|55
+Cendrieux|44.996|0.824|FR|New Aquitaine|55
 Center|47.116|-101.300|US|North Dakota|55
+Center Ossipee|43.755|-71.152|US|New Hampshire|55
+Central Valley|38.704|-112.099|US|Utah|55
 Centro Urbano|40.820|15.320|IT|Campania|54
+Cenej Airport|45.386|19.839|RS|Vojvodina|54|f
+Centennial Park|36.151|-86.811|US|Tennessee|54|f
+Center for Fine Arts|50.844|4.360|BE|Brussels Capital|54|f
+Center Hill Lake|35.904|-85.740|US|Tennessee|54|f
+Centerville Municipal Airport|35.836|-87.445|US|Tennessee|54|f
+Centocelle Airport|41.873|12.564|IT|Lazio|54|f
+Central Florida Zoo and Botanical Gardens|28.828|-81.316|US|Florida|54|f
+Central Masson Range|-67.828|62.858|AQ||54|f
+Central Mount Stuart|-21.906|133.451|AU|Northern Territory|54|f
+Centre Island|-51.945|-58.567|FK||54|f
+Centralia|39.726|-96.127|US|Kansas|54
+Centreville|46.430|-67.711|CA|New Brunswick|54
+Center|39.508|-91.529|US|Missouri|54
 Cenadi|38.719|16.416|IT|Calabria|54
 Centrache|38.729|16.431|IT|Calabria|51
+Centenary Park|-33.826|150.971|AU|New South Wales|49|f
+Centennial Bridge|39.330|-94.909|US|Kansas|49|f
+Center Baldy|33.303|-108.639|US|New Mexico|49|f
+Center Peak|36.722|-118.362|US|California|49|f
+Centerville Municipal Airport|40.689|-92.901|US|Iowa|49|f
+Central Aisle Ridge|-78.350|163.300|AQ||49|f
+Central de Capanda|-9.795|15.467|AO||49|f
+Central Deborah|-36.765|144.270|AU|Victoria|49|f
+Central Island|3.495|36.038|KE|Turkana County|49|f
+Central of Georgia Depot|31.307|-86.481|US|Alabama|49|f
+Central Range|10.326|119.067|PH|Mimaropa|49|f
+Central Zoo|27.673|85.311|NP|Bagmati Province|49|f
+Centre des Arts et de la Culture du Palais des Raïs|36.788|3.064|DZ|Algiers|49|f
+Centre Island|-15.683|136.767|AU|Northern Territory|49|f
+Centre Island|63.667|-91.500|CA|Nunavut|49|f
+Centre-Piedmont-Cherokee County Regional Airport|34.090|-85.614|US|Alabama|49|f
+Centro Português de Fotografia|41.145|-8.616|PT|Porto|49|f
+Century Mine Airport|-18.756|138.707|AU|Queensland|49|f
 Centerville|37.435|-90.958|US|Missouri|45
 Centa San Nicolò|45.969|11.232|IT|Trentino-Alto Adige|44
 Centrale|46.161|11.303|IT|Trentino-Alto Adige|43
+Cenacolo di Sant'Apollonia|43.779|11.256|IT|Tuscany|40|f
+Censi|46.327|11.537|IT|Trentino-Alto Adige|40|f
+Centenary State Historic State|30.843|-91.211|US|Louisiana|40|f
+Centennial Bridge|41.514|-90.581|US|Illinois|40|f
+Centennial Lake|47.914|-84.714|CA|Ontario|40|f
+Centennial Olympic Park|33.762|-84.393|US|Georgia|40|f
+Centennial Peak|-84.950|-174.000|AQ||40|f
+Centennial Peak|36.628|-118.490|US|California|40|f
+Centennial Range|60.966|-140.654|CA|Yukon|40|f
+Center Arbor|35.912|-80.620|US|North Carolina|40|f
+Center Branch Wildlife Management Area|39.231|-80.327|US|West Virginia|40|f
+Center Point Covered Bridge|39.390|-80.634|US|West Virginia|40|f
+Central Arizona Project Aqueduct|34.286|-114.104|US|Arizona|40|f
+Central Coast Stadium|-33.428|151.338|AU|New South Wales|40|f
+Central Lakes|47.292|-92.476|US|Minnesota|40|f
+Central Mountain|41.300|-76.346|US|Pennsylvania|40|f
+Central Nevada Museum|38.060|-117.221|US|Nevada|40|f
+Central Park|56.109|-3.347|GB|Scotland|40|f
+Central Park|38.230|-85.762|US|Kentucky|40|f
+Central Park|37.561|-122.322|US|California|40|f
+Central Park Zoo|40.768|-73.972|US|New York|40|f
+Central Texas Museum of Automotive History|29.881|-97.324|US|Texas|40|f
+Centro de Interpretação da Batalha de Aljubarrota|39.634|-8.848|PT|Leiria|40|f
 Centenera|40.651|-3.051|ES|Castille-La Mancha|40
 Center|42.609|-97.877|US|Nebraska|39
 Cendejas de la Torre|40.979|-2.851|ES|Castille-La Mancha|36
 Cengio Alto|44.384|8.198|IT|Liguria|35
 Centenera de Andaluz|41.507|-2.718|ES|Castille and León|27
+Cendagah|-6.957|112.853|ID|East Java|0
+Cendoro Utara|-6.929|112.135|ID|East Java|0
+Cengang|30.078|121.996|CN|Zhejiang|0
 Cengerli|39.794|38.848|TR|Erzincan|0
+Cengjia|29.020|115.223|CN|Jiangxi|0
+Cengjiawan|29.420|109.375|CN|Hunan|0
+Cengkok|-8.241|113.197|ID|East Java|0
+Cengungklung|-7.139|111.714|ID|East Java|0
+Cenhe|30.271|112.370|CN|Hubei|0
 Cenicientos|40.265|-4.467|ES|Madrid|0
+Cennan|29.750|111.769|CN|Hunan|0
 Central Andros|24.439|-77.952|BS||0|r
 Central Eleuthera|25.135|-76.146|BS||0|r
 Cenxi|22.923|110.984|CN|Guangxi|0

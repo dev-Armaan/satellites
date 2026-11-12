@@ -43,6 +43,7 @@ Bentong Town|3.522|101.909|MY|Pahang|94
 Bentonville|36.373|-94.209|US|Arkansas|93
 Benjamin Constant|-4.376|-70.032|BR|Amazonas|93
 Bensheim|49.684|8.618|DE|Hesse|92
+Ben Gurion Airport|32.014|34.887|IL|Central District|92|f
 Bentung|3.532|101.904|MY|Pahang|92
 Beni Saf|35.301|-1.382|DZ|Aïn Témouchent|92
 Benoa|-8.755|115.218|ID|Bali|92
@@ -59,6 +60,7 @@ Bendale|43.767|-79.253|CA|Ontario|90
 Ben Mehidi|36.770|7.906|DZ|El Tarf|89
 Benicia|38.049|-122.159|US|California|89
 Benicarló|40.416|0.427|ES|Valencia|89
+Benina International Airport|32.097|20.269|LY|Banghazi|87|f
 Benbrook|32.673|-97.461|US|Texas|87
 Beni Khiar|36.469|10.782|TN|Nabeul Governorate|87
 Bensekrane|35.075|-1.224|DZ|Tlemcen|87
@@ -68,6 +70,7 @@ Benavente|42.002|-5.678|ES|Castille and León|86
 Benthuizen|52.078|4.544|NL|South Holland|86
 Bensenville|41.955|-87.940|US|Illinois|85
 Beni Amrane|36.668|3.591|DZ|Boumerdes|85
+Bender Qassim International Airport|11.275|49.149|SO|Bari|85|f
 Benicàssim|40.050|0.067|ES|Valencia|85
 Bentleigh|-37.918|145.035|AU|Victoria|85
 Bendorf|50.423|7.579|DE|Rheinland-Pfalz|85
@@ -82,6 +85,9 @@ Bennekom|51.998|5.676|NL|Gelderland|84
 Benito Juárez|22.203|-97.840|MX|Veracruz|84
 Benito Juárez|17.833|-92.530|MX|Tabasco|83
 Bennane Bodheur|35.675|10.836|TN|Monastir Governorate|83
+Ben Nevis|56.797|-5.004|GB|Scotland|83|f
+Benito Juárez International Airport|19.436|-99.072|MX|Mexico City|83|f
+Benbecula Airport|57.481|-7.363|GB|Scotland|82|f
 Benissa|38.715|0.048|ES|Valencia|82
 Ben|32.540|50.745|IR|Chaharmahal and Bakhtiari|82
 Benifaió|39.284|-0.426|ES|Valencia|82
@@ -95,10 +101,13 @@ Beniel|38.046|-1.002|ES|Murcia|81
 Benggang|22.754|113.846|CN|Guangdong|81
 Benedito Novo|-26.783|-49.364|BR|Santa Catarina|80
 Benīganj|27.293|80.444|IN|Uttar Pradesh|80
+Benito Salas Airport|2.950|-75.294|CO|Huila Department|80|f
 Benning Road|38.890|-76.938|US|District of Columbia|80
 Benton Harbor|42.117|-86.454|US|Michigan|80
 Beneditinos|-5.450|-42.367|BR|Piauí|80
 Benisheikh|11.809|12.492|NG|Borno State|80
+Benjamin Franklin Bridge|39.953|-75.135|US|Pennsylvania|80|f
+Benten-jima|45.526|141.919|JP|Hokkaido|80|f
 Benalla|-36.551|145.984|AU|Victoria|79
 Ben Aoun|34.853|9.144|TN|Sidi Bouzid Governorate|79
 Bennington|42.878|-73.197|US|Vermont|79
@@ -109,25 +118,30 @@ Bennettsville|34.617|-79.685|US|South Carolina|79
 Benedita|39.425|-8.970|PT|Leiria|79
 Bena|11.284|5.935|NG|Kebbi|78
 Bentley|-32.002|115.925|AU|Western Australia|78
+Benalla Airport|-36.552|146.007|AU|Victoria|78|f
 Benátky nad Jizerou|50.291|14.823|CZ|Central Bohemia|78
 Benjamín Aceval|-24.997|-57.552|PY|Presidente Hayes|78
 Bentiu|9.257|29.798|SS|Unity|78
+Ben Slimane Airport|33.656|-7.221|MA|Casablanca-Settat|78|f
 Benemérito de las Américas|16.515|-90.653|MX|Chiapas|77
 Benque Viejo el Carmen|17.075|-89.139|BZ|Cayo District|77
 Benton|37.997|-88.920|US|Illinois|77
 Ben Qarrich|35.511|-5.420|MA|Tanger-Tetouan-Al Hoceima|77
+Bengbu Airport|32.849|117.319|CN|Anhui|77|f
 Benhuafla|6.595|-5.879|CI|Sassandra-Marahoue|77
 Beneden-Leeuwen|51.883|5.515|NL|Gelderland|77
 Benzra|7.328|-6.008|CI|Sassandra-Marahoue|77
 Benalup-Casas Viejas|36.344|-5.813|ES|Andalusia|77
 Benito García (El Zorrillo)|31.671|-116.511|MX|Baja California|76
 Benwell|54.973|-1.669|GB|England|76
+Bentonville Municipal Airport|36.346|-94.219|US|Arkansas|76|f
 Ben Lomond|37.089|-122.086|US|California|76
 Benito Juárez|29.751|-107.935|MX|Chihuahua|76
 Bennetts End|51.743|-0.449|GB|England|76
 Benigànim|38.950|-0.433|ES|Valencia|75
 Bent|26.293|59.518|IR|Sistan and Baluchestan|75
 Bensley|37.447|-77.443|US|Virginia|75
+Benson Municipal Airport|45.332|-95.651|US|Minnesota|75|f
 Benson|51.621|-1.110|GB|England|75
 Benacazón|37.353|-6.197|ES|Andalusia|75
 Benito Juárez|19.586|-98.428|MX|Tlaxcala|75
@@ -137,6 +151,7 @@ Benedito Leite|-7.223|-44.558|BR|Maranhão|75
 Bennebroek|52.321|4.599|NL|North Holland|75
 Benejúzar|38.077|-0.839|ES|Valencia|74
 Bennett Springs|-31.859|115.945|AU|Western Australia|74
+Bend Municipal Airport|44.093|-121.202|US|Oregon|74|f
 Benfeld|48.371|7.594|FR|Grand Est|74
 Benjamín Hill|30.169|-111.114|MX|Sonora|74
 Benito Soliven|16.982|121.960|PH|Cagayan Valley|74
@@ -144,16 +159,22 @@ Benamejí|37.268|-4.541|ES|Andalusia|74
 Benson|31.968|-110.295|US|Arizona|74
 Bento Fernandes|-5.694|-35.820|BR|Rio Grande do Norte|74
 Benito Juárez|19.374|-97.909|MX|Tlaxcala|74
+Ben More|56.425|-6.014|GB|Scotland|73|f
+Benguerra Island Airport|-21.853|35.438|MZ|Inhambane Province|73|f
 Bénéné|6.950|-4.051|CI|Comoé District|73
 Benton|36.857|-88.350|US|Kentucky|73
 Benab-e Marand|38.428|45.907|IR|East Azerbaijan|73
 Benito Juárez|32.568|-114.996|MX|Baja California|72
+Ben Macdui|57.070|-3.669|GB|Scotland|72|f
+Benghazi Zoo|32.083|20.097|LY|Banghazi|72|f
+Benguerra Island|-21.873|35.438|MZ|Inhambane Province|72|f
 Benton Heights|42.131|-86.407|US|Michigan|72
 Bengbré|7.397|-5.145|CI|Vallée du Bandama District|72
 Bénoufla|7.610|-6.286|CI|Sassandra-Marahoue|72
 Benito Juárez|19.009|-97.857|MX|Puebla|71
 Beniakré|5.452|-3.427|CI|Comoé District|71
 Ben-Ahin|50.504|5.187|BE|Wallonia|71
+Ben Lawers|56.545|-4.221|GB|Scotland|71|f
 Benito Juárez|19.312|-100.434|MX|Michoacán|71
 Benitachell|38.733|0.144|ES|Valencia|71
 Benson|35.382|-78.549|US|North Carolina|71
@@ -165,6 +186,9 @@ Benediktbeuern|47.706|11.415|DE|Bavaria|71
 Benson|45.315|-95.603|US|Minnesota|70
 Benton City|46.263|-119.488|US|Washington|70
 Benalúa de Guadix|37.352|-3.164|ES|Andalusia|70
+Ben Cruachan|56.427|-5.132|GB|Scotland|70|f
+Ben Lomond|56.190|-4.632|GB|Scotland|70|f
+Beni Mellal Airport|32.397|-6.324|MA|Beni Mellal-Khenifra|70|f
 Benemérito Juárez|18.119|-96.002|MX|Oaxaca|70
 Benahadux|36.925|-2.459|ES|Andalusia|70
 Bengtsfors|59.029|12.232|SE|Västra Götaland|70
@@ -176,6 +200,10 @@ Benavides|42.504|-5.894|ES|Castille and León|69
 Benito Juárez|19.891|-98.807|MX|Hidalgo|69
 Benshausen|50.646|10.596|DE|Thuringia|69
 Benito Juárez|16.043|-92.819|MX|Chiapas|69
+Ben Hope|58.413|-4.608|GB|Scotland|69|f
+Ben Klibreck|58.235|-4.411|GB|Scotland|69|f
+Bentee|51.934|-10.217|IE|Munster|69|f
+Benton Municipal Airport|38.006|-88.933|US|Illinois|69|f
 Bendé Kouassikro|7.667|-5.145|CI|Vallée du Bandama District|69
 Benton|44.586|-69.551|US|Maine|68
 Bento de Abreu|-21.271|-50.812|BR|São Paulo|68
@@ -189,6 +217,8 @@ Benito Juárez|19.438|-99.854|MX|México|67
 Benou|6.917|-5.834|CI|Sassandra-Marahoue|67
 Benamaurel|37.608|-2.703|ES|Andalusia|67
 Benahavís|36.524|-5.046|ES|Andalusia|67
+Benbradagh|54.944|-6.874|GB|Northern Ireland|67|f
+Benjamín Rivera Noriega Airport|18.312|-65.303|PR|Culebra|67|f
 Benneckenstein|51.668|10.717|DE|Saxony-Anhalt|67
 Bénanou|7.065|-4.001|CI|Lacs District|67
 Bendestorf|53.336|9.962|DE|Lower Saxony|67
@@ -213,6 +243,14 @@ Benglen|47.361|8.637|CH|Zurich|66
 Bénesse-Maremne|43.635|-1.362|FR|New Aquitaine|66
 Benifairó de les Valls|39.733|-0.267|ES|Valencia|66
 Bennecourt|49.041|1.555|FR|Île-de-France|65
+Ben Chonzie|56.454|-3.992|GB|Scotland|65|f
+Ben More Assynt|58.138|-4.858|GB|Scotland|65|f
+Ben Rinnes|57.403|-3.241|GB|Scotland|65|f
+Ben Tee|57.032|-4.901|GB|Scotland|65|f
+Benedito Lacerda Airport|-22.343|-41.766|BR|Rio de Janeiro|65|f
+Benjamin Island|58.562|-134.910|US|Alaska|65|f
+Benton Castle|51.725|-4.890|GB|Wales|65|f
+Benton Island|-77.067|-147.883|AQ||65|f
 Bénouville|49.242|-0.282|FR|Normandy|65
 Beniparrell|39.383|-0.417|ES|Valencia|65
 Ben Avon|40.508|-80.083|US|Pennsylvania|65
@@ -234,6 +272,14 @@ Benito Juárez|16.883|-93.189|MX|Chiapas|63
 Benld|39.093|-89.804|US|Illinois|63
 Benson|41.787|-111.930|US|Utah|63
 Benito Juárez|15.055|-92.191|MX|Chiapas|63
+Ben Donich|56.198|-4.873|GB|Scotland|63|f
+Ben Oss|56.389|-4.776|GB|Scotland|63|f
+Bendeleben Mountains|65.208|-163.589|US|Alaska|63|f
+Bender Mountains|-85.517|-140.200|AQ||63|f
+Bennett Island|76.694|148.991|RU|Sakha|63|f
+Bennett Peak|37.483|-106.434|US|Colorado|63|f
+Bennison Island|-38.843|146.370|AU|Victoria|63|f
+Benten Island|-69.041|39.254|AQ||63|f
 Benirredrà|38.961|-0.197|ES|Valencia|63
 Bengoro|7.830|-7.032|CI|Woroba|63
 Benito Juárez (La Playita)|17.932|-93.365|MX|Tabasco|63
@@ -268,6 +314,25 @@ Benna|45.515|8.124|IT|Piedmont|61
 Benito Juárez|17.141|-93.250|MX|Chiapas|61
 Benjamin|40.098|-111.731|US|Utah|61
 Benecko|50.666|15.548|CZ|Liberec Region|61
+Ben Alder|56.814|-4.465|GB|Scotland|61|f
+Ben Ezra Synagogue|30.006|31.231|EG|Cairo|61|f
+Ben Ledi|56.259|-4.322|GB|Scotland|61|f
+Ben More|56.386|-4.540|GB|Scotland|61|f
+Ben Ohau Range|-44.000|170.000|NZ||61|f
+Ben Stack|58.335|-4.957|GB|Scotland|61|f
+Ben Starav|56.539|-5.050|GB|Scotland|61|f
+Ben Vane|56.250|-4.782|GB|Scotland|61|f
+Ben Vorlich|56.343|-4.219|GB|Scotland|61|f
+Benbulbin|54.364|-8.475|IE|Connacht|61|f
+Bendora Dam|-35.448|148.828|AU|Australian Capital Territory|61|f
+Beneden Head|-64.767|-62.701|AQ||61|f
+Bengtskär|59.723|22.499|FI|Southwest Finland|61|f
+Benin|6.317|5.599|NG|Edo State|61|f
+Benkehøe|62.171|7.864|NO|Innlandet|61|f
+Benning Bridge|38.897|-76.962|US|District of Columbia|61|f
+Benten-jima|43.341|145.576|JP||61|f
+Bentihu Sahandarumang|3.498|125.513|ID|North Sulawesi|61|f
+Benton Pond|42.184|-73.047|US|Massachusetts|61|f
 Benavarri / Benabarre|42.106|0.482|ES|Aragon|61
 Ben Metir|36.754|8.751|TN|Jendouba Governorate|61
 Bentzin|53.946|13.273|DE|Mecklenburg-Vorpommern|60
@@ -277,21 +342,150 @@ Benidoleig|38.793|-0.030|ES|Valencia|60
 Bentveld|52.365|4.572|NL|North Holland|60
 Bennungen|51.461|11.118|DE|Saxony-Anhalt|60
 Bendékro|6.847|-4.590|CI|Lacs District|60
+Bensersiel|53.673|7.578|DE|Lower Saxony|60
+Bénifesso|9.999|-5.167|CI|Savanes District|60
+Benito Juárez|17.258|-92.256|MX|Chiapas|60
+Bendé Tanoukro|7.401|-4.812|CI|Lacs District|60
+Bendals|17.068|-61.836|AG|Saint John Parish|60
+Benquerencia de la Serena|38.700|-5.495|ES|Extremadura|60
+Benton|42.570|-90.381|US|Wisconsin|60
 Benedikt|46.607|15.891|SI|Municipality of Benedikt|60
+Benassay|46.559|0.048|FR|New Aquitaine|59
+Benito Juárez de Peña Colorada (El Poblado)|19.362|-104.092|MX|Colima|59
+Benito Juárez|18.413|-95.271|MX|Veracruz|59
+Benito Juárez|23.864|-103.389|MX|Zacatecas|59
+Benais|47.296|0.217|FR|Centre-Val de Loire|59
+Benito Juárez|23.781|-99.135|MX|Tamaulipas|59
+Benito Juárez|25.116|-111.827|MX|Baja California Sur|59
+Bengel|50.017|7.067|DE|Rheinland-Pfalz|59
 Benilloba|38.700|-0.390|ES|Valencia|59
+Bendejun|43.836|7.294|FR|Provence-Alpes-Côte d'Azur|59
+Benton|37.789|-97.109|US|Kansas|59
+Benns Church|36.938|-76.586|US|Virginia|59
+Bentu|45.067|26.974|RO|Buzău County|59
 Benton|37.098|-89.563|US|Missouri|59
+Bentleyville|41.413|-81.411|US|Ohio|59
 Benestare|38.185|16.139|IT|Calabria|59
+Ben Shemen|31.953|34.922|IL|Central District|59
+Bencecu de Sus|45.884|21.428|RO|Timiș County|59
+Benito Juárez|15.824|-92.206|MX|Chiapas|59
+Bénévent-l'Abbaye|46.118|1.628|FR|New Aquitaine|59
+Bennet|40.680|-96.506|US|Nebraska|59
 Benlloch|40.211|0.027|ES|Valencia|58
 Benkelman|40.049|-101.533|US|Nebraska|58
+Benešov u Semil|50.603|15.368|CZ|Liberec Region|58
+Benton|41.195|-76.384|US|Pennsylvania|58
 Benifallet|40.974|0.518|ES|Catalonia|58
+Benito Juárez|22.697|-102.742|MX|Zacatecas|58
+Ben Buie|56.375|-5.882|GB|Scotland|58|f
+Ben Gorm|53.625|-9.721|IE|Connacht|58|f
+Ben Hawes Golf Course and Park|37.797|-87.187|US|Kentucky|58|f
+Ben Hee|58.266|-4.684|GB|Scotland|58|f
+Ben Lomond|-41.570|147.680|AU|Tasmania|58|f
+Ben Lomond|41.363|-111.960|US|Utah|58|f
+Ben Macdhui|-30.648|27.935|ZA|Eastern Cape|58|f
+Bencollaghduff|53.513|-9.814|IE|Connacht|58|f
+Bencorr|53.507|-9.793|IE|Connacht|58|f
+Bendigo Airport|-36.738|144.329|AU|Victoria|58|f
+Bengtsår|59.906|23.113|FI|Uusimaa|58|f
+Beni Airport|0.577|29.470|CD|North Kivu|58|f
+Bennett Islands|-66.933|-67.700|AQ||58|f
+Bentinck Island|48.314|-123.544|CA|British Columbia|58|f
+Bentinck Island|11.727|98.041|MM|Tanintharyi Region|58|f
+Benvane|56.293|-4.368|GB|Scotland|58|f
+Benwee Head|54.338|-9.820|IE|Connacht|58|f
+Beneklitaş|37.710|40.063|TR|Diyarbakır Province|58
+Benningbroek|52.702|5.026|NL|North Holland|58
+Benenden|51.067|0.581|GB|England|58
+Benia|47.665|25.267|RO|Suceava|58
 Bensonville|6.447|-10.613|LR|Montserrado County|58
+Benicull de Xúquer|39.183|-0.383|ES|Valencia|58
+Bendéoua|7.748|-3.846|CI|Lacs District|58
+Benito Juárez|20.295|-99.147|MX|Hidalgo|58
+Ben ‘Ammi|33.007|35.126|IL|Northern District|58
+Benito Juárez|22.490|-98.027|MX|Tamaulipas|58
+Benito Juárez|15.366|-92.313|MX|Chiapas|58
+Bendeleben|51.373|11.007|DE|Thuringia|58
+Benito Juárez|14.638|-92.266|MX|Chiapas|58
+Bennettsbridge|52.592|-7.180|IE|Leinster|57
+Benton|38.619|-90.303|US|Missouri|57
+Bentelo|52.224|6.683|NL|Overijssel|57
 Benaocaz|36.701|-5.422|ES|Andalusia|57
+Benedykivtsi|48.485|22.578|UA|Zakarpattia|57
 Benuza|42.399|-6.710|ES|Castille and León|57
+Benīs|38.212|45.729|IR|East Azerbaijan|57
+Benito Juárez|18.280|-95.894|MX|Veracruz|57
+Benito Juárez|16.336|-90.543|MX|Chiapas|57
+Beneh|39.080|47.991|IR|Ardabil Province|57
+Bény|46.324|5.287|FR|Auvergne-Rhône-Alpes|57
+Benešov|49.509|16.771|CZ|South Moravian|57
+Bengy-sur-Craon|47.001|2.746|FR|Centre-Val de Loire|57
+Benito Juárez|20.753|-99.397|MX|Hidalgo|56
+Benz|53.911|11.585|DE|Mecklenburg-Vorpommern|56
+Benito Juárez 1ra. Sección|18.081|-93.879|MX|Tabasco|56
+Bennington|39.031|-97.594|US|Kansas|56
+Beňov|49.417|17.501|CZ|Olomouc Region|56
 Benavites|39.733|-0.250|ES|Valencia|56
+Bendersville|39.983|-77.249|US|Pennsylvania|56
+Benito Juárez|20.284|-103.601|MX|Jalisco|56
+Benito Juárez|18.562|-97.485|MX|Puebla|56
+Benvé|8.250|-7.900|CI|Woroba|56
+Benítses|39.544|19.914|GR|Ionian Islands|56
+Benito Juárez|18.450|-92.819|MX|Tabasco|56
+Bend|40.255|-122.209|US|California|56
+Benkovačko Selo|44.043|15.619|HR|Zadar|56
+Benliahmet|40.487|42.904|TR|Kars Province|56
+Benito Juárez|17.663|-93.700|MX|Tabasco|56
 Beneixida|39.067|-0.550|ES|Valencia|56
+Benne|45.290|7.552|IT|Piedmont|56
+Benington|51.896|-0.110|GB|England|56
+Benz|53.941|14.072|DE|Mecklenburg-Vorpommern|56
+Bensbyn|65.642|22.242|SE|Norrbotten|56
+Benken|47.653|8.654|CH|Zurich|56
+Benzdorp (Monte Hermon)|3.672|-54.104|SR|Sipaliwini District|56
+Benito Juárez (La Monera)|18.813|-99.268|MX|Morelos|55
+Benatae|38.189|-3.135|ES|Andalusia|55
 Benimuslem|39.132|-0.493|ES|Valencia|55
+Benito Juárez|16.711|-92.176|MX|Chiapas|55
+Beniamin|40.690|43.853|AM|Shirak|55
+Benito Juárez|17.446|-95.199|MX|Oaxaca|55
+Bentworth|51.157|-1.051|GB|England|55
+Benichembla|38.755|-0.109|ES|Valencia|55
 Benarrabá|36.551|-5.276|ES|Andalusia|55
+Benon|46.204|-0.818|FR|New Aquitaine|55
+Benoîtville|49.527|-1.781|FR|Normandy|55
+Bengtsheden|60.712|15.873|SE|Dalarna|55
+Benerville-sur-Mer|49.350|0.033|FR|Normandy|55
+Bénestroff|48.904|6.759|FR|Grand Est|55
+Benney|48.514|6.219|FR|Grand Est|54
+Bentley|37.886|-97.517|US|Kansas|54
+Ben Aden|57.031|-5.463|GB|Scotland|54|f
+Ben Avon|57.083|-3.450|GB|Scotland|54|f
+Ben Chifley Dam|-33.548|149.635|AU|New South Wales|54|f
+Ben Cleuch|56.186|-3.769|GB|Scotland|54|f
+Ben Hall's Death Site|-33.222|147.903|AU|New South Wales|54|f
+Ben Lui|56.397|-4.811|GB|Scotland|54|f
+Ben M Sawyer Memorial Bridge|32.773|-79.842|US|South Carolina|54|f
+Ben More Coigach|57.987|-5.226|GB|Scotland|54|f
+Benbecula Island|57.458|-7.275|GB|Scotland|54|f
+Benbrook Lake|32.627|-97.469|US|Texas|54|f
+Bench Lakes|44.110|-114.966|US|Idaho|54|f
+Benedict Point|-66.157|-66.585|AQ||54|f
+Bengbu Tenghu Airport|33.166|117.059|CN|Anhui|54|f
+Benjamin Sheares Bridge|1.294|103.865|SG||54|f
+Benjina-Nangasuri Airport|-6.066|134.274|ID|Maluku|54|f
+Bennington Battle Monument|42.889|-73.215|US|Vermont|54|f
+Bensbach Airport|-8.857|141.258|PG|Western Province|54|f
+Benson Point|-62.643|-61.290|AQ||54|f
+Bent's Old Fort National Historic Site|38.040|-103.427|US|Colorado|54|f
 Benicolet|38.920|-0.347|ES|Valencia|54
+Bénaménil|48.571|6.671|FR|Grand Est|54
+Benești|44.661|23.907|RO|Vâlcea County|54
+Benito Juárez Centro|17.603|-91.697|MX|Chiapas|54
+Bénac|43.154|0.026|FR|Occitanie|54
+Benic|46.213|23.591|RO|Alba County|54
+Bendorf|54.086|9.383|DE|Schleswig-Holstein|54
+Benito Juárez|25.587|-103.232|MX|Coahuila|54
 Benalauría|36.594|-5.261|ES|Andalusia|53
 Benimarfull|38.776|-0.391|ES|Valencia|53
 Benimantell|38.677|-0.211|ES|Valencia|53
@@ -299,20 +493,98 @@ Benegiles|41.627|-5.635|ES|Castille and León|52
 Benissoda|38.833|-0.517|ES|Valencia|50
 Benizalón|37.212|-2.242|ES|Andalusia|50
 Bene Lario|46.029|9.184|IT|Lombardy|49
+Ben Arthur|56.213|-4.809|GB|Scotland|49|f
+Ben Boyd National Park|-37.165|150.001|AU|New South Wales|49|f
+Ben Halls Gap National Park|-31.615|151.218|AU|New South Wales|49|f
+Ben Lomond National Park|-41.560|147.670|AU|Tasmania|49|f
+Ben Loyal - An Caisteal|58.405|-4.435|GB|Scotland|49|f
+Ben Nevis|79.650|12.417|SJ|Svalbard|49|f
+Ben Tianavaig|57.391|-6.143|GB|Scotland|49|f
+Ben Venue|56.225|-4.462|GB|Scotland|49|f
+Ben Vorlich|56.274|-4.755|GB|Scotland|49|f
+Ben Vrackie|56.733|-3.700|GB|Scotland|49|f
+Ben Vuirich|56.811|-3.644|GB|Scotland|49|f
+Ben Wyvis - Glas Leathad Mor|57.679|-4.579|GB|Scotland|49|f
+Benbane Head|55.252|-6.482|GB|Northern Ireland|49|f
+Benbaun|53.517|-9.833|IE|Connacht|49|f
+Benbrook Glacier|-81.450|158.917|AQ||49|f
+Bendidee National Park|-28.299|150.519|AU|Queensland|49|f
+Bendungan Gondang|-7.201|112.268|ID|East Java|49|f
+Bendungan Wonorejo|-8.024|111.808|ID|East Java|49|f
+Benediktenwand|47.651|11.464|DE|Bavaria|49|f
+Benes Peak|-76.033|-124.117|AQ||49|f
+Beney, Mount|-80.283|-27.793|AQ||49|f
+Bengtssenbukta|80.128|21.699|SJ||49|f
+Beni-Dibele Airport|-4.074|22.842|CD|East Kasai|49|f
+Benign Peak|61.274|-149.023|US|Alaska|49|f
+Benjamin Harrison Memorial Bridge|37.319|-77.224|US|Virginia|49|f
+Benkert, Mount|-73.633|-76.667|AQ||49|f
+Benmore|54.250|-9.550|IE|Connacht|49|f
+Benna|63.163|10.204|NO|Trøndelag|49|f
+Bennett Dome|-71.800|-73.050|AQ||49|f
+Bennett Park|-33.011|151.628|AU|New South Wales|49|f
+Bennett Spires|-83.845|-56.093|AQ||49|f
+Bennett, Mount|-84.817|-178.917|AQ||49|f
+Bensley, Mount|-70.317|64.250|AQ||49|f
+Benson Glacier|-76.817|162.200|AQ||49|f
 Bentarique|36.988|-2.620|ES|Andalusia|49
 Benjamin|33.584|-99.792|US|Texas|49
+Bendfeld|54.365|10.419|DE|Schleswig-Holstein|48
 Benasau|38.690|-0.343|ES|Valencia|48
 Beniatjar|38.848|-0.417|ES|Valencia|48
 Beniflá|38.928|-0.178|ES|Valencia|48
+Benzweiler|50.017|7.600|DE|Rheinland-Pfalz|47
 Benevello|44.630|8.105|IT|Piedmont|47
 Benisuera|38.913|-0.478|ES|Valencia|46
 Beniardá|38.684|-0.216|ES|Valencia|45
 Benafigos|40.276|-0.208|ES|Valencia|45
 Benagéber|39.717|-1.100|ES|Valencia|45
+Bennhausen|49.617|7.983|DE|Rheinland-Pfalz|43
 Benimassot|38.750|-0.283|ES|Valencia|43
 Benifallim|38.663|-0.400|ES|Valencia|42
 Benafarces|41.621|-5.293|ES|Castille and León|42
+Ben Eoin Provincial Park|45.961|-60.457|CA|Nova Scotia|40|f
+Benaki Museum (Μουσείο Μπενάκη)|37.976|23.741|GR|Attica|40|f
+Benbow Lake State Recreation Area|40.063|-123.795|US|California|40|f
+Bench Lake|48.882|-113.938|US|Montana|40|f
+Bend Glacier|44.087|-121.695|US|Oregon|40|f
+Bender Glacier|-78.717|-85.333|AQ||40|f
+Bendigo Airport|40.558|-76.561|US|Pennsylvania|40|f
+Bendigo State Park|41.531|-78.628|US|Pennsylvania|40|f
+Bendor Range|50.766|-122.569|CA|British Columbia|40|f
+Benedict Glacier|79.369|-78.064|CA|Nunavut|40|f
+Benedict Lake|43.964|-115.059|US|Idaho|40|f
+Benedict Peak|-75.283|-110.533|AQ||40|f
+Bengaard Peak|-83.317|163.483|AQ||40|f
+Benham Airport|43.155|-124.172|US|Oregon|40|f
+Benicia State Recreation Area|38.074|-122.193|US|California|40|f
+Benicia-Martinez Bridge|38.039|-122.121|US|California|40|f
+Benington Castle|51.896|-0.116|GB|England|40|f
+Benjamin Franklin House|51.508|-0.125|GB|England|40|f
+Benjamin Franklin National Memorial|39.958|-75.173|US|Pennsylvania|40|f
+Benjamin, Mount|-85.800|-160.100|AQ||40|f
+Benkovski Nunatak|-62.504|-59.582|AQ||40|f
+Benmore Dam|-44.558|170.190|NZ|Otago|40|f
+Benmore Peak|-44.417|170.083|NZ|Canterbury|40|f
+Bennett Airport|38.414|-75.617|US|Maryland|40|f
+Bennett Bridge|44.919|-71.038|US|Maine|40|f
+Bennett Lake|60.092|-134.866|CA|Yukon|40|f
+Bennett Lake|45.018|-93.142|US|Minnesota|40|f
+Bennett Mountain|38.413|-122.624|US|California|40|f
+Bennett Park|40.853|-73.938|US|New York|40|f
+Bennett Range|59.916|-134.987|CA|British Columbia|40|f
+Bennett Schoolhouse Road Covered Bridge|38.829|-82.807|US|Ohio|40|f
+Bennies Hill Road Bridge|39.410|-77.569|US|Maryland|40|f
+Bennington Peak|52.650|-118.302|CA|Alberta|40|f
 Benquerencia|39.310|-6.085|ES|Extremadura|40
+Bensins Island|52.217|-126.922|CA|British Columbia|40|f
+Benson Glacier|45.156|-117.295|US|Oregon|40|f
+Benson Island|48.884|-125.383|CA|British Columbia|40|f
+Benson Lake|38.015|-119.530|US|California|40|f
+Benson Municipal Airport|31.998|-110.356|US|Arizona|40|f
+Benson Ridge|-82.767|164.800|AQ||40|f
+Bently Bridge|33.741|-85.336|US|Georgia|40|f
+Benton Lake National Wildlife Refuge|47.666|-111.333|US|Montana|40|f
 Benillup|38.754|-0.380|ES|Valencia|39
 Benitagla|37.231|-2.239|ES|Andalusia|36
 Bến Cầu|11.111|106.179|VN|Tay Ninh|0
@@ -320,14 +592,47 @@ Bến Sung|19.631|105.578|VN|Thanh Hóa Province|0
 Benatae|38.353|-2.651|ES|Andalusia|0
 Benchalak|14.796|104.670|TH|Si Sa Ket|0
 Bencheng|39.500|118.700|CN|Hebei|0
+Bendan|-6.684|111.461|ID|Central Java|0
+Bendar|-6.709|111.156|ID|Central Java|0
+Bendilmuning|-8.092|111.942|ID|East Java|0
+Bendilwungu Lor|-8.120|111.953|ID|East Java|0
+Bendo|-8.072|112.593|ID|East Java|0
+Bendo|-6.659|111.534|ID|Central Java|0
 Bendo|-8.095|111.744|ID|East Java|0
+Bendo|-8.073|111.867|ID|East Java|0
+Bendoroto|-8.308|111.610|ID|East Java|0
+Bendorubuh|-8.138|112.003|ID|East Java|0
+Bendosari|-8.215|112.108|ID|East Java|0
+Bendosewu|-8.120|112.273|ID|East Java|0
+Bendungan|-7.118|112.498|ID|East Java|0
+Bendungan|-8.071|111.846|ID|East Java|0
+Benger|-6.736|105.843|ID|Banten|0
+Bengga|-8.908|121.310|ID|East Nusa Tenggara|0
 Bengkalis|1.467|102.133|ID|Riau|0
+Bengkekan|-7.663|108.666|ID|West Java|0
+Bengkel Utara|-8.616|116.148|ID|West Nusa Tenggara|0
+Bengkosobung|-5.846|112.657|ID|East Java|0
+Bengkouling|30.820|119.423|CN|Anhui|0
+Bengkung|-6.331|106.037|ID|Banten|0
 Bengo|-8.236|15.888|AO|Uíge|0
+Bengras|-6.248|105.832|ID|Banten|0
+Bengshutang|28.037|99.508|CN|Yunnan|0
+Bengubelan|-10.748|123.239|ID|East Nusa Tenggara|0
+Benhao|18.615|109.931|CN|Hainan|0
+Benhong|41.291|113.244|CN|Inner Mongolia|0
 Benimeli|38.824|-0.042|ES|Valencia|0
 Bennäs|63.600|22.800|FI|Ostrobothnia|0
+Benniu|31.862|119.810|CN|Jiangsu|0
 Bent Jbaïl|33.119|35.433|LB|Nabatieh|0
+Bentar|-7.151|108.809|ID|Central Java|0
+Bentar Girang|-7.212|107.911|ID|West Java|0
+Bentarsari|-7.154|108.816|ID|Central Java|0
+Bente|-8.350|118.782|ID|West Nusa Tenggara|0
 Benteng|-6.118|120.460|ID|South Sulawesi|0
+Benteng|-8.362|118.917|ID|West Nusa Tenggara|0
+Benteng|-8.816|120.370|ID|East Nusa Tenggara|0
 Bentengjawa|-8.457|120.572|ID|East Nusa Tenggara|0
 Bentiaba|-14.258|12.391|AO|Namibe|0
 Bentung|3.520|125.619|ID|North Sulawesi|0
 Benua Baru|0.977|117.980|ID|East Kalimantan|0
+Benzilan|28.236|99.368|CN|Yunnan|0

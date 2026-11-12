@@ -43,6 +43,7 @@ Talamba|30.527|72.241|PK|Punjab|89
 Taloda|21.561|74.212|IN|Maharashtra|88
 Tall Rif‘at|36.472|37.095|SY|Aleppo|88
 Talikkulam|10.440|76.095|IN|Kerala|88
+Tallinn TV Tower|59.471|24.888|EE|Harjumaa|88|f
 Talisay|14.092|121.022|PH|Calabarzon|88
 Talwāra|31.938|75.887|IN|Punjab|88
 Taluker Char Doani|22.140|89.941|BD|Khulna Division|88
@@ -97,6 +98,8 @@ Taliouine|30.529|-7.913|MA|Souss-Massa|77
 Taluksangay|6.954|122.184|PH|Zamboanga Peninsula|77
 Tālipādi|13.066|74.854|IN|Karnataka|77
 Tālera|25.316|75.733|IN|Rajasthan|77
+Talas Airport|42.506|72.262|KG|Talas Region|77|f
+Taloyoak Airport|69.547|-93.577|CA|Nunavut|77|f
 Tallulah|32.408|-91.187|US|Louisiana|77
 Talent|42.246|-122.789|US|Oregon|76
 Talugtug|15.778|120.811|PH|Central Luzon|76
@@ -107,6 +110,7 @@ Talitsy|56.528|42.332|RU|Ivanovo Oblast|76
 Talipaw|5.910|121.094|PH|Autonomous Region in Muslim Mindanao|76
 Talovyy|47.808|40.109|RU|Rostov|75
 Tălmaciu|45.667|24.265|RO|Sibiu County|75
+Tallaght Stadium|53.284|-6.374|IE|Leinster|75|f
 Talusan|7.427|122.810|PH|Zamboanga Peninsula|75
 Talni|19.882|76.473|IN|Maharashtra|75
 Tālakkudi|10.874|78.718|IN|Tamil Nadu|75
@@ -125,6 +129,7 @@ Tallassee|32.536|-85.893|US|Alabama|74
 Talamona|46.138|9.613|IT|Lombardy|74
 Talheim|49.083|9.193|DE|Baden-Wurttemberg|74
 Talmest|31.812|-9.338|MA|Marrakesh-Safi|73
+Tallinn Bay|59.502|24.573|EE|Harjumaa|73|f
 Talisay|13.971|121.205|PH|Calabarzon|73
 Talaga|15.384|120.589|PH|Central Luzon|73
 Talisayan|9.000|124.881|PH|Northern Mindanao|73
@@ -132,10 +137,12 @@ Talin|40.392|43.878|AM|Aragatsotn|73
 Talipan|13.933|121.683|PH|Calabarzon|73
 Tala|13.274|122.586|PH|Calabarzon|73
 Talakivka|47.185|37.721|UA|Donetsk|72
+Talofofo|13.355|144.759|GU||72|r
 Talmassons|45.928|13.122|IT|Friuli Venezia Giulia|72
 Tala|7.887|-7.011|CI|Woroba|72
 Talomo|7.529|125.723|PH|Davao Region|72
 Tal I Mun Doc|15.212|120.685|PH|Central Luzon|72
+Talcha Airport|29.522|82.147|NP|Karnali Pradesh|71|f
 Talarrubias|39.037|-5.234|ES|Extremadura|71
 Talabaan|6.941|122.172|PH|Zamboanga Peninsula|71
 Talawakele|6.937|80.658|LK|Central Province|71
@@ -150,7 +157,6 @@ Talinka|61.551|66.442|RU|Khanty-Mansia|70
 Tallboda|58.425|15.682|SE|Östergötland|70
 Talangnan|9.634|123.334|PH|Central Visayas|70
 Talaga|13.736|120.936|PH|Calabarzon|70
-Talofofo|13.355|144.759|GU||70|r
 Talofofo Village|13.355|144.758|GU|Talofofo|70
 Ţāleqān|36.174|50.769|IR|Alborz Province|70
 Tallapoosa|33.745|-85.288|US|Georgia|70
@@ -163,6 +169,10 @@ Talfīt|32.087|35.291|PS|West Bank|69
 Ta Loke Htaw|16.709|95.961|MM|Yangon|69
 Talaibon|13.838|121.140|PH|Calabarzon|69
 Ta Lok Taw|16.582|95.917|MM|Yangon|69
+Talgar peak|43.118|77.341|KZ|Almaty Region|69|f
+Tallahassee Commercial Airport|30.548|-84.375|US|Florida|69|f
+Taltheilei Narrows Airport|62.597|-111.541|CA|Northwest Territories|69|f
+Tałty|53.866|21.527|PL|Warmia-Masuria|69|f
 Ţālem Seh Shanbeh|37.170|49.690|IR|Gilan Province|69
 Ţallūzah|32.271|35.295|PS|West Bank|68
 Talponada|45.704|12.491|IT|Veneto|68
@@ -176,6 +186,8 @@ Talokgañgan|11.008|122.845|PH|Western Visayas|67
 Talisayan|10.950|124.700|PH|Eastern Visayas|67
 Talon|11.560|122.681|PH|Western Visayas|67
 Talpa-Trivalea|44.283|25.283|RO|Teleorman County|67
+Tal-Qadi Temple|35.937|14.420|MT|Saint Paul’s Bay|67|f
+Tall Birāk|36.670|41.063|SY|Al-Hasakah|67|f
 Talensac|48.109|-1.927|FR|Brittany|67
 Tallaboa Alta|18.051|-66.700|PR|Peñuelas|67
 Talisay|9.819|125.616|PH|Caraga|67
@@ -186,6 +198,8 @@ Talamanca de Jarama|40.743|-3.509|ES|Madrid|66
 Taluyers|45.640|4.722|FR|Auvergne-Rhône-Alpes|66
 Talty|32.683|-96.386|US|Texas|66
 Tălpigi|46.008|27.472|RO|Galați County|65
+Talcott Mountain|41.812|-72.799|US|Connecticut|65|f
+Tálknafjörður|65.658|-24.019|IS|Westfjords|65|f
 Tallard|44.462|6.052|FR|Provence-Alpes-Côte d'Azur|65
 Talpoș|46.691|21.803|RO|Bihor County|65
 Talparo|10.500|-61.267|TT|Couva-Tabaquite-Talparo|64
@@ -195,6 +209,9 @@ Talashkino|54.655|32.183|RU|Smolensk Oblast|64
 Tal-y-bont|52.775|-4.092|GB|Wales|64
 Talhanly|38.108|58.202|TM|Ahal|64
 Talove|48.312|39.667|UA|Luhansk|63
+Talalolae|-7.213|177.162|TV|Nui|63|f
+Tall Ḩarmal|33.310|44.467|IQ|Baghdad|63|f
+Talleitspitze|46.833|10.887|AT|Tyrol|63|f
 Tălmăcel|45.647|24.243|RO|Sibiu County|63
 Tal Shaẖar|31.805|34.903|IL|Jerusalem|63
 Talpa-Ogrăzile|44.287|25.293|RO|Teleorman County|62
@@ -208,6 +225,8 @@ Tal El|32.928|35.181|IL|Northern District|61
 Talea|45.226|25.564|RO|Prahova|61
 Tallaboa|17.995|-66.716|PR|Peñuelas|61
 Talmage|39.133|-123.168|US|California|61
+Tallahassee Regional Airport|30.397|-84.350|US|Florida|61|f
+Tallery Mountain|37.566|-80.949|US|West Virginia|61|f
 Talihina|34.751|-95.048|US|Oklahoma|61
 Talamello|43.906|12.285|IT|Emilia-Romagna|61
 Talysarn|53.054|-4.258|GB|Wales|61
@@ -216,29 +235,151 @@ Talmine|29.329|-0.497|DZ|Timimoun|61
 Talūr|36.731|53.889|IR|Golestan|61
 Tālesh Maḩalleh|37.185|50.103|IR|Gilan Province|61
 Tallangatta|-36.218|147.177|AU|Victoria|60
+Talmé Yeẖi’él|31.752|34.763|IL|Southern District|60
 Talana|40.042|9.496|IT|Sardinia|60
+Tallow|52.093|-8.008|IE|Munster|60
+Talme El‘azar|32.446|34.977|IL|Haifa|60
 Talaván|39.717|-6.281|ES|Extremadura|59
+Tà Lu|15.967|107.688|VN|Da Nang City|59
 Talbotton|32.678|-84.539|US|Georgia|59
+Tall-e Rīgī|28.554|54.392|IR|Fars|59
+Talkeetna|62.324|-150.109|US|Alaska|59
+Tällberg|60.817|15.000|SE|Dalarna|59
+Tall-e Mārūn|31.481|50.789|IR|Chaharmahal and Bakhtiari|59
+Talocci|42.190|12.696|IT|Lazio|58
+Talmé Yafe|31.617|34.613|IL|Southern District|58
+Talencieux|45.221|4.778|FR|Auvergne-Rhône-Alpes|58
+Tallong|-34.717|150.083|AU|New South Wales|58
+Talab|35.083|72.666|PK|Khyber Pakhtunkhwa|58|f
+Talakan Airport|59.887|111.037|RU|Sakha|58|f
+Talc City Hills|36.369|-117.714|US|California|58|f
+Talkeetna Village Strip Airport|62.320|-150.113|US|Alaska|58|f
+Talking Mountain|38.833|-120.069|US|California|58|f
+Tall al Faramah|31.043|32.540|EG|Port Said|58|f
+Tallinn Hippodrome|59.433|24.705|EE|Harjumaa|58|f
+Tallowa Dam|-34.773|150.313|AU|New South Wales|58|f
+Tallrikarna|65.772|24.057|SE|Norrbotten|58|f
+Taloqan Airport|36.771|69.530|AF|Takhar|58|f
+Talsperre Saidenbach|50.735|13.232|DE|Saxony|58|f
+Talpa|36.341|-105.597|US|New Mexico|58
+Tălișoara|46.105|25.589|RO|Covasna County|58
 Tales|39.948|-0.307|ES|Valencia|58
+Talzintán|19.798|-97.416|MX|Puebla|58
+Ta Lo Wow|6.702|99.665|TH|Satun|58
+Talyan|9.583|-5.833|CI|Savanes District|58
+Tallarook|-37.094|145.100|AU|Victoria|57
 Táliga|38.529|-7.017|ES|Extremadura|57
+Taleh Gerd|36.472|48.233|IR|Zanjan|57
+Talmontiers|49.385|1.743|FR|Hauts-de-France|57
+Tallanstown|53.919|-6.550|IE|Leinster|56
+Tal|47.267|9.700|AT|Vorarlberg|56
+Tălpășești|45.025|23.161|RO|Gorj County|56
+Tällberg|64.983|20.800|SE|Västerbotten|56
+Tall-e Gāv|29.273|51.941|IR|Fars|56
+Tallåsen|64.300|18.833|SE|Västerbotten|56
+Ţalājū|36.622|51.383|IR|Māzandarān|56
+Talizat|45.114|3.047|FR|Auvergne-Rhône-Alpes|56
+Tallåsen|61.867|16.017|SE|Gävleborg|55
 Taleggio|45.893|9.565|IT|Lombardy|55
+Talpa-Bâscoveni|44.271|25.324|RO|Teleorman County|55
+Talmo|31.313|-82.569|US|Georgia|55
+Tălagiu|46.277|22.474|RO|Arad County|55
+Tallygaroopna|-36.250|145.433|AU|Victoria|55
+Talasani|42.409|9.480|FR|Corsica|55
+Talābād|35.173|58.425|IR|Razavi Khorasan|55
+Ţalā Tappeh|37.720|45.180|IR|West Azerbaijan|55
+Talkau|53.575|10.571|DE|Schleswig-Holstein|55
+Talandracas|-5.109|-80.063|PE|Piura|55
+Talanquera|-5.171|-80.066|PE|Piura|55
+Talquián|15.087|-92.084|MX|Chiapas|54
+Talmé Bilu|31.438|34.645|IL|Southern District|54
+Talbot Islands|-9.250|142.133|AU|Queensland|54|f
+Talbott Point|-66.240|-67.168|AQ||54|f
+Talcot Lake|43.878|-95.453|US|Minnesota|54|f
+Taldykorgan Airport|45.126|78.447|KZ|Almaty Region|54|f
+Taleba Bay|-9.454|150.240|PG|Milne Bay Province|54|f
+Talemzane|33.358|3.947|DZ|Laghouat|54|f
+Talgsjøen|63.143|7.873|NO|Møre og Romsdal|54|f
+Talkeetna Airport|62.322|-150.094|US|Alaska|54|f
+Tall Asmar|33.467|45.000|IQ|Diyala|54|f
+Talladega Municipal Airport|33.571|-86.052|US|Alabama|54|f
+Tallusjärvi|62.986|26.980|FI|North Savo|54|f
+Talong Island|10.722|124.320|PH|Central Visayas|54|f
+Talum Glaciers|48.753|-121.796|US|Washington|54|f
+Talesteipa|21.702|-103.312|MX|Zacatecas|54
+Talco|33.363|-95.105|US|Texas|54
+Talamantes|26.912|-105.437|MX|Chihuahua|54
+Talpa|47.902|26.236|RO|Botoșani County|54
 Talla|43.602|11.787|IT|Tuscany|53
 Taloga|36.039|-98.964|US|Oklahoma|50
 Tălpaș|44.682|23.746|RO|Dolj|50
+Talaiot Capocorp Vell|39.398|2.825|ES|Balearic Islands|49|f
+Talalpsee|47.096|9.133|CH|Glarus|49|f
+Talapar Conservation Park|-36.716|140.462|AU|South Australia|49|f
+Talbingo Dam|-35.626|148.302|AU|New South Wales|49|f
+Talbot Glacier|-65.250|-63.216|AQ||49|f
+Talgje|59.107|5.825|NO|Rogaland|49|f
+Talim Island|14.352|121.232|PH|Calabarzon|49|f
+Talisker Conservation Park|-35.623|138.156|AU|South Australia|49|f
+Talla Reservoir|55.483|-3.400|GB|Scotland|49|f
+Tallaringa Conservation Park|-28.781|133.424|AU|South Australia|49|f
+Tallebudgera Creek Dam|-28.179|153.359|AU|Queensland|49|f
+Tallowbox Mountain|42.196|-123.152|US|Oregon|49|f
+Talona Mountain|34.630|-84.491|US|Georgia|49|f
+Talsperre Cranzahl|50.502|13.003|DE|Saxony|49|f
+Talsperre Eibenstock|50.519|12.588|DE|Saxony|49|f
+Talsperre Kelbra|51.435|10.996|DE||49|f
+Talsperre Wendefurth|51.741|10.904|DE|Saxony-Anhalt|49|f
+Talling|49.767|6.950|DE|Rheinland-Pfalz|47
 Talamanca|41.737|1.978|ES|Catalonia|41
+Talaiassa|38.911|1.273|ES|Balearic Islands|40|f
+Talas River|43.917|70.500|KZ|Zhambyl|40|f
+Talassemtane National Park|35.130|-5.082|MA|Tanger-Tetouan-Al Hoceima|40|f
+Talchako Mountain|52.092|-126.016|CA|British Columbia|40|f
+Talcott Mountain State Park|41.824|-72.799|US|Connecticut|40|f
+Talgje|59.226|5.812|NO|Rogaland|40|f
+Talkatora Indoor Stadium|28.622|77.193|IN|Delhi|40|f
+Tallahassee-Saint Marks Historic Railroad Trail State Park|30.400|-84.281|US|Florida|40|f
+Tallahatchie National Wildlife Refuge|33.781|-90.134|US|Mississippi|40|f
+Tallgrass Prairie National Preserve|38.440|-96.567|US|Kansas|40|f
+Tällihorn|46.124|8.038|CH|Valais|40|f
+Tallman Airport|44.567|-122.972|US|Oregon|40|f
+Tallman Mountain State Park|41.026|-73.910|US|New York|40|f
+Tallulah Falls Lake|34.741|-83.402|US|Georgia|40|f
+Talofofo Bay|13.337|144.767|GU|Talofofo|40|f
+Talsperre Gottleuba|50.834|13.930|DE|Saxony|40|f
+Talübergang Lavant|46.921|14.840|AT|Carinthia|40|f
+Talus Lake|43.900|-110.804|US|Wyoming|40|f
 Talamantes|41.731|-1.679|ES|Aragon|37
 Ta Loas|12.808|103.460|KH|Battambang|0
+Talaga|-6.321|106.000|ID|Banten|0
+Talaga|-7.104|114.041|ID|East Java|0
+Talaga|-7.062|114.326|ID|East Java|0
+Talagabakti|-6.208|106.009|ID|Banten|0
+Talagajaya|-7.416|107.873|ID|West Java|0
+Talagasari|-6.495|106.200|ID|Banten|0
+Talagasari|-7.420|107.923|ID|West Java|0
 Talaigua Nuevo|9.303|-74.565|CO|Bolívar|0
+Talambung Laok|-7.038|113.702|ID|East Java|0
+Talang Suko|-8.141|112.687|ID|East Java|0
 Talang Ubi|-3.266|103.825|ID|South Sumatra|0
+Talangagung|-8.125|112.554|ID|East Java|0
+Talangbanteng|-7.445|108.704|ID|West Java|0
 Talangbetutu|-2.882|104.694|ID|South Sumatra|0
+Talangkembar|-6.957|111.859|ID|East Java|0
 Talango|-7.063|113.951|ID|East Java|0
 Talas|42.355|72.657|KG||0
 Talasse|9.968|11.679|NG|Gombe State|0
 Talawi|-0.597|100.740|ID|West Sumatra|0
 Talayan|6.981|124.382|PH|Autonomous Region in Muslim Mindanao|0
 Talayuelas|39.850|-1.283|ES|Castille-La Mancha|0
+Talbantal|-7.008|113.879|ID|East Java|0
+Taldi|43.414|83.054|CN|Xinjiang|0
+Talegong Dua|-7.300|107.512|ID|West Java|0
 Talibura|-8.525|122.525|ID|East Nusa Tenggara|0
 Tālīn|35.148|36.033|SY|Tartus|0
+Talin Hiag|46.159|124.142|CN|Heilongjiang|0
+Taling|40.052|123.109|CN|Liaoning|0
 Talipao|5.976|121.116|PH|Autonomous Region in Muslim Mindanao|0
 Talise|1.833|125.069|ID|North Sulawesi|0
 Tall ‘Afar|36.379|42.448|IQ|Nineveh|0
@@ -248,7 +389,19 @@ Tall Ḩamīs|36.757|41.399|SY|Al-Hasakah|0
 Tall Salḩab|35.259|36.385|SY|Hama|0
 Tall Tamr|36.656|40.371|SY|Al-Hasakah|0
 Talldaww|34.876|36.524|SY|Homs|0
+Talmanu|-9.742|124.260|ID|East Nusa Tenggara|0
+Talok|-8.187|112.701|ID|East Java|0
+Talok|-7.125|111.747|ID|East Java|0
+Talok|-7.029|111.305|ID|Central Java|0
+Talok|-6.978|111.711|ID|East Java|0
+Taloko|-8.401|118.317|ID|West Nusa Tenggara|0
+Talon|-6.900|113.001|ID|East Java|0
+Talondang|-6.879|113.903|ID|East Java|0
 Talshand|45.333|97.983|MN|Govi-Altai Province|0
 Talu|0.230|99.981|ID|West Sumatra|0
 Talun|-8.091|112.285|ID|East Java|0
+Talun|-7.055|107.935|ID|West Java|0
+Talun|-7.385|108.127|ID|West Java|0
+Talun|-6.954|111.918|ID|East Java|0
+Taluncemara|-7.220|107.908|ID|West Java|0
 Talzemt|33.590|-4.190|MA|Fes-Meknes|0

@@ -7,6 +7,7 @@ Tettnang|47.669|9.591|DE|Baden-Wurttemberg|85
 Tetla|19.442|-98.103|MX|Tlaxcala|84
 Tetiiv|49.370|29.669|UA|Kyiv Oblast|83
 Tetyushi|54.938|48.833|RU|Tatarstan Republic|81
+Teton Range|43.751|-110.884|US|Wyoming|81|f
 Teteven|42.917|24.267|BG|Lovech|81
 Tetela del Volcán|18.893|-98.730|MX|Morelos|80
 Tetlanohcán|19.260|-98.164|MX|Tlaxcala|80
@@ -14,9 +15,13 @@ Teterow|53.774|12.576|DE|Mecklenburg-Vorpommern|80
 Tetepango|20.103|-99.156|MX|Hidalgo|79
 Téteghem|51.019|2.445|FR|Hauts-de-France|77
 Teteringen|51.609|4.821|NL|North Brabant|77
+Tête-à-la-Baleine Airport|50.674|-59.384|CA|Quebec|76|f
+Teterboro Airport|40.850|-74.060|US|New Jersey|76|f
+Tête Blanche|45.987|7.575|CH|Valais|75|f
 Tetbury|51.639|-2.162|GB|England|75
 Tetritsqaro|41.544|44.462|GE|Kvemo Kartli|74
 Tetecala|18.730|-99.398|MX|Morelos|74
+Tetiaroa|-17.006|-149.561|PF|Îles du Vent|73|f
 Teteltzingo|19.051|-97.145|MX|Veracruz|73
 Teteles de Avila Castillo|19.857|-97.457|MX|Puebla|73
 Tetelco|19.217|-98.973|MX|Mexico City|73
@@ -40,16 +45,70 @@ Tettenweis|48.443|13.270|DE|Bavaria|65
 Tetitlán|17.159|-100.640|MX|Guerrero|64
 Tetlaxco|19.040|-97.063|MX|Veracruz|64
 Tetney|53.492|-0.021|GB|England|64
+Tetepare Island|-8.736|157.551|SB||63|f
 Tetecolala|18.922|-99.163|MX|Morelos|63
 Tétessi|7.582|-3.706|CI|Lacs District|63
 Tetti Neirotti|45.053|7.541|IT|Piedmont|63
 Teting-sur-Nied|49.057|6.663|FR|Grand Est|62
 Tetima|44.948|17.916|BA|Srpska|61
+Tête de l'Estrop|44.283|6.500|FR|Provence-Alpes-Côte d'Azur|61|f
+Tête du Breuil|45.954|7.700|CH|Valais|61|f
+Tetrad Islands|-63.917|-60.735|AQ||61|f
 Tetzacual|20.773|-98.268|MX|Veracruz|60
 Tetirlik|37.536|37.275|TR|Kahramanmaraş|60
 Tetelcingo|18.239|-98.027|MX|Puebla|60
 Tețcoiu|44.682|25.438|RO|Dâmbovița County|60
 Tetlatzinga|18.695|-97.184|MX|Veracruz|60
 Tetitlán|21.128|-104.616|MX|Nayarit|60
+Tetčice|49.169|16.405|CZ|South Moravian|60
+Tet Thit|16.870|95.980|MM|Yangon|60
+Tetenhusen|54.350|9.499|DE|Schleswig-Holstein|60
 Tettorosso|44.473|7.343|IT|Piedmont|60
+Tétia|6.416|-6.538|CI|Sassandra-Marahoue|59
+Tetipanapa|19.467|-97.536|MX|Puebla|59
+Tettau|51.433|13.733|DE|Brandenburg|59
+Tetila|45.123|23.386|RO|Gorj County|59
+Tețcani|47.035|26.842|RO|Neamț County|58
+Tetitla|21.211|-98.832|MX|San Luis Potosí|58
+Tête du Géant|46.220|6.817|CH|Valais|58|f
+Tëtelbierg|49.540|5.860|LU|Esch-sur-Alzette|58|f
+Țețchea|47.046|22.325|RO|Bihor County|58
+Tetín|49.949|14.102|CZ|Central Bohemia|57
+Teton|43.887|-111.678|US|Idaho|57
+Tetax Sesecapan|18.444|-95.290|MX|Veracruz|57
+Tetsworth|51.710|-1.006|GB|England|57
 Teti|40.097|9.119|IT|Sardinia|57
+Tetla|20.921|-98.358|MX|Hidalgo|56
+Tetenbüll|54.352|8.828|DE|Schleswig-Holstein|56
+Tétindougou|8.529|-4.306|CI|Vallée du Bandama District|56
+Tété|8.584|-6.885|CI|Woroba|56
+Téterchen|49.231|6.562|FR|Grand Est|56
+Tetyanivka|49.036|37.591|UA|Donetsk|56
+Tête de Ferret|45.895|7.077|CH|Valais|54|f
+Tête de l'Étret|44.889|6.245|FR|Auvergne-Rhône-Alpes|54|f
+Teter Creek Lake Wildlife Management Area|39.107|-79.874|US|West Virginia|54|f
+Tetzlaff Peak|40.834|-113.909|US|Utah|54|f
+Teterower See|53.791|12.607|DE|Mecklenburg-Vorpommern|49|f
+Tetapaga Lake|47.056|-79.874|CA|Ontario|40|f
+Tête à Pierre Grept|46.253|7.155|CH|Vaud|40|f
+Tête aux Chamois|46.339|7.205|CH|Vaud|40|f
+Tête de Balme|46.031|6.967|CH|Valais|40|f
+Tête de Milon|46.119|7.691|CH|Valais|40|f
+Tête de Ran|47.054|6.853|CH|Neuchâtel|40|f
+Tête de Valpelline|45.975|7.581|IT|Aosta Valley|40|f
+Tête du Portail|46.159|7.088|CH|Valais|40|f
+Tête du Rouget|44.955|6.265|FR|Auvergne-Rhône-Alpes|40|f
+Tête Ronde|46.304|7.178|CH|Vaud|40|f
+Teteven Glacier|-62.461|-59.873|AQ||40|f
+Tetley Hill|37.713|-90.422|US|Missouri|40|f
+Tetlin National Wildlife Refuge|62.716|-141.851|US|Alaska|40|f
+Teton Glacier|43.742|-110.792|US|Wyoming|40|f
+Tetrahedron Peak|49.600|-123.569|CA|British Columbia|40|f
+Tetsa River Park|58.650|-123.953|CA|British Columbia|40|f
+Tettegouche State Park|47.359|-91.264|US|Minnesota|40|f
+Tetu Lake|50.182|-95.038|CA|Ontario|40|f
+Teta Satu|-8.569|118.803|ID|West Nusa Tenggara|0
+Tetaf|-9.836|124.433|ID|East Nusa Tenggara|0
+Tetandara|-8.853|121.658|ID|East Nusa Tenggara|0
+Tetean|-6.891|113.351|ID|East Java|0
+Tetebatu|-8.553|116.420|ID|West Nusa Tenggara|0

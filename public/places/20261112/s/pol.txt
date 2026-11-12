@@ -15,6 +15,7 @@ Políchni|40.667|22.949|GR|Central Macedonia|92
 Police|53.552|14.572|PL|West Pomerania|91
 Polūr|12.512|79.124|IN|Tamil Nadu|89
 Polysayevo|54.603|86.276|RU|Kuzbass|89
+Pollepel Island|41.455|-73.988|US|New York|89|f
 Poldokhtar|33.152|47.710|IR|Lorestan Province|88
 Polasara|19.694|84.814|IN|Odisha|87
 Polichalur|12.989|80.142|IN|Tamil Nadu|87
@@ -23,6 +24,7 @@ Polonne|50.119|27.509|UA|Khmelnytskyi|86
 Polonuevo|10.777|-74.853|CO|Atlántico|86
 Polohy|47.479|36.255|UA|Zaporizhzhia|85
 Polyarnyy|69.203|33.437|RU|Murmansk|85
+Polytechnic University of Milan|45.478|9.228|IT|Lombardy|85|f
 Pollença|39.877|3.016|ES|Balearic Islands|85
 Polo Nord|45.055|7.649|IT|Piedmont|85
 Polyarnyye Zori|67.366|32.498|RU|Murmansk|84
@@ -35,6 +37,7 @@ Pollena Trocchia|40.851|14.379|IT|Campania|81
 Policoro|40.213|16.678|IT|Basilicate|81
 Poll|50.913|6.991|DE|North Rhine-Westphalia|81
 Pola de Lena|43.161|-5.829|ES|Asturias|81
+Põlvamaa|58.083|27.167|EE||81|r
 Polýgyros|40.377|23.441|GR|Central Macedonia|80
 Polistena|38.405|16.073|IT|Calabria|80
 Polesworth|52.620|-1.610|GB|England|80
@@ -44,10 +47,10 @@ Polička|49.715|16.265|CZ|Pardubice Region|79
 Połczyn-Zdrój|53.764|16.096|PL|West Pomerania|79
 Polgár|47.867|21.117|HU|Hajdú-Bihar|78
 Pol-e Sefīd|36.118|53.055|IR|Māzandarān|78
+Polytechnic University of Turin|45.065|7.658|IT|Piedmont|78|f
 Połaniec|50.433|21.281|PL|Świętokrzyskie|78
 Policarpa|1.628|-77.460|CO|Nariño|78
 Polessk|54.862|21.103|RU|Kaliningrad Oblast|78
-Põlvamaa|58.083|27.167|EE||78|r
 Po‘loti|39.034|65.729|UZ|Qashqadaryo|77
 Poltavka|54.363|71.762|RU|Omsk Oblast|77
 Polýkastro|40.994|22.569|GR|Central Macedonia|77
@@ -63,6 +66,7 @@ Polyany|54.718|39.829|RU|Ryazan Oblast|76
 Pöllau|47.300|15.833|AT|Styria|76
 Poladpur|17.984|73.464|IN|Maharashtra|75
 Pol-e Sharqī|27.009|55.739|IR|Hormozgan|75
+Polonsky Island|43.632|146.327|RU|Sakhalin Oblast|75|f
 Poli|8.476|13.241|CM|North|75
 Polski Trambesh|43.372|25.635|BG|Veliko Tarnovo|75
 Poloni|-20.785|-49.824|BR|São Paulo|75
@@ -87,6 +91,7 @@ Põltsamaa|58.653|25.971|EE|Jõgevamaa|72
 Polanco|8.533|123.362|PH|Zamboanga Peninsula|72
 Polanka Wielka|49.985|19.326|PL|Lesser Poland|72
 Polje|43.880|18.075|BA|Federation of B&H|72
+Polonynskyi Khrebet|48.583|23.250|UA|Zakarpattia|71|f
 Polovinnoye|53.757|79.243|RU|Novosibirsk Oblast|71
 Polán|39.788|-4.168|ES|Castille-La Mancha|71
 Polkton|35.008|-80.201|US|North Carolina|71
@@ -96,6 +101,8 @@ Polesella|44.965|11.749|IT|Veneto|71
 Polichnítos|39.079|26.182|GR|North Aegean|71
 Polop|38.623|-0.131|ES|Valencia|71
 Polling|47.811|11.132|DE|Bavaria|70
+Poluostrov Buzachi|44.968|52.428|KZ|Mangystau|70|f
+Poluostrov Taymyr|75.361|107.695|RU|Krasnoyarsk Krai|70|f
 Polloc|7.353|124.221|PH|Autonomous Region in Muslim Mindanao|70
 Polopina|11.207|123.166|PH|Western Visayas|70
 Polong Norte|15.903|120.421|PH|Ilocos|70
@@ -114,6 +121,10 @@ Polignac|45.071|3.860|FR|Auvergne-Rhône-Alpes|69
 Polihon|46.978|32.129|UA|Mykolaiv|69
 Poliana|48.621|22.967|UA|Zakarpattia|69
 Polahongon|10.529|124.969|PH|Eastern Visayas|69
+Pol-e Sīāh|31.333|48.681|IR|Khuzestan|69|f
+Pol-e Sūn|35.890|52.194|IR|Māzandarān|69|f
+Pollap|7.641|149.432|FM|Chuuk|69|f
+Poloninské Karpaty|49.133|22.583|PL|Subcarpathia|69|f
 Polañge|12.397|124.631|PH|Eastern Visayas|68
 Polo|6.265|125.112|PH|Soccsksargen|68
 Polleur|50.539|5.881|BE|Wallonia|68
@@ -124,6 +135,8 @@ Polzela|46.284|15.065|SI|Municipality of Polzela|67
 Polbeth|55.861|-3.549|GB|Scotland|67
 Polo|16.196|119.949|PH|Ilocos|67
 Polverara|45.309|11.955|IT|Veneto|67
+Poltava - Suprunivka Airport|49.569|34.397|UA|Poltava|67|f
+Polyarny Airport|66.401|112.030|RU|Sakha|67|f
 Polo|41.986|-89.579|US|Illinois|67
 Połajewo|52.799|16.733|PL|Greater Poland|67
 Polinyà de Xúquer|39.200|-0.367|ES|Valencia|67
@@ -139,6 +152,10 @@ Polyushko|44.742|33.589|UA|Sevastopol City|66
 Polešovice|49.034|17.341|CZ|Zlín|66
 Poltavka|45.351|34.184|UA|Crimea|66
 Polk City|28.183|-81.824|US|Florida|66
+Pol-e Qaţūr|38.478|44.769|IR|West Azerbaijan|65|f
+Polar Bear Peak|61.153|-149.196|US|Alaska|65|f
+Połonina Caryńska|49.138|22.604|PL|Subcarpathia|65|f
+Poluostrov Likhaniyemi|60.641|28.679|RU|Leningradskaya Oblast'|65|f
 Pollenza|43.266|13.348|IT|The Marches|65
 Pole Ojea|17.975|-67.185|PR|Cabo Rojo|65
 Połomia|49.905|21.892|PL|Subcarpathia|65
@@ -156,6 +173,9 @@ Politiká|38.597|23.545|GR|Central Greece|64
 Pöls|47.217|14.583|AT|Styria|63
 Polo|5.399|-6.506|CI|Bas-Sassandra District|63
 Polcenigo|46.038|12.503|IT|Friuli Venezia Giulia|63
+Polillo Balesin Island Airport|14.419|122.039|PH|Calabarzon|63|f
+Polson Airport|47.694|-114.184|US|Montana|63|f
+Poluostrov Yamal|70.000|70.000|RU|Yamalo-Nenets|63|f
 Polpenazze del Garda|45.551|10.505|IT|Lombardy|63
 Polzeath|50.570|-4.918|GB|England|63
 Polska Cerekiew|50.228|18.127|PL|Opole Voivodeship|63
@@ -182,6 +202,25 @@ Polutla|20.528|-97.259|MX|Veracruz|61
 Poldnëvoye|45.856|47.952|RU|Astrakhan Oblast|61
 Polonghera|44.802|7.596|IT|Piedmont|61
 Polje|44.987|17.958|BA|Srpska|61
+Pol-e Khvājū|32.637|51.683|IR|Isfahan|61|f
+Pol-e Shahrestān|32.627|51.718|IR|Isfahan|61|f
+Police Custody Camp Compiègne|49.418|2.826|FR|Hauts-de-France|61|f
+Police Custody Camp Frøslev|54.822|9.342|DK|South Denmark|61|f
+Police Custody Camp Horserød|56.055|12.496|DK|Capital Region|61|f
+Police Custody Camp Krøkebærsletta|68.375|14.947|NO|Nordland|61|f
+Police Custody Camp Niš|43.321|21.896|RS|Central Serbia|61|f
+Police Custody Camp Šabac|44.749|19.691|RS|Central Serbia|61|f
+Police Custody Camp Sajmište|44.813|20.444|RS|Central Serbia|61|f
+Poll Island|-10.255|142.830|AU|Queensland|61|f
+Pollaphuca Reservoir|53.133|-6.517|IE|Leinster|61|f
+Pollino National Park|39.927|16.111|IT|Basilicate|61|f
+Pollock Mountain|48.717|-113.703|US|Montana|61|f
+Poluostrov Gusinaya Zemlya|71.814|52.031|RU|Arkhangelskaya|61|f
+Poluostrov Kanin|67.863|44.819|RU|Nenets|61|f
+Poluostrov Kigilyakh|73.406|140.124|RU|Sakha|61|f
+Poluostrov Kiperort|60.475|28.536|RU|Leningradskaya Oblast'|61|f
+Poluostrov Turiy|66.596|34.497|RU|Murmansk|61|f
+Polyarnyy Ural|66.923|64.494|RU||61|f
 Poltavka|47.718|36.483|UA|Zaporizhzhia|61
 Polleben|51.580|11.599|DE|Saxony-Anhalt|61
 Polje-Bijela|43.633|17.972|BA|Federation of B&H|61
@@ -189,32 +228,149 @@ Polykárpi|40.926|22.016|GR|Central Macedonia|60
 Polídhrosos|38.640|22.532|GR|Central Greece|60
 Poličnik|44.178|15.376|HR|Zadar|60
 Polanco|43.385|-4.016|ES|Cantabria|60
+Polyana village|53.856|35.542|RU|Kaluga Oblast|60
 Polača|44.018|15.518|HR|Zadar|60
+Poliénas|45.252|5.475|FR|Auvergne-Rhône-Alpes|60
 Polling in Tirol|47.283|11.150|AT|Tyrol|60
 Pollina|37.993|14.146|IT|Sicily|59
+Poltva|49.870|24.496|UA|Lviv|59
+Polaincourt-et-Clairefontaine|47.882|6.070|FR|Bourgogne-Franche-Comté|59
+Polintotla|20.765|-98.507|MX|Hidalgo|59
+Poligny|48.224|2.745|FR|Île-de-France|59
+Polyplátanos|40.683|22.191|GR|Central Macedonia|59
+Polytsi|51.568|25.131|UA|Volyn|59
+Poliske|50.904|28.538|UA|Zhytomyr Oblast|59
+Pollastri|40.901|14.529|IT|Campania|59
+Polerady|50.201|14.593|CZ|Central Bohemia|59
 Polémi|34.886|32.507|CY|Pafos|59
+Polyana|51.065|128.408|RU|Amur Oblast|58
 Pollington|53.671|-1.072|GB|England|58
 Polańczyk|49.370|22.421|PL|Subcarpathia|58
+Poligné|47.888|-1.686|FR|Brittany|58
 Pollutri|42.138|14.592|IT|Abruzzo|58
+Polkville|32.194|-89.693|US|Mississippi|58
+Pol-e Now|30.468|48.131|IR|Khuzestan|58|f
+Poldertoren|52.710|5.751|NL|Flevoland|58|f
+Poluostrov Cheleken|39.469|53.345|TM|Balkan|58|f
+Poluostrov Lisyanskogo|59.327|146.102|RU|Khabarovsk|58|f
+Polychrome Mountain|63.536|-149.961|US|Alaska|58|f
+Polk|41.367|-79.929|US|Pennsylvania|58
+Pollenzo|44.687|7.895|IT|Piedmont|58
 Pollos|41.444|-5.125|ES|Castille and León|58
+Polanka|49.862|19.939|PL|Lesser Poland|58
 Pólvora|-7.908|-76.671|PE|San Martín Department|58
+Polezne|47.104|29.839|UA|Odesa|57
+Polykárpi|40.522|21.321|GR|West Macedonia|57
+Pöllau bei Gleisdorf|47.067|15.800|AT|Styria|57
+Polica|45.982|14.705|SI|Municipality of Grosuplje|57
+Poljica|43.521|16.135|HR|Split-Dalmatia|57
+Polesine|44.986|10.804|IT|Lombardy|57
+Poljica|43.420|17.115|HR|Split-Dalmatia|57
 Polesine Parmense|45.017|10.090|IT|Emilia-Romagna|57
+Polýmylos|40.371|22.067|GR|West Macedonia|57
+Polohy-Yanenky|49.956|31.729|UA|Kyiv Oblast|57
+Policiori|45.338|26.657|RO|Buzău County|57
+Poley|51.775|11.821|DE|Saxony-Anhalt|56
+Poľný Kesov|48.165|18.067|SK|Nitra Region|56
+Pollinkhove|50.971|2.733|BE|Flanders|56
+Pöllach|47.783|13.350|AT|Salzburg|56
+Polocote de Arriba|22.959|-101.131|MX|San Luis Potosí|56
+Poljana Čička|45.683|16.180|HR|Zagreb County|56
+Polnička|49.608|15.916|CZ|Vysocina|56
+Polhov Gradec|46.067|14.316|SI|Municipality of Dobrova–Polhov Gradec|56
+Poltavka|47.533|32.514|UA|Mykolaiv|56
 Polianytsia|48.351|24.431|UA|Ivano-Frankivsk|56
+Polruan|50.327|-4.631|GB|England|56
+Polje Krapinsko|46.141|15.882|HR|Krapina-Zagorje|56
+Polianivka|46.742|35.083|UA|Zaporizhzhia|56
+Poljanec|46.267|16.574|HR|Varaždin|56
+Pöllwitz|50.624|12.038|DE|Thuringia|55
+Polazzo|45.857|13.487|IT|Friuli Venezia Giulia|55
+Polincove|50.848|2.091|FR|Hauts-de-France|55
 Polinago|44.345|10.726|IT|Emilia-Romagna|55
+Polkovnik Zhelyazovo|41.462|25.675|BG|Kardzhali|55
+Polepy|50.005|15.206|CZ|Central Bohemia|55
+Poljane|45.317|14.268|HR|Primorje-Gorski Kotar|55
+Police|49.457|17.868|CZ|Zlín|55
+Polo|39.552|-94.041|US|Missouri|55
+Poltavka|47.879|30.756|UA|Mykolaiv|55
+Polanco (Ranchería Mineral Polanco)|26.834|-107.636|MX|Chihuahua|55
+Polkville|35.418|-81.643|US|North Carolina|55
+Polohy|49.396|34.620|UA|Poltava|55
+Polonia|44.570|-89.413|US|Wisconsin|54
+Police|52.365|18.470|PL|Greater Poland|54
+Po Leung Kuk Museum|22.277|114.185|HK|Eastern District|54|f
+Polacca Airport|35.793|-110.421|US|Arizona|54|f
+Poľana|48.637|19.483|SK|Banská Bystrica Region|54|f
+Poland Covered Bridge|44.651|-72.815|US|Vermont|54|f
+Polar Sea, Cape|-73.533|169.450|AQ||54|f
+Polarårboken Glacier|-69.600|76.000|AQ||54|f
+Polaris Glacier|-64.208|-59.579|AQ||54|f
+Police Custody Camp Amersfoort|52.156|5.388|NL|Utrecht|54|f
+Police Custody Camp Banjica|44.762|20.468|RS|Central Serbia|54|f
+Police Custody Camp Breendonk|51.043|4.322|BE|Flanders|54|f
+Police Custody Camp Falstad|63.661|11.256|NO|Trøndelag|54|f
+Police Custody Camp Grini|59.957|10.479|NO|Akershus|54|f
+Police Custody Camp Mechelen|51.026|4.478|BE|Flanders|54|f
+Police Custody Camp Salaspils|56.870|24.305|LV|Salaspils Municipality|54|f
+Police Custody Camp Schoorl|52.705|4.705|NL|North Holland|54|f
+Police Custody Camp Ulven|60.376|5.477|NO|Vestland|54|f
+Police Custody Camp Vught|51.663|5.257|NL|North Brabant|54|f
+Police Custody Camp Westerbork|52.851|6.606|NL|Drenthe|54|f
+Police Museum|22.268|114.169|HK|Wan Chai|54|f
+Poliesportiu d’Andorra|42.505|1.517|AD|Andorra la Vella|54|f
+Polillo Island|14.839|121.943|PH|Calabarzon|54|f
+Polish Mountain|39.668|-78.538|US|Maryland|54|f
+Pollux|45.928|7.785|CH|Valais|54|f
+Pollux Peak|44.667|-109.929|US|Wyoming|54|f
+Polly Dome|37.854|-119.450|US|California|54|f
+Polling im Innkreis|48.231|13.280|AT|Upper Austria|54
 Pollica|40.191|15.057|IT|Campania|52
+Pölich|49.800|6.850|DE|Rheinland-Pfalz|52
 Polvica|40.695|14.640|IT|Campania|51
 Polia|38.751|16.312|IT|Calabria|50
+Polar Bear Point|-77.817|166.850|AQ||49|f
+Polar Club Glacier|-62.233|-58.533|AQ||49|f
+Polar Record Glacier|-69.763|75.431|AQ||49|f
+Polarforschung Glacier|-69.833|75.117|AQ||49|f
+Polaris Peak|-84.650|-172.667|AQ||49|f
+Polarstar Peak|-77.533|-86.150|AQ||49|f
+Polarstar Ridge|-71.823|-70.493|AQ||49|f
+Poldervaart Edge|-80.730|-25.954|AQ||49|f
+Polica|49.624|19.620|PL|Lesser Poland|49|f
+Police Outpost Provincial Park|49.000|-113.469|CA|Alberta|49|f
+Polinik|46.898|13.162|AT|Carinthia|49|f
+Pollard Glacier|-65.851|-64.104|AQ||49|f
+Pollard, Mount|-70.467|64.617|AQ||49|f
+Pollholmen|-69.017|39.600|AQ||49|f
+Pollux Temple|36.121|-112.303|US|Arizona|49|f
+Polo Peak|44.415|-103.758|US|South Dakota|49|f
 Poleñino|41.870|-0.310|ES|Aragon|48
 Polícar|37.258|-3.234|ES|Andalusia|47
 Polino|42.584|12.844|IT|Umbria|46
+Polar Star, Cape|-73.633|169.667|AQ||40|f
+Polaria|69.644|18.950|NO|Troms|40|f
+Polarmail Ledge|-79.933|156.217|AQ||40|f
+Polihale State Park|22.083|-159.765|US|Hawaii|40|f
+Pollen Island|-36.863|174.670|NZ|Auckland|40|f
+Polytechnical University of Kabul|34.535|69.120|AF|Kabul|40|f
 Polentinos|42.939|-4.529|ES|Castille and León|38
 Pol|43.149|-7.330|ES|Galicia|0
 Pola|13.144|121.442|PH|Mimaropa|0
+Polagan Tengah|-7.139|113.561|ID|East Java|0
 Polateli|36.841|37.144|TR|Kilis|0
+Polay|-6.996|114.001|ID|East Java|0
+Polay Atas|-7.066|113.596|ID|East Java|0
+Pölchow|54.009|12.100|DE|Mecklenburg-Vorpommern|0
 Polen|-9.687|124.480|ID|East Nusa Tenggara|0
+Poli|-9.768|124.703|ID|East Nusa Tenggara|0
 Polis-Gostimë|41.133|20.258|AL|Elbasan County|0
 Pöllauberg|47.317|15.850|AT|Styria|0
+Pollenfeld|48.950|11.200|DE|Bavaria|0
+Polo|-10.065|124.229|ID|East Nusa Tenggara|0
+Polo Satu|-9.794|124.355|ID|East Nusa Tenggara|0
 Polobaya|-16.566|-71.368|PE|Arequipa|0
+Polongan Daja|-6.941|112.865|ID|East Java|0
 Polos|-6.700|105.649|ID|Banten|0
 Polowat|7.357|149.199|FM|Chuuk|0
 Polyane|56.881|28.885|RU|Pskov Oblast|0

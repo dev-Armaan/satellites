@@ -45,6 +45,7 @@ Oteapan|18.002|-94.666|MX|Veracruz|83
 Otley|53.906|-1.694|GB|England|83
 Oton|10.693|122.474|PH|Western Visayas|83
 Ottweiler|49.401|7.164|DE|Saarland|83
+Ottawa Macdonald-Cartier International Airport|45.322|-75.669|CA|Ontario|83|f
 Ottawa|38.616|-95.268|US|Kansas|82
 Ottaikkālmantapam|10.883|76.994|IN|Tamil Nadu|82
 Ottersberg|53.109|9.146|DE|Lower Saxony|82
@@ -68,6 +69,8 @@ Otaci|48.440|27.790|MD|Raionul Ocniţa|78
 Ottobeuren|47.941|10.300|DE|Bavaria|78
 Othello|46.826|-119.175|US|Washington|78
 Otjimbingwe|-22.355|16.129|NA|Erongo Region|78
+Otgon Tenger Uul|47.608|97.555|MN|Dzabkhan|78|f
+Otok Cvijeća|42.406|18.704|ME||78|f
 Otford|51.313|0.190|GB|England|77
 Othis|49.074|2.675|FR|Île-de-France|77
 Otanche|5.657|-74.182|CO|Boyacá|77
@@ -76,11 +79,13 @@ Otterndorf|53.812|8.902|DE|Lower Saxony|77
 Othaya|-0.547|36.932|KE|Nyeri County|76
 Otoka|44.960|16.179|BA|Federation of B&H|76
 Ottersweier|48.670|8.113|DE|Baden-Wurttemberg|76
+Otago Peninsula|-45.879|170.661|NZ||76|f
 Otis Orchards-East Farms|47.710|-117.080|US|Washington|76
 Otavi|-19.638|17.340|NA|Otjozondjupa Region|76
 Otaki|-40.758|175.150|NZ|Wellington Region|76
 Otra Banda|18.650|-68.663|DO|La Altagracia Province|76
 Oteha Valley|-36.720|174.718|NZ|Auckland|75
+Otočić Jabuka|43.092|15.460|HR|Split-Dalmatia|75|f
 Otyniia|48.738|24.861|UA|Ivano-Frankivsk|75
 Otura|37.088|-3.633|ES|Andalusia|75
 Otterup|55.515|10.398|DK|South Denmark|74
@@ -90,12 +95,15 @@ Otmuchów|50.466|17.173|PL|Opole Voivodeship|74
 Otranto|40.148|18.487|IT|Apulia|74
 Ottery St Mary|50.750|-3.267|GB|England|74
 Ötisheim|48.967|8.800|DE|Baden-Wurttemberg|74
+Otrøya|62.714|6.787|NO|Møre og Romsdal|73|f
+Ōtsu Shima|34.003|131.708|JP|Yamaguchi|73|f
 Otatitlán|18.177|-96.034|MX|Veracruz|73
 Otutara|-17.772|-149.413|PF|Îles du Vent|73
 Ottawa Hills|41.664|-83.643|US|Ohio|73
 Ottawa|41.019|-84.047|US|Ohio|73
 Ötigheim|48.891|8.234|DE|Baden-Wurttemberg|73
 Otterfing|47.909|11.675|DE|Bavaria|73
+Ötztal Alps|46.750|10.917|AT||72|f
 Otkaznoye|44.326|43.861|RU|Stavropol Kray|72
 Otterbach|49.486|7.734|DE|Rheinland-Pfalz|72
 Otsego|42.461|-85.696|US|Michigan|72
@@ -104,6 +112,11 @@ Otočac|44.869|15.238|HR|Lika-Senj|72
 Oţeleni|47.083|27.033|RO|Iași County|72
 Otrado-Kubanskoye|45.244|40.841|RU|Krasnodar Krai|71
 Otlukbeli|39.970|40.019|TR|Erzincan|71
+Otočić Sveti Andrija|42.646|17.952|HR|Dubrovnik-Neretva|71|f
+Otok Biševo|42.977|16.012|HR|Split-Dalmatia|71|f
+Otok Škrda|44.478|14.861|HR|Zadar|71|f
+Otok Veli Drvenik|43.444|16.144|HR|Split-Dalmatia|71|f
+Otok Zeča|44.775|14.310|HR|Primorje-Gorski Kotar|71|f
 Otok|45.147|18.884|HR|Vukovar-Srijem|71
 Ottopé|5.698|-4.317|CI|Lagunes District|71
 Otatara|-46.433|168.300|NZ|Southland|71
@@ -114,10 +127,25 @@ Otterstadt|49.372|8.448|DE|Rheinland-Pfalz|70
 Otorohanga|-38.183|175.200|NZ|Waikato Region|70
 Ottensheim|48.332|14.174|AT|Upper Austria|70
 Otrada|44.068|145.865|RU|Sakhalin Oblast|70
+Otočić Lavdara|43.934|15.210|HR|Zadar|70|f
+Otočić Mrčara|42.770|16.793|HR|Dubrovnik-Neretva|70|f
+Otočić Srakane Vele|44.582|14.312|HR|Primorje-Gorski Kotar|70|f
+Otok Ilovik|44.454|14.549|HR|Primorje-Gorski Kotar|70|f
+Otok Prvić|44.911|14.806|HR|Primorje-Gorski Kotar|70|f
 Oteşani|45.067|24.033|RO|Vâlcea County|70
 Otéoa I|6.257|-6.361|CI|Goh-Djiboua|69
 Otok|43.686|16.733|HR|Split-Dalmatia|69
 Öttevény|47.719|17.485|HU|Győr-Moson-Sopron|69
+Ō-tsukumi-jima|34.542|136.911|JP|Mie|69|f
+Otočić Levrnaka|43.823|15.248|HR|Šibenik-Knin|69|f
+Otočić Prežba|42.769|16.812|HR|Dubrovnik-Neretva|69|f
+Otočić Ruda|42.709|17.930|HR|Dubrovnik-Neretva|69|f
+Otočić Sveti Andrija|45.058|13.624|HR|Istria|69|f
+Otok Prvić|43.733|15.794|HR|Šibenik-Knin|69|f
+Otok Šćedro|43.089|16.698|HR|Split-Dalmatia|69|f
+Otok Svetac|43.027|15.751|HR|Split-Dalmatia|69|f
+Otter Island|57.046|-170.400|US|Alaska|69|f
+Otterøya|64.583|11.250|NO|Trøndelag|69|f
 Ottange|49.443|6.020|FR|Grand Est|69
 Otegem|50.807|3.420|BE|Flanders|68
 Ottrau|50.806|9.386|DE|Hesse|68
@@ -129,6 +157,13 @@ Ottenburg|50.752|4.616|BE|Flanders|67
 Ottana|40.234|9.045|IT|Sardinia|67
 Otta|61.771|9.535|NO|Innlandet|67
 Othmarsingen|47.401|8.214|CH|Aargau|67
+Otočić Olipa|42.763|17.774|HR|Dubrovnik-Neretva|67|f
+Otočić Sveti Petar|44.466|14.553|HR|Primorje-Gorski Kotar|67|f
+Otok Mali Drvenik|43.450|16.077|HR|Split-Dalmatia|67|f
+Otok Susak|44.510|14.302|HR|Primorje-Gorski Kotar|67|f
+Otok Sveti Grgur|44.867|14.767|HR|Primorje-Gorski Kotar|67|f
+Otok Sveti Klement|43.164|16.372|HR|Split-Dalmatia|67|f
+Otok Žut|43.870|15.309|HR|Šibenik-Knin|67|f
 Otepää|58.058|26.497|EE|Valgamaa|67
 Otaki Beach|-40.750|175.117|NZ|Wellington Region|67
 Ottensoos|49.509|11.342|DE|Bavaria|66
@@ -140,6 +175,16 @@ Otluoğlu|40.820|31.128|TR|Düzce|66
 Otzing|48.761|12.809|DE|Bavaria|66
 Oţāqvar|37.109|50.114|IR|Gilan Province|66
 Ottava|40.785|8.475|IT|Sardinia|66
+Otočić Kurba Vela|43.694|15.499|HR|Šibenik-Knin|65|f
+Otočić Ošljak|44.074|15.205|HR|Zadar|65|f
+Otočić Planik|44.380|14.859|HR|Zadar|65|f
+Otočić Veli Orjul|44.502|14.555|HR|Primorje-Gorski Kotar|65|f
+Otok Kaprije|43.696|15.705|HR|Šibenik-Knin|65|f
+Otok Šipan|42.732|17.878|HR|Dubrovnik-Neretva|65|f
+Otok Tijat|43.722|15.768|HR|Šibenik-Knin|65|f
+Otok Unije|44.654|14.244|HR|Primorje-Gorski Kotar|65|f
+Ōtori-damu|37.215|139.214|JP|Fukushima|65|f
+Otsego Lake|42.762|-74.897|US|New York|65|f
 Otelfingen|47.461|8.391|CH|Zurich|65
 Ottersheim|49.191|8.232|DE|Rheinland-Pfalz|65
 Otzoloapan|19.117|-100.297|MX|México|65
@@ -151,6 +196,17 @@ Ottersum|51.703|5.983|NL|Limburg|64
 Otterwisch|51.200|12.617|DE|Saxony|64
 Ötztal-Bahnhof|47.233|10.850|AT|Tyrol|64
 Otice|49.917|17.870|CZ|Moravian-Silesian Region|64
+Óthrys|39.047|22.620|GR|Thessaly|63|f
+Otočić Galešnjak|43.980|15.386|HR|Zadar|63|f
+Otočić Mišjak|44.303|15.187|HR|Zadar|63|f
+Otočić Sveti Ðorđe|42.485|18.691|ME||63|f
+Otok Iž|44.041|15.104|HR|Zadar|63|f
+Otok Koločep|42.674|18.011|HR|Dubrovnik-Neretva|63|f
+Otok Mrduja|43.333|16.417|HR|Split-Dalmatia|63|f
+Otok Plavnik|44.971|14.526|HR|Primorje-Gorski Kotar|63|f
+Otok Škarda|44.286|14.707|HR|Zadar|63|f
+Otok Žverinac|44.165|14.918|HR|Zadar|63|f
+Otokomi Mountain|48.725|-113.536|US|Montana|63|f
 Otter|53.240|9.742|DE|Lower Saxony|63
 Otnice|49.086|16.814|CZ|South Moravian|63
 Otis|42.193|-73.092|US|Massachusetts|63
@@ -165,6 +221,22 @@ Otyń|51.848|15.711|PL|Lubusz|62
 Otetelișu|44.638|23.959|RO|Vâlcea County|62
 Otates|19.521|-96.716|MX|Veracruz|61
 Otomo|36.085|138.774|JP|Gunma|61
+Otisco Lake|42.867|-76.285|US|New York|61|f
+Otok Badija|42.954|17.165|HR|Dubrovnik-Neretva|61|f
+Otok Dolin|44.708|14.821|HR|Primorje-Gorski Kotar|61|f
+Otok Jakljan|42.743|17.812|HR|Dubrovnik-Neretva|61|f
+Otok Jerolim|43.167|16.433|HR|Split-Dalmatia|61|f
+Otok Kakan|43.688|15.673|HR|Šibenik-Knin|61|f
+Otok Maun|44.428|14.923|HR|Zadar|61|f
+Otok Murter|43.799|15.619|HR|Šibenik-Knin|61|f
+Otok Olib|44.380|14.790|HR|Zadar|61|f
+Otok Tun Veli|44.186|14.920|HR|Zadar|61|f
+Otok Vir|44.305|15.062|HR|Zadar|61|f
+Otok Zlarin|43.691|15.846|HR|Šibenik-Knin|61|f
+Otok Zmajan|43.695|15.755|HR|Šibenik-Knin|61|f
+Ottarshögen|60.133|17.567|SE|Uppsala|61|f
+Otterøya|59.725|5.427|NO|Vestland|61|f
+Otway Sound|-53.055|-71.643|CL|Region of Magallanes|61|f
 Ottobiano|45.154|8.832|IT|Lombardy|61
 Otradnoe|43.274|40.281|GE|Abkhazia|60
 Otisville|41.473|-74.538|US|New York|60
@@ -172,27 +244,139 @@ Otniel|31.439|35.029|PS|West Bank|60
 Otívar|36.816|-3.680|ES|Andalusia|60
 Otepa|-18.106|-140.906|PF|Tuamotu-Gambier Islands|60
 Ottnang am Hausruck|48.096|13.658|AT|Upper Austria|60
+Otego|42.397|-75.174|US|New York|60
+Ottoville|40.932|-84.339|US|Ohio|60
+Oteros|20.613|-101.171|MX|Guanajuato|60
 Otricoli|42.421|12.477|IT|Umbria|60
+Ottenheim|48.176|15.976|AT|Lower Austria|59
 Otoca|-14.490|-74.686|PE|Ayacucho|59
+Otilio Montaño|18.880|-97.372|MX|Puebla|59
+Ötvöskónyi|46.287|17.360|HU|Somogy County|59
+Otradnoye|54.533|21.748|RU|Kaliningrad Oblast|59
 Otero de Herreros|40.820|-4.210|ES|Castille and León|59
+Ottendorf an der Rittschein|47.048|15.897|AT|Styria|59
+Otiški Vrh|46.574|15.033|SI|Municipality of Dravograd|59
+Otates y Cantarranas|21.332|-105.182|MX|Nayarit|59
+Oțetoaia|46.581|28.177|RO|Vaslui County|58
+Ottendorf|54.341|10.049|DE|Schleswig-Holstein|58
+Otoineppu|44.733|142.261|JP|Hokkaido|58
+Otradnoye|44.861|33.731|UA|Crimea|58
+Otisville|43.166|-83.524|US|Michigan|58
 Otelec|45.615|20.850|RO|Timiș County|58
+Otting|48.873|10.800|DE|Bavaria|58
+Otočić Košljun|45.026|14.619|HR|Primorje-Gorski Kotar|58|f
+Otok Ist|44.280|14.768|HR|Zadar|58|f
+Otok Molat|44.235|14.838|HR|Zadar|58|f
+Otok Rivanj|44.154|15.037|HR|Zadar|58|f
+Otok Sestrunj|44.166|14.982|HR|Zadar|58|f
+Otok Vrgada|43.853|15.503|HR|Zadar|58|f
+Ottawa / Rockcliffe Airport|45.460|-75.646|CA|Ontario|58|f
+Ottumwa Industrial Airport|41.107|-92.448|US|Iowa|58|f
+Otzberg|49.820|8.911|DE|Hesse|58|f
+Otomani|47.438|22.238|RO|Bihor County|58
 Ottenschlag|48.424|15.219|AT|Lower Austria|58
+Oteppe|50.580|5.126|BE|Wallonia|58
+Otočec|45.840|15.225|SI|Municipality of Šmarješke Toplice|58
+Otlamalacatl|20.833|-98.224|MX|Veracruz|58
+Othonoí|39.842|19.405|GR|Ionian Islands|58
+Ōtaki|35.800|137.550|JP|Nagano|58
+Ottenbüttel|53.971|9.504|DE|Schleswig-Holstein|57
+Ottersthal|48.755|7.350|FR|Grand Est|57
+Otluyazı|38.908|42.429|TR|Bitlis|57
+Otradnoye|44.505|34.211|UA|Crimea|57
+Oțeleni|46.540|27.982|RO|Vaslui County|57
+Otvovice|50.212|14.273|CZ|Central Bohemia|57
+Otlatepec (Agua del Padre)|18.509|-100.499|MX|Guerrero|57
 Otrić-Seoci|43.159|17.451|HR|Dubrovnik-Neretva|57
+Ototó|0.318|6.663|ST|São Tomé Island|57
+Otterbäcken|58.950|14.033|SE|Västra Götaland|57
+Otley|52.151|1.220|GB|England|57
+Otautau|-46.150|168.000|NZ|Southland|57
+Otameto|24.729|-107.740|MX|Sinaloa|56
+Otuto|-7.516|-78.069|PE|Cajamarca Department|56
+Otterton|50.660|-3.298|GB|England|56
 Otterburn|55.233|-2.181|GB|England|56
+Otsem|31.637|34.704|IL|Southern District|56
+Othery|51.081|-2.881|GB|England|56
+Oterleek|52.637|4.835|NL|North Holland|56
+Otjituuo|-19.641|18.595|NA|Otjozondjupa Region|56
+Ottertail|46.426|-95.557|US|Minnesota|56
+Otovice|50.255|12.872|CZ|Carlsbad Region|56
 Ottringham|53.701|-0.079|GB|England|56
 Otterthal|47.617|15.933|AT|Lower Austria|55
+Otlatzintla|20.780|-98.249|MX|Veracruz|55
 Ottati|40.463|15.315|IT|Campania|55
+Otates|21.143|-99.213|MX|Querétaro|55
+Otis|44.712|-68.453|US|Maine|55
+Otvice|50.481|13.451|CZ|Ústí nad Labem Region|55
+Othón P. Blanco|19.620|-89.005|MX|Quintana Roo|55
+Ota|42.258|8.746|FR|Corsica|55
+Otročín|50.032|12.892|CZ|Carlsbad Region|55
+Otrovanec|45.923|17.206|HR|Virovitica-Podravina|54
+Otho|42.425|-94.150|US|Iowa|54
+Otok Rava|44.023|15.061|HR|Zadar|54|f
+Otome Point|-68.133|42.600|AQ||54|f
+Ötscher|47.862|15.202|AT|Lower Austria|54|f
+Otsego Lake|44.952|-84.693|US|Michigan|54|f
+Ottawa Municipal Airport|38.536|-95.250|US|Kansas|54|f
+Otter Creek Park|37.938|-86.040|US|Kentucky|54|f
+Otter Island|46.996|-90.691|US|Wisconsin|54|f
+Otto Beit Bridge|-16.033|28.850|ZM||54|f
+Ottergem|50.934|3.947|BE|Flanders|54
+Otane|-39.883|176.633|NZ|Hawke's Bay Region|54
+Otatillos|25.388|-107.336|MX|Sinaloa|54
 Otos|38.854|-0.444|ES|Valencia|54
 Ottiglio|45.054|8.340|IT|Piedmont|53
+Ottendorf|50.827|11.825|DE|Thuringia|53
 Ottenthal|48.761|16.579|AT|Lower Austria|53
+Ottersheim|49.626|8.109|DE|Rheinland-Pfalz|52
+Otago Glacier|-82.533|161.167|AQ||49|f
+Otjikoto|-19.195|17.550|NA|Oshikoto Region|49|f
+Otlet Glacier|-65.816|-64.550|AQ||49|f
+Ototoa Lake|-36.500|174.233|NZ||49|f
+Otway Massif|-85.450|172.000|AQ||49|f
 Otero|40.001|-4.515|ES|Castille-La Mancha|47
+Otzweiler|49.717|7.517|DE|Rheinland-Pfalz|47
 Otero de Bodas|41.939|-6.150|ES|Castille and León|47
 Ottone|44.623|9.333|IT|Emilia-Romagna|46
 Ottenschlag im Mühlkreis|48.466|14.385|AT|Upper Austria|44
+Otago Polytechnic|-45.866|170.519|NZ|Otago|40|f
+Otatso Lake|48.892|-113.677|US|Montana|40|f
+Otay Mesa|32.560|-116.936|US|California|40|f
+Otay Mountain|32.595|-116.844|US|California|40|f
+Otermanjärvi|64.650|27.069|FI||40|f
+Otero Mesa|32.408|-105.887|US|New Mexico|40|f
+Otis Reservoir|42.151|-73.041|US|Massachusetts|40|f
+Otočić Katina|43.883|15.220|HR|Zadar|40|f
+Otok Premuda|44.327|14.625|HR|Zadar|40|f
+Otokomi Lake|48.717|-113.599|US|Montana|40|f
+Otranto Bridge|43.458|-92.982|US|Iowa|40|f
+Otrick Island|72.618|-95.584|CA|Nunavut|40|f
+Otsego Lake State Park|44.933|-84.689|US|Michigan|40|f
+Ottauquechee River Bridge|43.603|-72.354|US|Vermont|40|f
+Ottawa Islands|59.584|-80.266|CA|Nunavut|40|f
+Ottawa National Wildlife Refuge|41.621|-83.220|US|Ohio|40|f
+Otter Bay|47.600|-58.932|CA|Newfoundland and Labrador|40|f
+Otter Creek Reservoir|38.201|-111.991|US|Utah|40|f
+Otter Island|49.617|-55.898|CA|Newfoundland and Labrador|40|f
+Otter Lake|48.750|-55.265|CA|Newfoundland and Labrador|40|f
+Otter Lake|45.922|-60.319|CA|Nova Scotia|40|f
+Otter Lake|44.626|-63.726|CA|Nova Scotia|40|f
+Otter Lake|55.583|-104.650|CA|Saskatchewan|40|f
+Otter Lake|49.579|-120.766|CA|British Columbia|40|f
+Otter Lake|39.408|-89.904|US|Illinois|40|f
+Otter Lake|43.218|-83.460|US|Michigan|40|f
+Otter Pond|44.060|-74.645|US|New York|40|f
+Otter Tail Lake|46.399|-95.662|US|Minnesota|40|f
+Otterburn Tower|55.232|-2.179|GB|England|40|f
+Otto Brinkmann House|29.968|-98.909|US|Texas|40|f
 Otaéz|24.700|-105.996|MX|Durango|0
+Otan|-10.173|123.389|ID|East Nusa Tenggara|0
 Otchindjau|-16.503|13.924|AO|Cunene|0
 Oteiza|42.619|-1.954|ES|Navarre|0
 Otor-Udu|5.453|5.869|NG|Delta|0
+Ottenhöfen im Schwarzwald|48.567|8.150|DE|Baden-Wurttemberg|0
+Otterburn|54.016|-2.180|GB|England|0
 Otu|8.206|3.408|NG|Oyo State|0
 Otu-Jeremi|5.438|5.878|NG|Delta|0
 Otuke|2.500|33.501|UG|Northern Region|0

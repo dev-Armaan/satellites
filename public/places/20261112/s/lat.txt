@@ -15,6 +15,7 @@ La Teste-de-Buch|44.633|-1.145|FR|New Aquitaine|89
 La Tebaida|4.452|-75.787|CO|Quindío Department|89
 Lātehār|23.744|84.500|IN|Jharkhand|89
 Latri Kunda|13.449|-16.685|GM|Banjul|88
+Latin Quarter|48.851|2.344|FR|Île-de-France|87|f
 Lāthi|21.723|71.388|IN|Gujarat|87
 Lathrop|37.823|-121.277|US|California|86
 Latham|42.747|-73.759|US|New York|86
@@ -35,6 +36,7 @@ La Trinité|43.740|7.314|FR|Provence-Alpes-Côte d'Azur|80
 La Trinitaria|16.119|-92.052|MX|Chiapas|79
 Latisana|45.769|13.006|IT|Friuli Venezia Giulia|79
 Latrobe|40.321|-79.379|US|Pennsylvania|78
+Latur Airport|18.412|76.464|IN|Maharashtra|78|f
 Lathikata|22.131|84.890|IN|Odisha|77
 Latokaha|8.623|-5.387|CI|Vallée du Bandama District|77
 Lataha|9.567|-5.591|CI|Savanes District|77
@@ -42,12 +44,19 @@ Laţīfī|27.690|54.387|IR|Fars|77
 La Tour-du-Pin|45.566|5.445|FR|Auvergne-Rhône-Alpes|77
 Latnaya|51.650|38.899|RU|Voronezh Oblast|77
 La Tronche|45.205|5.746|FR|Auvergne-Rhône-Alpes|77
+La Trobe University|-37.721|145.048|AU|Victoria|77|f
+Latady Island|-70.750|-74.583|AQ||77|f
 Latina Scalo|41.532|12.946|IT|Lazio|77
 La Talaudière|45.476|4.426|FR|Auvergne-Rhône-Alpes|77
 La Toma|-33.054|-65.623|AR|San Luis|76
+La Tapoa Airport|12.485|2.398|NE|Niamey|76|f
 Latimer|30.535|-88.867|US|Mississippi|76
 La Tola|2.399|-78.189|CO|Nariño|75
+Latrobe Regional Airport|-38.207|146.470|AU|Victoria|75|f
 Lathen|52.860|7.324|DE|Lower Saxony|75
+La Tabatière Airport|50.831|-58.976|CA|Quebec|74|f
+Lata Mountain|-14.237|-169.457|AS|Manu'a|74|f
+Lathi|-14.967|167.117|VU|Sanma|74|f
 La Tremblade|45.770|-1.142|FR|New Aquitaine|74
 Latokaski|60.178|24.658|FI|Uusimaa|74
 La Tigra|-27.111|-60.588|AR|Chaco|73
@@ -61,12 +70,18 @@ La Tour-de-Trême|46.611|7.065|CH|Fribourg|71
 La Tour-de-Salvagny|45.814|4.717|FR|Auvergne-Rhône-Alpes|71
 Latresne|44.785|-0.497|FR|New Aquitaine|71
 La Turbie|43.745|7.400|FR|Provence-Alpes-Côte d'Azur|70
+Lataro|-15.267|167.183|VU|Sanma|70|f
 La Tessoualle|47.005|-0.851|FR|Pays de la Loire|70
 Latung|5.500|120.883|PH|Autonomous Region in Muslim Mindanao|69
 La Trinidad Tenexyecac|19.336|-98.315|MX|Tlaxcala|69
+Lató Etéra|35.178|25.654|GR|Crete|69|f
+Latouche Island|60.005|-147.921|US|Alaska|69|f
 La Tranche-sur-Mer|46.343|-1.437|FR|Pays de la Loire|69
 Lativka|46.566|30.715|UA|Odesa|68
 La Tigrilla|15.987|-92.852|MX|Chiapas|67
+La Tontouta International Airport|-22.015|166.213|NC|South Province|67|f
+La Tortue|17.920|-62.798|BL||67|f
+Lataroa|-15.288|167.216|VU|Sanma|67|f
 La Tour-du-Crieu|43.104|1.654|FR|Occitanie|67
 La Terrasse|45.321|5.928|FR|Auvergne-Rhône-Alpes|67
 Latronico|40.089|16.009|IT|Basilicate|66
@@ -84,6 +99,8 @@ La Trinidad Tianguismanalco|18.894|-98.032|MX|Puebla|64
 Lattarico|39.451|16.127|IT|Calabria|64
 Latīngān|36.630|51.545|IR|Māzandarān|64
 Latīngān|36.632|51.562|IR|Māzandarān|64
+la Tosa|42.321|1.893|ES|Catalonia|63|f
+Latina Airport|41.542|12.909|IT|Lazio|63|f
 Latillé|46.619|0.075|FR|New Aquitaine|63
 Latoumakaha|9.210|-5.755|CI|Savanes District|63
 La Tesorera|22.697|-102.117|MX|Zacatecas|63
@@ -103,15 +120,96 @@ La Tour-en-Jarez|45.483|4.391|FR|Auvergne-Rhône-Alpes|61
 Latchingdon and Snoreham|51.672|0.726|GB|England|61
 La Tiza|7.753|-80.288|PA|Los Santos Province|61
 La Tordilla|-31.237|-63.061|AR|Cordoba|61
+La Tossa|42.317|1.900|ES|Catalonia|61|f
+La Tuque Airport|47.407|-72.789|CA|Quebec|61|f
+Late|-18.803|-174.646|TO|Vavau|61|f
+Latham Park|52.512|-3.323|GB|Wales|61|f
 La Trinidad|19.961|-98.708|MX|Hidalgo|61
 La Trinidad|20.563|-100.784|MX|Guanajuato|61
 La Toma|19.453|-97.194|MX|Veracruz|61
 La Tinaja|20.490|-101.216|MX|Guanajuato|60
 La Trinidad|19.681|-99.172|MX|México|60
+La Trimouille|46.468|1.040|FR|New Aquitaine|60
+La Tinaja|19.516|-96.756|MX|Veracruz|60
+Latour-de-France|42.769|2.653|FR|Occitanie|60
+Latkova Vas|46.254|15.093|SI|Prebold|60
+La Trinidad|19.286|-97.214|MX|Puebla|59
+La Tomatina|21.902|-102.415|MX|Aguascalientes|59
+La Tinaja|21.609|-101.469|MX|Guanajuato|59
+La Trinidad|14.717|-87.667|HN|Comayagua Department|59
+La Troja (El Chiflido)|20.381|-101.684|MX|Guanajuato|59
+La Trinité-Porhoët|48.097|-2.547|FR|Brittany|59
+La Tirana|-20.336|-69.657|CL|Tarapacá|58
+La Troje|21.731|-101.904|MX|Jalisco|58
+La Trinidad|20.633|-100.295|MX|Querétaro|58
+La Tapona|22.226|-101.225|MX|San Luis Potosí|58
+La Tour-d'Auvergne|45.534|2.689|FR|Auvergne-Rhône-Alpes|58
 Latera|42.629|11.829|IT|Lazio|58
+Lathuile|45.784|6.204|FR|Auvergne-Rhône-Alpes|58
+Latdorf|51.809|11.800|DE|Saxony-Anhalt|58
+Latady Mountains|-75.500|-65.833|AQ||58|f
+Latham Island|-6.904|39.927|TZ|Zanzibar Central/South|58|f
+Latok Group|35.883|75.833|PK|Gilgit-Baltistan|58|f
+Latabāri|26.305|89.857|IN|Assam|58
+Latte|43.794|7.566|IT|Liguria|58
+La Trinidad|17.073|-98.184|MX|Guerrero|58
+La Trinidad|18.237|-93.073|MX|Tabasco|58
+Latinne|50.625|5.165|BE|Wallonia|58
+Latignano|43.655|10.559|IT|Tuscany|58
+Lathuy|50.725|4.826|BE|Wallonia|58
+La Traposa|-6.423|-79.574|PE|Lambayeque|58
 La Thuile|45.714|6.951|IT|Aosta Valley|58
+La Trinidad|20.911|-101.254|MX|Guanajuato|58
+Latorpsbruk|59.273|14.983|SE|Örebro|57
+La Torre de les Maçanes|38.606|-0.419|ES|Valencia|57
+Latinu|45.391|27.699|RO|Brăila County|57
+La Trinidad|20.584|-101.487|MX|Guanajuato|57
+La Tepuza|20.185|-101.925|MX|Michoacán|57
+La Tinaja de la Estancia|20.714|-100.560|MX|Querétaro|57
+La Terrasse-sur-Dorlay|45.451|4.583|FR|Auvergne-Rhône-Alpes|56
+La Trinité-du-Mont|49.543|0.553|FR|Normandy|56
+La Trinidad|17.440|-95.549|MX|Oaxaca|56
+Latina|41.290|14.273|IT|Campania|56
+La Tapona|22.788|-100.644|MX|San Luis Potosí|56
+La Trampa Grande|19.568|-100.171|MX|México|56
+La Tehua|25.712|-103.426|MX|Durango|56
+La Trinidad|20.675|-102.481|MX|Jalisco|56
+La Trinidad|24.099|-100.059|MX|Nuevo León|56
+La Tina Ranch|26.219|-97.475|US|Texas|56
+La Tortuga|20.912|-97.692|MX|Veracruz|56
+Latendorf|53.995|10.064|DE|Schleswig-Holstein|56
+La Trinité-Surzur|47.605|-2.594|FR|Brittany|56
+Latirka|48.845|23.096|UA|Zakarpattia|56
+Latronquière|44.800|2.078|FR|Occitanie|55
+La Tinaja|19.725|-102.403|MX|Michoacán|55
+La Tollosa|7.990|-81.326|PA|Veraguas Province|55
+La Tinaja|19.475|-100.487|MX|Michoacán|55
+La Tour-Saint-Gelin|47.049|0.403|FR|Centre-Val de Loire|55
+La Ticla|18.455|-103.555|MX|Michoacán|55
+La Tinaja de Negrete|20.455|-101.464|MX|Guanajuato|55
+Lattimer|40.994|-75.961|US|Pennsylvania|55
 Lata|-10.725|165.797|SB|Temotu Province|55
+Latton|51.659|-1.871|GB|England|55
+Lathum|51.987|6.019|NL|Gelderland|54
+La Tapona|21.995|-100.178|MX|San Luis Potosí|54
+Latschach ober dem Faakersee|46.556|13.929|AT|Carinthia|54
+La Tournette|45.826|6.286|FR|Auvergne-Rhône-Alpes|54|f
+La Tsavre|45.915|7.129|CH|Valais|54|f
+Latelhorn|46.044|8.035|CH|Valais|54|f
+Latimer Lake|45.921|-94.851|US|Minnesota|54|f
+Lattakia|35.401|35.949|SY|Latakia|54|f
+La Torrecilla|36.975|-4.084|ES|Andalusia|49|f
+Latham Peak|-66.350|51.800|AQ||49|f
+Lathami Conservation Park|-35.642|137.233|AU|South Australia|49|f
+Lathlain Park|-31.973|115.908|AU|Western Australia|49|f
+Latin Bridge|43.858|18.429|BA||49|f
+Latschur|46.739|13.398|AT|Carinthia|49|f
+Lattengebirge|47.685|12.892|DE|Bavaria|49|f
 La Trinidad|7.916|-80.704|PA|Herrera Province|42
+La Tour Ronde|45.844|6.908|FR|Auvergne-Rhône-Alpes|40|f
+Lathrop Glacier|43.154|-122.067|US|Oregon|40|f
+Lathrop State Park|37.609|-104.842|US|Colorado|40|f
+Latino Peak|-72.150|167.550|AQ||40|f
 La Tronosa|7.436|-80.590|PA|Los Santos Province|38
 la Tallada d'Empordà|42.080|3.056|ES|Catalonia|0
 La Tendida|8.507|-71.832|VE|Táchira|0
@@ -121,5 +219,9 @@ La Tinta|15.317|-89.883|GT|Alta Verapaz|0
 La Trinidad|12.969|-86.235|NI|Estelí Department|0
 Lat Bua Luang|14.165|100.308|TH|Phra Nakhon Si Ayutthaya|0
 Lat Lum Kaeo|14.037|100.405|TH|Pathum Thani|0
+Latang|-10.096|120.382|ID|East Nusa Tenggara|0
 Lathbury|52.099|-0.721|GB|England|0
+Lato|-8.368|122.758|ID|East Nusa Tenggara|0
+Latsari|-6.779|111.692|ID|East Java|0
 Latsari|-6.893|112.046|ID|East Java|0
+Latuna|-8.392|124.056|ID|East Nusa Tenggara|0

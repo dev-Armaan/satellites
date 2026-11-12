@@ -3,6 +3,7 @@ Potsdam|52.399|13.066|DE|Brandenburg|105
 Potchefstroom|-26.717|27.100|ZA|North West|105
 Potosí|-19.584|-65.753|BO|Potosí Department|103
 Potiskum|11.714|11.081|NG|Yobe State|99
+Potala Palace|29.659|91.117|CN|Tibet|95|f
 Potenza|40.642|15.808|IT|Basilicate|95
 Pottuvil|6.876|81.827|LK|Eastern Province|93
 Potomac|39.018|-77.209|US|Maryland|93
@@ -46,8 +47,10 @@ Potenza Picena|43.366|13.622|IT|The Marches|73
 Potaro-Siparuni|4.900|-59.300|GY||72|r
 Potamós|39.624|19.878|GR|Ionian Islands|72
 Potala Pastillo|17.991|-66.497|PR|Juana Díaz|72
+Po Toi Islands|22.176|114.274|HK||71|f
 Pottsgrove|40.265|-75.612|US|Pennsylvania|71
 Poteet|29.041|-98.568|US|Texas|71
+Potosi Mountain|35.966|-115.501|US|Nevada|70|f
 Pottsville|35.248|-93.049|US|Arkansas|70
 Potosi|32.329|-99.656|US|Texas|70
 Pöttsching|47.804|16.371|AT|Burgenland|69
@@ -57,6 +60,7 @@ Potomac Park|39.612|-78.806|US|Maryland|68
 Potot|12.203|123.432|PH|Bicol Region|68
 Potelych|50.208|23.547|UA|Lviv|68
 Pottenstein|47.958|16.095|AT|Lower Austria|68
+Pottstown Municipal Airport|40.260|-75.669|US|Pennsylvania|67|f
 Pottsboro|33.759|-96.669|US|Texas|67
 Poth|29.070|-98.082|US|Texas|67
 Potrero Viejo|18.877|-96.843|MX|Veracruz|67
@@ -74,6 +78,7 @@ Potreros|20.254|-101.657|MX|Guanajuato|64
 Potrerillos|20.338|-103.378|MX|Jalisco|64
 Potrerillo del Norote|24.021|-106.974|MX|Sinaloa|64
 Potes|43.155|-4.621|ES|Cantabria|63
+Potter Pond|41.387|-71.531|US|Rhode Island|63|f
 Potigrafu|44.785|26.100|RO|Prahova|63
 Potterspury|52.083|-0.897|GB|England|63
 Potters Village|17.113|-61.820|AG|Saint John Parish|63
@@ -89,6 +94,10 @@ Potrero de los Sánchez (Estación Techa)|25.110|-107.901|MX|Sinaloa|62
 Poturo|18.826|-101.613|MX|Michoacán|62
 Potrerillos Abajo|8.645|-82.486|PA|Chiriquí Province|61
 Potcoava Fălcoeni|44.495|24.616|RO|Olt|61
+Potanipo Hill|42.727|-71.673|US|New Hampshire|61|f
+Potholes Reservoir|47.013|-119.344|US|Washington|61|f
+Pottinger Peak|22.255|114.247|HK|Eastern District|61|f
+Pottstown Limerick Airport|40.238|-75.562|US|Pennsylvania|61|f
 Potomac Heights|38.609|-77.141|US|Maryland|61
 Potter Lake|42.822|-88.349|US|Wisconsin|61
 Potrerillos|15.633|-88.300|HN|Cortés Department|61
@@ -99,19 +108,103 @@ Potcoava|44.263|27.132|RO|Călărași County|60
 Pottum|50.600|8.000|DE|Rheinland-Pfalz|60
 Potrero de San Diego|19.486|-100.082|MX|México|60
 Potworów|51.509|20.722|PL|Mazovia|60
+Potrerillos|23.028|-105.945|MX|Sinaloa|60
+Potterton|57.231|-2.091|GB|Scotland|59
 Potríes|38.916|-0.196|ES|Valencia|59
+Potrerillos|15.267|-88.433|HN|Santa Bárbara Department|59
 Potom|40.488|20.373|AL|Berat County|59
+Potocelu|44.892|25.247|RO|Dâmbovița County|59
+Potângeni|47.330|27.337|RO|Iași County|59
+Potrero de Tenayac|19.042|-100.212|MX|México|59
+Potštejn|50.082|16.309|CZ|Hradec Králové Region|59
+Potochok|48.304|23.422|UA|Zakarpattia|59
+Potter Heigham|52.718|1.575|GB|England|58
+Potós|40.612|24.608|GR|East Macedonia and Thrace|58
+Potlatch|46.922|-116.898|US|Idaho|58
+Pot Island|41.248|-72.755|US|Connecticut|58|f
+Potato Hill|46.815|-116.559|US|Idaho|58|f
+Potmess Rocks|-62.319|-59.754|AQ||58|f
+Potosi Peak|37.990|-107.750|US|Colorado|58|f
+Potzberg|49.521|7.480|DE|Rheinland-Pfalz|58|f
 Potuga|8.066|-80.621|PA|Herrera Province|58
+Poteč|49.154|18.035|CZ|Zlín|57
+Potrero Horcón|21.606|-98.289|MX|Veracruz|57
 Pöttelsdorf|47.754|16.439|AT|Burgenland|57
+Potomac|40.305|-87.801|US|Illinois|57
+Potrerillo Coapinole|16.966|-98.706|MX|Guerrero|57
+Potopinu|44.194|24.353|RO|Olt|57
+Potrero Nuevo|18.899|-99.629|MX|México|57
+Potosi|42.689|-90.712|US|Wisconsin|57
+Potok|45.549|16.591|HR|Sisak-Moslavina|57
+Potrero|32.605|-116.613|US|California|56
+Potter Valley|39.322|-123.113|US|California|56
+Potěhy|49.869|15.420|CZ|Central Bohemia|56
+Potok Wielki|50.601|20.227|PL|Świętokrzyskie|56
+Potrerillos|21.310|-99.074|MX|San Luis Potosí|56
 Potzneusiedl|48.045|16.948|AT|Burgenland|56
+Potámi|35.104|33.030|CY|Nicosia|55
+Potrero del Bordo (Santa María)|19.538|-96.974|MX|Veracruz|55
+Potrerillo|-4.700|-80.102|PE|Piura|55
+Potzontepec|18.738|-99.893|MX|México|55
+Potoichán|17.423|-98.719|MX|Guerrero|55
+Potrerillos del Río|20.220|-101.795|MX|Guanajuato|55
+Potmelțu|44.410|23.651|RO|Dolj|55
+Potrerillo|18.350|-92.838|MX|Tabasco|55
+Potravlje|43.785|16.561|HR|Split-Dalmatia|54
+Potato Lake|47.002|-95.052|US|Minnesota|54|f
+Potrero Hill|37.757|-122.399|US|California|54|f
+Potter Mountain|42.546|-73.279|US|Massachusetts|54|f
+Pottinger Point|-61.934|-58.358|AQ||54|f
+Pötenitz|53.949|10.924|DE|Mecklenburg-Vorpommern|54
+Potrero Segundo|21.354|-98.269|MX|Veracruz|54
+Potejámel|21.258|-98.596|MX|Hidalgo|54
 Potok Wielki|50.791|22.216|PL|Lublin|54
+Potrerillos|23.453|-105.828|MX|Sinaloa|54
 Potoni|-14.390|-70.105|PE|Puno|52
+Potato Mountain|34.166|-117.693|US|California|49|f
+Potsdam City Palace|52.395|13.060|DE|Brandenburg|49|f
+Potter Glacier|-78.383|162.250|AQ||49|f
+Potter Peak|-75.130|-68.767|AQ||49|f
+Potter Peninsula|-62.246|-58.658|AQ||49|f
+Potton Island|51.583|0.817|GB|England|49|f
+Potts Hill Reservoirs|-33.900|151.033|AU|New South Wales|49|f
+Potts Peak|-61.967|-58.252|AQ||49|f
+Potworks Dam|17.066|-61.750|AG|Saint Peter Parish|49|f
 Pötting|48.283|13.771|AT|Upper Austria|48
+Potagannissing Bay|46.067|-83.917|CA|Ontario|40|f
+Potanin Glacier|49.155|87.883|MN|Bayan-Ölgii Province|40|f
+Potato Hill|43.444|-75.303|US|New York|40|f
+Potato Island|47.583|-58.982|CA|Newfoundland and Labrador|40|f
+Potato Range|51.583|-124.336|CA|British Columbia|40|f
+Potawatomi State Park|44.864|-87.415|US|Wisconsin|40|f
+Pothole Dome|37.880|-119.393|US|California|40|f
+Potic Mountain|42.313|-73.897|US|New York|40|f
+Potlatch State Park|47.362|-123.160|US|Washington|40|f
+Potrero Hills|38.205|-121.971|US|California|40|f
+Potshot Lake|46.946|-93.012|US|Minnesota|40|f
+Potter Island|62.117|-65.914|CA|Nunavut|40|f
+Potteric Carr Nature Reserve|53.500|-1.113|GB|England|40|f
+Potts Glacier|-72.967|166.833|AQ||40|f
+Potzbergturm|49.521|7.480|DE|Rheinland-Pfalz|40|f
 Pota|-8.341|120.761|ID|East Nusa Tenggara|0
+Potan|28.744|120.536|CN|Zhejiang|0
+Poteran|-7.152|114.600|ID|East Java|0
+Potet|-8.683|122.308|ID|East Nusa Tenggara|0
 Potia|16.850|121.483|PH|Cordillera|0
+Potibaun|-10.276|123.739|ID|East Nusa Tenggara|0
 Potiivka|50.620|28.975|UA|Zhytomyr Oblast|0
+Potikosin|-10.725|123.098|ID|East Nusa Tenggara|0
+Potlot|-6.975|111.407|ID|Central Java|0
+Poto|-9.905|124.577|ID|East Nusa Tenggara|0
+Poto|-8.499|117.478|ID|West Nusa Tenggara|0
 Potoci|44.393|16.620|BA|Srpska|0
+Potolo|-19.006|-65.529|BO|Chuquisaca Department|0
+Potongan|-7.437|107.835|ID|West Java|0
 Potou|21.268|110.435|CN|Guangdong|0
+Potou|34.853|108.895|CN|Shaanxi|0
+Potou|34.971|109.446|CN|Shaanxi|0
 Potrero de Caña|8.291|-81.697|PA|Ngöbe-Buglé Comarca|0
 Potsgrove|51.959|-0.618|GB|England|0
 Pott Shrigley|53.310|-2.084|GB|England|0
+Pottiga|50.415|11.741|DE|Thuringia|0
+Potulando|-8.847|121.652|ID|East Nusa Tenggara|0

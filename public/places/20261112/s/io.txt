@@ -1,5 +1,6 @@
-Iowa|42.000|-93.500|US||127|r
-Ionian Islands|37.793|20.783|GR||102|r
+Iowa|42.000|-93.500|US||128|r
+Ionian Islands|37.793|20.783|GR||105|r
+Ionian Islands|38.500|20.500|GR|Ionian Islands|98|f
 Iowa City|41.661|-91.530|US|Iowa|97
 Ioánnina|39.663|20.852|GR|Epirus|96
 Iona|26.520|-81.964|US|Florida|84
@@ -8,10 +9,13 @@ Ionia|42.987|-85.071|US|Michigan|81
 Ione|38.353|-120.933|US|California|77
 Iowa Park|33.951|-98.669|US|Texas|76
 Iola|37.924|-95.400|US|Kansas|75
+Ionian Sea|39.000|19.000|||74|f
 Iowa Falls|42.522|-93.251|US|Iowa|74
+Iō-jima|30.791|130.294|JP|Kagoshima|73|f
 Ioneşti|44.850|24.233|RO|Vâlcea County|73
 Ion Roată|44.667|26.767|RO|Ialomița County|71
 Iowa|30.237|-93.014|US|Louisiana|70
+Iō Jima|32.702|129.777|JP|Nagasaki|70|f
 Iomerê|-27.004|-51.242|BR|Santa Catarina|69
 Ioneşti|44.617|23.433|RO|Gorj County|68
 Ion Creangă|46.870|26.980|RO|Neamț County|67
@@ -19,13 +23,42 @@ Ion Corvin|44.117|27.800|RO|Constanța County|67
 Iona|43.526|-111.933|US|Idaho|66
 Íos|36.723|25.282|GR|South Aegean|66
 Ionești|44.694|25.278|RO|Dâmbovița County|66
+Iō-damu|36.561|136.778|JP|Ishikawa|65|f
+Ioannina National Airport|39.696|20.823|GR|Epirus|65|f
+Iona|56.317|-6.417|GB|Scotland|65|f
+Iosco County Airport|44.312|-83.422|US|Michigan|65|f
 Iota|30.331|-92.496|US|Louisiana|63
 Iogach|51.782|87.263|RU|Altai|62
 Iola|44.508|-89.131|US|Wisconsin|62
 Iowa Colony|29.482|-95.415|US|Texas|61
 Ionășeni|47.730|26.993|RO|Botoșani County|61
+Iona Island|41.306|-73.977|US|New York|61|f
 Iojib|47.816|23.156|RO|Satu Mare County|61
+Ionășeni|47.813|26.389|RO|Botoșani County|60
+Iorcani|47.353|26.525|RO|Iași County|59
+Iohanisfeld|45.567|20.863|RO|Timiș County|58
+Iôf di Montasio|46.436|13.433|IT|Friuli Venezia Giulia|58|f
+Iowa County Airport|42.888|-90.228|US|Wisconsin|58|f
+Ionești|44.612|24.902|RO|Arges|58
+Ionășești|45.911|27.284|RO|Galați County|57
+Ioaniș|46.671|22.276|RO|Bihor County|57
+Iontapede|41.598|14.659|IT|Molise|57
 Iordăcheanu|45.044|26.239|RO|Prahova|55
+Iosifalău|45.782|21.681|RO|Timiș County|55
+Iowa City Municipal Airport|41.639|-91.542|US|Iowa|54|f
+Iowa Lake|43.502|-95.457|US|Minnesota|54|f
+Ionașcu|44.043|24.817|RO|Teleorman County|54
+Iota Island|32.285|-64.823|BM|Warwick|49|f
+Iotape|36.320|32.235|TR|Antalya|49|f
 Ion Neculce|47.203|27.053|RO|Iași County|45
+Ioannes Paulus II Peninsula|-62.529|-60.766|AQ||40|f
+Iona Island|45.150|-80.083|CA|Ontario|40|f
+Iona Island|49.216|-123.203|CA|British Columbia|40|f
+Ionia County Airport|42.939|-85.065|US|Michigan|40|f
+Ionia State Recreation Area|42.946|-85.134|US|Michigan|40|f
+Iosegun Lake|54.477|-116.849|CA|Alberta|40|f
+Iowa Arboretum|41.944|-93.857|US|Iowa|40|f
+Iowa Falls Bridge|42.518|-93.263|US|Iowa|40|f
+Iowa Lake|47.800|-90.773|US|Minnesota|40|f
 Iona|-16.883|12.570|AO|Namibe|0
 Iongo|-9.206|17.749|AO|Luanda Norte|0

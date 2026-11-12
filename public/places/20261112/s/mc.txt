@@ -11,26 +11,35 @@ McAlester|34.933|-95.770|US|Oklahoma|85
 McKenzie Towne|50.913|-113.967|CA|Alberta|85
 McKinley Park|41.832|-87.674|US|Illinois|84
 McKinleyville|40.947|-124.101|US|California|84
+MCG|-37.820|144.983|AU|Victoria|83|f
 McFarland|35.678|-119.229|US|California|83
 McMinnville|35.683|-85.770|US|Tennessee|83
 McKenzie Lake|50.908|-113.981|CA|Alberta|82
 McPherson|38.371|-97.664|US|Kansas|82
 McComb|31.244|-90.453|US|Mississippi|82
+McMaster University|43.259|-79.919|CA|Ontario|81|f
+McMahon Stadium|51.070|-114.121|CA|Alberta|81|f
 Mcleodganj|32.240|76.325|IN|Himachal Pradesh|81
 McFarland|43.013|-89.290|US|Wisconsin|78
 McCook|40.202|-100.626|US|Nebraska|78
 McGregor|26.561|-81.915|US|Florida|77
+McCook Ben Nelson Regional Airport|40.206|-100.592|US|Nebraska|77|f
+McDiarmid Park|56.409|-3.477|GB|Scotland|77|f
+McGrath Airport|62.953|-155.606|US|Alaska|77|f
 McKees Rocks|40.466|-80.066|US|Pennsylvania|76
 McMasterville|45.550|-73.266|CA|Quebec|75
 McCordsville|39.908|-85.923|US|Indiana|75
 McRae|32.068|-82.901|US|Georgia|75
 McKenzie|36.133|-88.519|US|Tennessee|74
+McLean Park|-39.502|176.913|NZ|Hawke's Bay Region|74|f
 McGregor|31.444|-97.409|US|Texas|74
+McKinley National Park Airport|63.733|-148.911|US|Alaska|73|f
 McMurray|40.278|-80.084|US|Pennsylvania|73
 McLoud|35.436|-97.091|US|Oklahoma|73
 McGehee|33.629|-91.400|US|Arkansas|72
 McGregor|-33.947|19.829|ZA|Western Cape|71
 McGuire AFB|40.040|-74.582|US|New Jersey|71
+Mc Clusky Municipal Airport|47.463|-100.488|US|North Dakota|71|f
 McKail|-34.985|117.830|AU|Western Australia|71
 McDonald|41.164|-80.724|US|Ohio|70
 McCall|44.911|-116.099|US|Idaho|70
@@ -38,9 +47,11 @@ McSherrystown|39.807|-77.011|US|Pennsylvania|70
 McLeansboro|38.093|-88.536|US|Illinois|69
 McKownville|42.684|-73.848|US|New York|69
 McGovern|40.229|-80.216|US|Pennsylvania|69
+McDowell Peak|33.660|-111.818|US|Arizona|69|f
 McCormick|33.913|-82.293|US|South Carolina|68
 McQueeney|29.592|-98.033|US|Texas|68
 McChord Air Force Base|47.134|-122.492|US|Washington|68
+McClellan–Palomar Airport|33.128|-117.281|US|California|67|f
 McKinley|10.084|123.259|PH|Central Visayas|67
 McLendon-Chisholm|32.842|-96.381|US|Texas|67
 McAdoo|40.901|-75.991|US|Pennsylvania|67
@@ -48,6 +59,8 @@ McDonald|40.371|-80.235|US|Pennsylvania|66
 McColl|34.669|-79.545|US|South Carolina|66
 McCamey|31.136|-102.224|US|Texas|66
 McAlmont|34.808|-92.182|US|Arkansas|65
+McNish Island|-54.150|-37.467|GS||65|f
+McPherson Range|-28.266|153.206|AU|Queensland|65|f
 McMechen|39.988|-80.731|US|West Virginia|65
 McConnelsville|39.649|-81.853|US|Ohio|65
 McConnell AFB|37.630|-97.259|US|Kansas|65
@@ -59,11 +72,36 @@ McCrory|35.256|-91.200|US|Arkansas|64
 McMillin|47.140|-122.237|US|Washington|64
 McGregor|42.150|-82.967|CA|Ontario|64
 McIntosh|34.865|-106.052|US|New Mexico|63
+McClellan Butte|47.407|-121.622|US|Washington|63|f
+McClintock Peak|48.525|-113.473|US|Montana|63|f
+McConnell Air Force Base|37.630|-97.261|US|Kansas|63|f
+McGhee Tyson Airport|35.807|-83.991|US|Tennessee|63|f
+McGown Peak|44.213|-115.081|US|Idaho|63|f
+McIlwraith Range|-13.661|143.323|AU|Queensland|63|f
+McKenzie Mountain|44.336|-74.032|US|New York|63|f
+McKinney Municipal Airport|33.180|-96.591|US|Texas|63|f
+McNary Field|44.910|-123.002|US|Oregon|63|f
 McEwen|46.145|-64.786|CA|New Brunswick|63
 McCord|36.678|-97.040|US|Oklahoma|63
 McAdam|45.592|-67.307|CA|New Brunswick|62
 McConnellstown|40.453|-78.082|US|Pennsylvania|62
 McGill|39.405|-114.779|US|Nevada|61
+Mc Kellar-Sipes Regional Airport|35.602|-88.921|US|Tennessee|61|f
+McAfee Peak|41.522|-115.974|US|Nevada|61|f
+McArthur River zinc mine|-16.433|136.067|AU|Northern Territory|61|f
+McCarthy Island|-67.267|59.417|AQ||61|f
+McCoy Mountains|33.689|-114.844|US|California|61|f
+McCoy Stadium|41.873|-71.370|US|Rhode Island|61|f
+McCullough Range|35.916|-115.048|US|Nevada|61|f
+McCurdy Mountain|39.219|-105.468|US|Colorado|61|f
+McDermott Bridge|43.170|-72.345|US|New Hampshire|61|f
+McDonald Peak|43.946|-114.906|US|Idaho|61|f
+McDonald Peak|47.383|-113.919|US|Montana|61|f
+McIntyre Island|-66.233|110.567|AQ||61|f
+McKinley Bridge|38.665|-90.182|US|Illinois|61|f
+McKissick Island|40.540|-95.674|US|Nebraska|61|f
+McMillin Bridge|47.130|-122.236|US|Washington|61|f
+McPartland Mountain|48.691|-113.864|US|Montana|61|f
 McCloud|41.256|-122.139|US|California|61
 McCaysville|34.986|-84.371|US|Georgia|61
 McKinley Heights|41.184|-80.717|US|Ohio|61
@@ -71,6 +109,261 @@ McConnellsburg|39.933|-77.999|US|Pennsylvania|60
 McCullom Lake|42.368|-88.293|US|Illinois|60
 McLeansville|36.107|-79.659|US|North Carolina|60
 McGraw|42.596|-76.093|US|New York|60
+McAlisterville|40.636|-77.275|US|Pennsylvania|60
+McClure|40.707|-77.314|US|Pennsylvania|59
+McBee|34.469|-80.256|US|South Carolina|59
+McLouth|39.196|-95.208|US|Kansas|59
+McGregor|43.018|-91.183|US|Iowa|58
+McKinney Acres|32.302|-102.529|US|Texas|58
+McLean|40.314|-89.170|US|Illinois|58
+Mc Creary County Airport|36.693|-84.394|US|Kentucky|58|f
+McAfee Knob|37.393|-80.037|US|Virginia|58|f
+McAlester Regional Airport|34.885|-95.784|US|Oklahoma|58|f
+McAllen Miller International Airport|26.176|-98.239|US|Texas|58|f
+McArthur-Burney Falls Memorial State Park|41.019|-121.651|US|California|58|f
+McCall Airport|44.894|-116.100|US|Idaho|58|f
+McCarthy Airport|61.429|-142.927|US|Alaska|58|f
+McCauley Mountain|40.970|-76.287|US|Pennsylvania|58|f
+McClellan Peak|47.470|-120.786|US|Washington|58|f
+McConnel Islands|-66.477|-65.817|AQ||58|f
+McConnell Island|48.596|-123.022|US|Washington|58|f
+McConnell Peak|38.949|-120.243|US|California|58|f
+McCormicks Island|40.308|-76.907|US|Pennsylvania|58|f
+McDonald Island|38.001|-121.490|US|California|58|f
+McDonald Islands|-53.033|72.600|HM||58|f
+McFarland Peak|36.341|-115.726|US|Nevada|58|f
+McGary Øer|79.207|-65.924|GL|Avannaata|58|f
+McGinty Mountain|32.752|-116.861|US|California|58|f
+McHugh Island|-39.116|146.242|AU|Victoria|58|f
+McKay Range|53.727|-132.497|CA|British Columbia|58|f
+McKay Reservoir|45.605|-118.798|US|Oregon|58|f
+McKean Island|-3.596|-174.123|KI|Phoenix Islands|58|f
+McKnight Mountain|33.052|-107.850|US|New Mexico|58|f
+McMillan Reservoir|38.925|-77.017|US|District of Columbia|58|f
+McMinnville Municipal Airport|45.198|-123.138|US|Oregon|58|f
+McNary National Wildlife Refuge|46.119|-118.955|US|Washington|58|f
+McVille Airport|40.735|-79.599|US|Pennsylvania|58|f
+McCammon|42.650|-112.193|US|Idaho|58
+McLean|35.233|-100.600|US|Texas|58
 McKee|37.430|-83.998|US|Kentucky|58
+McRoberts|37.208|-82.672|US|Kentucky|58
+McClellan Park|38.662|-121.402|US|California|57
+McDonald Chapel|33.522|-86.934|US|Alabama|57
+McKenna|46.935|-122.557|US|Washington|57
+McClure|41.371|-83.942|US|Ohio|57
+McLennan|55.700|-116.903|CA|Alberta|57
+McDade|30.284|-97.238|US|Texas|57
+McRae|35.113|-91.822|US|Arkansas|57
+McLaughlin|45.814|-100.810|US|South Dakota|57
+McAdenville|35.259|-81.075|US|North Carolina|57
+McBain|44.194|-85.213|US|Michigan|56
+McKinlay|-21.267|141.300|AU|Queensland|56
+McIntyre|32.846|-83.191|US|Georgia|56
+McIntosh|47.637|-95.886|US|Minnesota|56
+McElhattan|41.160|-77.361|US|Pennsylvania|56
+McBride|53.300|-120.169|CA|British Columbia|55
+McClellanville|33.088|-79.461|US|South Carolina|54
+McNary|34.074|-109.857|US|Arizona|54
+Mc Dermitt State Airport|42.006|-117.727|US|Oregon|54|f
+Mc Gee Airport|45.235|-122.856|US|Oregon|54|f
+Mc Kenzie Bridge State Airport|44.182|-122.083|US|Oregon|54|f
+Mc Kinnon Airpark|45.431|-122.242|US|Oregon|54|f
+McAllister Glacier|48.557|-121.130|US|Washington|54|f
+McArthur River Mine Airport|-16.443|136.076|AU|Northern Territory|54|f
+McCall Point|-67.029|-66.619|AQ||54|f
+McCance Glacier|-66.762|-65.892|AQ||54|f
+McCarrons Lake|44.998|-93.113|US|Minnesota|54|f
+McConnell State Recreation Area|37.415|-120.711|US|California|54|f
+McCook Lake|42.549|-96.515|US|South Dakota|54|f
+McGinnis Mountain|58.452|-134.596|US|Alaska|54|f
+McGown Lakes|44.182|-115.079|US|Idaho|54|f
+McHenrys Peak|40.263|-105.657|US|Colorado|54|f
+McHugh Peak|61.041|-149.664|US|Alaska|54|f
+McIntosh Lake|46.867|-122.767|US|Washington|54|f
+McKechnie Field|27.487|-82.569|US|Florida|54|f
+McKinley Mine|35.670|-108.992|US|New Mexico|54|f
+McKinnan Gulch Mine|37.930|-122.646|US|California|54|f
+McKissack Ponds|29.843|-84.685|US|Florida|54|f
+McMinn County Airport|35.399|-84.560|US|Tennessee|54|f
+McNary Lock and Dam|45.935|-119.298|US|Oregon|54|f
+McNay Art Museum|29.486|-98.455|US|Texas|54|f
+McNee Ranch State Park (historical)|37.559|-122.501|US|California|54|f
+McNeil Island|47.211|-122.688|US|Washington|54|f
+McNeile Glacier|-63.954|-59.387|AQ||54|f
+McPherson Square|38.902|-77.034|US|District of Columbia|54|f
+McCurtain|35.150|-94.971|US|Oklahoma|54
+McConnell|37.826|-81.967|US|West Virginia|54
+McIver's|49.083|-58.132|CA|Newfoundland and Labrador|54
+McKenzie|31.542|-86.715|US|Alabama|54
+McCoole|39.446|-78.972|US|Maryland|54
+McLeans Ridges|-28.800|153.383|AU|New South Wales|54
 McClusky|47.486|-100.443|US|North Dakota|51
+McArthur Glacier|-71.341|-67.440|AQ||49|f
+McCalman Peak|-63.615|-57.764|AQ||49|f
+McCann, Mount|-73.567|-77.617|AQ||49|f
+McCarroll Peak|-66.044|-62.790|AQ||49|f
+McCarthy Glacier|-86.067|-127.400|AQ||49|f
+McCarthy Island|-54.167|-37.433|GS||49|f
+McCarthy Stadium|40.037|-75.154|US|Pennsylvania|49|f
+McCaw Ridge|-75.366|-65.027|AQ||49|f
+McClary Glacier|-68.066|-66.933|AQ||49|f
+McClary Ridge|-66.901|-64.152|AQ||49|f
+McCleary Glacier|-79.550|156.833|AQ||49|f
+McClelland Ridge|-77.450|162.167|AQ||49|f
+McClintock Point|-77.550|163.667|AQ||49|f
+McClintock Ridge|-82.050|161.000|AQ||49|f
+McClintock, Mount|-80.217|157.433|AQ||49|f
+McClugage Bridge|40.720|-89.547|US|Illinois|49|f
+McCollum Peak|-65.546|-64.026|AQ||49|f
+McConchie Ridge|-78.200|162.750|AQ||49|f
+McConville Peak|42.534|-123.047|US|Oregon|49|f
+McCormick, Cape|-71.833|170.967|AQ||49|f
+McCoys Knob|41.902|-75.259|US|New York|49|f
+McCraw Glacier|-80.117|156.583|AQ||49|f
+McCue, Mount|-84.750|-174.683|AQ||49|f
+McDonald Point|-67.341|59.666|AQ||49|f
+McDonald Ridge|-66.333|52.250|AQ||49|f
+McFarlane Bridge|-29.465|153.197|AU|New South Wales|49|f
+McGees Bridge|-42.800|147.520|AU|Tasmania|49|f
+McGinnis Peak|-84.533|-177.867|AQ||49|f
+McGrath, Mount|-70.877|65.468|AQ||49|f
+McGregor Mountain|42.390|-74.579|US|New York|49|f
+McGuire Island|-64.768|-64.391|AQ||49|f
+McHugo Peak|-69.841|-68.095|AQ||49|f
+McIlroy Peak|-54.183|-36.767|GS||49|f
+McIntosh, Mount|-77.517|168.683|AQ||49|f
+McIntyre Promontory|-84.950|179.667|AQ||49|f
+McKee Hill|42.426|-74.848|US|New York|49|f
+McKellar Glacier|-72.200|167.117|AQ||49|f
+McKenzie Peak|-70.305|65.628|AQ||49|f
+McKenzie, Mount|-70.667|67.017|AQ||49|f
+McKeown, Mount|-77.933|-85.517|AQ||49|f
+McKinley Peak|-77.917|-148.167|AQ||49|f
+McKinnis Peak|-69.567|159.350|AQ||49|f
+McKinnon Glacier|-70.633|67.750|AQ||49|f
+McKinnon Island|-67.650|47.583|AQ||49|f
+McLaren Island|63.708|-68.440|CA|Nunavut|49|f
+McLaren Ridge|-70.869|67.608|AQ||49|f
+McLaughlin Peak|-74.585|-64.275|AQ||49|f
+McLay Glacier|-81.033|158.817|AQ||49|f
+McLean Glacier|-70.983|164.750|AQ||49|f
+McLean Ridge|-70.744|66.847|AQ||49|f
+McLennan, Mount|-67.200|51.083|AQ||49|f
+McLeod Glacier|-69.333|158.250|AQ||49|f
+McLeod Massif|-70.767|68.000|AQ||49|f
+McMahon Glacier|-70.750|165.750|AQ||49|f
+McMahon Islands|-67.633|45.967|AQ||49|f
+McMahon, Mount|-70.835|65.148|AQ||49|f
+McManus Glacier|-69.461|-71.480|AQ||49|f
+McMinns Lagoon|-12.533|131.083|AU|Northern Territory|49|f
+McMorrin Glacier|-67.969|-67.101|AQ||49|f
+McMullin Island|-66.276|110.510|AQ||49|f
+McMurdy Hill|42.365|-74.726|US|New York|49|f
+McNab, Cape|-66.933|163.233|AQ||49|f
+McNamara Park|-37.826|140.653|AU|South Australia|49|f
+McPherson Peak|-78.533|-84.700|AQ||49|f
 McIntosh|45.921|-101.350|US|South Dakota|45
+M'Clure Bay|73.618|-95.634|CA|Nunavut|40|f
+McAllister Island|63.401|-67.964|CA|Nunavut|40|f
+McAlpine Mountain|35.243|-82.437|US|North Carolina|40|f
+McArthur Lake|48.206|-81.216|CA|Ontario|40|f
+McArthur Lake|55.250|-102.400|CA|Saskatchewan|40|f
+McArthur Lake|61.584|-106.834|CA|Northwest Territories|40|f
+McArthur Lake|48.514|-116.451|US|Idaho|40|f
+McArthur Peak|60.606|-140.213|CA|Yukon|40|f
+McBride Island|63.501|-67.898|CA|Nunavut|40|f
+McBride Range|50.016|-122.669|CA|British Columbia|40|f
+McCabe Lake|44.776|-63.751|CA|Nova Scotia|40|f
+McCall Glacier|46.506|-121.444|US|Washington|40|f
+McCann Glacier|-71.550|164.550|AQ||40|f
+McCann Point|-83.367|169.633|AQ||40|f
+McCarrahan Lake|45.954|-94.921|US|Minnesota|40|f
+McCarthy Beach State Park|47.673|-93.030|US|Minnesota|40|f
+McCarthy Ridge|-74.617|163.050|AQ||40|f
+McCarthys Lake|45.629|-61.169|CA|Nova Scotia|40|f
+McCarty Glacier|59.807|-150.253|US|Alaska|40|f
+McCauley Mountain|43.396|-74.890|US|New York|40|f
+McCauley Mountain|43.693|-74.961|US|New York|40|f
+McClarem Lake|45.804|-100.046|US|South Dakota|40|f
+McClellan Ranch Park|37.314|-122.064|US|California|40|f
+McClelland Gallery and Sculpture Park|-38.146|145.177|AU|Victoria|40|f
+McClintic Wildlife Management Area|38.926|-82.072|US|West Virginia|40|f
+McClinton Glacier|-74.667|-114.000|AQ||40|f
+McClurg Museum|42.321|-79.577|US|New York|40|f
+McCombe Lake|49.369|-122.861|CA|British Columbia|40|f
+McConnell Lake|49.839|-87.869|CA|Ontario|40|f
+McConnell Lake Park|50.522|-120.459|CA|British Columbia|40|f
+McConnell Range|56.800|-126.587|CA|British Columbia|40|f
+McCormack Island|58.603|-78.637|CA|Nunavut|40|f
+McCoy Lake|49.268|-124.883|CA|British Columbia|40|f
+McCrory, Mount|-75.483|-139.433|AQ||40|f
+McCuddin Mountains|-75.783|-128.700|AQ||40|f
+McCuistion Glacier|-84.817|-175.500|AQ||40|f
+McCulloch Park|41.070|-85.150|US|Indiana|40|f
+McCullock Stadium|44.930|-123.037|US|Oregon|40|f
+McDaniel Lake|37.295|-93.315|US|Missouri|40|f
+McDermott Glacier|-78.333|162.067|AQ||40|f
+McDonald Creek Park|50.133|-117.819|CA|British Columbia|40|f
+McDonald Glacier|47.387|-113.917|US|Montana|40|f
+McDonald Island|44.317|-76.166|CA|Ontario|40|f
+McDonald Lake|45.720|-60.963|CA|Nova Scotia|40|f
+McDonald Lake|49.167|-103.184|CA|Saskatchewan|40|f
+McDonald Lake|43.998|-114.889|US|Idaho|40|f
+McDonald Park|48.673|-123.429|CA|British Columbia|40|f
+McDonough Museum of Art|41.105|-80.645|US|Ohio|40|f
+McDougall Lake|52.228|-119.913|CA|British Columbia|40|f
+McDowell Mountains|33.662|-111.812|US|Arizona|40|f
+McElroy Glacier|-70.967|166.967|AQ||40|f
+McElroy Ridge|-72.617|168.050|AQ||40|f
+McEneaney Field|43.516|-96.763|US|South Dakota|40|f
+McEvoy Lake|61.802|-130.236|CA|Yukon|40|f
+McFaddin-Ward House Museum|30.086|-94.115|US|Texas|40|f
+McFaulds Lake|52.768|-86.057|CA|Ontario|40|f
+McGaw Peak|-75.867|-140.983|AQ||40|f
+McGinn Hill|43.776|-74.224|US|New York|40|f
+McGrath State Beach|34.226|-119.262|US|California|40|f
+McGregor Glacier|-85.133|-174.833|AQ||40|f
+McGregor Lake|50.424|-112.852|CA|Alberta|40|f
+McGregor Range|54.083|-121.370|CA|British Columbia|40|f
+McGuire Island|41.681|-79.403|US|Pennsylvania|40|f
+McGuire Island|45.564|-122.465|US|Oregon|40|f
+McKay Creek National Wildlife Refuge|45.587|-118.783|US|Oregon|40|f
+McKay Lake|53.733|-65.615|CA|Newfoundland and Labrador|40|f
+McKay Lake|47.165|-95.196|US|Minnesota|40|f
+McKee Botanical Garden|27.608|-80.382|US|Florida|40|f
+McKee-Beshers Wildlife Management Area|39.076|-77.401|US|Maryland|40|f
+McKees Rocks Bridge|40.478|-80.046|US|Pennsylvania|40|f
+McKeesport Duquesne Bridge|40.358|-79.844|US|Pennsylvania|40|f
+McKenney Islands|52.650|-129.482|CA|British Columbia|40|f
+McKenzie Lake|45.364|-78.023|CA|Ontario|40|f
+McKenzie Lake|46.938|-122.614|US|Washington|40|f
+McKercher, Mount|-86.150|-150.033|AQ||40|f
+McKinney Falls State Park|30.181|-97.726|US|Texas|40|f
+McKinney Hill|42.874|-74.178|US|New York|40|f
+McKinzie Islands|-74.050|-101.833|AQ||40|f
+McLain Rogers Park|35.506|-98.974|US|Oklahoma|40|f
+McLain State Park|47.237|-88.609|US|Michigan|40|f
+McLean Falls|-46.568|169.350|NZ|Otago|40|f
+McLean Island|43.703|-65.222|CA|Nova Scotia|40|f
+McLean Island|50.950|-109.835|CA|Saskatchewan|40|f
+McLean Island|62.900|-66.664|CA|Nunavut|40|f
+McLean Peak|-85.850|-141.583|AQ||40|f
+McLean Peninsula|46.883|-80.100|CA|Ontario|40|f
+McLeod Bay|50.350|-93.250|CA|Ontario|40|f
+McLeod Lake|54.296|-115.653|CA|Alberta|40|f
+McLin Glacier|-71.200|163.450|AQ||40|f
+McLoughlin Bay|67.844|-98.580|CA|Nunavut|40|f
+McMillan Flowage|46.521|-60.649|CA|Nova Scotia|40|f
+McMillan Island|49.177|-122.572|CA|British Columbia|40|f
+McNabs Island|44.613|-63.520|CA|Nova Scotia|40|f
+McNally Peak|-86.583|-153.400|AQ||40|f
+McNeeley Peak|46.928|-121.647|US|Washington|40|f
+McNeill Bay|48.412|-123.313|CA|British Columbia|40|f
+McNulty Lake|34.706|-90.961|US|Arkansas|40|f
+McPhee Reservoir|37.510|-108.560|US|Colorado|40|f
+McPherson Museum|38.371|-97.650|US|Kansas|40|f
+McPherson Opera House|38.367|-97.666|US|Kansas|40|f
+McPherson Seaplane Base|42.517|-76.549|US|New York|40|f
+McSweeney Point|-82.817|166.667|AQ||40|f
+McWhinnie Peak|-77.267|162.233|AQ||40|f
+McWillards Lake|44.057|-115.044|US|Idaho|40|f

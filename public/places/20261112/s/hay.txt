@@ -23,6 +23,8 @@ Haysville|37.564|-97.352|US|Kansas|81
 Hayes|17.876|-77.237|JM|Clarendon|80
 Hayrat|40.885|40.365|TR|Trabzon|78
 Hayle|50.184|-5.421|GB|England|78
+Hay River/Merlyn Carter Airport|60.840|-115.783|CA|Northwest Territories|78|f
+Hay Airport|-34.531|144.830|AU|New South Wales|75|f
 Hayfield|38.752|-77.136|US|Virginia|72
 Hay River|60.816|-115.800|CA|Northwest Territories|71
 Hayti|36.234|-89.750|US|Missouri|69
@@ -31,6 +33,7 @@ Hayanist|40.120|44.373|AM|Ararat|68
 Hay|-34.509|144.843|AU|New South Wales|67
 Hayfork|40.554|-123.183|US|California|67
 Hayward|46.013|-91.485|US|Wisconsin|67
+Hayaseno Dam|40.467|140.545|JP|Aomori|67|f
 Hayredin|43.602|23.661|BG|Vratsa|67
 Hayingen|48.275|9.478|DE|Baden-Wurttemberg|67
 Haynesville|32.962|-93.140|US|Louisiana|67
@@ -42,6 +45,9 @@ Hayden|40.495|-107.257|US|Colorado|65
 Hayuliang|28.073|96.543|IN|Arunachal Pradesh|65
 Haydon Bridge|54.975|-2.247|GB|England|64
 Haykavan|40.089|44.039|AM|Armavir|63
+Hayachine-damu|39.531|141.340|JP|Iwate|63|f
+Hays Municipal Airport|38.851|-99.276|US|Kansas|63|f
+Haystack Mountain|39.630|-78.821|US|Maryland|63|f
 Haykashen|40.072|44.308|AM|Armavir|63
 Hayden|33.893|-86.758|US|Alabama|63
 Hayfield|43.891|-92.848|US|Minnesota|62
@@ -49,15 +55,99 @@ Haymā’|19.959|56.276|OM|Al Wusta Governorate|62
 Hay Point|-21.296|149.274|AU|Queensland|62
 Haykavan|40.803|43.752|AM|Shirak|62
 Hayes Subdivision|45.055|-64.588|CA|Nova Scotia|61
+Hay Lake|47.567|-92.397|US|Minnesota|61|f
+Hayachine|39.567|141.483|JP|Iwate|61|f
+Hayden Mountain|42.107|-122.100|US|Oregon|61|f
+Haystack Dam|44.499|-121.156|US|Oregon|61|f
+Haystack Mountain|42.914|-72.920|US|Vermont|61|f
+Hayward Air Terminal Airport|37.659|-122.123|US|California|61|f
 Hayakawa|35.242|139.142|JP|Kanagawa|61
 Hayakawa|35.450|138.350|JP|Yamanashi|61
+Haykıran|38.642|27.116|TR|İzmir Province|60
 Haynes|52.066|-0.399|GB|England|59
 Hayneville|32.184|-86.580|US|Alabama|59
+Hayvoron|50.985|32.921|UA|Chernihiv Oblast|59
+Hays|47.989|-108.694|US|Montana|59
+Hay Island|-13.670|143.692|AU|Queensland|58|f
+Haycock|54.485|-3.322|GB|England|58|f
+Hayden Bridge|44.072|-122.964|US|Oregon|58|f
+Hayesbreen|78.382|18.529|SJ|Svalbard|58|f
+Hayford Peak|36.657|-115.201|US|Nevada|58|f
+Hayk Square|40.811|44.485|AM|Lori|58|f
+Hayton Castle|54.763|-3.385|GB|England|58|f
+Hayes|30.109|-92.920|US|Louisiana|58
+Hayrenyats|40.631|43.873|AM|Shirak|58
+Haynrode|51.445|10.445|DE|Thuringia|58
+HaYogev|32.612|35.204|IL|Northern District|57
+Hayden|33.005|-110.785|US|Arizona|56
+Hayn|51.570|11.080|DE|Saxony-Anhalt|56
+Hayden Lake|47.759|-116.757|US|Idaho|56
+Hayti Heights|36.234|-89.770|US|Missouri|55
+Haynsburg|51.018|12.066|DE|Saxony-Anhalt|55
+Haydarlı|38.011|28.456|TR|Aydın|55
+Haynecourt|50.209|3.159|FR|Hauts-de-France|55
+Hay|50.040|25.191|UA|Lviv|55
+Hay Springs|42.684|-102.690|US|Nebraska|55
+Hayden|38.983|-85.741|US|Indiana|54
+Hay|13.350|38.517|ET|Amhara|54|f
+Hay Bluff|52.023|-3.103|GB|Wales|54|f
+Hay Peak|-54.067|-37.167|GS||54|f
+Haycock Island|-16.731|145.695|AU|Queensland|54|f
+Haycock Mountain|40.504|-75.231|US|Pennsylvania|54|f
+Hayes State Park|42.063|-84.137|US|Michigan|54|f
+Haymarket Square|42.364|-71.058|US|Massachusetts|54|f
+Haynach Lakes|40.346|-105.765|US|Colorado|54|f
+Hayne’s Cave Battery|36.130|-5.348|GI||54|f
+Haynes Inlet|43.453|-124.204|US|Oregon|54|f
+Haystack Mountain|42.005|-73.208|US|Connecticut|54|f
+Haystack Rock|45.885|-123.968|US|Oregon|54|f
+Hayravank|40.431|45.095|AM|Gegharkunik|54
 Hayti|44.657|-97.205|US|South Dakota|52
 Hayesville|35.046|-83.818|US|North Carolina|51
+Hay Island|-43.359|145.948|AU|Tasmania|49|f
+Hayden Peak|38.031|-107.910|US|Colorado|49|f
+Hayden Peak|39.059|-106.852|US|Colorado|49|f
+Hayes Peak|-67.464|60.782|AQ||49|f
+Hayman Island|-20.051|148.888|AU|Queensland|49|f
+Hayrick Island|-68.699|-67.519|AQ||49|f
+Hays Glacier|-67.667|46.300|AQ||49|f
+Hays Mountains|-86.000|-155.000|AQ||49|f
+Haystack Hills|43.624|-89.862|US|Wisconsin|49|f
+Haystack Island|-35.322|136.907|AU|South Australia|49|f
+Haystack Mountain|-28.622|152.508|AU|New South Wales|49|f
+Haystack Peak|39.848|-113.905|US|Utah|49|f
+Hayter Peak|-53.017|73.333|HM||49|f
+Hayter, Mount|-82.033|157.433|AQ||49|f
+Haywards Bay|-34.548|150.801|AU|New South Wales|49|f
 Hayes Center|40.511|-101.020|US|Nebraska|46
 Hayton|53.900|-0.750|GB|England|46
+Hay Castle|52.074|-3.126|GB|Wales|40|f
+Hay Island|41.047|-73.471|US|Connecticut|40|f
+Hay Islands|73.668|-101.118|CA|Nunavut|40|f
+Hay Lake|52.917|-66.899|CA|Newfoundland and Labrador|40|f
+Hay Marsh Lake|45.345|-61.212|CA|Nova Scotia|40|f
+Hayden Glacier|44.152|-121.775|US|Oregon|40|f
+Hayden Hill|40.998|-120.870|US|California|40|f
+Hayden Peak|40.735|-110.844|US|Utah|40|f
+Hayes Glacier|-76.267|-27.900|AQ||40|f
+Hayes Head|-74.017|165.283|AQ||40|f
+Hayes Lake State Park|48.623|-95.508|US|Minnesota|40|f
+Hayes Volcano|61.600|-152.455|US|Alaska|40|f
+Hayfork Airport|40.546|-123.183|US|California|40|f
+Hayli Gubbi|13.510|40.722|ET||40|f
+Haynes Glacier|-75.417|-109.500|AQ||40|f
+Haynes Hill|43.373|-75.435|US|New York|40|f
+Haynes Mountain|42.079|-74.508|US|New York|40|f
+Haynes Point Park|49.015|-119.455|CA|British Columbia|40|f
+Haynesville Airport|32.986|-93.138|US|Louisiana|40|f
+Hayrick Butte|44.399|-121.871|US|Oregon|40|f
+Hays Canyon Range|41.342|-119.954|US|Nevada|40|f
+Hays Lake|47.186|-95.245|US|Minnesota|40|f
+Haystack Mountain|41.180|-75.892|US|Pennsylvania|40|f
+Hayward Gallery|51.507|-0.116|GB|England|40|f
+Hayward Lake|49.206|-122.380|CA|British Columbia|40|f
 Hay|52.070|-3.127|GB|Wales|0
+Hayan Hudong|41.446|113.303|CN|Inner Mongolia|0
 Ḩaydān|16.779|43.434|YE|Şa‘dah|0
 Haydarlı|38.260|30.386|TR|Afyonkarahisar Province|0
 Ḩayfān|13.318|44.280|YE|Ta‘izz|0

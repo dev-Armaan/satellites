@@ -14,18 +14,21 @@ Bongolava|-18.500|46.100|MG||96|r
 Bongor|10.281|15.374|TD|Mayo-Kebbi Est|96
 Bonga|7.289|36.242|ET|South West Ethiopia Peoples' Region|95
 Bonan|25.463|99.528|CN|Yunnan|95
+Bonin Islands|27.000|142.167|JP|Tokyo|95|f
 Bonita Springs|26.340|-81.779|US|Florida|94
 Bonoua|5.272|-3.596|CI|Comoé District|94
 Bondy|48.902|2.489|FR|Île-de-France|94
 Bonito|-8.470|-35.729|BR|Pernambuco|92
 Bongouanou|6.652|-4.204|CI|Comoé District|91
+Bonaire Island|12.191|-68.257|BQ|Bonaire|91|f
 Bonn Hardtberg|50.704|7.054|DE|North Rhine-Westphalia|91
 Bonoufla|7.129|-6.474|CI|Sassandra-Marahoue|90
 Bongao|5.029|119.773|PH|Autonomous Region in Muslim Mindanao|88
+Bonriki International Airport|1.382|173.147|KI|Gilbert Islands|88|f
 Bonito|-21.121|-56.482|BR|Mato Grosso do Sul|87
 Bontoc|17.087|120.977|PH|Cordillera|87
 Bondo|-0.096|34.273|KE|Siaya County|87
-Bonaire|12.200|-68.283|BQ||86|r
+Bonaire|12.200|-68.283|BQ||87|r
 Bonney Lake|47.177|-122.187|US|Washington|86
 Bönen|51.600|7.767|DE|North Rhine-Westphalia|86
 Bonneuil-sur-Marne|48.770|2.479|FR|Île-de-France|85
@@ -57,9 +60,11 @@ Bonfinópolis|-16.618|-48.963|BR|Goiás|80
 Bondoufle|48.613|2.378|FR|Île-de-France|80
 Bonawon|9.134|122.919|PH|Central Visayas|79
 Bonhill|55.979|-4.564|GB|Scotland|79
+Bonneville Dam|45.644|-121.941|US|Oregon|79|f
 Bondo|0.235|34.281|KE|Siaya County|79
 Bonadelle Ranchos-Madera Ranchos|36.985|-119.875|US|California|79
 Bonabéri|4.071|9.682|CM|Littoral|78
+Bonde Palace|59.326|18.066|SE|Stockholm|78|f
 Bonner Springs|39.060|-94.884|US|Kansas|78
 Bondeno|44.889|11.415|IT|Emilia-Romagna|78
 Bonjoia|41.150|-8.583|PT|Porto|78
@@ -82,12 +87,14 @@ Bondo-Dioula|8.219|-3.200|CI|Zanzan District|76
 Bonnyville|54.267|-110.735|CA|Alberta|76
 Bonfim do Piauí|-9.169|-42.875|BR|Piauí|75
 Bondantila|12.904|74.925|IN|Karnataka|75
+Bonaventure Airport|48.071|-65.460|CA|Quebec|75|f
 Bondorf|48.521|8.837|DE|Baden-Wurttemberg|75
 Bongawan|5.533|115.850|MY|Sabah|75
 Boncelles|50.571|5.536|BE|Wallonia|75
 Bonfinópolis de Minas|-16.566|-45.987|BR|Minas Gerais|75
 Bonnybridge|56.002|-3.889|GB|Scotland|74
 Bonares|37.324|-6.681|ES|Andalusia|74
+Bonanza Peak|48.238|-120.866|US|Washington|74|f
 Bongabār|23.701|85.524|IN|Jharkhand|74
 Bonzi|6.917|-5.534|CI|Sassandra-Marahoue|74
 Bonchamp-lès-Laval|48.074|-0.702|FR|Pays de la Loire|74
@@ -113,12 +120,15 @@ Bonavista|48.650|-53.115|CA|Newfoundland and Labrador|71
 Bonópolis|-13.636|-49.810|BR|Goiás|70
 Boneh Gaz|28.946|51.114|IR|Bushehr|70
 Bongoville|-1.647|13.863|GA|Haut-Ogooué|70
+Bonampak|16.704|-91.065|MX|Chiapas|70|f
 Bonanza|33.466|-84.337|US|Georgia|70
 Bongofla|7.539|-5.787|CI|Sassandra-Marahoue|70
 Bonny Hills|-31.591|152.839|AU|New South Wales|70
 Bonțida|46.916|23.815|RO|Cluj County|69
 Bonifacio|41.387|9.157|FR|Corsica|69
 Bonifay|30.792|-85.680|US|Florida|69
+Bonaparte Archipelago|-14.283|125.300|AU|Western Australia|69|f
+Bonito Airport|-21.244|-56.450|BR|Mato Grosso do Sul|69|f
 Bongued|7.117|124.400|PH|Autonomous Region in Muslim Mindanao|69
 Bonny Doon|37.042|-122.151|US|California|69
 Bonaventure|48.046|-65.493|CA|Quebec|69
@@ -131,6 +141,7 @@ Bonzi|6.824|-5.329|CI|Yamoussoukro|68
 Bonne|46.172|6.324|FR|Auvergne-Rhône-Alpes|68
 Bonzo|8.160|-7.265|CI|Woroba|67
 Boñar|42.867|-5.324|ES|Castille and León|67
+Bonny Doon Village Airport|37.070|-122.127|US|California|67|f
 Bonstetten|47.315|8.468|CH|Zurich|67
 Bono|35.909|-90.803|US|Arkansas|67
 Bönigen|46.687|7.894|CH|Bern|67
@@ -160,6 +171,10 @@ Bon-Secours|50.498|3.608|BE|Wallonia|64
 Bonnes|46.605|0.595|FR|New Aquitaine|64
 Bongobo|7.021|-5.039|CI|Lacs District|64
 Bon Accord|53.833|-113.419|CA|Alberta|64
+Bongeunsa|37.515|127.058|KR|Seoul|63|f
+Bongjeongsa|36.653|128.663|KR|Gyeongsangbuk-do|63|f
+Bongseonsa|37.747|127.184|KR|Gyeonggi-do|63|f
+Bonnet Carre Spillway Dam|30.003|-90.441|US|Louisiana|63|f
 Bonduel|44.740|-88.445|US|Wisconsin|63
 Boniswil|47.317|8.190|CH|Aargau|63
 Bonavicina|45.244|11.184|IT|Veneto|63
@@ -180,6 +195,14 @@ Bonstetten|48.440|10.705|DE|Bavaria|62
 Bondeno|44.936|10.860|IT|Lombardy|61
 Bongana|9.605|-6.269|CI|Savanes District|61
 Bonikouassikro|6.863|-4.549|CI|Lacs District|61
+Bon Kūh|32.039|49.880|IR|Khuzestan|61|f
+Bonanza Airport|14.036|-84.624|NI|North Caribbean Coast|61|f
+Bondhusbrea|60.061|6.311|NO|Vestland|61|f
+Bonghwangsan|37.005|128.694|KR|Gyeongsangbuk-do|61|f
+Bonghwasan|37.782|127.609|KR|Gangwon-do|61|f
+Bonghwasan|35.547|127.578|KR|Jeollabuk-do|61|f
+Bongrain Point|-67.725|-67.744|AQ||61|f
+Bonny Dam|39.623|-102.174|US|Colorado|61|f
 Bonea|41.073|14.617|IT|Campania|61
 Bonlez|50.702|4.689|BE|Wallonia|61
 Bonpland|-29.817|-57.430|AR|Corrientes|61
@@ -188,28 +211,160 @@ Bonnefamille|45.600|5.125|FR|Auvergne-Rhône-Alpes|60
 Bonti|6.598|-5.219|CI|Lacs District|60
 Bonéfla|7.257|-6.257|CI|Sassandra-Marahoue|60
 Bonnanaro|40.533|8.764|IT|Sardinia|60
+Boningbé|8.962|-7.846|CI|Woroba|60
+Bonneuil-en-Valois|49.285|2.992|FR|Hauts-de-France|60
+Bontnewydd|53.116|-4.268|GB|Wales|60
+Bönan|60.740|17.312|SE|Gävleborg|59
+Bonyād|28.318|51.546|IR|Bushehr|58
+Bonneuil-en-France|48.974|2.432|FR|Île-de-France|58
+Bonnard|47.924|3.527|FR|Bourgogne-Franche-Comté|58
+Bonsall|53.121|-1.585|GB|England|58
+Bonanza Range|50.350|-126.670|CA|British Columbia|58|f
+Bongao Peak|5.014|119.742|PH|Autonomous Region in Muslim Mindanao|58|f
+Bongoyo Island|-6.697|39.265|TZ|Dar es Salaam Region|58|f
+Bonneville Mountain|45.244|-117.210|US|Oregon|58|f
+Bonnyville Airport|54.304|-110.744|CA|Alberta|58|f
+Bonsall Øer|79.167|-66.626|GL|Avannaata|58|f
+Bonticou Crag|41.789|-74.118|US|New York|58|f
+Bonwick Island|50.700|-126.642|CA|British Columbia|58|f
+Bonnetan|44.821|-0.412|FR|New Aquitaine|58
+Bonneuil-les-Eaux|49.679|2.237|FR|Hauts-de-France|58
+Bona|7.890|-6.602|CI|Woroba|58
+Bonegilla|-36.140|147.006|AU|Victoria|57
+Bondanello|44.959|10.946|IT|Lombardy|57
+Bondoukou Pri|7.588|-5.269|CI|Vallée du Bandama District|57
+Bønnerup Strand|56.528|10.723|DK|Central Jutland|57
+Bonnut|43.548|-0.764|FR|New Aquitaine|57
+Bonnétage|47.200|6.700|FR|Bourgogne-Franche-Comté|57
 Bonavigo|45.258|11.279|IT|Veneto|57
 Bonifati|39.586|15.902|IT|Calabria|57
+Bonnée|47.796|2.384|FR|Centre-Val de Loire|57
+Bonțești|46.275|22.306|RO|Arad County|57
 Boniewo|52.465|18.891|PL|Kujawsko-Pomorskie|57
+Bonnac|43.166|1.592|FR|Occitanie|57
+Bonneville-la-Louvet|49.272|0.332|FR|Normandy|57
+Bonnebosq|49.204|0.078|FR|Normandy|57
+Bonisiolo|45.582|12.318|IT|Veneto|57
 Bondo|46.000|10.692|IT|Trentino-Alto Adige|57
+Boneh-ye Ākhūnd|31.264|49.627|IR|Khuzestan|57
+Bonzac|45.008|-0.223|FR|New Aquitaine|57
+Bonnay|47.333|6.050|FR|Bourgogne-Franche-Comté|57
+Bongrabo|7.696|-4.855|CI|Vallée du Bandama District|56
+Bonrepos-sur-Aussonnelle|43.546|1.149|FR|Occitanie|56
+Bonifacio Falcón|21.411|-103.127|MX|Zacatecas|56
+Bondukbangsora|22.030|92.630|IN|Mizoram|56
+Bonnières|50.243|2.261|FR|Hauts-de-France|56
+Bonson|43.863|7.190|FR|Provence-Alpes-Côte d'Azur|56
+Bontro|7.401|-8.323|CI|Montagnes|56
 Bondione|46.035|10.008|IT|Lombardy|56
+Bonfol|47.477|7.152|CH|Jura|56
+Boninne|50.494|4.932|BE|Wallonia|56
+Bonningues-lès-Ardres|50.793|2.015|FR|Hauts-de-France|56
+Bondarenkovo|45.400|36.488|UA|Crimea|56
+Bondārān|26.615|57.091|IR|Hormozgan|56
 Bonassola|44.183|9.584|IT|Liguria|56
+Bonningues-lès-Calais|50.890|1.774|FR|Hauts-de-France|55
+Boncheleh|34.801|46.588|IR|Kermanshah Province|55
+Bonwapitse|-23.039|26.638|BW|Central|55
+Bonanza|35.239|-94.426|US|Arkansas|55
+Bonnœuvre|47.533|-1.233|FR|Pays de la Loire|55
+Bondhí|20.532|-99.296|MX|Hidalgo|55
+Bonnie Doon|-37.017|145.867|AU|Victoria|55
+Boni Andokro|6.733|-4.906|CI|Lacs District|55
+Bonby|53.625|-0.485|GB|England|55
+Bondoola|-23.167|150.683|AU|Queensland|54
+Bon Accord Dam|-25.628|28.189|ZA|Gauteng|54|f
+Bonaparte Point|-64.779|-64.067|AQ||54|f
+Bond Peaks|-72.250|25.583|AQ||54|f
+Bond Point|-62.677|-60.808|AQ||54|f
+Bondaholmen|57.137|12.201|SE|Halland|54|f
+Bondoc Peninsula|13.437|122.557|PH|Calabarzon|54|f
+Bone Lake|45.535|-92.389|US|Wisconsin|54|f
+Bonkolo Dam|-31.870|26.919|ZA|Eastern Cape|54|f
+Bonne Nuit Bay|49.253|-2.118|JE||54|f
+Bonnet Island|-42.220|145.220|AU|Tasmania|54|f
+Bonnier Point|-64.460|-63.940|AQ||54|f
+Bontang Airport|0.120|117.475|ID|East Kalimantan|54|f
+Bonvouloir Islands and Reefs|-10.284|151.890|PG|Milne Bay Province|54|f
+Bonini|45.529|13.782|SI|Urban Municipality of Koper|54
+Bondarevske|47.846|38.291|UA|Donetsk|54
+Bonneau|33.305|-79.958|US|South Carolina|54
+Bonsin|50.373|5.381|BE|Wallonia|54
 Bonastre|41.220|1.439|ES|Catalonia|53
+Bond Glacier|-67.083|109.333|AQ||49|f
+Bond Ridge|-70.283|65.217|AQ||49|f
+Bondi Pavilion|-33.890|151.277|AU|New South Wales|49|f
+Bone Hill Creek National Wildlife Refuge|46.551|-98.862|US|North Dakota|49|f
+Bone Mountains|41.427|-115.738|US|Nevada|49|f
+Boney Peak|34.116|-118.940|US|California|49|f
+Boney Point|-76.650|162.717|AQ||49|f
+Bongil Bongil National Park|-30.388|153.081|AU|New South Wales|49|f
+Bonne Glacier|-77.883|163.817|AQ||49|f
+Bonnells Bay|-33.099|151.535|AU|New South Wales|49|f
+Bonney Riegel|-77.717|162.367|AQ||49|f
+Bonython Park|-34.916|138.580|AU|South Australia|49|f
+Bongard|50.292|6.838|DE|Rheinland-Pfalz|49
 Bondone|45.806|10.550|IT|Trentino-Alto Adige|47
+Bondelum|54.560|9.269|DE|Schleswig-Holstein|46
 Boniches|39.983|-1.617|ES|Castille-La Mancha|44
 Bonilla de la Sierra|40.531|-5.265|ES|Castille and León|44
 Bonansa|42.427|0.667|ES|Aragon|41
+Bon Echo Provincial Park|44.917|-77.266|CA|Ontario|40|f
+Bon Secour National Wildlife Refuge|30.235|-87.845|US|Alabama|40|f
+Bon Tempe Lake|37.954|-122.606|US|California|40|f
+Bonanza Peak|61.521|-142.833|US|Alaska|40|f
+Bonaparte Park|51.150|-120.503|CA|British Columbia|40|f
+Bonavista Bay|48.750|-53.498|CA|Newfoundland and Labrador|40|f
+Bond Swamp National Wildlife Refuge|32.737|-83.584|US|Georgia|40|f
+Bondeson Glacier|-82.733|165.000|AQ||40|f
+Bone Hill|39.107|-94.139|US|Missouri|40|f
+Bones Bay|50.587|-126.362|CA|British Columbia|40|f
+Bonham State Park|33.545|-96.146|US|Texas|40|f
+Bonigersee|46.256|7.844|CH|Valais|40|f
+Bonilla Island|53.489|-130.610|CA|British Columbia|40|f
+Bonito Lake|33.455|-105.736|US|New Mexico|40|f
+Bonnabeau Dome|-73.517|-94.167|AQ||40|f
+Bonne Bay|49.550|-57.932|CA|Newfoundland and Labrador|40|f
+Bonnechere Provincial Park|45.667|-77.574|CA|Ontario|40|f
+Bonnechere River Provincial Park|45.667|-77.666|CA|Ontario|40|f
+Bonnet Lake|27.543|-81.442|US|Florida|40|f
+Bonnet Peak|51.433|-115.885|CA|Alberta|40|f
+Bonnie Lake|54.151|-111.864|CA|Alberta|40|f
+Bonny Lake|27.898|-81.923|US|Florida|40|f
+Bonny Lakes|45.183|-117.161|US|Oregon|40|f
+Bonshaw Provincial Park|46.200|-63.349|CA|Prince Edward Island|40|f
 Bonvicino|44.504|8.018|IT|Piedmont|31
+Bonagung|-6.661|111.089|ID|Central Java|0
+Bonak|-9.895|123.896|ID|East Nusa Tenggara|0
+Bonang|-6.662|111.467|ID|Central Java|0
+Boncis|-8.264|112.870|ID|East Java|0
+Boncong|-6.772|111.736|ID|East Java|0
 Bondari|52.950|42.060|RU|Tambov Oblast|0
 Bondo Caíla|-17.317|18.350|AO||0
+Bondoboghila|-9.412|119.353|ID|East Nusa Tenggara|0
 Bondokodi|-9.594|118.993|ID|East Nusa Tenggara|0
+Bone|-9.814|124.464|ID|East Nusa Tenggara|0
 Bonebone|-2.600|120.519|ID|South Sulawesi|0
+Bonefatu|-9.678|124.709|ID|East Nusa Tenggara|0
+Boneng|-8.049|111.868|ID|East Java|0
+Bong|-7.226|113.500|ID|East Java|0
 Bồng Sơn|14.429|109.016|VN|Gia Lai|0
+Bongancina Kaja|-8.334|114.949|ID|Bali|0
+Bongbong|-6.394|105.950|ID|Banten|0
+Bongewu|-8.778|120.954|ID|East Nusa Tenggara|0
 Bonggang|35.012|127.581|KR|Jeollanam-do|0
+Bonggol Satu|-6.901|112.010|ID|East Java|0
+Bonggor|-9.559|118.940|ID|East Nusa Tenggara|0
+Bongkemalik|-8.631|116.528|ID|West Nusa Tenggara|0
 Bongnae|34.893|127.131|KR|Jeollanam-do|0
+Bongsri|-6.728|111.049|ID|Central Java|0
 Bonifacio|8.053|123.614|PH|Northern Mindanao|0
+Bonik|-10.202|123.606|ID|East Nusa Tenggara|0
+Bonipoi|-10.162|123.580|ID|East Nusa Tenggara|0
 Bonjol|-0.018|100.227|ID|West Sumatra|0
 Bonópolis|-13.651|-49.833|BR|Goiás|0
+Bonorejo|-7.183|111.679|ID|East Java|0
 Bonrepòs i Mirambell|39.517|-0.367|ES|Valencia|0
+Bonsari|-8.373|113.604|ID|East Java|0
 Bontang Baru|0.119|117.487|ID|East Kalimantan|0
 Bontoc|10.356|124.970|PH|Eastern Visayas|0

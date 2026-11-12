@@ -1,6 +1,6 @@
 Casablanca-Settat|33.478|-7.432|MA||135|r
 Casablanca|33.588|-7.611|MA|Casablanca-Settat|131
-Castille and León|41.667|-4.250|ES||127|r
+Castille and León|41.667|-4.250|ES||128|r
 Castille-La Mancha|39.500|-3.000|ES||126|r
 Cascavel|-24.956|-53.455|BR|Paraná|111
 Casanare Department|5.500|-71.500|CO||111|r
@@ -15,9 +15,11 @@ Caserta|41.073|14.332|IT|Campania|97
 Cascavel|-4.133|-38.242|BR|Ceará|97
 Casa Nova|-9.174|-40.975|BR|Bahia|97
 Castro|-24.789|-50.012|BR|Paraná|97
+Cascade Range|46.853|-121.760|US|Washington|97|f
 Casas Adobes|32.323|-110.995|US|Arizona|96
 Castelldefels|41.278|1.970|ES|Catalonia|96
 Castellammare di Stabia|40.702|14.487|IT|Campania|96
+Castel Sant'Angelo|41.903|12.466|IT|Lazio|96|f
 Castro Valley|37.694|-122.086|US|California|96
 Casper|42.867|-106.313|US|Wyoming|96
 Castlereagh|54.574|-5.885|GB|Northern Ireland|95
@@ -30,17 +32,20 @@ Castleford|53.726|-1.363|GB|England|93
 Castro|-42.472|-73.773|CL|Los Lagos Region|92
 Cascina|43.676|10.555|IT|Tuscany|92
 Casco Histórico de Vallecas|40.349|-3.616|ES|Madrid|92
+Caserta Palace|41.073|14.327|IT|Campania|92|f
 Castle Hill|-33.733|151.000|AU|New South Wales|92
 Castelo|-20.604|-41.185|BR|Espírito Santo|91
 Cascais|38.697|-9.421|PT|Lisbon|91
 Casco Histórico de Vicálvaro|40.392|-3.570|ES|Madrid|91
 Casalecchio di Reno|44.476|11.275|IT|Emilia-Romagna|91
 Castelo Branco|39.824|-7.491|PT|Castelo Branco|90
+Caspian Sea|42.000|50.000|||90|f
 Casale Monferrato|45.133|8.453|IT|Piedmont|90
 Casal Palocco|41.748|12.347|IT|Lazio|90
 Casilda|-33.045|-61.164|AR|Santa Fe|90
 Castro-Urdiales|43.383|-3.220|ES|Cantabria|90
 Castelvetrano|37.681|12.792|IT|Sicily|90
+Castle Mirabell|47.806|13.042|AT|Salzburg|89|f
 Casa Branca|-21.774|-47.086|BR|São Paulo|89
 Castillejos|14.934|120.198|PH|Central Luzon|89
 Casal de' Pazzi|41.929|12.566|IT|Lazio|89
@@ -54,6 +59,7 @@ Castellar del Vallès|41.617|2.083|ES|Catalonia|88
 Casa Santa|38.025|12.548|IT|Sicily|88
 Castricum|52.548|4.669|NL|North Holland|88
 Castaños|26.789|-101.432|MX|Coahuila|87
+castle Rosenborg|55.686|12.577|DK|Capital Region|87|f
 Castel Volturno|41.033|13.944|IT|Campania|87
 Cassano Magnago|45.672|8.827|IT|Lombardy|87
 Cassino|41.486|13.828|IT|Lazio|86
@@ -68,6 +74,7 @@ Castilho|-20.872|-51.487|BR|São Paulo|86
 Castelo do Piauí|-5.322|-41.553|BR|Piauí|86
 Casarano|40.011|18.162|IT|Apulia|86
 Castaic|34.489|-118.623|US|California|86
+Castle of Good Hope|-33.926|18.428|ZA|Western Cape|86|f
 Casa de Oro-Mount Helix|32.764|-116.969|US|California|85
 Casavatore|40.899|14.277|IT|Campania|85
 Castiglione delle Stiviere|45.390|10.486|IT|Lombardy|85
@@ -76,25 +83,18 @@ Castelnau-le-Lez|43.636|3.901|FR|Occitanie|85
 Castelfranco Emilia|44.594|11.050|IT|Emilia-Romagna|85
 Cassano d'Adda|45.526|9.515|IT|Lombardy|85
 Casa Blanca|19.042|-98.119|MX|Puebla|85
+Castel del Monte|41.085|16.271|IT|Apulia|85|f
 Cássia|-20.583|-46.922|BR|Minas Gerais|85
 Castilleja de la Cuesta|37.386|-6.053|ES|Andalusia|85
 Castilla|40.474|-3.680|ES|Madrid|85
 Castellana|40.434|-3.684|ES|Madrid|85
+Casa Batlló|41.392|2.165|ES|Catalonia|84|f
 Casal Bertone|41.898|12.534|IT|Lazio|84
 Castel Maggiore|44.577|11.361|IT|Emilia-Romagna|84
 Casula|-33.952|150.899|AU|New South Wales|84
+Castle of São Jorge|38.714|-9.133|PT|Lisbon|84|f
 Çaşgyn|37.797|61.549|TM|Mary|84
 Castelfidardo|43.459|13.550|IT|The Marches|83
 Castletroy|52.673|-8.553|IE|Munster|83
 Castellana|40.886|17.165|IT|Apulia|83
 Castellaneta|40.628|16.933|IT|Apulia|83
-Castellanza|45.611|8.896|IT|Lombardy|83
-Casisang|8.138|125.125|PH|Northern Mindanao|83
-Casagiove|41.071|14.312|IT|Campania|83
-Casinhas|-7.741|-35.721|BR|Pernambuco|83
-Castelsarrasin|44.040|1.107|FR|Occitanie|82
-Casandrino|40.928|14.247|IT|Campania|82
-Castellammare del Golfo|38.027|12.882|IT|Sicily|82
-Castlebar|53.850|-9.300|IE|Connacht|82
-Casa de Campo|40.424|-3.753|ES|Madrid|82
-Casalpusterlengo|45.179|9.648|IT|Lombardy|82

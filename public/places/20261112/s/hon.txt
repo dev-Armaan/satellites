@@ -14,6 +14,7 @@ Hongseong|36.602|126.661|KR|Chungcheongnam-do|99
 Honghe|36.403|118.918|CN|Shandong|99
 Honjō|36.238|139.190|JP|Saitama|98
 Hongch’ŏn|37.692|127.886|KR|Gangwon-do|98
+Honshu|36.000|138.000|JP||97|f
 Hongwŏn|40.025|127.956|KP|South Hamgyong|97
 Hongqiao|26.768|112.108|CN|Hunan|95
 Honiara|-9.433|159.950|SB|Honiara|95
@@ -23,6 +24,7 @@ Honghu|30.000|106.952|CN|Chongqing|90
 Honchō|41.894|140.694|JP|Hokkaido|89
 Honda|5.209|-74.736|CO|Tolima Department|89
 Hong Kah|1.359|103.723|SG||88
+Honiara International Airport|-9.428|160.055|SB|Guadalcanal Province|87|f
 Honglu|29.352|105.727|CN|Chongqing|87
 Hongzhou|26.126|109.409|CN|Guizhou|87
 Hongbao|34.752|106.060|CN|Gansu|86
@@ -42,12 +44,20 @@ Honghe|34.410|105.390|CN|Gansu|82
 Honmachi|43.911|144.667|JP|Hokkaido|82
 Hongchuan|33.751|105.891|CN|Gansu|80
 Hongfa Centre|22.555|113.889|CN|Guangdong|80
+Hong Kong Space Museum|22.294|114.172|HK|Yau Tsim Mong District|80|f
 Hondo|29.347|-99.141|US|Texas|79
+Hong Kong Heritage Museum|22.377|114.185|HK|Sha Tin|78|f
 Honfleur|49.420|0.233|FR|Normandy|78
 Honaz|37.757|29.270|TR|Denizli|78
 Hongō|35.482|135.619|JP|Fukui|78
+Hong Kong Museum of History|22.302|114.177|HK|Kowloon City|78|f
 Honselersdijk|52.007|4.224|NL|South Holland|77
 Hongor|49.230|105.897|MN|Darhan Uul|75
+Hong Kong Railway Museum|22.447|114.164|HK|Tai Po|75|f
+Hong Kong Science Museum|22.301|114.177|HK|Kowloon City|75|f
+Hong Kong Zoological and Botanical Gardens|22.278|114.156|HK|Central and Western|75|f
+Hong Kong–Zhuhai–Macau Bridge|22.283|113.771|HK|Islands|75|f
+Honningsvåg Airport, Valan|71.009|25.978|NO|Finnmark|75|f
 Hönö|57.690|11.650|SE|Västra Götaland|74
 Honchō|42.811|143.653|JP|Hokkaido|74
 Honchō|43.704|144.021|JP|Hokkaido|74
@@ -58,21 +68,29 @@ Hondagua|13.945|122.242|PH|Calabarzon|73
 Honchō|42.128|142.918|JP|Hokkaido|73
 Høng|55.507|11.289|DK|Zealand|73
 Honesdale|41.577|-75.259|US|Pennsylvania|73
+Hongyuan Airport|32.527|102.355|CN|Sichuan|72|f
 Hongū|33.833|135.767|JP|Wakayama|72
 Hondschoote|50.978|2.584|FR|Hauts-de-France|71
 Hondelage|52.314|10.606|DE|Lower Saxony|71
 Hondo Valle|18.716|-71.695|DO|Elías Piña|71
 Honea Path|34.447|-82.392|US|South Carolina|71
+Hong Kong Museum of Medical Sciences|22.284|114.149|HK|Central and Western|71|f
 Honcharivske|51.299|30.920|UA|Chernihiv Oblast|70
+Hòn Khoai|8.435|104.833|VN|Ca Mau|70|f
+Hongō Dam|40.691|140.637|JP|Aomori|70|f
 Honmura|34.461|133.997|JP|Kagawa|70
 Hongō|35.067|137.700|JP|Aichi|69
 Honeoye Falls|42.952|-77.590|US|New York|69
+Honey Acres Airport|42.079|-83.986|US|Michigan|69|f
+Hong Kong Museum of Coastal Defence|22.283|114.234|HK||69|f
 Honaunau-Napoopoo|19.456|-155.865|US|Hawaii|68
 Honningsvåg|70.982|25.970|NO|Finnmark|68
 Hondón de las Nieves|38.308|-0.853|ES|Valencia|68
 Honalo|19.546|-155.932|US|Hawaii|68
 Honoka‘a|20.079|-155.467|US|Hawaii|67
 Hồng Vân|16.365|107.122|VN|Thừa Thiên Huế Province|67
+Hong Kong Visual Arts Centre|22.277|114.159|HK|Central and Western|65|f
+Honnør Glacier|-69.383|39.833|AQ||65|f
 Hongyang|26.529|119.463|CN|Fujian|65
 Hönigsberg|47.581|15.636|AT|Styria|65
 Hongor|45.800|111.200|MN|East Gobi Aymag|65
@@ -82,42 +100,211 @@ Honey Grove|33.583|-95.910|US|Texas|64
 Honrubia|39.614|-2.281|ES|Castille-La Mancha|64
 Honkajoki|61.983|22.267|FI|Satakunta|64
 Hồng Bắc|16.277|107.183|VN|Thừa Thiên Huế Province|64
+Hong Lake|29.848|113.363|CN|Hubei|63|f
+Hongū-zan|34.900|137.417|JP|Aichi|63|f
+Honna-damu|37.441|139.493|JP|Fukushima|63|f
+Honzawa-damu|35.608|139.276|JP|Kanagawa|63|f
 Honeyville|41.639|-112.079|US|Utah|63
 Hồng Kim|16.335|107.237|VN|Thừa Thiên Huế Province|63
 Honaker|37.016|-81.974|US|Virginia|63
 Honeybourne|52.095|-1.831|GB|England|63
 Hồng Hạ|16.301|107.313|VN|Thừa Thiên Huế Province|61
 Honey|20.239|-98.212|MX|Puebla|61
+Honey Hill|41.242|-73.427|US|Connecticut|61|f
 Hone|45.614|7.739|IT|Aosta Valley|61
 Hồng Thái|16.184|107.207|VN|Thừa Thiên Huế Province|61
 Hongtang|26.071|119.231|CN|Fujian|61
 Hondón de los Frailes|38.274|-0.929|ES|Valencia|60
+Hondelange|49.633|5.833|BE|Wallonia|60
+Hondeghem|50.756|2.521|FR|Hauts-de-France|60
+Hönigthal|47.083|15.567|AT|Styria|58
+Hontheim|50.067|6.983|DE|Rheinland-Pfalz|58
+Hondah|34.094|-109.934|US|Arizona|58
+Hon-Hergies|50.327|3.818|FR|Hauts-de-France|58
+Honeoye Lake|42.754|-77.512|US|New York|58|f
+Honeymoon Bridge|44.142|-71.185|US|New Hampshire|58|f
+Honeymoon Island State Park|28.070|-82.830|US|Florida|58|f
+Honglingjin Gongyuan|39.926|116.486|CN|Beijing|58|f
+Hongshi Shuiku|42.921|127.185|CN|Jilin|58|f
+Honsocker Knob|39.701|-80.406|US|West Virginia|58|f
+Honwee Mountain|42.510|-73.306|US|Massachusetts|58|f
 Honoria|-8.769|-74.709|PE|Huánuco Department|58
 Hontoria del Pinar|41.848|-3.162|ES|Castille and León|58
+Hondouville|49.138|1.120|FR|Normandy|58
+Honnecourt-sur-Escaut|50.033|3.200|FR|Hauts-de-France|58
+Honorata|47.817|29.434|UA|Odesa|57
+Honguemare-Guenouville|49.370|0.811|FR|Normandy|56
+Hondainville|49.341|2.302|FR|Hauts-de-France|56
+Honeymoon Bay|48.817|-124.167|CA|British Columbia|56
+Hondol|45.987|22.986|RO|Hunedoara County|56
+Honcharne|44.466|33.700|UA|Sevastopol City|55
+Honeoye|42.790|-77.517|US|New York|55
+Hontanx|43.825|-0.273|FR|New Aquitaine|55
+Hontiv Yar|49.818|35.578|UA|Kharkiv|54
+Hon Airport|29.110|15.966|LY|Al Jufrah|54|f
+Hondeklipbaai|-30.315|17.272|ZA|Northern Cape|54|f
+Honey Camp Lagoon|18.043|-88.438|BZ|Orange Walk District|54|f
+Honey Lake|40.249|-120.313|US|California|54|f
+Hong Kong Correctional Services Museum|22.216|114.218|HK||54|f
+Hong Kong Film Archive|22.285|114.222|HK||54|f
+Hong Kong Maritime Museum|22.218|114.210|HK|Southern District|54|f
+Hong Kong Museum Of Art|22.294|114.172|HK|Yau Tsim Mong District|54|f
+Hong Kong Park|22.277|114.161|HK|Central and Western|54|f
+Honores Rock|-62.503|-59.712|AQ||54|f
+Honnechy|50.069|3.471|FR|Hauts-de-France|54
+Honomu|19.873|-155.111|US|Hawaii|54
 Honduras de la Sierra|15.589|-92.476|MX|Chiapas|54
+Honigsee|54.228|10.188|DE|Schleswig-Holstein|54
 Hontanaya|39.716|-2.835|ES|Castille-La Mancha|53
 Hontalbilla|41.346|-4.121|ES|Castille and León|52
 Hongos|-12.811|-75.765|PE|Lima region|51
 Hontanares de Eresma|40.983|-4.204|ES|Castille and León|49
+Honda Airport|35.977|139.524|JP|Saitama|49|f
+Honda Bay|9.901|118.783|PH|Mimaropa|49|f
+Honeycomb Glacier|-72.117|169.867|AQ||49|f
+Honeycomb Ridge|-72.083|169.967|AQ||49|f
+Honeymoon Bay|-35.057|150.777|AU|New South Wales|49|f
+Honeymoon Bay|-42.130|148.290|AU|Tasmania|49|f
+Hong Lim Park|1.285|103.845|SG||49|f
+Honghe Mengzi Airport|23.465|103.349|CN|Yunnan|49|f
+Honkala Island|-66.229|110.602|AQ||49|f
+Honnamana Kere|12.621|75.880|IN|Karnataka|49|f
+Honnywill Peak|-80.521|-29.161|AQ||49|f
 Hontoria de Valdearados|41.745|-3.520|ES|Castille and León|48
 Hontoba|40.454|-3.039|ES|Castille-La Mancha|47
+Honerath|50.383|6.900|DE|Rheinland-Pfalz|46
 Hontanar|39.613|-4.497|ES|Castille-La Mancha|43
 Hontoria de la Cantera|42.189|-3.643|ES|Castille and León|43
 Hontangas|41.582|-3.796|ES|Castille and León|42
 Honrubia de la Cuesta|41.510|-3.705|ES|Castille and León|42
 Hontoria de Cerrato|41.911|-4.442|ES|Castille and León|41
+Hondo Dog Park|45.553|-122.910|US|Oregon|40|f
+Honegg|46.804|7.804|CH|Bern|40|f
+Honeycomb Glacier|48.075|-121.061|US|Washington|40|f
+Honeycomb Hills|45.602|-105.006|US|Montana|40|f
+Honeyman Island|69.084|-85.299|CA|Nunavut|40|f
+Hong Kong Cultural Centre|22.294|114.170|HK|Yau Tsim Mong District|40|f
+Hong Kong Polytechnic University|22.304|114.179|HK|Yau Tsim Mong District|40|f
+Honnedaga Lake|43.529|-74.835|US|New York|40|f
+Honolulu Hale|21.305|-157.858|US|Hawaii|40|f
+Honolulu Museum of Art|21.304|-157.849|US|Hawaii|40|f
+Honolulu Zoo|21.274|-157.820|US|Hawaii|40|f
+Honor Heights Park|35.768|-95.417|US|Oklahoma|40|f
+Honouliuli National Monument|21.388|-158.058|US|Hawaii|40|f
+Hontoon Island State Park|28.967|-81.362|US|Florida|40|f
+Hony Hill|42.569|-74.328|US|New York|40|f
 Hontecillas|39.700|-2.183|ES|Castille-La Mancha|40
 Hontanas|42.313|-4.045|ES|Castille and León|37
 Hòn Đất|10.185|104.930|VN|An Giang|0
 Hong|10.233|12.928|NG|Adamawa|0
 Hong’an Chengguanzhen|31.362|114.637|CN|Hubei|0
+Hongcao|22.827|115.379|CN|Guangdong|0
+Hongchang|23.119|116.311|CN|Guangdong|0
+Hongcheng|29.843|112.889|CN|Hubei|0
+Hongde|36.741|107.184|CN|Gansu|0
+Hongdu|28.963|108.313|CN|Guizhou|0
+Hongdun|47.724|88.218|CN|Xinjiang|0
+Hongdun|26.978|117.666|CN|Fujian|0
+Honggangshan|29.519|114.869|CN|Hubei|0
+Hongge’ertu|41.695|113.152|CN|Inner Mongolia|0
+Honggor|44.692|112.206|CN|Inner Mongolia|0
+Hongguan|22.452|111.145|CN|Guangdong|0
+Hongguang|32.063|120.106|CN|Jiangsu|0
+Hongguang|46.344|126.287|CN|Heilongjiang|0
+Hongguang|46.424|126.968|CN|Heilongjiang|0
+Hongguang|48.808|130.511|CN|Heilongjiang|0
+Honghai|40.241|122.112|CN|Liaoning|0
+Honghe|35.767|106.700|CN|Ningxia|0
+Honghua’erji|48.271|119.980|CN|Inner Mongolia|0
+Honghualiangzi|48.113|123.246|CN|Inner Mongolia|0
+Honghuatao|30.515|111.403|CN|Hubei|0
+Honghuxiang|28.220|116.918|CN|Jiangxi|0
+Hongjia|28.614|121.413|CN|Zhejiang|0
+Hongjiaguan|29.477|110.167|CN|Hunan|0
+Hongjiang|27.620|114.393|CN|Jiangxi|0
+Hongjiazui|28.699|116.658|CN|Jiangxi|0
+Hongkeli|46.575|129.843|CN|Heilongjiang|0
+Honglai|25.079|118.516|CN|Fujian|0
+Honglan|31.607|118.980|CN|Jiangsu|0
+Honglin|30.980|118.982|CN|Anhui|0
+Hongling|24.471|113.957|CN|Guangdong|0
 Hongliuwan|39.632|94.337|CN|Gansu|0
+Honglong|30.499|119.004|CN|Anhui|0
+Honglu|25.706|119.314|CN|Fujian|0
+Hongmao|19.026|109.665|CN|Hainan|0
+Hongmei|22.994|113.604|CN|Guangdong|0
+Hongmen|27.492|116.711|CN|Jiangxi|0
+Hongmiao|32.864|106.914|CN|Shaanxi|0
 Hongmiao|32.225|118.920|CN|Jiangsu|0
+Hongnijing|41.388|109.808|CN|Xinjiang|0
 Hongnong|35.396|126.445|KR|Jeollanam-do|0
 Hongor|45.135|113.684|MN|Sühbaatar|0
+Hongpan|41.405|112.776|CN|Inner Mongolia|0
+Hongping|31.669|110.424|CN|Hubei|0
+Hongqi|41.442|82.861|CN|Xinjiang|0
+Hongqi|19.820|110.506|CN|Hainan|0
+Hongqi|40.141|123.876|CN|Liaoning|0
+Hongqi|22.148|113.343|CN|Guangdong|0
+Hongqi|30.606|114.432|CN|Hubei|0
+Hongqi|47.032|124.673|CN|Heilongjiang|0
+Hongqi|46.501|126.571|CN|Heilongjiang|0
+Hongqi|47.237|130.191|CN|Heilongjiang|0
+Hongqi|45.810|130.869|CN|Heilongjiang|0
+Hongqi|45.212|130.925|CN|Heilongjiang|0
+Hongqi|49.066|127.158|CN|Heilongjiang|0
 Hongqi|35.297|113.906|CN|Henan|0
+Hongqi Yingzi|40.334|123.437|CN|Liaoning|0
+Hongqiao|30.989|119.985|CN|Zhejiang|0
+Hongqiao|28.221|121.029|CN|Zhejiang|0
+Hongqiao|28.249|117.684|CN|Jiangxi|0
 Hongqiao|44.432|84.672|CN|Xinjiang|0
+Hongshan|30.770|115.650|CN|Hubei|0
+Hongshan|26.078|119.271|CN|Fujian|0
+Hongshan|25.255|113.593|CN|Guangdong|0
+Hongshan|25.278|118.591|CN|Fujian|0
+Hongshan|25.495|116.103|CN|Fujian|0
 Hongshan|47.976|129.022|CN|Heilongjiang|0
+Hongshan|24.746|116.515|CN|Fujian|0
+Hongshan|23.103|113.466|CN|Guangdong|0
+Hongshan|31.485|120.492|CN|Jiangsu|0
+Hongshanyao|38.300|101.600|CN|Gansu|0
+Hongshanzui|32.455|111.660|CN|Hubei|0
+Hongsheng|46.333|123.312|CN|Heilongjiang|0
+Hongshi|30.988|109.024|CN|Chongqing|0
+Hongshi|42.956|127.101|CN|Jilin|0
 Hongshui|38.425|100.793|CN|Gansu|0
+Hongshuiquan|36.464|101.882|CN|Qinghai|0
+Hongshunli|39.158|117.188|CN|Tianjin|0
+Hongsi|28.722|108.114|CN|Guizhou|0
+Hongsihu|38.897|101.169|CN|Gansu|0
 Hongsipu|37.399|106.060|CN|Ningxia|0
+Hongtang|29.952|121.506|CN|Zhejiang|0
+Hongtang|27.905|114.289|CN|Jiangxi|0
+Hongtang|24.714|118.195|CN|Fujian|0
+Hongtang|28.358|117.017|CN|Jiangxi|0
+Hongtian|25.857|117.249|CN|Fujian|0
+Hongtoushan|41.995|124.505|CN|Liaoning|0
+Hongtu|51.624|124.147|CN|Heilongjiang|0
+Hongtu|30.264|109.907|CN|Hubei|0
 Hongwansi|38.835|99.599|CN|Gansu|0
+Hongwei|26.169|118.996|CN|Fujian|0
+Hongwei|51.977|123.652|CN|Heilongjiang|0
+Hongwei|47.219|124.912|CN|Heilongjiang|0
+Hongxi|30.911|120.838|CN|Zhejiang|0
+Hongxi|24.145|103.320|CN|Yunnan|0
+Hongxing|25.994|118.837|CN|Fujian|0
+Hongxing|45.566|127.111|CN|Heilongjiang|0
+Hongxing|47.951|125.225|CN|Heilongjiang|0
+Hongxing|46.294|126.204|CN|Heilongjiang|0
+Hongxing|45.274|130.960|CN|Heilongjiang|0
+Hongxingqiao|30.923|119.869|CN|Zhejiang|0
+Hongyan|49.510|124.974|CN|Inner Mongolia|0
+Hongyan|29.040|117.463|CN|Jiangxi|0
+Hongyang|23.431|116.214|CN|Guangdong|0
+Hongyansi|30.550|109.903|CN|Hubei|0
+Hongyanxi|29.286|109.633|CN|Hunan|0
+Hongyazi|39.154|99.302|CN|Gansu|0
+Hongyi|29.624|115.199|CN|Jiangxi|0
+Hongyuan|29.322|117.150|CN|Jiangxi|0
+Hongzhuangyang|33.731|113.517|CN|Henan|0
+Hönningen|50.467|6.950|DE|Rheinland-Pfalz|0

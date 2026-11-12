@@ -4,6 +4,7 @@ Dolgoprudnyy|55.950|37.502|RU|Moscow Oblast|97
 Dolores Hidalgo|21.156|-100.933|MX|Guanajuato|97
 Dollard-Des Ormeaux|45.495|-73.824|CA|Quebec|94
 Dolo|13.499|39.637|ET|Tigray|92
+Dolomites|46.383|11.850|IT|Veneto|90|f
 Dolores|-36.315|-57.675|AR|Buenos Aires|90
 Dole|47.092|5.490|FR|Bourgogne-Franche-Comté|88
 Dolynska|48.117|32.777|UA|Kirovohrad|88
@@ -22,6 +23,8 @@ Dolores|12.037|125.483|PH|Eastern Visayas|79
 Dola|23.221|82.133|IN|Madhya Pradesh|79
 Dolianova|39.378|9.177|IT|Sardinia|79
 Dolo|45.425|12.084|IT|Veneto|78
+Dolbeau-Saint-Félicien Airport|48.779|-72.375|CA|Quebec|78|f
+Dolpa Airport|28.985|82.819|NP|Karnali Pradesh|78|f
 Dolores|14.023|121.410|PH|Calabarzon|78
 Doljeşti|47.033|26.983|RO|Neamț County|77
 Dolzhanskaya|46.634|37.802|RU|Krasnodar Krai|77
@@ -38,15 +41,21 @@ Dollymount|53.365|-6.180|IE|Leinster|74
 Dollyar-Dzhagir|40.882|46.037|AZ|Şǝmkir|74
 Dolna Banya|42.311|23.765|BG|Sofia|74
 Dolní Břežany|49.963|14.459|CZ|Central Bohemia|74
+Dolok Sibualbuali|1.556|99.255|ID|North Sumatra|73|f
 Dolinka|49.677|72.678|KZ|Karaganda|73
 Dolores|15.095|120.529|PH|Central Luzon|73
 Dolní Benešov|49.921|18.108|CZ|Moravian-Silesian Region|73
+Dollart|53.283|7.168|NL||72|f
 Dolynske|47.529|29.929|UA|Odesa|72
 Dolores|14.533|-89.117|HN|Ocotepeque Department|72
 Dolo|6.810|125.192|PH|Davao Region|72
+Dolmøya|63.643|8.754|NO|Trøndelag|71|f
 Dolna Mitropolia|43.467|24.533|BG|Pleven|71
 Dolní Chabry|50.146|14.448|CZ|Prague|71
 Dolores Hidalgo|19.655|-99.926|MX|México|71
+Dole–Jura Airport|47.039|5.427|FR|Bourgogne-Franche-Comté|70|f
+Dolgoi Island|55.124|-161.744|US|Alaska|70|f
+Dolsando|34.644|127.760|KR|Jeollanam-do|70|f
 Dolus-d'Oléron|45.917|-1.267|FR|New Aquitaine|70
 Dolní Bojanovice|48.859|17.029|CZ|South Moravian|70
 Dolná Súča|48.961|18.032|SK|Trenčín Region|70
@@ -69,6 +78,7 @@ Dollbergen|52.407|10.181|DE|Lower Saxony|67
 Dolzago|45.767|9.339|IT|Lombardy|67
 Dolní Bousov|50.438|15.128|CZ|Central Bohemia|67
 Dolores|11.061|124.613|PH|Eastern Visayas|67
+Dolores Peak|37.840|-108.096|US|Colorado|67|f
 Dolní Černilov|50.261|15.961|CZ|Hradec Králové Region|67
 Dolcinópolis|-20.123|-50.513|BR|São Paulo|67
 Dolní Počernice|50.088|14.572|CZ|Prague|67
@@ -82,6 +92,7 @@ Dolní Poustevna|50.983|14.287|CZ|Ústí nad Labem Region|66
 Dolný Štál|47.933|17.717|SK|Trnava Region|66
 Dolní Roveň|50.029|15.968|CZ|Pardubice Region|66
 Dolina|45.601|13.859|IT|Friuli Venezia Giulia|66
+Dolmabahçe Palace|41.039|29.002|TR|Istanbul|65|f
 Dolní Bečva|49.455|18.194|CZ|Zlín|65
 Dolní Sloupnice|49.927|16.294|CZ|Pardubice Region|65
 Dollern|53.541|9.550|DE|Lower Saxony|65
@@ -98,6 +109,8 @@ Dolla|7.954|-7.567|CI|Woroba|64
 Dol pri Hrastniku|46.142|15.113|SI|Municipality of Hrastnik|63
 Dołhobyczów|50.586|24.036|PL|Lublin|63
 Dolní Bukovsko|49.171|14.581|CZ|South Bohemian Region|63
+Dolly Varden Mountains|40.317|-114.543|US|Nevada|63|f
+Dolphin Island|60.567|-64.782|CA|Nunavut|63|f
 Dolné Orešany|48.440|17.429|SK|Trnava Region|63
 Dolhești|47.212|26.067|RO|Neamț County|63
 Dolno Srpci|41.175|21.365|MK|Mogila|63
@@ -127,6 +140,10 @@ Dolné Obdokovce|48.313|18.210|SK|Nitra Region|61
 Dolna|47.122|28.270|MD|Strășeni|61
 Dolní Životice|49.897|17.780|CZ|Moravian-Silesian Region|61
 Dolní Újezd|49.546|17.535|CZ|Olomouc Region|61
+Dolly Cay|23.647|-77.365|BS|South Andros|61|f
+Dolní Věstonice|48.883|16.650|CZ|South Moravian|61|f
+Dolok Pangulubao|2.598|99.066|ID|North Sumatra|61|f
+Dolphin Reef|29.526|34.936|IL|Southern District|61|f
 Dolní Loućky|49.361|16.359|CZ|South Moravian|61
 Dollar Corner|45.780|-122.600|US|Washington|61
 Dölsach|46.828|12.845|AT|Tyrol|61
@@ -136,16 +153,143 @@ Doľany|48.416|17.376|SK|Bratislava Region|61
 Dolynivka|48.382|29.918|UA|Kirovohrad|60
 Dollerup|54.778|9.680|DE|Schleswig-Holstein|60
 Dolná Breznica|49.081|18.261|SK|Trenčín Region|60
+Dolné Srnie|48.802|17.821|SK|Trenčín Region|60
+Dolní Domaslavice|49.710|18.477|CZ|Moravian-Silesian Region|60
+Dolgesheim|49.794|8.257|DE|Rheinland-Pfalz|60
+Dolores Vaquerías|19.412|-100.047|MX|México|60
+Dolores|37.474|-108.505|US|Colorado|60
+Dolný Lopašov|48.574|17.646|SK|Trnava Region|60
+Dolní Branná|50.593|15.594|CZ|Hradec Králové Region|59
+Dolores|20.950|-101.902|MX|Guanajuato|59
+Dolní Kralovice|49.645|15.179|CZ|Central Bohemia|59
+Dolní Lomná|49.547|18.694|CZ|Moravian-Silesian Region|59
+Dolgoye Lëdovo|55.861|37.974|RU|Moscow Oblast|59
+Dolores la Joya (La Joya)|19.814|-99.832|MX|México|59
 Dolenjske Toplice|45.757|15.059|SI|Dolenjske Toplice|59
+Dolinka|45.242|33.664|UA|Crimea|59
+Dolynka|45.934|29.647|UA|Odesa|59
+Dolac naselje|43.295|22.206|RS|Central Serbia|59
+Dolní Město|49.628|15.382|CZ|Vysocina|59
+Dolores Amarillas|19.627|-99.708|MX|México|58
+Dolga Vas|45.617|14.885|SI|Municipality of Kočevje|58
+Dolní Třebonín|48.855|14.410|CZ|South Bohemian Region|58
+Dolní Hbity|49.657|14.170|CZ|Central Bohemia|58
+Dolgen|53.954|12.262|DE|Mecklenburg-Vorpommern|58
+Dolní Lukavice|49.602|13.344|CZ|Plzeň Region|58
+Doll Mountain|42.459|-73.345|US|Massachusetts|58|f
+Dolna Mitropoliya Air Base|43.451|24.503|BG|Lovech|58|f
+Dolok Lubuk Raya|1.478|99.210|ID|North Sumatra|58|f
+Dolomittøyane|79.799|18.356|SJ||58|f
+Dolní Hořice|49.435|14.851|CZ|South Bohemian Region|58
+Dolní Ředice|50.078|15.924|CZ|Pardubice Region|58
+Dolsk|51.899|25.513|UA|Volyn|58
+Dolná Poruba|48.912|18.297|SK|Trenčín Region|58
+Dolynske|46.787|35.208|UA|Zaporizhzhia|58
+Doluharman|37.986|41.916|TR|Siirt|58
+Dolynivka|45.993|29.524|UA|Odesa|58
+Dolany|49.443|13.248|CZ|Plzeň Region|58
+Dolní Holetín|49.802|15.927|CZ|Pardubice Region|57
+Dolní Záhoří|49.350|14.214|CZ|South Bohemian Region|57
+Dolores Hidalgo|24.001|-104.573|MX|Durango|57
+Dolenja Vas|45.706|14.754|SI|Municipality of Ribnica|57
+Dolany|50.222|14.350|CZ|Central Bohemia|57
+Dolné Lefantovce|48.425|18.125|SK|Nitra Region|57
+Dolores|15.989|-89.211|BZ|Toledo District|57
 Dolynske|47.787|34.943|UA|Zaporizhzhia|57
+Dolton|50.892|-4.031|GB|England|57
+Dolní Radechová|50.438|16.151|CZ|Hradec Králové Region|57
+Dolní Lánov|50.587|15.664|CZ|Hradec Králové Region|57
+Dolynivka|46.039|30.121|UA|Odesa|57
+Dolynivka|45.138|34.381|UA|Crimea|57
+Dolores|16.604|-92.515|MX|Chiapas|57
+Dolossy|44.534|34.187|UA|Crimea|57
+Dolenji Boštanj|46.009|15.291|SI|Municipality of Sevnica|56
+Dolores|25.722|-103.567|MX|Durango|56
+Dolní Rožínka|49.477|16.210|CZ|Vysocina|56
+Dolno Konjari|41.943|21.709|MK|Petrovec|56
+Doljani|45.568|17.225|HR|Bjelovar-Bilogora|56
 Dolcedo|43.907|7.949|IT|Liguria|56
+Dolga Vas|46.588|16.442|SI|Municipality of Lendava|56
+Dolores (Ex-Hacienda de Dolores)|19.241|-100.346|MX|Michoacán|56
+Dolany|50.380|15.961|CZ|Hradec Králové Region|56
+Dolní Kalná|50.539|15.639|CZ|Hradec Králové Region|56
+Dolores|18.515|-99.616|MX|Guerrero|56
+Dolno Sonje|41.941|21.379|MK|Sopište|56
+Dolnja Bistrica|46.540|16.289|SI|Municipality of Črenšovci|56
+Dolores (La Borrega)|25.593|-103.549|MX|Durango|56
+Dolsko|46.092|14.677|SI|Dol pri Ljubljani|55
+Dolbazlar|36.843|31.418|TR|Antalya|55
+Dolní Lhota|49.137|17.812|CZ|Zlín|55
+Dolinka|45.862|33.941|UA|Crimea|55
+Dólar|37.180|-2.991|ES|Andalusia|55
+Dolunca|37.907|38.592|TR|Adıyaman Province|55
+Dolores Hidalgo|17.486|-95.485|MX|Oaxaca|55
+Dolní Řasnice|50.946|15.169|CZ|Liberec Region|55
+Dolenja Vas|46.241|15.095|SI|Prebold|55
+Dölekli|37.588|35.304|TR|Adana|55
+Dolle|52.409|11.625|DE|Saxony-Anhalt|55
+Dolno Dupeni|40.876|21.120|MK|Resen|55
+Dolus-le-Sec|47.165|0.894|FR|Centre-Val de Loire|55
+Dolyna|48.995|37.432|UA|Donetsk|55
+Dolina|47.828|26.459|RO|Botoșani County|55
+Dolegnano|45.983|13.427|IT|Friuli Venezia Giulia|55
+Dolní Habartice|50.747|14.333|CZ|Ústí nad Labem Region|55
+Doluçanak|38.015|40.726|TR|Diyarbakır Province|55
+Dolna Lešnica|41.957|21.060|MK|Zhelino|55
+Dolní Zálezly|50.597|14.043|CZ|Ústí nad Labem Region|54
+Dolaț|45.430|21.066|RO|Timiș County|54
+Dolní Přím|50.240|15.709|CZ|Hradec Králové Region|54
+Doloplazy|49.350|17.160|CZ|Olomouc Region|54
+Dolmayrac|44.362|0.590|FR|New Aquitaine|54
+Dolores Enyege|19.569|-99.848|MX|México|54
+Doles Sala|56.858|24.237|LV|Salaspils Municipality|54|f
+Dolleman Island|-70.616|-60.733|AQ||54|f
+Dollfusbreen|77.421|14.733|SJ|Svalbard|54|f
+Dolok Sibayak|3.248|98.501|ID|North Sumatra|54|f
+Dolores|25.982|-107.170|MX|Chihuahua|54
+Dolna Kremena|43.167|23.733|BG|Vratsa|54
+Dolnji Zemon|45.548|14.266|SI|Municipality of Ilirska Bistrica|54
+Dolna Čarlija|41.141|21.438|MK|Mogila|54
 Dolcè|45.601|10.852|IT|Veneto|54
+Dolný Vadičov|49.270|18.846|SK|Žilina Region|54
+Dolans Bay|-34.064|151.128|AU|New South Wales|49|f
+Dolbadarn Castle|53.117|-4.114|GB|Wales|49|f
+Dolgener See|53.339|13.355|DE|Mecklenburg-Vorpommern|49|f
+Doli Gutta|18.345|80.753|IN|Chhattisgarh|49|f
+Dolmar|50.625|10.479|DE|Thuringia|49|f
+Dolomittfjellet|77.429|14.988|SJ|Svalbard|49|f
+Dolphin Island|-20.492|116.845|AU|Western Australia|49|f
+Dollrottfeld|54.633|9.817|DE|Schleswig-Holstein|48
 Dol pri Ljubljani|46.089|14.601|SI|Dol pri Ljubljani|48
+Dolan Peak|-85.933|-133.250|AQ||40|f
+Dolber, Mount|-77.117|-145.517|AQ||40|f
+Doldenhorn|46.469|7.735|CH|Bern|40|f
+Dole Island|42.754|-70.820|US|Massachusetts|40|f
+Dolence, Mount|-79.850|-83.217|AQ||40|f
+Dolforwyn Castle|52.546|-3.252|GB|Wales|40|f
+Dolgeville Airport|43.118|-74.743|US|New York|40|f
+Dolgoch Falls|52.619|-3.991|GB|Wales|40|f
+Doll Peak|-80.300|155.100|AQ||40|f
+Dollar Island|43.761|-74.806|US|New York|40|f
+Dollar Lake|44.917|-63.324|CA|Nova Scotia|40|f
+Dollar Lake Provincial Park|44.922|-63.312|CA|Nova Scotia|40|f
+Dollar Lakes|40.592|-115.384|US|Nevada|40|f
+Dollar Mountain|43.679|-114.343|US|Idaho|40|f
+Dolliver Memorial State Park|42.387|-94.084|US|Iowa|40|f
+Dolmen de Viera|37.024|-4.548|ES|Andalusia|40|f
+Dolmen of Menga|37.025|-4.546|ES|Andalusia|40|f
+Dolomite Peak|51.675|-116.372|CA|Alberta|40|f
+Dolphin Cove|39.430|-123.795|US|California|40|f
+Dolphinholme Castle Hill|53.976|-2.733|GB|England|40|f
+Dolwyddelan Castle|53.053|-3.908|GB|Wales|40|f
 Dolegna del Collio|46.031|13.479|IT|Friuli Venezia Giulia|34
 Doluš|45.501|14.914|HR|Primorje-Gorski Kotar|14
+Dolati|46.011|83.656|CN|Xinjiang|0
 Dolgoye|52.058|37.525|RU|Oryol oblast|0
 Doljevac|43.198|21.833|RS|Central Serbia|0
+Dolod|44.500|121.450|CN|Inner Mongolia|0
 Dolok Sanggul|2.259|98.750|ID|North Sumatra|0
 Doloon|44.424|105.321|MN|Ömnögovĭ|0
 Dolores|3.539|-74.898|CO|Tolima Department|0
 Dolores|8.286|-69.566|VE|Barinas|0
+Dolulolong|-8.212|123.726|ID|East Nusa Tenggara|0

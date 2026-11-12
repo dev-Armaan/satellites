@@ -14,6 +14,9 @@ La Falda|-31.093|-64.484|AR|Cordoba|84
 la Font de la Guatlla|41.370|2.145|ES|Catalonia|80
 La Ferté-Bernard|48.187|0.652|FR|Pays de la Loire|80
 La Ferté-sous-Jouarre|48.951|3.127|FR|Île-de-France|80
+La Fría Airport|8.239|-72.271|VE|Táchira|79|f
+La Florida Airport|1.814|-78.749|CO|Nariño|78|f
+Lafayette Regional Airport|30.205|-91.988|US|Louisiana|78|f
 LaFollette|36.383|-84.120|US|Tennessee|77
 La Ferté-Macé|48.590|-0.358|FR|Normandy|77
 La Feria|26.159|-97.824|US|Texas|77
@@ -35,6 +38,7 @@ Lafokpokaha|9.597|-5.068|CI|Savanes District|71
 Lafi|9.683|-6.150|CI|Savanes District|71
 La Francia|-31.406|-62.633|AR|Cordoba|71
 La Fermina|18.176|-65.853|PR|Las Piedras|70
+La Florida Airport|-29.916|-71.201|CL|Coquimbo Region|70|f
 La Fortuna|10.471|-84.645|CR|Alajuela Province|70
 Lafayette|32.900|-85.401|US|Alabama|70
 La Forêt-Fouesnant|47.909|-3.979|FR|Brittany|69
@@ -43,6 +47,7 @@ La Flotte|46.186|-1.327|FR|New Aquitaine|69
 La Florida|1.299|-77.406|CO|Nariño|69
 La Fère|49.663|3.366|FR|Hauts-de-France|69
 Lafrançaise|44.128|1.240|FR|Occitanie|69
+Lafu Island|18.183|121.640|PH|Cagayan Valley|69|f
 La Force|44.869|0.375|FR|New Aquitaine|68
 La Fortuna|8.280|125.001|PH|Northern Mindanao|68
 La Ferté-Milon|49.175|3.129|FR|Hauts-de-France|67
@@ -52,6 +57,7 @@ La Fresnais|48.596|-1.843|FR|Brittany|67
 La Flecha|15.292|-88.490|HN|Santa Bárbara Department|67
 La Font de la Figuera|38.800|-0.883|ES|Valencia|66
 La Flocellière|46.832|-0.861|FR|Pays de la Loire|66
+La Fortuna Arenal Airport|10.470|-84.579|CR|Alajuela Province|65|f
 La Florida|25.769|-103.324|MX|Coahuila|65
 La Fortuna|10.674|-85.200|CR|Guanacaste Province|65
 La Floresta|16.509|-92.313|MX|Chiapas|65
@@ -63,6 +69,7 @@ La Flor|25.681|-103.369|MX|Durango|64
 La Francheville|49.729|4.713|FR|Grand Est|64
 La Forma|41.834|13.091|IT|Lazio|64
 Laflin|41.289|-75.805|US|Pennsylvania|63
+Lafayette Square|38.899|-77.037|US|District of Columbia|63|f
 La Fuente de San Esteban|40.802|-6.259|ES|Castille and León|63
 Lafigué|8.293|-4.622|CI|Vallée du Bandama District|63
 La Fuliola|41.714|1.017|ES|Catalonia|62
@@ -74,8 +81,65 @@ La Florida|23.805|-103.076|MX|Zacatecas|61
 La Fouillade|44.231|2.042|FR|Occitanie|61
 La Ferté-Imbault|47.385|1.953|FR|Centre-Val de Loire|61
 La Fortuna|21.553|-104.951|MX|Nayarit|60
+Lafox|44.168|0.701|FR|New Aquitaine|60
+La Faute-sur-Mer|46.332|-1.322|FR|Pays de la Loire|60
+Lafitte|29.667|-90.108|US|Louisiana|60
 Lafnitz|47.368|16.011|AT|Styria|60
+La Ferté-Saint-Cyr|47.656|1.673|FR|Centre-Val de Loire|59
+La Frette|45.389|5.359|FR|Auvergne-Rhône-Alpes|59
+La Florida|14.067|-87.983|HN|La Paz Department|59
+La Fresnaye-sur-Chédouet|48.447|0.255|FR|Pays de la Loire|59
+La Fontaine|40.674|-85.721|US|Indiana|59
+La Ferté-Vidame|48.612|0.901|FR|Centre-Val de Loire|59
+La Fiora|41.334|13.195|IT|Lazio|58
+La Florida|17.246|-92.951|MX|Chiapas|58
+La Ferrière-en-Parthenay|46.657|-0.077|FR|New Aquitaine|58
+La Farge|43.575|-90.640|US|Wisconsin|58
+La Florida|-5.949|-77.342|PE|San Martín Department|58
+La Florida|18.627|-95.372|MX|Veracruz|58
+La Fortaleza|21.968|-98.797|MX|San Luis Potosí|58
+Lafitte-Vigordane|43.300|1.162|FR|Occitanie|57
+La Florida|19.357|-100.504|MX|Michoacán|57
+Lafitte-sur-Lot|44.352|0.430|FR|New Aquitaine|57
+La Feuillade|45.567|2.167|FR|New Aquitaine|57
+La Ferté-Frênel|48.842|0.511|FR|Normandy|57
+La Foye-Monjault|46.186|-0.538|FR|New Aquitaine|57
+La Flor de Jimulco|25.103|-103.332|MX|Coahuila|57
+La Frontera|16.847|-92.400|MX|Chiapas|57
+La Finca|19.022|-100.210|MX|México|56
+La Falaise|48.944|1.830|FR|Île-de-France|56
+La Florida|20.594|-98.338|MX|Veracruz|56
+La Florida|19.800|-97.244|MX|Veracruz|56
+La Feuillée|48.392|-3.855|FR|Brittany|56
+La Ferrière-Bochard|48.413|-0.034|FR|Normandy|56
+La Frontera Uno|16.932|-92.285|MX|Chiapas|56
+La Fargeville|44.195|-75.966|US|New York|56
+La Flor|15.147|-92.442|MX|Chiapas|56
 La Florida|-6.869|-79.123|PE|Cajamarca Department|55
+La Ferté-Chevresis|49.737|3.558|FR|Hauts-de-France|55
+La Faye|46.020|0.147|FR|New Aquitaine|55
+La Ferté-Loupière|47.898|3.234|FR|Bourgogne-Franche-Comté|55
+La Fortuna [Fraccionamiento]|20.485|-103.396|MX|Jalisco|55
+La Fontenelle|48.467|-1.503|FR|Brittany|55
+La Forge|48.065|6.724|FR|Grand Est|55
+La Florida|21.983|-102.304|MX|Aguascalientes|55
+Lafeuillade-en-Vézie|44.789|2.460|FR|Auvergne-Rhône-Alpes|55
+La Florida|19.317|-101.866|MX|Michoacán|55
+La Fermeté|46.967|3.333|FR|Bourgogne-Franche-Comté|54
+La Ferté-Beauharnais|47.542|1.850|FR|Centre-Val de Loire|54
+Lafarge Rocks|-63.211|-57.551|AQ||54|f
+La Floresta|-5.573|-78.806|PE|Cajamarca Department|54
+La Fortuna|-29.639|-71.112|CL|Coquimbo Region|49|f
+La Frontera|17.833|-89.950|MX|Campeche|49|f
+Lafayette Museum|30.221|-92.021|US|Louisiana|49|f
+Lafayette Square Historic District|38.899|-77.036|US|District of Columbia|49|f
 La Frontera|40.402|-2.217|ES|Castille-La Mancha|46
+La Fava|46.302|7.280|CH|Valais|40|f
+La Foncalada|43.365|-5.846|ES|Asturias|40|f
+Lafarge Lake|49.287|-122.789|CA|British Columbia|40|f
+Lafayette Airstrip|45.244|-123.124|US|Oregon|40|f
+Lafayette Reservoir|37.881|-122.142|US|California|40|f
+Lafayette Square|37.791|-122.428|US|California|40|f
+Lafitte's Blacksmith Shop|29.961|-90.064|US|Louisiana|40|f
 la Fatarella|41.167|0.483|ES|Catalonia|0
 La Florida village|6.335|-74.957|CO|Antioquia|0

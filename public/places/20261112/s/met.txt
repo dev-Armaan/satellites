@@ -10,6 +10,7 @@ Metrotown|49.225|-123.000|CA|British Columbia|94
 Methuen|42.726|-71.191|US|Massachusetts|94
 Metpalle|18.847|78.626|IN|Telangana|94
 Metrogorodok|55.810|37.787|RU|Moscow|94
+Metropolitan Museum of Art|40.780|-73.963|US|New York|92|f
 Metlili Chaamba|32.267|3.633|DZ|Ghardaia|92
 Mettmann|51.250|6.975|DE|North Rhine-Westphalia|92
 Metlaoui|34.321|8.402|TN|Gafsa|92
@@ -34,11 +35,13 @@ Mettuppālaiyam|11.168|78.449|IN|Tamil Nadu|80
 Metsamor|40.145|44.115|AM|Armavir|80
 Mettuppālaiyam|11.450|77.568|IN|Tamil Nadu|79
 Metro Harbour|22.324|114.160|HK|Yau Tsim Mong District|78
+Metropolitan Opera|40.773|-73.985|US|New York|78|f
 Meta|40.641|14.416|IT|Campania|78
 Metelen|52.144|7.213|DE|North Rhine-Westphalia|76
 Metropolis|37.151|-88.732|US|Illinois|76
 Metsola|60.348|25.090|FI|Uusimaa|76
 Metsavan|41.202|44.229|AM|Lori|76
+Metapontum|40.383|16.825|IT|Basilicate|74|f
 Mettamalai|9.396|77.895|IN|Tamil Nadu|74
 Metchosin|48.383|-123.536|CA|British Columbia|74
 Metten|48.855|12.916|DE|Bavaria|73
@@ -54,6 +57,9 @@ Metlatónoc|17.195|-98.407|MX|Guerrero|71
 Mettenheim|48.267|12.467|DE|Bavaria|70
 Mettlach|49.495|6.586|DE|Saarland|70
 Metlika|45.650|15.313|SI|Municipality of Metlika|70
+Metropolis Municipal Airport|37.185|-88.750|US|Illinois|70|f
+Metsudat Monfor|33.044|35.226|IL|Northern District|70|f
+Metz-Nancy-Lorraine Airport|48.983|6.241|FR|Grand Est|70|f
 Metztitlán|20.595|-98.764|MX|Hidalgo|70
 Meteş|46.100|23.417|RO|Alba County|70
 Metz-Tessy|45.933|6.110|FR|Auvergne-Rhône-Alpes|70
@@ -63,6 +69,7 @@ Mets Masrik|40.219|45.764|AM|Gegharkunik|68
 Metepec|18.879|-98.747|MX|Morelos|68
 Metsovo|39.769|21.182|GR|Epirus|68
 Metetí|8.499|-77.979|PA|Darién|67
+Métoma Island|-13.207|166.600|VU|Torba|67|f
 Metula|33.279|35.579|IL|Northern District|67
 Metalist|48.622|39.282|UA|Luhansk|67
 Methóni|36.820|21.705|GR|Peloponnese|67
@@ -80,6 +87,7 @@ Metcalfe|45.233|-75.466|CA|Ontario|65
 Metlapa|18.310|-99.608|MX|Guerrero|64
 Mettenheim|49.740|8.326|DE|Rheinland-Pfalz|64
 Metro City New Township|1.568|110.306|MY|Sarawak|64
+Meteoritø|76.044|-65.026|GL|Avannaata|63|f
 Metsamor|40.072|44.291|AM|Armavir|63
 Metković|44.856|19.547|RS|Central Serbia|63
 Mętków|50.053|19.375|PL|Lesser Poland|63
@@ -92,11 +100,66 @@ Metarfa|28.584|-0.150|DZ|Timimoun|62
 Methven|56.417|-3.578|GB|Scotland|62
 Methley|53.729|-1.403|GB|England|61
 Mettendorf|49.948|6.330|DE|Rheinland-Pfalz|61
+Metavolcanic Mountain|-86.217|-126.250|AQ||61|f
+Metcalf Mountain|45.028|-109.543|US|Montana|61|f
+Methodist Mountain|38.453|-106.018|US|Colorado|61|f
 Metzeral|48.012|7.071|FR|Grand Est|61
 Métro|8.934|-7.164|CI|Woroba|61
 Metlac Hernández (Metlac Primero)|18.977|-97.143|MX|Veracruz|61
 Metcalfe|33.454|-91.007|US|Mississippi|60
+Methóni|40.447|22.590|GR|Central Macedonia|60
+Mets Sepasar|41.048|43.827|AM|Shirak|59
+Methwold|52.523|0.554|GB|England|59
+Méthana|37.581|23.390|GR|Attica|59
+Metagkítsi|40.324|23.655|GR|Central Macedonia|58
+Metaxádes|41.419|26.225|GR|East Macedonia and Thrace|58
+Mettingham Castle|52.444|1.471|GB|England|58|f
+Metsakasti|59.491|24.894|EE|Harjumaa|58
+Metókhion|37.608|22.946|GR|Peloponnese|58
+Metolius|44.587|-121.178|US|Oregon|57
+Métabief|46.770|6.354|FR|Bourgogne-Franche-Comté|57
+Metzeresche|49.299|6.306|FR|Grand Est|57
+Metaponto|40.371|16.811|IT|Basilicate|57
+Meterik|51.455|6.025|NL|Limburg|57
+Metzels|50.647|10.435|DE|Thuringia|57
+Méti|7.883|-2.800|CI|Zanzan District|57
+Metamórfosi|39.790|20.739|GR|Epirus|57
+Metlac Solano (Metlac Segundo)|18.990|-97.119|MX|Veracruz|57
+Metz-en-Couture|50.067|3.064|FR|Hauts-de-France|56
+Metamora|41.712|-83.910|US|Ohio|56
+Metztitla|19.127|-99.423|MX|México|56
+Metzing|49.106|6.958|FR|Grand Est|55
+Mettawa|42.233|-87.926|US|Illinois|55
+Metóchi|38.125|21.400|GR|West Greece|55
+Metamora|42.941|-83.289|US|Michigan|55
+Metompkin|37.769|-75.603|US|Virginia|55
+Metamórfosi|40.230|23.604|GR|Central Macedonia|55
+Mets Ayrum|41.167|44.825|AM|Lori|54
+Meta Incognita Peninsula|62.751|-68.498|CA|Nunavut|54|f
+Metchnikoff Point|-64.041|-62.575|AQ||54|f
+Metelik Adası|38.703|26.727|TR|İzmir Province|54|f
+Metinic Island|43.885|-69.127|US|Maine|54|f
+Metropolitan Airport|42.222|-72.312|US|Massachusetts|54|f
 Metnitz|46.981|14.217|AT|Carinthia|54
+Metolkine|48.930|38.556|UA|Luhansk|54
+Metamórfosi|36.806|22.915|GR|Peloponnese|54
+Metepec|19.985|-98.058|MX|Puebla|54
 Mettersdorf am Saßbach|46.806|15.711|AT|Styria|54
+Metterich|49.980|6.589|DE|Rheinland-Pfalz|53
+Mettweiler|49.583|7.317|DE|Rheinland-Pfalz|50
 Metauten|42.677|-2.130|ES|Navarre|49
+Metis Shoal|-19.183|-174.867|TO||49|f
+Metropolitan Autonomous University|19.287|-99.137|MX|Mexico City|49|f
 Metsadzor|40.380|44.046|AM|Aragatsotn|45
+Metzenhausen|49.967|7.367|DE|Rheinland-Pfalz|42
+Metamora-Hadley State Recreation Area|42.936|-83.337|US|Michigan|40|f
+Metcalf Hill|42.782|-74.939|US|New York|40|f
+Metela Island|63.334|-68.131|CA|Nunavut|40|f
+Meteorite Mountain|60.980|-145.967|US|Alaska|40|f
+Methoni castle|36.817|21.705|GR|Peloponnese|40|f
+Methven Castle|56.417|-3.555|GB|Scotland|40|f
+Metropolis|38.125|27.324|TR|İzmir Province|40|f
+Metropolitan Avenue Bascule Bridge|40.714|-73.932|US|New York|40|f
+Mettelhorn|46.056|7.742|CH|Valais|40|f
+Mettmenhaslisee|47.474|8.492|CH|Zurich|40|f
+Metkono|-9.539|124.413|ID|East Nusa Tenggara|0

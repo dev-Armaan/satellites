@@ -23,9 +23,11 @@ Horgen|47.260|8.598|CH|Zurich|87
 Hornsby|-33.702|151.099|AU|New South Wales|87
 Horley|51.174|-0.159|GB|England|87
 Hörstel|52.298|7.585|DE|North Rhine-Westphalia|86
+Hornafjörður Airport|64.296|-15.227|IS|East|86|f
 Horizontina|-27.626|-54.308|BR|Rio Grande do Sul|86
 Horsforth|53.843|-1.638|GB|England|86
 Horizon City|31.693|-106.207|US|Texas|86
+Horta Airport|38.520|-28.716|PT|Azores|86|f
 Horizon Hills|1.458|103.646|MY|Johor|85
 Horwich|53.601|-2.550|GB|England|85
 Horasan|40.039|42.164|TR|Erzurum|85
@@ -48,6 +50,8 @@ Horbury|53.661|-1.560|GB|England|80
 Horodenka|48.669|25.503|UA|Ivano-Frankivsk|80
 Ḩorr|32.145|48.391|IR|Khuzestan|79
 Horana South|6.716|80.063|LK|Western Province|79
+Hor al-Hammar|30.772|47.042|IQ|Dhi Qar|79|f
+Hornavan|66.257|17.502|SE|Norrbotten|79|f
 Hornu|50.433|3.827|BE|Wallonia|79
 Hornby|-43.550|172.533|NZ|Canterbury|79
 Hørning|56.087|10.037|DK|Central Jutland|79
@@ -57,11 +61,16 @@ Hořice|50.366|15.632|CZ|Hradec Králové Region|79
 Hørning|56.412|10.200|DK|Central Jutland|78
 Horacio Zeballos Gamez|-16.492|-71.507|PE|Arequipa|78
 Hornell|42.328|-77.661|US|New York|78
+Hornindalsvatnet|61.927|6.285|NO|Vestland|78|f
+Horsburgh Island|-12.077|96.840|CC||78|f
 Hořovice|49.836|13.903|CZ|Central Bohemia|78
 Horadiz|39.450|47.335|AZ|Fuzuli District|78
+Horn Island Airport|-10.586|142.290|AU|Queensland|78|f
 Horawala Junction|6.481|80.127|LK|Western Province|78
 Hörby|55.852|13.661|SE|Skåne|77
 Horomui|43.067|141.650|JP|Hokkaido|77
+H̱orbat Bet ‘Anava|31.902|34.948|IL|Central District|77|f
+H̱orbat Kfar ‘Otnay|32.574|35.173|IL|Northern District|77|f
 Horstmar|52.081|7.305|DE|North Rhine-Westphalia|77
 Horncastle|53.208|-0.117|GB|England|77
 Hornsby Bend|30.247|-97.583|US|Texas|77
@@ -70,9 +79,12 @@ Horseheads|42.167|-76.821|US|New York|76
 Horta|38.537|-28.626|PT|Azores|76
 Hornostayivka|47.012|33.730|UA|Kherson|76
 Hornslet|56.316|10.320|DK|Central Jutland|76
+Hornsundtind|76.919|16.160|SJ|Svalbard|76|f
 Hörbranz|47.550|9.750|AT|Vorarlberg|76
 Hormoz|27.095|56.453|IR|Hormozgan|75
 Horní Slavkov|50.139|12.808|CZ|Carlsbad Region|75
+H̱orbat Qarne H̱ittim|32.798|35.459|IL|Northern District|75|f
+H̱orvot Shivta|30.881|34.631|IL|Southern District|75|f
 Horažďovice|49.321|13.701|CZ|Plzeň Region|75
 Horoměřice|50.132|14.339|CZ|Central Bohemia|75
 Horneburg|53.507|9.575|DE|Lower Saxony|75
@@ -85,6 +97,7 @@ Horodkivka|48.379|28.693|UA|Vinnytsia|74
 Horodnic de Sus|47.840|25.824|RO|Suceava|74
 Horodnye|45.892|28.849|UA|Odesa|74
 Horšovský Týn|49.530|12.944|CZ|Plzeň Region|74
+Hõralaid|58.900|23.064|EE|Hiiumaa|73|f
 Hornachuelos|37.833|-5.233|ES|Andalusia|73
 Horgeşti|46.433|27.067|RO|Bacău County|73
 Horgenzell|47.805|9.497|DE|Baden-Wurttemberg|73
@@ -94,6 +107,9 @@ Horní Bříza|49.840|13.356|CZ|Plzeň Region|73
 Horton|34.201|-86.297|US|Alabama|73
 Horní Suchá|49.798|18.482|CZ|Moravian-Silesian Region|73
 Horsford|52.702|1.240|GB|England|72
+H̱orbat Kasif|31.256|35.066|IL|Southern District|72|f
+Hörnli|47.371|8.942|CH|Zurich|72|f
+Horsham Airport|-36.670|142.173|AU|Victoria|72|f
 Horní Těrlicko|49.752|18.483|CZ|Moravian-Silesian Region|72
 Hornachos|38.554|-6.068|ES|Extremadura|72
 Hort|47.691|19.789|HU|Heves County|72
@@ -102,6 +118,8 @@ Horodyshche|50.640|26.366|UA|Rivne Oblast|71
 Horrabridge|50.508|-4.100|GB|England|71
 Horodniceni|47.533|26.167|RO|Suceava|71
 Horicon|43.451|-88.631|US|Wisconsin|71
+H̱orbat Gvul|32.567|35.511|IL|Northern District|71|f
+Hornepayne Municipal Airport|49.193|-84.759|CA|Ontario|71|f
 Hornbæk|56.090|12.457|DK|Capital Region|71
 Horseshoe Bay|30.544|-98.374|US|Texas|71
 Hora|50.371|30.860|UA|Kyiv Oblast|71
@@ -109,6 +127,9 @@ Horná Poruba|48.941|18.305|SK|Trenčín Region|71
 Horia|46.907|26.919|RO|Neamț County|70
 Horná Súča|48.973|17.977|SK|Trenčín Region|70
 Horné Saliby|48.123|17.759|SK|Trnava Region|70
+H̱orbat Bet Natif|31.696|34.990|IL|Jerusalem|70|f
+H̱orbat Endor|32.638|35.381|IL|Northern District|70|f
+H̱orbat Sansanna|31.345|34.901|IL|Southern District|70|f
 Horleşti|47.117|27.367|RO|Iași County|70
 Hornstein|47.880|16.444|AT|Burgenland|70
 Hörnsheim|50.518|8.630|DE|Hesse|70
@@ -123,6 +144,11 @@ Horoatu Crasnei|47.133|22.883|RO|Sălaj County|69
 Høruphav|54.910|9.899|DK|South Denmark|69
 Horodok|50.688|26.171|UA|Rivne Oblast|69
 Hortonville|44.335|-88.638|US|Wisconsin|69
+H̱orbat Luveya|32.775|35.428|IL|Northern District|69|f
+H̱orbat Seraẖ|33.086|35.292|IL|Northern District|69|f
+Hornafjörður|64.261|-15.292|IS|East|69|f
+Hornøya|70.387|31.157|NO|Finnmark|69|f
+Horomos monastic complex|40.521|43.630|TR|Kars Province|69|f
 Horyniec-Zdrój|50.192|23.363|PL|Subcarpathia|69
 Hornburg|52.031|10.605|DE|Lower Saxony|69
 Horka nad Moravou|49.640|17.211|CZ|Olomouc Region|69
@@ -142,6 +168,14 @@ Hørve|55.753|11.453|DK|Zealand|68
 Horse Shoe|35.343|-82.557|US|North Carolina|67
 Horse Cave|37.179|-85.907|US|Kentucky|67
 Horn|47.494|9.462|CH|Thurgau|67
+Hora Chorna Hora|48.047|24.627|UA|Ivano-Frankivsk|67|f
+Hora Eklizi-Burun|44.739|34.290|UA|Crimea|67|f
+Hora Sviatma|44.935|35.232|UA|Crimea|67|f
+H̱orbat Bet Dikhrin|31.664|34.860|IL|Southern District|67|f
+Horn Island|30.240|-88.688|US|Mississippi|67|f
+Hörnleberg|48.128|8.046|DE|Baden-Wurttemberg|67|f
+Horoka Dam|43.430|143.132|JP|Hokkaido|67|f
+Horom Citadel|40.656|43.901|AM|Shirak|67|f
 Horse Pasture|36.628|-79.951|US|Virginia|67
 Horní Benešov|49.967|17.603|CZ|Moravian-Silesian Region|67
 Horia|46.208|21.463|RO|Arad County|67
@@ -165,6 +199,8 @@ Horoshova|48.546|26.104|UA|Ternopil|66
 Horná Kráľová|48.245|17.913|SK|Nitra Region|65
 Horní Cerekev|49.320|15.328|CZ|Vysocina|65
 Horche|40.564|-3.061|ES|Castille-La Mancha|65
+Hora Pip-Ivan|47.926|24.325|RO|Maramureş|65|f
+H̱orbat Hoga|31.510|34.623|IL|Southern District|65|f
 Horcasitas|16.889|-98.746|MX|Guerrero|65
 Horní Jelení|50.049|16.084|CZ|Pardubice Region|65
 Horní Branná|50.608|15.571|CZ|Liberec Region|65
@@ -185,6 +221,18 @@ Horia|45.017|28.450|RO|Tulcea County|64
 Horní Stropnice|48.761|14.735|CZ|South Bohemian Region|64
 Hornoy-le-Bourg|49.850|1.900|FR|Hauts-de-France|63
 Horvati|45.700|15.817|HR|Zagreb|63
+Hora Kobyla|48.038|24.093|UA|Zakarpattia|63|f
+Hora Parashka|49.070|23.415|UA|Lviv|63|f
+Hora Petros|48.172|24.422|UA|Zakarpattia|63|f
+Hora Trostian|48.855|23.390|UA|Lviv|63|f
+H̱orbat Yavné Yam|31.923|34.693|IL|Central District|63|f
+Horndalsvatnet|67.639|15.703|NO|Nordland|63|f
+Hornet Stadium|38.556|-121.423|US|California|63|f
+Hornindalsrokken|62.072|6.658|NO|Møre og Romsdal|63|f
+Hornsjön|57.200|16.950|SE|Kalmar|63|f
+Horseshoe Dam|33.984|-111.709|US|Arizona|63|f
+Horsetooth Mountain|40.540|-105.197|US|Colorado|63|f
+Horyŏng-bong|37.780|128.533|KR|Gangwon-do|63|f
 Horb|48.445|23.697|UA|Zakarpattia|63
 Horvati|45.718|15.820|HR|Zagreb|63
 Horitschon|47.587|16.547|AT|Burgenland|63
@@ -206,6 +254,18 @@ Hörden|51.668|10.284|DE|Lower Saxony|61
 Hortlax|65.282|21.405|SE|Norrbotten|61
 Horndal|60.300|16.417|SE|Dalarna|61
 Horodło|50.895|24.037|PL|Lublin|61
+Horhany|48.500|24.000|UA||61|f
+Horn Head|55.224|-7.982|IE|Ulster|61|f
+Horn Island|-10.607|142.284|AU|Queensland|61|f
+Horn Mountains|44.741|-111.500|US|Montana|61|f
+Horn Rapids Dam|46.379|-119.417|US|Washington|61|f
+Hornborgasjön|58.317|13.567|SE|Västra Götaland|61|f
+Horned Toad Hills|35.092|-118.218|US|California|61|f
+Horse Mountain|37.308|-107.287|US|Colorado|61|f
+Horsefly Peak|38.194|-107.931|US|Colorado|61|f
+Horsfjärden|59.067|18.150|SE|Stockholm|61|f
+Horstmann Peak|44.113|-115.001|US|Idaho|61|f
+Horton Peak|43.966|-114.748|US|Idaho|61|f
 Hornby Island|49.534|-124.669|CA|British Columbia|61
 Horning|52.705|1.463|GB|England|61
 Horoshivtsi|48.478|25.980|UA|Chernivtsi|61
@@ -222,24 +282,224 @@ Horton|51.473|-0.542|GB|England|60
 Horokhivske|46.957|32.704|UA|Mykolaiv|60
 Horní Čermná|49.971|16.608|CZ|Pardubice Region|60
 Horní Město|49.908|17.211|CZ|Moravian-Silesian Region|60
+Horní Beřkovice|50.359|14.346|CZ|Ústí nad Labem Region|60
+Horodnye|50.114|35.237|UA|Kharkiv|60
+Hörgas|47.150|15.300|AT|Styria|60
+Horodiștea|48.238|26.721|RO|Botoșani County|60
+Horovce|49.047|18.258|SK|Trenčín Region|59
+Hörnum|54.757|8.288|DE|Schleswig-Holstein|59
+Horní Štěpánov|49.549|16.791|CZ|Olomouc Region|59
+Horné Lefantovce|48.424|18.144|SK|Nitra Region|59
 Horconcitos|8.315|-82.153|PA|Chiriquí Province|59
+Hornussen|47.500|8.063|CH|Aargau|59
+Horia|44.537|26.803|RO|Ialomița County|58
+Horbivtsi|47.994|26.098|UA|Chernivtsi|58
+Horoshyne|49.656|32.753|UA|Poltava|58
+Hörmsdorf|46.693|15.263|AT|Styria|58
+Horine|38.267|-90.425|US|Missouri|58
+Horcones|21.070|-97.745|MX|Veracruz|58
+Horní Němčí|48.933|17.624|CZ|Zlín|58
+Horbanivka|49.554|34.489|UA|Poltava|58
+Horní Ředice|50.077|15.959|CZ|Pardubice Region|58
+Hörvik|56.042|14.762|SE|Blekinge|58
+Hornbreen|77.066|16.689|SJ|Svalbard|58|f
+Hornby Mountains|-51.693|-59.681|FK||58|f
+Horntvedt Glacier|-54.393|3.361|BV||58|f
+Horodyszcze Ghetto|53.317|26.000|BY|Brest|58|f
+Horse Head|73.629|-56.994|GL|Avannaata|58|f
+Horse Island|51.884|-10.397|IE|Munster|58|f
+Horse Ranch Mountain|37.478|-113.159|US|Utah|58|f
+Horse Range|38.635|-115.294|US|Nevada|58|f
+Horseleg Mountain|34.230|-85.245|US|Georgia|58|f
+Horsepen Mountain|37.641|-81.993|US|West Virginia|58|f
+Horseshoe Bend Airport|32.573|-97.873|US|Texas|58|f
+Horseshoe Island|-16.994|139.266|AU|Queensland|58|f
+Horseshoe Lake|38.702|-90.096|US|Illinois|58|f
+Horseshoe Lake|40.472|-121.337|US|California|58|f
+Horsetrough Mountain|34.802|-83.812|US|Georgia|58|f
+Horst|50.189|9.384|DE|Hesse|58|f
+Horteflaket Névé|-71.917|12.667|AQ||58|f
+Hortenkopf|49.270|7.827|DE|Rheinland-Pfalz|58|f
+Horrweiler|49.900|7.967|DE|Rheinland-Pfalz|58
+Horbachevo-Mykhailivka|47.852|38.010|UA|Donetsk|58
+Horonhlab|48.311|22.362|UA|Zakarpattia|58
+Hořice na Šumavě|48.766|14.178|CZ|South Bohemian Region|58
+Horringer|52.224|0.673|GB|England|58
+Horbok|48.309|22.875|UA|Zakarpattia|58
+Horné Dubové|48.519|17.564|SK|Trnava Region|58
+Hora|49.540|34.572|UA|Poltava|58
+Horstermeer|52.250|5.078|NL|North Holland|58
+Horbachi|49.594|23.908|UA|Lviv|58
+Höringen|49.556|7.796|DE|Rheinland-Pfalz|58
+Horní Podluží|50.881|14.546|CZ|Ústí nad Labem Region|57
+Horstedt|54.525|9.067|DE|Schleswig-Holstein|57
+Hořín|50.345|14.464|CZ|Central Bohemia|57
+Horbach|50.373|7.853|DE|Rheinland-Pfalz|57
 Horcajo de las Torres|41.065|-5.091|ES|Castille and León|57
+Horní Blatná|50.390|12.771|CZ|Carlsbad Region|57
+Horsarrieu|43.683|-0.597|FR|New Aquitaine|57
+Horseshoe Bend|43.915|-116.198|US|Idaho|57
+Hořiněves|50.310|15.767|CZ|Hradec Králové Region|57
+Horstdorf|51.820|12.429|DE|Saxony-Anhalt|57
+Horní Police|50.704|14.404|CZ|Liberec Region|56
+Horpaz|47.108|27.548|RO|Iași County|56
+Horta (San Antonio de Horta)|20.627|-101.510|MX|Guanajuato|56
+Hořátev|50.150|15.040|CZ|Central Bohemia|56
+Horní Dunajovice|48.950|16.162|CZ|South Moravian|56
+Horno de Cal|20.901|-99.920|MX|Querétaro|56
+Hörsingen|52.279|11.155|DE|Saxony-Anhalt|56
+Horná Mičiná|48.699|19.214|SK|Banská Bystrica Region|56
+Horní Dubenky|49.260|15.317|CZ|Vysocina|56
+Hörup|54.743|9.102|DE|Schleswig-Holstein|56
+Horezu|44.470|23.960|RO|Olt|56
+Hornersville|36.042|-90.114|US|Missouri|56
+Hořepník|49.513|15.106|CZ|Vysocina|56
+Horby|49.434|33.061|UA|Poltava|56
+Horní Třešňovec|49.939|16.603|CZ|Pardubice Region|56
+Hornos|37.887|-3.189|ES|Andalusia|56
+Horbky|48.152|23.185|UA|Zakarpattia|56
+Horia|48.122|26.975|RO|Botoșani County|56
+Horní Bojanovice|48.950|16.800|CZ|South Moravian|56
+Horní Lhota|49.853|18.068|CZ|Moravian-Silesian Region|55
+Horăști|44.786|23.014|RO|Gorj County|55
+Horntown|37.970|-75.464|US|Virginia|55
+Horslunde|54.912|11.216|DK|Zealand|55
+Horbach|49.333|7.650|DE|Rheinland-Pfalz|55
+Horní Domaslavice|49.696|18.459|CZ|Moravian-Silesian Region|55
+Horyslavtsi|49.201|33.335|UA|Poltava|55
+Horn|59.500|16.283|SE|Västmanland|55
+Horn|57.900|15.833|SE|Östergötland|55
+Horní Bělá|49.889|13.264|CZ|Plzeň Region|55
+Horní Lhota|49.154|17.804|CZ|Zlín|55
+Horodiștea|47.353|26.910|RO|Iași County|55
+Horst|53.882|11.992|DE|Mecklenburg-Vorpommern|55
+Horodeshchyne|48.699|37.469|UA|Donetsk|55
+Horpmaal|50.760|5.335|BE|Flanders|55
+Horní Věstonice|48.875|16.626|CZ|South Moravian|54
+Horbelev|54.823|12.058|DK|Zealand|54
+Horatio Stump|-62.213|-59.006|AQ||54|f
+Horgebest Peak|-72.567|0.433|AQ||54|f
+Hörndlwand|47.708|12.587|DE|Bavaria|54|f
+Hornemantoppen|79.567|11.433|SJ|Svalbard|54|f
+Horrungen|61.937|8.435|NO|Innlandet|54|f
+Horse Fort|50.750|-1.072|GB|England|54|f
+Horse Island|59.850|-1.317|GB|Scotland|54|f
+Horse Island|57.983|-5.350|GB|Scotland|54|f
+Horse Island|41.245|-72.758|US|Connecticut|54|f
+Horse Isle|55.646|-4.842|GB|Scotland|54|f
+Horse Thief Lake|43.893|-103.482|US|South Dakota|54|f
+Horseshoe Crater|-78.233|162.883|AQ||54|f
+Horseshoe Falls|43.078|-79.072|US|New York|54|f
+Horseshoe Island|-67.836|-67.189|AQ||54|f
+Horseshoe Lake|37.138|-89.341|US|Illinois|54|f
+Horseshoe Lake State Park|38.686|-90.094|US|Illinois|54|f
+Horseshoe Mountain|-77.567|159.950|AQ||54|f
+Horten Peak|-72.067|3.183|AQ||54|f
+Horvath Island|-66.309|-67.137|AQ||54|f
+Horní Kruty|49.919|14.960|CZ|Central Bohemia|54
+Horton Bay|45.284|-85.079|US|Michigan|54
+Horní Dvořiště|48.604|14.406|CZ|South Bohemian Region|54
+Horný Lieskov|49.065|18.436|SK|Trenčín Region|54
 Hormigos|40.098|-4.445|ES|Castille-La Mancha|54
+Horath|49.811|6.986|DE|Rheinland-Pfalz|54
 Hormilla|42.438|-2.774|ES|La Rioja|53
+Horn|50.045|7.543|DE|Rheinland-Pfalz|51
+Horbruch|49.883|7.233|DE|Rheinland-Pfalz|51
 Horton|51.558|-2.353|GB|England|51
+Horhausen|50.367|7.900|DE|Rheinland-Pfalz|50
 Horea|46.502|22.950|RO|Alba County|49
+Horschbach|49.589|7.526|DE|Rheinland-Pfalz|49
+Horace Williams Airport|35.935|-79.061|US|North Carolina|49|f
+Hordern, Cape|-66.256|100.526|AQ||49|f
+Horizon Airport|29.286|-98.498|US|Texas|49|f
+Horn Peak|38.039|-105.586|US|Colorado|49|f
+Hornelen|61.856|5.247|NO|Vestland|49|f
+Hornell Municipal Airport|42.379|-77.679|US|New York|49|f
+Horns Rev|55.538|7.736|DK|South Denmark|49|f
+Hornstein|46.633|14.217|AT|Carinthia|49|f
+Horse Hills|34.820|-115.594|US|California|49|f
+Horse Island|-16.767|138.367|AU|Queensland|49|f
+Horse Island|51.516|-9.468|IE|Munster|49|f
+Horse Island|43.943|-76.145|US|New York|49|f
+Horsens Fjord|55.847|9.961|DK||49|f
+Horseshoe Bay|-27.507|153.362|AU|Queensland|49|f
+Horseshoe Bay|32.233|-64.817|BM|Southampton|49|f
+Horseshoe Bend Battle Ground|32.971|-85.738|US|Alabama|49|f
+Horseshoe Bridge|-31.951|115.859|AU|Western Australia|49|f
+Horseshoe Falls|-25.133|30.700|ZA|Mpumalanga|49|f
+Horseshoe Island|32.377|-64.665|BM|Saint Georgeʼs|49|f
+Horsnell Gully Conservation Park|-34.934|138.706|AU|South Australia|49|f
+Horst|50.467|9.400|DE|Hesse|49|f
+Horstsee|51.277|12.916|DE|Saxony|49|f
+Horton Glacier|-67.547|-68.477|AQ||49|f
+Horton Ledge|-85.683|-69.083|AQ||49|f
+Horton Mill Covered Bridge|34.008|-86.449|US|Alabama|49|f
 Horcajo de Montemayor|40.423|-5.894|ES|Castille and León|46
+Hornbek|53.559|10.648|DE|Schleswig-Holstein|45
 Hormilleja|42.456|-2.732|ES|La Rioja|45
+Hörschhausen|50.250|6.933|DE|Rheinland-Pfalz|45
+Hornsömmern|51.217|10.817|DE|Thuringia|44
+Hörscheid|50.217|6.867|DE|Rheinland-Pfalz|43
+Horperath|50.250|6.950|DE|Rheinland-Pfalz|43
 Hortigüela|42.068|-3.426|ES|Castille and León|42
 Hornillos de Cerrato|41.988|-4.272|ES|Castille and León|42
+Horn Pond|42.469|-71.156|US|Massachusetts|40|f
+Horn Pond|43.561|-70.958|US|Maine|40|f
+Horn Spire|58.715|-134.618|US|Alaska|40|f
+Hornblende Lake|48.915|-87.380|CA|Ontario|40|f
+Hornby Castle|54.111|-2.632|GB|England|40|f
+Horne Glacier|-71.283|164.933|AQ||40|f
+Horne Lake|49.342|-124.700|CA|British Columbia|40|f
+Horne Lake Caves Park|49.345|-124.756|CA|British Columbia|40|f
+Horneline Creek Park|59.000|-127.253|CA|British Columbia|40|f
+Hornisgrinde|48.604|8.201|DE|Baden-Wurttemberg|40|f
+Hörnle|48.458|9.247|DE|Baden-Wurttemberg|40|f
+Hornsea Mere|53.906|-0.186|GB|England|40|f
+Horowitz Ridge|-77.617|162.083|AQ||40|f
+Horrall Glacier|-75.000|-114.467|AQ||40|f
+Horribilis Peak|52.133|-126.036|CA|British Columbia|40|f
+Horse Island|51.701|-9.469|IE|Munster|40|f
+Horse Islands|50.217|-55.798|CA|Newfoundland and Labrador|40|f
+Horse Mesa Dam|33.591|-111.343|US|Arizona|40|f
+Horse Range|42.660|-123.693|US|Oregon|40|f
+Horsefly Lake|52.408|-121.033|CA|British Columbia|40|f
+Horsefly Lake Park|52.383|-121.303|CA|British Columbia|40|f
+Horseleg Lake|45.469|-93.050|US|Minnesota|40|f
+Horseneck Beach State Reservation|41.508|-71.049|US|Massachusetts|40|f
+Horseranch Range|59.366|-128.820|CA|British Columbia|40|f
+Horseshoe Bay|49.379|-123.271|CA|British Columbia|40|f
+Horseshoe Bend|34.841|-86.132|US|Alabama|40|f
+Horseshoe Canyon|51.450|-112.902|CA|Alberta|40|f
+Horseshoe Falls|43.077|-79.075|CA|Ontario|40|f
+Horseshoe Hills|46.024|-111.272|US|Montana|40|f
+Horseshoe Island|44.639|-63.613|CA|Nova Scotia|40|f
+Horseshoe Island|45.179|-87.209|US|Wisconsin|40|f
+Horseshoe Lake|-39.917|176.767|NZ||40|f
+Horseshoe Lake|46.309|-121.570|US|Washington|40|f
+Horseshoe Mountain|43.617|-74.217|US|New York|40|f
+Horseshoe Mountain|39.186|-106.185|US|Colorado|40|f
+Horsethief Canyon|51.542|-112.874|CA|Alberta|40|f
+Horsetooth Reservoir|40.558|-105.159|US|Colorado|40|f
+Horsford Castle Hill|52.694|1.262|GB|England|40|f
+Horstman Glacier|50.096|-122.886|CA|British Columbia|40|f
+Horti Point|28.322|-80.660|US|Florida|40|f
+Horton Bay|56.884|-102.717|CA|Saskatchewan|40|f
+Horton Point|34.987|-76.580|US|North Carolina|40|f
+Hortus Botanicus|52.367|4.908|NL|North Holland|40|f
+Hörsten|54.226|9.580|DE|Schleswig-Holstein|40
 Hornos de Moncalvillo|42.392|-2.586|ES|La Rioja|39
 Hornillos del Camino|42.339|-3.926|ES|Castille and León|37
+Horbach|49.817|7.517|DE|Rheinland-Pfalz|32
 Hornillos de Cameros|42.210|-2.420|ES|La Rioja|24
+Hor|35.232|100.987|CN|Qinghai|0
 Horad Krychaw|53.699|31.714|BY|Mogilev|0
 Horcajo de la Sierra|41.067|-3.585|ES|Madrid|0
 Horcajuelo de la Sierra|41.060|-3.546|ES|Madrid|0
 Horgo|48.160|99.876|MN|Arkhangai Province|0
+Horka|51.300|14.900|DE|Saxony|0
+Horn-Bad Meinberg|51.886|8.962|DE|North Rhine-Westphalia|0
 Hornindal|61.969|6.524|NO|Møre og Romsdal|0
 Horodyshche|50.582|25.082|UA|Volyn|0
+Horowura|-8.316|123.220|ID|East Nusa Tenggara|0
 Horsley|54.983|-1.850|GB|England|0
 Horta de Sant Joan|40.950|0.317|ES|Catalonia|0

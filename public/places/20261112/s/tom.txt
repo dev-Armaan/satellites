@@ -20,6 +20,7 @@ Tombel|4.747|9.671|CM|South-West|88
 Tomares|37.373|-6.046|ES|Andalusia|87
 Tombôco|-6.805|13.330|AO|Zaire|86
 Tomaszów Lubelski|50.448|23.416|PL|Lublin|86
+Tomb of Caecilia Metella|41.852|12.521|IT|Lazio|86|f
 Tomar|39.602|-8.409|PT|Santarém|86
 Tombali|11.300|-15.000|GW||85|r
 Toma|12.758|-2.899|BF|Boucle du Mouhoun|84
@@ -56,6 +57,7 @@ Tomari|47.766|142.066|RU|Sakhalin Oblast|74
 Tompa|46.206|19.539|HU|Bács-Kiskun|74
 Tomşani|44.950|26.283|RO|Prahova|73
 Tomatlán|19.031|-97.010|MX|Veracruz|73
+Tomman|-16.589|167.474|VU|Malampa|72|f
 Tomşani|45.117|24.050|RO|Vâlcea County|72
 Tombu|8.540|-10.731|SL|Eastern Province|72
 Tomruksuyu|36.154|36.042|TR|Hatay|71
@@ -63,6 +65,7 @@ Tom Price|-22.694|117.793|AU|Western Australia|70
 Tomamae|44.305|141.654|JP|Hokkaido|70
 Tombongon|7.079|125.949|PH|Davao Region|70
 Tomahawk|45.471|-89.730|US|Wisconsin|70
+Tom Price Airport|-22.746|117.869|AU|Western Australia|70|f
 Tomelopitos|20.595|-101.368|MX|Guanajuato|69
 Tomnatic|45.989|20.662|RO|Timiș County|69
 Tomás Gomensoro|-30.429|-57.436|UY|Artigas|69
@@ -75,6 +78,13 @@ Tomas Oppus|10.251|124.983|PH|Eastern Visayas|68
 Tomashhorod|51.370|27.068|UA|Rivne Oblast|68
 Tomingad|12.443|122.021|PH|Mimaropa|68
 Tompkinsville|36.702|-85.692|US|Kentucky|67
+Tom Dick and Harry Mountain|45.290|-121.791|US|Oregon|67|f
+Tomahawk Regional Airport|45.469|-89.804|US|Wisconsin|67|f
+Tomamae Dam|44.168|141.831|JP|Hokkaido|67|f
+Tomisato Dam|43.855|143.753|JP|Hokkaido|67|f
+Tomkins Knob|36.241|-81.477|US|North Carolina|67|f
+Tomkinson Ranges|-26.183|129.083|AU|South Australia|67|f
+Tomoga Shima|34.295|135.024|JP|Wakayama|67|f
 Tomeşti|45.783|22.300|RO|Timiș County|67
 Tomter|59.659|10.995|NO|Østfold|67
 Tomice|49.898|19.484|PL|Lesser Poland|67
@@ -84,10 +94,19 @@ Tombod|15.932|120.567|PH|Ilocos|66
 Tomatlán|19.894|-97.973|MX|Puebla|66
 Tömörkény|46.617|20.044|HU|Csongrád|66
 Tome|34.741|-106.728|US|New Mexico|65
+Tomales Bay|38.170|-122.910|US|California|65|f
+Tombo Island|9.512|-13.706|GN|Conakry|65|f
+Tominé Reservoir|4.973|-73.827|CO|Cundinamarca|65|f
+Tommeløyane|79.551|18.748|SJ||65|f
 Tomášikovo|48.084|17.691|SK|Trnava Region|65
 Tomari|43.067|140.500|JP|Hokkaido|65
 Tomidanou|6.522|-4.698|CI|Comoé District|64
 Tommerup|55.320|10.207|DK|South Denmark|64
+Tombs of the Kings|34.776|32.406|CY|Pafos|63|f
+Tomichi Dome|38.485|-106.529|US|Colorado|63|f
+Tompkinsville-Monroe County Airport|36.730|-85.652|US|Kentucky|63|f
+Tomsk Bogashevo Airport|56.387|85.211|RU|Tomsk Oblast|63|f
+Tomyhoi Peak|48.975|-121.709|US|Washington|63|f
 Tomozomo|9.875|-6.788|CI|Denguélé District|63
 Tombstone|31.713|-110.068|US|Arizona|62
 Tomendán|19.311|-101.861|MX|Michoacán|62
@@ -98,20 +117,85 @@ Tombān|26.769|55.866|IR|Hormozgan|62
 Tomra|62.581|6.931|NO|Møre og Romsdal|61
 Tomyna Balka|46.624|32.308|UA|Kherson|61
 Tomikro|8.772|-6.257|CI|Woroba|61
+Tomort|43.073|94.347|CN|Xinjiang|61|f
+Toms Cove|37.878|-75.366|US|Virginia|61|f
 Tomakin|-35.823|150.188|AU|New South Wales|61
 Tom Bean|33.520|-96.484|US|Texas|60
 Tomerong|-35.052|150.587|AU|New South Wales|60
+Tomactilicán|17.459|-98.998|MX|Guerrero|60
+Tomulești|43.977|25.637|RO|Giurgiu County|60
+Tombaccia|43.822|13.053|IT|The Marches|59
+Tombougou|9.582|-6.512|CI|Savanes District|59
+Tomlinson|17.113|-61.808|AG|Saint John Parish|58
+Tomanggong Airport|5.400|118.650|MY|Sabah|58|f
+Tomanivi|-17.614|178.018|FJ|Western|58|f
+Tomhead Mountain|40.136|-122.818|US|California|58|f
+Tomma|66.246|12.716|NO|Nordland|58|f
+Tomrefjorden|62.624|6.902|NO|Møre og Romsdal|58|f
+Toma de Agua|19.431|-100.291|MX|Michoacán|58
+Tomor i Madh|40.697|20.102|AL|Berat County|58
+Tomești|46.356|27.584|RO|Vaslui County|57
+Tomás Urbina|23.847|-104.479|MX|Durango|57
+Tomba|9.811|-6.144|CI|Savanes District|57
+Tomaszowice|50.136|19.847|PL|Lesser Poland|57
+Tomteråsen|60.107|11.369|NO|Akershus|57
+Tomellín|17.759|-96.961|MX|Oaxaca|57
+Tomșani|44.642|25.502|RO|Dâmbovița County|56
+Tomtebo|60.417|15.717|SE|Dalarna|56
 Tomaszkowice|49.979|20.100|PL|Lesser Poland|56
+Tombazosana|45.315|11.257|IT|Veneto|55
+Tomice|52.067|17.738|PL|Greater Poland|55
+Tomé Barraz|14.857|-24.726|CV|Brava|55
+Tomate Río Manso|17.733|-95.872|MX|Veracruz|55
+Toma|-9.273|-77.668|PE|Ancash|55
+Tomarlı|40.851|43.400|TR|Kars Province|54
+Tom Steed Reservoir|34.765|-98.998|US|Oklahoma|54|f
+Tomahawk Lake|45.827|-89.653|US|Wisconsin|54|f
+Tomaquag Indian Museum|41.557|-71.698|US|Rhode Island|54|f
+Tomás de Heres Airport|8.122|-63.537|VE|Bolívar|54|f
+Tompkins Square Park|40.726|-73.982|US|New York|54|f
+Toms Lake|46.161|-86.593|US|Michigan|54|f
+Tomatillo|17.701|-95.776|MX|Veracruz|54
+Tomatlancillo|19.178|-96.932|MX|Veracruz|54
 Tomashivka|50.198|29.827|UA|Kyiv Oblast|53
 Tomas|-12.239|-75.745|PE|Lima region|51
 Tomepampa|-15.173|-72.831|PE|Arequipa|51
+Tom Uglys Bridge|-34.003|151.114|AU|New South Wales|49|f
+Tomany Mountain|43.283|-74.573|US|New York|49|f
+Tomaree National Park|-32.740|152.151|AU|New South Wales|49|f
+Tomb of Agamemnon|37.727|22.754|GR|Peloponnese|49|f
+Tomb of the Diver|40.400|15.000|IT|Campania|49|f
+Tombstone Mountain|50.683|-115.019|CA|Alberta|49|f
 Tompojevci|45.233|19.092|HR|Vukovar-Srijem|47
+Tömmelsdorf|50.717|11.867|DE|Thuringia|43
+Tom Brown Park|30.443|-84.215|US|Florida|40|f
+Tom Doyle Lake|45.764|-89.493|US|Wisconsin|40|f
+Tom Hill|41.999|-70.073|US|Massachusetts|40|f
+Tom Miller Dam|30.294|-97.785|US|Texas|40|f
+Tom S Cooperrider-Kent Bog State Nature Preserve|41.128|-81.353|US|Ohio|40|f
+Tomahawk Lagoon|-45.898|170.540|NZ|Otago|40|f
+Tomahawk Lake|44.778|-63.803|CA|Nova Scotia|40|f
+Tomahawk Lake|44.882|-64.751|CA|Nova Scotia|40|f
+Tomahawk Lake|41.409|-74.223|US|New York|40|f
+Tomahawk National Wildlife Refuge|47.077|-98.182|US|North Dakota|40|f
+Tomales Bay State Park|38.124|-122.890|US|California|40|f
+Tomba di Dante|44.416|12.201|IT|Emilia-Romagna|40|f
+Tombigbee State Park|34.233|-88.630|US|Mississippi|40|f
+Tombstone Municipal Airport|31.670|-110.025|US|Arizona|40|f
+Tomen y Mur|52.930|-3.927|GB|Wales|40|f
+Tomhannock Reservoir|42.846|-73.549|US|New York|40|f
+Tomlinson Run State Park|40.547|-80.592|US|West Virginia|40|f
+Tommys Lake|42.762|-83.274|US|Michigan|40|f
+Tomoka State Park|29.332|-81.081|US|Florida|40|f
+Tomwool Lake|48.255|-80.367|CA|Ontario|40|f
 Tomay Kichwa|-10.077|-76.212|PE|Huánuco Department|0
 Tombatu|1.042|124.684|ID|North Sulawesi|0
 Tomdibuloq|41.751|64.617|UZ|Navoiy Region|0
 Tomin|41.691|20.422|AL|Dibër County|0
+Tomina|-19.183|-64.533|BO|Chuquisaca Department|0
 Tominian|13.287|-4.593|ML|Ségou|0
 Tomisato|35.745|140.404|JP|Chiba|0
+Tomorlog|38.256|90.312|CN|Qinghai|0
 Tompasobaru|0.920|124.469|ID|North Sulawesi|0
 Tomsino|56.452|28.539|RU|Pskov Oblast|0
 Tomu|-2.217|132.971|ID|West Papua|0

@@ -28,6 +28,7 @@ Sangerhausen|51.472|11.295|DE|Saxony-Anhalt|87
 Sāngaria|26.189|73.026|IN|Rajasthan|87
 San Giovanni la Punta|37.577|15.094|IT|Sicily|87
 Sangod|24.927|76.286|IN|Rajasthan|87
+Sangster International Airport|18.504|-77.913|JM|Saint James Parish|86|f
 San Giovanni Lupatoto|45.382|11.045|IT|Veneto|86
 San Giovanni in Fiore|39.254|16.697|IT|Calabria|85
 San Giovanni Valdarno|43.568|11.530|IT|Tuscany|84
@@ -49,6 +50,7 @@ San Gabriel Chilac|18.326|-97.347|MX|Puebla|82
 San Germán|18.082|-67.045|PR|San Germán|82
 Sangalkam|14.780|-17.228|SN|Dakar|82
 San Gregorio de Nigua|18.383|-70.052|DO|San Cristóbal|81
+San Gabriel Mountains|34.289|-117.647|US|California|81|f
 Sangmeshwār|20.550|74.528|IN|Maharashtra|81
 San Gennaro Vesuviano|40.862|14.524|IT|Campania|81
 Sangouiné|7.275|-7.779|CI|Montagnes|80
@@ -66,12 +68,14 @@ Sanguéya|10.700|-14.367|GN|Boké Region|78
 Sângeorgiu de Mureş|46.570|24.595|RO|Mureș County|78
 San Giovanni Gemini|37.628|13.644|IT|Sicily|78
 Sanger|33.363|-97.174|US|Texas|78
+Sangay|-2.005|-78.341|EC|Morona-Santiago Province|78|f
 San Gaspar Tonatico|18.807|-99.669|MX|México|78
 Sangke|35.112|102.427|CN|Gansu|77
 San Giorgio delle Pertiche|45.541|11.894|IT|Veneto|77
 San Giorgio Su Legnano|45.574|8.914|IT|Lombardy|77
 Sangramnagar|17.892|75.006|IN|Maharashtra|76
 Sanguem|15.229|74.151|IN|Goa|76
+San Gorgonio Mountain|34.099|-116.825|US|California|76|f
 San Giorgio di Nogaro|45.827|13.211|IT|Friuli Venezia Giulia|76
 Sangrāmpur|24.674|87.847|IN|Jharkhand|76
 San Gabriel Tetzoyocán|18.757|-97.703|MX|Puebla|76
@@ -88,6 +92,7 @@ Sangüesa/Zangoza|42.575|-1.283|ES|Navarre|74
 San Giustino|43.547|12.175|IT|Umbria|74
 Sângeorgiu de Pădure|46.431|24.843|RO|Mureș County|74
 San Gabriel|16.676|120.403|PH|Ilocos|73
+Sangiyn Dalay Nuur|49.264|98.985|MN|Khövsgöl Province|73|f
 Sangar|63.924|127.467|RU|Sakha|73
 Sangat|10.136|123.690|PH|Central Visayas|73
 San Gabriel|19.748|-103.767|MX|Jalisco|73
@@ -122,6 +127,9 @@ San Gabriel First|15.767|120.457|PH|Ilocos|70
 San Giorgio Morgeto|38.392|16.088|IT|Calabria|69
 San Giovanni Bianco|45.873|9.654|IT|Lombardy|69
 Sangat Kalān|30.083|74.841|IN|Punjab|69
+Sangapi Airport|-5.125|144.323|PG|Madang Province|69|f
+Sangia Nibandera Airport|-4.344|121.524|ID|Southeast Sulawesi|69|f
+Sangwŏn-sa|37.786|128.564|KR|Gangwon-do|69|f
 San Giuseppe|44.722|12.217|IT|Emilia-Romagna|69
 San Gillio|45.141|7.533|IT|Piedmont|68
 San Giovanni Ilarione|45.519|11.237|IT|Veneto|68
@@ -150,6 +158,8 @@ San Giacomo|46.173|12.983|IT|Friuli Venezia Giulia|66
 San Giorgio|38.168|14.948|IT|Sicily|66
 San Giovanni A Piro|40.051|15.446|IT|Campania|66
 San Gaspar|18.777|-99.549|MX|México|65
+San Giacomo in Paludo|45.469|12.379|IT|Veneto|65|f
+Sangiru Island|3.583|125.533|ID|North Sulawesi|65|f
 San Giovanni in Croce|45.074|10.373|IT|Lombardy|65
 Sangam|34.137|74.771|IN|Jammu and Kashmir|65
 San Giovanni|37.735|15.159|IT|Sicily|65
@@ -167,6 +177,8 @@ San Giustino Valdarno|43.553|11.705|IT|Tuscany|64
 San Gaspar|18.952|-99.701|MX|México|64
 San Giorgio|41.271|14.313|IT|Campania|63
 San Germano Chisone|44.902|7.237|IT|Piedmont|63
+San Gabriel Peak|34.243|-118.098|US|California|63|f
+Sangwonsan|35.740|128.690|KR|Gyeongsangbuk-do|63|f
 San Giorgio in Salici|45.427|10.789|IT|Veneto|63
 San Gabriel|21.132|-100.834|MX|Guanajuato|63
 Sangabilé|8.362|-2.731|CI|Zanzan District|63
@@ -189,6 +201,8 @@ San Gabriel y San Ignacio|20.440|-101.608|MX|Guanajuato|61
 San Germán|25.216|-97.922|MX|Tamaulipas|61
 San Giuliano Vecchio|44.889|8.761|IT|Piedmont|61
 Sangrobo|7.658|-5.299|CI|Vallée du Bandama District|61
+Sanga Sanga Airport|5.047|119.743|PH|Autonomous Region in Muslim Mindanao|61|f
+Sanggar Bay|-8.331|118.309|ID|West Nusa Tenggara|61|f
 San Giorgio di Lomellina|45.175|8.790|IT|Lombardy|61
 Sangmu|28.215|106.269|CN|Guizhou|61
 San Gregorio da Sassola|41.919|12.874|IT|Lazio|61
@@ -201,17 +215,79 @@ San Giacomo|45.594|10.477|IT|Lombardy|60
 San Ginesio|43.108|13.321|IT|The Marches|60
 San Giuliano di Puglia|41.688|14.962|IT|Molise|60
 San Gabriel Azteca|19.880|-98.615|MX|Hidalgo|60
+San Guillermo|28.586|-105.931|MX|Chihuahua|60
+San Gregorio|20.819|-98.391|MX|Veracruz|60
 San Giacomo degli Schiavoni|41.962|14.945|IT|Molise|59
+San Gaspar de los Reyes|21.290|-102.503|MX|Jalisco|59
+San Gregorio de las Casas|16.688|-92.389|MX|Chiapas|59
+Sângeorzu Nou|46.967|24.367|RO|Bistrița-Năsăud County|59
 San Gregorio Matese|41.386|14.372|IT|Campania|59
+San Genaro|-13.194|-75.142|PE|Huancavelica|59
 San Giovanni del Dosso|44.966|11.081|IT|Lombardy|59
+San Gaspar|19.228|-100.137|MX|México|59
+San Germán|20.459|-100.056|MX|Querétaro|59
+San Gallo|45.563|10.308|IT|Lombardy|59
+San Giovanni|44.727|12.049|IT|Emilia-Romagna|59
 San Giorio|45.128|7.177|IT|Piedmont|58
+San Guillermo la Reforma|20.120|-98.699|MX|Hidalgo|58
+San Giovanni-Santa Caterina|40.741|14.929|IT|Campania|58
+San Gabriel Dam|34.206|-117.860|US|California|58|f
+Sangbongsan|37.694|126.310|KR|Incheon|58|f
+Sanghwangbong|34.348|126.693|KR|Jeollanam-do|58|f
+Sangsan|37.972|127.144|KR|Gyeonggi-do|58|f
+Sangye Si|29.328|91.504|CN|Tibet|58|f
 San Giorgio di Pesaro|43.722|12.980|IT|The Marches|58
+San Giovanni|42.654|13.986|IT|Abruzzo|58
+San Gabriel|23.302|-102.993|MX|Zacatecas|58
+San-Gavino-di-Carbini|41.721|9.148|FR|Corsica|58
+Sanguijuelas|20.264|-101.424|MX|Michoacán|58
+San Giovanni|46.980|11.942|IT|Trentino-Alto Adige|58
+Sangbwani|9.262|-7.133|CI|Denguélé District|58
 San Giorgio della Richinvelda|46.048|12.869|IT|Friuli Venezia Giulia|57
+Sangué|8.096|-2.824|CI|Zanzan District|57
+San Giovanni di Livenza|45.920|12.516|IT|Friuli Venezia Giulia|57
+San Giorgio|40.771|15.798|IT|Basilicate|57
 San Giorgio Albanese|39.582|16.453|IT|Calabria|57
+San Giuseppe|44.751|8.053|IT|Piedmont|57
+Sangwani|9.889|-7.362|CI|Denguélé District|57
+Sangbélédougou|8.159|-4.176|CI|Vallée du Bandama District|57
+San Giovanni|42.793|10.322|IT|Tuscany|57
+San Giorgio|45.902|10.864|IT|Trentino-Alto Adige|57
+San Gabriel|19.889|-99.646|MX|México|57
+Sangha Khālsa|31.096|75.547|IN|Punjab|57
+San-Giuliano|42.312|9.517|FR|Corsica|56
+San Giacomo|39.525|16.464|IT|Calabria|56
+San Giacomo di Musestrelle|45.706|12.334|IT|Veneto|56
+San Giorgio in Brenta|45.613|11.772|IT|Veneto|56
+San Giacomo|41.062|14.844|IT|Campania|56
+Sanguiébo|8.127|-2.651|CI|Zanzan District|56
+San Giovanni|42.887|13.874|IT|Abruzzo|56
+San Giacomo|39.500|16.114|IT|Calabria|56
 San Giuliano del Sannio|41.458|14.642|IT|Molise|56
+Sanganamé|9.687|-3.573|CI|Zanzan District|56
+San Giacomo-Marinella|39.574|16.822|IT|Calabria|56
+San Gabriel Cuentla|18.968|-100.057|MX|México|56
 San Giorgio|45.108|8.414|IT|Piedmont|55
+Sangadjokaha|8.671|-5.668|CI|Vallée du Bandama District|55
+San Giuliano Nuovo|44.906|8.761|IT|Piedmont|55
+San Gabriel|25.530|-108.475|MX|Sinaloa|55
+San Gregorio Ozolotepec|16.131|-96.330|MX|Oaxaca|55
+San Gonzalo|20.887|-101.571|MX|Guanajuato|55
+San Giorgio|37.640|14.468|IT|Sicily|55
+Sângeorge|45.399|21.319|RO|Timiș County|55
+Sangineto Lido|39.587|15.867|IT|Calabria|55
+San Gregorio Macapexco Barrio Segundo|19.775|-99.640|MX|México|55
 San Gaspar Ixchil|15.388|-91.726|GT|Huehuetenango|55
+Sangis|65.856|23.497|SE|Norrbotten|55
+San Giacomo del Martignone|44.600|11.217|IT|Emilia-Romagna|55
+San Gil|22.208|-102.022|MX|Aguascalientes|55
 San Giovanni di Gerace|38.365|16.278|IT|Calabria|55
+San Giuliano|45.069|9.994|IT|Emilia-Romagna|54
+San Giorgio in Alga|45.425|12.292|IT|Veneto|54|f
+Sangat Island|11.977|120.072|PH|Mimaropa|54|f
+Sangpang Bum|26.484|95.833|MM|Sagaing Region|54|f
+San Giovanni e Paolo|41.176|14.388|IT|Campania|54
+San Guillermo|20.503|-101.364|MX|Guanajuato|54
 San Godenzo|43.925|11.620|IT|Tuscany|54
 Sangineto|39.606|15.915|IT|Calabria|54
 Sangarcía|40.950|-4.411|ES|Castille and León|53
@@ -222,12 +298,18 @@ San Giuseppe|45.147|7.043|IT|Piedmont|51
 San Giovanni d'Asso|43.153|11.589|IT|Tuscany|50
 San Giovanni|44.394|8.497|IT|Liguria|50
 San Gregorio nelle Alpi|46.104|12.027|IT|Veneto|50
+Sangarédi Airport|11.114|-13.819|GN|Boké Region|49|f
+Sango Bay|-0.850|31.700|UG|Central Region|49|f
+Sangre de Christo Mountains|37.084|-105.267|US||49|f
 Sangarrén|42.019|-0.433|ES|Aragon|49
 San Giacomo Vercellese|45.498|8.327|IT|Piedmont|48
 San Giacomo Filippo|46.338|9.371|IT|Lombardy|46
 San Giovanni Lipioni|41.844|14.563|IT|Abruzzo|46
 San Gregorio|-7.057|-79.095|PE|Cajamarca Department|46
 San García de Ingelmos|40.769|-5.115|ES|Castille and León|43
+San Gregorio State Beach|37.323|-122.404|US|California|40|f
+Sangchris Lake|39.592|-89.481|US|Illinois|40|f
+Sängelberg|50.254|8.434|DE|Hesse|40|f
 San Giorgio Scarampi|44.611|8.242|IT|Piedmont|27
 S’ang|11.361|105.008|KH|Kandal|0
 San Gerardo de Pacaicaguán|-1.639|-78.616|EC|Chimborazo Province|0
@@ -240,10 +322,21 @@ Sanga|-11.129|15.426|AO|Kwanza Sul|0
 Sangallaya|-12.167|-76.267|PE|Lima region|0
 Sangar Sarāy|34.407|70.639|AF|Nangarhar|0
 Sangarará|-13.948|-71.603|PE|Cuzco Department|0
+Sangari|-8.442|118.579|ID|West Nusa Tenggara|0
 Sangasangadalam|-0.662|117.237|ID|East Kalimantan|0
 Sangatta|0.505|117.528|ID|East Kalimantan|0
+Sangdang|35.521|100.012|CN|Qinghai|0
+Sangengluo|18.863|110.181|CN|Hainan|0
+Sangesi|27.067|110.954|CN|Hunan|0
+Sanggaoen|-10.766|123.044|ID|East Nusa Tenggara|0
+Sanggar|-8.142|111.774|ID|East Java|0
 Sanggau|0.133|110.600|ID|West Kalimantan|0
+Sanggrahan Kidul|-8.121|111.915|ID|East Java|0
 Sangha|35.445|126.495|KR|Jeollabuk-do|0
+Sanghiang|-6.765|106.002|ID|Banten|0
+Sangia|-8.563|118.984|ID|West Nusa Tenggara|0
+Sangiang|-8.297|118.933|ID|West Nusa Tenggara|0
+Sangiangteras|-7.186|108.154|ID|West Java|0
 Sangir|3.886|97.528|ID|Aceh|0
 Sangiyn Dalay|45.133|97.750|MN|Govi-Altai Province|0
 Sangiyn Dalay|46.650|103.317|MN|Övörhangay|0
@@ -251,9 +344,28 @@ Sangiyn Dalay|46.008|104.942|MN|Middle Govĭ|0
 Sangiyn Dalay|42.842|105.138|MN|Ömnögovĭ|0
 Sangju|34.724|127.985|KR|Gyeongsangnam-do|0
 Sangkae|13.079|103.245|KH|Battambang|0
+Sangkalputung|-7.506|109.063|ID|Central Java|0
+Sangkangunung|-8.458|115.434|ID|Bali|0
+Sangke|35.103|102.109|CN|Qinghai|0
 Sangkha|14.636|103.853|TH|Surin|0
 Sangkom Thmei|13.581|104.913|KH|Preah Vihear|0
+Sanglur|-6.663|111.002|ID|Central Java|0
+Sangojar|-7.167|108.031|ID|West Java|0
+Sangoleng|-6.900|113.514|ID|East Java|0
+Sangongqiao|28.188|109.648|CN|Hunan|0
 Sangpi|28.934|99.800|CN|Sichuan|0
+Sangping|31.218|109.044|CN|Chongqing|0
+Sangruma|33.650|99.200|CN|Qinghai|0
 Sangsa|34.939|127.455|KR|Jeollanam-do|0
+Sangshuyuan|34.734|107.819|CN|Shaanxi|0
+Sangtian|27.126|116.567|CN|Jiangxi|0
+Sanguan|33.356|105.603|CN|Gansu|0
+Sanguandian|32.515|111.484|CN|Hubei|0
+Sanguanmiao|34.255|109.416|CN|Shaanxi|0
+Sanguansi|29.431|110.652|CN|Hunan|0
+Sanguanzhai|27.108|103.257|CN|Yunnan|0
+Sangumata|-9.403|119.561|ID|East Nusa Tenggara|0
 Sangwol|36.295|127.141|KR|Chungcheongnam-do|0
 Sangyuan|37.627|116.384|CN|Hebei|0
+Sangzhen|34.256|108.346|CN|Shaanxi|0
+Sangzhou|29.157|121.316|CN|Zhejiang|0

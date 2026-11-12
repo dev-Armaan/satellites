@@ -1,6 +1,6 @@
 Dresden|51.051|13.738|DE|Saxony|115
 Drâa-Tafilalet|31.692|-4.419|MA||115|r
-Drenthe|52.833|6.583|NL||111|r
+Drenthe|52.833|6.583|NL||112|r
 Drammen|59.744|10.204|NO|Buskerud|101
 Drobeta-Turnu Severin|44.627|22.653|RO|Mehedinți County|98
 Drohobych|49.352|23.511|UA|Lviv|97
@@ -19,9 +19,11 @@ Draa el Mizan|36.536|3.833|DZ|Tizi Ouzou|92
 Draguignan|43.537|6.465|FR|Provence-Alpes-Côte d'Azur|92
 Dragash|42.026|20.653|XK|Prizren|91
 Drozhzhino|55.524|37.589|RU|Moscow Oblast|90
+Dresden Airport|51.133|13.767|DE|Saxony|90|f
 Dreux|48.736|1.366|FR|Centre-Val de Loire|90
 Draa Ben Khedda|36.734|3.962|DZ|Tizi Ouzou|89
 Draveil|48.685|2.414|FR|Île-de-France|89
+Dr. Babasaheb Ambedkar International Airport|21.092|79.047|IN|Maharashtra|89|f
 Dracut|42.670|-71.302|US|Massachusetts|89
 Driefontein|-26.965|30.436|ZA|Mpumalanga|89
 Dronten|52.525|5.718|NL|Flevoland|89
@@ -41,6 +43,7 @@ Druzhba|41.222|61.307|UZ|Xorazm Region|85
 Driouch|34.977|-3.379|MA|Oriental|84
 Drochia|48.037|27.812|MD|Drochia|84
 Drensteinfurt|51.795|7.738|DE|North Rhine-Westphalia|84
+Drygalski Island|-65.750|92.500|AQ||83|f
 Drogichin|52.187|25.160|BY|Brest|83
 Druid Hills|33.780|-84.336|US|Georgia|83
 Drapetsóna|37.950|23.623|GR|Attica|83
@@ -54,6 +57,7 @@ Drăgăneşti-Olt|44.167|24.533|RO|Olt|82
 Druskininkai|54.016|23.987|LT|Alytus|82
 Dranesville|39.001|-77.346|US|Virginia|82
 Drouin|-38.137|145.858|AU|Victoria|82
+Dr. Luis María Argaña International Airport|-22.045|-60.622|PY|Boquerón Department|81|f
 Drummoyne|-33.852|151.155|AU|New South Wales|81
 Drezna|55.742|38.848|RU|Moscow Oblast|81
 Drøbak|59.662|10.628|NO|Akershus|81
@@ -62,17 +66,23 @@ Dračevo|41.937|21.522|MK|Grad Skopje|81
 Drezdenko|52.838|15.831|PL|Lubusz|80
 Driftwood Village|19.353|-81.246|KY||80
 Druzhny|53.624|27.898|BY|Minsk|79
+Drūkšių ežeras|55.633|26.583|BY||79|f
 Dragalina|44.433|27.317|RO|Călărași County|79
 Drumheller|51.462|-112.710|CA|Alberta|79
 Dryanovo|42.979|25.479|BG|Gabrovo|78
+Dragonara Island|35.345|26.178|GR|Crete|78|f
 Druento|45.133|7.575|IT|Piedmont|78
 Dryden|49.783|-92.750|CA|Ontario|78
 Dragomireşti|44.917|25.333|RO|Dâmbovița County|78
 Drosiá|38.120|23.864|GR|Attica|78
+Drachenfels|50.665|7.211|DE|North Rhine-Westphalia|78|f
 Draâ Esmar|36.274|2.717|DZ|Medea|77
 Dry Run|39.104|-84.330|US|Ohio|77
+Dr. Juan C. Angara Airport|15.731|121.502|PH|Central Luzon|77|f
+Drake Field|36.005|-94.170|US|Arkansas|77|f
 Dragodana|44.733|25.350|RO|Dâmbovița County|77
 Dromore|54.414|-6.149|GB|Northern Ireland|76
+Dryden Regional Airport|49.832|-92.744|CA|Ontario|76|f
 Drabiv|49.959|32.150|UA|Cherkasy|76
 Drebkau|51.654|14.223|DE|Brandenburg|76
 Drayo|6.259|-6.040|CI|Goh-Djiboua|76
@@ -84,6 +94,9 @@ Dromore|54.513|-7.459|GB|Northern Ireland|75
 Dresher|40.141|-75.167|US|Pennsylvania|75
 Dronero|44.465|7.362|IT|Piedmont|75
 Drăguşeni|45.967|27.750|RO|Galați County|74
+Drakes Bay|38.012|-122.919|US|California|74|f
+Dreiländerspitze|46.851|10.145|CH|Grisons|74|f
+Druesberg|47.004|8.834|CH|Schwyz|74|f
 Driedorf|50.633|8.183|DE|Hesse|74
 Drăgăneşti|44.817|26.300|RO|Prahova|74
 Drăguţeşti|44.967|23.233|RO|Gorj County|74
@@ -94,12 +107,14 @@ Drusenheim|48.762|7.953|FR|Grand Est|74
 Dragomireşti|46.633|27.350|RO|Vaslui County|74
 Drogenbos|50.787|4.315|BE|Flanders|74
 Drăgăneşti-Vlaşca|44.101|25.598|RO|Teleorman County|74
+Driskill Mountain|32.425|-92.897|US|Louisiana|73|f
 Drap|43.755|7.322|FR|Provence-Alpes-Côte d'Azur|73
 Drumcondra|53.371|-6.253|IE|Leinster|73
 Dransfeld|51.499|9.762|DE|Lower Saxony|73
 Dreslincourt|49.528|2.927|FR|Hauts-de-France|73
 Dragomireşti-Vale|44.475|25.935|RO|Ilfov|73
 Drahovo|48.235|23.552|UA|Zakarpattia|73
+Drakensberg|-29.000|29.000|LS||72|f
 Drysdale|-38.172|144.570|AU|Victoria|72
 Druzhba|55.886|37.743|RU|Moscow Oblast|72
 Drzewica|51.451|20.477|PL|Łódź Voivodeship|72
@@ -110,6 +125,8 @@ Dronninglund|57.160|10.293|DK|North Denmark|72
 Drvar|44.374|16.381|BA|Federation of B&H|71
 Druzhnaya Gorka|59.280|30.127|RU|Leningradskaya Oblast'|71
 Drymós|40.781|22.959|GR|Central Macedonia|71
+Dr. Arturo Umberto Illia Airport|-39.001|-67.621|AR|Rio Negro|71|f
+Dreispitz|46.593|7.760|CH|Bern|71|f
 Dreghorn|55.608|-4.622|GB|Scotland|71
 Drobysheve|49.042|37.730|UA|Donetsk|71
 Drage|53.414|10.263|DE|Lower Saxony|71
@@ -122,6 +139,7 @@ Dravograd|46.588|15.019|SI|Municipality of Dravograd|70
 Drékuha|6.458|-6.741|CI|Sassandra-Marahoue|70
 Dranda|42.872|41.153|GE|Abkhazia|70
 Drongan|55.435|-4.456|GB|Scotland|70
+Dry Tortugas|24.665|-82.855|US|Florida|70|f
 Druzhba|44.195|42.017|RU|Karachayevo-Cherkesiya Republic|70
 Drugovo|41.485|20.926|MK|Kichevo|70
 Drocourt|50.390|2.924|FR|Hauts-de-France|70
@@ -144,6 +162,7 @@ Drăguşeni|48.017|26.817|RO|Botoșani County|69
 Drniš|43.862|16.156|HR|Šibenik-Knin|69
 Dragosloveni|46.000|26.667|RO|Vrancea|69
 Drum Point|38.327|-76.426|US|Maryland|69
+Drøna|60.062|5.183|NO|Vestland|69|f
 Dreierwalde|52.332|7.503|DE|North Rhine-Westphalia|69
 Drăgoteşti|44.800|23.167|RO|Gorj County|69
 Drăguşeni|47.283|26.483|RO|Suceava|69
@@ -167,6 +186,9 @@ Drachyntsi|48.316|25.701|UA|Chernivtsi|67
 Drabeši|57.243|25.277|LV|Cēsis Municipality|67
 Drăgugești|46.368|26.774|RO|Bacău County|67
 Dragoș Vodă|44.433|27.150|RO|Călărași County|67
+Dr Johnson's House|51.515|-0.108|GB|England|67|f
+Driscoll Island|-76.200|-146.917|AQ||67|f
+Druid Peak|44.904|-110.179|US|Wyoming|67|f
 Drongouiné|7.201|-8.086|CI|Montagnes|67
 Drăgăneşti de Vede|44.133|25.050|RO|Teleorman County|67
 Dragomirești-Deal|44.462|25.945|RO|Ilfov|67
@@ -194,6 +216,9 @@ Dranytsya|48.227|26.533|UA|Chernivtsi|66
 Drăghiceni|44.133|24.250|RO|Olt|66
 Drury|-37.100|174.950|NZ|Auckland|65
 Drexel|35.758|-81.604|US|North Carolina|65
+Driggs–Reed Memorial Airport|43.742|-111.098|US|Idaho|65|f
+Drottningholm Palace|59.321|17.887|SE|Stockholm|65|f
+Drususstein|49.992|8.274|DE|Rheinland-Pfalz|65|f
 Drummond|-29.756|30.690|ZA|KwaZulu-Natal|65
 Draxini|47.650|26.817|RO|Botoșani County|65
 Drahanovice|49.579|17.077|CZ|Olomouc Region|65
@@ -226,6 +251,14 @@ Dreuil-lès-Amiens|49.915|2.229|FR|Hauts-de-France|63
 Dravískos|40.924|23.871|GR|Central Macedonia|63
 Driebruggen|52.044|4.800|NL|South Holland|63
 Dragodănești|45.056|25.236|RO|Dâmbovița County|63
+Drake Stadium|41.605|-93.655|US|Iowa|63|f
+Drassanes|41.375|2.177|ES|Catalonia|63|f
+Dravuni Island|-18.762|178.522|FJ|Eastern|63|f
+Dreitannenriegel|48.897|13.022|DE|Bavaria|63|f
+Drepano Island|39.919|26.074|TR|Canakkale|63|f
+Dresser Island|38.910|-90.253|US|Missouri|63|f
+Drewry, Mount|-84.450|167.350|AQ||63|f
+Drummond Island|46.000|-83.667|US|Michigan|63|f
 Drangstedt|53.614|8.756|DE|Lower Saxony|63
 Dronningmølle|56.095|12.385|DK|Capital Region|63
 Drefféac|47.476|-2.058|FR|Pays de la Loire|63
@@ -266,6 +299,14 @@ Droué|48.040|1.075|FR|Centre-Val de Loire|61
 Drăgoeşti-Snagov|44.567|26.533|RO|Ialomița County|61
 Drumnadrochit|57.334|-4.480|GB|Scotland|61
 Drăgăești Ungureni|44.946|25.310|RO|Dâmbovița County|61
+Dr Julian G Bruce Saint George Island State Park|29.718|-84.749|US|Florida|61|f
+Drake Bay|8.705|-83.657|CR|Puntarenas Province|61|f
+Drake’s Island|50.355|-4.154|GB|England|61|f
+Drugshøie|62.322|9.112|NO|Innlandet|61|f
+Dry Falls Dam|47.620|-119.308|US|Washington|61|f
+Dry Harbour Mountains|18.317|-77.400|JM|Saint Ann Parish|61|f
+Dry Ridge Mountain|43.875|-110.872|US|Wyoming|61|f
+Drygalski Mountains|-71.833|8.250|AQ||61|f
 Dřísy|50.256|14.644|CZ|Central Bohemia|61
 Drauț|46.260|21.809|RO|Arad County|61
 Draycott|51.256|-2.751|GB|England|60
@@ -274,18 +315,205 @@ Drentwede|52.744|8.565|DE|Lower Saxony|60
 Dreikirchen|50.433|7.950|DE|Rheinland-Pfalz|60
 Drembo|7.715|-5.395|CI|Vallée du Bandama District|60
 Dreisen|49.603|8.011|DE|Rheinland-Pfalz|60
+Drohobyczka|49.858|22.356|PL|Subcarpathia|60
+Drislea|47.771|26.973|RO|Botoșani County|60
+Drăgușani|46.298|26.987|RO|Bacău County|60
+Drogu|45.183|27.232|RO|Brăila County|60
+Dražovice|49.195|16.943|CZ|South Moravian|60
+Drempt|52.008|6.175|NL|Gelderland|60
+Drzonowo|54.096|15.436|PL|West Pomerania|60
+Drassmarkt|47.517|16.400|AT|Burgenland|60
+Drezzo|45.815|8.995|IT|Lombardy|60
+Drommahane|52.105|-8.691|IE|Munster|60
 Droß|48.464|15.576|AT|Lower Austria|60
+Druillat|46.059|5.317|FR|Auvergne-Rhône-Alpes|60
+Drexel|38.479|-94.609|US|Missouri|60
+Druzhne|49.684|26.989|UA|Khmelnytskyi|60
+Driezum|53.296|6.046|NL|Friesland|60
+Dryden|42.946|-83.124|US|Michigan|59
 Drăgoești|44.568|26.540|RO|Ialomița County|59
+Drage|43.889|15.541|HR|Zadar|59
+Drumlish|53.817|-7.767|IE|Leinster|59
+Drachyno|48.545|22.940|UA|Zakarpattia|59
+Dragosloveni|45.562|27.078|RO|Vrancea|59
+Dreis-Brück|50.266|6.792|DE|Rheinland-Pfalz|59
+Drenov Grič|45.998|14.333|SI|Municipality of Vrhnika|59
+Drumshanbo|54.050|-8.033|IE|Connacht|59
 Drelów|51.912|22.872|PL|Lublin|59
+Drakhtik|40.565|45.237|AM|Gegharkunik|59
+Drenovo|41.419|21.890|MK|Kavadarci|59
+Drucat|50.145|1.872|FR|Hauts-de-France|59
 Drösing|48.539|16.903|AT|Lower Austria|59
+Dragomelj|46.110|14.587|SI|Municipality of Domžale|59
+Dragun|53.708|11.225|DE|Mecklenburg-Vorpommern|59
+Dresser|45.356|-92.634|US|Wisconsin|59
+Drumoak|57.080|-2.345|GB|Scotland|59
 Drăgușeni|46.901|27.513|RO|Iași County|59
+Draxeni|46.873|27.627|RO|Vaslui County|59
+Družec|50.103|14.045|CZ|Central Bohemia|59
+Drewnica|54.288|18.957|PL|Pomerania|58
+Drachhausen|51.890|14.316|DE|Brandenburg|58
+Drăgoieni|45.042|23.336|RO|Gorj County|58
+Drymen|56.066|-4.453|GB|Scotland|58
+Drackendorf|50.888|11.631|DE|Thuringia|58
+Drosi|38.426|15.957|IT|Calabria|58
+Dromahair|54.233|-8.300|IE|Connacht|58
 Drnje|46.207|16.917|HR|Koprivnica-Križevci|58
+Drag Hill|41.098|-74.209|US|New Jersey|58|f
+Dragons Teeth|-63.291|-58.670|AQ||58|f
+Dragontail Peak|47.479|-120.833|US|Washington|58|f
+Dragovan, Mount|-77.383|160.710|AQ||58|f
+Draper Island|46.142|-89.085|US|Michigan|58|f
+Draughon-Miller Central Texas Regional Airport|31.151|-97.412|US|Texas|58|f
+Dream Lake|40.309|-105.659|US|Colorado|58|f
+Dredgers Key|24.582|-81.773|US|Florida|58|f
+Dreifaltigkeitsberg|48.082|8.762|DE|Baden-Wurttemberg|58|f
+Dreisesselberg|47.691|12.899|DE|Bavaria|58|f
+Dreisprachenspitze|46.533|10.483|IT|Trentino-Alto Adige|58|f
+Dreistelzberg|50.277|9.768|DE|Bavaria|58|f
+Dren Planina|41.323|21.658|MK|Prilep|58|f
+Dristner|47.117|11.833|AT|Tyrol|58|f
+Drohobycz Ghetto|49.350|23.500|UA|Lviv|58|f
+Drumburgh Castle|54.927|-3.148|GB|England|58|f
+Dry Lake Range|36.418|-114.838|US|Nevada|58|f
+Dry Range|46.800|-111.284|US|Montana|58|f
+Dryna|62.645|6.538|NO|Møre og Romsdal|58|f
+Dreschvitz|54.403|13.294|DE|Mecklenburg-Vorpommern|58
+Druzhba|50.802|32.358|UA|Chernihiv Oblast|58
+Drayton|48.571|-97.178|US|North Dakota|58
 Drăcșenei|44.227|24.985|RO|Teleorman County|58
+Drosochóri|39.628|20.972|GR|Epirus|58
 Drofino|45.286|34.616|UA|Crimea|58
+Drmoul|49.939|12.665|CZ|Carlsbad Region|58
+Dreischor|51.690|3.983|NL|Zeeland|58
+Dřevčice|50.168|14.628|CZ|Central Bohemia|58
+Dracé|46.157|4.765|FR|Auvergne-Rhône-Alpes|58
+Druye|47.309|0.538|FR|Centre-Val de Loire|58
+Drestedt|53.330|9.757|DE|Lower Saxony|58
+Drăganu|44.712|24.002|RO|Vâlcea County|58
+Driscoll|27.674|-97.749|US|Texas|58
+Drăgioiu|44.891|24.292|RO|Vâlcea County|57
+Dryzhyna Hreblia|49.288|34.143|UA|Poltava|57
+Drummond|47.035|-67.683|CA|New Brunswick|57
+Dreistetten|47.856|16.100|AT|Lower Austria|57
+Drognitz|50.588|11.572|DE|Thuringia|57
+Dromedary|-42.733|147.167|AU|Tasmania|57
+Driesch|50.676|6.111|BE|Wallonia|57
 Drăgănești|47.309|26.406|RO|Neamț County|57
+Drabivtsi|49.780|32.034|UA|Cherkasy|57
+Dry Tavern|39.939|-80.012|US|Pennsylvania|57
+Dražice|49.429|14.590|CZ|South Bohemian Region|57
+Drežnik Brezovički|45.722|15.895|HR|Zagreb|57
+Droßdorf|51.008|12.121|DE|Saxony-Anhalt|57
+Druzhne|48.196|38.281|UA|Donetsk|57
+Droxford|50.961|-1.138|GB|England|57
+Driftsethe|53.380|8.620|DE|Lower Saxony|57
+Draché|47.055|0.626|FR|Centre-Val de Loire|57
+Drahnsdorf|51.917|13.583|DE|Brandenburg|56
+Drucourt|49.116|0.466|FR|Normandy|56
+Dreptu|47.127|25.865|RO|Neamț County|56
+Dranouter|50.766|2.784|BE|Flanders|56
+Drozdov|49.863|13.841|CZ|Central Bohemia|56
+Dravski Dvor|46.467|15.716|SI|Municipality of Miklavž na Dravskem Polju|56
+Drosáto|41.166|22.803|GR|Central Macedonia|56
+Druztová|49.797|13.449|CZ|Plzeň Region|56
+Dr.Iqubalnagar|17.891|73.307|IN|Maharashtra|56
+Dry Drayton|52.242|0.018|GB|England|56
+Drosa|51.816|11.906|DE|Saxony-Anhalt|56
+Dracy-Saint-Loup|47.016|4.343|FR|Bourgogne-Franche-Comté|56
+Dragalina|48.057|26.455|RO|Botoșani County|56
+Dragey-Ronthon|48.717|-1.500|FR|Normandy|56
+Draževo|41.374|22.921|MK|Novo Selo|56
+Drehnow|51.867|14.367|DE|Brandenburg|56
+Drevant|46.693|2.525|FR|Centre-Val de Loire|56
+Drum|43.417|17.176|HR|Split-Dalmatia|56
+Drăgăneasca|44.529|25.741|RO|Giurgiu County|56
+Draillant|46.304|6.459|FR|Auvergne-Rhône-Alpes|56
+Dreileben|52.128|11.332|DE|Saxony-Anhalt|56
+Drayton Parslow|51.949|-0.780|GB|England|56
+Dronivka|48.920|38.042|UA|Donetsk|56
+Drage|54.356|9.158|DE|Schleswig-Holstein|56
+Drysice|49.335|17.058|CZ|South Moravian|56
+Dragasz|53.506|18.739|PL|Kujawsko-Pomorskie|56
+Dreisbach|50.617|7.933|DE|Rheinland-Pfalz|56
+Drochlin|50.729|19.639|PL|Silesia|56
+Drwinia|50.098|20.442|PL|Lesser Poland|56
+Drizë|40.840|19.948|AL|Berat County|55
+Drenje Brdovečko|45.873|15.706|HR|Zagreb County|55
+Dračevica|41.882|21.442|MK|Studenichani|55
+Drăgoiești|45.180|23.508|RO|Gorj County|55
+Drakótrypa|39.398|21.599|GR|Thessaly|55
+Driewegen|51.418|3.803|NL|Zeeland|55
+Drașov|45.938|23.743|RO|Alba County|55
+Držkov|50.688|15.303|CZ|Liberec Region|55
+Droužkovice|50.431|13.429|CZ|Ústí nad Labem Region|55
 Druogno|46.134|8.433|IT|Piedmont|55
+Drighiu|47.163|22.650|RO|Sălaj County|55
+Draganowa|49.591|21.622|PL|Subcarpathia|55
+Dromod|53.857|-7.919|IE|Connacht|55
+Drodougou|8.279|-8.131|CI|Woroba|55
+Drahynia|48.462|22.437|UA|Zakarpattia|55
+Drobonik|40.679|19.957|AL|Berat County|55
+Drăcești|44.368|25.245|RO|Teleorman County|55
+Dromcollogher|52.340|-8.908|IE|Munster|55
+Drincea|44.305|22.998|RO|Mehedinți County|55
+Draškovec|46.347|16.677|HR|Međimurje|55
+Druzhkivske|48.633|37.590|UA|Donetsk|55
 Drasenhofen|48.750|16.650|AT|Lower Austria|55
+Drăgoteni|46.733|22.309|RO|Bihor County|55
+Drenovac|45.223|17.754|HR|Požega-Slavonia|55
+Druzhba|51.188|27.974|UA|Zhytomyr Oblast|55
+Drouwenermond|52.978|6.906|NL|Drenthe|54
 Drużbice|51.464|19.394|PL|Łódź Voivodeship|54
+Draženci|46.383|15.850|SI|Municipality of Videm|54
+Drosendorf|48.868|15.621|AT|Lower Austria|54
+Drahany|49.433|16.897|CZ|Olomouc Region|54
+Dridu-Snagov|44.713|26.453|RO|Ialomița County|54
+Droseró|39.510|21.742|GR|Thessaly|54
+Droseró|40.823|22.248|GR|Central Macedonia|54
+Dr Augusto Roberto Fuster International Airport|-22.640|-55.830|PY|Amambay Department|54|f
+Dr Benjamin Stephenson Grand Army of the Republic Memorial|38.894|-77.022|US|District of Columbia|54|f
+Dr Juan Plate Airport|-22.159|-57.943|PY|Concepción|54|f
+Dr. Antonio Agostinho Neto International Airport|-9.051|13.499|AO|Bengo|54|f
+Dræet|55.603|10.174|DK|South Denmark|54|f
+Dragoon Mountains|31.940|-109.982|US|Arizona|54|f
+Drake Bay Airport|8.719|-83.639|CR|Puntarenas Province|54|f
+Drakesteyn|52.180|5.227|NL|Utrecht|54|f
+Drancy Transit Camp|48.924|2.446|FR|Île-de-France|54|f
+Drangey|65.944|-19.695|IS|Northwest|54|f
+Drayton Island|29.362|-81.641|US|Florida|54|f
+Drayton Valley Industrial Airport|53.265|-114.962|CA|Alberta|54|f
+Dreikanter Head|-76.883|162.467|AQ||54|f
+Dreisesselberg|48.781|13.804|CZ||54|f
+Drejø|54.970|10.418|DK|South Denmark|54|f
+Drenovac|44.852|16.020|BA|Federation of B&H|54|f
+Dresden Palace|51.053|13.737|DE|Saxony|54|f
+Drevvatnet|66.055|13.390|NO|Nordland|54|f
+Drewitzer See|53.546|12.362|DE|Mecklenburg-Vorpommern|54|f
+Driencourt Point|-64.208|-62.538|AQ||54|f
+Driftwood Beach State Recreation Site|44.464|-124.079|US|Oregon|54|f
+Droop Mountain|38.047|-80.265|US|West Virginia|54|f
+Droop Mountain Battlefield State Park|38.112|-80.271|US|West Virginia|54|f
+Drovers Cave National Park|-30.221|115.090|AU|Western Australia|54|f
+Dru Rock|-66.769|141.579|AQ||54|f
+Druid Lake|43.278|-88.408|US|Wisconsin|54|f
+Druim Fada|56.893|-5.142|GB|Scotland|54|f
+Drummond Island Airport|46.009|-83.739|US|Michigan|54|f
+Dry Run Bridge|42.754|-91.369|US|Iowa|54|f
+Dry Tortugas National Park|24.649|-82.872|US|Florida|54|f
+Dryden, Terrel County Airport|30.048|-102.213|US|Texas|54|f
+Drying Point|-60.705|-45.603|AQ||54|f
+Drohndorf|51.717|11.531|DE|Saxony-Anhalt|54
+Draža Vas|46.333|15.483|SI|Municipality of Slovenske Konjice|54
+Dröbischau|50.630|11.073|DE|Thuringia|54
+Dromcolliher|52.339|-8.907|IE|Munster|54
+Drahlín|49.732|13.969|CZ|Central Bohemia|54
+Drakes Branch|36.993|-78.601|US|Virginia|54
+Drhovle|49.334|14.041|CZ|South Bohemian Region|54
+Drakesboro|37.218|-87.049|US|Kentucky|54
+Drăușeni|46.140|25.309|RO|Brașov County|54
+Družbinec|46.350|16.225|HR|Varaždin|54
+Dreitzsch|50.741|11.797|DE|Thuringia|53
 Drenje|45.381|18.282|HR|County of Osijek-Baranja|53
 Dragalić|45.244|17.289|HR|Brod-Posavina|53
 Drânceni|46.801|28.133|RO|Vaslui County|53
@@ -293,10 +521,118 @@ Drena|45.969|10.945|IT|Trentino-Alto Adige|52
 Drizzona|45.142|10.350|IT|Lombardy|51
 Driebes|40.245|-3.042|ES|Castille-La Mancha|51
 Draž|45.842|18.789|HR|County of Osijek-Baranja|51
+Dreifelden|50.591|7.836|DE|Rheinland-Pfalz|50
+Dr. Frank R. Burroughs House|47.125|-118.383|US|Washington|49|f
+Dragon Peak|36.790|-118.376|US|California|49|f
+Drains Bay|54.881|-5.834|GB|Northern Ireland|49|f
+Drake Head|-69.217|158.167|AQ||49|f
+Draper Island|-34.196|122.496|AU|Western Australia|49|f
+Draugen|64.356|7.792|NO||49|f
+Draves Point|-66.087|101.143|AQ||49|f
+Draw River Forest Reserve|5.206|-2.321|GH|Western|49|f
+Dreadnought Point|-63.995|-57.814|AQ||49|f
+Dream Island|-64.727|-64.225|AQ||49|f
+Dreary Isthmus|-78.200|165.283|AQ||49|f
+Drei Schwestern|47.176|9.573|AT|Vorarlberg|49|f
+Dreifelder Weiher|50.592|7.825|DE|Rheinland-Pfalz|49|f
+Dreiherrenspitze|47.069|12.240|AT||49|f
+Drevviken|59.217|18.177|SE|Stockholm|49|f
+Drewensee|53.259|13.065|DE|Mecklenburg-Vorpommern|49|f
+Drienok|48.890|18.961|SK|Žilina Region|49|f
+Driesh|56.833|-3.183|GB|Scotland|49|f
+Drijen Vrelo|43.056|17.819|BA|Federation of B&H|49|f
+Drinkwater Point|43.776|-70.153|US|Maine|49|f
+Drmanovina|43.981|19.834|RS|Central Serbia|49|f
+Drogden Channel|55.602|12.710|DK|Capital Region|49|f
+Dromedary Glacier|-78.300|163.167|AQ||49|f
+Dromore Castle|51.856|-9.720|IE|Munster|49|f
+Dromore Lough|52.920|-8.973|IE|Munster|49|f
+Drug Island|54.965|-131.412|US|Alaska|49|f
+Druim Fada|57.118|-5.479|GB|Scotland|49|f
+Drum Rock|-65.233|-64.266|AQ||49|f
+Drummond Glacier|-66.700|-65.566|AQ||49|f
+Drummoyne Oval|-33.851|151.150|AU|New South Wales|49|f
+Druridge Bay|55.267|-1.533|GB|England|49|f
+Drury Ridge|-83.650|-55.750|AQ||49|f
+Dryander National Park|-20.218|148.568|AU|Queensland|49|f
+Drygalski Fjord|-54.806|-36.017|GS||49|f
+Drysdale Island|-11.687|136.000|AU|Northern Territory|49|f
+Drysdale River National Park|-14.681|127.107|AU|Western Australia|49|f
+Drage|54.004|9.519|DE|Schleswig-Holstein|48
 Drapia|38.666|15.911|IT|Calabria|46
+Drees|50.350|7.000|DE|Rheinland-Pfalz|44
+Drogen|50.917|12.317|DE|Thuringia|44
+Dr Pepper Ballpark|33.098|-96.820|US|Texas|40|f
+Dr. Sun Yat-Sen Classical Chinese Garden|49.280|-123.104|CA|British Columbia|40|f
+Drabek Peak|-71.083|166.617|AQ||40|f
+Draco Peak|53.483|-119.669|CA|Alberta|40|f
+Draeger, Mount|-71.150|163.900|AQ||40|f
+Drag Lake|45.069|-78.406|CA|Ontario|40|f
+Dragoman Glacier|-63.016|-62.534|AQ||40|f
+Dragon Bay|47.633|-56.365|CA|Newfoundland and Labrador|40|f
+Dragon Lake|48.864|-91.865|CA|Ontario|40|f
+Dragon Lake|52.950|-122.423|CA|British Columbia|40|f
+Dragon Peak|52.450|-117.719|CA|Alberta|40|f
+Dragon Stadium|32.930|-97.112|US|Texas|40|f
+Dragon Tower|45.746|126.674|CN|Heilongjiang|40|f
+Drake Park|44.060|-121.321|US|Oregon|40|f
+Drake Peak|42.300|-120.124|US|Oregon|40|f
+Drake Stadium|34.072|-118.448|US|California|40|f
+Drangov Peak|-62.542|-59.630|AQ||40|f
+Drättehorn|46.582|7.824|CH|Bern|40|f
+Draughton|52.390|-0.858|GB|England|40|f
+Drawbridge Peak|52.700|-118.327|CA|British Columbia|40|f
+Dream Mine|40.049|-111.628|US|Utah|40|f
+Drei Kapuziner|47.125|9.589|LI||40|f
+Dreieckhorn|46.478|8.020|CH|Valais|40|f
+Dreifrankenstein|49.756|10.551|DE|Bavaria|40|f
+Dreifürstenstein|48.373|9.045|DE|Baden-Wurttemberg|40|f
+Dreschhoff Peak|-78.017|161.083|AQ||40|f
+Dresden Island Lock and Dam|41.401|-88.281|US|Illinois|40|f
+Drewry Point Park|49.417|-116.819|CA|British Columbia|40|f
+Driedmeat Lake|52.865|-112.750|CA|Alberta|40|f
+Driftwood Bay Air Force Station|53.972|-166.858|US|Alaska|40|f
+Driftwood Canyon Park|54.816|-127.037|CA|British Columbia|40|f
+Driftwood Provincial Park|46.183|-77.858|CA|Ontario|40|f
+Driftwood Range|55.916|-126.703|CA|British Columbia|40|f
+Drinnan Peak|49.783|-117.719|CA|British Columbia|40|f
+Drinov Peak|-62.952|-62.487|AQ||40|f
+Driscoll Glacier|-79.700|-83.000|AQ||40|f
+Driscoll Point|-82.983|168.000|AQ||40|f
+Drive Lake|50.331|-91.178|CA|Ontario|40|f
+Driving Park|39.946|-82.949|US|Ohio|40|f
+Druce Lake|42.368|-88.005|US|Illinois|40|f
+Druid Hill Park|39.324|-76.647|US|Maryland|40|f
+Drum Island|28.971|-82.742|US|Florida|40|f
+Drum Islands|66.080|-67.047|CA|Nunavut|40|f
+Drumbeg Park|49.134|-123.697|CA|British Columbia|40|f
+Drumgoole Plaza|40.711|-74.004|US|New York|40|f
+Drummond Peak|-77.850|-153.967|AQ||40|f
+Drunegalm|46.626|7.619|CH|Bern|40|f
+Drusenfluh|47.029|9.802|AT|Vorarlberg|40|f
+Drüsensee|53.590|10.718|DE|Schleswig-Holstein|40|f
+Dry Canyon Reservoir|34.485|-118.529|US|California|40|f
+Dry Creek Airpark|44.195|-120.821|US|Oregon|40|f
+Dry Creek Airport|29.986|-95.686|US|Texas|40|f
+Dry Creek Archeological Site|63.880|-149.040|US|Alaska|40|f
+Dry Hills|40.112|-116.557|US|Nevada|40|f
+Dry Island Buffalo Jump Provincial Park|51.950|-112.952|CA|Alberta|40|f
+Dryanovo Heights|-62.478|-59.863|AQ||40|f
+Dryden Lake|45.391|-62.777|CA|Nova Scotia|40|f
+Dryden Lake|42.462|-76.273|US|New York|40|f
+Dryslwyn Castle|51.863|-4.101|GB|Wales|40|f
+Dreggers|53.886|10.348|DE|Schleswig-Holstein|35
 Draschen|46.769|14.068|AT|Carinthia|20
+Drajak|-6.570|111.033|ID|Central Java|0
+Drajat|-6.883|112.388|ID|East Java|0
+Drebber|52.652|8.419|DE|Lower Saxony|0
 Drenovë|40.583|20.792|AL|Korçë County|0
 Drenovë|40.601|19.701|AL|Fier County|0
+Dresen|-6.695|111.284|ID|Central Java|0
+Dresi Kulon|-6.711|111.269|ID|Central Java|0
+Dresi Wetan|-6.713|111.276|ID|Central Java|0
 Drien Rampak|4.311|95.958|ID|Aceh|0
 Drighlington|53.756|-1.664|GB|England|0
 Drinić|44.507|16.467|BA|Srpska|0
+Drudikrajan|-6.977|112.063|ID|East Java|0
+Druju|-6.746|111.130|ID|Central Java|0

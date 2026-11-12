@@ -1,15 +1,15 @@
 California|37.250|-119.751|US||151|r
 Calabarzon|14.310|121.090|PH||141|r
 Cali|3.431|-76.520|CO|Valle del Cauca Department|128
+Calabria|39.000|16.500|IT||125|r
 Caloocan|14.650|120.968|PH|National Capital Region|125
-Calabria|39.000|16.500|IT||124|r
 Calgary|51.050|-114.085|CA|Alberta|122
 Callao|-12.052|-77.135|PE|Callao|122
 Caldas Department|5.267|-75.333|CO||119|r
 Calumbo|-9.147|13.419|AO|Bengo|116
 Calamba|14.212|121.165|PH|Calabarzon|115
 Calabar|4.959|8.327|NG|Cross River State|115
-Călărași County|44.250|27.000|RO||109|r
+Călărași County|44.250|27.000|RO||110|r
 Calabozo|8.924|-67.429|VE|Guárico|105
 Calama|-22.457|-68.924|CL|Antofagasta|104
 Calumpit|14.916|120.766|PH|Central Luzon|102
@@ -24,6 +24,7 @@ Caledon|43.865|-79.993|CA|Ontario|98
 Calais|50.952|1.856|FR|Hauts-de-France|97
 Calauag|13.957|122.288|PH|Calabarzon|97
 Calbayog City|12.067|124.596|PH|Eastern Visayas|97
+California Institute of Technology|34.138|-118.126|US|California|96|f
 Calapan|13.412|121.180|PH|Mimaropa|96
 Caltanissetta|37.490|14.062|IT|Sicily|96
 Caleta Olivia|-46.448|-67.523|AR|Santa Cruz|95
@@ -72,6 +73,7 @@ Callaway|30.153|-85.570|US|Florida|83
 Caldas|-21.924|-46.386|BR|Minas Gerais|83
 Calapor|15.465|73.847|IN|Goa|83
 Călăraşi|47.255|28.310|MD|Călăraşi|83
+Calicut International Airport|11.137|75.955|IN|Kerala|83|f
 Calolziocorte|45.795|9.438|IT|Lombardy|83
 Calle Larga|-32.855|-70.626|CL|Valparaiso|83
 California City|35.126|-117.986|US|California|82
@@ -80,6 +82,7 @@ Caldeirão Grande|-11.020|-40.303|BR|Bahia|82
 Călan|45.733|22.983|RO|Hunedoara County|82
 Calenzano|43.854|11.166|IT|Tuscany|82
 California|38.300|-76.507|US|Maryland|81
+Calgary International Airport|51.129|-114.013|CA|Alberta|81|f
 Calintaan|12.567|120.933|PH|Mimaropa|81
 Calçado|-8.742|-36.334|BR|Pernambuco|81
 Calendário|41.404|-8.530|PT|Braga|81
@@ -116,6 +119,7 @@ Calden|51.409|9.402|DE|Hesse|78
 Calipatria|33.126|-115.514|US|California|77
 Calimera|40.249|18.280|IT|Apulia|77
 Calatagan|13.588|124.207|PH|Bicol Region|77
+Calakmul|18.106|-89.810|MX|Campeche|77|f
 Calverton|53.037|-1.083|GB|England|77
 Calamba|8.559|123.642|PH|Northern Mindanao|77
 Călăraşi|44.205|27.314|RO|Călărași County|77
@@ -124,6 +128,7 @@ California|40.066|-79.892|US|Pennsylvania|76
 Calverton|40.906|-72.743|US|New York|76
 Caloto|3.036|-76.408|CO|Cauca Department|76
 Călugăreni|44.172|25.996|RO|Giurgiu County|76
+Calabozo Airport|8.925|-67.417|VE|Guárico|76|f
 Cala Rajada|39.712|3.463|ES|Balearic Islands|76
 Calheta de São Miguel|15.186|-23.592|CV|São Miguel|76
 Calderara di Reno|44.563|11.271|IT|Emilia-Romagna|76
@@ -133,6 +138,7 @@ Calamonte|38.889|-6.388|ES|Extremadura|76
 Caluula|11.966|50.757|SO|Bari|76
 Calonne-Ricouart|50.485|2.473|FR|Hauts-de-France|76
 Calabugao|8.456|125.159|PH|Northern Mindanao|76
+Caldwell Municipal Airport|30.515|-96.704|US|Texas|75|f
 Callington|50.501|-4.313|GB|England|75
 Calafindeşti|47.850|26.117|RO|Suceava|75
 Callenberg|50.850|12.633|DE|Saxony|75
@@ -149,6 +155,7 @@ Calumbi|-7.941|-38.150|BR|Pernambuco|75
 Calistoga|38.579|-122.580|US|California|75
 Calderitas|18.556|-88.255|MX|Quintana Roo|75
 Calibutbut|15.115|120.598|PH|Central Luzon|74
+Calayan Island|19.335|121.456|PH|Cagayan Valley|74|f
 Caluso|45.305|7.891|IT|Piedmont|74
 Calcinelli|43.754|12.920|IT|The Marches|74
 Cala Millor|39.605|3.387|ES|Balearic Islands|74
@@ -161,6 +168,7 @@ Calubcub Dos|13.739|121.422|PH|Calabarzon|74
 Calolbon|13.596|124.099|PH|Bicol Region|74
 Calberlah|52.421|10.623|DE|Lower Saxony|74
 Calcio|45.508|9.849|IT|Lombardy|74
+Caledonian Stadium|57.495|-4.217|GB|Scotland|73|f
 Calmeca|18.635|-98.634|MX|Puebla|73
 Călineşti-Oaş|47.900|23.300|RO|Satu Mare County|73
 Calebasses|-20.112|57.554|MU|Pamplemousses|73
@@ -181,6 +189,7 @@ Calamocha|40.919|-1.298|ES|Aragon|73
 Caldwell|30.531|-96.693|US|Texas|73
 Calaba|15.300|120.874|PH|Central Luzon|73
 Calderino|44.458|11.199|IT|Emilia-Romagna|72
+California City Municipal Airport|35.150|-118.016|US|California|72|f
 Calnali|20.898|-98.584|MX|Hidalgo|72
 Calera y Chozas|39.883|-4.982|ES|Castille-La Mancha|72
 Calatabiano|37.820|15.231|IT|Sicily|72
@@ -203,6 +212,7 @@ Calheta|38.602|-28.018|PT|Azores|72
 Calamar|1.960|-72.653|CO|Guaviare Department|71
 Calcutta|40.673|-80.576|US|Ohio|71
 Calvin Park|44.233|-76.524|CA|Ontario|71
+Calapooya Mountains|43.500|-122.501|US|Oregon|71|f
 Calanda|40.942|-0.232|ES|Aragon|71
 Calizo|11.582|122.386|PH|Western Visayas|71
 Caldono|2.797|-76.483|CO|Cauca Department|71
@@ -219,6 +229,8 @@ Caltabellotta|37.575|13.216|IT|Sicily|70
 Calero|10.373|123.998|PH|Central Visayas|70
 Calingcuan|15.333|120.583|PH|Central Luzon|70
 Calascibetta|37.590|14.272|IT|Sicily|70
+Caldey Island|51.636|-4.689|GB|Wales|70|f
+Caldicot Castle|51.593|-2.742|GB|Wales|70|f
 Calcinaia|43.684|10.617|IT|Tuscany|70
 Callander|56.244|-4.216|GB|Scotland|70
 Calatorao|41.522|-1.347|ES|Aragon|70
@@ -243,6 +255,7 @@ Calamba|10.175|123.283|PH|Central Visayas|69
 Calamba|9.104|125.594|PH|Caraga|69
 Calaya|10.492|122.626|PH|Western Visayas|69
 Calilayan|13.850|121.930|PH|Calabarzon|69
+Calvi – Sainte-Catherine Airport|42.531|8.793|FR|Corsica|69|f
 Călăţele|46.767|23.017|RO|Cluj County|69
 Calamagui East|17.488|121.768|PH|Cagayan Valley|69
 Callian|43.622|6.753|FR|Provence-Alpes-Côte d'Azur|68
@@ -275,6 +288,10 @@ Calasetta|39.107|8.368|IT|Sardinia|67
 Calongbuyan|17.165|120.427|PH|Ilocos|67
 Calayaan|15.567|120.514|PH|Central Luzon|67
 Calachuchi|12.218|123.531|PH|Bicol Region|67
+Cal Islet|33.008|-16.388|PT|Madeira|67|f
+Calf Islands|40.992|-73.640|US|Connecticut|67|f
+Calf of Man|54.053|-4.814|IM|Rushen|67|f
+Caliente Range|35.087|-119.809|US|California|67|f
 Calera|33.935|-96.429|US|Oklahoma|67
 Calmar|53.267|-113.819|CA|Alberta|67
 Calatrava|12.620|122.071|PH|Mimaropa|67
@@ -293,6 +310,8 @@ Caleras de Amexhe|20.562|-100.560|MX|Guanajuato|66
 Calhoun Falls|34.092|-82.596|US|South Carolina|66
 Calvario Buenavista|19.702|-99.957|MX|México|66
 Calenzana|42.509|8.855|FR|Corsica|65
+Caleta Tortel Airport|-47.787|-73.532|CL|Aysén|65|f
+Calvert Marine Museum|38.331|-76.464|US|Maryland|65|f
 Calvello|40.475|15.851|IT|Basilicate|65
 Calmont|43.287|1.633|FR|Occitanie|65
 Calmont|44.249|2.512|FR|Occitanie|65
@@ -322,6 +341,14 @@ Calliano|45.933|11.095|IT|Trentino-Alto Adige|64
 Calcehtok|20.567|-89.913|MX|Yucatán|64
 Callas|43.593|6.538|FR|Provence-Alpes-Côte d'Azur|64
 Calopăr|44.165|23.761|RO|Dolj|63
+Calagnaan Island|11.484|123.216|PH|Western Visayas|63|f
+Calais-Dunkerque Airport|50.961|1.956|FR|Hauts-de-France|63|f
+Caleta Blanco Airport|-45.149|-73.514|CL|Aysén|63|f
+Caleta Mansa|-40.550|-73.767|CL|Los Lagos Region|63|f
+Calico Rock-Izard County Airport|36.164|-92.145|US|Arkansas|63|f
+California Peak|37.614|-105.499|US|Colorado|63|f
+California Pines Airport|41.412|-120.685|US|California|63|f
+California State Railroad Museum|38.585|-121.504|US|California|63|f
 Călinești|44.077|24.688|RO|Olt|63
 Călugăreni|45.083|26.383|RO|Prahova|63
 Calamonaci|37.526|13.291|IT|Sicily|63
@@ -349,6 +376,15 @@ Calizzano|44.236|8.118|IT|Liguria|61
 Calaceite|41.016|0.189|ES|Aragon|61
 Căldăraru|44.413|26.263|RO|Ilfov|61
 Caldierino-Rota|45.416|11.157|IT|Veneto|61
+Calafquén Lake|-39.518|-72.147|CL|Araucania|61|f
+Caledonia County Airport|44.571|-72.016|US|Vermont|61|f
+Calexico International Airport|32.667|-115.516|US|California|61|f
+Calhoun County Airport|28.654|-96.681|US|Texas|61|f
+Calico Mountains|34.974|-116.843|US|California|61|f
+Calivigny Island|11.995|-61.726|GD|Saint George Parish|61|f
+Callawassie Island|32.327|-80.856|US|South Carolina|61|f
+Calventuras Islands|16.853|94.271|MM|Ayeyarwady|61|f
+Calverton Executive Airpark|40.920|-72.794|US|New York|61|f
 Calzada del Tepozán|20.738|-101.882|MX|Guanajuato|61
 Čalovec|47.817|17.988|SK|Nitra Region|61
 Călui|44.453|24.064|RO|Olt|61
@@ -371,40 +407,181 @@ Calibishie|15.593|-61.349|DM|Saint Andrew Parish|60
 Caledonia|33.683|-88.324|US|Mississippi|60
 Calmasino|45.521|10.752|IT|Veneto|60
 Calvarrasa de Abajo|40.946|-5.553|ES|Castille and León|60
+Calderones|-14.157|-75.701|PE|Ica|60
+Călățea|46.988|22.409|RO|Bihor County|60
 Calvene|45.766|11.511|IT|Veneto|60
+Calnova-Fiorentina|45.637|12.609|IT|Veneto|60
+Calmar|43.184|-91.864|US|Iowa|60
+Calcinate del Pesce|45.816|8.763|IT|Lombardy|60
+Callow Hill|52.359|-2.373|GB|England|60
+Caleta Vidal|-10.855|-77.703|PE|Lima region|60
+Calderones|20.990|-101.226|MX|Guanajuato|60
+California|22.285|-102.252|MX|Aguascalientes|59
+Çaltı|37.653|28.031|TR|Aydın|59
+Călimănești|46.413|24.733|RO|Mureș County|59
+Calut|41.075|47.426|AZ|Oğuz|59
+Calvaria de Cima|39.644|-8.864|PT|Leiria|59
+Caldana|42.894|10.925|IT|Tuscany|59
+Călienii Vechi|45.600|27.509|RO|Vrancea|59
+Calpulalpan|19.718|-97.280|MX|Veracruz|59
+Caligny|48.808|-0.595|FR|Normandy|59
 Calana|-17.943|-70.189|PE|Tacna|59
+Calzadilla de Los Barros|38.300|-6.317|ES|Extremadura|59
+Calderas|19.987|-100.014|MX|México|59
 Calestano|44.602|10.124|IT|Emilia-Romagna|59
+Calcutta|18.362|-88.439|BZ|Corozal District|59
 Calchera-Frontale|45.834|9.512|IT|Lombardy|59
+Călugărei|44.294|23.256|RO|Dolj|59
+Călugări|46.424|22.478|RO|Bihor County|59
 Călmățuiu de Sus|44.026|24.812|RO|Teleorman County|58
+Calalco|20.215|-97.630|MX|Veracruz|58
+Călugăreni|46.745|27.023|RO|Bacău County|58
+California|55.967|-3.750|GB|Scotland|58
 Calvi|41.072|14.865|IT|Campania|58
 Calliano|45.008|8.257|IT|Piedmont|58
 Calavino|46.046|10.984|IT|Trentino-Alto Adige|58
+Calarco|38.059|14.630|IT|Sicily|58
+Çaltıbozkır|36.515|33.918|TR|Mersin|58
+Calders|41.789|1.987|ES|Catalonia|58
+Calwa|36.711|-119.758|US|California|58
 Calamandrana|44.738|8.337|IT|Piedmont|58
+Çaltı|41.310|36.601|TR|Samsun|58
+Calvert Beach|38.466|-76.477|US|Maryland|58
+Călugăreni|45.051|22.821|RO|Gorj County|58
+Calabasas Peak|34.112|-118.652|US|California|58|f
+Calbayog Airport|12.067|124.533|PH|Eastern Visayas|58|f
+Calcasieu Lake|29.932|-93.294|US|Louisiana|58|f
+Calders Peak|37.596|-80.577|US|West Virginia|58|f
+Caldwell Industrial Airport|43.642|-116.635|US|Idaho|58|f
+Calicoan Island|10.988|125.799|PH|Eastern Visayas|58|f
+Caliente Mountain|35.036|-119.760|US|California|58|f
+California State Indian Museum|38.573|-121.472|US|California|58|f
+Callaly Castle|55.383|-1.919|GB|England|58|f
+Calumet Mountains|34.233|-115.512|US|California|58|f
+Calderón|18.858|-98.979|MX|Morelos|58
 Calobre|8.321|-80.841|PA|Veraguas Province|58
+Calabacillas|23.219|-99.735|MX|Tamaulipas|58
+Calstock|50.496|-4.206|GB|England|58
+Calhan|39.036|-104.297|US|Colorado|58
 Calendasco|45.087|9.596|IT|Emilia-Romagna|58
+Calca|-11.304|-75.713|PE|Junin|58
+Callala Beach|-35.006|150.696|AU|New South Wales|58
+Calan|47.876|-3.323|FR|Brittany|58
+Călărașii Vechi|44.271|27.291|RO|Călărași County|58
 Calasca-Castiglione|46.021|8.215|IT|Piedmont|58
 Calhoun|37.539|-87.258|US|Kentucky|58
+Caldana|45.871|8.692|IT|Lombardy|58
+Calicanto 2da. Sección|17.683|-92.709|MX|Tabasco|58
+Calella de Palafrugell|41.892|3.187|ES|Catalonia|57
+Calvanese|40.735|14.516|IT|Campania|57
+Călimănești|45.962|27.218|RO|Vrancea|57
+Călienii Noi|45.590|27.491|RO|Vrancea|57
+Calderón|20.808|-100.799|MX|Guanajuato|57
+Çalışlı|37.714|27.570|TR|Aydın|57
+Callejones|19.668|-103.263|MX|Jalisco|57
 Calvagese della Riviera|45.539|10.446|IT|Lombardy|57
+Calea Mare|46.910|22.068|RO|Bihor County|57
+Callejones y Granados|20.477|-101.231|MX|Guanajuato|57
 Calto|44.991|11.359|IT|Veneto|57
+Calumet|47.247|-88.454|US|Michigan|57
+Cala Reona|37.617|-0.717|ES|Murcia|57
+Calverstown|53.083|-6.798|IE|Leinster|57
+Caluri|45.380|10.879|IT|Veneto|57
+Călacea|45.953|21.148|RO|Timiș County|57
+Călugăreasa|45.042|23.642|RO|Gorj County|57
+Călugăreni|47.764|26.289|RO|Suceava|57
+Calotești|44.984|24.762|RO|Arges|57
 Calzada de Valdunciel|41.087|-5.702|ES|Castille and León|57
+Calhoun|32.513|-92.358|US|Louisiana|57
+Calpella|39.233|-123.204|US|California|57
+Callejón Santa Clara|21.276|-98.130|MX|Veracruz|57
+Ca' Lino|45.161|12.299|IT|Veneto|57
 Calvarrasa de Arriba|40.907|-5.592|ES|Castille and León|57
+Calonne|50.578|3.435|BE|Wallonia|57
+Calvenzano|45.269|9.380|IT|Lombardy|56
+Călușeri|46.606|24.737|RO|Mureș County|56
+Calapăru|44.683|23.333|RO|Gorj County|56
+Caleta de Sebo|29.231|-13.503|ES|Canary Islands|56
+Calignano|45.213|9.282|IT|Lombardy|56
+Călinești|47.777|26.137|RO|Suceava|56
 Callanmarca|-12.867|-74.623|PE|Huancavelica|56
 Calango|-12.526|-76.544|PE|Lima region|56
+Callianetto|44.965|8.194|IT|Piedmont|56
+Călinești|47.758|26.469|RO|Botoșani County|56
 Calihualá|17.532|-98.278|MX|Oaxaca|56
+Călmățui|45.684|27.636|RO|Galați County|56
+Căldărușanca|44.880|26.695|RO|Buzău County|56
+Callejones|-5.032|-80.281|PE|Piura|56
+Caldelas|39.732|-8.703|PT|Leiria|56
 Calciano|40.588|16.192|IT|Basilicate|56
+Çalışlı|37.161|40.771|TR|Mardin|56
+Calaco|20.886|-98.186|MX|Veracruz|56
+Calimera|38.555|16.015|IT|Calabria|56
+Callenelle|50.530|3.523|BE|Wallonia|56
+Callac Creek|17.127|-89.137|BZ|Cayo District|56
+Çalca|38.673|29.976|TR|Afyonkarahisar Province|56
 Calcata Nuova|42.220|12.426|IT|Lazio|56
+Çallı|40.238|43.139|TR|Kars Province|56
+Calcarelli|37.793|14.038|IT|Sicily|56
 Calopezzati|39.561|16.802|IT|Calabria|56
+Câlnicu de Sus|44.955|23.040|RO|Gorj County|55
+Călțuna|44.964|26.951|RO|Buzău County|55
+Callington|-35.120|139.041|AU|South Australia|55
+Callancas|-7.766|-78.482|PE|La Libertad|55
+Calaquioco|19.031|-97.035|MX|Veracruz|55
+Călugăreni|46.631|24.880|RO|Mureș County|55
 Câlnic|44.950|23.083|RO|Gorj County|55
+Caleras de Obrajuelo|20.568|-100.557|MX|Guanajuato|55
 California|7.348|-72.946|CO|Santander Department|55
+Calentadores|22.175|-98.092|MX|Veracruz|55
+Calumet|35.601|-98.119|US|Oklahoma|55
 Caldes|46.367|10.940|IT|Trentino-Alto Adige|55
+Caledonia|40.636|-82.969|US|Ohio|55
+Calleville|49.192|0.757|FR|Normandy|55
+Cala de Portinatx|39.108|1.517|ES|Balearic Islands|55
 Calicasas|37.271|-3.613|ES|Andalusia|55
+Calumet|45.651|-74.635|CA|Quebec|55
 Calvi dell'Umbria|42.404|12.568|IT|Umbria|55
+Calypso|35.154|-78.105|US|North Carolina|55
+Calonges|44.374|0.241|FR|New Aquitaine|55
+Çallı|37.679|27.677|TR|Aydın|55
+Călinești|45.369|24.293|RO|Vâlcea County|55
+Cal y Mayor|16.962|-94.016|MX|Oaxaca|55
+Çaldere|37.302|41.265|TR|Mardin|55
+Caldera|-11.086|-77.459|PE|Lima region|55
+Caleipo-Sossai|46.124|12.254|IT|Veneto|54
 Callayuc|-6.181|-78.910|PE|Cajamarca Department|54
+Calatraba|17.781|-91.787|MX|Chiapas|54
+Calcatoggio|42.028|8.768|FR|Corsica|54
+Callaway|41.292|-99.923|US|Nebraska|54
+Calalunga-Pietragrande|38.739|16.549|IT|Calabria|54
+California Pines|41.410|-120.679|US|California|54
+Calais, Mount|-69.181|-70.194|AQ||54|f
+Calamba Island|14.219|121.205|PH|Calabarzon|54|f
+Caldas Novas Airport|-17.725|-48.608|BR|Goiás|54|f
+Caldwell Parish Airport|32.126|-92.054|US|Louisiana|54|f
+Caleta Hornos Airport|-31.885|-71.479|CL|Coquimbo Region|54|f
+Calf Creek Plateau|38.126|-107.207|US|Colorado|54|f
+Calf Island|-20.424|148.850|AU|Queensland|54|f
+Calf Island|42.342|-70.896|US|Massachusetts|54|f
+Cali / Alfonso Bonillaaragon|3.543|-76.382|CO|Valle del Cauca Department|54|f
+Calibangbongan Island|11.409|119.647|PH|Mimaropa|54|f
+California African American Museum|34.016|-118.284|US|California|54|f
+California Citrus State Historic Park|33.897|-117.422|US|California|54|f
+California Western School of Law|32.722|-117.163|US|California|54|f
+Calima Lake|3.893|-76.498|CO|Valle del Cauca Department|54|f
+Caliraya Lake|14.296|121.498|PH|Calabarzon|54|f
+Calliope Mountain|61.143|-149.308|US|Alaska|54|f
+Caloundra Airport|-26.800|153.100|AU|Queensland|54|f
+Calvert Island|49.291|-94.082|CA|Ontario|54|f
+Calnic|45.933|25.783|RO|Covasna County|54
+Čalinec|46.291|16.181|HR|Varaždin|54
 Calvisi|39.127|16.306|IT|Calabria|54
 Caleruega|41.825|-3.486|ES|Castille and León|54
 Calzadilla|40.060|-6.533|ES|Extremadura|54
 Caldas|5.555|-73.866|CO|Boyacá|54
 Calzadilla de Tera|41.979|-6.082|ES|Castille and León|53
+Callbach|49.700|7.700|DE|Rheinland-Pfalz|52
 Calles|39.721|-0.971|ES|Valencia|52
 Calapuja|-15.310|-70.222|PE|Puno|51
 Calzada de los Molinos|42.327|-4.653|ES|Castille and León|51
@@ -413,6 +590,28 @@ Caldera|8.654|-82.380|PA|Chiriquí Province|51
 Calvera|40.149|16.144|IT|Basilicate|50
 Caleruela|39.875|-5.257|ES|Castille-La Mancha|49
 Calzada del Coto|42.386|-5.078|ES|Castille and León|49
+Calanda|46.881|9.456|CH||49|f
+Calauit Island|12.301|119.899|PH|Mimaropa|49|f
+Caldera de Bandama|28.032|-15.455|ES|Canary Islands|49|f
+Caldwall Castle|52.384|-2.250|GB|England|49|f
+Caldwell Peak|-77.483|167.900|AQ||49|f
+Caledonian Canal|56.833|-4.250|GB|Scotland|49|f
+Calf Island|42.103|-83.179|US|Michigan|49|f
+Calf of Eday|59.233|-2.733|GB|Scotland|49|f
+Calf of Flotta|58.854|-3.074|GB|Scotland|49|f
+Calf Point|-71.500|169.750|AQ||49|f
+Calf Top|54.265|-2.517|GB|England|49|f
+California Surf Museum|33.196|-117.382|US|California|49|f
+Calkin Glacier|-77.767|162.283|AQ||49|f
+Call Mountains|36.617|-121.078|US|California|49|f
+Callaway Stadium|33.027|-85.044|US|Georgia|49|f
+Callion|-30.116|120.583|AU|Western Australia|49|f
+Calpatanna Waterhole Conservation Park|-32.994|134.342|AU|South Australia|49|f
+Calshot Castle|50.820|-1.307|GB|England|49|f
+Caltech Peak|36.689|-118.391|US|California|49|f
+Calumet Island|44.250|-76.096|US|New York|49|f
+Calvay|57.133|-7.317|GB|Scotland|49|f
+Calve Island|56.616|-6.036|GB|Scotland|49|f
 Çaltılıbük|39.956|28.599|TR|Bursa Province|49
 Calidonia|7.958|-81.386|PA|Veraguas Province|47
 Calosso|44.740|8.227|IT|Piedmont|47
@@ -424,6 +623,60 @@ Calovébora|8.787|-81.211|PA|Veraguas Province|41
 Calvignasco|45.326|9.028|IT|Lombardy|41
 Caltojar|41.402|-2.764|ES|Castille and León|41
 Calabacito|8.245|-81.080|PA|Veraguas Province|40
+Calabogie Lake|45.277|-76.743|CA|Ontario|40|f
+Caladesi Island State Park|28.020|-82.821|US|Florida|40|f
+Calahorra Tower|37.876|-4.777|ES|Andalusia|40|f
+Calamus Creek Bridge|41.885|-93.382|US|Iowa|40|f
+Calanque de Port-Miou|43.208|5.517|FR|Provence-Alpes-Côte d'Azur|40|f
+Calaveras Big Trees State Park|38.272|-120.288|US|California|40|f
+Calaveras Lake|29.285|-98.320|US|Texas|40|f
+Calaveras Reservoir|37.492|-121.821|US|California|40|f
+Calder Abbey|54.444|-3.465|GB|England|40|f
+Calder Hill|42.427|-75.163|US|New York|40|f
+Calder Race Course|25.970|-80.241|US|Florida|40|f
+Calderwood Dam|35.493|-83.979|US|Tennessee|40|f
+Calderwood Hills|48.463|-106.398|US|Montana|40|f
+Caldron Peak|51.718|-116.547|CA|Alberta|40|f
+Caldwell Glacier|62.393|-152.664|US|Alaska|40|f
+Caldwell Municipal Airport|37.035|-97.585|US|Kansas|40|f
+Caledon Lake|43.881|-80.106|CA|Ontario|40|f
+Caledonia Mountain|52.950|-118.652|CA|British Columbia|40|f
+Calella Josep M. Codina i Bagué Municipal Archive Museum|41.613|2.657|ES|Catalonia|40|f
+Calero Reservoir|37.186|-121.778|US|California|40|f
+Cales|41.200|14.132|IT|Campania|40|f
+Calf Sound|54.061|-4.798|IM||40|f
+Calfee Park|37.039|-80.776|US|Virginia|40|f
+Calfornia Memorial Stadium|37.871|-122.251|US|California|40|f
+Calgary zoo|51.046|-114.031|CA|Alberta|40|f
+Calhoun County Airport|33.934|-89.345|US|Mississippi|40|f
+Calhoun County Airport|30.488|-85.112|US|Florida|40|f
+Calhoun Hill|42.222|-74.807|US|New York|40|f
+Calico Bay|34.731|-76.712|US|North Carolina|40|f
+Calico Peaks|35.984|-116.484|US|California|40|f
+California Living Museum|35.433|-118.883|US|California|40|f
+California Science Center|34.016|-118.286|US|California|40|f
+California State Mining and Mineral Museum|37.464|-119.947|US|California|40|f
+California State Polytechnic University, Pomona|34.056|-117.822|US|California|40|f
+Caligata Lake Park|51.742|-119.840|CA|British Columbia|40|f
+Caliper Lake Provincial Park|49.058|-93.917|CA|Ontario|40|f
+Call Lake Park|54.766|-127.103|CA|British Columbia|40|f
+Callaghan Lake Park|50.200|-123.186|CA|British Columbia|40|f
+Callander Bay|46.217|-79.383|CA|Ontario|40|f
+Callender Lake|32.365|-95.695|US|Texas|40|f
+Callender Peak|-75.300|-110.300|AQ||40|f
+Calling Lake|55.242|-113.311|CA|Alberta|40|f
+Calling Lake Provincial Park|55.167|-113.269|CA|Alberta|40|f
+Calliope Range|50.821|-126.871|CA|British Columbia|40|f
+Calloway Canal|35.514|-119.241|US|California|40|f
+Caloosahatchee Bridge|26.659|-81.875|US|Florida|40|f
+Caloosahatchee National Wildlife Refuge|26.699|-81.796|US|Florida|40|f
+Caludon Castle|52.418|-1.452|GB|England|40|f
+Calumet Park|41.718|-87.529|US|Illinois|40|f
+Calvada Meadows Airport|36.268|-115.994|US|Nevada|40|f
+Calver Island|40.206|-76.807|US|Pennsylvania|40|f
+Calvert Cliffs State Park|38.403|-76.422|US|Maryland|40|f
+Calvert Island|51.565|-128.018|CA|British Columbia|40|f
+Calvin Coolidge Homestead District|43.536|-72.722|US|Vermont|40|f
 Calice al Cornoviglio|44.243|9.837|IT|Liguria|38
 Calmarza|41.158|-1.912|ES|Aragon|38
 Calomarde|40.373|-1.574|ES|Aragon|37
@@ -434,6 +687,7 @@ Calvignano|44.983|9.169|IT|Lombardy|26
 Çal|38.084|29.399|TR|Denizli|0
 Cala|37.967|-6.317|ES|Andalusia|0
 Calacoa|-16.750|-70.700|PE|Moquegua Department|0
+Calan|-7.048|112.465|ID|East Java|0
 Calanasan|18.255|121.034|PH|Cordillera|0
 Calang|4.631|95.575|ID|Aceh|0
 Calanogas|7.750|124.100|PH|Autonomous Region in Muslim Mindanao|0
@@ -447,6 +701,9 @@ Caleta Cruz|-3.638|-80.592|PE|Tumbes|0
 Calidonia|8.967|-79.536|PA|Panamá|0
 Calima|-12.881|15.832|AO|Huambo|0
 Calimita|3.917|-76.500|CO|Valle del Cauca Department|0
+Calincing|-6.326|106.005|ID|Banten|0
+Calingcing|-7.395|106.793|ID|West Java|0
+Calingcing Satu|-7.214|108.155|ID|West Java|0
 Calixto|20.920|-76.870|CU|Las Tunas Province|0
 Çalı|40.169|28.921|TR|Bursa Province|0
 Callahuanca|-11.828|-76.616|PE|Lima region|0

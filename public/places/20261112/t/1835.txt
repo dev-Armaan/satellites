@@ -958,29 +958,40 @@ Lupión|37.997|-3.547|ES|Andalusia|60
 Ítrabo|36.800|-3.639|ES|Andalusia|60
 Puerto Lápice|39.324|-3.481|ES|Castille-La Mancha|60
 Cortes de Pallás|39.250|-0.933|ES|Valencia|60
+Granátula de Calatrava|38.797|-3.743|ES|Castille-La Mancha|60
 Castellnovo|39.867|-0.450|ES|Valencia|60
+L'Ènova|39.050|-0.483|ES|Valencia|60
 Fontanars dels Alforins|38.784|-0.787|ES|Valencia|60
 Santa Elena|38.342|-3.540|ES|Andalusia|60
+Quart de les Valls|39.733|-0.267|ES|Valencia|60
 Abengibre|39.217|-1.533|ES|Castille-La Mancha|60
 Relleu|38.587|-0.312|ES|Valencia|60
+Los Urrutias|37.683|-0.831|ES|Murcia|60
 Ulea|38.140|-1.330|ES|Murcia|60
 Jalance|39.200|-1.067|ES|Valencia|60
+Gamonal|39.961|-4.962|ES|Castille-La Mancha|60
+Almuradiel|38.513|-3.498|ES|Castille-La Mancha|60
 Aigües|38.500|-0.350|ES|Valencia|60
 Algimia de Alfara|39.750|-0.367|ES|Valencia|60
+Urbanización Calabardina|37.435|-1.505|ES|Murcia|60
 Puebla del Príncipe|38.568|-2.926|ES|Castille-La Mancha|60
 Sevilleja de la Jara|39.575|-4.964|ES|Castille-La Mancha|60
 Uleila del Campo|37.185|-2.205|ES|Andalusia|60
 Alborache|39.383|-0.767|ES|Valencia|60
 Cofrentes|39.229|-1.061|ES|Valencia|60
+Borge|36.815|-4.235|ES|Andalusia|60
 Fondón|36.980|-2.860|ES|Andalusia|60
+La Mata|39.941|-4.438|ES|Castille-La Mancha|60
 Ayna|38.550|-2.083|ES|Castille-La Mancha|59
 Villagarcía del Llano|39.317|-1.833|ES|Castille-La Mancha|59
 Hoya-Gonzalo|38.958|-1.557|ES|Castille-La Mancha|59
 Escañuela|37.879|-4.034|ES|Andalusia|59
 Parcent|38.745|-0.064|ES|Valencia|59
 Nigüelas|36.978|-3.539|ES|Andalusia|59
+Torres de Albanchez|38.416|-2.678|ES|Andalusia|59
 Turleque|39.601|-3.614|ES|Castille-La Mancha|59
 Carboneras de Guadazaón|39.883|-1.800|ES|Castille-La Mancha|59
+La Llosa|39.767|-0.200|ES|Valencia|59
 Palomares del Campo|39.947|-2.598|ES|Castille-La Mancha|59
 Albondón|36.828|-3.211|ES|Andalusia|59
 Potríes|38.916|-0.196|ES|Valencia|59
@@ -998,16 +1009,20 @@ Carmena|39.956|-4.401|ES|Castille-La Mancha|59
 Eslida|39.883|-0.300|ES|Valencia|59
 Albatana|38.571|-1.522|ES|Castille-La Mancha|59
 Carratraca|36.853|-4.820|ES|Andalusia|59
+Almonacid de Toledo|39.754|-3.852|ES|Castille-La Mancha|59
+Romeral|39.707|-3.434|ES|Castille-La Mancha|59
 Trevélez|37.000|-3.265|ES|Andalusia|58
 Casas de Haro|39.334|-2.273|ES|Castille-La Mancha|58
 Villarta|39.450|-1.650|ES|Castille-La Mancha|58
 Aliaguilla|39.741|-1.326|ES|Castille-La Mancha|58
 Zuheros|37.543|-4.315|ES|Andalusia|58
 Iznate|36.783|-4.183|ES|Andalusia|58
+Llocnou d'En Fenollet|39.014|-0.467|ES|Valencia|58
 Cazalilla|37.984|-3.883|ES|Andalusia|58
 Villanueva de Bogas|39.723|-3.657|ES|Castille-La Mancha|58
 Alamedilla|37.582|-3.242|ES|Andalusia|58
 Lora de Estepa|37.269|-4.828|ES|Andalusia|58
+Mar de Cristal|37.641|-0.763|ES|Murcia|58
 Alquife|37.180|-3.116|ES|Andalusia|58
 Diezma|37.320|-3.333|ES|Andalusia|58
 Fuente-Tójar|37.511|-4.146|ES|Andalusia|58
@@ -1025,45 +1040,63 @@ Canillas de Albaida|36.847|-3.987|ES|Andalusia|58
 Alborea|39.283|-1.383|ES|Castille-La Mancha|58
 Caudete de las Fuentes|39.560|-1.279|ES|Valencia|58
 Alcublas|39.800|-0.700|ES|Valencia|58
+Helechosa|39.312|-4.909|ES|Extremadura|58
 San Martín de Pusa|39.784|-4.633|ES|Castille-La Mancha|58
 Alcadozo|38.649|-1.980|ES|Castille-La Mancha|58
+Urbanización Collados Zieschang|37.427|-1.546|ES|Murcia|58
 Valenzuela de Calatrava|38.853|-3.772|ES|Castille-La Mancha|58
 Bédar|37.194|-1.982|ES|Andalusia|58
+Benicull de Xúquer|39.183|-0.383|ES|Valencia|58
+Santa María de los Llanos|39.483|-2.867|ES|Castille-La Mancha|58
 Víznar|37.231|-3.554|ES|Andalusia|58
 Chulilla|39.650|-0.883|ES|Valencia|58
 Espelúy|38.032|-3.863|ES|Andalusia|58
 Santa María del Campo Rus|39.559|-2.423|ES|Castille-La Mancha|58
 Tales|39.948|-0.307|ES|Valencia|58
 Villapalacios|38.575|-2.634|ES|Castille-La Mancha|58
+Albolodúy|37.033|-2.622|ES|Andalusia|58
+Venta Nueva|37.186|-4.037|ES|Andalusia|58
+El Herrumblar|39.400|-1.617|ES|Castille-La Mancha|58
 Villanueva de las Torres|37.557|-3.089|ES|Andalusia|58
+Las Herencias|39.869|-4.922|ES|Castille-La Mancha|57
 Albanchez|37.284|-2.182|ES|Andalusia|57
+Novelé|38.980|-0.548|ES|Valencia|57
 Sorvilán|36.795|-3.268|ES|Andalusia|57
 Escúzar|37.062|-3.761|ES|Andalusia|57
 Quesa|39.120|-0.740|ES|Valencia|57
 San Martín de Montalbán|39.702|-4.388|ES|Castille-La Mancha|57
 Válor|36.996|-3.083|ES|Andalusia|57
 Aldeire|37.160|-3.072|ES|Andalusia|57
+El Picazo|39.450|-2.083|ES|Castille-La Mancha|57
 Geldo|39.833|-0.467|ES|Valencia|57
 Alcoba|39.260|-4.477|ES|Castille-La Mancha|57
+El Peral|39.500|-1.900|ES|Castille-La Mancha|57
 Fuenterrobles|39.583|-1.350|ES|Valencia|57
 Villarejo de Fuentes|39.788|-2.697|ES|Castille-La Mancha|57
 Cardenete|39.767|-1.683|ES|Castille-La Mancha|57
 Villamuelas|39.818|-3.735|ES|Castille-La Mancha|57
 Cogollos de Guadix|37.225|-3.161|ES|Andalusia|57
 Villamiel de Toledo|39.965|-4.126|ES|Castille-La Mancha|57
+La Torre de les Maçanes|38.606|-0.419|ES|Valencia|57
 Murtas|36.885|-3.109|ES|Andalusia|57
 Bèlgida|38.850|-0.467|ES|Valencia|57
 Villargordo del Cabriel|39.533|-1.433|ES|Valencia|57
 Gestalgar|39.600|-0.833|ES|Valencia|57
 Hinojosas de Calatrava|38.614|-4.140|ES|Castille-La Mancha|57
+Tárbena|38.694|-0.101|ES|Valencia|57
 Agres|38.783|-0.517|ES|Valencia|57
 Higuera de Calatrava|37.798|-4.157|ES|Andalusia|57
+El Estrecho|37.629|-0.830|ES|Murcia|57
 Carboneros|38.230|-3.631|ES|Andalusia|57
+Cala Reona|37.617|-0.717|ES|Murcia|57
+Caudiel|39.950|-0.567|ES|Valencia|57
 Almedina|38.625|-2.954|ES|Castille-La Mancha|57
 Montalbo|39.880|-2.670|ES|Castille-La Mancha|57
+Valladolises|37.777|-1.123|ES|Murcia|57
 Saceruela|38.944|-4.608|ES|Castille-La Mancha|57
 Alcubillas|38.753|-3.134|ES|Castille-La Mancha|57
 Alhabia|36.990|-2.587|ES|Andalusia|57
+Las Labores|39.275|-3.519|ES|Castille-La Mancha|57
 Osa de la Vega|39.660|-2.760|ES|Castille-La Mancha|57
 Adsubia|38.848|-0.153|ES|Valencia|57
 Montichelvo|38.891|-0.341|ES|Valencia|57
@@ -1071,15 +1104,19 @@ Pozuelo|38.810|-2.101|ES|Castille-La Mancha|57
 Albarreal de Tajo|39.897|-4.229|ES|Castille-La Mancha|57
 Alcóntar|37.336|-2.597|ES|Andalusia|57
 Carcelén|39.102|-1.309|ES|Castille-La Mancha|57
+Teresa de Cofrentes|39.106|-1.051|ES|Valencia|56
 Picón|39.051|-4.061|ES|Castille-La Mancha|56
 Ventas de Huelma|37.068|-3.820|ES|Andalusia|56
 Nívar|37.259|-3.578|ES|Andalusia|56
 Saelices|39.921|-2.805|ES|Castille-La Mancha|56
+Ballesteros|39.275|-3.965|ES|Castille-La Mancha|56
 Benavites|39.733|-0.250|ES|Valencia|56
 Bicorp|39.132|-0.787|ES|Valencia|56
+Llanos del Caudillo|39.118|-3.352|ES|Castille-La Mancha|56
 Sella|38.609|-0.273|ES|Valencia|56
 Sanet y Negrals|38.820|-0.034|ES|Valencia|56
 Navajas|39.883|-0.500|ES|Valencia|56
+La Nava de Ricomalillo|39.650|-4.991|ES|Castille-La Mancha|56
 Cútar|36.831|-4.227|ES|Andalusia|56
 Povedilla|38.700|-2.602|ES|Castille-La Mancha|56
 Santa Cruz de los Cáñamos|38.638|-2.866|ES|Castille-La Mancha|56
@@ -1087,42 +1124,58 @@ Buenache de Alarcón|39.650|-2.167|ES|Castille-La Mancha|56
 Villares del Saz|39.841|-2.504|ES|Castille-La Mancha|56
 Vara de Rey|39.426|-2.294|ES|Castille-La Mancha|56
 Salobre|38.593|-2.550|ES|Castille-La Mancha|56
+Hornos|37.887|-3.189|ES|Andalusia|56
 Villamayor de Calatrava|38.788|-4.138|ES|Castille-La Mancha|56
+Pozo Lorente|39.076|-1.507|ES|Castille-La Mancha|56
 Beneixida|39.067|-0.550|ES|Valencia|56
 Villaharta|38.133|-4.900|ES|Andalusia|56
 Palmera|38.939|-0.154|ES|Valencia|56
 Lucainena de las Torres|37.040|-2.201|ES|Andalusia|56
+Guazamara|37.350|-1.783|ES|Andalusia|56
+Cabezarrubias del Puerto|38.615|-4.185|ES|Castille-La Mancha|56
 Espinoso del Rey|39.653|-4.784|ES|Castille-La Mancha|56
 Ruidera|38.978|-2.883|ES|Castille-La Mancha|56
 Ojós|38.147|-1.343|ES|Murcia|56
+Villaescusa de Haro|39.599|-2.674|ES|Castille-La Mancha|55
 Génave|38.431|-2.733|ES|Andalusia|55
+Benatae|38.189|-3.135|ES|Andalusia|55
 Villaminaya|39.712|-3.871|ES|Castille-La Mancha|55
 Rielves|39.962|-4.193|ES|Castille-La Mancha|55
 Alatoz|39.095|-1.361|ES|Castille-La Mancha|55
 Capileira|36.961|-3.359|ES|Andalusia|55
 Partaloa|37.408|-2.225|ES|Andalusia|55
 Benimuslem|39.132|-0.493|ES|Valencia|55
+Dólar|37.180|-2.991|ES|Andalusia|55
+La Almarcha|39.686|-2.380|ES|Castille-La Mancha|55
 Domeño|39.661|-0.671|ES|Valencia|55
 Llocnou de Sant Jeroni|38.917|-0.283|ES|Valencia|55
+Félix|36.869|-2.658|ES|Andalusia|55
 Millares|39.250|-0.767|ES|Valencia|55
 Alicún de Ortega|37.609|-3.136|ES|Andalusia|55
+Ráfol de Almunia|38.821|-0.052|ES|Valencia|55
+Arroba|39.154|-4.544|ES|Castille-La Mancha|55
 Dehesas de Guadix|37.589|-3.103|ES|Andalusia|55
 Calicasas|37.271|-3.613|ES|Andalusia|55
 Somontín|37.392|-2.388|ES|Andalusia|55
+Benichembla|38.755|-0.109|ES|Valencia|55
 Huécija|36.968|-2.609|ES|Andalusia|55
 Motilleja|39.183|-1.783|ES|Castille-La Mancha|55
+Darrícal|36.920|-3.029|ES|Andalusia|55
 Titaguas|39.867|-1.083|ES|Valencia|55
 Garbayuela|39.050|-4.999|ES|Extremadura|55
+Gorafe|37.480|-3.042|ES|Andalusia|55
 Aldeaquemada|38.412|-3.371|ES|Andalusia|54
 Casas de los Pinos|39.334|-2.370|ES|Castille-La Mancha|54
 Chera|39.600|-0.967|ES|Valencia|54
 Almonacid del Marquesado|39.823|-2.768|ES|Castille-La Mancha|54
 Manzaneque|39.635|-3.792|ES|Castille-La Mancha|54
 Instinción|36.993|-2.660|ES|Andalusia|54
+Palomar|38.854|-0.502|ES|Valencia|54
 Higueruelas|39.783|-0.850|ES|Valencia|54
 Murla|38.760|-0.082|ES|Valencia|54
 Benicolet|38.920|-0.347|ES|Valencia|54
 Navas de Jorquera|39.283|-1.717|ES|Castille-La Mancha|54
+El Ballestero|38.842|-2.456|ES|Castille-La Mancha|54
 Almodóvar del Pinar|39.717|-1.883|ES|Castille-La Mancha|54
 Villarejo-Periesteban|39.872|-2.441|ES|Castille-La Mancha|54
 Rubite|36.809|-3.348|ES|Andalusia|54
@@ -1271,6 +1324,7 @@ Benasau|38.690|-0.343|ES|Valencia|48
 Beniatjar|38.848|-0.417|ES|Valencia|48
 Beniflá|38.928|-0.178|ES|Valencia|48
 Cástaras|36.932|-3.254|ES|Andalusia|48
+Solana de Torralba|37.988|-3.172|ES|Andalusia|47
 Polícar|37.258|-3.234|ES|Andalusia|47
 Chueca|39.732|-3.944|ES|Castille-La Mancha|47
 Suflí|37.339|-2.388|ES|Andalusia|47
@@ -1284,6 +1338,7 @@ Carataunas|36.922|-3.408|ES|Andalusia|46
 Gaibiel|39.933|-0.483|ES|Valencia|46
 Belmontejo|39.822|-2.345|ES|Castille-La Mancha|46
 Bufali|38.868|-0.516|ES|Valencia|46
+Barrio de San José Obrero|38.028|-1.049|ES|Murcia|46
 Gabaldón|39.617|-1.933|ES|Castille-La Mancha|46
 Villatoya|39.333|-1.300|ES|Castille-La Mancha|46
 Rugat|38.879|-0.361|ES|Valencia|46

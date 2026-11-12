@@ -9,6 +9,7 @@ Douéra|36.670|2.944|DZ|Algiers|93
 Douentza|15.006|-2.952|ML|Mopti|91
 Douz|33.466|9.020|TN|Kebili Governorate|91
 Douglasville|33.752|-84.748|US|Georgia|90
+Douala International Airport|4.006|9.719|CM|Littoral|90|f
 Douglas|51.874|-8.435|IE|Munster|89
 Dougabougou|13.820|-6.121|ML|Ségou|88
 Douglas|54.150|-4.483|IM|Douglas|88
@@ -30,7 +31,9 @@ Douchy-les-Mines|50.301|3.393|FR|Hauts-de-France|80
 Dourdan|48.528|2.011|FR|Île-de-France|80
 Douglas-Gilpin|49.244|-122.982|CA|British Columbia|80
 Douradina|-23.381|-53.292|BR|Paraná|79
+Dourados Airport|-22.202|-54.927|BR|Mato Grosso do Sul|79|f
 Doumbiadougou|6.603|-7.319|CI|Montagnes|79
+Dougga|36.423|9.220|TN|Béja Governorate|78|f
 Dougodou|5.301|-5.351|CI|Goh-Djiboua|78
 Dourado|-22.100|-48.318|BR|São Paulo|78
 Doué-la-Fontaine|47.193|-0.276|FR|Pays de la Loire|78
@@ -41,6 +44,7 @@ Douglas|42.760|-105.382|US|Wyoming|76
 Doutor Camargo|-23.556|-52.218|BR|Paraná|76
 Doullens|50.157|2.340|FR|Hauts-de-France|76
 Douglas|45.978|-66.731|CA|New Brunswick|75
+Douglas Range|-70.000|-69.583|AQ||75|f
 Doun Yay|10.780|104.444|KH|Kampot|75
 Dourges|50.436|2.986|FR|Hauts-de-France|75
 Doutor Ulysses|-24.568|-49.420|BR|Paraná|75
@@ -51,6 +55,7 @@ Douradina|-22.040|-54.613|BR|Mato Grosso do Sul|75
 Douékpé|7.136|-7.328|CI|Montagnes|75
 Douvrin|50.509|2.831|FR|Hauts-de-France|74
 Douvres-la-Délivrande|49.295|-0.380|FR|Normandy|74
+Doubtful Bay|-54.870|-36.014|GS||73|f
 Dougbafra|6.345|-5.401|CI|Goh-Djiboua|73
 Doukouyo|5.842|-5.971|CI|Goh-Djiboua|73
 Doutor Maurício Cardoso|-27.506|-54.361|BR|Rio Grande do Sul|73
@@ -60,6 +65,8 @@ Douasso|10.089|-6.664|CI|Savanes District|72
 Douar Sidi Bouafif|35.172|-3.867|MA|Tanger-Tetouan-Al Hoceima|71
 Doutor Pedrinho|-26.714|-49.483|BR|Santa Catarina|71
 Douaville|6.118|-5.300|CI|Goh-Djiboua|71
+Doune Castle|56.183|-4.050|GB|Scotland|70|f
+Douthitt Strip|32.789|-115.530|US|California|70|f
 Douandrou|6.534|-7.915|CI|Montagnes|70
 Double Oak|33.065|-97.111|US|Texas|70
 Doussard|45.775|6.226|FR|Auvergne-Rhône-Alpes|70
@@ -82,12 +89,15 @@ Douélé|7.212|-7.580|CI|Montagnes|66
 Doudleby nad Orlicí|50.107|16.261|CZ|Hradec Králové Region|66
 Dousséba|6.114|-5.677|CI|Goh-Djiboua|66
 Doutor Ricardo|-29.086|-51.992|BR|Rio Grande do Sul|66
+Double H Mountains|41.596|-118.055|US|Nevada|65|f
+Double Island|22.513|114.311|HK||65|f
 Douradoquara|-18.431|-47.609|BR|Minas Gerais|65
 Douniani|-11.421|43.289|KM|Grande Comore|65
 Doune|56.190|-4.053|GB|Scotland|65
 Douglass|37.519|-97.013|US|Kansas|65
 Douglas|55.550|-3.850|GB|Scotland|64
 Douzy|49.671|5.042|FR|Grand Est|64
+Double Spring Knob|34.878|-83.657|US|Georgia|63|f
 Doubo|6.029|-5.340|CI|Goh-Djiboua|63
 Doumorossi|7.590|-3.500|CI|Zanzan District|63
 Douglas Park|-34.185|150.714|AU|New South Wales|63
@@ -97,6 +107,13 @@ Dourgne|43.485|2.138|FR|Occitanie|62
 Douglas|42.643|-86.201|US|Michigan|62
 Doulourovogo|9.654|-5.483|CI|Savanes District|61
 Doubrava|49.859|18.480|CZ|Moravian-Silesian Region|61
+Double Mountain|35.033|-118.487|US|California|61|f
+Doublet Peak|43.163|-109.630|US|Wyoming|61|f
+Doubletop Mountain|45.936|-69.061|US|Maine|61|f
+Doubletop Mountain|42.028|-74.528|US|New York|61|f
+Doubletop Peak|43.349|-110.287|US|Wyoming|61|f
+Doubtful Sound|-45.283|166.850|NZ||61|f
+Douglas Knob|44.313|-110.847|US|Wyoming|61|f
 Douéleu|6.960|-8.306|CI|Montagnes|61
 Dourougbé|8.439|-6.968|CI|Woroba|61
 Dousoulékana|8.907|-5.137|CI|Vallée du Bandama District|61
@@ -105,8 +122,112 @@ Doulaincourt-Saucourt|48.317|5.200|FR|Grand Est|60
 Douchy|47.943|3.054|FR|Centre-Val de Loire|60
 Doue|48.866|3.163|FR|Île-de-France|60
 Douagéré|7.688|-7.321|CI|Montagnes|60
+Dougouéleu|7.306|-8.158|CI|Montagnes|59
+Dousland|50.500|-4.063|GB|England|58
+Doubravník|49.424|16.353|CZ|South Moravian|58
+Dounoux|48.105|6.445|FR|Grand Est|58
+Douelle|44.470|1.360|FR|Occitanie|58
+Doubasso|10.694|-6.251|CI|Savanes District|58
+Double Butte|33.724|-117.123|US|California|58|f
+Double Peak|33.109|-117.178|US|California|58|f
+Douentza Airport|15.004|-2.919|ML|Mopti|58|f
+Doughboy Island|-38.767|146.267|AU|Victoria|58|f
+Dougherty Hills|37.748|-121.925|US|California|58|f
+Douglas Lake Airport|50.163|-120.140|CA|British Columbia|58|f
+Douglas Mountain|43.872|-70.697|US|Maine|58|f
+Douglas Municipal Airport|31.478|-82.860|US|Georgia|58|f
+Doupovské Hory|50.250|13.167|CZ|Carlsbad Region|58|f
+Douro Range|76.335|-92.734|CA|Nunavut|58|f
+Dourdain|48.194|-1.371|FR|Brittany|58
+Douglas|34.174|-86.324|US|Alabama|58
+Douzillac|45.085|0.417|FR|New Aquitaine|57
+Doualéba|7.816|-7.558|CI|Montagnes|57
+Douéleu|6.679|-8.391|CI|Montagnes|57
+Douvres|45.989|5.373|FR|Auvergne-Rhône-Alpes|57
+Douglas City|40.652|-122.945|US|California|57
+Dournazac|45.625|0.916|FR|New Aquitaine|57
+Douadori|8.183|-4.100|CI|Vallée du Bandama District|57
+Dounaíika|37.742|21.331|GR|West Greece|56
+Doualeu|7.340|-8.369|CI|Montagnes|56
+Douzens|43.186|2.598|FR|Occitanie|56
+Douéleu|6.879|-8.204|CI|Montagnes|56
+Douakankro|7.606|-4.949|CI|Vallée du Bandama District|56
+Double Head Cabbage|17.544|-88.558|BZ|Belize District|56
+Doukádes|39.690|19.741|GR|Ionian Islands|56
+Douhozon|6.532|-8.334|CI|Montagnes|56
+Douglas|18.235|-88.601|BZ|Orange Walk District|55
+Doussay|46.843|0.275|FR|New Aquitaine|55
+Dougbé|8.891|-7.786|CI|Woroba|55
+Douna|8.095|-6.545|CI|Woroba|55
+Douglas-Daly|-13.800|131.352|AU|Northern Territory|54
+Doudoukro|5.338|-3.328|CI|Comoé District|54
+Double Crater|35.343|-111.448|US|Arizona|54|f
+Double Eagle II Airport|35.145|-106.795|US|New Mexico|54|f
+Double Island|48.607|-122.972|US|Washington|54|f
+Double Islands|-66.750|141.183|AQ||54|f
+Double Knob|34.809|-84.439|US|Georgia|54|f
+Douglas Island|58.271|-134.506|US|Alaska|54|f
+Douglas Islet|-11.237|142.992|AU|Queensland|54|f
+Douglas Lake|36.014|-83.391|US|Tennessee|54|f
+Douglas Municipal Airport|31.344|-109.506|US|Arizona|54|f
+Douglas Strait|-59.450|-27.233|GS||54|f
+Doumer Island|-64.850|-63.551|AQ||54|f
+Double Curtain Glacier|-77.650|163.517|AQ||49|f
+Double Island|-26.415|113.618|AU|Western Australia|49|f
+Double Island|-16.726|145.684|AU|Queensland|49|f
+Doublefinger Peak|-76.883|162.250|AQ||49|f
+Doubtful Islands|-34.376|119.579|AU|Western Australia|49|f
+Dough Castle|52.933|-9.350|IE|Munster|49|f
+Doughboy Island|-40.340|148.050|AU|Tasmania|49|f
+Douglas Glacier|-73.548|-62.035|AQ||49|f
+Douglas Head|54.143|-4.465|IM|Douglas|49|f
+Douglas Islands|-67.383|63.397|AQ||49|f
+Douglas Peak|-66.400|52.467|AQ||49|f
+Douglas Peaks|-80.000|-81.417|AQ||49|f
+Douglas Point Conservation Park|-38.024|140.576|AU|South Australia|49|f
+Douglas-Apsley National Park|-41.770|148.190|AU|Tasmania|49|f
+Douglas, Mount|-76.517|161.300|AQ||49|f
+Doumani, Mount|-85.817|-137.633|AQ||49|f
 Doues|45.819|7.306|IT|Aosta Valley|41
+Douai Mountain|51.983|-117.186|CA|Alberta|40|f
+Double JJ Resort Ranch Airport|43.517|-86.370|US|Michigan|40|f
+Double Lake|44.047|-95.373|US|Minnesota|40|f
+Double Mountains|33.062|-100.454|US|Texas|40|f
+Double Peak|46.828|-121.580|US|Washington|40|f
+Double Peak|60.730|-152.583|US|Alaska|40|f
+Double Springs-Winston County Airport|34.143|-87.330|US|Alabama|40|f
+Double Trouble State Park|39.896|-74.229|US|New Jersey|40|f
+Doubletop Mountain|35.375|-83.098|US|North Carolina|40|f
+Doubtful Lake|48.474|-121.048|US|Washington|40|f
+Doubtless Bay|-34.917|173.417|NZ|Northland|40|f
+Doughboy Plaza|40.746|-73.909|US|New York|40|f
+Douglas Bay|58.816|-98.762|CA|Manitoba|40|f
+Douglas Dam|35.961|-83.539|US|Tennessee|40|f
+Douglas Glacier|-43.683|169.983|NZ||40|f
+Douglas Glacier|48.531|-120.934|US|Washington|40|f
+Douglas Island|49.216|-122.769|CA|British Columbia|40|f
+Douglas Lake|46.629|-93.091|US|Minnesota|40|f
+Douglas Mountain|48.762|-119.711|US|Washington|40|f
+Douglas Park|41.861|-87.699|US|Illinois|40|f
+Douglass, Mount|-77.333|-145.333|AQ||40|f
+Doumani Peak|-77.117|-126.050|AQ||40|f
+Doune Hill|56.136|-4.753|GB|Scotland|40|f
+Douthat State Park|37.897|-79.808|US|Virginia|40|f
 Doucun|34.748|109.180|CN|Shaanxi|0
+Doudo|-6.956|112.499|ID|East Java|0
+Dougang|31.040|113.851|CN|Hubei|0
 Douglas|-29.055|23.774|ZA|Northern Cape|0
+Dougou|34.283|119.117|CN|Jiangsu|0
+Dougou|31.358|118.014|CN|Anhui|0
 Douhudi|30.061|112.224|CN|Hubei|0
+Doujia|34.797|108.300|CN|Shaanxi|0
 Doumba|13.104|-7.611|ML|Koulikoro|0
+Doumen|34.217|108.753|CN|Shaanxi|0
+Doumen|30.098|120.593|CN|Zhejiang|0
+Doumen|22.234|113.191|CN|Guangdong|0
+Doumen|28.201|120.832|CN|Zhejiang|0
+Doumuhu|28.949|111.629|CN|Hunan|0
+Doushaguan|28.048|104.127|CN|Yunnan|0
+Doushan|22.063|112.832|CN|Guangdong|0
+Doushan|31.202|114.003|CN|Hubei|0
+Douyu|28.407|92.985|CN|Tibet|0

@@ -20,12 +20,15 @@ Haizhou|34.582|119.129|CN|Jiangsu|95
 Haiyang|29.786|118.177|CN|Anhui|94
 Haitou|19.506|108.951|CN|Hainan|91
 Hailākāndi|24.684|92.561|IN|Assam|91
+Haifa International Airport|32.809|35.043|IL|Haifa|88|f
 Haitang|30.172|107.230|CN|Chongqing|88
 Hailsham|50.862|0.258|GB|England|87
 Haines City|28.114|-81.620|US|Florida|87
 Haidong Zhen|25.710|100.261|CN|Yunnan|87
 Haiger|50.742|8.208|DE|Hesse|86
 Haibara-akanedai|34.533|135.950|JP|Nara|85
+Haida Gwaii|53.004|-132.034|CA|British Columbia|82|f
+Hainan Island|19.200|109.700|CN|Hainan|82|f
 Haigerloch|48.366|8.804|DE|Baden-Wurttemberg|81
 Hainichen|50.970|13.123|DE|Saxony|80
 Haïré Lao|16.397|-14.322|SN|Saint-Louis|80
@@ -37,23 +40,31 @@ Hailey|43.520|-114.315|US|Idaho|78
 Haine-Saint-Pierre|50.457|4.207|BE|Wallonia|78
 Haid|48.205|14.251|AT|Upper Austria|77
 Haine-Saint-Paul|50.455|4.189|BE|Wallonia|77
+Haines Airport|59.244|-135.524|US|Alaska|77|f
 Hainburg an der Donau|48.146|16.945|AT|Lower Austria|76
 Haiyang|39.059|123.170|CN|Liaoning|75
 Haiterbach|48.521|8.644|DE|Baden-Wurttemberg|75
+Hai-An Mountain Range|23.259|121.369|TW|Taiwan|75|f
+Haiite Island|-15.433|167.250|VU|Sanma|75|f
 Haiyang|28.736|109.124|CN|Chongqing|75
 Haillicourt|50.475|2.575|FR|Hauts-de-France|74
 Hailianting|22.534|114.001|CN|Guangdong|74
 Haimhausen|48.315|11.555|DE|Bavaria|73
 Haisnes|50.508|2.794|FR|Hauts-de-France|73
+Ha'il Regional Airport|27.438|41.686|SA|Ha'il Region|72|f
+Haines Junction Airport|60.789|-137.546|CA|Yukon|72|f
 Haidershofen|48.076|14.461|AT|Lower Austria|71
 Hainesville|42.345|-88.068|US|Illinois|71
+Haitanna|76.784|16.613|SJ|Svalbard|71|f
 Haïdra|35.566|8.444|TN|Kasserine Governorate|71
 Haina|51.028|8.974|DE|Hesse|71
 Haileybury|47.449|-79.637|CA|Ontario|70
+Hainan Strait|20.167|110.250|CN||69|f
 Haiming|48.217|12.900|DE|Bavaria|68
 Haiming|47.250|10.883|AT|Tyrol|68
 Haikuotiankong|22.529|113.940|CN|Guangdong|66
 Hainfeld|48.034|15.774|AT|Lower Austria|66
+Haiyang Shan|25.300|110.800|CN|Guangxi|65|f
 Hainewalde|50.910|14.704|DE|Saxony|65
 Hain-Gründau|50.243|9.143|DE|Hesse|65
 Haines|59.236|-135.445|US|Alaska|65
@@ -61,23 +72,102 @@ Haiden|47.718|13.569|AT|Upper Austria|64
 Haillot|50.442|5.154|BE|Wallonia|64
 Haidmühle|48.826|13.776|DE|Bavaria|63
 Hainsfarth|48.958|10.625|DE|Bavaria|63
+Haidian Island|20.064|110.331|CN|Hainan|63|f
+Haigazian University|33.896|35.493|LB|Beirut|63|f
+Haino-damu|36.630|138.346|JP|Nagano|63|f
 Haigerseelbach|50.765|8.179|DE|Hesse|61
+Haig Avenue|53.638|-2.979|GB|England|61|f
 Haina|50.990|10.518|DE|Thuringia|61
 Haihua Park (Southwest gate)|22.564|113.887|CN|Guangdong|60
 Hailuoto|65.009|24.714|FI|North Ostrobothnia|59
+Hainin|50.430|3.767|BE|Wallonia|59
+Haieu|46.995|21.998|RO|Bihor County|59
+Haidel|48.818|13.678|DE|Bavaria|58|f
+Hairy Knob|30.903|-99.056|US|Texas|58|f
+Haixi Mangnai Airport|38.205|90.844|CN|Qinghai|58|f
+Haileyville|34.855|-95.582|US|Oklahoma|58
+Hainspitz|50.961|11.838|DE|Thuringia|57
 Hainzenberg|47.218|11.900|AT|Tyrol|57
+Hainfeld|49.258|8.101|DE|Rheinland-Pfalz|57
+Hailesboro|44.310|-75.446|US|New York|56
+Haines Junction|60.752|-137.511|CA|Yukon|56
+Hail Weston|52.245|-0.294|GB|England|56
+Haivka|46.911|29.927|UA|Odesa|56
+Hail Creek|-21.568|148.416|AU|Queensland|56
+Haironville|48.687|5.085|FR|Grand Est|55
+Haidemühl|51.552|14.222|DE|Brandenburg|55
+Haid|47.409|12.820|AT|Salzburg|54
+Háifoss|64.208|-19.687|IS|South|54|f
+Hainanzhou Gonghe Airport|36.336|100.480|CN|Qinghai|54|f
 Hainersdorf|47.115|15.944|AT|Styria|50
+Haigh Point|-64.921|-63.095|AQ||49|f
+Hailes Abbey|51.969|-1.928|GB|England|49|f
+Hailstorm Island|-66.220|110.608|AQ||49|f
+Haines Glacier|-73.247|-62.938|AQ||49|f
+Hainich|51.102|10.382|DE|Thuringia|49|f
+Hainleite|51.338|10.858|DE|Thuringia|49|f
+Hainpracht|50.928|8.514|DE|Hesse|49|f
+Hainichen|51.000|11.617|DE|Thuringia|46
+Hainau|50.223|7.782|DE|Rheinland-Pfalz|46
 Hainsdorf im Schwarzautal|46.836|15.641|AT|Styria|43
+Haida Islands|52.053|-128.329|CA|British Columbia|40|f
+Haiduk Peak|51.103|-115.951|CA|Alberta|40|f
+Haig Park|-35.270|149.133|AU|Australian Capital Territory|40|f
+Haig-Thomas Island|78.235|-94.502|CA|Nunavut|40|f
+Haihte Range|50.033|-126.703|CA|British Columbia|40|f
+Hailes Castle|51.969|-1.927|GB|England|40|f
+Hailstone National Wildlife Refuge|46.020|-109.174|US|Montana|40|f
+Hains Point|38.857|-77.022|US|District of Columbia|40|f
 Haibach im Mühlkreis|48.444|14.344|AT|Upper Austria|38
+Hain|50.707|12.083|DE|Thuringia|35
 Hải Lăng|16.693|107.251|VN|Quang Tri|0
 Hai Riêng|12.979|108.897|VN|Dak Lak|0
 Hai’an|32.544|120.450|CN|Jiangsu|0
+Hai’an|20.280|110.229|CN|Guangdong|0
+Haibach|49.024|12.716|DE|Bavaria|0
+Haibei|47.660|126.840|CN|Heilongjiang|0
+Haibeitou|39.804|113.185|CN|Shanxi|0
+Haibin|21.399|110.783|CN|Guangdong|0
 Haicheng|22.971|115.335|CN|Guangdong|0
 Haicheng|21.478|109.113|CN|Guangxi|0
+Haidao|26.504|120.048|CN|Fujian|0
 Haidian|39.991|116.289|CN|Beijing|0
+Haifeng|32.165|121.383|CN|Jiangsu|0
+Haifeng|46.828|126.828|CN|Heilongjiang|0
+Haifeng|32.903|120.449|CN|Jiangsu|0
+Haifu|31.987|121.688|CN|Jiangsu|0
 Haigang|39.947|119.563|CN|Hebei|0
 Haigh|53.600|-2.583|GB|England|0
+Haihui|29.543|116.053|CN|Jiangxi|0
+Haikou|29.107|117.807|CN|Jiangxi|0
+Haikou|28.326|120.083|CN|Zhejiang|0
+Haikou|25.694|119.459|CN|Fujian|0
+Haikoudajie|24.527|102.947|CN|Yunnan|0
+Hailang|44.326|129.234|CN|Heilongjiang|0
+Hailean|-10.621|123.362|ID|East Nusa Tenggara|0
 Haimen|31.896|121.173|CN|Jiangsu|0
 Haimen|28.681|121.424|CN|Zhejiang|0
+Hainan|47.232|126.981|CN|Heilongjiang|0
+Hainan|44.564|129.491|CN|Heilongjiang|0
+Hairag|37.223|100.416|CN|Qinghai|0
+Haishan|28.225|121.165|CN|Zhejiang|0
+Haishan|23.529|116.953|CN|Guangdong|0
+Haishan|22.557|114.212|CN|Guangdong|0
 Haishiwan|36.346|102.858|CN|Gansu|0
+Haitangwan|18.403|109.750|CN|Hainan|0
+Haitou|34.934|119.170|CN|Jiangsu|0
+Haitou|21.201|110.386|CN|Guangdong|0
+Haixi|28.399|120.088|CN|Zhejiang|0
 Haixing|38.140|117.492|CN|Hebei|0
+Haixing|47.760|126.914|CN|Heilongjiang|0
+Haixing|40.276|122.130|CN|Liaoning|0
+Haixing|47.189|126.670|CN|Heilongjiang|0
+Haixiu|20.011|110.276|CN|Hainan|0
+Haiyan|21.829|112.543|CN|Guangdong|0
+Haiyangsuo|36.806|121.616|CN|Shandong|0
+Haiyanmiao|30.227|121.399|CN|Zhejiang|0
+Haiyou|29.124|121.373|CN|Zhejiang|0
+Haiyu|31.752|120.801|CN|Jiangsu|0
+Haizhou|40.849|122.742|CN|Liaoning|0
+Haizhouwobao|42.938|123.371|CN|Liaoning|0
+Haizigou|36.707|101.638|CN|Qinghai|0

@@ -4,6 +4,7 @@ Gold Coast|-28.000|153.431|AU|Queensland|116
 Golestān|35.518|51.182|IR|Tehran|108
 Gölbaşı|39.790|32.809|TR|Ankara|104
 Gol’yanovo|55.823|37.813|RU|Moscow|104
+Golden Gate Bridge|37.820|-122.479|US|California|102|f
 Gola Gokarannāth|28.078|80.471|IN|Uttar Pradesh|95
 Golpāyegān|33.454|50.288|IR|Isfahan|95
 Gölcük|40.715|29.818|TR|Kocaeli|95
@@ -27,6 +28,7 @@ Golitsyno|55.609|36.982|RU|Moscow Oblast|84
 Gołdap|54.306|22.304|PL|Warmia-Masuria|83
 Golsār|35.910|50.775|IR|Tehran|83
 Golyshmanovo|56.399|68.376|RU|Tyumen Oblast|83
+Gold Coast Airport|-28.164|153.505|AU|Queensland|82|f
 Golub-Dobrzyń|53.111|19.054|PL|Kujawsko-Pomorskie|82
 Gölmarmara|38.714|27.914|TR|Manisa|82
 Gölhisar|37.146|29.509|TR|Burdur|82
@@ -49,11 +51,15 @@ Golden Hills|35.142|-118.490|US|California|79
 Golbey|48.198|6.440|FR|Grand Est|79
 Golmakān|36.481|59.159|IR|Razavi Khorasan|78
 Golden Valley|35.223|-114.223|US|Arizona|78
+Golmud Airport|36.401|94.786|CN|Qinghai|78|f
 Golakganj|26.102|89.823|IN|Assam|78
 Gold River|38.626|-121.247|US|California|78
+Golden Gate Park|37.769|-122.486|US|California|78|f
 Gölpazarı|40.285|30.317|TR|Bilecik|77
+Golden Triangle Regional Airport|33.450|-88.591|US|Mississippi|77|f
 Golem|40.968|19.685|AL|Fier County|77
 Golfito|8.603|-83.113|CR|Puntarenas Province|77
+Gol Airport|60.791|9.051|NO|Buskerud|76|f
 Goléré|16.256|-14.102|SN|Saint-Louis|76
 Golzār|35.452|51.711|IR|Tehran|75
 Golkhera|22.438|75.660|IN|Madhya Pradesh|75
@@ -64,6 +70,7 @@ Gölova|40.062|38.607|TR|Sivas|74
 Golubinci|44.985|20.063|RS|Vojvodina|73
 Golina|52.243|18.093|PL|Greater Poland|73
 Goliahio|6.322|-6.375|CI|Sassandra-Marahoue|73
+Goldfield Mountains|33.520|-111.513|US|Arizona|72|f
 Golden Triangle|39.928|-75.039|US|New Jersey|72
 Golubitskaya|45.326|37.270|RU|Krasnodar Krai|72
 Goleszów|49.736|18.737|PL|Silesia|72
@@ -76,6 +83,10 @@ Golynki|54.870|31.386|RU|Smolensk Oblast|72
 Göllheim|49.595|8.051|DE|Rheinland-Pfalz|72
 Goldberg|53.589|12.088|DE|Mecklenburg-Vorpommern|72
 Goldkronach|50.011|11.688|DE|Bavaria|71
+Golf of Anadyr|64.000|-178.000|RU|Chukotka|71|f
+Golfe de Hammamet|36.041|10.533|TN||71|f
+Golfo de Papagayo|10.727|-85.808|CR|Guanacaste Province|71|f
+Golofnin Bay|64.416|-162.959|US|Alaska|71|f
 Golf Manor|39.187|-84.446|US|Ohio|71
 Gołkowice|49.914|18.514|PL|Silesia|71
 Goleşti|45.667|27.165|RO|Vrancea|71
@@ -83,6 +94,9 @@ Gologanu|45.610|27.271|RO|Vrancea|71
 Gol Soleymānābād|36.950|46.253|IR|West Azerbaijan|71
 Goldendale|45.821|-120.822|US|Washington|71
 Gołańcz|52.943|17.300|PL|Greater Poland|71
+Golden Airport|51.299|-116.982|CA|British Columbia|70|f
+Golem Grad|40.869|20.990|MK|Resen|70|f
+Golf von Kusada|37.841|27.134|TR||70|f
 Golubovci|42.335|19.231|ME|Zeta|70
 Gölköy|40.699|31.510|TR|Bolu|70
 Golden Grove|17.934|-76.273|JM|Saint Thomas Parish|70
@@ -92,11 +106,16 @@ Golovino|55.961|40.425|RU|Vladimir Oblast|70
 Golčův Jeníkov|49.816|15.477|CZ|Vysocina|69
 Golßen|51.972|13.601|DE|Brandenburg|69
 Golczewo|53.824|14.978|PL|West Pomerania|69
+Golf of Piran|45.506|13.563|||69|f
+Golfe de la Gonâve|19.000|-73.500|HT|Artibonite|69|f
+Goli otok|44.844|14.824|HR|Primorje-Gorski Kotar|69|f
+Golog Maqin Airport|34.416|100.311|CN|Qinghai|69|f
 Gol|60.701|8.946|NO|Buskerud|68
 Golden Grove|34.734|-82.444|US|South Carolina|68
 Golasecca|45.698|8.661|IT|Lombardy|68
 Golipla|7.820|-5.835|CI|Woroba|68
 Gold Beach|42.407|-124.422|US|Oregon|67
+Golfe de Tadjoura|11.667|43.000|DJ||67|f
 Gol Tappeh|35.219|48.206|IR|Hamadan Province|67
 Golcowa|49.772|22.025|PL|Subcarpathia|67
 Gold Bar|47.857|-121.697|US|Washington|66
@@ -115,6 +134,11 @@ Golikro|7.145|-6.194|CI|Sassandra-Marahoue|66
 Golina|51.915|17.483|PL|Greater Poland|66
 Goli-Kpangbassou|7.961|-5.507|CI|Vallée du Bandama District|65
 Goldthwaite|31.450|-98.571|US|Texas|65
+Gold Coast Railroad Museum|25.618|-80.400|US|Florida|65|f
+Gold Harbour|-54.625|-35.931|GS||65|f
+Golden Hinde|49.662|-125.747|CA|British Columbia|65|f
+Golfo de Panamá|8.000|-79.500|PA||65|f
+Golyam Perelik|41.606|24.574|BG|Smolyan|65|f
 Goldbach|51.046|11.433|DE|Thuringia|65
 Goli-Maya|8.095|-5.457|CI|Vallée du Bandama District|65
 Gold Key Lake|41.306|-74.939|US|Pennsylvania|65
@@ -124,6 +148,13 @@ Golubac|44.653|21.632|RS|Central Serbia|64
 Goldens Bridge|41.293|-73.677|US|New York|64
 Golden Valley|39.615|-119.827|US|Nevada|64
 Golé|7.250|-7.633|CI|Montagnes|64
+Gold Mountain Range|37.195|-117.315|US|Nevada|63|f
+Golden Gate Range|37.928|-115.397|US|Nevada|63|f
+Golfe du Morbihan|-49.434|70.189|TF||63|f
+Golfo de Batabanó|22.232|-82.487|CU||63|f
+Golfo de Tehuantepec|16.106|-94.832|MX|Oaxaca|63|f
+Golfo Dulce|8.613|-83.306|CR|Puntarenas Province|63|f
+Golovin Airport|64.543|-163.039|US|Alaska|63|f
 Golmés|41.634|0.931|ES|Catalonia|63
 Golubinka|44.594|33.915|UA|Crimea|63
 Golspie|57.973|-3.978|GB|Scotland|63
@@ -135,6 +166,14 @@ Goldbeck|52.717|11.861|DE|Saxony-Anhalt|62
 Gold Hill|42.432|-123.051|US|Oregon|62
 Gold River|49.781|-126.050|CA|British Columbia|62
 Golden|51.059|-93.736|CA|Ontario|61
+Gola Island|55.083|-8.367|IE|Ulster|61|f
+Golak|41.901|22.731|MK||61|f
+Gölbaşı Barajı|40.219|29.319|TR|Bursa Province|61|f
+Goldthwaite Municipal Airport|31.431|-98.609|US|Texas|61|f
+Golemi Stol|43.027|22.497|RS|Central Serbia|61|f
+Golfo de San Miguel|8.303|-78.328|PA|Darién|61|f
+Golfo San Jorge|-46.000|-67.000|AR||61|f
+Golmenjaevrie|64.971|13.672|NO|Trøndelag|61|f
 Golești|44.840|24.965|RO|Arges|61
 Göllüce|40.374|29.590|TR|Bursa Province|61
 Golnik|46.333|14.333|SI|Urban Municipality of Kranj|61
@@ -143,25 +182,191 @@ Golmbach|51.900|9.550|DE|Lower Saxony|60
 Gol Chīnī|36.540|53.058|IR|Māzandarān|60
 Goldingen|47.265|8.962|CH|Saint Gallen|60
 Goli-Nzikro|7.340|-4.360|CI|Lacs District|60
+Golān|33.418|46.264|IR|Ilam Province|60
+Golden Beach|25.965|-80.122|US|Florida|60
+Gołków|52.042|20.971|PL|Mazovia|60
+Golzow|52.911|13.809|DE|Brandenburg|60
+Golzow|52.574|14.493|DE|Brandenburg|59
+Goldsboro|40.153|-76.750|US|Pennsylvania|59
+Goleu|7.262|-8.287|CI|Montagnes|59
+Golfin|44.291|24.021|RO|Dolj|59
+Göllü|37.251|40.715|TR|Mardin|59
+Goldsborough|-17.155|145.737|AU|Queensland|59
+Golemo Konjari|41.343|21.440|MK|Prilep|59
+Golshan|37.453|49.651|IR|Gilan Province|59
+Gollhofen|49.569|10.192|DE|Bavaria|59
+Golonchán Viejo|17.032|-92.385|MX|Chiapas|59
+Göllingen|51.344|11.014|DE|Thuringia|58
+Golden Rock|17.491|-62.981|BQ|Sint Eustatius|58
+Golubivka|49.681|29.161|UA|Zhytomyr Oblast|58
+Golikro|6.917|-4.484|CI|Lacs District|58
+Gold Beach Municipal Airport|42.419|-124.424|US|Oregon|58|f
+Gold Brook Covered Bridge|44.440|-72.680|US|Vermont|58|f
+Gold Hill|36.643|-105.456|US|New Mexico|58|f
+Gold Mountain|47.549|-122.786|US|Washington|58|f
+Gold Star Memorial Bridge|41.364|-72.088|US|Connecticut|58|f
+Golden Fleece Mine|37.983|-107.294|US|Colorado|58|f
+Golden Hill|41.916|-74.019|US|New York|58|f
+Golden Hill Fort|50.689|-1.522|GB|England|58|f
+Golden Horn Metro Bridge|41.023|28.967|TR|Istanbul|58|f
+Golden Throne|38.218|-111.184|US|Utah|58|f
+Goldkopf|49.533|8.695|DE|Baden-Wurttemberg|58|f
+Goleta Point|34.404|-119.844|US|California|58|f
+Golandim|-5.328|-35.509|BR|Rio Grande do Norte|58
+Golina Wielka|51.700|16.784|PL|Greater Poland|58
+Gölsen|48.042|15.744|AT|Lower Austria|58
 Goldwörth|48.327|14.101|AT|Upper Austria|58
+Goleniowy|50.634|19.877|PL|Silesia|58
 Gola|46.196|17.058|HR|Koprivnica-Križevci|58
+Gölbaşı|36.939|35.221|TR|Adana|58
+Golfech|44.114|0.851|FR|Occitanie|58
+Golden City|37.393|-94.094|US|Missouri|57
+Gołotczyzna|52.789|20.691|PL|Mazovia|57
+Golmsdorf|50.967|11.667|DE|Thuringia|57
 Gołymin-Ośrodek|52.808|20.873|PL|Mazovia|57
+Golenți|44.013|23.057|RO|Dolj|57
+Gölhisar|37.797|27.925|TR|Aydın|57
+Goldenstädt|53.468|11.499|DE|Mecklenburg-Vorpommern|57
+Gollion|46.585|6.510|CH|Vaud|57
+Goleț|45.283|22.257|RO|Caraș-Severin County|56
+Goldhanger|51.748|0.752|GB|England|56
+Golubić|44.096|16.218|HR|Šibenik-Knin|56
+Golling|48.200|15.183|AT|Lower Austria|56
 Gölova|36.799|30.039|TR|Antalya|56
+Gölenkamp|52.510|6.916|DE|Lower Saxony|56
+Gol Angūn|29.098|51.209|IR|Bushehr|56
+Golden|40.109|-91.018|US|Illinois|56
 Golconda|37.367|-88.486|US|Illinois|56
+Goluboy Zaliv|44.411|33.986|UA|Crimea|56
+Goldfield|42.736|-93.921|US|Iowa|56
+Goldgeben|48.383|16.117|AT|Lower Austria|56
+Golpilheira|39.692|-8.820|PT|Leiria|56
+Golīān|37.236|57.899|IR|North Khorasan|56
+Golumbu|44.634|23.754|RO|Dolj|55
+Goleasca|44.357|25.590|RO|Giurgiu County|55
+Gölovası|36.877|35.893|TR|Adana|55
+Goli|7.060|-4.446|CI|Lacs District|55
+Göllü|38.447|42.613|TR|Bitlis|55
+Goli|8.067|-2.839|CI|Zanzan District|55
+Golinda|31.378|-97.083|US|Texas|55
+Gölcük|40.276|29.378|TR|Bursa Province|55
+Gölköy|41.455|33.735|TR|Kastamonu|55
+Golconda Fort|17.383|78.402|IN|Telangana|54|f
+Goldberggruppe|47.000|13.083|AT||54|f
+Golden Temple|31.620|74.876|IN|Punjab|54|f
+Goldfield Hills|37.609|-117.248|US|Nevada|54|f
+Golding Island|-51.352|-59.750|FK||54|f
+Golema Vraca|41.897|20.752|MK||54|f
+Goleta Railroad Museum|34.443|-119.853|US|California|54|f
+Golf de Roses|42.190|3.158|||54|f
+Golfe de Saint-Malo|48.750|-2.000|FR||54|f
+Golfito Airport|8.654|-83.182|CR|Puntarenas Province|54|f
+Golfo de Guacanayabo|20.466|-77.472|CU|Granma Province|54|f
+Golfo de Tibugá|5.750|-77.333|CO|Chocó|54|f
+Golfo di Augusta|37.200|15.217|IT|Sicily|54|f
+Golfo Nuevo|-42.700|-64.600|AR|Chubut|54|f
+Golfo San Esteban|-46.934|-74.275|CL|Aysén|54|f
+Golija|43.290|20.384|RS||54|f
+Golija|43.333|20.282|RS||54|f
+Gölköy Barajı|40.695|31.535|TR|Bolu|54|f
+Göllü Dağ|38.250|34.567|TR|Niğde Province|54|f
+Gölova Barajı|40.045|38.623|TR|Sivas|54|f
+Golubić|44.660|17.416|BA|Srpska|54|f
+Golovanovka|44.975|34.631|UA|Crimea|54
+Golikro-Molonou|7.445|-4.985|CI|Lacs District|54
+Golf|42.059|-87.793|US|Illinois|54
+Goldisthal|50.521|11.005|DE|Thuringia|53
+Goldelund|54.683|9.100|DE|Schleswig-Holstein|52
+Göllnitz|50.948|12.321|DE|Thuringia|52
+Goldebek|54.683|9.150|DE|Schleswig-Holstein|51
+Gold Creek Bridge|62.768|-149.693|US|Alaska|49|f
+Gold King Creek Airport|64.200|-147.933|US|Alaska|49|f
+Goldberger See|53.597|12.124|DE|Mecklenburg-Vorpommern|49|f
+Goldbergturm|48.701|9.016|DE|Baden-Wurttemberg|49|f
+Golden|-40.655|172.822|NZ|Tasman District|49|f
+Golden Fleece Tunnel|39.186|-120.617|US|California|49|f
+Golden Gate Highlands National Park|-28.521|28.603|ZA|Free State|49|f
+Golden Grove Airport|-28.763|116.969|AU|Western Australia|49|f
+Golden Grove Mine|-28.744|116.962|AU|Western Australia|49|f
+Golden Horn|37.805|-107.825|US|Colorado|49|f
+Golden Horn|48.603|-120.732|US|Washington|49|f
+Golden Island|-34.701|135.332|AU|South Australia|49|f
+Golden Stair Mountain|43.575|-74.939|US|New York|49|f
+Goldich Crest|-77.483|161.667|AQ||49|f
+Goldman Glacier|-77.700|162.850|AQ||49|f
+Goldschmidt, Cape|-80.683|161.200|AQ||49|f
+Goldschmidtfjella|78.633|13.250|SJ|Svalbard|49|f
+Goldsmith Glacier|-78.937|-27.295|AQ||49|f
+Goldsworthy Ridge|-67.690|63.054|AQ||49|f
+Golfo de Ancud|-42.044|-73.087|CL|Los Lagos Region|49|f
+Golfo de Arauco|-37.037|-73.328|CL|Biobio|49|f
+Golfo de Cazones|21.916|-81.275|CU|Matanzas Province|49|f
+Golfo de Valencia|39.500|0.000|ES||49|f
+Golghar|25.620|85.139|IN|Bihar|49|f
+Golla|62.467|5.633|NO|Møre og Romsdal|49|f
+Golzerensee|46.776|8.740|CH|Uri|49|f
 Goldfield|37.709|-117.236|US|Nevada|49
+Goltoft|54.550|9.717|DE|Schleswig-Holstein|48
+Göldenitz|53.723|10.632|DE|Schleswig-Holstein|46
 Golpejas|41.000|-5.907|ES|Castille and León|45
+Gollenberg|49.667|7.167|DE|Rheinland-Pfalz|42
 Golosalvo|39.233|-1.633|ES|Castille-La Mancha|41
+Gold Coast Regional Botanic Gardens|-28.009|153.388|AU|Queensland|40|f
+Gold Hill|37.693|-88.214|US|Illinois|40|f
+Gold Hill|40.160|-113.806|US|Utah|40|f
+Gold Mountain|34.288|-116.839|US|California|40|f
+Gold Range|50.617|-118.169|CA|British Columbia|40|f
+Gold-Muchalat Park|49.916|-126.170|CA|British Columbia|40|f
+Golden|-40.568|172.870|NZ|Tasman District|40|f
+Golden|-40.698|172.860|NZ|Tasman District|40|f
+Golden Bay|46.817|-54.148|CA|Newfoundland and Labrador|40|f
+Golden Eagle Peak|51.844|-116.935|CA|Alberta|40|f
+Golden Ears|49.363|-122.507|CA|British Columbia|40|f
+Golden Ears Park|49.500|-122.419|CA|British Columbia|40|f
+Golden Gardens Park|47.690|-122.400|US|Washington|40|f
+Golden Gate Canyon State Park|39.856|-105.417|US|Colorado|40|f
+Golden Gate National Recreation Area|37.859|-122.551|US|California|40|f
+Golden Hill State Park|43.368|-78.469|US|New York|40|f
+Golden Lake|44.879|-63.641|CA|Nova Scotia|40|f
+Golden Lake|45.566|-77.324|CA|Ontario|40|f
+Golden Lake|45.139|-93.153|US|Minnesota|40|f
+Golden Memorial State Park|32.574|-89.406|US|Mississippi|40|f
+Golden Mountain|51.000|-115.669|CA|British Columbia|40|f
+Golden Parsonage|51.801|-0.474|GB|England|40|f
+Golden Spike National Historical Park|41.631|-112.494|US|Utah|40|f
+Golden State Model Railroad Museum|37.917|-122.384|US|California|40|f
+Golden Triangle of Art|40.409|-3.695|ES|Madrid|40|f
+Goldenberg Ridge|-66.467|110.583|AQ||40|f
+Goldenes Dachl|47.269|11.393|AT|Tyrol|40|f
+Goldensee|53.689|10.936|DE||40|f
+Goldfield Bridge|42.737|-93.924|US|Iowa|40|f
+Goldlochspitz|47.082|9.567|LI||40|f
+Goldpan Park|50.350|-121.386|CA|British Columbia|40|f
+Goldstream Park|48.466|-123.553|CA|British Columbia|40|f
+Goldstream Peak|-86.683|-148.500|AQ||40|f
+Goloring|50.340|7.439|DE|Rheinland-Pfalz|40|f
+Golyam Rezen|42.565|23.290|BG|Sofia-Capital|40|f
 Golferenzo|44.961|9.306|IT|Lombardy|37
+Golacir|-7.330|108.126|ID|West Java|0
 Golaj|42.248|20.380|AL|Kukës County|0
 Gölcük|38.231|34.777|TR|Niğde Province|0
 Gölcük|39.313|27.983|TR|Balıkesir|0
 Gölcük|37.481|39.047|TR|Şanlıurfa|0
+Goldbach|50.992|10.658|DE|Thuringia|0
 Goldcliff|51.542|-2.918|GB|Wales|0
 Goldegg|47.319|13.099|AT|Salzburg|0
 Göldüzü|38.813|43.019|TR|Bitlis|0
+Golek|-8.064|112.612|ID|East Java|0
 Golem|41.246|19.535|AL|Tirana|0
 Gölköy|40.687|37.615|TR|Ordu|0
 Göllü|39.450|34.300|TR|Kırşehir|0
 Golmud|36.407|94.901|CN|Qinghai|0
+Golokan|-6.978|112.539|ID|East Java|0
+Golokutu|-8.427|121.026|ID|East Nusa Tenggara|0
+Golomunta|-8.464|120.513|ID|East Nusa Tenggara|0
+Golondalas|-8.594|120.018|ID|East Nusa Tenggara|0
+Golong|-6.557|111.016|ID|Central Java|0
+Golopau|-8.410|120.550|ID|East Nusa Tenggara|0
 Gölören|37.849|33.860|TR|Konya|0
+Golug|30.830|91.621|CN|Tibet|0
 Gölyaka|40.777|30.996|TR|Düzce|0

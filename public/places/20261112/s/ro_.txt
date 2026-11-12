@@ -55,11 +55,11 @@ Rotorua|-38.139|176.245|NZ|Bay of Plenty|96
 Rovaniemi|66.499|25.689|FI|Lapland|96
 Rossosh’|51.121|38.512|RU|Voronezh Oblast|96
 Rogers|36.332|-94.119|US|Arkansas|96
+Rocha Department|-34.000|-54.000|UY||96|r
 Rossosh’|50.196|39.566|RU|Voronezh Oblast|96
 Rocklin|38.791|-121.236|US|California|96
 Rowlett|32.903|-96.564|US|Texas|96
 Rosenheim|47.856|12.122|DE|Bavaria|96
-Rocha Department|-34.000|-54.000|UY||96|r
 Royal Oak|42.489|-83.145|US|Michigan|95
 Roshanpura|28.601|76.989|IN|Delhi|95
 Roslavl’|53.954|32.864|RU|Smolensk Oblast|95
@@ -74,9 +74,11 @@ Roskilde|55.642|12.080|DK|Zealand|94
 Royal Leamington Spa|52.285|-1.520|GB|England|94
 Rovigo|45.070|11.790|IT|Veneto|94
 Rowland Heights|33.976|-117.905|US|California|94
+Royal Observatory|51.477|-0.000|GB|England|94|f
 Roswell|33.394|-104.525|US|New Mexico|94
 Roseville|42.497|-82.937|US|Michigan|94
 Rouge|43.804|-79.166|CA|Ontario|93
+Roman Forum|41.892|12.486|IT|Lazio|93|f
 Roquette|48.858|2.381|FR|Île-de-France|93
 Rovenky|48.083|39.377|UA|Luhansk|93
 Roermond|51.194|5.987|NL|Limburg|93
@@ -96,6 +98,4 @@ Romeoville|41.648|-88.090|US|Illinois|92
 Robit|9.995|39.897|ET|Amhara|92
 Roi Et|16.057|103.653|TH|Roi Et|92
 Rosário do Sul|-30.258|-54.914|BR|Rio Grande do Sul|92
-Rock Island|41.509|-90.579|US|Illinois|92
-Romny|50.740|33.495|UA|Sumy|92
 Ro|44.947|11.760|IT|Emilia-Romagna|63

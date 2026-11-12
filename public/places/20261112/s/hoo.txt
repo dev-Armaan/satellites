@@ -1,6 +1,7 @@
 Hoofddorp|52.303|4.689|NL|North Holland|102
 Hoover|33.405|-86.811|US|Alabama|99
 Hoorn|52.642|5.060|NL|North Holland|97
+Hoover Dam|36.016|-114.738|US|Arizona|96|f
 Hoogeveen|52.722|6.476|NL|Drenthe|92
 Hoogvliet|51.863|4.362|NL|South Holland|91
 Hoogezand|53.162|6.761|NL|Groningen|87
@@ -15,27 +16,76 @@ Hoogkarspel|52.695|5.181|NL|North Holland|79
 Hooper|41.164|-112.122|US|Utah|78
 Hood River|45.705|-121.521|US|Oregon|78
 Hook|51.284|-0.960|GB|England|77
+Hoonah Airport|58.097|-135.411|US|Alaska|77|f
+Hoogeveen Airport|52.730|6.515|NL|Drenthe|76|f
 Hoogerheide|51.424|4.325|NL|North Brabant|75
 Hoo|51.420|0.563|GB|England|75
+Hooper Bay Airport|61.524|-166.147|US|Alaska|74|f
 Hoopeston|40.467|-87.668|US|Illinois|74
 Hooksett|43.097|-71.465|US|New Hampshire|72
 Hoogwoud|52.716|4.939|NL|North Holland|71
 Hoosick Falls|42.901|-73.352|US|New York|71
+Hoopa Airport|41.043|-123.667|US|California|70|f
 Hoogstede|52.579|6.949|DE|Lower Saxony|69
 Hooks|33.466|-94.289|US|Texas|69
+Hoosier Hill|40.000|-84.851|US|Indiana|69|f
 Hooverson Heights|40.325|-80.578|US|West Virginia|68
 Hooker|36.860|-101.213|US|Oklahoma|66
 Hook Norton|51.996|-1.483|GB|England|66
+Hood Island|-1.377|-89.673|EC|Galápagos|65|f
 Hoogeloon|51.398|5.268|NL|North Brabant|65
 Hoogmade|52.169|4.582|NL|South Holland|63
+Hoodoo Mountains|47.033|-116.487|US|Idaho|63|f
 Ho‘olehua|21.168|-157.070|US|Hawaii|63
 Hooge Mierde|51.388|5.129|NL|North Brabant|62
 Hooge Zwaluwe|51.688|4.744|NL|North Brabant|62
 Hooper Bay|61.531|-166.097|US|Alaska|61
 Hool|19.514|-90.445|MX|Campeche|61
 Hoole|53.200|-2.877|GB|England|61
+Hooper Bald|35.306|-83.994|US|North Carolina|61|f
+Hoosimbim Mountain|40.563|-122.998|US|California|61|f
+Hoover Dam|40.108|-82.882|US|Ohio|61|f
 Hoogblokland|51.875|4.976|NL|South Holland|61
 Hoopers Creek|35.439|-82.467|US|North Carolina|60
+Hoogbraak|51.448|4.919|NL|North Brabant|60
 Hook|51.765|-4.932|GB|Wales|58
+Hoornsterzwaag|52.999|6.173|NL|Friesland|58
+Hooper|41.611|-96.548|US|Nebraska|58
+Hooghalen|52.921|6.539|NL|Drenthe|58
+Hoonah|58.110|-135.444|US|Alaska|58
+Hoort|53.482|11.360|DE|Mecklenburg-Vorpommern|56
+Hooversville|40.147|-78.912|US|Pennsylvania|56
+Hoofdplaat|51.369|3.663|NL|Zeeland|55
+Hooven|39.178|-84.759|US|Ohio|55
+Hood Aerodrome|-40.968|175.620|NZ|Wellington Region|54|f
+Hoodwink Island|-67.020|-66.869|AQ||54|f
+Hook Point|52.123|-6.932|IE|Leinster|54|f
+Hooke Point|-67.190|-66.713|AQ||54|f
+Hooker Creek Airport|-18.337|130.638|AU|Northern Territory|54|f
+Hood Canal Bridge|47.859|-122.623|US|Washington|49|f
+Hood Glacier|-83.917|173.167|AQ||49|f
+Hood River Bridge|45.717|-121.495|US|Oregon|49|f
+Hoodoo Hills|39.534|-122.329|US|California|49|f
+Hoodoo Peak|48.252|-120.343|US|Washington|49|f
+Hook Island|-20.113|148.929|AU|Queensland|49|f
+Hooker Glacier|-78.067|163.100|AQ||49|f
+Hooker, Mount|-78.100|162.700|AQ||49|f
+Hooper Glacier|-64.742|-63.628|AQ||49|f
+Hoopers Shoulder|-77.533|166.883|AQ||49|f
+Hoopers Valley Island|42.028|-76.391|US|New York|49|f
+Hoover Metropolitan Stadium|33.339|-86.849|US|Alabama|49|f
+Hood Museum of Art|43.702|-72.287|US|New Hampshire|40|f
+Hoodoo Butte|44.402|-121.884|US|Oregon|40|f
+Hoodoo Glacier|56.800|-131.387|CA|British Columbia|40|f
+Hoodoo Mountain|56.766|-131.304|CA|British Columbia|40|f
+Hook Lake|44.104|-114.608|US|Idaho|40|f
+Hooker Glacier|-43.650|170.117|NZ||40|f
+Hooker Glacier|42.857|-109.311|US|Wyoming|40|f
+Hooker Lake|-43.679|170.109|NZ|Canterbury|40|f
+Hooker Mountain|42.598|-74.860|US|New York|40|f
+Hooker Municipal Airport|36.859|-101.226|US|Oklahoma|40|f
+Hoopers Inlet|-45.861|170.672|NZ||40|f
+Hoosier Prairie State Nature Preserve|41.521|-87.454|US|Indiana|40|f
+Hooge|54.570|8.548|DE|Schleswig-Holstein|39
 Hook|53.721|-0.849|GB|England|0
 Hoolt|45.533|102.983|MN|Övörhangay|0

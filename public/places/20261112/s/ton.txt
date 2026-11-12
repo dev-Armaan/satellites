@@ -12,9 +12,9 @@ Tonga|-20.000|-175.000|TO||100|c
 Tongren|35.515|102.016|CN|Qinghai|100
 Tongren|27.717|109.185|CN|Guizhou|99
 Tongyeong|34.850|128.428|KR|Gyeongsangnam-do|97
+Tongatapu|-21.133|-175.200|TO||97|r
 Tongaat|-29.574|31.116|ZA|KwaZulu-Natal|96
 Tonypandy|51.622|-3.455|GB|Wales|96
-Tongatapu|-21.133|-175.200|TO||95|r
 Tongchuan|31.094|105.087|CN|Sichuan|95
 Tønsberg|59.268|10.408|NO|Vestfold|95
 Tonami|36.620|136.943|JP|Toyama|94
@@ -23,6 +23,7 @@ Tonekābon|36.816|50.874|IR|Māzandarān|91
 Tonbridge|51.195|0.274|GB|England|91
 Tonalá|16.092|-93.752|MX|Chiapas|91
 Tondano|1.305|124.913|ID|North Sulawesi|90
+Toncontín International Airport|14.061|-87.217|HN|Francisco Morazán Department|90|f
 Tongjing|29.857|106.845|CN|Chongqing|90
 Tönisvorst|51.321|6.494|DE|North Rhine-Westphalia|90
 Tongeren|50.781|5.465|BE|Flanders|89
@@ -50,6 +51,8 @@ Tonoshō|34.480|134.170|JP|Kagawa|82
 Tondon|10.367|-13.350|GN|Kindia|82
 Tongcheng|31.397|109.735|CN|Chongqing|81
 Tonggu|29.606|105.467|CN|Chongqing|81
+Tongshanjiabu|28.187|89.958|BT|Punakha|81|f
+Tongren Fenghuang Airport|27.884|109.308|CN|Hunan|80|f
 Tongqiao|29.522|105.767|CN|Chongqing|80
 Tonneins|44.395|0.310|FR|New Aquitaine|80
 Tonla|6.354|-5.644|CI|Goh-Djiboua|80
@@ -57,43 +60,59 @@ Tonyrefail|51.584|-3.430|GB|Wales|79
 Tongouolan|7.165|-3.306|CI|Comoé District|79
 Tongzi|29.559|107.951|CN|Chongqing|79
 Tondela|40.517|-8.081|PT|Viseu|79
+Tonghua Sanyuanpu Airport|42.255|125.706|CN|Jilin|78|f
+Tonopah Test Range Airport|37.793|-116.779|US|Nevada|78|f
 Tonk Khurd|23.098|76.216|IN|Madhya Pradesh|78
 Tonse East|13.396|74.722|IN|Karnataka|78
+Tongliao Airport|43.557|122.200|CN|Inner Mongolia|78|f
 Tongerlo|51.106|4.916|BE|Flanders|77
 Tonnay-Charente|45.944|-0.892|FR|New Aquitaine|77
 Tona|41.848|2.228|ES|Catalonia|77
 Tongouson|5.021|120.133|PH|Autonomous Region in Muslim Mindanao|76
 Tonacatepeque|13.781|-89.119|SV|San Salvador Department|76
+Tonopah Airport|38.060|-117.086|US|Nevada|75|f
 Tonkino|57.371|46.458|RU|Nizhny Novgorod Oblast|75
 Tonnerre|47.856|3.974|FR|Bourgogne-Franche-Comté|75
 Tonganoxie|39.110|-95.088|US|Kansas|74
 Tonho|9.902|-5.728|CI|Savanes District|74
 Tönning|54.317|8.941|DE|Schleswig-Holstein|74
+Tonowas Island|7.381|151.891|FM|Chuuk|73|f
 Tonshayevo|57.736|47.012|RU|Nizhny Novgorod Oblast|73
 Tonshalovo|59.195|37.947|RU|Vologda Oblast|73
+Tongariro National Park|-39.250|175.583|NZ||72|f
 Tongqian|33.069|105.764|CN|Gansu|72
 Tongaat Beach|-29.614|31.153|ZA|KwaZulu-Natal|72
+Tongoa Island|-16.900|168.550|VU|Shefa|71|f
 Tonglou|29.290|108.552|CN|Chongqing|71
 Tonaya|19.786|-103.971|MX|Jalisco|71
 Tongole|7.451|-11.901|SL|Southern Province|71
 Tonila|19.434|-103.517|MX|Jalisco|70
 Tondod|15.718|120.968|PH|Central Luzon|70
+Tonbridge Castle|51.196|0.274|GB|England|70|f
+Tongoa Airport|-16.891|168.551|VU|Shefa|70|f
 Tonkawa|36.678|-97.310|US|Oklahoma|70
 Tone Tin Gan South|16.662|96.194|MM|Yangon|69
 Tontitown|36.178|-94.234|US|Arkansas|69
 Tongsa|27.350|90.533|BT||69|r
+Toniná|16.901|-92.010|MX|Chiapas|69|f
 Tondol|16.310|120.013|PH|Ilocos|69
 Tongwan|27.581|110.277|CN|Hunan|68
 Tonopah|38.067|-117.230|US|Nevada|68
+Tonelagee|53.054|-6.383|IE|Leinster|67|f
 Tonalá|16.862|-99.054|MX|Guerrero|67
 Tonara|40.025|9.172|IT|Sardinia|66
 Tonalá|18.207|-94.143|MX|Veracruz|66
 Tonengo-Casale|45.286|7.940|IT|Piedmont|66
 Tongala|-36.255|144.956|AU|Victoria|65
+Tone Unga|35.932|139.956|JP|Chiba|65|f
+Tongatapu|-21.174|-175.181|TO|Tongatapu|65|f
+Tønsberg flyplass, Jarlsberg|59.301|10.367|NO|Vestfold|65|f
 Tongrinne|50.516|4.624|BE|Wallonia|65
 Toniataba|13.433|-15.583|GM|Lower River|65
 Tonka Bay|44.909|-93.593|US|Minnesota|64
 Tonosí|7.407|-80.439|PA|Los Santos Province|63
+T’onggo-san|36.898|129.192|KR|Gyeongsangbuk-do|63|f
+Tongo Island|39.690|20.005|AL|Vlorë County|63|f
 Tonayán|19.683|-96.921|MX|Veracruz|63
 Tonto Basin|33.832|-111.295|US|Arizona|63
 Tonalixco|19.981|-97.839|MX|Puebla|62
@@ -107,6 +126,10 @@ Tonalaco|19.429|-97.132|MX|Veracruz|62
 Tonnarella|38.125|15.113|IT|Sicily|62
 Tonggu|26.572|109.309|CN|Guizhou|61
 Tonquédec|48.669|-3.397|FR|Brittany|61
+Tongariki|-17.017|168.617|VU|Shefa|61|f
+Tongass Island|54.773|-130.739|US|Alaska|61|f
+Tongue River Dam|45.131|-106.766|US|Montana|61|f
+Tønnesen Glacier|-72.067|3.467|AQ||61|f
 Tonderān|32.781|51.047|IR|Isfahan|61
 Tonalixco|18.782|-97.060|MX|Veracruz|61
 Tonhoulé|8.041|-6.409|CI|Woroba|60
@@ -114,27 +137,134 @@ Tonalapa del Sur|18.097|-99.560|MX|Guerrero|60
 Tonalapa|17.491|-99.242|MX|Guerrero|60
 Tonasket|48.705|-119.439|US|Washington|60
 Tonnara di Bonagia|38.063|12.594|IT|Sicily|60
+Tontelange|49.727|5.811|BE|Wallonia|60
 Tonstad|58.663|6.717|NO|Agder|59
+Tonbak|27.729|52.177|IR|Bushehr|58
+Tonagh Island|-67.100|50.300|AQ||58|f
+Tondisaar|58.202|26.058|EE|Tartu|58|f
+Toners Lake|44.165|-93.599|US|Minnesota|58|f
+Tongdae-san|37.774|128.598|KR|Gangwon-do|58|f
+Tongling Chang Jiang Daqiao|30.857|117.726|CN|Anhui|58|f
 Tonco|45.023|8.189|IT|Piedmont|58
+Tongom|14.925|-24.475|CV|São Filipe|58
+Tonatico|21.491|-98.813|MX|San Luis Potosí|57
+Tonica|41.216|-89.067|US|Illinois|57
+Tonciu|46.780|24.552|RO|Mureș County|57
+Tontonou|6.550|-4.917|CI|Lacs District|57
+Tonatiú|20.612|-100.451|MX|Querétaro|57
+Tonnoy|48.552|6.252|FR|Grand Est|57
+Tonndorf|50.889|11.204|DE|Thuringia|56
+Tondoroque|20.745|-105.294|MX|Nayarit|56
+Tonalapa|18.149|-94.793|MX|Veracruz|56
+Tonalapa|17.313|-98.951|MX|Guerrero|56
+Tongmuxi|27.817|110.610|CN|Hunan|56
+Tongxihe|27.748|110.557|CN|Hunan|56
 Tona|7.202|-72.965|CO|Santander Department|56
+Tongos|-12.283|-74.983|PE|Huancavelica|56
+Tongre-Notre-Dame|50.582|3.776|BE|Wallonia|56
+Tonalapa del Río|18.342|-99.692|MX|Guerrero|56
+Tonneville|49.643|-1.715|FR|Normandy|56
+Tonalapa|19.814|-97.881|MX|Puebla|55
+Tonalea|36.322|-110.963|US|Arizona|55
+Tonalapa|19.547|-97.787|MX|Puebla|55
+Tonefjellet|77.110|15.360|SJ|Svalbard|54|f
+Tonj Airport|7.266|28.663|SS|Warrap|54|f
+Tonkin Island|-67.825|-65.042|AQ||54|f
+Tonshi Mountain|42.001|-74.193|US|New York|54|f
+Tonsler Park|38.027|-78.491|US|Virginia|54|f
+Tonalapa (Santa Bárbara)|20.040|-97.848|MX|Puebla|54
+Toney Mountain|-75.800|-115.800|AQ||49|f
+Tongo Lake|-30.519|143.829|AU|New South Wales|49|f
+Tongren Dejiang Airport|28.121|108.163|CN|Guizhou|49|f
+Tongue Rocks|-63.629|-57.364|AQ||49|f
 Tonezza del Cimone|45.859|11.346|IT|Veneto|44
+Tong Castle Hill|52.669|-2.306|GB|England|40|f
+Tonga Island|-40.883|173.067|NZ||40|f
+Tongariro|-39.133|175.633|NZ|Manawatu-Wanganui|40|f
+Tongue Butte|44.767|-107.290|US|Wyoming|40|f
+Tongue Mountain|43.911|-74.345|US|New York|40|f
+Tongue Peak|-86.567|-153.033|AQ||40|f
+Tönsberg|51.948|8.692|DE|North Rhine-Westphalia|40|f
+Tonto National Monument|33.648|-111.114|US|Arizona|40|f
+Tony Grove Lake|41.894|-111.644|US|Utah|40|f
 Tonengo|45.118|8.002|IT|Piedmont|37
 Tonalá|12.767|-87.133|NI|Chinandega Department|0
+Tonate|5.012|-52.472|GF|Guyane|0
 Tonchigüe|0.828|-79.946|EC|Esmeraldas|0
+Tondongraja|-8.583|120.058|ID|East Nusa Tenggara|0
 Tong|52.667|-2.300|GB|England|0
+Tong’an|31.375|120.451|CN|Jiangsu|0
+Tong’an|28.561|114.893|CN|Jiangxi|0
+Tong’an|25.833|118.756|CN|Fujian|0
 Tongbai|32.375|113.404|CN|Henan|0
+Tongbang|-8.213|124.539|ID|East Nusa Tenggara|0
+Tongbei|47.770|126.763|CN|Heilongjiang|0
+Tongchang|24.713|102.035|CN|Yunnan|0
+Tongche|29.506|109.567|CN|Hunan|0
 Tongcheng|35.355|111.216|CN|Shanxi|0
+Tongcheng|32.898|118.932|CN|Anhui|0
 Tongcheng|31.039|116.974|CN|Anhui|0
+Tongchuan|36.016|107.518|CN|Gansu|0
 Tongchuan|31.218|107.500|CN|Sichuan|0
+Tongda|47.173|125.632|CN|Heilongjiang|0
+Tongde|23.168|113.239|CN|Guangdong|0
+Tongfan|28.308|118.310|CN|Jiangxi|0
+Tongfang|25.804|116.551|CN|Fujian|0
+Tongfosi|42.887|129.243|CN|Jilin|0
+Tongfu|30.576|120.465|CN|Zhejiang|0
+Tonggakjati|-7.061|113.528|ID|East Java|0
+Tonggoh|-7.269|108.314|ID|West Java|0
+Tonggousi|33.171|106.749|CN|Shaanxi|0
+Tongguan|28.456|112.808|CN|Hunan|0
+Tonghaikou|30.197|113.150|CN|Hubei|0
+Tonghe|23.202|113.317|CN|Guangdong|0
 Tonghe|45.980|128.758|CN|Heilongjiang|0
+Tonghong|24.338|103.070|CN|Yunnan|0
+Tonghu|23.084|114.183|CN|Guangdong|0
+Tongjia|29.414|119.144|CN|Zhejiang|0
+Tongjiang|46.652|126.450|CN|Heilongjiang|0
 Tongjin|37.692|126.599|KR|Gyeonggi-do|0
+Tongjing|31.791|118.547|CN|Jiangsu|0
+Tongjing|28.335|108.266|CN|Guizhou|0
+Tongjinpu|29.538|110.967|CN|Hunan|0
 Tongkiling|-2.136|113.876|ID|Central Kalimantan|0
+Tongle|47.056|127.394|CN|Heilongjiang|0
+Tongli|31.161|120.712|CN|Jiangsu|0
+Tonglin|27.512|115.419|CN|Jiangxi|0
+Tongmen|23.000|111.469|CN|Guangdong|0
+Tongmin|28.185|105.996|CN|Guizhou|0
+Tongmuluo|25.934|111.950|CN|Hunan|0
 Tongod|-6.757|-78.825|PE|Cajamarca Department|0
+Tongping|27.250|114.925|CN|Jiangxi|0
+Tongpu|36.983|98.500|CN|Qinghai|0
+Tongqiao|23.019|114.338|CN|Guangdong|0
+Tongqing|21.592|110.692|CN|Guangdong|0
+Tongqu|24.049|115.376|CN|Guangdong|0
 Tongquan|25.400|103.567|CN|Yunnan|0
+Tongquan|47.301|125.929|CN|Heilongjiang|0
+Tongshan|30.424|118.249|CN|Anhui|0
+Tongshan|32.773|113.557|CN|Henan|0
+Tongshanjie|41.840|125.850|CN|Jilin|0
+Tongshanxiang|28.840|116.796|CN|Jiangxi|0
+Tongtianxiang|28.331|115.810|CN|Jiangxi|0
+Tongtuan|30.825|118.342|CN|Anhui|0
 Tongutisungi|1.498|127.556|ID|North Maluku|0
+Tongxian|25.302|116.456|CN|Fujian|0
 Tongxiang|30.633|120.561|CN|Zhejiang|0
+Tongxing|32.015|121.561|CN|Jiangsu|0
+Tongxing|34.417|119.400|CN|Jiangsu|0
 Tongxu|34.487|114.463|CN|Henan|0
 Tongyang|29.671|114.597|CN|Hubei|0
+Tongyu|28.592|121.331|CN|Zhejiang|0
+Tongyu|23.287|116.422|CN|Guangdong|0
+Tongyuan|34.554|109.040|CN|Shaanxi|0
+Tongyuan|30.456|120.839|CN|Zhejiang|0
+Tongyuan|28.078|116.222|CN|Jiangxi|0
+Tongyuanpu|40.792|123.916|CN|Liaoning|0
+Tongzha|31.485|118.133|CN|Anhui|0
+Tongzhong|29.476|114.106|CN|Hubei|0
 Tongzilin|26.700|101.851|CN|Sichuan|0
+Tongziwu|29.556|118.845|CN|Zhejiang|0
+Tonjongsari|-7.738|108.183|ID|West Java|0
 Tonoas Municipal Building|7.376|151.884|FM|Chuuk|0
 Tonsupa|0.890|-79.810|EC|Esmeraldas|0

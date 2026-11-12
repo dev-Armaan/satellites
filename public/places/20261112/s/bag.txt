@@ -27,6 +27,7 @@ Bāgh|33.981|73.776|PK|Azad Kashmir|91
 Bagnolet|48.867|2.417|FR|Île-de-France|91
 Bagre|-1.900|-50.208|BR|Pará|90
 Bagru|26.811|75.547|IN|Rajasthan|90
+Bagdogra Airport|26.681|88.329|IN|West Bengal|90|f
 Bagong Pagasa|14.663|121.033|PH|National Capital Region|89
 Bāgepalli|13.783|77.797|IN|Karnataka|89
 Bāgh-e Malek|31.524|49.886|IR|Khuzestan|88
@@ -81,6 +82,7 @@ Bagnes|46.083|7.217|CH|Valais|76
 Baglo|6.372|-7.144|CI|Bas-Sassandra District|76
 Bagong Bayan II-A|14.068|121.319|PH|Calabarzon|76
 Bagoliéoua|6.168|-6.533|CI|Bas-Sassandra District|76
+Bagdad Airport|34.595|-113.169|US|Arizona|75|f
 Bagan|54.099|77.667|RU|Novosibirsk Oblast|75
 Bagasséhoa|6.191|-6.363|CI|Goh-Djiboua|75
 Bağarası|37.707|27.549|TR|Aydın|75
@@ -108,6 +110,7 @@ Bagtāsh|37.077|46.014|IR|West Azerbaijan|71
 Bagnères-de-Luchon|42.791|0.593|FR|Occitanie|71
 Baguer|7.256|124.504|PH|Soccsksargen|70
 Baghramyan|40.193|44.369|AM|Armavir|70
+Baghdad International Airport|33.258|44.233|IQ|Baghdad|70|f
 Bagacay|12.982|124.141|PH|Bicol Region|70
 Bagakay|8.145|123.816|PH|Northern Mindanao|70
 Bāgh Anār-e Mīlās|31.482|50.765|IR|Chaharmahal and Bakhtiari|70
@@ -122,6 +125,7 @@ Bagenalstown|52.700|-6.962|IE|Leinster|69
 Bagillt|53.265|-3.166|GB|Wales|69
 Bāghān|29.299|52.649|IR|Fars|69
 Bagnolo Piemonte|44.760|7.314|IT|Piedmont|69
+Bagotville Airport|48.331|-70.996|CA|Quebec|69|f
 Bagong-Sikat|15.480|121.307|PH|Central Luzon|69
 Bagahanlad|12.580|123.669|PH|Bicol Region|68
 Bâgé-la-Ville|46.316|4.941|FR|Auvergne-Rhône-Alpes|68
@@ -162,6 +166,7 @@ Bagnolo del Salento|40.149|18.352|IT|Apulia|65
 Bagdad|34.581|-113.205|US|Arizona|65
 Bagnarola|45.867|12.859|IT|Friuli Venezia Giulia|65
 Bagno Roselle|42.811|11.139|IT|Tuscany|65
+Baghaberd|39.215|46.278|AM|Syunik|65|f
 Baghramyan|39.981|44.514|AM|Ararat|65
 Bāghela|31.005|75.521|IN|Punjab|65
 Bagnols-en-Forêt|43.538|6.698|FR|Provence-Alpes-Côte d'Azur|65
@@ -176,6 +181,9 @@ Bagneaux-sur-Loing|48.233|2.707|FR|Île-de-France|64
 Bagnac-sur-Célé|44.667|2.167|FR|Occitanie|64
 Bagabasso|8.459|-6.750|CI|Woroba|64
 Bagworth|52.673|-1.343|GB|England|63
+Bagatti Valsecchi Museum|45.470|9.195|IT|Lombardy|63|f
+Baghdad Tower|33.303|44.354|IQ|Baghdad|63|f
+Bagnayr Monastery|40.513|43.484|TR|Kars Province|63|f
 Baguer-Morvan|48.525|-1.775|FR|Brittany|63
 Bagley|47.522|-95.398|US|Minnesota|63
 Bagdad|-42.630|147.223|AU|Tasmania|63
@@ -185,34 +193,103 @@ Bāghū Kenāreh|36.793|54.031|IR|Golestan|62
 Bağıllı|38.137|31.045|TR|Isparta|61
 Bagnolo|45.272|10.891|IT|Veneto|61
 Bağgöze|37.713|41.915|TR|Siirt|61
+Bagabag Island|-4.794|146.228|PG|Madang Province|61|f
+Bāgh-e Bābur|34.503|69.158|AF|Kabul|61|f
+Bāgh-e Eram|29.636|52.526|IR|Fars|61|f
+Bāgh-e Fīn|33.946|51.372|IR|Isfahan|61|f
+Bāgh-e Yās|28.570|56.876|IR|Kerman|61|f
+Bågø|55.311|9.811|DK|South Denmark|61|f
 Baguer-Pican|48.553|-1.699|FR|Brittany|61
 Bagatogo|8.755|-6.702|CI|Woroba|61
 Bağrıbütün|37.129|40.286|TR|Mardin|61
 Baghramyan|40.196|43.854|AM|Armavir|60
 Bağkonak|38.218|31.272|TR|Isparta|60
+Bāgh Dasht|29.224|51.975|IR|Fars|60
 Bagnasco|44.304|8.045|IT|Piedmont|59
 Bagaladi|38.026|15.822|IT|Calabria|59
 Bágala|8.467|-82.527|PA|Chiriquí Province|59
+Bagno di Romagna|43.835|11.960|IT|Emilia-Romagna|59
+Bağcıllı|38.055|28.406|TR|Aydın|59
+Baghanis|41.109|45.057|AM|Tavush|59
+Bāghcheh Jīk|38.174|44.832|IR|West Azerbaijan|59
+Bagravan|40.479|43.671|AM|Shirak|58
+Bagaron|45.485|12.289|IT|Veneto|58
+Bâgé-le-Châtel|46.309|4.932|FR|Auvergne-Rhône-Alpes|58
+Bages|43.123|2.991|FR|Occitanie|58
+Bagan Nyaung U Airport|21.179|94.930|MM|Mandalay Region|58|f
+Baggen|65.325|21.780|SE|Norrbotten|58|f
+Bagnolo|45.911|12.273|IT|Veneto|58
+Bagnols|45.917|4.607|FR|Auvergne-Rhône-Alpes|57
+Bāgh Daraq|38.626|45.047|IR|West Azerbaijan|57
 Bagnaria Arsa|45.884|13.286|IT|Friuli Venezia Giulia|57
+Bāghān|27.871|53.115|IR|Fars|57
+Bağbaşı|37.099|32.450|TR|Konya|57
+Baghdānī|27.180|60.709|IR|Sistan and Baluchestan|57
 Bagnone|44.315|9.995|IT|Tuscany|56
+Bagaran|40.143|43.660|AM|Armavir|56
+Bagnoli|41.083|14.440|IT|Campania|56
+Bagni di Tabiano|44.808|10.021|IT|Emilia-Romagna|56
+Băgău|46.310|23.794|RO|Alba County|56
+Bagnolo|42.840|11.618|IT|Tuscany|56
 Bagn|60.822|9.552|NO|Innlandet|56
+Bagnolo|45.358|11.374|IT|Veneto|56
+Bagby|54.218|-1.290|GB|England|55
 Bagnoli del Trigno|41.702|14.459|IT|Molise|55
+Bağlı|38.266|34.069|TR|Aksaray|55
+Bağdere|37.750|38.200|TR|Adıyaman Province|55
+Bağcılar|37.732|27.640|TR|Aydın|55
+Bağarası|36.830|37.056|TR|Kilis|55
 Bagnolo di Po|45.015|11.501|IT|Veneto|55
+Bagaman Island|-11.135|152.690|PG|Milne Bay Province|54|f
+Baginton Castle|52.369|-1.500|GB|England|54|f
+Baglung Airport|28.213|83.666|NP|Gandaki Pradesh|54|f
+Bagnell Dam|38.202|-92.627|US|Missouri|54|f
+Bagnold Point|-67.041|-67.490|AQ||54|f
+Bagshot Park|51.383|-0.700|GB|England|54|f
+Baguio-Loakan Airport|16.375|120.620|PH|Cordillera|54|f
+Baggetorp|59.150|14.633|SE|Örebro|54
+Bāgh-e Farāgerd|36.416|59.627|IR|Razavi Khorasan|54
+Bāgh-e Amīr Bekandeh|37.444|49.753|IR|Gilan Province|54
+Bağlıca|37.797|41.888|TR|Siirt|54
 Báguena|41.042|-1.358|ES|Aragon|52
+Baga Nuur|48.417|95.950|MN|Dzabkhan|49|f
+Bage, Cape|-67.733|146.583|AQ||49|f
+Baggott Ridge|-70.317|64.333|AQ||49|f
+Bagshawe Glacier|-64.950|-62.566|AQ||49|f
 Bagnaria|44.827|9.123|IT|Lombardy|48
+Bagby Hot Springs Guard Station|44.936|-122.174|US|Oregon|40|f
+Baggböle Herrgård|63.840|20.117|SE|Västerbotten|40|f
+Baglan Bay|51.610|-3.853|GB|Wales|40|f
+Bagley Park|45.526|-122.987|US|Oregon|40|f
+Bagwell Island|42.706|-70.822|US|Massachusetts|40|f
 Bağpınar|37.591|38.319|TR|Adıyaman Province|37
 Bagüés|42.549|-0.946|ES|Aragon|32
 Bag‘dod|40.463|71.212|UZ|Fergana|0
+Baga Borihe|42.926|120.560|CN|Inner Mongolia|0
 Bagabag|16.607|121.254|PH|Cagayan Valley|0
 Bagamanoc|13.940|124.290|PH|Bicol Region|0
+Bagan|33.898|96.521|CN|Qinghai|0
+Bagan Besar|1.582|101.387|ID|Riau|0
+Bagan Hilir|2.180|100.811|ID|Riau|0
+Bagan Hulu Baru|2.149|100.807|ID|Riau|0
 Bagan Si Api-api|2.157|100.808|ID|Riau|0
+Bagangan|-6.660|111.024|ID|Central Java|0
 Bağdere|38.114|40.734|TR|Diyarbakır Province|0
 Bāgh-e Maīdān|35.222|69.214|AF|Parwan|0
+Bagikkedok Lauk|-8.572|116.606|ID|West Nusa Tenggara|0
+Bagiktinggang|-8.748|116.304|ID|West Nusa Tenggara|0
 Bağışlı|37.718|44.036|TR|Hakkâri|0
+Bagjasari|-7.004|108.358|ID|West Java|0
 Bağlar|37.914|40.206|TR|Diyarbakır Province|0
 Bağlıca|37.870|41.751|TR|Siirt|0
+Bago|-8.068|111.909|ID|East Java|0
 Bagok|4.947|97.665|ID|Aceh|0
+Bagorejo|-8.396|114.305|ID|East Java|0
+Bagou|35.273|100.398|CN|Qinghai|0
 Bagrāmī|34.494|69.274|AF|Kabul|0
+Bagu|-6.726|111.129|ID|Central Java|0
 Bagua|-5.633|-78.534|PE|Amazonas|0
 Báguano|20.752|-76.026|CU|Holguín Province|0
+Baguazhou|32.174|118.817|CN|Jiangsu|0
+Bagusan|-8.178|111.764|ID|East Java|0
 Bagwai|12.158|8.136|NG|Kano State|0

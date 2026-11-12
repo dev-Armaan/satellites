@@ -32,6 +32,7 @@ Wulingyuan|29.349|110.544|CN|Hunan|94
 Wum|6.383|10.067|CM|North-West|93
 Wuduan|34.574|117.095|CN|Jiangsu|92
 Wunstorf|52.424|9.438|DE|Lower Saxony|92
+Wuhan Tianhe International Airport|30.784|114.208|CN|Hubei|91|f
 Würselen|50.818|6.135|DE|North Rhine-Westphalia|91
 Wujia|29.635|105.391|CN|Chongqing|91
 Wuying|35.015|105.899|CN|Gansu|91
@@ -68,6 +69,8 @@ Wufu|29.122|109.117|CN|Chongqing|78
 Wugui|29.819|105.756|CN|Chongqing|78
 Wuli|29.359|108.875|CN|Chongqing|78
 Wustermark|52.545|12.945|DE|Brandenburg|78
+Wulin Academy of Arts|30.249|120.156|CN|Zhejiang|77|f
+Wuqiu Yu|24.992|119.452|TW|Fujian|77|f
 Wüstenrot|49.081|9.461|DE|Baden-Wurttemberg|77
 Wuma|33.063|105.443|CN|Gansu|77
 Wutöschingen|47.660|8.368|DE|Baden-Wurttemberg|76
@@ -80,23 +83,42 @@ Wuwu|22.545|113.957|CN|Guangdong|75
 Wutong|30.890|108.057|CN|Chongqing|75
 Würenlos|47.442|8.363|CH|Aargau|75
 Wutamu|39.022|88.133|CN|Xinjiang|73
+Wuzhou Xijiang Airport|23.401|111.099|CN|Guangxi|72|f
 Wurzbach|50.464|11.538|DE|Thuringia|72
 Wurmlingen|48.000|8.783|DE|Baden-Wurttemberg|72
 Wubao|24.596|118.554|CN|Fujian|72
 Würenlingen|47.534|8.257|CH|Aargau|71
 Wurmannsquick|48.353|12.786|DE|Bavaria|71
+Wuhu Xuanzhou Airport|31.106|118.662|CN|Anhui|71|f
+Wushao Ling|37.250|103.100|CN|Gansu|71|f
 Wünschendorf|50.797|12.098|DE|Thuringia|70
 Wusterwitz|52.367|12.385|DE|Brandenburg|70
+Wutaishan|39.083|113.563|CN|Shanxi|70|f
+Wuvulu Island|-1.733|142.851|PG|Manus Province|70|f
 Wuyucun|24.336|118.145|CN|Fujian|70
 Wustrow|52.924|11.128|DE|Lower Saxony|70
 Wurmberg|48.867|8.817|DE|Baden-Wurttemberg|69
+Wunnummin Lake Airport|52.894|-89.289|CA|Ontario|69|f
 Wuyang|26.743|110.328|CN|Hunan|68
+Wudalianchi Dedu Airport|48.444|126.123|CN|Heilongjiang|67|f
+Wuhai Airport|39.792|106.802|CN|Inner Mongolia|67|f
+Wurdi Youang|-37.951|144.425|AU|Victoria|67|f
+Wurmberg|51.756|10.619|DE|Lower Saxony|67|f
+Wuzhi Shan|18.901|109.708|CN|Hainan|67|f
 Wulften|51.660|10.174|DE|Lower Saxony|67
 Wulkaprodersdorf|47.798|16.504|AT|Burgenland|66
 Wülknitz|51.367|13.400|DE|Saxony|65
+Wudang Shan|32.333|111.000|CN|Hubei|65|f
+Wuzhizhou Island|18.311|109.763|CN||65|f
 Würgendorf|50.760|8.127|DE|North Rhine-Westphalia|64
 Wulfsen|53.302|10.143|DE|Lower Saxony|64
 Wulkenzin|53.544|13.169|DE|Mecklenburg-Vorpommern|64
+Wugong Shan|27.433|114.200|CN||63|f
+Wulai Pubu|24.847|121.552|TW|Taipei|63|f
+Wulian Feng|28.000|103.800|CN|Yunnan|63|f
+Wuling Shan|28.563|109.489|CN||63|f
+Wuling Shan|40.598|117.481|CN|Hebei|63|f
+Wutong Mountain|22.585|114.212|CN|Guangdong|63|f
 Wülfershausen|50.332|10.341|DE|Bavaria|63
 Wusterhusen|54.113|13.616|DE|Mecklenburg-Vorpommern|63
 Wurmsham|48.350|12.333|DE|Bavaria|63
@@ -104,51 +126,273 @@ Wustrow|53.477|13.156|DE|Mecklenburg-Vorpommern|62
 Wundowie|-31.762|116.380|AU|Western Australia|62
 Wulfen|51.819|11.931|DE|Saxony-Anhalt|62
 Wurtsboro|41.577|-74.487|US|New York|61
+Wu Xia|31.037|110.166|CN||61|f
+Wufei Miao|22.983|120.205|TW|Taiwan|61|f
+Wuhu Wanli Airport|31.392|118.404|CN|Anhui|61|f
+Wuming Shan|24.255|121.384|TW|Taiwan|61|f
 Wurruk|-38.117|147.033|AU|Victoria|61
 Wurtland|38.550|-82.778|US|Kentucky|60
 Würflach|47.776|16.055|AT|Lower Austria|60
+Wülferode|52.329|9.850|DE|Lower Saxony|60
+Wuppenau|47.496|9.109|CH|Thurgau|60
+Würnitz|48.431|16.423|AT|Lower Austria|59
+Wünschendorf|47.096|15.723|AT|Styria|59
+Wulferstedt|52.020|11.131|DE|Saxony-Anhalt|59
+Wuenheim|47.874|7.206|FR|Grand Est|59
+Wust|52.551|12.116|DE|Saxony-Anhalt|59
+Wuhu Chang Jiang Daqiao|31.388|118.337|CN|Anhui|58|f
+Wushan Chang Jiang Daqiao|31.064|109.901|CN|Chongqing|58|f
 Wundschuh|46.926|15.451|AT|Styria|58
+Wundersleben|51.154|11.039|DE|Thuringia|58
+Wuuluman|-32.550|149.083|AU|New South Wales|58
+Wudinna|-33.050|135.464|AU|South Australia|57
 Wullersdorf|48.628|16.101|AT|Lower Austria|57
+Wüstheuterode|51.323|10.059|DE|Thuringia|57
 Würmla|48.255|15.860|AT|Lower Austria|57
+Würchwitz|51.019|12.227|DE|Saxony-Anhalt|56
+Wülperode|51.981|10.599|DE|Saxony-Anhalt|55
+Wurokang|13.383|-15.817|GM|Lower River|55
+Wudang Shan|32.391|111.042|CN|Hubei|54|f
+Wudinna Airport|-33.043|135.447|AU|South Australia|54|f
+Wulingyuan Scenic and Historic Interest Area|29.406|110.529|CN|Hunan|54|f
+Wülzburg|49.026|11.005|DE|Bavaria|54|f
+Wurtsboro-Sullivan County Airport|41.598|-74.462|US|New York|54|f
+Wustrow|54.082|11.556|DE|Mecklenburg-Vorpommern|54|f
+Wulzeshofen|48.717|16.300|AT|Lower Austria|54
+Wulfsmoor|53.912|9.724|DE|Schleswig-Holstein|52
+Wüschheim|50.017|7.417|DE|Rheinland-Pfalz|50
+Wubbold Glacier|-69.316|-71.600|AQ||49|f
+Wuhan Hannan General Airport|30.252|114.055|CN|Hubei|49|f
+Wujek Ridge|-82.471|-50.867|AQ||49|f
+Wular Lake|34.363|74.563|IN|Jammu and Kashmir|49|f
+Wungong Dam|-32.201|116.063|AU|Western Australia|49|f
+Wurlsee|53.221|13.296|DE|Brandenburg|49|f
+Wurzelbrink|52.283|8.615|DE|North Rhine-Westphalia|49|f
+Würzweiler|49.650|7.867|DE|Rheinland-Pfalz|46
+Würrich|49.983|7.300|DE|Rheinland-Pfalz|44
+WUAB-TV (Lorain)|41.379|-81.720|US|Ohio|40|f
+WUAG-FM (Greensboro)|36.064|-79.810|US|North Carolina|40|f
+WUBE-FM (Cincinnati)|39.125|-84.499|US|Ohio|40|f
+WUCX-FM (Bay City)|43.553|-83.690|US|Michigan|40|f
+Wuerfel Park|44.685|-85.664|US|Michigan|40|f
+WUFF-FM (Eastman)|32.227|-83.219|US|Georgia|40|f
+WUGN-FM (Midland)|43.516|-84.547|US|Michigan|40|f
+WUHF-TV (Rochester)|43.135|-77.584|US|New York|40|f
+Wulfila Glacier|-62.544|-59.742|AQ||40|f
+WUNA - AM (Ocoee)|28.558|-81.541|US|Florida|40|f
+Wunnummin Lake|52.935|-89.165|CA|Ontario|40|f
+WUNR-AM (Brookline)|42.289|-71.189|US|Massachusetts|40|f
+WUOG-FM (Athens)|33.950|-83.367|US|Georgia|40|f
+WUOL-FM (Louisville)|38.356|-85.848|US|Kentucky|40|f
+WUOM-FM (Ann Arbor)|42.407|-83.915|US|Michigan|40|f
+Wuosthorn|46.735|9.878|CH|Grisons|40|f
+Wupatki National Monument|35.557|-111.396|US|Arizona|40|f
+WUPR-AM (Utuado)|18.265|-66.710|PR|Utuado|40|f
+WUPW-TV (Toledo)|41.656|-83.444|US|Ohio|40|f
+Wurtsboro Hills|41.603|-74.493|US|New York|40|f
+Würzburger Residenz|49.793|9.939|DE|Bavaria|40|f
+WUSA-TV (Washington)|38.950|-77.079|US|District of Columbia|40|f
+WUSF-TV (Tampa)|27.848|-82.263|US|Florida|40|f
+WUSQ-FM (Winchester)|39.177|-78.264|US|Virginia|40|f
+WUTR-TV (Utica)|43.145|-75.176|US|New York|40|f
+WUTV-TV (Buffalo)|43.024|-78.928|US|New York|40|f
+WUVA-FM (Charlottesville)|37.985|-78.481|US|Virginia|40|f
+WUVT-FM (Blacksburg)|37.225|-80.408|US|Virginia|40|f
+WUWM-FM (Milwaukee)|43.090|-87.896|US|Wisconsin|40|f
 Wudmath|46.596|13.981|AT|Carinthia|36
 Wu’an|36.697|114.191|CN|Hebei|0
 Wu’an|24.604|117.745|CN|Fujian|0
+Wu’erbu Baolige|48.067|119.044|CN|Inner Mongolia|0
+Wu’erke|48.536|124.293|CN|Inner Mongolia|0
+Wu’erqihan|49.578|121.389|CN|Inner Mongolia|0
+Wuaona|-8.304|123.235|ID|East Nusa Tenggara|0
+Wubao|29.632|106.830|CN|Chongqing|0
+Wuchagou|46.741|120.308|CN|Inner Mongolia|0
+Wucheng|39.835|113.624|CN|Shanxi|0
+Wucheng|33.450|113.754|CN|Henan|0
 Wucheng|31.284|117.902|CN|Anhui|0
+Wucheng|29.184|116.005|CN|Jiangxi|0
 Wucheng|37.211|116.088|CN|Shandong|0
+Wuchengzi|36.099|107.265|CN|Gansu|0
+Wuci|25.597|117.644|CN|Fujian|0
+Wucun|28.660|118.454|CN|Zhejiang|0
+Wucun|28.499|118.277|CN|Jiangxi|0
+Wudabao|27.608|119.169|CN|Zhejiang|0
 Wudalianchi|48.514|126.199|CN|Heilongjiang|0
+Wudang|24.640|114.752|CN|Jiangxi|0
+Wudanglu|32.592|110.798|CN|Hubei|0
+Wudangshan|32.514|111.077|CN|Hubei|0
+Wudian|31.928|113.642|CN|Hubei|0
+Wudian|31.983|112.771|CN|Hubei|0
+Wudong|25.109|116.246|CN|Fujian|0
+Wudong|30.582|114.455|CN|Hubei|0
+Wudu|-8.774|121.203|ID|East Nusa Tenggara|0
+Wuduhe|31.109|111.206|CN|Hubei|0
+Wudui|34.317|119.700|CN|Jiangsu|0
+Wudun|40.170|94.805|CN|Gansu|0
 Wufeng|27.435|104.869|CN|Yunnan|0
 Wufeng|30.200|110.691|CN|Hubei|0
+Wufeng|32.827|110.369|CN|Hubei|0
+Wufeng|25.392|118.241|CN|Fujian|0
+Wufeng|26.105|119.278|CN|Fujian|0
+Wufeng|36.872|101.850|CN|Qinghai|0
+Wufu|27.612|118.205|CN|Fujian|0
+Wufu|30.928|113.264|CN|Hubei|0
+Wufushan|28.143|118.047|CN|Jiangxi|0
 Wugang|33.295|113.524|CN|Henan|0
+Wugen|28.325|121.268|CN|Zhejiang|0
+Wugong|34.258|108.207|CN|Shaanxi|0
+Wugong|33.334|113.570|CN|Henan|0
+Wugong|34.328|108.108|CN|Shaanxi|0
+Wugongtai|44.192|86.796|CN|Xinjiang|0
+Wuguanyi|33.552|106.978|CN|Shaanxi|0
+Wuguishan|22.405|113.429|CN|Guangdong|0
+Wuhao|41.533|112.296|CN|Inner Mongolia|0
+Wuhe|23.448|112.345|CN|Guangdong|0
 Wuhe Chengguanzhen|33.139|117.866|CN|Anhui|0
+Wuhou|33.150|106.615|CN|Shaanxi|0
 Wuhu|31.146|118.565|CN|Anhui|0
 Wuji|38.177|114.968|CN|Hebei|0
+Wuji|34.201|119.043|CN|Jiangsu|0
+Wuji|37.066|121.484|CN|Shandong|0
+Wujia|30.646|111.347|CN|Hubei|0
+Wujia|32.146|121.199|CN|Jiangsu|0
+Wujia|41.459|121.999|CN|Liaoning|0
+Wujiabao|34.348|108.699|CN|Shaanxi|0
+Wujian|32.755|119.779|CN|Jiangsu|0
+Wujiang|39.017|100.467|CN|Gansu|0
+Wujiang|31.866|118.461|CN|Anhui|0
+Wujiang|27.214|115.265|CN|Jiangxi|0
+Wujiao|36.450|107.805|CN|Gansu|0
+Wujiao|29.769|115.622|CN|Jiangxi|0
 Wujiashan|30.617|114.132|CN|Hubei|0
+Wujiayao|39.785|112.857|CN|Shanxi|0
+Wujiaying|24.875|102.845|CN|Yunnan|0
+Wujie|32.087|120.681|CN|Jiangsu|0
+Wujimi|45.219|127.836|CN|Heilongjiang|0
 Wujin|30.411|103.813|CN|Sichuan|0
+Wujing|34.316|107.825|CN|Shaanxi|0
+Wujing|25.253|114.611|CN|Guangdong|0
+Wujing|27.702|99.537|CN|Yunnan|0
+Wujingfu|23.567|116.070|CN|Guangdong|0
+Wukang|30.542|119.959|CN|Zhejiang|0
+Wukeng|28.242|120.402|CN|Zhejiang|0
+Wukeshu|46.073|123.710|CN|Jilin|0
+Wukou|28.981|117.239|CN|Jiangxi|0
+Wulaga|48.400|130.136|CN|Heilongjiang|0
 Wulan|36.565|104.684|CN|Gansu|0
+Wulan Hada|41.630|113.186|CN|Inner Mongolia|0
+Wulan Haye|41.181|112.376|CN|Inner Mongolia|0
 Wulaocun|32.034|118.796|CN|Jiangsu|0
+Wuleixiang|28.582|116.841|CN|Jiangxi|0
 Wulêswālī Bihsūd|34.344|67.906|AF|Maidan Wardak Province|0
 Wulêswālī Sayyid Karam|33.691|69.369|AF|Paktia|0
+Wuli|29.896|110.345|CN|Hubei|0
+Wuli|29.220|113.781|CN|Hubei|0
+Wuliangtai|40.047|111.782|CN|Inner Mongolia|0
+Wulie|19.286|108.784|CN|Hainan|0
+Wulie|32.859|120.242|CN|Jiangsu|0
+Wulijie|30.339|114.392|CN|Hubei|0
+Wulijie|25.331|118.271|CN|Fujian|0
+Wulin|44.819|129.792|CN|Heilongjiang|0
+Wulin|29.913|113.595|CN|Hubei|0
+Wuling|25.631|117.716|CN|Fujian|0
 Wuling|39.468|114.148|CN|Shanxi|0
 Wulipai|29.369|113.118|CN|Hunan|0
+Wulipu|30.737|112.201|CN|Hubei|0
+Wulong|30.707|122.518|CN|Zhejiang|0
+Wulong|34.752|105.522|CN|Gansu|0
+Wulong|23.323|112.188|CN|Guangdong|0
+Wulu Butie|49.892|124.346|CN|Inner Mongolia|0
+Wulublolong|-8.439|123.042|ID|East Nusa Tenggara|0
 Wuluhan|-8.338|113.550|ID|East Java|0
+Wulung|-7.193|111.397|ID|Central Java|0
+Wuluo|30.983|113.807|CN|Hubei|0
+Wuluo|28.093|108.793|CN|Guizhou|0
+Wuluquele|40.451|80.484|CN|Xinjiang|0
 Wuluswālī ‘Alīngār|34.835|70.359|AF|Laghman|0
 Wuma|28.017|120.666|CN|Zhejiang|0
 Wumahe|47.723|128.793|CN|Heilongjiang|0
+Wumaying|39.645|112.486|CN|Shanxi|0
 Wuming|23.161|108.273|CN|Guangxi|0
+Wunat|-8.526|120.221|ID|East Nusa Tenggara|0
+Wungwung|-6.800|111.221|ID|Central Java|0
+Wuning|37.368|121.556|CN|Shandong|0
+Wuning|29.259|120.231|CN|Zhejiang|0
+Wuniu|28.039|120.791|CN|Zhejiang|0
+Wunu’er|48.864|121.240|CN|Inner Mongolia|0
 Wuping|25.098|116.095|CN|Fujian|0
+Wupo|19.184|110.067|CN|Hainan|0
+Wupu|31.040|113.801|CN|Hubei|0
 Wuqi|36.926|108.172|CN|Shaanxi|0
 Wuqia|39.718|75.256|CN|Xinjiang|0
 Wuqiang|38.035|115.957|CN|Hebei|0
+Wuqiao|32.435|119.755|CN|Jiangsu|0
+Wuqiao|28.585|115.242|CN|Jiangxi|0
+Wuqishan|28.639|111.940|CN|Hunan|0
+Wuqu|27.234|119.566|CN|Fujian|0
+Wuquan|32.332|106.643|CN|Sichuan|0
+Wuquan|34.300|107.993|CN|Shaanxi|0
+Wureh|-8.306|123.042|ID|East Nusa Tenggara|0
 Wurigelebur|-3.763|138.809|ID|Highland Papua|0
+Wushan|32.137|113.071|CN|Hubei|0
+Wushan|25.251|113.480|CN|Guangdong|0
+Wushan|25.537|117.898|CN|Fujian|0
+Wushan|29.583|116.331|CN|Jiangxi|0
+Wushan|29.452|115.656|CN|Jiangxi|0
+Wushan|23.159|113.347|CN|Guangdong|0
+Wushan|32.308|111.356|CN|Hubei|0
+Wushengguan|31.677|114.040|CN|Hubei|0
 Wushi|41.215|79.232|CN|Xinjiang|0
+Wushi|24.575|113.596|CN|Guangdong|0
+Wushi|20.553|109.866|CN|Guangdong|0
+Wushi|23.626|115.194|CN|Guangdong|0
 Wushishi|9.730|6.073|NG|Niger State|0
 Wusitang Boyi|39.471|75.983|CN|Xinjiang|0
+Wusutu|41.652|112.742|CN|Inner Mongolia|0
 Wuṯahpūr|34.919|71.099|AF|Kunar|0
+Wutai|34.034|108.971|CN|Shaanxi|0
+Wutan|28.519|111.756|CN|Hunan|0
+Wutang|25.494|119.078|CN|Fujian|0
+Wutang|21.263|110.001|CN|Guangdong|0
+Wutong|25.729|118.743|CN|Fujian|0
+Wutong|27.890|119.510|CN|Zhejiang|0
+Wutongkou|30.693|114.403|CN|Hubei|0
+Wutumeiren|36.909|93.161|CN|Qinghai|0
+Wutun|34.638|109.295|CN|Shaanxi|0
+Wuwangkou|39.045|114.019|CN|Hebei|0
+Wuxi|31.309|118.656|CN|Anhui|0
+Wuxia|39.036|117.507|CN|Tianjin|0
+Wuxian|24.743|118.162|CN|Fujian|0
+Wuxiang|33.186|107.049|CN|Shaanxi|0
+Wuxiang|29.846|121.687|CN|Zhejiang|0
+Wuxihe|29.023|111.414|CN|Hunan|0
+Wuxing|31.009|118.782|CN|Anhui|0
+Wuxing|34.066|108.791|CN|Shaanxi|0
 Wuxuan|23.597|109.659|CN|Guangxi|0
 Wuxue Shi|29.915|115.414|CN|Hubei|0
+Wuxuete|46.091|83.961|CN|Heilongjiang|0
+Wuyahe|29.577|109.712|CN|Hunan|0
 Wuyang|33.439|113.610|CN|Henan|0
+Wuyang|29.847|118.652|CN|Anhui|0
+Wuyang|25.769|115.918|CN|Jiangxi|0
+Wuyang|21.348|110.688|CN|Guangdong|0
+Wuyang|28.519|116.010|CN|Jiangxi|0
+Wuyang|30.204|107.998|CN|Chongqing|0
+Wuyang|30.183|110.162|CN|Hubei|0
+Wuyangba|30.274|109.489|CN|Hubei|0
+Wuyanquan|30.355|111.322|CN|Hubei|0
+Wuyao|32.205|120.544|CN|Jiangsu|0
+Wuyapao|45.976|128.847|CN|Heilongjiang|0
 Wuyi|37.800|115.891|CN|Hebei|0
+Wuying|46.938|127.228|CN|Heilongjiang|0
+Wuyishan|28.005|117.811|CN|Jiangxi|0
 Wuyuan|30.515|120.949|CN|Zhejiang|0
 Wuyuan|29.250|117.855|CN|Jiangxi|0
 Wuyun|28.654|120.067|CN|Zhejiang|0
+Wuyun|23.396|115.780|CN|Guangdong|0
+Wuyun|49.278|129.638|CN|Heilongjiang|0
+Wuzhangyuan|34.284|107.613|CN|Shaanxi|0
 Wuzhi|24.322|111.233|CN|Guangxi|0
+Wuzhu|34.113|108.658|CN|Shaanxi|0
+Wuzu|30.173|115.936|CN|Hubei|0

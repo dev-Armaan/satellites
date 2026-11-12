@@ -1,5 +1,5 @@
 Myanmar|21.000|96.000|MM||155|c
-Mykolaiv|46.975|31.998|UA||120|r
+Mykolaiv|46.975|31.998|UA||121|r
 Mysuru|12.298|76.639|IN|Karnataka|119
 Mymensingh Division|24.729|90.381|BD||119|r
 Mykolayiv|46.976|31.993|UA|Mykolaiv|113
@@ -19,6 +19,7 @@ Myaungmya|16.599|94.921|MM|Ayeyarwady|95
 Myaydo|19.368|95.215|MM|Magway|95
 My Drarga|30.377|-9.473|MA|Souss-Massa|95
 Myrnohrad|48.310|37.265|UA|Donetsk|93
+Mycenae|37.731|22.756|GR|Peloponnese|93|f
 Myawaddy|16.689|98.509|MM|Kayin State|93
 Myski|53.716|87.797|RU|Kuzbass|93
 Myanaung|18.287|95.320|MM|Ayeyarwady|93
@@ -34,6 +35,7 @@ Myo Thit Ka|16.874|96.097|MM|Yangon|85
 Myyrmäki|60.267|24.847|FI|Uusimaa|85
 Myślenice|49.834|19.938|PL|Lesser Poland|85
 Myrtle Grove|30.421|-87.307|US|Florida|84
+Mỹ Sơn|15.763|108.124|VN|Da Nang City|83|f
 Myōden|35.694|139.929|JP|Chiba|83
 Mykolayiv|49.526|23.978|UA|Lviv|83
 Mykolaivka|48.862|37.768|UA|Donetsk|83
@@ -45,18 +47,25 @@ Myronivka|49.660|30.982|UA|Kyiv Oblast|81
 Mykonos|37.445|25.329|GR|South Aegean|81
 Myjava|48.759|17.569|SK|Trenčín Region|81
 Myrzakent|40.663|68.545|KZ|Turkistan|80
+Mývatn|65.600|-16.985|IS|Northeast|80|f
+Mykines|62.103|-7.604|FO|Vágar|79|f
 Myrtle Grove|34.135|-77.882|US|North Carolina|79
 Mystic Island|39.544|-74.382|US|New Jersey|79
 Myskhako|44.661|37.764|RU|Krasnodar Krai|78
+Myrtoan Sea|37.000|24.000|GR||78|f
 Mỹ Lộc|18.365|105.753|VN|Hà Tĩnh Province|77
+Mysore Zoo|12.301|76.669|IN|Karnataka|77|f
 Myadzyel|54.879|26.936|BY|Minsk|77
 Myers Corner|41.606|-73.873|US|New York|77
 Mynämäki|60.679|21.993|FI|Southwest Finland|76
 Myshkin|57.790|38.454|RU|Yaroslavl Oblast|75
 Mysen|59.554|11.326|NO|Østfold|75
 Mýrina|39.875|25.064|GR|North Aegean|75
+Mys Kril’on|45.893|142.081|RU|Sakhalin Oblast|74|f
 Mykulychyn|48.409|24.609|UA|Ivano-Frankivsk|74
 Mysłakowice|50.841|15.779|PL|Lower Silesia|74
+Myorodake|45.389|148.838|RU|Sakhalin Oblast|73|f
+Myrtos Gulf|38.343|20.491|GR|Ionian Islands|73|f
 Myrtletown|40.789|-124.130|US|California|73
 Mytchett|51.288|-0.729|GB|England|73
 Myasnikyan|40.180|43.919|AM|Armavir|73
@@ -65,6 +74,9 @@ Mykolaivka|50.941|34.374|UA|Sumy|73
 Mystrás|37.069|22.372|GR|Peloponnese|73
 Myrnyi|45.308|33.035|UA|Crimea|72
 Mystic|41.354|-71.966|US|Connecticut|72
+Myachkovo Airport|55.561|37.984|RU|Moscow Oblast|72|f
+Myitkyina Airport|25.382|97.354|MM|Kachin State|72|f
+Mytilene International Airport Odysseas Elytis|39.054|26.603|GR|North Aegean|72|f
 Mytholmroyd|53.731|-1.983|GB|England|72
 Myhove|48.156|25.376|UA|Chernivtsi|71
 Mykolayivka|47.539|30.760|UA|Odesa|71
@@ -72,6 +84,9 @@ Mykulyntsi|49.392|25.607|UA|Ternopil|71
 Myrtle Creek|43.020|-123.293|US|Oregon|71
 Mykhaylivka|45.113|33.611|UA|Crimea|70
 Myrtleford|-36.561|146.724|AU|Victoria|70
+Myeongseongsan|38.105|127.339|KR|Gangwon-do|70|f
+Myŏn-san|37.100|129.095|KR|Gangwon-do|70|f
+Myŏngbong-san|37.296|127.854|KR|Gangwon-do|70|f
 Myerstown|40.375|-76.303|US|Pennsylvania|70
 Mylau|50.619|12.265|DE|Saxony|70
 Mya Kaing|16.586|96.528|MM|Yangon|70
@@ -83,11 +98,14 @@ Myropillia|51.024|35.245|UA|Sumy|69
 Myrne|46.718|35.264|UA|Zaporizhzhia|69
 Mykhailo-Kotsiubynske|51.451|31.078|UA|Chernihiv Oblast|69
 Myauk Chaung|16.547|96.039|MM|Yangon|69
+Mykolaiv Airport|47.056|31.919|UA|Mykolaiv|69|f
 Mykhaylivka|45.950|29.697|UA|Odesa|68
 Myrtle Point|43.065|-124.139|US|Oregon|68
 Myrne|46.468|30.371|UA|Odesa|68
 Mykhailivka|48.498|38.900|UA|Luhansk|67
 Myan-Gokro|8.009|-5.419|CI|Vallée du Bandama District|67
+Myeik Archipelago|11.737|98.276|MM|Tanintharyi Region|67|f
+Mys Svyatoy Nos|68.158|39.741|RU|Murmansk|67|f
 Mykhailivka|46.281|32.653|UA|Kherson|67
 Mykolaivka|48.590|39.522|UA|Luhansk|67
 Myhiia|48.035|30.954|UA|Mykolaiv|66
@@ -102,6 +120,11 @@ Myatlevo|54.897|35.676|RU|Kaluga Oblast|66
 Myshuryn Rih|48.827|33.951|UA|Dnipropetrovsk|66
 Mykhaylo-Laryne|47.108|32.204|UA|Mykolaiv|66
 Myrne|46.250|33.466|UA|Kherson|65
+Myrhorod Airport|49.932|33.639|UA|Poltava|65|f
+Mys Fligeli|81.858|59.112|RU|Arkhangelskaya|65|f
+Mys Meri-Kharmsuort|80.599|44.913|RU|Arkhangelskaya|65|f
+Mys Tuzla|45.195|36.598|RU|Krasnodar Krai|65|f
+Mys Yelizavety|54.425|142.705|RU|Sakhalin Oblast|65|f
 Mytikas|38.444|23.654|GR|Central Greece|65
 Myazhysyatki|53.778|30.177|BY|Mogilev|65
 Mys-Kamennyy|68.460|73.590|RU|Yamalo-Nenets|65
@@ -116,6 +139,8 @@ Myrne|45.580|29.461|UA|Odesa|64
 Mykolayivka|45.907|30.222|UA|Odesa|64
 Mykhalcha|48.248|25.852|UA|Chernivtsi|63
 Mynkivtsi|48.854|27.109|UA|Khmelnytskyi|63
+Myall Lakes National Park|-32.507|152.270|AU|New South Wales|63|f
+Myeongjisan|37.941|127.432|KR|Gyeonggi-do|63|f
 Myggenäs|58.062|11.749|SE|Västra Götaland|63
 Mykolaivka|46.305|30.332|UA|Odesa|63
 Mylor Bridge|50.185|-5.080|GB|England|63
@@ -136,8 +161,93 @@ Myrove|47.773|34.730|UA|Dnipropetrovsk|60
 Mykilske|48.967|33.050|UA|Kirovohrad|60
 Mykolayivske|46.929|32.126|UA|Mykolaiv|60
 Mykanów|50.924|19.201|PL|Silesia|60
+Mytlashivka|49.973|32.310|UA|Cherkasy|60
+Mýrina|39.408|21.963|GR|Thessaly|60
+Myans|45.513|5.994|FR|Auvergne-Rhône-Alpes|60
+Myrtiá|37.714|21.349|GR|West Greece|59
+Myrovychi|50.087|32.135|UA|Cherkasy|59
+Mykhailivka|49.935|32.173|UA|Cherkasy|59
+Mykhnivtsi|49.930|32.869|UA|Poltava|59
+Myezhava|54.626|30.309|BY|Vitebsk|59
+Mykhailyky|49.968|34.146|UA|Poltava|59
+Mýtikas|38.997|20.706|GR|Epirus|59
+Myrtle Springs|32.610|-95.930|US|Texas|58
+Myrne|50.607|33.915|UA|Sumy|58
+Myrne|46.949|32.606|UA|Mykolaiv|58
+Myklegardfjellet|78.133|18.500|SJ|Svalbard|58|f
+Mynydd Graig Goch|53.013|-4.241|GB|Wales|58|f
+Mynydd Preseli|51.958|-4.783|GB|Wales|58|f
+Mynydd Tarw|52.882|-3.320|GB|Wales|58|f
 Myra|58.749|8.863|NO|Agder|58
+Mykolo-Hulak|47.936|32.894|UA|Mykolaiv|58
+Mýtikas|38.669|20.945|GR|West Greece|58
+Mykhaylivka|48.117|25.967|UA|Chernivtsi|57
+Myresjö|57.385|14.963|SE|Jönköping|57
+Myrne|46.811|32.313|UA|Mykolaiv|57
+Myronivka|48.905|33.116|UA|Kirovohrad|57
+Myponga|-35.404|138.471|AU|South Australia|57
+Myslibořice|49.103|15.985|CZ|Vysocina|57
+Myrony|47.947|29.575|UA|Odesa|57
+Myltsi|49.558|34.447|UA|Poltava|57
+Myrcha|48.826|22.465|UA|Zakarpattia|57
+Mykolayivka|47.371|31.261|UA|Mykolaiv|57
+Myriófyto|41.223|22.827|GR|Central Macedonia|57
+Myslejovice|49.406|17.028|CZ|Olomouc Region|57
+Mykolayivka|48.576|37.798|UA|Donetsk|56
+Myton|40.194|-110.062|US|Utah|56
+Myhai|47.009|30.005|UA|Odesa|56
+Mykhailivka|49.906|33.760|UA|Poltava|56
+Mykolaivka|46.871|36.054|UA|Zaporizhzhia|56
+Mýloi|37.553|22.717|GR|Peloponnese|56
+Mykhailivka|47.835|38.138|UA|Donetsk|56
+Mykhailo-Oleksandrivka|47.273|30.715|UA|Odesa|55
+Mykhaylivka|47.859|33.007|UA|Mykolaiv|55
+Mykilske|49.545|34.658|UA|Poltava|55
+Myrne|47.989|36.707|UA|Donetsk|55
+Myslina|48.948|21.855|SK|Prešov Region|55
+Mysłowice|53.894|15.634|PL|West Pomerania|55
+Mysločovice|49.256|17.566|CZ|Zlín|55
+Mykhaylivka|48.384|26.611|UA|Chernivtsi|55
+Myennes|47.446|2.934|FR|Bourgogne-Franche-Comté|55
+Mýto pod Ďumbierom|48.852|19.632|SK|Banská Bystrica Region|55
+Myrtle Point|49.798|-124.482|CA|British Columbia|55
+Mynytho|52.851|-4.517|GB|Wales|55
+Myrove|49.729|37.564|UA|Kharkiv|55
+Mykolaivka|48.766|33.621|UA|Dnipropetrovsk|55
+Myakka River State Park|27.242|-82.314|US|Florida|54|f
+Myeik Airport|12.440|98.621|MM|Tanintharyi Region|54|f
+Myingyi Kyun|16.617|94.297|MM|Ayeyarwady|54|f
+Myinmoletkat Taung|13.466|98.805|MM|Tanintharyi Region|54|f
+Myklevatnet|59.450|9.683|NO|Buskerud|54|f
+Mynäjärvi|60.760|22.361|FI|Southwest Finland|54|f
+Myōshin-ji|35.023|135.720|JP|Kyoto|54|f
+Myriad Islands|-65.077|-64.393|AQ||54|f
+Myrtle Beach International Airport|33.682|-78.923|US|South Carolina|54|f
+Myrtle Creek Municipal Airport|42.998|-123.316|US|Oregon|54|f
+Mys Buor-Khaya|71.944|132.767|RU|Sakha|54|f
+Mysore Airport|12.307|76.650|IN|Karnataka|54|f
+Mystic Lakes|42.433|-71.150|US|Massachusetts|54|f
+Mystic Seaport Marine Museum|41.362|-71.965|US|Connecticut|54|f
+Myczkowce|49.438|22.410|PL|Subcarpathia|54
+Myrtle|34.558|-89.119|US|Mississippi|54
 Mysovoe|45.448|35.835|UA|Crimea|53
+Myall Islands|-67.667|45.717|AQ||49|f
+Myers Glacier|-72.267|-100.117|AQ||49|f
+Myklebustbreen|61.731|6.685|NO|Vestland|49|f
+Mynydd Bach|52.283|-4.083|GB|Wales|49|f
+Mynydd Llangynidr|51.817|-3.317|GB|Wales|49|f
+Myponga Reservoir|-35.395|138.442|AU|South Australia|49|f
+Mystery Bay|-36.303|150.137|AU|New South Wales|49|f
+My Old Kentucky Home State Park|37.799|-85.458|US|Kentucky|40|f
+Myers Park|30.434|-84.272|US|Florida|40|f
+Mynttorget|59.327|18.069|SE|Stockholm|40|f
+Myrtle Beach State Park|33.656|-78.931|US|South Carolina|40|f
+Mysore Palace|12.306|76.657|IN|Karnataka|40|f
+Mysterious Valley Airport|38.752|-122.369|US|California|40|f
+Mystery Bay State Park|48.059|-122.694|US|Washington|40|f
+Mystery Mountain|63.517|-154.567|US|Alaska|40|f
+Mystic Lake|54.633|-101.950|CA|Saskatchewan|40|f
+Mystic Mountain|45.168|-109.840|US|Montana|40|f
 Mỹ Lộc|20.441|106.102|VN|Ninh Binh|0
 Mỹ Phước|10.477|106.193|VN|Dong Thap|0
 Mỹ Thọ|10.443|105.695|VN|Dong Thap|0

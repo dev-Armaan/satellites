@@ -20,10 +20,10 @@ Sao Rafael|-23.628|-46.454|BR|São Paulo|103
 Sao Lucas|-23.595|-46.544|BR|São Paulo|103
 São Mateus|-18.720|-39.859|BR|Espírito Santo|103
 São Félix do Xingu|-6.645|-51.995|BR|Pará|102
+São Tomé Island|0.250|6.600|ST||102|r
 São Lourenço da Mata|-8.002|-35.018|BR|Pernambuco|101
 São Gonçalo do Amarante|-5.793|-35.329|BR|Rio Grande do Norte|101
 São Pedro da Aldeia|-22.839|-42.103|BR|Rio de Janeiro|101
-São Tomé Island|0.250|6.600|ST||101|r
 São Cristóvão|-11.015|-37.206|BR|Sergipe|100
 São Sebastião|-15.903|-47.776|BR|Federal District|100
 São João del Rei|-21.136|-44.262|BR|Minas Gerais|100
@@ -154,15 +154,18 @@ São Martinho do Bispo|40.210|-8.457|PT|Coimbra|84
 São Félix do Coribe|-13.401|-44.195|BR|Bahia|84
 São João do Triunfo|-25.683|-50.297|BR|Paraná|84
 São Francisco do Pará|-1.169|-47.795|BR|Pará|83
+São Filipe Airport|14.885|-24.480|CV|São Filipe|83|f
 São José do Rio Claro|-13.447|-56.721|BR|Mato Grosso|83
 São Pedro da Água Branca|-5.085|-48.429|BR|Maranhão|83
 São Félix do Araguaia|-11.617|-50.669|BR|Mato Grosso|83
 São Pedro do Piauí|-5.929|-42.719|BR|Piauí|83
 São José do Cedro|-26.455|-53.494|BR|Santa Catarina|83
+São Miguel|15.200|-23.650|CV||83|r
 São João d'Aliança|-14.706|-47.525|BR|Goiás|83
 São João do Araguaia|-5.358|-48.791|BR|Pará|83
 São Ludgero|-28.326|-49.177|BR|Santa Catarina|83
 São Simão|-21.479|-47.551|BR|São Paulo|83
+São Carlos Airport|-21.876|-47.903|BR|São Paulo|82|f
 São Benedito do Sul|-8.807|-35.933|BR|Pernambuco|82
 São Luís do Curu|-3.670|-39.243|BR|Ceará|82
 São Miguel|-5.467|-35.367|BR|Rio Grande do Norte|82
@@ -175,7 +178,6 @@ São Miguel das Matas|-13.048|-39.456|BR|Bahia|81
 São Félix da Marinha|41.036|-8.623|PT|Porto|81
 São Bento do Sapucaí|-22.689|-45.731|BR|São Paulo|81
 São Sebastião do Uatumã|-2.565|-57.873|BR|Amazonas|81
-São Miguel|15.200|-23.650|CV||81|r
 São João do Manhuaçu|-20.394|-42.151|BR|Minas Gerais|81
 São Tiago|-20.913|-44.509|BR|Minas Gerais|81
 São Brás de Alportel|37.153|-7.888|PT|Faro|81
@@ -233,6 +235,7 @@ São Mamede|-6.927|-37.096|BR|Paraíba|77
 São Gonçalo do Abaeté|-18.338|-45.833|BR|Minas Gerais|77
 São José de Ubá|-21.358|-41.943|BR|Rio de Janeiro|77
 São Luiz|1.010|-60.043|BR|Roraima|77
+São Salvador do Mundo|15.083|-23.633|CV||77|r
 São Pedro do Turvo|-22.747|-49.740|BR|São Paulo|77
 São Pedro dos Ferros|-20.170|-42.524|BR|Minas Gerais|77
 São Roque de Minas|-20.245|-46.366|BR|Minas Gerais|77
@@ -290,6 +293,8 @@ São Francisco do Piauí|-7.251|-42.543|BR|Piauí|75
 São João do Manteninha|-18.721|-41.160|BR|Minas Gerais|75
 São José da Vitória|-15.081|-39.338|BR|Bahia|75
 São Felipe d'Oeste|-11.902|-61.502|BR|Rondônia|74
+São Miguel Island|37.776|-25.495|PT|Azores|74|f
+São Vicente Island|16.844|-24.974|CV|São Vicente|74|f
 São Tomé|-23.538|-52.591|BR|Paraná|74
 São Jorge do Ivaí|-23.433|-52.293|BR|Paraná|74
 São Nicolau|-28.183|-55.267|BR|Rio Grande do Sul|74
@@ -305,6 +310,8 @@ São João da Lagoa|-16.853|-44.352|BR|Minas Gerais|74
 São Francisco do Glória|-20.789|-42.267|BR|Minas Gerais|74
 São João dos Montes|38.939|-9.019|PT|Lisbon|74
 São Bento Abade|-21.584|-45.072|BR|Minas Gerais|73
+São Jorge Island|38.641|-28.037|PT|Azores|73|f
+São José do Rio Preto Airport|-20.817|-49.407|BR|São Paulo|73|f
 São José do Seridó|-6.449|-36.878|BR|Rio Grande do Norte|73
 São Roberto|-5.021|-44.991|BR|Maranhão|73
 São José da Varginha|-19.710|-44.557|BR|Minas Gerais|73
@@ -313,7 +320,6 @@ São João da Urtiga|-27.820|-51.828|BR|Rio Grande do Sul|73
 São Pedro da Cadeira|39.070|-9.372|PT|Lisbon|73
 São José do Hortêncio|-29.531|-51.248|BR|Rio Grande do Sul|73
 São João da Ponta|-0.850|-47.920|BR|Pará|73
-São Salvador do Mundo|15.083|-23.633|CV||73|r
 São Lourenço do Piauí|-9.172|-42.542|BR|Piauí|73
 São Félix de Balsas|-7.083|-44.813|BR|Maranhão|73
 São João da Varjota|-6.915|-41.864|BR|Piauí|73
@@ -371,6 +377,7 @@ São Miguel do Fidalgo|-7.584|-42.371|BR|Piauí|69
 São José do Povo|-16.465|-54.255|BR|Mato Grosso|69
 São Domingos do Sul|-28.531|-51.888|BR|Rio Grande do Sul|69
 São José do Mantimento|-20.005|-41.745|BR|Minas Gerais|69
+São Jorge Airport|38.666|-28.176|PT|Azores|69|f
 São Bernardino|-26.470|-52.964|BR|Santa Catarina|69
 São Pedro do Paraná|-22.824|-53.220|BR|Paraná|69
 São João do Polêsine|-29.614|-53.446|BR|Rio Grande do Sul|68
@@ -386,6 +393,8 @@ São José das Missões|-27.777|-53.117|BR|Rio Grande do Sul|67
 São Vicente|37.818|-25.666|PT|Azores|67
 São Sebastião do Rio Verde|-22.218|-44.976|BR|Minas Gerais|67
 São Miguel da Baixa Grande|-5.865|-42.187|BR|Piauí|67
+São Borja João Manoel Airport|-28.655|-56.035|BR|Rio Grande do Sul|67|f
+São Paulo–Guarulhos International Airport|-23.431|-46.481|BR|São Paulo|67|f
 São Vendelino|-29.369|-51.377|BR|Rio Grande do Sul|67
 São João do Pau d'Alho|-21.268|-51.666|BR|São Paulo|67
 São Valentim do Sul|-29.051|-51.768|BR|Rio Grande do Sul|67
@@ -406,13 +415,37 @@ São João da Paraúna|-16.815|-50.410|BR|Goiás|65
 São Pedro das Missões|-27.772|-53.255|BR|Rio Grande do Sul|65
 São José do Brejo do Cruz|-6.213|-37.352|BR|Paraíba|65
 São Jorge|32.817|-16.900|PT|Madeira|63
+São Jacinto Airport|40.657|-8.742|PT|Aveiro|63|f
+São Nicolau|16.611|-24.260|CV|Ribeira Brava|63|f
 São Marcos da Serra|37.361|-8.378|PT|Faro|63
 São Sebastião do Rio Preto|-19.292|-43.174|BR|Minas Gerais|62
 São Francisco|14.979|-23.493|CV|Praia|61
+São João del-Rei Airport|-21.087|-44.228|BR|Minas Gerais|61|f
+São Lourenço Airport|-22.091|-45.044|BR|Minas Gerais|61|f
 São Pedro|16.829|-25.066|CV|São Vicente|61
 São Bartolomeu|39.275|-9.279|PT|Lisbon|60
 São Luis|37.716|-8.665|PT|Beja|60
+São Jacinto|40.663|-8.729|PT|Aveiro|60
+Saobli|6.435|-8.390|CI|Montagnes|60
+Saom Klueng|13.705|107.376|KH|Ratanakiri|59
+São Paulo de Olivença Airport|-3.466|-68.919|BR|Amazonas|58|f
+Sao Paulo Museum of Art|-23.561|-46.656|BR|São Paulo|58|f
+São Pedro Municipal Airport|-22.583|-47.897|BR|São Paulo|58|f
+Saom Trak|13.709|107.406|KH|Ratanakiri|57
+São Jorge da Beira|40.170|-7.763|PT|Castelo Branco|57
 São Lourenço dos Órgãos|15.067|-23.600|CV||56|r
+São Martinho Grande|14.925|-23.568|CV|Ribeira Grande de Santiago|56
+São Jorge|15.013|-24.429|CV|São Filipe|56
+São Brissos|38.072|-7.947|PT|Beja|55
+Saota-Sokoro|9.677|-4.143|CI|Zanzan District|55
+São Matias|38.109|-7.856|PT|Beja|55
+São Jorge|39.635|-8.847|PT|Leiria|55
+São Félix do Araguaia Airport|-11.632|-50.690|BR|Mato Grosso|54|f
+São Félix do Xingu Airport|-6.642|-51.952|BR|Pará|54|f
+Sao Gabriel Da Cachoeira Airport|-0.148|-66.986|BR|Amazonas|54|f
+São Miguel do Oeste Airport|-26.782|-53.504|BR|Santa Catarina|54|f
+São Paulo Catarina Executive Airport|-23.427|-47.172|BR|São Paulo|54|f
+Saou|44.646|5.063|FR|Auvergne-Rhône-Alpes|54
 São Domingos do Guaporé|-12.075|-64.027|BR|Rondônia|0
 São Francisco de Itabapoana|-21.477|-41.108|BR|Rio de Janeiro|0
 São Francisco do Oeste|-5.999|-38.171|BR|Rio Grande do Norte|0

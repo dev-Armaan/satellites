@@ -3,8 +3,8 @@ Dallas|32.783|-96.807|US|Texas|122
 Daloa|6.877|-6.450|CI|Sassandra-Marahoue|113
 Ðà Lạt|11.946|108.442|VN|Lam Dong|108
 Dali|25.585|100.212|CN|Yunnan|107
+Dalarna|61.000|14.500|SE||107|r
 Daliang|22.841|113.250|CN|Guangdong|106
-Dalarna|61.000|14.500|SE||106|r
 Dalūpura|28.606|77.319|IN|Delhi|104
 Daly City|37.706|-122.462|US|California|101
 Dalai|45.500|124.300|CN|Jilin|99
@@ -16,14 +16,18 @@ Dalli Rājhara|20.586|81.075|IN|Chhattisgarh|93
 Dalnegorsk|44.557|135.621|RU|Primorye|92
 Dalton|34.770|-84.970|US|Georgia|91
 Dalung|-8.626|115.170|ID|Bali|90
+Dallas/Fort Worth International Airport|32.896|-97.037|US|Texas|90|f
 Dalnerechensk|45.931|133.739|RU|Primorye|89
+Dalaman Airport|36.713|28.793|TR|Muğla|89|f
 Dalfsen|52.512|6.257|NL|Overijssel|88
+Dalian Zhoushuizi International Airport|38.966|121.539|CN|Liaoning|88|f
 Daliyat al Karmel|32.694|35.047|IL|Haifa|88
 Dalandzadgad|43.571|104.425|MN|Ömnögovĭ|88
 Dalsingh Sarai|25.668|85.836|IN|Bihar|88
 Dalyoni Bolo|39.749|68.996|TJ|Sughd|87
 Dalmine|45.649|9.606|IT|Lombardy|87
 Dalat|2.667|112.083|MY|Sarawak|87
+Dallas Love Field|32.847|-96.852|US|Texas|86|f
 Dalap-Uliga-Dorrit|7.087|171.377|MH|Majuro Atoll|86
 Dalaman|36.766|28.803|TR|Muğla|86
 Dalserf|55.733|-3.917|GB|Scotland|85
@@ -33,6 +37,8 @@ Dallas|44.919|-123.317|US|Oregon|84
 Dalbandin|28.888|64.406|PK|Balochistan|83
 Dalmatovo|56.260|62.935|RU|Kurgan Oblast|83
 Dalipuga|8.316|124.255|PH|Northern Mindanao|83
+Dalanzadgad Airport|43.609|104.367|MN|Ömnögovĭ|83|f
+Dall Island|54.956|-133.059|US|Alaska|83|f
 Dalican|6.967|124.400|PH|Autonomous Region in Muslim Mindanao|83
 Dalcahue|-42.378|-73.650|CL|Los Lagos Region|82
 Dallas|33.924|-84.841|US|Georgia|82
@@ -40,23 +46,32 @@ Dalby|-27.182|151.262|AU|Queensland|82
 Dalkeith|55.893|-3.068|GB|Scotland|82
 Dáli|35.023|33.422|CY|Nicosia|82
 Dalmau|26.065|81.030|IN|Uttar Pradesh|81
+Dala Airport|60.428|15.505|SE|Dalarna|80|f
 Dalakovo|43.238|44.590|RU|Ingushetiya Republic|80
 Dalaba|10.692|-12.250|GN|Mamou Region|80
 Dalgety Bay|56.035|-3.350|GB|Scotland|80
 Dalumangcob|7.217|124.300|PH|Autonomous Region in Muslim Mindanao|79
+Dallas Executive Airport|32.681|-96.868|US|Texas|79|f
+Daloa Airport|6.793|-6.473|CI|Sassandra-Marahoue|79|f
 Dalmuir|55.911|-4.429|GB|Scotland|79
 Dalhart|36.059|-102.513|US|Texas|78
 Dalingxia|22.543|114.004|CN|Guangdong|78
+Dalymount Park|53.362|-6.275|IE|Leinster|78|f
 Dalaguete|9.761|123.535|PH|Central Visayas|78
 Dalton in Furness|54.158|-3.180|GB|England|78
 Dalavaipatti|11.661|78.083|IN|Tamil Nadu|78
+Dalma Airport|24.503|52.336|AE|Abu Dhabi|78|f
 Dalhousie|32.552|75.947|IN|Himachal Pradesh|78
 Dala|-11.033|20.200|AO|Lunda Sul|78
 Dala|-13.783|16.717|AO|Bíe|78
 Dallgow-Döberitz|52.543|13.058|DE|Brandenburg|77
 Dalton|42.474|-73.166|US|Massachusetts|77
+Dalhart Municipal Airport|36.022|-102.548|US|Texas|77|f
+Dalton Municipal Airport|34.722|-84.869|US|Georgia|77|f
 Dalkey|53.278|-6.100|IE|Leinster|76
 Dālakī|29.429|51.293|IR|Bushehr|76
+Dal Lake|34.124|74.867|IN|Jammu and Kashmir|76|f
+Dalai Nur|43.300|116.617|CN|Inner Mongolia|76|f
 Dalhem|50.713|5.728|BE|Wallonia|76
 Dalby|55.667|13.350|SE|Skåne|76
 Dalry|55.710|-4.722|GB|Scotland|75
@@ -64,6 +79,8 @@ Dalavaypuram|9.392|77.498|IN|Tamil Nadu|75
 Dallar|40.863|46.035|AZ|Şǝmkir|75
 Dalimammadli|40.694|46.574|AZ|Goranboy District|74
 Dalgopol|43.050|27.350|BG|Varna|74
+Dallas Museum of Art|32.788|-96.801|US|Texas|74|f
+Dallas Reef|7.617|113.783|||74|f
 Daleville|31.310|-85.713|US|Alabama|74
 Dalyan|36.834|28.645|TR|Muğla|74
 Dalwangan|8.201|125.041|PH|Northern Mindanao|74
@@ -76,6 +93,7 @@ Dalías|36.822|-2.871|ES|Andalusia|72
 Dallastown|39.900|-76.640|US|Pennsylvania|72
 Dalupaon|13.552|122.946|PH|Bicol Region|72
 Dalirig|8.377|124.901|PH|Northern Mindanao|71
+Dalarö Fort|59.113|18.390|SE|Stockholm|71|f
 Dalsjöfors|57.717|13.083|SE|Västra Götaland|71
 Dalen|52.699|6.756|NL|Drenthe|70
 Dalhousie|48.064|-66.375|CA|New Brunswick|70
@@ -89,6 +107,7 @@ Daleszyce|50.802|20.808|PL|Świętokrzyskie|69
 Dalj|45.484|18.986|HR|County of Osijek-Baranja|69
 Dallas|41.336|-75.963|US|Pennsylvania|69
 Dalar|39.975|44.528|AM|Ararat|69
+Dalupirit Island|12.413|124.264|PH|Eastern Visayas|69|f
 Dalorong|7.586|125.133|PH|Northern Mindanao|68
 Dalupirip|16.326|120.724|PH|Cordillera|68
 Daleville|37.410|-79.913|US|Virginia|68
@@ -97,12 +116,16 @@ Dalton Gardens|47.730|-116.770|US|Idaho|68
 Dalworthington Gardens|32.703|-97.155|US|Texas|68
 Daliao|5.861|124.953|PH|Soccsksargen|67
 Daliciasao|9.986|122.762|PH|Western Visayas|67
+Dalrymple, Mount|-77.933|-86.050|AQ||67|f
 Dala|33.883|103.333|CN|Gansu|67
 Daliang|39.539|117.095|CN|Tianjin|67
 Dalipey|16.800|120.717|PH|Cordillera|67
 Dalmeny|-36.166|150.129|AU|New South Wales|66
 Dalovice|50.248|12.896|CZ|Carlsbad Region|65
 Dalangbo|9.066|-5.613|CI|Savanes District|65
+Dallas Peak|37.988|-107.824|US|Colorado|65|f
+Dalma Island|24.511|52.309|AE|Abu Dhabi|65|f
+Dalou Shan|28.000|106.833|CN||65|f
 Dalton|40.799|-81.695|US|Ohio|65
 Dalarö|59.133|18.406|SE|Stockholm|65
 Dalama|37.790|28.066|TR|Aydın|65
@@ -115,6 +138,10 @@ Dale|40.017|-86.400|US|Indiana|64
 Dale|38.169|-86.990|US|Indiana|64
 Dalrymple|55.398|-4.592|GB|Scotland|64
 Dalmeny|52.341|-106.771|CA|Saskatchewan|64
+Dalian Bay|38.950|121.750|CN|Liaoning|63|f
+Dalmasan|34.385|126.587|KR|Jeollanam-do|63|f
+Dalton Bridge|43.277|-71.811|US|New Hampshire|63|f
+Daly Bjerge|83.367|-27.167|GL||63|f
 Dâlga-Gară|44.433|27.050|RO|Călărași County|63
 Dals Långed|58.926|12.309|SE|Västra Götaland|63
 Dalmellington|55.324|-4.402|GB|Scotland|63
@@ -132,17 +159,152 @@ Dale|60.586|5.819|NO|Vestland|62
 Dale|61.364|5.400|NO|Vestland|61
 Dale|40.313|-78.904|US|Pennsylvania|61
 Dalheim|51.150|6.183|DE|North Rhine-Westphalia|61
+Dale Castle|51.708|-5.178|GB|Wales|61|f
+Dålk Island|-69.383|76.508|AQ||61|f
+Dallas South Port Airport|32.478|-96.684|US|Texas|61|f
+Daly Waters Airfield|-16.266|133.384|AU|Northern Territory|61|f
 Dalboșeț|44.864|21.959|RO|Caraș-Severin County|61
 Da La Ban|16.944|96.360|MM|Yangon|60
 Dalnic|45.922|25.987|RO|Covasna County|60
 Dalheim|49.827|8.295|DE|Rheinland-Pfalz|60
+Dalton|44.416|-71.695|US|New Hampshire|60
 Dalaas|47.124|9.991|AT|Vorarlberg|60
+Dallas City|40.636|-91.167|US|Illinois|59
+Dalem|51.828|5.010|NL|South Holland|59
+Daleiden|50.070|6.184|DE|Rheinland-Pfalz|59
+Daliyya|32.590|35.073|IL|Northern District|59
+Dals Rostock|58.717|12.350|SE|Västra Götaland|59
+Dălghiu|45.571|25.911|RO|Brașov County|59
+Dalton|33.017|35.489|IL|Northern District|59
+Dalwallinu|-30.280|116.660|AU|Western Australia|58
+Dalecarlia Reservoir|38.939|-77.111|US|District of Columbia|58|f
+Dalkey Island|53.270|-6.082|IE|Leinster|58|f
+Dalslands Kanal|58.850|12.400|SE|Västra Götaland|58|f
+Dalupiri Island|19.089|121.227|PH|Cagayan Valley|58|f
 Dalekoye|45.660|33.081|UA|Crimea|58
+Dale|61.775|9.495|NO|Innlandet|58
+Daldorf|54.017|10.249|DE|Schleswig-Holstein|58
+Dalstorp|57.604|13.523|SE|Västra Götaland|57
+Dal Pozzo|45.631|9.055|IT|Lombardy|57
+Dâlga|44.442|27.073|RO|Călărași County|57
+Dalečín|49.591|16.240|CZ|Vysocina|57
+Dălhăuți|45.692|27.049|RO|Vrancea|57
+Dalbahçe|39.668|43.845|TR|Ağrı|57
+Dalzell|41.358|-89.176|US|Illinois|57
+Dalou|43.034|1.641|FR|Occitanie|57
+Dalum|57.899|13.465|SE|Västra Götaland|56
+Dalerpeel|52.680|6.660|NL|Drenthe|56
+Dalem|49.241|6.612|FR|Grand Est|56
+Dalešice|49.129|16.082|CZ|Vysocina|55
+Dalīr|36.326|51.093|IR|Māzandarān|55
+Dalyston|-38.567|145.550|AU|Victoria|55
 Dalen|59.445|8.005|NO|Telemark|55
+Dale|44.273|-88.678|US|Wisconsin|54
+Dalton City|39.712|-88.805|US|Illinois|54
+Dalbandin Airport|28.878|64.400|PK|Balochistan|54|f
+Dalby Airport|-27.159|151.263|AU|Queensland|54|f
+Dali Airport|25.649|100.319|CN|Yunnan|54|f
+Dalí Theatre and Museum|42.268|2.959|ES|Catalonia|54|f
+Dålk Glacier|-69.426|76.472|AQ||54|f
+Dallāta|33.017|35.500|IL|Northern District|54|f
+Dallund Slot|55.486|10.274|DK|South Denmark|54|f
+Dalsfjorden|61.333|5.100|NO|Vestland|54|f
+Dalsnibba|62.049|7.269|NO|Møre og Romsdal|54|f
+Dalsnuten Peak|-72.592|-3.183|AQ||54|f
+Dalton Airport|43.057|-83.804|US|Michigan|54|f
+Dalys Island|42.839|-73.997|US|New York|54|f
+Dalton|54.183|-1.350|GB|England|54
+Dallıca|41.662|32.330|TR|Bartın|54
+Dallıağaç|37.298|41.060|TR|Mardin|54
 Dalików|51.885|19.119|PL|Łódź Voivodeship|52
+Dalldorf|53.435|10.612|DE|Schleswig-Holstein|51
+Dale Glacier|-78.283|162.033|AQ||49|f
+Dale Head|54.527|-3.202|GB|England|49|f
+Dales Island|-67.175|59.751|AQ||49|f
+Dallmeyer Peak|-64.904|-62.740|AQ||49|f
+Dally Castle|55.153|-2.355|GB|England|49|f
+Dalmeny, Mount|-71.117|166.917|AQ||49|f
+Dalrymple National Park|-19.810|146.106|AU|Queensland|49|f
+Dalton Glacier|-77.550|-152.417|AQ||49|f
+Dalziel Ridge|-70.207|-63.866|AQ||49|f
+Dalberg|49.900|7.733|DE|Rheinland-Pfalz|48
+Dalaffilla|13.792|40.550|ET||40|f
+Dalby|53.207|0.113|GB|England|40|f
+Dalby Forest|54.264|-0.693|GB|England|40|f
+Dale Maffitt Reservoir|41.513|-93.793|US|Iowa|40|f
+Dalem Lake|46.249|-60.429|CA|Nova Scotia|40|f
+Dalem Lake Provincial Park|46.250|-60.432|CA|Nova Scotia|40|f
+Dalemain|54.634|-2.811|GB|England|40|f
+Dalgopol Glacier|-62.921|-62.462|AQ||40|f
+Dalhousie Mountain|45.567|-62.965|CA|Nova Scotia|40|f
+Dalhousie Obelisk|1.287|103.852|SG||40|f
+Dalhousie University|44.637|-63.591|CA|Nova Scotia|40|f
+Dall Glacier|62.674|-152.060|US|Alaska|40|f
+Dall Lake|60.165|-163.755|US|Alaska|40|f
+Dall River Old Growth Park|58.650|-127.703|CA|British Columbia|40|f
+Dallam Tower|54.223|-2.782|GB|England|40|f
+Dallas Reunion Arena|32.773|-96.808|US|Texas|40|f
+Dallmannberge|-71.800|10.500|AQ||40|f
+Dalsfjord|62.133|5.950|NO|Møre og Romsdal|40|f
+Dalston Hall|54.855|-2.972|GB|England|40|f
+Dalton Digby Wildlands Provincial Park|44.817|-78.983|CA|Ontario|40|f
 Dala Cachibo|-10.465|14.646|AO|Kwanza Sul|0
+Dalai|46.682|129.946|CN|Heilongjiang|0
+Dalai|44.626|112.989|CN|Inner Mongolia|0
+Dalai|49.127|116.971|CN|Inner Mongolia|0
+Dalaidong|49.380|117.110|CN|Inner Mongolia|0
+Dalam|-8.742|116.849|ID|West Nusa Tenggara|0
+Dalam|-8.515|116.995|ID|West Nusa Tenggara|0
+Dalam Daya|-8.680|116.471|ID|West Nusa Tenggara|0
+Dalamdesa Kalapadua|-7.004|108.227|ID|West Java|0
+Dalamdesa Selatan|-8.594|116.412|ID|West Nusa Tenggara|0
+Dalang|24.450|112.487|CN|Guangdong|0
+Dalang|22.948|113.928|CN|Guangdong|0
+Dalang|22.678|114.009|CN|Guangdong|0
+Dalangdesa|-8.440|115.081|ID|Bali|0
+Dalanqi|41.147|111.746|CN|Inner Mongolia|0
 Dalay|43.468|103.513|MN|Ömnögovĭ|0
+Dalazi|42.639|129.562|CN|Jilin|0
 Dale|51.709|-5.173|GB|Wales|0
+Daleman|-6.896|113.761|ID|East Java|0
+Daleman|-7.092|114.323|ID|East Java|0
+Daleman Tengah|-7.105|113.591|ID|East Java|0
+Daleum|-6.752|105.969|ID|Banten|0
 Dali|34.796|109.939|CN|Shaanxi|0
+Dali|23.120|113.117|CN|Guangdong|0
+Dalian|25.640|119.686|CN|Fujian|0
+Dalian|41.070|122.599|CN|Liaoning|0
+Dalianhe|46.169|129.404|CN|Heilongjiang|0
+Dalikou|26.889|118.002|CN|Fujian|0
+Daling|23.016|114.696|CN|Guangdong|0
+Daling|45.506|127.113|CN|Heilongjiang|0
+Dalinhe|39.556|113.361|CN|Shanxi|0
+Daliu|33.504|113.903|CN|Henan|0
+Daliu|33.016|110.736|CN|Hubei|0
+Daliuhang|37.608|121.048|CN|Shandong|0
+Daliuhao|41.226|113.291|CN|Inner Mongolia|0
+Daliyuan|27.184|103.486|CN|Yunnan|0
+Dalizi|41.730|126.833|CN|Jilin|0
 Dallıbahçe|39.133|39.879|TR|Tunceli|0
+Dalo|-8.659|120.697|ID|East Nusa Tenggara|0
+Dalong|31.434|118.713|CN|Anhui|0
+Dalong|22.958|113.427|CN|Guangdong|0
+Dalong|29.744|116.384|CN|Jiangxi|0
+Dalong|-8.565|119.936|ID|East Nusa Tenggara|0
+Dalongdong|28.279|109.477|CN|Hunan|0
+Dalonghua|24.063|116.313|CN|Guangdong|0
+Dalongtan|24.436|102.108|CN|Yunnan|0
+Dalongzhan|29.205|111.753|CN|Hunan|0
+Dalu|32.215|119.732|CN|Jiangsu|0
+Dalu|19.390|110.465|CN|Hainan|0
+Dalu|40.995|125.771|CN|Jilin|0
+Dalu|29.599|114.432|CN|Hubei|0
+Dalu|28.143|108.954|CN|Guizhou|0
+Dalubian|25.028|112.620|CN|Guangdong|0
+Dalucao|28.017|107.300|CN|Guizhou|0
 Dalududalu|1.081|100.245|ID|Riau|0
+Dalukou|30.274|114.999|CN|Hubei|0
+Dalun|32.444|120.242|CN|Jiangsu|0
+Daluo|26.251|117.789|CN|Fujian|0
+Daluo|46.623|127.572|CN|Heilongjiang|0
+Daluomi|45.957|129.205|CN|Heilongjiang|0

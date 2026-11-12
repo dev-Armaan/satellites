@@ -50,9 +50,9 @@ Yurimaguas|-5.902|-76.122|PE|Loreto|92
 Yuntai|30.139|107.205|CN|Chongqing|92
 Yuzhnoural’sk|54.448|61.264|RU|Chelyabinsk|92
 Yuanyang|29.666|106.557|CN|Chongqing|91
+Yukon|63.000|-135.004|CA||91|r
 Yufu|33.196|131.378|JP|Oita|90
 Yubileyny|55.933|37.833|RU|Moscow Oblast|90
-Yukon|63.000|-135.004|CA||90|r
 Yurigaoka|33.847|130.630|JP|Fukuoka|90
 Yushan|29.533|108.425|CN|Chongqing|90
 Yugorsk|61.312|63.331|RU|Khanty-Mansia|90
@@ -78,6 +78,7 @@ Yunshan|34.761|105.793|CN|Gansu|84
 Yulong|29.546|105.810|CN|Chongqing|84
 Yumare|10.597|-68.673|VE|Yaracuy|84
 Yutz|49.356|6.193|FR|Grand Est|84
+Yushan|23.470|120.957|TW|Taiwan|84|f
 Yùmén|40.291|97.045|CN|Gansu|84
 Yulong|33.510|105.181|CN|Gansu|84
 Yu Chui|22.381|114.205|HK|Sha Tin|83
@@ -89,9 +90,11 @@ Yuza|39.016|139.929|JP|Yamagata|83
 Yuryuzan’|54.863|58.422|RU|Chelyabinsk|83
 Yundum|13.346|-16.673|GM|Western|82
 Yuet Wu|22.375|113.968|HK|Tuen Mun|82
+Yunaska Island|52.631|-170.697|US|Alaska|82|f
 Yuelai|30.205|108.267|CN|Chongqing|82
 Yuasa|34.037|135.180|JP|Wakayama|82
 Yunguyo|-16.250|-69.083|PE|Puno|82
+Yuma International Airport|32.656|-114.606|US|Arizona|81|f
 Yulee|30.632|-81.606|US|Florida|81
 Yüzüncü Yıl|39.703|43.039|TR|Ağrı|81
 Yur’yevets|57.312|43.104|RU|Ivanovo Oblast|81
@@ -135,6 +138,9 @@ Yumaguzino|52.904|56.393|RU|Bashkortostan Republic|75
 Yulin|31.675|109.486|CN|Chongqing|75
 Yūsefābād|35.581|51.052|IR|Tehran|74
 Yungay|-9.138|-77.744|PE|Ancash|74
+Yuba County Airport|39.097|-121.571|US|California|74|f
+Yucatan Channel|21.750|-85.750|MX||74|f
+Yugorski Strait|69.721|60.580|RU|Nenets|74|f
 Yue On Court|22.243|114.157|HK|Southern District|74
 Yuquanying|38.138|105.985|CN|Ningxia|74
 Yu'hu Bay|22.574|113.854|CN|Guangdong|74
@@ -152,6 +158,8 @@ Yurino|56.294|46.302|RU|Mariy-El Republic|72
 Yushala|57.076|64.260|RU|Sverdlovsk Oblast|72
 Yurla|59.324|54.322|RU|Perm Krai|72
 Yunomae|32.283|130.983|JP|Kumamoto|72
+Yuendumu Airport|-22.254|131.782|AU|Northern Territory|71|f
+Yuri-tō|43.421|146.077|RU|Sakhalin Oblast|71|f
 Yuma|40.122|-102.725|US|Colorado|71
 Yurovka|45.115|37.419|RU|Krasnodar Krai|71
 Yuzhna Lomuvatka|48.438|38.531|UA|Luhansk|71
@@ -160,6 +168,10 @@ Yuzhnyy|44.721|39.879|RU|Krasnodar Krai|70
 Yusuhara|33.383|132.917|JP|Kochi|70
 Yunquera|36.733|-4.921|ES|Andalusia|70
 Yunwu|30.601|109.125|CN|Chongqing|70
+Yucatan Peninsula|19.693|-89.050|MX||70|f
+Yucca Valley Airport|34.129|-116.407|US|California|70|f
+Yueyang Sanhe Airport|29.314|113.281|CN|Hunan|70|f
+Yuzhno-Kurilsk Mendeleyevo Airport|43.961|145.685|RU|Sakhalin Oblast|70|f
 Yuzhnyy|54.548|20.598|RU|Kaliningrad Oblast|70
 Yupiltepeque|14.197|-89.793|GT|Jutiapa|70
 Yue Fai Court|22.250|114.157|HK|Southern District|70
@@ -167,6 +179,10 @@ Yubilyeyny|53.819|27.521|BY|Minsk|70
 Yuganets|56.251|43.231|RU|Nizhny Novgorod Oblast|70
 Yurivka|48.505|38.978|UA|Luhansk|69
 Yurkivka|49.011|31.088|UA|Cherkasy|69
+Yulin Fumian Airport|22.438|110.121|CN|Guangxi|69|f
+Yuncheng Guangong Airport|35.115|111.036|CN|Shanxi|69|f
+Yunt Mountains|38.900|27.317|TR|İzmir Province|69|f
+Yuzhny Island|71.831|54.223|RU|Nenets|69|f
 Yue Kwong Chuen|22.252|114.158|HK|Southern District|69
 Yushan|26.909|118.567|CN|Fujian|68
 Yumani|-16.036|-69.148|BO|La Paz Department|68
@@ -177,6 +193,7 @@ Yubo|10.390|123.069|PH|Western Visayas|68
 Yuscarán|13.944|-86.852|HN|El Paraíso Department|67
 Yuhexin|22.565|113.879|CN|Guangdong|67
 Yuzhnyy-Kospashskiy|58.972|57.759|RU|Perm Krai|67
+Yumyeongsan|37.575|127.487|KR|Gyeonggi-do|67|f
 Yulara|-25.241|130.989|AU|Northern Territory|67
 Yuryivka|48.743|36.017|UA|Dnipropetrovsk|67
 Yudomari|30.235|130.479|JP|Kagoshima|66
@@ -184,6 +201,9 @@ Yuyama|32.329|131.055|JP|Kumamoto|66
 Yücekapı|39.753|42.739|TR|Ağrı|66
 Yüzbaşılar|39.998|44.051|TR|Iğdır|66
 Yukhari Dashkasan|40.494|46.072|AZ|Daşkǝsǝn|66
+Yüksekova Airport|37.550|44.238|TR|Hakkâri|65|f
+Yulin Yuyang Airport|38.269|109.731|CN|Shaanxi|65|f
+Yulong Shan|27.167|100.333|CN|Yunnan|65|f
 Yurkivtsi|48.502|25.933|UA|Chernivtsi|65
 Yuala|7.567|-6.517|CI|Sassandra-Marahoue|65
 Yunakivka|51.123|35.038|UA|Sumy|65
@@ -195,6 +215,12 @@ Yukarıgöçmez|39.303|42.906|TR|Ağrı|64
 Yuxarı Aran|39.734|47.655|AZ|Beyləqan|64
 Yuvileyne|46.487|33.215|UA|Kherson|64
 Yüreğil|39.025|31.027|TR|Afyonkarahisar Province|63
+Yubanare Island|28.129|129.149|JP|Kagoshima|63|f
+Yuda-damu|39.301|140.885|JP|Iwate|63|f
+Yumbel Trilahue Airport|-37.133|-72.414|CL|Biobio|63|f
+Yumenoshima Park|35.649|139.826|JP|Tokyo|63|f
+Yun Feng|23.354|120.976|TW|Takao|63|f
+Yushu Batang|32.836|97.036|CN|Qinghai|63|f
 Yuvaca|37.646|27.253|TR|Aydın|63
 Yūsef Reẕā|35.358|51.693|IR|Tehran|63
 Yūnakī|31.264|51.232|IR|Chaharmahal and Bakhtiari|63
@@ -210,54 +236,285 @@ Yuzvyn|49.203|28.221|UA|Vinnytsia|62
 Yuvallim|32.878|35.270|IL|Northern District|61
 Yutanduchi de Guerrero|17.040|-97.298|MX|Oaxaca|61
 Yuzhynets|48.538|25.661|UA|Chernivtsi|61
+Yucca Airstrip|36.930|-116.008|US|Nevada|61|f
+Yuelu Shan|28.183|112.933|CN|Hunan|61|f
+Yuen Chau Tsai|22.448|114.175|HK||61|f
+Yukon Delta National Wildlife Refuge|61.329|-163.138|US|Alaska|61|f
+Yushima Seidō|35.701|139.766|JP|Tokyo|61|f
+Yuzhno Atanasovsko Ezero|42.531|27.480|BG|Burgas|61|f
+Yuzhno-Sakhalinsk Airport|46.896|142.739|RU|Sakhalin Oblast|61|f
 Yukarıkaşıkara|38.346|30.867|TR|Isparta|61
 Yukarı Küpkıran|39.707|43.255|TR|Ağrı|61
+Yurtsovo|55.318|39.196|RU|Moscow Oblast|60
+Yurovo|55.504|38.375|RU|Moscow Oblast|60
+Yutanino|16.791|-97.461|MX|Oaxaca|60
+Yukhnovka|53.975|27.859|BY|Minsk|60
+Yurivka|49.943|27.784|UA|Zhytomyr Oblast|59
+Yukarı Karataş|36.924|40.057|TR|Şanlıurfa|59
+Yucuñuti de Benito Juárez|17.636|-97.891|MX|Oaxaca|59
+Yukarıdamla|39.215|43.061|TR|Ağrı|59
+Yumbatos|-6.320|-76.298|PE|San Martín Department|59
+Yuryivka|47.034|32.843|UA|Mykolaiv|58
+Yukarıtopraklı|39.906|44.432|TR|Iğdır|58
+Yurtbeyi|39.753|32.874|TR|Ankara|58
+Yuzhno-Yeniseyskiy|58.784|94.629|RU|Krasnoyarsk Krai|58
+Yucca House National Monument|37.248|-108.686|US|Colorado|58|f
+Yucca Mountain|36.941|-116.455|US|Nevada|58|f
+Yudong Chang Jiang Daqiao|29.403|106.496|CN|Chongqing|58|f
+Yukness Mountain|51.350|-116.302|CA|British Columbia|58|f
+Yukshin Gardan Sar|36.252|75.376|PK|Gilgit-Baltistan|58|f
+Yule Island|-8.818|146.531|PG|Central Province|58|f
+Yunyang Chang Jiang Daqiao|30.914|108.711|CN|Chongqing|58|f
+Yukarı Süphan|38.825|42.857|TR|Bitlis|58
+Yutandayoo|16.457|-98.077|MX|Oaxaca|58
+Yumaklar|37.148|30.986|TR|Antalya|58
+Yūkhān|30.755|48.431|IR|Khuzestan|58
+Yukarınarlı|41.183|35.266|TR|Samsun|58
+Yukarı Beğdeş|36.846|38.905|TR|Şanlıurfa|58
+Yukarıtandır|38.927|30.443|TR|Afyonkarahisar Province|57
 Yuyapichis|-9.628|-74.975|PE|Huánuco Department|57
+Yukarı Karafakılı|36.798|36.465|TR|Hatay|57
+Yurove|51.361|27.833|UA|Zhytomyr Oblast|57
+Yukarı Çarıkçı|39.963|43.938|TR|Iğdır|57
+Yuva|40.766|31.788|TR|Bolu|57
+Yuendumu|-22.256|131.793|AU|Northern Territory|57
+Yumrukaya|40.718|31.497|TR|Bolu|57
+Yukarı Dalören|39.424|43.613|TR|Ağrı|57
+Yukki|60.110|30.285|RU|Leningradskaya Oblast'|57
 Yupán|-8.615|-77.969|PE|Ancash|57
+Yumrucuk|37.124|40.340|TR|Mardin|57
+Yukarıazıklı|37.267|40.676|TR|Mardin|57
+Yukon|40.213|-79.683|US|Pennsylvania|57
+Yuliyivka|47.703|35.439|UA|Zaporizhzhia|57
+Yukarı Balcılar|37.917|42.599|TR|Siirt|57
+Yurkino|56.733|37.600|RU|Moscow Oblast|56
+Yuval|33.246|35.597|IL|Northern District|56
+Yunuslar|39.115|29.483|TR|Kütahya|56
+Yutecoso Cuauhtémoc|16.923|-97.701|MX|Oaxaca|56
+Yukarıdüzmeydan|39.544|43.332|TR|Ağrı|56
+Yunda|57.882|52.896|RU|Udmurtiya Republic|56
+Yutniotic|16.823|-92.646|MX|Chiapas|56
 Yungar|-9.378|-77.592|PE|Ancash|55
+Yuvinani|17.213|-98.394|MX|Guerrero|55
+Yukarı Aydınlı|37.159|40.900|TR|Mardin|55
+Yuracmayo|-11.470|-75.525|PE|Junin|55
+Yuquín|17.097|-92.742|MX|Chiapas|55
+Yüksekköy|37.276|41.936|TR|Şırnak|55
+Yucatán|19.345|-96.362|MX|Veracruz|55
+Yukarı Çaykuyu|36.995|38.751|TR|Şanlıurfa|55
+Yukarı Harım|37.918|40.709|TR|Diyarbakır Province|55
+Yukarıyenigün|39.493|43.045|TR|Ağrı|54
+Yukarıbatak|41.489|33.937|TR|Kastamonu|54
+Yubara dam|35.208|133.733|JP|Okayama|54|f
+Yukon-Charley Rivers National Preserve|65.090|-142.798|US|Alaska|54|f
+Yulton Lake|-45.110|-72.878|CL|Aysén|54|f
+Yutian Wanfang Airport|36.812|81.781|CN|Xinjiang|54|f
+Yukarıdere|41.470|32.072|TR|Zonguldak Province|54
+Yunusoğlu|36.954|34.978|TR|Mersin|54
+Yukarıgözlüce|39.504|43.033|TR|Ağrı|54
+Yukarıkülecik|39.373|42.882|TR|Ağrı|54
+Yumurtatepe|38.559|42.293|TR|Bitlis|54
+Yuha Buttes|32.737|-115.851|US|California|49|f
+Yukon Island|59.523|-151.493|US|Alaska|49|f
+Yule Peak|-68.525|-65.619|AQ||49|f
+Yumbarra Conservation Park|-31.643|133.557|AU|South Australia|49|f
+Yun Ling|27.667|99.500|CN|Yunnan|49|f
+Yundamindera|-29.117|122.032|AU|Western Australia|49|f
+Yungaburra National Park|-17.288|145.572|AU|Queensland|49|f
+Yungay|-28.662|-70.802|CL|Atacama|49|f
+Yuraygir National Park|-29.833|153.269|AU|New South Wales|49|f
+Yuba Airport|44.841|-85.430|US|Michigan|40|f
+Yuchi Town Site|32.295|-84.935|US|Alabama|40|f
+Yukon Flats National Wildlife Refuge|66.510|-145.986|US|Alaska|40|f
+Yuma Municipal Airport|40.107|-102.718|US|Colorado|40|f
+Yunnan University|25.054|102.702|CN|Yunnan|40|f
+Yutmaru Sar|36.226|75.367|PK|Gilgit-Baltistan|40|f
+Yu’erhong|39.701|97.199|CN|Gansu|0
+Yuan’an|35.702|105.634|CN|Gansu|0
 Yuanba|32.326|105.962|CN|Sichuan|0
+Yuanbao|45.257|128.273|CN|Heilongjiang|0
+Yuanbao|30.236|109.005|CN|Hubei|0
+Yuanbuzi|39.822|112.534|CN|Shanxi|0
+Yuancheng|36.652|107.790|CN|Gansu|0
+Yuanchong|32.527|111.734|CN|Hubei|0
+Yuanda|46.472|126.052|CN|Heilongjiang|0
+Yuandianhui|33.272|112.844|CN|Henan|0
+Yuandu|28.264|116.047|CN|Jiangxi|0
+Yuandun|33.028|106.639|CN|Shaanxi|0
+Yuanguping|29.016|110.725|CN|Hunan|0
 Yuanhe|31.399|120.614|CN|Jiangsu|0
+Yuanhou|28.341|105.976|CN|Guizhou|0
+Yuanhua|30.415|120.772|CN|Zhejiang|0
 Yuanhui|33.566|114.028|CN|Henan|0
 Yuanjiazhuang|33.523|107.983|CN|Shaanxi|0
+Yuankeng|26.761|117.711|CN|Fujian|0
+Yuankeng|27.649|114.727|CN|Jiangxi|0
+Yuankou|25.001|111.055|CN|Hunan|0
+Yuanlin|49.885|121.387|CN|Inner Mongolia|0
 Yuanling|28.449|110.402|CN|Hunan|0
+Yuanling|33.282|113.460|CN|Henan|0
+Yuanmao|36.446|106.738|CN|Gansu|0
+Yuanmen|19.158|109.483|CN|Hainan|0
 Yuanmou|25.706|101.869|CN|Yunnan|0
+Yuannan|23.746|114.687|CN|Guangdong|0
+Yuannan|27.671|114.031|CN|Jiangxi|0
+Yuanqian|26.801|115.167|CN|Jiangxi|0
+Yuanqiao|28.553|121.249|CN|Zhejiang|0
+Yuanqiao|32.367|120.474|CN|Jiangsu|0
 Yuanquan|40.500|95.800|CN|Gansu|0
+Yuanren|34.797|109.455|CN|Shaanxi|0
 Yuanshan|24.370|114.490|CN|Guangdong|0
+Yuanshanzi|41.299|112.715|CN|Inner Mongolia|0
+Yuantan|23.668|113.198|CN|Guangdong|0
+Yuanwu|34.995|113.775|CN|Henan|0
 Yuanyang|35.058|113.942|CN|Henan|0
+Yuanyang|32.595|110.880|CN|Hubei|0
+Yuanyi|30.741|107.513|CN|Chongqing|0
+Yuanzhou|23.123|113.951|CN|Guangdong|0
 Yuanzhou|27.798|114.376|CN|Jiangxi|0
+Yuanzhu|32.324|120.175|CN|Jiangsu|0
+Yuanzhuang|32.448|120.773|CN|Jiangsu|0
 Yucay|-13.321|-72.082|PE|Cuzco Department|0
 Yücebağ|38.394|41.267|TR|Batman|0
 Yucheng|36.931|116.657|CN|Shandong|0
+Yucheng|30.535|120.852|CN|Zhejiang|0
+Yuchi|44.931|128.762|CN|Heilongjiang|0
+Yuchi|33.834|106.272|CN|Gansu|0
 Yuchi|34.802|126.839|KR|Jeollanam-do|0
+Yuchu|34.503|109.058|CN|Shaanxi|0
+Yuchuan|30.088|115.729|CN|Hubei|0
+Yucun|30.349|118.631|CN|Anhui|0
+Yudai|32.226|118.903|CN|Jiangsu|0
+Yudaikelike|39.712|77.746|CN|Xinjiang|0
+Yudanagara|-7.331|108.216|ID|West Java|0
+Yudian|31.784|113.635|CN|Hubei|0
+Yudong|32.027|121.355|CN|Jiangsu|0
+Yudongzi|33.325|106.323|CN|Shaanxi|0
+Yudou|25.393|118.037|CN|Fujian|0
+Yuduan|28.854|114.069|CN|Jiangxi|0
+Yuduo|32.641|120.013|CN|Jiangsu|0
 Yuecheng|28.642|102.509|CN|Sichuan|0
+Yuecheng|23.092|112.128|CN|Guangdong|0
+Yuecheng|23.563|116.269|CN|Guangdong|0
+Yuecheng|31.812|120.238|CN|Jiangsu|0
+Yuefeng|26.093|119.319|CN|Fujian|0
+Yuejiaqiao|28.330|112.437|CN|Hunan|0
+Yuejin|40.673|122.257|CN|Liaoning|0
+Yuelai|31.936|121.432|CN|Jiangsu|0
+Yuele|36.266|107.909|CN|Gansu|0
+Yuelejie|27.827|103.783|CN|Yunnan|0
 Yuepuhu|39.235|76.768|CN|Xinjiang|0
+Yueshan|22.478|112.728|CN|Guangdong|0
+Yuetang|32.405|119.080|CN|Jiangsu|0
+Yuetang|25.239|119.092|CN|Fujian|0
+Yuewan|30.755|119.141|CN|Anhui|0
+Yuexi|31.216|120.584|CN|Jiangsu|0
+Yuexiulu|39.091|117.223|CN|Tianjin|0
+Yueyahe|39.163|117.241|CN|Tianjin|0
 Yueyang|36.290|111.915|CN|Shanxi|0
+Yueyang|31.010|121.215|CN|Shanghai|0
 Yueyang|29.368|113.120|CN|Hunan|0
+Yufa|39.520|116.315|CN|Beijing|0
+Yufang|26.902|117.255|CN|Fujian|0
 Yufeng|24.318|109.456|CN|Guangxi|0
 Yufrus|13.455|43.947|YE|Ta‘izz|0
+Yugan|28.696|116.684|CN|Jiangxi|0
+Yugang|31.545|120.192|CN|Jiangsu|0
+Yugong|46.429|130.047|CN|Heilongjiang|0
 Yuhai|36.981|105.906|CN|Ningxia|0
+Yuhang|30.275|119.933|CN|Zhejiang|0
+Yuhe|45.393|128.370|CN|Heilongjiang|0
+Yuhu|23.682|116.234|CN|Guangdong|0
+Yuhua|33.204|120.542|CN|Jiangsu|0
+Yuhua|28.581|112.953|CN|Hunan|0
 Yuhua|38.010|114.528|CN|Hebei|0
+Yuhuang|40.732|120.885|CN|Liaoning|0
+Yuhuangding|32.714|111.447|CN|Hubei|0
+Yuhuangmiao|33.727|106.949|CN|Shaanxi|0
+Yuhuazhai|34.227|108.856|CN|Shaanxi|0
+Yujia|28.174|117.023|CN|Jiangxi|0
+Yujia|29.463|118.473|CN|Zhejiang|0
+Yujia’ao|28.194|112.263|CN|Hunan|0
+Yujiagong|34.729|108.188|CN|Shaanxi|0
+Yujiahe|29.685|116.046|CN|Jiangxi|0
+Yujiao|23.614|116.516|CN|Guangdong|0
+Yujiawu|39.721|116.703|CN|Beijing|0
+Yujiazhai|27.842|104.825|CN|Yunnan|0
+Yujiazui|29.353|110.563|CN|Hunan|0
+Yujin|34.515|109.245|CN|Shaanxi|0
 Yujin|29.209|103.946|CN|Sichuan|0
+Yujing|39.676|112.603|CN|Shanxi|0
+Yukou|39.055|113.046|CN|Shanxi|0
+Yukou|40.189|117.003|CN|Beijing|0
+Yukuriawat|39.083|77.567|CN|Xinjiang|0
 Yul’yevka|52.118|64.275|KZ|Kostanay|0
+Yulao|23.497|111.737|CN|Guangdong|0
+Yulchon|34.882|127.579|KR|Jeollanam-do|0
+Yulin|40.993|125.938|CN|Jilin|0
+Yulin|46.110|126.278|CN|Heilongjiang|0
+Yulin|47.130|125.630|CN|Heilongjiang|0
 Yulin|22.655|110.178|CN|Guangxi|0
+Yulindian|37.277|121.620|CN|Shandong|0
+Yuling|39.556|112.429|CN|Shanxi|0
 Yulong|33.383|120.131|CN|Jiangsu|0
 Yumen|40.283|97.200|CN|Gansu|0
+Yumendong|39.800|97.900|CN|Gansu|0
+Yun’an|31.046|108.853|CN|Chongqing|0
+Yun’ao|23.410|117.118|CN|Guangdong|0
+Yuncao|31.423|118.074|CN|Anhui|0
 Yuncheng|35.598|115.935|CN|Shandong|0
+Yuncheng|22.942|112.049|CN|Guangdong|0
+Yunchi|30.522|111.440|CN|Hubei|0
+Yunfeng|27.977|119.375|CN|Zhejiang|0
 Yunga|-16.200|-70.683|PE|Moquegua Department|0
+Yungaisi|33.489|109.105|CN|Shaanxi|0
+Yunhe|34.083|119.717|CN|Jiangsu|0
 Yunhe|26.560|100.176|CN|Yunnan|0
+Yunhe|30.475|120.296|CN|Zhejiang|0
 Yunhe|38.309|116.832|CN|Hebei|0
+Yunhu|27.722|119.920|CN|Zhejiang|0
 Yunji|26.693|112.667|CN|Hunan|0
+Yunle|30.450|118.633|CN|Anhui|0
+Yunling|30.653|118.224|CN|Anhui|0
 Yunling|23.954|117.336|CN|Fujian|0
+Yunling|24.347|113.439|CN|Guangdong|0
+Yunling|28.293|98.972|CN|Yunnan|0
+Yunlong|19.877|110.467|CN|Hainan|0
+Yunlong|29.774|121.592|CN|Zhejiang|0
+Yunlong|26.171|118.830|CN|Fujian|0
+Yunlu|23.597|116.476|CN|Guangdong|0
+Yunluo|23.244|116.075|CN|Guangdong|0
+Yunmenling|25.241|115.744|CN|Jiangxi|0
+Yunping|33.698|106.414|CN|Gansu|0
+Yunshan|34.700|119.367|CN|Jiangsu|0
+Yunshan|28.176|116.299|CN|Jiangxi|0
+Yunshishan|25.864|115.863|CN|Jiangxi|0
+Yuntan|21.884|111.164|CN|Guangdong|0
 Yuntdağ|38.932|27.214|TR|İzmir Province|0
+Yunti|30.374|119.282|CN|Anhui|0
+Yunting|31.864|120.337|CN|Jiangsu|0
 Yunxi|31.226|105.386|CN|Sichuan|0
 Yunxi|29.473|113.246|CN|Hunan|0
+Yunxi|29.047|118.940|CN|Zhejiang|0
 Yunxian Chengguanzhen|32.831|110.809|CN|Hubei|0
+Yunxiang|22.565|112.759|CN|Guangdong|0
 Yunxing|39.999|112.698|CN|Shanxi|0
 Yunxixian Chengguanzhen|32.983|110.423|CN|Hubei|0
+Yunyan|25.131|113.104|CN|Guangdong|0
+Yunyang|34.637|108.809|CN|Shaanxi|0
+Yunyang|30.998|108.881|CN|Chongqing|0
 Yunyang|31.996|119.565|CN|Jiangsu|0
 Yunzhong|39.827|113.096|CN|Shanxi|0
+Yupeng|26.101|117.041|CN|Fujian|0
 Yuping|22.977|103.711|CN|Yunnan|0
+Yuqi|31.718|120.183|CN|Jiangsu|0
+Yuqian|30.188|119.393|CN|Zhejiang|0
+Yuquan|26.605|101.600|CN|Sichuan|0
+Yuquan|45.410|127.159|CN|Heilongjiang|0
 Yuquan|40.443|113.974|CN|Shanxi|0
+Yuquan|30.830|111.774|CN|Hubei|0
+Yuquan|31.285|108.849|CN|Chongqing|0
+Yuquan|29.150|107.307|CN|Chongqing|0
 Yur’ya|59.045|49.275|RU|Kirov Oblast|0
 Yuracmarca|-8.738|-77.904|PE|Ancash|0
 Yuracyacu|-5.931|-77.227|PE|San Martín Department|0
@@ -267,12 +524,49 @@ Yürük|40.936|27.066|TR|Tekirdağ|0
 Yus’va|58.965|54.960|RU|Perm Krai|0
 Yuseong|36.354|127.337|KR|Daejeon|0
 Yushan|31.673|118.485|CN|Anhui|0
+Yushan|34.206|109.502|CN|Shaanxi|0
+Yushan|33.199|113.816|CN|Henan|0
+Yushan|31.989|112.368|CN|Hubei|0
+Yushan|26.957|120.323|CN|Fujian|0
 Yushan|31.677|120.801|CN|Jiangsu|0
+Yushan|30.066|120.088|CN|Zhejiang|0
+Yushang|27.573|118.988|CN|Zhejiang|0
+Yushanpu|27.151|111.113|CN|Hunan|0
+Yushikalasu|46.710|84.045|CN|Xinjiang|0
+Yushu|41.644|124.816|CN|Liaoning|0
+Yushu|42.539|127.166|CN|Jilin|0
+Yushuchuan|42.329|127.204|CN|Jilin|0
+Yushugou|44.047|87.129|CN|Xinjiang|0
+Yushugou|44.124|127.531|CN|Jilin|0
+Yushutun|47.155|123.888|CN|Heilongjiang|0
 Yutai|35.003|116.645|CN|Shandong|0
 Yutian|39.882|117.748|CN|Hebei|0
+Yutian|25.875|119.452|CN|Fujian|0
+Yutiao|30.290|119.022|CN|Zhejiang|0
+Yuting|29.840|117.970|CN|Anhui|0
+Yuting|38.536|114.510|CN|Henan|0
 Yuto|5.531|-76.636|CO|Chocó|0
+Yutou|28.621|118.506|CN|Zhejiang|0
+Yutou|25.650|119.589|CN|Fujian|0
+Yutou|28.642|121.004|CN|Zhejiang|0
+Yuwan|24.164|113.665|CN|Guangdong|0
+Yuwang|36.819|106.378|CN|Ningxia|0
 Yuwangtai|34.774|114.343|CN|Henan|0
+Yuxi|32.582|119.999|CN|Jiangsu|0
 Yuxi|28.889|107.594|CN|Guizhou|0
+Yuxi|25.603|119.292|CN|Fujian|0
+Yuxiakou|30.420|110.501|CN|Hubei|0
+Yuxian|30.525|113.979|CN|Hubei|0
+Yuxikou|31.431|118.306|CN|Anhui|0
+Yuxin|30.669|120.788|CN|Zhejiang|0
+Yuxin|30.673|112.991|CN|Hubei|0
+Yuxin|23.286|116.659|CN|Guangdong|0
+Yuyang|30.174|112.903|CN|Hubei|0
+Yuyangguan|30.176|111.070|CN|Hubei|0
 Yuyue|30.018|113.963|CN|Hubei|0
+Yuyue|30.519|120.261|CN|Zhejiang|0
+Yuzhai|29.567|119.868|CN|Zhejiang|0
 Yuzhong Chengguanzhen|35.843|104.112|CN|Gansu|0
 Yuzhou|39.832|114.576|CN|Hebei|0
+Yuzhu|23.103|113.427|CN|Guangdong|0
+Yuzui|29.620|106.762|CN|Chongqing|0

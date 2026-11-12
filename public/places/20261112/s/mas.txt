@@ -45,6 +45,7 @@ Mascalucia|37.575|15.050|IT|Sicily|90
 Massafra|40.586|17.116|IT|Apulia|90
 Masaki-chō|33.788|132.711|JP|Ehime|90
 Masany|51.533|31.231|UA|Chernihiv Oblast|90
+masjid wa-turbah Qāytbāy|30.044|31.275|EG|Cairo|89|f
 Mastung|29.800|66.846|PK|Balochistan|89
 Masterton|-40.960|175.657|NZ|Wellington Region|89
 Massaguet|12.476|15.436|TD|Hadjer-Lamis|89
@@ -73,6 +74,7 @@ Mastic Beach|40.767|-72.852|US|New York|83
 Mashpee|41.648|-70.481|US|Massachusetts|83
 Masonboro|34.179|-77.847|US|North Carolina|83
 Massaranduba|-7.200|-35.789|BR|Paraíba|83
+Massachusetts Bay|42.375|-70.749|US|Massachusetts|83|f
 Mascote|-15.563|-39.303|BR|Bahia|83
 Maslyanino|54.343|84.212|RU|Novosibirsk Oblast|82
 Mashava|-20.037|30.482|ZW|Masvingo Province|82
@@ -100,14 +102,20 @@ Masuguru|-11.367|38.417|TZ|Mtwara|78
 Mashi|12.980|7.947|NG|Katsina State|78
 Massah|32.752|21.628|LY|Al Jabal al Akhdar|78
 Masindi Port|1.696|32.086|UG|Western Region|78
+Masindi Airport|1.754|31.736|UG|Western Region|78|f
 Maslovka|51.550|39.245|RU|Voronezh Oblast|78
 Masuda|35.550|137.250|JP|Gifu|77
 Masandra|44.515|34.184|UA|Crimea|77
 Masquefa|41.504|1.811|ES|Catalonia|77
 Massarelos|41.148|-8.633|PT|Porto|77
 Maseno|-0.007|34.600|KE|Kisumu County|77
+Masirah Island|20.420|58.789|OM|Southeastern Governorate|76|f
+Masson Island|-66.133|96.583|AQ||76|f
+Masvingo Airport|-20.055|30.859|ZW|Masvingo Province|76|f
 Masunga|-20.625|27.449|BW|North-East|76
 Masrātu|23.983|85.324|IN|Jharkhand|76
+Mashhad International Airport|36.235|59.641|IR|Razavi Khorasan|75|f
+Mason Neck|38.657|-77.179|US|Virginia|75|f
 Massagno|46.013|8.944|CH|Ticino|75
 Massa Marittima|43.048|10.893|IT|Tuscany|75
 Maslova Pristan’|50.457|36.736|RU|Belgorod Oblast|75
@@ -126,6 +134,8 @@ Massanetta Springs|38.400|-78.834|US|Virginia|74
 Maßbach|50.183|10.275|DE|Bavaria|74
 Masakhane|-25.954|29.331|ZA|Mpumalanga|74
 Maslog|12.150|125.233|PH|Eastern Visayas|74
+Masan Bay|35.161|128.595|KR|Gyeongsangnam-do|73|f
+Måsøya|71.022|24.979|NO|Finnmark|73|f
 Masny|50.348|3.202|FR|Hauts-de-France|73
 Mashike|43.852|141.521|JP|Hokkaido|73
 Massenya|11.403|16.170|TD|Chari-Baguirmi|73
@@ -135,6 +145,8 @@ Massac|37.029|-88.686|US|Kentucky|73
 Massadougou|8.299|-3.921|CI|Zanzan District|73
 Massa Finalese|44.852|11.214|IT|Emilia-Romagna|72
 Maserada sul Piave|45.752|12.318|IT|Veneto|72
+Massacre Bay|52.822|173.228|US|Alaska|72|f
+Massanutten Mountain|38.669|-78.572|US|Virginia|72|f
 Massing|48.391|12.609|DE|Bavaria|72
 Massala|7.899|-6.437|CI|Woroba|72
 Massalengo-Motta Vigana|45.265|9.490|IT|Lombardy|72
@@ -147,6 +159,7 @@ Mashivka|49.444|34.872|UA|Poltava|71
 Massenbachhausen|49.178|9.043|DE|Baden-Wurttemberg|71
 Masoyila|8.611|-13.191|SL|Northern Province|71
 Masii|-1.461|37.438|KE|Machakos County|71
+Masset Airport|54.028|-132.126|CA|British Columbia|71|f
 Maslog|13.105|123.771|PH|Bicol Region|71
 Mâsca|46.296|21.672|RO|Arad County|71
 Masevaux|47.777|6.997|FR|Grand Est|71
@@ -165,6 +178,8 @@ Massasso-Bas-Yani|8.637|-6.612|CI|Woroba|70
 Masserberg|50.520|10.971|DE|Thuringia|69
 Mastara|40.447|43.882|AM|Aragatsotn|69
 Massemen|50.981|3.874|BE|Flanders|69
+Ma Shi Chau|22.455|114.231|HK||69|f
+Masanbong|38.268|128.400|KR|Gangwon-do|69|f
 Masiga|13.361|121.828|PH|Mimaropa|69
 Masnuy-Saint-Jean|50.532|3.940|BE|Wallonia|69
 Masoli|13.359|123.390|PH|Bicol Region|68
@@ -178,6 +193,9 @@ Massenzatico|44.735|10.697|IT|Emilia-Romagna|68
 Massieux|45.910|4.833|FR|Auvergne-Rhône-Alpes|67
 Massanutten|38.410|-78.738|US|Virginia|67
 Massala-Assolo|8.150|-6.655|CI|Woroba|67
+Maskelyne Islands|-16.533|167.817|VU|Malampa|67|f
+Massif de l’Aïr|18.000|8.500|NE|Agadez|67|f
+Masuma Dam|35.069|139.929|JP|Chiba|67|f
 Maslovo|45.792|34.363|UA|Crimea|67
 Mason City|40.202|-89.698|US|Illinois|67
 Mason|30.749|-99.231|US|Texas|67
@@ -188,6 +206,10 @@ Masḩah|32.108|35.051|PS|West Bank|66
 Ma‘şūmīyeh|34.089|49.906|IR|Markazi|66
 Mastacăn|46.789|26.487|RO|Neamț County|66
 Masjed-e ‘Olyā|35.543|48.264|IR|Hamadan Province|65
+Massena International Airport-Richards Field|44.933|-74.843|US|New York|65|f
+Massif d’ Ankify|-13.567|48.350|MG|Diana|65|f
+Massif des Bongo|8.572|22.312|CF|Bamingui-Bangoran|65|f
+Masubuchi Dam|33.762|130.839|JP|Fukuoka|65|f
 Massiac|45.251|3.197|FR|Auvergne-Rhône-Alpes|65
 Masséguéré|9.944|-6.154|CI|Savanes District|65
 Massandji|6.025|-3.817|CI|Lagunes District|65
@@ -204,6 +226,11 @@ Masserano|45.595|8.222|IT|Piedmont|64
 Masseube|43.430|0.579|FR|Occitanie|64
 Masiaca|26.764|-109.235|MX|Sonora|64
 Maser|45.807|11.975|IT|Veneto|64
+Masamasa Island|-6.813|156.139|SB||63|f
+Mascoma Lake|43.627|-72.147|US|New Hampshire|63|f
+Mason County Airport|38.915|-82.099|US|West Virginia|63|f
+Massawa International Airport|15.670|39.370|ER|Northern Red Sea|63|f
+Masutani-damu|35.741|136.249|JP|Fukui|63|f
 Mas de las Matas|40.834|-0.243|ES|Aragon|63
 Maszkienice|49.989|20.687|PL|Lesser Poland|63
 Mashhad-e Elkūbeh|34.351|49.614|IR|Markazi|63
@@ -221,6 +248,13 @@ Masham|54.223|-1.657|GB|England|62
 Mastershausen|50.067|7.350|DE|Rheinland-Pfalz|62
 Massenhoven|51.200|4.636|BE|Flanders|61
 Maßweiler|49.267|7.533|DE|Rheinland-Pfalz|61
+Mascarene Islands|-20.000|57.000|RE||61|f
+Maschaug Pond|41.318|-71.831|US|Rhode Island|61|f
+Maschsee|52.351|9.747|DE|Lower Saxony|61|f
+Mason Dam|44.672|-117.999|US|Oregon|61|f
+Massasoit Lake|42.106|-72.544|US|Massachusetts|61|f
+Massís de les Guilleries|41.917|2.500|ES||61|f
+Masyw Śnieżnika|50.200|16.833|PL|Lower Silesia|61|f
 Masullas|39.700|8.784|IT|Sardinia|61
 Maskinongé|46.229|-73.019|CA|Quebec|61
 Massala-Gouran|7.922|-7.025|CI|Woroba|61
@@ -231,20 +265,118 @@ Masburg|50.241|7.117|DE|Rheinland-Pfalz|60
 Masi|45.109|11.489|IT|Veneto|60
 Masdenverge|40.716|0.530|ES|Catalonia|60
 Masonville|37.675|-87.035|US|Kentucky|60
+Mashpee Neck|41.610|-70.465|US|Massachusetts|60
+Mas-Grenier|43.892|1.196|FR|Occitanie|60
+Masano|45.514|9.676|IT|Lombardy|60
 Massino Visconti|45.824|8.541|IT|Piedmont|60
+Mason|39.022|-82.029|US|West Virginia|59
+Massembe|13.417|-15.633|GM|Lower River|59
+Massala-Barala|8.819|-7.932|CI|Woroba|59
+Mastaing|50.306|3.305|FR|Hauts-de-France|59
+Massina|45.645|8.974|IT|Lombardy|59
 Masainas|39.050|8.629|IT|Sardinia|59
+Mas-Saintes-Puelles|43.313|1.876|FR|Occitanie|59
+Mascuala|20.769|-103.277|MX|Jalisco|59
+Maslul|31.325|34.591|IL|Southern District|59
+Mas|46.152|12.130|IT|Veneto|59
+Massasso|7.930|-7.776|CI|Woroba|59
+Masset|54.011|-132.147|CA|British Columbia|58
+Mastrinka|43.513|16.277|HR|Split-Dalmatia|58
+Ma‘şūmābād|36.900|54.543|IR|Golestan|58
+Masang Xi Chang Jiang Daqiao|29.458|106.495|CN|Chongqing|58|f
+Masherbrum East|35.642|76.306|PK|Gilgit-Baltistan|58|f
+Mask Island|45.467|-77.683|CA|Ontario|58|f
+Måsnaren|59.179|17.559|SE|Stockholm|58|f
+Mason Island|53.300|-9.886|IE|Connacht|58|f
+Mason Lake|47.424|-121.551|US|Washington|58|f
+Masonboro Inlet|34.184|-77.814|US|North Carolina|58|f
+Masonboro Island|34.125|-77.858|US|North Carolina|58|f
+Massabesic Lake|42.965|-71.370|US|New Hampshire|58|f
+Massif de la Chartreuse|45.363|5.765|FR|Auvergne-Rhône-Alpes|58|f
+Massif de Termit|16.042|11.345|NE|Zinder Region|58|f
+Maslenica|44.223|15.541|HR|Zadar|58
+Maslacq|43.440|-0.695|FR|New Aquitaine|58
 Masma|-11.787|-75.429|PE|Junin|58
+Masanca|-7.376|-79.478|PE|La Libertad|58
+Maschl|47.367|13.200|AT|Salzburg|58
+Maszewo Lęborskie|54.471|17.737|PL|Pomerania|58
+Masłowice|51.257|18.638|PL|Łódź Voivodeship|58
+Massieu|45.440|5.598|FR|Auvergne-Rhône-Alpes|58
+Masseria Seminario|40.385|18.171|IT|Apulia|57
+Massu’ot Yitsẖaq|31.703|34.691|IL|Southern District|57
+Masthope|41.536|-75.028|US|Pennsylvania|57
 Massa|43.188|12.931|IT|The Marches|57
+Massillargues-Attuech|44.015|4.024|FR|Occitanie|57
+Mašťov|50.262|13.280|CZ|Ústí nad Labem Region|57
 Mas de Barberans|40.733|0.367|ES|Catalonia|57
+Massingy|45.829|5.920|FR|Auvergne-Rhône-Alpes|57
+Mastok|53.979|30.459|BY|Mogilev|56
+Masserini|45.803|9.831|IT|Lombardy|56
+Masseret|45.545|1.521|FR|New Aquitaine|56
+Massat|42.889|1.347|FR|Occitanie|56
+Masédougou|8.468|-8.006|CI|Woroba|56
 Masio|44.870|8.408|IT|Piedmont|56
+Maslives|47.633|1.479|FR|Centre-Val de Loire|56
+Masero|44.227|9.970|IT|Tuscany|56
 Massa d'Albe-Corona|42.107|13.394|IT|Abruzzo|56
+Massa|39.984|15.745|IT|Basilicate|55
+Massa|6.645|-6.540|CI|Sassandra-Marahoue|55
+Masiera|44.462|11.966|IT|Emilia-Romagna|55
+Măscurei|46.341|27.525|RO|Vaslui County|55
+Massais|47.006|-0.344|FR|New Aquitaine|55
+Mastrils|46.970|9.545|CH|Grisons|55
+Māsūleh|37.155|48.990|IR|Gilan Province|55
+Masella|37.966|15.754|IT|Calabria|55
+Masontown|39.552|-79.798|US|West Virginia|55
+Massignieu-de-Rives|45.755|5.766|FR|Auvergne-Rhône-Alpes|55
 Massa Fermana|43.147|13.476|IT|The Marches|55
+Masi di Cavalese|46.282|11.484|IT|Trentino-Alto Adige|54
+Maspujols|41.182|1.045|ES|Catalonia|54
+Masasi Airport|-10.733|38.767|TZ|Mtwara|54|f
+Masbate|12.208|123.699|PH|Bicol Region|54|f
+Mascart, Cape|-66.631|-67.671|AQ||54|f
+Maseru / Moshoeshoe|-29.462|27.552|LS|Maseru District|54|f
+Måseskär|58.100|11.333|SE|Västra Götaland|54|f
+Mashamba East|-10.743|25.392|CD|Lualaba|54|f
+Masin Island|12.258|121.386|PH|Mimaropa|54|f
+Masingin Island|10.180|124.135|PH|Central Visayas|54|f
+Maślana Góra|49.648|21.050|PL|Lesser Poland|54|f
+Masnedø|54.989|11.887|DK|Zealand|54|f
+Masnedsund Bridge|54.997|11.890|DK|Zealand|54|f
+Mason City Municipal Airport|43.153|-93.336|US|Iowa|54|f
+Mason County Airport|43.958|-86.411|US|Michigan|54|f
+Mason Lake|47.335|-122.957|US|Washington|54|f
+Massacre Lake|41.653|-119.605|US|Nevada|54|f
+Massasauga Provincial Park|45.200|-80.066|CA|Ontario|54|f
+Massawepie Lake|44.250|-74.652|US|New York|54|f
+Massif du Chaillu|-2.533|11.167|CG|Niari|54|f
+Masłomiąca|50.162|20.001|PL|Lesser Poland|54
 Massignano|43.051|13.798|IT|The Marches|54
 Mascaraque|39.716|-3.813|ES|Castille-La Mancha|54
 Maszewo|52.069|14.906|PL|Lubusz|53
 Masueco|41.204|-6.589|ES|Castille and León|52
 Masma Chicche|-11.786|-75.382|PE|Junin|51
 Massa|43.909|10.744|IT|Tuscany|51
+Maseru-Mia|-29.304|27.503|LS|Maseru District|49|f
+Masherbrum Range|35.636|76.389|PK|Gilgit-Baltistan|49|f
+Masoala National Park|-15.300|50.053|MG|Sava|49|f
+Mason Glacier|-78.883|161.683|AQ||49|f
+Mason Hill|43.283|-74.176|US|New York|49|f
+Mason Peaks|-72.783|74.733|AQ||49|f
+Mason, Mount|-84.717|-169.800|AQ||49|f
+Massacre Range|41.489|-119.616|US|Nevada|49|f
+Massam Glacier|-84.550|-175.200|AQ||49|f
+Massam, Mount|-81.733|158.200|AQ||49|f
+Massey Ranch Airpark|28.981|-80.926|US|Florida|49|f
+Massif de la Hotte|18.388|-74.035|HT||49|f
+Massif de la Vanoise|45.333|6.667|FR|Auvergne-Rhône-Alpes|49|f
+Massif Gallieni|-49.575|69.490|TF||49|f
+Massingir Dam|-23.875|32.148|MZ|Gaza Province|49|f
+Massís del Pedraforca|42.233|1.700|ES|Catalonia|49|f
+Massís dels Ports|40.750|0.333|ES|Catalonia|49|f
+Masson Range|-67.833|62.815|AQ||49|f
+Massower See|53.323|12.442|DE|Mecklenburg-Vorpommern|49|f
+Mast Head Island|-23.538|151.726|AU|Queensland|49|f
 Masciago Primo|45.918|8.781|IT|Lombardy|48
 Massazza|45.492|8.165|IT|Piedmont|48
 Masegoso|38.718|-2.316|ES|Castille-La Mancha|42
@@ -252,22 +384,64 @@ Massiola|45.912|8.320|IT|Piedmont|42
 Masegosa|40.547|-2.026|ES|Castille-La Mancha|41
 Massimeno|46.141|10.773|IT|Trentino-Alto Adige|40
 Massimino|44.300|8.071|IT|Liguria|40
+Maseno University|-0.007|34.597|KE|Kisumu County|40|f
+Mashpee National Wildlife Refuge|41.579|-70.489|US|Massachusetts|40|f
+Masnàn|46.342|9.011|CH|Ticino|40|f
+Maṣnaʿat Māriya|14.502|44.260|YE|Dhamār|40|f
+Mason Neck State Park|38.648|-77.182|US|Virginia|40|f
+Masquerade Ridge|-83.067|164.667|AQ||40|f
+Massachusetts Museum of Contemporary Art|42.702|-73.121|US|Massachusetts|40|f
+Massacre Bay|48.634|-122.982|US|Washington|40|f
+Massacre Island|49.267|-94.767|CA|Ontario|40|f
+Massacre Peak|32.445|-107.675|US|New Mexico|40|f
+Massacre Rocks State Park|42.681|-112.983|US|Idaho|40|f
+Massaemett Mountain|42.620|-72.716|US|Massachusetts|40|f
+Massasoit National Wildlife Refuge|41.889|-70.644|US|Massachusetts|40|f
+Mässersee|46.355|8.227|CH|Valais|40|f
+Massey Aerodrome|39.301|-75.799|US|Maryland|40|f
+Massey Glacier|-71.883|168.400|AQ||40|f
+Massey Island|76.002|-103.003|CA|Nunavut|40|f
+Massey Memorial|-41.285|174.826|NZ|Wellington Region|40|f
+Massive Mountain|51.183|-115.785|CA|Alberta|40|f
+Massive Range|51.150|-115.819|CA|Alberta|40|f
+Mast Farm Inn|36.210|-81.781|US|North Carolina|40|f
+Mast General Store|36.211|-81.782|US|North Carolina|40|f
+Mastodon Mountain|52.600|-118.336|CA|Alberta|40|f
 Masegoso de Tajuña|40.826|-2.695|ES|Castille-La Mancha|40
 Massello|44.959|7.057|IT|Piedmont|37
+Masthorn|50.150|6.300|DE|Rheinland-Pfalz|37
 Mas‘adah|33.232|35.756|SY|Quneitra|0
+Masape|-8.285|124.689|ID|East Nusa Tenggara|0
 Masarac|42.351|2.973|ES|Catalonia|0
+Masaran|-8.304|111.560|ID|East Java|0
+Masaran|-7.050|113.626|ID|East Java|0
+Masaran|-6.887|112.987|ID|East Java|0
+Masaran|-6.912|113.232|ID|East Java|0
+Masaran|-6.987|113.595|ID|East Java|0
 Masat|-4.381|102.954|ID|Bengkulu|0
 Masbagik|-8.622|116.477|ID|West Nusa Tenggara|0
+Masebewa|-8.727|122.022|ID|East Nusa Tenggara|0
 Masfjorden|60.799|5.304|NO|Vestland|0
+Mashan|30.079|120.658|CN|Zhejiang|0
 Mashan|23.711|108.174|CN|Guangxi|0
+Mashan|28.052|107.579|CN|Guizhou|0
+Mashan|23.268|115.238|CN|Guangdong|0
 Mashan|45.206|130.530|CN|Heilongjiang|0
+Mashan|31.472|120.124|CN|Jiangsu|0
+Mashankou|33.206|112.003|CN|Henan|0
 Mashegu|9.972|5.779|NG|Niger State|0
 Mashhad|36.817|70.102|AF|Badakhshan|0
+Mashi|25.030|114.148|CN|Guangdong|0
+Mashizhai|40.089|122.082|CN|Liaoning|0
 Mashtá al Ḩulw|34.875|36.251|SY|Tartus|0
+Mashui|22.117|111.683|CN|Guangdong|0
 Masin|-9.366|-77.097|PE|Ancash|0
 Maşīrī|30.245|51.522|IR|Fars|0
 Masisea|-8.605|-74.305|PE|Ucayali|0
 Masiu|7.812|124.317|PH|Autonomous Region in Muslim Mindanao|0
+Masjid|-7.041|113.686|ID|East Java|0
+Masjid|-7.038|113.895|ID|East Java|0
+Masjid|-6.920|113.030|ID|East Java|0
 Maskanah|35.966|38.042|SY|Aleppo|0
 Masmambang|-4.164|102.700|ID|Bengkulu|0
 Masons Bay|22.544|-73.878|BS|Acklins|0
@@ -278,5 +452,6 @@ Massangano|-9.628|14.258|AO|Cuanza Norte|0
 Massango|-8.034|16.343|AO|Uíge|0
 Massau|-7.231|16.921|AO|Uíge|0
 Massiapo|-14.090|-69.243|PE|Puno|0
+Masu|-8.712|121.040|ID|East Nusa Tenggara|0
 Maswarah|14.344|45.726|YE|Al Bayda|0
 Masyeta|-1.550|133.239|ID|West Papua|0

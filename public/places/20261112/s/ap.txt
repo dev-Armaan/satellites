@@ -1,9 +1,9 @@
 Apulia|41.002|16.734|IT||132|r
 Aparecida de Goiânia|-16.823|-49.244|BR|Goiás|114
 Apure|7.167|-68.833|VE||113|r
+Apurímac Department|-14.000|-73.000|PE||103|r
 Apeldoorn|52.210|5.969|NL|Gelderland|103
 Apucarana|-23.551|-51.461|BR|Paraná|103
-Apurímac Department|-14.000|-73.000|PE||102|r
 Apalit|14.953|120.770|PH|Central Luzon|102
 Apopa|13.807|-89.179|SV|San Salvador Department|101
 Apatzingán|19.089|-102.357|MX|Michoacán|100
@@ -18,8 +18,8 @@ Apatity|67.583|33.413|RU|Murmansk|96
 Apple Valley|44.732|-93.218|US|Minnesota|94
 Apizaco|19.413|-98.144|MX|Tlaxcala|94
 Apopka|28.676|-81.512|US|Florida|94
-Apex|35.733|-78.850|US|North Carolina|93
 Appenzell Ausserrhoden|47.363|9.283|CH||93|r
+Apex|35.733|-78.850|US|North Carolina|93
 Ấp Một|9.842|105.536|VN|Can Tho City|93
 Apsheronsk|44.460|39.730|RU|Krasnodar Krai|92
 Apia|-13.833|-171.767|WS|Tuamasaga|92
@@ -40,7 +40,9 @@ Apuí|-7.197|-59.891|BR|Amazonas|87
 Ấp Hô Phòng|9.226|105.419|VN|Ca Mau|87
 Ấp Phước Tĩnh|10.400|107.183|VN|Ho Chi Minh City (HCMC)|87
 Aplerbeck|51.483|7.550|DE|North Rhine-Westphalia|87
+Appalachian Mountains|40.000|-78.000|US||86|f
 Apam|5.285|-0.746|GH|Central|86
+Aphrodisias|37.709|28.722|TR|Aydın|86|f
 Apengjiang|29.152|108.743|CN|Chongqing|85
 Apatin|45.673|18.978|RS|Vojvodina|85
 Aporá|-11.660|-38.081|BR|Bahia|85
@@ -53,14 +55,17 @@ Apuiarés|-3.949|-39.432|BR|Ceará|83
 Apollo Beach|27.773|-82.408|US|Florida|83
 Apaxco de Ocampo|19.975|-99.174|MX|México|83
 Apricena|41.786|15.444|IT|Apulia|82
+Ap Lei Chau|22.241|114.155|HK||82|f
 Appingedam|53.322|6.858|NL|Groningen|82
 Appouessou|6.548|-3.428|CI|Comoé District|82
 Ấp Phú Hòa|10.900|105.133|VN|An Giang|82
 Ap Lei Chau Estate|22.245|114.151|HK|Southern District|82
 Apt|43.876|5.396|FR|Provence-Alpes-Côte d'Azur|81
 Aperibé|-21.621|-42.103|BR|Rio de Janeiro|81
+Appleton Airport|44.257|-88.519|US|Wisconsin|81|f
 Apen|53.221|7.809|DE|Lower Saxony|81
 Āppukkudal|11.468|77.577|IN|Tamil Nadu|81
+Apo Island|9.079|123.271|PH|Central Visayas|80|f
 Apatou|5.155|-54.343|GF|Guyane|80
 Ấp Bình Chánh|10.553|105.258|VN|An Giang|80
 Apiúna|-27.036|-49.390|BR|Santa Catarina|80
@@ -72,6 +77,7 @@ A Pobra do Caramiñal|42.603|-8.938|ES|Galicia|79
 Ấp Tân Ngãi|10.233|106.283|VN|Vinh Long|79
 Apiacás|-9.544|-57.449|BR|Mato Grosso|79
 Apahida|46.817|23.750|RO|Cluj County|79
+Apartheid Museum|-26.238|28.009|ZA|Gauteng|78|f
 Aparecida|-6.784|-38.087|BR|Paraíba|78
 Appouasso|5.963|-3.176|CI|Comoé District|78
 Apiacá|-21.154|-41.568|BR|Espírito Santo|77
@@ -82,6 +88,7 @@ Apetatitlán Antonio Carbajal|19.336|-98.179|MX|Tlaxcala|77
 Apía|5.107|-75.942|CO|Risaralda Department|77
 Appiano Gentile|45.735|8.981|IT|Lombardy|77
 Apuarema|-13.856|-39.744|BR|Bahia|77
+Apataki Airport|-15.574|-146.415|PF|Tuamotu-Gambier Islands|76|f
 Apra|31.086|75.879|IN|Punjab|76
 Aptos|36.977|-121.899|US|California|76
 Aparan|40.593|44.359|AM|Aragatsotn|76
@@ -90,20 +97,28 @@ Apastepeque|13.667|-88.783|SV|San Vicente Department|75
 Appenzell|47.331|9.410|CH|Appenzell Innerrhoden|75
 Apron-Pronou|7.001|-3.360|CI|Comoé District|75
 Appley Bridge|53.578|-2.721|GB|England|74
+Apalapsili Airport|-3.885|139.311|ID|Highland Papua|74|f
+Appennines|43.000|13.000|IT|The Marches|74|f
 Aparecida do Rio Negro|-9.952|-47.972|BR|Tocantins|74
 Apple Valley|40.439|-82.354|US|Ohio|74
 Apastovo|55.201|48.511|RU|Tatarstan Republic|73
 Apúlia|41.485|-8.764|PT|Braga|73
 Apango|17.741|-99.328|MX|Guerrero|73
 Aporé|-18.965|-51.926|BR|Goiás|73
+Ap Chau|22.552|114.270|HK||72|f
+Apostle Islands|46.938|-90.653|US|Wisconsin|72|f
+Appleby Castle|54.574|-2.489|GB|England|72|f
 Aparecida d'Oeste|-20.449|-50.880|BR|São Paulo|72
 Apulo|4.520|-74.593|CO|Cundinamarca|72
 Appelscha|52.955|6.351|NL|Friesland|72
 Āpta|18.854|73.130|IN|Maharashtra|72
 Apriltsi|42.841|24.918|BG|Lovech|72
 Aplaya|8.609|124.768|PH|Northern Mindanao|71
+Apō|31.986|66.421|AF|Zabul|71|f
 Apateu|46.617|21.783|RO|Arad County|71
 Aplaya|14.321|121.114|PH|Calabarzon|71
+Apalachee Bay|30.037|-84.171|US|Florida|70|f
+Appledore Island|42.989|-70.614|US|Maine|70|f
 Appoigny|47.875|3.525|FR|Bourgogne-Franche-Comté|70
 Ấp Long Thọ|10.133|106.033|VN|Vinh Long|70
 Apold|46.117|24.817|RO|Mureș County|70
@@ -123,6 +138,7 @@ Apprieu|45.396|5.500|FR|Auvergne-Rhône-Alpes|69
 Apa|47.767|23.200|RO|Satu Mare County|69
 Apad|13.815|122.766|PH|Bicol Region|69
 Apc|47.794|19.694|HU|Heves County|69
+Apataki Island|-15.441|-146.333|PF|Tuamotu-Gambier Islands|69|f
 Apelern|52.290|9.336|DE|Lower Saxony|69
 Apozol|21.470|-103.090|MX|Zacatecas|68
 Appin|-34.203|150.786|AU|New South Wales|68
@@ -137,6 +153,8 @@ Apagy|47.964|21.935|HU|Szabolcs-Szatmár-Bereg|67
 Apipilulco|18.193|-99.671|MX|Guerrero|67
 Apostolache|45.133|26.267|RO|Prahova|67
 Apalachicola|29.726|-84.986|US|Florida|67
+Ap Lei Pai|22.231|114.161|HK||67|f
+Aplin Islet|-11.191|143.039|AU|Queensland|67|f
 Appledore|51.050|-4.200|GB|England|67
 Apoya|9.221|122.905|PH|Central Visayas|67
 Aporo|19.670|-100.410|MX|Michoacán|67
@@ -148,6 +166,10 @@ Apapantilla|20.404|-97.847|MX|Puebla|66
 Appel|53.391|9.746|DE|Lower Saxony|66
 Apoderado|22.908|-105.924|MX|Sinaloa|66
 Apeo|19.887|-100.342|MX|Michoacán|66
+Ape Hill|22.648|120.263|TW|Takao|65|f
+Apéndice Island|-64.193|-61.016|AQ||65|f
+Appleton Municipal Airport|45.228|-96.006|US|Minnesota|65|f
+Apuseni Mountains|46.500|22.500|RO||65|f
 Apetlon|47.744|16.830|AT|Burgenland|65
 Appomattox|37.357|-78.825|US|Virginia|65
 Apo|19.426|-102.410|MX|Michoacán|65
@@ -163,6 +185,11 @@ Apulco|21.388|-102.682|MX|Zacatecas|64
 Apoldu de Jos|45.867|23.850|RO|Sibiu County|64
 Apas|16.711|-92.793|MX|Chiapas|63
 Ấp Hòa Thanh|11.033|108.167|VN|Lam Dong|63
+Ap Lo Chun|22.552|114.265|HK||63|f
+Ap Tau Pai|22.536|114.272|HK||63|f
+Apache Peak|31.825|-110.429|US|Arizona|63|f
+Appistoki Peak|48.468|-113.354|US|Montana|63|f
+Apple Valley Airport|34.579|-117.187|US|California|63|f
 Apfelstädt|50.902|10.890|DE|Thuringia|63
 Apache|34.894|-98.366|US|Oklahoma|63
 Apple Mountain Lake|38.924|-78.101|US|Virginia|63
@@ -184,6 +211,8 @@ Aparhant|46.329|18.449|HU|Tolna County|61
 Áporka|47.233|19.017|HU|Pest County|61
 Apalachin|42.070|-76.155|US|New York|61
 Ápsalos|40.892|22.057|GR|Central Macedonia|61
+Aparamán-tepuí|5.833|-62.083|VE|Bolívar|61|f
+Apex Airpark|47.657|-122.733|US|Washington|61|f
 Apapátaro|20.468|-100.369|MX|Querétaro|61
 Apollosa|41.092|14.696|IT|Campania|61
 Apatzingán|17.609|-91.065|MX|Tabasco|61
@@ -193,23 +222,133 @@ Appiakro|6.329|-4.538|CI|Lacs District|61
 Apfeldorf|47.900|10.933|DE|Bavaria|60
 Appignano del Tronto|42.898|13.662|IT|The Marches|60
 Apantla|17.040|-99.169|MX|Guerrero|60
+Apóllona|36.261|27.967|GR|South Aegean|60
+Apetlanca|18.209|-99.788|MX|Guerrero|60
+Appleby Magna|52.682|-1.534|GB|England|60
 Apiro|43.393|13.130|IT|The Marches|60
+Apfeltrach|48.017|10.500|DE|Bavaria|60
+Apenburg|52.712|11.205|DE|Saxony-Anhalt|60
+Apremont|45.500|5.950|FR|Auvergne-Rhône-Alpes|59
+Appleton|51.710|-1.361|GB|England|59
 Apongo|-14.013|-73.932|PE|Ayacucho|59
+Apollonía|36.973|24.724|GR|South Aegean|59
+Appeville-Annebault|49.310|0.649|FR|Normandy|59
+Apremont|49.224|2.508|FR|Hauts-de-France|59
+Apollinara|39.701|16.417|IT|Calabria|59
+Apobinou|7.841|-5.482|CI|Vallée du Bandama District|59
+Apach|49.461|6.374|FR|Grand Est|58
+Apólpaina|38.815|20.687|GR|Ionian Islands|58
+Appeltern|51.833|5.586|NL|Gelderland|58
+Apače|46.377|15.803|SI|Municipality of Kidričevo|58
+Apalachicola Municipal Airport|29.729|-85.029|US|Florida|58|f
+Apaw-ye Kyun|18.376|94.321|MM|Rakhine|58|f
+Apert|50.201|6.561|DE|Rheinland-Pfalz|58|f
+Apollo Island|-70.250|-1.917|AQ||58|f
+Appat|70.917|-51.950|GL|Avannaata|58|f
+Apple Orchard Mountain|37.517|-79.510|US|Virginia|58|f
+Apqusiurniq Island|63.595|-91.015|CA|Nunavut|58|f
+Apucarana Airport|-23.610|-51.385|BR|Paraná|58|f
 Ape|57.539|26.693|LV|Smiltene Municipality|58
+Apérathos|37.072|25.520|GR|South Aegean|58
+Apazulco (Miguel Hidalgo Viejo)|19.370|-104.879|MX|Jalisco|58
+Apantlazol|20.989|-98.584|MX|Hidalgo|58
+Apple Valley|37.090|-113.124|US|Utah|57
+Apanhuac (Apanguaque)|16.913|-99.589|MX|Guerrero|57
 Apazapan|19.321|-96.719|MX|Veracruz|57
+Apango|19.780|-103.709|MX|Jalisco|57
+Apozolco|21.429|-103.909|MX|Nayarit|57
+Apipitzactitla|18.499|-97.054|MX|Veracruz|57
+Appel|52.188|5.540|NL|Gelderland|57
+Apúndaro|19.351|-102.427|MX|Michoacán|56
+Aparceros|18.012|-92.967|MX|Tabasco|56
+Apple Tree Creek|-25.217|152.233|AU|Queensland|56
+Apa|37.508|29.356|TR|Denizli|56
+Apangokro|6.932|-5.015|CI|Lacs District|56
+Appleton|48.983|-54.865|CA|Newfoundland and Labrador|56
+Apetzco|21.394|-99.011|MX|San Luis Potosí|56
+Apanguito|18.158|-99.142|MX|Guerrero|56
+Apanguito|17.447|-98.984|MX|Guerrero|56
+Apixita|18.316|-95.293|MX|Veracruz|56
+Apiakro|7.623|-5.240|CI|Vallée du Bandama District|55
+Apachitla|20.727|-98.479|MX|Veracruz|55
+Apipilhuasco|20.309|-98.631|MX|Hidalgo|55
+Apple Canyon Lake|42.421|-90.156|US|Illinois|55
+Apperley|51.953|-2.202|GB|England|55
 Apače|46.698|15.909|SI|Municipality of Apače|55
+Appilly|49.583|3.117|FR|Hauts-de-France|54
+Apango|18.236|-99.677|MX|Guerrero|54
+Apetzuca|17.294|-98.833|MX|Guerrero|54
+Apokro|7.601|-5.190|CI|Vallée du Bandama District|54
+A. Paul Vance Fredericktown Regional Airport|37.605|-90.290|US|Missouri|54|f
+Apa Barajı|37.361|32.546|TR|Konya|54|f
+Apalachicola Bay|29.673|-84.962|US|Florida|54|f
+Apavatn|64.174|-20.657|IS|South|54|f
+Aphrodite Glacier|-68.883|-64.542|AQ||54|f
+Apikuni Mountain|48.836|-113.654|US|Montana|54|f
+Apolima Island|-13.824|-172.151|WS|Aiga-i-le-Tai|54|f
+Apollo Glacier|-68.821|-64.764|AQ||54|f
+Apolo Airport|-14.733|-68.500|BO|La Paz Department|54|f
+Applegate Lake|42.037|-123.134|US|Oregon|54|f
+Aprada-tepuí|5.433|-62.417|VE|Bolívar|54|f
+Apriliana|41.622|12.607|IT|Lazio|54
+Apizolaya|24.814|-102.277|MX|Zacatecas|54
+Apancingo|18.680|-99.464|MX|Morelos|54
+Appleshaw|51.237|-1.565|GB|England|54
 Apricale|43.880|7.660|IT|Liguria|53
 Appleby|53.622|-0.566|GB|England|50
+Apacheta Limani|-17.013|-70.491|PE|Moquegua Department|49|f
+Aperture Peak|37.118|-118.531|US|California|49|f
+Aphroditopolis|29.400|31.250|EG|Giza|49|f
+Api|30.001|80.950|NP|Sudurpashchim Pradesh|49|f
+Apo Reef|12.676|120.475|PH|Mimaropa|49|f
+Apocalypse Peaks|-77.383|160.850|AQ||49|f
+Apolima Strait|-13.803|-172.178|WS||49|f
+Apollo Peak|-77.500|160.800|AQ||49|f
+Apolotok, Mount|-72.250|164.483|AQ||49|f
+Apou|-23.063|-134.906|PF|Tuamotu-Gambier Islands|49|f
+Appalachian Trail Museum|40.033|-77.305|US|Pennsylvania|49|f
+Apple Pie Hill|39.807|-74.589|US|New Jersey|49|f
+Applecross Bay|57.433|-5.833|GB|Scotland|49|f
+Apsley Falls|-31.050|151.770|AU|New South Wales|49|f
 Apfelberg|47.200|14.833|AT|Styria|47
+Apache Lake|33.582|-111.282|US|Arizona|40|f
+Apalachee Wildlife Management Area|30.774|-84.967|US|Florida|40|f
+Apalachia Dam|35.168|-84.295|US|North Carolina|40|f
+Apalachicola Fort Site (historical)|32.203|-84.974|US|Georgia|40|f
+Apex Mountain|52.215|-117.821|CA|British Columbia|40|f
+Apia Park|-13.837|-171.752|WS|Tuamasaga|40|f
+Apostle Islands National Lakeshore|46.963|-90.660|US|Wisconsin|40|f
+Apostolic Palace|41.904|12.456|IT|Lazio|40|f
+Apostrophe Island|-73.517|167.433|AQ||40|f
+Appalachian Regional Airport|37.681|-82.119|US|West Virginia|40|f
+Apparition Mountain|51.367|-115.452|CA|Alberta|40|f
+Appennino Tosco-Emiliano National Park|44.318|10.241|IT|Emilia-Romagna|40|f
+Appert Lake National Wildlife Refuge|46.452|-100.223|US|North Dakota|40|f
+Apple Island|43.544|-65.361|CA|Nova Scotia|40|f
+Apple Island|38.861|-90.571|US|Missouri|40|f
+Apple Island|42.358|-70.991|US|Massachusetts|40|f
+Apple Island|42.589|-83.372|US|Michigan|40|f
+Apple River Canyon State Park|42.446|-90.053|US|Illinois|40|f
+Apple Valley Airport|45.680|-123.189|US|Oregon|40|f
+Applebutter Hill|40.518|-75.430|US|Pennsylvania|40|f
+Appletree Cove|47.792|-122.498|US|Washington|40|f
+Appomattox Buckingham State Forest|37.393|-78.729|US|Virginia|40|f
+Appomattox Court House National Historical Park|37.380|-78.799|US|Virginia|40|f
+Aprilov Point|-62.446|-59.895|AQ||40|f
 Apice Vecchio|41.120|14.931|IT|Campania|31
 Apae|34.867|126.313|KR|Jeollanam-do|0
+Apakbranjang|-8.267|112.019|ID|East Java|0
 Apala|-4.612|120.314|ID|South Sulawesi|0
 Apapa|6.449|3.359|NG|Lagos|0
 Apata|-11.855|-75.353|PE|Junin|0
 Apel|-24.414|29.750|ZA|Limpopo|0
 Apiacás|-9.562|-57.390|BR|Mato Grosso|0
+Apityeh|-8.453|115.071|ID|Bali|0
 Aplao|-16.076|-72.494|PE|Arequipa|0
+Appenweier|48.533|7.983|DE|Baden-Wurttemberg|0
 Appleton|53.352|-2.572|GB|England|0
 Appling|33.546|-82.317|US|Georgia|0
+Apuhambati|-9.723|120.222|ID|East Nusa Tenggara|0
 Apui|-8.273|124.723|ID|East Nusa Tenggara|0
 Apumiri|5.514|7.448|NG|Abia State|0
+Apuri|-8.316|124.365|ID|East Nusa Tenggara|0

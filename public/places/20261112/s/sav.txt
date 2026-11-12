@@ -1,4 +1,4 @@
-Savanes District|9.488|-5.494|CI||125|r
+Savanes District|9.488|-5.494|CI||126|r
 Savar|23.849|90.250|BD|Dhaka Division|112
 Sava|-14.200|49.800|MG||108|r
 Sāveh|35.021|50.357|IR|Markazi|107
@@ -17,9 +17,13 @@ Savalou|7.928|1.976|BJ|Collines|92
 Savé|8.034|2.487|BJ|Collines|90
 Savonlinna|61.870|28.880|FI|South Savo|90
 Savage|44.779|-93.336|US|Minnesota|90
+Savu Island|-10.530|121.873|ID|East Nusa Tenggara|89|f
 Savigny-le-Temple|48.574|2.583|FR|Île-de-France|88
+Savage Islands|30.083|-15.917|PT|Madeira|88|f
 Sāvantvādi|15.904|73.822|IN|Maharashtra|88
+Savonlinna Airport|61.943|28.945|FI|South Savo|87|f
 Sāvda|21.151|75.889|IN|Maharashtra|86
+Savannakhet Airport|16.557|104.760|LA|Savannakhet Province|86|f
 Sāvli|22.562|73.223|IN|Gujarat|85
 Savigliano|44.648|7.657|IT|Piedmont|85
 Savanna-la-Mar|18.219|-78.133|JM|Westmoreland|84
@@ -40,8 +44,10 @@ Săveni|47.950|26.867|RO|Botoșani County|78
 Savulca|37.738|27.399|TR|Aydın|77
 Savage|39.138|-76.824|US|Maryland|77
 Savannah|35.225|-88.249|US|Tennessee|77
+Savoonga Airport|63.686|-170.493|US|Alaska|77|f
 Savusavu|-16.779|179.336|FJ|Northern|77
 Savenay|47.361|-1.942|FR|Pays de la Loire|77
+Savusavu Airport|-16.803|179.341|FJ|Northern|76|f
 Savran|48.129|30.083|UA|Odesa|76
 Savino|56.593|41.213|RU|Ivanovo Oblast|76
 Săvineşti|46.850|26.467|RO|Neamț County|76
@@ -61,14 +67,20 @@ Savigny|46.538|6.732|CH|Vaud|71
 Savannah|33.226|-96.908|US|Texas|70
 Savasleyka|55.461|42.321|RU|Nizhny Novgorod Oblast|70
 Săvârşin|46.017|22.233|RO|Arad County|70
+Savu Sea|-9.667|122.000|||70|f
 Savitaipale|61.200|27.700|FI|South Karelia|70
 Sävast|65.770|21.731|SE|Norrbotten|70
 Sävar|63.904|20.550|SE|Västerbotten|69
 Savanna|42.094|-90.157|US|Illinois|69
+Savage Island|52.800|173.075|US|Alaska|69|f
+Savai’i|-13.610|-172.441|WS||69|f
+Savan Island|12.807|-61.211|VC|Grenadines Parish|69|f
+Savićevica|44.000|20.548|RS|Central Serbia|69|f
 Savonnières|47.348|0.550|FR|Centre-Val de Loire|69
 Savignano sul Panaro|44.480|11.035|IT|Emilia-Romagna|68
 Savigneux|45.617|4.083|FR|Auvergne-Rhône-Alpes|68
 Savigny-sur-Braye|47.879|0.810|FR|Centre-Val de Loire|67
+Savinjske Alpe|46.383|14.583|AT||67|f
 Savigny|45.816|4.574|FR|Auvergne-Rhône-Alpes|66
 Savonera|45.114|7.615|IT|Piedmont|66
 Savarna-Conventello|44.507|12.106|IT|Emilia-Romagna|65
@@ -86,6 +98,9 @@ Savennières|47.382|-0.657|FR|Pays de la Loire|62
 Savigno|44.392|11.075|IT|Emilia-Romagna|61
 Savasse|44.604|4.777|FR|Auvergne-Rhône-Alpes|61
 Savska Ves|46.372|16.427|HR|Međimurje|61
+Sāvandurga|12.920|77.292|IN|Karnataka|61|f
+Savo Island|-9.131|159.812|SB|Central Province|61|f
+Savuti Airport|-18.526|24.073|BW|North-West|61|f
 Savyntsi|50.091|33.937|UA|Poltava|61
 Savália|37.822|21.294|GR|West Greece|61
 Savigné-sur-Lathan|47.445|0.321|FR|Centre-Val de Loire|61
@@ -93,15 +108,76 @@ Savigny-en-Sancerre|47.441|2.810|FR|Centre-Val de Loire|61
 Savy-Berlette|50.352|2.565|FR|Hauts-de-France|60
 Savannah Bight|16.485|-85.845|HN|Bay Islands|60
 Savigny-Lévescault|46.536|0.477|FR|New Aquitaine|60
+Savorgnano|45.896|12.853|IT|Friuli Venezia Giulia|60
+Savières|48.409|3.950|FR|Grand Est|60
 Savukoski|67.293|28.158|FI|Lapland|60
+Savognin|46.597|9.598|CH|Grisons|60
+Savigneux|46.001|4.847|FR|Auvergne-Rhône-Alpes|60
+Savignac-les-Églises|45.274|0.915|FR|New Aquitaine|59
+Savigny-en-Revermont|46.635|5.420|FR|Bourgogne-Franche-Comté|59
+Savines-le-Lac|44.526|6.404|FR|Provence-Alpes-Côte d'Azur|59
+Savorgnano del Torre|46.165|13.272|IT|Friuli Venezia Giulia|59
 Savignano Irpino|41.227|15.179|IT|Campania|58
+Savoy|33.599|-96.367|US|Texas|58
+Savignies|49.465|1.966|FR|Hauts-de-France|58
+Savona|42.289|-77.218|US|New York|58
+Savyntsi|49.916|32.563|UA|Poltava|58
+Savigny-le-Sec|47.432|5.053|FR|Bourgogne-Franche-Comté|58
+Saveuse|49.900|2.218|FR|Hauts-de-France|58
+Savery Pond|41.847|-70.550|US|Massachusetts|58|f
 Savogna d'Isonzo|45.909|13.579|IT|Friuli Venezia Giulia|58
+Säve|57.800|11.917|SE|Västra Götaland|58
+Savignac-Lédrier|45.363|1.220|FR|New Aquitaine|58
+Savas|45.297|4.692|FR|Auvergne-Rhône-Alpes|57
+Săveni|47.400|27.248|RO|Iași County|57
+Savoy|42.567|-73.029|US|Massachusetts|57
+Savy|49.831|3.195|FR|Hauts-de-France|57
+Savoonga|63.694|-170.479|US|Alaska|57
+Savelletri|40.875|17.409|IT|Apulia|57
+Savārābād|33.988|49.822|IR|Markazi|56
+Savigny|46.067|5.953|FR|Auvergne-Rhône-Alpes|56
+Savanna|34.829|-95.844|US|Oklahoma|56
 Šavnik|42.957|19.096|ME|Opština Šavnik|56
+Savigny-en-Septaine|47.044|2.560|FR|Centre-Val de Loire|56
+Savas|45.505|5.059|FR|Auvergne-Rhône-Alpes|56
+Savenès|43.832|1.199|FR|Occitanie|55
 Savave Village|-8.027|178.314|TV|Nukufetau|55
+Savazza|44.302|11.398|IT|Emilia-Romagna|55
+Savignac|44.359|1.965|FR|Occitanie|55
+Savins|48.509|3.202|FR|Île-de-France|55
+Savannah|43.067|-76.760|US|New York|55
+Savonnières-devant-Bar|48.758|5.178|FR|Grand Est|55
+Savran|37.806|37.538|TR|Adıyaman Province|55
 Savoia di Lucania|40.569|15.551|IT|Basilicate|55
+Savignac-de-l'Isle|44.983|-0.233|FR|New Aquitaine|54
+Savage Dam|32.611|-116.925|US|California|54|f
+Savannah International Airport|32.128|-81.202|US|Georgia|54|f
+Savannas Preserve State Park|27.379|-80.304|US|Florida|54|f
+Save Airport|8.017|2.464|BJ|Zou|54|f
+Savona|50.753|-120.844|CA|British Columbia|54
+Savignac|44.523|-0.109|FR|New Aquitaine|54
+Savigny-le-Vieux|48.521|-1.049|FR|Normandy|54
 Saviore|46.080|10.398|IT|Lombardy|51
+Savage Glacier|-72.417|-96.083|AQ||49|f
+Savage Island|46.547|-119.302|US|Washington|49|f
+Savage River National Park|-41.310|145.390|AU|Tasmania|49|f
+Savalen|62.244|10.463|NO|Innlandet|49|f
+Savave|-8.028|178.312|TV|Nukufetau|49|f
+Saville Dam|41.910|-72.953|US|Connecticut|49|f
 Savogna|46.158|13.531|IT|Friuli Venezia Giulia|46
 Savoca|37.953|15.340|IT|Sicily|44
+Savage Island|50.733|-57.315|CA|Newfoundland and Labrador|40|f
+Savage Lake|45.020|-93.092|US|Minnesota|40|f
+Savage Mountain|39.886|-78.736|US|Pennsylvania|40|f
+Savage Ridge|-78.483|163.367|AQ||40|f
+Savage River Reservoir|39.508|-79.133|US|Maryland|40|f
+Savanna Portage State Park|46.837|-93.157|US|Minnesota|40|f
+Savanna-Sabula Bridge|42.104|-90.161|US|Illinois|40|f
+Savannah National Wildlife Refuge|32.218|-81.126|US|South Carolina|40|f
+Savant Lake|50.482|-90.427|CA|Ontario|40|f
+Savary Island|49.939|-124.814|CA|British Columbia|40|f
+Save Mart Center|36.809|-119.740|US|California|40|f
+Savidge Lake|44.327|-93.867|US|Minnesota|40|f
 Savate|-16.833|17.962|AO|Cubango|0
 Savcılı|39.229|33.681|TR|Kırşehir|0
 Savosa|46.019|8.942|CH|Ticino|0

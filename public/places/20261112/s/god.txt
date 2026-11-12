@@ -12,6 +12,7 @@ Godfrey|38.956|-90.187|US|Illinois|85
 Göd|47.683|19.134|HU|Pest County|84
 Godella|39.533|-0.417|ES|Valencia|82
 Godofredo Viana|-1.415|-45.772|BR|Maranhão|80
+Gode Airport|5.935|43.579|ET|Somali|80|f
 Godélilié|6.046|-5.843|CI|Goh-Djiboua|78
 Goderich|43.742|-81.713|CA|Ontario|78
 Goddelau|49.834|8.498|DE|Hesse|77
@@ -25,7 +26,9 @@ Godech|43.017|23.049|BG|Sofia|74
 Godown|13.717|100.500|TH|Bangkok|74
 Godim|41.171|-7.803|PT|Vila Real|74
 Goddard|37.660|-97.575|US|Kansas|73
+Gods Lake Narrows Airport|54.559|-94.491|CA|Manitoba|73|f
 Godim|41.155|-8.589|PT|Porto|73
+Gods River Airport|54.840|-94.079|CA|Manitoba|72|f
 Godega|45.929|12.397|IT|Veneto|71
 Göda|51.178|14.320|DE|Saxony|71
 Godeni|45.233|24.983|RO|Arges|70
@@ -33,6 +36,10 @@ Godesso|5.603|-4.911|CI|Lagunes District|70
 Godoberi|42.627|46.119|RU|Dagestan|70
 Godoy Moreira|-24.193|-51.923|BR|Paraná|69
 Godou|6.114|-5.622|CI|Goh-Djiboua|69
+Godaesan|38.199|127.166|KR|Gyeonggi-do|69|f
+Goderich Airport|43.766|-81.709|CA|Ontario|69|f
+Godøya|62.476|6.040|NO|Møre og Romsdal|69|f
+Godthul|-54.289|-36.295|GS||69|f
 Godelleta|39.417|-0.683|ES|Valencia|68
 Godstone|51.248|-0.069|GB|England|68
 Godineşti|45.000|22.967|RO|Gorj County|68
@@ -46,6 +53,8 @@ Godewaersvelde|50.794|2.645|FR|Hauts-de-France|66
 Godów|49.925|18.478|PL|Silesia|66
 Godaria|22.671|88.128|IN|West Bengal|65
 Godo|44.392|12.075|IT|Emilia-Romagna|64
+Godār-e Tang-e Khoshk|29.342|53.379|IR|Fars|63|f
+Godman Army Airfield|37.908|-85.970|US|Kentucky|63|f
 Goda|6.454|-6.604|CI|Sassandra-Marahoue|63
 Godshill|50.633|-1.255|GB|England|63
 Godefroy|51.750|-68.082|CA|Quebec|63
@@ -54,9 +63,45 @@ Godveerdegem|50.859|3.821|BE|Flanders|62
 Godrano|37.903|13.428|IT|Sicily|61
 Godley|32.449|-97.527|US|Texas|61
 Godiasco Salice Terme|44.896|9.057|IT|Lombardy|60
+Gödenstorf|53.229|10.123|DE|Lower Saxony|60
+Gödre|46.286|17.973|HU|Baranya|60
 Godzianów|51.897|20.036|PL|Łódź Voivodeship|59
+Godiabré|6.097|-5.885|CI|Goh-Djiboua|59
+Goðafoss|65.683|-17.550|IS|Northeast|58|f
+Godfred Hansen Ø|76.450|-20.917|GL||58|f
+Godfrey Islands|-37.083|139.723|AU|South Australia|58|f
+Godongsan|34.754|127.856|KR|Gyeongsangnam-do|58|f
+Godoy|20.559|-101.090|MX|Guanajuato|58
 Godeanu|44.801|22.609|RO|Mehedinți County|58
+Godégouin|7.429|-7.520|CI|Montagnes|57
+Godall|40.655|0.469|ES|Catalonia|57
+Godziesze Wielkie|51.645|18.173|PL|Greater Poland|57
+Godovič|45.958|14.094|SI|Municipality of Idrija|57
+Godič|46.257|14.610|SI|Municipality of Kamnik|57
+Godley|41.237|-88.244|US|Illinois|57
+Godayo|5.750|-6.100|CI|Bas-Sassandra District|56
+Gods River|54.842|-94.090|CA|Manitoba|56
+Godéléhéri|5.809|-5.311|CI|Goh-Djiboua|56
+Godbrange|49.734|6.232|LU|Grevenmacher|56
+Godešič|46.167|14.354|SI|Škofja Loka|56
+Godinjak|45.237|17.496|HR|Brod-Posavina|55
+Godoufouma|8.194|-7.677|CI|Woroba|55
+Gödet Barajı|37.116|33.277|TR|Karaman|54|f
+Godfroy Point|-65.164|-64.150|AQ||54|f
+Godumalai Reserved Forest|11.681|78.350|IN|Tamil Nadu|54|f
+Godów|50.968|21.187|PL|Świętokrzyskie|54
+Gödenroth|50.083|7.483|DE|Rheinland-Pfalz|54
+Goddert|50.549|7.747|DE|Rheinland-Pfalz|53
+Godeset|58.898|5.710|NO|Rogaland|49|f
+Godrevy Island|50.250|-5.400|GB|England|49|f
+Godwit Glacier|-77.600|162.200|AQ||49|f
+God Bay|47.600|-58.882|CA|Newfoundland and Labrador|40|f
+Goddard Covered Bridge|38.362|-83.616|US|Kentucky|40|f
+Godesburg|50.685|7.151|DE|North Rhine-Westphalia|40|f
+Gods Lake|54.674|-94.247|CA|Manitoba|40|f
 Godojos|41.268|-1.864|ES|Aragon|35
 Gò Dầu|11.088|106.263|VN|Tay Ninh|0
 Godo|-8.561|118.666|ID|West Nusa Tenggara|0
+Godog|-6.963|112.349|ID|East Java|0
+Godong|-7.004|108.541|ID|West Java|0
 Godoy Cruz|-32.925|-68.844|AR|Mendoza|0

@@ -11,6 +11,7 @@ Dorbod|46.861|124.442|CN|Heilongjiang|95
 Dornbirn|47.414|9.742|AT|Vorarlberg|94
 Doropo|9.810|-3.346|CI|Zanzan District|94
 Dori|14.033|-0.033|BF|Sahel|93
+Dortmund Airport|51.518|7.612|DE|North Rhine-Westphalia|91|f
 Dorcheh Pīāz|32.615|51.556|IR|Isfahan|91
 Dorohoi|47.950|26.400|RO|Botoșani County|90
 Dorstfeld|51.501|7.411|DE|North Rhine-Westphalia|89
@@ -28,6 +29,7 @@ Dorog|47.721|18.736|HU|Komárom-Esztergom|82
 Dores do Indaiá|-19.463|-45.602|BR|Minas Gerais|82
 Dorogobuzh|54.915|33.299|RU|Smolensk Oblast|82
 Dordrecht|-31.372|27.049|ZA|Eastern Cape|82
+Dörgön Lake|47.667|93.500|MN|Hovd|81|f
 Doraville|33.898|-84.283|US|Georgia|81
 Dores de Campos|-21.109|-44.023|BR|Minas Gerais|80
 Dörverden|52.848|9.237|DE|Lower Saxony|80
@@ -35,6 +37,7 @@ Dorchester|42.983|-81.066|CA|Ontario|79
 Dörentrup|52.041|9.003|DE|North Rhine-Westphalia|79
 Dornstadt|48.467|9.944|DE|Baden-Wurttemberg|79
 Dormont|40.396|-80.033|US|Pennsylvania|79
+Dordrechts Museum|51.814|4.672|NL|South Holland|78|f
 Dornstetten|48.472|8.498|DE|Baden-Wurttemberg|78
 Dorridge|52.373|-1.753|GB|England|78
 Dornapal|18.155|81.509|IN|Chhattisgarh|77
@@ -58,6 +61,7 @@ Dorokhovo|55.551|36.374|RU|Moscow Oblast|73
 Dorp Antriol|12.166|-68.270|BQ|Bonaire|72
 Dorogino|54.360|83.320|RU|Novosibirsk Oblast|72
 Dorum|53.688|8.567|DE|Lower Saxony|71
+Dorian Peninsula|36.717|27.541|TR|Muğla|71|f
 Dorsalanam|8.307|124.586|PH|Northern Mindanao|71
 Dörtdivan|40.721|32.063|TR|Bolu|71
 Dorp Nikiboko|12.144|-68.261|BQ|Bonaire|71
@@ -85,6 +89,7 @@ Dora|33.729|-87.090|US|Alabama|66
 Dorfprozelten|49.781|9.380|DE|Bavaria|66
 Dorp Rincon|12.238|-68.331|BQ|Bonaire|65
 Dorra|12.150|42.476|DJ|Tadjourah|65
+Dört Eylül Barajı|39.829|37.063|TR|Sivas|65|f
 Dorobanți|46.350|21.244|RO|Arad County|65
 Dório|37.288|21.856|GR|Peloponnese|65
 Dorfchemnitz|50.664|12.837|DE|Saxony|65
@@ -99,6 +104,7 @@ Doroshivtsi|48.590|25.886|UA|Chernivtsi|64
 Doringbaai|-31.817|18.237|ZA|Western Cape|64
 Dorotea|64.262|16.413|SE|Västerbotten|63
 Dorobanți|47.882|26.647|RO|Botoșani County|63
+Do Rombo Islands|14.967|-24.667|CV|Brava|63|f
 Doresópolis|-20.287|-45.903|BR|Minas Gerais|63
 Dornoch|57.880|-4.029|GB|Scotland|63
 Dorgoş|46.050|21.833|RO|Arad County|63
@@ -113,16 +119,117 @@ Dorna-Arini|47.338|25.407|RO|Suceava|62
 Dorp Tera Kora|12.137|-68.260|BQ|Bonaire|61
 Doria|39.730|16.356|IT|Calabria|61
 Dorrigo|-30.341|152.714|AU|New South Wales|61
+Doraksan|37.827|127.020|KR|Gyeonggi-do|61|f
+Dørkampen|62.102|7.985|NO|Innlandet|61|f
+Dorset Mountain|43.309|-73.028|US|Vermont|61|f
 Dormettingen|48.237|8.773|DE|Baden-Wurttemberg|61
 Doren|47.493|9.880|AT|Vorarlberg|60
 Dörrenbach|49.090|7.961|DE|Rheinland-Pfalz|60
+Dorchester on Thames|51.647|-1.167|GB|England|60
 Dorfgastein|47.242|13.102|AT|Salzburg|60
+Dorobanț|47.227|27.594|RO|Iași County|60
+Dortches|36.011|-77.857|US|North Carolina|59
+Dorukdibi|39.387|42.777|TR|Ağrı|59
+Dorn-Dürkheim|49.769|8.270|DE|Rheinland-Pfalz|59
+Dornburg|51.007|11.663|DE|Thuringia|59
+Dörfla|47.000|15.467|AT|Styria|59
+Dorris|41.967|-121.918|US|California|59
+Dorchester|45.902|-64.508|CA|New Brunswick|59
+Dörtler|37.096|35.248|TR|Adana|59
+Dörflingen|47.706|8.722|CH|Schaffhausen|59
+Doroteia|47.500|25.798|RO|Suceava|59
+Dormelles|48.315|2.899|FR|Île-de-France|59
+Dorchester|45.003|-90.336|US|Wisconsin|59
+Dorfulija|41.765|21.893|MK|Lozovo|59
+Dorohusk-Osada|51.171|23.793|PL|Lublin|59
+Dorot|31.506|34.646|IL|Southern District|59
+Dorado Nuevo|14.674|-92.211|MX|Chiapas|58
+Dorman Island|50.602|-126.336|CA|British Columbia|58|f
+Dorsey Knob|39.598|-79.959|US|West Virginia|58|f
+Dornberk|45.890|13.737|SI|Urban Municipality of Nova Gorica|58
+Dornstedt|51.411|11.746|DE|Saxony-Anhalt|58
+Dor|55.798|35.521|RU|Moscow Oblast|58
+Dorfwerfen|47.459|13.206|AT|Salzburg|58
+Dormaal|50.808|5.099|BE|Flanders|58
+Dörphof|54.610|9.987|DE|Schleswig-Holstein|58
+Dörrebach|49.945|7.720|DE|Rheinland-Pfalz|58
+Dorozhynka|48.292|30.749|UA|Kirovohrad|57
+Dorfheim|47.434|12.836|AT|Salzburg|57
+Dörnbach|48.282|14.204|AT|Upper Austria|57
+Dorstadt|52.100|10.567|DE|Lower Saxony|57
+Dorsheim|49.925|7.873|DE|Rheinland-Pfalz|57
+Dorf|47.902|13.945|AT|Upper Austria|57
+Dorf Au|48.067|15.464|AT|Lower Austria|57
+Dorolea|47.173|24.638|RO|Bistrița-Năsăud County|56
+Dorénaz|46.149|7.043|CH|Valais|56
+Dör|47.599|17.300|HU|Győr-Moson-Sopron|56
+Doroșcani|47.146|27.267|RO|Iași County|56
+Dorrington|52.622|-2.774|GB|England|56
+Dorrington|38.301|-120.277|US|California|56
+Dorat|45.893|3.481|FR|Auvergne-Rhône-Alpes|56
+Dörpling|54.259|9.305|DE|Schleswig-Holstein|56
+Dörnberg|50.326|7.883|DE|Rheinland-Pfalz|56
+Dorobanțu|43.992|24.826|RO|Teleorman County|56
+Dorchester|40.647|-97.113|US|Nebraska|55
+Doruk|37.703|40.792|TR|Diyarbakır Province|55
+Dorans|47.589|6.838|FR|Bourgogne-Franche-Comté|55
+Dornecy|47.436|3.585|FR|Bourgogne-Franche-Comté|55
+Dornheim|50.835|10.994|DE|Thuringia|55
+Dorothéa|40.995|22.057|GR|Central Macedonia|55
+Dörpstedt|54.124|9.619|DE|Schleswig-Holstein|55
+Dörtbölük|38.452|41.409|TR|Batman|55
+Dörfl im Burgenland|47.483|16.483|AT|Burgenland|55
+Dorf|47.573|8.648|CH|Zurich|54
+Dörth|50.150|7.583|DE|Rheinland-Pfalz|54
+Dorinne|50.315|4.976|BE|Wallonia|54
+Doran Regional Park|38.314|-123.043|US|California|54|f
+Dore Holm|60.469|-1.603|GB|Scotland|54|f
+Dorena Lake|43.773|-122.924|US|Oregon|54|f
+Dori Airport|14.033|-0.033|BF|Sahel|54|f
+Dorothee Island|-33.757|134.305|AU|South Australia|54|f
+Dorothy Scott Airport|48.959|-119.412|US|Washington|54|f
+Dorsey Island|-70.356|-71.602|AQ||54|f
 Dorohusk|51.155|23.803|PL|Lublin|54
+Dori Sakassou|7.701|-5.561|CI|Vallée du Bandama District|54
+Dörscheid|50.100|7.750|DE|Rheinland-Pfalz|53
 Dorzano|45.426|8.099|IT|Piedmont|52
+Dörsdorf|50.246|8.010|DE|Rheinland-Pfalz|52
 Dorstone|52.067|-3.000|GB|England|52
 Dorio|46.100|9.319|IT|Lombardy|50
 Dorfbeuern|48.017|13.017|AT|Salzburg|50
 Dorsino|46.073|10.897|IT|Trentino-Alto Adige|50
+Doran Glacier|-77.717|162.667|AQ||49|f
+Dore Abbey|51.969|-2.894|GB|England|49|f
+Dorney Lake|51.494|-0.665|GB|England|49|f
+Dorrigo National Park|-30.382|152.751|AU|New South Wales|49|f
+Dorsey Mountains|-67.050|-67.050|AQ||49|f
+Dorstone Castle|52.069|-3.005|GB|England|49|f
+Dörnick|54.164|10.360|DE|Schleswig-Holstein|49
+Dornholzhausen|50.270|7.790|DE|Rheinland-Pfalz|47
+Dorsel|50.383|6.800|DE|Rheinland-Pfalz|47
+Dörrmoschel|49.617|7.750|DE|Rheinland-Pfalz|45
+Dora Lake|45.359|-79.929|CA|Ontario|40|f
+Dorchester Bay|65.417|-77.048|CA|Nunavut|40|f
+Dorchester Bay|42.325|-71.008|US|Massachusetts|40|f
+Dorchuck Glacier|-74.733|-113.933|AQ||40|f
+Doré Lake|54.767|-107.284|CA|Saskatchewan|40|f
+Dorena Bridge|43.738|-122.884|US|Oregon|40|f
+Doris Lake|43.951|-121.842|US|Oregon|40|f
+Dorje Lakpa|28.174|85.780|NP|Bagmati Province|40|f
+Dörnberg|51.353|9.347|DE|Hesse|40|f
+Dorre Island|-25.117|113.133|AU|Western Australia|40|f
+Dorrer Glacier|-82.683|163.083|AQ||40|f
+Dorset Island|64.201|-76.532|CA|Nunavut|40|f
+Dorbuk Utara|-7.193|113.504|ID|East Java|0
+Dorfchemnitz|50.767|13.450|DE|Saxony|0
 Dorfstetten|48.326|14.982|AT|Lower Austria|0
+Doro Oo|-8.686|118.763|ID|West Nusa Tenggara|0
+Doroagung|-6.964|112.876|ID|East Java|0
+Doropayung|-8.107|111.940|ID|East Java|0
+Doropayung|-6.720|111.144|ID|Central Java|0
+Doropayung|-6.725|111.435|ID|Central Java|0
+Doropeti|-8.347|117.822|ID|West Nusa Tenggara|0
 Dorosyni|50.947|25.010|UA|Volyn|0
+Dörpstedt|54.435|9.362|DE|Schleswig-Holstein|0
+Dorupare|-8.823|121.053|ID|East Nusa Tenggara|0
 Dorutay|38.799|44.067|TR|Van|0

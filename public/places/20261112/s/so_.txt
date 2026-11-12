@@ -4,7 +4,7 @@ Somalia|6.000|48.000|SO||146|c
 South Sudan|7.500|30.000|SS||142|c
 Soccsksargen|6.474|124.904|PH||133|r
 South Holland|52.000|4.667|NL||131|r
-Sonora|29.667|-110.500|MX||128|r
+Sonora|29.667|-110.500|MX||129|r
 South Sumatra|-2.750|103.833|ID||128|r
 South Carolina|34.000|-81.000|US||127|r
 South Sulawesi|-4.333|120.250|ID||127|r
@@ -16,12 +16,12 @@ Somali|7.000|44.000|ET||124|r
 South Hwanghae|38.200|125.533|KP||124|r
 South Pyongan|39.500|126.167|KP||124|r
 South Hamgyong|40.233|127.750|KP||124|r
+South Moravian|49.201|16.613|CZ||123|r
 South Tangerang|-6.289|106.718|ID|Banten|123
-South Moravian|49.201|16.613|CZ||122|r
+Southern District|30.667|34.833|IL||122|r
 Southern Region|-15.500|35.000|MW||122|r
 South Ethiopia Regional State|6.863|37.735|ET||122|r
 South Kivu|-3.167|28.250|CD||122|r
-Southern District|30.667|34.833|IL||122|r
 South Kalimantan|-2.500|115.500|ID||122|r
 Sofia-Capital|42.667|23.383|BG||121|r
 Sofia|42.698|23.324|BG|Sofia-Capital|121
@@ -35,21 +35,21 @@ Solomon Islands|-8.000|159.000|SB||118|c
 Sorocaba|-23.502|-47.458|BR|São Paulo|118
 Soacha|4.579|-74.217|CO|Cundinamarca|116
 Southern Province|-16.500|27.000|ZM||116|r
+South Dakota|44.500|-100.251|US||116|r
 Southeast Sulawesi|-4.394|122.215|ID||116|r
 Sousse Governorate|35.917|10.417|TN||116|r
-South Dakota|44.500|-100.251|US||115|r
 South Boston|42.333|-71.049|US|Massachusetts|115
 Southwest Finland|60.500|22.250|FI||115|r
 Southern District|22.241|114.208|HK||115|r
+South Bohemian Region|49.083|14.500|CZ||115|r
 Southern Province|6.167|80.750|LK||114|r
-South Bohemian Region|49.083|14.500|CZ||114|r
 Southern Province|7.800|-12.000|SL||113|r
 South Governorate|33.417|35.333|LB||112|r
 Southern Province|-2.333|29.667|RW||112|r
 South Khorasan Province|32.500|59.500|IR||111|r
 Songwe|-9.010|32.803|TZ||111|r
-Soledad|10.918|-74.765|CO|Atlántico|111
 South|2.750|11.583|CM||111|r
+Soledad|10.918|-74.765|CO|Atlántico|111
 Soledad de Graciano Sánchez|22.189|-100.938|MX|San Luis Potosí|110
 Soyapango|13.710|-89.140|SV|San Salvador Department|110
 Sochi|43.597|39.725|RU|Krasnodar Krai|110
@@ -62,10 +62,11 @@ Sonīpat|28.995|77.019|IN|Haryana|109
 Songea|-10.683|35.650|TZ|Ruvuma|109
 Southampton|50.904|-1.404|GB|England|109
 Sohag|26.557|31.695|EG|Sohag|109
+South Aegean|36.167|27.906|GR||108|r
 Southwest Papua|-0.871|131.282|ID||108|r
 Sōka|35.836|139.800|JP|Saitama|108
-South Aegean|36.167|27.906|GR||108|r
 Southern Kordofan|11.267|30.833|SD||107|r
+Södermanland|59.250|16.667|SE||107|r
 Sơn Tây|21.141|105.507|VN|Hanoi|107
 Southern Governorate|25.867|50.583|BH||107|r
 Sosnowiec|50.287|19.104|PL|Silesia|107
@@ -75,19 +76,18 @@ Sofia|-15.200|48.400|MG||107|r
 Sousse|35.825|10.637|TN|Sousse Governorate|107
 Soyo|-6.135|12.369|AO|Zaire|107
 Sóc Trăng|9.600|105.972|VN|Can Tho City|107
-Södermanland|59.250|16.667|SE||107|r
 Sorong|-0.880|131.261|ID|Southwest Papua|107
 Sobral|-3.686|-40.350|BR|Ceará|107
-Sodo|6.860|37.762|ET|South Ethiopia Regional State|106
 Somogy County|46.417|17.583|HU||106|r
+Sodo|6.860|37.762|ET|South Ethiopia Regional State|106
 Sorsogon|12.974|123.993|PH|Bicol Region|105
 Sopāra|19.416|72.801|IN|Maharashtra|105
 South Province|-21.750|165.833|NC||105|r
 Songcheng|26.882|120.001|CN|Fujian|104
 Solingen|51.173|7.085|DE|North Rhine-Westphalia|104
 Sonsonate Department|13.700|-89.700|SV||104|r
-Souk Ahras|36.286|7.951|DZ|Souk Ahras|104
 South Savo|61.750|27.833|FI||104|r
+Souk Ahras|36.286|7.951|DZ|Souk Ahras|104
 Songnim-ni|38.763|125.641|KP|North Hwanghae|104
 South Papua|-8.499|140.428|ID||104|r
 South Karelia|60.967|28.167|FI||103|r

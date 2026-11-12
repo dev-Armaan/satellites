@@ -8,6 +8,7 @@ Bystrc|49.226|16.530|CZ|South Moravian|88
 Byblos|34.121|35.648|LB|Mount Lebanon|86
 Byndoor|13.867|74.633|IN|Karnataka|86
 Byford|-32.221|116.009|AU|Western Australia|86
+Bydgoszcz Ignacy Jan Paderewski Airport|53.097|17.978|PL|Kujawsko-Pomorskie|85|f
 Bytów|54.171|17.492|PL|Pomerania|84
 Bykhov|53.521|30.231|BY|Mogilev|84
 Byureghavan|40.313|44.597|AM|Kotayk|81
@@ -35,6 +36,7 @@ Bytosh’|53.819|34.091|RU|Bryansk Oblast|73
 Bytom Odrzański|51.731|15.824|PL|Lubusz|73
 Bytkiv|48.631|24.471|UA|Ivano-Frankivsk|73
 Byurakan|40.339|44.273|AM|Aragatsotn|73
+Bystrá|49.188|19.843|SK|Žilina Region|72|f
 Byram|41.004|-73.654|US|Connecticut|72
 Bystrom|37.621|-120.986|US|California|72
 Bystřice|49.732|14.667|CZ|Central Bohemia|72
@@ -47,15 +49,22 @@ ByWard Market|45.427|-75.692|CA|Ontario|70
 Byala Cherkva|43.200|25.300|BG|Veliko Tarnovo|70
 Bystra|49.648|19.780|PL|Lesser Poland|69
 Byrnes Mill|38.438|-90.582|US|Missouri|69
+Bygdøy|59.909|10.680|NO|Oslo|69|f
+Byron Airport|37.830|-121.627|US|California|69|f
 Bykivnia|50.473|30.671|UA|Kyiv City|69
 Byahoml’|54.732|28.058|BY|Vitebsk|68
 Byesville|39.970|-81.537|US|Ohio|68
 Byron|43.080|-78.064|US|New York|67
 Byala|42.874|27.889|BG|Varna|67
+Bystrinsky Golets|49.717|109.950|RU|Zabaykalskiy (Transbaikal) Kray|67|f
 Bystrzyca|50.960|17.397|PL|Lower Silesia|67
 Bylym|43.463|43.043|RU|Kabardino-Balkariya Republic|66
 Bylas|33.134|-110.120|US|Arizona|66
 Bykivka|50.293|27.983|UA|Zhytomyr Oblast|66
+Byeongpungsan|35.325|126.886|KR|Jeollanam-do|65|f
+Bynack More|57.138|-3.585|GB|Scotland|65|f
+Byrknesøyna|60.894|4.889|NO|Vestland|65|f
+Byron Sound|-51.451|-60.227|FK||65|f
 Bystřany|50.629|13.864|CZ|Ústí nad Labem Region|65
 Bystryanka|52.286|85.828|RU|Altai Krai|65
 Bynum|33.613|-85.961|US|Alabama|65
@@ -78,15 +87,73 @@ Bytnica|52.151|15.169|PL|Lubusz|62
 Byng|34.861|-96.666|US|Oklahoma|62
 Bykhiv|51.754|25.282|UA|Volyn|61
 Byers|39.711|-104.228|US|Colorado|61
+Byron Bay|19.736|-155.078|US|Hawaii|61|f
+Byron Heights|-51.425|-60.565|FK||61|f
+Byvågåsane Peaks|-69.433|39.783|AQ||61|f
 Býšť|50.132|15.911|CZ|Pardubice Region|61
 Bystrytsia|48.469|22.833|UA|Zakarpattia|61
 Bystřec|50.012|16.619|CZ|Pardubice Region|61
 Bystrytsia|48.460|24.246|UA|Ivano-Frankivsk|60
+Bykle|59.354|7.357|NO|Agder|60
+Bystřička|49.415|17.974|CZ|Zlín|60
+Bystra|49.620|19.188|PL|Silesia|60
+Bystrzyca|49.978|21.729|PL|Subcarpathia|59
+Bystrzyca|50.989|22.408|PL|Lublin|59
+Byers Green|54.700|-1.653|GB|England|59
 Byrdstown|36.575|-85.129|US|Tennessee|58
+Bystřice pod Lopeníkem|48.975|17.764|CZ|Zlín|58
+Byers Peninsula|-62.633|-61.066|AQ||58|f
+Bywell Castle|54.951|-1.924|GB|England|58|f
+Bystrovany|49.596|17.324|CZ|Olomouc Region|57
+Byelagruda|53.801|25.167|BY|Grodnenskaya|57
+Byriuky|47.862|38.084|UA|Donetsk|57
+Byans-sur-Doubs|47.115|5.855|FR|Bourgogne-Franche-Comté|57
+Byurakn|40.868|43.717|AM|Shirak|56
+Byron|44.796|-108.507|US|Wyoming|56
+Bystritsa|58.528|49.216|RU|Kirov Oblast|56
+Bystročice|49.536|17.194|CZ|Olomouc Region|55
+Bystre|50.379|22.396|PL|Subcarpathia|55
+Bystriivka|49.839|29.268|UA|Zhytomyr Oblast|55
+Bystrzyca|51.774|22.314|PL|Lublin|55
+Byron|42.823|-83.944|US|Michigan|55
+Byromville|32.202|-83.909|US|Georgia|54
+Byavatnet|63.664|11.020|NO|Trøndelag|54|f
+Bydalsfjellet|78.583|14.000|SJ|Svalbard|54|f
+Byers Lake|62.739|-150.117|US|Alaska|54|f
+Byewater Point|-62.753|-61.502|AQ||54|f
+Byfjorden|60.423|5.268|NO|Vestland|54|f
+Bylot Island|73.260|-78.805|CA|Nunavut|54|f
+Byramgore Reef|11.900|71.817|IN||54|f
+Byrkjelandsvatnet|58.706|6.143|NO|Rogaland|54|f
+Byrtevatn|59.548|7.823|NO|Telemark|54|f
+Býchory|50.068|15.273|CZ|Central Bohemia|54
+Bygdeå|64.060|20.856|SE|Västerbotten|54
 Byrum|57.257|10.997|DK|North Denmark|53
 Bytoń|52.558|18.595|PL|Kujawsko-Pomorskie|53
+Bybee Peak|42.391|-122.722|US|Oregon|49|f
+Byerly, Mount|-81.883|-89.383|AQ||49|f
+Byers Peak|39.864|-105.947|US|Colorado|49|f
+Byfield National Park|-22.860|150.762|AU|Queensland|49|f
+Bygdin|61.362|8.382|NO|Innlandet|49|f
+Byglandsfjorden|58.801|7.781|NO|Agder|49|f
+Bylot Sound|76.414|-69.746|GL|Avannaata|49|f
+Byrd Head|-67.454|61.025|AQ||49|f
+Byrd Stadium|38.990|-76.946|US|Maryland|49|f
+Byron Island|-10.550|151.117|PG|Milne Bay Province|49|f
+Byway Glacier|-66.502|-65.176|AQ||49|f
+Byam Martin Island|75.252|-104.253|CA|Nunavut|40|f
+Byam Martin Mountains|73.385|-78.582|CA|Nunavut|40|f
+Byeonsan-bando National Park|35.682|126.532|KR|Jeollabuk-do|40|f
+Byers Field|41.382|-81.737|US|Ohio|40|f
+Byland Abbey|54.203|-1.159|GB|England|40|f
+Byllesby Dam|44.512|-92.940|US|Minnesota|40|f
+Bynum Peak|-85.050|-173.683|AQ||40|f
+Byrd, Mount|-77.167|-144.633|AQ||40|f
+Byron Peak|60.728|-148.861|US|Alaska|40|f
+Byzantine Museum of Kastoria|40.519|21.268|GR|West Macedonia|40|f
 Byeollyang|34.875|127.452|KR|Jeollanam-do|0
 Byeonggok|35.531|127.682|KR|Gyeongsangnam-do|0
+Byfleet|51.340|-0.473|GB|England|0
 Bygland|58.828|7.796|NO|Agder|0
 Byshiv|50.266|29.883|UA|Kyiv Oblast|0
 Bytyç|42.310|20.203|AL|Kukës County|0

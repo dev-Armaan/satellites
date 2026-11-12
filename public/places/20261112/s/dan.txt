@@ -2,6 +2,7 @@ Da Nang|16.068|108.221|VN|Da Nang City|122
 Dandong|40.129|124.395|CN|Liaoning|118
 Danlí|14.033|-86.583|HN|El Paraíso Department|107
 Danshui|25.172|121.443|TW|Taipei|106
+Da Nang International Airport|16.044|108.199|VN|Da Nang City|105|f
 Danshui|22.798|114.467|CN|Guangdong|102
 Danjiangkou|32.543|111.509|CN|Hubei|99
 Danbury|41.395|-73.454|US|Connecticut|99
@@ -15,6 +16,7 @@ Dangjiang|21.650|109.117|CN|Guangxi|93
 Danville|37.822|-122.000|US|California|93
 Danville|36.586|-79.395|US|Virginia|92
 Đan Phượng|21.089|105.662|VN|Hanoi|92
+Danish national museum|55.675|12.575|DK|Capital Region|91|f
 Dana Point|33.467|-117.698|US|California|91
 Danderyd|59.404|18.024|SE|Stockholm|90
 Danville|40.124|-87.630|US|Illinois|90
@@ -27,6 +29,7 @@ Dankov|53.250|39.144|RU|Lipetsk Oblast|87
 Danghara|38.096|69.340|TJ|Khatlon Province|87
 Da Nyin Kone|16.933|96.093|MM|Yangon|87
 Dandenong North|-37.966|145.208|AU|Victoria|87
+Daniel K. Inouye International Airport|21.325|-157.925|US|Hawaii|87|f
 Danao|9.554|123.756|PH|Central Visayas|86
 Danzi|30.857|108.006|CN|Chongqing|85
 Danforth East York|43.689|-79.331|CA|Ontario|85
@@ -37,18 +40,23 @@ Dan Khun Thot|15.209|101.771|TH|Nakhon Ratchasima|84
 Dandu|29.837|107.146|CN|Chongqing|83
 Dantewāra|18.889|81.351|IN|Chhattisgarh|83
 Dankaur|28.351|77.555|IN|Uttar Pradesh|82
+Dandong Langtou Airport|40.025|124.286|CN|Liaoning|82|f
 Dange|12.853|5.346|NG|Sokoto|82
 Danguira|5.670|-3.768|CI|Lagunes District|81
+Danskøya|79.700|10.933|SJ|Svalbard|81|f
 Dannhauser|-28.015|30.057|ZA|KwaZulu-Natal|80
+Danjo Archipelago|32.029|128.375|JP|Nagasaki|80|f
 Daniëlskuil|-28.189|23.540|ZA|Northern Cape|80
 Daniel Flores|9.336|-83.670|CR|San José|80
 Dancu|46.758|28.207|MD|Hînceşti|80
 Dangriga|16.970|-88.233|BZ|Stann Creek|80
 Dancalan|9.982|122.739|PH|Western Visayas|80
 Danja|11.377|7.561|NG|Katsina State|80
+Dane County Regional Airport-Truax Field|43.137|-89.346|US|Wisconsin|80|f
 Danville|39.761|-86.526|US|Indiana|80
 Dananyu|33.431|105.758|CN|Gansu|80
 Dānesfahān|35.812|49.743|IR|Qazvin Province|79
+Danbury Municipal Airport|41.371|-73.482|US|Connecticut|79|f
 Dandi|19.798|72.765|IN|Maharashtra|79
 Dannenberg|53.097|11.090|DE|Lower Saxony|78
 Dania|7.151|-6.841|CI|Sassandra-Marahoue|78
@@ -58,6 +66,7 @@ Dan Sadau|11.296|6.495|NG|Zamfara State|78
 Danbao|32.861|104.773|CN|Gansu|77
 Dannstadt-Schauernheim|49.440|8.309|DE|Rheinland-Pfalz|77
 Dăneţi|43.983|24.050|RO|Dolj|77
+Dansville Municipal Airport|42.571|-77.713|US|New York|77|f
 Dancu|47.154|27.666|RO|Iași County|77
 Danbury|51.716|0.582|GB|England|76
 Dankama|13.298|7.795|NG|Katsina State|76
@@ -83,6 +92,7 @@ Dandougou|8.384|-5.901|CI|Woroba|72
 Danielson|41.803|-71.886|US|Connecticut|72
 Dăneşti|44.967|23.333|RO|Gorj County|72
 Dăneasa|44.150|24.567|RO|Olt|72
+Dangsan-cheolgyo|37.541|126.908|KR|Seoul|71|f
 Dannemora|44.721|-73.724|US|New York|71
 Danylivka|50.251|30.220|UA|Kyiv Oblast|71
 Danjoutin|47.618|6.862|FR|Bourgogne-Franche-Comté|71
@@ -91,21 +101,31 @@ Dangé-Saint-Romain|46.933|0.600|FR|New Aquitaine|71
 Danao|9.633|124.200|PH|Central Visayas|71
 Dana|35.329|-82.375|US|North Carolina|70
 Danipleu|7.497|-8.408|CI|Montagnes|70
+Dan Jones International Airport|30.043|-95.667|US|Texas|70|f
+Dano Airport|11.138|-3.074|BF|Sud-Ouest|70|f
+Danube Delta|45.500|29.417|RO||70|f
 Dângeni|47.850|26.967|RO|Botoșani County|70
 Dandridge|36.015|-83.415|US|Tennessee|69
 Dánszentmiklós|47.215|19.547|HU|Pest County|69
 Danderhall|55.914|-3.111|GB|Scotland|69
 Dănciuleşti|44.733|23.750|RO|Gorj County|69
+Danau Iralaloro|-8.450|127.133|TL|Lautém|69|f
 Danlugan|7.892|123.371|PH|Zamboanga Peninsula|69
 Dăneşti|46.850|27.667|RO|Vaslui County|68
 Danguineu|7.289|-8.195|CI|Montagnes|68
 Danville|35.054|-93.394|US|Arkansas|67
+Dana Adası|36.189|33.773|TR|Mersin|67|f
+Dancing Lady Mountain|48.425|-113.312|US|Montana|67|f
+Daniel Oduber Quirós International Airport|10.593|-85.544|CR|Guanacaste Province|67|f
+Daniels Range|-71.250|160.000|AQ||67|f
 Danndorf|52.425|10.913|DE|Lower Saxony|67
 Dangcalan|12.917|123.584|PH|Bicol Region|67
 Dannemarie|47.630|7.119|FR|Grand Est|66
 Dandot RS|32.642|72.975|PK|Punjab|66
 Danyang|26.351|119.480|CN|Fujian|66
 Daniels|37.743|-81.124|US|West Virginia|65
+Danau Tolire Kecil|0.842|127.306|ID|North Maluku|65|f
+Dannebrogsø|65.317|-39.583|GL|Sermersooq|65|f
 Danylovo|48.147|23.456|UA|Zakarpattia|65
 Dangoukro|7.538|-4.292|CI|Lacs District|65
 Danbury|29.228|-95.345|US|Texas|65
@@ -115,6 +135,9 @@ Dankunku|13.567|-15.317|GM|Central River|64
 Dangīzak|35.930|50.638|IR|Alborz Province|64
 Dang|15.827|107.579|VN|Da Nang City|64
 Danby|54.466|-0.911|GB|England|64
+Daniel Island|32.859|-79.912|US|South Carolina|63|f
+Dans Mountain|39.582|-78.897|US|Maryland|63|f
+Danseoksan|35.795|129.089|KR|Gyeongsangbuk-do|63|f
 Dannemarie-sur-Crête|47.205|5.870|FR|Bourgogne-Franche-Comté|63
 Dantogo|7.811|-6.222|CI|Woroba|63
 Dănceu|44.364|22.721|RO|Mehedinți County|63
@@ -128,34 +151,178 @@ Dantongouiné|7.655|-8.097|CI|Montagnes|61
 Dangrézo|8.050|-7.092|CI|Woroba|61
 Danki|54.918|37.570|RU|Moscow Oblast|61
 Dane|43.251|-89.502|US|Wisconsin|61
+Danau Batur|-8.257|115.409|ID|Bali|61|f
+Dangur|11.367|35.950|ET|Bīnshangul Gumuz|61|f
+Dantes View|36.221|-116.726|US|California|61|f
 Danzourou|10.432|-6.350|CI|Savanes District|61
 Dannewerk|54.485|9.506|DE|Schleswig-Holstein|61
 Daniel|40.471|-111.415|US|Utah|60
 Dang Sarak|36.793|53.247|IR|Māzandarān|60
 Danville|40.448|-82.260|US|Ohio|60
 Dantzibojay|20.437|-99.587|MX|Hidalgo|60
+Dankivtsi|48.428|26.511|UA|Chernivtsi|60
+Dannenfels|49.629|7.944|DE|Rheinland-Pfalz|60
+Danylova Balka|48.257|30.251|UA|Kirovohrad|60
+Danville|40.864|-91.315|US|Iowa|59
+Dankerode|51.592|11.140|DE|Saxony-Anhalt|59
+Danghu|20.506|-99.348|MX|Hidalgo|58
+Danbaïra|9.387|-4.739|CI|Savanes District|58
+Dănila|47.752|26.102|RO|Suceava|58
+Danau Paniai|-3.902|136.318|ID|Central Papua|58|f
+Danau Sentani|-2.612|140.517|ID|Papua|58|f
+Danco Island|-64.734|-62.594|AQ||58|f
+Danggali Conservation Park|-33.512|140.843|AU|South Australia|58|f
+Daniel Field Airport|33.467|-82.039|US|Georgia|58|f
+Daniel’s Island|32.306|-64.883|BM|Sandys|58|f
+Dannebrog Islands|-65.033|-64.100|AQ||58|f
+Dannevig Island|-39.106|146.238|AU|Victoria|58|f
+Dangeau|48.208|1.286|FR|Centre-Val de Loire|58
+Daniel Camarena|21.347|-102.894|MX|Zacatecas|58
+Dangú|19.517|-99.400|MX|México|57
+Danylo-Ivanivka|46.753|35.280|UA|Zaporizhzhia|57
+Dan|33.240|35.653|IL|Northern District|57
+Danoa|9.688|-3.079|CI|Zanzan District|57
+Danzé|47.894|1.026|FR|Centre-Val de Loire|57
+Danta|7.025|-8.166|CI|Montagnes|57
+Dannemois|48.454|2.479|FR|Île-de-France|57
+Dannigkow|52.070|11.874|DE|Saxony-Anhalt|57
+Dankouampleu|7.449|-8.388|CI|Montagnes|57
+Dankou|26.360|110.243|CN|Hunan|57
+Dannau|54.241|10.542|DE|Schleswig-Holstein|57
+Danville|38.081|-81.834|US|West Virginia|56
+Danforth|45.660|-67.868|US|Maine|56
+Dante|36.978|-82.298|US|Virginia|56
+Dănești|47.620|23.733|RO|Maramureş|56
+Dangolsheim|48.572|7.465|FR|Grand Est|56
+Dangu|49.253|1.695|FR|Normandy|56
+Dangy|49.045|-1.224|FR|Normandy|56
+Danalı|37.882|41.257|TR|Batman|56
+Dana|39.808|-87.495|US|Indiana|55
+Danforth|40.820|-87.978|US|Illinois|55
 Danielsville|34.124|-83.221|US|Georgia|55
+Danizy|49.666|3.392|FR|Hauts-de-France|55
+Dansville|42.556|-84.303|US|Michigan|55
+Dānālū|37.486|45.842|IR|East Azerbaijan|55
+Danstedt|51.912|10.886|DE|Saxony-Anhalt|55
+Dantomba|7.770|-7.545|CI|Montagnes|55
+Danne|48.764|7.294|FR|Grand Est|55
+Danbé|8.067|-3.014|CI|Zanzan District|55
+Dangeul|48.248|0.257|FR|Pays de la Loire|55
+Danajon Islet|10.264|124.617|PH|Central Visayas|54|f
+Danau Galela|1.818|127.812|ID|North Maluku|54|f
+Danau Linow|1.271|124.826|ID|North Sulawesi|54|f
+Danbury Museum and Historical Society|41.388|-73.445|US|Connecticut|54|f
+Dangan|53.506|-6.756|IE|Leinster|54|f
+Danger Island|-6.389|71.240|IO||54|f
+Danger Islands|-63.423|-54.692|AQ||54|f
+Dangriga Airport|16.983|-88.231|BZ|Stann Creek|54|f
+Dänholm|54.309|13.121|DE|Mecklenburg-Vorpommern|54|f
+Dänholm|54.136|13.750|DE|Mecklenburg-Vorpommern|54|f
+Dankworth Pond|32.721|-109.703|US|Arizona|54|f
+Danmark Fjord|81.000|-23.117|GL||54|f
+Dano|5.767|37.550|ET|South Ethiopia Regional State|54|f
+Danville Regional Airport|36.574|-79.340|US|Virginia|54|f
+Danişment|40.238|27.101|TR|Canakkale|54
 Danta|46.567|12.521|IT|Veneto|54
+Dana Mountains|-73.200|-62.416|AQ||49|f
+Danau Tamblingan|-8.258|115.095|ID|Bali|49|f
+Danbulla National Park|-17.118|145.604|AU|Queensland|49|f
+Dancing Satyr of Mazara del Vallo|37.652|12.588|IT|Sicily|49|f
+Dandenong Ranges National Park|-37.846|145.344|AU|Victoria|49|f
+Danforth, Mount|-85.933|-150.017|AQ||49|f
+Dangar Island|-33.540|151.243|AU|New South Wales|49|f
+Danger Island|-22.012|150.164|AU|Queensland|49|f
+Daniel Boone Bridge|38.687|-90.663|US|Missouri|49|f
+Daniel Island|-66.233|110.594|AQ||49|f
+Daniell Peninsula|-72.833|169.583|AQ||49|f
+Danielson Airport|41.821|-71.902|US|Connecticut|49|f
+Danjugan Island|9.873|122.379|PH|Western Visayas|49|f
+Danteshwari Temple|18.897|81.345|IN|Chhattisgarh|49|f
 Danbury|36.409|-80.206|US|North Carolina|45
+Dankerath|50.333|6.817|DE|Rheinland-Pfalz|40
+Dan Hole Pond|43.733|-71.208|US|New Hampshire|40|f
+Dana Glacier|48.319|-121.052|US|Washington|40|f
+Danby Lake|34.214|-115.100|US|California|40|f
+Dancing Point|37.233|-76.916|US|Virginia|40|f
+Dancing Rabbit Creek Treaty Site|33.010|-88.754|US|Mississippi|40|f
+Dandeli Wildlife Sanctuary|15.267|74.617|IN|Karnataka|40|f
+Dandy Lake|43.917|-115.087|US|Idaho|40|f
+Dane Lake|46.260|-95.874|US|Minnesota|40|f
+Danger Cave State Historical Monument|40.752|-114.016|US|Utah|40|f
+Daniel Hoan Memorial Bridge|43.025|-87.899|US|Wisconsin|40|f
+Daniel Island|63.101|-67.748|CA|Nunavut|40|f
+Daniel Pratt Historic District|32.461|-86.473|US|Alabama|40|f
+Danielson Provincial Park|51.267|-106.835|CA|Saskatchewan|40|f
+Danley Covered Bridge|40.055|-80.439|US|Pennsylvania|40|f
+Danmark|59.891|10.533|NO|Akershus|40|f
+Dannevirke Domain|-40.208|176.110|NZ|Manawatu-Wanganui|40|f
+Danny MacDonalds Lake|45.975|-60.079|CA|Nova Scotia|40|f
+Dans Mountain State Park|39.557|-78.954|US|Maryland|40|f
+Dante Park|40.772|-73.983|US|New York|40|f
+Dante Statue|38.920|-77.036|US|District of Columbia|40|f
+Danube-Black Sea Canal|44.262|28.181|RO|Constanța County|40|f
+Danville Airport|40.948|-76.646|US|Pennsylvania|40|f
+Danville Mountain|40.870|-74.937|US|New Jersey|40|f
+Danville Municipal Airport|35.087|-93.432|US|Arkansas|40|f
+Danville Science Center|36.584|-79.384|US|Virginia|40|f
+Danville Stadium|40.109|-87.632|US|Illinois|40|f
 Dan Chang|14.842|99.698|TH|Suphan Buri|0
 Dan Makham Tia|13.853|99.410|TH|Kanchanaburi|0
 Dan Musa|12.262|7.334|NG|Katsina State|0
 Dan Sai|17.280|101.147|TH|Loei|0
+Dana|29.705|89.236|CN|Tibet|0
+Danan|28.549|118.244|CN|Jiangxi|0
+Dananshan|23.258|116.175|CN|Guangdong|0
 Danao|9.945|124.223|PH|Central Visayas|0
 Danaupanggang|-2.408|115.040|ID|South Kalimantan|0
 Danauparis|2.411|98.085|ID|Aceh|0
+Danchang|21.513|111.101|CN|Guangdong|0
+Dancun|34.719|109.054|CN|Shaanxi|0
+Dandai|46.274|123.840|CN|Jilin|0
 Ḏanḏar|34.791|69.475|AF|Parwan|0
+Dandian|30.768|115.178|CN|Hubei|0
 Dando|-11.243|17.415|AO|Bíe|0
 Dandume|11.459|7.126|NG|Katsina State|0
 Danfeng|24.831|104.008|CN|Yunnan|0
 Dang‘ara|40.584|70.914|UZ|Fergana|0
 Dāngām|34.992|71.419|AF|Kunar|0
+Dangbigih|-6.970|113.076|ID|East Java|0
+Dangbigih|-6.987|113.088|ID|East Java|0
 Dangcheng|34.428|116.377|CN|Anhui|0
+Dangcheng|38.737|114.572|CN|Hebei|0
 Dangchengwan|39.500|95.041|CN|Gansu|0
+Dangdeur|-7.253|107.829|ID|West Java|0
 Dange ya Menha|-9.532|14.653|AO|Cuanza Norte|0
+Danger Utara|-8.612|116.459|ID|West Nusa Tenggara|0
+Dangiang|-7.459|107.876|ID|West Java|0
+Dangjiaxian|35.530|105.302|CN|Gansu|0
+Dangkah|-6.908|113.064|ID|East Java|0
 Dangkao|11.562|104.856|KH|Phnom Penh|0
+Danglang Hudong|41.675|112.911|CN|Inner Mongolia|0
 Danglas|17.701|120.656|PH|Cordillera|0
+Dangliuzhuang|39.989|113.422|CN|Shanxi|0
+Dangmu|34.814|109.621|CN|Shaanxi|0
+Dangshan|30.164|120.519|CN|Zhejiang|0
+Dangshun|35.846|102.027|CN|Qinghai|0
+Dangur|-7.360|108.084|ID|West Java|0
+Dangwan|30.230|120.544|CN|Zhejiang|0
+Danian|33.429|104.630|CN|Gansu|0
+Danidehe|-10.607|121.821|ID|East Nusa Tenggara|0
+Danirai|-10.573|121.739|ID|East Nusa Tenggara|0
 Danişment|39.869|27.633|TR|Balıkesir|0
 Danişment|39.172|38.199|TR|Sivas|0
+Daniwato|-8.488|122.952|ID|East Nusa Tenggara|0
+Danpateh|-6.929|113.537|ID|East Java|0
+Danurejo|-8.242|113.072|ID|East Java|0
+Danxi|28.232|120.991|CN|Zhejiang|0
 Danxi|29.475|121.866|CN|Zhejiang|0
+Danxi|24.609|115.775|CN|Jiangxi|0
+Danxia|25.047|113.749|CN|Guangdong|0
+Danyang|31.629|118.716|CN|Jiangsu|0
+Danyang|31.648|118.715|CN|Jiangsu|0
+Danyun|25.994|119.022|CN|Fujian|0
+Danzao|23.043|112.914|CN|Guangdong|0
+Danzhaolu|32.553|111.528|CN|Hubei|0
+Danzhou|29.010|111.635|CN|Hunan|0
 Danzhu|36.124|112.861|CN|Shanxi|0
+Danzhu|28.673|120.572|CN|Zhejiang|0

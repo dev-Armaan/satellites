@@ -61,6 +61,7 @@ Fundong|6.280|10.283|CM|North-West|93
 Fuzuli District|39.583|47.333|AZ||92|r
 Furmanov|57.254|41.111|RU|Ivanovo Oblast|92
 Fūman|37.224|49.313|IR|Gilan Province|91
+Fukuoka Airport|33.586|130.451|JP|Fukuoka|91|f
 Funaishikawa|36.467|140.567|JP|Ibaraki|91
 Fusō|35.358|136.910|JP|Aichi|91
 Fuxing|29.819|106.557|CN|Chongqing|91
@@ -70,17 +71,22 @@ Fujishiro|35.917|140.117|JP|Ibaraki|90
 Futian|31.222|109.711|CN|Chongqing|90
 Fushimi|35.114|138.897|JP|Shizuoka|90
 Fuyuan|48.363|134.298|CN|Heilongjiang|90
+Fuerteventura Airport|28.453|-13.864|ES|Canary Islands|89|f
 Fukiage-fujimi|36.100|139.450|JP|Saitama|89
+Fuaʻamotu International Airport|-21.241|-175.150|TO|Tongatapu|89|f
 Funabori|35.682|139.866|JP|Tokyo|89
 Fukuechō|32.697|128.846|JP|Nagasaki|89
 Fujikawaguchiko|35.489|138.688|JP|Yamanashi|88
 Fukagawa|43.708|142.039|JP|Hokkaido|88
+Funen|55.333|10.500|DK|South Denmark|88|f
+Fuzhou Changle International Airport|25.935|119.663|CN|Fujian|88|f
 Fuhuan|28.834|106.755|CN|Chongqing|88
 Fuzuli|39.601|47.145|AZ|Fuzuli District|88
 Funyan Bīra|9.402|42.318|ET|Oromiya|88
 Fuquay-Varina|35.584|-78.800|US|North Carolina|88
 Fujia|33.819|105.954|CN|Gansu|87
 Funehikimachi-funehiki|37.447|140.577|JP|Fukushima|87
+Funafuti International Airport|-8.525|179.196|TV|Funafuti|87|f
 Furukawa|36.233|137.183|JP|Gifu|87
 Fubang|22.904|99.803|CN|Yunnan|87
 Furano|43.350|142.383|JP|Hokkaido|86
@@ -96,6 +102,7 @@ Fundão|-19.934|-40.405|BR|Espírito Santo|85
 Fuki|34.630|135.696|JP|Nara|85
 Fushë-Krujë|41.478|19.718|AL|Durrës County|85
 Fuyong|22.672|113.815|CN|Guangdong|85
+Fujairah International Airport|25.112|56.324|AE|Fujairah|85|f
 Fudong|23.123|100.000|CN|Yunnan|84
 Fu Cheong Estate|22.329|114.154|HK|Sham Shui Po District|84
 Füssen|47.571|10.702|DE|Bavaria|84
@@ -107,6 +114,8 @@ Funes|-32.916|-60.810|AR|Santa Fe|83
 Fuke|34.316|135.147|JP|Osaka|83
 Fujimi|35.901|138.250|JP|Nagano|83
 Fucecchio|43.733|10.797|IT|Tuscany|83
+Fukue Airport|32.667|128.833|JP|Nagasaki|83|f
+Fukuoka Castle ruins|33.584|130.383|JP|Fukuoka|83|f
 Furukawamen|33.243|129.650|JP|Nagasaki|83
 Futrono|-40.130|-72.385|CL|Los Ríos Region|83
 Fulu|29.608|106.135|CN|Chongqing|83
@@ -119,6 +128,7 @@ Fuguo|29.699|106.047|CN|Chongqing|82
 Fung Tak Estate|22.344|114.201|HK|Wong Tai Sin District|82
 Further Ground|19.341|-81.199|KY||82
 Futaba|35.605|139.722|JP|Tokyo|81
+Fukui Airport|36.143|136.224|JP|Fukui|81|f
 Fulton|43.323|-76.417|US|New York|81
 Fürth|49.651|8.785|DE|Hesse|81
 Fulkumari|23.523|91.505|IN|Tripura|81
@@ -126,6 +136,7 @@ Fuvahmulah|-0.299|73.424|MV|Gnyaviyani Atoll|81
 Futian|22.522|114.056|CN|Guangdong|81
 Fuensalida|40.053|-4.207|ES|Castille-La Mancha|81
 Fuente Palmera|37.705|-5.100|ES|Andalusia|81
+Fukuoka Tower|33.593|130.351|JP|Fukuoka|80|f
 Fürstenau|52.517|7.677|DE|Lower Saxony|80
 Fundão|40.140|-7.501|PT|Castelo Branco|80
 Furtwangen|48.052|8.207|DE|Baden-Wurttemberg|80
@@ -134,6 +145,7 @@ Furth im Wald|49.310|12.842|DE|Bavaria|80
 Fuzeta|37.054|-7.747|PT|Faro|79
 Fullview Garden|22.263|114.252|HK|Eastern District|79
 Fultondale|33.605|-86.794|US|Alabama|79
+Fullerton Municipal Airport|33.872|-117.981|US|California|79|f
 Fuller Heights|27.909|-81.998|US|Florida|79
 Fujita|37.878|140.553|JP|Fukushima|79
 Füzesabony|47.750|20.417|HU|Heves County|78
@@ -143,13 +155,18 @@ Fukaura|40.641|139.932|JP|Aomori|78
 Fuveau|43.456|5.561|FR|Provence-Alpes-Côte d'Azur|78
 Furze Platt|51.540|-0.737|GB|England|78
 Fürstenzell|48.522|13.317|DE|Bavaria|78
+FUKUOKA PayPay Dome|33.595|130.362|JP|Fukuoka|78|f
+Fuyuansanjiao Zhou|48.330|134.759|CN||78|f
 Fuentes de Andalucía|37.464|-5.346|ES|Andalusia|77
 Fuhua|22.588|113.891|CN|Guangdong|77
+Furnace Creek Airport|36.463|-116.880|US|California|77|f
 Fürstenberg|53.185|13.146|DE|Brandenburg|77
 Fuente del Maestre|38.527|-6.448|ES|Extremadura|77
 Furnace Green|51.107|-0.169|GB|England|77
 Fundulea|44.467|26.517|RO|Călărași County|76
 Füzesgyarmat|47.100|21.217|HU|Bekes County|76
+Fuglefjorden|79.783|11.467|SJ||76|f
+Futuna Airport|-19.516|170.232|VU|Tafea|76|f
 Fürstenfeld|47.050|16.083|AT|Styria|76
 Funafuti|-8.524|179.194|TV|Funafuti|76
 Fusignano|44.467|11.956|IT|Emilia-Romagna|76
@@ -167,9 +184,13 @@ Fulnek|49.712|17.903|CZ|Moravian-Silesian Region|75
 Fuente Obejuna|38.267|-5.417|ES|Andalusia|75
 Fundeni|44.383|26.350|RO|Călărași County|75
 Fudaba|33.450|133.200|JP|Kochi|74
+Fukue Island|32.691|128.743|JP|Nagasaki|74|f
+Fuvahmulah Airport|-0.309|73.433|MV|Gnyaviyani Atoll|74|f
+Fuyun Koktokay Airport|46.802|89.508|CN|Xinjiang|74|f
 Fundy-St. Martins|45.408|-65.439|CA|New Brunswick|74
 Funagata|38.689|140.319|JP|Yamagata|74
 Fuente de Cantos|38.250|-6.300|ES|Extremadura|74
+Fuyuan Airport|48.194|134.358|CN|Heilongjiang|73|f
 Funilândia|-19.367|-44.056|BR|Minas Gerais|73
 Fumay|49.991|4.708|FR|Grand Est|73
 Füllinsdorf|47.507|7.731|CH|Basel-Landschaft|73
@@ -178,6 +199,9 @@ Furulund|55.774|13.090|SE|Skåne|73
 Furiani|42.658|9.414|FR|Corsica|73
 Fursy|49.800|30.001|UA|Kyiv Oblast|73
 Furukuchi|38.736|140.138|JP|Yamagata|72
+Fukaji Shima|26.168|127.292|JP|Okinawa|72|f
+Fukuoka City Museum|33.590|130.353|JP|Fukuoka|72|f
+Fukuyama Jō|41.430|140.108|JP|Hokkaido|72|f
 Fuentes de Ebro|41.513|-0.632|ES|Aragon|72
 Fundu Moldovei|47.533|25.400|RO|Suceava|72
 Fulton|34.274|-88.409|US|Mississippi|72
@@ -187,6 +211,9 @@ Furulund|57.717|12.133|SE|Västra Götaland|72
 Fußach|47.479|9.663|AT|Vorarlberg|72
 Fulga de Sus|44.898|26.448|RO|Prahova|72
 Fulbourn|52.183|0.220|GB|England|71
+Fürstenfeldbruck Air Base|48.206|11.266|DE|Bavaria|71|f
+Futuna|-19.533|170.217|VU||71|f
+Fuvahmulah Island|-0.297|73.425|MV|Gnyaviyani Atoll|71|f
 Funyula|0.279|34.119|KE|Busia County|71
 Fuente de Oro|3.463|-73.622|CO|Meta Department|71
 Fu Keung Court|22.340|114.185|HK|Wong Tai Sin District|71
@@ -199,6 +226,10 @@ Fung Wah Estate|22.261|114.231|HK|Eastern District|70
 Furubira|43.273|140.637|JP|Hokkaido|70
 Furth|48.406|12.381|DE|Bavaria|70
 Fuensanta de Martos|37.648|-3.908|ES|Andalusia|70
+Fu Tau Fan Chau|22.333|114.363|HK||70|f
+Fucheng Men|39.922|116.351|CN|Beijing|70|f
+Fuerte Olimpo Airport|-21.046|-57.883|PY|Alto Paraguay|70|f
+Fulham Railway Bridge|51.466|-0.210|GB|England|70|f
 Funabashi|36.705|137.311|JP|Toyama|70
 Fulpmes|47.152|11.349|AT|Tyrol|70
 Furci Siculo|37.962|15.378|IT|Sicily|69
@@ -208,6 +239,7 @@ Fuentezuelas|20.556|-99.982|MX|Querétaro|69
 Fuenmayor|42.467|-2.562|ES|La Rioja|69
 Funagoshi|36.105|133.009|JP|Shimane|69
 Fuente-Álamo|38.693|-1.432|ES|Castille-La Mancha|69
+Fürstengrube Concentration Camp|50.189|19.105|PL|Silesia|69|f
 Fundeni|44.459|26.166|RO|Ilfov|69
 Fuentes de León|38.069|-6.539|ES|Extremadura|68
 Fügen|47.347|11.849|AT|Tyrol|68
@@ -230,6 +262,16 @@ Fundy Heights|45.252|-66.072|CA|New Brunswick|67
 Fuglebjerg|55.306|11.548|DK|Zealand|67
 Futaleufú|-43.185|-71.867|CL|Los Lagos Region|67
 Fürstenberg|47.685|9.156|DE|Baden-Wurttemberg|67
+Fualefeke|-8.427|179.122|TV|Funafuti|67|f
+Fuday|57.050|-7.383|GB|Scotland|67|f
+Fugløya|79.817|11.400|SJ||67|f
+Fukasako Dam|32.828|130.843|JP|Kumamoto|67|f
+Funadhoo Airport|6.161|73.287|MV|Shaviyani Atholhu|67|f
+Funatsu Dam|32.631|130.893|JP|Kumamoto|67|f
+Funeral Mountains|36.392|-116.612|US|California|67|f
+Furse Peninsula|-61.483|-55.466|AQ||67|f
+Furuume Dam|43.699|144.226|JP|Hokkaido|67|f
+Fusilier Mountain|-54.417|-36.250|GS||67|f
 Fulton|36.504|-88.874|US|Kentucky|67
 Fürstenhausen|49.241|6.868|DE|Saarland|67
 Fuente de Piedra|37.135|-4.730|ES|Andalusia|66
@@ -242,6 +284,15 @@ Fuenlabrada de los Montes|39.133|-4.935|ES|Extremadura|66
 Fundu Răcăciuni|46.359|26.890|RO|Bacău County|66
 Fuencaliente de la Palma|28.492|-17.845|ES|Canary Islands|66
 Fuentesaúco|41.230|-5.497|ES|Castille and León|65
+Fuerteventura|28.381|-14.031|ES|Canary Islands|65|f
+Fugløya|67.069|13.810|NO|Nordland|65|f
+Fugloyarfjørður|62.313|-6.334|FO|Norðoyar|65|f
+Fukuchiyama Dam|33.757|130.784|JP|Fukuoka|65|f
+Funai Castle|33.241|131.612|JP|Oita|65|f
+Fundo Island|-5.050|39.650|TZ|Pemba North|65|f
+Funiu Mountains|33.548|111.951|CN|Henan|65|f
+Furö|57.283|16.617|SE|Kalmar|65|f
+Fuxian Lake|24.502|102.888|CN|Yunnan|65|f
 Funama|43.290|140.601|JP|Hokkaido|65
 Fulga de Jos|44.882|26.443|RO|Prahova|65
 Fuchsstadt|50.108|9.934|DE|Bavaria|65
@@ -260,6 +311,13 @@ Fuentes de Oñoro|40.591|-6.811|ES|Castille and León|64
 Fulenbach|47.271|7.831|CH|Solothurn|64
 Fürnitz|46.562|13.817|AT|Carinthia|64
 Fuschl am See|47.800|13.300|AT|Salzburg|64
+Fugloy|62.337|-6.305|FO|Norðoyar|63|f
+Fujiwara-damu|36.804|139.037|JP|Gunma|63|f
+Fukashiro-damu|35.708|138.949|JP|Yamaguchi|63|f
+Fulton-Itawamba County Airport|34.352|-88.377|US|Mississippi|63|f
+Funafuti Atoll|-8.505|179.123|TV|Funafuti|63|f
+Funagira-damu|34.891|137.812|JP|Shizuoka|63|f
+Fuyang Xiguan Airport|32.880|115.737|CN|Anhui|63|f
 Furmanivka|45.636|29.235|UA|Odesa|63
 Fuzhuang|39.266|117.934|CN|Tianjin|63
 Furcenii Noi|45.811|27.340|RO|Galați County|63
@@ -283,6 +341,19 @@ Fuensaldaña|41.706|-4.765|ES|Castille and León|61
 Fundy Bay|44.741|-66.760|CA|New Brunswick|61
 Fülöpjakab|46.742|19.721|HU|Bács-Kiskun|61
 Fulgencio Yegros|-26.456|-56.404|PY|Caazapá|61
+Fuerte de San Miguel|-33.690|-53.539|UY|Rocha Department|61|f
+Fuerza Aérea Glacier|-62.490|-59.651|AQ||61|f
+Fuglholmen|70.656|24.542|NO|Finnmark|61|f
+Fulton County Airport-Brown Field|33.779|-84.521|US|Georgia|61|f
+Fulufjällets Nationalpark|61.550|12.717|SE|Dalarna|61|f
+Funadhoo Island|6.155|73.290|MV|Shaviyani Atholhu|61|f
+Funnsjøen|63.525|11.712|NO|Trøndelag|61|f
+Funtensee|47.493|12.939|DE|Bavaria|61|f
+Fusillade Mountain|48.640|-113.723|US|Montana|61|f
+Futaleufú Airport|-43.189|-71.851|CL|Los Lagos Region|61|f
+Futuna Island|-14.288|-178.125|WF||61|f
+Fuxing Men|39.906|116.351|CN|Beijing|61|f
+Fuzuli International Airport|39.595|47.196|AZ|Fuzuli District|61|f
 Fublaines|48.938|2.937|FR|Île-de-France|61
 Furtunești|45.459|26.398|RO|Buzău County|61
 Funny River|60.502|-150.762|US|Alaska|61
@@ -293,27 +364,102 @@ Fulgatore-Torretta|37.950|12.693|IT|Sicily|61
 Funzi|-4.579|39.438|KE|Kwale County|61
 Furdenheim|48.611|7.561|FR|Grand Est|61
 Fürsteneck|48.717|13.467|DE|Bavaria|60
+Fuhlendorf|54.360|12.602|DE|Mecklenburg-Vorpommern|60
+Fuller Acres|35.300|-118.912|US|California|60
 Fundata|45.450|25.300|RO|Brașov County|60
 Fuentepelayo|41.222|-4.176|ES|Castille and León|60
+Fuerte de Guadalupe|19.080|-98.291|MX|Puebla|60
+Fumureni|44.617|24.158|RO|Vâlcea County|60
+Fulham|-38.100|146.983|AU|Victoria|60
+Funäsdalen|62.546|12.543|SE|Jämtland|60
 Fuentelapeña|41.251|-5.383|ES|Castille and León|59
 Furci|42.007|14.588|IT|Abruzzo|59
 Funtana|45.175|13.605|HR|Istria|59
+Fundición|27.329|-109.737|MX|Sonora|59
+Fughiu|47.057|22.046|RO|Bihor County|59
 Futani|40.152|15.324|IT|Campania|59
+Fundeanu|45.985|27.733|RO|Galați County|59
+Funkstown|39.609|-77.704|US|Maryland|59
+Fünfing bei Sankt Ruprecht an der Raab|47.138|15.660|AT|Styria|59
 Fuenteguinaldo|40.429|-6.675|ES|Castille and León|59
+Furești|44.933|25.109|RO|Arges|59
+Fülöpháza|46.883|19.417|HU|Bács-Kiskun|58
+Fundenii Noi|45.575|27.550|RO|Galați County|58
 Furore|40.621|14.549|IT|Campania|58
 Fuente-Tójar|37.511|-4.146|ES|Andalusia|58
+Furnicoși|45.143|25.002|RO|Arges|58
+Fuchskaute|50.659|8.105|DE|Rheinland-Pfalz|58|f
+Fuerte San Lorenzo|9.322|-80.002|PA|Colón|58|f
+Fuling Chang Jiang Daqiao|29.737|107.347|CN|Chongqing|58|f
+Funagogo|-8.558|179.147|TV|Funafuti|58|f
+Funkturm Stuttgart|48.773|9.222|DE|Baden-Wurttemberg|58|f
+Furggubäumhorn|46.280|8.105|CH|Valais|58|f
+Fürstenfeld Airport|47.062|16.083|AT|Styria|58|f
+Fuzuli|40.821|46.132|AZ|Şǝmkir|58
+Fundeni|45.117|26.024|RO|Prahova|58
+Fultonville|42.948|-74.370|US|New York|58
 Fuentes de Nava|42.083|-4.783|ES|Castille and León|58
+Fusi|-13.886|-171.622|WS||58
 Fuendejalón|41.761|-1.472|ES|Aragon|58
 Fuenterrobles|39.583|-1.350|ES|Valencia|57
+Fuente del Arco|38.150|-5.900|ES|Extremadura|57
 Fügenberg|47.352|11.842|AT|Tyrol|57
+Fundătura|46.956|23.781|RO|Cluj County|57
+Fundu Herții|48.113|26.314|RO|Botoșani County|57
+Fumo|45.023|9.153|IT|Lombardy|57
+Furuvik|60.650|17.333|SE|Gävleborg|57
+Fuerte de Anaya|20.297|-96.967|MX|Veracruz|57
+Futiga|-14.353|-170.754|AS|Western District|57
 Fuentespina|41.631|-3.685|ES|Castille and León|56
+Fundoaia|46.885|25.466|RO|Harghita County|56
+Fulford|52.938|-2.072|GB|England|56
+Fundătura|46.686|27.531|RO|Vaslui County|56
+Fuerte Viejo|21.572|-101.341|MX|Guanajuato|56
+Fusea|44.662|25.534|RO|Dâmbovița County|56
+Fundoaia|46.310|27.203|RO|Bacău County|56
+Fumal|50.587|5.183|BE|Wallonia|56
+Furduești|44.724|25.106|RO|Arges|56
 Fužine|45.305|14.716|HR|Primorje-Gorski Kotar|56
+Furna|14.887|-24.681|CV|Brava|55
 Fusine|46.149|9.750|IT|Lombardy|55
 Fuentes de Ropel|42.004|-5.545|ES|Castille and León|55
 Fúquene|5.404|-73.796|CO|Cundinamarca|55
 Fuentes Claras|40.864|-1.323|ES|Aragon|55
+Furneux Pelham|51.931|0.081|GB|England|55
+Fundătura|46.795|28.022|RO|Vaslui County|55
+Fulton|38.496|-122.770|US|California|55
+Fuentes del Sol|32.430|-117.038|MX|Baja California|55
+Fundu Tutovei|46.696|27.188|RO|Bacău County|55
+Fundres|46.889|11.706|IT|Trentino-Alto Adige|55
+Fulstow|53.456|-0.004|GB|England|54
+Fuerte Bulnes|-53.631|-70.917|CL|Region of Magallanes|54|f
+Fukaji Island|26.168|127.291|JP||54|f
+Fukushima Airport|37.227|140.431|JP|Fukushima|54|f
+Fulhadhoo|4.885|72.935|MV||54|f
+Fuller Covered Bridge|44.903|-72.640|US|Vermont|54|f
+Fuller Island|-66.192|100.987|AQ||54|f
+Fulton Chain Lakes|43.748|-74.868|US|New York|54|f
+Fulton County Airport|41.066|-86.190|US|Indiana|54|f
+Fundação Educacional do Município de Assis|-22.644|-50.420|BR|São Paulo|54|f
+Fundação Oswaldo Cruz|-22.878|-43.245|BR|Rio de Janeiro|54|f
+Fundo Loma Larga Airport|-33.279|-71.377|CL|Valparaiso|54|f
+Fundusfeiler|47.100|10.867|AT|Tyrol|54|f
+Funter Bay Seaplane Base|58.254|-134.898|US|Alaska|54|f
+Fur|56.827|9.016|DK|Central Jutland|54|f
+Furcheta|46.612|11.773|IT|Trentino-Alto Adige|54|f
+Furesø|55.799|12.414|DK|Capital Region|54|f
+Furillen|57.733|19.017|SE|Gotland|54|f
+Furness Glacier|-61.100|-54.867|AQ||54|f
+Furona Island|-8.128|159.096|SB||54|f
+Fürschießer|47.328|10.330|DE|Bavaria|54|f
+Fürstein|46.896|8.070|CH|Lucerne|54|f
+Fürstenberg|47.891|8.560|DE|Baden-Wurttemberg|54|f
+Fustvatnet|65.905|13.382|NO|Nordland|54|f
+Futago, Mount|-69.204|39.733|AQ||54|f
+Furnicari|46.508|26.998|RO|Bacău County|54
 Fuentes|39.967|-2.017|ES|Castille-La Mancha|54
 Fuente la Lancha|38.417|-5.033|ES|Andalusia|53
+Fuhlendorf|53.944|9.887|DE|Schleswig-Holstein|52
 Fuentespalda|40.807|0.065|ES|Aragon|52
 Fuentenovilla|40.362|-3.091|ES|Castille-La Mancha|52
 Fuentespreadas|41.326|-5.628|ES|Castille and León|51
@@ -322,7 +468,31 @@ Fuentelespino de Haro|39.689|-2.669|ES|Castille-La Mancha|50
 Fuentesaúco de Fuentidueña|41.424|-4.062|ES|Castille and León|50
 Fuentes de Jiloca|41.229|-1.536|ES|Aragon|50
 Fuentecén|41.629|-3.869|ES|Castille and León|49
+Fuhlenhagen|53.573|10.528|DE|Schleswig-Holstein|49
 Fuentes de Béjar|40.508|-5.693|ES|Castille and León|49
+Fuchs Dome|-80.565|-27.590|AQ||49|f
+Fuchskarspitze|47.400|10.433|DE|Bavaria|49|f
+Fuga Island|18.869|121.362|PH|Cagayan Valley|49|f
+Fuglefjellet|-72.283|0.783|AQ||49|f
+Fujairah Museum|25.134|56.340|AE|Fujairah|49|f
+Fulcrum|-78.033|161.117|AQ||49|f
+Fulham Island|-42.911|147.787|AU|Tasmania|49|f
+Fulidu|3.681|73.416|MV|Vaavu Atholhu|49|f
+Fuller Rock|-68.147|-68.931|AQ||49|f
+Fulmar Island|-66.541|93.001|AQ||49|f
+Fulton County Airport|41.609|-84.132|US|Ohio|49|f
+Fulton Road Bridge|41.450|-81.717|US|Ohio|49|f
+Funamanu|-8.565|179.133|TV|Funafuti|49|f
+Funaota|-7.930|178.380|TV|Nukufetau|49|f
+Fundin|62.358|9.912|NO|Trøndelag|49|f
+Funk Glacier|-65.561|-63.655|AQ||49|f
+Funkturm Aufhausen|48.588|9.748|DE|Baden-Wurttemberg|49|f
+Funtenseetauern|47.483|12.983|DE||49|f
+Funzi Island|-4.565|39.448|KE|Kwale County|49|f
+Furgghorn|46.054|7.722|CH|Valais|49|f
+Furgler|47.033|10.517|AT|Tyrol|49|f
+Furneaux Group|-40.167|148.083|AU|Tasmania|49|f
+Fusafjorden|60.200|5.562|NO|Vestland|49|f
 Fuentearmegil|41.715|-3.184|ES|Castille and León|49
 Fuente el Sol|41.176|-4.934|ES|Castille and León|49
 Furth an der Triesting|47.973|15.973|AT|Lower Austria|49
@@ -352,7 +522,49 @@ Fuentelsaz|41.074|-1.831|ES|Castille-La Mancha|41
 Fulleda|41.463|1.024|ES|Catalonia|41
 Fuentemolinos|41.605|-3.850|ES|Castille and León|41
 Fuentelisendo|41.623|-3.901|ES|Castille and León|41
+Fuchshofen|50.428|6.851|DE|Rheinland-Pfalz|41
 Fuencemillán|40.921|-3.098|ES|Castille-La Mancha|40
+Fuchs-Park-Stadion|49.901|10.929|DE|Bavaria|40|f
+Fuente de Cibeles|40.419|-3.693|ES|Madrid|40|f
+Fuerte de Samaipata|-18.179|-63.820|BO|Santa Cruz Department|40|f
+Fuessenich Park|41.798|-73.118|US|Connecticut|40|f
+Fujian Medical University|26.067|119.299|CN|Fujian|40|f
+Fukushima Peak|-78.559|-85.571|AQ||40|f
+Ful Berg|46.871|9.612|CH|Grisons|40|f
+Fulen|46.891|8.536|CH|Uri|40|f
+Fulgham Ridge|-84.900|177.417|AQ||40|f
+Fulhorn|46.774|9.494|CH|Grisons|40|f
+Fuller Dome|-86.633|-156.300|AQ||40|f
+Fuller Hill|42.020|-74.991|US|New York|40|f
+Fuller Lake|40.030|-77.299|US|Pennsylvania|40|f
+Fuller Park|41.424|-91.085|US|Iowa|40|f
+Fuller Park|41.811|-87.635|US|Illinois|40|f
+Fuller Warren Bridge|30.315|-81.670|US|Florida|40|f
+Fulton Airport|36.526|-88.912|US|Kentucky|40|f
+Fulton County Airport|42.997|-74.333|US|New York|40|f
+Fulton Mall|36.734|-119.790|US|California|40|f
+Fulton Park|40.680|-73.933|US|New York|40|f
+Fumarole Butte|39.615|-112.803|US|Utah|40|f
+Fun World|42.716|-71.442|US|New Hampshire|40|f
+Funadhoo|5.274|73.033|MV||40|f
+Funafala|-8.628|179.102|TV|Funafuti|40|f
+Fundació Pilar i Joan Miró a Mallorca|39.555|2.610|ES|Balearic Islands|40|f
+Funk Island|49.750|-53.181|CA|Newfoundland and Labrador|40|f
+Funkmast Patch-Barracks|48.732|9.082|DE|Baden-Wurttemberg|40|f
+Funkturm Rottenbuch|47.757|10.932|DE|Bavaria|40|f
+Funter Bay|58.246|-134.897|US|Alaska|40|f
+Furggelenstock|47.038|8.733|CH|Schwyz|40|f
+Furggeltihorn|46.534|9.064|CH|Grisons|40|f
+Furggespitz|46.423|7.230|CH|Bern|40|f
+Furman Bluffs|-74.100|-113.883|AQ||40|f
+Furnace Mountain|39.265|-77.554|US|Virginia|40|f
+Furnace Pond|42.056|-70.826|US|Massachusetts|40|f
+Furness Abbey|54.136|-3.198|GB|England|40|f
+Fürsteneck|50.774|9.811|DE|Hesse|40|f
+Furys Ferry Bridge|33.593|-82.123|US|Georgia|40|f
+Fushimi Inari-taisha|34.967|135.773|JP|Kyoto|40|f
+Fusilier Peak|58.350|-124.853|CA|British Columbia|40|f
+Fusshörner|46.427|7.999|CH|Valais|40|f
 Fuentes de Ayódar|40.033|-0.417|ES|Valencia|40
 Fuentestrún|41.875|-2.083|ES|Castille and León|39
 Fuentesecas|41.631|-5.473|ES|Castille and León|38
@@ -365,46 +577,151 @@ Fuentelsaz de Soria|41.866|-2.415|ES|Castille and León|34
 Fuenferrada|40.869|-1.012|ES|Aragon|33
 Fuente la Reina|40.067|-0.600|ES|Valencia|32
 Fuembellida|40.756|-1.999|ES|Castille-La Mancha|23
+Fu’an|32.678|120.474|CN|Jiangsu|0
+Fu’an|41.075|122.831|CN|Liaoning|0
+Fu’ao|27.807|119.965|CN|Zhejiang|0
+Fu’e|29.907|118.374|CN|Anhui|0
+Fuan|-10.208|123.775|ID|East Nusa Tenggara|0
+Fubei|28.007|116.293|CN|Jiangxi|0
+Fubin|23.845|116.857|CN|Guangdong|0
+Fucha|25.541|115.432|CN|Jiangxi|0
+Fuchang|30.101|113.153|CN|Hubei|0
 Fucheng|35.373|103.706|CN|Gansu|0
 Fucheng|37.868|116.160|CN|Hebei|0
+Fucheng|25.536|115.887|CN|Jiangxi|0
 Fucheng|36.147|112.234|CN|Shanxi|0
+Fucheng|24.100|115.232|CN|Guangdong|0
+Fucheng|20.923|110.095|CN|Guangdong|0
+Fucheng|23.644|115.162|CN|Guangdong|0
+Fucheng|22.783|111.570|CN|Guangdong|0
+Fuchi|29.855|115.438|CN|Hubei|0
 Fuchuan|24.814|111.291|CN|Guangxi|0
+Fuchuan|33.002|106.690|CN|Shaanxi|0
+Fuchun|29.324|117.543|CN|Jiangxi|0
+Fuchunjiang|29.713|119.646|CN|Zhejiang|0
+Fucun|29.240|119.893|CN|Zhejiang|0
+Fudian|33.932|112.356|CN|Henan|0
+Fudong|32.719|120.558|CN|Jiangsu|0
+Fudong|42.574|129.148|CN|Jilin|0
 Fuencaliente|38.406|-4.305|ES|Castille-La Mancha|0
 Fuenteheridos|37.905|-6.661|ES|Andalusia|0
 Fuentes de Carbajal|42.178|-5.446|ES|Castille and León|0
+Fufang|26.973|116.594|CN|Jiangxi|0
 Fufeng|34.361|107.873|CN|Shaanxi|0
 Fufore|9.222|12.650|NG|Adamawa|0
 Fufu|8.448|4.721|NG|Kwara State|0
 Fugar|7.091|6.498|NG|Edo State|0
 Fugou|34.060|114.395|CN|Henan|0
+Fuhai|47.109|87.488|CN|Xinjiang|0
+Fuhai|47.870|124.855|CN|Heilongjiang|0
+Fuhe|31.510|113.566|CN|Hubei|0
 Fuji-yoshida|35.485|138.811|JP|Yamanashi|0
+Fujia|32.117|106.690|CN|Sichuan|0
+Fujia|43.284|123.811|CN|Liaoning|0
+Fujia|32.140|113.253|CN|Hubei|0
+Fujiang|46.033|127.456|CN|Heilongjiang|0
+Fujiayan|30.310|110.479|CN|Hubei|0
 Fujimi|35.848|139.555|JP|Saitama|0
 Fujimino|35.861|139.515|JP|Saitama|0
+Fukadale|-10.682|123.354|ID|East Nusa Tenggara|0
 Fukaya|36.177|139.260|JP|Saitama|0
+Fukou|26.449|117.690|CN|Fujian|0
+Fukou|25.763|118.468|CN|Fujian|0
 Fula’erji|47.209|123.629|CN|Heilongjiang|0
+Fuldabrück|51.267|9.483|DE|Hesse|0
 Fulford|53.933|-1.067|GB|England|0
 Fuliang|29.376|117.247|CN|Jiangxi|0
+Fuliangpengjie|24.315|102.089|CN|Yunnan|0
 Fulilu|36.102|103.616|CN|Gansu|0
+Fulin|22.662|111.896|CN|Guangdong|0
+Fuling|30.139|118.728|CN|Anhui|0
+Fuling|27.895|118.641|CN|Fujian|0
+Fulking|50.890|-0.227|GB|England|0
+Fulong|19.324|109.455|CN|Hainan|0
+Fulong|29.660|116.338|CN|Jiangxi|0
+Fulu|47.643|124.677|CN|Heilongjiang|0
+Fulu|44.936|130.581|CN|Heilongjiang|0
+Fumin|27.573|115.211|CN|Jiangxi|0
+Fumin|47.154|126.713|CN|Heilongjiang|0
+Fuming|29.873|121.602|CN|Zhejiang|0
+Fuminlu|39.088|117.251|CN|Tianjin|0
 Funabashi|35.720|140.011|JP|Chiba|0
 Funan Chengguanzhen|32.637|115.615|CN|Anhui|0
 Funarë|41.196|20.060|AL|Elbasan County|0
 Funda|-8.844|13.548|AO|Bengo|0
+Funga|-8.669|121.988|ID|East Nusa Tenggara|0
 Funing|39.884|119.236|CN|Hebei|0
 Fuping|38.850|114.193|CN|Hebei|0
+Fuqiang|47.475|125.792|CN|Heilongjiang|0
+Fuqiao|31.604|121.207|CN|Jiangsu|0
 Fuqū‘|31.368|35.702|JO|Karak|0
+Fuquan|25.841|118.883|CN|Fujian|0
+Furao|47.414|125.545|CN|Heilongjiang|0
+Furong|28.299|121.032|CN|Zhejiang|0
 Furong|26.450|114.767|CN|Jiangxi|0
+Furong|29.122|118.637|CN|Zhejiang|0
 Furong Beilu|28.237|112.981|CN|Hunan|0
+Furongdun|29.859|116.493|CN|Jiangxi|0
+Furongqiao|29.514|110.300|CN|Hunan|0
+Furth|48.591|12.021|DE|Bavaria|0
 Furudate|40.529|141.306|JP|Aomori|0
+Fusha|22.662|113.345|CN|Guangdong|0
+Fushan|28.515|115.853|CN|Jiangxi|0
+Fushan|23.854|116.885|CN|Guangdong|0
+Fushan|19.836|109.926|CN|Hainan|0
+Fushan|28.532|120.886|CN|Zhejiang|0
+Fushan|29.998|120.559|CN|Zhejiang|0
+Fushan|29.866|114.311|CN|Hubei|0
+Fushan|37.398|120.558|CN|Shandong|0
+Fushanzhuang|39.247|112.626|CN|Shanxi|0
 Fushë-Bulqizë|41.522|20.282|AL|Dibër County|0
 Fushë-Çidhnë|41.761|20.341|AL|Dibër County|0
 Fushë-Lurë|41.806|20.232|AL|Dibër County|0
 Fushë-Muhurr|41.680|20.331|AL|Dibër County|0
 Fushëkuqe|41.650|19.620|AL|Lezhë County|0
+Fusheng|29.963|120.720|CN|Zhejiang|0
+Fusheng|29.647|106.792|CN|Chongqing|0
+Fushi|24.837|116.919|CN|Fujian|0
 Fushi|29.184|105.001|CN|Sichuan|0
+Fushui|31.336|113.692|CN|Hubei|0
+Fushui|34.547|109.954|CN|Shaanxi|0
+Fuskou|-10.210|123.997|ID|East Nusa Tenggara|0
 Fusong|42.325|127.274|CN|Jilin|0
 Fusui|22.639|107.907|CN|Guangxi|0
+Futan|26.991|115.150|CN|Jiangxi|0
+Futang|24.400|112.097|CN|Guangdong|0
+Futang|25.559|111.599|CN|Hunan|0
+Futian|29.268|114.959|CN|Jiangxi|0
+Futian|27.429|114.927|CN|Jiangxi|0
+Futian|26.822|115.249|CN|Jiangxi|0
+Futian|23.217|113.956|CN|Guangdong|0
+Futian|25.265|117.613|CN|Fujian|0
+Futianhe|31.477|115.094|CN|Hubei|0
+Futiansi|29.899|113.079|CN|Hubei|0
+Futu|29.905|115.082|CN|Hubei|0
+Futun|41.630|121.782|CN|Liaoning|0
+Fuwen|19.551|110.255|CN|Hainan|0
+Fuxi|30.002|118.214|CN|Anhui|0
+Fuxi|27.190|119.824|CN|Fujian|0
+Fuxi|25.218|113.858|CN|Guangdong|0
+Fuxi|28.465|121.018|CN|Zhejiang|0
+Fuxin|37.529|121.198|CN|Shandong|0
+Fuxing|24.127|115.720|CN|Guangdong|0
+Fuxing|28.637|109.564|CN|Hunan|0
+Fuxing|27.996|107.611|CN|Guizhou|0
+Fuxing|29.906|116.414|CN|Anhui|0
+Fuxing|28.093|107.887|CN|Guizhou|0
+Fuxing|48.199|123.257|CN|Inner Mongolia|0
 Fuxing|36.629|114.456|CN|Hebei|0
+Fuxingchang|29.834|111.846|CN|Hunan|0
+Fuyang|28.533|107.743|CN|Guizhou|0
+Fuyang|23.575|116.585|CN|Guangdong|0
 Fuying|28.863|120.719|CN|Zhejiang|0
 Fuyu|30.150|116.117|CN|Anhui|0
 Fuyu|44.983|126.034|CN|Jilin|0
+Fuyuan|28.738|114.326|CN|Jiangxi|0
+Fuzhai|34.254|108.522|CN|Shaanxi|0
+Fuzhiping|28.896|109.923|CN|Hunan|0
 Fuzhou|26.077|119.292|CN|Fujian|0
+Fuzhuang|32.959|113.479|CN|Henan|0
+Fuzihe|30.958|115.025|CN|Hubei|0

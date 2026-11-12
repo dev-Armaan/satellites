@@ -2,7 +2,7 @@ Maranhão|-5.000|-45.000|BR||137|r
 Maracaibo|10.642|-71.611|VE|Zulia|125
 Mara|-1.833|34.417|TZ||117|r
 Maradi Region|14.250|7.250|NE||116|r
-Maramureş|47.667|24.000|RO||114|r
+Maramureş|47.667|24.000|RO||115|r
 Maracay|10.250|-67.595|VE|Aragua|113
 Maradi|13.500|7.102|NE|Maradi Region|111
 Marabá|-5.381|-49.132|BR|Pará|109
@@ -15,6 +15,7 @@ Maran|3.586|102.773|MY|Pahang|101
 Maramag|7.763|125.005|PH|Northern Mindanao|101
 Maranguape|-3.891|-38.686|BR|Ceará|101
 Maraimalainagar|12.798|80.025|IN|Tamil Nadu|98
+Maracanã Stadium|-22.912|-43.230|BR|Rio de Janeiro|96|f
 Marano di Napoli|40.897|14.188|IT|Campania|94
 Maracaju|-21.614|-55.168|BR|Mato Grosso do Sul|94
 Marau|-28.449|-52.200|BR|Rio Grande do Sul|93
@@ -48,6 +49,7 @@ Maranhãozinho|-2.243|-45.857|BR|Maranhão|84
 Marattakara|10.473|76.256|IN|Kerala|84
 Marahui|8.615|-2.751|CI|Zanzan District|83
 Maranding|7.925|123.772|PH|Northern Mindanao|83
+Marabá Airport|-5.369|-49.138|BR|Pará|82|f
 Maracaí|-22.611|-50.667|BR|São Paulo|82
 Mārāndahalli|12.388|78.003|IN|Tamil Nadu|82
 Marabba|12.350|32.183|SD|White Nile|82
@@ -63,6 +65,7 @@ Mărășești|45.883|27.233|RO|Vrancea|79
 Maragondahalli|12.834|77.656|IN|Karnataka|79
 Marathon|24.714|-81.090|US|Florida|79
 Maragua|-0.796|37.133|KE|Murang'A|79
+Mara Island|33.118|126.268|KR|Jeju-do|78|f
 Maracajá|-28.846|-49.463|BR|Santa Catarina|78
 Maravilhas|-19.516|-44.676|BR|Minas Gerais|77
 Marathónas|38.153|23.963|GR|Attica|77
@@ -70,9 +73,11 @@ Mărăcineni|45.200|26.800|RO|Buzău County|77
 Marajá do Sena|-4.624|-45.452|BR|Maranhão|77
 Maraita|13.884|-87.040|HN|Francisco Morazán Department|77
 Maracalagonis|39.286|9.229|IT|Sardinia|76
+Marau Airport|-9.862|160.825|SB|Guadalcanal Province|76|f
 Marange-Silvange|49.208|6.104|FR|Grand Est|75
 Maralik|40.576|43.871|AM|Shirak|75
 Marār|23.671|85.508|IN|Jharkhand|74
+Maracay Florencio Gómez Airport|10.250|-67.649|VE|Aragua|73|f
 Marans|46.309|-0.992|FR|New Aquitaine|73
 Marabá Paulista|-22.108|-51.962|BR|São Paulo|73
 Mărăcineni|44.900|24.883|RO|Arges|73
@@ -93,6 +98,8 @@ Marabadjassa|8.094|-5.436|CI|Vallée du Bandama District|69
 Maranola-Trivio|41.285|13.628|IT|Lazio|69
 Maraetai|-36.883|175.050|NZ|Auckland|69
 Maratea|39.999|15.715|IT|Basilicate|69
+Maradhoo|-0.666|73.119|MV|Seenu|69|f
+Marambio Airport|-64.239|-56.635|AQ||69|f
 Marano Principato|39.298|16.174|IT|Calabria|68
 Maratá|-29.549|-51.554|BR|Rio Grande do Sul|68
 Marathókampos|37.727|26.690|GR|North Aegean|68
@@ -103,6 +110,8 @@ Marawis|10.245|122.887|PH|Western Visayas|67
 Marādah|29.221|19.205|LY|Al Wahat|67
 Maravillas|21.954|-102.330|MX|Aguascalientes|67
 Marano Lagunare|45.764|13.167|IT|Friuli Venezia Giulia|66
+Marakei Atoll|2.011|173.274|KI|Gilbert Islands|65|f
+Marathon Mountain|60.115|-149.504|US|Alaska|65|f
 Maramarua|-37.250|175.233|NZ|Waikato Region|65
 Marano|45.463|12.117|IT|Veneto|65
 Marakabeis|-29.545|28.141|LS|Thaba-Tseka|64
@@ -111,6 +120,10 @@ Marathon|44.929|-89.840|US|Wisconsin|64
 Marale|14.883|-87.150|HN|Francisco Morazán Department|64
 Marano Ticino|45.628|8.632|IT|Piedmont|64
 Maravilla Tenejapa|16.141|-91.295|MX|Chiapas|63
+Marakei Airport|2.059|173.272|KI|Gilbert Islands|63|f
+Marala Head Works|32.679|74.462|PK|Punjab|63|f
+Marathon Airport|48.755|-86.344|CA|Ontario|63|f
+Maratime Alps|44.250|7.167|IT|Piedmont|63|f
 Maraharé|-12.231|44.313|KM|Anjouan|63
 Marazliyivka|46.096|30.049|UA|Odesa|63
 Marazion|50.126|-5.475|GB|England|62
@@ -119,24 +132,73 @@ Marāḩ Rabbāḩ|31.634|35.187|PS|West Bank|62
 Maravillas|17.137|-92.558|MX|Chiapas|62
 Marausa|37.942|12.509|IT|Sicily|62
 Mārāb|34.761|46.828|IR|Kurdistan Province|61
+Mårådalsfjellet|61.911|7.477|NO|Innlandet|61|f
+Maradi Airport|13.503|7.127|NE|Maradi Region|61|f
+Marana Regional Airport|32.406|-111.217|US|Arizona|61|f
 Mara|47.756|23.831|RO|Maramureş|61
 Maravillas|25.658|-103.341|MX|Coahuila|60
+Marassué|7.511|-3.074|CI|Zanzan District|60
+Maransart|50.660|4.467|BE|Wallonia|60
+Maransin|45.071|-0.268|FR|New Aquitaine|60
+Mărășești|45.021|22.774|RO|Mehedinți County|60
+Maravillas|20.204|-99.587|MX|Hidalgo|60
+Marat|45.659|3.683|FR|Auvergne-Rhône-Alpes|59
+Marathon|42.442|-76.032|US|New York|59
+Marathópolis|37.058|21.579|GR|Peloponnese|59
+Maravillas|19.343|-97.312|MX|Puebla|59
+Mara Serena Airport|-1.405|35.010|KE|Narok County|58|f
+Maramasike|-9.527|161.473|SB||58|f
+Maranacook Lake|44.345|-69.956|US|Maine|58|f
+Mararison Island|11.415|122.021|PH|Western Visayas|58|f
 Marano Equo|41.995|13.015|IT|Lazio|58
+Marathéa|39.530|21.994|GR|Thessaly|58
+Mărășeni|46.698|27.667|RO|Vaslui County|57
 Maranura|-12.964|-72.664|PE|Cuzco Department|57
+Mara Magai|13.517|-14.917|GM|Central River|57
+Mărăști|46.013|26.845|RO|Vrancea|57
+Marāḩ Ma‘allā|31.649|35.175|PS|West Bank|57
 Mara|40.410|8.637|IT|Sardinia|57
+Marainviller|48.589|6.601|FR|Grand Est|57
+Maravillas de las Victorias|20.853|-101.470|MX|Guanajuato|56
+Marakān|38.850|45.259|IR|West Azerbaijan|56
+Maravillas|20.745|-101.906|MX|Guanajuato|56
+Maragnole|45.687|11.604|IT|Veneto|55
+Maracon|46.550|6.872|CH|Vaud|55
+Marana|42.497|13.224|IT|Abruzzo|55
+Marano|44.227|11.036|IT|Emilia-Romagna|55
+Marane|42.064|13.948|IT|Abruzzo|55
+Maratua Airport|2.197|118.598|ID|East Kalimantan|54|f
+Maravillas|-6.536|-79.885|PE|Lambayeque|54
+Maranza|46.815|11.660|IT|Trentino-Alto Adige|54
 Marano di Valpolicella|45.556|10.916|IT|Veneto|49
+Marama|10.429|12.222|NG|Borno State|49|f
+Maranga Island|-65.186|-64.363|AQ||49|f
 Maranzana|44.760|8.478|IT|Piedmont|48
 Maranchón|41.048|-2.205|ES|Castille-La Mancha|48
 Maray|-10.936|-76.834|PE|Lima region|48
 Mara|41.289|-1.518|ES|Aragon|46
 Maraña|43.050|-5.177|ES|Castille and León|44
 Marazoleja|40.961|-4.339|ES|Castille and León|42
+Mära|46.582|7.833|CH|Bern|40|f
+Mara Lake|50.783|-119.012|CA|British Columbia|40|f
+Mara Park|50.717|-119.036|CA|British Columbia|40|f
+Mara Provincial Park|44.583|-79.366|CA|Ontario|40|f
+Maracá Ecological Station|3.393|-61.690|BR|Roraima|40|f
+Maracá-Jipioca Ecological Station|2.026|-50.380|BR|Amapá|40|f
+Marais des Cygnes National Wildlife Refuge|38.225|-94.645|US|Kansas|40|f
+Marakele National Park|-24.414|27.610|ZA|Limpopo|40|f
+Maranoa Gardens|-37.810|145.090|AU|Victoria|40|f
+Marão|41.248|-7.887|PT|Vila Real|40|f
 Marañón|42.629|-2.439|ES|Navarre|36
 Marazuela|40.979|-4.365|ES|Castille and León|35
 Mara|-14.086|-72.102|PE|Apurímac Department|0
 Marabahan|-3.014|114.769|ID|South Kalimantan|0
 Maraca|8.376|-81.733|PA|Ngöbe-Buglé Comarca|0
 Maracha|3.270|30.955|UG|Northern Region|0
+Maradabangga|-10.177|120.359|ID|East Nusa Tenggara|0
 Maradun|12.567|6.244|NG|Zamfara State|0
+Maragua|-19.046|-65.429|BO|Chuquisaca Department|0
+Marang|-6.926|113.891|ID|East Java|0
+Marapat|-6.610|105.697|ID|Banten|0
 Maras|-13.335|-72.157|PE|Cuzco Department|0
 Marāveh Tappeh|37.904|55.956|IR|Golestan|0

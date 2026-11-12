@@ -23,8 +23,10 @@ Luna|9.737|125.498|PH|Caraga|78
 Luncaviţa|45.283|28.267|RO|Tulcea County|77
 Lung Poon Court|22.342|114.200|HK|Wong Tai Sin District|76
 Lunca|43.833|24.767|RO|Teleorman County|76
+Lunken Field|39.103|-84.419|US|Ohio|76|f
 Lunas|10.640|123.752|PH|Central Visayas|75
 Lunguleţu|44.617|25.650|RO|Dâmbovița County|75
+Lundy|51.176|-4.669|GB|England|74|f
 Lunca de Jos|46.567|25.983|RO|Harghita County|74
 Lunzenau|50.963|12.756|DE|Saxony|74
 Lungani|47.183|27.150|RO|Iași County|74
@@ -34,6 +36,7 @@ Lunardelli|-24.078|-51.742|BR|Paraná|74
 Luna|7.576|125.667|PH|Davao Region|73
 Lunetta-Frassino|45.160|10.821|IT|Lombardy|72
 Lunca Banului|46.595|28.168|RO|Vaslui County|72
+Lung Kwu Chau|22.378|113.883|HK|Tuen Mun|71|f
 Lungeşti|44.567|24.183|RO|Vâlcea County|71
 Lunel-Viel|43.679|4.093|FR|Occitanie|71
 Lunca Cetățuii|47.097|27.563|RO|Iași County|71
@@ -57,6 +60,7 @@ Lunenburg|44.378|-64.317|CA|Nova Scotia|68
 Luna|46.507|23.920|RO|Cluj County|68
 Lungavilla|45.042|9.078|IT|Lombardy|67
 Lunec|15.954|120.489|PH|Ilocos|67
+Lüner Lake|47.054|9.754|AT|Vorarlberg|67|f
 Luna|12.549|123.734|PH|Bicol Region|67
 Lundin Links|56.214|-2.952|GB|Scotland|67
 Lunca Bradului|46.956|25.111|RO|Mureș County|67
@@ -65,6 +69,8 @@ Luneray|49.828|0.916|FR|Normandy|66
 Luna de Sus|46.743|23.435|RO|Cluj County|66
 Luncoiu de Jos|46.078|22.788|RO|Hunedoara County|66
 Lungern|46.786|8.160|CH|Obwalden|66
+Lundey|64.187|-21.829|IS|Capital Region|65|f
+Lundøya|67.986|15.202|NO|Nordland|65|f
 Lünne|52.430|7.427|DE|Lower Saxony|65
 Lunz am See|47.861|15.030|AT|Lower Austria|65
 Lunenburg|42.595|-71.725|US|Massachusetts|65
@@ -74,6 +80,8 @@ Lunden|54.331|9.025|DE|Schleswig-Holstein|64
 Lunga|46.018|26.212|RO|Covasna County|64
 Lunery|46.936|2.269|FR|Centre-Val de Loire|64
 Lunca|45.005|27.213|RO|Buzău County|64
+Luna Peak|48.831|-121.273|US|Washington|63|f
+Lunéville-Croismare Airport|48.595|6.543|FR|Grand Est|63|f
 Lunca Priporului|45.439|26.309|RO|Buzău County|63
 Lunde|59.298|9.103|NO|Telemark|63
 Lunca|44.733|28.775|RO|Tulcea County|63
@@ -87,18 +95,84 @@ Lunenburg|44.463|-71.682|US|Vermont|62
 Lunca|47.228|26.300|RO|Neamț County|62
 Lunca Jariștei|45.482|26.255|RO|Buzău County|61
 Luncșoara|47.037|22.542|RO|Bihor County|61
+Lundåkrabukten|55.800|12.883|SE|Skåne|61|f
+Lundin Peak|47.462|-121.401|US|Washington|61|f
 Lunca Prahovei|45.047|25.772|RO|Prahova|61
 Lunca Cernii de Jos|45.633|22.617|RO|Hunedoara County|61
 Lundamo|63.152|10.286|NO|Trøndelag|61
 Lunca la Tisa|47.952|24.052|RO|Maramureş|60
+Lung Khung|13.672|107.146|KH|Ratanakiri|60
+Luncile|45.497|26.544|RO|Buzău County|60
+Luncași|47.117|26.806|RO|Iași County|60
+Lundsbrunn|58.472|13.447|SE|Västra Götaland|59
+Luni Mare|44.059|10.003|IT|Liguria|59
 Luna|42.168|-0.933|ES|Aragon|59
+Lunca Frumoasă|45.307|26.540|RO|Buzău County|59
+Luna de Jos|46.937|23.760|RO|Cluj County|58
+Lundby Stationsby|55.109|11.875|DK|Zealand|58
+Lunca|47.883|26.272|RO|Botoșani County|58
+Lunca Asău|46.435|26.412|RO|Bacău County|58
+Lundgrenfjellet|77.767|16.300|SJ|Svalbard|58|f
+Lunka|48.228|23.474|UA|Zakarpattia|58
+Luna|47.849|23.438|RO|Satu Mare County|57
+Lunca Mureșului|46.874|24.791|RO|Mureș County|57
+Luncani|46.609|26.763|RO|Bacău County|57
+Lunas|43.708|3.194|FR|Occitanie|57
+Luncile|45.560|26.814|RO|Vrancea|57
+Luna|18.296|-90.900|MX|Campeche|57
+Luncșoara|46.321|22.628|RO|Arad County|56
+Lungești|46.109|27.754|RO|Galați County|56
+Lungoci|45.566|27.519|RO|Galați County|56
+Lunca|45.172|25.126|RO|Arges|55
+Lunka|48.183|26.294|UA|Chernivtsi|55
+Lünebach|50.133|6.350|DE|Rheinland-Pfalz|55
+Luncușoara|47.596|26.359|RO|Suceava|55
+Lunca|46.105|24.071|RO|Alba County|55
+Lunca Mare|45.199|25.745|RO|Prahova|55
+Luncoiu de Sus|46.076|22.813|RO|Hunedoara County|54
+Luncke Range|-72.042|24.600|AQ||54|f
+Lunde Glacier|-71.883|6.250|AQ||54|f
+Lunik Point|-70.533|163.100|AQ||54|f
+Lunkho|36.780|72.416|AF||54|f
+Lunga|45.883|20.592|RO|Timiș County|54
 Lund|53.919|-0.522|GB|England|50
+Luncke Ridge|-68.487|78.435|AQ||49|f
+Lundbreen|77.699|16.167|SJ|Svalbard|49|f
+Lundevatnet|58.487|6.827|NO|Agder|49|f
+Lundey|65.762|-19.450|IS|Northwest|49|f
+Lunga|56.491|-6.424|GB|Scotland|49|f
+Lunga|56.217|-5.700|GB|Scotland|49|f
+Lungernsee|46.801|8.162|CH||49|f
+Lunn Island|-10.787|152.002|PG|Milne Bay Province|49|f
+Lunna Holm|60.450|-1.033|GB|Scotland|49|f
+Lunna Ness|60.433|-1.067|GB|Scotland|49|f
+Lunzig|50.713|12.093|DE|Thuringia|46
 Lunenburg|36.961|-78.266|US|Virginia|44
+Luna Lake|47.676|-92.936|US|Minnesota|40|f
+Luna Lake|33.830|-109.091|US|Arizona|40|f
+Luna Lake|48.824|-121.296|US|Washington|40|f
+Luna Park|-33.848|151.210|AU|New South Wales|40|f
+Luna Peak|52.183|-126.136|CA|British Columbia|40|f
+Lunatic Lake|51.940|177.471|US|Alaska|40|f
+Lund tekniska högskola|55.711|13.211|SE|Skåne|40|f
+Lundar Beach Provincial Park|50.724|-98.274|CA|Manitoba|40|f
+Lunderston Bay|55.925|-4.881|GB|Scotland|40|f
+Lunette Peak|50.866|-115.649|CA|Alberta|40|f
 Lün|47.867|105.250|MN|Central Aimak|0
 Luna|18.326|121.354|PH|Cordillera|0
 Luna|16.853|120.376|PH|Ilocos|0
+Lunan|40.688|122.301|CN|Liaoning|0
 Lunan|39.611|118.144|CN|Hebei|0
+Lunang|29.733|94.726|CN|Tibet|0
+Luncang|25.010|118.281|CN|Fujian|0
+Lundo|-6.772|111.202|ID|Central Java|0
 Lũng Hồ|22.985|105.240|VN|Tuyen Quang|0
 Lunge|-12.215|16.108|AO|Huambo|0
+Lungmar|28.858|89.940|CN|Tibet|0
 Lungtenzampa|27.468|89.644|BT|Thimphu District|0
+Lunhe|47.138|126.429|CN|Heilongjiang|0
+Luniao|30.454|119.755|CN|Zhejiang|0
 Lunik|41.289|20.324|AL|Elbasan County|0
+Lunjiao|22.874|113.212|CN|Guangdong|0
+Luntas|-7.061|112.434|ID|East Java|0
+Lunyuk Ode|-8.971|117.216|ID|West Nusa Tenggara|0

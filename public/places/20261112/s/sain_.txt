@@ -24,6 +24,7 @@ Saint-Michel de l'Atalaye|19.371|-72.335|HT|Artibonite|100
 Saint-Pierre|-21.339|55.478|RE|Reunion|98
 Saint-Hubert|45.500|-73.416|CA|Quebec|98
 Saint-Léonard|45.588|-73.595|CA|Quebec|98
+Saint Peter's Square|41.902|12.457|VA||98|f
 Saint Joseph|39.769|-94.847|US|Missouri|98
 Saint-Maur-des-Fossés|48.794|2.493|FR|Île-de-France|98
 Saint George|37.104|-113.584|US|Utah|97
@@ -32,18 +33,18 @@ Saint Ann Parish|18.350|-77.267|JM||97|r
 Saint-Nazaire|47.275|-2.218|FR|Pays de la Loire|97
 Saint Cloud|45.561|-94.162|US|Minnesota|96
 Saint Charles|38.784|-90.481|US|Missouri|96
+Saint John Parish|17.100|-61.850|AG||96|r
 Saint Clair Shores|42.497|-82.889|US|Michigan|96
 Saint Francis Xavier|22.128|113.563|MO||95|r
 Saint-André|-20.963|55.650|RE|Reunion|95
 Saint-Michel|45.568|-73.622|CA|Quebec|95
 Saint-Quentin|49.849|3.288|FR|Hauts-de-France|95
-Saint John Parish|17.100|-61.850|AG||95|r
 Saint Andrew Parish|18.067|-76.750|JM||95|r
 Saint-Jérôme|45.780|-74.004|CA|Quebec|95
 Saint-Louis|-21.286|55.411|RE|Reunion|95
+Saint Croix Island|17.736|-64.748|VI||94|r
 Saint-Brieuc|48.515|-2.768|FR|Brittany|94
 Saint Peters|38.800|-90.627|US|Missouri|94
-Saint Croix Island|17.736|-64.748|VI||94|r
 Saint John’s|17.121|-61.843|AG|Saint John Parish|94
 Saint George Parish|13.165|-61.193|VC||94|r
 Saint-Malo|48.647|-2.009|FR|Brittany|94
@@ -67,6 +68,7 @@ Saint Charles|38.603|-76.939|US|Maryland|91
 Sainte-Marguerite|48.852|2.389|FR|Île-de-France|91
 Saint Thomas Parish|17.900|-76.433|JM||91|r
 Saint-Martin-d'Hères|45.179|5.763|FR|Auvergne-Rhône-Alpes|91
+Saint Lucia|13.905|-60.968|LC||91|f
 Saint Cloud|28.249|-81.281|US|Florida|91
 Saint Albans|-37.733|144.800|AU|Victoria|91
 Saint-Raphaël|43.423|6.774|FR|Provence-Alpes-Côte d'Azur|91
@@ -91,10 +93,8 @@ Saint-Josse-ten-Noode|50.854|4.373|BE|Brussels Capital|89
 Saint-Constant|45.367|-73.566|CA|Quebec|89
 Saint Thomas Island|18.345|-64.928|VI||89|r
 Saint Mary Parish|18.317|-76.900|JM||88|r
+Saint Barthélemy Airport|17.904|-62.844|BL||88|f
 Sainte-Thérèse|45.639|-73.828|CA|Quebec|88
 Saint Martin|18.067|-63.067|MF||88|c
 Saint-Dié-des-Vosges|48.284|6.949|FR|Grand Est|88
 Saint-Bruno-de-Montarville|45.533|-73.349|CA|Quebec|88
-Sainte-Suzanne|-20.906|55.608|RE|Reunion|88
-Saint-Laurent-du-Maroni|5.502|-54.029|GF|Guyane|88
-Saint-Pol-sur-Mer|51.031|2.340|FR|Hauts-de-France|87

@@ -4,6 +4,7 @@ Czechowice-Dziedzice|49.913|19.005|PL|Silesia|91
 Czeladź|50.315|19.078|PL|Silesia|91
 Czerwionka-Leszczyny|50.150|18.678|PL|Silesia|89
 Człuchów|53.667|17.359|PL|Pomerania|83
+Czantoria Wielka|49.679|18.805|PL|Silesia|82|f
 Czarnków|52.902|16.564|PL|Greater Poland|81
 Czarna Białostocka|53.305|23.281|PL|Podlasie|80
 Czersk|53.796|17.976|PL|Pomerania|79
@@ -15,6 +16,7 @@ Czempiń|52.144|16.764|PL|Greater Poland|74
 Czarny Bór|50.771|16.131|PL|Lower Silesia|74
 Czerwieńsk|52.013|15.423|PL|Lubusz|72
 Czemierniki|51.673|22.639|PL|Lublin|71
+Czarna Kopa|50.743|15.770|PL||71|f
 Czarny Dunajec|49.437|19.852|PL|Lesser Poland|71
 Czarna Woda|53.845|18.100|PL|Pomerania|70
 Czyżowice|49.985|18.404|PL|Silesia|70
@@ -29,10 +31,12 @@ Człopa|53.089|16.121|PL|West Pomerania|67
 Czchów|49.837|20.681|PL|Lesser Poland|67
 Czernica|50.084|18.401|PL|Silesia|66
 Czarków|50.018|18.907|PL|Silesia|66
+Czorneboh|51.120|14.525|DE|Saxony|65|f
 Czernichów|49.989|19.681|PL|Lesser Poland|65
 Czarna|50.110|22.182|PL|Subcarpathia|64
 Czermin|50.339|21.334|PL|Subcarpathia|64
 Czarna Góra|49.377|20.130|PL|Lesser Poland|64
+Częstochowa Ghetto|50.800|19.117|PL|Silesia|63|f
 Czaszyn|49.449|22.216|PL|Subcarpathia|63
 Czarnocin|51.591|19.682|PL|Łódź Voivodeship|62
 Czarnożyły|51.285|18.561|PL|Łódź Voivodeship|62
@@ -47,11 +51,25 @@ Czerwonka|53.916|20.897|PL|Warmia-Masuria|61
 Czerniewice|52.512|19.087|PL|Kujawsko-Pomorskie|60
 Czastary|51.259|18.320|PL|Łódź Voivodeship|60
 Czernichów|49.754|19.209|PL|Silesia|60
+Czarnogłowy|53.768|14.909|PL|West Pomerania|60
+Czermno|51.110|20.027|PL|Świętokrzyskie|59
+Czarlin|54.052|18.762|PL|Pomerania|58
 Czarna|49.331|22.659|PL|Subcarpathia|58
 Czermin|51.950|17.750|PL|Greater Poland|58
 Czerniewice|51.654|20.156|PL|Łódź Voivodeship|57
+Czarna|52.368|21.226|PL|Mazovia|57
 Czerwin|52.949|21.758|PL|Mazovia|57
+Czarnów|52.056|21.098|PL|Mazovia|56
+Czersk|51.959|21.231|PL|Mazovia|55
+Czyże|52.771|23.423|PL|Podlasie|55
+Czyżówek|51.509|15.161|PL|Lubusz|55
+Czarnocin|53.214|22.077|PL|Podlasie|54
+Czerwonka-Parcel|52.216|20.265|PL|Mazovia|54
 Czernice Borowe|53.032|20.719|PL|Mazovia|54
 Czarnia|53.356|21.195|PL|Mazovia|53
 Czarnocin|50.341|20.516|PL|Świętokrzyskie|52
+Czamanske Ridge|-82.587|-52.682|AQ||49|f
+Czegka, Mount|-86.350|-148.683|AQ||49|f
 Czerwonka|52.893|21.215|PL|Mazovia|44
+Czechland Lake Recreation Area|41.324|-96.816|US|Nebraska|40|f
+Czocha - Zamek XIVw.|51.029|15.304|PL|Lower Silesia|40|f

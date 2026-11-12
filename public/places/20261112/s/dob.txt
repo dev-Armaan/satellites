@@ -26,6 +26,7 @@ Dobrovelychkivka|48.389|31.180|UA|Kirovohrad|75
 Dobreşti|46.850|22.300|RO|Bihor County|75
 Dobroye|52.863|39.805|RU|Lipetsk Oblast|75
 Dobrota|42.454|18.768|ME|Kotor|75
+Dobo Airport|-5.772|134.212|ID|Maluku|74|f
 Dobšiná|48.821|20.370|SK|Košice Region|74
 Dobroteşti|44.283|24.883|RO|Teleorman County|74
 Doberschütz|51.499|12.748|DE|Saxony|73
@@ -85,6 +86,7 @@ Dobieszowice|50.397|19.013|PL|Silesia|66
 Dobrooleksandrivka|46.337|30.488|UA|Odesa|66
 Dobronín|49.478|15.650|CZ|Vysocina|65
 Doblas|-37.150|-64.012|AR|La Pampa|65
+Dóbro Pólie|41.050|21.883|MK||65|f
 Dobreşti|44.967|25.133|RO|Arges|65
 Dobrin|47.283|23.133|RO|Sălaj County|65
 Dobre|47.310|32.449|UA|Mykolaiv|65
@@ -120,6 +122,7 @@ Doberschau|51.152|14.396|DE|Saxony|61
 Dobrépa|6.209|-5.881|CI|Goh-Djiboua|61
 Dobrotinet|44.480|24.347|RO|Olt|61
 Dobrodol|45.861|16.097|HR|Zagreb|61
+Dobongsan|37.699|127.015|KR|Seoul|61|f
 Dobric|47.247|24.128|RO|Bistrița-Năsăud County|61
 Dobrik|48.013|23.901|UA|Zakarpattia|61
 Dobrivliany|49.441|23.567|UA|Lviv|61
@@ -129,14 +132,75 @@ Dobropillia|46.235|32.581|UA|Kherson|61
 Dobratice|49.660|18.492|CZ|Moravian-Silesian Region|60
 Dobrotu|45.206|24.659|RO|Arges|60
 Dobridor|44.119|23.170|RO|Dolj|60
+Dobra Voda|42.049|19.144|ME|Bar|60
+Dobrovody|48.769|30.391|UA|Cherkasy|60
 Dobrovnik|46.651|16.352|SI|Municipality of Dobrovnik|60
+Dobroszyce|51.145|19.411|PL|Łódź Voivodeship|60
+Dobra Prystan|48.134|30.618|UA|Mykolaiv|60
 Dobra|53.488|14.386|PL|West Pomerania|60
 Dobrova|46.046|14.392|SI|Municipality of Dobrova–Polhov Gradec|59
+Dobriceni|44.525|24.012|RO|Olt|59
+Dobrcz|53.265|18.148|PL|Kujawsko-Pomorskie|59
 Doberdò del Lago|45.844|13.539|IT|Friuli Venezia Giulia|59
+Dobré|50.270|16.264|CZ|Hradec Králové Region|59
+Dobldorf|46.950|15.367|AT|Styria|59
+Dobbins Heights|34.905|-79.692|US|North Carolina|58
+Dobson|-42.450|171.350|NZ|West Coast|58
+Dobrogostea|44.929|24.784|RO|Arges|58
+Dobrynin, Mount|-71.707|11.775|AQ||58|f
+Dobu Island|-9.752|150.870|PG|Milne Bay Province|58|f
+Dobrocin|50.734|16.707|PL|Lower Silesia|58
+Dobromierz|50.911|16.242|PL|Lower Silesia|58
+Dobrovce|46.480|15.703|SI|Municipality of Miklavž na Dravskem Polju|58
+Dobromilice|49.358|17.142|CZ|Olomouc Region|58
+Dobrzykowice|51.094|17.192|PL|Lower Silesia|58
+Dobrá Voda|48.597|17.538|SK|Trnava Region|58
 Dobersberg|48.915|15.322|AT|Lower Austria|58
+Dobia|6.501|-6.668|CI|Sassandra-Marahoue|58
+Dobra|50.452|17.907|PL|Opole Voivodeship|58
+Dobieszczyzna|52.027|17.673|PL|Greater Poland|57
+Dobova|45.897|15.664|SI|Municipality of Brežice|57
+Dobermannsdorf|48.600|16.817|AT|Lower Austria|57
+Dobbo|13.467|-14.633|GM|Central River|57
+Doba|47.291|23.096|RO|Sălaj County|57
+Dobřichov|50.080|15.032|CZ|Central Bohemia|57
+Dobja Vas|46.543|14.943|SI|Municipality of Ravne na Koroškem|57
+Dobra Krynytsia|47.240|32.321|UA|Mykolaiv|57
+Dobroslavice|49.880|18.141|CZ|Moravian-Silesian Region|57
+Dobra|44.391|23.090|RO|Mehedinți County|56
+Dobricel|47.297|24.113|RO|Bistrița-Năsăud County|56
+Dobkovice|50.715|14.193|CZ|Ústí nad Labem Region|56
+Dobricionești|46.995|22.478|RO|Bihor County|56
+Dobbins|39.372|-121.206|US|California|56
+Dobieszowice|50.363|18.026|PL|Opole Voivodeship|56
+Dobrá Voda u Hořic|50.348|15.603|CZ|Hradec Králové Region|56
+Doba|44.487|24.244|RO|Olt|56
+Dobb-e Hardān|31.304|48.514|IR|Khuzestan|56
+Dobeni|46.288|25.188|RO|Harghita County|56
+Dobitschen|50.957|12.281|DE|Thuringia|55
+Dobřenice|50.148|15.641|CZ|Hradec Králové Region|55
+Dobrovíz|50.113|14.218|CZ|Central Bohemia|55
+Dobra Nadiya|47.594|34.700|UA|Dnipropetrovsk|55
+Dobolii de Jos|45.782|25.757|RO|Covasna County|55
+Dobromiri|41.069|21.456|MK|Novaci|55
 Dobrna|46.337|15.226|SI|Dobrna|55
+Dobronadiivka|48.593|33.393|UA|Kirovohrad|55
+Dobo|13.550|-15.967|GM|North Bank|55
+Dobersberg Airport|48.922|15.296|AT|Lower Austria|54|f
+Dobrich TV Tower|43.549|27.816|BG|Varna|54|f
+Dobra|51.870|19.562|PL|Łódź Voivodeship|54
 Dobrovo|45.997|13.527|SI|Municipality of Brda|50
+Dobbertiner See|53.610|12.062|DE|Mecklenburg-Vorpommern|49|f
+Dobo Forest Park|13.550|-15.950|GM|North Bank|49|f
+Dobroyd Head|-33.811|151.273|AU|New South Wales|49|f
+Dobson Dome|-64.032|-57.927|AQ||49|f
+Döbritschen|50.919|11.476|DE|Thuringia|47
+Döbritz|50.694|11.640|DE|Thuringia|46
 Dobje pri Planini|46.137|15.394|SI|Municipality of Dobje|41
+Dobbratz Glacier|-79.400|-85.083|AQ||40|f
+Dobrich Knoll|-62.748|-60.314|AQ||40|f
+Dobrudzha Glacier|-62.658|-59.954|AQ||40|f
 Dobrinj|45.130|14.604|HR|Primorje-Gorski Kotar|39
+Dobjoi|29.533|89.061|CN|Tibet|0
 Dobratići|44.378|17.414|BA|Federation of B&H|0
 Dobrosyn|50.132|23.842|UA|Lviv|0

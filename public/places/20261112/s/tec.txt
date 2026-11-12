@@ -1,6 +1,7 @@
 Tecomán|18.916|-103.877|MX|Colima|99
 Techiman|7.591|-1.939|GH|Bono East|98
 Tecate|32.566|-116.632|MX|Baja California|96
+Technical University Munich|48.149|11.567|DE|Bavaria|96|f
 Tecuci|45.850|27.434|RO|Galați County|92
 Tecpán Guatemala|14.762|-90.992|GT|Chimaltenango|91
 Tecamachalco|18.884|-97.733|MX|Puebla|89
@@ -20,6 +21,7 @@ Tecumseh|35.258|-96.937|US|Oklahoma|76
 Teculután|14.989|-89.719|GT|Zacapa|76
 Tecozautla|20.534|-99.635|MX|Hidalgo|75
 Tecolotes|32.567|-114.983|MX|Baja California|74
+Teck|48.588|9.470|DE|Baden-Wurttemberg|74|f
 Tecali|18.901|-97.971|MX|Puebla|74
 Tecchiena|41.688|13.345|IT|Lazio|74
 Techuchulco de Allende|19.113|-99.525|MX|México|73
@@ -37,6 +39,8 @@ Tecominoacán|17.920|-93.563|MX|Tabasco|68
 Tecomaxtlahuaca|17.347|-98.032|MX|Oaxaca|68
 Tecolapan|18.571|-95.339|MX|Veracruz|67
 Tecamalucan|18.761|-97.226|MX|Veracruz|67
+Te-chi Reservoir|24.264|121.190|TW|Taiwan|67|f
+Tecate Peak|32.580|-116.689|US|California|67|f
 Tecuanipan|19.013|-98.398|MX|Puebla|67
 Tecpantzacoalco|18.477|-97.039|MX|Puebla|67
 Techachaltitla|19.365|-98.941|MX|México|66
@@ -47,6 +51,7 @@ Tecomates|19.550|-104.485|MX|Jalisco|65
 Tecajec|18.798|-98.815|MX|Morelos|64
 Tecumseh|40.367|-96.196|US|Nebraska|64
 Tecomavaca|17.956|-97.023|MX|Oaxaca|64
+Technití Límni Marathóna|38.169|23.896|GR|Attica|63|f
 Tece|36.703|34.449|TR|Mersin|63
 Tecalpulco|18.488|-99.602|MX|Guerrero|63
 Tecuanipa|18.881|-98.619|MX|Puebla|63
@@ -58,10 +63,61 @@ Tecualilla|22.767|-105.672|MX|Sinaloa|62
 Tecuexcontitlán (Tecoescontitlán)|18.143|-99.578|MX|Guerrero|62
 Techachalco|18.954|-97.470|MX|Puebla|62
 Tecuci|44.342|24.860|RO|Teleorman County|62
+Tecopa Hills|35.866|-116.230|US|California|61|f
 Tecomatán|20.114|-102.496|MX|Michoacán|61
 Techichili|19.171|-99.422|MX|México|61
 Tecama|19.004|-96.985|MX|Veracruz|61
 Tecolcuautla|17.787|-98.949|MX|Guerrero|61
+Tecomatlán|20.616|-102.910|MX|Jalisco|60
+Tecozajca (Tepehuaje)|17.816|-98.870|MX|Guerrero|60
+Tecolotepec|18.979|-99.792|MX|México|59
+Techachalco|19.381|-97.436|MX|Puebla|59
+Tecolotitla|21.007|-98.363|MX|Hidalgo|59
+Tecomate|21.149|-97.860|MX|Veracruz|59
+Tecolapan|20.093|-99.614|MX|México|59
+Tecolapa|19.019|-103.831|MX|Colima|59
+Tecknau|47.449|7.885|CH|Basel-Landschaft|59
+Tecuantepec|17.001|-99.248|MX|Guerrero|59
+Tecapa|20.733|-98.462|MX|Veracruz|59
+Tectuapan|17.447|-93.160|MX|Chiapas|58
+Tecolotla|19.339|-98.186|MX|Tlaxcala|58
+Tecalzingo|18.713|-97.672|MX|Puebla|58
+Tecacho|19.845|-101.473|MX|Michoacán|58
+Technical University of Applied Sciences Wildau|52.319|13.633|DE|Brandenburg|58|f
+Tecuanapa|18.004|-94.915|MX|Veracruz|58
+Tecamilla|18.997|-96.986|MX|Veracruz|58
+Tecama Calería (Sabana Larga)|18.979|-96.978|MX|Veracruz|58
+Tecoanapa|17.675|-99.043|MX|Guerrero|58
+Tecoxtle|18.648|-97.630|MX|Puebla|57
 Tectitán|15.306|-92.061|GT|Huehuetenango|57
+Técou|43.844|1.950|FR|Occitanie|56
+Tecumseh|39.563|-87.422|US|Indiana|56
+Tecruz|17.061|-99.041|MX|Guerrero|56
+Techmaninalli|19.140|-99.419|MX|México|56
+Těchonín|50.065|16.618|CZ|Pardubice Region|56
+Tecpaco|20.930|-98.591|MX|Hidalgo|56
+Techentin|53.587|11.988|DE|Mecklenburg-Vorpommern|56
+Tecomate|20.776|-97.554|MX|Veracruz|56
+Tecpantzingo|20.101|-97.467|MX|Puebla|56
+Tecomaluca|19.602|-98.063|MX|Tlaxcala|56
+Tecocomulco de Juárez|19.905|-98.352|MX|Hidalgo|56
+Tecoyame de Guadalupe|17.624|-98.452|MX|Guerrero|55
+Tecpatlán|20.239|-97.868|MX|Puebla|55
+Tecomate Pesquería|16.696|-99.364|MX|Guerrero|55
+Tecomate|20.971|-98.033|MX|Veracruz|55
+Tecuanapam|18.162|-96.961|MX|Oaxaca|55
+Têche|45.182|5.377|FR|Auvergne-Rhône-Alpes|55
+Tecoripa|28.624|-109.954|MX|Sonora|54
+Tecucelu Sec|45.982|27.329|RO|Galați County|54
+Technoseum|49.476|8.497|DE|Baden-Wurttemberg|54|f
+Techo International Airport|11.360|104.921|KH|Kandal|54|f
+Tecomate Nanchal|16.814|-99.507|MX|Guerrero|54
+Tecuantepec|20.145|-97.500|MX|Veracruz|54
+Techirghiol TV Tower|44.037|28.624|RO|Constanța County|49|f
+technical university Berlin|52.512|13.326|DE|State of Berlin|49|f
+Tecuya Mountain|34.842|-118.981|US|California|49|f
+Techelsdorf|54.214|10.047|DE|Schleswig-Holstein|44
+Techatticup Mine|35.710|-114.806|US|Nevada|40|f
+Technische Universiteit Eindhoven|51.448|5.489|NL|North Brabant|40|f
 Tecirli|37.162|36.110|TR|Osmaniye|0
 Tecka|-43.493|-70.811|AR|Chubut|0

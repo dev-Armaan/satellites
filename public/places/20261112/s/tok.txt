@@ -7,10 +7,13 @@ Tokat|40.314|36.554|TR|Tokat Province|102
 Tōkai|35.023|136.909|JP|Aichi|101
 Tokoza|-26.360|28.129|ZA|Gauteng|101
 Tokuyama|34.050|131.817|JP|Yamaguchi|100
+Tokyo International Airport|35.552|139.780|JP|Tokyo|100|f
 Tokmok|42.842|75.301|KG|Chuy Region|97
+Tokyo National Museum|35.718|139.775|JP|Tokyo|96|f
 Tokoname|34.883|136.850|JP|Aichi|95
 Toki|35.350|137.183|JP|Gifu|95
 Tōkamachi|37.133|138.767|JP|Niigata|95
+Tokyo Tower|35.659|139.745|JP|Tokyo|94|f
 Tokai|36.474|140.564|JP|Ibaraki|92
 Tokār|18.425|37.729|SD|Red Sea|91
 Tokai|6.029|100.407|MY|Kedah|90
@@ -19,28 +22,77 @@ Toktogul|41.874|72.942|KG|Jalal-Abad Region|86
 To Kwa Wan|22.317|114.191|HK|Kowloon City|84
 Tokoroa|-38.233|175.867|NZ|Waikato Region|83
 Tokiwadai|35.762|139.687|JP|Tokyo|82
+Tokunoshima Airport|27.836|128.881|JP|Kagoshima|80|f
+Tokushima Airport|34.133|134.607|JP|Tokushima|80|f
 Tököl|47.322|18.962|HU|Pest County|80
 Tokuwase|27.756|129.030|JP|Kagoshima|80
+Tokyo Dome|35.706|139.752|JP|Tokyo|78|f
 Tōkōji|33.933|135.133|JP|Wakayama|78
+Tokmok Airport|42.829|75.335|KG|Chuy Region|78|f
 Tokūru|12.964|74.838|IN|Karnataka|77
 Tokombere|11.221|13.488|NG|Borno State|77
 Tokonou|9.650|-9.783|GN|Kankan Region|77
 Tokaryovka|52.000|41.150|RU|Tambov Oblast|76
 Toksovo|60.153|30.516|RU|Leningradskaya Oblast'|75
+Tok Junction Airport|63.329|-142.954|US|Alaska|75|f
+Tokyo Bay|35.417|139.787|JP|Kanagawa|73|f
 Tokod|47.723|18.659|HU|Komárom-Esztergom|73
 Tokaj|48.117|21.409|HU|Borsod-Abaúj-Zemplén|72
 Tokarevka|50.116|73.160|KZ|Karaganda|72
+Tokara-rettō|29.370|129.743|JP|Kagoshima|71|f
+Tokachi Dake|42.291|143.076|JP|Hokkaido|70|f
+Tokashiki Jima|26.191|127.353|JP|Okinawa|70|f
+Tokunoshima Island|27.773|128.948|JP|Kagoshima|70|f
 Tokarnia|49.727|19.872|PL|Lesser Poland|70
 Tokpapleu|7.633|-7.842|CI|Montagnes|70
+Toktogul Airport|41.878|72.863|KG|Jalal-Abad Region|69|f
+Tŏk-to|38.749|124.969|KP|South Hwanghae|67|f
+Tŏkhang-san|37.309|129.012|KR|Gangwon-do|67|f
+Tokyo Imperial Palace|35.685|139.753|JP|Tokyo|67|f
 Tokarivka|47.306|31.015|UA|Mykolaiv|66
 Tokala|10.238|-6.635|CI|Denguélé District|66
+Tokhliauris Mta|41.783|45.417|GE||65|f
+Toktogul Reservoir|41.795|72.881|KG|Jalal-Abad Region|65|f
 Tokari|50.918|34.897|UA|Sumy|65
 Tokari|50.413|33.423|UA|Poltava|64
+Tokaen|9.822|169.100|MH|Likiep Atoll|63|f
+Tŏkko-san|37.472|128.165|KR|Gangwon-do|63|f
+Tokuyama-damu|35.667|136.502|JP|Gifu|63|f
 Tokelau|-9.167|-171.830|TK||63|c
 Tokomololo|-21.177|-175.245|TO|Tongatapu|62
 Tok|63.337|-142.986|US|Alaska|62
 Tokur|53.138|132.891|RU|Amur Oblast|61
+Tokat Airport|40.306|36.371|TR|Tokat Province|61|f
+Tokositna Glacier|62.791|-150.819|US|Alaska|61|f
+Tōkyō Gate Bridge|35.610|139.827|JP|Tokyo|61|f
+Tokyo Sky Tree|35.710|139.811|JP|Tokyo|61|f
 Tokanga|8.222|-3.919|CI|Zanzan District|61
 Tokuşlar|38.755|30.167|TR|Afyonkarahisar Province|61
+Tokomaru|-38.133|178.300|NZ|Gisborne|60
 Tokarevo|45.284|35.152|UA|Crimea|58
+Tokaçlı|37.260|37.665|TR|Gaziantep|57
+Tokashiki|26.198|127.363|JP|Okinawa|57
+Tokluca|37.584|41.037|TR|Mardin|56
+Toksook Bay|60.534|-165.104|US|Alaska|56
+Tokomaru|-40.473|175.509|NZ|Manawatu-Wanganui|55
+Toklucak|40.533|35.571|TR|Amasya|55
+Tokarev Island|-66.535|92.973|AQ||54|f
+Tokeen Seaplane Base|55.937|-133.327|US|Alaska|54|f
+Toketee State Airport|43.228|-122.427|US|Oregon|54|f
+Tokosha Mountains|62.691|-150.656|US|Alaska|54|f
+Toksook Bay Airport|60.538|-165.088|US|Alaska|54|f
+Tokua Airport|-4.340|152.380|PG|East New Britain Province|54|f
+Tokachi Japanese Ground Self Defense Force|42.891|143.158|JP|Hokkaido|49|f
+Toke|58.982|9.208|NO|Telemark|49|f
+Toki|60.197|23.965|FI|Uusimaa|49|f
+Tokoriki Island|-17.577|177.092|FJ|Western|49|f
+Toku Island|-18.167|-174.183|TO|Vavau|49|f
+Tokaloo Rock|46.839|-121.841|US|Washington|40|f
+Tokarnia|49.432|22.031|PL|Subcarpathia|40|f
+Tokomaru Bay|-38.133|178.367|NZ||40|f
+Tokyo Gakugei University|35.706|139.490|JP|Tokyo|40|f
+Tokyo Medical and Dental University|35.702|139.764|JP|Tokyo|40|f
+Tokyo University of Agriculture and Technology|35.699|139.518|JP|Tokyo|40|f
+Tokelan Utara|-7.684|114.046|ID|East Java|0
 Toklar|38.418|36.015|TR|Kayseri|0
+Tokojaeng|-8.258|123.547|ID|East Nusa Tenggara|0

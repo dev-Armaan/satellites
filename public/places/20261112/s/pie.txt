@@ -21,6 +21,7 @@ Pierrelatte|44.375|4.703|FR|Auvergne-Rhône-Alpes|82
 Pieve Emanuele|45.351|9.203|IT|Lombardy|81
 Piedmont|37.824|-122.232|US|California|81
 Piedimonte Matese|41.351|14.368|IT|Campania|81
+Pielinen|63.255|29.721|FI|North Karelia|81|f
 Pierre-Bénite|45.704|4.824|FR|Auvergne-Rhône-Alpes|80
 Pieve di Soligo|45.898|12.171|IT|Veneto|80
 Piedras Blancas|43.559|-5.976|ES|Asturias|80
@@ -39,12 +40,15 @@ Pieve di Cento|44.713|11.309|IT|Emilia-Romagna|76
 Pietroşani|45.183|24.850|RO|Arges|75
 Pieńsk|51.249|15.047|PL|Lower Silesia|75
 Piedras|4.543|-74.878|CO|Tolima Department|75
+Pieniny|49.417|20.400|PL|Lesser Poland|74|f
+Pierce Island|43.074|-70.743|US|New Hampshire|74|f
 Piedmont|34.702|-82.465|US|South Carolina|74
 Piedade dos Gerais|-20.471|-44.227|BR|Minas Gerais|74
 Pietà|35.893|14.494|MT|Tal-Pietà|74
 Piedrabuena|39.035|-4.175|ES|Castille-La Mancha|74
 Pierrefeu-du-Var|43.224|6.145|FR|Provence-Alpes-Côte d'Azur|74
 Piedmont|33.925|-85.611|US|Alabama|73
+Piéria|40.268|22.204|GR||73|f
 Piedade do Rio Grande|-21.469|-44.196|BR|Minas Gerais|73
 Pietrzykowice|49.696|19.160|PL|Silesia|73
 Pie de Gallo|20.785|-100.494|MX|Querétaro|72
@@ -52,6 +56,7 @@ Piedade de Ponte Nova|-20.245|-42.734|BR|Minas Gerais|72
 Pielavesi|63.233|26.750|FI|North Savo|72
 Pietramelara|41.271|14.187|IT|Campania|72
 Pietroasele|45.100|26.567|RO|Buzău County|71
+Piestewa Peak|33.548|-112.021|US|Arizona|71|f
 Pieleştí|44.333|23.950|RO|Dolj|71
 Pierrevert|43.811|5.750|FR|Provence-Alpes-Côte d'Azur|71
 Pietroasa|46.583|22.550|RO|Bihor County|71
@@ -84,6 +89,8 @@ Piéton|50.440|4.298|BE|Wallonia|68
 Piediripa|43.278|13.487|IT|The Marches|68
 Piekielnik|49.477|19.768|PL|Lesser Poland|67
 Pienaarsrivier|-25.204|28.301|ZA|Limpopo|67
+Pieck Range|-71.750|12.100|AQ||67|f
+Piedmont Triad International Airport|36.106|-79.937|US|North Carolina|67|f
 Pietrowice Wielkie|50.085|18.091|PL|Silesia|67
 Pieve Santo Stefano|43.671|12.041|IT|Tuscany|67
 Pieve Porto Morone|45.110|9.440|IT|Lombardy|67
@@ -99,6 +106,8 @@ Piet Plessis|-26.164|24.412|ZA|North West|66
 Piedmont|37.154|-90.696|US|Missouri|66
 Piedra Gorda|18.434|-66.888|PR|Camuy|66
 Pieve Vergonte|46.013|8.261|IT|Piedmont|66
+Piedras Negras International Airport|28.630|-100.538|MX|Coahuila|65|f
+Pierrefonds Airport|-21.320|55.424|RE|Reunion|65|f
 Pieve del Cairo|45.049|8.803|IT|Lombardy|65
 Piedrancha|1.141|-77.865|CO|Nariño|65
 Pieve Fosciana|44.131|10.410|IT|Tuscany|65
@@ -114,6 +123,10 @@ Pietrarii de Sus|45.117|24.093|RO|Vâlcea County|64
 Pietrelcina|41.199|14.844|IT|Campania|64
 Piedra Parada|19.347|-96.960|MX|Veracruz|64
 Piegolelle-San Bartolomeo|40.686|14.823|IT|Campania|64
+Piedra Negra Airport|-35.855|-72.647|CL|Maule Region|63|f
+Pierra Menta|45.638|6.651|FR|Auvergne-Rhône-Alpes|63|f
+Pierre Wibaux County Museum|46.987|-104.187|US|Montana|63|f
+Pietersburg International Airport|-23.848|29.457|ZA|Limpopo|63|f
 Pietrele|44.063|26.120|RO|Giurgiu County|63
 Pierrot|13.771|-60.944|LC|Vieux-Fort|63
 Pierry|49.020|3.941|FR|Grand Est|63
@@ -152,6 +165,9 @@ Pieve Fissiraga|45.263|9.458|IT|Lombardy|61
 Pierre-Buffière|45.695|1.359|FR|New Aquitaine|61
 Piedras de Lumbre|20.251|-100.600|MX|Guanajuato|61
 Pierreville|46.070|-72.811|CA|Quebec|61
+Piegan Mountain|48.710|-113.688|US|Montana|61|f
+Pier Bridge|43.363|-72.241|US|New Hampshire|61|f
+Pierrot Island|-19.767|63.433|MU|Rodrigues|61|f
 Piedra Labrada|15.682|-92.306|MX|Chiapas|61
 Piedras Coloradas|-32.372|-57.609|UY|Paysandú Department|61
 Pieranica|45.426|9.610|IT|Lombardy|61
@@ -168,20 +184,97 @@ Pierrepont|49.416|5.709|FR|Grand Est|60
 Pieve Torina|43.043|13.048|IT|The Marches|60
 Pie Creek|-26.230|152.608|AU|Queensland|60
 Piedra Gorda|22.509|-102.332|MX|Zacatecas|60
+Piedras Amarillas|15.683|-86.567|HN|Atlántida Department|60
+Pielnia|49.538|22.053|PL|Subcarpathia|60
+Piedras Anchas (Primera del Monte)|18.980|-99.782|MX|México|60
+Pieusse|43.080|2.232|FR|Occitanie|60
+Piedra Imán|17.077|-99.783|MX|Guerrero|60
+Piedra Grande|16.565|-97.536|MX|Oaxaca|60
 Pietrapertosa|40.517|16.062|IT|Basilicate|60
 Pievepelago|44.205|10.617|IT|Emilia-Romagna|59
+Piedmont|37.451|-81.264|US|West Virginia|59
 Pieve d'Olmi|45.090|10.124|IT|Lombardy|59
+Pielgrzymka|51.116|15.814|PL|Lower Silesia|59
+Pierantonio|43.264|12.389|IT|Umbria|59
 Pieve di Coriano|45.034|11.108|IT|Lombardy|59
+Piesau|50.517|11.217|DE|Thuringia|59
+Pierrefitte-sur-Sauldre|47.512|2.150|FR|Centre-Val de Loire|59
+Piedra Hincada|21.273|-98.557|MX|Hidalgo|59
+Pie de la Cuesta|20.609|-98.362|MX|Veracruz|59
 Pieve di Teco|44.047|7.916|IT|Liguria|59
+Pierce|40.636|-104.755|US|Colorado|59
+Piedra del Sol|15.872|-96.630|MX|Oaxaca|59
+Pieniążkowice|49.498|19.880|PL|Lesser Poland|59
 Pieve Albignola|45.113|8.960|IT|Lombardy|59
+Pierric|47.687|-1.736|FR|Pays de la Loire|59
+Piedmont|39.480|-79.048|US|West Virginia|58
+Piedra Larga|20.260|-100.334|MX|Guanajuato|58
+Piedmont|44.232|-103.389|US|South Dakota|58
+Pierreclos|46.335|4.686|FR|Bourgogne-Franche-Comté|58
+Pietriș|46.885|27.920|RO|Iași County|58
 Pietrastornina|40.995|14.718|IT|Campania|58
+Piégros-la-Clastre|44.681|5.099|FR|Auvergne-Rhône-Alpes|58
+Pienaarsrivierdam|-25.625|28.370|ZA|Gauteng|58|f
+Pieniński Park Narodowy|49.419|20.387|PL|Lesser Poland|58|f
+Pierce Mountain|48.748|-121.083|US|Washington|58|f
+Pierre Menue|45.167|6.767|FR|Auvergne-Rhône-Alpes|58|f
+Pierre Municipal Airport|44.382|-100.286|US|South Dakota|58|f
+Piedras Negras|20.441|-97.762|MX|Puebla|58
+Piedra de Agua|19.604|-96.963|MX|Veracruz|58
+Pietrafitta|42.991|12.213|IT|Umbria|58
 Pietra Marazzi|44.943|8.669|IT|Piedmont|58
+Pietrapiana|43.696|11.530|IT|Tuscany|58
+Pie de la Cuesta|17.474|-100.370|MX|Guerrero|58
+Piedra Blanca|16.261|-97.997|MX|Oaxaca|58
+Piedra del Tambor|16.659|-97.522|MX|Oaxaca|58
 Piegaro|42.966|12.084|IT|Umbria|58
+Piedras Blancas (Piedras Blancas Centro)|19.526|-99.935|MX|México|58
+Piermont|43.970|-72.081|US|New Hampshire|58
+Pietole|45.114|10.818|IT|Lombardy|57
+Pietreni|45.187|24.065|RO|Vâlcea County|57
+Pieve Saliceto|44.897|10.602|IT|Emilia-Romagna|57
+Pielgrzymka|49.616|21.440|PL|Subcarpathia|57
+Pierwoszyno|54.597|18.500|PL|Pomerania|57
+Pie de la Cuesta|16.621|-98.126|MX|Oaxaca|57
+Piedra Grande|19.351|-99.388|MX|México|57
+Piedra Grande|20.780|-98.043|MX|Veracruz|57
+Pieveottoville|45.013|10.155|IT|Emilia-Romagna|57
+Piedra Blanca|16.908|-99.501|MX|Guerrero|56
+Piedra Candela|8.876|-82.778|PA|Chiriquí Province|56
+Piedra Blanca|-17.971|-70.181|PE|Tacna|56
+Pietroasa|45.865|27.041|RO|Vrancea|56
+Piedra Virgen|15.948|-96.663|MX|Oaxaca|56
+Pietroiu|45.321|27.882|RO|Brăila County|56
+Pierre-la-Treiche|48.643|5.934|FR|Grand Est|56
+Pierreville|49.474|-1.780|FR|Normandy|56
+Piedra Labrada|21.192|-97.793|MX|Veracruz|55
+Piedras Grandes|19.701|-96.916|MX|Veracruz|55
+Piedra Parada|18.779|-99.735|MX|México|55
+Pierron|38.780|-89.598|US|Illinois|55
+Pietrișu|44.485|24.347|RO|Olt|55
+Pierowall|59.319|-2.991|GB|Scotland|55
+Pierzchów|49.935|20.281|PL|Lesser Poland|55
+Piercetown|52.284|-6.490|IE|Leinster|55
 Pievebovigliana|43.063|13.084|IT|The Marches|55
+Piedra Ancha|16.587|-98.361|MX|Guerrero|55
+Pierrefitte-sur-Loire|46.506|3.816|FR|Auvergne-Rhône-Alpes|55
+Pieszcz|54.459|16.778|PL|West Pomerania|55
 Pietrabbondante|41.745|14.385|IT|Molise|55
 Pieve Tesino|46.068|11.611|IT|Trentino-Alto Adige|55
+Pieve Vecchia|45.566|10.547|IT|Lombardy|54
+Piedras Point|-62.710|-60.331|AQ||54|f
+Pieni Maaninkajärvi|63.177|27.126|FI|North Savo|54|f
+Piersons Lake|44.833|-93.698|US|Minnesota|54|f
+Piet|47.037|8.841|CH|Schwyz|54|f
+Pieter Both|-20.192|57.556|MU|Port Louis|54|f
+Pietra di Bismantova|44.421|10.413|IT|Emilia-Romagna|54|f
+Pietrosul Călimanilor|47.125|25.185|RO|Mureș County|54|f
+Pierrerue|43.956|5.833|FR|Provence-Alpes-Côte d'Azur|54
 Pieve di Zignago|44.278|9.746|IT|Liguria|54
+Piedra Labrada|18.401|-94.773|MX|Veracruz|54
+Pietrzykowice|51.055|16.880|PL|Lower Silesia|54
 Piedras Gordas|8.639|-80.511|PA|Coclé|54
+Piedra Parada|16.828|-93.437|MX|Chiapas|54
 Pietrabruna|43.889|7.903|IT|Liguria|51
 Pieve di Ledro|45.888|10.731|IT|Trentino-Alto Adige|51
 Pieve|45.773|10.759|IT|Lombardy|51
@@ -189,8 +282,15 @@ Pieve d'Alpago|46.167|12.353|IT|Veneto|51
 Pieria-Prato Carnico|46.520|12.803|IT|Friuli Venezia Giulia|51
 Pietraroja|41.348|14.550|IT|Campania|51
 Pietrapaola|39.487|16.816|IT|Calabria|50
+Pierrerue|43.428|2.977|FR|Occitanie|50
 Piea|45.027|8.071|IT|Piedmont|49
 Pietra de' Giorgi|45.021|9.230|IT|Lombardy|49
+Pie IX Bridge|45.601|-73.648|CA|Quebec|49|f
+Piedmont Park|33.786|-84.374|US|Georgia|49|f
+Piedras Blancas National Park|8.711|-83.272|CR|Puntarenas Province|49|f
+Pielavesi|63.294|26.604|FI|North Savo|49|f
+Piercy Island|-35.165|174.340|NZ|Northland|49|f
+Pietra Parcellara|44.844|9.476|IT|Emilia-Romagna|49|f
 Pietranico|42.276|13.911|IT|Abruzzo|49
 Pierbach|48.348|14.756|AT|Upper Austria|49
 Pietracupa|41.683|14.519|IT|Molise|45
@@ -200,6 +300,23 @@ Piedras Albas|39.784|-6.926|ES|Extremadura|44
 Pietraferrazzana|41.969|14.375|IT|Abruzzo|44
 Piedrahita de Castro|41.681|-5.729|ES|Castille and León|43
 Piedicavallo|45.690|7.955|IT|Piedmont|42
+Pie Island|48.250|-89.100|CA|Ontario|40|f
+Piedmont National Wildlife Refuge|33.106|-83.699|US|Georgia|40|f
+Piegan Glacier|48.708|-113.684|US|Montana|40|f
+Piel Castle|54.063|-3.175|GB|England|40|f
+Pierce Lake|49.382|-87.812|CA|Ontario|40|f
+Pierce Lake|54.163|-92.951|CA|Ontario|40|f
+Pierce National Wildlife Refuge|45.631|-122.000|US|Washington|40|f
+Pierce Pond|41.933|-75.183|US|New York|40|f
+Pierce Range|49.595|-126.087|CA|British Columbia|40|f
+Piercey Islands|68.009|-108.794|CA|Nunavut|40|f
+Pierre Avoi|46.118|7.200|CH|Valais|40|f
+Pierre Lake|49.503|-80.715|CA|Ontario|40|f
+Pierre Lake|48.900|-118.138|US|Washington|40|f
+Piers Island|48.705|-123.417|CA|British Columbia|40|f
+Pierson Ranch Recreation Area|42.873|-97.486|US|South Dakota|40|f
+Pieskowa Skala - Zamek królewski XIVw.|50.244|19.780|PL|Lesser Poland|40|f
+Pietermaritzburg Airport|-29.649|30.399|ZA|KwaZulu-Natal|40|f
 Piedras Gordas|8.526|-80.910|PA|Veraguas Province|39
 Pie' del Sasso|42.994|12.999|IT|The Marches|38
 Pietraporzio|44.344|7.034|IT|Piedmont|38

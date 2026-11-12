@@ -17,8 +17,10 @@ Leck|54.767|8.983|DE|Schleswig-Holstein|78
 Le Coteau|46.019|4.092|FR|Auvergne-Rhône-Alpes|78
 Lechinţa|47.017|24.350|RO|Bistrița-Năsăud County|75
 Lecanto|28.852|-82.488|US|Florida|75
+Lechtal Alps|47.250|10.500|AT||74|f
 Le Cendre|45.722|3.187|FR|Auvergne-Rhône-Alpes|74
 Le Châtelet-en-Brie|48.507|2.792|FR|Île-de-France|74
+Le Chamossaire|46.327|7.061|CH|Vaud|73|f
 Le Cap d'Agde|43.278|3.514|FR|Occitanie|73
 Le Croisic|47.293|-2.518|FR|Pays de la Loire|73
 Lectoure|43.934|0.621|FR|Occitanie|73
@@ -30,6 +32,7 @@ Le Claire|41.599|-90.343|US|Iowa|72
 Le Cannet-des-Maures|43.392|6.340|FR|Provence-Alpes-Côte d'Azur|72
 Le Cheylard|44.906|4.424|FR|Auvergne-Rhône-Alpes|72
 Lechainá|37.933|21.267|GR|West Greece|71
+Le Chasseron|46.852|6.538|CH|Vaud|71|f
 Le Cellier|47.320|-1.347|FR|Pays de la Loire|71
 Le Casine-Perignano-Spinelli|43.600|10.583|IT|Tuscany|70
 Lécousse|48.367|-1.218|FR|Brittany|70
@@ -46,10 +49,12 @@ Lechbruck|47.702|10.795|DE|Bavaria|68
 Le Cheylas|45.371|5.993|FR|Auvergne-Rhône-Alpes|67
 Leconfield|53.877|-0.457|GB|England|67
 Lechaschau|47.488|10.707|AT|Tyrol|66
+Le Conte Bay|56.789|-132.445|US|Alaska|65|f
 Lecce Nei Marsi|41.934|13.684|IT|Abruzzo|65
 Lécluse|50.277|3.040|FR|Hauts-de-France|64
 Lech|47.208|10.142|AT|Vorarlberg|64
 Łęczyce|54.594|17.859|PL|Pomerania|64
+Lécuyer Point|-64.830|-63.497|AQ||63|f
 LeChee|35.032|-110.753|US|Arizona|63
 LeChee|36.862|-111.441|US|Arizona|63
 Le Champ-Saint-Père|46.508|-1.346|FR|Pays de la Loire|63
@@ -58,9 +63,60 @@ Le Champ-près-Froges|45.280|5.940|FR|Auvergne-Rhône-Alpes|62
 Lecompte|31.095|-92.400|US|Louisiana|62
 Le Crest|45.687|3.127|FR|Auvergne-Rhône-Alpes|61
 Le Châtelet|46.642|2.282|FR|Centre-Val de Loire|61
+Le Carénage|17.900|-62.850|BL||61|f
+Lecce Galatina Airport|40.239|18.133|IT|Apulia|61|f
+Lech’khumis K’edi|42.721|43.102|GE|Racha-Lechkhumi and Kvemo Svaneti|61|f
 Le Castella|38.910|17.022|IT|Calabria|61
 Lecka|49.879|22.014|PL|Subcarpathia|60
+Le Chesne|49.513|4.764|FR|Grand Est|60
+Lechința|47.923|23.298|RO|Satu Mare County|60
+Le Coudray-Saint-Germer|49.412|1.839|FR|Hauts-de-France|59
+Le Coudray-Macouard|47.195|-0.119|FR|Pays de la Loire|59
+Le Cozze|43.596|13.314|IT|The Marches|59
+Le Coux|44.834|0.973|FR|New Aquitaine|59
+Łęczyca|52.308|16.875|PL|Greater Poland|58
+Le Cascine|43.783|11.217|IT|Tuscany|58|f
+Lecointe Island|-64.266|-62.050|AQ||58|f
+Leccio|43.699|11.467|IT|Tuscany|58
+Léchovo|40.584|21.492|GR|West Macedonia|58
 Lécera|41.205|-0.711|ES|Aragon|58
+Lechința|46.474|24.229|RO|Mureș County|57
+Le Chevain|48.432|0.126|FR|Pays de la Loire|57
+Le Cergne|46.122|4.310|FR|Auvergne-Rhône-Alpes|57
+Le Collet-de-Dèze|44.245|3.922|FR|Occitanie|57
+Le Croisty|48.065|-3.364|FR|Brittany|57
+Le Castéra|43.673|1.141|FR|Occitanie|57
+Le Châtelard|45.686|6.137|FR|Auvergne-Rhône-Alpes|56
+Le Cheix|45.544|2.999|FR|Auvergne-Rhône-Alpes|56
+Lecompton|39.044|-95.395|US|Kansas|56
+Le Chay|45.639|-0.895|FR|New Aquitaine|56
+Le Cloître-Saint-Thégonnec|48.480|-3.795|FR|Brittany|56
+Léchelle|48.578|3.388|FR|Île-de-France|55
+Le Change|45.197|0.895|FR|New Aquitaine|55
+Léchelles|46.829|7.016|CH|Fribourg|55
+Lechebnoye|45.052|34.748|UA|Crimea|55
+Le Cambout|48.059|-2.611|FR|Brittany|55
+Le Cloître-Pleyben|48.257|-3.890|FR|Brittany|55
+Le Crestet|45.014|4.655|FR|Auvergne-Rhône-Alpes|55
+Le Clerjus|47.962|6.324|FR|Grand Est|54
+Le Châtelet-sur-Retourne|49.416|4.279|FR|Grand Est|54
+Le Coudray-sur-Thelle|49.306|2.124|FR|Hauts-de-France|54
+Le Cheval Blanc|46.052|6.873|FR|Auvergne-Rhône-Alpes|49|f
+Le Conte Mountain|48.379|-121.062|US|Washington|49|f
+Le Couteur Glacier|-84.700|-170.500|AQ||49|f
+Le Couteur Peak|-72.150|165.983|AQ||49|f
+Lechner, Mount|-83.233|-50.916|AQ||49|f
+Leckie Range|-67.917|56.483|AQ||49|f
+Leckie, Mount|-70.439|66.007|AQ||49|f
 Lećevica|43.642|16.350|HR|Split-Dalmatia|45
+Le Catogne|46.054|7.111|CH|Valais|40|f
+Le Châtelet|45.999|7.100|CH|Valais|40|f
+Lechmere Canal|42.370|-71.074|US|Massachusetts|40|f
+Lechmere Square|42.371|-71.076|US|Massachusetts|40|f
+Lechmere Viaduct|42.368|-71.070|US|Massachusetts|40|f
+Leconte Island|78.581|-74.793|CA|Nunavut|40|f
 Lechón|41.086|-1.285|ES|Aragon|35
+Le Chambon|44.867|4.283|FR|Auvergne-Rhône-Alpes|35
 Lechang|35.642|111.467|CN|Shanxi|0
+Lecheng|23.354|112.332|CN|Guangdong|0
+Lecong|22.959|113.076|CN|Guangdong|0

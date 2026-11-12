@@ -1,5 +1,5 @@
 Botswana|-22.000|24.000|BW||128|c
-Botoșani County|47.833|26.750|RO||114|r
+Botoșani County|47.833|26.750|RO||115|r
 Botshabelo|-29.267|26.726|ZA|Free State|110
 Botucatu|-22.886|-48.445|BR|São Paulo|103
 Botad|22.169|71.667|IN|Gujarat|102
@@ -16,6 +16,8 @@ Bothfeld|52.417|9.796|DE|Lower Saxony|86
 Bothell West|47.805|-122.241|US|Washington|84
 Botelhos|-21.633|-46.395|BR|Minas Gerais|83
 Botro|7.852|-5.311|CI|Vallée du Bandama District|83
+Botany Bay|-33.987|151.165|AU|New South Wales|81|f
+Botev Peak|42.717|24.917|BG|Plovdiv|81|f
 Botany|-33.946|151.196|AU|New South Wales|81
 Botuofeinuochunshuian|22.546|113.974|CN|Guangdong|80
 Botuporã|-13.382|-42.523|BR|Bahia|80
@@ -34,16 +36,19 @@ Botoşana|47.683|25.950|RO|Suceava|74
 Botricello|38.930|16.858|IT|Calabria|74
 Botiz|47.833|22.950|RO|Satu Mare County|74
 Botindé|5.778|-4.755|CI|Lagunes District|74
+Botopasi Airport|4.218|-55.446|SR|Sipaliwini District|73|f
 Botayurt|43.319|46.684|RU|Dagestan|72
 Botabano|19.377|-81.385|KY||72
 Botashyurt|43.308|46.510|RU|Dagestan|72
 Bottesford|52.941|-0.801|GB|England|70
+Bothal Castle|55.172|-1.625|GB|England|70|f
 Botigues|11.100|123.668|PH|Central Visayas|69
 Botiza|47.667|24.150|RO|Maramureş|69
 Botwood|49.150|-55.348|CA|Newfoundland and Labrador|69
 Botrugno|40.064|18.323|IT|Apulia|69
 Boteni|45.183|25.117|RO|Arges|69
 Botao|15.917|120.417|PH|Ilocos|69
+Botlog Island|11.231|123.159|PH|Western Visayas|69|f
 Botha’s Hill|-29.718|30.733|ZA|KwaZulu-Natal|68
 Botoš|45.308|20.635|RS|Vojvodina|68
 Botley|50.914|-1.270|GB|England|68
@@ -58,29 +63,105 @@ Botindin|5.643|-4.909|CI|Lagunes District|66
 Bottega|43.845|12.750|IT|The Marches|66
 Bottighofen|47.636|9.209|CH|Thurgau|65
 Bottelare|50.964|3.755|BE|Flanders|65
+Botanischer Garten Augsburg|48.351|10.914|DE|Bavaria|65|f
+Botniahalvøya|80.247|19.285|SJ|Svalbard|65|f
 Botesdale|52.342|1.004|GB|England|65
 Botanicheskoye|45.787|33.549|UA|Crimea|64
 Botiieve|46.682|35.838|UA|Zaporizhzhia|64
 Böttingen|48.100|8.800|DE|Baden-Wurttemberg|64
+Botsvatn|59.331|7.205|NO|Agder|63|f
+Bottenvikens Nationalpark|65.650|24.351|FI|Lapland|63|f
 Botongouiné|7.307|-7.571|CI|Montagnes|63
 Boţeşti|45.017|25.133|RO|Arges|62
 Botkins|40.468|-84.180|US|Ohio|61
 Botngård|63.765|9.809|NO|Trøndelag|61
+Botique Island|11.100|123.668|PH|Central Visayas|61|f
+Botnfjellet Mountain|-71.750|11.417|AQ||61|f
 Bötersen|53.137|9.316|DE|Lower Saxony|60
 Bottens|46.616|6.661|CH|Vaud|60
 Botlhapatlou|-24.026|25.490|BW|Kweneng|60
 Botoşeşti-Paia|44.400|23.267|RO|Dolj|60
+Boteni|44.665|25.629|RO|Dâmbovița County|60
 Botarell|41.136|0.989|ES|Catalonia|59
+Botar|48.026|22.975|UA|Zakarpattia|59
+Botteghino|44.744|10.364|IT|Emilia-Romagna|59
+Bothwell|42.633|-81.866|CA|Ontario|59
+Botanical Garden|40.411|-3.691|ES|Madrid|58|f
+Bothe-Napa Valley State Park|38.546|-122.536|US|California|58|f
+Bottle Island|57.965|-5.448|GB|Scotland|58|f
+Bottenwil|47.285|8.006|CH|Aargau|58
 Bot|41.009|0.384|ES|Catalonia|58
+Bottmersdorf|52.030|11.429|DE|Saxony-Anhalt|58
+Botta|45.768|9.614|IT|Lombardy|58
 Botta|45.832|9.533|IT|Lombardy|58
+Bottenbach|49.183|7.500|DE|Rheinland-Pfalz|57
+Botuș|47.560|25.342|RO|Suceava|57
+Bothi Baji|20.242|-98.946|MX|Hidalgo|57
 Bottidda|40.392|9.010|IT|Sardinia|57
+Bottnaryd|57.772|13.826|SE|Jönköping|57
+Botz-en-Mauges|47.307|-1.001|FR|Pays de la Loire|57
+Botean|47.101|22.144|RO|Bihor County|57
+Bottle Creek Settlements|21.884|-71.922|TC||56
+Botorani|44.746|24.040|RO|Vâlcea County|56
+Botfalva|48.581|22.202|UA|Zakarpattia|56
+Botidi|19.966|-99.843|MX|México|56
+Bottaiano|45.416|9.742|IT|Lombardy|55
+Botun|42.385|19.200|ME|Podgorica|55
+Botești|46.567|27.086|RO|Bacău County|55
+Boțești|46.936|26.502|RO|Neamț County|55
+Botești|47.516|26.134|RO|Suceava|54
+Botanical Garden|47.359|8.559|CH|Zurich|54|f
+Botn|63.575|9.965|NO|Trøndelag|54|f
+Botnedalsvatn|59.494|7.767|NO|Telemark|54|f
+Botnneset Peninsula|-69.717|37.583|AQ||54|f
+Botsvatnet|59.180|7.245|NO|Agder|54|f
+Bottrill Head|-67.703|-66.968|AQ||54|f
+Botsorhel|48.527|-3.641|FR|Brittany|54
 Botești|47.052|26.749|RO|Neamț County|54
 Botorrita|41.507|-1.031|ES|Aragon|54
+Bothkamp|54.200|10.133|DE|Schleswig-Holstein|50
+botanic garden|53.562|9.861|DE|Hamburg|49|f
+Botanical Garden|41.362|2.158|ES|Catalonia|49|f
+Botanical Garden|48.844|2.358|FR|Île-de-France|49|f
+Botanical Garden|41.686|44.804|GE||49|f
+Botanical Garden Padua|45.399|11.881|IT|Veneto|49|f
+Botany Bay National Park|-34.021|151.225|AU|New South Wales|49|f
+Bothkamper See|54.203|10.128|DE|Schleswig-Holstein|49|f
+Bothy Lake|-60.725|-45.662|AQ||49|f
+Botnnuten|-70.400|38.017|AQ||49|f
+Botte Donato|39.283|16.450|IT|Calabria|49|f
+Bottom Bay|13.136|-59.424|BB|Saint Philip|49|f
+Bottoms Reservoir|53.468|-1.961|GB|England|49|f
 Botija|39.345|-6.073|ES|Extremadura|44
+Botanic Gardens Park|54.583|-5.933|GB|Northern Ireland|40|f
+Botanical Garden of the University of Coimbra|40.205|-8.421|PT|Coimbra|40|f
+Botanie Mountain|50.366|-121.603|CA|British Columbia|40|f
+Botanischer Garten Düsseldorf|51.187|6.803|DE|North Rhine-Westphalia|40|f
+Botanischer Garten München-Nymphenburg|48.163|11.502|DE|Bavaria|40|f
+Botaniska Trädgården|55.705|13.203|SE|Skåne|40|f
+Botenlaube|50.188|10.087|DE|Bavaria|40|f
+Botev Peak|-62.754|-60.314|AQ||40|f
+Botev Point|-62.762|-60.315|AQ||40|f
+Botrange|50.502|6.093|BE|Wallonia|40|f
+Botsford Lake|50.139|-91.659|CA|Ontario|40|f
+Bottineau Municipal Airport|48.832|-100.424|US|North Dakota|40|f
+Bottle Creek Indian Mounds (historical)|31.009|-87.941|US|Alabama|40|f
+Bottle Lake|48.467|-57.632|CA|Newfoundland and Labrador|40|f
+Bottle Lake|44.722|-63.422|CA|Nova Scotia|40|f
+Bottle Mountain|43.754|-74.903|US|New York|40|f
+Bottleneck Peak|39.060|-110.687|US|Utah|40|f
+Bottomless Lake|46.904|-95.345|US|Minnesota|40|f
+Bottomless Lakes State Park|33.344|-104.338|US|New Mexico|40|f
+Bottoms Bridge|37.515|-77.205|US|Virginia|40|f
 Bo Thong|13.279|101.442|TH|Chon Buri|0
 Botaqara|50.059|73.715|KZ|Karaganda|0
 Botawa|-2.210|136.447|ID|Papua|0
 Botera|-11.616|14.263|AO|Kwanza Sul|0
 Botlikh|42.665|46.220|RU|Dagestan|0
+Boto|-7.004|111.389|ID|Central Java|0
+Boto|-6.810|111.195|ID|Central Java|0
+Boto|-6.916|112.002|ID|East Java|0
+Boto|-8.508|123.376|ID|East Nusa Tenggara|0
+Botoh|-7.092|111.472|ID|Central Java|0
 Bottesford|53.550|-0.650|GB|England|0
 Botum Sakor|11.187|103.471|KH|Koh Kong|0

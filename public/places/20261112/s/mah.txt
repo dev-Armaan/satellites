@@ -39,6 +39,7 @@ Mahmutlar|36.495|32.091|TR|Antalya|88
 Mahwah|41.089|-74.144|US|New Jersey|88
 Mahārājpur|25.019|79.732|IN|Madhya Pradesh|87
 Maḩmūdābād Nemūneh|36.290|49.901|IR|Qazvin Province|87
+Maharana Pratap international Airport|24.618|73.897|IN|Rajasthan|87|f
 Mahādula|21.253|79.081|IN|Maharashtra|87
 Mahgawān|26.495|78.616|IN|Madhya Pradesh|87
 Mahdishahr|35.711|53.354|IR|Semnan|86
@@ -59,6 +60,7 @@ Mahébourg|-20.408|57.700|MU|Grand Port|85
 Mahires|34.528|10.501|TN|Sfax Governorate|84
 Mahabalipuram|12.621|80.193|IN|Tamil Nadu|84
 Mahanje|-9.933|35.333|TZ|Ruvuma|84
+Mahé|-4.676|55.474|SC||83|f
 Mahina|-17.506|-149.489|PF|Îles du Vent|83
 Mahogany|50.896|-113.925|CA|Alberta|83
 Mahlow|52.360|13.410|DE|Brandenburg|83
@@ -67,6 +69,7 @@ Mahuta|-10.867|39.450|TZ|Mtwara|83
 Mahabaleshwar|17.923|73.659|IN|Maharashtra|83
 Mahendranagar|22.840|70.860|IN|Gujarat|82
 Mahalpur|31.362|76.038|IN|Punjab|81
+Mahshahr Airport|30.556|49.152|IR|Khuzestan|81|f
 Mahu Khurd|26.469|76.733|IN|Rajasthan|81
 Mahāgama|25.034|87.319|IN|Jharkhand|81
 Mahuver|21.027|72.887|IN|Gujarat|81
@@ -115,13 +118,17 @@ Mahlobyanini|-24.901|31.394|ZA|Mpumalanga|72
 Mahandiana-Soukourani|10.245|-6.677|CI|Denguélé District|72
 Mahanob|7.573|126.507|PH|Davao Region|72
 Mahuixtlan|19.409|-96.918|MX|Veracruz|72
+Mahdia Airport|5.277|-59.151|GY|Potaro-Siparuni|71|f
 Mahal|31.140|75.790|IN|Punjab|71
 Mahmudlu|40.853|46.160|AZ|Şǝmkir|70
+Mahet|27.515|82.051|IN|Uttar Pradesh|70|f
+Mahidol University|13.795|100.326|TH|Nakhon Pathom|70|f
 Mahaba|13.268|123.551|PH|Bicol Region|70
 Mahang|5.325|100.749|MY|Kedah|69
 Mahayag|7.217|125.619|PH|Davao Region|69
 Mahabang Parang|13.983|121.083|PH|Calabarzon|69
 Mahinog|9.158|124.787|PH|Northern Mindanao|69
+Maḩall-e Eḩdās̄-e Sadd-e Kārūn|31.803|50.091|IR|Khuzestan|69|f
 Mahounou-Akoué|6.956|-5.377|CI|Yamoussoukro|68
 Mahounou-Nanafoué|6.811|-5.138|CI|Yamoussoukro|68
 Mahukule B|-25.015|31.182|ZA|Mpumalanga|68
@@ -136,6 +143,7 @@ Mahaicony Village|6.572|-57.806|GY|Mahaica-Berbice|67
 Mahio|5.803|-6.610|CI|Bas-Sassandra District|66
 Mähring|49.911|12.524|DE|Bavaria|66
 Maḩmūdābād|35.551|51.547|IR|Tehran|66
+Mährens|54.466|13.205|DE|Mecklenburg-Vorpommern|65|f
 Mahlabatini|-28.259|31.441|ZA|KwaZulu-Natal|65
 Mahmut Şevket Paşa|41.153|29.190|TR|Istanbul|65
 Mahinadopa|6.161|-5.831|CI|Goh-Djiboua|65
@@ -144,6 +152,8 @@ Mahatao|20.416|121.947|PH|Cagayan Valley|65
 Mahadougou|9.036|-7.830|CI|Woroba|65
 Mahibouo|6.049|-5.921|CI|Goh-Djiboua|65
 Mahmutköy|38.498|30.543|TR|Afyonkarahisar Province|64
+Mahendragiri|8.384|77.489|IN|Tamil Nadu|63|f
+Mahogany Mountain|43.235|-117.256|US|Oregon|63|f
 Maḩmūdābād-e Do Dāng|29.253|52.732|IR|Fars|63
 Mahora|39.217|-1.733|ES|Castille-La Mancha|63
 Mahébli|7.383|-7.400|CI|Montagnes|62
@@ -151,12 +161,71 @@ Maharishi Vedic City|41.053|-91.995|US|Iowa|62
 Maḩalleh-ye Kāfī ol Malek|38.139|45.571|IR|East Azerbaijan|62
 Mahnomen|47.315|-95.969|US|Minnesota|62
 Mahandougou|10.143|-5.184|CI|Savanes District|61
+Mahābhārat Lekh|28.750|83.500|NP|Gandaki Pradesh|61|f
+Mahia Peninsula|-39.167|177.883|NZ||61|f
+Mahoney Butte|43.597|-114.454|US|Idaho|61|f
+Mahtotopa Mountain|48.652|-113.569|US|Montana|61|f
+Mahya Dağı|41.782|27.616|TR|Kırklareli|61|f
 Mahone Bay|44.449|-64.382|CA|Nova Scotia|61
+Mahaena|-17.567|-149.317|PF||60
+Mahidio|6.191|-5.964|CI|Goh-Djiboua|59
+Mahahual|18.716|-87.708|MX|Quintana Roo|59
+Māhinahina|20.962|-156.674|US|Hawaii|59
+Maḩmūdābād-e Seh Dāng|29.259|52.720|IR|Fars|59
+Mahalon|48.035|-4.436|FR|Brittany|59
+Mahogany Heights|17.339|-88.567|BZ|Belize District|59
+Mahmutseydi|36.632|32.026|TR|Antalya|59
+Mahouréboua|5.977|-5.636|CI|Goh-Djiboua|59
+Māhīdasht|34.269|46.803|IR|Kermanshah Province|58
+Māhforūjak|36.504|52.969|IR|Māzandarān|58
+Māhalaṅgur Himāl|28.020|86.802|CN||58|f
+Mahli Glacier|34.853|73.736|PK|Khyber Pakhtunkhwa|58|f
+Mahlon Sweet Field Airport|44.120|-123.214|US|Oregon|58|f
+Mahogany Mountains|37.962|-114.075|US|Nevada|58|f
+Mahapleu II|6.860|-8.279|CI|Montagnes|58
+Maḩal-e Jadīd-e Zanjīrān|29.056|52.621|IR|Fars|57
+Mahlwinkel|52.394|11.786|DE|Saxony-Anhalt|56
+Mahroun|35.043|-5.234|MA|Tanger-Tetouan-Al Hoceima|56
+Maḩalleh-ye Kheyrābād|35.554|51.408|IR|Tehran|55
+Mahānandi|15.471|78.627|IN|Andhra Pradesh|54|f
+Mahanay Island|10.193|124.229|PH|Central Visayas|54|f
+Mahendranagar Airport|28.961|80.147|NP|Sudurpashchim Pradesh|54|f
+Māhīm Bay|19.032|72.827|IN||54|f
+Māhīm Fort|19.033|72.833|IN|Maharashtra|54|f
+Mahnalanselkä|61.549|23.294|FI|Pirkanmaa|54|f
+Mahogany Hills|39.437|-116.155|US|Nevada|54|f
+Mahoning Creek Dam|40.922|-79.277|US|Pennsylvania|54|f
 Mahide|41.869|-6.378|ES|Castille and León|54
+Mahaka Ponds|-77.304|160.863|AQ||49|f
+Mahakudagala|7.043|80.842|LK|Central Province|49|f
+Maher Island|-73.083|-125.133|AQ||49|f
+Mahnke Peak|38.863|-122.856|US|California|49|f
 Mahamud|42.120|-3.941|ES|Castille and León|44
+Mahaffey Glacier|-72.300|-96.433|AQ||40|f
+Mahale Mountains National Park|-6.271|29.933|TZ|Kigoma|40|f
+Mahana|20.972|-156.626|US|Hawaii|40|f
+Maharaja Krishnakumarsinhji Bhavnagar University|21.762|72.130|IN|Gujarat|40|f
+Mahinda Rajapaksa International Cricket Stadium|6.354|81.025|LK|Southern Province|40|f
+Mahla Lake|45.999|-95.753|US|Minnesota|40|f
+Mahlberg|48.836|8.377|DE|Baden-Wurttemberg|40|f
+Mahned Bridge|31.227|-89.087|US|Mississippi|40|f
+Mahnkopf|47.412|11.508|AT|Tyrol|40|f
+Mahone Bay|44.502|-64.224|CA|Nova Scotia|40|f
+Mahoney Lake|49.290|-119.582|CA|British Columbia|40|f
+Mahood Lake|51.931|-120.382|CA|British Columbia|40|f
+Mahoosuc Range|44.509|-70.988|US|Maine|40|f
+Mährenhorn|46.692|8.311|CH|Bern|40|f
+Mahurangi Island (Goat Island)|-36.818|175.820|NZ|Auckland|40|f
 Maha Chana Chai|15.529|104.238|TH|Yasothon|0
 Maha Rat|14.534|100.527|TH|Phra Nakhon Si Ayutthaya|0
+Mahaokou|29.975|112.303|CN|Hubei|0
 Mahaplag|10.604|124.965|PH|Eastern Visayas|0
+Mahe|44.046|129.188|CN|Heilongjiang|0
+Mahe|30.781|113.688|CN|Hubei|0
+Mahe|31.141|111.935|CN|Hubei|0
+Mahekou|29.298|112.281|CN|Hunan|0
 Mahīn|34.242|37.058|SY|Homs|0
 Mahmudiye|39.498|30.987|TR|Eskişehir|0
 Mahmutbey|41.054|28.826|TR|Istanbul|0
+Mahong|27.919|115.018|CN|Jiangxi|0
+Mahuiling|29.446|115.802|CN|Jiangxi|0

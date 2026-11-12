@@ -15,6 +15,7 @@ Leme|-22.962|-43.168|BR|Rio de Janeiro|82
 Lemmer|52.846|5.709|NL|Friesland|80
 Lembar|-8.726|116.074|ID|West Nusa Tenggara|80
 Le Mars|42.794|-96.166|US|Iowa|80
+Lemnos|39.942|25.243|GR|North Aegean|80|f
 Le Muy|43.473|6.566|FR|Provence-Alpes-Côte d'Azur|79
 Lempdes|45.771|3.194|FR|Auvergne-Rhône-Alpes|78
 Le Marin|14.472|-60.870|MQ|Martinique|78
@@ -32,20 +33,27 @@ Lemta|35.667|10.883|TN|Monastir Governorate|75
 Le Morne-Rouge|14.776|-61.136|MQ|Martinique|75
 Le Mont-sur-Lausanne|46.558|6.631|CH|Vaud|74
 Lemmon Valley|39.636|-119.843|US|Nevada|74
+Le Mars Municipal Airport|42.778|-96.194|US|Iowa|73|f
 Lemoyne|40.241|-76.894|US|Pennsylvania|73
 Leme do Prado|-17.083|-42.693|BR|Minas Gerais|73
 Lemberg|49.173|7.651|DE|Rheinland-Pfalz|73
 Le May-sur-Èvre|47.137|-0.893|FR|Pays de la Loire|72
 Lembeke|51.195|3.633|BE|Flanders|71
+Le Môle|46.107|6.455|FR|Auvergne-Rhône-Alpes|71|f
+Lemmenjoen Kansallispuisto|68.583|25.667|FI|Lapland|71|f
 Lemnia|46.050|26.267|RO|Covasna County|71
 Lemery|11.226|122.927|PH|Western Visayas|70
+Lemieux Island|45.416|-75.729|CA|Ontario|70|f
 Lemförde|52.466|8.376|DE|Lower Saxony|69
 Lemi|61.062|27.806|FI|South Karelia|69
 Le Molay-Littry|49.243|-0.872|FR|Normandy|69
+Lembata Island|-8.417|123.500|ID|East Nusa Tenggara|69|f
 Lemont|40.811|-77.818|US|Pennsylvania|67
 Le Mesnil-en-Thelle|49.178|2.286|FR|Hauts-de-France|67
 Le Monastère|44.342|2.580|FR|Occitanie|66
 Le Meux|49.367|2.744|FR|Hauts-de-France|65
+LeMay Range|-70.917|-69.333|AQ||65|f
+Lemberg|48.151|8.750|DE|Baden-Wurttemberg|65|f
 Le Monastier-sur-Gazeille|44.933|4.000|FR|Auvergne-Rhône-Alpes|65
 Lemland|60.072|20.085|AX|Ålands landsbygd|65
 Lembach|49.004|7.790|FR|Grand Est|65
@@ -62,18 +70,94 @@ Lemmon|45.941|-102.159|US|South Dakota|62
 Lemsid|26.539|-13.839|EH||61
 Le Ménil|47.905|6.782|FR|Grand Est|61
 Lemos|0.299|6.698|ST|São Tomé Island|61
+Lemah Mountain|47.491|-121.301|US|Washington|61|f
+Lemaire Island|-64.809|-62.954|AQ||61|f
+Lembeh Strait|1.437|125.204|ID|North Sulawesi|61|f
+Lembert Dome|37.882|-119.347|US|California|61|f
+Lemesurier Island|58.284|-136.085|US|Alaska|61|f
+Lemhi County Airport|45.122|-113.882|US|Idaho|61|f
 Le Monêtier-les-Bains|44.976|6.509|FR|Provence-Alpes-Côte d'Azur|61
 Léma|7.698|-7.613|CI|Montagnes|61
 Le Mesnil-sur-Oger|48.947|4.023|FR|Grand Est|61
 Le Manoir|49.314|1.205|FR|Normandy|60
 Lempster|43.238|-72.211|US|New Hampshire|60
 Le Malzieu-Ville|44.856|3.330|FR|Occitanie|60
+Lembruch|52.525|8.369|DE|Lower Saxony|60
+Le Mesnil-Mauger|49.084|0.016|FR|Normandy|60
+Le Merlerault|48.700|0.286|FR|Normandy|60
+Le Montat|44.380|1.448|FR|Occitanie|60
+Le Mesnil-Aubry|49.052|2.399|FR|Île-de-France|60
+Leming|29.073|-98.484|US|Texas|60
+Le Magny|46.568|1.956|FR|Centre-Val de Loire|59
+Lemannville|30.109|-90.920|US|Louisiana|59
+Le Merzer|48.576|-3.068|FR|Brittany|58
+Le Martinet|44.254|4.084|FR|Occitanie|58
+Lemont Furnace|39.914|-79.670|US|Pennsylvania|58
+Le Madonie|37.867|13.967|IT|Sicily|58|f
+Le Moucherotte|45.148|5.639|FR|Auvergne-Rhône-Alpes|58|f
+Lem Peak|44.780|-113.866|US|Idaho|58|f
+Lemei Rock|46.018|-121.760|US|Washington|58|f
+Lemon Dam|37.382|-107.661|US|Colorado|58|f
+Le Mêle-sur-Sarthe|48.513|0.355|FR|Normandy|58
+Le Monastier-Pin-Moriès|44.517|3.250|FR|Occitanie|58
+Le Mesnil-Amelot|49.018|2.594|FR|Île-de-France|58
+Lembeye|43.450|-0.110|FR|New Aquitaine|58
+Le Mesnil-Théribus|49.301|1.987|FR|Hauts-de-France|57
+Lemiers|50.786|5.993|NL|Limburg|57
+Le Marillais|47.357|-1.077|FR|Pays de la Loire|57
+Lemon Grove|27.558|-81.678|US|Florida|56
+Lemierzyce|52.567|14.915|PL|Lubusz|56
+Le Moustoir|48.266|-3.506|FR|Brittany|56
+Lempaut|43.528|2.065|FR|Occitanie|56
+Lemps|45.109|4.765|FR|Auvergne-Rhône-Alpes|56
+Le Mesnil-sous-Jumièges|49.411|0.860|FR|Normandy|55
+Le Mont-Saint-Adrien|49.446|2.005|FR|Hauts-de-France|55
+Lémèhèkaha|9.273|-5.641|CI|Savanes District|55
+Le Maisnil|50.615|2.885|FR|Hauts-de-France|55
+Lemīr|38.230|48.886|IR|Gilan Province|55
+Le Mesnil-au-Val|49.606|-1.525|FR|Normandy|55
+Le Mesnil-Guillaume|49.105|0.288|FR|Normandy|54
+Lem Rural|14.882|-24.699|CV|Brava|54
+Lemizzone|44.733|10.754|IT|Emilia-Romagna|54
+Lem de Cima|14.896|-24.497|CV|São Filipe|54
+Le Maïdo|-21.069|55.388|RE||54|f
+Le Mont Colombier|45.650|6.117|FR|Auvergne-Rhône-Alpes|54|f
+Lemon Bjerge|68.583|-31.850|GL|Sermersooq|54|f
+Lemonsjøen|61.775|9.066|NO|Innlandet|54|f
+Lemniu|47.353|23.487|RO|Sălaj County|54
+Le Montet|46.409|3.055|FR|Auvergne-Rhône-Alpes|54
+Lempa|34.809|32.408|CY|Pafos|54
+Lemnitz|50.722|11.833|DE|Thuringia|52
+Le Mont|44.034|7.073|FR|Provence-Alpes-Côte d'Azur|49|f
+Le Mont Revard|45.671|5.972|FR|Auvergne-Rhône-Alpes|49|f
+Lemon Tree Passage|-32.734|152.042|AU|New South Wales|49|f
 Lemna|45.858|9.160|IT|Lombardy|49
+Le Métailler|46.104|7.360|CH|Valais|40|f
+Le Miroir|46.071|7.367|CH|Valais|40|f
+Le Moine|45.945|7.271|CH|Valais|40|f
+le Mont Sainte-Odile|48.437|7.404|FR|Grand Est|40|f
+Le Mourin|45.940|7.179|CH|Valais|40|f
+LeMasurier, Mount|-75.450|-139.650|AQ||40|f
+Lemmington Hall|55.395|-1.810|GB|England|40|f
+Lemon Bay|26.960|-82.380|US|Florida|40|f
+Lemon Hill|39.971|-75.187|US|Pennsylvania|40|f
+Lemont Lake|44.689|-63.521|CA|Nova Scotia|40|f
 Lemie|45.229|7.292|IT|Piedmont|39
 Lemahputih|-7.010|108.170|ID|West Java|0
+Lemahsari|-7.191|107.968|ID|West Java|0
 Lemba|-8.775|17.244|AO|Malanje|0
+Lembanah|-7.104|113.636|ID|East Java|0
 Lêmboa|-6.850|14.919|AO|Uíge|0
+Lemboleng|-8.488|123.076|ID|East Nusa Tenggara|0
+Lembongan Kawan|-8.690|115.440|ID|Bali|0
+Lembor|-6.928|112.235|ID|East Java|0
+Lembung Lor|-7.015|112.425|ID|East Java|0
+Lembung Tengah|-7.162|113.562|ID|East Java|0
+Lembur Tengah|-7.648|107.728|ID|West Java|0
+Lembursawah|-7.506|108.377|ID|West Java|0
+Lemburwarung|-7.335|108.263|ID|West Java|0
 Lemery|13.881|120.914|PH|Calabarzon|0
+Lemin|21.134|109.757|CN|Guangdong|0
 Lemito|0.542|121.571|ID|Gorontalo|0
 Lemmi|27.147|93.246|IN|Arunachal Pradesh|0
 Lempokasi|-3.456|120.366|ID|South Sulawesi|0

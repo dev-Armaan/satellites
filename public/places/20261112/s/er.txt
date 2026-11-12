@@ -33,6 +33,7 @@ Errenteria|43.312|-1.902|ES|Basque Country|92
 Erāttupetta|9.687|76.779|IN|Kerala|91
 Eruwa|7.539|3.425|NG|Oyo State|91
 Erāmala|11.686|75.591|IN|Kerala|91
+Erbil International Airport|36.238|43.963|IQ|Erbil|91|f
 Erding|48.306|11.907|DE|Bavaria|91
 Erraguntla|14.639|78.540|IN|Andhra Pradesh|90
 Erandol|20.922|75.326|IN|Maharashtra|90
@@ -45,18 +46,24 @@ Erandio|43.304|-2.974|ES|Basque Country|88
 Eravur Town|7.778|81.604|LK|Eastern Province|87
 Erdek|40.400|27.793|TR|Balıkesir|87
 Erie|40.050|-105.050|US|Colorado|87
+Erechtheion|37.972|23.726|GR|Attica|86|f
 Ervália|-20.840|-42.657|BR|Minas Gerais|86
+Ernesto Cortissoz International Airport|10.890|-74.781|CO|Atlántico|86|f
 Erlanger|39.017|-84.601|US|Kentucky|85
 Eringate-Centennial-West Deane|43.658|-79.580|CA|Ontario|85
 Erémankono|5.928|-5.023|CI|Goh-Djiboua|85
 Erong|28.571|109.288|CN|Chongqing|85
 Eruvādi|8.444|77.604|IN|Tamil Nadu|85
 Erlang|30.363|105.992|CN|Chongqing|85
+Ernst-Happel-Stadion|48.207|16.421|AT|Vienna|85|f
+Erzurum Airport|39.956|41.170|TR|Erzurum|85|f
 Ermitagaña|42.811|-1.664|ES|Navarre|85
 Eravattūr|11.580|75.738|IN|Kerala|85
 Ermenek|36.640|32.892|TR|Karaman|85
 Eruvatti|11.806|75.530|IN|Kerala|85
 Ersheng|29.466|106.771|CN|Chongqing|84
+Erasmusbrug|51.909|4.487|NL|South Holland|84|f
+Erzincan Airport|39.710|39.527|TR|Erzincan|84|f
 Erba|45.809|9.226|IT|Lombardy|84
 Erenhot|43.648|111.977|CN|Inner Mongolia|84
 Ermua|43.187|-2.503|ES|Basque Country|84
@@ -71,9 +78,12 @@ Erbach|49.661|8.994|DE|Hesse|83
 Erbach|48.328|9.888|DE|Baden-Wurttemberg|82
 Erlensee|50.163|8.978|DE|Hesse|82
 Ertil’|51.838|40.802|RU|Voronezh Oblast|82
+Ereikoussa|39.888|19.584|GR|Ionian Islands|82|f
 Erembodegem|50.919|4.050|BE|Flanders|82
 Erumaippatti|11.147|78.290|IN|Tamil Nadu|82
 Erin|43.773|-80.064|CA|Ontario|82
+Erfurt–Weimar Airport|50.980|10.958|DE|Thuringia|81|f
+Erik Nielsen Whitehorse International Airport|60.710|-135.067|CA|Yukon|81|f
 Erkner|52.420|13.754|DE|Brandenburg|81
 Ergolding|48.577|12.171|DE|Bavaria|81
 Er Regueb|34.859|9.787|TN|Sidi Bouzid Governorate|81
@@ -87,6 +97,7 @@ Erumāpālaiyam|11.632|78.170|IN|Tamil Nadu|80
 Erith|51.483|0.175|GB|England|80
 Erlenbach am Main|49.803|9.163|DE|Bavaria|80
 Erstein|48.424|7.663|FR|Grand Est|80
+Erikub Atoll|9.126|169.997|MH|Erikub Atoll|80|f
 Eral|8.626|78.023|IN|Tamil Nadu|80
 Erquelinnes|50.307|4.111|BE|Wallonia|79
 Eriyodu|10.517|78.063|IN|Tamil Nadu|79
@@ -123,6 +134,8 @@ Erval Velho|-27.276|-51.442|BR|Santa Catarina|74
 Erlenbach|49.172|9.268|DE|Baden-Wurttemberg|74
 Erdmannhausen|48.943|9.296|DE|Baden-Wurttemberg|74
 Erfelden|49.836|8.468|DE|Hesse|73
+Erie Municipal Airport|40.009|-105.049|US|Colorado|73|f
+Eru Laht|59.597|25.828|EE||73|f
 Erwin|35.327|-78.676|US|North Carolina|73
 Erda|40.613|-112.304|US|Utah|73
 Erquinghem-Lys|50.676|2.845|FR|Hauts-de-France|73
@@ -132,18 +145,27 @@ Erimo|42.016|143.149|JP|Hokkaido|73
 Ery-Makouguié II|5.905|-4.171|CI|Lagunes District|73
 Eriskirch|47.625|9.542|DE|Baden-Wurttemberg|73
 Erétria|38.401|23.802|GR|Central Greece|72
+Ercan International Airport|35.157|33.498|CY|Nicosia|72|f
+Eretoka Island|-17.639|168.154|VU|Shefa|72|f
+Eridu|30.817|45.996|IQ|Muthanna|72|f
 Eraclea|45.578|12.673|IT|Veneto|72
 Ermióni|37.385|23.247|GR|Peloponnese|72
 Erstfeld|46.819|8.651|CH|Uri|72
 Eremitu|46.667|24.933|RO|Mureș County|72
 Érsekvadkert|47.996|19.202|HU|Nógrád|72
 Erquy|48.631|-2.465|FR|Brittany|71
+Erimo Misaki|41.926|143.248|JP|Hokkaido|71|f
+Eriskay|57.067|-7.300|GB|Scotland|71|f
+Ertvågsøya|63.165|8.364|NO|Møre og Romsdal|71|f
+Erzberg mine|47.517|14.900|AT|Styria|71|f
 Erlau|51.009|12.945|DE|Saxony|71
 Erpeli|42.806|46.977|RU|Dagestan|71
 Erp|51.600|5.607|NL|North Brabant|71
 Erfelek|41.879|34.918|TR|Sinop|71
 Erdőtelek|47.683|20.317|HU|Heves County|70
 Eriksberg|59.242|17.816|SE|Stockholm|70
+Eric Marcus Municipal Airport|32.452|-112.860|US|Arizona|70|f
+Errachidia Moulay Ali Cherif Airport|31.947|-4.399|MA|Drâa-Tafilalet|70|f
 Erolzheim|48.090|10.073|DE|Baden-Wurttemberg|70
 Erwetegem|50.855|3.814|BE|Flanders|70
 Erlen|47.548|9.234|CH|Thurgau|70
@@ -159,6 +181,9 @@ Ergel|43.150|109.133|MN|East Gobi Aymag|69
 Erpent|50.451|4.906|BE|Wallonia|69
 Erdevik|45.117|19.409|RS|Vojvodina|69
 Erdeven|47.642|-3.157|FR|Brittany|69
+Erípia Karión|41.200|23.617|GR|Central Macedonia|69|f
+Eros Airport|-22.607|17.079|NA|Khomas Region|69|f
+Erýmanthos|37.971|21.838|GR|West Greece|69|f
 Erligheim|49.023|9.097|DE|Baden-Wurttemberg|69
 Erpel|50.583|7.233|DE|Rheinland-Pfalz|68
 Erbray|47.656|-1.318|FR|Pays de la Loire|68
@@ -183,6 +208,9 @@ Ermidas|38.000|-8.380|PT|Setúbal|66
 Erbisoeul|50.515|3.896|BE|Wallonia|66
 Erlbach|50.317|12.367|DE|Saxony|66
 Ering|48.299|13.150|DE|Bavaria|66
+Erakor Island|-17.775|168.309|VU||65|f
+Ernest A. Love Field|34.651|-112.420|US|Arizona|65|f
+Erskine Bridge|55.920|-4.462|GB|Scotland|65|f
 Ernolsheim-Bruche|48.565|7.565|FR|Grand Est|65
 Erondegem|50.941|3.956|BE|Flanders|65
 Erlenbach im Simmental|46.660|7.554|CH|Bern|65
@@ -203,6 +231,12 @@ Ercé-près-Liffré|48.256|-1.517|FR|Brittany|63
 Erími|34.678|32.918|CY|Limassol|63
 Erving|42.600|-72.398|US|Massachusetts|63
 Ercuis|49.235|2.304|FR|Hauts-de-France|63
+Erciyes Dağı|38.534|35.451|TR|Kayseri|63|f
+Erenhot Saiwusu International Airport|43.423|112.091|CN|Inner Mongolia|63|f
+Erlspitze|47.320|11.285|AT|Tyrol|63|f
+Erongo|-21.644|15.669|NA||63|f
+Erromango Island|-18.800|169.083|VU|Tafea|63|f
+Erueti Lep Island|-17.817|168.450|VU|Shefa|63|f
 Ermlitz|51.392|12.159|DE|Saxony-Anhalt|63
 Ernsgaden|48.733|11.583|DE|Bavaria|63
 Eriswil|47.078|7.851|CH|Bern|63
@@ -227,6 +261,13 @@ Ernage|50.595|4.676|BE|Wallonia|61
 Ergersheim|49.517|10.333|DE|Bavaria|61
 Erpfendorf|47.583|12.467|AT|Tyrol|61
 Erikli|37.203|37.285|TR|Gaziantep|61
+Eratap Island|-17.799|168.339|VU|Shefa|61|f
+Erebuni Historical and Archaeological Museum-Reserve|40.141|44.535|AM|Yerevan|61|f
+Erickson Mine|61.000|-149.083|US|Alaska|61|f
+Erin Lake|44.667|-93.972|US|Minnesota|61|f
+Erlang Shan|29.967|102.333|CN|Sichuan|61|f
+Ernst Thälmann Island|22.033|-81.400|CU|Matanzas Province|61|f
+Ertholmene|55.325|15.181|DK|Capital Region|61|f
 Erdeborn|51.476|11.635|DE|Saxony-Anhalt|61
 Erlach|47.042|7.097|CH|Bern|61
 Erie|37.568|-95.243|US|Kansas|61
@@ -237,35 +278,184 @@ Erbeyli|37.866|27.679|TR|Aydın|61
 Erkerode|52.205|10.710|DE|Lower Saxony|61
 Ernstroda|50.865|10.621|DE|Thuringia|60
 Ernestinovo|45.452|18.659|HR|County of Osijek-Baranja|60
+Ergersheim|48.570|7.528|FR|Grand Est|60
+Erandiogoikoa|43.308|-2.954|ES|Basque Country|60
+Erlabrunn|50.473|12.707|DE|Saxony|60
+Ermita de los Correas|22.907|-103.016|MX|Zacatecas|60
+Eryeri|37.293|40.746|TR|Mardin|59
+Erharting|48.283|12.583|DE|Bavaria|59
+Erschwil|47.374|7.541|CH|Solothurn|59
+Erler|38.484|41.728|TR|Bitlis|59
+Erdurağı|37.901|41.577|TR|Siirt|59
 Era|46.244|9.395|IT|Lombardy|59
+Erakro|7.429|-4.342|CI|Lacs District|59
+Ersmark|64.848|20.896|SE|Västerbotten|59
+Ersī|38.474|45.517|IR|East Azerbaijan|59
+Ermenonville|49.126|2.698|FR|Hauts-de-France|59
 Erpeldange|49.865|6.115|LU|Diekirch|59
+Erla|48.199|14.571|AT|Lower Austria|59
+Ergatikés Katoikíes Attikís|37.717|24.036|GR|Attica|58
+Erdmannbreen|77.874|14.146|SJ|Svalbard|58|f
+Erechim Airport|-27.662|-52.274|BR|Rio Grande do Sul|58|f
+Erhardt Island|60.660|-64.753|CA|Nunavut|58|f
+Erie International Airport|42.082|-80.177|US|Pennsylvania|58|f
+Erraid|56.283|-6.350|GB|Scotland|58|f
+Errera, Cape|-64.916|-63.597|AQ||58|f
+Errigal Mountain|55.034|-8.113|IE|Ulster|58|f
+Erwin, Harnett County Airport|35.379|-78.734|US|North Carolina|58|f
+Erateiní|38.362|22.228|GR|Central Greece|58
+Ergözü|39.743|42.794|TR|Ağrı|58
+Errouville|49.416|5.903|FR|Grand Est|57
+Erroibar|42.950|-1.450|ES|Navarre|57
 Erve|45.822|9.453|IT|Lombardy|57
+Erzenhausen|49.500|7.617|DE|Rheinland-Pfalz|57
+Erátyra|40.343|21.513|GR|West Macedonia|57
+Érôme|45.121|4.820|FR|Auvergne-Rhône-Alpes|57
+Erchin|50.317|3.167|FR|Hauts-de-France|57
+Erlenbach|49.111|8.187|DE|Rheinland-Pfalz|57
+Ercheu|49.702|2.941|FR|Hauts-de-France|57
 Erlauf|48.183|15.183|AT|Lower Austria|57
+Erpeldange|49.544|6.327|LU|Remich|57
+Eréndira|19.153|-97.766|MX|Puebla|57
+Erleks|55.602|40.385|RU|Vladimir Oblast|57
+Erekovci|41.213|21.483|MK|Prilep|57
+Értény|46.611|18.133|HU|Tolna County|57
+Erdesbach|49.574|7.442|DE|Rheinland-Pfalz|56
+Erez|31.560|34.567|IL|Southern District|56
+Eriu-Sâncrai|47.583|22.667|RO|Satu Mare County|56
+Ermeton-sur-Biert|50.298|4.719|BE|Wallonia|56
+Erateinó|40.950|24.640|GR|East Macedonia and Thrace|56
+Erquery|49.409|2.457|FR|Hauts-de-France|56
+Erentepe|36.416|30.362|TR|Antalya|56
+Ernolsheim-lès-Saverne|48.792|7.381|FR|Grand Est|56
+Erbenhausen|50.567|10.150|DE|Thuringia|56
+Ernst|50.150|7.233|DE|Rheinland-Pfalz|56
+Éréac|48.275|-2.347|FR|Brittany|56
+Ermershausen|50.208|10.626|DE|Bavaria|56
+Err|42.442|2.033|FR|Occitanie|56
+Erenkaya|37.635|42.063|TR|Siirt|56
+Erowal Bay|-35.100|150.650|AU|New South Wales|55
+Ernsee|50.878|12.039|DE|Thuringia|55
 Erice|38.038|12.588|IT|Sicily|55
 Erdut|45.526|19.060|HR|County of Osijek-Baranja|55
+Éragny-sur-Epte|49.315|1.775|FR|Hauts-de-France|55
+Erts|42.562|1.497|AD|La Massana|55
+Ercé|42.850|1.289|FR|Occitanie|55
+Ernestviller|49.068|6.965|FR|Grand Est|55
+Érsekhalma|46.349|19.122|HU|Bács-Kiskun|55
 Erl|47.683|12.183|AT|Tyrol|54
+Erfjorden|59.311|6.175|NO|Rogaland|54|f
+Eri|25.565|67.895|PK|Sindh|54|f
+Eric Bonython National Park|-35.601|138.330|AU|South Australia|54|f
+Erica Reef|8.100|114.150|||54|f
+Erigavo Airport|10.642|47.388|SO|Sanaag|54|f
+Ermine Glacier|48.136|-121.106|US|Washington|54|f
+Ernest Sound|55.994|-132.075|US|Alaska|54|f
+Erris Head|54.309|-9.998|IE|Connacht|54|f
+Erxleben|52.751|11.765|DE|Saxony-Anhalt|54
 Erula|40.792|8.944|IT|Sardinia|54
+Eriz|46.788|7.771|CH|Bern|54
+Ernzen|49.843|6.424|DE|Rheinland-Pfalz|53
 Erla|42.117|-0.950|ES|Aragon|53
+Erden|49.983|7.017|DE|Rheinland-Pfalz|52
 Erto|46.276|12.371|IT|Friuli Venezia Giulia|50
+Erbeskopf|49.730|7.091|DE|Rheinland-Pfalz|49|f
+Erebus Glacier Tongue|-77.700|166.667|AQ||49|f
+Ereby Point|-62.635|-60.461|AQ||49|f
+Eresfjorden|62.730|8.064|NO|Møre og Romsdal|49|f
+Eric Weissel Oval|-35.099|147.351|AU|New South Wales|49|f
+Erith Island|-39.440|147.290|AU|Tasmania|49|f
+Ernstberg|50.230|6.769|DE|Rheinland-Pfalz|49|f
+Eroica Peninsula|-71.183|-72.356|AQ||49|f
+Eros Glacier|-71.266|-68.366|AQ||49|f
+Errant Glacier|-82.350|160.967|AQ||49|f
+Erringibba National Park|-27.289|149.705|AU|Queensland|49|f
+Errit Lough|53.817|-8.700|IE|Connacht|49|f
+Ervin Peak|39.004|-106.438|US|Colorado|49|f
+Erythrae|38.367|26.483|TR|İzmir Province|49|f
+Erbach|50.033|7.683|DE|Rheinland-Pfalz|47
 Erbezzo|45.640|11.001|IT|Veneto|47
 Ervenik|44.109|15.941|HR|Šibenik-Knin|47
 Erustes|39.957|-4.497|ES|Castille-La Mancha|47
 Erli|44.137|8.104|IT|Liguria|45
+Ergeshausen|50.272|7.943|DE|Rheinland-Pfalz|43
+Eravikulam National Park|10.202|77.083|IN|Kerala|40|f
+Ercavica|40.432|-2.669|ES|Castille-La Mancha|40|f
+Erebus Glacier|-77.683|167.000|AQ||40|f
+Ergilio Hato Stadium|12.153|-68.888|CW||40|f
+Ergischhorn|46.274|7.736|CH|Valais|40|f
+Erhai Lake|25.763|100.188|CN|Yunnan|40|f
+Erickson Bluffs|-75.033|-136.500|AQ||40|f
+Erickson Glacier|-84.417|-179.833|AQ||40|f
+Erie Bluffs State Park|42.008|-80.411|US|Pennsylvania|40|f
+Erie Creek Park|49.183|-117.302|CA|British Columbia|40|f
+Erie National Wildlife Refuge|41.583|-79.984|US|Pennsylvania|40|f
+Eriska|56.532|-5.412|GB|Scotland|40|f
+Eritrea Institute of Technology|15.243|38.774|ER|Maekel|40|f
+Ernest Peak|51.957|-117.106|CA|Alberta|40|f
+Ersfjorden|69.489|17.355|NO|Troms|40|f
+Erskine Covered Bridge|40.066|-80.516|US|Pennsylvania|40|f
+Erskine Island|-23.503|151.772|AU|Queensland|40|f
+Erwin Lake|45.970|-95.710|US|Minnesota|40|f
+Erwinna Covered Bridge|40.502|-75.074|US|Pennsylvania|40|f
+Ersfeld|50.700|7.517|DE|Rheinland-Pfalz|35
 Ereencav|49.881|115.725|MN|East Aimak|27
+Era|-8.326|123.111|ID|East Nusa Tenggara|0
 Eratsun|43.083|-1.800|ES|Navarre|0
+Erba|31.345|118.331|CN|Anhui|0
+Erba|46.113|127.030|CN|Heilongjiang|0
 Erçek|38.651|43.644|TR|Van|0
+Ercheng|31.293|114.498|CN|Hubei|0
+Erdao|40.596|122.267|CN|Liaoning|0
+Erdao|42.698|129.093|CN|Jilin|0
 Erdao|43.864|125.370|CN|Jilin|0
+Erdaobaihe|42.425|128.110|CN|Jilin|0
+Erdaocha|42.867|127.488|CN|Jilin|0
+Erdaodianzi|43.142|127.143|CN|Jilin|0
+Erdaohe|33.251|106.830|CN|Shaanxi|0
+Erdaohezi|45.108|129.738|CN|Heilongjiang|0
+Erdaopaozi|42.638|130.472|CN|Jilin|0
+Erdaoqiao|46.394|83.557|CN|Xinjiang|0
+Erdaowan|47.959|124.533|CN|Heilongjiang|0
 Erdenet|48.949|99.537|MN|Khövsgöl Province|0
 Erdenetsogt|46.418|100.822|MN|Bayankhongor|0
 Erdenetsogt|42.972|106.119|MN|Ömnögovĭ|0
+Erdu|27.456|116.172|CN|Jiangxi|0
+Erdu|29.591|111.404|CN|Hunan|0
+Eren Gobi|46.183|118.300|CN|Inner Mongolia|0
 Erenler|40.755|30.393|TR|Sakarya|0
 Erentepe|39.009|42.044|TR|Muş|0
+Erfangping|29.288|111.194|CN|Hunan|0
+Erfenzi|41.365|110.727|CN|Inner Mongolia|0
+Ergong|43.850|87.567|CN|Xinjiang|0
+Erhaodi|41.281|112.453|CN|Inner Mongolia|0
+Erhaoqiao|39.096|117.291|CN|Tianjin|0
+Erhe|45.081|127.311|CN|Heilongjiang|0
 Erhet|48.274|102.981|MN|Bulgan|0
 Erikub Atoll|9.125|169.992|MH||0|r
+Erjia|32.023|121.186|CN|Jiangsu|0
+Erjiegou|40.850|122.080|CN|Liaoning|0
+Erjieling|30.948|119.614|CN|Zhejiang|0
+Erjing|48.331|126.414|CN|Heilongjiang|0
 Erken-Shakhar|44.378|41.958|RU|Karachayevo-Cherkesiya Republic|0
 Erkilet|38.820|35.440|TR|Kayseri|0
+Erkou|27.958|117.146|CN|Jiangxi|0
+Erlangkou|31.970|118.128|CN|Anhui|0
 Erlestoke|51.285|-2.054|GB|England|0
+Erling|31.880|119.596|CN|Jiangsu|0
+Erliugong|44.053|87.170|CN|Xinjiang|0
+Erlong|33.220|112.185|CN|Henan|0
+Ermi|41.788|125.830|CN|Jilin|0
+Erniusuokou|42.766|123.155|CN|Liaoning|0
 Erqu|34.153|108.206|CN|Shaanxi|0
 Errezil|43.165|-2.174|ES|Basque Country|0
 Errigoiti|43.317|-2.717|ES|Basque Country|0
+Ershausen|51.257|10.161|DE|Thuringia|0
+Ershilidian|44.158|86.966|CN|Xinjiang|0
+Ershilipu|38.033|114.574|CN|Hebei|0
+Ershilipu|36.709|101.754|CN|Qinghai|0
+Ertai|46.057|90.151|CN|Xinjiang|0
+Ertaizi|42.873|124.052|CN|Liaoning|0
 Ertuğrul|39.576|27.707|TR|Balıkesir|0
+Eryan|32.622|110.776|CN|Hubei|0
+Erzhan|49.673|126.954|CN|Heilongjiang|0

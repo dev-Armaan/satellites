@@ -9,15 +9,18 @@ Beernem|51.140|3.339|BE|Flanders|83
 Beeville|28.401|-97.750|US|Texas|82
 Beelitz|52.238|12.971|DE|Brandenburg|82
 Beecher|43.090|-83.694|US|Michigan|80
+Beerenberg|71.083|-8.167|SJ|Jan Mayen|80|f
 Bee Ridge|27.284|-82.481|US|Florida|80
 Beeskow|52.173|14.246|DE|Brandenburg|79
 Beek|50.941|5.797|NL|Limburg|79
+Beech Factory Airport|37.694|-97.215|US|Kansas|78|f
 Beerwah|34.012|74.596|IN|Jammu and Kashmir|78
 Beebe|35.071|-91.880|US|Arkansas|78
 Beerfelden|49.569|8.974|DE|Hesse|77
 Beelen|51.929|8.111|DE|North Rhine-Westphalia|76
 Bee Cave|30.309|-97.945|US|Texas|76
 Beerzel|51.058|4.671|BE|Flanders|76
+Beeston Castle|53.128|-2.692|GB|England|75|f
 Beek|51.529|5.634|NL|North Brabant|74
 Beecher|41.341|-87.621|US|Illinois|73
 Beechworth|-36.358|146.686|AU|Victoria|73
@@ -30,6 +33,8 @@ Beechwood Trails|40.024|-82.651|US|Ohio|70
 Beechwood|42.797|-86.126|US|Michigan|70
 Beesd|51.888|5.192|NL|Gelderland|69
 Beervelde|51.083|3.886|BE|Flanders|69
+Beenkeragh|52.007|-9.746|IE|Munster|69|f
+Beenoskee|52.214|-10.077|IE|Munster|69|f
 Beekbergen|52.160|5.964|NL|Gelderland|68
 Beeck|51.134|6.306|DE|North Rhine-Westphalia|67
 Beek|51.155|5.603|BE|Flanders|67
@@ -43,6 +48,9 @@ Beesenlaublingen|51.713|11.697|DE|Saxony-Anhalt|64
 Beez|50.469|4.912|BE|Wallonia|64
 Be’er Toviyya|31.735|34.724|IL|Southern District|63
 Beerst|51.060|2.885|BE|Flanders|63
+Beech Mountain|36.185|-81.882|US|North Carolina|63|f
+Beesley Island|-12.241|143.200|AU|Queensland|63|f
+Beethoven Peninsula|-71.733|-73.683|AQ||63|f
 Beechwood Village|38.255|-85.631|US|Kentucky|63
 Beer|50.700|-3.100|GB|England|62
 Beek gem Montferland|51.907|6.188|NL|Gelderland|62
@@ -50,9 +58,47 @@ Be'er Ganim|31.700|34.610|IL|Southern District|62
 Beesenstedt|51.568|11.733|DE|Saxony-Anhalt|62
 Beers|51.726|5.828|NL|North Brabant|62
 Be’erotayim|32.321|34.983|IL|Central District|61
+Bee Mountain|36.031|-81.823|US|North Carolina|61|f
 Beeford|53.970|-0.289|GB|England|61
 Be’eri|31.424|34.492|IL|Southern District|60
 Be’er Ora|29.710|34.987|IL|Southern District|60
 Beedenbostel|52.643|10.259|DE|Lower Saxony|60
+Beemte-Broekland|52.256|5.990|NL|Gelderland|60
+Beetley|52.718|0.925|GB|England|60
+Beendorf|52.243|11.087|DE|Saxony-Anhalt|59
+Beebe Plain|45.005|-72.141|US|Vermont|59
+Beecher|-23.900|151.200|AU|Queensland|58
+Beechmont|-28.121|153.192|AU|Queensland|58
+Beebe Mountain|48.663|-120.924|US|Washington|58|f
+Beehive Mountain|-77.650|160.567|AQ||58|f
+Beer Island|-66.004|-65.681|AQ||58|f
+Beezley Hills|47.326|-119.760|US|Washington|58|f
+Beenham|51.416|-1.148|GB|England|58
+Beech Creek|41.076|-77.589|US|Pennsylvania|57
+Beechmont|37.174|-87.032|US|Kentucky|57
+Beemer|41.930|-96.812|US|Nebraska|57
+Beechwood|-31.436|152.677|AU|New South Wales|56
 Bee|45.963|8.575|IT|Piedmont|55
+Beeston|52.700|0.817|GB|England|55
+Beets|52.588|4.978|NL|North Holland|55
+Bee Hive|37.225|-112.987|US|Utah|54|f
+Beech Fork Lake|38.316|-82.383|US|West Virginia|54|f
+Beef Island|18.442|-64.530|VG||54|f
+Beer-Sheva|31.287|34.723|IL|Southern District|54|f
+Beeby Peak|-77.250|166.900|AQ||49|f
+Beech River Regional Airport|35.657|-88.197|US|Tennessee|49|f
+Beecroft Peninsula|-35.082|150.813|AU|New South Wales|49|f
+Beedelup National Park|-34.406|115.877|AU|Western Australia|49|f
+Beelu National Park|-31.944|116.142|AU|Western Australia|49|f
+Beetree Hill|42.051|-74.188|US|New York|49|f
+Beebe Lake|45.174|-93.744|US|Minnesota|40|f
+Beech Bend Park|37.024|-86.395|US|Kentucky|40|f
+Beech Creek National Scenic Area|34.569|-94.524|US|Oklahoma|40|f
+Beech Fork State Park|38.301|-82.330|US|West Virginia|40|f
+Beech Hill|42.916|-72.073|US|New Hampshire|40|f
+Beechcraft Heritage Museum|35.372|-86.244|US|Tennessee|40|f
+Beechey Island|74.713|-91.850|CA|Nunavut|40|f
+Beehive Mountain|50.067|-114.669|CA|Alberta|40|f
+Beekman Peninsula|63.551|-64.664|CA|Nunavut|40|f
+Beeson Covered Bridge|39.763|-87.203|US|Indiana|40|f
 Beeston|53.117|-2.683|GB|England|0

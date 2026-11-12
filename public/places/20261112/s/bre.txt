@@ -17,6 +17,7 @@ Brea|33.917|-117.900|US|California|92
 Brentwood|36.033|-86.783|US|Tennessee|92
 Bremerton|47.567|-122.633|US|Washington|92
 Brejo|-3.684|-42.750|BR|Maranhão|91
+Bremen Airport|53.047|8.787|DE|Bremen|91|f
 Brentwood|34.052|-118.474|US|California|90
 Brentwood Estates|36.025|-86.779|US|Tennessee|90
 Bretten|49.037|8.707|DE|Baden-Wurttemberg|90
@@ -25,10 +26,12 @@ Břeclav|48.759|16.882|CZ|South Moravian|88
 Bresso|45.538|9.189|IT|Lombardy|88
 Brétigny-sur-Orge|48.611|2.306|FR|Île-de-France|88
 Brent|30.469|-87.236|US|Florida|87
+Brest Airport|52.108|23.897|BY|Brest|87|f
 Bressuire|46.842|-0.490|FR|New Aquitaine|86
 Brezno|48.804|19.636|SK|Banská Bystrica Region|86
 Bremervörde|53.485|9.146|DE|Lower Saxony|86
 Brezina|33.099|1.261|DZ|El Bayadh|86
+Brescia-Montichiari Airport|45.429|10.331|IT|Lombardy|86|f
 Bredasdorp|-34.532|20.040|ZA|Western Cape|85
 Brera|45.472|9.188|IT|Lombardy|85
 Breaza|45.183|25.667|RO|Prahova|85
@@ -50,6 +53,7 @@ Bressoux|50.640|5.606|BE|Wallonia|82
 Brenes|37.549|-5.871|ES|Andalusia|82
 Brejinho|-6.191|-35.357|BR|Rio Grande do Norte|82
 Bretzfeld|49.179|9.438|DE|Baden-Wurttemberg|82
+Breithorn|45.941|7.748|CH|Valais|81|f
 Brentwood Village|38.921|-76.984|US|District of Columbia|81
 Breakers|19.296|-81.198|KY||81
 Breaza de Sus|45.199|25.656|RO|Prahova|81
@@ -57,12 +61,14 @@ Brentford|51.486|-0.308|GB|England|81
 Brentwood Park|49.275|-122.992|CA|British Columbia|80
 Bredy|52.420|60.337|RU|Chelyabinsk|80
 Brechten|51.576|7.467|DE|North Rhine-Westphalia|80
+Brennevinsfjorden|80.357|19.364|SJ||80|f
 Brentwood|40.371|-79.975|US|Pennsylvania|80
 Brejão|-9.030|-36.569|BR|Pernambuco|79
 Brewer|44.797|-68.761|US|Maine|79
 Brejo de Areia|-4.331|-45.585|BR|Maranhão|79
 Breckerfeld|51.259|7.468|DE|North Rhine-Westphalia|79
 Brejolândia|-12.486|-43.961|BR|Bahia|79
+Breiðafjörður|65.253|-23.219|IS|West|79|f
 Breaux Bridge|30.274|-91.899|US|Louisiana|78
 Brecon|51.946|-3.389|GB|Wales|78
 Brentwood|38.618|-90.349|US|Missouri|78
@@ -72,6 +78,7 @@ Brejo Grande|-10.429|-36.466|BR|Sergipe|78
 Breuillet|48.571|2.174|FR|Île-de-France|78
 Brevard|35.233|-82.734|US|North Carolina|78
 Brejinho|-7.349|-37.286|BR|Pernambuco|78
+Brewarrina Airport|-29.974|146.817|AU|New South Wales|78|f
 Brembate di Sopra|45.717|9.579|IT|Lombardy|78
 Brentwood Bay|48.583|-123.453|CA|British Columbia|78
 Brechin|56.730|-2.657|GB|Scotland|77
@@ -87,12 +94,14 @@ Brembate|45.605|9.555|IT|Lombardy|76
 Bremen|33.721|-85.145|US|Georgia|76
 Brenna|49.726|18.902|PL|Silesia|75
 Breitenfurt bei Wien|48.133|16.150|AT|Lower Austria|75
+Brecon Beacons|51.881|-3.444|GB|Wales|75|f
 Brejo dos Santos|-6.377|-37.825|BR|Paraíba|75
 Breckenridge|32.756|-98.902|US|Texas|75
 Breganze|45.705|11.561|IT|Veneto|75
 Brensbach|49.774|8.884|DE|Hesse|75
 Brewton|31.105|-87.072|US|Alabama|75
 Bréguiagui|5.249|-6.379|CI|Bas-Sassandra District|75
+Breidtinden|69.455|17.649|NO|Troms|74|f
 Breitenbrunn|50.476|12.766|DE|Saxony|74
 Bredstedt|54.619|8.964|DE|Schleswig-Holstein|74
 Bregnano|45.698|9.059|IT|Lombardy|74
@@ -128,6 +137,7 @@ Breuna|51.416|9.185|DE|Hesse|72
 Breteuil|48.833|0.917|FR|Normandy|71
 Brendola|45.478|11.439|IT|Veneto|71
 Březnice|49.558|13.951|CZ|Central Bohemia|71
+Brecqhou|49.432|-2.388|GG||71|f
 Breytovo|58.299|37.862|RU|Yaroslavl Oblast|71
 Breno|45.959|10.306|IT|Lombardy|71
 Breda|41.748|2.560|ES|Catalonia|71
@@ -153,6 +163,9 @@ Bressols|43.968|1.338|FR|Occitanie|69
 Brescello|44.895|10.513|IT|Emilia-Romagna|69
 Březová|50.146|12.650|CZ|Carlsbad Region|69
 Bressana|45.078|9.131|IT|Lombardy|69
+Breed Island|53.397|-167.825|US|Alaska|69|f
+Breiavatnet|58.968|5.733|NO|Rogaland|69|f
+Brest Bretagne Airport|48.448|-4.419|FR|Brittany|69|f
 Bréhal|48.899|-1.512|FR|Normandy|69
 Brégbo|5.304|-3.822|CI|Abidjan Autonomous District|68
 Brewood|52.677|-2.174|GB|England|68
@@ -174,6 +187,9 @@ Brenouille|49.306|2.544|FR|Hauts-de-France|67
 Breitenbrunn|48.133|10.400|DE|Bavaria|67
 Bretteville-l'Orgueilleuse|49.212|-0.514|FR|Normandy|67
 Breitenworbis|51.413|10.428|DE|Thuringia|67
+Bread Loaf Mountain|44.002|-72.942|US|Vermont|67|f
+Brenner Field|40.078|-95.592|US|Nebraska|67|f
+Brevig Mission Airport|65.331|-166.474|US|Alaska|67|f
 Brembilla|45.822|9.597|IT|Lombardy|67
 Brejning|55.666|9.672|DK|South Denmark|67
 Bregana|45.840|15.688|HR|Zagreb County|67
@@ -196,6 +212,11 @@ Breitenbrunn|47.945|16.731|AT|Burgenland|66
 Bredon|52.030|-2.117|GB|England|66
 Breitnau|47.933|8.083|DE|Baden-Wurttemberg|66
 Bredsten|55.701|9.385|DK|South Denmark|65
+Breidvågnipa Peak|-69.350|39.800|AQ||65|f
+Bremerton National Airport|47.493|-122.762|US|Washington|65|f
+Bremnestua|63.745|8.672|NO|Trøndelag|65|f
+Brennand Airport|44.158|-88.563|US|Wisconsin|65|f
+Brétigny-sur-Orge Air Base|48.596|2.332|FR|Île-de-France|65|f
 Brentonico|45.819|10.955|IT|Trentino-Alto Adige|65
 Brekstad|63.687|9.665|NO|Trøndelag|65
 Brennberg|49.067|12.400|DE|Bavaria|65
@@ -224,6 +245,12 @@ Breiholz|54.206|9.524|DE|Schleswig-Holstein|64
 Brehuiești|47.702|26.545|RO|Botoșani County|64
 Březová nad Svitavou|49.644|16.518|CZ|Pardubice Region|64
 Brela|43.369|16.934|HR|Split-Dalmatia|63
+Breibukta|78.836|28.671|SJ||63|f
+Breitenstein|48.583|9.501|DE|Baden-Wurttemberg|63|f
+Bremberg|51.190|8.495|DE|North Rhine-Westphalia|63|f
+Bremen-Farge Concentration Camp (Valentin)|53.202|8.529|DE|Bremen|63|f
+Brenham Municipal Airport|30.219|-96.374|US|Texas|63|f
+Bretstein Concentration Camp|47.335|14.417|AT|Styria|63|f
 Brezje|45.792|15.786|HR|Zagreb County|63
 Březová-Oleško|49.913|14.414|CZ|Central Bohemia|63
 Brézins|45.352|5.305|FR|Auvergne-Rhône-Alpes|63
@@ -268,6 +295,11 @@ Březina|49.282|16.750|CZ|South Moravian|61
 Březnice|49.186|17.663|CZ|Zlín|61
 Breaza|47.351|24.062|RO|Bistrița-Năsăud County|61
 Bréauté|49.628|0.400|FR|Normandy|61
+Breckenridge-Wahpeton Interstate Airport|46.246|-96.607|US|North Dakota|61|f
+Breiðamerkurjökull|64.117|-16.340|IS|East|61|f
+Breiðdalsvík Airport|64.791|-14.048|IS|East|61|f
+Brentford Ait|51.486|-0.294|GB|England|61|f
+Breplogen Mountain|-71.917|5.450|AQ||61|f
 Březová|48.925|17.740|CZ|Zlín|61
 Breitbrunn|50.017|10.700|DE|Bavaria|61
 Breitenborn|50.263|9.187|DE|Hesse|61
@@ -280,33 +312,250 @@ Breitenbach|50.689|10.491|DE|Thuringia|60
 Breitscheidt|50.750|7.650|DE|Rheinland-Pfalz|60
 Brezza|41.111|14.112|IT|Campania|60
 Bretteville|49.654|-1.529|FR|Normandy|60
+Brezovica|43.747|20.414|RS|Central Serbia|60
+Brezovica|42.952|22.179|RS|Central Serbia|60
+Bretagne-de-Marsan|43.847|-0.465|FR|New Aquitaine|60
+Brezovac|45.867|16.841|HR|Bjelovar-Bilogora|60
+Brestanica|45.995|15.477|SI|Urban Municipality of Krško|60
+Bressolles|46.531|3.317|FR|Auvergne-Rhône-Alpes|60
+Brebina|44.167|24.974|RO|Teleorman County|60
+Breinigerberg|50.737|6.239|DE|North Rhine-Westphalia|60
+Breg pri Polzeli|46.270|15.088|SI|Municipality of Polzela|60
+Břest|49.351|17.441|CZ|Zlín|60
 Brezzo di Bedero|45.978|8.717|IT|Lombardy|60
+Brestovec|48.794|17.566|SK|Trenčín Region|60
+Břehy|50.052|15.577|CZ|Pardubice Region|59
+Břežany|48.870|16.342|CZ|South Moravian|59
+Břežany II|50.091|14.807|CZ|Central Bohemia|59
+Bremond|31.165|-96.677|US|Texas|59
+Brettin|52.426|12.184|DE|Saxony-Anhalt|59
+Breitenbach-Haut-Rhin|48.023|7.102|FR|Grand Est|59
+Brëkhovo|55.934|37.189|RU|Moscow Oblast|59
+Bredsand|59.583|17.067|SE|Uppsala|59
+Brezje pri Grosupljem|45.950|14.642|SI|Municipality of Grosuplje|59
+Bremm|50.100|7.117|DE|Rheinland-Pfalz|59
 Bregano|45.826|8.688|IT|Lombardy|58
+Brest|53.450|9.384|DE|Lower Saxony|58
+Bréhémont|47.295|0.359|FR|Centre-Val de Loire|58
+Brecé|48.398|-0.790|FR|Pays de la Loire|58
+Bremen|44.001|-69.429|US|Maine|58
 Breme|45.128|8.626|IT|Lombardy|58
+Brestača|45.356|16.959|HR|Sisak-Moslavina|58
+Bresson|45.137|5.748|FR|Auvergne-Rhône-Alpes|58
+Bretigny|47.400|5.100|FR|Bourgogne-Franche-Comté|58
+Brens|45.730|5.691|FR|Auvergne-Rhône-Alpes|58
+Bréville-sur-Mer|48.866|-1.556|FR|Normandy|58
+Breakneck Hill|39.677|-78.639|US|Maryland|58|f
+Bredebræ|76.600|-22.833|GL||58|f
+Breidalsvatnet|62.016|7.578|NO|Innlandet|58|f
+Breidnes Peninsula|-68.567|78.199|AQ||58|f
+Breimsvatnet|61.734|6.362|NO|Vestland|58|f
+Breitenauriegel|48.907|13.030|DE|Bavaria|58|f
+Bremangerlandet|61.864|5.006|NO|Vestland|58|f
+Bremer County Historical Society Museum|42.726|-92.476|US|Iowa|58|f
+Brenibba|61.764|7.194|NO|Vestland|58|f
+Brennsee|46.771|13.754|AT|Carinthia|58|f
+Breton Sound|29.501|-89.251|US|Louisiana|58|f
+Brevoort Lake|45.998|-84.924|US|Michigan|58|f
+Brecciaro|41.631|13.474|IT|Lazio|58
+Bretenière|47.241|5.114|FR|Bourgogne-Franche-Comté|58
+Breadsall|52.954|-1.451|GB|England|58
+Breddenberg|52.955|7.611|DE|Lower Saxony|58
+Brevörde|51.917|9.417|DE|Lower Saxony|58
+Brélès|48.478|-4.714|FR|Brittany|58
+Breda Cisoni|45.010|10.530|IT|Lombardy|58
+Breitenwaida|48.516|16.072|AT|Lower Austria|58
+Breege|54.615|13.363|DE|Mecklenburg-Vorpommern|58
+Breuches|47.799|6.329|FR|Bourgogne-Franche-Comté|58
+Breitensee|48.244|16.879|AT|Lower Austria|58
+Breuvannes-en-Bassigny|48.100|5.617|FR|Grand Est|58
+Breuil-Cervinia|45.934|7.632|IT|Aosta Valley|58
 Breznica|46.071|16.271|HR|Varaždin|57
+Bretzwil|47.398|7.652|CH|Basel-Landschaft|57
+Brenthonne|46.272|6.397|FR|Auvergne-Rhône-Alpes|57
+Breitenau|50.498|7.691|DE|Rheinland-Pfalz|57
+Břestek|49.095|17.356|CZ|Zlín|57
+Březová|50.198|12.871|CZ|Carlsbad Region|57
+Brent|35.368|-94.794|US|Oklahoma|57
+Brécy|47.124|2.620|FR|Centre-Val de Loire|57
+Breboia|48.048|24.390|UA|Zakarpattia|57
+Brebu|45.190|25.342|RO|Dâmbovița County|57
+Bréville-les-Monts|49.233|-0.233|FR|Normandy|57
+Breitenbach|48.364|7.290|FR|Grand Est|57
+Breuil-Bois-Robert|48.946|1.717|FR|Île-de-France|57
+Bresega|45.208|11.583|IT|Veneto|57
+Březník|49.172|16.194|CZ|Vysocina|57
+Breedon on the Hill|52.802|-1.403|GB|England|57
+Bregi|45.349|14.298|HR|Primorje-Gorski Kotar|57
+Brezje|46.416|16.394|HR|Međimurje|57
+Brenda|33.680|-113.945|US|Arizona|57
+Bretsch|52.841|11.630|DE|Saxony-Anhalt|57
+Brevans|47.097|5.525|FR|Bourgogne-Franche-Comté|57
+Breg|46.400|14.133|SI|Municipality of Žirovnica|57
+Breuil-Barret|46.652|-0.682|FR|Pays de la Loire|56
+Bretea Mureșană|45.937|22.711|RO|Hunedoara County|56
+Březí|50.015|14.699|CZ|Central Bohemia|56
+Bretleben|51.333|11.233|DE|Thuringia|56
+Breitenmatt|47.277|8.875|CH|Zurich|56
+Bressolles|45.868|5.096|FR|Auvergne-Rhône-Alpes|56
+Brezovica|45.727|15.911|HR|Zagreb|56
+Březůvky|49.153|17.700|CZ|Zlín|56
+Breusivka|49.147|34.008|UA|Poltava|56
+Breaza|45.706|24.883|RO|Brașov County|56
+Březno|50.406|15.005|CZ|Central Bohemia|56
+Breesport|42.173|-76.734|US|New York|56
+Bretignolles|46.863|-0.607|FR|New Aquitaine|56
+Brégnier-Cordon|45.642|5.624|FR|Auvergne-Rhône-Alpes|56
+Brebi|47.208|23.197|RO|Sălaj County|56
+Brestov|48.964|21.889|SK|Prešov Region|56
+Breške|44.610|18.655|BA|Federation of B&H|56
+Bréxent-Énocq|50.510|1.731|FR|Hauts-de-France|56
 Brestovac|45.331|17.597|HR|Požega-Slavonia|56
+Brévonnes|48.359|4.400|FR|Grand Est|55
+Breesen|53.630|13.166|DE|Mecklenburg-Vorpommern|55
+Breștea|45.352|21.276|RO|Timiș County|55
+Bregenstedt|52.254|11.223|DE|Saxony-Anhalt|55
+Bréal-sous-Vitré|48.104|-1.061|FR|Brittany|55
+Brevilliers|47.582|6.790|FR|Bourgogne-Franche-Comté|55
+Bremen|15.220|-92.349|MX|Chiapas|55
+Brecha 124 con Vía de FFCC|25.991|-97.969|MX|Tamaulipas|55
+Bressey-sur-Tille|47.308|5.183|FR|Bourgogne-Franche-Comté|55
+Brestovac Daruvarski|45.618|17.126|HR|Bjelovar-Bilogora|55
 Breguzzo|46.007|10.698|IT|Trentino-Alto Adige|55
+Breitenhagen|51.923|11.949|DE|Saxony-Anhalt|55
+Bréville|45.797|-0.262|FR|New Aquitaine|55
+Breurey-lès-Faverney|47.755|6.131|FR|Bourgogne-Franche-Comté|54
+Breznica Našička|45.537|18.206|HR|County of Osijek-Baranja|54
+Breaker, Mount|-67.874|-67.257|AQ||54|f
+Breakneck Pond|42.019|-72.111|US|Connecticut|54|f
+Breckenridge Reservoir|38.543|-77.396|US|Virginia|54|f
+Breguet Glacier|-64.189|-60.703|AQ||54|f
+Breiðárlón|64.053|-16.364|IS|East|54|f
+Breiliflaka|59.975|10.134|NO|Buskerud|54|f
+Breitenberg|47.471|10.383|DE|Bavaria|54|f
+Breitfuss Glacier|-66.905|-65.019|AQ||54|f
+Breitling|54.166|12.117|DE|Mecklenburg-Vorpommern|54|f
+Breitlingsee|52.383|12.476|DE|Brandenburg|54|f
+Brekkerista Ridge|-72.233|-0.283|AQ||54|f
+Bresso Airport|45.539|9.203|IT|Lombardy|54|f
+Breton Island|-66.804|141.387|AQ||54|f
+Brewers Lagoon Airport|15.763|-84.544|HN|Gracias a Dios Department|54|f
+Breitenstein|51.620|10.946|DE|Saxony-Anhalt|54
+Breitungen|51.498|11.052|DE|Saxony-Anhalt|54
+Brezje|46.329|14.232|SI|Radovljica|54
+Bren|45.137|4.947|FR|Auvergne-Rhône-Alpes|54
+Brégy|49.082|2.865|FR|Hauts-de-France|54
 Brea de Tajo|40.233|-3.100|ES|Madrid|54
 Brez|46.432|11.106|IT|Trentino-Alto Adige|53
 Breznica|46.394|14.154|SI|Municipality of Žirovnica|53
+Breitenheim|49.700|7.633|DE|Rheinland-Pfalz|53
+Breunigweiler|49.567|7.967|DE|Rheinland-Pfalz|53
+Brebel|54.633|9.750|DE|Schleswig-Holstein|52
+Breitenberg|53.924|9.635|DE|Schleswig-Holstein|52
 Breznički Hum|46.107|16.277|HR|Varaždin|52
 Breitenfeld an der Rittschein|47.030|15.958|AT|Styria|52
+Breitenthal|49.800|7.333|DE|Rheinland-Pfalz|50
 Brestovăț|45.873|21.682|RO|Timiș County|50
 Bretea Română|45.661|23.017|RO|Hunedoara County|50
 Bretstein|47.333|14.417|AT|Styria|49
 Bresimo|46.412|10.968|IT|Trentino-Alto Adige|49
+Bremberg|50.306|7.920|DE|Rheinland-Pfalz|49
 Bretocino|41.884|-5.755|ES|Castille and León|49
+Breabag|58.097|-4.909|GB|Scotland|49|f
+Breaker Island|-64.762|-64.102|AQ||49|f
+Breakneck Battery|36.128|-5.344|GI||49|f
+Breaksea Island|-35.063|118.053|AU|Western Australia|49|f
+Breaksea Islands|-43.328|145.967|AU|Tasmania|49|f
+Bream Bay|-35.917|174.500|NZ||49|f
+Brean Down|51.326|-3.025|GB|England|49|f
+Breath Hill|41.936|-74.355|US|New York|49|f
+Breccia Island|-68.374|-67.002|AQ||49|f
+Brecher Glacier|-80.700|157.467|AQ||49|f
+Brechhorn|47.367|12.267|AT|Tyrol|49|f
+Breckinridge Peak|-78.067|-155.117|AQ||49|f
+Brecksville-Northfield High Level Bridge|41.321|-81.587|US|Ohio|49|f
+Brecon Beacons National Park|51.883|-3.400|GB|Wales|49|f
+Bredefjord|75.583|-21.750|GL||49|f
+Breitenstein|47.721|11.988|DE|Bavaria|49|f
+Breites Wasser|53.233|8.883|DE|Lower Saxony|49|f
+Breithornzwillinge|45.938|7.767|CH|Valais|49|f
+Bremer Island|-12.110|136.813|AU|Northern Territory|49|f
+Brenan Park|-33.858|150.930|AU|New South Wales|49|f
+Brend|48.080|8.159|DE|Baden-Wurttemberg|49|f
+Brennan, Mount|-84.250|175.900|AQ||49|f
+Brennersee|47.017|11.500|AT|Tyrol|49|f
+Brepollen|76.991|16.358|SJ||49|f
+Bressay Island|60.145|-1.088|GB|Scotland|49|f
+Brevassfjellet|76.880|15.943|SJ|Svalbard|49|f
+Brewster Island|-64.727|-62.568|AQ||49|f
+Brewster, Mount|-72.950|169.383|AQ||49|f
+Breyer Mesa|-86.017|-161.200|AQ||49|f
+Breit|49.776|6.906|DE|Rheinland-Pfalz|49
+Breitingen|48.517|9.992|DE|Baden-Wurttemberg|48
+Brecht|49.983|6.433|DE|Rheinland-Pfalz|48
 Bretó|41.879|-5.739|ES|Castille and León|47
 Breñón|8.626|-82.813|PA|Chiriquí Province|47
+Brenk|50.433|7.183|DE|Rheinland-Pfalz|46
 Breitenfeld am Tannenriegel|46.850|15.633|AT|Styria|45
+Breitscheid|50.050|7.700|DE|Rheinland-Pfalz|44
+Bremsnitz|50.799|11.772|DE|Thuringia|44
+Bread Tray Mountain|37.678|-90.540|US|Missouri|40|f
+Breaker Bay|-41.332|174.832|NZ|Wellington Region|40|f
+Breaker Mountain|51.764|-116.652|CA|British Columbia|40|f
+Breaker Reef|22.461|114.420|HK||40|f
+Breakheart Reservation|42.489|-71.040|US|Massachusetts|40|f
+Breaks Interstate Park|37.290|-82.295|US|Virginia|40|f
+Breaksea Island|-45.583|166.633|NZ||40|f
+Breaksea Sound|-45.558|166.790|NZ|Southland|40|f
+Breccia Peak|57.533|-127.151|CA|British Columbia|40|f
+Brecher, Mount|-85.400|-124.367|AQ||40|f
+Brecherspitz|47.677|11.870|DE|Bavaria|40|f
+Brechtel Park|29.912|-90.016|US|Louisiana|40|f
+Brecon Castle|51.949|-3.393|GB|Wales|40|f
+Breese Stevens Field|43.083|-89.373|US|Wisconsin|40|f
+Breeze Lake|37.576|-119.392|US|California|40|f
+Breezy Knoll|43.291|-74.902|US|New York|40|f
+Breidablik Peak|66.567|-65.231|CA|Nunavut|40|f
+Breitenbush Lake|44.768|-121.779|US|Oregon|40|f
+Breithorn|47.455|12.897|AT|Salzburg|40|f
+Breithorn|46.239|8.084|CH|Valais|40|f
+Breithorn|46.357|8.139|CH|Valais|40|f
+Breithorn orientale|45.938|7.767|CH|Valais|40|f
+Breitlauihorn|46.413|7.881|CH|Valais|40|f
+Brejoeira Palace|42.042|-8.495|PT|Viana do Castelo|40|f
+Bremeninsel|-64.322|-62.935|AQ||40|f
+BREN Tower|36.781|-116.244|US|Nevada|40|f
+Brennan Point|-76.083|-146.517|AQ||40|f
+Brenner Lake|45.397|-95.237|US|Minnesota|40|f
+Brent Crater|46.083|-78.483|CA|Ontario|40|f
+Brenta Spire|50.760|-116.771|CA|British Columbia|40|f
+Brentford Bay|71.901|-94.134|CA|Nunavut|40|f
+Bressingham Steam and Gardens|52.385|1.057|GB|England|40|f
+Brest Railway Museum|52.086|23.673|BY||40|f
+Breton National Wildlife Refuge|29.784|-88.848|US|Louisiana|40|f
+Brevoort Island|63.505|-64.331|CA|Nunavut|40|f
+Brewer Bridge|42.876|-100.267|US|Nebraska|40|f
+Brewer Fountain|42.356|-71.063|US|Massachusetts|40|f
+Brewer Island|37.557|-122.264|US|California|40|f
+Brewer Peak|-71.567|168.467|AQ||40|f
+Brewster Gardens|41.955|-70.662|US|Massachusetts|40|f
+Brewster Lake|50.096|-125.585|CA|British Columbia|40|f
+Brewton Municipal Airport|31.051|-87.061|US|Alabama|40|f
+Breznik Heights|-62.521|-59.665|AQ||40|f
 Brebu Nou|45.233|22.133|RO|Caraș-Severin County|39
 Breia|45.765|8.306|IT|Piedmont|38
 Brewster|41.939|-99.865|US|Nebraska|25
 Brea Pozo|-28.244|-63.953|AR|Santiago del Estero|0
 Brebes|-6.869|109.038|ID|Central Java|0
+Breese|53.004|11.793|DE|Brandenburg|0
+Breitenbach|49.433|7.267|DE|Rheinland-Pfalz|0
+Breitscheid|50.582|7.444|DE|Rheinland-Pfalz|0
 Breivikbotn|70.589|22.287|NO|Finnmark|0
 Bremhill|51.457|-2.030|GB|England|0
+Brengkok|-6.896|112.218|ID|East Java|0
+Bresegard bei Eldena|53.247|11.369|DE|Mecklenburg-Vorpommern|0
 Bretaña|-5.267|-74.283|PE|Loreto|0
+Bretthausen|50.667|8.067|DE|Rheinland-Pfalz|0
 Breu|-9.483|-72.717|PE|Ucayali|0
 Breu Branco|-3.775|-49.569|BR|Pará|0
 Breza|44.019|18.261|BA|Federation of B&H|0

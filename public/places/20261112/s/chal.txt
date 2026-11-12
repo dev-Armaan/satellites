@@ -8,7 +8,7 @@ Chalon-sur-Saône|46.781|4.854|FR|Bourgogne-Franche-Comté|93
 Chalinze|-6.638|38.354|TZ|Pwani|91
 Chalchuapa|13.987|-89.681|SV|Santa Ana Department|90
 Chalkidóna|40.732|22.600|GR|Central Macedonia|90
-Chalatenango Department|14.133|-89.017|SV||89|r
+Chalatenango Department|14.133|-89.017|SV||90|r
 Chalk Farm|51.543|-0.150|GB|England|88
 Chala|-7.583|31.267|TZ|Rukwa|87
 Chalthan|21.154|72.961|IN|Gujarat|87
@@ -19,9 +19,11 @@ Chālakilakākara|11.854|75.439|IN|Kerala|85
 Chalāla|21.411|71.166|IN|Gujarat|85
 Challapalle|16.118|80.931|IN|Andhra Pradesh|85
 Chalmette|29.943|-89.965|US|Louisiana|84
+Chalmers University of Technology|57.689|11.974|SE|Västra Götaland|84|f
 Chaltyr|47.285|39.482|RU|Rostov|83
 Châlette-sur-Loing|48.013|2.736|FR|Centre-Val de Loire|83
 Chalco|41.184|-96.150|US|Nebraska|81
+Chalcidice|40.433|23.583|GR|Central Macedonia|80|f
 Chalimbana|-15.385|28.701|ZM|Lusaka Province|80
 Chalástra|40.626|22.733|GR|Central Macedonia|79
 Challapata|-18.902|-66.770|BO|Oruro|78
@@ -30,14 +32,17 @@ Chalan Pago-Ordot|13.447|144.759|GU||77|r
 Chalan Pago-Ordot Village|13.447|144.759|GU|Chalan Pago-Ordot|77
 Chalford|51.726|-2.151|GB|England|77
 Chāleshtar|32.379|50.787|IR|Chaharmahal and Bakhtiari|77
+Challis Airport|44.523|-114.218|US|Idaho|76|f
 Chalé|-20.044|-41.688|BR|Minas Gerais|76
 Chalonnes-sur-Loire|47.351|-0.764|FR|Pays de la Loire|75
+Chaleur Bay|47.865|-65.495|CA|Quebec|75|f
 Chalantapara Pt IV|26.262|90.585|IN|Assam|75
 Chalchihuapan|18.972|-98.337|MX|Puebla|74
 Challes-les-Eaux|45.547|5.981|FR|Auvergne-Rhône-Alpes|73
 Chalfont|40.288|-75.209|US|Pennsylvania|72
 Chalkville|33.653|-86.648|US|Alabama|72
 Chalchihuites|23.477|-103.884|MX|Zacatecas|72
+Châlons Vatry Airport|48.776|4.184|FR|Grand Est|71|f
 Chalchocoyo|21.314|-98.792|MX|San Luis Potosí|71
 Chaligny|48.624|6.083|FR|Grand Est|70
 Chalán|9.548|-75.311|CO|Sucre Department|69
@@ -46,6 +51,7 @@ Chalais|46.268|7.511|CH|Valais|69
 Chalindrey|47.803|5.428|FR|Grand Est|68
 Chalma|21.209|-98.398|MX|Veracruz|68
 Chalcatzingo|18.689|-98.775|MX|Morelos|68
+Challenger Point|37.980|-105.607|US|Colorado|67|f
 Chalmeca|15.096|-88.680|HN|Copán Department|66
 Chalais|45.273|0.039|FR|New Aquitaine|66
 Châlus|45.655|0.980|FR|New Aquitaine|65
@@ -68,6 +74,7 @@ Challex|46.185|5.976|FR|Auvergne-Rhône-Alpes|61
 Chalifert|48.890|2.773|FR|Île-de-France|61
 Challes|47.931|0.414|FR|Pays de la Loire|61
 Challenge-Brownsville|39.464|-121.263|US|California|61
+Chaltén Mountain Range Natural Site, Chile|-49.276|-73.080|CL|Region of Magallanes|61|f
 Chaleins|46.032|4.808|FR|Auvergne-Rhône-Alpes|61
 Chalan Laulau Village|15.181|145.714|MP|Saipan|61
 Chalchihuitán|16.964|-92.618|MX|Chiapas|60
@@ -75,15 +82,64 @@ Challis|44.505|-114.232|US|Idaho|60
 Chalk River|46.017|-77.449|CA|Ontario|60
 Chalampé|47.820|7.541|FR|Grand Est|60
 Challas|-8.439|-77.324|PE|La Libertad|60
+Chalezeule|47.258|6.075|FR|Bourgogne-Franche-Comté|60
+Chalkeió|38.333|26.098|GR|North Aegean|60
 Chalandrítsa|38.108|21.783|GR|West Greece|60
+Chalahuite|21.240|-98.944|MX|Hidalgo|59
 Challabamba|-13.212|-71.653|PE|Cuzco Department|59
+Challain-la-Potherie|47.635|-1.046|FR|Pays de la Loire|58
+Chalk Hills|34.171|-118.580|US|California|58|f
+Chalk Mountains|29.584|-103.334|US|Texas|58|f
+Chalk Mountains|40.445|-123.871|US|California|58|f
+Challenger Island|-64.350|-61.575|AQ||58|f
+Chalcomulco|18.018|-94.782|MX|Veracruz|58
+Chalfant|40.409|-79.839|US|Pennsylvania|58
+Chalmoux|46.599|3.848|FR|Bourgogne-Franche-Comté|58
 Chalamarca|-6.503|-78.480|PE|Cajamarca Department|58
+Chāllū|35.567|48.325|IR|Hamadan Province|58
+Chalandray|46.661|-0.003|FR|New Aquitaine|58
+Chalmaison|48.482|3.251|FR|Île-de-France|58
+Chalgrave|51.935|-0.536|GB|England|57
 Challand-Saint-Anselme|45.715|7.735|IT|Aosta Valley|57
+Chalautre-la-Grande|48.542|3.460|FR|Île-de-France|57
+Chalingo|21.100|-98.221|MX|Hidalgo|56
+Chalmita|20.016|-99.035|MX|Hidalgo|56
+Chalautre-la-Petite|48.529|3.312|FR|Île-de-France|56
+Chalchitepec|19.157|-97.034|MX|Veracruz|56
+Chalpicote|20.310|-102.916|MX|Jalisco|56
+Chalhuanca|-15.718|-71.321|PE|Arequipa|56
+Chāl Ţarkhān|35.499|51.477|IR|Tehran|56
+Chalais|46.972|0.088|FR|New Aquitaine|56
 Challand-Saint-Victor|45.690|7.705|IT|Aosta Valley|55
+Chalaco|-5.409|-80.761|PE|Piura|55
+Chalandry-Elaire|49.717|4.750|FR|Grand Est|55
 Chalán|-6.650|-78.232|PE|Cajamarca Department|55
 Chalton|51.928|-0.501|GB|England|55
+Chālekash-e Lāt|37.407|49.893|IR|Gilan Province|55
+Chalahuite|21.065|-97.546|MX|Veracruz|55
+Chalco|19.307|-99.090|MX|Mexico City|54|f
+Chalk Mountain|39.326|-118.121|US|Nevada|54|f
+Chalky Island|-40.090|147.880|AU|Tasmania|54|f
+Chalkyitsik Airport|66.649|-143.728|US|Alaska|54|f
+Challenger Glacier|-53.033|73.467|HM||54|f
+Chalon-Champforgeuil|46.828|4.817|FR|Bourgogne-Franche-Comté|54|f
+Chalmers|40.663|-86.869|US|Indiana|54
+Chalbi Desert|2.915|37.367|KE|Marsabit County|49|f
+Chale Island|-4.445|39.535|KE|Kwale County|49|f
+Chalk Buttes|35.892|-120.180|US|California|49|f
 Chalcos|-13.848|-73.753|PE|Ayacucho|48
 Chalamera|41.666|0.163|ES|Aragon|44
+Chalco Hills Recreation Area|41.163|-96.153|US|Nebraska|40|f
+Chalet du Mont-Royal|45.504|-73.587|CA|Quebec|40|f
+Chaleur Bay|47.600|-56.748|CA|Newfoundland and Labrador|40|f
+Chalice Well|51.144|-2.707|GB|England|40|f
+Chalk Hill|37.752|-90.480|US|Missouri|40|f
+Chalk Lake|44.023|-79.045|CA|Ontario|40|f
+Chalk Mountains|37.142|-106.750|US|Colorado|40|f
+Chalky Island|-46.050|166.517|NZ||40|f
+Challenger Glacier|48.846|-121.347|US|Washington|40|f
+Challenger Mountains|82.686|-76.195|CA|Nunavut|40|f
+Chaluka Site|52.938|-168.863|US|Alaska|40|f
 Chala|-15.866|-74.247|PE|Arequipa|0
 Chalaco|-5.041|-79.796|PE|Piura|0
 Chale|50.596|-1.318|GB|England|0
@@ -96,3 +152,4 @@ Chaloem Phra Kiat|19.579|101.080|TH|Nan|0
 Chaloem Phra Kiat|8.177|100.036|TH|Nakhon Si Thammarat|0
 Chaloem Phra Kiat|14.611|100.908|TH|Saraburi|0
 Chaloem Phra Kiat|14.558|102.925|TH|Buriram|0
+Chalu|29.203|121.315|CN|Zhejiang|0

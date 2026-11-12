@@ -1,5 +1,5 @@
 Pelentong|1.524|103.824|MY|Johor|115
-Peloponnese|37.627|22.440|GR||113|r
+Peloponnese|37.627|22.440|GR||114|r
 Pelotas|-31.770|-52.341|BR|Rio Grande do Sul|111
 Pelabuhanratu|-6.987|106.551|ID|West Java|101
 Pèlèngana|13.427|-6.222|ML|Ségou|94
@@ -19,8 +19,10 @@ Pelaya|8.688|-73.665|CO|Cesar Department|81
 Peligros|37.232|-3.629|ES|Andalusia|81
 Pelmo Park-Humberlea|43.718|-79.528|CA|Ontario|81
 Pella|41.408|-92.916|US|Iowa|80
+Peleliu|6.993|134.232|PW|Peleliu|80|f
 Pélissanne|43.633|5.152|FR|Provence-Alpes-Côte d'Azur|79
 Pelplin|53.928|18.698|PL|Pomerania|78
+Peloritani|38.050|15.333|IT|Sicily|78|f
 Pelarco|-35.384|-71.445|CL|Maule Region|78
 Pelham|40.910|-73.808|US|New York|77
 Pelagiada|45.206|42.024|RU|Stavropol Kray|77
@@ -28,12 +30,16 @@ Pelican Bay|26.231|-81.806|US|Florida|76
 Pellegrini|-36.267|-63.165|AR|Buenos Aires|76
 Pelham Manor|40.895|-73.807|US|New York|75
 Pelton|54.873|-1.609|GB|England|75
+Pelješac Bridge|42.931|17.535|HR|Dubrovnik-Neretva|74|f
 Peleduy|59.629|112.741|RU|Sakha|73
+Pelabuhanratu Bay|-7.050|106.450|ID|West Java|72|f
+Pelješac|42.917|17.417|HR||72|f
 Pell Lake|42.538|-88.351|US|Wisconsin|71
 Pelham|31.128|-84.153|US|Georgia|71
 Pelym|61.016|61.988|RU|Sverdlovsk Oblast|71
 Pélussin|45.420|4.684|FR|Auvergne-Rhône-Alpes|71
 Pello|66.774|23.963|FI|Lapland|70
+Pele Island|-17.493|168.407|VU|Shefa|70|f
 Pelouo|10.035|-5.284|CI|Savanes District|70
 Pełczyce|53.044|15.304|PL|West Pomerania|69
 Pellestrina|45.277|12.302|IT|Veneto|68
@@ -42,6 +48,9 @@ Pelican Rapids|46.571|-96.083|US|Minnesota|68
 Pelasgía|38.948|22.840|GR|Central Greece|68
 Pellouailles-les-Vignes|47.522|-0.440|FR|Pays de la Loire|67
 Pellenberg|50.872|4.794|BE|Flanders|67
+Pelagie Islands|35.667|12.667|IT|Sicily|67|f
+Pelicano Airport|-29.144|-70.887|CL|Coquimbo Region|67|f
+Pelsaert Island|-28.928|113.976|AU|Western Australia|67|f
 Pelayos de la Presa|40.361|-4.335|ES|Madrid|67
 Pella WC|-33.540|18.521|ZA|Western Cape|66
 Pelican Narrows|55.167|-102.934|CA|Saskatchewan|66
@@ -51,6 +60,8 @@ Pélégodi|8.304|-2.727|CI|Zanzan District|65
 Pelindaba|-24.608|31.012|ZA|Mpumalanga|65
 Peltre|49.075|6.227|FR|Grand Est|64
 Pelican Bay|32.921|-97.518|US|Texas|64
+Pelican Island|18.333|-64.626|VG||63|f
+Pelinna|39.574|21.924|GR|Thessaly|63|f
 Pelham|42.393|-72.404|US|Massachusetts|63
 Pély|47.483|20.350|HU|Heves County|63
 Pelahatchie|32.313|-89.798|US|Mississippi|63
@@ -59,28 +70,101 @@ Pelousey|47.275|5.923|FR|Bourgogne-Franche-Comté|62
 Pellezzano|40.725|14.757|IT|Campania|62
 Peléndri|34.896|32.968|CY|Limassol|62
 Pellworm|54.516|8.645|DE|Schleswig-Holstein|61
+Pelican Butte|42.513|-122.146|US|Oregon|61|f
+Pelican Island|-14.768|128.775|AU|Western Australia|61|f
+Peloponnese|37.623|22.418|GR|Peloponnese|61|f
+Pelorus Islet|-36.108|137.526|AU|South Australia|61|f
 Pellegrue|44.743|0.075|FR|New Aquitaine|61
 Pelópi|37.674|21.593|GR|West Greece|61
 Pelago|43.773|11.501|IT|Tuscany|61
 Pelm|50.232|6.691|DE|Rheinland-Pfalz|60
 Pellingen|49.676|6.671|DE|Rheinland-Pfalz|60
+Pelitalan|38.852|27.329|TR|Manisa|60
 Pellio Intelvi|45.980|9.059|IT|Lombardy|60
+Pellevoisin|46.983|1.417|FR|Centre-Val de Loire|59
 Pelkosenniemi|67.111|27.511|FI|Lapland|59
 Pelabravo|40.937|-5.579|ES|Castille and León|59
+Pelehake|-21.213|-175.143|TO|Vavau|59
+Pellegrina|45.229|11.020|IT|Veneto|59
+Pellston|45.553|-84.785|US|Michigan|58
+Peleș|47.885|22.822|RO|Satu Mare County|58
+Pelham Bridge|40.862|-73.816|US|New York|58|f
+Pelister|41.003|21.184|MK|Bitola|58|f
+Pelletan Point|-65.107|-63.030|AQ||58|f
+Pelsaert Group|-28.904|113.914|AU|Western Australia|58|f
+Pelseneer Island|-64.666|-62.200|AQ||58|f
+Pelynt|50.366|-4.523|GB|England|58
+Pelves|50.291|2.914|FR|Hauts-de-France|57
+Pellendorf|48.098|16.453|AT|Lower Austria|57
+Pelion|33.763|-81.245|US|South Carolina|57
 Peleliu|6.993|134.231|PW||57|r
+Peletier|34.730|-77.084|US|North Carolina|56
+Pelsor|35.794|-93.042|US|Arkansas|56
 Pellizzano|46.310|10.758|IT|Trentino-Alto Adige|56
+Peldon|51.813|0.886|GB|England|55
+Pelageivka|48.150|32.798|UA|Kirovohrad|54
+Pelaneng Airport|-29.121|28.505|LS|Leribe|54|f
+Pelee Island Airport|41.780|-82.671|CA|Ontario|54|f
+Pelican Bay|-42.081|148.202|AU|Tasmania|54|f
+Pelican Island|17.100|-61.909|AG|Saint John Parish|54|f
+Pelican Island|29.332|-94.802|US|Texas|54|f
+Pelican Island (historical)|13.101|-59.628|BB|Saint Michael|54|f
+Pelican State Beach|41.993|-124.210|US|California|54|f
+Pellinge|60.217|25.867|FI|Uusimaa|54|f
+Pellston Regional Airport of Emmet County|45.572|-84.786|US|Michigan|54|f
+Pellaines|50.727|5.007|BE|Wallonia|54
 Pella|45.797|8.384|IT|Piedmont|54
 Pellegrino Parmense|44.730|9.932|IT|Emilia-Romagna|52
 Peleagonzalo|41.482|-5.483|ES|Castille and León|52
 Pelugo|46.089|10.724|IT|Trentino-Alto Adige|52
 Pelahustán|40.176|-4.598|ES|Castille-La Mancha|51
+Pelee Island|41.783|-82.666|CA|Ontario|49|f
+Peleg Peak|-65.838|-62.552|AQ||49|f
+Peleus, Mount|-77.483|162.083|AQ||49|f
+Pelican Island|-40.290|148.320|AU|Tasmania|49|f
+Pelican Island|39.943|-74.088|US|New Jersey|49|f
+Pelican Lagoon Conservation Park|-35.802|137.776|AU|South Australia|49|f
+Pelican Lake|-32.414|143.333|AU|New South Wales|49|f
+Pelican Park|-33.484|151.326|AU|New South Wales|49|f
+Pelion Gap|-41.860|146.050|AU|Tasmania|49|f
+Pelter Glacier|-71.950|-98.367|AQ||49|f
+Pelton Peak|48.449|-121.033|US|Washington|49|f
+Pelze|51.873|12.260|DE|Saxony-Anhalt|49|f
 Peleas de Abajo|41.393|-5.690|ES|Castille and León|48
 Pelarrodríguez|40.887|-6.213|ES|Castille and León|46
 Pelayos|40.650|-5.576|ES|Castille and León|42
+Peleaga|45.366|22.893|RO|Hunedoara County|40|f
+Pelham Bay Park|40.866|-73.808|US|New York|40|f
+Pelham Range|48.933|-124.886|CA|British Columbia|40|f
+Pelican Island National Wildlife Refuge|27.810|-80.441|US|Florida|40|f
+Pelican Lake|49.909|-84.136|CA|Ontario|40|f
+Pelican Lake|50.111|-91.961|CA|Ontario|40|f
+Pelican Lake|49.336|-99.564|CA|Manitoba|40|f
+Pelican Lake|46.699|-96.021|US|Minnesota|40|f
+Pelican Lake|45.506|-89.199|US|Wisconsin|40|f
+Pelion Mountain|49.866|-123.353|CA|British Columbia|40|f
+Pelkey Lake|45.992|-94.228|US|Minnesota|40|f
+Pelletier House|34.751|-77.433|US|North Carolina|40|f
+Pelly Bay|68.884|-90.083|CA|Nunavut|40|f
+Pelly Island|69.600|-135.506|CA|Northwest Territories|40|f
+Pelly Mountains|61.666|-132.504|CA|Yukon|40|f
+Pelly Peak|56.766|-125.287|CA|British Columbia|40|f
+Pelorus Sound|-41.148|173.860|NZ|Marlborough|40|f
+Pelourinho de Bragança|41.804|-6.750|PT|Bragança|40|f
+Pelton Dam|44.694|-121.231|US|Oregon|40|f
 Pelayos del Arroyo|41.051|-3.941|ES|Castille and León|36
 Pelagićevo|44.901|18.592|BA|Srpska|12
 Pelabuhan Dagang|-1.146|103.085|ID|Jambi|0
 Pelaihari|-3.799|114.779|ID|South Kalimantan|0
+Pelang|-6.896|111.993|ID|East Java|0
+Pelangwot|-6.986|112.279|ID|East Java|0
+Pelapuan|-8.267|114.989|ID|Bali|0
 Pelau|-3.520|128.468|ID|Maluku|0
 Pelejo|-6.217|-75.817|PE|San Martín Department|0
+Pelem|-8.158|111.882|ID|East Java|0
+Pelem|-7.241|111.707|ID|East Java|0
+Pelem|-6.982|111.258|ID|Central Java|0
+Pelem|-6.998|111.433|ID|Central Java|0
+Pelem Satu|-8.044|111.458|ID|East Java|0
+Pelemsari|-6.832|111.312|ID|Central Java|0
 Pelileo Grande|-1.330|-78.528|EC|Tungurahua Province|0

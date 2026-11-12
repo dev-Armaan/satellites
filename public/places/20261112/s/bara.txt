@@ -20,6 +20,7 @@ Baradero|-33.812|-59.505|AR|Buenos Aires|91
 Barabinsk|55.351|78.359|RU|Novosibirsk Oblast|90
 Barão de Cocais|-19.946|-43.487|BR|Minas Gerais|90
 Baraúna|-5.080|-37.617|BR|Rio Grande do Norte|89
+Baranof Island|56.951|-134.948|US|Alaska|88|f
 Baravāt|29.066|58.405|IR|Kerman|87
 Baraki Barak|33.967|68.949|AF|Logar|87
 Barāra|30.215|77.040|IN|Haryana|87
@@ -54,6 +55,7 @@ Barão|-29.377|-51.496|BR|Rio Grande do Sul|76
 Barahan|13.012|120.762|PH|Mimaropa|76
 Baral|25.918|74.629|IN|Rajasthan|76
 Barão do Triunfo|-30.388|-51.734|BR|Rio Grande do Sul|75
+Barania Góra|49.611|19.011|PL|Silesia|75|f
 Baramkela|21.565|83.261|IN|Chhattisgarh|75
 Bāra|24.806|84.790|IN|Bihar|74
 Barani|13.169|-3.890|BF|Boucle du Mouhoun|74
@@ -85,6 +87,7 @@ Baraton|0.255|35.083|KE|Nandi|66
 Baraga|46.779|-88.489|US|Michigan|66
 Baratier|-4.154|14.902|CG|Pool|66
 Baratte|45.112|7.236|IT|Piedmont|66
+Barataria Bay|29.374|-89.938|US|Louisiana|65|f
 Baradougou|8.102|-5.649|CI|Woroba|65
 Baranów|51.558|22.136|PL|Lublin|64
 Baradères|18.483|-73.639|HT|Nippes|64
@@ -96,6 +99,8 @@ Baraggia|45.855|8.909|IT|Lombardy|64
 Baraboi|46.288|30.514|UA|Odesa|64
 Barați|46.576|26.871|RO|Bacău County|64
 Baranów|51.263|18.005|PL|Greater Poland|64
+Baraboo Wisconsin Dells Airport|43.522|-89.771|US|Wisconsin|63|f
+Baraga Airport|46.786|-88.577|US|Michigan|63|f
 Bara de Chachalacas|19.406|-96.342|MX|Veracruz|63
 Baranów Sandomierski|50.499|21.542|PL|Subcarpathia|63
 Barala|8.949|-7.621|CI|Denguélé District|63
@@ -107,25 +112,88 @@ Bar Āftāb-e Mīlās|31.497|50.786|IR|Chaharmahal and Bakhtiari|62
 Baranca|48.197|26.479|RO|Botoșani County|62
 Barakodi|8.457|-3.215|CI|Zanzan District|61
 Baraba|56.750|61.767|RU|Sverdlovsk Oblast|61
+Barāqish|16.019|44.804|YE|Ma’rib|61|f
 Barataria|29.723|-90.124|US|Louisiana|61
 Bărăști|45.254|24.597|RO|Arges|61
 Barativka|46.946|32.779|UA|Mykolaiv|61
 Barala|8.949|-7.818|CI|Woroba|60
 Bărăganu|44.089|28.420|RO|Constanța County|60
+Barajas|20.413|-100.611|MX|Guanajuato|59
+Bărăitaru|44.861|26.350|RO|Prahova|59
+Barão de São João|37.139|-8.778|PT|Faro|59
+Bărăști|47.363|26.354|RO|Suceava|59
+Barabarasso|8.992|-7.840|CI|Woroba|58
 Barajas de Melo|40.123|-2.917|ES|Castille-La Mancha|58
+Baraebong|35.421|127.576|KR|Jeollabuk-do|58|f
+Bâra|44.748|26.240|RO|Prahova|58
+Baraccone|44.746|8.062|IT|Piedmont|58
+Barannikova|56.806|62.787|RU|Sverdlovsk Oblast|58
+Baradine|-30.949|149.069|AU|New South Wales|58
+Baraggione|45.648|8.499|IT|Piedmont|58
+Barajillas (Barajilla)|16.509|-98.464|MX|Guerrero|58
+Baraqū|35.277|46.486|IR|Kurdistan Province|58
+Barativka|47.593|32.357|UA|Mykolaiv|58
+Baranówka|50.144|20.103|PL|Lesser Poland|58
+Barāb|28.725|54.397|IR|Fars|57
+Baranzan|8.498|-7.627|CI|Woroba|57
 Baranello|41.527|14.558|IT|Molise|57
+Baraggia|45.619|8.519|IT|Piedmont|57
+Barāghūsh|38.095|47.225|IR|East Azerbaijan|57
+Barahúnda|18.510|-96.092|MX|Veracruz|56
+Bārān Dūz|37.406|45.092|IR|West Azerbaijan|56
+Baranivka|49.950|34.001|UA|Poltava|56
+Baranowo|53.826|21.447|PL|Warmia-Masuria|56
+Baragazza|44.128|11.201|IT|Emilia-Romagna|56
+Bara Bālihāra|25.755|88.464|BD|Rangpur Division|55
+Bărăteaz|45.970|21.096|RO|Timiș County|55
+Bărăști|45.227|26.384|RO|Buzău County|55
 Barásoain|42.603|-1.647|ES|Navarre|55
+Baranove|46.938|30.408|UA|Odesa|55
+Baradougou|8.337|-5.740|CI|Woroba|55
 Baragiano|40.680|15.594|IT|Basilicate|55
+Baranca|48.134|26.316|RO|Botoșani County|55
+Baralokaha|9.512|-5.353|CI|Savanes District|55
+Bārāzlu|37.542|46.151|IR|East Azerbaijan|55
+Barāha Temple|26.876|87.166|NP|Koshi|54|f
+Barahun Island|-4.496|154.167|PG|Bougainville|54|f
+Barakoma Airport|-7.913|156.706|SB|Western Province|54|f
+Baramita Airport|7.370|-60.488|GY|Barima-Waini|54|f
+Bārand-e Soflá|30.951|51.633|IR|Isfahan|54
 Bara|45.895|21.872|RO|Timiș County|51
 Bărăștii de Vede|44.716|24.659|RO|Olt|51
+Barail Range|25.274|93.348|IN||49|f
+Baranowski Glacier|-62.203|-58.469|AQ||49|f
+Baratang Island|12.217|92.750|IN|Andaman and Nicobar|49|f
+Barachois Pond Provincial Park|48.474|-58.255|CA|Newfoundland and Labrador|40|f
+Barafundle Bay|51.618|-4.901|GB||40|f
+Baraga State Park|46.761|-88.501|US|Michigan|40|f
+Baranof Lake|57.074|-134.886|US|Alaska|40|f
+Baranów Sandomierski -  Zamek XVIw.|50.501|21.530|PL|Subcarpathia|40|f
+Baraque de Fraiture|50.250|5.737|BE|Wallonia|40|f
+Baraque Michel|50.519|6.062|BE|Wallonia|40|f
+Barasway Bay|47.633|-57.732|CA|Newfoundland and Labrador|40|f
 Baradili|39.722|8.897|IT|Sardinia|39
 Bara|10.936|11.682|NG|Yobe State|0
 Bara Datu|-4.744|104.496|ID|Lampung|0
+Barabali|-8.626|116.309|ID|West Nusa Tenggara|0
+Barabedang|-9.694|119.456|ID|East Nusa Tenggara|0
+Baraiwena|-8.820|121.604|ID|East Nusa Tenggara|0
+Barajalan|-7.133|113.535|ID|East Java|0
 Barajevo|44.579|20.416|RS|Central Serbia|0
 Baraka|-3.408|119.856|ID|South Sulawesi|0
+Barakabita|-9.723|119.361|ID|East Nusa Tenggara|0
+Baran|-6.754|111.052|ID|Central Java|0
+Barang|-8.218|111.467|ID|East Java|0
+Barangay of Poblacion|13.318|122.079|PH|Mimaropa|0
 Baranti|-3.840|119.784|ID|South Sulawesi|0
+Baranti|-7.410|107.424|ID|West Java|0
 Baranusa|-8.362|124.089|ID|East Nusa Tenggara|0
 Barapas|-2.199|137.001|ID|Papua|0
 Baras|13.659|124.370|PH|Bicol Region|0
 Barashi|50.716|28.026|UA|Zhytomyr Oblast|0
+Barat|-7.050|113.495|ID|East Java|0
+Barat|-7.044|113.576|ID|East Java|0
+Baratan|-8.135|113.730|ID|East Java|0
+Baratleke|-6.951|112.996|ID|East Java|0
+Baratsungai|-6.898|115.434|ID|East Java|0
 Baray|12.394|105.075|KH|Kampong Thom|0

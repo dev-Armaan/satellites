@@ -10,6 +10,7 @@ Birigui|-21.289|-50.340|BR|São Paulo|102
 Birnin Kebbi|12.454|4.197|NG|Kebbi|101
 Birgaon|21.308|81.628|IN|Chhattisgarh|100
 Biryulëvo Zapadnoye|55.587|37.646|RU|Moscow|99
+Bird's Nest|39.991|116.390|CN|Beijing|99|f
 Birni N Konni|13.796|5.250|NE|Tahoua Region|99
 Biruaca|7.845|-67.517|VE|Apure|98
 Birobidzhan|48.793|132.920|RU|Jewish Autonomous Oblast|97
@@ -18,8 +19,10 @@ Bir el Ater|34.745|8.060|DZ|Tébessa|97
 Bir el Djir|35.720|-0.545|DZ|Oran|97
 Birkat as Sab‘|30.629|31.082|EG|Monufia|94
 Bireun|5.203|96.701|ID|Aceh|94
+Birmingham Airport|52.454|-1.748|GB|England|93|f
 Birecik|37.026|37.978|TR|Şanlıurfa|93
 Birsk|55.420|55.542|RU|Bashkortostan Republic|92
+Birsa Munda Airport|23.314|85.322|IN|Jharkhand|92|f
 Birmitrapur|22.400|84.767|IN|Odisha|90
 Birpara|26.704|89.145|IN|West Bengal|90
 Biritiba Mirim|-23.573|-46.039|BR|São Paulo|89
@@ -30,12 +33,14 @@ Bi’r al ‘Abd|31.019|33.010|EG|North Sinai|88
 Birkirkara|35.897|14.461|MT|Birkirkara|88
 Birūr|13.597|75.972|IN|Karnataka|87
 Birchcliffe-Cliffside|43.695|-79.265|CA|Ontario|87
+Biratnagar Airport|26.482|87.265|NP|Koshi|87|f
 Birkerød|55.848|12.428|DK|Capital Region|87
 Birmingham|42.547|-83.211|US|Michigan|86
 Bīrpur|26.508|87.012|IN|Bihar|86
 Birnin Gaouré|13.082|2.911|NE|Dosso Region|86
 Biritinga|-11.617|-38.800|BR|Bahia|84
 Birzai|56.200|24.750|LT|Panevėžys|83
+Birjand International Airport|32.898|59.266|IR|South Khorasan Province|83|f
 Birsinghpur|24.798|80.973|IN|Madhya Pradesh|83
 Birkdale|-27.483|153.217|AU|Queensland|83
 Biral|25.632|88.548|BD|Rangpur Division|83
@@ -61,6 +66,7 @@ Birkenwerder|52.691|13.278|DE|Brandenburg|77
 Bīr el Maksūr|32.777|35.221|IL|Northern District|77
 Biruch|50.649|38.404|RU|Belgorod Oblast|77
 Birkelane|14.129|-15.744|SN|Kaffrine|77
+Birmingham–Shuttlesworth International Airport|33.562|-86.753|US|Alabama|77|f
 Birkenfeld|49.652|7.167|DE|Rheinland-Pfalz|77
 Birstein|50.350|9.300|DE|Hesse|76
 Bir el Hafey|34.932|9.193|TN|Sidi Bouzid Governorate|76
@@ -69,6 +75,7 @@ Birr|53.091|-7.913|IE|Leinster|75
 Bir Hadaj|31.024|34.709|IL|Southern District|75
 Birqīn|32.455|35.261|PS|West Bank|75
 Biratori|42.583|142.133|JP|Hokkaido|74
+Birdsville Airport|-25.898|139.348|AU|Queensland|74|f
 Birdsboro|40.265|-75.804|US|Pennsylvania|74
 Bir Ghaghar|30.709|76.889|IN|Haryana|74
 Bir Ali Ben Khalifa|34.736|10.092|TN|Sfax Governorate|74
@@ -79,12 +86,19 @@ Bir Ganduz|21.603|-16.450|EH||73
 Bir Ghandouz|22.053|-16.748|EH||73
 Bi’r al Ghanam|32.309|12.569|LY|Az Zawiyah|72
 Bira|49.002|132.464|RU|Jewish Autonomous Oblast|72
+Birchwood Airport|61.416|-149.509|US|Alaska|72|f
+Birka|59.337|17.546|SE|Stockholm|72|f
 Birch Tree Hill|19.385|-81.400|KY||72
 Birr|47.434|8.209|CH|Aargau|72
+Bir Moghrein Airport|25.237|-11.589|MR|Tiris Zemmour|71|f
+Bird Island|23.745|119.608|TW|Taiwan|71|f
 Birkenheide|49.481|8.262|DE|Rheinland-Pfalz|70
+Birkkarspitze|47.411|11.437|AT|Tyrol|70|f
 Birdwell|53.514|-1.479|GB|England|70
 Birkeland|58.331|8.232|NO|Agder|69
 Birky|49.720|36.058|UA|Kharkiv|69
+Bird Island|16.910|-25.011|CV|São Vicente|69|f
+Bird's Head Peninsula|-1.500|132.500|ID|Southwest Papua|69|f
 Birky|49.917|23.917|UA|Lviv|69
 Birken-Honigsessen|50.817|7.733|DE|Rheinland-Pfalz|69
 Biri|12.683|124.364|PH|Eastern Visayas|68
@@ -92,12 +106,15 @@ Birbash|42.527|78.360|KG|Issyk-Kul|68
 Birakan|48.994|131.720|RU|Jewish Autonomous Oblast|68
 Birmenstorf|47.462|8.248|CH|Aargau|68
 Birštonas|54.608|24.034|LT|Kaunas|67
+Bi’r Ya‘qūb|32.210|35.285|PS|West Bank|67|f
+Bird Island|-3.721|55.206|SC|La Digue and Inner Islands|67|f
 Birkenfeld|49.859|9.696|DE|Bavaria|67
 Birchiş|45.967|22.167|RO|Arad County|66
 Birgte|52.248|7.648|DE|North Rhine-Westphalia|66
 Bir Mogran|25.230|-11.579|MR|Tiris Zemmour|66
 Birinci Aşıqlı|39.819|47.679|AZ|Beyləqan|66
 Birenbach|48.747|9.661|DE|Baden-Wurttemberg|66
+Bi’r al Ḩakīm|31.594|23.480|LY|Al Butnan|65|f
 Birgi|38.250|28.059|TR|İzmir Province|65
 Birkfeld|47.350|15.683|AT|Styria|64
 Bîr Mogreïn|25.221|-11.579|MR|Tiris Zemmour|64
@@ -105,6 +122,10 @@ Birky|51.810|25.200|UA|Volyn|64
 Birlenbach|50.358|8.003|DE|Rheinland-Pfalz|64
 Birinji Zobujug|39.563|47.408|AZ|Fuzuli District|64
 Birch Run|43.251|-83.794|US|Michigan|63
+Birchip Airport|-35.999|142.915|AU|Victoria|63|f
+Bird Island Airport|-3.724|55.206|SC|La Digue and Inner Islands|63|f
+Birdland Park and Gardens|51.881|-1.754|GB|England|63|f
+Birnhorn|47.475|12.734|AT|Salzburg|63|f
 Birgitz|47.235|11.299|AT|Tyrol|63
 Birchwood Lakes|41.255|-74.918|US|Pennsylvania|63
 Birlestik|53.584|68.354|KZ|North Kazakhstan|63
@@ -115,17 +136,119 @@ Bircii|44.517|24.603|RO|Olt|62
 Birky|50.123|34.172|UA|Poltava|61
 Birdham|50.796|-0.831|GB|England|61
 Birchwood|45.061|-92.976|US|Minnesota|61
+Bird Island|-32.277|115.690|AU|Western Australia|61|f
+Bird Island|-52.168|-60.927|FK||61|f
+Bird Island|-54.004|-38.060|GS||61|f
+Birreencorragh|53.985|-9.487|IE|Connacht|61|f
 Birchwil|47.454|8.635|CH|Zurich|61
 Birda|45.430|21.344|RO|Timiș County|60
+Bir Lehlou|26.350|-9.577|EH||60
 Bircza|49.692|22.479|PL|Subcarpathia|60
+Birinci Guzanli|40.163|47.224|AZ|Ağdam|60
+Bird Island|44.767|-94.896|US|Minnesota|60
+Birlenbach|48.977|7.880|FR|Grand Est|60
+Biriyya|32.978|35.500|IL|Northern District|60
+Birrwil|47.291|8.197|CH|Aargau|60
+Birdwood|-34.818|138.965|AU|South Australia|59
+Biriatou|43.333|-1.743|FR|New Aquitaine|59
+Birregurra|-38.337|143.785|AU|Victoria|58
+Biron|44.424|-89.780|US|Wisconsin|58
+Birch Mountain|37.063|-118.419|US|California|58|f
+Bird Hills|40.086|-120.187|US|California|58|f
+Bird Sound|-54.008|-38.025|GS||58|f
+Birnamwood|44.933|-89.210|US|Wisconsin|58
+Birkweiler|49.203|8.038|DE|Rheinland-Pfalz|57
+Birky|51.247|24.076|UA|Volyn|57
+Birac-sur-Trec|44.486|0.265|FR|New Aquitaine|57
+Birchip|-35.984|142.917|AU|Victoria|57
+Bi’r ‘Awnah|31.720|35.178|PS|West Bank|56
+Birch Tree|36.991|-91.493|US|Missouri|56
+Birkende|55.381|10.563|DK|South Denmark|56
+Birkenhördt|49.117|7.933|DE|Rheinland-Pfalz|56
+Birkelse|57.150|9.686|DK|North Denmark|56
+Birnbach|50.700|7.583|DE|Rheinland-Pfalz|56
+Biruința|43.995|28.507|RO|Constanța County|56
+Birchanger|51.884|0.192|GB|England|56
+Biryul’ka|53.868|106.335|RU|Irkutsk Oblast|55
+Birkenfelde|51.350|10.017|DE|Thuringia|55
 Birori|40.266|8.816|IT|Sardinia|55
+Biron|43.462|-0.735|FR|New Aquitaine|55
+Bironico|46.114|8.933|CH|Ticino|55
+Birky|49.691|36.044|UA|Kharkiv|54
+Birch Island|44.397|-69.337|US|Maine|54|f
+Bird Hill|37.090|-89.768|US|Missouri|54|f
+Bird Island|-40.604|144.720|AU|Tasmania|54|f
+Bird Island|-33.229|151.602|AU|New South Wales|54|f
+Bird Island|37.824|-122.537|US|California|54|f
+Bird Island|58.490|-134.850|US|Alaska|54|f
+Bird Islands|-27.517|153.400|AU|Queensland|54|f
+Bird Spring Range|35.908|-115.400|US|Nevada|54|f
+Birkenhauer Island|-66.479|110.621|AQ||54|f
+Birks, Mount|-65.290|-62.163|AQ||54|f
+Birnie Island|-3.583|-171.516|KI|Phoenix Islands|54|f
+Birkigt|50.669|11.485|DE|Thuringia|54
+Birchy Bay|49.350|-54.731|CA|Newfoundland and Labrador|54
+Birgel|50.317|6.617|DE|Rheinland-Pfalz|54
+Birky|49.639|33.809|UA|Poltava|54
+Birkenbeul|50.733|7.617|DE|Rheinland-Pfalz|54
+Birkenhügel|50.433|11.750|DE|Thuringia|51
+Birch Bluff|44.292|-90.312|US|Wisconsin|49|f
+Birch Creek Airport|66.270|-145.819|US|Alaska|49|f
+Birch Creek Mountain|38.219|-112.454|US|Utah|49|f
+Birchall Peaks|-76.417|-146.500|AQ||49|f
+Birchgrove Park|-33.849|151.181|AU|New South Wales|49|f
+Birchwood-Pocono Airpark|41.064|-75.252|US|Pennsylvania|49|f
+Bird in Hand Mine|-34.957|138.908|AU|South Australia|49|f
+Bird Island|41.670|-70.717|US|Massachusetts|49|f
+Bird Islands|-11.780|143.087|AU|Queensland|49|f
+Bird Key|25.838|-80.168|US|Florida|49|f
+Bird Ridge|-66.783|55.067|AQ||49|f
+Bird Rock|-40.920|148.320|AU|Tasmania|49|f
+Bird Rock|38.230|-122.994|US|California|49|f
+Bird, Mount|-77.283|166.717|AQ||49|f
+Biretta Peak|-73.067|163.200|AQ||49|f
+Birkenhead Bridge|-34.842|138.502|AU|South Australia|49|f
+Birkholm|54.931|10.503|DK|South Denmark|49|f
+Birksgate Range|-27.116|129.756|AU|South Australia|49|f
+Birrarung Marr|-37.819|144.974|AU|Victoria|49|f
+Birthday Point|-71.433|169.400|AQ||49|f
+Birx|50.533|10.050|DE|Thuringia|45
+Birkheim|50.117|7.617|DE|Rheinland-Pfalz|42
+Birch Bay State Park|48.903|-122.765|US|Washington|40|f
+Birch Islands|44.535|-67.766|US|Maine|40|f
+Birch Lake|44.324|-65.681|CA|Nova Scotia|40|f
+Birch Lake|44.811|-63.514|CA|Nova Scotia|40|f
+Birch Lake|36.535|-96.159|US|Oklahoma|40|f
+Birch Point|44.676|-67.380|US|Maine|40|f
+Bird Island|32.296|-64.809|BM|Pembroke|40|f
+Bird Island|33.857|-78.539|US|North Carolina|40|f
+Bird Islands|66.384|-83.215|CA|Nunavut|40|f
+Birdwell Point|-74.300|-128.167|AQ||40|f
+Birg|46.562|7.856|CH|Bern|40|f
+Birghorn|46.453|7.789|CH|Bern|40|f
+Birkelunden|59.926|10.760|NO|Oslo|40|f
+Birkenhead Lake Provincial Park|50.583|-122.750|CA|British Columbia|40|f
+Birkenhead Peak|50.500|-122.619|CA|British Columbia|40|f
+Birmingham Bay|73.385|-95.634|CA|Nunavut|40|f
+Birmingham Bridge|40.649|-78.199|US|Pennsylvania|40|f
+Birmingham Municipal Airport-North|33.568|-86.744|US|Alabama|40|f
+Birmingham Museum of Art|33.522|-86.810|US|Alabama|40|f
+Birnirk Site|71.345|-156.602|US|Alaska|40|f
+Birzeit University|31.959|35.181|PS|West Bank|40|f
+Birtlingen|49.950|6.483|DE|Rheinland-Pfalz|38
 Bi’r al Ḩulw al Wardīyah|36.697|41.035|SY|Al-Hasakah|0
 Bi’r Ḩāt|17.322|52.096|YE|Al Mahrah Governorate|0
+Bira|-6.900|113.392|ID|East Java|0
 Birayang|-2.533|115.455|ID|South Kalimantan|0
 Bīrayn|32.099|35.958|JO|Zarqa|0
+Birdsall|54.085|-0.751|GB|England|0
+Birempa|-6.900|112.924|ID|East Java|0
+Biris Daja|-7.154|113.520|ID|East Java|0
 Birketveit|58.459|7.917|NO|Agder|0
 Birnin Gwari|10.664|6.540|NG|Kaduna State|0
 Birnin Magaji|12.559|6.895|NG|Zamfara State|0
+Birowo|-8.223|112.366|ID|East Java|0
+Birsa|-7.046|113.616|ID|East Java|0
 Birtley|55.083|-2.183|GB|England|0
 Biru|31.483|93.677|CN|Tibet|0
 Biruxong|31.401|93.601|CN|Tibet|0

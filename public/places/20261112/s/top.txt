@@ -2,6 +2,7 @@ Topeka|39.048|-95.678|US|Kansas|102
 Topi|34.070|72.621|PK|Khyber Pakhtunkhwa|97
 Topki|55.277|85.614|RU|Kuzbass|90
 Topoľčany|48.564|18.167|SK|Nitra Region|88
+Topkapı Palace|41.013|28.984|TR|Istanbul|84|f
 Topliţa|46.924|25.352|RO|Harghita County|82
 Topçular Mahallesi|39.925|44.035|TR|Iğdır|82
 Topoloveni|44.817|25.083|RO|Arges|81
@@ -21,7 +22,9 @@ Toppushi|44.089|143.807|JP|Hokkaido|74
 Toporivtsi|48.386|26.091|UA|Chernivtsi|73
 Topliceni|45.417|27.000|RO|Buzău County|73
 Topolevo|48.507|135.176|RU|Khabarovsk|72
+Topatopa Mountains|34.529|-119.043|US|California|71|f
 Topsham|50.686|-3.467|GB|England|71
+Topçambaba Dağı|37.633|28.200|TR|Aydın|70|f
 Topoľníky|47.967|17.790|SK|Trnava Region|70
 Topolovăţu Mare|45.774|21.619|RO|Timiș County|69
 Topleţ|44.797|22.394|RO|Caraș-Severin County|69
@@ -39,17 +42,22 @@ Toppenstedt|53.264|10.115|DE|Lower Saxony|67
 Topton|40.503|-75.701|US|Pennsylvania|66
 Topia|25.211|-106.572|MX|Durango|66
 Topalu|44.544|28.046|RO|Constanța County|66
+Topdalsfjorden|58.157|8.047|NO|Agder|65|f
 Topallı|37.035|30.810|TR|Antalya|65
 Toporzysko|49.625|19.802|PL|Lesser Poland|65
 Topolița|47.168|26.383|RO|Neamț County|64
 Topolná|49.122|17.544|CZ|Zlín|64
 Topaz Ranch Estates|38.736|-119.501|US|Nevada|64
 Toptepe|37.261|41.249|TR|Mardin|63
+Topeka Regional Airport|38.947|-95.674|US|Kansas|63|f
 Topolšica|46.400|15.022|SI|Municipality of Šoštanj|62
 Topaly|47.602|29.298|UA|Odesa|62
 Topana|44.817|24.517|RO|Olt|62
 Topeka|41.539|-85.540|US|Indiana|62
 Töpen|50.391|11.873|DE|Bavaria|61
+Topcliffe Airport|54.206|-1.382|GB|England|61|f
+Toppenish National Wildlife Refuge|46.312|-120.353|US|Washington|61|f
+Topsæ|58.979|7.882|NO|Agder|61|f
 Topory|49.650|29.317|UA|Zhytomyr Oblast|61
 Topol’noye|51.511|84.481|RU|Altai Krai|61
 Topaipí|5.335|-74.303|CO|Cundinamarca|61
@@ -59,8 +67,45 @@ Toprakkale|39.848|42.820|TR|Ağrı|60
 Tópaga|5.760|-72.826|CO|Boyacá|60
 Topusko|45.293|15.972|HR|Sisak-Moslavina|59
 Topliţa|45.683|22.783|RO|Hunedoara County|59
+Toptaş|36.414|30.324|TR|Antalya|58
+Topa de Sus|46.865|22.251|RO|Bihor County|58
+Top-Gallant Isles|-33.715|134.615|AU|South Australia|58|f
+Topaz Mountain|39.709|-113.103|US|Utah|58|f
+Topog Peak|39.887|-118.657|US|Nevada|58|f
+Topoľovka|48.925|21.810|SK|Prešov Region|58
+Topolovac|45.461|16.436|HR|Sisak-Moslavina|57
+Topçam|37.550|28.250|TR|Aydın|57
+Toplu|38.119|39.542|TR|Diyarbakır Province|57
 Topas|41.158|-5.634|ES|Castille and León|57
+Topfstedt|51.267|10.967|DE|Thuringia|57
+Topçular|38.461|40.401|TR|Diyarbakır Province|57
+Topolyne|47.276|35.010|UA|Zaporizhzhia|56
+Töppeln|50.890|12.006|DE|Thuringia|56
+Toporăști|46.693|27.412|RO|Vaslui County|56
+Topoli|49.813|38.157|UA|Luhansk|56
+Toporzysko|53.100|18.292|PL|Kujawsko-Pomorskie|56
+Topoli|50.015|37.915|UA|Kharkiv|56
+Topoli|44.842|33.996|UA|Crimea|56
+Topești|45.906|26.753|RO|Vrancea|55
+Topluca|41.654|32.296|TR|Bartın|55
+Topanga State Park|34.093|-118.587|US|California|54|f
+Topo Island|6.405|2.940|NG||54|f
+Topografov Island|-68.496|78.179|AQ||54|f
+Topsail Hill Preserve State Park|30.367|-86.299|US|Florida|54|f
+Topa de Criș|47.002|22.533|RO|Bihor County|54
 Topólka|52.503|18.712|PL|Kujawsko-Pomorskie|53
+Topaz Road National Park|-17.398|145.701|AU|Queensland|49|f
+Tope de Caixa|16.824|-24.997|CV|São Vicente|49|f
+Tope de Coroa|17.031|-25.294|CV|Porto Novo|49|f
+Topsail Island|34.470|-77.472|US|North Carolina|49|f
+Topside Glacier|-76.700|160.950|AQ||49|f
+Top Notch|43.078|-74.862|US|New York|40|f
+Top of the World|43.816|-71.402|US|New Hampshire|40|f
+Topaz Lake|38.677|-119.532|US|Nevada|40|f
+Topeka Avenue Bridge|39.064|-95.674|US|Kansas|40|f
+Topley Landing Park|54.816|-126.153|CA|British Columbia|40|f
+Topoxte|17.062|-89.424|GT|Petén|40|f
+Topsail Lake|44.694|-63.517|CA|Nova Scotia|40|f
 Topaklı|39.006|34.826|TR|Nevşehir Province|0
 Topçam|40.617|37.771|TR|Ordu|0
 Topo|-3.540|135.537|ID|Central Papua|0

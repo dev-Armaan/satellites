@@ -35,6 +35,8 @@ Cacequi|-29.884|-54.825|BR|Rio Grande do Sul|81
 Cacuia|-22.810|-43.191|BR|Rio de Janeiro|81
 Cacheu|12.274|-16.165|GW|Cacheu|80
 Cacimbinhas|-9.400|-36.990|BR|Alagoas|80
+Čačak-Preljina Airport|43.898|20.434|RS|Central Serbia|80|f
+Cacique Aramare Airport|5.620|-67.606|VE|Amazonas|80|f
 Cachoeira dos Índios|-6.927|-38.674|BR|Paraíba|79
 Cachoeira de Pajeú|-15.967|-41.496|BR|Minas Gerais|79
 Cachoeira Dourada|-18.492|-49.475|BR|Goiás|78
@@ -43,12 +45,14 @@ Cacimbas|-7.211|-37.057|BR|Paraíba|77
 Cacia|40.684|-8.598|PT|Aveiro|77
 Cacalchen|20.984|-89.227|MX|Yucatán|77
 Cacilhas|38.686|-9.149|PT|Setúbal|76
+Cachimbo Airport|-9.334|-54.965|BR|Pará|76|f
 Cacabelos|42.600|-6.724|ES|Castille and León|74
 Çaçe|36.756|60.472|TM|Ahal|74
 Cáceres|7.581|-75.348|CO|Antioquia|74
 Cacique Doble|-27.770|-51.660|BR|Rio Grande do Sul|73
 Cacica|47.633|25.900|RO|Suceava|73
 Cachipay|5.267|-74.567|CO|Cundinamarca|73
+Cache Creek Airport|50.774|-121.321|CA|British Columbia|72|f
 Cacaulândia|-10.339|-62.895|BR|Rondônia|72
 Cacharí|-36.380|-59.502|AR|Buenos Aires|72
 Cachoeira da Prata|-19.524|-44.453|BR|Minas Gerais|71
@@ -58,6 +62,7 @@ Cactus|36.052|-102.002|US|Texas|70
 Cacaloxúchitl|18.787|-98.486|MX|Puebla|70
 Cache|34.630|-98.629|US|Oklahoma|69
 Cactus|27.907|-99.394|US|Texas|69
+Cackleberry Airport|42.424|-83.871|US|Michigan|69|f
 Cacaopera|13.767|-88.083|SV|Morazan|68
 Cachoeira Dourada|-18.515|-49.501|BR|Minas Gerais|67
 Cachi|-25.121|-66.163|AR|Salta|67
@@ -73,16 +78,54 @@ Cacalotán|23.068|-105.842|MX|Sinaloa|65
 Căciulați|44.627|26.173|RO|Ilfov|64
 Cacahuatal|18.831|-96.841|MX|Veracruz|64
 Cactus Flat|32.758|-109.716|US|Arizona|64
+Cache Peak|42.185|-113.661|US|Idaho|63|f
+Cachoeiro de Itapemirim Airport|-20.834|-41.186|BR|Espírito Santo|63|f
 Cácota|7.268|-72.642|CO|Norte de Santander Department|63
 Cachoeira de Goiás|-16.668|-50.647|BR|Goiás|63
 Cacaté|16.845|-92.835|MX|Chiapas|62
 Caccuri|39.226|16.778|IT|Calabria|62
 Cacine|11.117|-15.017|GW|Tombali|61
 Cache Creek|50.810|-121.325|CA|British Columbia|61
+Cacahuamilpa|18.682|-99.506|MX|Guerrero|59
+Cacahuananche|18.192|-99.358|MX|Guerrero|59
+Cacahuatepec|17.396|-98.968|MX|Guerrero|59
 Cachora|-13.512|-72.813|PE|Apurímac Department|58
+Cachoeira de Paulo Afonso|-9.399|-38.202|BR||58|f
+Cacoal Airport|-11.493|-61.452|BR|Rondônia|58|f
+Cactus Range|37.682|-116.826|US|Nevada|58|f
+Cacahuatepec|17.526|-98.766|MX|Guerrero|58
+Čachovice|50.275|14.946|CZ|Central Bohemia|58
+Cacaloc|18.353|-97.099|MX|Puebla|58
+Cacalotepec|17.385|-98.886|MX|Guerrero|58
+Cacahuatengo|20.783|-98.037|MX|Veracruz|57
+Cacachaqui|-11.835|-76.375|PE|Lima region|57
+Cachinche|-6.522|-79.808|PE|Lambayeque|57
+Cacahuatal|17.322|-92.226|MX|Chiapas|56
+Căciulătești|43.938|23.949|RO|Dolj|56
+Cache Bay|46.367|-79.983|CA|Ontario|56
 Cacao|8.760|-80.013|PA|Panamá Oeste Province|56
+Cacahuatalillo|17.815|-92.530|MX|Tabasco|56
+Căciulești|46.964|26.477|RO|Neamț County|56
+Cacaluta|20.167|-103.484|MX|Jalisco|56
+Cactus Forest|32.960|-111.320|US|Arizona|55
+Cacova Ierii|46.544|23.475|RO|Cluj County|55
+Cacahuatepec|16.886|-99.610|MX|Guerrero|55
+Cachivi|19.806|-100.358|MX|Michoacán|55
+Cacahoatales|14.806|-92.204|MX|Chiapas|55
+Ca' Corner|45.559|12.434|IT|Veneto|55
+Čachrov|49.265|13.303|CZ|Plzeň Region|55
+Cachaquito|-4.434|-79.974|PE|Piura|55
+Caçador Airport|-26.791|-50.941|BR|Santa Catarina|54|f
+Cacapon Resort State Park|39.505|-78.317|US|West Virginia|54|f
+Căciulatu|44.314|23.421|RO|Dolj|54
 Cachachi|-7.449|-78.269|PE|Cajamarca Department|51
+Cachalot Peak|-65.648|-62.233|AQ||49|f
 Cacra|-12.813|-75.783|PE|Lima region|45
+Cache La Poudre Wilderness|40.660|-105.449|US|Colorado|40|f
+Cache River National Wildlife Refuge|34.770|-91.381|US|Arkansas|40|f
+Cache River State Natural Area|37.362|-88.956|US|Illinois|40|f
+Cachimbo Lake|-15.742|-64.066|BO|Beni Department|40|f
+Cachoeira da Fumaça|-12.602|-41.453|BR|Bahia|40|f
 Cachorrilla|39.916|-6.669|ES|Extremadura|39
 Cacadu|-31.702|27.233|ZA|Eastern Cape|0
 Cacatachi|-6.463|-76.451|PE|San Martín Department|0

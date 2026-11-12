@@ -4,16 +4,19 @@ Boshan|36.483|117.833|CN|Shandong|104
 Bosque Saúde|-23.609|-46.623|BR|São Paulo|102
 Bosaso|11.284|49.182|SO|Bari|97
 Bossier City|32.516|-93.732|US|Louisiana|97
+Bosporus|41.102|29.061|TR|Istanbul|96|f
 Bossangoa|6.493|17.455|CF|Ouham|95
 Bosse|47.955|37.800|UA|Donetsk|94
 Boston|52.976|-0.027|GB|England|93
 Bosconia|9.971|-73.888|CO|Cesar Department|92
 Bosconia|4.856|-73.982|CO|Cundinamarca|92
 Boseong|34.771|127.080|KR|Jeollanam-do|91
+Bosworth Battlefield|52.597|-1.406|GB|England|90|f
 Bostanlı|38.459|27.097|TR|İzmir Province|89
 Boscoreale|40.773|14.481|IT|Campania|89
 Boshkengash|38.466|68.805|TJ|Dushanbe|87
 Bostānābād|37.846|46.835|IR|East Azerbaijan|87
+Bosten Lake|41.966|87.108|CN|Xinjiang|87|f
 Bossembélé|5.267|17.650|CF|Ombella-M'Poko|85
 Boshrūyeh|33.868|57.429|IR|South Khorasan Province|84
 Bostonia|32.813|-116.944|US|California|84
@@ -32,12 +35,15 @@ Boston|42.629|-78.738|US|New York|78
 Bosa|40.299|8.498|IT|Sardinia|78
 Bosfontein|-25.742|31.618|ZA|Mpumalanga|78
 Bösel|53.004|7.954|DE|Lower Saxony|78
+Boswell Bay Airport|60.423|-146.146|US|Alaska|77|f
 Bosso|13.699|13.310|NE|Diffa|76
 Bosanci|47.583|26.317|RO|Suceava|76
 Boston Spa|53.904|-1.345|GB|England|76
 Bossoroca|-28.730|-54.900|BR|Rio Grande do Sul|75
+Boston Harbor|42.342|-70.966|US|Massachusetts|75|f
 Bosansko Grahovo|44.179|16.364|BA|Federation of B&H|75
 Bostanbükü|41.215|32.688|TR|Karabük Province|75
+Bōsō Peninsula|35.333|140.167|JP|Chiba|73|f
 Boshchorbogh|37.520|68.128|TJ|Khatlon Province|73
 Bošany|48.579|18.249|SK|Trenčín Region|72
 Boscawen|43.315|-71.621|US|New Hampshire|72
@@ -51,6 +57,7 @@ Boston|7.871|126.364|PH|Davao Region|69
 Bošnjaci|45.050|18.756|HR|Vukovar-Srijem|69
 Bosques de la Magdalena|19.358|-98.948|MX|México|69
 Bosconero|45.266|7.766|IT|Piedmont|69
+Bossembélé Airport|5.267|17.642|CF|Ombella-M'Poko|69|f
 Bosham|50.831|-0.854|GB|England|68
 Bosdak|13.400|122.500|PH|Calabarzon|68
 Bostancı|37.177|42.329|TR|Şırnak|68
@@ -72,6 +79,9 @@ Bösdorf|54.140|10.491|DE|Schleswig-Holstein|64
 Bosco Marengo|44.824|8.680|IT|Piedmont|64
 Bost|50.789|4.941|BE|Flanders|64
 Boshnyakovo|49.651|142.176|RU|Sakhalin Oblast|63
+Boscombe Down Airport|51.152|-1.747|GB|England|63|f
+Boston Island|-34.697|135.929|AU|South Australia|63|f
+Boston Peak|48.496|-121.037|US|Washington|63|f
 Bösenbrunn|50.397|12.100|DE|Saxony|63
 Bosc-le-Hard|49.627|1.175|FR|Normandy|63
 Boswell's Corner|38.505|-77.373|US|Virginia|63
@@ -88,19 +98,90 @@ Boswell|40.161|-79.029|US|Pennsylvania|62
 Boshindó|19.919|-99.842|MX|México|61
 Boskamp|52.331|6.128|NL|Overijssel|61
 Bossematié|6.608|-3.442|CI|Comoé District|61
+Bosley Butte|42.209|-124.225|US|Oregon|61|f
+Bossangoa Airport|6.483|17.433|CF|Ouham|61|f
 Bošovice|49.054|16.837|CZ|South Moravian|61
 Bosaro|44.999|11.765|IT|Veneto|61
 Bossière|50.519|4.696|BE|Wallonia|60
 Bosdarros|43.210|-0.362|FR|New Aquitaine|60
+Bosco-Belloro|38.142|16.126|IT|Calabria|60
+Bosco Sant'Ippolito|38.135|16.141|IT|Calabria|60
 Bossico|45.828|10.045|IT|Lombardy|60
 Bosio|44.650|8.793|IT|Piedmont|59
+Bosco-Strisce|38.463|15.939|IT|Calabria|59
+Bosques de la Hacienda|20.652|-100.417|MX|Querétaro|59
+Bosanski Kobaš|45.096|17.726|BA|Srpska|59
+Bosţāq|33.753|58.542|IR|South Khorasan Province|59
+Bosenbach|49.540|7.530|DE|Rheinland-Pfalz|59
+Bossay-sur-Claise|46.832|0.962|FR|Centre-Val de Loire|58
+Boscawen Island|-15.852|-173.747|TO|Vavau|58|f
+Bosche Range|53.300|-118.169|CA|Alberta|58|f
+Bøsdalafossur|62.024|-7.236|FO|Vágar|58|f
+Böshorn|46.199|7.993|CH|Valais|58|f
+Bosset Airport|-7.238|141.107|PG|Western Province|58|f
+Boston Garden|42.366|-71.063|US|Massachusetts|58|f
+Boston Harbor Islands National Recreation Area|42.262|-70.876|US|Massachusetts|58|f
+Boston Neck|42.353|-71.066|US|Massachusetts|58|f
+Boskant|51.550|5.421|NL|North Brabant|58
+Bosc-Guérard-Saint-Adrien|49.541|1.117|FR|Normandy|58
+Boswell|40.521|-87.378|US|Indiana|58
 Bosentino-Migazzone|46.002|11.223|IT|Trentino-Alto Adige|57
+Bosselshausen|48.805|7.509|FR|Grand Est|57
+Bosco|44.623|10.671|IT|Emilia-Romagna|57
+Boswell|34.027|-95.869|US|Oklahoma|57
+Boscoteni|47.508|26.870|RO|Botoșani County|57
+Bösleben-Wüllersleben|50.833|11.067|DE|Thuringia|57
+Bosques la Florida|22.149|-100.856|MX|San Luis Potosí|57
+Boscastle|50.684|-4.693|GB|England|56
+Boscoso|24.028|-106.990|MX|Sinaloa|56
+Boßdorf|51.989|12.685|DE|Saxony-Anhalt|56
+Bosques del Mineral|20.058|-98.775|MX|Hidalgo|56
+Bossey|46.150|6.158|FR|Auvergne-Rhône-Alpes|56
 Boschi Sant'Anna|45.218|11.356|IT|Veneto|56
+Bosgouet|49.354|0.856|FR|Normandy|55
+Boston|53.031|-8.932|IE|Munster|55
+Boston|40.312|-79.823|US|Pennsylvania|55
+Bošamarin|45.520|13.736|SI|Urban Municipality of Koper|55
+Boșneagu|44.238|26.934|RO|Călărași County|55
+Boschetto|45.234|7.905|IT|Piedmont|55
+Bosville|49.755|0.688|FR|Normandy|54
 Bossolasco|44.528|8.050|IT|Piedmont|54
+Bosher Dam|37.560|-77.575|US|Virginia|54|f
+Bosque Del Apache National Wildlife Refuge|33.800|-106.874|US|New Mexico|54|f
+Boston African American National Historic Site|42.358|-71.071|US|Massachusetts|54|f
+Boston Massacre Marker|42.359|-71.057|US|Massachusetts|54|f
+Bossuit|50.749|3.408|BE|Flanders|54
+Boschi|44.692|11.557|IT|Emilia-Romagna|54
+Bosguérard-de-Marcouville|49.271|0.835|FR|Normandy|54
+Boston|37.609|-75.843|US|Virginia|54
+Boscobel Airport|43.157|-90.681|US|Wisconsin|49|f
+Bosner Island|-66.457|110.609|AQ||49|f
+Bosque Peak|34.766|-106.430|US|New Mexico|49|f
+Boss Peak|-71.867|166.250|AQ||49|f
+Bostalsee|49.566|7.072|DE|Saarland|49|f
+Boston Bay|-34.699|135.886|AU|South Australia|49|f
+Boston Bridge|40.313|-79.828|US|Pennsylvania|49|f
+Bosbüll|54.817|8.867|DE|Schleswig-Holstein|46
+Bös Fulen|46.967|8.946|CH|Schwyz|40|f
+Boschert Glacier|-74.717|-111.500|AQ||40|f
+Bösentrift|46.043|7.803|CH|Valais|40|f
+Boshamer Stadium|35.907|-79.043|US|North Carolina|40|f
+Boshkung Lake|45.064|-78.727|CA|Ontario|40|f
+Bosque del Recuerdo|40.412|-3.687|ES|Madrid|40|f
+Boston and Providence Railroad Bridge|41.835|-71.362|US|Rhode Island|40|f
+Boston Building|39.747|-104.993|US|Colorado|40|f
+Boston Common|42.355|-71.066|US|Massachusetts|40|f
+Boston Glacier|48.506|-121.034|US|Washington|40|f
+Boston National Historical Park|42.373|-71.056|US|Massachusetts|40|f
+Boston Tea Party Museum|42.351|-71.049|US|Massachusetts|40|f
+Boston University Bridge|42.353|-71.111|US|Massachusetts|40|f
 Bosnasco|45.064|9.357|IT|Lombardy|38
 Bosiljevo|45.413|15.288|HR|Karlovac|33
 Bosia|44.602|8.147|IT|Piedmont|29
 Bosanski Petrovac|44.555|16.369|BA|Federation of B&H|12
 Bo‘ston Shahri|41.846|60.947|UZ|Karakalpakstan|0
+Bosen|-9.719|124.288|ID|East Nusa Tenggara|0
+Boshi|34.770|110.051|CN|Shaanxi|0
+Bosiko|-8.810|120.991|ID|East Nusa Tenggara|0
 Bosilegrad|42.501|22.472|RS|Central Serbia|0
 Bosnik|-1.157|136.228|ID|Papua|0

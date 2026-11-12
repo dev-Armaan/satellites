@@ -8,6 +8,7 @@ Haridwar|29.948|78.160|IN|Uttarakhand|105
 Harburg|53.461|9.984|DE|Hamburg|105
 Harar|9.314|42.118|ET|Harari|104
 Harari|9.250|42.167|ET||104|r
+Harvard University|42.377|-71.117|US|Massachusetts|104|f
 Harunabad|29.612|73.138|PK|Punjab|104
 Harrow|51.578|-0.332|GB|England|103
 Hardoī|27.395|80.132|IN|Uttar Pradesh|102
@@ -31,12 +32,15 @@ Harbel|6.247|-10.356|LR|Margibi County|92
 Ḩarastā|33.559|36.365|SY|Rif-dimashq|91
 Harper|4.378|-7.711|LR|Maryland County|91
 Harrismith|-28.273|29.129|ZA|Free State|90
+Harry Reid International Airport|36.085|-115.151|US|Nevada|90|f
 Haruta|35.142|136.812|JP|Aichi|90
 Ḩarir|36.551|44.353|IQ|Erbil|90
 Hartbeestfontein-A|-25.441|27.511|ZA|North West|90
 Harpenden|51.817|-0.357|GB|England|90
+Hartsfield-Jackson Atlanta International Airport|33.641|-84.423|US|Georgia|90|f
 Harker Heights|31.084|-97.660|US|Texas|89
 Harrison|40.969|-73.713|US|New York|89
+Harbin Taiping International Airport|45.623|126.250|CN|Heilongjiang|89|f
 Hartbeespoort|-25.729|27.870|ZA|North West|89
 Harelbeke|50.853|3.309|BE|Flanders|88
 Harūr|12.053|78.480|IN|Tamil Nadu|88
@@ -61,12 +65,15 @@ Harvestehude|53.578|9.989|DE|Hamburg|85
 Harlesden|51.538|-0.250|GB|England|85
 Harringay|51.582|-0.100|GB|England|84
 Harpen|51.498|7.288|DE|North Rhine-Westphalia|84
+Harz|51.756|10.635|DE|Saxony-Anhalt|84|f
 Hartley|51.387|0.304|GB|England|84
 Harlingen|53.175|5.422|NL|Friesland|84
 Harnoli|32.279|71.554|PK|Punjab|84
+Harrisburg International Airport|40.193|-76.763|US|Pennsylvania|84|f
 Haripād|9.284|76.455|IN|Kerala|84
 Harare Western Suburbs|-17.841|30.877|ZW|Mashonaland West|84
 Harrison|40.746|-74.156|US|New Jersey|84
+Har Us Nuur|48.000|92.167|MN|Hovd|83|f
 Harrisburg|35.324|-80.658|US|North Carolina|83
 Hartselle|34.443|-86.935|US|Alabama|83
 Harbour Landing|50.407|-104.652|CA|Saskatchewan|83
@@ -74,6 +81,7 @@ Hartford|43.318|-88.379|US|Wisconsin|83
 Harrow Weald|51.611|-0.337|GB|England|83
 Harnai|30.101|67.938|PK|Balochistan|83
 Hara-machida|35.533|139.450|JP|Kanagawa|83
+Harlech Castle|52.860|-4.109|GB|Wales|83|f
 Harper Woods|42.433|-82.924|US|Michigan|83
 Harran|36.860|39.031|TR|Şanlıurfa|83
 Hara|34.043|133.927|JP|Tokushima|83
@@ -108,6 +116,7 @@ Harleysville|40.280|-75.387|US|Pennsylvania|79
 Hartland|43.105|-88.342|US|Wisconsin|79
 Harvard|42.422|-88.614|US|Illinois|79
 Haraiya|26.795|82.464|IN|Uttar Pradesh|79
+Hardturm|47.393|8.505|CH|Zurich|79|f
 Hariāna|31.635|75.839|IN|Punjab|79
 Harrisburg|37.738|-88.541|US|Illinois|79
 Haraze|9.940|20.905|TD|Salamat|79
@@ -135,12 +144,16 @@ Harbour Place|22.303|114.186|HK|Kowloon City|77
 Harmony Garden|22.266|114.249|HK|Eastern District|77
 Harjavalta|61.317|22.133|FI|Satakunta|76
 Harefield|51.603|-0.485|GB|England|76
+Haradh Airport|24.102|49.221|SA|Eastern Province|76|f
 Harriman|35.934|-84.552|US|Tennessee|76
 Harrisville|41.281|-111.988|US|Utah|76
 Harvard|42.500|-71.583|US|Massachusetts|76
 Hartford City|40.451|-85.370|US|Indiana|76
 Harrah|35.490|-97.164|US|Oklahoma|75
 Hartstown|53.393|-6.427|IE|Leinster|75
+Har Tsin|30.832|35.057|IL|Southern District|75|f
+Harrell Field|33.623|-92.763|US|Arkansas|75|f
+Harvard Museum of the Ancient Near East|42.378|-71.114|US|Massachusetts|75|f
 Harburg|48.787|10.689|DE|Bavaria|75
 Hart|48.265|14.257|AT|Upper Austria|75
 Harris Hill|42.965|-78.678|US|New York|75
@@ -157,6 +170,8 @@ Hârtieşti|45.117|25.100|RO|Arges|74
 Haría|29.146|-13.500|ES|Canary Islands|74
 Harrington Park|40.984|-73.980|US|New Jersey|74
 Hartmannsdorf|50.886|12.799|DE|Saxony|74
+Haraiki|-17.467|-143.450|PF|Tuamotu-Gambier Islands|73|f
+Haré Gilboa‘|32.486|35.419|IL|Northern District|73|f
 Haralāpura|14.533|75.809|IN|Karnataka|73
 Harina|23.808|86.207|IN|Jharkhand|73
 Harpstedt|52.908|8.590|DE|Lower Saxony|73
@@ -173,6 +188,8 @@ Hărman|45.717|25.683|RO|Brașov County|73
 Hario|36.120|137.843|JP|Nagano|73
 Harrisville|46.118|-64.722|CA|New Brunswick|72
 Hartberg|47.283|15.967|AT|Styria|72
+Har Tir‘an|32.796|35.374|IL|Northern District|72|f
+Harar Meda Airport|8.715|39.006|ET|Oromiya|72|f
 Harlev|56.141|9.996|DK|Central Jutland|72
 Hardwick|33.068|-83.223|US|Georgia|72
 Harbison Canyon|32.820|-116.830|US|California|72
@@ -181,6 +198,9 @@ Harta|46.698|19.031|HU|Bács-Kiskun|71
 Harthill|55.861|-3.752|GB|Scotland|71
 Harrisburg|44.274|-123.171|US|Oregon|71
 Harrington|38.924|-75.578|US|Delaware|71
+Har Meron|32.998|35.413|IL|Northern District|71|f
+Hara Laht|59.612|25.634|EE|Harjumaa|71|f
+Harøya|62.770|6.442|NO|Møre og Romsdal|71|f
 Hareid|62.370|6.029|NO|Møre og Romsdal|71
 HarbourFront|1.265|103.820|SG||71
 Hārūnī|32.392|50.570|IR|Chaharmahal and Bakhtiari|71
@@ -189,6 +209,9 @@ Harskamp|52.130|5.753|NL|Gelderland|71
 Harbour Green|22.321|114.159|HK|Yau Tsim Mong District|70
 Har Adar|31.828|35.131|IL|Jerusalem|70
 Harvey|-33.079|115.915|AU|Western Australia|70
+Haramsøya|62.666|6.189|NO|Møre og Romsdal|70|f
+Hard Rock Stadium|25.958|-80.239|US|Florida|70|f
+Harku Järv|59.415|24.617|EE|Harjumaa|70|f
 Harthausen|49.294|8.345|DE|Rheinland-Pfalz|70
 Hartford|43.623|-96.943|US|South Dakota|70
 Hargesheim|49.862|7.829|DE|Rheinland-Pfalz|70
@@ -203,6 +226,10 @@ Hârseşti|44.533|24.783|RO|Arges|69
 Harbour Grace|47.686|-53.233|CA|Newfoundland and Labrador|69
 Harveys Lake|41.383|-76.025|US|Pennsylvania|69
 Hartford|37.451|-86.909|US|Kentucky|69
+Har Naẖum|32.883|35.556|IL|Northern District|69|f
+Haram Maydūm|29.388|31.157|EG|Beni Suweif|69|f
+Harilaid|58.972|23.082|EE|Lääne|69|f
+Harstine Island|47.232|-122.886|US|Washington|69|f
 Hardwick|42.350|-72.200|US|Massachusetts|69
 Harlem|26.738|-80.951|US|Florida|68
 Hărmăneasa|47.200|26.867|RO|Iași County|68
@@ -222,6 +249,10 @@ Harrison|13.450|120.433|PH|Mimaropa|67
 Hardinsburg|37.780|-86.461|US|Kentucky|67
 Harrisburg|35.564|-90.717|US|Arkansas|67
 Harlington|51.963|-0.492|GB|England|67
+Har Ha’Ari|32.955|35.373|IL|Northern District|67|f
+Har Karkom|30.286|34.745|IL|Southern District|67|f
+Harihar Airport|14.535|75.789|IN|Karnataka|67|f
+Harkness Tower|41.310|-72.930|US|Connecticut|67|f
 Hartford|43.364|-73.394|US|New York|67
 Hârşeni|45.750|25.017|RO|Brașov County|67
 Harbury|52.235|-1.457|GB|England|67
@@ -244,6 +275,15 @@ Harbour Breton|47.483|-55.798|CA|Newfoundland and Labrador|66
 Harichovce|48.962|20.583|SK|Košice Region|66
 Hardwick Village|53.274|-1.043|GB|England|65
 Hartwell|52.146|-0.854|GB|England|65
+Har Herẕl|31.774|35.181|IL|Jerusalem|65|f
+Har Nuur|48.100|93.200|MN||65|f
+Harcuvar Mountains|33.942|-113.584|US|Arizona|65|f
+Hare Island|56.933|24.118|LV|Riga|65|f
+Hareø|70.417|-54.883|GL|Avannaata|65|f
+Hario Jima|33.110|129.768|JP|Nagasaki|65|f
+Harrisburg-Raleigh Airport|37.812|-88.548|US|Illinois|65|f
+Harry L. Englebright Lake|39.244|-121.269|US|California|65|f
+Hartashen Megalithic Avenue|41.014|43.932|AM|Shirak|65|f
 Harly|49.838|3.310|FR|Hauts-de-France|65
 Hartenholm|53.899|10.060|DE|Schleswig-Holstein|65
 Harwich Center|41.692|-70.069|US|Massachusetts|65
@@ -276,6 +316,21 @@ Harbor Hills|39.937|-82.435|US|Ohio|64
 Hartington|42.623|-97.264|US|Nebraska|64
 Harina Pashdal Bar|21.902|87.706|IN|West Bengal|64
 Harplinge|56.745|12.728|SE|Halland|64
+Har Ramon|30.500|34.631|IL|Southern District|63|f
+Haramosh|35.840|74.897|PK|Gilgit-Baltistan|63|f
+Hardangerfjord|60.167|6.000|NO|Vestland|63|f
+Hardy Dam|43.488|-85.632|US|Michigan|63|f
+Hare Island|8.774|78.198|IN|Tamil Nadu|63|f
+Hareidlandet|62.350|5.950|NO|Møre og Romsdal|63|f
+Harilaid|58.479|21.863|EE|Saare|63|f
+Härjedalen Sveg Airport|62.050|14.433|SE|Jämtland|63|f
+Harquahala Mountains|33.812|-113.364|US|Arizona|63|f
+Harrison County Airport|40.237|-81.013|US|Ohio|63|f
+Harrison Lake|49.551|-121.846|CA|British Columbia|63|f
+Harrisville Airport|44.670|-83.303|US|Michigan|63|f
+Harrower Peak|43.094|-109.595|US|Wyoming|63|f
+Hart Island|40.853|-73.770|US|New York|63|f
+Harward Øer|77.511|-66.472|GL|Avannaata|63|f
 Harinārāyanpur|22.600|88.112|IN|West Bengal|63
 Hardwick|41.055|-74.932|US|New Jersey|63
 Hartmannsdorf|50.758|12.427|DE|Saxony|63
@@ -306,6 +361,26 @@ Hartheim|48.281|14.114|AT|Upper Austria|61
 Harris|45.586|-92.975|US|Minnesota|61
 Hărmăneștii Vechi|47.277|26.814|RO|Iași County|61
 Hartkirchen|48.363|14.004|AT|Upper Austria|61
+Har H̱arif|30.494|34.561|IL|Southern District|61|f
+Har Nuur|48.333|96.083|MN|Dzabkhan|61|f
+Hara|59.586|25.625|EE|Harjumaa|61|f
+Harbardsbreen|61.678|7.653|NO|Vestland|61|f
+Harbor Springs Municipal Airport|45.426|-84.913|US|Michigan|61|f
+Harbottle Castle|55.337|-2.108|GB|England|61|f
+Hårfagrehaugen|78.911|28.178|SJ|Svalbard|61|f
+Harmaja|60.105|24.974|FI|Uusimaa|61|f
+Harney Lake|43.241|-119.126|US|Oregon|61|f
+Harris County Airport|32.842|-84.879|US|Georgia|61|f
+Harry Island|-64.122|-61.999|AQ||61|f
+Harry Mwanga Nkumbula International Airport|-17.821|25.820|ZM|Southern Province|61|f
+Harry P Williams Memorial Airport|29.712|-91.334|US|Louisiana|61|f
+Harsens Island|42.589|-82.589|US|Michigan|61|f
+Hartford-Brainard Airport|41.741|-72.650|US|Connecticut|61|f
+Hartmannswillerkopf|47.861|7.161|FR|Grand Est|61|f
+Hartsville Regional Airport|34.405|-80.118|US|South Carolina|61|f
+Harun Thohir Airport|-5.724|112.679|ID|East Java|61|f
+Harvard Bridge|42.354|-71.091|US|Massachusetts|61|f
+Harvey Young Airport|36.141|-95.826|US|Oklahoma|61|f
 Harleigh|40.981|-75.971|US|Pennsylvania|61
 Hărțăgani|46.050|22.922|RO|Hunedoara County|61
 Harduf|32.763|35.175|IL|Northern District|61
@@ -317,35 +392,385 @@ Hart|34.385|-102.116|US|Texas|60
 Hardinghen|50.804|1.821|FR|Hauts-de-France|60
 Hartavan|40.478|44.400|AM|Aragatsotn|60
 Hartford|44.373|-70.347|US|Maine|60
+Harmony|43.555|-92.010|US|Minnesota|60
+Harmony|44.974|-69.546|US|Maine|60
+Harre|50.352|5.657|BE|Wallonia|60
+Harmony|41.888|-71.597|US|Rhode Island|60
+Harvard|40.619|-98.097|US|Nebraska|60
 Harlowton|46.436|-109.834|US|Montana|60
+Harrison|37.797|-89.337|US|Illinois|60
+Hare Bay|48.850|-54.015|CA|Newfoundland and Labrador|60
+Harcourt|49.167|0.785|FR|Normandy|60
 Hardin|39.157|-90.618|US|Illinois|59
+Harby|52.873|-0.896|GB|England|59
+Hartzviller|48.669|7.086|FR|Grand Est|59
+Hartmanice|49.169|13.455|CZ|Plzeň Region|59
+Harrington|44.619|-67.810|US|Maine|59
+Harmstorf|53.348|9.987|DE|Lower Saxony|59
+Hartland|50.994|-4.481|GB|England|59
+Harriston|38.217|-78.832|US|Virginia|59
+Hartland|46.300|-67.517|CA|New Brunswick|59
+Harskirchen|48.934|7.037|FR|Grand Est|59
+Harwick|40.557|-79.805|US|Pennsylvania|59
+Harcourt|-37.000|144.260|AU|Victoria|59
+Harbutowice|49.779|18.808|PL|Silesia|59
+Harrisville|41.137|-80.009|US|Pennsylvania|59
+Harmondsworth|51.488|-0.478|GB|England|59
+Hargill|26.443|-98.014|US|Texas|59
+Hartenfels|50.574|7.787|DE|Rheinland-Pfalz|59
+Hărănglab|46.305|24.415|RO|Mureș County|59
+Hardin|30.152|-94.739|US|Texas|59
+Harmony|40.801|-80.127|US|Pennsylvania|59
 Harasiuki|50.475|22.473|PL|Subcarpathia|59
+Härryda|57.654|12.363|SE|Västra Götaland|59
+Hartmannsdorf|50.961|11.976|DE|Thuringia|59
+Harrietsfield|44.570|-63.635|CA|Nova Scotia|59
+H̱arutsim|32.228|34.865|IL|Central District|59
+Hardert|50.517|7.517|DE|Rheinland-Pfalz|59
+Harmanec|48.794|19.081|SK|Banská Bystrica Region|58
+Harmignies|50.406|4.017|BE|Wallonia|58
+Hardinvast|49.578|-1.649|FR|Normandy|58
+Harold|30.659|-86.880|US|Florida|58
+Harlem|48.533|-108.784|US|Montana|58
+Hartland|44.883|-69.448|US|Maine|58
+Harahan Bridge|35.129|-90.076|US|Arkansas|58|f
+Harbin Mountain|38.792|-122.646|US|California|58|f
+Harbour Island|25.500|-76.633|BS|Harbour Island|58|f
+Harder Stadium|34.420|-119.854|US|California|58|f
+Harding Lake|64.423|-146.855|US|Alaska|58|f
+Harding Mountain|47.528|-120.986|US|Washington|58|f
+Hardy Peninsula|-55.419|-68.401|CL|Region of Magallanes|58|f
+Hare Island|51.496|-9.433|IE|Munster|58|f
+Harewood Castle|53.906|-1.512|GB|England|58|f
+Harmil|16.517|40.150|ER||58|f
+Harmonie State Park|38.064|-87.953|US|Indiana|58|f
+Harpon Bay|-54.267|-36.617|GS||58|f
+Harris Mountain|36.241|-115.611|US|Nevada|58|f
+Harrison Island|39.135|-77.522|US|Maryland|58|f
+Harrison Stickle|54.457|-3.109|GB|England|58|f
+Harry Riggs Albany Regional Airport|-34.946|117.808|AU|Western Australia|58|f
+Harry W Nice Memorial Bridge|38.362|-76.997|US|Maryland|58|f
+Harstad/Narvik Airport, Evenes|68.491|16.678|NO|Nordland|58|f
+Hart Island|-32.644|133.137|AU|South Australia|58|f
+Hart Island|48.486|-122.260|US|Washington|58|f
+Hart Mountain|52.481|-101.425|CA|Manitoba|58|f
+Hårteigen|60.193|7.069|NO|Vestland|58|f
+Harter Fell|54.476|-2.835|GB|England|58|f
+Hartevatn|59.538|7.348|NO|Agder|58|f
+Hartford Municipal Airport|43.349|-88.394|US|Wisconsin|58|f
+Hartheim Euthanasia Centre|48.281|14.114|AT|Upper Austria|58|f
+Hartley Castle|54.469|-2.337|GB|England|58|f
+Harvey Island|-11.968|143.263|AU|Queensland|58|f
+Harveys Island|31.877|-81.128|US|Georgia|58|f
+Harbavichy|53.818|30.700|BY|Mogilev|58
 Hartl|47.183|15.917|AT|Styria|58
 Hart im Zillertal|47.351|11.865|AT|Tyrol|58
+Harwood|46.979|-96.881|US|North Dakota|58
+Harkujärve|59.414|24.601|EE|Harjumaa|58
+Haraucourt|49.623|4.962|FR|Grand Est|58
+Harlaxton|52.884|-0.688|GB|England|58
+Harku|59.133|24.371|EE|Harjumaa|58
+Harlösa|55.717|13.526|SE|Skåne|58
+Hargimont|50.188|5.308|BE|Wallonia|58
+Hartford|41.459|-93.405|US|Iowa|58
+Hardy|36.316|-91.483|US|Arkansas|58
+Harfsen|52.208|6.297|NL|Gelderland|58
+Hărpășești|47.150|27.282|RO|Iași County|57
+Harmsdorf|54.240|10.833|DE|Schleswig-Holstein|57
+Harzhis|39.434|46.222|AM|Syunik|57
+Hârlești|46.817|26.883|RO|Bacău County|57
 Harku|59.386|24.572|EE|Harjumaa|57
+Harbo|60.100|17.200|SE|Uppsala|57
+Harmston|53.148|-0.548|GB|England|57
+Hărnicești|47.782|23.887|RO|Maramureş|57
+Harkakötöny|46.463|19.608|HU|Bács-Kiskun|57
+Hartashen|39.484|46.381|AM|Syunik|57
+Hartpury|51.924|-2.293|GB|England|57
+Häradsbygden|60.700|15.033|SE|Dalarna|57
+Harleyville|33.215|-80.448|US|South Carolina|57
+Harsin|50.173|5.348|BE|Wallonia|57
+Hartrandt|42.887|-106.348|US|Wyoming|57
+Harrodsburg|39.013|-86.545|US|Indiana|57
+Haren|51.802|5.585|NL|North Brabant|57
+Harxbüttel|52.339|10.484|DE|Lower Saxony|57
+Harbarnsen|51.983|9.967|DE|Lower Saxony|57
+Ḩarabdeh|36.624|52.296|IR|Māzandarān|57
+Harīsān|34.911|50.401|IR|Markazi|57
+Hartmannswiller|47.862|7.216|FR|Grand Est|57
 Haringsee|48.193|16.787|AT|Lower Austria|57
+Hărmăneștii Noi|47.253|26.799|RO|Iași County|57
+Hárskút|47.188|17.817|HU|Veszprém|56
+Harra|50.417|11.683|DE|Thuringia|56
+Haraucourt|48.662|6.363|FR|Grand Est|56
+Harmony|39.537|-87.106|US|Indiana|56
+Harts|38.031|-82.129|US|West Virginia|56
+Hârsova|46.671|27.546|RO|Vaslui County|56
+Harndrup|55.467|10.022|DK|South Denmark|56
+Hartford|35.023|-94.381|US|Arkansas|56
+Hartwick|42.660|-75.049|US|New York|56
+Harrah|46.404|-120.544|US|Washington|56
+Hart bei Eggersdorf|47.147|15.571|AT|Styria|56
+Harrisville|44.152|-75.321|US|New York|56
+Harmęże|50.021|19.162|PL|Lesser Poland|56
+Harol|48.152|6.250|FR|Grand Est|56
+Harrisville|-27.811|152.665|AU|Queensland|56
+Harrisville|42.680|-75.463|US|New York|56
+Hārūnābād|34.998|48.394|IR|Hamadan Province|56
+Hardin|36.765|-88.295|US|Kentucky|56
+Hartford City|39.004|-81.989|US|West Virginia|56
+Haret|45.919|27.210|RO|Vrancea|56
 Hartville|37.251|-92.510|US|Missouri|56
+Harmånger|61.928|17.218|SE|Gävleborg|55
+Harlange|49.931|5.790|LU|Wiltz|55
+Haramont|49.278|3.061|FR|Hauts-de-France|55
+Harbach|50.863|7.846|DE|Rheinland-Pfalz|55
+Harbor Hills|40.791|-73.747|US|New York|55
+Hargicourt|49.961|3.179|FR|Hauts-de-France|55
+Harmony|35.956|-80.772|US|North Carolina|55
+Hardivillers|49.617|2.223|FR|Hauts-de-France|55
+Hartvíkovice|49.171|16.090|CZ|Vysocina|55
+Harangān|26.142|57.247|IR|Hormozgan|55
+Harshyne|45.215|33.592|UA|Crimea|55
+Harveysburg|39.504|-84.010|US|Ohio|55
+Harmanlı|37.729|40.828|TR|Diyarbakır Province|55
+Hararit|32.846|35.368|IL|Northern District|55
+Hardin|39.271|-93.834|US|Missouri|55
 Harmannsdorf|48.397|16.372|AT|Lower Austria|55
+Hartley|35.886|-102.397|US|Texas|55
+Harkabuz|49.538|19.836|PL|Lesser Poland|55
+Harich|52.902|5.564|NL|Friesland|54
+Hartman|35.433|-93.615|US|Arkansas|54
+Harmanlı|40.717|43.207|TR|Kars Province|54
+Har Arbel|32.824|35.499|IL|Northern District|54|f
+Haramukh|34.402|74.910|IN|Jammu and Kashmir|54|f
+Harbor Island|32.388|-80.453|US|South Carolina|54|f
+Harbour Island|27.934|-82.450|US|Florida|54|f
+Harchenko Industrial Airport|45.080|-122.924|US|Oregon|54|f
+Harding Icefield|60.018|-149.986|US|Alaska|54|f
+Hardy Bridge|47.167|-111.834|US|Montana|54|f
+Hardy Lake|38.791|-85.716|US|Indiana|54|f
+Hardy Rocks|-66.283|-67.283|AQ||54|f
+Hardy-Anders Field Natchez-Adams County Airport|31.614|-91.297|US|Mississippi|54|f
+Harker Glacier|-54.367|-36.517|GS||54|f
+Harperrig Reservoir|55.833|-3.450|GB|Scotland|54|f
+Harpersville Bridge|41.756|-80.944|US|Ohio|54|f
+Harrell Prairie Botanical Area|32.336|-89.440|US|Mississippi|54|f
+Harriman and West Airport|42.696|-73.170|US|Massachusetts|54|f
+Harrington Bay|44.533|-67.818|US|Maine|54|f
+Harris Beach State Park|42.067|-124.307|US|Oregon|54|f
+Harris County Heritage Society Museum|29.759|-95.371|US|Texas|54|f
+Harris Rock|-62.951|-56.361|AQ||54|f
+Harrison County Airport|32.521|-94.310|US|Texas|54|f
+Harrower Glacier|43.100|-109.588|US|Wyoming|54|f
+Hart Memorial Unit|35.449|-118.911|US|California|54|f
+Hart Mountain|42.399|-119.781|US|Oregon|54|f
+Hart Rock|-60.666|-44.368|AQ||54|f
+Hartlebury Castle|52.339|-2.242|GB|England|54|f
+Hartree, Cape|-60.783|-44.716|AQ||54|f
+Hartselle-Morgan County Regional Airport|34.408|-86.932|US|Alabama|54|f
+Hartwick Pines State Park|44.741|-84.671|US|Michigan|54|f
+Hartwood Airport|38.485|-77.613|US|Virginia|54|f
+Harvard Glacier|61.307|-147.666|US|Alaska|54|f
+Harvest Cay|16.479|-88.402|BZ|Stann Creek|54|f
+Harvey Taylor Bridge|40.263|-76.897|US|Pennsylvania|54|f
+Harvey's Acres Airport|45.439|-122.888|US|Oregon|54|f
+Harrison|42.427|-89.192|US|Illinois|54
+Hardebek|53.989|9.868|DE|Schleswig-Holstein|54
+Härad|59.361|16.903|SE|Södermanland|54
+Hargnies|50.020|4.791|FR|Grand Est|54
+Harmantepe|37.702|41.008|TR|Mardin|54
 Harrisville|44.656|-83.295|US|Michigan|53
+Härtlingen|50.524|7.916|DE|Rheinland-Pfalz|53
+Harschbach|50.573|7.597|DE|Rheinland-Pfalz|53
+Hartmannsdorf|50.909|12.006|DE|Thuringia|51
 Harrisonburg|31.772|-91.822|US|Louisiana|51
 Hardbakke|61.076|4.841|NO|Vestland|50
+Hara laht|59.105|23.521|EE|Lääne|49|f
+Harahorn|60.939|8.494|NO|Buskerud|49|f
+Harbord Glacier|-75.917|162.400|AQ||49|f
+Harbord Glacier Tongue|-75.917|162.833|AQ||49|f
+Harbour Glacier|-64.815|-63.405|AQ||49|f
+Harbour Islets|-40.640|144.730|AU|Tasmania|49|f
+Harcourt Island|-54.502|-35.995|GS||49|f
+Hardangerbrua|60.473|6.837|NO|Vestland|49|f
+Hardap Dam|-24.497|17.839|NA|Hardap Region|49|f
+Harding Mine|36.193|-105.794|US|New Mexico|49|f
+Hardwicke Bay|-34.933|137.367|AU|South Australia|49|f
+Hare Peak|-84.983|174.283|AQ||49|f
+Hareidlandet|62.260|5.873|NO|Møre og Romsdal|49|f
+Hargreaves Glacier|-69.769|74.520|AQ||49|f
+Hariot Glacier|-69.005|-66.261|AQ||49|f
+Harischandra Range|19.500|73.500|IN|Maharashtra|49|f
+Harischandragarh|19.386|73.778|IN|Maharashtra|49|f
+Harker, Mount|-77.300|162.083|AQ||49|f
+Harkness, Mount|-86.067|-150.600|AQ||49|f
+Harlin Glacier|-70.883|160.833|AQ||49|f
+Harlosh Island|57.362|-6.526|GB|Scotland|49|f
+Harmer Glacier|-54.776|-36.257|GS||49|f
+Haro|25.492|66.043|PK|Balochistan|49|f
+Harp Glacier|-77.533|163.233|AQ||49|f
+Harper Peak|-54.117|-36.750|GS||49|f
+Harpeth Island|36.294|-87.114|US|Tennessee|49|f
+Harriman Dam|42.793|-72.915|US|Vermont|49|f
+Harrington Sound|32.331|-64.722|BM||49|f
+Harris Lake|-32.127|145.163|AU|New South Wales|49|f
+Harris Ledge|-77.467|161.433|AQ||49|f
+Harris Peak|-64.590|-61.770|AQ||49|f
+Harris Peninsula|-71.480|-74.152|AQ||49|f
+Harris Rift Mountain|43.805|-74.085|US|New York|49|f
+Harriss Ridge|-70.141|65.111|AQ||49|f
+Harrop Island|-67.267|46.850|AQ||49|f
+Harstena|58.250|17.017|SE|Östergötland|49|f
+Hart Glacier|-77.500|162.383|AQ||49|f
+Harter Hill|42.920|-74.952|US|New York|49|f
+Hartley Bay|53.423|-129.248|CA|British Columbia|49|f
+Hartshorne Island|-64.779|-64.368|AQ||49|f
+Hartstene Bugt|78.267|-72.717|GL|Avannaata|49|f
+Hartz Mountains National Park|-43.230|146.750|AU|Tasmania|49|f
+Hartz Peak|-43.245|146.764|AU|Tasmania|49|f
+Harvard Square|42.333|-71.118|US|Massachusetts|49|f
+Harvard Tarn|-77.567|163.133|AQ||49|f
+Harvard University Herbaria|42.379|-71.115|US|Massachusetts|49|f
+Harvey Islands|-67.717|45.550|AQ||49|f
+Harvey Peak|-79.217|157.017|AQ||49|f
+Harvey Ridge|-70.996|65.297|AQ||49|f
 Harrison|42.687|-103.883|US|Nebraska|48
+Harzungen|51.556|10.807|DE|Thuringia|47
+Harmsdorf|53.701|10.726|DE|Schleswig-Holstein|46
+Harscheid|50.460|6.892|DE|Rheinland-Pfalz|44
+Harangi Reservoir|12.492|75.906|IN|Karnataka|40|f
+Harbaqa Dam|34.246|37.628|SY|Homs|40|f
+Harbledown Island|50.572|-126.592|CA|British Columbia|40|f
+Harbor Hill|42.364|-75.720|US|New York|40|f
+Harbor Hill|40.798|-73.639|US|New York|40|f
+Harbor Island|32.725|-117.206|US|California|40|f
+Harbor Island|47.580|-122.352|US|Washington|40|f
+Harbor Island National Wildlife Refuge|46.047|-83.758|US|Michigan|40|f
+Harbour - Dudgeon Lakes Park|51.567|-119.169|CA|British Columbia|40|f
+Harbour Centre|49.285|-123.112|CA|British Columbia|40|f
+Harbybrow Tower|54.762|-3.257|GB|England|40|f
+Hardberg|49.537|8.806|DE|Hesse|40|f
+Harderkulm|46.697|7.852|CH|Bern|40|f
+Hardiman Peak|-85.017|-169.383|AQ||40|f
+Harding Creek|46.467|-63.549|CA|Prince Edward Island|40|f
+Harding Park|40.809|-73.856|US|New York|40|f
+Harding Railroad Car|64.838|-147.772|US|Alaska|40|f
+Hardman Islands|-10.429|151.320|PG|Milne Bay Province|40|f
+Hardscrabble Hill|42.952|-75.323|US|New York|40|f
+Hardwicke Island|50.433|-125.853|CA|British Columbia|40|f
+Hardys Lake|45.807|-60.113|CA|Nova Scotia|40|f
+Hare Bay|51.250|-55.748|CA|Newfoundland and Labrador|40|f
+harewood house, leeds|53.897|-1.528|GB|England|40|f
+Harike Wetland|31.170|75.200|IN|Punjab|40|f
+Häringe Slott|59.039|18.014|SE|Stockholm|40|f
+Harker Lake|46.827|-99.721|US|North Dakota|40|f
+Harker Park Lake|39.919|-107.611|US|Colorado|40|f
+Harkin Bay|64.834|-78.115|CA|Nunavut|40|f
+Harlan County Lake Seaplane Base|40.043|-99.251|US|Nebraska|40|f
+Harlaw Reservoir|55.870|-3.309|GB|Scotland|40|f
+Harlem Airport|48.565|-108.768|US|Montana|40|f
+Harlem Meer|40.797|-73.952|US|New York|40|f
+Härmelekopf|47.327|11.231|AT|Tyrol|40|f
+Harmon Stadium|30.275|-81.508|US|Florida|40|f
+Harmony Headlands State Park|35.478|-120.992|US|California|40|f
+Harmony Hill|39.983|-75.678|US|Pennsylvania|40|f
+Harold Lake|46.592|-82.433|CA|Ontario|40|f
+Harpa|64.150|-21.932|IS|Capital Region|40|f
+Harper Glacier|-73.867|163.083|AQ||40|f
+Harper Glacier|63.089|-150.977|US|Alaska|40|f
+Harper Islands|62.350|-64.664|CA|Nunavut|40|f
+Harper Ridge|-79.150|156.950|AQ||40|f
+Harper Stadium|35.419|-94.377|US|Arkansas|40|f
+Harpers Ferry National Historical Park|39.316|-77.757|US|West Virginia|40|f
+Harriman Glacier|60.937|-148.530|US|Alaska|40|f
+Harriman State Park|44.336|-111.461|US|Idaho|40|f
+Harris Glacier|48.950|-114.229|US|Montana|40|f
+Harris Hill|42.542|-75.280|US|New York|40|f
+Harris Lake|35.050|-83.194|US|North Carolina|40|f
+Harris Neck National Wildlife Refuge|31.633|-81.269|US|Georgia|40|f
+Harris Point|-81.583|161.533|AQ||40|f
+Harris Ranch Airport|36.252|-120.240|US|California|40|f
 Harrisburg|41.556|-103.739|US|Nebraska|40
+Harrisburg Covered Bridge|35.861|-83.482|US|Tennessee|40|f
+Harrison Bay|57.467|-99.486|CA|Manitoba|40|f
+Harrison Bay|49.233|-121.986|CA|British Columbia|40|f
+Harrison Bay State Park|35.172|-85.121|US|Tennessee|40|f
+Harrison Glacier|48.593|-113.730|US|Montana|40|f
+Harrison Ice Ridge|-79.500|-146.000|AQ||40|f
+Harrison Island|45.900|-66.266|CA|New Brunswick|40|f
+Harrison Island|58.392|-78.133|CA|Nunavut|40|f
+Harrison Islands|69.334|-90.500|CA|Nunavut|40|f
+Harrison Lake|48.517|-113.771|US|Montana|40|f
+Harrison Peak|-72.400|166.650|AQ||40|f
+Harrisville Historic District|42.945|-72.094|US|New Hampshire|40|f
+Harrisville Pond|42.945|-72.098|US|New Hampshire|40|f
+Harrisville State Park|44.649|-83.293|US|Michigan|40|f
+Harrold Municipal Airport|44.528|-99.747|US|South Dakota|40|f
+Harrow Peaks|-74.067|164.750|AQ||40|f
+Harrsjøen|61.855|11.024|NO|Innlandet|40|f
+Harry Evans Covered Bridge|39.663|-87.294|US|Indiana|40|f
+Harry Grove Stadium|39.401|-77.415|US|Maryland|40|f
+Harry L Englebright Lake Dam|39.240|-121.270|US|California|40|f
+Harry Lake Aspen Park|50.783|-121.553|CA|British Columbia|40|f
+Harry P Leu Gardens|28.567|-81.355|US|Florida|40|f
+Harry S Truman Bridge|39.144|-94.485|US|Missouri|40|f
+Harsimus Cove|40.727|-74.031|US|New Jersey|40|f
+Harstad Slough|45.693|-95.996|US|Minnesota|40|f
+Hart Crag|54.493|-2.976|GB|England|40|f
+Hart Lake|45.409|-61.576|CA|Nova Scotia|40|f
+Hart Lake|45.576|-63.518|CA|Nova Scotia|40|f
+Hart Lake|42.403|-119.852|US|Oregon|40|f
+Hart Mountain National Antelope Refuge|42.499|-119.609|US|Oregon|40|f
+Hart Park|37.992|-91.633|US|Missouri|40|f
+Hart Ranges|55.000|-122.003|CA|British Columbia|40|f
+Hartbeespoort Dam|-25.747|27.867|ZA|North West|40|f
+Harter Fell (Eskdale)|54.387|-3.205|GB|England|40|f
+Harter Hill|43.133|-75.006|US|New York|40|f
+Hartkopf, Mount|-75.983|-140.750|AQ||40|f
+Hartman Creek State Park|44.323|-89.217|US|Wisconsin|40|f
+Hartman Reserve Nature Center|42.529|-92.409|US|Iowa|40|f
+Hartshill Castle|52.546|-1.522|GB|England|40|f
+Hartshorne Woods County Park|40.395|-73.997|US|New Jersey|40|f
+Hartsop Hall|54.500|-2.930|GB|England|40|f
+Hartwell Dam|34.357|-82.822|US|Georgia|40|f
+Hartwick Reservoir|42.660|-75.024|US|New York|40|f
+Hartwood Acres Park|40.568|-79.916|US|Pennsylvania|40|f
+Hartz Mountains|73.501|-82.999|CA|Nunavut|40|f
+Harvard College Observatory|42.381|-71.128|US|Massachusetts|40|f
+Harvard Stadium|42.367|-71.127|US|Massachusetts|40|f
+Harvard State Airport|40.651|-98.085|US|Nebraska|40|f
+Harvard University Museums of Natural History|42.378|-71.115|US|Massachusetts|40|f
+Harvey Milk Plaza|37.768|-122.429|US|California|40|f
+Harvey Point|36.100|-76.303|US|North Carolina|40|f
+Harvey Railroad Bridge|41.314|-92.917|US|Iowa|40|f
+Harvey Summit|-78.317|162.317|AQ||40|f
+Harveys Lake|30.847|-92.333|US|Louisiana|40|f
+Harwell Glacier|-84.950|-171.483|AQ||40|f
+Harwood Island|49.859|-124.655|CA|British Columbia|40|f
+Hargarten|50.100|6.400|DE|Rheinland-Pfalz|39
+Harspelt|50.133|6.167|DE|Rheinland-Pfalz|38
 Hardegg|48.850|15.850|AT|Lower Austria|38
+Har Huxu|40.974|110.918|CN|Inner Mongolia|0
+Har Nur|45.637|120.083|CN|Inner Mongolia|0
 Har-Us|49.033|92.033|MN|Uvs Province|0
 Har-Us|48.483|91.433|MN|Hovd|0
 Haraat|46.417|107.650|MN|Middle Govĭ|0
 Ḩaraḑ|16.410|43.059|YE|Ḩajjah|0
+Haramgai|46.657|87.774|CN|Xinjiang|0
 Harapan Jaya|3.875|108.303|ID|Riau Islands|0
 Harapankarya|-3.989|119.644|ID|South Sulawesi|0
 Ḩarbinafsah|34.937|36.622|SY|Hama|0
 Harbiye|36.137|36.133|TR|Hatay|0
 Hard Bargain|26.317|-77.567|BS|Moore’s Island|0
+Hardt|50.633|7.917|DE|Rheinland-Pfalz|0
 Ḩarf al Musaytirah|35.388|36.134|SY|Latakia|0
 Harhiraa|49.778|91.904|MN|Uvs Province|0
 Harian|2.556|98.662|ID|North Sumatra|0
+Hariang|-6.630|106.293|ID|Banten|0
 Ḩarīb|14.932|45.504|YE|Ma’rib|0
+Haridimun|-8.492|123.001|ID|East Nusa Tenggara|0
 Ḩārim|36.212|36.521|SY|Idlib|0
+Harjamukti|-7.220|108.514|ID|West Java|0
 Harley|52.600|-2.600|GB|England|0
 Harmancık|39.676|29.155|TR|Bursa Province|0
 Harmanlı|37.838|37.744|TR|Adıyaman Province|0
@@ -358,4 +783,5 @@ Hartford|53.245|-2.551|GB|England|0
 Harthill|53.083|-2.750|GB|England|0
 Hartswater|-27.750|24.797|ZA|Northern Cape|0
 Haruai|-2.015|115.507|ID|South Kalimantan|0
+Haruman|-7.072|107.927|ID|West Java|0
 Haruyan|-2.692|115.350|ID|South Kalimantan|0

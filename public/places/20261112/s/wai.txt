@@ -7,6 +7,7 @@ Waingapu|-9.657|120.264|ID|East Nusa Tenggara|91
 Waisai|-0.238|130.507|ID|Southwest Papua|87
 Wainuiomata|-41.267|174.950|NZ|Wellington Region|86
 Waikīkī|21.285|-157.836|US|Hawaii|86
+Waiheke Island|-36.800|175.100|NZ||86|f
 Waina|33.206|105.050|CN|Gansu|86
 Wailuku|20.891|-156.506|US|Hawaii|84
 Waimalu|21.390|-157.939|US|Hawaii|83
@@ -24,14 +25,17 @@ Waite Park|45.557|-94.224|US|Minnesota|78
 Waimes|50.415|6.112|BE|Wallonia|76
 Wainwright|52.835|-110.853|CA|Alberta|76
 Wailea|20.690|-156.442|US|Hawaii|75
+Wai Islands|9.926|102.906|KH|Preah Sihanouk|75|f
 Waibstadt|49.295|8.918|DE|Baden-Wurttemberg|75
 Wailea-Makena|20.663|-156.427|US|Hawaii|75
 Waikowhai|-43.450|169.883|NZ|West Coast|75
 Waipi‘o Acres|21.465|-158.013|US|Hawaii|75
 Waimanalo|21.346|-157.724|US|Hawaii|75
+Waimea-Kohala Airport|20.001|-155.668|US|Hawaii|74|f
 Wailua Homesteads|22.072|-159.377|US|Hawaii|74
 Wairoa|-39.038|177.420|NZ|Hawke's Bay Region|74
 Waikoloa|19.939|-155.789|US|Hawaii|74
+Waikato Stadium|-37.781|175.268|NZ|Waikato Region|73|f
 Waihi|-37.383|175.833|NZ|Waikato Region|73
 Waimānalo Beach|21.334|-157.700|US|Hawaii|73
 Waidhofen an der Thaya|48.817|15.283|AT|Lower Austria|73
@@ -47,9 +51,11 @@ Waigolshausen|49.964|10.120|DE|Bavaria|69
 Waimate North|-35.317|173.883|NZ|Northland|69
 Wailupe|21.276|-157.757|US|Hawaii|69
 Waikerie|-34.182|139.986|AU|South Australia|69
+Wairoa Aerodrome|-39.012|177.404|NZ|Gisborne|69|f
 Waihi Beach|-37.400|175.933|NZ|Bay of Plenty|69
 Waikiwi|-46.383|168.333|NZ|Southland|68
 Waiatarua|-36.933|174.583|NZ|Auckland|67
+Wailangilala Island|-16.749|-179.104|FJ|Eastern|67|f
 Wailua|22.053|-159.338|US|Hawaii|67
 Wairau Valley|-41.567|173.533|NZ|Marlborough|67
 Wailua|20.849|-156.136|US|Hawaii|67
@@ -58,6 +64,8 @@ Waidhaus|49.642|12.495|DE|Bavaria|67
 Waidring|47.583|12.567|AT|Tyrol|66
 Waipawa|-41.412|175.515|NZ|Wellington Region|66
 Waimea|21.957|-159.669|US|Hawaii|65
+Wai Oti Airport|-8.639|122.239|ID|East Nusa Tenggara|65|f
+Waihuan Jiangjin Chang Jiang Daqiao|29.262|106.321|CN|Chongqing|65|f
 Waitakere|-36.851|174.545|NZ|Auckland|65
 Wainfleet All Saints|53.106|0.236|GB|England|65
 Waikawa|-41.267|174.050|NZ|Marlborough|65
@@ -71,18 +79,93 @@ Wainaku|19.745|-155.095|US|Hawaii|62
 Waitsburg|46.270|-118.153|US|Washington|62
 Waitoa|-37.617|175.633|NZ|Waikato Region|61
 Waikuku Beach|-43.283|172.717|NZ|Canterbury|61
+Wai‘ale‘ale|22.071|-159.498|US|Hawaii|61|f
+Wainwright Airport|52.796|-110.858|CA|Alberta|61|f
 Waiern|46.730|14.082|AT|Carinthia|60
 Wailly|50.523|2.068|FR|Hauts-de-France|60
+Waidach|47.689|13.138|AT|Salzburg|59
+Wailly-Beaucamp|50.411|1.726|FR|Hauts-de-France|58
+Wai‘anae Range|21.441|-158.099|US|Hawaii|58|f
+Wailoa River State Recreation Area|19.721|-155.076|US|Hawaii|58|f
+Waimea Bay|21.641|-158.066|US|Hawaii|58|f
+Waiparahoaka Mountain|-78.283|162.917|AQ||58|f
+Waitangi|-35.270|174.081|NZ|Northland|58
+Waikane|21.496|-157.852|US|Hawaii|58
+Waiouru|-39.478|175.668|NZ|Manawatu-Wanganui|58
+Waisenegg|47.394|15.684|AT|Styria|57
+Waimana|-38.150|177.083|NZ|Bay of Plenty|57
+Wainscott|40.937|-72.243|US|New York|56
+Wainwright|70.637|-160.038|US|Alaska|55
+Waitati|-45.750|170.567|NZ|Otago|55
+Waikīkī Aquarium|21.266|-157.821|US|Hawaii|54|f
+Waikīkī Shell|21.272|-157.821|US|Hawaii|54|f
+Wainwright Airport|70.638|-160.010|US|Alaska|54|f
+Waitpinga National Park|-35.591|138.324|AU|South Australia|54|f
+Waidendorf|48.465|16.824|AT|Lower Austria|54
+Wairakei|-38.633|176.100|NZ|Waikato Region|54
 Waidmannsfeld|47.870|15.981|AT|Lower Austria|52
+Waiharera Lake|-34.950|173.183|NZ||49|f
+Waikerie Airport|-34.187|140.026|AU|South Australia|49|f
+Waitaki Dam|-44.678|170.420|NZ|Otago|49|f
+Waite Islands|-72.733|-103.667|AQ||49|f
+Waitt Peaks|-71.478|-62.550|AQ||49|f
+Waigandshain|50.645|8.085|DE|Rheinland-Pfalz|47
 Waitangi|-43.954|-176.560|NZ|Chatham Islands|43
+Wai o Taiki Bay|-36.868|174.870|NZ|Auckland|40|f
+Waibaidu Bridge|31.245|121.486|CN|Shanghai|40|f
+WAIC-FM (Springfield)|42.112|-72.558|US|Massachusetts|40|f
+Waikere Lake|-35.800|173.633|NZ||40|f
+Waimangu|-38.283|176.395|NZ||40|f
+Waimea Canyon State Park|22.056|-159.665|US|Hawaii|40|f
+Waimea Ditch|21.999|-159.670|US|Hawaii|40|f
+Waimea Inlet|-41.308|173.180|NZ|Nelson Region|40|f
+Wainono Lagoon|-44.698|171.140|NZ|Canterbury|40|f
+Waipu Lagoons|-39.028|174.130|NZ|Taranaki Region|40|f
+Wairere Falls|-37.728|175.880|NZ|Auckland|40|f
+Waitabit Peak|51.700|-116.902|CA|Alberta|40|f
+Waitahora Lagoon|-34.456|172.805|NZ|Auckland|40|f
+Waitakere Ranges|-36.967|174.517|NZ||40|f
+Waitakere Ranges Regional Parkland|-36.939|174.646|NZ|Auckland|40|f
+Waitakere Reservoir|-36.904|174.525|NZ|Auckland|40|f
+Waitaria Bay|-41.167|174.033|NZ||40|f
+Waite Hill|41.625|-81.378|US|Ohio|40|f
+Waitemata Harbour|-36.828|174.740|NZ|Auckland|40|f
+Waituna Lagoon|-46.567|168.600|NZ||40|f
+Waituna Lagoon|-46.558|168.590|NZ|Southland|40|f
+Waibalun|-8.345|122.954|ID|East Nusa Tenggara|0
+Waibereno|-8.306|123.142|ID|East Nusa Tenggara|0
 Waigama|-1.836|129.832|ID|Southwest Papua|0
+Waigang|31.363|121.171|CN|Shanghai|0
 Waigete|-8.613|122.420|ID|East Nusa Tenggara|0
+Waiha|-9.636|119.043|ID|East Nusa Tenggara|0
+Waihai|22.597|113.147|CN|Guangdong|0
+Waihibar|-9.610|119.624|ID|East Nusa Tenggara|0
+Waiholo|-9.518|119.084|ID|East Nusa Tenggara|0
 Waikabubak|-9.648|119.389|ID|East Nusa Tenggara|0
+Waikambila|-9.532|119.669|ID|East Nusa Tenggara|0
 Waiklibang|-8.175|122.895|ID|East Nusa Tenggara|0
+Wailang|30.775|108.766|CN|Chongqing|0
+Wailebe|-8.370|123.001|ID|East Nusa Tenggara|0
+Wailiang|-9.636|119.407|ID|East Nusa Tenggara|0
+Wailolong|-8.256|123.660|ID|East Nusa Tenggara|0
+Wailolong|-8.316|122.927|ID|East Nusa Tenggara|0
+Wailolung|-9.588|119.582|ID|East Nusa Tenggara|0
+Waimadaka|-9.708|119.411|ID|East Nusa Tenggara|0
+Waimana Satu|-8.250|122.980|ID|East Nusa Tenggara|0
 Waimangura|-9.510|119.238|ID|East Nusa Tenggara|0
+Wainira|-8.300|123.195|ID|East Nusa Tenggara|0
+Waioti|-8.631|122.241|ID|East Nusa Tenggara|0
+Waipapan Satu|-8.388|123.169|ID|East Nusa Tenggara|0
 Waipare|-8.637|122.279|ID|East Nusa Tenggara|0
 Waipia|-3.188|128.903|ID|Maluku|0
 Waipukang|-8.321|123.464|ID|East Nusa Tenggara|0
 Wairiang|-8.192|123.819|ID|East Nusa Tenggara|0
+Wairinding|-9.674|120.130|ID|East Nusa Tenggara|0
+Waisha|23.435|116.750|CN|Guangdong|0
+Waishan|25.321|118.473|CN|Fujian|0
+Waitenepang|-8.271|123.111|ID|East Nusa Tenggara|0
+Waitun|27.335|118.988|CN|Fujian|0
 Waiwadan|-8.276|123.093|ID|East Nusa Tenggara|0
+Waiwejak|-8.498|123.523|ID|East Nusa Tenggara|0
 Waiwerang|-8.388|123.165|ID|East Nusa Tenggara|0
+Waiwukak|-8.407|123.065|ID|East Nusa Tenggara|0

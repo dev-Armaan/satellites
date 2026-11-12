@@ -10,25 +10,25 @@ Souss-Massa|30.425|-9.566|MA||125|r
 South Hwanghae|38.200|125.533|KP||124|r
 South Pyongan|39.500|126.167|KP||124|r
 South Hamgyong|40.233|127.750|KP||124|r
+South Moravian|49.201|16.613|CZ||123|r
 South Tangerang|-6.289|106.718|ID|Banten|123
-South Moravian|49.201|16.613|CZ||122|r
+Southern District|30.667|34.833|IL||122|r
 Southern Region|-15.500|35.000|MW||122|r
 South Ethiopia Regional State|6.863|37.735|ET||122|r
 South Kivu|-3.167|28.250|CD||122|r
-Southern District|30.667|34.833|IL||122|r
 South Kalimantan|-2.500|115.500|ID||122|r
 South Denmark|55.379|10.345|DK||119|r
 Southern Darfur|11.500|24.667|SD||119|r
 South-West|5.200|9.300|CM||119|r
 Southern Province|-16.500|27.000|ZM||116|r
+South Dakota|44.500|-100.251|US||116|r
 Southeast Sulawesi|-4.394|122.215|ID||116|r
 Sousse Governorate|35.917|10.417|TN||116|r
-South Dakota|44.500|-100.251|US||115|r
 South Boston|42.333|-71.049|US|Massachusetts|115
 Southwest Finland|60.500|22.250|FI||115|r
 Southern District|22.241|114.208|HK||115|r
+South Bohemian Region|49.083|14.500|CZ||115|r
 Southern Province|6.167|80.750|LK||114|r
-South Bohemian Region|49.083|14.500|CZ||114|r
 Southern Province|7.800|-12.000|SL||113|r
 South Governorate|33.417|35.333|LB||112|r
 Southern Province|-2.333|29.667|RW||112|r
@@ -38,15 +38,15 @@ South Dublin|53.290|-6.342|IE|Leinster|110
 Southend-on-Sea|51.538|0.714|GB|England|109
 South West Ethiopia Peoples' Region|7.262|36.236|ET||109|r
 Southampton|50.904|-1.404|GB|England|109
-Southwest Papua|-0.871|131.282|ID||108|r
 South Aegean|36.167|27.906|GR||108|r
+Southwest Papua|-0.871|131.282|ID||108|r
 Southern Kordofan|11.267|30.833|SD||107|r
 Southern Governorate|25.867|50.583|BH||107|r
 South Ostrobothnia|62.750|23.000|FI||107|r
 Sousse|35.825|10.637|TN|Sousse Governorate|107
 South Province|-21.750|165.833|NC||105|r
-Souk Ahras|36.286|7.951|DZ|Souk Ahras|104
 South Savo|61.750|27.833|FI||104|r
+Souk Ahras|36.286|7.951|DZ|Souk Ahras|104
 South Papua|-8.499|140.428|ID||104|r
 South Karelia|60.967|28.167|FI||103|r
 South Caribbean Coast|11.846|-84.150|NI||103|r
@@ -55,7 +55,7 @@ Soubré|5.784|-6.594|CI|Bas-Sassandra District|102
 South Fulton|33.593|-84.673|US|Georgia|101
 South Bend|41.683|-86.250|US|Indiana|100
 South Gate|33.955|-118.212|US|California|100
-South Sinai|29.000|33.800|EG||99|r
+South Sinai|29.000|33.800|EG||100|r
 Southport|53.646|-3.010|GB|England|99
 Southland|-45.667|168.000|NZ||99|r
 Southeastern Governorate|21.650|59.100|OM||99|r
@@ -68,12 +68,14 @@ Souk El Arbaa|34.685|-6.003|MA|Rabat-Salé-Kénitra|98
 South Lawndale|41.844|-87.713|US|Illinois|97
 Southfield|42.473|-83.222|US|Michigan|97
 Sougueur|35.186|1.496|DZ|Tiaret|97
+South China Sea|15.000|115.000|VN||97|f
 South San Francisco|37.655|-122.408|US|California|97
 Sousa|-6.759|-38.228|BR|Paraíba|97
 South Jordan|40.562|-111.930|US|Utah|96
 Souq Sebt Oulad Nemma|32.297|-6.703|MA|Beni Mellal-Khenifra|96
 South Vineland|39.446|-75.029|US|New Jersey|95
 South Whittier|33.950|-118.039|US|California|95
+Southern Alps|-43.500|170.500|NZ||95|f
 South Croydon|51.362|-0.094|GB|England|95
 Southaven|34.989|-90.013|US|Mississippi|94
 South Hill|47.141|-122.270|US|Washington|94
@@ -118,6 +120,7 @@ South Portland Gardens|43.639|-70.315|US|Maine|88
 South Old Bridge|40.408|-74.354|US|New Jersey|87
 Southbank|-37.823|144.964|AU|Victoria|87
 South Ockendon|51.508|0.283|GB|England|87
+South|64.000|-19.000|IS||87|r
 South Elgin|41.994|-88.292|US|Illinois|87
 South Bradenton|27.463|-82.582|US|Florida|87
 South Holland|41.601|-87.607|US|Illinois|87
@@ -129,15 +132,15 @@ South El Monte|34.052|-118.047|US|California|86
 South San Jose Hills|34.013|-117.905|US|California|86
 South Saint Paul|44.893|-93.035|US|Minnesota|86
 Southbury|41.481|-73.213|US|Connecticut|86
-South|64.000|-19.000|IS||86|r
 Southbridge|42.075|-72.033|US|Massachusetts|86
 So Uk|22.341|114.157|HK|Sham Shui Po District|86
 South Elmsall|53.597|-1.280|GB|England|85
 South Burlington|44.467|-73.171|US|Vermont|85
 So Uk Estate|22.342|114.157|HK|Sham Shui Po District|85
+South Kurzeme Municipality|56.536|21.174|LV||85|r
 Southsea|50.784|-1.091|GB|England|85
 Souzas|-22.879|-46.964|BR|São Paulo|85
-South Kurzeme Municipality|56.536|21.174|LV||85|r
+Southampton Airport|50.950|-1.357|GB|England|85|f
 South Hadley|42.258|-72.575|US|Massachusetts|85
 South Houston|29.663|-95.235|US|Texas|85
 South Orange|40.749|-74.261|US|New Jersey|85
@@ -145,14 +148,18 @@ Souto Soares|-12.089|-41.638|BR|Bahia|85
 South Ogden|41.192|-111.971|US|Utah|85
 South Ruislip|51.555|-0.409|GB|England|85
 South Norwood|51.399|-0.075|GB|England|84
+Southwark|51.509|-0.094|GB|England|84|f
 South River|40.446|-74.386|US|New Jersey|84
 Southchase|28.393|-81.383|US|Florida|84
+South African Astronomical Observatory|-32.380|20.811|ZA|Northern Cape|84|f
 South Hayling|50.788|-0.977|GB|England|84
 Soumagne|50.614|5.747|BE|Wallonia|84
 South Yuba City|39.117|-121.639|US|California|84
 Southwest Waterfront|38.879|-77.018|US|District of Columbia|84
+Soummam – Abane Ramdane Airport|36.712|5.070|DZ|Béjaïa|83|f
 South Farmingdale|40.721|-73.440|US|New York|83
 Southgate|51.617|-0.100|GB|England|83
+South Aral Sea|45.145|58.491|||83|f
 South Venice|27.053|-82.424|US|Florida|83
 Southern Pines|35.174|-79.392|US|North Carolina|83
 South Park Township|40.299|-79.994|US|Pennsylvania|83
@@ -175,6 +182,8 @@ South Hedland|-20.407|118.601|AU|Western Australia|81
 South Clearbrook|49.041|-122.328|CA|British Columbia|80
 South Huron|43.317|-81.516|CA|Ontario|80
 Southborough|42.306|-71.525|US|Massachusetts|80
+South Bimini Airport|25.700|-79.265|BS|Bimini|80|f
+Southern Carpathians|45.500|24.250|RO||80|f
 Southwick|42.055|-72.770|US|Massachusetts|80
 South Huntington|40.824|-73.399|US|New York|79
 Souq Al Had Bradya|32.449|-6.537|MA|Beni Mellal-Khenifra|79
@@ -184,6 +193,7 @@ Southside|33.925|-86.022|US|Alabama|79
 South Kensington|39.013|-77.071|US|Maryland|79
 Soure|40.060|-8.626|PT|Coimbra|79
 South Lockport|43.150|-78.697|US|New York|78
+South Lewis County Airport|46.477|-122.807|US|Washington|78|f
 South San Gabriel|34.049|-118.095|US|California|78
 Soukka|60.142|24.671|FI|Uusimaa|78
 South End|12.170|-83.041|NI|South Caribbean Coast|78
@@ -192,10 +202,14 @@ Souq Khmis Aït Yadine|33.972|-6.017|MA|Rabat-Salé-Kénitra|78
 Southwest Ranches|26.059|-80.337|US|Florida|78
 South Beloit|42.493|-89.037|US|Illinois|78
 Southwood Acres|41.963|-72.571|US|Connecticut|78
+Southwest Michigan Regional Airport|42.128|-86.428|US|Michigan|78|f
 Sound Beach|40.956|-72.968|US|New York|78
 South Berwick|43.235|-70.809|US|Maine|77
 Southport|42.055|-76.819|US|New York|77
 Southgate|27.308|-82.510|US|Florida|77
+Southwest Cay|11.433|114.333|||77|f
+Southwest Georgia Regional Airport|31.535|-84.194|US|Georgia|77|f
+Southwest Washington Regional Airport|46.118|-122.898|US|Washington|77|f
 South Weber|41.132|-111.930|US|Utah|77
 Soultz-Haut-Rhin|47.888|7.229|FR|Grand Est|77
 South Cleveland|35.106|-84.890|US|Tennessee|77
@@ -210,6 +224,7 @@ Souq at Tlata des Loulad|32.995|-7.120|MA|Casablanca-Settat|76
 Southam|52.253|-1.388|GB|England|76
 Southeast Arcadia|27.186|-81.852|US|Florida|76
 South Monroe|41.896|-83.418|US|Michigan|76
+Southern Seaplane Airport|29.866|-90.022|US|Louisiana|76|f
 Souffelweyersheim|48.635|7.741|FR|Grand Est|76
 South Williamsport|41.232|-76.999|US|Pennsylvania|76
 Souk El Arba Des Aït Baha|30.070|-9.155|MA|Souss-Massa|76
@@ -217,6 +232,7 @@ South Grafton|-29.708|152.926|AU|New South Wales|76
 Souppes-sur-Loing|48.183|2.735|FR|Île-de-France|76
 South Valley Stream|40.656|-73.718|US|New York|76
 South Patrick Shores|28.202|-80.609|US|Florida|75
+Southern Illinois Airport|37.777|-89.252|US|Illinois|75|f
 Southold|41.065|-72.426|US|New York|75
 Soukourougban|7.849|-5.935|CI|Woroba|75
 South Oroville|39.481|-121.536|US|California|75
@@ -230,6 +246,7 @@ South Hooksett|43.026|-71.435|US|New Hampshire|75
 Souassi|35.343|10.547|TN|Mahdia Governorate|75
 South Gastonia|35.219|-81.206|US|North Carolina|75
 South Haven|41.542|-87.137|US|Indiana|74
+South Caicos Airport|21.516|-71.528|TC||74|f
 South Highpoint|27.917|-82.713|US|Florida|74
 South Molton|51.017|-3.833|GB|England|74
 South Bay|26.664|-80.716|US|Florida|74
@@ -241,6 +258,8 @@ Souto|40.985|-8.622|PT|Aveiro|74
 Soubalo Mbouba|16.201|-14.011|SN|Saint-Louis|74
 South Bound Brook|40.553|-74.532|US|New Jersey|74
 South West Rocks|-30.886|153.041|AU|New South Wales|74
+South Shore Regional Airport|44.230|-64.856|CA|Nova Scotia|73|f
+Southwest Florida International Airport|26.537|-81.760|US|Florida|73|f
 Soufflenheim|48.830|7.963|FR|Grand Est|73
 South Barrington|42.091|-88.122|US|Illinois|73
 South Sanford|43.411|-70.743|US|Maine|73
@@ -251,6 +270,11 @@ South Haven|42.403|-86.274|US|Michigan|73
 South Lebanon|39.371|-84.213|US|Ohio|73
 South Greeley|41.097|-104.806|US|Wyoming|73
 Souvret|50.449|4.346|BE|Wallonia|72
+South African National Museum of Military History|-26.163|28.042|ZA|Gauteng|72|f
+South Island|-12.192|96.923|CC||72|f
+South Island|-43.000|171.000|NZ||72|f
+South Lapland Airport|64.579|16.834|SE|Västerbotten|72|f
+South Ronaldsay|58.767|-2.967|GB|Scotland|72|f
 Souflí|41.192|26.299|GR|East Macedonia and Thrace|72
 South Chicago Heights|41.481|-87.638|US|Illinois|72
 Souto da Carpalhosa|39.849|-8.835|PT|Leiria|72
@@ -269,6 +293,7 @@ Southern Shops|34.986|-81.995|US|South Carolina|72
 South Toms River|39.942|-74.204|US|New Jersey|71
 Southwold|52.327|1.680|GB|England|71
 Soullans|46.796|-1.901|FR|Pays de la Loire|71
+Southern Asia|22.208|76.970|IN||71|f
 South Dennis|41.690|-70.156|US|Massachusetts|71
 South Vacherie|29.943|-90.693|US|Louisiana|71
 South Glens Falls|43.299|-73.635|US|New York|71
@@ -285,6 +310,8 @@ South Jacksonville|39.709|-90.228|US|Illinois|70
 South Hempstead|40.681|-73.615|US|New York|70
 Soues|43.207|0.099|FR|Occitanie|70
 South Blooming Grove|41.373|-74.178|US|New York|70
+South Indian Lake Airport|56.793|-98.907|CA|Manitoba|70|f
+South Point|18.911|-155.681|US|Hawaii|70|f
 Sourdeval|48.723|-0.922|FR|Normandy|70
 South Pittsburg|35.012|-85.704|US|Tennessee|70
 Soubise|45.924|-1.009|FR|New Aquitaine|70
@@ -300,6 +327,9 @@ Soukou-Obou|5.730|-4.621|CI|Lagunes District|69
 South Rosemary|36.452|-77.697|US|North Carolina|69
 Southern Gateway|38.345|-77.504|US|Virginia|69
 South Hackensack|40.863|-74.048|US|New Jersey|69
+South Shetland Islands|-62.000|-58.000|AQ||69|f
+Southern Cross Airport|39.656|-75.015|US|New Jersey|69|f
+Southern Federal University's botanical garden|47.235|39.656|RU|Rostov|69|f
 Southfield|17.888|-77.667|JM|St. Elizabeth|69
 Soultz-sous-Forêts|48.937|7.881|FR|Grand Est|69
 South Collingham|53.133|-0.767|GB|England|68
@@ -316,6 +346,11 @@ South Congaree|33.911|-81.136|US|South Carolina|68
 Souampleu|7.012|-8.038|CI|Montagnes|67
 Soucelles|47.569|-0.421|FR|Pays de la Loire|67
 South Paris|44.224|-70.513|US|Maine|67
+South Brother|45.944|-69.002|US|Maine|67|f
+South Georgia|-54.250|-36.750|GS||67|f
+South Goulburn Island Airport|-11.651|133.381|AU|Northern Territory|67|f
+South Pahroc Range|37.483|-115.030|US|Nevada|67|f
+Southbridge Municipal Airport|42.100|-72.038|US|Massachusetts|67|f
 South Fulton|36.501|-88.875|US|Tennessee|67
 Southside|35.698|-91.623|US|Arkansas|67
 Souchez|50.393|2.740|FR|Hauts-de-France|67
@@ -349,6 +384,16 @@ South Deerfield|42.477|-72.608|US|Massachusetts|65
 Souapleu|6.744|-8.363|CI|Montagnes|65
 Souris|49.617|-100.261|CA|Manitoba|65
 Sourcieux-les-Mines|45.806|4.623|FR|Auvergne-Rhône-Alpes|65
+Sourdough Mountain|48.752|-121.128|US|Washington|65|f
+South Andros Airport|24.157|-77.584|BS|South Andros|65|f
+South Bass Island|41.650|-82.821|US|Ohio|65|f
+South German Railway Museum|49.140|9.193|DE|Baden-Wurttemberg|65|f
+South Haven Area Regional Airport|42.351|-86.256|US|Michigan|65|f
+South Island|-13.417|166.693|VU|Torba|65|f
+South Lafourche Leonard Miller Jr. Airport|29.445|-90.261|US|Louisiana|65|f
+South Masson Range|-67.883|62.783|AQ||65|f
+South Stack|53.307|-4.699|GB|Wales|65|f
+Southern California Logistics Airport|34.587|-117.374|US|California|65|f
 South Bloomfield|39.718|-82.987|US|Ohio|65
 South Lismore|-28.816|153.256|AU|New South Wales|65
 South Belmar|40.171|-74.027|US|New Jersey|65
@@ -378,6 +423,18 @@ Sourdun|48.537|3.352|FR|Île-de-France|64
 South Coventry|41.770|-72.305|US|Connecticut|63
 South Thomaston|44.051|-69.128|US|Maine|63
 Southmont|35.668|-80.267|US|North Carolina|63
+South Bald Mountain|40.752|-105.696|US|Colorado|63|f
+South Baldy|33.991|-107.188|US|New Mexico|63|f
+South Caicos Island|21.508|-71.521|TC||63|f
+South Jersey Regional Airport|39.944|-74.842|US|New Jersey|63|f
+South Kings Peak|40.766|-110.378|US|Utah|63|f
+South Mountains|35.596|-81.696|US|North Carolina|63|f
+South Pare Mountains|-4.250|37.867|TZ|Kilimanjaro|63|f
+South River Peak|37.574|-106.982|US|Colorado|63|f
+South Teton|43.719|-110.819|US|Wyoming|63|f
+South Walls|58.791|-3.182|GB|Scotland|63|f
+Southeastern Louisiana University Campus (SELU)|30.515|-90.471|US|Louisiana|63|f
+Southern Cross Airport|-31.240|119.360|AU|Western Australia|63|f
 Soussans|45.056|-0.700|FR|New Aquitaine|63
 South Coatesville|39.974|-75.820|US|Pennsylvania|63
 South Palm Beach|26.589|-80.039|US|Florida|63
@@ -409,6 +466,24 @@ Soultzeren|48.064|7.102|FR|Grand Est|61
 Souatiesso|7.951|-7.533|CI|Woroba|61
 South Corning|42.122|-77.037|US|New York|61
 South Pekin|40.494|-89.652|US|Illinois|61
+Soudan Underground Mine State Park|47.825|-92.256|US|Minnesota|61|f
+Sourland Mountain|40.467|-74.726|US|New Jersey|61|f
+South Bend International Airport|41.701|-86.312|US|Indiana|61|f
+South Cariboo Regional Airport|51.734|-121.332|CA|British Columbia|61|f
+South Carter Mountain|44.290|-71.176|US|New Hampshire|61|f
+South Dandalup Dam|-32.648|116.038|AU|Western Australia|61|f
+South Friar’s Bay|17.268|-62.674|KN|Saint George Basseterre|61|f
+South Holston Dam|36.524|-82.088|US|Tennessee|61|f
+South Moccasin Mountains|47.172|-109.524|US|Montana|61|f
+South Naknek Airport|58.704|-157.007|US|Alaska|61|f
+South Seymour Island|-0.459|-90.275|EC|Galápagos|61|f
+South Stradbroke Island|-27.864|153.423|AU|Queensland|61|f
+South Texas Regional Airport at Hondo|29.357|-99.169|US|Texas|61|f
+South Twin Island|47.033|-90.645|US|Wisconsin|61|f
+South Twin Lake|45.621|-68.861|US|Maine|61|f
+South Twin Mountain|44.188|-71.555|US|New Hampshire|61|f
+Southern Wisconsin Regional Airport|42.615|-89.041|US|Wisconsin|61|f
+Southwest Oregon Regional Airport|43.417|-124.244|US|Oregon|61|f
 South River|45.833|-79.383|CA|Ontario|61
 South Shore|38.721|-82.958|US|Kentucky|61
 South Canal|41.177|-80.987|US|Ohio|61
@@ -427,10 +502,272 @@ Soulgé-sur-Ouette|48.061|-0.571|FR|Pays de la Loire|60
 Southmayd|33.630|-96.769|US|Texas|60
 Southbridge|-43.817|172.250|NZ|Canterbury|60
 South Lebanon|44.506|-122.903|US|Oregon|60
+South Mission Beach|-17.950|146.083|AU|Queensland|60
+Souafouè-Djahan|7.589|-5.372|CI|Vallée du Bandama District|60
+South West City|36.513|-94.611|US|Missouri|60
+Sousceyrac|44.874|2.034|FR|Occitanie|59
+South Bristol|43.864|-69.561|US|Maine|59
+Southfleet|51.416|0.320|GB|England|59
+South Zeal|50.726|-3.913|GB|England|59
+South Hampton|42.881|-70.963|US|New Hampshire|59
+Soublaké|4.369|-7.455|CI|Bas-Sassandra District|59
+South Fork|40.367|-78.791|US|Pennsylvania|59
+South Mimms|51.696|-0.233|GB|England|59
+Soundougoutou|8.078|-5.714|CI|Woroba|59
+South Wallins|36.815|-83.411|US|Kentucky|59
+Sougy|48.053|1.787|FR|Centre-Val de Loire|59
+Southbrook|-43.333|172.600|NZ|Canterbury|59
+Sougé-le-Ganelon|48.318|-0.030|FR|Pays de la Loire|59
+South Nanango|-26.750|151.967|AU|Queensland|58
+Southey|50.933|-104.501|CA|Saskatchewan|58
+South Webster|38.813|-82.727|US|Ohio|58
+South Van Buren|36.988|-91.014|US|Missouri|58
+Soubrélilié|6.005|-5.432|CI|Goh-Djiboua|58
+Souafoué-Djéhou|7.599|-5.378|CI|Vallée du Bandama District|58
+Soultz-les-Bains|48.572|7.487|FR|Grand Est|58
+Souleymanekaha|8.251|-4.825|CI|Vallée du Bandama District|58
+South Gundagai|-35.082|148.099|AU|New South Wales|58
+Soubès|43.768|3.347|FR|Occitanie|58
+South Golden Beach|-28.498|153.547|AU|New South Wales|58
+Souanke Airport|1.996|14.172|CG|Sangha|58|f
+Sourdough Glacier|43.247|-109.687|US|Wyoming|58|f
+South Bastion Mountain|58.296|-124.761|CA|British Columbia|58|f
+South Beach State Park|44.604|-124.064|US|Oregon|58|f
+South Cinque Island|11.267|92.700|IN|Andaman and Nicobar|58|f
+South Crocker Mountain|45.036|-70.376|US|Maine|58|f
+South Dakota Air and Space Museum|44.134|-103.073|US|South Dakota|58|f
+South East Point|-62.988|-60.516|AQ||58|f
+South Goulburn Island|-11.618|133.404|AU|Northern Territory|58|f
+South Grand Lake Regional Airport|36.543|-95.015|US|Oklahoma|58|f
+South Harbour|-52.020|-60.870|FK||58|f
+South Hills|34.121|-117.847|US|California|58|f
+South Manitou Island|44.999|-86.120|US|Michigan|58|f
+South Mount Hawkins|34.311|-117.810|US|California|58|f
+South Mountain|41.556|-72.823|US|Connecticut|58|f
+South Sentinel Island|10.979|92.222|IN|Andaman and Nicobar|58|f
+South Table Mountain|39.756|-105.211|US|Colorado|58|f
+South Thormanby Island|49.486|-123.968|CA|British Columbia|58|f
+South Virgin Mountains|36.257|-114.198|US|Nevada|58|f
+South West Bay|-53.050|73.367|HM||58|f
+South West Bay Airport|-16.486|167.447|VU|Malampa|58|f
+South West Osborn Island|-14.358|125.951|AU|Western Australia|58|f
+South West Solitary Island|-30.161|153.227|AU|New South Wales|58|f
+Southampton Island|64.463|-84.501|CA|Nunavut|58|f
+Southdowns Airport|-12.900|28.147|ZM|Copperbelt|58|f
+Southern Thule|-59.433|-27.200|GS||58|f
+South Arm|-43.026|147.422|AU|Tasmania|58
+South Coffeyville|36.995|-95.620|US|Oklahoma|58
+South Vinemont|34.239|-86.864|US|Alabama|58
+South Range|47.070|-88.643|US|Michigan|57
+Soungassi|6.628|-4.568|CI|Lacs District|57
+Souskanikha|52.567|85.964|RU|Altai Krai|57
+Southwest Harbor|44.280|-68.325|US|Maine|57
+Souzay|47.236|-0.009|FR|Pays de la Loire|57
+Souloumana|8.021|-6.391|CI|Woroba|57
+Southport|43.841|-69.659|US|Maine|57
+Souhouo|10.109|-6.104|CI|Savanes District|57
+South Weldon|36.416|-77.603|US|North Carolina|57
+Southern Cross|-31.227|119.324|AU|Western Australia|57
+Souligné-Flacé|47.974|0.013|FR|Pays de la Loire|57
+South Royalton|43.821|-72.521|US|Vermont|57
+South Shaftsbury|42.946|-73.211|US|Vermont|57
+South New Castle|40.978|-80.345|US|Pennsylvania|57
+South River|47.523|-53.279|CA|Newfoundland and Labrador|57
+South Bar|46.202|-60.201|CA|Nova Scotia|57
+Souafoué-Djacohou|7.587|-5.356|CI|Vallée du Bandama District|57
+Sougbono|8.567|-4.683|CI|Vallée du Bandama District|57
+Souafouè-Kouékro|7.586|-5.385|CI|Vallée du Bandama District|56
+South Wilmington|41.173|-88.277|US|Illinois|56
+South Ferriby|53.676|-0.505|GB|England|56
+Sougéal|48.510|-1.523|FR|Brittany|56
+Souvignargues|43.813|4.123|FR|Occitanie|56
+Soultzbach-les-Bains|48.038|7.204|FR|Grand Est|56
+Soutocico|39.700|-8.740|PT|Leiria|56
+Souzy|45.705|4.449|FR|Auvergne-Rhône-Alpes|56
+South Kelsey|53.470|-0.431|GB|England|56
+South Williamson|37.672|-82.284|US|Kentucky|56
+South Dayton|42.364|-79.056|US|New York|55
+Soulitré|48.011|0.456|FR|Pays de la Loire|55
+Souvigné|47.522|0.397|FR|Centre-Val de Loire|55
+Soulignonne|45.777|-0.787|FR|New Aquitaine|55
+Southbrook|-27.683|151.717|AU|Queensland|55
+Soueich|43.047|0.779|FR|Occitanie|55
+Soulosse-sous-Saint-Élophe|48.400|5.733|FR|Grand Est|55
+Souday|48.037|0.867|FR|Centre-Val de Loire|55
+South Van Horn|64.810|-147.788|US|Alaska|55
+Souvigné-sur-Sarthe|47.827|-0.389|FR|Pays de la Loire|55
+Soumans|46.301|2.307|FR|New Aquitaine|55
 South Abaco|26.047|-77.244|BS||55|r
+Soungoukaha|9.631|-5.460|CI|Savanes District|55
+Soudersburg|40.015|-76.155|US|Pennsylvania|55
+South Boardman|44.641|-85.280|US|Michigan|55
+South Cle Elum|47.186|-120.949|US|Washington|55
+Soussoubo|7.741|-5.214|CI|Vallée du Bandama District|55
+Soursac|45.275|2.201|FR|New Aquitaine|55
+Souancé-au-Perche|48.267|0.855|FR|Centre-Val de Loire|55
+Sougy-sur-Loire|46.856|3.391|FR|Bourgogne-Franche-Comté|54
+Soungra|6.913|-4.563|CI|Lacs District|54
+South Toledo Bend|31.153|-93.605|US|Texas|54
+Sound of Arisaig|56.850|-5.850|GB|Scotland|54|f
+Sound of Bute|55.733|-5.200|GB|Scotland|54|f
+Sourdough Mountains|46.922|-121.613|US|Washington|54|f
+South Andaman Island|11.834|92.654|IN|Andaman and Nicobar|54|f
+South Brother|-6.171|71.541|IO||54|f
+South Carlsbad State Beach|33.104|-117.319|US|California|54|f
+South Dix|44.060|-73.774|US|New York|54|f
+South Grand Island Bridge|42.998|-78.937|US|New York|54|f
+South Guardian Angel|37.296|-113.059|US|Utah|54|f
+South Havra Island|60.033|-1.350|GB|Scotland|54|f
+South Holston Lake|36.559|-82.004|US|Tennessee|54|f
+South Jason|-51.204|-60.883|FK||54|f
+South Mole Bastion|36.125|-5.356|GI||54|f
+South Molle Island|-20.269|148.837|AU|Queensland|54|f
+South Mountain|38.401|-109.261|US|Utah|54|f
+South Mowich Glacier|46.860|-121.826|US|Washington|54|f
+South Nesting Bay|60.283|-1.083|GB|Scotland|54|f
+South Orkney Islands|-60.583|-45.500|AQ||54|f
+South Pasco Island|-39.950|147.760|AU|Tasmania|54|f
+South Point|-63.020|-60.606|AQ||54|f
+South Red Iron Lake|45.672|-97.318|US|South Dakota|54|f
+South Saddle Mountain|45.548|-123.375|US|Oregon|54|f
+South Tahoma Glacier|46.825|-121.801|US|Washington|54|f
+South Triangle Pond|41.915|-70.662|US|Massachusetts|54|f
+South Uist|57.250|-7.350|GB|Scotland|54|f
+South Valley Regional Airport|40.619|-111.993|US|Utah|54|f
+South West Isle|-39.522|147.128|AU|Tasmania|54|f
+South West Vernon Island|-12.112|131.033|AU|Northern Territory|54|f
+South Whidbey Island State Park|48.057|-122.594|US|Washington|54|f
+Southport Airport|-27.915|153.373|AU|Queensland|54|f
+Southport Island|-43.469|147.018|AU|Tasmania|54|f
+Southwest Dairy Museum|33.142|-95.612|US|Texas|54|f
+South Hills|46.557|-111.998|US|Montana|54
+South Creake|52.885|0.765|GB|England|54
+Souayeri|8.489|-4.604|CI|Vallée du Bandama District|54
+South Spreyton|-41.257|146.350|AU|Tasmania|54
+Soumont-Saint-Quentin|48.978|-0.234|FR|Normandy|54
 South Luffenham|52.609|-0.612|GB|England|53
+Sound Gruney|60.650|-0.933|GB|Scotland|49|f
+Sound of Gigha|55.683|-5.700|GB|Scotland|49|f
+Sound of Harris|57.750|-7.167|GB|Scotland|49|f
+Sound of Iona|56.317|-6.400|GB|Scotland|49|f
+Sound of Islay|55.833|-6.100|GB|Scotland|49|f
+Sound of Jura|55.950|-5.800|GB|Scotland|49|f
+Sound of Mull|56.533|-5.833|GB|Scotland|49|f
+Sound of Raasay|57.450|-6.100|GB|Scotland|49|f
+Sound of Sleat|57.100|-5.817|GB|Scotland|49|f
+Sourdough Peak|61.413|-142.732|US|Alaska|49|f
+South America Glacier|-77.817|161.783|AQ||49|f
+South Baldface|44.231|-71.078|US|New Hampshire|49|f
+South Barrow Island|-14.346|144.652|AU|Queensland|49|f
+South Brother Island|10.931|92.613|IN|Andaman and Nicobar|49|f
+South Bruny National Park|-43.430|147.340|AU|Tasmania|49|f
+South Cerney Castle|51.677|-1.933|GB|England|49|f
+South Direction Island|-14.828|145.525|AU|Queensland|49|f
+South East Cape|-43.644|146.830|AU|Tasmania|49|f
+South End Reservoir|1.344|103.977|SG||49|f
+South Finegayan Latte Stone Park|13.555|144.829|GU|Dededo|49|f
+South Florida Railway Museum|26.318|-80.121|US|Florida|49|f
+South Foreland|51.139|1.372|GB|England|49|f
+South Guard|36.693|-118.484|US|California|49|f
+South Island National Park|-21.751|150.332|AU|Queensland|49|f
+South Isle of Gletness|60.233|-1.150|GB|Scotland|49|f
+South Lake|-30.880|134.985|AU|South Australia|49|f
+South Mountain|42.182|-74.478|US|New York|49|f
+South Para Reservoir|-34.697|138.861|AU|South Australia|49|f
+South Pond Mountain|43.590|-74.220|US|New York|49|f
+South Spit|-62.225|-58.797|AQ||49|f
+South West Cape|-43.567|146.033|AU|Tasmania|49|f
+South West Island|-15.717|136.667|AU|Northern Territory|49|f
+Southard Promontory|-66.924|-64.776|AQ||49|f
+Southerland Mountain|43.331|-74.286|US|New York|49|f
+Southern Kangaroo Island Marine Park|-36.141|137.504|AU|South Australia|49|f
+Southern Moreton Bay Islands National Park|-27.800|153.397|AU|Queensland|49|f
+Southern Railway Terminal Station|33.401|-86.950|US|Alabama|49|f
+Southtrap Rock|-62.975|-56.636|AQ||49|f
+Southwest Museum of the American Indian|34.101|-118.206|US|California|49|f
+Southwood National Park|-27.833|150.100|AU|Queensland|49|f
 South Andros|23.924|-77.649|BS||49|r
+Souchez Glacier|-86.283|-154.000|AQ||40|f
+Sound Island|12.963|92.973|IN|Andaman and Nicobar|40|f
+Source Lake|45.561|-78.650|CA|Ontario|40|f
+Souris Beach Provincial Park|46.367|-62.265|CA|Prince Edward Island|40|f
+Sourland Mountain County Preserve|40.474|-74.702|US|New Jersey|40|f
+Souss-Massa National Park|30.083|-9.667|MA|Souss-Massa|40|f
+South Arkansas Arboretum|33.218|-92.685|US|Arkansas|40|f
+South Arm|49.383|-55.298|CA|Newfoundland and Labrador|40|f
+South Asian University|28.587|77.191|IN|Delhi|40|f
+South Bar Lake|44.819|-86.064|US|Michigan|40|f
+South Barrule|54.153|-4.668|IM|Malew|40|f
+South Bay|63.967|-83.499|CA|Nunavut|40|f
+South Bay|26.030|-97.184|US|Texas|40|f
+South Branch Wildlife Management Area|39.147|-78.915|US|West Virginia|40|f
+South Brother Island|40.796|-73.898|US|New York|40|f
+South Cape|-50.917|166.050|NZ||40|f
+South Cape|-47.283|167.567|NZ||40|f
+South Cascade Glacier|48.360|-121.058|US|Washington|40|f
+South Cascade Lake|48.372|-121.069|US|Washington|40|f
+South Clear Lake|41.758|-86.376|US|Indiana|40|f
+South Cumberland Islands National Park|-20.741|149.474|AU||40|f
+South Florida Science Museum|26.669|-80.070|US|Florida|40|f
+South Fork Bridge|34.603|-92.923|US|Arkansas|40|f
+South Hadley Canal|42.221|-72.609|US|Massachusetts|40|f
+South Henik Lake|61.500|-97.333|CA|Nunavut|40|f
+South Hill|42.552|-74.773|US|New York|40|f
+South Hills|46.825|-114.015|US|Montana|40|f
+South Imilit Island|63.539|-91.112|CA|Nunavut|40|f
+South Lafourche Bridge|29.472|-90.315|US|Louisiana|40|f
+South Lake|44.780|-64.039|CA|Nova Scotia|40|f
+South Lakeland Airport|27.935|-82.046|US|Florida|40|f
+South Loon Lake|45.260|-62.716|CA|Nova Scotia|40|f
+South Meadow Brook Reservoir|41.872|-70.782|US|Massachusetts|40|f
+South Meadow Pond|41.896|-70.739|US|Massachusetts|40|f
+South Midway Island|63.695|-92.064|CA|Nunavut|40|f
+South Moreton|51.588|-1.197|GB|England|40|f
+South Mountain|45.000|-64.749|CA|Nova Scotia|40|f
+South Mountain|42.189|-74.052|US|New York|40|f
+South Mountain|40.325|-76.195|US|Pennsylvania|40|f
+South Mountain Reservation|40.754|-74.295|US|New Jersey|40|f
+South Mountains State Park|35.600|-81.658|US|North Carolina|40|f
+South Oyster Bay|40.631|-73.460|US|New York|40|f
+South Park|33.997|-118.267|US|California|40|f
+South Park|37.782|-122.394|US|California|40|f
+South Park Blocks|45.513|-122.685|US|Oregon|40|f
+South Perkasie Covered Bridge|40.368|-75.295|US|Pennsylvania|40|f
+South Pointe Park|25.767|-80.135|US|Florida|40|f
+South Shore State Park|38.620|-89.304|US|Illinois|40|f
+South Spicer Island|68.268|-78.998|CA|Nunavut|40|f
+South Street Seaport|40.706|-74.003|US|New York|40|f
+South Summit Lake|50.626|-88.214|CA|Ontario|40|f
+South Taranaki Bight|-39.667|174.167|NZ||40|f
+South Taranaki Bight|-39.628|174.110|NZ|Taranaki Region|40|f
+South Taranaki Bight|-39.678|174.240|NZ|Taranaki Region|40|f
+South Texada Island Park|49.519|-124.171|CA|British Columbia|40|f
+South Tweedsmuir Island|68.384|-74.248|CA|Nunavut|40|f
+South Twin|52.203|-117.434|CA|Alberta|40|f
+South Twin Island|53.117|-79.866|CA|Nunavut|40|f
+South Twin Lake|49.267|-55.782|CA|Newfoundland and Labrador|40|f
+South Twin Lake|45.273|-90.438|US|Wisconsin|40|f
+South Valley Park|39.561|-105.151|US|Colorado|40|f
+South Wellesley Islands|-17.067|139.417|AU|Queensland|40|f
+South Wolf Island|53.668|-55.926|CA|Newfoundland and Labrador|40|f
+South Yorkshire Aircraft Museum|53.514|-1.110|GB|England|40|f
+South Yuba River State Park|39.292|-121.194|US|California|40|f
+Southampton Castle|50.900|-1.406|GB|England|40|f
+Southern Arm|49.667|-55.915|CA|Newfoundland and Labrador|40|f
+Southern Cross Mountains|-73.667|164.000|AQ||40|f
+Southern Cross University|-28.818|153.300|AU|New South Wales|40|f
+Southern Indian Lake|57.167|-98.500|CA|Manitoba|40|f
+Southern Pacific Steam Locomotive #745|29.967|-90.144|US|Louisiana|40|f
+Southford Falls State Park|41.454|-73.162|US|Connecticut|40|f
+Southsea Castle|50.778|-1.089|GB|England|40|f
+Southside Park|33.663|-84.365|US|Georgia|40|f
+Southwest Arm|48.000|-53.748|CA|Newfoundland and Labrador|40|f
+Southwest Corridor|42.347|-71.074|US|Massachusetts|40|f
+Southwest Island|44.506|-63.996|CA|Nova Scotia|40|f
+Southwest Pass|29.035|-89.330|US|Louisiana|40|f
+Southwick Lake|47.005|-122.805|US|Washington|40|f
 South Georgia and the South Sandwich Islands|-56.000|-33.000|GS||30|c
+Souktuanan|-10.816|123.083|ID|East Nusa Tenggara|0
 Sourgoubila|12.415|-1.806|BF|Plateau-Central|0
 South Bank|54.567|-1.150|GB|England|0
 South Hill|50.533|-4.350|GB|England|0
@@ -439,3 +776,4 @@ South Hill Village|18.192|-63.088|AI|South Hill|0
 Southill|52.064|-0.324|GB|England|0
 Southorpe|52.611|-0.405|GB|England|0
 Soutr Nikom|13.239|104.138|KH|Siem Reap|0
+Souziqiu|29.543|110.363|CN|Hunan|0

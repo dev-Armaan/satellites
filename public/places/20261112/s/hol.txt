@@ -19,6 +19,7 @@ Holbrook|40.812|-73.078|US|New York|89
 Holubivka|48.638|38.643|UA|Luhansk|89
 Holt|42.641|-84.515|US|Michigan|88
 Hollola|61.000|25.500|FI|Paijat-Hame|87
+Hollywood Sign|34.134|-118.322|US|California|87|f
 Holiday|28.188|-82.740|US|Florida|87
 Holzminden|51.828|9.445|DE|Lower Saxony|86
 Hola|-1.483|40.033|KE|Tana River County|86
@@ -60,6 +61,7 @@ Hollis|42.743|-71.592|US|New Hampshire|78
 Hollymead|38.117|-78.442|US|Virginia|78
 Holly Springs|34.768|-89.449|US|Mississippi|78
 Holle|52.087|10.160|DE|Lower Saxony|77
+Holy Island|53.283|-4.633|GB|Wales|77|f
 Holywell|53.275|-3.229|GB|Wales|77
 Hollabrunn|48.550|16.083|AT|Lower Austria|77
 Holmivskyi|48.404|38.082|UA|Donetsk|77
@@ -70,15 +72,20 @@ Holly|42.792|-83.628|US|Michigan|76
 Holmestrand|59.488|10.318|NO|Vestfold|76
 Holmsund|63.706|20.364|SE|Västerbotten|76
 Holovanivsk|48.387|30.459|UA|Kirovohrad|75
+Holy Cross Airport|62.190|-159.774|US|Alaska|75|f
 Hollidaysburg|40.427|-78.389|US|Pennsylvania|75
 Holdenville|35.080|-96.399|US|Oklahoma|75
 Holmes Chapel|53.201|-2.357|GB|England|75
 Holdrege|40.440|-99.370|US|Nebraska|75
 Holbeck|53.784|-1.568|GB|England|75
+Hola Airport|-1.521|40.004|KE|Tana River County|74|f
+Hólmavík Airport|65.705|-21.696|IS|Westfjords|74|f
+Holmöarna|63.717|20.850|SE|Västerbotten|74|f
 Hollfeld|49.938|11.292|DE|Bavaria|74
 Holytown|55.820|-3.973|GB|Scotland|74
 Holbrook|34.902|-110.158|US|Arizona|74
 Hollywood|32.734|-80.242|US|South Carolina|74
+Holy Mother of God Church Complex of Avan|40.215|44.572|AM|Yerevan|73|f
 Holýšov|49.594|13.101|CZ|Plzeň Region|73
 Hollis Center|43.605|-70.593|US|Maine|73
 Hollandscheveld|52.706|6.539|NL|Drenthe|73
@@ -98,6 +105,8 @@ Holod|46.783|22.133|RO|Bihor County|71
 Holton|39.465|-95.736|US|Kansas|70
 Holzweißig|51.598|12.308|DE|Saxony-Anhalt|70
 Holywell Green|53.674|-1.867|GB|England|70
+Holland Range|-83.167|166.000|AQ||70|f
+Holmvann|70.406|28.007|NO|Finnmark|70|f
 Holovne|51.337|24.079|UA|Volyn|70
 Holm|53.620|9.674|DE|Schleswig-Holstein|70
 Hollenstedt|53.367|9.717|DE|Lower Saxony|70
@@ -115,6 +124,8 @@ Holiday Island|36.485|-93.732|US|Arkansas|68
 Hollenbach|48.483|11.067|DE|Bavaria|68
 Holzhausen|50.736|8.138|DE|North Rhine-Westphalia|67
 Holden|38.714|-93.991|US|Missouri|67
+Holm Ø|74.500|-57.000|GL|Avannaata|67|f
+Holtz Bay|52.947|173.192|US|Alaska|67|f
 Holyoke|40.584|-102.302|US|Colorado|67
 Hölstein|47.423|7.770|CH|Basel-Landschaft|67
 Holtland|53.281|7.576|DE|Lower Saxony|67
@@ -129,6 +140,10 @@ Holderness|43.732|-71.588|US|New Hampshire|66
 Holcá|20.757|-88.928|MX|Yucatán|66
 Holmfirth|53.570|-1.788|GB|England|66
 Hollis|34.688|-99.912|US|Oklahoma|66
+Holliwell Covered Bridge|41.323|-93.959|US|Iowa|65|f
+Holmes County Airport|40.538|-81.956|US|Ohio|65|f
+Holsnøy|60.532|5.218|NO|Vestland|65|f
+Holyoake Range|-82.217|160.000|AQ||65|f
 Holtgast|53.630|7.575|DE|Lower Saxony|65
 Holovyne|50.471|28.825|UA|Zhytomyr Oblast|65
 Holt|51.356|-2.197|GB|England|65
@@ -148,6 +163,14 @@ Holbav|45.659|25.387|RO|Brașov County|64
 Holytsya|45.749|28.986|UA|Odesa|64
 Holthausen|51.566|7.440|DE|North Rhine-Westphalia|63
 Hölö|59.017|17.533|SE|Stockholm|63
+Hole in the Mountain Peak|40.951|-115.123|US|Nevada|63|f
+Holkham Bay|57.746|-133.625|US|Alaska|63|f
+Hollister Peak|35.344|-120.787|US|California|63|f
+Holly Springs-Marshall County Airport|34.804|-89.520|US|Mississippi|63|f
+Holm of Papa|59.351|-2.869|GB|Scotland|63|f
+Holt Lock and Dam|33.253|-87.450|US|Alabama|63|f
+Holyoke Dam|42.213|-72.602|US|Massachusetts|63|f
+Holzdorf Air Base|51.767|13.167|DE|Brandenburg|63|f
 Holland|42.064|-72.157|US|Massachusetts|63
 Holoubkov|49.776|13.692|CZ|Plzeň Region|63
 Holasice|49.076|16.608|CZ|South Moravian|63
@@ -175,25 +198,233 @@ Holzgünz|48.025|10.259|DE|Bavaria|61
 Holiday Lakes|29.210|-95.517|US|Texas|61
 Holland|30.878|-97.402|US|Texas|61
 Holtzwihr|48.113|7.421|FR|Grand Est|61
+Holcomb Rock Dam|37.510|-79.266|US|Virginia|61|f
+Holcombe Flowage|45.247|-91.148|US|Wisconsin|61|f
+Holhøe|62.103|8.118|NO|Innlandet|61|f
+Holland Island|38.120|-76.088|US|Maryland|61|f
+Höllberg|50.645|8.151|DE|Hesse|61|f
+Hollister Municipal Airport|36.890|-121.404|US|California|61|f
+Holmul|17.312|-89.273|GT|Petén|61|f
 Holving|49.012|6.966|FR|Grand Est|61
 Holzappel|50.350|7.900|DE|Rheinland-Pfalz|61
 Holgate|41.249|-84.133|US|Ohio|61
 Holmwood|51.180|-0.322|GB|England|61
 Holbrook|51.983|1.159|GB|England|61
 Hollingstedt|54.459|9.337|DE|Schleswig-Holstein|60
+Holzheim bei Oder|49.267|12.167|DE|Bavaria|60
+Holbeach Clough|52.825|-0.011|GB|England|60
+Hollywood|34.724|-85.972|US|Alabama|60
+Holwierde|53.358|6.874|NL|Groningen|60
+Holzdorf|54.554|9.897|DE|Schleswig-Holstein|60
+Holungen|51.492|10.394|DE|Thuringia|60
+Holubov|48.890|14.321|CZ|South Bohemian Region|60
+Holcombe|51.247|-2.472|GB|England|60
+Holda|47.262|25.679|RO|Suceava|59
+Hollywood|33.473|-86.783|US|Alabama|59
+Hollnseth|53.583|9.100|DE|Lower Saxony|59
+Holzkirchen|49.781|9.680|DE|Bavaria|59
+Holque|50.855|2.203|FR|Hauts-de-France|59
+Holzheim|50.354|8.048|DE|Rheinland-Pfalz|59
+Hollange|49.906|5.688|BE|Wallonia|59
+Holden|37.824|-82.060|US|West Virginia|59
+Holldorf|53.465|13.271|DE|Mecklenburg-Vorpommern|59
+Holthusen|53.541|11.354|DE|Mecklenburg-Vorpommern|59
+Hollen|53.425|8.705|DE|Lower Saxony|59
+Holovach|49.469|34.597|UA|Poltava|59
+Holohlavy|50.308|15.860|CZ|Hradec Králové Region|59
+Holubice|49.177|16.812|CZ|South Moravian|58
+Hollogne-sur-Geer|50.677|5.204|BE|Wallonia|58
+Holly Pond|34.174|-86.616|US|Alabama|58
+Hollow Creek|38.153|-85.624|US|Kentucky|58
+Holbrook Municipal Airport|34.936|-110.142|US|Arizona|58|f
+Holcomb Observatory and Planetarium|39.841|-86.171|US|Indiana|58|f
+Holderness|53.750|-0.117|GB|England|58|f
+Holdridge Island|60.591|-64.735|CA|Nunavut|58|f
+Hole Rock|-61.890|-57.686|AQ||58|f
+Holliway Mountain|48.617|-120.730|US|Washington|58|f
+Holm Island|54.372|18.654|PL|Pomerania|58|f
+Holmes Rock|-62.383|-59.835|AQ||58|f
+Holnicote Bay|-8.535|148.323|PG|Oro Province|58|f
+Holtefjell|59.850|9.800|NO|Buskerud|58|f
+Holovanivsk|48.361|30.395|UA|Kirovohrad|58
+Holsbybrunn|57.433|15.200|SE|Jönköping|58
 Holguera|39.899|-6.350|ES|Extremadura|58
+Holdenstedt|51.476|11.446|DE|Saxony-Anhalt|58
+Holm|56.739|12.855|SE|Halland|58
+Holly|38.052|-102.123|US|Colorado|58
+Holmesfield|53.295|-1.518|GB|England|58
+Holzem|49.616|5.990|LU|Capellen|57
+Holčovice|50.156|17.493|CZ|Moravian-Silesian Region|57
+Holycross|52.640|-7.863|IE|Munster|57
+Holdingford|45.731|-94.470|US|Minnesota|57
+Hollow Rock|36.038|-88.274|US|Tennessee|57
+Holderbank|47.333|7.753|CH|Solothurn|57
+Hollister|36.256|-77.936|US|North Carolina|57
+Holzen|51.933|9.667|DE|Lower Saxony|57
 Holzhausen|48.223|14.097|AT|Upper Austria|56
+Hollebeke|50.805|2.937|BE|Flanders|56
+Holoborodka|50.254|32.576|UA|Poltava|56
+Holoborodkivske|49.489|35.095|UA|Poltava|56
+Holme|52.476|-0.245|GB|England|56
+Holden Beach|33.914|-78.304|US|North Carolina|56
+Holme|59.651|5.161|NO|Vestland|56
+Holland|38.246|-87.036|US|Indiana|56
+Holactun|20.877|-89.329|MX|Yucatán|56
+Holland|44.969|-72.003|US|Vermont|56
+Hollis Crossroads|33.524|-85.637|US|Alabama|56
+Holcomb|36.399|-90.024|US|Missouri|56
+Holcomb|33.761|-89.976|US|Mississippi|56
+Holiday Hills|42.290|-88.225|US|Illinois|55
+Hollesley|52.050|1.431|GB|England|55
+Holmbury St Mary|51.187|-0.410|GB|England|55
 Hollenstein an der Ybbs|47.803|14.773|AT|Lower Austria|55
+Holcá|21.091|-88.269|MX|Yucatán|55
+Hollyvilla|38.094|-85.746|US|Kentucky|55
+Holland|35.171|-92.274|US|Arkansas|55
+Holly Grove|34.596|-91.200|US|Arkansas|55
+Hollins|33.118|-86.144|US|Alabama|55
+Holsthum|49.894|6.413|DE|Rheinland-Pfalz|55
+Holdița|47.255|25.699|RO|Suceava|55
+Holín|50.452|15.321|CZ|Hradec Králové Region|55
+Hollenfels|49.713|6.051|LU|Mersch|55
+Holzbach|49.950|7.533|DE|Rheinland-Pfalz|55
+Holåbreen|61.733|7.900|NO|Innlandet|54|f
+Holborn Head|58.617|-3.533|GB|Scotland|54|f
+Holderen|64.036|12.902|NO||54|f
+Holdfast Point|-66.803|-66.590|AQ||54|f
+Holleder Memorial Stadium (historical)|43.192|-77.657|US|New York|54|f
+Hollin Airport|45.054|-122.908|US|Oregon|54|f
+Hollingworth Lake|53.617|-2.100|GB|England|54|f
+Hollywood Heritage Museum|34.108|-118.337|US|California|54|f
+Hollywood Park|38.336|-76.596|US|Maryland|54|f
+Hollywood Reservoir|34.121|-118.332|US|California|54|f
+Holm Land|80.367|-18.000|GL||54|f
+Holm of Grimbister|59.000|-3.083|GB|Scotland|54|f
+Holm of Houton|58.917|-3.183|GB|Scotland|54|f
+Holman Stadium|27.644|-80.427|US|Florida|54|f
+Holmavatnet|59.693|7.149|NO|Telemark|54|f
+Holmes Creek Covered Bridge|44.333|-73.282|US|Vermont|54|f
+Holmes Island|-65.695|-65.243|AQ||54|f
+Holmevatn|59.468|7.005|NO|Agder|54|f
+Holtanna Peak|-71.900|8.367|AQ||54|f
+Holtedahlfonna|79.011|13.730|SJ|Svalbard|54|f
+Holtsós|63.543|-19.738|IS|South|54|f
+Holy Island|55.525|-5.073|GB|Scotland|54|f
+Holy Island|52.913|-8.450|IE|Munster|54|f
+Holonga|-21.193|-175.143|TO|Tongatapu|54
+Holiday Beach|28.169|-97.010|US|Texas|54
+Holstenniendorf|54.042|9.348|DE|Schleswig-Holstein|53
 Hollenthon|47.589|16.261|AT|Lower Austria|53
 Hollersbach im Pinzgau|47.277|12.423|AT|Salzburg|52
 Holzgau|47.260|10.344|AT|Tyrol|52
+Holzbunge|54.380|9.706|DE|Schleswig-Holstein|51
+Hollingstedt|54.290|9.225|DE|Schleswig-Holstein|51
 Hollym|53.704|0.040|GB|England|51
+Holzsußra|51.283|10.683|DE|Thuringia|50
+Hollnich|50.067|7.483|DE|Rheinland-Pfalz|49
+Holzkirch|48.531|9.995|DE|Baden-Wurttemberg|49
+Holbourne Island National Park|-19.727|148.359|AU|Queensland|49|f
+Holbox Island|21.531|-87.286|MX|Quintana Roo|49|f
+Holden|64.337|13.538|NO|Trøndelag|49|f
+Holden|64.074|10.945|NO|Trøndelag|49|f
+Holder Peak|-69.742|74.520|AQ||49|f
+Holdfast Bay|-34.971|138.508|AU|South Australia|49|f
+Holdgate Castle|52.503|-2.647|GB|England|49|f
+Holiday Peak|-78.100|163.600|AQ||49|f
+Holl Island|-66.411|110.409|AQ||49|f
+Holland Museum|42.789|-86.109|US|Michigan|49|f
+Hollesley Bay|52.062|1.526|GB|England|49|f
+Hollin Island|-66.321|110.400|AQ||49|f
+Hollingshead, Mount|-70.691|66.116|AQ||49|f
+Hollingsworth Glacier|-75.550|159.950|AQ||49|f
+Hollis Reservoir|10.695|-61.192|TT|Sangre Grande Regional Corporation|49|f
+Hollister Hill|42.312|-74.901|US|New York|49|f
+Hollywood Wax Museum|34.102|-118.338|US|California|49|f
+Holm of Faray|59.234|-2.830|GB|Scotland|49|f
+Holm of Huip|59.166|-2.651|GB|Scotland|49|f
+Holm of Scockness|59.167|-2.950|GB|Scotland|49|f
+Holm of Skaw|60.831|-0.773|GB|Scotland|49|f
+Holm-Hansen, Mount|-77.600|162.183|AQ||49|f
+Holmboe, Mount|-77.333|-86.583|AQ||49|f
+Holmen|59.900|21.800|FI|Southwest Finland|49|f
+Holmen|59.736|10.227|NO|Buskerud|49|f
+Holmes Island|41.628|-86.749|US|Indiana|49|f
+Holmes Island|47.024|-122.781|US|Washington|49|f
+Holmevatnet|60.456|5.984|NO|Vestland|49|f
+Holmevatnet|59.462|7.014|NO|Rogaland|49|f
+Holocaust Memorial|52.514|13.379|DE|State of Berlin|49|f
+Holocaust Memorial Center|47.484|19.074|HU|Budapest|49|f
+Holoviak Glacier|-71.347|-72.142|AQ||49|f
+Holsavatnet|61.421|6.096|NO|Vestland|49|f
+Holskardvatnet|60.934|6.179|NO|Vestland|49|f
+Holst Peak|-71.333|-70.100|AQ||49|f
+Holst Point|-65.535|-63.826|AQ||49|f
+Holter Dam|46.991|-112.005|US|Montana|49|f
+Holth Peaks|-77.417|-86.717|AQ||49|f
+Holy Lake|52.413|13.072|DE|Brandenburg|49|f
+Holy Loch|55.983|-4.917|GB|Scotland|49|f
+Holyhead Mountain|53.313|-4.676|GB|Wales|49|f
 Hollenegg|46.791|15.213|AT|Styria|46
+Holt|54.817|9.150|DE|Schleswig-Holstein|45
 Holtby|53.979|-0.973|GB|England|44
+Holcomb Glacier|-75.583|-142.800|AQ||40|f
+Hold with Hope|73.714|-21.094|GL||40|f
+Holden Lake|47.483|-80.258|CA|Ontario|40|f
+Holdsworth Glacier|-86.500|-154.000|AQ||40|f
+Hole-in-the-Wall Park|55.150|-121.870|CA|British Columbia|40|f
+Holes Bay|50.729|-1.995|GB|England|40|f
+Holgate Glacier|59.891|-149.968|US|Alaska|40|f
+Holhudhoo|5.755|73.263|MV||40|f
+Holker Street|54.123|-3.235|GB|England|40|f
+Holla Bend National Wildlife Refuge|35.140|-93.060|US|Arkansas|40|f
+Holland Marsh Lake|44.669|-63.819|CA|Nova Scotia|40|f
+Holland State Park|42.779|-86.205|US|Michigan|40|f
+Hollandsche Schouwburg|52.366|4.911|NL|North Holland|40|f
+Hollebeke Mountain|49.383|-114.569|CA|Alberta|40|f
+Holleford Crater|44.450|-76.633|CA|Ontario|40|f
+Hollenbeck Park|34.040|-118.217|US|California|40|f
+Hollister Peak|-78.545|-85.589|AQ||40|f
+Hollola TV Mast|61.007|25.523|FI|Paijat-Hame|40|f
+Holly Bluff Site|32.814|-90.683|US|Mississippi|40|f
+Holly Lake|43.793|-110.798|US|Wyoming|40|f
+Holly Park|37.737|-122.421|US|California|40|f
+Holly River State Park|38.665|-80.335|US|West Virginia|40|f
+Holm Island|51.436|-0.529|GB|England|40|f
+Holman Stadium|42.769|-71.473|US|New Hampshire|40|f
+Holmdel County Park|40.378|-74.184|US|New Jersey|40|f
+Holme Moss Transmitting Station|53.533|-1.858|GB|England|40|f
+Holmes County State Park|33.029|-89.916|US|Mississippi|40|f
+Holmes Island|43.641|-66.062|CA|Nova Scotia|40|f
+Holmes Ridge|-79.167|156.700|AQ||40|f
+Holston Mountain|36.458|-82.077|US|Tennessee|40|f
+Holt Castle|53.078|-2.880|GB|Wales|40|f
+Holt Collier National Wildlife Refuge|33.231|-90.768|US|Mississippi|40|f
+Holt Glacier|-74.667|-110.600|AQ||40|f
+Holt Peak|-79.750|-81.067|AQ||40|f
+Holt Point|-66.283|110.500|AQ||40|f
+Holtedahl Peaks|-71.783|8.967|AQ||40|f
+Holts Landing State Park|38.590|-75.128|US|Delaware|40|f
+Holtville Airport|32.842|-115.275|US|California|40|f
+Holtwood Dam|39.827|-76.337|US|Pennsylvania|40|f
+Holualoa Bay|19.603|-155.975|US|Hawaii|40|f
+Holy Cross of San Antonio School Baseball Field|29.442|-98.556|US|Texas|40|f
+Holy Island|42.725|-70.826|US|Massachusetts|40|f
+Holy Jesus Hospital|54.971|-1.608|GB|England|40|f
+Holy Land Experience|28.496|-81.433|US|Florida|40|f
+Holyoke Glacier|61.167|-147.960|US|Alaska|40|f
+Holyoke Heritage State Park|42.205|-72.607|US|Massachusetts|40|f
+Holzrichter Glacier|-84.833|-172.500|AQ||40|f
+Holm|54.833|8.867|DE|Schleswig-Holstein|38
 Hol|60.615|8.294|NO|Buskerud|0
 Holboo|48.589|95.433|MN|Dzabkhan|0
+Holenberg|51.917|9.583|DE|Lower Saxony|0
+Hollenbek|53.591|10.820|DE|Schleswig-Holstein|0
 Holmpton|53.688|0.066|GB|England|0
+Holoriang|-8.273|123.399|ID|East Nusa Tenggara|0
 Holovyn|50.894|26.291|UA|Rivne Oblast|0
+Holt|44.433|119.200|CN|Inner Mongolia|0
 Holt|53.067|-2.883|GB|Wales|0
 Holte|55.817|12.467|DK|Capital Region|0
 Holwick|54.636|-2.144|GB|England|0
+Holzerath|49.680|6.761|DE|Rheinland-Pfalz|0
+Holzheim|48.611|10.948|DE|Bavaria|0

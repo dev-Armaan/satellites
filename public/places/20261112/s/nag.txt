@@ -47,6 +47,7 @@ Nāgothana|18.542|73.135|IN|Maharashtra|82
 Nāgireddipalli|14.270|79.101|IN|Andhra Pradesh|82
 Nagytétény|47.395|18.986|HU|Pest County|82
 Nagapur|19.159|74.701|IN|Maharashtra|81
+Naga Airport|13.585|123.270|PH|Bicol Region|81|f
 Nagano|38.091|140.655|JP|Miyagi|81
 Nagīna|27.917|76.982|IN|Haryana|81
 Nagykálló|47.875|21.841|HU|Szabolcs-Szatmár-Bereg|81
@@ -55,6 +56,7 @@ Nagyatád|46.230|17.358|HU|Somogy County|80
 Naganuma|43.006|141.690|JP|Hokkaido|80
 Nāgojanahalli|12.357|78.289|IN|Tamil Nadu|80
 Nagrām|26.619|81.140|IN|Uttar Pradesh|80
+Nagoya castle|35.186|136.899|JP|Aichi|80|f
 Nagri Kalan|23.816|86.344|IN|Jharkhand|79
 Nāg|31.730|74.942|IN|Punjab|79
 Nagaoda|33.000|130.603|JP|Kumamoto|79
@@ -62,6 +64,7 @@ Nagadoukou|6.426|-5.781|CI|Goh-Djiboua|79
 Nagykovácsi|47.581|18.885|HU|Pest County|79
 Naguilian|17.023|121.837|PH|Cagayan Valley|79
 Naga|7.770|122.751|PH|Zamboanga Peninsula|79
+Nagoya TV Tower|35.172|136.908|JP|Aichi|78|f
 Nagasao|35.883|140.283|JP|Ibaraki|78
 Naginimora|26.815|94.811|IN|Nagaland|78
 Nagsaing|15.981|120.338|PH|Ilocos|77
@@ -86,6 +89,7 @@ Nagbalaye|9.249|122.876|PH|Central Visayas|74
 Nagorsk|59.319|50.806|RU|Kirov Oblast|74
 Naguabo|18.212|-65.735|PR|Naguabo|73
 Nagymaros|47.793|18.960|HU|Pest County|73
+Nagasaki Airport|32.917|129.914|JP|Nagasaki|72|f
 Nagiso|35.609|137.611|JP|Nagano|72
 Nagarkot|27.715|85.521|NP|Bagmati Province|72
 Nagyvenyim|46.958|18.864|HU|Fejér|72
@@ -103,6 +107,8 @@ Nags Head|35.957|-75.624|US|North Carolina|69
 Nagytarcsa|47.531|19.283|HU|Pest County|69
 Nagydorog|46.627|18.656|HU|Tolna County|69
 Nagbacalan|18.116|120.523|PH|Ilocos|69
+Nagoya Airfield|35.257|136.926|JP|Aichi|69|f
+Nagy-Milic|48.577|21.458|HU||69|f
 Nago-Torbole|45.876|10.891|IT|Trentino-Alto Adige|69
 Nagase|35.230|139.716|JP|Kanagawa|68
 Nāgalwāri|21.121|78.960|IN|Maharashtra|68
@@ -111,6 +117,7 @@ Nagybaracska|46.042|18.906|HU|Bács-Kiskun|68
 Nagyrábé|47.200|21.333|HU|Hajdú-Bihar|68
 Nagiba|13.330|121.274|PH|Mimaropa|67
 Nagydobos|48.058|22.304|HU|Szabolcs-Szatmár-Bereg|67
+Nagara Dam|35.477|140.203|JP|Chiba|67|f
 Nagyoroszi|48.005|19.090|HU|Nógrád|67
 Nagar|32.138|77.174|IN|Himachal Pradesh|66
 Nagel|49.983|11.917|DE|Bavaria|66
@@ -121,6 +128,12 @@ Nagounanvogo|9.681|-5.518|CI|Savanes District|65
 Nagycenk|47.604|16.697|HU|Győr-Moson-Sopron|65
 Nāghān-e Soflá|31.524|50.757|IR|Chaharmahal and Bakhtiari|65
 Nagyfüged|47.683|20.117|HU|Heves County|64
+Nagagutsu Point|-69.683|38.350|AQ||63|f
+Nagai Island|55.092|-160.016|US|Alaska|63|f
+Nāgārjunasāgar Dam|16.576|79.312|IN|Andhra Pradesh|63|f
+Nagasawa-damu|33.729|133.284|JP|Kochi|63|f
+Nagawado-damu|36.133|137.718|JP|Nagano|63|f
+Nagybánya Ghetto|47.667|23.583|RO|Maramureş|63|f
 Nages-et-Solorgues|43.791|4.230|FR|Occitanie|63
 Nagu|60.194|21.910|FI|Southwest Finland|63
 Nagafou|7.892|-3.076|CI|Zanzan District|63
@@ -130,13 +143,48 @@ Nagata|30.395|130.425|JP|Kagoshima|62
 Nagabaré|8.089|-3.197|CI|Zanzan District|61
 Nagaro|14.474|33.249|SD|Al Jazirah|61
 Nagyrécse|46.490|17.052|HU|Zala County|61
+Nagla Panchi|27.113|79.121|IN|Uttar Pradesh|60
 Nagłowice|50.678|20.107|PL|Świętokrzyskie|60
+Nagybarca|48.250|20.533|HU|Borsod-Abaúj-Zemplén|59
+Na Gruagaichean|56.744|-4.940|GB|Scotland|58|f
+Nāg Tibba|30.586|78.151|IN|Uttarakhand|58|f
+Nāga Hills|26.000|95.000|IN|Nagaland|58|f
+Nagyeongsan|36.640|127.819|KR|North Chungcheong|58|f
+Nagibin|49.567|40.553|RU|Rostov|57
+Nagydobsza|46.033|17.667|HU|Baranya|57
+Nagornyy|57.561|39.838|RU|Yaroslavl Oblast|57
+Nagabaré|8.136|-2.941|CI|Zanzan District|56
+Nagbélékaha|9.228|-6.102|CI|Savanes District|56
+Nagornskiy|58.769|57.546|RU|Perm Krai|55
+Nagelsti|54.748|11.845|DK|Zealand|54
+Nagau|29.277|67.296|PK|Balochistan|49|f
+Nagle Dam|-29.594|30.643|ZA|KwaZulu-Natal|49|f
+Nagunt Mesa|37.439|-113.164|US|Utah|49|f
+Naga|16.208|33.326|SD||40|f
 Naglići|45.512|14.923|HR|Primorje-Gorski Kotar|0
+Naga|-7.044|113.693|ID|East Java|0
 Nagaoka|34.931|135.692|JP|Kyoto|0
+Nagara Tengah|-7.193|107.884|ID|West Java|0
+Nagaracinta|-7.293|107.814|ID|West Java|0
+Nagarakembang|-7.040|108.334|ID|West Java|0
 Nagarasari|-7.300|108.221|ID|West Java|0
+Nagasari|-7.372|106.959|ID|West Java|0
 Nagir|36.275|74.720|PK|Gilgit-Baltistan|0
 Nagqu|31.403|92.003|CN|Tibet|0
+Nagrak|-6.895|106.465|ID|West Java|0
+Nagrak|-7.336|106.553|ID|West Java|0
+Nagrak|-7.446|107.596|ID|West Java|0
+Nagrak|-7.563|108.695|ID|West Java|0
+Nagraksari|-7.279|106.623|ID|West Java|0
+Nagreg|-6.256|106.006|ID|Banten|0
+Nagreg|-6.219|106.089|ID|Banten|0
 Nagréongo|12.478|-1.201|BF|Plateau-Central|0
+Nagrog|-6.318|106.034|ID|Banten|0
+Nagrog|-7.660|107.984|ID|West Java|0
+Nagrog|-7.390|108.030|ID|West Java|0
+Nagrog|-7.035|107.230|ID|West Java|0
+Nagrog Wetan|-7.207|107.947|ID|West Java|0
+Nagrok|-7.375|108.165|ID|West Java|0
 Naguanagua|10.256|-68.016|VE|Carabobo|0
 Naguilian|16.534|120.397|PH|Ilocos|0
 Nagwol|35.202|126.138|KR|Jeollanam-do|0

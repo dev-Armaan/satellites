@@ -6,8 +6,8 @@ Rockhampton|-23.380|150.506|AU|Queensland|98
 Rochester Hills|42.658|-83.150|US|Michigan|97
 Rock Hill|34.925|-81.025|US|South Carolina|97
 Rockville|39.084|-77.153|US|Maryland|97
-Rocklin|38.791|-121.236|US|California|96
 Rocha Department|-34.000|-54.000|UY||96|r
+Rocklin|38.791|-121.236|US|California|96
 Rocky Mount|35.938|-77.791|US|North Carolina|95
 Rockwall|32.931|-96.460|US|Texas|93
 Rock Island|41.509|-90.579|US|Illinois|92
@@ -16,6 +16,7 @@ Rochester|43.305|-70.976|US|New Hampshire|90
 Rochefort|45.943|-0.968|FR|New Aquitaine|89
 Rochester|51.388|0.505|GB|England|89
 Rocha|-34.480|-54.331|UY|Rocha Department|89
+Rocas Atoll|-3.864|-33.806|BR|Rio Grande do Norte|88|f
 Rockledge|28.351|-80.725|US|Florida|88
 Rocinha|-22.989|-43.249|BR|Rio de Janeiro|88
 Rockville Centre|40.659|-73.641|US|New York|88
@@ -38,6 +39,7 @@ Roca Sales|-29.284|-51.867|BR|Rio Grande do Sul|80
 Roche-la-Molière|45.431|4.328|FR|Auvergne-Rhône-Alpes|80
 Rocafuerte|-0.924|-80.450|EC|Manabí|80
 Rockingham|44.673|-63.645|CA|Nova Scotia|80
+Rochers de Naye|46.432|6.976|CH|Vaud|80|f
 Rockcreek|45.550|-122.877|US|Oregon|79
 Rochelle|41.924|-89.069|US|Illinois|79
 Rockingham|34.939|-79.774|US|North Carolina|79
@@ -47,6 +49,7 @@ Rockton|42.453|-89.072|US|Illinois|78
 Rockville|41.867|-72.450|US|Connecticut|77
 Rockland|44.104|-69.109|US|Maine|77
 Rocourt|50.676|5.546|BE|Wallonia|77
+Rocky Mountains|43.358|-110.917|US||77|f
 Rochlitz|51.050|12.798|DE|Saxony|77
 Roccarainola|40.972|14.543|IT|Campania|77
 Rocky Mountain House|52.367|-114.919|CA|Alberta|76
@@ -57,11 +60,15 @@ Rockford|43.120|-85.560|US|Michigan|76
 Rochester|41.065|-86.216|US|Indiana|76
 Rocafort|39.533|-0.400|ES|Valencia|76
 Roccella Ionica|38.321|16.397|IT|Calabria|76
+Rochelle Municipal Airport|41.893|-89.078|US|Illinois|75|f
+Rochester Castle|51.389|0.501|GB|England|75|f
 Rockenhausen|49.630|7.821|DE|Rheinland-Pfalz|75
 Roches Noire|-20.111|57.712|MU|Rivière du Rempart|75
 Rockdale|30.655|-97.001|US|Texas|75
 Rochelle Park|40.907|-74.075|US|New Jersey|75
 Rockwood|35.866|-84.685|US|Tennessee|75
+Rockingham County NC Shiloh Airport|36.437|-79.851|US|North Carolina|74|f
+Rocky Mountain House Airport|52.430|-114.904|CA|Alberta|74|f
 Rochedo|-19.953|-54.892|BR|Mato Grosso do Sul|74
 Rockingham|43.188|-72.489|US|Vermont|74
 Rockport|42.656|-70.620|US|Massachusetts|74
@@ -93,6 +100,7 @@ Roccafranca|45.464|9.913|IT|Lombardy|70
 Rocbaron|43.309|6.079|FR|Provence-Alpes-Côte d'Azur|70
 Roche Terre|-20.019|57.645|MU|Rivière du Rempart|70
 Rockwood|42.071|-83.247|US|Michigan|70
+Rocky Bay|22.232|114.254|HK||70|f
 Rocky Point|17.774|-77.261|JM|Clarendon|70
 Rochecorbon|47.417|0.755|FR|Centre-Val de Loire|70
 Rock Island|26.155|-80.177|US|Florida|70
@@ -114,6 +122,8 @@ Rochegda|62.668|43.413|RU|Arkhangelskaya|67
 Roccamonfina|41.287|13.979|IT|Campania|67
 Roccastrada|43.009|11.168|IT|Tuscany|67
 Rochedo de Minas|-21.630|-43.020|BR|Minas Gerais|67
+Rock Islands|7.230|134.310|PW|Koror|67|f
+Rockingham Castle|52.513|-0.724|GB|England|67|f
 Rockport|37.883|-87.049|US|Indiana|67
 Roccapalumba|37.808|13.637|IT|Sicily|67
 Rockwell|35.551|-80.406|US|North Carolina|67
@@ -127,6 +137,10 @@ Rocca Imperiale Marina|40.100|16.613|IT|Calabria|66
 Roccelletta|38.811|16.598|IT|Calabria|66
 Rockcliffe Park|45.450|-75.683|CA|Ontario|66
 Rocchetta Sant'Antonio|41.103|15.460|IT|Apulia|65
+Rock Sound International Airport|24.892|-76.170|BS|South Eleuthera|65|f
+Rocky Island|16.844|112.347|CN||65|f
+Rocky Peak|34.292|-118.636|US|California|65|f
+Rocky Reach Dam|47.532|-120.297|US|Washington|65|f
 Rocky Top|36.218|-84.155|US|Tennessee|65
 Roccaforzata|40.437|17.390|IT|Apulia|65
 Rock Hill|41.626|-74.598|US|New York|65
@@ -140,6 +154,10 @@ Rocky Point|47.593|-122.668|US|Washington|64
 Roccamena|37.838|13.155|IT|Sicily|64
 Rochfortbridge|53.414|-7.296|IE|Leinster|63
 Roccasecca|41.551|13.667|IT|Lazio|63
+Rocha Lagoon|-34.624|-54.286|UY|Rocha Department|63|f
+Roche Harbor Airport|48.611|-123.139|US|Washington|63|f
+Rockabill|53.598|-6.004|IE|Leinster|63|f
+Rockchuck Peak|43.788|-110.768|US|Wyoming|63|f
 Roccabruna|44.475|7.344|IT|Piedmont|63
 Rock Creek|33.477|-87.080|US|Alabama|63
 Roccabianca|45.008|10.218|IT|Emilia-Romagna|63
@@ -155,6 +173,14 @@ Roclenge-sur-Geer|50.757|5.594|BE|Wallonia|62
 Rochetaillée-sur-Saône|45.850|4.850|FR|Auvergne-Rhône-Alpes|62
 Roccanova|40.212|16.204|IT|Basilicate|61
 Rochelle|31.951|-83.456|US|Georgia|61
+Roch Castle|51.849|-5.079|GB|Wales|61|f
+Rocher Déboulé Range|55.116|-127.587|CA|British Columbia|61|f
+Rock Island Dam|47.343|-120.093|US|Washington|61|f
+Rock Springs-Sweetwater County Airport|41.594|-109.066|US|Wyoming|61|f
+Rocky Island|-15.607|145.335|AU|Queensland|61|f
+Rocky Mount-Wilson Regional Airport|35.854|-77.897|US|North Carolina|61|f
+Rocky Mountain Metropolitan Airport|39.912|-105.117|US|Colorado|61|f
+Rocky Point Island|-14.232|144.577|AU|Queensland|61|f
 Rocksprings|30.016|-100.205|US|Texas|61
 Rockford|40.688|-84.647|US|Ohio|61
 Rockford|40.477|-81.308|US|Ohio|61
@@ -165,24 +191,115 @@ Rockwell|42.985|-93.192|US|Iowa|60
 Rocchetta Tanaro|44.859|8.346|IT|Piedmont|60
 Roccaforte Mondovì|44.317|7.744|IT|Piedmont|60
 Rock Sound|24.866|-76.160|BS|South Eleuthera|60
+Rochetoirin|45.584|5.412|FR|Auvergne-Rhône-Alpes|59
+Rockwood|40.380|-76.451|US|Pennsylvania|59
+Rocky Harbour|49.600|-57.915|CA|Newfoundland and Labrador|59
 Roccamandolfi|41.496|14.352|IT|Molise|59
+Rockneby|56.802|16.350|SE|Kalmar|59
+Rock Island|45.007|-72.096|CA|Quebec|59
+Rochefort-Montagne|45.685|2.804|FR|Auvergne-Rhône-Alpes|59
 Rocca Santo Stefano|41.911|13.024|IT|Lazio|59
+Roche|46.361|6.933|CH|Vaud|59
+Rockaway Beach|36.699|-93.160|US|Missouri|59
+Rockford|35.828|-83.941|US|Tennessee|59
+Rockwood|39.916|-79.152|US|Pennsylvania|59
+Rockford|43.052|-92.949|US|Iowa|59
+Rochefort-en-Yvelines|48.585|1.988|FR|Île-de-France|58
+Rochefort-Samson|44.971|5.151|FR|Auvergne-Rhône-Alpes|58
 Roccagloriosa|40.106|15.436|IT|Campania|58
+Rock Island|47.377|-120.144|US|Washington|58
+Rocca d'Ambin|45.158|6.885|FR|Auvergne-Rhône-Alpes|58|f
+Rocca Islands|-67.783|-68.764|AQ||58|f
+Roche Jacques|53.040|-117.961|CA|Alberta|58|f
+Roche Miette|53.165|-117.921|CA|Alberta|58|f
+Roché Peak|-54.000|-38.033|GS||58|f
+Rock Dam Lake|44.728|-90.842|US|Wisconsin|58|f
+Rock Pile Point|-68.403|-64.977|AQ||58|f
+Rock Rift Mountain|42.074|-75.172|US|New York|58|f
+Rockport Lake|40.790|-111.404|US|Utah|58|f
+Rockville Bridge|40.333|-76.911|US|Pennsylvania|58|f
+Rocky Hills|45.070|-112.979|US|Montana|58|f
+Rocky Island|51.837|-8.302|IE|Munster|58|f
+Rocky Island|45.609|-86.710|US|Michigan|58|f
+Rocky Island|47.039|-90.679|US|Wisconsin|58|f
+Rocky Islands|-34.071|120.901|AU|Western Australia|58|f
 Rocca Imperiale|40.110|16.578|IT|Calabria|58
+Rochetrejoux|46.789|-0.996|FR|Pays de la Loire|58
+Rocchetta Cairo|44.429|8.300|IT|Liguria|58
+Röckingen|49.055|10.560|DE|Bavaria|58
+Roccatederighi|43.028|11.081|IT|Tuscany|58
+Rocky Ridge|39.925|-111.827|US|Utah|58
+Roclincourt|50.326|2.787|FR|Hauts-de-France|58
+Rocquigny|49.690|4.248|FR|Grand Est|58
+Rockport|34.388|-92.825|US|Arkansas|58
 Roccasecca dei Volsci|41.479|13.213|IT|Lazio|57
 Roccavivara|41.833|14.600|IT|Molise|57
 Roccaspinalveti-Santa Giusta|41.942|14.471|IT|Abruzzo|57
+Rochau|52.707|11.745|DE|Saxony-Anhalt|57
 Roccavignale|44.361|8.191|IT|Liguria|57
 Roccavaldina|38.183|15.374|IT|Sicily|57
+Rocchenere|37.974|15.376|IT|Sicily|57
 Rocca di Botte|42.031|13.072|IT|Abruzzo|57
 Roccella Valdemone|37.933|15.010|IT|Sicily|57
+Rocky Hill|40.400|-74.634|US|New Jersey|57
+Rochefort-en-Terre|47.699|-2.337|FR|Brittany|57
+Rochesson|48.022|6.787|FR|Grand Est|57
+Rochefort-sur-Nenon|47.125|5.562|FR|Bourgogne-Franche-Comté|56
 Rocca San Giovanni|42.246|14.462|IT|Abruzzo|56
+Rocamadour|44.800|1.619|FR|Occitanie|56
+Rochy-Condé|49.401|2.185|FR|Hauts-de-France|56
+Roches-lès-Blamont|47.408|6.850|FR|Bourgogne-Franche-Comté|56
+Rock Point|36.718|-109.626|US|Arizona|56
+Roccazzo|37.052|14.629|IT|Sicily|56
+Rocky Fork Point|39.191|-83.491|US|Ohio|56
+Rock Island|35.182|-94.474|US|Oklahoma|56
+Rocha Lama|15.128|-23.531|CV|Santa Cruz|56
+Rocky Ripple|39.848|-86.172|US|Indiana|56
+Roches-sur-Marne|48.605|5.042|FR|Grand Est|56
+Rockland|43.906|-90.919|US|Wisconsin|56
+Rocquemont|49.604|1.283|FR|Normandy|56
 Rocchetta Nuova|41.624|14.086|IT|Molise|56
+Rocquancourt|49.094|-0.321|FR|Normandy|56
 Rocca Canavese|45.309|7.579|IT|Piedmont|56
+Rock Mills|33.160|-85.287|US|Alabama|56
+Röcken|51.241|12.115|DE|Saxony-Anhalt|56
+Rocheville|49.504|-1.595|FR|Normandy|55
+Ročov|50.253|13.775|CZ|Ústí nad Labem Region|55
+Rock Springs|35.609|-108.829|US|New Mexico|55
 Roccacasale|42.122|13.888|IT|Abruzzo|55
+Rocca Malatina|44.389|10.965|IT|Emilia-Romagna|55
+Rockendorf|50.673|11.520|DE|Thuringia|55
 Roccabascerana|41.018|14.717|IT|Campania|55
+Rockleigh|41.000|-73.930|US|New Jersey|55
 Roccasicura|41.697|14.231|IT|Molise|55
+Ročevnica|46.354|14.285|SI|Municipality of Tržič|54
 Roccaforte del Greco|38.048|15.892|IT|Calabria|54
+Roca Colom|42.417|2.317|ES||54|f
+Roca Entravessada|42.598|1.441|AD||54|f
+Roca Islands|-65.185|-64.451|AQ||54|f
+Rocca Busambra|37.850|13.400|IT|Sicily|54|f
+Rocca Dei Baranci|46.689|12.277|IT|Trentino-Alto Adige|54|f
+Rocca di Villalago|41.937|13.837|IT|Abruzzo|54|f
+Roche Chevrière|45.293|6.721|FR|Auvergne-Rhône-Alpes|54|f
+Roche de la Muzelle|44.931|6.107|FR|Auvergne-Rhône-Alpes|54|f
+Roches Percées|15.874|-61.567|GP||54|f
+Rochester Airport|51.352|0.503|GB|England|54|f
+Rochester, Rochester International Airport|43.910|-92.496|US|Minnesota|54|f
+Rock Creek Park|38.951|-77.050|US|District of Columbia|54|f
+Rock Cut State Park|42.352|-88.976|US|Illinois|54|f
+Rock Falls Dam|44.718|-91.695|US|Wisconsin|54|f
+Rock Hill, Rock Hill - York County Airport|34.984|-81.056|US|South Carolina|54|f
+Rock Pile Peaks|-68.409|-65.133|AQ||54|f
+Rock Slide Lake|43.954|-115.052|US|Idaho|54|f
+Rockey's Air Strip|40.583|-86.166|US|Indiana|54|f
+Rockhampton Airport|-23.377|150.474|AU|Queensland|54|f
+Rockwood Municipal Airport|35.918|-84.698|US|Tennessee|54|f
+Rocky Arbor State Park|43.642|-89.808|US|Wisconsin|54|f
+Rocky Gorge Reservoir|39.132|-76.918|US|Maryland|54|f
+Rocky Hill|41.673|-72.639|US|Connecticut|54|f
+Rocky Mountain National Park|40.343|-105.684|US|Colorado|54|f
+Rocky Point|41.950|-70.583|US|Massachusetts|54|f
+Rock Creek|41.660|-80.861|US|Ohio|54
 Rockford|32.890|-86.220|US|Alabama|53
 Roccasparvera|44.342|7.442|IT|Piedmont|52
 Rocca Massima|41.679|12.921|IT|Lazio|52
@@ -193,9 +310,28 @@ Rocca Grimalda|44.671|8.648|IT|Piedmont|50
 Rocca di Cambio|42.238|13.489|IT|Abruzzo|50
 Roccaromana|41.274|14.222|IT|Campania|50
 Roccantica|42.321|12.694|IT|Lazio|50
+Rockeskyll|50.250|6.700|DE|Rheinland-Pfalz|49
+Rocca Orsini|42.067|13.341|IT|Abruzzo|49|f
+Roccaguglielma|41.382|13.681|IT|Lazio|49|f
+Rochdale Canal|53.700|-1.917|GB|England|49|f
+Roche Abbey|53.402|-1.183|GB|England|49|f
+Roche Bernaude|45.100|6.617|FR|Provence-Alpes-Côte d'Azur|49|f
+Rochray Glacier|-72.250|-101.150|AQ||49|f
+Rock County Airport|42.575|-99.573|US|Nebraska|49|f
+Rock Island|51.477|-9.708|IE|Munster|49|f
+Rock Island|41.750|-71.381|US|Rhode Island|49|f
+Rock Lake Mountain|43.261|-74.415|US|New York|49|f
+Rock Mountain|47.800|-120.975|US|Washington|49|f
+Rockefeller Mountains|-78.000|-155.000|AQ||49|f
+Rockingham Bay|-18.145|146.081|AU|Queensland|49|f
+Rocky Bay|-12.274|136.907|AU|Northern Territory|49|f
+Rocky Cape National Park|-40.870|145.480|AU|Tasmania|49|f
+Rocky Creek Dam|-28.634|153.344|AU|New South Wales|49|f
+Rocky Mountain|41.973|-74.373|US|New York|49|f
 Roccagiovine|42.051|12.899|IT|Lazio|49
 Rocca d'Arazzo|44.872|8.285|IT|Piedmont|49
 Rocchetta Nervina|43.890|7.601|IT|Liguria|49
+Rockstedt|51.285|10.762|DE|Thuringia|48
 Roccalbegna|42.786|11.508|IT|Tuscany|48
 Rocchetta|41.237|14.158|IT|Campania|48
 Roccafiorita|37.931|15.267|IT|Sicily|47
@@ -209,11 +345,96 @@ Rocchetta Palafea|44.707|8.345|IT|Piedmont|43
 Rocca Sinibalda|42.272|12.925|IT|Lazio|43
 Rocchetta Belbo|44.636|8.175|IT|Piedmont|41
 Rocchetta Ligure|44.707|9.050|IT|Piedmont|41
+Roc d'Enfer|46.183|6.643|FR|Auvergne-Rhône-Alpes|40|f
+Roc d'Orzival|46.195|7.538|CH|Valais|40|f
+Roc de Frausa|42.423|2.727|ES|Catalonia|40|f
+Roc de Gleisin|45.437|5.848|FR|Auvergne-Rhône-Alpes|40|f
+Roc Noir|45.988|7.491|CH|Valais|40|f
+Roca Vecchia|40.287|18.427|IT|Apulia|40|f
+Rocca Calascio|42.329|13.689|IT|Abruzzo|40|f
+Rocca di Urbisaglia|43.196|13.376|IT|The Marches|40|f
+Rocca Malatestiana|44.136|12.240|IT|Emilia-Romagna|40|f
+Rocca Viscontea|44.850|9.868|IT|Emilia-Romagna|40|f
+Roccia Nera|45.933|7.775|IT|Aosta Valley|40|f
+Rocciamelone|45.203|7.077|IT|Piedmont|40|f
+Roche à Bosche|53.200|-118.036|CA|Alberta|40|f
+Roche a Cri|44.003|-89.819|US|Wisconsin|40|f
+Roche à Perdrix|53.217|-117.786|CA|Alberta|40|f
+Roche Bonhomme|52.950|-117.952|CA|Alberta|40|f
+Roche De Smet|53.133|-118.116|CA|Alberta|40|f
+Roche Lake Park|50.466|-120.152|CA|British Columbia|40|f
+Roche perfia|45.915|6.514|FR|Auvergne-Rhône-Alpes|40|f
+Roche Ronde|53.217|-118.019|CA|Alberta|40|f
+Rochefort-Martrou Transporter Bridge|45.916|-0.961|FR|New Aquitaine|40|f
+Rocher du Midi|46.444|7.153|CH|Vaud|40|f
+Rochers de Gagnerie|46.162|6.964|CH|Valais|40|f
+Rochers des Rayes|46.525|7.202|CH|Vaud|40|f
+Rochester Covered Bridge|43.402|-123.363|US|Oregon|40|f
+Rochester Museum and Science Center|43.153|-77.587|US|New York|40|f
+Rochon Sands Provincial Park|52.467|-112.885|CA|Alberta|40|f
+Rock and Pillar Range|-45.383|170.117|NZ||40|f
+Rock Bay|50.331|-125.479|CA|British Columbia|40|f
+Rock Bridge Memorial State Park|38.879|-92.303|US|Missouri|40|f
+Rock City|39.087|-97.732|US|Kansas|40|f
+Rock Creek and Potomac Parkway|38.909|-77.051|US|District of Columbia|40|f
+Rock Creek Archeological District|34.653|-88.099|US|Alabama|40|f
+Rock Creek Butte|44.817|-118.104|US|Oregon|40|f
+Rock Creek State Park|41.753|-92.837|US|Iowa|40|f
+Rock Falls Bridge|43.207|-93.084|US|Iowa|40|f
+Rock Garden|30.752|76.807|IN|Chandigarh|40|f
+Rock Harbor|48.145|-88.486|US|Michigan|40|f
+Rock Island|68.401|-66.713|CA|Nunavut|40|f
+Rock Island|45.418|-86.820|US|Wisconsin|40|f
+Rock Island Lake|43.958|-115.131|US|Idaho|40|f
+Rock Island Pool|47.343|-120.094|US|Washington|40|f
+Rock Island Railroad Bridge|47.367|-120.154|US|Washington|40|f
+Rock Island State Park|45.418|-86.818|US|Wisconsin|40|f
+Rock Lake|45.533|-63.875|CA|Nova Scotia|40|f
+Rock Lake|49.778|-94.415|CA|Ontario|40|f
+Rock Lake|49.216|-99.201|CA|Manitoba|40|f
+Rock Lake|53.460|-118.263|CA|Alberta|40|f
+Rock Lake|46.427|-94.475|US|Minnesota|40|f
+Rock Lake|43.266|-74.418|US|New York|40|f
+Rock Lake|43.078|-88.930|US|Wisconsin|40|f
+Rock Lake|47.182|-117.680|US|Washington|40|f
+Rock Point Provincial Park|42.850|-79.558|CA|Ontario|40|f
+Rock Springs Run State Reserve|28.716|-81.450|US|Florida|40|f
+Rockdale|33.702|-83.973|US|Georgia|40|f
+Rockefeller Park|41.517|-81.619|US|Ohio|40|f
+Rockefeller-Museum|31.784|35.236|PS|West Bank|40|f
+Rockford Park|39.767|-75.571|US|Delaware|40|f
+Rockhampton Zoo|-23.397|150.490|AU|Queensland|40|f
+Rockhouse Island|63.467|-90.666|CA|Nunavut|40|f
+Rocking Chair Butte|46.679|-104.437|US|Montana|40|f
+Rockingham Park|42.771|-71.227|US|New Hampshire|40|f
+Rockingham Road|52.411|-0.728|GB|England|40|f
+Rockland Breakwater|44.108|-69.080|US|Maine|40|f
+Rockland Key|24.592|-81.676|US|Florida|40|f
+Rockland Lake State Park|41.140|-73.922|US|New York|40|f
+Rockney Ridge|-75.033|-133.750|AQ||40|f
+Rockport State Park|48.488|-121.615|US|Washington|40|f
+Rockwell City Bridge|42.400|-94.607|US|Iowa|40|f
+Rockwell Lake|46.943|-94.994|US|Minnesota|40|f
+Rockwell Park|41.676|-72.962|US|Connecticut|40|f
+Rockwoods Reservation|38.566|-90.663|US|Missouri|40|f
+Rocky Bay|49.433|-54.248|CA|Newfoundland and Labrador|40|f
+Rocky Butte|45.547|-122.565|US|Oregon|40|f
+Rocky Flats National Wildlife Refuge|39.877|-105.204|US|Colorado|40|f
+Rocky Fork State Park|39.186|-83.472|US|Ohio|40|f
+Rocky Hill Ultralight Flightpark|41.149|-75.275|US|Pennsylvania|40|f
+Rocky Mountain|41.092|-74.215|US|New Jersey|40|f
+Rocky Mountain Foothills|56.500|-123.003|CA|British Columbia|40|f
+Rocky Peak|47.995|-123.421|US|Washington|40|f
+Rocky Point|27.963|-82.570|US|Florida|40|f
+Rocky Point|47.602|-108.453|US|Montana|40|f
+Rocky Pond|41.886|-70.695|US|Massachusetts|40|f
 Rocca De' Baldi|44.424|7.761|IT|Piedmont|39
 Roccaverano|44.592|8.272|IT|Piedmont|36
 Rocca Cigliè|44.445|7.951|IT|Piedmont|36
 Roccaforte Ligure|44.678|9.028|IT|Piedmont|28
 Rocafuerte|1.067|-79.374|EC|Esmeraldas|0
 Rocchacc|-13.440|-73.600|PE|Apurímac Department|0
+Rocek|-6.357|106.048|ID|Banten|0
 Rochefort|46.978|6.808|CH|Neuchâtel|0
 Rochester|55.275|-2.265|GB|England|0
+Rockland Saint Mary|52.586|1.408|GB|England|0

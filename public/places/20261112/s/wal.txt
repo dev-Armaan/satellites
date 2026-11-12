@@ -1,4 +1,4 @@
-Wallonia|50.500|4.750|BE||134|r
+Wallonia|50.500|4.750|BE||135|r
 Wales|52.500|-3.500|GB||130|r
 Walsall|52.585|-1.984|GB|England|105
 Wałbrzych|50.771|16.284|PL|Lower Silesia|102
@@ -34,13 +34,16 @@ Wallingford Center|41.450|-72.819|US|Connecticut|85
 Wallingford|41.457|-72.823|US|Connecticut|85
 Walcourt|50.254|4.438|BE|Wallonia|85
 Walton-on-the-Naze|51.848|1.267|GB|England|85
+Walvis Bay Airport|-22.980|14.645|NA|Erongo Region|84|f
 Wallis and Futuna|-13.300|-176.200|WF||84|c
 Walnut Park|33.968|-118.225|US|California|84
 Wallan|-37.416|144.979|AU|Victoria|84
 Walldorf|49.306|8.642|DE|Baden-Wurttemberg|83
+Walensee|47.123|9.195|CH||83|f
 Wālājābād|12.790|79.824|IN|Tamil Nadu|83
 Walébo|5.584|-6.833|CI|Bas-Sassandra District|83
 Walsh Acres-Lakeridge-Garden Ridge|50.497|-104.657|CA|Saskatchewan|82
+Walhalla memorial|49.031|12.224|DE|Bavaria|82|f
 Wallsend|-32.901|151.664|AU|New South Wales|82
 Walldürn|49.584|9.366|DE|Baden-Wurttemberg|82
 Waltendorf|47.067|15.467|AT|Styria|82
@@ -56,6 +59,8 @@ Waldwick|41.011|-74.118|US|New Jersey|80
 Waltham Cross|51.686|-0.036|GB|England|80
 Walnut Grove|45.668|-122.599|US|Washington|80
 Wallerfangen|49.327|6.711|DE|Saarland|80
+Walla Walla Regional Airport|46.094|-118.288|US|Washington|80|f
+Walnut Ridge Regional Airport|36.125|-90.925|US|Arkansas|80|f
 Walni|21.323|79.087|IN|Maharashtra|79
 Waldfeucht|51.066|5.988|DE|North Rhine-Westphalia|79
 Waltenhofen|47.673|10.307|DE|Bavaria|79
@@ -83,6 +88,7 @@ Walhain-Saint-Paul|50.626|4.698|BE|Wallonia|76
 Wales|53.341|-1.282|GB|England|75
 Walpole|42.142|-71.249|US|Massachusetts|75
 Waldbrunn|50.519|8.108|DE|Hesse|75
+Walgett Airport|-30.033|148.126|AU|New South Wales|75|f
 Waldems|50.250|8.333|DE|Hesse|75
 Walluf|50.040|8.155|DE|Hesse|75
 Wallers|50.374|3.392|FR|Hauts-de-France|75
@@ -98,6 +104,7 @@ Walenstadt|47.124|9.312|CH|Saint Gallen|74
 Walkertown|36.175|-80.153|US|North Carolina|74
 Walkerton|44.130|-81.153|CA|Ontario|73
 Walagan|52.583|124.567|CN|Heilongjiang|73
+Wallops Flight Facility|37.941|-75.467|US|Virginia|73|f
 Walnut Ridge|36.068|-90.956|US|Arkansas|73
 Waldershof|49.981|12.063|DE|Bavaria|73
 Waldenburg|50.877|12.599|DE|Saxony|73
@@ -110,6 +117,8 @@ Walthourville|31.774|-81.633|US|Georgia|72
 Wallace|34.736|-77.995|US|North Carolina|72
 Walton|38.876|-84.610|US|Kentucky|72
 Waldalgesheim|49.950|7.833|DE|Rheinland-Pfalz|71
+Walfisch|53.940|11.427|DE|Mecklenburg-Vorpommern|71|f
+Wallowa Mountains|45.200|-117.318|US|Oregon|71|f
 Wallhausen|49.210|10.062|DE|Baden-Wurttemberg|71
 Wals|47.783|12.967|AT|Salzburg|71
 Walsbets|50.738|5.084|BE|Flanders|71
@@ -118,6 +127,7 @@ Wallerstein|48.887|10.476|DE|Bavaria|71
 Waldron|34.898|-94.091|US|Arkansas|71
 Walchwil|47.102|8.517|CH|Zug|70
 Walkerston|-21.161|149.058|AU|Queensland|70
+Walrus Island|57.182|-169.939|US|Alaska|70|f
 Waldkirch|47.469|9.287|CH|Saint Gallen|70
 Waldenburg|49.185|9.640|DE|Baden-Wurttemberg|70
 Walbridge|41.588|-83.493|US|Ohio|70
@@ -135,6 +145,8 @@ Wald|49.150|12.350|DE|Bavaria|69
 Walim|50.697|16.445|PL|Lower Silesia|69
 Wallerstädten|49.904|8.451|DE|Hesse|69
 Wald|47.933|9.167|DE|Baden-Wurttemberg|69
+Wala Island|-15.973|167.378|VU|Malampa|69|f
+Walt Whitman Bridge|39.905|-75.130|US|Pennsylvania|69|f
 Walton Park|41.310|-74.229|US|New York|69
 Wallaceville|-41.133|175.050|NZ|Wellington Region|68
 Waldbrunn|49.759|9.804|DE|Bavaria|68
@@ -149,6 +161,9 @@ Waldböckelheim|49.817|7.717|DE|Rheinland-Pfalz|67
 Wallkill|41.606|-74.184|US|New York|67
 Walldorf|50.617|10.383|DE|Thuringia|67
 Walkerton|41.467|-86.483|US|Indiana|67
+Wallis Island|-13.282|-176.207|WF||67|f
+Walney Island|54.109|-3.263|GB|England|67|f
+Walrus Islands|58.711|-160.264|US|Alaska|67|f
 Walton Hills|41.366|-81.561|US|Ohio|67
 Walbrook|39.309|-76.671|US|Maryland|67
 Waltenschwil|47.333|8.298|CH|Aargau|67
@@ -173,6 +188,9 @@ Waldbreitbach|50.550|7.417|DE|Rheinland-Pfalz|66
 Wallerawang|-33.411|150.065|AU|New South Wales|66
 Walschleben|51.067|10.933|DE|Thuringia|66
 Walpole Island|42.615|-82.514|CA|Ontario|65
+Walaha Airport|-15.412|167.691|VU|Penama|65|f
+Waldenøya|80.620|19.774|SJ||65|f
+Wallis Islands|-13.299|-176.209|WF||65|f
 Wallertheim|49.836|8.051|DE|Rheinland-Pfalz|65
 Walkringen|46.949|7.620|CH|Bern|65
 Wallace|30.677|-87.180|US|Florida|65
@@ -190,6 +208,12 @@ Wallhausen|49.883|7.767|DE|Rheinland-Pfalz|64
 Walnut Grove|38.242|-121.512|US|California|64
 Walkern|51.919|-0.128|GB|England|64
 Waldprechting|47.900|13.117|AT|Salzburg|63
+Wallabout Bay|40.706|-73.976|US|New York|63|f
+Wallasea Island|51.600|0.833|GB|England|63|f
+Walldorf Concentration Camp|49.306|8.643|DE|Baden-Wurttemberg|63|f
+Wallilabou Bay|13.248|-61.273|VC|Saint Patrick Parish|63|f
+Walter J. Koladza Airport|42.184|-73.407|US|Massachusetts|63|f
+Walyunga National Park|-31.720|116.073|AU|Western Australia|63|f
 Walford|41.878|-91.835|US|Iowa|63
 Wallgau|47.517|11.283|DE|Bavaria|63
 Walnut Cove|36.295|-80.142|US|North Carolina|63
@@ -217,6 +241,15 @@ Waldneukirchen|47.999|14.259|AT|Upper Austria|61
 Wallhausen|47.748|9.134|DE|Baden-Wurttemberg|61
 Wallwitz|51.580|11.929|DE|Saxony-Anhalt|61
 Walkertshofen|48.226|10.588|DE|Bavaria|61
+Waldeck Peak|-66.156|-65.597|AQ||61|f
+Waldhäuserriegel|48.924|13.484|DE|Bavaria|61|f
+Walker Island|-40.600|144.930|AU|Tasmania|61|f
+Walker Municipal Airport|47.158|-94.643|US|Minnesota|61|f
+Wall Municipal Airport|43.998|-102.253|US|South Dakota|61|f
+Wallace Islet|-11.448|143.034|AU|Queensland|61|f
+Wallace Wade Stadium|35.995|-78.942|US|North Carolina|61|f
+Wallface Mountain|44.138|-74.037|US|New York|61|f
+Walton Mountain|48.576|-113.733|US|Montana|61|f
 Walichnowy|51.296|18.381|PL|Łódź Voivodeship|61
 Waldenburg|47.383|7.750|CH|Basel-Landschaft|61
 Walserfeld|47.789|12.977|AT|Salzburg|60
@@ -225,28 +258,284 @@ Walton|40.661|-86.242|US|Indiana|60
 Wald|47.972|10.301|DE|Bavaria|60
 Wallendorf|51.360|12.075|DE|Saxony-Anhalt|60
 Walchen|47.288|12.687|AT|Salzburg|60
+Walbach|48.063|7.223|FR|Grand Est|60
+Wâlterswâld|53.300|6.033|NL|Friesland|60
+Walbeck|51.665|11.471|DE|Saxony-Anhalt|60
+Wäldi|47.634|9.095|CH|Thurgau|60
+Walhalla|48.923|-97.918|US|North Dakota|60
+Waldorf|50.483|7.233|DE|Rheinland-Pfalz|60
 Walker|47.101|-94.587|US|Minnesota|59
+Waldweiler|49.617|6.800|DE|Rheinland-Pfalz|59
+Wallace|34.720|-79.841|US|South Carolina|59
+Wallsbüll|54.776|9.237|DE|Schleswig-Holstein|59
 Wala|-19.712|163.647|NC|North Province|59
+Walserberg|47.774|12.957|AT|Salzburg|59
+Walnut Creek|40.541|-81.722|US|Ohio|59
+Wall|43.992|-102.242|US|South Dakota|59
+Walsdorf|50.283|6.717|DE|Rheinland-Pfalz|59
+Wallhalben|49.317|7.521|DE|Rheinland-Pfalz|59
+Walton upon Trent|52.759|-1.675|GB|England|59
+Walgrave|52.340|-0.825|GB|England|59
+Walnut Grove|36.484|-86.613|US|Tennessee|59
+Walla Walla|-35.762|146.901|AU|New South Wales|59
+Walnut Creek|35.307|-77.865|US|North Carolina|59
+Wallon-Cappel|50.727|2.474|FR|Hauts-de-France|59
+Walker Valley|41.634|-74.378|US|New York|59
+Waltham on the Wolds|52.817|-0.808|GB|England|58
+Wallingford|43.472|-72.978|US|Vermont|58
+Walnut Grove|44.223|-95.469|US|Minnesota|58
+Walnut Springs|32.058|-97.749|US|Texas|58
+Walbeck|52.279|11.065|DE|Saxony-Anhalt|58
+Waldlaubersheim|49.933|7.833|DE|Rheinland-Pfalz|58
+Waldron|39.454|-85.667|US|Indiana|58
+Walsleben|52.938|12.664|DE|Brandenburg|58
+Waleska|34.316|-84.552|US|Georgia|58
+Walden Pond|42.439|-71.340|US|Massachusetts|58|f
+Waldo Mountain|43.765|-122.099|US|Oregon|58|f
+Walker Lake|38.695|-118.718|US|Nevada|58|f
+Walker Pond|42.139|-72.060|US|Massachusetts|58|f
+Walker Shoal|15.900|114.483|CN||58|f
+Walker's Cay|27.261|-78.403|BS|Grand Cay|58|f
+Wallace Pratt Lodge|31.984|-104.781|US|Texas|58|f
+Wallingford Castle|51.603|-1.121|GB|England|58|f
+Walshs Pyramid|-17.133|145.817|AU|Queensland|58|f
+Walton Mountain|42.166|-75.199|US|New York|58|f
+Wall Lake|42.271|-95.093|US|Iowa|58
+Wallowa|45.570|-117.528|US|Oregon|58
+Walker|42.287|-91.781|US|Iowa|58
+Walheim|47.643|7.267|FR|Grand Est|58
+Walthill|42.148|-96.488|US|Nebraska|58
+Walnut|41.477|-95.222|US|Iowa|58
+Walnut Grove|37.411|-93.550|US|Missouri|58
 Walpersbach|47.717|16.233|AT|Lower Austria|58
+Walnut|34.946|-88.900|US|Mississippi|58
+Waldo|44.513|-69.076|US|Maine|58
 Wallace|47.474|-115.928|US|Idaho|58
+Walkerburn|55.623|-3.015|GB|Scotland|58
+Wallersheim|50.203|6.528|DE|Rheinland-Pfalz|58
+Walnut|34.149|-90.399|US|Mississippi|58
+Waldhambach|48.927|7.216|FR|Grand Est|57
+Waltenhausen|48.190|10.365|DE|Bavaria|57
+Walker|38.515|-119.477|US|California|57
 Walchsee|47.652|12.319|AT|Tyrol|57
+Wallace Ridge|31.710|-91.827|US|Louisiana|57
+Walkerville|46.034|-112.536|US|Montana|57
+Waldwisse|49.414|6.529|FR|Grand Est|57
 Waldzell|48.136|13.427|AT|Upper Austria|57
+Walnut Grove|34.066|-86.306|US|Alabama|57
+Wallabi Point|-31.995|152.568|AU|New South Wales|57
+Wallacestone|55.977|-3.734|GB|Scotland|57
+Waltenheim-sur-Zorn|48.747|7.629|FR|Grand Est|57
+Wallace|30.043|-90.667|US|Louisiana|57
+Walkeringham|53.426|-0.844|GB|England|56
+Walliba Kunda|13.367|-14.017|GM|Upper River|56
+Walterswil|47.112|7.778|CH|Bern|56
+Wallacetown|-46.333|168.283|NZ|Southland|56
+Wald am Arlberg|47.133|10.033|AT|Vorarlberg|56
+Waldhausen im Strudengau|48.274|14.947|AT|Upper Austria|56
+Walpole|43.080|-72.426|US|New Hampshire|56
+Walton|52.478|-1.125|GB|England|56
 Walden|40.732|-106.284|US|Colorado|55
+Wallagrass|47.129|-68.597|US|Maine|55
+Wall|40.394|-79.786|US|Pennsylvania|55
+Wald|47.200|10.767|AT|Tyrol|55
+Walcott|53.095|-0.313|GB|England|55
 Wald am Schoberpaß|47.449|14.676|AT|Styria|55
+Waldolwisheim|48.733|7.437|FR|Grand Est|55
+Walnut Creek|35.131|-114.127|US|Arizona|55
+Walsheim|49.237|8.127|DE|Rheinland-Pfalz|55
+Walternienburg|51.967|11.939|DE|Saxony-Anhalt|55
+Walschbronn|49.149|7.481|FR|Grand Est|55
+Waldron|41.728|-84.419|US|Michigan|55
+Waltenheim|47.658|7.426|FR|Grand Est|55
+Wallaga Lake|-36.386|150.067|AU|New South Wales|54
+Walkendorf|53.952|12.551|DE|Mecklenburg-Vorpommern|54
+Walcott Covered Bridge|38.734|-84.101|US|Kentucky|54|f
+Walcott, Cape|-69.067|-63.304|AQ||54|f
+Waldameer Park|42.108|-80.161|US|Pennsylvania|54|f
+Waldegrave Island|-33.598|134.793|AU|South Australia|54|f
+Waldegrave Islands|-33.596|134.779|AU|South Australia|54|f
+Walden Veterans' Memorial Bridge|41.561|-74.194|US|New York|54|f
+Waldo Lake|43.725|-122.038|US|Oregon|54|f
+Wales Airport|65.617|-168.095|US|Alaska|54|f
+Walfrido Salmito de Almeida Airport|-4.043|-40.894|BR|Ceará|54|f
+Walker Airport|43.868|-123.032|US|Oregon|54|f
+Walker Bay|-34.549|19.345|ZA|Western Cape|54|f
+Walker Island|-14.299|125.316|AU|Western Australia|54|f
+Walker Lake|44.107|-114.597|US|Idaho|54|f
+Walker Lake|67.154|-154.417|US|Alaska|54|f
+Walker Peak|-82.633|-53.216|AQ||54|f
+Walker Point|-61.147|-54.701|AQ||54|f
+Walker Ranch Park|39.959|-105.343|US|Colorado|54|f
+Walker/Rowe Waterloo Airport|41.432|-84.977|US|Indiana|54|f
+Wall Doxey State Park|34.657|-89.466|US|Mississippi|54|f
+Wall Range|-64.821|-63.361|AQ||54|f
+Wallabi Group|-28.466|113.708|AU|Western Australia|54|f
+Wallback Wildlife Management Area|38.518|-81.225|US|West Virginia|54|f
+Walloon Lake|45.273|-84.995|US|Michigan|54|f
+Wallops Island|37.853|-75.474|US|Virginia|54|f
+Wallowa Lake State Park|45.269|-117.212|US|Oregon|54|f
+Wals Siezenheim Stadium|47.816|12.998|AT|Salzburg|54|f
+Walsham Rocks|-64.838|-64.531|AQ||54|f
+Walters Art Museum|39.296|-76.616|US|Maryland|54|f
+Waldau|51.064|11.934|DE|Saxony-Anhalt|54
+Walsh|37.386|-102.278|US|Colorado|54
+Waltham St Lawrence|51.485|-0.807|GB|England|54
+Wallenborn|50.150|6.717|DE|Rheinland-Pfalz|54
+Wallstawe|52.797|11.021|DE|Saxony-Anhalt|54
+Waldleiningen|49.400|7.883|DE|Rheinland-Pfalz|53
+Waldrohrbach|49.167|7.967|DE|Rheinland-Pfalz|53
 Waldbredimus|49.557|6.288|LU|Remich|52
 Waldbillig|49.796|6.284|LU|Echternach|52
 Waldegg|47.869|16.052|AT|Lower Austria|52
+Wallendorf|49.876|6.289|DE|Rheinland-Pfalz|52
+Wallbach|50.633|10.400|DE|Thuringia|51
 Wald im Pinzgau|47.246|12.227|AT|Salzburg|51
 Waldenstein|48.728|15.014|AT|Lower Austria|51
+Waldhambach|49.167|7.983|DE|Rheinland-Pfalz|51
+Waldmühlen|50.583|8.067|DE|Rheinland-Pfalz|51
+Wallscheid|50.100|6.883|DE|Rheinland-Pfalz|51
+Walshausen|49.217|7.483|DE|Rheinland-Pfalz|51
+Waldeck|50.917|11.783|DE|Thuringia|49
+Walcott Glacier|-78.233|163.250|AQ||49|f
+Walcott Lake|-78.233|163.467|AQ||49|f
+Walcott Peak|-71.818|-64.354|AQ||49|f
+Walcott, Mount|-85.350|-87.383|AQ||49|f
+Waldegrave Islands Conservation Park|-33.594|134.759|AU|South Australia|49|f
+Walden Low Bridge|41.564|-74.193|US|New York|49|f
+Waldenburger Berge|49.131|9.611|DE|Baden-Wurttemberg|49|f
+Waldrip Ledge|-79.950|157.717|AQ||49|f
+Waldron Glacier|-66.500|129.917|AQ||49|f
+Wales Glacier|-77.617|163.517|AQ||49|f
+Walk Glacier|-73.633|-94.233|AQ||49|f
+Walker Glacier|-77.333|160.621|AQ||49|f
+Walker, Mount|-64.816|-62.016|AQ||49|f
+Wall Peak|-71.050|65.383|AQ||49|f
+Wallace Mountain|43.302|-74.329|US|New York|49|f
+Wallaga Lake National Park|-36.382|150.001|AU|New South Wales|49|f
+Wallend Glacier|-64.975|-62.255|AQ||49|f
+Wallis Glacier|-71.233|168.250|AQ||49|f
+Wallis Lake|-32.298|152.501|AU|New South Wales|49|f
+Walls of Jerusalem National Park|-41.890|146.240|AU|Tasmania|49|f
+Walls of Salinillas de Buradon|42.634|-2.832|ES|Basque Country|49|f
+Walnut Lane Bridge|40.032|-75.199|US|Pennsylvania|49|f
+Walsh Bay|-15.645|145.319|AU|Queensland|49|f
+Walsh Glacier|-69.550|158.750|AQ||49|f
+Walsh Island|-32.917|151.783|AU|New South Wales|49|f
+Walter Glacier|-69.283|-70.365|AQ||49|f
+Walter Island|53.317|-79.666|CA|Nunavut|49|f
+Walter Pyramid|33.787|-118.115|US|California|49|f
+Walton Mountains|-71.200|-70.333|AQ||49|f
+Walton Peak|-68.149|-66.802|AQ||49|f
+Waldgrehweiler|49.667|7.733|DE|Rheinland-Pfalz|48
+Walhausen|50.033|7.283|DE|Rheinland-Pfalz|47
+Walpernhain|51.017|11.950|DE|Thuringia|47
+Walksfelde|53.633|10.575|DE|Schleswig-Holstein|47
 Waldhausen|48.522|15.262|AT|Lower Austria|46
+Waltersdorf|50.833|11.750|DE|Thuringia|45
 Waldkirchen am Wesen|48.441|13.822|AT|Upper Austria|45
 Waldkirchen an der Thaya|48.933|15.350|AT|Lower Austria|45
 Walthall|33.607|-89.277|US|Mississippi|43
+Walterschen|50.683|7.567|DE|Rheinland-Pfalz|43
+WALA-TV (Mobile)|30.688|-87.798|US|Alabama|40|f
+Walachin Oxbows Park|50.750|-120.936|CA|British Columbia|40|f
+WALB-TV (Albany)|31.331|-83.862|US|Georgia|40|f
+Walbran Island|51.527|-127.607|CA|British Columbia|40|f
+Walden-Jackson County Airport|40.745|-106.274|US|Colorado|40|f
+Waldisee|46.912|8.840|CH|Schwyz|40|f
+Waldo Covered Bridge|33.377|-86.026|US|Alabama|40|f
+Waldo Glacier|44.663|-121.796|US|Oregon|40|f
+Waldo Hills|44.896|-122.861|US|Oregon|40|f
+Waldo Water Tower|33.353|-93.293|US|Arkansas|40|f
+Waldo-Hancock Bridge|44.560|-68.801|US|Maine|40|f
+Waldsea Lake|52.283|-105.201|CA|Saskatchewan|40|f
+Waldskopf|49.540|8.770|DE|Hesse|40|f
+Waldstein|50.129|11.855|DE|Bavaria|40|f
+Wales Airport|44.172|-70.021|US|Maine|40|f
+Wales Island|45.000|-74.916|CA|Ontario|40|f
+Wales Island|54.765|-130.516|CA|British Columbia|40|f
+Wales Island|68.018|-86.666|CA|Nunavut|40|f
+Wales Peak|52.186|-117.657|CA|Alberta|40|f
+Wales Site|65.602|-168.084|US|Alaska|40|f
+Walgreen Peak|-77.050|-145.717|AQ||40|f
+Walhalla Rocks|42.538|-74.398|US|New York|40|f
+Walhonding Canal|40.322|-81.947|US|Ohio|40|f
+Walker Bay|71.575|-118.168|CA|Northwest Territories|40|f
+Walker Lake|44.795|-64.037|CA|Nova Scotia|40|f
+Walker Lake|40.804|-77.180|US|Pennsylvania|40|f
+Walker Ridge|-72.567|168.367|AQ||40|f
+Walker Stadium|45.489|-122.570|US|Oregon|40|f
+Walkersville Covered Bridge|38.858|-80.461|US|West Virginia|40|f
+Wall Lake|44.733|-63.963|CA|Nova Scotia|40|f
+Wall Lake|46.273|-95.964|US|Minnesota|40|f
+Wall Springs Park|28.106|-82.773|US|Florida|40|f
+Wall Stadium|40.175|-74.116|US|New Jersey|40|f
+Wallace Falls State Park|47.871|-121.654|US|Washington|40|f
+Wallace House|40.569|-74.622|US|New Jersey|40|f
+Wallace Island Marine Park|48.942|-123.551|CA|British Columbia|40|f
+Wallace Lake|45.028|-63.722|CA|Nova Scotia|40|f
+Wallace State Park|39.655|-94.218|US|Missouri|40|f
+Wallace's Isle|56.246|-4.711|GB|Scotland|40|f
+Wallaman Falls|-18.592|145.802|AU|Queensland|40|f
+Wallberg|47.666|11.797|DE|Bavaria|40|f
+Walled Obelisk|41.005|28.975|TR|Istanbul|40|f
+Wallington Hall|55.152|-1.956|GB|England|40|f
+Wallkill River National Wildlife Refuge|41.231|-74.562|US|New Jersey|40|f
+Walloper Lake Park|50.480|-120.539|CA|British Columbia|40|f
+Wallops Island National Wildlife Refuge|37.924|-75.466|US|Virginia|40|f
+Wallowa Lake|45.310|-117.209|US|Oregon|40|f
+Wallraf-Richartz-Museum|50.941|6.960|DE|North Rhine-Westphalia|40|f
+Walls Lake|43.775|-65.068|CA|Nova Scotia|40|f
+Walls of Ávila|40.656|-4.700|ES|Castille and León|40|f
+Wallum Lake|42.009|-71.768|US|Rhode Island|40|f
+Walnut Canyon National Monument|35.168|-111.502|US|Arizona|40|f
+Walnut Grove Park|34.184|-118.898|US|California|40|f
+Walnut Lake|33.858|-91.498|US|Arkansas|40|f
+Walnut Mountain|41.787|-74.769|US|New York|40|f
+Walnut Point State Park Lake Dam|39.695|-88.033|US|Illinois|40|f
+Walnut Street Bridge|35.058|-85.307|US|Tennessee|40|f
+Walpole-Nornalup National Park|-34.983|116.767|AU|Western Australia|40|f
+Walrus Island|74.785|-95.301|CA|Nunavut|40|f
+Walrus Island|67.834|-108.702|CA|Nunavut|40|f
+Walrus Island|61.967|-92.483|CA|Nunavut|40|f
+Walsh Cove Park|50.268|-124.800|CA|British Columbia|40|f
+Walt Whitman Park|38.896|-77.044|US|District of Columbia|40|f
+Walter Anderson Museum of Art|30.411|-88.827|US|Mississippi|40|f
+Walter Bouldin Dam|32.577|-86.278|US|Alabama|40|f
+Walter Peak|51.950|-117.102|CA|Alberta|40|f
+Walter Peak|51.952|-117.104|CA|British Columbia|40|f
+Walter Peak|-45.133|168.567|NZ|Otago|40|f
+Walterdale Bridge|53.529|-113.502|CA|Alberta|40|f
+Walters Dam|35.695|-83.050|US|North Carolina|40|f
+Walters Peak|-85.650|-128.750|AQ||40|f
+Walterston Castle|51.432|-3.342|GB|Wales|40|f
+Waltham transmitting station|52.801|-0.801|GB|England|40|f
+Walton Island|55.996|-79.050|CA|Nunavut|40|f
+Walton, Mount|-72.483|160.300|AQ||40|f
+Walupt Lake|46.417|-121.463|US|Washington|40|f
+Walwick|55.029|-2.153|GB|England|40|f
+Walwick Grange|55.018|-2.147|GB|England|40|f
+Walworth Castle|54.564|-1.644|GB|England|40|f
+Waldhof-Falkenstein|49.967|6.183|DE|Rheinland-Pfalz|33
+Wallen|54.285|9.270|DE|Schleswig-Holstein|32
 Wa‘lān|15.070|44.276|YE|Sanaa Governorate|0
+Walagar|-7.074|107.196|ID|West Java|0
+Walagar|-7.353|108.289|ID|West Java|0
+Walahar|-7.039|108.609|ID|West Java|0
+Walahir|-7.280|108.255|ID|West Java|0
+Walahir|-7.447|108.440|ID|West Java|0
+Walahir|-7.255|108.784|ID|Central Java|0
+Walakeri|-10.206|120.529|ID|East Nusa Tenggara|0
+Walakeri|-9.937|120.151|ID|East Nusa Tenggara|0
+Wald|47.723|10.558|DE|Bavaria|0
+Waldesch|50.283|7.550|DE|Rheinland-Pfalz|0
 Walenrang|-2.842|120.122|ID|South Sulawesi|0
+Waleran|-7.001|111.965|ID|East Java|0
 Walford|51.883|-2.600|GB|England|0
+Waling|-8.647|120.638|ID|East Nusa Tenggara|0
 Wall|55.000|-2.133|GB|England|0
 Walliswil bei Niederbipp|47.236|7.690|CH|Bern|0
+Walting|48.917|11.300|DE|Bavaria|0
 Walton|53.925|-1.327|GB|England|0
 Walton|53.649|-1.466|GB|England|0
 Walworth|54.567|-1.650|GB|England|0

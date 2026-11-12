@@ -8,7 +8,7 @@ Huaihua|27.563|110.004|CN|Hunan|115
 Huangshan|29.711|118.313|CN|Anhui|113
 Huancayo|-12.069|-75.210|PE|Junin|113
 Huanggang|30.451|114.870|CN|Hubei|111
-Huánuco Department|-9.500|-76.000|PE||110|r
+Huánuco Department|-9.500|-76.000|PE||111|r
 Huayin|34.565|110.066|CN|Shaanxi|108
 Huanren|41.265|125.367|CN|Liaoning|107
 Huanggang|23.677|117.000|CN|Guangdong|107
@@ -55,7 +55,10 @@ Hualqui|-36.973|-72.936|CL|Biobio|88
 Huamachuco|-7.800|-78.067|PE|La Libertad|87
 Huaura|-11.070|-77.599|PE|Lima region|86
 Huangshan|26.826|100.219|CN|Yunnan|86
+Hualien Airport|24.024|121.617|TW|Taiwan|86|f
+Huangshan airport|29.731|118.253|CN|Anhui|86|f
 Huanta|-12.933|-74.250|PE|Ayacucho|85
+Hua Hin Airport|12.636|99.952|TH|Phetchaburi|85|f
 Huai Yot|7.789|99.635|TH|Trang|84
 Huarmey|-10.068|-78.152|PE|Ancash|84
 Hualin|34.826|104.752|CN|Gansu|84
@@ -70,9 +73,11 @@ Huangbai|30.913|108.582|CN|Chongqing|81
 Huangchen|33.583|105.602|CN|Gansu|81
 Huautla de Jiménez|18.131|-96.841|MX|Puebla|80
 Huangxi|29.768|108.600|CN|Chongqing|80
+Huahine – Fare Airport|-16.687|-151.022|PF|Leeward Islands|80|f
 Huaxing|29.600|106.070|CN|Chongqing|79
 Huangzhu|33.968|105.683|CN|Gansu|79
 Huasco|-28.466|-71.223|CL|Atacama|79
+Hualālai Mountain|19.689|-155.864|US|Hawaii|79|f
 Huangping|33.322|105.332|CN|Gansu|79
 Huancabamba|-5.239|-79.451|PE|Piura|79
 Huangying|29.214|107.685|CN|Chongqing|78
@@ -87,6 +92,8 @@ Huamuxtitlán|17.802|-98.564|MX|Guerrero|76
 Huayan|30.257|105.642|CN|Chongqing|76
 Huai Khot|15.291|99.617|TH|Uthai Thani|75
 Huayucachi|-12.138|-75.223|PE|Junin|75
+Huahine Island|-16.740|-151.023|PF|Leeward Islands|75|f
+Huascarán|-9.122|-77.604|PE|Ancash|75|f
 Huapinol|17.923|-92.911|MX|Tabasco|75
 Hualahuises|24.885|-99.674|MX|Nuevo León|75
 Hualañe|-34.975|-71.803|CL|Maule Region|75
@@ -111,6 +118,8 @@ Huáncito|19.849|-102.068|MX|Michoacán|71
 Huatajata|-16.209|-68.700|BO|La Paz Department|71
 Huatecalco|18.679|-99.144|MX|Morelos|70
 Huangcaotuo|39.179|117.322|CN|Tianjin|70
+Hua Yu|23.404|119.322|TW|Taiwan|70|f
+Hualaihué Airport|-42.027|-72.690|CL|Los Lagos Region|70|f
 Huazuntlán|18.157|-94.793|MX|Veracruz|70
 Huangzhuang|39.482|117.514|CN|Tianjin|70
 Huaqingbei|22.547|114.087|CN|Guangdong|70
@@ -121,6 +130,8 @@ Huangzhuang|39.315|117.053|CN|Tianjin|69
 Huara|-19.996|-69.772|CL|Tarapacá|69
 Huamuchapa|16.945|-99.317|MX|Guerrero|69
 Huangtian|26.439|118.624|CN|Fujian|69
+Huacaraje Airport|-13.606|-63.879|BO|Beni Department|69|f
+Hualapai Airport|35.571|-113.294|US|Arizona|69|f
 Huangqiao|27.022|110.841|CN|Hunan|68
 Hualcaltzinco|19.401|-98.160|MX|Tlaxcala|68
 Huajintepec|16.610|-98.230|MX|Oaxaca|68
@@ -137,6 +148,8 @@ Huangtukuang|26.915|110.408|CN|Hunan|66
 Huajoyuca|18.512|-97.937|MX|Puebla|66
 Huanglong|26.541|110.934|CN|Hunan|66
 Huangmaoyuan|27.404|110.475|CN|Hunan|66
+Hualapai Peak|35.075|-113.901|US|Arizona|65|f
+Huangmao Jian|27.891|119.186|CN|Zhejiang|65|f
 Huamúchil|16.369|-94.669|MX|Oaxaca|65
 Huajintlán|18.610|-99.424|MX|Morelos|65
 Huangxikou|27.719|110.385|CN|Hunan|65
@@ -151,6 +164,8 @@ Huarina|-16.191|-68.601|BO|La Paz Department|64
 Huáscato|20.480|-102.247|MX|Jalisco|64
 Huayuan|26.914|110.536|CN|Hunan|64
 Huazantlán del Río|16.218|-95.129|MX|Oaxaca|64
+Huai'an Lianshui Airport|33.787|119.129|CN|Jiangsu|63|f
+Huairou Shuiku|40.318|116.608|CN|Beijing|63|f
 Huachinantla|18.282|-98.968|MX|Puebla|63
 Huatasani|-15.060|-69.802|PE|Puno|63
 Huay Max|20.042|-88.526|MX|Quintana Roo|63
@@ -159,6 +174,9 @@ Huajúmbaro|19.870|-100.605|MX|Michoacán|62
 Huayacanes|17.916|-95.279|MX|Veracruz|62
 Huaqiu|28.117|106.602|CN|Guizhou|62
 Huapacal 1ra. Sección|17.927|-93.766|MX|Tabasco|61
+Huanggang Shan|27.860|117.784|CN|Fujian|61|f
+Huangqi Hai|40.840|113.294|CN|Inner Mongolia|61|f
+Huascaran National Park|-9.364|-77.424|PE|Ancash|61|f
 Hualfín|-27.225|-66.833|AR|Catamarca|61
 Huanguitío|19.397|-100.487|MX|Michoacán|61
 Hualula|20.709|-98.836|MX|Hidalgo|60
@@ -167,38 +185,94 @@ Huanchillas|-33.667|-63.636|AR|Cordoba|60
 Huaquirca|-14.340|-72.895|PE|Apurímac Department|60
 Huachinera|30.210|-108.959|MX|Sonora|59
 Huásabas|29.908|-109.301|MX|Sonora|59
+Huajojutla (El Azul)|18.579|-99.573|MX|Guerrero|59
 Huanca|-16.033|-71.878|PE|Arequipa|59
+Huaja|-6.599|-76.738|PE|San Martín Department|59
 Huanipaca|-13.492|-72.934|PE|Apurímac Department|59
 Huachocolpa|-13.032|-74.947|PE|Huancavelica|59
 Huacapampa|-6.925|-78.133|PE|Cajamarca Department|59
+Huacao|20.044|-101.023|MX|Michoacán|59
 Huaccana|-13.388|-73.690|PE|Apurímac Department|59
+Huanal|17.306|-92.723|MX|Chiapas|59
+Huazamota|22.525|-104.497|MX|Durango|59
 Huántar|-9.452|-77.175|PE|Ancash|59
 Huatlatlauca|18.681|-98.050|MX|Puebla|59
+Huanca Huanca|-12.917|-74.611|PE|Huancavelica|59
+Huautla|18.440|-99.025|MX|Morelos|59
+Huaynacotas|-15.127|-72.810|PE|Arequipa|59
+Huapacal 2da. Sección|17.901|-93.772|MX|Tabasco|59
+Huazalingo|20.981|-98.508|MX|Hidalgo|59
+Huangjin Yaozuxiang|26.420|110.555|CN|Hunan|58
+Huangjin’ao|27.653|109.949|CN|Hunan|58
 Huacachi|-9.316|-76.936|PE|Ancash|58
 Huata|-15.615|-69.971|PE|Puno|58
+Huaytará|-13.604|-75.353|PE|Huancavelica|58
 Huancas|-6.174|-77.865|PE|Amazonas|58
+Huangguoshu Pubu|25.983|105.633|CN|Guizhou|58|f
+Huaristemba|21.661|-105.157|MX|Nayarit|58
 Huaribamba|-12.280|-74.938|PE|Huancavelica|58
+Huanacastal|16.474|-94.467|MX|Oaxaca|58
+Huaracayo|-11.352|-75.627|PE|Junin|58
+Huanta|-3.488|-72.052|PE|Loreto|58
+Huasimal|-5.152|-80.167|PE|Piura|58
 Huachos|-13.220|-75.534|PE|Huancavelica|58
 Huanuara|-17.314|-70.322|PE|Tacna|58
+Huasicaj|-6.220|-79.295|PE|Lambayeque|57
 Huachis|-9.410|-77.100|PE|Ancash|57
 Huabal|-5.613|-78.900|PE|Cajamarca Department|57
 Huandoval|-8.331|-77.975|PE|Ancash|57
+Huanchuy|-9.361|-78.154|PE|Ancash|57
+Huaypira|-4.645|-80.538|PE|Piura|57
+Huacaltzingo|18.799|-97.861|MX|Puebla|57
 Huasicancha|-12.332|-75.282|PE|Junin|57
+Huatajo|20.179|-101.471|MX|Michoacán|57
 Huasta|-10.124|-77.146|PE|Ancash|57
 Huambo|-6.429|-77.538|PE|Amazonas|57
 Huayllapampa|-10.055|-77.535|PE|Ancash|57
+Huarán|-13.313|-72.028|PE|Cuzco Department|56
+Huautla|17.853|-100.103|MX|Guerrero|56
+Huanchar|-11.874|-75.319|PE|Junin|56
+Huantashiri|-11.207|-74.523|PE|Junin|56
+Huapango|20.365|-100.683|MX|Guanajuato|56
+Hualcán|-9.256|-77.614|PE|Ancash|56
 Huancaya|-12.203|-75.799|PE|Lima region|56
+Huarango Mocho|-14.193|-75.696|PE|Ica|56
+Huarapa|-9.770|-76.207|PE|Huánuco Department|56
+Huanacastal|16.145|-93.833|MX|Chiapas|56
+Huaxtla|19.846|-97.504|MX|Puebla|56
 Huaylillas|-8.187|-77.345|PE|La Libertad|56
 Huamantanga|-11.500|-76.749|PE|Lima region|55
+Huancacarpa Alto|-5.134|-79.524|PE|Piura|55
+Huapaque 1ra. Sección (Huapacón)|17.747|-93.258|MX|Chiapas|55
+Huayo|-10.490|-76.372|PE|Pasco|55
 Huayllahuara|-12.409|-75.178|PE|Huancavelica|55
+Huazalingo|21.245|-98.847|MX|San Luis Potosí|55
+Huamuchititán (El Huamuchito)|16.747|-98.956|MX|Guerrero|55
 Huaylas|-8.872|-77.893|PE|Ancash|55
 Huancaraylla|-13.719|-74.102|PE|Ayacucho|55
+Huaca Rajada|-6.800|-79.602|PE|Lambayeque|55
+Huambo|-13.679|-74.192|PE|Ayacucho|55
+Huangashanga|-6.865|-78.287|PE|Cajamarca Department|55
+Huapalegcan|19.953|-97.668|MX|Puebla|55
+Huancas|-13.477|-73.372|PE|Apurímac Department|55
+Huacho|-9.306|-77.950|PE|Ancash|55
+Huamanguilla|-14.074|-75.689|PE|Ica|55
 Huantán|-12.457|-75.812|PE|Lima region|55
+Huanchán|-9.943|-76.492|PE|Huánuco Department|55
+Huazalinguillo|20.991|-98.247|MX|Hidalgo|55
 Huayana|-14.051|-73.609|PE|Apurímac Department|55
 Huasca de Ocampo|20.204|-98.576|MX|Hidalgo|55
+Huaylla|-10.149|-76.190|PE|Huánuco Department|55
+Huancayoc|-9.505|-76.998|PE|Ancash|55
 Huambo|-15.730|-72.108|PE|Arequipa|54
+Huayllapampa|-7.217|-78.535|PE|Cajamarca Department|54
+Huaynamota|21.922|-104.513|MX|Nayarit|54
+Huacoy|-11.856|-77.008|PE|Lima region|54
+Hualapai Mountains|34.900|-113.884|US|Arizona|54|f
+Huandoy|-9.034|-77.669|PE|Ancash|54|f
 Huamanquiquia|-13.728|-74.273|PE|Ayacucho|54
 Huayllati|-13.929|-72.485|PE|Apurímac Department|54
+Huapango|19.976|-99.685|MX|México|54
 Huacchis|-9.200|-76.788|PE|Ancash|54
 Huambalpa|-13.750|-73.931|PE|Ayacucho|53
 Huayán|-9.875|-77.708|PE|Ancash|53
@@ -220,34 +294,79 @@ Huata|-9.016|-77.861|PE|Ancash|47
 Huasmín|-6.838|-78.245|PE|Cajamarca Department|47
 Huayllo|-14.133|-73.269|PE|Apurímac Department|45
 Huamatambo|-13.095|-75.677|PE|Huancavelica|45
+Huaca del Dragón|-8.076|-79.049|PE|La Libertad|40|f
+Huai Kha Khaeng Wildlife Sanctuary|15.418|99.233|TH|Uthai Thani|40|f
+Huantsán|-9.519|-77.313|PE|Ancash|40|f
+Huaytunas Lake|-12.918|-65.518|BO|Beni Department|40|f
 Huanchay|-10.531|-77.422|PE|Ancash|36
 Hua Taphan|15.697|104.492|TH|Amnat Charoen|0
+Huabeitun|38.699|112.101|CN|Shanxi|0
+Huabu|29.018|118.348|CN|Zhejiang|0
 Huac Huas|-14.131|-74.942|PE|Ayacucho|0
+Huacao|31.207|121.287|CN|Shanghai|0
 Huacar|-10.160|-76.237|PE|Huánuco Department|0
 Huacaybamba|-9.038|-76.953|PE|Huánuco Department|0
 Huachac|-12.020|-75.341|PE|Junin|0
 Huachacalla|-18.793|-68.262|BO|Oruro|0
+Huacheng|24.789|102.806|CN|Yunnan|0
 Huachocolpa|-12.048|-74.595|PE|Huancavelica|0
 Huachón|-10.636|-75.949|PE|Pasco|0
 Huachuan|47.022|130.711|CN|Heilongjiang|0
 Huacrachuco|-8.650|-77.083|PE|Huánuco Department|0
 Huacrapuquio|-12.174|-75.219|PE|Junin|0
+Huacun|28.588|118.295|CN|Jiangxi|0
+Huada|26.101|119.287|CN|Fujian|0
+Huadi|23.098|113.222|CN|Guangdong|0
+Huadian|41.299|125.777|CN|Jilin|0
+Huadong|23.436|113.323|CN|Guangdong|0
 Huafeng|25.002|117.528|CN|Fujian|0
 Huagai|31.546|104.555|CN|Sichuan|0
+Huagang|32.610|119.863|CN|Jiangsu|0
+Huage|29.298|112.658|CN|Hunan|0
+Huagu|30.915|119.295|CN|Anhui|0
+Huaguang|47.523|126.421|CN|Heilongjiang|0
+Huaguo|32.643|110.674|CN|Hubei|0
+Huaguoshan|34.642|119.233|CN|Jiangsu|0
+Huahai|40.303|97.736|CN|Gansu|0
+Huahu|23.032|116.352|CN|Guangdong|0
 Huai Krachao|14.328|99.668|TH|Kanchanaburi|0
 Huai Phueng|16.650|103.910|TH|Kalasin|0
 Huai Rat|14.960|103.189|TH|Buriram|0
 Huai Thalaeng|14.997|102.647|TH|Nakhon Ratchasima|0
 Huai Thap Than|15.053|104.028|TH|Si Sa Ket|0
+Huai’an|36.584|107.818|CN|Gansu|0
 Huai’an|40.680|114.377|CN|Hebei|0
+Huaibei|40.392|116.695|CN|Beijing|0
 Huaibin|32.467|115.412|CN|Henan|0
+Huaidao|38.678|112.241|CN|Shanxi|0
+Huaihe|32.346|113.588|CN|Hubei|0
 Huaihelu|34.711|113.630|CN|Henan|0
+Huaikan|31.071|119.681|CN|Zhejiang|0
 Huailai|40.404|115.519|CN|Hebei|0
+Huailu|29.343|120.382|CN|Zhejiang|0
+Huainan|25.989|117.729|CN|Fujian|0
+Huaishu|33.251|113.725|CN|Henan|0
+Huaitu|26.192|116.470|CN|Fujian|0
+Huaiya|34.208|107.873|CN|Shaanxi|0
 Huaiyang|33.750|114.879|CN|Henan|0
+Huaizhong|27.088|114.360|CN|Jiangxi|0
+Huajiahe|31.462|114.529|CN|Hubei|0
+Huajialing|35.379|105.009|CN|Gansu|0
+Huajie|28.923|119.968|CN|Zhejiang|0
+Huajlaya|-20.600|-64.550|BO|Chuquisaca Department|0
+Huakoulongtan|24.501|103.413|CN|Yunnan|0
 Hualgayoc|-6.764|-78.607|PE|Cajamarca Department|0
 Hualhuas|-11.971|-75.251|PE|Junin|0
+Hualin|44.683|129.675|CN|Heilongjiang|0
+Hualin|29.369|115.951|CN|Jiangxi|0
+Hualingang|28.706|116.693|CN|Jiangxi|0
+Hualinsi|31.004|111.610|CN|Hubei|0
 Huallanca|-9.898|-76.941|PE|Ancash|0
 Huallhua|-12.420|-74.489|PE|Ayacucho|0
+Hualong|32.129|106.463|CN|Sichuan|0
+Hualong|23.045|113.449|CN|Guangdong|0
+Hualongyan|32.063|110.544|CN|Hubei|0
+Huama|33.737|104.540|CN|Gansu|0
 Huamachi|37.785|107.403|CN|Ningxia|0
 Huamali|-11.807|-75.424|PE|Junin|0
 Huamanguilla|-13.011|-74.173|PE|Ayacucho|0
@@ -255,6 +374,10 @@ Huambi|-2.537|-78.163|EC|Morona-Santiago Province|0
 Huambos|-6.453|-78.961|PE|Cajamarca Department|0
 Huamboya|-1.946|-77.991|EC|Morona-Santiago Province|0
 Huameung|20.149|103.859|LA|Houaphan|0
+Huamin|47.123|123.453|CN|Heilongjiang|0
+Huaming|39.162|117.312|CN|Tianjin|0
+Huaminglou|28.053|112.614|CN|Hunan|0
+Huamu|31.211|121.544|CN|Shanghai|0
 Huancabamba|-13.734|-73.350|PE|Apurímac Department|0
 Huancabamba|-10.350|-75.533|PE|Pasco|0
 Huancán|-12.106|-75.217|PE|Junin|0
@@ -266,15 +389,198 @@ Huancarane|-13.505|-71.654|PE|Cuzco Department|0
 Huancarqui|-16.096|-72.473|PE|Arequipa|0
 Huancaspata|-8.457|-77.298|PE|La Libertad|0
 Huanchaco|-8.081|-79.119|PE|La Libertad|0
+Huancheng|36.576|107.296|CN|Gansu|0
+Huancheng|33.015|112.539|CN|Henan|0
+Huancheng|40.528|95.766|CN|Gansu|0
+Huancheng|22.472|113.373|CN|Guangdong|0
 Huancuilou|37.500|122.114|CN|Shandong|0
+Huandiqiao|30.209|114.823|CN|Hubei|0
 Huando|-12.564|-74.947|PE|Huancavelica|0
 Huanfeng|31.717|118.100|CN|Anhui|0
+Huang’ao|28.980|114.806|CN|Jiangxi|0
+Huangbai|27.187|119.784|CN|Fujian|0
+Huangbai|25.955|116.006|CN|Jiangxi|0
+Huangban|28.254|109.160|CN|Guizhou|0
+Huangbao|35.004|109.025|CN|Shaanxi|0
+Huangbao|31.827|111.340|CN|Hubei|0
+Huangbayi|32.755|106.127|CN|Shaanxi|0
+Huangbei|27.302|116.124|CN|Jiangxi|0
+Huangbei|26.692|115.849|CN|Jiangxi|0
+Huangbei|24.411|115.738|CN|Guangdong|0
+Huangben|24.693|112.685|CN|Guangdong|0
+Huangbizhuang|38.250|114.313|CN|Hebei|0
+Huangbu|22.754|114.957|CN|Guangdong|0
+Huangbu|23.980|115.300|CN|Guangdong|0
+Huangbu|26.742|116.653|CN|Fujian|0
+Huangca|24.172|114.224|CN|Guangdong|0
+Huangcai|28.157|112.121|CN|Hunan|0
+Huangcheng|28.360|115.562|CN|Jiangxi|0
+Huangcheng|37.609|101.201|CN|Qinghai|0
+Huangchi|31.302|118.600|CN|Anhui|0
+Huangcun|30.015|118.404|CN|Anhui|0
+Huangcun|30.609|118.327|CN|Anhui|0
+Huangcun|28.511|120.049|CN|Zhejiang|0
+Huangcun|23.835|115.226|CN|Guangdong|0
+Huangcun|29.771|116.320|CN|Jiangxi|0
+Huangcun|23.129|113.408|CN|Guangdong|0
+Huangdai|31.436|120.556|CN|Jiangsu|0
+Huangdao|34.068|113.159|CN|Henan|0
+Huangdi|40.235|120.266|CN|Liaoning|0
+Huangdimiao|33.768|113.986|CN|Henan|0
+Huangdu|31.277|121.208|CN|Shanghai|0
+Huangdu|28.403|107.744|CN|Guizhou|0
+Huangduobu|36.307|106.066|CN|Ningxia|0
+Huangfang|26.980|116.879|CN|Fujian|0
+Huanggang|28.861|114.764|CN|Jiangxi|0
+Huanggang|28.483|114.544|CN|Jiangxi|0
+Huanggang|29.156|117.003|CN|Jiangxi|0
+Huanggang|24.133|113.499|CN|Guangdong|0
+Huanggang|23.075|112.510|CN|Guangdong|0
+Huanggangshan|28.011|117.741|CN|Jiangxi|0
+Huangge|22.829|113.506|CN|Guangdong|0
+Huanggexi|27.854|103.861|CN|Yunnan|0
+Huanggong|44.583|84.770|CN|Xinjiang|0
+Huanggu|29.281|118.561|CN|Zhejiang|0
+Huanggu|28.581|117.981|CN|Jiangxi|0
+Huangguan|37.443|122.147|CN|Shandong|0
+Huanghe|34.567|98.317|CN|Qinghai|0
+Huanghou|33.480|112.757|CN|Henan|0
+Huanghu|30.450|119.807|CN|Zhejiang|0
+Huanghua|30.860|111.378|CN|Hubei|0
+Huanghua|29.863|116.595|CN|Jiangxi|0
+Huanghua|24.209|112.901|CN|Guangdong|0
 Huanghua|38.372|117.348|CN|Hebei|0
+Huanghuai|24.468|115.775|CN|Guangdong|0
+Huanghuatala|42.657|120.777|CN|Inner Mongolia|0
+Huanghuatan|39.654|113.842|CN|Shanxi|0
+Huanghuatang|32.913|118.780|CN|Jiangsu|0
+Huangji|32.311|112.133|CN|Hubei|0
+Huangjiabu|30.144|120.956|CN|Zhejiang|0
+Huangjiakou|30.069|113.550|CN|Hubei|0
+Huangjiang|22.921|113.996|CN|Guangdong|0
+Huangjiapu|29.113|111.288|CN|Hunan|0
+Huangjiazhai|36.868|101.713|CN|Qinghai|0
+Huangjin|23.994|116.374|CN|Guangdong|0
+Huangjin|29.777|115.482|CN|Jiangxi|0
+Huangjin|30.379|108.002|CN|Chongqing|0
+Huangjinbu|28.479|116.803|CN|Jiangxi|0
+Huangjindong|29.952|109.077|CN|Hubei|0
+Huangjindong|28.652|114.055|CN|Hunan|0
+Huangjing|31.652|121.105|CN|Jiangsu|0
+Huangjingba|28.014|103.999|CN|Yunnan|0
+Huangkeng|25.224|114.505|CN|Guangdong|0
+Huangkeng|25.058|113.819|CN|Guangdong|0
+Huangli|31.636|119.712|CN|Jiangsu|0
+Huangli|25.912|117.376|CN|Fujian|0
+Huanglian|28.488|107.008|CN|Guizhou|0
+Huangliang|34.093|108.895|CN|Shaanxi|0
+Huangliang|31.264|110.826|CN|Hubei|0
+Huangliao|27.946|119.886|CN|Zhejiang|0
+Huanglin|25.918|115.621|CN|Jiangxi|0
+Huangling|29.800|116.565|CN|Jiangxi|0
+Huangling|21.834|111.154|CN|Guangdong|0
+Huangliu|18.503|108.789|CN|Hainan|0
+Huanglong|31.974|112.456|CN|Hubei|0
+Huanglong|29.028|114.032|CN|Jiangxi|0
+Huanglong|32.683|110.565|CN|Hubei|0
+Huangludian|33.256|112.636|CN|Henan|0
+Huangma|28.352|116.012|CN|Jiangxi|0
+Huangmao|28.108|114.073|CN|Jiangxi|0
+Huangmao|32.092|106.397|CN|Sichuan|0
+Huangmei|30.079|115.939|CN|Hubei|0
+Huangmu|31.077|118.359|CN|Anhui|0
+Huangnaihai|35.616|102.005|CN|Qinghai|0
+Huangnan|28.529|120.681|CN|Zhejiang|0
+Huangni|42.556|127.296|CN|Jilin|0
+Huangnibao|39.718|98.820|CN|Gansu|0
+Huangpo|21.317|110.588|CN|Guangdong|0
+Huangpu|22.717|113.337|CN|Guangdong|0
 Huangpu|23.109|113.457|CN|Guangdong|0
+Huangpu|25.432|113.174|CN|Guangdong|0
+Huangqi|26.324|119.884|CN|Fujian|0
+Huangqi|24.168|114.222|CN|Guangdong|0
+Huangqiang|23.151|115.419|CN|Guangdong|0
+Huangqiao|32.241|120.233|CN|Jiangsu|0
+Huangqiao|27.779|119.797|CN|Zhejiang|0
+Huangqiao|27.317|115.044|CN|Jiangxi|0
+Huangqu|40.278|94.703|CN|Gansu|0
+Huangrangping|28.683|111.000|CN|Hunan|0
+Huangsangkou|30.014|115.328|CN|Hubei|0
+Huangsha|28.923|114.671|CN|Jiangxi|0
+Huangsha|33.133|106.787|CN|Shaanxi|0
+Huangsha|24.171|114.844|CN|Guangdong|0
+Huangshagang|28.316|115.368|CN|Jiangxi|0
+Huangshaling|28.244|117.953|CN|Jiangxi|0
+Huangshan|29.573|120.325|CN|Zhejiang|0
+Huangshanguan|37.544|120.276|CN|Shandong|0
+Huangshankou|33.041|113.317|CN|Henan|0
+Huangshapu|29.742|114.680|CN|Hubei|0
+Huangshe|24.807|115.837|CN|Guangdong|0
+Huangshi|26.242|115.934|CN|Jiangxi|0
+Huangshi|29.182|111.195|CN|Hunan|0
+Huangshi|25.378|119.072|CN|Fujian|0
+Huangshi|24.340|115.262|CN|Guangdong|0
+Huangshi|23.210|113.263|CN|Guangdong|0
+Huangshi|31.000|108.719|CN|Chongqing|0
+Huangtan|30.904|113.571|CN|Hubei|0
+Huangtan|30.661|113.085|CN|Hubei|0
+Huangtan|29.522|117.078|CN|Jiangxi|0
+Huangtan|29.296|121.358|CN|Zhejiang|0
+Huangtan|26.677|117.320|CN|Fujian|0
+Huangtang|31.784|119.689|CN|Jiangsu|0
+Huangtang|23.692|114.991|CN|Guangdong|0
+Huangtang|26.039|112.035|CN|Hunan|0
+Huangtian|29.720|118.644|CN|Anhui|0
+Huangtian|23.876|114.987|CN|Guangdong|0
+Huangtian|23.446|112.532|CN|Guangdong|0
+Huangtian|27.766|118.933|CN|Zhejiang|0
+Huangtianfan|29.167|120.136|CN|Zhejiang|0
+Huangtong|19.835|109.844|CN|Hainan|0
+Huangtu|31.874|120.036|CN|Jiangsu|0
+Huangtu|28.704|108.264|CN|Guizhou|0
+Huangtudian|28.733|111.681|CN|Hunan|0
+Huangtugang|31.384|115.076|CN|Hubei|0
+Huangtugang|27.895|115.228|CN|Jiangxi|0
+Huangtuling|40.413|122.791|CN|Liaoning|0
+Huangwan|30.367|120.795|CN|Zhejiang|0
+Huangwei|29.689|118.640|CN|Anhui|0
+Huangwu|29.085|121.166|CN|Zhejiang|0
+Huangxi|28.334|116.877|CN|Jiangxi|0
+Huangxiekou|30.033|112.853|CN|Hubei|0
+Huangyang|28.296|120.351|CN|Zhejiang|0
+Huangyang|28.297|107.075|CN|Guizhou|0
+Huangyang|32.239|106.369|CN|Sichuan|0
+Huangyangcheng|41.432|112.384|CN|Inner Mongolia|0
 Huangyuan Chengguanzhen|36.687|101.271|CN|Qinghai|0
+Huangze|29.579|120.924|CN|Zhejiang|0
 Huangzhai|38.075|112.659|CN|Shanxi|0
+Huangzhai|29.449|119.996|CN|Zhejiang|0
+Huangzhan|31.579|114.498|CN|Hubei|0
+Huangzhawan|40.384|97.063|CN|Gansu|0
+Huangzhu|19.479|110.439|CN|Hainan|0
+Huangzhuang|28.477|116.952|CN|Jiangxi|0
+Huangzhuzhou|29.117|112.085|CN|Hunan|0
+Huaniao|30.850|122.691|CN|Zhejiang|0
 Huanoquite|-13.683|-72.017|PE|Cuzco Department|0
+Huanshan|29.931|119.925|CN|Zhejiang|0
+Huanshan|47.724|130.646|CN|Heilongjiang|0
+Huansheng|46.812|127.321|CN|Heilongjiang|0
+Huanshi|22.594|113.067|CN|Guangdong|0
+Huanxi|26.174|119.354|CN|Fujian|0
+Huanxi|26.564|113.601|CN|Hunan|0
 Huanza|-11.657|-76.503|PE|Lima region|0
+Huapi|38.312|114.556|CN|Hebei|0
+Huaping|30.443|109.988|CN|Hubei|0
+Huaping|28.039|107.793|CN|Guizhou|0
+Huaping|25.013|113.573|CN|Guangdong|0
+Huaqiao|31.187|118.692|CN|Anhui|0
+Huaqiao|31.302|121.085|CN|Jiangsu|0
+Huaqiao|30.013|115.717|CN|Hubei|0
+Huaqiao|28.923|121.477|CN|Zhejiang|0
+Huaqiao|28.516|117.043|CN|Jiangxi|0
+Huaqiao|28.535|114.959|CN|Jiangxi|0
+Huaqiao|27.595|118.717|CN|Fujian|0
+Huaqiao|30.360|107.695|CN|Chongqing|0
 Huaranchal|-7.683|-78.450|PE|La Libertad|0
 Huarango|-5.273|-78.776|PE|Cajamarca Department|0
 Huariaca|-10.442|-76.190|PE|Pasco|0
@@ -284,16 +590,57 @@ Huarmaca|-5.566|-79.522|PE|Piura|0
 Huaro|-13.688|-71.636|PE|Cuzco Department|0
 Huarocondo|-13.413|-72.206|PE|Cuzco Department|0
 Huarong|30.533|114.733|CN|Hubei|0
+Huashan|23.450|113.268|CN|Guangdong|0
+Huashan|41.884|126.866|CN|Jilin|0
+Huashan|30.543|114.514|CN|Hubei|0
+Huashan|46.227|127.366|CN|Heilongjiang|0
+Huashanzi|41.627|112.272|CN|Inner Mongolia|0
+Huashe|30.113|120.482|CN|Zhejiang|0
+Huashi|31.834|120.463|CN|Jiangsu|0
+Huashi|22.766|111.685|CN|Guangdong|0
+Huashixia|35.117|98.800|CN|Qinghai|0
+Huashu|41.991|127.217|CN|Jilin|0
+Huata|-19.017|-65.250|BO|Chuquisaca Department|0
+Huatan|30.329|118.538|CN|Anhui|0
+Huatan|28.263|120.816|CN|Zhejiang|0
+Huatanshan|28.711|117.815|CN|Jiangxi|0
+Huating|31.462|121.237|CN|Shanghai|0
+Huating|25.382|118.888|CN|Fujian|0
+Huating|28.434|117.442|CN|Jiangxi|0
+Huaxi|29.195|120.159|CN|Zhejiang|0
+Huaxi|31.199|113.859|CN|Hubei|0
+Huaxiang|39.831|116.325|CN|Beijing|0
+Huaxijie|24.075|103.014|CN|Yunnan|0
+Huaxin|31.247|121.218|CN|Shanghai|0
+Huaxing|25.693|117.886|CN|Fujian|0
+Huaxu|34.225|109.182|CN|Shaanxi|0
+Huaya|33.657|105.653|CN|Gansu|0
+Huayang|34.416|109.994|CN|Shaanxi|0
 Huayang|30.071|118.590|CN|Anhui|0
 Huayang|31.952|119.163|CN|Jiangsu|0
 Huayhuay|-11.723|-75.905|PE|Junin|0
 Huayllabamba|-8.536|-77.568|PE|Ancash|0
 Huayllabamba|-13.338|-72.065|PE|Cuzco Department|0
 Huayllán|-8.858|-77.436|PE|Ancash|0
+Huayllas|-19.170|-65.326|BO|Chuquisaca Department|0
 Huayllay|-11.004|-76.365|PE|Pasco|0
 Huayllay Grande|-12.942|-74.702|PE|Huancavelica|0
 Huayrapata|-15.321|-69.341|PE|Puno|0
+Huayuan|34.075|119.450|CN|Jiangsu|0
 Huayuan|31.314|114.018|CN|Hubei|0
 Huayuan|28.588|109.476|CN|Hunan|0
+Huayuan|32.722|113.320|CN|Henan|0
+Huayuan|33.966|103.768|CN|Gansu|0
+Huayuan|29.596|115.321|CN|Jiangxi|0
+Huayuan|46.977|124.910|CN|Heilongjiang|0
+Huayuandao|39.148|117.142|CN|Tianjin|0
+Huayuankou|42.287|127.063|CN|Jilin|0
+Huayuanli|29.965|117.015|CN|Anhui|0
+Huayue|24.621|102.752|CN|Yunnan|0
+Huayun|27.576|114.135|CN|Jiangxi|0
 Huazangsi|36.977|103.135|CN|Gansu|0
+Huazhai|38.622|100.358|CN|Gansu|0
+Huazhaizi|38.500|101.217|CN|Gansu|0
 Huazhou|34.515|109.758|CN|Shaanxi|0
+Huazhu|34.786|109.196|CN|Shaanxi|0
+Huazhuang|31.483|120.343|CN|Jiangsu|0

@@ -72,6 +72,7 @@ Ayapata|-13.777|-70.323|PE|Puno|68
 Ollantaytambo|-13.257|-72.263|PE|Cuzco Department|66
 Pisac|-13.422|-71.847|PE|Cuzco Department|66
 Vilcabamba|-14.078|-72.625|PE|Apurímac Department|60
+Cancha Cancha|-13.606|-74.313|PE|Ayacucho|60
 Sacsamarca|-13.943|-74.313|PE|Ayacucho|60
 Llusco|-14.339|-72.115|PE|Cuzco Department|60
 Huaquirca|-14.340|-72.895|PE|Apurímac Department|60
@@ -79,98 +80,176 @@ Poroy|-13.497|-72.043|PE|Cuzco Department|60
 Livitaca|-14.313|-71.689|PE|Cuzco Department|60
 Chaca|-12.784|-74.206|PE|Ayacucho|60
 Chinchaypujio|-13.630|-72.233|PE|Cuzco Department|59
+Andabamba|-12.695|-74.624|PE|Huancavelica|59
+Maldonadillo|-10.740|-73.725|PE|Ucayali|59
+Carampa|-13.653|-74.239|PE|Ayacucho|59
 Otoca|-14.490|-74.686|PE|Ayacucho|59
 Cayara|-13.796|-73.991|PE|Ayacucho|59
 Puerto Ocopa|-11.145|-74.308|PE|Junin|59
 Huanipaca|-13.492|-72.934|PE|Apurímac Department|59
 Apongo|-14.013|-73.932|PE|Ayacucho|59
+Oventeni|-10.751|-74.220|PE|Ucayali|59
 San Pedro de Coris|-12.579|-74.410|PE|Huancavelica|59
 Huachocolpa|-13.032|-74.947|PE|Huancavelica|59
 Huaccana|-13.388|-73.690|PE|Apurímac Department|59
+Rosario|-12.618|-73.845|PE|Ayacucho|59
 Challabamba|-13.212|-71.653|PE|Cuzco Department|59
 Ccapi|-13.853|-72.082|PE|Cuzco Department|59
 Kishuara|-13.691|-73.118|PE|Apurímac Department|59
 Quishuar|-12.244|-74.777|PE|Huancavelica|59
+Huanca Huanca|-12.917|-74.611|PE|Huancavelica|59
+Río Chari Alto|-11.089|-74.652|PE|Junin|58
+Casacancha|-12.788|-74.632|PE|Huancavelica|58
+Compañia|-13.069|-74.255|PE|Ayacucho|58
 Julcamarca|-13.014|-74.445|PE|Huancavelica|58
 Cachora|-13.512|-72.813|PE|Apurímac Department|58
+Manchaybamba|-13.589|-73.334|PE|Apurímac Department|58
 Ahuaycha|-12.407|-74.891|PE|Huancavelica|58
 Huaribamba|-12.280|-74.938|PE|Huancavelica|58
 Paucarbamba|-12.554|-74.532|PE|Huancavelica|58
 Umachiri|-14.853|-70.754|PE|Puno|58
 Ocobamba|-13.483|-73.560|PE|Apurímac Department|58
 Mariscal Cáceres|-12.534|-74.933|PE|Huancavelica|58
+Unión Capiri|-11.092|-74.702|PE|Junin|58
 Acos|-13.951|-71.739|PE|Cuzco Department|58
 Socos|-13.215|-74.289|PE|Ayacucho|58
 Tintay|-13.960|-73.185|PE|Apurímac Department|57
 Turpo|-13.786|-73.474|PE|Apurímac Department|57
 Sabaino|-14.313|-72.945|PE|Apurímac Department|57
+Villa Capiri|-11.129|-74.673|PE|Junin|57
 Vischongo|-13.589|-73.995|PE|Ayacucho|57
 Paccaritambo|-13.756|-71.956|PE|Cuzco Department|57
 Maranura|-12.964|-72.664|PE|Cuzco Department|57
 Santa Ana de Huaycahuacho|-14.227|-73.957|PE|Ayacucho|57
 Umamarca|-14.053|-73.566|PE|Apurímac Department|57
+Mantaro|-12.322|-73.940|PE|Cuzco Department|57
 Quiñota|-14.312|-72.139|PE|Cuzco Department|57
 Pachaconas|-14.223|-73.016|PE|Apurímac Department|57
 Colca|-13.713|-74.034|PE|Ayacucho|57
 San Juan|-14.660|-74.202|PE|Ayacucho|57
 Mayocc|-12.806|-74.390|PE|Huancavelica|57
+Acco|-12.929|-74.027|PE|Ayacucho|57
 Progreso|-14.072|-72.477|PE|Apurímac Department|57
+Totorabamba|-13.543|-73.664|PE|Apurímac Department|57
+Circamarca|-13.725|-74.123|PE|Ayacucho|57
 Chaccrampa|-13.961|-73.608|PE|Apurímac Department|57
 Pomacocha|-14.084|-73.591|PE|Apurímac Department|57
 Tirapata|-14.955|-70.403|PE|Puno|57
 Pampachiri|-14.187|-73.545|PE|Apurímac Department|57
+Betania|-11.051|-73.751|PE|Junin|57
 Chamaca|-14.302|-71.853|PE|Cuzco Department|57
+Nueva Luz|-11.468|-73.032|PE|Cuzco Department|57
+Arin|-13.313|-72.010|PE|Cuzco Department|57
 Marcas|-12.889|-74.400|PE|Huancavelica|57
+Cupisa|-13.682|-73.282|PE|Apurímac Department|57
 Congalla|-12.956|-74.493|PE|Huancavelica|57
 Pilpichaca|-13.330|-74.977|PE|Huancavelica|57
 Vinchos|-13.242|-74.354|PE|Ayacucho|57
+Anta|-12.271|-74.963|PE|Huancavelica|56
+Concacha|-13.551|-72.798|PE|Apurímac Department|56
 Mamara|-14.229|-72.590|PE|Apurímac Department|56
 Quichuas|-12.469|-74.771|PE|Huancavelica|56
+San Antonio de Cheni|-11.271|-73.695|PE|Junin|56
+Bellavista|-11.274|-74.658|PE|Junin|56
 Callanmarca|-12.867|-74.623|PE|Huancavelica|56
 Lambrama|-13.871|-72.770|PE|Apurímac Department|56
+Huarán|-13.313|-72.028|PE|Cuzco Department|56
 Yanaca|-14.226|-73.160|PE|Apurímac Department|56
 La Merced|-12.788|-74.359|PE|Huancavelica|56
+Poyentimari|-12.327|-72.886|PE|Cuzco Department|56
+Yavirironi|-11.077|-74.717|PE|Junin|56
+Buena Vista|-13.693|-73.479|PE|Apurímac Department|56
+Choccecancha|-13.683|-73.264|PE|Apurímac Department|56
 Accomarca|-13.801|-73.904|PE|Ayacucho|56
+Huantashiri|-11.207|-74.523|PE|Junin|56
 Paras|-13.552|-74.628|PE|Ayacucho|56
+Chiara|-14.091|-71.401|PE|Cuzco Department|56
+Ambato|-12.750|-74.822|PE|Huancavelica|56
 Caraybamba|-14.378|-73.161|PE|Apurímac Department|56
+Pampaconga|-13.444|-72.387|PE|Cuzco Department|56
+Puca Cruz|-12.746|-74.629|PE|Huancavelica|56
 San José de Secce|-12.766|-74.253|PE|Ayacucho|56
 Capacmarca|-14.008|-72.001|PE|Cuzco Department|56
+Ancobamba|-14.036|-73.100|PE|Apurímac Department|56
+Chupaca|-12.523|-74.830|PE|Huancavelica|56
+Santiago de Lucanamarca|-13.844|-74.372|PE|Ayacucho|56
 Santa Maria de Chicmo|-13.657|-73.495|PE|Apurímac Department|56
+Tongos|-12.283|-74.983|PE|Huancavelica|56
+Pulluri|-13.547|-73.285|PE|Apurímac Department|56
+Pichiupata|-13.677|-73.076|PE|Apurímac Department|56
+Panti|-12.036|-74.774|PE|Junin|56
 Turpay|-14.228|-72.622|PE|Apurímac Department|56
+Choquecancha|-13.034|-72.033|PE|Cuzco Department|56
+Pumachuco|-13.333|-73.739|PE|Apurímac Department|56
+Viñas|-12.416|-74.862|PE|Huancavelica|56
+Moyobamba|-14.376|-73.893|PE|Ayacucho|56
+Maucallacta|-13.558|-73.492|PE|Apurímac Department|55
 San Juan de Chacña|-13.924|-73.182|PE|Apurímac Department|55
 Ocros|-13.391|-73.915|PE|Ayacucho|55
 Pillpinto|-13.953|-71.762|PE|Cuzco Department|55
 Izcuchaca|-12.501|-74.997|PE|Huancavelica|55
 Huancaraylla|-13.719|-74.102|PE|Ayacucho|55
 Ocaña|-14.399|-74.823|PE|Ayacucho|55
+Checcapucara|-14.184|-71.694|PE|Cuzco Department|55
+Tauribamba|-12.040|-74.583|PE|Huancavelica|55
 Chiara|-13.867|-73.669|PE|Apurímac Department|55
+Sondondo|-14.298|-73.939|PE|Ayacucho|55
+Huambo|-13.679|-74.192|PE|Ayacucho|55
+San Pedro de Chuparo|-13.524|-73.684|PE|Apurímac Department|55
+Acpitán|-13.843|-72.416|PE|Apurímac Department|55
+Paratushiali|-11.290|-74.699|PE|Junin|55
 Carapo|-13.837|-74.315|PE|Ayacucho|55
 Mollebamba|-14.429|-72.915|PE|Apurímac Department|55
 Colquepata|-13.360|-71.673|PE|Cuzco Department|55
+Huancas|-13.477|-73.372|PE|Apurímac Department|55
+Pampachacra|-12.804|-74.921|PE|Huancavelica|55
+San José de Huarcaya|-13.827|-74.385|PE|Ayacucho|55
 Santo Tomás de Pata|-13.113|-74.419|PE|Huancavelica|55
 Antaparco|-13.076|-74.412|PE|Huancavelica|55
 San Pedro de Larcay|-14.169|-73.573|PE|Ayacucho|55
 Chungui|-13.222|-73.621|PE|Ayacucho|55
+Monterrico|-12.825|-73.592|PE|Cuzco Department|55
+Tintay|-14.075|-73.861|PE|Ayacucho|55
+Tucsipampa|-13.001|-74.788|PE|Huancavelica|55
 Sañayca|-14.205|-73.347|PE|Apurímac Department|55
 Toraya|-14.053|-73.295|PE|Apurímac Department|55
+Tororumi|-12.783|-74.590|PE|Huancavelica|55
+San Juan de Chito|-13.640|-73.926|PE|Ayacucho|55
+Pongobamba|-13.424|-72.038|PE|Cuzco Department|55
 Acocro|-13.219|-74.042|PE|Ayacucho|55
+Puerto Amargura|-12.407|-73.906|PE|Ayacucho|55
 Cotaruse|-14.416|-73.205|PE|Apurímac Department|55
 Huayana|-14.051|-73.609|PE|Apurímac Department|55
 Ccatca|-13.605|-71.564|PE|Cuzco Department|55
+San José de Tomate|-14.338|-74.777|PE|Ayacucho|55
 Ayrihuanca|-14.115|-72.614|PE|Apurímac Department|55
+Tambo Real|-13.477|-72.239|PE|Cuzco Department|55
 Colcabamba|-14.006|-73.255|PE|Apurímac Department|55
 Chiquintirca|-13.060|-73.707|PE|Ayacucho|54
+Cayco|-14.345|-71.161|PE|Cuzco Department|54
 Cocharcas|-13.611|-73.739|PE|Apurímac Department|54
+Socospata|-13.781|-73.463|PE|Apurímac Department|54
 Lares|-13.104|-72.044|PE|Cuzco Department|54
 Pacapausa|-14.949|-73.368|PE|Ayacucho|54
+Pampamarca|-14.427|-73.207|PE|Apurímac Department|54
 Huamanquiquia|-13.728|-74.273|PE|Ayacucho|54
 Anta|-12.812|-74.639|PE|Huancavelica|54
 San Pedro|-14.767|-74.098|PE|Ayacucho|54
+Ccarancalla|-13.648|-73.403|PE|Apurímac Department|54
 Huayllati|-13.929|-72.485|PE|Apurímac Department|54
+Santa Rosa|-12.335|-73.972|PE|Ayacucho|54
+Anchayaque|-14.619|-72.065|PE|Cuzco Department|54
 Morcolla|-14.109|-73.872|PE|Ayacucho|54
 Mariposa|-11.406|-74.752|PE|Junin|54
+Llique|-14.534|-72.135|PE|Cuzco Department|54
+Pucuto|-12.590|-74.900|PE|Huancavelica|54
 Belén|-13.809|-73.758|PE|Ayacucho|54
+Samaniato|-12.660|-73.700|PE|Cuzco Department|54
+Tarucuyo|-14.890|-71.548|PE|Cuzco Department|54
+Antapallpa|-14.130|-71.718|PE|Cuzco Department|54
 Querco|-13.980|-74.977|PE|Huancavelica|54
+Ayacancha|-12.292|-74.911|PE|Huancavelica|54
+Kana|-13.808|-70.319|PE|Puno|54
 Carhuanca|-13.742|-73.788|PE|Ayacucho|54
 Yaurisque|-13.661|-71.923|PE|Cuzco Department|54
 Taray|-13.428|-71.868|PE|Cuzco Department|54
@@ -195,6 +274,7 @@ Vilcanchos|-13.612|-74.532|PE|Ayacucho|52
 Salcahuasi|-12.104|-74.752|PE|Huancavelica|52
 Pacobamba|-13.616|-73.086|PE|Apurímac Department|51
 Concepción|-13.533|-73.875|PE|Ayacucho|51
+Ingata|-14.262|-71.899|PE|Cuzco Department|51
 San Salvador de Quije|-13.968|-73.735|PE|Ayacucho|51
 Chapimarca|-13.975|-73.065|PE|Apurímac Department|51
 Ayahuay|-14.209|-73.059|PE|Apurímac Department|51

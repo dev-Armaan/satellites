@@ -13,10 +13,12 @@ Demerval Lobão|-5.358|-42.676|BR|Piauí|84
 Demirci|39.800|29.017|TR|Bursa Province|83
 Deming|32.269|-107.759|US|New Mexico|83
 Demre|36.244|29.985|TR|Antalya|83
+Democracy Monument|13.757|100.502|TH|Bangkok|83|f
 Demmin|53.908|13.031|DE|Mecklenburg-Vorpommern|82
 Dembeni|-12.844|45.184|YT|Dembeni|80
 Demidov|55.270|31.516|RU|Smolensk Oblast|79
 Déma|7.308|-6.482|CI|Sassandra-Marahoue|78
+Deming Municipal Airport|32.262|-107.721|US|New Mexico|78|f
 Demopolis|32.518|-87.836|US|Alabama|77
 Demirtaş|40.272|29.098|TR|Bursa Province|77
 Dem’yanovo|60.351|47.084|RU|Kirov Oblast|76
@@ -28,6 +30,7 @@ Demba Kunda|13.250|-14.267|GM|Upper River|74
 Demir Kapija|41.406|22.243|MK|Demir Kapija|73
 Demecser|48.116|21.926|HU|Szabolcs-Szatmár-Bereg|72
 DeMotte|41.195|-87.199|US|Indiana|72
+Demon|45.502|148.859|RU|Sakhalin Oblast|71|f
 Demirtaş|36.426|32.193|TR|Antalya|71
 Démouville|49.180|-0.269|FR|Normandy|70
 Demitz-Thumitz|51.141|14.247|DE|Saxony|70
@@ -41,6 +44,8 @@ Demorest|34.565|-83.545|US|Georgia|66
 Demirözü|40.160|39.892|TR|Bayburt Province|65
 Demnya|49.567|23.946|UA|Lviv|64
 Demigny|46.930|4.834|FR|Bourgogne-Franche-Comté|64
+Demas Range|-75.000|-133.750|AQ||63|f
+Demidov Island|-67.483|48.350|AQ||63|f
 Demiryol|37.918|41.150|TR|Batman|63
 Demirciler|36.792|31.509|TR|Antalya|63
 Demen|53.630|11.766|DE|Mecklenburg-Vorpommern|62
@@ -50,8 +55,58 @@ Demirdöven|40.037|41.736|TR|Erzurum|60
 Demydove|47.265|30.675|UA|Odesa|60
 Demirköprü|36.250|36.353|TR|Hatay|60
 Demacușa|47.697|25.505|RO|Suceava|60
+Demirkapı|39.094|41.906|TR|Muş|60
+Demacu|20.305|-99.030|MX|Hidalgo|60
+Demuryne|48.179|36.475|UA|Dnipropetrovsk|60
+Demirkent|40.722|43.642|TR|Kars Province|59
+Demyanivka|47.029|37.141|UA|Donetsk|59
+De Mortel|51.540|5.708|NL|North Brabant|59
+Demirlipınar|37.962|41.176|TR|Batman|58
+Demky|50.077|31.927|UA|Cherkasy|58
+Demyno-Oleksandrivka|50.042|38.230|UA|Luhansk|58
+Demirciler|41.365|41.619|TR|Artvin|58
+Demo|46.087|10.341|IT|Lombardy|58
+Demirkonak|36.582|36.527|TR|Hatay|58
+Demerje|45.732|15.885|HR|Zagreb|57
+Demirciler|37.976|28.440|TR|Aydın|57
+Demirhan|37.973|28.224|TR|Aydın|56
+Dempleu|7.227|-8.195|CI|Montagnes|56
+Demirören|36.081|32.672|TR|Mersin|56
+Demirtaş|36.822|35.815|TR|Adana|55
+Demenky|48.948|34.254|UA|Poltava|55
+Demiantsi|49.691|34.034|UA|Poltava|55
+Demianivka|49.544|32.776|UA|Poltava|55
+Demange-aux-Eaux|48.582|5.460|FR|Grand Est|55
+De Moer|51.624|5.013|NL|North Brabant|55
+De Mille Peak|37.126|-112.967|US|Utah|54|f
+Demarest Lloyd Memorial State Park|41.529|-70.983|US|Massachusetts|54|f
+Demaria, Mount|-65.289|-64.095|AQ||54|f
+Demas Rocks|-63.352|-58.034|AQ||54|f
+Demay Point|-62.214|-58.419|AQ||54|f
+Dembidollo Airport|8.554|34.858|ET|Oromiya|54|f
+Deming Glacier|48.763|-121.839|US|Washington|54|f
+Deming Lake|47.170|-95.168|US|Minnesota|54|f
+Demirköprü Barajı|38.617|28.312|TR|Manisa|54|f
+Demirtaş Barajı|40.288|29.114|TR|Bursa Province|54|f
+Demorest Glacier|-67.340|-65.616|AQ||54|f
+Democrática Chiapaneca|16.087|-93.780|MX|Chiapas|54
+Demerath|50.183|6.950|DE|Rheinland-Pfalz|50
+Demeljoch|47.546|11.586|AT||49|f
+Demere Key|26.593|-82.134|US|Florida|49|f
+Demopolis Municipal Airport|32.461|-87.954|US|Alabama|49|f
+Demopolis Town Square|32.518|-87.838|US|Alabama|49|f
+Demourelles Island|30.002|-90.084|US|Louisiana|49|f
 Demirkent|40.886|41.738|TR|Artvin|49
+DeMaster Point|-78.067|164.417|AQ||40|f
+Demijohn Lake|48.958|-87.373|CA|Ontario|40|f
+Deming Glacier|-72.000|168.500|AQ||40|f
+Demon Island|-62.674|-61.182|AQ||40|f
+Demske Sports Complex|42.921|-78.856|US|New York|40|f
+Demaan|-6.807|111.430|ID|Central Java|0
+Demakan|-7.147|111.605|ID|East Java|0
 Demba Chio|-9.852|14.037|AO|Bengo|0
 Demirci|37.413|39.768|TR|Şanlıurfa|0
+Dempel|-7.001|112.112|ID|East Java|0
 Demsa|9.456|12.152|NG|Adamawa|0
 Demta|-2.359|140.147|ID|Papua|0
+Demuk|-8.190|112.004|ID|East Java|0

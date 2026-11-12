@@ -26,7 +26,9 @@ Bukuru|9.794|8.864|NG|Plateau State|84
 Bukit Ho Swee Estate|1.288|103.830|SG||83
 Bukowno|50.265|19.460|PL|Lesser Poland|81
 Bukene|-4.233|32.883|TZ|Tabora|77
+Bükk|48.083|20.500|HU||77|f
 Buk|52.355|16.520|PL|Greater Poland|76
+Bukhara International Airport|39.766|64.480|UZ|Bukhara|74|f
 Bukit Damansara|3.150|101.655|MY|Kuala Lumpur|74
 Bukit Pinang|5.933|100.450|MY|Kedah|74
 Bukit Kayu Hitam|6.517|100.419|MY|Kedah|74
@@ -40,14 +42,29 @@ Bukal Sur|13.938|121.386|PH|Calabarzon|69
 Bukowina Tatrzańska|49.343|20.108|PL|Lesser Poland|69
 Bukit Ibam|3.164|102.978|MY|Pahang|68
 Bükri|38.106|57.979|TM|Ahal|67
+Buka Island|-5.231|154.631|PG|Bougainville|67|f
+Bukadaban Feng|36.200|90.967|CN|Xinjiang|67|f
+Bukhta Gelendzhikskaya|44.569|38.052|RU|Krasnodar Krai|67|f
+Bukhta Khal’mervanga|71.279|77.787|RU|Yamalo-Nenets|67|f
+Bukhta Nagayeva|59.541|150.678|RU|Magadan Oblast|67|f
 Bukid|5.572|125.406|PH|Davao Region|67
 Bukove|48.190|23.089|UA|Zakarpattia|67
 Bukit Mandai Village|1.412|103.757|SG||67
 Bukit Jambul|5.334|100.290|MY|Penang|65
+Bukhansan National Park|37.707|127.009|KR|Gyeonggi-do|65|f
+Bukhta Dolgaya Shchel’|69.720|31.211|RU|Murmansk|65|f
+Bukhta Zashchitnaya|60.751|28.720|RU|Leningradskaya Oblast'|65|f
+Bukit Timah Nature Reserve|1.387|103.801|SG||65|f
+Bukkeholshøi|61.580|8.356|NO|Innlandet|65|f
 Bukovany|50.166|12.573|CZ|Carlsbad Region|65
 Buky|49.089|30.409|UA|Cherkasy|65
 Bukovlje|45.185|18.070|HR|Brod-Posavina|65
 Bukowsko|49.480|22.063|PL|Subcarpathia|65
+Bukhansan|37.653|126.972|KR|Gyeonggi-do|63|f
+Bukhta Dzhigit|44.790|136.369|RU|Primorye|63|f
+Bukit Badung|-8.817|115.167|ID||63|f
+Bukom Island|1.233|103.769|SG||63|f
+Bukulja|44.298|20.529|RS|Central Serbia|63|f
 Bukovec|49.551|18.827|CZ|Moravian-Silesian Region|63
 Bukovik|41.971|21.239|MK|Grad Skopje|62
 Bukowiec|53.434|18.240|PL|Kujawsko-Pomorskie|62
@@ -55,11 +72,59 @@ Bukachivtsi|49.254|24.496|UA|Ivano-Frankivsk|61
 Bukor|44.495|19.571|RS|Central Serbia|61
 Bükkszentkereszt|48.067|20.633|HU|Borsod-Abaúj-Zemplén|61
 Bükkösd|46.108|17.988|HU|Baranya|61
+Bukhta Nordvik|73.919|112.441|RU||61|f
+Bukhta Zolotoy Rog|43.108|131.889|RU|Primorye|61|f
+Bukhungu Stadium|0.290|34.761|KE|Kakamega County|61|f
+Bukit Pagon|4.300|115.332|MY|Sarawak|61|f
+Bukkehøi|61.604|8.266|NO|Innlandet|61|f
+Bukovik|41.671|20.921|MK||61|f
+Bukit Fraser|3.713|101.741|MY|Pahang|60
+Bukovci|46.387|15.965|SI|Municipality of Markovci|60
+Bukit Bendera|4.814|114.663|BN|Tutong|59
+Bukivka|48.052|26.092|UA|Chernivtsi|59
+Bukhansanseong|37.652|126.969|KR|Gyeonggi-do|58|f
+Bukhta Lazurnaya|43.192|132.119|RU|Primorye|58|f
+Bukhta Tiksi|71.658|129.160|RU|Sakha|58|f
+Bukit Daun|-3.382|102.374|ID|Bengkulu|58|f
+Bukit Kelam|0.083|111.650|ID|West Kalimantan|58|f
+Bukkehammaren|61.470|8.708|NO|Innlandet|58|f
+Bukit Panggal|4.828|114.726|BN|Tutong|58
+Bukovany|49.042|17.101|CZ|South Moravian|58
+Bukalo|-17.718|24.530|NA|Zambezi Region|57
+Bukowiec Opoczyński|51.417|20.266|PL|Łódź Voivodeship|57
+Buková|48.543|17.397|SK|Trnava Region|56
+Bukovinka|49.297|16.809|CZ|South Moravian|56
+Buky|49.838|29.652|UA|Kyiv Oblast|56
+Bukovany|49.823|14.624|CZ|Central Bohemia|56
+Bukovno|50.447|14.841|CZ|Central Bohemia|56
+Buków|49.946|19.846|PL|Lesser Poland|56
+Bukovets|48.861|22.935|UA|Zakarpattia|56
+Buken|50.940|4.617|BE|Flanders|54
+Bukhny|49.609|29.325|UA|Vinnytsia|54
+Buka Airport|-5.422|154.673|PG|Bougainville|54|f
+Bukavu Kavumu Airport|-2.309|28.809|CD|South Kivu|54|f
+Bukhta Ambarchik|69.648|162.304|RU|Sakha|54|f
+Bukhta Kozhevnikova|73.583|110.000|RU|Krasnoyarsk Krai|54|f
+Bukit Kaba|-3.511|102.626|ID|Bengkulu|54|f
+Bukoba Airport|-1.333|31.817|TZ|Kagera|54|f
+Bukovynka|48.455|22.819|UA|Zakarpattia|54
 Bukovica|45.901|13.667|SI|Municipality of Renče–Vogrsko|54
+Bukit Batok Nature Park|1.349|103.765|SG||49|f
+Bukit Batok Town Park|1.356|103.764|SG||49|f
+Bukit Merah|4.562|101.024|MY|Perak|49|f
+Bukvensko Jezero|43.901|16.970|BA|Federation of B&H|49|f
+Bukit Baka Bukit Raya National Park|-0.783|112.617|ID|Central Kalimantan|40|f
+Buková hora TV Tower|50.672|14.229|CZ|Ústí nad Labem Region|40|f
+Bukovik|43.934|18.451|BA|Federation of B&H|40|f
+Buka|-10.210|123.935|ID|East Nusa Tenggara|0
 Buka|-5.433|154.671|PG|Bougainville|0
+Bukabu|-6.901|113.752|ID|East Java|0
+Bukapiting|-8.181|124.761|ID|East Nusa Tenggara|0
+Bukbatang|-6.896|113.476|ID|East Java|0
 Bukedea|1.317|34.051|UG|Eastern Region|0
 Buket Teukuh|4.809|97.659|ID|Aceh|0
 Bukitkemuning|-4.860|104.574|ID|Lampung|0
 Bukkuyum|12.137|5.468|NG|Zamfara State|0
 Bukomansimbi|-0.158|31.604|UG|Central Region|0
+Bukur|-8.121|112.336|ID|East Java|0
 Bukwa|1.259|34.754|UG|Eastern Region|0

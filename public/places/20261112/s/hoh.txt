@@ -1,7 +1,11 @@
 Hohhot|40.811|111.652|CN|Inner Mongolia|131
 Hohoe|7.152|0.474|GH|Volta|99
+Hohenschwangau Castle|47.556|10.736|DE|Bavaria|92|f
+Hohhot Baita International Airport|40.851|111.824|CN|Inner Mongolia|87|f
 Hoheluft-Ost|53.584|9.976|DE|Hamburg|87
 Hohen Neuendorf|52.677|13.279|DE|Brandenburg|87
+Hohenzollern Castle|48.323|8.968|DE|Baden-Wurttemberg|86|f
+Hoher Dachstein|47.475|13.606|AT|Upper Austria|86|f
 Hohenstein-Ernstthal|50.801|12.713|DE|Saxony|84
 Hohenems|47.361|9.687|AT|Vorarlberg|84
 Hoheluft-West|53.581|9.967|DE|Hamburg|83
@@ -12,33 +16,47 @@ Hohenmölsen|51.158|12.100|DE|Saxony-Anhalt|80
 Höhenkirchen-Siegertsbrunn|48.019|11.719|DE|Bavaria|80
 Hohenbrunn|48.048|11.702|DE|Bavaria|79
 Hohberg|48.323|7.900|DE|Baden-Wurttemberg|78
+Hohe Tauern|47.167|12.500|AT||76|f
 Hohenlockstedt|53.968|9.620|DE|Schleswig-Holstein|76
 Hohenau|-27.073|-55.642|PY|Itapúa|74
 Hohenwestedt|54.089|9.654|DE|Schleswig-Holstein|74
 Hohentengen|48.029|9.377|DE|Baden-Wurttemberg|73
 Hoholiv|50.519|31.022|UA|Kyiv Oblast|73
 Ho-Ho-Kus|40.996|-74.101|US|New Jersey|72
+Höh Nuur|49.500|115.583|MN|East Aimak|72|f
 Hohndorf|50.740|12.681|DE|Saxony|72
 Hohenpeißenberg|47.800|11.000|DE|Bavaria|72
 Hohnstein|50.980|14.114|DE|Saxony|72
 Hohenthann|48.661|12.093|DE|Bavaria|71
 Hohenwald|35.548|-87.552|US|Tennessee|71
+Hoh Brisen|46.898|8.466|CH|Uri|71|f
+Hohentwiel|47.765|8.819|DE|Baden-Wurttemberg|71|f
+Hoher Weißzint|46.969|11.747|AT|Tyrol|71|f
 Hohentengen|47.570|8.432|DE|Baden-Wurttemberg|71
 Hohenau|48.850|13.488|DE|Bavaria|71
 Höhn|50.617|7.983|DE|Rheinland-Pfalz|70
 Hohburg|51.412|12.805|DE|Saxony|70
 Hohenlinden|48.156|11.995|DE|Bavaria|69
 Hohenau an der March|48.604|16.905|AT|Lower Austria|69
+Hohe Weisse|46.746|11.037|IT|Trentino-Alto Adige|69|f
+Hohneck|48.038|7.016|FR|Grand Est|69|f
 Hohenleipisch|51.500|13.550|DE|Brandenburg|68
 Hoholeve|49.921|33.822|UA|Poltava|68
 Hohn|54.300|9.505|DE|Schleswig-Holstein|67
 Hohenthurm|51.518|12.097|DE|Saxony-Anhalt|67
+Hoher Eichham|47.054|12.407|AT|Tyrol|67|f
+Hoher Göll|47.594|13.067|DE|Bavaria|67|f
+Hoher Seeblaskogel|47.095|11.075|AT|Tyrol|67|f
 Hohnhorst|52.369|9.372|DE|Lower Saxony|67
 Hohenkammer|48.424|11.525|DE|Bavaria|67
 Hohenfels|49.204|11.848|DE|Bavaria|67
 Hohenwarth|49.200|12.933|DE|Bavaria|67
 Hohenrain|47.181|8.318|CH|Lucerne|66
 Hohenaspe|53.989|9.528|DE|Schleswig-Holstein|66
+Hōheikyō-damu|42.916|141.154|JP|Hokkaido|65|f
+Hohenlohefjellet|76.895|15.651|SJ|Svalbard|65|f
+Hoher Riffler|47.116|10.370|AT|Tyrol|65|f
+Hoher Sonnblick|47.054|12.958|AT|Salzburg|65|f
 Hohendodeleben|52.104|11.505|DE|Saxony-Anhalt|65
 Hohenleuben|50.711|12.054|DE|Thuringia|65
 Höhnstedt|51.503|11.738|DE|Saxony-Anhalt|64
@@ -47,19 +65,122 @@ Hohenwarsleben|52.179|11.500|DE|Saxony-Anhalt|64
 Hohenburg|49.295|11.799|DE|Bavaria|64
 Hohenfurch|47.850|10.900|DE|Bavaria|64
 Hohenwarthe|52.230|11.715|DE|Saxony-Anhalt|63
+Höh Nuur|47.500|98.500|MN|Bayankhongor|63|f
+Hohe Pön|51.267|8.623|DE|Hesse|63|f
+Hohe Wurzel|50.111|8.130|DE|Hesse|63|f
+Hoher Stoppelkopf|49.397|8.074|DE|Rheinland-Pfalz|63|f
+Hohes Licht|47.281|10.276|AT|Tyrol|63|f
+Hohnekamm|51.782|10.694|DE|Saxony-Anhalt|63|f
 Hohenpolding|48.383|12.133|DE|Bavaria|63
 Hohenweiler|47.584|9.780|AT|Vorarlberg|62
 Höheinöd|49.290|7.607|DE|Rheinland-Pfalz|62
 Hohenbocka|51.431|14.010|DE|Brandenburg|62
+Hohe Hölle|50.429|9.962|DE|Hesse|61|f
+Hohenems-Dornbirn Airport|47.383|9.699|AT|Vorarlberg|61|f
+Hohenkapf|47.691|10.180|DE|Bavaria|61|f
+Hohenkrähen|47.799|8.821|DE|Baden-Wurttemberg|61|f
+Hohes Gras|51.306|9.355|DE|Hesse|61|f
+Hohokam Pima National Monument|33.187|-111.919|US|Arizona|61|f
 Hohenfelde|54.370|10.497|DE|Schleswig-Holstein|61
 Hoheneich|48.772|15.029|AT|Lower Austria|60
 Höheischweiler|49.233|7.550|DE|Rheinland-Pfalz|60
+Hohenschwangau|47.556|10.741|DE|Bavaria|60
+Höhfröschen|49.250|7.567|DE|Rheinland-Pfalz|60
+Hohendorf|54.029|13.731|DE|Mecklenburg-Vorpommern|60
+Hohenfelde|53.843|9.623|DE|Schleswig-Holstein|59
 Hohenruppersdorf|48.464|16.652|AT|Lower Austria|59
+Hohenthann|47.978|11.957|DE|Bavaria|59
+Hohwacht|54.321|10.670|DE|Schleswig-Holstein|59
 Hohenberg|47.907|15.620|AT|Lower Austria|59
+Hohenweiden|51.419|11.939|DE|Saxony-Anhalt|58
+Hohenkirchen|50.850|10.700|DE|Thuringia|58
+Hồ Hoàn Kiếm|21.029|105.851|VN|Hanoi|58|f
+Hohe Brach|49.037|9.550|DE|Baden-Wurttemberg|58|f
+Hohe Derst|49.086|7.914|DE|Rheinland-Pfalz|58|f
+Hohenberg|49.203|8.005|DE|Rheinland-Pfalz|58|f
+Hohenhewen|47.836|8.748|DE|Baden-Wurttemberg|58|f
+Hohenstoffeln|47.796|8.750|DE|Baden-Wurttemberg|58|f
+Hoher Eimberg|51.311|8.600|DE|Hesse|58|f
+Hoher Filzberg|48.936|13.521|DE|Bavaria|58|f
+Hoher Riffler|47.083|11.700|AT|Tyrol|58|f
+Hoher Stein|49.267|13.033|CZ|Plzeň Region|58|f
+Hoherodskopf|50.511|9.227|DE|Hesse|58|f
+Hohloh|48.708|8.416|DE|Baden-Wurttemberg|58|f
+Hohensaaten|52.874|14.142|DE|Brandenburg|58
+Hohen Wangelin|53.611|12.423|DE|Mecklenburg-Vorpommern|57
+Hohenstadt|48.544|9.664|DE|Baden-Wurttemberg|57
+Hohenbucko|51.767|13.467|DE|Brandenburg|57
+Hohenölsen|50.742|12.086|DE|Thuringia|57
+Hohen Viecheln|53.785|11.511|DE|Mecklenburg-Vorpommern|57
+Hohenberg-Krusemark|52.725|11.947|DE|Saxony-Anhalt|57
+Hohenaltheim|48.784|10.535|DE|Bavaria|56
+Hohenziatz|52.181|12.050|DE|Saxony-Anhalt|56
+Hohengandern|51.373|9.948|DE|Thuringia|55
+Hohen-Sülzen|49.619|8.226|DE|Rheinland-Pfalz|55
+Hohenzieritz|53.442|13.098|DE|Mecklenburg-Vorpommern|55
+Hohen Sprenz|53.911|12.195|DE|Mecklenburg-Vorpommern|55
+Hohenfinow|52.813|13.925|DE|Brandenburg|55
+Hoholeve|49.818|34.177|UA|Poltava|54
+Hohenbrugg an der Raab|46.949|16.071|AT|Styria|54
+Hohe Veitsch|47.649|15.406|AT|Styria|54|f
+Hohensprenzer See|53.918|12.213|DE|Mecklenburg-Vorpommern|54|f
+Hoher Kasten|47.284|9.485|CH|Saint Gallen|54|f
+Hoher Randen|47.787|8.557|DE|Baden-Wurttemberg|54|f
+Hoher Straußberg|47.544|10.794|DE|Bavaria|54|f
+Hohsandhorn|46.404|8.310|IT|Piedmont|54|f
+Hohwachter Bucht|54.342|10.740|DE|Schleswig-Holstein|54|f
+Hohen Pritz|53.629|11.892|DE|Mecklenburg-Vorpommern|54
+Hohengœft|48.661|7.474|FR|Grand Est|54
 Hohenau an der Raab|47.300|15.550|AT|Styria|54
+Hohenhorn|53.476|10.365|DE|Schleswig-Holstein|53
+Hohenfels-Essingen|50.250|6.733|DE|Rheinland-Pfalz|52
+Hohenfelden|50.879|11.161|DE|Thuringia|51
+Hohenöllen|49.617|7.633|DE|Rheinland-Pfalz|51
+Hohenleimbach|50.417|7.067|DE|Rheinland-Pfalz|51
+Höhndorf|54.370|10.372|DE|Schleswig-Holstein|51
 Hohentauern|47.433|14.483|AT|Styria|50
+Hohe Acht|50.386|7.011|DE|Rheinland-Pfalz|49|f
+Hohe Dock|47.131|12.741|AT|Salzburg|49|f
+Hohe Kanzel|50.162|8.266|DE|Hesse|49|f
+Hohe Kisten|47.561|11.207|DE|Bavaria|49|f
+Hohe Munde|47.347|11.072|AT|Tyrol|49|f
+Hohe Salve|47.467|12.200|AT|Tyrol|49|f
+Hohe Warte|46.607|12.883|IT|Friuli Venezia Giulia|49|f
+Hohenkarpfen|48.041|8.718|DE|Baden-Wurttemberg|49|f
+Hoher Bogen|49.245|12.911|DE|Bavaria|49|f
+Hoher Fricken|47.532|11.154|DE|Bavaria|49|f
+Hoher Hagen|51.474|9.766|DE|Lower Saxony|49|f
+Hoher Ifen|47.355|10.100|AT|Vorarlberg|49|f
+Hoher Kranzberg|47.453|11.229|DE|Bavaria|49|f
+Hoher Tenn|47.181|12.759|AT|Salzburg|49|f
+Hohes Brett|47.583|13.033|DE|Bavaria|49|f
+Hohgant|46.784|7.896|CH|Bern|49|f
+Hohwart|47.945|8.060|DE|Baden-Wurttemberg|49|f
 Hohenthurn|46.558|13.660|AT|Carinthia|46
+Hohenwarte|50.600|11.483|DE|Thuringia|44
+Hoh Glacier|47.798|-123.670|US|Washington|40|f
+Höhberghorn|46.510|9.103|CH|Grisons|40|f
+Hohe Angelus Spitze|46.544|10.646|IT|Trentino-Alto Adige|40|f
+Hohe Bühl|49.495|7.996|DE|Rheinland-Pfalz|40|f
+Hohe Geige|47.007|10.909|AT|Tyrol|40|f
+Hohe Loog|49.333|8.096|DE|Rheinland-Pfalz|40|f
+Hohe Möhr|47.693|7.875|DE|Baden-Wurttemberg|40|f
+Hohe Villerspitze|47.107|11.165|AT|Tyrol|40|f
+Hohe Warte|48.493|9.332|DE|Baden-Wurttemberg|40|f
+Hoher Brand|50.339|12.386|DE|Saxony|40|f
+Hoher Ochsenkopf|48.642|8.269|DE|Baden-Wurttemberg|40|f
+Hohgwächte|46.104|7.841|CH|Valais|40|f
+Höhi Wispile|46.436|7.293|CH|Bern|40|f
+Hohmad|46.704|7.496|CH|Bern|40|f
+Höhronen|47.160|8.676|CH|Zug|40|f
+Hohstock|46.407|7.964|CH|Valais|40|f
+Hohtälli|45.989|7.802|CH|Valais|40|f
+Hohenfelde|53.630|10.479|DE|Schleswig-Holstein|35
 Hoh Ereg|41.096|111.441|CN|Inner Mongolia|0
+Hohawungo|-9.532|119.024|ID|East Nusa Tenggara|0
 Höhbürd|46.286|100.448|MN|Bayankhongor|0
+Hohenroth|50.317|10.183|DE|Bavaria|0
 Hohentannen|47.509|9.225|CH|Thurgau|0
+Hohne|52.587|10.376|DE|Lower Saxony|0
+Hohnstorf|53.359|10.560|DE|Lower Saxony|0
 Höhtolgoy|49.280|90.910|MN|Uvs Province|0

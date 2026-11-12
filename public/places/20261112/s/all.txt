@@ -3,6 +3,8 @@ Allen|33.103|-96.671|US|Texas|100
 Allinagaram|10.027|77.478|IN|Tamil Nadu|100
 Al Līth|20.148|40.272|SA|Mecca Region|97
 Allapattah|25.815|-80.224|US|Florida|95
+Allianz Arena München|48.219|11.625|DE|Bavaria|92|f
+Allegheny Mountains|38.700|-79.533|US|West Virginia|90|f
 Allanridge|-27.754|26.644|ZA|Free State|90
 Allapuram|12.895|79.128|IN|Tamil Nadu|90
 Allston|42.358|-71.126|US|Massachusetts|89
@@ -23,32 +25,42 @@ Allerton|53.367|-2.894|GB|England|84
 Allegheny West|40.008|-75.178|US|Pennsylvania|83
 Allouez|44.477|-88.016|US|Wisconsin|83
 Allāhganj|27.545|79.687|IN|Uttar Pradesh|83
+Allianz Riviera|43.705|7.193|FR|Provence-Alpes-Côte d'Azur|82|f
 Allemansdrif|-25.114|28.909|ZA|Mpumalanga|82
 Allonnes|47.967|0.160|FR|Pays de la Loire|82
 Allipur|17.676|77.629|IN|Telangana|81
 Al Lagowa|11.400|29.133|SD|West Kordofan|81
 Allāpalli|19.432|80.064|IN|Maharashtra|81
+Allalinhorn|46.046|7.895|CH|Valais|80|f
 Alleroy|43.217|46.282|RU|Chechnya|80
 Allipura|13.488|77.459|IN|Karnataka|80
 Alleur|50.675|5.513|BE|Wallonia|80
 Ally Land|19.341|-81.119|KY||79
 Alliance|42.102|-102.872|US|Nebraska|79
+Allard Pierson Museum|52.369|4.893|NL|North Holland|78|f
+Alliance Municipal Airport|42.053|-102.804|US|Nebraska|78|f
 Allersberg|49.251|11.237|DE|Bavaria|78
 Allen|12.501|124.285|PH|Eastern Visayas|78
 Allensbach|47.715|9.071|DE|Baden-Wurttemberg|77
 Allendale|41.041|-74.129|US|New Jersey|77
 Allières-et-Risset|45.099|5.679|FR|Auvergne-Rhône-Alpes|77
+All England Lawn Tennis and Croquet Club|51.434|-0.214|GB|England|76|f
+Allied Museum|52.456|13.273|DE|State of Berlin|76|f
 Allangbakro|6.753|-4.412|CI|Lacs District|76
+Allegheny County Airport|40.355|-79.930|US|Pennsylvania|75|f
 Allendorf|51.030|8.672|DE|Hesse|75
 Allariz|42.190|-7.802|ES|Galicia|75
 Allegan|42.529|-85.855|US|Michigan|74
 Allmersbach im Tal|48.907|9.468|DE|Baden-Wurttemberg|74
 Allahou-Bazi|7.035|-5.533|CI|Sassandra-Marahoue|74
 Allershausen|48.433|11.600|DE|Bavaria|74
+Ally Pally|51.594|-0.130|GB|England|73|f
 Allmendingen|48.331|9.724|DE|Baden-Wurttemberg|73
 Alliste|39.948|18.090|IT|Apulia|73
 Allston/Brighton|42.356|-71.142|US|Massachusetts|72
 Allendorf an der Lahn|50.551|8.620|DE|Hesse|72
+Al Lulu Island|24.499|54.344|AE|Abu Dhabi|72|f
+Allahabad Airport|25.440|81.734|IN|Uttar Pradesh|72|f
 Allendorf an der Lumda|50.677|8.821|DE|Hesse|72
 Allakro|5.294|-2.891|CI|Comoé District|72
 Allevard|45.394|6.075|FR|Auvergne-Rhône-Alpes|72
@@ -66,10 +78,12 @@ Allendale|33.008|-81.308|US|South Carolina|70
 Alluminankro|6.390|-5.073|CI|Lacs District|69
 Allonnes|47.293|0.023|FR|Pays de la Loire|69
 Allandale A|-24.710|31.276|ZA|Limpopo|69
+Alliance Bank Stadium|43.079|-76.165|US|New York|69|f
 All Saints|17.067|-61.793|AG|Saint Peter Parish|68
 Al Lusaylī|24.931|55.475|AE|Dubai|68
 Al Lubban ash Sharqīyah|32.070|35.240|PS|West Bank|68
 Allakro|6.329|-4.548|CI|Comoé District|67
+Allahüekber Dağları|40.569|42.531|TR||67|f
 Allex|44.768|4.898|FR|Auvergne-Rhône-Alpes|67
 Allangigan Primero|17.174|120.492|PH|Ilocos|67
 Alleins|43.704|5.162|FR|Provence-Alpes-Côte d'Azur|67
@@ -77,6 +91,7 @@ Allendorf|50.749|8.184|DE|Hesse|66
 Allokoa|5.397|-4.149|CI|Abidjan Autonomous District|66
 Allyn|47.386|-122.828|US|Washington|66
 Allangouassou|7.509|-4.582|CI|Lacs District|66
+Al Lisān|31.268|35.459|JO|Karak|65|f
 Allingåbro|56.464|10.320|DK|Central Jutland|65
 Allentown|40.178|-74.583|US|New Jersey|65
 Allende|27.192|-109.908|MX|Sonora|65
@@ -90,6 +105,8 @@ Allan|44.497|4.791|FR|Auvergne-Rhône-Alpes|64
 Allendale|38.445|-121.943|US|California|64
 Allansford|-38.386|142.594|AU|Victoria|63
 Alland|48.058|16.079|AT|Lower Austria|63
+Allgau Alps|47.400|10.250|AT||63|f
+Alligator Island|1.290|103.842|SG||63|f
 Al Lubban al Gharbī|32.035|35.039|PS|West Bank|63
 Allinge|55.276|14.802|DK|Capital Region|63
 Alloway|39.561|-75.362|US|New Jersey|63
@@ -106,6 +123,13 @@ Allanton|55.799|-3.835|GB|Scotland|61
 Allouville-Bellefosse|49.597|0.677|FR|Normandy|61
 Alleghenyville|40.234|-75.989|US|Pennsylvania|61
 Allanche|45.229|2.934|FR|Auvergne-Rhône-Alpes|61
+Al Lisht|29.575|31.226|EG|Giza|61|f
+All Saints Lake|-41.100|-72.250|CL|Los Lagos Region|61|f
+Allen C Perkinson Municipal Airport|37.075|-77.963|US|Virginia|61|f
+Allen Mountain|44.071|-73.940|US|New York|61|f
+Allen Mountain|48.758|-113.658|US|Montana|61|f
+Allendale County Airport|32.993|-81.271|US|South Carolina|61|f
+Allington Castle|51.293|0.511|GB|England|61|f
 Allon HaGalil|32.758|35.221|IL|Northern District|61
 Allo|42.567|-2.021|ES|Navarre|61
 Allambres|40.703|19.802|AL|Berat County|61
@@ -113,15 +137,145 @@ Allègre|45.200|3.712|FR|Auvergne-Rhône-Alpes|61
 Allende|19.539|-97.597|MX|Puebla|61
 Allison|42.753|-92.795|US|Iowa|60
 Allhartsberg|48.026|14.790|AT|Lower Austria|60
+Allone Abba|32.729|35.171|IL|Northern District|60
 Allerheiligen bei Wildon|46.914|15.554|AT|Styria|60
+Allen|34.879|-96.413|US|Oklahoma|59
+Allenwood|40.142|-74.100|US|New Jersey|59
+Allogny|47.225|2.320|FR|Centre-Val de Loire|59
+Alle|49.841|4.970|BE|Wallonia|59
+Allentown|30.763|-87.042|US|Florida|59
+Allerheiligen|48.466|13.441|AT|Upper Austria|59
+Allende|18.384|-88.555|MX|Quintana Roo|59
+Allenwood Cross Roads|53.284|-6.862|IE|Leinster|59
+Alligny-Cosne|47.454|3.060|FR|Bourgogne-Franche-Comté|58
+Allmannshofen|48.613|10.809|DE|Bavaria|58
+Allemond|45.129|6.037|FR|Auvergne-Rhône-Alpes|58
+Allende|24.156|-98.414|MX|Tamaulipas|58
+Allériot|46.814|4.946|FR|Bourgogne-Franche-Comté|58
+Allenton|43.421|-88.341|US|Wisconsin|58
+Allah Valley Airport|6.367|124.753|PH|Soccsksargen|58|f
+Allamuchy Mountain|40.936|-74.773|US|New Jersey|58|f
+Allen Army Air Field|63.994|-145.720|US|Alaska|58|f
+Allen Island|43.867|-69.314|US|Maine|58|f
+Allen Parish Airport|30.751|-92.689|US|Louisiana|58|f
+Allentown Queen City Municipal Airport|40.574|-75.488|US|Pennsylvania|58|f
+Alligator|14.183|121.206|PH|Calabarzon|58|f
+Allo, Mount|-63.974|-61.802|AQ||58|f
+Allerbüttel|52.421|10.639|DE|Lower Saxony|58
+Allouis|47.165|2.228|FR|Centre-Val de Loire|58
+Alligator Creek|-21.333|149.200|AU|Queensland|58
+Allery|49.964|1.898|FR|Hauts-de-France|58
+Alliance|35.145|-76.802|US|North Carolina|57
+Allerum|56.120|12.694|SE|Skåne|57
+Allègre-les-Fumades|44.200|4.245|FR|Occitanie|57
+Alluyes|48.230|1.362|FR|Centre-Val de Loire|57
+Allenbach|49.754|7.167|DE|Rheinland-Pfalz|57
 Allhaming|48.152|14.170|AT|Upper Austria|57
+Allendale Town|54.897|-2.257|GB|England|57
+Allende|16.132|-92.009|MX|Chiapas|57
+Allrode|51.679|10.968|DE|Saxony-Anhalt|57
+Allendorf|50.268|7.999|DE|Rheinland-Pfalz|57
 Alloza|40.969|-0.529|ES|Aragon|57
+Allos|44.241|6.629|FR|Provence-Alpes-Côte d'Azur|57
+Allonne|46.582|-0.383|FR|New Aquitaine|57
+Allenhurst|31.784|-81.608|US|Georgia|56
+Allende 1ra. Sección|17.720|-93.349|MX|Chiapas|56
+Allende Esquipulas|17.067|-92.954|MX|Chiapas|56
 Alleghe|46.407|12.023|IT|Veneto|56
+Alligny-en-Morvan|47.200|4.177|FR|Bourgogne-Franche-Comté|56
+Allenjoie|47.535|6.897|FR|Bourgogne-Franche-Comté|56
+Allenport|40.374|-77.870|US|Pennsylvania|56
+Allardt|36.381|-84.884|US|Tennessee|56
+Allgood|33.912|-86.509|US|Alabama|56
+Allison|39.989|-79.865|US|Pennsylvania|56
+Allez-et-Cazeneuve|44.400|0.617|FR|New Aquitaine|56
+Allerey-sur-Saône|46.905|4.983|FR|Bourgogne-Franche-Comté|56
+Allahin|5.632|-4.196|CI|Lagunes District|56
+Allanson|-33.336|116.099|AU|Western Australia|55
+Allington|52.953|-0.726|GB|England|55
+Allonville|49.940|2.363|FR|Hauts-de-France|55
+Allemans|45.288|0.309|FR|New Aquitaine|55
+Allékran|6.922|-5.605|CI|Sassandra-Marahoue|55
+Allāh Verdī Kandī|38.842|45.092|IR|West Azerbaijan|55
+Allekro|5.360|-3.206|CI|Comoé District|55
+Allamps|48.547|5.809|FR|Grand Est|54
+Allenspark|40.194|-105.526|US|Colorado|54
+Allenport|40.098|-79.849|US|Pennsylvania|54
+Allondrelle|49.512|5.562|FR|Grand Est|54
+Allakaket Airport|66.550|-152.631|US|Alaska|54|f
+Allan Island|48.464|-122.704|US|Washington|54|f
+Allardyce Range|-54.417|-36.551|GS||54|f
+Alldays Airport|-22.679|29.055|ZA|Limpopo|54|f
+Ålleberg|58.133|13.600|SE|Västra Götaland|54|f
+Allegheny River Lock and Dam Two|40.488|-79.915|US|Pennsylvania|54|f
+Allegheny Wildlife Management Area|39.396|-79.069|US|West Virginia|54|f
+Allen County Airport|37.874|-95.383|US|Kansas|54|f
+Allen David Broussard Catfish Creek Preserve State Park|28.016|-81.440|US|Florida|54|f
+Allens Bay|47.432|-94.610|US|Minnesota|54|f
+Alluri Sitarama Raju International Airport|17.973|83.506|IN|Andhra Pradesh|54|f
+Allineuc|48.312|-2.873|FR|Brittany|54
+Allonim|32.721|35.144|IL|Northern District|54
+Alloue|46.028|0.515|FR|New Aquitaine|54
+Allensville|40.536|-77.817|US|Pennsylvania|54
+Alleshausen|48.104|9.622|DE|Baden-Wurttemberg|54
+Allendorf|50.655|11.158|DE|Thuringia|52
 Allerona|42.812|11.975|IT|Umbria|52
 Allerheiligen im Mühlkreis|48.302|14.651|AT|Upper Austria|51
 Allai|39.957|8.864|IT|Sardinia|51
+Allmannsweiler|48.029|9.594|DE|Baden-Wurttemberg|50
+All Black Peak|-71.800|163.950|AQ||49|f
+Allan Thomson, Mount|-76.950|161.717|AQ||49|f
+Allegheny Mountains|-77.333|-143.000|AQ||49|f
+Allemand Peak|-78.400|158.600|AQ||49|f
+Allemanskraaldam|-28.294|27.206|ZA|Free State|49|f
+Allen Bay|-54.183|-36.533|GS||49|f
+Allen Island|-17.031|139.230|AU|Queensland|49|f
+Allen Peak|-77.567|-86.850|AQ||49|f
+Allen Williamson Bridge|36.028|-96.908|US|Oklahoma|49|f
+Allen, Mount|-78.717|-84.933|AQ||49|f
+Allersee|52.434|10.820|DE|Lower Saxony|49|f
+Alley Glacier|-79.967|158.083|AQ||49|f
+Alligator Peak|-78.467|158.717|AQ||49|f
+Alligator Ridge|-78.467|158.767|AQ||49|f
+Allincapac|-13.910|-70.408|PE|Puno|49|f
+Allison Glacier|-78.267|161.917|AQ||49|f
+Allison Peninsula|-73.167|-85.833|AQ||49|f
+Allison Ridge|-70.763|66.287|AQ||49|f
+Allonby Bay|54.767|-3.450|GB|England|49|f
+Allports Island|-41.236|174.057|NZ||49|f
+Allsup, Mount|-84.017|159.600|AQ||49|f
 Allerheiligen im Mürztal|47.482|15.404|AT|Styria|49
+Allenfeld|49.867|7.667|DE|Rheinland-Pfalz|46
 Allepuz|40.493|-0.725|ES|Aragon|44
+All Seasons Arena|44.151|-93.988|US|Minnesota|40|f
+Allagash Lake|46.320|-69.528|US|Maine|40|f
+Allaire State Park|40.157|-74.132|US|New Jersey|40|f
+Allalingletscher|46.034|7.910|CH|Valais|40|f
+Allan Gardens|43.662|-79.372|CA|Ontario|40|f
+Allegheny Aqueduct|40.288|-75.876|US|Pennsylvania|40|f
+Allegheny National Fish Hatchery|41.843|-79.006|US|Pennsylvania|40|f
+Allen Field|38.193|-83.426|US|Kentucky|40|f
+Allen Island|45.283|-80.266|CA|Ontario|40|f
+Allen Lake|47.184|-95.184|US|Minnesota|40|f
+Allen Lake|42.830|-74.952|US|New York|40|f
+Allen Pond|42.564|-75.306|US|New York|40|f
+Allen Pond Park|38.935|-76.736|US|Maryland|40|f
+Allen Rock|41.422|-70.494|US|Massachusetts|40|f
+Allen's Airstrip|42.402|-121.049|US|Oregon|40|f
+Alliford Bay|53.206|-132.000|CA|British Columbia|40|f
+Alligator Island|63.445|-68.014|CA|Nunavut|40|f
+Alligator Lake|47.429|-81.864|CA|Ontario|40|f
+Alligator Lake|60.385|-135.354|CA|Yukon|40|f
+Alligator River National Wildlife Refuge|35.769|-75.871|US|North Carolina|40|f
+Allison Island|25.847|-80.124|US|Florida|40|f
+Allison Islands|-66.350|110.483|AQ||40|f
+Allison Lake Park|49.683|-120.602|CA|British Columbia|40|f
+Allison Peak|49.750|-114.652|CA|Alberta|40|f
+Allman Bay|79.502|-73.829|CA|Nunavut|40|f
+Allmendhubel|46.564|7.888|CH|Bern|40|f
+Allowitz Peak|-71.133|167.650|AQ||40|f
+Alluitz|43.100|-2.617|ES|Basque Country|40|f
+Allumette Lake|45.892|-77.223|CA|Ontario|40|f
 Allein|45.807|7.273|IT|Aosta Valley|36
 Allueva|40.985|-1.043|ES|Aragon|22
 ‘Allān|32.118|35.744|JO|Balqa|0

@@ -2,16 +2,21 @@ Wrocław|51.103|17.030|PL|Lower Silesia|117
 Wrexham|53.047|-2.991|GB|Wales|96
 Wrzeszcz|54.376|18.608|PL|Pomerania|96
 Września|52.325|17.565|PL|Greater Poland|89
+Wrangell Mountains|61.800|-143.500|US|Alaska|89|f
 Wright|30.456|-86.638|US|Florida|87
 Wrzeszcz Dolny|54.385|18.613|PL|Pomerania|87
 Wrzeszcz Górny|54.380|18.595|PL|Pomerania|86
+Wrangel Island|71.244|-179.385|RU|Chukotka|83|f
 Wronki|52.711|16.380|PL|Greater Poland|81
 Wrentham|42.067|-71.328|US|Massachusetts|81
 Wriezen|52.721|14.134|DE|Brandenburg|78
+Wrigley Field|41.948|-87.655|US|Illinois|78|f
+Wrangell Airport|56.484|-132.370|US|Alaska|77|f
 Wroughton|51.524|-1.796|GB|England|76
 Wrightsboro|34.288|-77.921|US|North Carolina|74
 Writtle|51.729|0.429|GB|England|74
 Wright|11.770|125.022|PH|Eastern Visayas|73
+Wrigley Airport|63.209|-123.437|CA|Northwest Territories|73|f
 Wrightwood|34.361|-117.633|US|California|73
 Wrightsville|32.729|-82.720|US|Georgia|71
 Wright City|38.828|-91.020|US|Missouri|71
@@ -24,6 +29,7 @@ Wrist|53.932|9.753|DE|Schleswig-Holstein|68
 Wrangell|56.471|-132.377|US|Alaska|68
 Wray|40.076|-102.223|US|Colorado|68
 Wrightsville|40.026|-76.530|US|Pennsylvania|67
+Wright Island|-35.583|138.609|AU|South Australia|67|f
 Wrightsville|34.602|-92.217|US|Arkansas|67
 Wrens|33.208|-82.392|US|Georgia|66
 Wremen|53.650|8.517|DE|Lower Saxony|66
@@ -32,9 +38,133 @@ Wrotham|51.309|0.309|GB|England|66
 Wrington|51.362|-2.763|GB|England|66
 Wrząsowice|49.959|19.947|PL|Lesser Poland|65
 Wright|43.751|-105.492|US|Wyoming|65
+Wrocław–Copernicus Airport|51.103|16.886|PL|Lower Silesia|65|f
 Wright-Patterson AFB|39.811|-84.057|US|Ohio|65
 Wragby|53.283|-0.300|GB|England|65
 Wroxall|50.616|-1.223|GB|England|65
 Wrawby|53.567|-0.462|GB|England|63
 Wrea Green|53.777|-2.916|GB|England|63
+Wright Brothers National Memorial|36.016|-75.670|US|North Carolina|61|f
+Wright Rock|-39.593|147.539|AU|Tasmania|61|f
+Wright-Patterson Air Force Base|39.822|-84.037|US|Ohio|61|f
+Wrights Bridge|43.359|-72.259|US|New Hampshire|61|f
+Wrangle|53.039|0.130|GB|England|59
+Wrentham|52.384|1.667|GB|England|58
+Wrangell Island|56.297|-132.175|US|Alaska|58|f
+Wright Peninsula|-67.463|-68.173|AQ||58|f
+Wrightstown|40.036|-74.618|US|New Jersey|58
+Wright City|34.060|-95.003|US|Oklahoma|57
+Wrohm|54.213|9.382|DE|Schleswig-Holstein|57
+Wróblowice|49.877|20.855|PL|Lesser Poland|57
+Wrixum|54.700|8.549|DE|Schleswig-Holstein|57
+Wróblew|51.145|18.406|PL|Łódź Voivodeship|56
+Wrestlingworth|52.110|-0.163|GB|England|55
+Wróblowa|49.790|21.399|PL|Subcarpathia|55
+Wróblówka|49.454|19.889|PL|Lesser Poland|55
+Wrzoski|50.685|17.822|PL|Opole Voivodeship|55
+Wredenhagen|53.290|12.517|DE|Mecklenburg-Vorpommern|55
+Wreck Island|-23.333|151.958|AU|Queensland|54|f
+Wreck Pond|40.141|-74.035|US|New Jersey|54|f
+Wreck Reefs|-22.217|155.283|||54|f
+Wright Mountain|47.480|-121.468|US|Washington|54|f
+Wright Patman Dam|33.307|-94.160|US|Texas|54|f
+Wright Peak|44.152|-73.980|US|New York|54|f
+Wright Upper Glacier|-77.533|160.583|AQ||54|f
+Wrightsville Dam|44.311|-72.575|US|Vermont|54|f
+WRYT|42.435|-70.993|US|Massachusetts|54|f
 Wróblew|51.612|18.615|PL|Łódź Voivodeship|51
+Wrenn Peak|-77.467|161.983|AQ||49|f
+Wright Island|-74.050|-116.750|AQ||49|f
+Wright Lower Glacier|-77.417|163.000|AQ||49|f
+Wright Spires|-69.495|-68.521|AQ||49|f
+W R Byron Airport|33.679|-114.642|US|California|40|f
+WRAA-AM (Luray)|38.660|-78.491|US|Virginia|40|f
+WRAB-AM (Arab)|34.335|-86.469|US|Alabama|40|f
+WRAL-FM (Raleigh)|35.677|-78.536|US|North Carolina|40|f
+WRAL-TV (Raleigh)|35.677|-78.536|US|North Carolina|40|f
+Wrangel Palace|59.325|18.063|SE|Stockholm|40|f
+Wrangell-Saint Elias National Preserve|61.929|-142.840|US|Alaska|40|f
+Wrangler Lake|44.683|-110.436|US|Wyoming|40|f
+WRAP-AM (Norfolk)|36.861|-76.353|US|Virginia|40|f
+WRAS-FM (Atlanta)|33.685|-84.290|US|Georgia|40|f
+WRAW-AM (Reading)|40.324|-75.919|US|Pennsylvania|40|f
+WRBB-FM (Boston)|42.339|-71.091|US|Massachusetts|40|f
+WRBI-FM (Batesville)|39.223|-85.258|US|Indiana|40|f
+WRBL-TV (Columbus)|32.324|-84.779|US|Georgia|40|f
+WRBW-TV (Orlando)|28.581|-81.075|US|Florida|40|f
+WRC-TV (Washington)|38.940|-77.081|US|District of Columbia|40|f
+WRCB-TV (Chattanooga)|35.161|-85.315|US|Tennessee|40|f
+WRCN-FM (Riverhead)|40.852|-72.765|US|New York|40|f
+WRCS-AM (Ahoskie)|36.280|-77.033|US|North Carolina|40|f
+WRCT-FM (Pittsburgh)|40.444|-79.943|US|Pennsylvania|40|f
+WREC-AM (Memphis)|35.198|-90.009|US|Tennessee|40|f
+Wreck Cove Flowage|46.558|-60.507|CA|Nova Scotia|40|f
+Wrede Range|56.795|-126.190|CA|British Columbia|40|f
+WREG-TV (Memphis)|35.181|-89.832|US|Tennessee|40|f
+WREK-FM (Atlanta)|33.778|-84.406|US|Georgia|40|f
+WREO-FM (Ashtabula)|41.816|-80.781|US|Ohio|40|f
+Wressle Castle|53.775|-0.929|GB|England|40|f
+WREX-TV (Rockford)|42.297|-89.240|US|Illinois|40|f
+WRFY-FM (Reading)|40.320|-75.894|US|Pennsylvania|40|f
+WRGA-AM (Rome)|34.301|-85.155|US|Georgia|40|f
+WRGB-TV (Schenectady)|42.637|-73.995|US|New York|40|f
+WRGC-AM (Sylva)|35.393|-83.194|US|North Carolina|40|f
+WRGM-AM (Ontario)|40.768|-82.618|US|Ohio|40|f
+WRGT-TV (Dayton)|39.724|-84.255|US|Ohio|40|f
+WRHU-FM (Hempstead)|40.718|-73.603|US|New York|40|f
+WRIC-FM (Richlands)|37.151|-81.899|US|Virginia|40|f
+WRIC-TV (Petersburg)|37.513|-77.601|US|Virginia|40|f
+WRIF-FM (Detroit)|42.471|-83.250|US|Michigan|40|f
+WRIG-AM (Schofield)|44.878|-89.642|US|Wisconsin|40|f
+Wright Memorial Bridge|36.088|-75.767|US|North Carolina|40|f
+Wright Peak|-73.667|-94.533|AQ||40|f
+Wright Point|-66.400|110.500|AQ||40|f
+Wrights Lake|38.849|-120.233|US|California|40|f
+Wrightsville Reservoir|44.323|-72.573|US|Vermont|40|f
+WRIN-AM (Rensselaer)|40.961|-87.152|US|Indiana|40|f
+WRIS-AM (Roanoke)|37.280|-79.991|US|Virginia|40|f
+Writing-On-Stone Provincial Park|49.083|-111.635|CA|Alberta|40|f
+WRIU-FM (Kingston)|41.486|-71.526|US|Rhode Island|40|f
+WRJB-FM (Camden)|36.057|-88.103|US|Tennessee|40|f
+WRJZ-AM (Knoxville)|35.990|-83.837|US|Tennessee|40|f
+WRKB-AM (Kannapolis)|35.487|-80.605|US|North Carolina|40|f
+WRKO-AM (Boston)|42.490|-71.218|US|Massachusetts|40|f
+WRLS-FM (Hayward)|46.021|-91.512|US|Wisconsin|40|f
+WRLZ - AM (Eatonville)|28.568|-81.429|US|Florida|40|f
+WRMG-AM (Red Bay)|34.414|-88.136|US|Alabama|40|f
+WRMM-FM (Rochester)|43.171|-77.673|US|New York|40|f
+WRNA-AM (China Grove)|35.572|-80.589|US|North Carolina|40|f
+WRNL-AM (Richmond)|37.614|-77.514|US|Virginia|40|f
+WRNS-FM (Kinston)|35.283|-77.650|US|North Carolina|40|f
+WROC-TV (Rochester)|43.135|-77.584|US|New York|40|f
+WROD-AM (Daytona Beach)|29.189|-81.008|US|Florida|40|f
+Wrotham Transmitting Station|51.321|0.288|GB|England|40|f
+WROV-FM (Martinsville)|37.117|-80.016|US|Virginia|40|f
+WRPI-FM (Troy)|42.687|-73.706|US|New York|40|f
+WRPN-FM (Ripon)|43.844|-88.842|US|Wisconsin|40|f
+WRPS-FM (Rockland)|42.129|-70.916|US|Massachusetts|40|f
+WRRC-FM (Lawrenceville)|40.279|-74.737|US|New Jersey|40|f
+WRRE-AM (Juncos)|18.213|-65.909|PR|Juncos|40|f
+WRSA-FM (Decatur)|34.489|-86.619|US|Alabama|40|f
+WRSE-FM (Elmhurst)|41.896|-87.946|US|Illinois|40|f
+WRSH-FM (Rockingham)|34.951|-79.715|US|North Carolina|40|f
+WRSM-AM (Sumiton)|33.764|-87.063|US|Alabama|40|f
+WRSP-TV (Springfield)|39.799|-89.446|US|Illinois|40|f
+WRSS-AM (San Sebastian)|18.319|-66.979|PR|San Sebastián|40|f
+WRTU-FM (San Juan)|18.265|-66.084|PR|Guaynabo|40|f
+WRUF-FM (Gainesville)|29.710|-82.394|US|Florida|40|f
+WRUV-FM (Burlington)|44.477|-73.199|US|Vermont|40|f
+WRVK-AM (Mount Vernon)|37.385|-84.329|US|Kentucky|40|f
+WRVL-FM (Lynchburg)|37.197|-79.352|US|Virginia|40|f
+WRVO-FM (Oswego)|43.421|-76.544|US|New York|40|f
+WRVQ-FM (Richmond)|37.404|-77.316|US|Virginia|40|f
+WRXB-AM (Saint Petersburg Beach)|27.734|-82.685|US|Florida|40|f
+WRXC-FM (Shelton)|41.362|-73.113|US|Connecticut|40|f
+WRXL-FM (Richmond)|37.615|-77.513|US|Virginia|40|f
+WRXO-AM (Roxboro)|36.368|-78.999|US|North Carolina|40|f
+WRXY-TV (Tice)|26.786|-81.795|US|Florida|40|f
+Wringinagung|-8.208|113.391|ID|East Java|0
+Wringinanom Satu|-8.489|114.288|ID|East Java|0
+Wringinputih|-8.476|114.334|ID|East Java|0
+Wringinsari|-8.125|113.202|ID|East Java|0
+Wringintelu|-8.287|113.478|ID|East Java|0

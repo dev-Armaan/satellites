@@ -15,6 +15,7 @@ Jardinópolis|-21.018|-47.764|BR|São Paulo|93
 Jaraguá|-15.757|-49.334|BR|Goiás|93
 Jarinu|-23.101|-46.728|BR|São Paulo|91
 Jarosław|50.016|22.678|PL|Subcarpathia|91
+Jardin du Luxembourg|48.847|2.333|FR|Île-de-France|90|f
 Jāridih|23.766|85.939|IN|Jharkhand|90
 Jarabacoa|19.117|-70.636|DO|La Vega|90
 Jarrow|54.980|-1.484|GB|England|89
@@ -27,8 +28,9 @@ Jardim|-21.480|-56.138|BR|Mato Grosso do Sul|88
 Jaral del Progreso|20.372|-101.064|MX|Guanajuato|86
 Jarājūs|25.872|32.756|EG|Qena|86
 Jaruco|23.044|-82.009|CU|Mayabeque|86
+Järvamaa|58.917|25.667|EE||86|r
+Jardines del Rey Airport|22.461|-78.327|CU|Ciego de Ávila Province|86|f
 Jarwal|27.163|81.542|IN|Uttar Pradesh|85
-Järvamaa|58.917|25.667|EE||84|r
 Jardine's Lookout|22.269|114.193|HK|Wan Chai|83
 Jardim de Piranhas|-6.379|-37.352|BR|Rio Grande do Norte|83
 Jaroměř|50.356|15.921|CZ|Hradec Králové Region|82
@@ -47,11 +49,13 @@ Jardas al ‘Abīd|32.303|20.986|LY|Al Marj|77
 Jaraíz de la Vera|40.060|-5.754|ES|Extremadura|76
 Järna|59.092|17.566|SE|Stockholm|76
 Jarikaba|5.808|-55.327|SR|Saramacca District|76
+Jardines de la Reina|20.868|-78.973|CU||75|f
 Jarjapupeta|18.181|83.440|IN|Andhra Pradesh|75
 Jargalant|46.927|91.088|MN|Bayan-Ölgii Province|74
 Jaramataia|-9.659|-37.002|BR|Alagoas|74
 Jaren|60.393|10.562|NO|Innlandet|74
 Järvenperä|60.242|24.714|FI|Uusimaa|73
+Jarbidge Mountains|41.848|-115.401|US|Nevada|73|f
 Jarnac|45.682|-0.173|FR|New Aquitaine|73
 Jarplund-Weding|54.737|9.418|DE|Schleswig-Holstein|73
 Jargeau|47.863|2.126|FR|Centre-Val de Loire|73
@@ -63,6 +67,8 @@ Jardines de San Sebastián|20.519|-103.422|MX|Jalisco|71
 Jargalant|49.057|104.402|MN|Orhon|71
 Jari|-29.291|-54.224|BR|Rio Grande do Sul|70
 Jarmen|53.924|13.340|DE|Mecklenburg-Vorpommern|70
+Jarfjorden|69.768|30.416|NO|Finnmark|70|f
+Jarvis Island|-0.372|-159.997|UM|Jarvis Island|70|f
 Jarovce|48.065|17.113|SK|Bratislava Region|70
 Jarandilla de la Vera|40.129|-5.661|ES|Extremadura|70
 Jar|27.736|80.597|IN|Uttar Pradesh|70
@@ -92,6 +98,7 @@ Jarebice|44.540|19.424|RS|Central Serbia|64
 Jaresqān|29.511|52.546|IR|Fars|64
 Järpen|63.346|13.466|SE|Jämtland|64
 Järvakandi|58.779|24.826|EE|Raplamaa|63
+Jargalant Hayrhan|47.667|92.500|MN|Hovd|63|f
 Jarzé|47.555|-0.233|FR|Pays de la Loire|63
 Jaraczewo|51.969|17.297|PL|Greater Poland|63
 Jardim Olinda|-22.550|-52.036|BR|Paraná|63
@@ -100,19 +107,77 @@ Jarocin|50.565|22.321|PL|Subcarpathia|62
 Jaroslavice|48.757|16.234|CZ|South Moravian|62
 Jaroměřice|49.626|16.752|CZ|Pardubice Region|61
 Jarrell|30.825|-97.604|US|Texas|61
+Jardim Lou Lim Ioc|22.201|113.548|MO||61|f
+Järflotta|58.841|17.915|SE|Stockholm|61|f
 Jarošov nad Nežárkou|49.190|15.067|CZ|South Bohemian Region|61
 Järva-Jaani|59.039|25.886|EE|Järvamaa|60
 Jarillas|22.296|-102.063|MX|Aguascalientes|60
 Jarvis|42.886|-80.112|CA|Ontario|60
+Jardres|46.569|0.565|FR|New Aquitaine|60
+Jardines|14.700|-87.983|HN|Comayagua Department|60
+Jarcieu|45.334|4.944|FR|Auvergne-Rhône-Alpes|59
 Jarczów|50.424|23.586|PL|Lublin|59
 Jarafuel|39.140|-1.073|ES|Valencia|59
+Jargulica|41.588|22.562|MK|Radovish|58
+Jarbidge Peak|41.840|-115.392|US|Nevada|58|f
+Järpås|58.383|12.967|SE|Västra Götaland|58
+Jarrol|13.244|-15.845|GM|Western|58
+Jarnac-Champagne|45.559|-0.400|FR|New Aquitaine|58
+Jārū|35.695|50.536|IR|Alborz Province|58
+Jaralillo|20.666|-100.977|MX|Guanajuato|58
+Jarcová|49.445|17.966|CZ|Zlín|57
+Jaral del Refugio|20.115|-100.723|MX|Guanajuato|57
+Jareros|19.446|-96.474|MX|Veracruz|57
+Jarillas|22.549|-102.202|MX|Zacatecas|57
+Järve|59.406|27.311|EE|Ida-Virumaa|57
 Jaraicejo|39.666|-5.813|ES|Extremadura|56
+Jarratt|36.814|-77.468|US|Virginia|56
+Jardoeira|39.666|-8.832|PT|Leiria|56
+Jardín del Nuevo Edén|16.592|-92.514|MX|Chiapas|56
+Jardín Viejo|20.912|-97.652|MX|Veracruz|56
+Jardines de Azucenas (La Floresta)|20.633|-100.482|MX|Querétaro|56
+Jarchau|52.655|11.896|DE|Saxony-Anhalt|55
+Jarnioux|45.965|4.627|FR|Auvergne-Rhône-Alpes|55
+Jaritzberg|47.078|15.262|AT|Styria|55
 Jarque|41.556|-1.676|ES|Aragon|55
+Jaripo|18.334|-100.748|MX|Guerrero|55
+Jaruge|45.116|18.420|HR|Brod-Posavina|55
+Jarnages|46.182|2.084|FR|New Aquitaine|54
+Jarosławiec|50.908|23.700|PL|Lublin|54
+Jara|4.033|39.917|ET|Oromiya|54|f
+Jardin des Plantes|48.843|2.361|FR|Île-de-France|54|f
+Jardine Islet|-11.400|142.967|AU|Queensland|54|f
+Järlasjön|59.300|18.150|SE|Stockholm|54|f
+Jarry Park|45.535|-73.626|CA|Quebec|54|f
+Järlåsa|59.883|17.200|SE|Uppsala|54
+Jars|47.396|2.682|FR|Centre-Val de Loire|54
+Järnforsen|57.417|15.617|SE|Kalmar|54
+Jaripito (Jaripitio)|19.564|-100.394|MX|Michoacán|54
+Jardelund|54.833|9.200|DE|Schleswig-Holstein|51
 Jaraba|41.191|-1.884|ES|Aragon|50
+Jardin du Palais-Royal|48.865|2.338|FR|Île-de-France|49|f
+Jardine Peak|-62.167|-58.498|AQ||49|f
+Jarut|43.084|20.226|RS||49|f
+Jara Lake|-13.820|-63.561|BO|Beni Department|40|f
+Jarbidge Lake|41.774|-115.372|US|Nevada|40|f
+Jardín Botánico Viera y Clavijo|28.066|-15.460|ES|Canary Islands|40|f
+Jardin d'essai du Hamma|36.748|3.076|DZ|Algiers|40|f
+Jardín de Cactus|29.080|-13.476|ES|Canary Islands|40|f
+Jardin de l'État|-20.886|55.451|RE|Reunion|40|f
+Jardin des Plantes|47.220|-1.543|FR|Pays de la Loire|40|f
+Jardin Royal|43.596|1.451|FR|Occitanie|40|f
+Jardines de Sabatini|40.418|-3.718|ES|Madrid|40|f
+Jari Ecological Station|-0.495|-52.966|BR|Pará|40|f
+Jarrell Cove State Park|47.283|-122.883|US|Washington|40|f
+Jarvis Bay Provincial Park|52.350|-114.085|CA|Alberta|40|f
+Jarvis Lake|42.069|-86.237|US|Michigan|40|f
 Jarque de la Val|40.703|-0.801|ES|Aragon|39
 Jaramillo de la Fuente|42.115|-3.312|ES|Castille and León|34
 Jaramillo Quemado|42.086|-3.359|ES|Castille and León|24
+Jarada|-10.522|121.941|ID|East Nusa Tenggara|0
+Jarakan|-8.060|111.852|ID|East Java|0
 Jaramillo Arriba|8.786|-82.423|PA|Chiriquí Province|0
+Jarangan|-8.108|112.446|ID|East Java|0
 Jardin|-13.162|-74.213|PE|Ayacucho|0
 Jargalant|49.307|95.448|MN|Uvs Province|0
 Jargalant|47.150|99.633|MN|Bayankhongor|0
@@ -125,5 +190,6 @@ Jargalant|47.533|100.217|MN|Arkhangai Province|0
 Jargalant|49.129|104.408|MN|Orhon|0
 Jarilla|40.172|-6.003|ES|Extremadura|0
 Jarpa|-12.126|-75.436|PE|Junin|0
+Jarurejo|-6.900|111.885|ID|East Java|0
 Järvelä|60.867|25.283|FI|Paijat-Hame|0
 Jarvis Island|-0.372|-159.997|UM||0|r

@@ -36,6 +36,7 @@ San Pedro|17.916|-87.966|BZ|Belize District|85
 San Pietro a Patierno|40.886|14.290|IT|Campania|85
 San Pedro Carchá|15.477|-90.311|GT|Alta Verapaz|84
 San Pedro de Lloc|-7.429|-79.504|PE|La Libertad|84
+San Pédro Airport|4.747|-6.661|CI|Bas-Sassandra District|84|f
 San Pablo Oztotepec|19.187|-99.074|MX|Mexico City|84
 Sânpetru|45.711|25.637|RO|Brașov County|84
 San Pedro Sacatepéquez|14.686|-90.643|GT|Guatemala|83
@@ -57,6 +58,7 @@ San Pedro de Atacama|-22.911|-68.201|CL|Antofagasta|81
 San Pedro Zacapa|14.757|-88.114|HN|Santa Bárbara Department|80
 San Pancrazio Salentino|40.418|17.834|IT|Apulia|80
 San Pedro La Laguna|14.693|-91.272|GT|Sololá|80
+San Pablo Bay|38.067|-122.384|US|California|80|f
 San Pedro Cholula|19.264|-99.486|MX|México|79
 San Pedro|6.461|-75.558|CO|Antioquia|79
 San Pablo Huixtepec|16.822|-96.781|MX|Oaxaca|79
@@ -123,6 +125,7 @@ San Pedro Lagunillas|21.222|-104.751|MX|Nayarit|71
 San Pedro Tenango|20.507|-100.633|MX|Guanajuato|71
 San Pablo Tolimán|20.857|-99.900|MX|Querétaro|71
 San Pablo Etla|17.144|-96.748|MX|Oaxaca|71
+San Pedro Bay|33.733|-118.201|US|California|71|f
 San Patricio|15.098|120.729|PH|Central Luzon|71
 San Pedro|10.961|124.820|PH|Eastern Visayas|71
 San Pietro in Lama|40.307|18.128|IT|Apulia|71
@@ -192,6 +195,8 @@ San Pedro Tejalpa|19.256|-99.792|MX|México|66
 San Pedro Nichtalucum|17.034|-92.727|MX|Chiapas|65
 San Pierino|43.714|10.814|IT|Tuscany|65
 San Pablo Anicano|18.124|-98.085|MX|Puebla|65
+San Parteo|42.520|8.964|FR|Corsica|65|f
+San Pedro|35.929|14.491|MT|Saint Julian|65|f
 San Pedro Sochiápam|17.825|-96.664|MX|Oaxaca|65
 San Pedro Atmatla|19.911|-97.968|MX|Puebla|65
 San Pedro Tenayac|19.047|-100.177|MX|México|65
@@ -214,6 +219,9 @@ San Patricio|-26.976|-56.827|PY|Misiones Department|64
 San Pietro Belvedere|43.570|10.666|IT|Tuscany|64
 San Pablo Pixtún|19.134|-90.732|MX|Campeche|64
 San Paolo|46.472|11.260|IT|Trentino-Alto Adige|63
+San Pedro Verfrut Airport|-34.006|-71.392|CL|Santiago Metropolitan|63|f
+San Pietro Island|39.141|8.276|IT|Sardinia|63|f
+San Pitch Mountains|39.446|-111.704|US|Utah|63|f
 San Pedro Nuevo|27.021|-109.632|MX|Sonora|63
 San Pietro Apostolo|39.004|16.468|IT|Calabria|63
 San Pedro|16.272|-88.954|BZ|Toledo District|63
@@ -254,6 +262,7 @@ San Polo|44.979|9.741|IT|Emilia-Romagna|61
 San Potito Sannitico|41.337|14.392|IT|Campania|61
 San Pedro Coyutla|21.223|-98.430|MX|Veracruz|61
 San Pedro Denxhi Centro|20.250|-99.967|MX|México|61
+San Pedro Salvatierra Airport|-14.837|-65.703|BO|Beni Department|61|f
 San Pietro al Tanagro|40.455|15.487|IT|Campania|61
 Sânpetru de Câmpie|46.716|24.262|RO|Mureș County|61
 San Pablo Yaganiza|17.145|-96.230|MX|Oaxaca|61
@@ -267,31 +276,150 @@ San Pietro Mussolino|45.584|11.259|IT|Veneto|60
 San Prospero|44.776|10.401|IT|Emilia-Romagna|60
 San Pedro Tlaolantongo|20.231|-97.802|MX|Puebla|60
 San Pedro Tlapacoyan|20.058|-97.098|MX|Veracruz|60
+San Pedro Yutniotic|16.087|-91.387|MX|Chiapas|60
 San Pablo|-6.808|-76.573|PE|San Martín Department|60
+San Polo in Chianti|43.672|11.359|IT|Tuscany|60
+San Pedro|20.818|-104.062|MX|Jalisco|60
+San Pedro Chimaltepec|16.996|-95.660|MX|Oaxaca|60
+San Pedro Pedernal|16.663|-92.323|MX|Chiapas|59
+San Pedro Viejo|27.018|-109.623|MX|Sonora|59
+San Pedro Guegorexe|16.872|-96.673|MX|Oaxaca|59
+San Pablo|20.463|-97.191|MX|Veracruz|59
+San Pedro Teyuca|18.755|-98.450|MX|Puebla|59
+San Pablo Mitecatlán|20.707|-98.522|MX|Veracruz|59
+San Pietro|46.258|9.385|IT|Lombardy|59
 San Pedro de Coris|-12.579|-74.410|PE|Huancavelica|59
+San Pedro Chicozapotes|17.769|-96.958|MX|Oaxaca|59
 San Pedro Ocopetatillo|18.185|-96.913|MX|Oaxaca|59
+San Pietro|45.005|7.765|IT|Piedmont|59
+San Pedro de Ruíz|20.287|-102.571|MX|Jalisco|59
+San Pedro Hueyahualco|18.681|-99.978|MX|México|59
+San Patrizio|44.492|11.825|IT|Emilia-Romagna|59
+San Pedro del Monte (La Huizachera)|21.031|-101.715|MX|Guanajuato|59
+San Pedro Paredes|25.532|-108.440|MX|Sinaloa|59
+San Pedro Arriba 4ta. Sección (Cinco Reales)|19.487|-99.567|MX|México|59
 San Pietro di Cadore|46.572|12.587|IT|Veneto|59
+San Pietro|44.773|11.045|IT|Emilia-Romagna|59
+San Pancrazio|45.425|11.023|IT|Veneto|59
+San Pedro el Alto|17.150|-97.461|MX|Oaxaca|59
+San Pedro Yeloixtlahuacan|18.117|-98.077|MX|Puebla|59
+San Pedro Nextlalpan|20.152|-99.387|MX|Hidalgo|58
+San Pedro Huitzquilico|21.457|-99.012|MX|San Luis Potosí|58
+San Pedro Ocotlán|21.533|-103.308|MX|Zacatecas|58
 San Pedro Tidaá|17.340|-97.377|MX|Oaxaca|58
 San Pietro Infine|41.446|13.960|IT|Campania|58
+San Pedro el Alto|16.809|-97.053|MX|Oaxaca|58
+San Pedro Galdames|43.250|-3.100|ES|Basque Country|58
 San Paolo Solbrito|44.951|7.971|IT|Piedmont|58
+San Pablo|32.250|-106.773|US|New Mexico|58
+San Pedro Bay|-40.912|-73.870|CL|Los Lagos Region|58|f
+San Pedro Bay|11.177|125.108|PH|Eastern Visayas|58|f
+San Pedro de la Roca Castle|19.969|-75.870|CU|Santiago de Cuba Province|58|f
+San Pedro Nolasco Island|27.967|-111.378|MX|Sonora|58|f
 San Pedro de Mérida|38.950|-6.186|ES|Extremadura|58
+San Pedro el Chico|19.621|-99.910|MX|México|58
+San Pablo Malacatepec|19.372|-100.156|MX|México|58
+San Pedro y las Garzas|18.089|-100.520|MX|Guerrero|58
+San Pablo|20.205|-100.535|MX|Guanajuato|58
 San Pietro Mosezzo|45.455|8.544|IT|Piedmont|58
+San Pedro Jocotipac|17.769|-97.079|MX|Oaxaca|58
+San Pietro|43.119|12.279|IT|Umbria|58
+San Pedro Petlacala|17.580|-98.672|MX|Guerrero|58
+San Pedro Peralta|18.701|-88.856|MX|Quintana Roo|58
+San Pedro Chacabal|21.135|-89.193|MX|Yucatán|58
+San Pedro la Gloria|19.986|-99.002|MX|México|58
+San Pablo|20.786|-100.812|MX|Guanajuato|58
 San Pedro Yólox|17.589|-96.552|MX|Oaxaca|58
 San Pedro Mártir Quiechapa|16.415|-96.246|MX|Oaxaca|58
+San Pedro Aytec|17.698|-98.526|MX|Guerrero|58
+San Pietro In Bevagna|40.309|17.678|IT|Apulia|57
 San Pablo Coatlán|16.224|-96.783|MX|Oaxaca|57
+San Pedro la Tejería|16.729|-92.510|MX|Chiapas|57
+San Paolo-Cannistrà|38.133|15.233|IT|Sicily|57
+San Pedro|31.476|-95.378|US|Texas|57
+San Pietro Piturno|40.867|17.085|IT|Apulia|57
+San Pedro|8.795|-79.555|PA|Panamá|57
+San Pedro el Alto|16.035|-96.474|MX|Oaxaca|57
+San Pablo|26.052|-109.278|MX|Sinaloa|57
+San Pablo|25.729|-103.075|MX|Coahuila|57
+San Pedro Ojo Zarco|22.328|-101.023|MX|San Luis Potosí|57
+San Pedro Ixhuatepec|18.795|-98.636|MX|Puebla|57
+San Pedro Coatlán|16.254|-96.745|MX|Oaxaca|57
+San Pedro Pareo|19.533|-101.670|MX|Michoacán|57
+San Pablo Xúchil|19.807|-98.765|MX|México|57
+San Pedro Ñumí|17.377|-97.669|MX|Oaxaca|57
+San Prospero|44.365|11.775|IT|Emilia-Romagna|57
+San Pietro in Valle|41.604|14.482|IT|Molise|57
+San Pablo Potrerillos|20.310|-100.078|MX|Querétaro|57
+San Pedro|8.726|-80.222|PA|Coclé|57
+San Pablo Viejo Arriba|8.483|-82.504|PA|Chiriquí Province|56
+San Pedro Cuyaltepec|17.770|-96.790|MX|Oaxaca|56
+San Pedro Denxhi Segundo Cuartel|20.226|-99.960|MX|México|56
+San Pablo de Ycuámandyyú|-24.150|-57.067|PY|San Pedro Department|56
+San Pietro|45.381|9.098|IT|Lombardy|56
+San Potito|44.432|11.940|IT|Emilia-Romagna|56
+San Pantaleo|41.046|9.468|IT|Sardinia|56
+San Pedro Evangelista|17.183|-95.261|MX|Oaxaca|56
+San Pedro Toxín|19.590|-103.968|MX|Jalisco|56
+San Pedro|-5.088|-80.035|PE|Piura|56
 San Pedro de Ceque|42.043|-6.072|ES|Castille and León|56
+San Pedro del Río|16.510|-97.481|MX|Oaxaca|56
+San Pedro Amatlán|16.327|-96.449|MX|Oaxaca|56
 San Pedro del Gallo|25.565|-104.293|MX|Durango|56
+San Pedro Naranjestil|18.299|-103.133|MX|Michoacán|56
+San Pedrillo|-4.905|-80.289|PE|Piura|56
+San Pedro Acatlán Grande|17.050|-95.520|MX|Oaxaca|56
+San Pedro de los Agustinos|20.227|-100.568|MX|Guanajuato|56
+San Pablo Oxtotipan|20.339|-99.374|MX|Hidalgo|56
+Sânpaul|46.258|21.269|RO|Arad County|56
 San Pietro di Caridà|38.524|16.135|IT|Calabria|56
+San Pablo Lachiriega|16.841|-96.011|MX|Oaxaca|56
 San Pietro|46.641|11.683|IT|Trentino-Alto Adige|56
 San Pedro de Latarce|41.736|-5.326|ES|Castille and León|56
+San Pedro|18.338|-88.495|BZ|Corozal District|56
+San Pablo|16.612|-88.580|BZ|Toledo District|56
+San Pedro Ayacaxtepec|17.119|-95.880|MX|Oaxaca|55
+San Pablo|21.176|-100.694|MX|Guanajuato|55
+San Pier Marina|38.200|15.326|IT|Sicily|55
+San Piero in Campo|42.752|10.212|IT|Tuscany|55
+San Pietro|40.910|14.165|IT|Campania|55
 San Pedro del Romeral|43.115|-3.819|ES|Cantabria|55
+San Pedro Yaneri|17.420|-96.355|MX|Oaxaca|55
+San Pablo Soyatitlanapan|18.655|-98.149|MX|Puebla|55
 San Pedro de Chonta|-8.656|-76.875|PE|Huánuco Department|55
+San Pietro|41.060|16.919|IT|Apulia|55
+San Pedro Xochicuaco|21.223|-98.992|MX|Hidalgo|55
+San Pedro|23.926|-110.263|MX|Baja California Sur|55
+San Pedro Ixcatán|22.039|-104.935|MX|Nayarit|55
+San Pablo de Rancho Grande|23.552|-102.914|MX|Zacatecas|55
+San Perlita|26.501|-97.640|US|Texas|55
+San Pablo|20.089|-99.978|MX|Querétaro|55
+San Pedro de Chuparo|-13.524|-73.684|PE|Apurímac Department|55
 San Pedro de Chunan|-11.726|-75.486|PE|Junin|55
+San Pantaleone|37.989|15.842|IT|Calabria|55
 San Pedro del Espino|8.139|-81.082|PA|Veraguas Province|55
 San Pedro de Larcay|-14.169|-73.573|PE|Ayacucho|55
+Sânpetru Mic|46.029|21.036|RO|Timiș County|55
+San Pablo Hidalgo|18.582|-99.044|MX|Morelos|55
+San Pedro de Chinatú (Ranchería San Pedro)|26.186|-106.621|MX|Chihuahua|55
+San Pedro el Achiote (San Pedro Mártir)|17.000|-92.931|MX|Chiapas|55
+San Pedro|17.396|-92.214|MX|Chiapas|55
+San Pietro in Trento|44.317|12.082|IT|Emilia-Romagna|55
 San Pedro Manrique|42.029|-2.231|ES|Castille and León|55
+San Pedro Calantla|18.596|-98.396|MX|Puebla|55
+San Pedro|25.982|-97.596|US|Texas|54
+San Pedro|-5.596|-78.574|PE|Amazonas|54
+San Pasqual Battlefield State Historic Park|33.086|-116.990|US|California|54|f
+San Pedro Valley County Park|37.574|-122.471|US|California|54|f
 San Pedro|-14.767|-74.098|PE|Ayacucho|54
+San Pedro|20.611|-99.519|MX|Hidalgo|54
+San Pablo Topiltepec|16.179|-96.023|MX|Oaxaca|54
+San Pedro Leapi|16.334|-96.128|MX|Oaxaca|54
 San Procopio|38.282|15.891|IT|Calabria|54
+San Pedro Siniyuvi|16.984|-97.841|MX|Oaxaca|54
+San Pedro Capula|20.513|-99.156|MX|Hidalgo|54
+San Pedro|26.523|-108.474|MX|Sinaloa|54
+San Pedro (San Pedro Carano)|20.129|-101.513|MX|Michoacán|54
 San Pedro del Arroyo|40.802|-4.871|ES|Castille and León|54
 San Pietro Valdastico|45.887|11.362|IT|Veneto|54
 San Pietro Avellana|41.789|14.183|IT|Molise|54
@@ -307,6 +435,8 @@ San Pedro Bercianos|42.391|-5.713|ES|Castille and León|51
 San Pancrazio|46.586|11.086|IT|Trentino-Alto Adige|50
 San Pablo Cuatro Venados|16.982|-96.891|MX|Oaxaca|49
 San Paolo Albanese|40.036|16.335|IT|Basilicate|49
+San Pedro del Rio Blanco Airport|-14.188|-63.548|BO|Beni Department|49|f
+San Pedro Island|10.459|125.224|PH|Calabarzon|49|f
 San Pedro Mártir Yucuxaco|17.432|-97.610|MX|Oaxaca|49
 San Panfilo d'Ocre|42.286|13.475|IT|Abruzzo|48
 San Pietro in Cerro|45.021|9.950|IT|Emilia-Romagna|48
@@ -321,6 +451,10 @@ San Polo Matese|41.459|14.493|IT|Molise|44
 San Pelayo de Guareña|41.116|-5.857|ES|Castille and León|43
 San Pedro de Cachi|-13.085|-74.393|PE|Ayacucho|43
 San Pedro del Valle|41.033|-5.860|ES|Castille and León|42
+San Pablo Bay National Wildlife Refuge|38.133|-122.387|US|California|40|f
+San Pablo Reservoir|37.928|-122.243|US|California|40|f
+San Pedro Riparian National Conservation Area|31.583|-110.134|US|Arizona|40|f
+San Pedro Rock|37.595|-122.524|US|California|40|f
 San Pedro Palmiches|40.430|-2.406|ES|Castille-La Mancha|39
 San Pascual|40.881|-4.756|ES|Castille and León|34
 San Pelayo|41.680|-5.034|ES|Castille and León|32
@@ -329,6 +463,7 @@ San Pablo|9.683|-84.040|CR|San José|0
 San Pablo|-7.117|-78.833|PE|Cajamarca Department|0
 San Pablo|10.249|-68.844|VE|Yaracuy|0
 San Pablo de Tenta|-3.598|-79.288|EC|Loja|0
+San Pedro|-19.617|-64.500|BO|Chuquisaca Department|0
 San Pedro|-14.187|-71.342|PE|Cuzco Department|0
 San Pedro|-13.399|-76.159|PE|Ica|0
 San Pedro|-13.048|-75.648|PE|Ica|0
@@ -342,3 +477,5 @@ San Pedro de Vilcabamba|-4.243|-79.222|EC|Loja|0
 San Pedro del Norte|13.276|-86.878|NI|Chinandega Department|0
 San Pedro Huamburque|-13.397|-73.594|PE|Apurímac Department|0
 San Pedro Mixtepec Distrito Veintidós|15.983|-97.083|MX|Oaxaca|0
+Sanpai|24.656|112.284|CN|Guangdong|0
+Sanping|45.619|85.057|CN|Heilongjiang|0

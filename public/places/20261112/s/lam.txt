@@ -29,34 +29,43 @@ la Maternitat i Sant Ramon|41.381|2.117|ES|Catalonia|88
 La Madeleine|50.646|3.076|FR|Hauts-de-France|87
 La Mornaghia|36.759|10.017|TN|Manouba|87
 Lāma|21.774|92.219|BD|Chittagong|87
+Lamezia Terme International Airport|38.905|16.242|IT|Calabria|87|f
 Lambari|-21.976|-45.350|BR|Minas Gerais|86
 Lam Tin|22.309|114.236|HK|Kwun Tong District|85
 La Magdalena Tlaltelulco|19.283|-98.196|MX|Tlaxcala|85
 La Maná|-0.941|-79.227|EC|Cotopaxi|84
 La Marque|29.369|-94.971|US|Texas|84
+Lambeth Bridge|51.495|-0.123|GB|England|84|f
 Lamont|35.260|-118.914|US|California|84
 Lamentin|16.270|-61.632|GP|Guadeloupe|83
 Lamas|-6.417|-76.533|PE|San Martín Department|83
 La Motte-Servolex|45.597|5.867|FR|Auvergne-Rhône-Alpes|83
 La Mira|18.037|-102.326|MX|Michoacán|83
 La Madeleine|43.713|7.224|FR|Provence-Alpes-Côte d'Azur|82
+Lambert–St. Louis International Airport|38.743|-90.366|US|Missouri|82|f
 Lamballe|48.468|-2.518|FR|Brittany|82
 La Montagne|-20.889|55.423|RE|Reunion|82
+La Môle – Saint-Tropez Airport|43.206|6.482|FR|Provence-Alpes-Côte d'Azur|81|f
 La Massimina-Casal Lumbroso|41.873|12.357|IT|Lazio|81
 Lamego|41.097|-7.810|PT|Viseu|81
 La Merced|-24.967|-65.489|AR|Salta|81
 Lambton Shores|43.167|-81.933|CA|Ontario|81
 Lamshang|24.816|93.874|IN|Manipur|81
+Lam Takhong Dam|14.865|101.560|TH|Nakhon Ratchasima|80|f
+Lamma Island|22.208|114.124|HK|Islands|80|f
 La Maddalena|41.214|9.408|IT|Sardinia|80
 La Manga del Mar Menor|37.641|-0.717|ES|Murcia|80
 Lambertville|41.766|-83.628|US|Michigan|80
+Lamidanda Airport|27.253|86.672|NP|Koshi|80|f
 Lamesa|32.738|-101.951|US|Texas|79
 Lamarque|-39.425|-65.702|AR|Rio Negro|79
 Lambakin|14.750|120.867|PH|Central Luzon|79
 Lamarão|-11.793|-38.884|BR|Bahia|79
 La Malbaie|47.654|-70.153|CA|Quebec|79
+Lambeth Palace|51.496|-0.120|GB|England|79|f
 Laman Permai|3.174|101.542|MY|Selangor|79
 Lamorlaye|49.162|2.447|FR|Hauts-de-France|79
+Lambeau Field|44.501|-88.062|US|Wisconsin|78|f
 Laminusa|5.555|120.914|PH|Autonomous Region in Muslim Mindanao|78
 Lambesc|43.654|5.262|FR|Provence-Alpes-Côte d'Azur|78
 Lamač|48.193|17.051|SK|Bratislava Region|78
@@ -64,6 +73,7 @@ La Maddalena|39.144|9.012|IT|Sardinia|78
 La Mojonera|37.292|-2.437|ES|Andalusia|78
 La Matanza de Acentejo|28.452|-16.447|ES|Canary Islands|78
 Lampasas|31.064|-98.182|US|Texas|78
+Lambaréné Airport|-0.704|10.246|GA|Moyen-Ogooué|78|f
 Lamar|38.087|-102.621|US|Colorado|78
 Lamberts Bay|-32.097|18.308|ZA|Western Cape|77
 L'Ametlla del Vallès|41.667|2.267|ES|Catalonia|77
@@ -82,6 +92,7 @@ Lammi|61.083|25.017|FI|Kanta-Häme|75
 Lamas|40.986|-8.569|PT|Aveiro|75
 Lambunao|11.056|122.476|PH|Western Visayas|75
 La Muela|41.580|-1.117|ES|Aragon|75
+Låmivatnet|67.099|16.262|NO|Nordland|74|f
 La Mure|44.901|5.789|FR|Auvergne-Rhône-Alpes|74
 Lamporecchio|43.807|10.877|IT|Tuscany|74
 Lambres-lez-Douai|50.360|3.065|FR|Hauts-de-France|74
@@ -106,6 +117,8 @@ La Merced|5.402|-75.885|CO|Risaralda Department|72
 Lambertville|40.366|-74.943|US|New Jersey|72
 La Mendieta|-24.314|-64.967|AR|Jujuy|72
 La Mézière|48.218|-1.755|FR|Brittany|72
+Lam Phra Phloeng Dam|14.594|101.840|TH|Nakhon Ratchasima|71|f
+Lamock Islands|23.268|117.292|CN|Guangdong|71|f
 Lamunin|4.682|114.715|BN|Tutong|71
 La Machine|46.892|3.464|FR|Bourgogne-Franche-Comté|71
 La Macarena|2.183|-73.787|CO|Meta Department|71
@@ -118,6 +131,7 @@ Lamspringe|51.961|10.011|DE|Lower Saxony|70
 Lamadelaine|49.546|5.856|LU|Esch-sur-Alzette|70
 Lambermont|50.590|5.832|BE|Wallonia|70
 Lamim|-20.790|-43.474|BR|Minas Gerais|70
+Lamen Island|-16.583|168.133|VU|Shefa|70|f
 Lampertheim|48.651|7.699|FR|Grand Est|70
 La Membrolle-sur-Choisille|47.437|0.632|FR|Centre-Val de Loire|70
 Lambourn|51.508|-1.531|GB|England|70
@@ -133,6 +147,8 @@ Lam|49.197|13.051|DE|Bavaria|69
 Lama|42.400|-8.433|ES|Galicia|69
 La Mu Tan Gyi|17.031|95.960|MM|Yangon|69
 Łambinowice|50.539|17.561|PL|Opole Voivodeship|69
+Lamar County Airport|33.847|-88.115|US|Alabama|69|f
+Lamon Bay|14.417|122.000|PH||69|f
 La Mina|15.317|-87.833|HN|Yoro Department|69
 Lamie di Olimpie-Selva|40.817|17.335|IT|Apulia|69
 Lamastre|44.987|4.580|FR|Auvergne-Rhône-Alpes|69
@@ -146,6 +162,10 @@ Lampari|6.313|124.880|PH|Soccsksargen|68
 Lamoni|40.623|-93.934|US|Iowa|68
 La Milesse|48.065|0.136|FR|Pays de la Loire|68
 Lampitak|6.432|125.052|PH|Soccsksargen|67
+Lamanai|17.765|-88.653|BZ|Orange Walk District|67|f
+Lamerd Airport|27.368|53.195|IR|Fars|67|f
+Lamlūdah|32.783|22.167|LY|Darnah|67|f
+Lampousa|35.356|33.203|CY|Keryneia|67|f
 La Mothe-Achard|46.618|-1.659|FR|Pays de la Loire|67
 La Magdalena Yancuitlalpan|18.911|-98.589|MX|Puebla|67
 Lamak|10.400|124.739|PH|Eastern Visayas|67
@@ -168,6 +188,8 @@ La Martella|40.663|16.536|IT|Basilicate|66
 Lamerdingen|48.092|10.740|DE|Bavaria|65
 Lamprechtshausen|47.991|12.955|AT|Salzburg|65
 La Mothe-Saint-Héray|46.361|-0.113|FR|New Aquitaine|65
+Lamen Bay Airport|-16.584|168.159|VU|Shefa|65|f
+Lampaanjärvi|63.371|26.942|FI|North Savo|65|f
 Lamanon|43.700|5.089|FR|Provence-Alpes-Côte d'Azur|65
 La Motte-d'Aveillans|44.960|5.744|FR|Auvergne-Rhône-Alpes|65
 La Mohonera|17.638|-99.202|MX|Guerrero|65
@@ -189,6 +211,12 @@ La Magdalena|20.257|-98.275|MX|Puebla|64
 La Membrolle-sur-Longuenée|47.561|-0.673|FR|Pays de la Loire|64
 Lambert|34.202|-90.283|US|Mississippi|63
 La Mina|17.987|-96.100|MX|Oaxaca|63
+Lambom Island|-4.795|152.846|PG|New Ireland|63|f
+Lampa Lipangui Airport|-33.337|-70.851|CL|Santiago Metropolitan|63|f
+Lampa Palo Alto Airport|-33.335|-70.915|CL|Santiago Metropolitan|63|f
+Lampedusa Airport|35.498|12.618|IT|Sicily|63|f
+Lampi Island|10.895|98.214|MM|Tanintharyi Region|63|f
+Lampron Castle|37.167|34.602|TR|Mersin|63|f
 La Mesa|9.176|-79.272|PA|Panamá|63
 La Magdalena de los Reyes (La Magdalena)|19.190|-99.410|MX|México|63
 Lămășeni|47.493|26.228|RO|Suceava|63
@@ -217,6 +245,10 @@ Lamberhurst|51.100|0.390|GB|England|61
 Lambrinia|45.158|9.527|IT|Lombardy|61
 La Monte|38.774|-93.425|US|Missouri|61
 Lamboglia|17.981|-65.986|PR|Patillas|61
+La Macarena Airport|2.173|-73.786|CO|Meta Department|61|f
+Lamberts Point|36.875|-76.327|US|Virginia|61|f
+Lamplugh Island|-75.633|162.750|AQ||61|f
+Lampung Bay|-5.682|105.329|ID|Lampung|61|f
 La Meilleraye-de-Bretagne|47.560|-1.402|FR|Pays de la Loire|61
 Lamarque|45.096|-0.718|FR|New Aquitaine|61
 Lama|44.307|10.731|IT|Emilia-Romagna|61
@@ -229,19 +261,172 @@ Lamlash|55.534|-5.130|GB|Scotland|60
 La Mintzita (Piedra Dura)|19.652|-101.278|MX|Michoacán|60
 La Misión|23.803|-99.171|MX|Tamaulipas|60
 La Morra|44.638|7.931|IT|Piedmont|60
+Lama di Reno|44.367|11.217|IT|Emilia-Romagna|60
+Lamothe-Capdeville|44.078|1.373|FR|Occitanie|60
+Lamasquère|43.484|1.244|FR|Occitanie|60
+La Marquesa|19.299|-99.371|MX|México|60
+Lamar|34.169|-80.063|US|South Carolina|60
+La Mixtequita|17.201|-95.212|MX|Oaxaca|60
+La Melada|22.475|-100.969|MX|San Luis Potosí|60
+La Mata|8.089|-80.880|PA|Veraguas Province|60
+Lambres|50.618|2.396|FR|Hauts-de-France|60
+Lamelas|41.287|-8.475|PT|Porto|60
+La Mata|39.941|-4.438|ES|Castille-La Mancha|60
+La Mina|19.896|-100.984|MX|Michoacán|59
+La Magdalena Cuextotitla|19.469|-98.447|MX|Tlaxcala|59
+LaMoure|46.357|-98.295|US|North Dakota|59
+La Mocha|20.406|-100.998|MX|Guanajuato|59
+La Mesa|20.090|-98.226|MX|Hidalgo|59
+Lămotești|45.659|27.251|RO|Vrancea|59
+La Manzana Uno|20.201|-98.910|MX|Hidalgo|59
+Lamnay|48.117|0.704|FR|Pays de la Loire|59
+Lamerton|50.572|-4.190|GB|England|59
+Lambley|53.002|-1.063|GB|England|59
+La Mesa (El Fresnito)|19.622|-103.517|MX|Jalisco|59
+Lamothe|45.313|3.425|FR|Auvergne-Rhône-Alpes|59
+La Meyze|45.617|1.214|FR|New Aquitaine|59
+La Mora|19.332|-100.512|MX|Michoacán|59
+La Maxe|49.168|6.190|FR|Grand Est|59
+Lamas|41.503|-8.434|PT|Braga|59
+La Mojonera|20.626|-98.619|MX|Hidalgo|58
+Lameroo|-35.329|140.517|AU|South Australia|58
+La Magdalena Morelos|19.777|-100.035|MX|México|58
+La Môle|43.207|6.467|FR|Provence-Alpes-Côte d'Azur|58
+Lamagdelaine|44.468|1.490|FR|Occitanie|58
+La Monja Island|14.376|120.522|PH|Central Luzon|58|f
+Lamap Malekula Airport|-16.458|167.829|VU|Malampa|58|f
+Lamarck Island|-66.666|140.027|AQ||58|f
+Lamas, Cape|-64.333|-56.933|AQ||58|f
+Lamassa Island|-4.694|152.765|PG|New Ireland|58|f
+Lambda Island|-64.300|-62.988|AQ||58|f
+Lambs Knoll|39.449|-77.627|US|Maryland|58|f
+Laminusa Island|5.554|120.917|PH|Autonomous Region in Muslim Mindanao|58|f
+Lammerlaw Range|-45.733|169.733|NZ||58|f
+Lamberton|44.231|-95.264|US|Minnesota|58
+La Mesa|19.774|-100.150|MX|Michoacán|58
+La Muraz|46.123|6.204|FR|Auvergne-Rhône-Alpes|58
+La Morera|38.546|-6.653|ES|Extremadura|58
+La Magdalena|20.187|-102.662|MX|Michoacán|58
+La Manga (La Laguna)|19.336|-99.485|MX|México|58
+La Mazata|20.880|-104.089|MX|Jalisco|58
+Lambsborn|49.367|7.433|DE|Rheinland-Pfalz|58
+La Manga|18.145|-92.766|MX|Tabasco|57
+La Mesa|32.122|-106.708|US|New Mexico|57
+La Muddizza|40.910|8.801|IT|Sardinia|57
+Lamine|50.689|5.335|BE|Wallonia|57
+Lambrivka|46.325|29.290|UA|Odesa|57
+La Moille|41.532|-89.280|US|Illinois|57
+La Meseta|8.553|-82.593|PA|Chiriquí Province|57
+La Merlatière|46.768|-1.301|FR|Pays de la Loire|57
+Lampertsloch|48.958|7.815|FR|Grand Est|57
+La Magdelaine-sur-Tarn|43.811|1.544|FR|Occitanie|57
+La Mesa de Limantitla|21.074|-98.421|MX|Hidalgo|57
+Lampaul-Ploudalmézeau|48.561|-4.656|FR|Brittany|57
+Lamarque-Pontacq|43.177|-0.115|FR|Occitanie|57
+Lama Amanikro|7.940|-4.917|CI|Vallée du Bandama District|57
+La Montoya|19.307|-99.465|MX|México|56
+La Madeja|20.438|-101.945|MX|Guanajuato|56
+Lam|13.680|107.493|KH|Ratanakiri|56
+La Mesa|28.770|-105.968|MX|Chihuahua|56
 La Morada|-8.791|-76.249|PE|Huánuco Department|56
 Lambrama|-13.871|-72.770|PE|Apurímac Department|56
 La Merced|-12.788|-74.359|PE|Huancavelica|56
+La Mestiza|18.991|-96.572|MX|Veracruz|56
+Lamar|28.139|-97.006|US|Texas|56
+La Martyre|48.449|-4.160|FR|Brittany|56
+La Mancuerna|19.687|-97.126|MX|Veracruz|56
+Lamboing|47.117|7.135|CH|Bern|56
+Lamphey|51.666|-4.872|GB|Wales|55
+La Mesita|18.983|-99.581|MX|México|55
+La Magdalena Soltepec|19.581|-98.313|MX|Tlaxcala|55
+Lammertal|47.497|13.367|AT|Salzburg|55
+La Merced|20.030|-100.810|MX|Guanajuato|55
+La Motte-de-Galaure|45.197|4.907|FR|Auvergne-Rhône-Alpes|55
+La Manzana de Santa Cruz|19.541|-100.362|MX|Michoacán|55
+La Muralla|16.492|-97.841|MX|Oaxaca|55
+Lamorteau|49.526|5.482|BE|Wallonia|55
+Lamarosa|39.522|-8.470|PT|Santarém|55
+Lambach|49.035|7.359|FR|Grand Est|55
+La Magdalena Cuaxixtla|18.879|-97.958|MX|Puebla|55
+Lamonzie-Montastruc|44.896|0.594|FR|New Aquitaine|55
+Lamar|41.016|-77.531|US|Pennsylvania|55
+Lamas|41.150|-8.567|PT|Porto|55
+La Montaña|15.573|-92.188|MX|Chiapas|55
+La Montesa|22.064|-101.831|MX|Zacatecas|55
+Lampaden|49.650|6.700|DE|Rheinland-Pfalz|55
+La Manta|22.625|-101.011|MX|San Luis Potosí|55
+La Mezquitera|18.562|-99.100|MX|Morelos|55
+La Mancornada|16.646|-96.020|MX|Oaxaca|54
+La Milpilla|20.139|-103.401|MX|Jalisco|54
+La Machuca|20.455|-100.767|MX|Guanajuato|54
 Lamporo|45.231|8.098|IT|Piedmont|54
+La Mata|8.472|-80.096|PA|Coclé|54
+La Marche|47.140|3.034|FR|Bourgogne-Franche-Comté|54
+La Maliciosa|40.768|-3.968|ES|Madrid|54|f
+Lamachan Hill|55.050|-4.450|GB|Scotland|54|f
+Lamar Municipal Airport|38.070|-102.689|US|Colorado|54|f
+Lamarck Island|-14.717|125.050|AU|Western Australia|54|f
+Lamb Point|-73.685|-60.753|AQ||54|f
+Lamba Island|60.517|-1.283|GB|Scotland|54|f
+Lambay Island|53.494|-6.022|IE|Leinster|54|f
+Lammasjärvi|64.087|29.717|FI|Kainuu|54|f
+Lammers Glacier|-68.616|-66.333|AQ||54|f
+Lamoille Lake|40.593|-115.394|US|Nevada|54|f
+Lamoka Lake|42.405|-77.078|US|New York|54|f
+Lampang Airport|18.267|99.517|TH|Lampang|54|f
+La Mirra|20.627|-98.350|MX|Veracruz|54
+La Motte-du-Caire|44.344|6.028|FR|Provence-Alpes-Côte d'Azur|54
+Lamontgie|45.475|3.334|FR|Auvergne-Rhône-Alpes|54
+La Martinica|20.055|-96.863|MX|Veracruz|54
+La Mancellière-sur-Vire|49.069|-1.071|FR|Normandy|54
 La Misión|21.099|-99.123|MX|Hidalgo|54
 La Mesa|7.662|-80.619|PA|Los Santos Province|52
+Lambertsberg|50.083|6.383|DE|Rheinland-Pfalz|51
 Lampa|-15.184|-73.349|PE|Ayacucho|51
 Lampian|-11.237|-76.839|PE|Lima region|50
 La Merced|-9.735|-77.617|PE|Ancash|50
+Lammershagen|54.283|10.450|DE|Schleswig-Holstein|49
+La Mesita Blanca|35.182|-107.041|US|New Mexico|49|f
+La Moneda Palace|-33.443|-70.654|CL|Santiago Metropolitan|49|f
+La Motte|49.161|-2.077|JE||49|f
+La Mujer Muerta|40.804|-4.104|ES|Castille and León|49|f
+La Munia|42.715|0.131|ES|Aragon|49|f
+Lama Lama National Park|-14.395|143.587|AU|Queensland|49|f
+Lamar Municipal Airport|37.493|-94.311|US|Missouri|49|f
+Lamb Holm|58.888|-2.893|GB|Scotland|49|f
+Lamb Island|-27.626|153.379|AU|Queensland|49|f
+Lamb Island|56.070|-2.749|GB|Scotland|49|f
+Lambda Island|32.289|-64.831|BM|Warwick|49|f
+Lamberts Peak|-72.733|74.850|AQ||49|f
+Lamboley Peak|-75.082|-64.284|AQ||49|f
+Lambrigg Fell|54.333|-2.633|GB|England|49|f
+Lamina Peak|-70.546|-68.725|AQ||49|f
+Lamington National Park|-28.296|153.099|AU|Queensland|49|f
+Lamphun Airport|18.551|99.013|TH|Lamphun|49|f
+Lampman Hill|42.341|-73.795|US|New York|49|f
+Lamu Island|-2.280|40.858|KE|Lamu|49|f
 La Montañuela|8.024|-80.857|PA|Veraguas Province|48
 Lamosano|46.173|12.387|IT|Veneto|48
 la Morera de Montsant|41.265|0.842|ES|Catalonia|44
 La Miel|7.560|-80.327|PA|Los Santos Province|40
+La Mesa Watershed and Ecopark|14.744|121.097|PH|National Capital Region|40|f
+La Mira|40.261|-5.182|ES|Castille and León|40|f
+Lamar Boulevard Bridge|30.266|-97.757|US|Texas|40|f
+Lamar Lake|48.895|-118.106|US|Washington|40|f
+Lamb Lake|39.359|-86.182|US|Indiana|40|f
+Lamb Peak|-79.567|-84.950|AQ||40|f
+Lambert Island|48.533|-88.883|CA|Ontario|40|f
+Lamberton Lake|43.021|-85.629|US|Michigan|40|f
+Lambs Lake National Wildlife Refuge|47.937|-98.085|US|North Dakota|40|f
+Lamentation Mountain|41.581|-72.757|US|Connecticut|40|f
+Lamesteer National Wildlife Refuge|46.793|-104.155|US|Montana|40|f
+Lamjung Himal|28.489|84.188|NP|Gandaki Pradesh|40|f
+Lammenhorn|46.154|7.895|CH|Valais|40|f
+Lämmerensee|46.402|7.587|CH|Valais|40|f
+LAMMERMOOR RANGE|-45.628|169.780|NZ|Otago|40|f
+Lampedusa LORAN-C Transmitter|35.523|12.525|IT|Sicily|40|f
+Lamping Peak|-84.233|164.817|AQ||40|f
+Lamplugh Glacier|58.832|-136.895|US|Alaska|40|f
 La Magdeleine|45.810|7.619|IT|Aosta Valley|39
 l'Ametlla de Mar|40.900|0.800|ES|Catalonia|0
 La Máquina|20.191|-74.227|CU|Guantánamo Province|0
@@ -258,16 +443,43 @@ Lam Sonthi|15.302|101.364|TH|Lopburi|0
 Lam Thamen Chai|15.354|102.918|TH|Nakhon Ratchasima|0
 Lâm Thao|21.320|105.292|VN|Phu Tho|0
 Lam Thap|8.072|99.292|TH|Krabi|0
+Lamabaka|-8.579|123.403|ID|East Nusa Tenggara|0
+Lamablawa|-8.297|123.260|ID|East Nusa Tenggara|0
+Lamadian|46.695|124.780|CN|Heilongjiang|0
 Lamadong|1.117|121.414|ID|Central Sulawesi|0
 Lamae|9.768|99.093|TH|Chumphon|0
+Lamagohang|-8.480|123.016|ID|East Nusa Tenggara|0
+Lamahala|-8.389|123.151|ID|East Nusa Tenggara|0
+Lamakera Dua|-8.433|123.163|ID|East Nusa Tenggara|0
+Lamakera Satu|-8.436|123.165|ID|East Nusa Tenggara|0
+Lamalera|-8.575|123.424|ID|East Nusa Tenggara|0
+Lamalewar|-8.484|123.358|ID|East Nusa Tenggara|0
+Lamalewo|-8.450|122.963|ID|East Nusa Tenggara|0
+Lamalouk|-8.340|123.214|ID|East Nusa Tenggara|0
+Lamaluwo|-8.344|123.154|ID|East Nusa Tenggara|0
 Lamasi|-2.817|120.176|ID|South Sulawesi|0
+Lamatou|-8.287|122.927|ID|East Nusa Tenggara|0
+Lamatuka|-8.364|123.496|ID|East Nusa Tenggara|0
+Lamawai|-8.470|123.107|ID|East Nusa Tenggara|0
+Lamawalang|-8.333|122.933|ID|East Nusa Tenggara|0
+Lamawan|40.077|111.381|CN|Inner Mongolia|0
+Lamawolo|-8.268|123.547|ID|East Nusa Tenggara|0
+Lamawolo|-8.386|123.250|ID|East Nusa Tenggara|0
 Lamay|-13.365|-71.921|PE|Cuzco Department|0
+Lamazhao|46.256|84.344|CN|Heilongjiang|0
+Lamba|-8.806|120.434|ID|East Nusa Tenggara|0
+Lambangan|-6.748|111.068|ID|Central Java|0
+Lambangan Kulon|-6.835|111.359|ID|Central Java|0
+Lambangan Wetan|-6.829|111.367|ID|Central Java|0
 Lambaro|5.556|95.344|ID|Aceh|0
+Lambitu|-8.597|118.772|ID|West Nusa Tenggara|0
 Lamduan|14.722|103.669|TH|Surin|0
+Lamika|-8.416|122.842|ID|East Nusa Tenggara|0
 Lamjung|28.210|84.364|NP|Gandaki Pradesh|0
 Lamno|5.090|95.373|ID|Aceh|0
 Lamotrek|7.491|146.305|FM|Yap State|0
 Lampa|-3.663|119.533|ID|South Sulawesi|0
+Lampe Satu|-8.512|118.801|ID|West Nusa Tenggara|0
 Lampeland|59.835|9.579|NO|Buskerud|0
 Lampihung|-2.381|115.528|ID|South Kalimantan|0
 Lampoih|5.318|95.986|ID|Aceh|0

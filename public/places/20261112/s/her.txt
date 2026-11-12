@@ -4,6 +4,7 @@ Heroica Matamoros|25.880|-97.504|MX|Tamaulipas|114
 Herne|51.539|7.226|DE|North Rhine-Westphalia|105
 Heroica Guaymas|27.920|-110.899|MX|Sonora|101
 Herzliya|32.166|34.825|IL|Tel Aviv|101
+Hermitage Museum|59.941|30.313|RU|Leningradskaya Oblast'|99|f
 Heroica Ciudad de Juchitán de Zaragoza|16.434|-95.022|MX|Oaxaca|99
 Heróica Zitácuaro|19.437|-100.356|MX|Michoacán|99
 Heredia Province|10.333|-84.000|CR||98|r
@@ -22,7 +23,9 @@ Hermitage|36.196|-86.623|US|Tennessee|92
 Herstal|50.664|5.623|BE|Wallonia|91
 Herrenberg|48.595|8.866|DE|Baden-Wurttemberg|91
 Hermosa|14.831|120.508|PH|Central Luzon|91
+Herculaneum|40.806|14.348|IT|Campania|90|f
 Herriman|40.514|-112.033|US|Utah|90
+Hermanos Serdán International Airport|19.158|-98.371|MX|Puebla|90|f
 Herttoniemi|60.195|25.035|FI|Uusimaa|88
 Herentals|51.177|4.832|BE|Flanders|88
 Hertford|51.796|-0.079|GB|England|88
@@ -34,6 +37,7 @@ Herne Bay|51.373|1.129|GB|England|88
 Herndon|38.970|-77.386|US|Virginia|88
 Hérouville-Saint-Clair|49.211|-0.307|FR|Normandy|88
 Herzogenaurach|49.568|10.886|DE|Bavaria|88
+Heraklion Archaeological Museum|35.339|25.137|GR|Crete|87|f
 Heredia|9.999|-84.116|CR|Heredia Province|87
 Herval dOeste|-27.194|-51.495|BR|Santa Catarina|87
 Herborn|50.681|8.304|DE|Hesse|86
@@ -50,6 +54,8 @@ Hermitage|41.233|-80.449|US|Pennsylvania|84
 Herisau|47.386|9.279|CH|Appenzell Ausserrhoden|84
 Hernando|34.824|-89.994|US|Mississippi|84
 Hereford|34.815|-102.399|US|Texas|84
+Heringsdorf Airport|53.879|14.152|DE|Mecklenburg-Vorpommern|83|f
+Hermosillo International Airport|29.096|-111.048|MX|Sonora|83|f
 Hershey|40.286|-76.650|US|Pennsylvania|83
 Herselt|51.052|4.882|BE|Flanders|83
 Herbrechtingen|48.622|10.176|DE|Baden-Wurttemberg|82
@@ -58,6 +64,7 @@ Herrin|37.803|-89.028|US|Illinois|82
 Herzberg am Harz|51.655|10.339|DE|Lower Saxony|82
 Hersbruck|49.511|11.432|DE|Bavaria|82
 Heroica Villa de San Blas Atempa|16.326|-95.227|MX|Oaxaca|82
+Hermopolis|27.781|30.804|EG|Minya|81|f
 Herk-de-Stad|50.940|5.166|BE|Flanders|81
 Hervanta luode|61.451|23.835|FI|Pirkanmaa|81
 Hertzogville|-28.128|25.504|ZA|Free State|81
@@ -66,6 +73,9 @@ Héricourt|47.573|6.761|FR|Bourgogne-Franche-Comté|81
 Herīs|38.248|47.117|IR|East Azerbaijan|80
 Hernando|-32.428|-63.733|AR|Cordoba|80
 Herxheim am Berg|49.509|8.179|DE|Rheinland-Pfalz|80
+Heraclea Minoa|37.394|13.280|IT|Sicily|80|f
+Herm|49.472|-2.448|GG||80|f
+Herzliya Airport|32.180|34.834|IL|Tel Aviv|80|f
 Herrsching am Ammersee|47.999|11.177|DE|Bavaria|80
 Herzliya Pituah|32.174|34.803|IL|Tel Aviv|80
 Heroica Ciudad de Ejutla de Crespo|16.565|-96.732|MX|Oaxaca|80
@@ -80,19 +90,27 @@ Herencia|39.366|-3.357|ES|Castille-La Mancha|78
 Hermsdorf|50.897|11.855|DE|Thuringia|78
 Herrieden|49.238|10.504|DE|Bavaria|78
 Herscheid|51.179|7.744|DE|North Rhine-Westphalia|78
+Heron Island|-23.442|151.915|AU|Queensland|78|f
 Herkimer|43.026|-74.986|US|New York|78
 Hermoso Campo|-27.610|-61.344|AR|Chaco|77
 Heroldsberg|49.532|11.156|DE|Bavaria|77
 Herdorf|50.777|7.954|DE|Rheinland-Pfalz|77
 Heringen|50.888|10.007|DE|Hesse|77
+Heraklion International Airport, “Nikos Kazantzakis”|35.339|25.175|GR|Crete|77|f
+Hermiston Municipal Airport|45.828|-119.260|US|Oregon|77|f
 Hersin-Coupigny|50.448|2.649|FR|Hauts-de-France|76
 Herne|50.724|4.035|BE|Flanders|76
+Hermanos Ameijeiras Airport|20.988|-76.936|CU|Las Tunas Province|76|f
+Herreninsel|47.860|12.399|DE|Bavaria|76|f
 Herrera|37.364|-4.850|ES|Andalusia|76
 Herval|-32.024|-53.396|BR|Rio Grande do Sul|76
+Herbert Island|52.751|-170.117|US|Alaska|75|f
+Hermes Quijada International Airport|-53.778|-67.749|AR|Tierra del Fuego|75|f
 Hermeskeil|49.655|6.944|DE|Rheinland-Pfalz|75
 Heron Bay|48.022|-66.396|CA|New Brunswick|75
 Herzogenbuchsee|47.188|7.706|CH|Bern|75
 Hergiswil|46.984|8.309|CH|Nidwalden|75
+Herrenchiemsee|47.861|12.400|DE|Bavaria|74|f
 Herbstein|50.561|9.346|DE|Hesse|74
 Heroldsbach|49.693|10.999|DE|Bavaria|74
 Herrliberg|47.291|8.615|CH|Zurich|74
@@ -101,11 +119,13 @@ Herbertingen|48.067|9.433|DE|Baden-Wurttemberg|74
 Heřmanův Městec|49.947|15.665|CZ|Pardubice Region|74
 Hērūr|13.419|74.745|IN|Karnataka|74
 Herbignac|47.449|-2.317|FR|Pays de la Loire|73
+Herald Square|40.750|-73.988|US|New York|73|f
 Herserange|49.520|5.790|FR|Grand Est|73
 Herrlisheim|48.730|7.905|FR|Grand Est|73
 Héron|50.547|5.098|BE|Wallonia|73
 Herricks|40.755|-73.667|US|New York|73
 Héric|47.413|-1.652|FR|Pays de la Loire|73
+Hereheretue|-19.867|-144.961|PF|Tuamotu-Gambier Islands|72|f
 Hérimoncourt|47.443|6.882|FR|Bourgogne-Franche-Comté|72
 Herzlake|52.685|7.599|DE|Lower Saxony|72
 Hérin|50.356|3.453|FR|Hauts-de-France|72
@@ -121,6 +141,7 @@ Hervás|40.271|-5.867|ES|Extremadura|72
 Heritage Village|41.486|-73.238|US|Connecticut|71
 Hernád|47.162|19.433|HU|Pest County|71
 Hereclean|47.250|23.017|RO|Sălaj County|71
+Herbert Range|-85.367|-165.500|AQ||71|f
 Herrera del Duque|39.168|-5.050|ES|Extremadura|71
 Hernádnémeti|48.067|20.983|HU|Borsod-Abaúj-Zemplén|71
 Herend|47.133|17.750|HU|Veszprém|71
@@ -128,6 +149,7 @@ Hermit Park|-19.287|146.800|AU|Queensland|71
 Herten|51.181|5.963|NL|Limburg|70
 Herdwangen-Schönach|47.850|9.200|DE|Baden-Wurttemberg|70
 Herleshausen|51.006|10.167|DE|Hesse|70
+Hermit Islands|-1.523|145.053|PG|Manus Province|70|f
 Hermiswil|46.831|7.478|CH|Bern|70
 Herbsleben|51.117|10.833|DE|Thuringia|70
 Hersilia|-30.004|-61.839|AR|Santa Fe|70
@@ -139,6 +161,8 @@ Herring Cove|44.570|-63.568|CA|Nova Scotia|69
 Hermanville-sur-Mer|49.285|-0.315|FR|Normandy|69
 Herrischried|47.667|8.000|DE|Baden-Wurttemberg|69
 Hergenrath|50.709|6.031|BE|Wallonia|69
+Hermansenøya|78.552|12.198|SJ||69|f
+Herøya,nordre|65.989|12.304|NO|Nordland|69|f
 Hernández|23.033|-102.038|MX|San Luis Potosí|69
 Herald Harbor|39.054|-76.569|US|Maryland|68
 Hermalle-sous-Argenteau|50.712|5.678|BE|Wallonia|68
@@ -160,6 +184,7 @@ Hermenegildo J. Aldana|18.006|-94.612|MX|Veracruz|67
 Herwijnen|51.827|5.129|NL|Gelderland|67
 Hernando Beach|28.469|-82.659|US|Florida|67
 Hermaringen|48.595|10.261|DE|Baden-Wurttemberg|67
+Herat International Airport|34.211|62.229|AF|Herat|67|f
 Herrera|13.269|123.577|PH|Bicol Region|67
 Hermigua|28.168|-17.191|ES|Canary Islands|67
 Hérébo|7.952|-3.058|CI|Zanzan District|67
@@ -177,6 +202,9 @@ Heréd|47.706|19.633|HU|Heves County|66
 Hertsberge|51.107|3.269|BE|Flanders|66
 Herbitzheim|49.015|7.082|FR|Grand Est|66
 Hermenegildo Galeana 2da. Sección|18.171|-93.135|MX|Tabasco|65
+Héraðsflói|65.650|-14.185|IS|East|65|f
+Herdla|60.573|4.948|NO|Vestland|65|f
+Hermitage Island|-19.750|63.433|MU|Rodrigues|65|f
 Héry|47.901|3.629|FR|Bourgogne-Franche-Comté|65
 Hernández|-32.337|-60.031|AR|Entre Rios|65
 Heřmanova Huť|49.707|13.101|CZ|Plzeň Region|65
@@ -198,6 +226,13 @@ Hermagor|46.627|13.367|AT|Carinthia|64
 Heritage Lake|40.547|-89.326|US|Illinois|64
 Hernádkak|48.089|20.964|HU|Borsod-Abaúj-Zemplén|64
 Hermalle-sous-Huy|50.559|5.364|BE|Wallonia|63
+Herald Island|71.378|-175.637|RU|Chukotka|63|f
+Herbert Island|77.424|-70.748|GL|Avannaata|63|f
+Herðubreið|65.174|-16.343|IS|Northeast|63|f
+Hermit Peak|35.744|-105.415|US|New Mexico|63|f
+Heroína Island|-63.395|-54.606|AQ||63|f
+Herron Airport|40.533|-80.542|US|West Virginia|63|f
+Hervéou Point|-65.068|-64.049|AQ||63|f
 Héroumbili|-11.544|43.380|KM|Grande Comore|63
 Herschweiler-Pettersheim|49.483|7.350|DE|Rheinland-Pfalz|63
 Hérouxville|46.666|-72.625|CA|Quebec|63
@@ -221,6 +256,11 @@ Hermenegildo Galeana|15.553|-93.007|MX|Chiapas|61
 Héroes de Chapultepec|16.069|-92.286|MX|Chiapas|61
 Herstmonceux|50.890|0.323|GB|England|61
 Herfelingen|50.748|4.098|BE|Flanders|61
+Heranoshøi|61.689|8.803|NO|Innlandet|61|f
+Hereford Castle|52.053|-2.714|GB|England|61|f
+Hermite Island|-55.848|-67.715|CL|Region of Magallanes|61|f
+Hervey Bay Airport|-25.322|152.884|AU|Queensland|61|f
+Herzogenhorn|47.835|8.020|DE|Baden-Wurttemberg|61|f
 Hermanivka|49.994|30.561|UA|Kyiv Oblast|61
 Heringsdorf|54.301|11.007|DE|Schleswig-Holstein|61
 Herrngiersdorf|48.789|12.072|DE|Bavaria|61
@@ -236,38 +276,240 @@ Hermsdorf|50.923|13.735|DE|Saxony|60
 Herry|47.217|2.954|FR|Centre-Val de Loire|60
 Herschdorf|50.712|11.537|DE|Thuringia|60
 Herforst|49.950|6.700|DE|Rheinland-Pfalz|60
+Herrstein|49.783|7.333|DE|Rheinland-Pfalz|60
+H̱erev Le’Et|32.401|34.916|IL|Central District|60
+Herpf|50.578|10.333|DE|Thuringia|60
+Hermance|46.301|6.243|CH|Geneva|60
+Heršpice|49.120|16.914|CZ|South Moravian|60
+Herberton|-17.374|145.385|AU|Queensland|60
+Hernandez|36.063|-106.119|US|New Mexico|60
 Herrnbaumgarten|48.696|16.683|AT|Lower Austria|59
+Hermenegildo Galeana|17.691|-93.002|MX|Tabasco|59
+Herschberg|49.305|7.548|DE|Rheinland-Pfalz|59
+Hermsdorf|52.158|13.795|DE|Brandenburg|59
+Hereford|40.449|-75.552|US|Pennsylvania|59
+Herdern|47.603|8.911|CH|Thurgau|59
+Hermeziu|47.444|27.553|RO|Iași County|59
+Héricourt-en-Caux|49.695|0.697|FR|Normandy|59
 Hercegovac|45.659|17.014|HR|Bjelovar-Bilogora|59
+Herm|43.807|-1.145|FR|New Aquitaine|59
+Heriberto Jara|21.052|-104.518|MX|Nayarit|59
+Herskind|56.183|9.967|DK|Central Jutland|59
+Héry-sur-Alby|45.797|6.011|FR|Auvergne-Rhône-Alpes|58
+Hériménil|48.568|6.496|FR|Grand Est|58
 Heroica San Martín de los Cansecos|16.656|-96.729|MX|Oaxaca|58
+Herbsheim|48.349|7.631|FR|Grand Est|58
+Herrenhof|50.842|10.687|DE|Thuringia|58
+Hermitage|33.447|-92.174|US|Arkansas|58
+Herald Island|-19.030|146.635|AU|Queensland|58|f
+Hergilsey|65.434|-23.021|IS|Westfjords|58|f
+Herington Regional Airport|38.700|-96.811|US|Kansas|58|f
+Heritage Creek Airstrip|33.169|-97.484|US|Texas|58|f
+Hermannskoppe|50.107|9.517|DE|Hesse|58|f
+Hermiston Butte|45.847|-119.303|US|Oregon|58|f
+Hermit Island|46.887|-90.685|US|Wisconsin|58|f
+Hernar|60.688|4.753|NO|Vestland|58|f
+Heroes' Square|47.515|19.078|HU|Budapest|58|f
+Herring Bay|38.753|-76.543|US|Maryland|58|f
+Herring Island|-37.833|145.003|AU|Victoria|58|f
+Herrmann Mountains|-72.567|0.500|AQ||58|f
+Hermival-les-Vaux|49.169|0.281|FR|Normandy|58
+Herminie|40.263|-79.718|US|Pennsylvania|58
+Herón Proal|19.013|-96.097|MX|Veracruz|58
+Herbert|50.433|-107.218|CA|Saskatchewan|58
+Hermenegildo Galeana|20.464|-97.156|MX|Veracruz|58
+Herxheim|49.146|8.213|DE|Rheinland-Pfalz|58
+Héroes de la Independencia|31.611|-115.890|MX|Baja California|58
+Herwen|51.885|6.100|NL|Gelderland|58
+Herberts|17.094|-61.814|AG|Saint John Parish|57
+Herzberg|52.903|12.970|DE|Brandenburg|57
+Hérisson|46.509|2.711|FR|Auvergne-Rhône-Alpes|57
+Herpt|51.729|5.156|NL|North Brabant|57
+Heritage Hills|39.543|-104.879|US|Colorado|57
+Hermenegildo Galeana|17.314|-91.792|MX|Chiapas|57
+Hertain|50.613|3.289|BE|Wallonia|57
+Hernen|51.834|5.681|NL|Gelderland|57
+Hermanville|31.959|-90.840|US|Mississippi|57
+Herriko Plaza|43.133|-2.783|ES|Basque Country|57
+Herešin|46.180|16.868|HR|Koprivnica-Križevci|57
+Heron Lake|43.795|-95.320|US|Minnesota|57
+Héroes de la Revolución|20.181|-101.706|MX|Michoacán|57
+Heřmaničky|49.605|14.582|CZ|Central Bohemia|57
+Hershey|41.159|-101.003|US|Nebraska|56
+Hernández|19.094|-97.800|MX|Puebla|56
+Héroes del Cinco de Mayo|19.822|-97.597|MX|Puebla|56
+Herbstadt|50.333|10.500|DE|Bavaria|56
 Herrera de los Navarros|41.210|-1.083|ES|Aragon|56
+Herbay Bajo|-13.130|-76.395|PE|Lima region|56
+Herchies|49.488|2.010|FR|Hauts-de-France|56
+Heroyske|46.515|31.893|UA|Kherson|56
+Hermannsburg|-23.951|132.779|AU|Northern Territory|56
+Heriot Bay|50.101|-125.213|CA|British Columbia|55
+Herher|39.775|45.542|AM|Vayots Dzor|55
+Hermosillo|14.994|-92.197|MX|Chiapas|55
+Hermé|48.484|3.346|FR|Île-de-France|55
+Herbetswil|47.296|7.593|CH|Solothurn|55
+Herrengosserstedt|51.142|11.477|DE|Saxony-Anhalt|55
+Heroico Batallón de San Blas|21.905|-105.161|MX|Nayarit|55
+Hermillon|45.298|6.361|FR|Auvergne-Rhône-Alpes|55
+Hermiltepec|18.992|-100.371|MX|México|55
+Hérouville|49.101|2.132|FR|Île-de-France|55
+Herendești|45.651|21.859|RO|Timiș County|55
+Hermeton-sur-Meuse|50.198|4.817|BE|Wallonia|55
+Héroes Mexicanos|25.767|-108.751|MX|Sinaloa|55
+Herculano de la Rocha|25.628|-108.309|MX|Sinaloa|55
+Herbyné|48.176|29.741|UA|Odesa|55
+Heriberto Jara (La Presa)|19.912|-100.601|MX|Michoacán|55
+Herborn|49.767|7.300|DE|Rheinland-Pfalz|54
 Herreruela de Oropesa|39.889|-5.243|ES|Castille-La Mancha|54
+Heraion|37.672|26.886|GR|North Aegean|54|f
+Heraion of Argos|37.692|22.775|GR|Peloponnese|54|f
+Herakleia|37.501|27.524|TR|Muğla|54|f
+Herb Parsons Lake|35.134|-89.620|US|Tennessee|54|f
+Herb Smith Lake|36.743|-83.227|US|Kentucky|54|f
+Herchenhainer Höhe|50.487|9.277|DE|Hesse|54|f
+Hercules Bay|-54.119|-36.665|GS||54|f
+Herdman Rocks|-60.685|-44.329|AQ||54|f
+Herdman, Cape|-72.655|-60.526|AQ||54|f
+Hereford Inlet|39.015|-74.787|US|New Jersey|54|f
+Herefossfjorden|58.480|8.334|NO|Agder|54|f
+Herføl|58.994|11.050|NO|Østfold|54|f
+Heritage Square|39.714|-105.212|US|Colorado|54|f
+Herlong Recreational Airport|30.281|-81.809|US|Florida|54|f
+Hermetray|57.650|-7.050|GB|Scotland|54|f
+Hermione|32.410|-91.185|US|Louisiana|54|f
+Hernando County Airport|28.474|-82.455|US|Florida|54|f
+Herøya|68.260|16.034|NO|Nordland|54|f
+Herøybrua|62.321|5.720|NO|Møre og Romsdal|54|f
+Herrensee|52.548|13.873|DE|Brandenburg|54|f
+Herreshoff Marine Museum|41.663|-71.272|US|Rhode Island|54|f
+Herrontown Woods Arboretum|40.380|-74.644|US|New Jersey|54|f
+Herzog Mountains|-6.832|146.762|PG|Morobe Province|54|f
+Herzogenbusch Concentration Camp|51.665|5.257|NL|North Brabant|54|f
+Herchweiler|49.514|7.293|DE|Rheinland-Pfalz|54
+Héroe de Nacozari|24.019|-104.383|MX|Durango|54
+Hervartov|49.247|21.205|SK|Prešov Region|54
+Héréouèdouo|9.742|-3.180|CI|Zanzan District|54
 Herzogsdorf|48.430|14.113|AT|Upper Austria|54
+Hermenegildo Galeana (Chiveros)|17.882|-92.468|MX|Tabasco|54
+Hérissart|50.027|2.416|FR|Hauts-de-France|54
 Hernán-Pérez|40.212|-6.465|ES|Extremadura|54
+Herold|50.277|7.932|DE|Rheinland-Pfalz|54
+Herresbach|50.367|7.017|DE|Rheinland-Pfalz|54
 Hernstein|47.895|16.106|AT|Lower Austria|53
+Herxheimweyher|49.153|8.255|DE|Rheinland-Pfalz|53
 Hermitage|37.941|-93.316|US|Missouri|53
+Hergenfeld|49.900|7.767|DE|Rheinland-Pfalz|53
+Hergenroth|50.583|7.975|DE|Rheinland-Pfalz|53
+Herrmannsacker|51.550|10.867|DE|Thuringia|53
 Herguijuela|39.375|-5.760|ES|Extremadura|51
 Hermisende|41.969|-6.896|ES|Castille and León|51
 Herce|42.214|-2.165|ES|La Rioja|51
+Herrnschwende|51.217|11.000|DE|Thuringia|50
 Hernialde|43.154|-2.085|ES|Basque Country|50
 Herguijuela de la Sierra|40.445|-6.074|ES|Castille and León|49
+Herschbroich|50.367|6.967|DE|Rheinland-Pfalz|49
+Herbario Amazonico Musei Parensis (Museu Gœldi)|-1.452|-48.476|BR|Pará|49|f
+Herbert Mountains|-80.333|-25.500|AQ||49|f
+Herbert River Falls|-18.235|145.371|AU|Queensland|49|f
+Herbertson Glacier|-77.700|163.800|AQ||49|f
+Herblingen Castle|47.734|8.662|CH|Schaffhausen|49|f
+Hercules, Mount|-77.483|161.450|AQ||49|f
+Herdsman Lake|-31.919|115.806|AU|Western Australia|49|f
+Heritage Park|-28.812|153.273|AU|New South Wales|49|f
+Heritage Range|-80.000|-82.000|AQ||49|f
+Herman Clark Stadium|32.668|-97.283|US|Texas|49|f
+Hermannsberg|51.304|8.651|DE|Hesse|49|f
+Hermannskogel|48.270|16.293|AT|Vienna|49|f
+Hermes Glacier|-69.043|-65.136|AQ||49|f
+Hermit Island|-64.800|-64.022|AQ||49|f
+Hermitage Castle|55.250|-2.783|GB|Scotland|49|f
+Hermitage Peak|-81.433|160.483|AQ||49|f
+Herring Island|-66.406|110.633|AQ||49|f
+Herring Island|39.517|-75.875|US|Maryland|49|f
+Herschel, Mount|-72.200|169.517|AQ||49|f
+Hershey Ridge|-77.667|-147.250|AQ||49|f
+Herthasee|52.317|13.038|DE|Brandenburg|49|f
+Hervey Range|-19.500|146.617|AU|Queensland|49|f
+Herveys Range|-32.811|148.329|AU|New South Wales|49|f
+Herz Glacier|-54.695|-35.965|GS||49|f
+Herzogstand|47.618|11.306|DE|Bavaria|49|f
 Herrera de Alcántara|39.639|-7.406|ES|Extremadura|49
+Herl|49.733|6.817|DE|Rheinland-Pfalz|48
 Hernansancho|40.858|-4.730|ES|Castille and León|47
+Hergersweiler|49.096|8.092|DE|Rheinland-Pfalz|47
+Heroldishausen|51.133|10.517|DE|Thuringia|46
 Herreros de Suso|40.804|-5.039|ES|Castille and León|46
 Herrín de Campos|42.125|-4.952|ES|Castille and León|45
 Herrera de Valdecañas|42.048|-4.200|ES|Castille and León|45
+Herren-Sulzbach|49.650|7.533|DE|Rheinland-Pfalz|45
 Herguijuela de Ciudad Rodrigo|40.459|-6.521|ES|Castille and León|44
 Hervías|42.448|-2.887|ES|La Rioja|42
 Herramélluri|42.503|-3.020|ES|La Rioja|42
 Hérmedes de Cerrato|41.820|-4.174|ES|Castille and León|42
 Herguijuela del Campo|40.631|-5.864|ES|Castille and León|41
+Herald Park|50.783|-119.202|CA|British Columbia|40|f
+Herat Citadel|34.346|62.189|AF|Herat|40|f
+Herat University|34.361|62.205|AF|Herat|40|f
+Herbert Art Gallery and Museum|52.408|-1.506|GB|England|40|f
+Herbetet|45.545|7.274|IT|Aosta Valley|40|f
+Herbst Glacier|48.986|-114.050|US|Montana|40|f
+Hercules Mine|33.771|-113.550|US|Arizona|40|f
+Heritage Farmstead Museum|33.019|-96.731|US|Texas|40|f
+Heritage Square|34.089|-118.208|US|California|40|f
+Herman Hill|41.115|-74.203|US|New Jersey|40|f
+Hermann Park|29.713|-95.392|US|Texas|40|f
+Hermanson, Mount|-84.383|173.533|AQ||40|f
+Hermes Point|-73.583|166.217|AQ||40|f
+Hermit Island|38.974|-77.218|US|Maryland|40|f
+Hermit Mountain|51.350|-117.519|CA|British Columbia|40|f
+Hermitage Amsterdam|52.365|4.903|NL|North Holland|40|f
+Hermitage Bay|47.583|-56.098|CA|Newfoundland and Labrador|40|f
+Hermitage Peak|58.416|-124.853|CA|British Columbia|40|f
+Hermitage Rooms|51.511|-0.117|GB|England|40|f
+Hermosa Mine|31.456|-110.710|US|Arizona|40|f
+Hernandez Reservoir|36.384|-120.824|US|California|40|f
+Hernando Island|49.981|-124.917|CA|British Columbia|40|f
+Hernando Village Airpark, Inc|34.797|-90.034|US|Mississippi|40|f
+Herndon Monument|38.982|-76.486|US|Maryland|40|f
+Heroes Acre|-22.663|17.078|NA|Khomas Region|40|f
+Heron Bay|48.650|-86.317|CA|Ontario|40|f
+Heron Dam|36.675|-106.726|US|New Mexico|40|f
+Heron Lake|44.167|-66.093|CA|Nova Scotia|40|f
+Herr, Mount|-85.750|-149.533|AQ||40|f
+Herridge Lake|46.983|-79.825|CA|Ontario|40|f
+Herrin Peak|-79.267|-85.750|AQ||40|f
+Herring Cove Provincial Park|44.876|-66.935|CA|New Brunswick|40|f
+Herring Point|-62.621|-61.203|AQ||40|f
+Herrington Lake|37.658|-84.707|US|Kentucky|40|f
+Herrington Manor State Park|39.453|-79.451|US|Maryland|40|f
+Herrold Bridge|41.722|-93.751|US|Iowa|40|f
+Herron Glacier|62.984|-151.594|US|Alaska|40|f
+Herron Island|47.265|-122.835|US|Washington|40|f
+Herron School of Art and Design|39.771|-86.171|US|Indiana|40|f
+Herrs Island|40.465|-79.976|US|Pennsylvania|40|f
+Herschel Bay|78.602|-74.713|CA|Nunavut|40|f
+Herschel Island|69.583|-139.089|CA|Yukon|40|f
+Hershey Gardens|40.288|-76.658|US|Pennsylvania|40|f
+Hertali|9.783|40.330|ET||40|f
+Hertford Castle|51.795|-0.080|GB|England|40|f
+Herzberg|50.256|8.544|DE|Hesse|40|f
 Herbés|40.721|-0.004|ES|Valencia|38
+Herzfeld|50.133|6.217|DE|Rheinland-Pfalz|32
 Herrería|40.888|-1.960|ES|Castille-La Mancha|30
+Herbstmühle|50.000|6.217|DE|Rheinland-Pfalz|29
 Herrera de Soria|41.763|-3.012|ES|Castille and León|26
 Herbrandston|51.726|-5.087|GB|Wales|0
 Hereke|40.786|29.615|TR|Kocaeli|0
 Herembagh|43.908|81.333|CN|Xinjiang|0
+Heret|-8.408|120.629|ID|East Nusa Tenggara|0
+Hergatz|47.650|9.833|DE|Bavaria|0
+Heringsdorf|53.950|14.167|DE|Mecklenburg-Vorpommern|0
 Herlen|47.300|110.567|MN|Hentiy|0
 Herlev|55.724|12.440|DK|Capital Region|0
 Hermenegildo Galeana|30.113|-107.616|MX|Chihuahua|0
+Hermsdorf|51.405|13.894|DE|Brandenburg|0
+Herong|30.707|111.973|CN|Hubei|0
 Herrera|-28.483|-63.066|AR|Santiago del Estero|0
+Herschbach|50.583|7.733|DE|Rheinland-Pfalz|0
 Herval d’Oeste|-27.175|-51.492|BR|Santa Catarina|0

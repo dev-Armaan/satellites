@@ -3,6 +3,7 @@ Liepāja|56.505|21.011|LV|Liepaja|97
 Liechtenstein|47.167|9.533|LI||92|c
 Liévin|50.420|2.781|FR|Hauts-de-France|91
 Lier|51.131|4.570|BE|Flanders|90
+Liège Airport|50.637|5.443|BE|Wallonia|90|f
 Lieto|60.510|22.462|FI|Southwest Finland|86
 Liễu Giai|21.033|105.817|VN|Hanoi|86
 Liebenau|47.033|15.467|AT|Styria|83
@@ -12,6 +13,7 @@ Lienz|46.829|12.769|AT|Tyrol|81
 Lieşti|45.617|27.517|RO|Galați County|81
 Lieksa|63.317|30.017|FI|North Karelia|80
 Liesveld|51.932|4.832|NL|South Holland|80
+Lieutenant General Gerardo Pérez Pinedo Airport|-10.729|-73.766|PE|Ucayali|80|f
 Liebenburg|52.022|10.432|DE|Lower Saxony|80
 Liên Quan|21.057|105.579|VN|Hanoi|79
 Lienen|52.150|7.983|DE|North Rhine-Westphalia|79
@@ -20,6 +22,7 @@ Lieusaint|48.635|2.548|FR|Île-de-France|77
 Liezen|47.567|14.233|AT|Styria|76
 Lielvārde|56.721|24.807|LV|Ogre|75
 Liên Sơn|12.411|108.177|VN|Dak Lak|75
+Liepājas Ezers|56.457|21.056|LV|South Kurzeme Municipality|73|f
 Liebenwalde|52.871|13.395|DE|Brandenburg|73
 Liempde|51.569|5.372|NL|North Brabant|72
 Liebenau|52.604|9.097|DE|Lower Saxony|72
@@ -34,7 +37,9 @@ Lieboch|46.974|15.338|AT|Styria|70
 Liesek|49.361|19.675|SK|Žilina Region|70
 Lieskau|51.504|11.862|DE|Saxony-Anhalt|69
 Liessel|51.413|5.821|NL|North Brabant|68
+Liebknecht Range|-71.800|11.367|AQ||67|f
 Lierna|45.958|9.305|IT|Lombardy|67
+Liesjärven Kansallispuisto|60.663|23.874|FI|Kanta-Häme|65|f
 Liers|50.694|5.565|BE|Wallonia|65
 Liesingtal|47.346|15.014|AT|Styria|65
 Liezele|51.060|4.280|BE|Flanders|65
@@ -45,6 +50,9 @@ Ließem|50.648|7.159|DE|North Rhine-Westphalia|64
 Liétor|38.543|-1.954|ES|Castille-La Mancha|64
 Liesse-Notre-Dame|49.617|3.800|FR|Hauts-de-France|64
 Liergues|45.971|4.662|FR|Auvergne-Rhône-Alpes|63
+Lieberose Concentration Camp|51.983|14.299|DE|Brandenburg|63|f
+Liechelkopf|47.296|10.180|DE||63|f
+Liège Island|-64.025|-61.955|AQ||63|f
 Lierop|51.419|5.679|NL|North Brabant|63
 Liebstadt|50.864|13.857|DE|Saxony|63
 Liebschwitz|50.828|12.093|DE|Thuringia|63
@@ -53,14 +61,66 @@ Lieu-Saint-Amand|50.273|3.346|FR|Hauts-de-France|62
 Lieurey|49.230|0.499|FR|Normandy|62
 Liesberg|47.404|7.428|CH|Basel-Landschaft|62
 Lieser|49.917|7.017|DE|Rheinland-Pfalz|61
+Liechtenstein Museum|48.222|16.359|AT|Vienna|61|f
 Lieuran-lès-Béziers|43.419|3.237|FR|Occitanie|60
 Liezēre|57.018|26.064|LV|Madonas novads|60
+Liernu|50.583|4.831|BE|Wallonia|59
+Liedolo|45.792|11.820|IT|Veneto|59
+Liebenscheid|50.697|8.098|DE|Rheinland-Pfalz|59
+Liepgarten|53.719|14.028|DE|Mecklenburg-Vorpommern|59
+Liebensdorf|46.982|15.567|AT|Styria|59
+Liepe|52.862|13.969|DE|Brandenburg|58
+Lieutenant General George Washington Statue|38.903|-77.050|US|District of Columbia|58|f
+Lieserbrücke|46.833|13.483|AT|Carinthia|58
+Liebsdorf|50.771|12.033|DE|Thuringia|58
+Lietzen|52.470|14.340|DE|Brandenburg|58
 Liebenfels|46.738|14.287|AT|Carinthia|58
+Lieblingshof|54.030|12.329|DE|Mecklenburg-Vorpommern|57
+Liernais|47.207|4.282|FR|Bourgogne-Franche-Comté|57
+Liebistorf|46.909|7.196|CH|Fribourg|56
+Liesfeld|47.476|11.997|AT|Tyrol|56
+Lieuron|47.851|-1.943|FR|Brittany|56
+Liessow|53.888|12.340|DE|Mecklenburg-Vorpommern|55
+Liesle|47.062|5.814|FR|Bourgogne-Franche-Comté|55
+Lieren|52.163|5.989|NL|Gelderland|55
+Liebres de Suárez|20.411|-101.998|MX|Guanajuato|55
+Lieuvillers|49.470|2.498|FR|Hauts-de-France|55
+Liebitz|54.400|13.213|DE|Mecklenburg-Vorpommern|54|f
+Liechtensteinklamm|47.300|13.200|AT|Salzburg|54|f
+Lien Khuong Airport|11.753|108.368|VN|Lam Dong|54|f
+Liepaja East|56.517|21.097|LV|South Kurzeme Municipality|54|f
+Lieps|53.453|13.159|DE|Mecklenburg-Vorpommern|54|f
+Liestølbreen|77.433|16.800|SJ|Svalbard|54|f
+Lievestuoreenjärvi|62.320|26.145|FI|Central Finland|54|f
+Liebshausen|50.033|7.633|DE|Rheinland-Pfalz|54
+Lièvremont|46.970|6.423|FR|Bourgogne-Franche-Comté|54
+Lierschied|50.167|7.750|DE|Rheinland-Pfalz|54
+Liebstedt|51.050|11.400|DE|Thuringia|53
+Lieg|50.133|7.350|DE|Rheinland-Pfalz|53
+Liebenstein|50.767|10.850|DE|Thuringia|52
+Liesenich|50.083|7.283|DE|Rheinland-Pfalz|51
 Liédena|42.619|-1.276|ES|Navarre|51
+Liebig Peak|-66.770|-66.015|AQ||49|f
+Lied Glacier|-53.150|73.433|HM||49|f
+Lied, Mount|-70.502|65.532|AQ||49|f
+Lielais Ludzas Ezers|56.540|27.764|LV|Ludza Municipality|49|f
+Liepnitzsee|52.748|13.513|DE|Brandenburg|49|f
+Lieske Glacier|-80.083|156.833|AQ||49|f
+Liesvesi|62.568|26.275|FI|Central Finland|49|f
+Lieberg Lake|44.153|-94.313|US|Minnesota|40|f
+Liebieghaus|50.102|8.672|DE|Hesse|40|f
+Liechtensteinisches Landesmuseum|47.138|9.523|LI|Vaduz|40|f
+Ließem|50.033|6.483|DE|Rheinland-Pfalz|40
+Lierfeld|50.133|6.367|DE|Rheinland-Pfalz|38
+Liebu|39.326|111.956|CN|Shanxi|0
 Lieģi|56.582|21.334|LV|South Kurzeme Municipality|0
 Liên Chiểu|16.073|108.158|VN|Da Nang City|0
 Liên Hương|11.228|108.724|VN|Lam Dong|0
 Liendo|43.401|-3.370|ES|Cantabria|0
+Lieqiao|28.564|117.522|CN|Jiangxi|0
 Lierbyen|59.787|10.244|NO|Buskerud|0
 Liérganes|43.346|-3.747|ES|Cantabria|0
+Lieth|54.156|9.061|DE|Schleswig-Holstein|0
 Liễu Đề|20.221|106.187|VN|Ninh Binh|0
+Liexi|28.786|109.832|CN|Hunan|0
+Lieyu|23.824|117.462|CN|Fujian|0

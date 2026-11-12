@@ -1,6 +1,6 @@
 Sweden|62.000|15.000|SE||141|c
 Switzerland|47.000|8.014|CH||139|c
-Świętokrzyskie|50.750|20.750|PL||116|r
+Świętokrzyskie|50.750|20.750|PL||117|r
 Swansea|51.621|-3.943|GB|Wales|110
 Swindon|51.558|-1.781|GB|England|106
 Swabi|34.120|72.470|PK|Khyber Pakhtunkhwa|100
@@ -12,6 +12,7 @@ Swakopmund|-22.678|14.527|NA|Erongo Region|94
 Swords|53.460|-6.218|IE|Leinster|92
 Świdnik|51.219|22.696|PL|Lublin|92
 Swadlincote|52.774|-1.557|GB|England|91
+Swedish Museum of Natural History|59.369|18.054|SE|Stockholm|90|f
 Swarzędz|52.413|17.085|PL|Greater Poland|89
 Świecie|53.410|18.447|PL|Kujawsko-Pomorskie|88
 Świebodzice|50.860|16.320|PL|Lower Silesia|87
@@ -34,16 +35,23 @@ Sweetwater|32.471|-100.406|US|Texas|81
 Swanage|50.608|-1.957|GB|England|80
 Sweet Home|44.398|-122.736|US|Oregon|79
 Swissvale|40.424|-79.883|US|Pennsylvania|79
+Swans Islands|17.412|-83.914|HN|Bay Islands|78|f
 Swainsboro|32.597|-82.334|US|Georgia|77
 Swāmimalai|10.957|79.329|IN|Tamil Nadu|77
 Swaffham|52.648|0.686|GB|England|77
 Swroop Nagar|23.827|77.942|IN|Madhya Pradesh|77
 Swanzey|42.870|-72.282|US|New Hampshire|77
+Swansea Airport|51.605|-4.068|GB|Wales|77|f
+Sworbe Peninsula|58.002|22.122|EE|Saare|77|f
 Swifterbant|52.568|5.643|NL|Flevoland|76
+Swallow Reef|7.374|113.823|MY|Sabah|76|f
 Swarthmore|39.902|-75.350|US|Pennsylvania|76
 Sweetwater|35.601|-84.461|US|Tennessee|75
+Swinburne University of Technology|-37.822|145.038|AU|Victoria|75|f
 Swartz Creek|42.957|-83.831|US|Michigan|75
+Sweet Grass Hills|48.847|-111.375|US|Montana|74|f
 Swoyersville|41.292|-75.875|US|Pennsylvania|74
+Świna|53.929|14.278|PL|West Pomerania|73|f
 Swannanoa|35.598|-82.400|US|North Carolina|73
 Swartz|32.569|-91.985|US|Louisiana|73
 Świeradów-Zdrój|50.909|15.343|PL|Lower Silesia|73
@@ -53,6 +61,10 @@ Swan River|52.106|-101.268|CA|Manitoba|72
 Swanton|41.589|-83.891|US|Ohio|72
 Świerklaniec|50.442|18.937|PL|Silesia|72
 Sweeny|29.039|-95.699|US|Texas|72
+Swan River Airport|52.121|-101.236|CA|Manitoba|71|f
+Swift Current Airport|50.292|-107.691|CA|Saskatchewan|71|f
+Swinburne Island|40.566|-74.050|US|New York|71|f
+SWPS University of Social Sciences and Humanities|52.249|21.066|PL|Mazovia|71|f
 Świerklany Dolne|50.018|18.577|PL|Silesia|71
 Swansboro|34.688|-77.119|US|North Carolina|70
 Swillington|53.768|-1.417|GB|England|70
@@ -67,6 +79,8 @@ Swavesey|52.302|-0.005|GB|England|68
 Sway|50.787|-1.603|GB|England|68
 Swanton|44.918|-73.124|US|Vermont|67
 Swartzville|40.233|-76.078|US|Pennsylvania|67
+Swansea Castle|51.620|-3.941|GB|Wales|67|f
+Świnica|49.219|20.009|PL|Lesser Poland|67|f
 Swineshead|52.945|-0.159|GB|England|67
 Świątniki Górne|49.934|19.954|PL|Lesser Poland|67
 Święta Katarzyna|51.026|17.115|PL|Lower Silesia|66
@@ -77,21 +91,170 @@ Swan Hills|54.717|-115.402|CA|Alberta|66
 Swetes|17.050|-61.801|AG|Saint Paul Parish|65
 Swiętajno|54.002|22.318|PL|Warmia-Masuria|64
 Świnice Warckie|52.041|18.918|PL|Łódź Voivodeship|64
+Sweers Island|-17.102|139.619|AU|Queensland|63|f
+Swona|58.743|-3.057|GB|Scotland|63|f
+Swoveberg|40.579|-75.299|US|Pennsylvania|63|f
 Sweet Springs|38.964|-93.415|US|Missouri|63
 Swanville|44.521|-68.998|US|Maine|63
 Świdnica|51.888|15.390|PL|Lubusz|63
 Swinford|53.939|-8.943|IE|Connacht|63
 Swepsonville|36.021|-79.361|US|North Carolina|62
 Sweetser|40.572|-85.769|US|Indiana|62
+Swabian Jura|48.385|9.453|DE|Baden-Wurttemberg|61|f
+Swans Island|44.158|-68.429|US|Maine|61|f
+Sweat Mountain|34.067|-84.455|US|Georgia|61|f
+Święty Krzyż TV Tower|50.860|21.048|PL|Świętokrzyskie|61|f
+Swiftcurrent Mountain|48.786|-113.767|US|Montana|61|f
+Swiftwater Bridge|44.134|-71.951|US|New Hampshire|61|f
+Swimming River Reservoir|40.306|-74.140|US|New Jersey|61|f
 Świekatowo|53.419|18.097|PL|Kujawsko-Pomorskie|61
 Swarthmoor|54.185|-3.117|GB|England|61
 Swannanoa|-43.383|172.467|NZ|Canterbury|60
+Świerże|51.217|23.735|PL|Lublin|60
+Swarzewo|54.762|18.398|PL|Pomerania|60
 Świedziebnia|53.152|19.555|PL|Kujawsko-Pomorskie|60
+Swayzee|40.508|-85.826|US|Indiana|60
+Swisher|41.846|-91.693|US|Iowa|59
+Swansea|33.738|-81.098|US|South Carolina|59
 Świecie nad Osą|53.444|19.102|PL|Kujawsko-Pomorskie|59
+Swolgen|51.492|6.118|NL|Limburg|59
+Swansea|-42.123|148.074|AU|Tasmania|59
+Świątki|53.927|20.243|PL|Warmia-Masuria|59
+Sweet Home|34.686|-92.242|US|Arkansas|59
+Swaffham Prior|52.254|0.296|GB|England|58
+Swakoppoort Dam|-22.212|16.551|NA|Otjozondjupa Region|58|f
+Swan Hill Airport|-35.376|143.533|AU|Victoria|58|f
+Swanport Bridge|-35.147|139.309|AU|South Australia|58|f
+Sweitzer Hills|38.795|-122.188|US|California|58|f
+Swifts Hill|41.568|-70.641|US|Massachusetts|58|f
+Swithinbank Range|-81.700|159.000|AQ||58|f
+Swinefleet|53.691|-0.835|GB|England|58
+Swanso|8.350|-5.900|CI|Woroba|58
+Swede Heaven|48.284|-121.728|US|Washington|58
+Swifton|35.822|-91.128|US|Arkansas|58
+Swarzów|50.195|20.956|PL|Lesser Poland|58
+Świniary|51.196|16.980|PL|Lower Silesia|57
+Swan Reach|-37.833|147.867|AU|Victoria|57
+Swaffham Bulbeck|52.238|0.277|GB|England|57
+Świnna Poręba|49.836|19.521|PL|Lesser Poland|57
 Świercze|52.671|20.764|PL|Mazovia|57
 Świerzno|53.965|14.965|PL|West Pomerania|57
+Swimbridge|51.053|-3.971|GB|England|57
+Swarzynice|52.001|15.752|PL|Lubusz|56
+Swarland|55.324|-1.745|GB|England|56
+Swardeston|52.576|1.248|GB|England|56
+Świętoszówka|49.805|18.900|PL|Silesia|56
+Świniary Stare|50.537|21.531|PL|Świętokrzyskie|56
+Swainby|54.413|-1.267|GB|England|56
+Switzer|37.793|-81.988|US|West Virginia|55
+Swink|38.014|-103.628|US|Colorado|55
+Swierkle|50.764|17.931|PL|Opole Voivodeship|55
+Swinford|52.410|-1.165|GB|England|55
+Sweikhuizen|50.954|5.847|NL|Limburg|55
+Świebodna|49.903|22.443|PL|Subcarpathia|55
+Swartbroek|51.230|5.774|NL|Limburg|55
+Sweagerbosk|53.248|6.047|NL|Friesland|55
+Świerczów|51.115|20.630|PL|Świętokrzyskie|55
+Swea City|43.384|-94.315|US|Iowa|54
+Swain Islands|-66.220|110.597|AQ||54|f
+Swains Lake|43.190|-71.044|US|New Hampshire|54|f
+Swallow Bay|36.121|-114.752|US|Nevada|54|f
+Swallow Bluff Island|35.389|-88.164|US|Tennessee|54|f
+Swan Island|-51.794|-59.585|FK||54|f
+Swan Lake|44.549|-68.987|US|Maine|54|f
+Swan Lake|57.057|-135.338|US|Alaska|54|f
+Swan River National Wildlife Refuge|47.907|-113.859|US|Montana|54|f
+Swan Rock|-64.982|-63.300|AQ||54|f
+Swann Glacier|-73.866|-62.966|AQ||54|f
+Swansea Bay|51.580|-3.895|GB|Wales|54|f
+Swartswood Lake|41.073|-74.836|US|New Jersey|54|f
+Swasey Mountain|39.450|-113.334|US|Utah|54|f
+Swash Reef|-67.581|-67.524|AQ||54|f
+Swayambhunāth|27.715|85.290|NP|Bagmati Province|54|f
+Sweeney Mountains|-75.105|-69.594|AQ||54|f
+Sweet Auburn Historic District|33.755|-84.381|US|Georgia|54|f
+Sweet Home Mine|39.313|-106.119|US|Colorado|54|f
+Sweetwater Mountains|38.437|-119.305|US|California|54|f
+Sweetwater Rocks|42.460|-107.232|US|Wyoming|54|f
+Świętokrzyski Park Narodowy|50.833|21.000|PL|Świętokrzyskie|54|f
+Swift Dam|48.163|-112.872|US|Montana|54|f
+Swift Dam|46.063|-122.198|US|Washington|54|f
+Swift Glacier|-64.317|-57.731|AQ||54|f
+Swift Reservoir|46.056|-122.114|US|Washington|54|f
 Świerczów|50.960|17.759|PL|Opole Voivodeship|54
 Swanquarter|35.406|-76.329|US|North Carolina|50
+Swainson Island|-43.362|145.924|AU|Tasmania|49|f
+Swan Bay|-38.229|144.653|AU|Victoria|49|f
+Swan Island|-35.945|139.469|AU|South Australia|49|f
+Swan Island|-40.736|148.111|AU|Tasmania|49|f
+Swan Island|-38.251|144.679|AU|Victoria|49|f
+Swan Island|51.439|-0.331|GB|England|49|f
+Swan Island|57.931|-134.237|US|Alaska|49|f
+Swarth Fell|54.365|-2.377|GB|England|49|f
+Swedish National Museum of Science and Technology|59.333|18.119|SE|Stockholm|49|f
+Sweet Vengeance Mine|39.263|-121.419|US|California|49|f
+Swerford Castle|51.977|-1.459|GB|England|49|f
+Sweyn Holm|59.089|-2.952|GB|Scotland|49|f
+Swift Peak|-66.302|-63.124|AQ||49|f
+Swinford Glacier|-84.750|164.167|AQ||49|f
+Swing Bridge|17.495|-88.187|BZ|Belize District|49|f
+Swinhoe Peak|-54.333|-36.533|GS||49|f
+Swinley Priory|53.806|-0.279|GB|England|49|f
+Swinnerton Ledge|-80.710|-22.466|AQ||49|f
+Switha|58.800|-3.102|GB|Scotland|49|f
+Swithinbank Glacier|-67.966|-66.716|AQ||49|f
+Swyers Point|-78.167|165.133|AQ||49|f
+Swadener, Mount|-77.267|-153.750|AQ||40|f
+Swain's Island|49.133|-53.548|CA|Newfoundland and Labrador|40|f
+Swakeleys House|51.560|-0.452|GB|England|40|f
+Swallow Falls State Park|39.497|-79.425|US|Maryland|40|f
+Swallow Lake|44.152|-65.295|CA|Nova Scotia|40|f
+Swallow Lake|49.921|-84.136|CA|Ontario|40|f
+Swan Falls Dam|43.243|-116.373|US|Idaho|40|f
+Swan Glaciers|47.725|-113.641|US|Montana|40|f
+Swan Island|42.099|-83.174|US|Michigan|40|f
+Swan Lake|52.499|-100.730|CA|Manitoba|40|f
+Swan Lake|-34.700|173.033|NZ||40|f
+Swan Lake|42.038|-94.845|US|Iowa|40|f
+Swan Lake|43.221|-97.102|US|South Dakota|40|f
+Swan Lake|47.969|-113.912|US|Montana|40|f
+Swan Lake Kispiox River Park|55.800|-128.587|CA|British Columbia|40|f
+Swan Lake National Wildlife Refuge|39.611|-93.185|US|Missouri|40|f
+Swan Pond|39.470|-77.877|US|West Virginia|40|f
+Swan Range|47.725|-113.626|US|Montana|40|f
+Swanage Bay|50.618|-1.952|GB|England|40|f
+Swannell Ranges|56.416|-125.670|CA|British Columbia|40|f
+Swanquarter National Wildlife Refuge|35.418|-76.378|US|North Carolina|40|f
+Swansboro Country Airport|38.797|-120.730|US|California|40|f
+Swansea Princess Way|51.618|-3.938|GB|Wales|40|f
+Swanson Bay|53.012|-128.512|CA|British Columbia|40|f
+Swanson Glacier|-71.500|160.400|AQ||40|f
+Swarm Peak|-76.483|-146.333|AQ||40|f
+Swarovski Kristallwelten|47.294|11.601|AT|Tyrol|40|f
+Swart Hill|42.915|-74.108|US|New York|40|f
+Swart Island|42.906|-74.102|US|New York|40|f
+Swartley, Mount|-77.250|-143.200|AQ||40|f
+Swartswood State Park|41.076|-74.820|US|New Jersey|40|f
+Swartz Bay|48.689|-123.407|CA|British Columbia|40|f
+Swastika Lake|41.345|-106.230|US|Wyoming|40|f
+Sweetwater Creek State Park|33.758|-84.636|US|Georgia|40|f
+Sweetwater Reservoir|32.698|-116.989|US|California|40|f
+Sweitzer Lake|46.950|-95.007|US|Minnesota|40|f
+Sweitzer Lake State Park|38.715|-108.041|US|Colorado|40|f
+Swenoda Lake|45.540|-95.316|US|Minnesota|40|f
+Świerszczów|51.331|23.163|PL|Lublin|40|f
+Swift Creek Reservoir|37.410|-77.675|US|Virginia|40|f
+Swiftcurrent Glacier|48.769|-113.747|US|Montana|40|f
+Swiftcurrent Lake|48.795|-113.662|US|Montana|40|f
+Swindle Island|52.533|-128.587|CA|British Columbia|40|f
+Swineshead Abbey|52.949|-0.143|GB|England|40|f
+Swiss Hill|41.774|-74.930|US|New York|40|f
+Swiss Range|79.652|-92.718|CA|Nunavut|40|f
+Switzer Covered Bridge|38.254|-84.752|US|Kentucky|40|f
+Swope Glacier|-77.333|-145.833|AQ||40|f
+Swope Park|38.996|-94.523|US|Missouri|40|f
+Swords Castle|53.459|-6.220|IE|Leinster|40|f
 Swains Island|-11.056|-171.082|AS||31|r
 Swallowfield|51.379|-0.958|GB|England|0
+Swindon|51.924|-2.098|GB|England|0
 Swineshead|52.280|-0.450|GB|England|0

@@ -2,6 +2,7 @@ Papua New Guinea|-6.000|147.000|PG||141|c
 Papua|-2.590|139.416|ID||116|r
 Papatoetoe|-36.968|174.840|NZ|Auckland|95
 Papantla de Olarte|20.447|-97.325|MX|Veracruz|95
+Paphos International Airport|34.718|32.486|CY|Pafos|93|f
 Papaya|15.320|120.836|PH|Central Luzon|92
 Papakura|-37.065|174.942|NZ|Auckland|92
 Paphos|34.777|32.425|CY|Pafos|91
@@ -27,6 +28,7 @@ Pāpireddippatti|11.918|78.369|IN|Tamil Nadu|79
 Papatowai|-46.561|169.471|NZ|Otago|76
 Papër|41.052|19.961|AL|Elbasan County|76
 Papayal|-4.078|-80.737|PE|Tumbes|75
+Pap of Glencoe|56.689|-5.063|GB|Scotland|73|f
 Pappenheim|48.934|10.974|DE|Bavaria|73
 Papalotla|19.563|-98.858|MX|México|72
 Papudo|-32.508|-71.444|CL|Valparaiso|72
@@ -39,8 +41,11 @@ Papanice|39.071|17.027|IT|Calabria|69
 Papendorf|54.035|12.133|DE|Mecklenburg-Vorpommern|68
 Papradno|49.230|18.412|SK|Trenčín Region|68
 Papaloapan|18.160|-96.094|MX|Oaxaca|67
+Papes Ezers|56.161|21.043|LV|South Kurzeme Municipality|67|f
 Papatlazolco|20.177|-97.992|MX|Puebla|66
 Papetoai|-17.495|-149.874|PF|Îles du Vent|66
+Papa Stronsay|59.150|-2.583|GB|Scotland|65|f
+Papago State Park|33.460|-111.958|US|Arizona|65|f
 Papaloctipan|20.424|-97.955|MX|Puebla|65
 Papozze|44.986|12.031|IT|Veneto|65
 Pap|48.216|22.145|HU|Szabolcs-Szatmár-Bereg|65
@@ -56,12 +61,54 @@ Papaplaya|-6.209|-75.782|PE|San Martín Department|62
 Păpăuți|45.783|26.133|RO|Covasna County|62
 Paptalaya|15.500|-84.317|HN|Gracias a Dios Department|62
 Papenveer|52.185|4.725|NL|South Holland|61
+Paper Mill Village Bridge|42.913|-73.234|US|Vermont|61|f
+Păpuşa|45.367|22.900|RO|Hunedoara County|61|f
 Papilė|56.151|22.795|LT|Siauliai|60
 Papiu Ilarian|46.550|24.200|RO|Mureș County|60
+Paparano|42.455|12.159|IT|Lazio|59
+Papín|49.094|22.060|SK|Prešov Region|59
+Papariano|45.806|13.416|IT|Friuli Venezia Giulia|59
+Pappadhátai|38.528|21.450|GR|West Greece|58
+Papatlaco Santiago|21.226|-98.843|MX|San Luis Potosí|58
+Papa Stour Island|60.333|-1.700|GB|Scotland|58|f
+Papa Westray Island|59.350|-2.900|GB|Scotland|58|f
+Papua Island|-63.129|-55.971|AQ||58|f
+Papos|47.983|22.250|HU|Szabolcs-Szatmár-Bereg|57
+Papenhoven|51.043|5.776|NL|Limburg|57
+Pappelau|48.368|9.806|DE|Baden-Wurttemberg|57
+Papalotla|19.213|-97.141|MX|Puebla|57
+Papowo Biskupie|53.248|18.566|PL|Kujawsko-Pomorskie|57
+Papalotla|18.970|-97.187|MX|Veracruz|57
+Paplavy|53.807|28.870|BY|Minsk|56
+Papaloapan|18.537|-96.935|MX|Puebla|56
+Paprotnia|52.175|18.421|PL|Greater Poland|56
+Paprotnia|51.631|21.662|PL|Lublin|55
+Papatlas|21.367|-98.799|MX|San Luis Potosí|54
+Papey|64.591|-14.167|IS|East|54|f
+Papilaid|58.686|23.419|EE|Saare|54|f
+Papoose Lake|37.101|-115.844|US|Nevada|54|f
 Papasidero|39.872|15.906|IT|Calabria|53
 Papatrigo|40.868|-4.834|ES|Castille and León|49
+Papa|60.117|-1.350|GB|Scotland|49|f
+Papa Little|60.333|-1.383|GB|Scotland|49|f
+Papal Palace of Castel Gandolfo|41.747|12.650|VA||49|f
+Paps of Jura|55.900|-6.017|GB|Scotland|49|f
+Papuk|45.524|17.604|HR|Požega-Slavonia|49|f
 Paprotnia|52.301|22.468|PL|Mazovia|45
+Papago Park|33.458|-111.950|US|Arizona|40|f
+Papakeechie Lake|41.373|-85.669|US|Indiana|40|f
+Papakomeka Lake|48.264|-81.293|CA|Ontario|40|f
+Papanui Inlet|-45.850|170.717|NZ||40|f
+Paparoa National Park|-42.095|171.450|NZ|West Coast|40|f
+Paparoa Range|-42.000|171.583|NZ||40|f
+Papatea Bay|-37.650|177.867|NZ||40|f
+Papoose Hills|48.658|-107.090|US|Montana|40|f
+Papststein|50.901|14.120|DE|Saxony|40|f
+Papua New Guinea University of Technology|-6.664|146.994|PG|Morobe Province|40|f
 Pa Phayom|7.840|99.918|TH|Phatthalung|0
 Papallacta|-0.377|-78.142|EC|Napo|0
 Papayal|-3.571|-80.235|PE|Tumbes|0
+Papayan|-7.465|108.202|ID|West Java|0
 Papelón|8.941|-69.460|VE|Portuguesa|0
+Papilawe|-8.315|123.161|ID|East Nusa Tenggara|0
+Papringan|-7.504|109.248|ID|Central Java|0

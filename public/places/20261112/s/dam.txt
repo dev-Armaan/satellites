@@ -1,7 +1,7 @@
 Damascus Governorate|33.517|36.283|SY||124|r
 Damascus|33.510|36.291|SY|Damascus Governorate|124
 Dammam|26.434|50.103|SA|Eastern Province|122
-Dâmbovița County|44.917|25.500|RO||116|r
+Dâmbovița County|44.917|25.500|RO||117|r
 Damanhur|31.034|30.468|EG|Beheira|110
 Damietta|31.416|31.813|EG|Damietta|110
 Damoh|23.833|79.442|IN|Madhya Pradesh|103
@@ -16,6 +16,8 @@ Damaturu|11.747|11.961|NG|Yobe State|93
 Damyang|35.319|126.984|KR|Jeollanam-do|93
 Daman|20.414|72.832|IN|Dadra and Nagar Haveli and Daman and Diu|93
 Damaia|38.751|-9.212|PT|Lisbon|92
+Damascus International Airport|33.411|36.514|SY|Rif-dimashq|91|f
+Dam Square|52.373|4.893|NL|North Holland|90|f
 Damāvand|35.718|52.070|IR|Tehran|89
 Ḑamad|17.104|42.782|SA|Jazan Region|88
 Damua|22.193|78.467|IN|Madhya Pradesh|88
@@ -38,9 +40,11 @@ Damba|-6.679|15.131|AO|Uíge|82
 Damilag|8.355|124.812|PH|Northern Mindanao|81
 Damascus|45.418|-122.459|US|Oregon|81
 Damme|51.251|3.281|BE|Flanders|81
+Daman Airport|20.434|72.843|IN|Dadra and Nagar Haveli and Daman and Diu|80|f
 Damusi|37.756|76.612|CN|Xinjiang|80
 Damrei Phong|12.169|106.080|KH|Kratie|79
 Damara|4.961|18.703|CF|Ombella-M'Poko|79
+Dammastock|46.643|8.421|CH|Uri|79|f
 Dambatta|12.435|8.515|NG|Kano State|79
 Damonojodi|18.763|82.919|IN|Odisha|79
 Damulog|7.484|124.943|PH|Northern Mindanao|79
@@ -52,11 +56,14 @@ Damnak Khchas|13.496|103.410|KH|Siem Reap|76
 Dame-Marie|18.561|-74.422|HT|Grand'Anse|76
 Damwâld|53.290|5.998|NL|Friesland|75
 Dāmalerimuttūr|12.536|78.567|IN|Tamil Nadu|74
+Damme Canal|51.223|3.237|BE|Flanders|74|f
 Damêrdjôg|11.486|43.187|DJ|Djibouti|74
 Damião|-6.603|-35.937|BR|Paraíba|74
 Damara Patpara|25.939|90.787|IN|Assam|74
 Dāmaneh|33.016|50.489|IR|Isfahan|74
+Damba Airport|-6.698|15.140|AO|Uíge|73|f
 Damagaram Takèr|14.138|9.484|NE|Zinder Region|73
+Dama Ali|11.287|41.638|ET|Āfar|72|f
 Damnak Sokram|10.742|104.451|KH|Kampot|72
 Damianópolis|-14.564|-46.177|BR|Goiás|72
 Damai|35.200|102.664|CN|Gansu|71
@@ -64,6 +71,7 @@ Damatulan|7.039|124.483|PH|Autonomous Region in Muslim Mindanao|70
 Damabalas|7.016|124.514|PH|Autonomous Region in Muslim Mindanao|70
 Damu|29.619|107.663|CN|Chongqing|70
 Damrei Slab|12.902|104.693|KH|Kampong Thom|70
+Damariscove Island|43.766|-69.613|US|Maine|70|f
 Dămuc|46.800|25.900|RO|Neamț County|70
 Damigny|48.450|0.067|FR|Normandy|70
 Dampmart|48.889|2.741|FR|Île-de-France|70
@@ -73,11 +81,13 @@ Damelevières|48.559|6.385|FR|Grand Est|69
 Damal|41.341|42.837|TR|Ardahan|69
 Dampol|14.901|120.822|PH|Central Luzon|69
 Damolândia|-16.253|-49.370|BR|Goiás|69
+Dampier Strait|-0.667|130.667|ID|Southwest Papua|69|f
 Damasławek|52.840|17.501|PL|Greater Poland|68
 Damasco|17.162|-91.601|MX|Chiapas|68
 Damayan|11.494|122.553|PH|Western Visayas|67
 Damortis|16.241|120.406|PH|Ilocos|67
 Damawato|6.700|124.783|PH|Soccsksargen|67
+Damang Dao|21.923|113.138|CN|Guangdong|67|f
 Damville|48.869|1.075|FR|Normandy|67
 Damian Carmona|22.097|-99.292|MX|San Luis Potosí|67
 Dambach-la-Ville|48.324|7.425|FR|Grand Est|66
@@ -87,6 +97,8 @@ Dāman Jān|37.809|47.386|IR|East Azerbaijan|65
 Damp|54.585|10.018|DE|Schleswig-Holstein|65
 Dampierre-les-Bois|47.506|6.913|FR|Bourgogne-Franche-Comté|64
 Dambořice|49.038|16.918|CZ|South Moravian|63
+Damazin Airport|11.786|34.337|SD|Blue Nile|63|f
+Damhus Lake|55.675|12.477|DK|Capital Region|63|f
 Dammarie|48.343|1.494|FR|Centre-Val de Loire|63
 Dâmbu|45.045|25.889|RO|Prahova|63
 Damgan|47.520|-2.578|FR|Brittany|63
@@ -103,18 +115,100 @@ Dampier|-20.663|116.713|AU|Western Australia|61
 Damachava|51.744|23.605|BY|Brest|61
 Dampierre-en-Yvelines|48.700|1.983|FR|Île-de-France|61
 Damariscotta|44.033|-69.519|US|Maine|61
+Dampier Strait|-5.645|148.199|PG||61|f
 Dâmbovicioara|45.450|25.233|RO|Arges|60
 Dămăcușeni|47.457|23.909|RO|Maramureş|60
+Dammartin-en-Serve|48.903|1.620|FR|Île-de-France|60
+Damshagen|53.929|11.153|DE|Mecklenburg-Vorpommern|59
+Damiș|46.868|22.553|RO|Bihor County|59
+Dammartin-sur-Tigeaux|48.819|2.919|FR|Île-de-France|59
+Damlacık|36.915|40.102|TR|Şanlıurfa|58
+Dammeron Valley|37.305|-113.671|US|Utah|58
+Damiatte|43.653|1.977|FR|Occitanie|58
+Dammersfeldkuppe|50.397|9.862|DE|Hesse|58|f
+Damuelser Mittagsspitze|47.310|9.884|AT|Vorarlberg|58|f
+Damascus|36.634|-81.784|US|Virginia|58
+Dambach|49.005|7.629|FR|Grand Est|58
+Damienice|49.992|20.397|PL|Lesser Poland|58
+Dampicourt|49.554|5.498|BE|Wallonia|58
+Damvix|46.315|-0.734|FR|Pays de la Loire|58
+Damm|54.009|12.152|DE|Mecklenburg-Vorpommern|57
+Dampierre-sur-Linotte|47.511|6.233|FR|Bourgogne-Franche-Comté|57
+Damvillers|49.344|5.401|FR|Grand Est|57
+Damflos|49.667|6.983|DE|Rheinland-Pfalz|57
+Damscheid|50.100|7.683|DE|Rheinland-Pfalz|57
+Damníkov|49.871|16.560|CZ|Pardubice Region|57
+Dambenois|47.545|6.868|FR|Bourgogne-Franche-Comté|56
+Dampierre-sur-Avre|48.763|1.149|FR|Centre-Val de Loire|56
+Damlos|54.245|10.906|DE|Schleswig-Holstein|56
+Dâmbu|46.743|24.269|RO|Mureș County|56
+Dampniat|45.168|1.632|FR|New Aquitaine|55
+Damián Carmona|23.941|-104.132|MX|Durango|55
+Damon|29.291|-95.735|US|Texas|55
+Dămideni|47.696|27.254|RO|Botoșani County|55
+Damm|53.440|11.755|DE|Mecklenburg-Vorpommern|55
+Dampierre-sur-le-Doubs|47.475|6.731|FR|Bourgogne-Franche-Comté|54
+Damaschke Field|42.451|-75.059|US|New York|54|f
+Dambulla Rock|7.858|80.648|LK|Southern Province|54|f
+Dämeritzsee|52.423|13.734|DE||54|f
+Damocles Point|-69.628|-69.320|AQ||54|f
+Damoy Point|-64.820|-63.520|AQ||54|f
+Damsa Barajı|38.550|34.924|TR|Nevşehir Province|54|f
+Damsay|59.000|-3.067|GB|Scotland|54|f
+Dammarie-sur-Loing|47.783|2.881|FR|Centre-Val de Loire|54
+Damerey|46.834|4.990|FR|Bourgogne-Franche-Comté|54
+Damlasu|36.784|39.434|TR|Şanlıurfa|54
 Damlacık|37.914|38.654|TR|Adıyaman Province|54
+Damendorf|54.423|9.736|DE|Schleswig-Holstein|53
 Dambel|46.405|11.093|IT|Trentino-Alto Adige|52
+Damnatz|53.136|11.177|DE|Lower Saxony|51
+Dammfleth|53.909|9.373|DE|Schleswig-Holstein|50
 Damüls|47.280|9.892|AT|Vorarlberg|50
+Damba Island|0.014|32.795|UG|Central Region|49|f
+Dambecker See|53.367|12.494|DE|Mecklenburg-Vorpommern|49|f
+Damerower See|53.565|12.207|DE|Mecklenburg-Vorpommern|49|f
+Damien Bay|-54.800|-35.883|GS||49|f
+Dampier Archipelago|-20.533|116.600|AU|Western Australia|49|f
+Damsdorf|54.065|10.315|DE|Schleswig-Holstein|48
+Dambach|49.633|7.133|DE|Rheinland-Pfalz|44
+Damariscotta Lake|44.147|-69.487|US|Maine|40|f
+Damm, Mount|-82.600|162.617|AQ||40|f
+Dammagletscher|46.634|8.435|CH|Uri|40|f
+Dammtorpssjön|59.282|18.150|SE|Stockholm|40|f
+Damnable Bay|48.700|-53.748|CA|Newfoundland and Labrador|40|f
+Dampa Tiger Reserve|23.602|92.421|BD||40|f
+Dampier Bay|76.252|-101.069|CA|Nunavut|40|f
+Damrosch Park|40.772|-73.985|US|New York|40|f
+Damsgårdsfjellet|60.377|5.291|NO|Vestland|40|f
 Đầm Dơi|8.992|105.196|VN|Ca Mau|0
+Dama|30.502|120.341|CN|Zhejiang|0
+Dama|24.344|116.529|CN|Guangdong|0
 Damagum|11.678|11.335|NG|Yobe State|0
+Damaishan|24.489|112.269|CN|Guangdong|0
+Daman|38.825|100.416|CN|Gansu|0
+Damao|18.849|110.392|CN|Hainan|0
+Damarsi|-7.418|112.760|ID|East Java|0
 Damatou|28.597|112.318|CN|Hunan|0
+Damaying|38.367|101.200|CN|Gansu|0
 Dambam|11.679|10.708|NG|Bauchi|0
 Dambaslar|41.224|27.248|TR|Tekirdağ|0
 Dambi|-7.768|15.173|AO|Uíge|0
 Dambudas|35.598|75.225|PK|Gilgit-Baltistan|0
+Dami|-8.081|111.865|ID|East Java|0
+Damiao|28.077|114.884|CN|Jiangxi|0
+Damiao|41.092|110.506|CN|Inner Mongolia|0
+Damiao|32.534|109.732|CN|Hubei|0
 Damião|-6.632|-35.905|BR|Paraíba|0
+Damiku|36.979|81.094|CN|Xinjiang|0
+Damin|47.266|123.903|CN|Heilongjiang|0
 Daming|36.285|115.145|CN|Hebei|0
+Daming|25.691|118.079|CN|Fujian|0
+Daming|29.108|110.051|CN|Hunan|0
+Daming|34.429|109.672|CN|Shaanxi|0
+Daminggong|34.305|108.963|CN|Shaanxi|0
 Damnak Chang’aeur|10.530|104.369|KH|Kep|0
+Damnyain|29.445|94.705|CN|Tibet|0
+Dampek|-8.301|120.594|ID|East Nusa Tenggara|0
+Dampit Satu|-7.158|106.990|ID|West Java|0
+Dampol|-6.913|113.251|ID|East Java|0
+Damu|29.809|114.539|CN|Hubei|0

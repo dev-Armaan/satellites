@@ -19,14 +19,17 @@ Sayan|21.320|72.882|IN|Gujarat|84
 Sayama|34.875|135.750|JP|Kyoto|84
 Sayalgudi|9.169|78.447|IN|Tamil Nadu|83
 Sayula de Alemán|17.882|-94.960|MX|Veracruz|83
+Sayak Airport|9.859|126.015|PH|Caraga|81|f
 Sayaxché|16.524|-90.188|GT|Petén|79
 Sayadpur|20.728|86.401|IN|Odisha|79
+Sayram Lake|44.600|81.117|CN|Xinjiang|77|f
 Saykro|5.274|-2.784|CI|Comoé District|76
 Sayán|-11.133|-77.195|PE|Lima region|76
 Sayre|41.979|-76.516|US|Pennsylvania|75
 Saykhin|48.856|46.834|KZ|West Kazakhstan|74
 Sayre|35.291|-99.640|US|Oklahoma|74
 Sayaq|47.000|77.267|KZ|Karaganda|73
+Sayil|20.178|-89.652|MX|Yucatán|72|f
 Sayansk|54.150|91.885|RU|Krasnoyarsk Krai|72
 Säynätsalo|62.140|25.769|FI|Central Finland|70
 Saylorville|41.679|-93.630|US|Iowa|70
@@ -37,6 +40,7 @@ Sayat|45.826|3.053|FR|Auvergne-Rhône-Alpes|67
 Sayulilla|22.439|-105.391|MX|Nayarit|67
 Sayulita|20.867|-105.439|MX|Nayarit|67
 Sayda|50.711|13.422|DE|Saxony|67
+Sayanskiye Gory|52.750|96.000|RU||65|f
 Sayéta|6.777|-6.072|CI|Sassandra-Marahoue|65
 Sayabec|48.562|-67.687|CA|Quebec|65
 Say-Otes|44.328|53.532|KZ|Mangystau|64
@@ -44,12 +48,21 @@ Sayören|37.488|38.151|TR|Adıyaman Province|64
 Sayani|23.791|90.170|BD|Dhaka Division|64
 Sayalonga|36.798|-4.013|ES|Andalusia|63
 Saylorsburg|40.896|-75.324|US|Pennsylvania|61
+Sayaboury Airport|19.244|101.709|LA|Xiagnabouli|61|f
 Saygeçit|37.250|35.626|TR|Adana|61
 Saybrook Manor|41.285|-72.399|US|Connecticut|60
+Sayen Rocks|-73.667|-94.617|AQ||58|f
+Saylorville Lake|41.755|-93.732|US|Iowa|58|f
 Sayapullo|-7.596|-78.468|PE|La Libertad|58
+Sayébo|7.635|-5.300|CI|Vallée du Bandama District|57
+Saybrook|40.427|-88.526|US|Illinois|57
+Sayultepec|16.596|-98.130|MX|Oaxaca|56
+Saye|9.453|-3.345|CI|Zanzan District|56
+Sayce Glacier|-65.073|-62.925|AQ||54|f
 Sayatón|40.376|-2.853|ES|Castille-La Mancha|42
 Şayād|36.135|65.830|AF|Sar-e Pol Province|0
 Sāyagaz|32.565|67.033|AF|Zabul|0
+Sayang Lauq|-8.569|116.132|ID|West Nusa Tenggara|0
 Şaydnāyā|33.695|36.371|SY|Rif-dimashq|0
 Sayḩūt|15.211|51.246|YE|Al Mahrah Governorate|0
 Saykhin|48.814|46.769|KZ|West Kazakhstan|0
@@ -59,3 +72,4 @@ Sayn-Ust|47.357|94.524|MN|Govi-Altai Province|0
 Saynshand|43.617|102.533|MN|Ömnögovĭ|0
 Sayram|42.303|69.758|KZ|Turkistan|0
 Saysa|-14.940|-74.416|PE|Ayacucho|0
+Sayuran|-7.338|108.107|ID|West Java|0

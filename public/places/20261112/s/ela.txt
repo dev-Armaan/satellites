@@ -10,11 +10,13 @@ Elayavur|11.889|75.412|IN|Kerala|91
 El Attaf|36.224|1.672|DZ|Aïn Defla|90
 El Arrouch|36.653|6.836|DZ|Skikda|90
 El Aouinet|35.867|7.887|DZ|Tébessa|90
+El Alto International Airport|-16.513|-68.192|BO|La Paz Department|90|f
 Élancourt|48.784|1.955|FR|Île-de-France|90
 Elamanchili|17.549|82.857|IN|Andhra Pradesh|89
 El Abadia|36.270|1.686|DZ|Aïn Defla|89
 Elamkunnapuzha|10.027|76.222|IN|Kerala|89
 El Amria|35.524|-1.016|DZ|Aïn Témouchent|88
+El Arish International Airport|31.073|33.836|EG|North Sinai|87|f
 El ’Ayoûn|15.558|-11.180|MR|Assaba|87
 El Arahal|37.263|-5.545|ES|Andalusia|86
 El Alia|37.169|10.035|TN|Bizerte Governorate|85
@@ -34,13 +36,17 @@ Elassóna|39.895|22.189|GR|Thessaly|77
 Elāyirampannai|9.270|77.825|IN|Tamil Nadu|77
 Elavagnon|7.283|0.717|TG|Plateaux|76
 El Altet|38.273|-0.540|ES|Valencia|75
+Elafonisi|35.270|23.535|GR|Crete|74|f
+Elato Atoll|7.502|146.164|FM|Yap State|74|f
 El Aargub|23.609|-15.867|EH||74
 El Akarta|32.674|-9.095|MA|Marrakesh-Safi|74
+Elaphiti Islands|42.717|17.893|HR||72|f
 El Ángel|0.620|-77.941|EC|Carchi|72
 El Aguilar|-23.216|-65.680|AR|Jujuy|71
 El Amra|35.148|9.281|TN|Sidi Bouzid Governorate|71
 El Alcázar|-26.714|-54.815|AR|Misiones|70
 El Ala|35.614|9.563|TN|Kairouan|70
+Eláti|38.700|20.625|GR|Ionian Islands|70|f
 El Arenal|20.224|-98.909|MX|Hidalgo|69
 El Aroussa|36.383|9.450|TN|Siliana Governorate|69
 Eláteia|38.628|22.765|GR|Central Greece|69
@@ -51,7 +57,10 @@ El Abadlia|35.140|9.853|TN|Sidi Bouzid Governorate|68
 El Aguajito|25.959|-109.329|MX|Sinaloa|68
 El Abra|22.620|-99.020|MX|Tamaulipas|67
 El Adelanto|14.171|-89.827|GT|Jutiapa|67
+Elaiussa Sebaste|36.482|34.175|TR|Mersin|67|f
 El Aguacate|18.198|-94.970|MX|Veracruz|66
+El Alcaraván Airport|5.319|-72.385|CO|Casanare Department|65|f
+El Algarrobo Airport|-32.471|-70.993|CL|Valparaiso|65|f
 Elandsbaai|-32.314|18.344|ZA|Western Cape|65
 El Arco|19.225|-100.132|MX|México|65
 El Alvareño|20.302|-102.439|MX|Michoacán|65
@@ -73,6 +82,71 @@ El Arenal|20.252|-97.515|MX|Veracruz|61
 Elaçmaz|38.466|43.990|TR|Van|61
 El Agua Dulcita|14.700|-87.750|HN|Comayagua Department|60
 El Arenal|24.060|-104.431|MX|Durango|60
+El Arenal|16.788|-99.713|MX|Guerrero|60
+Elaiochóri|40.820|24.244|GR|East Macedonia and Thrace|60
+El Aguacate|19.226|-104.643|MX|Jalisco|60
+El Arroyo Colorado|19.349|-102.056|MX|Michoacán|60
+El Arenal|17.024|-89.153|BZ|Cayo District|60
+El Alambrado|18.161|-92.791|MX|Tabasco|59
+Eláti|39.501|21.539|GR|Thessaly|59
+El Azufre|17.204|-92.646|MX|Chiapas|59
+El Arenal|15.083|-92.486|MX|Chiapas|59
+El Almendro|37.508|-7.270|ES|Andalusia|59
+El Arrayán|22.334|-105.410|MX|Nayarit|59
+El Alberto|20.416|-99.228|MX|Hidalgo|58
+El Álamo|20.208|-99.794|MX|México|58
+Eláti|39.979|21.823|GR|West Macedonia|58
+El Alamein International Airport|30.925|28.461|EG|Matruh|58|f
+El Álamo|20.095|-98.711|MX|Hidalgo|58
+El Álamo|20.374|-98.042|MX|Puebla|58
+El Águila|17.654|-91.264|MX|Tabasco|58
+El Arco|20.254|-101.573|MX|Michoacán|58
+El Aguacate Terrero|21.418|-98.427|MX|Veracruz|57
+Elafónisos|36.508|22.979|GR|Peloponnese|57
+El Abra (San Felipe)|21.975|-98.922|MX|San Luis Potosí|57
+El Aserradero|19.955|-98.327|MX|Hidalgo|57
+El Arenal|19.426|-96.375|MX|Veracruz|57
+El Alamito Buenavista|29.178|-110.852|MX|Sonora|57
+El Aguaje|19.416|-96.617|MX|Veracruz|57
+El Ahijadero|23.319|-103.142|MX|Zacatecas|57
+Elaiónas|38.199|22.172|GR|West Greece|57
+El Aguaje (La Albarada)|16.687|-92.590|MX|Chiapas|56
+Eláteia|39.811|22.538|GR|Thessaly|56
+El Aguaje|18.196|-100.359|MX|Guerrero|56
+El Arco|19.933|-97.240|MX|Veracruz|56
+El Álamo|21.227|-100.720|MX|Guanajuato|56
+Élafos|40.374|22.397|GR|Central Macedonia|56
+El Alamito|25.844|-108.479|MX|Sinaloa|56
+El Aguacate|14.842|-92.428|MX|Chiapas|56
+El Amole|25.387|-108.439|MX|Sinaloa|56
+El Amate|18.541|-96.382|MX|Veracruz|56
+El Amarillo|20.631|-103.894|MX|Jalisco|56
+El Álamo|21.735|-98.554|MX|San Luis Potosí|55
+El Amatal|16.878|-99.312|MX|Guerrero|55
+El Aserradero|17.007|-98.668|MX|Guerrero|55
+El Agua Caliente|20.494|-102.460|MX|Jalisco|55
+Elaine|34.308|-90.852|US|Arkansas|55
+El Aventurero|19.308|-100.219|MX|México|55
+El Azotal|19.921|-97.004|MX|Veracruz|55
+El Anonal|15.688|-92.129|MX|Chiapas|55
+El Arenal|14.810|-92.188|MX|Chiapas|55
+El Aposento|21.403|-101.173|MX|Guanajuato|55
+El Arenal de Abajo|20.974|-100.450|MX|Guanajuato|55
+El Aguaje|22.504|-105.516|MX|Nayarit|55
+El Aguacate|23.331|-99.765|MX|Tamaulipas|54
+El Acocul|20.222|-98.371|MX|Hidalgo|54
+El Azufre|15.988|-97.781|MX|Oaxaca|54
+Elaldı|41.050|35.446|TR|Samsun|54
+El Algarrobo|-27.033|-70.567|CL|Atacama|54|f
+Eläintarha|60.190|24.930|FI|Uusimaa|54|f
+Elämäjärvi|63.474|25.723|FI|Central Finland|54|f
+Elazığ Airport|38.604|39.296|TR|Elazığ|54|f
+El Apartadero|20.501|-99.556|MX|Hidalgo|54
+El Alamein Fountain|-33.873|151.225|AU|New South Wales|49|f
+El Azuzul|17.692|-94.769|MX|Veracruz|49|f
+Eland Mountains|-70.536|-63.060|AQ||49|f
+El Arenosillo Launchpad|37.099|-6.730|ES|Andalusia|40|f
+Elaine Bay|-41.050|173.783|NZ||40|f
 El Alto|8.512|-81.036|PA|Veraguas Province|39
 El Algarrobal|-17.623|-71.268|PE|Moquegua Department|32
 El Alto|-28.311|-65.364|AR|Catamarca|0

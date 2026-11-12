@@ -24,6 +24,7 @@ Yenakiyeve|48.239|38.204|UA|Donetsk|98
 Yelabuga|55.762|52.044|RU|Tatarstan Republic|97
 Yebaishou|41.398|119.641|CN|Liaoning|96
 Yendi|9.443|-0.010|GH|Northern|96
+Yellowstone National Park|44.428|-110.588|US|Wyoming|95|f
 Yecheon|36.657|128.455|KR|Gyeongsangbuk-do|95
 Yeonggwang|35.278|126.512|KR|Jeollanam-do|94
 Yeongam|34.801|126.697|KR|Jeollanam-do|94
@@ -32,11 +33,13 @@ Yeovil|50.942|-2.632|GB|England|94
 Yeola|20.042|74.489|IN|Maharashtra|94
 Yên Nghĩa|20.954|105.735|VN|Hanoi|94
 Yefremov|53.138|38.119|RU|Tula Oblast|93
+Yerkes Observatory|42.570|-88.556|US|Wisconsin|93|f
 Yellandu|17.591|80.321|IN|Telangana|93
 Yeongdong|36.175|127.776|KR|North Chungcheong|93
 Yelizovo|53.189|158.383|RU|Kamchatka|92
 Yesan|36.678|126.843|KR|Chungcheongnam-do|92
 Yew Tee|1.397|103.747|SG||92
+Yellow Sea|36.000|124.000|||91|f
 Yeadon|53.864|-1.687|GB|England|91
 Yerköy|39.638|34.467|TR|Yozgat|91
 Yecla|38.614|-1.115|ES|Murcia|91
@@ -51,12 +54,14 @@ Yemanzhelinsk|54.755|61.321|RU|Chelyabinsk|89
 Yehud-Monosson|32.028|34.880|IL|Tel Aviv|89
 Yerres|48.718|2.493|FR|Île-de-France|89
 Yenişehir|40.264|29.653|TR|Bursa Province|89
+Yelizovo Airport|53.168|158.454|RU|Kamchatka|88|f
 Yehud Monosson|32.032|34.888|IL|Central District|88
 Yengitam|43.746|81.657|CN|Xinjiang|88
 Yedashe|19.156|96.346|MM|Bago Region|88
 Yên Phụ|21.033|105.833|VN|Hanoi|88
 Yershov|51.356|48.273|RU|Saratov Oblast|87
 Yesagyo|21.632|95.246|MM|Magway|87
+Yerevan TV Tower|40.171|44.537|AM||87|f
 Yenişehir|40.583|43.095|TR|Kars Province|86
 Ye-u|22.767|95.428|MM|Sagaing Region|86
 Yellāpur|14.964|74.709|IN|Karnataka|86
@@ -82,6 +87,7 @@ Yeşilhisar|38.352|35.089|TR|Kayseri|83
 Yereymentau|51.624|73.103|KZ|Aqmola|83
 Yeşilyurt|38.296|38.245|TR|Malatya|83
 Yengema|8.714|-11.171|SL|Eastern Province|83
+Yellowknife Airport|62.463|-114.440|CA|Northwest Territories|82|f
 Yeghvard|40.323|44.484|AM|Kotayk|82
 Yelwa|8.833|9.633|NG|Plateau State|82
 Yemetsk|63.472|41.780|RU|Arkhangelskaya|82
@@ -111,6 +117,7 @@ Yerbabuena|20.963|-101.274|MX|Guanajuato|78
 Yenotayevka|47.243|47.029|RU|Astrakhan Oblast|78
 Yeang Dangkum|13.755|102.756|KH|Banteay Meanchey|78
 Yerrabalem|13.705|80.019|IN|Andhra Pradesh|78
+Yellowstone Regional Airport|44.520|-109.024|US|Wyoming|78|f
 Yechagām|33.987|74.752|IN|Jammu and Kashmir|77
 Yedy-Kuyu|45.299|35.777|UA|Crimea|77
 Yeghegnadzor|39.764|45.333|AM|Vayots Dzor|77
@@ -126,10 +133,15 @@ Yermolayevo|52.704|55.821|RU|Bashkortostan Republic|76
 Yetkul’|54.823|61.584|RU|Chelyabinsk|76
 Yemilchyne|50.872|27.802|UA|Zhytomyr Oblast|76
 Yërzovka|48.937|44.646|RU|Volgograd Oblast|76
+Yevpatoria Airport|45.226|33.376|UA|Crimea|75|f
 Yelovo|57.052|54.920|RU|Perm Krai|75
 Yerofey Pavlovich|53.961|121.958|RU|Amur Oblast|75
 Yeranos|40.204|45.192|AM|Gegharkunik|75
 Yelan’-Koleno|51.152|41.231|RU|Voronezh Oblast|74
+Yell|60.600|-1.100|GB|Scotland|74|f
+Yellowstone Airport|44.688|-111.118|US|Montana|74|f
+Yendi Airport|9.425|-0.005|GH|Northern|74|f
+Yeosu/Suncheon Airport|34.842|127.617|KR|Jeollanam-do|74|f
 Yenişarbademli|37.708|31.386|TR|Isparta|74
 Ye Mun|17.143|96.283|MM|Yangon|74
 Yengī Emām|35.939|50.722|IR|Alborz Province|74
@@ -137,6 +149,7 @@ Yehiapur|26.149|85.396|IN|Bihar|74
 Yenidoğan|37.721|27.390|TR|Aydın|74
 Yelanets|47.695|31.852|UA|Mykolaiv|74
 Yepes|39.902|-3.625|ES|Castille-La Mancha|74
+Yeongheung Island|37.259|126.463|KR|Incheon|73|f
 Yermish’|54.768|42.267|RU|Ryazan Oblast|73
 Yenibağarası|38.662|26.843|TR|İzmir Province|73
 Yéleu|6.971|-8.051|CI|Montagnes|73
@@ -144,6 +157,7 @@ Yelagiri|12.580|78.640|IN|Tamil Nadu|73
 Yeniköy|40.536|29.354|TR|Bursa Province|73
 Yérébaye|8.346|-2.813|CI|Zanzan District|73
 Yermekeyevo|54.073|53.675|RU|Bashkortostan Republic|72
+Yereruyk Basilica|40.440|43.609|AM|Shirak|72|f
 Yemanzhelinka|54.801|61.299|RU|Chelyabinsk|72
 Yelan’-Kolenovskiy|51.163|41.151|RU|Voronezh Oblast|72
 Yesāqī|36.829|54.242|IR|Golestan|72
@@ -174,6 +188,10 @@ Yépleu|7.719|-7.821|CI|Montagnes|70
 Yextla|17.605|-99.934|MX|Guerrero|70
 Yershichi|53.673|32.755|RU|Smolensk Oblast|70
 Yerbas Buenas|-35.748|-71.585|CL|Maule Region|70
+Yeongchwisan|34.830|127.716|KR|Jeollanam-do|70|f
+Yeonhwasan|35.633|129.206|KR|Ulsan|70|f
+Yeonyeopsan|37.798|127.824|KR|Gangwon-do|70|f
+Yeovil Aerodrome|50.941|-2.658|GB|England|70|f
 Yelkhovka|53.867|50.284|RU|Samara Oblast|70
 Yerington|38.986|-119.163|US|Nevada|70
 Yecuatla|19.866|-96.778|MX|Veracruz|70
@@ -184,11 +202,20 @@ Yenne|45.704|5.758|FR|Auvergne-Rhône-Alpes|69
 Yezupil|49.042|24.781|UA|Ivano-Frankivsk|69
 Yeniugou|38.427|99.519|CN|Qinghai|69
 Yeşildere|36.982|37.498|TR|Gaziantep|69
+Yekkeh Tūt-e Pā’īn|37.031|59.893|IR|Razavi Khorasan|69|f
+Yerevan State Theatre and Film Institute|40.182|44.506|AM|Yerevan|69|f
 Yeghegnut|40.089|44.167|AM|Armavir|68
 Yelshanka|51.814|46.400|RU|Saratov Oblast|68
 Yelyzavetivka|48.619|34.648|UA|Dnipropetrovsk|67
 Yepifan’|53.825|38.552|RU|Tula Oblast|67
 Yenikent|38.870|29.288|TR|Kütahya|67
+Yelagin Island|59.979|30.256|RU|St. Petersburg|67|f
+Yellow Mountains|30.125|118.167|CN|Anhui|67|f
+Yeoninsan|37.898|127.414|KR|Gyeonggi-do|67|f
+Yerba Buena Island|37.811|-122.367|US|California|67|f
+Yerevan Football Academy Stadium|40.221|44.555|AM|Yerevan|67|f
+Yerevan State Medical University after Mkhitar Heratsi|40.188|44.525|AM|Yerevan|67|f
+Yerevan State University|40.182|44.526|AM||67|f
 Yélé|9.960|-6.218|CI|Savanes District|67
 Yerville|49.667|0.896|FR|Normandy|67
 Yeşiltepe|36.844|34.894|TR|Mersin|67
@@ -200,6 +227,12 @@ Yemişli|37.369|43.078|TR|Şırnak|66
 Yeniköy|37.703|27.525|TR|Aydın|66
 Yeyskoye Ukrepleniye|46.707|38.613|RU|Krasnodar Krai|66
 Yelten|37.220|30.219|TR|Antalya|66
+Yebongsan|37.559|127.261|KR|Gyeonggi-do|65|f
+Yef Yus|-1.754|131.143|ID|Southwest Papua|65|f
+Yen-liao Beach Park|25.042|121.928|TW|Taipei|65|f
+Yerbogachen Airport|61.274|108.025|RU|Irkutsk Oblast|65|f
+Yerevan 2800th Anniversary Park|40.175|44.507|AM|Yerevan|65|f
+Yerevan Haybusak University|40.200|44.476|AM|Yerevan|65|f
 Yékolo|8.179|-4.914|CI|Vallée du Bandama District|65
 Yea|-37.211|145.428|AU|Victoria|65
 Yèvres|48.211|1.187|FR|Centre-Val de Loire|65
@@ -219,6 +252,13 @@ Yeşilhisar|38.674|29.941|TR|Afyonkarahisar Province|64
 Yeşilköy|36.674|35.493|TR|Adana|64
 Yenda|-34.245|146.203|AU|New South Wales|63
 Yérétiélé|9.123|-6.365|CI|Woroba|63
+Yellow Mountain|48.882|-113.638|US|Montana|63|f
+Yeniseysk Airport|58.465|92.115|RU|Krasnoyarsk Krai|63|f
+Yeohangsan|35.196|128.406|KR|Gyeongsangnam-do|63|f
+Yeongchwisan|35.937|128.335|KR|Gyeongsangbuk-do|63|f
+Yeongdodaegyo|35.096|129.037|KR|Busan|63|f
+Yerupajá|-10.269|-76.905|PE|Huánuco Department|63|f
+Yeysk Airport|46.684|38.215|RU|Krasnodar Krai|63|f
 Yéalé|7.528|-8.422|CI|Montagnes|63
 Yemtsa|63.073|40.333|RU|Arkhangelskaya|63
 Yerri|42.702|-1.938|ES|Navarre|63
@@ -246,6 +286,13 @@ Yetlancingo|17.720|-99.116|MX|Guerrero|61
 Yengī Kand-e Seyyedlar|36.452|48.258|IR|Zanjan|61
 Yedrovo|57.913|33.620|RU|Novgorod Oblast|61
 Yerrinbool|-34.369|150.538|AU|New South Wales|61
+Yeager Airport|38.373|-81.593|US|West Virginia|61|f
+Yediadalar|36.871|28.037|TR|Muğla|61|f
+Yeina Island|-11.330|153.443|PG|Milne Bay Province|61|f
+Yellowstone Lake|44.396|-110.367|US|Wyoming|61|f
+Yerevan Cascade|40.192|44.516|AM|Yerevan|61|f
+Yeshiva University Museum|40.738|-73.994|US|New York|61|f
+Yeung Chau|22.462|114.221|HK||61|f
 Yeşilköy|37.992|30.997|TR|Isparta|61
 Yecapixteca|18.882|-98.903|MX|Morelos|61
 Yerbabuena|21.686|-100.767|MX|San Luis Potosí|61
@@ -259,25 +306,168 @@ Yengī Kand|37.289|46.154|IR|East Azerbaijan|61
 Yeagertown|40.643|-77.581|US|Pennsylvania|60
 Yédandiékaha|9.327|-4.942|CI|Vallée du Bandama District|60
 Yéouli|4.523|-7.558|CI|Bas-Sassandra District|60
+Yens|46.519|6.418|CH|Vaud|60
+Yeraskh|39.739|44.828|AM|Ararat|60
+Yehorivka|46.721|30.403|UA|Odesa|60
+Yemassee|32.690|-80.851|US|South Carolina|60
+Yehorivka|47.706|37.225|UA|Donetsk|60
+Yeşiltepe|36.937|40.209|TR|Şanlıurfa|60
+Yerbabuena Isbontick|16.933|-92.866|MX|Chiapas|59
+Yeniköy|37.126|38.892|TR|Şanlıurfa|59
 Yermakovo|45.854|34.486|UA|Crimea|59
+Yeniköprü|38.729|42.417|TR|Bitlis|59
+Yeşildere|37.027|29.383|TR|Burdur|59
+Yebouékro|7.851|-5.059|CI|Vallée du Bandama District|59
+Yeghegnut|40.903|44.632|AM|Lori|59
+Yérékayekoko|8.143|-3.255|CI|Zanzan District|59
+Yéré Yéré|6.238|-3.417|CI|Comoé District|59
+Ye Chaung Wa|16.713|96.140|MM|Yangon|59
+Yeniköy|38.231|27.898|TR|İzmir Province|58
+Yernée-Fraineux|50.528|5.382|BE|Wallonia|58
+Yeniyayla|37.104|35.555|TR|Adana|58
+Yetzucum|16.884|-92.444|MX|Chiapas|58
+Yenice|38.142|30.946|TR|Isparta|58
+Yélimané Airport|15.123|-10.569|ML|Kayes|58|f
+Yell Sound|60.533|-1.250|GB|Scotland|58|f
+Yellow Aster Butte|48.955|-121.680|US|Washington|58|f
+Yellow Bank|38.246|-76.785|US|Maryland|58|f
+Yellow Island|48.592|-123.033|US|Washington|58|f
+Yellow Knolls|36.976|-113.742|US|Arizona|58|f
+Yeltsovka Airport|55.086|83.001|RU|Novosibirsk Oblast|58|f
+Yendegaia Bay|-54.864|-68.746|CL|Region of Magallanes|58|f
+Yengema Airport|8.610|-11.045|SL|Eastern Province|58|f
+Yeovilton Airport|51.009|-2.639|GB|England|58|f
+Yermolino Airport|55.224|36.609|RU|Kaluga Oblast|58|f
+Yes Tor|50.694|-4.011|GB|England|58|f
+Yevlakh Airport|40.634|47.139|AZ|Yevlax City|58|f
+Yew Mountains|38.264|-80.291|US|West Virginia|58|f
 Yeşildere|37.157|33.514|TR|Karaman|58
+Yébouakro|7.462|-3.393|CI|Zanzan District|58
+Yébouébo|6.899|-5.006|CI|Lacs District|58
+Yeleyevo|56.855|49.419|RU|Mariy-El Republic|58
+Yelyzaveto-Mykolaivka|47.829|38.344|UA|Donetsk|58
+Yenipınar|38.173|34.253|TR|Aksaray|58
+Yelvertoft|52.373|-1.122|GB|England|58
+Yeghipatrush|40.534|44.473|AM|Aragatsotn|58
+Yéyaradougou|8.040|-4.211|CI|Vallée du Bandama District|58
+Yevhenivka|46.387|29.202|UA|Odesa|58
+Yeniköy|36.845|31.386|TR|Antalya|58
+Yèvre-la-Ville|48.145|2.326|FR|Centre-Val de Loire|58
+Yepachic|28.422|-108.377|MX|Chihuahua|58
+Yeletskiy|67.046|64.214|RU|Komi|57
+Yenice|38.579|39.271|TR|Elazığ|57
+Yeẖi‘am|32.996|35.221|IL|Northern District|57
+Yelapa|20.488|-105.448|MX|Jalisco|57
+Yelizavetovo|45.449|33.358|UA|Crimea|57
+Yenguébo|7.604|-4.724|CI|Vallée du Bandama District|57
+Yerba Santa|16.351|-94.354|MX|Oaxaca|57
+Yenice|40.388|28.115|TR|Balıkesir|57
+Yeşilkaraman|37.115|30.803|TR|Antalya|57
+Yeğenli|41.521|32.374|TR|Bartın|57
+Yevdokimova|54.268|100.660|RU|Irkutsk Oblast|57
+Yeremiivka|46.796|30.370|UA|Odesa|57
+Yervandashat|40.117|43.672|AM|Armavir|57
+Yeniköy|41.475|42.820|TR|Ardahan|56
+Yeniyıldız|37.469|34.386|TR|Niğde Province|56
+Yeserti|36.852|37.846|TR|Gaziantep|56
+Yediyol|36.991|38.931|TR|Şanlıurfa|56
+Yelkovan|37.815|38.554|TR|Adıyaman Province|56
+Yerba Santa|17.200|-98.883|MX|Guerrero|56
+Yelkesen|37.658|41.981|TR|Siirt|56
+Yeniaydın|37.881|42.432|TR|Siirt|56
+Yeşilova|39.744|42.824|TR|Ağrı|56
+Yermo|34.905|-116.820|US|California|56
+Yèbles|48.636|2.768|FR|Île-de-France|56
+Yevhenivka|47.669|37.086|UA|Donetsk|55
+Yeşilçam|40.810|31.252|TR|Düzce|55
+Yerbas Buenas|18.879|-99.718|MX|México|55
+Yeşilyurt|36.349|30.111|TR|Antalya|55
+Yedigelli|41.125|31.425|TR|Zonguldak Province|55
+Yeşilyurt|37.308|42.139|TR|Şırnak|55
+Yeniköy|38.857|40.620|TR|Bingöl|55
+Yenilmez|37.509|40.991|TR|Mardin|55
+Yernjatap|40.456|44.467|AM|Aragatsotn|55
+Yedigöz|36.866|36.844|TR|Kilis|55
+Yermenonville|48.557|1.620|FR|Centre-Val de Loire|55
+Yeniköy|36.225|29.598|TR|Antalya|54
+Yenokavan|40.913|45.107|AM|Tavush|54
+Yeniköy|40.115|30.057|TR|Bilecik|54
+Yechon Ab|36.632|128.355|KR|Gyeongsangbuk-do|54|f
+Yedigöller|40.932|31.736|TR|Bolu|54|f
+Yedikır Barajı|40.782|35.563|TR|Amasya|54|f
+Yedikule Fortress|40.993|28.923|TR|Istanbul|54|f
+Yei Airport|4.083|30.650|SS|Central Equatoria|54|f
+Yelcho Lake|-43.293|-72.299|CL|Los Lagos Region|54|f
+Yellow Bluff Fort Historic State Park|30.400|-81.556|US|Florida|54|f
+Yellowstone River Bridge|46.856|-105.116|US|Montana|54|f
+Yendegaia Airport|-54.830|-68.831|CL|Region of Magallanes|54|f
+Yenice Barajı|40.064|30.858|TR|Eskişehir|54|f
+Yentna Glacier|62.798|-151.614|US|Alaska|54|f
+Yeo Lake|-27.976|124.348|AU|Western Australia|54|f
+Yerington Municipal Airport|39.002|-119.159|US|Nevada|54|f
 Yebra|40.357|-2.966|ES|Castille-La Mancha|54
+Yerbanís|24.738|-103.841|MX|Durango|54
+Yeşilbarak|36.586|29.677|TR|Antalya|54
+Yéré-Yéré|6.234|-3.444|CI|Comoé District|54
+Yéipleu|6.669|-8.266|CI|Montagnes|54
+Yeşilova|36.269|36.254|TR|Hatay|54
 Yecla de Yeltes|40.959|-6.489|ES|Castille and León|50
+Yelang|28.402|106.779|CN|Guizhou|50
+Yeats Glacier|-85.017|-175.000|AQ||49|f
+Yeavering Bell|55.558|-2.114|GB|England|49|f
+Yeha|14.250|38.917|ET|Tigray|49|f
+Yeldulknie Conservation Park|-33.640|136.569|AU|South Australia|49|f
+Yellagonga Regional Park|-31.786|115.802|AU|Western Australia|49|f
+Yellomundee Regional Park|-33.673|150.651|AU|New South Wales|49|f
+Yellow Pinch Dam|-36.832|149.801|AU|New South Wales|49|f
+Yetholm Loch|55.550|-2.317|GB|Scotland|49|f
+Yeto Island|10.406|122.554|PH|Western Visayas|49|f
+Yewbarrow|54.465|-3.277|GB|England|49|f
 Yesa|42.620|-1.204|ES|Navarre|48
 Yebes|40.532|-3.108|ES|Castille-La Mancha|48
 Yenimehmetli|39.420|32.169|TR|Ankara|47
 Yebra de Basa|42.486|-0.282|ES|Aragon|44
 Yélamos de Arriba|40.640|-2.843|ES|Castille-La Mancha|42
+Yeda Peak|57.382|-130.679|CA|British Columbia|40|f
+Yellow Belly Lake|44.001|-114.876|US|Idaho|40|f
+Yellow Crane Tower|30.547|114.297|CN|Hubei|40|f
+Yellow Hills|41.457|-119.365|US|Nevada|40|f
+Yellow Lake|45.047|-62.893|CA|Nova Scotia|40|f
+Yellow Lake|41.839|-86.442|US|Michigan|40|f
+Yellow Marsh Lake|44.587|-64.119|CA|Nova Scotia|40|f
+Yellow River Marsh Aquatic Preserve|30.542|-87.001|US|Florida|40|f
+Yellow River State Forest|43.155|-91.243|US|Iowa|40|f
+Yellow Smoke Park Bridge|42.031|-95.323|US|Iowa|40|f
+Yellowhead Lake|52.866|-118.531|CA|British Columbia|40|f
+Yellowhead Mountain|52.883|-118.602|CA|British Columbia|40|f
+Yellowstone Art Museum|45.785|-108.507|US|Montana|40|f
+Yellowtail Dam|45.307|-107.958|US|Montana|40|f
+Yenikend Reservoir|40.930|46.250|AZ||40|f
+Yeo Island|52.346|-128.106|CA|British Columbia|40|f
+Yeoman Island|72.265|-85.947|CA|Nunavut|40|f
+Yeonpyeong Island|37.631|125.697|KR|Incheon|40|f
+Yerba Buena Center for the Arts|37.783|-122.402|US|California|40|f
+Yerba Buena Gardens|37.785|-122.402|US|California|40|f
+Yeywa Dam|21.689|96.421|MM|Mandalay Region|40|f
+Yezin Agricultural University|19.833|96.275|MM|Mandalay Region|40|f
 Yélamos de Abajo|40.631|-2.858|ES|Castille-La Mancha|38
 Yenice|39.931|27.258|TR|Canakkale|38
 Yésero|42.619|-0.250|ES|Aragon|38
 Yelo|41.217|-2.517|ES|Castille and León|35
 Yémeda|39.767|-1.717|ES|Castille-La Mancha|28
 Ye Xian|33.624|113.360|CN|Henan|0
+Yeda|32.542|110.453|CN|Hubei|0
 Yeditepe|35.968|36.015|TR|Hatay|0
+Yedun|26.910|118.142|CN|Fujian|0
+Yege|34.575|95.342|CN|Qinghai|0
+Yehe|30.537|108.125|CN|Chongqing|0
+Yehpanas|-8.146|114.654|ID|Bali|0
+Yejia|30.408|119.288|CN|Anhui|0
 Yeken|38.388|77.229|CN|Xinjiang|0
+Yekexianbaibazha|39.274|76.584|CN|Xinjiang|0
 Yel’niki|54.621|43.882|RU|Mordoviya Republic|0
 Yel’tsovka|53.255|86.264|RU|Altai Krai|0
+Yeldersley|52.989|-1.662|GB|England|0
 Yélimané|15.119|-10.577|ML|Kayes|0
 Yelin|18.508|110.028|CN|Hainan|0
 Yelwa|10.835|4.742|NG|Kebbi|0
@@ -293,6 +483,10 @@ Yên Ninh|20.184|106.061|VN|Ninh Binh|0
 Yên Phú|22.732|105.371|VN|Tuyen Quang|0
 Yên Thành|18.999|105.471|VN|Nghệ An Province|0
 Yên Thịnh|20.162|106.007|VN|Ninh Binh|0
+Yenan|24.187|115.641|CN|Guangdong|0
+Yengiawat|41.352|79.469|CN|Xinjiang|0
+Yengimahalla|41.346|82.651|CN|Xinjiang|0
+Yengiyar|43.966|81.155|CN|Xinjiang|0
 Yenibaşak|38.804|40.992|TR|Bingöl|0
 Yenice|37.828|28.571|TR|Aydın|0
 Yenice|36.977|35.052|TR|Mersin|0
@@ -309,8 +503,13 @@ Yeomsan|35.218|126.372|KR|Jeollanam-do|0
 Yeoncheon|38.101|127.077|KR|Gyeonggi-do|0
 Yeongdeok|36.414|129.370|KR|Gyeongsangbuk-do|0
 Yeosu|34.719|127.748|KR|Jeollanam-do|0
+Yeping|25.906|116.070|CN|Jiangxi|0
 Yerbero|0.585|-79.484|EC|Esmeraldas|0
 Yerkesik|37.136|28.284|TR|Muğla|0
+Yesanguan|30.619|110.323|CN|Hubei|0
+Yeshan|32.514|118.914|CN|Jiangsu|0
+Yeshan|32.606|119.011|CN|Anhui|0
+Yeshi|28.309|114.934|CN|Jiangxi|0
 Yeşilce|40.536|37.796|TR|Ordu|0
 Yeşilova|38.410|33.838|TR|Aksaray|0
 Yeşilüzümlü|36.734|29.233|TR|Muğla|0
@@ -319,3 +518,11 @@ Yeşilyazı|39.335|39.081|TR|Tunceli|0
 Yeşilyurt|38.340|28.664|TR|Manisa|0
 Yeşilyurt|37.193|28.275|TR|Muğla|0
 Yeşilyurt|40.006|36.221|TR|Tokat Province|0
+Yetan|23.908|115.179|CN|Guangdong|0
+Yetang|24.194|115.662|CN|Guangdong|0
+Yexie|30.945|121.316|CN|Shanghai|0
+Yexu|32.394|119.929|CN|Jiangsu|0
+Yeyik|36.667|83.233|CN|Xinjiang|0
+Yezhi|27.702|99.126|CN|Yunnan|0
+Yezhu|28.553|110.051|CN|Hunan|0
+Yezhuping|28.675|109.293|CN|Hunan|0

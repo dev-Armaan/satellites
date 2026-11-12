@@ -29,6 +29,7 @@ Chama|-11.213|33.152|ZM|Muchinga|82
 Chamber|25.294|68.812|PK|Sindh|82
 Champlain Heights|49.209|-123.026|CA|British Columbia|82
 Chamestān|36.478|52.118|IR|Māzandarān|81
+Chamlang|27.775|86.980|NP|Koshi|81|f
 Chambray-lès-Tours|47.335|0.703|FR|Centre-Val de Loire|81
 Chamonix-Mont-Blanc|45.924|6.869|FR|Auvergne-Rhône-Alpes|81
 Chāmpua|22.067|85.665|IN|Odisha|80
@@ -36,6 +37,7 @@ Champerico|14.292|-91.913|GT|Retalhuleu|80
 Chambly|49.167|2.250|FR|Hauts-de-France|80
 Chamzinka|54.405|45.788|RU|Mordoviya Republic|80
 Champagnole|46.745|5.914|FR|Bourgogne-Franche-Comté|79
+Chamberlain Lake|46.221|-69.293|US|Maine|79|f
 Chamkhāleh|37.232|50.251|IR|Gilan Province|79
 Champigneulles|48.734|6.162|FR|Grand Est|77
 Champagne-sur-Seine|48.398|2.798|FR|Île-de-France|76
@@ -50,16 +52,22 @@ Champdoré|46.386|-64.782|CA|New Brunswick|74
 Champion|50.495|4.904|BE|Wallonia|74
 Champniers|45.715|0.204|FR|New Aquitaine|74
 Chamouny|-20.486|57.474|MU|Savanne|74
+Chambéry Airport|45.638|5.880|FR|Auvergne-Rhône-Alpes|73|f
+Chamisso Island|66.219|-161.828|US|Alaska|73|f
 Champawat|29.335|80.078|IN|Uttarakhand|73
+Chamonate Airport|-27.297|-70.414|CL|Atacama|72|f
 Champagne-sur-Oise|49.141|2.242|FR|Île-de-France|72
 Chamlykskaya|44.716|40.879|RU|Krasnodar Krai|71
 Champagney|47.705|6.682|FR|Bourgogne-Franche-Comté|71
 Champ-sur-Drac|45.069|5.732|FR|Auvergne-Rhône-Alpes|71
 Champagné|48.022|0.331|FR|Pays de la Loire|71
 Chamula|16.784|-92.690|MX|Chiapas|70
+Chamical Airport|-30.345|-66.294|AR|La Rioja|70|f
+Champ de Mars|48.856|2.298|FR|Île-de-France|70|f
 Chambrey|10.977|123.168|PH|Western Visayas|70
 Champhol|48.468|1.503|FR|Centre-Val de Loire|70
 Champcueil|48.516|2.447|FR|Île-de-France|69
+Chambers County-Winnie Stowell Airport|29.819|-94.429|US|Texas|69|f
 Chamerau|49.200|12.750|DE|Bavaria|69
 Chamoson|46.203|7.223|CH|Valais|68
 Champlan|48.708|2.280|FR|Île-de-France|68
@@ -81,6 +89,9 @@ Chameyrat|45.234|1.698|FR|New Aquitaine|64
 Champs-sur-Yonne|47.733|3.600|FR|Bourgogne-Franche-Comté|64
 Champdeniers-Saint-Denis|46.483|-0.400|FR|New Aquitaine|64
 Champdieu|45.645|4.047|FR|Auvergne-Rhône-Alpes|64
+Cham Shan|22.387|114.161|HK|Tsuen Wan|63|f
+Cham Tau Chau|22.379|114.289|HK||63|f
+Chambéry Challes-les-Eaux Aerodrome|45.561|5.977|FR|Auvergne-Rhône-Alpes|63|f
 Champvans|47.105|5.438|FR|Bourgogne-Franche-Comté|63
 Champagné-les-Marais|46.381|-1.121|FR|Pays de la Loire|63
 Chambellan|18.550|-74.313|HT|Grand'Anse|63
@@ -100,6 +111,8 @@ Champéry|46.175|6.869|CH|Valais|62
 Chamboulive|45.432|1.704|FR|New Aquitaine|61
 Champenoux|48.743|6.348|FR|Grand Est|61
 Champlon|50.108|5.502|BE|Wallonia|61
+Chamberlin Mill Covered Bridge|44.516|-72.010|US|Vermont|61|f
+Chambers Island|45.182|-87.355|US|Wisconsin|61|f
 Chamarande|48.517|2.217|FR|Île-de-France|61
 Champignelles|47.780|3.075|FR|Bourgogne-Franche-Comté|61
 Champlain|44.986|-73.447|US|New York|61
@@ -111,16 +124,111 @@ Chamant|49.220|2.612|FR|Hauts-de-France|60
 Champagne-Mouton|45.992|0.411|FR|New Aquitaine|60
 Chambon-sur-Voueize|46.190|2.425|FR|New Aquitaine|60
 Chama|36.903|-106.579|US|New Mexico|60
+Cham Khalīfeh|32.505|50.878|IR|Chaharmahal and Bakhtiari|60
+Chamblet|46.333|2.702|FR|Auvergne-Rhône-Alpes|60
+Champigny|49.268|3.971|FR|Grand Est|60
 Chámeza|5.214|-72.869|CO|Casanare Department|60
+Champilico|19.741|-97.260|MX|Veracruz|59
+Chamacuero|20.210|-101.402|MX|Michoacán|59
+Champagné-Saint-Hilaire|46.319|0.325|FR|New Aquitaine|59
+Champigny-sur-Veude|47.065|0.329|FR|Centre-Val de Loire|59
+Chambry|48.998|2.894|FR|Île-de-France|59
+Chamberino|32.040|-106.686|US|New Mexico|59
+Champeaux|48.585|2.807|FR|Île-de-France|59
+Chamouilley|48.607|5.046|FR|Grand Est|59
+Chamita|36.070|-106.097|US|New Mexico|59
+Champvert|46.841|3.510|FR|Bourgogne-Franche-Comté|59
+Champigny-le-Sec|46.716|0.156|FR|New Aquitaine|59
+Champanges|46.372|6.553|FR|Auvergne-Rhône-Alpes|58
+Champlost|48.025|3.670|FR|Bourgogne-Franche-Comté|58
+Chambon-sur-Cisse|47.562|1.215|FR|Centre-Val de Loire|58
+Chamborigaud|44.302|3.977|FR|Occitanie|58
+Chambe Peak|-15.898|35.524|MW|Southern Region|58|f
+Chamberlain Hill|42.390|-75.123|US|New York|58|f
+Chamberlin Gletscher|76.694|-68.331|GL|Avannaata|58|f
+Chambon|46.127|-0.849|FR|New Aquitaine|58
+Chambry|49.593|3.658|FR|Hauts-de-France|58
+Chambles|45.445|4.234|FR|Auvergne-Rhône-Alpes|58
+Chambost-Longessaigne|45.773|4.369|FR|Auvergne-Rhône-Alpes|58
+Champagnac-de-Belair|45.393|0.699|FR|New Aquitaine|57
+Champtercier|44.095|6.161|FR|Provence-Alpes-Côte d'Azur|57
+Chamoux-sur-Gelon|45.534|6.214|FR|Auvergne-Rhône-Alpes|57
+Champey|47.585|6.679|FR|Bourgogne-Franche-Comté|57
+Chamboret|46.006|1.138|FR|New Aquitaine|57
+Chamacua|20.674|-101.567|MX|Guanajuato|57
+Chamarel|-20.425|57.391|MU|Black River|57
+Champdeuil|48.621|2.729|FR|Île-de-France|57
+Chamulapa|15.053|-92.404|MX|Chiapas|57
+Champagne|46.243|5.221|FR|Auvergne-Rhône-Alpes|57
 Chamaca|-14.302|-71.853|PE|Cuzco Department|57
 Chambara|-12.028|-75.374|PE|Junin|57
+Champagne|46.832|6.660|CH|Vaud|57
+Champlay|47.951|3.438|FR|Bourgogne-Franche-Comté|57
+Chambon-la-Forêt|48.057|2.295|FR|Centre-Val de Loire|56
+Chamvres|47.957|3.363|FR|Bourgogne-Franche-Comté|56
+Chambost-Allières|46.018|4.499|FR|Auvergne-Rhône-Alpes|56
+Champagny-en-Vanoise|45.455|6.693|FR|Auvergne-Rhône-Alpes|56
+Champfromier|46.194|5.814|FR|Auvergne-Rhône-Alpes|56
+Chamelet|45.984|4.510|FR|Auvergne-Rhône-Alpes|56
+Chamadelle|45.104|-0.077|FR|New Aquitaine|56
+Chambonas|44.417|4.129|FR|Auvergne-Rhône-Alpes|55
+Champagnac-la-Rivière|45.711|0.913|FR|New Aquitaine|55
+Champgenéteux|48.291|-0.362|FR|Pays de la Loire|55
+Champigny-en-Beauce|47.712|1.253|FR|Centre-Val de Loire|55
+Champagne|45.832|-0.910|FR|New Aquitaine|55
+Champsac|45.703|0.957|FR|New Aquitaine|55
+Champdôtre|47.182|5.304|FR|Bourgogne-Franche-Comté|55
+Chamrousse|45.128|5.875|FR|Auvergne-Rhône-Alpes|55
+Champniers-et-Reilhac|45.672|0.731|FR|New Aquitaine|55
+Champagnolles|45.514|-0.637|FR|New Aquitaine|55
+Chamāz Tappeh|36.755|53.204|IR|Māzandarān|55
+Champéon|48.368|-0.518|FR|Pays de la Loire|55
+Chamblanc|47.019|5.151|FR|Bourgogne-Franche-Comté|55
+Chamaret|44.397|4.881|FR|Auvergne-Rhône-Alpes|54
+Cham Rūteh|33.456|46.956|IR|Ilam Province|54
+Chambri Lake|-4.258|143.112|PG|East Sepik Province|54|f
+Chameau Island|-66.771|141.601|AQ||54|f
+Chamechaude|45.288|5.788|FR|Auvergne-Rhône-Alpes|54|f
+Champagne Castle|-29.094|29.331|ZA|KwaZulu-Natal|54|f
+Champlain Canal|43.442|-73.447|US|New York|54|f
+Champillon|49.084|3.979|FR|Grand Est|54
+Champagne|45.273|4.800|FR|Auvergne-Rhône-Alpes|54
+Champ-le-Duc|48.196|6.722|FR|Grand Est|54
+Champnétery|45.833|1.572|FR|New Aquitaine|54
+Champvallon|47.936|3.345|FR|Bourgogne-Franche-Comté|54
+Champagnac|45.425|-0.382|FR|New Aquitaine|54
+Champmillon|45.640|-0.000|FR|New Aquitaine|54
 Champorcher|45.624|7.622|IT|Aosta Valley|53
 Chambave|45.744|7.549|IT|Aosta Valley|52
+Chamberlain Bridge|13.096|-59.614|BB|Saint Michael|49|f
+Chamberlin Glacier|-67.569|-65.737|AQ||49|f
+Chambers Glacier|-83.283|-49.416|AQ||49|f
+Chamcook Mountain|45.125|-67.083|CA|New Brunswick|49|f
+Champagny Island|-15.299|124.268|AU|Western Australia|49|f
+Champion Bay|-28.761|114.605|AU|Western Australia|49|f
+Champlain Bridge|45.470|-73.535|CA|Quebec|49|f
+Champlain Bridge|45.412|-75.763|CA|Quebec|49|f
+Chambers Bay|47.187|-122.576|US|Washington|40|f
+Chambers County Airport|29.771|-94.662|US|Texas|40|f
+Chambers Ford Bridge|41.884|-92.335|US|Iowa|40|f
+Chambers Lake|45.574|-65.081|CA|New Brunswick|40|f
+Chambers Lake|40.605|-105.853|US|Colorado|40|f
+Chamcook Lake|45.146|-67.093|CA|New Brunswick|40|f
+Chamizal National Memorial|31.767|-106.454|US|Texas|40|f
+Chammliberg|46.837|8.845|CH|Uri|40|f
+Champ Clark Bridge|39.457|-91.047|US|Illinois|40|f
+Champagne Pool|-38.358|176.360|NZ|Auckland|40|f
 Champdepraz|45.685|7.657|IT|Aosta Valley|40
+Champion Lakes|50.814|-114.599|CA|Alberta|40|f
+Champion Lakes|44.000|-114.686|US|Idaho|40|f
+Champion Lakes Park|49.183|-117.619|CA|British Columbia|40|f
+Champlain Trail Lakes|45.567|-76.749|CA|Ontario|40|f
+Champness Glacier|-71.417|164.367|AQ||40|f
 Chamartín|40.703|-4.958|ES|Castille and León|39
 Chamois|45.839|7.619|IT|Aosta Valley|39
 Chamanga|0.269|-79.955|EC|Esmeraldas|0
 Chambo|-1.731|-78.597|EC|Chimborazo Province|0
+Chame|28.554|84.251|NP|Gandaki Pradesh|0
 Chameta|8.100|-70.907|VE|Barinas|0
 Chamkar Leu|12.309|105.282|KH|Kampong Cham|0
 Chamni|14.786|102.823|TH|Buriram|0

@@ -1,6 +1,7 @@
 Bucharest|44.432|26.106|RO|Bucharest|125
 Bucheon-si|37.499|126.783|KR|Gyeonggi-do|119
 Bucaramanga|7.125|-73.119|CO|Santander Department|115
+Buckingham Palace|51.501|-0.143|GB|England|99|f
 Buchanan|5.877|-10.050|LR|Grand Bassa County|98
 Buckley|53.167|-3.083|GB|Wales|96
 Buckeye|33.370|-112.584|US|Arizona|94
@@ -14,6 +15,7 @@ Buchen in Odenwald|49.524|9.323|DE|Baden-Wurttemberg|85
 Buckingham|45.586|-75.421|CA|Quebec|84
 Buckhall|38.732|-77.431|US|Virginia|84
 Bucerías|20.758|-105.336|MX|Nayarit|84
+Bucharest Băneasa Aurel Vlaicu International Airport|44.503|26.102|RO|Bucharest|83|f
 Buco|-9.558|16.146|AO|Malanje|82
 Buco|14.083|120.990|PH|Calabarzon|82
 Buckingham|52.000|-0.988|GB|England|82
@@ -25,8 +27,10 @@ Bucyrus|40.808|-82.975|US|Ohio|82
 Buckhurst Hill|51.624|0.033|GB|England|81
 Buchs|47.167|9.478|CH|Saint Gallen|80
 Bucov|44.967|26.083|RO|Prahova|80
+Buck Island|17.787|-64.619|VI|Saint Croix Island|79|f
 Buckie|57.676|-2.962|GB|Scotland|79
 Buctzotz|21.202|-88.794|MX|Yucatán|78
+Buchanan Field Airport|37.989|-122.058|US|California|77|f
 Bučovice|49.149|17.002|CZ|South Moravian|77
 Bucşani|44.867|25.650|RO|Dâmbovița County|77
 Buchs|47.394|8.082|CH|Aargau|76
@@ -39,12 +43,15 @@ Büchenbach|49.268|11.059|DE|Bavaria|74
 Bucu|44.605|27.493|RO|Ialomița County|74
 Bucecea|47.767|26.433|RO|Botoșani County|74
 Bucești|45.653|27.530|RO|Galați County|73
+Bucareli Bay|55.361|-133.420|US|Alaska|73|f
+Buckland Airport|65.980|-161.139|US|Alaska|73|f
 Bucelas|38.902|-9.119|PT|Lisbon|73
 Buciumeni|45.150|25.450|RO|Dâmbovița County|73
 Buckley|47.163|-122.027|US|Washington|73
 Buchanan|41.827|-86.361|US|Michigan|73
 Buckhaven|56.171|-3.034|GB|Scotland|73
 Bucovăţ|44.300|23.750|RO|Dolj|72
+Bückeberg|52.259|9.208|DE|Lower Saxony|72|f
 Buczkowice|49.729|19.069|PL|Silesia|72
 Buckingham|26.675|-81.732|US|Florida|72
 Büchlberg|48.671|13.521|DE|Bavaria|72
@@ -57,12 +64,14 @@ Bucium-Orlea|45.583|22.967|RO|Hunedoara County|71
 Buch|48.652|12.163|DE|Bavaria|71
 Buchenbach|47.961|8.009|DE|Baden-Wurttemberg|71
 Buckenhof|49.593|11.050|DE|Bavaria|70
+Buccaneer Archipelago|-16.117|123.333|AU|Western Australia|70|f
 Buchbach|48.312|12.273|DE|Bavaria|70
 Buckner|39.133|-94.199|US|Missouri|70
 Bucoşniţa|45.300|22.267|RO|Caraș-Severin County|70
 Bucksport|44.574|-68.796|US|Maine|69
 Buciumi|47.033|23.067|RO|Sălaj County|69
 Buckeye Lake|39.934|-82.472|US|Ohio|69
+Bucks Airport|39.473|-75.184|US|New Jersey|69|f
 Buccino|40.637|15.381|IT|Campania|69
 Buckden|52.294|-0.249|GB|England|69
 Buciumeni|46.000|27.300|RO|Galați County|68
@@ -80,6 +89,8 @@ Buceş|46.183|22.933|RO|Hunedoara County|67
 Buchelay|48.979|1.670|FR|Île-de-France|67
 Bucinişu|43.950|24.250|RO|Olt|67
 Buchanan|41.262|-73.938|US|New York|67
+Buckingham Mountain|40.316|-75.041|US|Pennsylvania|67|f
+Buckinghamshire Railway Centre|51.864|-0.929|GB|England|67|f
 Bücken|52.778|9.135|DE|Lower Saxony|67
 Buciumeni|44.550|25.964|RO|Ilfov|67
 Buchin|45.367|22.250|RO|Caraș-Severin County|66
@@ -89,6 +100,8 @@ Buchten|51.043|5.810|NL|Limburg|66
 Bucy-le-Long|49.391|3.396|FR|Hauts-de-France|66
 Bucureşci|46.133|22.900|RO|Hunedoara County|66
 Buccheri|37.125|14.852|IT|Sicily|65
+Buckhorn Mountain|47.827|-123.116|US|Washington|65|f
+Buckley Air Force Base|39.706|-104.755|US|Colorado|65|f
 Buckfield|44.290|-70.365|US|Maine|65
 Bucium|46.233|23.217|RO|Alba County|65
 Bucchianico|42.304|14.184|IT|Abruzzo|65
@@ -101,6 +114,10 @@ Bucșoaia|47.540|25.811|RO|Suceava|64
 Bucciano|41.078|14.569|IT|Campania|64
 Buchholterberg|46.814|7.675|CH|Bern|64
 Buciumi|46.202|26.784|RO|Bacău County|63
+Buck Mountain|43.689|-110.819|US|Wyoming|63|f
+Bückeburg Air Base|52.279|9.082|DE|Lower Saxony|63|f
+Buckman Lake|47.573|-93.409|US|Minnesota|63|f
+Buckner Mountain|48.495|-120.998|US|Washington|63|f
 Buckhead Ridge|27.130|-80.894|US|Florida|63
 Buchères|48.235|4.113|FR|Grand Est|63
 Buch am Buchrain|48.215|11.995|DE|Bavaria|63
@@ -114,6 +131,8 @@ Buchanan|37.527|-79.680|US|Virginia|61
 Buchanan|33.803|-85.189|US|Georgia|61
 Büchel|50.173|7.083|DE|Rheinland-Pfalz|61
 Buchholz|53.988|9.224|DE|Schleswig-Holstein|61
+Bucaramanga Airport|7.127|-73.185|CO|Santander Department|61|f
+Buckley Island|39.398|-81.422|US|West Virginia|61|f
 Buč|46.219|14.720|SI|Municipality of Kamnik|61
 Bucova|45.509|22.637|RO|Caraș-Severin County|61
 Bucșenești-Lotași|45.013|24.968|RO|Arges|61
@@ -121,18 +140,144 @@ Buchbrunn|49.760|10.137|DE|Bavaria|61
 Bucșenești|45.301|24.658|RO|Arges|60
 Buckeystown|39.335|-77.432|US|Maryland|60
 Bucca|-24.867|152.100|AU|Queensland|60
+Buch am Wald|49.330|10.335|DE|Bavaria|60
 Buczek|51.502|19.164|PL|Łódź Voivodeship|60
+Buchhofen|48.697|12.925|DE|Bavaria|60
+Buch|50.076|7.389|DE|Rheinland-Pfalz|59
+Bucșana|45.064|23.715|RO|Gorj County|59
+Bucksport|33.665|-79.103|US|South Carolina|59
+Bucerdea Vinoasă|46.163|23.529|RO|Alba County|59
+Buciumi|47.470|23.489|RO|Maramureş|59
+Bucea|46.949|22.694|RO|Cluj County|58
+Buckleys|17.072|-61.813|AG|Saint John Parish|58
+Buca Bay|-16.662|179.856|FJ|Northern|58|f
+Bucegi Mountains|45.445|25.451|RO||58|f
+Buchschachtel-Berg|50.417|12.683|DE|Saxony|58|f
+Buck Creek Mountains|41.923|-115.585|US|Nevada|58|f
+Buckingham Lake|42.664|-73.807|US|New York|58|f
+Buckskin Mountains|34.155|-113.831|US|Arizona|58|f
+Bucklin|37.547|-99.634|US|Kansas|58
+Buchmany|51.069|28.042|UA|Zhytomyr Oblast|58
 Bucarasica|8.041|-72.865|CO|Norte de Santander Department|58
+Buchberg|47.573|8.563|CH|Schaffhausen|58
+Buckland Monachorum|50.495|-4.131|GB|England|58
+Buchila|46.455|26.878|RO|Bacău County|58
+Buchholz|52.227|9.128|DE|Lower Saxony|58
+Bucakşeyhler|36.847|31.468|TR|Antalya|57
 Bucknell|52.360|-2.951|GB|England|57
+Buciumeni|44.255|26.416|RO|Călărași County|57
+Buckley|44.504|-85.677|US|Michigan|57
 Buchkirchen|48.224|14.022|AT|Upper Austria|57
+Buchanan Lake Village|30.851|-98.449|US|Texas|57
+Buchcice|49.895|20.988|PL|Lesser Poland|56
+Buckten|47.410|7.845|CH|Basel-Landschaft|56
+Bucium|46.779|27.072|RO|Neamț County|56
+Buchheim|48.060|7.773|DE|Baden-Wurttemberg|56
+Bucovăț|45.790|22.152|RO|Timiș County|56
+Bucey-lès-Gy|47.423|5.843|FR|Bourgogne-Franche-Comté|56
+Buch|50.205|7.876|DE|Rheinland-Pfalz|56
+Buch|47.486|9.821|AT|Vorarlberg|56
+Bückler-Dörnler|47.508|8.515|CH|Zurich|55
+Buchans|48.825|-56.857|CA|Newfoundland and Labrador|55
+Buckland|51.678|-1.506|GB|England|55
+Bucovicior|44.299|23.353|RO|Dolj|55
+Buckley|40.597|-88.038|US|Illinois|55
+Bucoda|46.799|-122.870|US|Washington|55
+Buchschachen|47.317|16.100|AT|Burgenland|55
+Buchtel|39.462|-82.182|US|Ohio|55
+Bucuklu|40.262|43.055|TR|Kars Province|55
+Bucuroaia|46.929|22.183|RO|Bihor County|55
+Buchlyvie|56.116|-4.295|GB|Scotland|54
+Bucklesham|52.030|1.269|GB|England|54
+Bucinișu Mic|43.936|24.258|RO|Olt|54
+Buchan Airport|26.990|-82.374|US|Florida|54|f
+Buchananhalvøya|79.683|12.167|SJ||54|f
+Buchans Airport|48.848|-56.838|CA|Newfoundland and Labrador|54|f
+Buchenwald concentration camp|51.023|11.249|DE|Thuringia|54|f
+Buchenwald Concentration Camp|51.022|11.249|DE|Thuringia|54|f
+Buckeye Municipal Airport|33.421|-112.684|US|Arizona|54|f
+Buckhorn Lake|37.284|-83.407|US|Kentucky|54|f
+Buckingham Castle|51.998|-0.990|GB|England|54|f
+Buckingham Park|42.389|-83.324|US|Michigan|54|f
+Buckskin Bridge|39.334|-83.315|US|Ohio|54|f
+Buckskin Mountain|41.789|-117.553|US|Nevada|54|f
+Bucita|39.348|16.132|IT|Calabria|54
+Buckatunna|31.539|-88.529|US|Mississippi|54
+Buckholts|30.873|-97.125|US|Texas|54
+Bucareli|25.664|-103.535|MX|Durango|54
+Bucas Grande Island|9.674|125.949|PH|Caraga|49|f
+Buchanan Point|-60.700|-44.450|AQ||49|f
+Buchananisen|78.633|11.083|SJ|Svalbard|49|f
+Buchberg|50.855|14.675|DE|Saxony|49|f
+Bucher Glacier|-67.660|-66.833|AQ||49|f
+Buchschirm|50.570|10.032|DE|Hesse|49|f
+Buchsee|53.217|12.967|DE|Mecklenburg-Vorpommern|49|f
+Buck Island|18.424|-64.558|VG||49|f
+Buck Mountain|46.462|-105.438|US|Montana|49|f
+Buckingham Bay|-12.093|135.842|AU|Northern Territory|49|f
+Buckingham Canal|11.483|79.753|IN|Tamil Nadu|49|f
+Buckle Island|-66.833|163.200|AQ||49|f
+Buckley, Mount|-84.967|163.933|AQ||49|f
+Bucknell Ridge|-79.967|158.633|AQ||49|f
+Buckskin Range|38.992|-119.365|US|Nevada|49|f
+Buchet|50.233|6.317|DE|Rheinland-Pfalz|48
+Büchel|51.250|11.150|DE|Thuringia|48
+Buchholz|53.733|10.746|DE|Schleswig-Holstein|47
 Buchbach|47.696|15.984|AT|Lower Austria|47
+Buchfart|50.921|11.332|DE|Thuringia|45
+Buchhorst|53.386|10.566|DE|Schleswig-Holstein|44
 Bucakkışla|36.954|33.022|TR|Karaman|43
 Bucium|46.264|23.179|RO|Alba County|42
+Bucha|50.633|11.700|DE|Thuringia|40
+Buccaneer Bay Park|49.495|-123.991|CA|British Columbia|40|f
+Buccaneer State Park|30.261|-89.404|US|Mississippi|40|f
+Buchan Gulf|71.764|-74.342|CA|Nunavut|40|f
+Buchanan Bay|78.969|-75.180|CA|Nunavut|40|f
+Buchanan Lake|45.647|-61.102|CA|Nova Scotia|40|f
+Buchanan Lake|46.450|-95.555|US|Minnesota|40|f
+Buchberg|47.782|7.026|FR|Grand Est|40|f
+Büchel|46.898|9.080|CH|Glarus|40|f
+Bucher Peak|-75.333|-110.867|AQ||40|f
+Bucinch|56.092|-4.592|GB|Scotland|40|f
+Bučje|44.722|18.747|BA|Federation of B&H|40|f
+Buck Grove Bridge|41.914|-95.380|US|Iowa|40|f
+Buck Hill|44.723|-93.287|US|Minnesota|40|f
+Buck Lake|45.290|-65.965|CA|New Brunswick|40|f
+Buck Lake|52.985|-114.764|CA|Alberta|40|f
+Buck Mountain|37.605|-90.719|US|Missouri|40|f
+Buck Mountain|37.608|-90.393|US|Missouri|40|f
+Buck Mountain|37.664|-90.530|US|Missouri|40|f
+Buck Mountain|43.890|-74.404|US|New York|40|f
+Buck Mountain|40.951|-76.207|US|Pennsylvania|40|f
+Buck Shaw Stadium|37.350|-121.936|US|California|40|f
+Buckfast Abbey|50.493|-3.776|GB|England|40|f
+Buckhorn Island State Park|43.060|-78.981|US|New York|40|f
+Buckhorn Lake|44.486|-78.391|CA|Ontario|40|f
+Buckhorn Lake|29.887|-95.137|US|Texas|40|f
+Buckhorn Lake State Resort Park|37.316|-83.435|US|Kentucky|40|f
+Buckhorn Mountain|43.521|-74.221|US|New York|40|f
+Buckhorn Reservoir|35.709|-78.152|US|North Carolina|40|f
+Buckhorn State Park|43.942|-89.999|US|Wisconsin|40|f
+Buckingham Island|77.202|-91.001|CA|Nunavut|40|f
+Buckinghorse River Wayside Park|57.383|-122.836|CA|British Columbia|40|f
+Buckley Bay|49.528|-124.845|CA|British Columbia|40|f
+Buckner Glacier|48.487|-120.994|US|Washington|40|f
+Buckner Mountain|37.560|-90.339|US|Missouri|40|f
+Bucks Lake|39.882|-121.164|US|California|40|f
+Buckskin Glacier|62.988|-150.453|US|Alaska|40|f
+Buckton Castle|53.511|-2.018|GB|England|40|f
 Buccinasco|45.407|9.108|IT|Lombardy|38
 Buciegas|40.336|-2.462|ES|Castille-La Mancha|36
 Buca|38.398|27.167|TR|İzmir Province|0
 Bucak|37.869|39.062|TR|Şanlıurfa|0
 Bucay|17.540|120.719|PH|Cordillera|0
 Bucerdea-Grânoasă|46.200|23.833|RO|Alba County|0
+Buchang|21.779|111.922|CN|Guangdong|0
+Buchheim|48.010|8.986|DE|Baden-Wurttemberg|0
+Buchholz|52.676|9.677|DE|Lower Saxony|0
+Buchholz|51.533|10.867|DE|Thuringia|0
+Buchou|28.293|109.420|CN|Hunan|0
 Buçimas|40.891|20.681|AL|Korçë County|0
 Buckingham|37.550|-78.556|US|Virginia|0
+Bucu Kidul|-7.076|112.479|ID|East Java|0
+Bucu Lor|-7.073|112.480|ID|East Java|0

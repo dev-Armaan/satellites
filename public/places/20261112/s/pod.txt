@@ -2,6 +2,7 @@ Podlasie|53.250|23.000|PL||118|r
 Podgorica|42.441|19.263|ME|Podgorica|107
 Podolsk|55.424|37.555|RU|Moscow Oblast|105
 Podilskyi|48.504|32.280|UA|Kirovohrad|99
+Podgorica Airport|42.359|19.252|ME|Podgorica|93|f
 Podilsk|47.750|29.531|UA|Odesa|92
 Podaturpet|13.282|79.485|IN|Tamil Nadu|91
 Podujeva|42.911|21.193|XK|Pristina|91
@@ -64,6 +65,7 @@ Podłęże|50.015|20.168|PL|Lesser Poland|66
 Poddor’ye|57.469|31.111|RU|Novgorod Oblast|66
 Podegrodzie|49.577|20.589|PL|Lesser Poland|66
 Podenii Vechi|45.089|26.116|RO|Prahova|65
+Podkamennaya Tungus Airport|61.595|90.008|RU|Krasnoyarsk Krai|65|f
 Podenzana|44.206|9.942|IT|Tuscany|65
 Podlesnyy|53.940|38.269|RU|Tula Oblast|65
 Podgórzyn|50.833|15.682|PL|Lower Silesia|65
@@ -82,19 +84,81 @@ Podishor|48.043|23.867|UA|Zakarpattia|61
 Podgora|43.243|17.077|HR|Split-Dalmatia|61
 Podeni|44.881|22.543|RO|Mehedinți County|61
 Podsolnechnoye|53.150|52.019|RU|Samara Oblast|61
+Podilskyi Bridge|50.472|30.536|UA|Kyiv City|61|f
 Podstrana - Miljevac|43.492|16.543|HR|Split-Dalmatia|61
 Podolenii de Sus|46.857|28.015|RO|Iași County|60
 Podebłocie|51.640|21.744|PL|Mazovia|60
 Podstrana - Žminjača|43.509|16.539|HR|Split-Dalmatia|60
 Podelzig|52.472|14.535|DE|Brandenburg|60
 Podborki|54.181|35.931|RU|Kaluga Oblast|60
+Podriga|48.005|26.834|RO|Botoșani County|60
+Podgorje|46.217|14.583|SI|Municipality of Kamnik|60
+Podstrana – Sveti Martin|43.477|16.570|HR|Split-Dalmatia|60
+Podgorje|46.472|15.084|SI|Urban Municipality of Slovenj Gradec|60
+Podgumer|42.803|23.403|BG|Sofia-Capital|59
+Podkonice|48.800|19.258|SK|Banská Bystrica Region|59
+Podolí|49.041|17.529|CZ|Zlín|59
+Podgajci Posavski|44.951|18.831|HR|Vukovar-Srijem|59
+Podlesí|49.690|13.982|CZ|Central Bohemia|59
+Podmočani|41.024|21.051|MK|Resen|59
+Podeni|46.427|23.642|RO|Cluj County|59
+Podyachevo|56.263|37.249|RU|Moscow Oblast|59
+Podvinci|46.432|15.917|SI|Urban Municipality of Ptuj|59
+Podgorje|45.992|16.125|HR|Krapina-Zagorje|59
+Podu Rizii|44.707|25.583|RO|Dâmbovița County|59
+Podillya|47.300|31.133|UA|Mykolaiv|58
+Podljubelj|46.412|14.275|SI|Municipality of Tržič|58
+Podstrana - Grbavac|43.482|16.559|HR|Split-Dalmatia|58
+Podsarnie|49.553|19.790|PL|Lesser Poland|58
+Podprudnoye Lake|-70.763|11.608|AQ||58|f
+Podvodnyye Islands|39.802|49.466|AZ|Baki|58|f
+Podbrezje|46.300|14.283|SI|Municipality of Naklo|58
+Podu Lacului|45.643|26.990|RO|Vrancea|58
 Podgorač|45.459|18.223|HR|County of Osijek-Baranja|58
+Podilske|49.744|31.971|UA|Cherkasy|58
+Podkraj pri Velenju|46.352|15.089|SI|Urban Municipality of Velenje|58
+Podolí|49.050|17.200|CZ|South Moravian|58
+Poderia|40.094|15.383|IT|Campania|57
+Podgorje|45.825|17.347|HR|Virovitica-Podravina|57
+Podlesie Duże|51.629|21.154|PL|Mazovia|57
+Podbrdo|46.210|13.964|SI|Municipality of Tolmin|57
+Podu Lung|45.235|25.647|RO|Prahova|57
+Podevčevo|46.210|16.294|HR|Varaždin|57
+Podil|49.670|33.882|UA|Poltava|56
 Podravska Moslavina|45.786|17.983|HR|County of Osijek-Baranja|56
+Podgoria|45.108|26.310|RO|Prahova|56
+Podsedice|50.472|13.948|CZ|Ústí nad Labem Region|56
+Podolanka|50.163|14.605|CZ|Central Bohemia|56
+Podhorní Újezd a Vojice|50.391|15.514|CZ|Hradec Králové Region|56
+Podgradina|44.184|15.488|HR|Zadar|56
+Podu Hagiului|46.861|28.078|RO|Iași County|56
+Podstrana - Strožanac Gornji|43.500|16.546|HR|Split-Dalmatia|56
+Podișor|44.390|25.714|RO|Giurgiu County|56
+Podgrad|45.522|14.146|SI|Municipality of Ilirska Bistrica|56
+Podluhy|49.816|13.914|CZ|Central Bohemia|56
+Podhokhóri|40.831|24.025|GR|East Macedonia and Thrace|56
+Podei|46.409|26.443|RO|Bacău County|56
+Podu Doamnei|44.308|25.745|RO|Giurgiu County|55
 Podčetrtek|46.157|15.597|SI|Municipality of Podčetrtek|55
+Podu Broșteni|44.743|24.857|RO|Arges|55
+Podbrest|46.330|16.547|HR|Međimurje|55
+Podgajci Podravski|45.729|18.271|HR|County of Osijek-Baranja|55
+Podgora Krapinska|46.181|15.863|HR|Krapina-Zagorje|55
+Podvrh|45.834|15.686|HR|Zagreb County|55
+Podu Oltului|45.760|25.723|RO|Brașov County|55
+Podgorci|46.429|16.064|SI|Municipality of Ormož|54
+Podpeč|45.970|14.418|SI|Municipality of Brezovica|54
+Podreča|46.173|14.413|SI|Urban Municipality of Kranj|54
+Pod Rocks|-68.142|-67.492|AQ||54|f
+Podivka|46.656|33.816|UA|Kherson|54
+Podu Pitarului|44.340|26.379|RO|Călărași County|54
 Podedwórze|51.688|23.200|PL|Lublin|54
 Podbablje Gornje|43.393|17.180|HR|Split-Dalmatia|53
 Podington|52.254|-0.625|GB|England|53
 Podlehnik|46.335|15.879|SI|Municipality of Podlehnik|52
 Podcrkavlje|45.224|18.010|HR|Brod-Posavina|51
 Podvelka|46.588|15.328|SI|Municipality of Podvelka|51
+Podington Motte|52.256|-0.620|GB|England|40|f
+Podocarpus National Park|-4.357|-78.974|EC|Zamora Chinchipe|40|f
 Podrebar|45.398|15.288|HR|Karlovac|22
+Podu|28.754|106.826|CN|Guizhou|0

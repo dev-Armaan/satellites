@@ -38,16 +38,21 @@ Chaponnay|45.628|4.936|FR|Auvergne-Rhône-Alpes|71
 Chapel Saint Leonards|53.217|0.317|GB|England|71
 Chapulhuacanito|21.209|-98.670|MX|San Luis Potosí|71
 Chapada da Natividade|-11.613|-47.750|BR|Tocantins|70
+Chappaquiddick Island|41.375|-70.474|US|Massachusetts|70|f
 Chapeltique|13.633|-88.267|SV|San Miguel Department|70
 Chapultenango|17.340|-93.130|MX|Chiapas|70
 Chapadão do Lageado|-27.591|-49.554|BR|Santa Catarina|69
 Chaplyne|48.128|36.230|UA|Dnipropetrovsk|69
 Chaparaco|19.960|-102.260|MX|Michoacán|69
+Chapecó Airport|-27.134|-52.657|BR|Santa Catarina|69|f
+Chapman Peak|48.963|-114.024|US|Montana|69|f
 Chapopote Núñez|20.932|-97.684|MX|Veracruz|69
 Chāpeshlū|37.352|59.077|IR|Razavi Khorasan|68
 Chapareillan|45.465|5.992|FR|Auvergne-Rhône-Alpes|67
+Chapman Rocks|-62.495|-60.482|AQ||67|f
 Chapab|20.459|-89.457|MX|Yucatán|67
 Chapleau|47.841|-83.403|CA|Ontario|66
+Chapelco - Aviador Carlos Campos Airport|-40.075|-71.137|AR|Neuquen|65|f
 Chapantongo|20.285|-99.412|MX|Hidalgo|65
 Chapinería|40.379|-4.210|ES|Madrid|65
 Chapais|49.783|-74.849|CA|Quebec|65
@@ -55,6 +60,8 @@ Chapanay|-32.983|-68.467|AR|Mendoza|65
 Chapada de Areia|-10.142|-49.180|BR|Tocantins|64
 Chapin|34.166|-81.350|US|South Carolina|64
 Chaptelat|45.910|1.258|FR|New Aquitaine|64
+Chapleau Airport|47.821|-83.353|CA|Ontario|63|f
+Chappal Waddi|7.033|11.717|CM||63|f
 Chapel Hill|35.626|-86.693|US|Tennessee|63
 Chapopote Chico|21.137|-98.248|MX|Veracruz|63
 Chappaqua|41.160|-73.765|US|New York|63
@@ -63,11 +70,57 @@ Chapman|38.972|-97.023|US|Kansas|63
 Chapalilla|21.188|-104.638|MX|Nayarit|62
 Chapmanville|37.974|-82.017|US|West Virginia|62
 Chapet|48.967|1.933|FR|Île-de-France|62
+Chapman Island|-12.886|143.604|AU|Queensland|61|f
 Chapallal Grande|17.296|-92.945|MX|Chiapas|61
 Chapa|19.380|-101.665|MX|Michoacán|61
 Chapdes-Beaufort|45.893|2.864|FR|Auvergne-Rhône-Alpes|60
+Chapora|15.603|73.740|IN|Goa|60
+Chapar Pord|37.446|49.709|IR|Gilan Province|60
 Chapayevka|45.281|34.894|UA|Crimea|59
 Chappell|41.093|-102.471|US|Nebraska|59
 Chapa de Mota|19.814|-99.526|MX|México|59
+Chapelle-à-Wattines|50.613|3.655|BE|Wallonia|59
+Chapar Pord-e Zamānī|37.441|49.726|IR|Gilan Province|59
+Chapada dos Parecis|-13.000|-60.000|BR||58|f
+Chapman’s Peak|-34.089|18.360|ZA|Western Cape|58|f
+Chapultepec|17.565|-92.973|MX|Tabasco|57
+Chapon-Seraing|50.609|5.269|BE|Wallonia|57
+Chapicuy|-31.660|-57.888|UY|Paysandú Department|57
+Chapultepec|20.206|-97.545|MX|Veracruz|57
+Chapultepec|16.984|-97.577|MX|Oaxaca|57
+Chapeiry|45.850|6.033|FR|Auvergne-Rhône-Alpes|56
+Chapaya|-5.188|-79.426|PE|Piura|56
+Chapelton|55.712|-4.096|GB|Scotland|56
 Chapmanslade|51.229|-2.249|GB|England|56
+Chap Darreh|36.356|47.055|IR|West Azerbaijan|56
+Chapultepec (Santo Domingo)|18.487|-97.991|MX|Puebla|56
+Chapelle-Voland|46.802|5.377|FR|Bourgogne-Franche-Comté|55
+Chapin|39.881|-88.774|US|Illinois|55
+Chapada Diamantina Airport|-12.482|-41.277|BR|Bahia|54|f
+Chapin Mesa Museum|37.184|-108.488|US|Colorado|54|f
+Chapmans Pool|50.583|-2.083|GB|England|54|f
+Chapo Lake|-41.456|-72.491|CL|Los Lagos Region|54|f
+Chapopoapan|17.922|-95.086|MX|Veracruz|54
 Chapimarca|-13.975|-73.065|PE|Apurímac Department|51
+Chapada Diamantina National Park|-12.880|-41.401|BR|Bahia|49|f
+Chapar|28.960|66.694|PK|Balochistan|49|f
+Chapin Hill|41.601|-74.837|US|New York|49|f
+Chapman Glacier|-70.266|-67.783|AQ||49|f
+Chapman Historical Museum|43.312|-73.649|US|New York|49|f
+Chapman Peak|-78.183|-85.217|AQ||49|f
+Chapman Point|-65.918|-61.308|AQ||49|f
+Chapman Ridge|-67.448|60.970|AQ||49|f
+Chappel Island|-66.177|110.418|AQ||49|f
+Chapel Island|45.717|-60.782|CA|Nova Scotia|40|f
+Chapel Point State Park|38.469|-77.014|US|Maryland|40|f
+Chapfensee|47.047|9.382|CH|Saint Gallen|40|f
+Chapin Peak|-85.967|-131.667|AQ||40|f
+Chaplin Peak|-78.701|-85.459|AQ||40|f
+Chapman Bay|47.137|-122.847|US|Washington|40|f
+Chapman Field Park|25.641|-80.279|US|Florida|40|f
+Chapman Islands|67.901|-109.252|CA|Nunavut|40|f
+Chapman Lake|44.821|-63.529|CA|Nova Scotia|40|f
+Chapman Lake|43.559|-89.659|US|Wisconsin|40|f
+Chapman State Park|41.752|-79.178|US|Pennsylvania|40|f
+Chappell Peak|-79.950|-82.900|AQ||40|f
+Chaping|27.479|118.815|CN|Fujian|0

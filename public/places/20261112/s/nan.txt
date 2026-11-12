@@ -62,6 +62,8 @@ Nannambra|10.992|75.908|IN|Kerala|92
 Nanshu|37.020|120.337|CN|Shandong|92
 Nandigāma|16.772|80.286|IN|Andhra Pradesh|92
 Nangli Sakrawat|28.622|76.992|IN|Delhi|92
+Nanjing Lukou International Airport|31.742|118.862|CN|Jiangsu|91|f
+Nanga Parbat|35.237|74.589|PK|Gilgit-Baltistan|91|f
 Nanuque|-17.839|-40.354|BR|Minas Gerais|91
 Nanping|29.086|106.987|CN|Chongqing|90
 Nānjikkottai|10.729|79.142|IN|Tamil Nadu|90
@@ -82,6 +84,7 @@ Nangomba|-10.900|38.500|TZ|Mtwara|87
 Nang Rong|14.638|102.791|TH|Buriram|87
 Nandri|26.312|73.101|IN|Rajasthan|86
 Nandaime|11.757|-86.053|NI|Granada Department|86
+Nantucket Island|41.274|-70.043|US|Massachusetts|86|f
 Nangli|31.686|74.887|IN|Punjab|86
 Nanyamba|-10.683|39.833|TZ|Mtwara|86
 Nanauta|29.712|77.417|IN|Uttar Pradesh|85
@@ -91,6 +94,8 @@ Nangavaram|10.869|78.539|IN|Tamil Nadu|85
 Nanganga|-10.383|39.150|TZ|Mtwara|85
 Nantwich|53.069|-2.521|GB|England|85
 Nanaku|40.401|141.273|JP|Aomori|85
+Nanyang Jiangying Airport|32.981|112.615|CN|Henan|84|f
+Nantong Xingdong Airport|32.071|120.976|CN|Jiangsu|83|f
 Nandelav|21.720|72.996|IN|Gujarat|83
 Nanhyanga|-10.800|39.550|TZ|Mtwara|83
 Nānākuli|21.394|-158.154|US|Hawaii|82
@@ -116,6 +121,7 @@ Nandgad|15.577|74.569|IN|Karnataka|79
 Nandambakkam|12.978|80.068|IN|Tamil Nadu|79
 Nāngal Chaudhri|27.893|76.112|IN|Haryana|79
 Nandesari INA|22.406|73.095|IN|Gujarat|78
+Nan Wan Hu - Nam Van lake|22.186|113.541|MO||78|f
 Nangis|48.555|3.013|FR|Île-de-France|78
 Nandong|22.718|113.834|CN|Guangdong|78
 Nandi Hills|0.104|35.184|KE|Nandi|78
@@ -130,11 +136,14 @@ Nandy|48.583|2.563|FR|Île-de-France|77
 Nanhe|34.095|104.247|CN|Gansu|76
 Nangka|10.550|123.967|PH|Central Visayas|76
 Nanoose Bay|49.272|-124.193|CA|British Columbia|76
+Nanri Dao|25.208|119.507|CN|Fujian|76|f
 Nanhera|30.319|76.848|IN|Haryana|76
+Nantes Atlantique Airport|47.153|-1.611|FR|Pays de la Loire|75|f
 Nandibo Un|5.284|-4.921|CI|Lagunes District|75
 Nānpur|22.270|74.527|IN|Madhya Pradesh|75
 Nanawa|-25.279|-57.703|PY|Presidente Hayes|75
 Nanteuil-lès-Meaux|48.929|2.896|FR|Île-de-France|75
+Nanpō Shotō|30.000|140.000|JP|Tokyo|74|f
 Nané|7.688|-7.187|CI|Montagnes|74
 Nandlstadt|48.536|11.807|DE|Bavaria|74
 Nanbonkaha|9.741|-5.159|CI|Savanes District|74
@@ -145,6 +154,7 @@ Nangrékro|6.929|-5.861|CI|Sassandra-Marahoue|73
 Nandkharki|23.782|86.192|IN|Jharkhand|73
 Nangka|10.532|123.719|PH|Central Visayas|73
 Nantua|46.153|5.606|FR|Auvergne-Rhône-Alpes|73
+Nanda Kot|30.282|80.068|IN|Uttarakhand|72|f
 Nanyu|33.718|104.413|CN|Gansu|72
 Nangoniékaha|8.775|-5.230|CI|Vallée du Bandama District|72
 Nandgaon|19.901|79.306|IN|Maharashtra|72
@@ -157,11 +167,15 @@ Nanrenfu|39.646|117.192|CN|Tianjin|71
 Nangan|6.473|126.124|PH|Davao Region|71
 Nanteuil-le-Haudouin|49.141|2.811|FR|Hauts-de-France|71
 Nanyo|7.342|125.637|PH|Davao Region|70
+Nan Hu|31.100|118.969|CN|Anhui|70|f
+Nantucket Memorial Airport|41.257|-70.059|US|Massachusetts|70|f
 Nanga Merit|2.283|113.133|MY|Sarawak|70
 Nangilickondan|12.255|79.475|IN|Tamil Nadu|70
 Naniékaha|9.784|-5.143|CI|Savanes District|69
 Nañgka|8.167|124.183|PH|Northern Mindanao|69
 Nanty Glo|40.472|-78.833|US|Pennsylvania|69
+Nan Ling|25.000|112.000|CN||69|f
+Nansen Reef|-54.267|-36.150|GS||69|f
 Nant Hpar|26.068|95.804|MM|Sagaing Region|69
 Nangka|10.856|123.036|PH|Western Visayas|69
 Nantes|-22.621|-51.237|BR|São Paulo|68
@@ -177,9 +191,18 @@ Nanan|6.763|-5.236|CI|Yamoussoukro|67
 Nangokro|7.126|-4.725|CI|Lacs District|67
 Nanmaizhu|39.502|117.745|CN|Tianjin|67
 Nangalisan|16.434|120.478|PH|Cordillera|67
+Nanaimo Airport|49.052|-123.870|CA|British Columbia|67|f
+Nanchang Changbei International Airport|28.864|115.905|CN|Jiangxi|67|f
+Nancowry Island|7.983|93.533|IN|Andaman and Nicobar|67|f
+Nanjing Chang Jiang Di’er Daqiao|32.163|118.836|CN|Jiangsu|67|f
 Nanton|50.350|-113.769|CA|Alberta|67
 Nancalobasaan|15.934|120.843|PH|Ilocos|67
 Nanlourougokaha|9.526|-5.612|CI|Savanes District|66
+Nanhu Dashan|24.362|121.439|TW|Taiwan|65|f
+Nanhua Shuiku|23.088|120.543|TW|Taiwan|65|f
+Nanji-do|37.567|126.883|KR|Seoul|65|f
+Nantai San|36.768|139.487|JP|Tochigi|65|f
+Nanthi Lagoon|9.283|80.767|LK|Northern Province|65|f
 Nangakaha|9.567|-5.522|CI|Savanes District|65
 Nantiat|46.009|1.173|FR|New Aquitaine|65
 Nantzha|20.053|-99.369|MX|Hidalgo|65
@@ -188,6 +211,12 @@ Naninne|50.419|4.926|BE|Wallonia|64
 Nanteuil|46.412|-0.174|FR|New Aquitaine|64
 Nänikon|47.370|8.689|CH|Zurich|64
 Nåntuna|59.817|17.683|SE|Uppsala|64
+Nan Hulsan Hu|36.750|95.817|CN|Qinghai|63|f
+Nan Madol - Saudeleur Dynasty HQ 1200+|6.843|158.332|FM|Pohnpei State|63|f
+Nanakita-damu|38.358|140.737|JP|Miyagi|63|f
+Nananu-i-Cake|-17.321|178.230|FJ|Western|63|f
+Nantha Kyun|18.064|94.089|MM|Rakhine|63|f
+Nanyuki Airport|-0.067|37.033|KE|Nyeri County|63|f
 Nanteuil-en-Vallée|46.001|0.322|FR|New Aquitaine|63
 Nanawale Estates|19.506|-154.912|US|Hawaii|63
 Nanmuping|27.311|109.679|CN|Hunan|62
@@ -197,6 +226,13 @@ Nána|47.814|18.696|SK|Nitra Region|62
 Nanortalik|60.142|-45.241|GL|Kujalleq|61
 Nanacatlán|20.004|-97.676|MX|Puebla|61
 Nanum|-12.645|141.862|AU|Queensland|61
+Nancy-Essey Airport|48.692|6.230|FR|Grand Est|61|f
+Nangō San|35.177|139.104|JP|Kanagawa|61|f
+Nanos|45.772|14.053|SI|Municipality of Vipava|61|f
+Nansen Island|-64.583|-62.083|AQ||61|f
+Nantahala Lake|35.168|-83.668|US|North Carolina|61|f
+Nantucket Whaling Museum|41.285|-70.099|US|Massachusetts|61|f
+Nanwan Shuiku|32.093|113.958|CN|Henan|61|f
 Nanbanakaha|8.910|-5.162|CI|Vallée du Bandama District|61
 Nanéko|5.547|-5.240|CI|Goh-Djiboua|61
 Nancray|47.245|6.183|FR|Bourgogne-Franche-Comté|61
@@ -204,41 +240,326 @@ Nandékro|7.311|-4.594|CI|Lacs District|61
 Naniasso|10.421|-6.479|CI|Savanes District|60
 Nana Glen|-30.133|153.017|AU|New South Wales|60
 Nānvā|36.666|57.500|IR|Razavi Khorasan|60
+Nanakri|9.561|-5.831|CI|Savanes District|60
+Nantheuil|45.414|0.944|FR|New Aquitaine|60
+Nanan|5.975|-4.796|CI|Lagunes District|60
+Nane|4.659|-7.044|CI|Bas-Sassandra District|60
+Nanakaha|9.368|-5.471|CI|Savanes District|60
+Nanbatyouroukaha|9.309|-5.522|CI|Savanes District|60
+Nannup|-33.979|115.765|AU|Western Australia|59
+Nant|44.022|3.301|FR|Occitanie|59
+Nangy|46.155|6.306|FR|Auvergne-Rhône-Alpes|59
+Nănești|46.455|27.114|RO|Bacău County|58
+Nănești|47.838|24.011|RO|Maramureş|58
+Nançay|47.350|2.193|FR|Centre-Val de Loire|58
+Nanikai Village|1.330|172.998|KI|Gilbert Islands|58
+Nananu-i-Ra Island|-17.286|178.216|FJ|Western|58|f
+Nanchao Lingmu Shike|32.084|119.695|CN|Jiangsu|58|f
+Nanchong Gaoping Airport|30.756|106.061|CN|Sichuan|58|f
+Nanda Devi|30.376|79.971|IN|Uttarakhand|58|f
+Nanded Airport|19.182|77.323|IN|Maharashtra|58|f
+Nanga Parbat Mountain|51.705|-116.865|CA|Alberta|58|f
+Nanjing Chang Jiang Daqiao|32.115|118.739|CN|Jiangsu|58|f
+Nanjing Chang Jiang Disan Daqiao|31.972|118.640|CN|Jiangsu|58|f
+Nanny Mountain|35.074|-81.103|US|South Carolina|58|f
+Nansenbreen|78.357|14.011|SJ|Svalbard|58|f
+Nanuya Levu Island|-16.960|177.376|FJ|Western|58|f
+Nānesā’|37.431|45.925|IR|East Azerbaijan|58
+Nanaj|34.420|48.754|IR|Hamadan Province|58
+Nandala|8.095|-6.417|CI|Woroba|58
+Nanteau-sur-Lunain|48.257|2.811|FR|Île-de-France|57
+Nangtaw|21.772|98.876|MM|Shan State|57
+Nandé Klokro|7.449|-4.576|CI|Lacs District|57
+Nanacamila|20.010|-98.118|MX|Puebla|56
+Nandax|46.098|4.166|FR|Auvergne-Rhône-Alpes|56
+Nanton|46.620|4.817|FR|Bourgogne-Franche-Comté|55
+Nanzintla|17.335|-99.098|MX|Guerrero|55
+Nandrin|50.507|5.419|BE|Wallonia|55
+Nanbirgèkaha|9.532|-5.187|CI|Savanes District|55
+Nanayatla|20.824|-98.262|MX|Hidalgo|55
+Nanom|12.100|-0.717|BF|Plateau-Central|55
+Nantgaredig|51.871|-4.189|GB|Wales|54
+Nantilly|47.458|5.527|FR|Bourgogne-Franche-Comté|54
+Nanchang Yaohu Airport|28.703|116.105|CN|Jiangxi|54|f
+Nanda Ghungti|30.349|79.719|IN|Uttarakhand|54|f
+Nanga Pinoh Airport|-0.349|111.748|ID|West Kalimantan|54|f
+Nankishirahama Airport|33.662|135.364|JP|Wakayama|54|f
+Nanning Airport|22.608|108.172|CN|Guangxi|54|f
+Nanny Town|18.067|-76.533|JM|Portland Parish|54|f
+Nanping Wuyishan Airport|27.702|118.001|CN|Fujian|54|f
+Nansen Fjord|68.300|-29.883|GL|Sermersooq|54|f
+Nantahala National Forest|35.234|-83.559|US|North Carolina|54|f
+Nantua Lake|46.161|5.588|FR|Auvergne-Rhône-Alpes|54|f
+Nanuya Lailai Island|-16.947|177.375|FJ|Western|54|f
+Nannhausen|49.967|7.483|DE|Rheinland-Pfalz|54
+Nangwarry|-37.546|140.815|AU|South Australia|54
+Nanteuil-sur-Marne|48.978|3.220|FR|Île-de-France|54
 Nanno|46.315|11.047|IT|Trentino-Alto Adige|53
+Nance Ridge|-84.383|-65.600|AQ||49|f
+Ñanco Lauquen Airport|-35.972|-62.773|AR|Buenos Aires|49|f
+Nandewar Range|-30.353|150.235|AU|New South Wales|49|f
+Nangar National Park|-33.433|148.508|AU|New South Wales|49|f
+Naniruaq|62.534|-70.565|CA|Nunavut|49|f
+Nanon Island|-9.158|152.424|PG|Milne Bay Province|49|f
+Nansen, Mount|-74.667|162.750|AQ||49|f
+Nanshan Island|10.732|115.803|VN||49|f
+Nanyang Technological University|1.345|103.681|SG||49|f
 Nanchoc|-6.960|-79.242|PE|Cajamarca Department|48
 Nanumanga|-6.290|176.320|TV||48|r
+Nanaimo Lakes|49.100|-124.186|CA|British Columbia|40|f
+Nancy Greene Park|49.250|-117.936|CA|British Columbia|40|f
+Nancy Lake State Recreation Area|61.685|-149.966|US|Alaska|40|f
+Nangarhar University|34.472|70.369|AF|Nangarhar|40|f
+Nangmagvik Lake|74.151|-120.003|CA|Northwest Territories|40|f
+Nanook Dome|57.716|-130.621|CA|British Columbia|40|f
+Nanortut Island|68.234|-113.303|CA|Nunavut|40|f
+Nansemond National Wildlife Refuge|36.818|-76.546|US|Virginia|40|f
+Nanstein Castle|49.410|7.573|DE|Rheinland-Pfalz|40|f
+Nantucket Historic District|41.283|-70.099|US|Massachusetts|40|f
+Nantucket National Wildlife Refuge|41.390|-70.050|US|Massachusetts|40|f
+Nanukton Island|68.151|-112.820|CA|Nunavut|40|f
+Nanzen-ji|35.011|135.794|JP|Kyoto|40|f
 Na Noi|18.326|100.714|TH|Nan|0
 Nan’an|25.404|114.357|CN|Jiangxi|0
+Nan’an|29.783|103.494|CN|Sichuan|0
+Nan’an|27.813|115.229|CN|Jiangxi|0
 Nan’an|23.031|112.451|CN|Guangdong|0
+Nan’ao|22.541|114.490|CN|Guangdong|0
 Nana Candundo|-11.516|23.016|AO|Moxico|0
+Nanbao|19.682|109.596|CN|Hainan|0
+Nancai|40.136|116.696|CN|Beijing|0
+Nancha|40.410|95.663|CN|Gansu|0
 Nanchangshan|37.915|120.732|CN|Shandong|0
 Nanchangshan|37.930|120.729|CN|Shandong|0
 Nanchansi|31.562|120.300|CN|Jiangsu|0
+Nancheng|34.562|119.224|CN|Jiangsu|0
+Nancheng|25.637|118.384|CN|Fujian|0
+Nancheng|23.025|113.744|CN|Guangdong|0
+Nancheng|31.208|113.697|CN|Hubei|0
+Nancheng|28.612|121.263|CN|Zhejiang|0
+Nancheng|29.835|106.052|CN|Chongqing|0
 Nancova|-16.390|18.987|AO||0
+Nancun|38.062|114.637|CN|Hebei|0
 Nancun|35.464|112.796|CN|Shanxi|0
+Nancun|27.310|115.920|CN|Jiangxi|0
+Nancun|23.014|113.389|CN|Guangdong|0
 Nandan|24.982|107.542|CN|Guangxi|0
+Nandashan|29.012|112.714|CN|Hunan|0
+Nandayue|38.475|114.791|CN|Hebei|0
+Nandian|38.386|114.127|CN|Hebei|0
+Nandiantou|38.721|114.897|CN|Hebei|0
+Nandianzi|41.282|124.370|CN|Liaoning|0
+Nandiao|21.252|110.446|CN|Guangdong|0
+Nandong|38.103|114.758|CN|Hebei|0
+Nandu|31.442|119.329|CN|Jiangsu|0
+Nandu|31.428|119.373|CN|Jiangsu|0
+Nandulehe|40.171|117.213|CN|Beijing|0
+Nanfang|34.709|108.333|CN|Shaanxi|0
+Nanfaxin|40.121|116.603|CN|Beijing|0
+Nanfeng|31.069|119.215|CN|Anhui|0
+Nanfeng|31.880|120.665|CN|Jiangsu|0
+Nanfeng|29.263|116.561|CN|Jiangxi|0
+Nanfeng|28.859|120.737|CN|Zhejiang|0
+Nanfeng|38.314|100.884|CN|Gansu|0
 Nàng Mau|9.751|105.534|VN|Can Tho City|0
 Nanga Bulik|-2.162|111.489|ID|Central Kalimantan|0
+Nangabere|-8.817|119.965|ID|East Nusa Tenggara|0
 Nangah Pinoh|-0.333|111.733|ID|West Kalimantan|0
+Nangahale|-8.559|122.507|ID|East Nusa Tenggara|0
+Nangahaledoi|-8.633|122.319|ID|East Nusa Tenggara|0
+Nangahure|-8.570|122.166|ID|East Nusa Tenggara|0
+Nangahurebukitpermai|-8.563|122.159|ID|East Nusa Tenggara|0
+Nangakeo|-8.795|121.568|ID|East Nusa Tenggara|0
+Nangalili|-8.777|120.131|ID|East Nusa Tenggara|0
+Nangalimang|-8.647|122.206|ID|East Nusa Tenggara|0
+Nangan|28.277|107.883|CN|Guizhou|0
+Nangang|34.244|119.144|CN|Jiangsu|0
+Nangang|23.101|113.542|CN|Guangdong|0
+Nangang|28.090|114.842|CN|Jiangxi|0
+Nanganumba|-8.470|121.223|ID|East Nusa Tenggara|0
+Nangaoqiao|30.921|120.098|CN|Zhejiang|0
+Nangapanda|-8.793|121.469|ID|East Nusa Tenggara|0
+Nangaraba|-8.315|118.768|ID|West Nusa Tenggara|0
 Nangaroro|-8.787|121.392|ID|East Nusa Tenggara|0
+Nangela|-7.206|108.536|ID|West Java|0
+Nanger|-6.984|113.307|ID|East Java|0
+Nangerang|-7.110|106.799|ID|West Java|0
+Nangerang|-7.236|107.921|ID|West Java|0
+Nangerang|-7.756|108.225|ID|West Java|0
+Nangewer|-7.314|108.070|ID|West Java|0
+Nangewer|-7.249|108.407|ID|West Java|0
+Nanggela|-7.133|108.132|ID|West Java|0
+Nanggela|-7.242|108.196|ID|West Java|0
+Nangger|-7.033|113.633|ID|East Java|0
+Nanggewer|-7.102|108.163|ID|West Java|0
+Nanggorak|-7.316|108.100|ID|West Java|0
+Nangka|-7.007|108.471|ID|West Java|0
+Nangkapayung|-7.460|107.922|ID|West Java|0
+Nangkaruka|-7.433|107.646|ID|West Java|0
+Nangkasari|-7.098|107.883|ID|West Java|0
+Nangkasari|-7.527|108.177|ID|West Java|0
+Nangoh|-7.644|107.723|ID|West Java|0
+Nangoh Tonggoh|-7.267|107.848|ID|West Java|0
+Nangtang|-7.348|107.987|ID|West Java|0
+Nangu|38.539|100.460|CN|Gansu|0
 Nanguan|43.862|125.343|CN|Jilin|0
+Nanguzhuang|33.900|112.877|CN|Henan|0
 Nangxian|29.047|93.088|CN|Tibet|0
 Nanhai|21.473|111.027|CN|Guangdong|0
+Nanhai|25.376|119.718|CN|Fujian|0
+Nanhai|30.128|111.778|CN|Hubei|0
+Nanhe|34.250|119.767|CN|Jiangsu|0
+Nanhe|32.173|111.509|CN|Hubei|0
+Nanhe|30.493|113.774|CN|Hubei|0
+Nanhe|30.593|115.630|CN|Hubei|0
+Nanheng|24.702|114.798|CN|Jiangxi|0
+Nanhezhong|39.485|113.257|CN|Shanxi|0
+Nanhu|35.338|105.960|CN|Gansu|0
+Nanhu|31.169|114.998|CN|Hubei|0
+Nanhua|39.317|99.783|CN|Gansu|0
+Nanhuang|36.978|121.792|CN|Shandong|0
+Nanhuatang|33.116|110.910|CN|Hubei|0
+Nanjia|35.811|111.367|CN|Shanxi|0
 Nanjiang|32.354|106.832|CN|Sichuan|0
+Nanjiangkou|23.126|111.810|CN|Guangdong|0
+Nanjiao|39.765|115.840|CN|Beijing|0
+Nanjiao|31.713|113.350|CN|Hubei|0
 Nanjie|35.736|107.635|CN|Gansu|0
 Nanjie|23.634|112.435|CN|Guangdong|0
+Nanjie|35.427|111.308|CN|Shanxi|0
+Nanjie|26.087|119.290|CN|Fujian|0
 Nanjie|38.955|100.472|CN|Gansu|0
+Nanjie|41.018|119.052|CN|Liaoning|0
+Nanjing|24.686|114.401|CN|Jiangxi|0
+Nanjing|23.340|116.297|CN|Guangdong|0
+Nankai|19.080|109.409|CN|Hainan|0
 Nankang|29.447|116.041|CN|Jiangxi|0
+Nankang|33.658|105.885|CN|Gansu|0
+Nankeng|26.604|115.668|CN|Jiangxi|0
+Nankou|26.626|117.418|CN|Fujian|0
+Nankou|24.274|115.988|CN|Guangdong|0
+Nankou|40.236|116.125|CN|Beijing|0
+Nankou|29.751|112.331|CN|Hubei|0
+Nankouqian|41.987|124.601|CN|Liaoning|0
+Nankun|19.321|109.942|CN|Hainan|0
+Nanlang|22.492|113.537|CN|Guangdong|0
 Nanle|36.073|115.199|CN|Henan|0
+Nanlin|18.413|109.609|CN|Hainan|0
+Nanling|23.322|115.406|CN|Guangdong|0
+Nanling|25.771|119.496|CN|Fujian|0
+Nanlinqiao|29.572|114.348|CN|Hubei|0
+Nanlou|38.268|114.547|CN|Hebei|0
+Nanlu|30.641|119.872|CN|Zhejiang|0
+Nanlü|19.250|110.075|CN|Hainan|0
+Nanmeng|38.206|114.776|CN|Hebei|0
+Nanmenxia|36.991|101.907|CN|Qinghai|0
+Nanmiao|27.688|114.413|CN|Jiangxi|0
+Nanmo|32.595|120.277|CN|Jiangsu|0
+Nanmu|25.162|114.556|CN|Guangdong|0
+Nanmu|28.881|110.910|CN|Hunan|0
+Nanmu|27.988|114.166|CN|Jiangxi|0
+Nanni|28.824|89.651|CN|Tibet|0
+Nanniu|38.197|114.641|CN|Hebei|0
 Nanpi|38.041|116.695|CN|Hebei|0
+Nanping|30.431|108.794|CN|Hubei|0
+Nanping|29.909|112.074|CN|Hubei|0
+Nanping|22.226|113.497|CN|Guangdong|0
 Nanping|29.541|106.588|CN|Chongqing|0
+Nanping|42.263|129.204|CN|Jilin|0
+Nanping|33.015|106.390|CN|Shaanxi|0
 Nanping|29.067|111.686|CN|Hunan|0
+Nanpinggang|29.065|111.685|CN|Hunan|0
+Nanpu|24.255|117.546|CN|Fujian|0
+Nanqi|24.725|116.314|CN|Guangdong|0
+Nanqiao|18.674|110.142|CN|Hainan|0
+Nanqiao|38.515|114.562|CN|Hebei|0
+Nanqiao|24.794|115.715|CN|Jiangxi|0
+Nanqiao|28.738|114.072|CN|Hunan|0
+Nanqiao|21.268|110.359|CN|Guangdong|0
+Nanqiu|36.900|106.723|CN|Gansu|0
+Nanquan|39.420|113.177|CN|Shanxi|0
+Nanri|25.217|119.478|CN|Fujian|0
 Nansan|23.796|98.804|CN|Yunnan|0
+Nansan|21.152|110.551|CN|Guangdong|0
+Nansha|32.173|120.220|CN|Jiangsu|0
 Nansha|23.180|102.833|CN|Yunnan|0
+Nansha|22.804|113.568|CN|Guangdong|0
+Nanshan|25.599|116.496|CN|Fujian|0
+Nanshan|26.620|118.325|CN|Fujian|0
+Nanshan|23.490|115.967|CN|Guangdong|0
+Nanshan|28.803|118.085|CN|Jiangxi|0
+Nanshan|20.313|110.164|CN|Guangdong|0
 Nanshan|47.313|130.280|CN|Heilongjiang|0
+Nanshanping|29.317|110.894|CN|Hunan|0
+Nanshao|40.206|116.280|CN|Beijing|0
+Nanshe|34.773|109.111|CN|Shaanxi|0
+Nansheng|21.733|110.708|CN|Guangdong|0
+Nansheng|18.728|109.597|CN|Hainan|0
+Nansheng|22.828|112.062|CN|Guangdong|0
+Nanshenzao|32.783|120.533|CN|Jiangsu|0
+Nanshi|34.360|108.462|CN|Shaanxi|0
+Nanshi|34.651|109.628|CN|Shaanxi|0
+Nanshi|29.149|120.230|CN|Zhejiang|0
+Nanshi|39.127|117.182|CN|Tianjin|0
+Nanshui|22.033|113.240|CN|Guangdong|0
+Nantai|28.492|116.404|CN|Jiangxi|0
+Nantang|22.911|115.914|CN|Guangdong|0
+Nantang|22.062|110.789|CN|Guangdong|0
+Nantian|27.921|119.957|CN|Zhejiang|0
+Nantong|25.938|119.253|CN|Fujian|0
 Nanumea|-5.655|176.088|TV||0|r
+Nanwan|23.350|115.510|CN|Guangdong|0
+Nanwan|22.599|114.130|CN|Guangdong|0
+Nanwang|37.763|120.793|CN|Shandong|0
+Nanwei|34.358|108.542|CN|Shaanxi|0
+Nanxi|31.113|108.837|CN|Chongqing|0
+Nanxi|28.496|120.309|CN|Zhejiang|0
+Nanxi|23.506|116.240|CN|Guangdong|0
+Nanxia|26.281|117.874|CN|Fujian|0
+Nanxiang|31.300|121.312|CN|Shanghai|0
+Nanxiashu|31.630|119.939|CN|Jiangsu|0
+Nanxindian|35.970|111.359|CN|Shanxi|0
+Nanxing|33.768|106.671|CN|Shaanxi|0
+Nanxing|20.804|110.094|CN|Guangdong|0
+Nanxing|38.182|114.053|CN|Hebei|0
+Nanxinxiang|28.801|116.063|CN|Jiangxi|0
 Nanxun|30.869|120.420|CN|Zhejiang|0
+Nanya|26.876|118.307|CN|Fujian|0
+Nanyan|28.399|117.448|CN|Jiangxi|0
+Nanyanchuan|38.475|114.230|CN|Hebei|0
+Nanyang|31.874|121.709|CN|Jiangsu|0
+Nanyang|27.393|119.589|CN|Fujian|0
+Nanyang|26.357|117.967|CN|Fujian|0
+Nanyang|25.403|117.346|CN|Fujian|0
+Nanyang|25.027|116.953|CN|Fujian|0
+Nanyang|24.848|103.134|CN|Yunnan|0
+Nanyang|34.488|107.930|CN|Shaanxi|0
+Nanyang|29.735|115.516|CN|Jiangxi|0
+Nanyang|30.263|120.443|CN|Zhejiang|0
+Nanyang|31.315|110.669|CN|Hubei|0
+Nanyang|33.127|120.586|CN|Jiangsu|0
+Nanyi|29.448|115.326|CN|Jiangxi|0
+Nanyi|29.183|94.190|CN|Tibet|0
+Nanying|31.734|112.291|CN|Hubei|0
+Nanyingmen|39.117|117.179|CN|Tianjin|0
+Nanyu|25.978|119.216|CN|Fujian|0
+Nanyuan|39.803|116.390|CN|Beijing|0
+Nanyuan|27.488|116.408|CN|Jiangxi|0
+Nanyuan|27.477|119.778|CN|Zhejiang|0
+Nanyuankou|29.854|118.490|CN|Anhui|0
+Nanyue|28.186|121.080|CN|Zhejiang|0
+Nanyuemiao|27.127|110.852|CN|Hunan|0
+Nanyulin|39.741|113.566|CN|Shanxi|0
+Nanyulinxi|39.209|112.681|CN|Shanxi|0
+Nanzamu|41.969|124.411|CN|Liaoning|0
+Nanzha|31.855|120.241|CN|Jiangsu|0
+Nanzhai|34.657|107.174|CN|Shaanxi|0
+Nanzhai|38.370|114.392|CN|Henan|0
 Nanzhao|33.487|112.434|CN|Henan|0
 Nanzhao|23.720|117.171|CN|Fujian|0
 Nanzhao|25.222|100.303|CN|Yunnan|0
+Nanzhen|29.872|110.548|CN|Hubei|0
 Nanzheng Chengguanzhen|33.005|106.935|CN|Shaanxi|0
+Nanzhihui|34.471|107.356|CN|Shaanxi|0
+Nanzhuang|22.988|113.003|CN|Guangdong|0
+Nanzhuang|36.069|107.982|CN|Gansu|0

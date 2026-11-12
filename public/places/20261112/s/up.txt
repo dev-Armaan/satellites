@@ -1,12 +1,12 @@
-Upper Austria|48.250|14.000|AT||119|r
+Upper Austria|48.250|14.000|AT||120|r
 Upper Matsiatra|-21.370|46.500|MG||109|r
 Upper West Side|40.787|-73.975|US|New York|107
 Upper East|10.750|-0.750|GH||105|r
 Uppsala|59.859|17.639|SE|Uppsala|105
 Upper West|10.333|-2.250|GH||105|r
 Upper Nile|10.000|32.700|SS||105|r
+Upper River|13.367|-14.167|GM||102|r
 Uppal Kalan|17.406|78.559|IN|Telangana|101
-Upper River|13.367|-14.167|GM||101|r
 Upata|8.016|-62.406|VE|Bolívar|101
 Upland|34.098|-117.648|US|California|98
 Upington|-28.448|21.256|ZA|Northern Cape|97
@@ -25,6 +25,7 @@ Upper Saint Clair|40.336|-80.083|US|Pennsylvania|86
 Upper Norwood|51.415|-0.093|GB|England|84
 Upper Grand Lagoon|30.163|-85.741|US|Florida|83
 Upanema|-5.642|-37.258|BR|Rio Grande do Norte|83
+Upernavik Airport|72.790|-56.129|GL|Avannaata|82|f
 Upper Wong Tai Sin Estate|22.343|114.192|HK|Wong Tai Sin District|82
 Upper Montclair|40.846|-74.201|US|New Jersey|81
 Uppala|12.684|74.901|IN|Kerala|81
@@ -33,12 +34,15 @@ Uppermill|53.549|-2.005|GB|England|81
 Upper Roxborough|40.060|-75.239|US|Pennsylvania|81
 Upminster|51.556|0.256|GB|England|80
 Upi|7.026|124.167|PH|Autonomous Region in Muslim Mindanao|79
+Upolu|-13.919|-171.758|WS||79|f
+Upper New York Bay|40.667|-74.050|US|New York|79|f
 Upper Saddle River|41.058|-74.098|US|New Jersey|78
 Upton Lea|51.518|-0.577|GB|England|78
 Uppinangadi|12.836|75.246|IN|Karnataka|78
 Uppiliyapuram|11.264|78.514|IN|Tamil Nadu|78
 Uppalavādi|11.765|79.776|IN|Tamil Nadu|77
 Upar Hali|26.103|91.509|IN|Assam|77
+Upton Park|51.532|0.038|GB|England|77|f
 Upper Sandusky|40.827|-83.281|US|Ohio|76
 Upton|53.615|-1.287|GB|England|75
 Upi|17.083|121.835|PH|Cagayan Valley|75
@@ -59,19 +63,25 @@ Upper Klinan|6.227|125.121|PH|Soccsksargen|72
 Upper Poppleton|53.979|-1.152|GB|England|71
 Upornaya|44.391|41.020|RU|Krasnodar Krai|71
 Upland|39.853|-75.383|US|Pennsylvania|70
+Upper Klamath Lake|42.398|-121.924|US|Oregon|70|f
 Upton|42.175|-71.602|US|Massachusetts|70
 Upper Langwith|53.229|-1.207|GB|England|69
 Upland|39.886|-75.774|US|Pennsylvania|69
 Upper Hell's Gate|17.643|-63.226|BQ|Saba|69
+Upernattivik|64.233|-40.867|GL|Sermersooq|69|f
 Upig|15.026|120.992|PH|Central Luzon|67
 Upper Nyack|41.107|-73.920|US|New York|67
 Upper Miramichi|46.466|-66.411|CA|New Brunswick|67
 Uptar|59.900|150.873|RU|Magadan Oblast|67
 Upton upon Severn|52.063|-2.218|GB|England|65
+Upinniemi|60.013|24.333|FI|Uusimaa|65|f
+Upolu Airport|20.265|-155.858|US|Hawaii|65|f
 Upper Hammonds Plains|44.754|-63.842|CA|Nova Scotia|65
 Upper Pohatcong|40.677|-75.156|US|New Jersey|65
 Upper Brookville|40.839|-73.565|US|New York|65
 Upper Fruitland|36.716|-108.314|US|New Mexico|64
+Upolu Point|20.269|-155.851|US|Hawaii|63|f
+Upputanni Island|9.090|78.492|IN|Tamil Nadu|63|f
 Upper Basildon|51.482|-1.141|GB|England|63
 Upchurch|51.376|0.648|GB|England|63
 Upper La Taste|12.193|-61.618|GD|Saint Patrick Parish|62
@@ -79,14 +89,117 @@ Upie|44.803|4.977|FR|Auvergne-Rhône-Alpes|62
 Upper Island Cove|47.650|-53.215|CA|Newfoundland and Labrador|61
 Upernavik|72.784|-56.149|GL|Avannaata|61
 Upper Cumberworth|53.575|-1.693|GB|England|61
+Upaar Lagoon|8.150|81.400|LK|Eastern Province|61|f
+Upington Airport|-28.399|21.260|ZA|Northern Cape|61|f
+Upper Crystal Springs Reservoir|37.496|-122.336|US|California|61|f
 Upton|44.100|-104.628|US|Wyoming|61
 Upper Bear Creek|39.624|-105.418|US|Colorado|60
 Upper Lake|39.165|-122.911|US|California|60
 Upper Sackville|44.819|-63.760|CA|Nova Scotia|60
+Upper Hartfield|51.093|0.091|GB|England|60
+Upper Heyford|51.936|-1.255|GB|England|60
+Upahl|53.820|11.216|DE|Mecklenburg-Vorpommern|58
+Upper Orara|-30.283|153.000|AU|New South Wales|58
+Upper Cumberland Regional Airport|36.056|-85.528|US|Tennessee|58|f
+Uplistsikhe|41.966|44.171|GE|Shida Kartli|57
+Upper Exeter|41.407|-75.838|US|Pennsylvania|57
+Upton|52.658|1.545|GB|England|57
+Upper Denby|53.561|-1.658|GB|England|56
 Upper Marlboro|38.816|-76.750|US|Maryland|56
+Upton|37.465|-85.893|US|Kentucky|56
+Upham|50.983|-1.235|GB|England|56
+Upper Liard|60.050|-128.906|CA|Yukon|56
+Upstreet|51.325|1.194|GB|England|56
+Upper Gravenhurst|52.011|-0.379|GB|England|55
+Upphärad|58.158|12.305|SE|Västra Götaland|55
+Uplawmoor|55.765|-4.496|GB|Scotland|55
+Upper Lansdowne|-31.711|152.466|AU|New South Wales|55
+Upaca|-10.671|-77.736|PE|Lima region|55
+Upala Airport|10.892|-85.016|CR|Alajuela Province|54|f
+Upernivik Ø|71.267|-52.750|GL|Avannaata|54|f
+Upheaval Dome|38.425|-109.931|US|Utah|54|f
+Upnor Castle|51.407|0.527|GB|England|54|f
+Upper Atbara and Setit Dam Complex|14.277|35.897|SD||54|f
+Upper Bohn Lake|38.735|-122.443|US|California|54|f
+Upper Chandler Pond|42.044|-70.768|US|Massachusetts|54|f
+Upper Cox Brook Covered Bridge|44.174|-72.655|US|Vermont|54|f
+Upper Deckers Creek Wildlife Management Area|39.523|-79.801|US|West Virginia|54|f
+Upper Goldwater Lake|34.498|-112.449|US|Arizona|54|f
+Upper Harbour Bridge|-36.785|174.668|NZ|Auckland|54|f
+Upper Harker Lake|46.835|-99.713|US|North Dakota|54|f
+Upper Island|-66.008|-65.644|AQ||54|f
+Upper Jhelum Canal|32.507|74.012|PK||54|f
+Upper Lake Mary|35.064|-111.497|US|Arizona|54|f
+Upper Matecumbe Key|24.914|-80.638|US|Florida|54|f
+Upper Newport Bay|33.642|-117.887|US|California|54|f
+Upper Pine Bottom State Park|41.319|-77.421|US|Pennsylvania|54|f
+Upper Redfish Lakes|44.046|-115.028|US|Idaho|54|f
+Upper Saranac Lake|44.295|-74.321|US|New York|54|f
+Upper Souris National Wildlife Refuge|48.583|-101.635|US|North Dakota|54|f
+Upper Wolfjaw Mountain|44.141|-73.845|US|New York|54|f
+Upuigma-tepuí|5.117|-61.933|VE|Bolívar|54|f
+Uphusum|54.850|8.850|DE|Schleswig-Holstein|51
 Upton Scudamore|51.230|-2.193|GB|England|49
+Upper Jaw Glacier|-78.350|162.950|AQ||49|f
+Upper Lake|51.977|-9.601|IE|Munster|49|f
+Upper Peirce Reservoir|1.368|103.801|SG||49|f
+Upper Pepper Island|42.954|-74.261|US|New York|49|f
+Upper Pine Mountain|43.587|-74.301|US|New York|49|f
+Upper Seletar Reservoir|1.402|103.800|SG||49|f
+Upper Twin Island|40.135|-80.708|US|West Virginia|49|f
+Upper Yarra Reservoir|-37.684|145.912|AU|Victoria|49|f
+Uppsala Castle|59.854|17.635|SE|Uppsala|49|f
+Uppu Aru Lagoon|9.704|80.092|LK|Northern Province|49|f
+Upstart Bay|-19.751|147.691|AU|Queensland|49|f
 Upahuacho|-14.907|-73.398|PE|Ayacucho|46
 Upper Bogue|25.450|-76.667|BS|North Eleuthera|46
+Upper Adams River Park|51.533|-119.319|CA|British Columbia|40|f
+Upper Baker Dam|48.649|-121.691|US|Washington|40|f
+Upper Barachois|45.833|-60.148|CA|Nova Scotia|40|f
+Upper Baron Lake|44.078|-114.997|US|Idaho|40|f
+Upper Cramer Lake|44.029|-114.987|US|Idaho|40|f
+Upper Curtis Glacier|48.830|-121.611|US|Washington|40|f
+Upper Falls Covered Bridge|43.398|-72.522|US|Vermont|40|f
+Upper Foster Lake|56.783|-105.334|CA|Saskatchewan|40|f
+Upper Fremont Glacier|43.131|-109.616|US|Wyoming|40|f
+Upper Grinnell Lake|48.759|-113.732|US|Montana|40|f
+Upper Holman Marsh Lake|44.578|-63.771|CA|Nova Scotia|40|f
+Upper Iowa River Bridge|43.433|-91.412|US|Iowa|40|f
+Upper Kananaskis Lake|50.618|-115.154|CA|Alberta|40|f
+Upper Kintla Lake|48.976|-114.175|US|Montana|40|f
+Upper Klamath National Wildlife Refuge|42.525|-122.025|US|Oregon|40|f
+Upper Lillooet Park|50.650|-123.603|CA|British Columbia|40|f
+Upper Little York Lake|42.703|-76.156|US|New York|40|f
+Upper Madawaska River Provincial Park|45.504|-78.125|CA|Ontario|40|f
+Upper Magpie Lake|48.631|-84.625|CA|Ontario|40|f
+Upper Marsh Lake|44.635|-63.777|CA|Nova Scotia|40|f
+Upper McNulty Reservoir|43.359|-117.685|US|Oregon|40|f
+Upper Melakwa Lake|47.453|-121.470|US|Washington|40|f
+Upper Missouri River Breaks National Monument|47.783|-109.021|US|Montana|40|f
+Upper Mud River Wildlife Management Area|38.154|-82.050|US|West Virginia|40|f
+Upper Nihotupu Reservoir|-36.938|174.550|NZ|Auckland|40|f
+Upper Nishin Lake|48.920|-87.637|CA|Ontario|40|f
+Upper Ouachita National Wildlife Refuge|32.919|-92.076|US|Louisiana|40|f
+Upper Paris Bridge|42.244|-91.584|US|Iowa|40|f
+Upper Partridge Lake|44.946|-77.487|CA|Ontario|40|f
+Upper Peninsula|46.673|-89.175|US|Michigan|40|f
+Upper Peoria Lake|40.850|-89.514|US|Illinois|40|f
+Upper Pohatcong Mountain|40.842|-74.861|US|New Jersey|40|f
+Upper Redwater Lake|46.899|-79.662|CA|Ontario|40|f
+Upper Rideau Lake|44.683|-76.336|CA|Ontario|40|f
+Upper San Leandro Reservoir|37.776|-122.118|US|California|40|f
+Upper Seymour River Park|51.600|-118.919|CA|British Columbia|40|f
+Upper Sioux Agency State Park|44.738|-95.454|US|Minnesota|40|f
+Upper Snyder Lake|48.631|-113.796|US|Montana|40|f
+Upper Stillwater Reservoir|40.569|-110.701|US|Utah|40|f
+Upper Summit Lake|54.291|-122.710|CA|British Columbia|40|f
+Upper Two Medicine Lake|48.464|-113.459|US|Montana|40|f
+Upplandsmuseet|59.859|17.635|SE|Uppsala|40|f
+Uppsala University|59.855|17.631|SE|Uppsala|40|f
+Upright Mountain|53.183|-118.852|CA|Alberta|40|f
+Upsall Castle|54.275|-1.301|GB|England|40|f
+Uptown New Orleans Historic District|29.932|-90.111|US|Louisiana|40|f
+Uppershausen|50.033|6.317|DE|Rheinland-Pfalz|38
 Upenekang|4.571|7.980|NG|Akwa Ibom State|0
 Upper Stoke|51.447|0.618|GB|England|0
 Upton|52.591|-0.369|GB|England|0

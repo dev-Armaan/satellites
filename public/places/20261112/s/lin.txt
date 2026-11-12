@@ -28,6 +28,7 @@ Linjiang|41.807|126.908|CN|Jilin|97
 Lincoln Park|41.922|-87.648|US|Illinois|97
 Lingao|19.909|109.687|CN|Hainan|96
 Linares|38.095|-3.636|ES|Andalusia|95
+Lincoln Memorial|38.889|-77.050|US|District of Columbia|95|f
 Lingayen|16.022|120.232|PH|Ilocos|95
 Linghai|41.165|121.367|CN|Liaoning|95
 Linqiong|30.416|103.461|CN|Sichuan|95
@@ -50,8 +51,10 @@ Linxi|43.517|118.033|CN|Inner Mongolia|88
 Linjiang|29.245|105.957|CN|Chongqing|88
 Lindau|47.546|9.684|DE|Bavaria|88
 Linfeng|29.891|107.220|CN|Chongqing|88
+Linköping University|58.395|15.575|SE|Östergötland|87|f
 Lintan Chengguanzhen|34.689|103.352|CN|Gansu|87
 Lincolnia|38.818|-77.143|US|Virginia|87
+Linlithgow Palace|55.978|-3.601|GB|Scotland|87|f
 Lingiādīh|22.077|82.176|IN|Chhattisgarh|87
 Linëvo|54.459|83.376|RU|Novosibirsk Oblast|87
 Lincoln|41.921|-71.435|US|Rhode Island|87
@@ -90,12 +93,15 @@ Lindon|40.343|-111.721|US|Utah|81
 Lintuvaara|60.234|24.813|FI|Uusimaa|80
 Lincoln Park|40.924|-74.302|US|New Jersey|80
 Linthicum|39.205|-76.653|US|Maryland|80
+Lincoln Castle|53.235|-0.541|GB|England|80|f
+Linz Airport|48.233|14.188|AT|Upper Austria|80|f
 Lingwu Nongchang|38.133|106.300|CN|Ningxia|80
 Lin’e|29.441|108.852|CN|Chongqing|80
 Lindesberg|59.592|15.230|SE|Örebro|80
 Lincoln|-43.650|172.483|NZ|Canterbury|79
 Lincoln Village|39.955|-83.131|US|Ohio|79
 Linares|1.351|-77.523|CO|Nariño|79
+Lincoln Financial Field|39.901|-75.167|US|Pennsylvania|79|f
 Lincoln Heights|38.895|-76.929|US|District of Columbia|79
 Linwood|55.848|-4.493|GB|Scotland|79
 Linganore|39.411|-77.302|US|Maryland|79
@@ -106,10 +112,12 @@ Lindenheuvel|50.985|5.817|NL|Limburg|78
 Linjiang|33.062|104.921|CN|Gansu|78
 Lincolnshire|42.190|-87.908|US|Illinois|77
 Lindóia|-22.523|-46.650|BR|São Paulo|77
+Lindisfarne Castle|55.669|-1.785|GB|England|77|f
 Linwood|39.340|-74.575|US|New Jersey|77
 Linamon|8.186|124.163|PH|Northern Mindanao|77
 Lincoln|33.613|-86.118|US|Alabama|76
 Lingig|8.039|126.412|PH|Caraga|76
+Linden Airport|40.617|-74.244|US|New Jersey|76|f
 Linglestown|40.334|-76.789|US|Pennsylvania|76
 Line Islands|1.942|-157.475|KI||76|r
 Lindolfo Collor|-29.597|-51.209|BR|Rio Grande do Sul|76
@@ -126,11 +134,13 @@ Lindenfels|49.684|8.782|DE|Hesse|75
 Lingenfeld|49.254|8.339|DE|Rheinland-Pfalz|75
 Linëvo|50.888|44.831|RU|Volgograd Oblast|75
 Linton|39.035|-87.166|US|Indiana|74
+Lin Tin Island|22.414|113.803|CN|Guangdong|74|f
 Linguaglossa|37.842|15.138|IT|Sicily|74
 Lindoeste|-25.260|-53.576|BR|Paraná|74
 Linden|50.895|4.770|BE|Flanders|74
 Linkebeek|50.768|4.337|BE|Flanders|74
 Lindö|58.617|16.250|SE|Östergötland|74
+Lins Airport|-21.664|-49.730|BR|São Paulo|73|f
 Lindhorst|52.358|9.283|DE|Lower Saxony|73
 Lindóia do Sul|-27.053|-52.067|BR|Santa Catarina|73
 Linton|52.098|0.277|GB|England|73
@@ -149,6 +159,7 @@ Lind|56.106|8.979|DK|Central Jutland|72
 Lingating|8.332|124.629|PH|Northern Mindanao|72
 Linaon|9.950|122.448|PH|Western Visayas|71
 Linhu|24.427|118.251|TW|Fujian|71
+Lindsay Island|36.500|126.363|KR|Chungcheongnam-do|71|f
 Lincoln|43.513|-111.964|US|Idaho|71
 Linne|51.155|5.939|NL|Limburg|71
 Lingoni|-12.256|44.418|KM|Anjouan|71
@@ -162,6 +173,7 @@ Lincoln Heights|39.239|-84.456|US|Ohio|71
 Lindow|52.967|12.985|DE|Brandenburg|70
 Linwood|39.827|-75.425|US|Pennsylvania|70
 Lintangan|7.216|121.952|PH|Zamboanga Peninsula|70
+Ling Qu|25.602|110.684|CN|Guangxi|70|f
 Linan|6.432|124.976|PH|Soccsksargen|70
 Lindavista|18.089|-95.776|MX|Veracruz|70
 Linoan|7.626|125.974|PH|Davao Region|69
@@ -172,6 +184,9 @@ Lindsay|34.835|-97.603|US|Oklahoma|69
 Linabuan Sur|11.651|122.345|PH|Western Visayas|69
 Linera|37.664|15.137|IT|Sicily|69
 Lingwood|52.621|1.486|GB|England|69
+Lindøya|59.891|10.710|NO|Oslo|69|f
+Linesøya|64.014|9.917|NO|Trøndelag|69|f
+Ling Shan|40.026|115.325|CN|Hebei|69|f
 Linay|8.517|123.133|PH|Zamboanga Peninsula|68
 Linguékoro|9.428|-4.628|CI|Savanes District|68
 Linden|34.285|-110.157|US|Arizona|68
@@ -187,6 +202,7 @@ Lineville|33.311|-85.754|US|Alabama|67
 Líně|49.695|13.257|CZ|Plzeň Region|67
 Linkou|26.248|109.864|CN|Hunan|67
 Lint|51.127|4.497|BE|Flanders|67
+Linfen Qiaoli Airport|36.131|111.638|CN|Shanxi|67|f
 Linars|45.658|0.087|FR|New Aquitaine|67
 Lindavista|20.026|-98.798|MX|Hidalgo|67
 Lincolnville|44.281|-69.009|US|Maine|67
@@ -197,6 +213,9 @@ Linkhout|50.968|5.137|BE|Flanders|66
 Linden|33.012|-94.365|US|Texas|66
 Lindley|42.028|-77.140|US|New York|66
 Linarolo|45.162|9.270|IT|Lombardy|65
+Lindøy|58.989|5.806|NO|Rogaland|65|f
+Link'u Link'u|-16.663|-67.736|BO|La Paz Department|65|f
+Linnévatnet|78.042|13.824|SJ|Svalbard|65|f
 Linden|38.021|-121.084|US|California|65
 Lintgen|49.722|6.130|LU|Mersch|65
 Linkuva|56.086|23.971|LT|Siauliai|65
@@ -207,6 +226,17 @@ Lincolndale|41.323|-73.718|US|New York|64
 Linntown|40.959|-76.899|US|Pennsylvania|63
 Linhó|38.766|-9.383|PT|Lisbon|63
 Lincolnton|33.792|-82.479|US|Georgia|63
+Lin Fa Shan|22.390|114.085|HK|Tsuen Wan|63|f
+Lincang Airport|23.743|100.025|CN|Yunnan|63|f
+Lincoln Peak|44.127|-72.928|US|Vermont|63|f
+Lincoln Sea|83.000|-58.000|GL||63|f
+Lindenow Fjord|60.533|-43.667|GL||63|f
+Lindisfarne Holy Island|55.678|-1.800|GB|England|63|f
+Linhares Regional Airport|-19.358|-40.073|BR|Espírito Santo|63|f
+Linkbelt Oval|-0.534|166.912|NR|Aiwo District|63|f
+Linköping City Airport|58.406|15.677|SE|Östergötland|63|f
+Linnusita Maa|58.115|22.517|EE|Saare|63|f
+Linosa Island|35.867|12.867|IT|Sicily|63|f
 Lingenau|47.450|9.922|AT|Vorarlberg|63
 Lingouébo|7.498|-5.658|CI|Vallée du Bandama District|63
 Linn|38.486|-91.850|US|Missouri|63
@@ -231,6 +261,13 @@ Lindholmen|59.583|18.100|SE|Stockholm|61
 Linxe|43.921|-1.247|FR|New Aquitaine|61
 Linguesso|9.206|-7.621|CI|Denguélé District|61
 Linards|45.701|1.531|FR|New Aquitaine|61
+Lincoln Regional Airport|45.360|-68.534|US|Maine|61|f
+Lindhard Ø|76.533|-22.033|GL||61|f
+Lingxiao Pagoda|38.142|114.570|CN|Hebei|61|f
+Linnansaaren Kansallispuisto|62.133|28.500|FI|South Savo|61|f
+Linnébreen|77.967|13.933|SJ|Svalbard|61|f
+Linua Island|-13.328|166.633|VU|Torba|61|f
+Linyi Shubuling Airport|35.047|118.408|CN|Shandong|61|f
 Linate|45.447|9.272|IT|Lombardy|61
 Linthal|46.921|8.998|CH|Glarus|61
 Lindsay|33.636|-97.223|US|Texas|61
@@ -242,41 +279,295 @@ Linguizzetta|42.264|9.473|FR|Corsica|60
 Lincoln|46.955|-112.682|US|Montana|60
 Linares de Riofrío|40.583|-5.921|ES|Castille and León|60
 Linton upon Ouse|54.046|-1.249|GB|England|60
+Linesville|41.656|-80.424|US|Pennsylvania|60
+Lindry|47.800|3.417|FR|Bourgogne-Franche-Comté|60
+Lincoln|44.046|-71.670|US|New Hampshire|60
+Linsburg|52.594|9.303|DE|Lower Saxony|60
+Lingreville|48.951|-1.527|FR|Normandy|60
+Linthe|52.150|12.783|DE|Brandenburg|60
+Linneus|46.039|-67.960|US|Maine|59
 Linden|35.617|-87.839|US|Tennessee|59
+Linzerberg|48.344|14.408|AT|Upper Austria|59
+Linden|54.251|9.184|DE|Schleswig-Holstein|59
+Linnell Camp|36.309|-119.223|US|California|59
+Lincoln Park|32.868|-84.330|US|Georgia|58
+Lind ob Velden|46.602|14.003|AT|Carinthia|58
+Linksmakalnis|54.758|23.928|LT|Kaunas|58
+Lindl|46.716|14.095|AT|Carinthia|58
+Linn Valley|38.378|-94.709|US|Kansas|58
+Linn|26.560|-98.122|US|Texas|58
+Lincoln Municipal Airport|40.851|-96.759|US|Nebraska|58|f
+Lincoln Park|42.646|-73.767|US|New York|58|f
+Lincoln Peak|48.768|-121.859|US|Washington|58|f
+Lindenberg Island|-64.924|-59.685|AQ||58|f
+Lindhagenbukta|80.302|20.678|SJ||58|f
+Lindholm|55.006|12.223|DK|Zealand|58|f
+Lindquist Island|-17.657|146.160|AU|Queensland|58|f
+Link River Dam|42.234|-121.802|US|Oregon|58|f
+Lindoukro|8.005|-4.070|CI|Lacs District|58
+Lintsi|48.570|22.550|UA|Zakarpattia|58
+Linda Vista|22.394|-104.824|MX|Nayarit|58
+Linwood|43.582|-80.728|CA|Ontario|58
+Lindenau|51.400|13.733|DE|Brandenburg|58
+Linden|40.188|-86.904|US|Indiana|58
+Lindal in Furness|54.173|-3.150|GB|England|58
+Linderos|-5.691|-78.801|PE|Cajamarca Department|58
+Lindavista|17.473|-93.479|MX|Chiapas|57
+Lindau|47.443|8.674|CH|Zurich|57
+Linia|44.904|23.802|RO|Vâlcea County|56
+Lindstedt|52.592|11.532|DE|Saxony-Anhalt|56
+Linger|49.566|5.887|LU|Capellen|56
+Linhartice|49.757|16.695|CZ|Pardubice Region|56
+Linthal|47.953|7.125|FR|Grand Est|56
+Linda|51.857|13.103|DE|Saxony-Anhalt|56
+Linderos|19.624|-96.971|MX|Veracruz|56
+Linda Vista|17.022|-95.996|MX|Oaxaca|55
+Linia|45.072|24.404|RO|Vâlcea County|55
+Lindale|54.217|-2.896|GB|England|55
+Linton|-37.686|143.563|AU|Victoria|55
+Lind|46.769|13.360|AT|Carinthia|55
+Lindeberg|60.038|11.124|NO|Akershus|55
+Lind|46.972|-118.615|US|Washington|55
+Lingékoro|8.150|-6.468|CI|Woroba|55
+Linopótis|36.872|27.184|GR|South Aegean|55
+Linia din Vale|44.469|24.341|RO|Olt|55
+Lind bei Scheifling|47.158|14.403|AT|Styria|55
+Linneryd|57.400|14.150|SE|Jönköping|55
+Linden|42.918|-90.273|US|Wisconsin|55
+Linghed|60.783|15.850|SE|Dalarna|54
+Liniers|46.611|0.537|FR|New Aquitaine|54
+Lincoln County Airport|37.792|-114.418|US|Nevada|54|f
+Lincoln Lake|48.591|-113.771|US|Montana|54|f
+Lincoln Log Cabin State Historic Site|39.381|-88.202|US|Illinois|54|f
+Lincoln Municipal Airport|39.056|-98.169|US|Kansas|54|f
+Lincoln Park|38.890|-76.990|US|District of Columbia|54|f
+Lincoln Park Airport|40.950|-74.315|US|New Jersey|54|f
+Lincoln State Park|38.104|-86.996|US|Indiana|54|f
+Lincolnton-Lincoln County Regional Airport|35.484|-81.163|US|North Carolina|54|f
+Lindeman Island|-20.446|149.043|AU|Queensland|54|f
+Lindenberg Peninsula|56.824|-133.113|US|Alaska|54|f
+Linderhof Palace|47.571|10.961|DE|Bavaria|54|f
+Lindsay Reef|-54.433|3.483|BV||54|f
+Lindsey, Cape|-61.107|-55.480|AQ||54|f
+Linga Island|60.666|-0.978|GB|Scotland|54|f
+Linganamakki Reservoir|14.101|74.881|IN|Karnataka|54|f
+Lingayen Gulf|16.248|120.235|PH||54|f
+Link Island|-63.282|-57.938|AQ||54|f
+Link Stack|-65.607|-64.566|AQ||54|f
+Linz-East Airport|48.299|14.334|AT|Upper Austria|54|f
+Lindenkreuz|50.850|11.917|DE|Thuringia|54
+Linsmeau|50.736|5.000|BE|Wallonia|54
+Lingerhahn|50.094|7.565|DE|Rheinland-Pfalz|54
+Linkenbach|50.572|7.556|DE|Rheinland-Pfalz|54
+Lingtou|26.189|119.272|CN|Fujian|52
 Linares de Mora|40.322|-0.575|ES|Aragon|51
+Lindig|50.789|11.601|DE|Thuringia|50
+Lincoln Conservation Park|-34.794|135.724|AU|South Australia|49|f
+Lincoln Memorial Bridge|38.682|-87.535|US|Indiana|49|f
+Lincoln National Park|-34.867|135.935|AU|South Australia|49|f
+Lincoln Peak|38.883|-114.297|US|Nevada|49|f
+Lind Glacier|-65.398|-64.000|AQ||49|f
+Lind National Park|-37.576|148.953|AU|Victoria|49|f
+Lindbergtinden|61.604|8.280|NO|Innlandet|49|f
+Lindeman Islands National Park|-20.474|149.084|AU|Queensland|49|f
+Linden Airport|5.965|-58.263|GY|Upper Demerara-Berbice|49|f
+Linden Park|-33.767|150.937|AU|New South Wales|49|f
+Lindenberg|47.228|8.317|CH|Lucerne|49|f
+Lindita Peak|61.344|-146.607|US|Alaska|49|f
+Lindley, Mount|-81.767|159.100|AQ||49|f
+Lindores Loch|56.333|-3.183|GB|Scotland|49|f
+Lindsay Park|-12.510|130.975|AU|Northern Territory|49|f
+Lindwerder|53.616|12.295|DE|Mecklenburg-Vorpommern|49|f
+Linga Holm|59.150|-2.667|GB|Scotland|49|f
+Linga Sound|60.367|-1.017|GB|Scotland|49|f
+Linga Sound|59.150|-2.667|GB|Scotland|49|f
+Lingeigh Island|56.873|-7.580|GB|Scotland|49|f
+Links Park|56.714|-2.459|GB|Scotland|49|f
+Linnaeus Garden|59.862|17.634|SE|Uppsala|49|f
 Linneus|39.879|-93.189|US|Missouri|49
+Lindewerra|51.317|9.950|DE|Thuringia|48
+Lindenschied|49.900|7.400|DE|Rheinland-Pfalz|48
 Lincha|-12.799|-75.665|PE|Lima region|46
+Linden|50.600|7.850|DE|Rheinland-Pfalz|44
 Linaküla|58.137|23.974|EE|Pärnumaa|42
+Linaluk Island|70.301|-113.071|CA|Northwest Territories|40|f
+Lincoln Airport|46.975|-112.646|US|Montana|40|f
+Lincoln Avenue Viaduct|34.752|-92.283|US|Arkansas|40|f
+Lincoln Boyhood National Memorial|38.118|-86.997|US|Indiana|40|f
+Lincoln Covered Bridge|43.601|-72.569|US|Vermont|40|f
+Lincoln Highway Bridge|41.965|-92.562|US|Iowa|40|f
+Lincoln Home National Historic Site|39.797|-89.645|US|Illinois|40|f
+Lincoln Homestead State Park|37.760|-85.212|US|Kentucky|40|f
+Lincoln Island|48.044|-91.577|US|Minnesota|40|f
+Lincoln Island|58.492|-134.993|US|Alaska|40|f
+Lincoln Mountains|55.960|-130.137|US|Alaska|40|f
+Lincoln Municipal Airport|38.399|-93.332|US|Missouri|40|f
+Lincoln Park|40.727|-74.086|US|New Jersey|40|f
+Lincoln Park Zoo|41.922|-87.634|US|Illinois|40|f
+Lincoln Trail Bridge|37.903|-86.745|US|Kentucky|40|f
+Lincoln Trail State Park Lake Dam|39.337|-87.723|US|Illinois|40|f
+Lind Ridge|-75.800|-132.550|AQ||40|f
+Lindbergh Viaduct|40.331|-75.899|US|Pennsylvania|40|f
+Lindeman Lake|49.115|-121.457|CA|British Columbia|40|f
+Lindeman Lake|59.800|-135.056|CA|British Columbia|40|f
+Linden Park|42.335|-71.118|US|Massachusetts|40|f
+Linden Square|42.335|-71.117|US|Massachusetts|40|f
+Lindenwood Park|38.597|-90.309|US|Missouri|40|f
+Linder Glacier|-71.683|163.050|AQ||40|f
+Linder Peak|-79.867|-83.200|AQ||40|f
+Linderman Lake|45.677|-93.144|US|Minnesota|40|f
+Lindholmen|56.151|15.586|SE|Blekinge|40|f
+Lindquist Lake|45.615|-88.059|US|Wisconsin|40|f
+Lindsay Peak|-84.617|163.533|AQ||40|f
+Lindsey|52.060|0.887|GB|England|40|f
+Lindsey Mountain|37.613|-90.852|US|Missouri|40|f
+Lindsey Nelson Stadium|35.949|-83.930|US|Tennessee|40|f
+Lindstrøm Peak|-86.300|-160.167|AQ||40|f
+Lindstrom Peninsula|76.602|-83.666|CA|Nunavut|40|f
+Lindstrom Ridge|-79.717|156.000|AQ||40|f
+Linehan Glacier|-83.250|162.683|AQ||40|f
+Linga|60.358|-1.360|GB|Scotland|40|f
+Lingo Cove|38.635|-75.127|US|Delaware|40|f
+Lingtren|28.027|86.855|CN|Tibet|40|f
+Link Lake|54.917|-66.015|CA|Newfoundland and Labrador|40|f
+Link Lake|47.072|-79.818|CA|Ontario|40|f
+Linkins Lake|39.129|-106.589|US|Colorado|40|f
+Linkletter Provincial Park|46.400|-63.849|CA|Prince Edward Island|40|f
+Linköping Arena|58.418|15.650|SE|Östergötland|40|f
+Linköpings slott|58.410|15.616|SE|Östergötland|40|f
+Linn Cove Viaduct|36.094|-81.813|US|North Carolina|40|f
+Linn Glacier|44.175|-121.775|US|Oregon|40|f
+Linn Lake|45.360|-92.825|US|Minnesota|40|f
+Linnaeus University|56.854|14.830|SE|Kronoberg|40|f
+Linsley Peninsula|-72.050|-98.183|AQ||40|f
+Linstock Castle|54.918|-2.892|GB|England|40|f
+Linville Creek Bridge|38.603|-78.806|US|Virginia|40|f
+Linwood Lake|50.986|-95.331|CA|Manitoba|40|f
+Linwood Lake|47.318|-92.121|US|Minnesota|40|f
+Linwood Peak|-77.600|-147.217|AQ||40|f
+Lind|50.323|7.035|DE|Rheinland-Pfalz|33
+Li’nan|29.617|111.756|CN|Hunan|0
 Lin’an|30.236|119.718|CN|Zhejiang|0
 Lin’an|23.603|102.831|CN|Yunnan|0
+Linakelopu|-9.807|124.603|ID|East Nusa Tenggara|0
 Linares de la Sierra|37.880|-6.623|ES|Andalusia|0
 Lincán|-1.653|-78.706|EC|Chimborazo Province|0
+Linchen|21.832|110.575|CN|Guangdong|0
+Lincheng|32.888|119.832|CN|Jiangsu|0
 Lincheng|37.443|114.499|CN|Hebei|0
+Lincheng|30.934|119.787|CN|Zhejiang|0
 Lincheng|26.869|109.663|CN|Hunan|0
+Lincheng|29.996|122.200|CN|Zhejiang|0
+Lincheng|25.059|116.408|CN|Fujian|0
+Lincuo|23.661|117.259|CN|Fujian|0
+Lind|50.500|6.933|DE|Rheinland-Pfalz|0
+Lindern|52.845|7.780|DE|Lower Saxony|0
+Lindford|51.119|-0.847|GB|England|0
+Lindian|34.722|109.602|CN|Shaanxi|0
 Lindian|47.170|124.857|CN|Heilongjiang|0
 Lindong|43.983|119.400|CN|Inner Mongolia|0
+Lingang|29.029|117.308|CN|Jiangxi|0
 Lingbao|34.522|110.885|CN|Henan|0
+Lingbei|26.051|115.467|CN|Jiangxi|0
+Lingbei|24.615|112.703|CN|Guangdong|0
+Lingbei|21.264|110.164|CN|Guangdong|0
+Lingbei|27.599|119.661|CN|Zhejiang|0
+Lingbeizhou|29.397|120.304|CN|Zhejiang|0
 Lingcheng|37.335|116.570|CN|Shandong|0
 Lingcheng|33.538|117.534|CN|Anhui|0
 Lingcheng|22.423|109.293|CN|Guangxi|0
 Lingcheng|35.534|116.918|CN|Shandong|0
+Lingchuan|25.296|118.962|CN|Fujian|0
 Lingchuan|25.397|110.318|CN|Guangxi|0
+Lingda|31.204|119.296|CN|Anhui|0
+Lingdangge|39.144|117.142|CN|Tianjin|0
+Lingdi|28.206|118.299|CN|Jiangxi|0
+Lingdi|25.869|116.813|CN|Fujian|0
+Lingdi|28.286|120.948|CN|Zhejiang|0
+Lingdi|25.607|117.586|CN|Fujian|0
+Lingdian|31.867|121.420|CN|Jiangsu|0
+Lingdong|28.065|114.242|CN|Jiangxi|0
 Lingen|52.300|-2.933|GB|England|0
+Lingfang|26.726|113.614|CN|Hunan|0
+Linggamanik|-7.327|108.316|ID|West Java|0
+Linggou|40.173|123.430|CN|Liaoning|0
+Linghou|27.803|119.887|CN|Zhejiang|0
+Linghu|30.718|120.173|CN|Zhejiang|0
 Lingjiang|31.735|105.932|CN|Sichuan|0
+Lingkou|34.477|109.361|CN|Shaanxi|0
+Lingkou|31.950|119.654|CN|Jiangsu|0
+Lingkou|19.344|110.304|CN|Hainan|0
+Linglong|30.190|119.638|CN|Zhejiang|0
+Linglong|37.406|120.471|CN|Shandong|0
+Linglu|25.821|118.931|CN|Fujian|0
+Lingmen|21.570|111.387|CN|Guangdong|0
+Lingqian|34.761|108.984|CN|Shaanxi|0
+Lingqiao|30.030|120.029|CN|Zhejiang|0
 Lingquan|36.999|110.844|CN|Shanxi|0
+Lingquan|29.528|111.824|CN|Hunan|0
+Lingsar|-8.573|116.182|ID|West Nusa Tenggara|0
+Lingshan|38.790|114.635|CN|Hebei|0
+Lingshan|19.969|110.428|CN|Hainan|0
+Lingshan|46.933|126.443|CN|Heilongjiang|0
 Lingshou|38.308|114.374|CN|Hebei|0
+Lingtang|32.691|119.227|CN|Jiangsu|0
+Lingti|30.958|92.575|CN|Tibet|0
+Lingtou|28.435|120.914|CN|Zhejiang|0
+Lingtou|27.553|119.246|CN|Zhejiang|0
 Lingui|25.250|110.197|CN|Guangxi|0
 Lingxi|29.005|109.845|CN|Hunan|0
+Lingxi|29.371|111.174|CN|Hunan|0
+Lingxi|28.499|118.026|CN|Jiangxi|0
+Lingxia|27.078|118.960|CN|Fujian|0
+Lingxia|29.055|119.761|CN|Zhejiang|0
+Lingyang|28.423|117.609|CN|Jiangxi|0
+Lingyao|27.472|118.983|CN|Fujian|0
+Lingyuan|34.502|108.349|CN|Shaanxi|0
+Lingyuan|29.914|119.275|CN|Zhejiang|0
+Lingyuan|34.401|107.119|CN|Shaanxi|0
 Lingyun|24.349|106.562|CN|Guangxi|0
+Lingzhi|30.029|120.574|CN|Zhejiang|0
 Linhai|28.855|121.145|CN|Zhejiang|0
+Linhai|51.598|124.352|CN|Heilongjiang|0
+Linhai|45.520|122.754|CN|Jilin|0
+Linhu|28.660|117.938|CN|Jiangxi|0
+Linhu|31.127|120.456|CN|Jiangsu|0
+Linjiadai|30.655|121.098|CN|Zhejiang|0
 Linjiang|36.328|112.882|CN|Shanxi|0
+Linjiang|27.824|118.455|CN|Fujian|0
+Linjiang|28.133|120.487|CN|Zhejiang|0
+Linjiang|23.651|114.694|CN|Guangdong|0
+Linjiang|46.441|126.467|CN|Heilongjiang|0
+Linjiang|49.094|124.967|CN|Heilongjiang|0
+Linkuang|31.295|112.419|CN|Hubei|0
 Linli|29.447|111.639|CN|Hunan|0
 Linmingguan|36.777|114.489|CN|Hebei|0
+Linpan|23.555|116.237|CN|Guangdong|0
+Linping|34.464|108.097|CN|Shaanxi|0
+Linpu|30.044|120.245|CN|Zhejiang|0
+Linqi|29.853|119.116|CN|Zhejiang|0
 Linquan|37.980|111.021|CN|Shanxi|0
+Linquan|29.461|115.727|CN|Jiangxi|0
 Linquan Chengguanzhen|33.085|115.290|CN|Anhui|0
+Linshan|30.154|120.992|CN|Zhejiang|0
+Linshanhe|30.743|114.884|CN|Hubei|0
+Linshe|26.318|117.071|CN|Fujian|0
+Linshui|39.789|98.790|CN|Gansu|0
 Linshui|30.333|106.931|CN|Sichuan|0
+Lintaca|-20.767|-65.333|BO|Chuquisaca Department|0
+Lintang|24.791|114.797|CN|Jiangxi|0
+Lintek|-8.663|116.456|ID|West Nusa Tenggara|0
 Linton|51.925|-2.497|GB|England|0
 Lintongnihuta|2.276|98.866|ID|North Sumatra|0
+Lintou|21.666|111.049|CN|Guangdong|0
 Linwu Chengguanzhen|25.232|112.540|CN|Hunan|0
 Linxi|36.866|115.495|CN|Hebei|0
+Linxi|29.990|118.535|CN|Anhui|0
+Linxi|23.655|116.711|CN|Guangdong|0
+Linxi|32.559|106.012|CN|Sichuan|0
+Linxihe|29.632|110.371|CN|Hunan|0
+Linxin|33.602|96.062|CN|Qinghai|0
+Linyuan|46.307|124.708|CN|Heilongjiang|0
+Linzhai|24.288|115.070|CN|Guangdong|0
 Linzhou|36.065|113.815|CN|Henan|0
+Linzi|32.298|120.741|CN|Jiangsu|0

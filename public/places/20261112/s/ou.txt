@@ -36,8 +36,10 @@ Ouesso|1.614|16.052|CG|Sangha|92
 Ouro Branco|-20.523|-43.695|BR|Minas Gerais|92
 Ouro Preto do Oeste|-10.748|-62.216|BR|Rondônia|91
 Ourilândia do Norte|-6.755|-51.084|BR|Pará|90
+Oulu Airport|64.930|25.355|FI|North Ostrobothnia|90|f
 Ouro Fino|-22.283|-46.369|BR|Minas Gerais|90
 Oudenaarde|50.852|3.609|BE|Flanders|90
+Ouagadougou Airport|12.353|-1.512|BF|Centre|90|f
 Oued Sly|36.101|1.199|DZ|Chlef|90
 Ouled Haddaj|36.715|3.342|DZ|Boumerdes|89
 Ōuda-yamaguchi|34.459|135.954|JP|Nara|89
@@ -46,9 +48,10 @@ Oued Zenati|36.316|7.164|DZ|Guelma|89
 Ouro Sogui|15.606|-13.322|SN|Matam|89
 Oulad Barhil|30.640|-8.469|MA|Souss-Massa|88
 Oulad Ayad|32.200|-6.800|MA|Beni Mellal-Khenifra|88
+Oudômxai|20.167|101.500|LA||88|r
 Oullins|45.714|4.808|FR|Auvergne-Rhône-Alpes|88
 Ouled Mimoun|34.905|-1.034|DZ|Tlemcen|88
-Oudômxai|20.167|101.500|LA||88|r
+Oulujärvi|64.333|27.250|FI|Kainuu|88|f
 Outremont|45.516|-73.609|CA|Quebec|88
 Oulunkylä|60.229|24.964|FI|Uusimaa|88
 Oupoyo|5.561|-6.590|CI|Bas-Sassandra District|88
@@ -61,6 +64,7 @@ Ourolândia|-10.971|-41.080|BR|Bahia|86
 Oulmes|33.426|-6.001|MA|Rabat-Salé-Kénitra|86
 Outram Park|1.282|103.838|SG||85
 Ouardenine|35.709|10.674|TN|Monastir Governorate|85
+Ouarzazate Airport|30.939|-6.909|MA|Drâa-Tafilalet|85|f
 Ourém|-1.552|-47.114|BR|Pará|85
 Outat Oulad Al Haj|33.345|-3.704|MA|Fes-Meknes|85
 Ouaké|9.662|1.385|BJ|Donga|85
@@ -69,6 +73,7 @@ Ouessé|8.486|2.429|BJ|Collines|84
 Outreau|50.705|1.590|FR|Hauts-de-France|84
 Oulad Tayeb|33.946|-4.995|MA|Fes-Meknes|84
 Ou Bei Choan|13.774|102.737|KH|Banteay Meanchey|84
+Ouachita Mountains|34.500|-94.501|US|Oklahoma|83|f
 Ouragahio|6.311|-5.935|CI|Goh-Djiboua|83
 Oulad Frej|32.960|-8.227|MA|Casablanca-Settat|83
 Ouallam|14.316|2.086|NE|Tillabéri Region|83
@@ -91,6 +96,7 @@ Oulad Yaïch|32.435|-6.324|MA|Beni Mellal-Khenifra|80
 Oued Laou|35.448|-5.096|MA|Tanger-Tetouan-Al Hoceima|80
 Oud-Heverlee|50.835|4.664|BE|Flanders|80
 Oumache|34.693|5.681|DZ|Biskra|80
+Our Lady of the Rocks|42.487|18.688|ME||80|f
 Ouaouizeght|32.159|-6.354|MA|Beni Mellal-Khenifra|80
 Ouroeste|-20.001|-50.372|BR|São Paulo|80
 Ouanaminthe|19.549|-71.725|HT|Nord-Est|80
@@ -99,21 +105,25 @@ Outjo|-20.107|16.154|NA|Kunene Region|80
 Ounianga Kébir|19.053|20.489|TD|Ennedi-Ouest|80
 Ou Smach|14.425|103.696|KH|Ŏtâr Méanchey|80
 Oudewater|52.025|4.868|NL|Utrecht|80
+Ouani Airport|-12.132|44.430|KM|Anjouan|80|f
 Oulunsalo|64.935|25.411|FI|North Ostrobothnia|80
 Oulad M'Rah|32.913|-7.264|MA|Casablanca-Settat|80
 Ouistreham|49.276|-0.259|FR|Normandy|79
 Ousseltia|35.848|9.589|TN|Kairouan|79
 Ouyabli|7.327|-7.208|CI|Montagnes|79
+Oudomsay Airport|20.683|101.994|LA|Oudômxai|79|f
 Ouaninou|8.238|-7.866|CI|Woroba|79
 Ouderkerk aan de Amstel|52.295|4.907|NL|North Holland|79
 Ou Svay|14.326|104.320|KH|Ŏtâr Méanchey|79
 Oudenburg|51.185|3.000|BE|Flanders|79
 Oualidia|32.734|-9.031|MA|Casablanca-Settat|79
 Ouellé|7.296|-4.014|CI|Lacs District|79
+Outeniqua Mountains|-33.750|23.000|ZA|Western Cape|78|f
 Outes|42.851|-8.926|ES|Galicia|78
 Ouro Verde|-21.489|-51.700|BR|São Paulo|78
 Ouriçangas|-12.012|-38.628|BR|Bahia|78
 Outabgarh|28.801|76.962|IN|Delhi|78
+Out Skerries|60.422|-0.754|GB|Scotland|78|f
 Outapi|-17.504|14.984|NA|Omusati Region|78
 Oude Pekela|53.104|7.010|NL|Groningen|78
 Ou Krasar|10.555|104.288|KH|Kep|77
@@ -130,6 +140,7 @@ Outokumpu|62.727|29.016|FI|North Karelia|76
 Ouellé|10.356|-6.809|CI|Denguélé District|76
 Ōuchi|37.878|140.823|JP|Miyagi|76
 Ouddorp|51.812|3.935|NL|South Holland|75
+Ouahigouya Airport|13.567|-2.417|BF|Nord|75|f
 Ouréyo|6.020|-6.598|CI|Bas-Sassandra District|75
 Ouro Verde de Minas|-18.071|-41.270|BR|Minas Gerais|75
 Oundle|52.481|-0.467|GB|England|75
@@ -137,6 +148,7 @@ Ouellah|-11.390|43.332|KM|Grande Comore|75
 Ourouta|7.142|-6.314|CI|Sassandra-Marahoue|75
 Ouadda|8.078|22.401|CF|Haute-Kotto|75
 Oud Gastel|51.587|4.460|NL|North Brabant|74
+Ouango Fitini Airport|9.600|-4.050|CI|Zanzan District|74|f
 Ouolo|9.548|-5.425|CI|Savanes District|74
 Ouad Naga|17.966|-15.518|MR|Trarza|74
 Oula|34.077|101.722|CN|Gansu|74
@@ -170,6 +182,7 @@ Oussougoula|8.027|-6.182|CI|Woroba|70
 Ourizona|-23.405|-52.199|BR|Paraná|70
 Ouaté|7.634|-3.372|CI|Zanzan District|70
 Oula Xiuma|34.243|101.120|CN|Gansu|70
+Ouvéa Island|-20.622|166.562|NC|Loyalty Islands|70|f
 Oum Dreyga|24.101|-13.296|EH||70
 Oujeft|19.962|-13.059|MR|Adrar|70
 Oude Wetering|52.214|4.644|NL|South Holland|70
@@ -193,6 +206,10 @@ Oud-Vossemeer|51.571|4.199|NL|Zeeland|68
 Oulenzoué|6.144|-4.269|CI|Lagunes District|68
 Ouyatouo|6.890|-8.125|CI|Montagnes|67
 Outlook|51.488|-107.056|CA|Saskatchewan|67
+Oud Poelgeest|52.180|4.485|NL|South Holland|67|f
+Outer Banks|35.567|-75.468|US|North Carolina|67|f
+Outer Lee Island|-54.033|-37.233|GS||67|f
+Ouzinkie Airport|57.925|-152.497|US|Alaska|67|f
 Oueproye|7.503|-5.847|CI|Sassandra-Marahoue|67
 Oulx|45.036|6.834|IT|Piedmont|67
 Ouro Verde|-26.694|-52.312|BR|Santa Catarina|67
@@ -221,6 +238,7 @@ Oudeschoot|52.933|5.956|NL|Friesland|64
 Ouélékéi|8.083|-2.746|CI|Zanzan District|64
 Outarville|48.214|2.022|FR|Centre-Val de Loire|64
 Ouéleu|7.063|-8.080|CI|Montagnes|64
+Outer Brewster Island|42.342|-70.877|US|Massachusetts|63|f
 Ourovéni|-11.914|43.498|KM|Grande Comore|63
 Ouréitafla|7.512|-5.828|CI|Sassandra-Marahoue|63
 Oudemirdum|52.850|5.535|NL|Friesland|63
@@ -253,6 +271,14 @@ Ouyang|26.419|109.216|CN|Guizhou|61
 Ouches|46.016|3.988|FR|Auvergne-Rhône-Alpes|61
 Ouénéfla|7.466|-6.251|CI|Sassandra-Marahoue|61
 Ouangui|7.375|-3.294|CI|Zanzan District|61
+Ouanda Djallé Airport|8.906|22.798|CF|Vakaga|61|f
+Oued Irara-Krim Belkacem Airport|31.673|6.140|DZ|Ouargla|61|f
+Ouray Peak|39.054|-106.565|US|Colorado|61|f
+Outer Island|41.242|-72.760|US|Connecticut|61|f
+Outer Island|47.035|-90.431|US|Wisconsin|61|f
+Outlaw Field|36.622|-87.415|US|Tennessee|61|f
+Ouvéa Atoll|-20.583|166.417|NC||61|f
+Ouvéa Ouloup Airport|-20.641|166.573|NC|Loyalty Islands|61|f
 Oussou|6.261|-4.933|CI|Lagunes District|61
 Ouédjiré|4.562|-7.315|CI|Bas-Sassandra District|61
 Ourville-en-Caux|49.729|0.605|FR|Normandy|61
@@ -260,15 +286,100 @@ Oulins|48.865|1.470|FR|Centre-Val de Loire|60
 Ou Reang|12.333|107.170|KH|Mondolkiri|60
 Ouray|38.023|-107.671|US|Colorado|60
 Outrup|55.719|8.345|DK|South Denmark|60
+Oude Bildtzijl|53.300|5.718|NL|Friesland|60
+Ouanguié|5.864|-4.230|CI|Lagunes District|60
+Ouandia|6.528|-6.571|CI|Sassandra-Marahoue|60
+Oualéguara|8.313|-4.680|CI|Vallée du Bandama District|59
+Ouanzanou|6.996|-5.651|CI|Sassandra-Marahoue|59
+Ouompleupleu|7.275|-8.284|CI|Montagnes|59
+Ouessant|48.460|-5.086|FR|Brittany|59
+Oulchy-le-Château|49.206|3.370|FR|Hauts-de-France|59
+Ouati|7.620|-3.925|CI|Lacs District|58
+Oudehorne|52.963|6.084|NL|Friesland|58
+Ouilly-le-Vicomte|49.183|0.223|FR|Normandy|58
+Outgaarden|50.767|4.919|BE|Flanders|58
+Ouchamps|47.473|1.308|FR|Centre-Val de Loire|58
+Ouranoupolis|40.333|23.983|GR|Central Macedonia|58
+Oulangan Kansallispuisto|66.400|29.200|FI||58|f
+Outlaw Rock|-67.883|-68.883|AQ||58|f
+Outram|-45.867|170.233|NZ|Otago|58
+Oungoni|-11.754|43.436|KM|Grande Comore|58
+Ousson-sur-Loire|47.590|2.787|FR|Centre-Val de Loire|58
+Oudega|52.992|5.549|NL|Friesland|57
 Ou Chum|13.798|106.994|KH|Ratanakiri|57
+Ouossézué|7.651|-5.220|CI|Vallée du Bandama District|57
+Oulmes|46.400|-0.667|FR|Pays de la Loire|57
+Oudrenne|49.379|6.327|FR|Grand Est|57
+Ourton|50.457|2.481|FR|Hauts-de-France|57
+Oualou-Gouékan|8.007|-7.791|CI|Woroba|57
+Ouinéfla|7.593|-5.877|CI|Sassandra-Marahoue|57
+Oudesluis|52.834|4.808|NL|North Holland|57
+Ouanne|47.660|3.418|FR|Bourgogne-Franche-Comté|57
+Ouroux-en-Morvan|47.183|3.950|FR|Bourgogne-Franche-Comté|57
+Ourouer-les-Bourdelins|46.917|2.817|FR|Centre-Val de Loire|56
+Ouéréniagbéré|7.921|-4.426|CI|Vallée du Bandama District|56
+Ouffouékro|7.490|-4.798|CI|Lacs District|56
+Ouagalilié|6.031|-5.778|CI|Goh-Djiboua|56
+Our Town|32.828|-85.962|US|Alabama|56
+Ou Plong|13.585|106.777|KH|Ratanakiri|56
+Ouonsorikaha|9.436|-5.427|CI|Savanes District|56
+Ouahi|7.823|-6.650|CI|Woroba|56
+Ouerre|48.701|1.466|FR|Centre-Val de Loire|56
+Ouville-la-Rivière|49.874|0.960|FR|Normandy|55
+Ouarville|48.355|1.774|FR|Centre-Val de Loire|55
+Oud-Zuilen|52.127|5.068|NL|Utrecht|55
+Ouokoukro|7.509|-4.376|CI|Lacs District|55
+Oust|42.875|1.215|FR|Occitanie|55
+Oudezeele|50.838|2.510|FR|Hauts-de-France|55
+Ouassou|7.564|-5.152|CI|Vallée du Bandama District|54
+Ouabache State Park|40.723|-85.107|US|Indiana|54|f
+Ouadda Airport|8.011|22.399|CF|Haute-Kotto|54|f
+Ounastunturi|68.266|23.773|FI|Lapland|54|f
+Ouray National Wildlife Refuge|40.155|-109.612|US|Utah|54|f
+Ourilandia|-6.762|-51.051|BR|Pará|54|f
+Ourinhos Airport|-22.966|-49.913|BR|São Paulo|54|f
+Ouro Sogui Airport|15.594|-13.323|SN|Saint-Louis|54|f
+Outer Hebrides|57.750|-7.000|GB|Scotland|54|f
+Outerbridge Crossing|40.525|-74.247|US|New York|54|f
+Outlet Canal|35.282|-119.324|US|California|54|f
+Ouvrage du Bambesch|49.117|6.606|FR|Grand Est|54|f
+Ouvrage du Simserhof|49.060|7.369|FR|Grand Est|54|f
+Ouilly-le-Tesson|48.987|-0.221|FR|Normandy|54
+Ouve-Wirquin|50.648|2.137|FR|Hauts-de-France|54
+‘Ounḏa Hémed|11.459|42.491|DJ|Arta|49|f
+Ouellette Island|-64.789|-64.400|AQ||49|f
+Outcast Islands|-64.808|-64.131|AQ||49|f
+Outer Circle Railway Linear Park|-37.845|145.076|AU|Victoria|49|f
+Outer Holm of Skaw|60.383|-0.900|GB|Scotland|49|f
+Outer Island|32.312|-64.862|BM|Sandys|49|f
+Outer Moraine Reef|-54.100|-37.133|GS||49|f
+Outer Sister Island|-39.650|147.990|AU|Tasmania|49|f
+Outram Island|12.233|93.085|IN|Andaman and Nicobar|49|f
+Outrigger Peak|50.967|-117.369|CA|British Columbia|49|f
+Ouvrage du Hackenberg|49.349|6.382|FR|Grand Est|49|f
+Ouvrage Immerhof|49.426|6.135|FR|Grand Est|49|f
+Ouimet Canyon|48.783|-88.667|CA|Ontario|40|f
+Our Lady of the Rockies|45.999|-112.446|US|Montana|40|f
+Outcast Islands|68.439|-112.464|CA|Nunavut|40|f
+Outer Island|43.470|-65.752|CA|Nova Scotia|40|f
+Outpost Peak|52.650|-118.252|CA|Alberta|40|f
 Ou Chrov|13.639|102.584|KH|Banteay Meanchey|0
 Ou Ya Dav|13.671|107.347|KH|Ratanakiri|0
 Ouaoula|31.870|-6.750|MA|Beni Mellal-Khenifra|0
+Oubei|28.047|120.653|CN|Zhejiang|0
+Ouchi|29.752|112.316|CN|Hubei|0
 Ōuda|34.467|135.933|JP|Nara|0
 Ouijjane|29.628|-9.540|MA|Souss-Massa|0
+Oujiangcha|28.469|112.596|CN|Hunan|0
+Oukenhe|49.791|124.801|CN|Inner Mongolia|0
 Oulad Daoud|34.404|-4.693|MA|Fes-Meknes|0
+Ouli|27.927|114.834|CN|Jiangxi|0
+Oumiao|31.861|112.168|CN|Hubei|0
+Ouning|27.032|118.311|CN|Fujian|0
+Oupu|52.783|126.057|CN|Heilongjiang|0
 Ourgou-Manéga|12.780|-1.508|BF|Plateau-Central|0
 Ourique|37.654|-8.226|PT|Beja|0
 Oursi|14.676|-0.460|BF|Sahel|0
 Ourtzagh|34.535|-4.969|MA|Fes-Meknes|0
 Outer Islands|-9.972|51.034|SC||0|r
+Outing|23.416|116.713|CN|Guangdong|0

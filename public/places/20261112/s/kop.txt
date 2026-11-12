@@ -1,7 +1,7 @@
 Kopeysk|55.117|61.618|RU|Chelyabinsk|97
 Koppal|15.345|76.155|IN|Karnataka|97
+Koprivnica-Križevci|46.167|16.833|HR||97|r
 Köpenick|52.446|13.575|DE|State of Berlin|97
-Koprivnica-Križevci|46.167|16.833|HR||96|r
 Kopargaon|19.882|74.476|IN|Maharashtra|96
 Kopali|22.837|86.192|IN|Jharkhand|93
 Kópavogur|64.112|-21.913|IS|Capital Region|92
@@ -20,8 +20,11 @@ Kopong|-24.483|25.883|BW|South-East|83
 Ko Pha Ngan|9.758|100.029|TH|Surat Thani|81
 Kopervik|59.284|5.307|NO|Rogaland|81
 Kopyl’|53.152|27.091|BY|Minsk|80
+Ko Po Da Nai|7.971|98.808|TH|Krabi|78|f
 Kopychyntsi|49.103|25.912|UA|Ternopil|76
+Kõpu Peninsula|58.906|22.228|EE|Hiiumaa|76|f
 Köprübaşı|40.807|40.114|TR|Trabzon|75
+Ko Phaluai|9.528|99.685|TH|Surat Thani|74|f
 Koppa|13.530|75.363|IN|Karnataka|74
 Köprübaşı|38.750|28.405|TR|Manisa|73
 Koplik|42.214|19.436|AL|Shkodër County|72
@@ -29,39 +32,87 @@ Kopanskaya|46.279|38.480|RU|Krasnodar Krai|72
 Kopparberg|59.876|14.994|SE|Örebro|70
 Kopashnovo|48.218|23.484|UA|Zakarpattia|70
 Koprivshtitsa|42.633|24.350|BG|Sofia|69
+Ko Pu|7.836|98.962|TH|Krabi|69|f
+Kopaonik|43.286|20.809|RS|Central Serbia|69|f
 Kopéragui|5.792|-6.662|CI|Bas-Sassandra District|68
 Kopčany|48.787|17.113|SK|Trnava Region|68
 Koprzywnica|50.593|21.584|PL|Świętokrzyskie|68
 Kopparmora|59.333|18.583|SE|Stockholm|67
 Koprinka|42.633|25.333|BG|Stara Zagora|67
+Ko Phithak|10.052|99.188|TH|Chumphon|67|f
+Ko Phra Thong|9.083|98.283|TH|Phang Nga|67|f
 Kop van Zuid|51.906|4.487|NL|South Holland|67
 Kopidlno|50.331|15.270|CZ|Hradec Králové Region|67
 Kopanós|40.634|22.129|GR|Central Macedonia|67
 Kopomá|20.649|-89.900|MX|Yucatán|66
 Koppigen|47.131|7.605|CH|Bern|66
+Kopački Rit Nature Park|45.587|18.877|HR|County of Osijek-Baranja|65|f
+Kópasker Airport|66.311|-16.463|IS|Northeast|65|f
 Kopor’ye|59.706|29.042|RU|Leningradskaya Oblast'|64
+Ko Phai|12.935|100.675|TH|Chon Buri|63|f
 Köprübaşı|36.109|32.843|TR|Mersin|62
 Kopliku i Siperm|42.228|19.467|AL|Shkodër County|62
 Köpingebro|55.455|13.935|SE|Skåne|62
 Kopaihorod|48.854|27.802|UA|Vinnytsia|62
 Köpmanholmen|63.167|18.567|SE|Västernorrland|62
 Kopuaranga|-40.833|175.667|NZ|Wellington Region|61
+Ko Phi Phi Le|7.583|98.717|TH||61|f
 Koprivnički Bregi|46.139|16.906|HR|Koprivnica-Križevci|61
 Kopiémévogo|9.683|-5.543|CI|Savanes District|61
 Kopani|47.760|38.338|UA|Donetsk|61
 Koppang|61.572|11.047|NO|Innlandet|61
 Kopčevec|45.804|16.213|HR|Zagreb County|61
 Koprivnički Ivanec|46.203|16.817|HR|Koprivnica-Križevci|60
+Kopidougou|5.551|-5.519|CI|Goh-Djiboua|60
+Kopanáki|37.289|21.819|GR|Peloponnese|59
+Kopytkowo|53.737|18.649|PL|Pomerania|59
+Kopys’|54.321|30.288|BY|Vitebsk|59
+Kopynivtsi|48.543|22.640|UA|Zakarpattia|58
+Ko Phi|9.640|99.675|TH|Surat Thani|58|f
+Ko Phi Phi Lee|7.737|98.769|TH||58|f
+Kopanka|49.983|19.793|PL|Lesser Poland|58
+Koppel|40.834|-80.322|US|Pennsylvania|57
+Koprucu|41.471|41.559|TR|Artvin|57
+Kopačin Dol|41.959|21.139|MK|Zhelino|57
+Kopuzlu|37.953|40.959|TR|Diyarbakır Province|57
+Kopingué|8.947|-3.182|CI|Zanzan District|57
+Koppom|59.703|12.154|SE|Värmland|57
+Koprivnica|49.157|21.394|SK|Prešov Region|56
 Kopstal|49.664|6.073|LU|Capellen|56
+Kopperston|37.748|-81.570|US|West Virginia|56
 Kopfing im Innkreis|48.440|13.658|AT|Upper Austria|56
+Kopte|21.055|-89.231|MX|Yucatán|55
+Koparan|39.727|32.668|TR|Ankara|54
+Kopaitic Island|-63.315|-57.911|AQ||54|f
+Köpetdag stadiony|37.949|58.370|TM||54|f
+Koprivnik|42.654|20.233|XK||54|f
 Koppl|47.808|13.156|AT|Salzburg|53
+Ko Pha Ngan Airport|9.741|100.071|TH|Surat Thani|49|f
+Kopalnia Soli Wieliczka|49.983|20.054|PL|Lesser Poland|49|f
+Kopere, Mount|-82.283|158.850|AQ||49|f
+Koppal Airport|15.359|76.219|IN|Karnataka|49|f
+Kopren|43.303|22.840|RS|Central Serbia|49|f
+Kopp|50.183|6.583|DE|Rheinland-Pfalz|46
 Köprübaşı|41.048|35.517|TR|Samsun|41
+Kopa Bukowska|49.082|22.757|PL|Subcarpathia|40|f
+Kopachuck State Park|47.316|-122.678|US|Washington|40|f
+Kópavogsvöllur|64.104|-21.896|IS|Capital Region|40|f
+Kopiec Kościuszki|50.055|19.893|PL|Lesser Poland|40|f
+Kopiec Krakusa|50.038|19.958|PL|Lesser Poland|40|f
+Kopiec Piłsudskiego|50.060|19.847|PL|Lesser Poland|40|f
+Kopiec Wandy|50.070|20.068|PL|Lesser Poland|40|f
 Ko Pha Ngan|9.719|99.995|TH|Surat Thani|0
 Kop’yëvo|54.993|89.823|RU|Khakasiya Republic|0
 Kopachivka|50.880|25.223|UA|Volyn|0
 Kopači|43.678|19.028|BA|Srpska|0
 Kopang Satu|-8.633|116.352|ID|West Nusa Tenggara|0
+Kopen|-8.309|114.174|ID|East Java|0
+Kopen|-8.362|114.149|ID|East Java|0
+Kopi|-6.440|106.058|ID|Banten|0
+Kopibaru|-6.162|105.873|ID|Banten|0
 Kopibera|-6.155|105.873|ID|Banten|0
+Kopok|-6.944|113.406|ID|East Java|0
+Kopral|-8.182|112.455|ID|East Java|0
 Köprüköy|39.966|41.868|TR|Erzurum|0
 Köprülü|36.732|32.185|TR|Antalya|0
 Köprüören|39.508|29.762|TR|Kütahya|0

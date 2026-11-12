@@ -1,6 +1,7 @@
 Tianjin|39.142|117.177|CN|Tianjin|143
 Tianshui|34.580|105.742|CN|Gansu|122
 Tiaret|35.371|1.317|DZ|Tiaret|105
+Tiananmen Square|39.904|116.391|CN|Beijing|101|f
 Tianfu|37.264|122.052|CN|Shandong|101
 Tianguá|-3.732|-40.992|BR|Ceará|98
 Tianliu|37.000|118.783|CN|Shandong|97
@@ -16,6 +17,7 @@ Tiaoshi|29.277|106.642|CN|Chongqing|89
 Tianwei|23.893|120.524|TW|Taiwan|88
 Tía Juana|10.259|-71.363|VE|Zulia|88
 Tías|28.961|-13.645|ES|Canary Islands|86
+Tian Shan|42.000|80.000|KG||86|f
 Tianjia|30.090|105.857|CN|Chongqing|84
 Tianhe|31.288|108.193|CN|Chongqing|83
 Tianba|31.401|108.863|CN|Chongqing|80
@@ -33,6 +35,7 @@ Tianguismanalco|19.241|-98.423|MX|Puebla|74
 Tianguistengo (La Romera)|19.914|-99.326|MX|Hidalgo|73
 Tiaplé|10.098|-5.389|CI|Savanes District|72
 Tiagba|5.260|-4.723|CI|Lagunes District|72
+Tianmu Mountain|30.394|119.433|CN||71|f
 Tiasso|9.711|-6.255|CI|Savanes District|71
 Tianeti|42.110|44.968|GE|Mtskheta-Mtianeti|71
 Tianxing|31.471|109.540|CN|Chongqing|70
@@ -40,26 +43,123 @@ Tiahouo|7.488|-6.506|CI|Sassandra-Marahoue|70
 Tiahuanaco|-16.552|-68.680|BO|La Paz Department|70
 Tiarei|-17.533|-149.333|PF||69
 Tianguistongo|20.004|-99.039|MX|México|66
+Tiantangzhai|31.100|115.750|CN|Hubei|65|f
+Tianzhu Shan|31.067|116.167|CN|Anhui|65|f
 Tianguistengo|20.728|-98.632|MX|Hidalgo|64
 Tiachivka|48.039|23.587|UA|Zakarpattia|64
+Tianlun Ba|24.211|121.015|TW|Taiwan|63|f
+Tianshui Air Base|34.560|105.859|CN|Gansu|63|f
+Tiantai Shan|29.500|121.233|CN|Zhejiang|63|f
 Tiaha|5.294|-4.483|CI|Lagunes District|62
+Tianjin Binhai International Airport|39.130|117.353|CN|Tianjin|61|f
+Tianmen Shan|29.049|110.477|CN|Hunan|61|f
+Tianmu Hu|31.288|119.418|CN|Jiangsu|61|f
+Tiarno di Sopra|45.891|10.672|IT|Trentino-Alto Adige|60
+Tiahoué|8.153|-7.889|CI|Woroba|60
+Tianguispicula|21.191|-98.706|MX|San Luis Potosí|59
+Tialaka|10.487|-6.342|CI|Savanes District|59
+Tianquizolco|18.223|-99.755|MX|Guerrero|59
+Tianda|7.858|-5.832|CI|Woroba|59
+Tiantong Si|29.805|121.791|CN|Zhejiang|58|f
+Tianxing Zhou Chang Jiang Daqiao|30.659|114.400|CN|Hubei|58|f
+Tianzhu Shan|30.750|116.450|CN|Anhui|58|f
+Tianguistengo|18.255|-98.016|MX|Puebla|58
+Tiaro|-25.726|152.583|AU|Queensland|58
+Tiapleu|7.504|-8.073|CI|Montagnes|58
+Tianhana|10.233|-6.295|CI|Savanes District|57
+Tiarno di Sotto|45.894|10.684|IT|Trentino-Alto Adige|57
+Tiabolébly I|6.575|-8.491|CI|Montagnes|57
+Tiacaque|19.673|-99.713|MX|México|56
+Tiambra|-11.238|-75.690|PE|Junin|55
 Tiana|40.067|9.148|IT|Sardinia|54
+Tiakur Jos Orno Imsula Airport|-8.140|127.907|ID|Maluku|54|f
+Tian Tan Buddha|22.254|113.905|HK|Islands|49|f
 Tiabaya|-16.450|-71.590|PE|Arequipa|0
 Tiahynka|46.781|33.056|UA|Kherson|0
+Tian’an|19.020|108.909|CN|Hainan|0
+Tian’e|30.774|113.579|CN|Hubei|0
 Tian’e|24.993|107.169|CN|Guangxi|0
+Tian’erhe|30.537|113.440|CN|Hubei|0
+Tianbao|28.530|114.761|CN|Jiangxi|0
+Tianbao|32.015|109.843|CN|Hubei|0
+Tianbu|31.928|121.114|CN|Jiangsu|0
+Tianbu|26.395|116.191|CN|Jiangxi|0
 Tianchang|32.685|119.009|CN|Anhui|0
 Tiancheng|29.540|114.042|CN|Hubei|0
+Tiancheng|28.171|121.031|CN|Zhejiang|0
+Tianchi|36.236|107.312|CN|Gansu|0
 Tianchi|30.281|105.023|CN|Sichuan|0
 Tiandeng|23.084|107.139|CN|Guangxi|0
+Tiandian|31.029|113.448|CN|Hubei|0
 Tiandiba|27.702|103.248|CN|Sichuan|0
 Tiandong|23.600|107.123|CN|Guangxi|0
+Tiandu|34.492|107.962|CN|Shaanxi|0
+Tiandu|18.285|109.582|CN|Hainan|0
+Tianfen|32.063|121.542|CN|Jiangsu|0
+Tianfu|34.264|108.594|CN|Shaanxi|0
+Tiang|-8.002|111.888|ID|East Java|0
+Tiangan|22.726|115.508|CN|Guangdong|0
+Tianhe|37.500|122.054|CN|Shandong|0
+Tianhe|30.804|114.214|CN|Hubei|0
+Tianhekou|32.128|113.447|CN|Hubei|0
+Tianhong|29.685|116.438|CN|Jiangxi|0
+Tianhu|30.917|118.597|CN|Anhui|0
+Tianjiaba|32.172|110.145|CN|Hubei|0
+Tianjiahe|35.062|103.941|CN|Gansu|0
 Tianjiao|39.826|110.000|CN|Inner Mongolia|0
+Tianjiazhai|36.454|101.793|CN|Qinghai|0
+Tianjiazhuang|34.515|107.476|CN|Shaanxi|0
+Tianjingyuan|27.532|116.647|CN|Jiangxi|0
 Tianlin|24.297|106.225|CN|Guangxi|0
+Tianlou|34.250|119.600|CN|Jiangsu|0
+Tianmen|45.882|128.665|CN|Heilongjiang|0
 Tianmen|30.659|113.154|CN|Hubei|0
+Tianmuhu|31.326|119.439|CN|Jiangsu|0
+Tiannan|28.107|115.107|CN|Jiangxi|0
+Tianning|30.896|120.801|CN|Zhejiang|0
 Tianning|37.547|112.161|CN|Shanxi|0
+Tianqian|22.728|115.503|CN|Guangdong|0
+Tianqiao|34.052|108.563|CN|Shaanxi|0
+Tianqiaoling|43.590|129.630|CN|Jilin|0
+Tianshan|32.624|119.248|CN|Jiangsu|0
 Tianshan|43.887|120.093|CN|Inner Mongolia|0
+Tianshengjie|30.878|120.112|CN|Zhejiang|0
+Tianshi|34.622|109.428|CN|Shaanxi|0
+Tianshi|28.781|120.631|CN|Zhejiang|0
+Tianshifu|41.256|124.353|CN|Liaoning|0
+Tianta|39.082|117.181|CN|Tianjin|0
+Tiantai|28.578|105.747|CN|Guizhou|0
+Tiantai|27.830|114.019|CN|Jiangxi|0
+Tiantai|29.654|107.456|CN|Chongqing|0
 Tiantai Chengguanzhen|29.136|121.030|CN|Zhejiang|0
+Tiantaishan|27.885|114.001|CN|Jiangxi|0
 Tiantan|35.966|111.842|CN|Shanxi|0
+Tiantang|34.920|107.551|CN|Shaanxi|0
 Tiantang|30.850|116.350|CN|Anhui|0
+Tiantang|22.562|111.999|CN|Guangdong|0
+Tiantang|28.152|108.560|CN|Guizhou|0
+Tiantang|25.552|111.886|CN|Hunan|0
+Tianwan|28.093|110.234|CN|Hunan|0
+Tianwang|31.746|119.203|CN|Jiangsu|0
+Tianwang|34.301|107.470|CN|Shaanxi|0
+Tianxin|28.136|114.604|CN|Jiangxi|0
+Tianxin|25.398|115.504|CN|Jiangxi|0
+Tianxin|24.264|115.491|CN|Guangdong|0
+Tianxing|30.669|114.415|CN|Hubei|0
+Tianxingchang|27.842|103.982|CN|Yunnan|0
+Tianya|18.308|109.327|CN|Hainan|0
 Tianyi|41.567|119.333|CN|Inner Mongolia|0
+Tianyu|27.141|115.053|CN|Jiangxi|0
+Tianyuan|30.200|121.182|CN|Zhejiang|0
+Tianyuan|24.187|114.419|CN|Guangdong|0
+Tianyuan|26.054|116.845|CN|Fujian|0
+Tianzhen|29.867|115.472|CN|Hubei|0
 Tianzhou|23.741|106.913|CN|Guangxi|0
+Tianzhu|40.058|116.575|CN|Beijing|0
+Tianzhuang|33.567|113.354|CN|Henan|0
+Tianzhuangtai|40.839|122.138|CN|Liaoning|0
+Tianzishan|29.410|110.436|CN|Hunan|0
+Tiaodeng|29.406|106.427|CN|Chongqing|0
+Tiaofeng|20.686|110.252|CN|Guangdong|0
+Tiaolou|19.939|109.535|CN|Hainan|0
+Tiara|-6.940|113.134|ID|East Java|0

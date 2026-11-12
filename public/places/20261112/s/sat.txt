@@ -1,4 +1,4 @@
-Satu Mare County|47.750|23.000|RO||112|r
+Satu Mare County|47.750|23.000|RO||113|r
 Satna|24.577|80.827|IN|Madhya Pradesh|109
 Satakunta|61.500|22.167|FI||108|r
 Sātkhira|22.708|89.072|BD|Khulna Division|102
@@ -23,6 +23,7 @@ Satyāmangala|13.019|76.124|IN|Karnataka|85
 Sátiro Dias|-11.604|-38.583|BR|Bahia|84
 Sātalkheri|24.652|75.998|IN|Rajasthan|84
 Satipo|-11.252|-74.639|PE|Junin|84
+Satu Mare International Airport|47.703|22.886|RO|Satu Mare County|83|f
 Satlapur|23.113|77.527|IN|Madhya Pradesh|83
 Sathankulam|8.442|77.913|IN|Tamil Nadu|83
 Satwās|22.536|76.685|IN|Madhya Pradesh|83
@@ -45,6 +46,7 @@ Satikran|6.827|-3.743|CI|Comoé District|76
 Satsuma|30.853|-88.056|US|Alabama|76
 Satan|42.482|130.143|KP|North Hamgyong|76
 Sattiyavijayanagaram|12.676|79.318|IN|Tamil Nadu|75
+Satna Airport|24.562|80.855|IN|Madhya Pradesh|75|f
 Sātraud Khurd|29.131|75.788|IN|Haryana|75
 Sato|33.960|135.119|JP|Wakayama|75
 Satulung|47.567|23.433|RO|Maramureş|75
@@ -61,6 +63,7 @@ Satan|6.863|124.409|PH|Autonomous Region in Muslim Mindanao|72
 Sátão|40.742|-7.733|PT|Viseu|72
 Satinka|52.375|41.672|RU|Tambov Oblast|71
 Satrup|54.692|9.605|DE|Schleswig-Holstein|71
+Saṭaf|31.769|35.125|IL|Jerusalem|70|f
 Satigny|46.215|6.036|CH|Geneva|70
 Satis|54.923|43.230|RU|Nizhny Novgorod Oblast|70
 Şatırhüyük|37.217|36.975|TR|Gaziantep|69
@@ -69,6 +72,7 @@ Satovcha|41.617|23.983|BG|Blagoevgrad|68
 Sataniv|49.255|26.254|UA|Khmelnytskyi|67
 Satu Nou|44.269|28.226|RO|Constanța County|67
 Saturnino María Laspiur|-31.703|-62.483|AR|Cordoba|67
+Satsuma Peninsula|31.417|130.417|JP|Kagoshima|67|f
 Satu Mare|46.341|25.384|RO|Harghita County|66
 Satu Nou|46.696|27.749|RO|Vaslui County|66
 Satapuala|-13.835|-171.980|WS|A'ana|66
@@ -82,10 +86,12 @@ Satillieu|45.150|4.614|FR|Auvergne-Rhône-Alpes|64
 Sattel|47.082|8.636|CH|Schwyz|64
 Satkhe|41.287|43.657|GE|Samtskhe-Javakheti|64
 Sātlū|37.995|45.958|IR|East Azerbaijan|63
+Satsunan Islands|29.000|130.000|JP|Kagoshima|63|f
 Satroko|5.939|-5.534|CI|Goh-Djiboua|63
 Săteni|44.971|25.417|RO|Dâmbovița County|63
 Sătmărel|47.735|22.795|RO|Satu Mare County|63
 Satis|55.023|43.815|RU|Nizhny Novgorod Oblast|63
+Satupa'itea|-13.633|-172.633|WS||63|r
 Satu Nou|46.358|28.150|RO|Vaslui County|63
 Şatırlı|36.984|30.946|TR|Antalya|62
 Sat-Șugatag|47.798|23.906|RO|Maramureş|62
@@ -96,15 +102,63 @@ Sätila|57.542|12.434|SE|Västra Götaland|62
 Satriano|38.666|16.480|IT|Calabria|62
 Sätofta|55.917|13.550|SE|Skåne|61
 Satanta|37.437|-100.972|US|Kansas|61
+Såtbakkkollen|62.668|8.814|NO|Møre og Romsdal|61|f
+Satellite Island|48.681|-123.191|US|Washington|61|f
+Sātpura Range|21.417|76.167|IN|Madhya Pradesh|61|f
+Saturna Island|48.783|-123.153|CA|British Columbia|61|f
 Saticoy|34.283|-119.150|US|California|60
 Sáta|48.183|20.400|HU|Borsod-Abaúj-Zemplén|60
 Satu Mare|46.066|20.958|RO|Arad County|60
+Satu Nou|46.623|21.703|RO|Arad County|59
+Satowan Village|5.334|153.738|FM|Chuuk|58
+Sătuc|45.186|27.156|RO|Brăila County|58
+Satpara Lake|35.228|75.630|PK|Gilgit-Baltistan|58|f
+Satu Mare Ghetto|47.802|22.857|RO|Satu Mare County|58|f
 Sativanorte|6.132|-72.709|CO|Boyacá|58
+Sataua|-13.517|-172.694|WS|Vaisigano|58
+Satu Nou|44.956|28.684|RO|Tulcea County|58
+Satu Nou de Jos|47.616|23.569|RO|Maramureş|58
+Satus|46.270|-120.150|US|Washington|57
+Satu Nou|46.457|24.512|RO|Mureș County|57
+Satu Nou|47.110|24.627|RO|Bistrița-Năsăud County|57
+Sătuc|45.279|26.672|RO|Buzău County|57
+Satsop|47.003|-123.483|US|Washington|57
+Saturnino Ríos|17.626|-92.193|MX|Chiapas|56
+Saturargues|43.723|4.113|FR|Occitanie|56
+Satu Nou|44.484|24.886|RO|Arges|56
+Sataya|24.629|-107.655|MX|Sinaloa|56
+Satu Nou|44.222|24.893|RO|Teleorman County|55
 Sativasur|6.093|-72.712|CO|Boyacá|55
+Satnoeni|44.233|27.551|RO|Călărași County|55
+Satu Nou|46.689|27.299|RO|Bacău County|55
+Satu Nou|46.964|27.812|RO|Iași County|55
+Satnica|45.614|18.490|HR|County of Osijek-Baranja|55
+Satawal Village|7.380|147.026|FM|Yap State|55
+Satu Nou|44.596|25.479|RO|Dâmbovița County|54
+Satitoa|-14.028|-171.430|WS|Atua|54
+Satellite Island|-43.318|147.222|AU|Tasmania|54|f
+Šator|44.163|16.624|BA|Federation of B&H|54|f
+Šator Planina|44.170|16.600|BA||54|f
+Šatorsko Jezero|44.165|16.601|BA|Federation of B&H|54|f
+Saturn Glacier|-71.933|-68.700|AQ||54|f
+Satiguita|9.407|-4.518|CI|Savanes District|54
+Satava|60.369|22.163|FI|Southwest Finland|49|f
+Satna Railway Station|24.569|80.828|IN|Madhya Pradesh|49|f
+Sattelberg|-6.483|147.767|PG|Morobe Province|49|f
+Sattelkopf|47.417|10.450|DE|Bavaria|49|f
+Saturn V Launch Vehicle|34.711|-86.657|US|Alabama|49|f
+Sa Torreta|39.051|1.515|ES|Balearic Islands|40|f
+Satah Mountain|52.467|-124.701|CA|British Columbia|40|f
+Satigsun Island|68.551|-66.680|CA|Nunavut|40|f
+Satpura National Park|22.490|78.229|IN|Madhya Pradesh|40|f
+Sattelhorn|46.468|7.964|CH|Valais|40|f
 Sa Thầy|14.414|107.793|VN|Quang Ngai|0
+Satarteu|-8.321|120.518|ID|East Nusa Tenggara|0
 Satawal|7.382|147.032|FM|Yap State|0
 Sathing Phra|7.473|100.439|TH|Songkhla|0
 Satowan|5.334|153.738|FM|Chuuk|0
+Satowebrang|-8.416|117.127|ID|West Nusa Tenggara|0
+Satrejan|-8.143|112.221|ID|East Java|0
+Satria|-8.353|114.627|ID|Bali|0
 Satui|-3.782|115.457|ID|South Kalimantan|0
-Satupa'itea|-13.633|-172.633|WS||0|r
 Satupa‘itea|-13.766|-172.327|WS|Satupa'itea|0

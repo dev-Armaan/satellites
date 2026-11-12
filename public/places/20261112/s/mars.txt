@@ -10,6 +10,7 @@ Marseille 14|43.344|5.380|FR|Provence-Alpes-Côte d'Azur|96
 Marseille 12|43.296|5.436|FR|Provence-Alpes-Côte d'Azur|95
 Marseille 11|43.291|5.438|FR|Provence-Alpes-Côte d'Azur|95
 Marseille 10|43.279|5.415|FR|Provence-Alpes-Côte d'Azur|94
+Marseille Provence Airport|43.436|5.214|FR|Provence-Alpes-Côte d'Azur|94|f
 Marseille 04|43.302|5.401|FR|Provence-Alpes-Côte d'Azur|93
 Marseille 03|43.303|5.376|FR|Provence-Alpes-Côte d'Azur|93
 Marseille 05|43.296|5.401|FR|Provence-Alpes-Côte d'Azur|93
@@ -44,6 +45,7 @@ Marshfield|37.339|-92.907|US|Missouri|77
 Marshall|42.272|-84.963|US|Michigan|77
 Marseillan|43.357|3.528|FR|Occitanie|77
 Marsillargues|43.665|4.177|FR|Occitanie|76
+Marshall Islands International Airport|7.065|171.272|MH|Majuro Atoll|75|f
 Marsa|35.879|14.495|MT|Il-Marsa|75
 Marshyntsi|48.212|26.299|UA|Chernivtsi|75
 Marsh Harbour|26.541|-77.064|BS|Central Abaco|75
@@ -51,11 +53,14 @@ Marsannay-la-Côte|47.271|4.989|FR|Bourgogne-Franche-Comté|74
 Mårslet|56.067|10.161|DK|Central Jutland|74
 Marseilles|41.331|-88.708|US|Illinois|74
 Marshfield|42.092|-70.706|US|Massachusetts|73
+Marsabit Airport|2.345|37.999|KE|Marsabit County|72|f
 Marshall|43.168|-89.067|US|Wisconsin|72
 Marsden|53.600|-1.917|GB|England|72
 Marshall|39.391|-87.694|US|Illinois|72
 Marston Moretaine|52.064|-0.549|GB|England|72
 Marsaxlokk|35.842|14.543|MT|Marsaxlokk|71
+Marsh Island|29.566|-91.846|US|Louisiana|71|f
+Marshall Archipelago|-77.000|-148.500|AQ||71|f
 Marschacht|53.415|10.375|DE|Lower Saxony|71
 Marston|51.781|-1.245|GB|England|70
 Mârșa|45.700|24.370|RO|Sibiu County|70
@@ -70,10 +75,14 @@ Marsilly|46.231|-1.138|FR|New Aquitaine|67
 Marshfield Hills|42.146|-70.740|US|Massachusetts|67
 Mars Hill|35.827|-82.549|US|North Carolina|67
 Marstal|54.856|10.517|DK|South Denmark|66
+Mār Sābā|31.719|35.365|PS|West Bank|65|f
 Mars|40.696|-80.012|US|Pennsylvania|64
 Marsico Nuovo|40.424|15.735|IT|Basilicate|64
 Marsens|46.656|7.059|CH|Fribourg|64
 Marshall|38.865|-77.858|US|Virginia|63
+Marsh Harbour Airport|26.511|-77.084|BS|Central Abaco|63|f
+Marshall Don Hunter Sr. Airport|61.865|-162.031|US|Alaska|63|f
+Marshall, Mount|-84.683|164.650|AQ||63|f
 Marshallton|40.787|-76.539|US|Pennsylvania|63
 Marshfield|51.462|-2.320|GB|England|63
 Marsac-en-Livradois|45.479|3.728|FR|Auvergne-Rhône-Alpes|63
@@ -83,13 +92,75 @@ Marshall|35.909|-92.631|US|Arkansas|62
 Marsing|43.545|-116.813|US|Idaho|62
 Marsure|46.094|12.595|IT|Friuli Venezia Giulia|62
 Marsat|45.876|3.082|FR|Auvergne-Rhône-Alpes|62
+Marshfield Airport|42.098|-70.671|US|Massachusetts|61|f
 Marsanne|44.642|4.875|FR|Auvergne-Rhône-Alpes|61
 Marsum|53.211|5.726|NL|Friesland|60
 Maršová-Rašov|49.181|18.512|SK|Žilina Region|60
 Marsia|42.860|13.476|IT|The Marches|60
+Marseille-en-Beauvaisis|49.576|1.955|FR|Hauts-de-France|60
+Mars Hill|46.516|-67.866|US|Maine|60
+Marsh Gibbon|51.903|-1.061|GB|England|60
+Marsas|45.068|-0.383|FR|New Aquitaine|59
+Marsaneix|45.099|0.784|FR|New Aquitaine|59
 Marshall|35.797|-82.684|US|North Carolina|59
+Mars-la-Tour|49.099|5.886|FR|Grand Est|59
+Marsais|46.125|-0.600|FR|New Aquitaine|58
+Marsonnas|46.341|5.071|FR|Auvergne-Rhône-Alpes|58
+Mars Lake|45.582|-89.165|US|Wisconsin|58|f
+Marsa Alam International Airport|25.556|34.595|EG|Red Sea|58|f
+Marsco|57.249|-6.133|GB|Scotland|58|f
+Marsh Island|44.923|-68.662|US|Maine|58|f
+Marshall Memorial Municipal Airport|39.097|-93.199|US|Missouri|58|f
+Marshall’s Island|32.283|-64.810|BM|Warwick|58|f
+Marston Lake|39.630|-105.068|US|Colorado|58|f
+Marszowice|49.917|20.237|PL|Lesser Poland|58
+Marshallville|40.902|-81.734|US|Ohio|58
+Marsac|45.741|0.078|FR|New Aquitaine|57
+Marsworth|51.822|-0.666|GB|England|57
+Marsac|46.098|1.587|FR|New Aquitaine|57
+Marseillette|43.203|2.542|FR|Occitanie|57
+Marsangy|48.110|3.258|FR|Bourgogne-Franche-Comté|57
+Marsilieni|44.540|27.092|RO|Ialomița County|57
+Maršovice|49.714|14.565|CZ|Central Bohemia|57
+Marsannay-le-Bois|47.440|5.096|FR|Bourgogne-Franche-Comté|57
+Marseilles-lès-Aubigny|47.067|3.012|FR|Centre-Val de Loire|57
 Marsicovetere|40.376|15.826|IT|Basilicate|56
+Mars|46.153|4.245|FR|Auvergne-Rhône-Alpes|55
+Marsais-Sainte-Radégonde|46.538|-0.881|FR|Pays de la Loire|54
+Marston Magna|51.000|-2.583|GB|England|54
+Marsham|52.769|1.253|GB|England|54
+Marsa Brega Airport|30.378|19.576|LY|Al Wahat|54|f
+Marselisborg|56.128|10.203|DK|Central Jutland|54|f
+Marsh Butte|36.121|-112.245|US|Arizona|54|f
+Marshall Peak|-71.150|-61.521|AQ||54|f
+Marsjøen|62.352|10.064|NO|Innlandet|54|f
+Marshfield|44.733|-67.477|US|Maine|54
+Marshall Creek|33.017|-97.209|US|Texas|54
 Marsaglia|44.712|9.384|IT|Emilia-Romagna|51
+Mars Glacier|-71.833|-68.433|AQ||49|f
+Marsden Bay|54.981|-1.377|GB|England|49|f
+Marsh Glacier|-82.867|158.500|AQ||49|f
+Marshall Bennett Islands|-8.842|151.813|PG|Milne Bay Province|49|f
+Marshall County Airport|39.879|-80.740|US|West Virginia|49|f
+Marshall Mountains|-84.617|164.500|AQ||49|f
+Marshall Ridge|-78.050|164.083|AQ||49|f
+Marston Glacier|-76.900|162.500|AQ||49|f
+Marston, Mount|-76.900|162.200|AQ||49|f
+Marscholsee|46.510|9.171|CH|Grisons|40|f
+Marsh Island|44.396|-64.227|CA|Nova Scotia|40|f
+Marsh Island|27.526|-82.476|US|Florida|40|f
+Marsh Lake|44.665|-64.059|CA|Nova Scotia|40|f
+Marsh Lake|60.473|-134.310|CA|Yukon|40|f
+Marsh Marigold Lake|49.684|-125.616|CA|British Columbia|40|f
+Marsh Ridge|-85.767|-146.167|AQ||40|f
+Marsh-Billings-Rockefeller National Historical Park|43.633|-72.535|US|Vermont|40|f
+Marshall Covered Bridge|39.883|-87.327|US|Indiana|40|f
+Marshall Gold Discovery State Historic Park Museum|38.800|-120.892|US|California|40|f
+Marshall Lake|44.158|-114.986|US|Idaho|40|f
+Marshall M Fredericks Sculpture Museum|43.514|-83.964|US|Michigan|40|f
+Marshall Meadows Bay|55.805|-2.028|GB|England|40|f
+Marshall Space Flight Center|34.647|-86.674|US|Alabama|40|f
+Marshy Lake|49.315|-124.730|CA|British Columbia|40|f
 Marsaglia|44.453|7.980|IT|Piedmont|39
 Mârşani|44.017|24.017|RO|Dolj|0
 Marston|53.267|-2.500|GB|England|0

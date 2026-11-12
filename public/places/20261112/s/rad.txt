@@ -3,8 +3,8 @@ Radès|36.769|10.275|TN|Ben Arous Governorate|97
 Raduzhny|62.096|77.475|RU|Khanty-Mansia|94
 Radomsko|51.067|19.445|PL|Łódź Voivodeship|93
 Rādhanpur|23.832|71.605|IN|Gujarat|92
-Radebeul|51.107|13.660|DE|Saxony|90
 Radovish|41.650|22.500|MK||90|r
+Radebeul|51.107|13.660|DE|Saxony|90
 Radolfzell|47.742|8.971|DE|Baden-Wurttemberg|90
 Radnor|40.046|-75.360|US|Pennsylvania|90
 Radcliffe|53.562|-2.325|GB|England|90
@@ -36,10 +36,12 @@ Radlett|51.686|-0.319|GB|England|78
 Radeburg|51.215|13.728|DE|Saxony|78
 Răducăneni|46.950|27.933|RO|Iași County|78
 Radcliffe on Trent|52.948|-1.039|GB|England|78
+Radio Tower Berlin|52.505|13.278|DE|State of Berlin|77|f
 Rādhākund|27.524|77.491|IN|Uttar Pradesh|76
 Rada Tilly|-45.925|-67.554|AR|Chubut|76
 Radaškovičy|54.155|27.241|BY|Minsk|76
 Radovljica|46.343|14.175|SI|Radovljica|75
+Radin Inten II International Airport|-5.243|105.177|ID|Lampung|75|f
 Radziejów|52.625|18.528|PL|Kujawsko-Pomorskie|75
 Radymno|49.947|22.824|PL|Subcarpathia|75
 Radstock|51.292|-2.445|GB|England|74
@@ -57,18 +59,26 @@ Radibor|51.245|14.398|DE|Saxony|71
 Raditsa-Krylovka|53.316|34.358|RU|Bryansk Oblast|71
 Radoszyce|51.074|20.258|PL|Świętokrzyskie|71
 Raddusa|37.475|14.535|IT|Sicily|70
+Radfjorden|60.586|5.172|NO|Vestland|70|f
+Radhošť|49.491|18.223|CZ|Moravian-Silesian Region|70|f
 Radomyśl Wielki|50.197|21.277|PL|Subcarpathia|70
 Radcha|48.851|24.656|UA|Ivano-Frankivsk|69
 Radolista|41.164|20.623|MK|Struga|69
 Radlje ob Dravi|46.615|15.225|SI|Municipality of Radlje ob Dravi|69
 Radziszów|49.935|19.815|PL|Lesser Poland|69
 Radłów|50.084|20.850|PL|Lesser Poland|69
+Radford Island|-76.900|-146.600|AQ||69|f
+Rådhusplassen|59.911|10.733|NO|Oslo|69|f
 Raduzhnyy|55.137|38.728|RU|Moscow Oblast|68
 Radfeld|47.448|11.914|AT|Tyrol|68
 Radwanice|51.054|17.109|PL|Lower Silesia|68
 Radków|50.504|16.401|PL|Lower Silesia|68
 Radstadt|47.383|13.450|AT|Salzburg|68
 Rādekān|35.989|49.579|IR|Qazvin Province|67
+Radom-Sadków Airport|51.390|21.209|PL|Mazovia|67|f
+Radomir|41.321|23.120|BG|Blagoevgrad|67|f
+Radoniq Lake|42.491|20.416|XK||67|f
+Radstadt Tauern|47.250|13.400|AT|Salzburg|67|f
 Radumlya|56.069|37.150|RU|Moscow Oblast|67
 Radenci|46.642|16.038|SI|Municipality of Radenci|67
 Radeče|46.066|15.182|SI|Municipality of Radeče|67
@@ -82,6 +92,7 @@ Radzyń Chełmiński|53.385|18.937|PL|Kujawsko-Pomorskie|66
 Radbruch|53.311|10.286|DE|Lower Saxony|66
 Radovitskiy|55.128|39.796|RU|Moscow Oblast|66
 Radojevo|45.746|20.789|RS|Vojvodina|65
+Radøy|60.691|4.997|NO|Vestland|65|f
 Radnice|49.857|13.606|CZ|Plzeň Region|65
 Radenthein|46.801|13.712|AT|Carinthia|65
 Radyvonivka|46.659|35.249|UA|Zaporizhzhia|65
@@ -94,6 +105,7 @@ Radisne|47.000|30.339|UA|Odesa|64
 Radostowice|50.003|18.881|PL|Silesia|64
 Radenka|44.583|21.765|RS|Central Serbia|64
 Radoľa|49.294|18.792|SK|Žilina Region|64
+Raduša|43.873|17.451|BA|Federation of B&H|63|f
 Rădești|46.073|27.789|RO|Galați County|63
 Radziłów|53.410|22.410|PL|Podlasie|63
 Rădeşti|46.267|23.717|RO|Alba County|63
@@ -112,6 +124,7 @@ Radzanowo|52.573|19.891|PL|Mazovia|61
 Radomir|44.121|24.168|RO|Dolj|61
 Radonice|50.143|14.610|CZ|Central Bohemia|61
 Radoboj|46.166|15.924|HR|Krapina-Zagorje|61
+Radočelo|43.461|20.449|RS||61|f
 Radslavice|49.478|17.517|CZ|Olomouc Region|61
 Radinghem-en-Weppes|50.619|2.909|FR|Hauts-de-France|61
 Rădoiești-Deal|44.150|25.133|RO|Teleorman County|61
@@ -123,15 +136,83 @@ Radenković|44.922|19.495|RS|Vojvodina|60
 Radon|48.502|0.103|FR|Normandy|60
 Radomin|53.087|19.194|PL|Kujawsko-Pomorskie|60
 Rădulești|44.767|26.350|RO|Ialomița County|60
+Rădeni|46.590|27.376|RO|Vaslui County|60
+Rădoaia|46.309|26.928|RO|Bacău County|60
+Raduň|49.893|17.943|CZ|Moravian-Silesian Region|60
+Radostín nad Oslavou|49.463|15.965|CZ|Vysocina|60
+Rădoiești-Vale|44.146|25.154|RO|Teleorman County|59
+Radyvonivka|49.643|33.546|UA|Poltava|59
 Radzanów|52.942|20.092|PL|Mazovia|59
 Radecznica|50.752|22.830|PL|Lublin|59
+Radenac|47.963|-2.713|FR|Brittany|59
+Raddon-et-Chapendu|47.845|6.474|FR|Bourgogne-Franche-Comté|59
+Rădăcinești|45.279|24.443|RO|Vâlcea County|59
+Radějov|48.859|17.345|CZ|South Moravian|59
+Radoși|45.189|23.596|RO|Gorj County|58
 Radomyśl|50.681|21.944|PL|Subcarpathia|58
+Radôstka|49.319|18.939|SK|Žilina Region|58
+Radar Base|28.858|-100.530|US|Texas|58
+Radepont|49.351|1.328|FR|Normandy|57
+Rădeni|47.429|27.435|RO|Iași County|57
 Radda in Chianti|43.485|11.374|IT|Tuscany|57
 Rădăuți-Prut|48.233|26.800|RO|Botoșani County|57
+Radisne|46.492|30.574|UA|Odesa|57
+Radošić|43.698|16.603|HR|Split-Dalmatia|57
+Radostice|49.134|16.477|CZ|South Moravian|57
 Radicofani|42.896|11.768|IT|Tuscany|56
+Rădeana|46.220|26.839|RO|Bacău County|56
+Rădulești|45.743|27.313|RO|Vrancea|56
+Radu Negru|44.862|25.010|RO|Arges|56
+Rădulești|44.244|25.557|RO|Teleorman County|56
+Radłow|50.933|18.535|PL|Opole Voivodeship|56
+Radewijk|52.572|6.710|NL|Overijssel|56
+Radimna|44.795|21.564|RO|Caraș-Severin County|56
+Radków|50.714|19.987|PL|Świętokrzyskie|56
+Radziechowice Pierwsze|51.069|19.326|PL|Łódź Voivodeship|56
+Radešínská Svratka|49.508|16.085|CZ|Vysocina|55
+Raduhn|53.480|11.684|DE|Mecklenburg-Vorpommern|55
+Rádlo|50.698|15.116|CZ|Liberec Region|55
+Rădești|46.271|22.252|RO|Arad County|55
+Radošovice|49.234|13.899|CZ|South Bohemian Region|55
 Radziejowice|52.008|20.548|PL|Mazovia|55
+Radalivka|49.556|33.476|UA|Poltava|55
+Radějovice|49.947|14.565|CZ|Central Bohemia|55
+Radcliffe|42.315|-93.434|US|Iowa|55
+Radovin|44.234|15.369|HR|Zadar|54
+Rădinești|44.791|23.765|RO|Gorj County|54
+Radostyán|48.179|20.653|HU|Borsod-Abaúj-Zemplén|54
+Radan|43.017|21.510|RS||54|f
+Radhadamodar Sanskrit Vidyapeeth|27.880|83.933|NP|Gandaki Pradesh|54|f
+Radočelo|43.454|20.447|RS||54|f
+Radok Lake|-70.867|68.000|AQ||54|f
+Radom Ghetto|51.417|21.150|PL|Mazovia|54|f
 Radicondoli|43.260|11.046|IT|Tuscany|54
+Radkov|49.826|17.770|CZ|Moravian-Silesian Region|54
+Radimov|48.751|17.196|SK|Trnava Region|54
 Radzanów|51.558|20.864|PL|Mazovia|51
+Radener See|53.775|12.449|DE|Mecklenburg-Vorpommern|49|f
+Radian Glacier|-78.217|163.000|AQ||49|f
+Radigan Point|-71.388|-74.314|AQ||49|f
+Radlinski, Mount|-82.550|-103.667|AQ||49|f
+Radspinner, Mount|-71.483|164.550|AQ||49|f
+Raduha|46.417|14.750|SI|Municipality of Solčava|49|f
+Rade|54.331|9.745|DE|Schleswig-Holstein|48
+Rada Peak|-78.617|-85.217|AQ||40|f
+Radcliffe Tower|53.564|-2.310|GB|England|40|f
+Radev Point|-62.638|-61.201|AQ||40|f
+Radichkov Peak|-62.680|-60.030|AQ||40|f
+Radisson Lake|47.163|-95.211|US|Minnesota|40|f
+Radlefshoren|46.714|8.355|CH|Bern|40|f
+Radnevo Peak|-62.543|-60.177|AQ||40|f
+Radnor Gardens|51.441|-0.332|GB|England|40|f
+Radoy Ralin Peak|-62.641|-60.024|AQ||40|f
+Radstock Bay|74.752|-91.001|CA|Nunavut|40|f
+Raduil Point|-63.304|-58.749|AQ||40|f
+Rade|54.001|9.742|DE|Schleswig-Holstein|40
 Rada de Haro|39.570|-2.621|ES|Castille-La Mancha|36
 Radā‘|14.415|44.837|YE|Al Bayda|0
+Radamata|-9.426|119.245|ID|East Nusa Tenggara|0
+Radamata|-9.549|119.146|ID|East Nusa Tenggara|0
+Rade bei Hohenwestedt|54.101|9.718|DE|Schleswig-Holstein|0
+Rado|-8.474|120.671|ID|East Nusa Tenggara|0
 Raduria|-2.939|132.334|ID|West Papua|0

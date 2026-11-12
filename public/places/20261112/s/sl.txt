@@ -42,16 +42,21 @@ Slatina|45.703|17.703|HR|Virovitica-Podravina|79
 Slov`yanoserbsk|48.698|38.981|UA|Luhansk|78
 Slawharad|53.443|31.000|BY|Mogilev|78
 Sleidinge|51.134|3.674|BE|Flanders|78
+Słupsk-Redzikowo Airport|54.479|17.108|PL|Pomerania|78|f
 Slivnitsa|42.852|23.038|BG|Sofia|78
 Slovenska Bistrica|46.393|15.573|SI|Municipality of Slovenska Bistrica|77
 Slavkov u Brna|49.153|16.876|CZ|South Moravian|77
 Slovenj Gradec|46.511|15.084|SI|Urban Municipality of Slovenj Gradec|77
 Šlapanice|49.169|16.727|CZ|South Moravian|77
+Slanské Pohorie|48.800|21.417|SK|Košice Region|77|f
 Slănic|45.250|25.933|RO|Prahova|77
 Slangerup|55.850|12.183|DK|Capital Region|77
 Sławków|50.299|19.390|PL|Silesia|77
 Slave Lake|55.283|-114.769|CA|Alberta|77
 Slatyne|50.210|36.154|UA|Kharkiv|76
+SLAF China Bay|8.539|81.182|LK|Eastern Province|76|f
+Slavyanka|41.383|23.600|BG|Blagoevgrad|76|f
+Sligo Airport|54.280|-8.599|IE|Connacht|76|f
 Slim River|3.833|101.400|MY|Perak|76
 Slovenský Grob|48.258|17.274|SK|Bratislava Region|76
 Slavičín|49.088|17.873|CZ|Zlín|76
@@ -60,6 +65,7 @@ Sleeuwijk|51.816|4.953|NL|North Brabant|75
 Šluknov|51.004|14.453|CZ|Ústí nad Labem Region|75
 Sládkovičovo|48.201|17.639|SK|Trnava Region|75
 Slavsk|55.042|21.677|RU|Kaliningrad Oblast|74
+Slieve Donard|54.180|-5.921|GB|Northern Ireland|74|f
 Slinger|43.334|-88.286|US|Wisconsin|74
 Slatina|47.450|26.017|RO|Suceava|74
 Slobozia Bradului|45.500|27.050|RO|Vrancea|74
@@ -68,6 +74,8 @@ Slănic-Moldova|46.223|26.474|RO|Bacău County|74
 Slovenske Konjice|46.337|15.423|SI|Municipality of Slovenske Konjice|74
 Slavyanovo|43.467|24.867|BG|Pleven|74
 Sliač|48.617|19.137|SK|Banská Bystrica Region|74
+Sliač Airport|48.638|19.134|SK|Banská Bystrica Region|73|f
+Slovenské Rudohorie|48.750|20.333|SK|Košice Region|73|f
 Słopnice|49.685|20.343|PL|Lesser Poland|73
 Śliwice|53.709|18.174|PL|Kujawsko-Pomorskie|73
 Słomniki|50.240|20.082|PL|Lesser Poland|73
@@ -75,10 +83,13 @@ Sladna|44.729|18.426|BA|Federation of B&H|73
 Slatington|40.748|-75.612|US|Pennsylvania|73
 Slaughterville|35.087|-97.335|US|Oklahoma|73
 Slobozia-Mândra|43.917|24.700|RO|Teleorman County|72
+Slave Lake Airport|55.293|-114.777|CA|Alberta|72|f
+Slavkovský štít|49.166|20.185|SK|Prešov Region|72|f
 Slatiňany|49.921|15.814|CZ|Pardubice Region|72
 Sława|51.876|16.072|PL|Lubusz|72
 Slivileşti|44.783|23.133|RO|Gorj County|72
 Slavgorodskoye|53.021|78.644|RU|Altai Krai|71
+Slidell Airport|30.345|-89.821|US|Louisiana|71|f
 Slippery Rock|41.064|-80.056|US|Pennsylvania|71
 Slangrivier|-34.137|20.862|ZA|Western Cape|71
 Sloan|42.893|-78.794|US|New York|71
@@ -91,6 +102,8 @@ Sleepy Hollow|42.094|-88.303|US|Illinois|70
 Slovenská Ľupča|48.765|19.275|SK|Banská Bystrica Region|70
 Slivo Pole|43.942|26.205|BG|Ruse|70
 Ślesin|52.370|18.306|PL|Greater Poland|70
+Slide Mountain|41.999|-74.386|US|New York|70|f
+Slieve Mish Mountains|52.200|-9.767|IE|Munster|70|f
 Slobozia-Câmpineanca|45.700|27.133|RO|Vrancea|70
 Slobozia|46.849|26.533|RO|Neamț County|70
 Sloatsburg|41.155|-74.193|US|New York|70
@@ -101,6 +114,7 @@ Sloboda|51.198|33.607|UA|Sumy|69
 Slušovice|49.248|17.802|CZ|Zlín|69
 Slobozhanske|49.367|35.869|UA|Kharkiv|69
 Slavonice|48.998|15.352|CZ|South Bohemian Region|69
+Ślęża|50.865|16.709|PL|Lower Silesia|69|f
 Слупчане|42.173|21.628|MK|Lipkovo|68||Slupchane
 Sławatycze|51.763|23.555|PL|Lublin|68
 Slobozia|43.850|25.900|RO|Giurgiu County|68
@@ -111,6 +125,7 @@ Sleepy Hollow|38.010|-122.584|US|California|68
 Slobozia Moara|44.600|25.717|RO|Dâmbovița County|67
 Slobidka|47.884|29.344|UA|Odesa|67
 Slovyanka|48.401|36.716|UA|Dnipropetrovsk|67
+Slieve Gullion|54.133|-6.433|GB|Northern Ireland|67|f
 Slootdorp|52.843|4.972|NL|North Holland|67
 Sleen|52.772|6.803|NL|Drenthe|67
 Slavhorod|48.100|35.517|UA|Dnipropetrovsk|67
@@ -129,6 +144,11 @@ Slashchevskaya|49.860|42.336|RU|Volgograd Oblast|66
 Sluis|51.308|3.386|NL|Zeeland|66
 Slavniy|53.547|36.474|RU|Tula Oblast|65
 Slovenská Ves|49.225|20.425|SK|Prešov Region|65
+Sleaford Bay|-34.897|135.768|AU|South Australia|65|f
+Slieve Croob|54.340|-5.973|GB|Northern Ireland|65|f
+Sloan Peak|48.041|-121.340|US|Washington|65|f
+Slocums River|41.508|-70.966|US|Massachusetts|65|f
+Šluŋkkajávri|67.782|16.145|NO|Nordland|65|f
 Sloupnice|49.920|16.322|CZ|Pardubice Region|65
 Slater|39.218|-93.069|US|Missouri|65
 Slabada|54.009|27.887|BY|Minsk|65
@@ -143,6 +163,13 @@ Slava Rusă|44.850|28.606|RO|Tulcea County|64
 Slater|41.878|-93.679|US|Iowa|64
 Ślesin|53.165|17.703|PL|Kujawsko-Pomorskie|64
 Słupno|52.384|21.156|PL|Mazovia|64
+Slættaratindur|62.295|-7.031|FO|Eysturoy|63|f
+Slesse Mountain|49.026|-121.598|CA|British Columbia|63|f
+Slettmarkkampen|61.399|8.450|NO|Innlandet|63|f
+Slieveboy|52.656|-6.489|IE|Leinster|63|f
+Slievemore|54.010|-10.060|IE|Connacht|63|f
+Sluiskin Mountain|46.946|-121.738|US|Washington|63|f
+Sly Park Dam|38.715|-120.563|US|California|63|f
 Słupia pod Kępnem|51.239|18.043|PL|Greater Poland|63
 Sloboda|48.278|26.197|UA|Chernivtsi|63
 Slobozia|47.058|27.414|RO|Iași County|63
@@ -158,6 +185,18 @@ Slobozhanske|50.184|36.424|UA|Kharkiv|61
 Slinfold|51.072|-0.407|GB|England|61
 Slobozia|47.477|26.890|RO|Iași County|61
 Sloboda-Komarivtsi|48.228|25.628|UA|Chernivtsi|61
+SLAF Anuradhapura|8.301|80.428|LK|North Central Province|61|f
+Slater Museum|41.536|-72.081|US|Connecticut|61|f
+Slaughter Mountain|34.748|-83.950|US|Georgia|61|f
+Sleepy Cat Peak|40.127|-107.534|US|Colorado|61|f
+Ślesińskie Lake|52.389|18.330|PL|Greater Poland|61|f
+Slieve League|54.651|-8.694|IE|Ulster|61|f
+Slipdown Mountain|32.944|-97.913|US|Texas|61|f
+Slogen|62.208|6.673|NO|Møre og Romsdal|61|f
+Slokstallen Mountain|-72.000|4.917|AQ||61|f
+Słonim Ghetto|53.100|25.317|BY|Grodnenskaya|61|f
+Sloulin Field International Airport|48.177|-103.639|US|North Dakota|61|f
+Slover Mountain|34.065|-117.341|US|California|61|f
 Słupiec|50.328|21.194|PL|Lesser Poland|61
 Slănic|45.231|24.894|RO|Arges|61
 Słotowa|49.946|21.294|PL|Subcarpathia|61
@@ -165,18 +204,225 @@ Slovenské Nové Mesto|48.401|21.667|SK|Košice Region|61
 Slavonski Kobaš|45.106|17.746|HR|Brod-Posavina|60
 Slepče|41.233|21.175|MK|Demir Hisar|60
 Slottsbron|59.323|13.103|SE|Värmland|60
+Slobozia|44.434|25.130|RO|Arges|60
+Slöinge|56.850|12.683|SE|Halland|60
+Slevik|59.196|10.825|NO|Østfold|60
+Slătioara|45.117|23.917|RO|Vâlcea County|60
+Slijpe|51.155|2.848|BE|Flanders|60
+Sloan|42.233|-96.228|US|Iowa|60
+Sloup|49.415|16.740|CZ|South Moravian|60
+Slapy|49.815|14.396|CZ|Central Bohemia|60
+Slaughter|30.717|-91.141|US|Louisiana|60
+Slobozia Blăneasa|45.938|27.480|RO|Galați County|60
+Slite|57.705|18.803|SE|Gotland|60
+Sloboda-Banyliv|48.386|25.420|UA|Chernivtsi|59
 Słupia|50.601|19.974|PL|Świętokrzyskie|59
+Slobodyshche|50.021|28.478|UA|Zhytomyr Oblast|59
+Slatine|43.499|16.333|HR|Split-Dalmatia|59
+Slyvyne|47.007|31.852|UA|Mykolaiv|59
 Slavnoye|45.722|33.237|UA|Crimea|59
+Śledziejowice|50.004|20.082|PL|Lesser Poland|59
+Słupia Kapitulna|51.608|16.959|PL|Greater Poland|59
 Slava Cercheză|44.901|28.548|RO|Tulcea County|59
+Slăvești|44.341|25.198|RO|Teleorman County|59
+Slăvuța|44.699|23.683|RO|Gorj County|58
+Slivna|46.085|27.942|RO|Galați County|58
+Slatina nad Zdobnicí|50.136|16.387|CZ|Hradec Králové Region|58
 Słupia|51.855|19.970|PL|Łódź Voivodeship|58
+Slepčany|48.310|18.340|SK|Nitra Region|58
+Služovice|49.989|17.995|CZ|Moravian-Silesian Region|58
+Šlapanov|49.542|15.658|CZ|Vysocina|58
+Slate Range|35.609|-117.211|US|California|58|f
+Sleaford Mere|-34.834|135.742|AU|South Australia|58|f
+Sleepy Creek Mountain|39.458|-78.196|US|West Virginia|58|f
+Slide Mountain|39.313|-119.884|US|Nevada|58|f
+Slidrefjorden|61.126|8.893|NO|Innlandet|58|f
+Slieve Binnian|54.142|-5.975|GB|Northern Ireland|58|f
+Slievekimalta|52.751|-8.261|IE|Munster|58|f
+Slievenamon|52.428|-7.563|IE|Munster|58|f
+Sliver Island|63.309|-68.092|CA|Nunavut|58|f
+Sloan Lake|39.748|-105.047|US|Colorado|58|f
+Slovenský Raj|48.934|20.382|SK|Košice Region|58|f
+Slumbering Hills|41.230|-117.991|US|Nevada|58|f
+Slump Mountain|-77.867|160.717|AQ||58|f
+Slutsk Ghetto|53.017|27.550|BY|Minsk|58|f
+Slașoma|44.420|23.050|RO|Mehedinți County|58
+Slavnica|48.999|18.179|SK|Trenčín Region|58
+Sliammon|49.897|-124.608|CA|British Columbia|58
+Slătioara|47.379|26.117|RO|Suceava|58
+Sladki Vrh|46.689|15.737|SI|Municipality of Apače|58
+Słotwina|49.700|19.074|PL|Silesia|58
 Słupno|52.506|19.837|PL|Mazovia|58
+Slobozia|46.278|26.789|RO|Bacău County|58
+Slivnica|44.243|15.449|HR|Zadar|58
+Slobodo-Petrivka|50.117|32.384|UA|Poltava|58
+Slatina|49.791|17.980|CZ|Moravian-Silesian Region|58
+Sloboda-Selets|50.224|28.742|UA|Zhytomyr Oblast|58
 Slavonski Šamac|45.067|18.489|HR|Brod-Posavina|58
+Sluštice|50.039|14.685|CZ|Central Bohemia|58
+Slobozia|45.029|23.231|RO|Gorj County|58
+Slimnic|45.508|27.051|RO|Vrancea|57
+Sloten|52.342|4.797|NL|North Holland|57
+Sluhy|50.192|14.558|CZ|Central Bohemia|57
+Slimbridge|51.731|-2.379|GB|England|57
+Slobozia|47.064|27.115|RO|Neamț County|57
+Slovyanoserbka|46.959|29.699|UA|Odesa|57
+Slabce|50.000|13.715|CZ|Central Bohemia|57
 Slaley|54.914|-2.037|GB|England|57
+Sloup v Čechách|50.740|14.592|CZ|Liberec Region|57
+Sloten|52.895|5.645|NL|Friesland|57
+Slakovci|45.225|18.950|HR|Vukovar-Srijem|57
+Slavkov|48.947|17.612|CZ|Zlín|57
+Śliwnica|49.856|22.413|PL|Subcarpathia|57
+Slup|42.509|20.282|XK|Gjakova|57
+Slobozia Botești|45.518|27.424|RO|Vrancea|57
+Sligo|41.109|-79.490|US|Pennsylvania|57
+Slobozia|47.794|26.322|RO|Suceava|57
+Slătioara|47.755|24.093|RO|Maramureş|56
+Slingsby|54.164|-0.934|GB|England|56
+Slătioara|47.461|25.662|RO|Suceava|56
+Słupia Wiełka|52.218|17.220|PL|Greater Poland|56
+Slavkov pod Hostýnem|49.377|17.670|CZ|Zlín|56
+Slobozia Corni|45.992|27.480|RO|Galați County|56
+Sluizen|50.765|5.531|BE|Flanders|56
+Slaná|50.581|15.330|CZ|Liberec Region|56
+Slezské Rudoltice|50.206|17.687|CZ|Moravian-Silesian Region|56
+Sladojevci|45.724|17.659|HR|Virovitica-Podravina|56
+Słupia|50.383|21.040|PL|Świętokrzyskie|56
+Slatina|50.224|14.221|CZ|Central Bohemia|56
+Slivnica pri Mariboru|46.476|15.656|SI|Municipality of Hoče–Slivnica|56
+Slătinița|47.204|24.527|RO|Bistrița-Năsăud County|56
+Slobozia|47.400|26.743|RO|Iași County|56
+Slobidka|50.453|28.898|UA|Zhytomyr Oblast|56
+Slobozia Sucevei|47.764|26.047|RO|Suceava|56
+Slatina|45.357|24.802|RO|Arges|56
+Slobozia Nouă|46.540|27.298|RO|Bacău County|56
+Slaka|58.367|15.550|SE|Östergötland|55
+Slatinky|49.549|17.094|CZ|Olomouc Region|55
+Slobozia|45.275|25.180|RO|Arges|55
 Slano|42.786|17.892|HR|Dubrovnik-Neretva|55
+Slopné|49.157|17.847|CZ|Zlín|55
+Sławno|51.387|21.012|PL|Mazovia|55
+Sliporid-Ivanivka|50.209|32.377|UA|Poltava|55
+Slovenská Volová|48.981|21.840|SK|Prešov Region|55
+Slovenská Nová Ves|48.292|17.534|SK|Trnava Region|55
+Slatiny|50.367|15.381|CZ|Hradec Králové Region|55
+Slovan|40.359|-80.390|US|Pennsylvania|55
+Slovenska Vas|45.955|15.092|SI|Municipality of Šentrupert|55
+Slobozia|46.112|27.119|RO|Bacău County|55
+Slovenja Vas|46.450|15.800|SI|Hajdina|55
+Slobozhanske|49.371|36.580|UA|Kharkiv|55
+Sloeštica|41.267|21.078|MK|Demir Hisar|55
+Slătioarele|44.786|26.517|RO|Ialomița County|54
+Slavče|48.798|14.615|CZ|South Bohemian Region|54
+Sloveč|50.230|15.327|CZ|Central Bohemia|54
+SLAF Vavuniya|8.741|80.497|LK|Northern Province|54|f
+Slate Mountain|39.124|-118.200|US|Nevada|54|f
+Slaughterhouse Covered Bridge|44.168|-72.655|US|Vermont|54|f
+Slavnik|45.534|13.976|SI|Urban Municipality of Koper|54|f
+Sleaford Mere Conservation Park|-34.839|135.741|AU|South Australia|54|f
+Sleeping Giant|22.064|-159.354|US|Hawaii|54|f
+Sleepy Creek Wildlife Management Area|39.508|-78.155|US|West Virginia|54|f
+Sleetmute Airport|61.709|-157.156|US|Alaska|54|f
+Sleipnir Glacier|-66.473|-64.085|AQ||54|f
+Slemish Mountain|54.883|-6.117|GB|Northern Ireland|54|f
+Slessor Peak|-66.525|-64.973|AQ||54|f
+Slettfjellnutane Peaks|-72.083|-3.300|AQ||54|f
+Slettingen|61.204|8.114|NO|Innlandet|54|f
+Slettmarkhøe|61.407|8.480|NO|Innlandet|54|f
+Sliabh Bearnach|54.184|-5.990|GB|Northern Ireland|54|f
+Slieve Anierin|54.092|-7.973|IE|Connacht|54|f
+Slieve Bloom Mountains|53.093|-7.567|IE|Leinster|54|f
+Slieve Gamph|54.117|-8.900|IE|Connacht|54|f
+Slieve Rushen|54.153|-7.641|IE|Ulster|54|f
+Slieve Snaght|55.196|-7.334|IE|Ulster|54|f
+Slievecallan|52.841|-9.271|IE|Munster|54|f
+Sloket Glacier|-71.983|4.900|AQ||54|f
+Sloknuten Peak|-72.033|4.867|AQ||54|f
+Sloping Island|-42.950|147.642|AU|Tasmania|54|f
+Sloss Mines|33.398|-86.933|US|Alabama|54|f
+Słowiński Park Narodowy|54.717|17.283|PL|Pomerania|54|f
+Sledge|34.432|-90.221|US|Mississippi|54
+Slobidka|49.867|33.450|UA|Poltava|54
+Slobidka|50.453|33.519|UA|Poltava|54
+Slobozia|47.019|27.615|RO|Iași County|54
+Slakovec|46.406|16.377|HR|Međimurje|54
+Slovenské Ďarmoty|48.091|19.296|SK|Banská Bystrica Region|54
 Sławno|51.393|20.140|PL|Łódź Voivodeship|52
 Słupia|51.014|20.141|PL|Świętokrzyskie|49
+Slab Point|-62.481|-60.164|AQ||49|f
+Sladen, Mount|-60.675|-45.281|AQ||49|f
+Slalom Lake|-62.193|-58.951|AQ||49|f
+Slate Peak|48.742|-120.680|US|Washington|49|f
+Slatechuck Mountain|53.266|-132.237|CA|British Columbia|49|f
+Slattery Peak|-77.567|168.983|AQ||49|f
+Slawson Mountain|41.915|-74.658|US|New York|49|f
+Slea Head|52.096|-10.459|IE|Munster|49|f
+Sledgers Glacier|-71.433|162.800|AQ||49|f
+Slettefjellet|-71.750|6.883|AQ||49|f
+Slettfjell|-72.133|-3.283|AQ||49|f
+Slieve Aughty Mountains|53.046|-8.511|IE|Connacht|49|f
+Slieve Gallion|54.733|-6.750|GB|Northern Ireland|49|f
+Slieve Miskish Mountains|51.667|-9.953|IE|Munster|49|f
+Sligo Bay|54.300|-8.700|IE|Connacht|49|f
+Slioch|57.666|-5.346|GB|Scotland|49|f
+Slipper Island|-37.051|175.941|NZ||49|f
+Slippery Bill Mountain|48.191|-113.266|US|Montana|49|f
+Sloman Glacier|-67.675|-68.595|AQ||49|f
+Slone Glacier|-71.933|170.050|AQ||49|f
+Slope Mountain|68.742|-149.068|US|Alaska|49|f
+Slot op den Hoef|52.622|4.654|NL|North Holland|49|f
+Slumkey Island|-65.497|-65.448|AQ||49|f
+Slack Lake|45.512|-63.553|CA|Nova Scotia|40|f
+Slade National Wildlife Refuge|46.833|-99.721|US|North Dakota|40|f
+Sladen Summit|-78.117|162.383|AQ||40|f
+Slagle Ridge|-71.917|169.833|AQ||40|f
+Slalok Mountain|50.333|-122.469|CA|British Columbia|40|f
+Slamgeesh Range|56.416|-127.754|CA|British Columbia|40|f
+Slanting Peak|58.537|-134.215|US|Alaska|40|f
+Slate Islands|48.667|-87.000|CA|Ontario|40|f
+Slate Range|51.467|-116.085|CA|Alberta|40|f
+Slater Park|41.878|-71.382|US|Rhode Island|40|f
+Slatina Peak|-62.969|-62.492|AQ||40|f
+Slatterys Lake|45.836|-60.157|CA|Nova Scotia|40|f
+Slaughter Slough|44.093|-95.623|US|Minnesota|40|f
+Slaughter, Mount|-78.617|-85.633|AQ||40|f
+Slaveykov Peak|-63.006|-62.561|AQ||40|f
+Sleaford Castle|52.997|-0.415|GB|England|40|f
+Sleeping Giant Provincial Park|48.433|-88.767|CA|Ontario|40|f
+Sleepy Creek Lake|39.518|-78.155|US|West Virginia|40|f
+Sleepy Hollow State Park|42.939|-84.413|US|Michigan|40|f
+Slettmarkpiggen|61.398|8.466|NO|Innlandet|40|f
+Slide Lake|43.940|-115.127|US|Idaho|40|f
+Slide Lake|48.902|-113.625|US|Montana|40|f
+Slide Off Mountain|43.781|-74.895|US|New York|40|f
+Sliderock Lake|44.070|-114.572|US|Idaho|40|f
+Slight Side|54.434|-3.220|GB|England|40|f
+Sligo County Museum|54.273|-8.473|IE|Connacht|40|f
+Slim Creek Park|53.767|-121.203|CA|British Columbia|40|f
+Slim Lake|48.009|-91.968|US|Minnesota|40|f
+Slip Lake|47.796|-90.761|US|Minnesota|40|f
+Slippery Rock|36.616|-84.967|US|Kentucky|40|f
+Sliven Peak|-62.600|-60.128|AQ||40|f
+Sloan Lake|45.654|-64.918|CA|New Brunswick|40|f
+Sloan Lake|46.991|-95.145|US|Minnesota|40|f
+Sloan Museum|43.023|-83.679|US|Michigan|40|f
+Slocan Lake|49.888|-117.424|CA|British Columbia|40|f
+Sloop Point|34.416|-77.595|US|North Carolina|40|f
+Slot Haamstede|51.698|3.742|NL|Zeeland|40|f
+Slot Heemstede|52.340|4.631|NL|North Holland|40|f
+Slot Loevestein|51.816|5.021|NL|Gelderland|40|f
+Slot Moermond|51.733|3.786|NL|Zeeland|40|f
+Slot Teylingen|52.231|4.519|NL|South Holland|40|f
+Slot Zuylen|52.127|5.073|NL|Utrecht|40|f
+Slottsparken|59.917|10.728|NO|Oslo|40|f
+Slahung|-8.035|111.414|ID|East Java|0
+Slamanyah|-7.090|107.896|ID|West Java|0
+Slateng Dua|-8.112|113.892|ID|East Java|0
 Slidre|61.088|8.981|NO|Innlandet|0
 Şlinfah|35.598|36.188|SY|Latakia|0
+Sliwungkrajan|-7.749|114.008|ID|East Java|0
 Sllovë|41.801|20.408|AL|Dibër County|0
 Slobidka-Kulchiievetska|48.662|26.662|UA|Khmelnytskyi|0
 Sluke|-6.633|111.499|ID|Central Java|0
+Slumbung|-8.012|112.345|ID|East Java|0

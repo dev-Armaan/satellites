@@ -13,12 +13,13 @@ Eastern Province|8.250|-11.000|SL||115|r
 Eastern Province|-13.667|32.000|ZM||114|r
 Eastern District|22.277|114.225|HK||114|r
 East London|-33.015|27.912|ZA|Eastern Cape|114
-Eastern Province|8.606|81.202|LK||113|r
 East Macedonia and Thrace|40.947|25.334|GR||113|r
+Eastern Province|8.606|81.202|LK||113|r
 East Jerusalem|31.783|35.234|PS|West Bank|113
 East|3.833|14.167|CM||111|r
 Eastern Darfur|11.167|26.500|SD||110|r
 Eastern Province|-1.750|30.500|RW||109|r
+Easter Island|-27.117|-109.367|CL|Valparaiso|105|f
 East Flatbush|40.654|-73.930|US|New York|105
 East New York|40.667|-73.882|US|New York|105
 East Helsinki|60.210|25.083|FI|Uusimaa|105
@@ -72,6 +73,7 @@ Eagle River|61.321|-149.568|US|Alaska|88
 Eaubonne|48.997|2.282|FR|Île-de-France|88
 East Gwillimbury|44.101|-79.438|CA|Ontario|88
 Eagle|43.695|-116.354|US|Idaho|87
+Eastern District|-14.267|-170.650|AS||87|r
 Easton|42.025|-71.129|US|Massachusetts|87
 East Elmhurst|40.761|-73.865|US|New York|87
 East Peoria|40.666|-89.580|US|Illinois|87
@@ -86,7 +88,6 @@ East Millcreek|40.700|-111.810|US|Utah|86
 Easley|34.830|-82.602|US|South Carolina|86
 East Garfield Park|41.881|-87.703|US|Illinois|86
 Ea Drăng|13.204|108.210|VN|Dak Lak|86
-Eastern District|-14.267|-170.650|AS||86|r
 East Sepik Province|-4.000|143.750|PG||86|r
 East Northport|40.877|-73.325|US|New York|86
 Eastmont|47.897|-122.182|US|Washington|86
@@ -116,6 +117,7 @@ East Brainerd|34.996|-85.150|US|Tennessee|84
 East Longmeadow|42.065|-72.513|US|Massachusetts|84
 East Clayton|49.125|-122.702|CA|British Columbia|84
 East San Gabriel|34.113|-118.085|US|California|83
+Eagle County Regional Airport|39.642|-106.918|US|Colorado|83|f
 East Highland Park|37.581|-77.407|US|Virginia|83
 East Islip|40.732|-73.186|US|New York|83
 East Bridgewater|42.033|-70.959|US|Massachusetts|83
@@ -125,6 +127,7 @@ East Norriton|40.150|-75.336|US|Pennsylvania|83
 Eagleby|-27.683|153.217|AU|Queensland|82
 East Cambridge|42.367|-71.080|US|Massachusetts|82
 Ea Na|12.543|107.990|VN|Dak Lak|82
+East Midlands Airport|52.831|-1.328|GB|England|82|f
 Ea Kar|12.808|108.449|VN|Dak Lak|82
 East Dulwich|51.454|-0.072|GB|England|82
 Eatontown|40.296|-74.051|US|New Jersey|82
@@ -143,11 +146,14 @@ Ea H'Leo|13.199|108.194|VN|Dak Lak|81
 East Liverpool|40.619|-80.577|US|Ohio|81
 East Cambie|49.184|-123.093|CA|British Columbia|81
 East Sheen|51.463|-0.268|GB|England|80
+East|65.000|-15.000|IS||80|r
 East Stroudsburg|41.000|-75.181|US|Pennsylvania|80
 East Rockaway|40.642|-73.670|US|New York|80
 East La Mirada|33.924|-117.989|US|California|80
+Eastern Channel|34.000|129.500|||80|f
 East Rutherford|40.834|-74.097|US|New Jersey|79
 East Haddam|41.453|-72.461|US|Connecticut|79
+Eastern Oregon Regional Airport|45.694|-118.842|US|Oregon|79|f
 Eagle Point|42.473|-122.803|US|Oregon|79
 East Wenatchee Bench|47.426|-120.281|US|Washington|79
 East York|39.974|-76.686|US|Pennsylvania|79
@@ -159,7 +165,6 @@ Eastern|-18.500|180.000|FJ||78|r
 East Foothills|37.381|-121.817|US|California|78
 Eaton|39.744|-84.637|US|Ohio|78
 East Somerville|42.387|-71.084|US|Massachusetts|78
-East|65.000|-15.000|IS||78|r
 Eaglescliffe|54.525|-1.350|GB|England|78
 Easton|50.533|-2.450|GB|England|78
 Easton|41.253|-73.297|US|Connecticut|78
@@ -169,6 +174,7 @@ East Fremantle|-32.038|115.768|AU|Western Australia|77
 Easington|54.785|-1.359|GB|England|77
 East Perrine|25.609|-80.339|US|Florida|77
 East Hills|40.794|-73.627|US|New York|77
+Easton Airport|38.804|-76.069|US|Maryland|77|f
 Eagle Mountain|32.893|-97.444|US|Texas|77
 East End|34.551|-92.341|US|Arkansas|77
 East Porterville|36.057|-118.976|US|California|77
@@ -187,6 +193,8 @@ East Pasadena|34.138|-118.074|US|California|76
 East Falmouth|41.578|-70.559|US|Massachusetts|76
 East Port Orchard|47.523|-122.624|US|Washington|75
 East Horsley|51.274|-0.432|GB|England|75
+Eagle River Union Airport|45.932|-89.268|US|Wisconsin|75|f
+Earth and Man National Museum|42.680|23.320|BG|Sofia-Capital|75|f
 Eaton Socon|52.218|-0.289|GB|England|75
 East Wittering|50.770|-0.874|GB|England|75
 East Ballina|-28.857|153.587|AU|New South Wales|75
@@ -197,6 +205,8 @@ Eadestown|53.203|-6.578|IE|Leinster|75
 East Kapolei|21.359|-158.051|US|Hawaii|74
 Eastman|32.198|-83.178|US|Georgia|74
 East Moriches|40.805|-72.761|US|New York|74
+Eaker Field|33.942|-96.395|US|Oklahoma|74|f
+Easton State Airport|47.254|-121.185|US|Washington|74|f
 Eaton Rapids|42.509|-84.656|US|Michigan|74
 Eagleton Village|35.795|-83.932|US|Tennessee|74
 East Lismore|-28.826|153.289|AU|New South Wales|74
@@ -211,6 +221,8 @@ Easton-in-Gordano|51.476|-2.700|GB|England|74
 Eagleville|40.160|-75.408|US|Pennsylvania|74
 East Quogue|40.841|-72.581|US|New York|74
 East Calder|55.892|-3.464|GB|Scotland|73
+Eagle Creek Airpark|39.830|-86.295|US|Indiana|73|f
+Eagle Mountain|47.897|-90.561|US|Minnesota|73|f
 East Palestine|40.834|-80.540|US|Ohio|73
 Earby|53.915|-2.143|GB|England|73
 East Petersburg|40.100|-76.354|US|Pennsylvania|73
@@ -218,6 +230,8 @@ East Greenbush|42.591|-73.702|US|New York|73
 Easingwold|54.120|-1.194|GB|England|73
 East Troy|42.785|-88.405|US|Wisconsin|73
 East Merrimack|42.868|-71.483|US|New Hampshire|72
+East Frisian Islands|53.733|7.417|DE|Lower Saxony|72|f
+East Point|17.755|-64.566|VI|Saint Croix Island|72|f
 East Hampton North|40.973|-72.189|US|New York|72
 Eastwood|32.556|-93.567|US|Louisiana|72
 East Windsor|41.912|-72.545|US|Connecticut|72
@@ -233,11 +247,16 @@ East Grand Bahama|26.672|-78.141|BS||71|r
 East Rockingham|34.918|-79.763|US|North Carolina|71
 Eastover|35.100|-78.800|US|North Carolina|71
 Eagle Lake|29.590|-96.334|US|Texas|71
+East China Sea|29.000|125.000|TW||71|f
+East Ghor Canal|31.814|35.629|JO|Balqa|71|f
+East Humboldt Range|40.921|-115.119|US|Nevada|71|f
 East Angus|45.483|-71.666|CA|Quebec|71
 Eagle Grove|42.664|-93.904|US|Iowa|71
 Eastlawn Gardens|40.751|-75.296|US|Pennsylvania|70
 East Richmond Heights|37.945|-122.314|US|California|70
 East Dundee|42.099|-88.271|US|Illinois|70
+Eads Bridge|38.629|-90.179|US|Missouri|70|f
+Eagle Peak|44.321|-110.028|US|Wyoming|70|f
 East Prairie|36.780|-89.386|US|Missouri|70
 Eaglesham|55.741|-4.275|GB|Scotland|70
 East Gaffney|35.080|-81.633|US|South Carolina|70
@@ -251,6 +270,9 @@ Eastbourne|-41.300|174.900|NZ|Wellington Region|69
 East Dennis|41.743|-70.162|US|Massachusetts|69
 East Tawas|44.279|-83.490|US|Michigan|69
 East Norwich|40.847|-73.535|US|New York|69
+East Range|40.641|-117.849|US|Nevada|69|f
+East Siberian Sea|74.000|166.000|||69|f
+Easter Road|55.962|-3.165|GB|Scotland|69|f
 East Hampton|41.576|-72.503|US|Connecticut|69
 East Migpulao|7.633|123.359|PH|Zamboanga Peninsula|69
 East Lansdowne|39.946|-75.261|US|Pennsylvania|69
@@ -274,6 +296,10 @@ East Bernard|29.531|-96.071|US|Texas|67
 Earle|35.275|-90.467|US|Arkansas|67
 Eatonville|28.615|-81.381|US|Florida|67
 East Sonora|37.978|-120.361|US|California|67
+Eagles Nest Airport|39.665|-74.308|US|New Jersey|67|f
+Eareckson Air Station|52.714|174.115|US|Alaska|67|f
+East Falkland|-51.961|-59.273|FK||67|f
+Eastern West Virginia Regional Airport|39.402|-77.984|US|West Virginia|67|f
 East Bergholt|51.978|1.018|GB|England|67
 East Ithaca|42.427|-76.464|US|New York|67
 East Missoula|46.871|-113.945|US|Montana|67
@@ -289,6 +315,11 @@ East Wemyss|56.160|-3.064|GB|Scotland|66
 East Washington|40.174|-80.238|US|Pennsylvania|66
 East Bronson|29.459|-82.590|US|Florida|66
 East Kingston|42.926|-71.017|US|New Hampshire|66
+Eagle Island|-14.697|145.377|AU|Queensland|65|f
+Eagle Mine|38.266|-106.126|US|Colorado|65|f
+East Fayu Island|8.551|151.339|FM|Chuuk|65|f
+East Monks|12.388|-70.856|VE|Dependencias Federales|65|f
+East Rock|41.327|-72.905|US|Connecticut|65|f
 Eastriggs|54.986|-3.181|GB|Scotland|65
 East End|19.300|-81.117|KY|East End|65
 East Innisfail|-17.533|146.035|AU|Queensland|65
@@ -320,6 +351,16 @@ East Hazel Crest|41.574|-87.646|US|Illinois|64
 East Berlin|39.938|-76.979|US|Pennsylvania|64
 East Sooke|48.366|-123.684|CA|British Columbia|64
 East Valley|38.943|-119.699|US|Nevada|63
+Eagle Cap|45.163|-117.302|US|Oregon|63|f
+East Beckwith Mountain|38.846|-107.223|US|Colorado|63|f
+East Caicos|21.685|-71.508|TC||63|f
+East End Park|56.076|-3.442|GB|Scotland|63|f
+East Flattop Mountain|48.739|-113.521|US|Montana|63|f
+East Huntington Bridge|38.434|-82.390|US|West Virginia|63|f
+East Igwali Island|-10.560|150.722|PG|Milne Bay Province|63|f
+East Kimberley Regional Airport|-15.780|128.711|AU|Western Australia|63|f
+East Quartzite Range|-72.000|165.083|AQ||63|f
+East Tintic Mountains|39.899|-112.061|US|Utah|63|f
 East Lexington|37.793|-79.425|US|Virginia|63
 East Griffin|33.244|-84.229|US|Georgia|63
 East Wellington|49.174|-124.017|CA|British Columbia|63
@@ -349,6 +390,29 @@ East Carnarvon|-24.864|113.678|AU|Western Australia|61
 Eastchurch|51.407|0.858|GB|England|61
 Earlston|40.006|-78.370|US|Pennsylvania|61
 East Hampton|40.963|-72.185|US|New York|61
+Eagle Island|-63.660|-57.489|AQ||61|f
+Eagle Mountains|33.851|-115.556|US|California|61|f
+Eagle Passage|-52.343|-59.560|FK||61|f
+Eagle Peak|61.167|-149.267|US|Alaska|61|f
+Eagle Plume Mountain|48.553|-113.418|US|Montana|61|f
+Eagle Ribs Mountain|48.406|-113.417|US|Montana|61|f
+Eaglehead Mountain|48.474|-113.605|US|Montana|61|f
+Eaglenest Mountain|35.496|-83.043|US|North Carolina|61|f
+Early Camp Bremen-Mißler|53.089|8.866|DE|Bremen|61|f
+Early Camp Breslau-Dürrgoy|51.108|17.039|PL|Lower Silesia|61|f
+East Hampton Airport|40.962|-72.249|US|New York|61|f
+East Jordan City Airport|45.132|-85.107|US|Michigan|61|f
+East Kennebago Mountain|45.122|-70.600|US|Maine|61|f
+East Mountain|44.665|-71.770|US|Vermont|61|f
+East Pahranagat Range|37.300|-115.232|US|Nevada|61|f
+East Potrillo Mountains|31.877|-107.012|US|New Mexico|61|f
+East Spanish Peak|37.394|-104.920|US|Colorado|61|f
+East Temple Peak|42.711|-109.157|US|Wyoming|61|f
+Easterwood Field|30.589|-96.364|US|Texas|61|f
+Eastgate Airport.|-24.367|31.055|ZA|Limpopo|61|f
+Eastmain River Airport|52.229|-78.522|CA|Quebec|61|f
+Eastman Mountain|44.216|-71.062|US|New Hampshire|61|f
+Easton Diversion Dam|47.242|-121.188|US|Washington|61|f
 Eastington|51.747|-2.326|GB|England|61
 Easton|43.838|-89.807|US|Wisconsin|61
 Eanjum|53.375|6.127|NL|Friesland|61
@@ -357,19 +421,309 @@ Eagle Point|-37.900|147.683|AU|Victoria|60
 Easton on the Hill|52.627|-0.506|GB|England|60
 Earth|34.233|-102.411|US|Texas|60
 East Gull Lake|46.408|-94.356|US|Minnesota|60
+East Hetālia|22.342|90.312|BD|Khulna Division|60
+Ear Falls|50.640|-93.235|CA|Ontario|60
+East Hanningfield|51.683|0.559|GB|England|60
+East Freedom|40.358|-78.430|US|Pennsylvania|60
+Earlswood|52.366|-1.833|GB|England|60
+East Prospect|39.972|-76.520|US|Pennsylvania|59
+East Bank|38.218|-81.443|US|West Virginia|59
+East Marion|41.128|-72.340|US|New York|59
+Easington|54.553|-0.851|GB|England|59
+Easternijtsjerk|53.378|6.053|NL|Friesland|59
+East Brady|40.986|-79.613|US|Pennsylvania|59
+East Tawakoni|32.884|-95.929|US|Texas|59
+East Hoathly|50.925|0.163|GB|England|59
+Earsham|52.452|1.419|GB|England|59
+East Meon|50.995|-1.032|GB|England|59
+East Preston|44.722|-63.418|CA|Nova Scotia|59
+East Camden|33.608|-92.740|US|Arkansas|59
+Earlville|42.740|-75.545|US|New York|58
+East Barre|44.158|-72.450|US|Vermont|58
+Eastover|33.877|-80.693|US|South Carolina|58
+East Mountain|32.594|-94.855|US|Texas|58
+East Sparta|40.667|-81.355|US|Ohio|58
+Eagle Butte|39.530|-116.809|US|Nevada|58|f
+Eagle Hills|35.748|-120.370|US|California|58|f
+Eagle Island|54.283|-10.091|IE|Connacht|58|f
+Eagle Mountain|51.100|-115.752|CA|Alberta|58|f
+Eagle Mountain|42.062|-74.509|US|New York|58|f
+Eagle Peak|37.746|-119.615|US|California|58|f
+Eagle Peak|41.284|-120.201|US|California|58|f
+Eagle Rest Peak|34.907|-119.134|US|California|58|f
+Eagle's Nest Airport|38.077|-78.946|US|Virginia|58|f
+Eagles Nest|39.774|-106.351|US|Colorado|58|f
+Earlton (Timiskaming Regional) Airport|47.696|-79.852|CA|Ontario|58|f
+Early Camp Berlin Columbia Haus|52.479|13.369|DE|State of Berlin|58|f
+Early Camp Berlin-Tempelhof (Columbia-Haus)|52.484|13.399|DE|State of Berlin|58|f
+Early Camp Brandenburg|52.131|13.216|DE|Brandenburg|58|f
+Early Camp Breitenau|48.272|11.403|DE|Bavaria|58|f
+Early Camp Esterwegen|53.009|7.642|DE|Lower Saxony|58|f
+Early Camp Hainewalde|50.911|14.704|DE|Saxony|58|f
+Early Camp Hainichen|50.969|13.122|DE|Saxony|58|f
+Early Camp Heuberg|47.726|12.184|DE|Bavaria|58|f
+Early Camp Hohnstein|50.979|14.112|DE|Saxony|58|f
+Early Camp Kislau|49.217|8.645|DE|Baden-Wurttemberg|58|f
+Early Camp Lichtenburg|51.663|12.931|DE|Saxony-Anhalt|58|f
+Early Camp Moringen|51.701|9.872|DE|Lower Saxony|58|f
+Early Camp Nohra|50.960|11.256|DE|Thuringia|58|f
+Early Camp Oranienburg|52.754|13.237|DE|Brandenburg|58|f
+Early Camp Osthofen|49.708|8.326|DE|Rheinland-Pfalz|58|f
+Early Camp Sachsenburg|50.943|13.041|DE|Saxony|58|f
+Early Camp Sonnenburg|52.564|14.810|PL|Lubusz|58|f
+Early Camp Stettin-Bredow|53.433|14.583|PL|West Pomerania|58|f
+Early Camp Ulm (Oberer Kuhberg)|48.382|9.950|DE|Baden-Wurttemberg|58|f
+Early Camp Wuppertal-Kemna|51.254|7.267|DE|North Rhine-Westphalia|58|f
+Earthquake Lake|44.853|-111.389|US|Montana|58|f
+East Alaska Lake|44.546|-87.499|US|Wisconsin|58|f
+East Anglian Railway Museum|51.926|0.759|GB|England|58|f
+East Barre Dam|44.155|-72.445|US|Vermont|58|f
+East Branch Clarion River Lake|41.581|-78.564|US|Pennsylvania|58|f
+East Brimfield Dam|42.108|-72.126|US|Massachusetts|58|f
+East Buffalo Peak|38.987|-106.109|US|Colorado|58|f
+East Coyote Hills|33.892|-117.902|US|California|58|f
+East Fire Island|40.656|-73.183|US|New York|58|f
+East Gate Range|39.239|-117.892|US|Nevada|58|f
+East Georgia Regional Airport|32.612|-82.370|US|Georgia|58|f
+East Harwich Airport|41.712|-70.014|US|Massachusetts|58|f
+East London Airport|-33.036|27.826|ZA|Eastern Cape|58|f
+East Mid Intercourse Island|-20.667|116.668|AU|Western Australia|58|f
+East Mormon Mountains|36.932|-114.311|US|Nevada|58|f
+East Mount Barren|-33.923|120.025|AU|Western Australia|58|f
+East Ongul Island|-69.010|39.592|AQ||58|f
+East Peak|41.557|-72.836|US|Connecticut|58|f
+East Potomac Park|38.871|-77.026|US|District of Columbia|58|f
+East Skerry|-54.250|-36.300|GS||58|f
+Eastern Ghāts|15.010|78.771|IN||58|f
+Eastport Municipal Airport|44.911|-67.015|US|Maine|58|f
+East Galesburg|40.948|-90.310|US|Illinois|58
+Eagle|53.195|-0.689|GB|England|58
+Earlville|42.482|-91.272|US|Iowa|58
+East Huntspill|51.202|-2.940|GB|England|58
+East Winch|52.720|0.512|GB|England|58
+East Tulare Villa|36.204|-119.282|US|California|58
+East Challow|51.589|-1.451|GB|England|58
+Eastborough|37.688|-97.264|US|Kansas|58
+East Pecos|35.574|-105.664|US|New Mexico|58
+East Bernstadt|37.190|-84.118|US|Kentucky|57
+East Butler|40.878|-79.846|US|Pennsylvania|57
+East Fork|33.798|-109.930|US|Arizona|57
+Eastview|35.076|-88.545|US|Tennessee|57
+East Williston|29.389|-82.417|US|Florida|57
 Easington|53.654|0.115|GB|England|57
+Eastern Kings|46.433|-62.099|CA|Prince Edward Island|57
+Eaglesfield|55.059|-3.197|GB|Scotland|57
 East End|18.234|-62.997|AI||57|r
 East End Village|18.233|-63.000|AI|East End|57
+East Vandergrift|40.598|-79.561|US|Pennsylvania|56
+Eagleville|35.742|-86.650|US|Tennessee|56
+East Budleigh|50.653|-3.320|GB|England|56
+Eaton|52.853|-0.817|GB|England|56
 East Harptree|51.301|-2.622|GB|England|56
+East Haddon|52.307|-1.024|GB|England|56
+Earlsboro|35.268|-96.803|US|Oklahoma|56
+East Brent|51.264|-2.935|GB|England|56
+East Halton|53.663|-0.280|GB|England|56
+Eagle Lake|47.040|-68.589|US|Maine|56
+East Randolph|42.173|-78.948|US|New York|56
+Eau Claire|41.985|-86.300|US|Michigan|56
 Eads|38.481|-102.782|US|Colorado|56
+East Avon|42.909|-77.706|US|New York|56
+Eastend|49.517|-108.818|CA|Saskatchewan|56
+East Bend|36.217|-80.513|US|North Carolina|56
+East Millstone|40.501|-74.581|US|New Jersey|55
+East Stour|51.008|-2.285|GB|England|55
+East Nassau|42.508|-73.507|US|New York|55
+Eagle Bay|50.933|-119.219|CA|British Columbia|55
+East Dailey|38.780|-79.891|US|West Virginia|55
+East Ellijay|34.684|-84.473|US|Georgia|55
+Eardisley|52.140|-3.008|GB|England|55
+East Rochester|40.700|-80.268|US|Pennsylvania|55
+East Rudham|52.821|0.711|GB|England|55
+East Ilsley|51.527|-1.291|GB|England|55
+East Garston|51.489|-1.479|GB|England|55
+East Cowton|54.424|-1.527|GB|England|55
+Early|42.461|-95.152|US|Iowa|55
+Eardington|52.514|-2.412|GB|England|54
+Eagletown|34.034|-94.575|US|Oklahoma|54
+Eadie Island|-61.479|-55.942|AQ||54|f
+Eagle Airport|64.776|-141.151|US|Alaska|54|f
+Eagle Island|-26.093|113.577|AU|Western Australia|54|f
+Eagle Islands|-6.218|71.304|IO||54|f
+Eagle Lake|46.338|-69.350|US|Maine|54|f
+Eagle Mountain Lake|32.920|-97.497|US|Texas|54|f
+Eagle Nest Ranch Airport|45.357|-122.348|US|Oregon|54|f
+Eagle Peak|38.180|-119.409|US|California|54|f
+Eagle Peak|33.677|-108.576|US|New Mexico|54|f
+Eagles Nest Airport|34.980|-77.698|US|North Carolina|54|f
+Eagles Rest Peak|43.898|-110.759|US|Wyoming|54|f
+Eakin Community Park|38.855|-77.248|US|Virginia|54|f
+Eakti Diamond Mine|64.718|-110.622|CA|Northwest Territories|54|f
+Earleville Wildlife Management Area|39.438|-75.901|US|Maryland|54|f
+Earley Lake|44.739|-93.295|US|Minnesota|54|f
+Easdale Island|56.283|-5.650|GB|Scotland|54|f
+Easley Peak|43.852|-114.582|US|Idaho|54|f
+East Burra Island|60.083|-1.317|GB|Scotland|54|f
+East Butte|43.501|-112.662|US|Idaho|54|f
+East Canyon State Park|40.904|-111.595|US|Utah|54|f
+East Cape|25.117|-81.088|US|Florida|54|f
+East Desert Range|36.858|-115.260|US|Nevada|54|f
+East Gallatin Recreation Area|45.705|-111.042|US|Montana|54|f
+East Island|-51.375|-59.632|FK||54|f
+East Linga Island|60.333|-0.883|GB|Scotland|54|f
+East Lynn Lake|38.101|-82.346|US|West Virginia|54|f
+East Matagorda Bay|28.709|-95.814|US|Texas|54|f
+East Moran Bay|45.872|-84.726|US|Michigan|54|f
+East Nooksack Glacier|48.829|-121.564|US|Washington|54|f
+East River Arch Bridge of the New York Connecting Railroad|40.783|-73.922|US|New York|54|f
+East River Park|40.721|-73.962|US|New York|54|f
+East Shoreham Covered Railroad Bridge|43.859|-73.256|US|Vermont|54|f
+East Sidney Lake|42.327|-75.213|US|New York|54|f
+Eastchester Bay|40.843|-73.809|US|New York|54|f
+Eastern Bay|38.842|-76.326|US|Maryland|54|f
+Eastman Pond|43.527|-72.118|US|New Hampshire|54|f
+Eastwood Field|41.219|-80.755|US|Ohio|54|f
+Eagle Bend|46.165|-95.039|US|Minnesota|54
+Easton|32.387|-94.583|US|Texas|54
 Eastoft|53.636|-0.785|GB|England|53
+Eagle Bay|-14.867|135.717|AU|Northern Territory|49|f
+Eagle Peak|34.779|-114.756|US|California|49|f
+Eagle Point|47.939|-123.409|US|Washington|49|f
+Eagle Rock|34.143|-118.183|US|California|49|f
+Eagle Scout Peak|36.545|-118.561|US|California|49|f
+Ear Mountain|47.824|-112.690|US|Montana|49|f
+Eardisley Castle|52.136|-3.008|GB|England|49|f
+Earl Henry Airport|36.796|-97.313|US|Oklahoma|49|f
+Earl Peak|47.410|-120.844|US|Washington|49|f
+Earle Island|-63.488|-54.787|AQ||49|f
+Early, Mount|-87.067|-153.767|AQ||49|f
+Earnshaw Glacier|-68.802|-65.225|AQ||49|f
+Easky Lough|54.157|-8.849|IE|Connacht|49|f
+East Aisle Ridge|-78.350|163.383|AQ||49|f
+East Arm|-67.600|62.875|AQ||49|f
+East Budd Island|-67.577|62.848|AQ||49|f
+East Cape|-37.687|178.549|NZ||49|f
+East Coast Park|1.314|103.934|SG||49|f
+East Egerton|-80.833|158.083|AQ||49|f
+East Haddam Bridge|41.452|-72.465|US|Connecticut|49|f
+East Island|-39.217|147.033|AU|Tasmania|49|f
+East Island|-37.691|178.576|NZ|Gisborne|49|f
+East Lake|-26.105|138.999|AU|South Australia|49|f
+East Melchior Islands|-64.319|-62.921|AQ||49|f
+East Moncoeur Island|-39.230|146.530|AU|Tasmania|49|f
+East Peak|40.912|-115.583|US|Nevada|49|f
+East Pyramids|-43.416|145.920|AU|Tasmania|49|f
+East Seal Dog|18.507|-64.432|VG||49|f
+East Stack|-67.076|58.263|AQ||49|f
+East Vidette|36.743|-118.400|US|California|49|f
+East Wallabi Island|-28.439|113.728|AU|Western Australia|49|f
+East Woody Island|-12.161|136.751|AU|Northern Territory|49|f
+Easter Group|-28.736|113.771|AU|Western Australia|49|f
+Eastern Isles|49.949|-6.263|GB|England|49|f
+Eastwind Glacier|-77.617|168.267|AQ||49|f
+Eastwind Ridge|-76.600|160.783|AQ||49|f
 Eastville|37.353|-75.946|US|Virginia|44
+Eagle Airpark|34.892|-114.617|US|Arizona|40|f
+Eagle Creek Park|39.868|-86.301|US|Indiana|40|f
+Eagle Hill|31.400|-93.284|US|Louisiana|40|f
+Eagle Historic District|64.791|-141.215|US|Alaska|40|f
+Eagle Island|44.213|-68.777|US|Maine|40|f
+Eagle Island|46.944|-91.036|US|Wisconsin|40|f
+Eagle Island State Park|43.687|-116.385|US|Idaho|40|f
+Eagle Lake|54.733|-66.215|CA|Newfoundland and Labrador|40|f
+Eagle Lake|49.669|-93.279|CA|Ontario|40|f
+Eagle Lake|50.830|-113.324|CA|Alberta|40|f
+Eagle Lake|51.913|-124.387|CA|British Columbia|40|f
+Eagle Lake|43.847|-74.480|US|New York|40|f
+Eagle Lake|38.942|-120.122|US|California|40|f
+Eagle Lake|36.415|-118.606|US|California|40|f
+Eagle Lake|40.643|-120.739|US|California|40|f
+Eagle Mine|39.534|-106.395|US|Colorado|40|f
+Eagle Mountain|49.350|-122.836|CA|British Columbia|40|f
+Eagle Nest Dam|36.533|-105.234|US|New Mexico|40|f
+Eagle Peak|51.283|-117.452|CA|British Columbia|40|f
+Eagle Peak|46.756|-121.779|US|Washington|40|f
+Eagle Point|39.878|-75.165|US|New Jersey|40|f
+Eagle Point Lake|44.977|-92.912|US|Minnesota|40|f
+Eagle Point Park|42.538|-90.650|US|Iowa|40|f
+Eagle Raceway|40.811|-96.391|US|Nebraska|40|f
+Eagle Rock Reservation|40.811|-74.240|US|New Jersey|40|f
+Eaglenest Range|57.583|-129.004|CA|British Columbia|40|f
+Eaker Site|35.947|-89.927|US|Arkansas|40|f
+Eakin Creek Canyon Park|51.475|-120.328|CA|British Columbia|40|f
+Eakin Creek Floodplain Park|51.475|-120.303|CA|British Columbia|40|f
+Eakins Oval|39.964|-75.179|US|Pennsylvania|40|f
+Earl E Wilson Baseball Stadium|36.111|-115.148|US|Nevada|40|f
+Earl Park Lake|33.982|-109.734|US|Arizona|40|f
+Earle - Wightman House Museum|40.871|-73.531|US|New York|40|f
+Early Islands|-73.667|-101.667|AQ||40|f
+Earnest Bridge|44.202|-122.836|US|Oregon|40|f
+East Bay|45.933|-60.548|CA|Nova Scotia|40|f
+East Bay|29.511|-94.671|US|Texas|40|f
+East Branch Reservoir|41.399|-73.578|US|New York|40|f
+East Coast Memorial|40.702|-74.016|US|New York|40|f
+East Cracroft Island|50.584|-126.274|CA|British Columbia|40|f
+East End|33.680|-111.800|US|Arizona|40|f
+East Fairfield Covered Bridge|44.786|-72.862|US|Vermont|40|f
+East Fork State Park|39.030|-84.104|US|Ohio|40|f
+East Goose Lake|43.753|-65.816|CA|Nova Scotia|40|f
+East Gros Ventre Butte|43.485|-110.780|US|Wyoming|40|f
+East Harbor State Park|41.548|-82.810|US|Ohio|40|f
+East Hill|42.524|-75.070|US|New York|40|f
+East Indian Creek Bridge|41.975|-93.387|US|Iowa|40|f
+East Island|13.638|93.050|IN|Andaman and Nicobar|40|f
+East Jewett Range|42.235|-74.204|US|New York|40|f
+East Juliand Hill|42.322|-75.759|US|New York|40|f
+East Lake|43.728|-121.210|US|Oregon|40|f
+East Lake Tohopekaliga|28.297|-81.283|US|Florida|40|f
+East Little Paul Lake|44.863|-62.793|CA|Nova Scotia|40|f
+East Molokai Volcano|21.110|-156.840|US|Hawaii|40|f
+East Okoboji Lake|43.405|-95.075|US|Iowa|40|f
+East Orchard Castle|51.403|-3.397|GB|Wales|40|f
+East Oregon Cattle Company Airport|42.502|-122.857|US|Oregon|40|f
+East Park|34.555|-90.634|US|Arkansas|40|f
+East Park Dam|39.357|-122.516|US|California|40|f
+East Peak|38.942|-119.908|US|Nevada|40|f
+East Pine Park|55.717|-121.220|CA|British Columbia|40|f
+East Putney Brook Stone Arch Bridge|42.995|-72.485|US|Vermont|40|f
+East Redonda Island|50.219|-124.690|CA|British Columbia|40|f
+East Rock Park|41.334|-72.905|US|Connecticut|40|f
+East Rockland Key|24.586|-81.671|US|Florida|40|f
+East Ruston Old Vicarage|52.806|1.509|GB|England|40|f
+East Side Lake|43.671|-92.953|US|Minnesota|40|f
+East Sister|38.523|-119.290|US|Nevada|40|f
+East Sister Island|41.817|-82.867|CA|Ontario|40|f
+East Soldier River Bridge|42.057|-95.634|US|Iowa|40|f
+East Thurlow Island|50.401|-125.431|CA|British Columbia|40|f
+East Troy Municipal Airport|42.798|-88.378|US|Wisconsin|40|f
+East Warwick Reservoir|51.579|-0.056|GB|England|40|f
+East Wetumpka Commercial Historic District|32.537|-86.205|US|Alabama|40|f
+East Ybor Park|27.963|-82.431|US|Florida|40|f
+East-Side-Gallery|52.503|13.445|DE|State of Berlin|40|f
+Eastcotts Motte|52.087|-0.527|GB|England|40|f
+Eastern Egg Rock|43.861|-69.382|US|Maine|40|f
+Eastern Neck National Wildlife Refuge|39.031|-76.223|US|Maryland|40|f
+Eastern Promenade|43.671|-70.248|US|Maine|40|f
+Eastern Shore of Virginia National Wildlife Refuge|37.136|-75.956|US|Virginia|40|f
+Eastham Bridge|52.318|-2.515|GB|England|40|f
+Eastnor Castle|52.030|-2.388|GB|England|40|f
+Easton Glacier|48.744|-121.835|US|Washington|40|f
+Eastport Peninsula|48.661|-53.790|CA|Newfoundland and Labrador|40|f
+Eastpost Spire|50.745|-116.765|CA|British Columbia|40|f
+Eastwood Park|33.198|-87.544|US|Alabama|40|f
+Eaton Hill|43.027|-75.549|US|New York|40|f
+Eaton Mountain|44.766|-69.625|US|Maine|40|f
+Eaton Peak|49.233|-121.353|CA|British Columbia|40|f
+Eaton Reservoir|42.861|-75.699|US|New York|40|f
+Eaton Socon Castle Hills|52.216|-0.284|GB|England|40|f
 Eauripik Village|6.684|143.078|FM|Yap State|39
 Eagle River|47.414|-88.296|US|Michigan|37
 Eahun|-10.615|123.385|ID|East Nusa Tenggara|0
 Ealing|51.512|-0.302|GB|England|0
+Ealing Broadway|51.516|-0.301|GB|England|0
 Earley|51.441|-0.924|GB|England|0
 Easington Colliery|54.788|-1.328|GB|England|0
 East Ham|51.533|0.050|GB|England|0
+East Ruston|52.795|1.476|GB|England|0
 Eaton|53.183|-2.200|GB|England|0
 Eauripik|6.687|143.037|FM|Yap State|0

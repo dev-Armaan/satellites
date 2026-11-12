@@ -15,6 +15,7 @@ Delaware|39.000|-75.500|US||112|r
 Delmas|18.545|-72.300|HT|Ouest|112
 Desna|50.522|30.682|UA|Kyiv City|111
 Denizli|37.774|29.087|TR|Denizli|110
+Denguélé District|9.497|-7.376|CI||110|r
 Dewas|22.966|76.055|IN|Madhya Pradesh|109
 Dengzhou|32.683|112.089|CN|Henan|109
 Demra|23.710|90.482|BD|Dhaka Division|109
@@ -22,10 +23,10 @@ Deir ez-Zor|35.336|40.141|SY|Deir ez-Zor|109
 Derby|52.923|-1.477|GB|England|109
 Dessie|11.133|39.633|ET|Amhara|109
 Dezful|32.381|48.406|IR|Khuzestan|108
-Denguélé District|9.497|-7.376|CI||108|r
 Demerara-Mahaica|6.500|-58.083|GY||108|r
 Dehiwala-Mount Lavinia|6.840|79.871|LK|Western Province|107
 Des Moines|41.601|-93.609|US|Iowa|107
+Dead Sea|31.557|35.495|JO|Amman|107|f
 Deoghar|24.490|86.699|IN|Jharkhand|106
 Debrecen|47.532|21.624|HU|Hajdú-Bihar|106
 Dessalines|19.262|-72.516|HT|Artibonite|105
@@ -46,6 +47,7 @@ Dehui|44.537|125.694|CN|Jilin|101
 Dera Murad Jamali|28.547|68.223|PK|Balochistan|101
 Derbent|42.066|48.288|RU|Dagestan|101
 Depok|-7.763|110.432|ID|Yogyakarta|100
+Denali|63.069|-151.006|US|Alaska|100|f
 Delta|49.089|-123.053|CA|British Columbia|100
 Delta Amacuro|8.750|-61.333|VE||100|r
 Deventer|52.255|6.164|NL|Overijssel|100
@@ -95,6 +97,4 @@ Debark’|13.156|37.898|ET|Amhara|93
 Děčín|50.782|14.215|CZ|Ústí nad Labem Region|93
 Dehlorān|32.694|47.268|IR|Ilam Province|93
 Dendermonde|51.029|4.101|BE|Flanders|93
-Devinuwara|5.928|80.589|LK|Southern Province|93
-Dededo|13.518|144.839|GU||93|r
-Dededo Village|13.518|144.839|GU|Dededo|93
+Devils Tower|44.591|-104.715|US|Wyoming|93|f

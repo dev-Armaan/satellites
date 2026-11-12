@@ -3,6 +3,7 @@ Negombo|7.208|79.836|LK|Western Province|103
 Negara|-8.357|114.617|ID|Bali|100
 Negage|-7.759|15.272|AO|Uíge|99
 Negēlē|5.317|39.583|ET|Oromiya|97
+Negev|30.500|34.917|IL|Southern District|91|f
 Negotino|41.485|22.091|MK|Negotino|86
 Negotin|44.226|22.531|RS|Central Serbia|85
 Negotino|41.878|20.884|MK|Vrapchishte|85
@@ -10,6 +11,7 @@ Negril|18.268|-78.348|JM|Westmoreland|83
 Negreşti-Oaş|47.867|23.433|RO|Satu Mare County|83
 Negreşti|46.833|27.433|RO|Vaslui County|80
 Negrete|-37.587|-72.528|CL|Biobio|79
+Negros|10.096|123.042|PH||78|f
 Négbatchi|4.900|-7.468|CI|Bas-Sassandra District|78
 Negenmanneke|50.805|4.285|BE|Flanders|77
 Negreira|42.904|-8.743|ES|Galicia|77
@@ -20,6 +22,7 @@ Negru Vodă|43.817|28.200|RO|Constanța County|75
 Néguépié|10.348|-6.517|CI|Savanes District|74
 Negaunee|46.499|-87.612|US|Michigan|73
 Nègrepelisse|44.075|1.521|FR|Occitanie|71
+Negishi Bay|35.398|139.657|JP|Kanagawa|71|f
 Negishichō|35.419|139.642|JP|Kanagawa|71
 Negri|46.700|26.967|RO|Bacău County|70
 Negraşi|44.600|25.117|RO|Arges|69
@@ -35,18 +38,62 @@ Negrești|47.029|26.380|RO|Neamț County|64
 Negrilești|45.957|27.481|RO|Galați County|64
 Negoiești|44.536|23.727|RO|Dolj|63
 Negostina|47.923|26.082|RO|Suceava|63
+Negage Airport|-7.758|15.290|AO|Uíge|63|f
 Negrilești|47.271|24.049|RO|Bistrița-Năsăud County|63
 Negrone|45.710|9.758|IT|Lombardy|63
 Negreni|44.568|24.595|RO|Olt|63
+Negribreen|78.564|19.150|SJ|Svalbard|61|f
+Negril Harbour|18.280|-78.348|JM|Hanover|61|f
+Negro Ben Mountain|42.204|-123.093|US|Oregon|61|f
 Negrileasa|47.423|25.816|RO|Suceava|61
 Negoești|44.231|26.502|RO|Călărași County|61
 Negritas|22.794|-100.160|MX|San Luis Potosí|60
 Negernbötel|53.983|10.249|DE|Schleswig-Holstein|60
 Negoslavci|45.279|18.997|HR|Vukovar-Srijem|60
+Negba|31.662|34.683|IL|Southern District|60
+Negoești|44.983|22.861|RO|Mehedinți County|59
+Negreni|47.999|26.760|RO|Botoșani County|59
+Negoiești|46.200|26.889|RO|Bacău County|59
+Negrisia|45.734|12.436|IT|Veneto|59
+Negoiu|45.583|24.567|RO|Sibiu County|58|f
+Negoiu Peak|45.585|24.559|RO|Arges|58|f
+Negenborn|52.554|9.633|DE|Lower Saxony|58
+Negureni|44.095|27.754|RO|Constanța County|58
+Négreville|49.494|-1.548|FR|Normandy|58
+Negreni|44.410|25.195|RO|Teleorman County|57
+Negulești|46.230|27.291|RO|Bacău County|57
+Négrondes|45.345|0.864|FR|New Aquitaine|57
+Negreni|44.844|23.641|RO|Gorj County|57
+Negulești|46.811|26.408|RO|Neamț County|57
+Néguidougou|9.133|-6.717|CI|Savanes District|56
+Negrea|45.536|27.872|RO|Galați County|56
+Negrulești|45.131|24.089|RO|Vâlcea County|55
+Negrești|44.000|28.133|RO|Constanța County|55
 Negomir|44.833|23.167|RO|Gorj County|55
+Negreia|47.635|23.744|RO|Maramureş|55
+Negrenii de Sus|44.419|25.186|RO|Teleorman County|55
+Négéla|9.402|-7.737|CI|Denguélé District|54
+Neghelle Airport|5.283|39.750|ET|Oromiya|54|f
+Negombo Lagoon|7.153|79.848|LK|Western Province|54|f
+Negra Point|-62.409|-59.623|AQ||54|f
+Negenharrie|54.143|10.074|DE|Schleswig-Holstein|51
+Negoesco Stadium|37.777|-122.454|US|California|49|f
 Negrilla de Palencia|41.092|-5.592|ES|Castille and León|41
+Negit Island|38.023|-119.050|US|California|40|f
+Negro Butte|34.466|-116.776|US|California|40|f
+Negro Mountain|39.786|-79.177|US|Pennsylvania|40|f
 Negredo|41.027|-2.859|ES|Castille-La Mancha|26
 Negararatu|-4.656|104.736|ID|Lampung|0
+Negenborn|51.883|9.567|DE|Lower Saxony|0
 Negeriagung|-3.767|103.652|ID|South Sumatra|0
+Negla|-7.273|107.676|ID|West Java|0
+Negla|-7.275|107.781|ID|West Java|0
+Neglasari|-7.515|107.809|ID|West Java|0
+Neglasari|-6.495|105.794|ID|Banten|0
+Neglasari|-6.521|106.294|ID|Banten|0
+Neglasari|-7.127|107.995|ID|West Java|0
+Neglasari|-7.444|108.521|ID|West Java|0
+Neglasari|-7.443|108.585|ID|West Java|0
+Neglasari|-7.490|108.611|ID|West Java|0
 Negola|-14.140|14.494|AO|Huíla|0
 Negritos|-4.654|-81.305|PE|Piura|0

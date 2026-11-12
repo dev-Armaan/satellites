@@ -13,6 +13,8 @@ San Buenaventura|27.062|-101.549|MX|Coahuila|86
 San Bartolomé|29.001|-13.613|ES|Canary Islands|85
 San Benito Abad|8.929|-75.027|CO|Sucre Department|85
 San Bonifacio|45.396|11.274|IT|Veneto|85
+San Bernardino International Airport|34.095|-117.235|US|California|83|f
+San Bernardino Strait|12.588|124.197|PH|Bicol Region|82|f
 San Bartolo del Llano|19.591|-99.741|MX|México|82
 San Bartolomé Tlaltelulco|19.227|-99.631|MX|México|81
 San Bernardo|-27.287|-60.713|AR|Chaco|81
@@ -21,8 +23,10 @@ Sanba|29.672|107.758|CN|Chongqing|81
 San Blas|21.541|-105.288|MX|Nayarit|80
 San Buenaventura|19.267|-99.686|MX|México|80
 San Bernardo del Viento|9.353|-75.952|CO|Córdoba|79
+San Bernardino Mountains|34.126|-116.876|US|California|79|f
 San Basilio|15.033|120.584|PH|Central Luzon|78
 San Bartolo|19.833|-99.193|MX|México|78
+San Bruno Mountain|37.687|-122.436|US|California|77|f
 San Bernardo del Tuyú|-36.697|-56.683|AR|Buenos Aires|77
 San Buenaventura|29.843|-107.461|MX|Chihuahua|77
 San Benito|-31.783|-60.439|AR|Entre Rios|77
@@ -109,6 +113,7 @@ San Basilio|39.538|9.198|IT|Sardinia|62
 San Bernardo Peña Blanca|20.462|-101.483|MX|Guanajuato|62
 San Benito|19.707|-102.321|MX|Michoacán|61
 San Bernardino Verbano|45.956|8.519|IT|Piedmont|61
+San Benito mountain|36.370|-120.644|US|California|61|f
 San Bartolomeo|44.674|10.539|IT|Emilia-Romagna|61
 San Baltazar Atlimeyaya|18.987|-98.481|MX|Puebla|61
 San Benito Encinal|17.987|-95.911|MX|Oaxaca|61
@@ -118,17 +123,53 @@ San Bernardo|27.399|-108.844|MX|Sonora|61
 Sanbornville|43.554|-71.031|US|New Hampshire|60
 San Basile|39.810|16.163|IT|Calabria|60
 San Bartolomeo Val Cavargna|46.083|9.149|IT|Lombardy|59
+San Bartolomé Tepetates|19.741|-98.559|MX|Hidalgo|59
 San Biagio della Cima|43.818|7.651|IT|Liguria|59
+San Bartolomé|-11.911|-76.530|PE|Lima region|59
+San Bernardino|15.789|-96.816|MX|Oaxaca|59
+San Baltazar|18.785|-97.755|MX|Puebla|59
+Sânbotin|45.183|24.383|RO|Vâlcea County|58
+San Bartolo|20.252|-98.464|MX|Hidalgo|58
+San Bartolo (El Puerto)|16.521|-91.483|MX|Chiapas|58
+San Benito Islands|28.304|-115.565|MX|Baja California|58|f
+San Bernardo|18.213|-98.105|MX|Puebla|58
 San Buono|41.981|14.568|IT|Abruzzo|58
+San Bernardino|45.036|7.397|IT|Piedmont|57
+San Bartolo|22.304|-100.044|MX|San Luis Potosí|57
 San Bellino|45.029|11.592|IT|Veneto|57
+San Basilio|38.017|14.778|IT|Sicily|57
+San Bartolo|44.361|12.180|IT|Emilia-Romagna|57
 San Bernardo|26.000|-105.524|MX|Durango|57
+San Bartolo Línea|8.314|-82.881|PA|Chiriquí Province|57
+San Bartolomé de Pinares|40.543|-4.540|ES|Castille and León|57
 San Benedetto Ullano|39.427|16.124|IT|Calabria|57
+San Bartolomé del Pino|20.182|-100.074|MX|Querétaro|57
+San Bernardo|20.358|-101.845|MX|Guanajuato|57
+San Bartolo del Escobal|20.431|-97.663|MX|Puebla|56
 San Benedetto Val di Sambro|44.214|11.236|IT|Emilia-Romagna|56
+San Blas Otzacatipan|19.378|-99.566|MX|México|56
+San Biagio|44.861|11.122|IT|Emilia-Romagna|56
+San Buenaventura|19.014|-104.160|MX|Colima|56
+San Bruno|27.161|-112.159|MX|Baja California Sur|56
+San Briccio|45.455|11.119|IT|Veneto|56
 San Bartolo Yautepec|16.430|-95.974|MX|Oaxaca|56
+San Biagio della Valle|43.021|12.288|IT|Umbria|56
+San Biase|39.224|16.091|IT|Calabria|56
+San Biagio|44.482|7.611|IT|Piedmont|55
+San Bernardino|44.515|11.887|IT|Emilia-Romagna|55
 San Benito|-7.425|-78.927|PE|Cajamarca Department|55
+San Benedetto|44.134|9.778|IT|Liguria|55
+San Biagio|45.588|10.463|IT|Lombardy|55
+San Bartolo|18.222|-100.383|MX|Guerrero|55
+San Baronto|43.837|10.919|IT|Tuscany|54
+San Bruno Mountain State Park|37.686|-122.435|US|California|54|f
+Sanbadougou|9.977|-7.956|CI|Denguélé District|54
+San Bartolomé Coro|19.894|-100.876|MX|Michoacán|54
+San Benito|25.542|-107.764|MX|Sinaloa|54
 San Bartolomé de las Abiertas|39.830|-4.719|ES|Castille-La Mancha|53
 San Buenaventura|-8.767|-77.186|PE|Huánuco Department|52
 San Bernardo|46.401|10.844|IT|Trentino-Alto Adige|50
+San Blas Islands|9.570|-78.820|PA|Guna Yala|49|f
 San Biase|41.715|14.590|IT|Molise|48
 San Bernardino|-7.169|-78.828|PE|Cajamarca Department|45
 San Baltazar Yatzachi el Bajo|17.227|-96.221|MX|Oaxaca|45
@@ -137,6 +178,9 @@ San Benedetto in Perillis|42.184|13.770|IT|Abruzzo|43
 San Buenaventura|-11.489|-76.662|PE|Lima region|43
 San Biagio Saracinisco|41.613|13.928|IT|Lazio|42
 San Benedetto Belbo|44.490|8.058|IT|Piedmont|40
+San Bartolo|17.548|-89.404|GT|Petén|40|f
+San Bernard National Wildlife Refuge|28.881|-95.551|US|Texas|40|f
+San Bernardino National Wildlife Refuge|31.344|-109.258|US|Arizona|40|f
 San Bartolomé de Corneja|40.493|-5.385|ES|Castille and León|37
 San Bartolo Soyaltepec|17.590|-97.307|MX|Oaxaca|37
 San Bartolomé de Béjar|40.408|-5.663|ES|Castille and León|34
@@ -145,3 +189,11 @@ San Benito|6.133|-73.491|CO|Santander Department|0
 San Bernardo|4.179|-74.423|CO|Cundinamarca|0
 San Blas|-28.408|-67.092|AR|La Rioja|0
 San Blas|0.412|-78.205|EC|Imbabura|0
+Sanba|22.302|112.681|CN|Guangdong|0
+Sanbaishan|24.951|115.372|CN|Jiangxi|0
+Sanban|25.451|118.288|CN|Fujian|0
+Sanbao|38.559|100.778|CN|Gansu|0
+Sanbao|45.756|127.668|CN|Heilongjiang|0
+Sanbei|30.095|121.498|CN|Zhejiang|0
+Sanbiao|25.042|115.590|CN|Jiangxi|0
+Sanbu|22.361|112.688|CN|Guangdong|0

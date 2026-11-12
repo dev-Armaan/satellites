@@ -11,6 +11,8 @@ Mostar|43.343|17.808|BA|Federation of B&H|100
 Mossel Bay|-34.183|22.146|ZA|Western Cape|98
 Most|50.503|13.636|CZ|Ústí nad Labem Region|96
 Moss|59.434|10.658|NO|Østfold|94
+Moses Mabhida Stadium|-29.829|31.030|ZA|KwaZulu-Natal|90|f
+Mostar International Airport|43.283|17.846|BA|Federation of B&H|90|f
 Mosonmagyaróvár|47.868|17.270|HU|Győr-Moson-Sopron|90
 Mosman|-33.839|151.240|AU|New South Wales|89
 Moscardó|40.389|-3.707|ES|Madrid|88
@@ -30,6 +32,7 @@ Moss Park|43.655|-79.372|CA|Ontario|86
 Mössingen|48.406|9.054|DE|Baden-Wurttemberg|86
 Mossendjo|-2.950|12.704|CG|Niari|86
 Mostyska|49.795|23.151|UA|Lviv|85
+Mosul International Airport|36.306|43.147|IQ|Nineveh|84|f
 Moskovskiy|55.599|37.355|RU|Moscow|84
 Mosgiel|-45.875|170.347|NZ|Otago|83
 Mos|43.161|-7.543|ES|Galicia|83
@@ -38,6 +41,7 @@ Mosfellsbær|64.167|-21.700|IS|Capital Region|83
 Moss Point|30.412|-88.534|US|Mississippi|83
 Mossend|55.817|-4.000|GB|Scotland|83
 Mostardas|-31.107|-50.917|BR|Rio Grande do Sul|82
+Moskenesøya|67.983|13.000|NO|Nordland|82|f
 Mosina|52.245|16.847|PL|Greater Poland|82
 Mossley Hill|53.377|-2.913|GB|England|82
 Moss Bluff|30.303|-93.191|US|Louisiana|81
@@ -47,10 +51,13 @@ Mosquera|2.509|-78.451|CO|Nariño|80
 Mossley|53.515|-2.035|GB|England|80
 Mosjøen|65.836|13.191|NO|Nordland|80
 Moskalënki|54.938|71.936|RU|Omsk Oblast|79
+Mosselbukta|79.891|15.955|SJ||79|f
 Mosman Park|-32.005|115.764|AU|Western Australia|79
 Moss Vale|-34.554|150.371|AU|New South Wales|79
-Mosteiros|15.000|-24.350|CV||76|r
+Mosjøen Airport, Kjærstad|65.784|13.215|NO|Nordland|78|f
+Mosteiros|15.000|-24.350|CV||77|r
 Moskovskoye|45.284|41.910|RU|Stavropol Kray|75
+Mosul Dam|36.631|42.823|IQ|Nineveh|74|f
 Mosrentgen|55.618|37.466|RU|Moscow|74
 Mosli Pt I|24.860|92.477|IN|Assam|74
 Mosoriot|0.321|35.176|KE|Nandi|74
@@ -67,12 +74,16 @@ Mosal’sk|54.490|34.981|RU|Kaluga Oblast|72
 Mosocho|-0.589|34.734|KE|Kisii County|72
 Mosoc Llacta|-14.120|-71.473|PE|Cuzco Department|72
 Mosty u Jablunkova|49.527|18.754|CZ|Moravian-Silesian Region|71
+Mosko Island|39.352|26.639|TR|Balıkesir|71|f
 Moskovskiy|57.111|65.423|RU|Tyumen Oblast|71
 Moszczenica|49.737|21.092|PL|Lesser Poland|70
 Moşna|46.083|24.400|RO|Sibiu County|70
 Mosquée|34.806|-2.413|MA|Oriental|70
 Moss Beach|37.527|-122.513|US|California|70
 Mosnang|47.363|9.043|CH|Saint Gallen|69
+Mose-vandet|58.955|5.710|NO|Rogaland|69|f
+Moso Island|-17.532|168.258|VU|Shefa|69|f
+Moss Rose|53.243|-2.127|GB|England|69|f
 Moshenskoye|58.513|34.581|RU|Novgorod Oblast|69
 Moseushi|43.688|141.959|JP|Hokkaido|69
 Möser|52.214|11.793|DE|Saxony-Anhalt|68
@@ -82,6 +93,7 @@ Mošorin|45.302|20.169|RS|Vojvodina|68
 Moşţafáābād|32.288|50.656|IR|Chaharmahal and Bakhtiari|68
 Mosheim|36.190|-82.958|US|Tennessee|67
 Mosonszentmiklós|47.728|17.428|HU|Győr-Moson-Sopron|67
+Mosquito Island|18.511|-64.394|VG||67|f
 Mošćenica|45.438|16.361|HR|Sisak-Moslavina|66
 Moshrāgeh|31.009|49.437|IR|Khuzestan|66
 Mossblown|55.489|-4.528|GB|Scotland|66
@@ -92,6 +104,8 @@ Mostove|47.418|30.992|UA|Mykolaiv|66
 Moscow|41.337|-75.519|US|Pennsylvania|66
 Moşna|46.917|27.950|RO|Iași County|66
 Moșteni|44.198|25.509|RO|Teleorman County|66
+Mosermandl|47.206|13.396|AT|Salzburg|65|f
+Most SNP|48.137|17.105|SK|Bratislava Region|65|f
 Moshate|-23.857|29.837|ZA|Limpopo|65
 Mosorrofa|38.095|15.713|IT|Calabria|65
 Mosty|54.612|18.496|PL|Pomerania|65
@@ -102,6 +116,7 @@ Mostkovice|49.472|17.052|CZ|Olomouc Region|64
 Moschiano|40.873|14.656|IT|Campania|64
 Mostyn|53.313|-3.268|GB|Wales|64
 Mosar|55.227|27.465|BY|Vitebsk|64
+Moss Lane|53.383|-2.335|GB|England|63|f
 Moshanets|48.474|26.693|UA|Chernivtsi|63
 Mosty|53.548|14.956|PL|West Pomerania|63
 Moscu|45.903|27.931|RO|Galați County|63
@@ -115,23 +130,105 @@ Mostek|50.486|15.696|CZ|Hradec Králové Region|61
 Mosterhamn|59.699|5.386|NO|Vestland|61
 Mosfilotí|34.953|33.425|CY|Larnaka|61
 Mosteiros|37.893|-25.821|PT|Azores|61
+Mosi-Oa-Tunya National Park No. 17|-17.877|25.819|ZM|Southern Province|61|f
+Mosquito Lagoon|28.751|-80.750|US|Florida|61|f
+Mostaganem Airport|35.906|0.146|DZ|Mostaganem|61|f
+Mosterøya|59.085|5.637|NO|Rogaland|61|f
+Møsvatn|59.869|8.024|NO|Telemark|61|f
 Moszczanka|50.300|17.491|PL|Opole Voivodeship|61
 Moshkān|30.607|52.953|IR|Fars|61
 Moscufo|42.427|14.054|IT|Abruzzo|60
 Mosso Santa Maria|45.650|8.137|IT|Piedmont|60
+Mosstodloch|57.625|-3.122|GB|Scotland|60
+Mosses|32.175|-86.672|US|Alabama|60
+Mosås|59.200|15.133|SE|Örebro|59
+Mostkowo|52.993|15.057|PL|West Pomerania|59
+Moshchene|48.352|29.996|UA|Kirovohrad|58
+Moschopótamos|40.326|22.309|GR|Central Macedonia|58
+Moskhokhórion|38.828|22.448|GR|Central Greece|58
+Moshīrān|38.681|47.539|IR|Ardabil Province|58
+Moses Point Airport|64.695|-162.062|US|Alaska|58|f
+Moshi|39.625|45.214|AM|Vayots Dzor|58|f
+Moshi Airport|-3.362|37.328|TZ|Kilimanjaro|58|f
+Mosselbaai|-34.138|22.130|ZA|Western Cape|58|f
+Mossman Peninsula|-60.750|-44.700|AQ||58|f
+Mossyrock Dam|46.535|-122.426|US|Washington|58|f
+Moshchun|50.603|30.316|UA|Kyiv Oblast|58
 Mosca|-10.343|-76.292|PE|Huánuco Department|58
+Mosnes|47.456|1.100|FR|Centre-Val de Loire|58
+Mossyrock|46.530|-122.485|US|Washington|58
+Moschheim|50.483|7.842|DE|Rheinland-Pfalz|57
 Mosqueruela|40.361|-0.449|ES|Aragon|57
+Moselkern|50.194|7.371|DE|Rheinland-Pfalz|57
 Moscazzano|45.294|9.681|IT|Lombardy|57
+Moškanjci|46.420|15.993|SI|Municipality of Gorišnica|57
+Mostyshche|51.663|24.827|UA|Volyn|57
+Mošnov|49.689|18.132|CZ|Moravian-Silesian Region|57
+Moskorzew|50.647|19.936|PL|Świętokrzyskie|56
+Mosta|56.530|42.163|RU|Ivanovo Oblast|56
+Moste|46.417|14.133|SI|Municipality of Žirovnica|56
+Mosterton|50.845|-2.773|GB|England|56
+Moscow|45.071|-69.891|US|Maine|56
+Moșteni|43.861|25.142|RO|Teleorman County|55
+Moso|46.690|12.367|IT|Trentino-Alto Adige|55
+Moshchena|51.260|24.606|UA|Volyn|55
+Mossini|46.179|9.864|IT|Lombardy|55
+Moșești|45.124|27.148|RO|Buzău County|55
+Moscow|35.062|-89.404|US|Tennessee|55
+Mossy Point|-35.840|150.180|AU|New South Wales|54
+Moszczanka|51.600|21.966|PL|Lublin|54
+Mosby Peak|-54.424|3.307|BV||54|f
+Moser Glacier|-64.850|-62.316|AQ||54|f
+Mosquito Creek Lake|41.371|-80.755|US|Ohio|54|f
+Mosquito Lake|59.461|-136.024|US|Alaska|54|f
+Mosquito Mountain|41.901|-119.807|US|Nevada|54|f
+Moss Landing State Wildlife Area|36.818|-121.770|US|California|54|f
+Mössensee|53.224|12.832|DE|Mecklenburg-Vorpommern|54|f
+Mossø|56.039|9.784|DK|Central Jutland|54|f
+Moster|59.702|5.346|NO|Vestland|54|f
+Moshend|38.393|48.693|IR|Gilan Province|54
+Moszczanka|51.719|17.738|PL|Greater Poland|54
+Moshkenān|32.719|52.611|IR|Isfahan|54
 Mošćenička Draga|45.238|14.252|HR|Primorje-Gorski Kotar|53
+Moßbach|50.683|11.817|DE|Thuringia|53
 Moschendorf|47.058|16.477|AT|Burgenland|52
 Moss|53.617|-1.100|GB|England|52
 Moscheri|45.869|11.074|IT|Trentino-Alto Adige|50
 Mossano|45.420|11.554|IT|Veneto|50
 Moso in Passiria|46.832|11.167|IT|Trentino-Alto Adige|50
+Mosby Glacier|-73.139|-61.992|AQ||49|f
+Moscos Islands|14.000|97.750|MM|Tanintharyi Region|49|f
+Mosenthein Island|38.723|-90.202|US|Illinois|49|f
+Moses Fountain|41.905|12.495|IT|Lazio|49|f
+Mosken|67.746|12.755|NO|Nordland|49|f
+Moss Lake|-60.694|-45.623|AQ||49|f
+Mossy Mountain|43.556|-74.299|US|New York|49|f
+Mosbruch|50.267|6.950|DE|Rheinland-Pfalz|45
+Mosambik Lake|48.689|-84.529|CA|Ontario|40|f
+Mosby Hill|36.782|-91.283|US|Missouri|40|f
+Mosebacke torg|59.318|18.074|SE|Stockholm|40|f
+Moseltalbrücke|50.315|7.494|DE|Rheinland-Pfalz|40|f
+Moses H Cone Memorial Park|36.155|-81.688|US|North Carolina|40|f
+Moses Lake Municipal Airport|47.142|-119.239|US|Washington|40|f
+Mosisberg|49.300|7.854|DE|Rheinland-Pfalz|40|f
+Møsnuken|60.233|5.520|NO|Vestland|40|f
+Mosque City of Bagerhat|22.657|89.796|BD|Khulna Division|40|f
+Mosquito Lake|44.904|-64.144|CA|Nova Scotia|40|f
+Mosquito Lake|62.600|-103.367|CA|Northwest Territories|40|f
+Moss Hill|41.781|-70.529|US|Massachusetts|40|f
+Moss Landing State Beach|36.814|-121.791|US|California|40|f
+Moss Neck|38.235|-77.297|US|Virginia|40|f
+Moss Pond|42.636|-74.934|US|New York|40|f
+Mosswood Park|37.824|-122.260|US|California|40|f
+Most Legií|50.081|14.412|CZ|Prague|40|f
 Mosquero|35.777|-103.957|US|New Mexico|39
 Moscardón|40.333|-1.537|ES|Aragon|34
+Moshi|29.764|110.949|CN|Hunan|0
+Moshi|30.415|111.239|CN|Hubei|0
+Moshiyi|27.828|103.728|CN|Yunnan|0
 Mositai|45.535|119.667|CN|Inner Mongolia|0
 Moskona Barat|-1.630|132.956|ID|West Papua|0
 Moskva|37.661|69.628|TJ|Khatlon Province|0
+Moso|-8.478|120.512|ID|East Nusa Tenggara|0
 Mostishche|56.290|28.762|RU|Pskov Oblast|0
 Mosynopolis, Maximianopolis, Μαξιμιανούπολις|41.129|25.325|GR|East Macedonia and Thrace|0

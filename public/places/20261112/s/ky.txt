@@ -23,6 +23,7 @@ Kyaikto|17.309|97.011|MM|Mon|94
 Kyaikkami|16.077|97.564|MM|Mon|94
 Kyela|-9.583|33.850|TZ|Mbeya|93
 Kyustendil|42.283|22.692|BG|Kyustendil|93
+Kyūshū|32.429|130.991|JP|Kumamoto|93|f
 Kyaukpadaung|20.842|95.127|MM|Mandalay Region|93
 Kyauktan|24.278|95.895|MM|Sagaing Region|93
 Kyathampalle|19.668|78.529|IN|Telangana|93
@@ -43,6 +44,7 @@ Kyabé|9.451|18.945|TD|Moyen-Chari|87
 Kyauktaw|20.845|92.975|MM|Rakhine|86
 Kyurdarmir|40.343|48.156|AZ|Kurdamir District|86
 Kyakhta|50.350|106.451|RU|Buryatiya Republic|85
+Kythera|36.241|22.993|GR|Attica|85|f
 Kyarusozi|0.784|30.531|UG|Western Region|84
 Kyo Kone East|16.886|96.115|MM|Yangon|84
 Kybalchych|50.493|30.598|UA|Kyiv City|84
@@ -85,19 +87,24 @@ Kynšperk nad Ohří|50.119|12.530|CZ|Carlsbad Region|73
 Kyra|49.580|111.977|RU|Zabaykalskiy (Transbaikal) Kray|73
 Kyain Seikgyi|15.823|98.253|MM|Kayin State|73
 Kytmanovo|53.461|85.447|RU|Altai Krai|72
+Kykkos|34.984|32.742|CY|Nicosia|72|f
 Kyzyl-Khaya|50.050|89.878|RU|Republic of Tyva|72
 Kyun Bet|16.648|95.852|MM|Yangon|72
+Kyushu Historical Museum|33.438|130.558|JP|Fukuoka|71|f
 Kyzyl-Oktyabr’|41.102|72.793|KG|Jalal-Abad Region|71
 Kyzyl-Oktyabr’skiy|43.826|41.786|RU|Karachayevo-Cherkesiya Republic|71
 Kysyl-Syr|63.895|122.765|RU|Sakha|71
 Kyrylivka|46.372|35.370|UA|Zaporizhzhia|71
 Kýmina|40.614|22.693|GR|Central Macedonia|70
 Kyrykivka|50.364|35.115|UA|Sumy|70
+Kyiv Zhuliany International Airport|50.402|30.450|UA|Kyiv City|70|f
 Kyauk Ku Din|17.171|96.218|MM|Yangon|70
 Kyzyldzhar|41.567|70.017|UZ|Tashkent Region|70
 Kyslytsya|45.408|29.036|UA|Odesa|69
 Kyōgoku|42.863|140.906|JP|Hokkaido|69
 Kyseliv|48.580|25.657|UA|Chernivtsi|69
+Kyebang-san|37.728|128.465|KR|Gangwon-do|69|f
+Kýrros|40.787|22.369|GR|Central Macedonia|69|f
 Kylmäkoski|61.154|23.689|FI|Pirkanmaa|68
 Kyinka|51.453|31.194|UA|Chernihiv Oblast|68
 Kywe Da Yut|16.890|95.927|MM|Yangon|68
@@ -106,6 +113,7 @@ Kytayhorod|48.900|34.447|UA|Dnipropetrovsk|68
 Kysucký Lieskovec|49.339|18.816|SK|Žilina Region|67
 Kya Khat Kone Gyi|16.390|96.177|MM|Yangon|67
 Kyzyl-Bulak|40.052|71.737|KG|Batken|67
+Kyūshū Sanchi|32.583|131.083|JP|Kumamoto|67|f
 Kyrnychky|45.705|29.069|UA|Odesa|67
 Kyo|-12.332|44.519|KM|Anjouan|67
 Kyogle|-28.623|152.997|AU|New South Wales|67
@@ -114,6 +122,7 @@ Kyon Kan|16.667|96.446|MM|Yangon|66
 Kyar Kan|16.677|96.353|MM|Yangon|66
 Kyi Tan|16.757|96.019|MM|Yangon|66
 Kywe Lu Aing|16.635|96.124|MM|Yangon|65
+Kyes Peak|47.965|-121.333|US|Washington|65|f
 Kyun Kone|17.075|96.264|MM|Yangon|65
 Kyriáki|38.354|22.788|GR|Central Greece|65
 Kyan Pin|16.624|96.393|MM|Yangon|65
@@ -123,6 +132,7 @@ Kyperoúnta|34.938|32.976|CY|Limassol|64
 Kyun Ka Lay|16.781|96.082|MM|Yangon|64
 Kýria|41.099|24.289|GR|East Macedonia and Thrace|64
 Kyzylzhar|49.982|72.608|KZ|Karaganda|64
+Kyzylorda Airport|44.709|65.591|KZ|Kyzylorda|63|f
 Kyslychuvata|47.854|34.731|UA|Dnipropetrovsk|63
 Kyi|21.696|95.374|MM|Mandalay Region|63
 Kyaung Su|16.559|95.855|MM|Yangon|63
@@ -135,15 +145,89 @@ Kyyjärvi|63.033|24.567|FI|Central Finland|61
 Kyrás Vrýsi|37.913|22.987|GR|Peloponnese|61
 Kyu Taw Chaung|16.548|96.232|MM|Yangon|61
 Kyšice|49.753|13.486|CZ|Plzeň Region|61
+Kyffhäuser Gebirge|51.405|11.078|DE|Thuringia|61|f
+Kymmendö|59.111|18.501|SE|Stockholm|61|f
+Kyrkjebønosi|60.900|8.551|NO|Buskerud|61|f
+Kyrkjeoksli|61.533|8.295|NO|Innlandet|61|f
+Kyrksjön|59.350|17.917|SE|Stockholm|61|f
+Kyūshū Kokuritsu Hakubutsukan|33.518|130.538|JP|Fukuoka|61|f
 Kyzyl-Eshme|39.566|72.272|KG|Osh Region|61
 Kyprínos|41.575|26.229|GR|East Macedonia and Thrace|61
 Kyllíni|37.935|21.145|GR|West Greece|61
 Kyllburg|50.039|6.595|DE|Rheinland-Pfalz|60
 Kynopiástes|39.568|19.884|GR|Ionian Islands|60
 Kyon La Ta|16.431|95.876|MM|Yangon|60
+Kyrkhult|56.550|13.267|SE|Halland|60
+Kya Man|17.198|95.803|MM|Yangon|60
+Kyrkhult|56.350|14.583|SE|Blekinge|60
+Kyselytsi|48.036|25.051|UA|Chernivtsi|60
+Kyalakhan|38.647|48.340|AZ|Lerik District|59
+Kyzyl-Korgon|40.152|71.080|KG|Batken|59
+Kyuerdem|61.430|129.198|RU|Sakha|59
+Kytlym|59.500|59.202|RU|Sverdlovsk Oblast|59
+Kyle|43.425|-102.177|US|South Dakota|59
+Kyjovice|49.832|18.042|CZ|Moravian-Silesian Region|58
+Kyrkjetaket|62.612|7.902|NO|Møre og Romsdal|58|f
+Kyungyi|15.068|97.735|MM|Mon|58|f
+Kyzyl-Kiya Airport|40.271|72.050|KG|Osh Region|58|f
+Kyzyl-Syr Airport|63.887|122.776|RU|Sakha|58|f
+Kybliari|48.604|22.552|UA|Zakarpattia|58
+Kykotsmovi Village|35.874|-110.623|US|Arizona|57
+Kyyanytsya|51.068|34.918|UA|Sumy|57
+Kyiashky|49.129|33.626|UA|Poltava|57
+Kyle of Lochalsh|57.284|-5.711|GB|Scotland|56
+Kybaky|48.313|25.322|UA|Chernivtsi|56
+Kyšice|50.091|14.106|CZ|Central Bohemia|55
+Kyrá Chrysikoú|39.640|19.835|GR|Ionian Islands|55
+Kyrkesund|58.017|11.517|SE|Västra Götaland|55
+Kyudyurlyu|41.083|47.129|AZ|Shaki|55
+Kyzyl-Asker|42.742|75.332|KG|Chuy Region|55
+Kyohan|8.527|-5.117|CI|Vallée du Bandama District|55
+Kypséli|40.556|22.494|GR|Central Macedonia|54
+Kyaukpyu Airport|19.426|93.535|MM|Rakhine|54|f
+Kyhv Peak|40.272|-111.616|US|Utah|54|f
+Kyrkjenuten|59.794|6.549|NO|Rogaland|54|f
+Kyrkjeskipet Peak|-71.867|6.767|AQ||54|f
+Kyrösjärvi|61.762|23.154|FI|Pirkanmaa|54|f
+Kytö|60.065|24.721|FI|Uusimaa|54|f
+Kyzyl Airport|51.669|94.401|RU|Republic of Tyva|54|f
+Kyi Seik|16.855|95.987|MM|Yangon|54
+Kye Tha Yauk(Sun Par)|27.108|96.374|MM|Sagaing Region|54
+Kybunpark|47.408|9.305|CH|Saint Gallen|49|f
+Kyffin, Mount|-83.733|171.767|AQ||49|f
+Kykuit|42.204|-73.875|US|New York|49|f
+Kyle Bay|-33.992|151.101|AU|New South Wales|49|f
+Kyle of Durness|58.567|-4.817|GB|Scotland|49|f
+Kyle Peak|-72.567|166.283|AQ||49|f
+Kylemore Lough|53.561|-9.852|IE|Connacht|49|f
+Kyles of Bute|55.933|-5.200|GB|Scotland|49|f
+Kyrkja|61.541|8.292|NO|Innlandet|49|f
+Kyyvesi|61.967|27.117|FI|South Savo|49|f
 Kýthira|36.150|22.990|GR|Attica|49
+Kyllburgweiler|50.050|6.617|DE|Rheinland-Pfalz|41
+Kyambogo University|0.349|32.627|UG|Central Region|40|f
+KYCA-AM (Prescott)|34.551|-112.463|US|Arizona|40|f
+KYCS-FM (Rock Springs)|41.497|-109.344|US|Wyoming|40|f
+Kyd Island|11.956|92.753|IN|Andaman and Nicobar|40|f
+KYEE-FM (Alamogordo)|32.945|-105.947|US|New Mexico|40|f
+KYES-TV (Anchorage)|61.336|-149.514|US|Alaska|40|f
+KYEZ-FM (Salina)|38.954|-97.608|US|Kansas|40|f
+KYFR-AM (Shenandoah)|40.623|-95.245|US|Iowa|40|f
+Kyiv National Linguistic University|50.428|30.517|UA|Kyiv City|40|f
+Kyiv TV Tower|50.471|30.453|UA|Kyiv Oblast|40|f
+Kyle of Tongue|58.484|-4.442|GB|Scotland|40|f
+Kymulga Covered Bridge|33.334|-86.300|US|Alabama|40|f
+KYND-AM (Cypress)|30.011|-95.695|US|Texas|40|f
+KYNT-AM (Yankton)|42.892|-97.420|US|South Dakota|40|f
+Kyoto Imperial Palace|35.023|135.763|JP|Kyoto|40|f
+Kyser Lake|43.068|-74.770|US|New York|40|f
+KYSN-FM (East Wenatchee)|47.381|-120.289|US|Washington|40|f
+KYST-AM (Texas City)|29.418|-94.937|US|Texas|40|f
+KYTC-FM (Northwood)|43.488|-93.237|US|Iowa|40|f
+Kyung Hee University|37.597|127.052|KR|Seoul|40|f
 Kỳ Sơn|20.887|105.352|VN|Phu Tho|0
 Kyankwanzi|1.201|31.801|UG|Central Region|0
+Kyinzhi|34.147|100.188|CN|Qinghai|0
 Kyrgyz-Kyshtak|40.311|71.350|KG|Batken|0
 Kyrkjebygda|58.615|7.414|NO|Agder|0
 Kyrö|60.700|22.750|FI|Southwest Finland|0

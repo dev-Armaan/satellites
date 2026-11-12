@@ -22,6 +22,7 @@ Borūjen|31.965|51.287|IR|Chaharmahal and Bakhtiari|95
 Borovichi|58.394|33.919|RU|Novgorod Oblast|95
 Borkou|18.250|18.500|TD||95|r
 Bordj el Bahri|36.791|3.250|DZ|Algiers|94
+Bordeaux–Mérignac Airport|44.828|-0.716|FR|New Aquitaine|94|f
 Bornheim|50.763|6.991|DE|North Rhine-Westphalia|94
 Borgerhout|51.210|4.435|BE|Flanders|93
 Bordj Menaïel|36.743|3.717|DZ|Boumerdes|93
@@ -31,15 +32,18 @@ Borken|51.844|6.858|DE|North Rhine-Westphalia|92
 Bor|44.075|22.096|RS|Central Serbia|92
 Borehamwood|51.655|-0.278|GB|England|91
 Borough of Arima|10.625|-61.279|TT||91|r
+Borneo|1.000|114.000|ID||91|f
 Bordj Ghdir|35.901|4.898|DZ|Bordj Bou Arréridj|91
 Borgo San Paolo|45.060|7.645|IT|Piedmont|90
 Boryslav|49.290|23.429|UA|Lviv|90
 Bor|37.891|34.559|TR|Niğde Province|90
+Boryspil Airport|50.345|30.895|UA|Kyiv Oblast|90|f
 Borj Cedria|36.697|10.387|TN|Ben Arous Governorate|90
 Borzya|50.391|116.534|RU|Zabaykalskiy (Transbaikal) Kray|90
 Borşa|47.655|24.663|RO|Maramureş|89
 Bor|6.209|31.559|SS|Jonglei|89
 Borāwar|27.024|74.676|IN|Rajasthan|88
+Bornholm|55.126|14.914|DK|Capital Region|88|f
 Boriziny|-15.550|47.667|MG|Sofia|88
 Borne|52.301|6.748|NL|Overijssel|88
 Boronia|-37.867|145.283|AU|Victoria|87
@@ -50,6 +54,7 @@ Borgomanero|45.699|8.462|IT|Piedmont|86
 Boromo|11.745|-2.930|BF|Boucle du Mouhoun|86
 Bornem|51.097|4.244|BE|Flanders|86
 Boriavi|22.611|72.933|IN|Gujarat|86
+Borsippa|32.392|44.342|IQ|Babil|86|f
 Bordj Zemoura|36.275|4.857|DZ|Bordj Bou Arréridj|86
 Borgaon|20.723|78.604|IN|Maharashtra|86
 Borodino|55.908|94.912|RU|Krasnoyarsk Krai|86
@@ -67,7 +72,9 @@ Borisovka|50.599|36.017|RU|Belgorod Oblast|83
 Borodianka|50.643|29.923|UA|Kyiv Oblast|83
 Bo Rai|12.573|102.537|TH|Trat|83
 Borkherī|20.948|79.015|IN|Maharashtra|82
+Bor Airport|44.018|22.137|RS|Central Serbia|82|f
 Borger|35.668|-101.397|US|Texas|82
+Borðoy|62.266|-6.530|FO|Norðoyar|82|f
 Borken|51.045|9.284|DE|Hesse|82
 Borī|20.912|79.004|IN|Maharashtra|82
 Borgata Paradiso|45.076|7.602|IT|Piedmont|82
@@ -94,6 +101,7 @@ Borzna|51.253|32.427|UA|Chernihiv Oblast|80
 Borskoye|53.025|51.699|RU|Samara Oblast|79
 Bordighera|43.781|7.665|IT|Liguria|79
 Borleşti|46.767|26.483|RO|Neamț County|79
+Borohoro Shan|44.100|83.167|CN|Xinjiang|79|f
 Borolong|-21.104|27.336|BW|Central|79
 Bor-Öndör|46.267|109.438|MN|Hentiy|79
 Borāj|26.454|74.610|IN|Rajasthan|79
@@ -101,11 +109,14 @@ Borgholzhausen|52.103|8.302|DE|North Rhine-Westphalia|79
 Borsdorf|51.350|12.533|DE|Saxony|79
 Borgosatollo|45.477|10.240|IT|Lombardy|79
 Borpukhuri|26.016|92.845|IN|Assam|78
+Bora Bora|-16.500|-151.737|PF|Leeward Islands|78|f
+Borodino Island|25.840|131.240|JP|Okinawa|78|f
 Borim|15.367|74.000|IN|Goa|78
 Boron|8.694|-5.969|CI|Savanes District|78
 Bornos|36.817|-5.744|ES|Andalusia|78
 Borrazópolis|-23.941|-51.587|BR|Paraná|78
 Bordesholm|54.176|10.031|DE|Schleswig-Holstein|78
+Borah Peak|44.137|-113.781|US|Idaho|78|f
 Borgaon|21.561|78.813|IN|Madhya Pradesh|77
 Borgo a Buggiano|43.875|10.735|IT|Tuscany|77
 Borova|50.176|30.104|UA|Kyiv Oblast|77
@@ -119,6 +130,7 @@ Borj el Amri|36.713|9.882|TN|Manouba|76
 Borj Mejen Bel Abbès|34.750|8.520|TN|Kasserine Governorate|76
 Borodinskiy|53.999|37.818|RU|Tula Oblast|76
 Borgo Maggiore|43.942|12.447|SM|Borgo Maggiore|76
+Borongan Airport|11.674|125.479|PH|Eastern Visayas|76|f
 Borgetto|38.047|13.141|IT|Sicily|76
 Bormla|35.881|14.522|MT||76|r
 Borgoricco-San Michele delle Badesse-Sant'Eufemia|45.535|11.941|IT|Veneto|76
@@ -128,6 +140,7 @@ Borodulikha|50.718|80.930|KZ|Abai Region|75
 Boradigah|38.930|48.709|AZ|Masally|75
 Borisoglebskiy|57.262|39.154|RU|Yaroslavl Oblast|75
 Bornu Yassu|12.275|12.569|NG|Borno State|75
+Borobudur|-7.608|110.204|ID|Central Java|75|f
 Borivali Tarf Rahur|19.375|73.179|IN|Maharashtra|75
 Borgonovo Valtidone|45.014|9.443|IT|Emilia-Romagna|75
 Borrowash|52.907|-1.384|GB|England|75
@@ -150,6 +163,7 @@ Bor|49.712|12.775|CZ|Plzeň Region|74
 Boroaia|47.350|26.333|RO|Suceava|74
 Boracéia|-22.193|-48.779|BR|São Paulo|73
 Borbon|10.838|124.030|PH|Central Visayas|73
+Bora Bora Airport|-16.444|-151.751|PF|Leeward Islands|73|f
 Borba|38.806|-7.455|PT|Évora|73
 Borger|52.923|6.793|NL|Drenthe|73
 Bordj Badji Mokhtar|23.251|-0.619|DZ||73|r
@@ -194,6 +208,8 @@ Boreham|51.199|-2.166|GB|England|70
 Boreham|51.760|0.541|GB|England|70
 Borgo Santa Maria|43.876|12.802|IT|The Marches|70
 Borghetto|43.598|13.292|IT|The Marches|70
+Bordj Mokhtar Airport|21.375|0.924|DZ|Bordj Badji Mokhtar|70|f
+Borøya|58.584|9.006|NO|Agder|70|f
 Borshchivka|49.503|36.971|UA|Kharkiv|70
 Bordány|46.318|19.923|HU|Csongrád|70
 Borino|41.685|24.290|BG|Smolyan|70
@@ -214,6 +230,9 @@ Borsodnádasd|48.117|20.250|HU|Borsod-Abaúj-Zemplén|69
 Börezli|39.498|27.027|TR|Balıkesir|69
 Borebi|-22.569|-48.971|BR|São Paulo|69
 Bordo Blanco|20.496|-99.928|MX|Querétaro|69
+Borgøyna|59.344|5.639|NO|Rogaland|69|f
+Borj-e Sūkhteh-ye Soflá|29.735|51.557|IR|Fars|69|f
+Børøya|68.571|14.930|NO|Nordland|69|f
 Borovoy|64.612|32.250|RU|Karelia|68
 Borox|40.068|-3.738|ES|Castille-La Mancha|68
 Borek Wielkopolski|51.917|17.241|PL|Greater Poland|68
@@ -255,6 +274,8 @@ Borgarnes|64.538|-21.921|IS|West|65
 Borgarnes|64.562|-21.901|IS|West|65
 Borghetto-Melara|44.099|9.991|IT|Tuscany|65
 Borgone Susa|45.123|7.236|IT|Piedmont|65
+Bordeaux Mountain|18.334|-64.729|VI|Saint John Island|65|f
+Borromean Islands|45.904|8.530|IT|Piedmont|65|f
 Borşa|46.933|23.667|RO|Cluj County|65
 Borove|51.117|27.300|UA|Rivne Oblast|65
 Borkheide|52.217|12.850|DE|Brandenburg|65
@@ -279,6 +300,11 @@ Borlova|45.367|22.352|RO|Caraș-Severin County|64
 Borgo a Mozzano|43.979|10.545|IT|Tuscany|64
 Borkenes|68.773|16.171|NO|Troms|64
 Borzhava|48.157|22.722|UA|Zakarpattia|64
+Borgarfjörður|64.481|-22.034|IS|West|63|f
+Borgarfjörður Eystri|65.540|-13.783|IS|East|63|f
+Bornholm Rønne Airport|55.063|14.760|DK|Capital Region|63|f
+Borszczów Ghetto|48.800|26.050|UA|Ternopil|63|f
+Boryeonsan|37.068|127.777|KR|North Chungcheong|63|f
 Borowa|50.385|21.352|PL|Subcarpathia|63
 Borgstedt|54.333|9.710|DE|Schleswig-Holstein|63
 Bordils|42.043|2.911|ES|Catalonia|63
@@ -311,6 +337,16 @@ Borgo|44.709|7.962|IT|Piedmont|62
 Borgo Fornari-Pieve|44.589|8.937|IT|Liguria|61
 Borek|49.023|14.501|CZ|South Bohemian Region|61
 Born|54.385|12.531|DE|Mecklenburg-Vorpommern|61
+Borama Airport|9.946|43.151|SO|Awdal|61|f
+Borås Zoo|57.740|12.940|SE|Västra Götaland|61|f
+Borebreen|78.414|14.014|SJ|Svalbard|61|f
+Borg Mountain|-72.533|-3.500|AQ||61|f
+Borgundøya|59.728|5.680|NO|Vestland|61|f
+Borisova Gradina TV Tower|42.677|23.342|BG|Sofia-Capital|61|f
+Borj-e Mīlād|35.744|51.375|IR|Tehran|61|f
+Bornsjön|59.233|17.733|SE|Stockholm|61|f
+Borøya|59.878|10.551|NO|Akershus|61|f
+Börzsöny|47.949|18.933|HU||61|f
 Börnichen|50.750|13.141|DE|Saxony|61
 Bora Bassa|44.046|12.181|IT|Emilia-Romagna|61
 Borgo Grappa|41.402|12.961|IT|Lazio|61
@@ -323,64 +359,268 @@ Borisova Griva|60.089|30.977|RU|Leningradskaya Oblast'|60
 Borgata Marina|39.971|16.621|IT|Calabria|60
 Borcut|47.482|23.841|RO|Maramureş|60
 Boroyaradougou|7.953|-4.500|CI|Vallée du Bandama District|60
+Borsodszentgyörgy|48.183|20.200|HU|Borsod-Abaúj-Zemplén|60
+Bornstedt|51.483|11.483|DE|Saxony-Anhalt|60
+Borek Szlachecki|49.965|19.776|PL|Lesser Poland|60
+Bořanovice|50.178|14.479|CZ|Central Bohemia|60
+Borrby|55.457|14.180|SE|Skåne|60
+Bornerbroek|52.309|6.654|NL|Overijssel|60
+Börrstadt|49.578|7.942|DE|Rheinland-Pfalz|60
+Borumlaca|47.216|22.479|RO|Bihor County|60
+Borroloola|-16.070|136.308|AU|Northern Territory|60
+Borge|36.815|-4.235|ES|Andalusia|60
+Borisovo|55.420|36.046|RU|Moscow Oblast|60
+Borinka|48.262|17.086|SK|Bratislava Region|59
+Borkowice|50.941|18.158|PL|Opole Voivodeship|59
+Borrisokane|52.995|-8.128|IE|Munster|59
+Borgo Quinzio|42.163|12.713|IT|Lazio|59
+Borodaivka|48.755|34.124|UA|Dnipropetrovsk|59
+Borgo Carso|41.535|12.889|IT|Lazio|59
+Borlești|47.678|23.336|RO|Satu Mare County|59
+Bordușelu|44.556|27.043|RO|Ialomița County|59
+Borough of Far Hills|40.690|-74.622|US|New Jersey|59
+Borová|49.742|16.162|CZ|Pardubice Region|59
+Borá|-22.270|-50.534|BR|São Paulo|59
 Borzytuchom|54.200|17.368|PL|Pomerania|59
+Borów|50.883|16.991|PL|Lower Silesia|59
+Borgo Montello|41.511|12.775|IT|Lazio|59
+Borden|38.467|-85.946|US|Indiana|59
+Borșa|47.416|27.365|RO|Iași County|59
+Borgo Piave|41.482|12.863|IT|Lazio|59
+Boroșești|46.943|27.595|RO|Iași County|59
+Boroșești|44.659|24.214|RO|Vâlcea County|59
+Borisovka|52.844|39.967|RU|Lipetsk Oblast|59
 Borgo Velino|42.405|13.056|IT|Lazio|59
 Borghetto di Borbera|44.729|8.943|IT|Piedmont|59
+Borsfleth|53.826|9.431|DE|Schleswig-Holstein|59
+Borohila|8.386|-3.733|CI|Zanzan District|58
+Boren|54.615|9.821|DE|Schleswig-Holstein|58
+Borex|46.379|6.176|CH|Vaud|58
 Borzonasca|44.420|9.389|IT|Liguria|58
+Boruk|41.087|35.348|TR|Samsun|58
+Borzont|46.695|25.452|RO|Harghita County|58
 Borgorose|42.191|13.233|IT|Lazio|58
+Borgo Carillia|40.533|15.062|IT|Campania|58
+Boršice u Blatnice|48.933|17.574|CZ|Zlín|58
+Borden Lake|46.305|-93.855|US|Minnesota|58|f
+Borden Mountain|42.601|-73.027|US|Massachusetts|58|f
+Bordj Tamentfoust|36.800|3.233|DZ|Algiers|58|f
+Boren|58.567|15.167|SE|Östergötland|58|f
+Borgan|64.976|10.904|NO|Trøndelag|58|f
+Borgarknappur|61.499|-6.802|FO|Suðuroy|58|f
+Borge Point|-63.910|-60.756|AQ||58|f
+Borimsa|34.808|126.898|KR|Jeollanam-do|58|f
+Borj-e Kashmar|35.292|58.103|IR|Razavi Khorasan|58|f
+Borough Briggs|57.652|-3.321|GB|Scotland|58|f
+Borovets|42.106|23.020|BG|Kyustendil|58
+Borden-Carleton|46.262|-63.673|CA|Prince Edward Island|58
+Börzow|53.858|11.122|DE|Mecklenburg-Vorpommern|58
+Borsodbóta|48.217|20.400|HU|Borsod-Abaúj-Zemplén|58
+Borčice|48.978|18.141|SK|Trenčín Region|58
 Borriana|45.508|8.039|IT|Piedmont|58
+Börm|54.406|9.376|DE|Schleswig-Holstein|58
+Borden|51.334|0.700|GB|England|57
+Borșani|46.150|26.979|RO|Bacău County|57
+Borgo Bainsizza|41.484|12.793|IT|Lazio|57
 Borgomasino|45.362|7.988|IT|Piedmont|57
+Borkovany|49.028|16.810|CZ|South Moravian|57
+Boraboy|40.812|36.184|TR|Amasya|57
 Borki|51.722|22.521|PL|Lublin|57
+Borgwedel|54.501|9.665|DE|Schleswig-Holstein|57
 Borgo San Siro|45.235|8.913|IT|Lombardy|57
+Borj|37.442|57.353|IR|North Khorasan|57
+Borgo Revel|45.193|8.022|IT|Piedmont|57
+Bornheim|49.783|8.060|DE|Rheinland-Pfalz|57
+Borgo San Martino|44.700|7.887|IT|Piedmont|57
+Borrisoleigh|52.752|-7.953|IE|Munster|57
+Borgonuovo|46.329|9.438|IT|Lombardy|57
+Borlo|50.742|5.181|BE|Flanders|57
+Borozel|47.006|22.562|RO|Bihor County|57
+Bordères|43.203|-0.221|FR|New Aquitaine|57
 Borkowice|51.320|20.683|PL|Mazovia|56
+Borgo Faiti|41.467|13.000|IT|Lazio|56
+Borris|52.600|-6.918|IE|Leinster|56
+Borgo Verde|45.600|12.260|IT|Veneto|56
+Bordeștii de Jos|45.539|27.039|RO|Vrancea|56
+Borgo Santa Maria|41.462|12.798|IT|Lazio|56
+Bordonal|18.006|-102.312|MX|Michoacán|56
+Borgo San Pietro|42.495|12.882|IT|Lazio|56
+Borgo Europa|36.927|14.467|IT|Sicily|56
+Bor|59.191|53.083|RU|Kirov Oblast|56
+Bordenii Mici|45.078|25.867|RO|Prahova|56
+Borlovenii Vechi|44.955|22.109|RO|Caraș-Severin County|56
+Borgo Sant'Agata|43.904|8.010|IT|Liguria|56
 Bordolano|45.292|9.987|IT|Lombardy|56
 Borca|46.435|12.222|IT|Veneto|56
 Borghetto di Vara|44.224|9.721|IT|Liguria|56
+Bornum|51.980|12.204|DE|Saxony-Anhalt|56
+Bordes|43.201|0.225|FR|Occitanie|56
+Borgo Santa Maria|42.154|12.680|IT|Lazio|56
 Bordano|46.315|13.105|IT|Friuli Venezia Giulia|56
+Borovkivka|48.546|34.211|UA|Dnipropetrovsk|56
+Borzești|47.911|26.755|RO|Botoșani County|56
+Borkel|51.297|5.440|NL|North Brabant|55
+Borobadougou|8.689|-6.961|CI|Woroba|55
+Børgen|60.094|11.213|NO|Akershus|55
+Borlovenii Noi|44.969|22.143|RO|Caraș-Severin County|55
+Borod|50.667|7.710|DE|Rheinland-Pfalz|55
+Borkowice|50.741|17.716|PL|Opole Voivodeship|55
+Bordeaux-Saint-Clair|49.701|0.254|FR|Normandy|55
 Borrassà|42.223|2.926|ES|Catalonia|55
+Borsuky|48.040|29.421|UA|Odesa|55
 Borgoratto Alessandrino|44.836|8.539|IT|Piedmont|55
+Borjeleh|33.418|49.439|IR|Lorestan Province|55
+Borova|45.786|17.462|HR|Virovitica-Podravina|55
+Borgo Vodice|41.339|13.103|IT|Lazio|55
+Boroșteni|45.097|23.028|RO|Gorj County|55
+Borodino|45.645|34.685|UA|Crimea|55
+Borleasa|47.346|24.177|RO|Bistrița-Năsăud County|55
+Bordovice|49.547|18.153|CZ|Moravian-Silesian Region|55
+Borlești|44.948|24.764|RO|Arges|55
+Borozonba|8.394|-5.837|CI|Woroba|55
+Borre|50.731|2.585|FR|Hauts-de-France|55
+Börgenek|37.685|38.098|TR|Adıyaman Province|55
+Borkow|53.664|11.950|DE|Mecklenburg-Vorpommern|55
 Borgo|44.405|7.938|IT|Piedmont|55
+Borgo Flora|41.550|12.830|IT|Lazio|55
+Borjas|28.531|-107.420|MX|Chihuahua|55
 Borbona|42.509|13.132|IT|Lazio|55
+Borgo Celano|41.704|15.657|IT|Apulia|55
+Borgonato|45.621|10.018|IT|Lombardy|55
+Borshchi|47.834|29.488|UA|Odesa|54
+Borgo Fra' Diavolo|40.886|16.725|IT|Apulia|54
+Bordelonville|31.105|-91.907|US|Louisiana|54
+Borja|-4.468|-77.544|PE|Loreto|54
+Borotín|49.505|14.613|CZ|South Bohemian Region|54
+Boracay Island|11.980|121.919|PH|Western Visayas|54|f
+Boračko Jezero|43.552|18.031|BA|Federation of B&H|54|f
+Boralday Airport|43.353|76.884|KZ|Almaty Region|54|f
+Borax Lake|42.327|-118.603|US|Oregon|54|f
+Borba Airport|-4.406|-59.602|BR|Amazonas|54|f
+Borchard Community Park|34.181|-118.951|US|California|54|f
+Borchgrevink, Mount|-72.117|23.133|AQ||54|f
+Borden Peninsula|73.001|-82.999|CA|Nunavut|54|f
+Borderland State Park|42.068|-71.154|US|Massachusetts|54|f
+Boreal Point|-63.128|-55.820|AQ||54|f
+Borebukta|78.354|14.323|SJ||54|f
+Borg Massif|-72.750|-3.500|AQ||54|f
+Borges - Clarksburg Airport|38.442|-121.505|US|California|54|f
+Borj El Amri Airport|36.723|9.941|TN|Ariana Governorate|54|f
+Borodin, Mount|-71.603|-72.627|AQ||54|f
+Borroloola Airport|-16.075|136.302|AU|Northern Territory|54|f
+Borgaccio|43.743|12.908|IT|The Marches|54
+Borysławice|51.653|18.427|PL|Łódź Voivodeship|54
+Borris in Ossory|52.936|-7.636|IE|Leinster|54
+Borkowo Łostowickie|54.299|18.595|PL|Pomerania|54
 Bormida|44.278|8.232|IT|Liguria|53
 Borrenes|42.490|-6.723|ES|Castille and León|53
 Borghi|44.032|12.356|IT|Emilia-Romagna|53
 Borgofranco sul Po|45.047|11.209|IT|Lombardy|52
+Borgdorf-Seedorf|54.173|9.880|DE|Schleswig-Holstein|52
 Borowie|51.949|21.766|PL|Mazovia|52
 Bortigiadas|40.892|9.044|IT|Sardinia|52
 Borzechów|51.093|22.284|PL|Lublin|52
+Börsborn|49.433|7.400|DE|Rheinland-Pfalz|52
+Borxleben|51.400|11.233|DE|Thuringia|51
 Borgomaro|43.975|7.944|IT|Liguria|51
 Borrello|41.917|14.305|IT|Abruzzo|51
+Bornhagen|51.333|9.950|DE|Thuringia|51
+Borgsum|54.701|8.457|DE|Schleswig-Holstein|51
 Borobia|41.665|-1.896|ES|Castille and León|51
 Bore|44.719|9.792|IT|Emilia-Romagna|50
 Boró|8.172|-81.301|PA|Veraguas Province|50
 Borgo Pace|43.658|12.293|IT|The Marches|50
+Borstorf|53.613|10.564|DE|Schleswig-Holstein|49
+Borak|44.656|17.641|BA|Srpska|49|f
+Boranja|44.361|19.162|RS||49|f
+Borchgrevink Glacier|-73.067|168.500|AQ||49|f
+Bordeaux Harbour|49.489|-2.507|GG||49|f
+Bordesholmer See|54.172|10.018|DE|Schleswig-Holstein|49|f
+Boreas Mountain|39.407|-105.949|US|Colorado|49|f
+Boreas Peak|-69.637|-68.365|AQ||49|f
+Boreas, Mount|-77.483|161.100|AQ||49|f
+Boree Islands|-67.683|45.317|AQ||49|f
+Bořeň [Bílina-Újezd]|50.528|13.764|CZ|Ústí nad Labem Region|49|f
+Boreray|57.870|-8.489|GB|Scotland|49|f
+Boreray|57.700|-7.300|GB|Scotland|49|f
+Borg Island|-66.964|57.635|AQ||49|f
+Borgarey|65.972|-22.448|IS|Westfjords|49|f
+Borgholm Castle|56.870|16.645|SE|Kalmar|49|f
+Borgwallsee|54.273|13.008|DE|Mecklenburg-Vorpommern|49|f
+Borisoglebskoye Airport|55.866|49.132|RU|Tatarstan Republic|49|f
+Borj Nord|34.067|-4.985|MA|Fes-Meknes|49|f
+Borja|44.536|17.700|BA|Srpska|49|f
+Borkower See|53.650|11.950|DE|Mecklenburg-Vorpommern|49|f
+Bornmann Glacier|-72.333|170.217|AQ||49|f
+Borns Glacier|-77.783|162.017|AQ||49|f
+Boromo Airport|11.750|-2.933|BF|Boucle du Mouhoun|49|f
+Boronia Park|-33.824|151.143|AU|New South Wales|49|f
+Borovik|42.567|18.530|ME||49|f
+Borowski Peak|-80.183|159.217|AQ||49|f
+Borradaile Island|-66.583|162.750|AQ||49|f
+Borrego Valley Airport|33.258|-116.325|US|California|49|f
+Borrello Island|-66.318|110.383|AQ||49|f
+Borsko Jezero|44.092|22.014|RS||49|f
+Bortelid|58.799|7.477|NO|Agder|49|f
 Borová Lada|48.990|13.660|CZ|South Bohemian Region|49
 Borutta|40.522|8.744|IT|Sardinia|49
 Bortolot|46.386|12.174|IT|Veneto|49
 Borgiallo|45.418|7.670|IT|Piedmont|47
+Bornholt|54.100|9.333|DE|Schleswig-Holstein|47
 Borgo di Ranzo|44.060|8.015|IT|Liguria|47
+Börfink|49.683|7.083|DE|Rheinland-Pfalz|47
 Borgo|45.639|8.115|IT|Piedmont|46
 Borgo Priolo|44.966|9.148|IT|Lombardy|46
 Boroneddu|40.113|8.870|IT|Sardinia|45
+Börslingen|48.539|10.063|DE|Baden-Wurttemberg|45
 Bordón|40.687|-0.322|ES|Aragon|43
 Borgoratto Mormorolo|44.929|9.194|IT|Lombardy|43
+Borawli|13.300|40.980|ET||40|f
+Borchert Field (historical)|43.074|-87.921|US|Wisconsin|40|f
+Borchgrevink Glacier Tongue|-73.350|168.833|AQ||40|f
+Borcik, Mount|-86.200|-153.633|AQ||40|f
+Bordelonville Floodgate|31.100|-91.864|US|Louisiana|40|f
+Borden Island|78.434|-111.509|CA|Northwest Territories|40|f
+Border Field State Park|32.543|-117.122|US|California|40|f
+Border Lake Park|56.354|-130.718|CA|British Columbia|40|f
+Borealis Glacier|48.593|-121.095|US|Washington|40|f
+Borer Lake|44.410|-93.643|US|Minnesota|40|f
+Borišov|48.942|19.089|SK|Žilina Region|40|f
+Borleske Stadium|46.077|-118.336|US|Washington|40|f
+Borman Bridge|42.852|-100.521|US|Nebraska|40|f
+Bornberg|49.561|7.542|DE|Rheinland-Pfalz|40|f
+Bornite Range|54.600|-128.253|CA|British Columbia|40|f
+Bornt Hill|42.420|-74.464|US|New York|40|f
+Borough Park|54.649|-3.551|GB|England|40|f
+Borwick Hall|54.151|-2.728|GB|England|40|f
 Bordalba|41.417|-2.067|ES|Aragon|39
+Borler|50.317|6.833|DE|Rheinland-Pfalz|39
 Borghetto d'Arroscia|44.057|7.981|IT|Liguria|38
 Borau|42.659|-0.588|ES|Aragon|37
 Borjabad|41.552|-2.366|ES|Castille and León|35
 Borgomale|44.620|8.132|IT|Piedmont|26
+Bor Ondor|44.267|122.400|CN|Jilin|0
+Bor Tungge|44.053|85.377|CN|Xinjiang|0
 Bor-Üdzüür|45.800|92.283|MN|Hovd|0
 Borabue|16.042|103.115|TH|Maha Sarakham|0
 Boratyn|50.704|25.355|UA|Volyn|0
 Borbón|1.088|-78.990|EC|Esmeraldas|0
+Borehbangle|-6.867|111.971|ID|East Java|0
 Boremel|50.471|25.193|UA|Rivne Oblast|0
+Boreng|-8.129|113.260|ID|East Java|0
 Borgheim|59.226|10.407|NO|Vestfold|0
+Borik|-8.844|120.250|ID|East Nusa Tenggara|0
 Borlu|38.753|28.467|TR|Manisa|0
 Bornuur|48.467|106.267|MN|Central Aimak|0
+Boro|-8.017|111.777|ID|East Java|0
+Boro|-8.369|118.277|ID|West Nusa Tenggara|0
+Boro Utara|-8.102|112.609|ID|East Java|0
 Boroko|0.908|123.268|ID|North Sulawesi|0
+Borong|48.395|124.494|CN|Inner Mongolia|0
 Borong|-8.813|120.610|ID|East Nusa Tenggara|0
 Borozenske|47.177|33.420|UA|Kherson|0
 Borredà|42.136|1.994|ES|Catalonia|0
 Børsa|63.327|10.069|NO|Trøndelag|0
+Borstel|53.968|9.800|DE|Schleswig-Holstein|0
 Borsuky|49.886|25.984|UA|Ternopil|0
 Boru|-8.525|122.711|ID|East Nusa Tenggara|0

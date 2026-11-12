@@ -8,6 +8,7 @@ Los Ángeles|-37.470|-72.354|CL|Biobio|102
 Los Baños|14.170|121.242|PH|Calabarzon|101
 Los Puertos de Altagracia|10.715|-71.522|VE|Zulia|100
 Los Rastrojos|10.026|-69.242|VE|Lara|100
+Los Angeles International Airport|33.943|-118.409|US|California|99|f
 Los Reyes Acaquilpan|19.358|-98.977|MX|México|99
 Lost Mountain|33.941|-84.702|US|Georgia|97
 Los Andes|-32.834|-70.598|CL|Valparaiso|96
@@ -32,6 +33,7 @@ Los Reyes Acozac|19.774|-98.983|MX|México|87
 Loschwitz|51.054|13.814|DE|Saxony|86
 Los Llanos de Aridane|28.659|-17.918|ES|Canary Islands|86
 Los Álamos|-37.628|-73.460|CL|Biobio|86
+Los Cabos International Airport|23.152|-109.721|MX|Baja California Sur|86|f
 Los Vilos|-31.913|-71.500|CL|Coquimbo Region|85
 Los Toldos|-35.000|-61.039|AR|Buenos Aires|85
 Lospalos|-8.522|126.998|TL|Lautém|85
@@ -44,11 +46,14 @@ Los Osos|35.311|-120.832|US|California|83
 Los Arabos|22.730|-80.721|CU|Matanzas Province|82
 Løsning|55.802|9.695|DK|Central Jutland|82
 Los Alamos|35.888|-106.307|US|New Mexico|82
+Los Garzones Airport|8.824|-75.826|CO|Córdoba|81|f
 Los Corrales de Buelna|43.264|-4.073|ES|Cantabria|81
 Los Alamitos|33.803|-118.073|US|California|81
 Lößnitz|50.622|12.731|DE|Saxony|80
 Los Lagos|-39.864|-72.809|CL|Los Ríos Region|79
+Los Cerrillos Airport|-33.493|-70.697|CL|Santiago Metropolitan|79|f
 Los Altos Hills|37.380|-122.137|US|California|79
+Los Roques Airport|11.945|-66.673|VE|Dependencias Federales|78|f
 Los Santos de Maimona|38.450|-6.383|ES|Extremadura|78
 Los Muermos|-41.396|-73.462|CL|Los Lagos Region|78
 Los Aquijes|-14.097|-75.691|PE|Ica|78
@@ -58,6 +63,7 @@ Los Ruiseñores|20.711|-103.691|MX|Jalisco|77
 Los Sauces|-37.981|-72.834|CL|Araucania|77
 Los Barreros|37.628|-0.998|ES|Murcia|77
 Los Serranos|33.973|-117.708|US|California|77
+Los Angeles County Museum of Art|34.064|-118.359|US|California|77|f
 Los Corralitos|-32.901|-68.698|AR|Mendoza|77
 Lossiemouth|57.721|-3.283|GB|Scotland|77
 Los Frentones|-26.407|-61.413|AR|Chaco|76
@@ -70,6 +76,7 @@ Losone|46.169|8.759|CH|Ticino|76
 Los Ranchos de Albuquerque|35.162|-106.643|US|New Mexico|76
 Los Santos|7.934|-80.412|PA|Los Santos Province|76
 Los Zacatones|22.961|-102.056|MX|San Luis Potosí|75
+Lošinj|44.586|14.397|HR|Primorje-Gorski Kotar|75|f
 Los Berros|-31.953|-68.654|AR|San Juan|75
 Los Altos|-28.045|-65.498|AR|Catamarca|75
 Los Gabatos|37.633|-1.000|ES|Murcia|75
@@ -104,6 +111,8 @@ Los Altos|19.446|-97.202|MX|Veracruz|72
 Los Reyes|20.155|-98.164|MX|Hidalgo|72
 Lostorf|47.384|7.947|CH|Solothurn|71
 Los Algarrobos Arriba|8.520|-82.425|PA|Chiriquí Province|71
+Lošinj Airport|44.569|14.394|HR|Primorje-Gorski Kotar|71|f
+Losuia Airport|-8.506|151.081|PG|Milne Bay Province|71|f
 Los Helechos|-27.557|-55.076|AR|Misiones|71
 Losynivka|50.844|31.918|UA|Chernihiv Oblast|71
 Los Naranjos|18.354|-96.165|MX|Veracruz|71
@@ -165,6 +174,7 @@ Los Algarrobos|8.113|-81.015|PA|Veraguas Province|66
 Los Varela|-27.930|-65.872|AR|Catamarca|66
 Los Alamos|34.744|-120.278|US|California|66
 Los Remedios|19.977|-102.679|MX|Michoacán|65
+Lost Lake|42.600|-71.518|US|Massachusetts|65|f
 Los Tepetates|17.060|-99.247|MX|Guerrero|65
 Los Ángeles|20.554|-100.942|MX|Guanajuato|65
 Los Dolores (Las Quince Letras)|21.318|-100.566|MX|Guanajuato|65
@@ -192,6 +202,13 @@ Los Órganos de San Agustín|16.935|-99.824|MX|Guerrero|64
 Los Saucitos|16.986|-99.299|MX|Guerrero|63
 Los Nicolases|20.858|-101.317|MX|Guanajuato|63
 Los Roques|11.948|-66.678|VE|Dependencias Federales|63
+L O Simenstad Municipal Airport|45.310|-92.692|US|Wisconsin|63|f
+Los Alamos County Airport|35.880|-106.273|US|New Mexico|63|f
+Los Cedros Airport|-35.155|-71.606|CL|Maule Region|63|f
+Los Condores Airport|-20.256|-70.089|CL|Tarapacá|63|f
+Los Guayes Airport|-39.052|-71.994|CL|Araucania|63|f
+Los Maitenes de Villa Vieja Airport|-40.316|-72.979|CL|Los Ríos Region|63|f
+Loskopdam Natuurreservaat|-25.424|29.298|ZA|Mpumalanga|63|f
 Los Saucos|19.165|-99.998|MX|México|63
 Los Santos de la Humosa|40.500|-3.253|ES|Madrid|63
 Los Pozos|16.648|-92.407|MX|Chiapas|63
@@ -247,6 +264,9 @@ Los Naranjos|18.331|-95.242|MX|Veracruz|61
 Los Olivos|34.668|-120.115|US|California|61
 Los Garcías|18.803|-97.394|MX|Puebla|61
 Los Arquitos|21.922|-102.386|MX|Aguascalientes|61
+Los Alerces National Park|-42.941|-71.630|AR|Chubut|61|f
+Los Colonizadores Airport|6.955|-71.858|CO|Arauca Department|61|f
+Los Menucos Airport|-40.818|-68.075|AR|Rio Negro|61|f
 Los Divorciados|19.077|-88.456|MX|Quintana Roo|61
 Los Benitos|20.685|-99.956|MX|Querétaro|61
 Los Indios|26.049|-97.745|US|Texas|61
@@ -272,24 +292,273 @@ Los Pocitos|20.538|-103.938|MX|Jalisco|60
 Los Desmontes|19.957|-100.740|MX|Guanajuato|60
 Los Remedios|21.185|-100.199|MX|Guanajuato|60
 Los Otates|21.703|-105.376|MX|Nayarit|60
+Los Ángeles de San Rafael|40.777|-4.215|ES|Castille and León|60
+Los Uveros|8.534|-80.394|PA|Coclé|60
+Los Lobos Segunda Sección|19.556|-100.115|MX|México|60
+Los Reyes (Las Chiveras)|17.640|-101.491|MX|Guerrero|60
+Los Urrutias|37.683|-0.831|ES|Murcia|60
+Los Boquerones|8.082|-80.853|PA|Veraguas Province|60
 Los Canelos|8.122|-80.705|PA|Herrera Province|60
+Los Pilares|20.005|-99.720|MX|México|60
 Los Reyes|18.671|-97.043|MX|Veracruz|60
+Los Manantiales (El Río Chiquito)|18.927|-99.439|MX|México|60
+Los Volcanes|20.325|-104.539|MX|Jalisco|60
+Los Ajos|21.193|-98.145|MX|Veracruz|60
+Los Álamos II|19.725|-99.138|MX|México|59
+Los Álvarez|20.552|-100.140|MX|Querétaro|59
+Los Arroyos|14.650|-88.883|HN|Copán Department|59
+Los Alamitos|22.260|-102.248|MX|Aguascalientes|59
+Los Reyes Teolco|18.739|-98.695|MX|Puebla|59
+Los Mangos|18.818|-96.763|MX|Veracruz|59
+Los Luceros|36.110|-106.047|US|New Mexico|59
+Los Ángeles|23.945|-104.130|MX|Durango|59
+Los Ángeles|16.269|-93.639|MX|Chiapas|59
+Lostock|53.579|-2.503|GB|England|59
+Los García|28.355|-105.428|MX|Chihuahua|59
+Los Llanos de Temalhuacán (Los Llanos)|17.866|-101.736|MX|Guerrero|59
+Los Moreno|22.254|-101.006|MX|San Luis Potosí|59
+Los Otates|21.150|-98.347|MX|Hidalgo|59
+Los Fresnos|17.236|-95.341|MX|Oaxaca|59
+Los Dolores|20.804|-102.531|MX|Jalisco|59
+Losogo|9.858|-7.985|CI|Denguélé District|59
+Los Sauces|19.754|-100.379|MX|Michoacán|59
+Lossa|51.222|11.410|DE|Saxony-Anhalt|59
+Los Cacaos|15.389|-92.656|MX|Chiapas|59
+Los Bancos|19.183|-102.207|MX|Michoacán|59
+Los Gómez|22.154|-100.882|MX|San Luis Potosí|58
+Los Ángeles|26.382|-98.989|MX|Tamaulipas|58
+Los Remedios|19.801|-100.195|MX|Michoacán|58
+Los Corchos|21.734|-105.473|MX|Nayarit|58
+Los Amoles|20.795|-101.628|MX|Guanajuato|58
+Los Campos|22.027|-101.844|MX|Jalisco|58
+Los Cedros Suchitepec|19.509|-100.035|MX|México|58
+Losson della Battaglia|45.633|12.482|IT|Veneto|58
+Los Razos de Ancón|20.676|-101.150|MX|Guanajuato|58
+Los Villarreales|26.049|-100.325|MX|Nuevo León|58
+Los Llamas|21.503|-103.090|MX|Zacatecas|58
+Los Hacheros|19.141|-101.569|MX|Michoacán|58
+Los Hoyos|17.684|-100.135|MX|Guerrero|58
+Los Angeles Maritime Museum|33.739|-118.279|US|California|58|f
+Los Brasiles Airport|12.191|-86.357|NI|Managua Department|58|f
+Los Buellis Hills|37.424|-121.799|US|California|58|f
+Los Jinetes|36.016|-120.080|US|California|58|f
+Los Negros Island|-2.061|147.378|PG|Manus Province|58|f
+Lossiemouth Airport|57.705|-3.339|GB|Scotland|58|f
+Lost Corner Mountain|39.014|-120.204|US|California|58|f
+Lost Creek State Recreation Site|44.546|-124.073|US|Oregon|58|f
+Lost Hills-Kern County Airport|35.625|-119.687|US|California|58|f
+Lost Mountain|34.377|-95.594|US|Oklahoma|58|f
+Los Haros|22.766|-102.963|MX|Zacatecas|58
+Los Quiotes (San José los Quiotes)|20.752|-100.051|MX|Querétaro|58
+Los Naranjos|21.169|-101.626|MX|Guanajuato|58
+Los Llanitos (El Ranchito)|20.378|-101.094|MX|Guanajuato|58
+Los Reyes|20.218|-101.420|MX|Michoacán|58
+Los Freseros (Los Sabinos)|20.423|-103.183|MX|Jalisco|58
+Los Magueyitos|17.068|-99.265|MX|Guerrero|58
+Los Volcanes|32.320|-117.006|MX|Baja California|58
+Los Magueyes|17.628|-99.172|MX|Guerrero|58
+Los Martínez|20.303|-101.390|MX|Guanajuato|58
+Los Laureles|19.423|-99.472|MX|México|58
+Los Mérida|18.380|-95.276|MX|Veracruz|58
+Los Santos|40.544|-5.798|ES|Castille and León|58
+Los Olmos|25.733|-100.140|MX|Nuevo León|58
+Lost City|35.988|-95.136|US|Oklahoma|58
+Los Morales|26.045|-100.319|MX|Nuevo León|58
+Los Ricardos|18.899|-97.432|MX|Puebla|58
+Los Remedios|20.539|-99.204|MX|Hidalgo|58
+Los Horcones|15.836|-96.577|MX|Oaxaca|57
+Los Griegos|22.449|-102.219|MX|Zacatecas|57
+Los Guerrero|20.442|-103.898|MX|Jalisco|57
+Los Fresnos|19.318|-102.420|MX|Michoacán|57
+Los Filtros|20.219|-99.089|MX|Hidalgo|57
+Los Galvanes|20.651|-100.711|MX|Guanajuato|57
+Los Tambos|17.324|-89.012|BZ|Cayo District|57
+Lost Nation|41.911|-89.367|US|Illinois|57
+Los Arrecifes|18.534|-94.856|MX|Veracruz|57
+Los Guajes|20.086|-104.025|MX|Jalisco|57
+Los Angeles|-5.937|-77.013|PE|San Martín Department|57
+Los Girasoles|32.471|-116.778|MX|Baja California|57
+Los Díaz|21.478|-101.184|MX|Guanajuato|57
+Los Sabinos Número Dos|22.100|-98.976|MX|San Luis Potosí|57
+Los Robles|20.602|-102.234|MX|Jalisco|57
+Lostallo|46.313|9.197|CH|Grisons|57
+Los Hatillos|7.935|-80.538|PA|Herrera Province|57
+Los Pastores (Pastores Segundo Barrio)|19.856|-99.982|MX|México|57
+Los Mangos|18.631|-96.368|MX|Veracruz|57
+Los Ramírez|21.971|-102.325|MX|Aguascalientes|57
+Los Amates|17.546|-99.193|MX|Guerrero|57
+Los Espinos|19.986|-103.738|MX|Jalisco|57
+Los Encinos|14.883|-92.238|MX|Chiapas|57
+Los Capomos|26.424|-108.517|MX|Sinaloa|57
+Los Ciriancitos|18.688|-102.003|MX|Michoacán|57
+Los Fresnos|18.946|-97.142|MX|Veracruz|57
+Los Herrera|25.162|-105.503|MX|Durango|56
+Los Medina|22.003|-105.357|MX|Nayarit|56
+Los Amiales|20.614|-103.231|MX|Jalisco|56
+Los Arenales|21.963|-102.322|MX|Aguascalientes|56
+Los Tumines|19.157|-101.722|MX|Michoacán|56
+Los Suárez|25.951|-109.192|MX|Sinaloa|56
+Los Manantiales|18.066|-94.109|MX|Veracruz|56
+Los Marías|18.721|-97.662|MX|Puebla|56
+Los Mártires Uno|27.349|-113.219|MX|Baja California Sur|56
+Los Naranjos 1ra. Sección (Campechito)|17.930|-93.365|MX|Tabasco|56
+Los Masos|42.633|2.450|FR|Occitanie|56
+Los Lobos|20.474|-101.200|MX|Guanajuato|56
+Los Luceros 2da. Sección|17.529|-92.423|MX|Chiapas|56
+Los Vázquez|21.975|-102.330|MX|Aguascalientes|56
+Los Berros|35.079|-120.543|US|California|56
+Los Limones|18.351|-100.632|MX|Guerrero|56
+Los López|20.933|-100.787|MX|Guanajuato|56
+Los Medanos|-16.489|-71.815|PE|Arequipa|56
+Losevo|61.081|28.981|RU|Leningradskaya Oblast'|56
+Los Cerritos|20.479|-102.773|MX|Jalisco|56
+Los Cuatillos|25.095|-103.771|MX|Durango|56
+Los Fresnos|20.414|-102.077|MX|Jalisco|56
+Los Corrales|20.316|-101.572|MX|Michoacán|56
+Los Ángeles|17.163|-97.801|MX|Oaxaca|56
+Los Otates|19.171|-101.827|MX|Michoacán|56
+Loscouët-sur-Meu|48.178|-2.241|FR|Brittany|56
+Los Hernández|20.691|-101.136|MX|Guanajuato|56
+Los Espinos|19.901|-101.776|MX|Michoacán|56
+Los Ranchos de San José|19.043|-99.665|MX|Morelos|56
+Lošonec|48.482|17.399|SK|Trnava Region|56
+Los Tanques|27.210|-108.895|MX|Sonora|56
+Los Planes (Cerro Gordo)|19.663|-96.927|MX|Veracruz|56
 Los Olivos|7.919|-80.488|PA|Los Santos Province|56
+Los Naranjos [Fraccionamiento]|17.786|-97.777|MX|Oaxaca|56
+Los Álamos de Cerro Prieto|28.189|-107.099|MX|Chihuahua|56
+Los Palillos|19.541|-102.537|MX|Michoacán|56
+Los Asmoles|19.120|-103.773|MX|Colima|56
+Los Ocotes|20.423|-104.851|MX|Jalisco|56
+Los Otates|21.991|-99.163|MX|San Luis Potosí|56
+Los Hornos|19.094|-102.427|MX|Michoacán|56
+Los Juárez|20.868|-99.653|MX|Querétaro|56
+Los Medina|24.011|-100.380|MX|Nuevo León|56
+Los Ranchos (Rinconada)|19.721|-98.195|MX|Puebla|55
+Los Corrales|18.426|-96.617|MX|Oaxaca|55
+Los Llanos|19.829|-101.974|MX|Michoacán|55
+Los Arcos|20.176|-98.448|MX|Hidalgo|55
+Los Ocotes|16.615|-96.720|MX|Oaxaca|55
+Los Santiagos|21.655|-102.960|MX|Zacatecas|55
+Los Ángeles|15.021|-92.211|MX|Chiapas|55
+Los Pinos|20.225|-97.933|MX|Puebla|55
+Los Naranjos 2da. Sección|17.876|-93.383|MX|Tabasco|55
+Los Barbechos|19.680|-99.485|MX|México|55
+Los Reyes de Ocampo|19.051|-97.839|MX|Puebla|55
+Los Cedros|19.284|-104.239|MX|Colima|55
+Los Alcatraces|32.423|-117.010|MX|Baja California|55
+Los Pozos|22.997|-102.490|MX|Zacatecas|55
+Los Limones|18.788|-98.843|MX|Morelos|55
+Los Lirios|25.393|-100.588|MX|Coahuila|55
+Los Ángeles|17.044|-92.751|MX|Chiapas|55
+Los Retes|22.250|-101.064|MX|San Luis Potosí|55
 Losine|45.983|10.316|IT|Lombardy|55
+Los Guayabos|20.401|-102.597|MX|Jalisco|55
+Losensteinleiten|48.116|14.357|AT|Upper Austria|55
+Los Reyes (Zorrillos)|18.982|-104.063|MX|Colima|55
+Los Frailes|18.103|-96.949|MX|Oaxaca|55
+Los Miranda (El Xoconoxtle de Abajo)|20.639|-101.138|MX|Guanajuato|55
+Los Ocotes|19.082|-99.930|MX|México|55
+Los Pozos|18.905|-102.200|MX|Michoacán|55
+Los Zarates|18.106|-96.513|MX|Oaxaca|55
+Los Hornos|19.358|-98.859|MX|México|55
+Los Rosales|19.271|-99.712|MX|México|55
+Los Ailes|19.645|-99.283|MX|México|55
+Los Aldamas|26.064|-99.197|MX|Nuevo León|55
+Los Linderos|21.223|-100.234|MX|Guanajuato|55
+Los Bálsamos|18.345|-95.906|MX|Veracruz|55
+Los Magueyes (Fraccionamiento el Sereno)|20.571|-103.438|MX|Jalisco|55
+Los Remedios|8.143|-81.024|PA|Veraguas Province|55
+Los Puentes|21.040|-98.312|MX|Hidalgo|55
+Los Voladores|19.681|-98.495|MX|Hidalgo|55
 Los Cerritos|7.800|-80.606|PA|Herrera Province|55
+Los Tejocotes|19.183|-99.399|MX|México|55
+Los Amates|15.346|-92.693|MX|Chiapas|54
+Los González|20.937|-99.969|MX|Querétaro|54
+Los Coyotes|18.116|-102.282|MX|Michoacán|54
+Los Reyes|19.758|-100.258|MX|Michoacán|54
+Los Arrayanes National Park|-40.830|-71.626|AR|Neuquen|54|f
+Los Banos Municipal Airport|37.060|-120.869|US|California|54|f
+Los Chiles Airport|11.035|-84.706|CR|Alajuela Province|54|f
+Los Encinos State Historic Park|34.161|-118.500|US|California|54|f
+Los Nogales Museum|29.567|-97.964|US|Texas|54|f
+Los Perales Airport|-0.606|-80.404|EC|Manabí|54|f
+Loshitsa / Minsk International 1|53.864|27.540|BY|Minsk City|54|f
+Losna|61.133|5.066|NO|Vestland|54|f
+Lost Coon Lake|48.396|-114.360|US|Montana|54|f
+Lost Creek Lake|42.686|-122.643|US|Oregon|54|f
+Los Pájaros|17.909|-92.078|MX|Tabasco|54
+Los Colonos|19.943|-103.774|MX|Jalisco|54
+Los Martínez|21.266|-101.400|MX|Guanajuato|54
+Los Adobes|24.954|-100.526|MX|Nuevo León|54
+Los Chiricanos|8.978|-82.214|PA|Bocas del Toro Province|54
+Los Duraznos|21.072|-99.135|MX|Hidalgo|54
 Los Castillos|8.025|-81.117|PA|Veraguas Province|54
+Los Arredondo (Los Arredondo de San Pedro)|24.784|-107.591|MX|Sinaloa|54
 Los Pozos|7.788|-80.646|PA|Herrera Province|54
+Los Hules|14.850|-92.191|MX|Chiapas|54
 Losa del Obispo|39.700|-0.867|ES|Valencia|54
 Los Naranjos|8.794|-82.446|PA|Chiriquí Province|53
 Los Asientos|7.518|-80.133|PA|Los Santos Province|53
+Lösnich|49.975|7.043|DE|Rheinland-Pfalz|53
 Los Castillos|7.987|-80.619|PA|Herrera Province|52
 Los Ángeles|7.885|-80.355|PA|Los Santos Province|51
 Losacino|41.681|-6.080|ES|Castille and León|49
+Los Cerrillos|-28.171|-67.198|AR|Catamarca|49|f
+Los Picos de Montejurra|42.627|-2.057|ES|Navarre|49|f
+Los Pinos Peak|33.664|-117.472|US|California|49|f
+Los Quetzales National Park|9.536|-83.890|CR|San José|49|f
+Los Tres Picachos|18.215|-66.541|PR|Jayuya|49|f
+Los Tuxtlas Biosphere Reserve|18.475|-95.003|MX|Veracruz|49|f
+Los Viejos|35.951|-119.951|US|California|49|f
+Losees Hill|41.669|-74.372|US|New York|49|f
+Loser|47.650|13.767|AT|Styria|49|f
+Losna|61.377|10.256|NO|Innlandet|49|f
+Lost Bridge|47.596|-102.762|US|North Dakota|49|f
+Lost Peak|47.813|-123.336|US|Washington|49|f
+Lost Peak|48.813|-120.458|US|Washington|49|f
+Lost Soul Mountain|48.582|-115.432|US|Montana|49|f
+Lostener See|53.800|11.483|DE|Mecklenburg-Vorpommern|49|f
+Lostock Dam|-32.315|151.451|AU|New South Wales|49|f
 Los Ángeles|8.526|-82.203|PA|Chiriquí Province|48
 Loscos|41.081|-1.044|ES|Aragon|45
 Los Llanitos|8.599|-80.093|PA|Panamá Oeste Province|43
 Los Higos|8.206|-80.860|PA|Veraguas Province|42
 Loscorrales|42.255|-0.643|ES|Aragon|41
+Los Angeles Municipal Art Gallery|34.100|-118.294|US|California|40|f
+Los Angeles Museum of the Holocaust|34.075|-118.356|US|California|40|f
+Los Angeles State Historic Park|34.066|-118.234|US|California|40|f
+Los Gatos Creek Park|37.270|-121.950|US|California|40|f
+Los Millares|36.966|-2.518|ES|Andalusia|40|f
+Los Penasquitos Canyon Preserve|32.938|-117.176|US|California|40|f
+Los Penasquitos Lagoon|32.929|-117.253|US|California|40|f
+Los Remedios|37.375|-6.000|ES|Andalusia|40|f
+Los Vaqueros Reservoir|37.818|-121.736|US|California|40|f
+Lost City Museum|36.543|-114.447|US|Nevada|40|f
+Lost Creek Airport|44.660|-84.236|US|Michigan|40|f
+Lost Creek Airport|43.898|-122.817|US|Oregon|40|f
+Lost Creek Dam|41.184|-111.398|US|Utah|40|f
+Lost Creek Glacier|44.107|-121.784|US|Oregon|40|f
+Lost Creek Hills|41.173|-119.719|US|Nevada|40|f
+Lost Creek State Park|46.211|-113.005|US|Montana|40|f
+Lost Island|29.948|-92.972|US|Louisiana|40|f
+Lost Island Lake|43.171|-94.906|US|Iowa|40|f
+Lost Lagoon|49.296|-123.140|CA|British Columbia|40|f
+Lost Lake|45.326|-61.968|CA|Nova Scotia|40|f
+Lost Lake|50.128|-122.937|CA|British Columbia|40|f
+Lost Lake|43.915|-85.036|US|Michigan|40|f
+Lost Lake|45.031|-93.416|US|Minnesota|40|f
+Lost Lake|43.681|-97.059|US|South Dakota|40|f
+Lost Lake|38.860|-120.097|US|California|40|f
+Lost Lake|44.904|-118.226|US|Oregon|40|f
+Lost Lake|45.489|-121.822|US|Oregon|40|f
+Lost Lake|44.432|-121.906|US|Oregon|40|f
+Lost Lake National Wildlife Refuge|47.251|-100.889|US|North Dakota|40|f
+Lost Man Lake|39.153|-106.569|US|Colorado|40|f
+Lost Maples State Natural Area|29.820|-99.583|US|Texas|40|f
+Lost River State Park|38.923|-78.889|US|West Virginia|40|f
+Lost Trail National Wildlife Refuge|48.179|-114.893|US|Montana|40|f
+Lostwood National Wildlife Refuge|48.605|-102.453|US|North Dakota|40|f
 Los Cerros de Paja|7.721|-80.671|PA|Herrera Province|36
 Los Andes|0.498|-77.938|EC|Carchi|0
 Los Baños del Inca|-7.164|-78.465|PE|Cajamarca Department|0
@@ -304,3 +573,5 @@ Los Santos|6.753|-73.105|CO|Santander Department|0
 Los Valles|8.446|-81.197|PA|Veraguas Province|0
 Losacio|41.711|-6.041|ES|Castille and León|0
 Losap|6.894|152.740|FM|Chuuk|0
+Losari|-7.558|109.155|ID|Central Java|0
+Losari|-7.292|107.805|ID|West Java|0

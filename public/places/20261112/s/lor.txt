@@ -1,6 +1,6 @@
 Lorestan Province|33.500|48.500|IR||121|r
 Loreto|-4.000|-74.500|PE||116|r
-Lori|41.000|44.500|AM||106|r
+Lori|41.000|44.500|AM||107|r
 Lorca|37.671|-1.702|ES|Murcia|99
 Lorena|-22.731|-45.125|BR|São Paulo|99
 Lorain|41.453|-82.182|US|Ohio|96
@@ -14,6 +14,7 @@ Lormont|44.877|-0.519|FR|New Aquitaine|87
 Lordelo do Ouro|41.151|-8.648|PT|Porto|87
 Lora del Río|37.659|-5.528|ES|Andalusia|86
 Lorton|38.704|-77.228|US|Virginia|85
+Lorient South Brittany Airport|47.761|-3.440|FR|Brittany|85|f
 Lormi|22.274|81.702|IN|Chhattisgarh|84
 Loreto|26.012|-111.349|MX|Baja California Sur|83
 Lorsch|49.650|8.567|DE|Hesse|82
@@ -21,6 +22,7 @@ Loreto|-7.084|-45.141|BR|Maranhão|82
 Lorch|48.798|9.691|DE|Baden-Wurttemberg|81
 Lordelo|41.235|-8.403|PT|Porto|80
 Lorraine|45.683|-73.782|CA|Quebec|80
+Loreto International Airport|25.989|-111.348|MX|Baja California Sur|79|f
 Lorgues|43.493|6.362|FR|Provence-Alpes-Côte d'Azur|78
 Loreto|43.436|13.612|IT|The Marches|77
 Lorquí|38.083|-1.251|ES|Murcia|76
@@ -29,11 +31,13 @@ Lorengau|-2.034|147.272|PG|Manus Province|75
 Loriol-sur-Drôme|44.747|4.817|FR|Auvergne-Rhône-Alpes|75
 Loreto|8.187|125.853|PH|Caraga|75
 Loreto|10.364|125.573|PH|Caraga|75
+Loro Park|28.408|-16.564|ES|Canary Islands|74|f
 Lord’s Bank|17.545|-88.333|BZ|Belize District|74
 Lordelo|41.374|-8.380|PT|Braga|73
 Lorane|40.288|-75.855|US|Pennsylvania|73
 Loria Bessica|45.730|11.865|IT|Veneto|72
 Lorvão|40.259|-8.317|PT|Coimbra|72
+Lord Howe Island|-31.553|159.086|AU|New South Wales|72|f
 Loreggia|45.597|11.948|IT|Veneto|72
 Loreto Aprutino|42.431|13.981|IT|Abruzzo|72
 Lordstown|41.166|-80.858|US|Ohio|70
@@ -69,13 +73,50 @@ Lorne|-38.540|143.976|AU|Victoria|62
 Loriguilla|39.490|-0.571|ES|Valencia|61
 Lorenzo|33.671|-101.535|US|Texas|61
 Loriga|40.325|-7.690|PT|Guarda|60
+Loretito (Charco del Toro)|22.002|-102.243|MX|Aguascalientes|60
+Lørenfallet|60.020|11.230|NO|Akershus|59
+Loreauville|30.057|-91.737|US|Louisiana|59
 Lora de Estepa|37.269|-4.828|ES|Andalusia|58
 Loranzè|45.443|7.813|IT|Piedmont|58
+Lorain County Regional Airport|41.341|-82.176|US|Ohio|58|f
+Lord Howe Island Airport|-31.540|159.078|AU|New South Wales|58|f
+Lorneville|45.183|-66.156|CA|New Brunswick|58
+Lorenzo Vázquez (Santa Cruz)|18.574|-99.073|MX|Morelos|58
 Lorentzweiler|49.701|6.142|LU|Mersch|58
+Lorain|40.299|-78.892|US|Pennsylvania|57
+Loretto|37.635|-85.401|US|Kentucky|57
 Loranca de Tajuña|40.444|-3.111|ES|Castille-La Mancha|57
+Loretto|45.055|-93.636|US|Minnesota|56
+Lorscheid|49.733|6.850|DE|Rheinland-Pfalz|56
+Loraine|32.411|-100.712|US|Texas|56
+Lorne|47.874|-66.127|CA|New Brunswick|56
+Lormaye|48.649|1.534|FR|Centre-Val de Loire|55
+Lorău|46.917|22.631|RO|Bihor County|55
 Lorenzago di Cadore|46.480|12.460|IT|Veneto|55
+Lorentzen Peak|-71.750|-2.833|AQ||54|f
+Lori|25.917|63.410|PK|Balochistan|54|f
+Loring International Airport|46.951|-67.891|US|Maine|54|f
+Lorn Rocks|-65.512|-64.925|AQ||54|f
+Lorut|40.937|44.771|AM|Lori|54
+Lorcy|48.054|2.532|FR|Centre-Val de Loire|54
+Lorry|48.989|6.086|FR|Grand Est|54
 Loretto|47.916|16.518|AT|Burgenland|54
 Lorenzana|43.535|10.535|IT|Tuscany|50
 Lorüns|47.133|9.850|AT|Vorarlberg|49
+Lord's Cricket Ground|51.529|-0.173|GB|England|49|f
+Loreakopf|47.350|10.767|AT|Tyrol|49|f
+Lorraine Island|-33.949|122.565|AU|Western Australia|49|f
+Loryma|36.580|28.006|TR|Muğla|49|f
 Lorsica|44.434|9.277|IT|Liguria|44
 Loreglia|45.907|8.371|IT|Piedmont|42
+Lord Glacier|-75.200|-138.683|AQ||40|f
+Lord Mayor Bay|69.734|-92.033|CA|Nunavut|40|f
+Lord Selkirk Provincial Park|46.100|-62.915|CA|Prince Edward Island|40|f
+Lords Lake|45.387|-98.583|US|South Dakota|40|f
+Lords Lake National Wildlife Refuge|48.779|-100.195|US|North Dakota|40|f
+Lorenzhorn|46.527|9.128|CH|Grisons|40|f
+Lorimer Park|40.095|-75.074|US|Pennsylvania|40|f
+Loring Park|44.970|-93.285|US|Minnesota|40|f
+Loriyan Tangai|34.534|71.871|PK|Khyber Pakhtunkhwa|40|f
+Lory Lake|45.721|-93.358|US|Minnesota|40|f
+Lorejo|-8.234|112.119|ID|East Java|0

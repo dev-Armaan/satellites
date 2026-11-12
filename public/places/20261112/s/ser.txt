@@ -41,9 +41,9 @@ Seriate|45.685|9.725|IT|Lombardy|87
 Sergach|55.528|45.457|RU|Nizhny Novgorod Oblast|87
 Serro|-18.605|-43.379|BR|Minas Gerais|87
 Serchhīp|23.293|92.847|IN|Mizoram|87
+Sermersooq|64.183|-51.718|GL||86|r
 Serrita|-7.933|-39.296|BR|Pernambuco|85
 Serasa|5.018|115.058|BN|Brunei-Muara District|85
-Sermersooq|64.183|-51.718|GL||85|r
 Serra Preta|-12.160|-39.332|BR|Bahia|85
 Serinhisar|37.581|29.266|TR|Denizli|85
 Serra Dourada|-12.761|-43.950|BR|Bahia|85
@@ -79,11 +79,13 @@ Serranópolis|-18.306|-51.962|BR|Goiás|78
 Serzedo|41.405|-8.229|PT|Braga|78
 Serzedo|41.051|-8.616|PT|Porto|78
 Serra Riccò|44.511|8.938|IT|Liguria|78
+Sera Monastery|29.697|91.133|CN|Tibet|78|f
 Serrania|-21.548|-46.040|BR|Minas Gerais|78
 Serra Negra do Norte|-6.666|-37.397|BR|Rio Grande do Norte|78
 Sericita|-20.474|-42.482|BR|Minas Gerais|77
 Seredyna-Buda|52.189|34.036|UA|Sumy|77
 Serino|40.855|14.872|IT|Campania|77
+Sergels torg|59.332|18.064|SE|Stockholm|77|f
 Serra dos Aimorés|-17.782|-40.248|BR|Minas Gerais|77
 Sérignan|43.279|3.277|FR|Occitanie|77
 Serra Redonda|-7.178|-35.675|BR|Paraíba|77
@@ -93,6 +95,9 @@ Serrinha|-6.276|-35.499|BR|Rio Grande do Norte|76
 Serra San Bruno|38.575|16.326|IT|Calabria|76
 Sérigbangan|5.528|-6.713|CI|Bas-Sassandra District|75
 Sertão Santana|-30.460|-51.603|BR|Rio Grande do Sul|75
+Serengeti National Park|-2.333|34.833|TZ||75|f
+Serle Island|-18.312|-137.022|PF|Tuamotu-Gambier Islands|75|f
+Serra da Estrela|40.298|-7.625|PT|Guarda|75|f
 Serra de São Bento|-6.417|-35.704|BR|Rio Grande do Norte|75
 Serravalle Scrivia|44.723|8.856|IT|Piedmont|75
 Sernancelhe|40.899|-7.493|PT|Viseu|75
@@ -121,6 +126,7 @@ Serranópolis de Minas|-15.811|-42.871|BR|Minas Gerais|73
 Serednye|48.540|22.504|UA|Zakarpattia|73
 Serebryanyy Bor|56.671|124.838|RU|Sakha|73
 Serabu|7.793|-12.053|SL|Southern Province|73
+Serranía de La Macuira|12.134|-71.342|CO|La Guajira Department|72|f
 Seroa|41.265|-8.429|PT|Porto|72
 Serémange-Erzange|49.321|6.091|FR|Grand Est|72
 Serock|52.510|21.069|PL|Mazovia|72
@@ -144,6 +150,7 @@ Serra Alta|-26.729|-53.042|BR|Santa Catarina|70
 Serres-Castet|43.386|-0.355|FR|New Aquitaine|70
 Serramazzoni|44.427|10.791|IT|Emilia-Romagna|70
 Séraoudi|8.077|-2.947|CI|Zanzan District|70
+Serranía de Los Motilones|9.803|-72.953|VE||70|f
 Şerbăneşti|44.333|24.700|RO|Olt|70
 Serra da Raiz|-6.687|-35.444|BR|Paraíba|70
 Şercaia|45.833|25.133|RO|Brașov County|70
@@ -163,6 +170,12 @@ Séria|6.779|-6.392|CI|Sassandra-Marahoue|68
 Sérignan-du-Comtat|44.189|4.844|FR|Provence-Alpes-Côte d'Azur|68
 Serra|39.683|-0.433|ES|Valencia|67
 Serrezuela|-30.640|-65.387|AR|Cordoba|67
+Seram Island|-3.133|129.500|ID|Maluku|67|f
+Serikawa-damu|33.140|131.440|JP|Oita|67|f
+Serra dos Ancares|42.801|-6.870|ES|Galicia|67|f
+Serranía de Perijá|10.000|-73.000|CO||67|f
+Serranía de Sapaleri|-22.917|-67.083|CL||67|f
+Serranía del Darién|8.682|-77.622|CO||67|f
 Sergio Butrón Casas|18.514|-88.569|MX|Quintana Roo|67
 Serquigny|49.109|0.710|FR|Normandy|67
 Sermaize-les-Bains|48.785|4.912|FR|Grand Est|67
@@ -182,6 +195,8 @@ Serby|48.101|29.065|UA|Odesa|66
 Serby|51.685|16.112|PL|Lower Silesia|66
 Serra Nova Dourada|-12.091|-51.400|BR|Mato Grosso|66
 Seròs|41.467|0.417|ES|Catalonia|65
+Serra Choa|-18.017|33.183|MZ||65|f
+Serra do Pico de Antónia|15.050|-23.641|CV||65|f
 Serāj Kolā|36.483|52.813|IR|Māzandarān|65
 Seritinga|-21.909|-44.519|BR|Minas Gerais|65
 Serradilla|39.829|-6.140|ES|Extremadura|65
@@ -204,6 +219,12 @@ Serbychany|48.497|27.291|UA|Chernivtsi|64
 Serinchamps|50.231|5.230|BE|Wallonia|64
 Serre-les-Sapins|47.250|5.933|FR|Bourgogne-Franche-Comté|64
 Serre di Rapolano|43.257|11.617|IT|Tuscany|63
+Serpentine National Park|-32.374|116.013|AU|Western Australia|63|f
+Serra de Amambai|-23.167|-55.500|PY||63|f
+Serra Môco|-12.465|15.167|AO|Huambo|63|f
+Serranía de La Macarena|2.479|-73.890|CO|Meta Department|63|f
+Serranía de las Minas|2.101|-76.030|CO|Huila Department|63|f
+Serranías de Chayanta|-18.250|-66.300|BO|Potosí Department|63|f
 Serdanu|44.627|25.631|RO|Dâmbovița County|63
 Servigliano|43.080|13.493|IT|The Marches|63
 Serhiivka|46.001|29.958|UA|Odesa|63
@@ -229,6 +250,13 @@ Serrières-de-Briord|45.807|5.448|FR|Auvergne-Rhône-Alpes|61
 Serfaus|47.040|10.603|AT|Tyrol|61
 Serrada|41.457|-4.863|ES|Castille and León|61
 Sergines|48.342|3.262|FR|Bourgogne-Franche-Comté|61
+Sermilik|65.983|-37.867|GL|Sermersooq|61|f
+Seronera Airport|-2.458|34.822|TZ|Mara|61|f
+Serra do Gerês|41.759|-8.119|PT|Braga|61|f
+Serra do Sincorá|-13.254|-41.289|BR|Bahia|61|f
+Serra Hills|-2.979|141.789|PG|Sandaun Province|61|f
+Serranía de Majé|8.915|-78.647|PA|Panamá|61|f
+Serranía de Perijá|9.020|-73.333|CO|Norte de Santander Department|61|f
 Serebrianka|48.920|38.135|UA|Donetsk|61
 Șerbănești|47.810|26.319|RO|Suceava|61
 Serhiyi|47.988|25.155|UA|Chernivtsi|61
@@ -240,13 +268,106 @@ Serokomla|51.701|22.332|PL|Lublin|61
 Serhatta|37.663|42.141|TR|Siirt|60
 Serqueux|49.632|1.540|FR|Normandy|60
 Sérigné|46.501|-0.845|FR|Pays de la Loire|60
+Sérémé|6.573|-5.208|CI|Lacs District|60
+Servance|47.814|6.683|FR|Bourgogne-Franche-Comté|60
 Serra Pedace|39.279|16.346|IT|Calabria|60
+Serafín Olarte|20.374|-97.334|MX|Veracruz|60
+Șerbești|46.878|27.849|RO|Iași County|60
+Șerbănești|44.588|24.244|RO|Vâlcea County|59
+Serrières-en-Chautagne|45.882|5.843|FR|Auvergne-Rhône-Alpes|59
 Serrata|38.513|16.101|IT|Calabria|59
+Ser|47.378|22.963|RO|Satu Mare County|59
+Sérignac-sur-Garonne|44.214|0.485|FR|New Aquitaine|59
+Servoz|45.932|6.762|FR|Auvergne-Rhône-Alpes|59
+Servins|50.410|2.634|FR|Hauts-de-France|59
+Sermamagny|47.691|6.837|FR|Bourgogne-Franche-Comté|59
 Serrastretta|39.013|16.416|IT|Calabria|58
 Serebryanka|45.639|33.496|UA|Crimea|58
+Serra da Saudade|-19.438|-45.796|BR|Minas Gerais|58
+Șerbeștii Vechi|45.421|27.878|RO|Galați County|58
+Serles|47.124|11.381|AT|Tyrol|58|f
+Sermersooq|60.250|-45.250|GL|Kujalleq|58|f
+Serra Chiperone|-16.478|35.714|MZ|Zambezia Province|58|f
+Serra de l'Albera|42.467|2.933|ES||58|f
+Serra Imeri|0.900|-65.448|BR||58|f
+Serra Mabu|-16.282|36.382|MZ|Zambezia Province|58|f
+Serra Namúli|-15.374|37.041|MZ|Zambezia Province|58|f
+Serra Talhada/Santa Magalhaes Airport|-8.063|-38.325|BR|Pernambuco|58|f
+Serra Tchilono|-12.555|15.304|AO|Huambo|58|f
+Serranía de San Jacinto|9.667|-75.333|CO|Sucre Department|58|f
+Serratus Mountain|49.793|-123.302|CA|British Columbia|58|f
+Seruyan Kuala Pembuang Airport|-3.376|112.537|ID|Central Kalimantan|58|f
+Sermersheim|48.346|7.553|FR|Grand Est|58
+Servaville-Salmonville|49.476|1.270|FR|Normandy|58
+Serba|50.950|11.817|DE|Thuringia|58
+Seridyakaha|9.556|-5.577|CI|Savanes District|58
+Șerbotești|46.809|27.778|RO|Vaslui County|58
+Șerani|47.038|22.681|RO|Bihor County|58
+Serhiivka|46.302|34.167|UA|Kherson|57
+Serres-sur-Arget|42.969|1.519|FR|Occitanie|57
+Șercăița|45.746|25.122|RO|Brașov County|57
+Servières-le-Château|45.130|2.025|FR|New Aquitaine|57
+Șerbănești|45.274|24.366|RO|Vâlcea County|57
+Șerbăneștii de Sus|44.337|24.683|RO|Olt|57
+Seraucourt-le-Grand|49.783|3.217|FR|Hauts-de-France|57
+Serra|43.803|11.031|IT|Tuscany|57
+Șerghiș|46.980|22.240|RO|Bihor County|57
+Sers|45.598|0.323|FR|New Aquitaine|57
+Sérébou|7.941|-3.943|CI|Lacs District|57
+Serra do Bouro|39.455|-9.178|PT|Leiria|57
+Serhiivka|47.468|32.943|UA|Mykolaiv|57
+Serbannes|46.099|3.359|FR|Auvergne-Rhône-Alpes|57
+Serhiyivka|47.933|31.507|UA|Mykolaiv|57
+Serkenrode|51.212|8.076|DE|North Rhine-Westphalia|57
+Serres-Morlaàs|43.326|-0.258|FR|New Aquitaine|57
 Serri|39.702|9.145|IT|Sardinia|57
+Seregnano|46.091|11.198|IT|Trentino-Alto Adige|57
+Sérézin-de-la-Tour|45.556|5.348|FR|Auvergne-Rhône-Alpes|56
 Serrone|41.842|13.095|IT|Lazio|56
+Serçin|37.546|27.392|TR|Aydın|56
+Servotá|39.505|21.907|GR|Thessaly|56
+Séry-lès-Mézières|49.774|3.422|FR|Hauts-de-France|56
+Șerbești|45.923|26.971|RO|Vrancea|56
+Șerel|45.484|23.052|RO|Hunedoara County|56
+Sermoyer|46.500|4.979|FR|Auvergne-Rhône-Alpes|55
+Serra Miceli|39.306|16.201|IT|Calabria|55
+Serves-sur-Rhône|45.135|4.817|FR|Auvergne-Rhône-Alpes|55
+Serra|40.604|15.692|IT|Basilicate|55
+Serravalle|45.810|11.015|IT|Trentino-Alto Adige|55
+Sermiers|49.158|3.985|FR|Grand Est|55
 Serravalle a Po|45.066|11.082|IT|Lombardy|55
+Serintepe|37.260|37.202|TR|Gaziantep|55
+Seredniaky|50.357|33.653|UA|Poltava|55
+Servant|46.139|2.929|FR|Auvergne-Rhône-Alpes|55
+Serraval|45.801|6.340|FR|Auvergne-Rhône-Alpes|55
+Serviès|43.660|2.027|FR|Occitanie|55
+Şerefli|37.501|40.092|TR|Mardin|55
+Serenilla de Abajo|18.569|-96.394|MX|Veracruz|55
+Serrouville|49.399|5.888|FR|Grand Est|55
+Serdica|46.819|16.030|SI|Municipality of Rogašovci|55
+Sérignac|43.923|1.021|FR|Occitanie|54
+Seretse Khama International Airport|-24.555|25.918|BW|Kweneng|54|f
+Sergeant Floyd Monument|42.463|-96.378|US|Iowa|54|f
+Sergief Island|56.590|-132.426|US|Alaska|54|f
+Serpent Lake|46.480|-93.924|US|Minnesota|54|f
+Serpent Mound|39.024|-83.431|US|Ohio|54|f
+Serpentine Dam|-32.405|116.099|AU|Western Australia|54|f
+Serpentine Pipehead Dam|-32.373|116.059|AU|Western Australia|54|f
+Serra da Capivara Airport|-9.081|-42.643|BR|Piauí|54|f
+Serra da Gorongosa|-18.401|34.072|MZ|Sofala|54|f
+Serra de les Gabarres|41.883|3.000|ES|Catalonia|54|f
+Serra de Santa Bárbara|38.733|-27.317|PT|Azores|54|f
+Serra del Cadí|42.283|1.700|ES||54|f
+Serra do Araca State Park|1.509|-63.361|BR|Amazonas|54|f
+Serra do Morião|38.683|-27.200|PT|Azores|54|f
+Serra Parima|3.500|-64.250|VE||54|f
+Serra Tumbine|-16.081|35.809|MZ|Zambezia Province|54|f
+Serranía de Baudó|6.000|-77.083|CO|Chocó|54|f
+Serranía de Hornocal|-23.260|-65.123|AR|Jujuy|54|f
+Serranía del Empalado|10.450|-70.783|VE||54|f
+Sermentizon|45.762|3.501|FR|Auvergne-Rhône-Alpes|54
+Serrano|19.277|-101.507|MX|Michoacán|54
+Serdar|41.617|32.437|TR|Bartın|54
 Serrejón|39.817|-5.803|ES|Extremadura|54
 Serravalle di Chienti|43.072|12.952|IT|The Marches|53
 Sernio|46.224|10.205|IT|Lombardy|53
@@ -257,6 +378,22 @@ Serniki|51.437|22.659|PL|Lublin|52
 Serramonacesca|42.248|14.093|IT|Abruzzo|51
 Sérifos|37.154|24.506|GR|South Aegean|51
 Serranillos|40.336|-4.912|ES|Castille and León|51
+Serba Peak|-69.617|159.050|AQ||49|f
+Serdan|18.466|-97.405|MX|Puebla|49|f
+Sermitsiaq|63.367|-50.267|GL|Sermersooq|49|f
+Serpan Peak|-83.566|-54.833|AQ||49|f
+Serpentine Dam|-42.933|146.133|AU|Tasmania|49|f
+Serpentine Lakes|-28.839|129.143|AU|South Australia|49|f
+Serra Cavallera|42.283|2.250|ES|Catalonia|49|f
+Serra da Malagueta|15.182|-23.672|CV|São Miguel|49|f
+Serra da Marofa|40.862|-7.032|PT|Guarda|49|f
+Serra de Monchique|37.311|-8.595|PT|Faro|49|f
+Serra de Montejunto|39.173|-9.049|PT|Lisbon|49|f
+Serra de Sintra|38.792|-9.417|PT|Lisbon|49|f
+Serra del Port del Comte|42.183|1.500|ES|Catalonia|49|f
+Serra do Bussaco|40.337|-8.337|PT|Coimbra|49|f
+Serra do Mar|-22.409|-42.244|BR|Rio de Janeiro|49|f
+Serra Inago|-15.045|37.384|MZ|Nampula|49|f
 Serra di Maiolo|43.873|12.311|IT|Emilia-Romagna|49
 Serravalle Pistoiese|43.906|10.833|IT|Tuscany|48
 Servo|46.058|11.787|IT|Veneto|47
@@ -268,24 +405,51 @@ Serrungarina|43.747|12.875|IT|The Marches|45
 Serralunga d'Alba|44.610|7.999|IT|Piedmont|44
 Serravalle Langhe|44.560|8.059|IT|Piedmont|44
 Serralunga di Crea|45.101|8.281|IT|Piedmont|41
+Serdica Peak|-62.682|-60.065|AQ||40|f
+Serengeti-Park|52.746|9.617|DE|Lower Saxony|40|f
+Sermilik Glacier|72.912|-78.195|CA|Nunavut|40|f
+Serpent Column|41.006|28.975|TR|Istanbul|40|f
+Serpent Mounds Provincial Park|44.200|-78.158|CA|Ontario|40|f
+Serra da Cutia National Park|-11.657|-64.430|BR|Rondônia|40|f
+Serra da Estrela - Torre|40.322|-7.613|PT|Guarda|40|f
+Serra de São Mamede|39.314|-7.361|PT|Portalegre|40|f
+Serra de São Mamede Natural Park|39.303|-7.408|PT|Portalegre|40|f
+Serra de Tramuntana|39.584|2.500|ES|Balearic Islands|40|f
+Serra do Alvão|41.362|-7.764|PT|Vila Real|40|f
+Serra do Pardo National Park|-5.480|-52.989|BR|Pará|40|f
+Serranilla Bank|15.849|-79.860|UM||40|f
+Serrat Glacier|-70.400|161.067|AQ||40|f
 Serone|46.156|9.582|IT|Lombardy|37
 Serole|44.554|8.260|IT|Piedmont|24
 Serre|44.540|7.090|IT|Piedmont|21
+Serah|-6.949|112.444|ID|East Java|0
+Serang|-8.308|112.240|ID|East Java|0
 Serasan|2.511|109.031|ID|Riau Islands|0
 Serawai|4.354|98.187|ID|Aceh|0
+Seraya|-8.430|115.658|ID|Bali|0
 Serdivan|40.774|30.380|TR|Sakarya|0
+Sere|-8.816|120.668|ID|East Nusa Tenggara|0
 Serebryansk|49.684|83.297|KZ|East Kazakhstan|0
+Seredang|-6.804|106.265|ID|Banten|0
 Şerefiye|40.112|37.756|TR|Sivas|0
 Serekhovychi|51.409|24.672|UA|Volyn|0
+Seren|-7.157|111.538|ID|Central Java|0
+Seren Barat|-6.759|111.331|ID|Central Java|0
 Serere|1.494|33.455|UG|Eastern Region|0
 Sergelen|48.567|114.083|MN|East Aimak|0
 Sergelen|46.200|111.817|MN|Sühbaatar|0
 Sergen|41.705|27.708|TR|Kırklareli|0
 Sergiyevsk|53.943|51.169|RU|Samara Oblast|0
+Serh|36.949|98.375|CN|Qinghai|0
+Serikbuya|39.302|77.818|CN|Xinjiang|0
 Seringueiras|-11.770|-63.037|BR|Rondônia|0
 Serkos|-2.125|132.167|ID|Southwest Papua|0
 Serra de Canda|-6.299|14.788|AO|Zaire|0
 Serrato|36.885|-4.981|ES|Andalusia|0
 Serti|7.506|11.363|NG|Taraba State|0
+Serusa|2.219|100.819|ID|Riau|0
+Serut|-8.143|112.193|ID|East Java|0
+Serut|-8.152|113.638|ID|East Java|0
+Serut|-8.081|111.910|ID|East Java|0
 Servi|38.570|40.320|TR|Bingöl|0
 Servion|46.571|6.778|CH|Vaud|0

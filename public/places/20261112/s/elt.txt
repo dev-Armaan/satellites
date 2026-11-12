@@ -13,8 +13,10 @@ El Tambo|1.408|-77.392|CO|Nariño|82
 El Tejar|19.075|-96.161|MX|Veracruz|81
 El Trébol|-32.199|-61.702|AR|Santa Fe|81
 Eltingville|40.545|-74.166|US|New York|80
+El Trompillo Airport|-17.812|-63.171|BO|Santa Cruz Department|80|f
 El Tránsito|13.350|-88.350|SV|San Miguel Department|80
 El Tabo|-33.455|-71.667|CL|Valparaiso|79
+Eltz Castle|50.205|7.337|DE|Rheinland-Pfalz|79|f
 El Tumbador|14.864|-91.934|GT|San Marcos|79
 El Triunfo|13.117|-87.000|HN|Choluteca Department|77
 El Triunfo ( El Cruce)|-16.493|-71.853|PE|Arequipa|76
@@ -22,6 +24,7 @@ El Tambo|2.452|-76.810|CO|Cauca Department|76
 El Triunfo|17.923|-91.171|MX|Tabasco|75
 Eltmann|49.971|10.667|DE|Bavaria|75
 El Triunfo|16.202|-91.859|MX|Chiapas|75
+El Tajín|20.448|-97.378|MX|Veracruz|73|f
 El Tiemblo|40.415|-4.502|ES|Castille and León|72
 El’ton|49.127|46.847|RU|Volgograd Oblast|71
 El Ticui|17.216|-100.445|MX|Guerrero|71
@@ -31,18 +34,22 @@ El Tuito|20.320|-105.324|MX|Jalisco|70
 El Trapiche|19.278|-103.662|MX|Colima|69
 El Triunfo|15.350|-92.546|MX|Chiapas|69
 El Tejocote|20.619|-100.035|MX|Querétaro|69
+El Tigre San Tomé Airport|8.945|-64.151|VE|Anzoátegui|69|f
 El Tephé|20.449|-99.175|MX|Hidalgo|69
 El Terrero|29.181|-107.387|MX|Chihuahua|68
 El Tecuán|21.682|-102.022|MX|Jalisco|68
 El Tablón|1.427|-77.097|CO|Nariño|68
 El Toro|39.485|2.482|ES|Balearic Islands|67
 El Tular|18.150|-93.335|MX|Tabasco|67
+El Tajín National Airport|20.600|-97.461|MX|Veracruz|67|f
 El Tigre|18.102|-92.942|MX|Tabasco|67
 El Triunfo de la Cruz|15.767|-87.433|HN|Atlántida Department|67
 El Toboso|39.513|-2.997|ES|Castille-La Mancha|67
 Eltham|-39.429|174.300|NZ|Taranaki Region|67
 El Triunfo|19.421|-97.220|MX|Veracruz|66
 El Tular|13.466|-87.515|HN|Valle Department|66
+El Tepual International Airport|-41.439|-73.094|CL|Los Lagos Region|65|f
+El Triunfo Airport|-13.853|-65.804|BO|Beni Department|65|f
 El Tepeyac|20.051|-98.311|MX|Hidalgo|64
 El Tzay|16.864|-92.312|MX|Chiapas|64
 El Tamarindo|21.958|-105.232|MX|Nayarit|64
@@ -50,6 +57,8 @@ El Tío|-31.385|-62.828|AR|Cordoba|64
 El Tule|20.028|-105.244|MX|Jalisco|64
 El Terrero|18.128|-100.320|MX|Guerrero|63
 El Tepetatal|19.346|-99.771|MX|México|63
+El Tapihue Airport|-33.321|-71.332|CL|Valparaiso|63|f
+El Tigre Airport|8.833|-64.211|VE|Anzoátegui|63|f
 el Torricó / Altorricon|41.803|0.414|ES|Aragon|63
 El Tigre|14.933|-87.983|HN|Cortés Department|63
 El Tecolote|20.884|-101.925|MX|Guanajuato|63
@@ -68,6 +77,7 @@ El Tequesquite|20.301|-102.288|MX|Michoacán|61
 El Triunfo 1ra. Sección (Cardona)|17.608|-93.233|MX|Chiapas|61
 Elton|30.481|-92.696|US|Louisiana|61
 El Tablón|14.033|-87.167|HN|Francisco Morazán Department|61
+El Toro|37.120|-121.672|US|California|61|f
 El Terrero|14.064|-87.066|HN|Francisco Morazán Department|61
 El Tintal|20.892|-87.466|MX|Quintana Roo|61
 El Terrero|17.122|-99.348|MX|Guerrero|61
@@ -76,10 +86,98 @@ El Tejocote|17.329|-98.658|MX|Guerrero|60
 El Tigre (Segunda Manzana de Crescencio Morales)|19.474|-100.244|MX|Michoacán|60
 El Tránsito|14.383|-88.917|HN|Ocotepeque Department|60
 El Tarter|42.580|1.654|AD|Canillo|60
+El Terrero Sur|22.040|-100.909|MX|San Luis Potosí|60
+El Triunfo|14.991|-92.222|MX|Chiapas|60
+El Tule|20.526|-101.597|MX|Guanajuato|60
+El Toro|20.829|-101.907|MX|Guanajuato|60
+El Triunfo|19.226|-97.171|MX|Puebla|60
+El Tarral|15.215|-92.385|MX|Chiapas|59
+El Tejabán|20.889|-101.231|MX|Guanajuato|59
+El Tambo|-4.887|-81.004|PE|Piura|59
+El Torno|40.136|-5.944|ES|Extremadura|59
+El Terrero|19.787|-97.948|MX|Puebla|59
+El Tepetate|24.174|-101.000|MX|San Luis Potosí|59
+El Tigre|22.503|-105.463|MX|Nayarit|59
+El Trapichillo|21.574|-104.983|MX|Nayarit|59
+El Tezal|22.904|-109.892|MX|Baja California Sur|59
+El Tejocotal|20.140|-98.127|MX|Hidalgo|59
+El Tepozán|22.334|-101.868|MX|Zacatecas|59
+El Triunfo|16.464|-93.752|MX|Chiapas|59
+El Troncón|23.493|-104.387|MX|Durango|58
+El Toreador de Abajo|21.324|-100.549|MX|Guanajuato|58
+El Terrero|20.138|-100.575|MX|Guanajuato|58
 El Tule|27.054|-106.266|MX|Chihuahua|58
+El Tepuche|24.943|-107.349|MX|Sinaloa|58
+El Tizatillo|14.002|-87.198|HN|Francisco Morazán Department|58
+El Tepehuaje|20.070|-102.398|MX|Michoacán|58
+El Tecomate|20.771|-97.772|MX|Puebla|58
+El Triunfo|19.232|-97.037|MX|Puebla|58
+El Terrero|16.562|-98.439|MX|Guerrero|58
+El Tigre|20.235|-101.269|MX|Guanajuato|58
+El Triunfo|19.070|-96.871|MX|Veracruz|58
+El Tesoro|20.251|-99.871|MX|México|58
+El Tepamal|19.241|-101.617|MX|Michoacán|58
+El Terrero|19.052|-102.650|MX|Michoacán|58
+El Tule|20.736|-99.358|MX|Hidalgo|58
+El Tamarindo|16.849|-99.515|MX|Guerrero|58
+El Tepec|21.841|-103.774|MX|Jalisco|57
+El Triunfo|17.217|-93.054|MX|Chiapas|57
+El Tepetate|22.393|-101.703|MX|Zacatecas|57
+Elton|52.531|-0.395|GB|England|57
+El Tambor|21.747|-105.035|MX|Nayarit|57
+El Triunfo|28.845|-111.430|MX|Sonora|57
+El Triunfo 2da. Sección|17.582|-93.267|MX|Chiapas|56
+El Tremesino|19.187|-100.440|MX|Michoacán|56
+El Tecorral|16.903|-99.270|MX|Guerrero|56
+El Tablón|20.419|-99.188|MX|Hidalgo|56
+El Tule|20.717|-102.441|MX|Jalisco|56
+El Tunal|25.421|-100.636|MX|Coahuila|56
+El Terrero|19.230|-101.524|MX|Michoacán|56
+El Tomatal|15.786|-96.921|MX|Oaxaca|56
+El Tejoruco|17.240|-99.123|MX|Guerrero|56
+El Talayote|20.427|-100.633|MX|Guanajuato|56
+El Tamarindo|18.810|-96.738|MX|Veracruz|56
+El Torreón|28.323|-105.415|MX|Chihuahua|56
+El Tepache|17.501|-94.821|MX|Veracruz|56
+El Tejero|19.875|-100.391|MX|Michoacán|56
+El Tabacal|17.114|-99.343|MX|Guerrero|55
+El Tepetate|20.427|-97.786|MX|Puebla|55
+El Timbiriche|18.663|-101.508|MX|Michoacán|55
+El Telar|19.001|-99.827|MX|México|55
+El Tepozán|20.335|-100.498|MX|Guanajuato|55
 Eltendorf|47.009|16.202|AT|Burgenland|55
+El Taballal|25.413|-108.043|MX|Sinaloa|55
+El Tanque de los Jiménez|21.709|-102.373|MX|Aguascalientes|55
+El Tizán|20.763|-98.068|MX|Veracruz|55
+El Tepetate|19.373|-101.583|MX|Michoacán|55
+El Tlacuache|20.331|-101.737|MX|Guanajuato|55
+El Triunfo|16.675|-91.757|MX|Chiapas|55
+El Tesoro|18.209|-95.430|MX|Veracruz|55
+El Tecomate de la Noria|23.667|-106.038|MX|Sinaloa|55
+El Tecuán|20.827|-101.866|MX|Guanajuato|55
+El Tasicuri|30.665|-110.932|MX|Sonora|55
+El Tablón|20.210|-98.988|MX|Hidalgo|55
+El Tepozán|22.170|-102.141|MX|Aguascalientes|55
+El Tepeguaje|20.171|-103.214|MX|Jalisco|55
+El Tepetate|20.581|-97.924|MX|Veracruz|54
+El Tapanco|16.815|-97.995|MX|Oaxaca|54
+El Tepetate|21.293|-98.748|MX|San Luis Potosí|54
+El Tatio Geysers|-22.334|-68.013|CL|Antofagasta|54|f
+El Tucuche|10.739|-61.411|TT||54|f
+El Tejocote|17.273|-98.806|MX|Guerrero|54
+El Terrero|20.799|-97.546|MX|Veracruz|54
+El Tejocote (La Loma)|20.046|-100.146|MX|México|54
+El Temblor|18.392|-100.310|MX|México|54
+El Timbinal|20.093|-101.049|MX|Guanajuato|54
+El Tambor|20.498|-101.302|MX|Guanajuato|54
+El Tigre|22.441|-102.919|MX|Zacatecas|54
+El Tamarindo Airport|13.163|-87.905|SV|La Union|49|f
+El Toro|18.272|-65.829|PR|Las Piedras|49|f
 El Tejar|8.432|-82.569|PA|Chiriquí Province|49
 El Toro|7.753|-80.869|PA|Herrera Province|45
+El Temblor|17.062|-89.612|GT|Petén|40|f
+El Tiro Gliderport|32.429|-111.389|US|Arizona|40|f
+el Turbón|42.419|0.506|ES|Aragon|40|f
 El Tambo|-12.067|-75.217|PE|Junin|0
 El Toro|10.954|-71.648|VE|Zulia|0
 El Triunfo|-1.305|-78.404|EC|Tungurahua Province|0

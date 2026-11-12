@@ -1,13 +1,16 @@
 Helsinki|60.170|24.935|FI|Uusimaa|116
 Helmand|31.000|64.000|AF||103|r
 Helsingborg|56.047|12.694|SE|Skåne|100
+Hellespont|40.214|26.458|TR||99|f
 Helong|42.540|128.997|CN|Jilin|99
 Hellersdorf|52.533|13.609|DE|State of Berlin|98
+Helsinki Airport|60.317|24.963|FI|Uusimaa|98|f
 Helmond|51.482|5.661|NL|North Brabant|97
 Hell-Ville|-13.397|48.267|MG|Diana|95
 Hell's Kitchen|40.765|-73.991|US|New York|93
 Héliopolis|36.504|7.443|DZ|Guelma|92
 Helsingør|56.036|12.614|DK|Capital Region|91
+Heligoland|54.182|7.885|DE|Schleswig-Holstein|90|f
 Helena|46.593|-112.036|US|Montana|90
 Hellín|38.511|-1.701|ES|Castille-La Mancha|90
 Helchteren|51.056|5.382|BE|Flanders|90
@@ -17,12 +20,17 @@ Hellevoetsluis|51.833|4.133|NL|South Holland|87
 Heli Mandi|28.345|76.757|IN|Haryana|86
 Helin|30.581|107.681|CN|Chongqing|86
 Helena|33.296|-86.844|US|Alabama|85
+Heliopolis|30.150|31.317|EG|Cairo|85|f
+Helsinki-Malmi Airport|60.255|25.043|FI|Uusimaa|85|f
 Helensvale|-27.918|153.333|AU|Queensland|85
+Hellabrunn Zoo|48.098|11.554|DE|Bavaria|83|f
+Helgoländer Bucht|54.089|8.256|DE|Schleswig-Holstein|82|f
 Helensburgh|56.006|-4.726|GB|Scotland|82
 Heliópolis|-10.683|-38.286|BR|Bahia|82
 Helston|50.103|-5.270|GB|England|81
 Helena-West Helena|34.529|-90.590|US|Arkansas|81
 Helmbrechts|50.236|11.716|DE|Bavaria|80
+Helena Regional Airport|46.607|-111.983|US|Montana|79|f
 Helsinge|56.023|12.198|DK|Capital Region|79
 Helotes|29.578|-98.690|US|Texas|79
 Hellenthal|50.483|6.433|DE|North Rhine-Westphalia|79
@@ -33,25 +41,35 @@ Helegiu|46.350|26.750|RO|Bacău County|77
 Heliodora|-22.067|-45.542|BR|Minas Gerais|76
 Helsa|51.260|9.689|DE|Hesse|75
 Hellertown|40.580|-75.341|US|Pennsylvania|75
+Helsenhorn|46.305|8.192|CH|Valais|75|f
 Hellebæk|56.068|12.558|DK|Capital Region|75
 Helena|34.530|-90.592|US|Arkansas|75
 Helden|51.319|6.000|NL|Limburg|75
+Helgeandsholmen|59.328|18.069|SE|Stockholm|74|f
 Helsby|53.274|-2.769|GB|England|74
 Helmiaziv|49.822|31.836|UA|Cherkasy|74
 Helbra|51.550|11.500|DE|Saxony-Anhalt|73
+Helgbustadøya|63.579|8.529|NO|Trøndelag|73|f
+Helgeland Bridge|66.036|12.721|NO|Nordland|73|f
 Hel|54.604|18.804|PL|Pomerania|72
 Helvécia|46.837|19.623|HU|Bács-Kiskun|72
 Helmstadt-Bargen|49.314|8.997|DE|Baden-Wurttemberg|71
+Helodranon’ Antongila|-15.750|49.833|MG||71|f
 Helvoirt|51.632|5.231|NL|North Brabant|71
 Helena Valley Northwest|46.729|-112.063|US|Montana|71
 Helensville|-36.678|174.450|NZ|Auckland|71
+Hel Peninsula|54.719|18.629|PL|Pomerania|70|f
 Helmsange|49.653|6.141|LU|Luxembourg|70
 Helena Valley Northeast|46.699|-111.952|US|Montana|70
 Helena|32.074|-82.915|US|Georgia|69
+Helan Shan|38.930|106.017|CN||69|f
+Helgøya|70.129|19.426|NO|Troms|69|f
 Helmstadt|49.762|9.708|DE|Bavaria|68
 Helemano|21.536|-158.019|US|Hawaii|68
 Heliconia|6.208|-75.736|CO|Antioquia|68
 Heldrungen|51.302|11.218|DE|Thuringia|67
+Hellisay|57.017|-7.350|GB|Scotland|67|f
+Helmsley Castle|54.244|-1.063|GB|England|67|f
 Helmetta|40.377|-74.425|US|New Jersey|67
 Heltersberg|49.317|7.717|DE|Rheinland-Pfalz|67
 Helper|39.684|-110.855|US|Utah|66
@@ -60,26 +78,149 @@ Helpsen|52.311|9.117|DE|Lower Saxony|66
 Hell|63.446|10.901|NO|Trøndelag|66
 Heldergem|50.878|3.958|BE|Flanders|65
 Hélesmes|50.370|3.359|FR|Hauts-de-France|65
+Heliopolis Palace|30.089|31.320|EG|Cairo|65|f
+Helmbrechts Concentration Camp|50.232|11.710|DE|Bavaria|65|f
+Helmbrechts Concentration Camp|50.232|11.710|DE|Bavaria|65|f
+Helvetinjärven Kansallispuisto|62.024|23.846|FI|Pirkanmaa|65|f
 Helfaut|50.698|2.242|FR|Hauts-de-France|65
 Helena West Side|46.597|-112.113|US|Montana|64
 Helio García Alfaro|17.260|-94.288|MX|Veracruz|64
 Helena Number One|6.673|-57.925|GY|Demerara-Mahaica|64
 Hellmonsödt|48.433|14.300|AT|Upper Austria|64
 Helmsley|54.246|-1.057|GB|England|64
+Helgåvatnet|66.376|13.412|NO|Nordland|63|f
+Helgolandøya|78.791|28.649|SJ||63|f
+Heligoland Airport|54.186|7.915|DE|Schleswig-Holstein|63|f
+Helodrano Bombetoka|-15.833|46.283|MG||63|f
+Helodrano Ianantsony|-23.550|43.717|MG||63|f
 Helena|36.546|-98.270|US|Oklahoma|63
 Hellifield|54.005|-2.223|GB|England|63
 Helgoland|54.181|7.886|DE|Schleswig-Holstein|62
 Hellenhahn-Schellenberg|50.613|8.026|DE|Rheinland-Pfalz|62
 Helena|30.495|-88.496|US|Mississippi|61
 Helferskirchen|50.510|7.812|DE|Rheinland-Pfalz|61
+Hélène Island|-66.624|139.732|AQ||61|f
+Helgasjön|56.967|14.767|SE|Kronoberg|61|f
+Helgenæs Peninsula|56.133|10.533|DK|Central Jutland|61|f
+Helgøya|60.739|10.980|NO|Innlandet|61|f
+Hellandfjellet|78.750|10.800|SJ|Svalbard|61|f
+Hellesøy|58.983|5.825|NO|Rogaland|61|f
+Helsinki Ice Stadium|60.189|24.922|FI|Uusimaa|61|f
+Helvellyn|54.527|-3.018|GB|England|61|f
+Helvetestinden|70.058|18.710|NO|Troms|61|f
 Hellaby|53.423|-1.241|GB|England|61
 Hellwege|53.073|9.236|DE|Lower Saxony|61
 Helidon|-27.553|152.124|AU|Queensland|60
 Hellebecq|50.664|3.888|BE|Wallonia|60
+Helse|53.975|9.010|DE|Schleswig-Holstein|60
 Helpston|52.632|-0.347|GB|England|60
+Heliade Rădulescu|45.292|27.121|RO|Buzău County|60
+Héloup|48.398|0.026|FR|Normandy|60
+Helkijn|50.732|3.384|BE|Flanders|59
+Hellak|29.521|51.841|IR|Fars|59
+Hellange|49.508|6.150|LU|Esch-sur-Alzette|59
+Helvesiek|53.216|9.492|DE|Lower Saxony|59
+Helenwood|36.430|-84.544|US|Tennessee|59
+Hella|63.835|-20.401|IS|South|59
+Helpringham|52.951|-0.306|GB|England|58
+Helen Buttes|48.568|-121.503|US|Washington|58|f
+Helheimgletscher|66.350|-38.200|GL|Sermersooq|58|f
+Hell Gates|-62.672|-61.187|AQ||58|f
+Helligvær|67.417|14.000|NO|Nordland|58|f
+Helfrantzkirch|47.607|7.415|FR|Grand Est|58
+Helechosa|39.312|-4.909|ES|Extremadura|58
+Hellouw|51.827|5.176|NL|Gelderland|58
+Helmenzen|50.694|7.620|DE|Rheinland-Pfalz|58
+Helmdange|49.694|6.142|LU|Mersch|58
+Helmdon|52.090|-1.144|GB|England|58
 Heleșteni|47.203|26.878|RO|Iași County|57
+Helenaveen|51.390|5.917|NL|North Brabant|56
+Hélette|43.308|-1.244|FR|New Aquitaine|56
+Hellendoorn|52.388|6.451|NL|Overijssel|56
+Hellvik|58.478|5.878|NO|Rogaland|56
+Helmsdale|58.117|-3.653|GB|Scotland|56
+Helwijk|51.676|4.432|NL|North Brabant|55
+Hellissandur|64.918|-23.886|IS|West|55
+Helen|34.701|-83.732|US|Georgia|55
+Helfštýn|49.518|17.629|CZ|Olomouc Region|54|f
+Helgafell|65.042|-22.727|IS|West|54|f
+Hellfjorden|64.195|10.287|NO|Trøndelag|54|f
+Hellisey|63.361|-20.365|IS|South|54|f
+Hells Gate State Recreation Area|46.350|-117.055|US|Idaho|54|f
+Helm|46.717|12.383|IT|Trentino-Alto Adige|54|f
+Helmet Peak|-62.656|-60.028|AQ||54|f
+Helnæs|55.142|10.011|DK|South Denmark|54|f
+Hellum|53.238|6.839|NL|Groningen|54
+Helfenstein|47.333|11.867|AT|Tyrol|54
+Helen-Bos|50.819|5.083|BE|Flanders|54
+Hellimer|48.997|6.830|FR|Grand Est|54
+Helmstorf|54.283|10.600|DE|Schleswig-Holstein|51
+Hela Kunda Forest Park|13.300|-14.350|GM|Upper River|49|f
+Helfenstein|51.361|9.349|DE|Hesse|49|f
+Helgafell|64.010|-21.851|IS|Capital Region|49|f
+Helgelandsmoen|60.100|10.233|NO|Buskerud|49|f
+Helgheim|61.561|6.400|NO|Vestland|49|f
+Helgrindur|64.891|-23.343|IS|West|49|f
+Heligholmen|56.924|18.287|SE|Gotland|49|f
+Helin|61.050|8.622|NO|Innlandet|49|f
+Helios Ridge|-77.433|162.483|AQ||49|f
+Helios, Mount|-77.450|162.317|AQ||49|f
+Hell Hole Gorge National Park|-25.542|144.158|AU|Queensland|49|f
+Helland Glacier|-54.479|-36.653|GS||49|f
+Helland-Hansen Shoulder|-85.433|-168.167|AQ||49|f
+Hellerman Rocks|-64.133|-64.017|AQ||49|f
+Helliar Holm|59.023|-2.901|GB|Scotland|49|f
+Hells Gate|-18.450|126.583|AU|Western Australia|49|f
+Helm Glacier|-83.117|162.500|AQ||49|f
+Helm Peak|-69.493|-67.847|AQ||49|f
+Helm Point|-72.183|170.000|AQ||49|f
+Helmet Butte|48.149|-120.956|US|Washington|49|f
+Helms, Mount|-82.067|-87.967|AQ||49|f
+Helsinki Halli|60.206|24.929|FI|Uusimaa|49|f
+Helmeroth|50.733|7.733|DE|Rheinland-Pfalz|47
+Hellertshausen|49.817|7.283|DE|Rheinland-Pfalz|46
+Hellschen-Heringsand-Unterschaar|54.200|8.850|DE|Schleswig-Holstein|45
+Helagsfjället|62.906|12.448|SE|Jämtland|40|f
+Held Glacier|-84.783|-177.000|AQ||40|f
+Heldenplatz|48.207|16.363|AT|Vienna|40|f
+Hele Bay|51.215|-4.094|GB||40|f
+Helen Glacier|43.156|-109.617|US|Wyoming|40|f
+Helen Glacier Tongue|-66.550|94.000|AQ||40|f
+Helen Island|68.751|-89.916|CA|Nunavut|40|f
+Helen Lake|48.838|-113.757|US|Montana|40|f
+Helen Putnam Regional Park|38.217|-122.661|US|California|40|f
+Helen's Bay|54.674|-5.735|GB|Northern Ireland|40|f
+Helena Falls|-45.464|167.167|NZ||40|f
+Helena Island|44.867|-79.733|CA|Ontario|40|f
+Helena Island|76.652|-101.069|CA|Nunavut|40|f
+Helgafell|63.429|-20.261|IS|South|40|f
+Helicopter Mountains|-77.192|161.383|AQ||40|f
+Hell Hole|29.617|-92.106|US|Louisiana|40|f
+Hell Hole Reservoir|39.077|-120.394|US|California|40|f
+Hell Roaring Lake|44.024|-114.935|US|Idaho|40|f
+Hell's Gate National Park|-0.916|36.313|KE||40|f
+Hellebore Lake|49.704|-125.620|CA|British Columbia|40|f
+Hellenic Parliament|37.975|23.737|GR|Attica|40|f
+Helliwell Park|49.520|-124.596|CA|British Columbia|40|f
+Hells Bay|25.253|-80.882|US|Florida|40|f
+Hells Canyon Dam|45.242|-116.701|US|Oregon|40|f
+Hells Gate|49.783|-121.453|CA|British Columbia|40|f
+Helm Canal|36.830|-119.735|US|California|40|f
+Helman Glacier|-72.200|168.467|AQ||40|f
+Helmet Peak|31.967|-111.081|US|Arizona|40|f
+Helms Cove|39.717|-75.479|US|New Jersey|40|f
+Helorus|36.842|15.109|IT|Sicily|40|f
+Helwangspitz|47.149|9.562|LI||40|f
+Helang|22.557|111.858|CN|Guangdong|0
+Hele|18.902|110.473|CN|Hainan|0
+Heli|47.055|130.281|CN|Heilongjiang|0
+Heliao|21.857|110.190|CN|Guangdong|0
 Helie|31.521|120.290|CN|Jiangsu|0
+Heling|28.353|115.411|CN|Jiangxi|0
 Helixi|30.628|118.981|CN|Anhui|0
 Helland|50.500|-4.717|GB|England|0
+Hellington|52.579|1.413|GB|England|0
 Helmas|41.180|19.607|AL|Tirana|0
+Helong|25.945|116.134|CN|Jiangxi|0
+Helong|26.446|116.654|CN|Fujian|0
 Helvecia|-31.101|-60.088|AR|Santa Fe|0

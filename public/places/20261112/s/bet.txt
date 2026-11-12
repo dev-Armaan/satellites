@@ -30,6 +30,7 @@ Bettola-Zeloforomagno|45.431|9.309|IT|Lombardy|83
 Betanzos|43.280|-8.215|ES|Galicia|83
 Bétérou|9.199|2.259|BJ|Borgou|82
 Betio Village|1.358|172.921|KI|Gilbert Islands|82
+Bethel Airport|60.780|-161.838|US|Alaska|82|f
 Betânia|-8.275|-38.034|BR|Pernambuco|82
 Bétaré Oya|5.600|14.083|CM|East|81
 Béttié|6.076|-3.408|CI|Comoé District|81
@@ -42,6 +43,7 @@ Bethalto|38.909|-90.041|US|Illinois|79
 Betton|48.183|-1.645|FR|Brittany|79
 Bethlehem|-37.695|176.109|NZ|Bay of Plenty|79
 Bethulie|-30.499|25.975|ZA|Free State|78
+Bettles Field|66.914|-151.528|US|Alaska|78|f
 Bettembourg|49.519|6.103|LU|Esch-sur-Alzette|77
 Bethoncourt|47.535|6.805|FR|Bourgogne-Franche-Comté|77
 Bet Dagan|32.001|34.830|IL|Central District|77
@@ -50,6 +52,7 @@ Bethel|60.792|-161.756|US|Alaska|76
 Betânia do Piauí|-8.148|-40.796|BR|Piauí|76
 Bétheny|49.285|4.055|FR|Grand Est|76
 Betxí|39.933|-0.200|ES|Valencia|75
+Beth-zur|31.583|35.100|PS|West Bank|74|f
 Bet Arye|32.033|35.050|PS|West Bank|74
 Betekom|50.987|4.782|BE|Flanders|74
 Betanzos|-19.553|-65.454|BO|Potosí Department|74
@@ -79,6 +82,7 @@ Bethlehem|40.044|-80.691|US|West Virginia|68
 Bethel Town|18.295|-77.951|JM|Westmoreland|68
 Bet Yitsẖaq Sha’ar H̱efer|32.334|34.890|IL|Central District|67
 Betania|16.606|-92.522|MX|Chiapas|67
+Bet Shankhodhār|22.456|69.101|IN|Gujarat|67|f
 Betws|51.569|-3.588|GB|Wales|67
 Bet H̱ashmonay|31.889|34.917|IL|Central District|67
 Bethel Island|38.015|-121.641|US|California|67
@@ -94,6 +98,7 @@ Bet El‘azari|31.844|34.804|IL|Central District|64
 Bethel|35.807|-77.379|US|North Carolina|64
 Bétié|7.702|-3.968|CI|Lacs District|64
 Bet Zayit|31.782|35.162|IL|Jerusalem|64
+Bethany Memorial Airport|40.277|-94.008|US|Missouri|63|f
 Bet HaShitta|32.552|35.439|IL|Northern District|63
 Bétéma|8.096|-7.178|CI|Woroba|63
 Bet H̱ilqiyya|31.793|34.810|IL|Central District|63
@@ -121,14 +126,99 @@ Bethany|40.206|-80.557|US|West Virginia|60
 Béthencourt-sur-Mer|50.078|1.503|FR|Hauts-de-France|60
 Betz|49.156|2.956|FR|Hauts-de-France|60
 Bettingen|49.942|6.402|DE|Rheinland-Pfalz|60
+Bet Gamli’él|31.856|34.762|IL|Central District|60
+Bethania|19.908|-90.367|MX|Campeche|60
+Bethlehem|44.280|-71.688|US|New Hampshire|60
+Betchworth|51.234|-0.267|GB|England|59
+Betliar|48.703|20.508|SK|Košice Region|59
+Betting|49.127|6.816|FR|Grand Est|59
+Bétaille|44.944|1.733|FR|Occitanie|59
+Bet H̱ananya|32.529|34.926|IL|Haifa|59
+Bet Shiqma|31.637|34.610|IL|Southern District|59
+Bet Rimmon|32.781|35.328|IL|Northern District|59
+Bet Zera‘|32.689|35.574|IL|Northern District|59
+Bethersden|51.129|0.753|GB|England|59
+Bétheniville|49.292|4.369|FR|Grand Est|59
+Betances|18.029|-67.135|PR|Cabo Rojo|58
+Bet HaLevi|32.353|34.930|IL|Central District|58
+Bet Eshel|31.234|34.813|IL|Southern District|58|f
+Bet Islet|-10.146|142.819|AU|Queensland|58|f
+Beta Island|-64.316|-62.994|AQ||58|f
+Betekhtin Range|-71.867|11.600|AQ||58|f
+Bethel Regional Airport|44.422|-70.807|US|Maine|58|f
+Betsu-zan|36.105|136.766|JP|Gifu|58|f
+Betta|44.373|38.394|RU|Krasnodar Krai|58
+Bet Hillel|33.209|35.607|IL|Northern District|58
+Betancuría|28.423|-14.056|ES|Canary Islands|58
+Beton-Bazoches|48.701|3.245|FR|Île-de-France|58
+Bettviller|49.079|7.284|FR|Grand Est|58
+Betzenweiler|48.117|9.567|DE|Baden-Wurttemberg|58
+Bettant|45.944|5.359|FR|Auvergne-Rhône-Alpes|58
+Bettenfeld|50.085|6.760|DE|Rheinland-Pfalz|57
+Béthencourt|50.136|3.433|FR|Hauts-de-France|57
+Bețești|46.742|26.583|RO|Neamț County|57
+Betina|43.824|15.605|HR|Šibenik-Knin|57
+Béta|7.786|-7.435|CI|Montagnes|57
+Bethel Springs|35.234|-88.606|US|Tennessee|57
+Bet Qeshet|32.719|35.395|IL|Northern District|57
+Betania|-11.051|-73.751|PE|Junin|57
+Betsy Layne|37.551|-82.633|US|Kentucky|57
+Bet Me’ir|31.794|35.037|IL|Jerusalem|57
+Bet Neqofa|31.805|35.126|IL|Jerusalem|57
+Bethlehem|33.932|-83.714|US|Georgia|57
+Betești|46.290|25.082|RO|Harghita County|56
+Bettsville|41.246|-83.236|US|Ohio|56
+Betz-le-Château|46.992|0.919|FR|Centre-Val de Loire|56
+Bet ‘Uzi’él|31.870|34.905|IL|Central District|56
+Betset|33.071|35.135|IL|Northern District|56
+Bettelainville|49.235|6.300|FR|Grand Est|56
 Bettona|43.011|12.487|IT|Umbria|56
+Bet Nir|31.647|34.874|IL|Southern District|56
+Bettaincourt-sur-Rognon|48.305|5.253|FR|Grand Est|55
+Betania|19.638|-88.288|MX|Quintana Roo|55
+Bethel|43.833|-72.634|US|Vermont|55
+Betlemme|40.673|17.941|IT|Apulia|55
+Bet Rabban|31.817|34.729|IL|Central District|55
+Bettole|45.490|10.270|IT|Lombardy|55
+Béthines|46.547|0.976|FR|New Aquitaine|55
+Beța|46.254|23.815|RO|Alba County|55
+Bet H̱anan|31.933|34.773|IL|Central District|55
+Betbeder Islands|-65.259|-65.020|AQ||54|f
+Bethell’s Island|32.285|-64.880|BM|Sandys|54|f
+Betou Airport|3.058|18.515|CG|Likouala|54|f
+Betsy Ross Bridge|39.985|-75.066|US|Pennsylvania|54|f
+Betty Brinn Childrens Museum|43.039|-87.900|US|Wisconsin|54|f
+Bet Guvrin|31.613|34.896|IL|Southern District|54
 Beteta|40.572|-2.076|ES|Castille-La Mancha|52
+Bettendorf|50.233|7.869|DE|Rheinland-Pfalz|52
 Betéitiva|5.911|-72.809|CO|Boyacá|51
 Betelu|43.026|-1.980|ES|Navarre|51
+Betteldorf|50.250|6.750|DE|Rheinland-Pfalz|50
+Beta Island|32.282|-64.828|BM|Warwick|49|f
+Beta Peak|-75.850|160.100|AQ||49|f
+Betchworth Castle|51.237|-0.296|GB|England|49|f
+Bettle Peak|-77.783|163.500|AQ||49|f
+Betts Hill|42.318|-74.871|US|New York|49|f
+Bethenhausen|50.929|12.200|DE|Thuringia|49
 Betzdorf|49.683|6.350|LU|Grevenmacher|48
 Bettborn|49.795|5.941|LU|Redange|47
+Beth Shalom Synagogue|37.978|23.720|GR|Attica|40|f
+Bethany Bridge|34.146|-84.720|US|Georgia|40|f
+Bethany Reservoir|37.778|-121.613|US|California|40|f
+Bethany Reservoir State Recreation Area|37.783|-121.617|US|California|40|f
+Bethlehem University|31.711|35.201|PS|West Bank|40|f
+Bethpage State Park|40.746|-73.457|US|New York|40|f
+Betsy Lake|46.626|-85.272|US|Michigan|40|f
+Bettenauer Weiher|47.430|9.103|CH|Saint Gallen|40|f
+Bettmerhorn|46.414|8.080|CH|Valais|40|f
+Bettmersee|46.394|8.061|CH|Valais|40|f
+Betty Hill|33.426|-87.248|US|Alabama|40|f
+Betz Airport|41.855|-83.868|US|Michigan|40|f
 Betaf|-2.114|139.253|ID|Papua|0
+Betangan|-6.894|113.803|ID|East Java|0
 Betania|9.012|-79.528|PA|Panamá|0
 Beté|5.995|-76.781|CO|Chocó|0
 Betijoque|9.381|-70.733|VE|Trujillo|0
+Beting|-6.856|115.311|ID|East Java|0
+Betong|-8.516|120.049|ID|East Nusa Tenggara|0
 Betun|-9.567|124.907|ID|East Nusa Tenggara|0

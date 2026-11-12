@@ -20,6 +20,7 @@ Sagua de Tánamo|20.583|-75.241|CU|Holguín Province|85
 Sagrada Familia|-34.999|-71.384|CL|Maule Region|85
 Saginomiya|35.724|139.637|JP|Tokyo|84
 Sagalo|12.200|-10.700|ML|Kayes|84
+Saga Airport|33.150|130.302|JP|Saga|83|f
 Sagana|-0.668|37.209|KE|Kirinyaga County|82
 Sagopshi|43.485|44.591|RU|Ingushetiya Republic|81
 Sagarejo|41.737|45.326|GE|Kakheti|80
@@ -35,6 +36,7 @@ Săgeata|45.100|26.983|RO|Buzău County|75
 Saguing|6.980|125.078|PH|Soccsksargen|74
 Sagzī|32.691|52.124|IR|Isfahan|74
 Sagbayan|9.914|124.092|PH|Central Visayas|74
+Sagalassos|37.678|30.519|TR|Burdur|73|f
 Sāgbāra|21.544|73.792|IN|Gujarat|73
 Şag|45.649|21.176|RO|Timiș County|73
 Sāghravan|36.525|59.324|IR|Razavi Khorasan|73
@@ -44,6 +46,7 @@ Sagnay|13.603|123.522|PH|Bicol Region|72
 Sagud-Bahley|16.117|120.391|PH|Ilocos|72
 Şagu|46.050|21.283|RO|Arad County|72
 Saga|29.324|85.226|CN|Tibet|72
+Sagchudak Island|52.021|-174.491|US|Alaska|71|f
 Sagamore|41.770|-70.528|US|Massachusetts|71
 Sagvåg|59.781|5.390|NO|Vestland|71
 Sagasa|6.774|124.574|PH|Autonomous Region in Muslim Mindanao|71
@@ -57,13 +60,19 @@ Sagrada Família|-27.707|-53.136|BR|Rio Grande do Sul|68
 Sagres|-21.884|-50.956|BR|São Paulo|68
 Sagana|12.723|121.487|PH|Mimaropa|67
 Sag Harbor|40.998|-72.293|US|New York|67
+Saganthit Kyun|11.933|98.483|MM|Tanintharyi Region|67|f
+Sagmatás|38.400|23.412|GR|Central Greece|67|f
 Sagurong|13.780|122.959|PH|Bicol Region|67
 Sagrada Familia|13.269|123.398|PH|Bicol Region|67
 Sagunto|16.201|120.515|PH|Ilocos|66
 Sagacad|7.686|123.341|PH|Zamboanga Peninsula|66
 Saguipleu|7.207|-7.767|CI|Montagnes|66
 Sagres|37.009|-8.943|PT|Faro|66
+Sagami Bay|35.250|139.417|JP||65|f
+Sagamore Bridge|41.776|-70.544|US|Massachusetts|65|f
+Saglek Airport|58.475|-62.656|CA|Newfoundland and Labrador|65|f
 Sağırın|37.011|31.231|TR|Antalya|64
+Sagami-damu|35.615|139.196|JP|Kanagawa|63|f
 Sagliano Micca|45.626|8.043|IT|Piedmont|63
 Sagoura-Dougoula|7.827|-7.021|CI|Woroba|62
 Sagalee|27.234|93.497|IN|Arunachal Pradesh|62
@@ -72,16 +81,54 @@ S'Agaró|41.794|3.054|ES|Catalonia|62
 Sağlıklı|37.033|34.908|TR|Mersin|62
 Sagy|49.050|1.952|FR|Île-de-France|62
 Sagy|46.601|5.310|FR|Bourgogne-Franche-Comté|61
+Sāgar Island|21.744|88.118|IN|West Bengal|61|f
+Sage Hen Dam|44.326|-116.195|US|Idaho|61|f
+Saginaw County H.W. Browne Airport|43.430|-83.861|US|Michigan|61|f
 Sağdıç|39.524|44.068|TR|Ağrı|61
+Ságújfalu|48.104|19.680|HU|Nógrád|60
+Sagarpur|31.088|75.637|IN|Punjab|59
+Sagriès|43.980|4.420|FR|Occitanie|59
+Saguiahui|8.058|-3.326|CI|Zanzan District|59
 Sâg|47.075|22.781|RO|Sălaj County|59
+Sagiáda|39.623|20.194|GR|Epirus|58
+Sage Hen Hills|41.954|-119.267|US|Oregon|58|f
+Sagehen Hills|39.410|-120.239|US|California|58|f
+Sagrat Cor de Jesus|38.941|1.422|ES|Balearic Islands|58|f
+Saguaro Lake|33.569|-111.525|US|Arizona|58|f
+Sagone|-13.687|-172.619|WS|Satupa'itea|58
+Sagrada Familia|21.658|-98.663|MX|San Luis Potosí|57
+Sagui-Konankro|7.425|-4.725|CI|Lacs District|56
+Sågmyra|60.717|15.283|SE|Dalarna|55
+Sagami-ko|35.615|139.179|JP|Kanagawa|54|f
+Sagamore Hill|41.781|-70.517|US|Massachusetts|54|f
+Sagbladet Ridge|-71.783|5.833|AQ||54|f
+Saguaro National Park|32.179|-110.608|US|Arizona|54|f
 Saguache|38.087|-106.142|US|Colorado|54
 Sagra|38.811|-0.066|ES|Valencia|53
+Saginaw Seaplane Base|56.886|-134.163|US|Alaska|49|f
+Saglivatnet|65.040|12.032|NO|Trøndelag|49|f
 Sagama|40.262|8.578|IT|Sardinia|47
 Sagron Mis|46.195|11.943|IT|Trentino-Alto Adige|46
 Sagàs|42.050|1.967|ES|Catalonia|43
+Sag Harbor Whaling Museum|40.998|-72.297|US|New York|40|f
+Sagamore Lake|43.768|-74.619|US|New York|40|f
+Saganaga Lake|48.246|-90.912|CA|Ontario|40|f
+Saganashkee Slough|41.694|-87.891|US|Illinois|40|f
+Sage Hill|43.090|-72.863|US|Vermont|40|f
+Sage Ranch Airport|44.236|-121.395|US|Oregon|40|f
+Sager Lake|43.595|-94.382|US|Minnesota|40|f
+Sägistalsee|46.680|7.977|CH|Bern|40|f
+Saglek Bay|58.500|-62.998|CA|Newfoundland and Labrador|40|f
+Sagnarigu Chief Palace|9.413|-0.867|TG||40|f
+Saguache County Museum|38.086|-106.143|US|Colorado|40|f
+Saga|-8.769|121.735|ID|East Nusa Tenggara|0
 Sagala|14.113|-6.729|ML|Ségou|0
+Sagalaherang|-7.120|108.394|ID|West Java|0
+Sagara|-7.112|108.640|ID|West Java|0
 Sagaranten|-7.218|106.885|ID|West Java|0
 Sagbama|5.159|6.197|NG|Bayelsa State|0
+Sagikmateng|-8.828|116.408|ID|West Nusa Tenggara|0
 Sağınlı|38.057|42.584|TR|Bitlis|0
 Sağkaya|37.179|35.688|TR|Adana|0
+Sagobog|-7.392|108.150|ID|West Java|0
 Saguiaran|8.033|124.270|PH|Autonomous Region in Muslim Mindanao|0

@@ -24,17 +24,21 @@ Koumpentoum|13.983|-14.567|SN|Tambacounda|84
 Kouibly|7.256|-7.235|CI|Montagnes|84
 Kouto|9.890|-6.409|CI|Savanes District|83
 Kouaméfra|6.592|-5.424|CI|Goh-Djiboua|81
+Koufonísi|36.942|25.607|GR|South Aegean|81|f
 Kouétinfla|6.612|-6.060|CI|Sassandra-Marahoue|81
 Kounkané|12.933|-14.083|SN|Kolda|81
+Koufonísi|34.938|26.139|GR|Crete|80|f
 Kouta|5.488|-5.232|CI|Goh-Djiboua|80
 Kouassi-Kouassikro|7.341|-4.677|CI|Lacs District|80
 Koubia|11.586|-11.895|GN|Labé Region|80
 Koun Sat|10.601|104.280|KH|Kampot|79
 Kouilou|-4.196|12.000|CG||79|r
 Koulaéoué|7.044|-7.886|CI|Montagnes|79
+Koula Moutou Airport|-1.185|12.441|GA|Ogooué-Lolo|78|f
 Kouassi-Datékro|7.817|-3.526|CI|Zanzan District|78
 Koufália|40.778|22.572|GR|Central Macedonia|78
 Koulouan|6.953|-7.699|CI|Montagnes|78
+Kourion|34.667|32.883|GB||78|f
 Koujiang|26.043|108.862|CN|Guizhou|77
 Koun-Fao|7.488|-3.252|CI|Zanzan District|77
 Kounahiri|7.791|-5.835|CI|Woroba|77
@@ -58,12 +62,14 @@ Kouego|8.043|-6.742|CI|Woroba|72
 Kouadioukro|7.255|-3.768|CI|Lacs District|72
 Kouléyo|7.167|-6.672|CI|Sassandra-Marahoue|71
 Koutsopódi|37.684|22.714|GR|Peloponnese|70
+Koudiet Tirbîrhîne|34.840|-4.516|MA|Tanger-Tetouan-Al Hoceima|70|f
 Koumac|-20.567|164.283|NC|North Province|70
 Kouatchienkro|6.892|-3.612|CI|Comoé District|70
 Kouasililié|5.715|-5.560|CI|Goh-Djiboua|69
 Koudekerke|51.482|3.554|NL|Zeeland|69
 Kouakouamékrou|7.261|-3.054|CI|Zanzan District|69
 Koudum|52.916|5.448|NL|Friesland|69
+Kouris Dam|34.727|32.918|CY|Limassol|69|f
 Kouafla|7.607|-5.876|CI|Sassandra-Marahoue|69
 Kouakouagui|5.930|-6.802|CI|Bas-Sassandra District|68
 Koua|7.506|-7.270|CI|Montagnes|68
@@ -72,6 +78,7 @@ Kouakou|6.998|-5.512|CI|Sassandra-Marahoue|68
 Kourou|8.833|-4.333|CI|Savanes District|67
 Kouroundiala|9.098|-4.759|CI|Savanes District|67
 Koundoudougou|8.395|-4.664|CI|Vallée du Bandama District|67
+Koulochéra|36.822|22.996|GR|Peloponnese|67|f
 Kouassianiaguéné|7.389|-3.037|CI|Zanzan District|67
 Koumbala|9.521|-5.175|CI|Savanes District|67
 Kouakoussekro|7.290|-4.154|CI|Lacs District|67
@@ -114,6 +121,7 @@ Kouamékro|6.192|-4.439|CI|Lagunes District|64
 Kouafo-Akidom|8.205|-2.849|CI|Zanzan District|64
 Koundé|10.019|-6.163|CI|Savanes District|64
 Koumouékro|7.851|-3.694|CI|Zanzan District|63
+Kourou Airport|5.176|-52.694|GF|Guyane|63|f
 Kouandi-Ndakro|7.579|-4.001|CI|Lacs District|63
 Koudébo Dan|7.740|-5.527|CI|Vallée du Bandama District|63
 Kouroukouna|9.289|-5.199|CI|Vallée du Bandama District|63
@@ -145,6 +153,7 @@ Koûta Boûyya|11.016|41.962|DJ|Dikhil|61
 Kouloúra|40.547|22.318|GR|Central Macedonia|61
 Kout na Šumavě|49.403|13.002|CZ|Plzeň Region|61
 Kouassi-Ngatakro|7.384|-3.994|CI|Lacs District|61
+Kouaku|-23.209|-134.859|PF|Tuamotu-Gambier Islands|61|f
 Koutselió|39.588|20.912|GR|Epirus|61
 Kouloukorosso|9.474|-4.974|CI|Savanes District|61
 Kouadio-Etienkro|6.795|-4.749|CI|Lacs District|61
@@ -157,9 +166,82 @@ Kouadio-Kissikro|7.441|-3.022|CI|Zanzan District|60
 Kouassi-Périta|6.936|-5.644|CI|Sassandra-Marahoue|60
 Kouatoutou|7.714|-3.070|CI|Zanzan District|60
 Kouakro|7.797|-4.832|CI|Vallée du Bandama District|60
+Koukouritié|7.816|-5.318|CI|Vallée du Bandama District|60
+Kouadiodongokro|7.400|-3.033|CI|Zanzan District|60
+Koumbara|8.730|-7.034|CI|Woroba|60
+Kounouman|9.419|-6.362|CI|Savanes District|60
+Kounice|50.108|14.856|CZ|Central Bohemia|60
+Kouadjo Ndrikro|7.418|-4.666|CI|Lacs District|59
+Kouadio-Kouassikro|5.704|-3.423|CI|Lagunes District|59
+Kouassikro|7.547|-3.957|CI|Lacs District|59
+Kouyabli|6.540|-8.414|CI|Montagnes|59
+Kouakro-Bovouanso|7.843|-3.455|CI|Zanzan District|59
+Kouakou Lékikro|6.826|-4.599|CI|Lacs District|59
+Kouklia|34.710|32.573|CY|Pafos|59
+Koufóvouno|41.355|26.437|GR|East Macedonia and Thrace|59
+Kouadro Gbangakro|7.445|-4.985|CI|Lacs District|58
+Kouabo|7.506|-4.943|CI|Vallée du Bandama District|58
+Koumala|-21.617|149.250|AU|Queensland|58
+Kouassikouma|8.049|-3.099|CI|Zanzan District|58
+Kouadi Prikro|7.440|-5.120|CI|Vallée du Bandama District|58
+Kouangxi Water Fall|19.749|101.992|LA|Luang Prabang Province|58|f
+Koulouba|12.586|-8.318|ML|Koulikoro|58|f
+Kouroúpa|35.211|24.440|GR|Crete|58|f
+Kouakou Kouadjokro|7.556|-4.686|CI|Vallée du Bandama District|58
+Kouadiokro|7.682|-3.495|CI|Zanzan District|58
+Koutsourás|35.033|25.947|GR|Crete|58
+Kouroukoro|7.949|-6.423|CI|Woroba|58
+Kouadiokro|7.753|-5.402|CI|Vallée du Bandama District|58
+Kouanzra|7.217|-6.177|CI|Sassandra-Marahoue|58
+Koulomia|8.044|-4.186|CI|Vallée du Bandama District|58
+Koumabo|7.605|-5.408|CI|Vallée du Bandama District|57
+Kouamébonikro|7.711|-3.366|CI|Zanzan District|57
+Kouaminakro|7.785|-4.390|CI|Lacs District|57
+Kouassi Golikro|7.760|-5.194|CI|Vallée du Bandama District|57
+Kouassi Kokro|7.381|-5.384|CI|Vallée du Bandama District|57
+Kouassi Nguessankro|7.064|-4.851|CI|Lacs District|56
+Kouakou Krémékro|7.989|-5.292|CI|Vallée du Bandama District|56
+Kouéro|9.785|-3.458|CI|Zanzan District|56
+Kouadio-Tanoukro|7.527|-5.075|CI|Vallée du Bandama District|56
+Kouadiokro|7.945|-5.435|CI|Vallée du Bandama District|56
+Kouadjo Miankro|7.756|-5.012|CI|Vallée du Bandama District|56
+Kouassiblédiékro|7.452|-5.098|CI|Vallée du Bandama District|56
+Kouakou Oussoukro|7.516|-5.095|CI|Vallée du Bandama District|56
+Kouamé Yaokro|7.694|-5.217|CI|Vallée du Bandama District|56
+Kourbini|9.263|-2.861|CI|Zanzan District|56
+Kouamé-Dari|7.671|-2.928|CI|Zanzan District|56
+Kouami-Kofikro|7.524|-4.021|CI|Lacs District|56
+Koumabo|7.523|-5.061|CI|Vallée du Bandama District|56
+Koubikro|6.932|-4.638|CI|Lacs District|55
+Kouyafla|7.486|-6.213|CI|Sassandra-Marahoue|55
+Koumingékaha|9.440|-5.513|CI|Savanes District|55
+Kouamé-Boussikro|7.484|-4.015|CI|Lacs District|55
+Kouassikrokouri|7.564|-3.919|CI|Lacs District|55
+Koutsounári|35.015|25.829|GR|Crete|55
+Kouassibilédougou|7.736|-3.727|CI|Zanzan District|55
+Kouakoublékro|7.689|-5.308|CI|Vallée du Bandama District|55
+Kourtési|37.978|21.320|GR|West Greece|55
+Kouffouo|8.025|-2.952|CI|Zanzan District|55
+Kouébo-Kan|7.481|-5.575|CI|Vallée du Bandama District|55
+Kouloumitan|9.619|-4.208|CI|Zanzan District|55
+Koúmani|37.791|21.754|GR|West Greece|54
+Kouamé-Bonou|6.676|-5.122|CI|Lacs District|54
+Koule|35.345|25.137|GR|Crete|54|f
+Koumac Airport|-20.546|164.256|NC|North Province|54|f
+Koumbi Salèh|15.767|-7.977|MR|Hodh Ech Chargi|54|f
+Koundja|5.637|10.751|CM|West|54|f
+Kouakoutankrou|7.494|-3.000|CI|Zanzan District|54
+Koubi|7.034|-5.636|CI|Sassandra-Marahoue|54
+Kouadio-Amanikro|7.687|-4.353|CI|Lacs District|54
+Kouakou Ebinikro|7.004|-4.748|CI|Lacs District|54
+Kouami Konlankro|7.471|-4.790|CI|Lacs District|54
+Kouperov Peak|-75.100|-133.800|AQ||49|f
 Kou’an|32.308|119.876|CN|Jiangsu|0
 Koubri|12.198|-1.407|BF|Centre|0
+Koujiahe|34.719|107.064|CN|Shaanxi|0
 Koula|13.114|-7.652|ML|Koulikoro|0
 Koumandjanbougou|11.447|-8.975|GN|Kankan Region|0
 Koun Mom|13.578|106.773|KH|Ratanakiri|0
 Kouqian|43.665|126.499|CN|Jilin|0
+Koutou|38.604|114.384|CN|Hebei|0
+Kouzhen|34.709|108.698|CN|Shaanxi|0

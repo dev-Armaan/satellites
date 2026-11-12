@@ -25,6 +25,7 @@ Gangākher|18.970|76.749|IN|Maharashtra|94
 Ganj Dundwāra|27.733|78.941|IN|Uttar Pradesh|93
 Gangtou|34.317|118.207|CN|Jiangsu|92
 Ganaur|29.130|77.018|IN|Haryana|91
+Ganja International Airport|40.738|46.318|AZ|Goygol Rayon|91|f
 Gandu|-13.744|-39.487|BR|Bahia|90
 Gành Hào|9.028|105.421|VN|Ca Mau|90
 Ganderkesee|53.036|8.545|DE|Lower Saxony|90
@@ -41,17 +42,21 @@ Gantang|26.716|109.769|CN|Hunan|88
 Ganvié|6.464|2.393|BJ|Atlantique|86
 Gannavaram|16.541|80.802|IN|Andhra Pradesh|86
 Gangjia|30.221|107.504|CN|Chongqing|86
+Gan International Airport|-0.693|73.156|MV|Seenu|86|f
 Gangāpur|25.220|74.260|IN|Rajasthan|85
 Gandiaye|14.244|-16.272|SN|Kaolack|85
 Gandevi|20.812|72.998|IN|Gujarat|85
+Gangkhar Puensum|28.049|90.455|BT|Wangdi Phodrang|84|f
 Gansbaai|-34.583|19.350|ZA|Western Cape|84
 Gangolli|13.650|74.671|IN|Karnataka|84
 Ganye|8.435|12.051|NG|Adamawa|84
 Gandhigram|23.892|91.282|IN|Tripura|83
 Gantt|34.800|-82.424|US|South Carolina|83
+Ganzhou Huangjin Airport|25.851|114.775|CN|Jiangxi|83|f
 Gandi|12.964|5.743|NG|Sokoto|83
 Ganta|7.302|-8.531|LR|Nimba|83
 Gandai|21.667|81.100|IN|Chhattisgarh|82
+Ganryū-jima|33.934|130.930|JP|Yamaguchi|82|f
 Gandhinagar|16.707|74.300|IN|Maharashtra|82
 Gandorhun|7.555|-11.693|SL|Southern Province|82
 Gandorhun|7.494|-11.831|SL|Southern Province|82
@@ -64,12 +69,14 @@ Gangelt|50.992|5.998|DE|North Rhine-Westphalia|81
 Gänserndorf|48.339|16.720|AT|Lower Austria|81
 Ganki Un|16.214|-13.240|MR|Gorgol|81
 Gangaikondān|8.858|77.780|IN|Tamil Nadu|81
+Gannett Peak|43.184|-109.654|US|Wyoming|80|f
 Ganj Murādābād|26.957|80.184|IN|Uttar Pradesh|80
 Ganquan|33.442|105.160|CN|Gansu|79
 Ganeshpur|21.150|79.644|IN|Maharashtra|79
 Gandhinagar|12.955|79.141|IN|Tamil Nadu|79
 Gangsha|22.536|114.066|CN|Guangdong|79
 Gangadharpur|22.760|88.220|IN|West Bengal|78
+Gandhi Sagar Dam|24.707|75.553|IN|Madhya Pradesh|78|f
 Ganjia|35.401|102.516|CN|Gansu|77
 Gandhīsāgar Colony|24.690|75.567|IN|Madhya Pradesh|77
 Ganjiangtou|33.927|104.522|CN|Gansu|77
@@ -89,8 +96,12 @@ Gan|43.229|-0.387|FR|New Aquitaine|75
 Ganfeng|29.417|107.007|CN|Chongqing|74
 Gantiadi|43.381|40.079|GE|Abkhazia|74
 Gansing|6.719|124.653|PH|Soccsksargen|74
+Ganj Nāmeh|34.763|48.438|IR|Hamadan Province|73|f
+Gantrisch|46.705|7.451|CH|Bern|73|f
 Găneasa|44.492|26.286|RO|Ilfov|73
 Gang Mills|42.146|-77.112|US|New York|72
+Gander International Airport|48.945|-54.561|CA|Newfoundland and Labrador|72|f
+Gangtok Pakyong Airport|27.228|88.586|IN|Sikkim|72|f
 Găneasa|44.417|24.283|RO|Olt|72
 Ganges|43.934|3.708|FR|Occitanie|72
 Gandara|12.013|124.812|PH|Eastern Visayas|72
@@ -98,6 +109,7 @@ Gandzak|40.323|45.110|AM|Gegharkunik|72
 Găneşti|46.333|24.350|RO|Mureș County|72
 Gancedo|-27.489|-61.675|AR|Chaco|71
 Ganaoni|9.285|-6.323|CI|Savanes District|71
+Gangåsvatnet|63.274|9.636|NO|Trøndelag|71|f
 Gaňňaly|37.034|60.797|TM|Ahal|71
 Gandzakar|40.843|45.161|AM|Tavush|71
 Gang|7.246|124.266|PH|Autonomous Region in Muslim Mindanao|70
@@ -107,6 +119,9 @@ Ganløse|55.791|12.264|DK|Capital Region|69
 Ganapi|17.202|121.865|PH|Cagayan Valley|69
 Gantang|26.920|119.633|CN|Fujian|69
 Gantang|26.798|118.936|CN|Fujian|69
+Gandy Bridge|27.886|-82.558|US|Florida|69|f
+Ganghwado|37.709|126.458|KR|Incheon|69|f
+Ganzi Gesaer Airport|31.757|99.554|CN|Sichuan|69|f
 Gan Ner|32.529|35.337|IL|Northern District|69
 Ganoufla|6.757|-6.104|CI|Sassandra-Marahoue|68
 Gånghester|57.700|13.017|SE|Västra Götaland|68
@@ -121,6 +136,8 @@ Ganado|29.041|-96.514|US|Texas|66
 Ganguvāda|18.667|84.117|IN|Andhra Pradesh|66
 Gandy|27.869|-82.616|US|Florida|66
 Ganlé|7.666|-7.510|CI|Montagnes|66
+Gandzasar Stadium|39.208|46.401|AM|Syunik|65|f
+Ganns Ödekyrka|57.793|18.767|SE|Gotland|65|f
 Gankoro|8.207|-3.019|CI|Zanzan District|65
 Ganné|7.626|-7.318|CI|Montagnes|65
 Gannaput|-28.753|21.848|ZA|Northern Cape|64
@@ -128,6 +145,10 @@ Gan-Houyé|6.749|-8.337|CI|Montagnes|64
 Gandrup|57.057|10.181|DK|North Denmark|64
 Ganwé|8.188|-7.851|CI|Woroba|64
 Ganhiba|7.311|-8.197|CI|Montagnes|63
+Gandajika Airport|-6.794|23.965|CD|East Kasai|63|f
+Gandhi Museum|28.601|77.206|IN|Delhi|63|f
+Gangcheonsan|35.402|127.048|KR|Jeollabuk-do|63|f
+Gänsewerder|54.476|13.082|DE|Mecklenburg-Vorpommern|63|f
 Gánovce|49.030|20.328|SK|Prešov Region|63
 Gandomīneh|33.354|49.895|IR|Lorestan Province|63
 Gangdong|27.917|110.834|CN|Hunan|63
@@ -137,30 +158,174 @@ Gantofta|55.987|12.805|SE|Skåne|62
 Gangloffsömmern|51.189|10.943|DE|Thuringia|62
 Ganado|35.711|-109.542|US|Arizona|62
 Ganterschwil|47.381|9.092|CH|Saint Gallen|61
+Gan Charles Clore|32.065|34.761|IL|Tel Aviv|61|f
+Gan Island|-0.694|73.155|MV|Seenu|61|f
+Gándara Island|-63.318|-57.918|AQ||61|f
+Gang Benchhen|28.552|85.545|CN|Tibet|61|f
+Ganges Delta|23.000|89.000|BD||61|f
+Gangotri Glacier|30.833|79.167|IN||61|f
+Gangssibong|37.973|127.382|KR|Gyeonggi-do|61|f
+Ganoga Lake|41.356|-76.319|US|Pennsylvania|61|f
 Gandāb|33.051|47.264|IR|Ilam Province|61
 Gandié|7.616|-7.442|CI|Montagnes|61
 Gănești|46.090|27.993|RO|Galați County|61
 Gančani|46.633|16.251|SI|Municipality of Beltinci|60
+Gan Yoshiya|32.349|34.994|IL|Central District|60
+Ganhimi|8.091|-2.991|CI|Zanzan District|60
+Gannot Hadar|32.320|34.901|IL|Central District|60
+Ganakhleba|42.935|41.282|GE|Abkhazia|60
+Gan Shmu’el|32.452|34.950|IL|Haifa|59
+Gannirdup|8.903|-77.696|PA|Guna Yala|59
+Ganhia|6.613|-8.137|CI|Montagnes|59
+Gáň|48.229|17.719|SK|Trnava Region|59
+Gander Bay North|49.350|-54.481|CA|Newfoundland and Labrador|59
+Ganzanigo|44.479|11.656|IT|Emilia-Romagna|58
+Gangotri|30.996|78.943|IN|Uttarakhand|58
+Gănești|47.167|27.032|RO|Iași County|58
+Gan|0.277|73.432|MV|Gaafu Dhaalu Atoll|58|f
+Gand Island|-64.405|-62.854|AQ||58|f
+Gandan Si|29.755|91.474|CN|Tibet|58|f
+Gangneung Air Base|37.754|128.944|KR|Gangwon-do|58|f
+Gannan Xiahe Airport|34.811|102.645|CN|Gansu|58|f
+Ganwolsan|35.552|129.041|KR|Ulsan|58|f
+Ganchang|32.405|106.925|CN|Sichuan|58
+Ganmain|-34.793|147.039|AU|New South Wales|58
+Gănești|45.122|24.841|RO|Arges|57
+Ganac|42.947|1.563|FR|Occitanie|57
+Ganjgāh|37.709|48.258|IR|Ardabil Province|57
+Gan Shlomo|31.879|34.800|IL|Central District|56
 Ganna|45.902|8.826|IT|Lombardy|56
+Gandelu|49.094|3.184|FR|Hauts-de-France|56
+Ganzra|7.416|-6.047|CI|Sassandra-Marahoue|56
+Ganzon|7.023|-7.416|CI|Montagnes|56
+Ganzlin|53.383|12.249|DE|Mecklenburg-Vorpommern|56
+Ganóchora|40.309|22.496|GR|Central Macedonia|55
+Ganga Sāgar|23.157|79.910|IN|Madhya Pradesh|54|f
+Ganges Canal|27.814|78.239|IN|Uttar Pradesh|54|f
+Gannet Island|-37.950|174.550|NZ||54|f
+Gannocks Castle|52.162|-0.305|GB|England|54|f
+Gänsehals|50.397|7.204|DE|Rheinland-Pfalz|54|f
+Ganakhleba|42.524|41.651|GE|Abkhazia|54
+Ganon|9.359|-5.812|CI|Savanes District|54
+Gansbach|48.306|15.472|AT|Lower Austria|54
 Gandosso|45.659|9.889|IT|Lombardy|54
+Gandesbergen|52.760|9.226|DE|Lower Saxony|54
 Gandellino|45.991|9.946|IT|Lombardy|53
+Gandalf Ridge|-78.350|164.117|AQ||49|f
+Ganesh Himal|28.333|85.083|NP|Bagmati Province|49|f
+Gangabal Lake|34.433|74.925|IN|Jammu and Kashmir|49|f
+Gangare|-19.903|31.826|ZW|Masvingo Province|49|f
+Gannet Island|-20.447|115.569|AU|Western Australia|49|f
+Ganzhou Ruijin Airport|25.958|116.083|CN|Jiangxi|49|f
 Ganda|46.555|10.780|IT|Trentino-Alto Adige|45
 Ganz|47.582|15.683|AT|Styria|43
+Gananoque Lake|44.445|-76.153|CA|Ontario|40|f
+Gander Bay|49.417|-54.465|CA|Newfoundland and Labrador|40|f
+Gander Lake|48.917|-54.581|CA|Newfoundland and Labrador|40|f
+Gandstock|46.902|9.179|CH|Glarus|40|f
+Ganekogorta|43.201|-2.983|ES|Basque Country|40|f
+Ganesh II|28.379|85.057|NP|Gandaki Pradesh|40|f
+Ganga Talao Grand Basin|-20.418|57.492|MU||40|f
+Gannet Island|55.072|-130.799|US|Alaska|40|f
+Gannett Glacier|43.196|-109.645|US|Wyoming|40|f
+Gannutz Glacier|-70.400|162.183|AQ||40|f
+Ganterbrücke|46.296|8.051|CH|Valais|40|f
+Gantry Plaza State Park|40.746|-73.959|US|New York|40|f
+Ganchazi|49.472|128.267|CN|Heilongjiang|0
+Gancheng|36.592|106.339|CN|Ningxia|0
+Gancheng|18.852|108.640|CN|Hainan|0
+Ganchuan|28.578|109.097|CN|Chongqing|0
+Gandapura|-7.392|108.422|ID|West Java|0
 Gandava|28.613|67.486|PK|Balochistan|0
+Gande|25.299|117.848|CN|Fujian|0
+Gandekan|-8.083|111.998|ID|East Java|0
+Gandi|36.399|100.361|CN|Qinghai|0
+Gandik|-6.721|111.376|ID|Central Java|0
 Ganding|-7.039|113.689|ID|East Java|0
+Gandoang|-7.167|108.844|ID|Central Java|0
+Gandong|-8.142|111.792|ID|East Java|0
 Gandrungmangu|-7.520|108.854|ID|Central Java|0
+Gandrungmanis Lor|-7.529|108.857|ID|Central Java|0
+Gandu|-8.089|111.603|ID|East Java|0
+Ganduo|32.876|119.761|CN|Jiangsu|0
 Gandusari|-8.130|111.704|ID|East Java|0
 Gandusari|-8.046|112.303|ID|East Java|0
+Ganfang|28.643|114.866|CN|Jiangxi|0
 Gangba|28.217|88.474|CN|Tibet|0
+Gangbei|24.340|115.697|CN|Guangdong|0
+Gangbian|28.466|117.689|CN|Jiangxi|0
+Gangdong|28.116|117.662|CN|Jiangxi|0
 Gangdong|37.729|128.954|KR|Gangwon-do|0
+Gangdu|40.639|122.513|CN|Liaoning|0
+Ganggawang|-7.164|108.817|ID|Central Java|0
 Gangjin|35.530|127.164|KR|Jeollabuk-do|0
+Gangkou|30.733|118.911|CN|Anhui|0
+Gangkou|29.257|114.333|CN|Jiangxi|0
+Gangkou|28.736|114.289|CN|Jiangxi|0
+Gangkou|28.190|117.339|CN|Jiangxi|0
+Gangkou|22.590|113.375|CN|Guangdong|0
+Gangkou|29.440|114.202|CN|Hubei|0
 Gangkou|21.656|108.374|CN|Guangxi|0
+Gangkoujie|29.725|115.782|CN|Jiangxi|0
+Ganglie|21.850|111.963|CN|Guangdong|0
+Ganglong|33.762|100.256|CN|Qinghai|0
+Gangmei|22.044|111.751|CN|Guangdong|0
+Gangmen|21.215|109.800|CN|Guangdong|0
+Gangmian|26.088|115.864|CN|Jiangxi|0
+Gangnan|31.240|119.301|CN|Anhui|0
+Gangnan|38.322|114.022|CN|Hebei|0
 Gangnan|23.077|109.597|CN|Guangxi|0
+Gangou|26.515|103.148|CN|Yunnan|0
+Gangou|41.863|125.714|CN|Jilin|0
+Gangouyi|35.956|105.019|CN|Gansu|0
+Gangseyan|-6.943|112.946|ID|East Java|0
+Gangsha|30.977|81.287|CN|Tibet|0
+Gangshang|38.047|114.689|CN|Hebei|0
+Gangshang|28.417|115.863|CN|Jiangxi|0
+Gangshangji|28.116|116.520|CN|Jiangxi|0
+Gangtou|25.553|119.481|CN|Fujian|0
+Gangtun|40.920|120.617|CN|Liaoning|0
 Gangula|-11.005|13.913|AO|Kwanza Sul|0
+Gangwan|36.880|122.425|CN|Shandong|0
+Gangwei|24.317|118.007|CN|Fujian|0
+Gangxi|37.382|122.430|CN|Shandong|0
+Ganhe|34.158|108.514|CN|Shaanxi|0
+Ganhe|50.650|123.100|CN|Inner Mongolia|0
+Ganhe|30.377|113.420|CN|Hubei|0
 Ganhechen|33.558|114.020|CN|Henan|0
+Ganhetan|36.502|101.504|CN|Qinghai|0
+Ganhezi|44.461|84.528|CN|Xinjiang|0
+Ganjaran|-8.141|112.615|ID|East Java|0
+Ganjiachang|29.750|112.067|CN|Hubei|0
+Ganjiang|28.161|121.351|CN|Zhejiang|0
+Ganjing|34.721|108.064|CN|Shaanxi|0
+Ganjun|38.966|100.170|CN|Gansu|0
+Ganjur|-6.981|113.860|ID|East Java|0
+Ganjur Girang|-6.403|105.980|ID|Banten|0
+Ganlan|30.103|122.137|CN|Zhejiang|0
+Ganlin|29.521|120.714|CN|Zhejiang|0
+Ganlong|28.329|108.703|CN|Guizhou|0
+Ganlu|29.253|115.764|CN|Jiangxi|0
+Ganluo|27.208|114.586|CN|Jiangxi|0
+Ganping|23.988|111.970|CN|Guangdong|0
+Ganpu|30.393|120.890|CN|Zhejiang|0
+Ganq Ger|46.213|123.667|CN|Jilin|0
+Ganquan|32.481|119.343|CN|Jiangsu|0
+Ganquan|40.964|122.854|CN|Liaoning|0
+Gansa|23.967|112.314|CN|Guangdong|0
 Gansingen|47.543|8.135|CH|Aargau|0
 Gantang|30.297|118.131|CN|Anhui|0
+Gantang|39.856|116.808|CN|Beijing|0
+Ganti Dua|-8.769|116.395|ID|West Nusa Tenggara|0
 Ganting|34.102|108.614|CN|Shaanxi|0
 Gantsa|11.663|9.726|NG|Jigawa State|0
+Ganwang|40.813|122.552|CN|Liaoning|0
+Ganxi|28.390|108.421|CN|Guizhou|0
+Ganxitan|29.868|111.376|CN|Hunan|0
+Ganyan|29.279|110.779|CN|Hunan|0
+Ganyao|30.889|120.885|CN|Zhejiang|0
 Ganyesa|-26.596|24.176|ZA|North West|0
+Ganyi|30.544|113.380|CN|Hubei|0
+Ganzhou|28.818|115.433|CN|Jiangxi|0
 Ganzi|31.627|99.994|CN|Sichuan|0
+Ganziping|28.197|109.653|CN|Hunan|0

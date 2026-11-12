@@ -8,6 +8,7 @@ Neubrandenburg|53.557|13.261|DE|Mecklenburg-Vorpommern|97
 Neuwied|50.434|7.471|DE|Rheinland-Pfalz|96
 Neuilly-sur-Seine|48.885|2.270|FR|Île-de-France|96
 Neu-Hohenschönhausen|52.567|13.513|DE|State of Berlin|95
+Neuschwanstein Castle|47.557|10.749|DE|Bavaria|95|f
 Neustadt an der Weinstraße|49.350|8.139|DE|Rheinland-Pfalz|95
 Neu-Ulm|48.393|10.011|DE|Bavaria|94
 Neubrück|51.134|6.639|DE|North Rhine-Westphalia|94
@@ -29,6 +30,7 @@ Neuehrenfeld|50.958|6.936|DE|North Rhine-Westphalia|87
 Neusäß|48.392|10.833|DE|Bavaria|87
 Neustrelitz|53.360|13.073|DE|Mecklenburg-Vorpommern|87
 Neu Wulmstorf|53.466|9.792|DE|Lower Saxony|86
+Neues Museum|52.520|13.398|DE|State of Berlin|86|f
 Neuilly-Plaisance|48.863|2.506|FR|Île-de-France|85
 Neufahrn bei Freising|48.316|11.663|DE|Bavaria|85
 Neuenhagen|52.530|13.689|DE|Brandenburg|84
@@ -76,6 +78,7 @@ Neue Kolonie Westhausen|51.550|7.367|DE|North Rhine-Westphalia|77
 Neulußheim|49.293|8.522|DE|Baden-Wurttemberg|76
 Neuhaus am Rennweg|50.510|11.138|DE|Thuringia|76
 Neufchâteau|49.841|5.435|BE|Wallonia|76
+Neubrandenburg Airport|53.602|13.306|DE|Mecklenburg-Vorpommern|76|f
 Neuffen|48.555|9.376|DE|Baden-Wurttemberg|76
 Neuhofen an der Krems|48.139|14.228|AT|Upper Austria|76
 Neugersdorf|50.977|14.609|DE|Saxony|76
@@ -89,6 +92,7 @@ Neukirch/Lausitz|51.097|14.308|DE|Saxony|75
 Neubulach|48.661|8.696|DE|Baden-Wurttemberg|75
 Neuhausen|48.793|8.776|DE|Baden-Wurttemberg|75
 Neufchâtel-en-Bray|49.733|1.440|FR|Normandy|75
+Neunggyeongbong|37.673|128.765|KR|Gangwon-do|74|f
 Neudenau|49.292|9.270|DE|Baden-Wurttemberg|74
 Neunkirchen am Sand|49.525|11.320|DE|Bavaria|74
 Neustift im Stubaital|47.117|11.317|AT|Tyrol|74
@@ -112,6 +116,7 @@ Neudrossenfeld|50.017|11.500|DE|Bavaria|72
 Neutla|20.706|-100.840|MX|Guanajuato|72
 Neufchâtel-Hardelot|50.620|1.642|FR|Hauts-de-France|71
 Neuville-Saint-Rémy|50.186|3.224|FR|Hauts-de-France|71
+Neues Schloss Baden-Baden|48.765|8.242|DE|Baden-Wurttemberg|71|f
 Neuville|46.698|-71.583|CA|Quebec|71
 Neualm|47.693|13.088|AT|Salzburg|71
 Neukieritzsch|51.150|12.411|DE|Saxony|71
@@ -161,6 +166,8 @@ Neuse Forest|34.964|-76.945|US|North Carolina|66
 Neusitz|49.372|10.226|DE|Bavaria|66
 Neufra|48.129|9.476|DE|Baden-Wurttemberg|66
 Neurisshof|47.927|16.303|AT|Lower Austria|66
+Neurohlau Concentration Camp|50.276|12.777|CZ|Carlsbad Region|65|f
+Neurohlau Concentration Camp|50.276|12.777|CZ|Carlsbad Region|65|f
 Neuvy|46.562|3.290|FR|Auvergne-Rhône-Alpes|65
 Neuillé-Pont-Pierre|47.548|0.550|FR|Centre-Val de Loire|65
 Neukirchen|48.975|12.755|DE|Bavaria|65
@@ -181,6 +188,8 @@ Neubörger|52.958|7.448|DE|Lower Saxony|64
 Neuerburg|50.001|6.948|DE|Rheinland-Pfalz|64
 Neu Darchau|53.229|10.885|DE|Lower Saxony|64
 Neuville-sur-Oise|49.017|2.067|FR|Île-de-France|63
+Neunkircher Höhe|49.719|8.770|DE|Hesse|63|f
+Neuwerk|53.920|8.501|DE|Hamburg|63|f
 Neuville-Saint-Vaast|50.358|2.763|FR|Hauts-de-France|63
 Neukirchen am Großvenediger|47.250|12.276|AT|Salzburg|63
 Neumarkt im Hausruckkreis|48.273|13.728|AT|Upper Austria|63
@@ -237,13 +246,130 @@ Neue Heimat|48.246|13.042|AT|Upper Austria|60
 Neuvéglise|44.928|2.983|FR|Auvergne-Rhône-Alpes|60
 Neufmoutiers-en-Brie|48.769|2.832|FR|Île-de-France|60
 Neudorf|46.070|21.619|RO|Arad County|60
+Neuvy-en-Sullias|47.795|2.244|FR|Centre-Val de Loire|60
 Neuberg im Burgenland|47.169|16.261|AT|Burgenland|60
+Neuve-Chapelle|50.586|2.782|FR|Hauts-de-France|60
+Neuvilly|50.143|3.514|FR|Hauts-de-France|60
+Neutz-Lettewitz|51.606|11.841|DE|Saxony-Anhalt|60
+Neufelden|48.483|13.996|AT|Upper Austria|59
+Neu-Bamberg|49.799|7.924|DE|Rheinland-Pfalz|59
+Neugattersleben|51.851|11.708|DE|Saxony-Anhalt|59
+Neuillé|47.341|-0.035|FR|Pays de la Loire|59
+Neuendorf|50.033|9.650|DE|Bavaria|59
+Neuville-Saint-Amand|49.826|3.334|FR|Hauts-de-France|59
+Neuengörs|53.900|10.383|DE|Schleswig-Holstein|59
+Neufchâteau|50.720|5.776|BE|Wallonia|59
+Neuendorf|53.738|9.563|DE|Schleswig-Holstein|59
+Neuleiningen|49.542|8.139|DE|Rheinland-Pfalz|59
+Neuvy-Grandchamp|46.589|3.935|FR|Bourgogne-Franche-Comté|59
+Neuhütten|49.643|7.015|DE|Rheinland-Pfalz|58
+Neuhemsbach|49.517|7.917|DE|Rheinland-Pfalz|58
+Neurazy|49.441|13.516|CZ|Plzeň Region|58
+Neu-Anif|47.736|13.053|AT|Salzburg|58
+Neuenhofe|52.303|11.463|DE|Saxony-Anhalt|58
+Neuenkirchen|53.528|9.609|DE|Lower Saxony|58
+Neuhewen|47.879|8.717|DE|Baden-Wurttemberg|58|f
+Neunggasa|34.639|127.415|KR|Jeollanam-do|58|f
+Neustruyev, Mount|-71.850|12.233|AQ||58|f
+Neuwarper See|53.721|14.313|DE||58|f
+Neufchâtel-en-Saosnois|48.377|0.247|FR|Pays de la Loire|58
 Neustift an der Lafnitz|47.367|16.033|AT|Burgenland|58
+Neu Gülze|53.380|10.788|DE|Mecklenburg-Vorpommern|58
+Neuville-sous-Montreuil|50.475|1.777|FR|Hauts-de-France|58
+Neuvy-en-Mauges|47.267|-0.825|FR|Pays de la Loire|58
 Neukirchen am Walde|48.406|13.782|AT|Upper Austria|58
+Neufmaison|50.529|3.794|BE|Wallonia|57
+Neuberg|47.450|13.483|AT|Salzburg|57
+Neustadt|51.467|10.467|DE|Thuringia|57
+Neudorf bei Parndorf|48.017|16.933|AT|Burgenland|57
+Neulehe|53.004|7.414|DE|Lower Saxony|57
+Neuhofen im Innkreis|48.191|13.473|AT|Upper Austria|57
+Neuda|48.204|15.182|AT|Lower Austria|57
+Neuengönna|50.983|11.650|DE|Thuringia|57
+Neu Kosenow|53.793|13.752|DE|Mecklenburg-Vorpommern|57
+Neuhausen|47.838|8.774|DE|Baden-Wurttemberg|57
+Neungou|9.282|-7.220|CI|Denguélé District|57
+Neudorf|51.608|11.115|DE|Saxony-Anhalt|57
+Neuenbrook|53.861|9.532|DE|Schleswig-Holstein|57
+Neufeld|53.909|9.021|DE|Schleswig-Holstein|56
+Neu Boltenhagen|54.066|13.610|DE|Mecklenburg-Vorpommern|56
+Neuve-Église|48.328|7.313|FR|Grand Est|56
+Neuville-sur-Brenne|47.617|0.917|FR|Centre-Val de Loire|56
+Neuhaus|47.995|16.046|AT|Lower Austria|56
+Neu Poserin|53.553|12.165|DE|Mecklenburg-Vorpommern|56
+Neuve-Maison|49.931|4.033|FR|Hauts-de-France|56
+Neubrunn|50.500|10.467|DE|Thuringia|56
+Neuflize|49.410|4.307|FR|Grand Est|56
+Neuillé-le-Lierre|47.512|0.910|FR|Centre-Val de Loire|56
+Neubois|48.306|7.340|FR|Grand Est|55
+Neusiedl|47.080|16.180|AT|Burgenland|55
+Neuville-Ferrières|49.712|1.458|FR|Normandy|55
+Neudauberg|47.172|16.120|AT|Burgenland|55
+Neustadt/Westerwald|50.630|8.040|DE|Rheinland-Pfalz|55
+Neu-Rheinau|47.634|8.609|CH|Zurich|55
+Neuillay-les-Bois|46.766|1.476|FR|Centre-Val de Loire|55
+Neunkirchen|50.547|8.104|DE|Rheinland-Pfalz|55
+Neuville-Coppegueule|49.847|1.754|FR|Hauts-de-France|55
+Neubach|47.493|13.405|AT|Salzburg|55
+Neuvy-Bouin|46.676|-0.460|FR|New Aquitaine|55
+Neustift im Mühlkreis|48.529|13.756|AT|Upper Austria|55
+Neundorf|50.438|11.602|DE|Thuringia|55
+Neuendeich|53.676|9.603|DE|Schleswig-Holstein|55
+Neu-Terfens|47.315|11.635|AT|Tyrol|55
+Neuwiller|47.524|7.514|FR|Grand Est|55
+Neuhofen|47.550|13.933|AT|Styria|54
+Neustadtl-Markt|48.193|14.902|AT|Lower Austria|54
+Neuville-Vitasse|50.248|2.820|FR|Hauts-de-France|54
+Neumětely|49.852|14.037|CZ|Central Bohemia|54
+Neuengamme|53.442|10.236|DE|Hamburg|54|f
+Neuengamme Concentration Camp|53.427|10.228|DE|Hamburg|54|f
+Neuköllner Schiffahrtskanal|52.460|13.456|DE|State of Berlin|54|f
+Neustädter Bucht|54.080|10.823|DE|Schleswig-Holstein|54|f
+Neustädter See|53.394|11.567|DE|Mecklenburg-Vorpommern|54|f
+Neustadt|44.083|-81.000|CA|Ontario|54
+Neustupov|49.615|14.699|CZ|Central Bohemia|54
+Neuilly-sur-Eure|48.542|0.904|FR|Normandy|54
+Neufchâtel-sur-Aisne|49.431|4.034|FR|Hauts-de-France|54
 Neuhaus am Klausenbach|46.867|16.033|AT|Burgenland|54
+Neunkirchen am Potzberg|49.500|7.483|DE|Rheinland-Pfalz|54
 Neustift bei Güssing|47.025|16.260|AT|Burgenland|54
 Neukirchen an der Vöckla|48.041|13.538|AT|Upper Austria|50
+Neuerkirch|50.017|7.483|DE|Rheinland-Pfalz|49
+Neuburg Peak|-82.633|-52.900|AQ||49|f
+Neuhofer See|53.768|11.657|DE|Mecklenburg-Vorpommern|49|f
+Neumann Peak|-67.065|-67.579|AQ||49|f
+Neumayer Glacier|-54.244|-36.710|GS||49|f
+Neuner, Mount|-75.300|-72.658|AQ||49|f
+Neureut|47.728|11.767|DE|Bavaria|49|f
+Neuteich|46.927|15.430|AT|Styria|49|f
+Neuheilenbach|50.117|6.567|DE|Rheinland-Pfalz|48
+Neusiß|50.745|10.890|DE|Thuringia|48
 Neukirchen bei Lambach|48.100|13.817|AT|Upper Austria|45
+Neugernsdorf|50.717|12.133|DE|Thuringia|44
+Neu Duvenstedt|54.358|9.705|DE|Schleswig-Holstein|44
+Neufelderkoog|53.900|8.967|DE|Schleswig-Holstein|43
+Neunkirchen|49.750|6.950|DE|Rheinland-Pfalz|43
+Neuendorf|50.283|6.467|DE|Rheinland-Pfalz|40
 Neuhaus|46.633|14.883|AT|Carinthia|40
+Neudahn Castle|49.163|7.757|DE|Rheinland-Pfalz|40|f
+Neue Pinakothek|48.150|11.571|DE|Bavaria|40|f
+Neuenburg|51.208|11.775|DE|Saxony-Anhalt|40|f
+Neues Museum Nürnberg|49.448|11.080|DE|Bavaria|40|f
+Neumühler See|53.645|11.336|DE|Mecklenburg-Vorpommern|40|f
+Neunerkofel|46.630|11.981|IT|Trentino-Alto Adige|40|f
 Neuberg an der Mürz|47.664|15.572|AT|Styria|0
+Neuburg|53.945|11.589|DE|Mecklenburg-Vorpommern|0
+Neuenkirchen|54.237|8.992|DE|Schleswig-Holstein|0
+Neuenkirchen|53.777|8.894|DE|Lower Saxony|0
+Neuenkirchen|52.417|7.839|DE|Lower Saxony|0
+Neufra|48.248|9.183|DE|Baden-Wurttemberg|0
+Neuhausen ob Eck|47.973|8.928|DE|Baden-Wurttemberg|0
+Neuhof|51.983|10.050|DE|Lower Saxony|0
 Neuhof|54.116|20.544|PL|Warmia-Masuria|0
+Neukirchen|54.324|11.014|DE|Schleswig-Holstein|0
+Neukirchen vorm Wald|48.683|13.383|DE|Bavaria|0
+Neundeut|-7.261|108.171|ID|West Java|0
+Neunkirchen|49.707|9.402|DE|Bavaria|0
+Neupetershain|51.608|14.165|DE|Brandenburg|0
+Neuschoo|53.577|7.514|DE|Lower Saxony|0
+Neustadt/Harz|51.567|10.833|DE|Thuringia|0

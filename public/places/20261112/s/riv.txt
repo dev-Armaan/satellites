@@ -25,12 +25,14 @@ Riverdale|33.573|-84.413|US|Georgia|84
 River Atuwara|6.682|3.143|NG|Ogun State|84
 River Falls|44.861|-92.624|US|Wisconsin|84
 Rive-de-Gier|45.528|4.616|FR|Auvergne-Rhône-Alpes|83
+Riverside Stadium|54.578|-1.217|GB|England|83|f
 Riverdale|41.633|-87.633|US|Illinois|83
 River Ridge|29.960|-90.216|US|Louisiana|83
 Rivière-Pilote|14.487|-60.903|MQ|Martinique|83
 Riverhead|40.917|-72.662|US|New York|82
 River Gee County|5.317|-7.800|LR||82|r
 Riviera Beach|39.167|-76.508|US|Maryland|82
+Rivne International Airport|50.607|26.142|UA|Rivne Oblast|82|f
 Riverview|42.174|-83.179|US|Michigan|82
 Riverwood|-33.947|151.050|AU|New South Wales|82
 River Edge|40.929|-74.040|US|New Jersey|81
@@ -53,11 +55,14 @@ River Rouge|42.273|-83.134|US|Michigan|78
 River Gbeh|5.212|-7.668|LR|River Gee County|77
 Riverdale Park|38.963|-76.932|US|Maryland|77
 Rivolta d'Adda|45.470|9.513|IT|Lombardy|77
+Riverton Regional Airport|43.064|-108.460|US|Wyoming|77|f
 Riverside|39.173|-76.885|US|Maryland|76
 Riverside|39.474|-76.241|US|Maryland|76
 Riverton|47.484|-122.295|US|Washington|76
+Riverside Municipal Airport|33.952|-117.446|US|California|76|f
 Riviersonderend|-34.150|19.914|ZA|Western Cape|76
 Rives|45.353|5.501|FR|Auvergne-Rhône-Alpes|76
+Rivière-du-Loup Airport|47.764|-69.585|CA|Quebec|75|f
 Riversul|-23.829|-49.433|BR|São Paulo|75
 Rivne|48.243|31.758|UA|Kirovohrad|74
 River Park|27.314|-80.347|US|Florida|74
@@ -70,6 +75,7 @@ Riversdale|18.166|-76.964|JM|Saint Catherine Parish|72
 Riva|38.952|-76.578|US|Maryland|72
 Rivergaro|44.915|9.604|IT|Emilia-Romagna|72
 Riverhead|-36.750|174.600|NZ|Auckland|71
+Rivera International Airport|-30.972|-55.473|UY|Rivera Department|71|f
 Riverwoods|42.168|-87.897|US|Illinois|71
 River Cess|5.457|-9.582|LR|River Cess County|71
 River Cess County|5.917|-9.367|LR||71|r
@@ -106,6 +112,7 @@ River Hills|43.174|-87.924|US|Wisconsin|64
 Rivne|46.018|29.140|UA|Odesa|64
 Riva|44.893|7.382|IT|Piedmont|63
 River Heads|-25.416|152.913|AU|Queensland|63
+River Mountains|36.031|-114.861|US|Nevada|63|f
 Rivotorto|43.044|12.621|IT|Umbria|63
 Rivoni|-24.738|31.030|ZA|Mpumalanga|63
 Riviere-Bleue|47.434|-69.043|CA|Quebec|62
@@ -114,21 +121,114 @@ Rivers|50.031|-100.240|CA|Manitoba|62
 Rivière|50.233|2.692|FR|Hauts-de-France|61
 Rivalta Bormida|44.710|8.552|IT|Piedmont|61
 Riverdale Park|37.610|-121.041|US|California|61
+Rivadavia Airport|-33.228|-68.474|AR|Mendoza|61|f
 Riverside|41.480|-91.581|US|Iowa|60
 Rivière|43.680|-1.152|FR|New Aquitaine|60
+Rivière-Ouelle|47.433|-70.017|CA|Quebec|60
+Riverton|-34.155|138.748|AU|South Australia|60
+Rivière-sur-Tarn|44.188|3.130|FR|Occitanie|60
+Rivera de Guadalupe|20.612|-101.461|MX|Guanajuato|60
+Rivolto-Lonca|45.946|13.024|IT|Friuli Venezia Giulia|60
+Riverdale|36.687|-78.900|US|Virginia|60
+Rivesville|39.530|-80.117|US|West Virginia|59
+Riverton|37.075|-94.705|US|Kansas|59
+Rivnopillya|44.930|33.716|UA|Crimea|59
 Rivarossa|45.250|7.720|IT|Piedmont|59
+Rivne|46.767|31.578|UA|Mykolaiv|59
+Rivarolo|44.904|10.316|IT|Emilia-Romagna|59
+Riverside|43.197|-112.435|US|Idaho|58
+Ríva|36.785|23.080|GR|Peloponnese|58|f
+River Road Covered Bridge|44.956|-72.393|US|Vermont|58|f
+Riverview Airport|42.934|-85.804|US|Michigan|58|f
+Riverglades|-35.099|139.302|AU|South Australia|58
+Rivà|44.931|12.228|IT|Veneto|58
+Rivera Galeana|17.126|-92.783|MX|Chiapas|58
+Riverview|36.935|-82.482|US|Virginia|58
+Rivarola|44.343|9.355|IT|Liguria|58
+Rivarennes|47.267|0.353|FR|Centre-Val de Loire|58
+Riverside|41.789|-112.149|US|Utah|58
+Rivara|44.841|11.169|IT|Emilia-Romagna|58
+Rivières|43.914|1.963|FR|Occitanie|58
 Riva di Solto|45.774|10.039|IT|Lombardy|57
+Rivière-Verte|47.320|-68.143|CA|New Brunswick|57
+Rivera del Carmen (Divina Infantita)|21.183|-101.639|MX|Guanajuato|57
 Rivello|40.078|15.758|IT|Basilicate|57
+Rivenich|49.876|6.845|DE|Rheinland-Pfalz|57
+Rivazzurra|44.042|12.609|IT|Emilia-Romagna|57
+Riviera|27.299|-97.815|US|Texas|57
+Riv|49.083|28.059|UA|Vinnytsia|57
+Riverview|35.003|-80.980|US|South Carolina|57
+Rivera el Viejo Carmen|17.285|-93.274|MX|Chiapas|56
+Rivière|47.146|0.278|FR|Centre-Val de Loire|56
 Rivisondoli|41.870|14.067|IT|Abruzzo|56
 Rive d'Arcano|46.127|13.032|IT|Friuli Venezia Giulia|56
 Rivoli Veronese|45.572|10.812|IT|Veneto|56
+Rivadolmo|45.249|11.644|IT|Veneto|55
+Riverstick|51.772|-8.494|IE|Munster|55
+Riverlea|40.082|-83.025|US|Ohio|55
+Rivière|50.357|4.874|BE|Wallonia|55
+Rivarennes|46.636|1.387|FR|Centre-Val de Loire|55
+Rivermeade|53.453|-6.291|IE|Leinster|55
 Rivalta|45.657|10.893|IT|Veneto|55
+Rivarotta|45.821|13.081|IT|Friuli Venezia Giulia|54
+River Falls|31.353|-86.541|US|Alabama|54
+Rivoira|44.320|7.571|IT|Piedmont|54
+Rivenoskulen|61.735|7.572|NO|Vestland|54|f
+River Island|-51.414|-59.617|FK||54|f
+River Rise Preserve State Park|29.860|-82.605|US|Florida|54|f
+Riverside Airport|37.746|-97.407|US|Kansas|54|f
+Riverside Diversion Dam|31.658|-106.329|US|Texas|54|f
+Riverside Mountains|34.023|-114.541|US|California|54|f
+Rivolet|46.006|4.602|FR|Auvergne-Rhône-Alpes|54
+Riverside|30.853|-95.404|US|Texas|54
+Rivecourt|49.348|2.735|FR|Hauts-de-France|54
 Rive|45.214|8.417|IT|Piedmont|53
 Rivamonte Agordino|46.252|12.023|IT|Veneto|52
+Riveris|49.717|6.767|DE|Rheinland-Pfalz|52
 Rivarone|44.977|8.716|IT|Piedmont|51
 Rivalba|45.117|7.888|IT|Piedmont|50
+Rivard Glacier|-78.067|163.917|AQ||49|f
+Rivas Peaks|-83.580|-54.343|AQ||49|f
+Rivera Peaks|-73.800|-62.833|AQ||49|f
+Riverside Park|-28.869|153.536|AU|New South Wales|49|f
+Riverton Bridge|-32.028|115.908|AU|Western Australia|49|f
+Riverview Park|-28.816|153.268|AU|New South Wales|49|f
+Rivett, Mount|-67.833|66.233|AQ||49|f
+Rivoli Bay|-37.515|140.071|AU|South Australia|49|f
 Rivodutri|42.517|12.856|IT|Lazio|47
 Riva Valdobbia|45.831|7.957|IT|Piedmont|43
+River Lake|44.678|-63.960|CA|Nova Scotia|40|f
+River Lake|45.187|-62.810|CA|Nova Scotia|40|f
+River Park Square|47.660|-117.422|US|Washington|40|f
+River Reservoir|34.032|-109.437|US|Arizona|40|f
+River Road African American Museum|30.101|-90.990|US|Louisiana|40|f
+River Road Provincial Park|50.056|-96.988|CA|Manitoba|40|f
+River Run Ranch Airport|44.338|-121.014|US|Oregon|40|f
+River Safari|1.404|103.794|SG||40|f
+River Street Bridge|42.518|-93.268|US|Iowa|40|f
+River Street Bridge|42.361|-71.117|US|Massachusetts|40|f
+Riverbank Park|40.763|-74.157|US|New Jersey|40|f
+Riverbank State Park|40.826|-73.957|US|New York|40|f
+Riverbanks Zoo|34.009|-81.074|US|South Carolina|40|f
+Riverbend Park|26.934|-80.177|US|Florida|40|f
+Riverfront Park|47.663|-117.418|US|Washington|40|f
+Riverfront Stadium|42.511|-92.354|US|Iowa|40|f
+Rivermead|51.408|-0.398|GB|England|40|f
+Rivers Provincial Park|50.040|-100.196|CA|Manitoba|40|f
+Riverside Art Museum|33.982|-117.373|US|California|40|f
+Riverside Canal|31.559|-106.274|US|Texas|40|f
+Riverside Geyser|44.473|-110.841|US|Wyoming|40|f
+Riverside Park|40.798|-73.975|US|New York|40|f
+Riverside State Park|47.743|-117.535|US|Washington|40|f
+Riverside Swinging Bridge|30.857|-95.396|US|Texas|40|f
+Riverview Farm Park|37.089|-76.531|US|Virginia|40|f
+Riverview Historic District|32.403|-87.031|US|Alabama|40|f
+Riverview Park|41.623|-93.630|US|Iowa|40|f
+Riverview Park|40.481|-80.021|US|Pennsylvania|40|f
+Riverview Ranch Airport|42.934|-123.123|US|Oregon|40|f
+Rives Air Park|32.855|-96.311|US|Texas|40|f
+Riviera Ridge|-78.400|163.700|AQ||40|f
+Rivo Alto Island|25.791|-80.155|US|Florida|40|f
 Rivadavia|-31.532|-68.597|AR|San Juan|0
 Rivadavia|-24.186|-62.885|AR|Salta|0
 Rivilla de Barajas|40.902|-4.988|ES|Castille and León|0

@@ -1,0 +1,569 @@
+Barcelona|41.389|2.159|ES|Catalonia|125
+L'Hospitalet de Llobregat|41.360|2.100|ES|Catalonia|108
+Terrassa|41.567|2.017|ES|Catalonia|107
+Badalona|41.450|2.247|ES|Catalonia|107
+Sabadell|41.543|2.109|ES|Catalonia|107
+Tarragona|41.119|1.245|ES|Catalonia|103
+Lleida|41.617|0.622|ES|Catalonia|103
+Mataró|41.542|2.445|ES|Catalonia|102
+Santa Coloma de Gramenet|41.452|2.208|ES|Catalonia|101
+Reus|41.156|1.107|ES|Catalonia|100
+Cornellà de Llobregat|41.350|2.083|ES|Catalonia|99
+Sant Boi de Llobregat|41.344|2.037|ES|Catalonia|98
+Sant Cugat del Vallès|41.471|2.086|ES|Catalonia|98
+Manresa|41.728|1.824|ES|Catalonia|98
+Rubí|41.492|2.033|ES|Catalonia|97
+Castelldefels|41.278|1.970|ES|Catalonia|96
+Viladecans|41.314|2.014|ES|Catalonia|96
+Vilanova i la Geltrú|41.224|1.725|ES|Catalonia|96
+El Prat de Llobregat|41.328|2.095|ES|Catalonia|96
+Granollers|41.608|2.288|ES|Catalonia|96
+Cerdanyola del Vallès|41.491|2.141|ES|Catalonia|95
+Mollet del Vallès|41.540|2.213|ES|Catalonia|94
+Esplugues de Llobregat|41.377|2.088|ES|Catalonia|93
+Gavà|41.306|2.001|ES|Catalonia|93
+Llefià|41.438|2.220|ES|Catalonia|93
+Sant Feliu de Llobregat|41.383|2.050|ES|Catalonia|93
+Vic|41.930|2.255|ES|Catalonia|92
+Igualada|41.581|1.617|ES|Catalonia|92
+Vilafranca del Penedès|41.346|1.697|ES|Catalonia|92
+Ripollet|41.497|2.157|ES|Catalonia|92
+Sant Adrià de Besòs|41.431|2.219|ES|Catalonia|91
+El Vendrell|41.217|1.533|ES|Catalonia|91
+Tortosa|40.812|0.522|ES|Catalonia|91
+Olot|42.181|2.490|ES|Catalonia|91
+Montcada i Reixac|41.483|2.183|ES|Catalonia|90
+Cambrils|41.070|1.059|ES|Catalonia|90
+Sant Joan Despí|41.367|2.057|ES|Catalonia|90
+Barberà del Vallès|41.516|2.125|ES|Catalonia|90
+Sant Pere de Ribes|41.260|1.774|ES|Catalonia|89
+Vinaròs|40.470|0.476|ES|Valencia|89
+Sant Vicenç dels Horts|41.393|2.007|ES|Catalonia|89
+Martorell|41.474|1.931|ES|Catalonia|89
+Sitges|41.235|1.812|ES|Catalonia|89
+Premià de Mar|41.492|2.365|ES|Catalonia|89
+Salou|41.077|1.142|ES|Catalonia|89
+Benicarló|40.416|0.427|ES|Valencia|89
+Valls|41.286|1.250|ES|Catalonia|88
+Santa Perpètua de Mogoda|41.533|2.183|ES|Catalonia|88
+Calafell|41.200|1.568|ES|Catalonia|88
+Molins de Rei|41.417|2.017|ES|Catalonia|88
+Castellar del Vallès|41.617|2.083|ES|Catalonia|88
+El Masnou|41.480|2.319|ES|Catalonia|87
+Olesa de Montserrat|41.544|1.894|ES|Catalonia|87
+Esparreguera|41.538|1.870|ES|Catalonia|87
+Amposta|40.710|0.579|ES|Catalonia|87
+Vila-seca|41.111|1.148|ES|Catalonia|86
+Vilassar de Mar|41.505|2.392|ES|Catalonia|86
+Manlleu|42.002|2.285|ES|Catalonia|86
+Sant Quirze del Vallès|41.533|2.083|ES|Catalonia|85
+Benicàssim|40.050|0.067|ES|Valencia|85
+Parets del Vallès|41.575|2.233|ES|Catalonia|85
+La Pineda|41.077|1.179|ES|Catalonia|85
+Berga|42.104|1.846|ES|Catalonia|85
+Monzón|41.911|0.194|ES|Aragon|85
+Barbastro|42.036|0.127|ES|Aragon|85
+Caldes de Montbui|41.633|2.167|ES|Catalonia|85
+Sant Celoni|41.689|2.490|ES|Catalonia|85
+Balaguer|41.791|0.811|ES|Catalonia|85
+Cardedeu|41.640|2.357|ES|Catalonia|84
+Tàrrega|41.647|1.140|ES|Catalonia|84
+Canovelles|41.617|2.283|ES|Catalonia|84
+Sant Just Desvern|41.384|2.068|ES|Catalonia|84
+Sant Carles de la Ràpita|40.617|0.600|ES|Catalonia|84
+Montornès del Vallès|41.542|2.267|ES|Catalonia|84
+Piera|41.522|1.751|ES|Catalonia|84
+Torredembarra|41.145|1.399|ES|Catalonia|84
+la Garriga|41.683|2.283|ES|Catalonia|84
+Mollerussa|41.633|0.900|ES|Catalonia|83
+Fraga|41.523|0.349|ES|Aragon|83
+Torelló|42.046|2.267|ES|Catalonia|83
+Lliçà d'Amunt|41.617|2.233|ES|Catalonia|83
+Vallirana|41.387|1.932|ES|Catalonia|83
+Corbera de Llobregat|41.417|1.920|ES|Catalonia|83
+La Llagosta|41.514|2.193|ES|Catalonia|83
+Cubelles|41.208|1.673|ES|Catalonia|83
+Mont-roig del Camp|41.087|0.959|ES|Catalonia|82
+Vilanova del Camí|41.572|1.638|ES|Catalonia|82
+Cunit|41.198|1.636|ES|Catalonia|82
+Sant Sadurní d'Anoia|41.426|1.785|ES|Catalonia|82
+La Seu d'Urgell|42.359|1.461|ES|Catalonia|82
+Castellbisbal|41.475|1.982|ES|Catalonia|82
+Abrera|41.517|1.901|ES|Catalonia|81
+Deltebre|40.719|0.708|ES|Catalonia|81
+Argentona|41.553|2.401|ES|Catalonia|81
+Pallejà|41.424|1.995|ES|Catalonia|81
+Ripoll|42.201|2.190|ES|Catalonia|81
+Sant Andreu de Llavaneres|41.567|2.483|ES|Catalonia|81
+Sant Joan de Vilatorrada|41.745|1.805|ES|Catalonia|81
+Premià de Dalt|41.500|2.350|ES|Catalonia|80
+Montgat|41.469|2.280|ES|Catalonia|80
+La Roca del Vallès|41.583|2.333|ES|Catalonia|80
+Alcanar|40.543|0.481|ES|Catalonia|79
+Binéfar|41.851|0.294|ES|Aragon|79
+Alella|41.494|2.295|ES|Catalonia|79
+Puigcerdà|42.432|1.928|ES|Catalonia|79
+Oropesa del Mar|40.091|0.141|ES|Valencia|79
+Sant Cristòfol de les Fonts|42.170|2.499|ES|Catalonia|79
+Montmeló|41.550|2.242|ES|Catalonia|79
+Cervera|41.670|1.272|ES|Catalonia|79
+Solsona|41.994|1.517|ES|Catalonia|78
+Sant Vicenç de Castellet|41.667|1.867|ES|Catalonia|78
+Sant Julià de Lòria|42.464|1.491|AD|Sant Julià de Loria|78
+Matadepera|41.599|2.026|ES|Catalonia|78
+Santa Maria de Palautordera|41.694|2.446|ES|Catalonia|78
+Castellet|41.263|1.634|ES|Catalonia|78
+Sentmenat|41.609|2.135|ES|Catalonia|78
+Peníscola|40.357|0.407|ES|Valencia|77
+Centelles|41.797|2.219|ES|Catalonia|77
+Guissona|41.783|1.300|ES|Catalonia|77
+Cabrils|41.528|2.370|ES|Catalonia|77
+L'Ametlla del Vallès|41.667|2.267|ES|Catalonia|77
+Bigues i Riells|41.683|2.233|ES|Catalonia|77
+Cervelló|41.396|1.959|ES|Catalonia|77
+Masquefa|41.504|1.811|ES|Catalonia|77
+Sallent|41.826|1.895|ES|Catalonia|77
+Santa Coloma de Cervelló|41.367|2.014|ES|Catalonia|77
+Tiana|41.482|2.267|ES|Catalonia|77
+Tona|41.848|2.228|ES|Catalonia|77
+Montblanc|41.376|1.162|ES|Catalonia|76
+Alcalà de Xivert|40.300|0.233|ES|Valencia|76
+Ulldecona|40.597|0.447|ES|Catalonia|76
+Alpicat|41.666|0.556|ES|Catalonia|76
+Súria|41.833|1.750|ES|Catalonia|76
+Polinyà|41.550|2.150|ES|Catalonia|76
+Torrelles de Llobregat|41.350|1.983|ES|Catalonia|75
+La Canonja|41.121|1.181|ES|Catalonia|75
+Santa Eulàlia de Ronçana|41.650|2.233|ES|Catalonia|75
+Teià|41.498|2.322|ES|Catalonia|75
+Gelida|41.433|1.867|ES|Catalonia|75
+Navàs|41.900|1.878|ES|Catalonia|75
+Riudoms|41.133|1.050|ES|Catalonia|75
+Móra d'Ebre|41.083|0.633|ES|Catalonia|75
+Artés|41.798|1.954|ES|Catalonia|75
+Tremp|42.167|0.895|ES|Catalonia|75
+Torreblanca|40.220|0.197|ES|Valencia|75
+Almacelles|41.732|0.437|ES|Catalonia|75
+Constantí|41.154|1.213|ES|Catalonia|75
+Taradell|41.875|2.287|ES|Catalonia|75
+Navarcles|41.752|1.904|ES|Catalonia|75
+Begues|41.333|1.933|ES|Catalonia|75
+Agramunt|41.787|1.097|ES|Catalonia|75
+Dosrius|41.583|2.417|ES|Catalonia|74
+Cardona|41.914|1.679|ES|Catalonia|74
+Capellades|41.530|1.687|ES|Catalonia|74
+Alcarràs|41.567|0.517|ES|Catalonia|74
+Moià|41.811|2.098|ES|Catalonia|74
+Alcocéber|40.251|0.284|ES|Valencia|74
+Gironella|42.034|1.880|ES|Catalonia|74
+La Selva del Camp|41.215|1.139|ES|Catalonia|74
+Roda de Barà|41.186|1.459|ES|Catalonia|73
+Collbató|41.570|1.827|ES|Catalonia|73
+Alcover|41.263|1.170|ES|Catalonia|73
+Bellpuig|41.626|1.011|ES|Catalonia|73
+Coma-ruga|41.180|1.525|ES|Catalonia|72
+Cabrera de Mar|41.517|2.400|ES|Catalonia|72
+els Pallaresos|41.175|1.271|ES|Catalonia|72
+Altafulla|41.143|1.373|ES|Catalonia|72
+Flix|41.231|0.550|ES|Catalonia|72
+Santa Bárbara|40.715|0.493|ES|Catalonia|71
+Artesa de Segre|41.895|1.046|ES|Catalonia|71
+Tamarit de Llitera / Tamarite de Litera|41.869|0.422|ES|Aragon|71
+Sant Joan de les Abadesses|42.233|2.285|ES|Catalonia|71
+Almenar|41.796|0.568|ES|Catalonia|71
+Seva|41.838|2.280|ES|Catalonia|71
+Graus|42.189|0.337|ES|Aragon|71
+Campdevànol|42.224|2.169|ES|Catalonia|70
+Alfarràs|41.817|0.583|ES|Catalonia|70
+Calaf|41.733|1.514|ES|Catalonia|70
+Rosselló|41.694|0.595|ES|Catalonia|70
+Santa Coloma|42.495|1.499|AD|Andorra la Vella|70
+Balsareny|41.863|1.874|ES|Catalonia|70
+Sant Salvador de Guardiola|41.683|1.767|ES|Catalonia|70
+Sant Martí Sarroca|41.386|1.611|ES|Catalonia|70
+Juneda|41.548|0.825|ES|Catalonia|70
+Monistrol de Montserrat|41.617|1.850|ES|Catalonia|70
+Gandesa|41.054|0.439|ES|Catalonia|69
+Alguaire|41.737|0.585|ES|Catalonia|69
+Òdena|41.600|1.650|ES|Catalonia|69
+El Perelló|40.874|0.711|ES|Catalonia|69
+Subirats|41.400|1.833|ES|Catalonia|69
+Santa Oliva|41.254|1.551|ES|Catalonia|69
+Falset|41.146|0.820|ES|Catalonia|69
+Cabanes|40.156|0.043|ES|Valencia|68
+Linyola|41.700|0.917|ES|Catalonia|68
+Creixell|41.166|1.440|ES|Catalonia|68
+Mequinensa / Mequinenza|41.372|0.302|ES|Aragon|68
+L'Ampolla|40.812|0.710|ES|Catalonia|68
+Camprodon|42.312|2.365|ES|Catalonia|68
+Cànoves i Samalús|41.683|2.350|ES|Catalonia|68
+El Pla de Santa Maria|41.363|1.292|ES|Catalonia|67
+Ponts|41.916|1.185|ES|Catalonia|67
+Aiguafreda|41.768|2.251|ES|Catalonia|67
+Aitona|41.483|0.467|ES|Catalonia|67
+Sant Pere de Torelló|42.083|2.300|ES|Catalonia|67
+Torrefarrera|41.673|0.607|ES|Catalonia|67
+Olivella|41.317|1.817|ES|Catalonia|67
+Bellvís|41.673|0.818|ES|Catalonia|67
+el Pont de Suert|42.408|0.742|ES|Catalonia|67
+Gurb|41.954|2.235|ES|Catalonia|67
+Bagà|42.253|1.861|ES|Catalonia|67
+La Pobla de Claramunt|41.554|1.677|ES|Catalonia|67
+L'Esquirol|42.033|2.367|ES|Catalonia|67
+Sort|42.413|1.130|ES|Catalonia|67
+Sant Pere de Riudebitlles|41.450|1.700|ES|Catalonia|66
+Avinyó|41.864|1.971|ES|Catalonia|66
+Batea|41.094|0.311|ES|Catalonia|66
+Valderrobres|40.872|0.154|ES|Aragon|66
+Arbeca|41.542|0.925|ES|Catalonia|66
+Alcoletge|41.648|0.694|ES|Catalonia|66
+Santa Eugènia de Berga|41.900|2.283|ES|Catalonia|66
+Ribes de Freser|42.304|2.168|ES|Catalonia|66
+Maella|41.123|0.139|ES|Aragon|66
+Torres de Segre|41.534|0.514|ES|Catalonia|66
+Sant Joan de Mediona|41.479|1.612|ES|Catalonia|66
+Vallfogona de Balaguer|41.752|0.814|ES|Catalonia|66
+Seròs|41.467|0.417|ES|Catalonia|65
+Mediona|41.478|1.612|ES|Catalonia|65
+les Borges del Camp|41.167|1.017|ES|Catalonia|65
+Cuevas de Vinromá|40.310|0.121|ES|Valencia|65
+Bellver de Cerdanya|42.367|1.783|ES|Catalonia|65
+Oliana|42.069|1.314|ES|Catalonia|65
+Zaidín|41.604|0.264|ES|Aragon|65
+Alp|42.373|1.887|ES|Catalonia|65
+Osséja|42.414|1.982|FR|Occitanie|64
+Càlig|40.463|0.355|ES|Valencia|64
+Ascó|41.183|0.567|ES|Catalonia|64
+Binaced|41.826|0.201|ES|Aragon|64
+Soses|41.533|0.483|ES|Catalonia|64
+La Granada|41.378|1.719|ES|Catalonia|64
+Llívia|42.465|1.981|ES|Catalonia|64
+Albesa|41.753|0.659|ES|Catalonia|64
+Éller|42.416|1.792|ES|Catalonia|64
+Traiguera|40.525|0.290|ES|Valencia|64
+Les Cases d'Alcanar|40.554|0.530|ES|Catalonia|64
+Aínsa|42.415|0.140|ES|Aragon|64
+Alforja|41.211|0.975|ES|Catalonia|63
+Térmens|41.717|0.767|ES|Catalonia|63
+Ullastrell|41.526|1.955|ES|Catalonia|63
+el Torricó / Altorricon|41.803|0.414|ES|Aragon|63
+Golmés|41.634|0.931|ES|Catalonia|63
+Sant Esteve d'en Bas|42.118|2.457|ES|Catalonia|63
+Corbins|41.683|0.700|ES|Catalonia|63
+Vallmoll|41.243|1.249|ES|Catalonia|63
+la Pobla de Mafumet|41.183|1.217|ES|Catalonia|63
+Olesa de Bonesvalls|41.354|1.849|ES|Catalonia|63
+Belver de Cinca|41.693|0.178|ES|Aragon|63
+Castellví de Rosanes|41.450|1.900|ES|Catalonia|62
+Anglesola|41.656|1.083|ES|Catalonia|62
+Miralcamp|41.605|0.880|ES|Catalonia|62
+Alcolea de Cinca|41.719|0.117|ES|Aragon|62
+Torà de Riubregós|41.817|1.400|ES|Catalonia|62
+Fonollosa|41.763|1.669|ES|Catalonia|62
+La Fuliola|41.714|1.017|ES|Catalonia|62
+Albocàsser|40.350|0.033|ES|Valencia|62
+Bellcaire d'Urgell|41.750|0.917|ES|Catalonia|62
+Sant Julià de Cerdanyola|42.224|1.893|ES|Catalonia|62
+la Guingueta d'Ix|42.434|1.944|FR|Occitanie|62
+Prats de Molló|42.404|2.479|FR|Occitanie|62
+Fabara|41.178|0.169|ES|Aragon|61
+Olost|41.985|2.095|ES|Catalonia|61
+Albalate de Cinca|41.725|0.152|ES|Aragon|61
+La Secuita|41.205|1.280|ES|Catalonia|61
+Calaceite|41.016|0.189|ES|Aragon|61
+Vilanova de Bellpuig|41.614|0.964|ES|Catalonia|61
+Castellserà|41.750|1.000|ES|Catalonia|61
+Alàs i Cerc|42.350|1.517|ES|Catalonia|61
+Benavarri / Benabarre|42.106|0.482|ES|Aragon|61
+Riudecols|41.169|0.976|ES|Catalonia|61
+Almoster|41.198|1.112|ES|Catalonia|61
+Verdú|41.611|1.143|ES|Catalonia|60
+Fonz|42.010|0.259|ES|Aragon|60
+Santa Maria d'Oló|41.867|2.033|ES|Catalonia|60
+Aixirivall|42.462|1.502|AD|Sant Julià de Loria|60
+Nonaspe|41.209|0.248|ES|Aragon|60
+Vimbodí|41.401|1.051|ES|Catalonia|60
+Ballobar|41.621|0.192|ES|Aragon|60
+Figaró|41.721|2.273|ES|Catalonia|60
+Masdenverge|40.716|0.530|ES|Catalonia|60
+Toloriu|42.362|1.628|ES|Catalonia|60
+Viladrau|41.847|2.390|ES|Catalonia|60
+Torrent de Cinca / Torrente de Cinca|41.474|0.335|ES|Aragon|60
+Cornudella de Montsant|41.266|0.905|ES|Catalonia|60
+Ginestar|41.042|0.633|ES|Catalonia|60
+Rosell|40.618|0.221|ES|Valencia|60
+Castelldans|41.500|0.767|ES|Catalonia|60
+Vilanova de Segrià|41.717|0.617|ES|Catalonia|60
+Botarell|41.136|0.989|ES|Catalonia|59
+Camarasa|41.875|0.878|ES|Catalonia|59
+Saillagouse|42.459|2.039|FR|Occitanie|59
+Canet lo Roig|40.551|0.243|ES|Valencia|59
+Sant Maurici de la Quar|42.083|1.967|ES|Catalonia|59
+Sant Martí de Centelles|41.766|2.206|ES|Catalonia|59
+Boltaña|42.446|0.068|ES|Aragon|59
+Chert/Xert|40.519|0.158|ES|Valencia|59
+Sant Privat d'en Bas|42.150|2.409|ES|Catalonia|59
+Albelda|41.865|0.460|ES|Aragon|59
+La Llacuna|41.471|1.532|ES|Catalonia|59
+Rasquera|41.003|0.600|ES|Catalonia|59
+Tivenys|40.908|0.512|ES|Catalonia|59
+Santa Eulàlia de Riuprimer|41.911|2.189|ES|Catalonia|59
+Catí|40.472|0.023|ES|Valencia|59
+Benlloch|40.211|0.027|ES|Valencia|58
+Menàrguens|41.733|0.750|ES|Catalonia|58
+Santa Magdalena de Pulpis|40.356|0.303|ES|Valencia|58
+Barbens|41.678|1.017|ES|Catalonia|58
+Aldover|40.880|0.500|ES|Catalonia|58
+Estadilla|42.057|0.243|ES|Aragon|58
+el Campell / Alcampell|41.906|0.432|ES|Aragon|58
+Calders|41.789|1.987|ES|Catalonia|58
+Tornabous|41.701|1.054|ES|Catalonia|58
+Salsadella|40.418|0.175|ES|Valencia|58
+Sudanell|41.557|0.567|ES|Catalonia|58
+Benifallet|40.974|0.518|ES|Catalonia|58
+Os de Balaguer|41.873|0.720|ES|Catalonia|58
+Miravet|41.039|0.597|ES|Catalonia|58
+Montgai|41.800|0.967|ES|Catalonia|58
+la Granadella|41.350|0.667|ES|Catalonia|58
+La Galera|40.681|0.463|ES|Catalonia|58
+Perafort|41.192|1.256|ES|Catalonia|58
+Vilabella|41.248|1.330|ES|Catalonia|58
+Bot|41.009|0.384|ES|Catalonia|58
+Puigpelat|41.279|1.297|ES|Catalonia|58
+Osso de Cinca|41.666|0.191|ES|Aragon|58
+Fondarella|41.635|0.873|ES|Catalonia|58
+Godall|40.655|0.469|ES|Catalonia|57
+Esplús|41.799|0.276|ES|Aragon|57
+Carme|41.532|1.621|ES|Catalonia|57
+Castellnou de Seana|41.648|0.971|ES|Catalonia|57
+Aiguamúrcia|41.333|1.367|ES|Catalonia|57
+Monistrol de Calders|41.760|2.017|ES|Catalonia|57
+Enveig|42.461|1.913|FR|Occitanie|57
+Mas de Barberans|40.733|0.367|ES|Catalonia|57
+Pratdip|41.052|0.871|ES|Catalonia|57
+La Riba|41.320|1.175|ES|Catalonia|57
+Jorba|41.602|1.548|ES|Catalonia|56
+Angostrina|42.483|1.959|FR|Occitanie|56
+Sant Jordi|40.510|0.332|ES|Valencia|56
+Olius|42.010|1.565|ES|Catalonia|56
+Cervera del Maestre|40.454|0.277|ES|Valencia|56
+Sant Pau de Segúries|42.261|2.366|ES|Catalonia|56
+Sant Pere Molanta|41.348|1.740|ES|Catalonia|56
+Bràfim|41.267|1.333|ES|Catalonia|56
+les Preses|42.145|2.460|ES|Catalonia|56
+Ontiñena|41.677|0.089|ES|Aragon|56
+Belianes|41.560|1.016|ES|Catalonia|56
+Err|42.442|2.033|FR|Occitanie|56
+Paüls|40.917|0.400|ES|Catalonia|56
+Coll de Nargó|42.175|1.317|ES|Catalonia|56
+Beseit / Beceite|40.832|0.183|ES|Aragon|56
+El Grado|42.151|0.223|ES|Aragon|56
+Oristà|41.933|2.067|ES|Catalonia|55
+Tirig|40.423|0.078|ES|Valencia|55
+Vilaller|42.476|0.717|ES|Catalonia|55
+Mazaleón|41.051|0.103|ES|Aragon|55
+Vinaixa|41.433|0.983|ES|Catalonia|55
+Llardecáns|41.374|0.550|ES|Catalonia|55
+Cretas|40.928|0.212|ES|Aragon|55
+Vilaplana|41.228|1.033|ES|Catalonia|55
+la Canya|42.205|2.497|ES|Catalonia|55
+San Esteban de Litera (Sant Esteve de Llitera)|41.905|0.327|ES|Aragon|55
+Castellcir|41.761|2.161|ES|Catalonia|55
+Maspujols|41.182|1.045|ES|Catalonia|54
+Peñarroya de Tastavíns|40.756|0.040|ES|Aragon|54
+Arnes|40.910|0.261|ES|Catalonia|54
+Palau-de-Cerdagne|42.415|1.968|FR|Occitanie|54
+Preixens|41.796|1.051|ES|Catalonia|54
+Sant Rafel del Maestrat|40.600|0.350|ES|Valencia|54
+Porrera|41.189|0.856|ES|Catalonia|54
+Àger|42.000|0.767|ES|Catalonia|54
+Rajadell|41.728|1.706|ES|Catalonia|54
+Garcia|41.133|0.650|ES|Catalonia|54
+Algerri|41.815|0.636|ES|Catalonia|54
+Ulldemolins|41.322|0.876|ES|Catalonia|53
+Castellolí|41.598|1.701|ES|Catalonia|53
+Bonastre|41.220|1.439|ES|Catalonia|53
+Candasnos|41.502|0.064|ES|Aragon|53
+Vinebre|41.185|0.589|ES|Catalonia|53
+Castejón del Puente|41.962|0.159|ES|Aragon|53
+Valjunquera|40.953|0.026|ES|Aragon|52
+Fayón|41.239|0.333|ES|Aragon|52
+Alió|41.294|1.306|ES|Catalonia|52
+Cubells|41.851|0.959|ES|Catalonia|52
+Capella|42.196|0.396|ES|Aragon|52
+Fuentespalda|40.807|0.065|ES|Aragon|52
+Guimerà|41.565|1.185|ES|Catalonia|51
+Salas Altas|42.114|0.068|ES|Aragon|51
+Campins|41.717|2.467|ES|Catalonia|51
+Valdeltormo|40.987|0.083|ES|Aragon|51
+Vilanova de Sau|41.947|2.384|ES|Catalonia|51
+Salomó|41.230|1.374|ES|Catalonia|51
+Querol|41.423|1.397|ES|Catalonia|50
+Pueyo de Santa Cruz|41.858|0.157|ES|Aragon|50
+Alfés|41.521|0.621|ES|Catalonia|50
+Collsuspina|41.826|2.175|ES|Catalonia|50
+Alquézar|42.173|0.026|ES|Aragon|50
+Òrrius|41.550|2.350|ES|Catalonia|50
+Naval|42.195|0.152|ES|Aragon|49
+Aspa|41.495|0.673|ES|Catalonia|49
+Laspaúles|42.471|0.597|ES|Aragon|49
+Tagamanent|41.737|2.267|ES|Catalonia|48
+Bisaurri|42.497|0.506|ES|Aragon|48
+Ilche|41.957|0.057|ES|Aragon|48
+Ciutadilla|41.561|1.139|ES|Catalonia|48
+Alcanó|41.481|0.617|ES|Catalonia|48
+Pozán de Vero|42.082|0.031|ES|Aragon|48
+Montferri|41.265|1.365|ES|Catalonia|48
+Lles de Cerdanya|42.390|1.687|ES|Catalonia|47
+Aguilar de Segarra|41.748|1.629|ES|Catalonia|47
+Castillazuelo|42.068|0.065|ES|Aragon|47
+Arenys de Lledó / Arens de Lledó|40.992|0.271|ES|Aragon|47
+Camporrells|41.959|0.521|ES|Aragon|47
+Gósol|42.237|1.660|ES|Catalonia|47
+Ossó de Sió|41.755|1.159|ES|Catalonia|47
+Gallifa|41.692|2.113|ES|Catalonia|47
+Santa Cecília de Voltregà|42.000|2.233|ES|Catalonia|46
+Mura|41.699|1.976|ES|Catalonia|46
+Orpí|41.519|1.575|ES|Catalonia|46
+Estada|42.072|0.232|ES|Aragon|46
+Pujalt|41.717|1.421|ES|Catalonia|46
+Colldejou|41.100|0.887|ES|Catalonia|46
+Abella de la Conca|42.162|1.092|ES|Catalonia|46
+Lledó|40.955|0.277|ES|Aragon|45
+Llimiana|42.075|0.916|ES|Catalonia|45
+Ráfales|40.838|0.019|ES|Aragon|45
+Seira|42.477|0.431|ES|Aragon|44
+Vilanova de Prades|41.349|0.957|ES|Catalonia|44
+Torre del Compte|40.936|0.109|ES|Aragon|44
+Vidrà|42.123|2.310|ES|Catalonia|44
+Labuerda|42.452|0.136|ES|Aragon|44
+la Morera de Montsant|41.265|0.842|ES|Catalonia|44
+Salas Bajas|42.100|0.083|ES|Aragon|44
+Chalamera|41.666|0.163|ES|Aragon|44
+Tavertet|41.996|2.419|ES|Catalonia|44
+Lascuarre|42.196|0.520|ES|Aragon|43
+Secastilla|42.181|0.267|ES|Aragon|43
+Sagàs|42.050|1.967|ES|Catalonia|43
+Colungo|42.171|0.068|ES|Aragon|42
+Abizanda|42.242|0.197|ES|Aragon|42
+Margalef|41.285|0.753|ES|Catalonia|42
+Alfántega|41.828|0.148|ES|Aragon|41
+Castigaleu|42.204|0.579|ES|Aragon|41
+Talamanca|41.737|1.978|ES|Catalonia|41
+Fulleda|41.463|1.024|ES|Catalonia|41
+Vallclara|41.380|0.983|ES|Catalonia|41
+Bonansa|42.427|0.667|ES|Aragon|41
+Farrera|42.497|1.272|ES|Catalonia|40
+Renau|41.224|1.311|ES|Catalonia|40
+Bárcabo|42.242|0.069|ES|Aragon|40
+Sarratella|40.313|0.032|ES|Valencia|39
+Bellprat|41.517|1.433|ES|Catalonia|39
+Vallibona|40.603|0.046|ES|Valencia|38
+Granera|41.727|2.059|ES|Catalonia|38
+Tiurana|41.975|1.256|ES|Catalonia|32
+Palo|42.323|0.244|ES|Aragon|29
+Castell de Cabres|40.661|0.042|ES|Valencia|26
+Albinyana|41.250|1.483|ES|Catalonia|0
+Alpens|42.119|2.101|ES|Catalonia|0
+Areny de Noguera / Arén|42.258|0.721|ES|Aragon|0
+Argensola|41.598|1.445|ES|Catalonia|0
+Avià|42.067|1.850|ES|Catalonia|0
+Avinyonet del Penedès|41.350|1.783|ES|Catalonia|0
+Baells|41.953|0.460|ES|Aragon|0
+Beranuy|42.367|0.594|ES|Aragon|0
+Blancafort|41.437|1.160|ES|Catalonia|0
+Bolvir|42.418|1.880|ES|Catalonia|0
+Borredà|42.136|1.994|ES|Catalonia|0
+Bovera|41.317|0.650|ES|Catalonia|0
+Cabra del Camp|41.400|1.283|ES|Catalonia|0
+Callús|41.781|1.784|ES|Catalonia|0
+Camarles|40.782|0.655|ES|Catalonia|0
+Campo|42.410|0.396|ES|Aragon|0
+Capafonts|41.300|1.033|ES|Catalonia|0
+Capolat|42.077|1.754|ES|Catalonia|0
+Caseres|41.033|0.250|ES|Catalonia|0
+Castellar del Riu|42.123|1.774|ES|Catalonia|0
+Castellfollit de Riubregós|41.767|1.433|ES|Catalonia|0
+Castellfollit del Boix|41.667|1.700|ES|Catalonia|0
+Castellnou de Bages|41.834|1.837|ES|Catalonia|0
+Castelló de Farfanya|41.817|0.733|ES|Catalonia|0
+Castellterçol|41.750|2.117|ES|Catalonia|0
+Conesa|41.517|1.300|ES|Catalonia|0
+Das|42.361|1.871|ES|Catalonia|0
+Duesaigües|41.150|0.933|ES|Catalonia|0
+el Catllar|41.167|1.317|ES|Catalonia|0
+el Cogul|41.467|0.683|ES|Catalonia|0
+el Masroig|41.133|0.733|ES|Catalonia|0
+el Pla del Penedès|41.417|1.717|ES|Catalonia|0
+el Poal|41.683|0.867|ES|Catalonia|0
+el Pont de Bar|42.371|1.605|ES|Catalonia|0
+Fogars de Montclús|41.733|2.450|ES|Catalonia|0
+Font-Rubí|41.434|1.591|ES|Catalonia|0
+Fontscaldes|41.332|1.232|ES|Catalonia|0
+Forès|41.483|1.233|ES|Catalonia|0
+Ger|42.411|1.845|ES|Catalonia|0
+Guardiola de Berguedà|42.235|1.877|ES|Catalonia|0
+Guils de Cerdanya|42.447|1.880|ES|Catalonia|0
+Horta de Sant Joan|40.950|0.317|ES|Catalonia|0
+Isòvol|42.378|1.818|ES|Catalonia|0
+Ivars d'Urgell|41.680|0.987|ES|Catalonia|0
+Ivorra|41.767|1.400|ES|Catalonia|0
+Juncosa|41.370|0.776|ES|Catalonia|0
+l'Ametlla de Mar|40.900|0.800|ES|Catalonia|0
+la Bisbal del Penedès|41.283|1.483|ES|Catalonia|0
+la Fatarella|41.167|0.483|ES|Catalonia|0
+la Granja d'Escarp|41.417|0.367|ES|Catalonia|0
+la Pobla de Massaluca|41.183|0.350|ES|Catalonia|0
+Les Franqueses del Vallès|41.619|2.298|ES|Catalonia|0
+les Llosses|42.150|2.117|ES|Catalonia|0
+Lliçà de Vall|41.591|2.241|ES|Catalonia|0
+Llinars del Vallès|41.633|2.400|ES|Catalonia|0
+Maials|41.367|0.500|ES|Catalonia|0
+Meranges|42.445|1.788|ES|Catalonia|0
+Mont-ral|41.283|1.100|ES|Catalonia|0
+Montesquiu|42.117|2.217|ES|Catalonia|0
+Muntanyola|41.883|2.183|ES|Catalonia|0
+Nalec|41.550|1.117|ES|Catalonia|0
+Olvan|42.067|1.900|ES|Catalonia|0
+Orís|42.060|2.221|ES|Catalonia|0
+Penelles|41.750|0.967|ES|Catalonia|0
+Planoles|42.317|2.100|ES|Catalonia|0
+Pontils|41.477|1.388|ES|Catalonia|0
+Prades|41.310|0.989|ES|Catalonia|0
+Prats de Lluçanès|42.017|2.033|ES|Catalonia|0
+Puig-reig|41.967|1.883|ES|Catalonia|0
+Riu de Cerdanya|42.345|1.826|ES|Catalonia|0
+Riudecanyes|41.133|0.967|ES|Catalonia|0
+Saldes|42.233|1.733|ES|Catalonia|0
+Sant Boi de Lluçanès|42.050|2.150|ES|Catalonia|0
+Sant Feliu de Codines|41.700|2.167|ES|Catalonia|0
+Sant Feliu Sasserra|41.950|2.033|ES|Catalonia|0
+Sant Fruitós de Bages|41.750|1.867|ES|Catalonia|0
+Sant Guim de Freixenet|41.656|1.420|ES|Catalonia|0
+Sant Jaume dels Domenys|41.300|1.567|ES|Catalonia|0
+Sant Julià de Vilatorta|41.922|2.324|ES|Catalonia|0
+Sant Llorenç d'Hortons|41.467|1.833|ES|Catalonia|0
+Sant Martí de Tous|41.550|1.517|ES|Catalonia|0
+Sant Pere de Vilamajor|41.683|2.383|ES|Catalonia|0
+Sant Quirze Safaja|41.733|2.150|ES|Catalonia|0
+Santa Coloma de Queralt|41.533|1.383|ES|Catalonia|0
+Santpedor|41.783|1.847|ES|Catalonia|0
+Senan|41.470|1.085|ES|Catalonia|0
+Senterada|42.325|0.936|ES|Catalonia|0
+Sidamon|41.633|0.833|ES|Catalonia|0
+Sopeira|42.316|0.746|ES|Aragon|0
+Sora|42.112|2.161|ES|Catalonia|0
+Sunyer|41.523|0.592|ES|Catalonia|0
+Tivissa|41.033|0.733|ES|Catalonia|0
+Torrebesses|41.433|0.600|ES|Catalonia|0
+Toses|42.322|2.016|ES|Catalonia|0
+Urús|42.351|1.853|ES|Catalonia|0
+Vallbona de les Monges|41.526|1.089|ES|Catalonia|0
+Vallcebre|42.203|1.818|ES|Catalonia|0
+Vallfogona de Riucorb|41.563|1.237|ES|Catalonia|0
+Vallromanes|41.533|2.300|ES|Catalonia|0
+Vilada|42.137|1.932|ES|Catalonia|0
+Viladecavalls|41.550|1.950|ES|Catalonia|0
+Vilalba dels Arcs|41.117|0.417|ES|Catalonia|0
+Vilanova d'Escornalbou|41.117|0.933|ES|Catalonia|0
+Vilobí del Penedès|41.383|1.650|ES|Catalonia|0

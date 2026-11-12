@@ -21,6 +21,7 @@ Budapest XIX. kerület|47.453|19.149|HU|Budapest|96
 Budapest XII. kerület|47.492|19.015|HU|Budapest|95
 Budapest XXII. kerület|47.427|19.040|HU|Budapest|94
 Buduran|-7.428|112.723|ID|East Java|94
+Buda Castle|47.496|19.040|HU|Budapest|93|f
 Budapest VI. kerület|47.504|19.066|HU|Budapest|92
 Budhāna|29.288|77.475|IN|Uttar Pradesh|91
 Budaka|1.004|33.926|UG|Eastern Region|89
@@ -48,6 +49,8 @@ Budrio|44.537|11.534|IT|Emilia-Romagna|79
 Budenheim|50.017|8.167|DE|Rheinland-Pfalz|79
 Buda-Kashalyova|52.717|30.568|BY|Homyel’ Voblasc’|79
 Budel|51.272|5.575|NL|North Brabant|78
+Budapest Ferenc Liszt International Airport|47.437|19.256|HU|Budapest|78|f
+Budatskyi Lyman|45.995|30.351|UA|Odesa|78|f
 Bude|50.824|-4.541|GB|England|77
 Budy|49.891|36.021|UA|Kharkiv|77
 Budhapanka|20.858|85.242|IN|Odisha|76
@@ -66,6 +69,7 @@ Buda|45.500|26.900|RO|Buzău County|70
 Budišov nad Budišovkou|49.795|17.630|CZ|Moravian-Silesian Region|70
 Büddenstedt|52.170|11.019|DE|Lower Saxony|70
 Budacu de Jos|47.083|24.517|RO|Bistrița-Năsăud County|69
+Budzyń Concentration Camp|52.894|16.919|PL|Greater Poland|69|f
 Budureasa|46.674|22.501|RO|Bihor County|68
 Budingen|50.865|5.098|BE|Flanders|68
 Budmerice|48.358|17.407|SK|Bratislava Region|68
@@ -85,6 +89,7 @@ Budacu de Sus|47.061|24.658|RO|Bistrița-Năsăud County|64
 Budschop|51.285|5.759|NL|Limburg|64
 Budzhak|46.302|29.240|UA|Odesa|64
 Budel-Dorplein|51.237|5.588|NL|North Brabant|64
+Budai-hegység|47.550|18.883|HU|Budapest|63|f
 Buda|48.308|26.027|UA|Chernivtsi|63
 Budeni|47.414|26.659|RO|Suceava|63
 Budrus|31.967|34.994|PS|West Bank|63
@@ -98,16 +103,72 @@ Budhikhamari|22.092|86.493|IN|Odisha|61
 Budišov|49.271|16.004|CZ|Vysocina|61
 Buda|44.824|26.185|RO|Prahova|61
 Buda|47.403|26.678|RO|Iași County|61
+Budapest City Park|47.514|19.085|HU|Pest County|61|f
 Budrovci|45.271|18.449|HR|County of Osijek-Baranja|61
 Budzów|50.593|16.710|PL|Lower Silesia|61
 Budăi|47.218|27.223|RO|Iași County|61
 Budești|46.941|26.712|RO|Neamț County|61
 Bude|31.463|-90.850|US|Mississippi|60
 Budakalász|47.617|19.050|HU|Pest County|60
+Buda Crăciunești|45.181|26.384|RO|Buzău County|60
+Buda|47.845|26.261|RO|Suceava|60
+Budeni|44.191|26.115|RO|Giurgiu County|60
 Budziszewice|51.667|19.936|PL|Łódź Voivodeship|59
+Budziska|50.203|18.279|PL|Silesia|59
+Budanje|45.875|13.948|SI|Municipality of Ajdovščina|58
+Budrio|44.751|10.741|IT|Emilia-Romagna|58
+Budapest Ghetto|47.467|19.050|HU|Budapest|58|f
+Buddenbrock Range|-71.867|5.417|AQ||58|f
+Büdel Islands|-65.779|-65.627|AQ||58|f
+Budíškovice|49.076|15.531|CZ|South Bohemian Region|58
+Budzistowo|54.160|15.582|PL|West Pomerania|58
+Budulan|50.557|114.913|RU|Zabaykalskiy (Transbaikal) Kray|58
+Bud|62.907|6.914|NO|Møre og Romsdal|58
+Budrione|44.816|10.859|IT|Emilia-Romagna|58
+Budelière|46.220|2.468|FR|New Aquitaine|58
+Budieni|45.017|23.403|RO|Gorj County|57
+Budsław|54.798|27.413|BY|Minsk|57
+Buduhala|44.984|23.129|RO|Gorj County|57
+Budrie|44.591|11.182|IT|Emilia-Romagna|57
+Buda|47.369|26.170|RO|Suceava|57
+Budos|44.534|-0.386|FR|New Aquitaine|56
+Büdesheim|50.217|6.550|DE|Rheinland-Pfalz|56
+Buda|46.132|27.303|RO|Vrancea|56
+Budeasa Mare|44.926|24.827|RO|Arges|56
+Budaklı|37.378|41.349|TR|Mardin|56
+Budky|51.224|25.740|UA|Volyn|56
+Budișteni|45.044|26.786|RO|Buzău County|55
+Buduș|47.081|24.537|RO|Bistrița-Năsăud County|55
+Budiměřice|50.195|15.099|CZ|Central Bohemia|55
+Buddittogliu Straulas|40.743|9.647|IT|Sardinia|55
+Budimci|45.465|18.323|HR|County of Osijek-Baranja|55
+Budakdüzü|41.561|32.344|TR|Bartın|54
+Buddington Peak|-62.196|-58.795|AQ||54|f
+Buda|41.326|-89.679|US|Illinois|54
+Buda|46.423|26.591|RO|Bacău County|54
 Budinšćina|46.129|16.206|HR|Krapina-Zagorje|54
+Budak|39.097|42.799|TR|Ağrı|54
+Budišovice|49.861|18.040|CZ|Moravian-Silesian Region|54
+Budawang National Park|-35.498|150.001|AU|New South Wales|49|f
+Budawang Range|-35.283|150.167|AU|New South Wales|49|f
+Budd Peak|-66.650|52.683|AQ||49|f
+Budd's Inlet|47.099|-122.914|US|Washington|49|f
+Budderoo National Park|-34.648|150.701|AU|New South Wales|49|f
+Buddha Jayanti Park|28.615|77.182|IN|Delhi|49|f
+Budges Island|-41.518|174.070|NZ|Marlborough|49|f
+Budgewoi Lake|-33.248|151.535|AU|New South Wales|49|f
+Budle Bay|55.617|-1.750|GB|England|49|f
 Budia|40.627|-2.758|ES|Castille-La Mancha|49
+Büdlich|49.783|6.900|DE|Rheinland-Pfalz|46
+Budenbach|50.033|7.567|DE|Rheinland-Pfalz|46
+Bud Walton Arena|36.062|-94.178|US|Arkansas|40|f
+Budd Lake|47.907|-81.317|CA|Ontario|40|f
+Budd Lake|44.023|-84.796|US|Michigan|40|f
+Budd Lake|37.842|-119.396|US|California|40|f
 Bù Đốp|11.955|106.800|VN|Dong Nai|0
+Budagan|-6.985|114.081|ID|East Java|0
+Budan Daja|-7.199|113.895|ID|East Java|0
+Budayuan|40.934|125.333|CN|Liaoning|0
 Buddinge|55.748|12.495|DK|Capital Region|0
 Budeasa|45.017|24.850|RO|Arges|0
 Buduan Ghejeh|-7.739|113.727|ID|East Java|0

@@ -1,7 +1,7 @@
 Sanmenxia|34.781|111.193|CN|Henan|117
 Sanming|26.249|117.619|CN|Fujian|116
 San Miguel de Tucumán|-26.816|-65.211|AR|Tucuman|115
-San Martín Department|-7.000|-76.833|PE||110|r
+San Martín Department|-7.000|-76.833|PE||111|r
 San Miguelito|9.050|-79.471|PA|Panamá|110
 San Miguel Department|13.533|-88.283|SV||110|r
 San Miguel|13.483|-88.182|SV|San Miguel Department|108
@@ -50,9 +50,9 @@ San Miniato|43.680|10.850|IT|Tuscany|85
 San Martín de Pangoa|-11.429|-74.488|PE|Junin|84
 San Mateo|16.882|121.587|PH|Cagayan Valley|84
 San Miguel De Abona|28.098|-16.617|ES|Canary Islands|84
+Sanma|-15.333|166.750|VU||84|r
 San Mateo Huitzilzingo|19.228|-98.926|MX|México|84
 San Miguel Canoa|19.152|-98.103|MX|Puebla|83
-Sanma|-15.333|166.750|VU||83|r
 San Manuel de Colohete|14.450|-88.667|HN|Lempira Department|83
 San Miguel Chicaj|15.095|-90.394|GT|Baja Verapaz|83
 San Marino|34.121|-118.106|US|California|83
@@ -168,6 +168,7 @@ San Miguel Tianguistenco|19.294|-98.531|MX|Puebla|70
 San Miguel de la Victoria|20.067|-99.592|MX|México|70
 San Miguel Tecomatlán|18.978|-99.529|MX|México|70
 San Miguel Almoloyán|19.356|-99.800|MX|México|70
+Sanming Shaxian Airport|26.428|117.837|CN|Fujian|70|f
 San Miguel Tilquiápam|16.782|-96.581|MX|Oaxaca|70
 San Miguel|13.420|123.408|PH|Bicol Region|70
 San Miguelito|20.736|-100.502|MX|Querétaro|70
@@ -190,6 +191,7 @@ San Miguel|19.869|-99.133|MX|México|69
 San Miguel de la Paz|20.371|-102.663|MX|Jalisco|69
 San Martín Toltepec|19.352|-99.706|MX|México|69
 San Mateo Ozolco|19.100|-98.516|MX|Puebla|69
+San Miguel Island|34.040|-120.375|US|California|69|f
 San Marcos La Laguna|14.725|-91.258|GT|Sololá|69
 San Maurizio D'Opaglio|45.773|8.396|IT|Piedmont|69
 San Martino in Campo|43.036|12.403|IT|Umbria|69
@@ -284,6 +286,7 @@ San Miguel Tecpan|19.532|-99.399|MX|México|63
 San Martín Obispo (San Martín San Pedro)|19.319|-100.075|MX|México|63
 San Miguel Analco|19.181|-98.339|MX|Puebla|63
 San Miguel Yuxtepec|19.541|-99.713|MX|México|63
+San Mames|43.264|-2.949|ES|Basque Country|63|f
 San Marino|44.807|10.914|IT|Emilia-Romagna|63
 San Mango d'Aquino|39.060|16.192|IT|Calabria|63
 San Miguel Chimalapa|16.714|-94.748|MX|Oaxaca|63
@@ -332,6 +335,7 @@ San Martín Pachivia (Pachivia)|18.409|-99.788|MX|Guerrero|61
 San Miguel Figueroa|15.786|-96.404|MX|Oaxaca|61
 San Michele di Piave|45.797|12.346|IT|Veneto|61
 San Marcos de la Cruz|19.187|-99.653|MX|México|61
+San Miguel de Gaser Airport|-13.909|-66.128|BO|Beni Department|61|f
 San Miguel del Milagro|19.241|-98.334|MX|Tlaxcala|61
 San Marcos Eloxochitlán|20.025|-97.872|MX|Puebla|61
 San Miguel Aguacomulican|18.822|-98.551|MX|Puebla|61
@@ -355,25 +359,172 @@ San Martín Florida|20.757|-99.825|MX|Querétaro|60
 San Martín Ojo de Agua|19.012|-97.392|MX|Puebla|60
 San Miguel Tlamahuco|19.324|-98.240|MX|Tlaxcala|60
 San Mateo Nejápam|17.656|-98.417|MX|Oaxaca|60
+San Michele e Grato|44.858|7.701|IT|Piedmont|60
+San Miguel Dehetí|20.214|-100.116|MX|Querétaro|60
+San Martino|45.957|12.338|IT|Veneto|60
+San Miguel Tlapéxcatl|19.304|-96.992|MX|Veracruz|60
+San Mateo Teopancala|19.806|-98.886|MX|México|60
+San Marcos Tlapazola|16.912|-96.524|MX|Oaxaca|60
+Sânmartinu Sârbesc|45.606|20.959|RO|Timiș County|60
 San Miguel|8.457|-78.937|PA|Panamá|60
 San Martín de Trevejo|40.212|-6.795|ES|Extremadura|60
+San Miguel Tecomatlán|18.318|-100.400|MX|Guerrero|60
+San Mateo (San Mateo Guayatenco)|18.633|-100.151|MX|México|60
+San Michele|44.928|8.580|IT|Piedmont|60
+San Miguel Regla|20.219|-98.560|MX|Hidalgo|60
+San Miguel Bocanegra|19.844|-99.112|MX|México|59
+San Miguel Nocutzepo|19.530|-101.699|MX|Michoacán|59
+San Miguel Taimeo|19.843|-100.797|MX|Michoacán|59
+San Martino-Sant'Anzino|42.080|12.612|IT|Lazio|59
+San Miguel Acambay|20.276|-99.055|MX|Hidalgo|59
+San Miguel Centro|8.744|-80.185|PA|Coclé|59
+San Mateo|18.198|-100.515|MX|Guerrero|59
+San Miguel de Eneñas|-10.748|-75.217|PE|Pasco|59
+San Miguel|17.464|-99.302|MX|Guerrero|59
+San Marcos|24.296|-103.544|MX|Durango|59
+San Miguel del Monte|19.621|-101.134|MX|Michoacán|59
+San Martino delle Scale|38.091|13.254|IT|Sicily|59
+San Miguel Cañadas|19.722|-99.345|MX|México|59
+San Miguel|21.758|-100.948|MX|San Luis Potosí|59
+San Marino|44.604|11.422|IT|Emilia-Romagna|59
+San Martín|20.246|-100.178|MX|Querétaro|59
+San Miguel las Minas|18.518|-98.334|MX|Puebla|59
+San Margos|16.217|-88.901|BZ|Toledo District|59
+San Miguel Tlaltepexi|17.915|-98.423|MX|Puebla|59
+San Miguel (San Miguel Tenextepec)|19.264|-100.030|MX|México|59
+San Miguel Comitlipa|17.965|-98.552|MX|Guerrero|59
+San Miguel la Toma|18.525|-98.576|MX|Puebla|59
+San Martín Morelos|19.532|-99.683|MX|México|59
+San Matías|18.913|-96.924|MX|Veracruz|59
+San Martín Rinconada|19.122|-97.666|MX|Puebla|59
+San Miguel Hojas Anchas|19.294|-99.841|MX|México|59
+San Miguel Curinhuato|19.984|-100.581|MX|Michoacán|58
+San Mateo Río Hondo|16.145|-96.446|MX|Oaxaca|58
+San Miguel Reyes|16.921|-97.893|MX|Oaxaca|58
+San Miguel|16.293|-88.932|BZ|Toledo District|58
+San Miguel Tamácuaro|19.244|-101.438|MX|Michoacán|58
+San Mateo Peñasco|17.151|-97.533|MX|Oaxaca|58
+San Marcos de Begoña|20.842|-100.805|MX|Guanajuato|58
 San Miguel Ejutla|16.580|-96.739|MX|Oaxaca|58
+San Marcos De Apalache Historic State Park|30.152|-84.210|US|Florida|58|f
+San Marcos Mountains|33.225|-117.194|US|California|58|f
+San Martín Airport|-33.083|-68.417|AR|Mendoza|58|f
+San Miguel Mountain|32.696|-116.936|US|California|58|f
+San Martín de las Cañas|20.946|-103.857|MX|Jalisco|58
 San Melchor Betaza|17.253|-96.154|MX|Oaxaca|58
 San Miguel del Arroyo|41.443|-4.460|ES|Castille and León|58
 San Martín de Pusa|39.784|-4.633|ES|Castille-La Mancha|58
+San Martín Chamizal|17.265|-91.607|MX|Chiapas|58
+San Martín|22.224|-101.376|MX|Zacatecas|58
+San Martín|20.694|-97.938|MX|Veracruz|58
+San Miguel|20.040|-100.647|MX|Guanajuato|58
 San Miguel del Puerto|15.922|-96.175|MX|Oaxaca|58
+San Martín|21.923|-100.101|MX|San Luis Potosí|58
+San Martinito|19.351|-98.562|MX|Puebla|58
+San Mateo Tlacoxcalco|18.286|-97.327|MX|Puebla|58
+San Miguel del Guaricho|20.841|-101.537|MX|Guanajuato|58
 San Miguel Mixtepec|16.778|-96.957|MX|Oaxaca|58
+San Miguel del Yuco|8.544|-82.624|PA|Chiriquí Province|58
+San Macario|45.609|8.774|IT|Lombardy|58
+San Miguel Ecatepec|16.260|-95.755|MX|Oaxaca|58
+San Miguel Tinajab|16.282|-92.103|MX|Chiapas|58
 Sânmihaiu de Câmpie|46.893|24.336|RO|Bistrița-Năsăud County|57
 San Martín de Montalbán|39.702|-4.388|ES|Castille-La Mancha|57
+San Martín Comalapa|19.271|-97.000|MX|Puebla|57
+San Miguel|20.869|-99.963|MX|Querétaro|57
+San Miguel|16.797|-91.851|MX|Chiapas|57
+San Martin|19.036|-98.093|MX|Puebla|57
+San Martín Zacatempa|18.887|-98.609|MX|Puebla|57
+San Miguel|22.335|-105.284|MX|Nayarit|57
+San Michele|44.040|12.428|IT|Emilia-Romagna|57
+San Miguel Buenavista|19.354|-98.074|MX|Tlaxcala|57
+San Marcos|20.937|-101.344|MX|Guanajuato|57
+San Matías Petacaltepec|16.174|-95.888|MX|Oaxaca|57
+San Martín de Terreros|20.912|-101.027|MX|Guanajuato|57
+San Miguel|18.071|-94.955|MX|Veracruz|57
+San Marco|45.412|11.723|IT|Veneto|57
+San Mateo Mixtepec|16.785|-96.943|MX|Oaxaca|57
+San Martino Spino|44.933|11.233|IT|Emilia-Romagna|57
+San Martín|20.008|-97.642|MX|Puebla|57
+San Marcos Xinicuesta|17.293|-98.119|MX|Oaxaca|57
+San Miguel de Ocampo|19.099|-99.530|MX|México|57
+San Miguel del Resgate|20.228|-98.176|MX|Hidalgo|57
+San Miguel Copala|17.061|-97.929|MX|Oaxaca|57
+San Matteo|45.017|10.630|IT|Lombardy|57
+San Miguel Caltepantla|20.481|-99.622|MX|Hidalgo|57
+San Miguel Viejo|20.908|-100.780|MX|Guanajuato|57
+San Miguel Número Dos (El Quemado)|21.829|-105.391|MX|Nayarit|56
+San Miguel|18.413|-97.330|MX|Puebla|56
+San Miguel Amatitlán|17.892|-98.025|MX|Oaxaca|56
+Sânmihaiu German|45.711|21.031|RO|Timiș County|56
+San Miguel Tecolacio|18.442|-98.668|MX|Puebla|56
+San Mateo Yucutindoo|16.737|-97.483|MX|Oaxaca|56
+San Mateo|19.577|-105.086|MX|Jalisco|56
 San Miguel de Sema|5.518|-73.722|CO|Boyacá|56
 San Mango sul Calore|40.959|14.973|IT|Campania|56
+San Miguel|20.949|-97.548|MX|Veracruz|56
+San Miguel Yogovana|16.278|-96.631|MX|Oaxaca|56
+San Miguel|19.068|-97.856|MX|Puebla|56
 San Miguel Tenango|16.267|-95.593|MX|Oaxaca|56
+San Martín Zacatepec|17.808|-98.061|MX|Oaxaca|56
+San Martino alla Palma|43.749|11.144|IT|Tuscany|56
+San Miguel Charahuén|19.469|-101.701|MX|Michoacán|56
+San Miguel Peras|17.324|-98.239|MX|Guerrero|56
 San Miguel|6.576|-72.646|CO|Santander Department|56
+San Mateo Zoyamazalco|18.421|-97.800|MX|Puebla|56
+San Martino Pizzolano|45.164|9.621|IT|Lombardy|56
+San Miguel Ayotempa|20.977|-98.850|MX|Hidalgo|56
+San Miguel el Alto (El Puerto)|19.846|-100.259|MX|Michoacán|56
+San Martino Di Campagna|46.072|12.652|IT|Friuli Venezia Giulia|56
+San Miguel el Alto (San Miguelito)|20.208|-101.180|MX|Guanajuato|56
+San Marcos Oacatzingo|17.934|-99.482|MX|Guerrero|56
+San Miguel Tlanichico|16.935|-96.783|MX|Oaxaca|56
+San Miguel|19.679|-104.728|MX|Jalisco|55
+San Miguel 2da. Sección|17.906|-93.173|MX|Chiapas|55
+San Marcos|16.958|-92.212|MX|Chiapas|55
+San Marco|41.223|14.020|IT|Campania|55
+San Marcos|20.346|-97.596|MX|Veracruz|55
+San Martino|46.777|11.898|IT|Trentino-Alto Adige|55
+San Martín Ocoxochitepec (San Martín)|19.270|-100.261|MX|México|55
+San Mateo Coatepec|18.812|-98.654|MX|Puebla|55
+San Miguel del Brete|20.552|-101.439|MX|Guanajuato|55
+San Miguel|16.861|-95.429|MX|Oaxaca|55
 San Miguel Ixitlán|18.001|-97.775|MX|Puebla|55
+San Michele|44.405|12.111|IT|Emilia-Romagna|55
+San Miguel Palmas|21.099|-99.965|MX|Querétaro|55
+San Marco|43.211|13.750|IT|The Marches|55
+San Marcos Jilotepec|19.378|-98.374|MX|Tlaxcala|55
+San Miguel Adentro 1ra. Sección|17.723|-92.713|MX|Tabasco|55
+San Miguel Nopalapa|20.016|-98.713|MX|Hidalgo|55
+San Miguel Yotao|17.371|-96.337|MX|Oaxaca|55
 San Martino d'Agri|40.239|16.052|IT|Basilicate|55
+San Miguel|20.040|-101.645|MX|Michoacán|55
+San Michele in Bosco|45.112|10.571|IT|Lombardy|55
+San Miguel (San Miguel Huaixtita)|22.070|-104.321|MX|Jalisco|55
+San Miguel|16.064|-97.609|MX|Oaxaca|55
 San Mamete|46.025|9.054|IT|Lombardy|55
+San Miguel|9.226|-79.255|PA|Panamá|55
+San Michele|45.777|11.691|IT|Veneto|55
+San Martino|44.391|8.515|IT|Liguria|54
+San Martín Jolalpan|17.722|-98.668|MX|Guerrero|54
+San Miguel Reagui|17.460|-96.231|MX|Oaxaca|54
+San Miguel Cuevas|17.245|-98.050|MX|Oaxaca|54
 San Michele|40.620|14.550|IT|Campania|54
+San Miguel|20.822|-98.547|MX|Hidalgo|54
+San Marco Museum|43.778|11.259|IT|Tuscany|54|f
+San Marcos Municipal Airport|29.888|-97.863|US|Texas|54|f
+San Martín Glacier|-82.400|-42.233|AQ||54|f
+San Mateo Mountains|33.712|-107.449|US|New Mexico|54|f
+San Matías Airport|-16.339|-58.402|BO|Santa Cruz Department|54|f
+San Michele|45.449|12.346|IT|Veneto|54|f
+San Miguel de Buenavista|21.102|-104.342|MX|Nayarit|54
+San Miguel Santa Flor|17.921|-96.799|MX|Oaxaca|54
+San Marcos de Abajo|21.022|-101.017|MX|Guanajuato|54
+San Marcos|16.628|-91.720|MX|Chiapas|54
 San Miguel Huautla|17.740|-97.143|MX|Oaxaca|54
+San Miguelito|21.060|-100.586|MX|Guanajuato|54
+San Martín|20.368|-98.656|MX|Hidalgo|54
+San Martín del Progreso (La Punta)|20.125|-97.780|MX|Puebla|54
 San Martino sulla Marrucina|42.224|14.216|IT|Abruzzo|54
 San Martino Canavese|45.395|7.816|IT|Piedmont|54
 San Miguel de Horcasitas|29.487|-110.725|MX|Sonora|54
@@ -398,6 +549,12 @@ San Martino Sannita|41.065|14.835|IT|Campania|49
 San Mateo Piñas|16.000|-96.335|MX|Oaxaca|49
 Sânmărtin|47.010|24.078|RO|Cluj County|49
 San Mamés de Burgos|42.337|-3.794|ES|Castille and León|49
+San Manuel|-27.067|-69.983|CL|Atacama|49|f
+San Mateo Rocks|33.405|-117.617|US|California|49|f
+San Michele|40.554|14.247|IT|Campania|49|f
+San Miguel Bay|13.985|123.160|PH||49|f
+San Miguel Island|13.363|123.827|PH|Bicol Region|49|f
+San Miguel Island|12.714|123.595|PH|Bicol Region|49|f
 San Martín del Pimpollar|40.368|-5.054|ES|Castille and León|49
 San Martín del Castañar|40.523|-6.064|ES|Castille and León|49
 San Miguel Chicahua|17.637|-97.195|MX|Oaxaca|48
@@ -414,6 +571,10 @@ San Millán de los Caballeros|42.285|-5.561|ES|Castille and León|45
 San Miguel de Aguayo|43.054|-4.026|ES|Cantabria|43
 San Martín Huamelúlpam|17.397|-97.602|MX|Oaxaca|41
 San Martín de Valvení|41.753|-4.567|ES|Castille and León|41
+San Manuel Airport|32.634|-110.642|US|Arizona|40|f
+San Manuel Copper Mine|32.696|-110.690|US|Arizona|40|f
+San Marino Island|25.791|-80.163|US|Florida|40|f
+San Mateo Mountains|35.191|-107.654|US|New Mexico|40|f
 San Miguel de Corneja|40.487|-5.287|ES|Castille and León|40
 San Mamés de Campos|42.355|-4.566|ES|Castille and León|39
 San Martín de Boniches|39.900|-1.567|ES|Castille-La Mancha|39
@@ -437,3 +598,5 @@ San Miguel de Ollaraya|-16.220|-68.991|PE|Puno|0
 San Miguel de Pallaques|-7.000|-78.851|PE|Cajamarca Department|0
 San Miguelito|-1.204|-78.538|EC|Tungurahua Province|0
 Sanmao|32.239|119.815|CN|Jiangsu|0
+Sanmenpo|19.717|110.558|CN|Hainan|0
+Sanmiaoqian|28.970|116.767|CN|Jiangxi|0

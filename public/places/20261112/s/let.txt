@@ -5,6 +5,7 @@ Leticia|-4.211|-69.939|CO|Amazonas Department|94
 Letpandan|17.787|95.751|MM|Bago Region|92
 Letlhakane|-21.415|25.593|BW|Central|91
 Letchworth Garden City|51.979|-0.227|GB|England|91
+Letzigrund Stadium|47.383|8.504|CH|Zurich|88|f
 Letterkenny|54.950|-7.733|IE|Ulster|87
 Letňany|50.133|14.517|CZ|Prague|87
 Leteri|24.060|77.409|IN|Madhya Pradesh|84
@@ -13,11 +14,13 @@ Letychiv|49.380|27.619|UA|Khmelnytskyi|80
 Le Teil|44.545|4.682|FR|Auvergne-Rhône-Alpes|79
 Le Taillan-Médoc|44.904|-0.670|FR|New Aquitaine|79
 Letlhakeng|-24.094|25.030|BW|Kweneng|78
+Letohrádek Hvězda|50.083|14.326|CZ|Prague|78|f
 Létavértes|47.383|21.900|HU|Hajdú-Bihar|77
 Letovice|49.547|16.574|CZ|South Moravian|77
 Le Thor|43.929|4.995|FR|Provence-Alpes-Côte d'Azur|77
 Leţcani|47.183|27.417|RO|Iași County|76
 Lettelingen|50.683|4.083|BE|Wallonia|76
+Lethem Airport|3.373|-59.789|GY|Upper Takutu-Upper Essequibo|76|f
 Letohrad|50.036|16.499|CZ|Pardubice Region|76
 Le Tréport|50.060|1.376|FR|Normandy|76
 Le Touquet-Paris-Plage|50.524|1.586|FR|Hauts-de-France|75
@@ -29,11 +32,13 @@ Letnyaya Stavka|45.428|43.444|RU|Stavropol Kray|74
 Letea Veche|46.550|26.950|RO|Bacău County|74
 L'Étang-la-Ville|48.870|2.057|FR|Île-de-France|73
 Letenye|46.433|16.726|HU|Zala County|73
+Letfotar Airport|17.750|-12.500|MR|Brakna|72|f
 Le Thillot|47.879|6.763|FR|Grand Est|72
 Lethem|3.373|-59.800|GY|Upper Takutu-Upper Essequibo|72
 Le Thillay|49.007|2.472|FR|Île-de-France|72
 Letnitsa|43.312|25.073|BG|Lovech|71
 Let Pan Gwa|16.762|96.067|MM|Yangon|70
+Le Touquet – Paris-Plage Airport|50.517|1.621|FR|Hauts-de-France|70|f
 Letnik|46.011|41.266|RU|Rostov|70
 Lettomanoppello|42.243|14.038|IT|Abruzzo|70
 Letka|59.601|49.423|RU|Komi|69
@@ -45,16 +50,20 @@ Letojanni|37.880|15.307|IT|Sicily|69
 Letsheng|-22.664|27.224|BW|Central|69
 L'Étrat|45.486|4.376|FR|Auvergne-Rhône-Alpes|68
 Le Tholonet|43.522|5.511|FR|Provence-Alpes-Côte d'Azur|68
+Letsôk-aw Kyun|11.628|98.259|MM|Tanintharyi Region|67|f
 Letca|47.333|23.450|RO|Sălaj County|67
 Le Theil-Bocage|48.883|-0.717|FR|Normandy|66
 Le Tallud|46.631|-0.298|FR|New Aquitaine|66
 Le Thuit-Signol|49.265|0.939|FR|Normandy|65
+Lethbridge Airport|49.630|-112.791|CA|Alberta|65|f
+Lettstädter Höhe|48.434|8.256|DE|Baden-Wurttemberg|65|f
 Lety|49.921|14.255|CZ|Central Bohemia|65
 Le Temple-de-Bretagne|47.329|-1.791|FR|Pays de la Loire|64
 Letham|56.627|-2.771|GB|Scotland|64
 Le Thoronet|43.452|6.304|FR|Provence-Alpes-Côte d'Azur|64
 Letzlingen|52.447|11.486|DE|Saxony-Anhalt|64
 Le Tholy|48.082|6.744|FR|Grand Est|64
+Letterbrickaun|53.534|-9.728|IE|Connacht|63|f
 Łętownia|50.325|22.234|PL|Subcarpathia|63
 Le Teilleul|48.538|-0.873|FR|Normandy|63
 Letca Veche|44.199|25.687|RO|Giurgiu County|63
@@ -66,8 +75,57 @@ Le Theil-de-Bretagne|47.920|-1.430|FR|Brittany|62
 Letterhoutem|50.928|3.880|BE|Flanders|62
 Letur|38.366|-2.102|ES|Castille-La Mancha|62
 Letca Nouă|44.235|25.743|RO|Giurgiu County|62
+Lethbridge|-37.966|144.136|AU|Victoria|60
+Le Tremblay-sur-Mauldre|48.778|1.878|FR|Île-de-France|60
+Le Temple-sur-Lot|44.379|0.525|FR|New Aquitaine|60
+Le Tronchet|48.486|-1.839|FR|Brittany|59
+Le Tour-du-Parc|47.526|-2.646|FR|Brittany|59
+Letkov|49.730|13.465|CZ|Plzeň Region|59
+Let Pan|17.062|96.250|MM|Yangon|59
+Letsovytsia|48.472|22.881|UA|Zakarpattia|58
+Le Taillefer|45.039|5.925|FR|Auvergne-Rhône-Alpes|58|f
+Le Tanet|48.084|7.052|FR|Grand Est|58|f
+Lettermore|53.292|-9.654|IE|Connacht|58|f
+Letti Island|-8.191|127.686|ID|Maluku|58|f
+Letuš|46.316|15.025|SI|Municipality of Braslovče|58
+Let Khoke Kone|16.339|96.162|MM|Yangon|58
+Létra|45.962|4.524|FR|Auvergne-Rhône-Alpes|58
+Le Tourne|44.711|-0.401|FR|New Aquitaine|58
+Le Tronquay|49.226|-0.820|FR|Normandy|56
+Lethbridge|48.367|-53.865|CA|Newfoundland and Labrador|56
+Le Thuit-Anger|49.274|0.969|FR|Normandy|56
+Le Tilleul|49.680|0.211|FR|Normandy|56
+Letiny|49.540|13.455|CZ|Plzeň Region|55
+Letcombe Regis|51.577|-1.452|GB|England|55
+Le Theil|49.610|-1.470|FR|Normandy|55
+Le Temple|44.879|-0.991|FR|New Aquitaine|55
 Letino|41.453|14.255|IT|Campania|55
+Letogo|-13.853|-171.722|WS|Tuamasaga|55
+Le Tourneur|48.964|-0.820|FR|Normandy|54
+Le Tabor|44.976|5.853|FR|Auvergne-Rhône-Alpes|54|f
+Lettercraffroe Lough|53.382|-9.414|IE|Connacht|54|f
+Lettuce Lake Regional Park|28.075|-82.372|US|Florida|54|f
 Letux|41.255|-0.803|ES|Aragon|52
 Lettopalena|42.003|14.157|IT|Abruzzo|51
+Le Tofane|46.550|12.067|IT|Veneto|49|f
+Le Tour Noir|45.949|7.037|CH|Valais|49|f
+Letart Island|38.887|-81.926|US|West Virginia|49|f
+Letha Taung|22.687|95.982|MM|Mandalay Region|49|f
+Letiště Medlánky|49.237|16.555|CZ|South Moravian|49|f
+Lettermore Island|53.301|-9.670|IE|Connacht|49|f
+Lettweiler|49.733|7.733|DE|Rheinland-Pfalz|48
+Le Tâche|46.345|6.848|CH|Valais|40|f
+Le Tarent|46.382|7.148|CH|Vaud|40|f
+Le Toûno|46.207|7.650|CH|Valais|40|f
+Letnitsa Glacier|-63.050|-62.603|AQ||40|f
+Letoon|36.331|29.289|TR|Muğla|40|f
+Lettau Peak|-77.950|162.500|AQ||40|f
+Lete|-8.741|120.771|ID|East Nusa Tenggara|0
+Leteki|-10.900|122.902|ID|East Nusa Tenggara|0
+Leteloko|-9.605|119.019|ID|East Nusa Tenggara|0
+Leter|-8.321|123.120|ID|East Nusa Tenggara|0
+Letianxi|30.870|111.072|CN|Hubei|0
 Leticia|-11.377|-75.752|PE|Junin|0
+Letkole|-9.685|123.804|ID|East Nusa Tenggara|0
 Letung|2.989|105.707|ID|Riau Islands|0
+Letuyi|44.199|86.458|CN|Xinjiang|0

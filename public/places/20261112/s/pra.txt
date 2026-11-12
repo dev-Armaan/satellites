@@ -1,6 +1,6 @@
 Prague|50.088|14.421|CZ|Prague|121
 Prayagraj|25.445|81.843|IN|Uttar Pradesh|121
-Prahova|45.167|26.000|RO||119|r
+Prahova|45.167|26.000|RO||120|r
 Praia Grande|-24.006|-46.403|BR|São Paulo|111
 Pravyi Bereh|47.115|37.585|UA|Donetsk|111
 Prato|43.880|11.097|IT|Tuscany|106
@@ -24,11 +24,14 @@ Prairieville|30.303|-90.972|US|Louisiana|89
 Praktiseer|-24.584|30.317|ZA|Limpopo|89
 Prachin Buri Town|14.055|101.373|TH|Prachin Buri|88
 Prāntij|23.436|72.845|IN|Gujarat|87
+Prague Zoo|50.117|14.406|CZ|Prague|87|f
 Prairie Village|38.992|-94.634|US|Kansas|87
+Praia International Airport|14.942|-23.484|CV|Praia|87|f
 Pradolongo|40.378|-3.707|ES|Madrid|85
 Pradópolis|-21.359|-48.066|BR|São Paulo|85
 Prakhon Chai|14.606|103.121|TH|Buriram|84
 Pratteln|47.521|7.694|CH|Basel-Landschaft|83
+Prasat Preah Vihear|14.392|104.680|KH|Preah Vihear|83|f
 Prati|41.909|12.468|IT|Lazio|83
 Prasadampadu|16.612|80.684|IN|Andhra Pradesh|83
 Pratāpgarh|25.895|81.942|IN|Uttar Pradesh|83
@@ -39,11 +42,15 @@ Praskoveya|44.744|44.203|RU|Stavropol Kray|81
 Prachatice|49.013|13.998|CZ|South Bohemian Region|81
 Pratāp Singhwāla|30.928|75.779|IN|Punjab|81
 Pravdinskiy|56.060|37.863|RU|Moscow Oblast|80
+Praděd|50.083|17.231|CZ|Moravian-Silesian Region|80|f
+Pratus Island|20.700|116.732|TW|Takao|80|f
 Praia Norte|-5.393|-47.811|BR|Tocantins|80
 Praia Bebe|-12.410|13.503|AO|Benguela|79
 Prados|-21.058|-44.080|BR|Minas Gerais|79
+Praslin Island Airport|-4.319|55.691|SC|Grand Anse Praslin|79|f
 Prabuty|53.755|19.205|PL|Pomerania|79
 Pratápolis|-20.745|-46.861|BR|Minas Gerais|78
+Praça do Comércio|38.708|-9.137|PT|Lisbon|78|f
 Praia Grande|-29.197|-49.950|BR|Santa Catarina|78
 Praszka|51.054|18.453|PL|Opole Voivodeship|78
 Pragal|38.675|-9.170|PT|Setúbal|78
@@ -53,12 +60,14 @@ Pratt|37.644|-98.738|US|Kansas|77
 Prades|42.618|2.422|FR|Occitanie|77
 Praid|46.550|25.133|RO|Harghita County|77
 Praia a Mare|39.894|15.784|IT|Calabria|76
+Prangli Saar|59.630|25.004|EE|Harjumaa|76|f
 Prairie View|30.093|-95.988|US|Texas|76
 Praia da Vitória|38.733|-27.067|PT|Azores|76
 Prado del Rey|36.788|-5.556|ES|Andalusia|75
 Prairie du Chien|43.052|-91.141|US|Wisconsin|75
 Pranchita|-26.020|-53.740|BR|Paraná|75
 Prayon|50.578|5.675|BE|Wallonia|74
+prato della Valle|45.398|11.877|IT|Veneto|74|f
 Prairie Grove|35.976|-94.318|US|Arkansas|74
 Pratânia|-22.808|-48.666|BR|São Paulo|74
 Pravokumskoye|44.769|44.647|RU|Stavropol Kray|74
@@ -78,6 +87,7 @@ Prata|-7.691|-37.080|BR|Paraíba|72
 Pracuúba|1.743|-50.791|BR|Amapá|72
 Praxédis Guerrero|31.367|-106.017|MX|Chihuahua|72
 Prado Ferreira|-23.039|-51.442|BR|Paraná|71
+Prasonísi|35.474|23.559|GR|Crete|71|f
 Prado Siongco|14.879|120.513|PH|Central Luzon|71
 Pratinha|-19.751|-46.378|BR|Minas Gerais|71
 Pradejón|42.334|-2.069|ES|La Rioja|71
@@ -87,6 +97,8 @@ Prato Perillo|40.397|15.525|IT|Campania|70
 Prábis|11.803|-15.739|GW|Biombo|70
 Prangins|46.395|6.250|CH|Vaud|70
 Pradines|44.479|1.404|FR|Occitanie|70
+Prague Aviation Museum, Kbely|50.126|14.537|CZ|Prague|70|f
+Prambanan|-7.752|110.492|ID|Yogyakarta|70|f
 Pradamano|46.034|13.302|IT|Friuli Venezia Giulia|70
 Prados de San Juan|19.640|-98.975|MX|México|70
 Pratantico-Indicatore|43.481|11.805|IT|Tuscany|70
@@ -97,6 +109,8 @@ Prawdzinski|53.525|27.830|BY|Minsk|69
 Pralboino|45.267|10.218|IT|Lombardy|69
 Prata Camportaccio|46.307|9.395|IT|Lombardy|69
 Praticello|44.804|10.473|IT|Emilia-Romagna|69
+Praça da Liberdade|-19.932|-43.938|BR|Minas Gerais|69|f
+Praça da Sé|-23.550|-46.634|BR|São Paulo|69|f
 Prackenbach|49.095|12.826|DE|Bavaria|69
 Prato Allo Stelvio|46.619|10.591|IT|Trentino-Alto Adige|68
 Prados San Francisco|19.722|-99.084|MX|México|68
@@ -108,6 +122,7 @@ Prăjești|46.655|26.976|RO|Bacău County|68
 Prague|35.487|-96.685|US|Oklahoma|68
 Pravda|46.941|142.008|RU|Sakhalin Oblast|68
 Prata di Principato Ultra|40.986|14.838|IT|Campania|67
+Pratica di Mare Air Base|41.655|12.445|IT|Lazio|67|f
 Pratovecchio|43.787|11.724|IT|Tuscany|67
 Pratola Serra|40.987|14.851|IT|Campania|67
 Praxedis G. Guerrero|31.370|-106.006|MX|Chihuahua|67
@@ -117,6 +132,7 @@ Praslin|13.875|-60.897|LC|Micoud|66
 Prairie Grove|42.279|-88.261|US|Illinois|65
 Pralungo|45.590|8.040|IT|Piedmont|65
 Pratau|51.842|12.644|DE|Saxony-Anhalt|65
+Prague Castle|50.090|14.400|CZ|Prague|65|f
 Prapor|43.945|24.175|RO|Dolj|65
 Prahecq|46.259|-0.346|FR|New Aquitaine|65
 Prairie City|41.599|-93.235|US|Iowa|65
@@ -130,6 +146,8 @@ Pracht|50.760|7.649|DE|Rheinland-Pfalz|64
 Prato di Coppola|41.417|12.882|IT|Lazio|64
 Pravda|45.779|33.846|UA|Crimea|63
 Přáslavice|49.586|17.382|CZ|Olomouc Region|63
+Praça Rui Barbosa|-19.917|-43.934|BR|Minas Gerais|63|f
+Pranke Island|-73.233|-124.917|AQ||63|f
 Prachovice|49.894|15.629|CZ|Pardubice Region|63
 Pray|45.675|8.210|IT|Piedmont|63
 Prarostino|44.866|7.268|IT|Piedmont|62
@@ -150,25 +168,107 @@ Prámanta|39.523|21.101|GR|Epirus|61
 Pranoi|6.868|-4.963|CI|Lacs District|61
 Pragoulin|46.054|3.393|FR|Auvergne-Rhône-Alpes|61
 Prade|45.540|13.776|SI|Urban Municipality of Koper|61
+Prades Mountains|41.302|0.968|ES|Catalonia|61|f
+Prairie du Chien Municipal Airport|43.022|-91.120|US|Wisconsin|61|f
+Prasat Angkor Thum|13.441|103.859|KH|Siem Reap|61|f
+Praslin Island|-4.321|55.724|SC|Grand Anse Praslin|61|f
+Pratt Mountain|42.733|-71.919|US|New Hampshire|61|f
+Pratt Municipal Airport|37.708|-98.747|US|Kansas|61|f
 Praderas del Potrero|19.885|-99.230|MX|Hidalgo|61
 Prato Carnico|46.520|12.809|IT|Friuli Venezia Giulia|61
 Prat|48.677|-3.298|FR|Brittany|60
 Prati|46.900|11.465|IT|Trentino-Alto Adige|60
+Prakšice|49.069|17.633|CZ|Zlín|59
 Prata Sannita Centro|41.433|14.203|IT|Campania|59
+Prayssas|44.273|0.472|FR|New Aquitaine|59
+Prades|44.638|4.314|FR|Auvergne-Rhône-Alpes|59
+Praskačka|50.173|15.743|CZ|Hradec Králové Region|59
+Pražmo|49.609|18.486|CZ|Moravian-Silesian Region|59
 Pralormo|44.860|7.904|IT|Piedmont|59
+Praia Baixo|15.059|-23.472|CV|São Domingos|59
+Prairie City|44.463|-118.710|US|Oregon|59
+Prat-Bonrepaux|43.033|1.017|FR|Occitanie|59
+Prace|49.141|16.765|CZ|South Moravian|59
+Prajoaia|46.406|26.719|RO|Bacău County|59
+Praia|39.052|-27.971|PT|Azores|58
+Pranzac|45.669|0.354|FR|New Aquitaine|58
+Pralognan-la-Vanoise|45.383|6.719|FR|Auvergne-Rhône-Alpes|58
+Praskolesy|49.866|13.933|CZ|Central Bohemia|58
+Pralea|46.109|26.866|RO|Bacău County|58
+Präbichl|47.517|14.950|AT|Styria|58|f
+Prairie Mountain|48.275|-121.471|US|Washington|58|f
+Prankers Pond|42.474|-71.013|US|Massachusetts|58|f
+Prasonísi|35.883|27.759|GR|South Aegean|58|f
+Prahovo|44.294|22.583|RS|Central Serbia|58
+Práče|48.877|16.201|CZ|South Moravian|58
+Pradipozzo|45.780|12.759|IT|Veneto|58
+Praia Formosa|15.039|-23.514|CV|São Domingos|58
+Praia do Baixio|-12.106|-37.694|BR|Bahia|58
+Pravčice|49.324|17.495|CZ|Zlín|57
+Prásino|37.714|21.424|GR|West Greece|57
+Pratolino|43.862|11.299|IT|Tuscany|57
+Prăjești|46.506|26.526|RO|Bacău County|57
+Praxedis Guerrero (Kilómetro 18)|20.800|-97.313|MX|Veracruz|57
+Pralong|45.666|4.030|FR|Auvergne-Rhône-Alpes|57
+Praia Morro Peixe|0.406|6.638|ST|São Tomé Island|57
+Praxedis G. Guerrero Nuevo (La Loma)|23.941|-104.566|MX|Durango|57
+Pray|45.380|-110.682|US|Montana|57
+Pratdip|41.052|0.871|ES|Catalonia|57
+Prazeres|32.751|-17.204|PT|Madeira|57
+Pradelles|44.770|3.882|FR|Auvergne-Rhône-Alpes|56
 Pram|48.235|13.606|AT|Upper Austria|56
+Prattsburgh|42.524|-77.289|US|New York|56
+Pratora|38.912|16.535|IT|Calabria|56
 Pradilla de Ebro|41.861|-1.263|ES|Aragon|56
+Prailles|46.322|-0.219|FR|New Aquitaine|56
+Pradines|45.997|4.175|FR|Auvergne-Rhône-Alpes|56
+Pratt|38.210|-81.384|US|West Virginia|55
+Prata|43.083|10.985|IT|Tuscany|55
+Prato del Mare|42.048|11.830|IT|Lazio|55
+Prasek|50.239|15.549|CZ|Hradec Králové Region|55
+Pratz|46.377|5.762|FR|Bourgogne-Franche-Comté|55
+Prairie du Rocher|38.083|-90.096|US|Illinois|55
+Prätis|47.346|15.812|AT|Styria|55
+Pragsdorf|53.539|13.395|DE|Mecklenburg-Vorpommern|55
+Pravonín|49.636|14.943|CZ|Central Bohemia|55
 Pratella|41.406|14.179|IT|Campania|55
+Prato Comune|40.277|15.687|IT|Campania|55
+Pratz|49.802|5.939|LU|Redange|55
 Prádena|41.139|-3.688|ES|Castille and León|55
 Prati|44.383|9.376|IT|Liguria|55
+Prackovice nad Labem|50.569|14.032|CZ|Ústí nad Labem Region|55
+Prahuda|45.785|26.757|RO|Vrancea|55
+Praputnjak|45.299|14.574|HR|Primorje-Gorski Kotar|55
+Praxedis Guerrero|22.608|-99.055|MX|Tamaulipas|54
+Pratsdorf|47.955|14.046|AT|Upper Austria|54
+Praça da Figueira|38.714|-9.138|PT|Lisbon|54|f
+Praça General Osório|-22.985|-43.198|BR|Rio de Janeiro|54|f
+Praça Seca|-22.897|-43.352|BR|Rio de Janeiro|54|f
+Praça XV de Novembro|-22.903|-43.175|BR|Rio de Janeiro|54|f
+Prairie Du Sac 1907c189 Dam|43.310|-89.725|US|Wisconsin|54|f
+Prairie Island|44.649|-92.691|US|Minnesota|54|f
+Prästö|60.213|20.260|AX|Ålands landsbygd|54|f
+Pratolongo|45.709|9.514|IT|Lombardy|54
+Pravlov|49.056|16.488|CZ|South Moravian|54
+Pradelle|46.486|10.314|IT|Lombardy|54
+Prato Lauro|41.966|12.603|IT|Lazio|54
+Pratolungo|41.956|12.613|IT|Lazio|54
+Prauthoy|47.680|5.294|FR|Grand Est|54
+Prasdorf|54.379|10.296|DE|Schleswig-Holstein|53
 Prato|46.374|13.307|IT|Friuli Venezia Giulia|53
 Pramet|48.143|13.488|AT|Upper Austria|52
 Prażmów|51.940|20.955|PL|Mazovia|52
 Pragelato-Ruà|45.014|6.942|IT|Piedmont|52
 Prata d'Ansidonia|42.278|13.608|IT|Abruzzo|50
+Prath|50.196|7.684|DE|Rheinland-Pfalz|50
 Pratiglione|45.353|7.596|IT|Piedmont|50
 Prarolo|45.281|8.478|IT|Piedmont|50
 Praso|45.950|10.636|IT|Trentino-Alto Adige|50
+Prado Dam|33.890|-117.641|US|California|49|f
+Pram Point|-77.850|166.750|AQ||49|f
+Prasat Ak Yum|13.425|103.777|KH|Siem Reap|49|f
+Pratten Park|-33.893|151.123|AU|New South Wales|49|f
+Pratts Peak|-80.400|-29.345|AQ||49|f
 Prali|44.889|7.051|IT|Piedmont|48
 Prascorsano|45.367|7.617|IT|Piedmont|48
 Pramollo|44.908|7.191|IT|Piedmont|48
@@ -178,6 +278,21 @@ Prádanos de Ojeda|42.682|-4.347|ES|Castille and León|46
 Prados Redondos|40.785|-1.793|ES|Castille-La Mancha|43
 Prado de la Guzpeña|42.783|-5.026|ES|Castille and León|42
 Prádena del Rincón|41.044|-3.541|ES|Madrid|41
+Prabé|46.284|7.350|CH|Valais|40|f
+Praça da Batalha|41.146|-8.607|PT|Porto|40|f
+Praça da Liberdade|41.147|-8.611|PT|Porto|40|f
+Praça do Império|38.696|-9.206|PT|Lisbon|40|f
+Praça Martim Moniz|38.716|-9.136|PT|Lisbon|40|f
+Prado Flood Control Basin|33.890|-117.641|US|California|40|f
+Prairie Creek Redwoods State Park|41.407|-124.020|US|California|40|f
+Prairie Lake|45.359|-91.683|US|Wisconsin|40|f
+Prairie Lee Lake|38.940|-94.327|US|Missouri|40|f
+Prasat Kravan|13.420|103.900|KH|Siem Reap|40|f
+Pratt Lake|44.026|-84.547|US|Michigan|40|f
+Pratt Museum|59.645|-151.550|US|Alaska|40|f
+Pray Hill|42.872|-75.055|US|New York|40|f
+Pray Lake|48.490|-113.366|US|Montana|40|f
+Praza do Obradoiro|42.880|-8.546|ES|Galicia|40|f
 Prasco|44.639|8.552|IT|Piedmont|38
 Pradillo|42.177|-2.642|ES|La Rioja|36
 Prádanos de Bureba|42.503|-3.348|ES|Castille and León|36
@@ -189,12 +304,28 @@ Prachamtakham|14.064|101.515|TH|Prachin Buri|0
 Prades|41.310|0.989|ES|Catalonia|0
 Prado|41.921|-5.420|ES|Castille and León|0
 Pragaan|-7.111|113.660|ID|East Java|0
+Pragen Selatan|-6.790|111.465|ID|Central Java|0
 Prägraten|47.017|12.383|AT|Tyrol|0
+Pragu|-6.753|111.336|ID|Central Java|0
+Prailangina|-9.649|119.745|ID|East Nusa Tenggara|0
+Praimarada|-9.891|120.622|ID|East Nusa Tenggara|0
+Praimutung|-9.723|119.456|ID|East Nusa Tenggara|0
+Praingkareha|-10.013|120.045|ID|East Nusa Tenggara|0
+Praiyawang|-9.935|120.670|ID|East Nusa Tenggara|0
 Prakhon Chai|14.611|103.079|TH|Buriram|0
+Prambatan|-6.900|112.094|ID|East Java|0
+Prambonkrajan|-8.025|111.669|ID|East Java|0
 Prang Ku|14.857|104.040|TH|Si Sa Ket|0
+Prangi|-7.187|111.584|ID|East Java|0
+Prantaan|-6.946|111.498|ID|Central Java|0
+Pranti|-6.761|111.355|ID|Central Java|0
+Prapagan|-7.566|109.003|ID|Central Java|0
+Prapen|-7.315|112.757|ID|East Java|0
 Prasat|14.640|103.404|TH|Surin|0
 Prata di Sotto|45.891|12.596|IT|Friuli Venezia Giulia|0
 Prathai|15.533|102.723|TH|Nakhon Ratchasima|0
 Praticello di Gattatico|44.805|10.475|IT|Emilia-Romagna|0
 Prats de Lluçanès|42.017|2.033|ES|Catalonia|0
 Pravia|43.489|-6.112|ES|Asturias|0
+Prawira|-8.361|116.144|ID|West Nusa Tenggara|0
+Prayan|-8.079|111.895|ID|East Java|0

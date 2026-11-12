@@ -26,10 +26,12 @@ Weißenburg in Bayern|49.031|10.972|DE|Bavaria|85
 Weilerswist|50.753|6.846|DE|North Rhine-Westphalia|84
 Weißwasser|51.504|14.640|DE|Saxony|84
 Weilong|29.623|106.007|CN|Chongqing|83
+Weisshorn|46.101|7.716|CH|Valais|83|f
 Weilburg|50.484|8.262|DE|Hesse|83
 Weißenhorn|48.305|10.160|DE|Bavaria|83
 Weigelstown|39.984|-76.822|US|Pennsylvania|82
 Weinsberg|49.151|9.288|DE|Baden-Wurttemberg|81
+Weissmies|46.128|8.012|CH|Valais|81|f
 Weixin|30.047|105.891|CN|Chongqing|81
 Weinböhla|51.167|13.567|DE|Saxony|80
 Weil im Schönbuch|48.623|9.064|DE|Baden-Wurttemberg|80
@@ -37,15 +39,18 @@ Weilheim an der Teck|48.616|9.538|DE|Baden-Wurttemberg|80
 Weingarten|49.055|8.527|DE|Baden-Wurttemberg|80
 Weinfelden|47.567|9.100|CH|Thurgau|79
 Weiz|47.217|15.617|AT|Styria|79
+Weifang Airport|36.647|119.119|CN|Shandong|79|f
 Weilmünster|50.431|8.377|DE|Hesse|79
 Weida|50.774|12.060|DE|Thuringia|79
 Weissach|48.847|8.928|DE|Baden-Wurttemberg|78
 Weißenthurm|50.417|7.451|DE|Rheinland-Pfalz|78
 Weikersheim|49.479|9.900|DE|Baden-Wurttemberg|78
 Weiler-Simmerberg|47.583|9.914|DE|Bavaria|76
+Weizhou Dao|21.047|109.116|CN|Guangxi|76|f
 Weiskirchen|49.550|6.817|DE|Saarland|76
 Weisendorf|49.623|10.825|DE|Bavaria|76
 Weiser|44.251|-116.969|US|Idaho|75
+Weipa Airport|-12.679|141.925|AU|Queensland|74|f
 Weitramsdorf|50.256|10.880|DE|Bavaria|74
 Weitnau|47.642|10.127|DE|Bavaria|74
 Weisi Science & Technology Garden|22.685|113.782|CN|Guangdong|74
@@ -56,6 +61,7 @@ Weir Views|-37.731|144.576|AU|Victoria|73
 Weiherhammer|49.633|12.067|DE|Bavaria|72
 Weißensee|51.200|11.069|DE|Thuringia|71
 Weil|48.117|10.922|DE|Bavaria|71
+Weissfluh|46.835|9.794|CH|Grisons|71|f
 Weischlitz|50.450|12.067|DE|Saxony|71
 Weidhausen bei Coburg|50.204|11.140|DE|Bavaria|70
 Weidling|48.291|16.309|AT|Lower Austria|70
@@ -67,6 +73,7 @@ Weipa|-12.623|141.879|AU|Queensland|69
 Weihenzell|49.350|10.617|DE|Bavaria|69
 Weisenbach|48.728|8.354|DE|Baden-Wurttemberg|69
 Weiler|49.957|7.865|DE|Rheinland-Pfalz|69
+Weissensee|46.706|13.354|AT|Carinthia|69|f
 Wein Nawng|21.836|98.587|MM|Shan State|69
 Weigelsdorf|47.950|16.400|AT|Lower Austria|69
 Weißensberg|47.581|9.726|DE|Bavaria|68
@@ -91,6 +98,7 @@ Weidenthal|49.417|8.000|DE|Rheinland-Pfalz|66
 Weilersbach|49.750|11.117|DE|Bavaria|66
 Weisslingen|47.431|8.768|CH|Zurich|66
 Weinsheim|49.833|7.767|DE|Rheinland-Pfalz|66
+Weitoa Island|-10.670|150.924|PG|Milne Bay Province|65|f
 Weiningen|47.420|8.436|CH|Zurich|65
 Weissport East|40.837|-75.686|US|Pennsylvania|64
 Weitenhagen|54.054|13.410|DE|Mecklenburg-Vorpommern|64
@@ -113,42 +121,169 @@ Weiten|49.530|6.541|DE|Saarland|62
 Weisel|50.117|7.800|DE|Rheinland-Pfalz|61
 Weißenbach bei Liezen|47.573|14.205|AT|Styria|61
 Weikendorf|48.344|16.767|AT|Lower Austria|61
+Weihai Airport|37.187|122.229|CN|Shandong|61|f
+Weißer Stein|50.468|9.293|DE|Hesse|61|f
 Weisen|53.025|11.787|DE|Brandenburg|61
 Weisskirchen an der Traun|48.162|14.124|AT|Upper Austria|61
 Weißenohe|49.631|11.254|DE|Bavaria|61
 Weikersdorf am Steinfelde|47.806|16.144|AT|Lower Austria|61
 Weinsheim|50.233|6.467|DE|Rheinland-Pfalz|60
 Weißig|51.292|13.441|DE|Saxony|60
+Weitendorf|46.896|15.467|AT|Styria|60
+Weigenheim|49.576|10.264|DE|Bavaria|60
+Weiten-Gesäß|49.702|9.050|DE|Hesse|60
+Weidman|43.688|-84.969|US|Michigan|60
 Weissenbach an der Triesting|47.982|16.039|AT|Lower Austria|59
 Weißenkirchen in der Wachau|48.398|15.469|AT|Lower Austria|59
+Weilar|50.767|10.150|DE|Thuringia|59
+Weiach|47.559|8.433|CH|Zurich|59
+Weichstetten|48.121|14.321|AT|Upper Austria|59
+Weinzierl|48.127|15.126|AT|Lower Austria|59
+Weißenberg|50.685|8.106|DE|Rheinland-Pfalz|59
+Weissenbach|47.700|13.500|AT|Salzburg|58
+Weichenwang|48.185|8.946|DE|Baden-Wurttemberg|58|f
+Weigelsberg|49.098|12.960|DE|Bavaria|58|f
+Weilsberg|50.231|8.430|DE|Hesse|58|f
+Weinbiet|49.376|8.122|DE|Rheinland-Pfalz|58|f
+Weissensteinhorn|46.623|9.229|CH|Grisons|58|f
+Weißer Kogel|46.891|10.907|AT|Tyrol|58|f
+Weißkugel|46.798|10.726|AT|Tyrol|58|f
+Weidingen|49.971|5.939|LU|Wiltz|58
+Weinolsheim|49.816|8.273|DE|Rheinland-Pfalz|57
 Weibern|48.183|13.700|AT|Upper Austria|57
+Weissbriach|46.684|13.253|AT|Carinthia|57
 Weinburg|48.114|15.533|AT|Lower Austria|57
+Weifa|51.076|14.361|DE|Saxony|57
 Weiswampach|50.137|6.075|LU|Clervaux|57
+Weiner|35.620|-90.898|US|Arkansas|57
+Weidelbach|50.813|8.271|DE|Hesse|56
+Weir|37.310|-94.772|US|Kansas|56
+Weilen unter den Rinnen|48.190|8.765|DE|Baden-Wurttemberg|56
 Weitersfeld|48.781|15.813|AT|Lower Austria|56
+Weiler bei Weinsberg|49.118|9.398|DE|Baden-Wurttemberg|56
+Weißenbach|47.423|13.779|AT|Styria|55
+Weissenstein|46.686|13.730|AT|Carinthia|55
+Weiterswiller|48.854|7.412|FR|Grand Est|55
+Weid (bei Adetswil)|47.340|8.849|CH|Zurich|55
 Weitensfeld|46.847|14.192|AT|Carinthia|55
+Weislingen|48.921|7.254|FR|Grand Est|55
+Weidlingbach|48.267|16.250|AT|Lower Austria|55
+Weitersfeld an der Mur|46.700|15.717|AT|Styria|55
+Weidenhahn|50.547|7.834|DE|Rheinland-Pfalz|55
+Weißenschirmbach|51.314|11.551|DE|Saxony-Anhalt|55
+Weiler|50.317|7.117|DE|Rheinland-Pfalz|54
+Weifersdorf|48.128|14.234|AT|Upper Austria|54
+Weining Caohai Airport|26.852|104.341|CN|Guizhou|54|f
+Weir Hill|42.694|-71.105|US|Massachusetts|54|f
+Weiße Spitze|46.880|12.368|AT|Tyrol|54|f
+Weißensee|47.570|10.637|DE|Bavaria|54|f
+Weißer See|53.449|12.852|DE|Mecklenburg-Vorpommern|54|f
+Weisshorn|46.384|7.473|CH|Valais|54|f
+Weißtannenhöhe|47.940|8.118|DE|Baden-Wurttemberg|54|f
+Weiz-Unterfladnitz Airport|47.170|15.664|AT|Styria|54|f
+Weidum|53.146|5.743|NL|Friesland|54
+Weitendorf|53.896|11.354|DE|Mecklenburg-Vorpommern|54
+Weinbourg|48.871|7.441|FR|Grand Est|54
+Weitersweiler|49.617|8.000|DE|Rheinland-Pfalz|54
 Weiler-la-Tour|49.541|6.201|LU|Luxembourg|54
+Weinähr|50.323|7.847|DE|Rheinland-Pfalz|54
+Weira|50.700|11.717|DE|Thuringia|53
+Weißendorf|50.683|12.000|DE|Thuringia|51
 Weiten|48.296|15.260|AT|Lower Austria|51
 Weinburg am Saßbach|46.754|15.721|AT|Styria|51
 Weingraben|47.514|16.364|AT|Burgenland|51
 Weitersfelden|48.477|14.725|AT|Upper Austria|51
+Weinfelder Maar|50.176|6.850|DE|Rheinland-Pfalz|49|f
+Weingart Stadium|34.043|-118.152|US|California|49|f
+Weininger, Mount|-84.783|-65.500|AQ||49|f
+Weir Glacier|-66.098|-64.699|AQ||49|f
+Weir, Mount|-84.983|177.167|AQ||49|f
+Weiser Air Park|29.935|-95.642|US|Texas|49|f
+Weisseck|47.167|13.400|AT|Salzburg|49|f
+Weissenstein|47.253|7.511|CH|Solothurn|49|f
+Weitsee|47.682|12.562|DE|Bavaria|49|f
+Weidenbach|50.133|6.717|DE|Rheinland-Pfalz|49
+Weitersborn|49.850|7.533|DE|Rheinland-Pfalz|48
 Weinzierl am Walde|48.432|15.432|AT|Lower Austria|48
+Weidingen|50.017|6.383|DE|Rheinland-Pfalz|46
 Weilbach|48.277|13.372|AT|Upper Austria|45
 Weichselbaum|46.942|16.187|AT|Burgenland|42
 Weiden bei Rechnitz|47.300|16.350|AT|Burgenland|42
+Weidenbach|50.150|7.883|DE|Rheinland-Pfalz|41
+Weidner Ridge|-78.467|163.433|AQ||40|f
+Weiker Airport|41.232|-83.030|US|Ohio|40|f
+Weingartensee|46.064|7.839|CH|Valais|40|f
+Weinland Park|39.988|-82.998|US|Ohio|40|f
+Weir Farm National Historic Site|41.257|-73.456|US|Connecticut|40|f
+Weir Lake|45.644|-78.908|CA|Ontario|40|f
+Weir Lake|57.001|-94.583|CA|Manitoba|40|f
+Weird Lake|47.913|-90.790|US|Minnesota|40|f
+Weiser State Forest|40.575|-76.133|US|Pennsylvania|40|f
+Weißenberg|49.255|7.825|DE|Rheinland-Pfalz|40|f
+Weißer See|52.440|13.039|DE|Brandenburg|40|f
+Weißer Stein|49.453|8.724|DE|Baden-Wurttemberg|40|f
+Weissfluhjoch|46.833|9.805|CH|Grisons|40|f
+Weißhorn - Corno Bianco|46.354|11.444|IT|Trentino-Alto Adige|40|f
+WEIU-TV (Charleston)|39.479|-88.173|US|Illinois|40|f
+Weiden|49.817|7.300|DE|Rheinland-Pfalz|40
+Weitersbach|49.867|7.317|DE|Rheinland-Pfalz|39
 Weißenkirchen im Attergau|47.950|13.418|AT|Upper Austria|30
 Wei Xian|36.357|114.930|CN|Hebei|0
+Weibin|34.316|108.646|CN|Shaanxi|0
 Weibin|35.303|113.853|CN|Henan|0
 Weichang|41.948|117.758|CN|Hebei|0
+Weicheng|34.384|108.778|CN|Shaanxi|0
 Weicheng|34.331|108.717|CN|Shaanxi|0
+Weicun|31.969|119.927|CN|Jiangsu|0
+Weidi|22.713|111.667|CN|Guangdong|0
+Weidihu|28.976|111.962|CN|Hunan|0
+Weiding|49.483|12.567|DE|Bavaria|0
 Weidong|33.742|113.330|CN|Henan|0
 Weidu|34.036|113.825|CN|Henan|0
 Weifen|38.481|111.167|CN|Shanxi|0
+Weifeng|34.195|108.613|CN|Shaanxi|0
+Weiguo|45.024|127.348|CN|Heilongjiang|0
+Weiguo|46.894|127.810|CN|Heilongjiang|0
+Weihe|44.955|128.377|CN|Heilongjiang|0
+Weihe|32.995|105.325|CN|Gansu|0
 Weihui|35.407|114.059|CN|Henan|0
+Weikoro|-8.199|123.828|ID|East Nusa Tenggara|0
+Weiler|50.150|7.083|DE|Rheinland-Pfalz|0
+Weiping|29.727|118.784|CN|Zhejiang|0
+Weiqi|38.633|101.100|CN|Gansu|0
+Weirong|35.368|105.761|CN|Gansu|0
+Weisenheim am Berg|49.513|8.154|DE|Rheinland-Pfalz|0
+Weisenheim am Sand|49.518|8.248|DE|Rheinland-Pfalz|0
+Weishahe|41.737|126.748|CN|Jilin|0
+Weishan|29.330|120.435|CN|Zhejiang|0
 Weishan|25.229|100.307|CN|Yunnan|0
+Weishanzhuang|39.630|116.416|CN|Beijing|0
 Weishi|34.415|114.182|CN|Henan|0
 Weishui|38.034|114.137|CN|Hebei|0
+Weishui|29.987|111.611|CN|Hubei|0
+Weißbach|50.817|11.783|DE|Thuringia|0
+Weißenborn|51.125|10.116|DE|Hesse|0
 Weitang|30.850|120.911|CN|Zhejiang|0
+Weitang|31.465|120.645|CN|Jiangsu|0
+Weitian|27.713|118.787|CN|Fujian|0
+Weiting|31.347|120.694|CN|Jiangsu|0
+Weixi|28.248|110.564|CN|Hunan|0
+Weixin|29.760|111.108|CN|Hunan|0
+Weixin|34.667|103.869|CN|Gansu|0
+Weixin|28.933|120.614|CN|Zhejiang|0
+Weixing|46.718|126.658|CN|Heilongjiang|0
+Weiyang|34.355|108.739|CN|Shaanxi|0
 Weiyang|34.298|108.940|CN|Shaanxi|0
+Weiyanggong|34.289|108.911|CN|Shaanxi|0
+Weiyuan|39.949|112.341|CN|Shanxi|0
 Weiyuan|36.853|101.992|CN|Qinghai|0
 Weiyuan|23.468|100.684|CN|Yunnan|0
+Weiyuankou|30.133|115.233|CN|Hubei|0
+Weize|24.708|103.405|CN|Yunnan|0
+Weizhai|34.108|109.172|CN|Shaanxi|0
+Weizheng|23.651|112.731|CN|Guangdong|0
+Weizhou|38.106|114.150|CN|Hebei|0
 Weizhou|31.493|103.585|CN|Sichuan|0
+Weizhuang|34.974|109.927|CN|Shaanxi|0
+Weiziyu|41.436|124.505|CN|Liaoning|0
+Weiziyu|40.482|122.727|CN|Liaoning|0

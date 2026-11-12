@@ -27,14 +27,15 @@ Aga|30.942|31.290|EG|Dakahlia|93
 Agrínio|38.621|21.408|GR|West Greece|93
 Agogo|6.800|-1.082|GH|Ashanti|93
 Águas Belas|-9.111|-37.123|BR|Pernambuco|93
+Ağdam|40.000|47.000|AZ||93|r
 Aghjabadi|40.050|47.459|AZ|Ağcabǝdi|92
-Ağdam|40.000|47.000|AZ||92|r
 Agano|37.836|139.223|JP|Niigata|92
 Agar|23.712|76.016|IN|Madhya Pradesh|92
 Aghdam|39.991|46.927|AZ|Ağdam|92
 Agudos|-22.469|-48.987|BR|São Paulo|92
 Agua Dulce|18.139|-94.145|MX|Veracruz|91
 Agen|44.202|0.621|FR|New Aquitaine|91
+Agistri|37.692|23.347|GR|Attica|91|f
 Ágioi Anárgyroi|38.030|23.724|GR|Attica|91
 Águilas|37.406|-1.583|ES|Murcia|91
 Aguaí|-22.059|-46.979|BR|São Paulo|90
@@ -66,10 +67,12 @@ Aglantziá|35.154|33.396|CY|Nicosia|87
 Aguilares|13.957|-89.190|SV|San Salvador Department|87
 Agoura Hills|34.136|-118.775|US|California|86
 Aguadas|5.612|-75.456|CO|Caldas Department|86
-Agoura|34.143|-118.738|US|California|86
 Ağstafa|41.250|45.500|AZ||86|r
+Agoura|34.143|-118.738|US|California|86
 Água Branca|-9.261|-37.936|BR|Alagoas|86
 Agidel’|55.909|53.934|RU|Bashkortostan Republic|86
+Agathonísi|37.464|26.967|GR|South Aegean|86|f
+Agen La Garenne Airport|44.175|0.591|FR|New Aquitaine|86|f
 Agryz|56.523|52.994|RU|Tatarstan Republic|85
 Águas Formosas|-17.082|-40.936|BR|Minas Gerais|85
 Aguaytía|-9.038|-75.509|PE|Ucayali|85
@@ -79,6 +82,7 @@ Agouraï|33.630|-5.580|MA|Fes-Meknes|85
 Aginskoye|51.108|114.542|RU|Zabaykalskiy (Transbaikal) Kray|85
 Agropoli|40.349|14.991|IT|Campania|85
 Água Clara|-20.448|-52.878|BR|Mato Grosso do Sul|84
+Agrihan|18.745|145.669|MP|Northern Islands|84|f
 Aguadilla|18.427|-67.154|PR|Aguadilla|84
 Agudo|-29.645|-53.240|BR|Rio Grande do Sul|84
 Aguazul|5.173|-72.547|CO|Casanare Department|84
@@ -93,6 +97,7 @@ Agrate Brianza|45.574|9.348|IT|Lombardy|83
 Ago-Are|8.505|3.421|NG|Oyo State|83
 Aguadulce|36.814|-2.572|ES|Andalusia|83
 Aguilar|37.515|-4.657|ES|Andalusia|83
+Aguijan Island|14.850|145.559|MP|Tinian|82|f
 Ágios Athanásios|40.716|22.728|GR|Central Macedonia|82
 Ágios Dométios|35.173|33.340|CY|Nicosia|82
 Agutaya|11.148|120.942|PH|Mimaropa|82
@@ -113,6 +118,7 @@ Agrolândia|-27.412|-49.826|BR|Santa Catarina|81
 Agua de Dios|4.376|-74.670|CO|Cundinamarca|81
 Agnita|45.967|24.617|RO|Sibiu County|80
 Agbaou|6.341|-3.854|CI|Lagunes District|80
+Agathla Peak|36.827|-110.226|US|Arizona|80|f
 Agrahāra Sāmakkulam|11.153|77.011|IN|Tamil Nadu|80
 Agaram|13.110|80.233|IN|Tamil Nadu|80
 Ágios Stéfanos|38.147|23.856|GR|Attica|80
@@ -140,6 +146,8 @@ Aghbala|32.481|-5.643|MA|Beni Mellal-Khenifra|77
 Agerola|40.638|14.539|IT|Campania|77
 Aguilar de Campoo|42.795|-4.259|ES|Castille and León|77
 Aghlal|35.201|-1.070|DZ|Aïn Témouchent|77
+Aggeneys Airport|-29.282|18.814|ZA|Northern Cape|77|f
+Agios Minas Island|37.597|26.553|GR|North Aegean|77|f
 Águas Mornas|-27.694|-48.824|BR|Santa Catarina|77
 Agăş|46.483|26.217|RO|Bacău County|76
 Agabar|9.926|43.917|SO|Woqooyi Galbeed|76
@@ -153,6 +161,7 @@ Agronômica|-27.265|-49.711|BR|Santa Catarina|76
 Ageyevo|54.159|36.469|RU|Tula Oblast|75
 Agua Dulce|20.363|-97.293|MX|Veracruz|75
 Ağaçören|38.875|33.917|TR|Aksaray|75
+Agostinho Neto Airport|17.203|-25.091|CV|Ribeira Grande|75|f
 Aglayan|8.055|125.134|PH|Northern Mindanao|75
 Aguacatán|15.342|-91.311|GT|Huehuetenango|75
 Agriá|39.341|23.013|GR|Thessaly|75
@@ -161,6 +170,9 @@ Agaete|28.100|-15.700|ES|Canary Islands|75
 Agigea|44.093|28.611|RO|Constanța County|75
 Agba-Mbayassou|7.115|-4.268|CI|Lacs District|75
 Agramunt|41.787|1.097|ES|Catalonia|75
+Agincourt Island|25.629|122.079|TW|Taiwan|74|f
+Aguascalientes International Airport|21.706|-102.318|MX|Aguascalientes|74|f
+Aguni Island|26.589|127.226|JP|Okinawa|74|f
 Aga|14.097|120.802|PH|Calabarzon|74
 Agoué|6.246|1.676|BJ|Mono|74
 Agalatovo|60.219|30.274|RU|Leningradskaya Oblast'|74
@@ -174,6 +186,8 @@ Agricolândia|-5.797|-42.662|BR|Piauí|74
 Ágioi Theódoroi|37.927|23.142|GR|Peloponnese|74
 Aguilita|18.023|-66.535|PR|Juana Díaz|74
 Aguanqueterique|13.951|-87.663|HN|La Paz Department|74
+Aggteleki-karszt|48.500|20.500|HU||73|f
+Agra Airport|27.156|77.961|IN|Uttar Pradesh|73|f
 Agost|38.440|-0.638|ES|Valencia|73
 Aguas Buenas|18.257|-66.103|PR|Aguas Buenas|73
 Aguiarnópolis|-6.563|-47.466|BR|Tocantins|73
@@ -187,6 +201,9 @@ Aguada de Cima|40.523|-8.427|PT|Aveiro|73
 Agoua|6.881|-4.056|CI|Comoé District|73
 Aguanil|-20.942|-45.393|BR|Minas Gerais|73
 Agía Varvára|35.137|25.001|GR|Crete|73
+Agardhbukta|78.021|18.519|SJ||72|f
+Agony Island|9.831|169.229|MH|Likiep Atoll|72|f
+Aguas Claras Airport|8.315|-73.358|CO|Cesar Department|72|f
 Agematsu|35.785|137.693|JP|Nagano|72
 Agua Verde|22.892|-105.974|MX|Sinaloa|72
 Agostitlán|19.538|-100.618|MX|Michoacán|72
@@ -205,6 +222,9 @@ Agbannawag|15.679|121.083|PH|Central Luzon|72
 Agía Marína|37.820|23.844|GR|Attica|72
 Agua Buena|21.958|-99.394|MX|San Luis Potosí|71
 Aghavnatun|40.233|44.253|AM|Armavir|71
+Agattu Island|52.435|173.601|US|Alaska|71|f
+Ağgöl Milli Parkı|40.017|47.627|AZ|Ağcabǝdi|71|f
+Aguaclara Airport|4.747|-72.991|CO|Casanare Department|71|f
 Agno|45.999|8.900|CH|Ticino|71
 Agnadello|45.445|9.554|IT|Lombardy|71
 Aguas Claras|18.253|-65.653|PR|Ceiba|71
@@ -221,6 +241,7 @@ Aguilera|17.811|-95.015|MX|Veracruz|70
 Agua Fría|13.469|-87.551|HN|Valle Department|70
 Aghireșu-Fabrici|46.867|23.271|RO|Cluj County|70
 Agbannawag|17.376|121.548|PH|Cordillera|70
+Agadir–Al Massira Airport|30.325|-9.413|MA|Souss-Massa|70|f
 Água de Pau|37.721|-25.512|PT|Azores|70
 Agarak|38.865|46.195|AM|Syunik|70
 Agcogon|12.061|121.959|PH|Mimaropa|70
@@ -242,6 +263,10 @@ Agara|42.038|43.824|GE|Shida Kartli|69
 Agua Fria|35.654|-106.022|US|New Mexico|69
 Agua Blanca|14.498|-89.650|GT|Jutiapa|69
 Agía Marína|37.154|26.852|GR|South Aegean|69
+Agastya Malai|8.615|77.244|IN|Tamil Nadu|69|f
+Aggborough|52.380|-2.243|GB|England|69|f
+Agía Triáda|35.058|24.793|GR|Crete|69|f
+Agrakhanskiy Poluostrov|43.708|47.546|RU|Dagestan|69|f
 Agno|16.116|119.799|PH|Ilocos|68
 Aguada|12.817|123.833|PH|Bicol Region|68
 Aganan|10.783|122.533|PH|Western Visayas|68
@@ -257,6 +282,10 @@ Agullent|38.823|-0.548|ES|Valencia|67
 Agnianou|7.687|-3.757|CI|Lacs District|67
 Ag-ambulong|11.368|122.509|PH|Western Visayas|67
 Aguas Blancas|17.036|-100.062|MX|Guerrero|67
+Agía Dynatí|38.270|20.555|GR|Ionian Islands|67|f
+Agsiazan'|40.966|49.161|AZ|Xızı|67|f
+Aguateca|16.395|-90.205|GT|Petén|67|f
+Agustín Melgar Olympic Velodrome|19.410|-99.103|MX|Mexico City|67|f
 Agua Azul|20.603|-100.204|MX|Querétaro|67
 Agía Paraskeví|39.248|26.272|GR|North Aegean|67
 Agustín de Iturbide|15.076|-92.199|MX|Chiapas|67
@@ -286,6 +315,10 @@ Agrément|18.075|-63.078|MF||65
 Agubedia|42.768|41.669|GE|Abkhazia|65
 Agnanteró|39.486|21.848|GR|Thessaly|65
 Água Limpa|-18.074|-48.762|BR|Goiás|65
+Agadir Inezgane Airport|30.381|-9.546|MA|Souss-Massa|65|f
+Agnes Mountain|48.318|-120.968|US|Washington|65|f
+Ago Bay|34.283|136.767|JP||65|f
+Agra's Red Fort|27.180|78.021|IN|Uttar Pradesh|65|f
 Agighiol|45.034|28.876|RO|Tulcea County|65
 Agua Santa del Yuna|19.151|-69.801|DO|Duarte Province|65
 Agoy|44.147|39.037|RU|Krasnodar Krai|65
@@ -310,6 +343,13 @@ Agudzera|42.920|41.100|GE|Abkhazia|64
 Aghaiani|41.914|44.543|GE|Shida Kartli|64
 Ágios Pétros|40.867|22.583|GR|Central Macedonia|64
 Agua Zarca|15.634|-92.145|MX|Chiapas|63
+Agardhfjellet|78.083|18.833|SJ|Svalbard|63|f
+Agatti Island|10.864|72.197|IN|Lakshadweep|63|f
+Agaun Airport|-9.928|149.388|PG|Central Province|63|f
+Agigawa-damu|35.425|137.430|JP|Gifu|63|f
+Agnes Island|-18.355|146.328|AU|Queensland|63|f
+Agua Brava Lagoon|22.127|-105.552|MX|Nayarit|63|f
+Agua Buena Airport|-37.994|-72.250|CL|Araucania|63|f
 Agua Nueva|25.188|-101.088|MX|Coahuila|63
 Agkathiá|40.555|22.471|GR|Central Macedonia|63
 Agliandroni-Paternella|38.133|13.069|IT|Sicily|63
@@ -344,6 +384,18 @@ Ağaçeli|38.983|40.700|TR|Bingöl|61
 Agua Señora|22.238|-101.042|MX|San Luis Potosí|61
 Agbakro|7.762|-3.970|CI|Lacs District|61
 Agathenburg|53.561|9.532|DE|Lower Saxony|61
+Agartala Airport|23.887|91.240|IN|Tripura|61|f
+Agency Valley Dam|43.910|-118.153|US|Oregon|61|f
+Agersø|55.215|11.185|DK|Zealand|61|f
+Āgh Dāgh|37.223|46.232|IR|East Azerbaijan|61|f
+Agía Marína|34.765|33.344|CY|Larnaka|61|f
+Agia Triada|34.997|32.795|CY|Nicosia|61|f
+Ágios Nikólaos|34.998|32.898|CY|Nicosia|61|f
+Ágios Theódoros|34.952|32.813|CY|Limassol|61|f
+Agios Vasíleios|34.939|32.788|CY|Limassol|61|f
+Agnew Airport|-12.146|142.149|AU|Queensland|61|f
+Aguda Point|-65.031|-63.675|AQ||61|f
+Aguntum|46.829|12.822|AT|Tyrol|61|f
 Aguas del Padre|14.581|-87.879|HN|Comayagua Department|61
 Agarakavan|40.331|44.072|AM|Aragatsotn|61
 Agía Triáda|38.355|22.909|GR|Central Greece|61
@@ -375,31 +427,232 @@ Agnéré Koffikro|6.805|-4.919|CI|Lacs District|60
 Agrișu Mare|46.272|21.756|RO|Arad County|60
 Agua Buena|7.837|-80.400|PA|Los Santos Province|60
 Agios Dimítrios Kropiás|37.806|23.858|GR|Attica|60
+Agua Nacida|20.914|-97.707|MX|Veracruz|60
+Agostinho Neto|0.368|6.644|ST|São Tomé Island|60
+Agua de Tierra (Sección la Montaña)|18.087|-96.506|MX|Oaxaca|60
+Ágios Panteleímonas|40.724|21.748|GR|West Macedonia|60
+Agua Caliente de Linaca|13.435|-87.232|HN|Choluteca Department|60
+Ágios Spyrídon|39.144|20.863|GR|Epirus|60
 Agoncillo|42.447|-2.290|ES|La Rioja|60
+Agía Triáda|38.203|23.803|GR|Attica|60
+Ágra|39.158|26.061|GR|North Aegean|60
+Ágios Loukás|38.441|24.024|GR|Central Greece|60
+Água de Gato|15.035|-23.582|CV|São Domingos|59
+Agbanan-Yakro|6.844|-4.410|CI|Lacs District|59
+Agyagosszergény|47.610|16.938|HU|Győr-Moson-Sopron|59
+Agía Paraskeví Lamiéon|38.901|22.490|GR|Central Greece|59
+Agiá|39.313|20.359|GR|Epirus|59
+Ágios Vissaríonas|39.471|21.619|GR|Thessaly|59
+Agello|43.071|12.239|IT|Umbria|59
 Agliano|44.792|8.251|IT|Piedmont|59
+Agía Varvára|40.496|22.244|GR|Central Macedonia|59
+Agnes Banks|-33.609|150.717|AU|New South Wales|59
+Aguacatitla|18.035|-96.859|MX|Oaxaca|59
+Agia Kyriakií Spáton|37.993|23.978|GR|Attica|59
+Ágios Dimítrios|40.156|22.230|GR|Central Macedonia|59
+Aglona|56.133|27.007|LV|Preiļu novads|59
+Agrós|34.918|33.018|CY|Limassol|59
+Aguessac|44.157|3.098|FR|Occitanie|59
+Agua Bendita|18.987|-99.852|MX|México|59
+Agua Gordita|22.134|-101.970|MX|Zacatecas|59
+Ágios Geórgios Lichádos|38.838|22.881|GR|Central Greece|59
+Agliate|45.685|9.238|IT|Lombardy|59
+Agua Gorda de los Patos|21.880|-101.469|MX|Zacatecas|59
+Agua Dulce|18.619|-98.511|MX|Puebla|59
+Agua Blanca|27.114|-109.735|MX|Sonora|59
+Ágios Pétros|37.328|22.547|GR|Peloponnese|59
+Aguacatal|8.467|-82.456|PA|Chiriquí Province|59
+Agnin|45.340|4.853|FR|Auvergne-Rhône-Alpes|59
+Ágras|40.806|22.004|GR|Central Macedonia|59
+Agíasma|40.908|24.656|GR|East Macedonia and Thrace|59
+Agua de Pescadito|17.891|-96.326|MX|Oaxaca|59
+Agua Escondida|18.975|-97.200|MX|Veracruz|58
+Agía Ánna|38.859|23.400|GR|Central Greece|58
+Ágios Ioánnis|39.697|20.813|GR|Epirus|58
+Ágrafa|39.137|21.649|GR|Central Greece|58
+Agua Dulce|27.782|-97.909|US|Texas|58
+Agbanou-Djoukoukro|7.920|-5.528|CI|Vallée du Bandama District|58
+Agnos|43.163|-0.619|FR|New Aquitaine|58
+A' Ghlas-bheinn|57.255|-5.304|GB|Scotland|58|f
+Agat US Assault Beaches - 1st Provisional Marine Brigade WW2|13.388|144.656|GU|Agat|58|f
+Agatti Airport|10.824|72.176|IN|Lakshadweep|58|f
+Ägerisee|47.122|8.619|CH|Zug|58|f
+Aghitu|39.514|46.086|AM|Syunik|58|f
+Āgra Canal|28.137|77.364|IN||58|f
+Agua Caliente Springs Airport|32.957|-116.298|US|California|58|f
+Agua Dulce Airport|34.504|-118.315|US|California|58|f
+Agua Dulce Mountains|32.056|-113.200|US|Arizona|58|f
+Agua Hedionda|33.142|-117.328|US|California|58|f
+Aguereberry Point|36.358|-117.048|US|California|58|f
+Aguila|33.943|-113.174|US|Arizona|58
+Água-Côco|0.047|6.519|ST|São Tomé Island|58
 Aguarón|41.339|-1.271|ES|Aragon|58
+Agua Grande|19.532|-100.022|MX|México|58
+Ágioi Theódoroi|35.319|25.093|GR|Crete|58
+Agua Linda|20.586|-97.866|MX|Puebla|58
+Aguachinola|18.767|-97.219|MX|Veracruz|58
+Ağaçlı|41.267|28.875|TR|Istanbul|58
 Agullana|42.394|2.847|ES|Catalonia|58
+Ágioi Anárgyroi|39.140|21.026|GR|Epirus|58
+Agua Caliente de los Monzón|24.933|-107.386|MX|Sinaloa|58
+Agua del Toro|16.992|-97.716|MX|Oaxaca|58
+Agarn|46.297|7.663|CH|Valais|58
 Aguilafuente|41.227|-4.112|ES|Castille and León|58
+Ágios Geórgios|39.267|20.854|GR|Epirus|57
+Agris|45.774|0.334|FR|New Aquitaine|57
+Ágios Nikólaos|38.869|20.804|GR|West Greece|57
+Agua de las Arenas|25.861|-108.711|MX|Sinaloa|57
 Agugliaro|45.325|11.585|IT|Veneto|57
+Agua del Sol|16.471|-96.731|MX|Oaxaca|57
+Agoua-Kongokro|7.577|-4.901|CI|Vallée du Bandama District|57
+Agrișteu|46.392|24.685|RO|Mureș County|57
+Agua Fría|25.812|-100.145|MX|Nuevo León|57
+Agía Marína|40.597|22.215|GR|Central Macedonia|57
+Agua Tordillo|17.227|-98.987|MX|Guerrero|57
+Ágios Antónios|40.437|23.093|GR|Central Macedonia|57
+Agua Zarca|19.547|-100.020|MX|México|57
+Ágios Ioánnis|41.100|23.580|GR|Central Macedonia|57
+Ágios Arsénios|37.061|25.391|GR|South Aegean|57
 Agres|38.783|-0.517|ES|Valencia|57
+Agua Caliente|20.040|-100.675|MX|Guanajuato|57
 Aguilar del Río Alhama|41.962|-1.993|ES|La Rioja|57
+Agía Paraskeví|39.099|20.991|GR|Epirus|57
+Agua Limpia|20.242|-98.640|MX|Hidalgo|57
+Agrano|45.846|8.415|IT|Piedmont|57
+Ágios Geórgios Ferón|39.370|22.777|GR|Thessaly|57
+Aguamilpa|20.921|-105.029|MX|Nayarit|57
+Agarak’i|43.199|40.410|GE|Abkhazia|57
+Agency|39.645|-94.740|US|Missouri|57
+Āghcheh Masjed|36.806|46.475|IR|West Azerbaijan|57
+Ágios Konstantínos|37.726|24.013|GR|Attica|57
+Agnez-lès-Duisans|50.308|2.658|FR|Hauts-de-France|57
+Ágios Geórgios|37.688|21.518|GR|West Greece|56
 Aguaviva|40.822|-0.195|ES|Aragon|56
+Aguaje el Zapote|15.766|-96.260|MX|Oaxaca|56
+Agonassou|7.504|-5.603|CI|Vallée du Bandama District|56
+Agba-Kouassikro|7.940|-5.478|CI|Vallée du Bandama District|56
+Agua Salada|19.457|-100.443|MX|Michoacán|56
+Agua Zarca|23.834|-103.758|MX|Zacatecas|56
+Agía Galíni|35.097|24.688|GR|Crete|56
+Agostadero (San José Agostadero)|20.040|-100.002|MX|México|56
+Agency|40.995|-92.307|US|Iowa|56
+Agía Effimía|38.303|20.596|GR|Ionian Islands|56
+Agti el Ghazi|26.416|-14.184|EH||56
+Aguapepito|24.594|-107.674|MX|Sinaloa|56
+Ağzıkara|38.582|30.559|TR|Afyonkarahisar Province|56
+Agua Linda|20.446|-97.867|MX|Puebla|56
+Aggtelek|48.467|20.517|HU|Borsod-Abaúj-Zemplén|56
+Agiófyllo|39.863|21.562|GR|Thessaly|56
+Agua Amarga|18.963|-99.752|MX|México|56
+Aguacatitla|21.113|-98.448|MX|Hidalgo|56
+Agriș|46.594|23.521|RO|Cluj County|56
+Agnantiá|39.868|21.465|GR|Thessaly|56
+Ágios Geórgios|39.296|21.836|GR|Thessaly|56
+Ágios Ioánnis|39.616|19.848|GR|Ionian Islands|56
+Agua Bendita|19.274|-99.945|MX|México|55
+Agua Blanca|17.486|-92.621|MX|Tabasco|55
+Agua Escondida (El Olvido)|19.085|-96.821|MX|Veracruz|55
+Agua Zarca|19.241|-102.361|MX|Michoacán|55
+Agraciada|-33.810|-58.267|UY|Soriano|55
+Agua Escondida (Santa Cruz Agua Escondida)|18.560|-98.451|MX|Puebla|55
+Aguaje de Espejo|20.430|-100.546|MX|Guanajuato|55
 Agallpampa|-7.986|-78.548|PE|La Libertad|55
+Ágios Geórgios Sykoúsis|38.319|26.057|GR|North Aegean|55
+Agustín Millán|18.886|-96.920|MX|Veracruz|55
+Agua Fría|17.745|-92.097|MX|Chiapas|55
+Agua Santa Ana|18.516|-97.956|MX|Puebla|55
+Ágnanta|39.474|21.081|GR|Epirus|55
+Aguapinole (Cuapinole)|17.972|-95.113|MX|Veracruz|55
+Agârbiciu|46.770|23.279|RO|Cluj County|55
+Agía Paraskeví|40.949|23.457|GR|Central Macedonia|55
+Āghān|28.656|53.139|IR|Fars|55
+Agua de la Rosa|18.164|-96.756|MX|Oaxaca|55
+Aghin|40.586|43.698|AM|Shirak|55
+Agnone|40.216|14.997|IT|Campania|55
+Agua Zarca|17.595|-99.145|MX|Guerrero|55
+Agua Amarga|21.545|-99.099|MX|San Luis Potosí|55
+Ágios Ioánnis|37.679|21.385|GR|West Greece|55
+Agua Blanca|25.876|-108.116|MX|Sinaloa|55
+Agua Fría|18.054|-94.741|MX|Veracruz|55
 Agnana Calabra|38.302|16.227|IT|Calabria|55
+Agua Fría Campanario|16.742|-96.913|MX|Oaxaca|55
+Agiabampo Número Dos|26.324|-109.096|MX|Sonora|54
+‘Agur|31.698|34.912|IL|Jerusalem|54
+Aguscello|44.807|11.660|IT|Emilia-Romagna|54
+Aguacatitla|20.862|-98.428|MX|Hidalgo|54
+Āghājerī|37.438|46.420|IR|East Azerbaijan|54
+Agassiz, Cape|-68.467|-62.617|AQ||54|f
+Ağcaşar Barajı|38.183|35.395|TR|Kayseri|54|f
+Agerø|56.714|8.571|DK|North Denmark|54|f
+Aggenstein|47.533|10.550|AT|Tyrol|54|f
+Aggtelek National Park|48.503|20.573|HU|Borsod-Abaúj-Zemplén|54|f
+Aghla More|55.063|-8.079|IE|Ulster|54|f
+Agrinion Airport|38.602|21.351|GR|West Greece|54|f
+Ağrı Airport|39.655|43.026|TR|Ağrı|54|f
+Agua Santa Airport|-34.554|-71.336|CL|O'Higgins Region|54|f
+Aguenar – Hadj Bey Akhamok Airport|22.811|5.451|DZ|Tamanrasset|54|f
+Aguni Island|26.593|127.240|JP|Okinawa|54|f
+Agurto Rock|-63.300|-57.900|AQ||54|f
+Agua Zarca|17.050|-99.943|MX|Guerrero|54
 Aglientu|41.079|9.113|IT|Sardinia|54
+Agua Caliente|19.320|-96.646|MX|Veracruz|54
+Agua Nueva|25.885|-109.094|MX|Sinaloa|54
+Agustín González|20.860|-100.853|MX|Guanajuato|54
+Aguacatitla|18.191|-96.733|MX|Oaxaca|54
+Agua Fría|18.862|-99.875|MX|México|54
+Agua Escondida|20.511|-103.087|MX|Jalisco|54
 Àger|42.000|0.767|ES|Catalonia|54
+Agios Geórgios Argyrádon|39.427|19.949|GR|Ionian Islands|54
+Agua de Pajarito|16.736|-92.567|MX|Chiapas|54
+Agaua|44.834|28.076|RO|Brăila County|54
 Agua Blanca|-7.046|-79.061|PE|Cajamarca Department|53
 Aggsbach|48.294|15.404|AT|Lower Austria|52
 Aguilar de Campos|41.984|-5.181|ES|Castille and León|50
 Agra|46.037|8.768|IT|Lombardy|50
 Agrón|37.030|-3.829|ES|Andalusia|50
 Aguilón|41.295|-1.046|ES|Aragon|49
+Aga Point|13.246|144.727|GU|Inarajan|49|f
+Agate Pass Bridge|47.712|-122.566|US|Washington|49|f
+Aghla Beg|55.069|-8.054|IE|Ulster|49|f
+Agho Island|11.226|123.196|PH|Western Visayas|49|f
+Aguila|25.897|-109.169|MX|Sinaloa|49|f
 Agalega Islands|-10.400|56.617|MU||48|r
 Aguilar de Segarra|41.748|1.629|ES|Catalonia|47
+Agethorst|54.019|9.436|DE|Schleswig-Holstein|46
 Agón|41.856|-1.452|ES|Aragon|46
 Agallas|40.449|-6.442|ES|Castille and León|45
 Agüero|42.355|-0.793|ES|Aragon|44
 Aguilar de Codés|42.612|-2.390|ES|Navarre|41
+Agad-agad Mountain Range|8.179|124.290|PH||40|f
+Agassiz Glacier|-43.498|170.210|NZ|West Coast|40|f
+Agassiz Glacier|48.934|-114.158|US|Montana|40|f
+Agassiz Glacier|60.186|-140.742|US|Alaska|40|f
+Agassiz Ice Cap|80.252|-75.996|CA|Nunavut|40|f
+Agassiz National Wildlife Refuge|48.346|-95.946|US|Minnesota|40|f
+Agassiz Peak|35.326|-111.678|US|Arizona|40|f
+Agassizhorn|46.547|8.114|CH|Bern|40|f
+Agat Bay|13.397|144.655|GU|Agat|40|f
+Agate Fossil Beds National Monument|42.422|-103.754|US|Nebraska|40|f
+Agate Peak|-72.933|163.783|AQ||40|f
+Agawa Bay|47.333|-84.667|CA|Ontario|40|f
+Agawa Canyon|47.450|-84.483|CA|Ontario|40|f
+Agaya Ganga|11.268|78.393|IN|Tamil Nadu|40|f
+Ägelsee|47.566|7.880|CH|Aargau|40|f
+Agency Lake|42.536|-121.965|US|Oregon|40|f
+Ågestasjön|59.224|18.073|SE|Stockholm|40|f
+Aggie Softball Complex|30.605|-96.344|US|Texas|40|f
+Agiak Lagoon|68.914|-164.509|US|Alaska|40|f
+Aglen Point|-62.577|-61.154|AQ||40|f
+Agnew Lake|46.355|-81.761|CA|Ontario|40|f
+Agnew Lake|37.755|-119.135|US|California|40|f
+Ago di Sciora|46.302|9.626|CH|Grisons|40|f
+Agostinho Neto University|-8.942|13.281|AO|Luanda|40|f
+Agua Caliente Mountains|32.997|-113.332|US|Arizona|40|f
+Agua Fria National Monument|34.192|-112.070|US|Arizona|40|f
+Aguallamaya Lake|-16.684|-68.975|BO|La Paz Department|40|f
+Aguaro-Guariquito National Park|8.371|-66.713|VE|Guárico|40|f
+Agüedo Point|-62.442|-59.788|AQ||40|f
+Aguja Saint Exupery|-49.288|-73.039|AR|Santa Cruz|40|f
 Agía Kyriakí|39.523|20.884|GR|Epirus|38
 Aguilar del Alfambra|40.590|-0.796|ES|Aragon|38
 Aguilar de Bureba|42.590|-3.329|ES|Castille and León|37
@@ -411,6 +664,8 @@ Ağaçlı|38.517|40.904|TR|Diyarbakır Province|0
 Agadir Melloul|30.225|-7.796|MA|Souss-Massa|0
 Agago|2.834|33.334|UG|Northern Region|0
 Agano|37.774|139.222|JP|Niigata|0
+Agarsin|43.487|82.407|CN|Xinjiang|0
+Agax Obo|46.286|90.421|CN|Xinjiang|0
 Agbani|6.307|7.549|NG|Enugu State|0
 Agía Foteiní|35.255|24.635|GR|Crete|0
 Ágioi Déka|35.067|24.967|GR|Crete|0
@@ -430,5 +685,6 @@ Aguas Negras|-0.131|-76.300|EC|Sucumbíos|0
 Aguasay|9.425|-63.731|VE|Monagas|0
 Aguata|6.016|7.088|NG|Anambra|0
 Agudo|38.982|-4.871|ES|Castille-La Mancha|0
+Aguitu|41.775|113.139|CN|Inner Mongolia|0
 Aguobu-Owa|6.372|7.272|NG|Enugu State|0
 Agwara|10.706|4.581|NG|Niger State|0

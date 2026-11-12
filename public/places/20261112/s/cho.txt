@@ -40,9 +40,11 @@ Choornikkara|10.088|76.341|IN|Kerala|93
 Chongxing|38.033|106.300|CN|Ningxia|92
 Choa Saidan Shah|32.720|72.986|PK|Punjab|92
 Chojnice|53.696|17.557|PL|Pomerania|92
+Cho Oyu|28.094|86.661|CN||92|f
 Choi Wan|22.334|114.214|HK|Wong Tai Sin District|92
 Chōrōd|11.628|75.591|IN|Kerala|92
 Choisy-le-Roi|48.768|2.419|FR|Île-de-France|91
+Chongqing Jiangbei International Airport|29.719|106.642|CN|Chongqing|91|f
 Chorley|53.650|-2.617|GB|England|91
 Chockli|11.727|75.555|IN|Kerala|91
 Chomphon|13.804|100.560|TH|Bangkok|90
@@ -67,6 +69,8 @@ Chowchilla|37.123|-120.260|US|California|85
 Chortiátis|40.610|23.100|GR|Central Macedonia|85
 Choi Hung Estate|22.336|114.206|HK|Wong Tai Sin District|85
 Chon Daen|16.190|100.860|TH|Phetchabun|85
+Chomo Lonzo|27.931|87.108|CN||85|f
+Choibalsan Airport|48.136|114.646|MN|East Aimak|84|f
 Chongoyape|-6.641|-79.389|PE|Lambayeque|84
 Choszczno|53.169|15.421|PL|West Pomerania|84
 Chokkanāthapuram|9.992|77.357|IN|Tamil Nadu|84
@@ -90,17 +94,19 @@ Chorleywood|51.655|-0.514|GB|England|82
 Chos Malal|-37.378|-70.271|AR|Neuquen|81
 Chorrochó|-8.980|-39.096|BR|Bahia|81
 Chornomorske|45.507|32.698|UA|Crimea|81
+Chonhar Peninsula|46.055|34.539|UA|Kherson|81|f
 Choglamsar|34.112|77.588|IN|Ladakh|81
 Chocamán|19.012|-97.033|MX|Veracruz|81
+Chobe|-18.500|25.000|BW||81|r
 Choyr|46.361|108.361|MN|Govĭ-Sumber|80
 Choyr|46.133|108.650|MN|Govĭ-Sumber|80
 Chottanikkara|9.936|76.381|IN|Kerala|79
 Choix|26.709|-108.325|MX|Sinaloa|79
-Chobe|-18.500|25.000|BW||79|r
 Chotěboř|49.721|15.670|CZ|Vysocina|79
 Chornobaivka|46.696|32.545|UA|Kherson|79
 Choceň|50.002|16.223|CZ|Pardubice Region|79
 Chop|48.432|22.204|UA|Zakarpattia|79
+Chongqing Xiannüshan Airport|29.466|107.692|CN|Chongqing|78|f
 Chontaul|43.305|46.860|RU|Dagestan|78
 Chocianów|51.419|15.902|PL|Lower Silesia|78
 Chorvátsky Grob|48.228|17.291|SK|Bratislava Region|78
@@ -112,6 +118,7 @@ Chojna|52.964|14.428|PL|West Pomerania|77
 Chontalpa|17.665|-93.481|MX|Tabasco|77
 Chornobay|49.671|32.324|UA|Cherkasy|77
 Chornomorske|46.584|30.931|UA|Odesa|77
+Choiseul Bay Airport|-6.711|156.396|SB|Choiseul Province|77|f
 Choozhal|8.310|77.128|IN|Tamil Nadu|77
 Cholapuram|11.054|79.413|IN|Tamil Nadu|77
 Chong Chien Court - Wyler Gardens|22.318|114.192|HK|Kowloon City|77
@@ -125,11 +132,15 @@ Chornukhyne|48.323|38.517|UA|Luhansk|75
 Chocznia|49.874|19.454|PL|Lesser Poland|75
 Choroszcz|53.143|22.989|PL|Podlasie|75
 Chŏng Kal|13.955|103.574|KH|Ŏtâr Méanchey|75
+Choybalsan Uul|47.817|107.000|MN|Ulaanbaatar|74|f
 Cholīcheh|32.231|50.629|IR|Chaharmahal and Bakhtiari|74
 Cholul Cantón|21.011|-89.291|MX|Yucatán|73
+Cholomon|40.459|23.517|GR|Central Macedonia|73|f
 Chocholá|20.751|-89.830|MX|Yucatán|73
 Choachí|4.529|-73.923|CO|Cundinamarca|73
 Chob Ta Trav|13.626|103.817|KH|Siem Reap|73
+Chongqing Wushan Airport|31.064|109.701|CN|Chongqing|72|f
+Chopaka Mountain|48.957|-119.785|US|Washington|72|f
 Chornoye|55.746|38.069|RU|Moscow Oblast|72
 Choi Fai Estate|22.335|114.218|HK|Wong Tai Sin District|72
 Cholchol|-38.602|-72.846|CL|Araucania|72
@@ -138,6 +149,8 @@ Chomon|31.427|75.736|IN|Punjab|71
 Chợ Rã|22.450|105.700|VN|Thai Nguyen|71
 Chornianka|46.652|33.360|UA|Kherson|71
 Chociwel|53.467|15.333|PL|West Pomerania|70
+Chomolhari Kang|28.165|90.183|BT|Punakha|70|f
+Chong-Alay Range|39.247|72.263|KG||70|f
 Chopwell|54.918|-1.820|GB|England|70
 Cholsey|51.573|-1.154|GB|England|70
 Choppington|55.150|-1.603|GB|England|70
@@ -150,6 +163,9 @@ Choccolocco|33.659|-85.704|US|Alabama|69
 Chornohuzy|48.271|25.229|UA|Chernivtsi|69
 Chongru|26.951|119.925|CN|Fujian|69
 Chorna Tysa|48.307|24.334|UA|Zakarpattia|69
+Choctawhatchee Bay|30.432|-86.350|US|Florida|69|f
+Chorolque|-20.918|-66.036|BO|Potosí Department|69|f
+Chos Malal Airport|-37.445|-70.223|AR|Neuquen|69|f
 Chomérac|44.708|4.662|FR|Auvergne-Rhône-Alpes|69
 Chotěšov|49.654|13.203|CZ|Plzeň Region|69
 Chouani|-11.823|43.294|KM|Grande Comore|68
@@ -163,6 +179,12 @@ Chợ Mới|21.884|105.773|VN|Thai Nguyen|68
 Chornivka|48.418|26.012|UA|Chernivtsi|67
 Chontla|21.296|-97.924|MX|Veracruz|67
 Chomonyn|48.402|22.461|UA|Zakarpattia|67
+Chocolate Mountains|33.466|-115.584|US|California|67|f
+Choejeongsan|35.762|128.600|KR|Daegu|67|f
+Choiseul Island|-7.049|156.962|SB||67|f
+Chokdaebong|37.976|127.544|KR|Gyeonggi-do|67|f
+Chomolhari|27.824|89.269|BT|Paro|67|f
+Chongqi Bridge|31.711|121.664|CN|Jiangsu|67|f
 Chornotysiv|48.077|23.054|UA|Zakarpattia|67
 Chouzé-sur-Loire|47.237|0.124|FR|Centre-Val de Loire|67
 Chorna|47.620|29.338|UA|Odesa|67
@@ -175,6 +197,16 @@ Chochkan|41.181|44.832|AM|Lori|66
 Choya|52.011|86.548|RU|Altai|66
 Chozas de Canales|40.100|-4.043|ES|Castille-La Mancha|66
 Chodecz|52.405|19.028|PL|Kujawsko-Pomorskie|66
+Ch’ŏndŭng-san|36.086|127.309|KR|Jeollabuk-do|65|f
+Ch’ŏngyŏn-sa|36.389|129.232|KR|Gyeongsangbuk-do|65|f
+Choiseul Sound|-51.939|-58.585|FK||65|f
+Chole Island|-7.978|39.762|TZ|Pwani|65|f
+Cholguahue Airport|-37.471|-72.138|CL|Biobio|65|f
+Chŏngil-bong|41.857|128.155|KP|Yanggang-do|65|f
+Chongra Pahar|35.324|74.672|PK|Gilgit-Baltistan|65|f
+Choreti Airport|-13.510|-64.967|BO|Beni Department|65|f
+Choto, Mount|-69.192|39.667|AQ||65|f
+Chott el Djerid|33.737|8.382|TN|Kebili Governorate|65|f
 Chouzy-sur-Cisse|47.526|1.247|FR|Centre-Val de Loire|65
 Chodová Planá|49.893|12.730|CZ|Plzeň Region|65
 Chowplū|36.514|46.953|IR|West Azerbaijan|65
@@ -188,6 +220,8 @@ Chotepe|15.417|-87.983|HN|Cortés Department|64
 Choctaw Lake|39.960|-83.485|US|Ohio|64
 Choisy|45.994|6.059|FR|Auvergne-Rhône-Alpes|64
 Chodel|51.112|22.133|PL|Lublin|64
+Cholet-Le Pontreau Airport|47.082|-0.877|FR|Pays de la Loire|63|f
+Chouaib Doukkali University|33.227|-8.488|MA|Casablanca-Settat|63|f
 Chokhatauri|42.019|42.239|GE|Guria|63
 Chorotis|-27.916|-61.403|AR|Chaco|63
 Chonhar|46.030|34.547|UA|Kherson|63
@@ -203,25 +237,136 @@ Chonegal|18.575|-95.393|MX|Veracruz|62
 Chontalcoatlán|18.654|-99.574|MX|Guerrero|62
 Choulex|46.225|6.228|CH|Geneva|61
 Choum|21.300|-13.067|MR|Adrar|61
+Ch’ŏndŭng-san|37.098|128.003|KR|North Chungcheong|61|f
+Ch’ŏnhwang-san|35.510|128.266|KR|Gyeongsangnam-do|61|f
+Chowchilla Mountains|37.525|-119.722|US|California|61|f
+Chowra Island|8.454|93.048|IN|Andaman and Nicobar|61|f
 Chornyi Potik|48.183|22.902|UA|Zakarpattia|61
 Choiseul Province|-6.992|156.863|SB||60|r
 Choisey|47.064|5.459|FR|Bourgogne-Franche-Comté|60
 Chornyi Potik|48.403|22.997|UA|Zakarpattia|60
 Chornorudka|49.843|29.061|UA|Zhytomyr Oblast|60
+Chotěvice|50.521|15.767|CZ|Hradec Králové Region|60
+Chotnyy Potik|48.557|26.035|UA|Chernivtsi|60
+Chocerady|49.873|14.802|CZ|Central Bohemia|60
 Choceń|52.486|19.013|PL|Kujawsko-Pomorskie|60
+Chowtāsh|34.837|48.252|IR|Hamadan Province|60
+Chornyy Ostriv|49.506|26.757|UA|Khmelnytskyi|60
+Choudrant|32.530|-92.514|US|Louisiana|60
+Cholerzyn|50.059|19.764|PL|Lesser Poland|59
+Choma|48.136|22.634|UA|Zakarpattia|59
+Choltice|49.988|15.619|CZ|Pardubice Region|59
+Chouilly|49.025|4.014|FR|Grand Est|59
+Cholewiana Góra|50.350|22.075|PL|Subcarpathia|59
+Chozeau|45.700|5.203|FR|Auvergne-Rhône-Alpes|59
+Choctaw|29.839|-90.691|US|Louisiana|59
+Chojno|51.626|17.009|PL|Greater Poland|59
+Chotyně|50.836|14.869|CZ|Liberec Region|59
+Chornice|49.667|16.743|CZ|Pardubice Region|59
+Chotětov|50.337|14.802|CZ|Central Bohemia|58
 Chodów|52.250|19.012|PL|Greater Poland|58
 Chongos Alto|-12.311|-75.289|PE|Junin|58
+Chocowinity|35.513|-77.101|US|North Carolina|58
+Chomoni|-11.643|43.386|KM|Grande Comore|58
+Choate Island|42.665|-70.759|US|Massachusetts|58|f
+Chocolate Mountains|33.185|-114.392|US|Arizona|58|f
+Chogolisa I|35.614|76.576|PK|Gilgit-Baltistan|58|f
+Choiseul Bay|-6.685|156.403|SB||58|f
+Cholame Hills|35.821|-120.427|US|California|58|f
+Cholpon-Ata Airport|42.645|77.060|KG|Issyk-Kul|58|f
+Chongwen Men|39.900|116.412|CN|Beijing|58|f
+Choteau Mountain|47.934|-112.713|US|Montana|58|f
+Choyce Point|-67.709|-65.369|AQ||58|f
 Chorkówka|49.647|21.672|PL|Subcarpathia|58
+Chotíkov|49.793|13.318|CZ|Plzeň Region|58
+Choungui|-12.962|45.127|YT|Kani-Kéli|58
+Chota Bālihāra|25.763|88.460|BD|Rangpur Division|57
+Chooz|50.103|4.808|FR|Grand Est|57
+Chouppes|46.811|0.164|FR|New Aquitaine|57
+Chosgón|-5.930|-78.009|PE|Amazonas|57
 Chojata|-16.389|-70.729|PE|Moquegua Department|57
+Choapa|18.736|-96.962|MX|Veracruz|57
+Choritiro|19.370|-102.393|MX|Michoacán|57
+Chorýgio|40.996|22.726|GR|Central Macedonia|57
+Choryně|49.496|17.899|CZ|Zlín|57
+Chortoryya|48.374|25.566|UA|Chernivtsi|57
+Chornozemne|46.784|34.830|UA|Zaporizhzhia|57
+Chotusice|49.949|15.394|CZ|Central Bohemia|57
+Chodov|49.418|12.830|CZ|Plzeň Region|57
+Choratan|40.862|45.488|AM|Tavush|56
+Cholina|49.656|17.054|CZ|Olomouc Region|56
+Choccecancha|-13.683|-73.264|PE|Apurímac Department|56
+Chomutice|50.359|15.496|CZ|Hradec Králové Region|56
+Chohodarivka|47.373|30.072|UA|Odesa|56
+Chodouny|50.473|14.250|CZ|Ústí nad Labem Region|56
+Chorrerón|22.536|-79.713|CU|Villa Clara Province|56
+Choustníkovo Hradiště|50.426|15.879|CZ|Hradec Králové Region|56
+Choquecancha|-13.034|-72.033|PE|Cuzco Department|56
+Chorohui|25.517|-108.462|MX|Sinaloa|56
+Chochoh|20.994|-89.467|MX|Yucatán|56
+Choue|48.000|0.933|FR|Centre-Val de Loire|55
+Choisel|48.688|2.018|FR|Île-de-France|55
+Chovno-Fedorivka|50.001|34.432|UA|Poltava|55
+Chožov|50.399|13.859|CZ|Ústí nad Labem Region|55
+Chojchow|16.909|-92.359|MX|Chiapas|55
+Chorio|37.986|15.812|IT|Calabria|55
+Chorbivka|49.208|34.326|UA|Poltava|55
+Chorey-les-Beaune|47.050|4.867|FR|Bourgogne-Franche-Comté|55
+Choirokoitía|34.797|33.335|CY|Larnaka|55
+Chotylub|50.238|23.227|PL|Subcarpathia|54
+Chocenice|49.548|13.520|CZ|Plzeň Region|54
+Choustník|49.333|14.838|CZ|South Bohemian Region|54
+Chobe National Park|-18.667|24.500|BW|North-West|54|f
+Choc Bay|14.041|-60.974|LC|Gros-Islet|54|f
+Chocowinity Bay|35.505|-77.045|US|North Carolina|54|f
+Chokaa Islands|-7.409|39.433|TZ|Pwani|54|f
+Chokurdakh Airport|70.623|147.902|RU|Sakha|54|f
+Cholmondeley Islet|-11.373|143.058|AU|Queensland|54|f
+Chomjakovbreen|76.952|16.411|SJ|Svalbard|54|f
+Chouteau Island|38.769|-90.147|US|Illinois|54|f
+Chomelix|45.262|3.828|FR|Auvergne-Rhône-Alpes|54
+Choňkovce|48.779|22.240|SK|Košice Region|54
+Chorteró|41.219|23.369|GR|Central Macedonia|54
+Chornohirka|47.040|30.870|UA|Odesa|54
+Choipa|25.626|-108.312|MX|Sinaloa|54
 Choros|-5.900|-78.694|PE|Cajamarca Department|51
 Chorlton|53.050|-2.405|GB|England|51
 Chóvar|39.850|-0.317|ES|Valencia|51
 Chocos|-12.915|-75.863|PE|Lima region|50
 Choropampa|-6.371|-78.412|PE|Cajamarca Department|50
+Chocolate, Cape|-77.933|164.583|AQ||49|f
+Chofu Airport|35.667|139.533|JP|Tokyo|49|f
+Chogo Lungma Glacier|35.946|75.121|PK|Gilgit-Baltistan|49|f
+Cholet Island|-65.062|-64.030|AQ||49|f
+Chomedokl Islets|7.228|134.399|PW|Koror|49|f
+Chopin Ridge|-62.146|-58.132|AQ||49|f
+Choquelimpie|-18.310|-69.259|CL|Arica y Parinacota Region|49|f
+Choteau Airport|47.821|-112.169|US|Montana|49|f
 Chotcza|51.240|21.777|PL|Mazovia|49
 Chóra Sfakíon|35.202|24.137|GR|Crete|48
 Choco|-15.577|-72.129|PE|Arequipa|47
 Chodes|41.487|-1.480|ES|Aragon|44
+Choate Bridge|42.679|-70.835|US|Massachusetts|40|f
+Chocolate Glacier|48.117|-121.085|US|Washington|40|f
+Chocolate Hills, Bohol|9.917|124.167|PH||40|f
+Chocolate Lake|44.639|-63.623|CA|Nova Scotia|40|f
+Chocorua Lake|43.902|-71.236|US|New Hampshire|40|f
+Choctaw National Wildlife Refuge|31.810|-88.184|US|Alabama|40|f
+Chogray Reservoir|45.500|44.667|RU|Stavropol Kray|40|f
+Chojnik|50.834|15.644|PL|Lower Silesia|40|f
+Choke Canyon Reservoir|28.500|-98.350|US|Texas|40|f
+Choke-To-Death Butte|45.865|-110.364|US|Montana|40|f
+Chopaka Lake|48.911|-119.697|US|Washington|40|f
+Chöpfenberg|47.119|8.969|CH|Glarus|40|f
+Chopin Park|41.943|-87.763|US|Illinois|40|f
+Chopok|48.945|19.590|SK|Žilina Region|40|f
+Choragic Monument of Lysicrates|37.971|23.730|GR|Attica|40|f
+Chörblispitz|46.630|7.269|CH|Fribourg|40|f
+Choris Peninsula|66.288|-161.888|US|Alaska|40|f
+Chorman Airport|38.845|-75.610|US|Delaware|40|f
+Chortarolimni|39.902|25.334|GR||40|f
+Chow Chow Bridge|47.352|-124.193|US|Washington|40|f
+Chowchilla Airport|37.111|-120.245|US|California|40|f
 Chờ|21.195|105.955|VN|Bac Ninh|0
 Chợ Chu|21.907|105.642|VN|Thai Nguyen|0
 Chợ Gạo|10.350|106.463|VN|Dong Thap|0
@@ -231,11 +376,24 @@ Cho-airong|6.226|101.811|TH|Narathiwat|0
 Chom Phra|15.118|103.607|TH|Surin|0
 Choman|36.637|44.888|IQ|Erbil|0
 Chong’ansi|31.580|120.295|CN|Jiangsu|0
+Chongde|47.278|125.593|CN|Heilongjiang|0
 Chongdui|28.150|85.967|CN|Tibet|0
+Chonggang|27.911|116.374|CN|Jiangxi|0
+Chonggu|31.204|121.171|CN|Shanghai|0
+Chonghe|44.670|127.731|CN|Heilongjiang|0
 Chongli|40.979|115.277|CN|Hebei|0
+Chonglou|22.129|112.807|CN|Guangdong|0
+Chongmin|42.728|129.599|CN|Jilin|0
+Chongning|34.382|109.586|CN|Shaanxi|0
 Chongón|-2.236|-80.082|EC|Guayas|0
 Chongos Bajo|-12.134|-75.268|PE|Junin|0
+Chongren|29.609|120.705|CN|Zhejiang|0
+Chongshan|42.093|128.999|CN|Jilin|0
 Chongwen|35.775|113.251|CN|Shanxi|0
+Chongwen|34.494|108.933|CN|Shaanxi|0
+Chongxian|26.549|115.344|CN|Jiangxi|0
+Chongxian|30.388|120.171|CN|Zhejiang|0
+Chongxing|19.413|110.596|CN|Hainan|0
 Chonnabot|16.089|102.622|TH|Khon Kaen|0
 Chonogol|45.900|115.367|MN|Sühbaatar|0
 Chontabamba|-10.583|-75.483|PE|Pasco|0
@@ -246,4 +404,6 @@ Choras|-9.910|-76.606|PE|Huánuco Department|0
 Chordeleg|-2.923|-78.775|EC|Azuay|0
 Chore|-24.186|-56.583|PY|San Pedro Department|0
 Chortoq Shahri|41.077|71.818|UZ|Namangan|0
+Choujiang|29.283|120.028|CN|Zhejiang|0
+Choushui|42.395|127.076|CN|Jilin|0
 Chowṉêy|33.383|66.272|AF|Daykundi|0

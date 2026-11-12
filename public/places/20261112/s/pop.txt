@@ -3,6 +3,7 @@ Poprad|49.061|20.298|SK|Prešov Region|94
 Popondetta|-8.765|148.233|PG|Oro Province|89
 Pop|40.874|71.109|UZ|Namangan|89
 Poppenbüttel|53.659|10.085|DE|Hamburg|88
+Poprad-Tatry Airport|49.074|20.241|SK|Prešov Region|87|f
 Poperinge|50.854|2.727|BE|Flanders|86
 Popasna|48.632|38.371|UA|Luhansk|86
 Poptún|16.331|-89.417|GT|Petén|85
@@ -16,8 +17,11 @@ Pope Air Force Base (historical)|35.171|-79.010|US|North Carolina|78
 Popricani|47.300|27.517|RO|Iași County|77
 Poputnaya|44.513|41.439|RU|Krasnodar Krai|76
 Popilnia|49.953|29.453|UA|Zhytomyr Oblast|76
+Poplar Hill Airport|52.113|-94.256|CA|Ontario|75|f
+Poptún Airport|16.326|-89.416|GT|Petén|75|f
 Popoli|42.169|13.830|IT|Abruzzo|75
 Poplar Grove|42.368|-88.822|US|Illinois|74
+Poplar Island|38.767|-76.382|US|Maryland|73|f
 Popivka|51.234|33.114|UA|Sumy|73
 Popola|20.733|-88.237|MX|Yucatán|72
 Popeşti|47.150|27.233|RO|Iași County|72
@@ -25,6 +29,7 @@ Populina|-19.933|-50.538|BR|São Paulo|72
 Poppenhausen|50.100|10.142|DE|Bavaria|72
 Popeşti|44.767|25.067|RO|Arges|72
 Poppel|51.446|5.043|BE|Flanders|72
+Popocatépetl|19.022|-98.628|MX|México|71|f
 Popovača|45.570|16.625|HR|Sisak-Moslavina|71
 Poppenricht|49.476|11.798|DE|Bavaria|70
 Popivka|49.452|35.178|UA|Poltava|70
@@ -33,6 +38,7 @@ Popeşti|45.006|24.077|RO|Vâlcea County|70
 Popogo|4.780|-6.509|CI|Bas-Sassandra District|70
 Poplarville|30.840|-89.534|US|Mississippi|69
 Popo|10.314|-6.320|CI|Savanes District|69
+Popof Island|55.321|-160.407|US|Alaska|69|f
 Poppenhausen|50.488|9.868|DE|Hesse|69
 Poproč|48.712|20.975|SK|Košice Region|68
 Popeni|46.247|27.805|RO|Vaslui County|68
@@ -40,8 +46,11 @@ Popești|45.595|27.079|RO|Vrancea|68
 Poplar-Cotton Center|36.056|-119.149|US|California|68
 Popielów|50.826|17.744|PL|Opole Voivodeship|68
 Popua|-21.153|-175.179|TO|Tongatapu|67
+Po Pin Chau|22.358|114.378|HK||67|f
 Popova Balka|47.809|38.291|UA|Donetsk|66
 Popovo|55.075|37.667|RU|Moscow Oblast|66
+Popova Šapka|42.017|20.886|MK|Tetovo|65|f
+Popponesset Bay|41.592|-70.459|US|Massachusetts|65|f
 Poplaca|45.717|24.050|RO|Sibiu County|65
 Popivka|50.099|33.630|UA|Poltava|65
 Popkum|49.204|-121.738|CA|British Columbia|65
@@ -53,13 +62,61 @@ Popova|42.961|131.725|RU|Primorye|62
 Popo Park|19.061|-98.780|MX|México|62
 Popovo-Lezhachi|51.301|34.339|RU|Kursk Oblast|61
 Popovi|44.765|19.287|BA|Srpska|61
+Poplar River Airport|52.997|-97.278|CA|Manitoba|61|f
+Poplar Street Bridge|38.618|-90.183|US|Illinois|61|f
+Popradské Pleso|49.154|20.080|SK|Prešov Region|61|f
 Popivka|50.500|35.451|UA|Sumy|61
 Popoveni|44.288|23.782|RO|Dolj|60
 Popice|48.927|16.667|CZ|South Moravian|60
+Popovice|49.053|17.527|CZ|Zlín|60
+Popudinské Močidľany|48.779|17.216|SK|Trnava Region|60
+Popovec|45.850|16.140|HR|Zagreb|60
+Popovo|48.270|22.425|UA|Zakarpattia|59
 Popelnaste|48.661|33.706|UA|Kirovohrad|59
 Poppi|43.721|11.766|IT|Tuscany|59
+Poplar|48.113|-105.198|US|Montana|59
+Popotlán (Barrio Santo Tomás)|18.765|-98.766|MX|Morelos|59
+Popivka|49.972|34.578|UA|Poltava|59
+Popeni|47.251|23.174|RO|Sălaj County|58
+Popondetta Airport|-8.805|148.309|PG|Oro Province|58|f
+Popple Peak|-29.230|29.406|ZA||58|f
+Popoiu|46.542|26.117|RO|Bacău County|58
+Poppino|46.014|8.765|IT|Lombardy|58
 Popovac|45.809|18.658|HR|County of Osijek-Baranja|57
+Popești|45.107|26.234|RO|Prahova|57
+Popeni|46.172|26.935|RO|Bacău County|57
+Poplevinskiy|53.685|39.544|RU|Ryazan Oblast|56
+Popůvky|49.177|16.488|CZ|South Moravian|56
+Popești|45.095|24.476|RO|Vâlcea County|56
+Poplar|46.584|-91.799|US|Wisconsin|56
+Popoyatlajco|17.501|-99.269|MX|Guerrero|55
+Popești|46.824|23.535|RO|Cluj County|55
+Popivka|48.912|33.517|UA|Kirovohrad|55
+Popești|47.151|25.870|RO|Neamț County|55
+Popoctepetl|18.513|-95.316|MX|Veracruz|55
+Pope Park|41.756|-72.699|US|Connecticut|54|f
+Poplar Beach|37.460|-122.445|US|California|54|f
+Poplar Grove Airport|42.325|-88.838|US|Illinois|54|f
+Poplar Municipal Airport|48.131|-105.162|US|Montana|54|f
+Populai Island|-10.667|150.891|PG|Milne Bay Province|54|f
+Pope|57.398|21.852|LV|Ventspils Municipality|54
+Popocatzin|17.377|-99.021|MX|Guerrero|54
+Pope Glacier|-75.250|-111.500|AQ||49|f
+Pope Mountain|-69.733|158.833|AQ||49|f
+Pople Hill|41.886|-74.366|US|New York|49|f
+Popran National Park|-33.375|151.207|AU|New South Wales|49|f
 Poppendorf|46.856|15.856|AT|Styria|49
+Poppenbüll|54.361|8.761|DE|Schleswig-Holstein|46
+Popcorn Park Zoo|39.910|-74.329|US|New Jersey|40|f
+Pope Island|63.351|-67.664|CA|Nunavut|40|f
+Pope Street Bridge|38.511|-122.456|US|California|40|f
+Popes Peak|51.400|-116.302|CA|British Columbia|40|f
+Poplar Island|49.200|-122.936|CA|British Columbia|40|f
+Poplar Island|39.418|-80.147|US|West Virginia|40|f
+Poplar Knoll|43.185|-74.765|US|New York|40|f
+Popsicle Peak|49.616|-125.920|CA|British Columbia|40|f
 Pop Shahri|40.876|71.102|UZ|Namangan|0
 Popeşti|44.442|25.100|RO|Arges|0
+Popnam|-9.625|124.531|ID|East Nusa Tenggara|0
+Poponcol|-7.427|108.297|ID|West Java|0
 Popów|51.040|18.931|PL|Silesia|0

@@ -14,6 +14,7 @@ El Mirage|33.613|-112.325|US|Arizona|91
 Elmont|40.701|-73.713|US|New York|90
 El Marsa|27.096|-13.416|EH||89
 Elmira|42.090|-76.808|US|New York|89
+Elmina Castle|5.083|-1.348|GH|Central|89|f
 El Monte|-33.680|-70.985|CL|Santiago Metropolitan|88
 Elmadağ|39.921|33.231|TR|Ankara|88
 Elmwood Park|41.921|-87.809|US|Illinois|88
@@ -46,6 +47,7 @@ Elmswell|52.236|0.912|GB|England|72
 El Mazra‘a|32.983|35.098|IL|Northern District|72
 El Medda|19.917|-13.317|MR|Adrar|72
 El Maitén|-42.050|-71.168|AR|Chubut|72
+El Museo del Barrio|40.793|-73.951|US|New York|70|f
 Elmalı|41.139|29.130|TR|Istanbul|70
 Elma|47.003|-123.409|US|Washington|70
 Elmstein|49.367|7.933|DE|Rheinland-Pfalz|69
@@ -55,6 +57,7 @@ Elma Center|42.830|-78.636|US|New York|68
 Elm Creek|28.774|-100.492|US|Texas|68
 Elmvale|44.583|-79.866|CA|Ontario|67
 El Maguey|20.980|-101.847|MX|Guanajuato|67
+El Mirador Airport|-41.349|-72.947|CL|Los Lagos Region|67|f
 Elmenhorst|53.766|10.264|DE|Schleswig-Holstein|67
 El Molino|28.166|-105.538|MX|Chihuahua|67
 El Molino|29.192|-107.406|MX|Chihuahua|67
@@ -75,6 +78,8 @@ El Milagro|20.474|-100.349|MX|Querétaro|64
 Elmstead Market|51.882|0.995|GB|England|64
 El Muey|20.503|-103.221|MX|Jalisco|64
 El Mezquitillo|20.960|-101.808|MX|Guanajuato|64
+El Manzano Airport|-34.156|-71.456|CL|O'Higgins Region|63|f
+El Morro|35.369|-120.868|US|California|63|f
 El Molino|19.813|-97.580|MX|Puebla|63
 El Maguey|18.833|-96.734|MX|Veracruz|63
 El Mentidero|19.770|-104.293|MX|Jalisco|63
@@ -93,14 +98,110 @@ El Mollejon|20.542|-97.411|MX|Veracruz|62
 El Marcol|25.497|-108.515|MX|Sinaloa|61
 El Molino|21.916|-98.299|MX|Veracruz|61
 El Mango|17.162|-92.060|MX|Chiapas|61
+Elmira/Corning Regional Airport|42.160|-76.891|US|New York|61|f
 El Metlapil|16.842|-99.749|MX|Guerrero|61
 El Magueyal|19.925|-99.580|MX|México|61
 El Mesón|16.846|-99.059|MX|Guerrero|60
 El Moreno (San Miguel Moreno)|20.301|-99.174|MX|Hidalgo|60
+El Médano|28.046|-16.536|ES|Canary Islands|60
+El Mirador|20.576|-103.273|MX|Jalisco|60
+Elm Creek|40.719|-99.372|US|Nebraska|60
+El Meje|20.260|-98.916|MX|Hidalgo|60
+Elmalı|39.029|40.765|TR|Bingöl|59
+El Molinito|20.428|-101.071|MX|Guanajuato|59
+El Malacate|19.541|-100.475|MX|Michoacán|59
+El Mandho|20.502|-99.236|MX|Hidalgo|59
+El Mil Diez|23.800|-105.388|MX|Durango|59
+Elmlohe|53.587|8.743|DE|Lower Saxony|59
+Elmenhorst|53.546|10.535|DE|Schleswig-Holstein|59
+El Mirador|18.901|-97.120|MX|Veracruz|59
+El Mirasol|19.350|-99.332|MX|México|58
+Elmenhorst|54.214|13.075|DE|Mecklenburg-Vorpommern|58
+El Manguito|15.759|-93.528|MX|Chiapas|58
+El Mezquital|20.373|-99.021|MX|Hidalgo|58
+Elmwood|44.781|-92.146|US|Wisconsin|58
+El Mirador|20.441|-99.951|MX|Querétaro|58
+El Mirador|17.756|-89.921|GT|Petén|58|f
+Elm Tree Ridge|41.936|-75.158|US|New York|58|f
+El Madrigaleño|21.685|-105.331|MX|Nayarit|58
+Elmalı|40.516|29.881|TR|Bursa Province|58
+Elmo|32.722|-96.165|US|Texas|58
+Elmore|-36.495|144.611|AU|Victoria|58
+El Mármol|20.217|-101.733|MX|Guanajuato|58
+El Mejay|20.386|-99.182|MX|Hidalgo|58
+El Manacal|15.103|-92.218|MX|Chiapas|57
+El Mirador (San Francisco)|19.537|-97.662|MX|Puebla|57
+El Murciélago|20.696|-100.981|MX|Guanajuato|57
+Elm|46.919|9.172|CH|Glarus|57
+El Millón|31.456|-106.201|MX|Chihuahua|57
+El Maluco|20.461|-102.303|MX|Jalisco|57
+El Matadero|22.997|-106.048|MX|Sinaloa|57
+Elmacık|40.829|30.981|TR|Düzce|57
+El Mirador|21.167|-102.871|MX|Jalisco|57
+Elmore City|34.623|-97.396|US|Oklahoma|57
+El Moquetito|25.492|-97.772|MX|Tamaulipas|57
+El Manzanito Tepantepec|16.969|-97.031|MX|Oaxaca|57
+El Morro|28.043|-115.187|MX|Baja California|57
+Elmacık|38.222|34.183|TR|Aksaray|57
+El Mango|19.477|-100.450|MX|Michoacán|57
+El Mango|19.323|-96.387|MX|Veracruz|56
+El Mamey|20.770|-98.300|MX|Veracruz|56
+Elmwood|40.842|-96.294|US|Nebraska|56
+El Maluco|20.936|-101.289|MX|Guanajuato|56
+Elmore|43.505|-94.088|US|Minnesota|56
+El Mocúzarit (Conicárit)|27.215|-109.097|MX|Sonora|56
+Elmenhorst|53.993|11.124|DE|Mecklenburg-Vorpommern|56
+El Medineño|20.867|-103.779|MX|Jalisco|56
+El Mezquite|25.611|-107.872|MX|Sinaloa|56
+El Mogote|18.680|-99.563|MX|Guerrero|56
+El Mirador|21.895|-100.854|MX|San Luis Potosí|56
+El Mohón|19.908|-97.281|MX|Puebla|56
+El Maguey|18.072|-95.701|MX|Veracruz|55
+El Madronal|15.283|-92.707|MX|Chiapas|55
+El Moral|18.568|-96.102|MX|Veracruz|55
+El Maguey|20.104|-100.686|MX|Guanajuato|55
+El Mármol|20.845|-101.579|MX|Guanajuato|55
+El Mirador|18.369|-95.895|MX|Veracruz|55
+El Mosco|16.542|-97.656|MX|Oaxaca|55
+El Madronal|16.514|-92.437|MX|Chiapas|55
+El Macayal|17.651|-94.655|MX|Veracruz|55
+El Marcial|17.980|-95.683|MX|Veracruz|55
+Elma|43.247|-92.436|US|Iowa|55
+El Malinal|21.370|-105.024|MX|Nayarit|55
+El Maitén Airport|-42.029|-71.172|AR|Chubut|54|f
+El Malpais National Monument|34.884|-107.995|US|New Mexico|54|f
+El Mirador National Park|17.750|-89.904|GT|Petén|54|f
+El Monte Airport|34.086|-118.036|US|California|54|f
+Elm|52.180|10.812|DE|Lower Saxony|54|f
+Elm Hill State Game Management Area|36.613|-78.293|US|Virginia|54|f
+Elmer Davis Lake|38.498|-84.879|US|Kentucky|54|f
+El Mirador|21.232|-98.203|MX|Veracruz|54
+El Mameyal|17.589|-100.996|MX|Guerrero|54
+El Mirador|17.225|-98.876|MX|Guerrero|54
+Elmesthorpe|52.561|-1.311|GB|England|54
+El Mirto|20.356|-102.544|MX|Jalisco|54
 El Manantial|7.784|-80.242|PA|Los Santos Province|51
 Elmen|47.340|10.543|AT|Tyrol|50
+El Mago|27.627|-104.258|MX|Chihuahua|49|f
+El Mela|-28.868|-67.125|AR|La Rioja|49|f
+El Mers|33.444|-4.445|MA|Fes-Meknes|49|f
+el Montsec d'Ares|42.033|0.767|ES|Catalonia|49|f
+El Museo Latino|41.212|-95.948|US|Nebraska|49|f
 El Marañón|8.036|-81.215|PA|Veraguas Province|46
 El Muñoz|7.676|-80.321|PA|Los Santos Province|44
+El Masnou Municipal Nautical Museum|41.483|2.316|ES|Catalonia|40|f
+El Morro National Monument|35.039|-108.346|US|New Mexico|40|f
+Elm Island|43.832|-74.245|US|New York|40|f
+Elm Island Lake|46.459|-93.626|US|Minnesota|40|f
+Elm Lake|45.855|-98.710|US|South Dakota|40|f
+Elm Park|42.268|-71.820|US|Massachusetts|40|f
+Elm Point|48.996|-95.290|US|Minnesota|40|f
+Elm Swamp|41.922|-75.145|US|New York|40|f
+Elmer Thomas Lake|34.726|-98.522|US|Oklahoma|40|f
+Elmley Castle|52.060|-2.032|GB|England|40|f
+Elmley Lovett|52.323|-2.199|GB|England|40|f
+Elmwood Park|39.913|-75.238|US|Pennsylvania|40|f
+Elmwood Park Zoo|40.133|-75.338|US|Pennsylvania|40|f
 El María|8.029|-81.444|PA|Veraguas Province|39
 El Macano|7.688|-80.405|PA|Los Santos Province|31
 El Mantaro|-11.822|-75.391|PE|Junin|0

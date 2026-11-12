@@ -9,6 +9,7 @@ Hưng Yên|20.646|106.051|VN|Hưng Yên Province|101
 Hunchun|42.867|130.357|CN|Jilin|98
 Hunedoara|45.750|22.900|RO|Hunedoara County|97
 Huntington Park|33.982|-118.225|US|California|95
+Hungarian State Opera House|47.503|19.058|HU|Budapest|95|f
 Huntersville|35.411|-80.843|US|North Carolina|94
 Hunsūr|12.304|76.293|IN|Karnataka|94
 Huntington|38.419|-82.445|US|West Virginia|94
@@ -35,6 +36,7 @@ Hunasamaranahalli|13.144|77.617|IN|Karnataka|83
 Huntington Hills|51.117|-114.067|CA|Alberta|82
 Hung Shui Kiu|22.432|113.988|HK|Yuen Long|81
 Huntington|38.792|-77.071|US|Virginia|81
+Hungerford Bridge and Golden Jubilee Bridges|51.506|-0.120|GB|England|80|f
 Hunstanton|52.950|0.500|GB|England|79
 Hünenberg|47.175|8.425|CH|Zug|79
 Hungduan|16.836|121.005|PH|Cordillera|79
@@ -48,10 +50,12 @@ Huntington Woods|42.481|-83.167|US|Michigan|76
 Huntingburg|38.299|-86.955|US|Indiana|76
 Huntertown|41.228|-85.172|US|Indiana|75
 Hungerford|51.415|-1.516|GB|England|74
+Hunchback Hills|22.414|114.249|HK|Sha Tin|73|f
 Hungen|50.474|8.893|DE|Hesse|73
 Huntly|57.447|-2.786|GB|Scotland|73
 Huntingdon|36.001|-88.428|US|Tennessee|72
 Hunnerberg|51.842|5.879|NL|Gelderland|72
+Huntsville Municipal Airport|36.078|-93.754|US|Arkansas|71|f
 Hunderdorf|48.892|12.674|DE|Bavaria|71
 Huntingtown Town Center|38.621|-76.616|US|Maryland|70
 Huncovce|49.115|20.377|SK|Prešov Region|70
@@ -59,9 +63,14 @@ Hunmanby|54.180|-0.320|GB|England|70
 Hunuku|20.852|-88.089|MX|Yucatán|69
 Hundzukani|-24.919|31.415|ZA|Limpopo|69
 Huntingdon|45.083|-74.166|CA|Quebec|69
+Hundvåg|59.002|5.732|NO|Rogaland|69|f
+Hung Hom Bay|22.300|114.183|HK||69|f
+Hŭngjŏng-san|37.677|128.314|KR|Gangwon-do|69|f
 Huntingtown|38.616|-76.613|US|Maryland|68
 Huntsville|36.086|-93.741|US|Arkansas|68
 Huntly|-36.665|144.334|AU|Victoria|67
+Huna Bay|65.746|-20.864|IS|Northwest|67|f
+Hünersedel|48.205|7.972|DE|Baden-Wurttemberg|67|f
 Huntington|31.278|-94.577|US|Texas|67
 Hundsangen|50.450|7.983|DE|Rheinland-Pfalz|66
 Hunter|39.493|-84.290|US|Ohio|66
@@ -69,9 +78,12 @@ Hunnebostrand|58.441|11.303|SE|Västra Götaland|66
 Huntington|39.327|-110.965|US|Utah|66
 Hunia|44.055|23.099|RO|Dolj|66
 Hunter|36.372|-82.159|US|Tennessee|65
+Hungarian National Gallery|47.496|19.039|HU|Budapest|65|f
 Huncote|52.573|-1.236|GB|England|65
 Hunter|36.362|-84.140|US|Tennessee|65
 Huntsville|39.441|-92.545|US|Missouri|64
+Hunter Mountain|42.178|-74.230|US|New York|63|f
+Huntersfield Mountain|42.356|-74.347|US|New York|63|f
 Hundling|49.109|6.980|FR|Grand Est|63
 Huntington Bay|40.900|-73.415|US|New York|63
 Hunting Ridge|39.293|-76.702|US|Maryland|62
@@ -80,10 +92,105 @@ Hunwick|54.688|-1.705|GB|England|62
 Hunding|48.842|13.177|DE|Bavaria|62
 Huntsville|36.410|-84.490|US|Tennessee|62
 Huntspill|51.206|-2.987|GB|England|61
+Hundsrücken|48.280|8.929|DE|Baden-Wurttemberg|61|f
+Hundvåko|60.123|5.144|NO|Vestland|61|f
+Hunewill Peak|38.159|-119.443|US|California|61|f
+Hungarian National Museum|47.492|19.062|HU|Budapest|61|f
+Hunky Dorys Park|53.723|-6.357|IE|Leinster|61|f
+Hunt Field|42.815|-108.730|US|Wyoming|61|f
+Huntsville International Airport-Carl T Jones Field|34.646|-86.775|US|Alabama|61|f
 Huntley|51.872|-2.401|GB|England|61
+Huntsville|35.777|-84.282|US|Tennessee|60
+Hundwil|47.365|9.318|CH|Appenzell Ausserrhoden|60
+Huntington|42.236|-72.876|US|Massachusetts|59
+Huntland|35.051|-86.270|US|Tennessee|59
+Hungry Horse|48.386|-114.061|US|Montana|58
+Hunanzhen Shuiku|28.646|118.889|CN|Zhejiang|58|f
+Hundålvatnet|65.819|12.924|NO|Nordland|58|f
+Hungarian Natural History Museum|47.482|19.085|HU|Budapest|58|f
+Hunt's Island|47.600|-57.615|CA|Newfoundland and Labrador|58|f
+Hunter Island|-40.530|144.740|AU|Tasmania|58|f
+Hunter Mountains|-45.700|167.417|NZ||58|f
+Hunter Peak|39.053|-106.904|US|Colorado|58|f
+Hunter Point|47.173|-122.919|US|Washington|58|f
+Huntingburg Airport|38.248|-86.957|US|Indiana|58|f
+Huntingdon Castle|52.327|-0.181|GB|England|58|f
+Huntington Castle|52.177|-3.101|GB|England|58|f
+Huntoon Mountains|37.990|-118.443|US|Nevada|58|f
+Hundon|52.110|0.536|GB|England|58
+Hunting Valley|41.489|-81.402|US|Ohio|57
+Huntířov|50.789|14.303|CZ|Ústí nad Labem Region|57
+Huncherange|49.517|6.065|LU|Esch-sur-Alzette|57
+Hüntwangen|47.596|8.491|CH|Zurich|57
+Huntington|35.082|-94.263|US|Arkansas|56
+Huntsville|41.261|-111.770|US|Utah|56
 Hundorp|61.555|9.941|NO|Innlandet|56
+Hundelgem|50.889|3.751|BE|Flanders|56
+Hunsdorf|49.697|6.132|LU|Mersch|55
 Hundsheim|48.117|16.936|AT|Lower Austria|55
+Hunting|49.415|6.326|FR|Grand Est|55
+Hunterstown|39.882|-77.160|US|Pennsylvania|55
+Hunawihr|48.180|7.311|FR|Grand Est|55
+Húnavatn|65.566|-20.380|IS|Northwest|54|f
+Huney Island|60.733|-0.817|GB|Scotland|54|f
+Hungry Hill|51.687|-9.792|IE|Munster|54|f
+Hunt Peak|-67.290|-68.026|AQ||54|f
+Hunter Island|40.876|-73.790|US|New York|54|f
+Hunter Islands|-40.583|144.867|AU|Tasmania|54|f
+Hunter Mountain|35.504|-92.372|US|Arkansas|54|f
+Huntington Municipal Airport|39.361|-110.923|US|Utah|54|f
+Huntington Museum of Art|38.393|-82.434|US|West Virginia|54|f
+Huntington State Beach|33.638|-117.973|US|California|54|f
+Huntington State Park|39.339|-110.947|US|Utah|54|f
+Huntress Glacier|-62.676|-60.263|AQ||54|f
+Hunts Mesa|36.893|-110.072|US|Arizona|54|f
+Hunts Point Riverside Park|40.818|-73.881|US|New York|54|f
+Huntsville Municipal Airport|30.747|-95.587|US|Texas|54|f
 Hundleton|51.667|-4.949|GB|Wales|53
+Hundsdorf|50.470|7.702|DE|Rheinland-Pfalz|52
+Hundhaupten|50.833|11.983|DE|Thuringia|52
+Hundsbach|49.717|7.550|DE|Rheinland-Pfalz|52
+Hunda|58.856|-2.976|GB|Scotland|49|f
+Hunderfossen|61.220|10.442|NO|Innlandet|49|f
+Hunds-Berg|51.309|9.285|DE|Hesse|49|f
+Hundstein|47.333|12.900|AT|Salzburg|49|f
+Hungabee Mountain|51.333|-116.285|CA|Alberta|49|f
+Hungarian Museum|30.468|-90.578|US|Louisiana|49|f
+Hungry Range|39.795|-119.765|US|Nevada|49|f
+Hunt Glacier|-76.867|162.417|AQ||49|f
+Hunt Mountain|-82.083|159.267|AQ||49|f
+Huntington Municipal Airport|40.855|-85.467|US|Indiana|49|f
+Hunts Peak|38.383|-105.945|US|Colorado|49|f
+Hunzel|50.249|7.837|DE|Rheinland-Pfalz|49
+Hungenroth|50.133|7.600|DE|Rheinland-Pfalz|48
+Hundshore|46.543|7.806|CH|Bern|40|f
+Hundsrügg|46.557|7.305|CH|Bern|40|f
+Hundstein|47.252|9.402|CH|Appenzell Innerrhoden|40|f
+Hundwiler Höhi|47.341|9.333|CH|Appenzell Ausserrhoden|40|f
+Hune Covered Bridge|39.511|-81.250|US|Ohio|40|f
+Hungry Horse Dam|48.341|-114.013|US|Montana|40|f
+Hungry Jack Lake|48.058|-90.436|US|Minnesota|40|f
+Hungry Mother State Park|36.881|-81.527|US|Virginia|40|f
+Hunsdon House|51.795|0.056|GB|England|40|f
+Hunt Airport|27.884|-97.347|US|Texas|40|f
+Hunt Hill|42.073|-74.797|US|New York|40|f
+Hunter Bay|54.871|-132.331|US|Alaska|40|f
+Hunter Glacier|-71.733|163.000|AQ||40|f
+Hunter Island|51.962|-128.081|CA|British Columbia|40|f
+Hunter Mountain Fire Tower|42.177|-74.230|US|New York|40|f
+Hunting Island State Park|32.366|-80.466|US|South Carolina|40|f
+Huntington Beach State Park|33.514|-79.055|US|South Carolina|40|f
+Huntington Lake|37.240|-119.196|US|California|40|f
+Huntley Meadows Park|38.753|-77.104|US|Virginia|40|f
+Hunts Mountain|42.666|-75.466|US|New York|40|f
+Huntshaw Cross Transmitting Station|50.979|-4.099|GB|England|40|f
+Huntsville Museum of Art|34.727|-86.587|US|Alabama|40|f
+Huntsville State Park|30.618|-95.526|US|Texas|40|f
+Hunua Falls|-37.068|175.090|NZ|Auckland|40|f
+HUNUA RANGES|-37.068|175.170|NZ|Auckland|40|f
+Hunyad Castle|45.749|22.888|RO|Hunedoara County|40|f
+Hunan|25.971|119.646|CN|Fujian|0
+Hunderdorf|48.950|12.733|DE|Bavaria|0
 Hưng Hà|20.590|106.224|VN|Hưng Yên Province|0
 Hưng Hóa|21.255|105.295|VN|Phu Tho|0
 Hưng Nguyên|18.672|105.629|VN|Nghệ An Province|0

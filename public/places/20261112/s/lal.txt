@@ -1,4 +1,4 @@
-La Libertad|-8.000|-78.500|PE||123|r
+La Libertad|-8.000|-78.500|PE||124|r
 Lal Bahadur Nagar|17.348|78.558|IN|Telangana|108
 La Libertad Department|13.750|-89.383|SV||108|r
 La Laguna|28.485|-16.320|ES|Canary Islands|104
@@ -143,14 +143,114 @@ La Loma Cuexcontitlán|19.380|-99.649|MX|México|61
 La Laguna|24.214|-103.183|MX|Zacatecas|61
 Lalovo|48.403|22.814|UA|Zakarpattia|60
 Laliki|49.534|19.005|PL|Silesia|60
+La Luisiada|20.427|-100.597|MX|Guanajuato|60
+La Luz|25.759|-103.531|MX|Durango|60
+La Loma|20.257|-98.933|MX|Hidalgo|60
+La Loma|19.182|-101.420|MX|Michoacán|60
+La Loma|20.177|-99.263|MX|Hidalgo|60
+La Luz|19.981|-101.655|MX|Michoacán|59
+La Lima|17.926|-95.160|MX|Veracruz|59
+La Laguna|17.271|-94.502|MX|Veracruz|59
+La Llosa|39.767|-0.200|ES|Valencia|59
+La Labor de Zaragoza|18.872|-100.099|MX|México|59
+La Libertad|16.905|-92.567|MX|Chiapas|59
+La Laguna del Pedernal|14.817|-88.567|HN|Lempira Department|59
+La Laborcilla|20.871|-100.290|MX|Querétaro|59
+La Lucerne-d'Outremer|48.783|-1.427|FR|Normandy|59
+La Laguna Seca|21.255|-100.647|MX|Guanajuato|59
+La Libertad|17.746|-98.739|MX|Guerrero|59
+La Llacuna|41.471|1.532|ES|Catalonia|59
+La Luz|21.999|-101.996|MX|Aguascalientes|59
+La Loma de Puente San Pedro|19.415|-99.584|MX|México|59
+La Lobeña|22.297|-101.700|MX|Zacatecas|59
+La Lomita|25.076|-98.069|MX|Tamaulipas|59
+La Laja|18.101|-100.482|MX|Guerrero|59
+La Lagunilla|19.097|-99.408|MX|México|59
+La Lagunilla|18.997|-97.158|MX|Veracruz|59
+La Luz|20.136|-101.895|MX|Michoacán|59
+La Laja|20.586|-104.526|MX|Jalisco|58
+La Ladrillera|18.928|-99.483|MX|México|58
+La Libertad|16.716|-92.351|MX|Chiapas|58
+La Loma Hills|34.034|-117.346|US|California|58|f
+Lalibela Airport|11.975|38.981|ET|Amhara|58|f
+Lalmonirhat Airport|25.887|89.433|BD|Rangpur Division|58|f
+La Ladera|19.998|-102.181|MX|Michoacán|58
+La Loma (El Bajío)|22.251|-101.986|MX|Zacatecas|58
+La Loma|21.896|-100.100|MX|San Luis Potosí|58
+La Lobera|17.264|-97.697|MX|Oaxaca|58
+La Laguna|16.002|-93.806|MX|Chiapas|58
+La Laborcilla|22.108|-101.726|MX|Zacatecas|58
+La Loma de Endare|19.732|-99.826|MX|México|58
+La Luz [Barrio]|19.317|-98.116|MX|Tlaxcala|58
+La Loma|25.231|-97.893|MX|Tamaulipas|57
+La Lagunita|21.247|-99.259|MX|Querétaro|57
+La Luz|19.700|-99.283|MX|México|57
+La Luz|22.525|-79.798|CU|Villa Clara Province|57
+Lalim|41.039|-7.816|PT|Viseu|57
+La Laja|20.484|-97.502|MX|Veracruz|57
+Lalomanu|-14.045|-171.439|WS|Atua|57
+La Labor|21.309|-101.071|MX|Guanajuato|57
+Lalden|46.300|7.902|CH|Valais|57
+La Libertad|20.452|-97.692|MX|Puebla|57
+La Luce|43.210|13.719|IT|The Marches|57
+Lalande-en-Son|49.392|1.783|FR|Hauts-de-France|57
+La Lagunilla|18.927|-99.617|MX|México|57
+La Loma de Guadalupe|18.814|-96.821|MX|Veracruz|57
+La Luz|20.273|-100.319|MX|Michoacán|57
+La Laguna|20.442|-97.443|MX|Veracruz|56
+La Lobera|20.284|-101.909|MX|Guanajuato|56
+La Livinière|43.316|2.637|FR|Occitanie|56
+La Libertad|16.790|-93.210|MX|Chiapas|56
+La Laguna|20.704|-100.791|MX|Guanajuato|56
+La Loma|22.214|-101.051|MX|San Luis Potosí|56
+La Luz de la Esquina|21.142|-100.496|MX|Guanajuato|56
+Laluque|43.854|-0.994|FR|New Aquitaine|56
+La Loma|18.169|-92.806|MX|Tabasco|56
+La Loma (Loma de Enmedio)|20.798|-102.739|MX|Jalisco|56
+La Lobera|20.041|-101.065|MX|Michoacán|56
+La Loma|20.578|-103.114|MX|Jalisco|56
+La Laupie|44.602|4.846|FR|Auvergne-Rhône-Alpes|56
+La Lima|20.163|-97.407|MX|Puebla|56
+La Lupita (Casas Viejas)|19.422|-99.422|MX|México|56
+l'Aldosa|42.544|1.523|AD|La Massana|55
+La Laguna Guadalupe|17.183|-97.850|MX|Oaxaca|55
+La Limita de Itaje|24.819|-107.357|MX|Sinaloa|55
+La Luz|17.819|-93.405|MX|Tabasco|55
+La Loma|19.792|-99.353|MX|Hidalgo|55
+La Lucca|41.623|13.508|IT|Lazio|55
+La Loma|21.183|-98.921|MX|Hidalgo|55
+La Ladera|19.808|-99.564|MX|México|55
+La Loma de San Mateo|19.908|-99.911|MX|México|55
+Láloukas|37.628|22.784|GR|Peloponnese|55
+La Lagunita|22.457|-101.787|MX|Zacatecas|55
+La Lima|15.664|-92.129|MX|Chiapas|55
+La Ladera|20.760|-101.993|MX|Guanajuato|55
+La Ladera|20.132|-100.064|MX|Querétaro|54
+La Loye|47.026|5.557|FR|Bourgogne-Franche-Comté|54
+La Lomita|20.939|-100.735|MX|Guanajuato|54
+La Laguna Botnaical Garden|13.670|-89.248|SV|La Libertad Department|54|f
+La Longeville|47.000|6.471|FR|Bourgogne-Franche-Comté|54
+Lalașinț|46.071|22.009|RO|Arad County|54
+Lalouvesc|45.120|4.535|FR|Auvergne-Rhône-Alpes|54
+La Laguna|21.117|-100.460|MX|Guanajuato|54
+La Loma|20.215|-98.582|MX|Hidalgo|54
+Lalleu|47.856|-1.511|FR|Brittany|54
+La Lagunita|20.666|-99.240|MX|Hidalgo|54
+La Lobera|16.947|-96.836|MX|Oaxaca|54
 La Laja|7.734|-80.251|PA|Los Santos Province|52
 La Laguna|9.044|-79.839|PA|Panamá Oeste Province|50
+Lal Suhanra National Park|29.345|71.991|PK|Punjab|49|f
+Lalmsvatnet|61.840|9.252|NO|Innlandet|49|f
 La Laguna|8.606|-80.047|PA|Panamá Oeste Province|48
 Laluenga|42.007|-0.047|ES|Aragon|48
+La Luette|46.010|7.388|CH|Valais|40|f
 La Laguna|8.341|-80.729|PA|Veraguas Province|34
 La Libertad|0.653|-77.944|EC|Carchi|0
 La Libertad|-16.380|-71.569|PE|Arequipa|0
 La Libertad de Pallán|-6.724|-78.282|PE|Cajamarca Department|0
 La Luz|8.394|-69.824|VE|Barinas|0
 La‘l|34.501|66.280|AF|Ghowr|0
+Laleng|-8.448|115.047|ID|Bali|0
+Lalin|-9.736|124.278|ID|East Nusa Tenggara|0
 Lalueza|41.840|-0.255|ES|Aragon|0
+Lalukoen Dua|-10.863|122.927|ID|East Nusa Tenggara|0

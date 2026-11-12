@@ -34,6 +34,7 @@ Fleming Island|30.093|-81.719|US|Florida|89
 Flint|53.245|-3.132|GB|Wales|88
 Fleetwood|53.925|-3.011|GB|England|88
 Flémalle-Haute|50.600|5.445|BE|Wallonia|88
+Flores Island|-8.624|121.129|ID|East Nusa Tenggara|87|f
 Flores Department|-33.583|-56.833|UY||87|r
 Floridia|37.083|15.153|IT|Sicily|87
 Fleurus|50.484|4.550|BE|Wallonia|87
@@ -46,19 +47,24 @@ Flörsheim|50.013|8.428|DE|Hesse|86
 Florencia|22.146|-78.972|CU|Ciego de Ávila Province|86
 Flora|5.800|-55.200|SR|Paramaribo District|86
 Florida Ridge|27.580|-80.387|US|Florida|85
+Florida State University Campus|30.442|-84.291|US|Florida|85|f
 Flórina|40.782|21.410|GR|West Macedonia|85
 Flers|48.737|-0.575|FR|Normandy|85
 Floreşti|47.892|28.293|MD|Floreşti|84
 Floirac|44.831|-0.527|FR|New Aquitaine|84
+Flamingo International Airport|12.131|-68.269|BQ|Bonaire|84|f
 Flowing Wells|32.294|-111.010|US|Arizona|84
 Fléron|50.615|5.681|BE|Wallonia|84
 Floral Park|40.724|-73.705|US|New York|84
 Flakièdougou|8.483|-3.127|CI|Zanzan District|84
 Flores de Goiás|-14.457|-47.040|BR|Goiás|83
 Flémalle-Grande|50.609|5.477|BE|Wallonia|83
+Florida Keys|24.667|-81.583|US|Florida|82|f
 Florida City|25.448|-80.479|US|Florida|82
 Flitwick|52.003|-0.495|GB|England|82
 Flórida Paulista|-21.615|-51.172|BR|São Paulo|82
+Flinders Island|-40.017|148.033|AU|Tasmania|82|f
+Floreana Island|-1.298|-90.434|EC|Galápagos|82|f
 Flagstaff|-31.080|29.495|ZA|Eastern Cape|82
 Flores Costa Cuca|14.632|-91.863|GT|Quetzaltenango|82
 Florham Park|40.788|-74.388|US|New Jersey|81
@@ -74,6 +80,8 @@ Floleu|6.844|-8.126|CI|Montagnes|80
 Flat Rock|42.096|-83.292|US|Michigan|80
 Flexeiras|-10.332|-36.314|BR|Alagoas|80
 Flawil|47.413|9.183|CH|Saint Gallen|80
+Flaminio S. Camacho Airport|4.812|-74.061|CO|Cundinamarca|80|f
+Florida International University|25.754|-80.382|US|Florida|80|f
 Flossmoor|41.543|-87.685|US|Illinois|80
 Fleury-Mérogis|48.637|2.364|FR|Île-de-France|79
 Florentino Ameghino|-34.844|-62.467|AR|Buenos Aires|79
@@ -85,6 +93,10 @@ Flieden|50.424|9.567|DE|Hesse|79
 Flowood|32.310|-90.139|US|Mississippi|79
 Florence|43.983|-124.100|US|Oregon|79
 Floris|38.937|-77.413|US|Virginia|78
+Flakstadøya|68.067|13.299|NO|Nordland|78|f
+Flathead Lake|47.887|-114.132|US|Montana|78|f
+Flinders Island Airport|-40.092|147.993|AU|Tasmania|78|f
+Florence Regional Airport|34.185|-79.724|US|South Carolina|78|f
 Flushing|43.063|-83.851|US|Michigan|78
 Florestal|-19.889|-44.432|BR|Minas Gerais|78
 Flexeiras|-9.197|-35.781|BR|Alagoas|78
@@ -96,6 +108,8 @@ Flero|45.483|10.177|IT|Lombardy|77
 Flatwoods|38.523|-82.717|US|Kentucky|77
 Floresville|29.134|-98.156|US|Texas|77
 Flintbek|54.250|10.067|DE|Schleswig-Holstein|77
+Florence Municipal Airport|43.984|-124.111|US|Oregon|77|f
+Florida Bay|25.000|-80.750|US|Florida|77|f
 Floresta|-23.611|-52.082|BR|Paraná|77
 Flowery Branch|34.185|-83.925|US|Georgia|76
 Flen|59.058|16.588|SE|Södermanland|76
@@ -103,6 +117,8 @@ Fleurance|43.849|0.663|FR|Occitanie|76
 Flein|49.103|9.211|DE|Baden-Wurttemberg|76
 Flackwell Heath|51.598|-0.706|GB|England|75
 Flin Flon|54.767|-101.874|CA|Manitoba|75
+Fletschhorn|46.167|8.002|CH|Valais|75|f
+Flying Cloud Airport|44.827|-93.457|US|Minnesota|75|f
 Flénu|50.437|3.886|BE|Wallonia|75
 Flers-en-Escrebieux|50.398|3.060|FR|Hauts-de-France|75
 Florida|18.362|-66.561|PR|Florida|75
@@ -110,6 +126,8 @@ Flines-lez-Raches|50.417|3.183|FR|Hauts-de-France|75
 Florenville|49.700|5.307|BE|Wallonia|75
 Flaktveit|60.465|5.360|NO|Vestland|75
 Florida|15.027|-88.836|HN|Copán Department|75
+Flemsøya|62.675|6.291|NO|Møre og Romsdal|74|f
+Flin Flon Airport|54.678|-101.682|CA|Manitoba|74|f
 Floral City|28.750|-82.297|US|Florida|74
 Flat River|37.850|-90.517|US|Missouri|74
 Flora|38.669|-88.486|US|Illinois|74
@@ -119,6 +137,9 @@ Flagler Beach|29.475|-81.127|US|Florida|74
 Flums|47.091|9.343|CH|Saint Gallen|74
 Flower Hill|40.807|-73.681|US|New York|74
 Floraí|-23.317|-52.304|BR|Paraná|74
+Flabob Airport|33.989|-117.410|US|California|73|f
+Florida Museum of Natural History|29.636|-82.370|US|Florida|73|f
+Flotta|58.833|-3.117|GB|Scotland|73|f
 Flemington|40.512|-74.859|US|New Jersey|73
 Flawinne|50.458|4.810|BE|Wallonia|73
 Flourtown|40.103|-75.212|US|Pennsylvania|73
@@ -139,11 +160,19 @@ Florence|38.390|-105.119|US|Colorado|72
 Florínea|-22.903|-50.738|BR|São Paulo|72
 Florencio Sánchez|-33.878|-57.372|UY|Colonia|71
 Fleurier|46.902|6.583|CH|Neuchâtel|71
+Florence Peretola Airport|43.810|11.205|IT|Tuscany|71|f
+Florianópolis-Hercílio Luz International Airport|-27.667|-48.550|BR|Santa Catarina|71|f
+Florida Agricultural and Mechanical University|30.427|-84.285|US|Florida|71|f
+Florø Airport|61.584|5.025|NO|Vestland|71|f
 Florida ( Pomacochas)|-5.826|-77.970|PE|Amazonas|71
 Floß|49.724|12.276|DE|Bavaria|71
 Flat Rock|35.271|-82.442|US|North Carolina|70
 Flateby|59.830|11.153|NO|Akershus|70
 Flagler Estates|29.646|-81.457|US|Florida|70
+Flatey|65.376|-22.912|IS|Westfjords|70|f
+Flatøy|60.539|5.265|NO|Vestland|70|f
+Flekkerøya|58.069|7.989|NO|Agder|70|f
+Florida Atlantic University (FAU)|26.374|-80.104|US|Florida|70|f
 Flobecq|50.737|3.739|BE|Wallonia|70
 Flixecourt|50.015|2.081|FR|Hauts-de-France|70
 Fléac|45.665|0.093|FR|New Aquitaine|70
@@ -159,6 +188,8 @@ Floydada|33.985|-101.338|US|Texas|69
 Florencia|21.504|-103.555|MX|Zacatecas|69
 Floreal|-20.677|-50.145|BR|São Paulo|69
 Fleury|43.231|3.137|FR|Occitanie|69
+Flat Island|22.479|114.331|HK||69|f
+Fly For Fun Airport|45.687|-122.522|US|Washington|69|f
 Flassans-sur-Issole|43.369|6.222|FR|Provence-Alpes-Côte d'Azur|69
 Fléville-devant-Nancy|48.625|6.203|FR|Grand Est|69
 Flórida|-23.087|-51.954|BR|Paraná|68
@@ -172,6 +203,12 @@ Fladungen|50.521|10.146|DE|Bavaria|67
 Floresta do Piauí|-7.467|-41.800|BR|Piauí|67
 Flins-sur-Seine|48.965|1.873|FR|Île-de-France|67
 Flandreau|44.049|-96.595|US|South Dakota|67
+Flat Reef|22.459|114.288|HK|Tai Po|67|f
+Flensburg-Schäferhaus Airport|54.772|9.378|DE|Schleswig-Holstein|67|f
+Flores Sea|-8.000|121.000|||67|f
+Flostaøya|58.524|8.946|NO|Agder|67|f
+Flyin' B Airport|29.538|-95.424|US|Texas|67|f
+Flying W Airport|39.934|-74.807|US|New Jersey|67|f
 Flexbury|50.835|-4.545|GB|England|67
 Flora Vista|36.794|-108.080|US|New Mexico|67
 Flesselles|50.002|2.261|FR|Hauts-de-France|67
@@ -190,6 +227,14 @@ Florac|44.326|3.593|FR|Occitanie|66
 Flamborough|54.117|-0.124|GB|England|66
 Fleurines|49.259|2.584|FR|Hauts-de-France|66
 Flora|32.543|-90.309|US|Mississippi|66
+Flåvatn|59.305|8.798|NO|Telemark|65|f
+Fletcher Island|-66.883|143.083|AQ||65|f
+Flinders Island|-14.180|144.260|AU|Queensland|65|f
+Flinsch Peak|48.498|-113.466|US|Montana|65|f
+Fljótavík|66.450|-22.945|IS|Westfjords|65|f
+Flores Airport|39.455|-31.131|PT|Azores|65|f
+Florida Islands|-9.060|160.174|SB||65|f
+Floyd W. Jones Lebanon Airport|37.648|-92.651|US|Missouri|65|f
 Flandapleu|7.112|-8.036|CI|Montagnes|65
 Flor do Sertão|-26.777|-53.347|BR|Santa Catarina|65
 Flechtingen|52.331|11.242|DE|Saxony-Anhalt|65
@@ -210,6 +255,15 @@ Flat Rock|36.512|-80.570|US|North Carolina|64
 Flavy-le-Martel|49.713|3.192|FR|Hauts-de-France|64
 Florinas|40.649|8.665|IT|Sardinia|64
 Flora Rica|-21.676|-51.384|BR|São Paulo|63
+Flagstone Peak|43.215|-109.676|US|Wyoming|63|f
+Flat Top Peninsula|-62.209|-59.026|AQ||63|f
+Flattop Mountain|36.115|-81.862|US|North Carolina|63|f
+Flattop Mountain|61.091|-149.665|US|Alaska|63|f
+Flatvaer Islands|-69.000|39.500|AQ||63|f
+Flinders Chase National Park|-35.929|136.722|AU|South Australia|63|f
+Florencia Airport|-15.687|-65.530|BO|Beni Department|63|f
+Flörsbacher Höhe|50.133|9.433|DE|Hesse|63|f
+Flying Dollar Airport|41.216|-75.247|US|Pennsylvania|63|f
 Florencia|1.683|-77.073|CO|Cauca Department|63
 Flor Azul|25.869|-109.009|MX|Sinaloa|63
 Flomaton|31.000|-87.261|US|Alabama|63
@@ -241,6 +295,27 @@ Flogny-la-Chapelle|47.950|3.867|FR|Bourgogne-Franche-Comté|61
 Flaviac|44.748|4.674|FR|Auvergne-Rhône-Alpes|61
 Floroaia|45.695|26.016|RO|Covasna County|61
 Floresta|5.859|-72.919|CO|Boyacá|61
+Fláajökull|64.365|-15.651|IS|East|61|f
+Flagstaff Pulliam Airport|35.138|-111.672|US|Arizona|61|f
+Flakavatnet|60.647|7.589|NO|Buskerud|61|f
+Flaming Gorge Reservoir|41.096|-109.554|US|Wyoming|61|f
+Flånuten, Mount|-71.767|11.250|AQ||61|f
+Flårjuvnutane Peaks|-72.017|-3.533|AQ||61|f
+Flatiron Mountain|44.461|-113.526|US|Idaho|61|f
+Flattop Island|48.647|-123.083|US|Washington|61|f
+Fletcher Mountain|39.403|-106.129|US|Colorado|61|f
+Flint Castle|53.251|-3.130|GB|Wales|61|f
+Flint Glacier|-67.281|-65.424|AQ||61|f
+Flor de Oro Airport|-13.554|-61.005|BO|Santa Cruz Department|61|f
+Flora Mountain|48.244|-120.696|US|Washington|61|f
+Florida Keys Marathon International Airport|24.725|-81.052|US|Florida|61|f
+Flossenbürg Concentration Camp|49.737|12.354|DE|Bavaria|61|f
+Fløtatind|62.609|8.214|NO|Møre og Romsdal|61|f
+Floyd Bennett Memorial Airport|43.342|-73.605|US|New York|61|f
+Fløyfjellet|60.398|5.345|NO|Vestland|61|f
+Fluchthorn|46.891|10.227|CH|Grisons|61|f
+Fly Island|-18.827|146.527|AU|Queensland|61|f
+Flying J Ranch Airport|32.847|-109.877|US|Arizona|61|f
 Flimwell|51.055|0.445|GB|England|61
 Flanagan|40.878|-88.861|US|Illinois|61
 Flammersfeld|50.647|7.527|DE|Rheinland-Pfalz|61
@@ -249,23 +324,309 @@ Flessau|52.760|11.672|DE|Saxony-Anhalt|60
 Flomborn|49.691|8.149|DE|Rheinland-Pfalz|60
 Flint City|34.523|-86.970|US|Alabama|60
 Flabougou|10.497|-6.467|CI|Savanes District|60
+Flyinge|55.754|13.367|SE|Skåne|60
+Flamstead|51.820|-0.437|GB|England|60
+Fleurigné|48.337|-1.122|FR|Brittany|60
 Flirsch|47.150|10.400|AT|Tyrol|60
+Flavignac|45.704|1.092|FR|New Aquitaine|60
+Flat Lick|36.829|-83.770|US|Kentucky|60
+Flangbepleu|7.197|-8.004|CI|Montagnes|60
+Flaach|47.576|8.606|CH|Zurich|59
+Flagnac|44.605|2.248|FR|Occitanie|59
+Florencia|25.838|-103.309|MX|Coahuila|59
 Flaibano|46.058|12.984|IT|Friuli Venezia Giulia|59
+Flammersbach|50.729|8.174|DE|Hesse|59
+Florencia|10.361|-84.475|CR|Alajuela Province|59
+Flushing|40.150|-81.066|US|Ohio|59
+Fleuré|46.477|0.522|FR|New Aquitaine|59
+Flámpouro|40.931|23.567|GR|Central Macedonia|58
+Florjan|46.393|15.009|SI|Municipality of Šoštanj|58
+Flétrange|49.063|6.564|FR|Grand Est|58
+Flinders|-38.474|145.022|AU|Victoria|58
 Flachau|47.344|13.391|AT|Salzburg|58
+Flumet|45.818|6.514|FR|Auvergne-Rhône-Alpes|58
+Flúðir|64.134|-20.323|IS|South|58
+Flordell Hills|38.718|-90.266|US|Missouri|58
+Florești|46.551|27.566|RO|Vaslui County|58
+Flagstaff Lake|45.198|-70.307|US|Maine|58|f
+Flamborough Head|54.117|-0.077|GB|England|58|f
+Flaming Geyser State Park|47.272|-122.023|US|Washington|58|f
+Flat Island|-19.878|57.657|MU|Rodrigues|58|f
+Flat Islands|-67.591|62.780|AQ||58|f
+Flat Top Mountain|34.851|-84.497|US|Georgia|58|f
+Flattop Island|62.034|-92.950|CA|Nunavut|58|f
+Flein Island|-69.750|39.083|AQ||58|f
+Fleischmann Mountain|42.143|-74.564|US|New York|58|f
+Fleming Key|24.582|-81.795|US|Florida|58|f
+Fletcher Hills|32.806|-116.994|US|California|58|f
+Fleurieu Peninsula|-35.500|138.500|AU|South Australia|58|f
+Flinders Island|-33.717|134.481|AU|South Australia|58|f
+Flint Creek Range|46.367|-113.109|US|Montana|58|f
+Florence Griswold Museum|41.326|-72.327|US|Connecticut|58|f
+Flores|39.445|-31.204|PT|Azores|58|f
+Flour Lake|48.052|-90.387|US|Minnesota|58|f
+Fly 'N' W Airport|44.969|-122.942|US|Oregon|58|f
+Flyspot Rocks|-68.578|-68.073|AQ||58|f
+Fleury|48.847|-1.276|FR|Normandy|58
+Floringhem|50.496|2.425|FR|Hauts-de-France|58
 Fladnitz im Raabtal|46.992|15.785|AT|Styria|58
+Flêtre|50.755|2.645|FR|Hauts-de-France|58
+Florence|46.632|-114.079|US|Montana|58
+Fleetmark|52.795|11.388|DE|Saxony-Anhalt|58
+Fluterschen|50.666|7.627|DE|Rheinland-Pfalz|58
+Flottemanville-Hague|49.621|-1.722|FR|Normandy|57
+Flint Creek|36.177|-94.741|US|Oklahoma|57
+Flavacourt|49.335|1.820|FR|Hauts-de-France|57
+Fleming-Neon|37.192|-82.706|US|Kentucky|57
+Flöcking|47.094|15.672|AT|Styria|57
+Flushing|50.165|-5.070|GB|England|57
+Flemington|31.860|-81.564|US|Georgia|57
+Fliseryd|57.133|16.267|SE|Kalmar|57
+Flax Bourton|51.421|-2.705|GB|England|57
+Floroaica|44.361|27.183|RO|Călărași County|57
+Floda|60.506|14.793|SE|Dalarna|57
+Florida|42.667|-73.011|US|Massachusetts|57
+Flavion|50.249|4.717|BE|Wallonia|57
+Fließem|50.023|6.542|DE|Rheinland-Pfalz|57
+Flattendorf|47.267|15.917|AT|Styria|57
+Flögeln|53.662|8.805|DE|Lower Saxony|57
+Floru|44.376|24.756|RO|Olt|57
+Floreni|46.236|27.974|RO|Vaslui County|56
+Florica|44.493|26.638|RO|Călărași County|56
+Flamouriá|40.753|22.017|GR|Central Macedonia|56
+Flowerdale|-37.333|145.333|AU|Victoria|56
+Flaujac-Poujols|44.406|1.499|FR|Occitanie|56
+Florentin|43.888|2.033|FR|Occitanie|56
+Fladbury|52.114|-2.008|GB|England|56
+Flovilla|33.254|-83.899|US|Georgia|56
+Florien|31.444|-93.457|US|Louisiana|56
+Flintville|35.063|-86.420|US|Tennessee|56
+Fläsch|47.026|9.514|CH|Grisons|56
+Flangebouche|47.140|6.471|FR|Bourgogne-Franche-Comté|56
+Fleury-en-Bière|48.446|2.549|FR|Île-de-France|56
+Florești|46.524|26.667|RO|Bacău County|56
+Flores de Begoña|20.870|-100.793|MX|Guanajuato|56
+Fleischwangen|47.883|9.483|DE|Baden-Wurttemberg|56
+Flor de Mayo|15.853|-92.008|MX|Chiapas|56
 Florence|45.922|-88.252|US|Wisconsin|55
+Flores Magón|15.409|-92.837|MX|Chiapas|55
+Flagy|48.312|2.922|FR|Île-de-France|55
+Flée|47.733|0.453|FR|Pays de la Loire|55
+Fleury-la-Montagne|46.205|4.119|FR|Bourgogne-Franche-Comté|55
+Fléré-la-Rivière|47.020|1.108|FR|Centre-Val de Loire|55
+Flamoúli|39.526|21.766|GR|Thessaly|55
+Flagler|39.293|-103.067|US|Colorado|55
+Flexanville|48.853|1.738|FR|Île-de-France|55
+Fladnitz an der Teichalm|47.285|15.478|AT|Styria|55
+Flaujagues|44.827|0.036|FR|New Aquitaine|54
+Floyon|50.042|3.887|FR|Hauts-de-France|54
+Fleury-la-Rivière|49.097|3.884|FR|Grand Est|54
+Flint Hill|38.855|-90.861|US|Missouri|54
+Floodwood|46.929|-92.920|US|Minnesota|54
+F. L. Smith, Mount|-83.633|169.483|AQ||54|f
+Flacher See|53.616|12.543|DE|Mecklenburg-Vorpommern|54|f
+Fladda|56.509|-6.392|GB|Scotland|54|f
+Fladda-chùain|57.733|-6.433|GB|Scotland|54|f
+Flag Point|-64.821|-63.509|AQ||54|f
+Flagon Point|-72.230|-60.692|AQ||54|f
+Flagstaff House Museum of Tea Ware|22.279|114.162|HK|Central and Western|54|f
+Flambeau Lake|45.965|-89.924|US|Wisconsin|54|f
+Flame of Liberty Memorial|48.864|2.301|FR|Île-de-France|54|f
+Flanagan Island|18.327|-64.650|VI|Saint John Island|54|f
+Flat Island|-21.603|114.622|AU|Western Australia|54|f
+Flat River Reservoir|41.698|-71.618|US|Rhode Island|54|f
+Flat Top|34.951|-83.315|US|Georgia|54|f
+Flat Top Mountain|37.591|-81.115|US|West Virginia|54|f
+Flat Top Mountain|40.001|-107.083|US|Colorado|54|f
+Flat Top Mountain|57.617|-136.001|US|Alaska|54|f
+Flat Witch Island|-43.619|146.291|AU|Tasmania|54|f
+Flatey|66.164|-17.858|IS|Northeast|54|f
+Flathead River Bridge|48.362|-114.184|US|Montana|54|f
+Flåvær|62.317|5.550|NO|Møre og Romsdal|54|f
+Fleckistock|46.707|8.498|CH|Uri|54|f
+Flensjøen|62.385|11.768|NO|Trøndelag|54|f
+Flight 93 National Memorial|40.061|-78.895|US|Pennsylvania|54|f
+Flinders Peak|-69.332|-66.674|AQ||54|f
+Flint Hills|37.283|-96.675|US|Kansas|54|f
+Flintholmen|78.642|14.562|SJ||54|f
+Floddaymore|57.500|-7.150|GB|Scotland|54|f
+Flogeken Glacier|-72.067|4.417|AQ||54|f
+Flogstallen|-72.617|-3.000|AQ||54|f
+Florence Island|-66.640|140.085|AQ||54|f
+Florence Rock|-60.766|-44.583|AQ||54|f
+Florida Caverns State Park|30.808|-85.212|US|Florida|54|f
+Florida Panther National Wildlife Refuge|26.191|-81.405|US|Florida|54|f
+Flowery Range|39.392|-119.522|US|Nevada|54|f
+Fløyfjellet|68.248|14.615|NO|Nordland|54|f
+Fluebrig|47.061|8.884|CH|Schwyz|54|f
+Flugplatz Wiener Neustadt/Ost|47.843|16.260|AT|Lower Austria|54|f
+Flying E Airport|44.846|-122.899|US|Oregon|54|f
+Flying K Bar J Ranch Airport|45.443|-122.321|US|Oregon|54|f
+Flying M Airport|45.362|-123.358|US|Oregon|54|f
+Flying Point|43.809|-70.071|US|Maine|54|f
+Flying T Farm Airport|38.433|-77.471|US|Virginia|54|f
+Flying T Ranch Airport|42.434|-121.350|US|Oregon|54|f
+Flora|47.594|29.480|UA|Odesa|54
+Flondora|48.003|27.032|RO|Botoșani County|54
+Flor Blanca|19.533|-96.616|MX|Veracruz|54
+Flagey-Echézeaux|47.167|4.983|FR|Bourgogne-Franche-Comté|54
+Flévy|49.238|6.245|FR|Grand Est|54
 Floresta|37.988|14.911|IT|Sicily|54
 Flavon|46.298|11.030|IT|Trentino-Alto Adige|54
+Flußbach|50.017|6.933|DE|Rheinland-Pfalz|54
+Flarchheim|51.133|10.483|DE|Thuringia|53
 Floing|47.264|15.746|AT|Styria|53
 Flussio|40.265|8.538|IT|Sardinia|53
 Flores|7.487|-80.406|PA|Los Santos Province|53
 Floyd|36.911|-80.320|US|Virginia|53
+Flemlingen|49.243|8.095|DE|Rheinland-Pfalz|53
 Flores de Ávila|40.934|-5.079|ES|Castille and León|52
 Flattach|46.939|13.134|AT|Carinthia|52
 Flaxweiler|49.666|6.343|LU|Grevenmacher|51
 Fleccia-Chianavasso|44.947|7.215|IT|Piedmont|51
+Fleringen|50.217|6.500|DE|Rheinland-Pfalz|50
 Florida de Liébana|41.024|-5.763|ES|Castille and León|49
+Flagler County Airport|29.472|-81.207|US|Florida|49|f
+Flagpole Point|-68.185|-67.003|AQ||49|f
+Flagship Mountain|-76.717|161.500|AQ||49|f
+Flagstaff Gardens|-37.810|144.955|AU|Victoria|49|f
+Flagstaff Glacier|-62.079|-58.405|AQ||49|f
+Flagstaff Gully Reservoir|-42.833|147.367|AU|Tasmania|49|f
+Flagstaff Hill|55.181|-160.506|US|Alaska|49|f
+Flagstaff Lake|-33.510|117.261|AU|Western Australia|49|f
+Flagtail Mountain|44.186|-119.281|US|Oregon|49|f
+Flank Island|-65.120|-64.355|AQ||49|f
+Flask Glacier|-65.762|-62.792|AQ||49|f
+Flassavatnet|58.789|5.869|NO|Rogaland|49|f
+Flat Bridge|18.050|-76.983|JM|Saint Catherine Parish|49|f
+Flat Hill|41.877|-74.358|US|New York|49|f
+Flat Holm|51.378|-3.123|GB|England|49|f
+Flat Island|60.483|-64.865|CA|Nunavut|49|f
+Flat Island|10.816|115.823|||49|f
+Flat Jason|-51.104|-60.886|FK||49|f
+Flat Top|-80.444|-28.369|AQ||49|f
+Flat Top Island|-43.630|146.380|AU|Tasmania|49|f
+Flaten|59.250|18.154|SE|Stockholm|49|f
+Flatningen|61.802|9.118|NO|Innlandet|49|f
+Flatraket|61.974|5.231|NO|Vestland|49|f
+Fleece Glacier|-65.900|-63.103|AQ||49|f
+Fleesensee|53.504|12.471|DE|Mecklenburg-Vorpommern|49|f
+Fleet Bay|54.850|-4.233|GB|Scotland|49|f
+Fleet Point|-67.608|-65.413|AQ||49|f
+Fleina|67.113|13.877|NO|Nordland|49|f
+Fleinsendin|61.267|8.717|NO|Innlandet|49|f
+Fleming-Mason Airport|38.542|-83.743|US|Kentucky|49|f
+Fletcher Peninsula|-72.750|-88.833|AQ||49|f
+Fleurus Island|-64.582|-62.200|AQ||49|f
+Flinders Bay|-34.383|115.317|AU|Western Australia|49|f
+Flinders Ranges|-30.250|139.083|AU|South Australia|49|f
+Flinders Ranges National Park|-31.361|138.654|AU|South Australia|49|f
+Flinders Reef|-26.978|153.486|AU|Queensland|49|f
+Flint Children's Museum|43.014|-83.712|US|Michigan|49|f
+Flint Mine Hill|42.329|-73.832|US|New York|49|f
+Flirtation Peak|39.735|-105.520|US|Colorado|49|f
+Flood Range|-76.000|-134.000|AQ||49|f
+Florala Municipal Airport|31.046|-86.310|US|Alabama|49|f
+Florida Airport|-14.607|-61.198|BO|Santa Cruz Department|49|f
+Flotta Island|60.200|-1.322|GB|Scotland|49|f
+Flounder Island|-66.028|-65.390|AQ||49|f
+Flower Island|48.545|-122.854|US|Washington|49|f
+Flower, Mount|-70.205|-67.884|AQ||49|f
+Floyd Casey Stadium|31.530|-97.149|US|Texas|49|f
+Fluchtkogel|46.849|10.776|AT|Tyrol|49|f
+Flugplatz Wiener Neustadt/West|47.833|16.229|AT|Lower Austria|49|f
+Fluke Ridge|-65.758|-62.457|AQ||49|f
+Flushing Meadow Park|40.740|-73.841|US|New York|49|f
+Flutter Island|-68.556|77.969|AQ||49|f
+Fly Mountain|41.892|-74.038|US|New York|49|f
+Flynn Glacier|-81.517|159.350|AQ||49|f
 Flatschach|47.217|14.750|AT|Styria|45
+Flachsee|47.333|8.355|CH|Aargau|40|f
+Flag Ponds Nature Park|38.451|-76.463|US|Maryland|40|f
+Flagler Bay|79.169|-76.997|CA|Nunavut|40|f
+Flagstaff Mountain|40.002|-105.307|US|Colorado|40|f
+Flaherty Island|56.234|-79.283|CA|Nunavut|40|f
+Flaming Gorge Dam|40.915|-109.422|US|Utah|40|f
+Flanagan Glacier|-79.483|-82.700|AQ||40|f
+Flandrau State Park|44.288|-94.474|US|Minnesota|40|f
+Fläschenspitz|47.029|8.872|CH|Schwyz|40|f
+Fläscherberg|47.037|9.506|CH|Grisons|40|f
+Flat Islands|48.800|-53.631|CA|Newfoundland and Labrador|40|f
+Flat Lake|43.881|-64.833|CA|Nova Scotia|40|f
+Flat Lake|45.436|-61.880|CA|Nova Scotia|40|f
+Flat Lake|45.800|-97.405|US|South Dakota|40|f
+Flat Lake Park|51.501|-121.519|CA|British Columbia|40|f
+Flat Rock Speedway|42.082|-83.307|US|Michigan|40|f
+Flat Top Mountain|40.372|-112.189|US|Utah|40|f
+Flathead Alps|47.511|-113.157|US|Montana|40|f
+Flatiron Mountain|33.570|-112.832|US|Arizona|40|f
+Flatrock Hill|41.755|-70.538|US|Massachusetts|40|f
+Flatrock Mountain|43.668|-75.059|US|New York|40|f
+Flattery Rocks National Wildlife Refuge|48.158|-124.750|US|Washington|40|f
+Flattops|45.317|-104.690|US|Montana|40|f
+Flax Pond|40.964|-73.140|US|New York|40|f
+Flaxley Abbey|51.837|-2.451|GB|England|40|f
+Fleischmann Glacier|62.354|-152.840|US|Alaska|40|f
+Fleming Bay|53.968|-130.098|CA|British Columbia|40|f
+Fleming Head|-75.167|162.633|AQ||40|f
+Fleming Island|45.967|-81.183|CA|Ontario|40|f
+Fleming Island|57.384|-106.885|CA|Saskatchewan|40|f
+Fleming Park|38.971|-94.312|US|Missouri|40|f
+Fleming Peaks|-77.250|-144.500|AQ||40|f
+Fleming Point|37.886|-122.316|US|California|40|f
+Fleming Stadium|35.718|-77.931|US|North Carolina|40|f
+Fleming Summit|-84.333|166.300|AQ||40|f
+Fletcher Covered Bridge|39.305|-80.480|US|West Virginia|40|f
+Fletcher Island|63.201|-67.781|CA|Nunavut|40|f
+Fletcher Islands|-66.883|143.083|AQ||40|f
+Fletcher Pond|44.984|-83.863|US|Michigan|40|f
+Fletchers Lake|44.847|-63.612|CA|Nova Scotia|40|f
+Flett Glacier|46.906|-121.802|US|Washington|40|f
+Flevopark|52.361|4.951|NL|North Holland|40|f
+Flimspitz|46.982|10.344|CH|Grisons|40|f
+Flint Covered Bridge|43.949|-72.459|US|Vermont|40|f
+Flint Creek Water Park|30.879|-89.131|US|Mississippi|40|f
+Flint Hills National Wildlife Refuge|38.302|-95.910|US|Kansas|40|f
+Flint Island|-11.429|-151.820|KI|Line Islands|40|f
+Flint Lake|46.652|-60.601|CA|Nova Scotia|40|f
+Flint Ridge|-77.517|163.033|AQ||40|f
+Flints Peak|51.433|-115.769|CA|Alberta|40|f
+Flitwick (Mount Hill)|51.997|-0.505|GB|England|40|f
+Flitwick Moor|52.002|-0.478|GB|England|40|f
+Flodday Island|56.897|-7.567|GB|Scotland|40|f
+Floe Lake|51.050|-116.141|CA|British Columbia|40|f
+Flora Lake|38.050|-119.808|US|California|40|f
+Flora Municipal Airport|40.541|-86.551|US|Indiana|40|f
+Floras Lake|42.895|-124.505|US|Oregon|40|f
+Florence Falls|-13.099|130.783|AU|Northern Territory|40|f
+Florence Lake National Wildlife Refuge|47.300|-100.321|US|North Dakota|40|f
+Florence Marina State Park|32.091|-85.043|US|Georgia|40|f
+Flores Island|49.333|-126.170|CA|British Columbia|40|f
+Flores Peak|33.713|-117.621|US|California|40|f
+Florewood River Plantation State Park|33.525|-90.250|US|Mississippi|40|f
+Florida Hills|42.913|-74.205|US|New York|40|f
+Florida Mountains|32.088|-107.619|US|New Mexico|40|f
+Florida State Fairgrounds|27.988|-82.362|US|Florida|40|f
+Florissant Fossil Beds National Monument|38.913|-105.280|US|Colorado|40|f
+Flourmill Volcanoes|52.067|-120.303|CA|British Columbia|40|f
+Flournoy Valley Airport|43.206|-123.533|US|Oregon|40|f
+Flowerpot Island|45.300|-81.633|CA|Ontario|40|f
+Flowers Island|51.308|-56.747|CA|Newfoundland and Labrador|40|f
+Floyd Bennett Field|40.585|-73.884|US|New York|40|f
+Fluchthorn|46.022|7.914|CH|Valais|40|f
+Flüela Wisshorn|46.762|9.967|CH|Grisons|40|f
+Flushing Bay|40.773|-73.856|US|New York|40|f
+Flute Summit|50.050|-122.919|CA|British Columbia|40|f
+Fluted Peak|38.024|-105.601|US|Colorado|40|f
+Fly By Night Airport|42.247|-123.071|US|Oregon|40|f
+Flying C Airport|33.342|-97.270|US|Texas|40|f
+Flying D Ranch Airport|43.382|-123.226|US|Oregon|40|f
+Flying Fish, Cape|-72.050|-102.333|AQ||40|f
+Flying S Ranch Airport|35.408|-118.504|US|California|40|f
+Flying Tom Airport|44.655|-123.212|US|Oregon|40|f
+Flyingshot Lake|55.139|-118.864|CA|Alberta|40|f
+Flynn Hill|37.109|-90.424|US|Missouri|40|f
+Flynn Hills|39.178|-123.530|US|California|40|f
 Flå|60.430|9.462|NO|Buskerud|0
 Flaçà|42.067|2.967|ES|Catalonia|0
 Flămânzi|47.550|26.867|RO|Botoșani County|0

@@ -1,4 +1,4 @@
-Grisons|46.659|9.623|CH||103|r
+Grisons|46.659|9.623|CH||104|r
 Grimsby|53.565|-0.076|GB|England|99
 Grimbergen|50.934|4.372|BE|Flanders|91
 Gries|47.062|15.424|AT|Styria|89
@@ -13,6 +13,7 @@ Griffith|-34.289|146.051|AU|New South Wales|86
 Gribanovskiy|51.450|41.962|RU|Voronezh Oblast|85
 Griffith|41.528|-87.424|US|Indiana|84
 Grimari|5.739|20.056|CF|Ouaka|83
+Grímsey Airport|66.547|-18.017|IS|Northeast|83|f
 Grigiškės|54.683|25.083|LT|Vilnius|81
 Grijó|41.028|-8.580|PT|Porto|81
 Grimes|41.688|-93.791|US|Iowa|81
@@ -22,27 +23,35 @@ Grindsted|55.757|8.928|DK|South Denmark|80
 Grigoropolisskaya|45.297|41.057|RU|Stavropol Kray|79
 Grinnell|41.743|-92.722|US|Iowa|79
 Grigny-sur-Rhône|45.608|4.790|FR|Auvergne-Rhône-Alpes|78
+Griffin Park|51.488|-0.303|GB|England|78|f
+Grímsey Island|66.544|-18.000|IS|Northeast|78|f
 Griñón|40.212|-3.855|ES|Madrid|77
 Griviţa|44.733|27.283|RO|Ialomița County|77
+Grise Fiord Airport|76.426|-82.907|CA|Nunavut|77|f
 Gribouo|6.195|-6.913|CI|Bas-Sassandra District|77
 Gridley|39.364|-121.694|US|California|76
 Gritsovskiy|54.138|38.160|RU|Tula Oblast|76
 Grissom Air Force Base|40.658|-86.148|US|Indiana|75
 Griviţa|46.150|27.650|RO|Vaslui County|75
+Gridone|46.123|8.648|CH|Ticino|74|f
 Grivenskaya|45.647|38.176|RU|Krasnodar Krai|74
 Grimethorpe|53.577|-1.377|GB|England|73
 Grieskirchen|48.233|13.833|AT|Upper Austria|73
+Grieshorn|46.452|8.393|IT|Piedmont|72|f
 Grimaud|43.273|6.522|FR|Provence-Alpes-Côte d'Azur|72
 Grignasco|45.680|8.344|IT|Piedmont|72
 Grindelwald|46.624|8.036|CH|Bern|71
 Griviţa|45.717|27.650|RO|Galați County|71
 Grizzana Morandi|44.258|11.153|IT|Emilia-Romagna|71
+Grianan of Aileach|55.024|-7.427|IE|Ulster|71|f
 Grisolles|43.829|1.297|FR|Occitanie|70
 Grisignano di Zocco|45.487|11.708|IT|Veneto|70
 Gripazo|5.831|-6.594|CI|Bas-Sassandra District|69
 Grindavík|63.838|-22.439|IS|Southern Peninsula|69
 Gries|48.754|7.814|FR|Grand Est|69
 Grignano Polesine|45.044|11.747|IT|Veneto|69
+Griffing Sandusky Airport|41.433|-82.652|US|Ohio|69|f
+Grimes Airport|40.485|-76.264|US|Pennsylvania|69|f
 Grifton|35.373|-77.437|US|North Carolina|69
 Grinţieş|47.050|25.867|RO|Neamț County|68
 Grimshaw|56.183|-117.603|CA|Alberta|68
@@ -50,11 +59,16 @@ Grijpskerk|53.263|6.308|NL|Groningen|68
 Griesstätt|47.994|12.177|DE|Bavaria|68
 Grindu|44.767|26.917|RO|Ialomița County|68
 Grimisuat|46.259|7.384|CH|Valais|67
+Grimming|47.521|14.017|AT|Styria|67|f
 Griboyedov|40.113|44.272|AM|Armavir|67
 Grisy-Suisnes|48.685|2.668|FR|Île-de-France|67
 Grimston|52.773|0.548|GB|England|66
 Grignon|45.651|6.378|FR|Auvergne-Rhône-Alpes|66
 Grié II|6.444|-8.366|CI|Montagnes|66
+Grindane|61.092|8.517|NO|Innlandet|65|f
+Grinder Island|-77.567|-149.333|AQ||65|f
+Grisvågøya|63.317|8.417|NO|Møre og Romsdal|65|f
+Grizzly Peak|37.730|-119.551|US|California|65|f
 Grimston|52.790|-0.987|GB|England|65
 Grillon|44.395|4.930|FR|Provence-Alpes-Côte d'Azur|65
 Griesheim-près-Molsheim|48.503|7.530|FR|Grand Est|65
@@ -67,6 +81,10 @@ Grindu|45.400|28.217|RO|Tulcea County|64
 Griston|52.557|0.864|GB|England|64
 Grindrod|50.633|-119.119|CA|British Columbia|64
 Grimaldi|39.141|16.235|IT|Calabria|64
+Griffin Butte|43.730|-114.420|US|Idaho|63|f
+Griffith Island|-66.333|110.483|AQ||63|f
+Grima|60.925|4.848|NO|Vestland|63|f
+Grizzly Mountain|44.438|-120.956|US|Oregon|63|f
 Grill|40.299|-75.940|US|Pennsylvania|63
 Grignan|44.420|4.908|FR|Auvergne-Rhône-Alpes|63
 Gridley|40.743|-88.881|US|Illinois|63
@@ -80,19 +98,138 @@ Griggsville|39.709|-90.725|US|Illinois|61
 Grimsley|36.267|-84.984|US|Tennessee|61
 Grignols|44.388|-0.044|FR|New Aquitaine|61
 Griesheim-sur-Souffel|48.636|7.669|FR|Grand Est|61
+Grider Field|34.175|-91.935|US|Arkansas|61|f
+Gridley Mountain|42.040|-73.467|US|Connecticut|61|f
+Griegfjellet|78.022|13.774|SJ|Svalbard|61|f
+Griffith Lake|43.304|-72.959|US|Vermont|61|f
+Griffith Park|34.137|-118.294|US|California|61|f
+Grimevann|58.304|8.371|NO|Agder|61|f
+Grindsjön|59.083|17.867|SE|Stockholm|61|f
+Grizzly Mountain|48.419|-113.402|US|Montana|61|f
+Grizzly Peak|39.042|-106.598|US|Colorado|61|f
 Grijota|42.053|-4.583|ES|Castille and León|60
 Gries|49.417|7.400|DE|Rheinland-Pfalz|60
 Grijpskerke|51.534|3.561|NL|Zeeland|60
 Grillby|59.626|17.258|SE|Uppsala|60
+Griesingen|48.267|9.783|DE|Baden-Wurttemberg|60
+Grisì|37.953|13.090|IT|Sicily|60
+Grigor’yevka|44.163|132.001|RU|Primorye|60
+Grimminge|50.794|3.952|BE|Flanders|60
+Griswold|41.235|-95.137|US|Iowa|60
 Grimmenstein|47.616|16.127|AT|Lower Austria|60
 Griffen|46.704|14.733|AT|Carinthia|58
+Griggstown|40.438|-74.613|US|New Jersey|58
+Grižane|45.201|14.722|HR|Primorje-Gorski Kotar|58
+Griffith Peak|36.232|-115.646|US|Nevada|58|f
+Grinda|59.411|18.563|SE|Stockholm|58|f
+Grist Mill Covered Bridge|44.637|-72.825|US|Vermont|58|f
+Griswold Hills|36.524|-120.734|US|California|58|f
+Grizzly Peak|37.882|-122.234|US|California|58|f
+Grizzly Peak|39.644|-105.849|US|Colorado|58|f
+Grieben|52.437|11.961|DE|Saxony-Anhalt|58
+Griesbach-au-Val|48.036|7.173|FR|Grand Est|58
+Gríva|40.954|22.410|GR|Central Macedonia|58
 Grigno|46.016|11.636|IT|Trentino-Alto Adige|58
+Grigoreni|46.597|26.682|RO|Bacău County|57
+Gricourt|49.887|3.244|FR|Hauts-de-France|57
+Gringley on the Hill|53.408|-0.893|GB|England|57
+Grimsås|57.484|13.550|SE|Västra Götaland|57
+Grilly|46.331|6.114|FR|Auvergne-Rhône-Alpes|57
+Griselles|48.083|2.830|FR|Centre-Val de Loire|56
+Griže|46.229|15.151|SI|Municipality of Žalec|56
+Grieselstein|46.950|16.120|AT|Burgenland|56
+Griebo|51.881|12.509|DE|Saxony-Anhalt|56
+Grindași|44.727|26.840|RO|Ialomița County|56
+Grimslöv|56.733|14.533|SE|Kronoberg|56
 Griante|45.995|9.236|IT|Lombardy|56
 Gries im Sellrain|47.196|11.156|AT|Tyrol|56
+Gries bei Oberndorf|48.065|15.212|AT|Lower Austria|56
+Grisy-les-Plâtres|49.132|2.050|FR|Île-de-France|55
+Grignols|45.083|0.540|FR|New Aquitaine|55
+Grindeni|46.501|23.998|RO|Mureș County|55
+Grimes|31.305|-85.448|US|Alabama|55
+Grimburg|49.617|6.883|DE|Rheinland-Pfalz|54
+Griffen Island|40.410|-80.612|US|West Virginia|54|f
+Griffin Island|41.942|-70.063|US|Massachusetts|54|f
+Griffith Airport|-34.251|146.067|AU|New South Wales|54|f
+Griffith-Merrillville Airport|41.522|-87.399|US|Indiana|54|f
+Griffitts Island|-38.393|142.246|AU|Victoria|54|f
+Grim Rock|-65.379|-64.486|AQ||54|f
+Grimes Field|40.133|-83.749|US|Ohio|54|f
+Grimstadfjorden|60.323|5.212|NO|Vestland|54|f
+Grinda Ridge|-71.917|4.417|AQ||54|f
+Grindal Island|-34.912|136.033|AU|South Australia|54|f
+Grinder Rock|-63.966|-61.426|AQ||54|f
+Grip|63.219|7.593|NO|Møre og Romsdal|54|f
+Gripsholm|59.256|17.219|SE|Södermanland|54|f
+Grissom Air Force Base / Peru|40.648|-86.152|US|Indiana|54|f
+Grizzly Bay|38.118|-122.023|US|California|54|f
+Grinkiškis|55.555|23.637|LT|Siauliai|54
+Gribbohm|54.028|9.347|DE|Schleswig-Holstein|54
 Grisén|41.745|-1.163|ES|Aragon|54
+Griefstedt|51.230|11.129|DE|Thuringia|50
+Grinau|53.775|10.549|DE|Schleswig-Holstein|49
 Grizzana|44.258|11.156|IT|Emilia-Romagna|49
+Grieg, Mount|-71.568|-73.189|AQ||49|f
+Griend|53.252|5.252|NL|Friesland|49|f
+Grif Skerry|60.333|-0.850|GB|Scotland|49|f
+Griffith, Mount|-85.883|-155.500|AQ||49|f
+Griffiths Glacier|-77.167|162.333|AQ||49|f
+Grikurov Ridge|-71.283|-68.950|AQ||49|f
+Grimface Mountain|49.033|-120.186|CA|British Columbia|49|f
+Grimley Glacier|-69.147|-64.664|AQ||49|f
+Grimnitzsee|52.978|13.785|DE|Brandenburg|49|f
+Grimsay|57.483|-7.233|GB|Scotland|49|f
+Grimselsee|46.566|8.302|CH|Bern|49|f
+Grimsley Peaks|-66.567|53.667|AQ||49|f
+Grindstone Island|44.710|-76.231|CA|Ontario|49|f
+Grinnell Island|-66.187|110.400|AQ||49|f
+Grinnell Regional Airport|41.708|-92.731|US|Iowa|49|f
+Grisham Stadium|33.565|-85.082|US|Georgia|49|f
+Grivola|45.596|7.258|IT|Aosta Valley|49|f
+Grizzly Island|38.151|-121.973|US|California|49|f
+Grizzly Peak|37.756|-107.862|US|Colorado|49|f
+Grizzly Peak|38.942|-106.522|US|Colorado|49|f
+Grizzly Peak|42.270|-122.616|US|Oregon|49|f
+Grimmelshausen|50.483|10.633|DE|Thuringia|46
+Griebelschied|49.800|7.400|DE|Rheinland-Pfalz|46
 Griegos|40.427|-1.712|ES|Aragon|43
 Grijalba|42.430|-4.119|ES|Castille and León|42
+Gribbell Island|53.396|-129.017|CA|British Columbia|40|f
+Grier, Mount|-86.683|-148.950|AQ||40|f
+Griesgletscher|46.438|8.330|CH|Valais|40|f
+Griessee|46.458|8.370|CH|Valais|40|f
+Griffin Hill|42.361|-74.678|US|New York|40|f
+Griffith Glacier|-86.183|-149.400|AQ||40|f
+Griffith Island|74.576|-95.521|CA|Nunavut|40|f
+Griffith Peak|-85.783|-131.517|AQ||40|f
+Griffith Ridge|-71.367|164.383|AQ||40|f
+Griffiths-Priday Ocean State Park|47.130|-124.177|US|Washington|40|f
+Grigg Peak|-71.433|167.150|AQ||40|f
+Grimes Glacier|-79.200|-84.367|AQ||40|f
+Grimes Ridge|-74.633|-110.500|AQ||40|f
+Grimkesee|53.621|11.394|DE|Mecklenburg-Vorpommern|40|f
+Grimsta IP|59.362|17.852|SE|Stockholm|40|f
+Grimsthorpe Castle|52.792|-0.452|GB|England|40|f
+Grimsthorpe Lake|44.874|-77.395|CA|Ontario|40|f
+Grindall Island|55.444|-132.131|US|Alaska|40|f
+Grindstone Butte|44.198|-101.799|US|South Dakota|40|f
+Grindstone Island|44.275|-76.116|US|New York|40|f
+Grindstone Lake|46.122|-93.008|US|Minnesota|40|f
+Grindstone Lake|45.935|-91.415|US|Wisconsin|40|f
+Grindstone Mountain|40.698|-115.904|US|Nevada|40|f
+Grinnell Glacier|48.752|-113.727|US|Montana|40|f
+Grinnell Lake|48.766|-113.705|US|Montana|40|f
+Grinnell Peninsula|76.668|-95.001|CA|Nunavut|40|f
+Grinnell Range|76.535|-94.043|CA|Nunavut|40|f
+Grintavec|46.357|14.536|SI|Municipality of Kamnik|40|f
+Grisedale Pike|54.593|-3.242|GB|England|40|f
+Grisette Mountain|52.933|-117.952|CA|Alberta|40|f
+Griswold Lake|40.634|-115.486|US|Nevada|40|f
+Grizzled Squirrel Wildlife Sanctuary|9.391|77.320|IN|Kerala|40|f
+Grizzly Bear Lake|43.803|-110.811|US|Wyoming|40|f
+Grizzly Creek Redwoods State Park|40.484|-123.907|US|California|40|f
+Grizzly Mountain|51.317|-117.569|CA|British Columbia|40|f
 Grisel|41.871|-1.728|ES|Aragon|35
 Grisaleña|42.591|-3.264|ES|Castille and León|33
 Grindale|54.125|-0.274|GB|England|0

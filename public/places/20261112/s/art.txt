@@ -15,14 +15,22 @@ Artémida|37.967|23.997|GR|Attica|87
 Artik|40.619|43.972|AM|Shirak|85
 Arta|11.526|42.852|DJ|Arta|85
 Artesia|33.866|-118.083|US|California|85
+art academy Dusseldorf|51.230|6.774|DE|North Rhine-Westphalia|84|f
+Arthur Napoleon Raymond Robinson International Airport|11.150|-60.832|TT|Tobago|84|f
+Art Gallery of Ontario|43.653|-79.392|CA|Ontario|83|f
 Artsyz|45.985|29.433|UA|Odesa|83
+Arthur's Pass National Park|-42.950|171.583|NZ||83|f
 Arti|56.420|58.539|RU|Sverdlovsk Oblast|83
 Artondale|47.300|-122.621|US|Washington|82
+Arturo Michelena International Airport|10.150|-67.929|VE|Carabobo|82|f
 Artesia|32.842|-104.403|US|New Mexico|82
+Arthur Island|81.134|50.684|RU|Arkhangelskaya|81|f
 Artena|41.741|12.907|IT|Lazio|81
 Arteaga|18.357|-102.291|MX|Michoacán|80
 Arth|47.063|8.523|CH|Schwyz|80
+Arthur Ashe Stadium|40.749|-73.847|US|New York|80|f
 Arteaga|25.445|-100.847|MX|Coahuila|79
+Artesia Municipal Airport|32.852|-104.467|US|New Mexico|78|f
 Artigues-près-Bordeaux|44.859|-0.497|FR|New Aquitaine|76
 Artern|51.364|11.292|DE|Thuringia|76
 Artà|39.693|3.350|ES|Balearic Islands|76
@@ -30,7 +38,10 @@ Artova|40.116|36.300|TR|Tokat Province|76
 Artist Village|19.032|73.043|IN|Maharashtra|76
 Artés|41.798|1.954|ES|Catalonia|75
 Artane|53.387|-6.214|IE|Leinster|75
+Arta Vela|43.858|15.546|HR|Šibenik-Knin|74|f
 Arteche|12.264|125.405|PH|Eastern Visayas|74
+Art Gallery of New South Wales|-33.869|151.217|AU|New South Wales|73|f
+Arthur's Town Airport|24.629|-75.673|BS|Cat Island|73|f
 Artesa de Segre|41.895|1.046|ES|Catalonia|71
 Arteni|40.297|43.767|AM|Aragatsotn|71
 Arţās|31.689|35.187|PS|West Bank|71
@@ -49,6 +60,7 @@ Artemovsk|54.348|93.436|RU|Krasnoyarsk Krai|67
 Artimet|40.150|44.267|AM|Armavir|66
 Artesia|-24.012|26.320|BW|Kgatleng|65
 Artenay|48.082|1.881|FR|Centre-Val de Loire|65
+Artigas International Airport|-30.401|-56.508|UY|Artigas|65|f
 Artana|39.891|-0.258|ES|Valencia|65
 Artemio Treviño|25.835|-100.143|MX|Nuevo León|65
 Art-sur-Meurthe|48.657|6.267|FR|Grand Est|64
@@ -70,9 +82,63 @@ Arturo Martínez Adame|25.832|-103.385|MX|Durango|62
 Artybash|51.793|87.276|RU|Altai|62
 Arthur’s Town|24.622|-75.672|BS|Cat Island|61
 Artashar|40.111|44.183|AM|Armavir|61
+Art Island|-19.717|163.650|NC|North Province|61|f
+Arthur N Neu Airport|42.047|-94.790|US|Iowa|61|f
 Artres|50.295|3.540|FR|Hauts-de-France|61
 Artemare|45.874|5.694|FR|Auvergne-Rhône-Alpes|61
 Arthon|46.694|1.699|FR|Centre-Val de Loire|60
+Arten|46.008|11.829|IT|Veneto|59
+Arthur’s Pass|-42.950|171.567|NZ|Canterbury|59
+Artonne|46.003|3.144|FR|Auvergne-Rhône-Alpes|58
+Arthur Dunn Air Park|28.623|-80.833|US|Florida|58|f
+Artillery Mountains|34.368|-113.601|US|Arizona|58|f
+Artemón|36.982|24.724|GR|South Aegean|58
+Artículo 27|16.269|-91.859|MX|Chiapas|58
+Artículo Ciento Quince|32.081|-116.575|MX|Baja California|58
+Artolsheim|48.208|7.573|FR|Grand Est|58
+Artigueloutan|43.275|-0.246|FR|New Aquitaine|58
+Artabuynk|39.867|45.328|AM|Vayots Dzor|58
+Artsvanik|39.263|46.474|AM|Syunik|57
+Artanu|44.787|23.222|RO|Gorj County|57
+Artashavan|40.389|44.383|AM|Aragatsotn|57
+Artzenheim|48.116|7.541|FR|Grand Est|56
+Artemivka|47.872|38.638|UA|Donetsk|56
+Arțari|44.567|26.672|RO|Călărași County|56
+Artyk|64.181|145.127|RU|Sakha|56
+Artanish|40.497|45.364|AM|Gegharkunik|56
+Ártánd|47.117|21.767|HU|Hajdú-Bihar|56
+Artemus|36.833|-83.842|US|Kentucky|55
+Arthez-d'Asson|43.089|-0.253|FR|New Aquitaine|55
+Artigat|43.136|1.440|FR|Occitanie|54
+Arthur Bowring Sandhills Ranch State Historical Park|42.958|-101.677|US|Nebraska|54|f
+Arthur Range|-41.250|172.617|NZ||54|f
+Artist Point|44.721|-110.479|US|Wyoming|54|f
+Artavaz|40.612|44.578|AM|Kotayk|54
+Artemis Ridge|-77.450|162.233|AQ||49|f
+Arthur-Pieman Conservation Area|-41.350|144.860|AU|Tasmania|49|f
+Arthurs Lake|-41.990|146.910|AU|Tasmania|49|f
+Arthurson Ridge|-69.367|158.500|AQ||49|f
 Arthur|41.572|-101.692|US|Nebraska|41
+Art Gallery of Hamilton|43.258|-79.872|CA|Ontario|40|f
+Art Museum of Southeast Texas|30.084|-94.098|US|Texas|40|f
+Art Museum of the Americas|38.893|-77.041|US|District of Columbia|40|f
 Artazu|42.692|-1.840|ES|Navarre|40
+Artemise Lake|46.620|-60.669|CA|Nova Scotia|40|f
+Artemisia Geyser|44.478|-110.849|US|Wyoming|40|f
+Artesian Well Park|40.752|-111.877|US|Utah|40|f
+Arthur Ashe Junior Athletic Center|37.573|-77.463|US|Virginia|40|f
+Arthur B. Ripley Desert Woodland State Park|34.760|-118.502|US|California|40|f
+Arthur Glacier|-77.050|-145.250|AQ||40|f
+Arthur Lake|45.872|-80.093|CA|Ontario|40|f
+Arthur M Sackler Gallery|38.888|-77.027|US|District of Columbia|40|f
+Arthur Peak|58.053|-133.976|US|Alaska|40|f
+Arthur Seat|50.400|-121.436|CA|British Columbia|40|f
+Artichoke Lake|45.355|-96.139|US|Minnesota|40|f
+Artificial Island|39.476|-75.536|US|New Jersey|40|f
+Artillery Lake|63.150|-107.868|CA|Northwest Territories|40|f
+Artillery Park|41.496|-71.376|US|Rhode Island|40|f
+Artist Lake|40.884|-72.932|US|New York|40|f
+Artium Museum|42.849|-2.668|ES|Basque Country|40|f
+Artlish Caves Park|50.166|-126.920|CA|British Columbia|40|f
+ArtParkS Sculpture Park|49.436|-2.548|GG||40|f
 Artieda|42.585|-0.984|ES|Aragon|0

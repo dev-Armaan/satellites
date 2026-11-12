@@ -4,6 +4,7 @@ Goose Creek|32.981|-80.033|US|South Carolina|92
 Goodlands|-20.038|57.651|MU|Rivière du Rempart|86
 Goole|53.703|-0.877|GB|England|86
 Goodings Grove|41.629|-87.931|US|Illinois|85
+Goodison Park|53.439|-2.966|GB|England|85|f
 Goodlettsville|36.323|-86.713|US|Tennessee|85
 Goonellabah|-28.817|153.317|AU|New South Wales|83
 Goodmayes|51.563|0.111|GB|England|82
@@ -13,17 +14,28 @@ Good Hope|33.765|-117.267|US|California|79
 Gooik|50.794|4.114|BE|Flanders|79
 Goondiwindi|-28.547|150.305|AU|Queensland|76
 Good Hope|-25.467|25.439|BW|Ngwaketsi|75
+Goondiwindi Airport|-28.521|150.320|AU|Queensland|73|f
 Goodland|39.351|-101.710|US|Kansas|73
 Goodview|44.062|-91.696|US|Minnesota|72
 Gooding|42.939|-114.713|US|Idaho|71
 Gooua|6.699|-5.489|CI|Sassandra-Marahoue|70
+Goodspeed Airport|41.446|-72.457|US|Connecticut|69|f
+Gooimeer|52.323|5.196|NL||69|f
 Good Hope|34.116|-86.864|US|Alabama|67
+Goose Bay Airport|61.395|-149.845|US|Alaska|67|f
+Goose Creek Mountains|41.626|-114.124|US|Nevada|67|f
 Goolwa|-35.502|138.782|AU|South Australia|67
 Goostrey|53.227|-2.339|GB|England|66
 Goolwa Beach|-35.505|138.773|AU|South Australia|66
+Goode Mountain|48.483|-120.911|US|Washington|65|f
+Goodenough Island|-9.343|150.238|PG|Milne Bay Province|65|f
+Googong Dam|-35.415|149.251|AU|New South Wales|65|f
 Goodrich|42.917|-83.506|US|Michigan|65
 Goodwick|52.005|-4.995|GB|Wales|65
 Gooburrum|-24.823|152.332|AU|Queensland|64
+Goodland Municipal Airport|39.364|-101.692|US|Kansas|63|f
+Goodnough Dike|42.298|-72.300|US|Massachusetts|63|f
+Goose Lake|41.947|-120.419|US|California|63|f
 Goosnargh|53.822|-2.670|GB|England|63
 Goodwater|33.066|-86.053|US|Alabama|63
 Goodman|32.970|-89.912|US|Mississippi|62
@@ -31,4 +43,88 @@ Goodwell|36.595|-101.637|US|Oklahoma|62
 Goodman|36.742|-94.399|US|Missouri|62
 Goodhue|44.401|-92.624|US|Minnesota|61
 Goodland|40.763|-87.294|US|Indiana|60
+Goombungee|-27.307|151.851|AU|Queensland|60
+Goolwa South|-35.515|138.781|AU|South Australia|60
+Goolwa North|-35.491|138.813|AU|South Australia|60
+Goodfield|40.630|-89.275|US|Illinois|60
 Goochland|37.684|-77.885|US|Virginia|59
+Goodnow Mountain|43.960|-74.210|US|New York|58|f
+Goodrich Castle|51.877|-2.616|GB|England|58|f
+Goodwin Field|33.221|-92.813|US|Arkansas|58|f
+Goosefeld|54.430|9.816|DE|Schleswig-Holstein|58
+Goomeri|-26.184|152.069|AU|Queensland|57
+Goodwood|44.033|-79.200|CA|Ontario|56
+Goornong|-36.616|144.507|AU|Victoria|56
+Goondi Bend|-17.517|146.011|AU|Queensland|55
+Good Thunder|44.005|-94.066|US|Minnesota|55
+Goodworth Clatford|51.178|-1.484|GB|England|55
+Goomalling|-31.302|116.825|AU|Western Australia|55
+Good Hope Mine|33.739|-117.286|US|California|54|f
+Goodenoughfjellet|80.440|23.133|SJ|Svalbard|54|f
+Goodwin Glacier|-65.119|-62.853|AQ||54|f
+Goold Island National Park|-18.165|146.171|AU|Queensland|54|f
+Goose Island|-34.457|137.364|AU|South Australia|54|f
+Goose Island|48.458|-122.957|US|Washington|54|f
+Gooseberry Falls State Park|47.147|-91.463|US|Minnesota|54|f
+Goosenecks State Park|37.178|-109.926|US|Utah|54|f
+Goodwill|45.567|-97.070|US|South Dakota|54
+Goondi Hill|-17.528|146.017|AU|Queensland|54
+Goobang National Park|-32.667|148.351|AU|New South Wales|49|f
+Good Glacier|-84.200|177.833|AQ||49|f
+Goodale, Mount|-85.750|-157.717|AQ||49|f
+Goodall Ridge|-71.033|66.833|AQ||49|f
+Goodedulla National Park|-23.278|149.737|AU|Queensland|49|f
+Goodhope Bay|66.122|-163.694|US|Alaska|49|f
+Goodnews Airport|59.117|-161.581|US|Alaska|49|f
+Goodnight Scrub National Park|-25.289|151.899|AU|Queensland|49|f
+Goodooga Airport|-29.074|147.387|AU|New South Wales|49|f
+Goodspeed Glacier|-77.483|162.450|AQ||49|f
+Goodwood Island|-29.373|153.282|AU|New South Wales|49|f
+Goold Island|-18.167|146.171|AU|Queensland|49|f
+Goolwa Airport|-35.476|138.745|AU|South Australia|49|f
+Goon Dip Mountain|57.752|-136.151|US|Alaska|49|f
+Goongoongup Bridge|-31.948|115.881|AU|Western Australia|49|f
+Goorkha Craters|-79.767|159.550|AQ||49|f
+Goose Island|-35.500|138.937|AU|South Australia|49|f
+Goose Island|-40.302|147.796|AU|Tasmania|49|f
+Goose Island|38.808|-77.030|US|District of Columbia|49|f
+Goose Island|40.884|-73.778|US|New York|49|f
+Goose Island Conservation Park|-34.453|137.372|AU|South Australia|49|f
+Good Bay|50.817|-57.198|CA|Newfoundland and Labrador|40|f
+Good Hope Mountain|51.150|-124.186|CA|British Columbia|40|f
+Good Time Park|41.395|-74.327|US|New York|40|f
+Goodale Glacier|-85.583|-156.400|AQ||40|f
+Goodale Park|39.975|-83.007|US|Ohio|40|f
+Goodall Park|43.436|-70.777|US|Maine|40|f
+Goode Glacier|48.488|-120.905|US|Washington|40|f
+Goodell Glacier|-72.917|-88.500|AQ||40|f
+Goodin Creek Airport|45.411|-123.149|US|Oregon|40|f
+Goodpasture Bridge|44.148|-122.588|US|Oregon|40|f
+Goodwin Field|33.886|-117.887|US|California|40|f
+Goodwin Island|60.684|-64.649|CA|Nunavut|40|f
+Goodwin Peak|-85.900|-129.183|AQ||40|f
+Goodyear Lake|42.508|-74.982|US|New York|40|f
+Goorhigian, Mount|-75.050|-133.767|AQ||40|f
+Goose Arm|49.150|-57.915|CA|Newfoundland and Labrador|40|f
+Goose Bay|48.417|-53.831|CA|Newfoundland and Labrador|40|f
+Goose Bay|53.400|-60.165|CA|Newfoundland and Labrador|40|f
+Goose Creek Stone Bridge|38.980|-77.821|US|Virginia|40|f
+Goose Eye Mountain|44.503|-70.999|US|Maine|40|f
+Goose Harbour Lake|45.552|-61.415|CA|Nova Scotia|40|f
+Goose Island|41.194|-73.117|US|Connecticut|40|f
+Goose Island|41.904|-87.654|US|Illinois|40|f
+Goose Island|40.865|-73.819|US|New York|40|f
+Goose Island State Park|28.136|-96.987|US|Texas|40|f
+Goose Lake|49.150|-55.965|CA|Newfoundland and Labrador|40|f
+Goose Lake|45.952|-64.140|CA|Nova Scotia|40|f
+Goose Lake|45.188|-61.405|CA|Nova Scotia|40|f
+Goose Lake|54.315|-115.132|CA|Alberta|40|f
+Goose Lake|44.836|-97.273|US|South Dakota|40|f
+Goose Lake|45.941|-121.764|US|Washington|40|f
+Goose Lake|61.195|-149.820|US|Alaska|40|f
+Goose Pond|43.703|-72.094|US|New Hampshire|40|f
+Goose Pond|43.784|-74.901|US|New York|40|f
+Goose Pond|47.037|-122.797|US|Washington|40|f
+Gooseberry Island|47.900|-53.748|CA|Newfoundland and Labrador|40|f
+Gooseberry Lake Provincial Park|52.117|-110.768|CA|Alberta|40|f
+Gooseneck Glacier|43.182|-109.648|US|Wyoming|40|f

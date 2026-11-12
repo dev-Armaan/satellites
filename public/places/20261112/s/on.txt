@@ -13,6 +13,7 @@ Ono|34.850|134.933|JP|Hyōgo|94
 Onoda|34.001|131.184|JP|Yamaguchi|93
 Ontinyent|38.822|-0.606|ES|Valencia|92
 Ono|35.981|136.487|JP|Fukui|91
+Ontario International Airport|34.056|-117.602|US|California|90|f
 Ondangwa|-17.908|15.980|NA|Oshana Region|89
 Onyar|43.850|81.783|CN|Xinjiang|88
 Ongallur-II|10.790|76.219|IN|Kerala|88
@@ -24,6 +25,7 @@ Onsŏng|42.957|129.993|KP|North Hamgyong|86
 Onalaska|43.884|-91.235|US|Wisconsin|85
 Onex|46.184|6.102|CH|Geneva|85
 Ongallur-I|10.803|76.219|IN|Kerala|85
+Oneida Lake|43.203|-75.910|US|New York|84|f
 Ōno|40.285|141.629|JP|Iwate|84
 Oncativo|-31.913|-63.682|AR|Cordoba|83
 Ông Yến|9.483|105.346|VN|Ca Mau|83
@@ -57,15 +59,24 @@ Onguday|50.750|86.134|RU|Altai|75
 Onda Verde|-20.608|-49.295|BR|São Paulo|74
 Oniipa|-17.917|16.033|NA|Oshikoto Region|74
 Onga|48.117|20.917|HU|Borsod-Abaúj-Zemplén|73
+Onondaga Lake|43.089|-76.210|US|New York|73|f
+One Tree Island|22.243|114.139|HK||72|f
+Ongetkatel|7.216|134.377|PW|Koror|72|f
 Onuma|35.517|138.850|JP|Yamanashi|72
 Onè|45.784|11.874|IT|Veneto|72
 Ondres|43.562|-1.449|FR|New Aquitaine|72
 Onufriyivka|48.899|33.450|UA|Kirovohrad|72
 Oneida|36.498|-84.513|US|Tennessee|71
 O'Neill|42.458|-98.648|US|Nebraska|71
+Ōnohara Jima|34.046|139.382|JP|Tokyo|71|f
+Onslow Airport|-21.668|115.113|AU|Western Australia|71|f
 Onzain|47.500|1.177|FR|Centre-Val de Loire|71
 Oniceni|46.817|27.150|RO|Neamț County|70
 Ōnishi|34.679|136.043|JP|Nara|70
+Onekotan Island|49.444|154.758|RU|Sakhalin Oblast|70|f
+Onotoa Atoll|-1.879|175.558|KI|Gilbert Islands|70|f
+Ontario Science Centre|43.716|-79.339|CA|Ontario|70|f
+Ontong Java Atoll|-5.364|159.370|SB||70|f
 Onkerzele|50.782|3.911|BE|Flanders|70
 Onok|48.225|23.004|UA|Zakarpattia|70
 Onhaye|50.241|4.841|BE|Wallonia|70
@@ -75,11 +86,16 @@ Onawa|42.027|-96.097|US|Iowa|69
 On Wo Yuen|22.317|114.191|HK|Kowloon City|69
 One Kai Tak|22.330|114.200|HK|Kowloon City|69
 Ongandjera|-17.878|15.070|NA|Omusati Region|69
+Ondono Seto|34.196|132.538|JP|Hiroshima|69|f
 Ondjahio|6.177|-6.228|CI|Goh-Djiboua|68
 Öňaldy|37.998|58.605|TM|Ahal|68
 Oni|42.585|43.444|GE|Racha-Lechkhumi and Kvemo Svaneti|68
 Ónod|48.000|20.917|HU|Borsod-Abaúj-Zemplén|68
 Ontur|38.615|-1.497|ES|Castille-La Mancha|68
+O'Neal Island|48.604|-123.092|US|Washington|67|f
+Onega Bay|64.333|36.500|RU|Karelia|67|f
+Onjuku Dam|35.196|140.311|JP|Chiba|67|f
+Onnebetsu Dam|44.093|142.222|JP|Hokkaido|67|f
 Onokivtsi|48.657|22.342|UA|Zakarpattia|67
 Ontario|43.221|-77.283|US|New York|67
 Ongojou|-12.839|45.160|YT|Dembeni|66
@@ -90,6 +106,9 @@ Onigo|45.857|11.991|IT|Veneto|66
 Ontígola|40.004|-3.572|ES|Castille-La Mancha|66
 Onstwedde|53.035|7.040|NL|Groningen|66
 Onderdijk|52.743|5.138|NL|North Holland|66
+Onega Canal|61.009|35.481|RU||65|f
+Onøya|66.387|12.854|NO|Nordland|65|f
+Onrust Island|-6.033|106.735|ID|Jakarta|65|f
 Onverwacht|-25.602|28.599|ZA|Gauteng|65
 Oneaga|47.576|26.732|RO|Botoșani County|65
 On|50.172|5.289|BE|Wallonia|65
@@ -99,6 +118,10 @@ Oncești|47.848|23.982|RO|Maramureş|64
 Öncül|36.712|39.029|TR|Şanlıurfa|64
 Onset|41.742|-70.658|US|Massachusetts|64
 Onzonilla|42.524|-5.582|ES|Castille and León|64
+Ongley Island|-62.430|-59.887|AQ||63|f
+Onikuma-damu|36.419|138.000|JP|Nagano|63|f
+Ono Island|-18.904|178.487|FJ|Eastern|63|f
+Onotoa Airport|-1.796|175.526|KI|Gilbert Islands|63|f
 Oña|42.734|-3.415|ES|Castille and León|63
 Onzaga|6.344|-72.817|CO|Santander Department|63
 Önnestad|56.057|14.022|SE|Skåne|63
@@ -111,25 +134,114 @@ Oneida|44.499|-88.183|US|Wisconsin|62
 Once de Abril|15.053|-92.142|MX|Chiapas|62
 Onslow|-21.638|115.112|AU|Western Australia|61
 Onga|-0.760|14.306|GA|Haut-Ogooué|61
+O'Neill Forebay|37.081|-121.049|US|California|61|f
+Onaqui Mountains|40.210|-112.561|US|Utah|61|f
+Onarheimsvatnet|59.854|5.760|NO|Vestland|61|f
+Onezhskiy Poluostrov|64.583|38.000|RU|Arkhangelskaya|61|f
+Ongul Island|-69.017|39.533|AQ||61|f
+Onteora Mountain|42.222|-74.168|US|New York|61|f
 Ondřejov|49.905|14.784|CZ|Central Bohemia|61
 Ony-Tabré|6.180|-5.959|CI|Goh-Djiboua|60
 Oniceni|47.324|26.462|RO|Suceava|60
 Ondes|43.782|1.308|FR|Occitanie|60
 Onesse-Laharie|44.062|-1.070|FR|New Aquitaine|60
 Ono San Pietro|46.017|10.328|IT|Lombardy|60
+Ony-Babré|6.173|-5.959|CI|Goh-Djiboua|60
+Ontario Village|17.221|-88.892|BZ|Cayo District|60
+Oncy-sur-École|48.383|2.467|FR|Île-de-France|59
+Onyshky|49.816|32.731|UA|Poltava|59
+Oncești|45.109|25.214|RO|Dâmbovița County|59
+Onsted|42.006|-84.190|US|Michigan|59
 Ondores|-11.084|-76.147|PE|Junin|59
+Onze-Lieve-Vrouw-Lombeek|50.820|4.110|BE|Flanders|59
+Onamia|46.071|-93.668|US|Minnesota|59
 Onano|42.691|11.816|IT|Lazio|59
+Onnion|46.173|6.478|FR|Auvergne-Rhône-Alpes|59
+Oniltic|16.969|-92.388|MX|Chiapas|59
+Onaway|45.358|-84.224|US|Michigan|58
+Onís|43.338|-4.966|ES|Asturias|58
+Onyskove|46.922|30.825|UA|Odesa|58
 Oniferi|40.272|9.170|IT|Sardinia|58
+Ono-i-Lau Island|-20.649|-178.742|FJ|Eastern|58|f
+Onota Lake|42.477|-73.266|US|Massachusetts|58|f
+Ontario Peak|34.228|-117.624|US|California|58|f
+Ontojärvi|64.132|29.188|FI|Kainuu|58|f
+Ontinar de Salz|41.935|-0.757|ES|Aragon|58
 Onore|45.892|10.011|IT|Lombardy|58
 Onifai|40.407|9.650|IT|Sardinia|57
 Oneta|45.871|9.819|IT|Lombardy|57
+Onaga|39.489|-96.170|US|Kansas|57
+Oneida|41.072|-90.225|US|Illinois|57
+Ongourakro|8.033|-5.317|CI|Vallée du Bandama District|57
 Onida|44.708|-100.060|US|South Dakota|56
+Onoun|8.579|149.683|FM|Chuuk|56
+Oneida Castle|43.083|-75.634|US|New York|56
+Onut|48.567|26.054|UA|Chernivtsi|56
+Onalaska|46.575|-122.718|US|Washington|56
 Ontiñena|41.677|0.089|ES|Aragon|56
+Oncán|20.963|-89.484|MX|Yucatán|56
+Onza de Oro|-5.488|-80.746|PE|Piura|55
+Onyskove|48.157|30.422|UA|Mykolaiv|55
+Ontario|43.726|-90.592|US|Wisconsin|55
+Oncești|43.956|25.880|RO|Giurgiu County|55
+Ongenga|-17.442|15.674|NA|Ohangwena Region|55
+Onville|49.017|5.969|FR|Grand Est|54
+Onylove|47.453|29.893|UA|Odesa|54
+Onslunda|55.598|14.051|SE|Skåne|54
+O'Neal Airport|38.690|-87.548|US|Illinois|54|f
+O'Neill Dam|37.084|-121.041|US|California|54|f
+O’Neill Park|-33.901|151.023|AU|New South Wales|54|f
+Ona|62.867|6.550|NO|Møre og Romsdal|54|f
+Ondori Island|-69.000|39.533|AQ||54|f
+One Hundred Mile House Airport|51.642|-121.305|CA|British Columbia|54|f
+One Tree Island|-23.507|152.092|AU|Queensland|54|f
+Ongulgalten Island|-69.067|39.600|AQ||54|f
+Ongulkalven Island|-69.017|39.450|AQ||54|f
+Ongyun Island|16.387|94.226|MM|Ayeyarwady|54|f
+Ono|60.508|4.890|NO|Vestland|54|f
+Onset Island|41.733|-70.643|US|Massachusetts|54|f
+Ontario Municipal Airport|44.021|-117.013|US|Oregon|54|f
+Onley|37.691|-75.716|US|Virginia|54
+Onderdendam|53.334|6.590|NL|Groningen|54
+Oneop Village|5.507|153.711|FM|Chuuk|54
 Onanì|40.485|9.443|IT|Sardinia|52
 Onavas|28.461|-109.529|MX|Sonora|51
+O'Neil Peak|47.625|-123.396|US|Washington|49|f
+O'Neill Butte|36.071|-112.091|US|Arizona|49|f
+O'Neill Peak|-74.065|-77.330|AQ||49|f
+Onchon|38.910|125.233|KP|South Pyongan|49|f
+One Tree Island|-32.695|152.053|AU|New South Wales|49|f
+One Tree Island|32.309|-64.864|BM|Sandys|49|f
+Oneonta Municipal Airport|42.522|-75.067|US|New York|49|f
+Ongael|7.253|134.382|PW|Koror|49|f
+Onikan Stadium|6.442|3.402|NG|Lagos|49|f
+Onkaparinga River National Park|-35.158|138.561|AU|South Australia|49|f
+Onkaparinga River Recreation Park|-35.167|138.491|AU|South Australia|49|f
+Onkivesi|63.300|27.300|FI|North Savo|49|f
+Onnum Ridge|-80.117|156.417|AQ||49|f
+Onslow Mountain|50.583|-115.285|CA|British Columbia|49|f
 Ongoy|-13.404|-73.670|PE|Apurímac Department|47
 Onzo|44.070|8.052|IT|Liguria|47
+Onsdorf|49.650|6.483|DE|Rheinland-Pfalz|44
 Oncala|41.970|-2.315|ES|Castille and León|41
+O'Neal Point|-64.700|-62.300|AQ||40|f
+O'Neal Ridge|-72.800|168.750|AQ||40|f
+Ona Beach State Park|44.518|-124.073|US|Oregon|40|f
+Onaman Lake|50.008|-87.449|CA|Ontario|40|f
+Ōnaruto Brdige|34.238|134.649|JP||40|f
+Onaway State Park|45.434|-84.231|US|Michigan|40|f
+Onawe|-43.769|172.927|NZ|Canterbury|40|f
+One Room Schoolhouse Park|40.763|-73.879|US|New York|40|f
+Onetangi Bay|-36.775|175.084|NZ||40|f
+Ongal Peak|-62.659|-60.118|AQ||40|f
+Onigam Lake|55.361|-90.558|CA|Ontario|40|f
+Onitkok Island|67.828|-114.539|CA|Nunavut|40|f
+Ono Island|30.294|-87.497|US|Alabama|40|f
+Onondaga Lake Park|43.101|-76.212|US|New York|40|f
+Onondaga Park|43.027|-76.163|US|New York|40|f
+Onslow Bay|34.511|-77.288|US|North Carolina|40|f
+Ontario Place|43.633|-79.416|CA|Ontario|40|f
+Ontelaunee Lake|40.456|-75.912|US|Pennsylvania|40|f
 Oncino|44.677|7.190|IT|Piedmont|28
 Onam|37.698|127.206|KR|Gyeonggi-do|0
 Onan Ganjang Satu|2.159|98.630|ID|North Sumatra|0
@@ -139,12 +251,18 @@ Oncócua|-16.656|13.423|AO|Cunene|0
 Ondokuzmayıs|41.501|36.069|TR|Samsun|0
 Ondong Siau|2.747|125.361|ID|North Sulawesi|0
 Öndörhoshuu|48.000|113.933|MN|East Aimak|0
+Onekore|-8.837|121.652|ID|East Nusa Tenggara|0
 Oneop|5.507|153.710|FM|Chuuk|0
 Onesti|46.250|26.750|RO|Bacău County|0
+Onewitu|-8.840|121.645|ID|East Nusa Tenggara|0
+Ongabelen|-8.335|123.201|ID|East Nusa Tenggara|0
+Ongalereng|-8.445|123.008|ID|East Nusa Tenggara|0
 Ongi|46.467|102.283|MN|Övörhangay|0
 Ongi|45.450|103.900|MN|Middle Govĭ|0
+Ongko|-8.739|118.044|ID|West Nusa Tenggara|0
 Ongnyong|35.018|127.619|KR|Jeollanam-do|0
 Ongon|46.983|103.784|MN|Övörhangay|0
+Oni|-10.081|124.463|ID|East Nusa Tenggara|0
 Onimsari|-2.867|132.992|ID|West Papua|0
 Onolimbu|0.995|97.497|ID|North Sumatra|0
 Onon|48.617|110.600|MN|Hentiy|0
@@ -153,4 +271,5 @@ Onou|8.799|150.292|FM|Chuuk|0
 Onoun|8.575|149.687|FM|Chuuk|0
 Onuebonyi Echara|6.095|8.152|NG|Ebonyi State|0
 Onueke|6.155|8.037|NG|Ebonyi State|0
+Onyam|-7.550|107.832|ID|West Java|0
 Onyedega|6.882|6.676|NG|Kogi State|0

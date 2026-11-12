@@ -15,6 +15,7 @@ Bolikhamsai|18.500|104.333|LA||96|r
 Bolvadin|38.711|31.049|TR|Afyonkarahisar Province|95
 Bol|13.467|14.714|TD|Lac|94
 Bolobo|-2.158|16.232|CD|Mai-Ndombe|93
+Bologna Guglielmo Marconi Airport|44.535|11.289|IT|Emilia-Romagna|92|f
 Bolesławiec|51.264|15.570|PL|Lower Silesia|92
 Bol'šoj Kamen'|43.111|132.350|RU|Primorye|92
 Boldumsaz|42.128|59.672|TM|Dasoguz|92
@@ -74,11 +75,15 @@ Boltiere|45.601|9.578|IT|Lombardy|75
 Bolgare|45.632|9.814|IT|Lombardy|75
 Bolków|50.922|16.101|PL|Lower Silesia|74
 Boll|48.644|9.613|DE|Baden-Wurttemberg|74
+Bolmen|56.917|13.667|SE||74|f
+Bolsover Castle|53.231|-1.296|GB|England|74|f
 Bolong|7.098|122.239|PH|Zamboanga Peninsula|74
 Bol’shoye Boldino|55.006|45.313|RU|Nizhny Novgorod Oblast|74
 Bolivar|35.256|-88.988|US|Tennessee|74
 Bol'shiye Vyazëmy|55.621|36.976|RU|Moscow Oblast|74
 Bolo|11.540|122.757|PH|Western Visayas|73
+Bollman Suspension and Trussed Bridge|39.135|-76.825|US|Maryland|73|f
+Bolton Castle|54.322|-1.950|GB|England|73|f
 Boloteşti|45.833|27.067|RO|Vrancea|73
 Boliqueime|37.137|-8.158|PT|Faro|73
 Bolton|42.433|-71.608|US|Massachusetts|73
@@ -101,6 +106,8 @@ Boljoon|9.628|123.478|PH|Central Visayas|70
 Bolboşi|44.750|23.217|RO|Gorj County|70
 Bol'shoe Isakovo|54.718|20.603|RU|Kaliningrad Oblast|70
 Bolheim|48.631|10.150|DE|Baden-Wurttemberg|70
+Bolingbrook's Clow International Airport|41.696|-88.129|US|Illinois|70|f
+Bolshiye Peshnye Islands|46.803|51.745|KZ|Atyrau Oblisi|70|f
 Boldog|47.603|19.688|HU|Heves County|70
 Bolitoc|15.739|119.877|PH|Central Luzon|70
 Bölme|38.621|29.374|TR|Uşak|70
@@ -128,6 +135,7 @@ Bolivar Peninsula|29.478|-94.580|US|Texas|68
 Bolanden|49.639|8.012|DE|Rheinland-Pfalz|68
 Boleráz|48.468|17.495|SK|Trnava Region|68
 Bolaoit|15.932|120.431|PH|Ilocos|68
+Bolzano Dolomiti Airport|46.460|11.326|IT|Trentino-Alto Adige|67|f
 Bollschweil|47.921|7.790|DE|Baden-Wurttemberg|67
 Bol’shoy Karay|51.605|42.690|RU|Saratov Oblast|67
 Bolila|6.372|125.571|PH|Davao Region|67
@@ -137,6 +145,7 @@ Boldeşti|44.866|26.549|RO|Prahova|66
 Bologne|48.200|5.142|FR|Grand Est|66
 Bollstabruk|62.998|17.673|SE|Västernorrland|65
 Bolè|9.667|-4.247|CI|Zanzan District|65
+Bolærne|59.209|10.555|NO|Vestfold|65|f
 Bolęcin|50.117|19.481|PL|Lesser Poland|65
 Bolatlı|36.948|34.899|TR|Mersin|65
 Boliden|64.867|20.383|SE|Västerbotten|64
@@ -148,6 +157,8 @@ Bolešov|48.987|18.155|SK|Trenčín Region|64
 Bollendorf|49.853|6.358|DE|Rheinland-Pfalz|64
 Bolechowice|50.148|19.793|PL|Lesser Poland|64
 Bolesławiec|51.199|18.191|PL|Łódź Voivodeship|64
+Bolte Bridge|-37.821|144.932|AU|Victoria|63|f
+Bolton Mountain|44.449|-72.840|US|Vermont|63|f
 Bolţāq|33.155|49.996|IR|Isfahan|63
 Bollingstedt|54.592|9.417|DE|Schleswig-Holstein|63
 Boltigen|46.628|7.391|CH|Bern|63
@@ -164,6 +175,14 @@ Bol’shoy Khomutets|52.783|39.872|RU|Lipetsk Oblast|62
 Boley|35.493|-96.484|US|Oklahoma|61
 Bolivar|43.071|-75.889|US|New York|61
 Boling|29.264|-95.944|US|Texas|61
+Bol Berim|13.444|14.739|TD|Lac|61|f
+Bolata|43.383|28.517|BG|Dobrich|61|f
+Bold Peak|61.344|-148.924|US|Alaska|61|f
+Bolinas Bay|37.893|-122.666|US|California|61|f
+Bølingen Islands|-69.532|75.696|AQ||61|f
+Bolmsö|56.933|13.733|SE|Kronoberg|61|f
+Bölscheøya|77.220|22.019|SJ||61|f
+Bolshaya Kokshaga Nature Reserve|56.690|47.305|RU|Mariy-El Republic|61|f
 Bol’shaya Tura|51.616|114.112|RU|Zabaykalskiy (Transbaikal) Kray|61
 Bolhan|48.144|28.731|UA|Vinnytsia|61
 Bolovăniș|46.616|26.053|RO|Bacău County|61
@@ -173,20 +192,113 @@ Bolsterlang|47.467|10.233|DE|Bavaria|60
 Bolătău|46.633|26.401|RO|Bacău County|60
 Bolivar|42.067|-78.168|US|New York|60
 Bölcek|39.183|27.425|TR|İzmir Province|60
+Bolivar|40.650|-81.452|US|Ohio|60
+Bolacalıkoyuncu|36.339|33.905|TR|Mersin|60
+Bol’shoye Stiklevo|53.869|27.701|BY|Minsk|60
+Bolland|50.662|5.760|BE|Wallonia|60
+Bolungarvík|66.159|-23.249|IS|Westfjords|60
+Bolovani|44.725|25.636|RO|Dâmbovița County|59
 Bolimów|52.077|20.164|PL|Łódź Voivodeship|59
+Bol’shaya Ryazan’|53.258|49.303|RU|Samara Oblast|59
+Bolaños|21.832|-103.781|MX|Jalisco|59
 Bolzano Novarese|45.763|8.442|IT|Piedmont|59
+Bol’shaya Izhmora|53.555|42.833|RU|Penza Oblast|59
 Boltaña|42.446|0.068|ES|Aragon|59
+Bolatlar|36.765|38.952|TR|Şanlıurfa|59
+Boleradice|48.967|16.814|CZ|South Moravian|59
+Bolharka|46.691|30.461|UA|Odesa|59
+Bol’sheorlovskiy|56.423|44.603|RU|Nizhny Novgorod Oblast|58
+Bolsa de Tosalibampo Dos|26.103|-109.190|MX|Sinaloa|58
+Bolinne|50.601|4.929|BE|Wallonia|58
+Bolduț|46.622|23.952|RO|Cluj County|58
+Bolama Island|11.567|-15.550|GW||58|f
+Bolshevik|78.609|102.767|RU|Krasnoyarsk Krai|58|f
+Bolton Field|39.906|-83.136|US|Ohio|58|f
+Boltz Lake|38.703|-84.612|US|Kentucky|58|f
+Bolquère|42.503|2.076|FR|Occitanie|58
+Boláti|37.956|22.791|GR|Peloponnese|58
+Bolinzi|33.764|117.483|CN|Anhui|58
+Bolhó|46.039|17.297|HU|Somogy County|57
+Bolūrān|33.557|47.300|IR|Lorestan Province|57
+Bolanha|15.097|-23.661|CV|Santa Catarina|57
 Bolano|44.188|9.895|IT|Liguria|57
+Bol’shaya Brembola|56.747|38.916|RU|Yaroslavl Oblast|57
 Bölükyazı|38.327|42.174|TR|Bitlis|57
+Bolo|7.982|-6.709|CI|Woroba|57
+Bolağaç|37.504|43.053|TR|Şırnak|57
+Bolton|34.321|-78.402|US|North Carolina|57
+Bol’shoy Oyësh|55.286|82.707|RU|Novosibirsk Oblast|57
+Bolešiny|49.410|13.362|CZ|Plzeň Region|56
+Boldekow|53.725|13.594|DE|Mecklenburg-Vorpommern|56
+Bolemīr|32.883|50.440|IR|Isfahan|56
+Boleslavchyk|48.086|30.787|UA|Mykolaiv|56
 Bolvașnița|45.346|22.310|RO|Caraș-Severin County|56
+Bol’shoye Goloustnoye|52.042|105.410|RU|Irkutsk Oblast|56
+Bolzone|45.334|9.662|IT|Lombardy|55
+Bolney|50.995|-0.203|GB|England|55
+Bolwarra|-38.283|141.617|AU|Victoria|55
 Bolívar|-6.977|-79.178|PE|Cajamarca Department|55
+Bolívar|25.776|-103.013|MX|Coahuila|55
+Bolt|37.762|-81.412|US|West Virginia|55
+Bolton|32.349|-90.460|US|Mississippi|55
+Bolehošť|50.214|16.077|CZ|Hradec Králové Region|55
+Bolesław|50.273|20.901|PL|Lesser Poland|55
+Boldog|48.238|17.429|SK|Bratislava Region|55
+Bolzano Bellunese|46.163|12.187|IT|Veneto|55
+Bolbocești|45.006|23.595|RO|Gorj County|54
+Bolaang Mongondow Airport|0.889|124.033|ID|North Sulawesi|54|f
+Bolam Glacier|41.415|-122.200|US|California|54|f
+Bolga|66.802|13.206|NO|Nordland|54|f
+Bolingbroke Castle|53.164|0.017|GB|England|54|f
+Bolling Island|37.647|-78.043|US|Virginia|54|f
+Bollons Island|-49.645|178.819|NZ||54|f
+Bolon Island Tideways State Scenic Corridor|43.712|-124.102|US|Oregon|54|f
+Bolsa Chica State Beach|33.695|-118.048|US|California|54|f
+Bolsón de Mapimí|27.500|-103.500|MX||54|f
+Bolten Peak|-71.817|-1.700|AQ||54|f
+Bolton Abbey|53.981|-1.892|GB|England|54|f
+Bolton Glacier|-65.037|-62.916|AQ||54|f
+Bolzer See|53.679|11.994|DE|Mecklenburg-Vorpommern|54|f
+Bolleville|49.600|0.565|FR|Normandy|54
+Bolton Landing|43.557|-73.655|US|New York|54
+Bolsa de Tosalibampo Uno|26.111|-109.173|MX|Sinaloa|54
+Bölücek|41.240|31.451|TR|Zonguldak Province|54
 Bolognesi|-8.351|-78.050|PE|Ancash|53
 Bolaños de Campos|42.007|-5.284|ES|Castille and León|52
 Bolulla|38.675|-0.112|ES|Valencia|51
 Bolbeno|46.033|10.738|IT|Trentino-Alto Adige|50
+Bollberg|50.883|11.800|DE|Thuringia|50
+Bölsberg|50.667|7.917|DE|Rheinland-Pfalz|50
+Böllenborn|49.100|7.933|DE|Rheinland-Pfalz|49
+Bol Glacier|-77.867|162.567|AQ||49|f
+Bolagen|62.619|11.959|NO|Trøndelag|49|f
+Bolen|57.883|15.867|SE|Östergötland|49|f
+Bolívar Airport|-36.182|-61.076|AR|Buenos Aires|49|f
+Bolsterlanger Horn|47.459|10.209|DE|Bavaria|49|f
 Bolognano|42.218|13.960|IT|Abruzzo|47
+Bollenbach|49.833|7.350|DE|Rheinland-Pfalz|44
 Bolivia|34.068|-78.148|US|North Carolina|44
 Bolognola|42.993|13.227|IT|The Marches|43
+Bold Park|-31.945|115.773|AU|Western Australia|40|f
+Bolghar (archaeological complex)|54.985|49.053|RU|Tatarstan Republic|40|f
+Bolinas Lagoon|37.918|-122.681|US|California|40|f
+Bolivar Municipal Airport|37.598|-93.349|US|Missouri|40|f
+Boll Weevil Monument|31.314|-85.854|US|Alabama|40|f
+Bolling Hall|53.779|-1.739|GB|England|40|f
+Bolsa Chica Ecological Reserve|33.692|-118.040|US|California|40|f
+Bolshakovo transmitter, longwave mast|54.912|21.717|RU|Kaliningrad Oblast|40|f
+Bolt Head|50.210|-3.788|GB|England|40|f
+Bolton Hospital|55.417|-1.834|GB|England|40|f
+Bolton Lake|45.700|-67.585|CA|New Brunswick|40|f
+Bolton Lake|47.853|-81.029|CA|Ontario|40|f
+Bolton Lake|48.401|-80.263|CA|Ontario|40|f
+Bolton Lake|49.347|-92.830|CA|Ontario|40|f
+Bolton Lake|54.267|-95.784|CA|Manitoba|40|f
+Bolton Lake|57.567|-108.684|CA|Saskatchewan|40|f
+Bolton Lake|49.780|-126.422|CA|British Columbia|40|f
+Bolton Lakes|44.817|-76.766|CA|Ontario|40|f
+Bolton Point|35.062|-85.792|US|Tennessee|40|f
+Böllen|47.800|7.841|DE|Baden-Wurttemberg|39
 Bol’shaya Atnya|56.251|49.452|RU|Tatarstan Republic|0
 Bol’shaya Chernigovka|52.093|50.868|RU|Samara Oblast|0
 Bol’shaya Glushitsa|52.393|50.471|RU|Samara Oblast|0
@@ -203,8 +315,12 @@ Bol’shoye Sorokino|56.636|69.818|RU|Tyumen Oblast|0
 Bola|-8.742|122.296|ID|East Nusa Tenggara|0
 Bolaang|0.941|124.156|ID|North Sulawesi|0
 Bolaman|41.034|37.594|TR|Ordu|0
+Bolang|-6.766|105.993|ID|Banten|0
 Bolangitang|0.907|123.307|ID|North Sulawesi|0
+Boleng|-8.383|123.295|ID|East Nusa Tenggara|0
+Bolengpulau|-8.438|119.994|ID|East Nusa Tenggara|0
 Bolgatovo|56.803|28.949|RU|Pskov Oblast|0
+Bolian|19.869|109.643|CN|Hainan|0
 Bolinao|16.388|119.892|PH|Ilocos|0
 Boliney|17.408|120.781|PH|Cordillera|0
 Bolívar|1.840|-76.969|CO|Cauca Department|0
@@ -214,9 +330,15 @@ Bolívar|-7.154|-77.703|PE|La Libertad|0
 Bolivia|22.084|-78.341|CU|Ciego de Ávila Province|0
 Boljevac|43.830|21.953|RS|Central Serbia|0
 Bollmora|59.242|18.228|SE|Stockholm|0
+Bolo|-6.962|112.523|ID|East Java|0
 Bolognesi|-10.064|-74.005|PE|Ucayali|0
+Bolok|-10.225|123.519|ID|East Nusa Tenggara|0
 Bolongongo|-8.464|15.248|AO|Cuanza Norte|0
 Bolonguera|-13.545|13.577|AO|Benguela|0
+Bolorejo|-8.053|111.862|ID|East Java|0
 Bolorunduro|7.166|4.964|NG|Ondo State|0
 Bolou|-10.498|121.973|ID|East Nusa Tenggara|0
+Bolubewa|-9.533|119.714|ID|East Nusa Tenggara|0
+Boluo|24.454|113.013|CN|Guangdong|0
+Boluopu|40.529|122.459|CN|Liaoning|0
 Bolvir|42.418|1.880|ES|Catalonia|0

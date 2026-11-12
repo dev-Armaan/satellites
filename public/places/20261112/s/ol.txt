@@ -1,5 +1,5 @@
-Olt|44.333|24.500|RO||114|r
-Olomouc Region|49.750|17.167|CZ||114|r
+Olomouc Region|49.750|17.167|CZ||115|r
+Olt|44.333|24.500|RO||115|r
 Olinda|-8.009|-34.855|BR|Pernambuco|111
 Olancho Department|14.833|-86.000|HN||111|r
 Oldham|53.541|-2.118|GB|England|107
@@ -15,10 +15,12 @@ Olomouc|49.596|17.252|CZ|Olomouc Region|100
 Olupona|7.600|4.193|NG|Osun State|100
 Olavarría|-36.894|-60.323|AR|Buenos Aires|99
 Oleksandriya|48.675|33.118|UA|Kirovohrad|98
+Olympic Stadium|51.538|-0.016|GB|England|96|f
 Olbia|40.923|9.498|IT|Sardinia|96
 Oltinko‘l|43.069|58.904|UZ|Karakalpakstan|95
 Olympia|47.045|-122.902|US|Washington|95
 Olímpia|-20.737|-48.915|BR|São Paulo|95
+Old Town Square|50.088|14.421|CZ|Prague|94|f
 Ol Kalou|-0.271|36.379|KE|Nyandarua County|94
 Olavanna|11.218|75.832|IN|Kerala|93
 Olival|38.771|-9.250|PT|Lisbon|93
@@ -33,6 +35,7 @@ Oleksandrivska Slobidka|50.418|30.478|UA|Kyiv City|91
 Olney|39.153|-77.067|US|Maryland|91
 Olivais|38.770|-9.107|PT|Lisbon|91
 Olot|42.181|2.490|ES|Catalonia|91
+Olympic Museum|46.508|6.634|CH|Vaud|90|f
 Oława|50.947|17.293|PL|Lower Silesia|90
 Oldenzaal|52.313|6.929|NL|Overijssel|90
 Ołbin|51.121|17.053|PL|Lower Silesia|90
@@ -41,6 +44,7 @@ Olhão|37.029|-7.841|PT|Faro|89
 Oliva|38.920|-0.119|ES|Valencia|89
 Ölgii|48.968|89.963|MN|Bayan-Ölgii Province|89
 Olindina|-11.367|-38.333|BR|Bahia|89
+Olbia Costa Smeralda Airport|40.899|9.518|IT|Sardinia|89|f
 Old Harbour|17.941|-77.109|JM|Saint Catherine Parish|88
 Olpe|51.029|7.851|DE|North Rhine-Westphalia|88
 Oltiariq|40.392|71.474|UZ|Fergana|88
@@ -51,9 +55,12 @@ Old Bridge|40.415|-74.365|US|New Jersey|88
 Old Shinyanga|-3.550|33.400|TZ|Shinyanga|88
 Olenegorsk|68.143|33.253|RU|Murmansk|87
 Oltu|40.539|41.987|TR|Erzurum|87
+Öland|56.751|16.633|SE|Kalmar|87|f
+Olympic Stadium Montreal|45.558|-73.552|CA|Quebec|87|f
 Olesa de Montserrat|41.544|1.894|ES|Catalonia|87
 Olteniţa|44.083|26.633|RO|Călărași County|87
 Olivet|47.862|1.899|FR|Centre-Val de Loire|87
+Olympic Stadium|52.343|4.854|NL|North Holland|87|f
 Oliveira dos Brejinhos|-12.317|-42.896|BR|Bahia|87
 Old Trafford|53.458|-2.288|GB|England|87
 Olho d'Água das Flores|-9.536|-37.294|BR|Alagoas|86
@@ -93,6 +100,7 @@ Oldbury|52.500|-2.017|GB|England|81
 Olgiate Comasco|45.784|8.968|IT|Lombardy|81
 Old Saybrook|41.292|-72.376|US|Connecticut|81
 Oloitokitok|-2.927|37.510|KE|Kajiado County|80
+Olympic Mountains|47.872|-123.668|US|Washington|80|f
 Olesno|50.877|18.421|PL|Opole Voivodeship|80
 Olevsk|51.225|27.652|UA|Zhytomyr Oblast|80
 Olonets|60.981|32.973|RU|Karelia|80
@@ -114,6 +122,7 @@ Olho d'Água do Casado|-9.502|-37.834|BR|Alagoas|79
 Olamzé|2.217|11.083|CM|South|79
 Olvera|36.934|-5.267|ES|Andalusia|79
 Oleksandrivka|48.968|32.240|UA|Kirovohrad|79
+Old Cairo Opera House|30.051|31.248|EG|Cairo|78|f
 Olovyannaya|50.946|115.576|RU|Zabaykalskiy (Transbaikal) Kray|78
 Old Forge|41.371|-75.735|US|Pennsylvania|78
 Oleksiyevo-Druzhkivka|48.579|37.609|UA|Donetsk|78
@@ -121,6 +130,8 @@ Old Harbour Bay|17.909|-77.097|JM|Saint Catherine Parish|78
 Olivette|38.665|-90.376|US|Missouri|78
 Olombo|-1.265|15.900|CG|Plateaux|78
 Olingan|8.538|123.322|PH|Zamboanga Peninsula|78
+Olenyok Airport|68.516|112.479|RU|Sakha|78|f
+Olympia Regional Airport|46.971|-122.902|US|Washington|78|f
 Old Town|44.934|-68.645|US|Maine|78
 Ol’gino|59.837|29.923|RU|Leningradskaya Oblast'|78
 Oleksandrivka|46.329|30.636|UA|Odesa|78
@@ -129,6 +140,9 @@ Olofström|56.277|14.534|SE|Blekinge|78
 Oliena|40.276|9.402|IT|Sardinia|77
 Old Windsor|51.458|-0.587|GB|England|77
 Olutanga|7.311|122.846|PH|Zamboanga Peninsula|77
+Old Castle|48.777|9.179|DE|Baden-Wurttemberg|77|f
+Olduvai Gorge|-2.967|35.367|TZ|Arusha|77|f
+Olyokminsk Airport|60.399|120.464|RU|Sakha|77|f
 Old Jefferson|30.383|-91.017|US|Louisiana|77
 Olginate|45.791|9.419|IT|Lombardy|77
 Old Harlow|51.784|0.134|GB|England|77
@@ -137,6 +151,8 @@ Ollon|46.295|6.993|CH|Vaud|76
 Old Greenwich|41.023|-73.565|US|Connecticut|76
 Olney|52.153|-0.702|GB|England|76
 Oleksandrivsk|48.586|39.189|UA|Luhansk|76
+Old Crow Airport|67.571|-139.839|CA|Yukon|76|f
+Olympic Dam Airport|-30.485|136.877|AU|South Australia|76|f
 Olevano sul Tusciano|40.657|15.023|IT|Campania|76
 Ola|59.580|151.299|RU|Magadan Oblast|76
 Olocuilta|13.570|-89.117|SV|La Paz Department|76
@@ -163,6 +179,7 @@ Old Fig Garden|36.799|-119.805|US|California|75
 Ølstykke|55.796|12.155|DK|Capital Region|75
 Olías del Rey|39.944|-3.987|ES|Castille-La Mancha|75
 Ol’ginskaya|47.187|39.952|RU|Rostov|74
+Old Harbor Airport|57.219|-153.268|US|Alaska|74|f
 Oleksandrivka|47.690|31.278|UA|Mykolaiv|74
 Oleszyce|50.167|23.035|PL|Subcarpathia|74
 Olyphant|41.468|-75.603|US|Pennsylvania|74
@@ -178,6 +195,7 @@ Olszyna|51.067|15.372|PL|Lower Silesia|74
 Oleksandriyske|48.604|32.989|UA|Kirovohrad|73
 Oliveira do Hospital|40.362|-7.860|PT|Coimbra|73
 Oleshnyk|48.165|22.962|UA|Zakarpattia|73
+Olympia Tower|48.175|11.554|DE|Bavaria|73|f
 Old Westbury|40.789|-73.600|US|New York|73
 Olenivka|47.827|37.660|UA|Donetsk|73
 Ol’ginskaya|45.946|38.549|RU|Krasnodar Krai|73
@@ -197,6 +215,8 @@ Olmen|51.142|5.150|BE|Flanders|72
 Olofstorp|57.804|12.171|SE|Västra Götaland|71
 Ølgod|55.807|8.629|DK|South Denmark|71
 Oleksandrivka|46.611|30.864|UA|Odesa|71
+Olana State Historic Site|42.216|-73.827|US|New York|71|f
+Old Black|35.715|-83.255|US|North Carolina|71|f
 Olmedo|40.652|8.380|IT|Sardinia|71
 Ölbronn-Dürrn|48.967|8.750|DE|Baden-Wurttemberg|71
 Olshanske|47.172|31.765|UA|Mykolaiv|71
@@ -215,6 +235,9 @@ Oldmeldrum|57.335|-2.320|GB|Scotland|70
 Olen|51.144|4.860|BE|Flanders|70
 Olemps|44.346|2.551|FR|Occitanie|70
 Olney|33.371|-98.753|US|Texas|70
+Olango Island|10.266|124.057|PH|Central Visayas|70|f
+Old Buckenham Airport|52.497|1.051|GB|England|70|f
+Olmué Airport|-32.997|-71.171|CL|Valparaiso|70|f
 Olym|51.682|38.177|RU|Kursk Oblast|70
 Oligbé|5.565|-5.247|CI|Goh-Djiboua|70
 Olyka|50.723|25.812|UA|Volyn|70
@@ -227,6 +250,14 @@ Oldendorf|53.591|9.253|DE|Lower Saxony|69
 Olenguruone|-0.586|35.688|KE|Nakuru County|69
 Olofstorp|58.250|14.000|SE|Västra Götaland|69
 Ölüdeniz|36.567|29.145|TR|Muğla|69
+Olancha Peak|36.265|-118.117|US|California|69|f
+Old Bridge Airport|40.329|-74.348|US|New Jersey|69|f
+Old Forge Airport|43.726|-74.975|US|New York|69|f
+Old North Bridge|42.469|-71.351|US|Massachusetts|69|f
+Old Trafford Cricket Ground|53.456|-2.287|GB|England|69|f
+Oléron|45.933|-1.300|FR|New Aquitaine|69|f
+Olhuvelifushi|5.277|73.606|MV|Faadhippolhu Atoll|69|f
+Olígyrtos Óros|37.803|22.391|GR|Peloponnese|69|f
 Olivar|-34.210|-70.819|CL|O'Higgins Region|68
 Olho d'Água do Piauí|-5.841|-42.575|BR|Piauí|68
 Olímpio Noronha|-22.068|-45.264|BR|Minas Gerais|68
@@ -246,6 +277,12 @@ Oleshyn|49.471|26.938|UA|Khmelnytskyi|67
 Oleksandrivka|48.134|23.509|UA|Zakarpattia|67
 Olenyok|68.505|112.448|RU|Sakha|67
 Olivella|41.317|1.817|ES|Catalonia|67
+Old Fort Jackson|32.082|-81.036|US|Georgia|67|f
+Old Panama|9.008|-79.490|PA|Panamá|67|f
+Olorgasailie National Monument|-1.578|36.446|KE|Kajiado County|67|f
+Ölrain|47.607|11.242|DE|Bavaria|67|f
+Olson Island|-77.233|-153.283|AQ||67|f
+Ólympos|38.905|24.519|GR|Central Greece|67|f
 Old Brookville|40.832|-73.605|US|New York|67
 Oltrona di San Mamette|45.756|8.977|IT|Lombardy|67
 Oliveri|38.125|15.061|IT|Sicily|67
@@ -265,6 +302,16 @@ Olari|46.383|21.550|RO|Arad County|66
 Olintla|20.102|-97.684|MX|Puebla|66
 Oliva de Mérida|38.791|-6.124|ES|Extremadura|66
 Olšany u Prostějova|49.536|17.165|CZ|Olomouc Region|65
+Old Mission Dam|32.840|-117.043|US|California|65|f
+Old Speck Mountain|44.571|-70.954|US|Maine|65|f
+Oldoinyo Lesatima|-0.320|36.605|KE|Nyandarua County|65|f
+Olenëkskiy Zaliv|73.320|121.319|RU|Sakha|65|f
+Ölgii Airport|48.994|89.922|MN|Bayan-Ölgii Province|65|f
+Olimarao|7.705|145.881|FM|Yap State|65|f
+Olmmáijiekŋa|67.241|16.067|NO|Nordland|65|f
+Olney-Noble Airport|38.719|-88.174|US|Illinois|65|f
+Oloku‘i|21.132|-156.850|US|Hawaii|65|f
+Olyutorskiy Zaliv|60.246|168.507|RU|Kamchatka|65|f
 Oleksandrivka|46.443|29.455|UA|Odesa|65
 Oleggio Castello|45.749|8.527|IT|Piedmont|65
 Olintepec|18.741|-98.987|MX|Morelos|65
@@ -294,6 +341,10 @@ Olive Hill|38.300|-83.174|US|Kentucky|64
 Olūsjerd|34.958|50.344|IR|Markazi|64
 Ollignies|50.688|3.862|BE|Wallonia|64
 Oldersum|53.328|7.342|DE|Lower Saxony|64
+Olcott-Newfane Airport|43.322|-78.723|US|New York|63|f
+Old Summer Palace|40.008|116.303|CN|Beijing|63|f
+Oloyskiy Khrebet|66.024|163.235|RU|Chukotka|63|f
+Olperer|47.053|11.659|AT|Tyrol|63|f
 Olbendorf|47.183|16.200|AT|Burgenland|63
 Olenevka|45.383|32.533|UA|Crimea|63
 Oldřišov|49.991|17.961|CZ|Moravian-Silesian Region|63
@@ -332,6 +383,21 @@ Olmeto|41.717|8.918|FR|Corsica|61
 Olho Marinho|39.328|-9.232|PT|Leiria|61
 Oleksiyvka|48.410|27.263|UA|Chernivtsi|61
 Olocau|39.700|-0.533|ES|Valencia|61
+Ol Doinyo Eburru|-0.648|36.235|KE|Nakuru County|61|f
+Olallie Butte|44.821|-121.764|US|Oregon|61|f
+Olanchito El Arrayán Airport|15.508|-86.574|HN|Yoro Department|61|f
+Olav Peak|-54.409|3.353|BV||61|f
+Old Caves Crater|35.280|-111.527|US|Arizona|61|f
+Old Hyndman Peak|43.741|-114.117|US|Idaho|61|f
+Old Point Comfort|37.000|-76.312|US|Virginia|61|f
+Old Rhodes Key|25.362|-80.242|US|Florida|61|f
+Old Snowy Mountain|46.512|-121.454|US|Washington|61|f
+Oldevatnet|61.733|6.794|NO|Vestland|61|f
+Olive Branch Airport|34.979|-89.789|US|Mississippi|61|f
+Öljaren|59.133|16.033|SE|Södermanland|61|f
+Olmsted Island|38.999|-77.251|US|Maryland|61|f
+Olomana|21.361|-157.751|US|Hawaii|61|f
+Olympus Dam|40.377|-105.488|US|Colorado|61|f
 Olszanica|51.207|15.800|PL|Lower Silesia|61
 Ólynthos|40.291|23.342|GR|Central Macedonia|61
 Olšany|49.965|16.859|CZ|Olomouc Region|61
@@ -356,24 +422,173 @@ Oltedal|58.829|6.037|NO|Rogaland|60
 Ólafsvík|64.894|-23.709|IS|West|60
 Olari|44.308|24.209|RO|Olt|60
 Oleșești|45.848|27.101|RO|Vrancea|60
+Oliveto|43.124|12.369|IT|Umbria|60
+Olsobip|-5.387|141.517|PG|Western Province|60
+Olotla|20.979|-98.568|MX|Hidalgo|60
+Olomatlán|17.946|-98.269|MX|Puebla|60
+Old Sarum|51.102|-1.785|GB|England|60
+Olliergues|45.675|3.637|FR|Auvergne-Rhône-Alpes|60
+Oldeholtpade|52.893|6.048|NL|Friesland|60
+Oleksiivka|47.990|28.925|UA|Odesa|60
+Oleksandrivka|46.295|33.093|UA|Kherson|60
+Olarii Vechi|44.792|26.203|RO|Prahova|59
 Ollersdorf im Burgenland|47.183|16.167|AT|Burgenland|59
 Olaberria|43.027|-2.203|ES|Basque Country|59
+Olszyny|49.892|20.818|PL|Lesser Poland|59
 Olmeneta|45.235|10.023|IT|Lombardy|59
+Olmos|19.879|-98.927|MX|Hidalgo|59
+Old Field|40.960|-73.130|US|New York|59
+Old Fort|35.629|-82.181|US|North Carolina|59
+Oleksandrivske|47.207|38.112|UA|Donetsk|59
+Olteanca|44.811|24.110|RO|Vâlcea County|59
 Olzai|40.182|9.147|IT|Sardinia|59
+Olomučany|49.331|16.672|CZ|South Moravian|59
 Ølen|59.604|5.808|NO|Rogaland|59
+Olari|44.808|23.332|RO|Gorj County|59
+Olloy-sur-Viroin|50.073|4.608|BE|Wallonia|59
+O'Leary|46.717|-64.232|CA|Prince Edward Island|59
+Olextla de Juárez|19.213|-98.190|MX|Tlaxcala|59
+Olesk|51.111|24.190|UA|Volyn|59
+Oldekerk|53.219|6.340|NL|Groningen|59
+Oleška|49.972|14.917|CZ|Central Bohemia|58
+Oldřichov v Hájích|50.850|15.084|CZ|Liberec Region|58
+Old Newton|52.223|1.000|GB|England|58
+Olimpia|45.126|7.730|IT|Piedmont|58
+Olszewo Borki|53.068|21.536|PL|Mazovia|58
+O'Leno State Park|29.917|-82.584|US|Florida|58|f
+Olasana Island|-8.132|156.908|SB||58|f
+Olchon|53.170|107.320|RU|Irkutsk Oblast|58|f
+Old Dad Mountains|34.776|-115.832|US|California|58|f
+Old Rag Mountain|38.552|-78.314|US|Virginia|58|f
+Old Slains Castle|57.350|-1.917|GB|Scotland|58|f
+Old Woman Mountains|34.450|-115.201|US|California|58|f
+Olderbark Mountain|42.114|-74.191|US|New York|58|f
+Ole Hansenkammen|79.167|12.000|SJ|Svalbard|58|f
+Oliktok LRRS Airport|70.499|-149.879|US|Alaska|58|f
+Olive Hill Airport|38.250|-83.144|US|Kentucky|58|f
+Olivenhain Dam|33.070|-117.138|US|California|58|f
+Olmos Dam|29.473|-98.475|US|Texas|58|f
+Olompali State Historic Park|38.152|-122.575|US|California|58|f
+Oluf Rocks|-63.700|-60.166|AQ||58|f
+Olympic Velodrome|41.827|12.457|IT|Lazio|58|f
+Oltingue|47.491|7.392|FR|Grand Est|58
+Old Washington|38.616|-83.809|US|Kentucky|58
 Olari|44.785|26.217|RO|Prahova|58
+Old Buckenham|52.481|1.041|GB|England|58
+Ölmanäs|57.362|12.088|SE|Halland|58
+Ollersdorf|48.400|16.800|AT|Lower Austria|58
+Ólafsfjörður|66.067|-18.644|IS|Northeast|58
 Olombrada|41.415|-4.161|ES|Castille and León|58
+Olteni|45.146|24.385|RO|Vâlcea County|58
+Olympian Village|38.136|-90.458|US|Missouri|58
+Old Forge|43.710|-74.974|US|New York|58
+Olszyny|50.053|19.452|PL|Lesser Poland|58
+Olteni|45.226|26.014|RO|Prahova|57
 Olevano di Lomellina|45.213|8.717|IT|Lombardy|57
+Olukbaşı|37.665|28.486|TR|Aydın|57
+Ollersbach|48.187|15.844|AT|Lower Austria|57
+Olympiáda|40.592|23.782|GR|Central Macedonia|57
+Olešnice|48.841|14.705|CZ|South Bohemian Region|57
+Olešník|49.107|14.364|CZ|South Bohemian Region|57
 Olaya|6.628|-75.813|CO|Antioquia|57
+Olefirivka|48.431|36.095|UA|Dnipropetrovsk|57
 Olcenengo|45.363|8.310|IT|Piedmont|57
+Oleksovice|48.902|16.248|CZ|South Moravian|57
+Olin|41.998|-91.142|US|Iowa|57
+Oleksandrivka|48.724|33.301|UA|Kirovohrad|57
+Oleiros|42.600|-9.000|ES|Galicia|57
+Oldřiš|49.778|16.008|CZ|Pardubice Region|57
+Oldřiš|49.727|16.194|CZ|Pardubice Region|57
+Olenivka|47.953|29.506|UA|Odesa|57
+Oljato-Monument Valley|37.031|-110.251|US|Utah|57
+Oldenburg|39.340|-85.204|US|Indiana|56
+Olteț|45.805|24.763|RO|Brașov County|56
+Olhopil|47.727|32.137|UA|Mykolaiv|56
+Ölsta|59.400|17.650|SE|Stockholm|56
+Olive Branch|37.169|-89.352|US|Illinois|56
+Olustvere|58.554|25.563|EE|Viljandimaa|56
+Olargues|43.556|2.914|FR|Occitanie|56
+Oleksandrivka|46.303|32.024|UA|Kherson|56
 Olius|42.010|1.565|ES|Catalonia|56
+Oldersbek|54.447|9.169|DE|Schleswig-Holstein|56
+Ölçek|41.126|42.856|TR|Ardahan|56
+Old Road|17.017|-61.836|AG|Saint Mary Parish|56
+Oleksandrivka|49.925|32.904|UA|Poltava|56
+Olsfors|57.691|12.698|SE|Västra Götaland|56
+Old Perlican|48.080|-53.007|CA|Newfoundland and Labrador|56
+Olteni|45.969|25.849|RO|Covasna County|56
+Olustee|34.549|-99.422|US|Oklahoma|55
+Olland|51.581|5.407|NL|North Brabant|55
+Olby|45.745|2.867|FR|Auvergne-Rhône-Alpes|55
+Olosig|47.352|22.179|RO|Bihor County|55
+Olszanka|49.556|20.542|PL|Lesser Poland|55
+Olanta|33.935|-79.933|US|South Carolina|55
+Ollé|48.389|1.297|FR|Centre-Val de Loire|55
+Oldsum|54.731|8.445|DE|Schleswig-Holstein|55
+Olukkoyağı|37.230|34.688|TR|Mersin|55
+Oleksiivka|51.646|24.972|UA|Volyn|55
+Olešná|49.446|15.264|CZ|Vysocina|55
+Oleksiivka|46.066|33.447|UA|Kherson|55
+Olza-Fogarole|45.106|9.963|IT|Emilia-Romagna|55
+Ölmbrotorp|59.392|15.242|SE|Örebro|55
+Olbramice|49.790|18.089|CZ|Moravian-Silesian Region|55
+Olpe|38.263|-96.167|US|Kansas|55
+Olszanka|51.032|23.020|PL|Lublin|55
+Olteanu|44.886|22.920|RO|Gorj County|55
+Olzheim|50.272|6.455|DE|Rheinland-Pfalz|55
 Olanu|44.867|24.300|RO|Vâlcea County|54
+Ołtarzew|52.212|20.759|PL|Mazovia|54
+Oleksiyivka|47.614|30.569|UA|Odesa|54
+Olenivka|49.242|33.994|UA|Poltava|54
+Olešná|50.128|13.696|CZ|Central Bohemia|54
+Ólafsfjörður Airport|66.083|-18.667|IS|Northeast|54|f
+Olallie Lake|46.289|-121.617|US|Washington|54|f
+Olavarria Airport|-36.890|-60.217|AR|Buenos Aires|54|f
+Old Alton Bridge|33.129|-97.104|US|Texas|54|f
+Old Bridge of Mostar|43.337|17.815|BA||54|f
+Old Chiang Rai Airport|19.885|99.827|TH|Chiang Rai|54|f
+Old Easley Covered Bridge|33.971|-86.518|US|Alabama|54|f
+Old Gaol Museum|43.144|-70.651|US|Maine|54|f
+Old Harbor|42.324|-71.034|US|Massachusetts|54|f
+Old Head of Kinsale|51.604|-8.535|IE|Munster|54|f
+Old Kona Airport State Recreation Area|19.642|-156.004|US|Hawaii|54|f
+Old Lighthouse|50.914|0.970|GB|England|54|f
+Old Mission State Park|47.549|-116.361|US|Idaho|54|f
+Old Nicolás Avellaneda Transporter Bridge|-34.638|-58.356|AR|Buenos Aires F.D.|54|f
+Old Shorter Hill|34.251|-85.169|US|Georgia|54|f
+Old Town / Dewitt Field|44.953|-68.674|US|Maine|54|f
+Old Treasury Building|-37.813|144.974|AU|Victoria|54|f
+Old University of Alabama Observatory|33.211|-87.550|US|Alabama|54|f
+Oldoinyo Orok|-2.495|36.751|KE|Kisumu County|54|f
+Oleta River State Park|25.920|-80.140|US|Florida|54|f
+Oličko Jezero|44.239|17.073|BA|Srpska|54|f
+Olinger Airpark|45.553|-123.019|US|Oregon|54|f
+Oliver Island|-14.093|125.741|AU|Western Australia|54|f
+Oliver's Island|51.485|-0.281|GB|England|54|f
+Olivine Point|-60.666|-45.483|AQ||54|f
+Olkusz Ghetto|50.283|19.567|PL|Lesser Poland|54|f
+Olševa|46.433|14.683|SI|Municipality of Solčava|54|f
+Olsokbreen|76.712|16.467|SJ|Svalbard|54|f
+Olstad Glacier|-68.833|-90.683|AQ||54|f
+Oltedalsvatnet|58.815|6.013|NO|Rogaland|54|f
+Olustee Battlefield Historic State Park|30.214|-82.388|US|Florida|54|f
+Olympic Stadium|60.187|24.927|FI|Uusimaa|54|f
+Olympos|36.405|30.474|TR|Antalya|54|f
+Olbramkostel|48.922|15.950|CZ|South Moravian|54
+Öllingen|48.529|10.148|DE|Baden-Wurttemberg|54
+Olteni|44.848|25.398|RO|Dâmbovița County|54
 Olivadi|38.726|16.424|IT|Calabria|54
 Olivares de Júcar|39.761|-2.356|ES|Castille-La Mancha|54
+Olgina|59.395|28.125|EE|Ida-Virumaa|54
+Oleksandrivka|50.246|32.386|UA|Poltava|54
 Oltre Il Colle|45.889|9.769|IT|Lombardy|54
+Olingen|49.680|6.314|LU|Grevenmacher|54
+Olwisheim|48.697|7.675|FR|Grand Est|54
 Olto|-6.103|-77.959|PE|Amazonas|54
+Ollendorf|51.033|11.183|DE|Thuringia|54
 Oliete|40.998|-0.674|ES|Aragon|54
 Oliveto Lucano|40.536|16.185|IT|Basilicate|53
+Olderup|54.539|9.110|DE|Schleswig-Holstein|53
 Olszanka|50.795|17.479|PL|Opole Voivodeship|53
 Olszówka|52.190|18.863|PL|Greater Poland|53
 Olmo al Brembo|45.970|9.650|IT|Lombardy|52
@@ -382,8 +597,48 @@ Olmillos de Castro|41.732|-5.968|ES|Castille and León|51
 Olia Speciosa|39.278|9.525|IT|Sardinia|51
 Olivares de Duero|41.638|-4.365|ES|Castille and León|50
 Olderdalen|69.604|20.533|NO|Troms|50
+Oldenbüttel|54.169|9.453|DE|Schleswig-Holstein|50
 Ollauri|42.543|-2.834|ES|La Rioja|50
 Olmos de Ojeda|42.723|-4.424|ES|Castille and León|49
+O'Leary Peak|-84.450|-179.333|AQ||49|f
+O'Leary Ridges|-70.971|67.341|AQ||49|f
+Old Bedford River|52.333|0.017|GB|England|49|f
+Old Butt Knob|35.372|-82.843|US|North Carolina|49|f
+Old Dad Mountain|35.101|-115.862|US|California|49|f
+Old Desolate|46.929|-121.752|US|Washington|49|f
+Old Fresno Water Tower|36.739|-119.787|US|California|49|f
+Old Man of the Hills|48.053|-112.773|US|Montana|49|f
+Old Mans Head|-72.373|-60.708|AQ||49|f
+Old Melbourne Gaol|-37.808|144.965|AU|Victoria|49|f
+Old Mobile Site|30.969|-87.994|US|Alabama|49|f
+Old Monitor Road Bridge|47.501|-120.426|US|Washington|49|f
+Old Post Office Building|47.422|-120.311|US|Washington|49|f
+Old Royal Naval College|51.484|-0.006|GB|England|49|f
+Old Sarum Castle|51.093|-1.805|GB|England|49|f
+Old Ullevi|57.706|11.980|SE|Västra Götaland|49|f
+Old Wenatchee Bridge|47.415|-120.297|US|Washington|49|f
+Oldany Island|58.259|-5.262|GB|Scotland|49|f
+Olderfleet Castle|54.842|-5.801|GB|Northern Ireland|49|f
+Oldham Island|-67.534|61.681|AQ||49|f
+Oldhorn Mountain|52.683|-118.186|CA|Alberta|49|f
+Oldroyd Island|-68.538|77.902|AQ||49|f
+Olia Chain|-25.495|130.294|AU|Northern Territory|49|f
+Oliphant Islands|-60.736|-45.594|AQ||49|f
+Olive Island Conservation Park|-32.721|133.968|AU|South Australia|49|f
+Olivees Mountain|17.326|-62.756|KN||49|f
+Oliver Island|-69.324|-68.617|AQ||49|f
+Olsen Peak|-77.533|-86.483|AQ||49|f
+Olsholmen|77.238|14.269|SJ||49|f
+Olson Mountain|48.957|-113.938|US|Montana|49|f
+Olstad Peak|-54.483|-37.083|GS||49|f
+Olstappen|61.475|9.383|NO|Innlandet|49|f
+Olutanga Island|7.365|122.846|PH|Zamboanga Peninsula|49|f
+Oluwa Forest Reserve|6.828|4.693|NG|Ondo State|49|f
+Olympic National Park|47.969|-123.498|US|Washington|49|f
+Olympic stadium|52.511|13.243|DE|State of Berlin|49|f
+Olympic Stadium|46.978|-123.859|US|Washington|49|f
+olympic stadium Luschniki|55.716|37.554|RU|Moscow Oblast|49|f
+Olympus Range|-77.467|162.000|AQ||49|f
 Oliva de Plasencia|40.112|-6.086|ES|Extremadura|48
 Olba|40.133|-0.617|ES|Aragon|48
 Olivetta San Michele|43.879|7.515|IT|Liguria|48
@@ -393,13 +648,88 @@ Olóriz|42.635|-1.613|ES|Navarre|47
 Olmos de Esgueva|41.688|-4.523|ES|Castille and León|46
 Oltressenda Alta|45.915|9.945|IT|Lombardy|46
 Olmedillo de Roa|41.784|-3.934|ES|Castille and León|45
+Olmscheid|50.067|6.217|DE|Rheinland-Pfalz|44
+Ollmuth|49.667|6.717|DE|Rheinland-Pfalz|44
 Olula de Castro|37.175|-2.474|ES|Andalusia|43
 Olmedilla de Alarcón|39.617|-2.100|ES|Castille-La Mancha|43
+Oldenhütten|54.158|9.739|DE|Schleswig-Holstein|43
+Oldenborstel|54.063|9.513|DE|Schleswig-Holstein|43
 Olmedo de Camaces|40.880|-6.624|ES|Castille and León|43
 Olocau del Rey|40.638|-0.340|ES|Valencia|42
 Olvés|41.240|-1.646|ES|Aragon|42
 Olmeda de Cobeta|40.860|-2.183|ES|Castille-La Mancha|41
+Olsdorf|49.954|6.382|DE|Rheinland-Pfalz|41
 Olleros|-6.049|-77.646|PE|Amazonas|40
+O'Leary Island|55.717|-79.200|CA|Nunavut|40|f
+O'Leary Peak|35.402|-111.526|US|Arizona|40|f
+Olaf Ryes Plass|59.923|10.758|NO|Oslo|40|f
+Olcott Park|47.529|-92.550|US|Minnesota|40|f
+Old Acropolis Museum|37.971|23.728|GR|Attica|40|f
+Old Baldy Mountain|51.850|-115.085|CA|Alberta|40|f
+Old Beaupre Castle|51.439|-3.427|GB|Wales|40|f
+Old Bewick Tower|55.487|-1.896|GB|England|40|f
+Old Clump|42.311|-74.635|US|New York|40|f
+Old Conowingo Iron Bridge|39.685|-76.199|US|Maryland|40|f
+Old Courthouse|38.626|-90.189|US|Missouri|40|f
+Old Courthouse Square|32.804|-91.173|US|Louisiana|40|f
+Old Covered Bridge|42.124|-73.355|US|Massachusetts|40|f
+Old Cowtown Museum|37.694|-97.362|US|Kansas|40|f
+Old Crow Wing Historical Marker|46.272|-94.333|US|Minnesota|40|f
+Old Depot Museum|38.620|-95.270|US|Kansas|40|f
+Old Dongola|18.224|30.743|SD|Northern State|40|f
+Old Fort Harrod State Park|37.762|-84.849|US|Kentucky|40|f
+Old Fort Townsend State Park|48.073|-122.789|US|Washington|40|f
+Old Fortress|39.623|19.930|GR|Ionian Islands|40|f
+Old Fourth Ward Park|33.768|-84.365|US|Georgia|40|f
+Old Furnace State Park|41.782|-71.867|US|Connecticut|40|f
+Old Government House|-35.008|138.648|AU|South Australia|40|f
+Old Governor's Mansion Museum|30.447|-91.185|US|Louisiana|40|f
+Old Hell Lake|31.558|-81.691|US|Georgia|40|f
+Old McKenzie Fish Hatchery County Park|44.142|-122.610|US|Oregon|40|f
+Old Mill Museum|41.955|-83.661|US|Michigan|40|f
+Old Mill Road Bridge|39.602|-77.339|US|Maryland|40|f
+Old Mission Peninsula|44.886|-85.509|US|Michigan|40|f
+Old Observatory|58.379|26.720|EE|Tartu|40|f
+Old Rhinebeck Airport|41.970|-73.863|US|New York|40|f
+Old River|30.295|-87.478|US|Alabama|40|f
+Old Saybrook South Green|41.296|-72.378|US|Connecticut|40|f
+Old Schoolhouse Bridge|44.517|-72.017|US|Vermont|40|f
+Old Slave Mart|32.778|-79.928|US|South Carolina|40|f
+Old Squaw Islands|63.501|-67.931|CA|Nunavut|40|f
+Old State Capitol|39.801|-89.649|US|Illinois|40|f
+Old Stone House|38.906|-77.060|US|District of Columbia|40|f
+Old Sun Glacier|48.872|-113.779|US|Montana|40|f
+Old Temple of Athena|37.972|23.726|GR|Attica|40|f
+Old Town Bridge|42.374|-71.382|US|Massachusetts|40|f
+Old Tucson Studios|32.216|-111.131|US|Arizona|40|f
+Old Wardour Castle|51.036|-2.089|GB|England|40|f
+Old Well|35.912|-79.051|US|North Carolina|40|f
+Old Wives Lake|50.100|-106.001|CA|Saskatchewan|40|f
+Oldbury Camp|52.549|-1.539|GB|England|40|f
+Oldehove|53.203|5.790|NL|Friesland|40|f
+Oldenburg, Mount|-82.067|-87.917|AQ||40|f
+Oldest Store Museum|29.891|-81.312|US|Florida|40|f
+Oldham Pond|42.066|-70.836|US|Massachusetts|40|f
+Oldman Lake|48.512|-113.461|US|Montana|40|f
+Olds Peak|-84.667|-174.683|AQ||40|f
+Olentangy Glacier|-86.000|-127.333|AQ||40|f
+Olentangy Park|40.068|-83.035|US|Ohio|40|f
+Oliver Glacier|72.118|-76.798|CA|Nunavut|40|f
+Oliver H Kelley Homestead Historical Marker|45.258|-93.537|US|Minnesota|40|f
+Oliver Island|45.333|-60.965|CA|Nova Scotia|40|f
+Oliver Peak|-77.617|161.050|AQ||40|f
+Olliver Peak|-84.567|-173.550|AQ||40|f
+Olmenhorn|46.454|8.052|CH|Valais|40|f
+Olmstead Place State Park|46.970|-120.472|US|Washington|40|f
+Olson Glacier|-72.817|166.683|AQ||40|f
+Olson Peaks|-79.267|160.083|AQ||40|f
+Oltschiburg|46.716|8.079|CH|Bern|40|f
+Olympia|56.050|12.707|SE|Skåne|40|f
+Olympia Stadium|42.354|-83.101|US|Michigan|40|f
+Olympiapark|48.173|11.550|DE|Bavaria|40|f
+Olympic and Sports Museum Joan Antoni Samaranch|41.366|2.157|ES|Catalonia|40|f
+Olympic Avenue Bridge|42.107|-94.814|US|Iowa|40|f
+Ölsen|50.733|7.600|DE|Rheinland-Pfalz|40
 Olivola|45.037|8.368|IT|Piedmont|39
 Olmos de Peñafiel|41.571|-4.043|ES|Castille and León|38
 Olivet|43.241|-97.675|US|South Dakota|37
@@ -418,7 +748,11 @@ Olafulihaa|-10.631|123.235|ID|East Nusa Tenggara|0
 Öldziyt|44.683|109.017|MN|East Gobi Aymag|0
 Oleh|5.462|6.206|NG|Delta|0
 Olehsari|-8.216|114.319|ID|East Java|0
+Olehsari Krajan|-8.216|114.322|ID|East Java|0
+Olejet|-6.992|108.569|ID|West Java|0
 Olesha|48.834|25.136|UA|Ivano-Frankivsk|0
+Oli|-10.816|122.669|ID|East Nusa Tenggara|0
+Olin|-9.961|124.599|ID|East Nusa Tenggara|0
 Olintepeque|14.886|-91.515|GT|Quetzaltenango|0
 Oliveira de Frades|40.734|-8.175|PT|Viseu|0
 Olivos|-34.509|-58.480|AR|Buenos Aires|0
@@ -426,6 +760,7 @@ Ollachea|-13.794|-70.472|PE|Puno|0
 Olleros|-9.667|-77.466|PE|Ancash|0
 Olmedo|-3.934|-79.646|EC|Loja|0
 Olmedo|-1.395|-80.211|EC|Manabí|0
+Olo|-10.847|122.865|ID|East Nusa Tenggara|0
 Olta|-30.630|-66.267|AR|La Rioja|0
 Oltinko‘l|40.801|72.173|UZ|Andijan Region|0
 Olvan|42.067|1.900|ES|Catalonia|0

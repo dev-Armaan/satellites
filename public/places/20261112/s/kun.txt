@@ -6,6 +6,7 @@ Kuntsevo|55.742|37.402|RU|Moscow|103
 Kuningan|-6.976|108.483|ID|West Java|101
 Kuniyamuttūr|10.964|76.953|IN|Tamil Nadu|100
 Kunjah|32.530|73.975|PK|Punjab|99
+Kunlun Mountains|36.000|84.000|CN||98|f
 Kunitachi|35.683|139.438|JP|Tokyo|98
 Kundla|21.342|71.306|IN|Gujarat|98
 Kungsholmen|59.332|18.041|SE|Stockholm|97
@@ -16,6 +17,7 @@ Kunnamkulam|10.647|76.067|IN|Kerala|96
 Kunnamangalam|11.305|75.878|IN|Kerala|94
 Kundian|32.458|71.479|PK|Punjab|93
 Kunene Region|-19.417|13.750|NA||92|r
+Kunsthistorisches Museum|48.204|16.361|AT|Vienna|91|f
 Kunwi|36.235|128.573|KR|Gyeongsangbuk-do|91
 Kunigal|13.023|77.025|IN|Karnataka|91
 Kundapura|13.631|74.690|IN|Karnataka|90
@@ -37,8 +39,10 @@ Kunda dya Baze|-8.908|17.053|AO|Malanje|84
 Künzelsau|49.282|9.684|DE|Baden-Wurttemberg|84
 Kunnumma|9.357|76.413|IN|Kerala|83
 Kunjānpālaiyam|11.586|77.801|IN|Tamil Nadu|83
+Kunajiri Island|44.149|145.875|RU|Sakhalin Oblast|83|f
 Kunkuri|22.742|83.951|IN|Chhattisgarh|83
 Kunjatturu|12.747|74.888|IN|Kerala|83
+Kunming Changshui International Airport|25.104|102.944|CN|Yunnan|81|f
 Kungsängen|59.479|17.748|SE|Stockholm|80
 Kunratice|50.014|14.483|CZ|Prague|80
 Kunszentmárton|46.839|20.289|HU|Jász-Nagykun-Szolnok|80
@@ -54,19 +58,26 @@ Kunovice|49.045|17.470|CZ|Zlín|75
 Kunigami|26.759|128.163|JP|Okinawa|74
 Kundam|23.219|80.350|IN|Madhya Pradesh|74
 Kununurra|-15.778|128.742|AU|Western Australia|73
+Kunovice Airport|49.029|17.440|CZ|Zlín|72|f
 Kunda|59.483|26.533|EE|Lääne-Virumaa|72
 Kundl|47.467|11.983|AT|Tyrol|72
 Kungshamn|58.363|11.259|SE|Västra Götaland|71
 Kunrade|50.878|5.931|NL|Limburg|71
 Künzing|48.667|13.083|DE|Bavaria|70
+Kuntillat Jurayyah|30.188|34.397|EG|North Sinai|70|f
 Kunów|50.962|21.281|PL|Świętokrzyskie|70
 Kuninkaala|60.285|25.046|FI|Uusimaa|69
 Kunágota|46.433|21.050|HU|Bekes County|69
 Kunštát|49.506|16.517|CZ|South Moravian|69
 Kunda|59.499|26.526|EE|Lääne-Virumaa|69
+Kundal Dam|34.195|72.586|PK|Khyber Pakhtunkhwa|69|f
+Kungsträdgården|59.331|18.072|SE|Stockholm|69|f
 Kuntaur|13.671|-14.890|GM|Central River|68
 Kungtad|5.557|120.847|PH|Autonomous Region in Muslim Mindanao|68
 Kunfehértó|46.361|19.415|HU|Bács-Kiskun|67
+K’undudo Terara|9.436|42.342|ET|Oromiya|67|f
+Kung Chau|22.483|114.371|HK||67|f
+Kunsthalle Bremen|53.073|8.814|DE|Bremen|67|f
 Kunčice pod Ondřejníkem|49.551|18.261|CZ|Moravian-Silesian Region|66
 Kunzar|34.095|74.500|IN|Jammu and Kashmir|66
 Kungurtug|50.598|97.525|RU|Republic of Tyva|65
@@ -77,16 +88,79 @@ Kunheim|48.077|7.535|FR|Grand Est|65
 Kunszállás|46.763|19.754|HU|Bács-Kiskun|65
 Kunadacs|46.956|19.289|HU|Bács-Kiskun|64
 Kunžak|49.121|15.190|CZ|South Bohemian Region|63
+Kunḏū|35.662|70.009|AF|Panjshir|63|f
+Kunów Lake|51.568|22.488|PL|Lublin|63|f
 Kunreuth|50.233|11.531|DE|Bavaria|63
 Kunting|13.533|-14.667|GM|Central River|62
 Kunčina|49.795|16.628|CZ|Pardubice Region|62
+Kŭn-san|37.408|129.136|KR|Gangwon-do|61|f
 Kunice|51.222|16.248|PL|Lower Silesia|61
 Kuntzig|49.347|6.237|FR|Grand Est|61
 Kunvald|50.129|16.500|CZ|Pardubice Region|60
+Kungsgården|63.000|17.833|SE|Västernorrland|60
+Kunrau|52.567|11.018|DE|Saxony-Anhalt|59
+Kunitz|50.955|11.636|DE|Thuringia|58
+Kundzin Island|57.007|24.104|LV|Riga|58|f
+Kungsbackafjorden|57.417|12.067|SE|Halland|58|f
+Kungshatt|59.300|17.883|SE|Stockholm|58|f
+Kunming Hu|39.991|116.267|CN|Beijing|58|f
+Kunyu Shan|37.250|121.783|CN|Shandong|58|f
+Kunche|20.911|-88.303|MX|Yucatán|58
+Kundby|55.711|11.523|DK|Zealand|58
+Kungsgården|60.600|16.617|SE|Gävleborg|58
+Künjek|37.563|66.422|TM|Lebap|57
+Kungsberga|59.405|17.629|SE|Stockholm|57
+Kunpeszér|47.059|19.276|HU|Bács-Kiskun|57
+Kun Daroriān|32.981|74.942|IN|Jammu and Kashmir|57
+Kunice|49.937|14.671|CZ|Central Bohemia|56
+Kunovice|49.444|17.810|CZ|Zlín|56
+Kunratice u Cvikova|50.768|14.680|CZ|Liberec Region|56
+Kunbaracs|46.989|19.403|HU|Bács-Kiskun|56
+Kundabung|-31.209|152.832|AU|New South Wales|56
+Kunčice nad Labem|50.584|15.617|CZ|Hradec Králové Region|55
+Kunovec Breg|46.186|16.764|HR|Koprivnica-Križevci|55
+Kunashëvka|51.041|32.014|UA|Chernihiv Oblast|55
+Kuntseve|49.382|34.376|UA|Poltava|55
+Kunahandhoo|1.782|73.367|MV||54|f
+Kundalila Falls|-13.154|30.704|ZM|Central Province|54|f
+Kunyu Shan|37.250|121.783|CN|Shandong|54|f
+Kundert|50.719|7.792|DE|Rheinland-Pfalz|49
+Kundar|26.718|64.413|PK|Balochistan|49|f
+Kunjamuk Mountain|43.666|-74.285|US|New York|49|f
+Kunkilling Forest Park|13.533|-14.717|GM|Central River|49|f
+Kuno Point|-66.398|-67.161|AQ||49|f
 Kunie|49.392|37.246|UA|Kharkiv|43
+Kuna Peak|37.813|-119.208|US|California|40|f
+Kunduz University|36.712|68.863|AF|Kunduz|40|f
+Kunghit Island|52.097|-131.066|CA|British Columbia|40|f
+Kungliga Tennishallen|59.350|18.096|SE|Stockholm|40|f
+Kungo Island|63.317|-68.148|CA|Nunavut|40|f
+Kungsholm|60.106|20.055|AX|Ålands landsbygd|40|f
+KUNR-FM (Reno)|39.259|-119.705|US|Nevada|40|f
+Kunst im Tunnel|51.220|6.767|DE|North Rhine-Westphalia|40|f
+Kunsthalle Bern|46.944|7.449|CH|Bern|40|f
+Kunsthalle Hamburg|53.555|10.002|DE|Hamburg|40|f
+Kunsthaus|47.370|8.549|CH|Zurich|40|f
+Kunsthaus Graz|47.071|15.434|AT|Styria|40|f
+Kunstmuseum Basel|47.554|7.594|CH|Basel-City|40|f
+Kunstmuseum Bern|46.951|7.443|CH|Bern|40|f
+Kunstmuseum Liechtenstein|47.139|9.522|LI|Vaduz|40|f
+Kunstmuseum Stuttgart|48.778|9.178|DE|Baden-Wurttemberg|40|f
+Kunststätte Bossard|53.282|9.941|DE|Lower Saxony|40|f
+Kuntz Stadium|39.790|-86.189|US|Indiana|40|f
 Kunoy|62.304|-6.648|FO|Norðoyar|37
 Kun’ya|56.293|30.980|RU|Pskov Oblast|0
+Kuncen|-7.157|111.621|ID|East Java|0
+Kuncen|-6.898|112.071|ID|East Java|0
 Kunchi|12.503|8.271|NG|Kano State|0
+Kunden|-6.963|111.412|ID|Central Java|0
+Kundung|-8.193|111.777|ID|East Java|0
+Kunheda Woerzu Manzu|49.885|127.503|CN|Heilongjiang|0
+Kuniran|-6.744|111.232|ID|Central Java|0
 Kunka|48.822|29.273|UA|Vinnytsia|0
 Kunlunlu|45.576|84.918|CN|Xinjiang|0
+Kunmi Erdi|48.860|124.123|CN|Inner Mongolia|0
+Kunreuth|49.682|11.143|DE|Bavaria|0
+Kuntong|30.761|119.788|CN|Zhejiang|0
 Kunyang|24.668|102.592|CN|Yunnan|0
+Kunyang|28.252|120.565|CN|Zhejiang|0

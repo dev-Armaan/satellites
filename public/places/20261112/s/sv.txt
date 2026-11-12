@@ -20,6 +20,7 @@ Svetogorsk|61.112|28.863|RU|Leningradskaya Oblast'|84
 Svirsk|53.091|103.343|RU|Irkutsk Oblast|83
 Sveti Nikole|41.870|21.953|MK|Sveti Nikole|82
 Svetlyy Yar|48.474|44.785|RU|Volgograd Oblast|82
+Svenskøya|78.722|26.681|SJ|Svalbard|82|f
 Svetlyy|51.674|45.631|RU|Saratov Oblast|82
 Svedala|55.508|13.235|SE|Skåne|81
 Svitlodarsk|48.434|38.223|UA|Donetsk|81
@@ -32,18 +33,25 @@ Svoge|42.967|23.350|BG|Sofia|79
 Svenstrup|56.972|9.848|DK|North Denmark|78
 Svenstrup|56.603|9.944|DK|North Denmark|78
 Svit|49.060|20.207|SK|Prešov Region|78
+Svanevatn|69.433|30.033|NO||78|f
 Svetlyy|56.917|85.967|RU|Tomsk Oblast|78
+Sveti Marko Island|42.411|18.691|ME||77|f
+Svolvær Airport, Helle|68.245|14.670|NO|Nordland|77|f
 Svinninge|55.721|11.465|DK|Zealand|76
+Sveti Petar|42.438|27.698|BG|Burgas|76|f
 Světlá nad Sázavou|49.668|15.404|CZ|Vysocina|76
 Svesa|51.951|33.934|UA|Sumy|76
 Svätý Jur|48.252|17.215|SK|Bratislava Region|76
 Svislach|53.034|24.097|BY|Grodnenskaya|75
+Sværholthalvøya|70.800|26.500|NO|Finnmark|75|f
 Sverdlovskiy|55.910|38.150|RU|Moscow Oblast|75
 Švenčionys|55.135|26.159|LT|Vilnius|75
 Svecha|58.278|47.512|RU|Kirov Oblast|74
 Svarychiv|48.959|24.189|UA|Ivano-Frankivsk|74
 Švenčionėliai|55.162|26.002|LT|Vilnius|73
 Svolvær|68.234|14.568|NO|Nordland|73
+Sveti Nikola Island|42.265|18.853|ME||73|f
+Svitiaz Lake|51.501|23.843|UA|Volyn|73|f
 Svodna|45.038|16.540|BA|Srpska|73
 Svogerslev|55.634|12.015|DK|Zealand|73
 Svyatohirsk|49.041|37.572|UA|Donetsk|73
@@ -61,10 +69,15 @@ Svrčinovec|49.481|18.796|SK|Žilina Region|71
 Svärtinge|58.655|16.028|SE|Östergötland|70
 Svensson Heights|-24.886|152.332|AU|Queensland|70
 Svetlopolyansk|59.418|52.360|RU|Kirov Oblast|70
+Svetlogorsk Airport|66.840|88.403|RU|Krasnoyarsk Krai|70|f
+Svøufallet|62.510|9.058|NO|Møre og Romsdal|70|f
 Svitlohirske|48.890|34.071|UA|Poltava|69
 Svortland|59.793|5.172|NO|Vestland|69
 Svinninge|55.883|11.610|DK|Zealand|69
 Svätý Peter|47.842|18.254|SK|Nitra Region|69
+Svartfjellet|70.233|21.999|NO|Finnmark|69|f
+Sveti Ivan|42.439|27.692|BG|Burgas|69|f
+Sveti Petŭr|42.450|27.700|BG|Burgas|69|f
 Sveti Ivan Zelina|45.960|16.243|HR|Zagreb County|68
 Svalbard and Jan Mayen|78.000|20.000|SJ||68|c
 Sveg|62.034|14.366|SE|Jämtland|68
@@ -78,6 +91,10 @@ Svorónos|40.268|22.464|GR|Central Macedonia|66
 Svoboda nad Úpou|50.626|15.816|CZ|Hradec Králové Region|66
 Svanesund|58.143|11.818|SE|Västra Götaland|66
 Svängsta|56.267|14.767|SE|Blekinge|66
+Svartsö|59.453|18.684|SE|Stockholm|65|f
+Svenska Högarna|59.439|19.500|SE|Stockholm|65|f
+Svínoy|62.268|-6.352|FO|Norðoyar|65|f
+Svobodny Airport|51.456|128.098|RU|Amur Oblast|65|f
 Svatkovo|56.383|38.217|RU|Moscow Oblast|65
 Svityaz|51.482|23.859|UA|Volyn|65
 Sveti Anton|45.526|13.832|SI|Urban Municipality of Koper|65
@@ -91,6 +108,15 @@ Svyatylivka|49.463|32.817|UA|Poltava|64
 Svatava|50.192|12.625|CZ|Carlsbad Region|64
 Svratka|49.711|16.032|CZ|Vysocina|64
 Sveio|59.542|5.352|NO|Vestland|64
+Svalbard Airport, Longyear|78.246|15.466|SJ|Svalbard|63|f
+Svanbergfjellet|78.682|18.194|SJ|Svalbard|63|f
+Svanetis Kedi|42.901|42.715|GE|Samegrelo and Zemo Svaneti|63|f
+Svartfjellet|70.584|23.859|NO|Finnmark|63|f
+Svartfjelljøkelen|70.233|21.951|NO|Finnmark|63|f
+Svarthamaren Mountain|-71.917|5.167|AQ||63|f
+Sverdrup Ø|82.950|-45.750|GL||63|f
+Svishtiplaz|42.767|24.117|BG|Sofia|63|f
+Svitjodbreen|79.767|11.500|SJ||63|f
 Světice|49.970|14.666|CZ|Central Bohemia|63
 Svetlogorsk|66.938|88.353|RU|Krasnoyarsk Krai|63
 Sveta Marija|46.332|16.745|HR|Međimurje|63
@@ -102,6 +128,8 @@ Svärdsjö|60.740|15.902|SE|Dalarna|63
 Svitle|48.398|37.115|UA|Donetsk|62
 Svätý Anton|48.419|18.940|SK|Banská Bystrica Region|62
 Svelgen|61.770|5.295|NO|Vestland|62
+Svarthøe|62.323|8.333|NO|Innlandet|61|f
+Svarthorna Peaks|-71.583|12.583|AQ||61|f
 Svetlaya|46.541|138.331|RU|Primorye|61
 Sviniţa|44.500|22.106|RO|Mehedinți County|61
 Svalsta|58.743|16.870|SE|Södermanland|61
@@ -112,17 +140,99 @@ Sveti Petar u Šumi|45.184|13.868|HR|Istria|60
 Sveti Ivan Žabno|45.946|16.613|HR|Koprivnica-Križevci|60
 Svitlodolynske|46.091|29.587|UA|Odesa|60
 Svitle|48.309|37.230|UA|Donetsk|60
+Svaneholm|57.617|12.817|SE|Västra Götaland|60
+Svartvik|62.586|17.908|SE|Västernorrland|60
+Svir'stroy|60.800|33.716|RU|Leningradskaya Oblast'|60
+Světlá pod Ještědem|50.711|14.986|CZ|Liberec Region|60
+Svyatotroyitske|46.550|35.646|UA|Zaporizhzhia|60
+Světec|50.576|13.812|CZ|Ústí nad Labem Region|59
+Sverdlov|41.097|44.398|AM|Lori|59
+Švábenice|49.278|17.123|CZ|South Moravian|59
 Sveti Križ Začretje|46.081|15.911|HR|Krapina-Zagorje|59
+Svarte|55.432|13.714|SE|Skåne|59
+Svenstavik|62.767|14.435|SE|Jämtland|59
+Svätý Kríž|49.050|19.533|SK|Žilina Region|59
+Svratouch|49.724|16.034|CZ|Pardubice Region|59
+Svir|54.852|26.395|BY|Minsk|59
+Svibovec Podravski|46.356|16.282|HR|Varaždin|59
+Šveicarija|55.048|24.265|LT|Kaunas|58
+Svart Peak|-67.240|58.524|AQ||58|f
+Sven Nilssonfjellet|77.736|16.005|SJ|Svalbard|58|f
+Svenner|58.972|10.146|NO|Vestfold|58|f
+Sverdrup Mountains|-72.367|0.667|AQ||58|f
+Sverrefjellet|79.433|13.300|SJ|Svalbard|58|f
+Svínavatn|65.531|-20.073|IS|Northwest|58|f
+Svolværgeita|68.246|14.588|NO|Nordland|58|f
+Svirzh|49.651|24.435|UA|Lviv|58
 Sv. Trojica v Slov. Goricah|46.577|15.877|SI|Municipality of Sveta Trojica v Slovenskih Goricah|58
+Svatý Mikuláš|49.991|15.350|CZ|Central Bohemia|57
+Svyatomykolayivka|47.029|32.107|UA|Mykolaiv|57
+Sveti Ðurađ|45.739|18.246|HR|County of Osijek-Baranja|57
+Svoronáta|38.115|20.522|GR|Ionian Islands|57
+Svichkareve|49.326|34.016|UA|Poltava|56
+Svyrydivka|50.483|33.216|UA|Poltava|56
+Svitle|46.636|30.832|UA|Odesa|56
+Svinařov|50.181|14.050|CZ|Central Bohemia|56
+Svor|50.792|14.597|CZ|Liberec Region|56
+Svatý Jan|49.637|14.311|CZ|Central Bohemia|56
+Sveržov|49.335|21.161|SK|Prešov Region|56
+Svárov|50.062|14.151|CZ|Central Bohemia|56
+Sveto Mitrani|41.322|21.305|MK|Krushevo|56
+Sveti Petar|45.268|15.206|HR|Karlovac|56
+Svémyslice|50.146|14.648|CZ|Central Bohemia|56
+Svitlodolynske|47.082|35.511|UA|Zaporizhzhia|55
+Svartå|65.033|20.767|SE|Västerbotten|55
+Sveta|41.267|21.272|MK|Demir Hisar|55
+Sveta Petka|41.941|21.334|MK|Sopište|55
+Svarstad|61.700|11.217|NO|Innlandet|55
 Sveti Ilija|46.247|16.325|HR|Varaždin|55
 Sveti Ðurđ|46.284|16.604|HR|Varaždin|55
+Svojšice|50.003|15.041|CZ|Central Bohemia|55
+Sveti Petar Ludbreški|46.251|16.692|HR|Varaždin|55
+Sveti Juraj|44.928|14.922|HR|Lika-Senj|55
+Svatá Maří|49.065|13.831|CZ|South Bohemian Region|55
+Svanberga|59.844|18.666|SE|Stockholm|54
+Svartholshøe|61.681|8.562|NO|Innlandet|54|f
+Svarthornkammen Ridge|-71.533|12.333|AQ||54|f
+Svartifoss|64.028|-16.976|IS|Westfjords|54|f
+Svartnupen Peak|-71.917|8.900|AQ||54|f
+Svarttindane Peaks|-71.633|12.500|AQ||54|f
+Svea Glacier|-72.133|1.883|AQ||54|f
+Svellnosbrehesten|61.621|8.306|NO|Innlandet|54|f
+Svellnuten Peak|-72.658|-3.133|AQ||54|f
+Sven Rock|-63.733|-60.200|AQ||54|f
+Svenner Islands|-69.018|76.911|AQ||54|f
+Sverre Peak|-71.717|9.667|AQ||54|f
+Sviðnur|65.411|-22.611|IS|Westfjords|54|f
+Svilaja|43.833|16.433|HR||54|f
+Svínavatn|65.206|-20.020|IS|Northwest|54|f
+Svinesund|59.098|11.271|SE||54|f
+Svinjak|46.353|13.624|SI|Municipality of Bovec|54|f
+Svorksjøen|63.133|9.899|NO|Trøndelag|54|f
+Svrljiške Planine|43.338|22.261|RS||54|f
+Svobodné Heřmanice|49.946|17.674|CZ|Moravian-Silesian Region|54
+Svätá Mária|48.433|21.839|SK|Košice Region|54
+Sveti Matej|45.967|16.067|HR|Krapina-Zagorje|54
 Sveti Martin na Muri|46.525|16.363|HR|Međimurje|53
 Sveti Tomaž|46.484|16.079|SI|Municipality of Sveti Tomaž|49
+Svalbreen|77.683|16.583|SJ|Svalbard|49|f
+Svalisbreen|76.957|16.805|SJ|Svalbard|49|f
+Svartdalskollen|62.469|9.276|NO|Trøndelag|49|f
+Svartnuten|61.900|9.821|NO|Innlandet|49|f
+Svendsen Glacier|-70.383|159.917|AQ||49|f
+Svensson Ridge|-70.181|64.431|AQ||49|f
+Sveti Ilija|42.574|21.804|RS|Central Serbia|49|f
 Sveti Lovreč|45.176|13.742|HR|Istria|49
 Svetvinčenat|45.088|13.884|HR|Istria|48
 Sveti Petar Orehovec|46.079|16.454|HR|Koprivnica-Križevci|47
 Sveti Jurij|46.569|16.023|SI|Municipality of Sveti Jurij ob Ščavnici|46
 Sv. Ana v Slov. Goricah|46.649|15.844|SI|Municipality of Sveta Ana|44
+Svartediket|60.386|5.367|NO|Vestland|40|f
+Svarvarnuten|59.194|7.398|NO|Agder|40|f
+Svaton Peaks|-82.583|161.000|AQ||40|f
+Sven Hedin Glacier|79.498|-77.501|CA|Nunavut|40|f
+Svendsen Peninsula|77.752|-83.999|CA|Nunavut|40|f
+Svoge Knoll|-62.621|-60.208|AQ||40|f
 Svay Chek|13.805|102.962|KH|Banteay Meanchey|0
 Svay Teab|11.055|105.885|KH|Svay Rieng|0
 Sviatovasylivka|48.179|34.562|UA|Dnipropetrovsk|0

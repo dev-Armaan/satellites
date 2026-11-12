@@ -12,17 +12,20 @@ Straubing|48.881|12.574|DE|Bavaria|93
 Stretford|53.450|-2.317|GB|England|92
 Strawberry Hill|49.133|-122.883|CA|British Columbia|92
 Streamwood|42.026|-88.178|US|Illinois|92
+Strait of Hormuz|26.567|56.250|OM|Musandam Governorate|92|f
+Strait of Sicily|37.333|11.333|||91|f
 Struga|41.178|20.679|MK|Struga|91
 Stratford|51.533|0.000|GB|England|91
 Strumica|41.438|22.643|MK|Strumica|91
 Strood|51.393|0.477|GB|England|90
 Stratford|43.367|-80.950|CA|Ontario|90
 Stratford-upon-Avon|52.192|-1.707|GB|England|90
+Strait of Messina|38.247|15.641|IT|Sicily|89|f
 Strausberg|52.579|13.887|DE|Brandenburg|89
 Strathfield|-33.881|151.080|AU|New South Wales|88
 Strathroy|42.955|-81.622|CA|Ontario|88
+Streymoy|62.133|-7.000|FO||88|r
 Strakonice|49.261|13.902|CZ|South Bohemian Region|87
-Streymoy|62.133|-7.000|FO||87|r
 Strzelce Opolskie|50.511|18.301|PL|Opole Voivodeship|86
 Strășeni|47.142|28.608|MD|Strășeni|86
 Stroitel|50.788|36.478|RU|Belgorod Oblast|85
@@ -38,6 +41,7 @@ Strombeek-Bever|50.910|4.356|BE|Flanders|83
 Strängnäs|59.377|17.031|SE|Södermanland|83
 Strathmore|51.050|-113.385|CA|Alberta|83
 Strand|59.050|5.933|NO|Rogaland|83
+Strait of Bonifacio|41.315|9.162|||82|f
 Streetly|52.583|-1.883|GB|England|82
 Streator|41.121|-88.835|US|Illinois|82
 Street|51.125|-2.740|GB|England|82
@@ -45,6 +49,7 @@ Strel'na|59.852|30.036|RU|St. Petersburg|82
 Strathcona|49.277|-123.091|CA|British Columbia|82
 Strzelin|50.782|17.065|PL|Lower Silesia|82
 Stroud Green|51.575|-0.111|GB|England|81
+Strymonian Gulf|40.681|23.881|GR|East Macedonia and Thrace|81|f
 Strehaia|44.617|23.200|RO|Mehedinți County|81
 Strømmen|59.951|11.010|NO|Akershus|81
 Struer|56.492|8.594|DK|Central Jutland|81
@@ -57,17 +62,20 @@ Strzelce Krajeńskie|52.877|15.530|PL|Lubusz|80
 Stropkov|49.202|21.652|SK|Prešov Region|80
 Strijen|51.745|4.551|NL|South Holland|79
 Stryzhavka|49.310|28.472|UA|Vinnytsia|79
+Strait of Gibraltar|35.950|-5.600|||79|f
 Strépy-Bracquegnies|50.473|4.120|BE|Wallonia|79
 Strzyżów|49.871|21.794|PL|Subcarpathia|79
 Strugi-Krasnyye|58.271|29.112|RU|Pskov Oblast|79
 Strullendorf|49.844|10.972|DE|Bavaria|78
 Stříbro|49.756|12.997|CZ|Plzeň Region|78
 Striano|40.815|14.575|IT|Campania|78
+Strahlhorn|46.013|7.902|CH|Valais|78|f
 Strathaven|55.677|-4.067|GB|Scotland|77
 Strathmore|40.396|-74.213|US|New Jersey|77
 Stryn|61.903|6.718|NO|Vestland|77
 Strömstad|58.939|11.171|SE|Västra Götaland|77
 Stratford|39.827|-75.015|US|New Jersey|77
+Strandzha|41.854|27.485|BG||77|f
 Stratham Station|43.053|-70.895|US|New Hampshire|77
 Štrpce|42.239|21.027|XK|Ferizaj|77
 Stratmoor|38.774|-104.780|US|Colorado|77
@@ -94,10 +102,13 @@ Struisbaai|-34.804|20.055|ZA|Western Cape|74
 Strib|55.540|9.767|DK|South Denmark|74
 Strážnice|48.901|17.317|CZ|South Moravian|74
 Stryszawa|49.713|19.522|PL|Lesser Poland|74
+Strahan Airport|-42.155|145.292|AU|Tasmania|74|f
+Strömvallen|60.673|17.129|SE|Gävleborg|74|f
 Strzałkowo|52.307|17.818|PL|Greater Poland|74
 Strzyża|54.386|18.586|PL|Pomerania|74
 Strejnicu|44.917|25.951|RO|Prahova|74
 Strelitsa|51.605|38.906|RU|Voronezh Oblast|74
+Streaky Bay Airport|-32.836|134.293|AU|South Australia|73|f
 Strambino|45.380|7.890|IT|Piedmont|73
 Strelcha|42.500|24.317|BG|Pazardzhik|73
 Strà-Montanara-Pieve|45.424|11.157|IT|Veneto|73
@@ -109,6 +120,8 @@ Strijpen|50.868|3.788|BE|Flanders|73
 Strmec|45.817|15.790|HR|Zagreb County|73
 Strehla|51.352|13.227|DE|Saxony|73
 Strážske|48.873|21.837|SK|Košice Region|72
+Strait of Malacca|5.022|99.165|||72|f
+Stratford Municipal Airport|43.415|-80.934|CA|Ontario|72|f
 Strâmtura|47.783|24.133|RO|Maramureş|72
 Străoane|45.933|27.050|RO|Vrancea|72
 Stresa|45.882|8.538|IT|Piedmont|72
@@ -122,6 +135,7 @@ Stráž pod Ralskem|50.703|14.801|CZ|Liberec Region|72
 Strasswalchen|47.979|13.255|AT|Salzburg|72
 Stratfield Mortimer|51.373|-1.035|GB|England|71
 Strömsund|63.852|15.556|SE|Jämtland|71
+Strawberry Mountain|44.312|-118.717|US|Oregon|71|f
 Štrba|49.059|20.080|SK|Prešov Region|71
 Stromberg|49.944|7.773|DE|Rheinland-Pfalz|71
 Štramberk|49.592|18.117|CZ|Moravian-Silesian Region|71
@@ -133,6 +147,10 @@ Stryków|51.902|19.605|PL|Łódź Voivodeship|70
 Střelice|49.152|16.504|CZ|South Moravian|70
 Strabychovo|48.390|22.549|UA|Zakarpattia|70
 Stromberg|50.458|7.600|DE|Rheinland-Pfalz|70
+Strait of Magellan|-53.928|-71.102|CL|Region of Magallanes|70|f
+Strasbourg International Airport|48.538|7.628|FR|Grand Est|70|f
+Straumøya|67.212|14.465|NO|Nordland|70|f
+Streymoy|62.117|-6.979|FO|Streymoy|70|f
 Strathcona Park|44.255|-76.524|CA|Ontario|70
 Stroeşti|45.083|23.900|RO|Vâlcea County|70
 Stranda|62.309|6.937|NO|Møre og Romsdal|69
@@ -149,6 +167,10 @@ Straßberg|48.178|9.091|DE|Baden-Wurttemberg|69
 Struppen|50.933|14.017|DE|Saxony|69
 Stroine|48.524|23.038|UA|Zakarpattia|69
 Strettoia|43.990|10.194|IT|Tuscany|69
+Stradbroke Island|-27.528|153.461|AU|Queensland|69|f
+Stragach|41.397|23.768|BG||69|f
+Straubing Wallmühle Airport|48.901|12.518|DE|Bavaria|69|f
+Strelasund|54.277|13.151|DE|Mecklenburg-Vorpommern|69|f
 Strøby Egede|55.414|12.245|DK|Zealand|69
 Strasburg|40.595|-81.527|US|Ohio|69
 Strugari|46.533|26.717|RO|Bacău County|68
@@ -166,6 +188,8 @@ Stravaj|41.005|20.423|AL|Elbasan County|68
 Stroiești|47.617|26.133|RO|Suceava|68
 Strafford|37.268|-93.117|US|Missouri|67
 Stroncone|42.512|12.648|IT|Umbria|67
+Strangford Lough|54.500|-5.600|GB|Northern Ireland|67|f
+Strömsholm Canal|59.533|16.267|SE|Västmanland|67|f
 Strömsnäsbruk|56.550|13.717|SE|Kronoberg|67
 Strada in Chianti|43.659|11.297|IT|Tuscany|67
 Stroeder|-40.186|-62.620|AR|Buenos Aires|67
@@ -185,6 +209,12 @@ Strekov|47.904|18.417|SK|Nitra Region|66
 Strejeștii de Sus|44.544|24.228|RO|Olt|66
 Strumok|45.724|29.441|UA|Odesa|65
 Strassham|48.283|14.145|AT|Upper Austria|65
+Stråholmen|58.899|9.643|NO|Telemark|65|f
+Strait of Belle Isle|51.500|-56.498|CA|Newfoundland and Labrador|65|f
+Strait of Otranto|40.183|18.950|||65|f
+Straits of Tiran|28.024|34.471|EG|South Sinai|65|f
+Stratton Mountain|43.086|-72.926|US|Vermont|65|f
+Strawberry Range|44.308|-118.584|US|Oregon|65|f
 Stretham|52.347|0.219|GB|England|65
 Strimnica|41.967|21.036|MK|Zhelino|65
 Strzyżowice|50.387|19.080|PL|Silesia|65
@@ -204,6 +234,10 @@ Stroyntsi|48.246|26.256|UA|Chernivtsi|64
 Stralendorf|53.575|11.304|DE|Mecklenburg-Vorpommern|64
 Stratford|34.797|-96.959|US|Oklahoma|64
 Strevi|44.700|8.525|IT|Piedmont|63
+Straumsfjorden|59.082|7.738|NO|Agder|63|f
+Strindvatnet|67.866|15.907|NO|Nordland|63|f
+Stripe Mountain|45.513|-114.775|US|Idaho|63|f
+Stromness Bay|-54.153|-36.640|GS||63|f
 Streaky Bay|-32.796|134.209|AU|South Australia|63
 Strée-lez-Huy|50.490|5.323|BE|Wallonia|63
 Strilkove|45.896|34.883|UA|Kherson|63
@@ -232,6 +266,20 @@ Ströbeck|51.914|10.944|DE|Saxony-Anhalt|61
 Strâmtura|47.581|25.681|RO|Suceava|61
 Stromsburg|41.114|-97.599|US|Nebraska|61
 Strum|44.550|-91.393|US|Wisconsin|61
+Straggle Islands|-65.874|-65.073|AQ||61|f
+Strålsjön|59.667|15.433|SE|Örebro|61|f
+Stralsund Barth Airport|54.338|12.716|DE|Mecklenburg-Vorpommern|61|f
+Straumsvola Mountain|-72.117|-0.333|AQ||61|f
+Strawberry Peak|34.284|-118.120|US|California|61|f
+Štrbské Pleso|49.123|20.059|SK||61|f
+Streap|56.923|-5.376|GB|Scotland|61|f
+Stridbukken Mountain|-72.800|-3.217|AQ||61|f
+Striped Peak|48.156|-123.685|US|Washington|61|f
+Strömma Kanal|59.286|18.552|SE|Stockholm|61|f
+Ströms Vattudal|63.933|15.467|SE|Jämtland|61|f
+Strömsborg|59.327|18.063|SE|Stockholm|61|f
+Strondafjorden|60.972|9.174|NO|Innlandet|61|f
+Stronsay Airport|59.155|-2.641|GB|Scotland|61|f
 Straškov-Vodochody|50.364|14.250|CZ|Ústí nad Labem Region|61
 Strachocina|49.608|22.088|PL|Subcarpathia|61
 Strzelce Wielkie|51.139|19.145|PL|Łódź Voivodeship|61
@@ -252,29 +300,235 @@ Străteni|47.937|26.297|RO|Botoșani County|60
 Stroiești|47.610|26.966|RO|Botoșani County|60
 Stratford|44.655|-71.556|US|New Hampshire|60
 Strawczyn|50.942|20.421|PL|Świętokrzyskie|60
+Stratton-on-the-Fosse|51.253|-2.492|GB|England|60
+Stratónion|40.514|23.825|GR|Central Macedonia|60
+Střítež|49.679|18.569|CZ|Moravian-Silesian Region|60
+Stretti|45.637|12.688|IT|Veneto|60
+Strachotice|48.796|16.172|CZ|South Moravian|60
 Strenči|57.626|25.685|LV|Valmiera|60
+Strendur|62.107|-6.757|FO|Eysturoy|60
+Struckum|54.583|9.000|DE|Schleswig-Holstein|60
+Strawberry|34.408|-111.493|US|Arizona|60
+Strichen|57.587|-2.091|GB|Scotland|59
+Stříbrná Skalice|49.898|14.846|CZ|Central Bohemia|59
+Straach|51.954|12.598|DE|Saxony-Anhalt|59
+Strahlungen|50.283|10.233|DE|Bavaria|59
+Strážek|49.441|16.193|CZ|Vysocina|59
+Stroud|-32.404|151.967|AU|New South Wales|59
 Strallegg|47.412|15.725|AT|Styria|59
 Stromiec|51.647|21.092|PL|Mazovia|59
+Strathmiglo|56.278|-3.271|GB|Scotland|59
+Střítež nad Bečvou|49.459|18.051|CZ|Zlín|59
+Strahovice|50.002|18.087|CZ|Moravian-Silesian Region|59
 Straumen|67.348|15.605|NO|Nordland|59
+Střelské Hoštice|49.298|13.756|CZ|South Bohemian Region|59
+Strzelce|51.066|17.861|PL|Opole Voivodeship|59
+Stružnice|50.697|14.450|CZ|Liberec Region|59
+Strathdickie|-20.333|148.617|AU|Queensland|59
+Střítež nad Ludinou|49.609|17.739|CZ|Olomouc Region|59
+Strachotín|48.905|16.651|CZ|South Moravian|58
+Stronghurst|40.747|-90.904|US|Illinois|58
 Strass im Zillertal|47.396|11.820|AT|Tyrol|58
+Strzelce Wielkie|50.094|20.581|PL|Lesser Poland|58
+Straßberg|51.616|11.049|DE|Saxony-Anhalt|58
+Strahwalde|51.029|14.724|DE|Saxony|58
 Stratzing|48.450|15.600|AT|Lower Austria|58
+Strokestown|53.783|-8.100|IE|Connacht|58
+Stráž nad Nežárkou|49.070|14.906|CZ|South Bohemian Region|58
 Strassen|46.754|12.484|AT|Tyrol|58
+Strait of Juan de Fuca|48.297|-124.012|CA|British Columbia|58|f
+Stranger Point|-62.262|-58.618|AQ||58|f
+Straumvatnet|67.326|15.655|NO|Nordland|58|f
+Straus Park|40.802|-73.968|US|New York|58|f
+Strawberry Island|48.562|-122.735|US|Washington|58|f
+Strawberry Square|40.262|-76.881|US|Pennsylvania|58|f
+Stray Islands|-65.166|-64.258|AQ||58|f
+Stretch Island|47.324|-122.826|US|Washington|58|f
+Striped Mountain|36.966|-118.404|US|California|58|f
+Stroller White Mountain|58.474|-134.577|US|Alaska|58|f
+Stroud Municipal Airport|35.787|-96.662|US|Oklahoma|58|f
+Stroudsburg-Pocono Airport|41.035|-75.157|US|Pennsylvania|58|f
+Strmec Stubički|45.967|15.917|HR|Krapina-Zagorje|58
+Stražica|43.346|17.106|HR|Split-Dalmatia|58
+Strelníky|48.723|19.392|SK|Banská Bystrica Region|58
+Straßgräbchen|51.352|14.064|DE|Saxony|58
+Streminoasa|44.685|24.179|RO|Vâlcea County|58
+Strahinj|46.283|14.317|SI|Municipality of Naklo|58
+Strodes Mills|40.551|-77.673|US|Pennsylvania|58
 Strozza|45.773|9.579|IT|Lombardy|58
 Strzelce|52.315|19.407|PL|Łódź Voivodeship|57
+Strahan|-42.152|145.327|AU|Tasmania|57
+Stratford|42.271|-93.927|US|Iowa|57
+Strakholissya|51.074|30.396|UA|Kyiv Oblast|57
+Strassoldo|45.857|13.322|IT|Friuli Venezia Giulia|57
+Stružinec|50.551|15.358|CZ|Liberec Region|57
+Strazeele|50.726|2.631|FR|Hauts-de-France|57
+Stroe|52.186|5.692|NL|Gelderland|57
+Straja|46.903|26.171|RO|Neamț County|57
+Struxdorf|54.631|9.639|DE|Schleswig-Holstein|57
+Stratham|-33.463|115.586|AU|Western Australia|57
+Strömsholm|59.527|16.243|SE|Västmanland|57
 Stronsdorf|48.652|16.299|AT|Lower Austria|57
+Strathmoor Village|38.223|-85.678|US|Kentucky|56
+Stratton|39.303|-102.605|US|Colorado|56
+Stráža|49.226|18.908|SK|Žilina Region|56
+Struhařov|49.766|14.762|CZ|Central Bohemia|56
 Strzyżowice|51.048|22.440|PL|Lublin|56
+Strykersville|42.705|-78.448|US|New York|56
+Stratton|38.748|-105.150|US|Colorado|56
+Strawn|32.552|-98.498|US|Texas|56
+Strienzing|47.979|14.103|AT|Upper Austria|56
+Stromboli|38.803|15.238|IT|Sicily|56
+Strupčice|50.471|13.531|CZ|Ústí nad Labem Region|56
+Straffan|53.314|-6.614|IE|Leinster|56
+Stružná|50.183|13.006|CZ|Carlsbad Region|56
+Střelná|49.177|18.098|CZ|Zlín|56
+Strâmtu|44.776|23.113|RO|Gorj County|56
+Strathkinness|56.335|-2.876|GB|Scotland|56
+Streisângeorgiu|45.727|23.023|RO|Hunedoara County|56
+Střílky|49.140|17.215|CZ|Zlín|56
+Střížovice|49.140|15.157|CZ|South Bohemian Region|56
+Streithausen|50.694|7.815|DE|Rheinland-Pfalz|56
+Strezeni|45.150|26.483|RO|Buzău County|56
+Strzegocice|49.951|21.322|PL|Subcarpathia|56
 Strem|47.045|16.414|AT|Burgenland|56
+Strohanivka|46.677|35.864|UA|Zaporizhzhia|56
+Strmec|45.708|15.917|HR|Zagreb|55
+Stránecká Zhoř|49.380|15.927|CZ|Vysocina|55
+Strakhovo|54.736|37.265|RU|Tula Oblast|55
+Strunjan|45.525|13.606|SI|Municipality of Piran|55
+Stráž nad Ohří|50.338|13.051|CZ|Carlsbad Region|55
+Strand|68.697|15.449|NO|Nordland|55
+Strmec Podravski|46.363|16.183|HR|Varaždin|55
 Strangolagalli|41.600|13.492|IT|Lazio|55
+Stratoníki|40.528|23.763|GR|Central Macedonia|55
 Streatley|51.946|-0.444|GB|England|55
+Strong|33.108|-92.335|US|Arkansas|55
+Stružec|45.528|16.554|HR|Sisak-Moslavina|55
+Strážovice|49.009|17.047|CZ|South Moravian|55
+Strajane|41.722|21.002|MK|Gostivar|55
+Stroumpí|34.888|32.481|CY|Pafos|55
+Střeň|49.692|17.154|CZ|Olomouc Region|55
+Strugovo|41.200|21.181|MK|Demir Hisar|55
+Straky|50.234|14.959|CZ|Central Bohemia|54
+Strattanville|41.202|-79.328|US|Pennsylvania|54
+Strömsfors|58.680|16.330|SE|Östergötland|54
 Strembo|46.120|10.751|IT|Trentino-Alto Adige|54
+Strijtem|50.842|4.117|BE|Flanders|54
 Strengberg|48.143|14.652|AT|Lower Austria|54
+Strabrechtse Heide|51.398|5.611|NL|North Brabant|54|f
+Straightaway Glacier|63.032|-151.291|US|Alaska|54|f
+Strandefjorden|60.692|7.852|NO|Buskerud|54|f
+Strandnebba|-69.950|38.833|AQ||54|f
+Strandrud Mountain|-71.883|25.650|AQ||54|f
+Strangers Cay|27.121|-78.091|BS|Grand Cay|54|f
+Strawberry Islands|45.171|-87.268|US|Wisconsin|54|f
+Strážov|48.955|18.463|SK|Trenčín Region|54|f
+Strezhevoy Airport|60.712|77.658|RU|Tomsk Oblast|54|f
+String Lake|43.788|-110.734|US|Wyoming|54|f
+String Lakes|43.867|-95.196|US|Minnesota|54|f
+Stringer Bay|-10.309|150.407|PG|Milne Bay Province|54|f
+Stroiteley Islands|-66.557|92.965|AQ||54|f
+Strom Lake|44.144|-94.360|US|Minnesota|54|f
+Strømme Ridge|-71.437|-61.687|AQ||54|f
+Strondefjell|59.345|7.160|NO|Agder|54|f
+Strong Island|41.911|-83.379|US|Michigan|54|f
+Strongs Neck|40.961|-73.109|US|New York|54|f
+Strouds Run State Park|39.349|-82.032|US|Ohio|54|f
+Struvefjella|76.882|15.683|SJ|Svalbard|54|f
+Strynø|54.901|10.612|DK|South Denmark|54|f
+Strynø Kalv|54.899|10.577|DK|South Denmark|54|f
+Strömma|59.708|19.000|SE|Stockholm|54
+Stryhalnia|48.571|23.576|UA|Zakarpattia|54
+Strone|55.986|-4.906|GB|Scotland|54
+Strohn|50.117|6.917|DE|Rheinland-Pfalz|54
 Štrigova|46.502|16.288|HR|Međimurje|53
 Strachówka|52.427|21.635|PL|Mazovia|52
+Strotzbüsch|50.110|6.967|DE|Rheinland-Pfalz|51
 Straume|68.689|14.472|NO|Nordland|50
+Strüth|50.133|7.883|DE|Rheinland-Pfalz|50
 Straden|46.809|15.868|AT|Styria|49
+Strabane Canal|54.817|-7.467|GB|Northern Ireland|49|f
+Strachey Stump|-80.669|-23.173|AQ||49|f
+Strahan Glacier|-67.633|64.617|AQ||49|f
+Strahlkogl|47.117|11.017|AT|Tyrol|49|f
+Strain Mountain|42.525|-74.724|US|New York|49|f
+Strait Island|12.216|92.932|IN|Andaman and Nicobar|49|f
+Strange Glacier|-74.791|-63.823|AQ||49|f
+Strathlethan Bay|56.950|-2.200|GB|Scotland|49|f
+Strathord Islands|-10.237|151.864|PG|Milne Bay Province|49|f
+Stratton Glacier|-80.416|-28.833|AQ||49|f
+Straumfjordvatnet|67.885|15.504|NO|Nordland|49|f
+Straussee|52.582|13.876|DE|Brandenburg|49|f
+Strawberry Island|48.407|-122.632|US|Washington|49|f
+Streeter Hill|42.473|-74.723|US|New York|49|f
+Stride Peak|-67.690|-67.593|AQ||49|f
+Stringfellow Glacier|-64.097|-60.348|AQ||49|f
+Strmenica|43.658|20.669|RS|Central Serbia|49|f
+Strom Glacier|-85.167|-164.500|AQ||49|f
+Strombolicchio|38.817|15.252|IT|Sicily|49|f
+Strombus Ridge|-60.698|-45.648|AQ||49|f
+Stroschein, Mount|-84.416|-63.583|AQ||49|f
+Strover Peak|-69.716|73.830|AQ||49|f
+Struck Island|-16.171|145.447|AU|Queensland|49|f
+Strumble Head|52.029|-5.071|GB|Wales|49|f
+Strupbreen|69.708|20.158|NO|Troms|49|f
+Strukdorf|53.921|10.487|DE|Schleswig-Holstein|48
 Strambinello|45.423|7.770|IT|Piedmont|47
 Stroppo|44.507|7.127|IT|Piedmont|41
+Strabane Transmitting Station|54.799|-7.389|GB|Northern Ireland|40|f
+Strahan Coliseum|29.889|-97.933|US|Texas|40|f
+Strahlhorn|46.386|7.908|CH|Valais|40|f
+Strahlhorn|46.451|8.095|CH|Valais|40|f
+Straits State Park|45.853|-84.720|US|Michigan|40|f
+Strandzha Glacier|-62.639|-59.906|AQ||40|f
+Straseni TV Mast|47.122|28.565|MD||40|f
+Strata Marcella Abbey|52.686|-3.110|GB|Wales|40|f
+Stratford Hall (plantation)|38.152|-76.839|US|Virginia|40|f
+Stratford Langthorne Abbey|51.533|0.001|GB|England|40|f
+Strathclyde Homes Stadium|55.938|-4.562|GB|Scotland|40|f
+Strathcona Fiord|78.719|-82.915|CA|Nunavut|40|f
+Strathcona Islands|63.017|-71.415|CA|Nunavut|40|f
+Strathcona Park|49.666|-125.670|CA|British Columbia|40|f
+Strathcona Science Park|53.567|-113.369|CA|Alberta|40|f
+Strathcona-Westmin Park|49.566|-125.586|CA|British Columbia|40|f
+Strathgartney Provincial Park|46.217|-63.332|CA|Prince Edward Island|40|f
+Stratton Lake|45.433|-93.251|US|Minnesota|40|f
+Strausberger Platz|52.519|13.428|DE|State of Berlin|40|f
+Strauss Glacier|-77.333|-139.667|AQ||40|f
+Strawberry Arena|59.373|18.000|SE|Stockholm|40|f
+Strawberry Crater|35.442|-111.470|US|Arizona|40|f
+Strawberry Hill House|51.438|-0.335|GB|England|40|f
+Strawberry Island|51.500|-55.498|CA|Newfoundland and Labrador|40|f
+Strawberry Island|42.954|-78.924|US|New York|40|f
+Strawberry Lake|52.750|-66.765|CA|Newfoundland and Labrador|40|f
+Strawberry Lake|42.449|-83.841|US|Michigan|40|f
+Strawberry Lake|44.307|-118.685|US|Oregon|40|f
+Strawberry Mountain|34.383|-111.489|US|Arizona|40|f
+Strawberry Reservoir|40.174|-111.127|US|Utah|40|f
+Streatfeild Lake|52.145|-85.911|CA|Ontario|40|f
+Street Mountain|44.180|-74.044|US|New York|40|f
+Streeter Lake|44.107|-75.072|US|New York|40|f
+Střelecký ostrov|50.082|14.410|CZ|Prague|40|f
+Stretch Point State Park|47.328|-122.821|US|Washington|40|f
+Strindbergsmuseet|59.339|18.056|SE|Stockholm|40|f
+Striped Elk Lake|48.402|-113.525|US|Montana|40|f
+Stripsenkopf|47.582|12.308|AT|Tyrol|40|f
+Strokestown Park|53.777|-8.098|IE|Connacht|40|f
+Stromovka|50.107|14.421|CZ|Prague|40|f
+Strong Island|48.100|-53.698|CA|Newfoundland and Labrador|40|f
+Strong Peak|-79.933|-82.300|AQ||40|f
+Strongman Mine|-42.348|171.270|NZ|West Coast|40|f
+Stroud Glacier|43.147|-109.679|US|Wyoming|40|f
+Stroup Peak|-77.104|162.617|AQ||40|f
+Struma Glacier|-62.608|-60.133|AQ||40|f
+Struthers Lake|52.850|-105.251|CA|Saskatchewan|40|f
+Strutton Islands|52.117|-79.016|CA|Nunavut|40|f
+Strybing Arboretum|37.768|-122.470|US|California|40|f
+Strzelecki National Park|-40.219|148.103|AU|Tasmania|40|f
+Strübbel|54.260|8.972|DE|Schleswig-Holstein|38
 Stregna|46.127|13.578|IT|Friuli Venezia Giulia|35
+Strickscheid|50.133|6.317|DE|Rheinland-Pfalz|31
 St. Ruprecht-Falkendorf|47.101|14.018|AT|Styria|0
 Straume|60.361|5.122|NO|Vestland|0
 Strážná|49.911|16.711|CZ|Pardubice Region|0

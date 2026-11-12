@@ -2,6 +2,7 @@ Lesser Poland|49.867|20.267|PL||128|r
 Lesotho|-29.500|28.250|LS||127|c
 Leshan|29.562|103.764|CN|Sichuan|116
 Les Cayes|18.192|-73.749|HT|Sud|102
+Lesser Sunda Islands|-9.000|120.000|ID||101|f
 Leskovac|42.998|21.946|RS|Central Serbia|100
 Le Sud-Ouest|45.472|-73.590|CA|Quebec|99
 Les Corts|41.387|2.130|ES|Catalonia|98
@@ -17,7 +18,9 @@ Les Ulis|48.682|2.169|FR|Île-de-France|88
 Lesnoy|58.639|59.790|RU|Sverdlovsk Oblast|88
 Les Lilas|48.880|2.421|FR|Île-de-France|86
 Les Pennes-Mirabeau|43.410|5.308|FR|Provence-Alpes-Côte d'Azur|86
+Lesser Slave Lake|55.441|-115.489|CA|Alberta|86|f
 Les Pavillons-sous-Bois|48.907|2.506|FR|Île-de-France|86
+Lesbos Island|39.204|26.277|GR|North Aegean|85|f
 Les Clayes-sous-Bois|48.822|1.987|FR|Île-de-France|85
 Lessines|50.711|3.836|BE|Wallonia|85
 Les Coteaux|45.283|-74.233|CA|Quebec|85
@@ -42,6 +45,7 @@ L’Escalier|-20.470|57.612|MU|Grand Port|78
 Lesnoy|54.212|40.471|RU|Ryazan Oblast|77
 Lesneven|48.572|-4.317|FR|Brittany|77
 Les Trois-Bassins|-21.100|55.300|RE|Reunion|77
+Leskovac Airport|43.019|21.933|RS|Central Serbia|77|f
 Lesnoy|59.781|52.128|RU|Kirov Oblast|77
 Les Sorinières|47.147|-1.530|FR|Pays de la Loire|77
 Lesquin|50.582|3.119|FR|Hauts-de-France|76
@@ -51,6 +55,7 @@ Lespezi|47.367|26.700|RO|Iași County|76
 Lesina|41.861|15.353|IT|Apulia|75
 Les Arcs|43.463|6.479|FR|Provence-Alpes-Côte d'Azur|75
 Lesnikovo|55.282|65.317|RU|Kurgan Oblast|75
+Lessay Airport|49.203|-1.507|FR|Normandy|75|f
 Lesogorsk|56.046|99.514|RU|Irkutsk Oblast|75
 Les Avanchets|46.222|6.108|CH|Geneva|75
 Lesko|49.470|22.330|PL|Subcarpathia|75
@@ -64,6 +69,7 @@ Lešnica|44.653|19.310|RS|Central Serbia|73
 Leśna|51.024|15.264|PL|Lower Silesia|73
 Les Essarts|46.774|-1.230|FR|Pays de la Loire|73
 Lesmahagow|55.637|-3.887|GB|Scotland|73
+Le Suchet|46.772|6.466|CH|Vaud|72|f
 Leskolovo|60.263|30.455|RU|Leningradskaya Oblast'|72
 Le Sueur|44.461|-93.915|US|Minnesota|72
 Lestrem|50.620|2.686|FR|Hauts-de-France|72
@@ -99,6 +105,8 @@ Les Rosiers-sur-Loire|47.352|-0.225|FR|Pays de la Loire|67
 Les Brouzils|46.887|-1.322|FR|Pays de la Loire|67
 Les Marches|45.500|6.004|FR|Auvergne-Rhône-Alpes|67
 Les Irois|18.405|-74.453|HT|Grand'Anse|67
+Les Trois Îlots du Mouillage|-19.890|158.470|NC||67|f
+Lesobeng Airport|-29.783|28.317|LS|Thaba-Tseka|67|f
 Les Clouzeaux|46.630|-1.509|FR|Pays de la Loire|67
 Les Epesses|46.883|-0.900|FR|Pays de la Loire|67
 L'Esquirol|42.033|2.367|ES|Catalonia|67
@@ -122,6 +130,8 @@ Les Aix-d'Angillon|47.197|2.565|FR|Centre-Val de Loire|66
 Lesnoye|58.286|35.524|RU|Tver Oblast|66
 Leslie|42.451|-84.432|US|Michigan|65
 Les Grandes-Ventes|49.785|1.229|FR|Normandy|65
+Les Amirantes|-5.672|53.285|SC||65|f
+Lesser Antilles|14.667|-61.017|||65|f
 Les Attaques|50.910|1.930|FR|Hauts-de-France|65
 les Borges del Camp|41.167|1.017|ES|Catalonia|65
 Le Syndicat|48.017|6.684|FR|Grand Est|65
@@ -141,6 +151,9 @@ Les Ormes|46.972|0.606|FR|New Aquitaine|64
 Les Cases d'Alcanar|40.554|0.530|ES|Catalonia|64
 Les Deux Alpes|45.012|6.125|FR|Auvergne-Rhône-Alpes|64
 Les Montils|47.495|1.298|FR|Centre-Val de Loire|64
+Les Cayes Antoine-Simon Airport|18.271|-73.788|HT|Sud|63|f
+Lesidren Island|-62.436|-60.149|AQ||63|f
+Lesueur National Park|-30.132|115.133|AU|Western Australia|63|f
 Les Geneveys-sur-Coffrane|47.015|6.851|CH|Neuchâtel|63
 Les Magnils-Reigniers|46.483|-1.217|FR|Pays de la Loire|63
 Lessolo|45.478|7.816|IT|Piedmont|63
@@ -170,6 +183,12 @@ Les Moutiers-en-Retz|47.064|-1.999|FR|Pays de la Loire|61
 Les Chères|45.890|4.743|FR|Auvergne-Rhône-Alpes|61
 Les Loges|49.699|0.284|FR|Normandy|61
 Les Contamines-Montjoie|45.822|6.729|FR|Auvergne-Rhône-Alpes|61
+Les Bauges|45.648|6.152|FR|Auvergne-Rhône-Alpes|61|f
+Les Sept Îles|48.897|-3.473|FR|Brittany|61|f
+Les Sœurs|-4.283|55.867|SC||61|f
+Les Trois Châteaux d'Eguisheim|48.039|7.273|FR|Grand Est|61|f
+Leśniański Zbiornik Wodny|51.030|15.306|PL|Lower Silesia|61|f
+Lesser Mackellar Island|-66.967|142.650|AQ||61|f
 Les Fourgs|46.835|6.400|FR|Bourgogne-Franche-Comté|61
 Les Bois|47.177|6.905|CH|Jura|61
 Lestelle-Bétharram|43.130|-0.209|FR|New Aquitaine|61
@@ -180,19 +199,154 @@ Le Sappey-en-Chartreuse|45.262|5.775|FR|Auvergne-Rhône-Alpes|60
 Lesbury|55.398|-1.628|GB|England|60
 Les Champs-Géraux|48.416|-1.971|FR|Brittany|60
 Les Loges-Marchis|48.541|-1.088|FR|Normandy|60
+Les Damps|49.302|1.178|FR|Normandy|60
+Les Trois-Moutiers|47.063|0.020|FR|New Aquitaine|60
+Les Villards-sur-Thônes|45.914|6.375|FR|Auvergne-Rhône-Alpes|60
+Les Bréviaires|48.708|1.814|FR|Île-de-France|60
+Les Waleffes|50.637|5.224|BE|Wallonia|60
+Leselidze|43.391|40.013|GE|Abkhazia|60
+Les Granges-le-Roi|48.502|2.020|FR|Île-de-France|60
+Le Sap|48.894|0.338|FR|Normandy|60
+Les Bordes|46.981|1.974|FR|Centre-Val de Loire|60
+Lesjöfors|59.976|14.183|SE|Värmland|60
+Lesperon|43.970|-1.094|FR|New Aquitaine|59
 Leskovik|40.151|20.597|AL|Korçë County|59
+Les Mesnuls|48.756|1.845|FR|Île-de-France|59
+Les Éparres|45.536|5.295|FR|Auvergne-Rhône-Alpes|59
+Les Billaux|44.953|-0.237|FR|New Aquitaine|59
+Les Rairies|47.651|-0.206|FR|Pays de la Loire|59
+Les Eyzies-de-Tayac-Sireuil|44.936|1.013|FR|New Aquitaine|59
 Leśna Podlaska|52.133|23.028|PL|Lublin|59
+Les Villettes|45.235|4.183|FR|Auvergne-Rhône-Alpes|59
 Lestizza|45.957|13.142|IT|Friuli Venezia Giulia|59
+Les Mesneux|49.219|3.961|FR|Grand Est|59
+Les Verchers-sur-Layon|47.155|-0.296|FR|Pays de la Loire|59
+Lessy|49.119|6.096|FR|Grand Est|59
+Lesogorsk|55.098|43.936|RU|Nizhny Novgorod Oblast|59
+Les Ormes-sur-Voulzie|48.464|3.230|FR|Île-de-France|59
+Lesquielles-Saint-Germain|49.932|3.618|FR|Hauts-de-France|59
+Les Fougerêts|47.741|-2.213|FR|Brittany|59
+Les Ollières-sur-Eyrieux|44.804|4.614|FR|Auvergne-Rhône-Alpes|59
+Lesignana|44.685|10.893|IT|Emilia-Romagna|58
+Les Islettes|49.109|5.003|FR|Grand Est|58
+Les Ollières|45.978|6.181|FR|Auvergne-Rhône-Alpes|58
+Les Maillys|47.136|5.339|FR|Bourgogne-Franche-Comté|58
+Les Écrehou|49.300|-1.917|JE||58|f
+Les Écrins|44.922|6.359|FR|Provence-Alpes-Côte d'Azur|58|f
+Les Saintes|15.856|-61.610|GP|Guadeloupe|58|f
+Lesimano Island|-10.574|150.715|PG|Milne Bay Province|58|f
+Les Ayvelles|49.722|4.757|FR|Grand Est|58
+Lesíni|38.452|21.232|GR|West Greece|58
+Les Mazures|49.887|4.626|FR|Grand Est|58
+Lesdins|49.897|3.331|FR|Hauts-de-France|58
 Les|42.811|0.711|ES|Catalonia|58
+Le Saint|48.090|-3.562|FR|Brittany|57
+Les Trois-Pierres|49.550|0.417|FR|Normandy|57
+Les Verrières|46.904|6.480|CH|Neuchâtel|57
+Les Châtelliers-Châteaumur|46.855|-0.820|FR|Pays de la Loire|57
+Lesnoy|53.242|83.971|RU|Altai Krai|57
+Le Subdray|47.012|2.295|FR|Centre-Val de Loire|57
+Les Combes|47.067|6.550|FR|Bourgogne-Franche-Comté|57
+Les Écrennes|48.505|2.858|FR|Île-de-France|57
+Les Fontenelles|47.199|6.740|FR|Bourgogne-Franche-Comté|57
+Les Moëres|51.014|2.549|FR|Hauts-de-France|57
+Les Adrets|45.271|5.966|FR|Auvergne-Rhône-Alpes|57
+Les Gras|46.995|6.545|FR|Bourgogne-Franche-Comté|57
+Les Rues-des-Vignes|50.096|3.239|FR|Hauts-de-France|57
+Les Quatre-Routes-du-Lot|45.000|1.650|FR|Occitanie|57
+Les Alleuds|47.319|-0.408|FR|Pays de la Loire|57
+Leskovec|49.284|17.999|CZ|Zlín|56
+Les Olmes|45.883|4.516|FR|Auvergne-Rhône-Alpes|56
+Les Nouillers|45.931|-0.664|FR|New Aquitaine|56
 Lestijärvi|63.533|24.650|FI|Central Ostrobothnia|56
+Lescheroux|46.405|5.144|FR|Auvergne-Rhône-Alpes|56
+Les Angles|42.578|2.075|FR|Occitanie|56
+Les Haies|45.504|4.747|FR|Auvergne-Rhône-Alpes|56
+Les Neyrolles|46.142|5.633|FR|Auvergne-Rhône-Alpes|56
+Lestiac-sur-Garonne|44.693|-0.374|FR|New Aquitaine|56
+Les Avins|50.416|5.300|BE|Wallonia|56
+Les Mayons|43.313|6.358|FR|Provence-Alpes-Côte d'Azur|56
+Les Cars|45.681|1.072|FR|New Aquitaine|56
+les Preses|42.145|2.460|ES|Catalonia|56
+Les Sauvages|45.925|4.376|FR|Auvergne-Rhône-Alpes|56
+Les Aires|43.582|3.104|FR|Occitanie|56
+Lesnoye|44.941|34.953|UA|Crimea|56
+Les Baux-de-Breteuil|48.879|0.811|FR|Normandy|56
+Les Portes-en-Ré|46.250|-1.500|FR|New Aquitaine|56
+Lescheraines|45.713|6.105|FR|Auvergne-Rhône-Alpes|56
+Les Granges-Gontardes|44.417|4.764|FR|Auvergne-Rhône-Alpes|55
+Lesnice|49.884|16.941|CZ|Olomouc Region|55
+Les Hogues|49.426|1.397|FR|Normandy|55
+Les Mollettes|45.463|6.058|FR|Auvergne-Rhône-Alpes|55
+Leše|46.528|14.894|SI|Municipality of Prevalje|55
+Lesches|48.910|2.782|FR|Île-de-France|55
+Les Assions|44.421|4.174|FR|Auvergne-Rhône-Alpes|55
+Leș|46.965|21.840|RO|Bihor County|55
+Lešany|49.844|14.525|CZ|Central Bohemia|55
+Le Selve|40.774|14.781|IT|Campania|55
+Leskovec|46.383|15.633|SI|Municipality of Slovenska Bistrica|55
+Lessard-le-National|46.866|4.838|FR|Bourgogne-Franche-Comté|55
+Les Hermites|47.665|0.754|FR|Centre-Val de Loire|55
+Le Sel-de-Bretagne|47.900|-1.617|FR|Brittany|55
+Lésigny|46.849|0.766|FR|New Aquitaine|55
+Leština u Světlé|49.767|15.399|CZ|Vysocina|55
+Les Pujols|43.088|1.719|FR|Occitanie|55
+Lessac|46.069|0.675|FR|New Aquitaine|55
 Leskova Dolina|45.621|14.461|SI|Municipality of Loška Dolina|55
+Les Bordes-sur-Arize|43.105|1.370|FR|Occitanie|55
+Les Bulles|49.705|5.424|BE|Wallonia|55
+Les Touches-de-Périgny|45.908|-0.268|FR|New Aquitaine|55
+Les Hôpitaux-Neufs|46.778|6.372|FR|Bourgogne-Franche-Comté|55
+Les Écorces|47.216|6.797|FR|Bourgogne-Franche-Comté|55
+Les Essards|45.792|-0.759|FR|New Aquitaine|54
+Les Ardillats|46.179|4.541|FR|Auvergne-Rhône-Alpes|54
+Les Thilliers-en-Vexin|49.237|1.606|FR|Normandy|54
+Lesnoy|55.013|20.617|RU|Kaliningrad Oblast|54
+Les Aiguilles d'Arves|45.127|6.337|FR|Auvergne-Rhône-Alpes|54|f
+Les Augustins|15.840|-61.615|GP||54|f
+Les Cheneaux Islands|45.959|-84.325|US|Michigan|54|f
+Les Cornettes de Bise|46.333|6.785|FR|Auvergne-Rhône-Alpes|54|f
+Les Grands Moulins|45.407|6.199|FR|Auvergne-Rhône-Alpes|54|f
+Les Murakami Stadium|21.296|-157.819|US|Hawaii|54|f
+Les Rouies|44.867|6.267|FR|Auvergne-Rhône-Alpes|54|f
+Leshukonskoye Airport|64.893|45.730|RU|Arkhangelskaya|54|f
+Lesjaskogsvatnet|62.212|8.448|NO|Innlandet|54|f
+Leskov Island|-66.600|85.167|AQ||54|f
+Lesner Bridge|36.907|-76.092|US|Virginia|54|f
+Lestijärvi|63.518|24.786|FI|Central Ostrobothnia|54|f
+Les Clefs|45.861|6.329|FR|Auvergne-Rhône-Alpes|54
+Les Ulmes|47.220|-0.179|FR|Pays de la Loire|54
+Leșnic|45.914|22.741|RO|Hunedoara County|54
 Leshnjë|40.537|20.313|AL|Berat County|54
 Lesegno|44.401|7.969|IT|Piedmont|53
+Le Soliat|46.929|6.725|CH|Vaud|49|f
+Les Grandes Jorasses|45.870|6.987|IT|Aosta Valley|49|f
+Leskinen|64.332|27.773|FI|Kainuu|49|f
+Leskov Island|-56.667|-28.167|GS||49|f
+Leslie Peak|-68.000|56.533|AQ||49|f
+Le Sénépy|44.908|5.721|FR|Auvergne-Rhône-Alpes|40|f
+Le Sérac|46.326|7.330|CH|Valais|40|f
+Le Storkenkopf|47.905|7.082|FR|Grand Est|40|f
+Le Sueur Municipal Airport|44.440|-93.913|US|Minnesota|40|f
+Les Diablons|46.142|7.671|CH|Valais|40|f
+Les Grandes Otanes|46.020|6.981|CH|Valais|40|f
+Les Jumelles|46.352|6.814|CH|Valais|40|f
+Les Perrons|46.057|6.914|FR|Auvergne-Rhône-Alpes|40|f
+Les Pléiades|46.483|6.910|CH|Vaud|40|f
+Leschi Park|47.601|-122.289|US|Washington|40|f
+Lesingey Round|50.118|-5.564|GB|England|40|f
+Leslie Canyon National Wildlife Refuge|31.637|-109.482|US|Arizona|40|f
+Lessard Lake|53.785|-114.653|CA|Alberta|40|f
+Lesser Kuril Ridge|43.653|146.523|RU|Sakhalin Oblast|40|f
+Lesser Slave Lake Provincial Park|55.433|-114.819|CA|Alberta|40|f
+Lester Peak|-79.817|-83.700|AQ||40|f
 Les Clées|46.732|6.463|CH|Vaud|0
 Les Franqueses del Vallès|41.619|2.298|ES|Catalonia|0
 les Llosses|42.150|2.117|ES|Catalonia|0
 Les Mamelles|-4.654|55.478|SC||0|r
+Leshan|29.593|115.474|CN|Jiangxi|0
 Leshou|38.190|116.120|CN|Hebei|0
 Lesja|62.118|8.864|NO|Innlandet|0
 Lesky|49.331|32.220|UA|Cherkasy|0
 Lessel|7.127|9.020|NG|Benue State|0
+Lesuhe|33.203|106.036|CN|Shaanxi|0

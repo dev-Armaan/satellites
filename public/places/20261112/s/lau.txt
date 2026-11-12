@@ -45,10 +45,12 @@ Laurens|34.499|-82.014|US|South Carolina|79
 Launceston|50.637|-4.360|GB|England|79
 Laufenburg|47.565|8.060|DE|Baden-Wurttemberg|79
 Lauwe|50.795|3.187|BE|Flanders|78
+Lauteraarhorn|46.583|8.128|CH|Bern|78|f
 Laurel|27.144|-82.462|US|Florida|78
 Laurentino|-27.217|-49.733|BR|Santa Catarina|78
 Lauchringen|47.627|8.314|DE|Baden-Wurttemberg|77
 Laughlin|35.168|-114.573|US|Nevada|77
+Lausche|50.849|14.647|DE|Saxony|77|f
 Laurel|45.669|-108.772|US|Montana|77
 Laufen|47.936|12.929|DE|Bavaria|77
 Laurel Hill|38.717|-77.237|US|Virginia|77
@@ -88,6 +90,9 @@ Lauris|43.747|5.313|FR|Provence-Alpes-Côte d'Azur|70
 Lauben|47.783|10.300|DE|Bavaria|70
 La Unión|17.983|-101.806|MX|Guerrero|70
 Lauterbach/Schwarzwald|48.230|8.342|DE|Baden-Wurttemberg|70
+La Unión Airport|15.033|-86.692|HN|Olancho Department|70|f
+Laurens County Airport|34.508|-81.948|US|South Carolina|70|f
+Lauwersmeer|53.380|6.172|NL||70|f
 Laug|15.047|120.751|PH|Central Luzon|70
 Lautem|-8.364|126.904|TL|Lautém|70
 La Unión|14.814|-88.408|HN|Lempira Department|70
@@ -96,6 +101,8 @@ Laurel Lake|39.340|-75.030|US|New Jersey|70
 Laurencekirk|56.833|-2.465|GB|Scotland|69
 Lauro|40.880|14.630|IT|Campania|69
 Laupen|46.902|7.240|CH|Bern|69
+Laukøya|70.087|20.844|NO|Troms|69|f
+Laurie River Airport|56.250|-101.303|CA|Manitoba|69|f
 Lauperswil|46.966|7.742|CH|Bern|69
 Laurieston|55.996|-3.748|GB|Scotland|69
 Lauterbrunnen|46.593|7.909|CH|Bern|68
@@ -106,6 +113,8 @@ La Unión|15.717|-87.000|HN|Atlántida Department|68
 Laurel Park|35.314|-82.493|US|North Carolina|67
 Lauterecken|49.650|7.593|DE|Rheinland-Pfalz|67
 Lauterbourg|48.975|8.178|FR|Grand Est|67
+Launch and Landing Facility|28.599|-80.684|US|Florida|67|f
+Lausanne Airport|46.544|6.617|CH|Vaud|67|f
 Lau Fau Shan|22.283|113.934|HK|Islands|67
 La Uvilla|18.362|-71.210|DO|Baoruco Province|67
 Lauenbrück|53.200|9.564|DE|Lower Saxony|67
@@ -120,6 +129,10 @@ Laurium|47.237|-88.443|US|Michigan|66
 Laureles|4.259|-75.323|CO|Tolima Department|66
 Laurel Springs|39.820|-75.006|US|New Jersey|66
 Laurenzana|40.459|15.971|IT|Basilicate|65
+Laughlin/Bullhead International Airport|35.165|-114.559|US|Arizona|65|f
+Laurel Mountain|37.580|-118.891|US|California|65|f
+Laurel Run Dam|40.385|-78.916|US|Pennsylvania|65|f
+Lauvøya|63.930|9.931|NO|Trøndelag|65|f
 La Uvita|6.321|-72.563|CO|Boyacá|65
 Laupersdorf|47.313|7.655|CH|Solothurn|64
 Lautenbach|47.941|7.158|FR|Grand Est|64
@@ -134,6 +147,7 @@ Laughlin Air Force Base|29.357|-100.784|US|Texas|64
 Laura|7.147|171.037|MH|Majuro Atoll|64
 Laujar de Andarax|36.995|-2.890|ES|Andalusia|64
 Lauenhagen|52.355|9.206|DE|Lower Saxony|64
+Lausitzer Gebirge|50.750|14.833|CZ||63|f
 La Unión|17.848|-92.496|MX|Tabasco|63
 Lauro|41.264|13.891|IT|Campania|63
 Laudenbach|49.746|9.176|DE|Bavaria|63
@@ -154,6 +168,8 @@ Laupāhoehoe|19.987|-155.237|US|Hawaii|61
 Lauter|49.973|10.788|DE|Bavaria|61
 La Unidad Huitzizilapan|19.425|-99.395|MX|México|61
 Lauzacco|45.981|13.280|IT|Friuli Venezia Giulia|61
+Laucala Island|-16.758|-179.683|FJ|Northern|61|f
+Lauvhøi|61.728|8.458|NO|Innlandet|61|f
 La Union|31.951|-106.662|US|New Mexico|61
 La Union|17.899|-88.881|MX|Quintana Roo|61
 Laubach|50.233|7.073|DE|Rheinland-Pfalz|61
@@ -165,15 +181,122 @@ Lauw|50.739|5.413|BE|Flanders|60
 Lauchröden|50.994|10.157|DE|Thuringia|60
 Lautenbachzell|47.941|7.146|FR|Grand Est|60
 Laugar|65.722|-17.374|IS|Northeast|60
+Lauzerville|43.556|1.565|FR|Occitanie|60
+Lauw|47.756|7.018|FR|Grand Est|60
+Laughton en le Morthen|53.388|-1.223|GB|England|60
+Laurel|42.429|-97.090|US|Nebraska|59
+Laurie|38.199|-92.834|US|Missouri|59
+La Unión|15.056|-92.511|MX|Chiapas|59
+Lauerz|47.033|8.583|CH|Schwyz|59
+La Unión|16.821|-99.125|MX|Guerrero|59
+Laumersheim|49.554|8.235|DE|Rheinland-Pfalz|59
 Lauriano|45.160|7.995|IT|Piedmont|59
+Laurac-en-Vivarais|44.509|4.290|FR|Auvergne-Rhône-Alpes|59
+Laufersweiler|49.896|7.305|DE|Rheinland-Pfalz|59
+Laubenheim|49.917|7.900|DE|Rheinland-Pfalz|59
+Laurel Park|37.643|-77.499|US|Virginia|59
+La Unión|18.105|-95.466|MX|Veracruz|58
+La Unión|18.896|-99.250|MX|Morelos|58
+La Unión|15.133|-88.550|HN|Santa Bárbara Department|58
+Laugharne|51.771|-4.463|GB|Wales|58
+Lauzun|44.630|0.460|FR|New Aquitaine|58
+Lau Group|-18.333|-178.500|FJ||58|f
+Lauer,nordre|59.011|11.014|NO|Østfold|58|f
+Lauerzersee|47.033|8.606|CH||58|f
+Lauff Island|-73.050|-126.133|AQ||58|f
+Lauhanvuoren Kansallispuisto|62.133|22.167|FI|South Ostrobothnia|58|f
+Launceston Airport|-41.545|147.214|AU|Tasmania|58|f
+Laupheim Air Base|48.217|9.917|DE|Baden-Wurttemberg|58|f
+Laura Airport|-15.561|144.452|AU|Queensland|58|f
+Laut Strait|-3.416|116.050|ID|South Kalimantan|58|f
+Lautaro Island|-64.824|-63.098|AQ||58|f
+Lauterbacher Knochen|50.691|13.167|DE|Saxony|58|f
+Lauvknubben|61.964|8.767|NO|Innlandet|58|f
+Laurenan|48.199|-2.535|FR|Brittany|58
 Laurito|40.169|15.407|IT|Campania|57
+Laureles|-27.250|-57.459|PY|Ñeembucú Department|57
+La Unión 1ra. Sección (Amatillo)|18.435|-93.314|MX|Tabasco|57
+La Unión|18.412|-92.882|MX|Tabasco|57
+Laura|-33.185|138.302|AU|South Australia|57
+Laurel Park|36.689|-79.801|US|Virginia|57
+Lauterbach|51.067|10.350|DE|Thuringia|56
+Laubisser|47.448|8.477|CH|Zurich|56
+Lautersheim|49.587|8.098|DE|Rheinland-Pfalz|56
+Lauschied|49.733|7.617|DE|Rheinland-Pfalz|56
+Laurière|46.076|1.475|FR|New Aquitaine|56
+Lauterach|48.256|9.580|DE|Baden-Wurttemberg|55
+Launiupoko|20.850|-156.638|US|Hawaii|55
+Lauzach|47.614|-2.545|FR|Brittany|55
+Laurel Hill|30.966|-86.460|US|Florida|55
+Laugnac|44.307|0.606|FR|New Aquitaine|55
+La Unión Berros|19.394|-100.024|MX|México|55
+Laupen|47.265|8.929|CH|Zurich|55
+La Unión|19.912|-97.474|MX|Puebla|55
+Launois-sur-Vence|49.653|4.540|FR|Grand Est|55
+Laudes|46.679|10.532|IT|Trentino-Alto Adige|55
+Laucha|50.926|10.543|DE|Thuringia|55
+Laureles y Góngora (El Limón)|21.655|-105.386|MX|Nayarit|54
+Laura|-15.522|144.199|AU|Queensland|54
+Laucala Island Airport|-16.748|-179.667|FJ|Northern|54|f
+Laudachsee|47.879|13.853|AT|Upper Austria|54|f
+Laughery Island|38.994|-84.841|US|Kentucky|54|f
+Laughing Bird Cay|16.433|-88.200|BZ|Stann Creek|54|f
+Launceston Castle|50.637|-4.362|GB|England|54|f
+Laurel Lake|42.094|-74.774|US|New York|54|f
+Laurel Mountain|44.923|-123.573|US|Oregon|54|f
+Laurel River Lake|36.964|-84.220|US|Kentucky|54|f
+Laurie Island|-60.733|-44.616|AQ||54|f
+Laurinburg-Maxton Airport|34.795|-79.369|US|North Carolina|54|f
+Lauvøya|64.516|10.869|NO|Trøndelag|54|f
+Laurelville|39.473|-82.739|US|Ohio|54
+Lau-Balagnas|42.994|-0.092|FR|Occitanie|54
+Laubsdorf|51.674|14.442|DE|Brandenburg|54
+Laurel|39.501|-85.186|US|Indiana|54
+Laurel Run|41.222|-75.863|US|Pennsylvania|54
+Laufeld|50.083|6.867|DE|Rheinland-Pfalz|54
 Lauvsnes|64.501|10.894|NO|Trøndelag|53
+Lautzenbrücken|50.674|7.964|DE|Rheinland-Pfalz|51
+Lautzenhausen|49.933|7.267|DE|Rheinland-Pfalz|51
+Laurenburg|50.332|7.911|DE|Rheinland-Pfalz|50
 Lauco|46.424|12.932|IT|Friuli Venezia Giulia|49
+Lau Lagoon|-8.401|160.815|SB||49|f
+Lauenensee|46.395|7.332|CH|Bern|49|f
+Laufbacher Eck|47.393|10.381|DE|Bavaria|49|f
+Laugharne Castle|51.769|-4.462|GB|Wales|49|f
+Laura Bay Conservation Park|-32.242|133.832|AU|South Australia|49|f
+Laurel Airport|8.440|-82.908|CR|Puntarenas Province|49|f
+Laurens Peninsula|-53.000|73.300|HM||49|f
+Lauriston Reservoir|-37.265|144.393|AU|Victoria|49|f
+Lauswolt|53.058|6.095|NL|Friesland|49|f
+Lauvnesvatnet|59.971|9.570|NO|Buskerud|49|f
+Lautert|50.169|7.841|DE|Rheinland-Pfalz|48
 Laureana Cilento|40.301|15.039|IT|Campania|45
+Lauperath|50.083|6.333|DE|Rheinland-Pfalz|41
+Lauberhorn|46.592|7.948|CH|Bern|40|f
+Lauchlin Lake|45.652|-61.127|CA|Nova Scotia|40|f
+Lauderdale Lakes|42.771|-88.568|US|Wisconsin|40|f
+Laugardalsvöllur|64.143|-21.879|IS|Capital Region|40|f
+Laugarvatn|64.210|-20.711|IS|South|40|f
+Launt Pond|42.120|-75.072|US|New York|40|f
+Laurel Airport|38.541|-75.592|US|Delaware|40|f
+Laurel Creek Covered Bridge|37.561|-80.626|US|West Virginia|40|f
+Laurel Hill|40.228|-79.101|US|Pennsylvania|40|f
+Laurel Lake|44.313|-65.005|CA|Nova Scotia|40|f
+Laurel Lake|40.040|-77.270|US|Pennsylvania|40|f
+Laurel Lake|43.782|-110.742|US|Wyoming|40|f
+Laurel Lake Wildlife Management Area|37.837|-82.231|US|West Virginia|40|f
+Laurel Municipal Airport|45.701|-108.759|US|Montana|40|f
+Laurel Park|35.091|-92.457|US|Arkansas|40|f
+Lauriston Castle|55.971|-3.279|GB|Scotland|40|f
+Lauteraar Rothörner|46.567|8.154|CH|Bern|40|f
 Lauregno|46.454|11.062|IT|Trentino-Alto Adige|38
 La Unión|-1.708|-79.394|EC|Los Ríos|0
 La Unión|0.810|-79.866|EC|Esmeraldas|0
 La Unión|8.216|-67.767|VE|Barinas|0
 La-Un|10.116|98.750|TH|Ranong province|0
+Laubach|50.050|7.500|DE|Rheinland-Pfalz|0
 Lauke|2.584|96.041|ID|Aceh|0
+Laukrurung|-8.639|116.476|ID|West Nusa Tenggara|0
 Laurel|-1.785|-79.909|EC|Guayas|0
+Lautenbach|48.521|8.115|DE|Baden-Wurttemberg|0
+Lauterbach|49.184|6.744|DE|Saarland|0

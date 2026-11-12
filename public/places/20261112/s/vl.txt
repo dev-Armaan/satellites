@@ -20,12 +20,14 @@ Vlasikha|53.297|83.574|RU|Altai Krai|73
 Vlasenica|44.182|18.941|BA|Srpska|73
 Vlădeni|47.417|27.333|RO|Iași County|73
 Vliedberg|51.690|5.190|NL|North Brabant|73
+Vlahina Planina|41.878|22.901|BG||72|f
 Vlamertinge|50.855|2.820|BE|Flanders|71
 Vlokhoven|51.472|5.483|NL|North Brabant|71
 Vlăsineşti|47.933|26.883|RO|Botoșani County|71
 Vlezenbeek|50.808|4.232|BE|Flanders|71
 Vladislavovka|45.167|35.373|UA|Crimea|70
 Vlčany|48.031|17.952|SK|Nitra Region|70
+Vlampouros|34.991|32.348|CY|Pafos|70|f
 Vlimmeren|51.295|4.781|BE|Flanders|70
 Vlădeni|44.876|25.773|RO|Dâmbovița County|69
 Vlčnov|49.010|17.582|CZ|Zlín|69
@@ -45,6 +47,7 @@ Vliermaal|50.841|5.429|BE|Flanders|66
 Vlagtwedde|53.028|7.108|NL|Groningen|66
 Vlodrop|51.133|6.076|NL|Limburg|65
 Vladimirci|44.615|19.785|RS|Central Serbia|65
+Vlaška Gromila|44.290|17.668|BA|Federation of B&H|65|f
 Vledder|52.856|6.208|NL|Drenthe|65
 Vladimirskoye|56.820|45.118|RU|Nizhny Novgorod Oblast|65
 Vladychna|48.427|26.340|UA|Chernivtsi|65
@@ -53,6 +56,7 @@ Vlachovo Březí|49.081|13.958|CZ|South Bohemian Region|64
 Vlădeni-Deal|47.523|26.873|RO|Botoșani County|64
 Vladychen|45.564|28.608|UA|Odesa|64
 Vlachovice|49.124|17.940|CZ|Zlín|64
+Vlhošť|50.602|14.454|CZ|Liberec Region|63|f
 Vlycháda|38.027|23.437|GR|Attica|63
 Vlajkovac|45.072|21.199|RS|Vojvodina|63
 Vladimirovka|50.300|127.633|RU|Amur Oblast|63
@@ -62,12 +66,48 @@ Vladimirovo|41.710|22.793|MK|Berovo|62
 Vladimirovka|45.148|33.576|UA|Crimea|62
 Vladislav|49.210|15.988|CZ|Vysocina|62
 Vladslo|51.046|2.916|BE|Flanders|62
+Vladivostok International Airport|43.399|132.148|RU|Primorye|61|f
+Vlašic|44.303|17.666|BA|Federation of B&H|61|f
+Vlaška Planina|42.977|22.599|RS||61|f
 Vlierden|51.445|5.758|NL|North Brabant|61
 Vlăsceni|44.585|25.599|RO|Dâmbovița County|61
 Vlkoš|48.990|17.164|CZ|South Moravian|60
 Vlăduleni|44.889|23.237|RO|Gorj County|60
+Vladnic|46.445|27.138|RO|Bacău County|59
 Vladislavci|45.459|18.574|HR|County of Osijek-Baranja|59
+Vlaha|46.697|23.455|RO|Cluj County|59
+Vladimirovka|54.174|100.309|RU|Irkutsk Oblast|59
+Vlădeni|45.767|25.372|RO|Brașov County|59
+Vlachogiánni|39.742|22.088|GR|Thessaly|59
+Vladislavovka|45.469|34.591|UA|Crimea|58
+Vlasina Lake|42.710|22.341|RS||58|f
+Vlieland|53.274|4.980|NL|Friesland|58|f
+Vlasatice|48.934|16.484|CZ|South Moravian|58
+Vlachokerasiá|37.368|22.377|GR|Peloponnese|58
+Vlčnov|49.579|17.955|CZ|Moravian-Silesian Region|57
+Vlkoš|49.396|17.419|CZ|Olomouc Region|57
+Vladimir|44.832|23.567|RO|Gorj County|57
+Vladimirskiy|50.647|46.266|RU|Saratov Oblast|57
+Vlachópoulo|37.032|21.792|GR|Peloponnese|57
+Vlasivka|50.166|34.318|UA|Poltava|56
+Vlkaneč|49.806|15.403|CZ|Central Bohemia|55
+Vlăduceni|45.137|24.251|RO|Vâlcea County|55
+Vlahii|44.203|27.867|RO|Constanța County|55
+Vlașin|44.100|25.858|RO|Giurgiu County|55
+Vlădeni|47.927|26.611|RO|Botoșani County|55
+Vlashuk|40.854|19.902|AL|Berat County|55
+Vlacháta|38.123|20.626|GR|Ionian Islands|54
+Vlasulja|43.224|18.699|BA||54|f
+Vlora International Airport|40.606|19.429|AL|Vlorë County|54|f
+Vlăduleni|44.257|24.327|RO|Olt|54
+Vlist|51.980|4.819|NL|South Holland|54
+Vlastějovice|49.731|15.175|CZ|Central Bohemia|54
+Vlah|43.285|18.431|BA|Srpska|49|f
+Vly Mountain|43.336|-74.364|US|New York|49|f
 Vlaka|42.999|17.524|HR|Dubrovnik-Neretva|49
+Vleeshuis|51.223|4.400|BE|Flanders|40|f
+Vleigh Playground|40.730|-73.816|US|New York|40|f
+Vly Mountain|42.245|-74.446|US|New York|40|f
 Vladičin Han|42.708|22.063|RS|Central Serbia|0
 Vlasikha|55.684|37.197|RU|Moscow Oblast|0
 Vlasotince|42.967|22.134|RS|Central Serbia|0

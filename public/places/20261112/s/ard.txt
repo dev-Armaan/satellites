@@ -7,6 +7,7 @@ Ardakān|32.310|54.017|IR|Yazd Province|95
 Ardmore|34.174|-97.144|US|Oklahoma|88
 Ardahan|41.109|42.702|TR|Ardahan|87
 Ardon|43.179|44.295|RU|North Ossetia–Alania|85
+Ardabil Airport|38.326|48.424|IR|Ardabil Province|85|f
 Ardea|41.607|12.542|IT|Lazio|85
 Ardestān|33.379|52.370|IR|Isfahan|84
 Ārdaḵān|30.260|51.985|IR|Fars|83
@@ -24,12 +25,14 @@ Ardāq|36.053|49.824|IR|Qazvin Province|74
 Ardee|53.860|-6.541|IE|Leinster|74
 Ardsley|41.011|-73.844|US|New York|73
 Ardres|50.858|1.982|FR|Hauts-de-France|73
+Ardasier Reef|7.617|113.933|||72|f
 Ardıçlı|36.730|36.518|TR|Hatay|72
 Ardore Marina|38.167|16.200|IT|Calabria|71
 Ardino|41.583|25.134|BG|Kardzhali|71
 Ardentes|46.742|1.834|FR|Centre-Val de Loire|71
 Ardenno|46.167|9.647|IT|Lombardy|70
 Ardon’|52.735|32.309|RU|Bryansk Oblast|69
+Ardnamurchan|56.717|-6.000|GB|Scotland|69|f
 Ardales|36.878|-4.847|ES|Andalusia|68
 Ardeoani|46.533|26.600|RO|Bacău County|68
 Arden|56.769|9.862|DK|North Denmark|68
@@ -51,8 +54,51 @@ Ardole San Marino|45.156|10.105|IT|Lombardy|61
 Ardersier|57.567|-4.038|GB|Scotland|61
 Ardagger Stift|48.150|14.833|AT|Lower Austria|61
 Ardmore|48.639|-123.469|CA|British Columbia|60
+Arduzel|47.448|23.267|RO|Maramureş|60
+Ardıçkaya|36.553|32.750|TR|Karaman|60
 Ardauli|40.084|8.912|IT|Sardinia|60
+Árdassa|40.477|21.634|GR|West Macedonia|59
+Ardon|47.779|1.874|FR|Centre-Val de Loire|59
+Ardleigh|51.926|0.985|GB|England|59
+Ardfinnan|52.312|-7.875|IE|Munster|59
+Ardan|47.030|24.672|RO|Bistrița-Năsăud County|59
+Ardoix|45.187|4.736|FR|Auvergne-Rhône-Alpes|58
+Ardley Island|-62.213|-58.933|AQ||58|f
+Ardmore Airport|-37.030|174.973|NZ|Auckland|58|f
+Ardmore Downtown Executive Airport|34.151|-97.121|US|Oklahoma|58|f
+Ardmore Municipal Airport|34.302|-97.019|US|Oklahoma|58|f
 Ardning|47.591|14.364|AT|Styria|58
+Ardillières|46.059|-0.892|FR|New Aquitaine|58
+Ardfert|52.323|-9.778|IE|Munster|57
+Ardala|58.361|13.336|SE|Västra Götaland|57
+Ardara|54.764|-8.408|IE|Ulster|57
+Ārdaheh|36.020|50.783|IR|Alborz Province|57
+Ardagger Markt|48.179|14.825|AT|Lower Austria|56
 Ardón|42.436|-5.560|ES|Castille and León|56
 Ardara|40.621|8.810|IT|Sardinia|56
+Ardáni|39.632|21.786|GR|Thessaly|56
+Ardes|45.404|3.126|FR|Auvergne-Rhône-Alpes|55
+Ardalān|38.019|47.233|IR|East Azerbaijan|55
+Ardu|59.101|25.371|EE|Harjumaa|55
+Ardrahan|53.157|-8.806|IE|Connacht|55
+Ardab’yevo|55.064|41.657|RU|Ryazan Oblast|55
+Ardbreck Castle|58.166|-4.994|GB|Scotland|54|f
+Ardennes Canal|49.442|4.047|FR|Hauts-de-France|54|f
+Arderin|53.041|-7.654|IE|Leinster|54|f
+Ardoukôba|11.611|42.476|DJ|Tadjourah|54|f
+Ardlethan|-34.357|146.902|AU|New South Wales|54
 Ardore|38.192|16.167|IT|Calabria|53
+Ardderry Lough|53.450|-9.517|IE|Connacht|49|f
+Ardery Island|-66.371|110.450|AQ||49|f
+Ardmore Airport|34.979|-86.883|US|Alabama|49|f
+Ardotalia|53.452|-1.988|GB|England|49|f
+Ardtornish Bay|56.517|-5.733|GB|Scotland|49|f
+Arda Peak|-62.740|-60.297|AQ||40|f
+Arden Trolley Museum|40.206|-80.253|US|Pennsylvania|40|f
+Ardeth Lake|38.051|-119.692|US|California|40|f
+Ardeth Lake|43.965|-115.014|US|Idaho|40|f
+Ardingly Reservoir|51.048|-0.103|GB|England|40|f
+Ardley|51.942|-1.217|GB|England|40|f
+Ardloughnabrackbaddy|55.069|-8.054|IE|Ulster|40|f
+Ardoch National Wildlife Refuge|48.258|-97.322|US|North Dakota|40|f
+Ardirejo|-8.124|112.573|ID|East Java|0

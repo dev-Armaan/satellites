@@ -1,7 +1,7 @@
 Sindh|26.133|68.767|PK||147|r
 Singapore|1.367|103.800|SG||136|c
 Singapore|1.290|103.850|SG||135
-Sinaloa|25.000|-107.500|MX||127|r
+Sinaloa|25.000|-107.500|MX||128|r
 Singida|-5.750|34.667|TZ||114|r
 Sinjhoro|26.030|68.809|PK|Sindh|111
 Sinŭiju|40.101|124.398|KP|P'yŏngan-bukto|109
@@ -26,6 +26,7 @@ Sindhnūr|15.770|76.756|IN|Karnataka|98
 Sint-Niklaas|51.165|4.144|BE|Flanders|97
 Sinnar|19.845|73.999|IN|Maharashtra|96
 Sindelfingen|48.700|9.017|DE|Baden-Wurttemberg|96
+Singapore Changi Airport|1.355|103.990|SG||95|f
 Sinan|34.826|126.109|KR|Jeollanam-do|95
 Singaparna|-7.351|108.111|ID|West Java|94
 Singen|47.759|8.840|DE|Baden-Wurttemberg|94
@@ -46,6 +47,7 @@ Singojuruh|-8.317|114.233|ID|East Java|89
 Sinkassé|11.104|0.009|TG|Savanes|89
 Sintra|38.801|-9.378|PT|Lisbon|88
 Singāpur|17.470|78.126|IN|Telangana|88
+Sintra National Palace|38.798|-9.391|PT|Lisbon|88|f
 Sinngu|16.913|96.097|MM|Yangon|87
 Sintra-Nema|11.862|-15.597|GW|Bissau|87
 Sindi|20.742|78.587|IN|Maharashtra|86
@@ -107,6 +109,7 @@ Siniscola|40.573|9.697|IT|Sardinia|78
 Sinchu Balla|13.600|-15.033|GM|Central River|78
 Sinchu Sorry|13.388|-16.686|GM|Western|78
 Sint-Amands|51.056|4.210|BE|Flanders|78
+Sindal Airport|57.503|10.227|DK|North Denmark|78|f
 Sîngera|46.916|28.967|MD|Chișinău Municipality|77
 Sindou|10.667|-5.167|BF|Cascades Region|77
 Sinzing|49.000|12.033|DE|Bavaria|77
@@ -126,6 +129,8 @@ Singair|23.788|90.165|BD|Dhaka Division|76
 Sinanpaşa|38.744|30.243|TR|Afyonkarahisar Province|75
 Sint Pancras|52.660|4.783|NL|North Holland|75
 Sint-Kwintens-Lennik|50.804|4.155|BE|Flanders|75
+Sin Cowe Island|9.883|114.317|||75|f
+Singhi Kangri|35.598|76.983|PK|Gilgit-Baltistan|75|f
 Sinton|28.037|-97.509|US|Texas|75
 Sindangan|8.238|122.997|PH|Zamboanga Peninsula|75
 Sinnersdorf|51.024|6.818|DE|North Rhine-Westphalia|75
@@ -141,6 +146,7 @@ Sinilian First|15.693|120.459|PH|Central Luzon|74
 Sint Annaparochie|53.276|5.657|NL|Friesland|74
 Sint-Antonius|51.267|4.639|BE|Flanders|74
 Sinayawan|6.713|125.309|PH|Davao Region|74
+Sinmi Island|39.560|124.888|KP|P'yŏngan-bukto|73|f
 Sint-Lambrechts-Herk|50.899|5.308|BE|Flanders|73
 Sint-Pauwels|51.194|4.096|BE|Flanders|73
 Singleton Heights|-32.542|151.161|AU|New South Wales|73
@@ -157,6 +163,7 @@ Sindi|58.401|24.668|EE|Pärnumaa|72
 Şintereag|47.183|24.300|RO|Bistrița-Năsăud County|72
 Sinyavskoye|47.277|39.278|RU|Rostov|71
 Sinisian|13.916|120.844|PH|Calabarzon|71
+Siniátsiko|40.405|21.565|GR|West Macedonia|71|f
 Singrobo|6.093|-4.921|CI|Lagunes District|71
 Singac|40.887|-74.241|US|New Jersey|71
 Sintea Mare|46.517|21.600|RO|Arad County|71
@@ -170,6 +177,8 @@ Sinjë|40.647|19.869|AL|Berat County|71
 Sint Anthonis|51.627|5.882|NL|North Brabant|70
 Sinubong|8.068|125.931|PH|Caraga|70
 Sinnamary|5.377|-52.957|GF|Guyane|70
+Siniolchu|27.750|88.317|IN|Sikkim|70|f
+Sinjido|34.334|126.838|KR|Jeollanam-do|70|f
 Sinait|17.866|120.458|PH|Ilocos|70
 Sinegor'ye|62.088|150.522|RU|Magadan Oblast|70
 Sineu|39.643|3.010|ES|Balearic Islands|70
@@ -186,6 +195,11 @@ Sint Odiliënberg|51.143|6.000|NL|Limburg|69
 Sinala|13.806|120.975|PH|Calabarzon|69
 Singouiné|7.161|-7.882|CI|Montagnes|69
 Sint-Martens-Bodegem|50.862|4.213|BE|Flanders|69
+Sincil Bank|53.218|-0.541|GB|England|69|f
+Sindo|37.527|126.456|KR|Incheon|69|f
+Singapore Strait|1.232|103.941|SG||69|f
+Sinop Airport|42.021|35.081|TR|Sinop|69|f
+Sinopah Mountain|48.463|-113.412|US|Montana|69|f
 Sinigo|46.635|11.179|IT|Trentino-Alto Adige|68
 Sinyéale|7.373|-3.066|CI|Zanzan District|68
 Sinonoc|8.310|123.846|PH|Northern Mindanao|68
@@ -207,6 +221,8 @@ Sint-Baafs-Vijve|50.907|3.391|BE|Flanders|67
 Sinarubai|4.838|114.875|BN|Brunei-Muara District|67
 Singani|-11.848|43.317|KM|Grande Comore|67
 Sinait|15.537|120.585|PH|Central Luzon|67
+Sinclair Island|48.620|-122.677|US|Washington|67|f
+Sinseonbong|38.241|128.441|KR|Gangwon-do|67|f
 Sinubong|7.028|121.925|PH|Zamboanga Peninsula|67
 Sintești|44.300|26.121|RO|Ilfov|67
 Sinceny|49.596|3.247|FR|Hauts-de-France|66
@@ -214,11 +230,15 @@ Sint Philipsland|51.617|4.165|NL|Zeeland|66
 Sint-Lievens-Esse|50.857|3.888|BE|Flanders|66
 Sinopoli|38.263|15.877|IT|Calabria|66
 Sint Maarten|52.773|4.746|NL|North Holland|66
+Sint Eustatius|17.492|-62.979|BQ||66|r
 Sint-Joris-Weert|50.802|4.653|BE|Flanders|66
 Sint-Joris|51.127|3.365|BE|Flanders|66
 Singhofen|50.274|7.833|DE|Rheinland-Pfalz|66
 Sint-Martens-Lierde|50.804|3.825|BE|Flanders|66
 Sint-Ulriks-Kapelle|50.879|4.219|BE|Flanders|65
+Sinbul-san|35.533|129.050|KR|Ulsan|65|f
+Singapore Botanic Gardens|1.310|103.816|SG||65|f
+Sintra Air Base|38.831|-9.339|PT|Lisbon|65|f
 Sindia|40.295|8.657|IT|Sardinia|65
 Sindihui|17.005|-97.351|MX|Oaxaca|65
 Sinanköy|37.862|40.993|TR|Diyarbakır Province|65
@@ -229,6 +249,11 @@ Sint-Agatha-Rode|50.786|4.631|BE|Flanders|64
 Sint Jacobiparochie|53.273|5.604|NL|Friesland|64
 Şincai|46.650|24.383|RO|Mureș County|64
 Sint-Maria-Horebeke|50.839|3.688|BE|Flanders|63
+Sin’gye-sa|38.676|128.175|KP|Kangwŏn-do|63|f
+Singatse Range|39.025|-119.273|US|Nevada|63|f
+Singkep Dabo Airport|-0.482|104.581|ID|Riau Islands|63|f
+Sinheungsa|38.176|128.485|KR|Gangwon-do|63|f
+Sint Michielsgestel Concentration Camp|51.641|5.353|NL|North Brabant|63|f
 Șinca Nouă|45.695|25.243|RO|Brașov County|63
 Sint-Pieters-Kapelle|50.708|3.990|BE|Flanders|63
 Sint-Martens|50.839|4.924|BE|Flanders|63
@@ -244,8 +269,9 @@ Sint Jansklooster|52.678|6.006|NL|Overijssel|62
 Sinitsyno|45.239|35.247|UA|Crimea|61
 Sint-Pieters-Rode|50.932|4.822|BE|Flanders|61
 Sinapan|18.535|-95.293|MX|Veracruz|61
+Sindhri Airport|25.683|69.072|PK|Sindh|61|f
+Sinjajevina|42.959|19.334|ME||61|f
 Sint-Jan-in-Eremo|51.272|3.581|BE|Flanders|61
-Sint Eustatius|17.492|-62.979|BQ||61|r
 Sint-Martens-Leerne|51.016|3.581|BE|Flanders|61
 Sindelsdorf|47.725|11.333|DE|Bavaria|60
 Sinaloa|15.893|-92.129|MX|Chiapas|60
@@ -253,36 +279,185 @@ Sint-Jan|50.865|2.905|BE|Flanders|60
 Sinești|44.468|24.666|RO|Olt|60
 Sinahuisa|26.912|-109.438|MX|Sonora|60
 Sint Laurens|51.528|3.603|NL|Zeeland|60
+Sinquerim|15.504|73.769|IN|Goa|60
+Sint Hubert|51.678|5.808|NL|North Brabant|60
 Sinabelkirchen|47.102|15.828|AT|Styria|60
+Sintet|13.233|-15.817|GM|Western|60
+Sinirteke|37.851|27.671|TR|Aydın|60
+Sinanköy|37.031|37.579|TR|Gaziantep|60
+Sindéressou|5.980|-4.878|CI|Lagunes District|60
+Sint-Goriks-Oudenhove|50.853|3.786|BE|Flanders|59
+Sint Geertruid|50.797|5.765|NL|Limburg|59
+Șindrilița|44.514|26.319|RO|Ilfov|59
+Sint-Huibrechts-Hern|50.830|5.449|BE|Flanders|59
+Sinegorskiy|57.894|59.518|RU|Sverdlovsk Oblast|59
+Sinda|48.960|136.307|RU|Khabarovsk|59
+Sinsk|61.132|126.839|RU|Sakha|59
+Sint-Denijs-Boekel|50.865|3.712|BE|Flanders|59
+Sinarádes|39.566|19.848|GR|Ionian Islands|59
+Sinclair|-33.863|121.872|AU|Western Australia|58
+Sindé|8.442|-4.607|CI|Vallée du Bandama District|58
+Sīnāb|37.929|46.897|IR|East Azerbaijan|58
+Sint-Martens-Voeren|50.748|5.813|BE|Flanders|58
+Sinfla|6.844|-5.716|CI|Sassandra-Marahoue|58
+Sinaiberget|77.952|15.216|SJ|Svalbard|58|f
+Sinanitsa|41.740|23.404|BG|Blagoevgrad|58|f
+Sinemorets|42.064|27.982|BG|Burgas|58|f
+Sinepuxent Bay|38.250|-75.144|US|Maryland|58|f
+Singkep Island|-0.494|104.423|ID|Riau Islands|58|f
+Sinkavata Hills|39.069|-118.214|US|Nevada|58|f
+Sinwonsa|36.335|127.184|KR|Chungcheongnam-do|58|f
+Sint-Blasius-Boekel|50.852|3.722|BE|Flanders|58
+Sinbilimi|8.119|-2.964|CI|Zanzan District|57
+Sint Maartensbrug|52.781|4.728|NL|North Holland|57
+Sint-Margriete-Houtem|50.829|4.958|BE|Flanders|57
+Singo|-5.285|-79.482|PE|Piura|57
+Singouin|7.484|-7.474|CI|Montagnes|57
+Sinne|47.922|29.568|UA|Odesa|57
+Sindacale|45.704|12.877|IT|Veneto|57
+Sint-Margriete|51.282|3.546|BE|Flanders|56
+Sinaloa|16.598|-93.627|MX|Chiapas|56
+Sint-Maria-Latem|50.890|3.706|BE|Flanders|56
+Sinsin|50.275|5.255|BE|Wallonia|56
+Sinigoro|7.992|-6.995|CI|Woroba|56
+Sinkoro|8.275|-7.893|CI|Woroba|56
+Șindrești|47.607|23.695|RO|Maramureş|56
+Sint Maartensvlotbrug|52.787|4.708|NL|North Holland|56
+Sinard|44.945|5.658|FR|Auvergne-Rhône-Alpes|56
+Sint-Antelinks|50.850|3.926|BE|Flanders|56
+Sinanlı|39.171|32.619|TR|Ankara|56
+Sinchi Roca|-4.882|-80.435|PE|Piura|56
+Sinersig|45.673|21.723|RO|Timiș County|55
+Siniyuvi|16.476|-97.927|MX|Oaxaca|55
+Sinclairville|42.264|-79.259|US|New York|55
+Sinirci|40.812|31.158|TR|Düzce|55
+Sint-Kornelis-Horebeke|50.834|3.698|BE|Flanders|55
+Sinja Gorica|45.976|14.318|SI|Municipality of Vrhnika|55
+Sintești|45.874|22.247|RO|Timiș County|55
+Sinclair Inlet|47.547|-122.651|US|Washington|54|f
+Sinclair Islet|-11.108|143.018|AU|Queensland|54|f
+Sinclair Mountain|59.096|-135.122|US|Alaska|54|f
+Sinclairs Bay|58.506|-3.080|GB|Scotland|54|f
+Sindhudurg Airport|15.999|73.535|IN|Maharashtra|54|f
+Sinebrychoff Museum of Art|60.163|24.933|FI|Uusimaa|54|f
+Singapore Island|1.367|103.800|SG||54|f
+Singer Island|26.785|-80.038|US|Florida|54|f
+Singkawang Airport|0.792|108.961|ID|West Kalimantan|54|f
+Singularity University|37.411|-122.058|US|California|54|f
+Sinister Peak|48.300|-121.010|US|Washington|54|f
+Sinivuori Strict Nature Reserve|61.574|24.727|FI|Pirkanmaa|54|f
+Sinu Chuli|28.587|83.883|NP|Gandaki Pradesh|54|f
 Sini|39.754|8.905|IT|Sardinia|54
+Sinspelt|49.973|6.318|DE|Rheinland-Pfalz|53
 Sina|-14.497|-69.280|PE|Puno|51
 Sinekçi|40.271|27.407|TR|Canakkale|51
 Sinsicap|-7.852|-78.756|PE|La Libertad|50
+Sinclair Island|-32.143|132.990|AU|South Australia|49|f
+Sinclair Island|-14.553|144.903|AU|Queensland|49|f
+Sinclair Island Conservation Park|-32.145|132.987|AU|South Australia|49|f
+Single Island|-69.817|68.667|AQ||49|f
+Sinharaja Forest Reserve|6.390|80.501|LK|Sabaragamuwa Province|49|f
+Sinker Rock|-64.825|-63.493|AQ||49|f
 Sinlabajos|41.077|-4.832|ES|Castille and León|45
 Sinio|44.600|8.020|IT|Piedmont|43
+Sinagoga de Santa María La Blanca|39.857|-4.031|ES|Castille-La Mancha|40|f
+Sinaloa Lake|34.256|-118.793|US|California|40|f
+Sindel Point|-62.584|-60.085|AQ||40|f
+Sine-Saloum Delta|13.835|-16.499|SN|Fatick|40|f
+Singer Glacier|-74.267|-113.950|AQ||40|f
+Singer Lake|41.950|-86.455|US|Michigan|40|f
+Singleshot Mountain|48.741|-113.497|US|Montana|40|f
+Singletary Lake|34.592|-78.460|US|North Carolina|40|f
+Singletary Lake State Park|34.599|-78.458|US|North Carolina|40|f
+Sinha, Mount|-75.067|-136.150|AQ||40|f
+Sinkyone Wilderness State Park|39.923|-123.943|US|California|40|f
+Sint-Donatuspark|50.876|4.702|BE|Flanders|40|f
+Sint-Pieters-Leeuw TV Tower|50.768|4.224|BE|Flanders|40|f
 Singra|40.655|-1.312|ES|Aragon|40
 Si Nakhon|17.349|99.986|TH|Sukhothai|0
 Si Narong|14.767|103.874|TH|Surin|0
 Sinaballaj|41.069|19.699|AL|Tirana|0
+Sinagar|-7.577|108.324|ID|West Java|0
 Sinaí|-2.095|-78.053|EC|Morona-Santiago Province|0
 Sinamaica|11.087|-71.856|VE|Zulia|0
 Sinan|34.834|126.351|KR|Jeollanam-do|0
+Sinapel|-7.158|108.055|ID|West Java|0
+Sinarbakti|-7.276|106.991|ID|West Java|0
+Sinarbakti|-7.069|107.911|ID|West Java|0
 Sinargalih|-7.357|108.638|ID|West Java|0
+Sinarharapan|-7.428|106.831|ID|West Java|0
 Sinarjaya|-7.305|106.835|ID|West Java|0
+Sinarjaya|-7.231|106.904|ID|West Java|0
+Sinarwangi|-7.279|107.106|ID|West Java|0
 Sincan|39.472|37.871|TR|Sivas|0
 Sinchao|-5.417|-80.667|PE|Piura|0
 Sincos|-11.891|-75.387|PE|Junin|0
+Sindang|-7.005|108.335|ID|West Java|0
+Sindang|-7.001|108.582|ID|West Java|0
+Sindangasih|-7.243|106.458|ID|West Java|0
+Sindangasih|-7.275|106.501|ID|West Java|0
 Sindangbarang|-7.452|107.135|ID|West Java|0
+Sindangbarang|-7.079|108.206|ID|West Java|0
+Sindanggalih|-7.277|108.173|ID|West Java|0
+Sindanggalih|-7.362|108.624|ID|West Java|0
+Sindanghaji|-7.361|108.856|ID|Central Java|0
+Sindangharja|-7.161|108.185|ID|West Java|0
+Sindanghayu|-7.472|108.636|ID|West Java|0
+Sindanghayu|-6.268|106.105|ID|Banten|0
+Sindangheula|-7.088|108.811|ID|Central Java|0
+Sindangjati|-7.244|108.743|ID|Central Java|0
+Sindangjawa|-7.030|108.454|ID|West Java|0
+Sindangjawa|-7.065|108.752|ID|West Java|0
+Sindangjaya|-7.481|108.662|ID|West Java|0
+Sindangkerta|-7.110|107.984|ID|West Java|0
+Sindangkerta|-7.765|108.071|ID|West Java|0
+Sindangkopo|-7.003|108.028|ID|West Java|0
+Sindanglaut|-6.948|106.256|ID|Banten|0
+Sindanglaya|-6.776|105.678|ID|Banten|0
+Sindanglaya|-7.199|107.947|ID|West Java|0
+Sindangpalay|-7.289|108.198|ID|West Java|0
+Sindangpanji|-7.021|108.381|ID|West Java|0
+Sindangraja|-7.193|106.834|ID|West Java|0
+Sindangraja|-7.108|106.934|ID|West Java|0
+Sindangrasa|-7.393|108.378|ID|West Java|0
+Sindangrasa|-7.459|108.687|ID|West Java|0
 Sindangratu|-7.465|107.672|ID|West Java|0
+Sindangsari|-6.993|106.675|ID|West Java|0
+Sindangsari|-7.528|107.807|ID|West Java|0
+Sindangsari|-7.117|107.945|ID|West Java|0
+Sindangsari|-7.798|108.235|ID|West Java|0
+Sindangsari|-7.370|108.161|ID|West Java|0
+Sindangsari|-7.094|108.321|ID|West Java|0
+Sindangsari|-7.811|108.440|ID|West Java|0
+Sindangsari|-7.557|108.534|ID|West Java|0
+Sindangsari|-7.478|108.615|ID|West Java|0
+Sindangsari|-7.031|108.625|ID|West Java|0
+Sindangsari|-7.719|108.275|ID|West Java|0
+Sindangsari|-7.506|108.698|ID|West Java|0
+Sindangsetra|-7.458|108.353|ID|West Java|0
+Sindangsuka|-7.010|108.633|ID|West Java|0
 Sindangtamu|-7.143|108.148|ID|West Java|0
 Sindong|37.817|127.717|KR|Gangwon-do|0
+Sindu|-8.583|116.135|ID|West Nusa Tenggara|0
 Sinekli|41.228|28.190|TR|Istanbul|0
+Sineporejo Krajan|-8.533|114.156|ID|East Java|0
 Singa|-9.387|-76.813|PE|Huánuco Department|0
+Singabarong|-7.198|108.178|ID|West Java|0
+Singajaya|-7.489|107.912|ID|West Java|0
+Singasari|-7.450|108.018|ID|West Java|0
+Singgit|-8.154|111.776|ID|East Java|0
+Singgugu|-7.140|108.355|ID|West Java|0
 Singhanakhon|7.239|100.553|TH|Songkhla|0
 Singkarak|-0.691|100.603|ID|West Sumatra|0
+Singkir|-7.729|108.178|ID|West Java|0
+Singkup|-7.263|107.271|ID|West Java|0
+Singkup|-7.347|107.292|ID|West Java|0
+Singonegoro|-6.978|111.524|ID|Central Java|0
+Singotrunan Krajan|-8.204|114.373|ID|East Java|0
 Singwang|36.129|129.264|KR|Gyeongsangbuk-do|0
 Siniloan|14.422|121.446|PH|Calabarzon|0
 Sinincay|-2.851|-79.015|EC|Azuay|0
 Sinjār|35.590|37.005|SY|Idlib|0
 Sinsao|-3.664|-79.583|EC|El Oro|0
 Sinseo|38.186|127.108|KR|Gyeonggi-do|0
+Sintung Timur|-8.610|116.222|ID|West Nusa Tenggara|0

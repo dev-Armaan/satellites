@@ -88,6 +88,7 @@ Villemoirieu|45.719|5.226|FR|Auvergne-Rhône-Alpes|64
 Villemeux-sur-Eure|48.673|1.465|FR|Centre-Val de Loire|64
 Villeneuve-de-Rivière|43.121|0.666|FR|Occitanie|64
 Villegailhenc|43.269|2.355|FR|Occitanie|64
+Villefranche – Tarare Airport|45.920|4.635|FR|Auvergne-Rhône-Alpes|63|f
 Villers-Bocage|49.998|2.317|FR|Hauts-de-France|63
 Villers-le-Temple|50.509|5.371|BE|Wallonia|63
 Villebernier|47.254|-0.031|FR|Pays de la Loire|63
@@ -126,8 +127,102 @@ Villebret|46.267|2.639|FR|Auvergne-Rhône-Alpes|60
 Villetelle|43.732|4.137|FR|Occitanie|60
 Villeneuve|46.021|4.836|FR|Auvergne-Rhône-Alpes|60
 Villemolaque|42.589|2.838|FR|Occitanie|60
+Villedoux|46.241|-1.068|FR|New Aquitaine|60
+Villebrumier|43.908|1.456|FR|Occitanie|60
+Villeneuve-sur-Allier|46.660|3.248|FR|Auvergne-Rhône-Alpes|60
+Villemontais|45.981|3.955|FR|Auvergne-Rhône-Alpes|60
+Villeneuve-de-Marc|45.477|5.101|FR|Auvergne-Rhône-Alpes|60
+Villefargeau|47.780|3.503|FR|Bourgogne-Franche-Comté|59
+Villefranche-de-Lonchat|44.949|0.056|FR|New Aquitaine|59
+Villers-les-Pots|47.217|5.350|FR|Bourgogne-Franche-Comté|59
+Villeret|47.158|7.019|CH|Bern|59
+Villematier|43.829|1.509|FR|Occitanie|59
+Villers-Saint-Sépulcre|49.366|2.215|FR|Hauts-de-France|59
+Villeneuve-Minervois|43.315|2.462|FR|Occitanie|59
+Villemaréchal|48.267|2.867|FR|Île-de-France|59
+Villeperdue|47.202|0.635|FR|Centre-Val de Loire|59
+Villefranche-du-Périgord|44.631|1.076|FR|New Aquitaine|58
+Villers-Allerand|49.165|4.026|FR|Grand Est|58
+Villecerf|48.328|2.847|FR|Île-de-France|58
+Villers-aux-Tours|50.498|5.516|BE|Wallonia|58
+Villetoureix|45.264|0.343|FR|New Aquitaine|58
+Villegly|43.287|2.440|FR|Occitanie|58
+Villefranche-de-Panat|44.089|2.705|FR|Occitanie|58
+Villela|21.678|-100.724|MX|San Luis Potosí|58
+Villers-le-Peuplier|50.657|5.094|BE|Wallonia|58
+Villebois-Lavalette|45.483|0.279|FR|New Aquitaine|58
+Villecomtal-sur-Arros|43.400|0.200|FR|Occitanie|58
+Villeneuve-la-Comtesse|46.098|-0.505|FR|New Aquitaine|58
+Villequier|49.513|0.673|FR|Normandy|58
+Villerbon|47.663|1.372|FR|Centre-Val de Loire|58
+Villereau|50.256|3.665|FR|Hauts-de-France|58
+Ville-en-Sallaz|46.145|6.421|FR|Auvergne-Rhône-Alpes|57
+Ville-en-Hesbaye|50.617|5.117|BE|Wallonia|57
+Ville-Saint-Jacques|48.343|2.899|FR|Île-de-France|57
+Villeneuve-Saint-Denis|48.816|2.794|FR|Île-de-France|57
+Villerot|50.486|3.791|BE|Wallonia|57
+Villethierry|48.264|3.074|FR|Bourgogne-Franche-Comté|57
+Villeron|49.058|2.542|FR|Île-de-France|57
+Villemade|44.075|1.288|FR|Occitanie|57
+Villerville|49.401|0.128|FR|Normandy|57
+Villemer|48.301|2.824|FR|Île-de-France|57
+Ville|49.553|2.939|FR|Hauts-de-France|57
+Villevieux|46.737|5.464|FR|Bourgogne-Franche-Comté|57
+Villepot|47.776|-1.278|FR|Pays de la Loire|57
+Ville-sur-Jarnioux|45.962|4.608|FR|Auvergne-Rhône-Alpes|57
+Villechétif|48.312|4.143|FR|Grand Est|57
+Villette-lès-Dole|47.046|5.497|FR|Bourgogne-Franche-Comté|57
+Villeconin|48.514|2.125|FR|Île-de-France|57
+Villers-au-Tertre|50.302|3.182|FR|Hauts-de-France|57
+Villefort|44.440|3.932|FR|Occitanie|56
+Villeloin-Coulangé|47.141|1.223|FR|Centre-Val de Loire|56
+Villers-le-Gambon|50.190|4.607|BE|Wallonia|56
+Villers-Saint-Ghislain|50.430|4.040|BE|Wallonia|56
+Villegusien-le-Lac|47.736|5.321|FR|Grand Est|56
+Villeneuve-sur-Verberie|49.275|2.690|FR|Hauts-de-France|56
+Villers-Guislain|50.041|3.155|FR|Hauts-de-France|56
 Villetta Barrea|41.776|13.939|IT|Abruzzo|56
+Villechenève|45.813|4.406|FR|Auvergne-Rhône-Alpes|56
+Villentrois|47.194|1.463|FR|Centre-Val de Loire|56
+Villers-Faucon|49.978|3.102|FR|Hauts-de-France|56
+Villers-sur-le-Roule|49.197|1.326|FR|Normandy|56
+Villemanoche|48.300|3.181|FR|Bourgogne-Franche-Comté|56
+Villeneuve-sur-Auvers|48.475|2.248|FR|Île-de-France|56
+Ville-en-Vermois|48.615|6.254|FR|Grand Est|56
+Villeroy|48.983|2.782|FR|Île-de-France|56
+Villers-Saint-Frambourg|49.255|2.640|FR|Hauts-de-France|56
+Villequier-Aumont|49.658|3.206|FR|Hauts-de-France|56
+Villers-Saint-Amand|50.623|3.731|BE|Wallonia|56
+Villesèquelande|43.238|2.232|FR|Occitanie|56
 Villefranche|45.741|7.416|IT|Aosta Valley|55
+Villeneuve-sous-Dammartin|49.035|2.641|FR|Île-de-France|55
+Ville-Houdlémont|49.546|5.648|FR|Grand Est|55
+Villejésus|45.895|0.030|FR|New Aquitaine|55
+Villemurlin|47.686|2.335|FR|Centre-Val de Loire|55
+Villers-Marmery|49.135|4.196|FR|Grand Est|55
+Villers-Saint-Siméon|50.711|5.539|BE|Wallonia|55
+Villeneuve-les-Bordes|48.483|3.049|FR|Île-de-France|55
+Villeneuve-du-Paréage|43.154|1.637|FR|Occitanie|55
+Villeton|44.375|0.288|FR|New Aquitaine|55
+Villers-devant-Orval|49.619|5.330|BE|Wallonia|55
+Ville-en-Tardenois|49.181|3.800|FR|Grand Est|55
+Villedieu|44.284|5.035|FR|Provence-Alpes-Côte d'Azur|55
+Ville|43.566|11.571|IT|Tuscany|55
+Villefranche|47.933|3.133|FR|Bourgogne-Franche-Comté|55
+Villedieu|44.999|3.064|FR|Auvergne-Rhône-Alpes|54
+Villeherviers|47.367|1.800|FR|Centre-Val de Loire|54
+Villemoyenne|48.179|4.227|FR|Grand Est|54
+Villers-la-Chèvre|49.503|5.696|FR|Grand Est|54
+Villers-Canivet|48.941|-0.256|FR|Normandy|54
+Villers-la-Tour|50.036|4.261|BE|Wallonia|54
+Villers|46.121|4.221|FR|Auvergne-Rhône-Alpes|54
+Villemotier|46.347|5.321|FR|Auvergne-Rhône-Alpes|54
+Villemoisan|47.464|-0.893|FR|Pays de la Loire|54
+Villerable|47.758|1.031|FR|Centre-Val de Loire|54
+Villemoutiers|47.995|2.560|FR|Centre-Val de Loire|54
+Villette|48.928|1.692|FR|Île-de-France|54
+Villers-Saint-Barthélemy|49.397|1.949|FR|Hauts-de-France|54
+Villers-le-Sec|47.599|6.220|FR|Bourgogne-Franche-Comté|54
 Villeneuve|45.702|7.207|IT|Aosta Valley|51
 Villel|40.235|-1.186|ES|Aragon|51
 Villette|46.132|8.534|IT|Piedmont|48

@@ -13,11 +13,14 @@ Râs el Aïoun|35.674|5.645|DZ|Batna|91
 Rasrā|25.858|83.855|IN|Uttar Pradesh|90
 Rass el Djebel|37.216|10.125|TN|Bizerte Governorate|90
 Raseborg|59.977|23.440|FI|Uusimaa|89
+Ras Al Khaimah International Airport|25.613|55.939|AE|Ras Al Khaimah|87|f
 Ras el Ma|33.974|-5.096|MA|Fes-Meknes|87
 Rastede|53.245|8.197|DE|Lower Saxony|86
+Rasht Airport|37.325|49.606|IR|Gilan Province|85|f
 Råsunda|59.366|17.996|SE|Stockholm|85
 Râşnov|45.583|25.450|RO|Brașov County|84
 Rasulnagar|32.328|73.780|PK|Punjab|83
+Raspberry Island|58.067|-153.182|US|Alaska|81|f
 Rastrick|53.692|-1.788|GB|England|81
 Rasht|39.029|70.374|TJ|Republican Subordination|81
 Rasos|54.679|25.312|LT|Vilnius|81
@@ -29,16 +32,21 @@ Rasikpur|24.285|87.254|IN|Jharkhand|78
 Ras Kebdana|35.141|-2.425|MA|Oriental|78
 Rasūlābād|26.745|80.490|IN|Uttar Pradesh|78
 Raszyn|52.156|20.923|PL|Mazovia|77
+Ra's Lanuf Airport|30.501|18.527|LY|Surt|77|f
 Rasesa|-24.373|26.073|BW|Kgatleng|76
 Rasshevatskaya|45.575|41.035|RU|Stavropol Kray|75
 Răşinari|45.700|24.067|RO|Sibiu County|75
+Rasshua Island|47.748|153.013|RU|Sakhalin Oblast|74|f
 Rastignano-Carteria di Sesto|44.436|11.357|IT|Emilia-Romagna|74
 Rassvet|46.833|40.750|RU|Rostov|74
+Råstojaure|68.770|20.444|NO||72|f
 Raschau|50.531|12.833|DE|Saxony|72
 Ras El Aïn|32.983|-7.397|MA|Casablanca-Settat|72
 Rasova|44.246|27.935|RO|Constanța County|72
+Ras Dejen|13.236|38.369|ET|Amhara|71|f
 Rassvet|56.999|91.472|RU|Krasnoyarsk Krai|71
 Rast|43.883|23.283|RO|Dolj|70
+Rasgetheemu|5.808|73.003|MV||70|f
 Răsuceni|44.092|25.664|RO|Giurgiu County|70
 Rastenberg|51.175|11.420|DE|Thuringia|69
 Raspenava|50.904|15.115|CZ|Liberec Region|69
@@ -47,6 +55,10 @@ Rasht Kolā|36.477|52.409|IR|Māzandarān|69
 Rāsūn|32.400|35.760|JO|Ajloun|68
 Răstoaca|45.661|27.287|RO|Vrancea|68
 Rascón|21.971|-99.257|MX|San Luis Potosí|68
+Ras Barsig|29.260|-10.295|MA|Guelmim-Oued Noun|67|f
+Rasdhoo Atholhu|4.283|72.967|MV||67|f
+Rasmaadhoo|5.563|73.044|MV||67|f
+Rastorguyev Island|73.995|84.131|RU|Krasnoyarsk Krai|67|f
 Răscăeți|44.592|25.270|RO|Dâmbovița County|67
 Răstoliţa|46.973|24.993|RO|Mureș County|67
 Rās ‘Aţīyah|32.158|34.991|PS|West Bank|67
@@ -55,6 +67,8 @@ Raškovice|49.620|18.473|CZ|Moravian-Silesian Region|66
 Rashivka|50.226|33.889|UA|Poltava|66
 Rasūlābād-e Soflá|34.879|48.219|IR|Hamadan Province|66
 Rassina|43.647|11.836|IT|Tuscany|65
+Raseborg Castle Ruins|59.992|23.651|FI|Uusimaa|65|f
+Rass ez Zebib|37.268|10.068|TN|Bizerte Governorate|65|f
 Rasdorf|50.717|9.900|DE|Hesse|65
 Râșești|46.772|28.143|RO|Vaslui County|65
 Rās Karkar|31.942|35.108|PS|West Bank|64
@@ -64,26 +78,69 @@ Rāstāb|32.214|50.631|IR|Chaharmahal and Bakhtiari|64
 Răscruci|46.906|23.769|RO|Cluj County|64
 Rassvet|44.894|37.457|RU|Krasnodar Krai|64
 Rasa|3.495|101.629|MY|Selangor|63
+Ra’s al Barr|31.525|31.841|EG|Damietta|63|f
+Râs Acrata|36.804|2.895|DZ|Algiers|63|f
+Rasul Barrage|32.680|73.521|PK|Punjab|63|f
 Rași|44.535|26.925|RO|Ialomița County|63
 Rasa|44.214|27.147|RO|Călărași County|62
 Raša|45.080|14.079|HR|Istria|61
 Răsmireşti|43.983|25.550|RO|Teleorman County|61
 Rashkiv|48.510|26.269|UA|Chernivtsi|61
+Ra’s Sudr|29.600|32.667|EG|South Sinai|61|f
+Rasdhoo|4.263|72.993|MV|Northern Ari Atoll|61|f
+Rasina Arujärv|58.207|27.286|EE|Põlvamaa|61|f
+Raßberg|50.389|7.063|DE|Rheinland-Pfalz|61|f
 Raßnitz|51.391|12.094|DE|Saxony-Anhalt|61
 Raszczyce|50.122|18.300|PL|Silesia|61
 Raszowa|50.398|18.177|PL|Opole Voivodeship|60
+Rastdorf|52.913|7.709|DE|Lower Saxony|60
 Rasines|43.305|-3.429|ES|Cantabria|59
 Râșca|46.740|23.106|RO|Cluj County|59
+Rastorf|54.281|10.345|DE|Schleswig-Holstein|59
 Rasquera|41.003|0.600|ES|Catalonia|59
+Råsen|60.408|11.503|NO|Innlandet|58|f
+Rasmussen Island|-65.248|-64.084|AQ||58|f
+Rassel|50.145|8.256|DE|Hesse|58|f
+Rașca|47.746|25.512|RO|Suceava|58
+Răsboieni|46.932|27.317|RO|Iași County|57
 Rasinja|46.184|16.707|HR|Koprivnica-Križevci|57
+Rasteau|44.231|4.987|FR|Provence-Alpes-Côte d'Azur|57
+Rašovice|49.121|16.948|CZ|South Moravian|57
+Ras ‘Ali|32.773|35.155|IL|Northern District|56
+Rasephas|51.008|12.441|DE|Thuringia|56
+Rasun di Sopra|46.790|12.057|IT|Trentino-Alto Adige|56
+Rāsteh Kenār|37.334|49.557|IR|Gilan Province|56
+Rasošky|50.322|15.912|CZ|Hradec Králové Region|55
+Rasnicu Oghian|44.443|23.531|RO|Dolj|55
+Raslina|43.806|15.855|HR|Šibenik-Knin|55
+Rascheid|49.717|6.933|DE|Rheinland-Pfalz|55
+Rasova|45.047|23.183|RO|Gorj County|54
+Raspberry Island|44.942|-93.091|US|Minnesota|54|f
+Raspberry Island|46.975|-90.794|US|Wisconsin|54|f
+Rastičevsko Jezero|44.048|17.195|BA|Federation of B&H|54|f
+Raskelf|54.133|-1.249|GB|England|54
 Rastenfeld|48.573|15.332|AT|Lower Austria|54
 Rassach|46.860|15.270|AT|Styria|50
 Rasueros|41.023|-5.074|ES|Castille and León|49
+Ras al Hadd Airport|22.534|59.788|OM|Southeastern Governorate|49|f
+Rasa Island|9.224|118.443|PH|Mimaropa|49|f
+Raslet|61.387|8.740|NO|Innlandet|49|f
+Rastkogel|47.200|11.750|AT|Tyrol|49|f
+Rastorguev Glacier|-70.950|163.500|AQ||49|f
 Rasura|46.101|9.553|IT|Lombardy|49
+Ras Muhammad National Park|27.748|34.241|EG|South Sinai|40|f
+Rasiva|46.336|8.730|CH|Ticino|40|f
+Rasletinden|61.395|8.700|NO|Innlandet|40|f
+Rasley Lake|44.857|-63.698|CA|Nova Scotia|40|f
+Rasmussen Basin|68.436|-94.759|CA|Nunavut|40|f
+Raspberry Island|43.510|-65.766|CA|Nova Scotia|40|f
+Rastorfer Glacier|-71.833|167.100|AQ||40|f
 Rassa|45.768|8.012|IT|Piedmont|35
 Raška|43.287|20.615|RS|Central Serbia|12
 Ra’s al ‘Ayn|36.850|40.071|SY|Al-Hasakah|0
 Ra’s al Khashūfah|34.827|36.052|SY|Tartus|0
+Rasabau|-8.566|118.984|ID|West Nusa Tenggara|0
+Rasabou|-8.537|118.255|ID|West Nusa Tenggara|0
 Raşad|13.712|45.303|YE|Abyan Governorate|0
 Râşca|47.367|26.233|RO|Suceava|0
 Rashaant|47.866|90.699|MN|Bayan-Ölgii Province|0
@@ -92,3 +149,4 @@ Rashaant|45.300|106.200|MN|Middle Govĭ|0
 Rasi Salai|15.345|104.155|TH|Si Sa Ket|0
 Rasiei|-2.817|134.529|ID|West Papua|0
 Rasm al Ḩarmal|36.245|37.716|SY|Aleppo|0
+Rasog|29.048|89.429|CN|Tibet|0

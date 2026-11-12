@@ -1,4 +1,7 @@
 Seattle|47.606|-122.332|US|Washington|118
+Sea of Okhotsk|55.000|150.000|||104|f
+Sea of Galilee|32.807|35.593|IL|Northern District|95|f
+Sea of Marmara|40.728|28.250|||94|f
 Seabra|-12.417|-41.770|BR|Bahia|93
 Seaside|36.611|-121.852|US|California|90
 SeaTac|47.448|-122.292|US|Washington|89
@@ -6,6 +9,7 @@ Seal Beach|33.741|-118.105|US|California|88
 Searcy|35.251|-91.736|US|Arkansas|88
 Seaford|50.771|0.103|GB|England|87
 Seaham|54.839|-1.346|GB|England|87
+Seattle-Tacoma International Airport|47.449|-122.309|US|Washington|87|f
 Seara|-27.149|-52.311|BR|Santa Catarina|85
 Seabrook|38.974|-76.849|US|Maryland|85
 Seaford|-38.100|145.133|AU|Victoria|85
@@ -13,28 +17,38 @@ Seafair|49.150|-123.183|CA|British Columbia|84
 Seagoville|32.640|-96.538|US|Texas|84
 Seaford|40.666|-73.488|US|New York|84
 Seabrook|29.564|-95.025|US|Texas|83
+Seattle Art Museum|47.607|-122.338|US|Washington|82|f
 Seaside|40.583|-73.828|US|New York|82
 Seaton|-34.900|138.517|AU|South Australia|80
 Seaton Delaval|55.072|-1.526|GB|England|79
 Seabrook|42.895|-70.871|US|New Hampshire|79
+Sea of Azov|46.030|36.373|||78|f
 Seaford|38.641|-75.611|US|Delaware|78
 Seaton|50.705|-3.070|GB|England|77
 Seaside|45.993|-123.923|US|Oregon|76
 Sealy|29.781|-96.157|US|Texas|76
+Sea of Crete|36.000|25.000|||76|f
 Seano|43.830|11.021|IT|Tuscany|75
+Sea of Åland|60.000|19.500|||75|f
+Searcy Municipal Airport|35.212|-91.737|US|Arkansas|75|f
 Sea Cliff|40.849|-73.645|US|New York|74
 Searingtown|40.775|-73.656|US|New York|74
 Seat Pleasant|38.896|-76.907|US|Maryland|74
 Seagate|34.209|-77.844|US|North Carolina|73
 Seaforth|17.936|-76.457|JM|Saint Thomas Parish|73
 Seacliff|36.974|-121.916|US|California|70
+Seao Tan Island|24.380|118.157|TW|Fujian|70|f
+Seasaar|59.013|23.386|EE|Lääne|70|f
+Seaside Municipal Airport|46.016|-123.908|US|Oregon|70|f
 Seaside Heights|39.944|-74.073|US|New Jersey|69
 Seaca|43.750|25.067|RO|Teleorman County|69
 Seagraves|32.944|-102.565|US|Texas|69
+Sea of the Hebrides|57.117|-6.917|GB||69|f
 Seaforth|43.550|-81.400|CA|Ontario|69
 Séably|7.227|-7.214|CI|Montagnes|68
 Seaview|50.720|-1.112|GB|England|67
 Seaca|44.167|24.750|RO|Olt|67
+Sears Island|44.443|-68.878|US|Maine|67|f
 Seaca de Câmp|43.933|23.217|RO|Dolj|67
 Sea Isle City|39.153|-74.693|US|New Jersey|66
 Seaside|30.321|-86.142|US|Florida|66
@@ -49,10 +63,100 @@ Séambli|7.370|-7.342|CI|Montagnes|64
 Seaside Park|39.927|-74.077|US|New Jersey|64
 Seabrook Farms|39.501|-75.218|US|New Jersey|63
 Seadrift|28.415|-96.714|US|Texas|63
+Sea Lion Bay|57.302|-135.829|US|Alaska|63|f
+Seahpo Peak|48.820|-121.549|US|Washington|63|f
+Seaview Range|-18.750|145.800|AU|Queensland|63|f
 Sea Bright|40.361|-73.974|US|New Jersey|63
 Seafield|55.878|-3.588|GB|Scotland|62
 Sea Ranch|38.715|-123.454|US|California|62
 Searsmont|44.362|-69.195|US|Maine|62
+Sea Leopard Fjord|-54.067|-37.250|GS||61|f
+Sea-Airport Cuxhaven/Nordholz|53.767|8.667|DE|Lower Saxony|61|f
 Seabeck|47.640|-122.828|US|Washington|61
+Seabreeze village|-7.287|72.381|IO||60
+Seabrook Beach|42.887|-70.816|US|New Hampshire|60
+Searsport|44.458|-68.924|US|Maine|60
+Seaman|38.942|-83.572|US|Ohio|59
+Seaforth|-20.900|148.968|AU|Queensland|59
+Sea Cliff Bridge|-34.254|150.974|AU|New South Wales|58|f
+Sea Dog Island|-52.005|-61.095|FK||58|f
+Sea Island|31.200|-81.333|US|Georgia|58|f
+Seacliff State Beach|36.971|-121.912|US|California|58|f
+Seal Island|18.268|-63.149|AI||58|f
+Seal Island|-38.925|146.662|AU|Victoria|58|f
+Seal Island|-34.151|22.120|ZA|Western Cape|58|f
+Seal Point|-63.393|-56.999|AQ||58|f
+Sealark Channel|-9.306|160.337|SB||58|f
+Seaman Range|38.002|-115.086|US|Nevada|58|f
+Sea View Farm|17.088|-61.803|AG|Saint George Parish|58
 Seaca de Pădure|44.366|23.306|RO|Dolj|57
+Sea Ranch Lakes|26.203|-80.094|US|Florida|57
+Sea Lake|-35.504|142.850|AU|Victoria|56
+Seaboard|36.490|-77.441|US|North Carolina|55
+Seaton Ross|53.861|-0.813|GB|England|55
+Seal Cove|44.653|-66.841|CA|New Brunswick|55
+Seagrave|52.751|-1.085|GB|England|55
+Searchlight|35.465|-114.920|US|Nevada|55
+Sea Cow Island|-6.235|71.294|IO||54|f
+Sea Gull Lake|48.120|-90.924|US|Minnesota|54|f
+Seahorse Islands|70.885|-158.702|US|Alaska|54|f
+Seal Island|-35.577|138.644|AU|South Australia|54|f
+Seal Island|-34.137|18.583|ZA|Western Cape|54|f
+Seal Islands|56.678|-159.410|US|Alaska|54|f
+Seal Rock|37.392|-122.425|US|California|54|f
+Seal Rock State Recreation Site|44.496|-124.088|US|Oregon|54|f
+Sealggajávri|68.248|17.991|NO|Nordland|54|f
+Seana Bhraigh|57.850|-4.867|GB|Scotland|54|f
+Searles Lake|35.731|-117.329|US|California|54|f
+Seaside Park|41.162|-73.191|US|Connecticut|54|f
+Sea Lake Airport|-35.531|142.890|AU|Victoria|49|f
+Sea Lion Glacier|-62.646|-60.370|AQ||49|f
+Sea Lion Tarn|-62.647|-60.371|AQ||49|f
+Seabee Hook|-72.317|170.217|AQ||49|f
+Seacrow Islet|-40.620|144.738|AU|Tasmania|49|f
+Seafarers Bridge|-37.824|144.952|AU|Victoria|49|f
+Seaforth Island|58.001|-6.730|GB|Scotland|49|f
+Seagull Rock|-43.429|147.183|AU|Tasmania|49|f
+Seal Bay|-40.127|143.946|AU|Tasmania|49|f
+Seal Bay|-35.996|137.319|AU|South Australia|49|f
+Seal Bay Conservation Park|-35.987|137.313|AU|South Australia|49|f
+Seal Cay|27.267|-78.367|BS|Grand Cay|49|f
+Seal Island|-35.075|117.974|AU|Western Australia|49|f
+Seal Island|-32.292|115.690|AU|Western Australia|49|f
+Seaplane Point|-64.065|-60.773|AQ||49|f
+Searcy Bay Conservation Park|-33.040|134.243|AU|South Australia|49|f
+Seatallan|54.464|-3.328|GB|England|49|f
+Seaton Glacier|-66.667|56.317|AQ||49|f
+Seaton, Mount|-70.611|67.459|AQ||49|f
+Seavers Ridge|-67.050|52.850|AQ||49|f
+Seay Peak|-79.083|157.500|AQ||49|f
 Seaton|52.575|-0.668|GB|England|48
+Sea Bird Island|49.266|-121.719|CA|British Columbia|40|f
+Sea Island|49.183|-123.169|CA|British Columbia|40|f
+Sea Life Benalmádena|36.597|-4.515|ES|Andalusia|40|f
+Sea Life Park|21.317|-157.666|US|Hawaii|40|f
+Sea Rim State Park|29.699|-94.025|US|Texas|40|f
+Seafarer Glacier|-72.900|166.567|AQ||40|f
+Seahurst Park|47.480|-122.359|US|Washington|40|f
+Seal Beach National Wildlife Refuge|33.739|-118.075|US|California|40|f
+Seal Cove Lake|44.821|-62.852|CA|Nova Scotia|40|f
+Seal Glacier|-79.883|-81.833|AQ||40|f
+Seal Island|43.411|-66.013|CA|Nova Scotia|40|f
+Seal Island National Wildlife Refuge|43.887|-68.741|US|Maine|40|f
+Seal Islands|38.055|-122.047|US|California|40|f
+Seal Rocks|37.778|-122.516|US|California|40|f
+Seals Stadium (historical)|37.766|-122.409|US|California|40|f
+Sealy Tarns|-43.708|170.060|NZ|Canterbury|40|f
+Seaman Reservoir|40.705|-105.237|US|Colorado|40|f
+Sean O’Casey Bridge|53.347|-6.248|IE|Leinster|40|f
+Seaquest State Park|46.298|-122.818|US|Washington|40|f
+Seaquist Peak|-79.750|-81.333|AQ||40|f
+Searchlight Airport|35.448|-114.910|US|Nevada|40|f
+Searsville 614 Dam|37.407|-122.237|US|California|40|f
+Seaside Park|34.275|-119.304|US|California|40|f
+Seat Sandal|54.495|-3.015|GB|England|40|f
+Seattle Asian Art Museum|47.630|-122.314|US|Washington|40|f
+Seatuck National Wildlife Refuge|40.714|-73.209|US|New York|40|f
+Seawolf Park|29.335|-94.779|US|Texas|40|f
+SeaWorld San Antonio|29.458|-98.700|US|Texas|40|f
+Seale|51.224|-0.721|GB|England|0

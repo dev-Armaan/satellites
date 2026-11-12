@@ -124,6 +124,7 @@ Itapiranga|-27.169|-53.712|BR|Santa Catarina|84
 Ít Ong|21.517|104.027|VN|Sơn La Province|84
 Itirapina|-22.253|-47.823|BR|São Paulo|84
 Itaeté|-12.986|-40.972|BR|Bahia|84
+Iturup Island|45.103|147.816|RU|Sakhalin Oblast|84|f
 Itariri|-24.289|-47.174|BR|São Paulo|84
 Itanhandu|-22.296|-44.935|BR|Minas Gerais|84
 Itamonte|-22.284|-44.870|BR|Minas Gerais|83
@@ -159,6 +160,7 @@ Itarana|-19.874|-40.875|BR|Espírito Santo|81
 Itatuba|-7.375|-35.628|BR|Paraíba|80
 Itaipé|-17.402|-41.669|BR|Minas Gerais|80
 Itabirinha|-18.566|-41.233|BR|Minas Gerais|80
+Ithaca|38.384|20.671|GR|Ionian Islands|80|f
 Itāmāti|20.138|85.152|IN|Odisha|80
 Itapitanga|-14.423|-39.565|BR|Bahia|80
 Itapiranga|-2.749|-58.022|BR|Amazonas|79
@@ -168,6 +170,7 @@ Ittiri|40.592|8.570|IT|Sardinia|79
 Itapuã do Oeste|-9.186|-63.185|BR|Rondônia|79
 Itapé|-14.898|-39.421|BR|Bahia|79
 Itri|41.290|13.530|IT|Lazio|78
+Ithaca Tompkins Regional Airport|42.491|-76.458|US|New York|78|f
 Itaquara|-13.451|-39.941|BR|Bahia|78
 Itobi|-21.737|-46.975|BR|São Paulo|78
 Itapirapuã|-15.823|-50.613|BR|Goiás|78
@@ -193,6 +196,7 @@ Ittre|50.644|4.265|BE|Wallonia|76
 Itanagra|-12.263|-38.042|BR|Bahia|75
 Itegem|51.103|4.729|BE|Flanders|75
 Itambaracá|-23.018|-50.406|BR|Paraná|75
+Itombwe Mountains|-3.500|28.917|CD||75|f
 Itirapuã|-20.641|-47.219|BR|São Paulo|75
 Itteville|48.515|2.344|FR|Île-de-France|75
 Itaverava|-20.678|-43.610|BR|Minas Gerais|75
@@ -220,6 +224,7 @@ Itamarati de Minas|-21.417|-42.816|BR|Minas Gerais|71
 Itahāri|26.072|86.674|IN|Bihar|71
 Itapiratins|-8.384|-48.111|BR|Tocantins|71
 Itä-Pasila|60.199|24.940|FI|Uusimaa|71
+Itsuku Shima|34.273|132.304|JP|Hiroshima|71|f
 Itaju|-21.981|-48.805|BR|São Paulo|71
 Itacurubí de la Cordillera|-25.462|-56.853|PY|Cordillera Department|71
 Itaúna do Sul|-22.731|-52.887|BR|Paraná|71
@@ -232,11 +237,16 @@ Iteuil|46.488|0.311|FR|New Aquitaine|70
 Itum-Kali|42.736|45.577|RU|Chechnya|69
 Ithaca|43.292|-84.608|US|Michigan|69
 Itä-Hakkila|60.292|25.114|FI|Uusimaa|69
+It-Torri l-Aħmar|35.975|14.343|MT|Il-Mellieħa|69|f
 Itsandra|-11.676|43.265|KM|Grande Comore|69
 Itati|-29.490|-50.101|BR|Rio Grande do Sul|68
 Itaporã do Tocantins|-8.571|-48.689|BR|Tocantins|68
 Ittlingen|49.191|8.931|DE|Baden-Wurttemberg|68
 Itzig|49.588|6.171|LU|Luxembourg|68
+It-Torri ta’ Għajn Żnuber|35.950|14.343|MT|Il-Mellieħa|67|f
+Itsuwa Dam|32.483|130.125|JP|Kumamoto|67|f
+Itu Aba Island|10.383|114.350|||67|f
+Iturup Island Airport|45.257|147.954|RU|Sakhalin Oblast|67|f
 Itzstedt|53.808|10.158|DE|Schleswig-Holstein|67
 Itambé do Mato Dentro|-19.414|-43.321|BR|Minas Gerais|67
 Ittenheim|48.605|7.594|FR|Grand Est|66
@@ -245,12 +255,18 @@ Itapuca|-28.780|-52.172|BR|Rio Grande do Sul|66
 Itxassou|43.330|-1.405|FR|New Aquitaine|66
 Italy|32.184|-96.885|US|Texas|66
 Iturbide|24.726|-99.905|MX|Nuevo León|66
+Itaguazurenda Airport|-19.785|-63.086|BO|Santa Cruz Department|65|f
+Itainen Pihlajasaari|60.139|24.922|FI|Uusimaa|65|f
+Italian Mountain|38.946|-106.753|US|Colorado|65|f
+Ithómi Óros|37.186|21.925|GR|Peloponnese|65|f
+Itissaalik|74.083|-56.683|GL|Avannaata|65|f
 Itháki|38.364|20.718|GR|Ionian Islands|65
 Itterbeck|52.506|6.804|DE|Lower Saxony|65
 Itingen|47.467|7.785|CH|Basel-Landschaft|65
 Itapé|-25.852|-56.614|PY|Guairá|64
 Itasca|32.160|-97.150|US|Texas|64
 Ity|6.884|-8.119|CI|Montagnes|64
+It-Torri ta’ Mamo|35.856|14.558|MT|Marsaskala|63|f
 Itsandzéni|-11.473|43.384|KM|Grande Comore|63
 Itzoteno|19.417|-97.438|MX|Puebla|63
 Itéa|39.457|22.166|GR|Thessaly|62
@@ -258,16 +274,46 @@ Itzamatitlán|18.909|-99.024|MX|Morelos|62
 Itamar|32.175|35.309|PS|West Bank|62
 Itter|47.470|12.144|AT|Tyrol|61
 Italó|-34.792|-63.781|AR|Cordoba|61
+It-Torri ta’ San Ġiljan|35.918|14.499|MT|Tas-Sliema|61|f
+Itezhi-Tezhi Dam|-15.760|26.021|ZM|Southern Province|61|f
 Itancourt|49.807|3.344|FR|Hauts-de-France|60
 Ítrabo|36.800|-3.639|ES|Andalusia|60
+Ite|-17.861|-70.965|PE|Tacna|60
+Itzatlán|20.335|-97.985|MX|Puebla|59
+Itteren|50.898|5.703|NL|Limburg|59
+Itala Marina|38.037|15.453|IT|Sicily|59
+Itbayat Airport|20.725|121.810|PH|Autonomous Region in Muslim Mindanao|58|f
+Itbayat Island|20.763|121.838|PH|Cagayan Valley|58|f
+Itcha Mountain|52.718|-124.829|CA|British Columbia|58|f
+Ittoqqortoormiit Heliport|70.484|-21.954|GL|Sermersooq|58|f
+Ituzaingó Yacireta Airport|-27.526|-56.634|AR|Corrientes|58|f
+Ituzaingó|-34.420|-56.425|UY|San José Department|58
+Ituni|5.537|-58.256|GY|Upper Demerara-Berbice|57
+Itapúa Poty|-26.630|-55.520|PY|Itapúa|56
+Ittlenheim|48.654|7.546|FR|Grand Est|56
+Itsamia|-12.364|43.868|KM|Mohéli|56
+Ītk|26.605|61.242|IR|Sistan and Baluchestan|56
+Itéa|40.836|21.514|GR|West Macedonia|55
+Itbud|20.367|121.961|PH|Cagayan Valley|55
 Ittireddu|40.544|8.901|IT|Sardinia|54
+Itanagar Airport|26.971|93.643|IN|Arunachal Pradesh|54|f
+Ítanos|35.264|26.263|GR|Crete|54|f
+Itasca State Park|47.197|-95.202|US|Minnesota|54|f
+Itcha Range|52.667|-124.836|CA|British Columbia|54|f
+Ito Island|-10.565|150.762|PG|Milne Bay Province|54|f
+Itumbiara Airport|-18.443|-49.214|BR|Goiás|54|f
 Itala|38.051|15.437|IT|Sicily|54
 Ituren|43.129|-1.707|ES|Navarre|54
 Iturmendi|42.890|-2.119|ES|Navarre|52
+Itapagipe Peninsula|-12.916|-38.497|BR|Bahia|49|f
 Ituero de Azaba|40.485|-6.693|ES|Castille and León|49
 Itero de la Vega|42.288|-4.257|ES|Castille and León|47
 Ituero y Lama|40.801|-4.379|ES|Castille and León|41
 Itero del Castillo|42.290|-4.244|ES|Castille and León|40
+Italian Air Force Museum|42.085|12.214|IT|Lazio|40|f
+Italian Lake|40.294|-76.901|US|Pennsylvania|40|f
+Itcha Ilgachuz Park|52.700|-124.970|CA|British Columbia|40|f
+Ithala Game Reserve|-27.517|31.333|ZA|KwaZulu-Natal|40|f
 Ita-Ogbolu|7.368|5.247|NG|Ondo State|0
 Itaipava do Grajaú|-5.143|-45.789|BR|Maranhão|0
 Itanhangá|-12.235|-56.646|BR|Mato Grosso|0

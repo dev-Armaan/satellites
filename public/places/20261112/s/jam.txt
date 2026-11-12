@@ -10,9 +10,9 @@ Jamālpur|24.920|89.948|BD|Mymensingh Division|105
 Jāmuria|23.705|87.079|IN|West Bengal|104
 Jampur|29.642|70.595|PK|Punjab|104
 Jamālpur|25.313|86.489|IN|Bihar|100
+Jämtland|63.000|14.667|SE||99|r
 Jamūī|24.926|86.225|IN|Bihar|99
 Jāmirdia|24.294|90.395|BD|Mymensingh Division|98
-Jämtland|63.000|14.667|SE||98|r
 Jamkhandi|16.505|75.291|IN|Karnataka|97
 Jamrud|34.002|71.380|PK|Khyber Pakhtunkhwa|95
 Jāmner|20.809|75.778|IN|Maharashtra|93
@@ -27,16 +27,20 @@ Jāmkhed|18.735|75.313|IN|Maharashtra|91
 Jam|27.830|52.325|IR|Bushehr|90
 Jamestown|42.097|-79.235|US|New York|90
 Jāmtāra|23.963|86.803|IN|Jharkhand|89
+James Bay|53.083|-80.583|CA|Nunavut|89|f
 Jammu Cantonment|32.704|74.861|IN|Jammu and Kashmir|89
 Jamjodhpur|21.902|70.036|IN|Gujarat|88
 Jāmul|21.250|81.400|IN|Chhattisgarh|88
+Jammu Airport|32.689|74.837|IN|Jammu and Kashmir|87|f
 Jāmai|22.196|78.592|IN|Madhya Pradesh|87
 Jambes|50.456|4.872|BE|Wallonia|86
 Jämsä|61.864|25.190|FI|Central Finland|86
+Jamnagar Airport|22.465|70.013|IN|Gujarat|85|f
 Jamay|20.295|-102.709|MX|Jalisco|85
 Jāmbai|11.468|77.643|IN|Tamil Nadu|84
 Jamestown|46.911|-98.708|US|North Dakota|84
 Jamaica|22.976|-82.169|CU|Mayabeque|84
+James Ross Island|-64.200|-57.750|AQ||83|f
 James Bay|48.417|-123.383|CA|British Columbia|82
 Jamaat Shaim|32.347|-8.842|MA|Marrakesh-Safi|82
 Jamba|-17.500|22.667|AO|Cuando Province|82
@@ -58,6 +62,7 @@ James City|35.089|-77.035|US|North Carolina|75
 Jamestown|41.497|-71.367|US|Rhode Island|75
 James Calata|-31.121|26.807|ZA|Eastern Cape|75
 Jām Khāneh|36.589|53.256|IR|Māzandarān|74
+Jamaica Bay|40.604|-73.835|US|New York|73|f
 James Craik|-32.161|-63.468|AR|Cordoba|73
 Jampruca|-18.463|-41.804|BR|Minas Gerais|73
 Jamapa|19.042|-96.241|MX|Veracruz|72
@@ -66,6 +71,8 @@ Jamestown|37.953|-120.423|US|California|71
 Jamilena|37.747|-3.914|ES|Andalusia|71
 Jamu Mare|45.254|21.417|RO|Timiș County|70
 Jamabalod|10.879|122.621|PH|Western Visayas|69
+James Clements Municipal Airport|43.548|-83.893|US|Michigan|69|f
+James River Bridge|36.991|-76.484|US|Virginia|69|f
 Jämjö|56.192|15.841|SE|Blekinge|68
 Jamestown West|42.089|-79.281|US|New York|68
 Jamao al Norte|19.636|-70.447|DO|Espaillat Province|67
@@ -74,6 +81,7 @@ Jamindan|11.400|122.498|PH|Western Visayas|67
 Jamestown|39.658|-83.735|US|Ohio|66
 Jambaló|2.778|-76.324|CO|Cauca Department|66
 Jamestown|36.428|-84.932|US|Tennessee|66
+James Island|48.513|-122.775|US|Washington|65|f
 Jamestown|36.985|-85.063|US|Kentucky|65
 Jamesport|40.950|-72.581|US|New York|65
 Jammālah|31.972|35.093|PS|West Bank|64
@@ -82,24 +90,99 @@ Jämshög|56.233|14.517|SE|Blekinge|64
 Jamestown|-33.205|138.605|AU|South Australia|64
 Jamioulx|50.353|4.413|BE|Wallonia|64
 Jamoigne|49.693|5.409|BE|Wallonia|63
+Jamaica|18.177|-77.371|JM||63|f
 Jamaica|21.143|-100.735|MX|Guanajuato|62
 Jamaica|19.855|-101.135|MX|Michoacán|61
+Jambudwīp|21.586|88.181|IN|West Bengal|61|f
+James Gruben Airport|69.433|-133.026|CA|Northwest Territories|61|f
+Jamestown Dam|46.933|-98.710|US|North Dakota|61|f
 Jamalteca|14.696|-87.579|HN|Comayagua Department|61
 Jameln|53.042|11.075|DE|Lower Saxony|61
 Jamaica Beach|29.190|-94.980|US|Texas|60
 Jamaica|43.100|-72.778|US|Vermont|60
+Jāmīshlū|35.246|48.976|IR|Hamadan Province|60
+Jambur|-4.608|-79.945|PE|Piura|60
+Jamestown|39.927|-86.629|US|Indiana|59
+James Peak|39.852|-105.690|US|Colorado|58|f
+Jamestown Bridge|41.528|-71.404|US|Rhode Island|58|f
+Jamestown Canal|53.917|-8.033|IE||58|f
+Jamestown Municipal Airport|46.930|-98.678|US|North Dakota|58|f
+Jamālābād|29.512|52.493|IR|Fars|58
+Jambville|49.046|1.853|FR|Île-de-France|57
+Jamā Kūh|37.839|48.934|IR|Gilan Province|57
+Jamné nad Orlicí|50.040|16.633|CZ|Pardubice Region|57
 Jamestown|-15.925|-5.718|SH|Saint Helena|56
+Jameston|51.656|-4.813|GB|Wales|56
+Jamlitz|51.991|14.361|DE|Brandenburg|56
+Jamestown|41.485|-80.438|US|Pennsylvania|55
+James Town|41.555|-109.517|US|Wyoming|55
+Jámy|49.530|16.006|CZ|Vysocina|55
+Jāmjuri|24.675|87.577|IN|Jharkhand|54
+Jamno|54.246|16.169|PL|West Pomerania|54
+Jamālābād|13.027|75.295|IN|Karnataka|54|f
+Jamba Airport|-14.698|16.070|AO|Huíla|54|f
+James Campbell National Wildlife Refuge|21.686|-157.953|US|Hawaii|54|f
+James M Cox Dayton International Airport|39.902|-84.219|US|Ohio|54|f
+James V Fitzgerald Marine Reserve|37.511|-122.510|US|California|54|f
+Jameson Point|-63.294|-62.262|AQ||54|f
+Jamesport|39.975|-93.801|US|Missouri|54
+Jambatan Sultan Ismail|2.051|102.567|MY|Johor|49|f
+James Island|47.906|-124.648|US|Washington|49|f
+James Kelly Basin|-43.277|145.885|AU|Tasmania|49|f
+James MacDonald Bridge|53.536|-113.488|CA|Alberta|49|f
+James Park|-33.700|151.113|AU|New South Wales|49|f
+Jamieson Ridge|-80.438|-25.831|AQ||49|f
 Jambrina|41.392|-5.664|ES|Castille and León|47
+Jamaica Bay Wildlife Refuge|40.615|-73.842|US|New York|40|f
+Jamaica Drain|34.456|-114.309|US|Arizona|40|f
+Jamaica Pond|42.317|-71.121|US|Massachusetts|40|f
+James Buchanan Memorial|38.920|-77.035|US|District of Columbia|40|f
+James Chabot Park|50.511|-116.024|CA|British Columbia|40|f
+James Island|49.300|-55.115|CA|Newfoundland and Labrador|40|f
+James Island|48.602|-123.347|CA|British Columbia|40|f
+James Lake|47.178|-79.740|CA|Ontario|40|f
+James M Shuart Stadium|40.716|-73.596|US|New York|40|f
+James River and Kanawha Canal|37.565|-77.530|US|Virginia|40|f
+James River National Wildlife Refuge|37.276|-77.132|US|Virginia|40|f
+James River State Wildlife Management Area|37.674|-78.726|US|Virginia|40|f
+Jameson Islands|68.105|-109.957|CA|Nunavut|40|f
+Jamestown Island|37.203|-76.759|US|Virginia|40|f
+Jamestown Museum|41.496|-71.376|US|Rhode Island|40|f
+Jamesville Reservoir|42.974|-76.069|US|New York|40|f
+Jamison Square|45.529|-122.682|US|Oregon|40|f
+Jamroga, Mount|-71.333|163.100|AQ||40|f
+Jämtkraft Arena|63.195|14.656|SE|Jämtland|40|f
+Jamtli|63.188|14.637|SE|Jämtland|40|f
+Jamul Mountains|32.674|-116.893|US|California|40|f
 Jama|-0.202|-80.264|EC|Manabí|0
 Jama’are|11.670|9.928|NG|Bauchi|0
 Jamalca|-5.867|-78.262|PE|Amazonas|0
 Jamanis|-7.189|108.184|ID|West Java|0
 Jamba Cueio|-15.425|17.976|AO||0
 Jamba Mineira|-14.687|16.034|AO|Huíla|0
+Jamban|-7.420|108.695|ID|West Java|0
+Jambangan|-8.162|112.738|ID|East Java|0
+Jambean|-6.737|111.035|ID|Central Java|0
+Jambearum|-8.049|113.924|ID|East Java|0
+Jambekumbu|-8.101|113.067|ID|East Java|0
 Jambelí|0.085|-77.076|EC|Sucumbíos|0
+Jambesari|-8.016|113.384|ID|East Java|0
+Jambewangi|-8.131|112.306|ID|East Java|0
+Jambeyan|-6.729|111.581|ID|Central Java|0
 Jambi Baru|2.779|97.889|ID|Aceh|0
+Jambu|-8.034|111.638|ID|East Java|0
+Jambuandap|-7.567|109.028|ID|Central Java|0
+Jambubol|-6.546|105.873|ID|Banten|0
+Jambuir Timur|-7.153|114.330|ID|East Java|0
+Jambul|-7.219|113.531|ID|East Java|0
 Jambula|0.758|127.318|ID|North Maluku|0
+Jambuluwuk|-7.314|108.870|ID|Central Java|0
+Jambumonyet|-7.036|113.736|ID|East Java|0
+Jambuwerkrajan|-8.093|112.463|ID|East Java|0
+Jamda|31.483|94.386|CN|Tibet|0
+Jami|-6.368|105.883|ID|Banten|0
 Jamong|-6.802|111.855|ID|East Java|0
 Jampang Kulon|-7.258|106.626|ID|West Java|0
 Jampang Tengah|-7.057|106.801|ID|West Java|0
 Jamshoro|25.436|68.280|PK|Sindh|0
+Jamupu|-7.493|108.252|ID|West Java|0

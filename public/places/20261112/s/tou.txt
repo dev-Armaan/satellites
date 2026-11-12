@@ -7,6 +7,7 @@ Toufen|24.688|120.909|TW|Taiwan|101
 Tourcoing|50.724|3.161|FR|Hauts-de-France|100
 Tournai|50.607|3.389|BE|Wallonia|97
 Toumodi|6.558|-5.018|CI|Lacs District|95
+Toulon-Hyères Airport|43.097|6.146|FR|Provence-Alpes-Côte d'Azur|91|f
 Touros|-5.199|-35.461|BR|Rio Grande do Norte|90
 Tournefeuille|43.589|1.319|FR|Occitanie|89
 Touboro|7.771|15.357|CM|North|89
@@ -22,6 +23,7 @@ Toukountouna|10.503|1.374|BJ|Atakora|84
 Toulépleu Gueré|6.574|-8.426|CI|Montagnes|83
 Toungo|8.117|12.046|NG|Adamawa|81
 Toumoukro|10.386|-5.751|CI|Savanes District|81
+Touat-Cheikh Sidi Mohamed Belkebir Airport|27.838|-0.186|DZ|Adrar|81|f
 Tournon-sur-Rhône|45.067|4.833|FR|Auvergne-Rhône-Alpes|80
 Touwsrivier|-33.338|20.031|ZA|Western Cape|80
 Tounfit|32.469|-5.245|MA|Drâa-Tafilalet|79
@@ -29,11 +31,14 @@ Toulépleu|6.580|-8.411|CI|Montagnes|79
 Tournan-en-Brie|48.741|2.772|FR|Île-de-France|78
 Toudu|28.938|107.182|CN|Chongqing|77
 Touza|35.635|10.827|TN|Monastir Governorate|77
+Tour d'Aï|46.372|7.002|CH|Vaud|77|f
 Toumanguié|5.327|-3.324|CI|Comoé District|77
 Tournus|46.568|4.906|FR|Bourgogne-Franche-Comté|76
 Toulouges|42.671|2.832|FR|Occitanie|75
+Tour Sallière|46.127|6.925|CH|Valais|75|f
 Tourvré|9.903|-6.502|CI|Savanes District|75
 Toupah|5.319|-4.566|CI|Lagunes District|75
+Touho Airport|-20.790|165.259|NC|North Province|73|f
 Touanié|5.518|-6.510|CI|Bas-Sassandra District|73
 Touro|42.868|-8.308|ES|Galicia|73
 Tourrette-Levens|43.786|7.276|FR|Provence-Alpes-Côte d'Azur|73
@@ -42,10 +47,14 @@ Toufflers|50.660|3.234|FR|Hauts-de-France|72
 Toutoubré|6.084|-6.079|CI|Goh-Djiboua|72
 Tourves|43.408|5.924|FR|Provence-Alpes-Côte d'Azur|71
 Touques|49.344|0.102|FR|Normandy|71
+Tourlída|38.328|21.427|GR|West Greece|71|f
+Toussaint L'Ouverture International Airport|18.580|-72.293|HT|Ouest|71|f
 Tougbo|9.764|-4.141|CI|Zanzan District|71
 Toužim|50.060|12.985|CZ|Carlsbad Region|71
 Toubalo|7.716|-6.104|CI|Woroba|71
 Touissite|34.479|-1.768|MA|Oriental|71
+Toulouse-Blagnac Airport|43.629|1.364|FR|Occitanie|70|f
+Toutant Airport|41.955|-72.056|US|Connecticut|70|f
 Toumodi Sakassou|7.399|-5.564|CI|Vallée du Bandama District|70
 Tougouloukaye|9.784|-3.825|CI|Zanzan District|70
 Toucy|47.736|3.295|FR|Bourgogne-Franche-Comté|69
@@ -56,6 +65,8 @@ Tourville-la-Rivière|49.328|1.106|FR|Normandy|67
 Toutouko|5.676|-5.930|CI|Goh-Djiboua|67
 Toutouman|7.792|-6.614|CI|Sassandra-Marahoue|67
 Touho|-20.791|165.250|NC|North Province|67
+Tours Val de Loire Airport|47.432|0.728|FR|Centre-Val de Loire|67|f
+Toussus-le-Noble Airport|48.752|2.106|FR|Île-de-France|67|f
 Toulenne|44.559|-0.263|FR|New Aquitaine|67
 Toussieu|45.654|4.985|FR|Auvergne-Rhône-Alpes|67
 Tourinnes-Saint-Lambert|50.640|4.724|BE|Wallonia|67
@@ -72,6 +83,7 @@ Toulaud|44.898|4.816|FR|Auvergne-Rhône-Alpes|64
 Toulaké|4.531|-7.220|CI|Bas-Sassandra District|64
 Touying|39.964|117.218|CN|Tianjin|64
 Toughkenamon|39.831|-75.757|US|Pennsylvania|63
+Tour de Don|46.290|6.862|CH|Valais|63|f
 Touvois|46.903|-1.684|FR|Pays de la Loire|63
 Tourinnes-la-Grosse|50.783|4.744|BE|Wallonia|63
 Touoba|7.865|-7.465|CI|Montagnes|63
@@ -81,6 +93,8 @@ Tournehem-sur-la-Hem|50.800|2.050|FR|Hauts-de-France|62
 Tours-sur-Marne|49.049|4.121|FR|Grand Est|62
 Tournon-Saint-Martin|46.734|0.955|FR|Centre-Val de Loire|62
 Tournay|43.185|0.245|FR|Occitanie|62
+Touba Mahana Airport|8.293|-7.674|CI|Woroba|61|f
+Toulouse – Lasbordes Airport|43.589|1.500|FR|Occitanie|61|f
 Tourville-sur-Arques|49.859|1.102|FR|Normandy|61
 Tous|39.140|-0.588|ES|Valencia|61
 Tourville-sur-Odon|49.142|-0.501|FR|Normandy|61
@@ -92,7 +106,76 @@ Touvre|45.661|0.259|FR|New Aquitaine|61
 Toutainville|49.365|0.465|FR|Normandy|61
 Toutlemonde|47.056|-0.768|FR|Pays de la Loire|60
 Touré-Makari|7.747|-4.346|CI|Lacs District|60
+Toutey|8.839|-6.272|CI|Woroba|60
+Touéleu|7.223|-8.021|CI|Montagnes|60
+Tourny|49.182|1.545|FR|Normandy|60
+Tour-en-Sologne|47.540|1.505|FR|Centre-Val de Loire|59
+Tourpes|50.573|3.651|BE|Wallonia|59
+Touapleubli|6.622|-8.451|CI|Montagnes|59
+Toumbo|7.827|-3.888|CI|Lacs District|59
+Tourch|48.025|-3.826|FR|Brittany|59
 Tournavista|-8.929|-74.705|PE|Huánuco Department|59
+Tourgeville|49.321|0.070|FR|Normandy|59
+Tournay|49.855|5.398|BE|Wallonia|59
+Touffreville-la-Corbeline|49.582|0.763|FR|Normandy|58
+Tours-en-Savoie|45.654|6.441|FR|Auvergne-Rhône-Alpes|58
+Tourville-la-Campagne|49.226|0.903|FR|Normandy|58
+Touta|9.647|-3.951|CI|Zanzan District|58
+Toussieux|45.958|4.832|FR|Auvergne-Rhône-Alpes|58
+Toussus-le-Noble|48.749|2.113|FR|Île-de-France|57
+Tours-en-Vimeu|50.035|1.684|FR|Hauts-de-France|57
+Toumounou|6.961|-4.427|CI|Lacs District|57
+Tourville-sur-Pont-Audemer|49.328|0.514|FR|Normandy|57
+Tourmignies|50.507|3.084|FR|Hauts-de-France|57
+Toussaint|49.738|0.424|FR|Normandy|57
+Touroudio|10.230|-7.162|CI|Denguélé District|57
+Toulonjac|44.381|2.000|FR|Occitanie|57
+Toúrlos|37.463|25.330|GR|South Aegean|57
+Tourville-sur-Sienne|49.046|-1.548|FR|Normandy|56
+Tourtoirac|45.271|1.058|FR|New Aquitaine|56
+Toukro|7.774|-6.436|CI|Woroba|56
+Toulo|8.151|-7.399|CI|Woroba|56
+Toúmpa|40.935|22.544|GR|Central Macedonia|56
+Touroni|9.397|-7.778|CI|Denguélé District|56
+Toutié|8.210|-7.870|CI|Woroba|56
+Tourriers|45.798|0.192|FR|New Aquitaine|56
+Touvérac|45.383|-0.200|FR|New Aquitaine|55
+Toúmpa|41.024|23.706|GR|Central Macedonia|55
+Tourville-les-Ifs|49.714|0.400|FR|Normandy|55
+Tours-sur-Meymont|45.672|3.576|FR|Auvergne-Rhône-Alpes|55
+Touloukoro|7.817|-6.199|CI|Woroba|55
+Tournon-Saint-Pierre|46.739|0.953|FR|Centre-Val de Loire|55
+Tour-en-Bessin|49.298|-0.778|FR|Normandy|54
+Tougan Airport|13.059|-3.075|BF|Boucle du Mouhoun|54|f
+Tourmaline Surfing Park|32.805|-117.262|US|California|54|f
+Tourtour|43.589|6.302|FR|Provence-Alpes-Côte d'Azur|54
+Touget|43.690|0.915|FR|Occitanie|54
 Tounj|45.251|15.325|HR|Karlovac|50
+Touchdown Glacier|-79.800|158.167|AQ||49|f
+Touchmenot Mountain|42.048|-74.741|US|New York|49|f
+Tour de Boussine|45.936|7.324|CH|Valais|49|f
+Tour Tanguy|48.383|-4.497|FR|Brittany|49|f
+Tour Vauban|48.280|-4.592|FR|Brittany|49|f
+Tournachon Peak|-64.330|-61.054|AQ||49|f
+Touchwood Lake|54.479|-94.997|CA|Manitoba|40|f
+Touchwood Lake|54.809|-111.412|CA|Alberta|40|f
+Tour de Famelon|46.383|7.024|CH|Vaud|40|f
+Tour de Mayen|46.375|7.008|CH|Vaud|40|f
+Tour métallique de Fourvière|45.764|4.822|FR|Auvergne-Rhône-Alpes|40|f
+Tournament Park|34.134|-118.126|US|California|40|f
+Tournelon Blanc|45.970|7.322|CH|Valais|40|f
+Touro University California|38.090|-122.264|US|California|40|f
+Tousled Peak|-73.183|169.017|AQ||40|f
 Touama|31.535|-7.493|MA|Marrakesh-Safi|0
 Touba|11.600|-13.033|GN|Boké Region|0
+Toubao|26.349|119.626|CN|Fujian|0
+Toudao|41.512|125.872|CN|Jilin|0
+Toufang|33.250|105.100|CN|Gansu|0
+Touhao|41.306|112.314|CN|Inner Mongolia|0
+Toupi|26.756|116.193|CN|Jiangxi|0
+Toupopu|-9.703|119.472|ID|East Nusa Tenggara|0
+Toutai|44.726|84.634|CN|Heilongjiang|0
+Toutuo|28.631|121.142|CN|Zhejiang|0
+Touying|36.165|106.218|CN|Ningxia|0
+Touzao|32.889|120.549|CN|Jiangsu|0
+Touzhan|46.960|123.253|CN|Heilongjiang|0

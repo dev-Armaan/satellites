@@ -10,6 +10,8 @@ Aldeias Altas|-4.628|-43.471|BR|Maranhão|87
 Aldrich Bay|22.282|114.225|HK|Eastern District|85
 Aldine|29.932|-95.380|US|Texas|84
 ALdinigila wad dhahi|13.882|32.377|SD|White Nile|84
+Alderney|49.716|-2.198|GG|Alderney|83|f
+Alderney Airport|49.707|-2.216|GG|Alderney|83|f
 Aldama|22.921|-98.075|MX|Tamaulipas|83
 Aldergrove|49.058|-122.471|CA|British Columbia|82
 Aldeia de Paio Pires|38.617|-9.083|PT|Setúbal|82
@@ -29,6 +31,7 @@ Aldan|39.922|-75.288|US|Pennsylvania|72
 Aldeia Nova|37.926|-7.408|PT|Beja|72
 Aldergrove East|49.056|-122.455|CA|British Columbia|71
 Aldgate|-35.017|138.733|AU|South Australia|71
+Aldabra|-9.417|46.340|SC||70|f
 Aldeno|45.978|11.093|IT|Trentino-Alto Adige|69
 Alderton|47.170|-122.229|US|Washington|69
 Alderholt|50.912|-1.831|GB|England|69
@@ -46,6 +49,7 @@ Aldino|46.366|11.355|IT|Trentino-Alto Adige|64
 Aldbourne|51.481|-1.618|GB|England|64
 Aldeboarn|53.050|5.900|NL|Friesland|64
 Aldeadávila de la Ribera|41.218|-6.618|ES|Castille and León|63
+Aldan Airport|58.603|125.407|RU|Sakha|63|f
 Aldeia de Joanes|40.139|-7.517|PT|Castelo Branco|62
 Aldama|16.916|-92.689|MX|Chiapas|62
 Aldbrough|53.829|-0.115|GB|England|62
@@ -53,14 +57,34 @@ Aldavilla|-31.082|152.768|AU|New South Wales|62
 Alderson|37.726|-80.642|US|West Virginia|61
 Aldershot|-25.463|152.663|AU|Queensland|61
 Aldea San Antonio|-32.623|-58.705|AR|Entre Rios|61
+Aldington|51.092|0.945|GB|England|60
+Aldouane|46.633|-65.065|CA|New Brunswick|60
 Aldeacentenera|39.527|-5.629|ES|Extremadura|59
 Aldeatejada|40.922|-5.693|ES|Castille and León|59
 Aldeanueva del Camino|40.260|-5.929|ES|Extremadura|59
+Aldwâld|53.282|6.114|NL|Friesland|58
+Aldover|40.880|0.500|ES|Catalonia|58
+Aldabra Islands|-9.723|47.041|SC||58|f
+Aldinga Bay|-35.330|138.430|AU|South Australia|58|f
+Aldrich Mountains|44.315|-119.308|US|Oregon|58|f
+Āldāshīn|38.178|48.016|IR|Ardabil Province|58
+Aldtsjerk|53.266|5.887|NL|Friesland|58
+Alden|42.520|-93.376|US|Iowa|58
 Aldea del Cano|39.289|-6.318|ES|Extremadura|57
 Aldeire|37.160|-3.072|ES|Andalusia|57
 Aldeanueva de Barbarroya|39.759|-5.023|ES|Castille-La Mancha|57
+Alda|40.871|-98.468|US|Nebraska|56
+Alden|43.670|-93.576|US|Minnesota|56
+Aldbury|51.802|-0.602|GB|England|56
+Aldești|46.395|22.042|RO|Arad County|56
+Aldeni|45.319|26.757|RO|Buzău County|55
 Aldealengua|40.981|-5.549|ES|Castille and León|55
+Aldama|16.966|-97.596|MX|Oaxaca|55
 Aldeaquemada|38.412|-3.371|ES|Andalusia|54
+Aldegondabreen|77.978|14.074|SJ|Svalbard|54|f
+Alder Lake|46.773|-122.229|US|Washington|54|f
+Aldra|66.426|13.066|NO|Nordland|54|f
+Aldrich Contemporary Art Museum|41.276|-73.497|US|Connecticut|54|f
 Aldeanueva de San Bartolomé|39.636|-5.113|ES|Castille-La Mancha|54
 Aldearrubia|41.008|-5.498|ES|Castille and León|54
 Aldea del Obispo|40.707|-6.793|ES|Castille and León|52
@@ -69,6 +93,12 @@ Aldehuela de la Bóveda|40.851|-6.053|ES|Castille and León|51
 Aldeaseca de la Frontera|40.942|-5.207|ES|Castille and León|50
 Aldeaseca|41.049|-4.817|ES|Castille and León|50
 Aldeanueva de Figueroa|41.148|-5.524|ES|Castille and León|50
+Aldaz, Mount|-76.050|-124.417|AQ||49|f
+Aldea Island|-69.207|-68.507|AQ||49|f
+Alder Bed Mountain|44.024|-75.053|US|New York|49|f
+Alderdice Peak|-68.200|49.583|AQ||49|f
+Aldeyjarfoss|65.370|-17.347|IS|Northeast|49|f
+Aldinga Scrub Conservation Park|-35.298|138.456|AU|South Australia|49|f
 Aldford|53.128|-2.868|GB|England|49
 Aldehuela de Yeltes|40.663|-6.243|ES|Castille and León|48
 Aldea de San Miguel|41.461|-4.616|ES|Castille and León|47
@@ -81,6 +111,19 @@ Aldealafuente|41.672|-2.325|ES|Castille and León|42
 Aldeanueva de Guadalajara|40.680|-3.044|ES|Castille-La Mancha|41
 Aldeanueva de la Sierra|40.616|-6.100|ES|Castille and León|41
 Aldeaseca de Alba|40.819|-5.447|ES|Castille and León|40
+Alden|61.323|4.769|NO|Vestland|40|f
+Alden Bridge|42.521|-93.375|US|Iowa|40|f
+Alden Island|42.054|-70.681|US|Massachusetts|40|f
+Alden Lake|47.061|-92.031|US|Minnesota|40|f
+Alder Dam|46.801|-122.310|US|Washington|40|f
+Alder Island|45.350|-66.882|CA|New Brunswick|40|f
+Alder Lake|42.049|-74.676|US|New York|40|f
+Aldershot Military Museum|51.270|-0.751|GB|England|40|f
+Alderson Bridge|37.727|-80.650|US|West Virginia|40|f
+Aldford Blobb Hill|53.130|-2.870|GB|England|40|f
+Aldi Peak|-80.283|154.833|AQ||40|f
+Aldridge Ledge|42.346|-70.909|US|Massachusetts|40|f
+Aldridge Peak|-72.450|167.400|AQ||40|f
 Aldeonte|41.351|-3.678|ES|Castille and León|39
 Aldealengua de Santa María|41.462|-3.467|ES|Castille and León|38
 Aldeasoña|41.473|-4.057|ES|Castille and León|38

@@ -25,6 +25,7 @@ Menomonee Falls|43.179|-88.117|US|Wisconsin|91
 Menlo Park|37.454|-122.182|US|California|90
 Menen|50.797|3.122|BE|Flanders|90
 Mengla|21.462|101.564|CN|Yunnan|90
+Menorca Airport|39.863|4.219|ES|Balearic Islands|90|f
 Menton|43.776|7.504|FR|Provence-Alpes-Côte d'Azur|89
 Mendī|9.800|35.100|ET|Oromiya|89
 Menuma|36.222|139.382|JP|Saitama|89
@@ -56,6 +57,7 @@ Ménaka|15.920|2.396|ML|Ménaka|83
 Mengwang|22.450|101.383|CN|Yunnan|82
 Mentone|-37.983|145.067|AU|Victoria|82
 Menzel Hayet|35.542|10.574|TN|Monastir Governorate|82
+Menai Strait|53.200|-4.212|GB|Wales|82|f
 Mengede|51.572|7.384|DE|North Rhine-Westphalia|82
 Menfi|37.604|12.969|IT|Sicily|81
 Menzel Ennour|35.669|10.781|TN|Monastir Governorate|81
@@ -64,9 +66,11 @@ Mendota Heights|44.884|-93.138|US|Minnesota|81
 Mena|51.522|32.214|UA|Chernihiv Oblast|81
 Mengyan|26.317|108.883|CN|Guizhou|80
 Mengenich|50.978|6.867|DE|North Rhine-Westphalia|80
+Menongue Airport|-14.658|17.720|AO||80|f
 Mengen|48.050|9.330|DE|Baden-Wurttemberg|80
 Menai|-34.017|151.017|AU|New South Wales|80
 Mengibar|37.970|-3.809|ES|Andalusia|80
+Menkaura|29.973|31.128|EG||80|f
 Mendig|50.367|7.283|DE|Rheinland-Pfalz|79
 Mentone|34.070|-117.134|US|California|79
 Menzel Kamel|35.625|10.667|TN|Monastir Governorate|79
@@ -85,6 +89,7 @@ Menzel Heurr|36.728|10.958|TN|Nabeul Governorate|75
 Menziken|47.240|8.190|CH|Aargau|75
 Menucourt|49.028|1.980|FR|Île-de-France|75
 Mendon|42.106|-71.552|US|Massachusetts|75
+Meneng Stadium|-0.540|166.930|NR|Meneng District|74|f
 Mendham|40.776|-74.601|US|New Jersey|74
 Menston|53.890|-1.744|GB|England|74
 Mendeleyevo|58.167|68.300|RU|Tyumen Oblast|73
@@ -98,12 +103,15 @@ Menai Bridge|53.228|-4.169|GB|Wales|71
 Mendeleyevo|58.170|54.996|RU|Perm Krai|70
 Menaggio|46.021|9.239|IT|Lombardy|70
 Men|25.030|84.892|IN|Bihar|70
+Menominee-Marinette Twin County Airport|45.126|-87.639|US|Michigan|70|f
 Méntrida|40.239|-4.193|ES|Castille-La Mancha|70
 Mengersgereuth-Hämmern|50.397|11.116|DE|Thuringia|69
 Menstrie|56.151|-3.855|GB|Scotland|69
 Menzel Salem|35.857|8.477|TN|Kef Governorate|69
 Menaam|53.218|5.661|NL|Friesland|69
 Menasalbas|39.640|-4.284|ES|Castille-La Mancha|69
+Mendol Island|0.597|103.224|ID|Riau|69|f
+Mentasta Mountains|62.607|-143.073|US|Alaska|69|f
 Menznau|47.084|8.040|CH|Lucerne|68
 Menslage|52.678|7.816|DE|Lower Saxony|68
 Menglembu|4.559|101.048|MY|Perak|68
@@ -126,6 +134,9 @@ Mendaro|43.253|-2.386|ES|Basque Country|64
 Ménékié|6.184|-6.071|CI|Goh-Djiboua|64
 Mengquan|39.825|117.477|CN|Tianjin|64
 Menchykury|47.073|34.803|UA|Zaporizhzhia|64
+Mena Intermountain Municipal Airport|34.548|-94.208|US|Arkansas|63|f
+Mendi Airport|-6.150|143.657|PG|Southern Highlands Province|63|f
+Menefee Mountain|37.327|-108.249|US|Colorado|63|f
 Ménestreau-en-Villette|47.700|2.023|FR|Centre-Val de Loire|63
 Ménilles|49.033|1.367|FR|Normandy|63
 Menneval|49.100|0.617|FR|Normandy|63
@@ -141,39 +152,153 @@ Meneou|34.861|33.593|CY|Larnaka|62
 Menores|20.920|-101.395|MX|Guanajuato|62
 Menaẖemya|32.663|35.555|IL|Northern District|62
 Menangle|-34.127|150.739|AU|New South Wales|61
+Menan Buttes|43.784|-111.973|US|Idaho|61|f
+Mendig Air Base|50.366|7.315|DE|Rheinland-Pfalz|61|f
+Mendota Bridge|44.888|-93.178|US|Minnesota|61|f
+Ménier Island|-64.981|-63.595|AQ||61|f
+Mentzel, Mount|-71.367|13.667|AQ||61|f
 Menou|7.017|-5.216|CI|Yamoussoukro|61
 Meningie|-35.686|139.340|AU|South Australia|61
 Ménerbes|43.832|5.206|FR|Provence-Alpes-Côte d'Azur|61
 Mendigorría|42.628|-1.835|ES|Navarre|60
 Mendon|43.652|-72.928|US|Vermont|60
 Méniko|35.109|33.145|CY|Nicosia|60
+Mentone|41.173|-86.035|US|Indiana|60
+Mensdorf|49.655|6.304|LU|Grevenmacher|60
+Mennetou-sur-Cher|47.269|1.864|FR|Centre-Val de Loire|59
+Mendon|40.088|-91.284|US|Illinois|59
+Ménigoute|46.496|-0.059|FR|New Aquitaine|59
+Mendocino|39.307|-123.799|US|California|59
+Mendlesham|52.250|1.081|GB|England|59
 Méndez|25.118|-98.587|MX|Tamaulipas|59
+Mendon|42.006|-85.450|US|Michigan|59
+Mendonk|51.147|3.821|BE|Flanders|59
+Menàrguens|41.733|0.750|ES|Catalonia|58
+Ménil|47.776|-0.677|FR|Pays de la Loire|58
+Mendeleyev Glacier|-71.900|14.517|AQ||58|f
+Mendums Pond|43.173|-71.065|US|New Hampshire|58|f
+Menehune Fishpond|21.949|-159.372|US|Hawaii|58|f
+Menelaus Ridge|-64.592|-63.622|AQ||58|f
+Menkeøyane|77.153|22.742|SJ||58|f
+Mengerschied|49.917|7.500|DE|Rheinland-Pfalz|58
+Menheniot|50.440|-4.412|GB|England|58
+Mendionde|43.340|-1.298|FR|New Aquitaine|58
+Mendéké|7.318|-5.243|CI|Vallée du Bandama District|58
+Menan|43.721|-111.990|US|Idaho|58
 Mendoza|9.016|-79.849|PA|Panamá Oeste Province|57
+Menà|45.089|11.434|IT|Veneto|57
+Menteş|38.312|30.123|TR|Afyonkarahisar Province|57
+Menomblet|46.732|-0.713|FR|Pays de la Loire|57
+Menocucho|-8.023|-78.839|PE|La Libertad|57
+Menthonnex-en-Bornes|46.052|6.173|FR|Auvergne-Rhône-Alpes|56
+Mennevret|49.986|3.555|FR|Hauts-de-France|56
+Mendon|40.673|-84.519|US|Ohio|56
+Menat|46.104|2.904|FR|Auvergne-Rhône-Alpes|56
+Menneville|50.679|1.866|FR|Hauts-de-France|56
+Menuẖa|31.657|34.777|IL|Southern District|56
+Menekşe|37.080|35.350|TR|Adana|56
+Menars|47.643|1.408|FR|Centre-Val de Loire|56
+Menindee|-32.393|142.418|AU|New South Wales|56
+Menno|43.240|-97.578|US|South Dakota|55
+Menz|52.119|11.764|DE|Saxony-Anhalt|55
+Menthonnex-sous-Clermont|45.964|5.934|FR|Auvergne-Rhône-Alpes|55
+Měník|50.215|15.528|CZ|Hradec Králové Region|55
+Mendooran|-31.823|149.122|AU|New South Wales|55
+Menchhoffen|48.859|7.496|FR|Grand Est|55
+Ménéménétou|8.130|-5.633|CI|Woroba|55
+Menții din Dos|44.692|23.223|RO|Gorj County|55
+Mentque-Nortbécourt|50.783|2.086|FR|Hauts-de-France|55
+Menands Bridge|42.701|-73.702|US|New York|54|f
+Menara|31.613|-8.022|MA|Marrakesh-Safi|54|f
+Mendenhall Glacier|58.519|-134.478|US|Alaska|54|f
+Mendenhall Lake|58.424|-134.563|US|Alaska|54|f
+Mendori Island|-69.005|39.538|AQ||54|f
+Menefee Peak|37.327|-108.249|US|Colorado|54|f
+Menengai Crater|-0.204|36.073|KE|Nakuru County|54|f
+Menipa Peak|-71.942|25.083|AQ||54|f
+Mentawai Strait|-1.750|100.000|ID||54|f
+Menzelet Barajı|37.675|36.849|TR|Kahramanmaraş|54|f
+Menet|45.297|2.584|FR|Auvergne-Rhône-Alpes|54
 Mengellang|7.696|134.631|PW|Ngarchelong|54
 Mengabril|38.936|-5.933|ES|Extremadura|53
+Menai Bay|-6.383|39.367|TZ|Zanzibar Central/South|49|f
+Menaka Airport|15.849|2.434|ML|Gao|49|f
+Mencius Temple|36.175|-112.230|US|Arizona|49|f
+Menkemaborg|53.406|6.682|NL|Groningen|49|f
+Menunketesuck Island|41.264|-72.464|US|Connecticut|49|f
+Menzies, Mount|-73.437|61.911|AQ||49|f
 Mendatica|44.077|7.806|IT|Liguria|47
+Menningen|49.833|6.483|DE|Rheinland-Pfalz|45
 Meneses de Campos|41.941|-4.919|ES|Castille and León|43
+Mên-an-Tol|50.159|-5.604|GB|England|40|f
+Menard-Hodges Site|33.989|-91.215|US|Arkansas|40|f
+Mende|39.965|23.424|GR|Central Macedonia|40|f
+Mendenhall Peak|-85.400|-87.317|AQ||40|f
+Mendip Transmitting Station|51.237|-2.625|GB|England|40|f
+Mendizorrotza Stadium|42.837|-2.688|ES|Basque Country|40|f
+Mendocino Headlands State Park|39.309|-123.809|US|California|40|f
+Mendon Peak|43.595|-72.846|US|Vermont|40|f
+Menemsha Pond|41.336|-70.774|US|Massachusetts|40|f
+Menlo Avenue-West Twenty-ninth Street Historic District|34.030|-118.290|US|California|40|f
+Menster Ledge|-80.300|156.383|AQ||40|f
+Mentone Springs Hotel (historical)|34.580|-85.590|US|Alabama|40|f
+Menzies Bay|50.128|-125.379|CA|British Columbia|40|f
 Mengamuñoz|40.500|-5.000|ES|Castille and León|37
 Menconico|44.797|9.279|IT|Lombardy|35
 Menarola|46.299|9.361|IT|Lombardy|33
 Mentone|31.705|-103.599|US|Texas|26
+Menala|-8.744|116.856|ID|West Nusa Tenggara|0
+Menampukrajan|-8.331|113.415|ID|East Java|0
+Menanga|-8.410|115.421|ID|Bali|0
 Menanga|-8.436|123.087|ID|East Nusa Tenggara|0
+Menara|-6.728|111.592|ID|Central Java|0
+Mencon|-6.834|111.191|ID|Central Java|0
 Menden|-7.247|111.455|ID|Central Java|0
+Mendenrejo|-7.238|111.445|ID|Central Java|0
 Mendexa|43.346|-2.484|ES|Basque Country|0
+Mendogo Lor|-7.088|112.492|ID|East Java|0
 Mendoza|-6.394|-77.482|PE|Amazonas|0
 Menes|-6.376|105.919|ID|Banten|0
+Menganti|-7.549|109.156|ID|Central Java|0
+Mengbi|29.381|109.798|CN|Hunan|0
+Mengcun|34.166|109.215|CN|Shaanxi|0
+Mengdadazhuang|35.833|102.639|CN|Qinghai|0
 Mengdong|23.162|99.202|CN|Yunnan|0
 Mengen|40.939|32.076|TR|Bolu|0
+Mengenkrajan|-8.040|113.851|ID|East Java|0
 Menggala|-4.471|105.252|ID|Lampung|0
+Menggusi|41.275|112.015|CN|Inner Mongolia|0
 Menghai|21.953|100.435|CN|Yunnan|0
+Menghe|32.016|119.849|CN|Jiangsu|0
+Mengjia|46.060|126.552|CN|Heilongjiang|0
+Mengjiagang|46.422|130.660|CN|Heilongjiang|0
+Mengjiaqiao|40.181|94.616|CN|Gansu|0
+Mengjiaxi|29.855|112.088|CN|Hubei|0
 Mengjin|34.826|112.436|CN|Henan|0
 Mengkalip|-2.149|114.882|ID|Central Kalimantan|0
 Menglie|22.560|101.868|CN|Yunnan|0
 Mengmeng|23.465|99.802|CN|Yunnan|0
+Mengquan|29.415|111.475|CN|Hunan|0
+Mengshan|28.123|114.963|CN|Jiangxi|0
 Mengshan|24.196|110.521|CN|Guangxi|0
 Mengsuo|22.602|99.551|CN|Yunnan|0
+Mengusi|32.008|110.450|CN|Hubei|0
+Mengxi|29.750|111.817|CN|Hunan|0
+Mengxi|28.081|108.976|CN|Guizhou|0
+Mengxihu|29.122|109.478|CN|Hunan|0
+Mengxingzhuang|34.175|119.217|CN|Jiangsu|0
+Mengzhai|33.543|113.609|CN|Henan|0
 Mengzhou|34.907|112.785|CN|Henan|0
 Menjalin|0.469|109.338|ID|West Kalimantan|0
+Menlou|37.417|121.232|CN|Shandong|0
+Menlou’ao|27.434|119.875|CN|Zhejiang|0
+Menlouxia|26.014|112.207|CN|Hunan|0
+Menol|-7.643|108.088|ID|West Java|0
 Mensalong|3.759|116.745|ID|North Kalimantan|0
+Mentaraman Satu|-8.305|112.425|ID|East Java|0
 Mentarang|3.606|116.168|ID|North Kalimantan|0
+Mentaras|-6.982|112.447|ID|East Java|0
 Menteşe|37.117|28.267|TR|Muğla|0
+Mentoro Wetan|-6.699|111.490|ID|Central Java|0
+Mentosari|-8.220|113.212|ID|East Java|0
+Mentoso|-6.794|111.981|ID|East Java|0

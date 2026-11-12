@@ -19,9 +19,11 @@ Werneck|49.982|10.099|DE|Bavaria|80
 Werlte|52.851|7.675|DE|Lower Saxony|79
 Wertingen|48.563|10.681|DE|Bavaria|79
 Werneuchen|52.633|13.734|DE|Brandenburg|78
+Wernigerode Castle|51.831|10.795|DE|Saxony-Anhalt|77|f
 Wervershoof|52.730|5.158|NL|North Holland|76
 Wermsdorf|51.283|12.950|DE|Saxony|76
 Wernberg-Köblitz|49.539|12.161|DE|Bavaria|75
+Wereldmuseum Rotterdam|51.908|4.481|NL|South Holland|75|f
 Wervicq-Sud|50.775|3.042|FR|Hauts-de-France|73
 Werbach|49.671|9.639|DE|Baden-Wurttemberg|71
 Werchter|50.973|4.701|BE|Flanders|71
@@ -30,6 +32,7 @@ Werbkowice|50.754|23.764|PL|Lublin|70
 Wertach|47.603|10.410|DE|Bavaria|69
 Wernersville|40.330|-76.081|US|Pennsylvania|68
 Werndorf|46.924|15.491|AT|Styria|67
+Wertatscha|46.440|14.213|AT||67|f
 Werda|-25.267|23.283|BW|Kgalagadi|67
 Werkhoven|52.025|5.244|NL|Utrecht|66
 Werthenstein|47.056|8.102|CH|Lucerne|66
@@ -41,12 +44,57 @@ Werris Creek|-31.349|150.649|AU|New South Wales|64
 Wernersberg|49.191|7.928|DE|Rheinland-Pfalz|61
 Werpeloh|52.872|7.508|DE|Lower Saxony|61
 Wernhout|51.455|4.642|NL|North Brabant|60
+Werken|51.029|2.964|BE|Flanders|60
+Werombi|-33.983|150.583|AU|New South Wales|59
+Wershofen|50.445|6.813|DE|Rheinland-Pfalz|59
+Werben|52.860|11.982|DE|Saxony-Anhalt|59
+Werbomont|50.381|5.682|BE|Wallonia|59
+Weris|50.326|5.531|BE|Wallonia|59
+Werur Airport|-0.421|132.187|ID|Southwest Papua|58|f
+Werlaburgdorf|52.050|10.537|DE|Lower Saxony|58
+Wernburg|50.678|11.602|DE|Thuringia|58
+Wermatswil|47.364|8.742|CH|Zurich|58
+Werningshausen|51.140|11.001|DE|Thuringia|57
+Werm|50.833|5.480|BE|Flanders|57
 Werfenweng|47.462|13.256|AT|Salzburg|57
+Werdum|53.658|7.719|DE|Lower Saxony|57
+Wereham|52.586|0.481|GB|England|56
 Wernstein am Inn|48.508|13.461|AT|Upper Austria|56
 Wernberg|46.617|13.933|AT|Carinthia|55
+Werentzhouse|47.518|7.355|FR|Grand Est|55
+Wernetshausen|47.299|8.865|CH|Zurich|55
+Werbellinkanal|52.840|13.564|DE|Brandenburg|54|f
+Wertacher Hörnle|47.546|10.389|DE|Bavaria|54|f
+Wérébo|8.404|-5.950|CI|Woroba|54
+Werder|53.501|12.008|DE|Mecklenburg-Vorpommern|54
+Werakata National Park|-32.849|151.418|AU|New South Wales|49|f
+Werbellinsee|52.924|13.714|DE|Brandenburg|49|f
+Werdinsel|47.400|8.488|CH|Zurich|49|f
+Werenskioldbreen|77.077|15.336|SJ|Svalbard|49|f
+Werenskioldfjellet|76.491|25.012|SJ|Svalbard|49|f
+Werlein Island|-66.420|110.446|AQ||49|f
+Werner Mountains|-73.556|-62.231|AQ||49|f
+Werner Peak|-68.675|-65.166|AQ||49|f
+Werrikimbe National Park|-31.198|152.226|AU|New South Wales|49|f
+Werkhausen|50.733|7.533|DE|Rheinland-Pfalz|47
 Wernersdorf|46.716|15.207|AT|Styria|44
+WERH-FM (Hamilton)|34.117|-87.991|US|Alabama|40|f
+Werner-Boyce Salt Springs State Park|28.317|-82.715|US|Florida|40|f
+WERR-FM (Utuado)|18.290|-66.657|PR|Utuado|40|f
+Werribee Open Range Zoo|-37.925|144.668|AU|Victoria|40|f
+Wertheim National Wildlife Refuge|40.777|-72.900|US|New York|40|f
+WERU-FM (Blue Hill)|44.435|-68.590|US|Maine|40|f
+Wera|-8.340|120.720|ID|East Nusa Tenggara|0
 Werang|-8.649|120.011|ID|East Nusa Tenggara|0
+Werangere|-8.301|123.261|ID|East Nusa Tenggara|0
+Werangrae|-8.179|123.764|ID|East Nusa Tenggara|0
+Werasari|-7.036|108.235|ID|West Java|0
+Were|-8.873|121.060|ID|East Nusa Tenggara|0
 Werekela|14.333|-5.945|ML|Ségou|0
 Weriagar|-2.271|132.891|ID|West Papua|0
 Werinama|-3.503|130.111|ID|Maluku|0
+Weroth|50.460|7.948|DE|Rheinland-Pfalz|0
 Werrington|50.667|-4.367|GB|England|0
+Weru|-6.462|105.839|ID|Banten|0
+Weru|-6.947|111.418|ID|Central Java|0
+Weru|-6.880|112.451|ID|East Java|0

@@ -10,6 +10,7 @@ Veles|41.717|21.772|MK|Veles|95
 Velletri|41.686|12.778|IT|Lazio|94
 Vélingara|13.150|-14.117|SN|Kolda|93
 Vellakkovil|10.946|77.712|IN|Tamil Nadu|92
+Velana International Airport|4.192|73.529|MV|Kaafu Atoll|92|f
 Velikiy Ustyug|60.762|46.314|RU|Vologda Oblast|90
 Velika Gorica|45.712|16.076|HR|Zagreb County|90
 Velur|11.108|78.001|IN|Tamil Nadu|88
@@ -57,6 +58,7 @@ Velimeşe|41.254|27.878|TR|Tekirdağ|78
 Velykyy Bereznyy|48.893|22.461|UA|Zakarpattia|78
 Velykyi Dalnyk|46.472|30.563|UA|Odesa|78
 Vellavādanparappu|11.185|77.842|IN|Tamil Nadu|78
+Vellore Airport|12.908|79.066|IN|Tamil Nadu|77|f
 Veľký Šariš|49.041|21.199|SK|Prešov Region|77
 Velyki Komiaty|48.237|22.977|UA|Zakarpattia|77
 Velyka Oleksandrivka|47.319|33.291|UA|Kherson|76
@@ -93,6 +95,7 @@ Velykyi Liubin|49.722|23.734|UA|Lviv|73
 Velpke|52.408|10.936|DE|Lower Saxony|73
 Veľké Zálužie|48.308|17.939|SK|Nitra Region|73
 Vellberg|49.084|9.879|DE|Baden-Wurttemberg|73
+Veľký Kriváň|49.188|19.031|SK|Žilina Region|72|f
 Velyki Sorochyntsi|50.024|33.943|UA|Poltava|72
 Velešín|48.829|14.463|CZ|South Bohemian Region|72
 Velikent|42.188|48.064|RU|Dagestan|72
@@ -104,6 +107,7 @@ Vela Luka|42.963|16.723|HR|Dubrovnik-Neretva|72
 Veľké Leváre|48.504|17.004|SK|Bratislava Region|72
 Veľké Rovné|49.291|18.584|SK|Žilina Region|71
 Velká Bystřice|49.595|17.365|CZ|Olomouc Region|71
+Velebit|44.531|15.229|HR||71|f
 Velké Přílepy|50.160|14.314|CZ|Central Bohemia|71
 Velika Obarska|44.805|19.162|BA|Srpska|71
 Velaine|50.478|4.610|BE|Wallonia|71
@@ -145,6 +149,8 @@ Velden am Wörther See|46.613|14.041|AT|Carinthia|67
 Velyki Krynky|49.457|33.486|UA|Poltava|67
 Veltrusy|50.270|14.329|CZ|Central Bohemia|67
 Velké Poříčí|50.462|16.189|CZ|Hradec Králové Region|67
+Velasquez Airport|5.939|-74.457|CO|Boyacá|67|f
+Velivar|41.637|20.525|AL|Dibër County|67|f
 Velim|50.060|15.107|CZ|Central Bohemia|67
 Velikodvorskiy|55.250|40.668|RU|Vladimir Oblast|67
 Vela|44.283|23.417|RO|Dolj|67
@@ -167,6 +173,8 @@ Velyka Byihan|48.248|22.576|UA|Zakarpattia|66
 Velden|49.614|11.510|DE|Bavaria|66
 Velké Němčice|48.992|16.672|CZ|South Moravian|66
 Velyka Krucha|50.193|32.565|UA|Poltava|66
+Veliki Snežnik|45.582|14.463|SI|Municipality of Ilirska Bistrica|65|f
+Veliki Žep|44.063|19.029|BA|Srpska|65|f
 Veľký Lapáš|48.291|18.181|SK|Nitra Region|65
 Velyka Palad|48.000|22.881|UA|Zakarpattia|65
 Velyka Pavlivka|50.239|34.269|UA|Poltava|65
@@ -195,6 +203,9 @@ Velykotsk|49.348|40.033|UA|Luhansk|63
 Velika Sočanica|44.885|17.923|BA|Srpska|63
 Velyka Rublivka|49.896|34.801|UA|Poltava|63
 Veľké Ludince|47.963|18.511|SK|Nitra Region|63
+Velence Lake|47.214|18.609|HU|Fejér|63|f
+Veliki Brijun|44.914|13.764|HR|Istria|63|f
+Velký Šišák|50.783|15.583|CZ||63|f
 Velyka Chernihivka|48.962|39.420|UA|Luhansk|63
 Velyka Kardashynka|46.509|32.659|UA|Kherson|63
 Velemín|50.539|13.977|CZ|Ústí nad Labem Region|63
@@ -231,6 +242,14 @@ Velykyi Trostianets|49.498|34.537|UA|Poltava|61
 Velika Ostrna|45.788|16.281|HR|Zagreb County|61
 Velké Svatoňovice|50.532|16.029|CZ|Hradec Králové Region|61
 Velyki Budyshcha|49.857|34.578|UA|Poltava|61
+Velencei-hegység|47.250|18.583|HU|Fejér|61|f
+Velež|43.330|18.004|BA||61|f
+Velika Golija|43.947|16.867|BA|Federation of B&H|61|f
+Velika Kapela|45.228|15.008|HR||61|f
+Velike Igrište|44.137|18.908|BA|Srpska|61|f
+Veliki Troglav|43.948|16.592|BA|Federation of B&H|61|f
+Veľká Domaša|49.057|21.678|SK|Prešov Region|61|f
+Vella Lavella Island|-7.735|156.653|SB||61|f
 Velyki Budyshcha|50.463|34.147|UA|Poltava|61
 Vellereille-les-Brayeux|50.380|4.151|BE|Wallonia|61
 Veliko Trojstvo|45.936|16.934|HR|Bjelovar-Bilogora|61
@@ -245,14 +264,117 @@ Velázquez|-34.036|-54.281|UY|Rocha Department|60
 Velykosillya|48.157|26.300|UA|Chernivtsi|60
 Velaines|48.699|5.305|FR|Grand Est|60
 Velyki Prokhody|50.202|36.333|UA|Kharkiv|60
+Velet’ma|55.335|42.421|RU|Nizhny Novgorod Oblast|60
+Vela|46.082|11.102|IT|Trentino-Alto Adige|60
+Velyka Solona|47.636|31.710|UA|Mykolaiv|60
+Velimirovac|45.524|18.109|HR|County of Osijek-Baranja|60
+Velina|40.202|15.160|IT|Campania|59
+Veldenz|49.889|7.022|DE|Rheinland-Pfalz|59
+Vellahn|53.401|10.967|DE|Mecklenburg-Vorpommern|59
+Velhartice|49.265|13.390|CZ|Plzeň Region|59
 Veladero|8.235|-81.652|PA|Chiriquí Province|59
+Velykyi Pereviz|49.914|34.012|UA|Poltava|59
+Veľká Lehôtka|48.755|18.667|SK|Trenčín Region|59
+Velyki Nyzghirtsi|49.890|28.694|UA|Zhytomyr Oblast|59
+Velyki Ozera|51.564|26.906|UA|Rivne Oblast|59
 Velika Polana|46.572|16.347|SI|Municipality of Velika Polana|59
+Velyke Mishkove|47.874|38.560|UA|Donetsk|59
+Veli Lošinj|44.517|14.505|HR|Primorje-Gorski Kotar|59
+Velčice|48.414|18.304|SK|Nitra Region|59
+Velký Borek|50.345|14.515|CZ|Central Bohemia|59
+Velika Buna|45.634|16.058|HR|Zagreb County|58
+Velles|46.689|1.649|FR|Centre-Val de Loire|58
 Velika Pisanica|45.802|17.066|HR|Bjelovar-Bilogora|58
+Velké Přítočno|50.116|14.128|CZ|Central Bohemia|58
+Velddriel|51.769|5.303|NL|Gelderland|58
+Veliki Liškovac|44.453|22.022|RS|Central Serbia|58|f
+Veliko Jezero|43.870|17.454|BA|Federation of B&H|58|f
+Veľká Fatra|48.937|19.122|SK|Žilina Region|58|f
+Velkuanmaa|60.441|21.625|FI|Southwest Finland|58|f
+Velmerstot|51.833|8.954|DE|North Rhine-Westphalia|58|f
+Veluwemeer|52.409|5.750|NL||58|f
+Velykoserbulivka|47.703|31.675|UA|Mykolaiv|58
+Velyka Ofirna|50.129|29.955|UA|Kyiv Oblast|58
+Velyka Yablunka|51.219|25.544|UA|Volyn|58
+Velykyi Kurin|51.791|25.421|UA|Volyn|58
+Velatice|49.197|16.754|CZ|South Moravian|58
+Velykomaryanivka|46.031|30.064|UA|Odesa|58
+Veľká Hradná|48.768|18.142|SK|Trenčín Region|58
+Velagosht|40.837|19.968|AL|Berat County|58
+Velyke Orikhove|48.086|38.133|UA|Donetsk|58
+Velichovky|50.357|15.842|CZ|Hradec Králové Region|58
 Velo|45.790|11.367|IT|Veneto|57
+Velika Kosnica|45.761|16.081|HR|Zagreb County|57
 Velike Lašče|45.834|14.636|SI|Municipality of Velike Lašče|57
+Velyka Ternivka|46.676|35.003|UA|Zaporizhzhia|57
+Velká Jesenice|50.361|16.038|CZ|Hradec Králové Region|57
+Veliki Zdenci|45.665|17.091|HR|Bjelovar-Bilogora|57
+Velika Ves|46.126|15.893|HR|Krapina-Zagorje|57
+Veleni|44.382|23.306|RO|Dolj|57
+Velká Kraš|50.363|17.146|CZ|Olomouc Region|57
+Velykyi Obzyr|51.454|25.217|UA|Volyn|57
+Velissários|39.650|20.839|GR|Epirus|57
+Veľké Bierovce|48.852|17.983|SK|Trenčín Region|57
+Velykoseletske|49.810|32.804|UA|Poltava|57
+Velký Ořechov|49.109|17.668|CZ|Zlín|57
+Velké Chvojno|50.732|14.037|CZ|Ústí nad Labem Region|57
 Velika Ludina|45.607|16.589|HR|Sisak-Moslavina|57
+Velyka Obukhivka|50.144|33.943|UA|Poltava|57
+Veľká Dolina|48.185|18.030|SK|Nitra Region|57
 Veliki Bukovec|46.294|16.713|HR|Varaždin|56
+Velykyi Kobeliachok|49.366|34.116|UA|Poltava|56
+Velykooleksandrivka|47.783|32.683|UA|Mykolaiv|56
+Velyke|48.158|25.414|UA|Chernivtsi|56
+Velyka Roztoka|48.290|23.079|UA|Zakarpattia|56
+Velma|34.460|-97.674|US|Oklahoma|56
+Velț|46.239|24.281|RO|Sibiu County|56
+Velanda|58.229|12.310|SE|Västra Götaland|55
+Velykyi Loh|48.260|39.554|UA|Luhansk|55
+Velihimmetli|39.689|32.655|TR|Ankara|55
+Velyka Rudka|49.749|34.462|UA|Poltava|55
+Velanda|59.200|15.067|SE|Örebro|55
+Velasco|20.179|-98.644|MX|Hidalgo|55
+Veliškovci|45.691|18.322|HR|County of Osijek-Baranja|55
+Velykyi Bairak|50.046|33.847|UA|Poltava|55
+Veliköy|41.445|32.068|TR|Zonguldak Province|55
+Veľká Čausa|48.778|18.696|SK|Trenčín Region|55
+Veletiny|49.037|17.562|CZ|Zlín|55
+Velký Bor|49.365|13.701|CZ|Plzeň Region|55
+Velluire|46.405|-0.894|FR|Pays de la Loire|55
+Veleshnjë|40.629|19.938|AL|Berat County|55
+Veliko Mlačevo|45.937|14.682|SI|Municipality of Grosuplje|55
+Velyka Skelova|48.957|33.196|UA|Kirovohrad|55
+Veli Brgud|45.422|14.271|HR|Primorje-Gorski Kotar|55
+Veliki Bastaji|45.645|17.328|HR|Bjelovar-Bilogora|55
+Velesti|44.600|23.789|RO|Dolj|54
+Velo|45.774|11.566|IT|Veneto|54
+Velarde|20.999|-101.398|MX|Guanajuato|54
+Veľké Revištia|48.733|22.100|SK|Košice Region|54
+Velanai|9.667|79.867|LK|Northern Province|54|f
+Velfjorden|65.544|12.339|NO|Nordland|54|f
+Velika Jastrebica|42.598|18.543|ME||54|f
+Veliki Jastrebac|43.401|21.413|RS||54|f
+Veliki Školj|42.902|17.622|BA|Federation of B&H|54|f
+Velikie Luki|56.350|30.617|RU|Pskov Oblast|54|f
+Velikiy Ustyug Airport|60.788|46.260|RU|Vologda Oblast|54|f
+Velikonda Hills|14.621|79.199|IN|Andhra Pradesh|54|f
+Velké Benátky|50.096|14.440|CZ||54|f
+Veľké Hincovo Pleso|49.180|20.060|SK||54|f
+Velký Lopeník|48.920|17.782|SK||54|f
+Velký Stožek|49.606|18.823|CZ|Moravian-Silesian Region|54|f
+Velké Kunětice|50.322|17.263|CZ|Olomouc Region|54
+Velyka Buzova|49.784|34.018|UA|Poltava|54
+Velika Rakovica|45.783|15.724|HR|Zagreb County|54
+Velichov|50.284|13.010|CZ|Carlsbad Region|54
+Vellexon-Queutrey-et-Vaudey|47.567|5.800|FR|Bourgogne-Franche-Comté|54
+Velarde|36.159|-105.975|US|New Mexico|54
+Velike Brusnice|45.804|15.258|SI|Urban Municipality of Novo Mesto|54
 Velika Trnovitica|45.682|16.954|HR|Bjelovar-Bilogora|54
+Veliki Kozjak|44.733|15.035|HR|Lika-Senj|49|f
+Veliko Plivsko Jezero|44.344|17.209|BA|Federation of B&H|49|f
+Velký Śpičák|50.461|13.086|CZ|Ústí nad Labem Region|49|f
+Vella Gulf|-7.899|156.841|SB||49|f
+Vellarimala|11.451|76.142|IN|Kerala|49|f
 Velayos|40.842|-4.623|ES|Castille and León|49
 Velilla de Ebro|41.374|-0.435|ES|Aragon|48
 Velefique|37.194|-2.402|ES|Andalusia|48
@@ -266,6 +388,17 @@ Velliza|41.579|-4.947|ES|Castille and León|43
 Velilla|41.559|-5.005|ES|Castille and León|42
 Velamazán|41.449|-2.699|ES|Castille and León|42
 Velilla de Jiloca|41.275|-1.604|ES|Aragon|41
+Velasco Glacier|-74.267|-101.183|AQ||40|f
+Veleka Ridge|-62.742|-60.313|AQ||40|f
+Veleta|37.056|-3.366|ES|Andalusia|40|f
+Veli Peak|-77.650|161.467|AQ||40|f
+Velidhoo|5.664|73.274|MV|Noonu Atoll|40|f
+Veliki Vran|43.668|17.506|BA|Federation of B&H|40|f
+Velká Deštná|50.304|16.400|CZ|Hradec Králové Region|40|f
+Veľký Rozsutec|49.232|19.100|SK|Žilina Region|40|f
+Vellayani Lake|8.434|76.992|IN|Kerala|40|f
+Velodrom|52.531|13.451|DE|State of Berlin|40|f
+Velodromo Vigorelli|45.482|9.158|IT|Lombardy|40|f
 Veliko Selce|45.429|14.914|HR|Primorje-Gorski Kotar|37
 Velinga|-15.274|-73.022|PE|Arequipa|35
 Velezzo Lomellina|45.163|8.737|IT|Lombardy|35

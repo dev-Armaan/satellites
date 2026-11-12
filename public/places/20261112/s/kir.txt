@@ -59,6 +59,7 @@ Kirākat|25.637|82.916|IN|Uttar Pradesh|83
 Kiruhura|-0.197|30.844|UG|Western Region|83
 Kirk Sandall|53.562|-1.069|GB|England|83
 Kirensk|57.776|108.115|RU|Irkutsk Oblast|82
+Kiritimati|1.940|-157.474|KI|Line Islands|82|f
 Kirodimalnagar|21.927|83.332|IN|Chhattisgarh|82
 Kirchhundem|51.086|8.089|DE|North Rhine-Westphalia|82
 Kirchheim bei München|48.177|11.756|DE|Bavaria|82
@@ -95,10 +96,12 @@ Kirkwall|58.985|-2.959|GB|Scotland|77
 Kirkleatham|54.588|-1.082|GB|England|77
 Kirtland|41.629|-81.362|US|Ohio|77
 Kīranūr|10.594|77.503|IN|Tamil Nadu|76
+Kirkøy|59.058|11.034|NO|Østfold|76|f
 Kirriemuir|56.674|-3.003|GB|Scotland|76
 Kirnāpur|21.626|80.331|IN|Madhya Pradesh|76
 Kirovskaya|46.975|40.040|RU|Rostov|75
 Kirchbichl|47.517|12.096|AT|Tyrol|75
+Kirakira Airport|-10.450|161.898|SB|Makira-Ulawa Province|75|f
 Kirchardt|49.205|8.992|DE|Baden-Wurttemberg|75
 Kirchentellinsfurt|48.533|9.147|DE|Baden-Wurttemberg|75
 Kirchdorf am Inn|48.248|12.985|DE|Bavaria|75
@@ -123,12 +126,16 @@ Kiriaini|-0.879|36.887|KE|Murang'A|72
 Kirchroth|48.950|12.550|DE|Bavaria|71
 Kirchdorf|48.077|10.126|DE|Baden-Wurttemberg|71
 Kirtorf|50.769|9.104|DE|Hesse|71
+Kirkland Lake Airport|48.210|-79.981|CA|Ontario|71|f
 Kirchberg an der Murr|48.943|9.341|DE|Baden-Wurttemberg|71
 Kirton|52.928|-0.060|GB|England|71
 Kirkenes|69.727|30.046|NO|Finnmark|71
 Kirchenthumbach|49.749|11.725|DE|Bavaria|71
 Kiryao|7.387|-7.342|CI|Montagnes|71
 Kirkcudbright|54.838|-4.049|GB|Scotland|71
+Kirkwall Airport|58.958|-2.905|GB|Scotland|70|f
+Kirkwood Range|-76.450|162.000|AQ||70|f
+Kirovsk–Apatity Airport|67.463|33.588|RU|Murmansk|70|f
 Kirifi|6.806|-3.509|CI|Comoé District|70
 Kirovskiy|51.417|36.667|RU|Kursk Oblast|70
 Kirchanschöring|47.953|12.834|DE|Bavaria|69
@@ -147,6 +154,8 @@ Kirya|55.081|46.861|RU|Chuvash Republic|68
 Kirkop|35.842|14.486|MT|Kirkop|68
 Kirchehrenbach|49.733|11.150|DE|Bavaria|67
 Kirchweidach|48.086|12.645|DE|Bavaria|67
+Kirikumäe Järv|57.684|27.248|EE|Võrumaa|67|f
+Kirkland Island|49.116|-123.103|CA|British Columbia|67|f
 Kirovskiy|45.846|48.125|RU|Astrakhan Oblast|67
 Kirchensittenbach|49.556|11.422|DE|Bavaria|67
 Kirchdorf im Wald|48.910|13.266|DE|Bavaria|67
@@ -160,6 +169,8 @@ Kirrweiler|49.301|8.163|DE|Rheinland-Pfalz|66
 Kirchdorf|52.595|8.835|DE|Lower Saxony|66
 Kirknewton|55.888|-3.419|GB|Scotland|66
 Kirchberg an der Iller|48.133|10.083|DE|Baden-Wurttemberg|66
+Kirihata Dam|33.577|130.606|JP|Fukuoka|65|f
+Kirsch Municipal Airport|41.812|-85.435|US|Michigan|65|f
 Kirkby Lonsdale|54.203|-2.598|GB|England|65
 Kirchberg|50.761|12.765|DE|Saxony|65
 Kirchberg am Wechsel|47.607|15.991|AT|Lower Austria|65
@@ -170,6 +181,10 @@ Kirove|50.369|31.121|UA|Kyiv Oblast|64
 Kirchschlag in der Buckligen Welt|47.500|16.283|AT|Lower Austria|64
 Kirkby Stephen|54.472|-2.349|GB|England|64
 Kirchworbis|51.411|10.396|DE|Thuringia|63
+Kirby Lake Aerodrome|55.356|-110.635|CA|Alberta|63|f
+Kirishima Yama|31.910|130.870|JP|Kagoshima|63|f
+Kirkenes Airport|69.726|29.891|NO|Finnmark|63|f
+Kirksville Regional Airport|40.093|-92.541|US|Missouri|63|f
 Kirchlauter|50.044|10.718|DE|Bavaria|63
 Kirchenpingarten|49.933|11.783|DE|Bavaria|63
 Kireshi|48.185|23.343|UA|Zakarpattia|63
@@ -191,27 +206,138 @@ Kirke-Esbønderup|56.050|12.346|DK|Capital Region|62
 Kirwee|-43.500|172.217|NZ|Canterbury|61
 Kirchbrak|51.966|9.575|DE|Lower Saxony|61
 Kirschweiler|49.750|7.250|DE|Rheinland-Pfalz|61
+Kiruna Airport|67.817|20.333|SE|Norrbotten|61|f
+Kirunavaara|67.833|20.200|SE|Norrbotten|61|f
 Kiriş|36.576|30.581|TR|Antalya|61
 Kirchwald|50.367|7.150|DE|Rheinland-Pfalz|60
 Kirchtimke|53.252|9.152|DE|Lower Saxony|60
+Kirkhamgate|53.702|-1.552|GB|England|60
+Kırım|38.378|40.450|TR|Diyarbakır Province|60
+Kirtlington|51.873|-1.275|GB|England|60
 Kirchberg an der Raab|46.986|15.767|AT|Styria|60
+Kiryat Netafim|32.117|35.112|IL||60
+Kirchendemenreuth|49.783|12.100|DE|Bavaria|60
+Kirkfieldbank|55.675|-3.805|GB|Scotland|59
+Kırkgözeler|39.998|42.035|TR|Erzurum|59
+Kirchdorf|48.592|11.764|DE|Bavaria|59
+Kirkby Malzeard|54.164|-1.646|GB|England|59
+Kirchberg|48.400|12.050|DE|Bavaria|59
+Kirchheilingen|51.182|10.709|DE|Thuringia|59
+Kirchberg|47.798|6.958|FR|Grand Est|59
 Kirchbach in Steiermark|46.932|15.662|AT|Styria|59
+Kirklevington|54.483|-1.337|GB|England|58
 Kirovo|45.221|35.842|UA|Crimea|58
+Kirigalpota|6.799|80.764|LK|Central Province|58|f
+Kirkelandet|63.117|7.733|NO|Møre og Romsdal|58|f
+Kirstenbosch National Botanical Gardens|-33.983|18.431|ZA|Western Cape|58|f
+Kirundo Airport|-2.545|30.095|BI|Kirundo|58|f
+Kirk Merrington|54.676|-1.598|GB|England|58
+Kirby|34.250|-93.641|US|Arkansas|58
+Kirchbarkau|54.211|10.144|DE|Schleswig-Holstein|58
+Kirklin|40.193|-86.361|US|Indiana|58
+Kirchdorf|46.821|7.548|CH|Bern|58
+Kirchenviertel|47.486|15.721|AT|Styria|58
 Kirchstetten|48.183|15.817|AT|Lower Austria|58
+Kirkby Thore|54.625|-2.562|GB|England|58
+Kirdford|51.030|-0.550|GB|England|57
+Kirf|49.550|6.483|DE|Rheinland-Pfalz|57
 Kirchschlag bei Linz|48.411|14.277|AT|Upper Austria|57
+Kıranalan|41.198|35.158|TR|Samsun|57
+Kirchham|47.971|13.898|AT|Upper Austria|57
+Kirkwood|40.866|-90.748|US|Illinois|57
+Kirch Jesar|53.441|11.279|DE|Mecklenburg-Vorpommern|57
 Kirkovo|41.327|25.364|BG|Kardzhali|57
+Kirk Smeaton|53.644|-1.218|GB|England|57
+Kıratlı|39.169|26.858|TR|İzmir Province|57
+Kirkhill|57.477|-4.413|GB|Scotland|57
+Kirke Eskilstrup|55.575|11.767|DK|Zealand|56
+Kirtland Hills|41.624|-81.307|US|Ohio|56
+Kirburg|50.683|7.933|DE|Rheinland-Pfalz|56
+Kirkland|34.300|-77.788|US|North Carolina|56
+Kirchgandern|51.384|9.962|DE|Thuringia|56
+Kirchdorf|54.175|13.275|DE|Mecklenburg-Vorpommern|55
+Kirkby Fleetham|54.346|-1.566|GB|England|55
+Kircheib|50.709|7.460|DE|Rheinland-Pfalz|55
+Kirchenviertel|47.468|15.790|AT|Styria|55
+Kirkby-in-Furness|54.232|-3.187|GB|England|55
 Kirnberg an der Mank|48.072|15.322|AT|Lower Austria|55
+Kiran|37.983|28.082|TR|Aydın|55
+Kirchheim|48.609|7.496|FR|Grand Est|55
+Kirkersville|39.960|-82.596|US|Ohio|55
+Kırkat|37.561|41.297|TR|Batman|55
+Kirchdorf|47.365|15.334|AT|Styria|54
+Kirchbach|48.286|16.198|AT|Lower Austria|54
 Kirchberg am Walde|48.725|15.088|AT|Lower Austria|54
+Kirazdere Barajı|40.664|29.962|TR|Kocaeli|54|f
+Kirby Lake|32.375|-99.733|US|Texas|54|f
+Kiringiti Island|-0.457|33.933|KE|Homa Bay County|54|f
+Kiriwina Island|-8.576|151.135|PG|Milne Bay Province|54|f
+Kirkibost Island|57.550|-7.417|GB|Scotland|54|f
+Kirkland Island|35.541|-84.087|US|Tennessee|54|f
+Kirkuk Air Base|35.469|44.349|IQ|Kirkuk|54|f
+Kirkwood Islands|-68.338|-68.975|AQ||54|f
+Kirthar Range|27.634|67.256|PK|Balochistan|54|f
+Kiryat Shmona Airport|33.217|35.600|IL|Northern District|54|f
+Kırklareli Barajı|41.739|27.281|TR|Kırklareli|54|f
+Kirk Ireton|53.048|-1.603|GB|England|54
+Kirchwistedt|53.423|8.890|DE|Lower Saxony|54
 Kirchbach|46.642|13.185|AT|Carinthia|54
+Kirchweiler|50.230|6.745|DE|Rheinland-Pfalz|52
 Kırobası|36.722|33.867|TR|Mersin|51
 Kirchberg ob der Donau|48.444|13.938|AT|Upper Austria|51
+Kirschroth|49.767|7.567|DE|Rheinland-Pfalz|49
+Kirchberg|40.590|-75.315|US|Pennsylvania|49|f
+Kirchdach|47.067|11.342|AT|Tyrol|49|f
+Kirchner Peak|-79.983|159.367|AQ||49|f
+Kirchsee|53.607|11.544|DE|Mecklenburg-Vorpommern|49|f
+Kirkbride House|30.688|-88.040|US|Alabama|49|f
+Kirkby Glacier|-70.717|166.150|AQ||49|f
+Kirkby Head|-67.283|46.500|AQ||49|f
+Kirkby, Mount|-70.434|65.204|AQ||49|f
+Kirkkokari|61.147|22.326|FI|Satakunta|49|f
+Kirkoswald Castle|54.762|-2.686|GB|England|49|f
+Kirrama National Park|-18.148|145.688|AU|Queensland|49|f
+Kirsty Island|-67.597|-68.269|AQ||49|f
+Kirton Island|-67.497|63.629|AQ||49|f
+Kirui Island|-4.734|39.204|TZ|Tanga|49|f
+Kirwans Bridge|-36.746|145.140|AU|Victoria|49|f
+Kirschkau|50.605|11.887|DE|Thuringia|48
 Kirchschlag|48.393|15.223|AT|Lower Austria|48
+Kirrweiler|49.633|7.500|DE|Rheinland-Pfalz|46
+Kirchnüchel|54.204|10.680|DE|Schleswig-Holstein|45
 Kirazlı|40.042|26.701|TR|Canakkale|42
+Kirani James Athletic Stadium|12.060|-61.754|GD||40|f
+Kirby Lake|44.626|-94.190|US|Minnesota|40|f
+Kirby Muxloe Castle|52.636|-1.228|GB|England|40|f
+Kirchlespitz|47.105|9.588|LI||40|f
+Kirchsee (lake Kirch)|47.819|11.619|DE|Bavaria|40|f
+Kirchstücker See|53.691|11.403|DE|Mecklenburg-Vorpommern|40|f
+Kirirom National Park|11.300|104.040|KH|Koh Kong|40|f
+Kirk Fell|54.483|-3.244|GB|England|40|f
+Kirk Glacier|-72.033|169.150|AQ||40|f
+Kirk Lake|47.157|-95.253|US|Minnesota|40|f
+Kirk o'Shotts Transmitting Station|55.853|-3.826|GB|Scotland|40|f
+Kirkharle Hall|55.136|-1.980|GB|England|40|f
+Kirklees Priory|53.695|-1.737|GB|England|40|f
+Kirkpatrick Glacier|-75.150|-136.000|AQ||40|f
+Kirkstall Abbey|53.821|-1.607|GB|England|40|f
+Kirkstead Abbey|53.139|-0.224|GB|England|40|f
+Kirkuk University|35.446|44.380|IQ|Kirkuk|40|f
+KIRO-TV (Seattle)|47.633|-122.357|US|Washington|40|f
+Kirtling Towers|52.189|0.466|GB|England|40|f
+KIRV-AM (Fresno)|36.712|-119.834|US|California|40|f
+Kirwin Dam|39.658|-99.124|US|Kansas|40|f
+Kirwin National Wildlife Refuge|39.654|-99.183|US|Kansas|40|f
+Kirwin Reservoir|39.656|-99.161|US|Kansas|40|f
+Kirsbach|50.326|6.993|DE|Rheinland-Pfalz|39
 Kireç|39.555|28.365|TR|Balıkesir|37
 Kirkja|62.319|-6.316|FO|Norðoyar|30
+Kiraman|-8.400|124.751|ID|East Nusa Tenggara|0
 Kirāmān|35.297|69.681|AF|Panjshir|0
 Kirby Underdale|54.017|-0.771|GB|England|0
+Kirchdorf|48.771|11.904|DE|Bavaria|0
 Kirchleerau|47.276|8.066|CH|Aargau|0
+Kirchsahr|50.523|6.900|DE|Rheinland-Pfalz|0
 Kirfi|10.406|10.405|NG|Bauchi|0
 Kiri Kasamma|12.693|10.255|NG|Jigawa State|0
 Kiri Vongs|10.638|104.873|KH|Takeo|0

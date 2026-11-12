@@ -1,4 +1,4 @@
-Epirus|39.237|20.715|GR||107|r
+Epirus|39.237|20.715|GR||109|r
 Epworth|-17.890|31.148|ZW|Harare|106
 Epe|6.584|3.983|NG|Lagos|99
 Épinay-sur-Seine|48.953|2.315|FR|Île-de-France|93
@@ -6,6 +6,7 @@ Epe|6.584|3.983|NG|Lagos|99
 Epping|-37.650|145.033|AU|Victoria|90
 Epe|52.347|5.983|NL|Gelderland|90
 Epsom|51.331|-0.270|GB|England|90
+Epidaurus|37.597|23.075|GR|Peloponnese|90|f
 Épernay|49.040|3.959|FR|Grand Est|89
 Eppendorf|53.592|9.988|DE|Hamburg|88
 Epping|-33.773|151.082|AU|New South Wales|87
@@ -18,11 +19,13 @@ Eppelheim|49.402|8.636|DE|Baden-Wurttemberg|83
 Ephrata|40.180|-76.179|US|Pennsylvania|83
 Eppstein|50.143|8.392|DE|Hesse|83
 Épinay-sous-Sénart|48.690|2.512|FR|Île-de-France|82
+Épinal – Mirecourt Airport|48.325|6.067|FR|Grand Est|81|f
 Epping|51.698|0.111|GB|England|81
 Epanomí|40.426|22.928|GR|Central Macedonia|80
 Épinay-sur-Orge|48.673|2.311|FR|Île-de-France|80
 Ephrata|47.318|-119.554|US|Washington|78
 Epalinges|46.549|6.668|CH|Vaud|78
+Epigraphical Museum|37.988|23.733|GR|Attica|77|f
 Ephraim|39.360|-111.586|US|Utah|77
 Épône|48.955|1.822|FR|Île-de-France|77
 Eppertshausen|49.951|8.854|DE|Hesse|75
@@ -31,6 +34,7 @@ Eppendorf|50.800|13.233|DE|Saxony|74
 Eppegem|50.962|4.455|BE|Flanders|73
 Epsom|43.223|-71.332|US|New Hampshire|73
 Epworth|53.526|-0.824|GB|England|73
+Eppley Airfield|41.301|-95.898|US|Nebraska|72|f
 Épila|41.600|-1.280|ES|Aragon|72
 Épagny|45.936|6.083|FR|Auvergne-Rhône-Alpes|71
 Epfendorf|48.250|8.600|DE|Baden-Wurttemberg|71
@@ -47,6 +51,7 @@ Epfig|48.359|7.464|FR|Grand Est|66
 Episkopí|40.687|22.136|GR|Central Macedonia|66
 Epworth|42.445|-90.932|US|Iowa|66
 Épron|49.222|-0.371|FR|Normandy|65
+Épi|-16.717|168.250|VU|Shefa|65|f
 Eppishausen|48.167|10.517|DE|Bavaria|65
 Épinois|50.406|4.207|BE|Wallonia|65
 Epureni|46.708|28.038|RO|Vaslui County|65
@@ -62,9 +67,63 @@ Epitacio Huerta|20.135|-100.293|MX|Michoacán|62
 Épinouze|45.310|4.929|FR|Auvergne-Rhône-Alpes|61
 Epiniac|48.510|-1.698|FR|Brittany|61
 Épehy|50.000|3.133|FR|Hauts-de-France|61
+Ephraim Bluff|-62.555|-59.720|AQ||61|f
+Epsilon Island|-64.313|-62.995|AQ||61|f
 Épieds-en-Beauce|47.951|1.617|FR|Centre-Val de Loire|61
 Epiénou|5.388|-3.171|CI|Comoé District|61
 Epureni|46.247|27.911|RO|Vaslui County|60
 Episcopia|40.075|16.098|IT|Basilicate|60
 Ependes|46.754|7.146|CH|Fribourg|60
+Epalchén|16.891|-92.696|MX|Chiapas|60
+Episkopí|35.257|25.238|GR|Crete|60
+Eppenschlag|48.889|13.300|DE|Bavaria|60
+Epps|32.604|-91.478|US|Louisiana|58
+Ephraim Island|-27.886|153.402|AU|Queensland|58|f
+Epídavros Limirá|36.731|23.023|GR|Peloponnese|58|f
+Eptevatn|58.676|8.041|NO|Agder|58|f
+Epenwöhrden|54.110|9.053|DE|Schleswig-Holstein|58
+Épreville|49.706|0.366|FR|Normandy|58
+Épargnes|45.542|-0.803|FR|New Aquitaine|58
+Époisses|47.507|4.174|FR|Bourgogne-Franche-Comté|58
+Épannes|46.230|-0.584|FR|New Aquitaine|57
+Epen|50.776|5.911|NL|Limburg|57
+Epeche Chico (Penche Chico)|19.939|-103.020|MX|Jalisco|57
+Eppenrod|50.405|7.930|DE|Rheinland-Pfalz|57
+Eptámyloi|41.101|23.591|GR|Central Macedonia|57
+Épineau-les-Voves|47.951|3.482|FR|Bourgogne-Franche-Comté|57
+Epinianá|39.142|21.614|GR|Central Greece|57
+Épiais-Rhus|49.122|2.062|FR|Île-de-France|57
+Episkopí|40.591|22.365|GR|Central Macedonia|56
+Épretot|49.539|0.317|FR|Normandy|56
+Eppalock|-36.852|144.461|AU|Victoria|56
+Épineuil|47.872|3.979|FR|Bourgogne-Franche-Comté|56
+Épierre|45.453|6.295|FR|Auvergne-Rhône-Alpes|56
+Episkopí|35.328|24.335|GR|Crete|56
+Épagne-Épagnette|50.072|1.873|FR|Hauts-de-France|55
+Épieds|47.143|-0.046|FR|Pays de la Loire|55
+Épinay-sur-Odon|49.076|-0.621|FR|Normandy|55
+Epapa|19.907|-97.279|MX|Veracruz|55
+Épercieux-Saint-Paul|45.790|4.210|FR|Auvergne-Rhône-Alpes|55
+Épuisay|47.901|0.931|FR|Centre-Val de Loire|55
+Épaux-Bézu|49.108|3.348|FR|Hauts-de-France|55
+Épisy|48.334|2.786|FR|Île-de-France|55
+Episkopeió|35.043|33.246|CY|Nicosia|55
+Epononkro|7.218|-3.359|CI|Comoé District|54
+Epping|49.112|7.317|FR|Grand Est|54
+Ephrata Municipal Airport|47.305|-119.513|US|Washington|54|f
+Épinoy|50.483|2.945|FR|Hauts-de-France|54
 Eppenstein|47.128|14.738|AT|Styria|50
+Epidote Peak|38.060|-119.305|US|California|49|f
+Epoufette Island|46.044|-85.202|US|Michigan|49|f
+Epping Forest National Park|-22.350|146.703|AU|Queensland|49|f
+Epsilon Island|-20.445|115.581|AU|Western Australia|49|f
+Epsilon Island|32.281|-64.823|BM|Warwick|49|f
+Eppenberg|50.250|7.067|DE|Rheinland-Pfalz|48
+E P Tom Sawyer State Park|38.284|-85.559|US|Kentucky|40|f
+Epaulette Mountain|51.867|-116.736|CA|Alberta|40|f
+Ephraim-Palais|52.516|13.407|DE|State of Berlin|40|f
+Epidote Peak|-84.767|-176.933|AQ||40|f
+Epler Glacier|-86.250|-161.000|AQ||40|f
+Epperly Ridge|-78.417|-85.750|AQ||40|f
+Eping|32.198|109.672|CN|Hubei|0
+Eputobi|-8.409|122.832|ID|East Nusa Tenggara|0

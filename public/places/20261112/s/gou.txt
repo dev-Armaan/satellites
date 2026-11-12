@@ -2,6 +2,7 @@ Gouda|52.017|4.708|NL|South Holland|97
 Gourcy|13.208|-2.359|BF|Nord|92
 Goussainville|49.014|2.466|FR|Île-de-France|90
 Gounou Gaya|9.629|15.513|TD|Mayo-Kebbi Est|89
+Gough Island|-40.306|-9.997|SH|Tristan da Cunha|88|f
 Gouré|13.983|10.270|NE|Zinder Region|88
 Goulburn|-34.752|149.721|AU|New South Wales|88
 Goundam|16.415|-3.671|ML|Tombouctou|86
@@ -13,8 +14,10 @@ Gouveia|-18.454|-43.741|BR|Minas Gerais|81
 Goundi|9.363|17.366|TD|Mandoul|80
 Gourock|55.962|-4.818|GB|Scotland|80
 Gourané|7.612|-7.299|CI|Montagnes|80
+Goulimime Airport|29.027|-10.050|MA|Guelmim-Oued Noun|80|f
 Gouvieux|49.187|2.414|FR|Hauts-de-France|80
 Gourbeyre|15.995|-61.692|GP|Guadeloupe|79
+Goundam Airport|16.361|-3.600|ML|Gao|78|f
 Goudouko|5.737|-5.616|CI|Goh-Djiboua|78
 Goudiry|14.181|-12.718|SN|Tambacounda|77
 Gouméré|7.896|-2.980|CI|Zanzan District|77
@@ -58,6 +61,8 @@ Gounga|7.736|-5.999|CI|Sassandra-Marahoue|68
 Goulaonfla|7.677|-6.543|CI|Sassandra-Marahoue|68
 Gouabouo II|6.219|-6.519|CI|Bas-Sassandra District|68
 Gouesnach|47.911|-4.115|FR|Brittany|68
+Gould Island|41.533|-71.344|US|Rhode Island|67|f
+Goûr Amogjâr|20.634|-12.724|MR|Adrar|67|f
 Goueupouta|7.490|-8.199|CI|Montagnes|67
 Gouéma|7.729|-6.053|CI|Woroba|67
 Gouldsboro|44.478|-68.038|US|Maine|66
@@ -86,6 +91,7 @@ Gouléako Dioula|5.840|-7.412|CI|Montagnes|61
 Goudhurst|51.113|0.456|GB|England|61
 Gouzanfla|7.558|-5.761|CI|Sassandra-Marahoue|61
 Gouvernes|48.860|2.691|FR|Île-de-France|61
+Gourdon Peninsula|-64.433|-63.216|AQ||61|f
 Gouessesso|7.761|-7.653|CI|Montagnes|61
 Gouarec|48.227|-3.180|FR|Brittany|61
 Gouégouiné|7.187|-7.689|CI|Montagnes|61
@@ -94,5 +100,82 @@ Gouézépleu|7.166|-7.940|CI|Montagnes|60
 Gouézec|48.169|-3.973|FR|Brittany|60
 Goudargues|44.215|4.466|FR|Occitanie|60
 Gougnies|50.355|4.576|BE|Wallonia|60
+Goualé|7.475|-7.923|CI|Montagnes|60
+Gouréné|7.672|-7.386|CI|Montagnes|60
+Gourdinne|50.291|4.454|BE|Wallonia|60
+Gourgé|46.728|-0.168|FR|New Aquitaine|60
+Gouékan|8.034|-7.841|CI|Woroba|59
+Gouantouo|6.709|-8.320|CI|Montagnes|59
+Gouevoufla|7.393|-6.039|CI|Sassandra-Marahoue|59
+Gouédéfla|7.710|-6.001|CI|Sassandra-Marahoue|59
+Goudourville|44.115|0.928|FR|Occitanie|59
+Gourlizon|48.020|-4.267|FR|Brittany|59
+Gouldsboro|41.245|-75.456|US|Pennsylvania|59
+Gouinhouyé|6.920|-8.246|CI|Montagnes|59
+Gourdon|46.642|4.446|FR|Bourgogne-Franche-Comté|59
+Gouriá|38.473|21.261|GR|West Greece|59
+Gouvix|49.035|-0.304|FR|Normandy|59
+Gouabo|6.978|-3.919|CI|Lacs District|59
+Gouviá|39.653|19.843|GR|Ionian Islands|58
+Gouopleu|6.678|-8.335|CI|Montagnes|58
+Gouy|49.354|1.149|FR|Normandy|58
+Gouapoloulé|7.455|-7.503|CI|Montagnes|58
+Gould Glacier|-66.727|-64.696|AQ||58|f
+Gourdin Island|-63.197|-57.307|AQ||58|f
+Gourlay Peninsula|-60.725|-45.588|AQ||58|f
+Gourniá|35.110|25.794|GR|Crete|58|f
+Gould|33.985|-91.561|US|Arkansas|58
+Gouan|5.778|-5.334|CI|Goh-Djiboua|58
+Goussainville|48.777|1.555|FR|Centre-Val de Loire|58
+Gourdon|56.830|-2.286|GB|Scotland|58
+Gouanfla|7.416|-5.970|CI|Sassandra-Marahoue|57
+Goupillières|49.127|0.762|FR|Normandy|57
+Gouakpalé|7.371|-7.606|CI|Montagnes|57
+Gouramba|8.033|-6.980|CI|Woroba|57
+Gounpar|9.450|-2.917|CI|Zanzan District|56
+Gouy|50.001|3.256|FR|Hauts-de-France|56
+Gouiméré|7.872|-3.328|CI|Zanzan District|56
+Gournay-sur-Aronde|49.492|2.675|FR|Hauts-de-France|56
+Gouy-Saint-André|50.375|1.899|FR|Hauts-de-France|56
+Goumoens-la-Ville|46.659|6.604|CH|Vaud|56
+Gourville|45.830|-0.015|FR|New Aquitaine|56
+Gournay-Loizé|46.150|-0.050|FR|New Aquitaine|56
+Goussonville|48.920|1.764|FR|Île-de-France|55
+Gouville|48.851|0.991|FR|Normandy|55
+Goúmero|37.762|21.619|GR|West Greece|55
+Goux-les-Usiers|46.973|6.277|FR|Bourgogne-Franche-Comté|55
+Gouglersville|40.274|-76.019|US|Pennsylvania|55
+Gouex|46.366|0.690|FR|New Aquitaine|55
+Goúves|35.310|25.313|GR|Crete|55
+Goudier Island|-64.826|-63.493|AQ||54|f
+Goulburn Airport|-34.810|149.726|AU|New South Wales|54|f
+Gourdon Glacier|-64.233|-57.400|AQ||54|f
+Gourdon Peak|-65.089|-63.996|AQ||54|f
+Gourlay Point|-60.732|-45.581|AQ||54|f
+Gouverneur Island|-66.671|139.951|AQ||54|f
+Gousi|12.656|-2.795|BF|Boucle du Mouhoun|54
+Gough Glacier|-84.667|-171.500|AQ||49|f
+Goulburn Islands|-11.558|133.452|AU|Northern Territory|49|f
+Goulburn River National Park|-32.248|150.001|AU|New South Wales|49|f
+Goulburn Weir|-36.767|145.150|AU|Victoria|49|f
+Gould Island|-33.965|122.859|AU|Western Australia|49|f
+Gould Peak|-78.117|-155.250|AQ||49|f
+Gounda Airport|9.333|21.183|CF|Bamingui-Bangoran|49|f
+Goure Airport|13.983|10.300|NE|Zinder Region|49|f
+Gough Lake|52.049|-112.462|CA|Alberta|40|f
+Goulais Bay|46.717|-84.500|CA|Ontario|40|f
+Gould Lake|44.478|-76.575|CA|Ontario|40|f
+Gould Pond|41.905|-75.121|US|New York|40|f
+Gould Spur|-79.350|-85.667|AQ||40|f
+Gouldsboro Bay|44.429|-67.968|US|Maine|40|f
+Gouldsboro State Park|41.211|-75.455|US|Pennsylvania|40|f
+Gourd Lake|46.382|-95.552|US|Minnesota|40|f
+Goubangzi|41.368|121.773|CN|Liaoning|0
+Goujie|24.789|103.142|CN|Yunnan|0
 Goumori|11.181|2.293|BJ|Alibori|0
+Gouping|28.988|108.143|CN|Guizhou|0
+Gouqi|30.712|122.769|CN|Zhejiang|0
 Gourma Rharous|16.878|-1.923|ML|Tombouctou|0
+Goushan|29.978|122.266|CN|Zhejiang|0
+Goutai|38.330|114.319|CN|Henan|0
+Gouyan|40.819|122.245|CN|Liaoning|0

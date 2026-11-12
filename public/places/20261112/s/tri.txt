@@ -10,12 +10,14 @@ Trier|49.756|6.639|DE|Rheinland-Pfalz|100
 Trinidad|-14.832|-64.903|BO|Beni Department|99
 Triyuga|26.792|86.699|NP|Koshi|97
 Tripunittura|9.943|76.333|IN|Kerala|97
+Tribhuvan International Airport|27.697|85.359|NP|Bagmati Province|96|f
 Tríkala|39.555|21.768|GR|Thessaly|96
 Trinidad|21.800|-79.983|CU|Sancti Spíritus Province|96
 Trichardt|-26.492|29.229|ZA|Mpumalanga|94
 Trikonavattam|8.890|76.666|IN|Kerala|92
 Triprangod|10.842|75.949|IN|Kerala|92
 Třinec|49.678|18.671|CZ|Moravian-Silesian Region|91
+Trinidad|10.461|-61.257|TT||90|f
 Trindade|-7.762|-40.268|BR|Pernambuco|90
 Triunfo|-29.943|-51.718|BR|Rio Grande do Sul|90
 Trittāla|10.803|76.129|IN|Kerala|89
@@ -23,6 +25,7 @@ Tristán Suárez|-34.890|-58.568|AR|Buenos Aires|89
 Triggiano|41.065|16.925|IT|Apulia|89
 Trípoli|37.510|22.379|GR|Peloponnese|88
 Triolet|-20.058|57.550|MU|Pamplemousses|88
+Triglav|46.378|13.837|SI|Municipality of Bohinj|87|f
 Trikarpūr South|12.116|75.185|IN|Kerala|87
 Trinidad|-33.517|-56.900|UY|Flores Department|87
 Trizidela do Vale|-4.572|-44.621|BR|Maranhão|87
@@ -31,8 +34,10 @@ Trikarpūr North|12.146|75.175|IN|Kerala|85
 Trinity-Bellwoods|43.648|-79.408|CA|Ontario|84
 Triunfo|-7.838|-38.102|BR|Pernambuco|84
 Trindade|-27.586|-48.523|BR|Santa Catarina|84
+Triton Island|15.785|111.204|CN|Hainan|83|f
 Trinitapoli|41.357|16.089|IT|Apulia|83
 Tricase|39.930|18.354|IT|Apulia|83
+Trivandrum International Airport|8.482|76.920|IN|Kerala|82|f
 Trikūr|10.461|76.273|IN|Kerala|82
 Triel-sur-Seine|48.978|2.007|FR|Île-de-France|82
 Trimbak|19.933|73.529|IN|Maharashtra|82
@@ -42,9 +47,11 @@ Trinidad|5.408|-71.662|CO|Casanare Department|81
 Trinity|28.181|-82.682|US|Florida|81
 Triunfo|-6.567|-38.600|BR|Paraíba|80
 Trim|53.555|-6.792|IE|Leinster|80
+Tri-Cities Airport|46.265|-119.119|US|Washington|78|f
 Triangle|38.547|-77.337|US|Virginia|78
 Trinidad|37.169|-104.501|US|Colorado|78
 Trittau|53.610|10.406|DE|Schleswig-Holstein|78
+Tristan da Cunha|-37.106|-12.283|SH|Tristan da Cunha|78|f
 Trigueros|37.386|-6.827|ES|Andalusia|77
 Trignac|47.318|-2.189|FR|Pays de la Loire|77
 Trinidad de Copán|14.946|-88.742|HN|Copán Department|77
@@ -55,6 +62,8 @@ Trith-Saint-Léger|50.317|3.483|FR|Hauts-de-France|76
 Trissino|45.560|11.377|IT|Veneto|76
 Trimbach|47.366|7.887|CH|Solothurn|76
 Trial Farm|18.101|-88.566|BZ|Orange Walk District|75
+Tri-State Airport|38.366|-82.558|US|West Virginia|75|f
+Triangle North Executive Airport|36.023|-78.330|US|North Carolina|75|f
 Tricesimo|46.161|13.216|IT|Friuli Venezia Giulia|75
 Triftern|48.395|13.006|DE|Bavaria|75
 Triberg|48.132|8.233|DE|Baden-Wurttemberg|74
@@ -64,17 +73,20 @@ Trilport|48.957|2.951|FR|Île-de-France|74
 Trifeşti|46.917|26.817|RO|Neamț County|74
 Tritenii de Jos|46.583|24.000|RO|Cluj County|74
 Tricarico|40.615|16.143|IT|Basilicate|74
+Trieste – Friuli Venezia Giulia Airport|45.823|13.485|IT|Friuli Venezia Giulia|73|f
 Trinidad de Viguera|17.131|-96.750|MX|Oaxaca|73
 Tríkomo|35.286|33.892|CY|Ammochostos|73
 Tribuswinkel|48.006|16.271|AT|Lower Austria|73
 Trinidad|15.142|-88.233|HN|Santa Bárbara Department|73
 Triuggio|45.661|9.267|IT|Lombardy|73
 Triengen|47.236|8.077|CH|Lucerne|72
+Triple Divide Peak|48.573|-113.517|US|Montana|72|f
 Triptis|50.736|11.870|DE|Thuringia|72
 Triebes|50.685|12.020|DE|Thuringia|72
 Trivero-Prativero-Ponzone|45.660|8.174|IT|Piedmont|72
 Trivières|50.448|4.145|BE|Wallonia|72
 Tri-City|42.985|-123.312|US|Oregon|72
+Tribhuvan University|27.682|85.286|NP|Bagmati Province|71|f
 Trige|56.253|10.148|DK|Central Jutland|71
 Trierweiler|49.762|6.560|DE|Rheinland-Pfalz|71
 Triunfo Potiguar|-5.867|-37.189|BR|Rio Grande do Norte|71
@@ -82,6 +94,7 @@ Trivalea-Moşteni|44.267|25.233|RO|Teleorman County|71
 Trinity|49.234|-2.093|JE|Trinity|71
 Tribano|45.209|11.836|IT|Veneto|70
 Trinidad|10.080|124.343|PH|Central Visayas|70
+Trinity Alps|41.000|-123.048|US|California|70|f
 Tribiano|45.413|9.377|IT|Lombardy|70
 Trippstadt|49.359|7.775|DE|Rheinland-Pfalz|70
 Trinity Park|-16.807|145.705|AU|Queensland|70
@@ -92,9 +105,13 @@ Tristan da Cunha|-37.113|-12.283|SH||69|r
 Trinidad|-27.131|-55.706|PY|Itapúa|69
 Trimmis|46.901|9.561|CH|Grisons|69
 Trinity|30.945|-95.376|US|Texas|69
+Tri-Township Airport|42.047|-90.111|US|Illinois|69|f
+Trinca Airport|40.966|-74.782|US|New Jersey|69|f
 Trigg|-31.869|115.757|AU|Western Australia|69
 Triesenberg|47.118|9.542|LI|Triesenberg|68
 Trieben|47.486|14.487|AT|Styria|68
+Trinity Palmetto Point|17.307|-62.764|KN||67|r
+Triglav National Park|46.333|13.767|SI||67|f
 Trichiana|46.081|12.141|IT|Veneto|67
 Trivignano|45.532|12.187|IT|Veneto|67
 Trinity|34.607|-87.088|US|Alabama|67
@@ -102,13 +119,16 @@ Trinità d'Agultu e Vignola|40.984|8.916|IT|Sardinia|66
 Trivolzio|45.258|9.043|IT|Lombardy|66
 Trieux|49.325|5.930|FR|Grand Est|66
 Trilj|43.618|16.724|HR|Split-Dalmatia|66
+Tri-Cities Regional TN/VA Airport|36.481|-82.407|US|Tennessee|65|f
+Trinity Mountains|41.320|-122.479|US|California|65|f
+Trinity Range|40.208|-118.733|US|Nevada|65|f
+Triquet Island|51.803|-128.246|CA|British Columbia|65|f
 Tricht|51.891|5.268|NL|Gelderland|65
 Trivento|41.770|14.546|IT|Molise|65
 Trion|34.544|-85.311|US|Georgia|65
 Trio Village|16.515|-88.636|BZ|Toledo District|65
 Triebel|50.372|12.121|DE|Saxony|65
 Trinity|17.300|-62.776|KN|Trinity Palmetto Point|65
-Trinity Palmetto Point|17.307|-62.764|KN||65|r
 Trigolo|45.330|9.814|IT|Lombardy|64
 Trinity Bay North|48.522|-53.071|CA|Newfoundland and Labrador|64
 Tribunj|43.755|15.744|HR|Šibenik-Knin|64
@@ -116,6 +136,11 @@ Trimsaran|51.720|-4.242|GB|Wales|64
 Tricot|49.561|2.588|FR|Hauts-de-France|64
 Trie-Château|49.285|1.821|FR|Hauts-de-France|64
 Triandaíika|38.655|21.383|GR|West Greece|63
+Tri-City Airport|37.332|-95.511|US|Kansas|63|f
+Tri-State Steuben County Airport|41.635|-85.086|US|Indiana|63|f
+Triana|37.383|-6.003|ES|Andalusia|63|f
+Triangle Island|50.864|-129.082|CA|British Columbia|63|f
+Trinity Mountain|43.599|-115.429|US|Idaho|63|f
 Tristach|46.816|12.790|AT|Tyrol|63
 Tri-Lakes|41.246|-85.442|US|Indiana|63
 Trinità|44.507|7.756|IT|Piedmont|63
@@ -134,32 +159,181 @@ Trincheras|30.398|-111.531|MX|Sonora|61
 Triginto|45.402|9.325|IT|Lombardy|61
 Trittenheim|49.825|6.899|DE|Rheinland-Pfalz|61
 Tríkala|40.598|22.557|GR|Central Macedonia|61
+Tri-County Regional Airport|43.212|-90.190|US|Wisconsin|61|f
+Triangle Point|-62.522|-59.839|AQ||61|f
+Tríbeč|48.392|18.167|SK|Nitra Region|61|f
+Trident Volcano|58.235|-155.104|US|Alaska|61|f
+Trihøin|62.017|8.475|NO|Innlandet|61|f
+Trinidad Head|41.054|-124.153|US|California|61|f
+Trinity Lake|40.804|-122.747|US|California|61|f
+Trinket Island|8.096|93.579|IN|Andaman and Nicobar|61|f
+Triple Divide Peak|37.632|-119.370|US|California|61|f
+Tripoli Airport|37.531|22.404|GR|Peloponnese|61|f
+Tripoli International Airport|32.664|13.159|LY|Tripoli|61|f
+Trischman Knob|44.339|-110.877|US|Wyoming|61|f
+Triton Museum of Art|37.356|-121.955|US|California|61|f
 Trie-sur-Baïse|43.321|0.371|FR|Occitanie|61
 Tři Sekery|49.942|12.617|CZ|Carlsbad Region|61
 Trinlé|7.207|-7.617|CI|Montagnes|61
 Trijueque|40.774|-2.993|ES|Castille-La Mancha|60
 Triaize|46.393|-1.198|FR|Pays de la Loire|60
 Tribes Hill|42.955|-74.285|US|New York|60
+Trial|39.223|-76.753|US|Maryland|60
+Tríkeri|39.101|23.077|GR|Thessaly|60
+Trinidad|15.038|-92.118|MX|Chiapas|60
 Triei|40.035|9.640|IT|Sardinia|60
+Triunfo de Madero|16.773|-93.772|MX|Chiapas|60
 Trivignano Udinese|45.946|13.340|IT|Friuli Venezia Giulia|59
 Trinidad Zaachila|16.921|-96.764|MX|Oaxaca|59
+Triton|49.517|-55.615|CA|Newfoundland and Labrador|59
+Trinidad|32.144|-96.091|US|Texas|59
+Triunfo Número Dos|22.533|-98.885|MX|Tamaulipas|59
+Tři Dvory|50.032|15.256|CZ|Central Bohemia|59
+Triabunna|-42.508|147.911|AU|Tasmania|59
+Triovasálos|36.745|24.433|GR|South Aegean|58
+Tríacastela|42.756|-7.241|ES|Galicia|58
+Trílofo|40.572|22.152|GR|Central Macedonia|58
+Triangle Pond|41.950|-70.703|US|Massachusetts|58|f
+Trichy International Airport|10.765|78.710|IN|Tamil Nadu|58|f
+Tricorner Knob|35.696|-83.254|US|North Carolina|58|f
+Trifid Peak|-67.852|-67.145|AQ||58|f
+Trilling Islands|-69.500|39.617|AQ||58|f
+Trinity Island|-63.816|-60.734|AQ||58|f
+Trinity Island|-53.999|-38.176|GS||58|f
+Tripod Island|-64.307|-62.943|AQ||58|f
 Tribune|38.470|-101.753|US|Kansas|58
+Trinidad Ixtlán|17.267|-96.417|MX|Oaxaca|58
+Triadelphia|40.053|-80.628|US|West Virginia|58
+Trita|-6.147|-78.013|PE|Amazonas|58
+Trimont|43.762|-94.707|US|Minnesota|57
+Triantafylliá|40.984|23.348|GR|Central Macedonia|57
+Trialeti|41.543|44.108|GE|Kvemo Kartli|57
+Trílofos|40.371|22.459|GR|Central Macedonia|57
+Tríbique|7.995|-81.315|PA|Veraguas Province|57
 Tricerro|45.236|8.327|IT|Piedmont|57
+Trigomila|17.584|-99.126|MX|Guerrero|56
+Trizac|45.253|2.539|FR|Auvergne-Rhône-Alpes|56
+Trimbs|50.317|7.300|DE|Rheinland-Pfalz|56
+Triunfo Agrarista|16.855|-93.071|MX|Chiapas|56
+Trigomil|21.394|-104.793|MX|Nayarit|56
+Trimble|39.471|-94.565|US|Missouri|56
+Tripp|43.226|-97.966|US|South Dakota|56
+Trinidad|18.024|-88.687|BZ|Orange Walk District|56
 Trivigno|40.580|15.989|IT|Basilicate|56
+Trimble|36.203|-89.191|US|Tennessee|56
+Triggianello|40.925|17.169|IT|Apulia|56
+Triádhion|40.547|23.049|GR|Central Macedonia|56
+Tribalj|45.221|14.679|HR|Primorje-Gorski Kotar|56
+Trigaches|38.091|-7.972|PT|Beja|55
+Trilbardou|48.943|2.806|FR|Île-de-France|55
+Triglitz|53.211|12.102|DE|Brandenburg|55
+Trifýlli|40.791|22.264|GR|Central Macedonia|55
+Trigny|49.303|3.896|FR|Grand Est|55
 Tribogna|44.417|9.196|IT|Liguria|55
+Triana|34.586|-86.733|US|Alabama|54
+Triadelphia Reservoir|39.212|-77.020|US|Maryland|54|f
+Trichrug|51.890|-3.892|GB|Wales|54|f
+Trickey Pond|43.940|-70.608|US|Maine|54|f
+Tricorn Mountain|-85.050|173.450|AQ||54|f
+Trident Peak|41.903|-118.417|US|Nevada|54|f
+Trigonia Island|-66.014|-65.675|AQ||54|f
+TriMet Washington Square Transit Center|45.452|-122.779|US|Oregon|54|f
+Trinidad Lake State Park|37.150|-104.561|US|Colorado|54|f
+Trinserhorn|46.903|9.267|CH|Grisons|54|f
+Triple Divide Peak|36.593|-118.531|US|California|54|f
+Triple Islands|-66.767|141.200|AQ||54|f
+Triple Islands|54.294|-130.880|CA|British Columbia|54|f
+Trischen|54.058|8.689|DE|Schleswig-Holstein|54|f
+Tristan Island|-66.735|140.900|AQ||54|f
+Trisūl|30.313|79.777|IN|Uttarakhand|54|f
+Tritanti|38.449|16.101|IT|Calabria|54
+Tria|47.233|22.266|RO|Bihor County|54
+Trinidad Norte|22.457|-101.517|MX|Zacatecas|54
+Tribehou|49.212|-1.243|FR|Normandy|54
 Tricio|42.402|-2.719|ES|La Rioja|51
 Tripi|38.047|15.097|IT|Sicily|51
 Trigueros del Valle|41.830|-4.652|ES|Castille and León|51
+Trimport|49.917|6.583|DE|Rheinland-Pfalz|49
+Tri-Cities Airport|42.078|-76.099|US|New York|49|f
+Tri-State Peak|36.601|-83.675|US|Kentucky|49|f
+Triad Islands|-65.608|-64.452|AQ||49|f
+Trial Bay|-30.882|153.051|AU|New South Wales|49|f
+Trickster Rocks|-65.600|-64.594|AQ||49|f
+Trico Mountain|47.597|-121.113|US|Washington|49|f
+Tricorn Peak|-82.983|156.800|AQ||49|f
+Triermain Castle|54.994|-2.635|GB|England|49|f
+Trigwell Island|-68.557|77.947|AQ||49|f
+Trinchera Peak|37.289|-105.165|US|Colorado|49|f
+Trincomalee Bay|8.500|81.250|LK|Eastern Province|49|f
+Trinity Bay|-16.500|145.583|AU|Queensland|49|f
+Tripp Island|-76.633|162.700|AQ||49|f
+Tripp Pinnacle|43.335|-75.379|US|New York|49|f
+Tristacher See|46.800|12.800|AT|Tyrol|49|f
+Triton Point|-71.690|-68.213|AQ||49|f
+Triumph-Palace|55.798|37.521|RU|Moscow Oblast|49|f
+Triune Peaks|-69.130|-66.832|AQ||49|f
+Triunia National Park|-26.654|152.904|AU|Queensland|49|f
+Trivelpiece Island|-64.737|-64.148|AQ||49|f
+Trivial Islands|-65.518|-65.211|AQ||49|f
+Trivor|36.288|75.084|PK|Gilgit-Baltistan|49|f
 Trisobbio|44.661|8.586|IT|Piedmont|49
 Triora|43.993|7.764|IT|Liguria|49
 Trivigliano|41.776|13.272|IT|Lazio|48
 Trinidad|-7.349|-79.030|PE|Cajamarca Department|47
 Tribaldos|39.973|-2.898|ES|Castille-La Mancha|42
+Tri-County Airport|30.847|-85.603|US|Florida|40|f
+Triad Peak|52.117|-117.552|CA|Alberta|40|f
+Trial Islands|48.398|-123.306|CA|British Columbia|40|f
+Triangle Lake|54.934|-67.165|CA|Newfoundland and Labrador|40|f
+Triangle Lake|49.837|-93.572|CA|Ontario|40|f
+Triangle Lake|43.927|-115.150|US|Idaho|40|f
+Triangle Pond|41.819|-70.576|US|Massachusetts|40|f
+Tribby Mountain|37.654|-90.602|US|Missouri|40|f
+Tribby Peak|-71.933|-97.800|AQ||40|f
+Tribulaun di Dentro|46.991|11.346|AT|Tyrol|40|f
+Tribune Bay Park|49.529|-124.638|CA|British Columbia|40|f
+Trice Islands|-72.417|-99.433|AQ||40|f
+Tricky Hill|37.493|-89.600|US|Missouri|40|f
+Tricouni Peak|50.016|-123.236|CA|British Columbia|40|f
+Tricouni Peak|48.582|-121.077|US|Washington|40|f
+Trident Basin Seaplane Base|57.782|-152.392|US|Alaska|40|f
+Triebtenseewli|46.553|8.298|CH|Bern|40|f
+Trifthorn|46.052|7.678|CH|Valais|40|f
+Triftsee|46.690|8.359|CH|Bern|40|f
+Trigo Mountains|33.305|-114.547|US|Arizona|40|f
+Trilling Peaks|-67.967|62.750|AQ||40|f
+Trillium Lake|45.271|-121.739|US|Oregon|40|f
+Trimble Knob|38.405|-79.588|US|Virginia|40|f
+Trinidad Stadium|12.513|-70.024|AW||40|f
+Trinidad State Beach|41.065|-124.150|US|California|40|f
+Trinity Bay|48.000|-53.498|CA|Newfoundland and Labrador|40|f
+Trinity Bay|29.682|-94.792|US|Texas|40|f
+Trinity Center Airport|40.987|-122.695|US|California|40|f
+Trinity Dam|40.801|-122.763|US|California|40|f
+Trinity Islands|64.456|-78.115|CA|Nunavut|40|f
+Trinkhalle Baden-Baden|48.762|8.237|DE|Baden-Wurttemberg|40|f
+Trinkwassertalsperre Frauenau|49.014|13.334|DE|Bavaria|40|f
+Trio Mountain|49.883|-126.003|CA|British Columbia|40|f
+Triple Glaciers|43.838|-110.785|US|Wyoming|40|f
+Triple Islands|68.201|-108.836|CA|Nunavut|40|f
+Triplet Lakes|47.160|-95.228|US|Minnesota|40|f
+Tripoli Lake|48.476|-84.798|CA|Ontario|40|f
+Tripoli Lake|50.343|-91.078|CA|Ontario|40|f
+Tripp Lake|46.852|-94.765|US|Minnesota|40|f
+Tristelhorn|46.902|9.316|CH|Grisons|40|f
+Triton Bay|76.602|-92.384|CA|Nunavut|40|f
+Trivelpiece Airport|45.331|-123.209|US|Oregon|40|f
 Triollo|42.925|-4.681|ES|Castille and León|38
+Trierscheid|50.350|6.817|DE|Rheinland-Pfalz|36
 Triebendorf|47.117|14.233|AT|Styria|6
 Tri Tôn|10.420|105.001|VN|An Giang|0
 Trienggadeng|5.240|96.202|ID|Aceh|0
 Triệu Sơn|19.819|105.604|VN|Thanh Hóa Province|0
+Trigonco Tengah|-7.751|114.218|ID|East Java|0
+Trikora|-8.787|120.972|ID|East Nusa Tenggara|0
 Trimuris|-1.958|137.837|ID|Papua|0
 Trindade|0.297|6.681|ST|São Tomé Island|0
 Trindade do Sul|-27.521|-52.895|BR|Rio Grande do Sul|0
+Triteh|-6.959|111.362|ID|Central Java|0
+Tritunggal|-6.698|111.397|ID|Central Java|0
+Triwil|-6.720|111.099|ID|Central Java|0

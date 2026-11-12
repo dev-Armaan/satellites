@@ -6,14 +6,17 @@ Veszprém|47.093|17.911|HU|Veszprém|95
 Vestavia Hills|33.449|-86.788|US|Alabama|91
 Vestal|42.085|-76.054|US|New York|89
 Vesoul|47.626|6.143|FR|Bourgogne-Franche-Comté|86
+Vestmannaeyjar Airport|63.424|-20.279|IS|South|82|f
 Veselí nad Moravou|48.954|17.376|CZ|South Moravian|80
 Vesele|47.010|34.918|UA|Zaporizhzhia|80
 Vëshenskaya|49.631|41.725|RU|Rostov|79
 Vesëlyy|47.092|40.742|RU|Rostov|79
+Vesuvius|40.823|14.429|IT|Campania|78|f
 Ves’yegonsk|58.668|37.264|RU|Tver Oblast|78
 Vésztő|46.917|21.267|HU|Bekes County|77
 Veshkayma|54.050|47.122|RU|Ulyanovsk|77
 Veselí nad Lužnicí|49.184|14.697|CZ|South Bohemian Region|76
+Vesle Tavleøya|80.821|20.377|SJ||75|f
 Veselynove|47.357|31.232|UA|Mykolaiv|75
 Vestby|59.605|10.752|NO|Akershus|75
 Veseloyarsk|51.287|81.107|RU|Altai Krai|74
@@ -21,20 +24,31 @@ Vestmannaeyjar|63.443|-20.273|IS|South|73
 Vesilahti|61.317|23.617|FI|Pirkanmaa|73
 Vestone|45.708|10.396|IT|Lombardy|73
 Vescovato|45.174|10.165|IT|Lombardy|71
+Vesiloo|58.400|21.830|EE|Saare|71|f
 Veshchevo|60.731|29.183|RU|Leningradskaya Oblast'|70
 Vestec|49.980|14.505|CZ|Central Bohemia|70
 Vestbjerg|57.132|9.959|DK|North Denmark|70
+Veslebotnskarvet|60.930|8.616|NO|Buskerud|69|f
+Vestre Bokn|59.194|5.422|NO|Rogaland|69|f
 Vester Hassing|57.068|10.126|DK|North Denmark|68
 Vescovato|42.493|9.439|FR|Corsica|68
+Vessölandet|60.290|25.725|FI|Uusimaa|67|f
+Vestvågøya|68.210|13.826|NO|Nordland|67|f
+Vestvannet|59.352|11.059|NO|Østfold|67|f
 Vessem|51.421|5.289|NL|North Brabant|67
 Vestnes|62.625|7.087|NO|Møre og Romsdal|66
 Vespolate|45.350|8.669|IT|Piedmont|66
+Veslbreatinden|61.594|8.112|NO|Innlandet|65|f
+Vestgötabreen|78.450|12.800|SJ|Svalbard|65|f
 Vesanto|62.933|26.417|FI|North Savo|65
 Vespasiano Corrêa|-29.067|-51.859|BR|Rio Grande do Sul|65
 Veselyy Kut|46.054|29.289|UA|Odesa|65
 Veștem|45.718|24.240|RO|Sibiu County|65
 Vesele|44.855|34.880|UA|Crimea|64
 Vestenbergsgreuth|49.688|10.652|DE|Bavaria|64
+Vesëlaya Mountain|-71.642|12.533|AQ||63|f
+Vesle Knutsholstinden|61.418|8.574|NO|Innlandet|63|f
+Vesper Peak|48.013|-121.517|US|Washington|63|f
 Vestric-et-Candiac|43.741|4.259|FR|Occitanie|63
 Veselynivka|50.242|31.274|UA|Kyiv Oblast|63
 Vesnyane|46.978|31.887|UA|Mykolaiv|63
@@ -50,11 +64,70 @@ Vesela Dolyna|46.232|29.324|UA|Odesa|62
 Vesela Hora|48.710|39.255|UA|Luhansk|62
 Veselyi Podil|49.596|33.259|UA|Poltava|62
 Vestbygd|58.100|6.587|NO|Agder|61
+Vesijako|61.386|24.997|FI|Paijat-Hame|61|f
 Veseuș|46.275|24.143|RO|Alba County|60
+Veselianka|47.683|35.368|UA|Zaporizhzhia|59
 Vescovado|43.170|11.392|IT|Tuscany|58
+Veselíčko|49.530|17.503|CZ|Olomouc Region|58
+Vesilspitze|46.925|10.316|CH|Grisons|58|f
+Vesterheim Norwegian-American Museum|43.304|-91.792|US|Iowa|58|f
+Vesulspitze|47.000|10.350|AT|Tyrol|58|f
+Vesuv|78.073|14.806|SJ|Svalbard|58|f
+Vesela Dolyna|49.404|33.482|UA|Poltava|58
+Vessigebro|56.983|12.650|SE|Halland|58
+Vescemont|47.744|6.844|FR|Bourgogne-Franche-Comté|58
+Vesternychany|47.722|29.540|UA|Odesa|58
+Veselyi Khutir|49.657|32.465|UA|Cherkasy|57
+Veselá|49.237|17.775|CZ|Zlín|57
 Vestenanova|45.574|11.229|IT|Veneto|57
+Vesela Hora|48.621|37.119|UA|Donetsk|56
+Vesly|49.243|1.653|FR|Normandy|56
 Vescovana|45.134|11.713|IT|Veneto|56
+Vesdun|46.539|2.429|FR|Centre-Val de Loire|56
+Věšín|49.615|13.824|CZ|Central Bohemia|56
+Vesele|46.981|35.114|UA|Zaporizhzhia|55
+Vesele|48.063|37.725|UA|Donetsk|55
+Vesper|44.482|-89.964|US|Wisconsin|55
+Vestervig|56.763|8.319|DK|North Denmark|55
+Vesly|49.252|-1.505|FR|Normandy|55
+Vester Hornum|56.832|9.360|DK|North Denmark|55
 Vestignè|45.387|7.953|IT|Piedmont|55
+Veshkelitsa|61.921|32.812|RU|Karelia|54
+Veselovka TV Mast|54.592|22.013|RU|Kaliningrad Oblast|54|f
+Vesijärvi|61.514|24.111|FI|Pirkanmaa|54|f
+Vesijärvi|61.109|25.507|FI|Paijat-Hame|54|f
+Vesle Rokosjøen|60.784|11.489|NO|Innlandet|54|f
+Veslebjørn|61.555|8.128|NO|Innlandet|54|f
+Veslekletten Peak|-72.075|-3.417|AQ||54|f
+Veslenupen Peak|-72.117|2.233|AQ||54|f
+Vesletind Peak|-72.167|-3.033|AQ||54|f
+Veslfjellet|61.505|8.753|NO|Innlandet|54|f
+Vestfjorden|79.153|15.706|SJ|Svalbard|54|f
+Vesthjelmen Peak|-71.683|26.417|AQ||54|f
+Vesthovde Headland|-69.750|37.383|AQ||54|f
+Vestkapp, Cape|-72.750|-19.000|AQ||54|f
+Vestre Bjonevatnet|60.518|10.130|NO|Buskerud|54|f
+Vestreskorve Glacier|-71.950|5.083|AQ||54|f
+Vestri Palace|43.317|11.335|IT|Tuscany|54|f
+Vestvågøya|68.211|13.557|NO|Nordland|54|f
+Vestvorren Ridge|-73.100|-1.883|AQ||54|f
+Vesqueville|50.006|5.397|BE|Wallonia|54
+Vesalius, Mount|-64.068|-61.988|AQ||49|f
+Vesle Juklevatnet|61.024|8.175|NO|Vestland|49|f
+Veslesmeden|61.917|9.757|NO|Innlandet|49|f
+Vesta Temple|36.094|-112.269|US|Arizona|49|f
+Veste Otzberg|49.820|8.911|DE|Hesse|49|f
+Vestfold Island|-54.371|-36.920|GS||49|f
+Vesuvio National Park|40.828|14.427|IT|Campania|49|f
 Vesime|44.635|8.227|IT|Piedmont|49
 Vestreno|46.083|9.325|IT|Lombardy|47
 Vessalico|44.046|7.960|IT|Liguria|47
+Vesey Hamilton Island|76.927|-109.182|CA|Nunavut|40|f
+Vesldalstinden|61.731|7.943|NO|Innlandet|40|f
+Veslfjelltinden|61.610|8.113|NO|Innlandet|40|f
+Vestal Peak|37.689|-107.603|US|Colorado|40|f
+Vestal Ridge|-77.883|160.633|AQ||40|f
+Veste Wachsenburg|50.858|10.876|DE|Thuringia|40|f
+Vesterålen|68.754|14.939|NO|Nordland|40|f
+Vestfjellet|59.579|9.963|NO|Vestfold|40|f
+Vesuvio Playground|40.725|-74.002|US|New York|40|f

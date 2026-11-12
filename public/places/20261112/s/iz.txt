@@ -32,9 +32,13 @@ Izluchinsk|60.979|76.924|RU|Khanty-Mansia|85
 Izamal|20.933|-89.019|MX|Yucatán|84
 Iziaslav|50.120|26.825|UA|Khmelnytskyi|84
 Izra‘|32.867|36.251|SY|Daraa|83
+Izumo Airport|35.414|132.890|JP|Shimane|81|f
 Iż-Żejtun|35.858|14.533|MT||81|r
 Izola|45.537|13.660|SI|Municipality of Izola|81
 Iż-Żurrieq|35.822|14.483|MT||81|r
+İzmir Adnan Menderes International Airport|38.292|27.157|TR|İzmir Province|79|f
+Iziko South African Museum|-33.929|18.415|ZA|Western Cape|78|f
+Iztaccihuatl|19.178|-98.641|MX||78|f
 Īzad Shahr|36.599|52.127|IR|Māzandarān|77
 Iznalloz|37.393|-3.528|ES|Andalusia|77
 Izvoarele|45.033|25.267|RO|Dâmbovița County|77
@@ -43,10 +47,12 @@ Izumizaki|37.159|140.297|JP|Fukushima|76
 Izsák|46.805|19.352|HU|Bács-Kiskun|76
 Izhmorskiy|56.192|86.642|RU|Kuzbass|75
 Īzad Khvāst|31.520|52.128|IR|Fars|75
+Izu Islands|34.333|139.667|JP|Tokyo|75|f
 Iza|48.215|23.329|UA|Zakarpattia|74
 Izbiceni|43.822|24.663|RO|Olt|74
 Iznájar|37.258|-4.308|ES|Andalusia|74
 Izvoarele|44.034|25.775|RO|Giurgiu County|74
+Izu Hantō|34.864|138.925|JP|Shizuoka|73|f
 Izon|44.921|-0.362|FR|New Aquitaine|73
 Izoplit|56.626|36.222|RU|Tver Oblast|73
 Izumozaki|37.533|138.683|JP|Niigata|72
@@ -56,7 +62,9 @@ Iztapa|13.933|-90.707|GT|Escuintla|72
 Izvoarele|45.033|28.533|RO|Tulcea County|72
 Izvoarele|44.267|24.517|RO|Olt|72
 Izhevskoye|54.557|40.875|RU|Ryazan Oblast|71
+Izhma Airport|65.032|53.971|RU|Komi|71|f
 Izhma|65.008|53.911|RU|Komi|71
+Izena Jima|26.935|127.939|JP|Okinawa|70|f
 Izmaylovo|53.721|47.246|RU|Ulyanovsk|70
 Izvoru Bârzii|44.707|22.674|RO|Mehedinți County|70
 Izabelin|52.300|20.817|PL|Mazovia|70
@@ -90,6 +98,7 @@ Izvaryne|48.288|39.896|UA|Luhansk|64
 Izena|26.917|127.931|JP|Okinawa|64
 Izabelin C|52.299|20.804|PL|Mazovia|64
 Izvoarele|44.170|26.314|RO|Giurgiu County|63
+Izozog Airport|-18.670|-63.002|BO|Santa Cruz Department|63|f
 Izvoarele|47.042|26.902|RO|Iași County|63
 Izvoare|46.747|26.802|RO|Neamț County|63
 Izvin|45.800|21.461|RO|Timiș County|63
@@ -109,12 +118,45 @@ Izvoru Dulce|45.342|26.777|RO|Buzău County|61
 Izvor|42.203|21.578|MK|Lipkovo|60
 Izborsk|57.708|27.863|RU|Pskov Oblast|60
 Izobilne|45.570|34.945|UA|Crimea|60
+Izvoarele|45.546|27.769|RO|Galați County|60
+Izvoru|43.885|25.664|RO|Giurgiu County|60
+Izvoru Dulce|45.112|26.632|RO|Buzău County|59
+Izvoru|44.510|25.541|RO|Giurgiu County|59
+Izvoru|44.428|24.250|RO|Olt|59
+Ižakovci|46.589|16.221|SI|Municipality of Beltinci|58
 Iznate|36.783|-4.183|ES|Andalusia|58
+Izel-lès-Équerchin|50.361|2.950|FR|Hauts-de-France|58
+Izhevskiy Prud|56.885|53.129|RU|Udmurtiya Republic|58|f
+Izvoru Mureșului|46.627|25.683|RO|Harghita County|58
+Izvorani|44.873|24.941|RO|Arges|58
+Ízhuapa|18.384|-97.018|MX|Puebla|58
+Izvoru Rece|45.167|23.901|RO|Vâlcea County|58
+Izvoarele|44.717|23.399|RO|Gorj County|57
 Iza|5.612|-72.979|CO|Boyacá|57
+Izbuc|46.440|22.468|RO|Bihor County|57
+Iza|42.837|-1.729|ES|Navarre|57
+‘Izbat Salmān|32.142|34.998|PS|West Bank|57
+Извор|41.555|21.697|MK||57||Izvor
+Iziumske|49.270|37.810|UA|Kharkiv|57
+Izvorul Trotușului|46.483|25.942|RO|Harghita County|57
+Izel-lès-Hameau|50.317|2.533|FR|Hauts-de-France|57
+Izvoru|44.729|24.173|RO|Vâlcea County|57
+Izeron|45.144|5.372|FR|Auvergne-Rhône-Alpes|56
+Izier|47.281|5.189|FR|Bourgogne-Franche-Comté|56
+Izvoru|44.609|25.374|RO|Dâmbovița County|56
+Izvorul Rece|44.356|23.753|RO|Dolj|56
+Izvorani|44.699|26.121|RO|Ilfov|56
+Izeure|47.170|5.138|FR|Bourgogne-Franche-Comté|55
 Izcuchaca|-12.501|-74.997|PE|Huancavelica|55
+Izhevsk Airport|56.828|53.458|RU|Udmurtiya Republic|54|f
+İzmir Saat Kulesi|38.419|27.129|TR|İzmir Province|54|f
+Izvoru|45.076|25.535|RO|Dâmbovița County|54
+Izier|50.384|5.579|BE|Wallonia|54
 Izvoru|45.192|26.592|RO|Buzău County|49
 Izurtza|43.150|-2.633|ES|Basque Country|48
 Izagre|42.224|-5.257|ES|Castille and León|46
+Izembek National Wildlife Refuge|55.276|-162.641|US|Alaska|40|f
+Izmir Archaeological Museum|38.414|27.129|TR|İzmir Province|40|f
 Izamba|-1.227|-78.586|EC|Tungurahua Province|0
 Izingolweni|-30.784|30.123|ZA|KwaZulu-Natal|0
 Izumisano|34.379|135.320|JP|Osaka|0

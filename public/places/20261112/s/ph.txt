@@ -36,10 +36,12 @@ Phra Nakhon Si Ayutthaya|14.352|100.577|TH|Phra Nakhon Si Ayutthaya|94
 Phetchabun|16.419|101.161|TH|Phetchabun|94
 Phalodi|27.131|72.368|IN|Rajasthan|94
 Phú Khương|11.283|106.133|VN|Tay Ninh|94
+Phu Cat Airport|13.955|109.042|VN|Gia Lai|94|f
 Phetchaburi|13.112|99.945|TH|Phetchaburi|93
 Phumĭ Yoŭl Toŭng|11.282|104.738|KH|Takeo|93
 Phumĭ Véal Srê|10.981|104.778|KH|Takeo|93
 Phatthalung|7.618|100.078|TH|Phatthalung|93
+Phnom Penh International Airport|11.547|104.844|KH|Phnom Penh|93|f
 Phú Thương|21.087|105.807|VN|Hanoi|92
 Phrae|18.146|100.141|TH|Phrae|92
 Phola|-26.002|29.034|ZA|Mpumalanga|92
@@ -48,6 +50,7 @@ Phenix City|32.471|-85.001|US|Alabama|91
 Phulbāni|20.481|84.231|IN|Odisha|91
 Photharam|13.692|99.850|TH|Ratchaburi|91
 Phichit|16.442|100.349|TH|Phichit|91
+Phuket International Airport|8.113|98.317|TH|Phuket|91|f
 Phuntsholing|26.852|89.388|BT|Chukha|89
 Phulera|26.874|75.242|IN|Rajasthan|88
 Phú Quý|10.517|108.933|VN|Lam Dong|88
@@ -55,15 +58,20 @@ Phumĭ Véal Tônsay|11.696|104.581|KH|Kampong Speu Province|88
 Phước An|12.713|108.301|VN|Dak Lak|88
 Phillaur|31.019|75.791|IN|Punjab|88
 Phomolong|-28.013|27.082|ZA|Free State|88
+Phoenix Sky Harbor International Airport|33.436|-111.998|US|Arizona|87|f
 Phulpur|25.549|82.090|IN|Uttar Pradesh|87
+Philippi|41.012|24.284|GR|East Macedonia and Thrace|87|f
 Phanat Nikhom|13.447|101.185|TH|Chon Buri|87
 Phumĭ Tnaôt|12.947|104.569|KH|Kampong Thom|87
+Philadelphia International Airport|39.878|-75.240|US|Pennsylvania|87|f
 Phayao|19.192|99.879|TH|Phayao|86
 Phibun Mangsahan|15.245|105.229|TH|Ubon Ratchathani|86
+Philips Stadium|51.442|5.467|NL|North Brabant|86|f
 Phak Hai|14.457|100.370|TH|Phra Nakhon Si Ayutthaya|86
 Phan Thong|13.470|101.093|TH|Chon Buri|85
 Phalauda|29.188|77.830|IN|Uttar Pradesh|85
 Phirangipuram|16.291|80.262|IN|Andhra Pradesh|85
+Phlius|37.845|22.647|GR|Peloponnese|85|f
 Phu Khiao|16.377|102.129|TH|Chaiyaphum|85
 Phaphūnd|26.599|79.464|IN|Uttar Pradesh|84
 Phoenixville|40.130|-75.515|US|Pennsylvania|84
@@ -76,23 +84,30 @@ Phước Hòa|12.100|107.117|VN|Dong Nai|84
 Phon Charoen|18.033|103.167|TH|Nong Khai|84
 Phek|25.667|94.500|IN|Manipur|84
 Phú Lộc|9.428|105.741|VN|Can Tho City|84
+Phu Quoc International Airport|10.170|103.994|VN|An Giang|83|f
 Phon|15.816|102.600|TH|Khon Kaen|83
 Phillipsburg|40.694|-75.190|US|New Jersey|83
 Phelan|34.426|-117.572|US|California|83
 Phumĭ Ânhchaeum|11.847|105.714|KH|Tboung Khmum|83
 Phôngsali|21.681|102.100|LA|Phôngsali|83
+Phetchabun Airport|16.676|101.195|TH|Phetchabun|82|f
+Phrae Airport|18.132|100.164|TH|Phrae|82|f
 Phuljhuri|22.200|90.067|BD|Barisal Division|82
 Phai Sali|15.600|100.649|TH|Nakhon Sawan|82
 Phimai|15.223|102.495|TH|Nakhon Ratchasima|82
 Phūp Kalān|26.645|78.874|IN|Madhya Pradesh|82
+Philadelphia Museum of Art|39.966|-75.182|US|Pennsylvania|82|f
 Phanom Thuan|14.130|99.699|TH|Kanchanaburi|82
 Philippsburg|49.232|8.461|DE|Baden-Wurttemberg|82
 Phayuha Khiri|15.455|100.135|TH|Nakhon Sawan|82
 Pho Thong|14.666|100.409|TH|Ang Thong|82
 Phú Túc|13.197|108.690|VN|Gia Lai|82
+Phi Phi Islands|7.750|98.778|TH|Krabi|81|f
+Philip II Arena|42.006|21.426|MK||81|f
 Phụng Nghia|20.950|105.717|VN|Hanoi|81
 Phrai Bueng|14.748|104.363|TH|Si Sa Ket|81
 Phumĭ Ângkôr Borei|10.995|104.975|KH|Takeo|81
+Phaplu Airport|27.517|86.585|NP|Koshi|81|f
 Phayakkhaphum Phisai|15.516|103.194|TH|Maha Sarakham|80
 Phang Nga|8.451|98.530|TH|Phang Nga|80
 Phūlpur|26.078|82.876|IN|Uttar Pradesh|79
@@ -107,11 +122,15 @@ Philadelphia|32.772|-89.117|US|Mississippi|77
 Phong Châu|21.239|105.432|VN|Hanoi|77
 Phillip Island|-38.483|145.231|AU|Victoria|77
 Phalombe|-15.806|35.651|MW|Southern Region|77
+Phlegrean Islands|40.748|13.982|IT||77|f
 Ph’av|12.028|104.965|KH|Kampong Cham|77
 Phumĭ Koŭk Kóng|11.729|105.583|KH|Prey Veng|76
 Phumĭ Ândong Snay|12.167|104.669|KH|Kampong Chhnang|76
 Pharihā|27.322|78.473|IN|Uttar Pradesh|76
 Phulwartanr|23.773|86.232|IN|Jharkhand|75
+Phaistos|35.051|24.814|GR|Crete|75|f
+Phu Bai International Airport|16.399|107.701|VN|Thừa Thiên Huế Province|75|f
+Phu Quoc Island|10.200|104.000|VN|An Giang|75|f
 Phúc Trạch|18.133|105.767|VN|Hà Tĩnh Province|75
 Phrao|19.366|99.202|TH|Chiang Mai|75
 Phú Lộc|18.441|105.671|VN|Hà Tĩnh Province|75
@@ -124,30 +143,50 @@ Phoenix|42.275|-122.818|US|Oregon|73
 Philippolis|-30.266|25.274|ZA|Free State|73
 Phoenix Lake|38.006|-120.307|US|California|73
 Phum Krâkôr|12.495|106.022|KH|Kratie|72
+Philadelphia Municipal Airport|32.800|-89.125|US|Mississippi|72|f
 Phù Ninh|21.083|105.950|VN|Hanoi|72
 Phổng Lăng|21.465|103.670|VN|Sơn La Province|72
 Phương Linh|21.467|105.099|VN|Phu Tho|71
+Philae|24.014|32.877|EG|Aswan|71|f
+Phu Hai|8.687|106.741|VN|Ho Chi Minh City (HCMC)|71|f
 Phulra|34.335|73.056|PK|Khyber Pakhtunkhwa|71
 Philipstown|-30.437|24.473|ZA|Northern Cape|71
 Philippi|39.152|-80.040|US|West Virginia|70
+Phoenix-Mesa Gateway Airport|33.307|-111.668|US|Arizona|70|f
+Phra Tamnak Suanchitlada|13.772|100.519|TH|Bangkok|70|f
 Phumĭ Nĭpéch|12.922|104.781|KH|Kampong Thom|70
 Phing|6.969|-7.826|CI|Montagnes|69
 Phumĭ Katê Vat|13.806|107.246|KH|Ratanakiri|69
 Philipsburg|40.896|-78.221|US|Pennsylvania|69
+Philippine Sea|20.000|135.000|||69|f
+Phnum Tumpoar|12.366|103.065|KH|Pursat|69|f
 Phillipsburg|39.756|-99.324|US|Kansas|68
 Phumĭ Rôméas|12.069|104.524|KH|Kampong Chhnang|68
 Phoenix|43.231|-76.301|US|New York|67
 Phaëton|19.675|-71.897|HT|Nord-Est|67
+Phanagoria Island|-62.434|-60.163|AQ||67|f
+Phewa Lake|28.217|83.945|NP|Gandaki Pradesh|67|f
+Phnum Sâmkŏs|12.156|103.044|KH|Pursat|67|f
+Phoenix Snow Park|37.583|128.322|KR|Gangwon-do|67|f
 Phippsburg|43.821|-69.815|US|Maine|67
 Phaweni|-22.882|30.779|ZA|Limpopo|66
 Phumĭ Trâpeăng Môntrei|10.696|104.577|KH|Kampot|66
 Phoenix|41.611|-87.635|US|Illinois|66
 Phelps|42.958|-77.057|US|New York|66
 Phillip|-31.133|150.850|AU|New South Wales|66
+Phaleron Bay|37.932|23.670|GR|Attica|65|f
+Philadelphia Zoo|39.973|-75.195|US|Pennsylvania|65|f
+Phnum Dei Dos|13.766|103.949|KH|Siem Reap|65|f
+Phoenix Goodyear Airport|33.423|-112.377|US|Arizona|65|f
+Phoenix Park|53.356|-6.329|IE|Leinster|65|f
+Phoque Island|-66.817|141.400|AQ||65|f
+Phou Soaydao|17.731|101.007|LA||65|f
 Phalpota|31.098|75.826|IN|Punjab|65
 Phillipston|42.549|-72.133|US|Massachusetts|64
 Phumĭ Achén|12.877|105.938|KH|Kratie|64
 Phumĭ Âu Lœ̆k|13.520|105.073|KH|Kampong Thom|64
+Phippsøya|80.709|20.793|SJ||63|f
+Phitsanulok Airport|16.778|100.283|TH|Phitsanulok|63|f
 Philo|40.007|-88.158|US|Illinois|63
 Phumĭ Prey Chék|10.654|104.571|KH|Kampot|63
 Phumĭ Srê Kăn|10.666|104.606|KH|Kampot|63
@@ -160,10 +199,106 @@ Philandersbron|-26.812|20.095|ZA|Northern Cape|62
 Phil Campbell|34.351|-87.706|US|Alabama|62
 Philadelphia|44.154|-75.709|US|New York|62
 Phum Ti Muoy|11.527|102.987|KH|Koh Kong|61
+Phayao Lake|19.171|99.875|TH|Phayao|61|f
+Phelps Island|-66.283|110.500|AQ||61|f
+Philip Billard Municipal Airport|39.070|-95.621|US|Kansas|61|f
+Philips Arena|33.758|-84.397|US|Georgia|61|f
+Phillips Army Airfield|39.466|-76.166|US|Maryland|61|f
+Phoenix Peak|60.123|-149.539|US|Alaska|61|f
+Phoenix-Deer Valley Airport|33.688|-112.083|US|Arizona|61|f
+Phola Gangchhen|28.355|85.809|CN|Tibet|61|f
+Phu Khi Suek|14.280|105.092|TH|Ubon Ratchathani|61|f
+Phu Kradueng|16.871|101.719|TH|Loei|61|f
+Phu Lương|21.583|104.317|VN|Lao Cai|61|f
+Phu Thok Noi|18.136|103.882|TH|Bueng Kan|61|f
 Phum Kaôh Trŭng|12.496|105.992|KH|Kratie|60
 Phillips|44.823|-70.340|US|Maine|60
+Phi Phi Don|7.740|98.772|TH|Krabi|60
+Phú Vinh|16.228|107.296|VN|Thừa Thiên Huế Province|59
+Phelps|37.513|-82.150|US|Kentucky|59
 Philipsburg|46.332|-113.294|US|Montana|59
+Phaknam|14.007|106.911|KH|Ratanakiri|59
+Phum Buon|13.726|106.969|KH|Ratanakiri|59
+Phalūt|27.213|88.014|IN|West Bengal|58|f
+Phantom Ship|42.911|-122.093|US|Oregon|58|f
+Phelps Lake|35.770|-76.459|US|North Carolina|58|f
+Phinda Private Game Reserve|-27.866|32.336|ZA|KwaZulu-Natal|58|f
+Phipps Peak|38.955|-120.150|US|California|58|f
+Phippsfjellet|78.641|10.974|SJ|Svalbard|58|f
+Phnum Aôral|12.033|104.171|KH|Kampong Speu Province|58|f
+Phnum Khmaôch|12.167|103.015|KH|Pursat|58|f
+Phoenix Peak|-64.443|-59.720|AQ||58|f
+Phu Chifa|19.851|100.454|TH|Chiang Rai|58|f
+Phu Soi Dao|17.746|100.987|LA||58|f
+Phu Xai Lai Leng|19.198|104.182|LA||58|f
+Phutthamonthon|13.777|100.321|TH|Nakhon Pathom|58|f
+Philippsreut|48.867|13.683|DE|Bavaria|58
 Philip|44.039|-101.665|US|South Dakota|58
+Phum Muoy|13.572|106.735|KH|Ratanakiri|57
+Philo|39.861|-81.907|US|Ohio|57
+Phum Băh Kê|13.986|106.654|KH|Stung Treng|57
+Phumĭ Rônteăh|12.944|105.424|KH|Kampong Thom|57
+Phillipsburg|31.440|-83.519|US|Georgia|57
+Philadelphia|35.680|-84.404|US|Tennessee|57
+Phumĭ Ta Vêng|14.053|107.112|KH|Ratanakiri|56
+Phum Pakhlé|12.957|106.350|KH|Kratie|56
+Phum Bei|13.737|106.961|KH|Ratanakiri|55
+Philadelphia|-33.666|18.581|ZA|Western Cape|55
+Phumĭ Arâng Khnay|12.957|105.489|KH|Kampong Thom|55
+Phillipsburg|39.904|-84.402|US|Ohio|55
+Phantom Peak|48.819|-121.343|US|Washington|54|f
+Pharaoh Mountain|43.818|-73.658|US|New York|54|f
+Phelps Mountain|44.157|-73.921|US|New York|54|f
+Philpott Lake|36.808|-80.080|US|Virginia|54|f
+Phoenix Mountains|33.547|-112.021|US|Arizona|54|f
+Phoenix Municipal Stadium|33.449|-111.955|US|Arizona|54|f
+Phou Bia|18.981|103.152|LA|Xaisomboun|54|f
+Phou Khè|19.324|101.241|LA|Xiagnabouli|54|f
+Phra Ratchawang Dusit|13.767|100.517|TH|Bangkok|54|f
+Phu Si Lùng|22.626|102.787|VN|Lai Châu Province|54|f
+Physeter Rocks|-63.518|-60.144|AQ||54|f
+Phalanx Mountain|50.100|-122.853|CA|British Columbia|49|f
+Phelps Promontory|-62.477|-60.121|AQ||49|f
+Philippi Glacier|-54.817|-36.056|GS||49|f
+Phillip Island Airport|-38.520|145.327|AU|Victoria|49|f
+Phillip Island Bridge|-38.518|145.364|AU|Victoria|49|f
+Philpott Dam|36.782|-80.027|US|Virginia|49|f
+Phobos Ridge|-71.869|-68.471|AQ||49|f
+Phou Bia|18.611|103.022|LA|Xaisomboun|49|f
+Phuparash Group|36.035|74.815|PK|Gilgit-Baltistan|49|f
+Phyllis's Engine|49.932|-122.940|CA|British Columbia|49|f
+Philippsheim|49.950|6.633|DE|Rheinland-Pfalz|41
+Phantom Glacier|45.154|-109.744|US|Montana|40|f
+Phantom Lake|43.025|-101.511|US|South Dakota|40|f
+Phantom Lake|47.593|-122.125|US|Washington|40|f
+Pharaoh Peaks|51.117|-115.902|CA|Alberta|40|f
+Phare Lake|44.825|-94.577|US|Minnesota|40|f
+Pharr Mounds|34.466|-88.417|US|Mississippi|40|f
+Phelps Lake|47.660|-80.514|CA|Ontario|40|f
+Phelps Lake|43.643|-110.796|US|Wyoming|40|f
+Philadelphia University|40.022|-75.192|US|Pennsylvania|40|f
+Philadelphia's Magic Gardens|39.943|-75.159|US|Pennsylvania|40|f
+Philharmonie|52.509|13.370|DE|State of Berlin|40|f
+Philip Island|-29.117|167.950|NF||40|f
+Philippe Park|28.005|-82.678|US|Florida|40|f
+Philippi Covered Bridge|39.153|-80.043|US|West Virginia|40|f
+Phillipps Peak|49.667|-114.652|CA|Alberta|40|f
+Phillips Boot Lake|44.828|-62.814|CA|Nova Scotia|40|f
+Phillips Flying Ranch Airport|32.870|-96.222|US|Texas|40|f
+Phillips Mountains|-76.267|-145.000|AQ||40|f
+Phillips Park Zoo|41.737|-88.295|US|Illinois|40|f
+Philpots Island|74.924|-79.886|CA|Nunavut|40|f
+Phinney Bay|47.586|-122.662|US|Washington|40|f
+Phleger Dome|-85.867|-138.400|AQ||40|f
+Phoenix Art Museum|33.467|-112.073|US|Arizona|40|f
+Phoenix Bridge|37.649|-79.831|US|Virginia|40|f
+Phoenix Police Museum|33.445|-112.075|US|Arizona|40|f
+Phoenix Zoo|33.450|-111.947|US|Arizona|40|f
+Phoinike|39.913|20.056|AL|Vlorë County|40|f
+Phong Nha-Ke Bang National Park|17.533|106.150|VN|Quang Tri|40|f
+Phtiotian Thebes, Greek Bath|39.278|22.820|GR|Thessaly|40|f
+Phu Ninh Lake|15.485|108.457|VN||40|f
+Phyllis Lake|44.023|-114.649|US|Idaho|40|f
 Pha Khao|17.065|102.030|TH|Loei|0
 Phachi|14.450|100.729|TH|Phra Nakhon Si Ayutthaya|0
 Phakdi Chumphon|15.905|101.422|TH|Chaiyaphum|0

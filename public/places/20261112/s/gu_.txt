@@ -8,9 +8,9 @@ Guizhou|27.000|107.000|CN||142|r
 Guiyang|26.583|106.717|CN|Guizhou|133
 Guayas|-2.000|-79.833|EC||132|r
 Guatemala|14.667|-90.500|GT||130|r
+Guerrero|17.667|-100.000|MX||129|r
 Guayaquil|-2.196|-79.886|EC|Guayas|129
 Gujranwala|32.156|74.187|PK|Punjab|128
-Guerrero|17.667|-100.000|MX||128|r
 Guinea-Bissau|12.000|-15.000|GW||127|c
 Gunma|36.507|138.982|JP||126|r
 Guilin|25.280|110.296|CN|Guangxi|124
@@ -47,7 +47,7 @@ Guarenas|10.470|-66.619|VE|Miranda|108
 Gucun|31.349|121.393|CN|Shanghai|108
 Guatire|10.474|-66.542|VE|Miranda|107
 Gusau|12.170|6.664|NG|Zamfara State|107
-Guyane|3.999|-52.999|GF||106|r
+Guyane|3.999|-52.999|GF||107|r
 Gunan|29.023|106.648|CN|Chongqing|106
 Guacara|10.226|-67.877|VE|Carabobo|106
 Guri-si|37.599|127.139|KR|Gyeonggi-do|106
@@ -90,6 +90,7 @@ Guidonia Montecelio|41.994|12.722|IT|Lazio|99
 Gusong|28.313|105.238|CN|Sichuan|99
 Gurupi|-11.729|-49.069|BR|Tocantins|99
 Gubkin|51.284|37.535|RU|Belgorod Oblast|99
+Guggenheim Museum Bilbao|43.269|-2.934|ES|Basque Country|99|f
 Guidimaka|15.383|-12.133|MR||99|r
 Guozhen|34.366|107.359|CN|Shaanxi|99
 Guanambi|-14.223|-42.781|BR|Bahia|99
@@ -97,4 +98,3 @@ Gununo|6.925|37.653|ET|South Ethiopia Regional State|99
 Guider|9.933|13.947|CM|North|98
 Guaynabo|18.357|-66.111|PR|Guaynabo|98
 Güigüe|10.083|-67.778|VE|Carabobo|98
-Gueckedou|8.567|-10.134|GN|Nzérékoré Region|98

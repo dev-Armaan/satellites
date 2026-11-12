@@ -2,18 +2,18 @@ Lombardy|45.667|9.500|IT||140|r
 London|51.509|-0.126|GB|England|139
 Lower Saxony|52.833|9.167|DE||138|r
 Los Angeles|34.052|-118.244|US|California|132
-Louisiana|31.000|-92.000|US||129|r
+Louisiana|31.000|-92.000|US||130|r
 Lower Silesia|51.100|16.433|PL||129|r
 Lomé|6.129|1.222|TG|Maritime|127
-Łódź Voivodeship|51.600|19.433|PL||124|r
-Lower Austria|48.333|15.750|AT||121|r
+Łódź Voivodeship|51.600|19.433|PL||125|r
+Lower Austria|48.333|15.750|AT||122|r
 Lorestan Province|33.500|48.500|IR||121|r
 Longyan|25.075|117.018|CN|Fujian|120
 Lomami|-6.217|24.667|CD||117|r
 Los Lagos Region|-42.599|-73.960|CL||117|r
+Loreto|-4.000|-74.500|PE||116|r
 Łódź|51.771|19.474|PL|Łódź Voivodeship|116
 Louisville|38.254|-85.759|US|Kentucky|116
-Loreto|-4.000|-74.500|PE||116|r
 Londrina|-23.310|-51.163|BR|Paraná|115
 Loni|28.751|77.290|IN|Uttar Pradesh|114
 Loudi|27.734|111.994|CN|Hunan|114
@@ -34,9 +34,9 @@ Los Mochis|25.791|-108.998|MX|Sinaloa|108
 Los Teques|10.350|-67.043|VE|Miranda|108
 Logone Occidental|8.753|15.872|TD||108|r
 Longueuil|45.515|-73.468|CA|Quebec|107
+Lori|41.000|44.500|AM||107|r
 Longgang|22.723|114.263|CN|Guangdong|107
 Loa Janan|-0.583|117.095|ID|East Kalimantan|107
-Lori|41.000|44.500|AM||106|r
 Long Khánh|10.927|107.248|VN|Dong Nai|105
 Logone Oriental|8.250|16.420|TD||104|r
 Longfeng|46.532|125.104|CN|Heilongjiang|104
@@ -50,6 +50,7 @@ Lower Hutt|-41.217|174.917|NZ|Wellington Region|101
 Louga|15.619|-16.224|SN|Louga|101
 Lomas de Zamora|-34.757|-58.403|AR|Buenos Aires|101
 Lowell|42.633|-71.316|US|Massachusetts|101
+London Heathrow Airport|51.471|-0.456|GB|England|101|f
 Longjiang|47.336|123.196|CN|Heilongjiang|101
 Lo Prado|-33.444|-70.726|CL|Santiago Metropolitan|100
 Los Puertos de Altagracia|10.715|-71.522|VE|Zulia|100
@@ -64,6 +65,7 @@ Lorena|-22.731|-45.125|BR|São Paulo|99
 Londonderry County Borough|54.997|-7.309|GB|Northern Ireland|99
 Louis Trichardt|-23.044|29.903|ZA|Limpopo|99
 Longnan|33.398|104.917|CN|Gansu|99
+Los Angeles International Airport|33.943|-118.409|US|California|99|f
 Los Reyes Acaquilpan|19.358|-98.977|MX|México|99
 Lodwar|3.120|35.596|KE|Turkana County|98
 Lopburi|15.121|100.888|TH||98|r
@@ -82,6 +84,7 @@ Lorain|41.453|-82.182|US|Ohio|96
 Logar|34.000|69.250|AF||96|r
 Los Andes|-32.834|-70.598|CL|Valparaiso|96
 Lofa County|8.033|-9.850|LR||96|r
+London Bridge|51.508|-0.088|GB|England|96|f
 Łomża|53.178|22.059|PL|Podlasie|96
 Longfeng|30.388|109.507|CN|Hubei|96
 Long Mỹ|9.681|105.572|VN|Can Tho City|96
@@ -91,11 +94,8 @@ Longgang|37.652|120.331|CN|Shandong|96
 Lobaye|4.167|17.667|CF||96|r
 Longgu|34.903|116.807|CN|Jiangsu|95
 Los Patios|7.838|-72.504|CO|Norte de Santander Department|95
+London Gatwick Airport|51.156|-0.178|GB|England|95|f
 Lonavla|18.753|73.406|IN|Maharashtra|95
 Loum|4.718|9.735|CM|Littoral|95
 Los Dos Caminos|10.494|-66.829|VE|Miranda|95
-Lorient|47.748|-3.372|FR|Brittany|95
-Longtan|28.757|108.964|CN|Chongqing|95
-Lop Buri|14.798|100.654|TH|Lopburi|95
-Lohārdagā|23.433|84.680|IN|Jharkhand|95
 Lo|50.980|2.750|BE|Flanders|61

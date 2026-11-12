@@ -1,4 +1,4 @@
-Hradec Králové Region|50.417|15.917|CZ||112|r
+Hradec Králové Region|50.417|15.917|CZ||113|r
 Hrodna|53.676|23.829|BY|Grodnenskaya|111
 Hradec Králové|50.209|15.833|CZ|Hradec Králové Region|99
 Hruzkyi|48.065|37.936|UA|Donetsk|94
@@ -9,11 +9,13 @@ Hrebinka|50.120|32.430|UA|Poltava|80
 Hresivskyi|45.008|34.027|UA|Crimea|80
 Hryhoriopol|47.154|29.300|MD|Transnistria|80
 Hrushovo|48.007|23.774|UA|Zakarpattia|79
+Hrodna Airport|53.602|24.050|BY|Grodnenskaya|78|f
 Hrádek nad Nisou|50.853|14.845|CZ|Liberec Region|78
 Hrajel|34.017|35.792|LB|Mount Lebanon|78
 Hriňová|48.578|19.526|SK|Banská Bystrica Region|77
 Hronov|50.480|16.182|CZ|Hradec Králové Region|76
 Hradyzk|49.239|33.139|UA|Poltava|76
+Hrubý Jeseník|50.083|17.167|CZ|Olomouc Region|75|f
 Hrastnik|46.147|15.085|SI|Municipality of Hrastnik|75
 Hradec nad Moravicí|49.870|17.878|CZ|Moravian-Silesian Region|75
 Hradenytsi|46.597|30.002|UA|Odesa|73
@@ -44,6 +46,7 @@ Hromivka|46.312|34.096|UA|Kherson|66
 Hrubna|48.456|27.073|UA|Chernivtsi|66
 Hrádek|49.617|18.737|CZ|Moravian-Silesian Region|66
 Hrochův Týnec|49.959|15.911|CZ|Pardubice Region|66
+Hrútafjörður|65.323|-21.133|IS|Westfjords|65|f
 Hrudky|51.683|24.941|UA|Volyn|65
 Hryhorivka|46.290|33.734|UA|Kherson|65
 Hrubá Borša|48.181|17.483|SK|Bratislava Region|65
@@ -54,6 +57,7 @@ Hrušky|48.793|16.974|CZ|South Moravian|64
 Hradec nad Svitavou|49.711|16.481|CZ|Pardubice Region|64
 Hrdějovice|49.019|14.479|CZ|South Bohemian Region|64
 Hrvace|43.763|16.615|HR|Split-Dalmatia|63
+Hradčany Airport|50.619|14.733|CZ|Liberec Region|63|f
 Hrvatska Kostajnica|45.232|16.539|HR|Sisak-Moslavina|63
 Hrochoť|48.656|19.313|SK|Banská Bystrica Region|63
 Hreyhove|47.114|32.300|UA|Mykolaiv|63
@@ -76,13 +80,67 @@ Hromy|48.664|30.186|UA|Cherkasy|61
 Hroznová Lhota|48.908|17.417|CZ|South Moravian|61
 Hrushivka|48.025|30.935|UA|Mykolaiv|61
 Hrubý Šúr|48.170|17.421|SK|Bratislava Region|61
+Hrušica|45.849|14.177|SI|Municipality of Postojna|61|f
 Hrastje|46.217|14.400|SI|Municipality of Šenčur|60
 Hrebenyky|46.890|29.809|UA|Odesa|60
 Hrechane|48.737|34.507|UA|Dnipropetrovsk|60
+Hrabove|48.147|38.649|UA|Donetsk|60
+Hradčovice|49.050|17.582|CZ|Zlín|60
+Hrushuvatka|48.361|33.779|UA|Dnipropetrovsk|60
+Hryhorivka|48.963|32.976|UA|Kirovohrad|60
+Hryhorivka|48.546|32.981|UA|Kirovohrad|60
+Hrabětice|48.798|16.393|CZ|South Moravian|59
+Hrádek|48.773|16.268|CZ|South Moravian|59
+Hrubčice|49.450|17.193|CZ|Olomouc Region|59
+Hrastina Samoborska|45.807|15.743|HR|Zagreb County|59
+Hrobčice|50.517|13.786|CZ|Ústí nad Labem Region|59
+Hrabišín|49.914|17.036|CZ|Olomouc Region|59
+Hrad Zvíkov|49.439|14.192|CZ|South Bohemian Region|58|f
+Hrazdan Stadium|40.180|44.495|AM|Yerevan|58|f
 Hrpelje|45.607|13.943|SI|Municipality of Hrpelje–Kozina|58
+Hrženica|46.299|16.574|HR|Varaždin|58
 Hrvatska Dubica|45.191|16.800|HR|Sisak-Moslavina|58
+Hradec|48.763|18.685|SK|Trenčín Region|57
+Hrastelnica|45.502|16.418|HR|Sisak-Moslavina|57
+Hrušky|49.129|16.833|CZ|South Moravian|57
+Hrynky|49.455|33.028|UA|Poltava|57
+Hradište pod Vrátnom|48.627|17.488|SK|Trnava Region|57
+Hrastovsko|46.249|16.584|HR|Varaždin|57
+Hriakove|49.624|35.388|UA|Poltava|57
+Hronsek|48.652|19.157|SK|Banská Bystrica Region|57
 Hrechani Pody|47.785|33.462|UA|Dnipropetrovsk|56
+Hrabarivka|50.381|32.346|UA|Poltava|56
+Hryhoro-Bryhadyrivka|48.967|33.893|UA|Poltava|56
+Hradiště|50.255|13.198|CZ|Carlsbad Region|56
+Hruzko-Lomivka|47.905|38.109|UA|Donetsk|56
+Hrip|47.721|22.985|RO|Satu Mare County|56
+Hrabskě|49.340|21.073|SK|Prešov Region|56
+Hrubá Vrbka|48.872|17.477|CZ|South Moravian|56
+Hrebeniv|48.963|23.482|UA|Lviv|56
+Hřivice|50.288|13.730|CZ|Ústí nad Labem Region|55
+Hradešín|50.039|14.757|CZ|Central Bohemia|55
+Hraddia|51.175|25.565|UA|Volyn|55
+Hrabske|47.902|38.156|UA|Donetsk|55
+Hřivínův Újezd|49.124|17.692|CZ|Zlín|55
+Hrastje|46.532|15.574|SI|Urban Municipality of Maribor|55
+Hředle|50.188|13.749|CZ|Central Bohemia|55
+Hrybivtsi|48.539|22.694|UA|Zakarpattia|55
+Hradivka|47.391|31.079|UA|Mykolaiv|55
+Hruboňovo|48.443|18.026|SK|Nitra Region|55
+Hrdlořezy|50.451|14.875|CZ|Central Bohemia|55
+Hrubá Skála|50.546|15.209|CZ|Liberec Region|54
+Hreðavatn|64.757|-21.588|IS|West|54|f
+Hrómundartindur|64.077|-21.200|IS|South|54|f
+Hrabová|49.845|16.954|CZ|Olomouc Region|54
+Hrobce|50.462|14.231|CZ|Ústí nad Labem Region|54
+Hrastovec v Slovenskih Goricah|46.565|15.789|SI|Municipality of Lenart|54
+Hrabovec|49.272|21.379|SK|Prešov Region|54
+Hrabovec nad Laborcom|49.097|21.938|SK|Prešov Region|54
+Hrebenne|50.873|24.014|PL|Lublin|54
+Hrubý Jeseník|50.251|15.094|CZ|Central Bohemia|54
 Hrib-Loški Potok|45.707|14.617|SI|Municipality of Loški Potok|51
+Hrad Střekov|50.639|14.051|CZ|Ústí nad Labem Region|40|f
+Hraunfossar|64.703|-20.977|IS|West|40|f
 Hrašćina|46.111|16.227|HR|Krapina-Zagorje|38
 Hrebinky|49.953|30.179|UA|Kyiv Oblast|0
 Hreša|43.878|18.497|BA|Srpska|0

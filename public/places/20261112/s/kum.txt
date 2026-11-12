@@ -14,6 +14,7 @@ Kumta|14.429|74.419|IN|Karnataka|91
 Kumo|10.048|11.211|NG|Gombe State|91
 Kumru|40.874|37.264|TR|Ordu|90
 Kumbalam|9.906|76.311|IN|Kerala|89
+Kumamoto Airport|32.837|130.855|JP|Kumamoto|89|f
 Kumārapuram|9.271|76.433|IN|Kerala|89
 Kūmher|27.317|77.371|IN|Rajasthan|87
 Kumano|34.333|132.570|JP|Hiroshima|87
@@ -24,9 +25,11 @@ Kumagunnam|13.155|10.635|NG|Yobe State|84
 Kumano|33.904|136.122|JP|Mie|84
 Kumārapālaiyam|11.502|77.256|IN|Tamil Nadu|84
 Kumārapuram|8.292|77.321|IN|Tamil Nadu|83
+Kumasi Airport|6.715|-1.591|GH|Ashanti|83|f
 Kumagawa|35.444|135.901|JP|Fukui|83
 Kumaralingam|10.489|77.350|IN|Tamil Nadu|83
 Kumaragiri|8.745|78.052|IN|Tamil Nadu|83
+Kumejima Airport|26.364|126.714|JP|Okinawa|82|f
 Kumarghat|24.160|92.033|IN|Tripura|82
 Kumburgaz|41.030|28.454|TR|Istanbul|82
 Kümmersbruck|49.419|11.888|DE|Bavaria|80
@@ -40,6 +43,8 @@ Kumaranellūr|10.670|76.248|IN|Kerala|78
 Kuma|33.657|132.902|JP|Ehime|77
 Kumejima|26.341|126.805|JP|Okinawa|77
 Kumārpur|24.681|87.841|IN|Jharkhand|77
+Kume Jima|26.352|126.772|JP|Okinawa|77|f
+Kumi Island|24.455|122.991|JP|Okinawa|77|f
 Kumalarang|7.748|123.144|PH|Zamboanga Peninsula|77
 Kumakwane|-24.655|25.699|BW|Kweneng|77
 Kumbhkot|24.618|76.001|IN|Rajasthan|76
@@ -54,32 +59,71 @@ Kumane|45.539|20.229|RS|Vojvodina|73
 Kumysh|43.883|41.893|RU|Karachayevo-Cherkesiya Republic|73
 Kumköy|41.245|29.040|TR|Istanbul|72
 Kummelnäs|59.350|18.283|SE|Stockholm|71
+Kumargāh|36.622|67.383|AF|Balkh|70|f
+Kumari|58.761|23.344|EE|Lääne|70|f
 Kuminskiy|58.667|66.567|RU|Khanty-Mansia|69
 Kumalisquis|10.507|123.203|PH|Western Visayas|69
 Kumtich|50.821|4.887|BE|Flanders|69
 Kumukh|42.170|47.116|RU|Dagestan|68
 Kumluca|41.447|32.468|TR|Bartın|68
+Kumbli|59.576|24.795|EE|Harjumaa|67|f
+Kumundhoo|6.573|73.050|MV||67|f
+Kŭmwŏn-san|35.731|127.761|KR|Gyeongsangnam-do|67|f
 Kumbağ|40.882|27.459|TR|Tekirdağ|66
 Kummerfeld|53.693|9.791|DE|Schleswig-Holstein|66
 Kumbija|13.267|-14.183|GM|Upper River|65
 Kumberg|47.164|15.533|AT|Styria|65
 Kumluca|39.595|43.439|TR|Ağrı|64
+Kumagaya Rugby Ground|36.169|139.402|JP|Saitama|63|f
+Kŭmdae-bong|37.212|128.916|KR|Gangwon-do|63|f
 Kümbetli|40.541|43.003|TR|Kars Province|62
 Kumlu|37.172|40.736|TR|Mardin|62
 Kumari|47.936|30.669|UA|Mykolaiv|61
 Kumdanlı|38.324|30.976|TR|Isparta|61
+Kumamoto castle|32.806|130.706|JP|Kumamoto|61|f
+Kumarikkali Malai|10.283|77.116|IN|Kerala|61|f
+Kŭmmul-san|37.554|127.849|KR|Gangwon-do|61|f
+Kŭmsan-sa|35.723|127.054|KR|Jeollabuk-do|61|f
+Kŭmsŏn-sa|37.620|126.953|KR|Seoul|61|f
+Kumundhoo|6.572|73.050|MV|Haa Dhaalu Atholhu|61|f
 Kumköy|36.883|30.952|TR|Antalya|61
 Kumy|49.344|35.254|UA|Poltava|60
 Kumkale|39.981|26.237|TR|Canakkale|60
+Kumovo|45.838|33.619|UA|Crimea|59
+Kumamachi|37.385|141.011|JP|Fukushima|59
+Kumdere|40.867|26.367|TR|Edirne|58
+Kumano Kai|33.902|136.387|JP||58|f
+Kumboola Island|-17.955|146.142|AU|Queensland|58|f
+Kumkadı|40.155|28.464|TR|Bursa Province|58
+Kummerow|53.768|12.834|DE|Mecklenburg-Vorpommern|57
+Kumgölü|38.234|41.121|TR|Diyarbakır Province|56
+Kuma Village|3.173|172.960|KI|Gilbert Islands|56
+Kumla|36.951|37.991|TR|Gaziantep|56
+Kumbijae|13.533|-15.433|GM|North Bank|56
+Kumari|47.913|30.653|UA|Mykolaiv|55
+Kummer|53.329|11.385|DE|Mecklenburg-Vorpommern|55
+Kumral|41.261|35.136|TR|Samsun|55
+Kum|46.100|15.083|SI|Municipality of Trbovlje|54|f
+Kūmbhalgarh|25.149|73.582|IN|Rajasthan|54|f
+Kümbdchen|49.983|7.517|DE|Rheinland-Pfalz|54
 Kumlinge|60.260|20.779|AX|Ålands skärgård|52
+KUMA-FM|45.588|-118.997|US|Oregon|49|f
+Kumadi Forest Park|13.500|-16.205|GM|North Bank|49|f
+Kumiva Peak|40.406|-119.264|US|Nevada|49|f
+Kumotori-yama|35.850|138.950|JP|Tokyo|49|f
 Kumrovec|46.078|15.676|HR|Krapina-Zagorje|48
+Kumlah Island|50.740|-126.162|CA|British Columbia|40|f
+KUMU-FM (Honolulu)|21.286|-157.839|US|Hawaii|40|f
 Kuma|3.573|125.574|ID|North Sulawesi|0
 Kumai|-2.740|111.726|ID|Central Kalimantan|0
 Kuman|40.727|19.687|AL|Fier County|0
 Kumanis|-0.550|100.831|ID|West Sumatra|0
+Kumbe|-8.485|118.770|ID|West Nusa Tenggara|0
 Kumbotso|11.890|8.503|NG|Kano State|0
+Kumendung Satu|-8.383|114.333|ID|East Java|0
 Kumlu|36.364|36.455|TR|Hatay|0
 Kumluca|36.370|30.287|TR|Antalya|0
 Kumopa|-3.822|136.509|ID|Central Papua|0
+Kumpai|-6.476|106.013|ID|Banten|0
 Kumphawapi|17.109|103.015|TH|Udon Thani|0
 Kumurkek|-1.257|132.500|ID|Southwest Papua|0

@@ -20,6 +20,7 @@ Namhkam|23.833|97.680|MM|Shan State|90
 Namegata|36.007|140.496|JP|Ibaraki|90
 Năm Căn|8.759|104.993|VN|Ca Mau|90
 Namapa-erati|-13.713|39.832|MZ|Nampula|88
+Namtso|30.700|90.550|CN|Tibet|88|f
 Namsa|35.933|127.050|KR|Jeollabuk-do|87
 Namacurra|-17.492|37.029|MZ|Zambezia Province|87
 Namutumba|0.836|33.686|UG|Eastern Region|87
@@ -36,6 +37,7 @@ Nāmrup|27.194|95.319|IN|Assam|85
 Namminikara|10.432|76.254|IN|Kerala|85
 Namavundu|0.364|33.818|UG|Eastern Region|85
 Nambingué|10.050|-5.338|CI|Savanes District|84
+Namangan Airport|40.985|71.557|UZ|Namangan|84|f
 Namponkoré|11.737|1.777|BF|Est|84
 Nampundwe|-15.508|27.924|ZM|Central Province|84
 Nambiyūr|11.358|77.321|IN|Tamil Nadu|84
@@ -47,17 +49,21 @@ Namakgale|-23.934|31.031|ZA|Limpopo|83
 Namsai|27.669|95.864|IN|Arunachal Pradesh|83
 Namīn|38.427|48.484|IR|Ardabil Province|83
 Namtu|23.077|97.403|MM|Shan State|82
+Nami Island|37.791|127.525|KR|Gangwon-do|82|f
 Namchi|27.165|88.364|IN|Sikkim|82
 Namikupa|-10.833|39.600|TZ|Mtwara|81
 Nambour|-26.626|152.959|AU|Queensland|81
 Namalenga|-10.950|39.100|TZ|Mtwara|81
+Namonuito Atoll|8.725|150.000|FM|Chuuk|80|f
 Namli|23.461|75.060|IN|Madhya Pradesh|80
+Namhansanseong|37.470|127.188|KR|Gyeonggi-do|79|f
 Namsos|64.466|11.496|NO|Trøndelag|78
 Namane|6.422|-6.682|CI|Sassandra-Marahoue|78
 Namtsy|62.724|129.666|RU|Sakha|78
 Nambutalai|9.728|79.007|IN|Tamil Nadu|78
 Namayan|14.578|121.023|PH|National Capital Region|78
 Namborn|49.522|7.141|DE|Saarland|78
+Namu Lagoon|8.000|168.161|MH|Namu Atoll|78|f
 Nambézaria|5.650|-5.750|CI|Goh-Djiboua|78
 Na Mom|6.959|100.557|TH|Songkhla|78
 Námestovo|49.408|19.480|SK|Žilina Region|78
@@ -68,35 +74,80 @@ Nam Shan Estate|22.335|114.172|HK|Sham Shui Po District|76
 Nambucca|-30.633|152.983|AU|New South Wales|76
 Nampicuan|15.731|120.625|PH|Central Luzon|76
 Náměšť nad Oslavou|49.207|16.158|CZ|Vysocina|74
+Nambung National Park|-30.599|115.165|AU|Western Australia|73|f
+Nampa Municipal Airport|43.581|-116.523|US|Idaho|73|f
 Nam Cheong Estate|22.326|114.157|HK|Sham Shui Po District|73
 Na Mèo|20.292|104.647|VN|Thanh Hóa Province|72
 Nằm Vi|22.217|102.517|VN|Điện Biên Province|72
+Nambyŏng-san|37.428|128.453|KR|Gangwon-do|72|f
 Nambare|0.458|34.254|KE|Busia County|72
+Nammijärvi|69.130|28.695|FI|Lapland|71|f
 Namuac|18.611|121.166|PH|Cagayan Valley|70
 Nāmīleh|34.273|48.821|IR|Hamadan Province|70
 Nambroca|39.798|-3.944|ES|Castille-La Mancha|69
 Namassi|7.947|-3.443|CI|Zanzan District|69
+Namcha Barwa|29.631|95.055|CN|Tibet|69|f
+Namutoni Airport|-18.806|16.927|NA|Oshikoto Region|69|f
+Namyit Island|10.183|114.367|VN||69|f
 Nămoloasa-Sat|45.540|27.578|RO|Galați County|68
 Nama|16.141|120.543|PH|Ilocos|67
 Namboongan|16.303|120.376|PH|Ilocos|67
 Namche Bazaar|27.805|86.711|NP|Koshi|67
 Nambalan|15.599|120.460|PH|Central Luzon|67
+Namdae-bong|37.308|128.052|KR|Gangwon-do|67|f
+Namioka Dam|40.719|140.675|JP|Aomori|67|f
 Náměšť na Hané|49.602|17.065|CZ|Olomouc Region|67
+Nam Fung Chau|22.342|114.352|HK||65|f
+Nam Tau Sha|22.323|114.273|HK||65|f
+Nam Wan|22.226|114.196|HK||65|f
+Nambucca Heads Airport|-30.650|153.000|AU|New South Wales|65|f
+Namuka|-16.833|168.367|VU|Shefa|65|f
+Namur-Suarlée Airfield|50.488|4.769|BE|Wallonia|65|f
 Nambe|35.893|-105.983|US|New Mexico|65
 Namasigüe|13.205|-87.139|HN|Choluteca Department|65
 Namiquipa|29.251|-107.413|MX|Chihuahua|65
 Namahounondougou|8.127|-4.133|CI|Vallée du Bandama District|64
 Namatanai|-3.664|152.441|PG|New Ireland|64
+Namibia Wildlife Resort Duwisib Castle|-25.257|16.541|NA|Hardap Region|63|f
 Namrūr|38.295|46.932|IR|East Azerbaijan|63
 Nambira|10.130|-5.903|CI|Savanes District|62
 Namêche|50.472|4.998|BE|Wallonia|62
 Nămoloasa|45.536|27.552|RO|Galați County|62
+Namsenfjorden|64.575|11.093|NO|Trøndelag|61|f
+Namsvatnet|64.999|13.742|NO|Trøndelag|61|f
 Namasélékaha|8.885|-5.750|CI|Savanes District|60
+Namayondougou|8.103|-4.117|CI|Vallée du Bandama District|60
 Namdrik|5.599|168.103|MH|Namdrik Atoll|58
 Namdrik Atoll|5.600|168.117|MH||58|r
+Nămăești|45.305|25.113|RO|Arges|58
+Namamsan|35.513|129.218|KR|Ulsan|58|f
+Namatanai Airport|-3.670|152.438|PG|New Ireland|58|f
+Nameless Island|56.786|-135.459|US|Alaska|58|f
+Namgunjasan|36.716|127.887|KR|North Chungcheong|58|f
+Namhan-san|37.486|127.176|KR|Gyeonggi-do|58|f
+Namibe Airport|-15.261|12.147|AO|Namibe|58|f
+Namrole, Buru|-3.821|126.718|ID|Maluku|58|f
+Namu’a Island|-14.022|-171.416|WS||58|f
+Namunakuli|6.933|81.114|LK|Uva Province|58|f
+Namak Chal|36.833|53.367|IR|Māzandarān|57
+Nām Kūl|33.383|47.209|IR|Lorestan Province|56
+Namur|45.900|-74.933|CA|Quebec|56
+Nam Ngum Dam|18.529|102.550|LA|Vientiane|54|f
+Namaries|1.981|36.437|KE|Turkana County|54|f
+Namekagon Lake|46.206|-91.064|US|Wisconsin|54|f
+Nampula Airport|-15.106|39.292|MZ|Nampula|54|f
+Namsos Lufthavn|64.467|11.583|NO|Trøndelag|54|f
+Nameless Glacier|-71.633|170.300|AQ||49|f
+NamibRand Nature Reserve|-25.000|16.000|NA||49|f
+Namli Maira Reserved Forest|34.113|73.397|PK|Khyber Pakhtunkhwa|49|f
+Nammal Lake|32.691|71.803|PK|Punjab|49|f
+Nam Et-Phou Louey|20.000|103.300|LA|Houaphan|40|f
+Nameless Lake|46.254|-81.623|CA|Ontario|40|f
+Namu Range|51.850|-127.787|CA|British Columbia|40|f
 Namlos|47.350|10.667|AT|Tyrol|33
 Na Mon|16.577|103.787|TH|Kalasin|0
 Na Muen|18.189|100.660|TH|Nan|0
+Nam|29.468|90.930|CN|Tibet|0
 Nam Đàn|18.728|105.498|VN|Nghệ An Province|0
 Nam Giang|20.333|106.178|VN|Ninh Binh|0
 Nam Khun|14.584|104.925|TH|Ubon Ratchathani|0
@@ -106,15 +157,21 @@ Nam Pat|17.728|100.684|TH|Uttaradit|0
 Nam Phong|16.702|102.856|TH|Khon Kaen|0
 Nam Sách|20.992|106.336|VN|Hai Phong|0
 Namacunde|-17.306|15.845|AO|Cunene|0
+Namaqie|31.534|91.417|CN|Tibet|0
 Namayingo|0.240|33.885|UG|Eastern Region|0
 Nambacola|-4.141|-79.431|EC|Loja|0
+Nambak Tengah|-8.009|111.446|ID|East Java|0
 Namballe|-5.004|-79.089|PE|Cajamarca Department|0
+Nambo|-6.492|105.951|ID|Banten|0
 Namir|49.106|91.718|MN|Uvs Province|0
 Namling|29.685|89.096|CN|Tibet|0
 Nammyeon|34.772|127.887|KR|Gyeongsangnam-do|0
 Nammyeon|35.008|127.096|KR|Jeollanam-do|0
 Namoluk|5.924|153.152|FM|Chuuk|0
 Namora|-7.202|-78.325|PE|Cajamarca Department|0
+Namosain|-10.173|123.558|ID|East Nusa Tenggara|0
+Nampera|-7.158|113.555|ID|East Java|0
+Namsai|32.786|95.615|CN|Qinghai|0
 Namsan|42.228|129.254|KP|North Hamgyong|0
 Namsskogan|64.929|13.160|NO|Trøndelag|0
 Namu Atoll|8.000|168.167|MH||0|r

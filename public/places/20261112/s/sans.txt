@@ -5,12 +5,14 @@ Sanshui|23.155|112.892|CN|Guangdong|104
 San Sebastián de los Reyes|40.556|-3.627|ES|Madrid|98
 San Salvador Tizatlalli|19.260|-99.591|MX|México|96
 San Severo|41.686|15.381|IT|Apulia|94
+San Sebastián Airport|43.357|-1.791|ES|Basque Country|91|f
 San Salvario|45.053|7.680|IT|Piedmont|91
 San Sebastián de Mariquita|5.199|-74.893|CO|Tolima Department|90
 San Sebastián|14.562|-91.649|GT|Retalhuleu|89
 San Simon|15.000|120.781|PH|Central Luzon|89
 San Sebastián el Grande|20.533|-103.429|MX|Jalisco|89
 San Sebastiano|45.652|10.257|IT|Lombardy|87
+Sanssouci|52.404|13.039|DE|Brandenburg|87|f
 Sansheng|29.893|106.626|CN|Chongqing|86
 San Salvador El Seco|19.133|-97.642|MX|Puebla|85
 San Salvador Atenco|19.552|-98.919|MX|México|85
@@ -26,8 +28,10 @@ San Sebastián|14.250|-88.500|HN|Lempira Department|81
 Sans Souci|-33.990|151.133|AU|New South Wales|80
 San Sebastiano al Vesuvio|40.843|14.364|IT|Campania|79
 San Sebastián de la Gomera|28.092|-17.113|ES|Canary Islands|79
+San Salvador Airport|24.063|-74.524|BS|San Salvador|79|f
 San Severino Marche|43.230|13.180|IT|The Marches|79
 Sans Souci|34.878|-82.424|US|South Carolina|78
+San Salvador Island|24.046|-74.491|BS|San Salvador|78|f
 San Sebastián|13.733|-88.833|SV|San Vicente Department|77
 San Sperate|39.358|9.008|IT|Sardinia|77
 San Stino di Livenza|45.726|12.690|IT|Veneto|77
@@ -59,6 +63,7 @@ San Salvador el Verde|19.270|-98.516|MX|Puebla|69
 San Simón el Alto|18.995|-99.504|MX|México|68
 San Salvador (Naranjillo)|19.831|-97.315|MX|Puebla|67
 San Sebastián Teteles|19.032|-97.790|MX|Puebla|67
+San Servolo|45.419|12.357|IT|Veneto|67|f
 San Salvatore Telesino|41.235|14.498|IT|Campania|67
 San Sebastián|19.572|-102.481|MX|Michoacán|67
 San Sebastián Tenochtitlán|20.280|-99.688|MX|Hidalgo|67
@@ -78,6 +83,7 @@ San Siro|46.066|9.269|IT|Lombardy|65
 San Sebastián del Monte|17.678|-98.022|MX|Oaxaca|64
 San Sebastián|14.246|-87.640|HN|Comayagua Department|63
 San Sebastián Abasolo|16.994|-96.587|MX|Oaxaca|63
+Sanseongsan|35.810|128.591|KR|Daegu|63|f
 San Secondo di Pinerolo|44.866|7.298|IT|Piedmont|63
 Sansha|16.839|112.341|CN|Hainan|63
 San Salvador Torrecillas|20.559|-100.958|MX|Guanajuato|63
@@ -94,19 +100,49 @@ Sansac-de-Marmiesse|44.884|2.348|FR|Auvergne-Rhône-Alpes|61
 San Salvador|20.285|-99.015|MX|Hidalgo|61
 San Simón de Guerrero|19.023|-100.008|MX|México|60
 San Sebastián Río Hondo|16.184|-96.465|MX|Oaxaca|60
+San Simón|18.747|-100.175|MX|México|60
+San Savino|43.939|12.596|IT|Emilia-Romagna|60
 San Sossio Baronia|41.071|15.201|IT|Campania|59
 San Sebastián|1.839|-76.772|CO|Cauca Department|59
+San Sebastián de las Grutas|16.632|-96.957|MX|Oaxaca|59
 San Sebastián de los Ballesteros|37.654|-4.824|ES|Andalusia|59
+San Sebastián el Grande|19.296|-100.056|MX|México|59
 San Salvador|24.037|-74.493|BS||58|r
 San Sebastián Coatán|15.736|-91.563|GT|Huehuetenango|58
+Sans Bois Mountains|35.018|-95.210|US|Oklahoma|58|f
+Sanssouci Park|52.400|13.035|DE|Brandenburg|58|f
+San Sebastián|18.981|-99.482|MX|México|58
+San Sabino|43.474|13.512|IT|The Marches|58
+San Salvatore|43.852|10.685|IT|Tuscany|58
+San Simón Coatepec|18.915|-97.889|MX|Puebla|58
+San Silvestro|42.867|13.729|IT|The Marches|57
+San Sebastián|18.727|-96.940|MX|Veracruz|57
 San Severino Lucano|40.020|16.139|IT|Basilicate|57
+San Savino|43.108|12.193|IT|Umbria|57
+Sansarak|40.489|29.829|TR|Bursa Province|57
 San Salvatore di Fitalia|38.068|14.778|IT|Sicily|57
+Sansais|46.275|-0.587|FR|New Aquitaine|57
 San Sebastián del Oeste|20.762|-104.853|MX|Jalisco|57
+Sanson|-40.220|175.424|NZ|Manawatu-Wanganui|56
 San Silvestre de Guzmán|37.388|-7.349|ES|Andalusia|56
+San Sostene Marina|38.650|16.553|IT|Calabria|56
+San Sebastián Número Dos|25.674|-108.398|MX|Sinaloa|56
+San Silverio|20.360|-88.037|MX|Quintana Roo|55
+San Sigismondo|46.812|11.803|IT|Trentino-Alto Adige|55
+San Sebastián Progreso|17.812|-97.691|MX|Oaxaca|55
 San Sebastiano da Po|45.168|7.957|IT|Piedmont|55
+San Sebastián el Chico|19.268|-100.021|MX|México|55
+San Sebastián de Juárez|20.170|-99.535|MX|Hidalgo|55
+San Simón|20.989|-104.010|MX|Jalisco|54
+Sansom Islands|-69.709|73.747|AQ||54|f
+San Salvador|16.972|-91.877|MX|Chiapas|54
 San Sostene|38.637|16.488|IT|Calabria|53
 San Sebastiano Curone|44.786|9.064|IT|Piedmont|53
 San Salvador de Quije|-13.968|-73.735|PE|Ayacucho|51
+San Salvador de la Punta Fortress|23.146|-82.358|CU|Havana|49|f
+San Salvatore|45.977|8.947|CH|Ticino|49|f
+San Secondo|45.451|12.308|IT|Veneto|40|f
+San Stefano Peak|-62.628|-61.226|AQ||40|f
 San Sadurniño|43.533|-8.067|ES|Galicia|0
 San Sai|18.848|99.045|TH|Chiang Mai|0
 San Salvador|41.621|-5.087|ES|Castille and León|0
@@ -122,5 +158,13 @@ San Silvestre de Cochán|-6.978|-78.774|PE|Cajamarca Department|0
 San Simón|-1.641|-78.990|EC|Bolívar|0
 Sansando|11.083|-9.200|GN|Kankan Region|0
 Sanseo|35.584|127.397|KR|Jeollabuk-do|0
+Sansha|26.924|120.209|CN|Fujian|0
 Sanshan|31.223|118.224|CN|Anhui|0
+Sanshan|25.535|119.517|CN|Fujian|0
+Sanshan|27.842|115.988|CN|Jiangxi|0
+Sanshandao|37.405|119.953|CN|Shandong|0
+Sansheng|29.807|111.248|CN|Hunan|0
+Sanshengyuan|38.284|114.430|CN|Hebei|0
+Sanshilipu|36.098|107.778|CN|Gansu|0
+Sanshui|25.102|112.232|CN|Guangdong|0
 Sansol|42.554|-2.267|ES|Navarre|0

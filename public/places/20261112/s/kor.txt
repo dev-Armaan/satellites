@@ -21,10 +21,12 @@ Koryazhma|61.312|47.148|RU|Arkhangelskaya|93
 Korenovsk|45.467|39.449|RU|Krasnodar Krai|92
 Korkino|54.892|61.392|RU|Chelyabinsk|92
 Kord Kūy|36.793|54.112|IR|Golestan|92
+Koryak Mountains|62.500|172.000|RU||91|f
 Korem|12.506|39.523|ET|Tigray|91
 Korsakov|46.634|142.783|RU|Sakhalin Oblast|91
 Kornwestheim|48.862|9.186|DE|Baden-Wurttemberg|91
 Korschenbroich|51.191|6.514|DE|North Rhine-Westphalia|90
+Koro Sea|-18.000|180.000|FJ||90|f
 Kórinthos|37.940|22.951|GR|Peloponnese|90
 Koregaon|18.646|74.059|IN|Maharashtra|88
 Koro|14.064|-3.075|ML|Mopti|88
@@ -55,25 +57,32 @@ Koror Town|7.343|134.479|PW|Koror|82
 Korvel|51.550|5.071|NL|North Brabant|82
 Körmend|47.011|16.606|HU|Vas County|82
 Kortemark|51.030|3.041|BE|Flanders|82
+Korean War Veterans Memorial|38.888|-77.048|US|District of Columbia|81|f
 Koronowo|53.314|17.937|PL|Kujawsko-Pomorskie|81
 Korokaha|9.901|-5.628|CI|Savanes District|81
 Korb|48.843|9.363|DE|Baden-Wurttemberg|80
 Korolevo|48.157|23.138|UA|Zakarpattia|80
 Kormilovka|55.003|74.103|RU|Omsk Oblast|80
 Korday|43.039|74.713|KZ|Zhambyl|80
+Korhogo Airport|9.387|-5.557|CI|Savanes District|80|f
+Korzhin Island|46.583|75.917|KZ||80|f
+Korovin Volcano|52.382|-174.166|US|Alaska|79|f
 Korukollu|16.500|81.250|IN|Andhra Pradesh|79
+Korovin Island|55.432|-160.253|US|Alaska|78|f
 Korkut|38.734|41.784|TR|Muş|78
 Kortessem|50.859|5.390|BE|Flanders|78
 Korgun|40.735|33.518|TR|Çankırı|78
 Kortenaken|50.909|5.060|BE|Flanders|77
 Korso|60.351|25.078|FI|Uusimaa|77
 Kórnik|52.248|17.089|PL|Greater Poland|77
+Koror Island|7.339|134.479|PW|Koror|77|f
 Korotchaevo|65.910|78.209|RU|Yamalo-Nenets|77
 Korets|50.619|27.158|UA|Rivne Oblast|77
 Kortenhoef|52.239|5.107|NL|North Holland|76
 Koradacheri|10.770|79.492|IN|Tamil Nadu|76
 Koréguhé|6.189|-6.659|CI|Bas-Sassandra District|76
 Korkmaskala|43.025|47.290|RU|Dagestan|76
+Korea Strait|33.731|128.070|||76|f
 Kōra|35.204|136.261|JP|Shiga|76
 Korādi|21.248|79.106|IN|Maharashtra|76
 Korenevo|51.411|34.900|RU|Kursk Oblast|76
@@ -87,11 +96,14 @@ Koréagui|5.543|-6.602|CI|Bas-Sassandra District|75
 Korenëvo|55.672|38.008|RU|Moscow Oblast|75
 Korelichi|53.565|26.141|BY|Grodnenskaya|75
 Koreyiz|44.431|34.084|UA|Crimea|75
+Korf|60.382|166.024|RU|Kamchatka|74|f
+Korkeasaari|60.174|24.984|FI|Uusimaa|74|f
 Korop|51.567|32.952|UA|Chernihiv Oblast|74
 Korpilahti|62.017|25.550|FI|Central Finland|74
 Körösladány|46.967|21.083|HU|Bekes County|74
 Korangarapādi|13.310|74.761|IN|Karnataka|74
 Korotych|49.947|36.037|UA|Kharkiv|74
+Korean Bell of Friendship|33.710|-118.294|US|California|73|f
 Koribundu|7.710|-11.694|SL|Southern Province|73
 Korsze|54.170|21.139|PL|Warmia-Masuria|73
 Korokopla|7.882|-5.966|CI|Woroba|73
@@ -101,6 +113,7 @@ Kortkeros|61.813|51.577|RU|Komi|73
 Környe|47.547|18.321|HU|Komárom-Esztergom|73
 Koronadal|6.245|124.987|PH|Soccsksargen|73
 Korumburra|-38.432|145.824|AU|Victoria|73
+Korčula|42.949|16.918|HR|Dubrovnik-Neretva|72|f
 Koria|60.846|26.608|FI|Kymenlaakso|72
 Korzhevskiy|45.194|37.719|RU|Krasnodar Krai|72
 Kordān|35.931|50.831|IR|Alborz Province|72
@@ -110,6 +123,8 @@ Korbous|36.817|10.569|TN|Nabeul Governorate|71
 Koran|43.810|18.570|BA|Srpska|71
 Korampallam|8.775|78.092|IN|Tamil Nadu|70
 Koropets|48.932|25.178|UA|Ternopil|70
+Ko Rang|11.797|102.387|TH|Trat|70|f
+Kõrksaare Laid|58.332|23.796|EE|Pärnumaa|70|f
 Korsun|48.204|38.083|UA|Donetsk|70
 Koruköy|40.654|29.163|TR|Yalova|70
 Koréa|6.825|-6.648|CI|Sassandra-Marahoue|70
@@ -120,6 +135,7 @@ Korouna|35.116|-3.642|MA|Oriental|69
 Kordlar|37.959|45.989|IR|East Azerbaijan|69
 Köröstarcsa|46.883|21.033|HU|Bekes County|69
 Koryčany|49.106|17.164|CZ|Zlín|69
+Korazim|32.911|35.565|IL|Northern District|69|f
 Korora|-30.246|153.115|AU|New South Wales|69
 Korčula|42.960|17.135|HR|Dubrovnik-Neretva|68
 Koroumba|9.816|-7.106|CI|Denguélé District|68
@@ -172,6 +188,12 @@ Korbielów|49.568|19.350|PL|Silesia|62
 Koraće|45.067|17.935|BA|Srpska|61
 Korobivka|49.616|31.957|UA|Cherkasy|61
 Korniyivka|50.417|31.463|UA|Kyiv Oblast|61
+Koralpe|46.788|14.973|AT|Carinthia|61|f
+Koritnik|42.082|20.555|AL|Kukës County|61|f
+Kornat|43.823|15.307|HR|Šibenik-Knin|61|f
+Kornbühl|48.355|9.098|DE|Baden-Wurttemberg|61|f
+Köroğlu Dağları|40.517|31.883|TR|Bolu|61|f
+Korssjøen|62.433|11.541|NO|Trøndelag|61|f
 Kornidzor|39.548|46.530|AM|Syunik|61
 Korang|37.222|55.769|IR|Semnan|61
 Körperich|49.924|6.260|DE|Rheinland-Pfalz|61
@@ -180,17 +202,116 @@ Kortowo|53.757|20.456|PL|Warmia-Masuria|61
 Korobchyne|48.765|31.493|UA|Kirovohrad|60
 Korolëv Stan|53.986|27.798|BY|Minsk|60
 Kořenov|50.759|15.365|CZ|Liberec Region|60
+Korisós|40.505|21.377|GR|West Macedonia|60
+Körküler|38.396|31.048|TR|Isparta|60
+Kord-e Shūl|30.183|53.192|IR|Fars|60
+Korytná|48.941|17.665|CZ|Zlín|60
+Korczyna|49.712|21.251|PL|Lesser Poland|60
+Korman|48.565|27.168|UA|Chernivtsi|60
+Korondougou|9.321|-7.628|CI|Denguélé District|60
+Koronani|10.393|-5.632|CI|Savanes District|59
+Korniivka|47.079|34.617|UA|Zaporizhzhia|59
+Korkana|9.588|-5.011|CI|Savanes District|59
+Körchow|53.444|11.062|DE|Mecklenburg-Vorpommern|59
+Korotou|9.033|-6.573|CI|Woroba|59
 Korgen|66.077|13.822|NO|Nordland|59
+Korpo|60.164|21.562|FI|Southwest Finland|59
+Korito|41.806|21.027|MK|Gostivar|59
+Korobchicy|53.612|23.748|BY|Grodnenskaya|59
+Kora-Akissikro|7.491|-4.503|CI|Lacs District|59
+Kornatka|49.851|20.085|PL|Lesser Poland|59
+Korytnica|50.658|20.515|PL|Świętokrzyskie|59
+Korovai|50.156|32.347|UA|Poltava|59
+Korbeek-Dijle|50.838|4.638|BE|Flanders|58
+Kordī Kolā|36.638|51.480|IR|Māzandarān|58
+Kõrgelaid|58.754|23.095|EE|Hiiumaa|58|f
+Koro Island Airport|-17.346|179.422|FJ|Eastern|58|f
+Koroyanitu|-17.668|177.574|FJ|Western|58|f
+Koruyaka|38.144|31.224|TR|Isparta|58
+Korlingen|49.727|6.725|DE|Rheinland-Pfalz|58
+Kord-e Soflá|32.896|50.787|IR|Isfahan|58
+Kórnica|50.404|17.906|PL|Opole Voivodeship|58
+Koritna|45.384|18.566|HR|County of Osijek-Baranja|58
+Korte|45.491|13.671|SI|Municipality of Izola|58
 Korczew|52.353|22.613|PL|Mazovia|58
+Korytne|47.992|29.690|UA|Odesa|58
 Kornowac|50.072|18.328|PL|Silesia|57
+Korouhev|49.671|16.246|CZ|Pardubice Region|57
 Korytnica|52.414|21.849|PL|Mazovia|57
+Kord-e ‘Olyā|32.915|50.757|IR|Isfahan|57
+Korédidia|6.515|-6.599|CI|Sassandra-Marahoue|57
+Korsberga|57.302|15.125|SE|Jönköping|57
+Korakovoúni|37.350|22.747|GR|Peloponnese|57
+Korūzhadeh|36.697|57.450|IR|Razavi Khorasan|57
+Koroviy Yar|49.155|37.629|UA|Donetsk|57
+Korytnica|51.770|17.710|PL|Greater Poland|57
+Korlokaha|9.107|-5.252|CI|Vallée du Bandama District|57
+Kortaş|38.304|39.656|TR|Diyarbakır Province|56
+Korczowe|49.956|23.080|PL|Subcarpathia|56
+Korija|45.853|17.330|HR|Virovitica-Podravina|56
+Korogola|9.206|-4.820|CI|Savanes District|56
+Kördorf|50.287|7.921|DE|Rheinland-Pfalz|56
+Kōri|36.014|133.041|JP|Shimane|56
+Korteraar|52.173|4.732|NL|South Holland|56
+Korucu|38.590|39.518|TR|Elazığ|56
 Kõrveküla|58.424|26.782|EE|Tartu|55
+Körsu|37.006|40.299|TR|Mardin|55
+Kork-e ‘Olyā|29.156|58.489|IR|Kerman|55
+Kořenice|49.977|15.141|CZ|Central Bohemia|55
+Koriani|10.057|-7.742|CI|Denguélé District|55
+Korenita|44.755|18.948|BA|Srpska|55
+Korniivka|50.090|32.446|UA|Poltava|55
+Korokobango|7.666|-3.134|CI|Zanzan District|55
+Korpilombolo|66.852|23.055|SE|Norrbotten|55
+Korovi|45.070|17.766|BA|Srpska|55
+Korsunivka|50.248|33.499|UA|Poltava|55
+Korswandt|53.920|14.161|DE|Mecklenburg-Vorpommern|55
+Korycin|53.445|23.091|PL|Podlasie|54
+Korákou|35.041|32.887|CY|Nicosia|54
+Kōrakuen|34.668|133.936|JP|Okayama|54|f
+Korat Royal Thai Air Force Base|14.935|102.079|TH|Nakhon Ratchasima|54|f
+Koreshan State Historic Site|26.433|-81.815|US|Florida|54|f
+Korkeasaari|60.174|24.984|FI|Uusimaa|54|f
+Korkuteli Barajı|37.081|30.166|TR|Antalya|54|f
+Korla Airport|41.698|86.129|CN|Xinjiang|54|f
+Kornasoren Airfield|-0.936|134.872|ID|Papua|54|f
+Kornstadfjorden|62.954|7.445|NO|Møre og Romsdal|54|f
+Koro Island|-17.304|179.403|FJ|Eastern|54|f
+Korpijärvi|61.264|27.167|FI|South Savo|54|f
+Korvatunturi|68.075|29.327|FI||54|f
+Korvuanjärvi|65.367|28.633|FI|North Ostrobothnia|54|f
+Kortebo|57.817|14.150|SE|Jönköping|54
+Körbelitz|52.181|11.783|DE|Saxony-Anhalt|54
+Korbußen|50.890|12.172|DE|Thuringia|54
+Kornhorn|53.182|6.243|NL|Groningen|54
+Körborn|49.567|7.367|DE|Rheinland-Pfalz|51
+Koromojo Dam|-4.443|39.460|KE|Kwale County|49|f
+Korshavn|55.607|10.614|DK|South Denmark|49|f
+Kora National Park|-0.209|38.736|KE||40|f
+Koraspitz|47.079|9.557|LI||40|f
+Körbersee|47.253|10.109|AT|Vorarlberg|40|f
+KORD-FM (Richland)|46.096|-119.194|US|Washington|40|f
+Kornicker Glacier|-78.717|-84.583|AQ||40|f
+Kornmarkt|49.412|8.712|DE|Baden-Wurttemberg|40|f
+Korten|67.408|14.270|NO|Nordland|40|f
+Kortes Dam|42.174|-106.881|US|Wyoming|40|f
+Korweiler|50.100|7.417|DE|Rheinland-Pfalz|38
+Korbak|-6.895|113.818|ID|East Java|0
+Korbukor|-6.923|113.193|ID|East Java|0
 Kore|-8.376|118.299|ID|West Nusa Tenggara|0
+Kore Barat|-8.375|118.295|ID|West Nusa Tenggara|0
 Korem|-0.900|136.041|ID|Papua|0
+Kori|-9.508|119.035|ID|East Nusa Tenggara|0
 Korido|-0.875|135.634|ID|Papua|0
 Korma|53.130|30.802|BY|Homyel’ Voblasc’|0
+Kormang|31.698|92.426|CN|Tibet|0
 Kornyn|50.560|26.287|UA|Rivne Oblast|0
+Koro|-6.867|111.216|ID|Central Java|0
+Korogan Timur|-6.932|113.028|ID|East Java|0
+Koronganayam|-6.978|112.941|ID|East Java|0
 Korovyntsi|50.809|33.751|UA|Sumy|0
+Korowelang|-6.790|111.418|ID|Central Java|0
+Koroyo|-6.689|111.067|ID|Central Java|0
 Korshiv|48.659|25.018|UA|Ivano-Frankivsk|0
 Kortezubi|43.333|-2.650|ES|Basque Country|0
 Korucu|39.470|27.365|TR|Balıkesir|0

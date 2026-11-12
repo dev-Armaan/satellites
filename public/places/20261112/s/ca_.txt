@@ -12,15 +12,15 @@ Casablanca|33.588|-7.611|MA|Casablanca-Settat|131
 Caracas|10.488|-66.879|VE|Distrito Federal|130
 Carabobo|10.167|-68.083|VE||128|r
 Cali|3.431|-76.520|CO|Valle del Cauca Department|128
-Castille and León|41.667|-4.250|ES||127|r
-Canary Islands|28.000|-15.500|ES||127|r
+Castille and León|41.667|-4.250|ES||128|r
+Canary Islands|28.000|-15.500|ES||128|r
 Capital Region|55.833|12.333|DK||127|r
 Castille-La Mancha|39.500|-3.000|ES||126|r
 Caraga|9.000|125.742|PH||125|r
 Camayenne|9.535|-13.688|GN|Conakry|125
 Cagayan Valley|17.657|121.733|PH||125|r
+Calabria|39.000|16.500|IT||125|r
 Caloocan|14.650|120.968|PH|National Capital Region|125
-Calabria|39.000|16.500|IT||124|r
 Cần Thơ|10.037|105.788|VN|Can Tho City|124
 Calgary|51.050|-114.085|CA|Alberta|122
 Callao|-12.052|-77.135|PE|Callao|122
@@ -31,9 +31,9 @@ Cauca Department|2.500|-76.833|CO||119|r
 Cancún|21.174|-86.847|MX|Quintana Roo|119
 Caldas Department|5.267|-75.333|CO||119|r
 Çankaya|39.918|32.863|TR|Ankara|118
+Campeche|18.833|-90.250|MX||117|r
 Cagayan de Oro|8.482|124.647|PH|Northern Mindanao|117
 Canterbury|-43.500|171.500|NZ||117|r
-Campeche|18.833|-90.250|MX||117|r
 Camama|-8.936|13.265|AO|Luanda|116
 Calumbo|-9.147|13.419|AO|Bengo|116
 Calamba|14.212|121.165|PH|Calabarzon|115
@@ -47,32 +47,33 @@ Cabo Delgado Province|-12.500|39.400|MZ||114|r
 Campos dos Goytacazes|-21.752|-41.330|BR|Rio de Janeiro|114
 Caxias do Sul|-29.168|-51.179|BR|Rio Grande do Sul|114
 Campina Grande|-7.231|-35.881|BR|Paraíba|113
+Carinthia|46.750|13.833|AT||112|r
 Caruaru|-8.283|-35.976|BR|Pernambuco|112
 Cazenga|-8.838|13.284|AO|Luanda|112
 Carapicuíba|-23.523|-46.835|BR|São Paulo|112
+Caraș-Severin County|45.083|22.083|RO||112|r
 Caucaia|-3.736|-38.653|BR|Ceará|112
 Cariacica|-20.264|-40.420|BR|Espírito Santo|112
-Carinthia|46.750|13.833|AT||111|r
+Cajamarca Department|-6.250|-78.833|PE||111|r
 Cardiff|51.480|-3.180|GB|Wales|111
 Cascavel|-24.956|-53.455|BR|Paraná|111
 Canberra|-35.283|149.128|AU|Australian Capital Territory|111
-Cajamarca Department|-6.250|-78.833|PE||111|r
+Caribbean Sea|15.000|-75.000|||111|f
 Catamarca|-27.000|-67.000|AR||111|r
 Cabimas|10.399|-71.452|VE|Zulia|111
 Camagüey|21.381|-77.917|CU|Camagüey|111
 Cabanatuan City|15.486|120.966|PH|Central Luzon|111
 Casanare Department|5.500|-71.500|CO||111|r
-Caraș-Severin County|45.083|22.083|RO||111|r
 Canoas|-29.918|-51.184|BR|Rio Grande do Sul|110
 Camaçari|-12.697|-38.324|BR|Bahia|110
+Călărași County|44.250|27.000|RO||110|r
 Catania|37.492|15.070|IT|Sicily|110
 Cabuyao|14.273|121.126|PH|Calabarzon|110
 Cầu Giấy|21.032|105.801|VN|Hanoi|109
-Călărași County|44.250|27.000|RO||109|r
 Cainta|14.579|121.122|PH|Calabarzon|109
 Caquetá|0.750|-74.000|CO||109|r
+Carlsbad Region|50.167|12.667|CZ||109|r
 Capao Redondo|-23.669|-46.781|BR|São Paulo|109
-Carlsbad Region|50.167|12.667|CZ||108|r
 Carabanchel|40.391|-3.724|ES|Madrid|108
 Cabo Frio|-22.887|-42.026|BR|Rio de Janeiro|108
 Campo Limpo|-23.636|-46.766|BR|São Paulo|107
@@ -89,12 +90,11 @@ Capiatá|-25.355|-57.445|PY|Central Department|106
 Cachoeiro de Itapemirim|-20.849|-41.113|BR|Espírito Santo|106
 Castanhal|-1.294|-47.926|BR|Pará|106
 Cẩm Phả|21.010|107.273|VN|Quảng Ninh|106
-Castelló de la Plana|39.986|-0.049|ES|Valencia|105
 Caaguazú Department|-25.200|-55.833|PY||105|r
+Castelló de la Plana|39.986|-0.049|ES|Valencia|105
 Carletonville|-26.361|27.398|ZA|Gauteng|105
 Cape Coral|26.563|-81.950|US|Florida|105
 Carolina|18.381|-65.957|PR|Carolina|105
 Calabozo|8.924|-67.429|VE|Guárico|105
 Carúpano|10.665|-63.254|VE|Sucre|104
 Cascades Region|10.380|-4.500|BF||104|r
-Calama|-22.457|-68.924|CL|Antofagasta|104

@@ -1,9 +1,9 @@
 Västra Götaland|58.000|13.000|SE||124|r
 Vaslui County|46.500|27.750|RO||114|r
 Västerbotten|65.000|17.500|SE||108|r
-Västmanland|59.750|16.333|SE||107|r
+Västmanland|59.750|16.333|SE||108|r
+Västernorrland|63.000|17.500|SE||107|r
 Vasyl'evsky Ostrov|59.941|30.254|RU|St. Petersburg|106
-Västernorrland|63.000|17.500|SE||106|r
 Vas County|47.167|16.750|HU||105|r
 Västerås|59.616|16.553|SE|Västmanland|102
 Vasco da Gama|15.396|73.816|IN|Goa|100
@@ -14,6 +14,7 @@ Vasylkiv|50.180|30.312|UA|Kyiv Oblast|91
 Vassouras|-22.404|-43.663|BR|Rio de Janeiro|91
 Vāsudevanallūr|9.242|77.412|IN|Tamil Nadu|87
 Västervik|57.758|16.637|SE|Kalmar|87
+Västerbottens Museum|63.829|20.289|SE|Västerbotten|86|f
 Vasind|19.408|73.263|IN|Maharashtra|86
 Vasil’yevo|55.830|48.717|RU|Tatarstan Republic|85
 Vaso|22.661|72.755|IN|Gujarat|84
@@ -24,10 +25,12 @@ Vasylivka|47.442|35.282|UA|Zaporizhzhia|82
 Vaskelovo|60.396|30.354|RU|Leningradskaya Oblast'|82
 Vasilevo|41.474|22.645|MK|Vasilevo|82
 Vasylkivka|48.208|36.022|UA|Dnipropetrovsk|82
+Vasco da Gama tower|38.775|-9.091|PT|Lisbon|81|f
 Vassala|15.557|-5.516|MR|Hodh Ech Chargi|81
 Vashon|47.447|-122.460|US|Washington|81
 Vasiliká|40.480|23.137|GR|Central Macedonia|80
 Vásárosnamény|48.125|22.313|HU|Szabolcs-Szatmár-Bereg|79
+Vaskovo Airport|64.441|40.425|RU|Arkhangelskaya|78|f
 Vasilaţi|44.288|26.448|RO|Călărași County|78
 Vasilikón|38.426|23.672|GR|Central Greece|76
 Vasyshcheve|49.835|36.331|UA|Kharkiv|75
@@ -41,15 +44,23 @@ Vashkivtsi|48.409|27.132|UA|Chernivtsi|71
 Vaskút|46.108|18.985|HU|Bács-Kiskun|71
 Vasilyevichy|52.251|29.829|BY|Homyel’ Voblasc’|70
 Vaşcău|46.467|22.467|RO|Bihor County|69
+Vasi|40.100|19.733|AL|Vlorë County|69|f
 Vassar|43.372|-83.583|US|Michigan|68
 Vasil’yevskiy Mokh|57.013|35.919|RU|Tver Oblast|67
 Vasse|-33.693|115.268|AU|Western Australia|67
+Vashafaru|6.897|73.161|MV||67|f
 Vasylivka|46.608|30.306|UA|Odesa|66
+Vassfjellet|63.262|10.356|NO|Trøndelag|65|f
+Vassøy|58.999|5.785|NO|Rogaland|65|f
 Vasīān|33.491|48.049|IR|Lorestan Province|65
 Vassy|48.854|-0.675|FR|Normandy|65
 Vassilies|35.271|25.138|GR|Crete|64
 Vasiutyntsi|49.450|32.464|UA|Cherkasy|64
 Vasles|46.576|-0.025|FR|New Aquitaine|64
+Vasahalvøya|79.750|11.500|SJ|Svalbard|63|f
+Vassdalseggi|59.763|7.110|NO|Rogaland|63|f
+Vasslivatnet|63.212|9.280|NO|Trøndelag|63|f
+Vassnebba|62.802|8.614|NO|Møre og Romsdal|63|f
 Vasilikí|39.640|21.704|GR|Thessaly|63
 Vasylivka|48.527|27.474|UA|Chernivtsi|63
 Vasilyevka|45.139|34.723|UA|Crimea|62
@@ -57,12 +68,62 @@ Västra Hagen|57.424|11.936|SE|Halland|62
 Vasyliv|48.606|25.843|UA|Chernivtsi|62
 Vasylivka|45.522|29.163|UA|Odesa|62
 Vasselay|47.157|2.390|FR|Centre-Val de Loire|61
+Vāsota Fort|17.663|73.696|IN|Maharashtra|61|f
+Vässarön|60.250|18.683|SE|Uppsala|61|f
 Vășad|47.519|22.257|RO|Bihor County|61
 Vas’kovo|64.412|40.464|RU|Arkhangelskaya|60
 Vasil’sursk|56.131|46.016|RU|Nizhny Novgorod Oblast|60
+Vassy|-12.232|44.343|KM|Anjouan|59
+Vastorf|53.198|10.546|DE|Lower Saxony|59
+Vāskas|36.589|52.471|IR|Māzandarān|59
+Vasteville|49.595|-1.775|FR|Normandy|59
+Vasylivka|47.672|38.516|UA|Donetsk|59
+Vasalemma|59.244|24.290|EE|Harjumaa|59
+Vascon|45.722|12.292|IT|Veneto|59
+Vasylivka|49.636|35.194|UA|Poltava|59
+Vasylivka|47.075|32.857|UA|Mykolaiv|58
+Västra Ingelstad|55.491|13.112|SE|Skåne|58
+Vasaj|34.320|48.225|IR|Hamadan Province|58
+Vashlovani National Park|41.191|46.458|GE||58|f
+Vasilítsa|40.030|21.080|GR|West Macedonia|58|f
+Vasquez Rocks|34.486|-118.317|US|California|58|f
+Vasile Alecsandri|45.453|27.801|RO|Galați County|58
 Västanfjärd|60.050|22.683|FI|Southwest Finland|58
+Vastseliina|57.730|27.294|EE|Võrumaa|58
+Vass|35.256|-79.282|US|North Carolina|57
+Vasylivka|49.638|34.901|UA|Poltava|57
+Vasylivka|49.558|33.321|UA|Poltava|57
+Vasylivka|46.801|31.419|UA|Mykolaiv|57
+Vasile Alecsandri|44.796|28.507|RO|Tulcea County|57
+Vasiloúdi|40.632|23.190|GR|Central Macedonia|57
+Vasilópoulo|38.592|21.089|GR|West Greece|56
+Vășcăuți|47.968|26.023|RO|Suceava|56
+Vasylivka|48.843|33.283|UA|Kirovohrad|55
+Västra Karup|56.417|12.750|SE|Skåne|55
+Vasylivka|47.565|30.617|UA|Odesa|55
+Vasì|38.337|16.448|IT|Calabria|55
+Vaše|46.134|14.395|SI|Municipality of Medvode|55
+Västerfärnebo|59.946|16.278|SE|Västmanland|55
+Vasylivka|46.172|29.388|UA|Odesa|55
+Vassar|38.647|-95.622|US|Kansas|54
+Vassmolösa|56.600|16.167|SE|Kalmar|54
+Vasco-da-Gama-bridge|38.765|-9.043|PT|Setúbal|54|f
+Vashon Municipal Airport|47.458|-122.477|US|Washington|54|f
+Vaskna Järv|57.709|27.075|EE|Võrumaa|54|f
+Väse|59.382|13.851|SE|Värmland|54
+Vastse-Kuuste|58.168|26.929|EE|Põlvamaa|54
 Vastogirardi|41.775|14.258|IT|Molise|54
 Vas|45.938|11.936|IT|Veneto|54
 Vassena|45.930|9.284|IT|Lombardy|51
+Vasa Museum|59.328|18.091|SE|Stockholm|49|f
+Vashka, Lake|-77.350|161.183|AQ||49|f
+Vaskivesi|62.158|23.717|FI|Pirkanmaa|49|f
 Vasia|43.933|7.954|IT|Liguria|47
+Vasaparken|59.340|18.044|SE|Stockholm|40|f
+Vaseux Lake|49.271|-119.533|CA|British Columbia|40|f
+Vaseux Lake Park|49.300|-119.532|CA|British Columbia|40|f
+Vaskess Bay|1.842|-157.496|KI|Line Islands|40|f
+Väski|60.486|21.981|FI|Southwest Finland|40|f
+Vasona Lake County Park|37.240|-121.969|US|California|40|f
+Vassar Glacier|61.220|-147.888|US|Alaska|40|f
 Vasylkivtsi|49.092|26.077|UA|Ternopil|0

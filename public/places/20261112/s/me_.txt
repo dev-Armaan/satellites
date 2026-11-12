@@ -7,7 +7,7 @@ Melbourne|-37.814|144.963|AU|Victoria|135
 Medina Region|24.900|39.500|SA||128|r
 Medan|3.583|98.667|ID|North Sumatra|128
 Medellín|6.245|-75.572|CO|Antioquia|126
-Mecklenburg-Vorpommern|53.833|12.500|DE||122|r
+Mecklenburg-Vorpommern|53.833|12.500|DE||124|r
 Meerut|28.980|77.706|IN|Uttar Pradesh|122
 Mérida|20.967|-89.623|MX|Yucatán|122
 Melaka|2.250|102.250|MY||121|r
@@ -24,8 +24,8 @@ Mersin|36.812|34.639|TR|Mersin|115
 Mesa|33.422|-111.823|US|Arizona|113
 Medenine Governorate|33.333|11.000|TN||113|r
 Mek'ele|13.497|39.475|ET|Tigray|113
+Mehedinți County|44.667|22.833|RO||110|r
 Mérida|8.579|-71.169|VE|Mérida|110
-Mehedinți County|44.667|22.833|RO||109|r
 Meads|38.413|-82.709|US|Kentucky|109
 Meguro|35.632|139.702|JP|Tokyo|109
 Merkezefendi|37.805|29.042|TR|Denizli|109
@@ -42,6 +42,7 @@ Melitopol|46.847|35.382|UA|Zaporizhzhia|103
 Mestre|45.492|12.245|IT|Veneto|103
 Médéa|36.264|2.754|DZ|Medea|103
 Mesquite|32.767|-96.599|US|Texas|103
+Mediterranean Sea|35.000|20.000|||103|f
 Mercier–Hochelaga-Maisonneuve|45.572|-73.546|CA|Quebec|103
 Metairie Terrace|29.979|-90.164|US|Louisiana|103
 Metairie|29.984|-90.153|US|Louisiana|103
@@ -61,6 +62,7 @@ Meidling|48.167|16.333|AT|Vienna|100
 Messaad|34.154|3.503|DZ|Djelfa|100
 Meshgīn Shahr|38.399|47.682|IR|Ardabil Province|99
 Meridian|43.612|-116.392|US|Idaho|99
+Međimurje|46.417|16.500|HR||99|r
 Menifee|33.728|-117.146|US|California|99
 Menglang|22.562|99.910|CN|Yunnan|99
 Melilla|35.294|-2.938|ES|Melilla|99
@@ -74,7 +76,6 @@ Mechelen|51.026|4.478|BE|Flanders|98
 Melong|5.122|9.961|CM|Littoral|98
 Mek’ī|8.150|38.817|ET|Oromiya|98
 Méagui|5.412|-6.560|CI|Bas-Sassandra District|97
-Međimurje|46.417|16.500|HR||97|r
 Medenine|33.355|10.505|TN|Medenine Governorate|97
 Mengcheng Chengguanzhen|33.266|116.566|CN|Anhui|97
 Mertoyudan|-7.520|110.226|ID|Central Java|97
@@ -97,5 +98,4 @@ Metu|8.300|35.583|ET|Oromiya|96
 Meïganga|6.517|14.300|CM|Adamaoua|95
 Menzel Bourguiba|37.154|9.786|TN|Bizerte Governorate|95
 Medford|42.418|-71.106|US|Massachusetts|95
-Mettur|11.788|77.801|IN|Tamil Nadu|95
 Me|20.347|105.836|VN|Ninh Binh|0

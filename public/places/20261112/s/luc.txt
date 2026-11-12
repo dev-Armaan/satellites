@@ -43,6 +43,7 @@ Lucas González|-32.384|-59.531|AR|Entre Rios|73
 Luckhoff|-29.750|24.788|ZA|Free State|73
 Lucsuhin|13.882|120.641|PH|Calabarzon|73
 Lucciana|42.546|9.419|FR|Corsica|71
+Luci Yu|25.122|119.365|CN|Fujian|71|f
 Lucrécia|-6.120|-37.816|BR|Rio Grande do Norte|71
 Lucerne|36.381|-119.664|US|California|71
 Lucena del Puerto|37.304|-6.729|ES|Andalusia|71
@@ -59,10 +60,13 @@ Lucban|18.336|121.431|PH|Cagayan Valley|68
 Lucan|43.183|-81.400|CA|Ontario|68
 Lucino|45.783|9.043|IT|Lombardy|68
 Lucianópolis|-22.431|-49.523|BR|São Paulo|68
+Lucile Lake|61.575|-149.475|US|Alaska|67|f
 Lucens|46.709|6.839|CH|Vaud|67
 Lucero|11.454|122.464|PH|Western Visayas|67
 Lucino-Rodano|45.476|9.353|IT|Lombardy|66
 Lucca Sicula|37.578|13.306|IT|Sicily|66
+Lucavsala|56.923|24.123|LV|Riga|65|f
+Luční hora|50.728|15.683|CZ|Hradec Králové Region|65|f
 Lucugnano|39.935|18.322|IT|Apulia|65
 Lucignano|43.273|11.746|IT|Tuscany|65
 Luçay-le-Mâle|47.130|1.442|FR|Centre-Val de Loire|65
@@ -72,6 +76,7 @@ Lúčky|49.129|19.402|SK|Žilina Region|64
 Luché-Pringé|47.703|0.075|FR|Pays de la Loire|64
 Lucena del Cid|40.133|-0.283|ES|Valencia|64
 Luciu|44.747|27.728|RO|Ialomița County|63
+Łuck Ghetto|50.750|25.333|UA|Volyn|63|f
 Lucenay|45.913|4.703|FR|Auvergne-Rhône-Alpes|63
 Luco Mugello|44.000|11.396|IT|Tuscany|63
 Lucinges|46.192|6.315|FR|Auvergne-Rhône-Alpes|63
@@ -84,6 +89,9 @@ Lucama|35.645|-78.010|US|North Carolina|61
 Luchki|44.286|132.261|RU|Primorye|61
 Lucăceni|47.742|22.478|RO|Satu Mare County|61
 Luchsingen|46.966|9.037|CH|Glarus|61
+Lucca-Tassignano Airport|43.826|10.576|IT|Tuscany|61|f
+Luce County Airport|46.312|-85.454|US|Michigan|61|f
+Lucy Gray Mountains|35.608|-115.279|US|Nevada|61|f
 Luceville|48.545|-68.397|CA|Quebec|61
 Luceau|47.711|0.397|FR|Pays de la Loire|61
 Lucéram|43.883|7.360|FR|Provence-Alpes-Côte d'Azur|61
@@ -93,24 +101,86 @@ Luckey|41.451|-83.487|US|Ohio|60
 Lucq-de-Béarn|43.287|-0.659|FR|New Aquitaine|60
 Luceni|41.829|-1.239|ES|Aragon|60
 Lucoli|42.291|13.338|IT|Abruzzo|59
+Lucerne Mines|40.559|-79.151|US|Pennsylvania|59
+Lucero de Ramales|20.925|-101.457|MX|Guanajuato|59
+Luch|46.824|32.216|UA|Mykolaiv|59
+Luc-sur-Orbieu|43.177|2.786|FR|Occitanie|58
 Lúcar|37.400|-2.425|ES|Andalusia|58
+Lucky Hill|18.310|-77.015|JM|Saint Mary Parish|58
+Luckau|52.926|11.051|DE|Lower Saxony|57
+Luchynske|46.862|29.948|UA|Odesa|57
 Lucito|41.732|14.687|IT|Molise|57
+Lucăcești|47.540|23.335|RO|Maramureş|57
+Luckow|53.707|14.160|DE|Mecklenburg-Vorpommern|57
+Lučatín|48.783|19.320|SK|Banská Bystrica Region|57
 Lucma|-7.641|-78.551|PE|La Libertad|56
+Lucinda|-18.528|146.331|AU|Queensland|56
+Lucksta|62.299|17.050|SE|Västernorrland|56
+Luckenbach|50.700|7.833|DE|Rheinland-Pfalz|56
 Luckington|51.554|-2.242|GB|England|56
+Lucheux|50.197|2.413|FR|Hauts-de-France|56
+Lucy|48.938|3.805|FR|Grand Est|56
+Lucas|40.705|-82.418|US|Ohio|56
 Lucainena de las Torres|37.040|-2.201|ES|Andalusia|56
+Lückstedt|52.821|11.589|DE|Saxony-Anhalt|56
+Lučane|43.718|16.594|HR|Split-Dalmatia|56
+Lucfalva|48.030|19.690|HU|Nógrád|56
+Lucey|48.722|5.839|FR|Grand Est|56
+Luckenau|51.090|12.082|DE|Saxony-Anhalt|55
+Lučice|49.662|15.497|CZ|Vysocina|55
+Luchky|48.994|34.107|UA|Poltava|55
+Luceni|47.288|27.614|RO|Iași County|55
+Luchanky|51.551|28.464|UA|Zhytomyr Oblast|55
+Luc-en-Diois|44.615|5.452|FR|Auvergne-Rhône-Alpes|55
+Lucerne|43.735|-108.176|US|Wyoming|55
+Lucindale|-36.973|140.370|AU|South Australia|54
+Luccombe Chine|50.610|-1.178|GB|England|54|f
+Lucky Peak Lake|43.566|-115.998|US|Idaho|54|f
+Luchy|49.555|2.119|FR|Hauts-de-France|54
+Lucquy|49.533|4.479|FR|Grand Est|54
 Lucillos|39.985|-4.613|ES|Castille-La Mancha|54
 Luče|46.355|14.748|SI|Municipality of Luče|52
 Lucma|-13.053|-72.937|PE|Cuzco Department|52
+Lucas Glacier|-54.070|-37.306|GS||49|f
+Lucas Island|-68.504|77.955|AQ||49|f
+Lucayan Archipelago|24.687|-78.019|||49|f
+Luce Bay|54.750|-4.833|GB|Scotland|49|f
+Lucero|-29.864|-70.910|CL|Coquimbo Region|49|f
+Lucherberger See|50.841|6.381|DE|North Rhine-Westphalia|49|f
+Luckower See|53.716|11.809|DE|Mecklenburg-Vorpommern|49|f
+Lucky Bay|-33.995|122.233|AU|Western Australia|49|f
+Lucky Bay|-33.708|137.041|AU|South Australia|49|f
+Lucy Glacier|-82.400|158.417|AQ||49|f
 Lucena de Jalón|41.553|-1.313|ES|Aragon|48
+Lüchow|53.691|10.530|DE|Schleswig-Holstein|47
 Lucmapampa|-6.941|-78.092|PE|Cajamarca Department|47
 Lucinasco|43.966|7.960|IT|Liguria|45
 Lucma|-8.919|-77.411|PE|Ancash|43
 Lucre|-13.950|-73.226|PE|Apurímac Department|42
+Lucchesi Park|38.254|-122.630|US|California|40|f
+Lucchitta Glacier|-74.400|-99.933|AQ||40|f
+Luce Bay|54.818|-4.714|GB|Scotland|40|f
+Lucerne Peak|52.883|-118.586|CA|Alberta|40|f
+Lucia Peak|-80.300|155.383|AQ||40|f
+Lucifer Peak|49.817|-117.736|CA|British Columbia|40|f
+Lucius Q. C. Lamar House|34.372|-89.515|US|Mississippi|40|f
+Lucky Friday Mine|47.471|-115.782|US|Idaho|40|f
+Lucky Landing Marina and Seaplane Base|44.907|-68.804|US|Maine|40|f
+Lucky Peak Dam|43.528|-116.053|US|Idaho|40|f
+Lucus Angitiae|41.971|13.461|IT|Abruzzo|40|f
+Lucus Feroniae|42.130|12.597|IT|Lazio|40|f
+Lucy Islands|54.296|-130.622|CA|British Columbia|40|f
+Lückenburg|49.733|6.967|DE|Rheinland-Pfalz|40
 Lucanas|-14.622|-74.233|PE|Ayacucho|0
 Lučani|43.861|20.138|RS|Central Serbia|0
+Lucaogou|43.867|87.783|CN|Xinjiang|0
 Lucheng|31.763|120.046|CN|Jiangsu|0
+Lücheng|31.899|119.735|CN|Jiangsu|0
+Luci|27.877|119.403|CN|Zhejiang|0
 Luciara|-11.222|-50.667|BR|Mato Grosso|0
 Lucira|-13.866|12.525|AO|Namibe|0
+Lücongpo|30.819|110.252|CN|Hubei|0
 Lucre|-13.636|-71.737|PE|Cuzco Department|0
+Lucun|27.928|114.455|CN|Jiangxi|0
 Lucunga|-7.568|15.275|AO|Uíge|0
 Lucusse|-12.525|20.819|AO|Moxico|0

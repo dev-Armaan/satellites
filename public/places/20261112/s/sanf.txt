@@ -17,6 +17,7 @@ Sanford|28.801|-81.273|US|Florida|95
 San Francisco El Alto|14.945|-91.443|GT|Totonicapán|95
 San Francisco|9.994|-84.127|CR|Heredia Province|95
 San Fernando|10.280|-61.468|TT|San Fernando|95
+San Francisco International Airport|37.619|-122.376|US|California|93|f
 San Fernando de Henares|40.424|-3.533|ES|Madrid|92
 San Fernando|24.847|-98.149|MX|Tamaulipas|89
 Sanford|35.480|-79.180|US|North Carolina|89
@@ -53,6 +54,7 @@ San Felipe Tlalmimilolpan|19.238|-99.644|MX|México|80
 San Francisco|14.117|-88.367|HN|Lempira Department|79
 San Francisco|10.646|124.382|PH|Central Visayas|79
 San Francisco Chimalpa|19.443|-99.343|MX|México|79
+San Fernando Airport|-34.453|-58.590|AR|Buenos Aires|78|f
 San Francisco Zacacalco|19.929|-98.982|MX|México|77
 San Felice sul Panaro|44.837|11.138|IT|Emilia-Romagna|77
 San Francisco Pujiltic|16.279|-92.453|MX|Chiapas|77
@@ -63,6 +65,7 @@ San Felice Circeo|41.237|13.094|IT|Lazio|76
 San Fernando|13.566|123.145|PH|Bicol Region|76
 San Fernando|12.483|123.762|PH|Bicol Region|76
 San Felipe Jalapa de Díaz|18.071|-96.536|MX|Oaxaca|76
+Sanfebagar Airport|29.233|81.217|NP|Sudurpashchim Pradesh|75|f
 San Francisco de la Paz|14.900|-86.200|HN|Olancho Department|75
 San Francisco Ixhuatan|16.351|-94.484|MX|Oaxaca|75
 San Francisco de Asís|20.597|-102.564|MX|Jalisco|74
@@ -81,6 +84,7 @@ San Francisco|1.176|-76.878|CO|Putumayo Department|73
 San Francisco Soyaniquilpan|20.013|-99.527|MX|México|73
 San Francisco del Oro|26.863|-105.848|MX|Chihuahua|73
 San Fermo della Battaglia|45.809|9.047|IT|Lombardy|72
+San Francisco-Oakland Bay Bridge|37.816|-122.353|US|California|72|f
 San Francisco Tepeyecac|19.249|-98.438|MX|Puebla|72
 San Francisco del Mar Viejo|16.232|-94.633|MX|Oaxaca|72
 San Felipe Teotitlán|19.803|-98.702|MX|México|72
@@ -91,6 +95,7 @@ San Ferdinando|38.484|15.919|IT|Calabria|72
 San Fernando|13.678|-86.315|NI|Nueva Segovia Department|72
 San Floriano-Olmi|45.673|12.330|IT|Veneto|71
 San Felipe Old|15.501|120.908|PH|Central Luzon|71
+Sanford Stadium|33.950|-83.373|US|Georgia|71|f
 San Francisco Xochicuautla|19.373|-99.445|MX|México|71
 San Francisco Ayotuzco|19.366|-99.357|MX|México|71
 San Francisco Tenopalco|19.713|-99.117|MX|México|71
@@ -159,6 +164,8 @@ San Felipe Otlaltepec|18.402|-97.908|MX|Puebla|66
 San Felipe|17.873|-88.773|BZ|Orange Walk District|66
 San Felipe de los Herreros|19.617|-102.181|MX|Michoacán|66
 San Francisco|8.058|-81.374|PA|Veraguas Province|66
+San Francisco Museum of Modern Art|37.785|-122.401|US|California|65|f
+Sanford Seacoast Regional Airport|43.401|-70.710|US|Maine|65|f
 San Francisco Uricho|19.571|-101.716|MX|Michoacán|65
 San Francisco|21.019|-98.486|MX|Hidalgo|65
 San Francisco de la Palma|20.660|-100.515|MX|Querétaro|65
@@ -187,6 +194,8 @@ San Francisco Atotonilco|20.195|-98.152|MX|Hidalgo|64
 San Francisco Coatlán|16.182|-96.761|MX|Oaxaca|64
 San Francisco de Guzmán|19.620|-99.775|MX|México|64
 San Felipe Hidalgo|19.468|-98.559|MX|Puebla|64
+San Felipe International Airport|30.930|-114.809|MX|Baja California|63|f
+San Francisco Bay|37.708|-122.280|US|California|63|f
 San Fernando|18.270|-94.884|MX|Veracruz|63
 San Francisco Tláloc|19.370|-98.477|MX|Puebla|63
 San Francisco Oxtotilpan|19.168|-99.902|MX|México|63
@@ -208,6 +217,7 @@ San Francisco de Arriba|25.750|-103.157|MX|Coahuila|61
 San Francisco de Borja|27.901|-106.683|MX|Chihuahua|61
 San Fele|40.816|15.540|IT|Basilicate|61
 San Francisco de Tacuichamona|24.361|-107.077|MX|Sinaloa|61
+San Francisco Naciff Airport|-13.757|-64.472|BO|Beni Department|61|f
 San Felipe Tílpam|18.189|-96.586|MX|Oaxaca|61
 San Félix Rijo|18.620|-98.550|MX|Puebla|61
 San Felipe Sultepec|19.591|-98.615|MX|Tlaxcala|61
@@ -225,22 +235,131 @@ San Francisco Loxicha|15.907|-96.613|MX|Oaxaca|60
 San Felipe Quiriceo|20.443|-101.289|MX|Guanajuato|60
 San Fernando|14.683|-89.117|HN|Ocotepeque Department|60
 San Francisco Cuexcontzi|19.320|-97.711|MX|Tlaxcala|60
+San Francisco Xochiteopan|18.805|-98.624|MX|Puebla|60
+San Felipe|1.914|-67.070|CO|Guainía Department|60
+San Filippo Superiore|38.165|15.501|IT|Sicily|60
+San Felipe|25.675|-102.976|MX|Coahuila|59
+San Fernando|18.964|-99.759|MX|México|59
+San Fernando|25.558|-108.610|MX|Sinaloa|59
+San Francisco Mitepec|19.439|-98.448|MX|Tlaxcala|59
+San Felipe Zacatepec|19.843|-98.784|MX|México|59
+San Feliciano|43.118|12.167|IT|Umbria|59
+San Felipe Lachilló|16.010|-96.155|MX|Oaxaca|59
+San Francisco Yovego|17.551|-96.224|MX|Oaxaca|59
+San Francisco|19.716|-103.194|MX|Jalisco|59
+San Francisco|13.367|-86.900|HN|Choluteca Department|59
 San Francisco Ozolotepec|16.100|-96.221|MX|Oaxaca|59
+San Francisco|18.909|-99.932|MX|México|59
+San Francisco del Río|19.692|-99.894|MX|México|59
+San Fior di Sotto|45.903|12.375|IT|Veneto|59
+Sanford|37.258|-105.905|US|Colorado|59
+San Felipe|21.979|-98.933|MX|San Luis Potosí|59
+Sanford|43.673|-84.381|US|Michigan|59
+San Francisco Puerta Grande|20.876|-101.484|MX|Guanajuato|59
+San Francisco de Asís|18.627|-100.280|MX|México|59
+San Francisco Totoltepec|19.329|-99.555|MX|México|58
+San Francisco del Maguey|16.510|-98.304|MX|Oaxaca|58
+San Felipe de la Rosa|19.491|-100.053|MX|México|58
+San Francisco del Progreso|19.730|-97.608|MX|Puebla|58
+San Felice|45.460|11.035|IT|Veneto|58
+San Francisquito|23.243|-106.253|MX|Sinaloa|58
+San Francisco Jayacaxtepec|17.222|-95.975|MX|Oaxaca|58
+San Francisco Tenexyecac|19.278|-98.315|MX|Tlaxcala|58
+San Felipe Tenextepec|19.031|-97.875|MX|Puebla|58
+San Francisco Tepango|18.837|-98.702|MX|Puebla|58
+San Felipe Hills|33.183|-116.554|US|California|58|f
+San Francisco Cable Car Museum|37.795|-122.412|US|California|58|f
+San Francisco Shaxní Ejido|20.072|-99.996|MX|México|58
+San Felipe Tepemaxalco|18.737|-98.631|MX|Puebla|58
+San Felipe|29.793|-96.101|US|Texas|58
+San Francisco Yosocuta|17.746|-97.818|MX|Oaxaca|58
+San Fatucchio|43.077|12.052|IT|Umbria|58
+San Francisco Solo|19.719|-100.092|MX|México|58
+San Felipe|23.789|-103.107|MX|Zacatecas|58
+San Francisco|20.821|-87.504|MX|Quintana Roo|58
 San Francisco Chindúa|17.429|-97.312|MX|Oaxaca|58
+San Francisco (Oyozontle)|18.329|-95.846|MX|Veracruz|58
+San Filippo-Battendieri|39.505|15.971|IT|Calabria|58
+San Francisco de las Tablas|19.766|-99.529|MX|México|58
+San Francisco|20.581|-100.134|MX|Querétaro|57
+San Francisco Tecajique|20.168|-98.946|MX|Hidalgo|57
+San Francisco Tlapancingo|17.483|-98.268|MX|Oaxaca|57
+San Francisco Epunguio|19.700|-100.438|MX|Michoacán|57
+San Félix Almazán|18.884|-98.387|MX|Puebla|57
+San Felipe Primero|19.813|-88.833|MX|Quintana Roo|57
+San Felipe|17.840|-95.931|MX|Oaxaca|57
+San Francisco|20.353|-99.958|MX|Querétaro|57
+San Felipe|18.933|-99.654|MX|México|57
+San Fernando Coapechapa|20.367|-97.621|MX|Veracruz|57
+San Francisco Tutepetongo|17.716|-96.881|MX|Oaxaca|57
+San Fernando de Guaymas|27.973|-110.712|MX|Sonora|57
+San Felipe (El Chilarillo)|20.516|-101.982|MX|Guanajuato|57
+San Francisco de Asís|16.001|-92.017|MX|Chiapas|57
+San Francisco|23.001|-101.931|MX|San Luis Potosí|57
+San Francisco Buenavista|19.026|-97.836|MX|Puebla|57
+San Francisco Manzanilla|21.253|-89.023|MX|Yucatán|57
+San Francisco|8.634|-82.728|PA|Chiriquí Province|56
+San Francisco del Progreso|25.592|-102.171|MX|Coahuila|56
+San Francisco|17.975|-102.131|MX|Guerrero|56
+San Felipe de Jesús|19.628|-100.199|MX|México|56
+San Francisco Caballúa|17.491|-97.716|MX|Oaxaca|56
 San Francisco de Conchos|27.588|-105.334|MX|Chihuahua|56
+San Felipe Cuapexco|18.821|-98.705|MX|Puebla|56
+San Francisco el Rincón|16.281|-92.133|MX|Chiapas|56
+San Francisco la Paz|17.097|-94.129|MX|Oaxaca|56
+San Francisco Ixpantepec|16.283|-97.247|MX|Oaxaca|56
+San Francisco de Lajas|23.118|-105.102|MX|Durango|56
+San Francisco|16.603|-91.735|MX|Chiapas|56
+San Francisco Ocotal|17.216|-93.150|MX|Chiapas|56
 San Fidenzio|45.216|11.518|IT|Veneto|56
+San Fernando|20.899|-97.873|MX|Veracruz|56
+San Felipe Toctla|18.761|-98.700|MX|Puebla|55
+San Fernando|18.321|-88.354|BZ|Corozal District|55
+San Francisco de las Mesillas|18.830|-96.776|MX|Veracruz|55
+San Francisco|-13.482|-76.082|PE|Ica|55
+San Francisco de Horta (El Alacrán)|20.576|-101.554|MX|Guanajuato|55
+San Francisco de Horta (El Gato)|20.622|-101.530|MX|Guanajuato|55
+San Fernando|16.681|-92.294|MX|Chiapas|55
+San Francisco Botes|18.114|-88.718|MX|Quintana Roo|55
 San Felice del Molise|41.890|14.701|IT|Molise|55
 San Felices de los Gallegos|40.850|-6.708|ES|Castille and León|55
+San Francisco de Asís|18.436|-98.280|MX|Puebla|55
+San Francisco|22.288|-104.499|MX|Nayarit|55
+San Francisco de la Charca (El Nido)|20.675|-101.391|MX|Guanajuato|55
+San Fernando|21.578|-104.785|MX|Nayarit|55
+San Faustino|45.666|10.344|IT|Lombardy|55
+San Faustino|44.681|10.781|IT|Emilia-Romagna|55
+San Francisco Terrerillos|19.910|-98.164|MX|Puebla|55
+San Francisco de Asís|19.413|-100.123|MX|México|55
+San Foca|46.059|12.695|IT|Friuli Venezia Giulia|54
+San Francisco Guichina|16.473|-96.106|MX|Oaxaca|54
+San Felasco Hammock Preserve State Park|29.729|-82.442|US|Florida|54|f
+San Fernando Airport|-34.566|-70.969|CL|O'Higgins Region|54|f
+San Francisco Bay Discovery Site|37.604|-122.458|US|California|54|f
+San Francisco Peninsula|37.583|-122.401|US|California|54|f
+San Felipe|16.133|-88.905|BZ|Toledo District|54
+San Francisco Rancho Nuevo|18.260|-98.061|MX|Puebla|54
+San Francisco Morazán|14.183|-89.050|SV|Chalatenango Department|54
+San Francisco Cahuacuá|16.896|-97.306|MX|Oaxaca|54
 San Floro|38.838|16.519|IT|Calabria|53
 San Felipe de Jesús|29.863|-110.239|MX|Sonora|52
 San Felipe|-5.770|-79.314|PE|Cajamarca Department|52
 San Francisco Nuxaño|17.381|-97.344|MX|Oaxaca|51
 San Floriano del Collio|45.981|13.589|IT|Friuli Venezia Giulia|49
+San Felipe Castle|28.414|-16.558|ES|Canary Islands|49|f
+Sanford, Sanford-Lee County Regional Airport|35.583|-79.101|US|North Carolina|49|f
 San Francisco Cajonos|17.171|-96.250|MX|Oaxaca|49
 San Francisco Jaltepetongo|17.386|-97.263|MX|Oaxaca|48
 San Felice|46.494|11.130|IT|Trentino-Alto Adige|48
 San Francisco Huehuetlán|18.197|-96.948|MX|Oaxaca|47
 San Francisco de Ravacayco|-14.997|-73.351|PE|Ayacucho|45
+San Felipe Hills|37.294|-121.628|US|California|40|f
+San Francesco del Deserto|45.473|12.416|IT|Veneto|40|f
+San Francisco Maritime National Historical Park|37.810|-122.424|US|California|40|f
+San Francisco Mountains|38.541|-113.278|US|Utah|40|f
+San Francisco Plantation House|30.050|-90.602|US|Louisiana|40|f
+San Francisco Zoo|37.733|-122.503|US|California|40|f
+Sanford Lake|43.695|-84.388|US|Michigan|40|f
 San Fabian|16.123|120.406|PH|Ilocos|0
 San Fabián de Alico|-36.520|-71.586|CL|Ñuble|0
 San Felices|41.937|-2.026|ES|Castille and León|0
@@ -248,6 +367,7 @@ San Felipe de Oña|-3.470|-79.154|EC|Azuay|0
 San Fernando|9.211|-74.318|CO|Bolívar|0
 San Fernando|12.304|122.600|PH|Mimaropa|0
 San Fernano|-5.901|-77.271|PE|San Martín Department|0
+San Francisco|-20.717|-64.700|BO|Chuquisaca Department|0
 San Francisco|5.964|-75.102|CO|Antioquia|0
 San Francisco|8.992|-79.508|PA|Panamá|0
 San Francisco|-12.625|-73.788|PE|Ayacucho|0
@@ -261,3 +381,5 @@ San Francisco de Yare|10.178|-66.746|VE|Miranda|0
 San Francisco del Norte|13.199|-86.771|NI|Chinandega Department|0
 San Francisco del Vergel|-4.678|-79.046|EC|Zamora Chinchipe|0
 San Francisco Libre|12.505|-86.299|NI|Managua Department|0
+Sanfang|26.869|115.415|CN|Jiangxi|0
+Sanfutan|30.376|113.195|CN|Hubei|0

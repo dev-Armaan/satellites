@@ -23,7 +23,7 @@ Río Tercero|-32.177|-64.113|AR|Cordoba|95
 Rioverde|21.931|-99.995|MX|San Luis Potosí|95
 Río Grande|-53.788|-67.710|AR|Tierra del Fuego|94
 Rio Tinto|41.179|-8.560|PT|Porto|94
-Río Negro Department|-32.750|-57.333|UY||93|r
+Río Negro Department|-32.750|-57.333|UY||94|r
 Rio Grande da Serra|-23.744|-46.398|BR|São Paulo|93
 Rio Real|-11.485|-37.933|BR|Bahia|92
 Río Blanco|18.830|-97.156|MX|Veracruz|92
@@ -45,8 +45,8 @@ Río Guayabal de Yateras|20.367|-75.017|CU|Guantánamo Province|88
 Rioja|-6.057|-77.167|PE|San Martín Department|88
 Rio Tinto|-6.803|-35.081|BR|Paraíba|88
 Río Cauto|20.560|-76.917|CU|Granma Province|88
-Río Chico|10.319|-65.978|VE|Miranda|87
 Río San Juan Department|11.333|-84.583|NI||87|r
+Río Chico|10.319|-65.978|VE|Miranda|87
 Río Segundo|-31.650|-63.912|AR|Cordoba|87
 Rio Formoso|-8.669|-35.163|BR|Pernambuco|86
 Río Grande|19.667|-70.767|DO|Puerto Plata|86
@@ -100,9 +100,11 @@ Río Viejo|8.589|-73.840|CO|Bolívar|78
 Rio do Oeste|-27.192|-49.797|BR|Santa Catarina|78
 Río Bravo|14.400|-91.317|GT|Suchitepeque|78
 Riosucio|7.443|-77.120|CO|Chocó|77
+Rio Verde Airport|-17.835|-50.956|BR|Goiás|77|f
 Río Viejo Primera Sección|17.939|-92.980|MX|Tabasco|77
 Río Turbio|-51.536|-72.337|AR|Santa Cruz|76
 Rio do Campo|-26.949|-50.141|BR|Santa Catarina|76
+Rio de Janeiro–Galeão International Airport|-22.799|-43.231|BR|Rio de Janeiro|76|f
 Rio das Antas|-26.899|-51.074|BR|Santa Catarina|76
 Río Hondo|15.045|-89.585|GT|Zacapa|76
 Rio Grande do Piauí|-7.776|-43.135|BR|Piauí|75
@@ -132,12 +134,15 @@ Río Lindo|15.046|-87.986|HN|Cortés Department|71
 Rio Crespo|-9.705|-62.900|BR|Rondônia|71
 Rio Dell|40.499|-124.106|US|California|71
 Rio Bom|-23.762|-51.411|BR|Paraná|70
+Río Colorado Airport|-38.995|-64.140|AR|Rio Negro|70|f
 Río Mayo|-45.686|-70.257|AR|Chubut|69
 Riom-ès-Montagnes|45.282|2.660|FR|Auvergne-Rhône-Alpes|69
 Río Medio [Granja]|19.210|-96.209|MX|Veracruz|69
 Rio dos Índios|-27.300|-52.841|BR|Rio Grande do Sul|69
 Rio dos Bois|-9.345|-48.535|BR|Tocantins|69
 Ríogordo|36.917|-4.293|ES|Andalusia|69
+Río Bravo Airport|-47.990|-73.144|CL|Aysén|69|f
+Río Claro Airport|-35.186|-71.296|CL|Maule Region|69|f
 Rio Mau|41.404|-8.680|PT|Porto|69
 Rio Grande|39.015|-74.882|US|New Jersey|69
 Rio Tavares|-27.645|-48.475|BR|Santa Catarina|68
@@ -158,6 +163,7 @@ Riola Sardo|39.994|8.541|IT|Sardinia|66
 Río Grande|20.344|-102.006|MX|Michoacán|66
 Río Chiquito|17.620|-95.937|MX|Oaxaca|66
 Río Piedras|-25.314|-64.910|AR|Salta|66
+Rio–Antirrio Bridge|38.321|21.773|GR|West Greece|65|f
 Rio da Conceição|-11.400|-46.883|BR|Tocantins|65
 Rio Verde|33.723|-111.676|US|Arizona|65
 Riola|39.200|-0.333|ES|Valencia|65
@@ -165,6 +171,8 @@ Ríotorto|43.343|-7.261|ES|Galicia|65
 Rioz|47.425|6.066|FR|Bourgogne-Franche-Comté|64
 Rions|44.664|-0.352|FR|New Aquitaine|64
 Riópar|38.500|-2.450|ES|Castille-La Mancha|64
+Río Dulce Airport|15.669|-88.962|GT|Izabal Department|63|f
+Rio Grande Airport|-32.082|-52.163|BR|Rio Grande do Sul|63|f
 Rio de la Soledad|20.115|-98.712|MX|Hidalgo|63
 Río Blanco|16.205|-91.634|MX|Chiapas|63
 Rio Salso-Case Bernardi|43.834|12.690|IT|The Marches|63
@@ -190,6 +198,8 @@ Rio di Pusteria|46.797|11.668|IT|Trentino-Alto Adige|61
 Río Seco 2da. Sección (Santiaguito)|18.137|-93.276|MX|Tabasco|61
 Riol|49.793|6.792|DE|Rheinland-Pfalz|61
 Río Verde|24.901|-99.544|MX|Nuevo León|61
+Rio Grande Dam|37.721|-107.267|US|Colorado|61|f
+Rio Grande Pyramid|37.680|-107.393|US|Colorado|61|f
 Río Campo|2.338|9.822|GQ|Litoral|61
 Río Grande|8.432|-80.487|PA|Coclé|61
 Riomaggiore|44.100|9.739|IT|Liguria|61
@@ -197,14 +207,73 @@ Río de Jesús|7.984|-81.161|PA|Veraguas Province|61
 Río Bonito|14.767|-87.883|HN|Comayagua Department|60
 Rio|43.448|-89.240|US|Wisconsin|60
 Ríofrío de Aliste|41.817|-6.177|ES|Castille and León|60
+Río Amarillo|14.967|-89.133|HN|Copán Department|60
+Río Viejo|22.393|-105.535|MX|Nayarit|60
+Rio|27.219|-80.239|US|Florida|60
+Río Santiago|17.254|-100.317|MX|Guerrero|60
+Río Guerrero|15.584|-92.156|MX|Chiapas|59
+Rio Vista|32.233|-97.374|US|Texas|59
 Río Congo|8.967|-79.760|PA|Panamá Oeste Province|59
+Riola|44.230|11.057|IT|Emilia-Romagna|59
+Río Grande|17.264|-92.417|MX|Chiapas|59
 Rionero Sannitico|41.712|14.139|IT|Molise|59
+Rio San Martino|45.592|12.112|IT|Veneto|59
+Río Seco 1ra. Sección|18.109|-93.313|MX|Tabasco|59
+Rio Grande|38.880|-82.380|US|Ohio|59
+Río Grande|16.279|-92.124|MX|Chiapas|58
 Río Blanco|15.038|-91.685|GT|San Marcos|58
+Rioux|45.637|-0.711|FR|New Aquitaine|58
+Río Chari Alto|-11.089|-74.652|PE|Junin|58
+Río Iguapa|16.972|-98.557|MX|Guerrero|58
+Rio Grande Valley International Airport|26.229|-97.654|US|Texas|58|f
+Río Turbio Airport|-51.606|-72.218|AR|Santa Cruz|58|f
+Río Florido|14.855|-92.341|MX|Chiapas|58
+Río Santiago|18.123|-96.760|MX|Oaxaca|58
 Rio nell'Elba|42.812|10.401|IT|Tuscany|58
+Río Frío (Río Frío Yebuciví)|19.511|-99.929|MX|México|58
+Riols|43.506|2.793|FR|Occitanie|58
+Rioveggio|44.274|11.199|IT|Emilia-Romagna|58
+Río Seco 2da. Sección C|18.084|-93.376|MX|Tabasco|57
 Riofreddo|42.059|12.997|IT|Lazio|57
+Río Lodo|18.297|-96.682|MX|Oaxaca|57
+Río Hondito|19.289|-99.438|MX|México|57
+Riomurtas|39.180|8.706|IT|Sardinia|57
+Río de Tuxtla|18.282|-95.317|MX|Veracruz|57
+Río Florido (Las Ánimas)|18.383|-100.702|MX|Guerrero|57
+Río Negro|17.334|-93.101|MX|Chiapas|57
+Río Sapo|18.272|-96.719|MX|Oaxaca|57
+Río Encajonado|17.042|-98.315|MX|Guerrero|57
+Río Seco|15.936|-95.752|MX|Oaxaca|56
+Río Seco 3ra. Sección (La Playita)|18.164|-93.259|MX|Tabasco|56
+Río Grande el Grijalva|15.850|-92.011|MX|Chiapas|56
+Río Moreno|18.677|-96.647|MX|Veracruz|56
+Río de Parras (Otzumatlán)|19.774|-100.866|MX|Michoacán|56
+Río Frío|22.924|-102.804|MX|Zacatecas|55
+Río Marabasco|19.229|-104.529|MX|Colima|55
+Río Escondido (La Loma)|23.887|-104.616|MX|Durango|55
+Río Vasco|19.763|-97.120|MX|Veracruz|55
+Río Seco|-10.910|-75.293|PE|Junin|55
+Río Arriba Salvación|15.147|-92.701|MX|Chiapas|54
+Río Humo|16.723|-97.240|MX|Oaxaca|54
+Río Tulija|17.297|-92.046|MX|Chiapas|54
+Rio Branco|-9.869|-67.894|BR|Acre|54|f
+Rio de Janeiro Botanical Garden|-22.967|-43.225|BR|Rio de Janeiro|54|f
+Rio Grande Nature Center State Park|35.131|-106.679|US|New Mexico|54|f
+Rio Mayo Airport|-45.704|-70.246|AR|Chubut|54|f
+Rio Planato Biosphere Reserve|15.744|-84.675|HN|Gracias a Dios Department|54|f
+Río Metates|17.121|-97.985|MX|Oaxaca|54
+Río Corozal|16.492|-91.590|MX|Chiapas|54
 Riolunato|44.231|10.653|IT|Emilia-Romagna|52
 Río Blanco|-13.435|-73.822|PE|Apurímac Department|50
+Río Mayer Airport|-48.470|-72.564|CL|Aysén|49|f
 Riodeva|40.117|-1.150|ES|Aragon|46
+Rio Abiseo National Park|-7.682|-77.287|PE|San Martín Department|40|f
+Rio Acre Ecological Station|-10.912|-70.284|BR|Acre|40|f
+Río Azul|17.779|-89.280|GT|Petén|40|f
+Rio de Los Angeles State Park|34.100|-118.236|US|California|40|f
+Rio Grande Gorge Bridge|36.476|-105.733|US|New Mexico|40|f
+Rio Grande Zoological Park|35.079|-106.663|US|New Mexico|40|f
+Rio Vista Bridge|38.158|-121.682|US|California|40|f
 Río Hondo|7.714|-80.357|PA|Los Santos Province|38
 Riocavado de la Sierra|42.152|-3.198|ES|Castille and León|37
 Río Grande|7.719|-81.334|PA|Veraguas Province|37

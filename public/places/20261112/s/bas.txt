@@ -4,7 +4,7 @@ Basra|30.417|47.417|IQ||128|r
 Basque Country|43.000|-2.750|ES||126|r
 Bas-Congo|-5.333|14.333|CD||123|r
 Basrah|30.509|47.780|IQ|Basra|122
-Basilicate|40.504|16.114|IT||113|r
+Basilicate|40.504|16.114|IT||114|r
 Basuo|19.103|108.666|CN|Hainan|113
 Basel-Landschaft|47.504|7.704|CH||108|r
 Başakşehir|41.106|28.791|TR|Istanbul|106
@@ -42,6 +42,7 @@ Basi|30.689|76.401|IN|Punjab|86
 Bashanet|-4.233|35.417|TZ|Manyara|86
 Bastia umbra|43.064|12.546|IT|Umbria|85
 Basukinath|24.394|87.086|IN|Jharkhand|85
+Basel Zoo|47.547|7.578|CH|Basel-City|84|f
 Bassum|52.851|8.728|DE|Lower Saxony|84
 Basford|52.967|-1.183|GB|England|84
 Baskil|38.569|38.816|TR|Elazığ|84
@@ -68,30 +69,38 @@ Bastak|27.199|54.367|IR|Hormozgan|80
 Basma|32.529|35.101|IL|Haifa|80
 Bashmakovo|53.213|43.034|RU|Penza Oblast|80
 Basco|20.449|121.970|PH|Cagayan Valley|80
+Basankusu Airport|1.225|19.789|CD|Équateur|79|f
+Basco Airport|20.451|121.980|PH|Cagayan Valley|79|f
 Bascov|44.900|24.817|RO|Arges|79
 Basţām|36.485|55.000|IR|Semnan|79
 Başmakçı|37.897|30.012|TR|Afyonkarahisar Province|79
+Basilica of Maxentius|41.892|13.488|IT|Lazio|78|f
+Basketball Arena|51.549|-0.014|GB|England|78|f
 Basmat Ṭab‘ūn|32.739|35.157|IL|Northern District|78
 Bastrop|30.110|-97.315|US|Texas|78
 Basse-Goulaine|47.215|-1.466|FR|Pays de la Loire|78
 Bassenge|50.759|5.610|BE|Wallonia|78
 Bāshettihalli|13.262|77.554|IN|Karnataka|78
 Basey|11.282|125.070|PH|Eastern Visayas|78
+Basongo Airport|-4.317|20.433|CD|Kasai|78|f
 Bassens|44.904|-0.517|FR|New Aquitaine|78
 Başçiftlik|40.547|37.169|TR|Tokat Province|77
 Basiglio|45.359|9.159|IT|Lombardy|77
 Basford, Stoke-on-Trent|53.016|-2.212|GB|England|77
 Başverimli|37.203|42.538|TR|Şırnak|77
 Bassersdorf|47.443|8.629|CH|Zurich|77
+Basiluzzo|38.664|15.114|IT|Sicily|76|f
 Basiawan|6.534|125.487|PH|Davao Region|76
 Bassadzin|5.937|-3.738|CI|Lagunes District|76
 Başyayla|36.753|32.680|TR|Karaman|75
 Bashohli|32.500|75.816|IN|Jammu and Kashmir|75
 Basse-Nendaz|46.190|7.312|CH|Valais|75
 Basehor|39.142|-94.939|US|Kansas|75
+Basse-Terre|16.149|-61.678|GP|Guadeloupe|74|f
 Basud|14.065|122.964|PH|Bicol Region|74
 Båstad|56.427|12.853|SE|Skåne|74
 Basiliano|46.014|13.070|IT|Friuli Venezia Giulia|74
+Bastien Range|-78.833|-86.000|AQ||73|f
 Bascharage|49.567|5.907|LU|Capellen|73
 Basay|9.409|122.640|PH|Central Visayas|73
 Bāsār|27.990|94.695|IN|Arunachal Pradesh|73
@@ -115,6 +124,8 @@ Bassecourt|47.338|7.244|CH|Jura|70
 Bassevelde|51.231|3.678|BE|Flanders|70
 Bascaron|13.103|123.700|PH|Bicol Region|70
 Basantpur|27.335|80.816|IN|Uttar Pradesh|70
+Bashundhara Kings Arena|23.824|90.470|BD|Dhaka Division|70|f
+Basòdino|46.412|8.468|CH|Ticino|70|f
 Bassaraguhé|6.673|-6.848|CI|Sassandra-Marahoue|70
 Bašť|50.205|14.477|CZ|Central Bohemia|70
 Basséhoa|6.126|-6.240|CI|Goh-Djiboua|70
@@ -125,6 +136,9 @@ Basiad|14.156|122.337|PH|Bicol Region|69
 Basag|8.925|125.622|PH|Caraga|69
 Bassenheim|50.358|7.460|DE|Rheinland-Pfalz|69
 Basista|15.852|120.398|PH|Ilocos|69
+Basilica Julia|41.892|12.485|IT|Lazio|69|f
+Bass Islands|41.683|-82.812|US|Ohio|69|f
+Bastia - Poretta Airport|42.553|9.484|FR|Corsica|69|f
 Bastheim|50.401|10.204|DE|Bavaria|69
 Basicao Coastal|13.046|123.404|PH|Bicol Region|69
 Basawa|8.052|-4.103|CI|Vallée du Bandama District|68
@@ -137,6 +151,12 @@ Basing|15.985|120.268|PH|Ilocos|67
 Basilicanova|44.698|10.352|IT|Emilia-Romagna|67
 Basa|8.072|126.064|PH|Caraga|67
 Bashman|37.490|49.380|IR|Gilan Province|67
+Basilica Aemilia|41.893|12.486|IT|Lazio|67|f
+Basra International Airport|30.552|47.664|IQ|Basra|67|f
+Bass Strait|-39.818|146.065|AU||67|f
+Bassas da India|-21.478|39.680|TF|Îles Éparses|67|f
+Bassenthwaite Lake|54.650|-3.217|GB|England|67|f
+Bassikia Bay|39.890|26.149|TR|Canakkale|67|f
 Bassilly|50.676|3.934|BE|Wallonia|67
 Basud|12.989|123.950|PH|Bicol Region|67
 Bassano Bresciano|45.328|10.129|IT|Lombardy|67
@@ -152,6 +172,9 @@ Bas-Vully|46.962|7.113|CH|Fribourg|66
 Basse-Ham|49.386|6.242|FR|Grand Est|66
 Basaluzzo|44.769|8.705|IT|Piedmont|66
 Bassillac|45.191|0.813|FR|New Aquitaine|65
+Basalt Island|22.315|114.366|HK||65|f
+Bassin de Saint-Ferréol|43.437|2.029|FR|Occitanie|65|f
+Bastianøyane|79.023|21.335|SJ||65|f
 Bâscenii de Jos|45.247|26.321|RO|Buzău County|65
 Basile|30.485|-92.596|US|Louisiana|65
 Bastia|45.386|11.652|IT|Veneto|65
@@ -168,6 +191,7 @@ Băseşti|47.483|23.150|RO|Maramureş|64
 Basdahl|53.445|9.000|DE|Lower Saxony|64
 Basgal|40.755|48.391|AZ|Ismayilli District|64
 Basin View|-35.088|150.555|AU|New South Wales|64
+Bastion Peak|43.206|-109.665|US|Wyoming|63|f
 Bas-Warneton|50.759|2.960|BE|Wallonia|63
 Basúchil|28.522|-107.401|MX|Chihuahua|63
 Baston|52.713|-0.352|GB|England|63
@@ -193,6 +217,12 @@ Basen|40.758|43.993|AM|Shirak|61
 Baslow|53.248|-1.622|GB|England|61
 Başaran|37.862|28.544|TR|Aydın|61
 Bastorf|54.125|11.697|DE|Mecklenburg-Vorpommern|61
+Bashkirskiy Zapovednik|53.333|57.917|RU|Bashkortostan Republic|61|f
+Basilan|6.577|122.016|PH|Autonomous Region in Muslim Mindanao|61|f
+Basin Mountain|44.121|-73.886|US|New York|61|f
+Basket Dome|37.764|-119.551|US|California|61|f
+Bass Lake Dam|35.642|-78.803|US|North Carolina|61|f
+Bastøy|59.371|10.531|NO|Vestfold|61|f
 Basilicagoiano|44.705|10.405|IT|Emilia-Romagna|61
 Bassett|36.759|-79.990|US|Virginia|61
 Bastan|51.859|79.474|RU|Altai Krai|61
@@ -202,29 +232,127 @@ Basivka|49.783|23.917|UA|Lviv|60
 Basra|32.366|72.698|PK|Punjab|60
 Bassano in Teverina|42.464|12.308|IT|Lazio|60
 Bâscenii de Sus|45.267|26.271|RO|Buzău County|60
+Basti Aukharvand|30.773|70.858|PK|Punjab|60
 Bastida Pancarana|45.086|9.085|IT|Lombardy|60
+Basella|45.614|9.729|IT|Lombardy|60
+Bastia|44.058|8.172|IT|Liguria|60
+Başak|37.141|40.398|TR|Mardin|60
+Bascons|43.822|-0.419|FR|New Aquitaine|60
 Baschi|42.673|12.218|IT|Umbria|59
+Bashtanivka|45.765|29.479|UA|Odesa|59
 Bassiano|41.552|13.027|IT|Lazio|59
 Baška|44.970|14.753|HR|Primorje-Gorski Kotar|59
 Bàscara|42.160|2.910|ES|Catalonia|59
+Başalan|37.525|28.408|TR|Aydın|59
+Basse-sur-le-Rupt|47.986|6.757|FR|Grand Est|59
+Basedow|53.698|12.681|DE|Mecklenburg-Vorpommern|58
+Bashnya Burana|42.746|75.250|KG|Chuy Region|58|f
+Basin Mountain|37.297|-118.659|US|California|58|f
+Bassetts Island|41.680|-70.637|US|Massachusetts|58|f
+Basswood Island|46.857|-90.738|US|Wisconsin|58|f
+Bastei, Mount|-71.333|13.500|AQ||58|f
+Bastion Range|50.200|-122.569|CA|British Columbia|58|f
+Bassou|47.924|3.514|FR|Bourgogne-Franche-Comté|58
+Başköy|37.058|30.664|TR|Antalya|58
 Bastimentos|9.349|-82.211|PA|Bocas del Toro Province|57
+Başören|38.465|30.431|TR|Afyonkarahisar Province|57
+Basso|10.482|-6.266|CI|Savanes District|57
+Bassa|43.723|10.873|IT|Tuscany|57
+Bassa-Yébouessou|6.766|-4.758|CI|Lacs District|57
 Basciano|42.596|13.736|IT|Abruzzo|57
+Basly|49.279|-0.423|FR|Normandy|57
+Basedow|53.417|10.588|DE|Schleswig-Holstein|57
+Băsăști|46.625|26.602|RO|Bacău County|57
+Bașta|46.865|26.913|RO|Neamț County|57
+Bašino Selo|41.748|21.760|MK|Veles|57
+Bassampounou|7.829|-3.334|CI|Zanzan District|56
+Basovizza|45.642|13.863|IT|Friuli Venezia Giulia|56
+Bäsna|60.533|15.200|SE|Dalarna|56
+Bashequen|16.885|-92.610|MX|Chiapas|56
+Basivka|51.186|35.088|UA|Sumy|56
+Bastendorf|49.892|6.165|LU|Vianden|56
+Başhan|37.699|40.913|TR|Diyarbakır Province|56
+Basiasco|45.265|9.590|IT|Lombardy|56
+Basciano|41.703|13.376|IT|Lazio|56
 Basicò|38.061|15.063|IT|Sicily|55
+Başyurt|37.428|41.643|TR|Mardin|55
+Başdeğirmen|38.132|41.193|TR|Diyarbakır Province|55
 Bassett|42.586|-99.538|US|Nebraska|55
+Baslieux|49.434|5.759|FR|Grand Est|55
+Bastelica|42.003|9.054|FR|Corsica|55
+Baştepe|38.446|30.129|TR|Afyonkarahisar Province|55
+Bass Lake|37.325|-119.566|US|California|54
+Basaan Island|10.220|124.324|PH|Central Visayas|54|f
+Basango Mboliasa Airport|-1.435|19.024|CD|Mai-Ndombe|54|f
+Bashshīt|31.817|34.750|IL|Central District|54|f
+Basiao Island|11.686|124.903|PH|Eastern Visayas|54|f
+Basilaki Island|-10.614|150.985|PG|Milne Bay Province|54|f
+Basin Arcarchon|44.735|-1.120|FR|New Aquitaine|54|f
+Basisfjellet|80.404|19.512|SJ||54|f
+Bass Rock|42.418|-70.916|US|Massachusetts|54|f
+Bassøefjellet|77.705|16.053|SJ|Svalbard|54|f
+Bästeträsk|57.899|18.928|SE|Gotland|54|f
+Bashtyne|48.208|33.184|UA|Kirovohrad|54
+Basthorst|53.577|10.474|DE|Schleswig-Holstein|52
 Basconcillos del Tozo|42.702|-3.989|ES|Castille and León|51
 Bastia Mondovì|44.442|7.894|IT|Piedmont|50
+Basant Kot|31.915|75.079|IN|Punjab|49|f
+Bascombe Well Conservation Park|-33.677|135.487|AU|South Australia|49|f
+Basilan Strait|6.813|122.024|PH|Zamboanga Peninsula|49|f
+Basilica Mountain|52.800|-118.336|CA|Alberta|49|f
+Basilica Peak|-70.033|159.333|AQ||49|f
+Basilisk Peak|-59.417|-27.083|GS||49|f
+Basin Bridge|13.104|80.273|IN|Tamil Nadu|49|f
+Basingwerk Abbey|53.288|-3.208|GB|Wales|49|f
+Basra|34.800|-5.867|MA|Rabat-Salé-Kénitra|49|f
+Bass Pyramid|-39.820|147.240|AU|Tasmania|49|f
+Bassin de Lampy|43.401|2.173|FR|Occitanie|49|f
+Bastion, Mount|-77.317|160.483|AQ||49|f
 Bastida de' Dossi|45.040|8.922|IT|Lombardy|46
 Báscones de Ojeda|42.671|-4.527|ES|Castille and León|46
 Basardilla|41.027|-4.026|ES|Castille and León|45
+Basalt Lake|-62.643|-61.059|AQ||40|f
+Bascom Hill|43.075|-89.402|US|Wisconsin|40|f
+Bashful Peak|61.308|-148.868|US|Alaska|40|f
+Basic Creek Reservoir|42.484|-74.016|US|New York|40|f
+Basilica Cistern|41.008|28.978|TR|Istanbul|40|f
+Basílica de Nuestra Señora del Pilar|41.657|-0.879|ES|Aragon|40|f
+Basilone Bridge|40.488|-74.397|US|New Jersey|40|f
+Basing House|51.269|-1.050|GB|England|40|f
+Baskahegan Lake|45.508|-67.828|US|Maine|40|f
+Basket Lake|27.529|-81.444|US|Florida|40|f
+Basket Pond|41.922|-75.092|US|New York|40|f
+Baskett Slough National Wildlife Refuge|44.966|-123.258|US|Oregon|40|f
+Basler Lake|63.950|-115.968|CA|Northwest Territories|40|f
+Basra Sports City|30.441|47.779|IQ|Basra|40|f
+Bass Island Brownstone Company Quarry|46.832|-90.756|US|Wisconsin|40|f
+Bass Lake|46.722|-80.950|CA|Ontario|40|f
+Bass Lake|46.123|-79.799|CA|Ontario|40|f
+Bass Lake|45.947|-91.632|US|Wisconsin|40|f
+Bass Ledge|41.333|-70.358|US|Massachusetts|40|f
+Bass Museum of Art|25.797|-80.130|US|Florida|40|f
+Bass Rock|42.698|-70.784|US|Massachusetts|40|f
+Bastile Glacier|48.807|-121.832|US|Washington|40|f
+Bastille Peak|66.759|-65.086|CA|Nunavut|40|f
+Bastion Peak|52.708|-118.352|CA|British Columbia|40|f
+Bastion Road|53.340|-3.408|GB|Wales|40|f
+Basberg|50.300|6.600|DE|Rheinland-Pfalz|37
 Bascuñana|42.425|-3.082|ES|Castille and León|36
 Bascuñana de San Pedro|40.213|-2.228|ES|Castille-La Mancha|31
 Basa|-8.474|115.168|ID|Bali|0
+Basan|-9.481|124.374|ID|East Nusa Tenggara|0
+Basar|33.733|100.600|CN|Qinghai|0
 Basarang|-2.964|114.299|ID|Central Kalimantan|0
+Basarani|-8.399|123.046|ID|East Nusa Tenggara|0
 Basedth|11.149|104.536|KH|Kampong Speu Province|0
+Basen|-6.961|112.876|ID|East Java|0
 Baserah|-0.446|101.744|ID|Riau|0
+Bashan|30.315|107.732|CN|Chongqing|0
+Bashisihu|44.445|84.713|CN|Heilongjiang|0
 Bashtechky|49.244|30.320|UA|Cherkasy|0
 Basilisa|10.000|125.500|PH|Caraga|0
 Basiong|0.773|127.375|ID|North Maluku|0
+Basira Satu|-8.079|122.851|ID|East Nusa Tenggara|0
 Başköy|39.872|39.842|TR|Erzincan|0
 Baso|-0.281|100.454|ID|West Sumatra|0
 Başpınar|39.190|38.687|TR|Erzincan|0

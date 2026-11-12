@@ -7,6 +7,7 @@ Huejotzingo|19.159|-98.408|MX|Puebla|88
 Huetamo de Núñez|18.626|-100.900|MX|Michoacán|87
 Huercal-Overa|37.389|-1.943|ES|Andalusia|85
 Hueytown|33.451|-86.997|US|Alabama|84
+Huesca-Pirineos Airport|42.081|-0.323|ES|Aragon|84|f
 Huércal de Almería|36.885|-2.438|ES|Andalusia|83
 Huehuetoca|19.828|-99.204|MX|México|82
 Huétor Vega|37.145|-3.570|ES|Andalusia|81
@@ -33,6 +34,7 @@ Huehuetla|20.461|-98.077|MX|Hidalgo|69
 Huesa|37.764|-3.076|ES|Andalusia|68
 Hueytepec|20.327|-97.027|MX|Veracruz|68
 Huelo|20.905|-156.225|US|Hawaii|67
+Huerfano Mountain|36.426|-107.845|US|New Mexico|67|f
 Huete|40.145|-2.690|ES|Castille-La Mancha|66
 Hueytlalpan|20.027|-97.697|MX|Puebla|66
 Huehuetán|16.636|-98.559|MX|Guerrero|66
@@ -46,6 +48,7 @@ Huerta de Valdecarábanos|39.863|-3.613|ES|Castille-La Mancha|65
 Huétor Santillán|37.221|-3.516|ES|Andalusia|65
 Hueyitlalpan|17.675|-99.296|MX|Guerrero|64
 Hueyapa|21.085|-98.689|MX|Hidalgo|63
+Huerfano Butte|37.754|-104.827|US|Colorado|63|f
 Huepaco|25.984|-108.861|MX|Sinaloa|63
 Huéneja|37.177|-2.950|ES|Andalusia|62
 Huerta del Rey|41.839|-3.348|ES|Castille and León|62
@@ -53,12 +56,33 @@ Huemetla|19.715|-99.736|MX|México|62
 Huejotitán|20.354|-103.489|MX|Jalisco|61
 Huepalcalco (San Miguel)|18.909|-98.750|MX|Morelos|61
 Huexotitla|20.769|-98.089|MX|Veracruz|61
+Huejotengo (San Marcos)|18.899|-98.754|MX|Morelos|60
+Huexca|18.805|-98.869|MX|Morelos|60
+Hueycuatitla|20.867|-98.175|MX|Veracruz|60
+Huejotitlán|21.391|-102.637|MX|Jalisco|59
+Hueytentan|19.880|-97.823|MX|Puebla|59
+Huexoapa (San Juan Huexoapa)|17.250|-98.414|MX|Guerrero|59
+Hueyapita|20.071|-98.242|MX|Hidalgo|59
 Huércanos|42.428|-2.696|ES|La Rioja|59
+Huehueymico|19.841|-97.332|MX|Puebla|59
+Huest|49.039|1.205|FR|Normandy|59
+Huecorio|19.538|-101.633|MX|Michoacán|58
+Hueco Mountains|31.953|-106.019|US|Texas|58|f
+Huevos Island|10.696|-61.715|TT|Diego Martin Regional Corporation|58|f
+Huertas la Joya [Fraccionamiento Campestre]|20.623|-100.502|MX|Querétaro|58
+Huecato|19.750|-102.142|MX|Michoacán|58
+Huerta Vieja|17.680|-99.944|MX|Guerrero|57
+Hueyatenco|18.887|-99.968|MX|México|57
 Huépac|29.913|-110.212|MX|Sonora|57
 Huertas|-11.760|-75.469|PE|Junin|57
+Huehuetlán Segunda Sección|18.194|-96.944|MX|Oaxaca|56
+Hueso de Puerco|17.789|-92.896|MX|Tabasco|56
 Huehuetlán|21.546|-98.968|MX|San Luis Potosí|55
 Huécija|36.968|-2.609|ES|Andalusia|55
+Huehuetepec|17.268|-98.591|MX|Guerrero|55
 Huecas|40.012|-4.195|ES|Castille-La Mancha|54
+Hueynali|21.148|-98.456|MX|Hidalgo|54
+Huehuetecpan|19.320|-97.001|MX|Puebla|54
 Huélago|37.420|-3.262|ES|Andalusia|53
 Huerto|41.931|-0.167|ES|Aragon|48
 Huejotitán|27.056|-106.178|MX|Chihuahua|48
@@ -70,9 +94,16 @@ Hueva|40.462|-2.960|ES|Castille-La Mancha|43
 Huérmeces|42.523|-3.771|ES|Castille and León|42
 Huélamo|40.277|-1.810|ES|Castille-La Mancha|42
 Huesa del Común|41.011|-0.919|ES|Aragon|41
+Hue University|16.458|107.580|VN|Thừa Thiên Huế Province|40|f
+Hueneme Glacier|-85.817|-131.250|AQ||40|f
+Huerfano Butte|31.859|-110.833|US|Arizona|40|f
+Huerquehue National Park|-39.139|-71.666|CL|Araucania|40|f
+Hueston Woods State Park|39.573|-84.741|US|Ohio|40|f
 Huérguina|40.033|-1.600|ES|Castille-La Mancha|39
 Huertahernando|40.823|-2.287|ES|Castille-La Mancha|36
 Huelves|40.043|-2.884|ES|Castille-La Mancha|35
 Huérmeces del Cerro|41.053|-2.797|ES|Castille-La Mancha|34
+Hueknutu|-9.858|124.022|ID|East Nusa Tenggara|0
+Huelkail|-9.624|124.002|ID|East Nusa Tenggara|0
 Huerta|40.968|-5.468|ES|Castille and León|0
 Huertas|-3.607|-79.632|EC|El Oro|0

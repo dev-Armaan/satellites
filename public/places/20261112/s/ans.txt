@@ -10,6 +10,7 @@ Anshing|20.041|77.315|IN|Maharashtra|86
 Ansonia|41.346|-73.079|US|Connecticut|86
 Ansfelden|48.210|14.290|AT|Upper Austria|85
 Ansermanuevo|4.797|-75.995|CO|Valle del Cauca Department|82
+Anshun Airport|26.259|105.873|CN|Beijing|80|f
 Ansheng|30.690|107.721|CN|Chongqing|79
 Anse à Galets|18.834|-72.866|HT|Ouest|77
 Anstey|52.674|-1.188|GB|England|76
@@ -20,6 +21,7 @@ Anse|45.936|4.719|FR|Auvergne-Rhône-Alpes|74
 Anse aux Pins|-4.686|55.522|SC|Anse-aux-Pins|73
 Anse Rouge|19.634|-73.055|HT|Artibonite|73
 Anse Boileau|-4.717|55.483|SC|Anse Boileau|72
+Ansongo Airport|15.701|0.499|ML|Gao|72|f
 Anse Royale|-4.733|55.517|SC|Anse Royale|72
 Anse-Vata|-22.300|166.443|NC|South Province|71
 Anstruther|56.223|-2.703|GB|Scotland|71
@@ -30,6 +32,8 @@ Ans|56.307|9.593|DK|Central Jutland|66
 Anse-à-Pitre|18.050|-71.750|HT|Sud-Est|65
 Anse-à-Veau|18.501|-73.345|HT|Grand'Anse|65
 Anse Ger|13.798|-60.916|LC|Micoud|63
+Anshan Teng'ao Airport|41.105|122.854|CN|Liaoning|63|f
+Anson County Airport|35.024|-80.079|US|North Carolina|63|f
 Ansted|38.136|-81.100|US|West Virginia|63
 Anselfingen|47.845|8.764|DE|Baden-Wurttemberg|63
 Ansião|39.912|-8.436|PT|Leiria|63
@@ -37,12 +41,35 @@ Anse La Raye|13.946|-61.039|LC|Anse-la-Raye|62
 Anstaing|50.605|3.191|FR|Hauts-de-France|62
 Ansihuacuaro|20.201|-101.806|MX|Michoacán|61
 Ansonia|40.214|-84.637|US|Ohio|61
+Ansan|38.143|128.325|KR|Gangwon-do|61|f
 Ansouis|43.738|5.464|FR|Provence-Alpes-Côte d'Azur|61
 Ansauvillers|49.565|2.387|FR|Hauts-de-France|61
 Anseroeul|50.727|3.524|BE|Wallonia|61
+Ansac-sur-Vienne|45.994|0.646|FR|New Aquitaine|59
+An Socach|56.902|-3.513|GB|Scotland|58|f
+Anson|44.798|-69.889|US|Maine|58
+Ansonville|35.105|-80.109|US|North Carolina|55
+An Sgarsoch|56.932|-3.754|GB|Scotland|54|f
+Anse de Camaret|48.290|-4.583|FR|Brittany|54|f
+Anse de Suscinio|47.503|-2.725|FR|Brittany|54|f
+Anse Mamin|13.871|-61.080|LC|Soufrière|54|f
+Ansons Bay|-41.047|148.287|AU|Tasmania|54|f
+Anstey Castle|51.977|0.043|GB|England|54|f
 Ansó|42.758|-0.829|ES|Aragon|54
+Anschau|50.300|7.100|DE|Rheinland-Pfalz|49
+An Sgurr|56.884|-6.166|GB|Scotland|49|f
+Anser Island|-39.143|146.324|AU|Victoria|49|f
+Anstey Hill Recreation Park|-34.833|138.736|AU|South Australia|49|f
+Ansul Islands|45.119|-87.673|US|Wisconsin|49|f
+An Socach|57.350|-5.159|GB|Scotland|40|f
+An Stuc|56.560|-4.216|GB|Scotland|40|f
+Anson Engine Museum|53.350|-2.090|GB|England|40|f
+Anstey Range|51.250|-118.802|CA|British Columbia|40|f
+Anstruther Lake|44.743|-78.210|CA|Ontario|40|f
 Anse Etoile|-4.592|55.450|SC||0|r
 Anserma|5.234|-75.785|CO|Caldas Department|0
+Ansha|26.031|117.124|CN|Fujian|0
+Anshan|45.512|128.520|CN|Heilongjiang|0
 Ansty|51.036|-2.064|GB|England|0
 Ansu|39.017|115.651|CN|Hebei|0
 Ansus|-1.726|135.811|ID|Papua|0

@@ -26,6 +26,7 @@ Iriba|15.117|22.250|TD|Wadi Fira|94
 ‘Irbīn|33.537|36.366|SY|Rif-dimashq|93
 ‘Irqah|24.680|46.611|SA|Riyadh Region|93
 Irbit|57.669|63.071|RU|Sverdlovsk Oblast|92
+Irminger Sea|63.054|-34.041|||92|f
 Irvine|55.619|-4.655|GB|Scotland|91
 Iramallūr|10.062|76.572|IN|Kerala|91
 Irituia|-1.771|-47.438|BR|Pará|90
@@ -43,7 +44,10 @@ Iriona|15.968|-85.093|HN|Colón Department|87
 Irosin|12.700|124.032|PH|Bicol Region|86
 Iryango|-0.967|30.600|UG|Western Region|86
 Irlam|53.443|-2.423|GB|England|86
+Ireland West Airport Knock|53.910|-8.818|IE|Connacht|86|f
 Irivēri|11.856|75.474|IN|Kerala|85
+Iron Gate of the Danube|44.680|22.515|RS||84|f
+Írott-kő|47.353|16.434|AT|Burgenland|83|f
 Iracema|-5.812|-38.306|BR|Ceará|83
 Irikkūr|11.987|75.550|IN|Kerala|83
 Irupi|-20.345|-41.641|BR|Espírito Santo|83
@@ -52,6 +56,7 @@ Iringappuram|10.610|76.052|IN|Kerala|82
 Irmo|34.086|-81.183|US|South Carolina|82
 Ir-Rabat|35.883|14.398|MT||82|r
 Ironton|38.537|-82.683|US|Ohio|81
+Irondequoit Bay|43.207|-77.528|US|New York|80|f
 Irineópolis|-26.239|-50.800|BR|Santa Catarina|80
 Irino|33.017|133.000|JP|Kochi|80
 Irani|-27.025|-51.902|BR|Santa Catarina|80
@@ -64,6 +69,7 @@ Irigny|45.673|4.822|FR|Auvergne-Rhône-Alpes|79
 Iramaia|-13.286|-40.951|BR|Bahia|78
 Irymple|-34.235|142.171|AU|Victoria|78
 Irongmara|24.689|92.742|IN|Assam|78
+Iringa Airport|-7.669|35.752|TZ|Iringa|78|f
 Iron Mountain|45.820|-88.066|US|Michigan|78
 Irthlingborough|52.327|-0.611|GB|England|78
 Iraí|-27.194|-53.251|BR|Rio Grande do Sul|77
@@ -72,20 +78,27 @@ Iraí de Minas|-18.984|-47.461|BR|Minas Gerais|77
 Irapuru|-21.571|-51.345|BR|São Paulo|77
 Irapuã|-21.279|-49.409|BR|São Paulo|77
 Irvington|41.039|-73.868|US|New York|76
+Irisuna-jima|26.385|127.103|JP|Okinawa|76|f
 Irshansk|50.753|28.721|UA|Zhytomyr Oblast|76
 Irajuba|-13.251|-40.084|BR|Bahia|76
 Irobo|5.294|-4.796|CI|Lagunes District|76
 Irámuco|19.962|-100.924|MX|Guanajuato|75
+Iran Mountains|2.458|115.123|ID|East Kalimantan|75|f
+Irish Sea|53.667|-5.000|||75|f
 Ira|5.354|-4.659|CI|Lagunes District|75
 Irbā|23.455|85.440|IN|Jharkhand|74
 Ironwood|46.455|-90.171|US|Michigan|74
 Irsina|40.750|16.238|IT|Basilicate|74
 Irig|45.052|19.844|RS|Vojvodina|74
+Iranaitivu|9.286|79.989|LK|Northern Province|73|f
+Irkutsk Airport|52.268|104.389|RU|Irkutsk Oblast|73|f
 Irbeyskoye|55.650|95.462|RU|Krasnoyarsk Krai|73
 Iroquois Point|21.328|-157.983|US|Hawaii|73
 Irtyshskiy|58.333|68.133|RU|Tyumen Oblast|73
 Irchester|52.281|-0.645|GB|England|73
 Iroquois Falls|48.767|-80.683|CA|Ontario|73
+Iriomote Jima|24.333|123.833|JP|Okinawa|72|f
+Irrawaddy Delta|16.500|95.000|MM|Ayeyarwady|72|f
 Irahuan|9.808|118.692|PH|Mimaropa|72
 Irgakly|44.361|44.756|RU|Stavropol Kray|72
 Iraceminha|-26.823|-53.274|BR|Santa Catarina|72
@@ -94,8 +107,11 @@ Irirum|12.616|120.931|PH|Mimaropa|72
 Iriéfla|7.686|-5.850|CI|Sassandra-Marahoue|72
 Irwin|40.325|-79.701|US|Pennsylvania|72
 Irákleia|41.182|23.282|GR|Central Macedonia|72
+Iron Tower|50.001|8.275|DE|Rheinland-Pfalz|71|f
 Iratéké|4.708|-7.259|CI|Bas-Sassandra District|70
 Irtyshskiy|54.814|73.587|RU|Omsk Oblast|70
+Irish Hills|35.238|-120.780|US|California|70|f
+Irta’ālē Isate Gemora YeFelek’ebet Gudgwad|13.607|40.662|ET|Āfar|70|f
 Irschenberg|47.833|11.917|DE|Bavaria|70
 Irkliyevskaya|45.856|39.654|RU|Krasnodar Krai|70
 Irimbo|19.700|-100.479|MX|Michoacán|70
@@ -117,6 +133,10 @@ Irganay|42.647|46.912|RU|Dagestan|67
 Iratoşu|46.317|21.200|RO|Arad County|67
 Irgoli|40.410|9.631|IT|Sardinia|67
 Irchwitz|50.646|12.218|DE|Thuringia|67
+Irabu-jima|24.834|125.189|JP||67|f
+Iranshahr Airport|27.238|60.720|IR|Sistan and Baluchestan|67|f
+Irao Island|18.984|121.217|PH|Cagayan Valley|67|f
+Irazú Volcano|9.982|-83.850|CR|Cartago Province|67|f
 Iribafla|6.730|-6.118|CI|Sassandra-Marahoue|67
 Irzniq|42.520|20.347|XK|Gjakova|67
 Irasan|8.526|123.206|PH|Zamboanga Peninsula|67
@@ -126,6 +146,8 @@ Irati|-26.656|-52.892|BR|Santa Catarina|66
 Irindékoro|9.463|-4.625|CI|Savanes District|66
 Iruya|-22.792|-65.217|AR|Salta|66
 Irkliiv|49.519|32.334|UA|Cherkasy|66
+Ireland Island|32.320|-64.842|BM|Sandys|65|f
+Iron County Airport|46.009|-88.278|US|Michigan|65|f
 Īrīn|35.578|51.214|IR|Tehran|65
 Irapeo|19.692|-101.057|MX|Michoacán|65
 Irrigon|45.896|-119.491|US|Oregon|65
@@ -136,6 +158,10 @@ Irsch|49.605|6.595|DE|Rheinland-Pfalz|64
 Iracoubo|5.480|-53.205|GF|Guyane|64
 Irodouër|48.249|-1.950|FR|Brittany|64
 Iralaya|15.000|-83.233|HN|Gracias a Dios Department|64
+Iririki|-17.745|168.310|VU|Shefa|63|f
+Iro|4.190|32.335|SS|Eastern Equatoria|63|f
+Irobi Airport|-13.269|-63.692|BO|Beni Department|63|f
+Iron Mountains|34.171|-115.209|US|California|63|f
 Irwindale|34.107|-117.935|US|California|63
 Irsha|55.927|94.800|RU|Krasnoyarsk Krai|63
 Īraj|37.124|57.406|IR|North Khorasan|63
@@ -152,6 +178,10 @@ Irvington|37.880|-86.284|US|Kentucky|61
 Irlbach|48.841|12.751|DE|Bavaria|61
 Irchonwelz|50.621|3.751|BE|Wallonia|61
 Irura|43.167|-2.067|ES|Basque Country|61
+Ir-Ramla|36.063|14.283|MT|Ix-Xagħra|61|f
+Irelands Eye|53.407|-6.063|IE|Leinster|61|f
+Iroquois Peak|44.137|-73.998|US|New York|61|f
+Irvine Island|-16.076|123.537|AU|Western Australia|61|f
 Irchenrieth|49.623|12.225|DE|Bavaria|61
 Irești|45.930|26.944|RO|Vrancea|61
 Irmstett|48.588|7.478|FR|Grand Est|61
@@ -160,12 +190,118 @@ Irrsdorf|47.967|13.283|AT|Salzburg|61
 Irassuénou|7.715|-5.309|CI|Vallée du Bandama District|60
 Iratzio|19.646|-101.412|MX|Michoacán|60
 Irmaksırtı|41.229|36.592|TR|Samsun|60
+Irishtown|46.188|-64.792|CA|New Brunswick|60
+Iradougou|9.704|-7.796|CI|Denguélé District|59
+Iron Ridge|43.400|-88.533|US|Wisconsin|59
+Irenental|48.205|16.098|AT|Lower Austria|59
+Iraío|37.665|26.881|GR|North Aegean|59
+Irind|40.389|43.973|AM|Aragatsotn|59
+Iraíon|38.028|22.855|GR|Peloponnese|58|f
+Iranamadu Tank|9.302|80.446|LK|Northern Province|58|f
+Irish Hills|42.059|-84.137|US|Michigan|58|f
+Iroise|48.250|-4.917|FR|Brittany|58|f
+Iron Cap Mountain|47.554|-121.285|US|Washington|58|f
+Iron Hill|39.639|-75.752|US|Delaware|58|f
+Iron Mountain|34.288|-117.713|US|California|58|f
+Iron Mountain|38.550|-122.268|US|California|58|f
+Ironjaw Lake|46.172|-86.552|US|Michigan|58|f
+Irons Mountain|39.627|-78.709|US|Maryland|58|f
+Iruma Ab|35.842|139.411|JP|Saitama|58|f
+Irmtraut|50.550|8.067|DE|Rheinland-Pfalz|58
 Irdning|47.505|14.102|AT|Styria|58
+Irurita|43.131|-1.548|ES|Navarre|58
+Irissarry|43.257|-1.233|FR|New Aquitaine|58
+Īrafshān|26.687|61.932|IR|Sistan and Baluchestan|58
+Irdyn|49.375|31.692|UA|Cherkasy|58
+Iron River|46.564|-91.408|US|Wisconsin|58
+‘Irāq Būrīn|32.201|35.242|PS|West Bank|58
+Iron Station|35.442|-81.156|US|North Carolina|58
+Irndorf|48.067|8.967|DE|Baden-Wurttemberg|58
+Irmenach|49.924|7.189|DE|Rheinland-Pfalz|57
+Iron Mountain Lake|37.693|-90.623|US|Missouri|57
+Iroutou|4.677|-7.519|CI|Bas-Sassandra District|57
+Īrāj|33.458|54.869|IR|Isfahan|56
+Iribasso|10.608|-6.339|CI|Savanes District|56
+Irvington|38.439|-89.163|US|Illinois|56
+Irvona|40.775|-78.553|US|Pennsylvania|56
+Ireton|42.975|-96.318|US|Iowa|56
+Irade|45.549|34.222|UA|Crimea|56
+Irina|47.553|22.403|RO|Satu Mare County|55
+Irządze|50.627|19.685|PL|Silesia|55
 Irwinton|32.811|-83.173|US|Georgia|55
+Ironton|46.477|-93.978|US|Minnesota|55
+Iraté|4.757|-7.562|CI|Bas-Sassandra District|55
+Iraguato|24.625|-107.665|MX|Sinaloa|55
+Irai Island|-10.768|151.696|PG|Milne Bay Province|54|f
+Iris Bay|-54.699|-35.932|GS||54|f
+Irizar Island|-65.222|-64.201|AQ||54|f
+Iro Lake|10.102|19.422|TD|Moyen-Chari|54|f
+Iron Cove|-33.862|151.156|AU|New South Wales|54|f
+Iron Gate Dam|41.934|-122.435|US|California|54|f
+Iron Mountain|37.638|-105.254|US|Colorado|54|f
+Iron Mountain|37.644|-113.374|US|Utah|54|f
+Iron Mountain|40.507|-105.852|US|Colorado|54|f
+Iron Mountain|43.538|-115.045|US|Idaho|54|f
+Iron Pot|-43.059|147.417|AU|Tasmania|54|f
+Ironwood Island|47.000|-90.615|US|Wisconsin|54|f
+Iroquois Park|38.161|-85.787|US|Kentucky|54|f
+Irvine Bay|55.600|-4.717|GB|Scotland|54|f
+Irving Island|-66.414|-67.078|AQ||54|f
+Irving, Mount|-61.283|-54.133|AQ||54|f
+Iragna|46.326|8.967|CH|Ticino|54
+Iron Acton|51.549|-2.461|GB|England|54
+Ironbank|-35.050|138.683|AU|South Australia|54
 Irschen|46.757|13.025|AT|Carinthia|53
 Iray|-15.854|-72.630|PE|Arequipa|50
+Iranamadu|9.307|80.489|LK|Northern Province|49|f
+Iranian National Observatory|33.674|51.319|IR|Isfahan|49|f
+Irchel|47.540|8.607|CH|Zurich|49|f
+Iron Blow|-42.060|145.590|AU|Tasmania|49|f
+Iron Bridge|50.108|8.682|DE|Hesse|49|f
+Iron Cay|26.422|-77.037|BS|Central Abaco|49|f
+Iron Mountain|27.937|-81.577|US|Florida|49|f
+Iron Mountain|37.611|-119.164|US|California|49|f
+Iron Mountain|43.859|-103.434|US|South Dakota|49|f
+Iron Mountain|47.828|-123.111|US|Washington|49|f
+Iron Mountain|46.793|-121.829|US|Washington|49|f
+Iron Range National Park|-12.709|143.277|AU|Queensland|49|f
+Irondequoit Bay Bridge|43.212|-77.534|US|New York|49|f
+Irondequoit Bay Outlet Bridge|43.235|-77.534|US|New York|49|f
+Ironside Glacier|-72.133|169.667|AQ||49|f
+Ironstone Mountain|-41.715|146.482|AU|Tasmania|49|f
+Iroquois Island|46.492|-84.683|US|Michigan|49|f
+Irresistible Island|32.282|-64.813|BM|Warwick|49|f
+Irvine Glacier|-74.700|-63.250|AQ||49|f
+Irving Glacier|-76.217|160.267|AQ||49|f
+Irving Peak|37.595|-107.510|US|Colorado|49|f
+Irving Reef|10.882|114.927|||49|f
+Irrhausen|50.067|6.200|DE|Rheinland-Pfalz|48
 Irañeta|42.923|-1.946|ES|Navarre|45
 Irma|45.771|10.285|IT|Lombardy|41
+I Rodond|46.447|9.136|CH|Grisons|40|f
+Ira Keller Fountain|45.513|-122.679|US|Oregon|40|f
+Iratais Point|-62.469|-60.338|AQ||40|f
+Irazú Volcano National Park|9.979|-83.854|CR|Cartago Province|40|f
+Irene Bay|79.002|-81.781|CA|Nunavut|40|f
+Irik Island|62.173|-92.503|CA|Nunavut|40|f
+Iripajuk Island|63.615|-91.246|CA|Nunavut|40|f
+Irish Bend Covered Bridge|44.567|-123.301|US|Oregon|40|f
+Irish Mountain|42.336|-74.526|US|New York|40|f
+Irnik Point|-62.727|-61.376|AQ||40|f
+Iron Bay|49.450|-122.869|CA|British Columbia|40|f
+Iron Crown Airport|44.942|-122.761|US|Oregon|40|f
+Iron Island|47.050|-55.115|CA|Newfoundland and Labrador|40|f
+Iron Mountain Mine|40.675|-122.528|US|California|40|f
+Ironhead Airport|33.331|-97.227|US|Texas|40|f
+Ironsides Island|44.397|-75.850|US|New York|40|f
+Ironwood Forest National Monument|32.459|-111.567|US|Arizona|40|f
+Iroquois Dam|44.835|-75.302|US|New York|40|f
+Iroquois National Wildlife Refuge|43.131|-78.388|US|New York|40|f
+Irrenberg|48.282|8.943|DE|Baden-Wurttemberg|40|f
+Irvine Park|44.941|-93.102|US|Minnesota|40|f
+Irving Glacier|44.135|-121.779|US|Oregon|40|f
+Irving Schools Stadium|32.807|-96.938|US|Texas|40|f
+Irwin Glacier|-71.117|163.417|AQ||40|f
 Irueste|40.612|-2.891|ES|Castille-La Mancha|36
 Iruelos|41.141|-6.328|ES|Castille and León|35
 ‘Irjān|32.394|35.733|JO|Ajloun|0
@@ -175,5 +311,6 @@ Irarututiga|-2.537|133.442|ID|West Papua|0
 Iresa-Adu|8.087|4.393|NG|Oyo State|0
 Irig|45.101|19.858|RS|Vojvodina|0
 Irixoa|43.285|-8.059|ES|Galicia|0
+Irongganan|-8.051|111.871|ID|East Java|0
 Irrua|6.736|6.220|NG|Edo State|0
 Irurtzun|42.917|-1.833|ES|Navarre|0

@@ -33,28 +33,36 @@ Kaimur|24.054|80.614|IN|Madhya Pradesh|86
 Kaitang|26.720|108.130|CN|Guizhou|85
 Kailahun|8.279|-10.573|SL|Eastern Province|83
 Kaiapoi|-43.378|172.640|NZ|Canterbury|83
+Kaimana Airport|-3.645|133.696|ID|West Papua|82|f
 Kailua-Kona|19.640|-155.999|US|Hawaii|82
 Kai Ching Estate|22.333|114.203|HK|Kowloon City|81
 Kainuk|1.774|35.506|KE|Turkana County|80
 Kaišiadorys|54.865|24.468|LT|Kaunas|80
+Kaieteur Fall|5.176|-59.480|GY|Potaro-Siparuni|80|f
 Kaindy|42.825|73.676|KG|Chuy Region|80
 Kaikaram|16.811|81.366|IN|Andhra Pradesh|80
 Kailasagiri|12.836|78.712|IN|Tamil Nadu|79
 Kaimbujae NDing|13.285|-16.621|GM|Western|79
 Kaiping|22.572|113.886|CN|Guangdong|79
 Kainantu|-6.289|145.865|PG|Eastern Highlands Province|79
+Kaieteur International Airport|5.173|-59.491|GY|Potaro-Siparuni|78|f
+Kaili Huangping Airport|26.974|107.980|CN|Guizhou|78|f
 Kain|50.639|3.397|BE|Wallonia|77
 Kainoor|10.499|76.279|IN|Kerala|77
 Kaiparamba|10.608|76.139|IN|Kerala|77
 Kaitaa|60.146|24.687|FI|Uusimaa|77
 Kaivoksela|60.268|24.869|FI|Uusimaa|76
 Kairangala|12.797|74.947|IN|Karnataka|75
+Kailas Range|31.000|82.000|CN||74|f
 Kaikohe|-35.398|173.800|NZ|Northland|74
+Kaiser Mountains|47.600|12.333|AT|Tyrol|73|f
 Kāipadar|20.135|85.553|IN|Odisha|73
 Kaisheim|48.768|10.796|DE|Bavaria|73
 Kair|28.624|76.918|IN|Delhi|72
 Kai Tak Garden|22.338|114.195|HK|Wong Tai Sin District|72
 Kailua Town|21.393|-157.735|US|Hawaii|71
+Kaïmaktsalán|40.931|21.786|GR||71|f
+Kaimondake Volcano|31.180|130.528|JP|Kagoshima|71|f
 Kaiseraugst|47.540|7.726|CH|Aargau|71
 Kai Tsui Court|22.262|114.251|HK|Eastern District|71
 Kairy|46.946|33.705|UA|Kherson|71
@@ -66,21 +74,74 @@ Kaisten|47.542|8.043|CH|Aargau|67
 Kaiaf|13.400|-15.617|GM|Lower River|65
 Kainbach|47.083|15.517|AT|Styria|64
 Kaibito|36.597|-111.074|US|Arizona|64
+Kai Kung Leng|22.464|114.084|HK|Yuen Long|63|f
+Kaieteur National Park|5.170|-59.492|GY|Potaro-Siparuni|63|f
+Kailāsh|31.521|78.363|IN|Himachal Pradesh|63|f
+Kaiserstuhl|48.110|7.664|DE|Baden-Wurttemberg|63|f
 Kaidanovo|48.466|22.571|UA|Zakarpattia|62
 Kaindorf|47.225|15.911|AT|Styria|61
 Kainoúryion|38.793|22.725|GR|Central Greece|61
+Kaibu Island|-17.258|-179.486|FJ|Eastern|61|f
+Kaina Mountain|48.954|-113.799|US|Montana|61|f
+Kaiser Franz Joseph Fiord|73.402|-23.601|GL||61|f
+Kaipola|61.816|25.235|FI|Central Finland|59
+Käina|58.828|22.777|EE|Hiiumaa|59
+Kaitangata|-46.275|169.850|NZ|Otago|59
+Kaifenheim|50.245|7.226|DE|Rheinland-Pfalz|58
+Kaio|25.031|66.688|PK|Balochistan|58|f
+Kaiteriteri Inlet|-41.033|173.017|NZ||58|f
+Kaikoura|-42.417|173.683|NZ|Canterbury|57
 Kaisersdorf|47.537|16.392|AT|Burgenland|56
+Kaiwaka|-36.167|174.450|NZ|Northland|55
+Kaikohe Aerodrome|-35.450|173.816|NZ|Auckland|54|f
+Kaikoura Aerodrome|-42.417|173.700|NZ|Canterbury|54|f
+Kaikōura Peninsula|-42.433|173.700|NZ||54|f
+Kaimur Hills|24.587|82.334|IN|Madhya Pradesh|54|f
+Käina Laht|58.808|22.791|EE|Hiiumaa|54|f
+Kaingthaung Island|15.730|95.046|MM|Ayeyarwady|54|f
+Kainji Dam|9.867|4.600|NG|Niger State|54|f
+Kainji Reservoir|10.394|4.556|NG||54|f
+Kaitaia Aerodrome|-35.068|173.270|NZ|Auckland|54|f
 Kainach bei Voitsberg|47.136|15.095|AT|Styria|53
 Kaibing|47.200|15.833|AT|Styria|52
+Kail|50.183|7.233|DE|Rheinland-Pfalz|50
+Kaiaf Forest Park|13.417|-15.617|GM|Lower River|49|f
+Kaikoura Island|-36.181|175.325|NZ||49|f
+Kaisaniemi|60.174|24.946|FI|Uusimaa|49|f
+Kaiserstuhl|-34.580|138.990|AU|South Australia|49|f
+Kaiserstuhl Conservation Park|-34.585|139.013|AU|South Australia|49|f
+Kaitersberg|49.174|12.941|DE|Bavaria|49|f
+Kaivopuisto|60.156|24.956|FI|North Savo|49|f
+Kaiaua Bay|-38.308|178.330|NZ|Gisborne|40|f
+Kaibab Lake|35.285|-112.155|US|Arizona|40|f
+Kaien Island|54.287|-130.300|CA|British Columbia|40|f
+Kaigosuit Islands|65.784|-67.472|CA|Nunavut|40|f
+Kaigosuiyat Islands|65.734|-67.481|CA|Nunavut|40|f
+Kaikiekie / Bradshaw Sound|-45.278|167.100|NZ|Southland|40|f
+Kaikorai Lagoon|-45.918|170.390|NZ|Otago|40|f
+KAIMAI RANGE|-37.668|175.860|NZ|Auckland|40|f
+Kaimanawa Mountains|-39.250|175.900|NZ||40|f
+Kaina Lake|48.941|-113.806|US|Montana|40|f
+Kaiser Wilhelm Denkmal|52.245|8.905|DE|North Rhine-Westphalia|40|f
+Kaiseregg|46.653|7.319|CH|Fribourg|40|f
+Kaiserpfalz Gelnhausen|50.200|9.195|DE|Hesse|40|f
+Kaita|60.475|21.909|FI|Southwest Finland|40|f
+Kaisborstel|54.014|9.481|DE|Schleswig-Holstein|39
 Kā’ī|34.128|70.718|AF|Nangarhar|0
 Kaiama|5.120|6.301|NG|Bayelsa State|0
+Kaiganqi|44.422|85.194|CN|Heilongjiang|0
 Kaihua Chengguanzhen|29.146|118.409|CN|Zhejiang|0
 Kaijiang|31.040|104.674|CN|Sichuan|0
 Kaijiang|31.085|107.863|CN|Sichuan|0
 Kailu|43.583|121.200|CN|Inner Mongolia|0
 Kaimana|-3.663|133.765|ID|West Papua|0
 Kaiping|39.671|118.256|CN|Hebei|0
+Kairane|-10.156|123.944|ID|East Nusa Tenggara|0
 Kairatu|-3.352|128.369|ID|Maluku|0
+Kaisalun|-10.302|123.357|ID|East Nusa Tenggara|0
+Kaishan|26.753|117.180|CN|Fujian|0
+Kaishantun|42.702|129.757|CN|Jilin|0
 Kaita|13.083|7.741|NG|Katsina State|0
 Kaitaia|-35.115|173.264|NZ|Northland|0
+Kaiwen|27.156|99.835|CN|Yunnan|0
 Kaiyun|27.214|112.856|CN|Hunan|0

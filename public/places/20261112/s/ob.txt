@@ -30,6 +30,7 @@ Oborniki|52.647|16.814|PL|Greater Poland|85
 Obispos|8.607|-70.105|VE|Barinas|85
 Oberasbach|49.423|10.958|DE|Bavaria|85
 Obrenovac|44.655|20.200|RS|Central Serbia|85
+Obihiro Airport|42.733|143.217|JP|Hokkaido|84|f
 Oberwinterthur (Kreis 2)|47.517|8.769|CH|Zurich|84
 Obock|11.967|43.288|DJ|Obock|84
 Ober-Ramstadt|49.831|8.749|DE|Hesse|84
@@ -78,6 +79,8 @@ Oberkassel|50.714|7.166|DE|North Rhine-Westphalia|77
 Oberlungwitz|50.782|12.708|DE|Saxony|77
 Oberthal|49.513|7.084|DE|Saarland|76
 Obergünzburg|47.845|10.418|DE|Bavaria|76
+Oban Airport|56.464|-5.400|GB|Scotland|76|f
+Ober Gabelhorn|46.039|7.668|CH|Valais|76|f
 Obligado|-27.055|-55.627|PY|Itapúa|76
 Obdam|52.676|4.907|NL|North Holland|76
 Ober-Mörlen|50.373|8.691|DE|Hesse|76
@@ -110,6 +113,7 @@ Obara|35.083|132.583|JP|Shimane|73
 Oberteuringen|47.724|9.470|DE|Baden-Wurttemberg|73
 Oberpleis|50.707|7.274|DE|North Rhine-Westphalia|73
 Obroshyne|49.784|23.872|UA|Lviv|72
+Obre Lake/North of Sixty Airport|60.315|-103.133|CA|Northwest Territories|72|f
 Ober-Olm|49.937|8.189|DE|Rheinland-Pfalz|72
 Oberalm|47.700|13.100|AT|Salzburg|72
 Obfelden|47.264|8.421|CH|Zurich|72
@@ -147,6 +151,10 @@ Oberdiessbach|46.841|7.617|CH|Bern|69
 Obrigheim|49.592|8.205|DE|Rheinland-Pfalz|69
 Oberwolfach|48.317|8.217|DE|Baden-Wurttemberg|69
 Oberschneiding|48.796|12.642|DE|Bavaria|69
+Ob’-Yeniseyskiy Kanal|59.167|88.500|RU|Tomsk Oblast|69|f
+Obbolaön|63.700|20.300|SE|Västerbotten|69|f
+Obock Airport|11.967|43.267|DJ|Obock|69|f
+Observatoriefjellet|77.480|14.652|SJ|Svalbard|69|f
 Obernzenn|49.452|10.467|DE|Bavaria|69
 Obodroupa|6.044|-5.796|CI|Goh-Djiboua|69
 Oberharmersbach|48.374|8.125|DE|Baden-Wurttemberg|68
@@ -155,6 +163,8 @@ Obertaufkirchen|48.260|12.279|DE|Bavaria|68
 Obergurig|51.133|14.405|DE|Saxony|67
 Oberndorf|48.669|10.867|DE|Bavaria|67
 Oberdorla|51.166|10.422|DE|Thuringia|67
+Oberreintalschrofen|47.396|11.105|AT|Tyrol|67|f
+Obira Dam|44.065|141.906|JP|Hokkaido|67|f
 Obercunnersdorf|50.917|13.560|DE|Saxony|67
 Oberdorf|47.394|7.752|CH|Basel-Landschaft|67
 Obrzycko|52.703|16.528|PL|Greater Poland|67
@@ -183,6 +193,8 @@ Obispo Trejo|-30.781|-63.410|AR|Cordoba|66
 Obbicht|51.028|5.781|NL|Limburg|66
 Oberlunkhofen|47.312|8.392|CH|Aargau|65
 Oberhofen im Inntal|47.298|11.086|AT|Tyrol|65
+Oberbauenstock|46.928|8.544|CH|Uri|65|f
+Obong-san|38.721|128.107|KP|Kangwŏn-do|65|f
 Obernheim-Kirchenarnbach|49.350|7.583|DE|Rheinland-Pfalz|65
 Obernbreit|49.659|10.164|DE|Bavaria|65
 Oberegg|47.425|9.551|CH|Appenzell Innerrhoden|65
@@ -215,6 +227,9 @@ Obyce|48.427|18.456|SK|Nitra Region|64
 Oberbronn|48.940|7.607|FR|Grand Est|64
 Oberschefflenz|49.416|9.282|DE|Baden-Wurttemberg|64
 Oberschweinbach|48.238|11.156|DE|Bavaria|63
+Obo Airport|-7.590|141.323|PG|Western Province|63|f
+Obstruction Peak|47.922|-123.382|US|Washington|63|f
+Obvodnyy Kanal|59.909|30.261|RU|St. Petersburg|63|f
 Obejo|38.133|-4.800|ES|Andalusia|63
 Obermieming|47.309|10.974|AT|Tyrol|63
 Obersöchering|47.733|11.217|DE|Bavaria|63
@@ -248,6 +263,9 @@ Oberpöring|48.702|12.825|DE|Bavaria|61
 Obid|47.778|18.647|SK|Nitra Region|61
 Obršani|41.282|21.361|MK|Krivogashtani|61
 Oberneukirchen|48.464|14.223|AT|Upper Austria|61
+O’Brien Cay|24.318|-76.553|BS|Exuma|61|f
+Ober-See, Lake|-71.283|13.650|AQ||61|f
+Obong-san|40.392|128.820|KP|South Hamgyong|61|f
 Oberschützen|47.351|16.207|AT|Burgenland|61
 Oberschrot|46.741|7.281|CH|Fribourg|61
 Obion|36.259|-89.192|US|Tennessee|61
@@ -262,34 +280,243 @@ Obersinn|50.209|9.615|DE|Bavaria|60
 Obrajuelo|20.108|-100.850|MX|Guanajuato|60
 Obernfeld|51.550|10.233|DE|Lower Saxony|60
 Obodnica Donja|44.612|18.640|BA|Federation of B&H|60
+Oberhonnefeld-Gierend|50.556|7.522|DE|Rheinland-Pfalz|60
 Oberdorf im Burgenland|47.217|16.217|AT|Burgenland|60
+Obava|48.520|22.807|UA|Zakarpattia|60
+Ober-Hilbersheim|49.900|8.029|DE|Rheinland-Pfalz|60
+Oberheldrungen|51.283|11.250|DE|Thuringia|60
+Oberschönegg|48.108|10.298|DE|Bavaria|60
+Obermaiselstein|47.450|10.233|DE|Bavaria|60
+Obříství|50.296|14.478|CZ|Central Bohemia|60
+Obere Klaus|47.392|13.650|AT|Styria|60
+Oblęgórek|50.954|20.484|PL|Świętokrzyskie|60
+Obârșeni|46.183|27.833|RO|Vaslui County|60
+Obernholz|52.766|10.597|DE|Lower Saxony|59
 Obryte|52.716|21.249|PL|Mazovia|59
+Oberschönau|50.717|10.617|DE|Thuringia|59
+Oberlangen|52.849|7.276|DE|Lower Saxony|59
+Oberlangkampfen|47.521|12.089|AT|Tyrol|59
+Oberdiebach|50.033|7.783|DE|Rheinland-Pfalz|59
+Oberweningen|47.502|8.407|CH|Zurich|59
+Oberdreis|50.626|7.666|DE|Rheinland-Pfalz|59
+Obraje de Ixtla|20.670|-100.609|MX|Guanajuato|59
+Oberellen|50.949|10.185|DE|Thuringia|59
+Objazda|54.607|17.044|PL|Pomerania|59
+Obergebra|51.414|10.580|DE|Thuringia|59
+Oberkempten|47.329|8.820|CH|Zurich|59
 Obanos|42.681|-1.785|ES|Navarre|59
 Oberlienz|46.847|12.731|AT|Tyrol|59
+Oborovo|45.913|15.882|HR|Zagreb County|59
+Oberönz|47.178|7.695|CH|Bern|59
 Obervogau|46.745|15.585|AT|Styria|59
+Obzhyle|47.991|29.374|UA|Odesa|59
+Oberstammheim|47.632|8.800|CH|Zurich|59
 Obsza|50.315|22.957|PL|Lublin|59
+Oboroceni|47.177|26.878|RO|Iași County|59
+Oberbillig|49.709|6.507|DE|Rheinland-Pfalz|59
+Oberbalm|46.874|7.403|CH|Bern|59
+Obersaasheim|47.990|7.558|FR|Grand Est|59
+Objezierze|52.605|16.763|PL|Greater Poland|58
+Obolongo|0.290|6.693|ST|São Tomé Island|58
+Obersaifen|47.317|15.783|AT|Styria|58
+Oberhehenfeld|47.929|13.625|AT|Upper Austria|58
+Oberroth|48.176|10.189|DE|Bavaria|58
+Oberrohrbach|48.400|16.300|AT|Lower Austria|58
+Oberneukirchen|48.183|12.517|DE|Bavaria|58
+Obreja|46.175|23.765|RO|Alba County|58
+Oberschöckl|47.150|15.483|AT|Styria|58
 Oberloisdorf|47.447|16.508|AT|Burgenland|58
+Oberá Airport|-27.518|-55.124|AR|Misiones|58|f
+Obereck|48.113|8.116|DE|Baden-Wurttemberg|58|f
+Oblik|42.643|21.918|RS|Central Serbia|58|f
+Obninsk Meteorological tower|55.112|36.598|RU|Kaluga Oblast|58|f
+Obong-san|41.138|126.724|KP|Chagang|58|f
+Obongsan|35.644|127.132|KR|Jeollabuk-do|58|f
+Obongsan|38.000|127.803|KR|Gangwon-do|58|f
+Observation Island|60.612|-64.706|CA|Nunavut|58|f
+Óbudai-sziget|47.554|19.055|HU|Pest County|58|f
+Oberhain|50.633|11.133|DE|Thuringia|58
 Obârșia de Câmp|44.172|22.980|RO|Mehedinți County|58
+Oberanven|49.657|6.243|LU|Luxembourg|58
+Oberndorf|47.617|12.217|AT|Tyrol|58
+Obo Izaquente|0.320|6.689|ST|São Tomé Island|58
+Obrovac Sinjski|43.736|16.693|HR|Split-Dalmatia|58
 Obrovac|44.201|15.682|HR|Zadar|58
+Oberiberg|47.038|8.779|CH|Schwyz|58
+Obrataň|49.425|14.943|CZ|Vysocina|58
+Obispo|24.307|-107.102|MX|Sinaloa|58
+Oberneuberg|47.317|15.867|AT|Styria|58
+Oberstraß|48.004|13.710|AT|Upper Austria|58
+Oberdresselndorf|50.712|8.137|DE|North Rhine-Westphalia|58
+Obersaxen|46.750|9.100|CH|Grisons|58
+Oberirsen|50.717|7.583|DE|Rheinland-Pfalz|58
+Oberlahr|50.623|7.517|DE|Rheinland-Pfalz|57
+Oberfeistritz|47.258|15.703|AT|Styria|57
+Oberrod|50.585|8.127|DE|Rheinland-Pfalz|57
+Oberbettingen|50.283|6.633|DE|Rheinland-Pfalz|57
 Oberhaag|46.687|15.332|AT|Styria|57
+Oberickelsheim|49.600|10.133|DE|Bavaria|57
+Oberheimbach|50.017|7.783|DE|Rheinland-Pfalz|57
+Obergänserndorf|48.417|16.367|AT|Lower Austria|57
+Ober-Ohringen|47.527|8.714|CH|Zurich|57
+Oberems|50.237|8.404|DE|Hesse|57
+Obergrochlitz|50.641|12.179|DE|Thuringia|57
+Oberembrach|47.488|8.618|CH|Zurich|57
+Obersimten|49.167|7.583|DE|Rheinland-Pfalz|57
+Oberweg|47.133|11.517|AT|Tyrol|57
 Oberndorf bei Schwanenstadt|48.056|13.757|AT|Upper Austria|56
 Obervellach|46.937|13.204|AT|Carinthia|56
+Oberstadtfeld|50.176|6.769|DE|Rheinland-Pfalz|56
+Öbonäs|58.543|16.191|SE|Östergötland|56
+Oberraden|50.550|7.533|DE|Rheinland-Pfalz|56
 Oberndorf an der Melk|48.064|15.224|AT|Lower Austria|56
+Oberreidenbach|49.707|7.461|DE|Rheinland-Pfalz|56
+Obârșia|44.817|23.767|RO|Gorj County|56
+Oberdürenbach|50.467|7.167|DE|Rheinland-Pfalz|56
+Obertraun|47.557|13.687|AT|Upper Austria|56
+Oberpiesting|47.876|16.099|AT|Lower Austria|56
 Oberzeiring|47.250|14.483|AT|Styria|56
+Oberkail|50.033|6.683|DE|Rheinland-Pfalz|56
 Oberwang|47.867|13.433|AT|Upper Austria|56
+Obigies|50.662|3.364|BE|Wallonia|56
+Obies|50.268|3.785|FR|Hauts-de-France|56
+Oberpetersdorf|47.615|16.377|AT|Burgenland|56
+Oberdorf|47.560|7.306|FR|Grand Est|55
+Oberweid|50.590|10.064|DE|Thuringia|55
+Oberlin|40.241|-76.815|US|Pennsylvania|55
+Oberahr|50.500|7.867|DE|Rheinland-Pfalz|55
+Obererbach|50.725|7.658|DE|Rheinland-Pfalz|55
+Oberweis|49.967|6.417|DE|Rheinland-Pfalz|55
+Obermillstatt|46.814|13.602|AT|Carinthia|55
+Obořiště|49.742|14.152|CZ|Central Bohemia|55
+Oborovo|45.683|16.257|HR|Zagreb County|55
+Oberurff-Schiffelborn|51.036|9.162|DE|Hesse|55
+Oberroßbach|50.794|8.242|DE|Hesse|55
+Obersulz|48.500|16.667|AT|Lower Austria|55
+Oberhittnau|47.359|8.824|CH|Zurich|55
+Obererbach|50.450|7.967|DE|Rheinland-Pfalz|55
+Obersdorf|51.521|11.326|DE|Saxony-Anhalt|55
+Obritz|48.700|16.150|AT|Lower Austria|55
+Oberkrimml|47.217|12.167|AT|Salzburg|55
+Oberentzen|47.943|7.376|FR|Grand Est|55
+Oberdürnten|47.279|8.862|CH|Zurich|55
+Oberpöllnitz|50.745|11.880|DE|Thuringia|54
+Obrež|46.400|16.232|SI|Municipality of Središče ob Dravi|54
+Obaköy|39.954|43.995|TR|Iğdır|54
+Oberbrombach|49.700|7.267|DE|Rheinland-Pfalz|54
+Ober-Höri|47.504|8.497|CH|Zurich|54
 Oberaich|47.400|15.217|AT|Styria|54
+Obad|45.541|21.157|RO|Timiș County|54
+Obersülzen|49.568|8.211|DE|Rheinland-Pfalz|54
+O'Brien Island|-61.507|-55.967|AQ||54|f
+Obando Airport|3.854|-67.906|CO|Guainía Department|54|f
+Obbia Airport|5.367|48.517|SO|Mudug|54|f
+Obelisk|-34.604|-58.382|AR|Buenos Aires F.D.|54|f
+Obelisk Mountain|-77.617|161.667|AQ||54|f
+Ober Äschhorn|46.061|7.708|CH|Valais|54|f
+Obere Gottesackerwände|47.383|10.117|AT|Carinthia|54|f
+Oberpfälzer Wald|49.401|12.495|DE|Bavaria|54|f
+Oberpfuhl See|53.214|13.320|DE|Brandenburg|54|f
+Oberst Glacier|-72.050|27.067|AQ||54|f
+Obertrumer See|47.967|13.100|AT|Salzburg|54|f
+Obrecht Pyramid|-68.147|-65.521|AQ||54|f
+Observation Peak|37.023|-118.524|US|California|54|f
+Oborzany|52.738|14.665|PL|West Pomerania|54
 Obrazów|50.693|21.650|PL|Świętokrzyskie|54
+Obedišće|45.634|16.548|HR|Zagreb County|54
+Obergrünburg|47.951|14.255|AT|Upper Austria|54
 Oberweg|47.150|14.633|AT|Styria|54
+Oberlangenberg|47.636|13.189|AT|Salzburg|54
+O'Brien|42.067|-123.703|US|Oregon|54
+Oberwiesen|49.700|7.967|DE|Rheinland-Pfalz|54
+Obergröningen|48.894|9.909|DE|Baden-Wurttemberg|53
 Oberdorf am Hochegg|46.979|15.722|AT|Styria|53
+Oberwambach|50.667|7.650|DE|Rheinland-Pfalz|53
 Obertilliach|46.711|12.614|AT|Tyrol|53
+Oberarnbach|49.383|7.583|DE|Rheinland-Pfalz|53
+Obernhof|50.317|7.850|DE|Rheinland-Pfalz|53
+Oberstadt|50.555|10.598|DE|Thuringia|52
+Oberbösa|51.289|11.017|DE|Thuringia|52
 Oberwölz Stadt|47.201|14.283|AT|Styria|52
+Oberpierscheid|50.067|6.367|DE|Rheinland-Pfalz|52
+Obertiefenbach|50.242|7.890|DE|Rheinland-Pfalz|52
+Oberroßbach|50.654|8.040|DE|Rheinland-Pfalz|52
+Oberkirn|49.883|7.367|DE|Rheinland-Pfalz|51
 Obernberg am Brenner|47.017|11.417|AT|Tyrol|51
+Oberehe-Stroheich|50.283|6.767|DE|Rheinland-Pfalz|51
 Oberdrauburg|46.743|12.970|AT|Carinthia|50
+Oberhambach|49.683|7.167|DE|Rheinland-Pfalz|50
+Oberöfflingen|50.067|6.867|DE|Rheinland-Pfalz|50
+Oberweiler-Tiefenbach|49.600|7.617|DE|Rheinland-Pfalz|49
+Oberbodnitz|50.800|11.667|DE|Thuringia|49
+O'Brien Peak|-85.467|-156.700|AQ||49|f
+Obelisco di Montecitorio|41.901|12.479|IT|Lazio|49|f
+Obenchain Mountain|42.541|-122.671|US|Oregon|49|f
+Oberaargletscher|46.534|8.214|CH||49|f
+Oberalpsee|46.660|8.663|CH|Uri|49|f
+Oberharz|51.832|10.469|DE||49|f
+Obernberger See|46.983|11.400|AT|Tyrol|49|f
+Oberon Dam|-33.715|149.868|AU|New South Wales|49|f
+Oberon Peak|-71.375|-69.290|AQ||49|f
+Obersee|52.760|13.553|DE|Brandenburg|49|f
+Obersee|47.800|9.880|DE|Baden-Wurttemberg|49|f
+observatory Lisbon|38.712|-9.187|PT|Lisbon|49|f
+Observatory Park|-33.859|151.205|AU|New South Wales|49|f
+Obstruction Islands|-10.295|150.924|PG|Milne Bay Province|49|f
+Ober Kostenz|49.950|7.350|DE|Rheinland-Pfalz|49
 Oberrettenbach|47.150|15.800|AT|Styria|49
+Oberstaufenbach|49.516|7.510|DE|Rheinland-Pfalz|49
+Oberalben|49.583|7.400|DE|Rheinland-Pfalz|49
+Obersteinebach|50.591|7.498|DE|Rheinland-Pfalz|48
+Oberstreit|49.800|7.700|DE|Rheinland-Pfalz|48
+Oberndorf|49.717|7.817|DE|Rheinland-Pfalz|48
+Oberbachheim|50.246|7.748|DE|Rheinland-Pfalz|47
+Oberwallmenach|50.167|7.833|DE|Rheinland-Pfalz|46
+Oberscheidweiler|50.083|6.933|DE|Rheinland-Pfalz|46
+Oberoppurg|50.700|11.683|DE|Thuringia|46
+Oberreißen|51.087|11.413|DE|Thuringia|46
+Oberwies|50.289|7.781|DE|Rheinland-Pfalz|45
+Oberelz|50.267|7.050|DE|Rheinland-Pfalz|45
+Oberfischbach|50.249|7.955|DE|Rheinland-Pfalz|45
 Oberhofen am Irrsee|47.950|13.300|AT|Upper Austria|45
+Oberhausen an der Appel|49.717|7.867|DE|Rheinland-Pfalz|45
+Obergeckler|49.967|6.300|DE|Rheinland-Pfalz|45
+Oberwörresbach|49.783|7.317|DE|Rheinland-Pfalz|44
+Oberweiler|50.050|6.450|DE|Rheinland-Pfalz|43
 Oberstorcha|46.967|15.800|AT|Styria|43
+Oberhosenbach|49.817|7.333|DE|Rheinland-Pfalz|43
+Obernau|50.667|7.567|DE|Rheinland-Pfalz|43
+Oberlascheid|50.250|6.300|DE|Rheinland-Pfalz|43
+Oberschlettenbach|49.146|7.872|DE|Rheinland-Pfalz|43
 Oberkurzheim|47.233|14.583|AT|Styria|41
+O'Brien Provincial Park|55.067|-118.819|CA|Alberta|40|f
+O'Bryant Square|45.521|-122.680|US|Oregon|40|f
+Obabika Lake|51.875|-90.915|CA|Ontario|40|f
+Obelisco a los Constituyentes de 1830 (Montevideo)|-34.897|-56.164|UY|Montevideo Department|40|f
+Obelisco Lateranense|41.887|12.505|IT|Lazio|40|f
+Obelisk of Theodosius|41.006|28.975|TR|Istanbul|40|f
+Oberaarhorn|46.531|8.175|CH|Bern|40|f
+Oberaarrothorn|46.520|8.181|CH|Valais|40|f
+Oberaarsee|46.543|8.257|CH|Bern|40|f
+Oberaletschgletscher|46.427|7.968|CH|Valais|40|f
+Oberbaum Bridge|52.502|13.445|DE|State of Berlin|40|f
+Oberblegisee|46.980|9.013|CH|Glarus|40|f
+Oberer Grindelwaldgletscher|46.614|8.120|CH|Bern|40|f
+Oberer Murgsee|47.039|9.154|CH|Saint Gallen|40|f
+Oberhohenberg|48.164|8.760|DE|Baden-Wurttemberg|40|f
+Oberrothorn|46.028|7.813|CH|Valais|40|f
+Obersee|47.087|9.014|CH|Glarus|40|f
+Obersee|46.785|9.682|CH|Grisons|40|f
+Oberstockensee|46.687|7.521|CH|Bern|40|f
+Oberteich|51.839|14.412|DE|Brandenburg|40|f
+Oborishte Ridge|-62.536|-59.752|AQ||40|f
+Observation Peak|51.750|-116.469|CA|Alberta|40|f
+Observatorio Astronomico Los Molinos|-34.755|-56.190|UY|Montevideo Department|40|f
+Obstruction Island|48.596|-122.812|US|Washington|40|f
+Obzova|44.994|14.687|HR||40|f
+Oberstedem|49.933|6.517|DE|Rheinland-Pfalz|38
 Obón|40.904|-0.723|ES|Aragon|37
+Oberlauch|50.167|6.417|DE|Rheinland-Pfalz|37
 Obagaji|7.892|7.909|NG|Benue State|0
 Obaghan|53.080|64.295|KZ|Kostanay|0
 Obangede|7.621|6.199|NG|Kogi State|0
@@ -299,11 +526,22 @@ Obârşia|43.883|24.333|RO|Olt|0
 Obârşia-Cloşani|45.017|22.683|RO|Mehedinți County|0
 Obas|-9.795|-76.666|PE|Huánuco Department|0
 Ōbêh|34.370|63.176|AF|Herat|0
+Obelobel|-8.265|116.549|ID|West Nusa Tenggara|0
+Oberau|47.560|11.139|DE|Bavaria|0
+Oberdolling|48.829|11.593|DE|Bavaria|0
+Obere Warnow|53.524|11.888|DE|Mecklenburg-Vorpommern|0
+Oberhaid|49.932|10.815|DE|Bavaria|0
+Oberhausen|49.097|8.058|DE|Rheinland-Pfalz|0
 Oberhof|47.449|8.003|CH|Aargau|0
 Oberhünigen|46.880|7.657|CH|Bern|0
 Oberkulm|47.299|8.122|CH|Aargau|0
+Oberneisen|50.326|8.077|DE|Rheinland-Pfalz|0
+Oberweiler im Tal|49.583|7.550|DE|Rheinland-Pfalz|0
+Obesi|-9.727|124.276|ID|East Nusa Tenggara|0
 Obi|8.369|8.774|NG|Nasarawa State|0
 Obikiik|38.160|68.666|TJ|Khatlon Province|0
 Obiozara|6.046|7.773|NG|Ebonyi State|0
+Obo|37.965|100.933|CN|Qinghai|0
 Obollo-Afor|6.916|7.518|NG|Enugu State|0
+Oborne|50.966|-2.493|GB|England|0
 Obruk|38.184|33.181|TR|Konya|0

@@ -21,6 +21,7 @@ Janakkala|60.900|24.600|FI|Kanta-Häme|84
 Jāndli|30.357|76.796|IN|Haryana|83
 Jannat Shahr|28.654|54.685|IR|Fars|83
 Jan Kempdorp|-27.922|24.831|ZA|North West|83
+Janakpur Airport|26.709|85.922|NP|Madhesh|82|f
 Janiuay|10.949|122.506|PH|Western Visayas|82
 Janów Lubelski|50.707|22.410|PL|Lublin|81
 Jandiala Sher Khan|31.821|73.918|PK|Punjab|81
@@ -32,6 +33,7 @@ Jangalpur|23.827|86.579|IN|Jharkhand|78
 Jangada|-15.236|-56.489|BR|Mato Grosso|77
 Jansenville|-32.943|24.672|ZA|Eastern Cape|77
 Jandaíra|-5.356|-36.128|BR|Rio Grande do Norte|76
+Jan Mayen|70.983|-8.500|SJ|Jan Mayen|76|f
 Jánossomorja|47.786|17.136|HU|Győr-Moson-Sopron|76
 Jandaia|-17.049|-50.146|BR|Goiás|76
 Janzé|47.960|-1.499|FR|Brittany|75
@@ -52,14 +54,17 @@ Jankowice Rybnickie|50.045|18.547|PL|Silesia|72
 Janahyr|38.973|56.227|TM|Balkan|71
 Janfida|40.044|44.028|AM|Armavir|71
 Jandelsbrunn|48.733|13.700|DE|Bavaria|71
+Jannu|27.682|88.044|NP|Koshi|70|f
 Jankowice|50.001|18.989|PL|Silesia|69
 Jánosháza|47.119|17.165|HU|Vas County|69
 Janos|30.889|-108.193|MX|Chihuahua|69
 Jánoshida|47.383|20.067|HU|Jász-Nagykun-Szolnok|69
+Jandari Lake|41.426|45.218|AZ||69|f
 Janów Podlaski|52.194|23.212|PL|Lublin|68
 Janitzio|19.574|-101.652|MX|Michoacán|68
 Janovice nad Úhlavou|49.345|13.218|CZ|Plzeň Region|68
 Jantianon|9.444|123.166|PH|Central Visayas|67
+Jangseongbong|36.702|127.955|KR|Gyeongsangbuk-do|67|f
 Janesville|44.116|-93.708|US|Minnesota|67
 Jānqūr|38.150|46.900|IR|East Azerbaijan|67
 Janowice Wielkie|50.876|15.923|PL|Lower Silesia|66
@@ -67,6 +72,9 @@ Janovice|49.621|18.406|CZ|Moravian-Silesian Region|66
 Jänschwalde|51.861|14.498|DE|Brandenburg|66
 Janamuato|20.100|-101.585|MX|Michoacán|66
 Janville-sur-Juine|48.514|2.271|FR|Île-de-France|66
+Jane Austen Centre|51.384|-2.363|GB|England|65|f
+Janggundo|34.733|127.736|KR|Jeollanam-do|65|f
+Janq'u K'ark'a|-16.111|-68.217|BO|La Paz Department|65|f
 Janville|48.203|1.880|FR|Centre-Val de Loire|65
 Jānān Lū|39.121|46.882|IR|East Azerbaijan|65
 Janowice|49.885|19.094|PL|Silesia|65
@@ -80,20 +88,75 @@ Janneyrias|45.752|5.113|FR|Auvergne-Rhône-Alpes|62
 Janambo|20.207|-101.526|MX|Michoacán|62
 Jandrain-Jandrenouille|50.672|4.978|BE|Wallonia|61
 Janela|17.120|-24.986|CV|Paul|61
+Jandakot Airport|-32.094|115.878|AU|Western Australia|61|f
+Jangansan|35.629|127.595|KR|Jeollabuk-do|61|f
+Jangmisan|37.050|127.855|KR|North Chungcheong|61|f
+Jangsan|35.194|129.145|KR|Busan|61|f
+Janjīra Fort|18.300|72.965|IN|Maharashtra|61|f
+Jantar Mantar|28.627|77.216|IN|Delhi|61|f
 Januszkowice|50.392|18.137|PL|Opole Voivodeship|61
 Jans|47.621|-1.614|FR|Pays de la Loire|61
 Jandowae|-26.784|151.112|AU|Queensland|60
 Janowiec|51.324|21.889|PL|Lublin|60
+Janowo|53.316|20.671|PL|Warmia-Masuria|60
+Janíky|48.140|17.398|SK|Trnava Region|60
+Janów|50.723|19.433|PL|Silesia|60
+Jandayan Norte|10.169|124.181|PH|Central Visayas|60
+Janesville|42.646|-92.463|US|Iowa|60
+Jantar|54.336|19.033|PL|Pomerania|59
+Jankov|49.653|14.731|CZ|Central Bohemia|59
+Jān Khānī|30.927|50.273|IR|Kohgiluyeh and Boyer-Ahmad|59
+Jankov Most|45.475|20.438|RS|Vojvodina|58
+Jankowice|49.963|22.647|PL|Subcarpathia|58
+Jangdo|34.744|127.665|KR|Jeollanam-do|58|f
+Janneh Kunda|13.380|-16.138|GM|Lower River|58
+Janderup|55.625|8.373|DK|South Denmark|58
+Janov|49.841|16.385|CZ|Pardubice Region|58
+Janowo|53.142|19.579|PL|Kujawsko-Pomorskie|58
+Jankowice|50.044|19.442|PL|Lesser Poland|57
+Janová|49.312|18.020|CZ|Zlín|57
+Jānbahān|37.908|46.821|IR|East Azerbaijan|57
+Janské Lázně|50.631|15.782|CZ|Hradec Králové Region|56
+Janville|49.455|2.861|FR|Hauts-de-France|56
+Janvry|48.648|2.153|FR|Île-de-France|56
+Janików|51.571|21.582|PL|Mazovia|56
+Janjar|39.703|20.260|AL|Vlorë County|55
+Janikowo|54.222|20.461|PL|Warmia-Masuria|55
+Jan Mayensfield|70.961|-8.576|SJ|Jan Mayen|54|f
+Jānaki̇̄ Mandi̇̄r|26.730|85.926|NP|Madhesh|54|f
+Jango Shakh Minor|28.373|68.661|PK|Sindh|54|f
+Januária Airport|-15.474|-44.386|BR|Minas Gerais|54|f
+Janowo|53.352|21.918|PL|Podlasie|54
+Janneby|54.633|9.300|DE|Schleswig-Holstein|53
+Jane Peak|-60.699|-45.621|AQ||49|f
+Janssen Peak|-64.887|-63.507|AQ||49|f
+Janus Island|-64.783|-64.104|AQ||49|f
 Janjina|42.925|17.428|HR|Dubrovnik-Neretva|45
+Jan Lake|54.933|-102.917|CA|Saskatchewan|40|f
+Jane Sanders Stadium|44.041|-123.074|US|Oregon|40|f
+Janetschek, Mount|-74.900|162.267|AQ||40|f
+Janette Lake|47.239|-93.019|US|Minnesota|40|f
+János-hegy|47.518|18.960|HU|Pest County|40|f
+Janvrin Island|45.533|-61.165|CA|Nova Scotia|40|f
 Janjaillo|-11.765|-75.611|PE|Junin|39
 Jan Mayen|70.983|-8.500|SJ||23|r
+Janaka|-6.317|105.881|ID|Banten|0
 Janapria|-8.695|116.401|ID|West Nusa Tenggara|0
+Jandir|-6.961|113.994|ID|East Java|0
 Jane Furse|-24.760|29.870|ZA|Limpopo|0
 Jangan|35.313|129.242|KR|Busan|0
 Jangas|-9.402|-77.576|PE|Ancash|0
+Jangdam|29.338|89.246|CN|Tibet|0
 Jangheung|37.717|126.941|KR|Gyeonggi-do|0
 Jangkar|-7.732|114.209|ID|East Java|0
 Jangkat|-2.507|102.054|ID|Jambi|0
+Jangkungkusumo|-6.987|112.285|ID|East Java|0
+Jangkurang Kidul|-7.207|107.909|ID|West Java|0
+Janglapa|-7.144|108.505|ID|West Java|0
 Jangpyeong|36.341|126.893|KR|Chungcheongnam-do|0
+Jangra|28.903|89.573|CN|Tibet|0
+Jangraga|-7.487|108.671|ID|West Java|0
 Jānī Khēl|32.763|68.397|AF|Paktika|0
 Janów|53.467|23.231|PL|Podlasie|0
+Jantake|-7.247|108.156|ID|West Java|0
+Januti|-7.471|108.129|ID|West Java|0

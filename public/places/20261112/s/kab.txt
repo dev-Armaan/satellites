@@ -34,9 +34,12 @@ Kabataş|40.750|37.450|TR|Ordu|79
 Kābāw|31.847|11.331|LY|Nalut|78
 Kabardinka|44.652|37.937|RU|Krasnodar Krai|77
 Kabri|29.428|76.940|IN|Haryana|77
+Kabri Dar Airport|6.733|44.241|ET|Somali|77|f
 Kaba|47.350|21.283|HU|Hajdú-Bihar|76
 Kabansk|52.052|106.655|RU|Buryatiya Republic|76
+Kabalo Airport|-6.083|26.917|CD|Tanganyika|75|f
 Kabalen|6.319|125.011|PH|Soccsksargen|74
+Kabira Bay|24.450|124.144|JP|Okinawa|73|f
 Kabac|11.235|123.698|PH|Central Visayas|72
 Kabatabandha|20.876|86.025|IN|Odisha|72
 Kabulusan|14.361|121.400|PH|Calabarzon|72
@@ -45,6 +48,7 @@ Kabadüz|40.861|37.885|TR|Ordu|71
 Kabalantian|8.371|124.328|PH|Northern Mindanao|70
 Kabakovo|54.537|56.152|RU|Bashkortostan Republic|70
 Kaboro|6.970|17.528|CF|Ouham|69
+Kabīr Kūh|33.159|47.148|IR|Ilam Province|69|f
 Kablalan|5.780|125.198|PH|Soccsksargen|69
 Kabulohan|8.043|125.277|PH|Northern Mindanao|68
 Kabuynan|11.081|125.025|PH|Eastern Visayas|68
@@ -55,23 +59,68 @@ Kabelvåg|68.211|14.476|NO|Nordland|67
 Kabasalan|7.067|124.650|PH|Zamboanga Peninsula|67
 Kabilauan|10.861|122.573|PH|Western Visayas|66
 Kabéhoa|6.199|-6.231|CI|Goh-Djiboua|66
+Kaba Shima|32.561|129.782|JP|Nagasaki|65|f
+Kabu-jima|40.533|141.550|JP||65|f
 Kabakça|41.232|28.370|TR|Istanbul|65
 Kabakum|39.131|26.887|TR|İzmir Province|65
 Kabangbe|10.143|-7.554|CI|Denguélé District|64
 Kabasakal|37.058|35.226|TR|Adana|64
 Kabrankro|6.714|-3.760|CI|Comoé District|64
 Kabir|41.560|48.047|RU|Dagestan|63
+Kabalega Falls Airport|2.326|31.498|UG|Northern Region|61|f
+Kabani Island|12.065|125.570|PH|Eastern Visayas|61|f
+Kabara|-18.956|-178.954|FJ|Eastern|61|f
 Kabolokoro|9.453|-5.979|CI|Savanes District|61
 Kabri|33.021|35.150|IL|Northern District|61
+Kabalak|40.955|31.172|TR|Düzce|60
+Kabūd Gonbad|35.469|51.747|IR|Tehran|58
+Kabah|20.249|-89.648|MX|Yucatán|58|f
+Kabekona Lake|47.164|-94.759|US|Minnesota|58|f
+Kabile Island|-62.441|-59.943|AQ||58|f
+Kabosa Island|12.793|97.851|MM|Tanintharyi Region|58|f
+Kabru|27.616|88.116|IN|Sikkim|58|f
+Kabūdān|37.483|45.617|IR|East Azerbaijan|58|f
+Kabogo|10.330|-5.768|CI|Savanes District|57
+Kabagöz|41.623|32.389|TR|Bartın|57
+Kabia|6.068|-5.826|CI|Goh-Djiboua|56
+Kabévogo|9.395|-5.894|CI|Savanes District|56
+Kabalı|41.216|35.559|TR|Samsun|55
+Kabala Airport|9.638|-11.516|SL|Northern Province|54|f
+Käbelicksee|53.416|12.942|DE|Mecklenburg-Vorpommern|54|f
+Kabetogama Lake|48.532|-93.088|US|Minnesota|54|f
+Kablar|43.912|20.192|RS|Central Serbia|54|f
+Kabala|9.553|-7.915|CI|Denguélé District|54
+Kabelhorst|54.216|10.923|DE|Schleswig-Holstein|54
+Kabafita Forest Park|13.298|-16.650|GM|Western|49|f
+Kabale Airport|-1.250|29.983|UG|Western Region|49|f
+Kabanga|-4.032|29.882|BI|Rutana|49|f
+Kabul Museum|34.467|69.120|AF|Kabul|49|f
+KABB-TV (San Antonio)|29.291|-98.270|US|Texas|40|f
+KABC-TV (Los Angeles)|34.227|-118.067|US|California|40|f
+Kabinakagami Lake|48.908|-84.407|CA|Ontario|40|f
+Kabiskagami Lake|48.693|-84.565|CA|Ontario|40|f
+Kabul Medical University|34.517|69.130|AF|Kabul|40|f
+Kabul University|34.518|69.128|AF|Kabul|40|f
+Kabul Zoo|34.510|69.155|AF|Kabul|40|f
+Kabviukvik Island|68.184|-113.220|CA|Nunavut|40|f
 Ka Bang|6.415|101.055|TH|Yala|0
 Kabahaydar|37.313|39.010|TR|Şanlıurfa|0
 Kabahaydar|37.400|39.083|TR|Şanlıurfa|0
 Kabalı|41.852|35.062|TR|Sinop|0
+Kabandang|-9.745|120.251|ID|East Nusa Tenggara|0
+Kabar Utara|-8.661|116.476|ID|West Nusa Tenggara|0
 Kabare|-0.015|130.832|ID|Southwest Papua|0
 Kabasalan|7.797|122.765|PH|Zamboanga Peninsula|0
 Kabayan|16.624|120.840|PH|Cordillera|0
+Kabayancitiis|-6.312|106.110|ID|Banten|0
 Kaberamaido|1.739|33.159|UG|Eastern Region|0
 Kabir|-8.255|124.215|ID|East Nusa Tenggara|0
+Kablukan|-6.984|111.710|ID|East Java|0
 Kabo|11.856|8.170|NG|Kano State|0
+Kabondok|-9.599|119.572|ID|East Nusa Tenggara|0
+Kabongan Kidul|-6.708|111.358|ID|Central Java|0
+Kabongan Lor|-6.705|111.357|ID|Central Java|0
+Kabor|-8.621|122.215|ID|East Nusa Tenggara|0
+Kaborongan|-6.746|111.039|ID|Central Java|0
 Kabukarudi|-9.725|119.360|ID|East Nusa Tenggara|0
 Kaburon|-6.287|106.127|ID|Banten|0

@@ -19,14 +19,18 @@ Taucha|51.383|12.483|DE|Saxony|83
 Tauberbischofsheim|49.625|9.663|DE|Baden-Wurttemberg|82
 Taurianova|38.355|16.013|IT|Calabria|81
 Taukkyan|17.044|96.136|MM|Yangon|81
+Taurus Mountains|36.986|32.966|TR||81|f
 Taurisano|39.957|18.215|IT|Apulia|81
 Taufkirchen|48.350|12.132|DE|Bavaria|79
 Tauste|41.918|-1.253|ES|Aragon|77
 Taumarunui|-38.878|175.260|NZ|Manawatu-Wanganui|74
+Tauranga Airport|-37.672|176.196|NZ|Bay of Plenty|73|f
 Taulabé|14.693|-87.965|HN|Comayagua Department|73
 Tăuteu|47.267|22.333|RO|Bihor County|73
+Taunton Municipal Airport|41.875|-71.016|US|Massachusetts|72|f
 Tauche|52.150|14.167|DE|Brandenburg|72
 Taunoa|-17.751|-149.356|PF|Îles du Vent|72
+Taunsa Barrage|30.513|70.849|PK|Punjab|71|f
 Taulov|55.546|9.616|DK|South Denmark|71
 Tau|59.065|5.923|NO|Rogaland|70
 Taulé|48.604|-3.900|FR|Brittany|69
@@ -37,6 +41,8 @@ Taūshyq|44.347|51.349|KZ|Mangystau|68
 Täuffelen|47.066|7.199|CH|Bern|68
 Taungoh|4.707|119.493|PH|Autonomous Region in Muslim Mindanao|68
 Tautira|-17.747|-149.161|PF|Îles du Vent|67
+Ta‘ū Island|-14.231|-169.463|AS|Manu'a|67|f
+Tauu Islands|-4.761|156.990|PG|Bougainville|67|f
 Taung Kone|16.457|96.315|MM|Yangon|67
 Taupiri|-37.617|175.183|NZ|Waikato Region|67
 Tauţ|46.283|21.917|RO|Arad County|67
@@ -44,6 +50,8 @@ Taupont|47.959|-2.439|FR|Brittany|66
 Taurasi|41.011|14.960|IT|Campania|66
 Taulignan|44.444|4.971|FR|Auvergne-Rhône-Alpes|65
 Taurano|40.884|14.634|IT|Campania|64
+Taubensee|47.700|12.433|AT||63|f
+Tauksi Saar|58.822|23.453|EE|Lääne|63|f
 Taung Chaung|16.553|96.036|MM|Yangon|63
 Tauriac|45.049|-0.500|FR|New Aquitaine|63
 Taufkirchen|48.150|12.450|DE|Bavaria|62
@@ -51,17 +59,60 @@ Tautenhain|50.925|11.919|DE|Thuringia|62
 Taujica|15.700|-85.917|HN|Colón Department|62
 Taugl|47.647|13.203|AT|Salzburg|62
 Tauxigny|47.213|0.835|FR|Centre-Val de Loire|61
+Tau Islands|-64.294|-62.898|AQ||61|f
+Taumako|-9.875|167.179|SB||61|f
+Taunus|50.250|8.250|DE|Hesse|61|f
+Tautra|63.575|10.605|NO|Trøndelag|61|f
 Tauriano|46.107|12.866|IT|Friuli Venezia Giulia|61
 Tăureni|46.269|25.260|RO|Harghita County|60
 Tăut|46.720|21.838|RO|Bihor County|60
+Tăutești|47.233|27.465|RO|Iași County|60
+Tautavel|42.814|2.746|FR|Occitanie|59
+Tautenhain|50.913|12.508|DE|Thuringia|59
 Tausa|5.199|-73.891|CO|Cundinamarca|59
+Tăureni|46.580|24.081|RO|Mureș County|59
 Ta`ū|-14.234|-169.514|AS|Manu'a|59
+Tauberrettersheim|49.494|9.937|DE|Bavaria|58
+Taubenberg|47.830|11.765|DE|Bavaria|58|f
+Taudaha Lake|27.649|85.282|NP|Bagmati Province|58|f
+Taufichtig|50.456|12.904|DE|Saxony|58|f
+Taufstein|50.517|9.238|DE|Hesse|58|f
+Taufkirchen an der Pram|48.411|13.540|AT|Upper Austria|58
+Tauer|51.900|14.450|DE|Brandenburg|58
+Tauves|45.560|2.623|FR|Auvergne-Rhône-Alpes|58
+Taucha|51.193|12.080|DE|Saxony-Anhalt|57
+Tăuți|46.096|23.468|RO|Alba County|56
+Taugon|46.309|-0.835|FR|New Aquitaine|56
 Tauplitz|47.560|14.013|AT|Styria|56
+Tău|46.071|23.842|RO|Alba County|55
+Tăure|47.206|24.322|RO|Bistrița-Năsăud County|55
+Tauribamba|-12.040|-74.583|PE|Huancavelica|55
+Taugwitz|51.125|11.635|DE|Saxony-Anhalt|55
+Taussac|44.829|2.642|FR|Occitanie|55
+Taum Sauk Mountain|37.571|-90.729|US|Missouri|54|f
+Taungnyo Taung|15.384|98.123|MM||54|f
+Taupo Airport|-38.738|176.080|NZ|Auckland|54|f
+Tauraria|-16.083|-179.167|FJ|Northern|54|f
+Tauresium|41.900|21.613|MK|Zelenikovo|54|f
 Taufkirchen an der Trattnach|48.247|13.748|AT|Upper Austria|52
+Tautenburg|50.991|11.716|DE|Thuringia|50
+Tauhunu|-10.421|-161.033|CK||49|f
+Tauna|-23.146|-134.852|PF|Tuamotu-Gambier Islands|49|f
+Taunton National Park|-23.532|149.222|AU|Queensland|49|f
+Taureau Reservoir|46.766|-73.832|CA|Quebec|49|f
 Taurisma|-15.175|-72.850|PE|Arequipa|48
 Tauria|-15.354|-73.232|PE|Arequipa|45
+Tautendorf|50.817|11.900|DE|Thuringia|44
+Tauanui Lake|-35.500|173.867|NZ||40|f
+Taubenkogel|47.505|13.647|AT|Upper Austria|40|f
+Taughannock Falls State Park|42.543|-76.606|US|New York|40|f
+Taunton Castle|51.016|-3.105|GB|England|40|f
+Tauranga Harbour|-37.608|176.000|NZ|Auckland|40|f
+Tautuku Peninsula|-46.604|169.438|NZ||40|f
 Taulaga|-11.055|-171.088|AS|Swains Island|31
+Taubneno|-9.861|124.285|ID|East Nusa Tenggara|0
 Tauca|-8.470|-78.038|PE|Ancash|0
+Taunan|-6.775|111.216|ID|Central Java|0
 Taung|-27.531|24.787|ZA|North West|0
 Taura|12.227|9.283|NG|Jigawa State|0
 Taurija|-8.309|-77.422|PE|La Libertad|0

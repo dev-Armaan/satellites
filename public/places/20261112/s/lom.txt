@@ -23,6 +23,7 @@ Lomas de San Sebastián|19.379|-98.925|MX|México|82
 Lomma|55.672|13.068|SE|Skåne|82
 Lomas de San Agustín|20.527|-103.468|MX|Jalisco|81
 Lomas de Barrillas|18.148|-94.526|MX|Veracruz|79
+Lombok International Airport|-8.759|116.277|ID|West Nusa Tenggara|78|f
 Lomazzo|45.697|9.034|IT|Lombardy|78
 Lomas de Sargentillo|-1.881|-80.084|EC|Guayas|78
 Lomo de Arico|28.167|-16.483|ES|Canary Islands|77
@@ -32,16 +33,22 @@ Lomas Verdes|19.504|-96.889|MX|Veracruz|76
 Lomara|10.352|-6.339|CI|Savanes District|76
 Lommatzsch|51.195|13.309|DE|Saxony|76
 Lomnice nad Popelkou|50.531|15.373|CZ|Liberec Region|76
+Lombo Airport|4.440|19.539|CD|Équateur|75|f
+Lomé–Tokoin Airport|6.166|1.255|TG|Maritime|75|f
 Lomas de Altavista|19.361|-98.945|MX|México|75
 Loma la Paz|25.711|-100.135|MX|Nuevo León|75
+Lomnický štít|49.195|20.213|SK|Prešov Region|74|f
+Lompoc Airport|34.666|-120.468|US|California|73|f
 Lomintsevskiy|53.985|37.665|RU|Tula Oblast|73
 Lomagna|45.666|9.377|IT|Lombardy|73
 Loma Alta|19.691|-99.449|MX|México|73
 Lomitas|18.065|-92.961|MX|Tabasco|73
 Loma Pelada|20.572|-101.294|MX|Guanajuato|73
+Loma Prieta|37.111|-121.845|US|California|72|f
 Loma Larga|19.628|-99.346|MX|México|72
 Lomnička|49.250|20.570|SK|Prešov Region|72
 Lom|50.593|13.657|CZ|Ústí nad Labem Region|72
+Lomfjorden|79.514|17.918|SJ||71|f
 Loma|9.759|-12.034|SL|Northern Province|71
 Lomboy|15.493|120.717|PH|Central Luzon|70
 Lomābād|35.643|50.958|IR|Tehran|70
@@ -98,6 +105,9 @@ Loma Tendida|20.376|-101.311|MX|Guanajuato|61
 Loma Bonita|19.263|-99.447|MX|México|61
 Lompico|37.105|-122.053|US|California|61
 Loma de Guamúchil|27.611|-109.988|MX|Sonora|61
+Lomlom|-10.307|166.316|SB|Temotu Province|61|f
+Lomseggi|61.817|8.367|NO|Innlandet|61|f
+Łomża Ghetto|53.183|22.083|PL|Podlasie|61|f
 Loma Angosta|18.782|-96.671|MX|Veracruz|61
 Lomas de Romero|18.914|-97.717|MX|Puebla|61
 Lomas de Tlatelolco|32.483|-116.802|MX|Baja California|61
@@ -111,9 +121,126 @@ Lomantán|16.440|-92.064|MX|Chiapas|60
 Loma Bonita|18.513|-96.868|MX|Puebla|60
 Loma del Refugio|27.122|-109.459|MX|Sonora|60
 Lombriasco|44.841|7.636|IT|Piedmont|60
+Loma San Juan|18.100|-96.544|MX|Oaxaca|60
+Lomas de Miradores|19.460|-96.786|MX|Veracruz|60
+Lomas del Pedregal|19.746|-98.492|MX|Hidalgo|60
+Lommis|47.517|8.997|CH|Thurgau|60
+Lomazóyatl (Lomazoya)|17.354|-98.461|MX|Guerrero|60
+Lomas de Arena|20.410|-97.161|MX|Veracruz|60
+Lomas del Pedregal|18.914|-99.151|MX|Morelos|60
+Lomas|18.269|-65.909|PR|Canóvanas|60
+Loma del Salitre (Colonia Loma del Salitre)|19.454|-99.839|MX|México|59
+Loma de los Esquiveles|19.265|-99.451|MX|México|59
+Lomas del Pedregal|32.489|-116.794|MX|Baja California|59
+Lomas de San Juan|19.209|-99.463|MX|México|59
+Lomo-Nord|6.653|-4.976|CI|Lacs District|59
+Lomas de San Juan|17.004|-96.766|MX|Oaxaca|59
+Lombers|43.805|2.150|FR|Occitanie|59
+Lomuvatka|48.454|38.568|UA|Luhansk|59
+Lompirt|47.323|22.846|RO|Sălaj County|59
+Loma de Buenavista|21.176|-100.344|MX|Guanajuato|59
+Loma de Cedro|18.030|-96.468|MX|Oaxaca|59
+Lometa|31.217|-98.393|US|Texas|59
+Loma de San Nicolás|19.441|-99.606|MX|México|58
+Loma de Hidalgo|19.747|-97.296|MX|Veracruz|58
+Loma de Progreso|19.427|-99.626|MX|México|58
+Loma del Jacal (Loma de las Mangas)|19.470|-99.875|MX|México|58
+Loma de Chapultepec|19.614|-99.411|MX|México|58
+Loma El Yunque de Baracoa|20.353|-74.574|CU|Guantánamo Province|58|f
+Loma Mansa|9.227|-11.114|SL|Northern Province|58|f
+Loma Mountains|9.191|-11.106|SL|Northern Province|58|f
+Loma Yanajirca|-10.055|-76.958|PE|Huánuco Department|58|f
+Lomas Bay|-52.590|-69.051|CL|Region of Magallanes|58|f
+Lomita Railroad Museum|33.799|-118.318|US|California|58|f
+Lomonosov Mountains|-71.550|15.400|AQ||58|f
+Lompoc Hills|34.582|-120.462|US|California|58|f
+Lomas de Vinazco|20.862|-97.883|MX|Veracruz|58
+Loma de Buenavista|19.637|-99.613|MX|México|58
+Loma Hermosa|19.634|-99.630|MX|México|58
+Lomas Alegres 1ra. Sección|17.587|-92.660|MX|Tabasco|58
+Łomna|52.382|20.779|PL|Mazovia|58
+Loma de San Rafael|21.000|-101.792|MX|Guanajuato|58
+Loma Linda|36.991|-94.587|US|Missouri|58
+Lomas Verdes|20.262|-97.949|MX|Puebla|58
+Loma Hidalgo Colonia Benito Juárez|19.595|-99.643|MX|México|58
+Loma del Nanche|19.201|-96.386|MX|Veracruz|58
+Loma del Cedro|19.508|-100.154|MX|México|58
+Loma de los Ingleses|18.141|-95.175|MX|Veracruz|57
+Loma Tuza|17.353|-98.869|MX|Guerrero|57
+Lomas de Santa Anita (Colinas de Santa Anita)|20.501|-103.494|MX|Jalisco|57
+Loma de San Pedro|8.432|-82.552|PA|Chiriquí Province|57
+Loma de San Pablo|19.394|-100.177|MX|México|57
+Loma Bonita (Paraje Jagüey)|17.064|-96.789|MX|Oaxaca|57
+Loma de Piedra|18.097|-96.440|MX|Oaxaca|56
+Loma Chilar|18.142|-96.827|MX|Oaxaca|56
+Lomo-Soukpèbo|7.521|-5.220|CI|Vallée du Bandama District|56
+Loma Bonita|20.057|-98.306|MX|Hidalgo|56
+Lomas de la Loza|21.063|-101.554|MX|Guanajuato|56
+Loma del Astillero|19.586|-99.673|MX|México|56
+Loma Chica|28.116|-105.343|MX|Chihuahua|56
+Lomas del Mar|32.454|-117.065|MX|Baja California|56
+Lomas del Dorado|20.809|-97.979|MX|Veracruz|56
+Loma Bonita|20.939|-97.677|MX|Veracruz|56
+Loma de Guadalupe|19.297|-99.802|MX|México|56
+Lomas de Teocaltzingo (Loma de Tecalzingo)|19.005|-99.384|MX|México|56
+Loma Bonita|16.206|-92.971|MX|Chiapas|56
+Loma de Moroncarit|26.752|-109.674|MX|Sonora|56
+Loma del Cojolite|19.975|-96.822|MX|Veracruz|56
+Lomas de Abasolo|32.621|-115.365|MX|Baja California|56
+Lomba|14.969|-24.450|CV||56
+Lomeh Daraq|39.081|47.395|IR|East Azerbaijan|56
+Loma Blanca|19.079|-102.798|MX|Michoacán|56
+Loma Fina (Loma Pelona)|19.263|-96.410|MX|Veracruz|56
+Loman|45.858|23.553|RO|Alba County|56
+Loma Bonita|18.409|-97.032|MX|Puebla|56
+Lomas de Monterrey|23.255|-106.257|MX|Sinaloa|56
+Lomas de Menchaca|20.637|-100.384|MX|Querétaro|56
+Loma Bonita|18.489|-97.086|MX|Veracruz|56
+Loma de Guadalupe|19.509|-100.001|MX|México|56
+Loma de la Palma|18.245|-94.988|MX|Veracruz|55
+Loma de San Felipe|19.587|-99.667|MX|México|55
+Lomonosovo|45.402|34.684|UA|Crimea|55
+Loma de San Rafael|19.412|-96.345|MX|Veracruz|55
+Loma Larga|19.458|-100.361|MX|Michoacán|55
+Loma Alta|19.481|-99.604|MX|México|55
+Loma del Rancho|19.599|-100.076|MX|México|55
+Loma Santa Cruz|16.989|-95.324|MX|Oaxaca|55
+Loma Naranja|18.040|-96.594|MX|Oaxaca|55
+Loma Bonita|17.609|-95.083|MX|Veracruz|55
+Lomas de Comanjilla|21.033|-101.529|MX|Guanajuato|55
+Lomono|9.276|-4.607|CI|Savanes District|55
+Loma Vicente Guerrero|19.583|-99.653|MX|México|55
+Lomas de San José|20.954|-100.769|MX|Guanajuato|55
+Lommoye|48.994|1.513|FR|Île-de-France|55
+Lomas de la Cruz|20.516|-100.453|MX|Querétaro|55
+Lomnice|49.871|17.415|CZ|Moravian-Silesian Region|55
+Loma Bonita|18.814|-98.916|MX|Morelos|55
+Loma Alta|19.172|-99.807|MX|México|54
+Loma Alta|17.979|-95.634|MX|Veracruz|54
+Loma de Acuitlapilco|18.942|-99.786|MX|México|54
+Loma de Hujuapan|18.012|-95.213|MX|Veracruz|54
+Lómagnúpur|63.990|-17.524|IS|South|54|f
+Lombimaa|57.894|22.043|EE|Saare|54|f
+Lombok Island|-8.677|116.333|ID|West Nusa Tenggara|54|f
+Lomlom Airport|-10.297|166.327|SB|Temotu Province|54|f
+Lomnessjøen|61.743|11.199|NO|Innlandet|54|f
+Loma Linda|20.012|-99.822|MX|México|54
+Lomaniga|45.703|9.358|IT|Lombardy|54
+Loma del Madroño|19.534|-99.645|MX|México|54
+Lom u Tachova|49.818|12.693|CZ|Plzeň Region|54
+Loma Mulato|18.719|-96.608|MX|Veracruz|54
+Loma del Izote (Mata Planta)|18.624|-96.604|MX|Veracruz|54
+Lombar|38.551|47.892|IR|Ardabil Province|54
+Lomako Forest Reserve|0.933|21.333|CD|Équateur|49|f
+Lomas de Lachay|-11.350|-77.383|PE|Lima region|49|f
+Lomas Ridge|-64.354|-57.603|AQ||49|f
+Lom Pangar Dam|5.378|13.453|CM|East|40|f
+Lom Peak|-62.709|-60.261|AQ||40|f
+Lompoc Museum|34.637|-120.458|US|California|40|f
 Lomas|42.274|-4.551|ES|Castille and León|35
 Loma Yuca|8.722|-81.402|PA|Ngöbe-Buglé Comarca|25
 Lom Kao|16.886|101.229|TH|Phetchabun|0
 Loma Alta|22.884|-99.026|MX|Tamaulipas|0
 Loma de Franco|-3.343|-79.793|EC|El Oro|0
+Lomai|31.255|92.636|CN|Tibet|0
 Lombe|-9.487|16.153|AO|Malanje|0

@@ -5,6 +5,7 @@ Troms|69.266|19.515|NO||101|r
 Troy|42.606|-83.150|US|Michigan|98
 Troitsk|54.092|61.568|RU|Chelyabinsk|98
 Troisdorf|50.809|7.150|DE|North Rhine-Westphalia|97
+Troy|39.957|26.239|TR|Canakkale|96|f
 Troyes|48.301|4.085|FR|Grand Est|96
 Troy|42.728|-73.692|US|New York|94
 Trollhättan|58.284|12.289|SE|Västra Götaland|94
@@ -40,6 +41,7 @@ Troya|6.252|-7.495|CI|Montagnes|79
 Trois-Rivières|15.976|-61.645|GP|Guadeloupe|79
 Trørød|55.839|12.544|DK|Capital Region|79
 Troitsko-Pechorsk|62.719|56.172|RU|Komi|79
+Troodos Mountains|34.923|32.851|CY|Limassol|78|f
 Trofaiach|47.425|15.007|AT|Styria|78
 Trostyanets|48.509|29.227|UA|Vinnytsia|78
 Trooz|50.570|5.695|BE|Wallonia|78
@@ -53,9 +55,15 @@ Troitskaya|45.135|38.125|RU|Krasnodar Krai|76
 Trompsburg|-30.034|25.780|ZA|Free State|76
 Troitskiy|51.359|37.525|RU|Belgorod Oblast|76
 Trosa|58.896|17.548|SE|Södermanland|75
+Tromelin Island|-15.892|54.523|TF||75|f
 Trouville-sur-Mer|49.366|0.080|FR|Normandy|75
 Trooper|40.150|-75.402|US|Pennsylvania|75
+Trojan Range|-64.533|-63.383|AQ||74|f
+Tropicana Field|27.768|-82.653|US|Florida|74|f
+Troy Municipal Airport|31.860|-86.012|US|Alabama|74|f
 Troyitske|46.542|30.023|UA|Odesa|74
+Trocadero - Chaillot Palace|48.862|2.288|FR|Île-de-France|73|f
+Trona Airport|35.813|-117.328|US|California|73|f
 Troizína|37.497|23.363|GR|Attica|73
 Troitskoye|55.300|38.533|RU|Moscow Oblast|73
 Trodica|43.275|13.594|IT|The Marches|73
@@ -63,11 +71,15 @@ Troitskoye|43.762|44.684|RU|North Ossetia–Alania|72
 Troitsk|55.701|72.234|RU|Omsk Oblast|72
 Troistorrents|46.229|6.916|CH|Valais|72
 Trochu|6.032|-4.735|CI|Lagunes District|71
+Tromsø Airport, Langnes|69.683|18.917|NO|Troms|71|f
+Trondra|60.117|-1.283|GB|Scotland|71|f
 Troianul|44.000|25.000|RO|Teleorman County|71
 Troy|35.358|-79.894|US|North Carolina|71
 Tromello|45.209|8.871|IT|Lombardy|71
 Troarn|49.178|-0.182|FR|Normandy|71
 Troitskoye|46.920|142.638|RU|Sakhalin Oblast|70
+Trollhättan–Vänersborg Airport|58.318|12.345|SE|Västra Götaland|70|f
+Trongisvágsfjørður|61.537|-6.779|FO|Suðuroy|70|f
 Trokpadrou|7.322|-7.471|CI|Montagnes|70
 Trombas|-13.509|-48.740|BR|Goiás|70
 Trois Pistoles|48.117|-69.167|CA|Quebec|70
@@ -76,6 +88,7 @@ Trouy|47.012|2.360|FR|Centre-Val de Loire|70
 Tronzano Vercellese|45.342|8.174|IT|Piedmont|70
 Troyebratskiy|54.443|66.080|KZ|Kostanay|69
 Trongsa|27.503|90.507|BT|Tongsa|69
+Troy Airport|48.479|-115.904|US|Montana|69|f
 Troyel’ga|57.464|56.536|RU|Perm Krai|68
 Trosna|52.445|35.780|RU|Oryol oblast|68
 Tröstau|50.017|11.950|DE|Bavaria|68
@@ -93,6 +106,9 @@ Troubky|49.432|17.349|CZ|Olomouc Region|66
 Trodrou|7.264|-7.283|CI|Montagnes|66
 Troup|32.145|-95.121|US|Texas|66
 Tromabo|6.721|-4.708|CI|Lacs District|66
+Trois-Rivières Airport|46.353|-72.679|CA|Quebec|65|f
+Tromøy|58.461|8.893|NO|Agder|65|f
+Trossö|56.162|15.587|SE|Blekinge|65|f
 Troubelice|49.817|17.081|CZ|Olomouc Region|65
 Troy|31.207|-97.303|US|Texas|65
 Troubsko|49.170|16.511|CZ|South Moravian|65
@@ -105,6 +121,10 @@ Trönninge|56.617|12.933|SE|Halland|64
 Trouillas|42.611|2.808|FR|Occitanie|64
 Trossin|51.617|12.817|DE|Saxony|64
 Troyitske|47.335|31.738|UA|Mykolaiv|64
+Trochus Island|-10.922|142.630|AU|Queensland|63|f
+Trójmorski Wierch|50.157|16.791|CZ||63|f
+Trollhetta|62.852|9.324|NO|Møre og Romsdal|63|f
+Trondheim Airport, Værnes|63.458|10.924|NO|Trøndelag|63|f
 Troisvierges|50.121|6.000|LU|Clervaux|63
 Troy|40.915|-78.216|US|Pennsylvania|63
 Troense|55.033|10.644|DK|South Denmark|63
@@ -115,6 +135,9 @@ Trohempleu|7.233|-8.187|CI|Montagnes|62
 Troy|41.786|-76.788|US|Pennsylvania|62
 Troy|42.824|-72.181|US|New Hampshire|62
 Troissereux|49.480|2.045|FR|Hauts-de-France|62
+Trolltindan|62.486|7.718|NO|Møre og Romsdal|61|f
+Trondheimsfjorden|63.650|10.817|NO|Trøndelag|61|f
+Troughton Island Airport|-13.753|126.149|AU|Western Australia|61|f
 Troviggiano|43.379|13.250|IT|The Marches|61
 Trogui|7.178|-8.014|CI|Montagnes|61
 Troúlloi|35.033|33.616|CY|Larnaka|61
@@ -123,20 +146,140 @@ Trollenhagen|53.607|13.291|DE|Mecklenburg-Vorpommern|61
 Tronconal|19.565|-96.863|MX|Veracruz|60
 Troy|44.665|-69.241|US|Maine|60
 Troy|39.783|-95.090|US|Kansas|60
+Tronari|45.219|26.438|RO|Buzău County|60
+Tronget|46.423|3.068|FR|Auvergne-Rhône-Alpes|60
+Trojes|18.931|-100.277|MX|México|60
+Troitsko-Khartsyzk|47.968|38.271|UA|Donetsk|59
+Troianivka|51.336|25.285|UA|Volyn|59
+Troy|46.737|-116.770|US|Idaho|59
 Trovo|45.283|9.035|IT|Lombardy|59
+Troy|48.463|-115.890|US|Montana|59
+Troghi|43.715|11.396|IT|Tuscany|59
+Troița|46.484|24.770|RO|Mureș County|59
+Troncones y Potrerillos|20.477|-97.472|MX|Veracruz|59
+Trönninge|57.145|12.293|SE|Halland|59
+Troitske|49.368|33.534|UA|Poltava|58
 Trofors|65.533|13.406|NO|Nordland|58
+Troissy|49.081|3.710|FR|Grand Est|58
+Tröbitz|51.600|13.433|DE|Brandenburg|58
+Troisvilles|50.105|3.470|FR|Hauts-de-France|58
+Trocadéro Gardens|48.862|2.289|FR|Île-de-France|58|f
+Trojan|42.552|19.751|ME||58|f
+Trollslottet Mountain|-71.933|7.200|AQ||58|f
+Trompeteros Airport|-3.806|-75.040|PE|Loreto|58|f
+Tropiquaria|51.160|-3.348|GB|England|58|f
+Trostan|55.050|-6.167|GB|Northern Ireland|58|f
+Trodelepleu|7.290|-8.179|CI|Montagnes|58
+Trohe|50.610|8.753|DE|Hesse|58
+Trostan’|52.526|32.015|RU|Bryansk Oblast|58
+Tron Hounien|7.113|-8.156|CI|Montagnes|58
+Troyitske|47.056|36.866|UA|Zaporizhzhia|58
+Trönningenäs|57.138|12.226|SE|Halland|57
+Troshkovo|55.602|38.412|RU|Moscow Oblast|57
+Trouville-la-Haule|49.419|0.578|FR|Normandy|57
+Troncones|17.779|-101.720|MX|Guerrero|57
+Trois-Palis|45.641|0.056|FR|New Aquitaine|57
 Troszyn|53.031|21.731|PL|Mazovia|57
 Trojanów|51.692|21.811|PL|Mazovia|57
+Trom|13.691|107.181|KH|Ratanakiri|57
+Trockenborn-Wolfersdorf|50.783|11.700|DE|Thuringia|56
 Trodena|46.322|11.350|IT|Trentino-Alto Adige|56
+Trouhans|47.149|5.275|FR|Bourgogne-Franche-Comté|56
+Trozandepleu|7.220|-8.178|CI|Montagnes|56
+Trojes de Paúl|20.322|-101.769|MX|Guanajuato|56
+Troszyn|52.771|14.560|PL|West Pomerania|56
+Trosly-Loire|49.519|3.229|FR|Hauts-de-France|56
+Troskotovice|48.919|16.438|CZ|South Moravian|56
+Trouville|49.573|0.601|FR|Normandy|55
+Trout Lake|45.997|-121.528|US|Washington|55
+Troupoungo|9.306|-5.741|CI|Savanes District|55
+Trongisvágur|61.563|-6.848|FO|Suðuroy|55
+Trout Valley|42.198|-88.253|US|Illinois|54
+Tropovci|46.654|16.103|SI|Municipality of Tišina|54
+Trobriand Islands|-8.638|150.852|PG|Milne Bay Province|54|f
+Trölladyngja|64.894|-17.250|IS|Northeast|54|f
+Trollaskenuten|59.732|6.997|NO|Rogaland|54|f
+Trolley Museum|43.408|-70.489|US|Maine|54|f
+Trollfjorden|68.363|14.936|NO|Nordland|54|f
+Trollheimen|62.850|9.083|NO|Møre og Romsdal|54|f
+Trollkjelneset Headland|-71.400|-1.100|AQ||54|f
+Trollkjelpiggen Peak|-71.600|-1.150|AQ||54|f
+Trombetas Airport|-1.490|-56.397|BR|Pará|54|f
+Tromeđa|42.556|20.079|AL|Kukës County|54|f
+Tromsøbreen|76.915|17.097|SJ|Svalbard|54|f
+Tronchetto|45.440|12.303|IT|Veneto|54|f
+Tronden|62.174|10.695|NO|Innlandet|54|f
+Trooz Glacier|-65.346|-63.767|AQ||54|f
+Trott’s Pond|32.328|-64.703|BM|Hamilton|54|f
+Trou Caïman|18.644|-72.145|HT|Ouest|54|f
+Troughton Island|-13.753|126.149|AU|Western Australia|54|f
+Trout Creek Hill|45.837|-121.995|US|Washington|54|f
+Trout Creek Mountains|42.100|-118.293|US|Oregon|54|f
+Trout Lake|44.901|-110.130|US|Wyoming|54|f
+Trout Lake Airport|46.002|-121.522|US|Washington|54|f
+Trowbridge Island|-61.996|-57.630|AQ||54|f
+Troy Skypark|39.990|-84.273|US|Ohio|54|f
+Troyes-Barberey|48.322|4.017|FR|Grand Est|54|f
+Trojes|22.821|-103.538|MX|Zacatecas|54
+Tropic|37.625|-112.082|US|Utah|54
+Troche|45.388|1.441|FR|New Aquitaine|54
+Trondes|48.716|5.773|FR|Grand Est|54
+Trout River|49.483|-58.132|CA|Newfoundland and Labrador|54
+Tröbnitz|50.833|11.733|DE|Thuringia|54
 Trontano|46.122|8.333|IT|Piedmont|53
+Tröndel|54.333|10.517|DE|Schleswig-Holstein|53
+Tröchtelborn|51.000|10.817|DE|Thuringia|50
+Troglav|43.648|20.480|RS||49|f
+Troglav|43.437|20.092|RS|Central Serbia|49|f
+Trolla|62.686|8.732|NO|Møre og Romsdal|49|f
+Trollhaugen|60.320|5.329|NO|Vestland|49|f
+Trolltinder Mountain|51.550|-116.486|CA|British Columbia|49|f
+Trollvatnet|67.633|15.395|NO|Nordland|49|f
+Tropaeum Traiani|44.083|27.967|RO|Constanța County|49|f
+Tropenmuseum|52.363|4.922|NL|North Holland|49|f
+Trost Peak|-67.867|62.787|AQ||49|f
+Trou aux Cerfs Volcano|-20.318|57.512|MU|Plaines Wilhems|49|f
+Troubridge Island|-35.118|137.828|AU|South Australia|49|f
+Troubridge Island Conservation Park|-35.118|137.826|AU|South Australia|49|f
+Trout Island|-66.033|-65.437|AQ||49|f
+Trowlock Island|51.425|-0.309|GB|England|49|f
+Troy Museum and Historic Village|42.578|-83.149|US|Michigan|49|f
 Trössing|46.817|15.817|AT|Styria|48
+Troistedt|50.933|11.250|DE|Thuringia|47
 Tronzano Lago Maggiore|46.089|8.733|IT|Lombardy|45
 Tronchón|40.621|-0.398|ES|Aragon|41
+Trockener Steg|45.970|7.710|CH|Valais|40|f
+Trodely Island|52.256|-79.433|CA|Nunavut|40|f
+Troglav|43.807|17.651|BA|Federation of B&H|40|f
+Trojský kanál|50.113|14.426|CZ|Prague|40|f
+Trojský Zámek|50.116|14.413|CZ|Prague|40|f
+Trolley Square|40.757|-111.872|US|Utah|40|f
+Trollin Lake|45.669|-93.163|US|Minnesota|40|f
+Tromm|49.603|8.805|DE|Hesse|40|f
+Tromsø Museum|69.635|18.912|NO|Troms|40|f
+Trophy Mountain|51.800|-119.869|CA|British Columbia|40|f
+Trosper Lake|46.996|-122.932|US|Washington|40|f
+Trout Brook Mountain|42.069|-75.046|US|New York|40|f
+Trout Island|45.772|-85.690|US|Michigan|40|f
+Trout Lake|45.212|-62.740|CA|Nova Scotia|40|f
+Trout Lake|44.825|-62.837|CA|Nova Scotia|40|f
+Trout Lake|46.314|-79.324|CA|Ontario|40|f
+Trout Lake|49.256|-123.062|CA|British Columbia|40|f
+Trout Lake|50.567|-117.411|CA|British Columbia|40|f
+Trout Lake|27.647|-81.507|US|Florida|40|f
+Trout Lake|41.005|-75.339|US|Pennsylvania|40|f
+Trout Lake|46.041|-89.671|US|Wisconsin|40|f
+Trout Lake|48.680|-113.910|US|Montana|40|f
+Trout Pond|38.955|-78.736|US|West Virginia|40|f
+Troy Peak|38.319|-115.500|US|Nevada|40|f
+Troyan Peak|-62.699|-60.244|AQ||40|f
+Trogan Barat|-6.924|112.861|ID|East Java|0
 Trôi|21.070|105.706|VN|Hanoi|0
 Trới|21.031|106.991|VN|Quảng Ninh|0
 Trøim|60.861|8.565|NO|Buskerud|0
 Troitske|48.410|35.868|UA|Dnipropetrovsk|0
 Troitskoye|49.441|136.548|RU|Khabarovsk|0
+Trolu|-6.742|111.215|ID|Central Java|0
 Trompeteros|-3.814|-75.058|PE|Loreto|0
 Tron|17.482|100.113|TH|Uttaradit|0
 Tróodos|34.923|32.880|CY|Limassol|0

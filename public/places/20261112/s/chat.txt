@@ -12,11 +12,13 @@ Châtelet|50.403|4.528|BE|Wallonia|91
 Châtenay-Malabry|48.765|2.267|FR|Île-de-France|90
 Châtillon|48.802|2.293|FR|Île-de-France|90
 Chatham|41.741|-87.613|US|Illinois|90
+Château de Chambord|47.616|1.517|FR|Centre-Val de Loire|90|f
 Chatou|48.890|2.159|FR|Île-de-France|90
 Chato|-2.638|31.767|TZ|Geita|90
 Chatan|26.309|127.770|JP|Okinawa|89
 Chatswood|-33.800|151.183|AU|New South Wales|88
 Chatuchak subdistrict|13.827|100.555|TH|Bangkok|87
+Château de Villandry|47.341|0.513|FR|Centre-Val de Loire|85|f
 Châtelineau|50.415|4.520|BE|Wallonia|85
 Châteaudun|48.071|1.338|FR|Centre-Val de Loire|84
 Château-Thierry|49.046|3.403|FR|Hauts-de-France|84
@@ -26,10 +28,13 @@ Châteaubriant|47.717|-1.376|FR|Pays de la Loire|82
 Chatham|39.676|-89.705|US|Illinois|82
 Château-Gontier|47.827|-0.705|FR|Pays de la Loire|82
 Châteauneuf-les-Martigues|43.384|5.164|FR|Provence-Alpes-Côte d'Azur|81
+Château de Langeais|47.325|0.406|FR|Centre-Val de Loire|80|f
+Chattanooga Metropolitan Airport|35.035|-85.204|US|Tennessee|80|f
 Chatteris|52.456|0.052|GB|England|80
 Chatham|40.741|-74.384|US|New Jersey|79
 Chatibor Gaon|26.518|90.523|IN|Assam|78
 Châteauneuf-sur-Loire|47.866|2.219|FR|Centre-Val de Loire|77
+Château de Champs-sur-Marne|48.854|2.604|FR|Île-de-France|77|f
 Chatrapatti|9.345|77.921|IN|Tamil Nadu|77
 Châtillon-sur-Seine|47.859|4.574|FR|Bourgogne-Franche-Comté|77
 Châteaugiron|48.048|-1.504|FR|Brittany|76
@@ -37,14 +42,17 @@ Châtillon-sur-Seiche|48.034|-1.671|FR|Brittany|76
 Châtelaillon-Plage|46.073|-1.088|FR|New Aquitaine|76
 Châtenoy-le-Royal|46.798|4.812|FR|Bourgogne-Franche-Comté|76
 Chatrūd|30.604|56.910|IR|Kerman|75
+Château de Bonaguil|44.538|1.014|FR|Occitanie|75|f
 Château-Renault|47.592|0.911|FR|Centre-Val de Loire|75
 Châtel-Guyon|45.923|3.064|FR|Auvergne-Rhône-Alpes|75
 Château-du-Loir|47.694|0.418|FR|Pays de la Loire|75
 Châteaulin|48.195|-4.094|FR|Brittany|75
 Châteaubourg|48.111|-1.403|FR|Brittany|75
 Chathirareddipatti|9.625|77.967|IN|Tamil Nadu|75
+Château de Termes|43.002|2.557|FR|Occitanie|74|f
 Châtel-Saint-Denis|46.527|6.901|CH|Fribourg|74
 Chatsworth|-33.548|18.582|ZA|Western Cape|74
+Châteauroux-Centre Marcel Dassault Airport|46.862|1.731|FR|Centre-Val de Loire|73|f
 Châtillon-sur-Chalaronne|46.118|4.957|FR|Auvergne-Rhône-Alpes|73
 Chat Trakan|17.276|100.600|TH|Phitsanulok|73
 Chatsworth|34.766|-84.770|US|Georgia|73
@@ -54,6 +62,8 @@ Châteaubernard|45.673|-0.315|FR|New Aquitaine|72
 Chattanooga Valley|34.933|-85.356|US|Georgia|72
 Châteauneuf-du-Faou|48.187|-3.815|FR|Brittany|72
 Château-Landon|48.147|2.698|FR|Île-de-France|72
+Château de Saint-Cloud|48.838|2.219|FR|Île-de-France|71|f
+Chatkal Range|41.472|70.752|KG||71|f
 Châteauneuf-sur-Isère|45.017|4.933|FR|Auvergne-Rhône-Alpes|71
 Châtenois|48.272|7.401|FR|Grand Est|71
 Château-Richer|46.960|-71.032|CA|Quebec|71
@@ -78,6 +88,7 @@ Châteauneuf-sur-Sarthe|47.681|-0.488|FR|Pays de la Loire|68
 Châteauneuf-en-Thymerais|48.581|1.241|FR|Centre-Val de Loire|68
 Châteauponsac|46.134|1.275|FR|New Aquitaine|68
 Château-Renard|47.933|2.933|FR|Centre-Val de Loire|67
+Château du Hohlandsbourg|48.060|7.269|FR|Grand Est|67|f
 Châteauneuf-du-Rhône|44.489|4.717|FR|Auvergne-Rhône-Alpes|67
 Châtel-Saint-Germain|49.123|6.080|FR|Grand Est|67
 Châteauneuf-du-Pape|44.056|4.832|FR|Provence-Alpes-Côte d'Azur|67
@@ -88,6 +99,9 @@ Châtenois|48.303|5.831|FR|Grand Est|66
 Châtillon-Coligny|47.823|2.846|FR|Centre-Val de Loire|66
 Châteauneuf-de-Galaure|45.230|4.958|FR|Auvergne-Rhône-Alpes|66
 Châtillon-le-Duc|47.305|6.008|FR|Bourgogne-Franche-Comté|66
+Chateau de Tournay|46.237|6.138|CH|Geneva|65|f
+Chateau des Marais|49.472|-2.538|GG||65|f
+Châteaudun Air Base|48.058|1.377|FR|Centre-Val de Loire|65|f
 Châtel-sur-Moselle|48.314|6.394|FR|Grand Est|65
 Châtonnay|45.487|5.212|FR|Auvergne-Rhône-Alpes|65
 Châtillon-en-Vendelais|48.225|-1.179|FR|Brittany|65
@@ -102,6 +116,11 @@ Châteaufort|48.736|2.091|FR|Île-de-France|64
 Châtillon-sur-Cher|47.276|1.494|FR|Centre-Val de Loire|64
 Chatham|36.826|-79.398|US|Virginia|63
 Châteauneuf|45.525|4.640|FR|Auvergne-Rhône-Alpes|63
+Château de Hagueneck|48.052|7.275|FR|Grand Est|63|f
+Château de Pflixbourg|48.067|7.254|FR|Grand Est|63|f
+Château de Saint-Ulrich|48.203|7.305|FR|Grand Est|63|f
+Château du Grand Ringelstein|48.563|7.321|FR|Grand Est|63|f
+Chatsworth Peak|34.257|-118.640|US|California|63|f
 Chatham|41.682|-69.960|US|Massachusetts|63
 Châtillon-la-Palud|45.972|5.253|FR|Auvergne-Rhône-Alpes|63
 Châtel|46.265|6.840|FR|Auvergne-Rhône-Alpes|62
@@ -111,13 +130,167 @@ Châteauneuf-d'Ille-et-Vilaine|48.561|-1.930|FR|Brittany|61
 Château-Guibert|46.580|-1.236|FR|Pays de la Loire|61
 Châtres-sur-Cher|47.265|1.906|FR|Centre-Val de Loire|61
 Chatsworth|40.754|-88.292|US|Illinois|61
+Château d'Ochsenstein|48.683|7.300|FR|Grand Est|61|f
+Château de Hohenfels|49.003|7.614|FR|Grand Est|61|f
+Château du Froensbourg|49.037|7.744|FR|Grand Est|61|f
+Château du Hohenbourg|49.055|7.784|FR|Grand Est|61|f
+Château du Landsberg|48.420|7.423|FR|Grand Est|61|f
+Château du Loewenstein|49.054|7.786|FR|Grand Est|61|f
+Château du Nideck|48.580|7.283|FR|Grand Est|61|f
+Château du Wasigenstein|49.048|7.702|FR|Grand Est|61|f
+Château Wagenbourg|47.959|7.242|FR|Grand Est|61|f
+Chatham Harbour|-51.838|-60.959|FK||61|f
 Châtillon-sur-Cluses|46.088|6.580|FR|Auvergne-Rhône-Alpes|61
 Chatburn|53.892|-2.355|GB|England|61
 Chatian|27.802|109.374|CN|Hunan|61
 Châtillon-en-Bazois|47.055|3.659|FR|Bourgogne-Franche-Comté|61
 Châtenay-sur-Seine|48.418|3.095|FR|Île-de-France|60
 Châtillon-sur-Marne|49.100|3.760|FR|Grand Est|60
+Châteauroux-les-Alpes|44.615|6.521|FR|Provence-Alpes-Côte d'Azur|60
+Châtillon-sur-Colmont|48.338|-0.742|FR|Pays de la Loire|60
+Chattenden|51.418|0.529|GB|England|60
+Châteauneuf-Villevieille|43.808|7.297|FR|Provence-Alpes-Côte d'Azur|60
+Châtelaudren|48.540|-2.973|FR|Brittany|60
+Châtillon-Saint-Jean|45.087|5.130|FR|Auvergne-Rhône-Alpes|59
+Châtenoy-en-Bresse|46.792|4.912|FR|Bourgogne-Franche-Comté|59
+Châtillon|49.624|5.698|BE|Wallonia|59
+Château-Larcher|46.417|0.314|FR|New Aquitaine|59
+Chateaugay|44.926|-74.080|US|New York|58
+Chatan|29.008|120.623|CN|Zhejiang|58|f
+Château de Bilstein|48.195|7.270|FR|Grand Est|58|f
+Château de Freundstein|47.870|7.125|FR|Grand Est|58|f
+Château de Hohenstein|48.567|7.311|FR|Grand Est|58|f
+Château de l'Ortenbourg|48.296|7.392|FR|Grand Est|58|f
+Château de Pierrefort|48.841|5.939|FR|Grand Est|58|f
+Château de Ramstein|48.294|7.388|FR|Grand Est|58|f
+Château du Bernstein|48.322|7.400|FR|Grand Est|58|f
+Château du Frankenbourg|48.295|7.325|FR|Grand Est|58|f
+Chatham-Kent Airport|42.308|-82.079|CA|Ontario|58|f
+Chatos Islands|-67.660|-69.162|AQ||58|f
+Chatuge Dam|35.018|-83.791|US|North Carolina|58|f
+Chatuge Lake|34.990|-83.773|US|North Carolina|58|f
+Châteldon|45.977|3.520|FR|Auvergne-Rhône-Alpes|58
+Chattaroy|37.703|-82.281|US|West Virginia|58
+Châtillon-en-Dunois|48.116|1.186|FR|Centre-Val de Loire|57
+Château-Chervix|45.607|1.354|FR|New Aquitaine|57
 Chateaubelair|13.291|-61.240|VC|Saint David Parish|57
+Chateh|58.671|-118.676|CA|Alberta|57
+Château-sur-Epte|49.198|1.662|FR|Normandy|57
+Châtel-Censoir|47.533|3.634|FR|Bourgogne-Franche-Comté|57
+Châteauneuf|46.918|-1.912|FR|Pays de la Loire|57
+Châtres-la-Forêt|48.133|-0.431|FR|Pays de la Loire|57
+Château-Garnier|46.259|0.425|FR|New Aquitaine|56
+Châteauneuf|45.549|6.172|FR|Auvergne-Rhône-Alpes|56
+Châtelais|47.758|-0.927|FR|Pays de la Loire|56
+Château-Chinon(Campagne)|47.050|3.943|FR|Bourgogne-Franche-Comté|56
+Châtres|48.710|2.810|FR|Île-de-France|56
+Châteauvieux|47.231|1.383|FR|Centre-Val de Loire|56
+Châtres|48.501|3.848|FR|Grand Est|55
+Châtillon-en-Diois|44.692|5.475|FR|Auvergne-Rhône-Alpes|55
+Châteauneuf-Val-de-Bargis|47.282|3.226|FR|Bourgogne-Franche-Comté|55
+Châtelus-Malvaleix|46.305|2.024|FR|New Aquitaine|55
+Chatham|32.306|-92.450|US|Louisiana|55
+Châteauvilain|45.515|5.330|FR|Auvergne-Rhône-Alpes|54
+Châteauneuf-de-Randon|44.641|3.675|FR|Occitanie|54
+Château d'Andlau|48.402|7.412|FR|Grand Est|54|f
+Château de Berg|49.815|6.088|LU|Diekirch|54|f
+Château de Falaise|48.894|-0.204|FR|Normandy|54|f
+Château de Lutzelhardt|49.046|7.656|FR|Grand Est|54|f
+Château de Morimont|47.446|7.214|FR|Grand Est|54|f
+Château de Salm|48.454|7.141|FR|Grand Est|54|f
+Château de Wineck|49.014|7.662|FR|Grand Est|54|f
+Château du Landskron|47.488|7.491|FR|Grand Est|54|f
+Château Royal d'Ardenne|50.200|5.017|BE|Wallonia|54|f
+Château Saint-Sixte|49.274|6.489|FR|Grand Est|54|f
+Chatfield Lake|39.545|-105.067|US|Colorado|54|f
+Chatfield State Park|39.537|-105.069|US|Colorado|54|f
+Chatham Island|-50.646|-74.391|CL|Region of Magallanes|54|f
+Chatham Island|-43.917|-176.500|NZ|Chatham Islands|54|f
+Chatham Island|-43.810|-176.457|NZ|Chatham Islands|54|f
+Chatham Municipal Airport|41.688|-69.989|US|Massachusetts|54|f
+Châtel-de-Neuvre|46.407|3.312|FR|Auvergne-Rhône-Alpes|54
+Châteaudouble|44.899|5.093|FR|Auvergne-Rhône-Alpes|54
+Château de Joux|46.873|6.374|FR|Bourgogne-Franche-Comté|49|f
+Château-Arnoux-Saint-Auban Airport|44.060|5.991|FR|Provence-Alpes-Côte d'Azur|49|f
+Chatham Island|-35.029|116.497|AU|Western Australia|49|f
+Chatham Seaplane Base|57.515|-134.946|US|Alaska|49|f
+Chatswood Oval|-33.798|151.168|AU|New South Wales|49|f
+Chattahoochee Glacier|-76.567|160.700|AQ||49|f
 Chatham Islands|-44.000|-176.500|NZ||43|r
+Chateau Bay|51.967|-55.881|CA|Newfoundland and Labrador|40|f
+Château d'Abbadia|43.377|-1.749|FR|New Aquitaine|40|f
+Château d'Aguilar|42.891|2.747|FR|Occitanie|40|f
+Château d'Amboise|47.413|0.986|FR|Centre-Val de Loire|40|f
+Château d'Anjony|45.054|2.478|FR|Auvergne-Rhône-Alpes|40|f
+Château d'Annecy|45.898|6.126|FR|Auvergne-Rhône-Alpes|40|f
+Château d'Écouen|49.018|2.378|FR|Île-de-France|40|f
+Chateau d'Estavayer le Lac|46.851|6.849|CH|Fribourg|40|f
+Château d'Usson|42.736|2.088|FR|Occitanie|40|f
+Château d'Yquem|44.545|-0.329|FR|New Aquitaine|40|f
+Chateau d'Yverdon|46.778|6.642|CH|Vaud|40|f
+Château de Balleroy|49.179|-0.842|FR|Normandy|40|f
+Château de Baugé|47.541|-0.102|FR|Pays de la Loire|40|f
+Château de Beauséjour|45.255|0.475|FR|New Aquitaine|40|f
+Château de Bénouville|49.236|-0.281|FR|Normandy|40|f
+Château de Brécourt|49.052|1.424|FR|Normandy|40|f
+Château de Bressuire|46.842|-0.499|FR|New Aquitaine|40|f
+Château de Canon|49.078|-0.095|FR|Normandy|40|f
+Château de Castelnaud-la-Chapelle|44.816|1.148|FR|New Aquitaine|40|f
+Chateau de Chantilly|49.192|2.485|FR|Hauts-de-France|40|f
+Château de Chazeron|45.922|3.036|FR|Auvergne-Rhône-Alpes|40|f
+Chateau de Chenonceau|47.326|1.070|FR|Centre-Val de Loire|40|f
+Château de Compiègne|49.419|2.831|FR|Hauts-de-France|40|f
+Château de Coppet|46.317|6.192|CH|Vaud|40|f
+Château de Foix|42.966|1.605|FR|Occitanie|40|f
+Château de Hautefort|45.260|1.145|FR|New Aquitaine|40|f
+Château de L'Isle-Adam|49.114|2.211|FR|Île-de-France|40|f
+Château de la Muette|48.861|2.270|FR|Île-de-France|40|f
+Château de la Napoule|43.524|6.942|FR|Provence-Alpes-Côte d'Azur|40|f
+Château de La Rochepot|46.959|4.681|FR|Bourgogne-Franche-Comté|40|f
+Château de Luynes|47.386|0.553|FR|Centre-Val de Loire|40|f
+Château de Madrid|48.874|2.255|FR|Île-de-France|40|f
+Château de Malle|44.565|-0.297|FR|New Aquitaine|40|f
+Château de Malmaison|48.871|2.167|FR|Île-de-France|40|f
+Château de Menthon-Saint-Bernard|45.864|6.204|FR|Auvergne-Rhône-Alpes|40|f
+Château de Montreuil-Bellay|47.133|-0.154|FR|Pays de la Loire|40|f
+Chateau de Noirmoutier|47.000|-2.242|FR|Pays de la Loire|40|f
+Château de Pau|43.295|-0.376|FR|New Aquitaine|40|f
+Château de Pompignan|43.818|1.313|FR|Occitanie|40|f
+Château de Pontchartrain|48.799|1.895|FR|Île-de-France|40|f
+Château de Pontoise|49.048|2.100|FR|Île-de-France|40|f
+Château de Saint-Fargeau|47.639|3.072|FR|Bourgogne-Franche-Comté|40|f
+Chateau de Saint-Germain-En-Laye|48.898|2.096|FR|Île-de-France|40|f
+Château de Saumur|47.257|-0.072|FR|Pays de la Loire|40|f
+Château de Sceaux|48.774|2.300|FR|Île-de-France|40|f
+Château de Sorel|48.831|1.364|FR|Centre-Val de Loire|40|f
+Château de Sourches|48.082|-0.102|FR|Pays de la Loire|40|f
+Château de Spontin|50.323|5.008|BE|Wallonia|40|f
+Château de Tanlay|47.849|4.085|FR|Bourgogne-Franche-Comté|40|f
+Château de Thillombois|48.956|5.399|FR|Grand Est|40|f
+Château de Tiffauges|47.017|-1.115|FR|Pays de la Loire|40|f
+Château de Trévarez|48.153|-3.807|FR|Brittany|40|f
+Château de Vizille|45.076|5.773|FR|Auvergne-Rhône-Alpes|40|f
+Château des Allymes|45.974|5.411|FR|Auvergne-Rhône-Alpes|40|f
+Château des Baux|43.744|4.797|FR|Provence-Alpes-Côte d'Azur|40|f
+Château du Haut-Barr|48.724|7.338|FR|Grand Est|40|f
+Château du Haut-Koenigsbourg|48.249|7.344|FR|Grand Est|40|f
+Chateau du Rivau|47.103|0.324|FR|Centre-Val de Loire|40|f
+Château du Stuyvenberg|50.888|4.348|BE|Brussels Capital|40|f
+Château Dufresne|45.554|-73.554|CA|Quebec|40|f
+Château Neercanne|50.819|5.668|BE|Flanders|40|f
+Château Talbot|45.159|-0.757|FR|New Aquitaine|40|f
+Chatfield Hollow State Park|41.368|-72.590|US|Connecticut|40|f
+Chatfield Island|52.264|-128.081|CA|British Columbia|40|f
+Chatham Island|11.688|92.724|IN|Andaman and Nicobar|40|f
+Chatham Islands|48.437|-123.251|CA|British Columbia|40|f
+Chatham Sound|54.366|-130.587|CA|British Columbia|40|f
+Chatham Square|40.713|-73.999|US|New York|40|f
+Chatsquot Mountain|53.150|-127.470|CA|British Columbia|40|f
+Chattahoochee River National Recreation Area|33.972|-84.267|US|Georgia|40|f
+Chatton Transmitting Station|55.532|-1.834|GB|England|40|f
+Chatian|27.879|118.987|CN|Zhejiang|0
+Chating|28.497|112.926|CN|Hunan|0
+Chating|28.357|117.888|CN|Jiangxi|0
+Chatou|38.561|114.235|CN|Henan|0
 Chatturat|15.565|101.845|TH|Chaiyaphum|0
 Chaturaphak Phiman|15.846|103.557|TH|Roi Et|0

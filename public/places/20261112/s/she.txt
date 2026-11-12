@@ -10,6 +10,7 @@ Shengavit|40.156|44.478|AM|Yerevan|103
 Shenglilu|29.350|105.877|CN|Chongqing|103
 Sherbrooke|45.400|-71.899|CA|Quebec|102
 Sheepshead Bay|40.591|-73.945|US|New York|102
+Sheremetyevo International Airport|55.972|37.414|RU|Moscow Oblast|102|f
 Sherpur|25.019|90.018|BD|Mymensingh Division|101
 Shenjiamen|29.958|122.298|CN|Zhejiang|100
 Shevchenkivskyi|48.563|39.332|UA|Luhansk|99
@@ -38,10 +39,12 @@ Sherman|33.636|-96.609|US|Texas|92
 Sherghāti|24.559|84.792|IN|Bihar|92
 Shepherds Bush|51.505|-0.221|GB|England|92
 Shefa|-17.589|168.367|VU||92|r
+Shenzhen Bao'an International Airport|22.639|113.811|CN|Guangdong|91|f
 Shetou|23.898|120.588|TW|Taiwan|91
 Sheybān|31.408|48.795|IR|Khuzestan|91
 Sheraro|14.401|37.934|ET|Tigray|91
 Shetan|29.989|107.615|CN|Chongqing|90
+Shenyang Taoxian International Airport|41.640|123.483|CN|Liaoning|90|f
 Shepparton|-36.380|145.399|AU|Victoria|90
 Shek Lei|22.366|114.140|HK|Kwai Tsing District|90
 Sherwood|34.815|-92.224|US|Arkansas|90
@@ -74,6 +77,8 @@ Shek Pai Wan Estate|22.249|114.158|HK|Southern District|83
 Shelar|19.322|73.068|IN|Maharashtra|83
 Shergarh|28.651|79.368|IN|Uttar Pradesh|83
 Shepshed|52.766|-1.290|GB|England|83
+Shebh-e Jazīreh-ye Mīānkāleh|36.887|53.787|IR|Māzandarān|82|f
+Sheghnan Airport|37.567|71.500|AF|Badakhshan|82|f
 Sheerness|51.440|0.763|GB|England|82
 Shelbourne|48.453|-123.329|CA|British Columbia|82
 Shek Wai Kok|22.375|114.124|HK|Tsuen Wan|82
@@ -86,6 +91,7 @@ Sheregesh|52.921|87.987|RU|Kuzbass|80
 Shepperton|51.395|-0.449|GB|England|80
 Sherlovaya Gora|50.534|116.318|RU|Zabaykalskiy (Transbaikal) Kray|80
 Shelton|47.215|-123.101|US|Washington|80
+Shenipsit Lake|41.885|-72.427|US|Connecticut|80|f
 Shelkovskaya|43.508|46.336|RU|Chechnya|80
 Sherborne|50.946|-2.518|GB|England|80
 Sheffield|34.765|-87.699|US|Alabama|79
@@ -96,6 +102,7 @@ Shelburne|44.079|-80.204|CA|Ontario|78
 Sheringham|52.941|1.209|GB|England|78
 Sheboygan Falls|43.732|-87.822|US|Wisconsin|78
 Shencang|34.735|103.380|CN|Gansu|78
+Sherbro International Airport|7.532|-12.519|SL|Southern Province|78|f
 Shediac|46.220|-64.541|CA|New Brunswick|78
 Shengli|31.434|109.447|CN|Chongqing|77
 Shefford|52.039|-0.334|GB|England|77
@@ -113,6 +120,7 @@ Sheridan|45.099|-123.395|US|Oregon|76
 Sheridan|39.647|-105.025|US|Colorado|76
 Shenkursk|62.109|42.901|RU|Arkhangelskaya|75
 Shemordan|56.186|50.397|RU|Tatarstan Republic|75
+Sherbrooke Airport|45.439|-71.691|CA|Quebec|75|f
 Sherpura|21.714|72.972|IN|Gujarat|75
 Shevchenkove|45.555|29.334|UA|Odesa|75
 Shell Cove|-34.590|150.862|AU|New South Wales|75
@@ -120,6 +128,7 @@ Shenfield|51.632|0.332|GB|England|75
 Shepley|53.583|-1.717|GB|England|75
 Sherwood Manor|42.013|-72.564|US|Connecticut|75
 Shelley|53.600|-1.683|GB|England|75
+Sheboygan County Memorial Airport|43.769|-87.851|US|Wisconsin|74|f
 Shevington|53.572|-2.693|GB|England|74
 Sheldon|43.181|-95.856|US|Iowa|74
 Shenzhen|22.182|111.118|CN|Guangdong|74
@@ -140,12 +149,19 @@ Sheffield|41.421|-82.096|US|Ohio|72
 Sherman|41.579|-73.496|US|Connecticut|72
 Sherwood|39.085|-84.361|US|Ohio|71
 Shemursha|54.887|47.519|RU|Chuvash Republic|71
+Shedd Aquarium|41.868|-87.614|US|Illinois|71|f
+Sheffield Island|41.051|-73.416|US|Connecticut|71|f
+Shemya Island|52.722|174.112|US|Alaska|71|f
+Shendi Airport|16.700|33.433|SD|River Nile|71|f
+Sher-Wood Airport|48.788|-104.525|US|Montana|71|f
 Sheerwater|51.336|-0.534|GB|England|71
 Shellharbour|-34.583|150.867|AU|New South Wales|71
 Shelopugino|51.652|117.562|RU|Zabaykalskiy (Transbaikal) Kray|71
 Sheffield|42.110|-73.355|US|Massachusetts|71
 Shelby|48.505|-111.857|US|Montana|70
 Sheepmoor|-26.717|30.299|ZA|Mpumalanga|70
+Sheng-li Feng|42.035|80.126|KG||70|f
+Shepard Island|-74.417|-132.500|AQ||70|f
 Shepsi|44.035|39.147|RU|Krasnodar Krai|70
 Shevchenkove|46.863|32.203|UA|Mykolaiv|70
 Shedok|44.218|40.849|RU|Krasnodar Krai|70
@@ -159,11 +175,15 @@ Shell Point|32.789|-80.107|US|South Carolina|69
 Shevchenkove|49.192|31.090|UA|Cherkasy|69
 Shenandoah|30.180|-95.456|US|Texas|69
 Sheridan|41.530|-88.680|US|Illinois|69
+Shennongjia Hongping Airport|31.634|110.338|CN|Hubei|69|f
+Shepparton Airport|-36.429|145.393|AU|Victoria|69|f
 Sheykh Shabān|32.590|50.604|IR|Chaharmahal and Bakhtiari|69
 Shepherd|30.498|-94.997|US|Texas|68
 Sheragul|54.462|100.910|RU|Irkutsk Oblast|67
 Shenandoah|38.485|-78.625|US|Virginia|67
 Shell Point|32.384|-80.736|US|South Carolina|67
+Sheep Mesa|44.352|-109.817|US|Wyoming|67|f
+Sheep Range|36.808|-115.129|US|Nevada|67|f
 Shenstone|52.638|-1.841|GB|England|67
 Shelby|33.951|-90.768|US|Mississippi|67
 Shelburne|42.590|-72.688|US|Massachusetts|66
@@ -173,6 +193,10 @@ Sheldon|29.868|-95.128|US|Texas|66
 Sheshory|48.324|24.970|UA|Ivano-Frankivsk|66
 Shenavan|40.483|44.383|AM|Aragatsotn|66
 Shenorock|41.332|-73.738|US|New York|66
+Shek Pik Reservoir|22.232|113.899|HK||65|f
+Shenzhen–Zhongshan Link|22.562|113.744|CN|Guangdong|65|f
+Shepherd Islands|-16.917|168.583|VU|Shefa|65|f
+Shetland Islands|60.323|-1.241|GB|Scotland|65|f
 Shevīr|36.239|49.088|IR|Zanjan|65
 Shenqar|36.289|50.136|IR|Qazvin Province|65
 Shenavan|40.055|43.930|AM|Armavir|65
@@ -186,6 +210,13 @@ Shepherd|43.524|-84.695|US|Michigan|64
 Sheberta|54.642|99.892|RU|Irkutsk Oblast|64
 Sherwood Content|18.391|-77.628|JM|Trelawny Parish|64
 Sheffield|-41.399|146.339|AU|Tasmania|63
+Sheep Creek Range|40.826|-116.721|US|Nevada|63|f
+Sheep Mountain|48.025|-121.418|US|Washington|63|f
+Sheep Mountain|43.544|-110.524|US|Wyoming|63|f
+Shek Uk Shan|22.436|114.306|HK|Tai Po|63|f
+Shelby–Cleveland County Regional Airport|35.255|-81.601|US|North Carolina|63|f
+Shenango River Lake|41.292|-80.423|US|Pennsylvania|63|f
+Sherburne Peak|48.884|-113.562|US|Montana|63|f
 Shebutyntsi|48.519|27.171|UA|Chernivtsi|63
 Sheynovo|42.683|25.317|BG|Stara Zagora|63
 Sherston|51.572|-2.213|GB|England|63
@@ -217,6 +248,26 @@ Sherpur|31.043|75.594|IN|Punjab|61
 Sheffield|42.893|-93.215|US|Iowa|61
 Sheffield|41.704|-79.036|US|Pennsylvania|61
 Shenik|40.213|43.770|AM|Armavir|61
+She Shan|31.101|121.155|CN|Shanghai|61|f
+Shearwater Bay|-26.637|15.109|NA|Karas Region|61|f
+Shebshi Mountains|8.630|11.783|NG||61|f
+Sheeffry Hills East Top|53.673|-9.694|IE|Connacht|61|f
+Sheep Bridge|34.078|-111.708|US|Arizona|61|f
+Sheep Mountain|48.342|-113.471|US|Montana|61|f
+Sheep's Head|51.541|-9.852|IE|Munster|61|f
+Sheikh Khorasan (Fazlullah Naimi) Xanagahı|39.189|45.716|AZ|Nakhchivan|61|f
+Sheksna Reservoir|59.672|38.455|RU|Vologda Oblast|61|f
+Shelburne Moriah Mountain|44.353|-71.099|US|New Hampshire|61|f
+Shelby County Airport (Alabama)|33.178|-86.784|US|Alabama|61|f
+Sheldon National Wildlife Refuge|41.817|-119.220|US|Nevada|61|f
+Shelonskiye Ostrova|71.650|138.583|RU|Sakha|61|f
+Shelter Island|22.326|114.296|HK||61|f
+Shenzhen Shuiku|22.578|114.150|CN|Guangdong|61|f
+Sherburne Hills|37.797|-121.949|US|California|61|f
+Sheridan Lake|43.974|-103.469|US|South Dakota|61|f
+Sheriff Hutton Castle|54.088|-1.005|GB|England|61|f
+Sherkin Island|51.467|-9.419|IE|Munster|61|f
+Sherman Island|38.059|-121.733|US|California|61|f
 Shehyni|49.801|22.975|UA|Lviv|61
 Sherburn|43.652|-94.727|US|Minnesota|61
 Shestakovo|56.492|103.960|RU|Irkutsk Oblast|61
@@ -229,27 +280,294 @@ Sheldon|40.769|-87.564|US|Illinois|60
 Sheriff Hutton|54.089|-1.006|GB|England|60
 Sheltozero|61.367|35.367|RU|Karelia|60
 Sherrills Ford|35.620|-80.986|US|North Carolina|60
+Shellman|31.756|-84.615|US|Georgia|60
+Sherman|45.871|-68.418|US|Maine|60
 Sherington|52.112|-0.700|GB|England|60
+Shellsburg|42.094|-91.869|US|Iowa|60
+Shevchenkovo|44.863|33.759|UA|Crimea|59
+Shenandoah Shores|38.960|-78.143|US|Virginia|59
+Shevchenka|46.201|32.855|UA|Kherson|59
+Sheffield|41.358|-89.737|US|Illinois|59
+Sheering|51.804|0.185|GB|England|59
+Shenley|46.000|-70.832|CA|Quebec|59
+Sheykh Maḩalleh|37.877|48.906|IR|Gilan Province|59
 Shemgang|27.217|90.658|BT|Zhemgang District|59
+Shelby|-10.811|-76.224|PE|Pasco|59
+Shelomy|52.573|31.849|RU|Bryansk Oblast|59
+Shediac Cape|46.233|-64.565|CA|New Brunswick|58
+Sheykhān|36.972|45.060|IR|West Azerbaijan|58
+Sherwood|41.287|-84.554|US|Ohio|58
+Shekhanya|32.849|35.247|IL|Northern District|58
+Shechernich Loch|56.783|-3.383|GB|Scotland|58|f
+Sheeley Mountain|43.156|-74.506|US|New York|58|f
+Sheep Hills|33.553|-117.736|US|California|58|f
+Sheep Hole Mountains|34.194|-115.655|US|California|58|f
+Sheep Rock|45.192|-116.671|US|Idaho|58|f
+Sheephead Mountains|40.634|-118.955|US|Nevada|58|f
+Sheeprock Mountains|39.949|-112.473|US|Utah|58|f
+Sheepscot Pond|44.340|-69.476|US|Maine|58|f
+Sheepshead Mountains|42.893|-118.145|US|Oregon|58|f
+Shek Ngau Chau|22.466|114.428|HK|Tai Po|58|f
+Shelby Airport|48.541|-111.866|US|Montana|58|f
+Shellback Island|-38.968|146.228|AU|Victoria|58|f
+Shelter Island|58.417|-134.854|US|Alaska|58|f
+Shelter Islands|-65.248|-64.284|AQ||58|f
+Shelton Buttes|41.210|-123.863|US|California|58|f
+Shenandoah Valley Regional Airport|38.263|-78.902|US|Virginia|58|f
+Shengavit settlement|40.157|44.477|AM|Yerevan|58|f
+Shenwu Men|39.921|116.391|CN|Beijing|58|f
+Shepherd Mountain|37.607|-90.646|US|Missouri|58|f
+Sherman Hill|32.276|-89.386|US|Mississippi|58|f
+Sherman Island|-73.050|-100.000|AQ||58|f
+Sherrard Island|-12.985|143.616|AU|Queensland|58|f
+Sheet Harbour|44.917|-62.532|CA|Nova Scotia|58
+Sherry|44.584|-89.916|US|Wisconsin|58
+Sheykh Valī|38.229|45.411|IR|East Azerbaijan|58
+Shenhury|49.058|34.066|UA|Poltava|58
+Shebbear|50.863|-4.214|GB|England|57
+Shenandoah Junction|39.359|-77.843|US|West Virginia|57
+Sherman|42.159|-79.595|US|New York|57
+Shelekhove|47.676|30.137|UA|Odesa|57
+Shelter Cove|40.030|-124.073|US|California|57
+Sherando|37.981|-78.954|US|Virginia|57
+Shelby|41.192|-97.425|US|Nebraska|57
+Shepit|47.802|25.144|UA|Chernivtsi|57
+Sheridan|45.455|-112.197|US|Montana|57
+Sherman|34.359|-88.841|US|Mississippi|57
+Sheatown|41.193|-76.015|US|Pennsylvania|57
+Shere|51.221|-0.466|GB|England|57
+She’ar Yashuv|33.230|35.648|IL|Northern District|56
+Sheridan|43.212|-85.074|US|Michigan|56
+Sherwood Heights|44.675|-63.668|CA|Nova Scotia|56
+Shelby|41.516|-95.450|US|Iowa|56
+Sherrard|41.319|-90.506|US|Illinois|56
+Shershnivka|49.929|33.017|UA|Poltava|56
+Shestikhino|57.936|38.239|RU|Yaroslavl Oblast|56
+Shevchenkove|46.907|32.213|UA|Mykolaiv|55
+Shepreth|52.112|0.033|GB|England|55
+Shelburne|44.381|-73.228|US|Vermont|55
+Shercock|54.000|-6.900|IE|Ulster|55
+Shevchenkove|47.150|30.755|UA|Odesa|55
+Shepylove|48.372|30.520|UA|Kirovohrad|55
+'s Herenelderen|50.809|5.501|BE|Flanders|55
+Shepelivka|49.330|33.276|UA|Poltava|55
+Shevchenko|48.382|37.108|UA|Donetsk|55
+Shelby|41.195|-87.348|US|Indiana|55
+Sheldon|37.658|-94.293|US|Missouri|55
 Shelbyville|39.806|-92.042|US|Missouri|54
+Shelokhovskaya|61.910|39.103|RU|Arkhangelskaya|54
+She Changes|41.173|-8.689|PT|Porto|54|f
+She Devil|45.325|-116.541|US|Idaho|54|f
+Shea Stadium|40.710|-89.615|US|Illinois|54|f
+Shearer Stack|-61.923|-58.044|AQ||54|f
+Sheas Lake|44.471|-93.720|US|Minnesota|54|f
+Sheehan Islands|-67.363|59.788|AQ||54|f
+Sheep Island|55.292|-5.573|GB|Scotland|54|f
+Sheep Mountain|44.064|-114.360|US|Idaho|54|f
+Sheffield Canal|53.383|-1.467|GB|England|54|f
+Shelf Glacier|62.459|-152.733|US|Alaska|54|f
+Shell Lake Municipal Airport|45.730|-91.917|US|Wisconsin|54|f
+Shell Mound Park|30.257|-88.108|US|Alabama|54|f
+Sheppard Air Force Base/Wichita Falls Municipal Airport|33.974|-98.503|US|Texas|54|f
+Sheppard Point|-63.374|-56.981|AQ||54|f
+Sheridan County Airport|44.774|-106.971|US|Wyoming|54|f
+Sheridan Peak|-54.441|-36.349|GS||54|f
+Sheringa Lagoon|-33.864|135.185|AU|South Australia|54|f
+Sherman Crater|48.769|-121.815|US|Washington|54|f
+Sherrell Point|-63.336|-58.694|AQ||54|f
+Sherwood Island State Park|41.116|-73.328|US|Connecticut|54|f
+Sheung Yiu Folk Museum|22.392|114.321|HK|Sai Kung District|54|f
+Shenandoah Retreat|39.134|-77.865|US|Virginia|54
+Shepherd|45.944|-108.342|US|Montana|54
+Shevchenka|46.749|34.836|UA|Zaporizhzhia|54
+Shekār Sarā|37.316|49.713|IR|Gilan Province|54
+Sheqef|31.517|34.938|IL|Southern District|54
+Sheathbill Bay|-53.983|-37.433|GS||49|f
+Sheelagh Islands|-66.550|50.200|AQ||49|f
+Sheep Island|-15.488|124.614|AU|Western Australia|49|f
+Sheep Mountain|37.785|-107.886|US|Colorado|49|f
+Sheffield Castle|53.384|-1.463|GB|England|49|f
+Shek Lei Pui Reservoir|22.350|114.150|HK||49|f
+Shekerley Mountains|17.038|-61.869|AG|Saint Mary Parish|49|f
+Shelby Community Airport|40.877|-82.698|US|Ohio|49|f
+Shelbyville Municipal Airport|39.577|-85.800|US|Indiana|49|f
+Sheldon Glacier|-67.505|-68.358|AQ||49|f
+Shell Glacier|-77.267|166.417|AQ||49|f
+Shell Island|-25.433|152.917|AU|Queensland|49|f
+Shell Islets|-40.670|144.740|AU|Tasmania|49|f
+Shelly Mountain|43.827|-113.727|US|Idaho|49|f
+Shelter Bay|-26.172|113.192|AU|Western Australia|49|f
+Shelter Cove Airport|40.025|-124.070|US|California|49|f
+Shelter Island|-35.050|117.692|AU|Western Australia|49|f
+Shenandoah National Park|38.492|-78.469|US|Virginia|49|f
+Shepody Bay|45.756|-64.596|CA|New Brunswick|49|f
+Sheppard Crater|-77.800|166.833|AQ||49|f
+Sherbro Island|7.563|-12.662|SL|Southern Province|49|f
+Shere Hills|9.931|9.040|NG|Plateau State|49|f
+Sheridan Mountain|42.104|-74.328|US|New York|49|f
+Sheriff Mountain|45.611|-112.934|US|Montana|49|f
+Sherlac Point|-64.745|-62.657|AQ||49|f
+Sherman Minton Bridge|38.278|-85.822|US|Kentucky|49|f
+Sherman Municipal Airport|33.627|-96.586|US|Texas|49|f
+Sherman Peak|48.734|-120.326|US|Washington|49|f
+Sherpa Peak|47.472|-120.889|US|Washington|49|f
+Sherpi Kangri|35.466|76.780|PK|Gilgit-Baltistan|49|f
+Sherve Peak|-77.517|168.767|AQ||49|f
+Shewry Peak|-64.758|-63.616|AQ||49|f
 Sheldon|46.586|-97.491|US|North Dakota|42
+S. H. Ervin Gallery|-33.861|151.204|AU|New South Wales|40|f
+Shebandowan Lakes|48.633|-90.300|CA|Ontario|40|f
+Shediac Bay|46.267|-64.499|CA|New Brunswick|40|f
+Shedin Peak|55.933|-127.487|CA|British Columbia|40|f
+Sheep Lake|44.113|-114.611|US|Idaho|40|f
+Sheer Islands|62.701|-69.581|CA|Nunavut|40|f
+Sheets Island|40.289|-76.918|US|Pennsylvania|40|f
+Sheffield Park|39.099|-94.502|US|Missouri|40|f
+Sheffields Pond|42.176|-75.138|US|New York|40|f
+Shelagyote Peak|55.950|-127.204|CA|British Columbia|40|f
+Shelburne Museum|44.376|-73.233|US|Vermont|40|f
+Shelby County Airport|39.407|-88.845|US|Illinois|40|f
+Shelby County Airport|39.816|-92.050|US|Missouri|40|f
+Shelby Lake|37.191|-89.021|US|Kentucky|40|f
+Shelby Rhinehart Bridge|35.015|-85.694|US|Tennessee|40|f
+Sheldon Jackson Museum|57.051|-135.323|US|Alaska|40|f
+Sheldon Reservoir|29.868|-95.174|US|Texas|40|f
+Sheldrake Lake|44.676|-63.798|CA|Nova Scotia|40|f
+Sheldrake Lake|40.952|-73.774|US|New York|40|f
+Shelf Lake|44.070|-114.568|US|Idaho|40|f
+Shell Keys National Wildlife Refuge|29.416|-91.856|US|Louisiana|40|f
+Shell Lake|49.430|-91.729|CA|Ontario|40|f
+Shell Lake National Wildlife Refuge|48.187|-102.113|US|North Dakota|40|f
+Shell Point|47.076|-122.998|US|Washington|40|f
+Shell Rock Bridge|42.712|-92.582|US|Iowa|40|f
+Shellbank Basin|40.655|-73.837|US|New York|40|f
+Shelley Lake|50.986|-95.318|CA|Manitoba|40|f
+Shellmouth Dam|50.964|-101.420|CA|Manitoba|40|f
+Shellsburg Bridge|42.094|-91.869|US|Iowa|40|f
+Shellstone Hill|42.854|-74.229|US|New York|40|f
+Shelly Bay|-41.300|174.817|NZ||40|f
+Shelter Bay|50.633|-117.936|CA|British Columbia|40|f
+Shelter Bay|48.382|-122.510|US|Washington|40|f
+Shelter Island Sound|41.035|-72.365|US|New York|40|f
+Shelton Ditch|44.926|-123.010|US|Oregon|40|f
+Shelton Head|-72.517|-97.317|AQ||40|f
+Shelton Lake|49.123|-124.321|CA|British Columbia|40|f
+Shelton, Mount|-71.683|166.800|AQ||40|f
+Shenk Peak|-85.183|-174.750|AQ||40|f
+Shenkel Island|37.967|-121.361|US|California|40|f
+Shepard Glacier|48.865|-113.859|US|Montana|40|f
+Shepard State Park|30.377|-88.629|US|Mississippi|40|f
+Shepheard's Hotel|30.054|31.247|EG|Cairo|40|f
+Shepherd Dome|-74.867|-99.550|AQ||40|f
+Shepherd Hill|43.184|-75.596|US|New York|40|f
+Shepherd's Bush Empire|51.503|-0.225|GB|England|40|f
+Sherard Bay|76.135|-108.121|CA|Nunavut|40|f
+Sherborne Old Castle|50.949|-2.502|GB|England|40|f
+Sherbrooke Lake|44.668|-64.606|CA|Nova Scotia|40|f
+Sherbrooke Lake|45.141|-61.967|CA|Nova Scotia|40|f
+Sherbrooke Lake|51.458|-116.388|CA|British Columbia|40|f
+Sherburne National Wildlife Refuge|45.491|-93.722|US|Minnesota|40|f
+Sheridan Airport|40.178|-86.221|US|Indiana|40|f
+Sheridan Lake|52.518|-88.610|CA|Ontario|40|f
+Sheringham Park|52.929|1.172|GB|England|40|f
+Sherlock Holmes Museum|51.524|-0.159|GB|England|40|f
+Sherman Dam|41.303|-98.882|US|Nebraska|40|f
+Sherman Hill|42.306|-75.192|US|New York|40|f
+Sherman Island|39.924|-82.425|US|Ohio|40|f
+Sherman Park|41.796|-87.657|US|Illinois|40|f
+Sherman Square|40.778|-73.982|US|New York|40|f
+Sherose Island|43.537|-65.598|CA|Nova Scotia|40|f
+Sherpa Glacier|47.475|-120.890|US|Washington|40|f
+Sherrill Mountain|37.754|-90.589|US|Missouri|40|f
+Sherubtse College|27.286|91.524|BT|Trashigang District|40|f
+Sheyenne National Grassland|46.401|-97.277|US|North Dakota|40|f
 She Xian|36.568|113.662|CN|Hebei|0
 Shedian|33.054|112.930|CN|Henan|0
+Shefu|26.167|115.365|CN|Jiangxi|0
+Shegeng|28.436|116.663|CN|Jiangxi|0
+Shehou|28.480|118.367|CN|Jiangxi|0
+Shejiang|24.040|115.979|CN|Guangdong|0
+Shejiaping|28.977|111.252|CN|Hunan|0
+Shekou|30.714|114.349|CN|Hubei|0
+Shekou|27.212|119.571|CN|Fujian|0
+Sheli|45.564|126.928|CN|Heilongjiang|0
 Shell|-1.505|-78.063|EC|Pastaza Province|0
 Shelleng|9.896|12.006|NG|Adamawa|0
+Shelsley Walsh|52.264|-2.409|GB|England|0
+Shen’ao|29.854|119.835|CN|Zhejiang|0
+Shen’ao|23.453|117.107|CN|Guangdong|0
+Shenbai|35.367|111.148|CN|Shanxi|0
+Shencun|31.052|118.851|CN|Anhui|0
 Shendam|8.879|9.535|NG|Plateau State|0
+Shendang|30.577|120.821|CN|Zhejiang|0
+Shendu|29.868|118.611|CN|Anhui|0
+Shendushui|24.820|114.088|CN|Guangdong|0
+Shengang|31.887|120.138|CN|Jiangsu|0
+Shengang|23.486|113.523|CN|Guangdong|0
+Shengao|32.586|120.133|CN|Jiangsu|0
+Shengci|32.036|120.164|CN|Jiangsu|0
+Shenghuang|25.987|118.724|CN|Fujian|0
 Shëngjergj|41.183|19.533|AL|Tirana|0
+Shengjiaba|29.985|109.219|CN|Hubei|0
+Shengjiang|22.708|111.509|CN|Guangdong|0
 Shëngjin|41.926|20.188|AL|Lezhë County|0
+Shengli|31.132|115.462|CN|Hubei|0
+Shengli|46.822|129.999|CN|Heilongjiang|0
+Shengli|46.456|123.609|CN|Heilongjiang|0
+Shengli|45.800|128.050|CN|Heilongjiang|0
+Shengli|40.674|122.218|CN|Liaoning|0
 Shengli|40.118|116.643|CN|Beijing|0
+Shengli|41.157|112.861|CN|Inner Mongolia|0
 Shengli|37.984|106.197|CN|Ningxia|0
+Shengmi|28.573|115.792|CN|Jiangxi|0
 Shengping|28.486|98.911|CN|Yunnan|0
+Shengping|46.214|125.267|CN|Heilongjiang|0
+Shengpu|31.305|120.817|CN|Jiangsu|0
 Shengrenjian|34.844|111.191|CN|Shanxi|0
+Shengshan|30.720|122.808|CN|Zhejiang|0
+Shengshan|30.233|121.323|CN|Zhejiang|0
+Shengtang|22.291|112.378|CN|Guangdong|0
+Shengxin|25.037|118.383|CN|Fujian|0
+Shengze|30.909|120.669|CN|Jiangsu|0
+Shenji|30.857|112.369|CN|Hubei|0
+Shenjia|46.093|126.767|CN|Heilongjiang|0
+Shenjian|34.017|113.687|CN|Henan|0
+Shenjiaying|40.486|116.044|CN|Beijing|0
+Shenjing|21.982|112.489|CN|Guangdong|0
 Shënkoll|41.691|19.653|AL|Lezhë County|0
+Shenkou|26.164|117.536|CN|Fujian|0
 Shenley Church End|52.025|-0.790|GB|England|0
+Shenlin|35.580|105.925|CN|Ningxia|0
+Shenlun|32.790|119.966|CN|Jiangsu|0
 Shënmëri|42.104|20.238|AL|Kukës County|0
+Shennan|38.993|114.881|CN|Hebei|0
+Shennong|34.339|107.117|CN|Shaanxi|0
+Shenqiao|23.730|117.141|CN|Fujian|0
 Shenqiu|33.402|115.078|CN|Henan|0
+Shenquan|22.971|116.316|CN|Guangdong|0
+Shenshan|29.897|114.026|CN|Hubei|0
+Shenshu|46.941|128.420|CN|Heilongjiang|0
+Shenshuigang|28.916|111.398|CN|Hunan|0
+Shensuo|24.921|113.976|CN|Guangdong|0
+Shentang|21.000|110.121|CN|Guangdong|0
+Shentangbao|39.118|113.923|CN|Shanxi|0
+Shenwan|22.291|113.370|CN|Guangdong|0
 Shenze|38.183|115.198|CN|Hebei|0
+Shenzhai|33.235|113.867|CN|Henan|0
+Shenzhangtang|25.355|111.600|CN|Hunan|0
+Shenzhen|29.416|121.340|CN|Zhejiang|0
+Shenzhengqiao|27.710|115.463|CN|Jiangxi|0
+Shenzhong|36.724|101.187|CN|Qinghai|0
 Shenzhou|38.005|115.556|CN|Hebei|0
 Shērwānī-ye Bālā|35.015|69.599|AF|Kapisa|0
+Sheshan|30.448|114.006|CN|Hubei|0
+Sheshan|31.101|121.179|CN|Shanghai|0
+Sheshiqiao|29.443|111.518|CN|Hunan|0
+Shetangpo|28.229|109.599|CN|Hunan|0
 S̲h̲ēwah|34.572|70.589|AF|Nangarhar|0
+Shewan|32.734|113.241|CN|Henan|0
+Shewopo|37.134|120.863|CN|Shandong|0
+Shexing|25.493|118.627|CN|Fujian|0
 Shezë|41.024|19.816|AL|Elbasan County|0
+Shezhu|31.318|119.272|CN|Jiangsu|0
+Shezhu|31.315|119.311|CN|Jiangsu|0

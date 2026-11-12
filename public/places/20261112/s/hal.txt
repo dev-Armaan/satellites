@@ -1,7 +1,7 @@
 Halifax|44.643|-63.577|CA|Nova Scotia|113
 Hạ Long|20.950|107.073|VN|Quảng Ninh|109
+Halland|56.750|13.000|SE||108|r
 Halle (Saale)|51.482|11.979|DE|Saxony-Anhalt|108
-Halland|56.750|13.000|SE||107|r
 Ḩalwān|29.841|31.301|EG|Cairo|107
 Haldia|22.060|88.110|IN|West Bengal|105
 Haldwani|29.223|79.529|IN|Uttarakhand|103
@@ -20,12 +20,15 @@ Hallandale Beach|25.981|-80.148|US|Florida|92
 Haltern am See|51.743|7.182|DE|North Rhine-Westphalia|92
 Halle|50.734|4.235|BE|Flanders|91
 Halvad|23.015|71.180|IN|Gujarat|90
+Halim Perdanakusuma Airport|-6.266|106.892|ID|Jakarta|89|f
 Hala'ib|22.223|36.647|EG|Red Sea|89
 Haludbani|22.751|86.210|IN|Jharkhand|88
+Halki|36.230|27.570|GR|South Aegean|88|f
 Haliyal|15.329|74.756|IN|Karnataka|88
 Ḩalfāyā|35.260|36.606|SY|Hama|87
 Halifax West End|44.649|-63.619|CA|Nova Scotia|87
 Halden|59.125|11.388|NO|Østfold|87
+Half Dome|37.746|-119.533|US|California|87|f
 Halle|52.060|8.361|DE|North Rhine-Westphalia|87
 Ḩalḩūl|31.580|35.102|PS|West Bank|86
 Halaç|38.072|64.879|TM|Lebap|86
@@ -37,6 +40,7 @@ Halwan|25.346|55.422|AE|Sharjah|86
 Haldaur|29.290|78.284|IN|Uttar Pradesh|85
 Half Way Tree|18.012|-76.799|JM|Saint Andrew Parish|85
 Halver|51.186|7.498|DE|North Rhine-Westphalia|85
+Hallasan|33.360|126.533|KR|Jeju-do|85|f
 Hale|53.378|-2.333|GB|England|84
 Halstenbek|53.633|9.839|DE|Schleswig-Holstein|84
 Hale|51.229|-0.789|GB|England|84
@@ -50,8 +54,10 @@ Hall in Tirol|47.283|11.517|AT|Tyrol|82
 Half Moon Bay|37.464|-122.429|US|California|82
 Halensee|52.498|13.292|DE|State of Berlin|82
 Hallett Cove|-35.079|138.515|AU|South Australia|82
+Halifax Stanfield International Airport|44.884|-63.512|CA|Nova Scotia|82|f
 Halstead|51.945|0.639|GB|England|82
 Hallam|-38.017|145.267|AU|Victoria|81
+Haleakalā|20.710|-156.253|US|Hawaii|81|f
 Halapitan|7.918|125.330|PH|Northern Mindanao|81
 Hallstahammar|59.614|16.228|SE|Västmanland|81
 Halfway|39.621|-77.759|US|Maryland|81
@@ -68,6 +74,7 @@ Hallstadt|49.929|10.875|DE|Bavaria|79
 Haledon|40.936|-74.186|US|New Jersey|79
 Halfeli|39.888|43.989|TR|Iğdır|78
 Half Moon|34.826|-77.459|US|North Carolina|78
+Hallstätter See|47.579|13.662|AT|Upper Austria|78|f
 Hallsberg|59.065|15.110|SE|Örebro|78
 Hallbergmoos|48.327|11.751|DE|Bavaria|78
 Hales Corners|42.938|-88.049|US|Wisconsin|78
@@ -76,12 +83,16 @@ Halásztelek|47.362|18.981|HU|Pest County|77
 Hallein|47.683|13.100|AT|Salzburg|77
 Halle|51.241|4.643|BE|Flanders|77
 Halmeu|47.967|23.017|RO|Satu Mare County|77
+Haltiatunturi|69.310|21.277|FI|Lapland|77|f
 Half Moon Bay|19.297|-81.151|KY||76
+Half Moon Shoal|8.900|116.275|||76|f
 Halych|49.124|24.727|UA|Ivano-Frankivsk|76
 Hălchiu|45.767|25.550|RO|Brașov County|76
 Half Way Pond|19.287|-81.372|KY||75
 Halor|26.967|56.083|IR|Hormozgan|75
 Hălăuceşti|47.100|26.800|RO|Iași County|75
+Hạ Long Bay|20.906|107.104|VN|Quảng Ninh|75|f
+Hall Beach Airport|68.776|-81.244|CA|Nunavut|75|f
 Halesworth|52.346|1.503|GB|England|75
 Hallanikro|6.853|-5.640|CI|Sassandra-Marahoue|75
 Ḩalāwah|32.384|35.662|JO|Ajloun|75
@@ -89,9 +100,11 @@ Hal’shany|54.258|26.014|BY|Grodnenskaya|74
 Hale Dharmapuri|12.159|78.164|IN|Tamil Nadu|74
 Ħal Għaxaq|35.846|14.517|MT||74|r
 Hallenberg|51.111|8.620|DE|North Rhine-Westphalia|73
+Halls Creek Airport|-18.234|127.670|AU|Western Australia|73|f
 Hallstavik|60.050|18.600|SE|Stockholm|73
 Halba|34.543|36.080|LB|Akkar|73
 Hällefors|59.784|14.522|SE|Örebro|73
+Halvmåneøya|77.275|23.160|SJ||72|f
 Haleyville|34.226|-87.621|US|Alabama|72
 Hallsville|32.504|-94.574|US|Texas|72
 Hale‘iwa|21.593|-158.103|US|Hawaii|72
@@ -100,6 +113,8 @@ Halanzy|49.561|5.744|BE|Wallonia|72
 Hallennes-lez-Haubourdin|50.613|2.966|FR|Hauts-de-France|72
 Halayhayin|14.189|121.407|PH|Calabarzon|72
 Haltwhistle|54.971|-2.457|GB|England|72
+Halifax Island|-26.651|15.080|NA|Karas Region|71|f
+Halvfarhøi|62.102|9.473|NO|Innlandet|71|f
 Haldenwang|47.800|10.350|DE|Bavaria|71
 Halsbrücke|50.950|13.350|DE|Saxony|71
 Halinów|52.229|21.355|PL|Mazovia|71
@@ -111,12 +126,17 @@ Halászi|47.889|17.326|HU|Győr-Moson-Sopron|70
 Halfeti|37.245|37.869|TR|Şanlıurfa|70
 Halhgol|48.183|114.900|MN|East Aimak|70
 Hallglen|55.986|-3.785|GB|Scotland|70
+Halli Airport|61.856|24.787|FI|Central Finland|70|f
+Hallig Hooge|54.569|8.543|DE|Schleswig-Holstein|70|f
+Hallo Bay|58.458|-154.023|US|Alaska|70|f
 Häljarp|55.850|12.917|SE|Skåne|70
 Halıdere|40.716|29.752|TR|Kocaeli|70
 Halfway House|40.282|-75.643|US|Pennsylvania|69
 Hal Gharghur|35.924|14.451|MT|Ħal Għargħur|69
 Halfmoon Bay|49.513|-123.909|CA|British Columbia|69
 Halfing|47.952|12.275|DE|Bavaria|69
+Halki Island|40.875|29.089|TR|Istanbul|69|f
+Hall Island|60.662|-173.086|US|Alaska|69|f
 Hallam|40.005|-76.604|US|Pennsylvania|69
 Halfweg|52.383|4.754|NL|North Holland|68
 Haligue|13.667|121.117|PH|Calabarzon|68
@@ -130,6 +150,11 @@ Halenkov|49.317|18.147|CZ|Zlín|67
 Halfweg|52.524|4.928|NL|North Holland|67
 Hallowell|44.286|-69.791|US|Maine|67
 Halefoğlu|40.650|43.292|TR|Kars Province|67
+Ḩālat al Baḩrānī|24.382|54.230|AE|Abu Dhabi|67|f
+Half Moon Caye|17.205|-87.536|BZ|Belize District|67|f
+Halsnøya|59.193|5.950|NO|Rogaland|67|f
+Halti|69.309|21.278|FI||67|f
+Ḩālūl|25.673|52.411|QA||67|f
 Halton|53.317|-2.700|GB|England|67
 Halbe|52.117|13.700|DE|Brandenburg|67
 Ḩālī Ākhūnd|37.219|55.030|IR|Golestan|67
@@ -144,6 +169,9 @@ Halle-Booienhoven|50.805|5.112|BE|Flanders|66
 Halbturn|47.870|16.975|AT|Burgenland|66
 Halmaj|48.250|21.000|HU|Borsod-Abaúj-Zemplén|65
 Haldenwang|48.438|10.448|DE|Bavaria|65
+Halali‘i Lake|21.855|-160.187|US|Hawaii|65|f
+Halmahera Sea|-1.000|129.000|||65|f
+Halsnøy|59.773|5.793|NO|Vestland|65|f
 Halling|51.351|0.445|GB|England|65
 Hale|53.333|-2.800|GB|England|65
 Hällabrottet|59.117|15.200|SE|Örebro|65
@@ -157,6 +185,15 @@ Hälleforsnäs|59.152|16.497|SE|Södermanland|64
 Hallsville|39.117|-92.221|US|Missouri|64
 Hällevik|56.017|14.700|SE|Blekinge|64
 H̱allamish|32.004|35.124|PS|West Bank|63
+Halberstadt Concentration Camp|51.895|11.050|DE|Saxony-Anhalt|63|f
+Haldalsnuten|60.847|7.860|NO|Buskerud|63|f
+Haliç Bridge|41.043|28.942|TR||63|f
+Hall-Miller Municipal Airport|33.102|-94.195|US|Texas|63|f
+Halle Concentration Camp|51.497|11.969|DE|Saxony-Anhalt|63|f
+Hallett Peak|40.303|-105.686|US|Colorado|63|f
+Hallock Municipal Airport|48.752|-96.943|US|Minnesota|63|f
+Halmstad Airport|56.691|12.820|SE|Halland|63|f
+Haluoleo Airport|-4.083|122.414|ID|Southeast Sulawesi|63|f
 Halıcılar|37.707|30.399|TR|Burdur|63
 Hallines|50.711|2.226|FR|Hauts-de-France|63
 Halpah’ī|29.406|51.166|IR|Bushehr|63
@@ -170,6 +207,24 @@ Haljala|59.434|26.261|EE|Lääne-Virumaa|62
 Hallow|52.223|-2.255|GB|England|62
 Half Way Ground|19.721|-79.822|KY||61
 Haliburton Village|45.049|-78.509|CA|Ontario|61
+HAL Bangalore Airport|12.950|77.668|IN|Karnataka|61|f
+Hal Saflieni Hypogeum|35.870|14.507|MT|Paola|61|f
+Halcott Mountain|42.180|-74.438|US|New York|61|f
+Haldalshøgde|60.839|7.819|NO|Buskerud|61|f
+Hale Boggs Memorial Bridge|29.942|-90.374|US|Louisiana|61|f
+Haleakalā Crater|20.719|-156.183|US|Hawaii|61|f
+Haleakala National Park|20.720|-156.155|US|Hawaii|61|f
+Halema‘uma‘u Crater|19.406|-155.283|US|Hawaii|61|f
+Half Peak|37.864|-107.466|US|Colorado|61|f
+Hålisen Glacier|-72.033|8.850|AQ||61|f
+Hålisrimen Peak|-72.000|8.767|AQ||61|f
+Hålisstonga Peak|-72.033|8.933|AQ||61|f
+Hallbosjön|58.833|16.683|SE|Södermanland|61|f
+Halliburton Field|34.472|-97.960|US|Oklahoma|61|f
+Halmstad Castle|56.671|12.858|SE|Halland|61|f
+Halnefjorden|60.404|7.712|NO|Buskerud|61|f
+Halsön|62.833|21.145|FI|Ostrobothnia|61|f
+Halten|64.173|9.405|NO|Trøndelag|61|f
 Hall Park|35.237|-97.406|US|Oklahoma|61
 Haltinne|50.451|5.077|BE|Wallonia|61
 Halže|49.831|12.579|CZ|Plzeň Region|61
@@ -181,16 +236,172 @@ Halkirk|58.512|-3.492|GB|Scotland|60
 Hălărești|46.394|27.556|RO|Vaslui County|60
 Halsua|63.467|24.167|FI|Central Ostrobothnia|60
 Hallock|48.774|-96.946|US|Minnesota|60
+Haldenstein|46.879|9.526|CH|Grisons|59
+Halsey|44.384|-123.110|US|Oregon|59
+Hållsta|59.295|16.454|SE|Södermanland|59
+Halberton|50.907|-3.412|GB|England|59
+Halifax|40.468|-76.932|US|Pennsylvania|58
+Halsbach|48.133|12.683|DE|Bavaria|58
+Hällevadsholm|58.580|11.541|SE|Västra Götaland|58
+Hållsta|63.000|14.967|SE|Jämtland|58
+Halali Airport|-19.029|16.459|NA|Kunene Region|58|f
+Hales Island|42.761|-71.056|US|Massachusetts|58|f
+Half Way Island|-10.106|143.320|AU|Queensland|58|f
+Halidzor Fortress|39.218|46.352|AM|Syunik|58|f
+Halifax County Airport|36.443|-77.709|US|North Carolina|58|f
+Hall Covered Bridge|43.138|-72.488|US|Vermont|58|f
+Hall’s Island|32.339|-64.713|BM|Hamilton|58|f
+Hallands Väderö|56.443|12.562|SE|Skåne|58|f
+Halletts Bay (Hamuria)|-38.868|175.990|NZ|Auckland|58|f
+Hallgarter Zange|50.049|8.014|DE|Hesse|58|f
+Hallstatt|47.562|13.649|AT|Upper Austria|58
+Hallingby|60.271|10.185|NO|Buskerud|58
+Haluziia|51.401|25.603|UA|Volyn|58
+Hălceni|47.442|27.263|RO|Iași County|58
+Halabor|48.102|22.679|UA|Zakarpattia|58
+Halvesbostel|53.355|9.598|DE|Lower Saxony|57
+Hallgarten|49.759|7.789|DE|Rheinland-Pfalz|57
+Halle|51.989|6.429|NL|Gelderland|57
+Haleș|45.191|26.561|RO|Buzău County|57
+Hällekis|58.629|13.438|SE|Västra Götaland|57
+Halytsivka|47.896|25.212|UA|Chernivtsi|57
+Hällaryd|56.200|14.950|SE|Blekinge|57
+Haluzyntsi|49.169|27.551|UA|Khmelnytskyi|57
+Halcombe|-40.143|175.494|NZ|Manawatu-Wanganui|56
+Hălmeag|45.866|25.134|RO|Brașov County|56
+Hales|52.522|1.509|GB|England|56
+Halle|52.422|8.920|DE|Lower Saxony|56
+Hällberga|59.317|16.600|SE|Södermanland|56
+Halidzor|39.412|46.296|AM|Syunik|56
+Halvergate|52.606|1.576|GB|England|56
 Halbenrain|46.722|15.947|AT|Styria|56
+Hallschlag|50.354|6.438|DE|Rheinland-Pfalz|56
+Hallaton|52.561|-0.837|GB|England|55
+Hälsö|57.734|11.658|SE|Västra Götaland|55
+Halstad|47.352|-96.829|US|Minnesota|55
+Halalo|-13.345|-176.215|WF|Uvea|55
+Hällaryd|57.467|15.167|SE|Jönköping|55
+Halstock|50.869|-2.655|GB|England|55
+Halsou|43.375|-1.423|FR|New Aquitaine|55
+Halkalı|38.533|39.911|TR|Elazığ|55
+Hallidays Point|-32.066|152.501|AU|New South Wales|55
+Hallsburg|31.539|-96.956|US|Texas|54
+Hale County Airport|34.172|-101.709|US|Texas|54|f
+Hales Island|-14.183|144.541|AU|Queensland|54|f
+Half Moon Bay Airport|37.515|-122.500|US|California|54|f
+Half Moon Island|-62.590|-59.920|AQ||54|f
+Halfbreed Lake National Wildlife Refuge|45.941|-109.113|US|Montana|54|f
+Halfmoon Lake|43.392|-71.229|US|New Hampshire|54|f
+Halfthree Point|-62.229|-58.947|AQ||54|f
+Halfway Islet|-11.381|142.967|AU|Queensland|54|f
+Halibut Point Reservation|42.692|-70.629|US|Massachusetts|54|f
+Haller Rocks|-64.055|-62.102|AQ||54|f
+Hallevatnet|59.026|9.907|NO|Vestfold|54|f
+Hallgren, Mount|-73.383|-3.367|AQ||54|f
+Hallig Habel|54.637|8.767|DE|Schleswig-Holstein|54|f
+Hällingsåfallet|64.350|14.383|SE|Jämtland|54|f
+Hallingskarvet|60.613|7.666|NO|Buskerud|54|f
+Hallwil|47.323|8.195|CH|Aargau|54|f
+Halmø|54.888|10.495|DK|South Denmark|54|f
+Hālō|21.186|-157.061|US|Hawaii|54|f
+Hálslón|64.839|-15.857|IS|East|54|f
+Halulu Lake|21.869|-160.207|US|Hawaii|54|f
+Halvfarryggen Ridge|-71.167|-6.500|AQ||54|f
+Halwara International Airport|30.748|75.631|IN|Punjab|54|f
+Halowchyn|54.060|29.918|BY|Mogilev|54
+Haliave|50.238|32.901|UA|Poltava|54
+Halbs|50.591|7.965|DE|Rheinland-Pfalz|51
+Hal Foss Peak|47.799|-123.209|US|Washington|49|f
+Haldensee|47.483|10.567|AT|Tyrol|49|f
+Hale Conservation Park|-34.689|138.909|AU|South Australia|49|f
+Hale Glacier|-72.300|-100.550|AQ||49|f
+Hales Castle|51.197|-2.291|GB|England|49|f
+Hales Peak|-64.129|-62.149|AQ||49|f
+Haley Glacier|-71.494|-61.934|AQ||49|f
+Half Black Peak|-71.783|163.667|AQ||49|f
+Half Chance Iron Bridge|32.312|-87.701|US|Alabama|49|f
+Half Moon Bay|-37.967|145.010|AU|Victoria|49|f
+Half Moon Crater|-77.800|166.750|AQ||49|f
+Half Tide Rock|-40.570|144.930|AU|Tasmania|49|f
+Halfpint Range|37.163|-115.961|US|Nevada|49|f
+Halfway Island|-64.750|-64.183|AQ||49|f
+Halifax Bay|-18.833|146.500|AU|Queensland|49|f
+Halifax Bay Wetlands National Park|-18.882|146.268|AU|Queensland|49|f
+Halifax-Northampton Regional Airport|36.328|-77.638|US|North Carolina|49|f
+Halihan Hill|41.990|-74.019|US|New York|49|f
+Hall Peak|48.060|-121.540|US|Washington|49|f
+Hall Ridge|-70.680|-63.141|AQ||49|f
+Hall, Mount|-84.917|-170.367|AQ||49|f
+Hallam Peak|-77.650|163.383|AQ||49|f
+Hallangen|59.776|11.727|NO|Akershus|49|f
+Hallasan National Park|33.372|126.558|KR|Jeju-do|49|f
+Hallebjergene|74.233|-21.750|GL||49|f
+Hallett Cove Conservation Park|-35.074|138.498|AU|South Australia|49|f
+Hallett Peninsula|-72.500|170.167|AQ||49|f
+Hallett, Cape|-72.317|170.267|AQ||49|f
+Hallonstenarna|59.525|18.878|SE|Stockholm|49|f
+Halls Butt|37.032|-82.814|US|Kentucky|49|f
+Halpern Point|-63.305|-57.849|AQ||49|f
 Halifax|36.328|-77.589|US|North Carolina|47
+Ha Ling Peak|51.064|-115.400|CA|Alberta|40|f
+Haldensteiner Calanda|46.900|9.467|CH|Saint Gallen|40|f
+Haleji Lake|24.803|67.777|PK|Sindh|40|f
+Half Mile Lagoon|-34.708|172.990|NZ|Auckland|40|f
+Half Moon Bay|76.035|-100.002|CA|Nunavut|40|f
+Half Moon Bay State Beach|37.467|-122.445|US|California|40|f
+Half Moon Lake|45.459|-61.412|CA|Nova Scotia|40|f
+Half Moon Pond|43.735|-75.013|US|New York|40|f
+Halfmoon Bay|-46.883|168.133|NZ||40|f
+Halfmoon Lake|29.154|-81.830|US|Florida|40|f
+Halford Island|62.267|-66.081|CA|Nunavut|40|f
+Halfway Lake|44.006|-65.860|CA|Nova Scotia|40|f
+Halfway Lake|44.745|-63.785|CA|Nova Scotia|40|f
+Halfway Lake|40.991|-77.190|US|Pennsylvania|40|f
+Halfway Lake Provincial Park|46.900|-81.650|CA|Ontario|40|f
+Halfway Pond|41.848|-70.618|US|Massachusetts|40|f
+Haliburton Lake|45.193|-78.396|CA|Ontario|40|f
+Halibut Bay|44.551|-63.554|CA|Nova Scotia|40|f
+Halicz|49.073|22.769|PL|Subcarpathia|40|f
+Halifax Lake|49.452|-113.763|CA|Alberta|40|f
+Halifax Public Gardens|44.643|-63.582|CA|Nova Scotia|40|f
+Halifax Range|50.350|-125.631|CA|British Columbia|40|f
+Hall Airport|32.516|-96.237|US|Texas|40|f
+Hall Glacier|-73.900|-76.383|AQ||40|f
+Hall Island|44.967|-78.483|CA|Ontario|40|f
+Hall Lake|43.965|-79.761|CA|Ontario|40|f
+Hall Park|39.677|-75.776|US|Delaware|40|f
+Hall Peak|-79.483|-83.750|AQ||40|f
+Hall Peninsula|63.334|-66.081|CA|Nunavut|40|f
+Hallands kulturhistoriska museum|57.106|12.240|SE|Halland|40|f
+Hallaton Castle Hill Camp|52.563|-0.851|GB|England|40|f
+Hallbankgate|54.929|-2.655|GB|England|40|f
+Halleck Range|55.628|-130.230|US|Alaska|40|f
+Hallenbeck Hill|42.271|-73.832|US|New York|40|f
+Halls Bay|49.500|-55.998|CA|Newfoundland and Labrador|40|f
+Halmstad Arena|56.675|12.890|SE|Halland|40|f
+Halmyris|45.025|29.198|RO|Tulcea County|40|f
+Halos|39.147|22.831|GR|Thessaly|40|f
+Halverson Peak|-71.783|164.733|AQ||40|f
+Halsdorf|49.933|6.367|DE|Rheinland-Pfalz|38
 Hà Lam|15.739|108.351|VN|Da Nang City|0
+Halahai|47.429|123.402|CN|Heilongjiang|0
+Halajun|40.250|76.917|CN|Xinjiang|0
 Halale|6.752|37.342|ET|South Ethiopia Regional State|0
+Halamendu|40.984|110.721|CN|Inner Mongolia|0
+Halasu|48.112|122.419|CN|Inner Mongolia|0
+Halat|-8.683|122.207|ID|East Nusa Tenggara|0
 Halban|49.529|97.741|MN|Khövsgöl Province|0
+Hale|41.219|111.675|CN|Inner Mongolia|0
+Hali|47.327|123.654|CN|Heilongjiang|0
 Halilçavuş|39.247|41.793|TR|Erzurum|0
+Halimaung Jaya (F-3)|-3.250|112.544|ID|Central Kalimantan|0
+Halimpu|-7.433|107.667|ID|West Java|0
 Halitpaşa|38.685|27.678|TR|Manisa|0
 Haliun|45.930|96.162|MN|Govi-Altai Province|0
 Haliut|41.556|108.520|CN|Inner Mongolia|0
 Halkyn|53.226|-3.190|GB|Wales|0
+Halle|52.453|6.918|DE|Lower Saxony|0
 Halong|-2.258|115.651|ID|South Kalimantan|0
 Halsham|53.730|-0.074|GB|England|0
 Halshaw|36.207|45.273|IQ|Sulaymaniyah|0
+Halteu|-7.084|107.899|ID|West Java|0

@@ -1,6 +1,6 @@
 Australia|-25.000|135.000|AU||149|c
 Austria|47.333|13.333|AT||139|c
-Auvergne-Rhône-Alpes|45.482|5.374|FR||136|r
+Auvergne-Rhône-Alpes|45.482|5.374|FR||137|r
 Autonomous Region in Muslim Mindanao|7.537|124.277|PH||130|r
 Auckland|-36.849|174.763|NZ|Auckland|124
 Aurangabad|19.878|75.342|IN|Maharashtra|121
@@ -17,6 +17,7 @@ Auraiya|26.465|79.509|IN|Uttar Pradesh|97
 Auchi|7.068|6.264|NG|Edo State|96
 Auburn|32.610|-85.481|US|Alabama|96
 Aurora|44.000|-79.466|CA|Ontario|95
+Australian Alps|-37.000|148.000|AU|New South Wales|95|f
 Augusto Corrêa|-1.022|-46.635|BR|Pará|93
 Auburn Gresham|41.742|-87.653|US|Illinois|93
 Autlán de Navarro|19.772|-104.366|MX|Jalisco|93
@@ -26,6 +27,7 @@ Auxerre|47.800|3.570|FR|Bourgogne-Franche-Comté|92
 Aurich|53.470|7.482|DE|Lower Saxony|92
 Autazes|-3.580|-59.131|BR|Amazonas|92
 Auburn|-33.850|151.033|AU|New South Wales|91
+Austin-Bergstrom International Airport|30.195|-97.670|US|Texas|91|f
 Ausa|18.247|76.499|IN|Maharashtra|91
 Aurillac|44.925|2.440|FR|Auvergne-Rhône-Alpes|91
 Auderghem|50.817|4.433|BE|Brussels Capital|91
@@ -52,9 +54,11 @@ Auburn Bay|50.888|-113.959|CA|Alberta|85
 Aurangabad Cantonment|19.876|75.292|IN|Maharashtra|85
 Auhammadpur Mājri|28.729|77.038|IN|Delhi|85
 Auburn|42.195|-71.836|US|Massachusetts|84
+Austvågøya|68.333|14.600|NO|Nordland|84|f
 Aurora|13.348|122.519|PH|Calabarzon|84
 Australind|-33.279|115.715|AU|Western Australia|84
 Aurora|41.318|-81.345|US|Ohio|84
+Australian Museum|-33.874|151.213|AU|New South Wales|84|f
 Audincourt|47.483|6.853|FR|Bourgogne-Franche-Comté|84
 Auburndale|28.065|-81.789|US|Florida|84
 Aubange|49.567|5.805|BE|Wallonia|83
@@ -75,6 +79,7 @@ Aulnoye-Aymeries|50.201|3.838|FR|Hauts-de-France|79
 Aurora|7.951|123.583|PH|Zamboanga Peninsula|79
 Auerbach|49.692|11.633|DE|Bavaria|79
 Audubon|39.891|-75.073|US|New Jersey|79
+Austral Islands|-23.372|-149.466|PF||79|r
 Auna|10.188|4.723|NG|Niger State|79
 Auvelais|50.450|4.632|BE|Wallonia|79
 Audubon|40.128|-75.432|US|Pennsylvania|79
@@ -83,6 +88,8 @@ Aulnoy-lez-Valenciennes|50.333|3.533|FR|Hauts-de-France|78
 Auxonne|47.193|5.387|FR|Bourgogne-Franche-Comté|78
 Aureilhan|43.244|0.096|FR|Occitanie|78
 Auby|50.415|3.054|FR|Hauts-de-France|78
+Augsburg Airport|48.425|10.932|DE|Bavaria|78|f
+Aussie Stadium|-33.889|151.225|AU|New South Wales|78|f
 Auburn|34.014|-83.828|US|Georgia|78
 Aurora|36.971|-93.718|US|Missouri|77
 Auterive|43.351|1.475|FR|Occitanie|77
@@ -90,17 +97,22 @@ Aussillon|43.499|2.363|FR|Occitanie|77
 Augusto Pestana|-28.515|-53.993|BR|Rio Grande do Sul|77
 Austell|33.813|-84.634|US|Georgia|77
 Auki|-8.768|160.698|SB|Malaita Province|77
-Austral Islands|-23.372|-149.466|PF||77|r
+Auckland Zoo|-36.863|174.719|NZ|Auckland|77|f
+Augusta State Airport|44.321|-69.797|US|Maine|77|f
 Auvers-sur-Oise|49.072|2.170|FR|Île-de-France|77
 Auburndale|42.347|-71.249|US|Massachusetts|77
 Aurora|-27.315|-49.638|BR|Santa Catarina|77
 Au|47.431|9.634|CH|Saint Gallen|76
 Aurās|26.914|80.508|IN|Uttar Pradesh|76
+Auhah Island|29.378|48.439|KW|Al Asimah|76|f
+Aurukun Airport|-13.354|141.721|AU|Queensland|76|f
+Australia Zoo|-26.838|152.961|AU|Queensland|76|f
 Aual|-1.446|5.627|GQ|Annobon|76
 Aucamville|43.671|1.428|FR|Occitanie|76
 Aubigny-sur-Nère|47.488|2.439|FR|Centre-Val de Loire|76
 Audun-le-Tiche|49.472|5.955|FR|Grand Est|75
 Auchterarder|56.296|-3.707|GB|Scotland|75
+Aurangabad Airport|19.863|75.398|IN|Maharashtra|75|f
 Augusta|39.295|-78.638|US|West Virginia|75
 Audley|53.050|-2.300|GB|England|75
 Audenge|44.684|-1.013|FR|New Aquitaine|75
@@ -119,6 +131,11 @@ Auburn|39.592|-89.746|US|Illinois|74
 Aussonne|43.684|1.319|FR|Occitanie|74
 Aubin|44.528|2.244|FR|Occitanie|74
 Audhan|20.848|74.766|IN|Maharashtra|74
+Audubon County Airport|41.701|-94.921|US|Iowa|73|f
+Aupaluk Airport|59.297|-69.600|CA|Quebec|73|f
+Aur Atoll|8.187|171.137|MH|Aur Atoll|73|f
+Aurora Municipal Airport|40.894|-97.995|US|Nebraska|73|f
+Austral University of Chile|-39.807|-73.251|CL|Los Lagos Region|73|f
 Audruicq|50.878|2.080|FR|Hauts-de-France|73
 Aulnat|45.799|3.167|FR|Auvergne-Rhône-Alpes|73
 Auberchicourt|50.333|3.233|FR|Hauts-de-France|73
@@ -132,6 +149,8 @@ Austin|38.758|-85.808|US|Indiana|73
 Audoin Santé|5.290|-4.137|CI|Abidjan Autonomous District|72
 Auezov|49.710|81.580|KZ|Abai Region|72
 Auly|48.555|34.458|UA|Dnipropetrovsk|72
+Auckland Harbour Bridge|-36.828|174.740|NZ|Auckland|72|f
+Augstenberg|46.865|10.204|CH|Grisons|72|f
 Aubel|50.702|5.858|BE|Wallonia|72
 Aur|31.068|76.002|IN|Punjab|72
 Aubevoye|49.171|1.335|FR|Normandy|72
@@ -142,8 +161,12 @@ Aura|60.647|22.588|FI|Southwest Finland|72
 Aukrug|54.083|9.783|DE|Schleswig-Holstein|72
 Auchinleck|55.472|-4.293|GB|Scotland|72
 Aurora|39.057|-84.901|US|Indiana|71
+Augrabies Falls|-28.591|20.340|ZA|Northern Cape|71|f
+Augusta Municipal Airport|37.672|-97.079|US|Kansas|71|f
+Auskerry|59.032|-2.570|GB|Scotland|71|f
 Augrabies|-28.633|20.350|ZA|Northern Cape|71
 Aurora|13.232|121.120|PH|Mimaropa|71
+Augšdaugava Municipality|55.960|26.345|LV||71|r
 Auburn Lake Trails|38.914|-120.952|US|California|71
 Aumbay|7.103|125.784|PH|Northern Mindanao|71
 Áurea|-27.697|-52.049|BR|Rio Grande do Sul|71
@@ -157,6 +180,8 @@ Auburn|40.393|-95.839|US|Nebraska|70
 Aurilândia|-16.682|-50.465|BR|Goiás|70
 Auma|50.700|11.900|DE|Thuringia|70
 Augustenborg|54.952|9.872|DK|South Denmark|70
+Aurunci Mountains|41.367|13.667|IT|Lazio|70|f
+Austin Straubel International Airport|44.485|-88.130|US|Wisconsin|70|f
 Aunay-sur-Odon|49.020|-0.632|FR|Normandy|70
 Auşeu|47.033|22.500|RO|Bihor County|69
 Auxi-le-Château|50.231|2.116|FR|Hauts-de-France|69
@@ -166,6 +191,10 @@ Auboué|49.212|5.977|FR|Grand Est|69
 Auribeau-sur-Siagne|43.601|6.910|FR|Provence-Alpes-Côte d'Azur|69
 Aumale|49.770|1.756|FR|Normandy|69
 Aubonne|46.495|6.392|CH|Vaud|69
+Auburn Municipal Airport|47.327|-122.225|US|Washington|69|f
+Augustine Volcano|59.362|-153.433|US|Alaska|69|f
+Aur Island|2.450|104.521|MY|Johor|69|f
+Austin Island|61.334|-94.000|CA|Nunavut|69|f
 Aurora|8.593|125.838|PH|Caraga|69
 Auli|60.035|11.360|NO|Akershus|68
 Augny|49.061|6.118|FR|Grand Est|68
@@ -176,6 +205,9 @@ Auggen|47.783|7.600|DE|Baden-Wurttemberg|68
 Auk Kyaung|16.508|95.847|MM|Yangon|68
 Auberry|37.081|-119.485|US|California|67
 Aumetz|49.418|5.944|FR|Grand Est|67
+Augusta Mountains|40.016|-117.530|US|Nevada|67|f
+Augusta Raurica|47.533|7.722|CH|Basel-Landschaft|67|f
+Auriat Island|57.467|-106.535|CA|Saskatchewan|67|f
 Aurelio Manrique|22.288|-98.651|MX|San Luis Potosí|67
 Aubigné-Racan|47.691|0.267|FR|Pays de la Loire|67
 Aurisina|45.750|13.673|IT|Friuli Venezia Giulia|67
@@ -195,7 +227,6 @@ Aubord|43.757|4.313|FR|Occitanie|66
 Augusta|35.282|-91.365|US|Arkansas|66
 Aurora Esquipulas|17.117|-92.476|MX|Chiapas|66
 Augusta|42.975|-75.501|US|New York|66
-Augšdaugava Municipality|55.960|26.345|LV||66|r
 Auzat-la-Combelle|45.452|3.318|FR|Auvergne-Rhône-Alpes|66
 Ausleben|52.090|11.112|DE|Saxony-Anhalt|66
 Audubon|41.718|-94.932|US|Iowa|66
@@ -205,6 +236,7 @@ Auersthal|48.374|16.636|AT|Lower Austria|66
 Ault|50.104|1.450|FR|Hauts-de-France|66
 Aután|21.690|-105.307|MX|Nayarit|66
 Au an der Traun|48.180|14.112|AT|Upper Austria|65
+Aur|59.566|11.602|NO|Østfold|65|f
 Augier|13.763|-60.979|LC|Vieux-Fort|65
 Auénou|7.160|-3.225|CI|Comoé District|65
 Auffay|49.719|1.099|FR|Normandy|65
@@ -228,6 +260,15 @@ Augusta|44.680|-91.120|US|Wisconsin|64
 Audubon Park|38.204|-85.725|US|Kentucky|64
 Auas|15.483|-84.333|HN|Gracias a Dios Department|64
 Aubry-du-Hainaut|50.367|3.467|FR|Hauts-de-France|63
+Au Peninsula|47.249|8.645|CH|Zurich|63|f
+Aubrey Peak|34.663|-113.729|US|Arizona|63|f
+Augusta Regional Airport at Bush Field|33.370|-81.964|US|Georgia|63|f
+Aurillac Airport|44.891|2.422|FR|Auvergne-Rhône-Alpes|63|f
+Aursjøen|62.362|8.629|NO|Innlandet|63|f
+Austfjorden|60.723|5.365|NO|Vestland|63|f
+Austin Executive Airport|30.397|-97.567|US|Texas|63|f
+Austral Island|-66.500|110.650|AQ||63|f
+Auyán Tepuy Massif|5.917|-62.533|VE|Bolívar|63|f
 Auzouer-en-Touraine|47.542|0.921|FR|Centre-Val de Loire|63
 Autsho|27.443|91.175|BT|Lhuntse|63
 Auvers-le-Hamon|47.902|-0.352|FR|Pays de la Loire|63
@@ -274,6 +315,15 @@ Aurolzmünster|48.248|13.455|AT|Upper Austria|61
 Aurora Ermita|17.236|-92.874|MX|Chiapas|61
 Auxon-Dessous|47.300|5.950|FR|Bourgogne-Franche-Comté|61
 Aurach|47.412|12.427|AT|Tyrol|61
+Auasberge|-22.645|17.183|NA|Khomas Region|61|f
+Auburn/Lewiston Municipal Airport|44.049|-70.286|US|Maine|61|f
+Auguste George Airport|18.727|-64.330|VG||61|f
+Auke Mountain|58.392|-134.713|US|Alaska|61|f
+Auki Airport|-8.703|160.682|SB|Malaita Province|61|f
+Aurhø Peak|-72.150|-3.167|AQ||61|f
+Austera Peak|48.568|-121.102|US|Washington|61|f
+Austgötabreen|78.433|13.083|SJ|Svalbard|61|f
+Austre Bokn|59.236|5.464|NO|Rogaland|61|f
 Auvers-Saint-Georges|48.493|2.220|FR|Île-de-France|61
 Auhausen|49.008|10.622|DE|Bavaria|61
 Aumont-Aubrac|44.722|3.284|FR|Occitanie|61
@@ -295,32 +345,268 @@ Auvillar|44.069|0.900|FR|Occitanie|60
 Audubon Park|39.897|-75.088|US|New Jersey|60
 Augustówka|51.986|21.496|PL|Mazovia|60
 Ausserbraz|47.149|9.901|AT|Vorarlberg|60
+Auffach|47.400|12.033|AT|Tyrol|60
+Aurelia|42.713|-95.437|US|Iowa|60
+Aurora Grande|17.134|-92.355|MX|Chiapas|60
+Auxvasse|39.018|-91.897|US|Missouri|60
+Aurora|45.231|-122.756|US|Oregon|60
+Aukstadvaris|54.579|24.527|LT|Vilnius|60
+Aubiac|44.141|0.561|FR|New Aquitaine|60
+Ausserweg|47.133|11.483|AT|Tyrol|60
+Aubepierre-Ozouer-le-Repos|48.633|2.883|FR|Île-de-France|60
+Aubrives|50.103|4.763|FR|Grand Est|60
+Auxon|48.105|3.918|FR|Grand Est|59
 Au am Leithaberge|47.923|16.558|AT|Lower Austria|59
 Ausonia|41.358|13.750|IT|Lazio|59
+Augerolles|45.723|3.617|FR|Auvergne-Rhône-Alpes|59
+Austrey|52.657|-1.567|GB|England|59
+Aurel Vlaicu|45.910|23.278|RO|Hunedoara County|59
+Auteuil|48.841|1.818|FR|Île-de-France|59
+Auzits|44.506|2.329|FR|Occitanie|59
+Augst|47.536|7.715|CH|Basel-Landschaft|59
+Augusta|42.336|-85.352|US|Michigan|59
+Auxy|48.118|2.474|FR|Centre-Val de Loire|59
+Au an der Donau|48.229|14.583|AT|Upper Austria|59
 Ausejo|42.342|-2.167|ES|La Rioja|59
+Auzon|45.392|3.373|FR|Auvergne-Rhône-Alpes|59
+Aucaleuc|48.456|-2.130|FR|Brittany|59
+Audregnies|50.383|3.721|BE|Wallonia|59
+Aura an der Saale|50.164|10.007|DE|Bavaria|59
+Aurora|44.193|22.939|RO|Mehedinți County|59
+Au Gres|44.049|-83.696|US|Michigan|59
+Autaugaville|32.434|-86.655|US|Alabama|59
+Autruy-sur-Juine|48.276|2.101|FR|Centre-Val de Loire|59
+Aucamville|43.803|1.215|FR|Occitanie|59
+Auen|46.883|14.817|AT|Carinthia|59
 Austis|40.071|9.089|IT|Sardinia|58
+Aulander|36.230|-77.114|US|North Carolina|58
+Augignac|45.592|0.701|FR|New Aquitaine|58
+Autignac|43.499|3.169|FR|Occitanie|58
+Audrieu|49.208|-0.594|FR|Normandy|58
+Auvillers-les-Forges|49.864|4.359|FR|Grand Est|58
+Aussertreffling|48.333|14.350|AT|Upper Austria|58
+Augé|46.440|-0.288|FR|New Aquitaine|58
+Aureil|45.806|1.392|FR|New Aquitaine|58
+Autheuil-Authouillet|49.100|1.283|FR|Normandy|58
+Aubrey Island|63.501|-68.531|CA|Nunavut|58|f
+Auburn-Opelika Robert G Pitts Airport|32.615|-85.436|US|Alabama|58|f
+Audrey Island|-68.136|-67.107|AQ||58|f
+Audubon State Historic Site|30.799|-91.308|US|Louisiana|58|f
+Augarten|48.226|16.378|AT|Vienna|58|f
+Aughinish Island|52.621|-9.066|IE|Munster|58|f
+Aughnanure Castle|53.417|-9.267|IE|Connacht|58|f
+Augsburg College|44.966|-93.240|US|Minnesota|58|f
+Augstberg|48.297|9.277|DE|Baden-Wurttemberg|58|f
+August A Busch Memorial Conservation Area|38.718|-90.756|US|Missouri|58|f
+Augustabukta|79.398|20.657|SJ||58|f
+Auguste Island|-64.054|-61.613|AQ||58|f
+Augustus Downs Airport|-18.506|139.884|AU|Queensland|58|f
+Aupaluktok Island|66.151|-66.281|CA|Nunavut|58|f
+Aupaluktut Island|65.401|-66.831|CA|Nunavut|58|f
+Auriroa Island|-10.806|151.922|PG|Milne Bay Province|58|f
+Aurora Peak|48.023|-123.812|US|Washington|58|f
+Aurora State Airport|45.250|-122.770|US|Oregon|58|f
+Austerdalsbreen|61.604|6.972|NO|Vestland|58|f
+Austin Airport|39.469|-117.195|US|Nevada|58|f
+Austra|65.084|11.877|NO|Trøndelag|58|f
+Authume|47.127|5.502|FR|Bourgogne-Franche-Comté|58
+Aujargues|43.790|4.122|FR|Occitanie|58
+Aubstadt|50.333|10.433|DE|Bavaria|58
+Autreville|49.585|3.241|FR|Hauts-de-France|58
+Auxon-Dessus|47.297|5.956|FR|Bourgogne-Franche-Comté|58
+Aubin-Saint-Vaast|50.395|1.973|FR|Hauts-de-France|58
 Außervillgraten|46.788|12.431|AT|Tyrol|58
+Aubazine|45.175|1.673|FR|New Aquitaine|58
+Auchinloch|55.910|-4.148|GB|Scotland|58
+Aucayo|-3.861|-73.152|PE|Loreto|57
+Aukra|62.783|6.900|NO|Møre og Romsdal|57
+Au am Anzbach|48.201|15.922|AT|Lower Austria|57
+Authon|47.645|0.896|FR|Centre-Val de Loire|57
+Auburn|40.598|-76.093|US|Pennsylvania|57
+Aux Marais|49.415|2.042|FR|Hauts-de-France|57
+Aurora|42.754|-76.702|US|New York|57
+Auros|44.495|-0.146|FR|New Aquitaine|57
+Auzat|42.766|1.481|FR|Occitanie|57
+Auménancourt-le-Petit|49.376|4.060|FR|Grand Est|57
+Aureilhan|44.218|-1.197|FR|New Aquitaine|57
+Autrêches|49.445|3.125|FR|Hauts-de-France|57
+Aurdal|60.924|9.415|NO|Innlandet|57
+Außerschmirn|47.083|11.533|AT|Tyrol|57
+Audresselles|50.825|1.594|FR|Hauts-de-France|57
+Aurensan|43.306|0.086|FR|Occitanie|57
+Aussois|45.229|6.742|FR|Auvergne-Rhône-Alpes|57
+Aurice|43.814|-0.604|FR|New Aquitaine|57
+Auw|50.301|6.339|DE|Rheinland-Pfalz|57
+Auburndale|44.627|-90.008|US|Wisconsin|57
+Auxier|37.737|-82.758|US|Kentucky|57
+Aunay-sous-Crécy|48.670|1.303|FR|Centre-Val de Loire|56
+Auldearn|57.575|-3.804|GB|Scotland|56
+Aumagne|45.875|-0.404|FR|New Aquitaine|56
+Auburn|-34.027|138.685|AU|South Australia|56
+Aubenton|49.837|4.204|FR|Hauts-de-France|56
+Auricarro|41.042|16.684|IT|Apulia|56
+Aurora|44.284|-96.686|US|South Dakota|56
+Auppegard|49.829|1.028|FR|Normandy|56
+Autigny|46.737|7.020|CH|Fribourg|56
+Autretot|49.651|0.731|FR|Normandy|56
+Auderath|50.183|7.000|DE|Rheinland-Pfalz|56
+Aubertin|43.274|-0.484|FR|New Aquitaine|56
+Augsdorf|51.601|11.570|DE|Saxony-Anhalt|56
+Ausson|43.083|0.595|FR|Occitanie|56
+Aureville|43.482|1.452|FR|Occitanie|56
+Aulnay-sur-Iton|48.996|1.059|FR|Normandy|56
+Auffreville-Brasseuil|48.954|1.710|FR|Île-de-France|56
+Auna di Sotto|46.512|11.441|IT|Trentino-Alto Adige|56
+Aughrim|53.302|-8.313|IE|Connacht|55
+Auvers|49.299|-1.321|FR|Normandy|55
+Audincthun|50.583|2.133|FR|Hauts-de-France|55
+Auzouville-sur-Ry|49.442|1.311|FR|Normandy|55
+Aurel Vlaicu|48.001|26.911|RO|Botoșani County|55
+Aufhausen|47.297|12.762|AT|Salzburg|55
+Auberville-la-Campagne|49.533|0.600|FR|Normandy|55
+Autechaux-Roide|47.392|6.814|FR|Bourgogne-Franche-Comté|55
+Auala|-13.517|-172.652|WS|Vaisigano|55
+Augusta|40.230|-90.950|US|Illinois|55
+Au Sable Forks|44.442|-73.675|US|New York|55
+Auteuil|49.342|2.087|FR|Hauts-de-France|55
+Auzay|46.442|-0.868|FR|Pays de la Loire|55
+Aubignosc|44.130|5.969|FR|Provence-Alpes-Côte d'Azur|55
+Audinghen|50.852|1.613|FR|Hauts-de-France|55
+Austin|41.631|-78.091|US|Pennsylvania|55
+Aubigny|49.902|2.482|FR|Hauts-de-France|55
+Aukštelkai|55.848|23.633|LT|Siauliai|55
+Aurons|43.665|5.157|FR|Provence-Alpes-Côte d'Azur|55
+Auchenblae|56.900|-2.450|GB|Scotland|55
+Aulnay-la-Rivière|48.190|2.367|FR|Centre-Val de Loire|54
+Aumont-en-Halatte|49.233|2.550|FR|Hauts-de-France|54
+Auradé|43.566|1.058|FR|Occitanie|54
+Ausacker|54.733|9.567|DE|Schleswig-Holstein|54
+Aurora|35.305|-76.789|US|North Carolina|54
+Aubas|45.082|1.191|FR|New Aquitaine|54
+Au Train Bay|46.454|-86.846|US|Michigan|54|f
+Au Train Island|46.485|-86.893|US|Michigan|54|f
+Aubenas-Ardèche méridionale|44.539|4.372|FR|Auvergne-Rhône-Alpes|54|f
+Aubøsund|59.253|5.850|NO|Rogaland|54|f
+Aubrey Hills|34.354|-114.153|US|Arizona|54|f
+Auburn Municipal Airport|38.952|-121.083|US|California|54|f
+Auckland International Airport|-37.008|174.792|NZ|Auckland|54|f
+Audubon National Wildlife Refuge|47.585|-101.167|US|North Dakota|54|f
+Audubon Park|29.931|-90.126|US|Louisiana|54|f
+Aughenbaugh Peak|-82.616|-52.816|AQ||54|f
+Auke Lake|58.387|-134.631|US|Alaska|54|f
+Aurdalsegga Ridge|-71.733|12.383|AQ||54|f
+Aurlandsfjorden|61.072|7.019|NO|Vestland|54|f
+Aurnupen Peak|-71.983|-3.367|AQ||54|f
+Aursjoen|61.937|8.274|NO|Innlandet|54|f
+Auschwitz I Concentration Camp|50.027|19.204|PL|Lesser Poland|54|f
+Auschwitz II Birkenau Concentration and Extermination Camp|50.038|19.175|PL|Lesser Poland|54|f
+Auschwitz III Monowitz Concentration Camp|50.029|19.291|PL|Lesser Poland|54|f
+Auster Point|-63.820|-59.463|AQ||54|f
+Austhjelmen Peak|-71.683|26.600|AQ||54|f
+Austhovde Headland|-69.708|37.800|AQ||54|f
+Austin Municipal Airport|43.665|-92.934|US|Minnesota|54|f
+Austin Rocks|-63.452|-61.075|AQ||54|f
+Austnes Peninsula|-66.700|57.283|AQ||54|f
+Australian Centre for the Moving Image|-37.818|144.969|AU|Victoria|54|f
+Austreskorve Glacier|-71.833|5.667|AQ||54|f
+Austvorren Ridge|-73.100|-1.583|AQ||54|f
+Auxerre-Branches|47.850|3.497|FR|Bourgogne-Franche-Comté|54|f
+Aussevielle|43.355|-0.482|FR|New Aquitaine|54
+Auterive|43.583|0.614|FR|Occitanie|54
+Authezat|45.632|3.185|FR|Auvergne-Rhône-Alpes|54
+Au|47.557|13.340|AT|Salzburg|54
+Aubencheul-au-Bac|50.257|3.158|FR|Hauts-de-France|54
+Austinburg|41.772|-80.855|US|Ohio|54
+Audubon|46.863|-95.982|US|Minnesota|54
 Aurahuá|-13.035|-75.570|PE|Huancavelica|54
+Aull|50.386|8.002|DE|Rheinland-Pfalz|54
 Aur|8.150|171.169|MH|Aur Atoll|53
 Aur Atoll|8.187|171.140|MH||53|r
 Aurach am Hongar|47.952|13.673|AT|Upper Austria|53
 Auersbach|47.017|15.867|AT|Styria|51
+Auburn River National Park|-25.720|151.053|AU|Queensland|49|f
+Auchenmalg Bay|54.817|-4.750|GB|Scotland|49|f
+Audna|58.080|7.304|NO|Agder|49|f
+Audubon Mountain|61.471|-146.795|US|Alaska|49|f
+Auerberg|47.733|10.733|DE|Bavaria|49|f
+Aughrusbeg Lough|53.555|-10.175|IE|Connacht|49|f
+Augrabies Falls National Park|-28.585|20.345|ZA|Northern Cape|49|f
+Augustus Island|-15.343|124.538|AU|Western Australia|49|f
+Aulatsiviit|62.717|-69.748|CA|Nunavut|49|f
+Aulattivik|72.401|-79.582|CA|Nunavut|49|f
+Auriol Island|9.649|98.087|MM|Tanintharyi Region|49|f
+Aurora Fossil Museum|35.305|-76.788|US|North Carolina|49|f
+Aurora Glacier|-77.617|167.633|AQ||49|f
+Aurora Peak|-67.383|144.200|AQ||49|f
+Aursunden|62.668|11.645|NO|Trøndelag|49|f
+Auster Glacier|-67.200|50.750|AQ||49|f
+Auster Islands|-67.419|63.826|AQ||49|f
+Austerity Mountain|51.733|-117.919|CA|British Columbia|49|f
+Austin Glacier|-54.067|-37.200|GS||49|f
+Austin Head|-54.514|-36.511|GS||49|f
+Austin Peak|-71.617|165.483|AQ||49|f
+Austpynten|-69.625|38.400|AQ||49|f
 Aurigo|43.983|7.923|IT|Liguria|49
 Auñón|40.518|-2.792|ES|Castille-La Mancha|48
+Auen|49.833|7.600|DE|Rheinland-Pfalz|48
 Autilla del Pino|41.992|-4.634|ES|Castille and León|48
+Auel|50.167|7.767|DE|Rheinland-Pfalz|47
 Aurogna|46.171|9.355|IT|Lombardy|47
 Autillo de Campos|42.087|-4.834|ES|Castille and León|46
 Auditore|43.821|12.572|IT|The Marches|45
+Auufer|53.924|9.683|DE|Schleswig-Holstein|43
+Auburn State Recreation Area|38.916|-121.041|US|California|40|f
+Auchumpkee Creek Covered Bridge|32.756|-84.230|US|Georgia|40|f
+Aucilla Wildlife Management Area|30.188|-83.978|US|Florida|40|f
+Auckland Art Gallery|-36.851|174.766|NZ|Auckland|40|f
+Auckland Island|-50.717|166.133|NZ||40|f
+Audi Dome|48.126|11.525|DE|Bavaria|40|f
+Audi Museum Mobile|48.782|11.414|DE|Bavaria|40|f
+Audra State Park|39.040|-80.065|US|West Virginia|40|f
+Auensee|51.369|12.319|DE|Saxony|40|f
+Auersberg|50.456|12.647|DE|Saxony|40|f
+Auersberg|50.596|10.009|DE|Hesse|40|f
+Aufwuchs Lake|45.216|-110.047|US|Montana|40|f
+Augartenbrücke|48.219|16.370|AT|Vienna|40|f
+Augen Bluffs|-83.500|157.667|AQ||40|f
+Augstbordhorn|46.235|7.795|CH|Valais|40|f
+Augstenberg|47.082|9.610|LI|Triesenberg|40|f
+Augstmatthorn|46.742|7.929|CH|Bern|40|f
+Augusta Bay|78.885|-81.748|CA|Nunavut|40|f
+Augusta Canal|33.502|-81.999|US|Georgia|40|f
+Augusta Lake|46.244|-81.601|CA|Ontario|40|f
+Augustin Peak|62.419|-152.622|US|Alaska|40|f
+Augustus Island|63.584|-67.681|CA|Nunavut|40|f
+Aulitivik Island|69.607|-68.012|CA|Nunavut|40|f
+Aulitiving Island|69.555|-67.547|CA|Nunavut|40|f
+Ault Park|39.136|-84.411|US|Ohio|40|f
+Aurice Lake|48.442|-113.461|US|Montana|40|f
+Aurora Glacier|58.666|-136.703|US|Alaska|40|f
+Aurora Mountain|50.833|-115.552|CA|Alberta|40|f
+Aurora Reservoir|39.611|-104.663|US|Colorado|40|f
+Ausable Chasm Bridge|44.525|-73.463|US|New York|40|f
+Außenalster|53.565|10.009|DE|Hamburg|40|f
+Äusser Rothorn|46.175|7.957|CH|Valais|40|f
+Austdalsvatnet|61.785|7.408|NO|Vestland|40|f
+Austin Bay|68.529|-113.147|CA|Nunavut|40|f
+Austin Bluffs|38.901|-104.800|US|Colorado|40|f
+Austin Creek State Recreation Area|38.567|-123.053|US|California|40|f
+Austin Lake|42.176|-85.551|US|Michigan|40|f
+Austrumdalsvatnet|58.685|6.258|NO|Rogaland|40|f
+Auxiliary Point|36.139|-114.650|US|Nevada|40|f
 Aurano|46.000|8.588|IT|Piedmont|39
 Ausejo de la Sierra|41.895|-2.374|ES|Castille and León|36
 Au Cap|-4.700|55.517|SC||0|r
 Aucallama|-11.558|-77.181|PE|Lima region|0
 Aucara|-14.281|-73.976|PE|Ayacucho|0
 Aucayacu|-8.931|-76.113|PE|Huánuco Department|0
+Auerbach|50.683|12.917|DE|Saxony|0
 Augie|12.890|4.600|NG|Kebbi|0
 Augustinópolis|-5.469|-47.889|BR|Tocantins|0
 Aulesti|43.300|-2.567|ES|Basque Country|0
 Äūlīeköl|52.358|64.134|KZ|Kostanay|0
+Auona|-8.287|123.259|ID|East Nusa Tenggara|0
+Aurach|49.250|10.417|DE|Bavaria|0
 Aurisina Cave|45.754|13.659|IT|Friuli Venezia Giulia|0
 Aurlandsvangen|60.906|7.187|NO|Vestland|0
 Aurora do Tocantins|-12.712|-46.406|BR|Tocantins|0

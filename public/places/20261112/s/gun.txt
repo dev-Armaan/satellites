@@ -14,9 +14,10 @@ Gundlupēt|11.810|76.690|IN|Karnataka|89
 Gunjur|13.202|-16.734|GM|Western|87
 Gunnaur|28.240|78.440|IN|Uttar Pradesh|86
 Günzburg|48.456|10.277|DE|Bavaria|86
+Guna Yala|9.250|-78.250|PA||85|r
 Gunzenhausen|49.117|10.760|DE|Bavaria|84
-Guna Yala|9.250|-78.250|PA||83|r
 Guntur|17.996|79.644|IN|Telangana|82
+Gunnison County Airport|38.534|-106.934|US|Colorado|82|f
 Gundelfingen|48.042|7.866|DE|Baden-Wurttemberg|81
 Guntupalle|16.568|80.548|IN|Andhra Pradesh|81
 Gunnedah|-30.981|150.258|AU|New South Wales|80
@@ -24,6 +25,7 @@ Gunningsville|46.074|-64.773|CA|New Brunswick|80
 Gunbarrel|40.063|-105.171|US|Colorado|79
 Gunong|6.190|100.341|MY|Kedah|79
 Guntramsdorf|48.047|16.314|AT|Lower Austria|79
+Gunung Papandayan|-7.329|107.716|ID|West Java|79|f
 Gundardehi|20.946|81.289|IN|Chhattisgarh|79
 Guntersville|34.358|-86.294|US|Alabama|78
 Gundelfingen|48.553|10.372|DE|Bavaria|78
@@ -35,11 +37,14 @@ Gunglo Zia|6.821|-7.244|CI|Montagnes|76
 Gunnison|38.546|-106.925|US|Colorado|76
 Gun Barrel City|32.335|-96.151|US|Texas|76
 Güneysu|40.981|40.605|TR|Rize Province|76
+Gunnedah Airport|-30.961|150.251|AU|New South Wales|75|f
+Gunung Cereme|-6.893|108.407|ID|West Java|75|f
 Gündoğmuş|36.811|32.000|TR|Antalya|75
 Gundorovskiy|46.780|41.897|RU|Rostov|74
 Gunpuram|18.611|78.194|IN|Telangana|74
 Güngürge|37.215|37.469|TR|Gaziantep|74
 Güntersleben|49.870|9.905|DE|Bavaria|73
+Gunung Telagabodas|-7.208|108.070|ID|West Java|72|f
 Gunnislake|50.524|-4.213|GB|England|72
 Gunskirchen|48.133|13.950|AT|Upper Austria|72
 Gundershoffen|48.906|7.661|FR|Grand Est|71
@@ -47,8 +52,15 @@ Guntersblum|49.797|8.346|DE|Rheinland-Pfalz|71
 Gundelsheim|49.937|10.920|DE|Bavaria|70
 Gunnison|39.155|-111.818|US|Utah|70
 Güneren|36.734|39.089|TR|Şanlıurfa|70
+Gunsan Airport|35.904|126.616|KR|Jeollabuk-do|70|f
+Gunung Kapalatmada|-3.256|126.124|ID|Maluku|70|f
+Gunung Karang|-6.269|106.050|ID|Banten|70|f
+Gunung Kerinci|-1.697|101.264|ID|Jambi|70|f
 Günthersleben-Wechmar|50.894|10.770|DE|Thuringia|70
 Gundsømagle|55.736|12.152|DK|Zealand|69
+Gungmangbong|36.974|128.508|KR|North Chungcheong|69|f
+Gunung Muria|-6.616|110.890|ID|Central Java|69|f
+Gunung Sindoro|-7.301|109.997|ID|Central Java|69|f
 Guntown|34.443|-88.660|US|Mississippi|68
 Gunja|44.888|18.826|HR|Vukovar-Srijem|68
 Gunib|42.387|46.961|RU|Dagestan|68
@@ -58,6 +70,14 @@ Günyazı|36.233|36.117|TR|Hatay|67
 Gunyo Poniente (San José Gunyo)|20.111|-99.839|MX|México|67
 Güneri|37.449|35.771|TR|Adana|66
 Gunzwil|47.211|8.179|CH|Lucerne|66
+Gunong Berumput|1.699|109.670|ID|West Kalimantan|65|f
+Gunong Pueh|1.786|109.683|ID|West Kalimantan|65|f
+Gunung Iya|-8.883|121.633|ID|East Nusa Tenggara|65|f
+Gunung Lawit|1.383|112.917|MY|Sarawak|65|f
+Gunung Merebuk|-8.226|114.652|ID|Bali|65|f
+Gunung Semeru|-8.100|112.917|ID|East Java|65|f
+Gunung Soputanpatepangan|1.115|124.737|ID|North Sulawesi|65|f
+Gunung Ungaran|-7.184|110.348|ID|Central Java|65|f
 Gundagai|-35.064|148.104|AU|New South Wales|65
 Günselsdorf|47.944|16.261|AT|Lower Austria|65
 Gundersheim|49.696|8.203|DE|Rheinland-Pfalz|64
@@ -69,6 +89,10 @@ Gunjur Kuta|13.533|-14.117|GM|Upper River|64
 Günyazı|37.290|44.598|TR|Hakkâri|64
 Günzach|47.825|10.435|DE|Bavaria|64
 Gundremmingen|48.500|10.400|DE|Bavaria|64
+Gunnison Island|41.339|-112.859|US|Utah|63|f
+Gunsight Peak|48.307|-120.994|US|Washington|63|f
+Gunters Mountain|34.566|-86.177|US|Alabama|63|f
+Gunung Curi|-8.506|125.907|TL|Manatuto|63|f
 Gunter|33.448|-96.747|US|Texas|63
 Gündoğan|40.170|27.631|TR|Balıkesir|62
 Gunjur|13.523|-16.028|GM|North Bank|62
@@ -77,12 +101,142 @@ Günindi|40.205|43.258|TR|Kars Province|62
 Gunung Kendil|-7.332|110.404|ID|Central Java|62
 Günthersdorf|51.346|12.172|DE|Saxony-Anhalt|61
 Gundaroo|-35.033|149.250|AU|New South Wales|61
+Gunnarsö|57.250|16.483|SE|Kalmar|61|f
+Günser Gebirge|47.350|16.400|AT||61|f
+Gunstock Mountain|43.526|-71.378|US|New Hampshire|61|f
+Gunung Awu|3.683|125.455|ID|North Sulawesi|61|f
+Gunung Batur|-8.237|115.377|ID|Bali|61|f
+Gunung Binaiya|-3.183|129.433|ID|Maluku|61|f
+Gunung Gamkonora|1.377|127.529|ID|North Maluku|61|f
+Gunung Halimun|-6.830|106.555|ID|West Java|61|f
+Gunung Irau|-0.650|132.895|ID|Southwest Papua|61|f
+Gunung Kelud|-7.935|112.313|ID|East Java|61|f
+Gunung Lawu|-7.628|111.194|ID|Central Java|61|f
+Gunung Leuser|3.741|97.155|ID|Aceh|61|f
+Gunung Magdalene|4.500|117.950|MY|Sabah|61|f
+Gunung Ophir|0.079|99.985|ID|West Sumatra|61|f
+Gunung Patuha|-7.161|107.400|ID|West Java|61|f
+Gunung Salak Satu|-6.716|106.734|ID|West Java|61|f
+Gunung Sekincau|-5.107|104.315|ID|Lampung|61|f
+Gunung Slamet|-7.241|109.214|ID|Central Java|61|f
+Gunung Telomoyo|-7.361|110.400|ID|Central Java|61|f
 Güney|37.497|29.555|TR|Burdur|61
 Gunnebo|57.717|16.533|SE|Kalmar|60
+Gundheim|49.676|8.238|DE|Rheinland-Pfalz|60
+Güntersberge|51.645|10.981|DE|Saxony-Anhalt|60
+Günbaşı|40.842|31.244|TR|Düzce|60
+Gündaş|36.733|38.812|TR|Şanlıurfa|59
+Guney|50.514|114.556|RU|Zabaykalskiy (Transbaikal) Kray|59
+Günlüce|37.127|40.562|TR|Mardin|59
+Gunsbach|48.048|7.176|FR|Grand Est|58
+Günstedt|51.222|11.080|DE|Thuringia|58
 Guntersdorf|48.650|16.050|AT|Lower Austria|58
+Gunjasan|38.091|127.056|KR|Gyeonggi-do|58|f
+Gunlock State Park|37.254|-113.784|US|Utah|58|f
+Gunn Peak|47.816|-121.447|US|Washington|58|f
+Gunung Baluran|-7.846|114.362|ID|East Java|58|f
+Gunung Batin Airport|-4.611|105.232|ID|Lampung|58|f
+Gunung Belumut|2.042|103.561|MY|Johor|58|f
+Gunung Besar|-4.437|103.671|ID|South Sumatra|58|f
+Gunung Bromo|-7.943|112.954|ID|East Java|58|f
+Gunung Butak|-7.955|112.465|ID|East Java|58|f
+Gunung Colo|-0.168|121.605|ID|Central Sulawesi|58|f
+Gunung Empong|1.361|124.778|ID|North Sulawesi|58|f
+Gunung Gede|-6.790|106.985|ID|West Java|58|f
+Gunung Guntur|-7.148|107.840|ID|West Java|58|f
+Gunung Ibu|1.483|127.633|ID|North Maluku|58|f
+Gunung Kemukus|-7.214|110.130|ID|Central Java|58|f
+Gunung Kendang|-7.245|107.709|ID|West Java|58|f
+Gunung Klabat|1.470|125.030|ID|North Sulawesi|58|f
+Gunung Kunyit|-2.273|101.485|ID|Jambi|58|f
+Gunung Lurus|-7.739|113.580|ID|East Java|58|f
+Gunung Merbabu|-7.454|110.439|ID|Central Java|58|f
+Gunung Rajabasa|-5.782|105.626|ID|Lampung|58|f
+Gunung Raung|-8.119|114.057|ID|East Java|58|f
+Gunung Sumbing|-7.382|110.075|ID|Central Java|58|f
+Gunung Sumbing|-2.406|101.723|ID|Jambi|58|f
+Gunung Tigalalu|0.069|127.424|ID|North Maluku|58|f
+Gunung Tujuh|-1.678|101.428|ID|West Sumatra|58|f
+Günzer See|54.367|12.900|DE|Mecklenburg-Vorpommern|58|f
+Güngören|39.588|44.332|TR|Ağrı|58
+Güngeçti|37.904|40.915|TR|Diyarbakır Province|58
+Gun Club Estates|26.675|-80.107|US|Florida|58
 Güney|38.154|29.068|TR|Denizli|58
+Gunstett|48.914|7.763|FR|Grand Est|57
+Güneybahşiş|36.191|32.849|TR|Mersin|57
+Günçalı|36.459|29.876|TR|Antalya|57
+Gunningen|48.050|8.700|DE|Baden-Wurttemberg|57
+Güneysöğüt|36.174|36.112|TR|Hatay|56
+Gunning|-34.783|149.266|AU|New South Wales|56
+Gundolsheim|47.930|7.295|FR|Grand Est|56
+Gunsta|59.850|17.833|SE|Uppsala|56
+Gunyo Oriente|20.117|-99.815|MX|México|56
+Günbuldu|39.487|43.569|TR|Ağrı|55
+Gundersweiler|49.600|7.783|DE|Rheinland-Pfalz|55
+Gunbower|-35.956|144.369|AU|Victoria|55
+Gündoğan|36.877|37.547|TR|Gaziantep|55
+Gun Cay|25.581|-79.299|BS|Bimini|54|f
+Gun Island|-28.887|113.859|AU|Western Australia|54|f
+Gungywamp Hill|41.401|-72.054|US|Connecticut|54|f
+Gunnestad Glacier|-72.050|23.833|AQ||54|f
+Gunsight Mountain|61.844|-147.464|US|Alaska|54|f
+Gunston Cove|38.670|-77.149|US|Virginia|54|f
+Guntersville Lake|34.423|-86.392|US|Alabama|54|f
+Gunung Alab|5.830|116.341|MY|Sabah|54|f
+Gunung Andong|-7.390|110.370|ID|Central Java|54|f
+Gunung Batok|-7.934|112.948|ID|East Java|54|f
+Gunung Dempo|-4.019|103.119|ID|South Sumatra|54|f
+Gunung Dukono|1.700|127.867|ID|North Maluku|54|f
+Gunung Galunggung|-7.265|108.067|ID|West Java|54|f
+Gunung Lambak|2.027|103.357|MY|Johor|54|f
+Gunung Linggo|-8.110|111.598|ID|East Java|54|f
+Gunung Mahawu|1.353|124.863|ID|North Sulawesi|54|f
+Gunung Malabar|-7.130|107.638|ID|West Java|54|f
+Gunung Parang|-6.595|107.346|ID|West Java|54|f
+Gunung Patah|-4.258|103.306|ID|Bengkulu|54|f
+Gunung Pulai|1.602|103.546|MY|Johor|54|f
+Gunung Santubong|1.745|110.337|MY|Sarawak|54|f
+Gunung Singgalang|-0.391|100.331|ID|West Sumatra|54|f
+Gunung Suroloyo|-8.133|111.283|ID|East Java|54|f
+Gunung Tampomas|-6.765|107.960|ID|West Java|54|f
+Gunung Tidar|-7.496|110.218|ID|Central Java|54|f
+Gunung Turgo|-7.583|110.417|ID|Yogyakarta|54|f
+Gunung Wayang|-7.448|107.651|ID|West Java|54|f
+Gündoğdu|38.091|41.801|TR|Siirt|54
 Gündoğdu|40.264|27.093|TR|Canakkale|51
 Gundersdorf|46.950|15.233|AT|Styria|49
+Gundabooka National Park|-30.510|145.717|AU|New South Wales|49|f
+Gundu Island|9.967|76.233|IN|Kerala|49|f
+Gunhouse Hill|42.425|-74.710|US|New York|49|f
+Gunn Peaks|-73.415|-66.582|AQ||49|f
+Gunna|56.567|-6.717|GB|Scotland|49|f
+Gunnamatta Bay|-34.065|151.144|AU|New South Wales|49|f
+Guntersville Dam|34.424|-86.392|US|Alabama|49|f
+Gunung Api|4.055|97.268|ID|Aceh|49|f
+Gunung Jerai|5.788|100.434|MY|Kedah|49|f
+Gunung Kawi|-7.923|112.452|ID|East Java|49|f
+Gunung Leuser National Park|3.789|97.872|ID|North Sumatra|49|f
+Gunung Mulu National Park|4.050|114.933|MY|Sarawak|49|f
+Gunung Perbakti|-6.743|106.698|ID|West Java|49|f
+Gunung Sago|-0.343|100.674|ID|West Sumatra|49|f
+Gunung Sunda|-6.727|107.585|ID|West Java|49|f
+Gunung Tandikat|-0.431|100.320|ID|West Sumatra|49|f
+Gunung Wilis|-7.866|111.803|ID|East Java|49|f
+Gunderath|50.255|6.978|DE|Rheinland-Pfalz|41
+Gun Harbor|43.926|-74.922|US|New York|40|f
+Gun Lake|45.211|-78.828|CA|Ontario|40|f
+Gun Lake|50.876|-122.874|CA|British Columbia|40|f
+Gun Lake|42.602|-85.521|US|Michigan|40|f
+Gunanoot Lake|55.711|-127.133|CA|British Columbia|40|f
+Gundkopf|47.422|10.336|DE|Bavaria|40|f
+Gunn Lake|47.554|-93.535|US|Minnesota|40|f
+Gunners Exchange Pond|41.891|-70.651|US|Massachusetts|40|f
+Gunsight Lake|44.127|-114.608|US|Idaho|40|f
+Gunsight Lake|48.624|-113.719|US|Montana|40|f
+Gunsight Mountain|48.619|-113.753|US|Montana|40|f
+Gunstock Knob|38.548|-81.500|US|West Virginia|40|f
+Gunthorpe Mediumwave Transmitter|52.617|-0.248|GB|England|40|f
+Gunajaya|-7.372|108.276|ID|West Java|0
 Gunbuk|36.331|127.534|KR|North Chungcheong|0
 Gunbuk|36.168|127.527|KR|Chungcheongnam-do|0
 Gündoğdu|41.053|40.607|TR|Rize Province|0
@@ -90,20 +244,68 @@ Gunem|-6.807|111.466|ID|Central Java|0
 Güneşli|38.903|35.627|TR|Kayseri|0
 Güneyce|40.821|40.470|TR|Rize Province|0
 Güneysınır|37.269|32.729|TR|Konya|0
+Gungguh|-7.035|113.560|ID|East Java|0
 Gungo|-11.813|14.149|AO|Kwanza Sul|0
 Gungue|-13.734|15.409|AO|Huíla|0
+Guniushan|28.546|111.261|CN|Hunan|0
 Gunnam|35.240|126.453|KR|Jeollanam-do|0
+Gunong|-6.929|113.781|ID|East Java|0
 Gunseo|36.279|127.527|KR|North Chungcheong|0
 Gunseo|35.259|126.475|KR|Jeollanam-do|0
 Guntín|42.887|-7.693|ES|Galicia|0
+Gunung|-7.015|113.582|ID|East Java|0
 Gunung Sugih|-4.975|105.214|ID|Lampung|0
 Gunung Talang|-0.906|100.627|ID|West Sumatra|0
+Gunung Timur|-6.884|113.891|ID|East Java|0
 Gunung Tua|1.513|99.626|ID|North Sumatra|0
+Gunungaci|-7.103|108.536|ID|West Java|0
+Gunungangka|-7.343|108.164|ID|West Java|0
 Gununganyar|-7.341|112.782|ID|East Java|0
+Gununganyartambak Tengah|-7.338|112.802|ID|East Java|0
+Gunungbatara|-7.319|108.141|ID|West Java|0
+Gunungbatu|-7.334|106.437|ID|West Java|0
+Gunungbatu|-7.410|107.287|ID|West Java|0
+Gunungbatu|-7.312|108.204|ID|West Java|0
+Gunungbatu|-7.252|107.164|ID|West Java|0
 Gunungbatubesar|-2.621|116.293|ID|South Kalimantan|0
+Gunungbitung|-7.315|107.092|ID|West Java|0
+Gunungempuk|-6.911|106.440|ID|West Java|0
+Gununggede|-8.254|112.170|ID|East Java|0
+Gununggoong|-7.676|108.218|ID|West Java|0
+Gunungjaya|-7.183|108.742|ID|Central Java|0
+Gunungjulang|-6.632|106.416|ID|Banten|0
+Gunungkalong|-6.996|106.798|ID|West Java|0
+Gunungkawung|-7.339|108.149|ID|West Java|0
 Gunungkencana|-6.572|106.074|ID|Banten|0
+Gunungkendeng|-6.671|106.055|ID|Banten|0
+Gunungkendeng|-6.679|105.704|ID|Banten|0
+Gunungkoneng|-7.329|108.210|ID|West Java|0
+Gununglaban|-7.589|109.231|ID|Central Java|0
+Gununglajang|-6.947|113.833|ID|East Java|0
+Gununglarang|-7.197|108.831|ID|Central Java|0
 Gununglimbangan|-7.102|107.984|ID|West Java|0
+Gununglincingkrajan|-8.256|113.430|ID|East Java|0
+Gunungmalang Satu|-8.097|113.901|ID|East Java|0
+Gunungmanik|-7.087|108.505|ID|West Java|0
 Gunungmegang Dalam|-3.450|103.870|ID|South Sumatra|0
 Gunungmenang|-3.180|104.033|ID|South Sumatra|0
+Gunungmuncang|-7.351|108.238|ID|West Java|0
+Gunungpapan|-6.883|113.956|ID|East Java|0
+Gunungpeundeuy|-7.323|108.251|ID|West Java|0
+Gunungputri|-6.361|106.094|ID|Banten|0
+Gunungrajak|-8.707|116.463|ID|West Nusa Tenggara|0
+Gunungsari|-6.163|106.061|ID|Banten|0
+Gunungsari|-8.046|112.694|ID|East Java|0
+Gunungsari|-6.307|106.021|ID|Banten|0
+Gunungsari|-6.731|111.234|ID|Central Java|0
+Gunungsari|-8.262|113.566|ID|East Java|0
+Gunungsatria|-7.226|107.906|ID|West Java|0
+Gunungsubang|-7.372|108.195|ID|West Java|0
+Gunungsulah|-7.607|107.652|ID|West Java|0
+Gunungtengah|-6.965|113.552|ID|East Java|0
+Gunungtunggal|-6.919|113.730|ID|East Java|0
+Gunungwaru Satu|-7.241|107.050|ID|West Java|0
+Gunungwilis|-7.420|108.803|ID|Central Java|0
 Gunungwungkal|-6.566|110.989|ID|Central Java|0
 Günyüzü|39.383|31.810|TR|Eskişehir|0
+Gunziying|33.670|113.103|CN|Henan|0

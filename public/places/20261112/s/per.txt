@@ -22,7 +22,9 @@ Perris|33.783|-117.229|US|California|97
 Peruíbe|-24.320|-46.998|BR|São Paulo|97
 Perai|5.383|100.383|MY|Penang|96
 Pervomaysk|48.045|30.848|UA|Mykolaiv|96
+Pergamon Museum|52.521|13.397|DE|State of Berlin|95|f
 Periya Semūr|11.361|77.690|IN|Tamil Nadu|95
+Persepolis|29.935|52.891|IR|Fars|95|f
 Perth Amboy|40.507|-74.265|US|New Jersey|94
 Peranāmpattu|12.934|78.719|IN|Tamil Nadu|94
 Perintalmanna|10.977|76.225|IN|Kerala|94
@@ -37,9 +39,12 @@ Perote|19.562|-97.242|MX|Veracruz|91
 Perunkalattu|12.918|80.082|IN|Tamil Nadu|91
 Peringottupulam|11.027|76.099|IN|Kerala|91
 Perumanna|11.253|75.891|IN|Kerala|91
+Perth Airport|-31.940|115.967|AU|Western Australia|91|f
 Perunād|8.949|76.643|IN|Kerala|91
 Peruvallur|11.105|75.933|IN|Kerala|91
 Périgueux|45.187|0.714|FR|New Aquitaine|91
+Persian Gulf|27.000|51.000|||91|f
+Perpignan-Rivesaltes Airport|42.740|2.871|FR|Occitanie|90|f
 Perry Hall|39.413|-76.464|US|Maryland|89
 Perumbavoor|10.107|76.474|IN|Kerala|89
 Permatang Kuching|5.463|100.381|MY|Penang|89
@@ -112,6 +117,8 @@ Perevoz|55.596|44.545|RU|Nizhny Novgorod Oblast|79
 Pervomayskoye|43.919|46.710|RU|Dagestan|79
 Péronne|49.932|2.936|FR|Hauts-de-France|79
 Perondi|40.779|19.923|AL|Berat County|79
+Perales Airport|4.422|-75.133|CO|Tolima Department|79|f
+Perim|12.657|43.420|YE|Aden|79|f
 Pervomayskoye|42.496|47.896|RU|Dagestan|79
 Pérols|43.565|3.950|FR|Occitanie|79
 Pereiras|-23.076|-47.976|BR|São Paulo|79
@@ -152,6 +159,7 @@ Pervomayskoye|52.599|85.258|RU|Altai Krai|76
 Perumbākkam|13.039|79.813|IN|Tamil Nadu|76
 Périgny|46.154|-1.097|FR|New Aquitaine|76
 Péronnas|46.183|5.211|FR|Auvergne-Rhône-Alpes|76
+Perry Stokes Airport|37.260|-104.340|US|Colorado|76|f
 Pericos|25.081|-107.700|MX|Sinaloa|76
 Perozinho|41.065|-8.585|PT|Porto|76
 Pérola d'Oeste|-25.825|-53.741|BR|Paraná|76
@@ -193,6 +201,9 @@ Pero Pinheiro|38.858|-9.324|PT|Lisbon|74
 Perez|14.195|121.926|PH|Calabarzon|74
 Pernis|51.888|4.389|NL|South Holland|74
 Perry|41.465|-112.032|US|Utah|73
+Perito Moreno Airport|-46.538|-70.979|AR|Santa Cruz|73|f
+Perm International Airport|57.915|56.021|RU|Perm Krai|73|f
+Perry Municipal Airport|41.828|-94.159|US|Iowa|73|f
 Pervoye Maya|50.891|39.593|RU|Voronezh Oblast|73
 Pervomayskoye|60.359|29.742|RU|Leningradskaya Oblast'|73
 Perryville|39.560|-76.071|US|Maryland|73
@@ -209,6 +220,7 @@ Perelëshino|51.738|40.138|RU|Voronezh Oblast|72
 Perişani|45.383|24.400|RO|Vâlcea County|72
 Pertteli|60.433|23.267|FI|Southwest Finland|71
 Perquenco|-38.422|-72.377|CL|Araucania|71
+Perga|36.965|30.855|TR|Antalya|71|f
 Perth|43.018|-74.194|US|New York|71
 Perieţi|44.550|27.217|RO|Ialomița County|71
 Peralta|34.837|-106.691|US|New Mexico|71
@@ -225,6 +237,7 @@ Perelëshinskiy|51.718|40.196|RU|Voronezh Oblast|70
 Perranporth|50.344|-5.156|GB|England|70
 Peremyshl’|54.264|36.160|RU|Kaluga Oblast|70
 Perepravnaya|44.337|40.785|RU|Krasnodar Krai|70
+Perison|54.397|-124.263|CA|British Columbia|70|f
 Peresadivka|47.114|32.191|UA|Mykolaiv|70
 Pervalka|55.415|21.098|LT|Klaipėda County|70
 Perce|48.488|-64.299|CA|Quebec|70
@@ -241,6 +254,9 @@ Perkins|35.974|-97.034|US|Oklahoma|69
 Perk|50.936|4.496|BE|Flanders|69
 Pericei|47.233|22.883|RO|Sălaj County|69
 Pervomayske|47.043|32.440|UA|Mykolaiv|69
+Peraki Bay|-43.867|172.800|NZ||69|f
+Pérez, Cape|-65.404|-64.102|AQ||69|f
+Perugia Sant'Egidio Airport|43.096|12.513|IT|Umbria|69|f
 Persico Dosimo|45.186|10.105|IT|Lombardy|68
 Périers|49.187|-1.408|FR|Normandy|68
 Perwez|50.624|4.814|BE|Wallonia|68
@@ -257,6 +273,8 @@ Perryman|39.470|-76.204|US|Maryland|67
 Pernumia|45.259|11.787|IT|Veneto|67
 Pérignat-lès-Sarliève|45.737|3.140|FR|Auvergne-Rhône-Alpes|67
 Perebykivtsi|48.587|26.138|UA|Chernivtsi|67
+Periyar Tiger Reserve|9.533|77.200|IN|Kerala|67|f
+Perryville Airport|55.909|-159.158|US|Alaska|67|f
 Pervomayskoye|45.112|34.065|UA|Crimea|67
 Percy|48.917|-1.189|FR|Normandy|67
 Pershagen|59.155|17.653|SE|Stockholm|67
@@ -277,6 +295,8 @@ Pertegada|45.722|13.044|IT|Friuli Venezia Giulia|66
 Perches|19.522|-71.923|HT|Nord-Est|66
 Perivólia|34.829|33.583|CY|Larnaka|65
 Perriers-sur-Andelle|49.415|1.371|FR|Normandy|65
+Périgueux - Bassillac Airport|45.197|0.813|FR|New Aquitaine|65|f
+Perlas Islands|8.391|-79.026|PA|Panamá|65|f
 Pérez de Galeana|19.979|-99.141|MX|México|65
 Pérama|39.693|20.847|GR|Epirus|65
 Peregu Mare|46.233|20.900|RO|Arad County|65
@@ -307,6 +327,14 @@ Perrignier|46.306|6.439|FR|Auvergne-Rhône-Alpes|64
 Pericotepec|18.607|-97.631|MX|Puebla|63
 Peru|43.082|-76.408|US|New York|63
 Periyiáli|37.940|22.839|GR|Peloponnese|63
+Per Rock|-71.283|11.433|AQ||63|f
+Peralta Hills|33.832|-117.780|US|California|63|f
+Perham Municipal Airport|46.611|-95.604|US|Minnesota|63|f
+Peril Peak|48.456|-113.590|US|Montana|63|f
+Perito Moreno Glacier|-50.473|-73.048|AR|Santa Cruz|63|f
+Peronne-St Quentin Airport|49.869|3.030|FR|Hauts-de-France|63|f
+Perry Range|-75.000|-134.200|AQ||63|f
+Peru Municipal Airport|40.787|-86.148|US|Indiana|63|f
 Perryville|35.005|-92.803|US|Arkansas|63
 Peramoga|52.397|31.071|BY|Homyel’ Voblasc’|63
 Perkam|48.855|12.440|DE|Bavaria|63
@@ -334,6 +362,16 @@ Perachóra|38.030|22.949|GR|Peloponnese|61
 Peralta|20.474|-101.408|MX|Guanajuato|61
 Perevoloki|53.246|49.179|RU|Samara Oblast|61
 Perișoru|45.113|27.498|RO|Brăila County|61
+Perivólia|34.751|33.359|CY|Larnaka|61|f
+Periyār Lake|9.528|77.205|IN|Kerala|61|f
+Perl Island|59.115|-151.681|US|Alaska|61|f
+Perley Island|59.667|-80.266|CA|Nunavut|61|f
+Perot’s Island|32.260|-64.831|BM|Southampton|61|f
+Perry-Houston County Airport|32.507|-83.770|US|Georgia|61|f
+Persan-Beaumont Airport|49.165|2.312|FR|Île-de-France|61|f
+Pershing Square|34.048|-118.253|US|California|61|f
+Peruća Lake|43.825|16.541|HR|Split-Dalmatia|61|f
+Perućac lake|43.967|19.367|BA||61|f
 Pero|45.706|12.349|IT|Veneto|61
 Perșani|45.782|25.213|RO|Brașov County|61
 Pervomayskiy|55.067|38.665|RU|Moscow Oblast|61
@@ -350,26 +388,139 @@ Perai|13.383|-14.033|GM|Upper River|60
 Perama|39.583|19.912|GR|Ionian Islands|60
 Perštejn|50.382|13.110|CZ|Ústí nad Labem Region|60
 Perales del Puerto|40.156|-6.682|ES|Extremadura|60
+Pernink|50.366|12.784|CZ|Carlsbad Region|60
+Périssac|45.019|-0.324|FR|New Aquitaine|60
+Pergusa|37.524|14.306|IT|Sicily|60
+Pereloty|47.915|29.756|UA|Odesa|59
+Pérouse|47.637|6.892|FR|Bourgogne-Franche-Comté|59
+Perzacco|45.364|11.186|IT|Veneto|59
+Pervomayske|44.539|33.619|UA|Sevastopol City|59
+Persac|46.345|0.706|FR|New Aquitaine|59
+Percy|38.016|-89.619|US|Illinois|59
+Perekhrestia|48.138|22.836|UA|Zakarpattia|59
+Périgné|46.187|-0.255|FR|New Aquitaine|59
+Perekop|46.161|33.693|UA|Crimea|59
+Perry|39.076|-95.393|US|Kansas|59
+Pernay|47.443|0.500|FR|Centre-Val de Loire|59
+Peroj|44.952|13.797|HR|Istria|59
+Pérni|41.001|24.636|GR|East Macedonia and Thrace|59
+Pernek|48.367|17.144|SK|Bratislava Region|59
+Perpezac-le-Noir|45.326|1.552|FR|New Aquitaine|59
+Perry|44.975|-67.076|US|Maine|59
+Péronne-en-Mélantois|50.568|3.169|FR|Hauts-de-France|59
+Peretoky|50.577|24.390|UA|Lviv|59
+Perkins Homes|39.288|-76.597|US|Maryland|59
+Peratáta|38.136|20.564|GR|Ionian Islands|59
 Perdaxius|39.160|8.611|IT|Sardinia|59
+Peru|42.438|-73.046|US|Massachusetts|58
+Perrier|45.546|3.196|FR|Auvergne-Rhône-Alpes|58
+Pervijze|51.073|2.794|BE|Flanders|58
+Péré|7.733|-3.933|CI|Lacs District|58
 Pertlstein|46.941|15.962|AT|Styria|58
+Perch Lake Mountain|42.101|-74.813|US|New York|58|f
+Percival Springs Airport|39.015|-88.539|US|Illinois|58|f
+Perdido Bay|30.345|-87.455|US|Alabama|58|f
+Perdido Key State Park|30.290|-87.472|US|Florida|58|f
+Perlerfiup Kangerlua|71.017|-51.317|GL|Avannaata|58|f
+Perperek|41.683|25.467|BG|Kardzhali|58|f
+Perplex Ridge|-67.645|-67.644|AQ||58|f
+Perrett Island|60.503|-64.798|CA|Nunavut|58|f
+Perry Island|-11.969|143.254|AU|Queensland|58|f
+Perry Island|-17.673|177.108|FJ|Western|58|f
+Perry Lake|39.177|-95.452|US|Kansas|58|f
+Perry-Foley Airport|30.072|-83.574|US|Florida|58|f
+Perthesøya|79.342|20.622|SJ||58|f
+Pertuis d'Antioche|46.083|-1.333|FR|New Aquitaine|58|f
+Pervomayskaya Peak|-71.783|11.667|AQ||58|f
+Perobas|-5.253|-35.395|BR|Rio Grande do Norte|58
+Perrex|46.245|4.977|FR|Auvergne-Rhône-Alpes|58
+Peru|40.474|-95.734|US|Nebraska|58
+Perná|48.852|16.624|CZ|South Moravian|58
+Peremyshel|50.350|26.922|UA|Khmelnytskyi|58
+Pérula|19.590|-105.124|MX|Jalisco|58
+Perișor|47.314|24.227|RO|Bistrița-Năsăud County|58
+Pereima|48.070|29.499|UA|Odesa|58
+Perafort|41.192|1.256|ES|Catalonia|58
+Perevalovka|44.977|34.983|UA|Crimea|58
 Perzów|51.276|17.810|PL|Greater Poland|58
+Peristerá|40.549|23.165|GR|Central Macedonia|58
+Pernarec|49.841|13.101|CZ|Plzeň Region|58
+Perkupa|48.467|20.700|HU|Borsod-Abaúj-Zemplén|58
+Perryville|37.650|-84.952|US|Kentucky|58
 Perušić|44.649|15.383|HR|Lika-Senj|58
+Pérama|39.043|26.505|GR|North Aegean|57
+Perrysville|40.658|-82.312|US|Ohio|57
+Pertisau|47.441|11.692|AT|Tyrol|57
+Perteole|45.852|13.383|IT|Friuli Venezia Giulia|57
 Pertica Bassa|45.753|10.372|IT|Lombardy|57
 Pernegg an der Mur|47.360|15.342|AT|Styria|57
+Perry|39.431|-91.675|US|Missouri|57
 Pereto|42.058|13.102|IT|Abruzzo|57
+Pérdhika|37.692|23.453|GR|Attica|57
+Pero|44.388|8.549|IT|Liguria|57
+Perouládes|39.786|19.673|GR|Ionian Islands|57
+Peralta de Alcofea|41.932|-0.068|ES|Aragon|56
 Pereruela|41.416|-5.878|ES|Castille and León|56
+Peremozhne|48.395|39.387|UA|Luhansk|56
+Pernois|50.053|2.187|FR|Hauts-de-France|56
+Pernant|49.381|3.240|FR|Hauts-de-France|56
+Péran Triovasálos|36.741|24.436|GR|South Aegean|56
+Perlé|49.812|5.766|LU|Redange|56
+Perasdorf|48.950|12.800|DE|Bavaria|56
+Peredove|44.509|33.829|UA|Sevastopol City|56
 Perca|46.793|11.983|IT|Trentino-Alto Adige|56
+Péret|43.575|3.398|FR|Occitanie|56
+Pervomayske|47.993|38.785|UA|Donetsk|56
+Perticara|43.906|12.242|IT|Emilia-Romagna|56
+Perekip|49.882|35.500|UA|Kharkiv|56
+Perthes|48.656|4.823|FR|Grand Est|56
 Perdiguera|41.755|-0.631|ES|Aragon|56
 Perledo|46.015|9.296|IT|Lombardy|56
 Pertica Alta|45.742|10.344|IT|Lombardy|56
+Perdreauville|48.797|1.681|FR|Île-de-France|56
+Pertina|39.516|16.441|IT|Calabria|56
+Perthville|-33.487|149.546|AU|New South Wales|56
+Pereiro da Palhacana|39.043|-9.111|PT|Lisbon|55
+Peremoha|46.190|29.340|UA|Odesa|55
+Perdido Beach|30.341|-87.505|US|Alabama|55
+Perervyntsi|50.005|32.303|UA|Cherkasy|55
 Pergine Valdarno|43.470|11.686|IT|Tuscany|55
+Perast|42.487|18.699|ME|Kotor|55
+Pershe viddilennya Zolotoyi Balky|44.532|33.594|UA|Sevastopol City|55
 Perinaldo|43.867|7.672|IT|Liguria|55
+Perales|22.543|-102.554|MX|Zacatecas|55
 Pertusio|45.356|7.642|IT|Piedmont|54
+Perai Tepuy Airport|4.570|-61.519|VE|Bolívar|54|f
+Peralta Rocks|-63.250|-58.183|AQ||54|f
+Perce Point|-72.117|-74.217|AQ||54|f
+Perchot, Mount|-65.744|-64.162|AQ||54|f
+Pereira / Matecana|4.813|-75.740|CO|Risaralda Department|54|f
+Peremennyy, Cape|-66.200|105.400|AQ||54|f
+Pérez Peak|-65.414|-64.082|AQ||54|f
+Perm-36|58.263|57.430|RU|Perm Krai|54|f
+Peros Banhos|-5.332|71.850|IO||54|f
+Perriertoppen|79.154|16.798|SJ|Svalbard|54|f
+Perris Reservoir|33.857|-117.175|US|California|54|f
+Perris Valley Airport|33.761|-117.218|US|California|54|f
+Perry County Airport|35.595|-87.876|US|Tennessee|54|f
+Perry-Warsaw Airport|42.743|-78.051|US|New York|54|f
+Perry's Victory and International Peace Memorial|41.654|-82.812|US|Ohio|54|f
+Perryville Municipal Airport|37.861|-89.861|US|Missouri|54|f
+Pershing Park|38.897|-77.030|US|District of Columbia|54|f
+Persson Island|-64.200|-58.400|AQ||54|f
+Perth / Scone|56.450|-3.367|GB|Scotland|54|f
+Perumāl Eri|11.586|79.677|IN||54|f
+Perutz Glacier|-67.611|-66.407|AQ||54|f
+Pericotepec|17.956|-100.217|MX|Guerrero|54
+Perrefitte|47.276|7.342|CH|Bern|54
+Pernovo|46.291|15.186|SI|Municipality of Žalec|54
+Pera|46.441|11.693|IT|Trentino-Alto Adige|54
 Perosa Canavese|45.397|7.831|IT|Piedmont|54
 Perito|40.299|15.147|IT|Campania|53
 Perano|42.105|14.396|IT|Abruzzo|53
 Pertosa|40.543|15.450|IT|Campania|53
 Perdifumo|40.267|15.017|IT|Campania|52
+Perscheid|50.067|7.700|DE|Rheinland-Pfalz|52
 Perwang am Grabensee|48.007|13.083|AT|Upper Austria|52
 Peraleda de San Román|39.741|-5.387|ES|Extremadura|51
 Pernersdorf|48.700|16.017|AT|Lower Austria|51
@@ -378,6 +529,25 @@ Peranzanes|42.877|-6.634|ES|Castille and León|50
 Pertengo|45.236|8.417|IT|Piedmont|50
 Perchau am Sattel|47.100|14.450|AT|Styria|50
 Perales del Alfambra|40.634|-1.002|ES|Aragon|50
+Perak Island|5.684|98.938|MY|Kedah|49|f
+Peralada Castle|42.308|3.011|ES|Catalonia|49|f
+Perch Island|-66.009|-65.356|AQ||49|f
+Percival Lakes|-21.580|124.160|AU|Western Australia|49|f
+Peregrinus Peak|-69.127|-65.884|AQ||49|f
+Perez, Mount|-70.000|159.533|AQ||49|f
+Perico Island|27.496|-82.677|US|Florida|49|f
+Perk Summit|-77.583|162.900|AQ||49|f
+Perkins Stadium|42.847|-88.745|US|Wisconsin|49|f
+Perlach Tower|48.369|10.898|DE|Bavaria|49|f
+Peron Islands|-13.193|130.071|AU|Northern Territory|49|f
+Perry County Municipal Airport|38.014|-86.688|US|Indiana|49|f
+Perry Island|60.700|-147.921|US|Alaska|49|f
+Perry Park|-33.907|151.201|AU|New South Wales|49|f
+Perseus Peak|-79.617|157.333|AQ||49|f
+Perseverance Harbour|-52.553|169.208|NZ|Southland|49|f
+Person County Airport|36.287|-78.985|US|North Carolina|49|f
+Perunika Glacier|-62.607|-60.309|AQ||49|f
+Peruvesi|61.475|26.548|FI|South Savo|49|f
 Percile|42.095|12.910|IT|Lazio|49
 Perrero|44.938|7.113|IT|Piedmont|48
 Perales|7.777|-80.321|PA|Los Santos Province|47
@@ -393,6 +563,39 @@ Pertusa|42.002|-0.127|ES|Aragon|42
 Peracense|40.641|-1.471|ES|Aragon|41
 Perales|42.194|-4.581|ES|Castille and León|40
 Peralveche|40.611|-2.450|ES|Castille-La Mancha|40
+Perc Welcome Stadium|39.737|-84.198|US|Ohio|40|f
+Perch Lake|53.200|-107.351|CA|Saskatchewan|40|f
+Perch Lake|44.096|-75.934|US|New York|40|f
+Percha Diversion Dam|32.868|-107.301|US|New Mexico|40|f
+Percy Lake|45.209|-78.351|CA|Ontario|40|f
+Pere Gabriel Richard Elementary School Historical Marker|42.395|-82.905|US|Michigan|40|f
+Pere Marquette State Park|38.999|-90.526|US|Illinois|40|f
+Perelik Point|-62.376|-59.362|AQ||40|f
+Peretz Square|40.722|-73.987|US|New York|40|f
+Perez Glacier|-84.100|177.000|AQ||40|f
+Perkerson Park|33.711|-84.413|US|Georgia|40|f
+Perkins Glacier|-74.900|-136.617|AQ||40|f
+Perkins Lake|43.929|-114.841|US|Idaho|40|f
+Perkins Lake|43.826|-124.149|US|Oregon|40|f
+Perkins Pond|42.069|-75.237|US|New York|40|f
+Perkiomen Bridge|40.184|-75.448|US|Pennsylvania|40|f
+Perkiomen Valley Airport|40.204|-75.427|US|Pennsylvania|40|f
+Permanente Quarry|37.319|-122.111|US|California|40|f
+Permian Basin Petroleum Museum|31.970|-102.087|US|Texas|40|f
+Pernštejn Castle|49.451|16.318|CZ|South Moravian|40|f
+Perrine's Bridge|41.817|-74.055|US|New York|40|f
+Perrot State Park|44.018|-91.466|US|Wisconsin|40|f
+Perry Island|45.033|-79.416|CA|Ontario|40|f
+Perry Lake|44.796|-63.621|CA|Nova Scotia|40|f
+Perry Lake|46.614|-93.956|US|Minnesota|40|f
+Perry Municipal Airport|36.384|-97.279|US|Oklahoma|40|f
+Perry Square|42.129|-80.085|US|Pennsylvania|40|f
+Perseverance|46.437|-112.249|US|Montana|40|f
+Perseverance Mountain|53.433|-119.769|CA|Alberta|40|f
+Pershing Field|40.743|-74.053|US|New Jersey|40|f
+Pershing State Park|39.767|-93.217|US|Missouri|40|f
+Persmuseum|52.369|4.940|NL|North Holland|40|f
+Perth Zoo|-31.977|115.855|AU|Western Australia|40|f
 Perarolo di Cadore|46.394|12.356|IT|Veneto|40
 Peralejos|40.484|-1.034|ES|Aragon|39
 Perloz|45.614|7.808|IT|Aosta Valley|38
@@ -401,11 +604,28 @@ Peralejos de Arriba|41.004|-6.334|ES|Castille and León|36
 Perosillo|41.393|-4.141|ES|Castille and León|28
 Peralada|42.308|3.009|ES|Catalonia|0
 Peranap|-0.545|101.984|ID|Riau|0
+Perante Tengah|-7.759|114.220|ID|East Java|0
+Perante Utara|-7.755|114.217|ID|East Java|0
+Perdana|-6.528|105.840|ID|Banten|0
 Pererisl|48.696|24.636|UA|Ivano-Frankivsk|0
+Peresak Barat|-8.658|116.552|ID|West Nusa Tenggara|0
+Pergan|-8.427|115.195|ID|Bali|0
+Perian Selatan|-8.564|116.393|ID|West Nusa Tenggara|0
+Pericik|-6.923|112.052|ID|East Java|0
+Pering|-8.323|120.396|ID|East Nusa Tenggara|0
+Perintis|-6.528|105.803|ID|Banten|0
+Perjuangan|-8.138|113.182|ID|East Java|0
+Perl|49.472|6.381|DE|Saarland|0
 Perlejewo|52.567|22.565|PL|Podlasie|0
+Permanu|-8.064|112.579|ID|East Java|0
+Permas|-8.738|116.208|ID|West Nusa Tenggara|0
 Përparim|41.050|19.799|AL|Elbasan County|0
 Perranarworthal|50.206|-5.120|GB|England|0
+Perreng|-6.876|113.969|ID|East Java|0
 Perşembe|41.419|32.160|TR|Zonguldak Province|0
+Persen|-8.531|114.325|ID|East Java|0
 Pertenhall|52.279|-0.414|GB|England|0
 Perucho|0.110|-78.424|EC|Pichincha|0
+Perum|-7.170|107.897|ID|West Java|0
+Perumahan Kopi|-6.677|105.961|ID|Banten|0
 Pervomayskiy|51.905|51.646|RU|Orenburg Oblast|0

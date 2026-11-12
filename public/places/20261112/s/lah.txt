@@ -12,6 +12,7 @@ Lāharpur|27.708|80.903|IN|Uttar Pradesh|95
 Lahbab|25.038|55.591|AE|Dubai|94
 Lahr|48.340|7.869|DE|Baden-Wurttemberg|94
 Lahār|26.194|78.941|IN|Madhya Pradesh|91
+Lahore International Airport|31.522|74.404|PK|Punjab|90|f
 Lahat|4.539|101.037|MY|Perak|90
 Lahewa|1.394|97.168|ID|North Sumatra|88
 Laḩij|13.057|44.882|YE|Laḩij|87
@@ -20,6 +21,7 @@ La Homa|26.250|-98.364|US|Texas|82
 Lahaina|20.875|-156.680|US|Hawaii|81
 Lāhauran Bara|30.397|76.156|IN|Punjab|80
 La Huacana|18.962|-101.808|MX|Michoacán|79
+Lahad Datu Airport|5.032|118.324|MY|Sabah|79|f
 La Huaca|-4.912|-80.960|PE|Piura|79
 La Huerta|19.484|-104.642|MX|Jalisco|78
 La Hulpe|50.731|4.486|BE|Wallonia|77
@@ -44,6 +46,7 @@ La Haye-du-Puits|49.290|-1.543|FR|Normandy|65
 La Houssaye-en-Brie|48.754|2.866|FR|Île-de-France|64
 La Haye-Malherbe|49.226|1.068|FR|Normandy|64
 La Horqueta (Poblado Doce)|17.210|-94.202|MX|Veracruz|63
+Láhppi|70.359|21.414|NO|Finnmark|63|f
 La Humedad|16.582|-97.667|MX|Oaxaca|63
 La Haye-Pesnel|48.796|-1.397|FR|Normandy|63
 La Higuerita (Colonia San Rafael)|19.619|-102.484|MX|Michoacán|63
@@ -53,10 +56,67 @@ La Huerta|32.443|-104.221|US|New Mexico|62
 La Huánica|19.457|-99.503|MX|México|62
 La Higuera|19.423|-103.409|MX|Jalisco|62
 La Harpe|40.583|-90.969|US|Illinois|62
+La Hougue Bie|49.200|-2.067|JE||61|f
 La Higuerilla (Los Lirios)|19.922|-100.276|MX|Michoacán|61
 Lahora|8.477|-4.755|CI|Vallée du Bandama District|61
 La Herradura|19.040|-99.585|MX|México|60
 Lahavot H̱aviva|32.395|35.009|IL|Haifa|60
+La Humada|-36.349|-68.014|AR|La Pampa|60
+La Higuerita|21.899|-105.543|MX|Nayarit|59
+La Hulería|17.994|-91.387|MX|Tabasco|59
+La Honda|37.319|-122.274|US|California|59
+Lahavot HaBashan|33.141|35.647|IL|Northern District|59
+La Huerta|18.257|-98.012|MX|Puebla|59
+La Huerta|20.822|-100.830|MX|Guanajuato|59
+Lahn|52.817|7.617|DE|Lower Saxony|59
+La Hincada|22.659|-100.107|MX|San Luis Potosí|59
+La Horca|-4.779|-80.593|PE|Piura|58
+La Huaracha|19.954|-99.685|MX|México|58|f
+Lahontan Mountains|39.406|-118.584|US|Nevada|58|f
+Lahij|40.846|48.382|AZ|Ismayilli District|58
+La Huerta|21.424|-101.192|MX|Guanajuato|58
+La Hacienda|32.206|-107.725|US|New Mexico|57
+Lahourcade|43.354|-0.617|FR|New Aquitaine|57
+La Huaca|-11.527|-77.199|PE|Lima region|57
+Lahošť|50.618|13.765|CZ|Ústí nad Labem Region|57
+La Huerta|20.481|-100.932|MX|Guanajuato|57
+La Horcajada|40.437|-5.466|ES|Castille and León|57
+Lahrom-e Talūk|36.465|52.920|IR|Māzandarān|56
+La Houssoye|49.355|1.943|FR|Hauts-de-France|56
+Lahoma|36.388|-98.090|US|Oklahoma|56
+La Hacienda|15.650|-92.282|MX|Chiapas|56
+La Haciendita|19.574|-96.905|MX|Veracruz|56
+La Houssière|48.195|6.853|FR|Grand Est|56
+La Heredad|20.513|-99.231|MX|Hidalgo|56
+La Haute-Chapelle|48.605|-0.670|FR|Normandy|56
+La Hoguette|48.876|-0.162|FR|Normandy|56
+La Haciendita|21.619|-101.429|MX|Guanajuato|56
+La Huapilla|20.422|-99.373|MX|Hidalgo|55
+La Huerta|19.868|-100.281|MX|Michoacán|55
+La Huerta|19.099|-101.513|MX|Michoacán|55
+La Huerta|20.982|-100.404|MX|Guanajuato|55
+La Harpe|37.917|-95.299|US|Kansas|55
+La Huerta|19.915|-100.029|MX|México|55
+La Huerta|20.196|-100.403|MX|Guanajuato|55
+La Higuera|24.591|-107.182|MX|Sinaloa|55
+La Huerta|19.099|-102.287|MX|Michoacán|54
+La Herradura|19.416|-99.478|MX|México|54
+La Hiedra|19.482|-99.332|MX|México|54
+Lahille Island|-65.544|-64.368|AQ||54|f
+Lahontan Dam|39.463|-119.068|US|Nevada|54|f
+La Houssaye-Béranger|49.633|1.083|FR|Normandy|54
+Lahrndorf|47.995|14.380|AT|Upper Austria|54
 Lahuaytambo|-12.100|-76.400|PE|Lima region|52
+Lahi|62.945|27.480|FI|North Savo|49|f
+Lahnavesi|61.480|26.676|FI|South Savo|49|f
+Lahore City|31.495|74.346|PK|Punjab|49|f
+Lahr|50.125|7.365|DE|Rheinland-Pfalz|45
+Lahr|49.944|6.291|DE|Rheinland-Pfalz|45
+La Hune Bay|47.600|-56.865|CA|Newfoundland and Labrador|40|f
+Lahemaa National Park|59.546|25.805|EE|Harjumaa|40|f
+Lahontan Reservoir|39.350|-119.127|US|Nevada|40|f
 La Hormiga|0.426|-76.906|CO|Putumayo Department|0
 Lahan Sai|14.411|102.859|TH|Buriram|0
+Lahar|-6.645|110.993|ID|Central Java|0
+Lahayong|-8.342|122.984|ID|East Nusa Tenggara|0
+Lahihagalang|-9.722|119.453|ID|East Nusa Tenggara|0

@@ -35,11 +35,14 @@ Kletnya|53.390|33.217|RU|Bryansk Oblast|83
 Kleinblittersdorf|49.158|7.037|DE|Saarland|82
 Kłobuck|50.901|18.937|PL|Silesia|82
 Kleefeld|52.374|9.791|DE|Lower Saxony|82
+Klovningen|79.867|11.500|SJ||82|f
 Klazienaveen|52.724|6.990|NL|Drenthe|82
+Klein Matterhorn|45.938|7.730|CH|Valais|81|f
 Kletsk|53.064|26.639|BY|Minsk|81
 Kleinzschocher|51.316|12.320|DE|Saxony|81
 Klarenthal|50.088|8.202|DE|Hesse|81
 Klahanie|47.571|-122.008|US|Washington|81
+Klyuchevskaya Sopka|56.056|160.644|RU|Kamchatka|80|f
 Kleppe|58.774|5.629|NO|Rogaland|80
 Klyuchi|56.320|160.845|RU|Kamchatka|80
 Klapmuts|-33.811|18.864|ZA|Western Cape|79
@@ -55,6 +58,8 @@ Klawer|-31.776|18.625|ZA|Western Cape|77
 Kleczków|51.128|17.028|PL|Lower Silesia|77
 Kličaŭ|53.492|29.336|BY|Mogilev|77
 Ključ|44.533|16.777|BA|Federation of B&H|77
+Klawock Airport|55.579|-133.077|US|Alaska|77|f
+Klínovec|50.396|12.968|CZ|Carlsbad Region|77|f
 Kladanj|44.227|18.693|BA|Federation of B&H|77
 Kłodawa|52.254|18.914|PL|Greater Poland|77
 Klein Schwülper|52.342|10.429|DE|Lower Saxony|76
@@ -73,7 +78,9 @@ Klarup|57.012|10.056|DK|North Denmark|75
 Klundert|51.665|4.535|NL|North Brabant|75
 Klötze|52.628|11.167|DE|Saxony-Anhalt|75
 Kletskaya|49.314|43.063|RU|Volgograd Oblast|75
+Klistervatnet|69.563|30.173|NO||74|f
 Klaksvík|62.227|-6.589|FO|Norðoyar|74
+Kleť|48.865|14.283|CZ|South Bohemian Region|73|f
 Klavdiievo-Tarasove|50.584|30.011|UA|Kyiv Oblast|73
 Klesiv|51.315|26.895|UA|Rivne Oblast|73
 Klimkovice|49.788|18.126|CZ|Moravian-Silesian Region|73
@@ -83,6 +90,7 @@ Klecany|50.176|14.411|CZ|Central Bohemia|72
 Klein-Gerau|49.920|8.522|DE|Hesse|72
 Klembivka|48.387|28.410|UA|Vinnytsia|71
 Klenje|44.808|19.435|RS|Central Serbia|71
+Klinckowströmfjorden|79.733|12.267|SJ||71|f
 Klipplaat|-33.019|24.341|ZA|Eastern Cape|71
 Kłaj|49.992|20.299|PL|Lesser Poland|71
 Klis|43.559|16.519|HR|Split-Dalmatia|71
@@ -94,6 +102,8 @@ Klenak|44.788|19.710|RS|Vojvodina|71
 Kloštar Ivanić|45.741|16.424|HR|Zagreb County|70
 Klos|40.946|20.010|AL|Elbasan County|70
 Klütz|53.965|11.164|DE|Mecklenburg-Vorpommern|70
+Kleiner Arber|49.113|13.110|DE|Bavaria|70|f
+Klókova|38.360|21.682|GR|West Greece|70|f
 Klenovec|48.596|19.891|SK|Banská Bystrica Region|70
 Klaus|47.309|9.647|AT|Vorarlberg|70
 Klingnau|47.584|8.249|CH|Aargau|70
@@ -104,6 +114,8 @@ Klostermansfeld|51.583|11.500|DE|Saxony-Anhalt|69
 Kłomnice|50.922|19.357|PL|Silesia|69
 Klipheuwel|-33.701|18.699|ZA|Western Cape|69
 Klapleu|7.569|-7.756|CI|Montagnes|69
+Klagenfurt Airport|46.645|14.327|AT|Carinthia|69|f
+Klin|49.199|19.820|PL|Lesser Poland|69|f
 Klein Offenseth-Sparrieshoop|53.797|9.687|DE|Schleswig-Holstein|69
 Kłecko|52.632|17.431|PL|Greater Poland|68
 Kliucharky|48.419|22.643|UA|Zakarpattia|68
@@ -117,6 +129,7 @@ Klosterlechfeld|48.156|10.830|DE|Bavaria|67
 Klek|45.423|20.480|RS|Vojvodina|67
 Kloppenheim|50.094|8.305|DE|Hesse|67
 Klokočov|48.814|22.030|SK|Košice Region|67
+Klang Gates Dam|3.233|101.750|MY|Selangor|67|f
 Klenovyi|48.119|39.459|UA|Luhansk|67
 Klecza Dolna|49.883|19.538|PL|Lesser Poland|67
 Kleinrinderfeld|49.700|9.845|DE|Bavaria|66
@@ -132,6 +145,8 @@ Klågerup|55.594|13.246|SE|Skåne|66
 Klémékro|7.759|-5.296|CI|Vallée du Bandama District|66
 Kliachanovo|48.466|22.669|UA|Zakarpattia|66
 Klyachanovo|48.475|22.500|UA|Zakarpattia|66
+Klang Island|3.016|101.309|MY||65|f
+Klobučar|43.742|15.384|HR|Šibenik-Knin|65|f
 Kleinkahl|50.107|9.279|DE|Bavaria|65
 Kleinedling|46.814|14.828|AT|Carinthia|65
 Kluszkowce|49.451|20.302|PL|Lesser Poland|65
@@ -155,6 +170,11 @@ Klein Rönnau|53.963|10.323|DE|Schleswig-Holstein|63
 Klintehamn|57.387|18.204|SE|Gotland|63
 Klisura|42.693|24.450|BG|Plovdiv|63
 Klikuszowa|49.519|19.985|PL|Lesser Poland|63
+Klamath Falls Airport|42.163|-121.743|US|Oregon|63|f
+Klee Passage|5.956|172.130|MH|Mili Atoll|63|f
+Kleine Scheidegg|46.585|7.961|CH|Bern|63|f
+Kleiner Wilder|47.363|10.386|DE|Bavaria|63|f
+Klooga Concentration Camp|59.321|24.231|EE|Harjumaa|63|f
 Kluse|52.936|7.341|DE|Lower Saxony|63
 Klevan|50.749|26.013|UA|Rivne Oblast|63
 Kleinaitingen|48.218|10.869|DE|Bavaria|63
@@ -184,6 +204,15 @@ Kleinbettingen|49.646|5.916|LU|Capellen|61
 Klink|53.478|12.621|DE|Mecklenburg-Vorpommern|61
 Klana|45.447|14.377|HR|Primorje-Gorski Kotar|61
 Kľušov|49.245|21.259|SK|Prešov Region|61
+Klaipėda Airport|55.711|21.242|LT|Klaipėda County|61|f
+Kleine Werder|54.437|12.978|DE|Mecklenburg-Vorpommern|61|f
+Kleiner Falkenstein|49.089|13.273|DE|Bavaria|61|f
+Kleiner Rachel|48.984|13.380|DE|Bavaria|61|f
+Klevekåpa Mountain|-72.017|7.617|AQ||61|f
+Klínovec|50.400|12.950|CZ|Carlsbad Region|61|f
+Klödenøya|78.991|21.562|SJ||61|f
+Klondike Peak|43.236|-109.688|US|Wyoming|61|f
+Klosterøy|59.104|5.581|NO|Rogaland|61|f
 Klieken|51.888|12.371|DE|Saxony-Anhalt|61
 Klüsserath|49.845|6.851|DE|Rheinland-Pfalz|61
 Kleinandelfingen|47.601|8.684|CH|Zurich|61
@@ -194,36 +223,325 @@ Kleine-Spouwen|50.838|5.550|BE|Flanders|60
 Klein Sankt Paul|46.836|14.541|AT|Carinthia|60
 Klimankro Ndénou|7.507|-4.567|CI|Lacs District|60
 Klobuky|50.294|13.987|CZ|Central Bohemia|60
+Kleinaga|50.960|12.092|DE|Thuringia|60
 Klein-Pöchlarn|48.217|15.217|AT|Lower Austria|60
+Kleinpaschleben|51.784|11.885|DE|Saxony-Anhalt|60
+Klixbüll|54.803|8.896|DE|Schleswig-Holstein|60
+Klooga|59.320|24.211|EE|Harjumaa|60
+Klanxbüll|54.864|8.677|DE|Schleswig-Holstein|60
+Klishchyntsi|49.432|32.629|UA|Cherkasy|60
+Klouvás|37.453|25.349|GR|South Aegean|60
 Klonowa|51.419|18.418|PL|Łódź Voivodeship|60
+Klokočevac|45.911|16.774|HR|Bjelovar-Bilogora|59
+Klyonovka|45.124|34.195|UA|Crimea|59
 Klenovnik|46.270|16.070|HR|Varaždin|59
+Kleinniedesheim|49.587|8.322|DE|Rheinland-Pfalz|59
+Klymivka|49.321|35.125|UA|Poltava|59
 Klembów|52.407|21.332|PL|Mazovia|59
+Kly|50.309|14.501|CZ|Central Bohemia|59
+Klein Belitz|53.938|11.966|DE|Mecklenburg-Vorpommern|59
+Klášterec nad Orlicí|50.112|16.554|CZ|Pardubice Region|59
 Klein-Neusiedl|48.094|16.607|AT|Lower Austria|59
+Klein Bünzow|53.927|13.626|DE|Mecklenburg-Vorpommern|59
+Kleinkarlbach|49.539|8.150|DE|Rheinland-Pfalz|59
+Klimentovo|43.367|25.600|BG|Veliko Tarnovo|59
+Kladje|45.779|15.732|HR|Zagreb County|59
 Kłoczew|51.721|21.965|PL|Lublin|59
+Klein Meckelsen|53.305|9.451|DE|Lower Saxony|59
+Kleinsteinhausen|49.200|7.467|DE|Rheinland-Pfalz|59
+Kling|5.938|124.725|PH|Soccsksargen|59
+Klomikro|7.199|-4.464|CI|Lacs District|59
+Kleinwolkersdorf|47.749|16.250|AT|Lower Austria|58
+Klenovice na Hané|49.403|17.211|CZ|Olomouc Region|58
+Klučov|50.095|14.910|CZ|Central Bohemia|58
+Klein Trebbow|53.711|11.372|DE|Mecklenburg-Vorpommern|58
+Kluczewsko|50.928|19.919|PL|Świętokrzyskie|58
+Klepachi|50.075|32.969|UA|Poltava|58
+Klein Curaçao|11.991|-68.643|CW||58|f
+Klein See|47.150|10.817|AT|Tyrol|58|f
+Kleiner Daumen|47.447|10.386|DE|Bavaria|58|f
+Kleiner Feldberg|50.222|8.447|DE|Hesse|58|f
+Klek|44.422|18.191|BA|Federation of B&H|58|f
+Klemmingen|59.117|17.250|SE|Södermanland|58|f
+Klevekampen Mountain|-71.950|7.667|AQ||58|f
+Klinghardtberge|-27.333|15.750|NA|Karas Region|58|f
+Klinje|43.173|18.588|BA|Srpska|58|f
+Klippeneck|48.105|8.755|DE|Baden-Wurttemberg|58|f
+Kloochman Rock|47.669|-123.969|US|Washington|58|f
 Kluki|51.342|19.239|PL|Łódź Voivodeship|58
+Kleingaisfeld|47.025|15.210|AT|Styria|58
 Kleinarl|47.277|13.320|AT|Salzburg|58
+Klosterhäseler|51.164|11.612|DE|Saxony-Anhalt|58
+Klein Vielen|53.452|13.028|DE|Mecklenburg-Vorpommern|58
+Kleszczów|50.348|18.527|PL|Silesia|58
+Klamath|41.527|-124.038|US|California|58
+Klénia|37.788|22.862|GR|Peloponnese|58
+Ključ|46.169|16.359|HR|Varaždin|58
+Klein Wesenberg|53.813|10.551|DE|Schleswig-Holstein|58
+Klamp|54.282|10.548|DE|Schleswig-Holstein|58
+Kläden|52.633|11.660|DE|Saxony-Anhalt|58
+Klawock|55.552|-133.096|US|Alaska|58
+Klingelbach|50.276|7.970|DE|Rheinland-Pfalz|58
+Kleinreifling|47.817|14.633|AT|Upper Austria|58
+Kleinstübing|47.183|15.317|AT|Styria|58
+Klein Kussewitz|54.134|12.243|DE|Mecklenburg-Vorpommern|58
+Kleinsemmering|47.190|15.575|AT|Styria|58
+Klein Ammensleben|52.218|11.520|DE|Saxony-Anhalt|58
+Kleinich|49.900|7.183|DE|Rheinland-Pfalz|57
+Klokovec|46.087|15.831|HR|Krapina-Zagorje|57
+Klobli|6.502|-8.497|CI|Montagnes|57
+Klecza Górna|49.864|19.557|PL|Lesser Poland|57
+Klenivka|47.762|38.232|UA|Donetsk|57
 Kloulklubed|7.042|134.256|PW|Peleliu|57
+Klyuchi|53.598|42.897|RU|Penza Oblast|57
+Klijndijk|52.832|6.860|NL|Drenthe|57
+Kleinau|52.800|11.512|DE|Saxony-Anhalt|56
+Klausdorf|54.404|13.013|DE|Mecklenburg-Vorpommern|56
+Klášter Hradiště nad Jizerou|50.523|14.945|CZ|Central Bohemia|56
+Kluizen|51.158|3.732|BE|Flanders|56
+Klotou|4.551|-7.186|CI|Bas-Sassandra District|56
+Kleinmühlingen|51.947|11.745|DE|Saxony-Anhalt|56
+Klöden|51.762|12.832|DE|Saxony-Anhalt|56
+Klein Pampau|53.512|10.589|DE|Schleswig-Holstein|56
+Klimovo|45.496|34.475|UA|Crimea|56
+Kleve (Steinburg)|53.965|9.407|DE|Schleswig-Holstein|56
+Kliening|46.950|14.767|AT|Carinthia|56
+Klokkarvik|60.225|5.151|NO|Vestland|56
+Kläppa|57.360|12.158|SE|Halland|56
 Kleinzell|47.980|15.736|AT|Lower Austria|56
+Kladruby nad Labem|50.058|15.487|CZ|Pardubice Region|56
+Klein-Engersdorf|48.333|16.383|AT|Lower Austria|56
+Klukowo|52.777|22.507|PL|Podlasie|56
+Klemensker|55.173|14.810|DK|Capital Region|56
+Klempau|53.763|10.661|DE|Schleswig-Holstein|56
+Kloster|56.125|8.177|DK|Central Jutland|56
+Klein Gladebrügge|53.918|10.321|DE|Schleswig-Holstein|56
+Klein Rodensleben|52.116|11.439|DE|Saxony-Anhalt|56
+Klepachi|49.871|33.307|UA|Poltava|56
 Klösterle|47.133|10.083|AT|Vorarlberg|56
+Klopina|49.819|17.019|CZ|Olomouc Region|55
+Klobikau|51.350|11.833|DE|Saxony-Anhalt|55
+Kledering|48.133|16.437|AT|Lower Austria|55
+Klein Bennebek|54.401|9.450|DE|Schleswig-Holstein|55
+Kleinreith|47.941|13.795|AT|Upper Austria|55
 Kleszczewo|52.334|17.172|PL|Greater Poland|55
+Kloosterburen|53.387|6.392|NL|Groningen|55
+Klečevce|42.116|21.854|MK|Kumanovo|55
+Kliusivka|49.340|34.364|UA|Poltava|55
+Klövedal|58.033|11.583|SE|Västra Götaland|55
+Klarenbeek|52.167|6.063|NL|Gelderland|55
 Kleinsölk|47.394|13.939|AT|Styria|55
+Klagstorp|55.393|13.375|SE|Skåne|55
+Kleinraming|48.000|14.483|AT|Upper Austria|55
+Ključ Brdovečki|45.883|15.692|HR|Zagreb County|55
+Klingsta|62.327|17.218|SE|Västernorrland|55
+Klein-Gelmen|50.771|5.276|BE|Flanders|55
+Klinkrade|53.716|10.551|DE|Schleswig-Holstein|55
+Klubina|49.354|18.894|SK|Žilina Region|55
+Klapý|50.431|14.006|CZ|Ústí nad Labem Region|54
+Kłobuczyn|51.616|15.931|PL|Lower Silesia|54
 Klwów|51.534|20.636|PL|Mazovia|54
+Kloster Neuendorf|52.526|11.462|DE|Saxony-Anhalt|54
+Kliushnykivka|50.132|33.429|UA|Poltava|54
+Klakknabben Peak|-73.950|-5.783|AQ||54|f
+Klamath Marsh National Wildlife Refuge|42.935|-121.670|US|Oregon|54|f
+Klammspitz|47.582|10.910|DE|Bavaria|54|f
+Klawock Seaplane Base|55.556|-133.102|US|Alaska|54|f
+Kleifarvatn|63.926|-21.979|IS|Southern Peninsula|54|f
+Klein Bonaire|12.159|-68.308|BQ|Bonaire|54|f
+Kleiner Gleichberg|50.411|10.593|DE|Thuringia|54|f
+Kleiner Pälitzsee|53.194|12.934|DE||54|f
+Kleiner Plöner See|54.160|10.392|DE|Schleswig-Holstein|54|f
+Kleiner Solstein|47.300|11.317|AT|Tyrol|54|f
+Kleiner Wangnitzsee|53.250|13.050|DE|Mecklenburg-Vorpommern|54|f
+Kleines Berlin|45.656|13.778|IT|Friuli Venezia Giulia|54|f
+Kleines Fiescherhorn|46.556|8.076|CH|Valais|54|f
+Kleinhockenhorn|46.426|7.741|CH|Valais|54|f
+Klekkende Høj|54.936|12.164|DK|Zealand|54|f
+Kleonaí|37.850|22.833|GR|Peloponnese|54|f
+Klepa|41.606|21.792|MK||54|f
+Klevetind Peak|-71.983|7.617|AQ||54|f
+Klingenstock|46.957|8.675|CH|Schwyz|54|f
+Klinkhammer Lakes|48.004|-119.459|US|Washington|54|f
+Klo Rock|-63.916|-60.766|AQ||54|f
+Klondike Hill|37.687|-90.456|US|Missouri|54|f
+Klooga Järv|59.312|24.230|EE|Harjumaa|54|f
+Klumpane Peaks|-71.967|-3.400|AQ||54|f
+Klung Islands|-67.553|62.973|AQ||54|f
+Kluntarna|65.267|21.950|SE|Norrbotten|54|f
+Klappholz|54.622|9.535|DE|Schleswig-Holstein|54
+Kluky|49.317|14.245|CZ|South Bohemian Region|54
+Kleindietwil|47.146|7.790|CH|Bern|54
+Kleinsöll|47.485|11.992|AT|Tyrol|54
+Kleinschretstaken|53.586|10.571|DE|Schleswig-Holstein|54
 Klanjec|46.050|15.744|HR|Krapina-Zagorje|54
+Kloschwitz|51.585|11.756|DE|Saxony-Anhalt|54
+Kleinbartloff|51.350|10.383|DE|Thuringia|54
+Kleinneuhausen|51.150|11.283|DE|Thuringia|53
+Kleinbundenbach|49.317|7.433|DE|Rheinland-Pfalz|53
 Klaffer am Hochficht|48.695|13.881|AT|Upper Austria|52
 Klöch|46.765|15.966|AT|Styria|52
+Kleineutersdorf|50.783|11.583|DE|Thuringia|52
+Kleinmölsen|51.033|11.117|DE|Thuringia|52
+Klein Rheide|54.450|9.476|DE|Schleswig-Holstein|51
 Kleinlobming|47.150|14.849|AT|Styria|51
+Kloster Veßra|50.500|10.650|DE|Thuringia|51
+Kleinfischlingen|49.263|8.187|DE|Rheinland-Pfalz|50
+Klosterkumbd|50.033|7.533|DE|Rheinland-Pfalz|49
+Klakkane Islands|-67.246|59.779|AQ||49|f
+Klapperhorn Mountain|53.000|-119.202|CA|British Columbia|49|f
+Klaratoppen|78.301|13.790|SJ|Svalbard|49|f
+Klausenberg|47.739|12.267|DE|Bavaria|49|f
+Klebelsberg Glacier|-67.405|-66.249|AQ||49|f
+Kleberg County Airport|27.545|-98.028|US|Texas|49|f
+Kleiner Auersberg|50.360|9.841|DE|Bavaria|49|f
+Kleiner Jasmunder Bodden|54.451|13.516|DE|Mecklenburg-Vorpommern|49|f
+Kleiner Labussee|53.300|12.950|DE|Mecklenburg-Vorpommern|49|f
+Kleiner Rettenstein|47.333|12.333|AT|Tyrol|49|f
+Kleines Breithorn|46.476|7.875|CH|Bern|49|f
+Kleinglockner|47.074|12.695|AT|Tyrol|49|f
+Klek|45.262|15.145|HR|Karlovac|49|f
+Klenzsee|53.226|12.953|DE|Mecklenburg-Vorpommern|49|f
+Kletting Peak|40.763|-110.856|US|Utah|49|f
+Kloa Point|-66.639|57.298|AQ||49|f
+Klock Hill|42.718|-75.144|US|New York|49|f
+Klockerin|47.150|12.733|AT|Salzburg|49|f
+Klokoč|43.739|20.069|RS|Central Serbia|49|f
+Kluang Airport|2.042|103.311|MY|Johor|49|f
+Klung Island|-67.549|62.979|AQ||49|f
+Kleinschwabhausen|50.932|11.461|DE|Thuringia|48
+Klein Barkau|54.222|10.134|DE|Schleswig-Holstein|48
+Klettstedt|51.150|10.750|DE|Thuringia|48
 Klakar|45.099|18.132|HR|Brod-Posavina|48
+Klein Zecher|53.577|10.873|DE|Schleswig-Holstein|48
 Kleinmürbisch|47.033|16.324|AT|Burgenland|47
+Kliding|50.117|7.050|DE|Rheinland-Pfalz|47
+Klein Wittensee|54.391|9.733|DE|Schleswig-Holstein|47
+Kleinebersdorf|50.817|11.833|DE|Thuringia|45
+Kleinlangenfeld|50.267|6.483|DE|Rheinland-Pfalz|44
+Kletkamp|54.250|10.633|DE|Schleswig-Holstein|44
+Kludenbach|49.983|7.367|DE|Rheinland-Pfalz|41
 Kloster|46.883|15.083|AT|Styria|41
+Klamath Mountains|42.000|-123.335|US|California|40|f
+Klaoitsis Island|50.565|-126.480|CA|British Columbia|40|f
+Klappan Mountain|57.200|-128.837|CA|British Columbia|40|f
+Klappan Range|57.250|-129.754|CA|British Columbia|40|f
+Klaros|38.005|27.193|TR|İzmir Province|40|f
+KLAS-TV (Las Vegas)|35.946|-115.043|US|Nevada|40|f
+Klausenstein|48.951|12.897|DE|Bavaria|40|f
+Klawatti Glacier|48.561|-121.085|US|Washington|40|f
+Klawatti Lake|48.556|-121.080|US|Washington|40|f
+KLAX-TV (Alexandria)|31.565|-92.550|US|Louisiana|40|f
+KLAZ-FM (Hot Springs)|34.372|-93.048|US|Arkansas|40|f
+KLBK-TV (Lubbock)|33.526|-101.869|US|Texas|40|f
+KLCB-AM (Libby)|48.371|-115.540|US|Montana|40|f
+KLCD-FM (Decorah)|43.316|-91.788|US|Iowa|40|f
+KLCM-FM (Lewistown)|47.070|-109.408|US|Montana|40|f
+KLCS-TV (Los Angeles)|34.224|-118.063|US|California|40|f
+Kleanza Creek Park|54.600|-128.403|CA|British Columbia|40|f
+Klein Glacier|-86.800|-150.000|AQ||40|f
+Klein Mythen|47.041|8.685|CH|Schwyz|40|f
+Kleiner Rappenkopf|47.283|10.244|DE|Bavaria|40|f
+Kleiner Seekopf|47.401|10.356|DE|Bavaria|40|f
+Kleines Grünhorn|46.537|8.074|CH|Valais|40|f
+Kleptuza Glacier|-64.600|-63.267|AQ||40|f
+Klewenalp|46.940|8.477|CH|Nidwalden|40|f
+Kleybolte Peninsula|81.752|-91.001|CA|Nunavut|40|f
+KLFM-FM (Great Falls)|47.532|-111.279|US|Montana|40|f
+Klickitat Glacier|46.189|-121.466|US|Washington|40|f
+KLIL-FM (Moreauville)|31.048|-91.997|US|Louisiana|40|f
+KLIN-AM (Lincoln)|40.820|-96.658|US|Nebraska|40|f
+Klinaklini Canyon|51.366|-125.670|CA|British Columbia|40|f
+Klinaklini Glacier|51.466|-125.786|CA|British Columbia|40|f
+Klinger Ridge|-74.717|-114.000|AQ||40|f
+KLIR-FM (Columbus)|41.282|-97.409|US|Nebraska|40|f
+Klisura Peak|-62.694|-60.177|AQ||40|f
+Klitsa Mountain|49.250|-125.236|CA|British Columbia|40|f
+KLIV-AM (San Jose)|37.329|-121.857|US|California|40|f
+KLKC-AM (Parsons)|37.343|-95.232|US|Kansas|40|f
+KLLY-FM (Oildale)|35.459|-119.021|US|California|40|f
+KLOH-AM (Pipestone)|43.992|-96.344|US|Minnesota|40|f
+Klokoč|48.474|17.312|SK|Bratislava Region|40|f
+Klondike Bridge|43.386|-96.521|US|Iowa|40|f
+Klondike Gold Rush National Historical Park|59.575|-135.264|US|Alaska|40|f
+Klöntalersee|47.025|8.978|CH|Glarus|40|f
+KLOO-FM|44.646|-123.271|US|Oregon|40|f
+Klootch Canyon|54.916|-128.387|CA|British Columbia|40|f
+Klootchman Canyon|57.533|-131.737|CA|British Columbia|40|f
+Kloster Langheim|50.112|11.111|DE|Bavaria|40|f
+Klostersee|53.896|12.848|DE|Mecklenburg-Vorpommern|40|f
+KLPI-FM (Ruston)|32.528|-92.647|US|Louisiana|40|f
+KLPZ-AM (Parker)|34.154|-114.288|US|Arizona|40|f
+KLQL-FM (Luverne)|43.807|-96.207|US|Minnesota|40|f
+KLRN-TV (San Antonio)|29.326|-98.357|US|Texas|40|f
+KLRT-TV (Little Rock)|34.799|-92.492|US|Arkansas|40|f
+KLSA-FM (Alexandria)|31.566|-92.547|US|Louisiana|40|f
+KLST-TV (San Angelo)|31.367|-100.047|US|Texas|40|f
+KLTF-AM (Little Falls)|46.004|-94.329|US|Minnesota|40|f
+KLTK-AM (Southwest City)|36.508|-94.610|US|Missouri|40|f
+KLTV-TV (Tyler)|32.539|-95.221|US|Texas|40|f
+KLTZ-AM (Glasgow)|48.219|-106.649|US|Montana|40|f
+Kluane Lake|61.261|-138.773|CA|Yukon|40|f
+KLUJ-TV (Harlingen)|26.217|-97.780|US|Texas|40|f
+Klupper|47.356|10.283|DE|Bavaria|40|f
+Kluskoil Lake Park|53.217|-123.903|CA|British Columbia|40|f
+Kluskus Lakes|53.083|-124.503|CA|British Columbia|40|f
+Klutes Lakes|41.769|-86.595|US|Michigan|40|f
+Klutlan Glacier|61.413|-141.322|US|Alaska|40|f
+Klutschak Peninsula|67.918|-98.501|CA|Nunavut|40|f
+KLUZ-TV (Albuquerque)|35.211|-106.449|US|New Mexico|40|f
+KLVL-AM (Pasadena)|29.684|-95.186|US|Texas|40|f
+KLVT-AM (Levelland)|33.597|-102.386|US|Texas|40|f
+KLWJ-AM|45.880|-119.345|US|Oregon|40|f
+KLYQ-AM (Hamilton)|46.256|-114.163|US|Montana|40|f
+Kleinbockedra|50.842|11.647|DE|Thuringia|33
 Klepeće Selo|45.494|14.950|HR|Primorje-Gorski Kotar|0
+Kladi|-7.816|114.086|ID|East Java|0
 Kladovo|44.611|22.610|RS|Central Serbia|0
 Klæbu|63.298|10.483|NO|Trøndelag|0
 Klaffenegg|47.518|15.760|AT|Styria|0
+Klagen|-7.213|111.529|ID|Central Java|0
+Klagen|-6.999|112.351|ID|East Java|0
+Klakeh|-6.978|111.685|ID|East Java|0
+Klamik|-10.320|123.494|ID|East Nusa Tenggara|0
 Klampis|-6.894|112.904|ID|East Java|0
+Klampok|-8.130|112.162|ID|East Java|0
+Klampok|-8.182|112.195|ID|East Java|0
+Klampok|-7.001|111.497|ID|Central Java|0
+Klampokan Krajan Satu|-7.755|114.052|ID|East Java|0
+Klanceng|-8.102|113.751|ID|East Java|0
 Klapagada|-7.623|109.149|ID|Central Java|0
+Klapagading|-7.519|109.069|ID|Central Java|0
+Klatakan|-8.189|113.489|ID|East Java|0
+Klatakan|-8.176|114.383|ID|East Java|0
+Klatakan|-8.007|111.462|ID|East Java|0
+Klau|-8.336|114.988|ID|Bali|0
 Klausner|47.576|14.350|AT|Styria|0
+Klayu Wetan|-8.184|113.801|ID|East Java|0
+Klayusiwalan|-6.721|111.200|ID|Central Java|0
+Kleben|-8.051|111.840|ID|East Java|0
+Klebu|-7.137|114.305|ID|East Java|0
 Kleinbösingen|46.894|7.205|CH|Fribourg|0
+Kleker|-6.967|113.824|ID|East Java|0
+Klempun|-7.229|111.584|ID|East Java|0
+Klemunan|-8.098|112.334|ID|East Java|0
 Kleppestø|60.408|5.228|NO|Vestland|0
+Klepu Krajan|-8.263|112.733|ID|East Java|0
+Kletek|-6.834|111.223|ID|Central Java|0
+Kleve (Dithmarschen)|54.295|9.124|DE|Schleswig-Holstein|0
+Kliteh|-7.127|111.703|ID|East Java|0
+Kliwon Cibingbin|-7.058|108.759|ID|West Java|0
+Kloangpopot|-8.711|122.352|ID|East Nusa Tenggara|0
+Kloangrotat|-8.679|122.335|ID|East Nusa Tenggara|0
 Klokotnica|44.733|18.189|BA|Federation of B&H|0
+Klole|-8.084|113.824|ID|East Java|0
+Klompangan|-8.234|113.654|ID|East Java|0
 Kloncing|-8.185|113.727|ID|East Java|0
+Klopoduwur|-7.027|111.409|ID|Central Java|0
+Kloposawit Krajan|-8.153|113.082|ID|East Java|0
 Klubagolit|-8.298|123.228|ID|East Nusa Tenggara|0
+Klukeng|-8.396|123.086|ID|East Nusa Tenggara|0
+Klumbu|-8.718|115.523|ID|Bali|0
+Klumpit|-6.780|111.165|ID|Central Java|0
+Kluncing|-8.190|114.230|ID|East Java|0
+Klutuk|-6.818|111.839|ID|East Java|0

@@ -3,15 +3,15 @@ Pretoria|-25.745|28.188|ZA|Gauteng|126
 Primorye|45.175|134.717|RU||125|r
 Prague|50.088|14.421|CZ|Prague|121
 Prayagraj|25.445|81.843|IN|Uttar Pradesh|121
-Prahova|45.167|26.000|RO||119|r
+Prahova|45.167|26.000|RO||120|r
 Pristina|42.673|21.167|XK|Pristina|115
-Prešov Region|49.167|21.250|SK||113|r
+Prešov Region|49.167|21.250|SK||114|r
 Praia Grande|-24.006|-46.403|BR|São Paulo|111
 Pravyi Bereh|47.115|37.585|UA|Donetsk|111
 Preston|53.763|-2.705|GB|England|110
 Probolinggo|-7.754|113.216|ID|East Java|108
+Primorje-Gorski Kotar|45.454|14.594|HR||108|r
 Presidente Prudente|-22.126|-51.389|BR|São Paulo|107
-Primorje-Gorski Kotar|45.454|14.594|HR||107|r
 Prokop’yevsk|53.915|86.719|RU|Kuzbass|107
 Prato|43.880|11.097|IT|Tuscany|106
 Providence|41.824|-71.413|US|Rhode Island|106
@@ -25,14 +25,16 @@ Provo|40.234|-111.659|US|Utah|101
 Prabumulih|-3.434|104.231|ID|South Sumatra|100
 Preah Sihanouk|10.667|103.750|KH||99|r
 Praga Północ|52.254|21.035|PL|Mazovia|99
-Prosperidad|8.580|125.896|PH|Caraga|99
 Prince Edward Island|46.398|-63.298|CA||99|r
+Prosperidad|8.580|125.896|PH|Caraga|99
+Princeton University|40.343|-74.657|US|New Jersey|99|f
 Prešov|48.999|21.235|SK|Prešov Region|98
 Presidencia Roque Sáenz Peña|-26.791|-60.441|AR|Chaco|98
 Prince George|53.917|-122.753|CA|British Columbia|98
 Prilep|41.346|21.554|MK|Prilep|97
 Prymorskyi|47.071|37.500|UA|Donetsk|97
 Presidente Hayes|-23.500|-58.833|PY||97|r
+Pristina International Airport Adem Jashari|42.573|21.036|XK|Pristina|97|f
 Przemyśl|49.785|22.767|PL|Subcarpathia|97
 Preaek Prasab|12.354|106.036|KH|Kratie|96
 Prokhladnyy|43.757|44.030|RU|Kabardino-Balkariya Republic|96
@@ -42,18 +44,22 @@ Presidente Franco|-25.564|-54.611|PY|Alto Paraná Department|95
 Pryluky|50.595|32.384|UA|Chernihiv Oblast|94
 Prudentópolis|-25.213|-50.978|BR|Paraná|94
 Pran Buri|12.385|99.902|TH|Prachuap Khiri Khan|93
+Princess Juliana International Airport|18.041|-63.109|SX||93|f
 Presidente Dutra|-5.290|-44.490|BR|Maranhão|93
 Pradera|3.420|-76.242|CO|Valle del Cauca Department|93
+Prince Edward Islands|-46.745|37.832|ZA|Western Cape|93|f
+Preah Vihear|13.750|105.000|KH||93|r
 Prievidza|48.774|18.628|SK|Trenčín Region|93
 Prostějov|49.472|17.112|CZ|Olomouc Region|93
-Preah Vihear|13.750|105.000|KH||93|r
 Prescott Valley|34.610|-112.316|US|Arizona|93
 Pratāpgarh|24.032|74.782|IN|Rajasthan|92
 Prescott|34.540|-112.469|US|Arizona|92
 Prescot|53.429|-2.800|GB|England|92
+Prins Karls Forland|78.543|11.175|SJ|Svalbard|92|f
 Přerov|49.455|17.451|CZ|Olomouc Region|92
 Presidente Epitácio|-21.763|-52.116|BR|São Paulo|92
 Princeton|25.538|-80.409|US|Florida|92
+Pribilof Islands|56.909|-169.942|US|Alaska|91|f
 Progreso|21.282|-89.663|MX|Yucatán|91
 Protvino|54.868|37.216|RU|Moscow Oblast|91
 Presidente Figueiredo|-2.034|-60.025|BR|Amazonas|91
@@ -67,8 +73,10 @@ Praya|-8.705|116.270|ID|West Nusa Tenggara|91
 Promissão|-21.537|-49.858|BR|São Paulo|91
 Prince Albert|53.200|-105.768|CA|Saskatchewan|91
 Prado|-17.341|-39.221|BR|Bahia|91
+Prince Patrick Island|76.751|-119.507|CA|Northwest Territories|91|f
 Preston|-37.750|145.017|AU|Victoria|91
 Prachuap Khiri Khan|11.821|99.784|TH|Prachuap Khiri Khan|91
+Prince of Wales Island|55.632|-132.907|US|Alaska|90|f
 Primorsko-Akhtarsk|46.048|38.179|RU|Krasnodar Krai|90
 Prey Veng|11.487|105.325|KH|Prey Veng|90
 Příbram|49.690|14.010|CZ|Central Bohemia|90
@@ -82,6 +90,7 @@ Prata|-19.307|-48.924|BR|Minas Gerais|89
 Presidente Tancredo Neves|-13.453|-39.421|BR|Bahia|89
 Prokuplje|43.234|21.588|RS|Central Serbia|89
 Premià de Mar|41.492|2.365|ES|Catalonia|89
+Prince Charles Island|67.784|-76.198|CA|Nunavut|89|f
 Prairieville|30.303|-90.972|US|Louisiana|89
 Praktiseer|-24.584|30.317|ZA|Limpopo|89
 Propriá|-10.211|-36.840|BR|Sergipe|89
@@ -89,12 +98,3 @@ Prince Edward|44.000|-77.249|CA|Ontario|88
 Profesor Salvador Mazza|-22.049|-63.691|AR|Salta|88
 Prior Lake|44.713|-93.423|US|Minnesota|88
 Prachin Buri Town|14.055|101.373|TH|Prachin Buri|88
-Przymorze Wielkie|54.412|18.598|PL|Pomerania|88
-Prigen|-7.683|112.617|ID|East Java|88
-Providenciales|21.783|-72.252|TC||88
-Pruszcz Gdański|54.262|18.636|PL|Pomerania|87
-Prāntij|23.436|72.845|IN|Gujarat|87
-Princesa Isabel|-7.737|-37.993|BR|Paraíba|87
-Prudnik|50.321|17.575|PL|Opole Voivodeship|87
-Priego de Córdoba|37.438|-4.195|ES|Andalusia|87
-Primer Ensanche|42.815|-1.649|ES|Navarre|87

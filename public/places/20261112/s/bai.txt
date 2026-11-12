@@ -88,6 +88,7 @@ Baía da Traição|-6.688|-34.936|BR|Paraíba|79
 Baissa|7.231|10.624|NG|Taraba State|79
 Baía Formosa|-6.369|-35.008|BR|Rio Grande do Norte|79
 Baitugang|37.829|106.340|CN|Ningxia|79
+Baie-Comeau Airport|49.133|-68.204|CA|Quebec|78|f
 Baiquan|31.594|108.783|CN|Chongqing|78
 Bailey|39.406|-105.473|US|Colorado|78
 Bailuquan|38.071|114.269|CN|Henan|78
@@ -97,6 +98,7 @@ Baiersdorf|49.658|11.036|DE|Bavaria|77
 Baia|47.417|26.217|RO|Suceava|77
 Baillargues|43.661|4.013|FR|Occitanie|76
 Baisha|29.372|106.926|CN|Chongqing|76
+Baise Youjiang Airport|23.720|106.963|CN|Guangxi|76|f
 Băiculeşti|45.067|24.700|RO|Arges|76
 Bain-de-Bretagne|47.847|-1.686|FR|Brittany|76
 Băile Herculane|44.880|22.413|RO|Caraș-Severin County|76
@@ -106,6 +108,8 @@ Baixio|-6.730|-38.717|BR|Ceará|75
 Bairro do Loreto|40.233|-8.450|PT|Coimbra|75
 Bairro Silva Braga|41.175|-8.627|PT|Porto|75
 Baiyun|29.313|107.418|CN|Chongqing|75
+Baicheng Chang'an Airport|45.506|123.020|CN|Jilin|74|f
+Bairnsdale Airport|-37.888|147.568|AU|Victoria|74|f
 Baitu|29.380|108.642|CN|Chongqing|74
 Baie Sainte Anne|-4.320|55.753|SC|Baie Sainte Anne|74
 Baia|44.717|28.667|RO|Tulcea County|74
@@ -113,6 +117,7 @@ Baishixia|22.677|113.817|CN|Guangdong|74
 Baie Lazare|-4.750|55.475|SC|Baie Lazare|74
 Baiano|40.951|14.617|IT|Campania|73
 Băile Drânceni|46.815|28.102|RO|Vaslui County|73
+Baikonur Cosmodrome|46.006|63.301|KZ|Baikonur|73|f
 Baia de Arieş|46.380|23.281|RO|Alba County|73
 Băile Olănești|45.200|24.233|RO|Vâlcea County|73
 Baindt|47.850|9.667|DE|Baden-Wurttemberg|73
@@ -120,14 +125,21 @@ Baia de Fier|45.167|23.767|RO|Gorj County|73
 Bailly|48.842|2.077|FR|Île-de-France|73
 Bairan|10.197|123.727|PH|Central Visayas|73
 Băiţa|46.033|22.900|RO|Hunedoara County|72
+Baie d’Opunohu|-17.500|-149.857|PF||72|f
+Baining Mountains|-4.667|152.000|PG|East New Britain Province|72|f
 Baisieux|50.608|3.253|FR|Hauts-de-France|72
 Baikunthpur Barhanda|25.683|85.768|IN|Bihar|72
 Baie-D'Urfé|45.414|-73.916|CA|Quebec|72
 Baiima|8.108|-11.848|SL|Southern Province|72
 Bailly-Romainvilliers|48.847|2.824|FR|Île-de-France|71
+Baía de Maputo|-26.044|32.756|MZ|Maputo Province|71|f
+Baia de Santa Maria|-13.844|12.471|AO|Namibe|71|f
 Bains-sur-Oust|47.703|-2.072|FR|Brittany|70
 Bainbridge|41.386|-81.340|US|Ohio|70
 Baisy-Thy|50.597|4.476|BE|Wallonia|70
+Baikal Mountains|54.000|108.000|RU|Irkutsk Oblast|70|f
+Bailey Island|43.738|-69.994|US|Maine|70|f
+Baiyangdian Lake|38.886|116.022|CN|Hebei|70|f
 Baia de Criş|46.167|22.717|RO|Hunedoara County|70
 Bailan|11.458|122.830|PH|Western Visayas|69
 Baisha|26.522|110.931|CN|Hunan|69
@@ -137,6 +149,8 @@ Bairiki Village|1.329|172.975|KI|Gilbert Islands|69
 Baiqi|24.882|118.709|CN|Fujian|69
 Baimang|22.626|113.937|CN|Guangdong|69
 Baierbrunn|48.020|11.487|DE|Bavaria|69
+Baía de Namibe|-15.162|12.119|AO|Namibe|69|f
+Baie de Téremba|-21.767|165.717|NC||69|f
 Bailieborough|53.917|-6.967|IE|Ulster|69
 Băiuţ|47.617|24.000|RO|Maramureş|68
 Baie aux Huîtres|-19.694|63.408|MU|Rodrigues|68
@@ -144,6 +158,7 @@ Baïfla|7.183|-6.303|CI|Sassandra-Marahoue|68
 Baixas|42.750|2.809|FR|Occitanie|68
 Bairoa|18.259|-66.040|PR|Caguas|67
 Băişoara|46.583|23.467|RO|Cluj County|67
+Baía dos Tigres|-16.649|11.781|AO|Namibe|67|f
 Baikingon|8.472|124.554|PH|Northern Mindanao|67
 Baiyun|26.036|118.906|CN|Fujian|67
 Baia de Aramă|44.999|22.808|RO|Mehedinți County|67
@@ -154,6 +169,9 @@ Baitoa|19.325|-70.704|DO|Santiago Province|66
 Baishi|26.974|109.443|CN|Guizhou|66
 Băiţa de sub Codru|47.533|23.150|RO|Maramureş|66
 Băița|47.706|23.493|RO|Maramureş|65
+Baía de Tombua|-15.794|11.837|AO|Namibe|65|f
+Baia Mare International Airport|47.658|23.470|RO|Maramureş|65|f
+Baie de l'Acul|19.731|-72.323|HT|Nord|65|f
 Baillet-en-France|49.062|2.299|FR|Île-de-France|65
 Baisogala|55.640|23.733|LT|Siauliai|65
 Băile Tuşnad|46.144|25.857|RO|Harghita County|64
@@ -167,6 +185,15 @@ Baijian|39.994|117.209|CN|Tianjin|64
 Bailleau-le-Pin|48.367|1.329|FR|Centre-Val de Loire|64
 Bailleval|49.346|2.457|FR|Hauts-de-France|63
 Baird|32.394|-99.394|US|Texas|63
+Baía de Santa Clara|15.016|-23.733|CV|Santa Catarina|63|f
+Baía de São José de Ribamar|-2.599|-44.010|BR|Maranhão|63|f
+Baidicheng|31.044|109.571|CN|Chongqing|63|f
+Baie de Sangareya|9.646|-13.785|GN||63|f
+Baie Hanavave|-10.464|-138.671|PF||63|f
+Baie Norvégienne|-49.383|70.367|TF||63|f
+Baikonur Krayniy Airport|45.624|63.214|KZ|Baikonur|63|f
+Baird Island|-12.242|143.212|AU|Queensland|63|f
+Baiyun Shan|23.186|113.296|CN|Guangdong|63|f
 Bainbridge|40.091|-76.667|US|Pennsylvania|63
 Baisweil|47.944|10.540|DE|Bavaria|63
 Baincthun|50.710|1.681|FR|Hauts-de-France|63
@@ -182,29 +209,321 @@ Bailleul-Sir-Berthoult|50.338|2.851|FR|Hauts-de-France|62
 Bainville-sur-Madon|48.587|6.096|FR|Grand Est|62
 Băile Borșa|47.684|24.714|RO|Maramureş|61
 Baia|41.304|14.250|IT|Campania|61
+Baía da Guanabara|-22.794|-43.146|BR|Rio de Janeiro|61|f
+Baía das Gatas|16.195|-22.708|CV|Boa Vista|61|f
+Baía de Pemba|-12.943|40.461|MZ|Cabo Delgado Province|61|f
+Baie de la Seine|49.500|-0.500|FR||61|f
+Baie de Néhoué|-20.350|164.150|NC||61|f
+Baie de Tanlé|-20.300|164.067|NC||61|f
+Bailey Island Cobwork Bridge|43.740|-69.988|US|Maine|61|f
+Baird Inlet|60.809|-164.089|US|Alaska|61|f
 Bailleau-l'Évêque|48.490|1.397|FR|Centre-Val de Loire|61
 Bairachky|48.392|38.602|UA|Luhansk|61
 Bailly-Carrois|48.580|2.990|FR|Île-de-France|60
 Bairisch Kölldorf|46.867|15.933|AT|Styria|60
+Băița|46.836|24.530|RO|Mureș County|60
+Baimaoping|26.262|110.364|CN|Hunan|59
 Baiso|44.497|10.601|IT|Emilia-Romagna|59
+Baitaly|47.812|29.819|UA|Odesa|59
 Baierdorf-Umgebung|47.285|15.710|AT|Styria|59
+Baix|44.712|4.764|FR|Auvergne-Rhône-Alpes|59
+Bainbridge|39.228|-83.270|US|Ohio|59
+Baile an Mhuilinn|52.150|-9.717|IE|Munster|58
+Băiceni|47.693|26.658|RO|Botoșani County|58
 Baiti|-0.508|166.929|NR|Baiti District|58
 Baiti District|-0.508|166.930|NR||58|r
+Baisieux|50.387|3.696|BE|Wallonia|58
+Baía da Murdeira|16.680|-22.956|CV|Sal|58|f
+Baía das Pipas|-14.940|12.192|AO|Namibe|58|f
+Baie d’Ouia|-10.486|-138.614|PF||58|f
+Baie de Fort-de-France|14.575|-61.051|MQ|Martinique|58|f
+Baie de Fundy|45.000|-65.499|CA|Nova Scotia|58|f
+Baie de Gouaro|-21.617|165.450|NC||58|f
+Baie de la Forêt|47.871|-3.959|FR|Brittany|58|f
+Baie de Yof|14.766|-17.473|SN|Dakar|58|f
+Baie Mananara|-16.133|49.767|MG||58|f
+Baie Verte Peninsula|49.833|-56.498|CA|Newfoundland and Labrador|58|f
+Baiselsberg|49.004|8.988|DE|Baden-Wurttemberg|58|f
+Baiu Mountains|45.382|25.620|RO|Prahova|58|f
+Baiyang Yu|24.541|118.552|CN|Fujian|58|f
+Baiyun Guan|39.899|116.338|CN|Beijing|58|f
+Baigts-de-Béarn|43.513|-0.839|FR|New Aquitaine|58
+Baierbach|48.417|12.200|DE|Bavaria|58
+Bainbridge|39.761|-86.812|US|Indiana|57
+Bailey Prairie|29.152|-95.509|US|Texas|57
+Bairdford|40.631|-79.881|US|Pennsylvania|57
+Bairro|39.577|-8.592|PT|Santarém|57
+Bailleul-le-Soc|49.417|2.577|FR|Hauts-de-France|57
+Baileyton|34.262|-86.613|US|Alabama|56
+Bailleul|48.801|-0.003|FR|Normandy|56
+Băile|45.290|27.362|RO|Buzău County|56
+Bailly|49.496|2.970|FR|Hauts-de-France|56
+Baimai|30.300|96.017|CN|Tibet|55
+Baillonville|50.290|5.339|BE|Wallonia|55
 Bairo|45.386|7.755|IT|Piedmont|55
+Bailey|35.781|-78.119|US|North Carolina|55
+Bailleul|50.669|3.319|BE|Wallonia|55
+Baía de Fernão Veloso|-14.401|40.710|MZ|Nampula|54|f
+Baía de Luanda|-8.783|13.261|AO|Luanda|54|f
+Baía de Memba|-14.184|40.572|MZ|Nampula|54|f
+Baía de São Marcos|-2.573|-44.451|BR|Maranhão|54|f
+Baía do Galeão|15.321|-23.150|CV|Maio|54|f
+Baidoa Airport|3.102|43.629|SO|Bay|54|f
+Baie Banaré|-20.167|164.050|NC||54|f
+Baie de Bouéni|-12.913|45.126|YT||54|f
+Baie de Boulari|-22.267|166.533|NC||54|f
+Baie de Gadji|-22.177|166.381|NC|South Province|54|f
+Baie de Gomen|-20.750|164.400|NC||54|f
+Baie de la Dumbéa|-22.201|166.398|NC|South Province|54|f
+Baie de la Poya|-21.383|165.100|NC||54|f
+Baie de Matavai|-17.500|-149.500|PF||54|f
+Baie de Moindou|-21.733|165.667|NC||54|f
+Baie de Nékoro|-21.350|165.017|NC||54|f
+Baie de Prony|-22.369|166.866|NC|South Province|54|f
+Baie de Saint-Vincent|-22.011|166.105|NC|South Province|54|f
+Baie De Tanger|35.784|-5.783|MA|Tanger-Tetouan-Al Hoceima|54|f
+Baie des Flamands|18.238|-73.652|HT|Sud|54|f
+Bailādila Range|18.780|81.225|IN|Chhattisgarh|54|f
+Bailey House|39.742|-104.974|US|Colorado|54|f
+Bailey Range|47.832|-123.570|US|Washington|54|f
+Baimuru Airport|-7.497|144.820|PG|Gulf Province|54|f
+Bainbridge Island|60.099|-148.153|US|Alaska|54|f
+Baintha Brakk|35.947|75.752|PK|Gilgit-Baltistan|54|f
+Bair Peak|42.806|-109.243|US|Wyoming|54|f
+Baird Mountain|36.584|-93.292|US|Missouri|54|f
+Bailly-en-Rivière|49.912|1.337|FR|Normandy|54
+Baie Chasseloup|-20.950|164.633|NC||49|f
+Baie de Baly National Park|-16.083|45.233|MG|Boeny|49|f
+Baie de Briande|43.167|6.633|FR|Provence-Alpes-Côte d'Azur|49|f
+Baie de Douarnenez|48.153|-4.434|FR|Brittany|49|f
+Baie de Quiberon|47.523|-3.031|FR|Brittany|49|f
+Baie de Somme|50.214|1.588|FR|Hauts-de-France|49|f
+Baie Inaccessible|-22.056|166.145|NC|South Province|49|f
+Baie Larose|-49.583|69.333|TF||49|f
+Bailey Hills|43.361|-75.112|US|New York|49|f
+Bailey Peninsula|-66.286|110.533|AQ||49|f
+Baillieu Peak|-67.864|60.771|AQ||49|f
+Baird Bay Islands Conservation Park|-33.081|134.284|AU|South Australia|49|f
 Bailo|42.509|-0.811|ES|Aragon|48
+Baía da Parda|16.733|-22.894|CV|Sal|40|f
+Baía da Salga|38.647|-27.097|PT|Azores|40|f
+Baie Adolphe-Poisson|48.451|-75.403|CA|Quebec|40|f
+Baie Bouzanquet|48.333|-74.466|CA|Quebec|40|f
+Baie de Langarano|-25.017|44.017|MG||40|f
+Baie de Rupert|51.583|-78.999|CA|Quebec|40|f
+Baie des Trépassés|48.047|-4.711|FR|Brittany|40|f
+Baie Hanotaux|48.517|-75.349|CA|Quebec|40|f
+Baie Jean-Pierre|48.350|-74.266|CA|Quebec|40|f
+Baie Kikendatch|48.383|-74.166|CA|Quebec|40|f
+Baie Mattawa|48.437|-75.345|CA|Quebec|40|f
+Baie Missisquoi|45.046|-73.121|CA|Quebec|40|f
+Baie Piciw Minikanan|48.417|-75.449|CA|Quebec|40|f
+Baie Plamondon|48.575|-75.258|CA|Quebec|40|f
+Baie Saraana|48.436|-75.249|CA|Quebec|40|f
+Baie Thibodeau|48.599|-75.064|CA|Quebec|40|f
+Bailey Arboretum County Park|40.886|-73.584|US|New York|40|f
+Bailey Covered Bridge|40.021|-80.196|US|Pennsylvania|40|f
+Bailey Flat|41.514|-71.088|US|Massachusetts|40|f
+Bailey House Museum|20.889|-156.510|US|Hawaii|40|f
+Bailey Park|30.302|-97.747|US|Texas|40|f
+Bailey Pond|42.819|-74.973|US|New York|40|f
+Bailey Ridge|-77.200|-145.033|AQ||40|f
+Baillarge Bay|73.285|-84.499|CA|Nunavut|40|f
+Baillie Peak|-83.367|161.000|AQ||40|f
+Baillie-Hamilton Island|75.868|-94.584|CA|Nunavut|40|f
+Bain Hill|37.673|-90.293|US|Missouri|40|f
+Bainbridge Lake|49.204|-124.733|CA|British Columbia|40|f
+Bair Island|37.530|-122.222|US|California|40|f
+Baird Cove|47.164|-122.808|US|Washington|40|f
+Baird Mountains|67.583|-159.667|US|Alaska|40|f
+Baird Peninsula|68.918|-76.065|CA|Nunavut|40|f
+Baisley Pond Park|40.675|-73.786|US|New York|40|f
+Bait Range|55.666|-126.504|CA|British Columbia|40|f
+Baiyoke Tower 2|13.754|100.540|TH|Bangkok|40|f
 Baides|41.007|-2.776|ES|Castille-La Mancha|35
+Bai’e|25.819|115.610|CN|Jiangxi|0
+Baiba|29.799|93.852|CN|Tibet|0
+Baibei|27.804|115.907|CN|Jiangxi|0
+Baibu|30.542|120.778|CN|Zhejiang|0
+Baicaogou|43.265|129.603|CN|Jilin|0
+Baicha|29.184|115.599|CN|Jiangxi|0
+Baicun|28.688|107.932|CN|Guizhou|0
+Baidi|30.207|118.374|CN|Anhui|0
+Baidian|32.671|120.257|CN|Jiangsu|0
+Baidian|30.777|119.244|CN|Anhui|0
+Baidu|24.494|116.193|CN|Guangdong|0
+Baifeng|29.878|121.992|CN|Zhejiang|0
+Baifusi|29.204|109.219|CN|Hubei|0
+Baigecun|24.157|102.664|CN|Yunnan|0
+Baigneaux|48.133|1.817|FR|Centre-Val de Loire|0
+Baigou|23.507|111.635|CN|Guangdong|0
+Baiguo|31.041|115.014|CN|Hubei|0
+Baiguo|29.884|110.456|CN|Hubei|0
+Baiguo|30.228|109.333|CN|Hubei|0
+Baih|-6.971|113.135|ID|East Java|0
+Baihe|38.852|114.833|CN|Hebei|0
+Baihe|31.256|121.137|CN|Shanghai|0
+Baihedian|29.235|120.935|CN|Zhejiang|0
+Baiheshan|29.113|111.809|CN|Hunan|0
+Baihou|24.302|116.766|CN|Guangdong|0
+Baihua|22.955|114.649|CN|Guangdong|0
+Baijiaji|35.970|102.638|CN|Qinghai|0
+Baijiang|29.850|119.355|CN|Zhejiang|0
+Baijiazhuang|39.364|113.666|CN|Shanxi|0
+Baiju|33.067|120.308|CN|Jiangsu|0
 Baikivtsi|49.561|25.672|UA|Ternopil|0
+Baikouquan|45.918|85.475|CN|Xinjiang|0
+Baikui|46.364|126.996|CN|Heilongjiang|0
+Bailai|25.277|118.027|CN|Fujian|0
+Bailang|32.569|110.886|CN|Hubei|0
+Bailang|33.235|110.989|CN|Hubei|0
+Bailian|26.516|117.378|CN|Fujian|0
+Bailian|30.595|115.442|CN|Hubei|0
+Bailiang|28.201|114.412|CN|Jiangxi|0
+Bailianhe|30.599|115.436|CN|Hubei|0
+Bailin|34.763|103.940|CN|Gansu|0
+Bailin|32.661|110.610|CN|Hubei|0
+Bailing|29.080|114.021|CN|Jiangxi|0
 Bailingmiao|41.692|110.436|CN|Inner Mongolia|0
+Bailingnao|41.289|110.224|CN|Inner Mongolia|0
+Bailizhou|30.405|111.800|CN|Hubei|0
+Bailongqiao|29.078|119.548|CN|Zhejiang|0
+Bailu|34.054|119.522|CN|Jiangsu|0
+Bailu|26.243|115.147|CN|Jiangxi|0
+Bailu|27.910|116.199|CN|Jiangxi|0
+Bailu|29.486|116.039|CN|Jiangxi|0
 Bailundo|-12.200|15.867|AO|Huambo|0
+Bailuo|29.546|113.200|CN|Hubei|0
 Baima|30.058|96.919|CN|Tibet|0
+Baima|29.243|118.716|CN|Zhejiang|0
+Baima|36.595|107.726|CN|Gansu|0
+Baima|31.583|119.172|CN|Jiangsu|0
+Baimadu|25.549|111.688|CN|Hunan|0
+Baimangpu|25.534|111.702|CN|Hunan|0
+Baimaqiao|28.640|116.738|CN|Jiangxi|0
+Baimashi|40.916|120.350|CN|Liaoning|0
+Baimasi|30.102|112.523|CN|Hubei|0
+Baimi|32.507|120.252|CN|Jiangsu|0
+Baimiao|34.938|109.144|CN|Shaanxi|0
+Baimiao|31.035|112.221|CN|Hubei|0
+Baimiaohe|31.001|115.602|CN|Hubei|0
+Baimu|28.001|114.432|CN|Jiangxi|0
 Bainang|29.109|89.259|CN|Tibet|0
+Baing|-10.221|120.559|ID|East Nusa Tenggara|0
+Baini|23.062|112.834|CN|Guangdong|0
+Baini|29.535|114.129|CN|Hubei|0
 Bainton|53.950|-0.533|GB|England|0
+Baipenzhu|23.074|115.025|CN|Guangdong|0
+Baipu|32.243|120.755|CN|Jiangsu|0
+Baipu|23.710|114.852|CN|Guangdong|0
+Baiqi|40.310|123.841|CN|Liaoning|0
+Baiqiao|31.538|118.308|CN|Anhui|0
+Baiqing|25.651|119.768|CN|Fujian|0
+Baiquan|30.071|122.151|CN|Zhejiang|0
 Baiquan|42.885|124.958|CN|Jilin|0
+Baiquan|44.417|84.345|CN|Heilongjiang|0
+Baique|30.921|120.098|CN|Zhejiang|0
+Baiquesi|33.222|106.079|CN|Shaanxi|0
 Bairro 25 de Junho A|-25.900|32.556|MZ|Maputo City|0
 Bairro 25 de Junho B|-25.901|32.578|MZ|Maputo City|0
+Bairuopu|28.200|112.800|CN|Hunan|0
+Baisangguan|32.963|110.991|CN|Hubei|0
+Baisha|26.209|119.069|CN|Fujian|0
+Baisha|29.960|115.064|CN|Hubei|0
+Baisha|31.136|113.894|CN|Hubei|0
+Baisha|28.473|114.084|CN|Hunan|0
+Baisha|26.955|115.435|CN|Jiangxi|0
+Baisha|25.595|119.010|CN|Fujian|0
+Baisha|25.394|117.224|CN|Fujian|0
+Baisha|25.129|116.599|CN|Fujian|0
+Baisha|24.090|113.757|CN|Guangdong|0
+Baisha|22.250|112.594|CN|Guangdong|0
+Baisha|19.191|109.448|CN|Hainan|0
+Baisha|21.873|111.874|CN|Guangdong|0
+Baisha|20.891|110.089|CN|Guangdong|0
+Baisha|29.307|119.727|CN|Zhejiang|0
+Baisha|28.944|112.379|CN|Hunan|0
 Baisha|28.220|110.217|CN|Hunan|0
+Baisha|22.576|113.073|CN|Guangdong|0
+Baishan|47.268|123.243|CN|Heilongjiang|0
+Baishan|42.734|127.234|CN|Jilin|0
+Baishanzu|27.736|119.179|CN|Zhejiang|0
+Baishatan|36.833|121.696|CN|Shandong|0
+Baishazhou|29.160|116.614|CN|Jiangxi|0
+Baishe|27.040|116.437|CN|Jiangxi|0
+Baishe|29.340|119.650|CN|Zhejiang|0
+Baishi|28.099|120.860|CN|Zhejiang|0
+Baishi|22.821|111.795|CN|Guangdong|0
+Baishi|22.358|111.094|CN|Guangdong|0
+Baishi|25.451|113.252|CN|Guangdong|0
+Baishi|29.704|110.585|CN|Hunan|0
+Baishigou|33.375|106.194|CN|Shaanxi|0
+Baishijie|28.823|118.404|CN|Zhejiang|0
+Baishiyi|29.492|106.381|CN|Chongqing|0
+Baishui|32.258|106.016|CN|Sichuan|0
+Baishui|28.659|113.059|CN|Hunan|0
+Baishui|28.190|114.141|CN|Jiangxi|0
+Baishui|27.078|115.365|CN|Jiangxi|0
+Baishuijiang|33.576|106.094|CN|Shaanxi|0
+Baishuitan|42.759|127.801|CN|Jilin|0
+Baishuiyang|28.897|120.894|CN|Zhejiang|0
+Baishun|25.191|114.027|CN|Guangdong|0
+Baita|28.756|120.588|CN|Zhejiang|0
+Baita|23.561|116.203|CN|Guangdong|0
+Baitang|32.824|97.155|CN|Qinghai|0
+Baitang|39.446|112.326|CN|Shanxi|0
+Baitang|23.395|114.360|CN|Guangdong|0
+Baitang|25.450|119.095|CN|Fujian|0
+Baitashan|29.018|118.860|CN|Zhejiang|0
+Baitian|28.510|117.256|CN|Jiangxi|0
+Baitouli|39.903|112.491|CN|Shanxi|0
+Baitu|31.978|119.357|CN|Jiangsu|0
+Baitu|28.208|115.984|CN|Jiangxi|0
+Baitu|24.683|113.515|CN|Guangdong|0
+Baitu|22.987|112.598|CN|Guangdong|0
+Baitugang|33.447|112.367|CN|Henan|0
+Baiwang|34.673|108.649|CN|Shaanxi|0
+Baixi|29.900|117.797|CN|Anhui|0
+Baixi|28.012|111.309|CN|Hunan|0
+Baixian|34.325|119.333|CN|Jiangsu|0
+Baixian|31.117|119.686|CN|Zhejiang|0
 Baixiang|37.489|114.683|CN|Hebei|0
+Baixiang|47.223|126.453|CN|Heilongjiang|0
 Baixo Longa|-15.713|18.640|AO|Cubango|0
+Baixu|28.262|116.252|CN|Jiangxi|0
+Baiyan|28.361|109.974|CN|Hunan|0
+Baiyan|28.422|109.851|CN|Hunan|0
 Baiyang|35.851|106.639|CN|Ningxia|0
+Baiyang|30.423|111.509|CN|Hubei|0
+Baiyang|27.054|119.862|CN|Fujian|0
+Baiyang|28.807|109.734|CN|Hunan|0
+Baiyang|29.733|115.649|CN|Jiangxi|0
+Baiyang|30.474|108.903|CN|Hubei|0
+Baiyanggou|44.138|84.294|CN|Heilongjiang|0
+Baiyanghe|44.019|87.765|CN|Heilongjiang|0
+Baiyangping|30.496|109.638|CN|Hubei|0
+Baiyangwan|31.348|120.542|CN|Jiangsu|0
 Baiyashi|26.389|111.262|CN|Hunan|0
+Baiyatai|39.328|113.974|CN|Shanxi|0
+Baiyi|29.456|111.873|CN|Hunan|0
+Baiyin|38.918|99.889|CN|Gansu|0
 Baiyin Chagan|41.453|113.183|CN|Inner Mongolia|0
+Baiyinna|52.411|125.901|CN|Heilongjiang|0
+Baiyinnuole|46.759|124.223|CN|Heilongjiang|0
+Baiyu|33.270|100.666|CN|Qinghai|0
+Baiyu|28.577|99.672|CN|Yunnan|0
+Baiyun|29.634|111.178|CN|Hunan|0
+Baiyun|28.758|118.326|CN|Jiangxi|0
+Baiyun|28.678|121.406|CN|Zhejiang|0
+Baiyun|49.158|126.234|CN|Heilongjiang|0
+Baiyushan|30.605|114.488|CN|Hubei|0
+Baizhang|31.923|119.971|CN|Jiangsu|0
+Baizhang|27.655|119.850|CN|Zhejiang|0
+Baizhang|30.528|119.725|CN|Zhejiang|0
+Baizhang|26.182|118.807|CN|Fujian|0
+Baizhi|29.376|111.760|CN|Hunan|0
+Baizhifang|39.883|116.352|CN|Beijing|0
+Baizhong|26.136|118.738|CN|Fujian|0
+Baizhu|28.910|120.284|CN|Zhejiang|0
+Baizhu|22.952|112.345|CN|Guangdong|0
+Baizhuangji|35.721|102.574|CN|Qinghai|0

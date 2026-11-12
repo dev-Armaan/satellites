@@ -857,162 +857,460 @@ Jastrzębia|51.497|21.237|PL|Mazovia|60
 Jadowniki Mokre|50.165|20.728|PL|Lesser Poland|60
 Domaszowice|50.875|20.683|PL|Świętokrzyskie|60
 Urszulin|51.394|23.195|PL|Lublin|60
+Azyory|53.722|24.184|BY|Grodnenskaya|60
 Cielądz|51.716|20.344|PL|Łódź Voivodeship|60
 Firlej|51.559|22.508|PL|Lublin|60
 Głuchów|51.779|20.077|PL|Łódź Voivodeship|60
 Janowiec|51.324|21.889|PL|Lublin|60
+Janowo|53.316|20.671|PL|Warmia-Masuria|60
+Kanie|52.138|20.769|PL|Mazovia|60
 Krasne|52.924|20.967|PL|Mazovia|60
+Krzywa|50.101|21.735|PL|Subcarpathia|60
+Łukta|53.805|20.084|PL|Warmia-Masuria|60
+Miastkowo|53.151|21.815|PL|Podlasie|60
+Przychojec|50.298|22.401|PL|Subcarpathia|60
+Reguły|52.176|20.864|PL|Mazovia|60
+Rzeczyca Ziemiańska|50.844|22.185|PL|Lublin|60
 Samary|51.863|24.617|UA|Volyn|60
+Sarnów|51.857|22.302|PL|Lublin|60
 Siennica Różana|51.001|23.323|PL|Lublin|60
+Skoki|52.155|23.633|BY|Brest|60
 Strawczyn|50.942|20.421|PL|Świętokrzyskie|60
 Tarnawatka|50.532|23.396|PL|Lublin|60
 Wilga|51.852|21.378|PL|Mazovia|60
 Zaleszany|50.648|21.891|PL|Subcarpathia|60
+Złotoria|53.178|22.931|PL|Podlasie|60
+Yasnaya Polyana|54.569|22.446|RU|Kaliningrad Oblast|60
 Suraż|52.949|22.957|PL|Podlasie|60
+Dąbrowa|50.006|20.254|PL|Lesser Poland|60
 Mełgiew|51.225|22.784|PL|Lublin|60
+Płośnica|53.272|20.011|PL|Warmia-Masuria|60
 Potworów|51.509|20.722|PL|Mazovia|60
 Przytyk|51.466|20.906|PL|Mazovia|60
 Rachanie|50.538|23.547|PL|Lublin|60
+Świerże|51.217|23.735|PL|Lublin|60
+Gać|53.080|22.246|PL|Podlasie|60
 Szastarka|50.855|22.320|PL|Lublin|60
 Batorz|50.850|22.493|PL|Lublin|60
+Mielnik|52.332|23.044|PL|Podlasie|60
+Wiązowna|52.171|21.291|PL|Mazovia|60
+Aukstadvaris|54.579|24.527|LT|Vilnius|60
+Pakosław|51.192|21.176|PL|Mazovia|60
+Wiżajny|54.368|22.868|PL|Podlasie|60
+Grobla|50.126|20.426|PL|Lesser Poland|60
 Zatory|52.599|21.183|PL|Mazovia|60
 Skórzec|52.107|22.131|PL|Mazovia|60
 Karniewo|52.837|20.989|PL|Mazovia|60
+Babice|50.352|22.902|PL|Lublin|60
+Merkinė|54.163|24.185|LT|Alytus|60
+Dubeninki|54.289|22.559|PL|Warmia-Masuria|60
+Bielawa|52.109|21.132|PL|Mazovia|60
 Gościeradów|50.869|22.005|PL|Lublin|60
+Pawłów|51.147|23.212|PL|Lublin|60
+Rzepin Drugi|50.980|21.118|PL|Świętokrzyskie|60
+Gołków|52.042|20.971|PL|Mazovia|60
 Osieck|51.967|21.419|PL|Mazovia|60
 Nagłowice|50.678|20.107|PL|Świętokrzyskie|60
+Oblęgórek|50.954|20.484|PL|Świętokrzyskie|60
+Szczepanów|50.005|20.654|PL|Lesser Poland|60
+Rębków|51.876|21.554|PL|Mazovia|60
+Butrimonys|54.503|24.255|LT|Alytus|59
 Iwierzyce|50.030|21.754|PL|Subcarpathia|59
+Uhniv|50.368|23.749|UA|Lviv|59
 Dzwola|50.697|22.567|PL|Lublin|59
 Pomiechówek|52.471|20.729|PL|Mazovia|59
 Bogoria|50.652|21.260|PL|Świętokrzyskie|59
 Bolimów|52.077|20.164|PL|Łódź Voivodeship|59
 Obryte|52.716|21.249|PL|Mazovia|59
+Ostrowy Tuszowskie|50.318|21.652|PL|Subcarpathia|59
 Radzanów|52.942|20.092|PL|Mazovia|59
+Noreikiškės|54.887|23.848|LT|Kaunas|59
 Grabowiec|50.821|23.551|PL|Lublin|59
 Godzianów|51.897|20.036|PL|Łódź Voivodeship|59
+Stara Słupia|50.876|21.121|PL|Świętokrzyskie|59
+Bystrzyca|50.989|22.408|PL|Lublin|59
 Goszczyn|51.732|20.852|PL|Mazovia|59
 Klembów|52.407|21.332|PL|Mazovia|59
 Nielisz|50.801|23.045|PL|Lublin|59
 Radecznica|50.752|22.830|PL|Lublin|59
+Sztabin|53.682|23.098|PL|Podlasie|59
+Tuszów Narodowy|50.373|21.459|PL|Subcarpathia|59
 Wojciechów|51.235|22.246|PL|Lublin|59
+Zabawa|50.120|20.822|PL|Lesser Poland|59
+Bogumiłowice|50.007|20.867|PL|Lesser Poland|59
+Odporyszów|50.152|20.912|PL|Lesser Poland|59
+Jaktorów|52.078|20.545|PL|Mazovia|59
 Gózd|51.378|21.379|PL|Mazovia|59
 Stromiec|51.647|21.092|PL|Mazovia|59
+Jasiorówka|52.548|21.705|PL|Mazovia|59
+Przybysławice|51.369|22.281|PL|Lublin|59
+Śledziejowice|50.004|20.082|PL|Lesser Poland|59
+Sopotskin|53.832|23.656|BY|Grodnenskaya|59
+Andrzejewo|52.831|22.203|PL|Mazovia|59
 Drelów|51.912|22.872|PL|Lublin|59
 Leśna Podlaska|52.133|23.028|PL|Lublin|59
 Nieborów|52.078|20.069|PL|Łódź Voivodeship|59
+Otradnoye|54.533|21.748|RU|Kaliningrad Oblast|59
 Solec-Zdrój|50.366|20.890|PL|Świętokrzyskie|59
 Urzędów|50.993|22.143|PL|Lublin|59
+Tarnogóra|50.369|22.318|PL|Subcarpathia|59
+Virbalis|54.629|22.823|LT|Marijampolė County|59
 Jastrząb|51.247|20.948|PL|Mazovia|59
+Bakałarzewo|54.094|22.652|PL|Podlasie|59
 Oksa|50.729|20.101|PL|Świętokrzyskie|59
 Stoczek|52.543|21.900|PL|Mazovia|59
+Variazh|50.515|24.092|UA|Lviv|59
 Kłoczew|51.721|21.965|PL|Lublin|59
+Cholewiana Góra|50.350|22.075|PL|Subcarpathia|59
+Adamów|51.019|21.149|PL|Świętokrzyskie|59
+Białopole|50.986|23.731|PL|Lublin|59
 Sońsk|52.782|20.699|PL|Mazovia|59
 Wielkie Oczy|50.024|23.164|PL|Subcarpathia|59
 Bejsce|50.239|20.598|PL|Świętokrzyskie|59
 Jarczów|50.424|23.586|PL|Lublin|59
+Korobchicy|53.612|23.748|BY|Grodnenskaya|59
+Kozłów Biskupi|52.192|20.192|PL|Mazovia|59
+Uście Solne|50.119|20.514|PL|Lesser Poland|59
+Kamień|51.096|23.585|PL|Lublin|59
 Lipowiec Kościelny|53.105|20.176|PL|Mazovia|59
 Sobków|50.700|20.451|PL|Świętokrzyskie|59
 Wiśniew|52.073|22.294|PL|Mazovia|59
 Żarnów|51.246|20.175|PL|Łódź Voivodeship|59
 Harasiuki|50.475|22.473|PL|Subcarpathia|59
+Peretoky|50.577|24.390|UA|Lviv|59
 Obsza|50.315|22.957|PL|Lublin|59
+Zielonki-Wieś|52.253|20.806|PL|Mazovia|59
+Jasionówka|53.395|23.038|PL|Podlasie|59
+Korytnica|50.658|20.515|PL|Świętokrzyskie|59
+Siedliszcze|51.281|23.637|PL|Lublin|59
+Dorohusk-Osada|51.171|23.793|PL|Lublin|59
+Chylice|52.078|21.063|PL|Mazovia|59
+Duchnice|52.202|20.799|PL|Mazovia|59
 Wyśmierzyce|51.625|20.814|PL|Mazovia|59
+Ujezna|50.068|22.590|PL|Subcarpathia|59
+Olesk|51.111|24.190|UA|Volyn|59
+Kupychiv|50.994|24.716|UA|Volyn|59
+Pałecznica|51.483|22.673|PL|Lublin|59
+Świątki|53.927|20.243|PL|Warmia-Masuria|59
+Czermno|51.110|20.027|PL|Świętokrzyskie|59
+Wylewa|50.192|22.623|PL|Subcarpathia|59
+Zhuravnyky|50.430|24.689|UA|Volyn|59
 Rybczewice|51.029|22.851|PL|Lublin|58
 Poromiv|50.752|24.084|UA|Volyn|58
+Miłocice|50.233|20.043|PL|Lesser Poland|58
+Maków|51.346|21.253|PL|Mazovia|58
+Strzelce Wielkie|50.094|20.581|PL|Lesser Poland|58
+Koszyce|50.170|20.579|PL|Lesser Poland|58
+Nowy Dwór|53.632|23.544|PL|Podlasie|58
 Wilczyce|50.747|21.658|PL|Świętokrzyskie|58
+Maćkówka|50.030|22.517|PL|Subcarpathia|58
+Przerośl|54.252|22.658|PL|Podlasie|58
 Repki|52.386|22.391|PL|Mazovia|58
+Gorzyce|50.184|20.861|PL|Lesser Poland|58
 Pavlivka|50.626|24.459|UA|Volyn|58
+Rudnik Pierwszy|50.962|22.439|PL|Lublin|58
+Żabia Wola|51.120|22.515|PL|Lublin|58
+Wólka Grodziska|50.189|22.402|PL|Subcarpathia|58
 Goworowo|52.901|21.556|PL|Mazovia|58
+Kozłówka|51.449|22.497|PL|Lublin|58
+Książ Wielki|50.444|20.140|PL|Lesser Poland|58
+Olszewo Borki|53.068|21.536|PL|Mazovia|58
+Stanin|51.870|22.202|PL|Lublin|58
+Chernyshevskoye|54.639|22.733|RU|Kaliningrad Oblast|58
+Kocmyrzów|50.130|20.132|PL|Lesser Poland|58
+Krekhiv|50.051|23.816|UA|Lviv|58
+Linksmakalnis|54.758|23.928|LT|Kaunas|58
 Puchaczów|51.310|22.974|PL|Lublin|58
 Sterdyń|52.580|22.294|PL|Mazovia|58
+Siedliszcze|51.195|23.164|PL|Lublin|58
 Ceranów|52.631|22.228|PL|Mazovia|58
+Łukowa|50.725|20.539|PL|Świętokrzyskie|58
 Radomyśl|50.681|21.944|PL|Subcarpathia|58
+Bargłów Kościelny|53.774|22.823|PL|Podlasie|58
+Grabowo|53.466|22.154|PL|Podlasie|58
+Grunwald|53.484|20.094|PL|Warmia-Masuria|58
 Karczmiska|51.230|21.982|PL|Lublin|58
+Magnuszew|51.765|21.380|PL|Mazovia|58
+Mroczków Gościnny|51.380|20.391|PL|Łódź Voivodeship|58
+Platerów|52.303|22.820|PL|Mazovia|58
 Inowłódz|51.527|20.223|PL|Łódź Voivodeship|58
+Wielgolas|52.032|21.732|PL|Mazovia|58
 Tarłów|51.002|21.715|PL|Świętokrzyskie|58
 Żółkiewka|50.910|22.835|PL|Lublin|58
+Seirijai|54.229|23.817|LT|Alytus|58
+Buzhanka|50.749|24.127|UA|Volyn|58
+Łomna|52.382|20.779|PL|Mazovia|58
+Rogów|51.198|21.009|PL|Mazovia|58
 Stupsk|53.023|20.437|PL|Mazovia|58
+Głowaczów|51.623|21.318|PL|Mazovia|58
+Jabłonka|53.497|20.559|PL|Warmia-Masuria|58
 Jeziorzany|51.602|22.277|PL|Lublin|58
 Łączna|51.002|20.797|PL|Świętokrzyskie|58
+Narewka|52.833|23.763|PL|Podlasie|58
+Pawłów|51.254|20.815|PL|Mazovia|58
+Przybyszew|51.663|20.852|PL|Mazovia|58
+Wąsewo|52.874|21.673|PL|Mazovia|58
 Ciepielów|51.248|21.575|PL|Mazovia|58
+Sorkwity|53.846|21.140|PL|Warmia-Masuria|58
+Pidtsyria|51.594|24.956|UA|Volyn|58
+Hanna|51.719|23.504|PL|Lublin|58
 Korczew|52.353|22.613|PL|Mazovia|58
+Kostomłoty|51.976|23.656|PL|Lublin|58
 Nur|52.668|22.322|PL|Mazovia|58
+Melnyky-Mostyshche|51.687|24.830|UA|Volyn|58
+Mirów Stary|51.186|21.043|PL|Mazovia|58
 Niedźwiada|51.544|22.691|PL|Lublin|58
+Baczków|50.034|20.441|PL|Lesser Poland|58
+Syalyets|52.587|24.868|BY|Brest|58
 Rusinów|51.437|20.587|PL|Mazovia|58
+Swarzów|50.195|20.956|PL|Lesser Poland|58
+Baranówka|50.144|20.103|PL|Lesser Poland|58
+Jaworowa|52.145|20.958|PL|Mazovia|58
+Kalinowo|53.874|22.672|PL|Warmia-Masuria|58
 Kozubszczyzna|51.223|22.427|PL|Lublin|58
 Ojrzeń|52.766|20.543|PL|Mazovia|58
 Sienno|51.088|21.483|PL|Mazovia|58
+Kachyn|51.495|24.799|UA|Volyn|57
 Miączyn|50.738|23.501|PL|Lublin|57
+Zdziechowice Pierwsze|50.793|22.106|PL|Subcarpathia|57
 Korytnica|52.414|21.849|PL|Mazovia|57
+Kozłów|50.827|20.161|PL|Świętokrzyskie|57
 Rokitno|52.121|23.295|PL|Lublin|57
+Ubieszyn|50.164|22.580|PL|Subcarpathia|57
+Wola Idzikowska|51.097|22.984|PL|Lublin|57
+Przyborów|50.028|21.341|PL|Subcarpathia|57
 Bałtów|51.018|21.544|PL|Świętokrzyskie|57
+Konopnica|51.228|22.461|PL|Lublin|57
+Zaborów|52.262|20.677|PL|Mazovia|57
 Krzeszów|50.404|22.342|PL|Subcarpathia|57
 Borki|51.722|22.521|PL|Lublin|57
 Czerniewice|51.654|20.156|PL|Łódź Voivodeship|57
+Sidra|53.552|23.450|PL|Podlasie|57
+Wieliczki|53.985|22.562|PL|Warmia-Masuria|57
+Dojazdów|50.122|20.112|PL|Lesser Poland|57
+Nieciecza|50.152|20.849|PL|Lesser Poland|57
+Gołotczyzna|52.789|20.691|PL|Mazovia|57
+Birky|51.247|24.076|UA|Volyn|57
 Kampinos|52.268|20.463|PL|Mazovia|57
 Gnojno|50.603|20.849|PL|Świętokrzyskie|57
+Brzóstowa|50.891|21.483|PL|Świętokrzyskie|57
+Dziekanów Bajkowy|52.358|20.851|PL|Mazovia|57
+Wola Załężna|51.393|20.318|PL|Łódź Voivodeship|57
+Złota|50.662|21.683|PL|Świętokrzyskie|57
 Abramów|51.456|22.315|PL|Lublin|57
+Podlesie Duże|51.629|21.154|PL|Mazovia|57
+Nowa Iwiczna|52.092|21.004|PL|Mazovia|57
+Rudy-Rysie|50.061|20.638|PL|Lesser Poland|57
+Nizov’ye|54.702|20.738|RU|Kaliningrad Oblast|57
 Sitno|50.749|23.363|PL|Lublin|57
+Shchytyn|51.784|24.865|UA|Volyn|57
+Vydrychi|51.643|24.770|UA|Volyn|57
 Wolanów|51.380|20.977|PL|Mazovia|57
+Boża Wola|52.186|20.524|PL|Mazovia|57
+Czarna|52.368|21.226|PL|Mazovia|57
 Czerwin|52.949|21.758|PL|Mazovia|57
+Gawłuszowice|50.414|21.383|PL|Subcarpathia|57
 Gołymin-Ośrodek|52.808|20.873|PL|Mazovia|57
 Jastków|51.304|22.435|PL|Lublin|57
+Ludwinów|51.348|21.095|PL|Mazovia|57
 Sobienie Jeziory|51.933|21.303|PL|Mazovia|57
 Turośń Kościelna|53.015|23.055|PL|Podlasie|57
+Paluknys|54.501|24.985|LT|Vilnius|57
 Spiczyn|51.341|22.754|PL|Lublin|57
+Jazgarzew|52.039|20.996|PL|Mazovia|57
 Iłów|52.340|20.027|PL|Mazovia|57
 Troszyn|53.031|21.731|PL|Mazovia|57
 Wieniawa|51.362|20.795|PL|Mazovia|57
 Trojanów|51.692|21.811|PL|Mazovia|57
+Gniewoszów|51.474|21.813|PL|Mazovia|57
 Lubochnia|51.608|20.054|PL|Łódź Voivodeship|57
+Mostyshche|51.663|24.827|UA|Volyn|57
+Dębowiec|50.798|23.332|PL|Lublin|57
+Trześń|50.224|21.673|PL|Subcarpathia|57
+Lychyny|51.451|24.784|UA|Volyn|57
+Jesionka|52.024|20.354|PL|Mazovia|57
+Kąkolewnica Wschodnia|51.905|22.707|PL|Lublin|57
+Kosin|50.818|21.914|PL|Lublin|57
+Królewiec|52.205|21.557|PL|Mazovia|57
 Wiślica|50.349|20.674|PL|Świętokrzyskie|57
 Sosnowica|51.521|23.092|PL|Lublin|57
 Rzeczniów|51.128|21.440|PL|Mazovia|57
+Wysokie|50.754|23.222|PL|Lublin|57
+Chyliczki|52.085|21.070|PL|Mazovia|57
 Świercze|52.671|20.764|PL|Mazovia|57
 Przesmyki|52.268|22.584|PL|Mazovia|57
+Złota|51.772|20.158|PL|Łódź Voivodeship|57
+Bukowiec Opoczyński|51.417|20.266|PL|Łódź Voivodeship|57
+Pidrichchia|51.584|24.798|UA|Volyn|56
+Żmudź|51.018|23.676|PL|Lublin|56
+Hucisko|50.277|22.299|PL|Subcarpathia|56
+Kamionka|52.058|20.982|PL|Mazovia|56
 Dzierzgowo|53.153|20.663|PL|Mazovia|56
+Sosnówka|50.902|21.088|PL|Świętokrzyskie|56
+Zaręby Kościelne|52.757|22.124|PL|Mazovia|56
 Borkowice|51.320|20.683|PL|Mazovia|56
+Widuchowa|50.490|20.797|PL|Świętokrzyskie|56
 Wietrzychowice|50.191|20.765|PL|Lesser Poland|56
+Lelis|53.182|21.558|PL|Mazovia|56
+Stanisławów|50.509|23.139|PL|Lublin|56
+Trzeszczany|50.821|23.737|PL|Lublin|56
+Błonie|50.213|21.484|PL|Subcarpathia|56
+Ostrowy Baranowskie|50.338|21.658|PL|Subcarpathia|56
+Ożarów|51.294|22.300|PL|Lublin|56
+Szudziałowo|53.299|23.655|PL|Podlasie|56
+Uchanie|50.909|23.652|PL|Lublin|56
+Wielka Wieś|51.189|20.592|PL|Świętokrzyskie|56
+Wierzbica|51.025|22.109|PL|Lublin|56
 Strzyżowice|51.048|22.440|PL|Lublin|56
 Górzno|51.847|21.709|PL|Mazovia|56
+Krasne|50.864|23.172|PL|Lublin|56
+Grabowo|54.226|22.241|PL|Warmia-Masuria|56
+Niedźwiedź|50.224|20.094|PL|Lesser Poland|56
+Słupia|50.383|21.040|PL|Świętokrzyskie|56
+Grodzisk|52.584|22.738|PL|Podlasie|56
 Gierzwałd|53.541|20.089|PL|Warmia-Masuria|56
 Stary Zamość|50.820|23.172|PL|Lublin|56
+Giby|54.043|23.356|PL|Podlasie|56
 Miastków Kościelny|51.884|21.825|PL|Mazovia|56
 Opinogóra Górna|52.906|20.718|PL|Mazovia|56
+Sobótka|50.796|21.676|PL|Świętokrzyskie|56
 Wodynie|52.040|21.956|PL|Mazovia|56
 Zakrzew|50.890|22.591|PL|Lublin|56
+Wielgie|51.242|21.496|PL|Mazovia|56
+Smyków|50.144|21.127|PL|Lesser Poland|56
+Kuczbork-Wieś|53.083|20.043|PL|Mazovia|56
 Tczów|51.326|21.447|PL|Mazovia|56
+Gwoździec|50.376|21.991|PL|Subcarpathia|56
+Porazava|52.937|24.366|BY|Grodnenskaya|56
+Jeleniewo|54.206|22.912|PL|Podlasie|56
+Bobrowniki|51.549|21.933|PL|Lublin|56
+Klukowo|52.777|22.507|PL|Podlasie|56
+Łukowa|50.325|22.370|PL|Subcarpathia|56
 Ruda Maleniecka|51.146|20.224|PL|Świętokrzyskie|56
+Siedlce|50.743|20.493|PL|Świętokrzyskie|56
+Potok Wielki|50.601|20.227|PL|Świętokrzyskie|56
 Rybno|52.243|20.103|PL|Mazovia|56
+Trzcianne|53.346|22.683|PL|Podlasie|56
+Franciszków|52.021|20.331|PL|Mazovia|56
 Telatyn|50.527|23.840|PL|Lublin|56
+Przyłęk|50.276|21.606|PL|Subcarpathia|56
 Wysokie|50.911|22.666|PL|Lublin|56
+Baranowo|53.826|21.447|PL|Warmia-Masuria|56
+Czarnów|52.056|21.098|PL|Mazovia|56
+Drwinia|50.098|20.442|PL|Lesser Poland|56
+Janików|51.571|21.582|PL|Mazovia|56
+Rzepin Pierwszy|50.983|21.076|PL|Świętokrzyskie|56
 Sadowie|50.853|21.369|PL|Świętokrzyskie|56
+Świniary Stare|50.537|21.531|PL|Świętokrzyskie|56
+Wiśniowa|50.593|21.252|PL|Świętokrzyskie|56
+Żabno|50.676|21.969|PL|Subcarpathia|56
+Mechowiec|50.286|21.811|PL|Subcarpathia|56
+Krasne|51.133|23.190|PL|Lublin|56
+Oseredek|50.428|23.162|PL|Lublin|56
+Prypiat|51.496|24.118|UA|Volyn|55
+Czersk|51.959|21.231|PL|Mazovia|55
+Czyże|52.771|23.423|PL|Podlasie|55
+Kolno|53.997|20.995|PL|Warmia-Masuria|55
+Luborzyca|50.136|20.114|PL|Lesser Poland|55
+Zabrodzie|52.510|21.418|PL|Mazovia|55
+Brzozowa Gać|51.398|22.179|PL|Lublin|55
 Suchożebry|52.259|22.253|PL|Mazovia|55
+Bystre|50.379|22.396|PL|Subcarpathia|55
+Paprotnia|51.631|21.662|PL|Lublin|55
+Bystrzyca|51.774|22.314|PL|Lublin|55
+Moshchena|51.260|24.606|UA|Volyn|55
+Pidborochchia|51.763|24.937|UA|Volyn|55
 Siemień|51.629|22.772|PL|Lublin|55
+Jaświły|53.480|22.949|PL|Podlasie|55
+Miłki|53.943|21.883|PL|Warmia-Masuria|55
 Szydłowo|53.081|20.451|PL|Mazovia|55
+Wólka Łętowska|50.323|22.207|PL|Subcarpathia|55
+Pogorzel|52.114|21.587|PL|Mazovia|55
 Tuczępy|50.517|20.992|PL|Świętokrzyskie|55
 Sadkowice|51.725|20.515|PL|Łódź Voivodeship|55
+Książenice|52.078|20.697|PL|Mazovia|55
+Sławno|51.387|21.012|PL|Mazovia|55
+Stanisławów|52.411|20.964|PL|Mazovia|55
 Krynice|50.588|23.382|PL|Lublin|55
+Kawęczyn|50.675|22.946|PL|Lublin|55
+Mazowszany|51.339|21.136|PL|Mazovia|55
+Gvardeyskoye|54.486|20.636|RU|Kaliningrad Oblast|55
 Łopiennik Górny|51.041|23.018|PL|Lublin|55
+Oleksiivka|51.646|24.972|UA|Volyn|55
+Rzeczków|51.267|21.060|PL|Mazovia|55
+Gózd|50.984|20.766|PL|Świętokrzyskie|55
 Winnica|52.643|20.941|PL|Mazovia|55
+Zaborów|50.147|20.690|PL|Lesser Poland|55
 Przyłęk|51.309|21.747|PL|Mazovia|55
+Przybysławice|50.161|20.803|PL|Lesser Poland|55
 Jakubów|52.220|21.680|PL|Mazovia|55
+Grójec|50.898|21.474|PL|Świętokrzyskie|55
+Krasne|51.415|22.957|PL|Lublin|55
+Sabaudia|50.471|23.441|PL|Lublin|55
+Wiśniowa|50.807|21.089|PL|Świętokrzyskie|55
 Radziejowice|52.008|20.548|PL|Mazovia|55
+Pałecznica|50.290|20.303|PL|Lesser Poland|55
+Świerczów|51.115|20.630|PL|Świętokrzyskie|55
 Rudnik|50.880|22.973|PL|Lublin|55
+Brzeźnica Bychawska|51.528|22.751|PL|Lublin|55
 Baćkowice|50.792|21.232|PL|Świętokrzyskie|55
+Janikowo|54.222|20.461|PL|Warmia-Masuria|55
+Kościelec|50.201|20.391|PL|Lesser Poland|55
+Mielno|53.514|20.193|PL|Warmia-Masuria|55
+Bolesław|50.273|20.901|PL|Lesser Poland|55
+Nevir|51.874|24.988|UA|Volyn|55
 Nowodwór|51.639|22.102|PL|Lublin|55
+Olszanka|51.032|23.020|PL|Lublin|55
+Kostry|51.696|22.915|PL|Lublin|55
+Prędocin|51.148|21.327|PL|Mazovia|55
+Żabno|50.853|22.774|PL|Lublin|55
 Dąbrówka|52.484|21.298|PL|Mazovia|55
+Spręcowo|53.880|20.438|PL|Warmia-Masuria|55
+Teklyne|51.628|24.793|UA|Volyn|55
+Chotylub|50.238|23.227|PL|Subcarpathia|54
+Huszlew|52.138|22.834|PL|Lublin|54
+Korycin|53.445|23.091|PL|Podlasie|54
+Ludmiłówka|50.932|22.033|PL|Lublin|54
 Paradyż|51.306|20.114|PL|Łódź Voivodeship|54
+Psary|52.714|21.191|PL|Mazovia|54
 Klwów|51.534|20.636|PL|Mazovia|54
+Rybno|52.569|21.408|PL|Mazovia|54
 Mniszków|51.370|20.039|PL|Łódź Voivodeship|54
+Ołtarzew|52.212|20.759|PL|Mazovia|54
+Leżachów|50.145|22.619|PL|Subcarpathia|54
 Regimin|52.942|20.553|PL|Mazovia|54
+Bałtów|51.490|22.023|PL|Lublin|54
+Kobylnica|51.646|21.577|PL|Mazovia|54
+Jarosławiec|50.908|23.700|PL|Lublin|54
 Krzynowłoga Mała|53.158|20.786|PL|Mazovia|54
+Moszczanka|51.600|21.966|PL|Lublin|54
 Sosnówka|51.751|23.338|PL|Lublin|54
 Łaziska|51.142|21.879|PL|Lublin|54
+Miechowice Wielkie|50.191|20.744|PL|Lesser Poland|54
+Miechowice Małe|50.169|20.770|PL|Lesser Poland|54
 Obrazów|50.693|21.650|PL|Świętokrzyskie|54
 Dorohusk|51.155|23.803|PL|Lublin|54
+Šeštokai|54.358|23.445|LT|Alytus|54
+Kawęczyn|51.713|22.001|PL|Lublin|54
+Miedniewice|52.083|20.302|PL|Mazovia|54
+Stare Grabie|52.370|21.319|PL|Mazovia|54
+Wokowice|50.006|20.700|PL|Lesser Poland|54
+Godów|50.968|21.187|PL|Świętokrzyskie|54
+Masłomiąca|50.162|20.001|PL|Lesser Poland|54
 Pokrzywnica|52.621|21.019|PL|Mazovia|54
+Racławice|50.326|20.237|PL|Lesser Poland|54
+Somianka|52.561|21.293|PL|Mazovia|54
+Czarnocin|53.214|22.077|PL|Podlasie|54
+Wólka|51.265|22.638|PL|Lublin|54
+Łagów|51.367|21.751|PL|Mazovia|54
+Janowo|53.352|21.918|PL|Podlasie|54
+Wiśniew|52.258|21.725|PL|Mazovia|54
+Juragiai|54.795|23.803|LT|Kaunas|54
+Wymysłów|50.969|21.343|PL|Świętokrzyskie|54
+Nowe Brusno|50.245|23.318|PL|Subcarpathia|54
+Czerwonka-Parcel|52.216|20.265|PL|Mazovia|54
 Potok Wielki|50.791|22.216|PL|Lublin|54
+Hrebenne|50.873|24.014|PL|Lublin|54
 Puszcza Mariańska|51.979|20.350|PL|Mazovia|54
 Podedwórze|51.688|23.200|PL|Lublin|54
 Czernice Borowe|53.032|20.719|PL|Mazovia|54
@@ -1083,6 +1381,7 @@ Paprotnia|52.301|22.468|PL|Mazovia|45
 Bielany|52.342|22.249|PL|Mazovia|45
 Czerwonka|52.893|21.215|PL|Mazovia|44
 Kawęczyn Nowy|51.886|20.247|PL|Łódź Voivodeship|41
+Babice|52.250|20.851|PL|Mazovia|0
 Belsk Duży|51.826|20.808|PL|Mazovia|0
 Bodzechów|50.907|21.437|PL|Świętokrzyskie|0
 Dobrosyn|50.132|23.842|UA|Lviv|0

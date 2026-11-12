@@ -37,6 +37,7 @@ Burlington|44.476|-73.212|US|Vermont|93
 Bury St Edmunds|52.246|0.711|GB|England|92
 Burke|38.793|-77.272|US|Virginia|92
 Buritis|-10.212|-63.829|BR|Rondônia|92
+Burgas Airport|42.570|27.515|BG|Burgas|92|f
 Burjassot|39.510|-0.413|ES|Valencia|92
 Burhaniye|39.500|26.973|TR|Balıkesir|92
 Burriana|39.889|-0.085|ES|Valencia|91
@@ -109,6 +110,8 @@ Burlington|42.678|-88.276|US|Wisconsin|81
 Buriti Alegre|-18.140|-49.040|BR|Goiás|80
 Burley|42.536|-113.793|US|Idaho|80
 Bures-sur-Yvette|48.700|2.171|FR|Île-de-France|80
+Burbank Bob Hope Airport|34.201|-118.359|US|California|80|f
+Bürgenstock|47.000|8.398|CH|Lucerne|80|f
 Burgum|53.192|5.990|NL|Friesland|80
 Burlington|40.071|-74.865|US|New Jersey|80
 Burgau|48.432|10.410|DE|Bavaria|80
@@ -127,6 +130,8 @@ Burnside|44.702|-63.601|CA|Nova Scotia|78
 Burcht|51.204|4.343|BE|Flanders|77
 Buriti dos Montes|-5.312|-41.097|BR|Piauí|77
 Burkhardtsdorf|50.733|12.917|DE|Saxony|77
+Burley Municipal Airport|42.542|-113.771|US|Idaho|77|f
+Burns Municipal Airport|43.592|-118.955|US|Oregon|77|f
 Burgkunstadt|50.141|11.252|DE|Bavaria|77
 Burton|32.436|-80.724|US|South Carolina|77
 Bururi|-3.949|29.624|BI|Bururi|77
@@ -144,11 +149,15 @@ Burley in Wharfedale|53.910|-1.758|GB|England|76
 Burwell|53.293|0.035|GB|England|76
 Burpham|51.260|-0.544|GB|England|75
 Bureya|49.813|129.813|RU|Amur Oblast|75
+Burevestnik Airport|44.922|147.619|RU|Sakhalin Oblast|74|f
+Burwash Airport|61.371|-139.041|CA|Yukon|74|f
 Burang|30.296|81.175|CN|Tibet|74
 Bürmoos|47.983|12.918|AT|Salzburg|74
 Burg Stargard|53.495|13.310|DE|Mecklenburg-Vorpommern|74
 Burnt Forest|0.217|35.432|KE|Uasin Gishu County|74
 Burmā|32.219|35.785|JO|Jerash|74
+Burlington International Airport|44.471|-73.152|US|Vermont|73|f
+Bursa Archaeological Museum|40.196|29.040|TR|Bursa Province|73|f
 Burla|53.340|78.335|RU|Altai Krai|73
 Burgheim|48.700|11.016|DE|Bavaria|73
 Burdalyk|38.453|64.375|TM|Lebap|73
@@ -161,6 +170,7 @@ Burg|53.998|9.257|DE|Schleswig-Holstein|73
 Burias|11.446|122.550|PH|Western Visayas|73
 Burago di Molgora|45.596|9.382|IT|Lombardy|73
 Burnham|41.639|-87.557|US|Illinois|72
+Burns Lake Airport|54.376|-125.951|CA|British Columbia|72|f
 Burlington|-24.625|31.220|ZA|Mpumalanga|72
 Burguillos|37.584|-5.967|ES|Andalusia|72
 Burton|53.267|-0.567|GB|England|72
@@ -194,6 +204,9 @@ Burmakino|57.417|40.237|RU|Yaroslavl Oblast|70
 Burbank|46.200|-119.013|US|Washington|70
 Bürs|47.150|9.800|AT|Vorarlberg|70
 Burguillos del Cerro|38.380|-6.590|ES|Extremadura|70
+Burgaski Zaliv|42.500|27.546|BG|Burgas|70|f
+Burgos Villafria Airport|42.358|-3.621|ES|Castille and León|70|f
+Burketown Airport|-17.749|139.534|AU|Queensland|70|f
 Burney|40.882|-121.661|US|California|70
 Bürglen|47.549|9.149|CH|Thurgau|70
 Buritinópolis|-14.457|-46.437|BR|Goiás|70
@@ -210,6 +223,8 @@ Burswood|-31.959|115.904|AU|Western Australia|69
 Burns|43.586|-119.054|US|Oregon|69
 Buriti de Goiás|-16.181|-50.431|BR|Goiás|69
 Burgsinn|50.150|9.651|DE|Bavaria|69
+Burnpur Airport|23.631|86.976|IN|West Bengal|69|f
+Burry Holms|51.609|-4.313|GB|Wales|69|f
 Burgio|37.601|13.288|IT|Sicily|69
 Burlington|38.407|-82.536|US|Ohio|69
 Burlington|41.572|-84.308|US|Ohio|69
@@ -230,6 +245,8 @@ Burton upon Stather|53.649|-0.685|GB|England|68
 Buriticá|6.719|-75.907|CO|Antioquia|68
 Buracan|13.600|123.500|PH|Bicol Region|67
 Burabod|13.269|123.416|PH|Bicol Region|67
+Burgh Island|50.279|-3.900|GB|England|67|f
+Burlington Island|40.091|-74.845|US|New Jersey|67|f
 Burqah|31.897|35.254|PS|West Bank|67
 Burin|47.083|-55.191|CA|Newfoundland and Labrador|67
 Burrum Heads|-25.185|152.613|AU|Queensland|67
@@ -245,6 +262,7 @@ Büron|47.212|8.094|CH|Lucerne|66
 Burlats|43.636|2.318|FR|Occitanie|66
 Burstwick|53.732|-0.140|GB|England|66
 Burla|47.790|25.927|RO|Suceava|66
+Bureinskiy Khrebet|50.000|133.000|RU|Khabarovsk|65|f
 Burghead|57.701|-3.490|GB|Scotland|65
 Burnt Store Marina|26.765|-82.051|US|Florida|65
 Burns Lake|54.230|-125.761|CA|British Columbia|65
@@ -270,6 +288,7 @@ Bursuceni|47.651|26.475|RO|Suceava|63
 Burgpreppach|50.141|10.650|DE|Bavaria|63
 Burns|36.053|-87.313|US|Tennessee|63
 Bureng|13.417|-15.283|GM|Lower River|63
+Burg Maus|50.172|7.696|DE|Rheinland-Pfalz|63|f
 Burgwindheim|49.827|10.596|DE|Bavaria|63
 Burton|41.471|-81.145|US|Ohio|63
 Burujón|39.901|-4.297|ES|Castille-La Mancha|63
@@ -305,6 +324,17 @@ Burdaard|53.294|5.879|NL|Friesland|61
 Burra|-33.672|138.928|AU|South Australia|61
 Burgschwalbach|50.283|8.083|DE|Rheinland-Pfalz|61
 Burgeta|32.324|34.962|IL|Central District|61
+Buramsan|37.663|127.095|KR|Gyeonggi-do|61|f
+Burao Airport|9.500|45.567|SO|Togdheer|61|f
+Burg Meersburg|47.694|9.270|DE|Baden-Wurttemberg|61|f
+Burghley House|52.643|-0.452|GB|England|61|f
+Burj Dubayy|25.268|55.308|AE|Dubai|61|f
+Burke Mountain|44.571|-71.892|US|Vermont|61|f
+Burlington-Alamance Regional Airport|36.045|-79.478|US|North Carolina|61|f
+Burney Island|-13.590|136.236|AU|Northern Territory|61|f
+Burnside Bridge|45.523|-122.667|US|Oregon|61|f
+Burnt Springs Range|37.648|-114.738|US|Nevada|61|f
+Bursa Yenişehir Airport|40.255|29.563|TR|Bursa Province|61|f
 Burylove|48.021|30.375|UA|Mykolaiv|61
 Burzenin|51.461|18.832|PL|Łódź Voivodeship|61
 Burlacha Balka|46.340|30.664|UA|Odesa|61
@@ -313,31 +343,327 @@ Burgistein|46.785|7.500|CH|Bern|60
 Burgau|47.143|16.096|AT|Styria|60
 Buran|48.300|39.615|UA|Luhansk|60
 Burneside|54.353|-2.762|GB|England|60
+Burila Mică|44.420|22.586|RO|Mehedinți County|60
 Burjuc|45.950|22.483|RO|Hunedoara County|60
+Burweg|53.625|9.266|DE|Lower Saxony|60
+Büren an der Aare|47.140|7.372|CH|Bern|60
+Bursol’|53.168|78.443|RU|Altai Krai|60
+Burgin|37.753|-84.767|US|Kentucky|60
+Burk's Falls|45.617|-79.400|CA|Ontario|60
+Buren-Khem|51.651|95.008|RU|Republic of Tyva|60
+Buras|29.352|-89.524|US|Louisiana|60
 Burton Pidsea|53.763|-0.107|GB|England|59
 Burgos|40.391|8.996|IT|Sardinia|59
+Burduca|44.743|25.405|RO|Dâmbovița County|59
+Burdyuh|48.481|26.892|UA|Chernivtsi|59
+Burnsville|34.841|-88.315|US|Mississippi|59
+Burseryd|57.200|13.283|SE|Jönköping|59
+Burk|47.287|12.495|AT|Salzburg|59
+Burrweiler|49.248|8.078|DE|Rheinland-Pfalz|59
+Burrton|38.024|-97.670|US|Kansas|59
+Burlingame|38.754|-95.835|US|Kansas|59
+Burgerbrug|52.748|4.703|NL|North Holland|59
+Burnham Market|52.945|0.726|GB|England|59
+Bursuci|46.222|27.863|RO|Vaslui County|59
 Burolo|45.481|7.934|IT|Piedmont|59
+Burunucu|36.347|33.924|TR|Mersin|59
+Burseryd|57.367|14.783|SE|Jönköping|59
+Burdivka|46.807|30.437|UA|Odesa|59
 Burganes de Valverde|41.921|-5.782|ES|Castille and León|59
+Burdea|44.449|24.898|RO|Arges|59
+Burnside|36.989|-84.600|US|Kentucky|59
+Burgusio|46.711|10.529|IT|Trentino-Alto Adige|58
+Burgen|50.211|7.390|DE|Rheinland-Pfalz|58
+Burgkemnitz|51.684|12.401|DE|Saxony-Anhalt|58
+Bursuc-Deal|47.325|26.676|RO|Iași County|58
+Burr Oak|41.847|-85.319|US|Michigan|58
+Burches Run Wildlife Management Area|39.972|-80.625|US|West Virginia|58|f
+Bureinskiy Zapovednik|51.821|134.496|RU|Khabarovsk|58|f
+Burg Gutenfels|50.088|7.766|DE|Rheinland-Pfalz|58|f
+Burg Hugstein|47.921|7.193|FR|Grand Est|58|f
+Burgess Mountain|43.752|-74.357|US|New York|58|f
+Buri|15.237|39.933|ER|Northern Red Sea|58|f
+Burlington Municipal Airport|40.783|-91.125|US|Iowa|58|f
+Burlington Municipal Airport|42.690|-88.304|US|Wisconsin|58|f
+Burnet Municipal Kate Craddock Field|30.738|-98.239|US|Texas|58|f
+Burnette Rock|-75.383|-143.217|AQ||58|f
+Burney Mountain|40.807|-121.628|US|California|58|f
+Burnside Island|-22.105|114.510|AU|Western Australia|58|f
+Burnt Hills|37.410|-121.551|US|California|58|f
+Burnt Peak|34.682|-118.577|US|California|58|f
+Burrinjuck Dam|-34.998|148.585|AU|New South Wales|58|f
+Burt’s Island|32.275|-64.826|BM|Warwick|58|f
+Burtis Island|-73.067|-125.483|AQ||58|f
+Buru island|-3.236|127.100|ID|Maluku|58|f
+Burying Hill|41.956|-70.666|US|Massachusetts|58|f
+Burkhun|54.825|100.823|RU|Irkutsk Oblast|58
+Burwash Common|50.985|0.341|GB|England|58
+Burekup|-33.307|115.814|AU|Western Australia|58
+Burgauberg|47.148|16.124|AT|Burgenland|58
+Burua|-23.950|151.217|AU|Queensland|58
+Buren|53.447|5.799|NL|Friesland|58
 Buronzo|45.480|8.266|IT|Piedmont|57
 Buriasco|44.872|7.412|IT|Piedmont|57
+Burke|31.232|-94.769|US|Texas|57
+Burgh|51.689|3.733|NL|Zeeland|57
+Burleigh|39.046|-74.852|US|New Jersey|57
+Bürchen|46.281|7.815|CH|Valais|57
+Bursins|46.453|6.291|CH|Vaud|57
+Burrelton|56.521|-3.301|GB|Scotland|57
+Burton Leonard|54.069|-1.501|GB|England|57
+Burunköy|37.703|27.506|TR|Aydın|57
+Burton Bradstock|50.703|-2.728|GB|England|57
+Bury|50.543|3.594|BE|Wallonia|57
+Bure|45.526|10.871|IT|Veneto|56
+Burdignin|46.221|6.424|FR|Auvergne-Rhône-Alpes|56
+Burgstall|52.408|11.697|DE|Saxony-Anhalt|56
+Buranovo|56.589|53.332|RU|Udmurtiya Republic|56
+Burum|53.273|6.229|NL|Friesland|56
+Burlești|47.758|26.828|RO|Botoșani County|56
+Burlington|42.053|-88.548|US|Illinois|56
+Bure|50.089|5.260|BE|Wallonia|56
+Burgscheidungen|51.247|11.642|DE|Saxony-Anhalt|56
+Burg Hohenstein|50.192|8.057|DE|Hesse|56
+Burbach|50.108|6.518|DE|Rheinland-Pfalz|56
+Burgkirchen|48.204|13.100|AT|Upper Austria|56
+Burhām|31.990|35.174|PS|West Bank|56
+Burmageçit|38.964|39.539|TR|Tunceli|56
+Burmadere|41.305|42.789|TR|Ardahan|56
+Burlington|40.480|-86.395|US|Indiana|56
 Burke|43.182|-99.292|US|South Dakota|55
+Burgen|49.883|7.000|DE|Rheinland-Pfalz|55
+Burton in Lonsdale|54.144|-2.534|GB|England|55
+Bürdenbach|50.604|7.516|DE|Rheinland-Pfalz|55
+Buruni|2.559|73.107|MV|Dhaalu Atholhu|55
 Bürserberg|47.146|9.777|AT|Vorarlberg|55
+Burcukaya|38.813|42.221|TR|Bitlis|55
+Burston|52.405|1.141|GB|England|55
+Burgnac|45.726|1.151|FR|New Aquitaine|55
+Bursucani|46.044|27.772|RO|Galați County|55
+Burghclere|51.349|-1.324|GB|England|55
+Burton|53.260|-3.025|GB|England|55
+Burnt Islands|47.600|-58.882|CA|Newfoundland and Labrador|55
+Burglahr|50.618|7.497|DE|Rheinland-Pfalz|55
+Burnside|35.751|-109.625|US|Arizona|55
+Burden|37.313|-96.754|US|Kansas|55
+Burkhala|62.648|149.114|RU|Magadan Oblast|54
+Burgfried|46.879|15.834|AT|Styria|54
+Burandt Lake|44.849|-93.805|US|Minnesota|54|f
+Búrfell|64.079|-19.818|IS|South|54|f
+Búrfellshyrna|65.838|-18.725|IS|Northeast|54|f
+Burg Hoheneck|49.521|10.506|DE|Bavaria|54|f
+Burg Lockenhaus|47.404|16.425|AT|Burgenland|54|f
+Burgaeschisee|47.170|7.669|CH|Bern|54|f
+Burgfelder Böllat|48.242|8.925|DE|Baden-Wurttemberg|54|f
+Burgumer Mar|53.191|6.044|NL|Friesland|54|f
+Buri Ram Airport|15.229|103.253|TH|Buriram|54|f
+Burke Lake Park|38.761|-77.307|US|Virginia|54|f
+Burke Lakefront Airport|41.517|-81.683|US|Ohio|54|f
+Bürkelkopf|46.989|10.348|CH|Grisons|54|f
+Burlingame Reservoir|41.910|-71.745|US|Rhode Island|54|f
+Burni bitoraj - Vrh Bitoraj|45.293|14.791|HR|Primorje-Gorski Kotar|54|f
+Burnt Island|-52.028|-59.184|FK||54|f
+Burnt Island|49.896|-6.354|GB|England|54|f
+Burnt Mountain|34.535|-84.362|US|Georgia|54|f
+Burntside Lake|47.936|-91.982|US|Minnesota|54|f
+Buromskiy Island|-66.534|93.000|AQ||54|f
+Buromskiy, Cape|-69.000|156.150|AQ||54|f
+Burrill Airport|42.439|-122.859|US|Oregon|54|f
+Bursa Atatürk Stadyumu|40.193|29.049|TR|Bursa Province|54|f
+Burt Lake|45.470|-84.667|US|Michigan|54|f
+Burton Point|-66.260|-66.881|AQ||54|f
+Burtons Bay|37.625|-75.641|US|Virginia|54|f
+Burzet|44.740|4.244|FR|Auvergne-Rhône-Alpes|54
+Burunçayır|37.764|37.793|TR|Adıyaman Province|54
+Burt|43.197|-94.220|US|Iowa|54
+Buriton|50.975|-0.949|GB|England|54
+Burlington Junction|40.446|-95.066|US|Missouri|54
 Burfjord|69.938|22.052|NO|Troms|52
 Burón|43.025|-5.051|ES|Castille and León|51
 Burbáguena|41.018|-1.338|ES|Aragon|50
 Bureta|41.816|-1.488|ES|Aragon|49
+Bura East Airport|-1.189|39.814|KE|Tana River County|49|f
+Burbank Hills|38.832|-113.810|US|Utah|49|f
+Burch Peaks|-66.867|53.033|AQ||49|f
+Burch, Mount|-70.817|164.417|AQ||49|f
+Burdell Island|38.156|-122.555|US|California|49|f
+Burdick Peak|-62.635|-60.256|AQ||49|f
+Burdick South Peak|-62.644|-60.259|AQ||49|f
+Burdick West Peak|-62.631|-60.271|AQ||49|f
+Burg Gleichen|50.880|10.839|DE|Thuringia|49|f
+Burg Greifenstein|48.348|16.248|AT|Lower Austria|49|f
+Burg Gutenberg|47.065|9.500|LI|Balzers|49|f
+Burg Hohnstein|50.979|14.109|DE|Saxony|49|f
+Burg Kreuzenstein|48.383|16.317|AT|Lower Austria|49|f
+Burg Liechtenstein|48.092|16.271|AT|Lower Austria|49|f
+Burg Regenstein|51.815|10.960|DE|Saxony-Anhalt|49|f
+Burg Vlotho|52.171|8.860|DE|North Rhine-Westphalia|49|f
+Burghausen Castle|48.164|12.832|DE|Bavaria|49|f
+Burgruine Aichelberg|46.645|13.961|AT|Carinthia|49|f
+Burgsee|54.511|9.536|DE|Schleswig-Holstein|49|f
+Burgseeli|46.697|7.886|CH|Bern|49|f
+Burgstall Thüngfelderstein|49.744|11.248|DE|Bavaria|49|f
+Burias Island|12.940|123.141|PH|Bicol Region|49|f
+Buried Mountain|33.649|-115.856|US|California|49|f
+Burj al Arab|25.141|55.185|AE|Dubai|49|f
+Burke Island|-73.250|-104.667|AQ||49|f
+Burkett Islands|-66.933|50.317|AQ||49|f
+Burleigh Head National Park|-28.094|153.458|AU|Queensland|49|f
+Burmester Dome|-83.335|-51.053|AQ||49|f
+Burnett County Airport|45.822|-92.369|US|Wisconsin|49|f
+Burnett Island|-66.225|110.589|AQ||49|f
+Burnette Glacier|-72.017|170.050|AQ||49|f
+Burney Peak|-62.309|-58.863|AQ||49|f
+Burnham, Mount|-71.567|159.833|AQ||49|f
+Burnham, Mount|-77.267|-142.083|AQ||49|f
+Burnside Ridges|-69.233|157.167|AQ||49|f
+Burnt Island|32.284|-64.796|BM|Warwick|49|f
+Burnum|44.000|15.983|HR|Šibenik-Knin|49|f
+Burra Voe|60.500|-1.050|GB|Scotland|49|f
+Burraneer Bay|-34.065|151.135|AU|New South Wales|49|f
+Burray|58.850|-2.900|GB|Scotland|49|f
+Burrendong Dam|-32.667|149.107|AU|New South Wales|49|f
+Burrinjuck National Park|-34.966|148.594|AU|New South Wales|49|f
+Burrow Head|54.667|-4.400|GB|Scotland|49|f
+Burrowa-Pine Mountain National Park|-36.096|147.723|AU|Victoria|49|f
+Burrows Glacier|-78.033|163.933|AQ||49|f
+Burrstone Hill|43.100|-75.280|US|New York|49|f
+Bursey, Mount|-76.017|-132.633|AQ||49|f
+Burton Island Glacier|-66.833|90.333|AQ||49|f
+Burton, Mount|-72.550|166.733|AQ||49|f
+Burwick Holm|60.150|-1.300|GB|Scotland|49|f
+Bury Mount|52.133|-0.988|GB|England|49|f
+Burgwalde|51.383|10.050|DE|Thuringia|48
 Burrington|51.329|-2.749|GB|England|47
+Burgsponheim|49.833|7.717|DE|Rheinland-Pfalz|47
+Burtscheid|49.733|6.950|DE|Rheinland-Pfalz|42
+Burgk|50.556|11.718|DE|Thuringia|40
+Burapha University|13.286|100.925|TH|Chon Buri|40|f
+Burbank Western Channel|34.183|-118.319|US|California|40|f
+Burcht van Leiden|52.159|4.492|NL|South Holland|40|f
+Burdette Park|37.944|-87.637|US|Indiana|40|f
+Burg Are|50.518|6.995|DE|Rheinland-Pfalz|40|f
+Burg Bärnfels|49.714|11.344|DE|Bavaria|40|f
+Burg Berwartstein|49.108|7.863|DE|Rheinland-Pfalz|40|f
+Burg Bramberg|50.108|10.635|DE|Bavaria|40|f
+Burg Egloffstein|49.703|11.257|DE|Bavaria|40|f
+Burg Epprechtstein|50.146|11.917|DE|Bavaria|40|f
+Burg Gaillenreuth|49.780|11.288|DE|Bavaria|40|f
+Burg Gößweinstein|49.770|11.334|DE|Bavaria|40|f
+Burg Grenzau|50.450|7.655|DE|Rheinland-Pfalz|40|f
+Burg Hiltpoltstein|49.660|11.322|DE|Bavaria|40|f
+Burg Lahneck|50.306|7.612|DE|Rheinland-Pfalz|40|f
+Burg Lichtenberg|49.556|7.356|DE|Rheinland-Pfalz|40|f
+Burg Liebenstein|50.770|10.852|DE|Thuringia|40|f
+Burg Nassenfels|48.796|11.229|DE|Bavaria|40|f
+Burg Rabeneck|49.823|11.327|DE|Bavaria|40|f
+Burg Rabenstein|49.822|11.371|DE|Bavaria|40|f
+Burg Rheinstein|49.994|7.858|DE|Rheinland-Pfalz|40|f
+Burg Rieneck|50.094|9.646|DE|Bavaria|40|f
+Burg Schönburg|51.161|11.868|DE|Saxony-Anhalt|40|f
+Burg Thuisbrunn|49.688|11.247|DE|Bavaria|40|f
+Burg Thurant|50.248|7.453|DE|Rheinland-Pfalz|40|f
+Burgas Peninsula|-62.633|-59.917|AQ||40|f
+Burger Point|58.209|-135.580|US|Alaska|40|f
+Bürgeralpe|47.783|15.317|AT|Styria|40|f
+Bürgermeister-Müller-Museum Solnhofen|48.892|10.992|DE|Bavaria|40|f
+Burges and James Gadsden Park|51.400|-117.052|CA|British Columbia|40|f
+Burgess Falls State Natural Area|36.049|-85.587|US|Tennessee|40|f
+Burgess Glacier|-85.433|171.917|AQ||40|f
+Burgfeldstand|46.723|7.795|CH|Bern|40|f
+Burgh Castle|52.583|1.652|GB|England|40|f
+Bürglen|47.258|8.537|CH|Zurich|40|f
+Burgoyne Bay|48.795|-123.536|CA|British Columbia|40|f
+Burgruine Finkenstein|46.547|13.903|AT|Carinthia|40|f
+Burgruine Haselstein|50.681|9.851|DE|Hesse|40|f
+Burgruine Landskron|46.642|13.897|AT|Carinthia|40|f
+Burgruine Leienfels|49.709|11.370|DE|Bavaria|40|f
+Burgruine Waischenfeld|49.845|11.343|DE|Bavaria|40|f
+Burgruine Wolfsberg|49.689|11.311|DE|Bavaria|40|f
+Burgsee|53.624|11.415|DE|Mecklenburg-Vorpommern|40|f
+Burgstall Altes Schloss|49.724|11.242|DE|Bavaria|40|f
+Burgstall Strahlenfels|49.653|11.377|DE|Bavaria|40|f
+Burgstall Wartleiten|49.807|11.228|DE|Bavaria|40|f
+Burgstall Wolkenstein|49.755|11.240|DE|Bavaria|40|f
+Burholme Park|40.068|-75.090|US|Pennsylvania|40|f
+Buried Hills|36.904|-115.824|US|Nevada|40|f
+Burin Peninsula|47.000|-55.665|CA|Newfoundland and Labrador|40|f
+Burke Bay|47.650|-122.622|US|Washington|40|f
+Burke Hill|42.658|-74.979|US|New York|40|f
+Burke Lake|38.763|-77.299|US|Virginia|40|f
+Burkeville Covered Bridge|42.508|-72.710|US|Massachusetts|40|f
+Burl Lakes|48.267|-80.366|CA|Ontario|40|f
+Burley Hill|42.017|-72.209|US|Connecticut|40|f
+Burley Lagoon|47.395|-122.633|US|Washington|40|f
+Burley Wood|50.669|-4.128|GB|England|40|f
+Burlington Railroad Overpass|41.041|-93.366|US|Iowa|40|f
+Burlock Peak|-86.050|-132.333|AQ||40|f
+Burnaby Island|52.399|-131.318|CA|British Columbia|40|f
+Burnaby Range|53.530|-129.619|CA|British Columbia|40|f
+Burnaby Village Museum|49.240|-122.965|CA|British Columbia|40|f
+Burneside Hall|54.356|-2.756|GB|England|40|f
+Burnet Park|43.041|-76.184|US|New York|40|f
+Burnett Bay|73.751|-124.007|CA|Northwest Territories|40|f
+Burnett Field|32.760|-96.811|US|Texas|40|f
+Burnham Barrier|38.896|-76.964|US|District of Columbia|40|f
+Burnham Mountain|43.506|-74.301|US|New York|40|f
+Burnham Park|16.410|120.595|PH|Cordillera|40|f
+Burnham Park|41.824|-87.590|US|Illinois|40|f
+Burnham Point State Park|44.162|-76.264|US|New York|40|f
+Burnhope Transmitting Station|54.822|-1.715|GB|England|40|f
+Burniston Range|55.633|-130.004|CA|British Columbia|40|f
+Burns Cove|47.107|-123.043|US|Washington|40|f
+Burns Glacier|-73.950|164.250|AQ||40|f
+Burns Lake Park|54.200|-125.720|CA|British Columbia|40|f
+Burns Park|34.797|-92.310|US|Arkansas|40|f
+Burnside Hill|42.169|-75.379|US|New York|40|f
+Burnside Park|41.825|-71.411|US|Rhode Island|40|f
+Burnsville Lake|38.825|-80.607|US|West Virginia|40|f
+Burnt Bay|49.250|-54.998|CA|Newfoundland and Labrador|40|f
+Burnt Knob|42.302|-74.119|US|New York|40|f
+Burnt Lake|45.351|-121.802|US|Oregon|40|f
+Burnt Mountain|43.691|-74.885|US|New York|40|f
+Burr Oak State Park|39.535|-82.031|US|Ohio|40|f
+Burr Pond State Park|41.869|-73.098|US|Connecticut|40|f
+Burradon in Coquetdale|55.350|-2.031|GB|England|40|f
+Burradon Tower|55.051|-1.569|GB|England|40|f
+Burrage Dome|-75.550|161.083|AQ||40|f
+Burrington Combe|51.326|-2.753|GB|England|40|f
+Burrington Covered Bridge|44.520|-71.969|US|Vermont|40|f
+Burroughs Mountain|46.906|-121.690|US|Washington|40|f
+Burroughs Range|42.008|-74.348|US|New York|40|f
+Burrow Mump|51.070|-2.916|GB|England|40|f
+Bursik, Mount|-79.717|-84.383|AQ||40|f
+Burt Castle|55.020|-7.502|IE|Ulster|40|f
+Burt Lake State Park|45.396|-84.634|US|Michigan|40|f
+Burton Creek State Park|39.195|-120.143|US|California|40|f
+Burton in Lonsdale Castle Hill|54.144|-2.537|GB|England|40|f
+Burton Lake|-68.626|78.100|AQ||40|f
+Burton Lake|45.235|-63.565|CA|Nova Scotia|40|f
+Burwell Castle|52.270|0.325|GB|England|40|f
+Bury Castle|51.032|-3.515|GB|England|40|f
+Burying Ground Hill|42.588|-74.984|US|New York|40|f
+Burg|49.967|6.350|DE|Rheinland-Pfalz|28
+Buraen|-10.286|123.858|ID|East Nusa Tenggara|0
+Buraga|-8.421|124.487|ID|East Nusa Tenggara|0
 Buranga|-4.801|122.983|ID|Southeast Sulawesi|0
 Burç|37.014|37.179|TR|Gaziantep|0
+Bureng|-8.120|112.617|ID|East Java|0
 Burgaltay|49.265|104.743|MN|Selenge Province|0
+Burgastai|45.125|118.974|CN|Inner Mongolia|0
+Burgdorf|52.144|10.218|DE|Lower Saxony|0
 Burgos|18.517|120.645|PH|Ilocos|0
 Burgos|17.332|120.495|PH|Ilocos|0
 Burgos|16.519|120.463|PH|Ilocos|0
 Burgos|16.058|119.865|PH|Ilocos|0
+Buri|-8.391|122.814|ID|East Nusa Tenggara|0
 Buritirana|-5.592|-47.015|BR|Maranhão|0
+Buriwutung|-8.183|123.809|ID|East Nusa Tenggara|0
 Būrkah|36.222|69.150|AF|Baghlan|0
 Burley|52.685|-0.696|GB|England|0
 Burmeso|-2.326|138.041|ID|Papua|0
+Burneh|-6.980|113.778|ID|East Java|0
+Burno|-8.085|113.072|ID|East Java|0
 Burri Al Drayssah|15.604|32.567|SD|Khartoum|0
 Burri Al Lamab|15.601|32.575|SD|Khartoum|0
 Burri Al Mahas|15.606|32.560|SD|Khartoum|0
@@ -345,7 +671,13 @@ Burri Al Shreef|15.604|32.581|SD|Khartoum|0
 Burrington|52.350|-2.817|GB|England|0
 Burton|51.716|-4.922|GB|Wales|0
 Burton Constable|53.817|-0.200|GB|England|0
+Buruan Tengah|-8.458|115.139|ID|Bali|0
 Buruanga|11.844|121.888|PH|Western Visayas|0
+Burujul|-7.556|107.718|ID|West Java|0
+Burujul|-7.038|107.976|ID|West Java|0
+Burujul|-7.546|108.685|ID|West Java|0
+Burujul Tengah|-7.629|108.073|ID|West Java|0
 Buruku|7.460|9.205|NG|Benue State|0
 Burūm|14.364|48.980|YE|Muhafazat Hadramaout|0
 Burunga|8.962|-79.672|PA|Panamá Oeste Province|0
+Burythorpe|54.070|-0.794|GB|England|0

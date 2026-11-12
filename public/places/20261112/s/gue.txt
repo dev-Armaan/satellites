@@ -1,4 +1,4 @@
-Guerrero|17.667|-100.000|MX||128|r
+Guerrero|17.667|-100.000|MX||129|r
 Guédiawaye|14.774|-17.402|SN|Dakar|110
 Guelmim-Oued Noun|29.002|-10.039|MA||109|r
 Guelph|43.546|-80.256|CA|Ontario|103
@@ -18,16 +18,21 @@ Guézon|6.742|-7.117|CI|Montagnes|86
 Guézon|6.567|-7.702|CI|Montagnes|86
 Guéssabo|6.737|-6.955|CI|Sassandra-Marahoue|85
 Guérande|47.328|-2.429|FR|Pays de la Loire|84
+Guernsey|49.459|-2.579|GG||84|f
 Guéret|46.172|1.872|FR|New Aquitaine|84
 Guéyo|5.688|-6.071|CI|Bas-Sassandra District|84
 Guerrero Negro|27.960|-114.056|MX|Baja California Sur|82
 Guebwiller|47.917|7.200|FR|Grand Est|82
 Gueifães|41.217|-8.600|PT|Porto|82
 Guézon-Tahouaké|7.076|-7.187|CI|Montagnes|81
+Guemar Airport|33.513|6.783|DZ|El Oued|80|f
+Guevavi Mission (historical)|31.410|-110.902|US|Arizona|80|f
 Guérin-Kouka|9.691|0.611|TG|Kara|80
 Gueugnon|46.604|4.063|FR|Bourgogne-Franche-Comté|79
 Guéoul|15.483|-16.350|SN|Louga|78
+Guerrero Negro Airport|28.026|-114.024|MX|Baja California|78|f
 Guénange|49.299|6.205|FR|Grand Est|77
+Guernsey Airport|49.435|-2.602|GG|Forest|77|f
 Gueltat Zemmour|25.143|-12.372|MA|Laayoune-Sakia El Hamra|77
 Güeñes|43.213|-3.095|ES|Basque Country|76
 Guéréda|14.517|22.083|TD|Wadi Fira|76
@@ -61,6 +66,7 @@ Guerville|48.944|1.734|FR|Île-de-France|66
 Guenndé|7.855|-3.092|CI|Zanzan District|66
 Güevéjar|37.258|-3.597|ES|Andalusia|66
 Güémez|23.919|-99.006|MX|Tamaulipas|66
+Guépratte Island|-64.495|-62.995|AQ||65|f
 Guédiboua|6.735|-6.528|CI|Sassandra-Marahoue|65
 Guengat|48.042|-4.205|FR|Brittany|65
 Guedjigbeu I|6.788|-6.773|CI|Sassandra-Marahoue|64
@@ -83,7 +89,42 @@ Guewenheim|47.753|7.093|FR|Grand Est|62
 Guernsey|42.270|-104.742|US|Wyoming|62
 Guenzou|10.107|-7.838|CI|Denguélé District|61
 Guéreins|46.103|4.773|FR|Auvergne-Rhône-Alpes|61
+Guébriant Islands|-67.801|-68.406|AQ||61|f
+Guéguen, Mount|-65.067|-64.000|AQ||61|f
+Guétouo|6.952|-8.031|CI|Montagnes|60
 Guerrero|28.309|-100.379|MX|Coahuila|60
+Guessling-Hémering|49.025|6.659|FR|Grand Est|59
+Guemps|50.916|1.998|FR|Hauts-de-France|59
+Guelile|11.095|42.648|DJ||59
+Guédékipréa|6.728|-6.541|CI|Sassandra-Marahoue|59
+Guerting|49.188|6.623|FR|Grand Est|59
+Guernes|49.011|1.637|FR|Île-de-France|59
+Gueberschwihr|48.004|7.276|FR|Grand Est|59
+Gueukpopleu|7.423|-8.294|CI|Montagnes|58
+Gueupleu|7.498|-7.615|CI|Montagnes|58
+Guéiyaopleu|6.848|-8.268|CI|Montagnes|58
+Guemes Island|48.550|-122.625|US|Washington|58|f
+Guesalaga Peninsula|-62.480|-59.666|AQ||58|f
+Guéhenno|47.893|-2.640|FR|Brittany|58
+Guédéguhé|6.756|-6.428|CI|Sassandra-Marahoue|58
+Guédoloupleu|7.141|-8.288|CI|Montagnes|57
+Gueutiagbeupleu|7.309|-8.254|CI|Montagnes|57
+Guerrero|20.367|-99.007|MX|Hidalgo|57
+Guétta|7.288|-8.263|CI|Montagnes|57
+Guerrero|19.433|-97.688|MX|Puebla|57
+Gueidépleu|6.675|-8.416|CI|Montagnes|57
+Guézon-Kirou|7.193|-7.431|CI|Montagnes|57
+Guéfra|6.649|-6.547|CI|Sassandra-Marahoue|57
+Guenviller|49.106|6.799|FR|Grand Est|56
+Gueltas|48.095|-2.796|FR|Brittany|55
+Gueures|49.844|0.962|FR|Normandy|55
+Guerchy|47.891|3.439|FR|Bourgogne-Franche-Comté|54
+Guéguen Point|-65.154|-64.113|AQ||54|f
+Guelatao de Juárez|17.317|-96.495|MX|Oaxaca|54
+Guelaguechi|16.120|-95.296|MX|Oaxaca|54
+Guerrero Glacier|-78.533|-84.250|AQ||49|f
+Guelph Lake|43.600|-80.250|CA|Ontario|40|f
+Guernsey Dam|42.290|-104.764|US|Wyoming|40|f
 Guenfouda|34.484|-2.046|MA|Oriental|0
 Guernica|-34.916|-58.381|AR|Buenos Aires|0
 Guerra|18.559|-69.701|DO|Santo Domingo Province|0

@@ -6,11 +6,13 @@ Biaora|23.921|76.911|IN|Madhya Pradesh|94
 Biantang|34.423|117.645|CN|Jiangsu|93
 Biak|-1.177|136.082|ID|Papua|92
 Biarritz|43.481|-1.557|FR|New Aquitaine|90
+Biarritz Pays Basque Airport|43.468|-1.523|FR|New Aquitaine|90|f
 Białogard|54.007|15.988|PL|West Pomerania|88
 Biankouma|7.739|-7.614|CI|Montagnes|87
 Biancavilla|37.644|14.867|IT|Sicily|87
 Bianouan|6.012|-3.190|CI|Comoé District|85
 Biao|7.163|125.521|PH|Davao Region|82
+Białystok-Krywlany Airport|53.103|23.171|PL|Podlasie|81|f
 Biassono|45.629|9.271|IT|Lombardy|81
 Bialong|6.981|124.889|PH|Soccsksargen|79
 Biatorbágy|47.471|18.819|HU|Pest County|79
@@ -32,6 +34,7 @@ Bias Fortes|-21.606|-43.757|BR|Minas Gerais|71
 Biandronno|45.813|8.709|IT|Lombardy|70
 Biała Rawska|51.808|20.473|PL|Łódź Voivodeship|70
 Bias|44.416|0.669|FR|New Aquitaine|70
+Biangabip Airport|-5.526|141.745|PG|Western Province|69|f
 Białowieża|52.700|23.867|PL|Podlasie|69
 Biancade|45.649|12.358|IT|Veneto|68
 Biała|50.386|17.660|PL|Opole Voivodeship|68
@@ -53,10 +56,31 @@ Bialata|7.129|-6.314|CI|Sassandra-Marahoue|62
 Białobrzegi|52.442|21.053|PL|Mazovia|62
 Bianzone|46.187|10.109|IT|Lombardy|61
 Biandrate|45.453|8.464|IT|Piedmont|61
+Białystok Ghetto|53.133|23.150|PL|Podlasie|61|f
 Biabou|13.194|-61.139|VC|Charlotte Parish|60
+Białopole|50.986|23.731|PL|Lublin|59
+Bīāshūsh|34.806|46.563|IR|Kermanshah Province|57
+Biauzzo|45.953|12.930|IT|Friuli Venezia Giulia|57
+Biaudos|43.551|-1.306|FR|New Aquitaine|57
 Biała|52.605|19.650|PL|Mazovia|56
+Białka|49.871|22.035|PL|Subcarpathia|56
+Bias|44.145|-1.218|FR|New Aquitaine|55
+Bīāhī|25.469|58.992|IR|Hormozgan|55
+Bians-les-Usiers|46.964|6.275|FR|Bourgogne-Franche-Comté|54
+Biafo Gyang Glacier|35.704|75.901|PK|Gilgit-Baltistan|54|f
+Biaho Glacier|35.722|76.143|PK|Gilgit-Baltistan|54|f
 Bianzano|45.773|9.918|IT|Lombardy|53
 Bianchi|39.101|16.410|IT|Calabria|51
 Biała Róża|51.262|19.546|PL|Łódź Voivodeship|0
+Bianba|28.188|91.273|CN|Tibet|0
 Biancheng|40.679|122.362|CN|Liaoning|0
+Biancheng|32.055|119.299|CN|Jiangsu|0
+Biandu|34.658|103.640|CN|Gansu|0
+Bianhe|29.816|113.083|CN|Hubei|0
 Bianjiang|49.558|128.473|CN|Heilongjiang|0
+Bianxiong|29.319|89.051|CN|Tibet|0
+Biaojiao|34.435|107.497|CN|Shaanxi|0
+Biaoshan|28.395|120.652|CN|Zhejiang|0
+Biaoxi|27.852|119.498|CN|Zhejiang|0
+Biashizang|35.601|102.940|CN|Gansu|0
+Biaslantang Kaler|-8.336|115.629|ID|Bali|0

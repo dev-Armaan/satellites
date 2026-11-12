@@ -6,7 +6,10 @@ Siemianowice Śląskie|50.327|19.029|PL|Silesia|97
 Siena|43.318|11.331|IT|Tuscany|95
 Sieradz|51.596|18.730|PL|Łódź Voivodeship|93
 Sierra Vista|31.555|-110.304|US|Arizona|93
+Siegessäule|52.515|13.350|DE|State of Berlin|92|f
 Siegburg|50.800|7.208|DE|North Rhine-Westphalia|92
+Siem Reap International Airport|13.411|103.813|KH|Siem Reap|91|f
+Sierra Nevada|36.579|-118.293|US|California|90|f
 Sierpc|52.857|19.669|PL|Mazovia|86
 Sierre|46.292|7.536|CH|Valais|85
 Siemiatycze|52.427|22.862|PL|Podlasie|84
@@ -16,26 +19,36 @@ Siemensstadt|52.541|13.263|DE|State of Berlin|82
 Siedlce|54.347|18.617|PL|Pomerania|82
 Sierra Madre|34.162|-118.053|US|California|81
 Siétinfla|6.828|-5.730|CI|Sassandra-Marahoue|80
+Sierra Maestra|20.052|-76.742|CU|Granma Province|78|f
 Siegsdorf|47.823|12.643|DE|Bavaria|78
+Sierra Nevada|8.557|-70.993|VE|Mérida|78|f
+Sierra Nevada de Santa Marta|10.828|-73.693|CO||78|f
 Siebnen|47.174|8.898|CH|Schwyz|77
 Sierakowice|54.346|17.893|PL|Pomerania|77
 Sierra Grande|-41.605|-65.357|AR|Rio Negro|77
 Siesta Key|27.268|-82.545|US|Florida|76
+Sierra Blanca Regional Airport|33.463|-105.535|US|New Mexico|76|f
 Sieraków|52.651|16.080|PL|Greater Poland|76
 Siem Reab|11.400|104.864|KH|Siem Reap|75
 Siewierz|50.467|19.230|PL|Silesia|75
+Sierra de Salinas|36.405|-121.492|US|California|74|f
+Sierra Madre Mountains|34.902|-119.859|US|California|74|f
 Sierra View|41.012|-75.459|US|Pennsylvania|74
 Sievi|63.900|24.500|FI|North Ostrobothnia|73
 Siempurgo|9.520|-6.194|CI|Savanes District|73
 Siechnice|51.034|17.147|PL|Lower Silesia|73
 Siepraw|49.914|19.959|PL|Lesser Poland|73
+Siebengebirge|50.681|7.226|DE|North Rhine-Westphalia|72|f
 Sierning|48.043|14.309|AT|Upper Austria|72
 Siempre Viva|17.229|121.633|PH|Cagayan Valley|72
 Şieu-Măgheruş|47.083|24.383|RO|Bistrița-Năsăud County|72
+Sierra de Albarracín Comarca|40.433|-1.470|ES|Aragon|71|f
+Sierra Sky Park Airport|36.840|-119.870|US|California|71|f
 Siéblo Oula|5.667|-7.383|CI|Montagnes|71
 Sieci|43.788|11.394|IT|Tuscany|71
 Siegenburg|48.754|11.848|DE|Bavaria|71
 Sierra de Yeguas|37.124|-4.868|ES|Andalusia|70
+Sierra Cucapáh|32.390|-115.496|MX|Baja California|70|f
 Şieu|47.017|24.600|RO|Bistrița-Năsăud County|70
 Sierra Bullones|9.808|124.292|PH|Central Visayas|69
 Siegendorf im Burgenland|47.781|16.542|AT|Burgenland|69
@@ -44,6 +57,7 @@ Siershahn|50.486|7.780|DE|Rheinland-Pfalz|69
 Siersdorf|50.898|6.227|DE|North Rhine-Westphalia|69
 Siébly|7.295|-7.224|CI|Montagnes|69
 Şieuţ|46.983|24.650|RO|Bistrița-Năsăud County|69
+Sierra de Gata|40.197|-6.779|ES||69|f
 Siennica|52.092|21.619|PL|Mazovia|68
 Șieu|47.725|24.224|RO|Maramureş|68
 Siedove|47.079|38.154|UA|Donetsk|68
@@ -52,6 +66,12 @@ Sierentz|47.658|7.454|FR|Grand Est|68
 Siedliska|49.872|20.996|PL|Lesser Poland|67
 Siégouékou|6.343|-5.898|CI|Goh-Djiboua|67
 Siékro|5.678|-4.880|CI|Lagunes District|67
+SieboldHuis|52.160|4.484|NL|South Holland|67|f
+Sierra Ancha|33.958|-111.187|US|Arizona|67|f
+Sierra Blanca|33.374|-105.809|US|New Mexico|67|f
+Sierra Madre|15.500|-92.583|GT|El Progreso|67|f
+Sierra Madre de Oaxaca|17.000|-96.500|MX|Oaxaca|67|f
+Sierra Morena|38.000|-5.000|ES||67|f
 Sieniawa|50.178|22.610|PL|Subcarpathia|67
 Sieghartskirchen|48.255|16.012|AT|Lower Austria|66
 Sierra de Guadalupe|19.593|-99.159|MX|México|66
@@ -63,6 +83,9 @@ Sierck-les-Bains|49.439|6.358|FR|Grand Est|66
 Siedlinghausen|51.250|8.473|DE|North Rhine-Westphalia|66
 Siemiechów|49.854|20.906|PL|Lesser Poland|66
 Siesta Acres|28.758|-100.490|US|Texas|66
+Sierra Apaneca-Ilamatepec|13.917|-89.717|SV||65|f
+Sierra de Jájome|18.048|-66.166|PR|Cayey|65|f
+Sierra de las Uvas|32.482|-107.199|US|New Mexico|65|f
 Sierra de la Ventana|-38.138|-61.795|AR|Buenos Aires|65
 Siedlisko|51.769|15.814|PL|Lubusz|65
 Siekierczyn|51.122|15.194|PL|Lower Silesia|65
@@ -76,6 +99,10 @@ Siersleben|51.604|11.543|DE|Saxony-Anhalt|64
 Sierndorf|48.430|16.167|AT|Lower Austria|64
 Sierksdorf|54.066|10.770|DE|Schleswig-Holstein|63
 Siénandi|7.872|-3.565|CI|Zanzan District|63
+Sierra de la Culebra|41.880|-6.267|ES|Castille and León|63|f
+Sierra El Aliso|28.664|-109.692|MX|Sonora|63|f
+Sierra los Huicholes|22.131|-104.430|MX|Nayarit|63|f
+Sierra Madre Dam|34.176|-118.043|US|California|63|f
 Sielenbach|48.400|11.167|DE|Bavaria|63
 Siesta Shores|26.858|-99.254|US|Texas|63
 Siedenburg|52.693|8.940|DE|Lower Saxony|63
@@ -87,6 +114,17 @@ Sievershütten|53.842|10.112|DE|Schleswig-Holstein|61
 Siedleczka|49.961|22.379|PL|Subcarpathia|61
 Sieradza|50.135|20.929|PL|Lesser Poland|61
 Sierra de Agua|18.750|-97.242|MX|Veracruz|61
+Sierra Azul|37.169|-121.912|US|California|61|f
+Sierra Cuchillo|33.348|-107.599|US|New Mexico|61|f
+Sierra de Ávila|40.671|-4.954|ES|Castille and León|61|f
+Sierra de Cayey|18.115|-66.033|PR|Guayama|61|f
+Sierra de Cuera|43.355|-4.699|ES|Asturias|61|f
+Sierra de Espadán|39.950|-0.417|ES|Valencia|61|f
+Sierra de Quinchilca|-39.678|-72.057|CL|Araucania|61|f
+Sierra el Pinacate|31.791|-113.502|MX|Sonora|61|f
+Sierra Juárez|32.395|-115.903|MX|Baja California|61|f
+Sierrita Mountains|31.878|-111.195|US|Arizona|61|f
+Siete Pecados Islands|10.767|122.676|PH|Western Visayas|61|f
 Sierra Papacal|21.124|-89.730|MX|Yucatán|61
 Siemkowice|51.202|18.899|PL|Łódź Voivodeship|61
 Sieniawa|52.363|15.378|PL|Lubusz|61
@@ -97,19 +135,157 @@ Sierra Gorda|-22.891|-69.320|CL|Antofagasta|61
 Sierra-Engarcerán|40.269|-0.019|ES|Valencia|61
 Siebeldingen|49.209|8.051|DE|Rheinland-Pfalz|60
 Sieroszewice|51.633|17.972|PL|Greater Poland|60
+Siedlisko|52.986|16.386|PL|Greater Poland|60
 Siennica Różana|51.001|23.323|PL|Lublin|60
+Sieciechowice|50.244|19.973|PL|Lesser Poland|60
+Siengui-Sogo|7.921|-3.205|CI|Zanzan District|60
+Sierville|49.590|1.035|FR|Normandy|59
+Siedliszcze|51.281|23.637|PL|Lublin|59
+Siedlec Duży|50.630|19.132|PL|Silesia|59
+Siegerswoude|53.100|6.245|NL|Friesland|58
+Siempre Viva|30.746|-112.454|MX|Sonora|58
+Siedliszcze|51.195|23.164|PL|Lublin|58
+Siebert Rock|-64.816|-63.033|AQ||58|f
+Sielenwang|48.628|9.657|DE|Baden-Wurttemberg|58|f
+Sierra de Chuacús|15.042|-90.649|GT||58|f
+Sierra de Javalambre|40.100|-1.000|ES|Aragon|58|f
+Sierra de Las Villuercas|39.550|-5.450|ES|Extremadura|58|f
+Sierra de Utiel|39.600|-1.133|ES|Valencia|58|f
+Sierra de Vicort|41.375|-1.496|ES|Aragon|58|f
+Sierra del Moncayo|41.787|-1.840|ES|Aragon|58|f
+Sierra Diablo|31.423|-104.905|US|Texas|58|f
+Sierra Grande|36.706|-103.877|US|New Mexico|58|f
+Sierra Juárez|31.643|-115.643|MX|Baja California|58|f
+Sierra Madre Occidental|25.000|-105.000|MX||58|f
+Sierra Madre Range|16.341|121.937|PH||58|f
+Sierra Prieta|34.522|-112.570|US|Arizona|58|f
+Sierra San Pedro Mártir|30.876|-115.295|MX|Baja California|58|f
+Sierra Tacatrán|-42.500|-69.000|AR|Chubut|58|f
+Siedlec|49.954|20.319|PL|Lesser Poland|58
+Siemianice|51.180|18.143|PL|Greater Poland|58
 Sienno|51.088|21.483|PL|Mazovia|58
+Sietzsch|51.490|12.178|DE|Saxony-Anhalt|57
+Siedenbollentin|53.733|13.381|DE|Mecklenburg-Vorpommern|57
+Siegenfeld|48.037|16.176|AT|Lower Austria|57
+Siedlce|49.688|20.776|PL|Lesser Poland|57
+Siersthal|49.043|7.349|FR|Grand Est|57
+Sièn|12.693|-2.899|BF|Boucle du Mouhoun|57
+Sienso-Koroni|9.306|-7.103|CI|Denguélé District|57
+Sieniawka|50.896|14.844|PL|Lower Silesia|57
+Sietow|53.446|12.558|DE|Mecklenburg-Vorpommern|56
+Sieti|40.743|14.903|IT|Campania|56
+Siebigerode|51.565|11.428|DE|Saxony-Anhalt|56
+Siebenhaus|47.935|16.229|AT|Lower Austria|56
+Siebenbäumen|53.749|10.527|DE|Schleswig-Holstein|56
+Siestedt|52.318|11.092|DE|Saxony-Anhalt|56
+Sien|49.695|7.504|DE|Rheinland-Pfalz|56
+Siedlce|50.743|20.493|PL|Świętokrzyskie|56
+Siedlung|48.084|13.562|AT|Upper Austria|55
+Siegersdorf|47.900|16.350|AT|Lower Austria|55
 Siemień|51.629|22.772|PL|Lublin|55
+Siedlec|51.794|17.126|PL|Greater Poland|55
+Siempre Viva|-5.747|-78.668|PE|Amazonas|55
 Sierra Blanca|31.175|-105.357|US|Texas|55
 Siete Iglesias de Trabancos|41.352|-5.185|ES|Castille and León|55
+Sieniczno|50.268|19.612|PL|Lesser Poland|55
+Siedlce Ghetto|52.167|22.300|PL|Mazovia|54|f
+Siem Reap–Angkor International Airport|13.375|104.220|KH|Siem Reap|54|f
+Sierra Aguilada|33.315|-108.937|US|New Mexico|54|f
+Sierra Arana|37.316|-3.511|ES|Andalusia|54|f
+Sierra de Béjar|40.296|-5.747|ES||54|f
+Sierra de Cucalón|40.983|-1.133|ES|Aragon|54|f
+Sierra de Gredos|40.296|-5.095|ES||54|f
+Sierra de Gúdar|40.450|-0.700|ES|Aragon|54|f
+Sierra de las Ánimas|-34.680|-55.331|UY|Maldonado|54|f
+Sierra de Las Minas|15.155|-89.652|GT||54|f
+Sierra de las Mitras|25.718|-100.436|MX|Nuevo León|54|f
+Sierra de Montánchez|39.250|-5.917|ES|Extremadura|54|f
+Sierra de San Just|40.769|-0.807|ES|Aragon|54|f
+Sierra de Santa Cruz|15.689|-89.336|GT|Izabal Department|54|f
+Sierra de Tamaulipas|23.533|-98.517|MX|Tamaulipas|54|f
+Sierra de Urbasa|42.876|-2.087|ES|Navarre|54|f
+Sierra del Lacandón|17.199|-91.103|GT|Petén|54|f
+Sierra del Mugrón|38.932|-1.143|ES|Valencia|54|f
+Sierra Fría|22.216|-102.619|MX|Aguascalientes|54|f
+Sierra Grande Airport|-41.592|-65.339|AR|Rio Negro|54|f
+Sierra Island|-62.409|-59.801|AQ||54|f
+Sierra León Muerto|-25.930|-66.850|AR|Catamarca|54|f
+Sierra los Cuchumatanes|15.411|-90.898|GT||54|f
+Sierra Madera|30.593|-102.913|US|Texas|54|f
+Sierra Madre del Sur|17.000|-100.000|MX|Guerrero|54|f
+Sierra Mágina|37.746|-3.429|ES|Andalusia|54|f
+Sierra Nevada de Lagunas Bravas|-26.480|-68.580|AR|Catamarca|54|f
+Sierra Vicuña Mackenna|-24.565|-70.133|CL|Antofagasta|54|f
+Sierra Vista Municipal Libby Army Air Field|31.588|-110.344|US|Arizona|54|f
+Sievierodonetsk Airport|48.900|38.542|UA|Luhansk|54|f
 Siétamo|42.124|-0.281|ES|Aragon|54
+Siemyśl|54.028|15.534|PL|West Pomerania|54
+Siebenhirten|48.600|16.533|AT|Lower Austria|54
+Siedlec|50.694|19.365|PL|Silesia|54
 Sierra Mojada|27.289|-103.701|MX|Coahuila|54
 Sierro|37.322|-2.398|ES|Andalusia|53
+Siesbach|49.733|7.233|DE|Rheinland-Pfalz|53
 Siemiątkowo|52.881|20.029|PL|Mazovia|53
+Sierksrade|53.737|10.599|DE|Schleswig-Holstein|50
 Siegersdorf bei Herberstein|47.214|15.784|AT|Styria|49
 Sierra de Luna|42.048|-0.910|ES|Aragon|49
+Sieben Berge|52.026|9.826|DE|Lower Saxony|49|f
+Siege Dome|-84.267|172.367|AQ||49|f
+Siegfried Glacier|-69.552|-72.442|AQ||49|f
+Sierra Blanca|-40.360|-67.910|AR|Rio Negro|49|f
+Sierra Blanca|36.575|-4.903|ES|Andalusia|49|f
+Sierra de Alcaraz|38.619|-2.370|ES|Castille-La Mancha|49|f
+Sierra de Alcubierre|41.731|-0.541|ES||49|f
+Sierra de Alhama|36.993|-4.204|ES||49|f
+Sierra de Alpujata|36.604|-4.807|ES|Andalusia|49|f
+Sierra de Andia|42.850|-1.967|ES|Navarre|49|f
+Sierra de Aracena|37.933|-6.833|ES|Andalusia|49|f
+Sierra de Aralar|42.980|-2.052|ES||49|f
+Sierra de Baza|37.252|-2.749|ES||49|f
+Sierra de Cazorla|37.913|-2.976|ES|Andalusia|49|f
+Sierra de Cogollos|37.292|-3.531|ES|Andalusia|49|f
+Sierra de Crevillente|38.278|-0.858|ES|Valencia|49|f
+Sierra de Guadarrama|41.000|-3.800|ES||49|f
+Sierra de Guara|42.281|-0.146|ES|Aragon|49|f
+Sierra de la Ventana|-38.119|-61.968|AR|Buenos Aires|49|f
+Sierra de la Virgen|41.541|-1.717|ES|Aragon|49|f
+Sierra de las Nieves|36.691|-5.021|ES|Andalusia|49|f
+Sierra de Mijas|36.613|-4.650|ES|Andalusia|49|f
+Sierra de Quila|20.299|-104.018|MX|Jalisco|49|f
+Sierra de San Pedro|39.312|-6.548|ES||49|f
+Sierra de Sangra|-48.367|-72.350|AR||49|f
+Sierra de Segura|37.977|-2.776|ES|Andalusia|49|f
+Sierra del Tontal|-31.589|-69.176|AR|San Juan|49|f
+Sierra del Veladero|-28.041|-68.940|AR|La Rioja|49|f
+Sierra Madre Oriental|22.000|-99.500|MX||49|f
+Sierra Menera|40.711|-1.547|ES|Aragon|49|f
+Sierra Negra|18.986|-97.315|MX|Puebla|49|f
+Sierra Nevada|-38.594|-71.635|CL|Araucania|49|f
+Sierra Nevada|37.089|-2.784|ES||49|f
+Sierra Velluda|-37.450|-71.450|CL|Biobio|49|f
+Siebeneichen|53.511|10.618|DE|Schleswig-Holstein|48
+Sienhachenbach|49.700|7.483|DE|Rheinland-Pfalz|47
+Siebenbach|50.383|7.033|DE|Rheinland-Pfalz|46
+Sierscheid|50.457|6.917|DE|Rheinland-Pfalz|40
+Sieben Hengste|46.759|7.820|CH|Bern|40|f
+Siefker Ridge|-79.150|-85.317|AQ||40|f
+Siege Museum|37.233|-77.405|US|Virginia|40|f
+Siege of Saguntum|39.677|-0.280|ES|Valencia|40|f
+Siegfried Peak|-77.567|161.767|AQ||40|f
+Siegmund Peak|-77.583|161.767|AQ||40|f
+Siemiatkowski Glacier|-75.900|-144.200|AQ||40|f
+Sierra de Agalta National Park|15.010|-85.853|HN|Olancho Department|40|f
+Sierra de Alamos|26.946|-109.007|MX|Sonora|40|f
+Sierra de Francia|40.250|-6.000|ES|Extremadura|40|f
+Sierra de Grazalema Natural Park|36.769|-5.431|ES|Andalusia|40|f
+Sierra La Laguna|23.594|-109.969|MX|Baja California Sur|40|f
+Sierra Pinta|32.263|-113.543|US|Arizona|40|f
+Sierraville Dearwater Airport|39.584|-120.351|US|California|40|f
 Sienes|41.201|-2.653|ES|Castille-La Mancha|38
 Si’en|24.842|108.272|CN|Guangxi|0
+Si’erbao|40.797|120.738|CN|Liaoning|0
+Siegbach|50.739|8.418|DE|Hesse|0
 Siem Pang|14.117|106.388|KH|Stung Treng|0
+Siemerode|51.423|10.121|DE|Thuringia|0
 Sierra Imataca|8.394|-62.454|VE|Delta Amacuro|0
 Siete de Julio|-0.186|-76.782|EC|Sucumbíos|0

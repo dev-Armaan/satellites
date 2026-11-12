@@ -13,8 +13,11 @@ Temerluh|3.451|102.418|MY|Pahang|96
 Temryuk|45.269|37.398|RU|Krasnodar Krai|91
 Temblador|9.005|-62.645|VE|Monagas|91
 Temple City|34.107|-118.058|US|California|91
+Temple of Antoninus and Faustina|41.892|12.487|IT|Lazio|90|f
+Temple of Bel|34.547|38.274|SY|Homs|90|f
 Temse|51.128|4.214|BE|Flanders|88
 Temple Terrace|28.035|-82.389|US|Florida|88
+Temple of Apollo Epicurius|37.430|21.900|GR|Peloponnese|86|f
 Templeton-Est|45.494|-75.588|CA|Quebec|86
 Teminabuan|-1.442|132.014|ID|Southwest Papua|86
 Templeogue|53.295|-6.309|IE|Leinster|85
@@ -29,6 +32,8 @@ Tempoal de Sánchez|21.520|-98.388|MX|Veracruz|82
 Temirlanovka|42.600|69.258|KZ|Turkistan|82
 Temple|51.088|-113.947|CA|Alberta|80
 Temiskaming Shores|47.494|-79.715|CA|Ontario|80
+Temple of the Tooth|7.295|80.642|LK|Central Province|80|f
+Temple of Debod|40.424|-3.718|ES|Madrid|79|f
 Temirgoyevskaya|45.114|40.280|RU|Krasnodar Krai|79
 Temperance|41.779|-83.569|US|Michigan|79
 Temnikov|54.631|43.219|RU|Mordoviya Republic|78
@@ -37,13 +42,17 @@ Templeton|35.550|-120.706|US|California|78
 Templeton|42.556|-72.068|US|Massachusetts|77
 Temascal|18.242|-96.403|MX|Oaxaca|76
 Temozon|20.804|-88.202|MX|Yucatán|76
+Templo Mayor|19.435|-99.131|MX|Mexico City|76|f
 Temascalapa|19.828|-98.901|MX|México|76
 Templer Bestari|3.291|101.638|MY|Selangor|76
 Temax|21.151|-88.939|MX|Yucatán|76
 Temizhbekskaya|45.446|40.845|RU|Krasnodar Krai|76
 Templeuve-en-Pévèle|50.523|3.178|FR|Hauts-de-France|75
+Temoe|-23.333|-134.483|PF||75|f
+Temora Airport|-34.421|147.512|AU|New South Wales|75|f
 Temoac|18.772|-98.778|MX|Morelos|75
 Temamatla|19.203|-98.870|MX|México|75
+Temwen|6.848|158.324|FM|Pohnpei State|74|f
 Temin|5.532|-3.272|CI|Comoé District|74
 Temuka|-44.228|171.280|NZ|Canterbury|74
 Temirtau|53.138|87.454|RU|Kuzbass|73
@@ -52,11 +61,16 @@ Temeke|47.222|89.743|CN|Xinjiang|73
 Temple|33.737|-85.032|US|Georgia|73
 Temburong|4.583|115.167|BN||72|r
 Temizhbekskaya|45.451|41.039|RU|Stavropol Kray|72
+Tembagapura Timika Airport|-4.528|136.887|ID|Central Papua|71|f
+Temblor Range|35.324|-119.797|US|California|71|f
 Templeuve|50.644|3.280|BE|Wallonia|71
 Temyasovo|52.993|58.101|RU|Bashkortostan Republic|71
 Templemars|50.574|3.054|FR|Hauts-de-France|71
 Temiraul|43.253|46.825|RU|Dagestan|70
 Temoaya|19.470|-99.594|MX|México|70
+Temora Aviation Museum|-34.427|147.515|AU|New South Wales|69|f
+Temple Expiatori de la Sagrada Família|41.404|2.174|ES|Catalonia|69|f
+Temple of Olympian Zeus|37.969|23.734|GR|Attica|69|f
 Tëmkino|55.109|35.014|RU|Smolensk Oblast|69
 Temir|49.143|57.127|KZ|Aktobe|68
 Temascaltepec de González|19.043|-100.041|MX|México|68
@@ -71,6 +85,7 @@ Templeton|-43.550|172.467|NZ|Canterbury|66
 Temple|40.409|-75.922|US|Pennsylvania|65
 Temriuk|47.265|36.980|UA|Donetsk|65
 Témiscaming|46.721|-79.097|CA|Quebec|65
+Templet|78.417|16.721|SJ|Svalbard|65|f
 Temósachic|28.954|-107.830|MX|Chihuahua|65
 Temapache|21.065|-97.642|MX|Veracruz|65
 Templepatrick|54.683|-6.083|GB|Northern Ireland|64
@@ -78,24 +93,123 @@ Temalacaco|21.414|-98.847|MX|San Luis Potosí|64
 Temimilcingo|18.729|-99.160|MX|Morelos|64
 Templecombe|50.999|-2.416|GB|England|64
 Temaxcaltepec|16.166|-97.197|MX|Oaxaca|64
+Temple of Artemis|37.950|27.364|TR|İzmir Province|63|f
 Temelec|38.267|-122.493|US|California|63
 Temple View|-37.821|175.226|NZ|Waikato Region|63
 Temastián (La Cantera)|21.977|-103.525|MX|Jalisco|63
 Temple|42.818|-71.851|US|New Hampshire|63
 Témeni|38.237|22.125|GR|West Greece|62
 Temango|21.132|-98.691|MX|Hidalgo|61
+Temotuloto|-8.035|178.320|TV|Nukufetau|61|f
+Temple Butte|36.162|-111.825|US|Arizona|61|f
+Temple Crag|37.110|-118.493|US|California|61|f
+Temple of Literature|21.029|105.836|VN|Hanoi|61|f
+Temple of Venus and Rome|41.891|12.490|IT|Lazio|61|f
+Temple Peak|42.699|-109.171|US|Wyoming|61|f
+Temuco Maquehue Airport|-38.767|-72.637|CL|Araucania|61|f
+Temple|34.272|-98.236|US|Oklahoma|60
+Temilpa Viejo|18.699|-99.105|MX|Morelos|60
+Temalac|18.118|-98.952|MX|Guerrero|59
+Tembladera del Castillo|18.393|-96.499|MX|Oaxaca|59
+Temelli|37.575|41.845|TR|Mardin|59
+Těmice|49.002|17.265|CZ|South Moravian|59
+Temamatla|21.235|-98.762|MX|San Luis Potosí|59
+Tempe Butte|33.428|-111.936|US|Arizona|58|f
+Temple of Castor and Pollux|41.892|12.486|IT|Lazio|58|f
+Tembladera de la Selva 1|18.450|-96.518|MX|Oaxaca|58
+Temelín|49.193|14.349|CZ|South Bohemian Region|58
+Temozon Sur|20.687|-89.653|MX|Yucatán|58
+Temaxcalapa|18.428|-99.688|MX|Guerrero|57
+Temimilco|19.806|-97.095|MX|Veracruz|57
+Temmels|49.689|6.465|DE|Rheinland-Pfalz|56
+Temaxcalapa de Gabino Barreda|18.554|-98.606|MX|Puebla|56
 Templeton|51.772|-4.738|GB|Wales|56
+Temyrivka|47.825|36.571|UA|Zaporizhzhia|56
+Temerești|45.873|22.216|RO|Timiș County|56
+Temascales (El Jacal)|20.054|-100.170|MX|Michoacán|56
+Tempa la Mandra|40.293|15.667|IT|Campania|56
+Temple|44.685|-70.226|US|Maine|55
 Tempsford|52.171|-0.296|GB|England|55
+Temilpa Nuevo|18.712|-99.107|MX|Morelos|55
 Temotu Province|-10.728|165.939|SB||55|r
 Temù|46.250|10.466|IT|Lombardy|55
+Temple Sowerby|54.635|-2.602|GB|England|54
+Temaxcalapa|18.759|-97.368|MX|Puebla|54
+Tempelfjorden|78.404|17.076|SJ||54|f
+Temperance River State Park|47.554|-90.872|US|Minnesota|54|f
+Temple of Aphaea|37.754|23.533|GR|Attica|54|f
+Temple of Apollo Sosianus|41.892|12.480|IT|Lazio|54|f
+Te Manga|-21.236|-159.764|CK||49|f
+Te Motu-o-Kura / Bare Island|-39.834|177.028|NZ||49|f
+Tema Reef|-11.083|-165.633|CK||49|f
+Tempest Peak|-84.517|164.183|AQ||49|f
+Temple Glacier|-64.003|-59.961|AQ||49|f
+Temple Mountain|48.739|-116.721|US|Idaho|49|f
+Temple Newsam Park|53.783|-1.467|GB|England|49|f
+Temple of Asclepius|41.915|12.483|IT|Lazio|49|f
+Temple of Hadrian|41.900|12.479|IT|Lazio|49|f
+Temple of the Moon|38.446|-111.192|US|Utah|49|f
+Temple of the Sun|38.451|-111.193|US|Utah|49|f
+Temple of Vesta|41.892|12.486|IT|Lazio|49|f
+Temple Trees|6.915|79.848|LK|Western Province|49|f
+Templeton Peak|-77.292|161.834|AQ||49|f
+Templiner See|53.128|13.525|DE|Brandenburg|49|f
+Templiner See|52.365|13.019|DE|Brandenburg|49|f
+Templo Romano|37.885|-4.776|ES|Andalusia|49|f
+Temptation Peak|61.167|-149.523|US|Alaska|49|f
+Tempziner See|53.768|11.699|DE|Mecklenburg-Vorpommern|49|f
+Temagami Island|46.967|-80.050|CA|Ontario|40|f
+Temnac P-38G Lightning (historical)|61.248|-149.802|US|Alaska|40|f
+Temotufoliki|-5.660|176.114|TV|Nanumea|40|f
+Temperance Island|45.763|-85.034|US|Michigan|40|f
+Tempest Mountain|45.167|-109.792|US|Montana|40|f
+Tempio di Apollo|37.064|15.293|IT|Sicily|40|f
+Tempio di Minerva Medica|41.894|12.512|IT|Lazio|40|f
+Tempio di Portuno|41.889|12.481|IT|Lazio|40|f
+Tempio Voltiano|45.815|9.075|IT|Lombardy|40|f
+Temple Bar Airport|36.023|-114.334|US|Arizona|40|f
+Temple Mountain|42.822|-71.890|US|New Hampshire|40|f
+Temple Mountain|38.689|-110.682|US|Utah|40|f
+Temple of Athena|40.425|15.006|IT|Campania|40|f
+Temple of Athena Nike|37.972|23.725|GR|Attica|40|f
+Temple of Caesar|41.892|12.486|IT|Lazio|40|f
+Temple of Hatshepsut|25.737|32.609|EG|Red Sea|40|f
+Templeton Gap Floodway|38.884|-104.805|US|Colorado|40|f
+Templeton Lake|50.789|-116.575|CA|British Columbia|40|f
+Temana|-6.889|113.045|ID|East Java|0
+Temandangjero|-6.863|111.933|ID|East Java|0
 Temanggung|-7.319|110.193|ID|Central Java|0
+Temanjang|-7.093|111.393|ID|Central Java|0
+Temayang|-6.904|111.890|ID|East Java|0
+Tembalang|-8.070|112.335|ID|East Java|0
+Tembang|-6.991|115.266|ID|East Java|0
+Tembau|-8.469|115.168|ID|Bali|0
+Tembayangan Barat|-6.883|115.419|ID|East Java|0
+Tembeling|-7.164|111.651|ID|East Java|0
 Tembilahan|-0.323|103.160|ID|Riau|0
 Tembladera|-7.253|-79.131|PE|Cajamarca Department|0
+Tembol|-6.322|105.843|ID|Banten|0
+Tembong|-7.004|108.513|ID|West Java|0
+Tembongraja|-7.150|108.760|ID|Central Java|0
 Tembuku|-8.452|115.385|ID|Bali|0
 Tembuni|-1.952|133.419|ID|West Papua|0
 Temelli|39.727|32.355|TR|Ankara|0
+Temenggungan|-8.002|111.983|ID|East Java|0
+Temenggungan|-8.104|111.866|ID|East Java|0
 Temerin|45.409|19.889|RS|Vojvodina|0
 Tëmkino|55.083|35.009|RU|Smolensk Oblast|0
+Temorlorong|-7.134|113.520|ID|East Java|0
+Tempaling|-6.776|111.447|ID|Central Java|0
+Tempeh Tengah|-8.206|113.176|ID|East Java|0
+Tempel|-6.785|111.448|ID|Central Java|0
+Tempel|-6.977|111.496|ID|Central Java|0
+Tempelan|-6.966|111.416|ID|Central Java|0
+Temperak|-6.745|111.679|ID|Central Java|0
+Tempuran|-6.912|111.461|ID|Central Java|0
 Tempurejo|-8.299|113.679|ID|East Java|0
 Tempursari|-8.286|112.979|ID|East Java|0
+Tempursari Wetan|-8.052|112.489|ID|East Java|0
+Tempursarikrajan|-8.302|112.440|ID|East Java|0
+Temuji|-6.792|111.916|ID|East Java|0
 Temuli|27.708|102.808|CN|Sichuan|0
+Temulus|-7.218|111.422|ID|Central Java|0

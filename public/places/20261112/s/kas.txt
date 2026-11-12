@@ -58,6 +58,7 @@ Kasamatsuchō|35.367|136.767|JP|Gifu|87
 Kasongo-Lunda|-6.478|16.817|CD|Kwango|86
 Kastanayevo|55.717|37.500|RU|Moscow Oblast|86
 Kaset Wisai|15.656|103.584|TH|Roi Et|85
+Kastellorizo|36.143|29.582|GR|South Aegean|85|f
 Kasli|55.888|60.755|RU|Chelyabinsk|85
 Kasterlee|51.241|4.967|BE|Flanders|85
 Kasanda|0.557|31.802|UG|Central Region|85
@@ -74,25 +75,34 @@ Kaspi|41.928|44.424|GE|Shida Kartli|82
 Kasaishi|37.242|140.336|JP|Fukushima|82
 Kasumkent|41.677|48.152|RU|Dagestan|82
 Kashaf|36.370|59.578|IR|Razavi Khorasan|81
+Kastamonu Airport|41.314|33.796|TR|Kastamonu|81|f
 Kastsyukowka|52.539|30.917|BY|Homyel’ Voblasc’|80
 Kasséré|9.827|-6.217|CI|Savanes District|80
 Kastav|45.375|14.349|HR|Primorje-Gorski Kotar|80
 Kasinagar|18.857|83.881|IN|Odisha|80
 Kasane|-17.802|25.160|BW|Chobe|79
 Kāsipālaiyam|11.456|77.331|IN|Tamil Nadu|79
+Kasprowy Wierch|49.232|19.982|PL|Lesser Poland|79|f
+Kasos Island|35.399|26.924|GR|South Aegean|78|f
 Kasbate El Djena|27.020|1.045|DZ|Adrar|78
 Kaş|36.202|29.638|TR|Antalya|78
 Kashiwabara|36.802|138.192|JP|Nagano|78
+Kassala Airport|15.387|36.329|SD|Al Jazirah|78|f
 Kaštel Stari|43.550|16.350|HR|Split-Dalmatia|77
 Kasakh|40.236|44.452|AM|Kotayk|77
 Kaštel Sućurac|43.550|16.426|HR|Split-Dalmatia|76
 Kaštel Novi|43.552|16.336|HR|Split-Dalmatia|76
+Kasho Island|22.662|121.490|TW|Taiwan|76|f
+Kasteel Hoensbroek|50.917|5.918|NL|Limburg|76|f
 Kashary|49.040|41.004|RU|Rostov|76
 Kasson|44.030|-92.751|US|Minnesota|76
 Kashitashi|36.304|79.915|CN|Xinjiang|76
+Kashechewan Airport|52.282|-81.678|CA|Ontario|75|f
 Kastal|36.248|36.241|TR|Hatay|75
 Kashkhatau|43.317|43.608|RU|Kabardino-Balkariya Republic|75
 Kastellaun|50.069|7.442|DE|Rheinland-Pfalz|74
+Kashgar Airport|39.543|76.020|CN|Xinjiang|74|f
+Kastellet|55.691|12.594|DK|Capital Region|74|f
 Kaštel Lukšić|43.555|16.367|HR|Split-Dalmatia|74
 Kasauli|30.899|76.966|IN|Himachal Pradesh|74
 Kassiri|8.938|-13.115|SL|Northern Province|74
@@ -102,18 +112,33 @@ Kashimpur|23.232|89.202|BD|Khulna Division|74
 Kaštel Kambelovac|43.550|16.383|HR|Split-Dalmatia|74
 Kasināyakkampatti|12.483|78.534|IN|Tamil Nadu|74
 Kaštel Gomilica|43.550|16.400|HR|Split-Dalmatia|73
+Kasabonika Airport|53.525|-88.643|CA|Ontario|73|f
+Kasiguncu Airport|-1.417|120.658|ID|Central Sulawesi|73|f
+Käsmu Bay|59.602|25.950|EE|Lääne-Virumaa|73|f
+Kasompe Airport|-12.573|27.894|ZM|Copperbelt|73|f
 Kashirskoye|51.409|39.588|RU|Voronezh Oblast|73
 Kastornoye|51.830|38.131|RU|Kursk Oblast|73
+Kashan Airport|33.895|51.577|IR|Isfahan|72|f
+Kassari|58.797|22.831|EE|Hiiumaa|72|f
+Kasteel Radboud|52.772|5.113|NL|North Holland|72|f
 Kassiongo-Koura|10.020|-5.572|CI|Savanes District|72
+Kasba Lake Airport|60.292|-102.502|CA|Northwest Territories|71|f
+Kastoria National Airport|40.446|21.282|GR|West Macedonia|71|f
 Kaspichan|43.317|27.167|BG|Shumen|71
 Kashechewan|52.291|-81.640|CA|Ontario|70
 Kasrik|37.402|42.179|TR|Şırnak|70
+Kasos Island Public Airport|35.421|26.910|GR|South Aegean|70|f
+Kassam Stadium|51.716|-1.208|GB|England|70|f
+Kástro Ássou|38.381|20.530|GR|Ionian Islands|70|f
+Kasungu Airport|-13.015|33.469|MW|Central Region|70|f
 Kashperivka|49.432|29.681|UA|Kyiv Oblast|70
 Kassita|34.890|-3.727|MA|Oriental|69
 Kaštel Štafilić|43.550|16.333|HR|Split-Dalmatia|69
 Kasina Wielka|49.730|20.136|PL|Lesser Poland|69
 Kassándreia|40.048|23.414|GR|Central Macedonia|69
 Kastl|49.370|11.683|DE|Bavaria|69
+Kasane Airport|-17.833|25.162|BW|Chobe|69|f
+Kashiko Island|34.308|136.818|JP|Mie|69|f
 Kastl|48.200|12.700|DE|Bavaria|68
 Kasendorf|50.037|11.352|DE|Bavaria|68
 Kassiguié|5.679|-4.248|CI|Lagunes District|68
@@ -125,11 +150,21 @@ Kasrīneh|35.258|58.400|IR|Razavi Khorasan|66
 Kaszaper|46.467|20.833|HU|Bekes County|66
 Kås|57.198|9.672|DK|North Denmark|66
 Kaszów|50.039|19.719|PL|Lesser Poland|66
+Kasagi Dam|33.677|130.659|JP|Fukuoka|65|f
+Kasatochi Island|52.170|-175.509|US|Alaska|65|f
+Kassel Calden Airport|51.408|9.378|DE|Hesse|65|f
+Kasselaid|58.143|22.545|EE|Saare|65|f
 Kastélli|35.209|25.338|GR|Crete|65
 Kassam|7.530|-3.100|CI|Zanzan District|64
 Kasaba|36.311|29.734|TR|Antalya|64
 Kasseedorf|54.166|10.721|DE|Schleswig-Holstein|64
 Kassiapleu|7.360|-7.624|CI|Montagnes|63
+Kas Prins|10.374|102.959|KH|Preah Sihanouk|63|f
+Kasanka National Park|-12.565|30.178|ZM|Central Province|63|f
+Kasereck|47.233|13.767|AT|Salzburg|63|f
+Käsplatte|49.038|12.807|DE|Bavaria|63|f
+Kasselburg|50.239|6.685|DE|Rheinland-Pfalz|63|f
+Kástro Saránta Kolónes|34.758|32.410|CY|Pafos|63|f
 Kastl|49.833|11.900|DE|Bavaria|63
 Kasbach-Ohlenberg|50.583|7.267|DE|Rheinland-Pfalz|63
 Kašina|45.911|16.124|HR|Zagreb|63
@@ -142,23 +177,142 @@ Kaskinen|62.384|21.223|FI|Ostrobothnia|62
 Kasel|49.762|6.732|DE|Rheinland-Pfalz|62
 Kastráki|39.717|21.619|GR|Thessaly|61
 Kastorf|53.746|10.567|DE|Schleswig-Holstein|61
+Kasegaluk Lagoon|70.141|-162.324|US|Alaska|61|f
+Kasese Airport|0.183|30.100|UG|Western Region|61|f
+Kasikasima Top|2.983|-55.417|SR|Sipaliwini District|61|f
+Kasikili Island|-17.816|25.131|BW|Chobe|61|f
+Kasteel Helmond|51.477|5.653|NL|North Brabant|61|f
+Kasteel Maurick|51.658|5.306|NL|North Brabant|61|f
+Kasumi Glacier|-68.333|42.350|AQ||61|f
 Kass Wollof|13.783|-14.933|GM|Central River|61
 Kasséligué|9.936|-6.020|CI|Savanes District|60
 Kaslo|49.917|-116.919|CA|British Columbia|60
 Kashtanove|44.832|34.059|UA|Crimea|60
 Kaskantyú|46.672|19.387|HU|Bács-Kiskun|60
+Kastráki|38.417|21.896|GR|Central Greece|59
+Kassel’skiy|53.803|59.569|RU|Chelyabinsk|59
+Kašava|49.295|17.786|CZ|Zlín|59
 Kashtany|44.868|33.790|UA|Crimea|59
+Kasaze|46.233|15.200|SI|Municipality of Žalec|59
+Kástron|38.494|23.160|GR|Central Greece|58
+Kashkū|36.773|50.821|IR|Māzandarān|58
+Kassiopi|39.788|19.921|GR|Ionian Islands|58
+Kasaga-take|36.316|137.551|JP|Gifu|58|f
+Kasan|60.102|21.741|FI|Southwest Finland|58|f
+Kasba Lake|60.300|-102.117|CA|Northwest Territories|58|f
+Kasenga Airport|-10.357|28.617|CD|Haut-Katanga|58|f
+Kasigluk Airport|60.870|-162.524|US|Alaska|58|f
+Kasteel Dussen|51.734|4.969|NL|North Brabant|58|f
+Kasteel Wittem|50.814|5.910|NL|Limburg|58|f
+Kastjärv|59.314|27.564|EE|Ida-Virumaa|58|f
+Kāshī Kolā|36.358|52.629|IR|Māzandarān|58
+Kastanéa|39.593|19.885|GR|Ionian Islands|58
+Kasel-Golzig|51.933|13.700|DE|Brandenburg|58
+Kaster|50.813|3.496|BE|Flanders|58
+Käshofen|49.333|7.417|DE|Rheinland-Pfalz|57
+Kassérégué|10.293|-5.636|CI|Savanes District|57
+Kashperivka|49.865|28.893|UA|Vinnytsia|57
+Kasyanivka|47.297|37.533|UA|Donetsk|57
+Kastaniés|41.646|26.477|GR|East Macedonia and Thrace|57
+Kastrí|39.552|20.274|GR|Epirus|57
+Kassiogouiné|7.167|-7.618|CI|Montagnes|57
+Kasota|44.292|-93.965|US|Minnesota|56
+Kastanás|40.819|22.659|GR|Central Macedonia|56
+Kaštel|45.433|13.667|HR|Istria|56
+Kashtany|43.530|39.900|RU|Krasnodar Krai|56
+Kastanoússa|41.277|22.894|GR|Central Macedonia|55
+Kasigluk|60.896|-162.518|US|Alaska|55
+Kastrítsa|39.631|20.922|GR|Epirus|55
+Kasseburg|53.567|10.417|DE|Schleswig-Holstein|55
+Kasilof|60.337|-151.274|US|Alaska|55
+Kastaniá|40.174|22.024|GR|West Macedonia|55
+Kassanblé|8.620|-4.594|CI|Vallée du Bandama District|54
+Kashpero-Mykolayivka|47.377|32.190|UA|Mykolaiv|54
+Kasaba Bay Airport|-8.525|30.663|ZM|Northern Province|54|f
+Kasetsart University|13.849|100.568|TH|Bangkok|54|f
+Kaskasatjåkko|67.943|18.581|SE|Norrbotten|54|f
+Kasteel D’Erp|51.330|6.100|NL|Limburg|54|f
+Kasteel Rhijnauwen|52.069|5.178|NL|Utrecht|54|f
+Kastellorizo Island Public Airport|36.142|29.576|GR|South Aegean|54|f
+Kashubivka|49.532|34.713|UA|Poltava|54
 Kasten bei Böheimkirchen|48.153|15.779|AT|Lower Austria|53
+Kastel-Staadt|49.565|6.559|DE|Rheinland-Pfalz|52
 Kaštelir|45.303|13.685|HR|Istria|50
+Kaschak, Mount|-84.033|-56.666|AQ||49|f
+Kasimovo Airport|60.200|30.334|RU|Leningradskaya Oblast'|49|f
+Kasteel Croy|51.500|5.625|NL|North Brabant|49|f
+Kasteel Nemerlaer|51.589|5.232|NL|North Brabant|49|f
+Kastell Alzey|49.743|8.117|DE|Rheinland-Pfalz|49|f
+Kastenkopf|47.433|10.483|AT|Tyrol|49|f
+Kastorfer See|53.650|13.088|DE|Mecklenburg-Vorpommern|49|f
+Kasdorf|50.206|7.784|DE|Rheinland-Pfalz|49
+Kasaan Peninsula|55.556|-132.345|US|Alaska|40|f
+Kasabova Glacier|-63.939|-59.908|AQ||40|f
+Kasalka Range|53.600|-127.453|CA|British Columbia|40|f
+KASF-FM (Alamosa)|37.472|-105.878|US|Colorado|40|f
+Kashagawigamog Lake|44.996|-78.589|CA|Ontario|40|f
+Kashaweogama Lake|50.421|-90.744|CA|Ontario|40|f
+Kashwakamak Lake|44.857|-77.038|CA|Ontario|40|f
+KASI-AM (Ames)|42.037|-93.689|US|Iowa|40|f
+Kaskawulsh Mountain|60.652|-138.871|CA|Yukon|40|f
+KASL-AM (Newcastle)|43.846|-104.213|US|Wyoming|40|f
+KASM-AM (Albany)|45.633|-94.600|US|Minnesota|40|f
+Kasmere Lake|59.571|-101.158|CA|Manitoba|40|f
+KASN-TV (Pine Bluff)|34.442|-92.218|US|Arkansas|40|f
+Kasota Lake|45.077|-94.896|US|Minnesota|40|f
+Kaspichan Point|-62.516|-59.864|AQ||40|f
+Kasshabog Lake|44.631|-77.965|CA|Ontario|40|f
+Kasteel Almere|52.348|5.247|NL|Flevoland|40|f
+Kasteel Amerongen|51.995|5.459|NL|Utrecht|40|f
+Kasteel Ammersoyen|51.752|5.229|NL|Gelderland|40|f
+Kasteel Batenburg|51.824|5.631|NL|Gelderland|40|f
+Kasteel Bethlehem|50.868|5.711|NL|Limburg|40|f
+Kasteel Biljoen|51.997|5.992|NL|Gelderland|40|f
+Kasteel Bleijenbeek|51.636|6.053|NL|Limburg|40|f
+Kasteel Bouvigne|51.563|4.783|NL|North Brabant|40|f
+Kasteel Boxmeer|51.652|5.957|NL|North Brabant|40|f
+Kasteel Bredevoort|51.944|6.618|NL|Gelderland|40|f
+Kasteel Doorwerth|51.967|5.788|NL|Gelderland|40|f
+Kasteel Duurstede|51.969|5.343|NL|Utrecht|40|f
+Kasteel Eijsden|50.774|5.700|NL|Limburg|40|f
+Kasteel Heemstede|52.033|5.125|NL|Utrecht|40|f
+Kasteel Heeswijk|51.656|5.441|NL|North Brabant|40|f
+Kasteel Het Oude Loo|52.235|5.942|NL|Gelderland|40|f
+Kasteel Ingelmunster|50.919|3.255|BE|Flanders|40|f
+Kasteel Jansgeleen|50.947|5.840|NL|Limburg|40|f
+Kasteel Keukenhof|52.268|4.540|NL|South Holland|40|f
+Kasteel Middachten|52.019|6.070|NL|Gelderland|40|f
+Kasteel Slangenburg|51.961|6.361|NL|Gelderland|40|f
+Kasteel Terworm|50.889|5.950|NL|Limburg|40|f
+Kasteel Valkenburg|50.862|5.831|NL|Limburg|40|f
+Kasteel van Arenberg|50.863|4.684|BE|Flanders|40|f
+Kasteel van Breda|51.591|4.775|NL|North Brabant|40|f
+Kasteel Vredenburg|52.093|5.114|NL|Utrecht|40|f
+Kastelholms Slott|60.233|20.081|AX|Ålands landsbygd|40|f
+Kastelhorn|46.422|8.458|IT|Piedmont|40|f
+Kastell Trennfurt|49.778|9.178|DE|Bavaria|40|f
+Kastellholmen|59.323|18.088|SE|Stockholm|40|f
+KASU-FM (Jonesboro)|35.890|-90.674|US|Arkansas|40|f
+Kaschenbach|49.876|6.480|DE|Rheinland-Pfalz|34
 Kastrí|34.835|24.086|GR|Crete|31
 Kasado|34.891|136.530|JP|Mie|0
 Kasarangan|-2.626|115.297|ID|South Kalimantan|0
+Kasembon|-8.088|112.670|ID|East Java|0
+Kasepen|-6.312|105.843|ID|Banten|0
 Kashar|41.350|19.710|AL|Tirana|0
 Kasibu|16.317|121.296|PH|Cagayan Valley|0
 Kasiguncu|-1.421|120.655|ID|Central Sulawesi|0
+Kasiman|-6.874|111.886|ID|East Java|0
+Kasingan|-6.707|111.352|ID|Central Java|0
+Kasiyan|-8.315|113.469|ID|East Java|0
 Kasımlar|37.529|31.193|TR|Isparta|0
+Kasmabaki|-9.670|123.684|ID|East Nusa Tenggara|0
 Kasonawejo|-2.282|138.035|ID|Papua|0
+Kasreman|-6.720|111.415|ID|Central Java|0
+Kasreman Wetan|-8.146|111.841|ID|East Java|0
+Kasri|-8.109|112.677|ID|East Java|0
 Kassab|35.926|35.990|SY|Latakia|0
 Kastrat|42.352|19.489|AL|Shkodër County|0
 Kastriot|41.729|20.377|AL|Dibër County|0
+Kasturi|-7.013|108.357|ID|West Java|0
 Kasui|-4.716|104.450|ID|Lampung|0

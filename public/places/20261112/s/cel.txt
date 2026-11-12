@@ -8,8 +8,10 @@ Celendín|-6.865|-78.146|PE|Cajamarca Department|83
 Çelikhan|38.026|38.237|TR|Adıyaman Province|82
 Čelákovice|50.160|14.750|CZ|Central Bohemia|82
 Celldömölk|47.257|17.150|HU|Vas County|81
+Celtic Park|55.849|-4.205|GB|Scotland|81|f
 Celina|40.549|-84.570|US|Ohio|80
 Celano|42.081|13.517|IT|Abruzzo|80
+Celaya Airport|20.546|-100.887|MX|Guanajuato|80|f
 Çeltik|39.024|31.791|TR|Konya|79
 Celâliye|41.052|28.420|TR|Istanbul|78
 Celebration|28.325|-81.533|US|Florida|77
@@ -20,12 +22,14 @@ Cellole|41.203|13.853|IT|Campania|75
 Celanova|42.153|-7.955|ES|Galicia|75
 Celica|-4.103|-79.956|EC|Loja|75
 Celaru|44.050|24.133|RO|Dolj|75
+Celebes Sea|3.610|122.297|||74|f
 Cellamare|41.020|16.927|IT|Apulia|74
 Čelarevo|45.270|19.525|RS|Vojvodina|74
 Čelopek|41.932|21.013|MK|Brvenica|73
 Celle Ligure|44.345|8.547|IT|Liguria|73
 Celada|18.272|-65.966|PR|Gurabo|73
 Celestynów|52.061|21.391|PL|Mazovia|72
+Celtic Sea|50.000|-9.000|||71|f
 Celles-sur-Belle|46.262|-0.212|FR|New Aquitaine|71
 Cellatica|45.582|10.180|IT|Lombardy|71
 Celrà|42.033|2.883|ES|Catalonia|71
@@ -57,13 +61,39 @@ Celoron|42.109|-79.283|US|New York|61
 Čeľadice|48.329|18.239|SK|Nitra Region|60
 Celleno|42.560|12.124|IT|Lazio|59
 Celenza sul Trigno|41.872|14.579|IT|Abruzzo|59
+Čeline|43.643|16.570|HR|Split-Dalmatia|59
+Celine|45.893|16.405|HR|Zagreb County|59
+Celles-sur-Plaine|48.454|6.950|FR|Grand Est|59
+Celeste|33.294|-96.195|US|Texas|58
+Ćele Kula|43.312|21.924|RS|Central Serbia|58|f
+Celle Air Base|52.591|10.024|DE|Lower Saxony|58|f
+Celo Knob|35.852|-82.249|US|North Carolina|58|f
+Celaya|22.559|-98.931|MX|Tamaulipas|58
+Celatica-Tolari|45.665|9.902|IT|Lombardy|58
+Celestino Gazca Villaseñor|23.819|-106.880|MX|Sinaloa|57
+Celles|50.230|5.007|BE|Wallonia|57
+Çeltikçi|36.362|33.980|TR|Mersin|57
+Celei|45.011|22.927|RO|Gorj County|57
+Cellule|45.947|3.141|FR|Auvergne-Rhône-Alpes|57
+Céligny|46.351|6.195|CH|Geneva|57
+Celles|50.712|3.457|BE|Wallonia|57
 Cellino Attanasio|42.586|13.861|IT|Abruzzo|56
+Celia González de Rovirosa|18.059|-93.367|MX|Tabasco|55
+Celles|45.297|0.413|FR|New Aquitaine|55
+Celaque Airport|14.573|-88.596|HN|Lempira Department|54|f
+Çelebi Adası|37.008|27.360|TR|Muğla|54|f
+Čelčice|49.412|17.194|CZ|Olomouc Region|54
+Çelebaşı|39.519|42.640|TR|Ağrı|54
+Celorio|43.431|-4.807|ES|Asturias|54
 Cellarengo|44.864|7.945|IT|Piedmont|54
 Cellara|39.218|16.335|IT|Calabria|51
 Cella Monte|45.074|8.392|IT|Piedmont|51
 Celle Enomondo|44.857|8.124|IT|Piedmont|50
 Cellio|45.755|8.312|IT|Piedmont|50
 Çeltikçi|40.322|32.456|TR|Ankara|49
+Celeron Island|42.080|-83.173|US|Michigan|49|f
+Celestial Peak|-69.550|158.050|AQ||49|f
+Celsus Peak|-64.418|-62.415|AQ||49|f
 Cella Dati|45.095|10.221|IT|Lombardy|46
 Celle di San Vito|41.326|15.181|IT|Apulia|45
 Celada del Camino|42.264|-3.934|ES|Castille and León|40
@@ -72,6 +102,7 @@ Cellorigo|42.627|-3.000|ES|La Rioja|27
 Čelić|44.725|18.815|BA|Federation of B&H|12
 Celala|4.596|96.692|ID|Aceh|0
 Celâlli|39.693|37.424|TR|Sivas|0
+Celangap|-7.137|111.726|ID|East Java|0
 Çelebi|39.464|33.524|TR|Kırıkkale|0
 Čelinac|44.740|17.319|BA|Srpska|0
 Celorico da Beira|40.637|-7.390|PT|Guarda|0

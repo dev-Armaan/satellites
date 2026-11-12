@@ -4,16 +4,16 @@ North Carolina|35.501|-80.000|US||136|r
 Norway|62.000|10.000|NO||135|c
 North Sumatra|2.000|99.000|ID||135|r
 Northern Mindanao|8.526|125.227|PH||131|r
-North Holland|52.583|4.917|NL||129|r
+North Holland|52.583|4.917|NL||130|r
+Normandy|49.199|0.500|FR||129|r
 North Brabant|51.667|5.000|NL||128|r
-Normandy|49.199|0.500|FR||127|r
 Novosibirsk Oblast|55.275|79.767|RU||127|r
 North West|-26.500|26.000|ZA||127|r
 North Macedonia|41.667|21.750|MK||125|c
 Novosibirsk|55.023|82.932|RU|Novosibirsk Oblast|124
+Northern District|32.867|35.467|IL||123|r
 Northern Ireland|54.500|-6.500|GB||123|r
 North Hamgyong|41.833|129.417|KP||122|r
-Northern District|32.867|35.467|IL||122|r
 North Chungcheong|36.770|127.742|KR||122|r
 Nowrangapur|19.231|82.548|IN|Odisha|122
 Norte de Santander Department|8.000|-73.000|CO||122|r
@@ -27,9 +27,9 @@ Nova Iguaçu|-22.759|-43.451|BR|Rio de Janeiro|119
 Northern|9.450|-0.100|GH||116|r
 Nonthaburi|13.904|100.404|TH||115|r
 North Hwanghae|38.567|126.300|KP||115|r
+North Dakota|47.500|-100.001|US||115|r
 North-Western|-13.000|25.000|ZM||115|r
 North Ossetia–Alania|43.000|44.250|RU||115|r
-North Dakota|47.500|-100.001|US||115|r
 Novokuznetsk|53.758|87.136|RU|Kuzbass|115
 North Kordofan|14.683|29.933|SD||114|r
 Northern Cape|-29.500|22.000|ZA||114|r
@@ -39,8 +39,8 @@ North Ostrobothnia|65.000|26.417|FI||114|r
 Nova Vida|-8.906|13.222|AO|Luanda|113
 North Denmark|57.000|9.667|DK||113|r
 Northern Region|-11.000|34.000|MW||113|r
-North Kalimantan|3.360|116.532|ID||112|r
 North Khorasan|37.500|57.000|IR||112|r
+North Kalimantan|3.360|116.532|ID||112|r
 Northern Province|-9.750|30.750|ZM||112|r
 Northern Darfur|16.000|25.500|SD||112|r
 North Maluku|0.626|127.842|ID||112|r
@@ -53,8 +53,8 @@ North Sinai|30.500|33.700|EG||109|r
 Noida|28.580|77.330|IN|Uttar Pradesh|109
 North District|22.495|114.138|HK||109|r
 Northern Province|9.150|-11.533|SL||109|r
-North Savo|63.167|27.500|FI||109|r
 North Kazakhstan|54.283|69.467|KZ||109|r
+North Savo|63.167|27.500|FI||109|r
 Nogales|31.309|-110.942|MX|Sonora|108
 Nord|19.600|-72.300|HT||108|r
 North Lebanon|34.333|35.917|LB||108|r
@@ -62,25 +62,25 @@ North Shore|-36.800|174.750|NZ|Auckland|108
 Northern Borders Region|30.250|42.417|SA||108|r
 Novo Hamburgo|-29.678|-51.131|BR|Rio Grande do Sul|108
 Nord|13.588|-2.421|BF||108|r
+Northern Territory|-20.000|134.000|AU||108|r
 Northampton|52.250|-0.883|GB|England|108
 Novorossiysk|44.732|37.762|RU|Krasnodar Krai|108
 Norfolk|36.847|-76.285|US|Virginia|108
 North Las Vegas|36.199|-115.118|US|Nevada|107
-Northern Territory|-20.000|134.000|AU||107|r
-Novi Sad|45.252|19.837|RS|Vojvodina|107
 Norrbotten|67.000|20.000|SE||107|r
+Novi Sad|45.252|19.837|RS|Vojvodina|107
 Novi Beograd|44.806|20.424|RS|Central Serbia|106
 Nossa Senhora do Socorro|-10.855|-37.126|BR|Sergipe|106
 Nova Friburgo|-22.282|-42.531|BR|Rio de Janeiro|106
 North Karelia|62.833|29.917|FI||105|r
 Novozavodskyi|51.489|31.256|UA|Chernihiv Oblast|105
+North Aegean|37.719|26.820|GR||105|r
 Novocherkassk|47.422|40.094|RU|Rostov|104
 Nou Barris|41.442|2.177|ES|Catalonia|104
-Nong Chok|13.856|100.862|TH|Bangkok|104
 Nordland|66.914|14.763|NO||104|r
+Nong Chok|13.856|100.862|TH|Bangkok|104
 Noda|35.949|139.868|JP|Chiba|104
 Nong Khaem|13.706|100.349|TH|Bangkok|104
-North Aegean|37.719|26.820|GR||103|r
 Nouadhibou|20.942|-17.038|MR|Dakhlet Nouadhibou|103
 Norwich|52.628|1.298|GB|England|103
 Novyye Kuz’minki|55.700|37.750|RU|Moscow|103
@@ -91,10 +91,10 @@ Nor Nork|40.197|44.567|AM|Yerevan|103
 Nord-Ubangi|3.650|21.267|CD||103|r
 Novomoskovsk|54.011|38.291|RU|Tula Oblast|102
 Novocheboksarsk|56.111|47.478|RU|Chuvash Republic|102
+North Island|-39.000|176.000|NZ||102|f
 Norman|35.223|-97.439|US|Oklahoma|102
 Nossa Senhora de Fátima|22.208|113.548|CN|Guangdong|102
 Northern State|19.300|29.500|SD||102|r
 North Stamford|41.138|-73.543|US|Connecticut|102
 Nova Lima|-19.986|-43.847|BR|Minas Gerais|102
 Nobeoka|32.583|131.667|JP|Miyazaki|102
-Noord|52.391|4.910|NL|North Holland|101

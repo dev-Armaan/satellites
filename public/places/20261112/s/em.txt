@@ -46,6 +46,7 @@ Emeryville|37.831|-122.285|US|California|81
 Emmaus|40.540|-75.497|US|Pennsylvania|81
 Emtfuntini|-25.684|31.637|ZA|Mpumalanga|81
 Emstek|52.834|8.157|DE|Lower Saxony|81
+Emi Koussi|19.817|18.476|TD|Borkou|81|f
 Embera|8.152|-77.525|PA||80|r
 Emek|39.921|44.026|TR|Iğdır|80
 Emsbüren|52.394|7.304|DE|Lower Saxony|80
@@ -53,6 +54,7 @@ Emiliano Zapata|19.654|-98.544|MX|Hidalgo|79
 Embrun|45.276|-75.273|CA|Ontario|79
 Emirgazi|37.902|33.837|TR|Konya|79
 eManzana|-25.954|30.563|ZA|Mpumalanga|78
+Emau Island|-17.481|168.488|VU|Shefa|78|f
 Emmer-Compascuum|52.812|7.047|NL|Drenthe|78
 eMvelo|-26.625|30.662|ZA|Mpumalanga|78
 Empuriabrava|42.247|3.121|ES|Catalonia|78
@@ -61,15 +63,18 @@ Emgwenya|-25.637|30.324|ZA|Mpumalanga|77
 Emiliano Zapata (Santo Domingo)|19.580|-99.788|MX|México|77
 Embrach|47.506|8.594|CH|Zurich|77
 Embrun|44.564|6.495|FR|Provence-Alpes-Côte d'Azur|77
+Emporia Municipal Airport|38.333|-96.191|US|Kansas|77|f
 Émerainville|48.813|2.621|FR|Île-de-France|77
 Emlichheim|52.611|6.851|DE|Lower Saxony|77
 Emmett|43.873|-116.499|US|Idaho|76
+Emerald Airport|-23.567|148.179|AU|Queensland|76|f
 Emskirchen|49.553|10.713|DE|Bavaria|76
 Emiliano Zapata|25.910|-100.281|MX|Nuevo León|76
 Embourg|50.590|5.607|BE|Wallonia|76
 eMakhazeni B|-24.951|31.372|ZA|Mpumalanga|76
 Emmering|48.183|11.283|DE|Bavaria|76
 Emboscada|-25.124|-57.348|PY|Cordillera Department|75
+Emory Peak|29.246|-103.305|US|Texas|75|f
 Emām Shahr|28.447|53.153|IR|Fars|75
 Emāmzādeh ‘Abdollāh|36.406|52.309|IR|Māzandarān|75
 Emiliano Zapata|30.754|-116.003|MX|Baja California|75
@@ -96,6 +101,7 @@ Emiliano Zapata|19.992|-102.614|MX|Michoacán|71
 eMbangweni|-26.140|30.783|ZA|Mpumalanga|71
 Emmaus|56.775|36.126|RU|Tver Oblast|71
 Emiliano Zapata|16.172|-94.064|MX|Chiapas|71
+Emae Island|-17.067|168.367|VU|Shefa|70|f
 Emajagua|18.001|-65.883|PR|Maunabo|70
 Emmerin|50.595|3.001|FR|Hauts-de-France|70
 Emmitsburg|39.705|-77.327|US|Maryland|70
@@ -119,6 +125,7 @@ Embsen|53.176|10.346|DE|Lower Saxony|68
 Emsworth|40.510|-80.094|US|Pennsylvania|68
 Embaúba|-20.983|-48.836|BR|São Paulo|67
 Emerald Beach|-30.164|153.182|AU|New South Wales|67
+Emsalö|60.264|25.601|FI|Uusimaa|67|f
 Emu Park|-23.257|150.827|AU|Queensland|67
 Emneth|52.642|0.209|GB|England|67
 Emiliano Zapata (San José Bata)|19.911|-99.007|MX|México|67
@@ -143,6 +150,8 @@ Emiliano Zapata|20.379|-97.184|MX|Veracruz|64
 Emley|53.614|-1.631|GB|England|64
 Emiliano Zapata|16.162|-93.262|MX|Chiapas|63
 Emişbeleni|36.618|31.876|TR|Antalya|63
+Emmons Glacier|46.862|-121.717|US|Washington|63|f
+Emperor Range|-5.750|154.917|PG|Bougainville|63|f
 Emiliano Zapata|21.921|-100.914|MX|San Luis Potosí|63
 Emersacker|48.490|10.674|DE|Bavaria|63
 Emanzoukro|6.885|-3.268|CI|Comoé District|63
@@ -165,6 +174,12 @@ Emo|48.633|-93.834|CA|Ontario|62
 Émponas|36.227|27.856|GR|South Aegean|61
 Emtmannsberg|49.892|11.645|DE|Bavaria|61
 Emiliano Zapata (Casahuates)|18.931|-98.959|MX|Morelos|61
+Emancipation Gardens Park|18.341|-64.931|VI|Saint Thomas Island|61|f
+Emeline Island|-62.391|-59.793|AQ||61|f
+Emerald Coast Airport|11.431|-86.031|NI|Rivas Department|61|f
+Emerald Peak|38.929|-106.381|US|Colorado|61|f
+Emigrant Peak|45.263|-110.707|US|Montana|61|f
+Emma Island|-64.601|-62.311|AQ||61|f
 Emil Racoviță|46.871|27.679|RO|Vaslui County|61
 Emiliano Zapata|16.289|-90.621|MX|Chiapas|61
 Emunim|31.744|34.675|IL|Southern District|61
@@ -173,18 +188,174 @@ Emmelsbüll-Horsbüll|54.817|8.700|DE|Schleswig-Holstein|60
 Émerchicourt|50.308|3.245|FR|Hauts-de-France|60
 Empaong|1.417|111.533|MY|Sarawak|60
 Emmerschans|52.801|6.939|NL|Drenthe|60
+Empire|29.388|-89.597|US|Louisiana|60
+Emptinne|50.325|5.121|BE|Wallonia|60
+Emiliano Zapata|19.299|-96.975|MX|Veracruz|60
+Empire City|34.420|-98.027|US|Oklahoma|59
+Emiliano Zapata|23.025|-98.884|MX|Tamaulipas|59
+Embden|44.918|-69.867|US|Maine|59
+Emiliano Zapata|17.338|-92.290|MX|Chiapas|59
+Emilio Rabasa|17.697|-92.169|MX|Chiapas|59
+Emiliano Zapata|17.218|-93.343|MX|Chiapas|59
 Empingham|52.667|-0.596|GB|England|59
+Emiliano Zapata|24.063|-106.924|MX|Sinaloa|59
+Emiliano Zapata|20.078|-98.407|MX|Hidalgo|59
+Emiliano Zapata|16.683|-93.221|MX|Chiapas|59
+Emmonak|62.778|-164.523|US|Alaska|59
+Emiliano Zapata|23.281|-98.926|MX|Tamaulipas|59
+Emiliano Zapata|16.397|-91.342|MX|Chiapas|59
+Emerkingen|48.212|9.656|DE|Baden-Wurttemberg|58
+Emily|46.731|-93.958|US|Minnesota|58
+Emiliano Zapata|25.489|-102.944|MX|Coahuila|58
+Emiliano Zapata Nexatengo|18.882|-98.410|MX|Puebla|58
+Emerson|42.279|-96.727|US|Nebraska|58
+Emilio Carranza|25.259|-103.945|MX|Durango|58
+Emleben|50.894|10.703|DE|Thuringia|58
+Embalse El Yeso|-33.647|-70.072|CL|Santiago Metropolitan|58|f
+Embalse Zaza|21.849|-79.395|CU|Sancti Spíritus Province|58|f
+Embraer Unidade Gavião Peixoto Airport|-21.766|-48.405|BR|São Paulo|58|f
+Emerald Pool|37.728|-119.542|US|California|58|f
+Emigrant Lake|42.153|-122.600|US|Oregon|58|f
+Emm Rock|-62.261|-58.689|AQ||58|f
+Emma Wood State Beach|34.285|-119.326|US|California|58|f
+Emmonak Airport|62.780|-164.490|US|Alaska|58|f
+Empire State Aerosciences Museum|42.861|-73.932|US|New York|58|f
+Empress Augusta Bay|-6.385|155.154|PG|Bougainville|58|f
+Emsworth Locks and Dam|40.503|-80.089|US|Pennsylvania|58|f
+Émancé|48.591|1.731|FR|Île-de-France|58
+Emmendorf|53.020|10.565|DE|Lower Saxony|58
+Emmerzhausen|50.700|8.035|DE|Rheinland-Pfalz|58
+Empalme|25.898|-97.806|MX|Tamaulipas|58
+Emiliano Zapata (Ampliación San Germán)|25.089|-98.054|MX|Tamaulipas|58
+Empório|40.489|21.558|GR|West Macedonia|57
+Emirler|39.050|32.341|TR|Ankara|57
 Emmersdorf an der Donau|48.241|15.337|AT|Lower Austria|57
+Emiliano Zapata|22.172|-98.829|MX|San Luis Potosí|57
+Emirşah|36.084|32.790|TR|Mersin|57
+Empe|52.156|6.139|NL|Gelderland|57
+Emiliano Zapata|20.240|-96.960|MX|Veracruz|57
+Emyvale|54.341|-6.959|IE|Ulster|57
+Emiliano Zapata|17.773|-92.850|MX|Tabasco|57
+Embarcadero de Jericó (El Siglo)|16.201|-92.936|MX|Chiapas|57
+Embree|49.303|-55.043|CA|Newfoundland and Labrador|57
+Emiliano Zapata (Albia)|25.855|-103.177|MX|Coahuila|57
+Empfertshausen|50.667|10.100|DE|Thuringia|56
+Emiliano Zapata|16.183|-92.416|MX|Chiapas|56
+Emiliano Zapata|17.485|-95.209|MX|Oaxaca|56
+Emiliano Zapata los Molinos|18.948|-98.394|MX|Puebla|56
+Eminciler|36.902|31.065|TR|Antalya|56
+Emseloh|51.502|11.392|DE|Saxony-Anhalt|56
+Emiliano Zapata|16.935|-96.716|MX|Oaxaca|56
+Emlenton|41.177|-79.708|US|Pennsylvania|56
+Empesós|39.024|21.320|GR|West Greece|56
+Émagny|47.312|5.869|FR|Bourgogne-Franche-Comté|55
 Eminence|37.151|-91.358|US|Missouri|55
+Emiliano Zapata 2da. Sección|17.852|-92.594|MX|Tabasco|55
+Embreville|50.029|1.542|FR|Hauts-de-France|55
+Emiliano Zapata|20.618|-101.043|MX|Guanajuato|55
+Emiliano Zapata|22.720|-98.916|MX|Tamaulipas|55
+Emiliano Zapata|19.877|-101.073|MX|Michoacán|55
+Emiliano Zapata|17.254|-92.639|MX|Chiapas|55
+Eminovci|45.357|17.731|HR|Požega-Slavonia|55
+Émanville|49.622|0.960|FR|Normandy|55
+Empleado Municipal|18.786|-98.907|MX|Morelos|55
+Emilio Portes Gil|18.924|-98.350|MX|Puebla|55
+Emiliano Zapata|17.146|-92.419|MX|Chiapas|55
+Emiliano Zapata|16.761|-96.834|MX|Oaxaca|55
+Emiliano Zapata (San Antonio del Burro)|23.579|-102.161|MX|Zacatecas|55
+Emiliano Zapata|18.710|-96.740|MX|Veracruz|55
+Émalleville|49.098|1.160|FR|Normandy|55
+Emiliano Zapata|17.459|-93.100|MX|Chiapas|55
+Emiliano Zapata|21.632|-100.962|MX|Guanajuato|55
+Emigdio Ruiz|26.375|-109.010|MX|Sinaloa|55
+Emmaville|-29.444|151.598|AU|New South Wales|54
+Empurany|45.024|4.609|FR|Auvergne-Rhône-Alpes|54
+Embalse del Guárico|9.027|-67.371|VE|Guárico|54|f
+Embalse del Guavio|4.722|-73.494|CO|Cundinamarca|54|f
+Embalse Salvajina|2.876|-76.688|CO|Cauca Department|54|f
+Emerald Mound|31.636|-91.247|US|Mississippi|54|f
+Emirau Airport|-1.654|149.967|PG|New Ireland|54|f
+Emma Burr Mountain|38.734|-106.416|US|Colorado|54|f
+Empereur Island|-66.800|141.392|AQ||54|f
+Emperor Peak|58.583|-134.385|US|Alaska|54|f
+Emiliano Zapata|15.132|-92.574|MX|Chiapas|54
+Emilio Carranza (Salinas)|17.805|-94.557|MX|Veracruz|54
+Emiliano Zapata|22.179|-98.013|MX|Veracruz|54
+Emilio Carranza|22.182|-101.835|MX|Zacatecas|54
+Emiliano Zapata|22.761|-99.980|MX|Tamaulipas|54
+Emirler|39.461|28.228|TR|Balıkesir|54
+Emiliano Zapata|18.750|-96.938|MX|Veracruz|54
 Empersdorf|46.999|15.600|AT|Styria|54
 Embleton|55.496|-1.636|GB|England|52
 Emberton|52.137|-0.707|GB|England|50
+Embalse de El Tranco de Beas|38.129|-2.776|ES|Andalusia|49|f
+Embalse de Santillana|40.724|-3.829|ES|Madrid|49|f
+Embalse de Tibi|38.517|-0.500|ES|Valencia|49|f
+Embalse del Atazar|40.912|-3.473|ES|Madrid|49|f
+Embalse La Paloma|-30.750|-71.000|CL|Coquimbo Region|49|f
+Embalse Potrero de los Funes|-33.230|-66.233|AR|San Luis|49|f
+Embalse Recoleta|-30.490|-71.095|CL|Coquimbo Region|49|f
+Embassy Islands|-67.885|-68.747|AQ||49|f
+Embleton Bay|55.500|-1.600|GB|England|49|f
+Embu Airport|-0.572|37.495|KE|Embu County|49|f
+Emerald Peak|48.115|-120.629|US|Washington|49|f
+Emery Peak|37.888|-107.621|US|Colorado|49|f
+Emirates Towers|25.217|55.283|AE|Dubai|49|f
+Emmanuel Glacier|-77.900|162.083|AQ||49|f
+Emperor Island|-67.865|-68.710|AQ||49|f
+Emperor Valley Zoo|10.673|-61.519|TT|Port of Spain|49|f
+Empress Airport|50.933|-110.013|CA|Alberta|49|f
+Emu Bay|-35.584|137.527|AU|South Australia|49|f
 Emperador|39.550|-0.333|ES|Valencia|48
+Embühren|54.171|9.591|DE|Schleswig-Holstein|47
 Eminbey|41.548|42.782|TR|Ardahan|43
+Emeringen|48.234|9.518|DE|Baden-Wurttemberg|42
+Emancipation Park|18.003|-76.790|JM|Saint Andrew Parish|40|f
+Emancipation Park|29.736|-95.365|US|Texas|40|f
+Emar Lakes Park|51.483|-120.403|CA|British Columbia|40|f
+Embalse de Navacerrada|40.720|-4.010|ES|Madrid|40|f
+Embalse Los Molinos|-31.824|-64.531|AR|Cordoba|40|f
+Embleton Tower|55.495|-1.637|GB|England|40|f
+Embryo Lake|50.957|-94.372|CA|Ontario|40|f
+Emerald Bay|45.258|-78.939|CA|Ontario|40|f
+Emerald Bay State Park|38.954|-120.094|US|California|40|f
+Emerald Isle|44.450|-78.400|CA|Ontario|40|f
+Emerald Isle|76.803|-114.104|CA|Northwest Territories|40|f
+Emerald Lake|51.443|-116.531|CA|British Columbia|40|f
+Emerald Lake|63.548|-131.227|CA|Yukon|40|f
+Emerald Lake|41.005|-122.998|US|California|40|f
+Emerald Lake|40.468|-121.519|US|California|40|f
+Emerald Lake|44.052|-114.610|US|Idaho|40|f
+Emerald Lake|40.393|-111.640|US|Utah|40|f
+Emerald Necklace|42.323|-71.117|US|Massachusetts|40|f
+Emerald Peak|51.450|-116.569|CA|British Columbia|40|f
+Emerald Square|41.956|-71.343|US|Massachusetts|40|f
+Emerging Island|-73.383|168.033|AQ||40|f
+Emerick Island|63.517|-68.581|CA|Nunavut|40|f
+Emery Park|42.715|-78.595|US|New York|40|f
+Emigrants Mountain|52.950|-118.319|CA|Alberta|40|f
+Emison, Mount|-74.200|163.733|AQ||40|f
+Emley Moor TV Tower|53.612|-1.664|GB|England|40|f
+Emma Island|62.801|-71.081|CA|Nunavut|40|f
+Emma Lake|46.010|-77.833|CA|Ontario|40|f
+Emma Lake|53.600|-105.900|CA|Saskatchewan|40|f
+Emma Matilda Lake|43.886|-110.533|US|Wyoming|40|f
+Emmerson Island|72.393|-78.932|CA|Nunavut|40|f
+Emmons Pond|42.427|-75.017|US|New York|40|f
+Emory Creek Park|49.516|-121.419|CA|British Columbia|40|f
+Emperor Peak|50.300|-116.785|CA|British Columbia|40|f
+Empire Airport|44.790|-86.001|US|Michigan|40|f
+Empire Airport|40.580|-119.347|US|Nevada|40|f
 Embid de Ariza|41.378|-1.974|ES|Aragon|38
+Emmelbaum|50.050|6.267|DE|Rheinland-Pfalz|37
 Embid|40.973|-1.712|ES|Castille-La Mancha|35
 Emarese|45.725|7.690|IT|Aosta Valley|32
+Emalgolin Mongolzuxiang|46.671|84.007|CN|Xinjiang|0
+Emblegan|-7.133|108.421|ID|West Java|0
+Emil|46.647|83.074|CN|Xinjiang|0
 Emilio María Terán|-1.223|-78.513|EC|Tungurahua Province|0
 Emiralem|38.622|27.148|TR|İzmir Province|0
+Empalan|-8.395|115.151|ID|Bali|0
 Empedrado|-27.952|-58.806|AR|Corrientes|0
+Emplak|-7.661|108.730|ID|West Java|0
 Emuoha|4.884|6.860|NG|Rivers State|0

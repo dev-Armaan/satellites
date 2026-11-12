@@ -1,5 +1,5 @@
 Timor Leste|-8.833|125.750|TL||123|c
-Timiș County|45.667|21.500|RO||116|r
+Timiș County|45.667|21.500|RO||117|r
 Timişoara|45.754|21.226|RO|Timiș County|108
 Timon|-5.094|-42.837|BR|Maranhão|105
 Timika|-4.614|136.677|ID|Central Papua|103
@@ -27,16 +27,20 @@ Timberlake|37.321|-79.258|US|Virginia|82
 Timón|40.484|-3.597|ES|Madrid|82
 Timgad|35.493|6.470|DZ|Batna|81
 Timperley|53.400|-2.333|GB|England|81
+Timbuktu Airport|16.730|-3.008|ML|Tombouctou|81|f
 Timau|0.084|37.239|KE|Meru County|80
 Timrå|62.487|17.326|SE|Västernorrland|80
 Timberlane|29.877|-90.032|US|Louisiana|80
 Timonium|39.437|-76.620|US|Maryland|80
 Timmendorfer Strand|53.995|10.777|DE|Schleswig-Holstein|79
+Timimoun Airport|29.237|0.276|DZ|Timimoun|79|f
 Timaná|1.971|-75.931|CO|Huila Department|78
 Timbó Grande|-26.615|-50.674|BR|Santa Catarina|77
+Timișoara Traian Vuia International Airport|45.810|21.338|RO|Timiș County|75|f
 Timberlea|44.662|-63.746|CA|Nova Scotia|75
 Timbé do Sul|-28.832|-49.846|BR|Santa Catarina|75
 Timber Pines|28.470|-82.603|US|Florida|75
+Timbedra Airport|16.233|-8.167|MR|Hodh Ech Chargi|74|f
 Timboroa|0.086|35.530|KE||74
 Timiaouine|20.441|1.806|DZ|Bordj Badji Mokhtar|73
 Timiryazevo|53.749|66.489|KZ|North Kazakhstan|72
@@ -49,12 +53,18 @@ Timiryazevskiy|54.929|60.763|RU|Chelyabinsk|70
 Timelkam|48.004|13.608|AT|Upper Austria|70
 Timbé|8.170|-4.947|CI|Vallée du Bandama District|69
 Timonan|8.212|123.068|PH|Zamboanga Peninsula|69
+Timmiarmiit|62.750|-42.167|GL|Sermersooq|69|f
+Timor Sea|-11.500|127.000|||69|f
 Timberville|38.639|-78.774|US|Virginia|68
 Timsbury|51.324|-2.479|GB|England|68
 Timburi|-23.205|-49.607|BR|São Paulo|68
 Timbaúba dos Batistas|-6.465|-37.274|BR|Rio Grande do Norte|68
 Timmonsville|34.135|-79.940|US|South Carolina|68
 Timmerlah|52.239|10.450|DE|Lower Saxony|67
+Timmiarmiut Fjord|62.650|-42.667|GL||65|f
+Timber Hill|37.995|-94.318|US|Missouri|63|f
+Timor|-8.833|126.000|ID|East Nusa Tenggara|63|f
+Timpahute Range|37.643|-115.528|US|Nevada|63|f
 Timmernabben|56.967|16.433|SE|Kalmar|63
 Timkovichi|53.071|26.990|BY|Minsk|62
 Timrat|32.703|35.223|IL|Northern District|62
@@ -63,14 +73,82 @@ Timan|8.175|-6.739|CI|Woroba|62
 Timboon|-38.484|142.980|AU|Victoria|61
 Timpson|31.904|-94.395|US|Texas|61
 Timmaspe|54.140|9.894|DE|Schleswig-Holstein|61
+Timblón, Cape|-62.704|-61.330|AQ||61|f
 Timmenrode|51.771|11.006|DE|Saxony-Anhalt|61
 Timorossié|8.030|-2.697|CI|Zanzan District|61
 Timboroni|9.939|-6.368|CI|Savanes District|61
+Timberlane|42.335|-88.861|US|Illinois|60
+Timul|21.193|-89.390|MX|Yucatán|59
+Tími|34.732|32.516|CY|Pafos|59
+Timmersdala|58.533|13.750|SE|Västra Götaland|59
+Timbani|9.346|-7.062|CI|Denguélé District|59
+Tim|56.196|8.308|DK|Central Jutland|59
+Timnar|19.690|81.348|IN|Chhattisgarh|58
+Timmins/Victor M. Power Airport|48.569|-81.375|CA|Ontario|58|f
+Timothy Lake|45.121|-121.786|US|Oregon|58|f
+Timmele|57.859|13.429|SE|Västra Götaland|58
+Timmorim|31.715|34.761|IL|Southern District|58
+Timiryazyevka|47.418|31.319|UA|Mykolaiv|57
+Timberlake|41.666|-81.443|US|Ohio|56
+Timnath|40.529|-104.985|US|Colorado|56
+Timsfors|56.483|13.583|SE|Kronoberg|56
+Timber Lakes|40.473|-111.248|US|Utah|56
+Timoshenko|45.291|33.974|UA|Crimea|55
+Timberland|53.112|-0.329|GB|England|55
+Timahoe|52.958|-7.205|IE|Leinster|55
+Timul|20.310|-88.938|MX|Yucatán|55
+Timmersdorf|47.376|14.961|AT|Styria|55
+Timba Timba Island|4.555|118.921|MY|Sabah|54|f
+Timbalier Island|29.071|-90.498|US|Louisiana|54|f
+Timbavati Game Reserve|-24.388|31.336|ZA|Limpopo|54|f
+Timilersua|74.017|-56.850|GL|Avannaata|54|f
+Tims Ford Lake|35.221|-86.210|US|Tennessee|54|f
 Timber Lake|45.429|-101.074|US|South Dakota|54
+Tima|-10.447|-161.018|CK||49|f
+Timber Mountain|34.245|-117.593|US|California|49|f
+Timber Peak|-74.167|162.383|AQ||49|f
+Timber Top Mountain|37.424|-113.179|US|Utah|49|f
+Timberlake, Cape|-78.967|161.617|AQ||49|f
+Timesguida n’Ouanoukrim|31.037|-7.945|MA|Marrakesh-Safi|49|f
+Timmerman Hill|42.182|-73.947|US|New York|49|f
+Timosthenes, Mount|-69.133|-65.950|AQ||49|f
+Timbalier Bay|29.162|-90.348|US|Louisiana|40|f
+Timber Bay|54.183|-105.718|CA|Saskatchewan|40|f
+Timber Cove|38.530|-123.271|US|California|40|f
+Timber Lake|44.692|-64.174|CA|Nova Scotia|40|f
+Timber Lake|39.364|-122.777|US|California|40|f
+Timber Point|43.401|-70.394|US|Maine|40|f
+Timberline Lake|43.686|-110.812|US|Wyoming|40|f
+Timms Hill|45.451|-90.195|US|Wisconsin|40|f
+Timpa Lake|43.925|-115.054|US|Idaho|40|f
+Timpanogos Cave National Monument|40.440|-111.709|US|Utah|40|f
+Timpanogos Glacier (historical)|40.366|-111.620|US|Utah|40|f
+Timpone della Motta|39.806|16.372|IT|Calabria|40|f
+Tims Mountain|37.547|-90.582|US|Missouri|40|f
+Timahankrajan|-8.149|111.654|ID|East Java|0
 Timar|38.829|43.433|TR|Van|0
 Timargara|34.827|71.844|PK|Khyber Pakhtunkhwa|0
+Timba Lauk|-8.621|116.445|ID|West Nusa Tenggara|0
+Timba Timuk|-8.665|116.557|ID|West Nusa Tenggara|0
+Timbang|-6.387|105.982|ID|Banten|0
+Timbang Satu|-7.208|108.673|ID|Central Java|0
 Timbío|2.350|-76.683|CO|Cauca Department|0
 Timbiré|0.959|-78.865|EC|Esmeraldas|0
+Timbrangan|-6.860|111.487|ID|Central Java|0
+Timbulsari|-7.192|108.151|ID|West Java|0
+Timeng|18.553|110.026|CN|Hainan|0
 Timezgadiouine|30.884|-9.045|MA|Marrakesh-Safi|0
 Timezgana|34.580|-4.730|MA|Fes-Meknes|0
+Timian|23.549|113.288|CN|Guangdong|0
+Timon|-10.317|123.607|ID|East Nusa Tenggara|0
 Timoulilt|32.204|-6.467|MA|Beni Mellal-Khenifra|0
+Timukpeken|-8.722|116.526|ID|West Nusa Tenggara|0
+Timur|-6.886|113.029|ID|East Java|0
+Timur Dajah|-6.897|113.522|ID|East Java|0
+Timurembong|-6.996|112.781|ID|East Java|0
+Timurembung|-7.150|114.613|ID|East Java|0
+Timurjaya|-5.814|106.285|ID|Banten|0
+Timurleke|-7.037|113.677|ID|East Java|0
+Timurlorong|-6.862|115.264|ID|East Java|0
+Timursabah|-6.951|113.756|ID|East Java|0
+Timutuka|-9.997|124.534|ID|East Nusa Tenggara|0

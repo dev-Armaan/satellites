@@ -8,6 +8,7 @@ Międzyrzecz|52.445|15.578|PL|Lubusz|85
 Międzyrzec Podlaski|51.986|22.782|PL|Lublin|85
 Miechów|50.356|20.028|PL|Lesser Poland|81
 Miesbach|47.789|11.834|DE|Bavaria|81
+Miedwie|53.292|14.890|PL|West Pomerania|81|f
 Międzychód|52.599|15.897|PL|Greater Poland|81
 Mierlo|51.440|5.619|NL|North Brabant|79
 Mierzyn|53.430|14.465|PL|West Pomerania|79
@@ -22,6 +23,7 @@ Mieszkowice|52.787|14.493|PL|West Pomerania|71
 Miejska Górka|51.656|16.958|PL|Greater Poland|70
 Międzybrodzie Bialskie|49.787|19.197|PL|Silesia|70
 Międzylesie|50.148|16.667|PL|Lower Silesia|69
+Mielec Airport|50.322|21.462|PL|Subcarpathia|69|f
 Mierzęcice|50.445|19.129|PL|Silesia|69
 Miedzno|50.970|18.981|PL|Silesia|68
 Miękinia|51.188|16.736|PL|Lower Silesia|68
@@ -38,6 +40,7 @@ Międzylesie|52.145|15.383|PL|Lubusz|66
 Miechów Charsznica|50.396|19.950|PL|Lesser Poland|66
 Mieussy|46.134|6.524|FR|Auvergne-Rhône-Alpes|66
 Mieders|47.167|11.383|AT|Tyrol|65
+Mieming Range|47.353|10.961|AT|Tyrol|65|f
 Mietoinen|60.633|21.933|FI|Southwest Finland|65
 Miehikkälä|60.667|27.700|FI|Kymenlaakso|65
 Miedźna|49.982|19.049|PL|Silesia|64
@@ -46,14 +49,44 @@ Miedzna|52.468|22.089|PL|Mazovia|63
 Miélan|43.429|0.308|FR|Occitanie|63
 Miękinia|50.156|19.609|PL|Lesser Poland|62
 Mier y Noriega|23.423|-100.119|MX|Nuevo León|62
+Międzyrzec Podlaski Ghetto|51.983|22.783|PL|Lublin|61|f
 Mieleras|25.399|-103.267|MX|Coahuila|61
 Międzyrzecze Dolne|49.855|18.954|PL|Silesia|60
 Mielen-boven-Aalst|50.756|5.214|BE|Flanders|60
+Międzywodzie|54.005|14.697|PL|West Pomerania|60
+Miedzyświec|49.784|18.765|PL|Silesia|60
+Mielnik|52.332|23.044|PL|Podlasie|60
+Miège|46.311|7.547|CH|Valais|59
 Mieleszyn|52.669|17.498|PL|Greater Poland|59
+Mierlău|46.915|22.016|RO|Bihor County|59
+Mieleszyn|51.242|18.205|PL|Łódź Voivodeship|58
+Miesterhorst|52.461|11.141|DE|Saxony-Anhalt|58
+Międzyrzecze|50.025|19.065|PL|Silesia|58
+Miécret|50.367|5.252|BE|Wallonia|57
+Mierleștii de Sus|44.406|24.559|RO|Olt|57
 Miesenbach|47.840|15.982|AT|Lower Austria|57
+Mierczyce|51.093|16.314|PL|Lower Silesia|57
+Miechów|51.257|17.779|PL|Greater Poland|56
+Mieuxcé|48.400|0.012|FR|Normandy|56
+Mietesheim|48.879|7.642|FR|Grand Est|55
+Mielno|53.514|20.193|PL|Warmia-Masuria|55
+Miekojärvi|66.588|24.375|FI|Lapland|54|f
+Miers Bluff|-62.720|-60.438|AQ||54|f
+Miethe Glacier|-64.966|-63.033|AQ||54|f
+Miechowice Wielkie|50.191|20.744|PL|Lesser Poland|54
+Miechowice Małe|50.169|20.770|PL|Lesser Poland|54
+Miedniewice|52.083|20.302|PL|Mazovia|54
 Miedzichowo|52.376|15.959|PL|Greater Poland|53
+Miellen|50.333|7.667|DE|Rheinland-Pfalz|53
 Mieza|41.164|-6.691|ES|Castille and León|50
+Miesitz|50.733|11.833|DE|Thuringia|50
+Mien|56.417|14.850|SE|Kronoberg|49|f
+Miers Glacier|-78.083|163.667|AQ||49|f
+Mietkowski Lake|50.956|16.619|PL|Lower Silesia|49|f
 Miedes de Atienza|41.267|-2.964|ES|Castille-La Mancha|40
+Mięguszowiecki Szczyt Wielki|49.187|20.060|PL|Lesser Poland|40|f
+Miette Range|53.133|-117.852|CA|Alberta|40|f
+Mi’ersi|31.037|114.536|CN|Hubei|0
 Mieming|47.300|10.983|AT|Tyrol|0
 Mieres|42.122|2.639|ES|Catalonia|0
 Miesenbach bei Birkfeld|47.370|15.760|AT|Styria|0

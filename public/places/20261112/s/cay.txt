@@ -1,4 +1,4 @@
-Cayo District|17.000|-88.900|BZ||99|r
+Cayo District|17.000|-88.900|BZ||100|r
 Cayman Islands|19.500|-80.667|KY||98|c
 Cayenne|4.938|-52.335|GF|Guyane|96
 Çay|38.592|31.029|TR|Afyonkarahisar Province|91
@@ -11,35 +11,86 @@ Cayey|18.112|-66.166|PR|Cayey|85
 Cayce|33.966|-81.074|US|South Carolina|83
 Cayman Palms|19.278|-81.270|KY||79
 Çayırhan|40.098|31.673|TR|Ankara|78
+Cayambe|0.029|-77.986|EC||77|f
 Cayang|11.067|123.983|PH|Central Visayas|76
 Cayuga Heights|42.460|-76.488|US|New York|72
 Cayhagan|9.678|122.433|PH|Western Visayas|71
+Cayenne-Rochambeau|4.820|-52.360|GF|Guyane|70|f
 Çayağzı|41.224|29.218|TR|Istanbul|69
 Cayeux-sur-Mer|50.182|1.494|FR|Hauts-de-France|69
 Caye Caulker|17.737|-88.028|BZ|Belize District|69
+Caye Chapel|17.696|-88.042|BZ|Belize District|69|f
+Cayo de Luis Peña|18.306|-65.333|PR|Culebra|69|f
 Cayucos|35.443|-120.892|US|California|68
 Cayetano Germosén|19.344|-70.483|DO|Espaillat Province|68
+Cayo Coco Island|22.501|-78.427|CU|Ciego de Ávila Province|67|f
+Cayo Icacos|18.386|-65.589|PR|Fajardo|67|f
 Cayanga|16.115|120.399|PH|Ilocos|67
 Cayungnan|16.133|119.838|PH|Ilocos|66
 Cayanguan|11.689|122.291|PH|Western Visayas|66
+Cayo Largo Island|21.624|-81.484|CU|Isla de la Juventud|65|f
+Cayuga Lake|42.582|-76.635|US|New York|65|f
 Çayyazı|36.806|31.459|TR|Antalya|65
 Çaylı|38.153|28.144|TR|İzmir Province|65
 Cayes-Jacmel|18.231|-72.395|HT|Sud-Est|64
 Caylus|44.236|1.771|FR|Occitanie|64
 Çayköy|36.342|29.387|TR|Antalya|64
 Çayarası|40.052|42.776|TR|Kars Province|63
+Cayman Brac Island|19.717|-79.817|KY||63|f
+Cayo Santa Maria|22.645|-79.058|CU|Villa Clara Province|63|f
 Caythorpe|53.017|-0.600|GB|England|63
 Cayuco|18.291|-66.739|PR|Utuado|62
 Cayönü|38.136|41.503|TR|Batman|62
 Çayırbaşı|41.151|29.649|TR|Istanbul|61
+Cay Corker|17.742|-88.029|BZ|Belize District|61|f
+Cayo Santiago|18.156|-65.734|PR|Humacao|61|f
+Cayuga Island|43.073|-78.958|US|New York|61|f
 Cayuga|39.949|-87.460|US|Indiana|61
 Çayırdere|38.219|39.574|TR|Diyarbakır Province|60
 Cayna|-10.272|-76.389|PE|Huánuco Department|60
 Cayara|-13.796|-73.991|PE|Ayacucho|59
+Cayana Airstrip|3.898|-55.579|SR|Sipaliwini District|58|f
+Cayo Costa State Park|26.673|-82.247|US|Florida|58|f
+Cayo Fragoso|22.720|-79.493|CU|Villa Clara Province|58|f
+Cayo Levantado|19.167|-69.276|DO|Samaná|58|f
+Cayo Negro|18.030|-88.025|BZ|Belize District|58|f
+Cayo Zapatilla|9.264|-82.053|PA|Bocas del Toro Province|58|f
+Cayos de Caña Gorda|17.942|-66.871|PR|Guánica|58|f
+Cayuga and Seneca Canal|42.931|-76.769|US|New York|58|f
 Cayon|17.350|-62.733|KN|Saint Mary Cayon|58
+Çaygökpınar|40.710|31.723|TR|Bolu|58
+Çayır|41.459|31.997|TR|Zonguldak Province|58
+Cayumba|-9.483|-75.948|PE|Huánuco Department|57
+Cayres|44.925|3.807|FR|Auvergne-Rhône-Alpes|56
+Çaytepe|38.800|40.683|TR|Bingöl|56
+Çayağzı|41.098|31.216|TR|Düzce|55
+Çaybükü|40.860|30.979|TR|Düzce|55
+Cayco|-14.345|-71.161|PE|Cuzco Department|54
+Cayo de Agua|9.152|-82.058|PA|Bocas del Toro Province|54
 Cayrán|-9.981|-76.284|PE|Huánuco Department|54
+Cayuga|42.919|-76.726|US|New York|54
+Cay Chapel Airstrip|17.684|-88.045|BZ|Belize District|54|f
+Çayboğazı Barajı|36.526|29.683|TR|Antalya|54|f
+Caye Caulker Airport|17.735|-88.032|BZ|Belize District|54|f
+Cayo Guajaba|21.846|-77.517|CU|Camagüey|54|f
+Cayo Sabinal|21.668|-77.299|CU|Camagüey|54|f
+Cayuta Lake|42.367|-76.735|US|New York|54|f
 Cayarani|-14.672|-72.022|PE|Arequipa|53
+Cayo Batata|18.116|-65.771|PR|Humacao|49|f
+Cayo Cruz del Padre|23.268|-80.912|CU|Matanzas Province|49|f
+Cayo Gorda|15.854|-82.409|HN|Bay Islands|49|f
+Cayo Guillermo|22.595|-78.666|CU|Ciego de Ávila Province|49|f
+Cayo Levisa|22.883|-83.527|CU|Pinar del Río|49|f
+Cayo Norte|18.337|-65.257|PR|Culebra|49|f
+Cayo Romano|22.070|-77.834|CU|Camagüey|49|f
+Cayo Sur|15.067|-82.500|HN|Bay Islands|49|f
+Caywood, Mount|-75.302|-72.409|AQ||49|f
 Cayuela|42.272|-3.819|ES|Castille and León|42
+Cayambe Coca Ecological Reserve|0.050|-77.800|EC|Napo|40|f
+Cayoosh Mountain|50.400|-122.519|CA|British Columbia|40|f
+Cayucos State Beach|35.449|-120.905|US|California|40|f
+Cayuga Lake State Park|42.898|-76.755|US|New York|40|f
+Cayuse Hills|46.079|-109.700|US|Montana|40|f
 Çaybağı|38.694|39.620|TR|Elazığ|0
 Çaybağı|38.829|39.611|TR|Tunceli|0
 Çaybaşı|41.017|37.098|TR|Ordu|0
@@ -52,3 +103,4 @@ Cayhuayna|-9.959|-76.249|PE|Huánuco Department|0
 Caylloma|-15.189|-71.773|PE|Arequipa|0
 Cayma|-16.383|-71.551|PE|Arequipa|0
 Cayo Mambí|20.664|-75.269|CU|Holguín Province|0
+Cayur|-7.588|108.281|ID|West Java|0

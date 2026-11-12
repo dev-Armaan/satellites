@@ -10,8 +10,8 @@ West Bank|31.667|35.250|PS||127|r
 West Azerbaijan|37.667|45.000|IR||127|r
 Western Region|-0.612|30.556|UG||127|r
 West Sumatra|-1.000|100.500|ID||123|r
-West Kalimantan|0.000|110.500|ID||122|r
 West Pomerania|53.583|15.583|PL||122|r
+West Kalimantan|0.000|110.500|ID||122|r
 Weinan|34.504|109.509|CN|Shaanxi|122
 Western|5.450|-2.250|GH||120|r
 West|5.500|10.667|CM||120|r
@@ -20,10 +20,10 @@ Western Area|8.333|-13.117|SL||119|r
 Weihai|37.509|122.114|CN|Shandong|119
 Wellington Region|-41.283|174.767|NZ||118|r
 Western Province|-2.167|29.333|RW||118|r
-West Virginia|38.500|-80.500|US||117|r
+West Virginia|38.500|-80.500|US||118|r
 Western|13.233|-16.350|GM||116|r
+West Greece|38.488|21.291|GR||116|r
 Wenchang|19.552|110.803|CN|Hainan|115
-West Greece|38.488|21.291|GR||115|r
 Wenshan City|23.363|104.250|CN|Yunnan|113
 West Kazakhstan|49.817|50.683|KZ||113|r
 Welkom|-27.977|26.735|ZA|Free State|113
@@ -34,7 +34,7 @@ West Raleigh|35.787|-78.664|US|North Carolina|111
 Western Sahara|24.492|-12.656|EH||109|c
 West Kordofan|11.833|28.317|SD||108|r
 Western Province|-15.000|24.000|ZM||108|r
-West Macedonia|40.267|21.324|GR||105|r
+West Macedonia|40.267|21.324|GR||106|r
 West Papua|-0.865|134.061|ID||105|r
 Westonaria|-26.319|27.649|ZA|Gauteng|104
 West Sulawesi|-2.500|119.333|ID||104|r
@@ -54,6 +54,7 @@ Wembley|51.552|-0.297|GB|England|99
 West Pokot County|1.750|35.250|KE||99|r
 West Town|41.894|-87.675|US|Illinois|99
 Wedding|52.547|13.356|DE|State of Berlin|99
+Weddell Sea|-73.000|-45.000|AQ||98|f
 Wensu|41.275|80.236|CN|Xinjiang|98
 Weston-super-Mare|51.346|-2.977|GB|England|98
 Westland|42.324|-83.400|US|Michigan|98
@@ -64,11 +65,11 @@ Weston|26.100|-80.400|US|Florida|97
 Wenjiang|28.388|104.563|CN|Sichuan|97
 Wenling|28.375|121.384|CN|Zhejiang|97
 West Lynchburg|37.403|-79.178|US|Virginia|96
+Westmoreland|18.233|-78.150|JM||96|r
 Weimar|50.980|11.329|DE|Thuringia|96
 West Bloomfield Township|42.569|-83.384|US|Michigan|96
 West Des Moines|41.577|-93.711|US|Iowa|96
 Western Equatoria|5.400|28.400|SS||96|r
-Westmoreland|18.233|-78.150|JM||96|r
 West Hartford|41.762|-72.742|US|Connecticut|96
 Wellington|26.659|-80.241|US|Florida|96
 West Coon Rapids|45.160|-93.350|US|Minnesota|96
@@ -94,8 +95,7 @@ Welland|42.983|-79.250|CA|Ontario|94
 Weimiao|34.583|117.067|CN|Jiangsu|94
 Welwyn Garden City|51.802|-0.207|GB|England|94
 Werribee|-37.900|144.667|AU|Victoria|94
+Wenceslas Square|50.081|14.428|CZ|Prague|94|f
 Weert|51.252|5.707|NL|Limburg|94
 West Orange|40.799|-74.239|US|New Jersey|94
-Weiji|34.033|117.950|CN|Jiangsu|94
-Werota|11.917|37.700|ET|Amhara|94
 Wé|-20.917|167.265|NC|Loyalty Islands|80

@@ -24,6 +24,7 @@ Garhmuktesar|28.787|78.102|IN|Uttar Pradesh|91
 Gariadhar|21.539|71.577|IN|Gujarat|91
 Garibaldi|-29.256|-51.534|BR|Rio Grande do Sul|91
 Garoua|9.301|13.398|CM|North|91
+Garnier Opera|48.872|2.332|FR|Île-de-France|91|f
 Garhākota|23.779|79.143|IN|Madhya Pradesh|90
 Garfield|40.881|-74.113|US|New Jersey|90
 Garzón|2.196|-75.628|CO|Huila Department|89
@@ -84,6 +85,7 @@ Garautha|25.572|79.298|IN|Uttar Pradesh|80
 Garden City|33.593|-79.009|US|South Carolina|79
 Garadepe|38.032|54.034|TM|Balkan|79
 Garden City|32.114|-81.154|US|Georgia|79
+Garissa Airport|-0.463|39.648|KE|Garissa County|79|f
 Garango|6.963|-5.809|CI|Sassandra-Marahoue|79
 Garrison|39.406|-76.761|US|Maryland|79
 Garching an der Alz|48.135|12.582|DE|Bavaria|79
@@ -97,6 +99,7 @@ Garhi Dupatta|34.226|73.615|PK|Azad Kashmir|78
 Garhi Harsāru|28.445|76.939|IN|Haryana|78
 Garabogaz|41.540|52.573|TM|Balkan|78
 Garden City Park|40.741|-73.663|US|New York|78
+Gardiners Island|41.098|-72.103|US|New York|78|f
 Garhdiwāla|31.741|75.756|IN|Punjab|78
 Garnet|33.927|-116.477|US|California|78
 Garston|51.689|-0.395|GB|England|77
@@ -105,12 +108,15 @@ Gargenville|48.988|1.812|FR|Île-de-France|77
 Garrucha|37.181|-1.823|ES|Andalusia|77
 Gargaliánoi|37.065|21.638|GR|Peloponnese|77
 Garden Home-Whitford|45.464|-122.759|US|Oregon|76
+Garsjøen|69.918|28.937|NO|Finnmark|76|f
 Garrett|41.349|-85.136|US|Indiana|76
 Garayeri|40.787|46.314|AZ|Samux|76
 Garimellapadu|17.539|80.622|IN|Telangana|76
 Garswood|53.489|-2.672|GB|England|76
 Garachico|28.778|-17.765|ES|Canary Islands|76
 Garachico|28.374|-16.763|ES|Canary Islands|76
+Garden Point Airport|-11.400|130.425|AU|Northern Territory|75|f
+Garfield County Regional Airport|39.526|-107.727|US|Colorado|75|f
 Gardnerville|38.941|-119.750|US|Nevada|75
 Gardiner|44.230|-69.775|US|Maine|75
 Garrā|21.809|80.141|IN|Madhya Pradesh|75
@@ -132,6 +138,8 @@ Garchizy|47.048|3.096|FR|Bourgogne-Franche-Comté|72
 Garden Ridge|29.635|-98.305|US|Texas|72
 Garbolovo|60.341|30.496|RU|Leningradskaya Oblast'|72
 Gars|48.154|12.278|DE|Bavaria|72
+Gardner Lake|41.512|-72.227|US|Connecticut|71|f
+Gareloi Island|51.794|-178.808|US|Alaska|71|f
 Garobo|6.766|-6.858|CI|Sassandra-Marahoue|71
 Garda|45.579|10.718|IT|Veneto|71
 Garino|44.973|7.617|IT|Piedmont|71
@@ -139,12 +147,18 @@ Garāb|33.474|47.236|IR|Lorestan Province|70
 Garbatka-Letnisko|51.483|21.611|PL|Mazovia|70
 Garešnica|45.574|16.941|HR|Bjelovar-Bilogora|70
 Garnett|38.281|-95.242|US|Kansas|70
+Garni Temple|40.112|44.730|AM|Ararat|70|f
 Gargas|43.902|5.358|FR|Provence-Alpes-Côte d'Azur|70
 Gari|59.431|62.350|RU|Sverdlovsk Oblast|70
 Garner|43.102|-93.602|US|Iowa|70
 Garapan|15.211|145.720|MP|Saipan|70
 Garding|54.331|8.781|DE|Schleswig-Holstein|70
 Garyville|30.056|-90.619|US|Louisiana|69
+Garberville Airport|40.086|-123.813|US|California|69|f
+Gardner Pinnacles|24.999|-168.000|US|Hawaii|69|f
+Gardsjøen|69.709|30.846|NO|Finnmark|69|f
+Garzê Kangding Airport|30.139|101.743|CN|Sichuan|69|f
+Garzón La Jagua Airport|2.151|-75.689|CO|Huila Department|69|f
 Garruchos|-28.184|-55.639|BR|Rio Grande do Sul|69
 Gârcov|43.759|24.616|RO|Olt|69
 Gara|46.032|19.043|HU|Bács-Kiskun|68
@@ -177,6 +191,11 @@ Garcz|54.348|18.102|PL|Pomerania|66
 Gars am Kamp|48.598|15.661|AT|Lower Austria|66
 Gariep Dam|-30.601|25.495|ZA|Free State|65
 Gargallo|45.729|8.425|IT|Piedmont|65
+Gardez Old Airfield|33.628|69.238|AF|Paktia|65|f
+Garegin Nzhdeh Square|40.151|44.483|AM|Yerevan|65|f
+Garhi Pūkhta Drain|29.546|77.311|IN|Uttar Pradesh|65|f
+Garibong|38.093|128.342|KR|Gangwon-do|65|f
+Garrett Island|39.565|-76.089|US|Maryland|65|f
 Garyp|53.167|5.967|NL|Friesland|65
 Garmen|41.600|23.817|BG|Blagoevgrad|65
 Garennes-sur-Eure|48.911|1.438|FR|Normandy|65
@@ -200,6 +219,11 @@ Gardinovci|45.204|20.136|RS|Vojvodina|64
 Gardonne|44.836|0.333|FR|New Aquitaine|64
 Garagum|37.849|59.103|TM|Ahal|63
 Gârnic|44.786|21.794|RO|Caraș-Severin County|63
+Gardner Municipal Airport|42.551|-72.015|US|Massachusetts|63|f
+Gårekneet Ridge|-72.067|14.800|AQ||63|f
+Garip Adası|39.007|26.785|TR|İzmir Province|63|f
+Garisan|37.872|127.957|KR|Gangwon-do|63|f
+Garnseys Airport|43.069|-73.584|US|New York|63|f
 Garstedt|53.285|10.161|DE|Lower Saxony|63
 Gargazzone|46.585|11.202|IT|Trentino-Alto Adige|63
 Gardner|41.186|-88.310|US|Illinois|63
@@ -226,6 +250,12 @@ Garganta la Olla|40.110|-5.777|ES|Extremadura|61
 Garruchos|-28.172|-55.654|AR|Corrientes|61
 Garipçe|38.771|30.351|TR|Afyonkarahisar Province|61
 Garça de Cima|17.114|-25.165|CV|Ribeira Grande|61
+Garden City Regional Airport|37.928|-100.720|US|Kansas|61|f
+Garet|-14.267|167.500|VU|Torba|61|f
+Garfield Peak|42.782|-107.265|US|Wyoming|61|f
+Garip Adaları|39.005|26.790|TR|İzmir Province|61|f
+Gary/Chicago International Airport|41.618|-87.408|US|Indiana|61|f
+Garzón Point|-64.917|-62.880|AQ||61|f
 Gardouch|43.391|1.684|FR|Occitanie|61
 Garrafe de Torío|42.733|-5.524|ES|Castille and León|61
 Gärsnäs|55.549|14.179|SE|Skåne|61
@@ -238,17 +268,117 @@ Garnay|48.705|1.337|FR|Centre-Val de Loire|60
 Garha Brahman|23.869|77.357|IN|Madhya Pradesh|60
 Gărăgău|44.232|25.189|RO|Teleorman County|60
 Gargūr|28.871|51.047|IR|Bushehr|60
+Garysburg|36.451|-77.559|US|North Carolina|60
 Garlenda|44.033|8.095|IT|Liguria|60
+Gärsnäs|59.417|12.900|SE|Värmland|60
 Garaguso|40.549|16.228|IT|Basilicate|60
+Gardiner|41.680|-74.150|US|New York|60
+Garakel|38.428|56.332|TM|Balkan|59
+Garnei|47.648|13.131|AT|Salzburg|59
+Gärds Köpinge|55.933|14.150|SE|Skåne|59
+Garberville|40.100|-123.795|US|California|59
+Garcíaz|39.413|-5.628|ES|Extremadura|59
+Garlan|48.602|-3.757|FR|Brittany|59
+Garofano|44.459|11.001|IT|Emilia-Romagna|59
+Garden Plain|37.658|-97.684|US|Kansas|59
+Garrison|31.824|-94.491|US|Texas|59
+Gary|37.364|-81.550|US|West Virginia|59
+Garlyk|37.590|66.341|TM|Dasoguz|59
+Gardiner|45.032|-110.706|US|Montana|59
+Garrison|38.606|-83.173|US|Kentucky|59
+Garber|36.437|-97.586|US|Oklahoma|59
+Gariché|8.483|-82.783|PA|Chiriquí Province|59
+Garmābsard|35.468|52.352|IR|Tehran|59
+Gargantilla|21.265|-98.958|MX|Hidalgo|58
 Garnich|49.617|5.952|LU|Capellen|58
+Garrett|32.363|-96.655|US|Texas|58
+Gara Furī Terara|8.883|38.683|ET|Oromiya|58|f
+Garachiné Airport|8.065|-78.367|PA|Darién|58|f
+Garbahaareey Airport|3.325|42.214|SO|Gedo|58|f
+Gardiners Bay|41.089|-72.213|US|New York|58|f
+Garfield Mountain|47.553|-121.493|US|Washington|58|f
+Garibaldi Bridge|41.891|12.474|IT|Lazio|58|f
+Garland Lakes|44.166|-114.793|US|Idaho|58|f
+Garowe International Airport|8.461|48.572|SO|Nugaal|58|f
+Garrett County Airport|39.582|-79.338|US|Maryland|58|f
+Gartan Lough|54.990|-7.917|IE|Ulster|58|f
+Garbanzal|-3.611|-80.435|PE|Tumbes|58
+Gardinovec|46.427|16.558|HR|Međimurje|58
+Garibaldi|45.560|-123.911|US|Oregon|58
+Gârbovăț|44.868|22.010|RO|Caraș-Severin County|58
+Garešnički Brestovac|45.609|16.950|HR|Bjelovar-Bilogora|58
+Garagöl|39.380|53.173|TM|Balkan|58
 Gârbău|46.833|23.352|RO|Cluj County|58
+Garrapatas (Garrapata)|17.189|-99.519|MX|Guerrero|58
+Gârdoaia|44.765|22.924|RO|Mehedinți County|58
+Gargunnock|56.125|-4.083|GB|Scotland|58
+Garnat-sur-Engièvre|46.634|3.663|FR|Auvergne-Rhône-Alpes|57
 Garčin|45.183|18.183|HR|Brod-Posavina|57
+Gârdești|46.550|27.450|RO|Vaslui County|57
 Garriguella|42.344|3.065|ES|Catalonia|57
+Garnavillo|42.869|-91.236|US|Iowa|57
 Garlitos|38.880|-5.048|ES|Extremadura|57
+Garza-Salinas II|26.352|-98.760|US|Texas|57
+Gara Banca|46.339|27.794|RO|Vaslui County|57
+Garaoua|7.702|-3.369|CI|Zanzan District|57
+Garden Creek|58.700|-113.886|CA|Alberta|57
+Garki|51.538|17.643|PL|Greater Poland|57
+Garipköy|37.472|29.009|TR|Denizli|57
+Garzones (Santa Gertrudis)|18.278|-98.030|MX|Puebla|57
+Garden Grove|28.480|-82.435|US|Florida|57
+Gardenstown|57.672|-2.338|GB|Scotland|57
+Gardíki|39.359|20.565|GR|Epirus|56
+Garéfeion|41.028|22.046|GR|Central Macedonia|56
+Garakān|34.551|49.962|IR|Markazi|56
 Garzeno|46.134|9.250|IT|Lombardy|56
+Garson|50.078|-96.707|CA|Manitoba|56
+Garland|34.786|-78.394|US|North Carolina|56
+Gargyly|38.240|56.833|TM|Balkan|56
 Gardola|45.742|10.719|IT|Lombardy|56
+Garnerans|46.208|4.842|FR|Auvergne-Rhône-Alpes|56
+Garabatillo|21.315|-100.749|MX|Guanajuato|56
+Gardiner Mines|46.208|-60.047|CA|Nova Scotia|56
+Garfield|47.008|-117.141|US|Washington|56
+Garayazi|41.306|45.241|AZ|Ağstafa|56
+Garrido Canaval|17.074|-93.027|MX|Chiapas|55
+Gargas|43.757|1.468|FR|Occitanie|55
+Garden City|41.947|-111.394|US|Utah|55
+Garmouth|57.665|-3.109|GB|Scotland|55
 Garcihernández|40.861|-5.436|ES|Castille and León|55
+Garindein|43.209|-0.906|FR|New Aquitaine|55
+Gareh Choghā|34.340|48.099|IR|Hamadan Province|55
+Garrigues-Sainte-Eulalie|43.983|4.317|FR|Occitanie|55
+Gargallo|44.743|10.861|IT|Emilia-Romagna|55
+Garboldisham|52.395|0.947|GB|England|55
 Garbayuela|39.050|-4.999|ES|Extremadura|55
+Garnish|47.230|-55.356|CA|Newfoundland and Labrador|55
+Garganvillar|43.979|1.068|FR|Occitanie|55
+Garza Valdez|24.518|-99.387|MX|Tamaulipas|54
+Garip|38.784|40.564|TR|Bingöl|54
+Gara Berheci|45.974|27.437|RO|Galați County|54
+Garfield|36.448|-93.974|US|Arkansas|54
+Garcelles-Secqueville|49.099|-0.290|FR|Normandy|54
+García de la Cadena|22.706|-102.664|MX|Zacatecas|54
+Garencières|48.956|1.265|FR|Normandy|54
+Gara Djebilet Airport|26.884|-7.163|DZ|Tindouf|54|f
+Garanhuns Airport|-8.834|-36.472|BR|Pernambuco|54|f
+Garbh Eileach|56.244|-5.763|GB|Scotland|54|f
+Garcon Point|30.439|-87.092|US|Florida|54|f
+Gard Island|41.749|-83.444|US|Michigan|54|f
+Gardabya Airport|31.064|16.595|LY|Surt|54|f
+Garde Islands|-65.858|-66.343|AQ||54|f
+Gardener Butte|42.460|-122.586|US|Oregon|54|f
+Gardner Municipal Airport|38.811|-94.955|US|Kansas|54|f
+Gardsjøen|60.430|12.064|NO|Innlandet|54|f
+Garfield Park|38.882|-77.005|US|District of Columbia|54|f
+Garnerin Point|-64.685|-62.141|AQ||54|f
+Garnet Rocks|-68.356|-67.058|AQ||54|f
+Gāro Hills|25.500|90.333|IN|Meghalaya|54|f
+Garoua Airport|9.336|13.370|CM|North|54|f
+Garvellachs|56.236|-5.777|GB|Scotland|54|f
+Garpenberg|60.317|16.200|SE|Dalarna|54
+Garwin|42.094|-92.676|US|Iowa|54
+Gardenia|17.670|-88.419|BZ|Belize District|54
 Garray|41.816|-2.446|ES|Castille and León|54
 Garcia|41.133|0.650|ES|Catalonia|54
 Garínoain|42.600|-1.644|ES|Navarre|53
@@ -258,6 +388,33 @@ Garcillán|40.978|-4.266|ES|Castille and León|52
 Garganta de los Montes|40.920|-3.684|ES|Madrid|51
 Garden City|31.864|-101.481|US|Texas|50
 Garrigàs|42.193|2.954|ES|Catalonia|50
+Garadice Lough|54.053|-7.712|IE|Connacht|49|f
+Garajonay National Park|28.134|-17.241|ES|Canary Islands|49|f
+Garba Tula Airport|0.522|38.516|KE|Isiolo County|49|f
+Garbh Bheinn|56.704|-5.425|GB|Scotland|49|f
+Garcie Peaks|-69.531|-66.751|AQ||49|f
+Garden Island|-34.807|138.534|AU|South Australia|49|f
+Garden Island|-43.260|147.131|AU|Tasmania|49|f
+Gardens Oval|-12.446|130.834|AU|Northern Territory|49|f
+Gardiner, Mount|-86.317|-150.950|AQ||49|f
+Gardner Island|-68.578|77.870|AQ||49|f
+Gardner Mountain|48.507|-120.488|US|Washington|49|f
+Garfield Mountain|42.091|-74.367|US|New York|49|f
+Garforth Island|58.790|-136.071|US|Alaska|49|f
+Gargoyle Ridge|-82.400|159.500|AQ||49|f
+Garig Gunak Barlu National Park|-11.321|132.178|AU|Northern Territory|49|f
+Garigal National Park|-33.708|151.246|AU|New South Wales|49|f
+Garinish|51.814|-9.901|IE|Munster|49|f
+Garm|63.083|-42.483|GL|Sermersooq|49|f
+Garnet Point|-66.933|143.767|AQ||49|f
+Garrard Glacier|-84.117|169.583|AQ||49|f
+Garratt Road Bridge|-31.932|115.916|AU|Western Australia|49|f
+Garraunbaun|52.221|-9.236|IE|Munster|49|f
+Garten|63.642|9.516|NO|Trøndelag|49|f
+Gartnerkofel|46.573|13.305|AT|Carinthia|49|f
+Garuk|27.765|64.855|PK|Balochistan|49|f
+Garver Hill|42.543|-74.234|US|New York|49|f
+Garwood Glacier|-78.017|163.950|AQ||49|f
 Garzigliana|44.837|7.374|IT|Piedmont|49
 Garcibuey|40.516|-5.994|ES|Castille and León|47
 Garniga Nuova|46.003|11.087|IT|Trentino-Alto Adige|47
@@ -268,23 +425,96 @@ Gargüera|40.061|-5.928|ES|Extremadura|44
 Garaballa|39.817|-1.367|ES|Castille-La Mancha|42
 Gargallo|40.836|-0.584|ES|Aragon|41
 Garvín|39.720|-5.347|ES|Extremadura|40
+Garbuna Group|-5.440|150.026|PG|West New Britain Province|40|f
+Garcia Point|-85.233|-170.267|AQ||40|f
+Garde de Bordon|46.121|7.598|CH|Valais|40|f
+Garden Bay Marine Park|49.638|-124.007|CA|British Columbia|40|f
+Garden Island|44.200|-76.466|CA|Ontario|40|f
+Garden Island|45.805|-85.495|US|Michigan|40|f
+Garden Lake|47.921|-91.747|US|Minnesota|40|f
+Garden of Santa Barbara|41.551|-8.426|PT|Braga|40|f
+Garden of the Gods|38.868|-104.891|US|Colorado|40|f
+Garden Peninsula|45.700|-86.633|US|Michigan|40|f
+Gardenview Horticultural Park|41.296|-81.833|US|Ohio|40|f
+Gardiner Airport|45.048|-110.747|US|Montana|40|f
+Gardiner Dam|51.267|-106.868|CA|Saskatchewan|40|f
+Gardiner Glacier|-86.017|-131.800|AQ||40|f
+Gardiner Island|55.847|-101.844|CA|Manitoba|40|f
+Gardiner Island|63.458|-68.383|CA|Nunavut|40|f
+Gardiner Museum|43.668|-79.393|CA|Ontario|40|f
+Gardiner Ridge|-75.650|-132.433|AQ||40|f
+Gardner Airport|45.267|-104.857|US|Montana|40|f
+Gardner Airport|37.114|-93.204|US|Missouri|40|f
+Gardner Farm Airport|33.803|-101.038|US|Texas|40|f
+Gardner Pond|42.675|-75.168|US|New York|40|f
+Gardner Ridge|-86.950|-148.400|AQ||40|f
+Gardom Lake|50.604|-119.200|CA|British Columbia|40|f
+Garendon Abbey|52.774|-1.258|GB|England|40|f
+Garfield Glacier|-74.950|-136.583|AQ||40|f
+Garfield Hills|38.451|-118.297|US|Nevada|40|f
+Garfield Lake|47.227|-94.748|US|Minnesota|40|f
+Garfield Peak|39.031|-106.595|US|Colorado|40|f
+Garfield Peak|42.904|-122.123|US|Oregon|40|f
+Garfield Range|81.802|-72.661|CA|Nunavut|40|f
+Garfield Square|37.750|-122.412|US|California|40|f
+Gargoyle Mountain|53.098|-118.155|CA|Alberta|40|f
+Garia Bay|47.683|-58.549|CA|Newfoundland and Labrador|40|f
+Garibaldi Lake|49.937|-123.026|CA|British Columbia|40|f
+Garibaldi Névé|49.853|-122.993|CA|British Columbia|40|f
+Garibaldi Park|50.000|-122.753|CA|British Columbia|40|f
+Garlaban|43.333|5.554|FR|Provence-Alpes-Côte d'Azur|40|f
+Garmen Point|-62.986|-62.608|AQ||40|f
+Garner Lake|54.198|-111.730|CA|Alberta|40|f
+Garner Lake Provincial Park|54.183|-111.735|CA|Alberta|40|f
+Garner State Park|29.583|-99.740|US|Texas|40|f
+Garnet Bay|65.301|-75.365|CA|Nunavut|40|f
+Garnet Peak|52.442|-120.200|CA|British Columbia|40|f
+Garnet Range|46.722|-112.959|US|Montana|40|f
+Garnett Municipal Airport|38.280|-95.214|US|Kansas|40|f
+Garrapata State Park|36.461|-121.914|US|California|40|f
+Garrett Island|74.752|-98.252|CA|Nunavut|40|f
+Garrison Dam|47.498|-101.413|US|North Dakota|40|f
+Garrison Municipal Airport|47.654|-101.437|US|North Dakota|40|f
+Garrotxa Volcanic Zone Natural Park|42.167|2.533|ES|Catalonia|40|f
+Garsellikopf|47.170|9.565|LI|Planken|40|f
+Garst Museum|40.107|-84.637|US|Ohio|40|f
+Gärstenhörner|46.598|8.361|CH||40|f
+Gärsthorn|46.344|7.917|CH|Valais|40|f
+Garvin Park|37.996|-87.564|US|Indiana|40|f
+Garwood Lake|41.795|-86.474|US|Michigan|40|f
+Garwood Point|-74.233|-110.600|AQ||40|f
 Garcirrey|40.900|-6.131|ES|Castille and León|40
 Garganta del Villar|40.450|-5.104|ES|Castille and León|35
 Garadassi|44.754|9.154|IT|Piedmont|29
+Gar|32.119|80.056|CN|Tibet|0
+Garahaji|-7.050|108.611|ID|West Java|0
+Garahan|-8.212|113.892|ID|East Java|0
 Garaioa|42.933|-1.233|ES|Navarre|0
+Garajati|-7.050|108.638|ID|West Java|0
 Garaku|8.847|8.130|NG|Nasarawa State|0
 Garamur|26.949|94.172|IN|Assam|0
+Garang|36.227|101.562|CN|Qinghai|0
+Garang|-6.723|111.403|ID|Central Java|0
 Garawangi|-6.999|108.539|ID|West Java|0
+Garawati|-6.364|106.119|ID|Banten|0
+Garbi|-7.502|109.215|ID|Central Java|0
 Garcia de Hevia Municipality|8.317|-72.252|VE|Táchira|0
 García Moreno|0.560|-77.948|EC|Carchi|0
 Garden City|15.611|32.565|SD|Khartoum|0
+Gardu|-7.076|108.385|ID|West Java|0
 Gardutanjak|-6.313|106.101|ID|Banten|0
+Gareba|-7.201|108.369|ID|West Java|0
 Garies|-30.562|17.989|ZA|Northern Cape|0
+Garisul|-6.505|106.496|ID|West Java|0
 Garkalne|57.045|24.420|LV|Ropaži Municipality|0
 Garki|12.435|9.190|NG|Jigawa State|0
 Garko|11.650|8.803|NG|Kano State|0
 Garmeh|36.987|56.289|IR|North Khorasan|0
+Garmo|31.261|94.916|CN|Tibet|0
+Garokgek|-6.311|106.032|ID|Banten|0
 Garrigoles|42.100|3.033|ES|Catalonia|0
 Gartog|29.685|98.595|CN|Tibet|0
 Garun Malam|11.686|8.370|NG|Kano State|0
+Garunggang|-7.466|108.223|ID|West Java|0
+Garunggang|-7.205|108.442|ID|West Java|0
 Garza|-28.153|-63.539|AR|Santiago del Estero|0

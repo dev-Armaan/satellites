@@ -9,6 +9,7 @@ Llíria|39.629|-0.598|ES|Valencia|87
 Llaillay|-32.840|-70.956|CL|Valparaiso|87
 Llazicë|42.555|20.763|XK|Prizren|86
 Llanquihue|-41.256|-73.006|CL|Los Lagos Region|84
+Llanquihue Lake|-41.132|-72.810|CL|Los Lagos Region|84|f
 Llandudno|53.325|-3.831|GB|Wales|84
 Llantrisant|51.540|-3.374|GB|Wales|83
 Llantwit Major|51.411|-3.486|GB|Wales|83
@@ -17,6 +18,7 @@ Llanera|43.440|-5.851|ES|Asturias|83
 Llanes|43.420|-4.755|ES|Asturias|83
 Llano Bonito|7.974|-80.421|PA|Herrera Province|80
 Llorente|11.412|125.546|PH|Eastern Visayas|78
+Lloydminster Airport|53.309|-110.073|CA|Alberta|77|f
 Llagostera|41.827|2.894|ES|Catalonia|77
 Lluta|-16.015|-72.014|PE|Arequipa|76
 Lloren|16.333|120.433|PH|Ilocos|75
@@ -61,6 +63,8 @@ Llano Grande|23.864|-105.206|MX|Durango|66
 Llanrug|53.148|-4.196|GB|Wales|66
 Llupia|42.621|2.769|FR|Occitanie|66
 Llansantffraid Glan Conwy|53.267|-3.800|GB|Wales|65
+Llawhaden Castle|51.822|-4.798|GB|Wales|65|f
+Lleida-Alguaire Airport|41.729|0.538|ES|Catalonia|65|f
 Llanberis|53.118|-4.129|GB|Wales|65
 Llandeilo|51.885|-3.992|GB|Wales|65
 Llano Marín|8.488|-80.329|PA|Coclé|65
@@ -70,6 +74,8 @@ Llívia|42.465|1.981|ES|Catalonia|64
 Llano Grande|25.752|-108.085|MX|Sinaloa|64
 Lluka e Eperme|42.545|20.308|XK|Gjakova|64
 Llandysul|52.042|-4.309|GB|Wales|63
+Llanbedr Airport|52.812|-4.124|GB|Wales|63|f
+Llifen Calcuruppe Airport|-40.243|-72.248|CL|Los Ríos Region|63|f
 Llano Grande|19.370|-96.884|MX|Veracruz|63
 Llano de Enmedio|20.783|-98.014|MX|Veracruz|63
 Llano Grande|16.939|-99.433|MX|Guerrero|63
@@ -80,6 +86,7 @@ Llano Grande|18.828|-99.767|MX|México|62
 Lloret de Vistalegre|39.618|2.975|ES|Balearic Islands|61
 Llanerchymedd|53.331|-4.377|GB|Wales|61
 Llers|42.296|2.912|ES|Catalonia|61
+Llandovery Castle|51.993|-3.796|GB|Wales|61|f
 Llano de Agua|18.106|-96.811|MX|Oaxaca|61
 Llanfyllin|52.766|-3.272|GB|Wales|61
 Llanilar|52.357|-4.026|GB|Wales|61
@@ -92,19 +99,94 @@ Llano de las Flores (Barrio del Hueso)|19.436|-99.323|MX|México|60
 Llano del Tigre|22.128|-105.305|MX|Nayarit|60
 Llangynidr|51.867|-3.228|GB|Wales|60
 Llano Largo|7.909|-80.424|PA|Los Santos Province|60
+Llangeinor|51.576|-3.569|GB|Wales|60
 Llama|-6.515|-79.120|PE|Cajamarca Department|60
 Llusco|-14.339|-72.115|PE|Cuzco Department|60
+Llano Grande|16.303|-98.443|MX|Oaxaca|60
+Llano de Santa Rosa|8.761|-79.863|PA|Panamá Oeste Province|59
 Llera|38.450|-6.050|ES|Extremadura|59
+Llano Grande|20.036|-104.874|MX|Jalisco|59
+Llano Nuevo|16.601|-97.508|MX|Oaxaca|59
+Llano Largo|14.467|-89.017|HN|Ocotepeque Department|59
+Llanymynech|52.781|-3.089|GB|Wales|59
 Llangwm|51.748|-4.914|GB|Wales|59
+Llechryd|52.068|-4.608|GB|Wales|59
+Llannon|51.755|-4.118|GB|Wales|59
+Llan Ffestiniog|52.958|-3.930|GB|Wales|59
 Llangoed|53.294|-4.088|GB|Wales|59
+Llocnou d'En Fenollet|39.014|-0.467|ES|Valencia|58
+Llangibby Castle|51.672|-2.921|GB|Wales|58|f
+Llangynwyd Castle|51.585|-3.659|GB|Wales|58|f
+Lleulleu Lake|-38.151|-73.322|CL|Biobio|58|f
+Llano Grande de los Hilarios|16.760|-98.439|MX|Guerrero|58
+Llano Crucero|16.910|-96.077|MX|Oaxaca|58
+Llano de la Canoa|17.094|-97.218|MX|Oaxaca|57
+Llandyrnog|53.175|-3.336|GB|Wales|57
 Llapa|-6.980|-78.807|PE|Cajamarca Department|57
 Llacllin|-10.069|-77.621|PE|Ancash|57
+Llano Sánchez|8.201|-80.705|PA|Coclé|57
+Lluka e Poshtme|42.546|20.336|XK|Gjakova|57
+Llano Grande|17.394|-99.100|MX|Guerrero|57
+Llano de la Cruz|22.434|-105.376|MX|Nayarit|57
+Llano Grande|15.263|-92.315|MX|Chiapas|57
+Llanddona|53.293|-4.137|GB|Wales|57
+Llano Grande|17.103|-93.125|MX|Chiapas|57
+Llano Grande|16.737|-99.174|MX|Guerrero|57
+Llano Grande de Juárez|16.898|-98.476|MX|Guerrero|57
 Llapo|-8.514|-78.042|PE|Ancash|57
+Llano Grande|22.864|-104.525|MX|Durango|57
+Llangattock|51.852|-3.148|GB|Wales|56
+Llangadog|51.938|-3.883|GB|Wales|56
 Llacanora|-7.194|-78.427|PE|Cajamarca Department|56
+Llanrhystud|52.306|-4.145|GB|Wales|56
+Llano Grande|19.848|-100.342|MX|Michoacán|56
+Llanos del Caudillo|39.118|-3.352|ES|Castille-La Mancha|56
 Llocllapampa|-11.817|-75.624|PE|Junin|56
+Llano Blanco|20.710|-99.353|MX|Hidalgo|56
+Llano Grande|18.833|-100.102|MX|México|56
+Llanwrtyd Wells|52.107|-3.639|GB|Wales|56
+Llano Grande de Milpillas Chico|23.410|-105.043|MX|Durango|56
 Llipa|-10.381|-77.207|PE|Ancash|56
+Llanbedrog|52.858|-4.487|GB|Wales|56
+Llan-non|52.282|-4.177|GB|Wales|56
+Llanos de San Lorenzo|20.274|-97.130|MX|Veracruz|56
+Llanfechell|53.392|-4.456|GB|Wales|55
 Lladó|42.248|2.814|ES|Catalonia|55
+Llandinam|52.485|-3.437|GB|Wales|55
+Llano de Guadalupe|17.168|-97.623|MX|Oaxaca|55
+Llardecáns|41.374|0.550|ES|Catalonia|55
 Llocnou de Sant Jeroni|38.917|-0.283|ES|Valencia|55
+Llano Grande|8.628|-79.931|PA|Panamá|55
+Llano Grande|17.033|-92.981|MX|Chiapas|55
+Llacta|-9.030|-77.828|PE|Ancash|55
+Llano Limón|8.249|-81.655|PA|Chiriquí Province|55
+Llandogo|51.734|-2.689|GB|Wales|55
+Llano Verde|16.549|-97.681|MX|Oaxaca|55
+Llano Largo (Santa Rosa de Lima)|20.024|-100.189|MX|Michoacán|55
+Llano Verde|19.759|-98.122|MX|Puebla|55
+Llano Junco|8.353|-81.754|PA|Ngöbe-Buglé Comarca|55
+Llano Largo|16.021|-93.796|MX|Chiapas|55
+Llano de los Laureles|20.309|-105.313|MX|Jalisco|54
+Llwyngwril|52.668|-4.084|GB|Wales|54
+Llano Silleta|16.938|-98.612|MX|Guerrero|54
+L L Stub Stewart State Park|45.737|-123.193|US|Oregon|54|f
+Llandough Castle|51.447|-3.448|GB|Wales|54|f
+Llandudno Bay|53.328|-3.814|GB|Wales|54|f
+Llangollen Branch|52.983|-3.183|GB|Wales|54|f
+Llano Municipal Airport|30.785|-98.660|US|Texas|54|f
+Llantrisant Castle|51.541|-3.376|GB|Wales|54|f
+Lloyd Barrage|27.680|68.846|PK|Sindh|54|f
+Lloyd Church Lake|34.882|-95.336|US|Oklahoma|54|f
+Lloyd Island|-12.761|143.400|AU|Queensland|54|f
+Llyn Arenig-fawr|52.917|-3.717|GB|Wales|54|f
+Llyn Cowlyd|53.133|-3.917|GB|Wales|54|f
+Llyn Cwellyn|53.067|-4.150|GB|Wales|54|f
+Llyn Dinas|53.017|-4.067|GB|Wales|54|f
+Llandissilio|51.858|-4.729|GB|Wales|54
+Llanrhidian|51.606|-4.170|GB|Wales|54
+Llano Grande|17.162|-98.883|MX|Guerrero|54
+Llique|-14.534|-72.135|PE|Cuzco Department|54
+Llanellen|51.793|-3.012|GB|Wales|54
 Llanarth|52.194|-4.308|GB|Wales|54
 Llaclla|-10.299|-77.146|PE|Ancash|54
 Lloque|-16.333|-70.733|PE|Moquegua Department|53
@@ -117,6 +199,19 @@ Llipata|-14.563|-75.207|PE|Ica|51
 Llano Grande|8.076|-81.135|PA|Veraguas Province|50
 Llano Abajo|7.794|-80.408|PA|Los Santos Province|50
 Llano Ñopo|8.424|-81.616|PA|Ngöbe-Buglé Comarca|49
+Llanada Grande Airport|-41.871|-71.938|CL|Los Lagos Region|49|f
+Llanddwyn Island|53.133|-4.417|GB|Wales|49|f
+Llandegfedd Reservoir|51.693|-2.971|GB|Wales|49|f
+Llangorse Lake|51.931|-3.263|GB|Wales|49|f
+Llano, Mount|-84.800|-173.350|AQ||49|f
+Lliboutry Glacier|-67.488|-66.724|AQ||49|f
+Llyn Aled|53.100|-3.617|GB|Wales|49|f
+Llyn Alwen|53.083|-3.650|GB|Wales|49|f
+Llyn Conwy|53.000|-3.833|GB|Wales|49|f
+Llyn Gwynant|53.050|-4.033|GB|Wales|49|f
+Llyn Ogwen|53.124|-4.006|GB|Wales|49|f
+Llyn Padarn|53.129|-4.133|GB|Wales|49|f
+Llyn Peris|53.114|-4.105|GB|Wales|49|f
 Llauta|-14.244|-74.920|PE|Ayacucho|49
 Lles de Cerdanya|42.390|1.687|ES|Catalonia|47
 Llano Grande|7.974|-80.709|PA|Herrera Province|46
@@ -124,6 +219,22 @@ Llano de La Cruz|7.956|-80.641|PA|Herrera Province|45
 Lledó|40.955|0.277|ES|Aragon|45
 Llimiana|42.075|0.916|ES|Catalonia|45
 Llama|-8.915|-77.301|PE|Ancash|45
+Llambias House|29.887|-81.311|US|Florida|40|f
+Llandudno Pier Pavilion Theatre Ruins|53.328|-3.830|GB|Wales|40|f
+Llangorse Mountain|59.399|-132.804|CA|British Columbia|40|f
+Llanllugan Abbey|52.611|-3.393|GB|Wales|40|f
+Llanquian Castle|51.460|-3.413|GB|Wales|40|f
+Llansteffan Castle|51.766|-4.391|GB|Wales|40|f
+Llogara National Park|40.214|19.585|AL|Vlorë County|40|f
+Llotja de la Seda|39.474|-0.378|ES|Valencia|40|f
+Lloyd Lake|37.771|-122.482|US|California|40|f
+Lloyd R. Roundtree Seaplane Facility|56.813|-132.967|US|Alaska|40|f
+Lloyd Street Grounds (historical)|43.059|-87.934|US|Wisconsin|40|f
+Llyn Bochlwyd|53.114|-4.011|GB|Wales|40|f
+Llyn Cwmffynnon|53.087|-4.018|GB|Wales|40|f
+Llyn Idwal|53.117|-4.026|GB|Wales|40|f
+Llyn Llydaw|53.068|-4.048|GB|Wales|40|f
+Llyn Nantlle Uchaf|53.054|-4.218|GB|Wales|40|f
 Llano de Bureba|42.624|-3.459|ES|Castille and León|38
 Llano de Olmedo|41.267|-4.614|ES|Castille and León|38
 Llalli|-14.933|-70.881|PE|Puno|0

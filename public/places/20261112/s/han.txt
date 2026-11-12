@@ -23,6 +23,7 @@ Hanyū|36.167|139.533|JP|Saitama|95
 Hanford|36.327|-119.646|US|California|95
 Hannan|34.333|135.250|JP|Osaka|94
 Hanyuan|32.834|106.250|CN|Shaanxi|94
+Hans Island|80.826|-66.455|CA|Nunavut|94|f
 Hanwang|34.194|117.083|CN|Jiangsu|93
 Hansestadt Stade|53.594|9.473|DE|Lower Saxony|93
 Han’airike|37.542|80.117|CN|Xinjiang|93
@@ -32,6 +33,7 @@ Hanyuan|34.011|105.292|CN|Gansu|91
 Hanawa|40.184|140.787|JP|Akita|91
 Hang Hau|22.318|114.270|HK|Sai Kung District|91
 Hangu|33.532|71.059|PK|Khyber Pakhtunkhwa|91
+Hangzhou Xiaoshan International Airport|30.230|120.434|CN|Zhejiang|90|f
 Hāngal|14.765|75.125|IN|Karnataka|89
 Hanwang|33.343|105.010|CN|Gansu|89
 Hanover|18.417|-78.133|JM||88|r
@@ -65,16 +67,20 @@ Hanlin|33.475|104.902|CN|Gansu|81
 Hanumantanpatti|9.786|77.317|IN|Tamil Nadu|81
 Hanbin|43.938|81.261|CN|Xinjiang|80
 Hannié|5.194|-7.353|CI|Bas-Sassandra District|80
+Hana Airport|20.795|-156.014|US|Hawaii|80|f
 Hanson|42.075|-70.880|US|Massachusetts|80
 Hanceville|51.919|-123.045|CA|British Columbia|80
 Hanko|59.833|22.950|FI|Uusimaa|80
+Hang Nadim International Airport|1.121|104.115|ID|Riau|80|f
 Hani i Elezit|42.150|21.297|XK|Ferizaj|79
 Hanover|43.702|-72.290|US|New Hampshire|79
 Hanawa|36.947|140.416|JP|Fukushima|78
 Hānspura|25.057|84.549|IN|Bihar|78
 Hanover|44.150|-81.033|CA|Ontario|78
+Hancock County-Bar Harbor Airport|44.449|-68.362|US|Maine|78|f
 Hanjiashu|39.188|117.073|CN|Tianjin|78
 Hanga Roa|-27.153|-109.424|CL|Valparaiso|77
+Hanzhong Xiguan Airport|33.064|107.008|CN|Shaanxi|77|f
 Han Chey|12.258|105.948|KH|Kratie|76
 Handewitt|54.767|9.333|DE|Schleswig-Holstein|76
 Hänigsen|52.485|10.085|DE|Lower Saxony|76
@@ -87,25 +93,33 @@ Hanychi|48.127|23.821|UA|Zakarpattia|74
 Hanban|33.873|104.184|CN|Gansu|74
 Han Chey|12.143|105.527|KH|Kampong Cham|74
 Hana|5.690|-6.823|CI|Bas-Sassandra District|74
+Handnesøya|66.262|13.041|NO|Nordland|73|f
+Hanimaadhoo International Airport|6.746|73.169|MV|Haa Dhaalu Atholhu|73|f
+Hannover  Airport|52.460|9.693|DE|Lower Saxony|73|f
 Hanstedt|53.258|10.014|DE|Lower Saxony|73
 Hancock|47.127|-88.581|US|Michigan|73
 Hankensbüttel|52.729|10.606|DE|Lower Saxony|73
 Hankasalmi|62.383|26.433|FI|Central Finland|73
 Hank|51.735|4.897|NL|North Brabant|73
 Han Pijesak|44.082|18.953|BA|Srpska|72
+Hannibal Regional Airport|39.726|-91.446|US|Missouri|72|f
+Hans Lollik Island|18.398|-64.908|VI|Saint Thomas Island|72|f
 Hangu|47.050|26.033|RO|Neamț County|72
 Hanamā‘ulu|21.994|-159.355|US|Hawaii|72
 Hanušovce nad Topľou|49.027|21.504|SK|Prešov Region|72
+Hanöbukten|55.750|14.500|SE||71|f
 Hanover|38.714|-85.474|US|Indiana|71
 Hannahs Mill|32.933|-84.349|US|Georgia|70
 Hanover|45.156|-93.666|US|Minnesota|70
 Hanceville|34.061|-86.767|US|Alabama|70
+Handaberd|40.224|46.137|AZ|Kalbajar|70|f
 Handzame|51.025|3.003|BE|Flanders|70
 Hanna|51.633|-111.902|CA|Alberta|70
 Hansville|47.919|-122.554|US|Washington|70
 Hanerau-Hademarschen|54.124|9.421|DE|Schleswig-Holstein|70
 Hănțești|47.755|26.374|RO|Suceava|69
 Hanušovice|50.080|16.936|CZ|Olomouc Region|69
+Hankoniemi|59.858|23.114|FI|Uusimaa|69|f
 Hanapēpē Heights|21.916|-159.590|US|Hawaii|69
 Hanapēpē|21.907|-159.594|US|Hawaii|68
 Hanches|48.601|1.651|FR|Centre-Val de Loire|68
@@ -116,6 +130,8 @@ Hanönü|41.627|34.467|TR|Kastamonu|68
 Hangou|39.291|117.090|CN|Tianjin|68
 Hăneşti|47.917|26.983|RO|Botoșani County|67
 Hanhofen|49.317|8.341|DE|Rheinland-Pfalz|67
+Hanaki Dam|40.255|141.008|JP|Aomori|67|f
+Hanging Horn Lake|46.478|-92.695|US|Minnesota|67|f
 Hancock|44.529|-68.254|US|Maine|67
 Hanley Hills|38.686|-90.324|US|Missouri|67
 Hanköy|36.951|40.199|TR|Şanlıurfa|67
@@ -125,12 +141,26 @@ Handorf|53.341|10.347|DE|Lower Saxony|66
 Hantsindzi|-11.432|43.411|KM|Grande Comore|66
 Hangard|49.383|7.210|DE|Saarland|66
 Hanslope|52.114|-0.827|GB|England|66
+Hanakee|-9.815|-139.040|PF||65|f
+Hando|14.791|40.807|ER|Southern Red Sea|65|f
+Hanging Hills|41.558|-72.824|US|Connecticut|65|f
+Hansando|34.781|128.484|KR|Gyeongsangnam-do|65|f
 Handréma|-12.681|45.100|YT|Bandraboua|65
 Hanvec|48.328|-4.161|FR|Brittany|65
 Hannivka|48.242|33.464|UA|Kirovohrad|64
 Hancock|39.699|-78.180|US|Maryland|64
 Handzlówka|49.995|22.223|PL|Subcarpathia|64
 Hangenbieten|48.560|7.615|FR|Grand Est|63
+Handies Peak|37.913|-107.504|US|Colorado|63|f
+Haneji-damu|26.608|128.022|JP|Okinawa|63|f
+Hangzhou Bay Bridge|30.500|121.087|CN|Zhejiang|63|f
+Hangzhou Wan|30.436|121.014|CN|Zhejiang|63|f
+Hanikatsi Laid|58.778|23.047|EE|Hiiumaa|63|f
+Hanish Islands|13.750|42.750|YE|Al Hudaydah|63|f
+Hannah Island|-76.650|-148.800|AQ||63|f
+Hansel Mountains|41.704|-112.842|US|Utah|63|f
+Hansen Airfield|50.019|-124.985|CA|British Columbia|63|f
+Hanzhong Chenggu Airport|33.134|107.205|CN|Shaanxi|63|f
 Hanzā|29.301|57.190|IR|Kerman|63
 Hanover|-32.819|27.481|ZA|Eastern Cape|63
 Hangony|48.233|20.200|HU|Borsod-Abaúj-Zemplén|63
@@ -143,6 +173,11 @@ Hanna City|40.692|-89.795|US|Illinois|62
 Hanwood|-34.331|146.041|AU|New South Wales|62
 Hanmer Springs|-42.517|172.817|NZ|Canterbury|61
 Hanover|40.080|-82.261|US|Ohio|61
+Handley Wildlife Management Area|38.312|-80.194|US|West Virginia|61|f
+Hanford Municipal Airport|36.318|-119.630|US|California|61|f
+Hanhowuz Reservoir|37.220|61.320|TM||61|f
+Hanö|56.000|14.833|SE|Blekinge|61|f
+Hansen Dam|34.261|-118.385|US|California|61|f
 Han-sur-Lesse|50.127|5.186|BE|Wallonia|61
 Hanret|50.582|4.948|BE|Wallonia|60
 Hanzinelle|50.296|4.556|BE|Wallonia|60
@@ -151,29 +186,174 @@ Haneffe|50.638|5.320|BE|Wallonia|60
 Handcross|51.054|-0.201|GB|England|60
 Hańsk|51.413|23.399|PL|Lublin|60
 Hanstedt Eins|53.046|10.374|DE|Lower Saxony|60
+Hanzinne|50.311|4.544|BE|Wallonia|60
+Hancock|41.954|-75.280|US|New York|60
+Hancağız|36.154|36.083|TR|Hatay|60
+H̱annaton|32.784|35.244|IL|Northern District|60
+Hangest-en-Santerre|49.753|2.606|FR|Hauts-de-France|60
+Hanshagen|54.045|13.543|DE|Mecklenburg-Vorpommern|59
+H̱anni’el|32.333|34.949|IL|Central District|59
+Hankinson|46.070|-96.902|US|North Dakota|59
+Hantay|50.534|2.867|FR|Hauts-de-France|59
+Handrup|52.565|7.577|DE|Lower Saxony|59
+Hancea|47.604|26.454|RO|Suceava|59
 Hannopil|50.453|26.898|UA|Khmelnytskyi|59
+Hanyoundrou|-12.903|45.101|YT|Bouéni|59
+Hanna|41.870|-106.562|US|Wyoming|58
+Hanover|42.256|-90.280|US|Illinois|58
+Hancock-Greenfield Bridge|42.957|-71.935|US|New Hampshire|58|f
+Hanglip|-22.996|29.883|ZA|Limpopo|58|f
+Hangman Island|42.290|-70.970|US|Massachusetts|58|f
+Hannah Point|-62.654|-60.613|AQ||58|f
+Hannan International Airport|-19.080|-169.926|NU||58|f
+Hannan Range|40.553|-118.966|US|Nevada|58|f
+Hansbreen|77.075|15.650|SJ|Svalbard|58|f
+Hansen, Mount|-71.467|12.167|AQ||58|f
+Hantzsch Island|61.925|-65.007|CA|Nunavut|58|f
+Hanna|51.719|23.504|PL|Lublin|58
+H̱anita|33.087|35.174|IL|Northern District|58
+Hancock|45.497|-95.797|US|Minnesota|58
+Hanno-Pokrovka|47.137|30.479|UA|Odesa|57
+Haniska|48.954|21.239|SK|Prešov Region|57
+Hanson|37.417|-87.481|US|Kentucky|57
+Hancock|42.543|-73.324|US|Massachusetts|57
+Hangest-sur-Somme|49.981|2.064|FR|Hauts-de-France|57
+Hannivka|46.843|36.038|UA|Zaporizhzhia|57
+Hanroth|50.583|7.650|DE|Rheinland-Pfalz|57
+Hanover|39.894|-96.879|US|Kansas|56
+Hannivka|46.411|29.342|UA|Odesa|56
+Hanley Swan|52.084|-2.274|GB|England|56
+Hantes-Wihéries|50.306|4.177|BE|Wallonia|56
+Hannivka|48.728|33.976|UA|Dnipropetrovsk|55
+Hanfthal|48.700|16.367|AT|Lower Austria|55
+Hannivka|48.596|30.945|UA|Kirovohrad|55
+Hannonville-sous-les-Côtes|49.042|5.661|FR|Grand Est|55
+Hannibal|43.321|-76.579|US|New York|55
+Hănțești|45.964|27.309|RO|Galați County|54
+Hanvoile|49.510|1.882|FR|Hauts-de-France|54
+Hanalei Bay|22.212|-159.507|US|Hawaii|54|f
+Hancağız Barajı|36.959|37.891|TR|Gaziantep|54|f
+Hands Cove|43.862|-73.373|US|Vermont|54|f
+Hanging Rock|36.154|-81.824|US|North Carolina|54|f
+Hanimaadhoo|6.766|73.176|MV||54|f
+Hanka Island|-64.862|-62.804|AQ||54|f
+Hankavesi|62.429|26.450|FI|Central Finland|54|f
+Hanke|59.216|10.770|NO|Østfold|54|f
+Hannah Bridge|44.712|-122.718|US|Oregon|54|f
+Hannibal Locks and Dam|39.666|-80.866|US|Ohio|54|f
+Hanover Mountain|41.961|-74.330|US|New York|54|f
+Hanover Saugeen Airport|44.158|-81.063|CA|Ontario|54|f
+Hansen Island|-67.100|-67.600|AQ||54|f
+Hansen Mountains|-68.267|58.783|AQ||54|f
+Hanty-Mansijsk Airport|61.028|69.086|RU|Khanty-Mansia|54|f
+Hankovytsia|48.635|23.054|UA|Zakarpattia|54
+Hangen-Weisheim|49.710|8.184|DE|Rheinland-Pfalz|54
+Hankovce|49.026|21.947|SK|Prešov Region|54
 Hansnes|69.967|19.628|NO|Troms|54
 Hannersdorf|47.229|16.383|AT|Burgenland|52
+Hanang|-4.434|35.402|TZ|Manyara|49|f
+Hanbury Island|63.534|-90.817|CA|Nunavut|49|f
+Hancock Stadium|40.512|-88.996|US|Illinois|49|f
+Hand Deeps|50.208|-4.339|GB|England|49|f
+Hands On Children's Museum|47.039|-122.901|US|Washington|49|f
+Hankavesi|62.600|26.753|FI|North Savo|49|f
+Hann Range|-22.800|133.467|AU|Northern Territory|49|f
+Hann Tableland National Park|-16.841|145.189|AU|Queensland|49|f
+Hanna Lake|30.256|67.099|PK|Balochistan|49|f
+Hannah Peak|-82.600|-53.166|AQ||49|f
+Hannah Ridge|-83.605|-54.992|AQ||49|f
+Hannam Islands|-66.917|142.967|AQ||49|f
+Hannegan Peak|48.893|-121.534|US|Washington|49|f
+Hannibal Islands|-11.593|142.939|AU|Queensland|49|f
+Hanoi / Gialam|21.041|105.886|VN|Hanoi|49|f
+Hanover County Municipal Airport|37.707|-77.438|US|Virginia|49|f
+Hanover Street Bridge|39.258|-76.616|US|Maryland|49|f
+Hans Meyer Range|-4.374|152.917|PG|New Ireland|49|f
+Hansen Glacier|-78.367|-84.583|AQ||49|f
+Hanson Ridge|-77.283|163.317|AQ||49|f
 Handenberg|48.134|13.008|AT|Upper Austria|49
 Hanover|37.767|-77.370|US|Virginia|48
+Hanalei National Wildlife Refuge|22.201|-159.471|US|Hawaii|40|f
+Hanauma Bay|21.269|-157.694|US|Hawaii|40|f
+Hancock Museum|54.980|-1.613|GB|England|40|f
+Hancock Park|34.064|-118.357|US|California|40|f
+Hand Lake|46.706|-95.903|US|Minnesota|40|f
+Handa Island|58.381|-5.188|GB|Scotland|40|f
+Handball Arena|51.544|-0.020|GB|England|40|f
+Handler Ridge|-72.500|167.000|AQ||40|f
+Handsley, Mount|-77.933|161.550|AQ||40|f
+Handy Brake National Wildlife Refuge|32.831|-91.805|US|Louisiana|40|f
+Haney Hill|37.769|-90.152|US|Missouri|40|f
+Hangar-7|47.794|13.007|AT|Salzburg|40|f
+HangarBicocca|45.521|9.219|IT|Lombardy|40|f
+Hangendgletscherhorn|46.629|8.183|CH|Bern|40|f
+Hanging Glacier|47.731|-123.324|US|Washington|40|f
+Hanging Lake|39.601|-107.192|US|Colorado|40|f
+Hanging Rock State Park|36.392|-80.266|US|North Carolina|40|f
+Hangsackgrat|46.952|9.322|CH|Saint Gallen|40|f
+Hängst|46.834|7.958|CH|Lucerne|40|f
+Hanley Castle|52.071|-2.237|GB|England|40|f
+Hannington Transmitting Station|51.308|-1.245|GB|England|40|f
+Hanover Square|51.514|-0.144|GB|England|40|f
+Hanover Square|40.705|-74.009|US|New York|40|f
+Hanrahan Lake|44.728|-93.341|US|Minnesota|40|f
+Hansen Bridge|42.567|-114.300|US|Idaho|40|f
+Hansen Lake|47.120|-79.918|CA|Ontario|40|f
+Hanson Bay|-43.850|-176.383|NZ||40|f
+Hanson Peak|-71.350|170.300|AQ||40|f
+Hanza Tower|53.438|14.554|PL|West Pomerania|40|f
 Han|39.159|30.861|TR|Eskişehir|0
 Hanbin|32.890|108.904|CN|Shaanxi|0
 Hanchang|28.704|113.578|CN|Hunan|0
+Hancheng|34.335|108.908|CN|Shaanxi|0
 Hancheolli|34.974|127.000|KR|Jeollanam-do|0
+Handaqi|50.135|126.193|CN|Heilongjiang|0
+Handayama|34.775|137.738|JP|Shizuoka|0
+Handegate|47.769|88.380|CN|Xinjiang|0
+Handeng|-8.530|120.135|ID|East Nusa Tenggara|0
+Handgai|47.500|119.400|CN|Inner Mongolia|0
 Handian|36.046|113.044|CN|Shanxi|0
 Handilenam|-0.824|117.249|ID|East Kalimantan|0
+Hane|-9.915|124.222|ID|East Nusa Tenggara|0
 Haneș Mină|46.124|23.091|RO|Alba County|0
+Hanfang|25.489|115.093|CN|Jiangxi|0
+Hanfeng|34.619|107.297|CN|Shaanxi|0
 Hang Chat|18.329|99.346|TH|Lampang|0
+Hangbu|28.937|118.776|CN|Zhejiang|0
+Hangbu|27.815|116.246|CN|Jiangxi|0
 Hanggan|14.189|121.300|PH|Calabarzon|0
+Hanghuadian|40.557|123.469|CN|Liaoning|0
+Hangji|32.368|119.533|CN|Jiangsu|0
+Hangkou|29.047|114.442|CN|Jiangxi|0
+Hangongdu|29.089|111.919|CN|Hunan|0
+Hangu Erhe|48.260|124.462|CN|Inner Mongolia|0
+Hangwula|48.469|116.462|CN|Inner Mongolia|0
 Hanhöhiy|47.617|112.133|MN|Sühbaatar|0
+HanHuang|24.269|113.125|CN|Guangdong|0
 Hanji|35.495|102.993|CN|Gansu|0
+Hanji|30.672|113.602|CN|Hubei|0
+Hanjia|34.929|107.868|CN|Shaanxi|0
+Hanjiaji|35.877|105.130|CN|Gansu|0
 Hanjiang|25.470|119.103|CN|Fujian|0
+Hanjianglu|32.680|110.792|CN|Hubei|0
+Hanjuang|-7.465|107.595|ID|West Java|0
+Hanjuang|-6.579|106.276|ID|Banten|0
+Hankazi|44.104|86.124|CN|Heilongjiang|0
 Hankendi|38.569|39.057|TR|Elazığ|0
 Hankerton|51.614|-2.045|GB|England|0
 Hankha|14.981|100.015|TH|Chai Nat|0
+Hanlin|19.334|110.258|CN|Hainan|0
+Hanliu|32.763|119.667|CN|Jiangsu|0
+Hannan|30.266|113.844|CN|Hubei|0
 Hannington|51.633|-1.750|GB|England|0
 Hannivka|48.197|31.896|UA|Kirovohrad|0
 Hanoi|20.328|106.012|VN|Hanoi|0
 Hanshan|36.567|114.533|CN|Hebei|0
 Hanshang|32.377|119.393|CN|Jiangsu|0
 Hanshou|28.908|111.963|CN|Hunan|0
+Hantai|38.316|114.835|CN|Hebei|0
+Hantang|28.153|114.789|CN|Jiangxi|0
+Hantara|-7.058|108.455|ID|West Java|0
+Hanting|30.919|118.548|CN|Anhui|0
+Hanwell|52.091|-1.368|GB|England|0
+Hanxian|26.360|117.290|CN|Fujian|0

@@ -4,8 +4,8 @@ Alto Paraná Department|-25.500|-54.833|PY||112|r
 Alto Barinas|8.593|-70.226|VE|Barinas|109
 Altona|53.550|9.933|DE|Hamburg|108
 Alto Hospicio|-20.269|-70.105|CL|Tarapacá|103
+Altai|50.733|87.017|RU||103|r
 Altamira|-3.203|-52.206|BR|Pará|103
-Altai|50.733|87.017|RU||102|r
 Al-Tabqa|35.838|38.548|SY|Raqqa|99
 Altamura|40.827|16.550|IT|Apulia|97
 Altagracia de Orituco|9.860|-66.381|VE|Guárico|97
@@ -37,10 +37,12 @@ Alta Floresta d'Oeste|-11.968|-61.954|BR|Rondônia|87
 Altinho|-8.490|-36.059|BR|Pernambuco|86
 Alto Alegre|2.896|-61.498|BR|Roraima|86
 Altena|51.295|7.673|DE|North Rhine-Westphalia|86
+Altes Museum|52.519|13.399|DE|State of Berlin|86|f
 Altotonga|19.766|-97.245|MX|Veracruz|86
 Alton|51.149|-0.975|GB|England|86
 Altamont|42.207|-121.737|US|Oregon|86
 Altus|34.638|-99.334|US|Oklahoma|86
+Altay|48.000|90.000|CN||86|f
 Altônia|-23.874|-53.902|BR|Paraná|85
 Altona Meadows|-37.884|144.784|AU|Victoria|85
 Altepexi|18.370|-97.300|MX|Puebla|85
@@ -73,6 +75,7 @@ Alto do Rodrigues|-5.288|-36.762|BR|Rio Grande do Norte|82
 Altenstadt|50.287|8.944|DE|Hesse|82
 Altstadt|47.661|9.173|DE|Baden-Wurttemberg|82
 Al Twar First|25.271|55.362|AE|Dubai|82
+Altun Shan|38.600|89.000|CN||81|f
 Alto Taquari|-17.836|-53.282|BR|Mato Grosso|81
 Altona|-37.870|144.830|AU|Victoria|81
 Alto Alegre dos Parecis|-12.128|-61.851|BR|Rondônia|81
@@ -88,14 +91,18 @@ Altusried|47.804|10.214|DE|Bavaria|80
 Altenberge|52.050|7.467|DE|North Rhine-Westphalia|80
 Altenholz|54.398|10.128|DE|Schleswig-Holstein|80
 Alto Piquiri|-24.028|-53.441|BR|Paraná|80
+Altai Airport|46.376|96.221|MN|Govi-Altai Province|80|f
 Altopascio|43.816|10.677|IT|Tuscany|79
 Altdorf|46.880|8.644|CH|Uri|79
 Älta|59.267|18.183|SE|Stockholm|79
 Altamirano|16.734|-92.039|MX|Chiapas|79
+Altay Airport|47.752|88.087|CN|Xinjiang|79|f
+Altoona–Blair County Airport|40.296|-78.320|US|Pennsylvania|79|f
 Altlandsberg|52.565|13.728|DE|Brandenburg|79
+Alto Paraguay|-20.500|-59.167|PY||79|r
 Alto Jequitibá|-20.428|-41.965|BR|Minas Gerais|78
+Alte Nationalgalerie|52.521|13.399|DE|State of Berlin|78|f
 Althengstett|48.723|8.794|DE|Baden-Wurttemberg|78
-Alto Paraguay|-20.500|-59.167|PY||78|r
 Altar|30.716|-111.838|MX|Sonora|78
 Altrip|49.436|8.495|DE|Rheinland-Pfalz|78
 Alto Paraguai|-14.514|-56.483|BR|Mato Grosso|78
@@ -117,6 +124,7 @@ Altenkirchen|50.686|7.642|DE|Rheinland-Pfalz|76
 Alto Horizonte|-14.196|-49.339|BR|Goiás|76
 Alt-Sanitz|53.814|13.588|DE|Mecklenburg-Vorpommern|75
 Alto Boa Vista|-11.674|-51.379|BR|Mato Grosso|75
+Alturas Municipal Airport|41.483|-120.566|US|California|75|f
 Alto Caparaó|-20.444|-41.871|BR|Minas Gerais|75
 Altınyayla|39.272|36.751|TR|Sivas|75
 Altenkunstadt|50.125|11.250|DE|Bavaria|75
@@ -152,6 +160,7 @@ Altona|49.105|-97.560|CA|Manitoba|72
 Altheim|48.252|13.234|AT|Upper Austria|72
 Alturas|27.872|-81.715|US|Florida|72
 Altınyayla|36.997|29.546|TR|Burdur|72
+Altels|46.429|7.678|CH|Bern|72|f
 Altenheim|48.465|7.818|DE|Baden-Wurttemberg|72
 Alten Buseck|50.622|8.753|DE|Hesse|72
 Altafulla|41.143|1.373|ES|Catalonia|72
@@ -174,6 +183,9 @@ Alto Paraíso|-23.508|-53.728|BR|Paraná|70
 Altenglan|49.550|7.467|DE|Rheinland-Pfalz|70
 Altagracia|11.566|-85.578|NI|Rivas Department|69
 Altavas|11.538|122.487|PH|Western Visayas|69
+Altafjorden|70.058|23.083|NO|Finnmark|69|f
+Altınhisar Barajı|37.920|34.610|TR|Niğde Province|69|f
+Alturas de Nique|7.696|-77.727|CO||69|f
 Altayskiy|50.246|82.363|KZ|East Kazakhstan|69
 Alter do Chão|39.197|-7.659|PT|Portalegre|68
 Alturas|41.487|-120.543|US|California|68
@@ -181,6 +193,7 @@ Altınüzüm|36.934|36.569|TR|Gaziantep|68
 Altendiez|50.367|7.983|DE|Rheinland-Pfalz|67
 Altamont|39.062|-88.748|US|Illinois|67
 Alto de la Sierra|-22.742|-62.498|AR|Salta|67
+Alta Peak|36.590|-118.663|US|California|67|f
 Altura|37.176|-7.501|PT|Faro|67
 Altmittweida|50.967|12.950|DE|Saxony|67
 Althen-des-Paluds|44.004|4.959|FR|Provence-Alpes-Côte d'Azur|67
@@ -200,6 +213,7 @@ Altnau|47.611|9.262|CH|Thurgau|66
 Alta|42.674|-95.291|US|Iowa|65
 Alt Duvenstedt|54.359|9.644|DE|Schleswig-Holstein|65
 Alto Bela Vista|-27.457|-51.879|BR|Santa Catarina|65
+Alto de la Bandera|18.814|-70.626|DO|La Vega|65|f
 Alterswil|46.796|7.259|CH|Fribourg|65
 Althegnenberg|48.233|11.067|DE|Bavaria|65
 Altenriet|48.591|9.222|DE|Baden-Wurttemberg|65
@@ -213,6 +227,9 @@ Altenmedingen|53.130|10.602|DE|Lower Saxony|64
 Altrich|49.957|6.912|DE|Rheinland-Pfalz|64
 Altamira|23.382|-102.986|MX|Zacatecas|64
 Alta Italia|-35.334|-64.117|AR|La Pampa|63
+Alto del Carmen Tres Quebradas Airport|-29.260|-70.087|CL|Atacama|63|f
+Alton Castle|52.980|-1.893|GB|England|63|f
+Álttesjávri|68.642|19.086|NO|Troms|63|f
 Altenkirchen|49.443|7.321|DE|Rheinland-Pfalz|63
 Altdorf|48.594|9.272|DE|Baden-Wurttemberg|63
 Altavilla Silentina|40.530|15.132|IT|Campania|63
@@ -237,6 +254,10 @@ Alteveer|53.051|6.994|NL|Groningen|61
 Altengottern|51.164|10.581|DE|Thuringia|61
 Altenkrempe|54.132|10.822|DE|Schleswig-Holstein|61
 Altenkirchen|54.636|13.343|DE|Mecklenburg-Vorpommern|61
+Alte Mellum|53.721|8.150|DE|Lower Saxony|61|f
+Altkönig|50.212|8.482|DE|Hesse|61|f
+Altmann|47.240|9.372|CH|Saint Gallen|61|f
+Alto Palena Airport|-43.612|-71.806|CL|Los Lagos Region|61|f
 Altenfeld|50.565|10.962|DE|Thuringia|61
 Alt Wallmoden|52.019|10.303|DE|Lower Saxony|61
 Alțâna|45.933|24.467|RO|Sibiu County|61
@@ -252,25 +273,150 @@ Altenpleen|54.355|12.956|DE|Mecklenburg-Vorpommern|60
 Alto Alegre|-32.345|-62.883|AR|Cordoba|60
 Alt Tucheband|52.537|14.512|DE|Brandenburg|60
 Alto Mira|17.100|-25.217|CV|Porto Novo|60
+Altynzhar|46.275|48.506|RU|Astrakhan Oblast|60
+Alto de la Cruz|-5.346|-80.770|PE|Piura|60
+Altos de Jecopaco|27.170|-109.894|MX|Sonora|60
 Altlengbach|48.154|15.926|AT|Lower Austria|60
+Alta Vista|27.718|-105.199|MX|Chihuahua|60
+Alto Quiel|8.808|-82.471|PA|Chiriquí Province|60
+Altkalen|53.899|12.740|DE|Mecklenburg-Vorpommern|59
+Altendorf|49.406|12.282|DE|Bavaria|59
+Altenmarkt bei Wies|46.717|15.250|AT|Styria|59
+Altoona|34.026|-86.326|US|Alabama|59
+Alto del Camarón|17.051|-99.582|MX|Guerrero|59
+Altheimer|34.319|-91.847|US|Arkansas|59
 Alton|36.694|-91.399|US|Missouri|59
+Alt Mölln|53.623|10.662|DE|Schleswig-Holstein|59
+Altınyurt|36.933|37.492|TR|Gaziantep|59
+Alton|45.031|-68.729|US|Maine|59
+Altillac|44.978|1.848|FR|New Aquitaine|58
+Altınkent|39.006|29.458|TR|Kütahya|58
+Altica|20.088|-97.802|MX|Puebla|58
+Alt Krenzlin|53.318|11.308|DE|Mecklenburg-Vorpommern|58
+Alta Mountain|47.441|-121.332|US|Washington|58|f
+Altar Mountain|-77.900|160.850|AQ||58|f
+Altar, The|-71.650|11.333|AQ||58|f
+Altenburg|49.881|10.869|DE|Bavaria|58|f
+Altermatt Lake|44.199|-94.847|US|Minnesota|58|f
+Althorpe Islands|-35.372|136.860|AU|South Australia|58|f
+Altınyazı Barajı|41.079|26.588|TR|Edirne|58|f
+Alton Downs|-26.483|139.317|AU|South Australia|58|f
+Altus Municipal Airport|34.698|-99.339|US|Oklahoma|58|f
+Altamirada|19.369|-97.215|MX|Puebla|58
+Alteckendorf|48.792|7.597|FR|Grand Est|58
+Althornbach|49.204|7.375|DE|Rheinland-Pfalz|58
+Alto Perú|-8.948|-78.580|PE|Ancash|58
+Alto Perú|-6.299|-77.098|PE|San Martín Department|58
 Altlichtenwarth|48.644|16.797|AT|Lower Austria|58
 Altenmarkt bei Sankt Gallen|47.723|14.648|AT|Styria|58
+Altenbamberg|49.783|7.833|DE|Rheinland-Pfalz|58
+Altenberga|50.833|11.533|DE|Thuringia|57
+Altdorf|49.287|8.216|DE|Rheinland-Pfalz|57
+Althüttendorf|52.962|13.807|DE|Brandenburg|57
+Altona|44.888|-73.656|US|New York|57
+Altus|35.446|-93.762|US|Arkansas|57
+Alto del Moralito|21.706|-97.821|MX|Veracruz|57
+Alto|37.904|-122.526|US|California|57
+Alt Lenzing|47.969|13.625|AT|Upper Austria|57
+Alto de Ventura|16.714|-99.256|MX|Guerrero|56
+Alta Luz|19.086|-96.950|MX|Veracruz|56
+Alto Verá|-26.753|-55.768|PY|Itapúa|56
 Altenmarkt bei Fürstenfeld|47.066|16.048|AT|Styria|56
+Alto Bonito Colonia|26.304|-98.640|US|Texas|56
+Altwarp|53.741|14.265|DE|Mecklenburg-Vorpommern|56
+Altwies|49.511|6.257|LU|Remich|56
+Altenhof am Hausruck|48.133|13.683|AT|Upper Austria|56
+Alta|39.207|-120.811|US|California|56
+Altmerdingsen|52.464|10.130|DE|Lower Saxony|56
+Altos de Sevilla|18.852|-88.677|MX|Quintana Roo|56
+Altamont|40.786|-76.225|US|Pennsylvania|56
+Altweerterheide|51.221|5.679|NL|Limburg|55
+Alt Schwerin|53.513|12.346|DE|Mecklenburg-Vorpommern|55
+Altnagelberg|48.850|15.000|AT|Lower Austria|55
+Alto de Capira|8.737|-79.883|PA|Panamá Oeste Province|55
+Altforst|51.849|5.565|NL|Gelderland|55
+Alto Quiel|8.729|-82.888|PA|Chiriquí Province|55
+Altamirano|17.113|-92.798|MX|Chiapas|55
+Altersbach|50.700|10.533|DE|Thuringia|55
+Alto Bonito|26.308|-98.640|US|Texas|55
+Alteveer|52.675|6.486|NL|Drenthe|55
+Alt Brenz|53.383|11.664|DE|Mecklenburg-Vorpommern|55
 Altenmarkt an der Triesting|48.016|15.997|AT|Lower Austria|55
+Alt Bukow|53.998|11.607|DE|Mecklenburg-Vorpommern|55
+Altenroda|51.240|11.565|DE|Saxony-Anhalt|55
+Altviller|49.074|6.732|FR|Grand Est|55
+Alto Perillo|-7.079|-75.143|PE|Loreto|55
+Alto Mayo|-5.698|-77.472|PE|San Martín Department|55
+Altıntaş|39.864|28.820|TR|Bursa Province|55
+Altınova|38.081|29.928|TR|Afyonkarahisar Province|55
+Alterode|51.676|11.384|DE|Saxony-Anhalt|55
+Altha|30.570|-85.127|US|Florida|54
+Altınpınar|40.813|31.233|TR|Düzce|54
+Alta Floresta Aeroporto|-9.866|-56.106|BR|Mato Grosso|54|f
+Alta Lufthavn|69.976|23.372|NO|Finnmark|54|f
+Altar|-1.667|-78.417|EC||54|f
+Altarduken Glacier|-71.650|11.433|AQ||54|f
+Ältaren|59.200|16.833|SE|Södermanland|54|f
+Ältasjön|59.267|18.167|SE|Stockholm|54|f
+Alte Brücke|49.414|8.710|DE|Baden-Wurttemberg|54|f
+Altenstein|50.132|8.178|DE|Hesse|54|f
+Altıağac Milli Parkı|40.955|48.897|AZ|Siyǝzǝn|54|f
+Altınapa Barajı|37.882|32.304|TR|Konya|54|f
+Altkloster|53.466|9.691|DE|Lower Saxony|54|f
+Altun Ha|17.764|-88.347|BZ|Belize District|54|f
+Altneudörfl|46.700|15.973|AT|Styria|54
+Altlandenberg|47.372|8.868|CH|Zurich|54
+Alto San Ildefonso|-7.144|-79.585|PE|La Libertad|54
+Altlay|49.988|7.272|DE|Rheinland-Pfalz|54
+Altagracia|17.032|-92.775|MX|Chiapas|54
+Altona|41.115|-90.165|US|Illinois|54
+Alt Tellin|53.845|13.244|DE|Mecklenburg-Vorpommern|54
+Alton|43.452|-71.218|US|New Hampshire|54
+Altona|40.134|-105.283|US|Colorado|54
 Altanbulag|50.316|106.499|MN|Selenge Province|54
 Altino|42.100|14.333|IT|Abruzzo|53
+Alterkülz|50.033|7.467|DE|Rheinland-Pfalz|53
 Altenburg|48.648|15.593|AT|Lower Austria|53
+Altenhausen|52.262|11.254|DE|Saxony-Anhalt|52
 Alto de Jesús|8.262|-81.484|PA|Veraguas Province|51
+Altstrimmig|50.100|7.300|DE|Rheinland-Pfalz|51
+Alt Bennebek|54.383|9.433|DE|Schleswig-Holstein|51
 Altidona|43.108|13.796|IT|The Marches|51
 Altissimo|45.614|11.252|IT|Veneto|51
 Altarejos|39.913|-2.357|ES|Castille-La Mancha|51
 Altaussee|47.638|13.763|AT|Styria|50
+Altenhof|54.434|9.873|DE|Schleswig-Holstein|50
 Altmelon|48.462|14.966|AT|Lower Austria|50
+Alt Glacier|-71.100|162.517|AQ||49|f
+Altappen|65.542|22.333|SE|Norrbotten|49|f
+Altenburg|51.246|9.291|DE|Hesse|49|f
+Althorpe Islands Conservation Park|-35.350|136.883|AU|South Australia|49|f
+Alton National Park|-27.995|149.327|AU|Queensland|49|f
+Altona Coastal Park|-37.860|144.858|AU|Victoria|49|f
+Altra|65.927|12.343|NO|Nordland|49|f
+Altyn Peak|48.813|-113.656|US|Montana|49|f
 Altavilla Monferrato|44.994|8.376|IT|Piedmont|49
+Altenmoor|53.762|9.570|DE|Schleswig-Holstein|49
+Altenbeuthen|50.592|11.601|DE|Thuringia|48
 Altilia|39.130|16.253|IT|Calabria|48
+Altweidelbach|49.983|7.567|DE|Rheinland-Pfalz|48
 Altınyaka|36.559|30.348|TR|Antalya|47
 Altendorf|47.650|16.017|AT|Lower Austria|46
+Altscheid|50.017|6.400|DE|Rheinland-Pfalz|40
+Alta Lake|52.100|-65.715|CA|Newfoundland and Labrador|40|f
+Alta Lake|50.115|-122.982|CA|British Columbia|40|f
+Alta Lake State Park|48.028|-119.942|US|Washington|40|f
+Alta Plaza|37.791|-122.438|US|California|40|f
+Alte Burg (Altenstein)|50.175|10.770|DE|Bavaria|40|f
+Alte Feste|-22.569|17.088|NA|Khomas Region|40|f
+Alte Pinakothek|48.148|11.570|DE|Bavaria|40|f
+Altena Castle|51.299|7.675|DE|North Rhine-Westphalia|40|f
+Altenalp Türm|47.271|9.378|CH|Appenzell Innerrhoden|40|f
+Altenberg|48.963|9.902|DE|Baden-Wurttemberg|40|f
+Alter Botanischer Garten|48.142|11.564|DE|Bavaria|40|f
+Altha Lake|37.712|-119.145|US|California|40|f
+Altimir Glacier|-64.597|-63.150|AQ||40|f
+Alturas Lake|43.914|-114.861|US|Idaho|40|f
 Alto|44.109|8.002|IT|Piedmont|39
 Altable|42.603|-3.077|ES|Castille and León|36
 ِAl Taif|15.566|32.571|SD|Khartoum|0
@@ -278,11 +424,17 @@ Alta Floresta|-9.876|-56.086|BR|Mato Grosso|0
 Alta Floresta d'Oeste|-11.929|-61.994|BR|Rondônia|0
 Altamira|8.824|-70.502|VE|Barinas|0
 Altan|48.117|95.717|MN|Dzabkhan|0
+Altan Hil|45.200|115.500|CN|Inner Mongolia|0
+Altan Xiret|39.577|109.753|CN|Inner Mongolia|0
 Altan-Ovoo|47.447|101.755|MN|Arkhangai Province|0
 Altanbulag|49.307|96.342|MN|Dzabkhan|0
 Altanbulag|47.700|106.400|MN|Central Aimak|0
 Altanteel|47.110|92.844|MN|Hovd|0
 Altay|49.703|96.359|MN|Dzabkhan|0
+Altendorf|49.800|11.017|DE|Bavaria|0
+Altforweiler|49.274|6.706|DE|Saarland|0
+Altheim|48.328|9.770|DE|Baden-Wurttemberg|0
+Altheim|48.145|9.447|DE|Baden-Wurttemberg|0
 Altınordu|40.984|37.873|TR|Ordu|0
 Altınova|39.217|26.790|TR|Balıkesir|0
 Altıntaş|39.060|30.109|TR|Kütahya|0
@@ -293,4 +445,5 @@ Alto Cuito|-13.433|18.867|AO|Moxico|0
 Alto Larán|-13.441|-76.087|PE|Ica|0
 Altos de Güera|7.531|-80.621|PA|Los Santos Province|0
 Altraga|50.179|98.972|MN|Khövsgöl Province|0
+Altunemil|46.119|83.090|CN|Xinjiang|0
 Altzaga|43.065|-2.154|ES|Basque Country|0

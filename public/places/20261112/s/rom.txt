@@ -2,6 +2,7 @@ Romania|46.000|25.000|RO||146|c
 Rome|41.892|12.511|IT|Lazio|127
 Romford|51.575|0.186|GB|England|100
 Roman|46.921|26.926|RO|Neamț County|97
+Roman Forum|41.892|12.486|IT|Lazio|93|f
 Rompin|2.708|102.505|MY|Negeri Sembilan|92
 Romeoville|41.648|-88.090|US|Illinois|92
 Romny|50.740|33.495|UA|Sumy|92
@@ -15,9 +16,11 @@ Romita|20.872|-101.517|MX|Guanajuato|87
 Romorantin-Lanthenay|47.367|1.750|FR|Centre-Val de Loire|86
 Romano di Lombardia|45.521|9.754|IT|Lombardy|85
 Romsey|50.989|-1.500|GB|England|85
+Romano-Germanic Museum|50.941|6.958|DE|North Rhine-Westphalia|84|f
 Romblon|12.575|122.271|PH|Mimaropa|84
 Romilly-sur-Seine|48.511|3.726|FR|Grand Est|83
 Roma|-29.447|27.708|LS|Maseru District|83
+Rome Urbe Airport|41.952|12.502|IT|Lazio|83|f
 Romitan Shahri|39.929|64.379|UZ|Bukhara|82
 Romano d'Ezzelino|45.779|11.767|IT|Veneto|82
 Rómaifürdő|47.574|19.057|HU|Pest County|82
@@ -25,6 +28,7 @@ Rombas|49.249|6.094|FR|Grand Est|81
 Roma|26.405|-99.016|US|Texas|80
 Roma-Los Saenz|26.405|-99.016|US|Texas|80
 Romodanovo|54.420|45.340|RU|Mordoviya Republic|80
+Rømø|55.145|8.523|DK|South Denmark|80|f
 Romanshorn|47.566|9.379|CH|Thurgau|79
 Romagnat|45.730|3.101|FR|Auvergne-Rhône-Alpes|79
 Romeral|-34.961|-71.124|CL|Maule Region|78
@@ -32,6 +36,7 @@ Romanovka|51.743|42.753|RU|Saratov Oblast|78
 Romaniv|50.147|27.931|UA|Zhytomyr Oblast|77
 Roma|-26.567|148.788|AU|Queensland|77
 Romanovskaya|47.543|42.022|RU|Rostov|77
+Roman walls of Lugo|43.009|-7.559|ES|Galicia|76|f
 Romanovo|52.618|81.228|RU|Altai Krai|76
 Rombergpark-Lücklemberg|51.463|7.470|DE|North Rhine-Westphalia|75
 Romanovka|60.044|30.714|RU|Leningradskaya Oblast'|75
@@ -45,6 +50,7 @@ Romsey|-37.351|144.743|AU|Victoria|73
 Români|46.783|26.683|RO|Neamț County|73
 Romsée|50.611|5.665|BE|Wallonia|73
 Românești|44.567|25.617|RO|Dâmbovița County|72
+Roman Tmetuchl International Airport|7.367|134.541|PW|Airai|72|f
 Rombo|-3.046|37.695|KE|Kajiado County|72
 Romeo|42.803|-83.013|US|Michigan|71
 Romagnano Sesia|45.633|8.387|IT|Piedmont|71
@@ -52,6 +58,7 @@ Roman|43.150|23.917|BG|Vratsa|71
 Romny|50.719|129.293|RU|Amur Oblast|71
 Romaria|-18.883|-47.586|BR|Minas Gerais|71
 Roma|47.833|26.600|RO|Botoșani County|70
+Romeo State Airport|42.797|-82.977|US|Michigan|70|f
 Romanel-sur-Lausanne|46.564|6.605|CH|Vaud|70
 Romans d'Isonzo|45.888|13.442|IT|Friuli Venezia Giulia|70
 Romrod|50.713|9.220|DE|Hesse|70
@@ -69,10 +76,15 @@ Rominimbang|7.500|124.300|PH|Autonomous Region in Muslim Mindanao|68
 Romhány|47.926|19.257|HU|Nógrád|68
 Romanovka|43.234|132.456|RU|Primorye|68
 Romney Marsh|51.023|0.915|GB|England|67
+Roma Ciampino Airport|41.799|12.595|IT|Lazio|67|f
+Romsdalshornet|62.491|7.786|NO|Møre og Romsdal|67|f
 Românești|44.867|26.067|RO|Prahova|66
 Romanu|45.283|27.733|RO|Brăila County|66
 Römhild|50.396|10.539|DE|Thuringia|66
 Römerswil|47.169|8.245|CH|Lucerne|65
+Roman Four Promontory|-68.216|-66.933|AQ||65|f
+Romelsön|64.900|21.267|SE|Västerbotten|65|f
+Romssasuolu|69.668|18.926|NO|Troms|65|f
 Roman Forest|30.179|-95.162|US|Texas|65
 Romagné|48.342|-1.277|FR|Brittany|65
 Romney|39.342|-78.757|US|West Virginia|65
@@ -84,6 +96,9 @@ Romaine|-41.099|145.894|AU|Tasmania|64
 Romenay|46.502|5.069|FR|Bourgogne-Franche-Comté|64
 Românești|47.731|27.240|RO|Botoșani County|64
 Romagnano|46.018|11.106|IT|Trentino-Alto Adige|63
+Rombaken|68.462|17.564|NO|Nordland|63|f
+Romblon Tugdan Airport|12.312|122.080|PH|Mimaropa|63|f
+Romeo Island|-62.376|-59.927|AQ||63|f
 Romashkino|45.256|33.255|UA|Crimea|63
 Rome City|41.496|-85.377|US|Indiana|63
 Romsley|52.420|-2.057|GB|England|63
@@ -94,18 +109,84 @@ Romanswiller|48.646|7.408|FR|Grand Est|62
 Romashki|60.721|29.808|RU|Leningradskaya Oblast'|62
 Romero de Torres|20.025|-102.253|MX|Michoacán|61
 Romero de Guzmán|20.030|-102.258|MX|Michoacán|61
+Romansbaai|-34.608|19.325|ZA|Western Cape|61|f
+Römerstein|48.510|9.544|DE|Baden-Wurttemberg|61|f
+Rømlingane Peaks|-72.200|1.133|AQ||61|f
 Romagny|48.639|-0.966|FR|Normandy|61
 Rome|44.585|-69.869|US|Maine|60
+Romagne|46.270|0.302|FR|New Aquitaine|60
+Rompon|44.775|4.733|FR|Auvergne-Rhône-Alpes|59
+Roma|57.504|18.459|SE|Gotland|59
+Römstedt|53.096|10.651|DE|Lower Saxony|59
+Rómulo Calzada (La Herradura)|17.342|-93.553|MX|Chiapas|59
+Romea Vecchia|44.389|12.233|IT|Emilia-Romagna|59
 Rometta|38.170|15.414|IT|Sicily|59
+Rombach-le-Franc|48.283|7.262|FR|Grand Est|59
+Românești|44.906|23.930|RO|Vâlcea County|59
+Romeral|39.707|-3.434|ES|Castille-La Mancha|59
+Rom|46.293|0.115|FR|New Aquitaine|58
+Romershoven|50.856|5.460|BE|Flanders|58
+Romanija|43.876|18.670|BA|Srpska|58|f
+Romarheimsfjorden|60.715|5.648|NO|Vestland|58|f
+Romnaes, Mount|-71.458|23.967|AQ||58|f
+Romulus Glacier|-68.385|-66.829|AQ||58|f
+Românești|47.783|23.117|RO|Satu Mare County|58
+Romola|43.700|11.163|IT|Tuscany|58
+Romanova Balka|47.930|31.015|UA|Mykolaiv|58
 Romeno|46.395|11.119|IT|Trentino-Alto Adige|57
+Romanivka|47.562|30.204|UA|Odesa|57
+Rome|42.980|-88.631|US|Wisconsin|57
+Romanore|45.067|10.757|IT|Lombardy|57
+Romoșel|45.805|23.313|RO|Hunedoara County|56
+Rommelsried|48.369|10.713|DE|Bavaria|56
+Romanivka|49.992|29.632|UA|Zhytomyr Oblast|56
+Rommersheim|50.200|6.450|DE|Rheinland-Pfalz|56
+Romírion|37.749|20.818|GR|Ionian Islands|56
+Romedenne|50.171|4.697|BE|Wallonia|56
+Romallo|46.397|11.066|IT|Trentino-Alto Adige|55
+Rombies-et-Marchipont|50.365|3.641|FR|Hauts-de-France|55
+Romanești|45.012|23.265|RO|Gorj County|55
 Romana|40.484|8.586|IT|Sardinia|55
+Romans|46.120|5.025|FR|Auvergne-Rhône-Alpes|55
+Rom|53.445|11.949|DE|Mecklenburg-Vorpommern|55
+Românești|47.783|26.083|RO|Suceava|55
+Romochevytsia|48.347|22.832|UA|Zakarpattia|55
+Romegoux|45.872|-0.805|FR|New Aquitaine|55
+Românești|45.800|22.317|RO|Timiș County|55
+Romans|46.359|-0.228|FR|New Aquitaine|55
+Romans|45.899|13.019|IT|Friuli Venezia Giulia|54
+Rome Hill|33.631|-117.322|US|California|54|f
+Rome State Airport|42.583|-117.884|US|Oregon|54|f
+Romer Sø|81.033|-20.000|GL||54|f
+Romeral San Miguel Airport|-34.959|-71.033|CL|Maule Region|54|f
+Romero Rock|-63.317|-57.950|AQ||54|f
+Romsdalsfjorden|62.650|7.250|NO|Møre og Romsdal|54|f
+Rømsjøen|59.701|11.833|NO|Akershus|54|f
+Romsø|55.514|10.790|DK|South Denmark|54|f
+Romescamps|49.711|1.805|FR|Hauts-de-France|54
+Roman circus of Toledo|39.864|-4.029|ES|Castille-La Mancha|49|f
+Roman ruins of Cerro da Vila|37.080|-8.120|PT|Faro|49|f
+Roman Villa|35.885|14.400|MT|L-Imdina|49|f
+Romblon Island|12.524|122.286|PH|Mimaropa|49|f
+Romer Mountain|42.058|-74.319|US|New York|49|f
+Romula|44.183|24.400|RO|Olt|49|f
 Romagnese|44.841|9.328|IT|Lombardy|48
 Romangordo|39.742|-5.701|ES|Extremadura|44
 Romanones|40.571|-2.991|ES|Castille-La Mancha|42
 Romanos|41.126|-1.275|ES|Aragon|41
+Roman Agora|37.974|23.726|GR|Attica|40|f
+Roman Baths|51.381|-2.360|GB|England|40|f
+Roman Nose State Park|35.936|-98.425|US|Oklahoma|40|f
+Roman ruins of Casais Velhos|38.726|-9.464|PT|Lisbon|40|f
+Roman temple of Vic|41.929|2.257|ES|Catalonia|40|f
+Roman villa of Alto da Cidreira|38.724|-9.421|PT|Lisbon|40|f
+Romanian People's Salvation Cross|47.070|28.201|MD|Nisporeni|40|f
+Rome Service Airport|42.836|-117.629|US|Oregon|40|f
+Römnitz|53.717|10.767|DE|Schleswig-Holstein|38
 Romanillos de Atienza|41.267|-2.900|ES|Castille-La Mancha|35
 Romaldkirk|54.594|-2.011|GB|England|0
 Românaşi|47.100|23.183|RO|Sălaj County|0
 Româneşti|47.283|27.317|RO|Iași County|0
 Romanivka|50.577|27.761|UA|Zhytomyr Oblast|0
+Romba|-8.904|121.296|ID|East Nusa Tenggara|0
 Romsley|52.450|-2.317|GB|England|0

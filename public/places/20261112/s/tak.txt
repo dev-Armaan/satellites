@@ -20,6 +20,7 @@ Takahama|34.917|136.983|JP|Aichi|94
 Takua Pa|8.870|98.344|TH|Phang Nga|94
 Takeo|33.190|130.021|JP|Saga|94
 Takashima|35.413|136.016|JP|Shiga|93
+Taksim Square|41.037|28.986|TR|Istanbul|93|f
 Takikawa|43.553|141.906|JP|Hokkaido|93
 Taketoyo|34.850|136.917|JP|Aichi|93
 Tāki|22.589|88.933|IN|West Bengal|92
@@ -34,6 +35,7 @@ Takahata|38.002|140.191|JP|Yamagata|87
 Takabō|34.128|134.534|JP|Tokushima|87
 Takanawa|35.632|139.734|JP|Tokyo|87
 Takinomiya|34.246|133.923|JP|Kagawa|87
+Takamatsu Airport|34.214|134.016|JP|Kagawa|87|f
 Takaba|3.355|40.223|KE|Mandera County|87
 Takanosu|40.223|140.366|JP|Akita|86
 Takedamachi|32.967|131.400|JP|Oita|86
@@ -51,6 +53,7 @@ Taka-Töölö|60.184|24.919|FI|Uusimaa|84
 Takasaka|36.000|139.400|JP|Saitama|84
 Takanodai|35.746|139.614|JP|Tokyo|83
 Tako|35.733|140.467|JP|Chiba|83
+Takoradi Airport|4.896|-1.775|GH|Western|83|f
 Takkolam|13.016|79.733|IN|Tamil Nadu|83
 Takapuna|-36.792|174.776|NZ|Auckland|82
 Takiéta|13.681|8.529|NE|Zinder Region|81
@@ -68,29 +71,50 @@ Takhlibilar Pathar|26.500|90.935|IN|Assam|76
 Takasu|43.843|142.354|JP|Hokkaido|76
 Takamori|32.820|131.127|JP|Kumamoto|76
 Taksony|47.330|19.067|HU|Pest County|76
+Takara Jima|29.148|129.210|JP|Kagoshima|74|f
+Takaroa Airport|-14.456|-145.026|PF|Tuamotu-Gambier Islands|74|f
+Takht-i-Bahi|34.321|71.946|PK|Khyber Pakhtunkhwa|74|f
 Takhtamukay|44.922|38.995|RU|Adygeya Republic|74
 Takko|40.334|141.150|JP|Aomori|74
 Takajō|32.167|131.483|JP|Miyazaki|74
 Takanuki|37.098|140.544|JP|Fukushima|74
+Takapoto Airport|-14.710|-145.246|PF|Tuamotu-Gambier Islands|73|f
 Taktaharkány|48.083|21.133|HU|Borsod-Abaúj-Zemplén|72
+Takamatsu castle|34.350|134.052|JP|Kagawa|71|f
+Taketomi-shima|24.317|124.083|JP|Okinawa|71|f
+Takume|-15.799|-142.199|PF|Tuamotu-Gambier Islands|71|f
 Takeley|51.871|0.266|GB|England|71
+Takapoto|-14.615|-145.199|PF|Tuamotu-Gambier Islands|70|f
 Takht|27.499|56.640|IR|Hormozgan|70
 Takouahio|6.374|-6.203|CI|Sassandra-Marahoue|70
 Takinoue|44.189|143.075|JP|Hokkaido|69
+Taku Glacier|58.595|-134.180|US|Alaska|69|f
+Takutea|-19.813|-158.288|CK||69|f
 Takamaka|-4.767|55.500|SC|Takamaka|68
 Takaike|33.533|135.817|JP|Wakayama|68
 Takub|6.856|125.422|PH|Davao Region|68
+Takataki Dam|35.358|140.145|JP|Chiba|67|f
+Take-shima|30.810|130.429|JP|Kagoshima|67|f
+Takli Island|58.061|-154.491|US|Alaska|67|f
+Tākūr Ghar|33.343|69.214|AF|Paktia|67|f
 Takhtaulove|49.661|34.534|UA|Poltava|67
 Takenouchi|36.707|137.306|JP|Toyama|66
 Taktaszada|48.117|21.183|HU|Borsod-Abaúj-Zemplén|66
 Taki|4.696|-6.708|CI|Bas-Sassandra District|66
 Takan Wari Pora|34.159|74.711|IN|Jammu and Kashmir|65
 Takikroum|7.237|-2.960|CI|Zanzan District|65
+Takasaka Dam|38.969|140.165|JP|Yamagata|65|f
+Takengon Rembele Airport|4.721|96.849|ID|Aceh|65|f
 Takoa|6.268|-6.145|CI|Goh-Djiboua|65
 Takpalakaha|9.160|-5.129|CI|Vallée du Bandama District|64
 Ta’ Kerċem|36.044|14.216|MT||64|r
 Taki-Salékro|7.222|-5.268|CI|Lacs District|64
 Takikro|6.270|-4.440|CI|Lacs District|63
+Takama Yama|36.575|138.682|JP|Gunma|63|f
+Takaono-damu|32.028|130.310|JP|Kagoshima|63|f
+Takhat-i-sulemān|31.638|69.976|PK|Khyber Pakhtunkhwa|63|f
+Taksim Gezi Park|41.038|28.987|TR|Istanbul|63|f
+Taku Harbor|58.067|-134.019|US|Alaska|63|f
 Takaka|-40.850|172.800|NZ|Tasman District|63
 Takht-e Qeyşar|32.059|48.868|IR|Khuzestan|62
 Takikro|7.002|-4.618|CI|Lacs District|62
@@ -98,14 +122,57 @@ Takobéri|5.622|-5.775|CI|Goh-Djiboua|61
 Takahara|34.323|135.950|JP|Nara|61
 Takouabli|7.379|-7.359|CI|Montagnes|61
 Takhtamygda|54.110|123.610|RU|Amur Oblast|61
+Taka|11.113|169.665|MH|Taka Atoll|61|f
+Takami Yama|34.429|136.089|JP|Nara|61|f
+Takatsuma Yama|36.800|138.052|JP|Niigata|61|f
+Takht-e Soleymān|36.605|47.234|IR|West Azerbaijan|61|f
+Takala|8.278|-5.052|CI|Vallée du Bandama District|59
+Takbaş|36.945|34.836|TR|Mersin|58
+Takhlakh Lake|46.278|-121.596|US|Washington|58|f
+Takht|35.971|68.341|AF|Baghlan|58|f
+Taksimo Airport|56.362|114.929|RU|Buryatiya Republic|58|f
+Takassou|7.716|-4.776|CI|Vallée du Bandama District|58
+Takhar|31.158|75.765|IN|Punjab|58
+Takanazo|8.350|-5.800|CI|Woroba|58
+Takoro|4.680|-6.843|CI|Bas-Sassandra District|58
+Takana-Dioulasso|8.433|-4.683|CI|Vallée du Bandama District|57
+Takra Adiekro|7.878|-5.383|CI|Vallée du Bandama District|57
+Takra Mangouakro|7.867|-5.382|CI|Vallée du Bandama District|57
+Takern Zwei|47.033|15.767|AT|Styria|56
+Takura|-25.318|152.696|AU|Queensland|54
+Takaka Airport|-40.813|172.775|NZ|Tasman District|54|f
+Takatu|30.402|67.125|PK|Balochistan|54|f
+Tåkern|58.350|14.800|SE|Östergötland|54|f
+Taku Dao|24.863|118.823|CN|Fujian|54|f
+Takapau|-40.033|176.350|NZ|Hawke's Bay Region|54
+Tak'alik Ab'aj|14.635|-91.733|GT|Retalhuleu|49|f
+Takahe, Mount|-76.267|-112.233|AQ||49|f
+Takaki Promontory|-65.548|-64.214|AQ||49|f
+Takht-i Sangin|37.099|68.285|TJ|Khatlon Province|49|f
+Takotna Airport|62.993|-156.066|US|Alaska|49|f
+Takungan Air Sultan Iskandar|1.557|103.895|MY|Johor|49|f
+Ta Keo|13.444|103.882|KH|Siem Reap|40|f
+Taka Bone Rate National Park|-6.683|121.150|ID||40|f
+Takada castle|37.110|138.256|JP|Niigata|40|f
+Takaeang|0.181|173.553|KI|Gilbert Islands|40|f
+Takangaroa Island|-36.425|174.794|NZ|Auckland|40|f
+Takhar University|36.731|69.540|AF|Takhar|40|f
+Takhoalok Island|68.168|-112.136|CA|Nunavut|40|f
+Takla Lake|55.419|-125.883|CA|British Columbia|40|f
+Takla Range|55.317|-125.887|CA|British Columbia|40|f
+Taku Towers|58.598|-134.369|US|Alaska|40|f
 Ta Khmau|11.446|104.946|KH|Kandal|0
 Tak Fa|15.349|100.495|TH|Nakhon Sawan|0
+Taka|-8.841|121.114|ID|East Nusa Tenggara|0
 Taka Atoll|11.173|169.586|MH||0|r
 Takalar|-5.426|119.438|ID|South Sulawesi|0
 Takari|-9.973|124.047|ID|East Nusa Tenggara|0
 Takengon|4.621|96.847|ID|Aceh|0
+Takerharjo|-6.941|112.412|ID|East Java|0
+Takeshiken|46.189|90.806|CN|Heilongjiang|0
 Taketa|32.959|131.367|JP|Oita|0
 Takhli|15.263|100.344|TH|Nakhon Sawan|0
+Taklale|-10.107|123.799|ID|East Nusa Tenggara|0
 Takokak|-7.051|107.004|ID|West Java|0
 Takua Thung|8.384|98.451|TH|Phang Nga|0
 Takuk Nuea|9.239|98.979|TH|Surat Thani|0

@@ -18,6 +18,7 @@ Sumter|33.920|-80.341|US|South Carolina|92
 Sumerpur|25.154|73.082|IN|Rajasthan|92
 Sumusţā as Sulţānī|28.917|30.850|EG|Beni Suweif|91
 Sumberpucung|-8.159|112.483|ID|East Java|91
+Sumatra|0.000|102.000|ID||90|f
 Sumiyoshi|34.750|138.250|JP|Shizuoka|89
 Sumpango|14.646|-90.734|GT|Sacatepéquez|89
 Šumperk|49.965|16.971|CZ|Olomouc Region|88
@@ -33,11 +34,14 @@ Summit|41.788|-87.810|US|Illinois|81
 Summerfield|38.905|-76.868|US|Maryland|81
 Summerfield|36.209|-79.905|US|North Carolina|81
 Sumner|47.203|-122.240|US|Washington|80
+Sumy Airport|50.858|34.763|UA|Sumy|79|f
 Summit|47.162|-122.357|US|Washington|78
 Summit Park|40.746|-111.612|US|Utah|78
+Sumburgh Airport|59.879|-1.296|GB|Scotland|78|f
 Sumpong|8.163|125.118|PH|Northern Mindanao|77
 Summit View|47.136|-122.352|US|Washington|77
 Sumbuya|7.648|-11.961|SL|Southern Province|77
+Sumbe Airport|-11.168|13.848|AO|Kwanza Sul|77|f
 Sümeg|46.977|17.282|HU|Veszprém|77
 Sumirago|45.737|8.784|IT|Lombardy|75
 Summit|32.067|-110.951|US|Arizona|75
@@ -47,6 +51,7 @@ Summerside|39.105|-84.288|US|Ohio|74
 Sumiyoshi|35.689|139.815|JP|Tokyo|74
 Šumatac|45.097|15.858|BA|Federation of B&H|74
 Sumampa|-29.382|-63.477|AR|Santiago del Estero|74
+Sumisu Jima|31.439|140.051|JP|Tokyo|73|f
 Summerville|34.481|-85.348|US|Georgia|73
 Sumabnit|16.030|120.583|PH|Ilocos|73
 Sumkino|58.111|68.324|RU|Tyumen Oblast|72
@@ -61,15 +66,21 @@ Sumalig|7.999|123.663|PH|Zamboanga Peninsula|70
 Summit Hill|40.825|-75.871|US|Pennsylvania|69
 Sumiton|33.756|-87.050|US|Alabama|68
 Sumulicë|42.387|21.734|RS|Central Serbia|67
+Summer Beaver Airport|52.709|-88.542|CA|Ontario|67|f
+Summer Palace|39.999|116.270|CN|Beijing|67|f
 Summerset|44.190|-103.344|US|South Dakota|67
 Sumner|42.847|-92.092|US|Iowa|66
 Suma de Hidalgo|21.086|-89.148|MX|Yucatán|65
+Sumbiarhólmur|61.398|-6.726|FO|Suðuroy|65|f
 Šumice|49.029|17.722|CZ|Zlín|65
 Sumrall|31.417|-89.542|US|Mississippi|65
 Summit|31.284|-90.468|US|Mississippi|65
 Šumvald|49.831|17.133|CZ|Olomouc Region|64
 Sumène|43.981|3.716|FR|Occitanie|64
 Summaga|45.774|12.798|IT|Veneto|64
+Sumba Strait|-9.000|119.250|ID|East Nusa Tenggara|63|f
+Summerside Airport|46.441|-63.834|CA|Prince Edward Island|63|f
+Summit Airport|39.524|-75.719|US|Delaware|63|f
 Summerland|34.421|-119.597|US|California|63
 Sumar|53.183|6.000|NL|Friesland|63
 Sumas|49.000|-122.265|US|Washington|63
@@ -77,26 +88,213 @@ Sumacàrcer|39.100|-0.633|ES|Valencia|62
 Sumiainen|62.657|26.046|FI|Central Finland|62
 Sumidero|18.219|-66.129|PR|Aguas Buenas|61
 Summerdale|30.488|-87.700|US|Alabama|61
+Sumas Mountain|48.912|-122.222|US|Washington|61|f
+Sumida Kōen|35.712|139.804|JP|Tokyo|61|f
+Summit Mountain|48.354|-113.370|US|Montana|61|f
+Summit Peak|37.351|-106.697|US|Colorado|61|f
+Sumter Airport|33.992|-80.362|US|South Carolina|61|f
 Sumbatan-diza|38.948|45.826|AZ|Nakhchivan|60
+Summitville|40.339|-85.644|US|Indiana|60
+Summitview|46.597|-120.642|US|Washington|60
+Summerton|33.608|-80.351|US|South Carolina|60
+Sumner|44.392|-70.438|US|Maine|59
+Summertown|35.435|-87.313|US|Tennessee|59
+Summerhill|53.477|-6.736|IE|Leinster|58
+Summerford|49.483|-54.781|CA|Newfoundland and Labrador|58
+Summer Island|45.563|-86.637|US|Michigan|58|f
+Summitville mine|37.436|-106.598|US|Colorado|58|f
 Summonte|40.949|14.745|IT|Campania|58
+Summerau|48.552|14.441|AT|Upper Austria|57
+Summertown|-34.959|138.731|AU|South Australia|57
+Șumal|47.281|22.566|RO|Sălaj County|56
+Summerholm|-27.617|152.450|AU|Queensland|56
+Šumná|48.922|15.871|CZ|South Moravian|56
+Summit|36.252|-92.691|US|Arkansas|55
+Summersville|37.326|-85.544|US|Kentucky|55
+Šumeće|45.076|17.878|HR|Brod-Posavina|54
+Sumantri|-4.053|137.167|ID|Central Papua|54|f
+Sumatar Harabesi|36.957|39.346|TR|Şanlıurfa|54|f
+Sumbawanga Airport|-7.967|31.667|TZ|Rukwa|54|f
+Summasjärvi|62.650|28.383|FI|North Savo|54|f
+Summerland Key|24.666|-81.442|US|Florida|54|f
+Summersville Lake|38.243|-80.860|US|West Virginia|54|f
+Summerville Airport|33.064|-80.277|US|South Carolina|54|f
+Summit Airport|63.336|-149.115|US|Alaska|54|f
+Summit Lake|38.252|-80.437|US|West Virginia|54|f
+Summit Lake|47.056|-123.103|US|Washington|54|f
+Sumner Dam|34.607|-104.390|US|New Mexico|54|f
+Summerville|41.116|-79.187|US|Pennsylvania|54
 Sumbilca|-11.408|-76.820|PE|Lima region|53
+Sumas Mountain|49.083|-122.186|CA|British Columbia|49|f
+Sumburgh Head|59.852|-1.276|GB|Scotland|49|f
+Summer Isles|58.000|-5.434|GB|Scotland|49|f
+Summers Peak|-69.700|64.883|AQ||49|f
+Summit Bridge|39.541|-75.738|US|Delaware|49|f
+Summit Chief Mountain|47.523|-121.266|US|Washington|49|f
+Summit Lake|54.278|-122.663|CA|British Columbia|49|f
+Summit Range|35.461|-117.579|US|California|49|f
+Summit Ridge|-63.448|-57.038|AQ||49|f
+Sumner Glacier|-68.886|-65.669|AQ||49|f
+Sumpfsee|53.774|12.145|DE|Mecklenburg-Vorpommern|49|f
+Sumrall Peak|-82.800|-53.550|AQ||49|f
+Sumur|-1.733|109.300|ID||49|f
+Sumaco Napo-Galeras National Park|-0.328|-77.471|EC|Napo|40|f
+Sumas Peak|49.116|-122.136|CA|British Columbia|40|f
+Summer Lake|48.203|-91.417|CA|Ontario|40|f
+Summer Lake|42.820|-120.743|US|Oregon|40|f
+Summer Street Bridge|42.351|-71.052|US|Massachusetts|40|f
+Summers Glacier|-72.217|167.467|AQ||40|f
+Summit Hills|32.506|-108.973|US|New Mexico|40|f
+Summit Lake|45.466|-64.342|CA|Nova Scotia|40|f
+Summit Lake|45.046|-76.843|CA|Ontario|40|f
+Summit Lake|48.490|-84.368|CA|Ontario|40|f
+Summit Lake|48.426|-82.721|CA|Ontario|40|f
+Summit Lake|48.264|-84.531|CA|Ontario|40|f
+Summit Lake|50.425|-87.740|CA|Ontario|40|f
+Summit Lake|48.475|-84.867|CA|Ontario|40|f
+Summit Lake|47.274|-79.762|CA|Ontario|40|f
+Summit Lake|49.043|-93.701|CA|Ontario|40|f
+Summit Lake|48.108|-84.629|CA|Ontario|40|f
+Summit Lake|49.484|-92.655|CA|Ontario|40|f
+Summit Lake|49.008|-114.025|CA|Alberta|40|f
+Summit Lake|39.598|-105.644|US|Colorado|40|f
+Summit Lake|59.511|-139.762|US|Alaska|40|f
+Summit Lake|40.493|-121.423|US|California|40|f
+Summit Lake|45.031|-121.788|US|Oregon|40|f
+Summit Lakes|47.033|-79.750|CA|Ontario|40|f
+Summit Mountain|45.094|-68.432|US|Maine|40|f
+Summit Mountain|43.997|-74.917|US|New York|40|f
+Sumner Bridge|42.862|-92.075|US|Iowa|40|f
+Sumner Lake State Park|34.608|-104.387|US|New Mexico|40|f
 Sumaila|11.530|8.956|NG|Kano State|0
+Sumampir|-7.000|112.444|ID|East Java|0
+Suman|-10.066|124.345|ID|East Nusa Tenggara|0
 Sumandang|-6.507|106.329|ID|Banten|0
+Sumanding|-7.513|108.620|ID|West Java|0
 Sumbas|37.451|36.023|TR|Osmaniye|0
 Sumber|-6.798|111.257|ID|Central Java|0
+Sumber|-6.613|111.032|ID|Central Java|0
+Sumber|-6.860|111.983|ID|East Java|0
 Sümber|47.659|118.510|MN|East Aimak|0
+Sumber Tengah|-8.260|113.725|ID|East Java|0
+Sumber Tengah|-7.041|113.535|ID|East Java|0
+Sumberagung|-8.145|112.107|ID|East Java|0
+Sumberagung|-8.241|113.756|ID|East Java|0
+Sumberagung|-8.217|114.173|ID|East Java|0
+Sumberagung|-6.737|111.478|ID|Central Java|0
+Sumberagung|-6.894|112.295|ID|East Java|0
+Sumberagung Satu|-8.046|112.277|ID|East Java|0
+Sumberan|-6.792|111.204|ID|Central Java|0
 Sumberan|-8.343|113.606|ID|East Java|0
 Sumberan|-8.400|114.268|ID|East Java|0
 Sumberanyar|-7.782|114.300|ID|East Java|0
+Sumberarum|-8.249|112.339|ID|East Java|0
+Sumberarum|-6.877|111.892|ID|East Java|0
+Sumberarum|-8.267|112.777|ID|East Java|0
+Sumberarumkrajan|-8.213|114.156|ID|East Java|0
+Sumberasri|-8.546|114.267|ID|East Java|0
+Sumberaya Barat|-7.043|113.592|ID|East Java|0
 Sumberbaba|-1.819|136.758|ID|Papua|0
+Sumberbakti|-6.896|113.274|ID|East Java|0
 Sumberbaru|-8.118|113.389|ID|East Java|0
+Sumberbatas|-7.050|113.558|ID|East Java|0
+Sumberbendo|-8.230|112.012|ID|East Java|0
+Sumberbendo|-8.187|113.215|ID|East Java|0
+Sumberbendo|-7.066|113.527|ID|East Java|0
+Sumberbening|-8.539|114.110|ID|East Java|0
+Sumberberas|-8.476|114.319|ID|East Java|0
+Sumberboto Satu|-8.228|112.147|ID|East Java|0
+Sumberbulus Dua|-8.142|113.897|ID|East Java|0
+Sumberbuncis|-8.270|112.882|ID|East Java|0
+Sumberdadi|-8.261|112.064|ID|East Java|0
+Sumberdadi|-8.018|111.715|ID|East Java|0
+Sumberdangdang|-8.184|113.704|ID|East Java|0
+Sumberejo|-8.135|112.436|ID|East Java|0
+Sumberejo|-8.342|113.682|ID|East Java|0
+Sumberejo|-6.712|111.340|ID|Central Java|0
+Sumberejo|-6.914|111.312|ID|Central Java|0
+Sumberejo|-6.811|111.870|ID|East Java|0
+Sumberejo|-8.397|113.592|ID|East Java|0
+Sumberejo|-8.072|111.802|ID|East Java|0
+Sumbergayam|-8.074|113.831|ID|East Java|0
+Sumbergayam|-6.675|111.588|ID|Central Java|0
+Sumbergebang|-8.071|113.325|ID|East Java|0
 Sumbergedong|-8.053|111.708|ID|East Java|0
+Sumbergesing Wetan|-8.299|112.660|ID|East Java|0
+Sumberingin|-8.043|112.465|ID|East Java|0
+Sumberingin Kulon|-8.127|111.990|ID|East Java|0
 Sumberjambe|-8.070|113.900|ID|East Java|0
 Sumberjati|-8.187|113.880|ID|East Java|0
+Sumberjati|-8.165|112.146|ID|East Java|0
+Sumberjeruk|-8.009|113.872|ID|East Java|0
+Sumberjo|-8.178|112.107|ID|East Java|0
+Sumberjo|-6.998|112.167|ID|East Java|0
+Sumberjo Kulon|-8.108|111.992|ID|East Java|0
+Sumberkalong|-8.085|113.791|ID|East Java|0
+Sumberkardi|-8.229|113.103|ID|East Java|0
+Sumberkejayan|-8.177|113.834|ID|East Java|0
+Sumberkemuning|-8.001|113.835|ID|East Java|0
+Sumberkenanga|-8.003|113.891|ID|East Java|0
+Sumberkepoh|-8.519|114.319|ID|East Java|0
+Sumberkertokrajan|-8.269|112.522|ID|East Java|0
+Sumberketangi|-8.187|113.738|ID|East Java|0
+Sumberketempah|-8.117|113.827|ID|East Java|0
+Sumberkindagan|-7.062|113.689|ID|East Java|0
+Sumberkrajan|-8.050|111.688|ID|East Java|0
+Sumberluhur|-8.513|114.282|ID|East Java|0
+Sumbermanggis|-8.254|112.838|ID|East Java|0
+Sumbermanjing Krajan|-8.260|112.686|ID|East Java|0
+Sumbermanjing Kulon|-8.301|112.495|ID|East Java|0
 Sumbermanjing Wetan|-8.281|112.690|ID|East Java|0
+Sumbernangka Tengah|-6.853|115.269|ID|East Java|0
+Sumberngerjat|-7.089|113.590|ID|East Java|0
+Sumberpakem|-8.048|113.803|ID|East Java|0
+Sumberpakem|-8.056|113.871|ID|East Java|0
+Sumberpandan|-7.109|113.717|ID|East Java|0
+Sumberpandan|-8.001|113.785|ID|East Java|0
+Sumberpinang|-8.156|113.767|ID|East Java|0
+Sumberpinang Satu|-8.173|113.818|ID|East Java|0
+Sumberpitu|-7.185|111.582|ID|Central Java|0
+Sumberrejo|-7.200|111.435|ID|Central Java|0
+Sumberrejo|-8.180|112.238|ID|East Java|0
 Sumberrejo|-8.187|113.072|ID|East Java|0
+Sumberrojokrajan|-8.244|112.623|ID|East Java|0
+Sumbersalak|-8.158|113.883|ID|East Java|0
+Sumbersari|-6.646|111.567|ID|Central Java|0
+Sumbersari Krajan Dua|-8.034|113.781|ID|East Java|0
+Sumbersari Wetan|-8.174|113.718|ID|East Java|0
+Sumbersarikrajan|-8.300|112.841|ID|East Java|0
+Sumbersewu|-8.402|114.327|ID|East Java|0
+Sumbersih|-8.325|112.260|ID|East Java|0
+Sumbersuko|-8.044|112.668|ID|East Java|0
+Sumbertimo|-8.216|112.404|ID|East Java|0
+Sumberwaras|-6.595|106.153|ID|Banten|0
+Sumberwaru|-8.082|113.825|ID|East Java|0
+Sumberwongso|-8.262|113.225|ID|East Java|0
+Sumberwudi|-7.000|112.366|ID|East Java|0
 Sumbul|2.741|98.397|ID|North Sumatra|0
+Sumdo|35.519|100.933|CN|Qinghai|0
+Sumeng|29.031|119.638|CN|Zhejiang|0
 Sümiyn Bulag|49.133|114.883|MN|East Aimak|0
+Sumlili|-10.301|123.547|ID|East Nusa Tenggara|0
 Summerhouse|54.567|-1.689|GB|England|0
 Sumohai|-4.689|139.355|ID|Highland Papua|0
 Sumpur Kudus|-0.442|100.909|ID|West Sumatra|0
+Sumur|-8.030|113.817|ID|East Java|0
+Sumur|-7.281|107.085|ID|West Java|0
+Sumur Lima|-8.494|118.299|ID|West Nusa Tenggara|0
+Sumuragung|-7.220|113.784|ID|East Java|0
+Sumuragung|-6.964|111.713|ID|East Java|0
+Sumuran|-8.210|112.554|ID|East Java|0
+Sumuranyar|-7.755|114.063|ID|East Java|0
+Sumurasin|-7.077|113.940|ID|East Java|0
+Sumurbatu|-6.787|105.850|ID|Banten|0
+Sumurber|-6.949|112.429|ID|East Java|0
+Sumurboto|-6.982|111.450|ID|Central Java|0
+Sumurgayam|-6.885|112.344|ID|East Java|0
+Sumurgeneng|-6.801|111.961|ID|East Java|0
+Sumurgung|-6.908|112.106|ID|East Java|0
+Sumurlebu Barat|-6.396|106.106|ID|Banten|0
+Sumurnanjung|-7.236|106.925|ID|West Java|0
+Sumurpule|-6.687|111.582|ID|Central Java|0
+Sumurwaru|-6.577|105.807|ID|Banten|0

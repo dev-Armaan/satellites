@@ -15,6 +15,7 @@ Le Pré-Saint-Gervais|48.885|2.404|FR|Île-de-France|85
 Le Pecq|48.893|2.104|FR|Île-de-France|84
 Le Pontet|43.961|4.860|FR|Provence-Alpes-Côte d'Azur|84
 Le Plateau|45.435|-75.780|CA|Quebec|84
+Leptis Magna|32.639|14.291|LY|Al Marqab|83|f
 Le Pradet|43.105|6.024|FR|Provence-Alpes-Côte d'Azur|82
 Le Pont-de-Claix|45.123|5.698|FR|Auvergne-Rhône-Alpes|82
 Le Portel|50.706|1.576|FR|Hauts-de-France|81
@@ -35,6 +36,7 @@ Le Port-Marly|48.890|2.111|FR|Île-de-France|73
 L'Épiphanie|45.850|-73.482|CA|Quebec|73
 Le Pellerin|47.199|-1.755|FR|Pays de la Loire|72
 Le Plessis-Pâté|48.611|2.323|FR|Île-de-France|72
+Le Pleureur|46.016|7.369|CH|Valais|71|f
 Leptokaryá|40.060|22.561|GR|Central Macedonia|71
 Lepoglava|46.211|16.036|HR|Varaždin|71
 Lepai|6.083|100.367|MY|Kedah|71
@@ -43,6 +45,7 @@ Le Plessis-Belleville|49.095|2.756|FR|Hauts-de-France|70
 Lepley|54.309|42.860|RU|Mordoviya Republic|70
 Le Pouzin|44.752|4.748|FR|Auvergne-Rhône-Alpes|69
 Le Pont-de-Beauvoisin|45.537|5.673|FR|Auvergne-Rhône-Alpes|69
+Le Pouce|-20.198|57.529|MU||69|f
 Le Palais|47.346|-3.156|FR|Brittany|68
 Leporano|40.382|17.334|IT|Apulia|68
 Le Pallet|47.138|-1.336|FR|Pays de la Loire|68
@@ -53,11 +56,15 @@ Le Plessis-Grammoire|47.499|-0.430|FR|Pays de la Loire|67
 Lepaterique|14.067|-87.467|HN|Francisco Morazán Department|66
 Lepenoú|38.708|21.290|GR|West Greece|66
 Le Pêchereau|46.577|1.547|FR|Centre-Val de Loire|66
+Le Puy – Loudes Airport|45.081|3.763|FR|Auvergne-Rhône-Alpes|65|f
+Lepontine Alps|46.417|8.667|CH|Ticino|65|f
+Lepsøya|62.621|6.170|NO|Møre og Romsdal|65|f
 Lepanto|35.611|-90.330|US|Arkansas|65
 Le Porge|44.873|-1.093|FR|New Aquitaine|64
 Le Perrier|46.820|-1.993|FR|Pays de la Loire|64
 Le Plessis-Brion|49.464|2.891|FR|Hauts-de-France|64
 Le Pouget|43.592|3.525|FR|Occitanie|64
+Lepenski Vir|44.557|22.026|RS|Central Serbia|63|f
 Lepelstraat|51.548|4.276|NL|North Brabant|63
 Le Pertre|48.034|-1.037|FR|Brittany|63
 Le Puy-Notre-Dame|47.125|-0.235|FR|Pays de la Loire|62
@@ -68,10 +75,47 @@ Lepetykha|47.327|33.050|UA|Mykolaiv|62
 Le Pizou|45.025|0.062|FR|New Aquitaine|61
 Lepuix|47.761|6.814|FR|Bourgogne-Franche-Comté|61
 Le Pin|48.915|2.628|FR|Île-de-France|61
+Le Pécloz|45.633|6.230|FR|Auvergne-Rhône-Alpes|61|f
 Le Perréon|46.063|4.600|FR|Auvergne-Rhône-Alpes|61
 Le Pin|46.863|-0.655|FR|New Aquitaine|61
 Le Poujol-sur-Orb|43.580|3.060|FR|Occitanie|60
 Le Plessis-Macé|47.543|-0.674|FR|Pays de la Loire|60
+Le Puiset-Doré|47.231|-1.115|FR|Pays de la Loire|60
+Lépanges-sur-Vologne|48.167|6.667|FR|Grand Est|60
+Le Petit-Bornand-les-Glières|46.001|6.396|FR|Auvergne-Rhône-Alpes|60
+Lepsi|46.234|78.940|KZ|Zhetysu Region|59
+Le Poët-Laval|44.537|5.015|FR|Auvergne-Rhône-Alpes|59
+Lepreau|45.170|-66.467|CA|New Brunswick|58
+Le Pâté|15.872|-61.628|GP||58|f
+Le Petit Ballon|47.981|7.126|FR|Grand Est|58|f
+Lepidotonpolis|26.333|31.933|EG|Sohag|58|f
+Le Parcq|50.379|2.098|FR|Hauts-de-France|57
+Lepea|-13.836|-171.790|WS|Tuamasaga|57
+Le Plessis-Grohan|48.947|1.133|FR|Normandy|57
+Le Passage|45.534|5.512|FR|Auvergne-Rhône-Alpes|57
+Le Pin|49.211|0.335|FR|Normandy|57
+Le Poiré-sur-Velluire|46.411|-0.896|FR|Pays de la Loire|57
+Le Pian-sur-Garonne|44.586|-0.212|FR|New Aquitaine|56
+Le Pin-la-Garenne|48.443|0.547|FR|Normandy|56
+Lepplax|63.670|22.893|FI|Ostrobothnia|56
+Le Pin|47.350|-2.167|FR|Pays de la Loire|56
+L'Épine|48.978|4.471|FR|Grand Est|56
+Le Petit-Fougeray|47.928|-1.609|FR|Brittany|56
+Leppneeme|59.546|24.859|EE|Harjumaa|55
+Le Plessier-Rozainvillers|49.751|2.554|FR|Hauts-de-France|55
+Le Pas|48.430|-0.701|FR|Pays de la Loire|55
+Leppävesi|62.289|25.970|FI|Central Finland|54|f
+Le Perchay|49.111|1.933|FR|Île-de-France|54
+Le Plessis-Mériot|48.515|3.438|FR|Grand Est|54
+L'Epaule|46.069|7.687|CH|Valais|49|f
+Lepanto, Mount|-72.733|168.450|AQ||49|f
+Lepus, Mount|-70.664|-67.168|AQ||49|f
+L'Epée|45.954|7.265|CH|Valais|40|f
+Le Parrain|46.046|7.351|CH|Valais|40|f
+Le Portalet|45.992|7.056|CH|Valais|40|f
+Lepak|-8.705|116.501|ID|West Nusa Tenggara|0
 Lépi|-12.875|15.393|AO|Huambo|0
 Leping|37.615|113.665|CN|Shanxi|0
 Leping|28.968|117.117|CN|Jiangxi|0
+Leping|23.264|113.019|CN|Guangdong|0
+Leping|30.010|119.397|CN|Zhejiang|0

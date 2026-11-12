@@ -1,5 +1,5 @@
 Warsaw|52.230|21.012|PL|Mazovia|125
-Warmia-Masuria|53.833|20.833|PL||119|r
+Warmia-Masuria|53.833|20.833|PL||120|r
 Warri|5.517|5.750|NG|Delta|119
 Warangal|18.000|79.583|IN|Telangana|117
 Warder|6.974|45.341|ET|Somali|113
@@ -8,6 +8,7 @@ Warrap|8.000|28.850|SS||103|r
 Warren|42.490|-83.013|US|Michigan|103
 Wardha|20.739|78.598|IN|Maharashtra|101
 Warīsān|25.167|55.407|AE|Dubai|101
+Warsaw Chopin Airport|52.166|20.967|PL|Mazovia|99|f
 Warwick|41.700|-71.416|US|Rhode Island|98
 Warabi|35.822|139.685|JP|Saitama|98
 Warner Robins|32.616|-83.627|US|Georgia|97
@@ -23,12 +24,14 @@ Wāris Alīganj|25.017|85.640|IN|Bihar|91
 Warrnambool|-38.382|142.488|AU|Victoria|90
 Warstein|51.445|8.349|DE|North Rhine-Westphalia|89
 Wārāseonī|21.762|80.043|IN|Madhya Pradesh|89
+Wartburg Castle|50.966|10.306|DE|Thuringia|89|f
 Warburg|51.490|9.146|DE|North Rhine-Westphalia|88
 Warnes|-17.516|-63.168|BO|Santa Cruz Department|87
 Waren|53.520|12.681|DE|Mecklenburg-Vorpommern|87
 Warrensburg|38.763|-93.736|US|Missouri|86
 Warragul|-38.159|145.931|AU|Victoria|86
 Warah|27.448|67.797|PK|Sindh|85
+Warbah Island|29.994|48.067|KW|Al Jahra Governorate|85|f
 Warrenton|-28.114|24.848|ZA|Northern Cape|85
 Ware|51.811|-0.029|GB|England|85
 Warminster|51.204|-2.179|GB|England|85
@@ -42,6 +45,7 @@ Waremme|50.698|5.255|BE|Wallonia|83
 Warrensville Heights|41.435|-81.536|US|Ohio|83
 Warrenville|41.818|-88.173|US|Illinois|82
 Warden|-27.855|28.965|ZA|Free State|82
+Warwick Castle|52.280|-1.585|GB|England|81|f
 Warren|41.730|-71.283|US|Rhode Island|81
 Warner|-27.312|152.950|AU|Queensland|81
 Wardāmah|32.797|21.791|LY|Al Jabal al Akhdar|81
@@ -52,6 +56,7 @@ Warr Acres|35.523|-97.619|US|Oklahoma|80
 Warrenton|38.713|-77.795|US|Virginia|80
 Warsop|53.214|-1.151|GB|England|80
 War Net Kone|17.130|96.269|MM|Yangon|80
+Warsaw University of Technology|52.221|21.010|PL|Mazovia|80|f
 Warren|41.844|-79.145|US|Pennsylvania|79
 Warnsveld|52.138|6.231|NL|Gelderland|79
 Warwick|32.266|-64.807|BM||79|r
@@ -70,6 +75,7 @@ Ware|42.260|-72.240|US|Massachusetts|76
 Wardhāmna|21.127|78.950|IN|Maharashtra|76
 Warren|33.613|-92.065|US|Arkansas|75
 Warrenton|46.165|-123.924|US|Oregon|74
+Warkworth Castle|55.345|-1.612|GB|England|74|f
 Warm Mineral Springs|27.060|-82.260|US|Florida|74
 Warthausen|48.129|9.797|DE|Baden-Wurttemberg|74
 Warwick|45.950|-71.982|CA|Quebec|74
@@ -77,10 +83,12 @@ Ward|35.030|-91.950|US|Arkansas|73
 Wartenberg|48.406|11.989|DE|Bavaria|73
 Warmond|52.197|4.503|NL|South Holland|73
 Wargrave|51.501|-0.866|GB|England|72
+Warner Mountains|41.450|-120.251|US|California|72|f
 Warminster Heights|40.187|-75.082|US|Pennsylvania|72
 War Ba Lauk Thauk|16.517|96.171|MM|Yangon|72
 Warren|44.120|-69.240|US|Maine|72
 Warboys|52.404|-0.079|GB|England|72
+Warrnambool Airport|-38.295|142.447|AU|Victoria|71|f
 Warngau|47.832|11.722|DE|Bavaria|71
 Warmsen|52.457|8.849|DE|Lower Saxony|71
 Warang|14.373|-16.944|SN|Thies|71
@@ -90,6 +98,8 @@ Warta|51.710|18.625|PL|Łódź Voivodeship|71
 Warsaw|42.740|-78.133|US|New York|71
 Warrior|33.814|-86.809|US|Alabama|70
 Warsaw|34.999|-78.091|US|North Carolina|70
+Wardang Island|-34.498|137.357|AU|South Australia|70|f
+Warwick Municipal Airport|41.289|-74.288|US|New York|70|f
 Warrensburg|43.497|-73.776|US|New York|70
 Warneton|50.752|2.946|BE|Wallonia|70
 Warm Springs|46.181|-112.785|US|Montana|70
@@ -99,6 +109,8 @@ Warga|10.402|-5.578|CI|Savanes District|69
 Waroona|-32.843|115.922|AU|Western Australia|69
 Waringstown|54.434|-6.299|GB|Northern Ireland|69
 Warden|46.968|-119.040|US|Washington|69
+Warracknabeal Airport|-36.321|142.419|AU|Victoria|69|f
+Warren Island|55.893|-133.893|US|Alaska|69|f
 Wardin|49.992|5.791|BE|Wallonia|68
 Warm Beach|48.171|-122.365|US|Washington|68
 Warmensteinach|49.993|11.779|DE|Bavaria|68
@@ -106,6 +118,7 @@ Warracknabeal|-36.253|142.393|AU|Victoria|68
 War Yon Sun|17.085|96.340|MM|Yangon|67
 Wartmannsroth|50.167|9.783|DE|Bavaria|67
 Warton|54.147|-2.764|GB|England|67
+Warsaw-Modlin Airport|52.451|20.653|PL|Mazovia|67|f
 Ware Shoals|34.398|-82.247|US|South Carolina|67
 Warmeriville|49.352|4.219|FR|Grand Est|67
 Warsaw|38.243|-93.382|US|Missouri|66
@@ -114,6 +127,7 @@ Warson Woods|38.607|-90.383|US|Missouri|66
 Wartberg|47.527|15.481|AT|Styria|66
 Warffum|53.392|6.558|NL|Groningen|66
 Warhem|50.976|2.493|FR|Hauts-de-France|66
+Wards Island|40.788|-73.925|US|New York|65|f
 Warton|53.750|-2.893|GB|England|65
 Warrenton|33.407|-82.662|US|Georgia|65
 Warroad|48.905|-95.314|US|Minnesota|65
@@ -131,6 +145,10 @@ Warsaw|40.359|-91.435|US|Illinois|64
 Wardsville|38.489|-92.174|US|Missouri|64
 Warren Park|39.782|-86.050|US|Indiana|64
 Warsaw|37.959|-76.758|US|Virginia|63
+Warrior Peaks|42.762|-109.223|US|Wyoming|63|f
+Warroad International-Swede Carlson Field|48.936|-95.343|US|Minnesota|63|f
+Warton Airport|53.743|-2.891|GB|England|63|f
+Warwick Airport|-28.149|151.943|AU|Queensland|63|f
 Warchin|50.609|3.424|BE|Wallonia|63
 Warcq|49.775|4.682|FR|Grand Est|63
 Warren|42.213|-72.191|US|Massachusetts|63
@@ -147,29 +165,205 @@ Warnham|51.091|-0.348|GB|England|62
 Waret-la-Chaussée|50.543|4.924|BE|Wallonia|62
 Warrensburg|39.933|-89.062|US|Illinois|61
 Warcoing|50.704|3.346|BE|Wallonia|61
+War Bonnet Peak|42.761|-109.215|US|Wyoming|61|f
+War Memorial Stadium (historical)|42.905|-78.856|US|New York|61|f
+Warbonnet Peak|44.079|-115.054|US|Idaho|61|f
+Ward Island|27.713|-97.323|US|Texas|61|f
+Warrenton-Fauquier Airport|38.591|-77.713|US|Virginia|61|f
+Warsaw Island|31.905|-80.981|US|Georgia|61|f
 Wardow|53.931|12.408|DE|Mecklenburg-Vorpommern|61
 Wardrecques|50.711|2.345|FR|Hauts-de-France|61
 Wargnies-le-Grand|50.308|3.660|FR|Hauts-de-France|61
 Warnow|53.786|11.881|DE|Mecklenburg-Vorpommern|61
 Waret-l'Évêque|50.557|5.068|BE|Wallonia|60
+Warmley|51.460|-2.478|GB|England|60
+Warborough|51.639|-1.137|GB|England|60
+Warberg|52.181|10.920|DE|Lower Saxony|60
+Warquignies|50.402|3.822|BE|Wallonia|60
+Warnant|50.323|4.843|BE|Wallonia|60
+Warren|43.923|-71.892|US|New Hampshire|59
 Wartburg|36.105|-84.597|US|Tennessee|59
+Warnant-Dreye|50.595|5.226|BE|Wallonia|59
 Warrenton|36.398|-78.155|US|North Carolina|59
+Wartenburg|51.810|12.779|DE|Saxony-Anhalt|59
+Wardell|-28.951|153.462|AU|New South Wales|59
+Warren|50.132|-97.547|CA|Manitoba|58
+Warpe|52.743|9.106|DE|Lower Saxony|58
+Ward Mountain|39.100|-114.921|US|Nevada|58|f
+Ward Point|40.499|-74.252|US|New York|58|f
+Ware Airport|42.283|-72.215|US|Massachusetts|58|f
+Warraber Island Airport|-10.208|142.825|AU|Queensland|58|f
+Warren County Memorial Airport|35.703|-85.840|US|Tennessee|58|f
+Warren Cove|41.946|-70.626|US|Massachusetts|58|f
+Warsaw Ghetto|52.230|21.012|PL|Mazovia|58|f
+Wartberg|49.160|9.236|DE|Baden-Wurttemberg|58|f
+Wartenberg|47.925|8.617|DE|Baden-Wurttemberg|58|f
+Waryongsan|35.869|128.511|KR|Daegu|58|f
+War|37.301|-81.691|US|West Virginia|58
+Warder|52.565|5.026|NL|North Holland|58
+Warta Bolesławiecka|51.232|15.668|PL|Lower Silesia|58
+Warten|53.150|5.900|NL|Friesland|58
+Warwick|42.682|-72.339|US|Massachusetts|58
+Wargnies-le-Petit|50.293|3.673|FR|Hauts-de-France|58
+Warren|30.615|-94.409|US|Texas|58
+Warza|51.000|10.683|DE|Thuringia|58
+Warns|52.883|5.402|NL|Friesland|58
+Warisoulx|50.537|4.867|BE|Wallonia|57
+Warloy-Baillon|50.010|2.522|FR|Hauts-de-France|57
+Warsow|53.846|12.814|DE|Mecklenburg-Vorpommern|57
+Warken|52.140|6.268|NL|Gelderland|57
 Warnice|53.254|14.994|PL|West Pomerania|57
 Wartkowice|51.976|19.002|PL|Łódź Voivodeship|57
+Warsaw|40.335|-82.007|US|Ohio|57
+Wartrace|35.527|-86.334|US|Tennessee|56
+Warrenup|-34.976|117.847|AU|Western Australia|56
+Warsaw|44.249|-93.394|US|Minnesota|56
+Warzée|50.450|5.426|BE|Wallonia|56
+Warnervale|-33.247|151.452|AU|New South Wales|56
+Warder|54.214|9.883|DE|Schleswig-Holstein|56
+Warburton|-26.135|126.577|AU|Western Australia|56
+Wardington|52.114|-1.285|GB|England|56
+Warrior Run|41.097|-76.806|US|Pennsylvania|55
+Warrior Run|41.191|-75.950|US|Pennsylvania|55
 Wartmannstetten|47.694|16.075|AT|Lower Austria|55
+Wartenberg-Rohrbach|49.528|7.853|DE|Rheinland-Pfalz|55
 Warth|47.650|16.124|AT|Lower Austria|55
+Waranga Reservoir|-36.550|145.117|AU|Victoria|54|f
+Warangal Airport|17.914|79.602|IN|Telangana|54|f
+Waraputa Falls|5.252|-58.840|GY|Upper Demerara-Berbice|54|f
+Ward Cove|55.401|-131.729|US|Alaska|54|f
+Ward Island|38.042|-121.502|US|California|54|f
+Wari Island|-10.958|151.065|PG|Milne Bay Province|54|f
+Wark on Tweed Castle|55.642|-2.281|GB|England|54|f
+Warner Lakes|42.450|-119.851|US|Oregon|54|f
+Warren Airport|-31.733|147.803|AU|New South Wales|54|f
+Warren Peak|41.379|-120.220|US|California|54|f
+Warri Airport|5.596|5.818|NG|Delta|54|f
+Warsak Dam|34.164|71.358|PK|Khyber Pakhtunkhwa|54|f
+Warsaw Concentration Camp|52.243|20.993|PL|Mazovia|54|f
+Warsaw Municipal Airport|41.278|-85.847|US|Indiana|54|f
+Warsaw Old Town Market Square|52.250|21.012|PL|Mazovia|54|f
+Warsaw Zoological Garden|52.262|21.016|PL|Mazovia|54|f
+Warlow|53.345|11.405|DE|Mecklenburg-Vorpommern|54
+Warmsroth|49.950|7.783|DE|Rheinland-Pfalz|53
+Warnau|54.189|10.159|DE|Schleswig-Holstein|51
+Warringholz|54.081|9.464|DE|Schleswig-Holstein|50
+War Hill|53.140|-6.254|IE|Leinster|49|f
+War Memorial Park|-33.878|151.164|AU|New South Wales|49|f
+Warangal Fort|17.950|79.617|IN|Telangana|49|f
+Waratah Bay|-38.843|146.033|AU|Victoria|49|f
+Waratah Islands|-67.400|47.417|AQ||49|f
+Warburton Airport|-26.124|126.583|AU|Western Australia|49|f
+Warburton Ledge|-80.217|157.783|AQ||49|f
+Warburton Peak|-54.086|-37.575|GS||49|f
+Ward Glacier|-78.167|163.450|AQ||49|f
+Ward Hill|58.901|-3.341|GB|Scotland|49|f
+Ward Hunt Strait|-9.582|150.197|PG|Milne Bay Province|49|f
+Ward Islands|-67.632|-69.588|AQ||49|f
+Ward Islands|-33.742|134.284|AU|South Australia|49|f
+Ward Lake|-78.167|163.583|AQ||49|f
+Ward's Bridge|41.529|-74.238|US|New York|49|f
+Warden Rock|-67.529|-67.308|AQ||49|f
+Wareham Castle|50.684|-2.112|GB|England|49|f
+Warinsee|53.780|12.380|DE|Mecklenburg-Vorpommern|49|f
+Warm Spring Bay|57.083|-134.803|US|Alaska|49|f
+Warnawi Island|-11.798|136.040|AU|Northern Territory|49|f
+Warnbro Sound|-32.333|115.717|AU|Western Australia|49|f
+Warner, Mount|-77.083|-144.000|AQ||49|f
+Warners Bay|-32.979|151.646|AU|New South Wales|49|f
+Warnerville Hill|42.644|-74.475|US|New York|49|f
+Warning Glacier|-71.533|170.350|AQ||49|f
+Warnker See|53.468|12.714|DE|Mecklenburg-Vorpommern|49|f
+Warnock Islands|-67.190|59.741|AQ||49|f
+Warrabah National Park|-30.532|150.935|AU|New South Wales|49|f
+Warragamba Dam|-33.883|150.595|AU|New South Wales|49|f
+Warren Conservation Park|-34.722|138.908|AU|South Australia|49|f
+Warren Island|-67.390|59.608|AQ||49|f
+Warren National Park|-34.494|115.968|AU|Western Australia|49|f
+Warren Peak|-76.683|159.867|AQ||49|f
+Warren Range|-78.467|158.233|AQ||49|f
+Warren Reservoir|-34.717|138.917|AU|South Australia|49|f
+Warren Ridge|-77.467|169.083|AQ||49|f
+Warrenben Conservation Park|-35.121|137.046|AU|South Australia|49|f
+Warriner Island|-68.608|77.912|AQ||49|f
+Warrington Island|-66.333|110.461|AQ||49|f
+Warrior Peak|47.784|-123.133|US|Washington|49|f
+Warrumbungle National Park|-31.232|149.018|AU|New South Wales|49|f
+Warsaw Municipal Airport|38.348|-93.344|US|Missouri|49|f
 Warth|47.250|10.183|AT|Vorarlberg|43
 Warm Springs|38.046|-79.791|US|Virginia|42
+War Eagle Bridge|36.268|-93.944|US|Arkansas|40|f
+War Memorial Stadium|34.750|-92.330|US|Arkansas|40|f
+War Memorial Stadium|20.892|-156.489|US|Hawaii|40|f
+War Museum of Thessaloniki|40.624|22.960|GR|Central Macedonia|40|f
+Warblington Castle|50.845|-0.965|GB|England|40|f
+Warbonnet Lake|44.064|-115.027|US|Idaho|40|f
+Ward Hunt Ice Shelf|83.122|-73.499|CA|Nunavut|40|f
+Ward Hunt Island|83.102|-74.161|CA|Nunavut|40|f
+Ward Island|49.483|-55.465|CA|Newfoundland and Labrador|40|f
+Ward Lake|46.481|-81.878|CA|Ontario|40|f
+Ward Lake|27.433|-82.485|US|Florida|40|f
+Ward Mountain|34.705|-86.654|US|Alabama|40|f
+Ward Peak|45.486|-111.919|US|Montana|40|f
+Warden Lake|39.134|-78.597|US|West Virginia|40|f
+Warden Peak|50.066|-126.103|CA|British Columbia|40|f
+Warden, Mount|-86.000|-146.617|AQ||40|f
+Wardner Park|49.417|-115.419|CA|British Columbia|40|f
+Wareham Island|65.251|-65.047|CA|Nunavut|40|f
+Wargatie Lake|50.609|-100.344|CA|Manitoba|40|f
+Wari Umaña|-16.012|-68.391|BO|La Paz Department|40|f
+Warinanco Park|40.656|-74.242|US|New Jersey|40|f
+Warm Lake|44.645|-115.670|US|Idaho|40|f
+Warm Springs Reservoir|43.615|-118.238|US|Oregon|40|f
+Warner Lake|45.008|-97.486|US|South Dakota|40|f
+Warner Park|43.127|-89.368|US|Wisconsin|40|f
+Warr Glacier|-72.183|-98.317|AQ||40|f
+Warren Airport|41.687|-88.717|US|Illinois|40|f
+Warren Airport|41.270|-80.927|US|Ohio|40|f
+Warren Covered Bridge|44.111|-72.857|US|Vermont|40|f
+Warren Dunes State Park|41.915|-86.593|US|Michigan|40|f
+Warren Island|44.783|-81.333|CA|Ontario|40|f
+Warren Lake|47.390|-95.864|US|Minnesota|40|f
+Warren Municipal Airport|33.563|-92.082|US|Arkansas|40|f
+Warren Municipal Airport|48.193|-96.712|US|Minnesota|40|f
+Warren Point|47.030|-122.911|US|Washington|40|f
+Warren Woods State Park|41.833|-86.622|US|Michigan|40|f
+Warren-Sugarbush Airport|44.117|-72.829|US|Vermont|40|f
+Warrington Transporter Bridge|53.384|-2.608|GB|England|40|f
+Warrior Mountain|50.567|-115.235|CA|Alberta|40|f
+Warrior Mountain|39.620|-78.620|US|Maryland|40|f
+Warscheneck|47.652|14.246|AT|Upper Austria|40|f
+Warwick Mountain|52.232|-117.559|CA|Alberta|40|f
+Warwick Museum of Art|41.662|-71.450|US|Rhode Island|40|f
 Wara|10.229|4.624|NG|Kebbi|0
 Warden|54.983|-2.133|GB|England|0
 Wardo|-1.062|135.842|ID|Papua|0
+Warekeo|-8.845|121.011|ID|East Nusa Tenggara|0
 Waren|-2.264|136.334|ID|Papua|0
 Warfield|51.442|-0.728|GB|England|0
+Wargakerta|-7.384|108.150|ID|West Java|0
+Warganusa Satu|-2.764|133.639|ID|West Papua|0
 Waris|-3.117|140.883|ID|Papua|0
 Warji|11.178|9.752|NG|Bauchi|0
 Warmare|-1.114|133.936|ID|West Papua|0
 Warrington|52.184|-0.688|GB|England|0
 Wartburg|-29.432|30.576|ZA|KwaZulu-Natal|0
 Waru|-6.942|113.550|ID|East Java|0
+Waru|-7.047|112.405|ID|East Java|0
+Waru|-6.889|111.492|ID|Central Java|0
 Waru|-1.389|116.615|ID|East Kalimantan|0
+Waru Lor|-6.883|112.454|ID|East Java|0
+Waru Selatan|-6.718|111.325|ID|Central Java|0
+Warudoyong|-7.126|108.221|ID|West Java|0
+Warugunung|-6.708|111.457|ID|Central Java|0
+Warung Kulon|-7.316|108.300|ID|West Java|0
+Warung Wetan|-7.317|108.307|ID|West Java|0
+Warungawi|-7.190|107.027|ID|West Java|0
 Warungbanten|-6.833|106.329|ID|Banten|0
+Warungbuah|-7.386|108.504|ID|West Java|0
+Warungjarak|-7.263|108.374|ID|West Java|0
+Warunglame|-6.918|106.263|ID|Banten|0
+Warungpeuteuy|-7.377|108.047|ID|West Java|0
+Warungsimpang|-7.013|107.141|ID|West Java|0
+Warungsugan|-6.593|105.978|ID|Banten|0
+Warungtanjung|-7.168|107.894|ID|West Java|0

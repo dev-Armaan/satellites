@@ -25,16 +25,18 @@ Nggosi|-9.431|159.921|SB|Guadalcanal Province|88
 Ngemplak|-7.550|110.716|ID|Central Java|88
 Ngoro|-7.684|112.258|ID|East Java|87
 Ngawi|-7.404|111.446|ID|East Java|87
+Ngöbe-Buglé Comarca|8.486|-81.731|PA||86|r
 Nghèn|18.451|105.780|VN|Hà Tĩnh Province|86
 Ngora|1.431|33.777|UG|Eastern Region|85
 Ngerengere|-6.750|38.117|TZ|Morogoro|85
 Ngara|-2.512|30.656|TZ|Kagera|85
-Ngöbe-Buglé Comarca|8.486|-81.731|PA||84|r
 Ngo|-2.487|15.756|CG|Plateaux|83
 Nganda|13.833|-15.417|SN|Kaffrine|83
 Ngala|12.341|14.187|NG|Borno State|83
 Ngọc Hồi|20.922|105.852|VN|Hanoi|83
+Ngadi Chuli|28.503|84.566|NP|Gandaki Pradesh|82|f
 Ngama|11.787|17.159|TD|Hadjer-Lamis|82
+Ngulu Atoll|8.450|137.482|FM|Yap State|82|f
 Ngama|11.783|17.167|TD|Chari-Baguirmi|82
 Ngcobo|-31.675|27.997|ZA|Eastern Cape|81
 Ngapali|18.437|94.322|MM|Rakhine|81
@@ -49,30 +51,44 @@ Ngaruawahia|-37.667|175.156|NZ|Waikato Region|79
 Ngurore|9.289|12.240|NG|Adamawa|78
 Ngabu|-16.494|34.911|MW|Southern Region|78
 Ngou|5.197|10.386|CM|West|78
+Ngurah Rai International Airport|-8.750|115.167|ID|Bali|77|f
 Ngambé|4.233|10.615|CM|Littoral|76
 Nguessankro|6.635|-4.303|CI|Comoé District|76
+Ngerukeuid Islands|7.172|134.267|PW|Koror|75|f
+Ngoreng Lake|34.884|97.703|CN|Qinghai|75|f
 Ngaio|-41.250|174.774|NZ|Wellington Region|75
 Ngema Tribal Trust|-27.073|30.542|ZA|Mpumalanga|75
 Nguti|5.330|9.418|CM|South-West|75
 Ngongotaha|-38.083|176.200|NZ|Bay of Plenty|74
+Ngau Airport|-18.116|179.340|FJ|Eastern|74|f
+Ngere Newet Island|-13.883|167.617|VU|Torba|74|f
+Ngerekebesang Island|7.354|134.450|PW|Koror|74|f
 Nghĩa Đàn|19.300|105.433|VN|Nghệ An Province|74
 Ngong Ping|22.256|113.904|HK|Islands|74
 Ngazutaung|17.211|96.209|MM|Yangon|74
 Nguiémé|5.146|-3.050|CI|Comoé District|74
 Ngatakro|7.064|-3.759|CI|Lacs District|74
 Nguessankro|7.121|-3.343|CI|Comoé District|74
+Nggela Sule|-9.089|160.265|SB|Central Province|73|f
 Nganon|9.682|-5.992|CI|Savanes District|73
 Ngomedzap|3.250|11.200|CM|Centre|73
 Ngodwana|-25.569|30.679|ZA|Mpumalanga|72
 Ngohinou|6.543|-4.508|CI|Comoé District|72
+Nguna|-17.451|168.353|VU|Shefa|72|f
 Ngata Dorikro|7.288|-5.152|CI|Lacs District|72
+Ngangla Ringco|31.554|83.086|CN|Tibet|71|f
+Ngloram Airport|-7.195|111.548|ID|Central Java|71|f
+Ngukurr Airport|-14.723|134.747|AU|Northern Territory|71|f
 N'Grakon|6.615|-3.636|CI|Comoé District|71
 N'Gouanda|6.522|-3.342|CI|Comoé District|70
 N'Grah|7.073|-3.411|CI|Comoé District|70
+Nggamea Island|-16.770|-179.758|FJ|Northern|70|f
 Ngqeleni|-31.673|29.033|ZA|Eastern Cape|70
 Ngoloblasso|9.685|-7.224|CI|Denguélé District|70
 Ngabangu|-32.629|27.398|ZA|Eastern Cape|69
 Ngandana|10.239|-5.940|CI|Savanes District|69
+Ngele Levu Island|-16.090|-179.161|FJ|Northern|69|f
+Ngercheu|7.094|134.279|PW|Peleliu|69|f
 Ngwoni|-1.500|13.792|GA|Haut-Ogooué|69
 Ngar Bat Gyi|24.177|96.805|MM|Kachin State|68
 Nghi Xuân|18.658|105.752|VN|Hà Tĩnh Province|68
@@ -83,11 +99,16 @@ Ngewa|-1.092|36.866|KE|Kiambu County|68
 Ngolodougou|9.133|-5.160|CI|Vallée du Bandama District|67
 Ngoro|4.950|11.383|CM|Centre|67
 Nguéssambakro|6.514|-5.202|CI|Lacs District|67
+Ngari Gunsa Airport|32.100|80.053|CN|Tibet|67|f
+Ngeanges|7.207|134.374|PW|Koror|67|f
 Ngourti|15.331|13.199|NE|Diffa|67
 Ngatakro|6.877|-5.331|CI|Yamoussoukro|66
 Nganane|-6.400|39.550|TZ|Zanzibar Central/South|66
 Nguessan-Brindoukrou|7.106|-3.076|CI|Zanzan District|66
 Ngqamakhwe|-32.196|27.938|ZA|Eastern Cape|65
+Ngaoundéré Airport|7.359|13.560|CM|Adamaoua|65|f
+Ngau Island|-18.027|179.311|FJ|Eastern|65|f
+Ngong Hills|-1.409|36.638|KE|Kajiado County|65|f
 Nguessankankro|7.957|-5.313|CI|Vallée du Bandama District|65
 Ngisidougou|8.717|-6.148|CI|Woroba|65
 N'Guessankro|8.006|-5.440|CI|Vallée du Bandama District|64
@@ -95,6 +116,8 @@ N’gapyé|9.588|-6.832|CI|Denguélé District|64
 N'Gatta|7.884|-5.148|CI|Vallée du Bandama District|64
 N'Gatta-Yébouékro|7.172|-4.577|CI|Lacs District|64
 Ngassokro|6.836|-4.485|CI|Lacs District|64
+Ngarkat Conservation Park|-35.732|140.625|AU|South Australia|63|f
+Ngong Ping Shan|22.400|114.250|HK|Sha Tin|63|f
 Ngata Kokokro|7.140|-4.504|CI|Lacs District|63
 N'Guessangui|5.474|-6.487|CI|Bas-Sassandra District|63
 N'Guessan|7.763|-5.207|CI|Vallée du Bandama District|63
@@ -111,44 +134,220 @@ N'Gattakro|6.947|-5.723|CI|Sassandra-Marahoue|61
 Ngukurr|-14.731|134.731|AU|Northern Territory|61
 Ngatea|-37.283|175.500|NZ|Waikato Region|61
 Nguessankoa|5.939|-3.941|CI|Lagunes District|61
+Ngelsibel|7.188|134.347|PW|Koror|61|f
+Nggatokae Island|-8.775|158.175|SB||61|f
+Ngonye Falls|-16.653|23.576|ZM|Western Province|61|f
 Ngokro|7.268|-5.028|CI|Lacs District|61
 N'Gangoro-Ahitou|7.031|-5.076|CI|Lacs District|61
 Ngermid Hamlet|7.340|134.502|PW|Koror|60
 Ngouan Té|7.034|-4.709|CI|Lacs District|60
+Nguessankro|7.702|-4.020|CI|Lacs District|60
+Ngodiou|7.595|-3.944|CI|Lacs District|59
+Ngolondié|9.988|-7.389|CI|Denguélé District|59
+Nglobo|7.040|-4.843|CI|Lacs District|59
+Ngwenya|-26.228|31.039|SZ|Lubombo Region|59
+Ngga Pilimsit|-4.036|137.059|ID|Central Papua|58|f
+Ngga Pulu|-4.064|137.182|ID|Central Papua|58|f
+Ngok Linh|15.068|107.976|VN|Da Nang City|58|f
+N'Gbodo-N'Guessankro|6.941|-5.122|CI|Yamoussoukro|58
+N'Gonwo|8.221|-6.884|CI|Woroba|57
+Nganglam|26.783|91.250|BT|Samdrup Jongkhar|57
+Ngerekebesang Hamlet|7.354|134.446|PW|Koror|57
+Ngolodougou|8.395|-7.625|CI|Woroba|57
+N Gotran|7.666|-5.533|CI|Vallée du Bandama District|56
+N'Gbédjo-Kongodja|7.536|-5.353|CI|Vallée du Bandama District|56
+Ngala|8.361|-4.364|CI|Vallée du Bandama District|56
 Ngatik|5.788|157.160|FM|Pohnpei State|56
+Ngerkeseuaol Hamlet|7.343|134.489|PW|Koror|56
+N'Golokaha|10.089|-6.056|CI|Savanes District|56
 Ngraçan|40.644|19.793|AL|Fier County|55
+N'Gamonsso|7.895|-7.651|CI|Woroba|55
 Ngaraard|7.620|134.625|PW||55|r
+Ngata Kongouakro|7.960|-5.291|CI|Vallée du Bandama District|55
+Ngjiva Pereira Airport|-17.044|15.684|AO|Cunene|54|f
+Ngata Nguessamblékro|7.048|-5.023|CI|Lacs District|54
 Ngarchelong|7.708|134.620|PW||54|r
 Ngchesar|7.470|134.600|PW||50|r
 Ngchesar Hamlet|7.469|134.610|PW|Ngchesar|50
+Ngaroto Lake|-37.950|175.300|NZ||49|f
+Ngercheu Islands|7.092|134.270|PW|Peleliu|49|f
+Ngondoma Dam|-18.457|29.414|ZW|Midlands Province|49|f
+Ngurdoto Crater|-3.300|36.917|TZ|Arusha|49|f
+Nguru Mountains|-6.000|37.500|TZ|Morogoro|49|f
+Ngwel Island|-13.250|166.587|VU||49|f
 Ngchemiangel|7.446|134.477|PW|Aimeliik|49
 Ngerkeai|7.555|134.636|PW|Ngiwal|47
 Ngiwal|7.558|134.621|PW||47|r
 Ngardmau|7.610|134.574|PW|Ngardmau|47
 Ngeremlengui|7.537|134.538|PW||42|r
+Nga Puna a Tama|-39.183|175.617|NZ||40|f
+Ngarango Otainui Island|-36.939|174.820|NZ|Auckland|40|f
+Ngauruhoe|-39.150|175.633|NZ|Manawatu-Wanganui|40|f
+Ngiri Reserve|-0.340|18.121|CD|Équateur|40|f
 Ngetkib|7.365|134.515|PW|Airai|36
 Ngã Sáu|9.923|105.805|VN|Can Tho City|0
 Ngabang|0.383|109.950|ID|West Kalimantan|0
+Ngablak|-7.019|111.387|ID|Central Java|0
+Ngablak|-6.973|111.795|ID|East Java|0
+Ngablak|-6.931|111.373|ID|Central Java|0
+Ngabungan|-6.957|114.027|ID|East Java|0
+Ngadem|-6.738|111.338|ID|Central Java|0
+Ngadilangkung|-8.106|112.576|ID|East Java|0
+Ngadipuro|-8.271|112.231|ID|East Java|0
+Ngadipurwo|-6.914|111.447|ID|Central Java|0
+Ngadri|-8.181|112.362|ID|East Java|0
+Ngaduloda|-9.692|119.370|ID|East Nusa Tenggara|0
+Ngaglik|-6.840|111.367|ID|Central Java|0
+Ngaglik Timur|-7.118|112.413|ID|East Java|0
+Ngaliyan|-6.704|111.043|ID|Central Java|0
 Ngalu|-10.145|120.708|ID|East Nusa Tenggara|0
+Ngalupolo|-8.872|121.735|ID|East Nusa Tenggara|0
+Ngamba|-8.015|111.986|ID|East Java|0
+Ngampel|-6.893|111.442|ID|Central Java|0
+Ngampelrejo|-8.219|113.377|ID|East Java|0
+Ngamplang|-7.254|107.900|ID|West Java|0
+Ngampon|-7.011|111.429|ID|Central Java|0
 Ngamprah|-6.804|107.275|ID|West Java|0
 Ngamring|29.233|87.167|CN|Tibet|0
+Ngancar|-6.922|111.668|ID|East Java|0
+Ngandang|-6.816|111.556|ID|Central Java|0
+Ngandangan|-6.695|111.464|ID|Central Java|0
+Nganggrek|-8.181|111.983|ID|East Java|0
+Ngangguk|-6.755|111.082|ID|Central Java|0
+Ngangkruk|-8.237|111.412|ID|East Java|0
+Ngangpo|-6.731|111.388|ID|Central Java|0
 Ngantru|-8.010|111.925|ID|East Java|0
+Ngantru|-8.118|112.568|ID|East Java|0
+Ngantrukrajan|-8.055|111.705|ID|East Java|0
 Ngao|18.757|99.978|TH|Lampang|0
+Ngapus|-6.943|111.245|ID|Central Java|0
+Ngarangiakambera|-9.671|120.005|ID|East Nusa Tenggara|0
+Ngares|-8.029|111.708|ID|East Java|0
+Ngargomulyo|-6.692|111.488|ID|Central Java|0
+Ngarrab|29.145|92.590|CN|Tibet|0
+Ngarus|-6.741|111.033|ID|Central Java|0
+Ngasem|-8.095|112.559|ID|East Java|0
 Ngasem|-7.796|112.045|ID|East Java|0
+Ngasinan|-8.012|111.932|ID|East Java|0
+Ngasinan|-6.714|111.587|ID|Central Java|0
 Ngatpang|7.487|134.520|PW||0|r
 Ngawen|-7.003|111.313|ID|Central Java|0
+Ngayem|-8.195|111.873|ID|East Java|0
+Ngebruk|-8.150|112.516|ID|East Java|0
+Ngebruk|-8.047|112.737|ID|East Java|0
+Ngedhubasa|-8.944|121.059|ID|East Nusa Tenggara|0
+Ngedhusuba|-8.954|121.032|ID|East Nusa Tenggara|0
+Ngedukelu|-8.788|120.975|ID|East Nusa Tenggara|0
+Ngejring|-8.172|111.954|ID|East Java|0
+Ngelak|-6.692|111.268|ID|Central Java|0
+Ngelo|-7.135|111.605|ID|Central Java|0
+Ngembak|-6.780|111.768|ID|East Java|0
+Ngembel|-8.089|111.415|ID|East Java|0
+Ngembel|-8.191|111.699|ID|East Java|0
+Ngembo|-6.909|112.502|ID|East Java|0
+Ngembul|-8.174|112.332|ID|East Java|0
+Ngemplak Kidul|-6.803|111.391|ID|Central Java|0
+Ngemplakrejo Lor|-6.789|111.455|ID|Central Java|0
+Ngenden|-6.669|111.459|ID|Central Java|0
+Ngeni|-8.254|112.210|ID|East Java|0
+Ngening|-6.721|111.180|ID|Central Java|0
+Ngentrong|-8.043|111.680|ID|East Java|0
+Ngentrong|-8.209|111.826|ID|East Java|0
+Ngeper|-7.192|111.601|ID|East Java|0
+Ngepoh|-8.078|111.719|ID|East Java|0
+Ngepoh Kidul|-8.209|111.867|ID|East Java|0
+Ngepungkrajan|-6.721|111.072|ID|Central Java|0
 Ngereklmadel|7.488|134.486|PW|Ngatpang|0
+Ngeru|-8.517|117.516|ID|West Nusa Tenggara|0
 Ngerulmud|7.501|134.624|PW|Melekeok|0
+Ngetuk|-6.566|111.015|ID|Central Java|0
+Nggai|-10.207|120.353|ID|East Nusa Tenggara|0
+Nggalai Barat|-10.829|123.020|ID|East Nusa Tenggara|0
+Nggalak|-8.354|120.317|ID|East Nusa Tenggara|0
+Nggambel|-6.654|111.503|ID|Central Java|0
+Nggelok|-8.649|120.762|ID|East Nusa Tenggara|0
+Nggenamadale|-10.761|123.197|ID|East Nusa Tenggara|0
+Nggesa|-8.603|121.819|ID|East Nusa Tenggara|0
+Nggilat|-8.308|120.250|ID|East Nusa Tenggara|0
 Nggongi|-10.194|120.234|ID|East Nusa Tenggara|0
+Nggongi Satu|-10.195|120.231|ID|East Nusa Tenggara|0
 Nghĩa Hành|15.046|108.777|VN|Quang Ngai|0
+Ngijo|-6.919|111.686|ID|East Java|0
+Ngilengan|-6.723|111.633|ID|Central Java|0
+Ngimbang|-6.963|112.144|ID|East Java|0
+Ngingit|-8.029|112.717|ID|East Java|0
+Nginjen|-7.119|112.474|ID|East Java|0
+Nginokrajan|-6.994|112.065|ID|East Java|0
+Ngipik|-8.104|111.877|ID|East Java|0
+Ngiyono|-6.899|111.312|ID|Central Java|0
 Ngkan|3.402|97.669|ID|Aceh|0
+Ngkiong|-8.568|120.657|ID|East Nusa Tenggara|0
+Ngkodal|-8.565|120.718|ID|East Nusa Tenggara|0
+Ngkolong|-8.551|120.716|ID|East Nusa Tenggara|0
+Nglampir|-8.191|111.734|ID|East Java|0
+Nglanjuk|-7.166|111.585|ID|Central Java|0
+Nglaroh|-6.962|111.452|ID|Central Java|0
+Nglarohgunung|-6.963|111.482|ID|Central Java|0
+Nglateng Barat|-6.955|111.644|ID|East Java|0
+Nglebeng|-8.256|111.454|ID|East Java|0
+Nglego|-7.001|111.446|ID|Central Java|0
+Nglempung|-8.153|111.767|ID|East Java|0
+Nglengkir|-6.920|111.511|ID|Central Java|0
+Nglengkong|-8.108|111.835|ID|East Java|0
+Ngliron|-7.106|111.426|ID|Central Java|0
+Nglojo|-6.750|111.616|ID|Central Java|0
+Nglongsor|-8.047|111.662|ID|East Java|0
+Nglorogan|-8.094|111.463|ID|East Java|0
+Ngluweng Dua|-8.168|112.001|ID|East Java|0
+Ngluwuk|-6.878|111.875|ID|East Java|0
 Ngo|4.484|7.414|NG|Rivers State|0
 Ngô Đồng|20.283|106.443|VN|Ninh Binh|0
 Ngọc Hiển|8.657|105.060|VN|Ca Mau|0
 Ngọc Lặc|20.092|105.368|VN|Thanh Hóa Province|0
+Ngodo|-6.691|111.415|ID|Central Java|0
+Ngompot|-7.173|107.917|ID|West Java|0
+Ngondokandawu|-9.660|119.076|ID|East Nusa Tenggara|0
+Ngori|-7.237|111.546|ID|East Java|0
+Ngotet Kidul|-6.731|111.358|ID|Central Java|0
 Ngraho|-7.171|111.497|ID|Central Java|0
+Ngrambitan|-6.963|111.307|ID|Central Java|0
+Ngrance|-8.138|111.842|ID|East Java|0
+Ngrawan|-8.034|111.979|ID|East Java|0
 Ngrayun|-8.072|111.449|ID|East Java|0
+Ngreco|-8.141|112.449|ID|East Java|0
+Ngrejeng|-7.217|111.708|ID|East Java|0
+Ngrejo|-8.101|112.504|ID|East Java|0
+Ngrejo|-8.177|111.943|ID|East Java|0
+Ngrejo|-8.239|112.081|ID|East Java|0
+Ngrejo|-8.229|111.853|ID|East Java|0
+Ngrencak|-8.238|111.464|ID|East Java|0
+Ngrendeng|-8.068|111.849|ID|East Java|0
+Ngrojo|-6.835|111.353|ID|Central Java|0
+Ngrojo|-6.982|111.717|ID|East Java|0
+Ngromo|-8.203|111.418|ID|East Java|0
+Ngroto|-7.126|111.605|ID|Central Java|0
+Ngroto|-6.713|111.520|ID|Central Java|0
+Ngrowo|-7.077|111.627|ID|East Java|0
+Ngrukem|-8.079|111.979|ID|East Java|0
 Ngũ Hành Sơn|16.016|108.253|VN|Da Nang City|0
+Ngujung|-7.124|111.709|ID|East Java|0
+Ngujung|-7.064|112.419|ID|East Java|0
+Ngujuran|-6.824|111.693|ID|East Java|0
+Nguken|-7.161|111.595|ID|East Java|0
+Ngulaan|-6.703|111.066|ID|Central Java|0
+Ngulahan|-6.761|111.527|ID|Central Java|0
+Ngulahan|-6.877|111.783|ID|East Java|0
 Ngulakan|-6.776|111.225|ID|Central Java|0
+Ngulan Wetan|-8.063|111.752|ID|East Java|0
+Ngulangan|-6.718|111.487|ID|Central Java|0
+Ngulankulonkrajan|-8.063|111.742|ID|East Java|0
 Ngulu|8.450|137.484|FM|Yap State|0
+Nguluhan|-6.979|111.836|ID|East Java|0
+Ngulung Kulon|-8.304|111.507|ID|East Java|0
+Ngulung Wetan|-8.293|111.487|ID|East Java|0
+Ngundaan|-6.926|111.398|ID|Central Java|0
+Ngunggahan|-8.177|111.788|ID|East Java|0
+Ngurenrejo|-6.696|111.082|ID|Central Java|0
+Ngurensiti|-6.699|111.086|ID|Central Java|0
+Ngusu|-8.707|120.677|ID|East Nusa Tenggara|0
 Nguzu Edda|5.755|7.817|NG|Ebonyi State|0

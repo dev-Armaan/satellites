@@ -8,11 +8,14 @@ Reitz|-27.801|28.427|ZA|Free State|88
 Reichenbach/Vogtland|50.623|12.303|DE|Saxony|87
 Reigate|51.237|-0.206|GB|England|87
 Reinach|47.497|7.592|CH|Basel-Landschaft|86
+Reichenau Island|47.693|9.068|DE|Baden-Wurttemberg|86|f
 Reinheim|49.829|8.836|DE|Hesse|85
 Reidsville|36.355|-79.664|US|North Carolina|83
+Reinsdyrflya|79.800|13.500|SJ|Svalbard|81|f
 Reiskirchen|50.600|8.833|DE|Hesse|81
 Reinosa|43.000|-4.138|ES|Cantabria|80
 Reichelsheim|49.712|8.839|DE|Hesse|79
+Reichsbrücke|48.228|16.410|AT|Vienna|79|f
 Reinsdorf|50.698|12.556|DE|Saxony|79
 Reinfeld|53.831|10.492|DE|Schleswig-Holstein|78
 Reis Magos|15.508|73.810|IN|Goa|78
@@ -31,11 +34,14 @@ Reichertshausen|47.899|11.558|DE|Bavaria|74
 Reidland|37.018|-88.531|US|Kentucky|73
 Reichenbach|51.141|14.803|DE|Saxony|73
 Reiffton|40.320|-75.874|US|Pennsylvania|72
+Reinøya|70.391|31.133|NO|Finnmark|72|f
 Reichenberg|49.732|9.915|DE|Bavaria|72
 Reiden|47.247|7.971|CH|Lucerne|72
+Reinøya|70.276|25.300|NO|Finnmark|71|f
 Reinsberg|51.008|13.365|DE|Saxony|70
 Reinhardtsgrimma|50.893|13.755|DE|Saxony|70
 Reichenburg|47.171|8.977|CH|Schwyz|69
+Reinøya|69.906|19.627|NO|Troms|69|f
 Reidsville|32.087|-82.118|US|Georgia|68
 Reit im Winkl|47.677|12.471|DE|Bavaria|68
 Reischach|48.291|12.726|DE|Bavaria|68
@@ -46,6 +52,8 @@ Reichenschwand|49.514|11.373|DE|Bavaria|67
 Reith im Alpbachtal|47.417|11.878|AT|Tyrol|67
 Reichersbeuern|47.767|11.633|DE|Bavaria|67
 Reichartshausen|49.355|8.945|DE|Baden-Wurttemberg|66
+Reims – Champagne Air Base|49.310|4.050|FR|Grand Est|65|f
+Reindeer Lake|57.250|-102.250|CA||65|f
 Reinholds|40.267|-76.115|US|Pennsylvania|65
 Reiningue|47.752|7.233|FR|Grand Est|65
 Reisenberg|47.994|16.520|AT|Lower Austria|65
@@ -55,6 +63,9 @@ Reith bei Kitzbühel|47.467|12.350|AT|Tyrol|64
 Reinbeck|42.324|-92.599|US|Iowa|64
 Reigoldswil|47.398|7.687|CH|Basel-Landschaft|64
 Reichenbach-Steegen|49.500|7.550|DE|Rheinland-Pfalz|63
+Reinevatn|59.421|7.200|NO|Agder|63|f
+Reinhardswald|51.481|9.507|DE|Hesse|63|f
+Reinsfjellet|62.930|7.927|NO|Møre og Romsdal|63|f
 Reillanne|43.879|5.659|FR|Provence-Alpes-Côte d'Azur|63
 Reith bei Seefeld|47.300|11.200|AT|Tyrol|63
 Reignac|45.234|-0.508|FR|New Aquitaine|63
@@ -69,22 +80,104 @@ Reil|50.017|7.117|DE|Rheinland-Pfalz|61
 Reignac-sur-Indre|47.227|0.916|FR|Centre-Val de Loire|61
 Reichenwalde|52.267|14.000|DE|Brandenburg|61
 Reinberg|53.675|13.148|DE|Mecklenburg-Vorpommern|61
+Reichskanzlerpalais (1878–1945)|52.512|13.383|DE|State of Berlin|61|f
+Reineskarvet|60.798|8.242|NO|Buskerud|61|f
+Reisafjorden|70.000|21.167|NO|Troms|61|f
 Reichraming|47.883|14.450|AT|Upper Austria|61
 Reitoca|13.826|-87.465|HN|Francisco Morazán Department|61
 Reinsvoll|60.680|10.622|NO|Innlandet|61
 Reichenfels|47.007|14.744|AT|Carinthia|61
+Reichenbach|50.685|11.436|DE|Thuringia|60
+Reipertswiller|48.933|7.464|FR|Grand Est|60
+Reilhac|44.974|2.421|FR|Auvergne-Rhône-Alpes|60
+Reinsdorf|50.680|11.850|DE|Thuringia|60
+Reichmannsdorf|50.550|11.258|DE|Thuringia|59
 Reichenthal|48.543|14.385|AT|Upper Austria|59
+Rein|47.133|15.283|AT|Styria|59
+Reinsdorf|51.894|12.604|DE|Saxony-Anhalt|59
+Reidling|48.319|15.818|AT|Lower Austria|59
+Reifenberg|49.283|7.510|DE|Rheinland-Pfalz|58
 Reichenau im Mühlkreis|48.457|14.349|AT|Upper Austria|58
+Reichenbach|50.243|11.500|DE|Bavaria|58
+Reifnitz|46.607|14.182|AT|Carinthia|58
+Reinholterode|51.422|10.194|DE|Thuringia|58
+Reith|48.266|14.244|AT|Upper Austria|58
+Reiarfossen|58.941|7.685|NO|Agder|58|f
+Reid Key|25.393|-80.240|US|Florida|58|f
+Reid-Hillview of Santa Clara County Airport|37.333|-121.821|US|California|58|f
+Reinhalvøya|80.217|21.278|SJ||58|f
+Reisseck|46.950|13.367|AT|Carinthia|58|f
+Reid Hope King|25.922|-97.414|US|Texas|58
+Reid Hope King Colonia|25.919|-97.414|US|Texas|58
+Reichersberg|48.336|13.360|AT|Upper Austria|57
+Reichersdorf|46.600|14.367|AT|Carinthia|57
+Reixida|39.683|-8.779|PT|Leiria|57
+Reichenbach|49.641|7.287|DE|Rheinland-Pfalz|57
 Reino|41.292|14.823|IT|Campania|57
+Reith|48.291|14.176|AT|Upper Austria|56
+Reidville|34.863|-82.114|US|South Carolina|56
 Reichendorf|47.189|15.762|AT|Styria|56
+Reifferscheid|50.405|6.885|DE|Rheinland-Pfalz|56
+Reignac|45.423|-0.184|FR|New Aquitaine|56
+Reinstädt|50.809|11.474|DE|Thuringia|55
+Reitdorf|47.367|13.383|AT|Salzburg|55
+Reichweiler|49.533|7.283|DE|Rheinland-Pfalz|55
+Reidville|49.233|-57.382|CA|Newfoundland and Labrador|55
+Reichenbach|47.929|8.226|DE|Baden-Wurttemberg|55
+Reichersdorf|48.338|15.698|AT|Lower Austria|55
+Reitwein|52.501|14.582|DE|Brandenburg|55
+Reimershagen|53.672|12.176|DE|Mecklenburg-Vorpommern|54
+Reijmerstok|50.799|5.838|NL|Limburg|54
+Reichel Lake|46.826|-122.591|US|Washington|54|f
+Reichelderfer, Cape|-69.345|-62.779|AQ||54|f
+Reid Island|-60.683|-45.483|AQ||54|f
+Reingardslivatnet|66.438|14.182|NO|Nordland|54|f
+Reisalpe|47.950|15.650|AT|Lower Austria|54|f
+Reiter Alpe|47.617|12.783|AT||54|f
+Reither Spitze|47.323|11.236|AT|Tyrol|54|f
+Reiles Acres|46.923|-96.865|US|North Dakota|54
 Reitano|37.972|14.344|IT|Sicily|54
 Reisdorf|49.869|6.268|LU|Diekirch|54
 Reinsberg|47.986|15.071|AT|Lower Austria|54
+Reipoltskirchen|49.633|7.667|DE|Rheinland-Pfalz|52
+Reinsbüttel|54.179|8.912|DE|Schleswig-Holstein|52
+Reiferscheid|50.650|7.550|DE|Rheinland-Pfalz|52
+Reich|50.000|7.433|DE|Rheinland-Pfalz|51
+Reitzenhain|50.150|7.783|DE|Rheinland-Pfalz|51
 Reine|67.932|13.090|NO|Nordland|50
+Reid Ridge|-76.950|160.383|AQ||49|f
+Reimersholme|59.318|18.021|SE|Stockholm|49|f
+Reina|-31.067|-71.400|CL|Coquimbo Region|49|f
+Reinhardt, Mount|-84.200|177.200|AQ||49|f
+Reisskofel|46.687|13.150|AT|Carinthia|49|f
+Reiffelbach|49.683|7.683|DE|Rheinland-Pfalz|48
+Reichenberg|50.150|7.767|DE|Rheinland-Pfalz|47
+Reidenhausen|50.050|7.317|DE|Rheinland-Pfalz|46
 Reingers|48.967|15.133|AT|Lower Austria|46
 Reina|38.183|-5.950|ES|Extremadura|46
 Reíllo|39.900|-1.867|ES|Castille-La Mancha|41
+Reichsthal|49.600|7.733|DE|Rheinland-Pfalz|40
+Reichenspitze|47.140|12.111|AT|Tyrol|40|f
+Reid Glacier|58.774|-136.806|US|Alaska|40|f
+Reid Glacier|45.371|-121.719|US|Oregon|40|f
+Reid Lake|45.027|-97.733|US|South Dakota|40|f
+Reid State Park|43.790|-69.728|US|Maine|40|f
+Reigate Castle|51.239|-0.207|GB|England|40|f
+Reiherstieg|53.502|9.973|DE|Hamburg|40|f
+Reilly Ridge|-71.533|163.300|AQ||40|f
+Reindeer Island|52.417|-98.001|CA|Manitoba|40|f
+Reisberg|49.989|11.069|DE|Bavaria|40|f
+Reissend Nollen|46.767|8.401|CH|Obwalden|40|f
+Reitz Lake|44.839|-93.746|US|Minnesota|40|f
+Reipeldingen|50.083|6.183|DE|Rheinland-Pfalz|39
+Reimerath|50.300|6.967|DE|Rheinland-Pfalz|37
 Reinoso de Cerrato|41.976|-4.383|ES|Castille and León|36
 Reifling|47.133|14.667|AT|Styria|36
+Reiff|50.100|6.200|DE|Rheinland-Pfalz|35
 Reinoso|42.509|-3.385|ES|Castille and León|26
+Reichenbach|50.869|11.878|DE|Thuringia|0
+Reichenbach|50.424|11.413|DE|Bavaria|0
+Reichenbach am Heuberg|48.133|8.850|DE|Baden-Wurttemberg|0
+Reichertshausen|48.467|11.517|DE|Bavaria|0
+Reinsdorf|51.333|11.267|DE|Thuringia|0
 Reis|38.271|31.571|TR|Konya|0

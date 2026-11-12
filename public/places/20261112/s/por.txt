@@ -54,6 +54,7 @@ Porangatu|-13.441|-49.149|BR|Goiás|93
 Port Loko|8.766|-12.787|SL|North West|93
 Porto de Moz|-1.748|-52.238|BR|Pará|92
 Porsa|26.674|78.371|IN|Madhya Pradesh|92
+Port Bouet Airport|5.261|-3.926|CI|Lagunes District|92|f
 Portimão|37.139|-8.538|PT|Faro|92
 Porteirinha|-15.743|-43.028|BR|Minas Gerais|91
 Portage|41.576|-87.176|US|Indiana|91
@@ -73,12 +74,15 @@ Porto Belo|-27.158|-48.553|BR|Santa Catarina|89
 Port Richmond|39.993|-75.100|US|Pennsylvania|89
 Port Moody|49.281|-122.825|CA|British Columbia|89
 Portishead|51.482|-2.770|GB|England|88
+Pori Airport|61.462|21.800|FI|Satakunta|88|f
 Poranki|16.478|80.708|IN|Andhra Pradesh|88
 Porta|41.435|2.179|ES|Catalonia|88
 Porto Calvo|-9.045|-35.398|BR|Alagoas|88
 Porto Franco|-6.338|-47.399|BR|Maranhão|88
 Porto de Mós|37.085|-8.684|PT|Faro|87
 Portlaoise|53.034|-7.300|IE|Leinster|87
+Port Harcourt International Airport|5.015|6.950|NG|Rivers State|87|f
+Port Sudan New International Airport|19.433|37.233|SD|Red Sea|87|f
 Porto Grande|0.713|-51.413|BR|Amapá|87
 Port Hueneme|34.148|-119.195|US|California|87
 Portalegre|39.294|-7.431|PT|Portalegre|87
@@ -102,6 +106,7 @@ Portsmouth|41.602|-71.250|US|Rhode Island|85
 Port Melbourne|-37.840|144.942|AU|Victoria|85
 Porriño|42.162|-8.620|ES|Galicia|85
 Portogruaro|45.781|12.841|IT|Veneto|85
+Porbandar Airport|21.649|69.657|IN|Gujarat|85|f
 Porteiras|-7.535|-39.118|BR|Ceará|85
 Porathissery|10.376|76.201|IN|Kerala|84
 Poronaysk|49.220|143.091|RU|Sakhalin Oblast|84
@@ -115,6 +120,7 @@ Port Richmond|40.633|-74.137|US|New York|84
 Port Hedland|-20.312|118.611|AU|Western Australia|84
 Porte Saint-Denis|48.874|2.352|FR|Île-de-France|84
 Portswood|50.927|-1.390|GB|England|83
+Portland International Airport|45.589|-122.594|US|Oregon|83|f
 Pôrto Barra do Ivinheima|-22.967|-53.667|BR|Mato Grosso do Sul|83
 Port Antonio|18.179|-76.452|JM|Portland Parish|83
 Port Glasgow|55.935|-4.689|GB|Scotland|83
@@ -148,6 +154,8 @@ Porecatu|-22.756|-51.379|BR|Paraná|81
 Port Washington|43.387|-87.876|US|Wisconsin|81
 Portachuelo|-17.354|-63.396|BO|Santa Cruz Department|81
 Porto Novo|17.020|-25.065|CV|Porto Novo|81
+Port Stanley Airport|-51.686|-57.778|FK||81|f
+Portland International Jetport|43.647|-70.310|US|Maine|81|f
 Porto Tolle|44.950|12.325|IT|Veneto|81
 Pornichet|47.267|-2.338|FR|Pays de la Loire|80
 Porto Firme|-20.673|-43.084|BR|Minas Gerais|80
@@ -165,6 +173,8 @@ Porto de Pedras|-9.158|-35.295|BR|Alagoas|80
 Portland|-38.346|141.603|AU|Victoria|79
 Port Townsend|48.117|-122.761|US|Washington|79
 Portmarnock|53.423|-6.138|IE|Leinster|79
+Port Lincoln Airport|-34.605|135.880|AU|South Australia|79|f
+Port Said Airport|31.279|32.240|EG|Sharqia|79|f
 Porto Santo Stefano|42.438|11.115|IT|Tuscany|79
 Poreč|45.226|13.595|HR|Istria|79
 Poręba|50.488|19.339|PL|Silesia|79
@@ -176,6 +186,7 @@ Portugal Cove-St. Phillip’s|47.629|-52.848|CA|Newfoundland and Labrador|79
 Portstewart|55.181|-6.714|GB|Northern Ireland|78
 Port Mathurin|-19.683|63.417|MU|Rodrigues|78
 Portoferraio|42.812|10.313|IT|Tuscany|78
+Port Augusta Airport|-32.507|137.717|AU|South Australia|78|f
 Portlethen|57.069|-2.132|GB|Scotland|78
 Port Maria|18.368|-76.889|JM|Saint Mary Parish|78
 Port Elgin|44.436|-81.390|CA|Ontario|78
@@ -183,6 +194,7 @@ Port Jefferson|40.946|-73.069|US|New York|78
 Port Jefferson Station|40.925|-73.047|US|New York|78
 Portarlington|53.162|-7.191|IE|Leinster|78
 Port Wentworth|32.149|-81.163|US|Georgia|78
+Port Said Stadium|31.271|32.292|EG|Port Said|78|f
 Portalegre|-6.024|-37.988|BR|Rio Grande do Norte|78
 Porto Potenza Picena|43.358|13.697|IT|The Marches|78
 Portomaggiore|44.698|11.808|IT|Emilia-Romagna|77
@@ -199,6 +211,10 @@ Porrentruy|47.417|7.076|CH|Jura|76
 Port-Cartier|50.033|-66.865|CA|Quebec|76
 Porkolam|10.677|76.069|IN|Kerala|76
 Poretskoye|55.197|46.329|RU|Chuvash Republic|76
+Port Hardy Airport|50.681|-127.367|CA|British Columbia|76|f
+Porterville Municipal Airport|36.029|-119.063|US|California|76|f
+Portman Road|52.055|1.145|GB|England|76|f
+Porto Amboim Airport|-10.722|13.765|AO|Kwanza Sul|76|f
 Portland|40.434|-84.978|US|Indiana|76
 Porto de Mós|39.602|-8.818|PT|Leiria|76
 Port el Kantaoui|35.892|10.594|TN|Sousse Governorate|76
@@ -210,10 +226,15 @@ Port Saint John’s|-31.623|29.545|ZA|Eastern Cape|75
 Porus|18.035|-77.412|JM|Manchester|75
 Port de Pollença|39.907|3.081|ES|Balearic Islands|75
 Portland|41.573|-72.641|US|Connecticut|75
+Port Heiden Airport|56.959|-158.632|US|Alaska|75|f
+Port Moller Airport|56.006|-160.560|US|Alaska|75|f
+Portorož Airport|45.475|13.615|SI|Municipality of Piran|75|f
 Porto dos Gaúchos|-11.535|-57.414|BR|Mato Grosso|75
 Portuário do Igarapé da Fortaleza|0.051|-51.126|BR|Amapá|75
 Port-Louis|16.417|-61.530|GP|Guadeloupe|75
 Pordic|48.571|-2.817|FR|Brittany|75
+Port Meadville Airport|41.626|-80.216|US|Pennsylvania|74|f
+Porto Urucu Airport|-4.884|-65.355|BR|Amazonas|74|f
 Porto do Mangue|-5.068|-36.782|BR|Rio Grande do Norte|74
 Poringland|52.568|1.350|GB|England|74
 Port Allen|30.452|-91.210|US|Louisiana|74
@@ -226,6 +247,9 @@ Port Barton|10.476|119.247|PH|Mimaropa|74
 Porto Garibaldi|44.681|12.237|IT|Emilia-Romagna|74
 Portella di Mare|38.073|13.462|IT|Sicily|73
 Portland|42.380|-79.468|US|New York|73
+Porcupine Mountains|46.767|-89.750|US|Michigan|73|f
+Porong Ri|28.389|85.720|CN|Tibet|73|f
+Portimão Airport|37.149|-8.584|PT|Faro|73|f
 Porteña|-31.014|-62.062|AR|Cordoba|73
 Porotto-Cassama|44.850|11.550|IT|Emilia-Romagna|73
 Portola Valley|37.384|-122.235|US|California|73
@@ -238,6 +262,12 @@ Port Augusta West|-32.486|137.758|AU|South Australia|73
 Porto Lucena|-27.856|-55.016|BR|Rio Grande do Sul|73
 Porlezza|46.037|9.129|IT|Lombardy|73
 Porto Cesareo|40.262|17.899|IT|Apulia|73
+Port Clarence Coast Guard Station|65.254|-166.858|US|Alaska|72|f
+Port Hope Simpson Airport|52.528|-56.286|CA|Newfoundland and Labrador|72|f
+Port-Menier Airport|49.836|-64.289|CA|Quebec|72|f
+Portage Creek Airport|58.907|-157.712|US|Alaska|72|f
+Portage la Prairie Southport Airport|49.903|-98.274|CA|Manitoba|72|f
+Porto Cheli Airport|37.299|23.149|GR|Peloponnese|72|f
 Pore|5.728|-71.993|CO|Casanare Department|72
 Porto Amazonas|-25.545|-49.890|BR|Paraná|72
 Porteirão|-17.815|-50.164|BR|Goiás|72
@@ -253,6 +283,9 @@ Port Reading|40.565|-74.260|US|New Jersey|71
 Porters Lake|44.738|-63.313|CA|Nova Scotia|71
 Póros|37.499|23.454|GR|Attica|71
 Port Douglas|-16.484|145.467|AU|Queensland|71
+Port Hawkesbury Airport|45.657|-61.368|CA|Nova Scotia|71|f
+Port Nelson Airport|23.683|-74.836|BS|Rum Cay|71|f
+Portales Municipal Airport|34.145|-103.411|US|New Mexico|71|f
 Poroshkovo|48.668|22.753|UA|Zakarpattia|71
 Portsmouth|15.583|-61.456|DM|Saint John Parish|71
 Porretta Terme|44.163|10.974|IT|Emilia-Romagna|71
@@ -277,6 +310,8 @@ Porto Rico|-22.772|-53.267|BR|Paraná|70
 Porto Estrela|-15.324|-57.227|BR|Mato Grosso|70
 Portas|42.585|-8.656|ES|Galicia|70
 Porumbacu de Jos|45.750|24.450|RO|Sibiu County|70
+Pores Knob|36.047|-81.156|US|North Carolina|70|f
+Porthmós Evrípou|38.465|23.591|GR|Central Greece|70|f
 Portageville|36.425|-89.700|US|Missouri|70
 Porto Barreiro|-25.547|-52.408|BR|Paraná|70
 Portneuf|46.691|-71.890|CA|Quebec|70
@@ -299,6 +334,11 @@ Porcsalma|47.883|22.567|HU|Szabolcs-Szatmár-Bereg|69
 Porto Moniz|32.867|-17.167|PT|Madeira|69
 Port Richey|28.272|-82.720|US|Florida|69
 Pörtschach am Wörthersee|46.636|14.146|AT|Carinthia|69
+Poroto Mountains|-9.000|33.750|TZ||69|f
+Porsangerhalvøya|70.833|25.000|NO|Finnmark|69|f
+Port à l'Anglais Bridge|48.797|2.419|FR|Île-de-France|69|f
+Port Royal Sound|32.269|-80.678|US|South Carolina|69|f
+Portsea Island|50.800|-1.067|GB|England|69|f
 Porto Ercole|42.402|11.205|IT|Tuscany|69
 Portal de las Salinas|25.982|-100.143|MX|Nuevo León|69
 Porcheville|48.973|1.780|FR|Île-de-France|68
@@ -324,6 +364,9 @@ Portland|-33.357|149.981|AU|New South Wales|67
 Portree|57.413|-6.194|GB|Scotland|67
 Port-Saint-Père|47.134|-1.749|FR|Pays de la Loire|67
 Poroani|-12.892|45.141|YT|Chirongui|67
+Porkkalanniemi Peninsula|59.977|24.403|FI|Uusimaa|67|f
+Port Etches|60.330|-146.604|US|Alaska|67|f
+Port Vila - Bauerfield International Airport|-17.699|168.320|VU|Shefa|67|f
 Port McNeill|50.590|-127.086|CA|British Columbia|67
 Pordim|43.383|24.850|BG|Pleven|67
 Portonovo|42.394|-8.826|ES|Galicia|67
@@ -346,6 +389,11 @@ Port-Sainte-Marie|44.251|0.393|FR|New Aquitaine|66
 Portola|39.810|-120.469|US|California|66
 Port Sorell|-41.167|146.553|AU|Tasmania|66
 Poręba Wielka|50.011|19.284|PL|Lesser Poland|65
+Porcupine Butte|43.180|-102.324|US|South Dakota|65|f
+Port Townsend Harbor|48.096|-122.758|US|Washington|65|f
+Porto Santo Airport|33.073|-16.350|PT|Madeira|65|f
+Porto Santo Island|33.071|-16.345|PT|Madeira|65|f
+Portsmouth International Airport at Pease|43.085|-70.823|US|New Hampshire|65|f
 Portariá|39.389|22.999|GR|Thessaly|65
 Portezuelo|20.487|-99.306|MX|Hidalgo|65
 Port Carbon|40.696|-76.169|US|Pennsylvania|65
@@ -376,6 +424,17 @@ Porter|43.796|-70.933|US|Maine|63
 Portaceli|24.347|-107.307|MX|Sinaloa|63
 Porterdale|33.575|-83.894|US|Georgia|63
 Porto Corsini|44.494|12.279|IT|Emilia-Romagna|63
+Porsangen|70.869|26.045|NO|Finnmark|63|f
+Port Angeles Coast Guard Air Station|48.141|-123.414|US|Washington|63|f
+Port Angeles Harbor|48.124|-123.417|US|Washington|63|f
+Port Hamilton|34.040|127.305|KR|Jeollanam-do|63|f
+Port McNeill Airport|50.572|-127.027|CA|British Columbia|63|f
+Port Phillip|-38.061|144.853|AU|Victoria|63|f
+Port Royal Island|32.435|-80.739|US|South Carolina|63|f
+Porth Neigwl|52.800|-4.583|GB|Wales|63|f
+Portland Airport|-38.319|141.470|AU|Victoria|63|f
+Portland-Hillsboro Airport|45.540|-122.950|US|Oregon|63|f
+Porvenir Velasco Airport|-13.990|-61.542|BO|Santa Cruz Department|63|f
 Port Chalmers|-45.817|170.620|NZ|Otago|63
 Portalbera|45.098|9.318|IT|Lombardy|63
 Portumna|53.089|-8.219|IE|Connacht|63
@@ -417,6 +476,15 @@ Port Henry|44.048|-73.460|US|New York|61
 Port Orford|42.746|-124.497|US|Oregon|61
 Póros|38.154|20.771|GR|Ionian Islands|61
 Portel-des-Corbières|43.050|2.917|FR|Occitanie|61
+Porcupine Dam|41.519|-111.746|US|Utah|61|f
+Porgy Key|25.389|-80.236|US|Florida|61|f
+Port Allen Airport|21.897|-159.600|US|Hawaii|61|f
+Port Howard|-51.640|-59.546|FK||61|f
+Port Levy|-43.633|172.833|NZ||61|f
+Portage County Airport|41.209|-81.249|US|Ohio|61|f
+Portal Mountain|-78.100|159.167|AQ||61|f
+Porter County Regional Airport|41.450|-87.011|US|Indiana|61|f
+Portland–Troutdale Airport|45.549|-122.398|US|Oregon|61|f
 Port Williams|45.100|-64.415|CA|Nova Scotia|61
 Porporano|44.753|10.351|IT|Emilia-Romagna|61
 Port Rowan|42.617|-80.466|CA|Ontario|61
@@ -428,16 +496,147 @@ Porto d'Adda|45.662|9.476|IT|Lombardy|60
 Portovenere|44.051|9.834|IT|Liguria|60
 Porepunkah|-36.696|146.910|AU|Victoria|60
 Porto Martins|38.681|-27.058|PT|Azores|60
+Porzano|45.401|10.196|IT|Lombardy|60
+Porto San Paolo|40.875|9.627|IT|Sardinia|60
+Portile|44.581|10.938|IT|Emilia-Romagna|60
+Portville|42.039|-78.341|US|New York|60
+Portreath|50.261|-5.289|GB|England|60
 Poroy|-13.497|-72.043|PE|Cuzco Department|60
+Poroinica|44.663|25.447|RO|Dâmbovița County|59
+Port Royal|40.533|-77.386|US|Pennsylvania|59
+Porumbacu de Sus|45.715|24.473|RO|Sibiu County|59
+Port|46.164|5.568|FR|Auvergne-Rhône-Alpes|59
+Port de Grave|47.587|-53.212|CA|Newfoundland and Labrador|59
+Port-Mort|49.165|1.415|FR|Normandy|59
+Porto Mosquito|14.951|-23.685|CV|Ribeira Grande de Santiago|59
 Portico e San Benedetto|44.026|11.782|IT|Emilia-Romagna|59
 Portacomaro|44.957|8.258|IT|Piedmont|59
+Portgordon|57.664|-3.014|GB|Scotland|59
 Poromiv|50.752|24.084|UA|Volyn|58
 Port Elizabeth|13.011|-61.235|VC|Grenadines Parish|58
+Port Ellen|55.633|-6.183|GB|Scotland|58
+Portezuelo|19.526|-99.659|MX|México|58
+Porto Santa Margherita|45.589|12.858|IT|Veneto|58
+Porullo|20.168|-101.097|MX|Guanajuato|58
+Port MacDonnell|-38.053|140.700|AU|South Australia|58
+Porea|-10.461|-161.001|CK||58|f
+Porezen|46.177|13.975|SI|Municipality of Cerkno|58|f
+Porkuni Järv|59.182|26.204|EE|Lääne-Virumaa|58|f
+Porongurup National Park|-34.652|117.896|AU|Western Australia|58|f
+Porongurups Range|-34.704|117.912|AU|Western Australia|58|f
+Port Alexander Seaplane Base|56.247|-134.648|US|Alaska|58|f
+Port Alfred Airport|-33.557|26.883|ZA|Eastern Cape|58|f
+Port Alsworth Airport|60.202|-154.324|US|Alaska|58|f
+Port Arthur-Orange Bridge|29.983|-93.872|US|Texas|58|f
+Port au Port Peninsula|48.583|-58.999|CA|Newfoundland and Labrador|58|f
+Port Elizabeth Airport|-33.985|25.617|ZA|Eastern Cape|58|f
+Port Hacking|-34.065|151.135|AU|New South Wales|58|f
+Port Kaituma Airport|7.730|-59.883|GY|Barima-Waini|58|f
+Port Keats Airport|-14.250|129.529|AU|Northern Territory|58|f
+Port Macquarie Airport|-31.436|152.863|AU|New South Wales|58|f
+Port Madison|47.727|-122.529|US|Washington|58|f
+Port of Whitman Business Air Center|46.858|-117.415|US|Washington|58|f
+Port Paludi|43.519|16.420|HR|Split-Dalmatia|58|f
+Port Shelter|22.346|114.288|HK|Sai Kung District|58|f
+Port Walter|56.387|-134.665|US|Alaska|58|f
+Portage Island|48.702|-122.618|US|Washington|58|f
+Porter Peak|41.682|-116.139|US|Nevada|58|f
+Portland Municipal Airport|40.453|-84.991|US|Indiana|58|f
+Portneuf Range|42.816|-112.142|US|Idaho|58|f
+Porto Grande|16.889|-25.010|CV|São Vicente|58|f
+Portsmouth Harbour|50.817|-1.117|GB|England|58|f
+Porchères|45.030|0.010|FR|New Aquitaine|58
+Porto Alegre|0.034|6.534|ST|São Tomé Island|58
+Pormpuraaw|-14.899|141.621|AU|Queensland|58
+Port Waikato|-37.390|174.728|NZ|Waikato Region|58
+Port Trevorton|40.707|-76.866|US|Pennsylvania|58
+Portopetro|39.362|3.208|ES|Balearic Islands|58
+Port-de-Lanne|43.565|-1.179|FR|New Aquitaine|58
 Poroto|-8.011|-78.768|PE|La Libertad|58
+Port Vincent|30.334|-90.850|US|Louisiana|57
+Porichchya|47.386|31.117|UA|Mykolaiv|57
+Portachuelo|8.477|-82.421|PA|Chiriquí Province|57
+Port au Choix|50.717|-57.365|CA|Newfoundland and Labrador|57
+Port Alice|50.384|-127.451|CA|British Columbia|57
+Port Isaac|50.593|-4.829|GB|England|57
+Porum|35.356|-95.266|US|Oklahoma|57
+Porto Baixo|15.140|-23.529|CV|Santa Cruz|57
+Port Morien|46.134|-59.874|CA|Nova Scotia|57
+Portón|8.565|-82.786|PA|Chiriquí Province|57
+Port Saunders|50.650|-57.298|CA|Newfoundland and Labrador|57
+Portari|46.738|27.700|RO|Vaslui County|57
+Port Leyden|43.583|-75.345|US|New York|56
+Port Deposit|39.605|-76.115|US|Maryland|56
+Port Wakefield|-34.185|138.145|AU|South Australia|56
+Porto Carro|39.644|-8.894|PT|Leiria|56
 Pornassio|44.071|7.870|IT|Liguria|56
+Port Austin|44.046|-82.994|US|Michigan|56
+Portosin|42.758|-8.949|ES|Galicia|56
 Portobuffolè|45.857|12.538|IT|Veneto|56
+Portpatrick|54.841|-5.117|GB|Scotland|56
+Portal|32.538|-81.932|US|Georgia|56
+Porazava|52.937|24.366|BY|Grodnenskaya|56
 Porte|44.887|7.270|IT|Piedmont|56
+Port Sanilac|43.431|-82.542|US|Michigan|56
 Portula|45.675|8.172|IT|Piedmont|56
+Poruba pod Vihorlátom|48.826|22.137|SK|Košice Region|56
+Port Matilda|40.800|-78.054|US|Pennsylvania|56
+Portland|47.498|-97.370|US|North Dakota|55
+Porter|35.871|-95.522|US|Oklahoma|55
+Portland West|-38.354|141.574|AU|Victoria|55
+Port Washington|40.328|-81.521|US|Ohio|55
+Port Hughes|-34.083|137.550|AU|South Australia|55
+Portesham|50.671|-2.564|GB|England|55
+Porossan|45.756|7.327|IT|Aosta Valley|55
+Portinscale|54.601|-3.162|GB|England|55
+Porrino|41.673|13.511|IT|Lazio|55
+Port Campbell|-38.619|142.996|AU|Victoria|55
+Port-de-Piles|47.003|0.600|FR|New Aquitaine|55
+Porcaro|47.910|-2.199|FR|Brittany|55
+Poręba Górna|50.354|19.791|PL|Lesser Poland|55
+Poříčí u Litomyšle|49.798|16.194|CZ|Pardubice Region|54
+Portezuelo|20.595|-99.739|MX|Querétaro|54
+Porecatu Airport|-22.779|-51.361|BR|Paraná|54|f
+Porepunkah Airport|-36.719|146.890|AU|Victoria|54|f
+Pormpuraaw Airport|-14.897|141.609|AU|Queensland|54|f
+Port Harcourt City Airport|4.842|7.018|NG|Rivers State|54|f
+Port Hedland Pardoo|-20.378|118.626|AU|Western Australia|54|f
+Port Hudson State Historic Site|30.693|-91.276|US|Louisiana|54|f
+Port Lihou Island|-10.726|142.235|AU|Queensland|54|f
+Port Mór|55.717|-5.717|GB|Scotland|54|f
+Port Orford Heads State Park|42.740|-124.514|US|Oregon|54|f
+Port Patteson|-13.845|167.563|VU|Torba|54|f
+Port Pirie Airport|-33.239|137.995|AU|South Australia|54|f
+Port San Carlos|-51.498|-59.057|FK||54|f
+Port Snettisham|58.006|-133.773|US|Alaska|54|f
+Port Walcott|-20.583|117.183|AU|Western Australia|54|f
+Port-Gentil Airport|-0.712|8.754|GA|Ogooué-Maritime|54|f
+Portaferry Lake|44.227|-75.197|US|New York|54|f
+Portage Bay|47.648|-122.314|US|Washington|54|f
+Portage Glacier|60.719|-148.803|US|Alaska|54|f
+Portage Municipal Airport|43.557|-89.484|US|Wisconsin|54|f
+Portal Point|-64.503|-61.759|AQ||54|f
+Porteous Point|-60.724|-45.675|AQ||54|f
+Porter Mountain|44.215|-73.843|US|New York|54|f
+Porter Peak|57.039|-132.767|US|Alaska|54|f
+Porter-Parsonfield Bridge|43.791|-70.938|US|Maine|54|f
+Portland Castle|50.568|-2.447|GB|England|54|f
+Portland Childrens Museum|45.509|-122.718|US|Oregon|54|f
+Portland Observatory|43.665|-70.248|US|Maine|54|f
+Portmore Lough|54.560|-6.278|GB|Northern Ireland|54|f
+Portnipa Peak|-72.233|2.400|AQ||54|f
+Porto da Praia|14.911|-23.505|CV|Praia|54|f
+Porto di Brindisi|40.651|17.962|IT|Apulia|54|f
+Porto do Funchal|32.644|-16.908|PT|Madeira|54|f
+Portola Redwoods State Park|37.251|-122.205|US|California|54|f
+Porttipahta Reservoir|68.049|26.678|FI|Pirkanmaa|54|f
+Poryadin Island|-66.538|92.984|AQ||54|f
+Porominovo|42.076|23.086|BG|Kyustendil|54
+Port Blandford|48.350|-54.165|CA|Newfoundland and Labrador|54
+Poreiá|40.489|21.212|GR|West Macedonia|54
+Portland|40.923|-75.097|US|Pennsylvania|54
+Porrera|41.189|0.856|ES|Catalonia|54
+Portiglioni|42.880|10.779|IT|Tuscany|54
 Portobelillo|8.017|-80.598|PA|Herrera Province|54
 Pórtugos|36.942|-3.311|ES|Andalusia|52
 Portofino|44.303|9.209|IT|Liguria|52
@@ -446,11 +645,103 @@ Portaje|39.918|-6.562|ES|Extremadura|52
 Portigliola|38.227|16.203|IT|Calabria|51
 Portico di Romagna|44.027|11.781|IT|Emilia-Romagna|50
 Portezuelo|39.812|-6.474|ES|Extremadura|50
+Porcupine Gorge National Park|-20.372|144.449|AU|Queensland|49|f
+Porcupine Peak|39.617|-105.899|US|Colorado|49|f
+Porga Airport|11.046|0.993|BJ|Atakora|49|f
+Porlock Bay|51.233|-3.617|GB|England|49|f
+Porlock Bay|-9.033|149.000|PG|Oro Province|49|f
+Poro Island|10.667|124.459|PH|Central Visayas|49|f
+Porovesi|63.547|27.130|FI|North Savo|49|f
+Port Campbell National Park|-38.641|143.068|AU|Victoria|49|f
+Port Davey|-43.328|145.938|AU|Tasmania|49|f
+Port Gawler Conservation Park|-34.670|138.440|AU|South Australia|49|f
+Port Gore|-41.000|174.250|NZ||49|f
+Port Graham Airport|59.351|-151.832|US|Alaska|49|f
+Port Julia|-34.658|137.900|AU|South Australia|49|f
+Port Lions Airport|57.884|-152.853|US|Alaska|49|f
+Port Pegasus|-47.200|167.683|NZ||49|f
+Port Protection Seaplane Base|56.327|-133.609|US|Alaska|49|f
+Port Ross|-50.521|166.262|NZ||49|f
+Port Townsend Aero Museum|48.057|-122.809|US|Washington|49|f
+Port Victoria|-34.450|137.450|AU|South Australia|49|f
+Porters Pinnacles|-71.550|-99.150|AQ||49|f
+Porthos Range|-70.445|65.655|AQ||49|f
+Portland Bay|-38.329|141.636|AU|Victoria|49|f
+Portland Island|-39.292|177.867|NZ|Hawke's Bay Region|49|f
+Porto Alegre Airport|0.033|6.517|ST|São Tomé Island|49|f
+Porto's Wine Museum|41.145|-8.627|PT|Porto|49|f
+Ports Island|32.283|-64.821|BM|Warwick|49|f
+Portsmouth Round Tower|50.790|-1.109|GB|England|49|f
 Portell de Morella|40.533|-0.262|ES|Valencia|48
+Pörmitz|50.617|11.817|DE|Thuringia|47
 Portilla|40.290|-2.082|ES|Castille-La Mancha|40
+Porcher Island|53.974|-130.480|CA|British Columbia|40|f
+Porcupine Lake|44.786|-63.419|CA|Nova Scotia|40|f
+Porcupine Meadows Park|50.983|-120.536|CA|British Columbia|40|f
+Porden Islands|68.218|-108.619|CA|Nunavut|40|f
+Poricy Park|40.364|-74.092|US|New Jersey|40|f
+Porirua Harbour|-41.083|174.850|NZ||40|f
+Pork Peninsula|62.401|-92.333|CA|Nunavut|40|f
+Porphyry Island|48.350|-88.633|CA|Ontario|40|f
+Porphyry Mountain|61.471|-142.828|US|Alaska|40|f
+Porpoise Bay|-46.651|169.116|NZ||40|f
+Porsche-Museum|48.834|9.152|DE|Baden-Wurttemberg|40|f
+Port au Port Bay|48.667|-58.782|CA|Newfoundland and Labrador|40|f
+Port Bickerton|45.106|-61.727|CA|Nova Scotia|40|f
+Port Browning|48.771|-123.261|CA|British Columbia|40|f
+Port Caledonia|46.183|-59.915|CA|Nova Scotia|40|f
+Port Chicago Naval Magazine National Memorial|38.057|-122.030|US|California|40|f
+Port Essington (Historical)|-11.362|132.154|AU|Northern Territory|40|f
+Port Gardner|48.008|-122.222|US|Washington|40|f
+Port Harvey|50.545|-126.280|CA|British Columbia|40|f
+Port Hood Island|46.016|-61.568|CA|Nova Scotia|40|f
+Port Huron Museum|42.972|-82.426|US|Michigan|40|f
+Port Lorne|44.950|-65.265|CA|Nova Scotia|40|f
+Port Moller Hot Springs Village Site|55.861|-160.495|US|Alaska|40|f
+Port Neville|50.513|-126.057|CA|British Columbia|40|f
+Port of Iloilo|10.832|122.493|PH|Western Visayas|40|f
+Port of Napier|-39.468|176.900|NZ|Hawke's Bay Region|40|f
+Port Orchard|47.635|-122.586|US|Washington|40|f
+Port Pegasus/Pikihatiti|-47.208|167.690|NZ|Southland|40|f
+Port Robinson|-42.868|173.310|NZ|Canterbury|40|f
+Port Susan|48.113|-122.392|US|Washington|40|f
+Port Underwood|-41.333|174.117|NZ||40|f
+Porta Torre|45.807|9.085|IT|Lombardy|40|f
+Portage Canal|43.547|-89.444|US|Wisconsin|40|f
+Portage Lake|45.902|-80.552|CA|Ontario|40|f
+Portage Lake|46.785|-68.509|US|Maine|40|f
+Portage Lake|44.362|-86.229|US|Michigan|40|f
+Portage Lake|60.770|-148.808|US|Alaska|40|f
+Portage Point|44.362|-86.262|US|Michigan|40|f
+Portal Peak|51.650|-116.519|CA|Alberta|40|f
+Portchester Castle|50.837|-1.114|GB|England|40|f
+Porte du Pont|37.878|-4.779|ES|Andalusia|40|f
+Porter Hill|42.117|-76.595|US|New York|40|f
+Porter House Museum|43.302|-91.790|US|Iowa|40|f
+Porter Square|42.390|-71.121|US|Massachusetts|40|f
+Porterfield Lakes|43.767|-65.049|CA|Nova Scotia|40|f
+Porters Neck|34.289|-77.774|US|North Carolina|40|f
+Porth Clais|51.867|-5.280|GB|Wales|40|f
+Portjengrat|46.104|8.033|CH|Valais|40|f
+Portland Art Museum|45.516|-122.684|US|Oregon|40|f
+Portland Fire Museum|43.652|-70.264|US|Maine|40|f
+Portland Island|48.727|-123.372|CA|British Columbia|40|f
+Portland Meadows|45.591|-122.674|US|Oregon|40|f
+Portland Municipal Airport|36.593|-86.479|US|Tennessee|40|f
+Portland Museum|38.270|-85.787|US|Kentucky|40|f
+Portland Museum of Art|43.654|-70.262|US|Maine|40|f
+Portland Police Museum|45.515|-122.677|US|Oregon|40|f
+Portman Square|51.516|-0.156|GB|England|40|f
+Porto Calhau|16.849|-24.864|CV|São Vicente|40|f
+Porto de São Francisco|14.969|-23.456|CV|Praia|40|f
+Portrait of the Four Tetrarchs|45.434|12.340|IT|Veneto|40|f
+Portsmouth Square Tower|50.789|-1.107|GB|England|40|f
+Portuguese Bend|33.736|-118.361|US|California|40|f
 Port Nelson|23.650|-74.842|BS|Rum Cay|39
 Port-aux-Français|-49.349|70.219|TF|Kerguelen|33
 Portillo de Soria|41.635|-2.121|ES|Castille and León|25
+Pora|-8.709|120.384|ID|East Nusa Tenggara|0
+Pordapor Barat|-7.050|113.636|ID|East Java|0
 Poroçan|40.942|20.299|AL|Elbasan County|0
 Porqueira|42.017|-7.850|ES|Galicia|0
 Porqueres|42.117|2.741|ES|Catalonia|0

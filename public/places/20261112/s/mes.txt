@@ -23,6 +23,7 @@ Messancy|49.592|5.819|BE|Wallonia|77
 Messíni|37.051|22.008|GR|Peloponnese|77
 Mesudiye|40.454|37.774|TR|Ordu|76
 Mesoraca|39.079|16.788|IT|Calabria|76
+Mesa Del Rey Airport|36.228|-121.122|US|California|75|f
 Mesquita|-19.223|-42.607|BR|Minas Gerais|74
 Mesão Frio|41.160|-7.890|PT|Vila Real|73
 Meshchovsk|54.321|35.285|RU|Kaluga Oblast|73
@@ -31,10 +32,13 @@ Meshcherino|55.196|38.360|RU|Moscow Oblast|72
 Messel|49.938|8.741|DE|Hesse|72
 Mesopotamía|40.503|21.161|GR|West Macedonia|72
 Mesero|45.502|8.855|IT|Lombardy|72
+Meseș Mountains|47.117|23.033|RO||71|f
 Město Albrechtice|50.163|17.575|CZ|Moravian-Silesian Region|71
 Messingham|53.528|-0.654|GB|England|71
 Mésanger|47.433|-1.231|FR|Pays de la Loire|71
 Mesia|43.100|-8.267|ES|Galicia|70
+Mesa Range|-73.183|162.917|AQ||70|f
+Meskhetis Kedi|41.817|42.600|GE||70|f
 Mesa de Guadalupe|19.563|-96.700|MX|Veracruz|70
 Messimy|45.698|4.674|FR|Auvergne-Rhône-Alpes|70
 Meseşenii de Jos|47.150|22.983|RO|Sălaj County|70
@@ -55,6 +59,9 @@ Mesópolis|-19.966|-50.638|BR|São Paulo|66
 Messelbroek|50.995|4.937|BE|Flanders|66
 Messei|48.712|-0.537|FR|Normandy|66
 Mesilla|32.270|-106.801|US|New Mexico|65
+Mesahchie Peak|48.579|-120.880|US|Washington|65|f
+Mesmogtinden|61.404|8.534|NO|Innlandet|65|f
+Mesøya|66.847|13.635|NO|Nordland|65|f
 Mescal|31.990|-110.435|US|Arizona|65
 Mesa del Nayar|22.214|-104.652|MX|Nayarit|65
 Mesógi|34.815|32.456|CY|Pafos|65
@@ -68,6 +75,8 @@ Mesoukro|8.035|-5.400|CI|Vallée du Bandama District|64
 Mesiméri|40.413|23.008|GR|Central Macedonia|64
 Messein|48.612|6.140|FR|Grand Est|64
 Messeïed|28.015|-10.814|MA|Guelmim-Oued Noun|64
+Mesquite Mountains|35.719|-115.710|US|California|63|f
+Messíni|37.178|21.919|GR|Peloponnese|63|f
 Mesenzana|45.952|8.765|IT|Lombardy|63
 Městečko Trnávka|49.709|16.727|CZ|Pardubice Region|63
 Méssarandougou|8.019|-4.402|CI|Vallée du Bandama District|63
@@ -85,14 +94,115 @@ Messeix|45.617|2.542|FR|Auvergne-Rhône-Alpes|61
 Mesa Grande|21.803|-102.721|MX|Aguascalientes|61
 Messingen|52.466|7.459|DE|Lower Saxony|61
 Mesillas|20.129|-100.007|MX|Querétaro|61
+Mesa Encantada|34.921|-107.551|US|New Mexico|61|f
+Meseu de Macau|22.197|113.542|MO||61|f
+Mesilla Diversion Dam|32.228|-106.798|US|New Mexico|61|f
 Mesquite|32.165|-106.697|US|New Mexico|61
 Mesa del Huracán|29.668|-108.251|MX|Chihuahua|61
 Měšice|50.198|14.520|CZ|Central Bohemia|61
 Mesekenhagen|54.148|13.318|DE|Mecklenburg-Vorpommern|60
 Mesa Verde|33.606|-114.731|US|California|60
 Messen|47.092|7.445|CH|Solothurn|60
+Mestlin|53.580|11.927|DE|Mecklenburg-Vorpommern|60
+Meseșenii de Sus|47.127|22.984|RO|Sălaj County|60
+Messines|50.766|2.898|BE|Flanders|60
+Messy|48.967|2.700|FR|Île-de-France|60
+Mesnil-sur-l'Estrée|48.770|1.301|FR|Normandy|60
+Mesvin|50.426|3.959|BE|Wallonia|60
+Mesnard-la-Barotière|46.859|-1.099|FR|Pays de la Loire|60
+Mescolino-Minelle|45.955|12.362|IT|Veneto|60
+Mesquitela|40.586|-7.747|PT|Viseu|60
+Mesillat Tsiyyon|31.802|35.011|IL|Jerusalem|59
+Mesa de los Alzati (Mesa de San Felipe)|19.499|-100.389|MX|Michoacán|59
+Messas|47.807|1.637|FR|Centre-Val de Loire|59
+Mesiméri|40.793|22.025|GR|Central Macedonia|59
+Mesnil-Saint-Blaise|50.168|4.885|BE|Wallonia|59
+Mesillas|22.316|-102.167|MX|Aguascalientes|59
+Mesnil-Clinchamps|48.853|-0.989|FR|Normandy|59
+Messenkamp|52.260|9.380|DE|Lower Saxony|59
+Mesa del Rancho|19.126|-96.947|MX|Veracruz|59
+Meslin|48.445|-2.569|FR|Brittany|59
+Mesvres|46.864|4.242|FR|Bourgogne-Franche-Comté|59
+Messia-sur-Sorne|46.662|5.512|FR|Bourgogne-Franche-Comté|58
+Mesón Nuevo|18.810|-99.717|MX|México|58
+Mesa de Capulines|20.112|-98.119|MX|Puebla|58
+Mesita|35.018|-107.313|US|New Mexico|58
 Mestanza|38.576|-4.071|ES|Castille-La Mancha|58
+Mescal Range|35.441|-115.552|US|California|58|f
+Mesquite Hills|35.009|-116.158|US|California|58|f
+Mesquite Metro Airport|32.747|-96.530|US|Texas|58|f
+Meshar|31.816|34.753|IL|Central District|58
+Mescherin|53.247|14.430|DE|Brandenburg|58
+Mesa de Flores|21.187|-104.090|MX|Jalisco|58
+Mespaul|48.619|-4.025|FR|Brittany|58
+Mesótopos|39.131|26.004|GR|North Aegean|58
+Mesa de San Pedro|23.392|-105.596|MX|Durango|58
+Mesa del Tirador|21.732|-104.067|MX|Nayarit|58
+Mesa del Caballo|34.286|-111.295|US|Arizona|58
+Mesnil-Raoul|49.397|1.275|FR|Normandy|57
+Mesas de Acosta|20.749|-101.077|MX|Guanajuato|57
+Mesa de Ramírez|20.929|-99.990|MX|Querétaro|57
+Meßdorf|52.720|11.556|DE|Saxony-Anhalt|57
+Mesciler|40.690|31.639|TR|Bolu|57
+Messanges|43.815|-1.379|FR|New Aquitaine|57
+Mésigny|45.990|6.004|FR|Auvergne-Rhône-Alpes|57
+Mesa Chica la Gloria|20.220|-97.135|MX|Veracruz|57
+Mestni Vrh|46.443|15.865|SI|Urban Municipality of Ptuj|57
+Mesas Altas de Xoconusco|19.335|-100.246|MX|México|56
+Mesves-sur-Loire|47.243|2.992|FR|Bourgogne-Franche-Comté|56
+Messey-sur-Grosne|46.644|4.743|FR|Bourgogne-Franche-Comté|56
+Mesagrós|39.036|26.445|GR|North Aegean|56
+Mesa de Bañi|19.869|-100.053|MX|México|56
+Mesa Tres Ríos|29.841|-108.712|MX|Sonora|56
+Mesas de San Jerónimo|19.327|-100.203|MX|México|56
+Mesatunych|21.076|-89.203|MX|Yucatán|56
+Mescitli|40.215|42.644|TR|Kars Province|55
+Mesnay|46.899|5.800|FR|Bourgogne-Franche-Comté|55
+Mesa Chorio|34.809|32.462|CY|Pafos|55
+Meşeli|41.085|35.502|TR|Samsun|55
+Mesa de los Leones|19.613|-99.083|MX|México|55
+Mesagrós|37.757|23.517|GR|Attica|55
+Mesnil-Saint-Loup|48.303|3.766|FR|Grand Est|55
+Mesón Zapote|16.860|-98.967|MX|Guerrero|55
+Meshoppen|41.614|-76.047|US|Pennsylvania|55
+Mespelare|50.996|4.069|BE|Flanders|55
+Mesa de Jaimes|19.163|-100.105|MX|México|55
+Mesepa|-14.323|-170.747|AS|Western District|55
+Mesland|47.510|1.123|FR|Centre-Val de Loire|55
+Mestečko|49.173|18.260|SK|Trenčín Region|55
+Mesaío|40.795|22.865|GR|Central Macedonia|55
+Messincourt|49.681|5.154|FR|Grand Est|55
+Mesnil-Panneville|49.590|0.892|FR|Normandy|55
+Mesnil-Saint-Nicaise|49.778|2.920|FR|Hauts-de-France|54
+Mesa Llano Largo|17.009|-96.350|MX|Oaxaca|54|f
+Mescalitan Island|34.422|-119.833|US|California|54|f
+Meso Island|42.092|-83.153|US|Michigan|54|f
+Messalonskee Lake|44.478|-69.790|US|Maine|54|f
+Mesa de Suchitímber|19.462|-100.108|MX|México|54
+Meşedibi|40.987|42.681|TR|Ardahan|54
+Mesopótamo|39.238|20.530|GR|Epirus|54
+Messerich|49.933|6.483|DE|Rheinland-Pfalz|54
+Mesenich|50.100|7.200|DE|Rheinland-Pfalz|51
 Mesones de Isuela|41.551|-1.539|ES|Aragon|50
+Mesa de Maya|37.103|-103.502|US|Colorado|49|f
+Mesa Prieta|35.506|-107.036|US|New Mexico|49|f
+Meserve Glacier|-77.517|162.283|AQ||49|f
+Mesquite Airport|36.833|-114.058|US|Nevada|49|f
+Mesquite Radio Tower|32.763|-96.635|US|Texas|49|f
+Messent Peak|-69.397|-66.229|AQ||49|f
+Mestalla Stadium|39.475|-0.358|ES|Valencia|49|f
+Meszler Hill|43.355|-75.330|US|New York|49|f
 Mesas de Ibor|39.756|-5.546|ES|Extremadura|46
+Mesa Verde National Park|37.239|-108.462|US|Colorado|40|f
+Mesahchie Glacier|48.582|-120.866|US|Washington|40|f
+Mesalands Community College Dinosaur Museum|35.174|-103.724|US|New Mexico|40|f
+Meskel Square|9.010|38.761|ET||40|f
+Mesquite Mine|33.060|-114.994|US|California|40|f
+Mess Lake|57.469|-130.881|CA|British Columbia|40|f
+Meßnerin|47.560|15.084|AT|Styria|40|f
+Mesta Peak|-62.620|-59.838|AQ||40|f
+Meszah Peak|58.466|-131.454|CA|British Columbia|40|f
 Mesegar de Corneja|40.502|-5.301|ES|Castille and León|40
 Me Sang|11.328|105.546|KH|Prey Veng|0
+Mesa|-8.528|119.746|ID|East Nusa Tenggara|0
+Mesjid|-6.981|115.430|ID|East Java|0

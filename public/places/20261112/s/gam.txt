@@ -27,8 +27,10 @@ Gambettola|44.117|12.337|IT|Emilia-Romagna|80
 Gampaha|7.090|79.993|LK|Western Province|79
 Gamō|35.865|139.802|JP|Saitama|79
 Gamay|12.385|125.298|PH|Eastern Visayas|79
+Gamboma Airport|-1.867|15.867|CG|Plateaux|78|f
 Gamharia|23.860|78.814|IN|Madhya Pradesh|78
 Gambolò|45.262|8.858|IT|Lombardy|78
+Gambell Airport|63.767|-171.733|US|Alaska|78|f
 Gamhāria|22.809|86.103|IN|Jharkhand|78
 Gammertingen|48.252|9.223|DE|Baden-Wurttemberg|77
 Gamu|17.050|121.836|PH|Cagayan Valley|75
@@ -36,6 +38,7 @@ Gamina|6.968|-6.655|CI|Sassandra-Marahoue|74
 Gambo|4.648|22.263|CF|Mbomou|74
 Gammelstad|65.639|22.011|SE|Norrbotten|74
 Gameleiras|-15.082|-43.124|BR|Minas Gerais|74
+Gamètì/Rae Lakes Airport|64.116|-117.310|CA|Northwest Territories|73|f
 Gamovo|57.865|56.106|RU|Perm Krai|73
 Gambara|45.254|10.294|IT|Lombardy|72
 Gambsheim|48.692|7.883|FR|Grand Est|72
@@ -46,6 +49,7 @@ Gamut|8.532|126.241|PH|Caraga|71
 Gameleira de Goiás|-16.487|-48.646|BR|Goiás|71
 Gambang|16.750|120.783|PH|Cordillera|71
 Gamlingay|52.156|-0.193|GB|England|70
+Gammelstadsfjärden|60.202|25.002|FI|Uusimaa|70|f
 Gama|7.619|-7.701|CI|Montagnes|70
 Gamaches|49.986|1.556|FR|Hauts-de-France|70
 Gama|9.059|-6.223|CI|Savanes District|70
@@ -53,6 +57,7 @@ Gámbara|18.932|-102.113|MX|Michoacán|70
 Gams|47.204|9.442|CH|Saint Gallen|69
 Gambrills|39.081|-76.658|US|Maryland|69
 Gamleby|57.895|16.405|SE|Kalmar|69
+Gamil|31.284|32.203|EG|Port Said|69|f
 Gambellara|45.460|11.340|IT|Veneto|68
 Gammad|17.710|121.744|PH|Cagayan Valley|68
 Gambier|40.376|-82.397|US|Ohio|68
@@ -69,26 +74,79 @@ Gamprin|47.220|9.509|LI|Gamprin|64
 Gamlitz|46.720|15.553|AT|Styria|64
 Gāmīshlī Yelqī|36.988|54.549|IR|Golestan|63
 Gammelsdorf|48.550|11.950|DE|Bavaria|63
+Gambella Airport|8.129|34.563|ET|Gambela|63|f
+Gamsfeld|47.623|13.481|AT|Salzburg|63|f
 Gammelshausen|48.640|9.651|DE|Baden-Wurttemberg|63
 Gampel|46.316|7.742|CH|Valais|63
 Gamzali|41.000|47.804|AZ|Qabala District|63
 Gambatesa|41.509|14.912|IT|Molise|62
 Gambino|25.651|-108.387|MX|Sinaloa|61
+Gamabong|37.887|128.178|KR|Gangwon-do|61|f
+Gamaksan|37.943|126.970|KR|Gyeonggi-do|61|f
+Gamble Rogers Memorial State Recreation Area at Flagler Beach|29.437|-81.111|US|Florida|61|f
+Gamboa Airport|-42.489|-73.775|CL|Los Lagos Region|61|f
 Gamasb|34.038|48.462|IR|Hamadan Province|61
 Gambang|3.707|103.100|MY|Pahang|60
+Gamonal|39.961|-4.962|ES|Castille-La Mancha|60
+Gamarde-les-Bains|43.733|-0.874|FR|New Aquitaine|60
+Gămăcești|45.251|24.931|RO|Arges|59
+Gamburtsev Subglacial Mountains|-80.500|76.000|AQ||58|f
+Gamma Island|-64.330|-62.993|AQ||58|f
+Gamsansa|35.767|129.341|KR|Gyeongsangbuk-do|58|f
+Gamsberg|47.135|9.374|CH|Saint Gallen|58|f
+Gambulaga|44.744|11.791|IT|Emilia-Romagna|58
 Gámbita|5.946|-73.344|CO|Santander Department|57
+Gamstädt|50.949|10.885|DE|Thuringia|57
+Gampelen|47.012|7.058|CH|Bern|57
 Gampern|47.989|13.554|AT|Upper Austria|57
+Gambell|63.779|-171.735|US|Alaska|57
 Gama|4.763|-73.611|CO|Cundinamarca|55
+Gamlen|50.233|7.200|DE|Rheinland-Pfalz|55
+Gammelby|54.500|9.793|DE|Schleswig-Holstein|55
+Gamzigrad|43.909|22.175|RS|Central Serbia|55
+Gam Point|-61.923|-57.955|AQ||54|f
+Gamsgrat|47.108|9.623|LI||54|f
 Gams bei Hieflau|47.667|14.783|AT|Styria|54
 Gamalero|44.809|8.541|IT|Piedmont|53
 Gambugliano|45.588|11.439|IT|Veneto|49
+Gamage Point|-64.775|-64.055|AQ||49|f
+Gamba Airport|-2.710|9.961|GA|Ogooué-Maritime|49|f
+Gambacorta Peak|-84.033|-56.050|AQ||49|f
+Gambier Islands|-35.149|136.459|AU|South Australia|49|f
+Gambier Islands Group Marine Park|-35.165|136.465|AU|South Australia|49|f
+Gambissara Forest Park|13.250|-14.300|GM|Upper River|49|f
+Gamble Glacier|-81.100|156.750|AQ||49|f
+Gamma Island|32.281|-64.826|BM|Warwick|49|f
+Gampriner Seele|47.225|9.509|LI|Gamprin|49|f
+Gamshag|47.367|12.467|AT|Tyrol|49|f
 Gambarana|45.029|8.763|IT|Lombardy|46
 Gambasca|44.630|7.347|IT|Piedmont|43
 Gamberale|41.905|14.208|IT|Abruzzo|41
 Gamones|41.467|-6.176|ES|Castille and León|40
+Gamal Abdel Nasser University of Conakry|9.544|-13.676|GN||40|f
+Gambier Island|49.498|-123.394|CA|British Columbia|40|f
+Gambit Park|32.713|-117.168|US|California|40|f
+Gambles Hill|37.538|-77.445|US|Virginia|40|f
+Gambone Peak|-71.750|164.233|AQ||40|f
+Gambrill State Park|39.479|-77.491|US|Maryland|40|f
+Gammon Lake|51.016|-94.734|CA|Ontario|40|f
+Gamsspitzl|46.979|11.203|AT|Tyrol|40|f
+Gamuza Peak|49.633|-121.236|CA|British Columbia|40|f
 Gamba|-11.751|17.112|AO|Bíe|0
+Gambang|-8.135|111.771|ID|East Java|0
+Gambangan|-8.032|113.769|ID|East Java|0
+Gambarjati|-7.537|109.129|ID|Central Java|0
 Gambarsari|-7.531|109.201|ID|Central Java|0
+Gambiran|-6.799|111.495|ID|Central Java|0
+Gambiran Wetan|-8.155|113.809|ID|East Java|0
+Gambirono|-8.199|113.519|ID|East Java|0
+Gambolempuk|-7.568|109.232|ID|Central Java|0
+Gambor Krajan|-8.338|114.244|ID|East Java|0
+Gambuhan Kidul|-7.039|112.398|ID|East Java|0
 Gambut|-3.396|114.675|ID|South Kalimantan|0
+Gamei|31.748|94.284|CN|Hebei|0
 Gamèti|64.112|-117.353|CA|Northwest Territories|0
 Gampang|-6.956|112.299|ID|East Java|0
+Gampeng|-6.936|112.453|ID|East Java|0
+Gampingan|-8.308|112.847|ID|East Java|0
 Gampo|35.805|129.501|KR|Gyeongsangbuk-do|0

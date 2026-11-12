@@ -12,6 +12,7 @@ Sungai Penuh|-2.056|101.391|ID|Jambi|100
 Sungailiat|-1.854|106.122|ID|Bangka–Belitung Islands|100
 Sunyani|7.340|-2.327|GH|Bono|99
 Sunrise|26.134|-80.113|US|Florida|99
+Sunda Islands|-2.000|110.000|ID||98|f
 Sunāmganj|25.069|91.402|BD|Sylhet Division|97
 Sunzha|43.321|45.049|RU|Ingushetiya Republic|97
 Sunām|30.129|75.799|IN|Punjab|97
@@ -21,6 +22,7 @@ Sunnyside|40.740|-73.935|US|New York|94
 Sungai Siput|4.394|101.195|MY|Perak|94
 Sungai Raya|0.700|108.900|ID|West Kalimantan|94
 Sunlou|34.667|116.583|CN|Jiangsu|93
+Sundsvall-Timrå Airport|62.528|17.444|SE|Västernorrland|93|f
 Sundergarh|22.117|84.033|IN|Odisha|93
 Su-ngai Kolok|6.030|101.966|TH|Narathiwat|93
 Sŭngho 1-tong|38.991|125.978|KP|Pyongyang|92
@@ -52,6 +54,7 @@ Sung Wong Toi|22.325|114.191|HK|Kowloon City|86
 Sunchales|-30.945|-61.560|AR|Santa Fe|85
 Sunshine West|-37.791|144.816|AU|Victoria|85
 Sunnybank Hills|-27.610|153.054|AU|Queensland|85
+Sunan Shuofang International Airport|31.494|120.429|CN|Jiangsu|85|f
 Sun Tin Wai|22.371|114.187|HK|Sha Tin|84
 Sundakkāmpālaiyam|10.567|77.214|IN|Tamil Nadu|84
 Sunset|25.706|-80.352|US|Florida|84
@@ -66,13 +69,17 @@ Sungai Koyan|4.219|101.802|MY|Pahang|83
 Sundumbili|-29.134|31.398|ZA|KwaZulu-Natal|82
 Sunshine North|-37.770|144.828|AU|Victoria|82
 Sŭngjibaegam|41.243|128.799|KP|Yanggang-do|81
+Sungnyemun|37.560|126.975|KR|Seoul|81|f
 Sunninghill|51.401|-0.656|GB|England|81
 Sun Village|34.560|-117.957|US|California|81
 Sunzha|43.059|44.823|RU|North Ossetia–Alania|81
 Sŭngam-nodongjagu|41.670|129.669|KP|North Hamgyong|81
+Sunshine Coast Airport|-26.603|153.091|AU|Queensland|81|f
 Sungai Sumun|3.892|100.853|MY|Perak|81
+Sunyani Airport|7.362|-2.329|GH|Bono|80|f
 Sunjia|30.730|108.014|CN|Chongqing|80
 Sunbury|40.863|-76.794|US|Pennsylvania|80
+Sunday Island|-29.268|-177.928|NZ||80|f
 Suntar|62.161|117.655|RU|Sakha|79
 Sunset Hills|38.539|-90.407|US|Missouri|79
 Sundarapāndiyam|9.613|77.674|IN|Tamil Nadu|79
@@ -86,6 +93,7 @@ Suncho Corral|-27.932|-63.430|AR|Santiago del Estero|76
 Sunnyvale|32.797|-96.561|US|Texas|76
 Sungai Kob|5.430|100.645|MY|Kedah|75
 Suncook|43.131|-71.453|US|New Hampshire|75
+Suntar Airport|62.185|117.636|RU|Sakha|74|f
 Sunset Beach-Pūpūkea|21.662|-158.054|US|Hawaii|74
 Sunset|41.136|-112.031|US|Utah|74
 Sunnyslope|34.012|-117.433|US|California|74
@@ -93,6 +101,9 @@ Sunbury|40.243|-82.859|US|Ohio|74
 Sunne|59.838|13.143|SE|Värmland|74
 Sungai Lembing|3.918|103.036|MY|Pahang|74
 Suncoast Estates|26.712|-81.869|US|Florida|73
+Sun Moon Lake|23.861|120.918|TW|Taiwan|72|f
+Sunriver Airport|43.876|-121.454|US|Oregon|72|f
+Sunshine Island|22.261|114.051|HK||72|f
 Sunndalsøra|62.675|8.563|NO|Møre og Romsdal|72
 Sundarapāndiyanpattanam|9.841|79.098|IN|Tamil Nadu|72
 Sungai Bakap|5.222|100.495|MY|Penang|72
@@ -120,6 +131,9 @@ Sundhoffen|48.043|7.413|FR|Grand Est|66
 Sünching|48.879|12.351|DE|Bavaria|66
 Sunray|36.017|-101.825|US|Texas|66
 Sunshine Ranches|26.046|-80.329|US|Florida|66
+Sunbeam Peak|43.171|-109.618|US|Wyoming|65|f
+Sunnylvsfjorden|62.224|7.039|NO|Møre og Romsdal|65|f
+Sunye In|21.678|96.229|MM|Mandalay Region|65|f
 Sun Valley|34.254|-111.261|US|Arizona|65
 Suno|45.631|8.544|IT|Piedmont|65
 Sun Prairie|47.537|-111.481|US|Montana|64
@@ -127,6 +141,10 @@ Sun Village|-25.359|27.103|ZA|North West|64
 Sunnyside-Tahoe City|39.150|-120.161|US|California|64
 Sun City|-25.340|27.097|ZA|North West|64
 Sungai Baharu|6.164|100.334|MY|Kedah|64
+Sunapee Lake|43.376|-72.056|US|New Hampshire|63|f
+Sunda Strait|-6.041|105.678|ID||63|f
+Sunlight Peak|37.627|-107.596|US|Colorado|63|f
+Suntholmit|60.368|27.307|FI|Kymenlaakso|63|f
 Sun Valley|43.697|-114.352|US|Idaho|63
 Sundown|33.456|-102.489|US|Texas|63
 Sun Peaks|50.876|-119.911|CA|British Columbia|63
@@ -138,21 +156,130 @@ Sunnyside|31.239|-82.342|US|Georgia|62
 Sundance|44.406|-104.376|US|Wyoming|62
 Sundhouse|48.251|7.604|FR|Grand Est|62
 Sunja|45.368|16.567|HR|Sisak-Moslavina|61
+Sunday River Whitecap|44.549|-70.897|US|Maine|61|f
+Sundvatnet|70.733|28.200|NO|Nordland|61|f
+Sunrise Mountain|36.225|-114.977|US|Nevada|61|f
+Süntel|52.187|9.371|DE|Lower Saxony|61|f
+Sunter Island|-12.781|143.411|AU|Queensland|61|f
 Suni|40.281|8.549|IT|Sardinia|61
 Sunflower|33.543|-90.537|US|Mississippi|61
 Sunār Khurd|31.157|75.703|IN|Punjab|60
 Sunman|39.237|-85.095|US|Indiana|60
 Sund|60.250|20.117|AX|Ålands landsbygd|60
+Sundridge|45.767|-79.400|CA|Ontario|59
+Sundborn|60.650|15.767|SE|Dalarna|59
+Sunol|37.594|-121.889|US|California|59
+Sundar Basti|27.883|83.933|NP|Gandaki Pradesh|59
+Șuncuiș|46.674|22.266|RO|Bihor County|59
+Sundarpahari|24.756|87.363|IN|Jharkhand|59
+Sunset Village|32.898|-84.404|US|Georgia|59
+Sunchubamba|-7.478|-78.396|PE|Cajamarca Department|58
+Sunday River Bridge|44.492|-70.843|US|Maine|58|f
+Sundeved Peninsula|54.940|9.705|DK|South Denmark|58|f
+Sunndalsfjorden|62.789|8.328|NO|Møre og Romsdal|58|f
+Sunset Fjord|-54.050|-37.450|GS||58|f
+Sunshine Peak|37.923|-107.426|US|Colorado|58|f
+Sunny Corner|46.946|-65.815|CA|New Brunswick|58
+Suncroft|53.104|-6.861|IE|Leinster|57
+Sunrise Beach Village|30.600|-98.410|US|Texas|57
+Sundvollen|60.063|10.307|NO|Buskerud|57
+Sunset Bay|42.563|-79.133|US|New York|56
+Sunnansjö|60.217|14.950|SE|Dalarna|56
+Sunnybrae|50.767|-119.269|CA|British Columbia|56
+Sunningen|58.333|11.833|SE|Västra Götaland|55
+Sunfield|42.762|-84.993|US|Michigan|55
+Sunnansjö|64.090|19.346|SE|Västerbotten|55
+Sunbright|36.243|-84.670|US|Tennessee|55
+Sunfish Lake|44.871|-93.099|US|Minnesota|55
+Sünlü|40.189|33.038|TR|Ankara|55
+Sundance Airpark|35.601|-97.708|US|Oklahoma|54|f
+Sunday Island|-21.703|114.420|AU|Western Australia|54|f
+Sunday Islet|-11.929|143.210|AU|Queensland|54|f
+Sundini|62.190|-6.999|FO|Eysturoy|54|f
+Sunfish Pond|41.003|-75.073|US|New Jersey|54|f
+Sungai Pakning Bengkalis Airport|1.370|102.140|ID|Riau|54|f
+Sunken Meadow State Park|40.911|-73.262|US|New York|54|f
+Sunnyhill Airport|43.483|-124.205|US|Oregon|54|f
+Sunrise Lake|43.454|-71.072|US|New Hampshire|54|f
+Sunset Air Strip|45.591|-123.013|US|Oregon|54|f
+Sunset Crater|35.364|-111.504|US|Arizona|54|f
+Sunset Island|44.565|-73.323|US|Vermont|54|f
+Sunset Lake|43.472|-71.305|US|New Hampshire|54|f
+Sunshine Skyway|27.629|-82.664|US|Florida|54|f
+Sun River Terrace|41.127|-87.736|US|Illinois|54
+Sun Bowl Stadium|31.774|-106.506|US|Texas|49|f
+Sund|28.437|63.906|PK|Balochistan|49|f
+Sunday Island|-26.125|113.237|AU|Western Australia|49|f
+Sunday Island|-38.712|146.620|AU|Victoria|49|f
+Sunday Islet|-11.929|143.210|AU|Queensland|49|f
+Sunderland Bay|-38.507|145.272|AU|Victoria|49|f
+Sunderland Bridge|42.468|-72.585|US|Massachusetts|49|f
+Sundown National Park|-28.873|151.632|AU|Queensland|49|f
+Sunfix Glacier|-69.256|-64.551|AQ||49|f
+Sunk Lake|-77.567|166.217|AQ||49|f
+Sunrise Dam Airport|-29.101|122.451|AU|Western Australia|49|f
+Sunset Bay|-21.033|149.170|AU|Queensland|49|f
+Sunset Park|-32.720|151.989|AU|New South Wales|49|f
+Sunset Peak|33.681|74.542|IN|Jammu and Kashmir|49|f
+Sunshine Glacier|-60.616|-45.500|AQ||49|f
+Sun Devil Stadium|33.426|-111.933|US|Arizona|40|f
+Sun Island|3.483|72.801|MV|Southern Ari Atoll|40|f
+Sun Lakes State Park|47.595|-119.365|US|Washington|40|f
+Sun Valley Airport|35.009|-114.566|US|Arizona|40|f
+Sun Valley Lake|40.851|-94.070|US|Iowa|40|f
+Sun-Oka Beach Park|49.564|-119.632|CA|British Columbia|40|f
+Sunburst Lake National Wildlife Refuge|46.364|-100.489|US|North Dakota|40|f
+Sunburst Peaks|50.900|-115.652|CA|British Columbia|40|f
+Sunbury Court|51.410|-0.393|GB|England|40|f
+Sundance Glacier|45.100|-109.644|US|Montana|40|f
+Sundance Meadows Airport|43.991|-121.210|US|Oregon|40|f
+Sundance Mountain|45.106|-109.609|US|Montana|40|f
+Sundance Range|51.000|-115.502|CA|Alberta|40|f
+Sunday Island|54.317|-80.650|CA|Nunavut|40|f
+Sunday Lake|48.173|-91.897|US|Minnesota|40|f
+Sunday Lake|48.229|-122.258|US|Washington|40|f
+Sunfish Lake|43.474|-80.634|CA|Ontario|40|f
+Sunken Island|42.795|-74.892|US|New York|40|f
+Sunkhaze Meadows National Wildlife Refuge|44.986|-68.565|US|Maine|40|f
+Sunlight Peak|44.609|-109.768|US|Wyoming|40|f
+Sunny Ridge|-87.000|-154.433|AQ||40|f
+Sunrise City Historic District|60.890|-149.424|US|Alaska|40|f
+Sunrise Glacier|47.357|-113.888|US|Montana|40|f
+Sunrise Glacier|63.363|-150.169|US|Alaska|40|f
+Sunrise Lake|44.557|-65.301|CA|Nova Scotia|40|f
+Sunrise Mountain|41.218|-74.720|US|New Jersey|40|f
+Sunset Bay State Park|43.333|-124.372|US|Oregon|40|f
+Sunset Glacier|63.328|-150.186|US|Alaska|40|f
+Sunset Hill|41.631|-70.306|US|Massachusetts|40|f
+Sunset Lake|45.570|-61.428|CA|Nova Scotia|40|f
+Sunset Lake|39.449|-75.240|US|New Jersey|40|f
+Sunset Reservoir|37.750|-122.484|US|California|40|f
+Sunset State Beach|36.882|-121.828|US|California|40|f
+Sunshine Island|45.133|-79.683|CA|Ontario|40|f
+Sunshine Mine|47.503|-116.075|US|Idaho|40|f
+Sunwapta Peak|52.350|-117.286|CA|Alberta|40|f
+Sunwood Lake|46.970|-122.774|US|Washington|40|f
 Su-ngai Padi|6.086|101.880|TH|Narathiwat|0
 Sunampe|-13.427|-76.164|PE|Ica|0
 Sunbilla|43.167|-1.667|ES|Navarre|0
+Sunbu|30.900|118.883|CN|Anhui|0
+Suncun|30.316|118.413|CN|Anhui|0
+Sundawenang|-7.372|107.998|ID|West Java|0
+Sundhausen|51.167|10.717|DE|Thuringia|0
+Sundu|28.140|115.765|CN|Jiangxi|0
+Sunduan|30.070|120.697|CN|Zhejiang|0
+Sunduk|-8.188|111.418|ID|East Java|0
+Sunfang|27.869|116.182|CN|Jiangxi|0
 Sung Men|18.049|100.115|TH|Phrae|0
+Sungai Bengkal|-1.536|102.721|ID|Jambi|0
 Sungai Iyu|4.405|98.132|ID|Aceh|0
+Sungai Maja|2.038|100.639|ID|Riau|0
 Sungai Nyamuk|4.144|117.911|ID|East Kalimantan|0
 Sungai Pinyuh|0.283|109.079|ID|West Kalimantan|0
 Sungai Raya|4.761|97.912|ID|Aceh|0
 Sungai Raya|-0.127|109.404|ID|West Kalimantan|0
 Sungai Salak|-0.438|103.007|ID|Riau|0
+Sungai Segajah|2.072|100.641|ID|Riau|0
 Sungaibali|-3.403|116.404|ID|South Kalimantan|0
 Sungaiboh|1.639|115.233|ID|North Kalimantan|0
 Sungaiduri|0.566|108.929|ID|West Kalimantan|0
@@ -168,16 +295,26 @@ Sungairotan|-3.102|104.278|ID|South Sumatra|0
 Sungaisarik|-0.574|100.225|ID|West Sumatra|0
 Sungaitabuk|-3.247|114.771|ID|South Kalimantan|0
 Sungaitatas|-2.835|114.489|ID|Central Kalimantan|0
+Sungaitinta|-5.845|112.669|ID|East Java|0
 Sungaiturak|-2.353|115.387|ID|South Kalimantan|0
 Sungayang|-0.408|100.597|ID|West Sumatra|0
 Sungguminasa|-5.197|119.451|ID|South Sulawesi|0
 Sungi Liput|4.207|98.013|ID|Aceh|0
 Sungsang|-2.363|104.904|ID|South Sumatra|0
+Sunhe|40.044|116.523|CN|Beijing|0
 Suning|38.425|115.835|CN|Hebei|0
 Sunjia Buzi|42.017|126.585|CN|Jilin|0
+Sunjiatuan|37.538|122.112|CN|Shandong|0
 Sunk Island|53.652|-0.084|GB|England|0
 Sunkani|8.703|11.258|NG|Taraba State|0
 Sunningdale|51.399|-0.629|GB|England|0
+Sunqiao|31.087|113.014|CN|Hubei|0
+Suntri|-6.848|111.508|ID|Central Java|0
+Sunu|-9.820|124.641|ID|East Nusa Tenggara|0
 Sunuapa|17.492|-93.244|MX|Chiapas|0
 Sunwu|49.423|127.329|CN|Heilongjiang|0
 Sunyer|41.523|0.592|ES|Catalonia|0
+Sunyuan|34.944|109.025|CN|Shaanxi|0
+Sunzhen|34.984|109.754|CN|Shaanxi|0
+Sunzhuang|38.152|114.137|CN|Hebei|0
+Sunzhuang|32.438|120.392|CN|Jiangsu|0

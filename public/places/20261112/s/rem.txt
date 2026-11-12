@@ -14,6 +14,7 @@ Remígio|-6.966|-35.795|BR|Paraíba|85
 Remagen|50.579|7.227|DE|Rheinland-Pfalz|84
 Remiremont|48.018|6.588|FR|Grand Est|79
 Remolino|10.702|-74.716|CO|Magdalena Department|78
+Rembrandtplein|52.366|4.896|NL|North Holland|78|f
 Remontnoye|46.561|43.649|RU|Rostov|77
 Remedios|7.028|-74.694|CO|Antioquia|76
 Remada|32.317|10.396|TN|Tataouine|76
@@ -31,6 +32,7 @@ Remedello|45.278|10.372|IT|Lombardy|70
 Remeţi|47.983|23.633|RO|Maramureş|70
 Remetea Chioarului|47.533|23.550|RO|Maramureş|69
 Remeniv|49.952|24.209|UA|Lviv|69
+Remøya|62.368|5.640|NO|Møre og Romsdal|69|f
 Remsenburg-Speonk|40.826|-72.697|US|New York|68
 Remedello di Sopra|45.279|10.371|IT|Lombardy|67
 Remoulins|43.940|4.566|FR|Occitanie|67
@@ -49,10 +51,51 @@ Rém|46.247|19.141|HU|Bács-Kiskun|62
 Remolinos|41.839|-1.178|ES|Aragon|61
 Remington|40.761|-87.151|US|Indiana|61
 Remerton|30.844|-83.310|US|Georgia|61
+Remstädt|50.979|10.688|DE|Thuringia|60
+Remungol|47.933|-2.896|FR|Brittany|59
+Rémering-lès-Puttelange|49.036|6.938|FR|Grand Est|59
+Remplin|53.754|12.697|DE|Mecklenburg-Vorpommern|59
+Remojadas|19.080|-96.389|MX|Veracruz|58
 Remedios|8.225|-81.829|PA|Chiriquí Province|58
+Remire Island|-5.117|53.317|SC||58|f
+Remondò|45.240|8.804|IT|Lombardy|58
+Remilly-Aillicourt|49.652|4.994|FR|Grand Est|58
+Remerschen|49.489|6.352|LU|Remich|58
+Remilly-sur-Tille|47.316|5.208|FR|Bourgogne-Franche-Comté|58
+Remedello di Sotto|45.260|10.380|IT|Lombardy|57
+Remeți pe Someș|47.482|23.340|RO|Maramureş|57
+Remetea Oașului|47.876|23.318|RO|Satu Mare County|56
+Remington|38.534|-77.808|US|Virginia|56
+Remoncourt|48.230|6.051|FR|Grand Est|56
+Remeteszőlős|47.560|18.920|HU|Pest County|56
+Remetské Hámre|48.850|22.184|SK|Košice Region|55
+Remilly-sur-Lozon|49.180|-1.257|FR|Normandy|55
+Remy|35.456|-94.534|US|Oklahoma|55
+Remembrance Island|-17.900|30.783|ZW||54|f
+Remote Bridge|43.006|-123.892|US|Oregon|54|f
+Remote Peninsula|70.851|-70.914|CA|Nunavut|54|f
+Remøybrua|62.366|5.670|NO|Møre og Romsdal|54|f
+Remplingen Peak|-72.083|4.283|AQ||54|f
+Remund Lake|44.178|-93.484|US|Minnesota|54|f
+Remus Glacier|-68.361|-66.665|AQ||54|f
+Remmels|54.116|9.651|DE|Schleswig-Holstein|53
 Remondo|41.341|-4.484|ES|Castille and León|50
+Remenchus Glacier|-66.000|101.409|AQ||49|f
+Remington Glacier|-78.567|-84.300|AQ||49|f
+Remire Island Airport|-5.117|53.312|SC|Outer Islands|49|f
+Remmel Mountain|48.923|-120.197|US|Washington|49|f
+Remote Mountain|51.466|-125.520|CA|British Columbia|49|f
+Rembrandttoren|52.345|4.917|NL|North Holland|40|f
+Remetalk Point|-62.549|-60.683|AQ||40|f
+Remi Lake|49.429|-82.153|CA|Ontario|40|f
+Remington Hill|39.298|-120.777|US|California|40|f
 Remanso|-2.408|-71.177|PE|Loreto|0
 Remas|40.886|19.511|AL|Fier County|0
 Rembang|-6.707|111.350|ID|Central Java|0
+Rembes|-6.904|112.136|ID|East Java|0
+Rembun|-8.194|112.712|ID|East Java|0
+Remen|-6.774|111.963|ID|East Java|0
 Remenham|51.552|-0.891|GB|England|0
 Rémire|4.886|-52.279|GF|Guyane|0
+Rempe|-8.647|116.866|ID|West Nusa Tenggara|0
+Rempungtimur Utara|-8.612|116.499|ID|West Nusa Tenggara|0

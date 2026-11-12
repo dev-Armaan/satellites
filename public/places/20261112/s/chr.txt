@@ -1,18 +1,24 @@
 Christchurch|-43.533|172.633|NZ|Canterbury|112
 Chrzanów|50.135|19.402|PL|Lesser Poland|92
 Christchurch|50.736|-1.781|GB|England|90
+Christchurch International Airport|-43.489|172.532|NZ|Canterbury|90|f
+Chrysler Building|40.751|-73.976|US|New York|90|f
 Christiana|-27.914|25.161|ZA|North West|88
 Chrudim|49.951|15.796|CZ|Pardubice Region|87
 Chrang Chamreh Muoy|11.630|104.885|KH|Phnom Penh|87
+Christmas Island Airport|-10.451|105.690|CX||87|f
 Christiansburg|37.130|-80.409|US|Virginia|87
 Christopher-Champlain|43.347|-80.302|CA|Ontario|84
+Christiansborg Palace|55.676|12.580|DK|Capital Region|80|f
 Christianshavn|55.674|12.595|DK|Capital Region|80
 Christiana|35.710|-86.399|US|Tennessee|80
 Chrysoúpolis|40.986|24.694|GR|East Macedonia and Thrace|79
+Christoffelberg|12.337|-69.123|CW||78|f
 Chrastava|50.817|14.969|CZ|Liberec Region|76
 Chropyně|49.356|17.365|CZ|Zlín|74
 Chrissiesmeer|-26.280|30.214|ZA|Mpumalanga|74
 Christ Church|13.087|-59.524|BB||74|r
+Christ Church Newgate|51.516|-0.099|GB|England|71|f
 Chrzanów|50.773|22.604|PL|Lublin|71
 Chrast|49.902|15.934|CZ|Pardubice Region|70
 Chrlice|49.132|16.654|CZ|South Moravian|70
@@ -20,15 +26,20 @@ Chróścice|50.781|17.812|PL|Opole Voivodeship|70
 Christiansfeld|55.358|9.487|DK|South Denmark|69
 Chryston|55.903|-4.108|GB|Scotland|69
 Christopher|37.973|-89.053|US|Illinois|69
-Christ Church Nichola Town|17.350|-62.767|KN||66|r
+Christ Church Nichola Town|17.350|-62.767|KN||69|r
 Chrást|49.793|13.494|CZ|Plzeň Region|66
 Christiansted|17.747|-64.706|VI|Saint Croix Island|65
+Christine Lake|44.630|-71.406|US|New Hampshire|65|f
 Chrysochóri|40.933|24.711|GR|East Macedonia and Thrace|65
 Chróścina|50.623|17.369|PL|Opole Voivodeship|65
 Chruszczobród|50.415|19.327|PL|Silesia|64
 Chrościna|50.666|17.818|PL|Opole Voivodeship|64
 Chrysó|41.058|23.651|GR|Central Macedonia|64
 Christmas Island|-10.500|105.667|CX||64|c
+Christchurch Castle|50.733|-1.775|GB|England|63|f
+Christian Island|44.833|-80.200|CA|Ontario|63|f
+Christian IV Gletscher|68.917|-30.500|GL|Sermersooq|63|f
+Chrome Island|49.472|-124.685|CA|British Columbia|63|f
 Chřibská|50.861|14.484|CZ|Ústí nad Labem Region|63
 Chrenovec-Brusno|48.779|18.727|SK|Trenčín Region|63
 Christina Lake|49.040|-118.208|CA|British Columbia|62
@@ -44,5 +55,75 @@ Chrysochórafa|41.181|23.236|GR|Central Macedonia|60
 Chrysavgí|40.765|23.081|GR|Central Macedonia|60
 Christazhofen|47.723|9.965|DE|Baden-Wurttemberg|60
 Chrzypsko Wielkie|52.628|16.229|PL|Greater Poland|59
+Chrasť nad Hornádom|48.927|20.695|SK|Košice Region|59
+Chrysiída|39.590|19.897|GR|Ionian Islands|59
+Chrouy Pras|11.354|103.097|KH|Koh Kong|59
+Chrysomiliá|39.607|21.501|GR|Thessaly|59
+Christow|50.653|-3.647|GB|England|58
+Chřiby|49.167|17.333|CZ|Zlín|58|f
+Christensen Glacier|-54.446|3.351|BV||58|f
+Christensen Stadium|32.038|-102.088|US|Texas|58|f
+Christiania Islands|-63.974|-61.458|AQ||58|f
+Christine Lake|47.736|-90.729|US|Minnesota|58|f
+Christines Hill|40.614|-75.255|US|Pennsylvania|58|f
+Christopher Columbus Memorial Fountain|38.896|-77.006|US|District of Columbia|58|f
+Chrášťany|49.296|14.388|CZ|South Bohemian Region|57
+Christes|50.667|10.483|DE|Thuringia|57
+Chróścina|51.744|16.540|PL|Lower Silesia|56
+Chrášťany|50.065|14.930|CZ|Central Bohemia|56
+Chrissó|38.474|22.468|GR|Central Greece|56
+Chromeč|49.934|16.894|CZ|Olomouc Region|55
+Chrysánthio|38.102|22.323|GR|West Greece|55
+Chrášťany|50.146|13.667|CZ|Central Bohemia|55
+Chrishall|52.034|0.106|GB|England|55
+Christian Malford|51.510|-2.055|GB|England|55
+Christ the Redeemer|-22.952|-43.211|BR|Rio de Janeiro|54|f
+Christensenfjella|77.966|13.947|SJ|Svalbard|54|f
+Christiaensen Glacier|-71.533|35.617|AQ||54|f
+Christie Island|9.630|97.973|MM|Tanintharyi Region|54|f
+Christmas Creek Airport|-18.872|125.937|AU|Western Australia|54|f
+Christmas Creek Mine|-22.396|119.725|AU|Western Australia|54|f
+Christmas Mountains|29.433|-103.442|US|Texas|54|f
+Christmas Valley Airport|43.236|-120.670|US|Oregon|54|f
+Christoffersen Island|-60.733|-45.050|AQ||54|f
+Chrysler Museum of Art|36.856|-76.292|US|Virginia|54|f
+Christoúpoli|37.978|23.918|GR|Attica|54
+Christiansburg|40.055|-84.026|US|Ohio|54
+Christoval|31.194|-100.499|US|Texas|54
+Chrząstowice|50.346|19.681|PL|Lesser Poland|54
 Chrostkowo|52.944|19.253|PL|Kujawsko-Pomorskie|50
+Christiansholm|54.317|9.417|DE|Schleswig-Holstein|49
+Christensen, Mount|-67.967|47.867|AQ||49|f
+Christi, Mount|-62.910|-62.402|AQ||49|f
+Christie Park|-33.765|151.118|AU|New South Wales|49|f
+Christie Peaks|-71.248|-67.381|AQ||49|f
+Christine Island|-64.795|-64.024|AQ||49|f
+Christmas Island|-39.680|143.820|AU|Tasmania|49|f
+Christophersen Glacier|-54.407|-36.793|GS||49|f
+Chrachenhorn|46.688|9.814|CH|Grisons|40|f
+Chratzerengrat|46.971|8.901|CH|Schwyz|40|f
+Christchurch Botanic Gardens|-43.530|172.620|NZ|Canterbury|40|f
+Christchurch Park|52.063|1.156|GB|England|40|f
+Christelijke Hogeschool Ede|52.020|5.663|NL|Gelderland|40|f
+Christian C Sanderson Museum|39.872|-75.591|US|Pennsylvania|40|f
+Christian Peak|51.943|-117.100|CA|Alberta|40|f
+Christian Pond|43.877|-110.566|US|Wyoming|40|f
+Christiansted National Historic Site|17.747|-64.707|VI|Saint Croix Island|40|f
+Christie Memorial Park|49.350|-119.569|CA|British Columbia|40|f
+Christina Lake|51.241|-92.000|CA|Ontario|40|f
+Christina Lake|55.623|-110.878|CA|Alberta|40|f
+Christina Lake|27.951|-81.967|US|Florida|40|f
+Christina Lake Park|49.050|-118.219|CA|British Columbia|40|f
+Christina Range|49.500|-118.336|CA|British Columbia|40|f
+Christine Lake|52.884|-118.248|CA|Alberta|40|f
+Christmas Island|45.976|-60.750|CA|Nova Scotia|40|f
+Christmas Knob|43.058|-75.384|US|New York|40|f
+Christmas Lake|44.897|-93.543|US|Minnesota|40|f
+Christopher Columbus Museum|41.654|-4.718|ES|Castille and León|40|f
+Christopher Hall Island|64.484|-65.014|CA|Nunavut|40|f
+Christopher Lake|53.567|-105.834|CA|Saskatchewan|40|f
+Christy Glacier|-86.100|-161.500|AQ||40|f
+Chrüz|46.955|9.775|CH|Grisons|40|f
+Chrüzlistock|46.715|8.741|CH|Grisons|40|f
 Christiansø|55.320|15.187|DK|Capital Region|39
+Christinenthal|54.050|9.533|DE|Schleswig-Holstein|0

@@ -10,6 +10,7 @@ Gladbeck|51.571|6.986|DE|North Rhine-Westphalia|98
 Glen Burnie|39.163|-76.625|US|Maryland|97
 Głogów|51.664|16.084|PL|Lower Silesia|96
 Glogovac|42.628|20.894|XK|Pristina|95
+Glasgow Airport|55.872|-4.433|GB|Scotland|94|f
 Glendora|34.136|-117.865|US|California|94
 Glenview|42.070|-87.788|US|Illinois|94
 Gladstone|-23.849|151.258|AU|Queensland|93
@@ -19,12 +20,14 @@ Glendale|40.701|-73.887|US|New York|91
 Glendale Heights|41.915|-88.065|US|Illinois|91
 Gligbeuadji|5.200|-6.700|CI|Bas-Sassandra District|90
 Glastonbury|41.712|-72.608|US|Connecticut|90
+Glacier National Park|48.683|-113.800|US|Montana|90|f
 Glenfield-Jane Heights|43.746|-79.513|CA|Ontario|90
 Glória do Goitá|-8.002|-35.293|BR|Pernambuco|90
 Gloucester|42.614|-70.663|US|Massachusetts|89
 Glenville|42.929|-74.052|US|New York|89
 Glen Ellyn|41.878|-88.067|US|Illinois|89
 Glen Cove|40.862|-73.634|US|New York|89
+Glacier Bay National Park and Preserve|58.501|-137.001|US|Alaska|89|f
 Gladstone|39.204|-94.555|US|Missouri|89
 Glen Iris|-37.867|145.067|AU|Victoria|88
 Glan|5.824|125.203|PH|Soccsksargen|88
@@ -45,6 +48,7 @@ Glanerbrug|52.216|6.971|NL|Overijssel|85
 Glen Parva|52.585|-1.171|GB|England|85
 Glace Bay|46.197|-59.957|CA|Nova Scotia|85
 Glenvar Heights|25.708|-80.326|US|Florida|85
+Glarus Alps|46.833|9.000|CH|Glarus|84|f
 Glinde|53.540|10.213|DE|Schleswig-Holstein|84
 Glenwood|-33.733|150.933|AU|New South Wales|84
 Glória|-9.338|-38.255|BR|Bahia|84
@@ -55,6 +59,7 @@ Glen Allen|37.666|-77.506|US|Virginia|83
 Glasgow|36.996|-85.912|US|Kentucky|83
 Glasgow|39.605|-75.745|US|Delaware|83
 Glens Falls|43.310|-73.644|US|New York|83
+Glasgow Rangers|55.853|-4.309|GB|Scotland|83|f
 Głubczyce|50.201|17.829|PL|Opole Voivodeship|83
 Glenmont|39.058|-77.050|US|Maryland|83
 Glenn Dale|38.988|-76.821|US|Maryland|83
@@ -69,6 +74,7 @@ Glen Rock|40.963|-74.133|US|New Jersey|82
 Gladstone|45.381|-122.595|US|Oregon|82
 Glen Cairn|45.293|-75.880|CA|Ontario|81
 Glenharvie|-26.390|27.616|ZA|Gauteng|81
+Glacier Park International Airport|48.311|-114.256|US|Montana|81|f
 Gladesville|-33.833|151.133|AU|New South Wales|81
 Gladeview|25.839|-80.236|US|Florida|81
 Glebe|-33.879|151.184|AU|New South Wales|81
@@ -76,6 +82,7 @@ Glenwood|49.273|-122.780|CA|British Columbia|81
 Gloucester City|39.893|-75.120|US|New Jersey|81
 Glubokiy|48.527|40.331|RU|Rostov|81
 Glubokoye|50.139|82.311|KZ|East Kazakhstan|81
+Gloucestershire Airport|51.894|-2.164|GB|England|81|f
 Glenorchy|-42.833|147.276|AU|Tasmania|81
 Gland|46.421|6.270|CH|Vaud|81
 Glodeni|47.775|27.518|MD|Glodeni|80
@@ -88,6 +95,7 @@ Glenwood|41.543|-87.602|US|Illinois|79
 Glenshaw|40.533|-79.968|US|Pennsylvania|79
 Glen Cairn|46.117|-64.850|CA|New Brunswick|79
 Glencoe|42.135|-87.758|US|Illinois|79
+Glamis Castle|56.617|-3.000|GB|Scotland|79|f
 Glastonbury|51.147|-2.721|GB|England|79
 Glanmire|51.916|-8.400|IE|Munster|79
 Gleizé|45.989|4.697|FR|Auvergne-Rhône-Alpes|79
@@ -99,6 +107,8 @@ Glover Park|38.921|-77.077|US|District of Columbia|78
 Glusk|52.902|28.683|BY|Mogilev|78
 Glen Ridge|40.805|-74.204|US|New Jersey|78
 Glorinha|-29.881|-50.783|BR|Rio Grande do Sul|78
+Gladesville Bridge|-33.843|151.148|AU|New South Wales|78|f
+Glasgow Municipal Airport|37.032|-85.953|US|Kentucky|78|f
 Glusburn|53.900|-2.000|GB|England|77
 Globe|33.394|-110.787|US|Arizona|77
 Glastonbury Center|41.701|-72.600|US|Connecticut|77
@@ -114,6 +124,7 @@ Glanié|7.759|-8.081|CI|Montagnes|76
 Gloleu|7.129|-7.769|CI|Montagnes|76
 Gladewater|32.537|-94.943|US|Texas|76
 Gleisdorf|47.106|15.710|AT|Styria|76
+Glorioso Islands|-11.548|47.339|TF|Îles Éparses|76|f
 Glenarden|38.929|-76.862|US|Maryland|76
 Glücksburg|54.835|9.552|DE|Schleswig-Holstein|76
 Gloria|12.983|121.467|PH|Mimaropa|76
@@ -140,6 +151,8 @@ Gladstone|45.853|-87.022|US|Michigan|74
 Glendora|39.840|-75.074|US|New Jersey|74
 Gloggnitz|47.675|15.939|AT|Lower Austria|73
 Glen Head|40.835|-73.624|US|New York|73
+Glacier Peak|48.111|-121.114|US|Washington|73|f
+Glanford Park|53.587|-0.695|GB|England|73|f
 Glodeanu-Sărat|44.867|26.650|RO|Buzău County|73
 Glaou|6.626|-7.370|CI|Montagnes|73
 Glashütte|50.852|13.780|DE|Saxony|73
@@ -160,6 +173,7 @@ Glăvăneşti|46.250|27.383|RO|Bacău County|72
 Glodeni|46.650|24.600|RO|Mureș County|71
 Glan Peidu|5.855|125.219|PH|Soccsksargen|71
 Gldani|41.822|44.830|GE|Tbilisi|71
+Glaronísi|36.917|25.605|GR|South Aegean|71|f
 Glasnevin|53.379|-6.280|IE|Leinster|71
 Glavice|43.712|16.662|HR|Split-Dalmatia|71
 Glubokiy|44.947|41.018|RU|Krasnodar Krai|71
@@ -200,6 +214,9 @@ Glatten|48.442|8.511|DE|Baden-Wurttemberg|67
 Glenville|41.035|-73.660|US|Connecticut|67
 Glenmavis|55.889|-3.987|GB|Scotland|67
 Glumsø|55.357|11.686|DK|Zealand|67
+Glass Mountain|37.775|-118.708|US|California|67|f
+Glass Mountains|36.354|-98.585|US|Oklahoma|67|f
+Glockturm|46.893|10.666|AT|Tyrol|67|f
 Glavinitsa|43.917|26.833|BG|Silistra|67
 Glapwell|53.189|-1.283|GB|England|67
 Glendale|41.397|-81.542|US|Ohio|67
@@ -225,6 +242,12 @@ Glen Lyon|41.175|-76.075|US|Pennsylvania|65
 Gladstone Central|-23.843|151.249|AU|Queensland|65
 Gleneagle|-27.933|152.983|AU|Queensland|65
 Glimboca|45.483|22.317|RO|Caraș-Severin County|65
+Gladwin Zettel Memorial Airport|43.974|-84.478|US|Michigan|65|f
+Glastenbury Mountain|42.978|-73.071|US|Vermont|65|f
+Glencoe Municipal Airport|44.756|-94.081|US|Minnesota|65|f
+Gleouraich|57.097|-5.238|GB|Scotland|65|f
+Globe Arena|54.061|-2.868|GB|England|65|f
+Gluggarnir|61.550|-6.867|FO|Suðuroy|65|f
 G. L. Garcia|18.127|-66.104|PR|Cayey|65
 Glouster|39.503|-82.085|US|Ohio|65
 Glide|43.302|-123.101|US|Oregon|65
@@ -243,6 +266,15 @@ Glendale|39.949|-80.754|US|West Virginia|64
 Glen Alpine|35.729|-81.779|US|North Carolina|64
 Głuchów|50.082|22.271|PL|Subcarpathia|64
 Glenmore|-33.132|26.875|ZA|Eastern Cape|63
+Gladstone Airport|-23.869|151.220|AU|Queensland|63|f
+Glænø|55.195|11.434|DK|Zealand|63|f
+Glas Maol|56.873|-3.368|GB|Scotland|63|f
+Glaskopf|50.218|8.417|DE|Hesse|63|f
+Glenair Airport|39.269|-77.005|US|Maryland|63|f
+Glennies Creek Dam|-32.349|151.251|AU|New South Wales|63|f
+Glentanner Airport|-43.914|170.129|NZ|Canterbury|63|f
+Glinyanii Island|39.950|49.482|AZ|Baki|63|f
+Glorieta de Bilbao|40.429|-3.702|ES|Madrid|63|f
 Glimåkra|56.300|14.133|SE|Skåne|63
 Glade Spring|36.791|-81.771|US|Virginia|63
 Gleason|36.214|-88.613|US|Tennessee|63
@@ -263,6 +295,19 @@ Glenmore|44.386|-87.927|US|Wisconsin|61
 Glött|48.500|10.483|DE|Bavaria|61
 Glareu|6.673|-8.272|CI|Montagnes|61
 Glidden|42.057|-94.729|US|Iowa|61
+Glacier d'Argentière|45.946|6.993|FR|Auvergne-Rhône-Alpes|61|f
+Gladstone Peak|37.845|-107.984|US|Colorado|61|f
+Glan|58.617|15.967|SE|Östergötland|61|f
+Glas Tulaichean|56.866|-3.558|GB|Scotland|61|f
+Glassford Peak|43.912|-114.481|US|Idaho|61|f
+Glenn Cunningham Lake|41.350|-96.054|US|Nebraska|61|f
+Glittertind|61.651|8.557|NO|Innlandet|61|f
+Glockenkarkopf|47.083|12.200|IT|Trentino-Alto Adige|61|f
+Glödis|46.961|12.726|AT|Tyrol|61|f
+Gloppen|61.803|6.112|NO|Vestland|61|f
+Glory of Russia Cape|60.604|-172.915|US|Alaska|61|f
+Glösa|63.383|14.017|SE|Jämtland|61|f
+Glyder Fach|53.105|-4.008|GB|Wales|61|f
 Glasgow|37.634|-79.450|US|Virginia|61
 Glasgow|39.227|-92.847|US|Missouri|61
 Glyncorrwg|51.679|-3.628|GB|Wales|61
@@ -281,17 +326,323 @@ Glowe|54.569|13.466|DE|Mecklenburg-Vorpommern|60
 Gleinstätten|46.754|15.370|AT|Styria|60
 Glandorf|41.029|-84.079|US|Ohio|60
 Glasford|40.573|-89.813|US|Illinois|60
+Glogovac|44.042|21.313|RS|Central Serbia|60
 Głuchów|51.779|20.077|PL|Łódź Voivodeship|60
+Glogovac|44.863|19.415|RS|Central Serbia|60
+Glóssa|39.175|23.616|GR|Thessaly|60
+Glasau|54.050|10.517|DE|Schleswig-Holstein|60
+Glenvar|37.274|-80.134|US|Virginia|60
+Gliganu de Sus|44.658|25.003|RO|Arges|60
+Glenrowan|-36.463|146.224|AU|Victoria|60
+Gleißenberg|49.317|12.733|DE|Bavaria|60
+Glenburn|41.524|-75.724|US|Pennsylvania|60
+Glimes|50.680|4.837|BE|Wallonia|60
+Gladstone|-41.083|175.650|NZ|Wellington Region|59
+Gledhow|-35.006|117.827|AU|Western Australia|59
+Glenden|-21.354|148.115|AU|Queensland|59
+Glodé|7.065|-7.405|CI|Montagnes|59
+Glenwillow|41.362|-81.470|US|Ohio|59
+Glisolles|48.985|1.018|FR|Normandy|59
+Glos|49.122|0.281|FR|Normandy|59
+Glinka|49.463|19.162|PL|Silesia|59
+Glasin|53.912|11.737|DE|Mecklenburg-Vorpommern|59
+Gloster|31.197|-91.022|US|Mississippi|59
+Glogoveanu|44.485|25.346|RO|Dâmbovița County|59
+Gleina|51.258|11.720|DE|Saxony-Anhalt|59
+Gladbrook|42.188|-92.715|US|Iowa|59
+Globu Craiovei|44.995|22.271|RO|Caraș-Severin County|59
+Glendale|42.736|-123.423|US|Oregon|59
+Glasgow|38.215|-81.425|US|West Virginia|59
+Glénac|47.727|-2.133|FR|Brittany|59
+Glenore Grove|-27.533|152.400|AU|Queensland|59
+Glaire|49.717|4.917|FR|Grand Est|59
+Glenreagh|-30.053|152.979|AU|New South Wales|59
+Glendale|-23.258|150.471|AU|Queensland|59
+Glisno|52.476|15.242|PL|Lubusz|59
+Gleiszellen-Gleishorbach|49.126|8.006|DE|Rheinland-Pfalz|59
 Glorenza|46.671|10.557|IT|Trentino-Alto Adige|58
+Glâmbocelu|44.840|25.140|RO|Arges|58
+Glégouiné|7.252|-7.530|CI|Montagnes|58
+Glenochil Village|56.141|-3.814|GB|Scotland|58
+Glenties|54.797|-8.283|IE|Ulster|58
+Glandon|45.480|1.226|FR|New Aquitaine|58
+Glas Bheinn Mhor|56.542|-5.005|GB|Scotland|58|f
+Glasgow International Airport|48.212|-106.615|US|Montana|58|f
+Glassy Mountain|34.901|-82.659|US|South Carolina|58|f
+Glen Canyon Dam|36.937|-111.484|US|Arizona|58|f
+Glen Canyon National Recreation Area|37.516|-110.774|US|Utah|58|f
+Glen Charlie Pond|41.792|-70.647|US|Massachusetts|58|f
+Glendale Municipal Airport|33.527|-112.296|US|Arizona|58|f
+Glendalough Upper Lake|53.005|-6.359|IE|Leinster|58|f
+Global University Bangladesh|22.713|90.349|BD|Barisal Division|58|f
+Gloucester and Sharpness Canal|51.726|-2.481|GB|England|58|f
+Glăvănești|47.553|27.270|RO|Iași County|58
+Glen Ellen|38.364|-122.524|US|California|58
+Głowaczów|51.623|21.318|PL|Mazovia|58
+Glanshammar|59.317|15.400|SE|Örebro|58
+Glasgow|5.917|-56.917|SR|Nickerie District|58
+Glenfarg|56.280|-3.400|GB|Scotland|58
+Glogovac|46.116|16.874|HR|Koprivnica-Križevci|58
+Glasgow|43.435|-124.211|US|Oregon|58
+Gladau|52.304|12.091|DE|Saxony-Anhalt|58
+Glabais|50.631|4.453|BE|Wallonia|57
+Glen Ullin|46.815|-101.830|US|North Dakota|57
+Glenwood|48.983|-54.881|CA|Newfoundland and Labrador|57
+Glenwood|32.180|-82.670|US|Georgia|57
+Gladstone|-33.267|138.357|AU|South Australia|57
+Gledin|46.960|24.709|RO|Bistrița-Năsăud County|57
+Głębokie|49.546|21.910|PL|Subcarpathia|57
+Gletterens|46.895|6.937|CH|Fribourg|57
+Glenealy|52.962|-6.157|IE|Leinster|57
+Gleiritsch|49.497|12.315|DE|Bavaria|57
+Glommen|57.933|12.350|SE|Halland|57
+Glorieta|25.803|-103.352|MX|Durango|57
+Glebitzsch|51.596|12.191|DE|Saxony-Anhalt|57
+Glidden|29.701|-96.586|US|Texas|56
+Glâmbocu|44.894|24.793|RO|Arges|56
+Glen Huon|-43.033|146.967|AU|Tasmania|56
+Glodeni|45.082|23.463|RO|Gorj County|56
+Glewitz|54.020|12.925|DE|Mecklenburg-Vorpommern|56
+Glinka|45.285|33.534|UA|Crimea|56
+Glassford|55.700|-4.029|GB|Scotland|56
+Glun|45.016|4.839|FR|Auvergne-Rhône-Alpes|56
+Gliganu de Jos|44.658|25.036|RO|Arges|56
+Glenville|43.572|-93.281|US|Minnesota|56
+Glencoe|-37.700|140.617|AU|South Australia|56
+Gleichenberg Dorf|46.883|15.900|AT|Styria|56
+Glâmbocata-Deal|44.782|25.178|RO|Arges|56
+Glífa|38.953|22.967|GR|Central Greece|56
+Glencoe|36.229|-96.926|US|Oklahoma|56
+Glénic|46.224|1.922|FR|New Aquitaine|56
+Glanworth|52.187|-8.357|IE|Munster|56
+Glebovskoe|56.650|38.700|RU|Yaroslavl Oblast|56
+Glenluce|54.879|-4.810|GB|Scotland|56
+Glinádo|37.071|25.402|GR|South Aegean|55
+Gleris|45.896|12.875|IT|Friuli Venezia Giulia|55
+Glenaire|39.221|-94.451|US|Missouri|55
+Glin|52.570|-9.283|IE|Munster|55
+Gloriavale Christian Church|-42.606|171.703|NZ|West Coast|55
+Glos-la-Ferrière|48.857|0.601|FR|Normandy|55
+Glees|50.433|7.250|DE|Rheinland-Pfalz|55
+Glayogouin|7.427|-7.443|CI|Montagnes|55
+Glisy|49.878|2.398|FR|Hauts-de-France|55
+Glenview|38.308|-85.650|US|Kentucky|55
+Glogleu|6.972|-8.076|CI|Montagnes|55
+Gloucester|34.726|-76.541|US|North Carolina|55
+Glil Yam|32.158|34.831|IL|Tel Aviv|55
+Gligorești|46.448|23.976|RO|Cluj County|55
+Gleisweiler|49.242|8.069|DE|Rheinland-Pfalz|54
+Glénay|46.860|-0.252|FR|New Aquitaine|54
+Glínos|39.512|21.865|GR|Thessaly|54
+Glaciar Chuspiccocha|-10.381|-76.731|PE|Huánuco Department|54|f
+Glacier d'Otemma|45.951|7.447|CH||54|f
+Glade Mountain|34.997|-83.134|US|Georgia|54|f
+Glandaz Point|-65.091|-63.959|AQ||54|f
+Glanum|43.774|4.833|FR|Provence-Alpes-Côte d'Azur|54|f
+Glärnisch|46.999|8.998|CH|Glarus|54|f
+Glas Bheinn|58.193|-4.971|GB|Scotland|54|f
+Glass Buttes|43.558|-120.072|US|Oregon|54|f
+Glassy Mountain|34.846|-83.500|US|Georgia|54|f
+Glaswaldsee|48.426|8.261|DE|Baden-Wurttemberg|54|f
+Glauber Rocha Airport|-14.915|-40.906|BR|Bahia|54|f
+Glazunov Glacier|-72.417|-71.617|AQ||54|f
+Gleaner Heights|-62.574|-60.236|AQ||54|f
+Glen Innes Airport|-29.675|151.689|AU|New South Wales|54|f
+Glen Peak|-66.777|-67.374|AQ||54|f
+Glenbawn Dam|-32.099|150.985|AU|New South Wales|54|f
+Glencar Lough|54.341|-8.387|IE||54|f
+Glendo State Park|42.556|-104.983|US|Wyoming|54|f
+Glenhalvøya|80.320|24.424|SJ|Svalbard|54|f
+Glenmere Lake|41.326|-74.335|US|New York|54|f
+Glesne Lake|45.363|-95.189|US|Minnesota|54|f
+Gletscher Ducan|46.675|9.830|CH|Grisons|54|f
+Glimps Holm|58.876|-2.917|GB|Scotland|54|f
+Glitrefonna Glacier|-71.950|25.550|AQ||54|f
+Gloška Planina|42.529|22.378|RS|Central Serbia|54|f
+Gluvreklett Glacier|-72.233|2.583|AQ||54|f
+Gluvrekletten Peak|-72.200|2.533|AQ||54|f
+Glyder Fawr|53.100|-4.030|GB|Wales|54|f
+Glen Park|44.001|-75.966|US|New York|54
+Glentham|53.400|-0.495|GB|England|54
+Glidden|46.135|-90.579|US|Wisconsin|54
+Glavnica Donja|45.941|16.145|HR|Zagreb|54
+Glod|47.290|23.652|RO|Sălaj County|54
+Gladbach|49.933|6.767|DE|Rheinland-Pfalz|51
 Glödnitz|46.874|14.119|AT|Carinthia|50
 Gladstad|65.677|11.962|NO|Nordland|50
 Glinzendorf|48.246|16.641|AT|Lower Austria|49
 Globasnitz|46.557|14.703|AT|Carinthia|49
+Glacier des Bossons|45.880|6.864|FR|Auvergne-Rhône-Alpes|49|f
+Glacier Noir|44.917|6.383|FR|Provence-Alpes-Côte d'Azur|49|f
+Glacier Ridge|-77.583|167.267|AQ||49|f
+Gladhouse Reservoir|55.767|-3.117|GB|Scotland|49|f
+Glainach-Ferlach Airport|46.534|14.332|AT|Carinthia|49|f
+Glammsee|53.794|11.704|DE|Mecklenburg-Vorpommern|49|f
+Glamoč Airport|44.085|16.819|BA|Federation of B&H|49|f
+Glamorganshire Canal|51.750|-3.383|GB|Wales|49|f
+Glanmore Lake|51.744|-9.776|IE|Munster|49|f
+Glas Bheinn|56.736|-4.848|GB|Scotland|49|f
+Glasfelderkopf|47.400|10.433|AT||49|f
+Glasgal Island|-66.198|110.381|AQ||49|f
+Glashedy Island|55.319|-7.401|IE|Ulster|49|f
+Glass House Mountains|-26.912|152.922|AU|Queensland|49|f
+Glass House Mountains National Park|-26.926|152.945|AU|Queensland|49|f
+Glass Point|-61.942|-58.152|AQ||49|f
+Glauert Island|-15.059|124.973|AU|Western Australia|49|f
+Glavica|44.414|17.718|BA|Srpska|49|f
+Gleadell, Mount|-66.950|50.450|AQ||49|f
+Gleaton, Mount|-72.183|168.450|AQ||49|f
+Glebe Park|-34.465|150.418|AU|New South Wales|49|f
+Glebe Park|-35.282|149.136|AU|Australian Capital Territory|49|f
+Glebe Park|56.735|-2.656|GB|Scotland|49|f
+Glee Glacier|-78.267|163.000|AQ||49|f
+Gleeson, Mount|-71.238|66.093|AQ||49|f
+Glen Alpine Dam|-23.209|28.683|ZA|Limpopo|49|f
+Glen Glacier|-80.700|-25.333|AQ||49|f
+Glen Lough|55.109|-7.840|IE|Ulster|49|f
+Glen Park|-36.060|146.912|AU|New South Wales|49|f
+Glenade Lough|54.367|-8.272|IE|Connacht|49|f
+Glenbeg Lough|51.721|-9.873|IE|Munster|49|f
+Glenbrook Lagoon|-33.757|150.616|AU|New South Wales|49|f
+Glenelg Oval|-34.984|138.522|AU|South Australia|49|f
+Glenicmurrin Lough|53.324|-9.504|IE|Connacht|49|f
+Glenluce Abbey|54.883|-4.833|GB|Scotland|49|f
+Glenlyon Dam|-28.983|151.467|AU|Queensland|49|f
+Glenmore Bay|56.683|-5.933|GB|Scotland|49|f
+Glenrock Lagoon|-32.962|151.734|AU|New South Wales|49|f
+Glenugie Peak|-29.832|153.064|AU|New South Wales|49|f
+Glenuig Bay|56.833|-5.833|GB|Scotland|49|f
+Glenveagh Castle|55.037|-7.966|IE|Ulster|49|f
+Glenveagh National Park|55.007|-8.002|IE|Ulster|49|f
+Glenwood Bridge|40.398|-79.934|US|Pennsylvania|49|f
+Glenzer Glacier|-65.967|103.267|AQ||49|f
+Glezen Glacier|-76.533|162.300|AQ||49|f
+Glimmer Glass Bridge|40.112|-74.044|US|New Jersey|49|f
+Glimpse Glacier|-78.267|162.767|AQ||49|f
+Glinka Islands|-69.531|-72.233|AQ||49|f
+Gliwice Radio Tower|50.313|18.689|PL|Silesia|49|f
+Glog|43.895|18.505|BA|Srpska|49|f
+Glopeneset|-72.167|10.000|AQ||49|f
+Glory Mountain|48.432|-120.980|US|Washington|49|f
+Gloucester National Park|-34.454|116.054|AU|Western Australia|49|f
+Gloucester Tops|-32.095|151.597|AU|New South Wales|49|f
+Gloup Holm|60.750|-1.117|GB|Scotland|49|f
+Glover Rocks|-67.767|-68.919|AQ||49|f
+Gluck Peak|-71.710|-72.687|AQ||49|f
+Glungezer|47.200|11.533|AT|Tyrol|49|f
 Glanegg|46.723|14.199|AT|Carinthia|48
 Glanica|42.549|21.063|XK|Pristina|48
+Glasehausen|51.442|10.152|DE|Thuringia|45
+G Lake|43.414|-74.632|US|New York|40|f
+Glacial Lakes State Park|45.537|-95.522|US|Minnesota|40|f
+Glacial Ridge National Wildlife Refuge|47.710|-96.292|US|Minnesota|40|f
+Glacier Blanc|44.937|6.373|FR|Provence-Alpes-Côte d'Azur|40|f
+Glacier de Boveire|45.970|7.260|CH|Valais|40|f
+Glacier de Cheilon|46.006|7.418|CH|Valais|40|f
+Glacier de Corbassière|45.974|7.296|CH|Valais|40|f
+Glacier de Ferpècle|46.017|7.572|CH|Valais|40|f
+Glacier de la Plaine Morte|46.384|7.512|CH|Bern|40|f
+Glacier de Moiry|46.075|7.597|CH|Valais|40|f
+Glacier de Moming|46.081|7.679|CH|Valais|40|f
+Glacier de Saleina|45.969|7.040|CH|Valais|40|f
+Glacier de Tsanfleuron|46.320|7.225|CH|Valais|40|f
+Glacier de Tsijiore Nouve|46.001|7.455|CH|Valais|40|f
+Glacier de Valsorey|45.901|7.264|CH|Valais|40|f
+Glacier de Zinal|46.065|7.636|CH|Valais|40|f
+Glacier des Diablerets|46.308|7.199|CH|Valais|40|f
+Glacier du Brenay|45.958|7.425|CH|Valais|40|f
+Glacier du Mont Durand|45.922|7.324|CH|Valais|40|f
+Glacier du Mont Miné|46.004|7.552|CH|Valais|40|f
+Glacier du Trient|46.008|7.026|CH|Valais|40|f
+Glacier Lake|46.021|-78.579|CA|Ontario|40|f
+Glacier Lake|51.921|-116.859|CA|Alberta|40|f
+Glacier Lake|43.943|-115.131|US|Idaho|40|f
+Glacier Peak|51.351|-116.285|CA|Alberta|40|f
+Glacier Peak|45.150|-109.849|US|Montana|40|f
+Glacier Pikes|49.883|-122.969|CA|British Columbia|40|f
+Gladsheim Peak|49.783|-117.636|CA|British Columbia|40|f
+Glamaig - Sgurr Mhairi|57.293|-6.129|GB|Scotland|40|f
+Glaser Grat|46.683|9.334|CH|Grisons|40|f
+Glasgow Industrial Airport|48.414|-106.524|US|Montana|40|f
+Glasgow Island|62.768|-69.769|CA|Nunavut|40|f
+GLASGOW RANGE|-41.608|172.060|NZ|Nelson Region|40|f
+Glaslyn|53.070|-4.066|GB|Wales|40|f
+Glass Bowl Stadium|41.657|-83.614|US|Ohio|40|f
+Glass Peninsula|57.831|-133.989|US|Alaska|40|f
+Glattalpsee|46.919|8.904|CH|Schwyz|40|f
+Glatthorn|47.265|9.880|AT|Vorarlberg|40|f
+Glattwang|46.881|9.714|CH|Grisons|40|f
+Glazer Children's Museum|27.950|-82.461|US|Florida|40|f
+Gleaston Castle|54.134|-3.132|GB|England|40|f
+Glegghorn|47.036|9.576|CH|Grisons|40|f
+Gleinkersee|47.688|14.294|AT|Upper Austria|40|f
+Glen Canyon Park|37.742|-122.445|US|California|40|f
+Glen Echo Park|38.968|-77.140|US|Maryland|40|f
+Glen Helen Nature Preserve|39.799|-83.883|US|Ohio|40|f
+Glen Helen Regional Park|34.205|-117.404|US|California|40|f
+Glen Island|68.401|-85.749|CA|Nunavut|40|f
+Glen Island Park|40.885|-73.784|US|New York|40|f
+Glen Lake|44.869|-85.976|US|Michigan|40|f
+Glen Oak Zoo|40.717|-89.575|US|Illinois|40|f
+Glen Park Municipal Swimming Pool|44.853|-92.633|US|Wisconsin|40|f
+Glenborrodale Bay|56.675|-5.907|GB|Scotland|40|f
+Glenbow Museum|51.045|-114.061|CA|Alberta|40|f
+Glencairn Museum|40.134|-75.063|US|Pennsylvania|40|f
+Glencorse Reservoir|55.862|-3.254|GB|Scotland|40|f
+Glendalough State Park|46.333|-95.667|US|Minnesota|40|f
+Glendhu Bay|-44.668|169.010|NZ|Otago|40|f
+Glendo Reservoir|42.480|-104.948|US|Wyoming|40|f
+Glendola Reservoir|40.194|-74.083|US|New Jersey|40|f
+Glenfield Park|40.804|-74.210|US|New Jersey|40|f
+Gleniffer Lake|52.026|-114.270|CA|Alberta|40|f
+Glenlyon Range|62.416|-134.337|CA|Yukon|40|f
+Glenmore Forest Park|57.177|-3.704|GB|Scotland|40|f
+Glenmore Park|31.444|-100.423|US|Texas|40|f
+Glenmore Reservoir|50.983|-114.135|CA|Alberta|40|f
+Glenn Lake|50.911|-94.623|CA|Ontario|40|f
+Glenns Lake|48.901|-113.794|US|Montana|40|f
+Glens Falls Feeder Canal|43.313|-73.587|US|New York|40|f
+Glenville Hill|42.916|-74.041|US|New York|40|f
+Glenville Truss Bridge|38.934|-80.839|US|West Virginia|40|f
+Gless Peak|-72.200|165.850|AQ||40|f
+Gletscherhorn|46.387|9.561|CH|Grisons|40|f
+Gletscherhorn|46.513|7.968|CH|Valais|40|f
+Glide Aero Airport|43.265|-123.110|US|Oregon|40|f
+Gliozzi Peak|-80.017|-81.517|AQ||40|f
+Glisan Glacier|45.391|-121.720|US|Oregon|40|f
+Glishorn|46.284|7.992|CH|Valais|40|f
+Gljúfrafoss|63.621|-19.988|IS|South|40|f
+Globe Flower Lake|49.687|-125.613|CA|British Columbia|40|f
+Glocknergruppe|47.075|12.694|AT|Carinthia|40|f
+Glogghüs|46.761|8.263|CH|Bern|40|f
+Gloriette|48.178|16.309|AT|Vienna|40|f
+Glottenham Castle|50.972|0.457|GB|England|40|f
+Gloucester Pool|44.845|-79.710|CA|Ontario|40|f
+Glover Island|48.767|-57.715|CA|Newfoundland and Labrador|40|f
+Glymur|64.396|-21.241|IS|West|40|f
+Glyndebourne Opera House|50.878|0.064|GB|England|40|f
 Glojach|46.867|15.667|AT|Styria|25
+Glagah Krajan|-8.218|114.311|ID|East Java|0
+Glagahan|-8.297|112.953|ID|East Java|0
+Glagahdowo|-8.018|112.736|ID|East Java|0
 Glagahwero|-8.177|113.619|ID|East Java|0
+Glaisdale|54.441|-0.809|GB|England|0
+Glanggang|-8.082|112.599|ID|East Java|0
+Glatik|-6.971|112.539|ID|East Java|0
 Glembochino|56.188|28.380|RU|Pskov Oblast|0
+Glempang Tengah|-7.580|109.166|ID|Central Java|0
+Glodokan|-8.127|111.910|ID|East Java|0
+Glondong|-6.792|111.892|ID|East Java|0
+Glonggong|-6.753|111.123|ID|Central Java|0
+Glooston|52.555|-0.896|GB|England|0
 Glória de Dourados|-22.416|-54.230|BR|Mato Grosso do Sul|0
+Glottertal|48.051|7.963|DE|Baden-Wurttemberg|0
 Glubokoye|56.609|29.021|RU|Pskov Oblast|0
+Gludug|-8.139|113.597|ID|East Java|0
+Glugu|-7.088|112.426|ID|East Java|0
+Glugur|-6.923|112.914|ID|East Java|0
+Glugur Krajan|-7.646|114.047|ID|East Java|0
+Glugur Tengah|-7.649|114.046|ID|East Java|0
 Glumbang|-3.239|104.437|ID|South Sumatra|0
+Glundengankrajan|-8.281|113.557|ID|East Java|0
+Glüsing|54.274|9.219|DE|Schleswig-Holstein|0

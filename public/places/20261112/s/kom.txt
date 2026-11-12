@@ -1,4 +1,4 @@
-Komi|64.125|54.792|RU||118|r
+Komi|64.125|54.792|RU||119|r
 Kom Ombo|24.477|32.946|EG|Aswan|112
 Komsomolsk-on-Amur|50.550|137.010|RU|Khabarovsk|109
 Komárom-Esztergom|47.583|18.333|HU||109|r
@@ -23,16 +23,21 @@ Komárom|47.743|18.119|HU|Komárom-Esztergom|85
 Komagome|35.739|139.741|JP|Tokyo|85
 Kommunar|59.621|30.390|RU|Leningradskaya Oblast'|85
 Kombai|9.847|77.296|IN|Tamil Nadu|84
+Komatsu Airport|36.395|136.407|JP|Ishikawa|84|f
 Kompalli|17.545|78.488|IN|Telangana|84
 Kompienga|11.082|0.724|BF|Est|84
 Komatsu|38.002|140.041|JP|Yamagata|83
 Komb-e Morādābād|25.284|60.698|IR|Sistan and Baluchestan|82
+Komodo Airport|-8.486|119.889|ID|East Nusa Tenggara|82|f
 Komusan Il-tong|42.110|129.699|KP|North Hamgyong|82
+Komandorski Islands|54.768|166.628|RU|Kamchatka|81|f
 Komsomol’skiy|54.445|45.831|RU|Mordoviya Republic|81
 Komyshova Bukhta|44.584|33.441|UA|Sevastopol City|80
 Komga|-32.577|27.892|ZA|Eastern Cape|80
 Komono|-3.277|13.226|CG|Lékoumou|79
 Komsomol’sk|57.029|40.376|RU|Ivanovo Oblast|79
+Komaga-dake|42.065|140.680|JP|Hokkaido|79|f
+Komsomolsk-on-Amur Airport|50.409|136.934|RU|Khabarovsk|78|f
 Komījān|34.721|49.327|IR|Markazi|77
 Komín|49.220|16.552|CZ|South Moravian|77
 Komarichi|52.421|34.798|RU|Bryansk Oblast|77
@@ -61,11 +66,16 @@ Kömür|37.868|38.430|TR|Adıyaman Province|69
 Komprachcice|50.637|17.826|PL|Opole Voivodeship|69
 Komsomol’skiy|43.978|46.699|RU|Dagestan|69
 Kommunar|54.348|89.283|RU|Khakasiya Republic|69
+Komitas State Conservatory of Yerevan|40.187|44.517|AM|Yerevan|69|f
 Kommunisticheskiy|61.679|64.482|RU|Khanty-Mansia|69
 Komorowice Śląskie|49.849|19.027|PL|Silesia|68
 Kombara Mangorasso|7.998|-4.563|CI|Vallée du Bandama District|68
 Komárov|49.806|13.856|CZ|Central Bohemia|68
 Komiékro|7.426|-4.063|CI|Lacs District|67
+Ko Mak|11.820|102.484|TH|Trat|67|f
+Ko Man Nok|12.569|101.700|TH|Rayong|67|f
+Komukai Dam|35.066|139.998|JP|Chiba|67|f
+Kōmyō Ji|35.303|139.555|JP|Kanagawa|67|f
 Komysh-Zorya|47.331|36.696|UA|Zaporizhzhia|67
 Kommeh|31.067|51.594|IR|Isfahan|67
 Komati|-26.095|29.461|ZA|Mpumalanga|67
@@ -75,6 +85,8 @@ Komyshnya|50.186|33.683|UA|Poltava|66
 Komjatná|49.147|19.244|SK|Žilina Region|66
 Komodo|-8.589|119.491|ID|East Nusa Tenggara|66
 Kominapla|7.812|-5.944|CI|Woroba|66
+Ko Mai Si Lek|11.956|102.494|TH|Trat|65|f
+Komagaksla|70.541|22.882|NO|Finnmark|65|f
 Komariv|48.561|26.989|UA|Chernivtsi|65
 Kombara Bambarassou|7.996|-4.559|CI|Vallée du Bandama District|65
 Komar|47.978|36.746|UA|Donetsk|65
@@ -94,14 +106,70 @@ Komarovo|60.187|29.809|RU|St. Petersburg|62
 Komuniga|41.800|25.233|BG|Kardzhali|61
 Komatou|8.539|-6.611|CI|Woroba|61
 Komorní Lhotka|49.658|18.528|CZ|Moravian-Silesian Region|61
+Ko Mai Si|11.718|102.520|TH|Trat|61|f
+Komandoo|5.493|73.424|MV|Faadhippolhu Atoll|61|f
+Kŏmang-san|35.683|127.737|KR|Gyeongsangnam-do|61|f
+Komeutyuyamskiy Khrebet|62.528|173.780|RU||61|f
 Komarów-Osada|50.629|23.477|PL|Lublin|60
+Komisarivka|48.462|33.798|UA|Dnipropetrovsk|60
+Komin|43.041|17.537|HR|Dubrovnik-Neretva|59
+Komarove|51.168|25.760|UA|Volyn|59
+Kómara|41.594|26.229|GR|East Macedonia and Thrace|59
 Komenda|46.205|14.538|SI|Komenda|59
 Komańcza|49.339|22.062|PL|Subcarpathia|59
+Komyshuvate|47.086|37.169|UA|Donetsk|59
+Komatke|33.314|-112.170|US|Arizona|58
+Kömürtaş|38.230|39.798|TR|Diyarbakır Province|58
+Kömpöc|46.464|19.867|HU|Bács-Kiskun|58
+Kom|43.174|23.053|BG|Sofia|58|f
+Komar|44.167|17.537|BA|Federation of B&H|58|f
+Komba Island|-7.789|123.586|ID|East Nusa Tenggara|58|f
+Komitas Museum-Institute|40.162|44.502|AM|Yerevan|58|f
+Komsomol'skiy Peak|-75.750|63.417|AQ||58|f
+Komořany|49.216|16.907|CZ|South Moravian|58
+Komméno|39.047|21.032|GR|Epirus|57
+Kompítsion|39.605|19.867|GR|Ionian Islands|57
+Komarovka|45.358|34.158|UA|Crimea|56
+Komisarivka|47.024|31.309|UA|Mykolaiv|56
 Komen|45.816|13.748|SI|Municipality of Komen|56
+Komsomol’skoye|45.776|34.395|UA|Crimea|56
+Komchén|19.594|-89.852|MX|Campeche|56
+Komorno|50.357|18.075|PL|Opole Voivodeship|55
+Komsyenichy|54.150|29.879|BY|Mogilev|55
+Komāyestān|36.684|57.338|IR|Razavi Khorasan|55
+Komňa|48.994|17.801|CZ|Zlín|55
+Kompotádes|38.868|22.348|GR|Central Greece|55
+Komyshuvakha|48.641|37.453|UA|Donetsk|54
+Komptendorf|51.685|14.473|DE|Brandenburg|54
+Koma Island|-7.544|39.396|TZ|Pwani|54|f
+Koms Glacier|-72.050|25.300|AQ||54|f
+Komsa Mountain|-72.083|25.350|AQ||54|f
+Komniná|40.591|21.777|GR|West Macedonia|54
+Komién Kouassikro|6.727|-4.848|CI|Lacs District|54
+Kommerzijl|53.287|6.325|NL|Groningen|54
+Komendantivka|49.065|33.867|UA|Poltava|54
+Kommen|49.883|7.133|DE|Rheinland-Pfalz|49
+Komovi|42.680|19.649|ME||49|f
+Kom|44.191|18.842|BA|Srpska|40|f
+Komazawa University|35.629|139.658|JP|Tokyo|40|f
+Komhyr Ridge|-82.783|160.167|AQ||40|f
+Komini Peak|-62.653|-60.118|AQ||40|f
+Komische Oper Berlin|52.516|13.387|DE|State of Berlin|40|f
+Komodo National Park|-8.543|119.489|ID|East Nusa Tenggara|40|f
+KOMU-TV (Columbia)|38.888|-92.264|US|Missouri|40|f
+KOMX-FM (Pampa)|35.578|-100.953|US|Texas|40|f
 Komarivka|51.235|32.144|UA|Chernihiv Oblast|0
 Komarovskiy|51.032|59.866|RU|Orenburg Oblast|0
+Kombandaru|-8.787|121.603|ID|East Nusa Tenggara|0
+Kombang|-6.898|113.840|ID|East Java|0
+Kombangan|-6.989|113.406|ID|East Java|0
+Kombapari|-9.786|119.938|ID|East Nusa Tenggara|0
 Kombësi|41.582|19.986|AL|Dibër County|0
+Komerda|-9.632|119.410|ID|East Nusa Tenggara|0
+Komes|-6.977|113.633|ID|East Java|0
+Komi|-9.430|119.303|ID|East Nusa Tenggara|0
 Komki-Ipala|12.183|-1.791|BF|Centre|0
+Kompa Satu|-6.582|106.506|ID|West Java|0
 Komsilga|12.187|-1.634|BF|Centre|0
 Kömürlü|40.735|42.288|TR|Erzurum|0
 Komyshi|50.311|34.476|UA|Sumy|0

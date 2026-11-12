@@ -1,12 +1,14 @@
 British Columbia|54.000|-125.003|CA||134|r
-Brisbane|-27.468|153.028|AU|Queensland|129
 Brittany|48.167|-2.833|FR||129|r
+Brisbane|-27.468|153.028|AU|Queensland|129
 Bristol|51.455|-2.597|GB|England|114
 Brighton|50.828|-0.139|GB|England|109
+British Isles|54.000|-4.000|GB||104|f
 Bridgeport|41.179|-73.189|US|Connecticut|103
 Brits|-25.635|27.780|ZA|North West|102
 Bridgetown|13.107|-59.620|BB|Saint Michael|100
 Brikama|13.271|-16.649|GM|Western|100
+British Museum|51.519|-0.127|GB|England|100|f
 Brindisi|40.632|17.936|IT|Apulia|99
 Brigittenau|48.243|16.376|AT|Vienna|99
 Brick|40.059|-74.137|US|New Jersey|98
@@ -18,6 +20,7 @@ Brive-la-Gaillarde|45.159|1.533|FR|New Aquitaine|95
 Bridgend|51.506|-3.577|GB|Wales|94
 Bria|6.542|21.986|CF|Haute-Kotto|93
 Brighton|42.350|-71.156|US|Massachusetts|93
+Bristol Airport|51.383|-2.719|GB|England|93|f
 Bridgewater|40.601|-74.648|US|New Jersey|93
 Brighton Park|41.819|-87.699|US|Illinois|93
 Britz|52.443|13.434|DE|State of Berlin|93
@@ -30,14 +33,18 @@ Bridlington|54.083|-0.192|GB|England|91
 Bridgeport|41.838|-87.651|US|Illinois|91
 Brighouse|53.703|-1.784|GB|England|90
 Brighton Beach|40.578|-73.960|US|New York|90
+Brisbane Airport|-27.384|153.118|AU|Queensland|90|f
 Brierley Hill|52.482|-2.121|GB|England|89
+Brindisi Airport|40.658|17.947|IT|Apulia|89|f
 Brilon|51.395|8.571|DE|North Rhine-Westphalia|89
 Bristol|36.595|-82.189|US|Tennessee|89
 Bridgeton|39.427|-75.234|US|New Jersey|88
 Bridlewood|45.285|-75.857|CA|Ontario|88
+Britannia Stadium|52.988|-2.175|GB|England|87|f
 Brighton|-37.906|145.003|AU|Victoria|87
 Bristol|41.677|-71.266|US|Rhode Island|87
 Brickworks Estate|1.287|103.808|SG||86
+bridge Hohenzollern|50.941|6.965|DE|North Rhine-Westphalia|86|f
 Brigham City|41.510|-112.016|US|Utah|85
 Brightwood|38.961|-77.027|US|District of Columbia|85
 Bristol|36.596|-82.188|US|Virginia|85
@@ -52,6 +59,8 @@ Briceni|48.356|27.703|MD|Donduşeni|83
 Brisas del Suchiate|14.536|-92.224|MX|Chiapas|83
 Bridgnorth|52.537|-2.420|GB|England|82
 Bridlewood|50.900|-114.108|CA|Alberta|82
+Bristol Bay|57.859|-159.630|US|Alaska|82|f
+Bristol Zoo Gardens|51.463|-2.622|GB|England|82|f
 Brixton Hill|51.452|-0.123|GB|England|82
 Brignais|45.674|4.754|FR|Auvergne-Rhône-Alpes|82
 Bridport|50.734|-2.758|GB|England|82
@@ -68,6 +77,7 @@ Bristol|40.101|-74.852|US|Pennsylvania|80
 Brigantine|39.410|-74.365|US|New Jersey|79
 Brizéboua|7.010|-6.469|CI|Sassandra-Marahoue|79
 Brihi|6.450|-5.919|CI|Goh-Djiboua|79
+Bridge of Arta|39.152|20.975|GR|Epirus|79|f
 Bristow|38.723|-77.536|US|Virginia|79
 Bridgewater|44.379|-64.519|CA|Nova Scotia|79
 Bridgeport|39.286|-80.256|US|West Virginia|78
@@ -78,10 +88,13 @@ Bridgewater|41.990|-70.975|US|Massachusetts|78
 Britwell|51.536|-0.628|GB|England|78
 Bridge City|29.933|-90.170|US|Louisiana|78
 Brisée Verdière|-20.164|57.647|MU|Flacq|78
+Brienzer Rothorn|46.787|8.047|CH|Bern|78|f
+Brigham City Airport|41.552|-112.062|US|Utah|78|f
 Brighton|42.529|-83.780|US|Michigan|78
 Brisighella|44.222|11.774|IT|Emilia-Romagna|78
 Brioude|45.294|3.384|FR|Auvergne-Rhône-Alpes|77
 Briddhanagar|23.845|91.351|IN|Tripura|77
+Bridgeport Municipal Airport|33.175|-97.829|US|Texas|77|f
 Bridgeport|43.359|-83.882|US|Michigan|77
 Bricolo|5.785|-6.452|CI|Bas-Sassandra District|77
 Briviesca|42.550|-3.323|ES|Castille and León|77
@@ -91,6 +104,7 @@ Briare|47.633|2.744|FR|Centre-Val de Loire|76
 Bridgeport|33.210|-97.755|US|Texas|76
 Brignano Gera d'Adda|45.543|9.644|IT|Lombardy|75
 Bridgewater|38.382|-78.977|US|Virginia|75
+Brijuni|44.916|13.744|HR|Istria|75|f
 Britânia|-15.241|-51.161|BR|Goiás|75
 Bright|39.218|-84.856|US|Indiana|75
 Briar|32.995|-97.543|US|Texas|75
@@ -111,6 +125,9 @@ Brives-Charensac|45.048|3.929|FR|Auvergne-Rhône-Alpes|73
 Brisbane|37.681|-122.400|US|California|73
 Brightons|55.980|-3.716|GB|Scotland|73
 Brievengat|12.150|-68.900|CW||73
+Brisbane Road|51.560|-0.013|GB|England|73|f
+Brisen|46.899|8.458|CH|Uri|73|f
+Britton Hill|30.989|-86.282|US|Florida|73|f
 Brivio|45.737|9.442|IT|Lombardy|73
 Bricket Wood|51.707|-0.367|GB|England|73
 Bridgeport|40.105|-75.345|US|Pennsylvania|73
@@ -123,6 +140,7 @@ British Indian Ocean Territory|-6.000|72.000|IO||72|c
 Brittnau|47.260|7.947|CH|Aargau|71
 Bridgewater|-35.014|138.766|AU|South Australia|71
 Brittany Farms-Highlands|40.269|-75.214|US|Pennsylvania|71
+Brielse Meer|51.903|4.196|NL|South Holland|71|f
 Brie|45.738|0.241|FR|New Aquitaine|71
 Brienne-le-Château|48.393|4.526|FR|Grand Est|71
 Brighton|-35.018|138.524|AU|South Australia|71
@@ -132,6 +150,7 @@ Briis-sous-Forges|48.624|2.121|FR|Île-de-France|71
 Brindoukro|6.857|-3.284|CI|Comoé District|71
 Brienon-sur-Armançon|47.990|3.616|FR|Bourgogne-Franche-Comté|71
 Brimfield|41.100|-81.347|US|Ohio|70
+Bric de Rubren|44.620|6.949|IT||70|f
 Brietlingen|53.333|10.443|DE|Lower Saxony|70
 Brillion|44.177|-88.064|US|Wisconsin|70
 Brienz|46.755|8.038|CH|Bern|70
@@ -152,6 +171,9 @@ Brielle|51.902|4.162|NL|South Holland|69
 Bridgetown|-33.962|116.136|AU|Western Australia|69
 Bristol|43.958|-69.509|US|Maine|69
 Brienza|40.478|15.629|IT|Basilicate|69
+Brigadeiro Cabral Airport|-20.181|-44.871|BR|Minas Gerais|69|f
+Brighton Airport|42.571|-83.777|US|Michigan|69|f
+Bristol Castle|51.456|-2.588|GB|England|69|f
 Bricherasio|44.823|7.303|IT|Piedmont|69
 Brixen im Thale|47.450|12.250|AT|Tyrol|68
 Bright|-36.730|146.960|AU|Victoria|68
@@ -166,6 +188,7 @@ Bridgeport|34.948|-85.714|US|Alabama|67
 Brighton|35.080|-86.439|US|Tennessee|67
 Britz|52.887|13.811|DE|Brandenburg|67
 Brinscall|53.689|-2.572|GB|England|67
+Brian Head|37.681|-112.831|US|Utah|67|f
 Bridgman|41.943|-86.557|US|Michigan|67
 Bridgeville|38.743|-75.604|US|Delaware|67
 Briceño|7.111|-75.552|CO|Antioquia|67
@@ -184,6 +207,9 @@ Britof|46.260|14.390|SI|Urban Municipality of Kranj|66
 Brixlegg|47.429|11.878|AT|Tyrol|66
 Brice Prairie|43.939|-91.300|US|Wisconsin|66
 Briatico|38.723|16.027|IT|Calabria|65
+Bribie Island|-26.951|153.124|AU|Queensland|65|f
+Brigadier Mayor César Raúl Ojeda Airport|-33.273|-66.356|AR|San Luis|65|f
+Brive–Souillac Airport|45.042|1.486|FR|New Aquitaine|65|f
 Brissago|46.120|8.712|CH|Ticino|65
 Bridgeport|40.070|-80.740|US|Ohio|65
 Bridgeport|38.706|-87.760|US|Illinois|65
@@ -204,6 +230,13 @@ Brioux-sur-Boutonne|46.142|-0.223|FR|New Aquitaine|63
 Brilliant|40.265|-80.626|US|Ohio|63
 Bribir|45.161|14.765|HR|Primorje-Gorski Kotar|63
 Bridgeport|42.916|-76.752|US|New York|63
+Bridge of the Gods|45.662|-121.901|US|Oregon|63|f
+Brigadier General Thaddeus Kosciuszko Statue|38.900|-77.035|US|District of Columbia|63|f
+Brighton Shoreham Airport|50.836|-0.297|GB|England|63|f
+Brisk Island|-18.784|146.542|AU|Queensland|63|f
+Bristol Channel|51.398|-4.318|GB||63|f
+Bristol Range|38.035|-114.601|US|Nevada|63|f
+Britannia Range|-80.000|158.000|AQ||63|f
 Bridport|-41.000|147.392|AU|Tasmania|63
 Britten|49.521|6.677|DE|Saarland|63
 Brigstock|52.458|-0.608|GB|England|63
@@ -218,6 +251,9 @@ Brighstone|50.643|-1.395|GB|England|61
 Briješće|45.524|18.627|HR|County of Osijek-Baranja|61
 Brinchang|4.491|101.388|MY|Pahang|61
 Brill|51.817|-1.050|GB|England|61
+Bria Airport|6.533|21.983|CF|Haute-Kotto|61|f
+Bridge of Lions|29.893|-81.308|US|Florida|61|f
+Briggs Peninsula|-64.533|-63.033|AQ||61|f
 Brinklow|52.411|-1.364|GB|England|61
 Brinon-sur-Sauldre|47.566|2.256|FR|Centre-Val de Loire|61
 Brikama Nding|13.533|-14.933|GM|Central River|61
@@ -230,23 +266,197 @@ Bridgewater|43.638|-71.736|US|New Hampshire|60
 Briona|45.542|8.480|IT|Piedmont|60
 Brijest|45.521|18.672|HR|County of Osijek-Baranja|60
 Brightwood|38.422|-78.194|US|Virginia|60
+Brigo-Paluello|45.411|12.051|IT|Veneto|60
 Bristol|30.432|-84.977|US|Florida|60
+Bridgetown|44.843|-65.289|CA|Nova Scotia|60
+Bricco Favole|44.655|7.812|IT|Piedmont|60
+Bribouo|6.870|-6.506|CI|Sassandra-Marahoue|59
+Britiande|41.063|-7.792|PT|Viseu|59
+Bricqueville-sur-Mer|48.913|-1.521|FR|Normandy|59
+Brignogan-Plages|48.664|-4.327|FR|Brittany|59
+Brières-les-Scellés|48.456|2.137|FR|Île-de-France|59
+Brilliant|34.025|-87.758|US|Alabama|59
+Britsum|53.254|5.786|NL|Friesland|59
 Brinzio|45.889|8.787|IT|Lombardy|59
+Brielen|50.868|2.848|BE|Flanders|59
+Brimfield|40.839|-89.886|US|Illinois|59
 Briones|42.544|-2.786|ES|La Rioja|59
+Briesen|51.816|14.244|DE|Brandenburg|59
+Brizambourg|45.820|-0.478|FR|New Aquitaine|58
+Brightview|-27.500|152.483|AU|Queensland|58
+Brick Breeden Fieldhouse|45.663|-111.051|US|Montana|58|f
+Bridge Mountain|36.136|-115.491|US|Nevada|58|f
+Bridgnorth Castle|52.532|-2.419|GB|England|58|f
+Bridle Trails State Park|47.654|-122.175|US|Washington|58|f
+Brigadier Hector Eduardo Ruiz Airport|-37.450|-61.889|AR|Buenos Aires|58|f
+Brimstone Peak|-61.919|-57.750|AQ||58|f
+Brindley Mountain|34.490|-86.626|US|Alabama|58|f
+Briones Hills|37.943|-122.147|US|California|58|f
+Brisbane Range|-26.605|152.177|AU|Queensland|58|f
+Bristol Island|-59.038|-26.568|GS||58|f
+British West Indies|18.000|-68.000|||58|f
+Brittas Bay|52.880|-6.049|IE|Leinster|58|f
+Brinnon|47.679|-122.898|US|Washington|58
+Brignac-la-Plaine|45.189|1.339|FR|New Aquitaine|58
+Briarwood Beach|41.077|-81.896|US|Ohio|58
+Bridgend|55.964|-3.536|GB|Scotland|58
+Brigham|54.659|-3.416|GB|England|58
+Brimfield|52.307|-2.696|GB|England|58
+Briord|45.786|5.457|FR|Auvergne-Rhône-Alpes|57
+Briševo|44.163|15.305|HR|Zadar|57
+Brion-près-Thouet|47.053|-0.187|FR|New Aquitaine|57
+Bridgend|57.400|-2.817|GB|Scotland|57
+Bridger|45.296|-108.914|US|Montana|57
+Brie|47.951|-1.538|FR|Brittany|57
+Brillon|50.435|3.329|FR|Hauts-de-France|57
+Brignon|43.989|4.213|FR|Occitanie|57
+Brimeux|50.443|1.835|FR|Hauts-de-France|57
+Brigus|47.525|-53.211|CA|Newfoundland and Labrador|57
+Bridgewater|40.705|-80.301|US|Pennsylvania|57
+Brinkum|53.267|7.559|DE|Lower Saxony|57
+Brillac|46.061|0.777|FR|New Aquitaine|57
+Briar Creek|41.046|-76.282|US|Pennsylvania|57
 Brindisi Montagna|40.610|15.940|IT|Basilicate|56
+Bristol|32.462|-96.570|US|Texas|56
+Briale|45.704|10.317|IT|Lombardy|56
+Brighton|41.175|-91.820|US|Iowa|56
+Brides-les-Bains|45.453|6.568|FR|Auvergne-Rhône-Alpes|56
+Bridgewater|46.428|-67.843|US|Maine|56
+Brigueil-le-Chantre|46.396|1.088|FR|New Aquitaine|56
 Briceño|5.688|-73.918|CO|Boyacá|56
+Briastre|50.161|3.485|FR|Hauts-de-France|56
+Brion|46.173|5.551|FR|Auvergne-Rhône-Alpes|56
+Brion|47.996|3.480|FR|Bourgogne-Franche-Comté|56
+Brittingham|25.758|-103.569|MX|Durango|56
+Brin-sur-Seille|48.780|6.355|FR|Grand Est|56
+Briny Breezes|26.508|-80.051|US|Florida|56
+Brillon-en-Barrois|48.712|5.095|FR|Grand Est|56
+Brigdamme|51.516|3.606|NL|Zeeland|55
+Brissac|43.879|3.702|FR|Occitanie|55
+Brienzwiler|46.751|8.101|CH|Bern|55
 Bridgeport|38.256|-119.231|US|California|55
+Britton|41.987|-83.831|US|Michigan|55
+Briarres-sur-Essonne|48.233|2.417|FR|Centre-Val de Loire|55
+Brissarthe|47.701|-0.449|FR|Pays de la Loire|55
+Brielles|48.009|-1.090|FR|Brittany|55
+Bricqueville-la-Blouette|49.034|-1.479|FR|Normandy|55
+Briantes|46.557|2.022|FR|Centre-Val de Loire|55
 Brione|45.642|10.148|IT|Lombardy|55
+Briarcliffe Acres|33.785|-78.743|US|South Carolina|54
+Brian Island|-68.130|-67.112|AQ||54|f
+Briar Creek Reservoir|41.060|-76.280|US|Pennsylvania|54|f
+Bricklieve Mountains|54.054|-8.378|IE|Connacht|54|f
+Bridge Brook Pond|44.163|-74.584|US|New York|54|f
+Bridgeman Island|-62.064|-56.712|AQ||54|f
+Bridgeport Reservoir|38.289|-119.231|US|California|54|f
+Bridgwater Bay|51.217|-3.283|GB|England|54|f
+Brigadier General Albert Pike Statue|38.895|-77.014|US|District of Columbia|54|f
+Brigelser Hörner|46.783|8.976|CH|Grisons|54|f
+Brindabella Range|-35.421|148.788|AU|New South Wales|54|f
+Bristol Lake|34.465|-115.688|US|California|54|f
+Britannia Bay|-32.719|17.947|ZA|Western Cape|54|f
+Brittas Lough|53.567|-7.283|IE|Leinster|54|f
+Britton Municipal Airport|45.816|-97.747|US|South Dakota|54|f
+Bridoré|47.028|1.083|FR|Centre-Val de Loire|54
 Brienno|45.912|9.131|IT|Lombardy|52
+Briedern|50.100|7.200|DE|Rheinland-Pfalz|51
 Brissago-Valtravaglia|45.949|8.746|IT|Lombardy|51
 Briaglia|44.396|7.876|IT|Piedmont|49
+Brice, Mount|-75.368|-72.600|AQ||49|f
+Brickell Avenue Bridge|25.770|-80.187|US|Florida|49|f
+Bridge 8|42.850|-73.888|US|New York|49|f
+bridge Deutz|50.937|6.966|DE|North Rhine-Westphalia|49|f
+Bridge Meadow Stadium|51.809|-4.967|GB|Wales|49|f
+Bridge of Hope|45.600|-94.188|US|Minnesota|49|f
+Bridge Street Bridge|40.746|-74.166|US|New Jersey|49|f
+Bridgemarsh Island|51.633|0.750|GB|England|49|f
+Bridgewater Bridge|-42.740|147.220|AU|Tasmania|49|f
+Bridgman Glacier|-72.383|170.083|AQ||49|f
+Bridgwater Castle|51.129|-3.004|GB|England|49|f
+Bridle Drift Dam|-32.980|27.707|ZA|Eastern Cape|49|f
+Bridled Island|-20.639|115.558|AU|Western Australia|49|f
+Briesemeister Peak|-69.467|-62.729|AQ||49|f
+Briggs Glacier|-54.167|-37.133|GS||49|f
+Briggs Islet|-40.250|148.280|AU|Tasmania|49|f
+Briggs Peak|-68.983|-66.710|AQ||49|f
+Brikama Forest Park|13.383|-15.833|GM|Lower River|49|f
+Brimbank Park|-37.730|144.838|AU|Victoria|49|f
+Brindabella National Park|-35.251|148.777|AU|New South Wales|49|f
+Brinklow Castle|52.412|-1.356|GB|England|49|f
+Bris, Mount|-63.983|-59.824|AQ||49|f
+Brisbane Ranges National Park|-37.824|144.274|AU|Victoria|49|f
+Brisbane Water|-33.467|151.333|AU|New South Wales|49|f
+Brisbane Water National Park|-33.460|151.301|AU|New South Wales|49|f
+Bristly Peaks|-69.377|-66.352|AQ||49|f
+Bristol Head|37.793|-107.055|US|Colorado|49|f
+British Mountains|69.000|-140.505|CA|Yukon|49|f
 Briñas|42.601|-2.832|ES|La Rioja|47
 Brignano|44.815|9.040|IT|Piedmont|47
+Brickeln|54.009|9.221|DE|Schleswig-Holstein|46
 Brime de Sog|42.062|-6.048|ES|Castille and León|46
 Brime de Urz|42.038|-5.873|ES|Castille and León|43
 Brione|45.895|10.590|IT|Trentino-Alto Adige|43
+Brieden|50.183|7.267|DE|Rheinland-Pfalz|43
+Brinjahe|54.167|9.633|DE|Schleswig-Holstein|42
 Brittoli|42.315|13.860|IT|Abruzzo|41
+Briar Hill|44.366|-85.680|US|Michigan|40|f
+Briar Hill|42.727|-75.096|US|New York|40|f
+Briar Hill|42.814|-74.815|US|New York|40|f
+Bric del Dente|44.483|8.675|IT|Liguria|40|f
+Brices Cross Roads National Battlefield Site|34.506|-88.729|US|Mississippi|40|f
+Brick House Ruins|32.602|-80.325|US|South Carolina|40|f
+Brick Store Museum|43.387|-70.537|US|Maine|40|f
+Brickyard Cove|37.908|-122.387|US|California|40|f
+Bridal Veil Falls|52.182|-117.054|CA|Alberta|40|f
+Bridal Veil Falls|-44.702|168.249|NZ|Otago|40|f
+Bridal Veil Falls|43.084|-79.071|US|New York|40|f
+Bridal Veil Falls Park|49.183|-121.736|CA|British Columbia|40|f
+Bridge Creek Wildlife Area|45.047|-118.941|US|Oregon|40|f
+Bridge Lake|44.870|-62.582|CA|Nova Scotia|40|f
+Bridge Lake|51.507|-120.736|CA|British Columbia|40|f
+Bridge Lake Park|51.483|-120.703|CA|British Columbia|40|f
+Bridge Mountain|37.206|-112.966|US|Utah|40|f
+Bridge Pa|-39.648|176.750|NZ|Hawke's Bay Region|40|f
+Bridge Park|40.847|-73.927|US|New York|40|f
+Bridge Road|52.242|0.114|GB|England|40|f
+Bridge to Nowhere|-39.268|174.970|NZ|Wellington Region|40|f
+Bridgeforth Stadium|38.435|-78.873|US|Virginia|40|f
+Bridgeport Covered Bridge|39.292|-121.195|US|California|40|f
+Bridgeport State Park|48.014|-119.609|US|Washington|40|f
+Bridger Range|45.889|-110.958|US|Montana|40|f
+Bridgewater Canal|53.483|-2.517|GB|England|40|f
+Bridgewater Hall, Manchester|53.475|-2.246|GB|England|40|f
+Bridgewater Memorial Arena|44.376|-64.525|CA|Nova Scotia|40|f
+Bridwell Peak|-71.933|166.467|AQ||40|f
+Brier Island|44.257|-66.364|CA|Nova Scotia|40|f
+Brier Knob|36.081|-81.873|US|North Carolina|40|f
+Briery Mountain Wildlife Management Area (historical)|39.398|-79.654|US|West Virginia|40|f
+Brig Bay|51.067|-56.898|CA|Newfoundland and Labrador|40|f
+Brigade Lake|49.271|-125.279|CA|British Columbia|40|f
+Brigantine Inlet|39.447|-74.326|US|New Jersey|40|f
+Briggs Lake|45.498|-93.939|US|Minnesota|40|f
+Briggs Reservoir|41.928|-70.684|US|Massachusetts|40|f
+Briggs Reservoir|41.872|-70.562|US|Massachusetts|40|f
+Bright Lake|49.688|-90.424|CA|Ontario|40|f
+Brightleaf Square|35.995|-78.901|US|North Carolina|40|f
+Brightley Priory|50.759|-3.988|GB|England|40|f
+Brigus Island|63.294|-67.900|CA|Nunavut|40|f
+Brileys Lake|45.753|-61.404|CA|Nova Scotia|40|f
+Brim Fell|54.377|-3.124|GB|England|40|f
+Brimley State Park|46.414|-84.557|US|Michigan|40|f
+Brimpsfield Castle|51.813|-2.088|GB|England|40|f
+Bringhurst Field|31.287|-92.458|US|Louisiana|40|f
+Briones Regional Park|37.938|-122.139|US|California|40|f
+Briones Reservoir|37.924|-122.191|US|California|40|f
+Brisi|47.153|9.277|CH|Saint Gallen|40|f
+Bristen|46.737|8.681|CH|Uri|40|f
+Bristensee|46.750|8.692|CH|Uri|40|f
+Bristol Mountains|34.849|-116.055|US|California|40|f
+Bristol Municipal Stadium|36.583|-82.183|US|Tennessee|40|f
+British Empire Range|82.352|-77.496|CA|Nunavut|40|f
+Britt Peak|-76.050|-135.117|AQ||40|f
 Brincones|41.113|-6.349|ES|Castille and León|39
+Brimingen|49.970|6.364|DE|Rheinland-Pfalz|37
 Brieva de Cameros|42.165|-2.795|ES|La Rioja|37
 Brieva|41.035|-4.054|ES|Castille and León|36
 Briga Alta|44.083|7.749|IT|Piedmont|36
@@ -254,4 +464,7 @@ Bricco di Neive|44.712|8.134|IT|Piedmont|35
 Bride|54.383|-4.389|IM|Bride|0
 Bridge Sollers|52.077|-2.861|GB|England|0
 Brignall|54.505|-1.889|GB|England|0
+Bringin|-7.005|111.903|ID|East Java|0
+Bringin|-6.711|111.032|ID|Central Java|0
+Bringinanom|-7.743|113.454|ID|East Java|0
 Briyel|10.348|11.610|NG|Borno State|0

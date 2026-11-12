@@ -28,9 +28,11 @@ Al Manşūrah|25.268|51.532|QA|Baladiyat ad Dawhah|96
 Al Mayādīn|35.020|40.452|SY|Deir ez-Zor|95
 Al Marāghah|26.700|31.605|EG|Sohag|95
 Al Muteena|25.274|55.323|AE|Dubai|94
+Almaty International Airport|43.352|77.041|KZ|Almaty Region|94|f
 Al Mijlad|11.033|27.733|SD|West Kordofan|92
 Almenara|-16.184|-40.694|BR|Minas Gerais|92
 Al Manqaf|29.096|48.133|KW|Al Aḩmadī|92
+Almería Airport|36.844|-2.370|ES|Andalusia|91|f
 Al Maḩmūdīyah|31.184|30.524|EG|Beheira|91
 Almeirim|-1.523|-52.582|BR|Pará|91
 Almada|38.679|-9.157|PT|Setúbal|91
@@ -73,6 +75,7 @@ Almafuerte|-32.192|-64.256|AR|Cordoba|80
 Al Musayfirah|32.633|36.340|SY|Daraa|80
 Al Matlīn|37.245|10.050|TN|Bizerte Governorate|80
 Al M’aziz|33.671|-6.316|MA|Rabat-Salé-Kénitra|80
+Almirante Padilla Airport|11.526|-72.926|CO|La Guajira Department|80|f
 Almoloya del Río|19.160|-99.489|MX|México|80
 Älmhult|56.551|14.138|SE|Kronoberg|80
 Al Mazār al Janūbī|31.067|35.695|JO|Karak|79
@@ -88,14 +91,18 @@ Almodóvar del Río|37.811|-5.020|ES|Andalusia|77
 Almussafes|39.283|-0.417|ES|Valencia|77
 Almodôvar|37.513|-8.060|PT|Beja|77
 Al Muwayh|22.433|41.758|SA|Mecca Region|77
+Al Muḩammadīyah|26.199|50.436|BH|Northern|77|f
 Al Mulaydā’|26.318|43.785|SA|Al-Qassim Region|77
 Almodóvar del Campo|38.709|-4.179|ES|Castille-La Mancha|77
 Almas|-11.574|-47.170|BR|Tocantins|76
 Al Markaz|25.400|49.733|SA|Eastern Province|76
 Al Mughrāqah|31.466|34.412|PS|Gaza Strip|76
+Almendra Dam|41.271|-6.320|ES|Castille and León|76|f
 Almus|40.376|36.904|TR|Tokat Province|76
 Al Muţayrifī|25.479|49.558|SA|Eastern Province|76
 Al Manāmah|25.330|56.022|AE|Ajman|75
+Alma Airport|48.509|-71.642|CA|Quebec|75|f
+Almas Tower|25.069|55.141|AE|Dubai|75|f
 Almazán|41.486|-2.531|ES|Castille and León|75
 Almenno San Salvatore|45.750|9.597|IT|Lombardy|75
 Almè|45.739|9.616|IT|Lombardy|75
@@ -116,6 +123,7 @@ Al Mazra‘ah ash Sharqīyah|32.000|35.282|PS|West Bank|73
 Almenno San Bartolomeo|45.739|9.581|IT|Lombardy|73
 Almogía|36.825|-4.541|ES|Andalusia|73
 Almazna|48.520|38.580|UA|Luhansk|72
+Al Maktoum Bridge|25.252|55.321|AE|Dubai|71|f
 Almenar|41.796|0.568|ES|Catalonia|71
 Alma|31.539|-82.462|US|Georgia|71
 Almaguer North|16.350|121.093|PH|Cagayan Valley|71
@@ -128,6 +136,7 @@ Almere Duin|52.342|5.141|NL|Flevoland|69
 Almaşu|46.945|23.130|RO|Sălaj County|69
 Almont|42.921|-83.045|US|Michigan|69
 Almkerk|51.771|4.960|NL|North Brabant|69
+Almondvale Stadium|55.886|-3.522|GB|Scotland|69|f
 Almoloya|20.023|-98.317|MX|Hidalgo|68
 Almendras|15.276|120.699|PH|Central Luzon|68
 Almedinilla|37.439|-4.091|ES|Andalusia|68
@@ -146,6 +155,8 @@ Almirante Tamandaré do Sul|-28.114|-52.912|BR|Rio Grande do Sul|66
 Almáchar|36.809|-4.216|ES|Andalusia|66
 Al Majd|31.481|34.951|PS|West Bank|66
 Almendricos|37.473|-1.775|ES|Murcia|65
+Al Matḩaf al Waţanī al Jadīd|35.341|40.133|SY|Deir ez-Zor|65|f
+Al Mirani Fort|23.617|58.594|OM|Muscat|65|f
 Al Muşaddar|31.411|34.378|PS|Gaza Strip|65
 Almondsbury|51.554|-2.571|GB|England|65
 Almaznyy|62.449|114.328|RU|Sakha|65
@@ -153,6 +164,10 @@ Almaznyy|62.449|114.328|RU|Sakha|65
 Almoines|38.943|-0.182|ES|Valencia|64
 Almaşu Mare|46.110|23.117|RO|Alba County|64
 Almeirim|0.317|6.717|ST|São Tomé Island|64
+Al Matḩaf al Islāmī|30.044|31.253|EG|Cairo|63|f
+Al Mutḩaf al Mişrī|30.048|31.234|EG|Cairo|63|f
+Almeirim Airport|-1.482|-52.581|BR|Pará|63|f
+Almirante Marcos A. Zar Airport|-43.211|-65.270|AR|Chubut|63|f
 Almolonga|18.476|-97.964|MX|Puebla|63
 Almondbank|56.417|-3.517|GB|Scotland|63
 ‘Almon|31.832|35.297|PS|West Bank|63
@@ -166,27 +181,67 @@ Almoloya|20.151|-98.449|MX|Hidalgo|62
 Al Midyah|31.936|35.005|PS|West Bank|62
 Almolonga|17.639|-99.295|MX|Guerrero|62
 Alma|40.098|-99.362|US|Nebraska|61
+Almåsgrønningen|64.682|12.214|NO|Trøndelag|61|f
+Almenaras|38.546|-2.449|ES|Castille-La Mancha|61|f
+Almost-a-Dog Mountain|48.623|-113.619|US|Montana|61|f
 Almoster|41.198|1.112|ES|Catalonia|61
 Almedia|41.015|-76.381|US|Pennsylvania|61
 Almafuerte|-27.508|-55.403|AR|Misiones|60
+Al Manīyah|31.619|35.221|PS|West Bank|60
+Almstedt|52.032|9.962|DE|Lower Saxony|60
+Almáskamarás|46.467|21.100|HU|Bekes County|60
+Almălău|44.085|27.343|RO|Constanța County|60
+Almuradiel|38.513|-3.498|ES|Castille-La Mancha|60
+Almașu Mare|47.328|22.533|RO|Bihor County|60
+Almăjel|44.383|23.030|RO|Mehedinți County|59
 Almonacid de la Sierra|41.398|-1.324|ES|Aragon|59
 Alma|46.214|24.480|RO|Sibiu County|59
+Almolonga de Ocampo (Almolonga)|17.420|-98.354|MX|Guerrero|59
+Almoloya|18.368|-100.176|MX|Guerrero|59
+Almoloya de las Granadas|18.970|-100.132|MX|México|59
+Almolonga|19.590|-96.783|MX|Veracruz|59
+Almonacid de Toledo|39.754|-3.852|ES|Castille-La Mancha|59
+Alma|42.013|-78.058|US|New York|59
 Almonacid de Zorita|40.329|-2.850|ES|Castille-La Mancha|58
+Almunge|59.883|18.050|SE|Uppsala|58
 Alma|39.017|-96.289|US|Kansas|58
+Almaty Köli|43.306|76.943|KZ|Almaty|58|f
+Almberg|48.889|13.645|DE|Bavaria|58|f
+Al Ma‘şarah|31.655|35.179|PS|West Bank|58
 Almeida|4.971|-73.380|CO|Boyacá|58
 Alma|44.320|-91.915|US|Wisconsin|57
+Almilinga|18.531|-96.790|MX|Veracruz|57
+Almen|52.158|6.300|NL|Gelderland|57
 Almedina|38.625|-2.954|ES|Castille-La Mancha|57
+Almenêches|48.697|0.110|FR|Normandy|56
+Almena|45.417|-92.033|US|Wisconsin|56
 Almanza|42.658|-5.036|ES|Castille and León|56
+Almanza|19.970|-97.041|MX|Veracruz|56
 Almarza|41.947|-2.469|ES|Castille and León|56
+Almeida|41.266|-6.074|ES|Castille and León|56
+Almagreira|36.965|-25.108|PT|Azores|56
 Almuniente|41.949|-0.412|ES|Aragon|55
+Almaș|47.009|26.344|RO|Neamț County|55
+Almașu Mic|47.317|22.510|RO|Bihor County|55
+Almdorf|54.583|9.015|DE|Schleswig-Holstein|55
 Almăj|44.450|23.717|RO|Dolj|54
 Almonacid del Marquesado|39.823|-2.768|ES|Castille-La Mancha|54
+Alma Bridge|48.863|2.302|FR|Île-de-France|54|f
+Almannberget|62.569|9.711|NO|Trøndelag|54|f
+Almirante Schroeders Airport|-53.610|-70.475|CL|Region of Magallanes|54|f
+Almond Lake|42.346|-77.713|US|New York|54|f
+Almond Point|-63.879|-59.512|AQ||54|f
+Alms Park|39.112|-84.429|US|Ohio|54|f
+Almus Barajı|40.408|36.904|TR|Tokat Province|54|f
 Almodóvar del Pinar|39.717|-1.883|ES|Castille-La Mancha|54
 Almegíjar|36.903|-3.301|ES|Andalusia|54
+Almersbach|50.683|7.633|DE|Rheinland-Pfalz|53
 Almaraz de Duero|41.475|-5.917|ES|Castille and León|53
 Almendral de la Cañada|40.185|-4.742|ES|Castille-La Mancha|51
 Almenar de Soria|41.682|-2.201|ES|Castille and León|51
 Almonacid de la Cuba|41.281|-0.793|ES|Aragon|50
+Alma Ata TV Tower|43.229|76.976|KZ||49|f
+Almena Diversion Dam|39.767|-100.100|US|Kansas|49|f
 Almedíjar|39.867|-0.400|ES|Valencia|49
 Almiserà|38.917|-0.283|ES|Valencia|48
 Almenara de Tormes|41.064|-5.824|ES|Castille and León|48
@@ -197,6 +252,12 @@ Almócita|37.003|-2.791|ES|Andalusia|44
 Almazul|41.574|-2.146|ES|Castille and León|43
 Almadrones|40.901|-2.774|ES|Castille-La Mancha|41
 Almudaina|38.760|-0.351|ES|Valencia|41
+Al-Mustansiriya University|33.339|44.390|IQ|Baghdad|40|f
+Alma Park|33.725|-118.298|US|California|40|f
+Almaden Reservoir|37.163|-121.835|US|California|40|f
+Almagellerhorn|46.087|7.994|CH|Valais|40|f
+Almondbury Castle Hill|53.622|-1.771|GB|England|40|f
+Almyra Municipal Airport|34.416|-91.465|US|Arkansas|40|f
 Almochuel|41.280|-0.551|ES|Aragon|34
 Almenara de Adaja|41.214|-4.678|ES|Castille and León|32
 Almarza de Cameros|42.217|-2.599|ES|La Rioja|29

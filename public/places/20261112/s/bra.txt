@@ -1,14 +1,14 @@
 Brazil|-10.000|-55.000|BR||167|c
-Brasília|-15.780|-47.930|BR|Federal District|127
 Brandenburg|52.459|13.016|DE||127|r
+Brasília|-15.780|-47.930|BR|Federal District|127
 Brazzaville|-4.266|15.283|CG|Brazzaville|126
-Bratislava Region|48.333|17.167|SK||119|r
+Bratislava Region|48.333|17.167|SK||120|r
 Brampton|43.683|-79.766|CA|Ontario|116
-Brașov County|45.750|25.333|RO||115|r
+Brașov County|45.750|25.333|RO||116|r
 Bratislava|48.148|17.107|SK|Bratislava Region|113
 Bradford|53.794|-1.752|GB|England|111
 Brahmapur|19.312|84.793|IN|Odisha|111
-Brăila County|45.083|27.667|RO||110|r
+Brăila County|45.083|27.667|RO||111|r
 Brakpan|-26.237|28.369|ZA|Gauteng|110
 Brāhmanbāria|23.975|91.112|BD|Chittagong|109
 Bratsk|56.133|101.614|RU|Irkutsk Oblast|108
@@ -30,6 +30,7 @@ Brazlândia|-15.679|-48.197|BR|Federal District|95
 Bradenton|27.499|-82.575|US|Florida|95
 Braintree|51.878|0.553|GB|England|95
 Brandon|49.847|-99.953|CA|Manitoba|94
+Bratislava Castle|48.142|17.100|SK|Bratislava Region|93|f
 Bragado|-35.116|-60.490|AR|Buenos Aires|92
 Brás|-23.550|-46.617|BR|São Paulo|92
 Bradford|44.117|-79.566|CA|Ontario|92
@@ -60,23 +61,28 @@ Brasnorte|-12.120|-58.003|BR|Mato Grosso|85
 Bramhall|53.358|-2.165|GB|England|85
 Braunstone|52.618|-1.179|GB|England|85
 Bracken Ridge|-27.317|153.031|AU|Queensland|84
+Bratsk Airport|56.371|101.699|RU|Irkutsk Oblast|84|f
 Brak|27.550|14.271|LY|Wadi ash Shati'|84
 Braemar Hill|22.283|114.200|HK|Eastern District|84
 Brake (Unterweser)|53.333|8.483|DE|Lower Saxony|84
 Bracebridge|45.033|-79.316|CA|Ontario|84
 Brad|46.133|22.783|RO|Hunedoara County|84
 Bradley|41.142|-87.861|US|Illinois|84
+Bram Fischer International Airport|-29.093|26.302|ZA|Free State|84|f
+Bramall Lane|53.370|-1.471|GB|England|84|f
 Brāhmanān di Bāri|32.644|74.911|IN|Jammu and Kashmir|84
 Brackenheim|49.078|9.066|DE|Baden-Wurttemberg|84
 Brasilândia de Minas|-17.010|-46.009|BR|Minas Gerais|84
 Brahmakulam|10.581|76.069|IN|Kerala|83
 Brazópolis|-22.474|-45.608|BR|Minas Gerais|83
 Bradley Gardens|40.563|-74.655|US|New Jersey|83
+Brabant Island|-64.250|-62.333|AQ||83|f
 Brainerd|46.358|-94.201|US|Minnesota|83
 Bras-Panon|-20.997|55.678|RE|Reunion|83
 Brandermill|37.432|-77.650|US|Virginia|82
 Brackley|52.033|-1.150|GB|England|82
 Bracciano|42.103|12.166|IT|Lazio|82
+Bradley International Airport|41.938|-72.688|US|Connecticut|81|f
 Brasilândia|-21.256|-52.037|BR|Mato Grosso do Sul|81
 Braunfels|50.515|8.389|DE|Hesse|81
 Branson|36.644|-93.219|US|Missouri|81
@@ -92,6 +98,7 @@ Brambleton|38.982|-77.539|US|Virginia|80
 Branquinha|-9.246|-36.015|BR|Alagoas|80
 Brandis|51.336|12.610|DE|Saxony|80
 Braine-le-Château|50.680|4.274|BE|Wallonia|80
+Braga Airport|41.587|-8.445|PT|Braga|80|f
 Brandon|54.750|-1.617|GB|England|80
 Braunton|51.108|-4.161|GB|England|80
 Braselton|34.109|-83.763|US|Georgia|80
@@ -99,6 +106,7 @@ Braslav|55.644|27.057|BY|Vitebsk|79
 Bradford on Avon|51.348|-2.251|GB|England|79
 Bramcote|52.933|-1.250|GB|England|79
 Brăneşti|45.033|25.417|RO|Dâmbovița County|79
+Brasilia TV Tower|-15.791|-47.893|BR|Federal District|79|f
 Bracquegnies|50.471|4.120|BE|Wallonia|79
 Brăneşti|44.450|26.333|RO|Ilfov|79
 Bradford|41.956|-78.644|US|Pennsylvania|79
@@ -108,15 +116,19 @@ Brandizzo|45.177|7.836|IT|Piedmont|78
 Bragadiru|44.371|25.977|RO|Ilfov|78
 Brazil|39.524|-87.125|US|Indiana|78
 Brăhăşeştii de Sus|46.050|27.350|RO|Galați County|78
+Brandberg Mountain|-21.126|14.549|NA|Erongo Region|78|f
 Brattleboro|42.851|-72.558|US|Vermont|77
 Brande|55.943|9.128|DK|Central Jutland|77
 Bramming|55.469|8.700|DK|South Denmark|77
+Bradford Regional Airport|41.803|-78.640|US|Pennsylvania|77|f
 Brandywine|38.697|-76.848|US|Maryland|77
 Braunsbedra|51.286|11.890|DE|Saxony-Anhalt|76
 Brakel|50.801|3.763|BE|Flanders|76
 Braidwood|41.265|-88.212|US|Illinois|76
 Bräunlingen|47.930|8.448|DE|Baden-Wurttemberg|76
 Branford Center|41.277|-72.815|US|Connecticut|75
+Brač|43.320|16.637|HR|Split-Dalmatia|75|f
+Braganzavågen|77.894|16.864|SJ||75|f
 Braives|50.628|5.148|BE|Wallonia|75
 Bracebridge Heath|53.196|-0.534|GB|England|75
 Brannenburg|47.740|12.092|DE|Bavaria|75
@@ -135,6 +147,7 @@ Bratslav|48.823|28.938|UA|Vinnytsia|74
 Brampton|52.320|-0.220|GB|England|74
 Braganey|-24.816|-53.122|BR|Paraná|74
 Bratunac|44.185|19.331|BA|Srpska|73
+Bratislava Airport|48.170|17.213|SK|Bratislava Region|73|f
 Bray-Dunes|51.078|2.517|FR|Hauts-de-France|73
 Braffédon|5.138|-4.990|CI|Lagunes District|73
 Brampton|54.950|-2.733|GB|England|73
@@ -150,12 +163,15 @@ Bradley Beach|40.202|-74.012|US|New Jersey|73
 Brás Pires|-20.921|-43.242|BR|Minas Gerais|73
 Bramley|51.327|-1.059|GB|England|73
 Braunau am Inn|48.256|13.043|AT|Upper Austria|72
+Braeriach|57.078|-3.729|GB|Scotland|72|f
+Brasstown Bald|34.874|-83.811|US|Georgia|72|f
 Brastavățu|43.906|24.408|RO|Olt|72
 Bramley|51.195|-0.559|GB|England|72
 Braniştea|45.450|27.850|RO|Galați County|72
 Braço do Trombudo|-27.358|-49.886|BR|Santa Catarina|72
 Brazabrantes|-16.431|-49.389|BR|Goiás|72
 Brædstrup|55.972|9.611|DK|Central Jutland|72
+Brava|14.867|-24.700|CV||72|r
 Brancaleone|37.966|16.103|IT|Calabria|72
 Branston|53.195|-0.475|GB|England|72
 Braloştiţa|44.500|23.517|RO|Dolj|72
@@ -164,6 +180,7 @@ Bransgore|50.782|-1.738|GB|England|71
 Brahima|8.152|-6.160|CI|Woroba|71
 Brasilândia do Sul|-24.197|-53.525|BR|Paraná|71
 Brazzaville|5.068|-6.559|CI|Bas-Sassandra District|71
+Brampton Airport|43.759|-79.874|CA|Ontario|71|f
 Brassac-les-Mines|45.414|3.329|FR|Auvergne-Rhône-Alpes|71
 Brădeşti|46.350|25.350|RO|Harghita County|71
 Brahéri|5.468|-5.270|CI|Goh-Djiboua|71
@@ -176,6 +193,10 @@ Bram|43.244|2.113|FR|Occitanie|70
 Bradner|49.100|-122.417|CA|British Columbia|70
 Brackenridge|40.608|-79.741|US|Pennsylvania|70
 Braubach|50.274|7.645|DE|Rheinland-Pfalz|70
+Bradford County Airport|41.740|-76.446|US|Pennsylvania|70|f
+Bramber Castle|50.883|-0.316|GB|England|70|f
+Brasilia International Airport|-15.871|-47.919|BR|Federal District|70|f
+Brazil Clay County Airport|39.475|-87.100|US|Indiana|70|f
 Brateiu|46.167|24.417|RO|Sibiu County|70
 Brazoria|29.044|-95.569|US|Texas|70
 Brânceni|43.883|25.400|RO|Teleorman County|70
@@ -187,6 +208,9 @@ Brădeanu|44.933|26.850|RO|Buzău County|69
 Brandvlei|-30.465|20.487|ZA|Northern Cape|69
 Brandenburg|37.999|-86.169|US|Kentucky|69
 Brataj|40.268|19.669|AL|Vlorë County|69
+Braden Airpark|40.743|-75.243|US|Pennsylvania|69|f
+Bratsk Reservoir|56.013|101.855|RU|Irkutsk Oblast|69|f
+Brattøra|63.450|10.417|NO|Trøndelag|69|f
 Brăhășești|46.033|27.367|RO|Galați County|68
 Braddock Heights|39.419|-77.504|US|Maryland|68
 Bradash|42.940|21.138|XK|Pristina|68
@@ -204,7 +228,9 @@ Brax|43.618|1.240|FR|Occitanie|67
 Brandýsek|50.189|14.162|CZ|Central Bohemia|67
 Branice|50.051|17.794|PL|Opole Voivodeship|67
 Brastad|58.383|11.483|SE|Västra Götaland|67
-Brava|14.867|-24.700|CV||67|r
+Brace Mountain|42.044|-73.493|US|New York|67|f
+Braganca Airport|41.858|-6.707|PT|Bragança|67|f
+Brak Airport|27.655|14.265|LY|Wadi ash Shati'|67|f
 Brăeşti|47.867|26.450|RO|Botoșani County|67
 Branč|48.219|18.144|SK|Nitra Region|67
 Brantôme|45.364|0.649|FR|New Aquitaine|67
@@ -227,6 +253,12 @@ Bradninch|50.825|-3.425|GB|England|65
 Braddock Hills|40.417|-79.865|US|Pennsylvania|65
 Brătești|47.191|26.686|RO|Iași County|65
 Bramstedt|53.366|8.690|DE|Lower Saxony|65
+Bradley Mountain|41.658|-72.838|US|Connecticut|65|f
+Bragdøya|58.118|8.001|NO|Agder|65|f
+Brangbiji Airport|-8.489|117.412|ID|West Nusa Tenggara|65|f
+Brantley Dam|32.544|-104.381|US|New Mexico|65|f
+Braunschweig-Wolfsburg Airport|52.319|10.556|DE|Lower Saxony|65|f
+Braxon Peak|44.094|-114.997|US|Idaho|65|f
 Bradford|40.132|-84.431|US|Ohio|65
 Brain-sur-Allonnes|47.303|0.066|FR|Pays de la Loire|65
 Brănişca|45.917|22.783|RO|Hunedoara County|65
@@ -257,6 +289,15 @@ Braunston|52.290|-1.203|GB|England|64
 Brasina|44.465|19.157|RS|Central Serbia|63
 Brandico|45.454|10.053|IT|Lombardy|63
 Brădeni|46.083|24.833|RO|Sibiu County|63
+Bradbury Science Museum|35.882|-106.299|US|New Mexico|63|f
+Bradley Rock|-65.016|-64.700|AQ||63|f
+Brady Curtis Field|31.179|-99.323|US|Texas|63|f
+Bragança Paulista Airport|-22.978|-46.538|BR|São Paulo|63|f
+Brahetrolleborg|55.154|10.351|DK|South Denmark|63|f
+Brainerd Lakes Regional Airport|46.398|-94.137|US|Minnesota|63|f
+Brancepeth Castle|54.734|-1.655|GB|England|63|f
+Brandon Municipal Airport|49.907|-99.949|CA|Manitoba|63|f
+Branisko|49.083|20.917|SK|Prešov Region|63|f
 Brandýs nad Orlicí|50.002|16.285|CZ|Pardubice Region|63
 Brassac|43.630|2.498|FR|Occitanie|63
 Braud-et-Saint-Louis|45.248|-0.626|FR|New Aquitaine|63
@@ -297,6 +338,21 @@ Bratenahl|41.543|-81.626|US|Ohio|61
 Bradfield|51.449|-1.131|GB|England|61
 Brădicești|46.848|27.903|RO|Iași County|61
 Brandenberg|47.491|11.895|AT|Tyrol|61
+Brabazon Range|59.387|-138.522|US|Alaska|61|f
+Braddock Bay|43.312|-77.716|US|New York|61|f
+Braddock Peak|40.480|-105.913|US|Colorado|61|f
+Brainerd Dam|46.378|-94.185|US|Minnesota|61|f
+Bråkdalshøi,indre|61.920|9.631|NO|Innlandet|61|f
+Bramble Cay|-9.142|143.876|AU|Queensland|61|f
+Bramley Mountain|42.298|-74.818|US|New York|61|f
+Brämön|62.209|17.710|SE|Västernorrland|61|f
+Brandon Hill|52.510|-6.974|IE|Leinster|61|f
+Brandon Peak|52.216|-10.236|IE|Munster|61|f
+Brandur|63.391|-20.367|IS|South|61|f
+Bråpiggen Peak|-72.900|-3.300|AQ||61|f
+Brașov-Ghimbav International Airport|45.704|25.521|RO|Brașov County|61|f
+Brave Dog Mountain|48.359|-113.461|US|Montana|61|f
+Brazilian Island|-30.183|-57.626|||61|f
 Brakaguhé|6.801|-6.548|CI|Sassandra-Marahoue|61
 Brazatortas|38.659|-4.294|ES|Castille-La Mancha|61
 Brańszczyk|52.629|21.587|PL|Mazovia|61
@@ -317,28 +373,310 @@ Bradford|36.076|-88.810|US|Tennessee|60
 Bratskoye|45.832|33.922|UA|Crimea|60
 Braman Corners|42.809|-74.219|US|New York|60
 Brades|16.792|-62.211|MS|Saint Peter|60
+Bratya Daskalovi|42.302|25.212|BG|Stara Zagora|60
+Brachwitz|51.537|11.869|DE|Saxony-Anhalt|60
+Branchville|33.251|-80.816|US|South Carolina|60
+Brandivy|47.774|-2.945|FR|Brittany|60
+Brănești|45.802|28.086|RO|Galați County|60
+Bradford Abbas|50.926|-2.588|GB|England|60
+Branchville|33.700|-86.400|US|Alabama|60
+Branik|45.857|13.784|SI|Urban Municipality of Nova Gorica|60
+Brachstedt|51.571|12.051|DE|Saxony-Anhalt|60
+Bratton Fleming|51.123|-3.939|GB|England|59
+Branca|43.273|12.681|IT|Umbria|59
+Brännö|57.645|11.782|SE|Västra Götaland|59
+Brankovice|49.156|17.135|CZ|South Moravian|59
+Braškov|50.102|14.101|CZ|Central Bohemia|59
 Braglia|44.984|12.034|IT|Veneto|59
+Brantville|47.369|-64.971|CA|New Brunswick|59
+Brantleyville|33.216|-86.875|US|Alabama|59
+Branky|49.461|17.893|CZ|Zlín|59
+Brayé|7.630|-3.361|CI|Zanzan District|59
+Brandon|43.735|-88.781|US|Wisconsin|59
+Braughing|51.907|0.028|GB|England|59
+Bracquemont|49.940|1.145|FR|Normandy|59
+Braymer|39.587|-93.796|US|Missouri|59
+Brasted|51.277|0.111|GB|England|59
+Brain-sur-Longuenée|47.585|-0.762|FR|Pays de la Loire|58
+Brantley|31.582|-86.257|US|Alabama|58
+Braithwell|53.447|-1.202|GB|England|58
+Branchville|41.146|-74.752|US|New Jersey|58
+Brabazon Point|-64.392|-61.265|AQ||58|f
+Bradley, Mount|-63.885|-58.624|AQ||58|f
+Brady Bridge|40.433|-79.973|US|Pennsylvania|58|f
+Bragebreen|79.776|19.372|SJ|Svalbard|58|f
+Braley Covered Bridge|43.917|-72.556|US|Vermont|58|f
+Brandeckkopf|48.468|8.027|DE|Baden-Wurttemberg|58|f
+Brandenburg Euthanasia Centre|52.411|12.551|DE|Brandenburg|58|f
+Brandenkopf|48.339|8.154|DE|Baden-Wurttemberg|58|f
+Brandon Mountain|52.236|-10.256|IE|Munster|58|f
+Brandy Peak|42.598|-123.881|US|Oregon|58|f
+Brandy Pond|43.956|-70.590|US|Maine|58|f
+Brandywine Airport|39.990|-75.578|US|Pennsylvania|58|f
+Branson Airport|36.538|-93.200|US|Missouri|58|f
+Brantford Airport|43.128|-80.340|CA|Ontario|58|f
+Brattnipane Peaks|-71.883|24.533|AQ||58|f
+Braxon Lake|44.088|-115.013|US|Idaho|58|f
+Bray Head|53.188|-6.076|IE|Leinster|58|f
+Brâncoveanu|44.608|25.538|RO|Dâmbovița County|58
+Braniște|43.982|24.012|RO|Dolj|58
+Bray-et-Lû|49.138|1.656|FR|Île-de-France|58
+Brašina|42.627|18.198|HR|Dubrovnik-Neretva|58
+Brattirò|38.646|15.887|IT|Calabria|58
+Bradford|43.993|-72.129|US|Vermont|58
+Brădet|45.653|25.993|RO|Covasna County|58
+Bratronice|50.068|14.014|CZ|Central Bohemia|58
+Brahlstorf|53.699|11.559|DE|Mecklenburg-Vorpommern|58
+Braceville|41.227|-88.265|US|Illinois|58
+Branjin Vrh|45.796|18.610|HR|County of Osijek-Baranja|58
+Brazzacco|46.121|13.159|IT|Friuli Venezia Giulia|58
+Bradford|35.423|-91.456|US|Arkansas|58
+Bratřejov|49.222|17.913|CZ|Zlín|58
+Brailsford|52.970|-1.622|GB|England|58
+Braak|53.610|10.245|DE|Schleswig-Holstein|58
+Brajčino|40.906|21.159|MK|Resen|58
+Bradu|47.005|25.854|RO|Neamț County|58
+Brasmenil|50.541|3.545|BE|Wallonia|58
+Brant Broughton|53.078|-0.633|GB|England|57
+Brădet|46.583|22.532|RO|Bihor County|57
+Bradford|41.177|-89.658|US|Illinois|57
+Brădiceni|45.058|23.079|RO|Gorj County|57
+Brăteni|47.861|27.021|RO|Botoșani County|57
+Branford|29.959|-82.928|US|Florida|57
+Brae|60.396|-1.353|GB|Scotland|57
+Brázdim|50.183|14.589|CZ|Central Bohemia|57
 Brand|47.101|9.737|AT|Vorarlberg|57
+Brăgăreasa|44.824|26.933|RO|Buzău County|57
+Bratanivka|48.529|27.063|UA|Chernivtsi|57
+Brătășani|44.233|25.250|RO|Teleorman County|57
+Brădățel|47.500|26.166|RO|Suceava|57
+Brazii de Jos|44.851|26.025|RO|Prahova|57
+Brachy|49.817|0.950|FR|Normandy|57
+Braunichswalde|50.800|12.217|DE|Thuringia|57
+Bratonci|46.618|16.219|SI|Municipality of Beltinci|57
+Bradley Junction|27.795|-81.980|US|Florida|57
+Brancourt-en-Laonnois|49.514|3.419|FR|Hauts-de-France|57
+Bratčice|49.065|16.523|CZ|South Moravian|57
+Bratina|45.621|15.827|HR|Zagreb County|57
+Brădești|46.162|27.773|RO|Vaslui County|57
+Brady|46.996|-123.512|US|Washington|57
+Braamt|51.923|6.265|NL|Gelderland|57
+Brătești|44.802|25.915|RO|Prahova|57
+Brasher Falls|44.808|-74.774|US|New York|57
+Braniște|44.271|23.790|RO|Dolj|56
+Bramshall|52.895|-1.911|GB|England|56
+Braibant|50.313|5.061|BE|Wallonia|56
+Braderup|54.835|8.890|DE|Schleswig-Holstein|56
+Brădișoru de Jos|45.079|21.715|RO|Caraș-Severin County|56
+Braničevo|44.705|21.538|RS|Central Serbia|56
+Bradworthy|50.902|-4.384|GB|England|56
+Bras-sur-Meuse|49.210|5.378|FR|Grand Est|56
+Brancourt-le-Grand|49.976|3.382|FR|Hauts-de-France|56
+Brășăuți|46.865|26.437|RO|Neamț County|56
 Braies|46.720|12.133|IT|Trentino-Alto Adige|56
+Brassy|47.262|3.935|FR|Bourgogne-Franche-Comté|56
+Brăteștii de Jos|44.821|25.534|RO|Dâmbovița County|56
+Brawdy|51.880|-5.127|GB|Wales|56
+Bràfim|41.267|1.333|ES|Catalonia|56
+Brazzano|45.976|13.454|IT|Friuli Venezia Giulia|56
+Braunweiler|49.867|7.750|DE|Rheinland-Pfalz|56
+Brassac|42.946|1.538|FR|Occitanie|56
+Braunshorn|50.083|7.517|DE|Rheinland-Pfalz|56
+Braunschwende|51.590|11.242|DE|Saxony-Anhalt|56
+Braidwood|55.710|-3.843|GB|Scotland|56
 Branzi|46.002|9.759|IT|Lombardy|56
+Bradlec|50.451|14.910|CZ|Central Bohemia|55
+Brancas de Cima|39.647|-8.818|PT|Leiria|55
+Braco|56.264|-3.879|GB|Scotland|55
+Brădetu|45.310|24.762|RO|Arges|55
+Brătulești|45.946|27.666|RO|Galați County|55
+Bra|50.324|5.732|BE|Wallonia|55
+Brackley|46.317|-63.149|CA|Prince Edward Island|55
+Bras-d'Asse|43.925|6.125|FR|Provence-Alpes-Côte d'Azur|55
+Brassington|53.085|-1.656|GB|England|55
+Bratrušov|50.009|16.950|CZ|Olomouc Region|55
+Brădet|44.867|23.072|RO|Gorj County|55
+Bradley|33.098|-93.655|US|Arkansas|55
+Brănești|45.814|22.252|RO|Timiș County|55
+Bragg Creek|50.951|-114.560|CA|Alberta|55
+Bramadero|16.388|-96.367|MX|Oaxaca|55
+Bradenville|40.321|-79.340|US|Pennsylvania|55
+Bräunrode|51.642|11.405|DE|Saxony-Anhalt|55
+Brătilești|45.469|26.483|RO|Buzău County|55
+Brătești|45.225|24.709|RO|Arges|55
+Branchon|50.629|4.973|BE|Wallonia|55
+Brătulești|47.126|26.969|RO|Iași County|55
+Bratia din Vale|44.958|24.284|RO|Vâlcea County|54
+Brătășanca|44.934|25.811|RO|Prahova|54
+Brac|43.286|16.680|HR|Split-Dalmatia|54|f
+Brackland Falls|56.250|-4.200|GB|Scotland|54|f
+Bradbury Dam|34.583|-119.980|US|California|54|f
+Bradley Covered Bridge|44.542|-72.010|US|Vermont|54|f
+Bradmoor Island|38.190|-121.918|US|California|54|f
+Bradner Stadium|42.077|-78.421|US|New York|54|f
+Brady Reservoir|31.139|-99.412|US|Texas|54|f
+Brækmoholmane|77.067|22.473|SJ||54|f
+Bragg Islands|-66.468|-66.415|AQ||54|f
+Bragg-Mitchell Mansion|30.692|-88.086|US|Alabama|54|f
+Bråkdalsbelgen|61.894|9.675|NO|Innlandet|54|f
+Brampton Bryan Castle|52.347|-2.926|GB|England|54|f
+Brampton Island|-20.808|149.273|AU|Queensland|54|f
+Bramsnæs|55.688|11.830|DK|Zealand|54|f
+Brand Lake|44.760|-93.932|US|Minnesota|54|f
+Brandon Lake|45.856|-95.600|US|Minnesota|54|f
+Brandsø|55.359|9.705|DK|South Denmark|54|f
+Brandt, Mount|-72.167|1.117|AQ||54|f
+Branigan Lake|38.030|-119.688|US|California|54|f
+Bransfield Island|-63.183|-56.633|AQ||54|f
+Brant Island|41.625|-70.818|US|Massachusetts|54|f
+Brassel Mountain|51.980|-9.704|IE|Munster|54|f
+Bråsvellbreen|79.339|23.575|SJ|Svalbard|54|f
+Brattskarvet Mountain|-72.108|1.408|AQ||54|f
+Braunsteffer Lake|-68.535|78.363|AQ||54|f
+Brautnuten Peak|-71.767|-1.333|AQ||54|f
+Bravaisberget|77.623|14.999|SJ|Svalbard|54|f
+Bravo Glacier|-62.510|-59.802|AQ||54|f
+Brawley Municipal Airport|32.992|-115.514|US|California|54|f
+Braye Bay|49.726|-2.193|GG||54|f
+Brazilian Institute of Geography and Statistics Ecological Reserve|-15.928|-47.870|BR|Federal District|54|f
+Brazos Island|26.031|-97.157|US|Texas|54|f
+Brazos Valley Museum of Natural History|30.664|-96.325|US|Texas|54|f
+Brandscheid|50.561|7.920|DE|Rheinland-Pfalz|54
+Branišovice|48.963|16.435|CZ|South Moravian|54
+Brannay|48.230|3.117|FR|Bourgogne-Franche-Comté|54
+Bransat|46.322|3.229|FR|Auvergne-Rhône-Alpes|54
 Brändö|60.412|21.045|AX|Ålands skärgård|54
+Bradley|52.758|-2.179|GB|England|54
+Bransles|48.153|2.832|FR|Île-de-France|54
+Brangues|45.694|5.531|FR|Auvergne-Rhône-Alpes|54
+Brazo de la Palma (El Rincón Caliente)|18.624|-95.396|MX|Veracruz|54
+Brammer|54.198|9.764|DE|Schleswig-Holstein|53
 Braone|45.990|10.342|IT|Lombardy|53
 Braslovče|46.288|15.040|SI|Municipality of Braslovče|52
+Brandscheid|50.220|6.308|DE|Rheinland-Pfalz|51
 Brazuelo|42.497|-6.157|ES|Castille and León|50
+Brace Hill|42.120|-75.013|US|New York|49|f
+Bracken Peak|-77.850|-85.400|AQ||49|f
+Bracklesham Bay|50.750|-0.900|GB|England|49|f
+Bradda Head|54.093|-4.777|IM|Port Erin|49|f
+Bradfield Channel|56.207|-131.733|US|Alaska|49|f
+Bradford Glacier|-65.887|-64.240|AQ||49|f
+Bradley Ridge|-70.233|65.250|AQ||49|f
+Bradshaw Peak|-81.050|158.567|AQ||49|f
+Bradshaw, Mount|-71.467|163.867|AQ||49|f
+Bragg, Mount|-84.100|-56.716|AQ||49|f
+Brahehus|58.053|14.505|SE|Jönköping|49|f
+Brahma Temple|26.487|74.549|IN|Rajasthan|49|f
+Braillard Point|-62.212|-58.916|AQ||49|f
+Brain Island|-54.167|-36.700|GS||49|f
+Bramble Bay|-27.285|153.080|AU|Queensland|49|f
+Brammah|33.456|76.082|IN|Ladakh|49|f
+Branch County Memorial Airport|41.936|-85.055|US|Michigan|49|f
+Brand Peak|-70.001|-63.873|AQ||49|f
+Brandau Crater|-78.200|163.367|AQ||49|f
+Brandhorn|47.450|13.000|AT|Salzburg|49|f
+Brandon Park|-34.407|150.901|AU|New South Wales|49|f
+Brannan Island|38.147|-121.648|US|California|49|f
+Brash Island|-63.386|-54.915|AQ||49|f
+Bratina Island|-78.017|165.533|AQ||49|f
+Bratina Lagoon|-78.017|165.500|AQ||49|f
+Braun, Mount|-69.432|-71.438|AQ||49|f
+Brauneck|47.664|11.521|DE|Bavaria|49|f
+Brazil, Mount|-72.050|167.983|AQ||49|f
+Brazybreen|76.757|16.633|SJ|Svalbard|49|f
+Brachtendorf|50.233|7.233|DE|Rheinland-Pfalz|49
 Brañosera|42.936|-4.308|ES|Castille and León|49
+Bramstedtlund|54.850|9.067|DE|Schleswig-Holstein|48
 Braojos|41.040|-3.643|ES|Madrid|46
 Bracca|45.823|9.708|IT|Lombardy|43
+Brabant Lake|56.000|-103.717|CA|Saskatchewan|40|f
+Brabrand Sø|56.146|10.107|DK|Central Jutland|40|f
+Bracelet Bay|51.566|-3.977|GB|Wales|40|f
+Brachiopod Mountain|51.483|-116.052|CA|Alberta|40|f
+Brackendale Eagles Park|49.766|-123.178|CA|British Columbia|40|f
+Brackenridge Park|29.456|-98.473|US|Texas|40|f
+Bradbury Island|56.234|-78.883|CA|Nunavut|40|f
+Bradbury Mountain State Park|43.905|-70.181|US|Maine|40|f
+Bradford Island|38.077|-121.663|US|California|40|f
+Brading Roman Villa|50.673|-1.152|GB|England|40|f
+Bradley Lake|43.066|-124.427|US|Oregon|40|f
+Bradley Lake|43.714|-110.755|US|Wyoming|40|f
+Bradshaw Mountains|34.391|-112.365|US|Arizona|40|f
+Brady Glacier|58.581|-136.784|US|Alaska|40|f
+Brady Lake|47.695|-80.969|CA|Ontario|40|f
+Brady Lake|41.165|-81.317|US|Ohio|40|f
+Brae Bay|75.785|-83.249|CA|Nunavut|40|f
+BRAEBURN RANGE|-41.748|172.530|NZ|Nelson Region|40|f
+Braemar Castle|57.014|-3.391|GB|Scotland|40|f
+Bragg Creek Provincial Park|50.933|-114.585|CA|Alberta|40|f
+Brahmagiri|11.932|75.994|IN|Karnataka|40|f
+Bramble Peak|-72.367|166.983|AQ||40|f
+Bramfelder See|53.620|10.064|DE|Hamburg|40|f
+Bramham Island|51.071|-127.556|CA|British Columbia|40|f
+Brampton Lake|50.613|-94.619|CA|Ontario|40|f
+Brampton Old Church Farm|54.947|-2.766|GB|England|40|f
+Brana|46.355|14.588|SI|Municipality of Kamnik|40|f
+Branch Lake|45.237|-78.230|CA|Ontario|40|f
+Branch River|41.960|-71.641|US|Rhode Island|40|f
+Branched Oak Lake State Recreation Area|40.978|-96.867|US|Nebraska|40|f
+Brandau Glacier|-84.900|173.500|AQ||40|f
+Brander Lake|58.441|-110.123|CA|Alberta|40|f
+Brandlammhoren|46.582|8.258|CH|Bern|40|f
+Brandon Castle|52.380|-1.402|GB|England|40|f
+Brandon Hill park|51.453|-2.607|GB|England|40|f
+Brandon Road Lock and Dam|41.505|-88.098|US|Illinois|40|f
+Brandy Bay|50.613|-2.157|GB|England|40|f
+Brandy Lake|44.808|-62.789|CA|Nova Scotia|40|f
+Brandywine Battlefield|39.874|-75.575|US|Pennsylvania|40|f
+Brandywine Creek State Park|39.807|-75.574|US|Delaware|40|f
+Brandywine Falls Park|50.033|-123.119|CA|British Columbia|40|f
+Brandywine Mountain|50.116|-123.236|CA|British Columbia|40|f
+Brandywine Park|39.758|-75.556|US|Delaware|40|f
+Brandywine River Museum|39.870|-75.593|US|Pennsylvania|40|f
+Branscomb Glacier|-78.533|-86.083|AQ||40|f
+Branscomb Peak|-78.516|-85.696|AQ||40|f
+Brant Lake|46.072|-78.509|CA|Ontario|40|f
+Brant Lake|43.716|-73.703|US|New York|40|f
+Brant Lake|43.921|-96.948|US|South Dakota|40|f
+Branthwaite Hall|54.615|-3.448|GB|England|40|f
+Brantingham Lake|43.695|-75.274|US|New York|40|f
+Brantley Lake|32.572|-104.391|US|New Mexico|40|f
+Brantley Lake State Park|32.545|-104.374|US|New Mexico|40|f
+Branton Tower|55.441|-1.929|GB|England|40|f
+Bras|0.930|134.320|ID||40|f
+Bras d'Or Lake|45.860|-60.779|CA|Nova Scotia|40|f
+Brassiere Hills|58.461|-134.028|US|Alaska|40|f
+Brattleboro Museum and Art Center|42.851|-72.556|US|Vermont|40|f
+Bråvalla|58.611|16.103|SE|Östergötland|40|f
+Brave Mountain|57.884|-62.031|CA|Newfoundland and Labrador|40|f
+Brawley Peaks|38.249|-118.923|US|Nevada|40|f
+Bray Island|69.268|-76.998|CA|Nunavut|40|f
+Bray Lake|46.104|-60.126|CA|Nova Scotia|40|f
+Brazeau Reservoir|52.983|-115.602|CA|Alberta|40|f
+Brazoria National Wildlife Refuge|29.110|-95.232|US|Texas|40|f
+Brazos Bend State Park|29.379|-95.595|US|Texas|40|f
 Brazacorta|41.717|-3.367|ES|Castille and León|39
 Brabos|40.778|-4.939|ES|Castille and León|37
+Brauweiler|49.817|7.500|DE|Rheinland-Pfalz|37
+Bradag|-6.993|111.295|ID|Central Java|0
 Bradashesh|41.105|20.023|AL|Elbasan County|0
 Braddan|54.163|-4.506|IM||0|r
 Bradfield|53.417|-1.600|GB|England|0
 Bradley|53.550|-0.133|GB|England|0
+Bradley|53.012|-1.669|GB|England|0
 Bradwell|52.049|-0.788|GB|England|0
+Bragang Tengah|-6.935|112.906|ID|East Java|0
 Braggio|46.303|9.124|CH|Grisons|0
+Brahmana|-8.487|115.210|ID|Bali|0
+Brai|-8.659|122.226|ID|East Nusa Tenggara|0
+Brak|-7.559|109.220|ID|Central Java|0
 Brakas|-7.152|114.614|ID|East Java|0
 Bramley|53.417|-1.267|GB|England|0
 Brâncoveneşti|46.856|24.759|RO|Mureș County|0
+Brandil|-8.145|111.956|ID|East Java|0
+Brangsi|-6.973|112.367|ID|East Java|0
+Brani|-7.559|109.178|ID|Central Java|0
+Bransford|52.172|-2.302|GB|England|0
 Brantingham|53.752|-0.577|GB|England|0
 Brasileira|-4.130|-41.782|BR|Piauí|0
 Bray|51.503|-0.688|GB|England|0

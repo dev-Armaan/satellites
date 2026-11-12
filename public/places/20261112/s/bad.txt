@@ -45,6 +45,7 @@ Bad Pyrmont|51.986|9.252|DE|Lower Saxony|87
 Bad Kissingen|50.202|10.078|DE|Bavaria|87
 Badnāwar|23.022|75.233|IN|Madhya Pradesh|86
 Bad Berleburg|51.052|8.392|DE|North Rhine-Westphalia|86
+Badajoz Airport|38.891|-6.821|ES|Extremadura|86|f
 Bad Rappenau|49.238|9.102|DE|Baden-Wurttemberg|86
 Bāda|26.065|75.022|IN|Rajasthan|86
 Bad Friedrichshall|49.231|9.217|DE|Baden-Wurttemberg|86
@@ -163,6 +164,7 @@ Bad Lobenstein|50.452|11.639|DE|Thuringia|75
 Bad Kösen|51.134|11.722|DE|Saxony-Anhalt|75
 Badmal|20.380|83.286|IN|Odisha|75
 Bad Hall|48.038|14.208|AT|Upper Austria|74
+Badus|46.623|8.664|CH|Uri|74|f
 Bada|51.389|109.860|RU|Zabaykalskiy (Transbaikal) Kray|74
 Badakodanda|19.937|84.551|IN|Odisha|74
 Bad Münstereifel|50.557|6.764|DE|North Rhine-Westphalia|74
@@ -171,6 +173,7 @@ Bad Lauchstädt|51.387|11.870|DE|Saxony-Anhalt|74
 Baden|43.400|-80.650|CA|Ontario|74
 Badra|23.192|81.929|IN|Madhya Pradesh|74
 Bad Berneck im Fichtelgebirge|50.046|11.672|DE|Bavaria|73
+Badgingarra National Park|-30.412|115.422|AU|Western Australia|73|f
 Bad Bocklet|50.266|10.079|DE|Bavaria|73
 Bad Saarow|52.283|14.067|DE|Brandenburg|73
 Badbergen|52.636|7.981|DE|Lower Saxony|73
@@ -207,6 +210,7 @@ Bad Klosterlausnitz|50.917|11.867|DE|Thuringia|71
 Baddeckenstedt|52.083|10.233|DE|Lower Saxony|70
 Bad Salzschlirf|50.624|9.508|DE|Hesse|70
 Badolatosa|37.308|-4.673|ES|Andalusia|70
+Badu Island Airport|-10.150|142.175|AU|Queensland|70|f
 Bad Schandau|50.917|14.155|DE|Saxony|70
 Bad Teinach-Zavelstein|48.691|8.693|DE|Baden-Wurttemberg|70
 Bad Sulza|51.089|11.625|DE|Thuringia|70
@@ -218,6 +222,7 @@ Bademli|38.082|28.058|TR|İzmir Province|69
 Bad Häring|47.511|12.119|AT|Tyrol|69
 Badr al-Janūb|17.885|43.714|SA||69
 Badian|13.032|123.308|PH|Bicol Region|69
+Bådakjávrre|68.257|16.882|NO|Nordland|69|f
 Bad Erlach|47.727|16.214|AT|Lower Austria|68
 Badsey|52.088|-1.899|GB|England|68
 Badolato Marina|38.576|16.565|IT|Calabria|68
@@ -229,6 +234,8 @@ Bad Rippoldsau-Schapbach|48.429|8.326|DE|Baden-Wurttemberg|67
 Bad Eilsen|52.242|9.098|DE|Lower Saxony|67
 Bad Brambach|50.217|12.317|DE|Saxony|67
 Badacsonytomaj|46.807|17.514|HU|Veszprém|67
+Bada Ling|40.373|116.018|CN|Beijing|67|f
+Baden Airpark|48.779|8.081|DE|Baden-Wurttemberg|67|f
 Badaogu|39.473|117.330|CN|Tianjin|67
 Bad Sauerbrunn|47.774|16.328|AT|Burgenland|67
 Bademler|38.274|26.830|TR|İzmir Province|67
@@ -283,6 +290,13 @@ Bad Alexandersbad|50.017|12.017|DE|Bavaria|61
 Bădeana|46.150|27.583|RO|Vaslui County|61
 Badem|50.000|6.617|DE|Rheinland-Pfalz|61
 Badia al Pino|43.404|11.772|IT|Tuscany|61
+Bad Marriage Mountain|48.567|-113.419|US|Montana|61|f
+Bādāmi Bāgh Minto Park|31.592|74.309|PK|Punjab|61|f
+Badentarbet Bay|58.017|-5.367|GB|Scotland|61|f
+Badger Mountain|39.049|-105.513|US|Colorado|61|f
+Badrīnāth|30.733|79.283|IN|Uttarakhand|61|f
+Badu Island|-10.116|142.145|AU|Queensland|61|f
+Badung Strait|-8.638|115.390|ID|Bali|61|f
 Badalucco|43.917|7.846|IT|Liguria|61
 Bădeni|45.153|25.403|RO|Dâmbovița County|61
 Badalasco|45.542|9.555|IT|Lombardy|61
@@ -290,12 +304,63 @@ Bad Waltersdorf|47.170|16.009|AT|Styria|60
 Bădoși|44.147|23.890|RO|Dolj|60
 Badiké|4.601|-6.982|CI||60
 Bad Aussee|47.610|13.782|AT|Styria|60
+Badian|30.338|75.354|IN|Punjab|60
+Bad Bertrich|50.067|7.033|DE|Rheinland-Pfalz|60
+Bădăcin|47.256|22.855|RO|Sălaj County|59
+Bādalpār|21.941|79.355|IN|Madhya Pradesh|59
+Badetto|45.997|10.343|IT|Lombardy|59
+Badaroux|44.537|3.549|FR|Occitanie|59
+Badia A Elmi|43.539|11.032|IT|Tuscany|59
+Badacsonytördemic|46.811|17.474|HU|Veszprém|59
+Badia a Cerreto|43.546|11.025|IT|Tuscany|59
 Badia|46.608|11.896|IT|Trentino-Alto Adige|59
+Badio Kouamikro|7.684|-4.848|CI|Vallée du Bandama District|59
+Bad Eisenkappel|46.488|14.591|AT|Carinthia|59
+Bądkowo|52.705|18.787|PL|Kujawsko-Pomorskie|59
+Badia|42.090|13.917|IT|Abruzzo|59
+Bădeni|45.244|25.180|RO|Arges|58
+Badia Agnano|43.436|11.650|IT|Tuscany|58
+Bad Dürrnberg|47.665|13.090|AT|Salzburg|58
+Baddeck|46.100|-60.748|CA|Nova Scotia|58
+Bade Airport|-7.705|139.562|ID|South Papua|58|f
+Badger Mountains|41.616|-119.334|US|Nevada|58|f
+Badin Lake|35.458|-80.106|US|North Carolina|58|f
+Badong Chang Jiang Daqiao|31.048|110.328|CN|Hubei|58|f
+Badia Prataglia|43.794|11.878|IT|Tuscany|58
+Badendorf|53.868|10.577|DE|Schleswig-Holstein|58
+Badens|43.219|2.508|FR|Occitanie|58
+Badwell Ash|52.283|0.917|GB|England|58
+Badila|45.266|26.511|RO|Buzău County|58
+Bădiuți|47.784|27.209|RO|Botoșani County|58
+Badevel|47.498|6.941|FR|Bourgogne-Franche-Comté|58
+Bădeni|46.489|23.736|RO|Cluj County|58
+Badiw al Mu‘arrajāt|31.925|35.318|PS|West Bank|57
+Badamli|39.450|45.532|AZ|Nakhchivan|57
 Bad Tatzmannsdorf|47.331|16.231|AT|Burgenland|57
 Badarán|42.368|-2.811|ES|La Rioja|57
+Badecon-le-Pin|46.541|1.595|FR|Centre-Val de Loire|57
 Bad Kreuzen|48.267|14.806|AT|Upper Austria|57
+Badger|48.983|-56.032|CA|Newfoundland and Labrador|57
 Badsworth|53.629|-1.301|GB|England|57
+Bademli|37.926|40.961|TR|Diyarbakır Province|56
+Badon|47.250|22.978|RO|Sălaj County|56
+Badby|52.229|-1.183|GB|England|56
+Badra|51.407|10.974|DE|Thuringia|56
+Bădulești|44.761|25.271|RO|Dâmbovița County|56
+Badari|13.333|-14.100|GM|Upper River|56
+Badljevina|45.512|17.193|HR|Požega-Slavonia|56
+Badessankro|7.672|-4.012|CI|Lacs District|55
 Bad Gams|46.871|15.225|AT|Styria|55
+Badger|42.614|-94.146|US|Iowa|55
+Badiv|48.353|22.357|UA|Zakarpattia|55
+Badenheim|49.833|7.967|DE|Rheinland-Pfalz|55
+Badingen|52.608|11.642|DE|Saxony-Anhalt|55
+Badinières|45.508|5.303|FR|Auvergne-Rhône-Alpes|55
+Bad Medicine Lake|47.128|-95.396|US|Minnesota|54|f
+Badener Höhe|48.669|8.276|DE|Baden-Wurttemberg|54|f
+Badgers Island|43.082|-70.752|US|Maine|54|f
+Badgers Rock|42.821|-70.820|US|Massachusetts|54|f
+Badesse|43.383|11.272|IT|Tuscany|54
 Bad Schönau|47.495|16.234|AT|Lower Austria|54
 Bad Blumau|47.117|16.050|AT|Styria|53
 Badolato|38.569|16.525|IT|Calabria|52
@@ -304,11 +369,39 @@ Badia Pavese|45.121|9.469|IT|Lombardy|51
 Bad Traunstein|48.438|15.117|AT|Lower Austria|50
 Bad Leonfelden|48.520|14.295|AT|Upper Austria|49
 Badersdorf|47.196|16.375|AT|Burgenland|49
+Bad Langensalza Airport|51.129|10.622|DE|Thuringia|49|f
+Badeau Hill|42.616|-74.843|US|New York|49|f
+Bader Glacier|-67.617|-66.767|AQ||49|f
+Badger Island|-40.310|147.870|AU|Tasmania|49|f
+Badoc Island|17.920|120.414|PH|Ilocos|49|f
+Badenhard|50.117|7.633|DE|Rheinland-Pfalz|44
 Badules|41.139|-1.254|ES|Aragon|40
+Bad Luck Mountain|43.808|-74.194|US|New York|40|f
+Bad Route Creek Bridge|46.973|-105.133|US|Montana|40|f
+Badacsony|46.803|17.496|HU|Veszprém|40|f
+Badakhshan University|37.101|70.556|AF|Badakhshan|40|f
+Bäderhore|46.613|7.327|CH|Bern|40|f
+Badger Hills|44.978|-106.678|US|Montana|40|f
+Badger Lake|46.040|-80.743|CA|Ontario|40|f
+Badger Lake|50.380|-112.464|CA|Alberta|40|f
+Badger Lake|47.680|-96.012|US|Minnesota|40|f
+Badger Mountain|35.486|-94.831|US|Oklahoma|40|f
+Badia de Palma|39.477|2.626|ES|Balearic Islands|40|f
+Badshot Range|50.667|-117.336|CA|British Columbia|40|f
 Bádenas|41.092|-1.122|ES|Aragon|26
 Bad Kleinkirchheim|46.816|13.781|AT|Carinthia|0
+Bad Krozingen|47.917|7.700|DE|Baden-Wurttemberg|0
+Badai|46.645|123.166|CN|Inner Mongolia|0
+Badaogou|41.517|127.265|CN|Jilin|0
 Bade|-7.167|139.583|ID|South Papua|0
+Badean|-8.145|113.595|ID|East Java|0
+Bader|-6.867|111.655|ID|East Java|0
+Badi|27.880|99.091|CN|Yunnan|0
 Badiangan|11.006|122.501|PH|Western Visayas|0
+Badong|-7.004|111.407|ID|Central Java|0
 Badrah|33.115|45.933|IQ|Wasit|0
 Badrah|49.618|101.990|MN|Khövsgöl Province|0
 Badreh|33.306|47.037|IR|Ilam Province|0
+Badu|27.981|118.932|CN|Zhejiang|0
+Badu|27.453|115.260|CN|Jiangxi|0
+Badur|-6.380|105.847|ID|Banten|0

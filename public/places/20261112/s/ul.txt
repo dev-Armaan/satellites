@@ -9,12 +9,13 @@ Ulu Bedok|1.333|103.933|SG||109
 Ulanhot|46.083|122.083|CN|Inner Mongolia|108
 Uluberiya|22.476|88.099|IN|West Bengal|107
 Ulytau Region|48.139|68.749|KZ||106|r
+Ulster|54.927|-7.939|IE||102|r
 Ulm|48.398|9.992|DE|Baden-Wurttemberg|102
-Ulster|54.927|-7.939|IE||101|r
 Ŭllyul|38.514|125.190|KP|South Hwanghae|101
 Ulu Tiram|1.600|103.817|MY|Johor|98
 Ullal|12.806|74.861|IN|Karnataka|95
 Ullagaram|12.979|80.197|IN|Tamil Nadu|95
+Ulaanbaatar Chinggis Khaan International Airport|47.843|106.767|MN|Ulaanbaatar|92|f
 Ulianópolis|-3.742|-47.495|BR|Pará|92
 Ulliyeri|11.452|75.767|IN|Kerala|90
 Ulundi|-28.335|31.416|ZA|KwaZulu-Natal|90
@@ -22,24 +23,32 @@ Ulaangom|49.981|92.067|MN|Uvs Province|90
 Uliyazhathura|8.582|76.922|IN|Kerala|89
 Ulu Kelang|3.180|101.773|MY|Selangor|89
 Ulundurpet|11.691|79.287|IN|Tamil Nadu|88
+Ulithi Atoll|9.945|139.641|FM|Yap State|87|f
 Uliastay|47.742|96.844|MN|Dzabkhan|84
 Ulongué|-14.723|34.361|MZ|Tete|84
+Ulsan Airport|35.593|129.352|KR|Ulsan|84|f
+Ulyanovsk Vostochny Airport|54.401|48.803|RU|Ulyanovsk|83|f
 Uluborlu|38.078|30.450|TR|Isparta|82
 Ulvila|61.428|21.871|FI|Satakunta|82
 Ulenje|-8.933|33.683|TZ|Mbeya|82
 Üllő|47.388|19.355|HU|Pest County|82
 Ullūr|10.971|79.406|IN|Tamil Nadu|81
 Ulverston|54.196|-3.096|GB|England|81
+Uliaga Island|53.066|-169.767|US|Alaska|81|f
 Ulcinj|41.929|19.224|ME|Ulcinj|81
 Ullanlinna|60.158|24.949|FI|Uusimaa|81
 Ulricehamn|57.792|13.414|SE|Västra Götaland|81
 Ulft|51.890|6.378|NL|Gelderland|80
+Ulak Island|51.365|-178.947|US|Alaska|80|f
 Ulu Kinta|4.667|101.217|MY|Perak|80
 Ul’yanovka|59.639|30.765|RU|Leningradskaya Oblast'|79
 Uludere|37.441|42.852|TR|Şırnak|79
 Ulubey|40.869|37.754|TR|Ordu|79
 Ulmi|44.487|25.780|RO|Giurgiu County|78
 Ulmeni|47.467|23.300|RO|Maramureş|77
+Ulaan Taiga|50.750|98.500|MN||77|f
+Ulong Islands|7.279|134.296|PW|Koror|77|f
+Ulungur Hu|47.333|87.167|CN|Xinjiang|77|f
 Ulladulla|-35.359|150.472|AU|New South Wales|76
 Ulldecona|40.597|0.447|ES|Catalonia|76
 Ulverstone|-41.160|146.182|AU|Tasmania|76
@@ -58,6 +67,9 @@ Ulukulevo|54.435|56.322|RU|Bashkortostan Republic|73
 Ulvenhout|51.549|4.799|NL|North Brabant|73
 Ulieşti|44.583|25.417|RO|Dâmbovița County|73
 Ulmu|44.950|27.317|RO|Brăila County|73
+Ulisuolu|69.862|20.616|NO|Troms|72|f
+Ulriken|60.377|5.387|NO|Vestland|72|f
+Ulva|56.483|-6.233|GB|Scotland|72|f
 Uljma|45.042|21.154|RS|Vojvodina|72
 Uling|10.280|123.710|PH|Central Visayas|72
 Ulmi|44.900|25.500|RO|Dâmbovița County|72
@@ -71,10 +83,15 @@ Ulu-Telyak|54.916|56.983|RU|Bashkortostan Republic|70
 Ulmeni|45.067|26.650|RO|Buzău County|70
 Ulmen|50.209|6.979|DE|Rheinland-Pfalz|70
 Ulrichstein|50.575|9.193|DE|Hesse|70
+Ulanqab Airport|41.130|113.108|CN|Inner Mongolia|70|f
+Ulansu Hai|40.895|108.855|CN|Inner Mongolia|70|f
+Ulster Museum|54.582|-5.935|GB|Northern Ireland|70|f
+Ulukhaktok/Holman Island Airport|70.763|-117.806|CA|Northwest Territories|70|f
 Üllés|46.336|19.845|HU|Csongrád|70
 Ulaniv|49.695|28.133|UA|Vinnytsia|70
 Ultimo - Ulten|46.548|11.004|IT|Trentino-Alto Adige|70
 Ullerslev|55.362|10.652|DK|South Denmark|69
+Ulvøya|63.674|9.070|NO|Trøndelag|69|f
 Ulefoss|59.282|9.265|NO|Telemark|69
 Ulmu|47.018|28.546|MD|Ialoveni|69
 Ula|7.132|125.492|PH|Davao Region|69
@@ -83,18 +100,26 @@ Ulagan|50.631|87.959|RU|Altai|68
 Ulloa|4.703|-75.738|CO|Valle del Cauca Department|68
 Ulestraten|50.906|5.782|NL|Limburg|68
 Ulma|47.883|25.300|RO|Suceava|67
+Ulyanovsk Baratayevka Airport|54.276|48.243|RU|Ulyanovsk|67|f
 Ult-Ugun|61.506|74.216|RU|Khanty-Mansia|66
 Ulytau|48.655|67.006|KZ|Ulytau Region|66
 Ulfborg|56.267|8.322|DK|Central Jutland|66
 Ulstrup|56.390|9.794|DK|Central Jutland|66
 Ulmu|44.267|26.917|RO|Călărași County|66
 Ully-Saint-Georges|49.279|2.281|FR|Hauts-de-France|66
+Ullackalie Lagoon|8.396|81.355|LK|Eastern Province|65|f
+Ulleung-do|37.501|130.861|KR|Gyeongsangbuk-do|65|f
+Ullswater|54.576|-2.891|GB|England|65|f
 Ułęż|51.592|22.107|PL|Lublin|64
 Ulceby|53.617|-0.333|GB|England|64
 Ulanów|50.490|22.264|PL|Subcarpathia|64
 Ulaanhudag|47.333|104.500|MN|Central Aimak|64
 Ullapool|57.899|-5.160|GB|Scotland|64
 Ulassai|39.810|9.500|IT|Sardinia|63
+Ulawa Island|-9.786|161.971|SB|Makira-Ulawa Province|63|f
+Ulban Bay|53.675|137.714|RU|Khabarovsk|63|f
+Ulei Airport|-16.329|168.300|VU|Malampa|63|f
+Úlfljótur's Lake|64.114|-21.035|IS|South|63|f
 Ullastrell|41.526|1.955|ES|Catalonia|63
 Ulashanivka|50.342|26.858|UA|Khmelnytskyi|63
 Ulster Spring|18.315|-77.521|JM|Trelawny Parish|63
@@ -111,6 +136,12 @@ Ulyap|45.054|39.947|RU|Adygeya Republic|61
 Ulugöz|36.355|33.939|TR|Mersin|61
 Ulrichskirchen|48.400|16.483|AT|Lower Austria|61
 Ulrichsberg|48.675|13.910|AT|Upper Austria|61
+Ulawa Airport|-9.861|161.980|SB|Makira-Ulawa Province|61|f
+Ulu Dağ|40.067|29.217|TR|Bursa Province|61|f
+Uludağ Üniversitesi|40.225|28.872|TR|Bursa Province|61|f
+Ulundi Airport|-28.316|31.418|ZA|KwaZulu-Natal|61|f
+Ulvøya|59.870|10.773|NO|Oslo|61|f
+Ulytaū|48.000|66.588|KZ|Ulytau Region|61|f
 Ulukent|39.449|43.591|TR|Ağrı|61
 Ulvik|60.568|6.916|NO|Vestland|61
 Ulianivka|46.207|32.950|UA|Kherson|61
@@ -118,15 +149,92 @@ Ullava|63.600|24.083|FI|Central Ostrobothnia|60
 Ülenurme|58.316|26.725|EE|Tartu|60
 Uluköy|40.786|36.418|TR|Amasya|60
 Ulaşlı|38.177|41.320|TR|Batman|60
+Uley|51.684|-2.306|GB|England|60
 Ulea|38.140|-1.330|ES|Murcia|60
 Uleila del Campo|37.185|-2.205|ES|Andalusia|60
 Ullà|42.050|3.108|ES|Catalonia|59
+Ulmeni|43.902|25.103|RO|Teleorman County|59
+Ulmerfeld|48.075|14.822|AT|Lower Austria|59
+Ullesthorpe|52.484|-1.253|GB|England|59
+Ullervad|58.667|13.867|SE|Västra Götaland|59
+Ulbeek|50.844|5.305|BE|Flanders|59
+Ulucanlar|39.485|42.274|TR|Erzurum|59
+Ulak|37.272|41.801|TR|Şırnak|59
+Ulianivske|47.638|38.401|UA|Donetsk|59
+Ulumal|19.273|-90.623|MX|Campeche|58
+Ulič|48.959|22.428|SK|Prešov Region|58
+Uljaste Järv|59.358|26.771|EE|Ida-Virumaa|58|f
+Ultunafjella|78.480|17.336|SJ|Svalbard|58|f
+Ulupa‘u Crater|21.455|-157.728|US|Hawaii|58|f
+Ulysses S Grant Memorial|38.890|-77.014|US|District of Columbia|58|f
+Ulmet|49.583|7.450|DE|Rheinland-Pfalz|58
+Ullinjas|40.744|19.972|AL|Berat County|58
+Ulmarra|-29.633|153.031|AU|New South Wales|58
+Ulm|47.431|-111.507|US|Montana|57
+Ulubahçe|37.502|37.361|TR|Kahramanmaraş|57
+Ulmi|47.284|27.071|RO|Iași County|57
+Ullared|57.133|12.717|SE|Halland|57
+Ulmi|44.363|24.378|RO|Olt|57
+Uluköy|41.407|32.523|TR|Bartın|56
+Uliuc|45.677|21.361|RO|Timiș County|56
+Ulleskelf|53.854|-1.213|GB|England|56
+Ulsnis|54.570|9.747|DE|Schleswig-Holstein|56
+Uluağaç|36.844|39.139|TR|Şanlıurfa|56
+Ulukonak|37.597|27.831|TR|Aydın|56
+Ulucak|36.980|30.129|TR|Antalya|56
+Ulysses|41.904|-77.762|US|Pennsylvania|56
+Ulyanovka|47.468|30.837|UA|Odesa|55
+Último Esfuerzo|30.789|-112.845|MX|Sonora|55
 Ulimang|7.624|134.642|PW|Ngaraard|55
 Ulà Tirso|40.046|8.903|IT|Sardinia|55
+Ullusca|-11.820|-75.511|PE|Junin|55
+Ulcombe|51.211|0.645|GB|England|55
+Ulieș|46.733|24.334|RO|Mureș County|55
+Ulen|47.079|-96.259|US|Minnesota|55
+Ulmeiro|39.674|-8.659|PT|Leiria|55
+Ulaştı|38.119|41.793|TR|Siirt|55
+Uluköy|41.370|32.136|TR|Zonguldak Province|55
+Ulpamache|-5.323|-79.506|PE|Piura|54
+Ula Point|-64.086|-57.139|AQ||54|f
+Ulaangom Airport|49.969|92.081|MN|Uvs Province|54|f
+Ulan-Ude Airport|51.808|107.438|RU|Buryatiya Republic|54|f
+Ulanhot Airport|46.083|122.017|CN|Inner Mongolia|54|f
+Ullavanjärvi|63.642|24.062|FI|Central Ostrobothnia|54|f
+Ullevål Stadion|59.949|10.734|NO|Oslo|54|f
+Ullmann Point|-62.082|-58.354|AQ||54|f
+Ulster Canal|54.133|-7.367|GB|Northern Ireland|54|f
+Uluköy Barajı|40.779|36.394|TR|Amasya|54|f
+Uluru National Park|-25.346|131.037|AU|Northern Territory|54|f
+Ulvebreen|78.202|18.671|SJ|Svalbard|54|f
+Ulianivka|48.592|33.471|UA|Kirovohrad|54
+Ulyanivka|47.873|31.837|UA|Mykolaiv|54
+Ulignano|43.506|11.082|IT|Tuscany|54
 Ulldemolins|41.322|0.876|ES|Catalonia|53
+Ülsby|54.633|9.600|DE|Schleswig-Holstein|53
+Uleguma|7.083|72.927|MV||49|f
+Ulen|64.159|13.854|NO|Trøndelag|49|f
+Ullscarf|54.500|-3.096|GB|England|49|f
+Ulongwe Airport|-14.703|34.352|MZ|Tete|49|f
+Ultar Sar|36.391|74.717|PK|Gilgit-Baltistan|49|f
+Ulu Peninsula|-63.918|-57.963|AQ||49|f
+Uluguru Mountains|-7.105|37.654|TZ|Morogoro|49|f
+Ulupna Island|-35.833|145.468|AU|Victoria|49|f
+Ulvshale|55.051|12.256|DK|Zealand|49|f
+Ulysses S Grant Peak|37.824|-107.807|US|Colorado|49|f
 Ullulluco|-8.456|-77.427|PE|Ancash|48
 Ulrome|53.992|-0.230|GB|England|48
 Ultramort|42.036|3.035|ES|Catalonia|46
+UL Bend National Wildlife Refuge|47.593|-107.896|US|Montana|40|f
+Ulia|43.331|-1.966|ES|Basque Country|40|f
+Uljuan tekojärvi|64.312|25.934|FI||40|f
+Ulmer Museum|48.397|9.995|DE|Baden-Wurttemberg|40|f
+Ulrichshorn|46.118|7.877|CH|Valais|40|f
+Ulriksdals slott|59.390|18.017|SE|Stockholm|40|f
+Ulsoor|12.976|77.622|IN|Karnataka|40|f
+Ulva Island|-46.928|168.130|NZ|Southland|40|f
+Ulvingen Island|78.335|-88.200|CA|Nunavut|40|f
+Ulvsjön|59.277|18.163|SE|Stockholm|40|f
+Ulaan Khat|47.983|89.842|MN|Bayan-Ölgii Province|0
 Ulaan-Ereg|46.900|109.750|MN|Hentiy|0
 Ulaan-Uul|46.067|100.817|MN|Bayankhongor|0
 Ulaan-Uul|44.333|111.233|MN|East Gobi Aymag|0
@@ -138,6 +246,7 @@ Ulaantolgoy|46.683|92.783|MN|Hovd|0
 Ulakan|-8.498|115.513|ID|Bali|0
 Ulan|39.094|107.980|CN|Inner Mongolia|0
 Ulan Hua|41.513|111.696|CN|Inner Mongolia|0
+Ulan Us|44.288|85.857|CN|Xinjiang|0
 Ulapes|-31.573|-66.237|AR|La Rioja|0
 Ulashan|40.665|108.745|CN|Inner Mongolia|0
 Ulcumayo|-10.967|-75.878|PE|Junin|0
@@ -145,6 +254,7 @@ Uldz|48.690|111.995|MN|Hentiy|0
 Ulee Gle|5.203|96.327|ID|Aceh|0
 Uleeglee|5.191|96.349|ID|Aceh|0
 Uliastai|45.550|116.833|CN|Inner Mongolia|0
+Ulimonong|-8.240|124.405|ID|East Nusa Tenggara|0
 Ullastret|42.000|3.067|ES|Catalonia|0
 Ulley|53.382|-1.302|GB|England|0
 Ullong|-1.371|133.913|ID|West Papua|0
@@ -152,4 +262,6 @@ Ullpayacu|-4.652|-76.588|PE|Loreto|0
 Ulu|2.704|125.394|ID|North Sulawesi|0
 Ulu Siau|2.731|125.408|ID|North Sulawesi|0
 Uluale|-3.907|119.744|ID|South Sulawesi|0
+Uluarang|-6.147|106.045|ID|Banten|0
 Ulukışla|37.548|34.485|TR|Niğde Province|0
+Uluwolo|-8.575|121.291|ID|East Nusa Tenggara|0

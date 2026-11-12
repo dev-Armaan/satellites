@@ -1,9 +1,11 @@
 Cochabamba|-17.382|-66.160|BO|Cochabamba|118
 Coconut Creek|26.252|-80.179|US|Florida|95
 Cocorote|10.320|-68.783|VE|Yaracuy|94
+Cocos Island|5.528|-87.063|CR|Puntarenas Province|93|f
 Cochrane|51.183|-114.469|CA|Alberta|90
 Cocula|20.365|-103.822|MX|Jalisco|89
 Cocal|-3.472|-41.557|BR|Piauí|89
+Cochin International Airport|10.156|76.391|IN|Kerala|88|f
 Cockeysville|39.481|-76.644|US|Maryland|86
 Cocalzinho de Goiás|-15.794|-48.776|BR|Goiás|86
 Coconut Grove|25.713|-80.257|US|Florida|86
@@ -11,6 +13,7 @@ Cocos|-14.184|-44.534|BR|Bahia|85
 Cocoa|28.386|-80.742|US|Florida|85
 Cocal do Sul|-28.599|-49.323|BR|Santa Catarina|85
 Cocorná|6.057|-75.185|CO|Antioquia|83
+Coche Island|10.777|-63.931|VE|Nueva Esparta|81|f
 Cocoa Beach|28.321|-80.609|US|Florida|81
 Cocentaina|38.740|-0.440|ES|Valencia|81
 Cockfosters|51.649|-0.148|GB|England|80
@@ -25,12 +28,16 @@ Cochituate|42.321|-71.364|US|Massachusetts|76
 Cocalinho|-14.397|-50.996|BR|Mato Grosso|76
 Cocal dos Alves|-3.601|-41.443|BR|Piauí|76
 Cocoa West|28.359|-80.771|US|Florida|75
+Coconut Island|-10.050|143.069|AU|Queensland|75|f
 Coco|18.007|-66.259|PR|Salinas|75
 Cochirleanca|45.217|27.033|RO|Buzău County|75
 Cockenzie|55.968|-2.966|GB|Scotland|75
 Cochrane|49.067|-81.033|CA|Ontario|75
+Cochrane Airport|49.106|-81.014|CA|Ontario|74|f
 Cochem|50.145|7.164|DE|Rheinland-Pfalz|74
 Cocal de Telha|-4.559|-41.972|BR|Piauí|74
+Cochise County Airport|32.244|-109.894|US|Arizona|73|f
+Coconut Island|19.729|-155.069|US|Hawaii|73|f
 Cochran|32.387|-83.355|US|Georgia|73
 Cocula|18.236|-99.661|MX|Guerrero|73
 Cochoapa|16.722|-98.374|MX|Guerrero|73
@@ -41,16 +48,22 @@ Cocora|44.733|27.050|RO|Ialomița County|71
 Cockburn Town|21.461|-71.142|TC||71
 Cocheren|49.144|6.856|FR|Grand Est|71
 Cociuba Mare|46.733|22.000|RO|Bihor County|70
+Cochamó Airport|-41.483|-72.307|CL|Los Lagos Region|70|f
+Coco Island|-16.817|59.500|MU|Cargados Carajos|70|f
 Cocobeach|1.000|9.582|GA|Estuaire|70
 Cochrane|-47.256|-72.570|CL|Aysén|69
 Cocucho|19.694|-102.190|MX|Michoacán|69
 Cocagne|46.335|-64.615|CA|New Brunswick|69
+Cochise College Airport|31.370|-109.690|US|Arizona|69|f
+Cochiti Dam|35.611|-106.313|US|New Mexico|69|f
 Cocohital|18.397|-93.345|MX|Tabasco|69
 Cocu|44.867|24.650|RO|Arges|69
 Cochoapa el Grande|17.192|-98.455|MX|Guerrero|68
+Cockatoo Island|-33.847|151.172|AU|New South Wales|67|f
 Coca|41.218|-4.521|ES|Castille and León|66
 Cocorăștii Mislii|45.085|25.922|RO|Prahova|65
 Cockfield|54.614|-1.809|GB|England|64
+Cocos Island|13.237|144.650|GU|Merizo|63|f
 Cocoyotla|18.755|-99.451|MX|Morelos|63
 Cochstedt|51.882|11.411|DE|Saxony-Anhalt|62
 Coclé|8.465|-80.415|PA|Coclé|62
@@ -58,26 +71,90 @@ Cocoreni|44.828|23.314|RO|Gorj County|62
 Coccanile-Cesta|44.917|11.867|IT|Emilia-Romagna|62
 Coconi|44.248|26.884|RO|Călărași County|61
 Cociu|47.199|24.232|RO|Bistrița-Năsăud County|61
+Coco Islands|14.083|93.300|MM||61|f
+Coconut Island|21.434|-157.788|US|Hawaii|61|f
 Cochranton|41.520|-80.048|US|Pennsylvania|61
 Cocoyol|18.164|-88.691|MX|Quintana Roo|60
+Cocumola|40.066|18.430|IT|Apulia|59
+Cocumont|44.449|0.025|FR|New Aquitaine|59
+Coca|47.899|23.265|RO|Satu Mare County|59
+Cochabamba|-9.786|-76.160|PE|Huánuco Department|59
 Cocconato|45.086|8.040|IT|Piedmont|59
+Cocorăștii Caplii|45.067|25.762|RO|Prahova|59
+Cocorăștii Grind|44.847|25.877|RO|Prahova|59
 Cockburn Town|24.052|-74.531|BS|San Salvador|58
+Cockburn Harbour|21.493|-71.533|TC||58
+Cochetopa Dome|38.227|-106.715|US|Colorado|58|f
+Cochetopa Hills|38.189|-106.587|US|Colorado|58|f
+Cochrane Dam|-36.571|149.455|AU|New South Wales|58|f
+Cochrane Dam|47.553|-111.149|US|Montana|58|f
+Cockedhat Mountain|68.147|-150.691|US|Alaska|58|f
+Cockermouth Castle|54.665|-3.362|GB|England|58|f
+Cockroach Island|18.495|-64.464|VG||58|f
+Cocoon Mountains|39.213|-118.535|US|Nevada|58|f
+Cochas|-10.034|-76.502|PE|Huánuco Department|58
+Cockshutt|52.857|-2.838|GB|England|58
 Cocachacra|-11.911|-76.540|PE|Lima region|58
+Cocuilotlazala|17.301|-98.426|MX|Guerrero|57
+Cochinești|44.581|24.763|RO|Arges|57
+Cochisquila|18.914|-99.751|MX|México|57
+Cockatoo Valley|-34.625|138.837|AU|South Australia|57
+Cochranville|39.892|-75.922|US|Pennsylvania|56
+Cocoyol|20.791|-87.750|MX|Yucatán|56
 Cocos Islands|-12.164|96.873|CC||56|c
 Cocorăștii Colț|44.834|25.899|RO|Prahova|56
+Cocoru|44.946|24.298|RO|Vâlcea County|56
+Cocorova|44.657|23.557|RO|Gorj County|56
 Cochabamba|-9.095|-76.837|PE|Huánuco Department|55
+Cocani|44.629|25.895|RO|Dâmbovița County|55
+Cocorăști|44.485|24.213|RO|Olt|55
+Cocherel|49.021|3.103|FR|Île-de-France|55
+Cochiti Lake|35.648|-106.338|US|New Mexico|55
+Cochabamba|-9.802|-76.815|PE|Huánuco Department|55
 Cocharcas|-13.611|-73.739|PE|Apurímac Department|54
+Cochiti|35.609|-106.350|US|New Mexico|54
+Coca Cola Airport|44.422|-123.258|US|Oregon|54|f
+Cockburn Island|-64.201|-56.841|AQ||54|f
+Coco Island Airport|14.135|93.367|MM|Yangon|54|f
+Coconut Island Airport|-10.050|143.070|AU|Queensland|54|f
+Cocos Island Airport|-12.188|96.834|CC||54|f
+Cochiscuatitla|21.206|-98.551|MX|Hidalgo|54
+Cocalzingo|19.095|-97.111|MX|Veracruz|54
 Cochas|-11.660|-75.102|PE|Junin|54
 Cochabamba|-9.494|-77.859|PE|Ancash|53
 Cochea Abajo|8.507|-82.360|PA|Chiriquí Province|53
 Cochamarca|-10.862|-77.129|PE|Lima region|53
 Coclé del Norte|9.075|-80.572|PA|Colón|52
+Cocata Conservation Park|-33.281|135.325|AU|South Australia|49|f
+Cockatoo Island|-16.095|123.609|AU|Western Australia|49|f
+Cockatoo Island|-32.182|152.485|AU|New South Wales|49|f
+Cockburn Sound|-32.192|115.698|AU|Western Australia|49|f
+Cockerell Peninsula|-63.398|-58.145|AQ||49|f
+Cockle Bay|-42.702|147.943|AU|Tasmania|49|f
+Cockle Bay|-19.178|146.829|AU|Queensland|49|f
+Cocks Glacier|-78.683|162.000|AQ||49|f
+Cockscomb|-33.571|24.784|ZA|Eastern Cape|49|f
+Cocoparra National Park|-34.132|146.218|AU|New South Wales|49|f
 Cochas|-12.296|-76.160|PE|Lima region|48
 Cochapetí|-9.987|-77.646|PE|Ancash|48
 Cocullo|42.033|13.775|IT|Abruzzo|45
 Cocas|-13.276|-75.373|PE|Huancavelica|44
 Coca de Alba|40.878|-5.365|ES|Castille and León|42
 Cochamal|-6.406|-77.583|PE|Amazonas|40
+Cochituate Aqueduct (historical)|42.326|-71.208|US|Massachusetts|40|f
+Cochituate State Park|42.313|-71.375|US|Massachusetts|40|f
+Cochran Lake|46.099|-59.993|CA|Nova Scotia|40|f
+Cochran Peak|-79.650|-84.650|AQ||40|f
+Cochrane Lake|51.245|-114.485|CA|Alberta|40|f
+Cockburn Island|45.000|-78.700|CA|Ontario|40|f
+Cockburn Islands|68.084|-108.386|CA|Nunavut|40|f
+Cocked Hat Island|78.790|-74.560|CA|Nunavut|40|f
+Cockroach Bay Aquatic Preserve|27.686|-82.534|US|Florida|40|f
+Cockscomb Mountain|51.233|-115.719|CA|Alberta|40|f
+Cocoa Crater|57.666|-130.704|CA|British Columbia|40|f
+Coconut Island|25.971|-81.746|US|Florida|40|f
+Coconut Point|27.216|-80.278|US|Florida|40|f
+Cocos Lagoon|13.253|144.662|GU|Merizo|40|f
 Cocabamba|-6.600|-78.017|PE|Amazonas|0
 Cochabamba|-6.474|-78.886|PE|Cajamarca Department|0
 Coclecito|8.810|-80.556|PA|Colón|0

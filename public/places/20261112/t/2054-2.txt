@@ -1,0 +1,965 @@
+Kiel|54.321|10.135|DE|Schleswig-Holstein|108
+Lübeck|53.869|10.687|DE|Schleswig-Holstein|107
+Rostock|54.089|12.140|DE|Mecklenburg-Vorpommern|106
+Schwerin|53.629|11.413|DE|Mecklenburg-Vorpommern|100
+Lüneburg|53.251|10.415|DE|Lower Saxony|97
+Celle|52.623|10.080|DE|Lower Saxony|97
+Wismar|53.892|11.456|DE|Mecklenburg-Vorpommern|93
+Stendal|52.606|11.861|DE|Saxony-Anhalt|92
+Uelzen|52.964|10.567|DE|Lower Saxony|91
+Winsen|53.358|10.212|DE|Lower Saxony|90
+Güstrow|53.797|12.173|DE|Mecklenburg-Vorpommern|90
+Ahrensburg|53.677|10.237|DE|Schleswig-Holstein|90
+Geesthacht|53.437|10.373|DE|Schleswig-Holstein|89
+Rathenow|52.607|12.337|DE|Brandenburg|89
+Reinbek|53.518|10.249|DE|Schleswig-Holstein|88
+Bad Oldesloe|53.812|10.374|DE|Schleswig-Holstein|88
+Hansestadt Salzwedel|52.853|11.153|DE|Saxony-Anhalt|86
+Wittenberge|53.000|11.749|DE|Brandenburg|86
+Nykøbing Falster|54.769|11.874|DK|Zealand|86
+Bad Schwartau|53.919|10.697|DE|Schleswig-Holstein|86
+Parchim|53.426|11.849|DE|Mecklenburg-Vorpommern|86
+Mölln|53.621|10.687|DE|Schleswig-Holstein|85
+Munster|52.985|10.090|DE|Lower Saxony|85
+Wittstock|53.161|12.483|DE|Brandenburg|85
+Elmschenhagen|54.289|10.190|DE|Schleswig-Holstein|85
+Eutin|54.135|10.611|DE|Schleswig-Holstein|85
+Stockelsdorf|53.892|10.647|DE|Schleswig-Holstein|84
+Glinde|53.540|10.213|DE|Schleswig-Holstein|84
+Bad Segeberg|53.938|10.307|DE|Schleswig-Holstein|84
+Neustadt in Holstein|54.107|10.815|DE|Schleswig-Holstein|84
+Ratekau|53.946|10.731|DE|Schleswig-Holstein|84
+Preetz|54.236|10.279|DE|Schleswig-Holstein|84
+Ribnitz-Damgarten|54.242|12.457|DE|Mecklenburg-Vorpommern|84
+Schwarzenbek|53.505|10.482|DE|Schleswig-Holstein|83
+Bargteheide|53.730|10.267|DE|Schleswig-Holstein|83
+Ratzeburg|53.700|10.773|DE|Schleswig-Holstein|83
+Pritzwalk|53.149|12.174|DE|Brandenburg|83
+Fehmarn|54.438|11.194|DE|Schleswig-Holstein|82
+Perleberg|53.075|11.857|DE|Brandenburg|82
+Plön|54.162|10.428|DE|Schleswig-Holstein|82
+Wittingen|52.727|10.736|DE|Lower Saxony|82
+Barsbüttel|53.569|10.168|DE|Schleswig-Holstein|82
+Hagenow|53.432|11.192|DE|Mecklenburg-Vorpommern|82
+Ludwigslust|53.325|11.497|DE|Mecklenburg-Vorpommern|82
+Wentorf bei Hamburg|53.495|10.254|DE|Schleswig-Holstein|82
+Scharbeutz|54.024|10.752|DE|Schleswig-Holstein|82
+Nakskov|54.830|11.136|DK|Zealand|82
+Gardelegen|52.525|11.395|DE|Saxony-Anhalt|81
+Kronshagen|54.337|10.082|DE|Schleswig-Holstein|81
+Tranekær|54.998|10.844|DK|South Denmark|81
+Lauenburg|53.372|10.557|DE|Schleswig-Holstein|81
+Bad Doberan|54.107|11.901|DE|Mecklenburg-Vorpommern|81
+Stelle|53.384|10.111|DE|Lower Saxony|81
+Boizenburg|53.381|10.738|DE|Mecklenburg-Vorpommern|81
+Sassenburg|52.517|10.633|DE|Lower Saxony|81
+Grevesmühlen|53.861|11.191|DE|Mecklenburg-Vorpommern|81
+Malente|54.172|10.560|DE|Schleswig-Holstein|81
+Brachenfeld-Ruthenberg|54.072|10.009|DE|Schleswig-Holstein|80
+Kyritz|52.942|12.397|DE|Brandenburg|80
+Premnitz|52.530|12.342|DE|Brandenburg|80
+Oldenburg in Holstein|54.295|10.890|DE|Schleswig-Holstein|80
+Tangermünde|52.545|11.976|DE|Saxony-Anhalt|80
+Adendorf|53.282|10.438|DE|Lower Saxony|80
+Alholm|54.665|11.723|DK|Zealand|80
+Bleckede|53.287|10.735|DE|Lower Saxony|80
+Altenholz|54.398|10.128|DE|Schleswig-Holstein|80
+Lüchow|52.967|11.158|DE|Lower Saxony|80
+Wahlstedt|53.953|10.213|DE|Schleswig-Holstein|80
+Heiligenhafen|54.370|10.976|DE|Schleswig-Holstein|79
+Timmendorfer Strand|53.995|10.777|DE|Schleswig-Holstein|79
+Großhansdorf|53.665|10.286|DE|Schleswig-Holstein|79
+Bad Bevensen|53.079|10.581|DE|Lower Saxony|79
+Ahrensbök|54.009|10.574|DE|Schleswig-Holstein|79
+Hermannsburg|52.833|10.090|DE|Lower Saxony|79
+Dannenberg|53.097|11.090|DE|Lower Saxony|78
+Reinfeld|53.831|10.492|DE|Schleswig-Holstein|78
+Laage|53.926|12.349|DE|Mecklenburg-Vorpommern|78
+Bützow|53.841|11.981|DE|Mecklenburg-Vorpommern|78
+Heikendorf|54.367|10.200|DE|Schleswig-Holstein|78
+Oststeinbek|53.543|10.169|DE|Schleswig-Holstein|78
+Grömitz|54.151|10.960|DE|Schleswig-Holstein|78
+Bordesholm|54.176|10.031|DE|Schleswig-Holstein|78
+Trittau|53.610|10.406|DE|Schleswig-Holstein|78
+Raisdorf|54.281|10.249|DE|Schleswig-Holstein|78
+Ostseebad Kühlungsborn|54.148|11.743|DE|Mecklenburg-Vorpommern|77
+Malchow|53.475|12.422|DE|Mecklenburg-Vorpommern|77
+Faßberg|52.899|10.167|DE|Lower Saxony|77
+Flintbek|54.250|10.067|DE|Schleswig-Holstein|77
+Osterburg|52.787|11.754|DE|Saxony-Anhalt|77
+Karstädt|53.162|11.742|DE|Brandenburg|77
+Havelberg|52.831|12.076|DE|Saxony-Anhalt|77
+Neustadt-Glewe|53.378|11.593|DE|Mecklenburg-Vorpommern|77
+Bienenbüttel|53.142|10.487|DE|Lower Saxony|77
+Reppenstedt|53.248|10.353|DE|Lower Saxony|77
+Wusterhausen|52.891|12.460|DE|Brandenburg|76
+Lemsahl-Mellingstedt|53.690|10.096|DE|Hamburg|76
+Wathlingen|52.537|10.150|DE|Lower Saxony|76
+Schönkirchen|54.333|10.233|DE|Schleswig-Holstein|76
+Lübz|53.463|12.029|DE|Mecklenburg-Vorpommern|76
+Grabow|53.279|11.564|DE|Mecklenburg-Vorpommern|76
+Klausdorf|54.309|10.214|DE|Schleswig-Holstein|76
+Gadebusch|53.702|11.117|DE|Mecklenburg-Vorpommern|76
+Bardowick|53.294|10.388|DE|Lower Saxony|76
+Duvenstedt|53.708|10.104|DE|Hamburg|76
+Tangstedt|53.733|10.087|DE|Schleswig-Holstein|75
+Plau am See|53.458|12.262|DE|Mecklenburg-Vorpommern|75
+Lütjenburg|54.292|10.589|DE|Schleswig-Holstein|75
+Lachendorf|52.617|10.242|DE|Lower Saxony|75
+Maribo|54.777|11.500|DK|Zealand|75
+Gadeland|54.056|10.025|DE|Schleswig-Holstein|75
+Müden|52.528|10.360|DE|Lower Saxony|75
+Ebstorf|53.028|10.418|DE|Lower Saxony|75
+Büchen|53.480|10.618|DE|Schleswig-Holstein|75
+Klötze|52.628|11.167|DE|Saxony-Anhalt|75
+Schwaan|53.940|12.111|DE|Mecklenburg-Vorpommern|75
+Süsel|54.081|10.702|DE|Schleswig-Holstein|75
+Laboe|54.403|10.226|DE|Schleswig-Holstein|75
+Hitzacker|53.153|11.044|DE|Lower Saxony|74
+Trappenkamp|54.040|10.215|DE|Schleswig-Holstein|74
+Molfsee|54.264|10.066|DE|Schleswig-Holstein|74
+Lensahn|54.217|10.883|DE|Schleswig-Holstein|74
+Wittenburg|53.506|11.079|DE|Mecklenburg-Vorpommern|74
+Schilksee|54.418|10.172|DE|Schleswig-Holstein|74
+Crivitz|53.574|11.651|DE|Mecklenburg-Vorpommern|74
+Wesendorf|52.592|10.537|DE|Lower Saxony|74
+Sternberg|53.712|11.827|DE|Mecklenburg-Vorpommern|74
+Suderburg|52.896|10.451|DE|Lower Saxony|74
+Lüdersdorf|53.868|11.749|DE|Mecklenburg-Vorpommern|74
+Groß Pankow|53.120|12.051|DE|Brandenburg|73
+Boostedt|54.011|10.024|DE|Schleswig-Holstein|73
+Heiligengrabe|53.145|12.363|DE|Brandenburg|73
+Sakskøbing|54.800|11.626|DK|Zealand|73
+Hanstedt|53.258|10.014|DE|Lower Saxony|73
+Rudkøbing|54.936|10.710|DK|South Denmark|73
+Hankensbüttel|52.729|10.606|DE|Lower Saxony|73
+Salzhausen|53.223|10.170|DE|Lower Saxony|73
+Seehausen|52.887|11.752|DE|Saxony-Anhalt|73
+Wienhausen|52.580|10.189|DE|Lower Saxony|73
+Schliemannstadt Neubukow|54.032|11.673|DE|Mecklenburg-Vorpommern|73
+Elmenhorst/Lichtenhagen|54.156|12.011|DE|Mecklenburg-Vorpommern|73
+Seeheilbad Graal-Müritz|54.251|12.251|DE|Mecklenburg-Vorpommern|73
+Tessin|54.028|12.465|DE|Mecklenburg-Vorpommern|72
+Neukloster|53.867|11.688|DE|Mecklenburg-Vorpommern|72
+Unterlüß|52.835|10.297|DE|Lower Saxony|72
+Gumtow|52.980|12.254|DE|Brandenburg|72
+Plattenburg|52.959|12.030|DE|Brandenburg|72
+Kröpelin|54.071|11.795|DE|Mecklenburg-Vorpommern|72
+Tespe|53.396|10.411|DE|Lower Saxony|72
+Amelinghausen|53.124|10.213|DE|Lower Saxony|72
+Eschede|52.735|10.235|DE|Lower Saxony|72
+Lübtheen|53.301|11.083|DE|Mecklenburg-Vorpommern|72
+Wahrenholz|52.616|10.600|DE|Lower Saxony|72
+Stege|54.987|12.285|DK|Zealand|72
+Börnsen|53.476|10.282|DE|Schleswig-Holstein|72
+Bad Kleinen|53.771|11.472|DE|Mecklenburg-Vorpommern|72
+Goldberg|53.589|12.088|DE|Mecklenburg-Vorpommern|72
+Deutsch Evern|53.201|10.433|DE|Lower Saxony|71
+Plate|53.551|11.509|DE|Mecklenburg-Vorpommern|71
+Marschacht|53.415|10.375|DE|Lower Saxony|71
+Drage|53.414|10.263|DE|Lower Saxony|71
+Bosau|54.098|10.436|DE|Schleswig-Holstein|71
+Mirow|53.504|11.502|DE|Mecklenburg-Vorpommern|71
+Mönkeberg|54.349|10.195|DE|Schleswig-Holstein|71
+Bornhöved|54.068|10.228|DE|Schleswig-Holstein|71
+Groß Grönau|53.800|10.754|DE|Schleswig-Holstein|71
+Dahlenburg|53.188|10.737|DE|Lower Saxony|71
+Warin|53.801|11.710|DE|Mecklenburg-Vorpommern|71
+Hoisdorf|53.659|10.321|DE|Schleswig-Holstein|71
+Krakow am See|53.651|12.267|DE|Mecklenburg-Vorpommern|71
+Kisdorf|53.809|10.010|DE|Schleswig-Holstein|71
+Brome|52.600|10.936|DE|Lower Saxony|71
+Dänischenhagen|54.428|10.126|DE|Schleswig-Holstein|71
+Melbeck|53.177|10.409|DE|Lower Saxony|71
+Sülfeld|53.801|10.231|DE|Schleswig-Holstein|70
+Rickling|54.005|10.170|DE|Schleswig-Holstein|70
+Bismark|52.661|11.555|DE|Saxony-Anhalt|70
+Eicklingen|52.551|10.185|DE|Lower Saxony|70
+Scharnebeck|53.292|10.502|DE|Lower Saxony|70
+Zarrentin am Schaalsee|53.549|10.917|DE|Mecklenburg-Vorpommern|70
+Dassow|53.911|10.976|DE|Mecklenburg-Vorpommern|70
+Sundby|54.767|11.850|DK|Zealand|70
+Klütz|53.965|11.164|DE|Mecklenburg-Vorpommern|70
+Ascheberg|54.150|10.346|DE|Schleswig-Holstein|70
+Brietlingen|53.333|10.443|DE|Lower Saxony|70
+Dassendorf|53.495|10.360|DE|Schleswig-Holstein|70
+Brüel|53.737|11.715|DE|Mecklenburg-Vorpommern|70
+Kritzmow|54.052|12.053|DE|Mecklenburg-Vorpommern|70
+Putlitz|53.249|12.042|DE|Brandenburg|70
+Dorf Mecklenburg|53.843|11.463|DE|Mecklenburg-Vorpommern|70
+Wustrow|52.924|11.128|DE|Lower Saxony|70
+Lütjensee|53.646|10.365|DE|Schleswig-Holstein|70
+Lambrechtshagen|54.102|12.016|DE|Mecklenburg-Vorpommern|70
+Wrestedt|52.904|10.575|DE|Lower Saxony|70
+Escheburg|53.467|10.309|DE|Schleswig-Holstein|70
+Luftkurort Arendsee|52.881|11.486|DE|Saxony-Anhalt|69
+Broderstorf|54.081|12.264|DE|Mecklenburg-Vorpommern|69
+Bad Wilsnack|52.956|11.949|DE|Brandenburg|69
+Wittenförden|53.629|11.330|DE|Mecklenburg-Vorpommern|69
+Löcknitz|53.286|11.779|DE|Mecklenburg-Vorpommern|69
+Bargfeld-Stegen|53.768|10.188|DE|Schleswig-Holstein|69
+Wankendorf|54.112|10.205|DE|Schleswig-Holstein|69
+Rehna|53.780|11.052|DE|Mecklenburg-Vorpommern|69
+Wattenbek|54.164|10.054|DE|Schleswig-Holstein|69
+Admannshagen-Bargeshagen|54.130|11.999|DE|Mecklenburg-Vorpommern|69
+Kalbe|52.657|11.386|DE|Saxony-Anhalt|69
+Gägelow|53.686|11.896|DE|Mecklenburg-Vorpommern|69
+Dummerstorf|54.015|12.228|DE|Mecklenburg-Vorpommern|69
+Wieren|52.885|10.659|DE|Lower Saxony|69
+Lenzen|53.092|11.475|DE|Brandenburg|69
+Suhlendorf|52.927|10.766|DE|Lower Saxony|69
+Wriedel|53.031|10.298|DE|Lower Saxony|68
+Ostseebad Boltenhagen|53.988|11.202|DE|Mecklenburg-Vorpommern|68
+Bentwisch|54.115|12.205|DE|Mecklenburg-Vorpommern|68
+Schönwalde am Bungsberg|54.190|10.755|DE|Schleswig-Holstein|68
+Dömitz|53.141|11.250|DE|Mecklenburg-Vorpommern|68
+Papendorf|54.035|12.133|DE|Mecklenburg-Vorpommern|68
+Lalendorf|53.758|12.390|DE|Mecklenburg-Vorpommern|68
+Embsen|53.176|10.346|DE|Lower Saxony|68
+Adelheidsdorf|52.564|10.060|DE|Lower Saxony|68
+Rövershagen|54.177|12.243|DE|Mecklenburg-Vorpommern|68
+Brüsewitz|53.676|11.244|DE|Mecklenburg-Vorpommern|68
+Egestorf|53.193|10.063|DE|Lower Saxony|68
+Hasseldieksdamm|54.317|10.083|DE|Schleswig-Holstein|68
+Clenze|52.937|10.956|DE|Lower Saxony|68
+Nahe|53.794|10.136|DE|Schleswig-Holstein|68
+Wangels|54.272|10.764|DE|Schleswig-Holstein|68
+Osdorf|54.426|10.016|DE|Schleswig-Holstein|68
+Schashagen|54.135|10.883|DE|Schleswig-Holstein|68
+Roggentin|54.071|12.204|DE|Mecklenburg-Vorpommern|67
+Nørre Alslev|54.898|11.884|DK|Zealand|67
+Eldingen|52.684|10.344|DE|Lower Saxony|67
+Langlingen|52.556|10.284|DE|Lower Saxony|67
+Vögelsen|53.274|10.354|DE|Lower Saxony|67
+Seedorf|54.051|10.409|DE|Schleswig-Holstein|67
+Selmsdorf|53.882|10.860|DE|Mecklenburg-Vorpommern|67
+Banzkow|53.525|11.523|DE|Mecklenburg-Vorpommern|67
+Wohltorf|53.517|10.291|DE|Schleswig-Holstein|67
+Elmenhorst|53.766|10.264|DE|Schleswig-Holstein|67
+Leezen|53.663|11.499|DE|Mecklenburg-Vorpommern|67
+Stubbekøbing|54.889|12.041|DK|Zealand|67
+Grossenbrode|54.383|11.083|DE|Schleswig-Holstein|67
+Barendorf|53.229|10.522|DE|Lower Saxony|67
+Neuburg|53.407|11.917|DE|Mecklenburg-Vorpommern|67
+Rosche|52.987|10.752|DE|Lower Saxony|67
+Itzstedt|53.808|10.158|DE|Schleswig-Holstein|67
+Neu Kaliß|53.175|11.294|DE|Mecklenburg-Vorpommern|67
+Kirchgellersen|53.231|10.293|DE|Lower Saxony|67
+Toppenstedt|53.264|10.115|DE|Lower Saxony|67
+Friedrichsort|54.394|10.176|DE|Schleswig-Holstein|66
+Schönhausen|52.581|12.039|DE|Saxony-Anhalt|66
+Handorf|53.341|10.347|DE|Lower Saxony|66
+Bönebüttel|54.079|10.059|DE|Schleswig-Holstein|66
+Berkenthin|53.734|10.642|DE|Schleswig-Holstein|66
+Seth|53.847|10.174|DE|Schleswig-Holstein|66
+Groß Oesingen|52.648|10.464|DE|Lower Saxony|66
+Delingsdorf|53.706|10.252|DE|Schleswig-Holstein|66
+Marstal|54.856|10.517|DK|South Denmark|66
+Parsau|52.535|10.890|DE|Lower Saxony|66
+Groß Kummerfeld|54.049|10.076|DE|Schleswig-Holstein|66
+Siek|53.636|10.297|DE|Schleswig-Holstein|66
+Beetzendorf|52.702|11.089|DE|Saxony-Anhalt|66
+Rødby|54.695|11.389|DK|Zealand|66
+Rhinow|52.751|12.342|DE|Brandenburg|66
+Probsteierhagen|54.362|10.288|DE|Schleswig-Holstein|66
+Radbruch|53.311|10.286|DE|Lower Saxony|66
+Tremsbüttel|53.744|10.310|DE|Schleswig-Holstein|66
+Bernitt|53.904|11.887|DE|Mecklenburg-Vorpommern|66
+Jembke|52.500|10.765|DE|Lower Saxony|66
+Blekendorf|54.282|10.658|DE|Schleswig-Holstein|65
+Himbergen|53.094|10.729|DE|Lower Saxony|65
+Rullstorf|53.286|10.530|DE|Lower Saxony|65
+Hartenholm|53.899|10.060|DE|Schleswig-Holstein|65
+Jersbek|53.741|10.224|DE|Schleswig-Holstein|65
+Breitenfelde|53.606|10.633|DE|Schleswig-Holstein|65
+Barum|53.348|10.411|DE|Lower Saxony|65
+Melsdorf|54.316|10.030|DE|Schleswig-Holstein|65
+Gelbensande|54.203|12.302|DE|Mecklenburg-Vorpommern|65
+Arneburg|52.676|12.005|DE|Saxony-Anhalt|65
+Börgerende-Rethwisch|54.142|11.925|DE|Mecklenburg-Vorpommern|65
+Damp|54.585|10.018|DE|Schleswig-Holstein|65
+Schellhorn|54.230|10.294|DE|Schleswig-Holstein|65
+Westergellersen|53.234|10.246|DE|Lower Saxony|65
+Pinnow|53.602|11.546|DE|Mecklenburg-Vorpommern|65
+Breese|53.000|11.800|DE|Brandenburg|65
+Fahrenkrug|53.944|10.253|DE|Schleswig-Holstein|65
+Zernien|53.068|10.883|DE|Lower Saxony|65
+Ostseebad Dierhagen|54.292|12.358|DE|Mecklenburg-Vorpommern|65
+Pronstorf|53.957|10.470|DE|Schleswig-Holstein|65
+Großensee|53.613|10.340|DE|Schleswig-Holstein|65
+Leezen|53.865|10.254|DE|Schleswig-Holstein|64
+Gudow|53.556|10.770|DE|Schleswig-Holstein|64
+Ahnsbeck|52.611|10.285|DE|Lower Saxony|64
+Brackel|53.300|10.049|DE|Lower Saxony|64
+Artlenburg|53.372|10.488|DE|Lower Saxony|64
+Bösdorf|54.140|10.491|DE|Schleswig-Holstein|64
+Lützow|53.653|11.176|DE|Mecklenburg-Vorpommern|64
+Ummern|52.591|10.432|DE|Lower Saxony|64
+Sandesneben|53.689|10.487|DE|Schleswig-Holstein|64
+Klietz|52.668|12.068|DE|Saxony-Anhalt|64
+Rastow|53.457|11.431|DE|Mecklenburg-Vorpommern|64
+Gerdau|52.967|10.419|DE|Lower Saxony|64
+Panker|54.333|10.567|DE|Schleswig-Holstein|64
+Wendisch Evern|53.216|10.471|DE|Lower Saxony|64
+Südergellersen|53.211|10.295|DE|Lower Saxony|64
+Stapelfeld|53.606|10.215|DE|Schleswig-Holstein|64
+Altenmedingen|53.130|10.602|DE|Lower Saxony|64
+Wulfsen|53.302|10.143|DE|Lower Saxony|64
+Kasseedorf|54.166|10.721|DE|Schleswig-Holstein|64
+Zarpen|53.870|10.516|DE|Schleswig-Holstein|64
+Lübstorf|53.726|11.415|DE|Mecklenburg-Vorpommern|64
+Spornitz|53.407|11.719|DE|Mecklenburg-Vorpommern|64
+Bergen an der Dumme|52.891|10.956|DE|Lower Saxony|64
+Strande|54.440|10.174|DE|Schleswig-Holstein|64
+Soderstorf|53.143|10.148|DE|Lower Saxony|64
+Stralendorf|53.575|11.304|DE|Mecklenburg-Vorpommern|64
+Neu Darchau|53.229|10.885|DE|Lower Saxony|64
+Krummesse|53.781|10.642|DE|Schleswig-Holstein|64
+Dedelstorf|52.701|10.504|DE|Lower Saxony|64
+Sukow|53.544|11.562|DE|Mecklenburg-Vorpommern|64
+Stensved|54.997|12.030|DK|Zealand|64
+Gremersdorf|54.332|10.935|DE|Schleswig-Holstein|64
+Tülau|52.576|10.878|DE|Lower Saxony|63
+Klein Rönnau|53.963|10.323|DE|Schleswig-Holstein|63
+Sierksdorf|54.066|10.770|DE|Schleswig-Holstein|63
+Schnega|52.891|10.892|DE|Lower Saxony|63
+Uchtspringe|52.539|11.598|DE|Saxony-Anhalt|63
+Lehmkuhlen|54.233|10.367|DE|Schleswig-Holstein|63
+Garstedt|53.285|10.161|DE|Lower Saxony|63
+Küsten|52.978|11.062|DE|Lower Saxony|63
+Witzhave|53.571|10.337|DE|Schleswig-Holstein|63
+Rødbyhavn|54.659|11.355|DK|Zealand|63
+Saal|54.311|12.499|DE|Mecklenburg-Vorpommern|63
+Eldena|53.232|11.418|DE|Mecklenburg-Vorpommern|63
+Malliß|53.211|11.327|DE|Mecklenburg-Vorpommern|63
+Zurow|53.864|11.614|DE|Mecklenburg-Vorpommern|63
+Dabel|53.661|11.900|DE|Mecklenburg-Vorpommern|63
+Dümmer|53.576|11.205|DE|Mecklenburg-Vorpommern|63
+Lübow|53.853|11.524|DE|Mecklenburg-Vorpommern|63
+Nahrendorf|53.174|10.814|DE|Lower Saxony|63
+Mielkendorf|54.283|10.041|DE|Schleswig-Holstein|63
+Steinhorst|52.688|10.404|DE|Lower Saxony|63
+Gartow|53.025|11.462|DE|Lower Saxony|63
+Wittorf|53.330|10.376|DE|Lower Saxony|63
+Stadensen|52.876|10.556|DE|Lower Saxony|63
+Hamberge|53.839|10.582|DE|Schleswig-Holstein|63
+Holeby|54.711|11.464|DK|Zealand|63
+Ziesendorf|53.994|12.039|DE|Mecklenburg-Vorpommern|63
+Søllested|54.810|11.271|DK|Zealand|63
+Kuddewörde|53.588|10.403|DE|Schleswig-Holstein|63
+Reinstorf|53.234|10.573|DE|Lower Saxony|63
+Kalkhorst|53.970|11.045|DE|Mecklenburg-Vorpommern|62
+Stolpe|54.127|10.221|DE|Schleswig-Holstein|62
+Goldbeck|52.717|11.861|DE|Saxony-Anhalt|62
+Sprakensehl|52.767|10.492|DE|Lower Saxony|62
+Grönwohld|53.642|10.408|DE|Schleswig-Holstein|62
+Pretzier|52.833|11.261|DE|Saxony-Anhalt|62
+Schönberg|53.683|10.427|DE|Schleswig-Holstein|62
+Selent|54.289|10.427|DE|Schleswig-Holstein|62
+Demen|53.630|11.766|DE|Mecklenburg-Vorpommern|62
+Klein Gusborn|53.083|11.193|DE|Lower Saxony|62
+Lüder|52.809|10.666|DE|Lower Saxony|62
+Væggerløse|54.712|11.925|DK|Zealand|62
+Gülzow|53.442|10.491|DE|Schleswig-Holstein|62
+Rümpel|53.785|10.350|DE|Schleswig-Holstein|62
+Tarnow|53.779|12.018|DE|Mecklenburg-Vorpommern|62
+Tiddische|52.518|10.808|DE|Lower Saxony|62
+Bartenshagen-Parkentin|54.081|11.978|DE|Mecklenburg-Vorpommern|62
+Bobitz|53.804|11.359|DE|Mecklenburg-Vorpommern|62
+Thomasburg|53.232|10.658|DE|Lower Saxony|62
+Carlow|53.759|10.938|DE|Mecklenburg-Vorpommern|62
+Hornstorf|53.910|11.532|DE|Mecklenburg-Vorpommern|62
+Klein Rogahn|53.605|11.346|DE|Mecklenburg-Vorpommern|62
+Dobbertin|53.623|12.075|DE|Mecklenburg-Vorpommern|62
+Neuwittenbek|54.368|10.027|DE|Schleswig-Holstein|62
+Dobersdorf|54.319|10.280|DE|Schleswig-Holstein|62
+Dreetz|52.803|12.460|DE|Brandenburg|62
+Marxen|53.312|10.004|DE|Lower Saxony|62
+Stäbelow|54.041|12.023|DE|Mecklenburg-Vorpommern|62
+Eyendorf|53.204|10.156|DE|Lower Saxony|62
+Nysted|54.665|11.734|DK|Zealand|62
+Blowatz|53.990|11.534|DE|Mecklenburg-Vorpommern|62
+Jürgenshagen|53.954|11.897|DE|Mecklenburg-Vorpommern|62
+Güster|53.539|10.676|DE|Schleswig-Holstein|62
+Göhl|54.284|10.941|DE|Schleswig-Holstein|62
+Domsühl|53.487|11.771|DE|Mecklenburg-Vorpommern|62
+Jävenitz|52.524|11.499|DE|Saxony-Anhalt|62
+Lüderitz|52.509|11.743|DE|Saxony-Anhalt|62
+Kayhude|53.756|10.132|DE|Schleswig-Holstein|62
+Retgendorf|53.729|11.504|DE|Mecklenburg-Vorpommern|61
+Linau|53.644|10.469|DE|Schleswig-Holstein|61
+Alt Meteln|53.747|11.341|DE|Mecklenburg-Vorpommern|61
+Kavelstorf|54.007|12.195|DE|Mecklenburg-Vorpommern|61
+Mühl Rosin|53.764|12.214|DE|Mecklenburg-Vorpommern|61
+Pölitz|53.773|10.383|DE|Schleswig-Holstein|61
+Groß Wokern|53.751|12.492|DE|Mecklenburg-Vorpommern|61
+Lasbek|53.733|10.367|DE|Schleswig-Holstein|61
+Sievershütten|53.842|10.112|DE|Schleswig-Holstein|61
+Wagenhoff|52.552|10.523|DE|Lower Saxony|61
+Altenkrempe|54.132|10.822|DE|Schleswig-Holstein|61
+Kastorf|53.746|10.567|DE|Schleswig-Holstein|61
+Felm|54.410|10.061|DE|Schleswig-Holstein|61
+Betzendorf|53.138|10.313|DE|Lower Saxony|61
+Schlagsdorf|53.734|10.826|DE|Mecklenburg-Vorpommern|61
+Neukirchen|54.217|10.555|DE|Schleswig-Holstein|61
+Wendtorf|54.412|10.290|DE|Schleswig-Holstein|61
+Raben Steinfeld|53.601|11.505|DE|Mecklenburg-Vorpommern|61
+Giekau|54.319|10.506|DE|Schleswig-Holstein|61
+Gramkow|53.921|11.317|DE|Mecklenburg-Vorpommern|61
+Bastorf|54.125|11.697|DE|Mecklenburg-Vorpommern|61
+Kröppelshagen-Fahrendorf|53.490|10.317|DE|Schleswig-Holstein|61
+Kusey|52.582|11.096|DE|Saxony-Anhalt|61
+Hammoor|53.714|10.322|DE|Schleswig-Holstein|61
+Dahme|54.222|11.085|DE|Schleswig-Holstein|61
+Wardow|53.931|12.408|DE|Mecklenburg-Vorpommern|61
+Idestrup|54.743|11.957|DK|Zealand|61
+Hohenfelde|54.370|10.497|DE|Schleswig-Holstein|61
+Heringsdorf|54.301|11.007|DE|Schleswig-Holstein|61
+Weisen|53.025|11.787|DE|Brandenburg|61
+Barwedel|52.522|10.775|DE|Lower Saxony|61
+Mönchhagen|54.151|12.217|DE|Mecklenburg-Vorpommern|61
+Groß Laasch|53.346|11.549|DE|Mecklenburg-Vorpommern|61
+Jameln|53.042|11.075|DE|Lower Saxony|61
+Sandau|52.790|12.046|DE|Saxony-Anhalt|61
+Mühlen Eichsen|53.758|11.250|DE|Mecklenburg-Vorpommern|61
+Nostorf|53.407|10.654|DE|Mecklenburg-Vorpommern|61
+Soltendieck|52.874|10.762|DE|Lower Saxony|61
+Kellenhusen|54.192|11.060|DE|Schleswig-Holstein|61
+Garlstorf|53.237|10.101|DE|Lower Saxony|61
+Warnow|53.786|11.881|DE|Mecklenburg-Vorpommern|61
+Martensrade|54.280|10.394|DE|Schleswig-Holstein|61
+Ruhwinkel|54.093|10.221|DE|Schleswig-Holstein|61
+Eskilstrup|54.856|11.887|DK|Zealand|61
+Struvenhütten|53.865|10.056|DE|Schleswig-Holstein|61
+Todendorf|53.695|10.348|DE|Schleswig-Holstein|61
+Wattmannshagen|53.779|12.413|DE|Mecklenburg-Vorpommern|61
+Weste|53.059|10.703|DE|Lower Saxony|61
+Siggelkow|53.387|11.938|DE|Mecklenburg-Vorpommern|60
+Grebin|54.197|10.496|DE|Schleswig-Holstein|60
+Riepsdorf|54.226|10.972|DE|Schleswig-Holstein|60
+Uenglingen|52.618|11.812|DE|Saxony-Anhalt|60
+Biendorf|54.076|11.702|DE|Mecklenburg-Vorpommern|60
+Flessau|52.760|11.672|DE|Saxony-Anhalt|60
+Seehof|53.692|11.433|DE|Mecklenburg-Vorpommern|60
+Breddin|52.886|12.224|DE|Brandenburg|60
+Retschow|54.046|11.878|DE|Mecklenburg-Vorpommern|60
+Todesfelde|53.894|10.179|DE|Schleswig-Holstein|60
+Woltersdorf|52.954|11.219|DE|Lower Saxony|60
+Negernbötel|53.983|10.249|DE|Schleswig-Holstein|60
+Roggendorf|53.693|11.014|DE|Mecklenburg-Vorpommern|60
+Eimke|52.966|10.313|DE|Lower Saxony|60
+Echem|53.337|10.536|DE|Lower Saxony|60
+Brügge|54.176|10.069|DE|Schleswig-Holstein|60
+Oldendorf|53.156|10.215|DE|Lower Saxony|60
+Bark|53.911|10.179|DE|Schleswig-Holstein|60
+Nusse|53.657|10.584|DE|Schleswig-Holstein|60
+Sülstorf|53.510|11.376|DE|Mecklenburg-Vorpommern|60
+Grube|54.230|11.037|DE|Schleswig-Holstein|60
+Beedenbostel|52.643|10.259|DE|Lower Saxony|60
+Hanstedt Eins|53.046|10.374|DE|Lower Saxony|60
+Mestlin|53.580|11.927|DE|Mecklenburg-Vorpommern|60
+Lüssow|53.839|12.143|DE|Mecklenburg-Vorpommern|60
+Weede|53.923|10.371|DE|Schleswig-Holstein|60
+Iden|52.780|11.913|DE|Saxony-Anhalt|60
+Wöbbelin|53.403|11.501|DE|Mecklenburg-Vorpommern|60
+Gülzow|53.820|12.067|DE|Mecklenburg-Vorpommern|60
+Glasau|54.050|10.517|DE|Schleswig-Holstein|60
+Trebel|52.995|11.317|DE|Lower Saxony|60
+Wesenberg|53.833|10.550|DE|Schleswig-Holstein|60
+Höfer|52.682|10.252|DE|Lower Saxony|60
+Schönewörde|52.633|10.633|DE|Lower Saxony|60
+Vierhöfen|53.268|10.216|DE|Lower Saxony|60
+Gödenstorf|53.229|10.123|DE|Lower Saxony|60
+Bergfeld|52.544|10.845|DE|Lower Saxony|60
+Müssen|53.492|10.564|DE|Schleswig-Holstein|60
+Apenburg|52.712|11.205|DE|Saxony-Anhalt|60
+Damshagen|53.929|11.153|DE|Mecklenburg-Vorpommern|59
+Obernholz|52.766|10.597|DE|Lower Saxony|59
+Berge|53.238|11.872|DE|Brandenburg|59
+Krembz|53.651|11.061|DE|Mecklenburg-Vorpommern|59
+Vastorf|53.198|10.546|DE|Lower Saxony|59
+Waddeweitz|52.996|10.959|DE|Lower Saxony|59
+Kakerbeck|52.667|11.279|DE|Saxony-Anhalt|59
+Sterley|53.620|10.818|DE|Schleswig-Holstein|59
+Kuchelmiß|53.682|12.362|DE|Mecklenburg-Vorpommern|59
+Dersau|54.118|10.334|DE|Schleswig-Holstein|59
+Witzeeze|53.452|10.608|DE|Schleswig-Holstein|59
+Ærøskøbing|54.888|10.411|DK|South Denmark|59
+Vellahn|53.401|10.967|DE|Mecklenburg-Vorpommern|59
+Kunrau|52.567|11.018|DE|Saxony-Anhalt|59
+Groß Sarau|53.772|10.737|DE|Schleswig-Holstein|59
+Dähre|52.798|10.907|DE|Saxony-Anhalt|59
+Klein Belitz|53.938|11.966|DE|Mecklenburg-Vorpommern|59
+Neuengörs|53.900|10.383|DE|Schleswig-Holstein|59
+Kattendorf|53.843|10.023|DE|Schleswig-Holstein|59
+Glasin|53.912|11.737|DE|Mecklenburg-Vorpommern|59
+Cumlosen|53.032|11.658|DE|Brandenburg|59
+Lanz|53.074|11.599|DE|Brandenburg|59
+Noer|54.464|10.002|DE|Schleswig-Holstein|59
+Blankenhagen|54.168|12.344|DE|Mecklenburg-Vorpommern|59
+Reddelich|54.089|11.851|DE|Mecklenburg-Vorpommern|59
+Rondeshagen|53.755|10.629|DE|Schleswig-Holstein|59
+Schwartbuck|54.358|10.479|DE|Schleswig-Holstein|59
+Stuvenborn|53.852|10.126|DE|Schleswig-Holstein|59
+Rubow|53.756|11.572|DE|Mecklenburg-Vorpommern|59
+Marnitz|53.318|11.928|DE|Mecklenburg-Vorpommern|59
+Schillsdorf|54.117|10.124|DE|Schleswig-Holstein|59
+Ziethen|53.694|10.809|DE|Schleswig-Holstein|59
+Römstedt|53.096|10.651|DE|Lower Saxony|59
+Körchow|53.444|11.062|DE|Mecklenburg-Vorpommern|59
+Elmenhorst|53.546|10.535|DE|Schleswig-Holstein|59
+Hittbergen|53.344|10.589|DE|Lower Saxony|59
+Rastorf|54.281|10.345|DE|Schleswig-Holstein|59
+Köhn|54.344|10.456|DE|Schleswig-Holstein|59
+Natendorf|53.080|10.470|DE|Lower Saxony|59
+Schnakenbek|53.386|10.502|DE|Schleswig-Holstein|59
+Wust|52.551|12.116|DE|Saxony-Anhalt|59
+Dragun|53.708|11.225|DE|Mecklenburg-Vorpommern|59
+Hohwacht|54.321|10.670|DE|Schleswig-Holstein|59
+Holthusen|53.541|11.354|DE|Mecklenburg-Vorpommern|59
+Alt Mölln|53.623|10.662|DE|Schleswig-Holstein|59
+Werben|52.860|11.982|DE|Saxony-Anhalt|59
+Stein|54.416|10.271|DE|Schleswig-Holstein|59
+Cammin|53.990|12.359|DE|Mecklenburg-Vorpommern|59
+Jelmstorf|53.101|10.522|DE|Lower Saxony|59
+Groß Garz|52.933|11.610|DE|Saxony-Anhalt|59
+Hassel|52.640|11.926|DE|Saxony-Anhalt|59
+Jahrstedt|52.560|10.977|DE|Saxony-Anhalt|59
+Lübbow|52.912|11.181|DE|Lower Saxony|59
+Labenz|53.710|10.521|DE|Schleswig-Holstein|58
+Ottendorf|54.341|10.049|DE|Schleswig-Holstein|58
+Barum|53.051|10.515|DE|Lower Saxony|58
+Rendswühren|54.083|10.183|DE|Schleswig-Holstein|58
+Gottesgabe|53.631|11.249|DE|Mecklenburg-Vorpommern|58
+Bäk|53.712|10.786|DE|Schleswig-Holstein|58
+Greven|53.484|11.976|DE|Mecklenburg-Vorpommern|58
+Lohmen|53.683|12.094|DE|Mecklenburg-Vorpommern|58
+Upahl|53.820|11.216|DE|Mecklenburg-Vorpommern|58
+Heiligenhagen|54.009|11.935|DE|Mecklenburg-Vorpommern|58
+Kuhstorf|53.385|11.248|DE|Mecklenburg-Vorpommern|58
+Grabau|53.802|10.276|DE|Schleswig-Holstein|58
+Hoppenrade|53.728|12.273|DE|Mecklenburg-Vorpommern|58
+Fargau-Pratjau|54.333|10.417|DE|Schleswig-Holstein|58
+Passow|53.507|12.053|DE|Mecklenburg-Vorpommern|58
+Dolgen|53.954|12.262|DE|Mecklenburg-Vorpommern|58
+Klein Trebbow|53.711|11.372|DE|Mecklenburg-Vorpommern|58
+Alt Krenzlin|53.318|11.308|DE|Mecklenburg-Vorpommern|58
+Barnstedt|53.136|10.372|DE|Lower Saxony|58
+Wittenborn|53.922|10.221|DE|Schleswig-Holstein|58
+Prüzen|53.754|12.034|DE|Mecklenburg-Vorpommern|58
+Tensfeld|54.042|10.319|DE|Schleswig-Holstein|58
+Ventschow|53.788|11.580|DE|Mecklenburg-Vorpommern|58
+Wensin|53.983|10.417|DE|Schleswig-Holstein|58
+Westerau|53.777|10.488|DE|Schleswig-Holstein|58
+Möringen|52.591|11.745|DE|Saxony-Anhalt|58
+Karwitz|53.083|11.017|DE|Lower Saxony|58
+Picher|53.348|11.347|DE|Mecklenburg-Vorpommern|58
+Ziegendorf|53.296|11.814|DE|Mecklenburg-Vorpommern|58
+Veelböken|53.749|11.183|DE|Mecklenburg-Vorpommern|58
+Wiendorf|53.946|12.151|DE|Mecklenburg-Vorpommern|58
+Lübesse|53.489|11.461|DE|Mecklenburg-Vorpommern|58
+Emmendorf|53.020|10.565|DE|Lower Saxony|58
+Beidendorf|53.829|11.389|DE|Mecklenburg-Vorpommern|58
+Pokrent|53.649|11.146|DE|Mecklenburg-Vorpommern|58
+Ostseebad Ahrenshoop|54.383|12.424|DE|Mecklenburg-Vorpommern|58
+Schackendorf|53.958|10.271|DE|Schleswig-Holstein|58
+Kirchbarkau|54.211|10.144|DE|Schleswig-Holstein|58
+Badendorf|53.868|10.577|DE|Schleswig-Holstein|58
+Börzow|53.858|11.122|DE|Mecklenburg-Vorpommern|58
+Neu Gülze|53.380|10.788|DE|Mecklenburg-Vorpommern|58
+Brahlstorf|53.699|11.559|DE|Mecklenburg-Vorpommern|58
+Klein Wesenberg|53.813|10.551|DE|Schleswig-Holstein|58
+Klamp|54.282|10.548|DE|Schleswig-Holstein|58
+Kläden|52.633|11.660|DE|Saxony-Anhalt|58
+Fleetmark|52.795|11.388|DE|Saxony-Anhalt|58
+Schwanheide|53.429|10.683|DE|Mecklenburg-Vorpommern|58
+Friedrichsruhe|53.528|11.751|DE|Mecklenburg-Vorpommern|58
+Insel|52.562|11.754|DE|Saxony-Anhalt|58
+Klein Kussewitz|54.134|12.243|DE|Mecklenburg-Vorpommern|58
+Mallentin|53.882|11.076|DE|Mecklenburg-Vorpommern|58
+Wittenbeck|54.123|11.787|DE|Mecklenburg-Vorpommern|58
+Diekhof|53.867|12.363|DE|Mecklenburg-Vorpommern|58
+Meddewade|53.810|10.440|DE|Schleswig-Holstein|58
+Braak|53.610|10.245|DE|Schleswig-Holstein|58
+Daldorf|54.017|10.249|DE|Schleswig-Holstein|58
+Legde|52.919|11.963|DE|Brandenburg|58
+Kamern|52.748|12.113|DE|Saxony-Anhalt|58
+Hamwarde|53.452|10.421|DE|Schleswig-Holstein|57
+Zierow|53.926|11.376|DE|Mecklenburg-Vorpommern|57
+Hohen Wangelin|53.611|12.423|DE|Mecklenburg-Vorpommern|57
+Panten|53.664|10.619|DE|Schleswig-Holstein|57
+Luckau|52.926|11.051|DE|Lower Saxony|57
+Schwienau|53.006|10.445|DE|Lower Saxony|57
+Zehna|53.716|12.138|DE|Mecklenburg-Vorpommern|57
+Mistorf|53.885|12.145|DE|Mecklenburg-Vorpommern|57
+Steinfeld|53.832|10.427|DE|Schleswig-Holstein|57
+Groß Krankow|53.815|11.334|DE|Mecklenburg-Vorpommern|57
+Nossentiner Hütte|53.534|12.424|DE|Mecklenburg-Vorpommern|57
+Grambow|53.547|12.040|DE|Mecklenburg-Vorpommern|57
+Rumohr|54.256|10.024|DE|Schleswig-Holstein|57
+Harmsdorf|54.240|10.833|DE|Schleswig-Holstein|57
+Gutow|53.760|12.135|DE|Mecklenburg-Vorpommern|57
+Cambs|53.697|11.527|DE|Mecklenburg-Vorpommern|57
+Damm|54.009|12.152|DE|Mecklenburg-Vorpommern|57
+Wisch|54.411|10.343|DE|Schleswig-Holstein|57
+Rehlingen|53.106|10.221|DE|Lower Saxony|57
+Koberg|53.634|10.524|DE|Schleswig-Holstein|57
+Marielyst|54.692|11.964|DK|Zealand|57
+Meßdorf|52.720|11.556|DE|Saxony-Anhalt|57
+Rochau|52.707|11.745|DE|Saxony-Anhalt|57
+Langendorf|53.101|11.256|DE|Lower Saxony|57
+Vielank|53.235|11.140|DE|Mecklenburg-Vorpommern|57
+Lieblingshof|54.030|12.329|DE|Mecklenburg-Vorpommern|57
+Fischbeck|52.541|12.017|DE|Saxony-Anhalt|57
+Rühn|53.821|11.940|DE|Mecklenburg-Vorpommern|57
+Matzlow-Garwitz|53.447|11.704|DE|Mecklenburg-Vorpommern|57
+Mustin|53.688|10.882|DE|Schleswig-Holstein|57
+Kirch Jesar|53.441|11.279|DE|Mecklenburg-Vorpommern|57
+Langhagen|53.686|12.436|DE|Mecklenburg-Vorpommern|57
+Dahlen|52.560|11.826|DE|Saxony-Anhalt|57
+Krüden|52.923|11.693|DE|Saxony-Anhalt|57
+Bliestorf|53.767|10.592|DE|Schleswig-Holstein|57
+Berge|52.554|11.368|DE|Saxony-Anhalt|57
+Zölkow|53.563|11.821|DE|Mecklenburg-Vorpommern|57
+Testorf-Steinfort|53.777|11.269|DE|Mecklenburg-Vorpommern|57
+Jübar|52.689|10.909|DE|Saxony-Anhalt|57
+Wentorf|53.677|10.475|DE|Schleswig-Holstein|57
+Basedow|53.417|10.588|DE|Schleswig-Holstein|57
+Lüblow|53.416|11.451|DE|Mecklenburg-Vorpommern|57
+Dannau|54.241|10.542|DE|Schleswig-Holstein|57
+Mechtersen|53.283|10.317|DE|Lower Saxony|57
+Goldenstädt|53.468|11.499|DE|Mecklenburg-Vorpommern|57
+Barnekow|53.866|11.373|DE|Mecklenburg-Vorpommern|57
+Gresse|53.429|10.746|DE|Mecklenburg-Vorpommern|57
+Neversdorf|53.864|10.289|DE|Schleswig-Holstein|57
+Hohen Viecheln|53.785|11.511|DE|Mecklenburg-Vorpommern|57
+Lüdersburg|53.321|10.574|DE|Lower Saxony|57
+Bretsch|52.841|11.630|DE|Saxony-Anhalt|57
+Heidmühlen|53.970|10.084|DE|Schleswig-Holstein|57
+Blumenthal|54.233|10.000|DE|Schleswig-Holstein|57
+Henningen|52.843|10.964|DE|Saxony-Anhalt|57
+Hohenberg-Krusemark|52.725|11.947|DE|Saxony-Anhalt|57
+Schnackenburg|53.037|11.564|DE|Lower Saxony|56
+Kleinau|52.800|11.512|DE|Saxony-Anhalt|56
+Kollow|53.464|10.461|DE|Schleswig-Holstein|56
+Karstädt|53.288|11.489|DE|Mecklenburg-Vorpommern|56
+Benz|53.911|11.585|DE|Mecklenburg-Vorpommern|56
+Grande|53.582|10.386|DE|Schleswig-Holstein|56
+Lütau|53.434|10.548|DE|Schleswig-Holstein|56
+Güstow|54.011|11.553|DE|Mecklenburg-Vorpommern|56
+Neu Poserin|53.553|12.165|DE|Mecklenburg-Vorpommern|56
+Prisannewitz|53.985|12.221|DE|Mecklenburg-Vorpommern|56
+Kühren|54.199|10.260|DE|Schleswig-Holstein|56
+Klein Pampau|53.512|10.589|DE|Schleswig-Holstein|56
+Lebrade|54.217|10.422|DE|Schleswig-Holstein|56
+Gerdshagen|53.245|12.198|DE|Brandenburg|56
+Winterfeld|52.739|11.243|DE|Saxony-Anhalt|56
+Barsbek|54.400|10.317|DE|Schleswig-Holstein|56
+Mönkhagen|53.901|10.559|DE|Schleswig-Holstein|56
+Elmenhorst|53.993|11.124|DE|Mecklenburg-Vorpommern|56
+Lindstedt|52.592|11.532|DE|Saxony-Anhalt|56
+Brunau|52.748|11.468|DE|Saxony-Anhalt|56
+Gorleben|53.048|11.357|DE|Lower Saxony|56
+Zapel|53.553|11.666|DE|Mecklenburg-Vorpommern|56
+Stoetze|53.067|10.785|DE|Lower Saxony|56
+Techentin|53.587|11.988|DE|Mecklenburg-Vorpommern|56
+Groß Stieten|53.813|11.449|DE|Mecklenburg-Vorpommern|56
+Tosterglope|53.210|10.819|DE|Lower Saxony|56
+Prislich|53.272|11.622|DE|Mecklenburg-Vorpommern|56
+Pingelshagen|53.683|11.335|DE|Mecklenburg-Vorpommern|56
+Tramm|53.522|11.648|DE|Mecklenburg-Vorpommern|56
+Damlos|54.245|10.906|DE|Schleswig-Holstein|56
+Hoort|53.482|11.360|DE|Mecklenburg-Vorpommern|56
+Kogel|53.498|10.950|DE|Mecklenburg-Vorpommern|56
+Solpke|52.506|11.286|DE|Saxony-Anhalt|56
+Groß Niendorf|53.846|10.243|DE|Schleswig-Holstein|56
+Plaaz|53.843|12.343|DE|Mecklenburg-Vorpommern|56
+Siebenbäumen|53.749|10.527|DE|Schleswig-Holstein|56
+Wenze|52.564|11.134|DE|Saxony-Anhalt|56
+Immekath|52.626|11.080|DE|Saxony-Anhalt|56
+Rohrberg|52.708|11.041|DE|Saxony-Anhalt|56
+Toreby|54.754|11.787|DK|Zealand|56
+Gedser|54.576|11.930|DK|Zealand|56
+Latendorf|53.995|10.064|DE|Schleswig-Holstein|56
+Klempau|53.763|10.661|DE|Schleswig-Holstein|56
+Rühstädt|52.919|11.870|DE|Brandenburg|56
+Heeren|52.543|11.887|DE|Saxony-Anhalt|56
+Rüting|53.794|11.221|DE|Mecklenburg-Vorpommern|56
+Behrensdorf|54.350|10.605|DE|Schleswig-Holstein|56
+Lückstedt|52.821|11.589|DE|Saxony-Anhalt|56
+Selpin|53.991|12.496|DE|Mecklenburg-Vorpommern|56
+Klein Gladebrügge|53.918|10.321|DE|Schleswig-Holstein|56
+Blunk|54.009|10.314|DE|Schleswig-Holstein|56
+Fiefbergen|54.379|10.343|DE|Schleswig-Holstein|56
+Ganzlin|53.383|12.249|DE|Mecklenburg-Vorpommern|56
+Heilshoop|53.887|10.537|DE|Schleswig-Holstein|56
+Bebensee|53.876|10.300|DE|Schleswig-Holstein|56
+Zickhusen|53.759|11.414|DE|Mecklenburg-Vorpommern|56
+Mucheln|54.248|10.442|DE|Schleswig-Holstein|55
+Jarchau|52.655|11.896|DE|Saxony-Anhalt|55
+Alt Schwerin|53.513|12.346|DE|Mecklenburg-Vorpommern|55
+Bühne|52.691|11.347|DE|Saxony-Anhalt|55
+Store Damme|54.915|12.163|DK|Zealand|55
+Brunstorf|53.493|10.425|DE|Schleswig-Holstein|55
+Raduhn|53.480|11.684|DE|Mecklenburg-Vorpommern|55
+Kuhlen|53.722|11.612|DE|Mecklenburg-Vorpommern|55
+Liessow|53.888|12.340|DE|Mecklenburg-Vorpommern|55
+Lüdershagen|53.719|12.263|DE|Mecklenburg-Vorpommern|55
+Schönberg|52.886|11.819|DE|Saxony-Anhalt|55
+Kalübbe|54.120|10.281|DE|Schleswig-Holstein|55
+Schmilau|53.662|10.757|DE|Schleswig-Holstein|55
+Gallin|53.510|12.124|DE|Mecklenburg-Vorpommern|55
+Horslunde|54.912|11.216|DK|Zealand|55
+Schiphorst|53.708|10.461|DE|Schleswig-Holstein|55
+Rom|53.445|11.949|DE|Mecklenburg-Vorpommern|55
+Groß Schenkenberg|53.794|10.567|DE|Schleswig-Holstein|55
+Großharrie|54.120|10.055|DE|Schleswig-Holstein|55
+Humble|54.830|10.700|DK|South Denmark|55
+Kummer|53.329|11.385|DE|Mecklenburg-Vorpommern|55
+Alt Brenz|53.383|11.664|DE|Mecklenburg-Vorpommern|55
+Salem|53.656|10.826|DE|Schleswig-Holstein|55
+Granzin|53.503|11.943|DE|Mecklenburg-Vorpommern|55
+Alt Bukow|53.998|11.607|DE|Mecklenburg-Vorpommern|55
+Grebbin|53.515|11.863|DE|Mecklenburg-Vorpommern|55
+Cramonshagen|53.706|11.275|DE|Mecklenburg-Vorpommern|55
+Triglitz|53.211|12.102|DE|Brandenburg|55
+Schlesen|54.322|10.334|DE|Schleswig-Holstein|55
+Kasseburg|53.567|10.417|DE|Schleswig-Holstein|55
+Redefin|53.349|11.203|DE|Mecklenburg-Vorpommern|55
+Toddin|53.422|11.141|DE|Mecklenburg-Vorpommern|55
+Traventhal|53.898|10.319|DE|Schleswig-Holstein|55
+Borkow|53.664|11.950|DE|Mecklenburg-Vorpommern|55
+Engersen|52.620|11.341|DE|Saxony-Anhalt|55
+Groß Rönnau|53.972|10.312|DE|Schleswig-Holstein|55
+Jennewitz|54.093|11.789|DE|Mecklenburg-Vorpommern|55
+Hohen Sprenz|53.911|12.195|DE|Mecklenburg-Vorpommern|55
+Nehms|54.018|10.363|DE|Schleswig-Holstein|55
+Behrendorf|52.824|11.960|DE|Saxony-Anhalt|55
+Moraas|53.422|11.302|DE|Mecklenburg-Vorpommern|55
+Steinhorst|53.721|10.485|DE|Schleswig-Holstein|55
+Vollrathsruhe|53.644|12.488|DE|Mecklenburg-Vorpommern|55
+Dahlem|53.204|10.745|DE|Lower Saxony|55
+Diestelow|53.550|12.067|DE|Mecklenburg-Vorpommern|55
+Talkau|53.575|10.571|DE|Schleswig-Holstein|55
+Horst|53.882|11.992|DE|Mecklenburg-Vorpommern|55
+Plüschow|53.833|11.271|DE|Mecklenburg-Vorpommern|55
+Seedorf|53.620|10.866|DE|Schleswig-Holstein|55
+Mustin|53.695|11.973|DE|Mecklenburg-Vorpommern|55
+Klinkrade|53.716|10.551|DE|Schleswig-Holstein|55
+Badingen|52.608|11.642|DE|Saxony-Anhalt|55
+Beschendorf|54.183|10.875|DE|Schleswig-Holstein|55
+Thulendorf|54.095|12.303|DE|Mecklenburg-Vorpommern|55
+Witzin|53.723|11.921|DE|Mecklenburg-Vorpommern|55
+Großderschau|52.791|12.368|DE|Brandenburg|55
+Jesendorf|53.804|11.600|DE|Mecklenburg-Vorpommern|55
+Sarmstorf|53.842|12.207|DE|Mecklenburg-Vorpommern|55
+Damm|53.440|11.755|DE|Mecklenburg-Vorpommern|55
+Wessin|53.573|11.731|DE|Mecklenburg-Vorpommern|55
+Setzin|53.411|11.082|DE|Mecklenburg-Vorpommern|55
+Königsmark|52.800|11.842|DE|Saxony-Anhalt|54
+Kuhfelde|52.785|11.116|DE|Saxony-Anhalt|54
+Kettinge|54.697|11.728|DK|Zealand|54
+Krusenhagen|53.944|11.534|DE|Mecklenburg-Vorpommern|54
+Besitz|53.343|10.859|DE|Mecklenburg-Vorpommern|54
+Kloster Neuendorf|52.526|11.462|DE|Saxony-Anhalt|54
+Pirow|53.219|11.899|DE|Brandenburg|54
+Reimershagen|53.672|12.176|DE|Mecklenburg-Vorpommern|54
+Horbelev|54.823|12.058|DK|Zealand|54
+Beuster|52.940|11.786|DE|Saxony-Anhalt|54
+Krevese|52.813|11.693|DE|Saxony-Anhalt|54
+Osterwohle|52.837|11.008|DE|Saxony-Anhalt|54
+Pötenitz|53.949|10.924|DE|Mecklenburg-Vorpommern|54
+Bütow|53.346|12.484|DE|Mecklenburg-Vorpommern|54
+Nagelsti|54.748|11.845|DK|Zealand|54
+Pohnsdorf|54.240|10.249|DE|Schleswig-Holstein|54
+Warlow|53.345|11.405|DE|Mecklenburg-Vorpommern|54
+Pritzier|53.379|11.078|DE|Mecklenburg-Vorpommern|54
+Erxleben|52.751|11.765|DE|Saxony-Anhalt|54
+Möhnsen|53.560|10.469|DE|Schleswig-Holstein|54
+Steffenshagen|54.105|11.822|DE|Mecklenburg-Vorpommern|54
+Boiensdorf|54.017|11.561|DE|Mecklenburg-Vorpommern|54
+Lankau|53.668|10.666|DE|Schleswig-Holstein|54
+Mühbrook|54.157|10.012|DE|Schleswig-Holstein|54
+Wahlstorf (Dorf)|54.178|10.295|DE|Schleswig-Holstein|54
+Bandau|52.672|11.110|DE|Saxony-Anhalt|54
+Hohen Pritz|53.629|11.892|DE|Mecklenburg-Vorpommern|54
+Westerrade|53.935|10.460|DE|Schleswig-Holstein|54
+Kleinschretstaken|53.586|10.571|DE|Schleswig-Holstein|54
+Blievenstorf|53.362|11.666|DE|Mecklenburg-Vorpommern|54
+Weitendorf|53.896|11.354|DE|Mecklenburg-Vorpommern|54
+Prezelle|52.967|11.400|DE|Lower Saxony|54
+Rätzlingen|52.976|10.675|DE|Lower Saxony|54
+Postfeld|54.210|10.213|DE|Schleswig-Holstein|54
+Werder|53.501|12.008|DE|Mecklenburg-Vorpommern|54
+Zepelin|53.835|12.046|DE|Mecklenburg-Vorpommern|54
+Duvensee|53.700|10.567|DE|Schleswig-Holstein|54
+Rodenbek|54.276|10.019|DE|Schleswig-Holstein|54
+Rathjensdorf|54.186|10.429|DE|Schleswig-Holstein|54
+Bandenitz|53.494|11.284|DE|Mecklenburg-Vorpommern|54
+Roseburg|53.530|10.626|DE|Schleswig-Holstein|54
+Geschendorf|53.921|10.442|DE|Schleswig-Holstein|54
+Schmalensee|54.083|10.271|DE|Schleswig-Holstein|54
+Heidekamp|53.854|10.502|DE|Schleswig-Holstein|54
+Eichstedt|52.678|11.852|DE|Saxony-Anhalt|54
+Krokau|54.402|10.343|DE|Schleswig-Holstein|54
+Gönnebek|54.049|10.197|DE|Schleswig-Holstein|54
+Kabelhorst|54.216|10.923|DE|Schleswig-Holstein|54
+Wallstawe|52.797|11.021|DE|Saxony-Anhalt|54
+Honigsee|54.228|10.188|DE|Schleswig-Holstein|54
+Boksee|54.243|10.127|DE|Schleswig-Holstein|53
+Stocksee|54.090|10.342|DE|Schleswig-Holstein|53
+Mözen|53.912|10.259|DE|Schleswig-Holstein|53
+Stakendorf|54.389|10.423|DE|Schleswig-Holstein|53
+Lehmrade|53.594|10.750|DE|Schleswig-Holstein|53
+Nienwohld|53.787|10.194|DE|Schleswig-Holstein|53
+Högsdorf|54.252|10.616|DE|Schleswig-Holstein|53
+Brodersdorf|54.386|10.250|DE|Schleswig-Holstein|53
+Prasdorf|54.379|10.296|DE|Schleswig-Holstein|53
+Schulendorf|53.473|10.561|DE|Schleswig-Holstein|53
+Hohenhorn|53.476|10.365|DE|Schleswig-Holstein|53
+Winsen|53.831|10.016|DE|Schleswig-Holstein|53
+Tröndel|54.333|10.517|DE|Schleswig-Holstein|53
+Pogeez|53.751|10.729|DE|Schleswig-Holstein|53
+Lanze|53.387|10.605|DE|Schleswig-Holstein|53
+Stubben|53.733|10.435|DE|Schleswig-Holstein|53
+Boitze|53.149|10.747|DE|Lower Saxony|52
+Kükels|53.898|10.234|DE|Schleswig-Holstein|52
+Manhagen|54.195|10.915|DE|Schleswig-Holstein|52
+Högersdorf|53.921|10.282|DE|Schleswig-Holstein|52
+Lutterbek|54.392|10.276|DE|Schleswig-Holstein|52
+Nettelsee|54.176|10.193|DE|Schleswig-Holstein|52
+Behlendorf|53.699|10.669|DE|Schleswig-Holstein|52
+Einhaus|53.713|10.729|DE|Schleswig-Holstein|52
+Grambek|53.574|10.681|DE|Schleswig-Holstein|52
+Basthorst|53.577|10.474|DE|Schleswig-Holstein|52
+Stoltenberg|54.343|10.347|DE|Schleswig-Holstein|52
+Sahms|53.525|10.533|DE|Schleswig-Holstein|51
+Fredesdorf|53.876|10.197|DE|Schleswig-Holstein|51
+Tasdorf|54.095|10.031|DE|Schleswig-Holstein|51
+Groß Buchwald|54.163|10.086|DE|Schleswig-Holstein|51
+Negenharrie|54.143|10.074|DE|Schleswig-Holstein|51
+Warnau|54.189|10.159|DE|Schleswig-Holstein|51
+Kühsen|53.682|10.615|DE|Schleswig-Holstein|51
+Dalldorf|53.435|10.612|DE|Schleswig-Holstein|51
+Hüttblek|53.839|10.072|DE|Schleswig-Holstein|51
+Poggensee|53.642|10.578|DE|Schleswig-Holstein|51
+Böhnhusen|54.222|10.064|DE|Schleswig-Holstein|51
+Höhndorf|54.370|10.372|DE|Schleswig-Holstein|51
+Neritz|53.786|10.289|DE|Schleswig-Holstein|51
+Damnatz|53.136|11.177|DE|Lower Saxony|51
+Fitzen|53.495|10.647|DE|Schleswig-Holstein|51
+Bühnsdorf|53.888|10.377|DE|Schleswig-Holstein|51
+Helmstorf|54.283|10.600|DE|Schleswig-Holstein|51
+Belau|54.098|10.258|DE|Schleswig-Holstein|50
+Tramm|53.564|10.612|DE|Schleswig-Holstein|50
+Sierksrade|53.737|10.599|DE|Schleswig-Holstein|50
+Krüzen|53.402|10.527|DE|Schleswig-Holstein|50
+Krummbek|54.379|10.401|DE|Schleswig-Holstein|50
+Ritzerau|53.662|10.566|DE|Schleswig-Holstein|50
+Sirksfelde|53.665|10.510|DE|Schleswig-Holstein|50
+Bothkamp|54.200|10.133|DE|Schleswig-Holstein|50
+Rantzau|54.254|10.508|DE|Schleswig-Holstein|50
+Grevenkrug|54.214|10.012|DE|Schleswig-Holstein|50
+Passade|54.366|10.320|DE|Schleswig-Holstein|50
+Nehmten|54.100|10.400|DE|Schleswig-Holstein|49
+Grinau|53.775|10.549|DE|Schleswig-Holstein|49
+Borstorf|53.613|10.564|DE|Schleswig-Holstein|49
+Löptin|54.176|10.216|DE|Schleswig-Holstein|49
+Fuhlenhagen|53.573|10.528|DE|Schleswig-Holstein|49
+Kittlitz|53.664|10.917|DE|Schleswig-Holstein|49
+Grabau|53.514|10.520|DE|Schleswig-Holstein|49
+Lammershagen|54.283|10.450|DE|Schleswig-Holstein|49
+Dörnick|54.164|10.360|DE|Schleswig-Holstein|49
+Bröthen|53.479|10.668|DE|Schleswig-Holstein|49
+Woltersdorf|53.573|10.643|DE|Schleswig-Holstein|49
+Köthel|53.610|10.508|DE|Schleswig-Holstein|49
+Schieren|53.944|10.391|DE|Schleswig-Holstein|49
+Bendfeld|54.365|10.419|DE|Schleswig-Holstein|48
+Kulpin|53.710|10.695|DE|Schleswig-Holstein|48
+Damsdorf|54.065|10.315|DE|Schleswig-Holstein|48
+Klein Barkau|54.222|10.134|DE|Schleswig-Holstein|48
+Strukdorf|53.921|10.487|DE|Schleswig-Holstein|48
+Siebeneichen|53.511|10.618|DE|Schleswig-Holstein|48
+Schmalstede|54.195|10.030|DE|Schleswig-Holstein|48
+Grove|53.528|10.495|DE|Schleswig-Holstein|48
+Bälau|53.617|10.622|DE|Schleswig-Holstein|48
+Klein Zecher|53.577|10.873|DE|Schleswig-Holstein|48
+Stipsdorf|53.942|10.335|DE|Schleswig-Holstein|48
+Rausdorf|53.589|10.330|DE|Schleswig-Holstein|48
+Schwissel|53.896|10.293|DE|Schleswig-Holstein|48
+Lüchow|53.691|10.530|DE|Schleswig-Holstein|47
+Wangelau|53.450|10.550|DE|Schleswig-Holstein|47
+Buchholz|53.733|10.746|DE|Schleswig-Holstein|47
+Mühlenrade|53.596|10.488|DE|Schleswig-Holstein|47
+Walksfelde|53.633|10.575|DE|Schleswig-Holstein|47
+Travenhorst|54.019|10.458|DE|Schleswig-Holstein|47
+Groß Boden|53.751|10.450|DE|Schleswig-Holstein|46
+Kankelau|53.550|10.568|DE|Schleswig-Holstein|46
+Harmsdorf|53.701|10.726|DE|Schleswig-Holstein|46
+Göldenitz|53.723|10.632|DE|Schleswig-Holstein|46
+Großbarkau|54.225|10.168|DE|Schleswig-Holstein|46
+Krukow|53.419|10.481|DE|Schleswig-Holstein|46
+Bahrenhof|53.878|10.376|DE|Schleswig-Holstein|46
+Juliusburg|53.416|10.506|DE|Schleswig-Holstein|46
+Bissee|54.189|10.113|DE|Schleswig-Holstein|45
+Hornbek|53.559|10.648|DE|Schleswig-Holstein|45
+Kirchnüchel|54.204|10.680|DE|Schleswig-Holstein|45
+Wittmoldt|54.173|10.354|DE|Schleswig-Holstein|45
+Barmissen|54.205|10.175|DE|Schleswig-Holstein|45
+Tarbek|54.056|10.267|DE|Schleswig-Holstein|45
+Schürensöhlen|53.764|10.472|DE|Schleswig-Holstein|45
+Langenlehsten|53.501|10.741|DE|Schleswig-Holstein|44
+Worth|53.468|10.409|DE|Schleswig-Holstein|44
+Buchhorst|53.386|10.566|DE|Schleswig-Holstein|44
+Techelsdorf|54.214|10.047|DE|Schleswig-Holstein|44
+Fahren|54.350|10.338|DE|Schleswig-Holstein|44
+Dahmker|53.587|10.445|DE|Schleswig-Holstein|44
+Kletkamp|54.250|10.633|DE|Schleswig-Holstein|44
+Reesdorf|54.191|10.062|DE|Schleswig-Holstein|44
+Wiershop|53.442|10.451|DE|Schleswig-Holstein|44
+Düchelsdorf|53.737|10.583|DE|Schleswig-Holstein|43
+Brunsmark|53.615|10.752|DE|Schleswig-Holstein|43
+Havekost|53.542|10.476|DE|Schleswig-Holstein|43
+Groß Pampau|53.522|10.562|DE|Schleswig-Holstein|42
+Mechow|53.717|10.806|DE|Schleswig-Holstein|40
+Giesensdorf|53.688|10.713|DE|Schleswig-Holstein|39
+Groß Disnack|53.743|10.692|DE|Schleswig-Holstein|39
+Römnitz|53.717|10.767|DE|Schleswig-Holstein|38
+Besenthal|53.530|10.741|DE|Schleswig-Holstein|37
+Hohenfelde|53.630|10.479|DE|Schleswig-Holstein|35
+Dreggers|53.886|10.348|DE|Schleswig-Holstein|35
+Göttin|53.531|10.703|DE|Schleswig-Holstein|34
+Albsfelde|53.683|10.700|DE|Schleswig-Holstein|33
+Fredeburg|53.674|10.725|DE|Schleswig-Holstein|32
+Barnitz|53.806|10.500|DE|Schleswig-Holstein|0
+Bodenteich|52.831|10.682|DE|Lower Saxony|0
+Breese|53.004|11.793|DE|Brandenburg|0
+Bresegard bei Eldena|53.247|11.369|DE|Mecklenburg-Vorpommern|0
+Bröckel|52.516|10.215|DE|Lower Saxony|0
+Diesdorf|52.751|10.876|DE|Saxony-Anhalt|0
+Fehrenwohld|53.993|10.327|DE|Schleswig-Holstein|0
+Göhrde|53.115|10.855|DE|Lower Saxony|0
+Gusborn|53.081|11.204|DE|Lower Saxony|0
+Habighorst|52.709|10.227|DE|Lower Saxony|0
+Hohne|52.587|10.376|DE|Lower Saxony|0
+Hohnstorf|53.359|10.560|DE|Lower Saxony|0
+Hollenbek|53.591|10.820|DE|Schleswig-Holstein|0
+Krems Zwei|53.987|10.356|DE|Schleswig-Holstein|0
+Lewitzrland|53.464|11.677|DE|Mecklenburg-Vorpommern|0
+Neetze|53.265|10.621|DE|Lower Saxony|0
+Neuburg|53.945|11.589|DE|Mecklenburg-Vorpommern|0
+Neukirchen|54.324|11.014|DE|Schleswig-Holstein|0
+Niendorf/Stecknitz|53.588|10.604|DE|Schleswig-Holstein|0
+Nienhagen|52.557|10.102|DE|Lower Saxony|0
+Obere Warnow|53.524|11.888|DE|Mecklenburg-Vorpommern|0
+Oering|53.825|10.150|DE|Schleswig-Holstein|0
+Oetzen|53.019|10.676|DE|Lower Saxony|0
+Ostseebad Nienhagen|54.160|11.960|DE|Mecklenburg-Vorpommern|0
+Pölchow|54.009|12.100|DE|Mecklenburg-Vorpommern|0
+Rehhorst|53.876|10.470|DE|Schleswig-Holstein|0
+Scharnhorst|52.725|10.274|DE|Lower Saxony|0
+Schollene|52.677|12.219|DE|Saxony-Anhalt|0
+Schönberg|53.849|10.931|DE|Mecklenburg-Vorpommern|0
+Schönhorst|54.225|10.104|DE|Schleswig-Holstein|0
+Wakendorf Eins|53.866|10.360|DE|Schleswig-Holstein|0
+Wakendorf Zwei|53.785|10.084|DE|Schleswig-Holstein|0

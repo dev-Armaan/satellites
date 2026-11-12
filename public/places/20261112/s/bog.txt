@@ -21,7 +21,9 @@ Bogatynia|50.907|14.956|PL|Lower Silesia|84
 Bognonzra|6.943|-5.967|CI|Sassandra-Marahoue|84
 Bogovinje|41.922|20.915|MK|Bogovinje|84
 Boguchar|49.935|40.554|RU|Voronezh Oblast|84
+Bogda Shan|43.583|89.667|CN|Xinjiang|83|f
 Bogbam|6.381|-6.193|CI|Sassandra-Marahoue|83
+Bogda Feng|43.750|88.533|CN|Xinjiang|83|f
 Bog Walk|18.102|-77.005|JM|Saint Catherine Parish|82
 Bogalusa|30.791|-89.849|US|Louisiana|82
 Boguchany|58.383|97.449|RU|Krasnoyarsk Krai|81
@@ -35,9 +37,13 @@ Bogdanci|41.204|22.576|MK|Bogdanci|79
 Bogota|40.876|-74.030|US|New Jersey|78
 Bogatić|44.837|19.481|RS|Central Serbia|77
 Bogatyye Saby|56.009|50.447|RU|Tatarstan Republic|77
+Bogor Palace|-6.598|106.797|ID|West Java|77|f
+Bogoslof Island|53.933|-168.038|US|Alaska|77|f
 Boguédia|6.634|-6.519|CI|Sassandra-Marahoue|77
 Bogatoye|53.061|51.329|RU|Samara Oblast|76
 Boguchwała|49.985|21.945|PL|Subcarpathia|75
+Bogande Airport|12.983|-0.167|BF|Est|74|f
+Bogor Botanical Gardens|-6.598|106.800|ID|West Java|74|f
 Boğazkent|36.853|31.164|TR|Antalya|74
 Bogaţi|44.867|25.133|RO|Arges|74
 Bogoslovka|53.208|44.801|RU|Penza Oblast|73
@@ -49,21 +55,27 @@ Bogtong|15.755|120.329|PH|Ilocos|72
 Bogdăneşti|47.367|26.283|RO|Suceava|72
 Bogashevo|56.368|85.144|RU|Tomsk Oblast|72
 Bogliasco|44.381|9.069|IT|Liguria|71
+Bogra Airport|24.866|89.318|BD|Rajshahi Division|71|f
 Bogouayo|6.079|-6.306|CI|Goh-Djiboua|71
 Bogopenfla|7.294|-5.997|CI|Sassandra-Marahoue|71
 Bogdan Vodă|47.692|24.266|RO|Maramureş|71
 Bogouiné|7.258|-7.596|CI|Montagnes|70
 Bogdand|47.417|22.933|RO|Satu Mare County|70
+Bogovinjsko Ezero|41.951|20.793|MK|Bogovinje|70|f
 Bogorodskoye|57.829|50.752|RU|Kirov Oblast|70
 Bogoboua|6.027|-5.693|CI|Goh-Djiboua|70
 Bogorodskoye|57.047|41.014|RU|Ivanovo Oblast|70
 Bogdana|43.933|25.083|RO|Teleorman County|69
 Bogdăneşti|46.217|26.683|RO|Bacău County|69
+Bogø|54.924|12.042|DK|Zealand|69|f
 Bogyiszló|46.386|18.830|HU|Tolna County|67
 Bogovarovo|58.976|47.021|RU|Kostroma Oblast|67
 Bogojevo|45.530|19.130|RS|Vojvodina|67
+Bogvatnet|66.651|14.443|NO|Nordland|67|f
 Bogács|47.900|20.533|HU|Borsod-Abaúj-Zemplén|66
 Bogata|46.456|24.118|RO|Mureș County|66
+Bogachiel Peak|47.905|-123.777|US|Washington|65|f
+Boggeragh Mountains|52.017|-8.917|IE|Munster|65|f
 Bogheşti|46.167|27.400|RO|Vrancea|65
 Boguty-Pianki|52.717|22.415|PL|Mazovia|65
 Bogrényoa|6.090|-6.013|CI|Goh-Djiboua|64
@@ -81,6 +93,9 @@ Boghicea|47.054|27.069|RO|Neamț County|62
 Bogomila|41.593|21.472|MK|Chashka|62
 Bogosavac|44.718|19.595|RS|Central Serbia|62
 Bogarra|38.581|-2.213|ES|Castille-La Mancha|61
+Bogićevica|42.568|20.078|ME||61|f
+Boğsak Adası|36.267|33.828|TR|Mersin|61|f
+Boguchany Airport|58.380|97.468|RU|Krasnoyarsk Krai|61|f
 Bogza|45.508|27.198|RO|Vrancea|61
 Bogata|33.471|-95.214|US|Texas|61
 Bogdaniec|52.689|15.071|PL|Lubusz|61
@@ -88,21 +103,80 @@ Bogatyr’|53.429|49.960|RU|Samara Oblast|61
 Bogovë|40.571|20.150|AL|Berat County|61
 Bogart|33.949|-83.535|US|Georgia|60
 Bogdănești|46.450|27.727|RO|Vaslui County|60
+Boggabilla|-28.605|150.359|AU|New South Wales|60
 Bogogno|45.663|8.535|IT|Piedmont|60
 Bogatoye|45.029|34.767|UA|Crimea|60
 Bogoria|50.652|21.260|PL|Świętokrzyskie|59
+Boglietto|44.761|8.200|IT|Piedmont|59
+Bogève|46.193|6.421|FR|Auvergne-Rhône-Alpes|59
+Bogumiłowice|50.007|20.867|PL|Lesser Poland|59
+Bogatovka|44.869|35.060|UA|Crimea|59
+Bogue Chitto|32.831|-88.932|US|Mississippi|59
+Bogonos|47.208|27.434|RO|Iași County|59
+Bogata|46.515|23.813|RO|Cluj County|59
+Bogata|46.300|26.559|RO|Bacău County|58
+Bogdănești|47.116|27.436|RO|Iași County|58
+Boggs Mountain|38.815|-122.683|US|California|58|f
+Bogel|50.189|7.800|DE|Rheinland-Pfalz|58
+Bogdănești|45.138|24.035|RO|Vâlcea County|58
+Boghiș|47.760|22.674|RO|Satu Mare County|58
+Bogdanivka|50.218|32.015|UA|Kyiv Oblast|58
+Bogunice|50.138|18.369|PL|Silesia|58
+Bogata|44.207|27.114|RO|Călărași County|57
+Bogești|46.343|27.551|RO|Vaslui County|57
+Bogdănești|46.262|28.115|RO|Vaslui County|57
+Boğaköy|40.637|35.711|TR|Amasya|57
+Bogue|34.699|-77.037|US|North Carolina|57
+Bogis-Bossey|46.354|6.166|CH|Vaud|57
+Bogoslovo|56.017|38.067|RU|Moscow Oblast|57
+Bogea|44.434|23.706|RO|Dolj|57
+Boğazköy|38.958|33.886|TR|Aksaray|57
+Boğalı|36.919|40.157|TR|Şanlıurfa|56
+Bogutovo Selo|44.662|18.977|BA|Srpska|56
+Bogomougou|9.905|-6.098|CI|Savanes District|56
 Bogdana|46.527|27.633|RO|Vaslui County|56
 Bogdanovci|45.341|18.931|HR|Vukovar-Srijem|56
+Boger City|35.481|-81.213|US|North Carolina|55
+Bogoba|8.227|-6.911|CI|Woroba|55
+Bogdana|46.188|26.844|RO|Bacău County|55
+Bogdănești|46.666|27.016|RO|Bacău County|55
+Bogojina|46.676|16.284|SI|Municipality of Moravske Toplice|55
+Bogdănești|45.176|24.343|RO|Vâlcea County|55
+Bogue Chitto|31.439|-90.452|US|Mississippi|54
+Bogusławice|50.956|19.259|PL|Silesia|54
 Bogda|45.978|21.573|RO|Timiș County|53
 Bogen|68.526|16.993|NO|Nordland|52
+Bogen Glacier|-54.800|-35.933|GS||49|f
+Bogenfels|-27.437|15.406|NA|Karas Region|49|f
+Bogensee|52.773|13.531|DE|Brandenburg|49|f
+Boggs Island|40.029|-80.736|US|West Virginia|49|f
+Boggs Peak|60.838|-148.806|US|Alaska|49|f
 Bogajo|40.907|-6.531|ES|Castille and León|46
+Bog Brook Reservoir|41.416|-73.585|US|New York|40|f
+Bogachiel State Park|47.897|-124.360|US|Washington|40|f
+Bogazici University|41.085|29.051|TR|Istanbul|40|f
+Bogdan Ridge|-62.502|-59.568|AQ||40|f
+Bogesunds slott|59.393|18.285|SE|Stockholm|40|f
+Boggy Lake|45.099|-62.312|CA|Nova Scotia|40|f
+Bogue Chitto National Wildlife Refuge|30.550|-89.798|US|Louisiana|40|f
+Bogue Sound|34.697|-76.936|US|North Carolina|40|f
 Bog'don|40.415|67.179|UZ|Jizzakh Region|0
 Bog’ot|41.354|60.818|UZ|Xorazm Region|0
+Boganatar|-8.504|122.641|ID|East Nusa Tenggara|0
 Boğaziçi|38.035|27.559|TR|İzmir Province|0
 Boğazkale|40.022|34.609|TR|Çorum|0
 Boğazkaya|41.450|35.867|TR|Samsun|0
 Boğazlıyan|39.189|35.245|TR|Yozgat|0
 Bögdör|44.973|81.023|CN|Xinjiang|0
+Bogenga|-8.777|120.961|ID|East Nusa Tenggara|0
+Bogi|-10.616|121.574|ID|East Nusa Tenggara|0
+Bogor|-6.331|105.868|ID|Banten|0
+Bogorame|-6.766|111.357|ID|Central Java|0
+Bogoran|-8.182|111.661|ID|East Java|0
+Bogorawatu|-9.749|119.327|ID|East Nusa Tenggara|0
 Bogorejo|-6.940|111.519|ID|Central Java|0
+Bogorejo|-6.938|111.328|ID|Central Java|0
+Bogorejo|-6.728|111.560|ID|Central Java|0
+Bogorejo|-6.908|112.148|ID|East Java|0
 Bogoro|9.669|9.605|NG|Bauchi|0
 Böğürtlen|37.166|38.081|TR|Şanlıurfa|0

@@ -1,7 +1,7 @@
 Lima|-12.043|-77.028|PE|Lima Province|138
 Lima Province|-12.000|-76.833|PE||138|r
 Limpopo|-24.000|29.500|ZA||125|r
-Lima region|-11.850|-76.450|PE||121|r
+Lima region|-11.850|-76.450|PE||122|r
 Limburg|51.250|6.000|NL||121|r
 Limeira|-22.565|-47.402|BR|São Paulo|109
 Limuru|-1.114|36.642|KE|Kiambu County|104
@@ -40,11 +40,13 @@ L-Imsida|35.899|14.484|MT||83|r
 Limpertsberg|49.621|6.122|LU|Luxembourg|81
 Lima Campos|-4.517|-44.467|BR|Maranhão|81
 Limavady|55.050|-6.951|GB|Northern Ireland|81
+Limbang Airport|4.808|115.010|MY|Sarawak|81|f
 Limoux|43.055|2.222|FR|Occitanie|81
 Limburgerhof|49.424|8.392|DE|Rheinland-Pfalz|81
 Limulunga|-15.097|23.138|ZM|Western Province|81
 Limín Mesoyaías|37.891|24.003|GR|Attica|80
 Lima|-23.885|-56.479|PY|San Pedro Department|80
+Limón International Airport|9.958|-83.022|CR|Limón Province|80|f
 Liminka|64.810|25.415|FI|North Ostrobothnia|80
 Lim|21.144|106.020|VN|Bac Ninh|80
 Limbodi|22.667|75.890|IN|Madhya Pradesh|80
@@ -52,24 +54,31 @@ Limal|50.695|4.575|BE|Wallonia|80
 Liman|45.782|47.224|RU|Astrakhan Oblast|79
 Limeira do Oeste|-19.551|-50.581|BR|Minas Gerais|79
 Limmen|52.569|4.694|NL|North Holland|78
+Limnothálassa Kotýchi|38.002|21.295|GR|West Greece|78|f
 L-Imġarr|35.919|14.364|MT||76|r
 Limbaži|57.513|24.719|LV|Limbaži Municipality|76
 Limours|48.646|2.077|FR|Île-de-France|76
+Límni Vegorítida|40.755|21.793|GR||76|f
 Limbourg|50.612|5.941|BE|Wallonia|75
 Limena|45.469|11.846|IT|Veneto|75
 Limelette|50.684|4.572|BE|Wallonia|75
+Lima Allen County Airport|40.708|-84.026|US|Ohio|74|f
 Limbaan|7.640|125.821|PH|Northern Mindanao|74
 Limbo|7.252|124.244|PH|Autonomous Region in Muslim Mindanao|74
 Limanancong|10.989|119.359|PH|Mimaropa|74
+Límni Koróneia|40.686|23.145|GR|Central Macedonia|73|f
 Limanu|43.800|28.533|RO|Constanța County|73
 Limite|43.745|10.980|IT|Tuscany|73
 Limas|45.976|4.705|FR|Auvergne-Rhône-Alpes|73
+Limanul Cuciurgan|46.630|29.956|MD|Transnistria|72|f
 Limulan|6.585|124.062|PH|Soccsksargen|72
 Līmkheda|22.835|73.992|IN|Gujarat|72
 Limonade|19.670|-72.124|HT|Nord|72
 Limoncarro|-7.301|-79.417|PE|La Libertad|71
 Limpapa|7.120|121.911|PH|Zamboanga Peninsula|71
 Limla|21.186|72.703|IN|Gujarat|71
+Límni Amvrakía|38.752|21.180|GR|West Greece|71|f
+Límni Kerkíni|41.194|23.157|GR|Central Macedonia|71|f
 Limoncito|-18.028|-63.403|BO|Santa Cruz Department|71
 Lima Pampa|-14.090|-71.337|PE|Cuzco Department|71
 Limington|43.732|-70.711|US|Maine|71
@@ -93,6 +102,7 @@ Limbach|48.290|17.223|SK|Bratislava Region|68
 Limerick|43.688|-70.794|US|Maine|67
 Limit|18.153|-77.471|JM|Clarendon|67
 Limones|19.337|-96.924|MX|Veracruz|67
+Lim Island|38.867|43.349|TR|Van|67|f
 Limot|7.040|126.273|PH|Davao Region|67
 Lim-oo|11.151|124.631|PH|Eastern Visayas|67
 Limao|7.079|125.674|PH|Davao Region|67
@@ -106,10 +116,13 @@ Limbong|6.133|100.417|MY|Kedah|66
 Limon|39.264|-103.692|US|Colorado|66
 Limodra|21.355|73.006|IN|Gujarat|65
 Limerlé|50.158|5.924|BE|Wallonia|65
+Limoges-Bellegarde Airport|45.863|1.179|FR|New Aquitaine|65|f
 Limetz-Villez|49.067|1.550|FR|Île-de-France|65
 Limbach|50.583|12.250|DE|Saxony|64
 Limestone|41.132|-87.968|US|Illinois|64
 Limpias|43.364|-3.418|ES|Cantabria|63
+Limon Bay|9.341|-79.932|PA|Colón|63|f
+Limpet Island|-67.633|-68.302|AQ||63|f
 Limmared|57.536|13.356|SE|Västra Götaland|63
 Limésy|49.613|0.925|FR|Normandy|63
 Limekilns|56.033|-3.477|GB|Scotland|63
@@ -119,21 +132,89 @@ Limerzel|47.636|-2.354|FR|Brittany|61
 Līmāk|36.840|50.739|IR|Māzandarān|61
 Limone sul Garda|45.815|10.793|IT|Lombardy|61
 Limpeziș|44.954|26.705|RO|Buzău County|61
+Lime Island|46.086|-83.999|US|Michigan|61|f
+Lime Mountain|33.537|-111.181|US|Arizona|61|f
 Limpley Stoke|51.345|-2.314|GB|England|61
 Limestone|46.909|-67.826|US|Maine|61
 Limone Piemonte|44.201|7.579|IT|Piedmont|60
 Limbi|-12.239|44.505|KM|Anjouan|60
 Limestone Creek|26.943|-80.141|US|Florida|60
+Limeray|47.459|1.040|FR|Centre-Val de Loire|60
+Limón Chiquito|20.680|-97.283|MX|Veracruz|60
+Lima de Abajo|21.100|-105.196|MX|Nayarit|59
 Limina|37.941|15.271|IT|Sicily|59
+Lime Ridge|41.028|-76.339|US|Pennsylvania|59
+Lime Lake|42.435|-78.480|US|New York|59
+Limalonges|46.130|0.169|FR|New Aquitaine|58
+Limont|50.662|5.312|BE|Wallonia|58
+Lima Mountain|47.987|-90.404|US|Minnesota|58|f
+Lime Kiln Mountain|36.644|-92.979|US|Missouri|58|f
+Lime Peak|32.112|-110.095|US|Arizona|58|f
+Limestack Mountain|68.100|-150.776|US|Alaska|58|f
+Limit Rock|-61.898|-57.629|AQ||58|f
+Límni Vouliagméni|38.029|22.883|GR|Peloponnese|58|f
+Limogne-en-Quercy|44.400|1.783|FR|Occitanie|58
+Limonestitla|18.506|-96.828|MX|Puebla|58
+Límnes|37.714|22.880|GR|Peloponnese|57
 Limiti di Greccio|42.453|12.770|IT|Lazio|57
+Límni|39.663|19.848|GR|Ionian Islands|57
+Limonta|17.893|-94.618|MX|Veracruz|57
 Limosano|41.676|14.622|IT|Molise|57
+Limons|45.974|3.445|FR|Auvergne-Rhône-Alpes|56
+Limony|45.352|4.758|FR|Auvergne-Rhône-Alpes|56
+Limestone|36.316|-95.749|US|Oklahoma|56
+Limersheim|48.455|7.645|FR|Grand Est|56
+Limón 1ra. Sección Sector B|17.890|-92.496|MX|Tabasco|55
+Limbach im Burgenland|47.067|16.167|AT|Burgenland|55
+Lima Vieja|20.788|-97.631|MX|Veracruz|55
+Limontitla|20.737|-98.235|MX|Veracruz|55
+Līmū Chāh|37.327|49.806|IR|Gilan Province|55
+Limontitán Grande|19.990|-97.279|MX|Puebla|55
+Limnochóri|41.206|23.205|GR|Central Macedonia|54
+Lime Cay|17.918|-76.820|JM||54|f
+Limingen|64.819|13.514|NO|Trøndelag|54|f
+Limnos Airport|39.917|25.236|GR|North Aegean|54|f
+Limbach|48.150|14.657|AT|Lower Austria|54
+Limbach|50.700|7.800|DE|Rheinland-Pfalz|52
+Limbach|49.733|7.550|DE|Rheinland-Pfalz|51
 Limones|8.101|-82.866|PA|Chiriquí Province|50
+Limavatnet|58.779|5.927|NO|Rogaland|49|f
+Limbe Stadium|4.026|9.158|CM|South-West|49|f
+Limbones Island|14.236|120.591|PH|Calabarzon|49|f
+Lime Mountain|41.567|-116.193|US|Nevada|49|f
+Limeburners Bay|-38.075|144.405|AU|Victoria|49|f
+Limitrophe Island|-64.794|-64.000|AQ||49|f
+Limyra|36.341|30.175|TR|Antalya|49|f
 L-Imdina|35.887|14.405|MT||46|r
+Lima Stadium|40.740|-84.092|US|Ohio|40|f
+Limber Lake|44.045|-115.055|US|Idaho|40|f
+Lime Lake|49.239|-89.245|CA|Ontario|40|f
+Lime Lake|44.894|-85.841|US|Michigan|40|f
+Limekiln State Park|36.010|-121.518|US|California|40|f
+Limerick City Gallery of Art|52.659|-8.628|IE|Munster|40|f
+Limerick Lake|44.893|-77.617|CA|Ontario|40|f
+Limeslade Bay|51.564|-3.985|GB|Wales|40|f
+Limestone Generating Station|56.506|-94.107|CA|Manitoba|40|f
+Limestone Hills|38.547|-114.267|US|Nevada|40|f
+Limestone Hills|46.250|-111.626|US|Montana|40|f
+Limestone Lake|45.074|-77.574|CA|Ontario|40|f
+Limestone Lake|56.583|-95.917|CA|Manitoba|40|f
+Limestone Lake|49.682|-125.610|CA|British Columbia|40|f
+Limestone Mountain|39.222|-79.699|US|West Virginia|40|f
+Limmerensee|46.836|9.013|CH|Glarus|40|f
 Limón de Tijeras|7.823|-80.916|PA|Herrera Province|35
 Limapuluh|3.169|99.418|ID|North Sumatra|0
 Limatambo|-13.480|-72.443|PE|Cuzco Department|0
 Limay Mahuida|-37.160|-66.674|AR|La Pampa|0
+Limbach|49.462|9.211|DE|Baden-Wurttemberg|0
+Limbangan|-7.303|108.710|ID|Central Java|0
 Limbani|-14.150|-69.691|PE|Puno|0
 Limboto|0.627|122.978|ID|Gorontalo|0
+Limen|27.046|119.209|CN|Fujian|0
+Limiao|31.832|111.678|CN|Hubei|0
+Limiao|34.053|109.899|CN|Shaanxi|0
+Limin|39.308|112.120|CN|Shanxi|0
+Liming|47.134|125.007|CN|Heilongjiang|0
 Limoncocha|-0.411|-76.624|EC|Sucumbíos|0
+Limushan|19.268|109.783|CN|Hainan|0
 Limusnunggal|-7.504|108.402|ID|West Java|0

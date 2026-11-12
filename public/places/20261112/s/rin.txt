@@ -21,7 +21,10 @@ Rincón de Nicolás Romero (Cedros Tercera Manzana)|19.414|-100.297|MX|Michoacá
 Rindge|42.751|-72.010|US|New Hampshire|76
 Rincón|19.119|-70.406|DO|La Vega|75
 Rincón Chamula|17.208|-92.939|MX|Chiapas|75
+Rincón del Bonete Lake|-32.750|-56.000|UY|Durazno Department|74|f
+Rindersbukta|77.817|16.868|SJ|Svalbard|74|f
 Ringgold|34.916|-85.109|US|Georgia|71
+Ringvassøya|69.917|19.250|NO|Troms|71|f
 Rincón de Soto|42.235|-1.852|ES|La Rioja|71
 Rinchnach|48.950|13.201|DE|Bavaria|70
 Ringmer|50.893|0.055|GB|England|70
@@ -29,6 +32,7 @@ Rincones de la Hacienda|20.120|-98.402|MX|Hidalgo|69
 Rinxent|50.807|1.729|FR|Hauts-de-France|69
 Rincón de López|19.054|-103.933|MX|Colima|69
 Rinconada de los Ángeles|20.026|-98.711|MX|Hidalgo|69
+Rinbudhoo|2.925|72.896|MV||69|f
 Rincón de Centeno|20.661|-100.885|MX|Guanajuato|68
 Rincón de Parangueo|20.422|-101.252|MX|Guanajuato|68
 Ringgenberg|46.701|7.894|CH|Bern|68
@@ -37,11 +41,16 @@ Ringelai|48.813|13.471|DE|Bavaria|67
 Ringsheim|48.248|7.778|DE|Baden-Wurttemberg|66
 Rincón de Guayabitos|21.024|-105.268|MX|Nayarit|66
 Rinn|47.250|11.500|AT|Tyrol|65
+Rincón de la Vieja Volcano|10.827|-85.327|CR|Alajuela Province|65|f
 Rincón de Jaimes|18.898|-100.165|MX|México|65
 Rinkabyholm|56.650|16.267|SE|Kalmar|64
 Rind|39.761|45.178|AM|Vayots Dzor|64
 Rincón|18.340|-67.250|PR|Rincón|64
 Rincón de Cedeños (Rincón de Dolores)|19.678|-100.576|MX|Michoacán|63
+Ring Hill Airport|44.792|-69.072|US|Maine|63|f
+Ringedalsvatnet|60.123|6.656|NO|Vestland|63|f
+Ringelspitz|46.898|9.343|CH|Saint Gallen|63|f
+Ringvaart van de Haarlemmermeerpolder|52.220|4.556|NL||63|f
 Ringstead|52.365|-0.555|GB|England|63
 Ringgold|32.328|-93.280|US|Louisiana|63
 Rinconada|22.253|-100.950|MX|San Luis Potosí|63
@@ -51,6 +60,9 @@ Rincão|15.061|-23.765|CV|Santa Catarina|62
 Rincón Verde|19.496|-99.291|MX|México|62
 Rinnatya|32.044|34.928|IL|Central District|62
 Rincón del Porvenir|22.323|-101.176|MX|San Luis Potosí|61
+Rincon Point|34.373|-119.478|US|California|61|f
+Riñihue Lake|-39.834|-72.315|CL|Los Ríos Region|61|f
+Rinqin Xubco|31.300|83.433|CN|Tibet|61|f
 Rincón de Barrabás|19.006|-96.536|MX|Veracruz|61
 Rindö|59.397|18.394|SE|Stockholm|61
 Rinsumageast|53.297|5.949|NL|Friesland|61
@@ -65,12 +77,108 @@ Rincón Moreno|16.229|-95.314|MX|Oaxaca|60
 Rinconadas de San Francisco|20.066|-98.768|MX|Hidalgo|60
 Rincón de Guadalupe|19.273|-99.997|MX|México|60
 Ringling|34.178|-97.593|US|Oklahoma|60
+Rīneh|35.882|52.170|IR|Māzandarān|60
+Rincón Largo|8.524|-82.409|PA|Chiriquí Province|60
+Rincón Grande|18.946|-97.098|MX|Veracruz|60
+Rincón de San Andrés|19.032|-99.964|MX|México|59
+Rincón de Juárez|16.281|-94.355|MX|Oaxaca|59
+Ring|47.287|15.965|AT|Styria|59
+Rincón de Maravillas|18.784|-96.998|MX|Veracruz|59
+Ringenhain|51.079|14.334|DE|Saxony|59
+Rinconada|19.714|-98.188|MX|Puebla|59
+Rincones de la Pradera|21.052|-101.812|MX|Guanajuato|59
+Ringstedt|53.561|8.849|DE|Lower Saxony|59
+Rinconada de Atotonilco|18.976|-99.594|MX|México|59
+Riner|37.067|-80.441|US|Virginia|59
+Rincón de Zapatero|18.366|-95.363|MX|Veracruz|59
+Rincón Grande|20.218|-102.173|MX|Michoacán|59
+Rincón Pintor|18.996|-97.059|MX|Veracruz|59
+Rincón de Lijadero|19.583|-100.183|MX|México|58
+Ringwood|42.392|-88.297|US|Illinois|58
+Rincón de Cucharatepec|18.046|-101.867|MX|Guerrero|58
+Ring Mountain|50.221|-123.300|CA|British Columbia|58|f
+Ring Mountain|37.910|-122.486|US|California|58|f
+Ring of Brogar|59.000|-3.233|GB|Scotland|58|f
+Ringarogy Island|51.505|-9.374|IE|Munster|58|f
+Ringkøbing Fjord|56.000|8.250|DK|Central Jutland|58|f
+Rinkenkopf|48.516|8.363|DE|Baden-Wurttemberg|58|f
+Ringtown|40.859|-76.230|US|Pennsylvania|58
+Rinconada de los Vázquez [Fraccionamiento]|20.713|-102.372|MX|Jalisco|58
+Rincón de Las Palmas|8.555|-80.254|PA|Coclé|58
+Rinkaby|55.983|14.267|SE|Skåne|58
+Rincón Largo|7.946|-81.064|PA|Veraguas Province|58
+Rincón de la Cocina|18.243|-99.467|MX|Guerrero|58
+Rincón de Ugarte|18.927|-100.151|MX|México|57
+Rincón de Rubios|19.732|-100.630|MX|Michoacán|57
+Rincón de San Andrés|20.066|-102.749|MX|Michoacán|57
+Rinkaby|59.467|15.583|SE|Örebro|57
 Rincón|8.466|-82.281|PA|Chiriquí Province|57
+Ringelsdorf|48.567|16.867|AT|Lower Austria|57
+Rincón del Carmen|18.902|-100.121|MX|México|57
+Rincón de Alonso Sánchez|20.477|-101.389|MX|Guanajuato|56
+Rinnthal|49.217|7.917|DE|Rheinland-Pfalz|56
 Rindal|63.055|9.212|NO|Trøndelag|56
+Rincón de San José|22.283|-101.163|MX|San Luis Potosí|56
+Rina|37.943|15.334|IT|Sicily|56
+Rincón de Martínez|20.328|-101.580|MX|Guanajuato|56
+Rincón del Gallo (San José Guadalupe)|18.274|-100.508|MX|Guerrero|56
+Rincón de Cozahuapa|17.829|-98.949|MX|Guerrero|56
+Ringarum|58.333|16.450|SE|Östergötland|56
+Rinconcillo (Rinconcillo de los Remedios)|20.789|-100.804|MX|Guanajuato|55
+Ringleben|51.100|10.950|DE|Thuringia|55
+Ringaskiddy|51.834|-8.317|IE|Munster|55
+Rincón del Mezquite|20.094|-102.419|MX|Michoacán|55
+Rindbach|47.806|13.792|AT|Upper Austria|55
+Rincón Chico|19.167|-100.219|MX|México|55
+Rinnegg|47.162|15.488|AT|Styria|55
+Rinconada del Mimbre|31.347|-106.051|MX|Chihuahua|55
+Rincón de Corucha|19.541|-100.433|MX|Michoacán|55
+Rincon De Los Sauces Airport|-37.391|-68.904|AR|Neuquen|54|f
+Rincon Island|34.347|-119.445|US|California|54|f
+Ringve Botanical Garden|63.447|10.454|NO|Trøndelag|54|f
+Ringwood Manor State Park|41.143|-74.255|US|New Jersey|54|f
+Rinsennock|46.900|13.850|AT|Carinthia|54|f
+Ringwood|36.379|-98.245|US|Oklahoma|54
+Rincón Grande|18.447|-100.348|MX|México|54
+Ringsberg|54.807|9.598|DE|Schleswig-Holstein|54
 Rincón Hondo|7.842|-80.603|PA|Herrera Province|51
+Rinzenberg|49.683|7.133|DE|Rheinland-Pfalz|50
+Rincon Peak|32.121|-110.523|US|Arizona|49|f
+Ringstindane|61.443|7.826|NO|Vestland|49|f
+Rink Point|-63.881|-58.185|AQ||49|f
+Rinker Peak|39.037|-106.440|US|Colorado|49|f
+Rinn Lough|53.883|-7.850|IE|Connacht|49|f
+Rinnerspitz|47.675|11.834|DE|Bavaria|49|f
+Rinard Covered Bridge|39.537|-81.223|US|Ohio|40|f
+Rincon Bayou|27.891|-97.563|US|Texas|40|f
+Rincon Hill|37.785|-122.392|US|California|40|f
+Rincon Point|27.836|-97.379|US|Texas|40|f
+Rincon Point|37.789|-122.388|US|California|40|f
+Rindalphorn|47.503|10.101|DE|Bavaria|40|f
+Rinderberg|46.505|7.357|CH|Bern|40|f
+Rinderhorn|46.414|7.654|CH|Valais|40|f
+Rinehart Peak|-70.633|160.017|AQ||40|f
+Rinehart Stone House Museum|43.981|-117.240|US|Oregon|40|f
+Ring Hill|44.157|-69.853|US|Maine|40|f
+Ring Mountain|29.881|-98.820|US|Texas|40|f
+Ringer Glacier|-77.250|161.850|AQ||40|f
+Ringrose Peak|51.343|-116.291|CA|Alberta|40|f
+Ringrose Peak|51.333|-116.285|CA|British Columbia|40|f
+Ringwall Altes Schloss|49.799|11.122|DE|Bavaria|40|f
+Rinang|29.008|92.608|CN|Tibet|0
+Rinbung|29.267|89.809|CN|Tibet|0
 Rincón de Los Sauces|-37.398|-68.929|AR|Neuquen|0
 Rinconada|-22.441|-66.167|AR|Jujuy|0
 Rindingallo|-2.898|119.814|ID|South Sulawesi|0
+Ringe|52.600|6.918|DE|Lower Saxony|0
 Ringebu|61.530|10.139|NO|Innlandet|0
+Ringin|-6.755|111.464|ID|Central Java|0
+Ringin Kembar|-8.278|112.728|ID|East Java|0
+Ringinagung|-8.061|111.932|ID|East Java|0
+Ringinrejo|-8.020|112.254|ID|East Java|0
+Ringinrejo|-8.083|112.387|ID|East Java|0
+Ringinrejo|-8.277|112.348|ID|East Java|0
+Ringinsari Krajan|-8.277|112.675|ID|East Java|0
+Ringintunggal|-7.170|111.712|ID|East Java|0
 Ringoma|-12.399|17.544|AO|Bíe|0
 Ringway|53.350|-2.283|GB|England|0

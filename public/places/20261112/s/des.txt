@@ -29,6 +29,7 @@ Desaguadero|-16.568|-69.034|BO|La Paz Department|79
 Des Peres|38.601|-90.433|US|Missouri|79
 Descanso|-26.826|-53.502|BR|Santa Catarina|79
 Dēsamangalam|10.755|76.232|IN|Kerala|78
+Destin Executive Airport|30.400|-86.471|US|Florida|78|f
 Desterro|-7.291|-37.094|BR|Paraíba|78
 Desterro de Entre Rios|-20.660|-44.333|BR|Minas Gerais|78
 Desūla|27.532|76.679|IN|Rajasthan|77
@@ -38,6 +39,7 @@ De Soto|38.979|-94.969|US|Kansas|76
 Despeñaderos|-31.814|-64.295|AR|Cordoba|75
 Desaguadero|-16.566|-69.042|PE|Puno|75
 Desūr|12.437|79.481|IN|Tamil Nadu|75
+Desert Rock Airport|36.619|-116.033|US|Nevada|74|f
 Desselgem|50.886|3.360|BE|Flanders|74
 Desvres|50.669|1.835|FR|Hauts-de-France|74
 Deschutes River Woods|43.992|-121.358|US|Oregon|74
@@ -45,7 +47,11 @@ Desa|43.867|23.033|RO|Dolj|74
 Desloge|37.871|-90.527|US|Missouri|74
 Descoberto|-21.460|-42.968|BR|Minas Gerais|74
 Désertines|46.355|2.619|FR|Auvergne-Rhône-Alpes|74
+Destin–Fort Walton Beach Airport|30.496|-86.549|US|Florida|73|f
 Deste|38.884|45.910|AZ|Nakhchivan|73
+Des Moines International Airport|41.539|-93.659|US|Iowa|72|f
+Dešat|41.624|20.542|AL||72|f
+Despotiko Island|36.963|25.004|GR|South Aegean|72|f
 Deszk|46.218|20.243|HU|Csongrád|72
 Descartes|46.967|0.700|FR|Centre-Val de Loire|72
 Deskáti|39.924|21.810|GR|West Macedonia|72
@@ -55,6 +61,7 @@ Desoto Lakes|27.371|-82.490|US|Florida|71
 Desná|50.760|15.303|CZ|Liberec Region|71
 Desford|52.626|-1.294|GB|England|70
 Desterro do Melo|-21.147|-43.518|BR|Minas Gerais|70
+Desatoya Mountains|39.424|-117.668|US|Nevada|69|f
 Deseşti|47.767|23.850|RO|Maramureş|68
 Dessel|51.239|5.114|BE|Flanders|68
 Des Allemands|29.824|-90.475|US|Louisiana|68
@@ -64,6 +71,8 @@ Desert Hills|34.554|-114.372|US|Arizona|67
 Despotovo|45.460|19.527|RS|Vojvodina|66
 Desert Springs|-23.716|133.888|AU|Northern Territory|66
 Deseronto|44.200|-77.049|CA|Ontario|66
+D’Estrees Bay|-35.917|137.650|AU|South Australia|65|f
+Destruction Island|47.675|-124.484|US|Washington|65|f
 Desantne|45.574|29.540|UA|Odesa|65
 Deshler|41.208|-83.899|US|Ohio|65
 Desfína|38.417|22.529|GR|Central Greece|65
@@ -71,12 +80,17 @@ Des Arc|34.977|-91.495|US|Arkansas|64
 Desert Aire|46.679|-119.917|US|Washington|64
 De Soto|37.818|-89.228|US|Illinois|64
 Destedt|52.238|10.711|DE|Lower Saxony|63
+Desert Mountains|39.199|-118.945|US|Nevada|63|f
+Desolation Peak|48.911|-121.016|US|Washington|63|f
 Descanso|32.853|-116.616|US|California|63
 Desovo|41.463|21.491|MK|Dolneni|62
 Dese|45.530|12.304|IT|Veneto|62
 Desna|49.282|28.540|UA|Vinnytsia|62
 Deskle|46.053|13.614|SI|Municipality of Kanal ob Soči|62
 Désaignes|44.995|4.517|FR|Auvergne-Rhône-Alpes|61
+Desert National Wildlife Range|36.831|-115.383|US|Nevada|61|f
+Desert Range|36.841|-115.338|US|Nevada|61|f
+Desroches Airport|-5.697|53.656|SC||61|f
 Desert Shores|33.404|-116.040|US|California|61
 Deszczno|52.670|15.320|PL|Lubusz|61
 Dessenheim|47.978|7.489|FR|Grand Est|61
@@ -87,11 +101,110 @@ Deshovki|54.002|35.788|RU|Kaluga Oblast|60
 Desbiens|48.418|-71.948|CA|Quebec|60
 Desana|45.269|8.358|IT|Piedmont|60
 Despard|39.289|-80.306|US|West Virginia|60
+De Steeg|52.020|6.061|NL|Gelderland|60
+Déséné|8.587|-7.640|CI|Woroba|60
+Deserto|45.201|11.690|IT|Veneto|58
+Des Plaines State Conservation Area|41.393|-88.210|US|Illinois|58|f
+Desatoya Peak|39.365|-117.759|US|Nevada|58|f
+Desenberg|51.500|9.198|DE|North Rhine-Westphalia|58|f
+Deseret Peak|40.460|-112.626|US|Utah|58|f
+Desert Creek Mountains|38.611|-119.284|US|Nevada|58|f
+Deserta Grande Island|32.522|-16.509|PT|Madeira|58|f
+Desierto de Sechura|-5.833|-80.667|PE|Piura|58|f
+Desolation Island|-62.458|-60.347|AQ||58|f
+Desoto National Wildlife Refuge|41.520|-96.017|US|Nebraska|58|f
+Deshler|40.141|-97.723|US|Nebraska|58
+Desemboque|30.568|-113.009|MX|Sonora|57
 Destriana|42.327|-6.096|ES|Castille and León|57
+Dešenice|49.274|13.171|CZ|Plzeň Region|57
+Deštná|49.265|14.924|CZ|South Bohemian Region|57
+Deshkovytsia|48.361|22.991|UA|Zakarpattia|57
+Desingy|45.995|5.888|FR|Auvergne-Rhône-Alpes|56
+Dešná|48.958|15.543|CZ|South Bohemian Region|56
+Desejada|0.356|6.671|ST|São Tomé Island|56
+Désandans|47.534|6.677|FR|Bourgogne-Franche-Comté|56
+Désertines|48.469|-0.867|FR|Pays de la Loire|55
+Desyatova|56.256|68.908|RU|Tyumen Oblast|55
+Deštné v Orlických horách|50.305|16.350|CZ|Hradec Králové Region|55
+Destro|39.489|16.694|IT|Calabria|55
+Descartes Island|-66.779|141.478|AQ||54|f
+Desert Hills|37.042|-115.355|US|Nevada|54|f
+DeSoto Lake|34.224|-85.184|US|Georgia|54|f
+Desloch|49.717|7.633|DE|Rheinland-Pfalz|52
 Desselbrunn|48.021|13.770|AT|Upper Austria|52
 Desinić|46.149|15.669|HR|Krapina-Zagorje|50
 Descargamaría|40.304|-6.487|ES|Extremadura|49
+Descartes Island|-14.167|125.678|AU|Western Australia|49|f
+Deschampsia Point|-60.680|-45.635|AQ||49|f
+Deschanel Peak|-68.914|-67.244|AQ||49|f
+Desert Camp Conservation Park|-36.480|140.367|AU|South Australia|49|f
+Desko Mountains|-69.597|-72.460|AQ||49|f
+Despair Island|41.608|-71.361|US|Rhode Island|49|f
+Destination Nunataks|-72.250|165.467|AQ||49|f
+Desventuradas Islands|-26.332|-79.989|CL|Atacama|49|f
+Dessighofen|50.258|7.772|DE|Rheinland-Pfalz|45
 Destrnik|46.493|15.879|SI|Destrnik|45
 Desojo|42.588|-2.274|ES|Navarre|42
+De Said Lake|44.634|-63.483|CA|Nova Scotia|40|f
+De Saisset Museum|37.350|-121.941|US|California|40|f
+De Salis Bay|71.441|-121.635|CA|Northwest Territories|40|f
+De Smet Range|53.167|-118.219|CA|Alberta|40|f
+De Soto National Memorial|27.523|-82.643|US|Florida|40|f
+Des Lacs National Wildlife Refuge|48.687|-102.106|US|North Dakota|40|f
+Des Moines River Bridge|42.732|-94.258|US|Iowa|40|f
+Des Moines River Bridge|43.345|-94.443|US|Iowa|40|f
+Des Voeux Island|76.185|-96.952|CA|Nunavut|40|f
+Desborough Castle|51.632|-0.777|GB|England|40|f
+Descanso Gardens|34.202|-118.212|US|California|40|f
+Descent Glacier|-77.850|162.867|AQ||40|f
+Deschambault Lake|54.783|-103.417|CA|Saskatchewan|40|f
+Descharme Lake|57.083|-109.217|CA|Saskatchewan|40|f
+Deschutes Historical Museum|44.055|-121.317|US|Oregon|40|f
+Desecheo National Wildlife Refuge|18.383|-67.480|PR|Mayagüez|40|f
+Desert Center Airport|33.747|-115.328|US|California|40|f
+Desert Christ Park|34.129|-116.440|US|California|40|f
+Désert de Tabernas|37.052|-2.391|ES|Andalusia|40|f
+Desert Lake|45.246|-61.900|CA|Nova Scotia|40|f
+Desert Lake|39.373|-110.783|US|Utah|40|f
+Desert Queen Mine|34.024|-116.071|US|California|40|f
+Deserters Canyon|56.933|-124.953|CA|British Columbia|40|f
+Deserters Group|50.873|-127.492|CA|British Columbia|40|f
+Deserters Island|50.878|-127.473|CA|British Columbia|40|f
+Desierto de Atacama Airport|-27.252|-70.782|CL|Atacama|40|f
+Desierto de la Tatacoa|3.259|-75.140|CO|Huila Department|40|f
+Desjardins Canal|43.280|-79.891|CA|Ontario|40|f
+Desolation Peak|43.202|-109.679|US|Wyoming|40|f
+Desolation Sound|50.116|-124.789|CA|British Columbia|40|f
+Desolation Sound Marine Park|50.112|-124.688|CA|British Columbia|40|f
+DeSoto Lake|41.545|-96.022|US|Iowa|40|f
+Dessent Ridge|-73.417|166.617|AQ||40|f
+Desa|-7.475|108.017|ID|West Java|0
+Desa Baregbeg|-7.304|108.360|ID|West Java|0
+Desa Benteng|-7.340|108.349|ID|West Java|0
+Desa Borogojol|-7.044|108.182|ID|West Java|0
+Desa Cigembor|-7.341|108.369|ID|West Java|0
+Desa Cikambulan|-7.674|108.614|ID|West Java|0
+Desa Cilangkap|-7.362|108.335|ID|West Java|0
+Desa Cimari|-7.312|108.288|ID|West Java|0
+Desa Darmacaang|-7.275|108.272|ID|West Java|0
+Desa Gegempalan|-7.327|108.291|ID|West Java|0
+Desa Gunungsari|-7.256|108.311|ID|West Java|0
+Desa Kaler Gunungcupu|-7.295|108.230|ID|West Java|0
+Desa Mangkubumi|-7.282|108.308|ID|West Java|0
+Desa Margaluyu|-7.308|108.256|ID|West Java|0
+Desa Nasol|-7.282|108.290|ID|West Java|0
+Desa Saguling|-7.298|108.356|ID|West Java|0
+Desa Sindanghurip|-7.017|108.242|ID|West Java|0
+Desa Sukajadi|-7.309|108.329|ID|West Java|0
+Desa Sukamaju|-7.309|108.372|ID|West Java|0
+Desa Werasari|-7.280|108.317|ID|West Java|0
+Desa Wetan Ciakar|-7.194|108.355|ID|West Java|0
+Desakolot|-7.256|107.893|ID|West Java|0
+Desakolot|-7.486|108.127|ID|West Java|0
+Desakolot|-7.334|107.806|ID|West Java|0
+Deshan|28.928|111.712|CN|Hunan|0
+Desheng|46.866|126.124|CN|Heilongjiang|0
+Desheng|32.451|109.846|CN|Hubei|0
+Deshun|45.413|122.874|CN|Jilin|0
 Despotovac|44.093|21.447|RS|Central Serbia|0
 Destek|40.847|36.183|TR|Amasya|0

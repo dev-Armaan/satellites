@@ -4,7 +4,7 @@ Constanța County|44.250|28.333|RO||118|r
 Contagem|-19.932|-44.054|BR|Minas Gerais|116
 Constantine|36.365|6.615|DZ|Constantine|113
 Constanţa|44.181|28.634|RO|Constanța County|110
-Connacht|53.870|-8.633|IE||107|r
+Connacht|53.870|-8.633|IE||108|r
 Concepción|-36.827|-73.050|CL|Biobio|107
 Concepcion|15.325|120.657|PH|Central Luzon|105
 Concordia|-31.392|-58.017|AR|Entre Rios|103
@@ -32,6 +32,7 @@ Contumo|11.850|-15.617|GW|Bissau|93
 Concord|43.208|-71.538|US|New Hampshire|93
 Concón|-32.922|-71.516|CL|Valparaiso|92
 Constitución|-35.333|-72.412|CL|Maule Region|92
+Congonhas-São Paulo Airport|-23.628|-46.656|BR|São Paulo|92|f
 Condado|21.876|-79.840|CU|Sancti Spíritus Province|92
 Conflans-Sainte-Honorine|49.002|2.097|FR|Île-de-France|91
 Conceição do Jacuípe|-12.317|-38.767|BR|Bahia|91
@@ -62,6 +63,7 @@ Concepción|40.439|-3.649|ES|Madrid|86
 Contamana|-7.333|-75.017|PE|Loreto|86
 Conselheiro Pena|-19.172|-41.472|BR|Minas Gerais|86
 Conceição da Feira|-12.506|-38.999|BR|Bahia|86
+Conwy Castle|53.280|-3.826|GB|Wales|86|f
 Contenda|-25.679|-49.537|BR|Paraná|86
 Conceição|-7.562|-38.509|BR|Paraíba|86
 Condeúba|-14.895|-41.969|BR|Bahia|85
@@ -112,6 +114,7 @@ Conel|6.202|125.187|PH|Soccsksargen|79
 Congers|41.151|-73.945|US|New York|78
 Concordia|23.287|-106.064|MX|Sinaloa|78
 Congonhinhas|-23.551|-50.554|BR|Paraná|78
+Connemara Airport|53.230|-9.468|IE|Connacht|78|f
 Concord|43.800|-79.483|CA|Ontario|78
 Conover|35.707|-81.219|US|North Carolina|78
 Congress Heights|38.843|-77.000|US|District of Columbia|78
@@ -120,6 +123,7 @@ Conshohocken|40.079|-75.302|US|Pennsylvania|78
 Concordia|25.780|-103.116|MX|Coahuila|78
 Concepción de Ataco|13.870|-89.849|SV|Ahuachapan|78
 Condom|43.958|0.372|FR|Occitanie|78
+Concord Municipal Airport|43.203|-71.501|US|New Hampshire|78|f
 Connellsville|40.018|-79.589|US|Pennsylvania|78
 Confins|-19.633|-43.983|BR|Minas Gerais|77
 Cônego Marinho|-15.294|-44.418|BR|Minas Gerais|77
@@ -136,6 +140,8 @@ Conquista|-19.937|-47.542|BR|Minas Gerais|77
 Concordia|9.835|-74.455|CO|Magdalena Department|76
 Constancia|25.966|-108.903|MX|Sinaloa|76
 Condor|-28.208|-53.487|BR|Rio Grande do Sul|76
+Coney Island|1.160|103.741|SG||76|f
+Converse County Airport|42.797|-105.386|US|Wyoming|76|f
 Condé-sur-Noireau|48.849|-0.552|FR|Normandy|76
 Conley|33.645|-84.326|US|Georgia|76
 Conjunto Urbano la Loma I|19.326|-99.732|MX|México|76
@@ -150,6 +156,7 @@ Connell|46.663|-118.861|US|Washington|75
 Conceição do Pará|-19.753|-44.897|BR|Minas Gerais|75
 Confey|53.379|-6.491|IE|Leinster|75
 Contra Costa Centre|37.928|-122.058|US|California|75
+Congo Cay|18.368|-64.803|VI|Saint John Island|74|f
 Concordia|39.571|-97.663|US|Kansas|74
 Conduaga|8.862|117.489|PH|Mimaropa|74
 Contwig|49.250|7.433|DE|Rheinland-Pfalz|74
@@ -182,6 +189,7 @@ Conceição do Tocantins|-12.219|-47.298|BR|Tocantins|72
 Conquista d'Oeste|-14.541|-59.541|BR|Mato Grosso|72
 Conwy|53.281|-3.830|GB|Wales|72
 Conţeşti|43.800|25.483|RO|Teleorman County|71
+Convoy Range|-76.783|160.750|AQ||71|f
 Condrieu|45.463|4.768|FR|Auvergne-Rhône-Alpes|71
 Contrecoeur|45.850|-73.232|CA|Quebec|71
 Conceição da Barra de Minas|-21.129|-44.473|BR|Minas Gerais|71
@@ -195,6 +203,7 @@ Consuegra|11.298|124.512|PH|Eastern Visayas|70
 Concepción|14.784|-91.148|GT|Sololá|70
 Concepción Batres|13.350|-88.367|SV|Usulutan|70
 Concepcion|15.221|120.831|PH|Central Luzon|70
+Concord Peak|37.333|73.766|TJ||70|f
 Consuelo|8.902|125.188|PH|Northern Mindanao|70
 Condé-sur-Vire|49.050|-1.033|FR|Normandy|70
 Confolens|46.013|0.672|FR|New Aquitaine|70
@@ -214,6 +223,7 @@ Conjunto Habitacional Ecológico SUTEYM|19.369|-99.779|MX|México|69
 Connerré|48.060|0.492|FR|Pays de la Loire|69
 Constancia|10.596|122.641|PH|Western Visayas|69
 Constitución|29.921|-106.796|MX|Chihuahua|69
+Conanicut Island|41.538|-71.376|US|Rhode Island|69|f
 Congregación Ortíz|28.254|-105.519|MX|Chihuahua|68
 Conflans-en-Jarnisy|49.167|5.855|FR|Grand Est|68
 Conrad|48.170|-111.946|US|Montana|68
@@ -228,6 +238,13 @@ Constance Bay|45.500|-76.083|CA|Ontario|67
 Conop|46.102|21.880|RO|Arad County|67
 Condé-sur-Sarthe|48.432|0.034|FR|Normandy|67
 Condeești|44.628|26.691|RO|Ialomița County|67
+Côn Sơn Island|8.698|106.602|VN|Ho Chi Minh City (HCMC)|67|f
+Conavalla|53.016|-6.453|IE|Leinster|67|f
+Conesus Lake|42.735|-77.711|US|New York|67|f
+Conguillio Lake|-38.634|-71.639|CL|Araucania|67|f
+Conic Island|22.364|114.392|HK|Sai Kung District|67|f
+Conival|58.136|-4.883|GB|Scotland|67|f
+Contadora Airport|8.629|-79.035|PA|Panamá|67|f
 Consacá|1.208|-77.465|CO|Nariño|67
 Contigliano|42.411|12.772|IT|Lazio|67
 Conques-sur-Orbiel|43.267|2.417|FR|Occitanie|67
@@ -249,6 +266,11 @@ Conches-sur-Gondoire|48.856|2.718|FR|Île-de-France|66
 Conyngham|40.992|-76.057|US|Pennsylvania|65
 Condon|36.181|-83.794|US|Tennessee|65
 Contursi Terme|40.650|15.242|IT|Campania|65
+Conceição do Araguaia Airport|-8.348|-49.302|BR|Pará|65|f
+Concepción Airport|-16.140|-62.028|BO|Santa Cruz Department|65|f
+Confusion Range|39.279|-113.673|US|Utah|65|f
+Conklin Airport|55.634|-111.087|CA|Alberta|65|f
+Contao Airport|-41.801|-72.723|CL|Los Lagos Region|65|f
 Conway|42.510|-72.700|US|Massachusetts|65
 Concord|33.468|-87.031|US|Alabama|65
 Conway|43.979|-71.120|US|New Hampshire|65
@@ -273,6 +295,17 @@ Condino|45.882|10.594|IT|Trentino-Alto Adige|63
 Concepcion|18.323|-88.474|BZ|Corozal District|63
 Condé-Sainte-Libiaire|48.897|2.839|FR|Île-de-France|63
 Concepción de Guasistagua|14.608|-87.655|HN|Comayagua Department|63
+Conakry International Airport|9.577|-13.612|GN|Conakry|63|f
+Conception Bay|47.750|-52.998|CA|Newfoundland and Labrador|63|f
+Conejos Peak|37.289|-106.571|US|Colorado|63|f
+Congaree National Park|33.792|-80.749|US|South Carolina|63|f
+Conical Rock|-62.711|-61.177|AQ||63|f
+Conklin (Leismer) Airport|55.696|-111.281|CA|Alberta|63|f
+Connecticut Lakes|45.093|-71.248|US|New Hampshire|63|f
+Constable Hook|40.658|-74.099|US|New Jersey|63|f
+Constantine Harbor|51.401|179.295|US|Alaska|63|f
+Contadora Island|8.627|-79.037|PA|Panamá|63|f
+Continental Lake|41.899|-118.726|US|Nevada|63|f
 Conscripto Bernardi|-31.047|-59.084|AR|Entre Rios|63
 Conțești|44.985|25.010|RO|Arges|63
 Concord|37.343|-78.975|US|Virginia|63
@@ -308,6 +341,19 @@ Constitución|18.626|-90.136|MX|Campeche|61
 Concepción|16.809|-92.965|MX|Chiapas|61
 Congregación Reforma|14.782|-92.314|MX|Chiapas|61
 Continental|41.100|-84.266|US|Ohio|61
+Co Ngoin|31.600|88.800|CN|Tibet|61|f
+Co Nyi|34.577|87.263|CN|Tibet|61|f
+Conception Bay|-23.917|14.496|NA|Hardap Region|61|f
+Concord-Padgett Regional Airport|35.386|-80.711|US|North Carolina|61|f
+Concórdia Airport|-27.181|-52.053|BR|Santa Catarina|61|f
+Coney Island|54.517|-6.550|GB|Northern Ireland|61|f
+Coney Island|54.299|-8.588|IE|Connacht|61|f
+Coniston Water|54.336|-3.077|GB|England|61|f
+Conrad Mountains|-71.833|9.750|AQ||61|f
+Constantiaberg|-34.053|18.385|ZA|Western Cape|61|f
+Constitution Island|41.406|-73.954|US|New York|61|f
+Contentment Island|41.055|-73.457|US|Connecticut|61|f
+Conwy Bay|53.333|-3.967|GB|Wales|61|f
 Constitución|17.076|-92.524|MX|Chiapas|61
 Concepción Caro|19.771|-99.909|MX|México|61
 Conrad|42.225|-92.875|US|Iowa|61
@@ -325,17 +371,139 @@ Conquereuil|47.625|-1.751|FR|Pays de la Loire|60
 Conejeras|20.013|-99.962|MX|México|60
 Concepción de la Barranca|15.167|-88.717|HN|Copán Department|60
 Constância|39.478|-8.336|PT|Santarém|60
+Cononley|53.918|-2.017|GB|England|60
+Confrançon|46.266|5.066|FR|Auvergne-Rhône-Alpes|60
+Concepción de María|13.217|-87.000|HN|Choluteca Department|59
+Constancia y Venecia|18.435|-92.825|MX|Tabasco|59
+Confederación Nacional Campesina|22.162|-98.153|MX|Veracruz|59
+Condezaygues|44.487|0.917|FR|New Aquitaine|59
+Contla|18.979|-97.094|MX|Veracruz|59
+Condat-sur-Vézère|45.118|1.230|FR|New Aquitaine|59
+Contreras|24.039|-104.556|MX|Durango|59
+Conche|45.238|12.170|IT|Veneto|59
+Constantin Gabrielescu|45.072|27.638|RO|Brăila County|59
 Coneto de Comonfort|24.979|-104.769|MX|Durango|59
+Concepción Carrizal|17.155|-97.893|MX|Oaxaca|58
+Concepción Pardiñas|18.960|-97.978|MX|Puebla|58
+Congregación Caballeros|23.862|-99.171|MX|Tamaulipas|58
+Condé-Folie|50.009|2.012|FR|Hauts-de-France|58
+Constantine|50.119|-5.176|GB|England|58
+Concadirame|45.094|11.730|IT|Veneto|58
 Conco|45.800|11.610|IT|Veneto|58
+Conca|41.735|9.332|FR|Corsica|58
+Contest|48.262|-0.657|FR|Pays de la Loire|58
+Conchil-le-Temple|50.369|1.664|FR|Hauts-de-France|58
 Conima|-15.458|-69.438|PE|Puno|58
+Conant Brook Dam|42.073|-72.291|US|Massachusetts|58|f
+Concepcion Airport|-23.442|-57.427|PY|Concepción|58|f
+Conchas Lake|35.383|-104.213|US|New Mexico|58|f
+Conconully Dam|48.537|-119.749|US|Washington|58|f
+Condyle Point|-63.603|-59.800|AQ||58|f
+Confidence Hills|35.856|-116.640|US|California|58|f
+Conical Range|51.077|-127.075|CA|British Columbia|58|f
+Coniston Old Man|54.370|-3.122|GB|England|58|f
+Conklingville Dam|43.318|-73.924|US|New York|58|f
+Cono Island|-67.677|-69.157|AQ||58|f
+Conococheague Mountain|40.365|-77.526|US|Pennsylvania|58|f
+Contoocook Lake|42.801|-72.027|US|New Hampshire|58|f
+Conway Lake|43.962|-71.059|US|New Hampshire|58|f
+Contone|46.151|8.926|CH|Ticino|58
+Congregación de la Cruz|20.459|-100.689|MX|Guanajuato|58
+Coniolo|45.383|9.976|IT|Lombardy|58
+Conway|37.502|-92.821|US|Missouri|58
+Contla|19.668|-97.713|MX|Puebla|58
+Conway|36.437|-77.229|US|North Carolina|58
+Conteville|49.418|0.397|FR|Normandy|58
+Conliège|46.655|5.599|FR|Bourgogne-Franche-Comté|58
+Concei|45.906|10.729|IT|Trentino-Alto Adige|58
+Congiunti|42.472|14.085|IT|Abruzzo|58
+Confort-Meilars|48.050|-4.433|FR|Brittany|58
+Conneautville|41.758|-80.368|US|Pennsylvania|58
+Confluence|39.813|-79.357|US|Pennsylvania|57
+Connewarre|-38.267|144.400|AU|Victoria|57
+Contrada Sant'Anna Iv|39.000|17.070|IT|Calabria|57
 Conscenti|44.345|9.395|IT|Liguria|57
+Cóndiro|20.406|-102.549|MX|Jalisco|57
+Concise|46.850|6.720|CH|Vaud|57
+Condover|52.648|-2.750|GB|England|57
+Concagno|45.799|8.910|IT|Lombardy|57
+Concrete|48.539|-121.746|US|Washington|57
+Contrada Difesa II|38.797|16.218|IT|Calabria|57
 Convent|30.021|-90.830|US|Louisiana|57
+Concow|39.730|-121.527|US|California|57
+Condado del Valle Dorado (Segunda Sección)|19.221|-96.212|MX|Veracruz|57
+Condren|49.629|3.281|FR|Hauts-de-France|57
 Conflenti|39.072|16.285|IT|Calabria|57
+Contrisson|48.803|4.956|FR|Grand Est|57
+Concoret|48.064|-2.207|FR|Brittany|57
+Conflans-sur-Lanterne|47.817|6.217|FR|Bourgogne-Franche-Comté|57
+Condeissiat|46.157|5.079|FR|Auvergne-Rhône-Alpes|57
 Condon|45.234|-120.185|US|Oregon|57
 Congalla|-12.956|-74.493|PE|Huancavelica|57
+Conquista Campesina|18.179|-91.288|MX|Campeche|57
+Concepción Pápalo|17.842|-96.882|MX|Oaxaca|57
+Conțești|46.166|27.085|RO|Bacău County|57
+Conflans-sur-Seine|48.552|3.680|FR|Grand Est|57
+Concepción del Progreso|17.047|-97.862|MX|Oaxaca|56
+Condé-sur-Marne|49.044|4.180|FR|Grand Est|56
 Controne|40.510|15.204|IT|Campania|56
+Concacha|-13.551|-72.798|PE|Apurímac Department|56
+Concorde Hills|39.211|-84.357|US|Ohio|56
+Condrea|45.709|27.431|RO|Galați County|56
+Congregación Hidalgo|19.961|-97.252|MX|Veracruz|56
+Consejo|18.457|-88.301|BZ|Corozal District|56
+Condat-sur-Ganaveix|45.467|1.594|FR|New Aquitaine|56
+Conilhac-Corbières|43.189|2.715|FR|Occitanie|56
+Contigné|47.730|-0.517|FR|Pays de la Loire|56
+Coniston|54.369|-3.075|GB|England|56
+Condé-en-Brie|49.005|3.564|FR|Hauts-de-France|56
+Constantinești|44.594|24.502|RO|Olt|56
+Conneaut Lake|41.603|-80.305|US|Pennsylvania|56
+Contépec|21.134|-98.493|MX|Hidalgo|56
+Congreso Permanente Agrario|21.135|-98.298|MX|Hidalgo|56
+Conception Harbour|47.443|-53.218|CA|Newfoundland and Labrador|56
+Cons-la-Grandville|49.485|5.704|FR|Grand Est|56
+Concremiers|46.597|1.017|FR|Centre-Val de Loire|56
+Congona|-6.836|-78.222|PE|Cajamarca Department|56
+Connoquenessing|40.818|-80.014|US|Pennsylvania|56
+Conchy-les-Pots|49.603|2.725|FR|Hauts-de-France|56
+Conflans-sur-Anille|47.946|0.745|FR|Pays de la Loire|56
+Converse|34.992|-81.835|US|South Carolina|56
 Congas|-10.336|-77.442|PE|Ancash|56
+Congupna|-36.300|145.433|AU|Victoria|56
+Conta|19.928|-97.301|MX|Puebla|56
+Contessa|39.440|16.216|IT|Calabria|56
 Conca dei Marini|40.618|14.573|IT|Campania|56
+Concourson-sur-Layon|47.174|-0.340|FR|Pays de la Loire|55
+Contigny|46.353|3.304|FR|Auvergne-Rhône-Alpes|55
+Condéon|45.408|-0.138|FR|New Aquitaine|55
+Concepción el Amparo|17.077|-92.623|MX|Chiapas|55
+Condé|49.154|6.431|FR|Grand Est|55
+Concepción las Mesas|16.880|-97.961|MX|Oaxaca|55
+Confort|46.151|5.823|FR|Auvergne-Rhône-Alpes|55
+Coñecito|21.046|-99.125|MX|Hidalgo|55
+Cóndor Cerro|-8.414|-77.486|PE|Ancash|55
+Conna|52.091|-8.111|IE|Munster|54
+Constitución|18.154|-91.577|MX|Tabasco|54
+Cona' Mheall|57.791|-4.903|GB|Scotland|54|f
+Conception Island|-4.664|55.366|SC||54|f
+Conchas Lake Airport|35.369|-104.188|US|New Mexico|54|f
+Concord Museum|42.458|-71.343|US|Massachusetts|54|f
+Condobolin Airport|-33.064|147.209|AU|New South Wales|54|f
+Condon USFS Airport|47.541|-113.723|US|Montana|54|f
+Cone Islet|-39.496|146.661|AU|Tasmania|54|f
+Confresa Airport|-10.634|-51.564|BR|Mato Grosso|54|f
+Congress Mine|34.201|-112.851|US|Arizona|54|f
+Connecticut Childrens Museum|41.308|-72.922|US|Connecticut|54|f
+Connecticut College Arboretum|41.379|-72.110|US|Connecticut|54|f
+Connecticut Trolley Museum|41.931|-72.598|US|Connecticut|54|f
+Connors Lake|45.752|-90.736|US|Wisconsin|54|f
+Conset Bay|13.182|-59.466|BB|Saint John|54|f
+Constitution Convention Museum State Park|29.793|-85.297|US|Florida|54|f
+Constitution Square|44.427|26.092|RO|Bucharest|54|f
+Conversano's Castle|40.969|17.115|IT|Apulia|54|f
+Condécourt|49.040|1.942|FR|Île-de-France|54
+Concepción de Ruiz|20.387|-101.616|MX|Guanajuato|54
 Conquista|38.400|-4.500|ES|Andalusia|54
 Confines|6.356|-73.241|CO|Santander Department|53
 Conchán|-6.444|-78.656|PE|Cajamarca Department|52
@@ -345,6 +513,49 @@ Conchamarca|-10.038|-76.215|PE|Huánuco Department|51
 Coniolo Bricco|45.148|8.371|IT|Piedmont|50
 Concerviano|42.322|12.985|IT|Lazio|49
 Confrides|38.685|-0.269|ES|Valencia|49
+Concert Hall Aarhus|56.153|10.199|DK|Central Jutland|49|f
+Conchas Dam|35.403|-104.191|US|New Mexico|49|f
+Conchie Glacier|-71.600|-67.200|AQ||49|f
+Concord Mountains|-71.583|165.167|AQ||49|f
+Concord Oval|-33.865|151.110|AU|New South Wales|49|f
+Concordia Subglacial Lake|-74.100|125.150|AQ||49|f
+Condado Lagoon|18.458|-66.080|PR|San Juan|49|f
+Condit Glacier|-77.867|162.800|AQ||49|f
+Condor Peninsula|-71.766|-61.466|AQ||49|f
+Conduru Mountain State|-14.448|-39.093|BR|Bahia|49|f
+Conejo Mountain|34.188|-118.984|US|California|49|f
+Coney Island|32.359|-64.716|BM|Saint Georgeʼs|49|f
+Coney Island|37.664|-80.897|US|West Virginia|49|f
+Coney Island|37.846|-121.549|US|California|49|f
+Coney Mountain|44.102|-74.523|US|New York|49|f
+Confederate Breastwork|32.483|-85.034|US|Alabama|49|f
+Conflict Group|-10.770|151.791|PG|Milne Bay Province|49|f
+Confusion Island|-60.738|-45.636|AQ||49|f
+Conger Glacier|-66.000|103.533|AQ||49|f
+Congress Street Bridge|42.729|-73.697|US|New York|49|f
+Conimbla National Park|-33.750|148.440|AU|New South Wales|49|f
+Conisbrough Castle|53.483|-1.226|GB|England|49|f
+Conklin Hill|42.105|-74.923|US|New York|49|f
+Connolly Dam|-28.361|152.002|AU|Queensland|49|f
+Conondale National Park|-26.716|152.586|AU|Queensland|49|f
+Conondale Range|-26.810|152.658|AU|Queensland|49|f
+Conowingo Dam|39.661|-76.173|US|Maryland|49|f
+Conrad Ledge|-77.293|160.886|AQ||49|f
+Conradi Peak|-66.133|54.583|AQ||49|f
+Conroy Point|-60.734|-45.698|AQ||49|f
+Consort Islands|-67.860|-68.689|AQ||49|f
+Conspiracy Island|41.783|-71.115|US|Massachusetts|49|f
+Constant Vanden Stock stadion|50.834|4.298|BE|Brussels Capital|49|f
+Constellation Dome|-81.100|160.217|AQ||49|f
+Construction Point|-72.317|170.217|AQ||49|f
+Consul Reef|-67.903|-68.700|AQ||49|f
+Contact Peak|-67.770|-67.455|AQ||49|f
+Contact Point|-63.374|-56.997|AQ||49|f
+Contell Glacier|-62.653|-60.358|AQ||49|f
+Conway Island|-66.151|-65.435|AQ||49|f
+Conway Peak|-77.370|160.896|AQ||49|f
+Conway Range|-79.300|159.500|AQ||49|f
+Conway-Horry County Airport|33.828|-79.124|US|South Carolina|49|f
 Conzano|45.020|8.456|IT|Piedmont|49
 Conca Casale|41.495|14.007|IT|Molise|49
 Contadora|8.625|-79.037|PA|Panamá|48
@@ -355,6 +566,78 @@ Congosto de Valdavia|42.716|-4.634|ES|Castille and León|47
 Condemios de Arriba|41.216|-3.125|ES|Castille-La Mancha|45
 Constanzana|40.938|-4.875|ES|Castille and León|44
 Configni|42.425|12.644|IT|Lazio|43
+Conard Peak|-72.367|167.433|AQ||40|f
+Conboy Lake National Wildlife Refuge|45.972|-121.330|US|Washington|40|f
+Concatedral|41.766|-2.459|ES|Castille and León|40|f
+Concatedral|38.916|-6.347|ES|Extremadura|40|f
+Conchas Lake Seaplane Base|35.384|-104.216|US|New Mexico|40|f
+Concho Lake|34.443|-109.629|US|Arizona|40|f
+Conconully State Park|48.555|-119.755|US|Washington|40|f
+Concord Building|45.520|-122.674|US|Oregon|40|f
+Condon Butte|44.225|-121.840|US|Oregon|40|f
+Cone Island|55.245|-131.321|US|Alaska|40|f
+Cone Mountain|50.883|-115.469|CA|Alberta|40|f
+Conemaugh Dam|40.468|-79.366|US|Pennsylvania|40|f
+Conestoga Lake|40.766|-96.852|US|Nebraska|40|f
+Conestogo Lake|43.696|-80.731|CA|Ontario|40|f
+Coney Bay|47.600|-58.915|CA|Newfoundland and Labrador|40|f
+Coney Island|42.529|-70.837|US|Massachusetts|40|f
+Confederación Sudamericana de Fútbol|-25.261|-57.515|PY|Central Department|40|f
+Confederate Museum|32.781|-79.931|US|South Carolina|40|f
+Confederate Park|31.829|-86.623|US|Alabama|40|f
+Confederation Park|45.422|-75.692|CA|Ontario|40|f
+Conference House Park|40.497|-74.249|US|New York|40|f
+Confluence Park|39.755|-105.008|US|Colorado|40|f
+Confusion Bay|49.950|-55.748|CA|Newfoundland and Labrador|40|f
+Confusion Lake|43.939|-115.053|US|Idaho|40|f
+Conger Mountain|39.233|-113.701|US|Utah|40|f
+Conglomerate Bay|48.078|-88.585|US|Michigan|40|f
+Conglomerate Ridge|-79.750|-84.100|AQ||40|f
+Congress Center Hamburg|53.562|9.986|DE|Hamburg|40|f
+Conguillio National Park|-38.731|-71.714|CL|Araucania|40|f
+Coniston Hall|54.358|-3.072|GB|England|40|f
+Conjunto Arqueologico Baelo Claudia|36.090|-5.775|ES|Andalusia|40|f
+Conjunto Monumental de la Alcazaba de Almería|36.840|-2.471|ES|Andalusia|40|f
+Conkle Lake Park|49.166|-119.102|CA|British Columbia|40|f
+Conklin Island|42.023|-75.790|US|New York|40|f
+Conkouati-Douli National Park|-3.905|11.470|CG|Kouilou|40|f
+Connecticut Eastern Railroad Museum|41.716|-72.236|US|Connecticut|40|f
+Connecticut River Museum|41.350|-72.385|US|Connecticut|40|f
+Connecting Slough|35.164|-119.160|US|California|40|f
+Connell Canyon|-79.850|-83.017|AQ||40|f
+Connelly Range|56.250|-126.754|CA|British Columbia|40|f
+Conner Hill|36.696|-91.178|US|Missouri|40|f
+Conness Glacier|37.970|-119.318|US|California|40|f
+Conness Lakes|37.975|-119.306|US|California|40|f
+Connie Glacier|43.269|-109.693|US|Wyoming|40|f
+Connley Hills|43.258|-121.009|US|Oregon|40|f
+Connoire Bay|47.667|-57.915|CA|Newfoundland and Labrador|40|f
+Connors Lake|44.573|-98.168|US|South Dakota|40|f
+Conolly's Folly|53.369|-6.560|IE|Leinster|40|f
+Conrad Glacier|46.494|-121.406|US|Washington|40|f
+Conrow Glacier|-77.567|162.117|AQ||40|f
+Conscience Point National Wildlife Refuge|40.942|-72.421|US|New York|40|f
+Consinka Lake|48.945|-124.960|CA|British Columbia|40|f
+Consolidated Mine|34.536|-83.970|US|Georgia|40|f
+Consort Mountain|53.017|-118.336|CA|Alberta|40|f
+Constable Peak|58.350|-124.836|CA|British Columbia|40|f
+Constance Lake|49.017|-56.282|CA|Newfoundland and Labrador|40|f
+Constantine Bay|50.535|-5.027|GB|England|40|f
+Constitution Gardens|38.891|-77.044|US|District of Columbia|40|f
+Constitution Plaza|41.762|-72.681|US|Connecticut|40|f
+Constitution Square State Historic Site|37.645|-84.770|US|Kentucky|40|f
+Contemporary Jewish Museum|37.793|-122.393|US|California|40|f
+Contemporary Museum|39.296|-76.617|US|Maryland|40|f
+Continental Glacier|43.334|-109.691|US|Wyoming|40|f
+Contwoyto Lake|65.650|-110.717|CA|Nunavut|40|f
+Conventer See|54.140|11.884|DE|Mecklenburg-Vorpommern|40|f
+Converse Airport|40.575|-85.900|US|Indiana|40|f
+Converse Lake|41.133|-73.652|US|Connecticut|40|f
+Convict Lake|37.589|-118.858|US|California|40|f
+Conway Bridge|36.122|-83.125|US|Tennessee|40|f
+Conway Ice Ridge|-84.417|-140.000|AQ||40|f
+Conwy Suspension Bridge|53.280|-3.824|GB|Wales|40|f
+Cony Lake|44.062|-115.061|US|Idaho|40|f
 Contreras|42.020|-3.411|ES|Castille and León|40
 Conejos|37.088|-106.020|US|Colorado|35
 Congostrina|41.037|-2.986|ES|Castille-La Mancha|34
@@ -372,11 +655,17 @@ Concordia|10.258|-74.833|CO|Magdalena Department|0
 Concordia|-4.567|-74.783|PE|Loreto|0
 Condado|-6.910|-37.600|BR|Paraíba|0
 Condé|-10.845|14.676|AO|Kwanza Sul|0
+Condong|-7.198|108.157|ID|West Java|0
+Condong|-7.345|108.259|ID|West Java|0
+Condorcet|44.407|5.199|FR|Auvergne-Rhône-Alpes|0
 Condoroma|-15.300|-71.138|PE|Cuzco Department|0
 Conduriri|-16.622|-69.709|PE|Puno|0
 Conesa|41.517|1.300|ES|Catalonia|0
+Congkar|-8.280|120.409|ID|East Nusa Tenggara|0
+Conglin|29.870|107.347|CN|Chongqing|0
 Congtai|36.636|114.490|CN|Hebei|0
 Conocoto|-0.293|-78.476|EC|Pichincha|0
+Contong|-8.171|111.785|ID|East Java|0
 Contumazá|-7.366|-78.805|PE|Cajamarca Department|0
 Convención|8.469|-73.337|CO|Norte de Santander Department|0
 Convento|-0.277|-80.037|EC|Manabí|0

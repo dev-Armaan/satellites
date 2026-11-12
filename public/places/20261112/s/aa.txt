@@ -1,10 +1,11 @@
-Aargau|47.396|8.172|CH||113|r
+Aargau|47.396|8.172|CH||114|r
 Aachen|50.777|6.083|DE|North Rhine-Westphalia|108
 Aalborg|57.048|9.919|DK|North Denmark|103
 Aalst|50.936|4.035|BE|Flanders|98
 Aalen|48.838|10.093|DE|Baden-Wurttemberg|97
 Aarsâl|34.179|36.421|LB|Baalbek-Hermel Governorate|94
 Aarschot|50.987|4.837|BE|Flanders|89
+Aalborg Airport|57.093|9.849|DK|North Denmark|87|f
 Aarau|47.393|8.044|CH|Aargau|87
 Aalten|51.925|6.581|NL|Gelderland|86
 Aalter|51.090|3.447|BE|Flanders|85
@@ -14,9 +15,9 @@ Aartselaar|51.134|4.387|BE|Flanders|83
 Aalsmeer|52.259|4.760|NL|North Holland|83
 Aalanden|52.533|6.101|NL|Overijssel|83
 Aajaltoûn|33.965|35.683|LB|Mount Lebanon|80
+A'ana|-13.883|-171.967|WS||79|r
 Aars|56.804|9.514|DK|North Denmark|79
 Aadorf|47.492|8.901|CH|Thurgau|78
-A'ana|-13.883|-171.967|WS||78|r
 Aarburg|47.321|7.900|CH|Aargau|77
 Aaïtanît|33.561|35.670|LB|Bekaa|77
 Aamadi|20.771|81.490|IN|Chhattisgarh|76
@@ -27,18 +28,55 @@ Aartrijke|51.119|3.091|BE|Flanders|74
 Aarwangen|47.238|7.769|CH|Bern|72
 Aanislag|13.075|123.703|PH|Bicol Region|72
 Aarberg|47.044|7.276|CH|Bern|72
+Aach ed Djâjé|33.559|35.796|LB|Bekaa|70|f
 Aasiaat|68.709|-52.864|GL|Qeqertalik|70
 Aarsele|50.997|3.420|BE|Flanders|69
 Aalbeke|50.778|3.230|BE|Flanders|69
+Aachen-Merzbrück Airport|50.823|6.188|DE|North Rhine-Westphalia|69|f
+Aarhus Airport|56.302|10.626|DK|Central Jutland|69|f
 Aanjar|33.728|35.931|LB|Bekaa|68
+Aard el Borj|33.221|35.415|LB|Nabatieh|67|f
 Aach|47.842|8.854|DE|Baden-Wurttemberg|67
 Aaigem|50.889|3.937|BE|Flanders|66
 Aardenburg|51.273|3.447|NL|Zeeland|66
+A. A. Bere Tallo Airport|-9.075|124.905|ID|East Nusa Tenggara|65|f
+Aafrah|33.937|36.220|LB|Baalbek-Hermel Governorate|65|f
 Aalden|52.790|6.718|NL|Drenthe|64
 Aalst|51.782|5.128|NL|Gelderland|64
+Aantesjaevrie|64.284|12.902|NO|Trøndelag|63|f
+Aarid Maql Saab|34.491|36.276|LB|Akkar|63|f
+Aavatsmarkbreen|78.704|12.120|SJ|Svalbard|63|f
 Aagtekerke|51.547|3.510|NL|Zeeland|62
 Aach|49.783|6.600|DE|Rheinland-Pfalz|61
+Åanghkejaevrie|65.510|14.184|NO|Nordland|61|f
 Aalma ech Chaab|33.105|35.182|LB|South Governorate|61
 Aats’i|43.136|40.732|GE|Abkhazia|61
 Aar|24.508|73.577|IN|Rajasthan|60
+Aalterbrug|51.109|3.434|BE|Flanders|60
+Aagaard Glacier|-66.733|-64.483|AQ||58|f
+Aagaard Islands|-65.850|53.667|AQ||58|f
+Aagaardtoppen|77.991|13.852|SJ|Svalbard|58|f
+Aahkanjaevrie|65.748|13.856|NO|Nordland|58|f
+Aareschlucht|46.718|8.214|CH|Bern|58|f
+Aars Airport|56.847|9.464|DK|North Denmark|58|f
+Aasiaat Airport|68.721|-52.789|GL|Qeqertalik|58|f
+Aalst|50.782|5.209|BE|Flanders|57
+Ääsmäe|59.240|24.516|EE|Harjumaa|56
+Aaronsburg|40.900|-77.453|US|Pennsylvania|56
+Aalsmeerderbrug|52.274|4.750|NL|North Holland|54
+Aagtdorp|52.690|4.704|NL|North Holland|54
+Aagaardfjellet|78.403|18.623|SJ|Svalbard|54|f
+Aakkarnersuaq|73.367|-55.417|GL|Avannaata|54|f
+Aalisjärvi|67.011|24.534|FI|Lapland|54|f
+Aasee|51.953|7.608|DE|North Rhine-Westphalia|54|f
+Aalikam Tangii|52.190|-174.165|US|Alaska|49|f
+Aalshorst|52.485|6.249|NL|Overijssel|49|f
+Aaron, Mount|-74.514|-64.872|AQ||49|f
+Aalkistensee|48.994|8.760|DE|Baden-Wurttemberg|40|f
+Aaron Arm|47.617|-57.632|CA|Newfoundland and Labrador|40|f
+Aaron Glacier|-85.133|-90.667|AQ||40|f
+Aaron Island|47.600|-57.648|CA|Newfoundland and Labrador|40|f
+Aaron Island|58.437|-134.823|US|Alaska|40|f
+Aaron Provincial Park|49.758|-92.659|CA|Ontario|40|f
+Aasbüttel|54.067|9.442|DE|Schleswig-Holstein|39
 Aas|63.050|11.650|NO|Trøndelag|0

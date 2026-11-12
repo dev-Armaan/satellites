@@ -7,6 +7,7 @@ Wenling|28.375|121.384|CN|Zhejiang|97
 Wenshang|35.727|116.496|CN|Shandong|95
 Wendo|6.600|38.417|ET|Sidama Region|95
 Wenxing|28.682|112.879|CN|Hunan|95
+Wenceslas Square|50.081|14.428|CZ|Prague|94|f
 Wenquan|31.359|108.522|CN|Chongqing|92
 Wentzville|38.811|-90.853|US|Missouri|91
 Wenatchee|47.423|-120.310|US|Washington|91
@@ -34,15 +35,20 @@ Wendeburg|52.330|10.393|DE|Lower Saxony|80
 Wenzenbach|49.076|12.200|DE|Bavaria|78
 Wendover|51.762|-0.740|GB|England|78
 Wenfu|29.279|107.952|CN|Chongqing|77
+Weno Island|7.440|151.882|FM|Chuuk|76|f
 Wendell|35.781|-78.370|US|North Carolina|76
 Wenshui|28.451|106.527|CN|Guizhou|75
 Wenden|50.967|7.867|DE|North Rhine-Westphalia|74
 Wenham|42.604|-70.891|US|Massachusetts|73
+Wendelstein|47.703|12.012|DE|Bavaria|72|f
 Wenden|52.324|10.514|DE|Lower Saxony|72
 Wenduine|51.298|3.082|BE|Flanders|72
 Wentworth|36.400|-79.774|US|North Carolina|69
 Wendell|42.776|-114.704|US|Idaho|69
+Wenshan Puzhehei Airport|23.556|104.325|CN|Yunnan|69|f
 Wenceslau Braz|-22.535|-45.362|BR|Minas Gerais|67
+Wenatchee Mountains|47.425|-120.833|US|Washington|67|f
+Wenzhou Yongqiang International Airport|27.912|120.852|CN|Zhejiang|67|f
 Wenonah|39.795|-75.149|US|New Jersey|67
 Wendake|46.861|-71.357|CA|Quebec|67
 Wenns|47.167|10.733|AT|Tyrol|66
@@ -58,22 +64,117 @@ Wendover|45.573|-75.128|CA|Ontario|62
 Wenzendorf|53.349|9.772|DE|Lower Saxony|62
 Wenvoe|51.448|-3.264|GB|Wales|61
 Wendtorf|54.412|10.290|DE|Schleswig-Holstein|61
+Wenham Lake|42.592|-70.893|US|Massachusetts|61|f
 Wendorf|54.255|13.077|DE|Mecklenburg-Vorpommern|61
 Wendell|42.548|-72.397|US|Massachusetts|60
+Wenona|41.053|-89.050|US|Illinois|60
+Wengelsdorf|51.281|12.042|DE|Saxony-Anhalt|60
+Wentworth|43.872|-71.914|US|New Hampshire|59
+Wensin|53.983|10.417|DE|Schleswig-Holstein|58
+Wenden|33.823|-113.542|US|Arizona|57
+Wentorf|53.677|10.475|DE|Schleswig-Holstein|57
 Weng im Innkreis|48.235|13.178|AT|Upper Austria|56
+Wenzlow|52.300|12.450|DE|Brandenburg|56
+Wenze|52.564|11.134|DE|Saxony-Anhalt|56
+Wendisch Baggendorf|54.074|12.943|DE|Mecklenburg-Vorpommern|55
+Wengi|47.084|7.399|CH|Bern|55
+Wentzwiller|47.551|7.479|FR|Grand Est|55
+Weng im Gesäuse|47.602|14.504|AT|Styria|55
+Wendover Airport|40.728|-114.038|US|Utah|54|f
+Wennersgaard Point|-63.847|-59.938|AQ||54|f
 Wendling|48.232|13.666|AT|Upper Austria|51
 Wentworth|53.478|-1.415|GB|England|51
+Wendar Island|-43.409|145.931|AU|Tasmania|49|f
+Wendsee|52.399|12.398|DE|Brandenburg|49|f
+Wengen Jungfrau|46.540|7.963|CH|Bern|49|f
+Wentworth Airport|-34.087|141.897|AU|New South Wales|49|f
+Wentworth Park|-33.877|151.193|AU|New South Wales|49|f
+Wentworth Park|-42.870|147.390|AU|Tasmania|49|f
+Wenberg State Park|48.137|-122.286|US|Washington|40|f
+WENC-AM (Whiteville)|34.309|-78.716|US|North Carolina|40|f
+Wendell H Ford Airport|37.388|-83.263|US|Kentucky|40|f
+Wendenhorn|46.754|8.444|CH|Uri|40|f
+Wendenstöcke|46.762|8.380|CH|Bern|40|f
+Wendland, Mount|-84.700|-175.300|AQ||40|f
+Wendt Beach Park|42.676|-79.052|US|New York|40|f
+Wendy Park|34.164|-118.942|US|California|40|f
+WENE-AM (Endicott)|42.082|-76.031|US|New York|40|f
+Wenghorn|46.178|8.050|CH|Valais|40|f
+Wenkchemna Peak|51.329|-116.278|CA|Alberta|40|f
+Wenonah Park|43.605|-83.869|US|Michigan|40|f
+Wenvoe Transmitting Station|51.459|-3.282|GB|Wales|40|f
+Wennbüttel|54.133|9.333|DE|Schleswig-Holstein|38
 Wen’an|38.865|116.455|CN|Hebei|0
+Wen’an|30.524|111.823|CN|Hubei|0
+Wenbei|26.943|115.114|CN|Jiangxi|0
 Wenbi|39.387|111.191|CN|Shanxi|0
+Wenchang|30.904|118.489|CN|Anhui|0
 Wenchang|31.636|105.155|CN|Sichuan|0
+Wenchang|29.782|119.201|CN|Zhejiang|0
+Wencheng|33.056|113.798|CN|Henan|0
+Wenchun|44.430|129.487|CN|Heilongjiang|0
+Wenci|23.770|116.672|CN|Guangdong|0
+Wencun|21.863|112.495|CN|Guangdong|0
+Wende|38.576|114.748|CN|Henan|0
+Wendengying|37.213|122.100|CN|Shandong|0
+Wendou|29.891|108.591|CN|Hubei|0
 Wendron|50.133|-5.250|GB|England|0
+Wenfang|28.039|117.339|CN|Jiangxi|0
 Wenfeng|27.199|115.120|CN|Jiangxi|0
+Wenfeng|33.447|113.575|CN|Henan|0
+Wenfeng|24.965|115.634|CN|Jiangxi|0
 Wenfeng|36.090|114.359|CN|Henan|0
+Wenfeng Zhen|34.952|104.698|CN|Gansu|0
+Wenfenglu|37.126|119.928|CN|Shandong|0
+Wenfu|24.746|116.195|CN|Guangdong|0
+Wengaingo|-9.733|119.346|ID|East Nusa Tenggara|0
+Wengang|28.287|116.109|CN|Jiangxi|0
+Wengcheng|24.376|113.827|CN|Guangdong|0
+Wengshan|27.569|119.973|CN|Zhejiang|0
+Wengtian|19.933|110.873|CN|Hainan|0
+Wengyang|28.029|120.966|CN|Zhejiang|0
 Wenhe|32.395|119.427|CN|Jiangsu|0
 Wenhua|37.391|121.590|CN|Shandong|0
+Wenji|31.159|112.529|CN|Hubei|0
+Wenjia|29.381|111.545|CN|Hunan|0
+Wenjiang|25.990|117.867|CN|Fujian|0
+Wenjiangsi|33.812|106.539|CN|Shaanxi|0
+Wenjiao|19.670|110.907|CN|Hainan|0
+Wenjiapo|34.693|107.135|CN|Shaanxi|0
+Wenkutu|49.446|122.484|CN|Inner Mongolia|0
 Wenlan|23.360|103.437|CN|Yunnan|0
+Wenlang|23.984|112.282|CN|Guangdong|0
 Wenlin|29.998|104.140|CN|Sichuan|0
+Wenling|25.997|119.650|CN|Fujian|0
+Wenlong|24.767|114.899|CN|Jiangxi|0
+Wenlou|22.094|110.422|CN|Guangdong|0
+Wenluo|18.518|109.953|CN|Hainan|0
+Wenping|28.314|108.217|CN|Guizhou|0
 Wenping|27.193|103.527|CN|Yunnan|0
+Wenqiao|29.661|116.299|CN|Jiangxi|0
+Wenquan|35.217|99.663|CN|Qinghai|0
 Wenquan|34.941|113.072|CN|Henan|0
+Wenquan|33.133|106.744|CN|Shaanxi|0
 Wenquan|30.849|115.699|CN|Hubei|0
+Wenquan|29.416|115.890|CN|Jiangxi|0
+Wenquan|28.202|107.345|CN|Guizhou|0
+Wenquan|23.649|113.650|CN|Guangdong|0
 Wenquan|22.325|110.256|CN|Guangxi|0
+Wenquan|40.042|116.191|CN|Beijing|0
+Wenquan|28.537|114.349|CN|Jiangxi|0
+Wenquan|26.100|119.303|CN|Fujian|0
+Wenquan|37.376|122.164|CN|Shandong|0
+Wenquan|27.964|116.254|CN|Jiangxi|0
+Wenshan|29.131|118.349|CN|Zhejiang|0
+Wenshao|25.140|113.884|CN|Guangdong|0
+Wenshu|39.694|98.372|CN|Gansu|0
+Wentai|36.365|107.907|CN|Gansu|0
+Wentang|29.170|110.204|CN|Hunan|0
+Wentang|27.693|114.286|CN|Jiangxi|0
+Wentugaole|41.426|102.116|CN|Inner Mongolia|0
+Wentworth|52.385|0.175|GB|England|0
+Wenwuba|25.603|115.796|CN|Jiangxi|0
+Wenwucao|30.921|118.110|CN|Anhui|0
+Wenwusha|25.899|119.575|CN|Fujian|0
+Wenxi|28.159|120.386|CN|Zhejiang|0
+Wenyan|30.127|120.171|CN|Zhejiang|0

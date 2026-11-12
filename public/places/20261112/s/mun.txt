@@ -1,5 +1,5 @@
 Munich|48.137|11.575|DE|Bavaria|124
-Munster|52.343|-8.717|IE||118|r
+Munster|52.343|-8.717|IE||119|r
 Muntinlupa|14.390|121.047|PH|Calabarzon|115
 Münster|51.962|7.626|DE|North Rhine-Westphalia|110
 Munger|25.375|86.475|IN|Bihar|107
@@ -13,10 +13,12 @@ Munnar|10.088|77.062|IN|Kerala|97
 Muncar|-8.433|114.333|ID|East Java|96
 Mūndka|28.680|77.030|IN|Delhi|95
 Munsan|37.859|126.785|KR|Gyeonggi-do|93
+Munich International Airport|48.354|11.786|DE|Bavaria|91|f
 Mungeli|22.066|81.685|IN|Chhattisgarh|91
 Municipality of Monaco|43.732|7.420|MC||90|r
 Mundelein|42.263|-88.004|US|Illinois|90
 Mundo Novo|-11.859|-40.472|BR|Bahia|89
+Municipality of Domžale|46.143|14.623|SI||89|r
 Muñiz|-34.556|-58.707|AR|Buenos Aires|89
 Muntok|-2.067|105.162|ID|Bangka–Belitung Islands|89
 Mungaoli|24.408|78.096|IN|Madhya Pradesh|88
@@ -26,188 +28,230 @@ Munsha‘at Abū ‘Umar|30.907|32.023|EG|Sharqia|87
 Munderi|11.930|75.445|IN|Kerala|87
 Mungo|-11.833|16.236|AO|Huambo|87
 Mundra|22.839|69.722|IN|Gujarat|86
-Municipality of Domžale|46.143|14.623|SI||86|r
+Municipality of Kamnik|46.244|14.667|SI||86|r
 Municipality of Jesenice|46.453|14.072|SI||86|r
 Mundgod|14.971|75.037|IN|Karnataka|86
 Muniz Freire|-20.464|-41.413|BR|Espírito Santo|85
-Municipality of Kamnik|46.244|14.667|SI||85|r
 Munster|52.985|10.090|DE|Lower Saxony|85
 Mūndwa|27.063|73.823|IN|Rajasthan|85
 Munkkiniemi|60.199|24.878|FI|Uusimaa|85
 Munder Buiten|5.841|-55.182|SR|Paramaribo District|85
+Municipality of Piran|45.483|13.627|SI||84|r
 Mungaa|-4.967|34.883|TZ|Singida|84
+Municipality of Žalec|46.255|15.173|SI||84|r
 Mungia|43.355|-2.845|ES|Basque Country|84
 Municipality of Trbovlje|46.142|15.042|SI||84|r
-Münsingen|48.411|9.497|DE|Baden-Wurttemberg|83
-Municipality of Piran|45.483|13.627|SI||83|r
-Münster|49.923|8.868|DE|Hesse|83
 Municipality of Izola|45.511|13.657|SI||83|r
+Münsingen|48.411|9.497|DE|Baden-Wurttemberg|83
+Municipality of Slovenska Bistrica|46.425|15.507|SI||83|r
+Münster|49.923|8.868|DE|Hesse|83
+Municipality of Vrhnika|45.961|14.293|SI||83|r
 Mundi|22.067|76.493|IN|Madhya Pradesh|82
 Mungwi|-10.173|31.369|ZM|Northern Province|82
 Mundāli|28.870|77.827|IN|Uttar Pradesh|82
 Mundemba|4.948|8.872|CM|South-West|82
+Municipality of Grosuplje|45.936|14.665|SI||81|r
 Münchenstein|47.518|7.610|CH|Basel-Landschaft|81
 Münchberg|50.190|11.788|DE|Bavaria|81
 Muna|20.488|-89.714|MX|Yucatán|81
 Municipio Hato Corozal|6.157|-71.764|CO|Casanare Department|81
 Munhall|40.392|-79.900|US|Pennsylvania|81
+Municipality of Postojna|45.786|14.171|SI||81|r
+Municipality of Šentilj|46.688|15.717|SI||81|r
 Münsingen|46.873|7.561|CH|Bern|81
-Municipality of Vrhnika|45.961|14.293|SI||80|r
-Municipality of Slovenska Bistrica|46.425|15.507|SI||80|r
+Municipality of Tržič|46.384|14.324|SI||81|r
+Municipality of Kočevje|45.630|14.907|SI||80|r
+Municipality of Brezovica|45.949|14.424|SI||80|r
+Municipality of Medvode|46.130|14.403|SI||80|r
+Municipality of Hoče–Slivnica|46.491|15.624|SI||80|r
 Münchenbuchsee|47.022|7.450|CH|Bern|80
 Munteni|45.933|27.433|RO|Galați County|80
-Municipality of Postojna|45.786|14.171|SI||80|r
-Municipality of Šentilj|46.688|15.717|SI||80|r
 Municipality of Zagorje ob Savi|46.130|14.966|SI||80|r
-Municipality of Žalec|46.255|15.173|SI||79|r
+Municipality of Brežice|45.929|15.628|SI||79|r
+Municipality of Ravne na Koroškem|46.532|14.975|SI||79|r
+Municipality of Ajdovščina|45.907|13.929|SI||79|r
 Mununga|-9.049|29.043|ZM|Luapula Province|79
 Munnūru|12.862|75.019|IN|Karnataka|79
+Municipality of Idrija|46.000|14.000|SI||79|r
 Munirābād|15.309|76.338|IN|Karnataka|79
-Municipality of Grosuplje|45.936|14.665|SI||79|r
+Municipality of Mengeš|46.161|14.562|SI||79|r
 Mundo Nuevo|18.088|-94.389|MX|Veracruz|79
-Municipality of Kočevje|45.630|14.907|SI||78|r
-Municipality of Ravne na Koroškem|46.532|14.975|SI||78|r
+Municipality of Beltinci|46.615|16.232|SI||78|r
+Municipality of Bled|46.368|14.110|SI||78|r
+Municipality of Sežana|45.735|13.886|SI||78|r
 Münnerstadt|50.246|10.202|DE|Bavaria|78
-Municipality of Ajdovščina|45.907|13.929|SI||78|r
+Municipality of Slovenske Konjice|46.325|15.456|SI||78|r
+Municipality of Šoštanj|46.413|15.008|SI||78|r
 Mundathikōd|10.645|76.195|IN|Kerala|78
-Municipality of Mengeš|46.161|14.562|SI||78|r
-Municipality of Idrija|46.000|14.000|SI||77|r
 Munhoz|-22.613|-46.361|BR|Minas Gerais|77
+Municipality of Šenčur|46.238|14.423|SI||77|r
 Municipality of Šempeter–Vrtojba|45.912|13.652|SI||77|r
-Municipality of Brezovica|45.949|14.424|SI||77|r
+Municipality of Lendava|46.557|16.457|SI||77|r
+Municipality of Cerknica|45.800|14.367|SI||77|r
 Müncheberg|52.507|14.137|DE|Brandenburg|77
 Muniz Ferreira|-13.003|-39.110|BR|Bahia|77
 Municipality of Hrastnik|46.133|15.100|SI||77|r
-Municipality of Hoče–Slivnica|46.491|15.624|SI||77|r
-Municipality of Brežice|45.929|15.628|SI||77|r
-Municipality of Tržič|46.384|14.324|SI||76|r
-Municipality of Medvode|46.130|14.403|SI||76|r
+Municipality of Škofljica|45.958|14.577|SI||77|r
+Municipality of Črnomelj|45.524|15.198|SI||76|r
 Municipality of Litija|46.074|14.907|SI||76|r
+Municipality of Ruše|46.518|15.490|SI||76|r
 Munduk|-8.269|115.079|ID|Bali|76
-Municipality of Bled|46.368|14.110|SI||76|r
 Mundo Novo|-13.776|-50.281|BR|Goiás|76
-Municipality of Cerknica|45.800|14.367|SI||76|r
 Munford|35.449|-89.815|US|Tennessee|76
-Municipality of Sežana|45.735|13.886|SI||76|r
-Municipality of Ruše|46.518|15.490|SI||75|r
+Municipality of Sevnica|46.000|15.300|SI||76|r
 Mundybash|53.211|87.298|RU|Kuzbass|75
+Municipality of Ilirska Bistrica|45.568|14.291|SI||75|r
 Münchwilen|47.477|8.997|CH|Thurgau|75
 Münzenberg|50.453|8.774|DE|Hesse|75
 Mundolsheim|48.642|7.714|FR|Grand Est|75
 Munkebo|55.456|10.554|DK|South Denmark|75
-Municipality of Črnomelj|45.524|15.198|SI||75|r
-Municipality of Šoštanj|46.413|15.008|SI||74|r
+Municipality of Duplek|46.516|15.770|SI||75|r
+Municipality of Dravograd|46.583|15.033|SI||75|r
+Municipality of Miklavž na Dravskem Polju|46.486|15.710|SI||74|r
+Municipality of Prevalje|46.552|14.901|SI||74|r
+Municipality of Naklo|46.294|14.287|SI||74|r
 Münstertal/Schwarzwald|47.855|7.784|DE|Baden-Wurttemberg|74
 Muñoz East|17.158|121.614|PH|Cagayan Valley|74
 Munster|48.040|7.139|FR|Grand Est|74
 Munderkingen|48.236|9.644|DE|Baden-Wurttemberg|74
 Municipality of Rogaška Slatina|46.247|15.629|SI||74|r
 Munroe Falls|41.145|-81.440|US|Ohio|74
-Municipality of Slovenske Konjice|46.325|15.456|SI||74|r
+Municipality of Ivančna Gorica|45.912|14.807|SI||74|r
+Municipality of Polzela|46.304|15.085|SI||74|r
+Municipality of Laško|46.136|15.253|SI||74|r
+Municipality of Tolmin|46.179|13.712|SI||74|r
 Municipality of Rače–Fram|46.452|15.633|SI||74|r
-Municipality of Sevnica|46.000|15.300|SI||73|r
-Municipality of Škofljica|45.958|14.577|SI||73|r
-Municipality of Prevalje|46.552|14.901|SI||73|r
+Munţii Retezatului|45.417|23.000|RO||73|f
 Mungo|17.724|121.471|PH|Cagayan Valley|73
 Munstergeleen|50.975|5.864|NL|Limburg|73
-Municipality of Ilirska Bistrica|45.568|14.291|SI||73|r
-Municipality of Beltinci|46.615|16.232|SI||73|r
+Municipality of Kranjska Gora|46.460|13.839|SI||73|r
 Munsterbilzen|50.889|5.526|BE|Flanders|73
+Municipality of Lenart|46.558|15.814|SI||73|r
+Municipality of Ribnica|45.737|14.716|SI||73|r
 Mundamarai|19.639|84.601|IN|Odisha|73
-Municipality of Šenčur|46.238|14.423|SI||72|r
+Munsubong|36.850|128.213|KR|North Chungcheong|72|f
 Munayshy|43.500|52.097|KZ|Mangystau|72
 Münsing|47.900|11.367|DE|Bavaria|72
+Municipality of Renče–Vogrsko|45.894|13.676|SI||72|r
 Munera|39.042|-2.481|ES|Castille-La Mancha|72
+Municipality of Gornja Radgona|46.635|15.959|SI||72|r
 Munhoz de Melo|-23.148|-51.774|BR|Paraná|72
 Municipality of Trzin|46.125|14.553|SI||72|r
 Munkedal|58.466|11.673|SE|Västra Götaland|72
-Municipality of Miklavž na Dravskem Polju|46.486|15.710|SI||72|r
 Munshāt ‘Alī Āghā|31.158|30.702|EG|Kafr el-Sheikh|72
 Muntenii de Jos|46.617|27.767|RO|Vaslui County|72
 Munteni Buzău|44.633|26.983|RO|Ialomița County|72
+Municipality of Železniki|46.212|14.106|SI||71|r
+Municipality of Črenšovci|46.557|16.299|SI||71|r
 Municipality of Preddvor|46.327|14.464|SI||71|r
-Municipality of Ribnica|45.737|14.716|SI||71|r
+Münster Osnabrück International Airport|52.135|7.685|DE|North Rhine-Westphalia|71|f
 Münchhausen|50.961|8.718|DE|Hesse|71
+Municipality of Radlje ob Dravi|46.607|15.251|SI||71|r
 Municipality of Žiri|46.052|14.116|SI||71|r
 Muntele Mic|45.383|22.333|RO|Caraș-Severin County|71
-Municipality of Tolmin|46.179|13.712|SI||71|r
-Municipality of Duplek|46.516|15.770|SI||71|r
-Municipality of Laško|46.136|15.253|SI||71|r
 Münchenbernsdorf|50.821|11.932|DE|Thuringia|71
 Münstermaifeld|50.246|7.362|DE|Rheinland-Pfalz|71
+Municipality of Žirovnica|46.412|14.176|SI||71|r
+Municipality of Turnišče|46.622|16.318|SI||71|r
+Municipality of Kidričevo|46.399|15.757|SI||71|r
 Münster|47.422|11.834|AT|Tyrol|70
-Municipality of Dravograd|46.583|15.033|SI||70|r
-Municipality of Lenart|46.558|15.814|SI||70|r
 Municipality of Ankaran|45.583|13.733|SI||70|r
+Municipality of Ormož|46.436|16.141|SI||70|r
 Municipality of Mežica|46.523|14.855|SI||70|r
-Municipality of Ivančna Gorica|45.912|14.807|SI||70|r
 Municipality of Metlika|45.656|15.311|SI||70|r
 Mundelsheim|49.001|9.208|DE|Baden-Wurttemberg|70
-Municipality of Gornja Radgona|46.635|15.959|SI||70|r
+Mundal Lake|7.801|79.807|LK|North Western Province|70|f
+Municipal Gymnasium|25.051|121.550|TW|Taiwan|70|f
+Munţii Hăşmaş|46.667|25.833|RO||70|f
 Munka-Ljungby|56.250|12.967|SE|Skåne|70
 Munda|-8.328|157.267|SB|Western Province|70
-Municipality of Lendava|46.557|16.457|SI||70|r
-Municipality of Železniki|46.212|14.106|SI||70|r
 Münchweiler an der Rodalb|49.218|7.703|DE|Rheinland-Pfalz|70
 Münchendorf|48.033|16.383|AT|Lower Austria|70
 Münster-Sarmsheim|49.943|7.894|DE|Rheinland-Pfalz|69
 Münchsmünster|48.767|11.683|DE|Bavaria|69
 Municipality of Zreče|46.394|15.380|SI||69|r
+Municipality of Muta|46.631|15.136|SI||69|r
 Munkfors|59.839|13.544|SE|Värmland|69
-Municipality of Radlje ob Dravi|46.607|15.251|SI||69|r
 Mundesley|52.878|1.430|GB|England|69
+Municipality of Kungota|46.649|15.610|SI||69|r
 Munsons Corners|42.582|-76.209|US|New York|69
 Munsey Park|40.799|-73.680|US|New York|69
+Muncaster Castle|54.355|-3.381|GB|England|69|f
+München-Schwabing Concentration Camp (Schwester Pia)|48.165|11.586|DE|Bavaria|69|f
+Munot|47.697|8.640|CH|Schaffhausen|69|f
+Municipality of Poljčane|46.303|15.598|SI||68|r
 Municipality of Miren–Kostanjevica|45.851|13.639|SI||68|r
-Municipality of Kranjska Gora|46.460|13.839|SI||68|r
 Municipality of Kanal ob Soči|46.090|13.643|SI||68|r
 Munitepec de Madero|20.129|-99.199|MX|Hidalgo|68
+Municipality of Videm|46.364|15.881|SI||68|r
 Münsterlingen|47.632|9.233|CH|Thurgau|68
 Muncy|41.206|-76.786|US|Pennsylvania|68
-Municipality of Renče–Vogrsko|45.894|13.676|SI||68|r
+Municipality of Cerklje na Gorenjskem|46.250|14.500|SI||68|r
 Municipality of Črna na Koroškem|46.464|14.821|SI||68|r
-Municipality of Polzela|46.304|15.085|SI||67|r
-Municipality of Muta|46.631|15.136|SI||67|r
+Municipality of Mislinja|46.451|15.224|SI||67|r
+Municipality of Bohinj|46.295|13.924|SI||67|r
+Municipality of Markovci|46.392|15.951|SI||67|r
+Municipality of Vipava|45.824|13.984|SI||67|r
+Municipality of Gornji Grad|46.289|14.801|SI||67|r
 Municipality of Vojnik|46.317|15.313|SI||67|r
 Munising|46.411|-86.649|US|Michigan|67
+Mundaú Lagoon|-9.626|-35.778|BR|Alagoas|67|f
 Municipality of Ig|45.936|14.514|SI||67|r
 Municipality of Štore|46.201|15.327|SI||67|r
 Muncelu de Sus|47.124|26.735|RO|Iași County|67
 Municipality of Radenci|46.627|16.048|SI||67|r
-Municipality of Ormož|46.436|16.141|SI||67|r
 Municipality of Radeče|46.066|15.141|SI||67|r
 Municipality of Borovnica|45.914|14.379|SI||67|r
 Munai|7.976|124.064|PH|Northern Mindanao|66
+Municipality of Starše|46.455|15.755|SI||66|r
 Munkzwalm|50.877|3.735|BE|Flanders|66
 Münsterhausen|48.310|10.455|DE|Bavaria|66
 Municipality of Mozirje|46.361|14.958|SI||66|r
+Municipality of Loška Dolina|45.666|14.504|SI||66|r
 Muñoz|19.475|-98.210|MX|Tlaxcala|66
 Municipality of Semič|45.651|15.135|SI||66|r
+Municipality of Gorišnica|46.405|16.012|SI||66|r
 Municipality of Straža|45.777|15.089|SI||66|r
+Municipality of Selnica ob Dravi|46.582|15.495|SI||66|r
 Municipality of Lovrenc na Pohorju|46.523|15.385|SI||66|r
+Municipality of Divača|45.684|14.023|SI||66|r
 Münsterdorf|53.902|9.541|DE|Schleswig-Holstein|66
+Municipality of Braslovče|46.278|15.037|SI||66|r
 Mundaka|43.408|-2.699|ES|Basque Country|66
 Münzkirchen|48.483|13.567|AT|Upper Austria|65
-Municipality of Mislinja|46.451|15.224|SI||65|r
+Mundulkiri Airport|12.463|107.187|KH|Mondolkiri|65|f
+Munsu-bong|37.094|128.940|KR|Gangwon-do|65|f
+Munţii Călimanului|47.117|25.050|RO||65|f
+Munţii Cindrel|45.581|23.789|RO|Sibiu County|65|f
+Muntii Mehedinţi|45.000|22.583|RO||65|f
+Munţii Metaliferi|46.300|22.833|RO||65|f
 Mundford|52.509|0.650|GB|England|65
+Municipality of Horjul|46.025|14.285|SI||65|r
 Munningen|48.917|10.600|DE|Bavaria|65
-Municipality of Vipava|45.824|13.984|SI||65|r
-Municipality of Bohinj|46.295|13.924|SI||65|r
+Municipality of Moravske Toplice|46.718|16.274|SI||65|r
 Municipality of Šmarje pri Jelšah|46.211|15.525|SI||65|r
-Municipality of Naklo|46.294|14.287|SI||65|r
-Municipality of Cerklje na Gorenjskem|46.250|14.500|SI||65|r
 Munxar|36.030|14.235|MT|Il-Munxar|65
+Municipality of Moravče|46.134|14.755|SI||65|r
+Municipality of Šmarješke Toplice|45.883|15.245|SI||65|r
 Mundys Corner|40.445|-78.841|US|Pennsylvania|64
 Municipality of Odranci|46.587|16.273|SI||64|r
 Munfordville|37.272|-85.891|US|Kentucky|64
 Municipality of Bovec|46.336|13.556|SI||64|r
 Muntlix|47.283|9.659|AT|Vorarlberg|64
+Municipality of Tišina|46.660|16.081|SI||64|r
 Municipality of Cerkno|46.125|13.973|SI||64|r
 Municipality of Vodice|46.174|14.492|SI||64|r
 Municipality of Vuzenica|46.569|15.152|SI||64|r
 Municipality of Rogatec|46.242|15.741|SI||64|r
-Municipality of Turnišče|46.622|16.318|SI||64|r
+Municipality of Dobrova–Polhov Gradec|46.063|14.309|SI||64|r
+Municipality of Središče ob Dravi|46.400|16.254|SI||64|r
 Munchhouse|47.869|7.452|FR|Grand Est|63
+Muna Island|-4.872|122.603|ID|Southeast Sulawesi|63|f
+Muncho Lake/Mile 462 Water Aerodrome|59.009|-125.774|CA|British Columbia|63|f
+Mundo Maya Airport|16.914|-89.866|GT|Petén|63|f
+Munkács Ghetto|48.450|22.717|UA|Zakarpattia|63|f
+Muñoz Point|-64.831|-62.896|AQ||63|f
+Munsusan|36.981|128.812|KR|Gyeongsangbuk-do|63|f
 Münchsteinach|49.639|10.595|DE|Bavaria|63
 Municipality of Šmartno pri Litiji|46.026|14.843|SI||63|r
 Municipality of Šentjernej|45.824|15.334|SI||63|r
@@ -216,69 +260,92 @@ Munderfing|48.070|13.182|AT|Upper Austria|63
 Municipality of Mirna|45.955|15.063|SI||63|r
 Muncurlu|40.816|31.258|TR|Düzce|63
 Muniz|26.256|-98.089|US|Texas|63
-Municipality of Divača|45.684|14.023|SI||63|r
 Municipality of Oplotnica|46.379|15.452|SI||63|r
-Municipality of Selnica ob Dravi|46.582|15.495|SI||63|r
 Mundubbera|-25.593|151.302|AU|Queensland|63
 Munday|33.449|-99.623|US|Texas|63
+Municipality of Apače|46.694|15.874|SI||63|r
+Municipality of Hrpelje–Kozina|45.573|14.005|SI||63|r
 Müntschemier|46.995|7.146|CH|Bern|62
-Municipality of Horjul|46.025|14.285|SI||62|r
 Munteni|47.315|27.138|RO|Iași County|62
 Municipality of Dornava|46.445|15.990|SI||62|r
 Münchweiler an der Alsenz|49.550|7.883|DE|Rheinland-Pfalz|62
 Munford|33.530|-85.951|US|Alabama|62
-Municipality of Kidričevo|46.399|15.757|SI||62|r
 Municipality of Gorenja Vas–Poljane|46.117|14.126|SI||62|r
-Municipality of Črenšovci|46.557|16.299|SI||61|r
-Municipality of Poljčane|46.303|15.598|SI||61|r
 Munster|45.165|-75.940|CA|Ontario|61
 Municipality of Kobarid|46.225|13.644|SI||61|r
+Municipality of Križevci|46.566|16.118|SI||61|r
+Mundah|35.673|67.378|AF|Samangan|61|f
+Municipal de Linares Airport|-35.862|-71.549|CL|Maule Region|61|f
+Municipal Museum of the City of Baltimore|39.291|-76.609|US|Maryland|61|f
+Muñoz Gamero Peninsula|-52.400|-73.078|CL|Region of Magallanes|61|f
+Munţii Harghita|46.517|25.550|RO||61|f
+Munţii Tarcăului|46.750|26.333|RO||61|f
+Munţii Vrancei|46.000|26.500|RO||61|f
 Municipality of Ljubno|46.374|14.839|SI||61|r
 Münster|48.229|10.636|DE|Bavaria|61
 Munkbrarup|54.803|9.565|DE|Schleswig-Holstein|61
 Municipality of Žužemberk|45.805|14.950|SI||60|r
-Municipality of Gornji Grad|46.289|14.801|SI||60|r
 Münzbach|48.267|14.710|AT|Upper Austria|60
+Muncelu|45.952|27.031|RO|Vrancea|60
 Municipality of Mirna Peč|45.853|15.084|SI||60|r
-Municipality of Središče ob Dravi|46.400|16.254|SI||60|r
 Municipality of Dobrovnik|46.651|16.352|SI||60|r
-Municipality of Moravče|46.134|14.755|SI||60|r
+Muntzenheim|48.101|7.476|FR|Grand Est|60
 Municipality of Benedikt|46.617|15.889|SI||60|r
-Municipality of Dobrova–Polhov Gradec|46.063|14.309|SI||59|r
+Municipality of Sveti Jurij v Slovenskih Goricah|46.613|15.793|SI||60|r
 Municipality of Veržej|46.582|16.171|SI||59|r
+Municipality of Šentrupert|45.983|15.090|SI||59|r
 Municipality of Nazarje|46.282|14.909|SI||59|r
 Municipality of Velika Polana|46.579|16.357|SI||59|r
 Municipality of Vitanje|46.403|15.295|SI||59|r
 Municipality of Sodražica|45.756|14.622|SI||58|r
+Munguía|20.538|-101.465|MX|Guanajuato|58
 Municipality of Vransko|46.235|14.950|SI||58|r
-Municipality of Starše|46.455|15.755|SI||58|r
-Municipality of Hrpelje–Kozina|45.573|14.005|SI||58|r
-Municipality of Gorišnica|46.405|16.012|SI||58|r
+Mündersbach|50.606|7.734|DE|Rheinland-Pfalz|58
+Munboksan|35.676|129.035|KR|Gyeongsangbuk-do|58|f
+Muncaster Mountain|47.638|-123.512|US|Washington|58|f
+Munsusan|35.535|129.216|KR|Ulsan|58|f
+Munţii Iezer|45.500|25.000|RO||58|f
+Munţii Lotrului|45.500|23.867|RO||58|f
+Munţii Rodnei|47.583|24.667|RO||58|f
+Municipality of Rogašovci|46.803|16.024|SI||58|r
+Münsbach|49.633|6.265|LU|Luxembourg|58
 Municipality of Sveta Trojica v Slovenskih Goricah|46.569|15.889|SI||58|r
-Municipality of Moravske Toplice|46.718|16.274|SI||57|r
+Münichsthal|48.383|16.467|AT|Lower Austria|57
 Municipality of Velike Lašče|45.839|14.586|SI||57|r
 Muniesa|41.033|-0.811|ES|Aragon|57
 Municipality of Kostanjevica na Krki|45.834|15.419|SI||57|r
+Munteni|46.878|22.695|RO|Bihor County|57
+Municipality of Sveta Ana|46.648|15.839|SI||57|r
+Mûnein|53.253|5.920|NL|Friesland|57
 Municipality of Komen|45.819|13.749|SI||56|r
+Muno|49.716|5.172|BE|Wallonia|56
+Muntele Rece|46.645|23.285|RO|Cluj County|56
 Municipality of Šmartno ob Paki|46.343|15.031|SI||56|r
 Municipality of Kostel|45.489|14.871|SI||56|r
 Municipality of Mokronog–Trebelno|45.915|15.161|SI||56|r
 Municipality of Kozje|46.072|15.557|SI||56|r
 Municipality of Puconci|46.745|16.139|SI||56|r
+Munds Park|34.946|-111.640|US|Arizona|56
+Munte|50.944|3.743|BE|Flanders|56
 Municipality of Majšperk|46.332|15.758|SI||56|r
 Municipality of Dobrepolje|45.804|14.748|SI||55|r
+Mungindi|-28.977|148.988|AU|New South Wales|55
+Mund|46.315|7.941|CH|Valais|55
 Municipality of Podčetrtek|46.145|15.577|SI||55|r
 Municipality of Jezersko|46.389|14.484|SI||55|r
-Municipality of Apače|46.694|15.874|SI||55|r
+Münchehofe|52.147|13.834|DE|Brandenburg|55
+Muneville-le-Bingard|49.121|-1.480|FR|Normandy|55
 Municipality of Kobilje|46.686|16.393|SI||55|r
-Municipality of Loška Dolina|45.666|14.504|SI||55|r
-Municipality of Kungota|46.649|15.610|SI||55|r
+Munar|46.103|21.020|RO|Arad County|55
+Münsterappel|49.733|7.883|DE|Rheinland-Pfalz|55
 Muñana|40.590|-5.014|ES|Castille and León|54
+Mūnak Drain|29.466|76.897|IN|Haryana|54|f
+Mundoo|2.014|73.534|MV||54|f
+Municipal Stadium|41.039|-81.456|US|Ohio|54|f
+Munţii Banatului|44.833|22.083|RO|Caraș-Severin County|54|f
+Munţii Ciucului|46.500|26.000|RO||54|f
 Municipality of Rečica ob Savinji|46.327|14.905|SI||54|r
-Municipality of Markovci|46.392|15.951|SI||54|r
-Municipality of Križevci|46.566|16.118|SI||54|r
-Municipality of Videm|46.364|15.881|SI||53|r
-Municipality of Žirovnica|46.412|14.176|SI||53|r
+Munnekezijl|53.304|6.272|NL|Friesland|54
 Municipality of Cankova|46.729|16.032|SI||53|r
 Munébrega|41.252|-1.706|ES|Aragon|53
 Muñogalindo|40.603|-4.899|ES|Castille and León|53
@@ -286,12 +353,9 @@ Municipality of Cirkulane|46.341|15.996|SI||53|r
 Municipality of Šalovci|46.831|16.278|SI||53|r
 Municipality of Gornji Petrovci|46.818|16.213|SI||52|r
 Municipality of Luče|46.351|14.733|SI||52|r
-Municipality of Tišina|46.660|16.081|SI||52|r
 Municipality of Tabor|46.222|15.014|SI||52|r
 Municipality of Ribnica na Pohorju|46.525|15.261|SI||52|r
 Municipality of Žetale|46.282|15.806|SI||52|r
-Municipality of Sveti Jurij v Slovenskih Goricah|46.613|15.793|SI||52|r
-Municipality of Braslovče|46.278|15.037|SI||52|r
 Municipality of Juršinci|46.487|15.976|SI||52|r
 Muñopedro|40.888|-4.472|ES|Castille and León|52
 Municipality of Podlehnik|46.316|15.867|SI||52|r
@@ -300,22 +364,31 @@ Municipality of Loški Potok|45.660|14.645|SI||51|r
 Municipality of Trnovska Vas|46.518|15.904|SI||51|r
 Municipality of Podvelka|46.601|15.356|SI||51|r
 Municipality of Brda|46.008|13.543|SI||50|r
-Municipality of Šentrupert|45.983|15.090|SI||50|r
 Municipality of Sveti Andraž v Slovenskih Goricah|46.523|15.953|SI||50|r
-Municipality of Šmarješke Toplice|45.883|15.245|SI||50|r
+Münchwald|49.900|7.683|DE|Rheinland-Pfalz|49
 Municipality of Bloke|45.786|14.507|SI||49|r
 Municipality of Sveti Tomaž|46.479|16.062|SI||49|r
-Municipality of Rogašovci|46.803|16.024|SI||48|r
+Munda Headworks|34.333|71.569|PK|Khyber Pakhtunkhwa|49|f
+Munday Island|-43.330|146.010|AU|Tasmania|49|f
+Mundoo Island|-35.549|138.924|AU|South Australia|49|f
+Mundy Regional Park|-31.985|116.030|AU|Western Australia|49|f
+Mungindi Airport|-28.968|149.052|AU|New South Wales|49|f
+Munson, Mount|-84.800|-174.433|AQ||49|f
+Muntanitz|47.074|12.589|AT|Tyrol|49|f
+Munttoren|52.367|4.893|NL|North Holland|49|f
+Munyaroo Conservation Park|-33.391|137.294|AU|South Australia|49|f
+Munyon Island|26.817|-80.047|US|Florida|49|f
+Münk|50.300|7.033|DE|Rheinland-Pfalz|49
 Municipality of Razkrižje|46.524|16.272|SI||48|r
 Municipality of Škocjan|45.920|15.301|SI||48|r
 Municipality of Bistrica ob Sotli|46.060|15.647|SI||47|r
+Münchweiler am Klingbach|49.150|7.967|DE|Rheinland-Pfalz|47
 Municipality of Hodoš|46.826|16.325|SI||47|r
 Municipality of Makole|46.310|15.676|SI||47|r
 Mungui|-15.183|-72.906|PE|Arequipa|47
 Municipality of Solčava|46.406|14.659|SI||47|r
 Municipality of Sveti Jurij ob Ščavnici|46.568|16.027|SI||46|r
 Muñoveros|41.172|-3.952|ES|Castille and León|46
-Municipality of Sveta Ana|46.648|15.839|SI||44|r
 Muñosancho|40.921|-5.036|ES|Castille and León|43
 Municipality of Cerkvenjak|46.561|15.942|SI||43|r
 Muñico|40.707|-5.027|ES|Castille and León|42
@@ -324,19 +397,57 @@ Muñomer del Peco|40.859|-4.880|ES|Castille and León|42
 Municipality of Dobje|46.133|15.401|SI||41|r
 Muñotello|40.542|-5.042|ES|Castille and León|41
 Muñopepe|40.634|-4.819|ES|Castille and León|40
+Munch museum|59.917|10.774|NO|Oslo|40|f
+Muncho Lake|58.989|-125.782|CA|British Columbia|40|f
+Muncho Lake Park|59.166|-126.020|CA|British Columbia|40|f
+Mundo Marino|-36.340|-56.747|AR|Buenos Aires|40|f
+Mundomar|38.542|-0.093|ES|Valencia|40|f
+Mungo National Park|-33.749|143.136|AU|New South Wales|40|f
+Munich Residenz|48.142|11.579|DE|Bavaria|40|f
+Municipal Airport|40.540|-93.026|US|Missouri|40|f
+Municipal Airport|36.506|-101.814|US|Oklahoma|40|f
+Munizaga Peak|-85.533|-177.617|AQ||40|f
+Munn Lake|46.985|-122.879|US|Washington|40|f
+Munroe Lake|59.197|-98.555|CA|Manitoba|40|f
+Munson Airport|44.251|-123.228|US|Oregon|40|f
+Munt Arlas|46.443|9.843|CH|Grisons|40|f
+Munt Buffalora|46.627|10.251|CH|Grisons|40|f
+Munt Cotschen|46.510|10.043|CH|Grisons|40|f
+Munt la Schera|46.645|10.211|CH|Grisons|40|f
+Munt Pers|46.421|9.954|CH|Grisons|40|f
+Munz Lakes|34.673|-118.432|US|California|40|f
 Muñogrande|40.822|-4.922|ES|Castille and León|39
 Municipality of Osilnica|45.549|14.728|SI||39|r
 Municipality of Zavrč|46.359|16.045|SI||37|r
 Muñani|-14.768|-69.953|PE|Puno|0
 Muncang|-6.544|106.291|ID|Banten|0
+Muncang|-7.470|108.080|ID|West Java|0
 Münchenwiler|46.913|7.126|CH|Bern|0
+Munde|-8.793|120.737|ID|East Nusa Tenggara|0
 Mundeok|34.930|127.172|KR|Jeollanam-do|0
+Mundri|-6.956|111.710|ID|East Java|0
+Munduk|-8.370|114.678|ID|Bali|0
+Munduktemu Kelod|-8.344|114.969|ID|Bali|0
 Mundundo|-13.022|15.074|AO|Huambo|0
 Munenga|-10.023|14.637|AO|Kwanza Sul|0
+Munengkrajan|-8.336|113.384|ID|East Java|0
+Munggang|-7.023|108.479|ID|West Java|0
+Mungging|-7.204|113.532|ID|East Java|0
+Mungkaldatar|-7.020|108.488|ID|West Java|0
 Mungkid|-7.593|110.219|ID|Central Java|0
+Mungkin|-8.751|117.127|ID|West Nusa Tenggara|0
 Mungkuruyam|-2.267|115.576|ID|South Kalimantan|0
+Mungli|-7.013|112.386|ID|East Java|0
 Mungyeong|36.735|128.108|KR|Gyeongsangbuk-do|0
 Munhango|-12.158|18.555|AO|Bíe|0
+Muniu|40.658|123.226|CN|Liaoning|0
+Munjul|-6.611|105.899|ID|Banten|0
+Munjul|-6.343|105.936|ID|Banten|0
+Munjul|-7.281|106.599|ID|West Java|0
+Munjul|-7.249|107.881|ID|West Java|0
 Munjungan|-8.303|111.579|ID|East Java|0
 Munse|-4.097|123.252|ID|Southeast Sulawesi|0
+Münster|48.623|10.902|DE|Bavaria|0
 Muntanyola|41.883|2.183|ES|Catalonia|0
+Munturkaju|-6.511|106.024|ID|Banten|0
+Munung|-8.029|111.463|ID|East Java|0

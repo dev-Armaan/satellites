@@ -10,6 +10,7 @@ Sigulda|57.154|24.860|LV|Sigulda Municipality|83
 Signal Hill|51.024|-114.174|CA|Alberta|82
 Signa|43.794|11.104|IT|Tuscany|82
 Signal Hill|33.804|-118.168|US|California|81
+Siguiri Airport|11.433|-9.167|GN|Kankan Region|80|f
 Sigefredo Pacheco|-4.914|-41.732|BR|Piauí|80
 Sigtuna|59.617|17.724|SE|Stockholm|79
 Siġġiewi|35.855|14.436|MT|Is-Siġġiewi|79
@@ -23,27 +24,85 @@ Siğacık|38.194|26.786|TR|İzmir Province|72
 Sigmaringendorf|48.066|9.262|DE|Baden-Wurttemberg|72
 Sigma|11.421|122.666|PH|Western Visayas|70
 Signau|46.919|7.724|CH|Bern|69
+Signilskär|60.199|19.338|AX|Ålands landsbygd|69|f
 Sigmarszell|47.589|9.762|DE|Bavaria|68
 Sigay|17.083|120.600|PH|Ilocos|68
+Sigguup Nunaa|71.833|-54.417|GL|Avannaata|67|f
 Siguinon|10.942|124.681|PH|Eastern Visayas|67
 Signes|43.291|5.863|FR|Provence-Alpes-Côte d'Azur|67
 Sigillo|43.331|12.741|IT|Umbria|67
 Siguirini|11.829|-10.045|GN|Kankan Region|66
 Sigourney|41.333|-92.205|US|Iowa|66
+Sigonella Naval Air Station|37.402|14.922|IT|Sicily|65|f
+Signal Mountain|44.206|-72.325|US|Vermont|63|f
+Siguniang Shan|31.107|102.904|CN|Sichuan|63|f
 Sighnaghi|41.619|45.922|GE|Kakheti|63
 Signy-le-Petit|49.903|4.280|FR|Grand Est|62
 Sigaozhuang|39.468|117.250|CN|Tianjin|62
 Sigless|47.775|16.395|AT|Burgenland|61
 Siglufjörður|66.152|-18.908|IS|Northeast|61
+Sigma Islands|-64.253|-62.918|AQ||61|f
+Signal Knob|38.961|-78.331|US|Virginia|61|f
+Sigöldulón|64.152|-19.055|IS|South|61|f
 Siggelkow|53.387|11.938|DE|Mecklenburg-Vorpommern|60
 Sigolsheim|48.135|7.300|FR|Grand Est|60
 Sigetec|46.188|16.936|HR|Koprivnica-Križevci|60
 Sigiriya|7.949|80.750|LK|Central Province|60
+Sigogne|45.737|-0.159|FR|New Aquitaine|59
+Sigournais|46.706|-0.987|FR|Pays de la Loire|59
+Sigoulès|44.759|0.410|FR|New Aquitaine|59
+Sigiriya Airport|7.957|80.728|LK|Central Province|58|f
+Sigiswanger Horn|47.485|10.209|DE|Bavaria|58|f
+Signal Peak|33.606|-117.812|US|California|58|f
+Signal Peak|37.320|-113.492|US|Utah|58|f
+Signehamna|79.283|11.533|SJ|Svalbard|58|f
+Sigerfjord|68.644|15.512|NO|Nordland|58
+Sığma|37.923|28.965|TR|Denizli|58
+Sigoyer|44.478|5.976|FR|Provence-Alpes-Côte d'Azur|56
 Sigmundsherberg|48.683|15.750|AT|Lower Austria|56
+Signy-Signets|48.928|3.067|FR|Île-de-France|56
+Sigy-en-Bray|49.546|1.489|FR|Normandy|56
+Sighetu Silvaniei|47.350|22.876|RO|Sălaj County|56
+Sigetec Ludbreški|46.259|16.639|HR|Varaždin|56
+Sigharting|48.397|13.598|AT|Upper Austria|55
+Sigloy|47.834|2.226|FR|Centre-Val de Loire|55
+Siglistorf|47.545|8.380|CH|Aargau|55
+Sīgāh Rūd|37.155|50.201|IR|Gilan Province|55
+Sigaren Islands|-69.142|39.467|AQ||54|f
+Siglufjordur Airport|66.133|-18.917|IS|Northeast|54|f
+Sigmund Stern Recreation Grove|37.736|-122.479|US|California|54|f
+Signal Hill|-33.918|18.403|ZA|Western Cape|54|f
+Signalhorn|46.255|7.746|CH|Valais|54|f
+Signy Island|-60.716|-45.633|AQ||54|f
+Siguanea Airport|21.650|-82.950|CU|Isla de la Juventud|54|f
+Sigyn Glacier|-71.867|8.600|AQ||54|f
+Signoret|19.057|-98.091|MX|Puebla|54
 Sigave|-14.267|-178.167|WF||54|r
+Sighing Peak|-67.399|-67.980|AQ||49|f
+Signal Hill|17.029|-61.813|AG|Saint Mary Parish|49|f
+Signalberg|-27.667|16.300|NA|Karas Region|49|f
+Signalhorn|46.849|10.097|CH|Grisons|49|f
 Sigüés|42.630|-1.012|ES|Aragon|45
+Sigmen Glacier|-64.017|-61.933|AQ||40|f
+Signal Butte|41.797|-103.907|US|Nebraska|40|f
+Signal de Randon|44.657|3.544|FR|Occitanie|40|f
+Signal Hill|-45.850|170.567|NZ|Otago|40|f
+Signal Mountain|52.867|-117.986|CA|Alberta|40|f
+Signal Mountain|33.397|-86.581|US|Alabama|40|f
+Signal Mountain|43.849|-110.567|US|Wyoming|40|f
+Signalness Lake|45.541|-95.522|US|Minnesota|40|f
+Sigriswiler Rothorn|46.731|7.770|CH|Bern|40|f
+Sigritsa Point|-62.465|-60.124|AQ||40|f
 Sigeres|40.799|-4.934|ES|Castille and León|38
+Sigangtou|29.177|110.675|CN|Hunan|0
 Sigchos|-0.705|-78.889|EC|Cotopaxi|0
+Sigeng|19.228|108.674|CN|Hainan|0
 Sigi Biromaru|-0.950|119.918|ID|Central Sulawesi|0
+Sigih|-8.537|118.850|ID|West Nusa Tenggara|0
+Sigirato|-8.619|119.013|ID|West Nusa Tenggara|0
 Siglé|12.556|-1.888|BF|Centre-Ouest|0
+Sigou|34.938|108.932|CN|Shaanxi|0
+Sigou|34.366|104.079|CN|Gansu|0
 Sigsig|-3.051|-78.796|EC|Azuay|0
+Sigu|31.418|114.403|CN|Hubei|0
+Siguqiao|28.747|118.262|CN|Jiangxi|0

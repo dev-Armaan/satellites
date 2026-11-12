@@ -15,6 +15,7 @@ Kostyantynivka|48.527|37.706|UA|Donetsk|97
 Kosong|38.379|128.468|KR|Gangwon-do|96
 Kōshi|32.893|130.776|JP|Kumamoto|96
 Kosai|34.701|137.523|JP|Shizuoka|96
+Košice International Airport|48.663|21.241|SK|Košice Region|95|f
 Kosi|27.794|77.437|IN|Uttar Pradesh|94
 Kosonsoy|41.249|71.547|UZ|Namangan|94
 Ko Samui|9.536|99.936|TH|Surat Thani|94
@@ -26,14 +27,17 @@ Kosan|38.856|127.418|KP|Kangwŏn-do|88
 Kościan|52.088|16.649|PL|Greater Poland|88
 Koster|-25.863|26.898|ZA|North West|87
 Kościerzyna|54.122|17.981|PL|Pomerania|87
+Kosrae Island|5.325|162.982|FM|Kosrae|86|f
 Kos|36.893|27.288|GR|South Aegean|86
 Kosaya Gora|54.119|37.545|RU|Tula Oblast|85
 Kostrzyn nad Odrą|52.587|14.650|PL|Lubusz|85
+Kosrae International Airport|5.357|162.958|FM|Kosrae|84|f
 Kosovo Polje|42.664|21.096|XK|Pristina|84
 Košíře|50.067|14.363|CZ|Prague|84
 Kosigi|15.855|77.245|IN|Andhra Pradesh|84
 Kostyukovichi|53.355|32.051|BY|Mogilev|83
 Kosrae|5.325|162.981|FM||82|r
+Kos|36.845|27.147|GR|South Aegean|82|f
 Kosuge|35.754|139.822|JP|Tokyo|82
 Koshksarāy|38.458|45.567|IR|East Azerbaijan|82
 Kostinbrod|42.817|23.217|BG|Sofia|82
@@ -52,6 +56,7 @@ Kosiv|48.321|25.091|UA|Ivano-Frankivsk|79
 Koshki|54.209|50.467|RU|Samara Oblast|78
 Koshekhabl’|44.900|40.503|RU|Adygeya Republic|77
 Kosciusko|33.058|-89.590|US|Mississippi|77
+Kosciusko Island|56.042|-133.539|US|Alaska|77|f
 Kosso|5.050|-5.779|CI|Bas-Sassandra District|77
 Kossonoukro|6.011|-3.389|CI|Comoé District|77
 Kostelec nad Orlicí|50.123|16.213|CZ|Hradec Králové Region|76
@@ -59,6 +64,8 @@ Kosmach|48.331|24.814|UA|Ivano-Frankivsk|76
 Kosh-Agach|49.993|88.676|RU|Altai|75
 Kosikha|53.362|84.582|RU|Altai Krai|75
 Kossandji|5.825|-3.616|CI|Lagunes District|75
+Ko Sichang|13.150|100.811|TH|Chon Buri|74|f
+Koszalin-Zegrze Pomorskie Airport|54.042|16.263|PL|West Pomerania|74|f
 Koshimizu|43.859|144.465|JP|Hokkaido|74
 Kossou|7.001|-5.481|CI|Yamoussoukro|74
 Koskinoù|36.388|28.215|GR|South Aegean|74
@@ -70,6 +77,8 @@ Kostrena|45.301|14.506|HR|Primorje-Gorski Kotar|73
 Kössen|47.670|12.405|AT|Tyrol|73
 Kostik|47.787|87.331|CN|Xinjiang|73
 Kosivska Poliana|48.005|24.111|UA|Zakarpattia|73
+Ko Samet|12.558|101.451|TH|Rayong|72|f
+Kostanay Airport|53.206|63.551|KZ|Kostanay|72|f
 Kostelec nad Černými lesy|49.994|14.859|CZ|Central Bohemia|72
 Kostek|43.344|46.854|RU|Dagestan|72
 Kosséhoa|6.069|-6.295|CI|Goh-Djiboua|72
@@ -77,6 +86,10 @@ Kostylivka|47.993|24.201|UA|Zakarpattia|72
 Kościelisko|49.291|19.889|PL|Lesser Poland|72
 Kosmonosy|50.438|14.930|CZ|Central Bohemia|72
 Koshurnikovo|54.167|93.300|RU|Krasnoyarsk Krai|71
+Kō Shima|31.452|131.376|JP|Miyazaki|71|f
+Ko-shima|35.711|135.438|JP||71|f
+Koshiki Islands|31.777|129.807|JP|Kagoshima|71|f
+Kostolac Airport|44.680|20.941|RS|Central Serbia|71|f
 Kosina|50.072|22.329|PL|Subcarpathia|71
 Kostino|58.910|53.269|RU|Kirov Oblast|71
 Kostychany|48.226|26.515|UA|Chernivtsi|71
@@ -98,6 +111,7 @@ Kosd|47.808|19.178|HU|Pest County|67
 Koson|48.254|22.459|UA|Zakarpattia|67
 Kosino|58.413|51.278|RU|Kirov Oblast|67
 Köşkerler|36.281|30.001|TR|Antalya|67
+Kosteröarna|58.900|11.033|SE|Västra Götaland|67|f
 Kosa|59.945|54.992|RU|Perm Krai|67
 Köseçobanlı|36.444|33.136|TR|Mersin|67
 Koski Tl|60.650|23.150|FI|Southwest Finland|67
@@ -111,6 +125,10 @@ Kösbucağı|36.686|34.247|TR|Mersin|66
 Kostohryzove|46.499|32.859|UA|Kherson|66
 Kostomlaty nad Labem|50.187|14.956|CZ|Central Bohemia|66
 Kostice|48.747|16.979|CZ|South Moravian|65
+Ko Sai|12.482|99.997|TH|Prachuap Khiri Khan|65|f
+Ko Sukon|7.100|99.581|TH|Trang|65|f
+Kōsaka-damu|36.265|138.549|JP|Nagano|65|f
+Koshava Island|-62.433|-60.136|AQ||65|f
 Kosava|52.758|25.155|BY|Brest|65
 Koserow|54.052|14.002|DE|Mecklenburg-Vorpommern|65
 Koszyce|49.972|20.942|PL|Lesser Poland|65
@@ -121,6 +139,8 @@ Košute|43.631|16.695|HR|Split-Dalmatia|64
 Kossoyo|5.673|-6.055|CI|Bas-Sassandra District|64
 Kostomłoty Drugie|50.927|20.565|PL|Świętokrzyskie|64
 Kosmach|48.750|24.370|UA|Ivano-Frankivsk|64
+Koshelova Peak|51.354|156.750|RU|Kamchatka|63|f
+Koshibu-damu|35.607|137.979|JP|Nagano|63|f
 Kostyantynivka|46.827|33.869|UA|Kherson|63
 Kostolné Kračany|47.983|17.576|SK|Trnava Region|63
 Kosivka|48.813|33.027|UA|Kirovohrad|63
@@ -133,19 +153,101 @@ Köseli|37.839|40.608|TR|Diyarbakır Province|62
 Koška|45.545|18.286|HR|County of Osijek-Baranja|62
 Kosuriq|42.570|20.465|XK|Pec|62
 Koshulyany|48.248|26.558|UA|Chernivtsi|61
+Kosibaai|-26.902|32.867|ZA|KwaZulu-Natal|61|f
+Kosmeč|42.747|17.824|HR|Dubrovnik-Neretva|61|f
+Kosmodrom Svobodnyy|51.761|128.123|RU|Amur Oblast|61|f
 Kossou|6.959|-4.969|CI|Lacs District|61
 Košecké Podhradie|48.973|18.306|SK|Trenčín Region|61
 Köstendorf|47.950|13.200|AT|Salzburg|60
 Kosyno|48.513|22.793|UA|Zakarpattia|60
 Kosy|47.679|29.498|UA|Odesa|60
 Koš|48.741|18.586|SK|Trenčín Region|60
+Kostenki|51.396|39.038|RU|Voronezh Oblast|60
+Kosi|45.395|14.375|HR|Primorje-Gorski Kotar|60
+Kostryna|48.942|22.593|UA|Zakarpattia|60
+Kosta|56.843|15.396|SE|Kronoberg|60
+Kose-Uuemõisa|59.200|25.105|EE|Harjumaa|60
+Kostiantynopil|48.001|37.040|UA|Donetsk|60
+Kostelec u Holešova|49.375|17.512|CZ|Zlín|60
+Koşuboğazı|40.050|28.250|TR|Bursa Province|60
+Kostolná pri Dunaji|48.185|17.436|SK|Bratislava Region|59
+Kostychi|47.289|32.224|UA|Mykolaiv|59
+Kostomlaty pod Milešovkou|50.560|13.873|CZ|Ústí nad Labem Region|59
 Kościelec|52.174|18.571|PL|Greater Poland|59
+Koshary|46.966|30.168|UA|Odesa|59
 Kostochkovka|45.317|34.674|UA|Crimea|59
+Kostelany nad Moravou|49.045|17.407|CZ|Zlín|59
+Košolná|48.425|17.465|SK|Trnava Region|59
+Kosoř|49.987|14.327|CZ|Central Bohemia|59
+Kostyantynivka|47.095|31.919|UA|Mykolaiv|58
+Kostelec|49.361|15.491|CZ|Vysocina|58
+Kostomłoty|51.046|16.611|PL|Lower Silesia|58
+Koszyce|50.170|20.579|PL|Lesser Poland|58
+Koskullskulle|67.183|20.750|SE|Norrbotten|58
+Kosciuszko National Park|-35.998|148.335|AU|New South Wales|58|f
+Kosorowice|50.571|18.046|PL|Opole Voivodeship|58
+Kostelec|49.027|17.153|CZ|South Moravian|58
+Kostivere|59.427|25.097|EE|Harjumaa|58
+Kostomłoty|51.976|23.656|PL|Lublin|58
+Košetice|49.558|15.116|CZ|Vysocina|58
 Kosakowo|54.589|18.485|PL|Pomerania|58
+Kossandougou|7.714|-4.175|CI|Lacs District|57
+Kostelní Lhota|50.129|15.024|CZ|Central Bohemia|57
+Köseler|37.700|38.625|TR|Adıyaman Province|57
+Kösetarla|37.889|41.199|TR|Batman|57
+Kostarowce|49.586|22.114|PL|Subcarpathia|57
+Kösedere|39.627|26.183|TR|Canakkale|57
 Kostanjevica na Krki|45.846|15.420|SI|Municipality of Kostanjevica na Krki|57
+Košice|49.325|14.751|CZ|South Bohemian Region|57
+Kosagi|8.215|-8.099|CI|Woroba|57
+Kosuge|35.760|138.940|JP|Yamanashi|57
+Kościelec|52.793|18.159|PL|Kujawsko-Pomorskie|57
+Kosin|50.818|21.914|PL|Lublin|57
+Kostolná-Záriečie|48.877|17.969|SK|Trenčín Region|56
 Kostel|45.508|14.909|SI|Municipality of Kostel|56
+Koshove|46.718|34.803|UA|Zaporizhzhia|56
+Košarovce|49.042|21.781|SK|Prešov Region|56
+Koštice|50.403|13.942|CZ|Ústí nad Labem Region|56
+Kościelec|51.908|18.215|PL|Greater Poland|56
+Koshelivka|50.544|28.283|UA|Zhytomyr Oblast|55
+Košnica pri Celju|46.217|15.233|SI|Urban Municipality of Celje|55
+Kosmirá|39.592|20.805|GR|Epirus|55
+Kostanje|43.441|16.833|HR|Split-Dalmatia|55
+Koškovce|49.047|21.955|SK|Prešov Region|55
+Kose|57.813|27.037|EE|Võrumaa|55
+Kostelec|49.674|13.026|CZ|Plzeň Region|55
+Kościelec|50.201|20.391|PL|Lesser Poland|55
+Kostry|51.696|22.915|PL|Lublin|55
+Kos Airport|36.793|27.092|GR|South Aegean|54|f
+Kosmaj|44.466|20.564|RS|Central Serbia|54|f
+Kostka, Mount|-70.700|164.817|AQ||54|f
+Kostonjärvi|65.791|28.453|FI|North Ostrobothnia|54|f
+Kostroma Sokerkino Airport|57.797|41.019|RU|Kostroma Oblast|54|f
+Kostelní Hlavno|50.257|14.699|CZ|Central Bohemia|54
+Kostkowice|49.795|18.701|PL|Silesia|54
+Kostrynska Roztoka|48.932|22.628|UA|Zakarpattia|54
+Kospoda|50.719|11.740|DE|Thuringia|53
+Kosar Point|-71.137|-73.127|AQ||49|f
+Kosciusko, Mount|-75.717|-132.217|AQ||49|f
+Kosco Glacier|-84.450|-178.000|AQ||49|f
+Kosky Peak|-70.945|-63.459|AQ||49|f
+Kostajnik|44.424|19.299|RS|Central Serbia|49|f
+KOSA-TV (Odessa)|31.864|-102.578|US|Texas|40|f
+Kościelec|49.224|20.015|PL|Lesser Poland|40|f
+Kosciuszko Park|41.931|-87.724|US|Illinois|40|f
+Kosciuszko Street Garden|40.692|-73.939|US|New York|40|f
+Kosco Peak|-79.783|-83.767|AQ||40|f
+Koshare Indian Museum|37.972|-103.545|US|Colorado|40|f
+Koshi Tappu Wildlife Reserve|26.650|87.000|NP|Koshi|40|f
+Koshlong Lake|44.973|-78.485|CA|Ontario|40|f
+Koshoy Korgon|41.124|75.699|KG|Naryn Region|40|f
+Koski Glacier|-85.283|167.250|AQ||40|f
+KOSO-FM (Patterson)|37.511|-121.374|US|California|40|f
+Kostal Cone|52.174|-119.950|CA|British Columbia|40|f
+Kostal Lake|52.164|-119.971|CA|British Columbia|40|f
 Ko Si Chang|13.164|100.805|TH|Chon Buri|0
 Kosamphi Nakhon|16.631|99.350|TH|Kamphaeng Phet|0
+Kosangka|-7.292|108.206|ID|West Java|0
 Kose|59.179|25.173|EE|Harjumaa|0
 Kösefakılı|39.594|34.136|TR|Kırşehir|0
 Koshi|50.971|71.353|KZ|Aqmola|0
@@ -153,4 +255,5 @@ Kosjerić|43.996|19.907|RS|Central Serbia|0
 Koson Shahri|39.045|65.591|UZ|Qashqadaryo|0
 Kosonsoy Shahri|41.263|71.542|UZ|Namangan|0
 Kösreli|37.163|35.978|TR|Adana|0
+Kostarea Satu|-7.146|108.010|ID|West Java|0
 Kosubosu|9.551|3.228|NG|Kwara State|0

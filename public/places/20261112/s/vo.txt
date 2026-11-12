@@ -4,7 +4,7 @@ Vojvodina|45.000|20.000|RS||124|r
 Voronezh|51.668|39.192|RU|Voronezh Oblast|120
 Volgograd|48.714|44.498|RU|Volgograd Oblast|120
 Vologda Oblast|59.958|40.508|RU||120|r
-Volyn|51.183|24.867|UA||115|r
+Volyn|51.183|24.867|UA||116|r
 Volta|6.400|0.500|GH||113|r
 Vorarlberg|47.250|9.917|AT||112|r
 Volzhsky|48.786|44.780|RU|Volgograd Oblast|110
@@ -26,6 +26,7 @@ Voi|-3.396|38.556|KE|Taita Taveta|95
 Volkhov|59.923|32.340|RU|Leningradskaya Oblast'|93
 Vomero|40.843|14.231|IT|Campania|93
 Volksrust|-27.365|29.882|ZA|Mpumalanga|93
+Võrtsjärv|58.271|26.042|EE||92|f
 Völklingen|49.252|6.859|DE|Saarland|92
 Voghera|44.992|9.012|IT|Lombardy|92
 Voorburg|52.074|4.360|NL|South Holland|92
@@ -36,8 +37,11 @@ Voluntari|44.490|26.173|RO|Ilfov|90
 Vorob’yovo|55.717|37.533|RU|Moscow|90
 Vostryakovo|55.667|37.450|RU|Moscow Oblast|90
 Voúla|37.842|23.777|GR|Attica|89
+Voronezh International Airport|51.814|39.230|RU|Voronezh Oblast|89|f
 Vohipaho|-23.550|47.500|MG|Atsimo-Atsinanana|89
 Vohibinany|-17.350|49.033|MG|Atsinanana|88
+Volgograd International Airport|48.783|44.346|RU|Volgograd Oblast|88|f
+Volta Dam|6.299|0.059|GH|Eastern|88|f
 Volokolamsk|56.034|35.969|RU|Moscow Oblast|88
 Voinjama|8.422|-9.748|LR|Lofa County|87
 Volla|40.874|14.341|IT|Campania|87
@@ -53,13 +57,15 @@ Volochysk|49.536|26.207|UA|Khmelnytskyi|85
 Vordingborg|55.008|11.911|DK|Zealand|85
 Vobkent Shahri|40.000|64.502|UZ|Bukhara|85
 Volgorechensk|57.444|41.163|RU|Kostroma Oblast|85
+Võrumaa|57.767|26.933|EE||85|r
 Vovchansk|50.291|36.941|UA|Kharkiv|85
 Vostryakovo|55.399|37.808|RU|Moscow Oblast|84
 Vohipeno|-22.350|47.833|MG|Fitovinany Region|84
+Vopnafjörður Airport|65.721|-14.851|IS|East|84|f
 Voznesenivka|48.078|39.787|UA|Luhansk|84
-Võrumaa|57.767|26.933|EE||83|r
 Volpiano|45.199|7.775|IT|Piedmont|83
 Voisins-le-Bretonneux|48.758|2.051|FR|Île-de-France|83
+Volcano Islands|25.000|141.000|JP|Tokyo|82|f
 Vöhringen|48.278|10.082|DE|Bavaria|82
 Vostochnyy|55.817|37.867|RU|Moscow|82
 Volokonovka|50.485|37.861|RU|Belgorod Oblast|82
@@ -67,18 +73,22 @@ Võru|57.834|27.019|EE|Võrumaa|82
 Vorsma|55.991|43.272|RU|Nizhny Novgorod Oblast|82
 Volosovo|59.445|29.489|RU|Leningradskaya Oblast'|82
 Vom|9.729|8.791|NG|Plateau State|82
+Vorkuta Airport|67.489|63.993|RU|Komi|81|f
 Volchikha|52.020|80.361|RU|Altai Krai|81
 Vokovice|50.099|14.345|CZ|Prague|81
+Vörösmarty tér|47.497|19.051|HU|Budapest|81|f
 Vorotynsk|54.428|36.046|RU|Kaluga Oblast|81
 Volodarsk|56.225|43.176|RU|Nizhny Novgorod Oblast|81
 Volda|62.146|6.071|NO|Møre og Romsdal|81
 Volchansk|59.938|60.081|RU|Sverdlovsk Oblast|80
+Volcán Barú|8.809|-82.541|PA|Chiriquí Province|80|f
 Vosselaar|51.309|4.890|BE|Flanders|80
 Volcán|8.780|-82.639|PA|Chiriquí Province|80
 Voreppe|45.295|5.632|FR|Auvergne-Rhône-Alpes|80
 Voskresenskyi-2|50.480|30.600|UA|Kyiv City|80
 Volozhin|54.089|26.527|BY|Minsk|80
 Voorthuizen|52.187|5.606|NL|Gelderland|80
+Volcán de Fuego|14.475|-90.881|GT|Chimaltenango|80|f
 Volkach|49.864|10.228|DE|Bavaria|80
 Volodarskiy|46.404|48.539|RU|Astrakhan Oblast|80
 Voitsberg|47.044|15.153|AT|Styria|79
@@ -97,6 +107,7 @@ Vokhtoga|58.809|41.062|RU|Vologda Oblast|77
 Vozdvizhenka|43.895|131.945|RU|Primorye|77
 Vohburg an der Donau|48.770|11.618|DE|Bavaria|77
 Volzhskiy|53.431|50.119|RU|Samara Oblast|77
+Vormsi|59.005|23.246|EE|Lääne|77|f
 Voznesenskaya|44.553|41.032|RU|Krasnodar Krai|77
 Volovăţ|47.817|25.900|RO|Suceava|77
 Vösendorf|48.121|16.340|AT|Lower Austria|77
@@ -122,6 +133,8 @@ Vorotynets|56.061|45.865|RU|Nizhny Novgorod Oblast|76
 Volodymyrivka|47.734|37.388|UA|Donetsk|76
 Voskresenskoye|56.838|45.432|RU|Nizhny Novgorod Oblast|76
 Vohimanitra|-21.700|47.700|MG|Fitovinany Region|76
+Volcán de Agua|14.465|-90.743|GT|Sacatepéquez|75|f
+Voortrekker Monument|-25.777|28.176|ZA|Gauteng|75|f
 Volney|43.343|-76.358|US|New York|75
 Vogtsburg|48.097|7.642|DE|Baden-Wurttemberg|75
 Vodiane|47.487|34.502|UA|Zaporizhzhia|75
@@ -149,6 +162,9 @@ Votice|49.640|14.638|CZ|Central Bohemia|74
 Vónitsa|38.916|20.886|GR|West Greece|73
 Voskevaz|40.275|44.300|AM|Aragatsotn|73
 Voskresenske|47.013|32.145|UA|Mykolaiv|73
+Vollmer Island|-76.733|-150.500|AQ||73|f
+Vóreios Evvoïkós Kólpos|38.734|23.204|GR|Central Greece|73|f
+Voziera Dryvyaty|55.600|27.050|BY|Vitebsk|73|f
 Voorhout|52.222|4.485|NL|South Holland|73
 Vokhma|58.931|46.759|RU|Kostroma Oblast|73
 Völkermarkt|46.662|14.634|AT|Carinthia|73
@@ -169,6 +185,10 @@ Vodstroy|48.842|44.558|RU|Volgograd Oblast|72
 Vöhrenbach|48.050|8.300|DE|Baden-Wurttemberg|72
 Volo|42.326|-88.168|US|Illinois|72
 Vouéboufla|7.623|-5.949|CI|Sassandra-Marahoue|72
+Voinjama Airport|8.400|-9.767|LR|Lofa County|72|f
+Voksa|62.218|5.462|NO|Møre og Romsdal|72|f
+Volcán de San Salvador|13.738|-89.287|SV||72|f
+Vot Tande Island|-13.260|167.642|VU|Torba|72|f
 Voinka|45.870|33.991|UA|Crimea|72
 Volovo|53.558|38.004|RU|Tula Oblast|72
 Volkmarode|52.290|10.599|DE|Lower Saxony|72
@@ -186,6 +206,11 @@ Voljevac|43.879|17.659|BA|Federation of B&H|72
 Volders|47.283|11.567|AT|Tyrol|71
 Voyvozh|62.892|54.963|RU|Komi|71
 Volary|48.909|13.887|CZ|South Bohemian Region|71
+Vogelsberg Mountains|50.520|9.239|DE|Hesse|71|f
+Volcán Cosigüina|12.971|-87.576|NI|Chinandega Department|71|f
+Volcán Galeras|1.222|-77.359|CO|Nariño|71|f
+Volcan Nyiragongo|-1.519|29.254|CD||71|f
+Vorab|46.874|9.157|CH|Grisons|71|f
 Vorselaar|51.202|4.773|BE|Flanders|71
 Volkel|51.642|5.654|NL|North Brabant|71
 Voskresenka|47.465|36.359|UA|Zaporizhzhia|71
@@ -205,6 +230,11 @@ Voskresenskoye|51.822|46.936|RU|Saratov Oblast|70
 Vollersode|53.326|8.913|DE|Lower Saxony|70
 Vozuća|44.359|18.354|BA||70
 Vouvray|47.411|0.799|FR|Centre-Val de Loire|70
+Volcán de San Miguel|13.433|-88.267|SV|San Miguel Department|70|f
+Volcán del Azufre|-25.172|-68.512|AR||70|f
+Volcan Mountains|33.164|-116.620|US|California|70|f
+Volcan Nyamulagira|-1.412|29.203|CD|North Kivu|70|f
+Vozrojdeniya Orol|45.158|59.022|UZ||70|f
 Voitinel|47.884|25.757|RO|Suceava|70
 Volturara Irpina|40.883|14.918|IT|Campania|70
 Vodnjan|44.959|13.852|HR|Istria|70
@@ -229,6 +259,12 @@ Volkertshausen|47.817|8.867|DE|Baden-Wurttemberg|69
 Vostok|48.977|142.916|RU|Sakhalin Oblast|69
 Vormedal|59.356|5.320|NO|Rogaland|69
 Volketswil / Volketswil (Dorf)|47.390|8.691|CH|Zurich|69
+Võilaid|58.516|23.367|EE|Saare|69|f
+Volcán Concepción|11.538|-85.622|NI|Rivas Department|69|f
+Volcán Ollagüe|-21.302|-68.179|CL||69|f
+Volcán San Cristóbal|12.703|-87.006|NI|Chinandega Department|69|f
+Vóras Óros|40.979|21.806|GR||69|f
+Vøringsfossen|60.427|7.251|NO|Vestland|69|f
 Voznesen’ye|61.011|35.478|RU|Leningradskaya Oblast'|69
 Vonnas|46.217|4.992|FR|Auvergne-Rhône-Alpes|69
 Volgo-Kaspiyskiy|46.203|47.919|RU|Astrakhan Oblast|69
@@ -250,6 +286,15 @@ Vojnik|46.293|15.304|SI|Municipality of Vojnik|67
 Vougoué|7.413|-7.480|CI|Montagnes|67
 Volot|57.928|30.703|RU|Novgorod Oblast|67
 Voh|-20.967|164.700|NC|North Province|67
+Vóio|40.277|21.069|GR|West Macedonia|67|f
+Volcán Bárcena|19.296|-110.820|MX|Colima|67|f
+Volcán de Guazapa|13.896|-89.121|SV||67|f
+Volcán de San Vicente|13.597|-88.838|SV|San Vicente Department|67|f
+Volcán Las Tres Vírgenes|27.470|-112.592|MX|Baja California Sur|67|f
+Volcán Siete Orejas|14.815|-91.617|GT|Quetzaltenango|67|f
+Volcán Tupungatito|-33.424|-69.796|AR||67|f
+Vozyera Chyrvonoye|52.405|27.966|BY|Homyel’ Voblasc’|67|f
+Vozyera Vyhanashchanskaye|52.683|25.948|BY|Brest|67|f
 Vozsiyatske|47.660|32.113|UA|Mykolaiv|67
 Vogelenzang|52.319|4.578|NL|North Holland|67
 Vöcklamarkt|48.002|13.484|AT|Upper Austria|66
@@ -270,6 +315,18 @@ Vorokomle|51.709|25.072|UA|Volyn|66
 Voinești|45.300|25.072|RO|Arges|66
 Vodytsia|48.071|23.955|UA|Zakarpattia|65
 Volga|44.324|-96.926|US|South Dakota|65
+Vodochody Airport|50.216|14.395|CZ|Central Bohemia|65|f
+Voëlvlei Dam|-33.365|19.042|ZA|Western Cape|65|f
+Vohilaid|58.915|23.026|EE|Hiiumaa|65|f
+Volcán de Tecapa|13.483|-88.517|SV|Usulutan|65|f
+Volcán Juriques|-22.849|-67.832|BO||65|f
+Volcán Nevado de Toluca|19.108|-99.758|MX|México|65|f
+Volcán Putana|-22.557|-67.853|BO||65|f
+Volcán San José|-33.788|-69.896|AR||65|f
+Volubilis|34.073|-5.555|MA|Fes-Meknes|65|f
+Vombsjön|55.683|13.600|SE|Skåne|65|f
+Von Postbreen|78.444|17.440|SJ|Svalbard|65|f
+Voúrinos|40.179|21.669|GR|West Macedonia|65|f
 Voskehask|40.764|43.775|AM|Shirak|65
 Voltlage|52.432|7.747|DE|Lower Saxony|65
 Vorra|49.557|11.494|DE|Bavaria|65
@@ -304,6 +361,21 @@ Volstroff|49.311|6.260|FR|Grand Est|64
 Vœuil-et-Giget|45.583|0.150|FR|New Aquitaine|64
 Voorst|52.170|6.142|NL|Gelderland|64
 Vonore|35.590|-84.242|US|Tennessee|63
+Vogelkarspitze|47.447|11.411|AT|Tyrol|63|f
+Volcán Cerro Negro|12.508|-86.702|NI|León Department|63|f
+Volcán de Pacaya|14.382|-90.602|GT|Escuintla|63|f
+Volcán Jumaytepeque|14.340|-90.270|GT|Santa Rosa Department|63|f
+Volcán Maipo|-34.165|-69.834|AR||63|f
+Volcán Michinmahuida|-42.778|-72.438|CL|Los Lagos Region|63|f
+Volcan Mikeno|-1.463|29.418|CD|North Kivu|63|f
+Volcán Miravalles|10.747|-85.151|CR|Guanacaste Province|63|f
+Volcán Reventador|-0.676|-77.670|EC|Napo|63|f
+Volcán Rota|12.550|-86.750|NI|León Department|63|f
+Volcán Sumaco|-0.541|-77.627|EC|Napo|63|f
+Volcán Tahual|14.437|-89.905|GT||63|f
+Volcan Visoke|-1.462|29.486|CD||63|f
+Vologda Airport|59.283|39.942|RU|Vologda Oblast|63|f
+Volovec|49.208|19.763|PL||63|f
 Voyevodske|48.069|31.227|UA|Mykolaiv|63
 Vorsha|56.049|40.080|RU|Vladimir Oblast|63
 Vogogna|46.010|8.291|IT|Piedmont|63
@@ -338,6 +410,34 @@ Von Ormy|29.289|-98.644|US|Texas|61
 Voskehat|40.278|44.275|AM|Aragatsotn|61
 Voghiera|44.756|11.752|IT|Emilia-Romagna|61
 Vogau|46.732|15.608|AT|Styria|61
+Volcán Atitlán|14.583|-91.187|GT|Sololá|61|f
+Volcán Barva|10.134|-84.105|CR|Heredia Province|61|f
+Volcán Cerro Azul|-0.927|-91.392|EC|Galápagos|61|f
+Volcán Chingo|14.117|-89.733|SV||61|f
+Volcán Conchagua|13.274|-87.844|SV|La Union|61|f
+Volcán de Acatenango|14.501|-90.876|GT|Chimaltenango|61|f
+Volcán de Izalco|13.814|-89.632|SV|Sonsonate Department|61|f
+Volcán de Usulután|13.417|-88.467|SV|Usulutan|61|f
+Volcán Hudson|-45.903|-72.918|CL|Aysén|61|f
+Volcán Ixtepeque|14.424|-89.683|GT|Jutiapa|61|f
+Volcán Jenchaña|-15.521|-72.346|PE|Arequipa|61|f
+Volcán Las Pilas|12.496|-86.688|NI|León Department|61|f
+Volcán Maderas|11.446|-85.516|NI|Rivas Department|61|f
+Volcán Momotombo|12.425|-86.538|NI|León Department|61|f
+Volcán Moyuta|14.030|-90.095|GT|Jutiapa|61|f
+Volcán Puntas Negras|-23.744|-67.540|CL|Antofagasta|61|f
+Volcán San Pedro|14.656|-91.266|GT|Sololá|61|f
+Volcán Santo Tomás|14.712|-91.479|GT||61|f
+Volcán Socompa|-24.395|-68.246|CL||61|f
+Volcán Tacaná|15.117|-92.100|MX||61|f
+Volcán Turrialba|10.023|-83.764|CR|Cartago Province|61|f
+Volcán Ubinas|-16.355|-70.903|PE|Moquegua Department|61|f
+Volcanic Hills|32.785|-116.147|US|California|61|f
+Volcanoes National Park|-1.500|29.500|RW|Northern Province|61|f
+Vonavona Island|-8.221|157.068|SB||61|f
+Vorsø|55.868|10.003|DK|Central Jutland|61|f
+Vostok Island|-10.063|-152.311|KI|Line Islands|61|f
+Vozera Ikazn'|55.626|27.285|BY||61|f
 Vozokany|48.566|17.995|SK|Nitra Region|61
 Voznesenske|47.621|31.533|UA|Mykolaiv|61
 Vojnić|45.324|15.699|HR|Karlovac|61
@@ -358,20 +458,269 @@ Vogar|63.982|-22.385|IS|Southern Peninsula|60
 Volpedo|44.889|8.986|IT|Piedmont|60
 Vokhaïkó|37.948|22.792|GR|Peloponnese|60
 Vorderthal|47.122|8.902|CH|Schwyz|60
+Volkovce|48.340|18.457|SK|Nitra Region|60
 Voltago Agordino|46.271|12.006|IT|Veneto|60
+Voreinó|41.028|22.079|GR|Central Macedonia|60
+Vorontsovka|59.658|60.238|RU|Sverdlovsk Oblast|60
+Vouvant|46.572|-0.769|FR|Pays de la Loire|60
+Voghjaberd|40.172|44.645|AM|Kotayk|60
+Volytsia|51.683|25.283|UA|Volyn|60
 Voćin|45.618|17.548|HR|Virovitica-Podravina|60
+Volodarskoye|52.661|66.597|KZ|North Kazakhstan|60
+Vostochnyy|48.272|142.625|RU|Sakhalin Oblast|59
+Volmunster|49.122|7.353|FR|Grand Est|59
+Voroux-Goreux|50.655|5.429|BE|Wallonia|59
+Vo|45.456|11.445|IT|Veneto|59
+Vouvray-sur-Loir|47.695|0.463|FR|Pays de la Loire|59
+Voloska Balakliya|49.617|37.331|UA|Kharkiv|59
+Voivres-lès-le-Mans|47.930|0.073|FR|Pays de la Loire|59
+Vogrsko|45.906|13.701|SI|Municipality of Renče–Vogrsko|59
+Voormezele|50.817|2.876|BE|Flanders|59
+Volodymyrivka|46.124|32.651|UA|Kherson|59
+Vovchanske|46.576|35.103|UA|Zaporizhzhia|59
+Vodnoye|44.940|33.846|UA|Crimea|59
+Voutré|48.137|-0.291|FR|Pays de la Loire|59
+Vozarci|41.430|21.925|MK|Kavadarci|59
+Voievoda|43.841|25.138|RO|Teleorman County|59
+Vorochovo|48.714|22.451|UA|Zakarpattia|59
+Vodochody|50.207|14.398|CZ|Central Bohemia|58
+Volochayevskiy|46.544|42.652|RU|Rostov|58
+Voka|59.408|27.583|EE|Ida-Virumaa|58
+Vollsjö|55.700|13.791|SE|Skåne|58
+Volcán Alcedo|-0.424|-91.121|EC|Galápagos|58|f
+Volcán Cerro Prieto|32.419|-115.306|MX|Baja California|58|f
+Volcán Chilcayoc Grande|-15.536|-72.288|PE|Arequipa|58|f
+Volcán Jechapita|-15.534|-72.311|PE|Arequipa|58|f
+Volcán La Malinche|19.233|-98.033|MX|Tlaxcala|58|f
+Volcán Mombacho|11.834|-85.978|NI|Granada Department|58|f
+Volcán Olca|-20.947|-68.480|BO||58|f
+Volcán Orosí|10.981|-85.474|CR|Guanacaste Province|58|f
+Volcán Platanar|10.299|-84.364|CR|Alajuela Province|58|f
+Volcán Quinsachata|-14.164|-71.357|PE|Cuzco Department|58|f
+Volcán Ticsani|-16.766|-70.602|PE|Moquegua Department|58|f
+Volcán Tutupaca|-17.026|-70.372|PE|Tacna|58|f
+Volcán Wolf|0.020|-91.344|EC|Galápagos|58|f
+Volcano Makaturing|7.655|124.303|PH|Autonomous Region in Muslim Mindanao|58|f
+Volos Army Airport|39.383|22.918|GR|Thessaly|58|f
+Völtendorf Airport|48.160|15.586|AT|Lower Austria|58|f
+Von Bach Dam|-22.004|16.968|NA|Otjozondjupa Region|58|f
+Vontrigger Hills|35.065|-115.117|US|California|58|f
+Vorrkulten Mountain|-73.070|-1.908|AQ||58|f
+Vortex Island|-63.726|-57.642|AQ||58|f
+Volokhiv Yar|49.601|36.978|UA|Kharkiv|58
+Vojkovice|49.682|18.468|CZ|Moravian-Silesian Region|58
+Vogelsang|52.182|14.664|DE|Brandenburg|58
+Voynegovtsi|42.801|23.422|BG|Sofia-Capital|58
+Voiteur|46.754|5.611|FR|Bourgogne-Franche-Comté|58
+Vovchynets|48.183|25.433|UA|Chernivtsi|58
+Voloshkove|48.475|27.503|UA|Chernivtsi|58
+Vogüé|44.551|4.414|FR|Auvergne-Rhône-Alpes|58
+Voskresenka|46.815|35.876|UA|Zaporizhzhia|58
+Vogelsberg|51.133|11.250|DE|Thuringia|58
+Voitove|50.468|31.568|UA|Kyiv Oblast|58
+Vokzal-Horodnia|51.905|31.642|UA|Chernihiv Oblast|57
+Vordersee|47.750|13.250|AT|Salzburg|57
+Volčja Draga|45.907|13.678|SI|Municipality of Renče–Vogrsko|57
+Voronove|48.899|38.573|UA|Luhansk|57
+Volnay|47.933|0.468|FR|Pays de la Loire|57
+Vojvodinci|45.016|21.348|RS|Vojvodina|57
+Vóroi|35.068|24.810|GR|Crete|57
+Vollore-Ville|45.785|3.600|FR|Auvergne-Rhône-Alpes|57
+Voúnargo|37.736|21.408|GR|West Greece|57
+Vojnův Městec|49.679|15.878|CZ|Vysocina|57
+Vodiana Balka|49.903|34.480|UA|Poltava|57
+Voorweg|52.089|4.621|NL|South Holland|57
+Vornholz|47.397|15.826|AT|Styria|57
+Voskepar|41.065|45.056|AM|Tavush|57
+Vorona Mare|47.556|26.616|RO|Botoșani County|57
+Vopnafjörður|65.757|-14.828|IS|East|57
+Volodymyrivka|47.589|30.874|UA|Mykolaiv|57
+Voskobiynyky|50.029|34.157|UA|Poltava|57
+Vorderweidenthal|49.133|7.883|DE|Rheinland-Pfalz|57
+Volodymyrivka|48.439|37.349|UA|Donetsk|57
+Vononloho|10.124|-6.002|CI|Savanes District|57
+Voskresenskoye|53.546|38.843|RU|Lipetsk Oblast|57
+Voislova|45.528|22.460|RO|Caraș-Severin County|57
+Voglje|46.216|14.439|SI|Municipality of Šenčur|56
+Völkersweiler|49.167|7.933|DE|Rheinland-Pfalz|56
+Volfířov|49.107|15.370|CZ|South Bohemian Region|56
+Vocance|45.201|4.553|FR|Auvergne-Rhône-Alpes|56
+Voděrady|50.209|16.153|CZ|Hradec Králové Region|56
+Voronovytsya|48.549|26.668|UA|Chernivtsi|56
+Voznica|48.461|18.699|SK|Banská Bystrica Region|56
+Vojkovice|50.296|14.375|CZ|Central Bohemia|56
+Volya-Baranetska|49.617|23.129|UA|Lviv|56
+Vornychany|48.419|26.485|UA|Chernivtsi|56
 Vodo|46.419|12.246|IT|Veneto|56
+Võnnu|58.278|27.048|EE|Tartu|56
+Vovkivske|46.825|30.880|UA|Odesa|56
+Vorstadt|47.203|14.282|AT|Styria|56
+Vorderweissenbach|48.552|14.218|AT|Upper Austria|56
+Volodymyrivka|46.727|35.858|UA|Zaporizhzhia|56
+Voskresenka|46.323|34.157|UA|Kherson|56
+Vozrozhdeniye|45.173|35.032|UA|Crimea|56
+Vorderschneeberg|47.144|13.109|AT|Salzburg|56
+Voyennes|49.771|2.986|FR|Hauts-de-France|56
+Völschow|53.878|13.336|DE|Mecklenburg-Vorpommern|56
+Volfartice|50.730|14.453|CZ|Liberec Region|56
+Voyevodivka|48.981|38.446|UA|Luhansk|55
+Vozhd’ Proletariata|55.438|39.304|RU|Moscow Oblast|55
+Vostochnoye|45.219|35.027|UA|Crimea|55
 Voulgaréli|39.372|21.183|GR|Epirus|55
+Volče|46.175|13.708|SI|Municipality of Tolmin|55
+Vojkovice|50.303|13.016|CZ|Carlsbad Region|55
+Voineșița|45.415|23.967|RO|Vâlcea County|55
+Vollmersbach|49.733|7.317|DE|Rheinland-Pfalz|55
+Vomperbach|47.333|11.667|AT|Tyrol|55
+Volesvres|46.472|4.160|FR|Bourgogne-Franche-Comté|55
 Voltaggio|44.621|8.843|IT|Piedmont|55
+Vodicë|40.677|20.009|AL|Berat County|55
+Vonoklasy|49.950|14.277|CZ|Central Bohemia|55
+Vouillé-les-Marais|46.388|-0.964|FR|Pays de la Loire|55
+Volente|30.434|-97.904|US|Texas|55
+Volkesfeld|50.400|7.150|DE|Rheinland-Pfalz|55
+Voděrady|49.481|16.558|CZ|South Moravian|55
+Vorderbruck|47.877|15.908|AT|Lower Austria|55
+Vorovești|47.140|27.464|RO|Iași County|55
+Voivodeni|45.780|24.861|RO|Brașov County|55
+Vochov|49.757|13.279|CZ|Plzeň Region|55
+Voǵani|41.283|21.340|MK|Krivogashtani|55
+Volenice|49.252|13.748|CZ|South Bohemian Region|55
+Voroveni|45.026|25.065|RO|Arges|55
+Voinsles|48.691|3.005|FR|Île-de-France|55
+Voivozi|47.470|22.040|RO|Bihor County|55
+Vollrathsruhe|53.644|12.488|DE|Mecklenburg-Vorpommern|55
+Vogelgrun|48.014|7.570|FR|Grand Est|55
 Volongo|45.212|10.302|IT|Lombardy|55
+Voerså|57.208|10.487|DK|North Denmark|55
+Vorderschroffenau|47.799|13.187|AT|Salzburg|55
+Voskresenka|47.955|36.644|UA|Donetsk|55
+Vouzeron|47.260|2.222|FR|Centre-Val de Loire|54
+Vouvopótamos|39.310|20.609|GR|Epirus|54
+Võiste|58.467|24.483|EE|Pärnumaa|54
+Voze|44.214|8.396|IT|Liguria|54
+Vodno|41.965|21.395|MK||54|f
+Vogel Glacier|-64.992|-63.116|AQ||54|f
+Vohemar Airport|-13.376|50.003|MG|Sava|54|f
+Vohibory Nord|-22.567|46.717|MG|Ihorombe|54|f
+Voit Peak|-66.658|-65.530|AQ||54|f
+Volcán Apagado|-41.884|-72.589|CL|Los Lagos Region|54|f
+Volcán Azufral|1.085|-77.719|CO|Nariño|54|f
+Volcán Chiquibal|14.790|-91.655|GT|Quetzaltenango|54|f
+Volcán de Ipala|14.560|-89.644|GT||54|f
+Volcán El Jorullo|18.973|-101.718|MX|Michoacán|54|f
+Volcán Isluga|-19.156|-68.834|CL|Tarapacá|54|f
+Volcán Jumay|14.694|-89.993|GT|Jalapa|54|f
+Volcán Las Animas|1.565|-76.858|CO|Nariño|54|f
+Volcán Lautaro|-49.021|-73.501|CL|Region of Magallanes|54|f
+Volcán Linzor|-22.149|-67.968|BO||54|f
+Volcán Masaya|11.985|-86.161|NI|Masaya Department|54|f
+Volcán Osorno|-41.105|-72.496|CL||54|f
+Volcán Poás|10.197|-84.229|CR|Alajuela Province|54|f
+Volcán San Pablo|-21.877|-68.364|CL|Antofagasta|54|f
+Volcán San Pedro|-21.888|-68.391|CL|Antofagasta|54|f
+Volcán Sotará|2.109|-76.591|CO|Cauca Department|54|f
+Volcán Suchitán|14.399|-89.779|GT|Jutiapa|54|f
+Volcán Tacora|-17.721|-69.772|CL|Arica y Parinacota Region|54|f
+Volcán Tecuamburro|14.154|-90.403|GT|Santa Rosa Department|54|f
+Volcán Telica|12.606|-86.842|NI|León Department|54|f
+Volcán Tinguiririca|-34.817|-70.353|CL|O'Higgins Region|54|f
+Volcán Tolimán|14.618|-91.187|GT|Sololá|54|f
+Volcanes Chilcayoc|-15.523|-72.313|PE|Arequipa|54|f
+Volcanic Hills|37.978|-118.119|US|Nevada|54|f
+Volcano Island|14.022|120.984|PH|Calabarzon|54|f
+Voliere Zürich|47.362|8.536|CH|Zurich|54|f
+Volkel Airport|51.656|5.709|NL|North Brabant|54|f
+Volkner Rocks|-37.478|177.131|NZ|Auckland|54|f
+Volunteer Park|36.013|-83.831|US|Tennessee|54|f
+Von Essen Mountain|-72.267|2.383|AQ||54|f
+Von Tunzelman Point|-71.300|170.183|AQ||54|f
+Vondelpark|52.357|4.867|NL|North Holland|54|f
+Võngjärv|58.329|27.145|EE|Tartu|54|f
+Vorrnipa Peak|-73.125|-1.833|AQ||54|f
+Vorrtind Peak|-73.092|-1.567|AQ||54|f
+Vorweg Point|-65.950|-64.782|AQ||54|f
+Võisiku|58.628|25.921|EE|Jõgevamaa|54
+Voulmentin|46.944|-0.514|FR|New Aquitaine|54
+Vovkove|48.522|22.470|UA|Zakarpattia|54
+Vodyano-Loryne|47.572|32.096|UA|Mykolaiv|54
+Voklo|46.216|14.423|SI|Municipality of Šenčur|54
+Volckerinckhove|50.839|2.305|FR|Hauts-de-France|54
+Vœgtlinshoffen|48.021|7.282|FR|Grand Est|54
 Voloiac|44.617|23.100|RO|Mehedinți County|53
 Voltago|46.273|12.006|IT|Veneto|53
 Volturara Appula|41.496|15.052|IT|Apulia|52
 Voiteștii din Vale|45.087|23.421|RO|Gorj County|51
+Vollmershain|50.850|12.300|DE|Thuringia|50
+Volkmannsdorf|50.611|11.732|DE|Thuringia|50
+Vodokhranilishche Sayran|43.242|76.864|KZ|Almaty|49|f
+Vodopad Kivach|62.267|33.983|RU|Karelia|49|f
+Voe of Cullingsburgh|60.167|-1.067|GB|Scotland|49|f
+Vogel|46.239|13.812|SI|Municipality of Tolmin|49|f
+Vogel Peak|-54.567|-36.233|GS||49|f
+Vogelsang|48.934|12.944|DE|Bavaria|49|f
+Vogler Peak|-77.633|162.200|AQ||49|f
+Vohimanga|-24.053|45.502|MG|Androy|49|f
+Voi Airport|-3.370|38.533|KE|Taita Taveta|49|f
+Vojnik|42.941|19.000|ME||49|f
+Volcan de Tequila|20.787|-103.846|MX|Jalisco|49|f
+Volcano Peak|38.501|-118.088|US|Nevada|49|f
+Volcano Peak|40.795|-113.977|US|Utah|49|f
+Volkmarsberg|48.792|10.086|DE|Baden-Wurttemberg|49|f
+Von Guerard Glacier|-77.650|163.333|AQ||49|f
+Voorspoed Diamond Mine|-27.398|27.203|ZA|Free State|49|f
+Vorder-Grauspitz|47.053|9.581|LI||49|f
+Vorderer Wildgundkopf|47.346|10.285|DE|Bavaria|49|f
+Vorderseespitze|47.183|10.367|AT|Tyrol|49|f
+Voreifel|50.162|7.096|DE|Rheinland-Pfalz|49|f
+Vorovoro Island|-16.343|179.314|FJ|Northern|49|f
+Voss-Bo|60.639|6.502|NO|Vestland|49|f
+Vostochnyy Khrebet|55.472|160.797|RU|Kamchatka|49|f
+Votna|59.839|6.940|NO|Vestland|49|f
+Vollenborn|51.362|10.507|DE|Thuringia|49
 Vottignasco|44.564|7.579|IT|Piedmont|49
+Volkerode|51.267|10.067|DE|Thuringia|48
 Vorderhornbach|47.370|10.539|AT|Tyrol|48
+Vollmersweiler|49.065|8.077|DE|Rheinland-Pfalz|47
+Vollersroda|50.936|11.331|DE|Thuringia|47
+Vollerwiek|54.291|8.798|DE|Schleswig-Holstein|47
 Voltido|45.112|10.333|IT|Lombardy|45
+Vollstedt|54.617|9.033|DE|Schleswig-Holstein|44
 Vobbia|44.601|9.039|IT|Liguria|43
+Volkerzen|50.717|7.683|DE|Rheinland-Pfalz|40
+Vogel State Park|34.732|-83.917|US|Georgia|40|f
+Vogelberg|46.478|9.065|CH|Ticino|40|f
+Vogelberg (Passwang)|47.368|7.683|CH|Solothurn|40|f
+Vogelpark Avifauna|52.140|4.649|NL|South Holland|40|f
+Vogelsang Peak|37.777|-119.349|US|California|40|f
+Vokil Point|-62.792|-61.519|AQ||40|f
+Volcán Chaitén|-42.836|-72.650|CL|Los Lagos Region|40|f
+Volcán Santa María|14.757|-91.552|GT|Quetzaltenango|40|f
+Volcán Tajumulco|15.033|-91.900|GT|San Marcos|40|f
+Volcano Lake|49.779|-125.905|CA|British Columbia|40|f
+Volcano Mountain|62.923|-137.382|CA|Yukon|40|f
+Völkerkundemuseum der Universität Zürich|47.371|8.534|CH|Zurich|40|f
+Volksgarten|48.208|16.362|AT|Vienna|40|f
+Volksgarten|51.205|6.798|DE|North Rhine-Westphalia|40|f
+Volksgarten|50.921|6.947|DE|North Rhine-Westphalia|40|f
+Volksoper|48.224|16.350|AT|Vienna|40|f
+Volkswagen Halle|52.257|10.519|DE|Lower Saxony|40|f
+Vollkarspitze|47.422|11.035|DE|Bavaria|40|f
+Volta Glacier|-44.367|168.767|NZ||40|f
+Voltz Lake|42.507|-88.084|US|Wisconsin|40|f
+Volunteer Park|47.630|-122.316|US|Washington|40|f
+Völzberger Köpfchen|50.459|9.303|DE|Hesse|40|f
+Voorhees State Park|40.690|-74.896|US|New Jersey|40|f
+Voorne-Putten|51.845|4.203|NL|South Holland|40|f
+Voralpsee|47.158|9.378|CH|Saint Gallen|40|f
+Vorarlberghalle|47.242|9.588|AT|Vorarlberg|40|f
+Vorder Glärnisch|47.022|9.041|CH|Glarus|40|f
+Vordere Brandjochspitze|47.303|11.342|AT|Tyrol|40|f
+Vordere Ölgrubenspitzen|46.908|10.773|AT|Tyrol|40|f
+Vornberger Glacier|-73.917|-125.067|AQ||40|f
+Vostervatnet|59.096|5.978|NO|Rogaland|40|f
+Voyageur Provincial Park|45.557|-74.433|CA|Ontario|40|f
+Voyteh Point|-62.579|-61.145|AQ||40|f
 Volpara|44.954|9.297|IT|Lombardy|38
 Volpeglino|44.893|8.959|IT|Piedmont|37
 Vocca|45.833|8.196|IT|Piedmont|34

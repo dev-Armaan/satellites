@@ -1,6 +1,7 @@
 Pyongyang|39.034|125.754|KP|Pyongyang|130
 P'yŏngan-bukto|40.050|125.267|KP||114|r
 Pyeongtaek|36.995|127.089|KR|Gyeonggi-do|111
+Pyrenees|42.667|1.000|||104|f
 Pyatigorsk|44.050|43.050|RU|Stavropol Kray|103
 Pyay|18.820|95.216|MM|Bago Region|103
 Pyin Oo Lwin|22.035|96.457|MM|Mandalay Region|101
@@ -12,9 +13,11 @@ Pyu|18.481|96.437|MM|Bago Region|92
 Pylaía|40.599|22.986|GR|Central Macedonia|91
 Pyawbwe|20.592|96.052|MM|Mandalay Region|90
 Pyan Lel Nay Yar Cha Htar Ye|16.972|96.127|MM|Yangon|88
+Pyramid of the Sun|19.692|-98.844|MX|México|87|f
 Pýrgos|37.675|21.441|GR|West Greece|87
 Pyskowice|50.400|18.633|PL|Silesia|86
 Pyatykhatky|48.408|33.709|UA|Dnipropetrovsk|85
+Pyramid of Djoser|29.871|31.216|EG|Giza|84|f
 Pyryatyn|50.244|32.520|UA|Poltava|84
 Pyin Ma Pin|16.996|96.132|MM|Yangon|83
 Pyle|51.517|-3.700|GB|Wales|83
@@ -25,9 +28,13 @@ Pymble|-33.744|151.142|AU|New South Wales|81
 Pyi Taw Thar|16.936|96.127|MM|Yangon|80
 Pyshma|56.953|63.252|RU|Sverdlovsk Oblast|80
 Pyeongchang|37.370|128.393|KR|Gangwon-do|80
+Pyramid Lake|40.045|-119.565|US|Nevada|79|f
 Pythagóreio|37.691|26.943|GR|North Aegean|78
 Pyhäselkä|62.433|29.967|FI|North Karelia|77
+Pyramid of Hawara|29.274|30.899|EG|Faiyum|77|f
 Pytalovo|57.069|27.915|RU|Pskov Oblast|77
+Pyongyang Sunan International Airport|39.224|125.670|KP|Pyongyang|76|f
+Pyramid of Kheops|29.979|31.134|EG|Giza|76|f
 Pyhäjärvi|67.070|27.218|FI|Lapland|76
 Pyrbaum|49.296|11.287|DE|Bavaria|75
 Pyawbwe Gyi|16.677|96.144|MM|Yangon|75
@@ -39,12 +46,18 @@ Pyatnitskoye|50.423|37.827|RU|Belgorod Oblast|74
 Pyhäjärvi|63.681|25.981|FI|North Ostrobothnia|73
 Pyāla|28.266|77.312|IN|Haryana|73
 Pyawbwe Lay|16.746|96.092|MM|Yangon|72
+Pyramids of Giza|29.977|31.132|EG|Giza|71|f
 Pyshchug|58.887|45.717|RU|Kostroma Oblast|70
 Pyzdry|52.171|17.690|PL|Greater Poland|70
 Pychas|56.503|52.441|RU|Udmurtiya Republic|70
+Pyramid of Sahure|29.900|31.200|EG|Giza|70|f
 P'yatypill'ya|48.016|38.100|UA|Donetsk|70
 Pyhäjoki|64.467|24.233|FI|North Ostrobothnia|69
 Pysznica|50.570|22.129|PL|Subcarpathia|69
+Pyramid Island|-0.902|33.939|KE|Migori County|69|f
+Pyramid of El Lahun|29.236|30.971|EG|Faiyum|69|f
+Pyrmont Bridge|-33.871|151.201|AU|New South Wales|69|f
+Pywiack Dome|37.846|-119.443|US|California|69|f
 Pyatovskiy|54.689|36.056|RU|Kaluga Oblast|69
 Pyaozerskiy|65.769|31.089|RU|Karelia|68
 Pylí|36.845|27.159|GR|South Aegean|68
@@ -52,13 +65,22 @@ Pyatikhatka|45.323|34.255|UA|Crimea|68
 Pýlos|36.913|21.697|GR|Peloponnese|67
 Pyšely|49.877|14.677|CZ|Central Bohemia|67
 Pymatuning Central|41.585|-80.480|US|Pennsylvania|67
+Pyramid of Unas|29.867|31.217|EG|Giza|67|f
+Pyramidenkogel|46.608|14.145|AT|Carinthia|67|f
 Pyiterfolvo|48.067|22.923|UA|Zakarpattia|66
 Pyra|56.295|43.353|RU|Nizhny Novgorod Oblast|66
 Pyatryshki|54.069|27.218|BY|Minsk|66
 Pyhäranta|60.950|21.450|FI|Southwest Finland|66
+Pyasinskiy Zaliv|74.023|85.998|RU|Krasnoyarsk Krai|65|f
+Pýdna|40.377|22.619|GR|Central Macedonia|65|f
+Pyramid of Userkaf|29.867|31.217|EG|Giza|65|f
 Pýli|39.458|21.619|GR|Thessaly|65
 Pysarivka|48.050|29.045|UA|Odesa|64
 Pyhäntä|64.100|26.317|FI|North Ostrobothnia|64
+P’yohun-sa|38.630|128.068|KP|Kangwŏn-do|63|f
+Pyramid Hills|35.817|-120.026|US|California|63|f
+Pyramid Mountain|52.951|-118.150|CA|Alberta|63|f
+Pyramid Peak|39.071|-106.950|US|Colorado|63|f
 Pýla|35.005|33.689|CY|Larnaka|63
 Pyanhirou|7.284|-7.458|CI|Montagnes|63
 Pyrgos|34.742|33.183|CY|Limassol|63
@@ -68,8 +90,69 @@ Pyin Ka Do|16.576|95.909|MM|Yangon|62
 Pyhra|48.159|15.686|AT|Lower Austria|61
 Pyrgetós|39.553|21.748|GR|Thessaly|61
 Pýrgos|35.006|25.152|GR|Crete|61
+Pyhä-Häkin Kansallispuisto|62.847|25.462|FI|Central Finland|61|f
+Pyramid of Pepi I|29.855|31.219|EG|Giza|61|f
 Pylypets|48.659|23.283|UA|Zakarpattia|61
 Pyrgíon|38.226|26.000|GR|North Aegean|61
 Pylkönmäki|62.667|24.800|FI|Central Finland|60
+Pyadykivtsi|48.382|25.648|UA|Chernivtsi|60
+Pyzówka|49.515|19.937|PL|Lesser Poland|59
+Pýthio|40.066|22.231|GR|Thessaly|59
+Pyrohy|49.348|33.175|UA|Poltava|58
+Pyramid Mountain|48.075|-123.808|US|Washington|58|f
+Pyramid of Merenra|29.851|31.215|EG|Giza|58|f
+Pyramid Peak|38.845|-120.158|US|California|58|f
+Pyramid Peak|32.238|-108.719|US|New Mexico|58|f
+Pyroxenite Promontory|-82.616|-53.000|AQ||58|f
+Pyttegga|62.212|7.696|NO|Møre og Romsdal|58|f
+Pyar Hmut|16.490|96.158|MM|Yangon|58
+Pyrizhky|50.831|29.210|UA|Zhytomyr Oblast|57
+Pysarivka|49.421|34.606|UA|Poltava|57
+Pylesville|39.690|-76.373|US|Maryland|57
+Pyalong|-37.113|144.852|AU|Victoria|56
+Pyramid Hill|-36.056|144.115|AU|Victoria|55
+Pyshnenky|50.069|34.478|UA|Poltava|55
+Py Point|-64.879|-63.597|AQ||54|f
+Pyhäjärvi|63.583|25.950|FI|North Ostrobothnia|54|f
+Pyhäjärvi|61.408|23.476|FI|Pirkanmaa|54|f
+Pyhäjärvi|61.310|26.360|FI|Paijat-Hame|54|f
+Pyhäjärvi|61.000|22.300|FI|Satakunta|54|f
+Pyhäselkä|62.517|29.664|FI|North Karelia|54|f
+Pyke Glacier|-64.194|-59.649|AQ||54|f
+Pykestone Hill|55.568|-3.313|GB|Scotland|54|f
+Pylon Point|-68.093|-65.069|AQ||54|f
+Pyramid Glaciers|46.821|-121.791|US|Washington|54|f
+Pyramid of Pepi II|29.833|31.217|EG|Giza|54|f
+Pyramid of the Moon|19.699|-98.844|MX|México|54|f
+Pyramid Peak|43.796|-113.991|US|Idaho|54|f
+Pyramid Peak|48.873|-113.832|US|Montana|54|f
+Pyre Peak|52.316|-172.516|US|Alaska|54|f
+Pyrites Island|-61.924|-57.949|AQ||54|f
+Pyrox Island|-68.209|-66.696|AQ||54|f
+Pythia Island|-64.540|-61.983|AQ||54|f
+Pyne Glacier|-77.067|162.300|AQ||49|f
+Pyramid Lake|-54.660|158.870|AU|Tasmania|49|f
+Pyramid Peak|-72.267|165.583|AQ||49|f
+Pyramid Peak|36.907|-118.462|US|California|49|f
+Pyramid Peak|46.807|-121.812|US|Washington|49|f
+Pyramidenspitze|47.600|12.267|AT|Tyrol|49|f
+Pythagoras Peak|-66.983|51.350|AQ||49|f
+Pyxis Ridge|-71.265|-66.781|AQ||49|f
+Pye Green BT Tower|52.729|-2.020|GB|England|40|f
+Pylon Peak|50.597|-123.519|CA|British Columbia|40|f
+Pylon Peak|42.769|-109.236|US|Wyoming|40|f
+Pymatuning State Park|41.523|-80.491|US|Pennsylvania|40|f
+Pyramid 1-066 Dam|34.645|-118.764|US|California|40|f
+Pyramid Creek Falls Park|52.367|-119.169|CA|British Columbia|40|f
+Pyramid Lake|52.922|-118.098|CA|Alberta|40|f
+Pyramid Lake|38.848|-120.141|US|California|40|f
+Pyramid Lake|34.658|-118.776|US|California|40|f
+Pyramid Mountain|51.983|-120.103|CA|British Columbia|40|f
+Pyramid Mountain|45.283|-109.754|US|Montana|40|f
+Pyramid Mountains|32.192|-108.721|US|New Mexico|40|f
+Pyramid Peak|47.111|-121.405|US|Washington|40|f
+Pyramid Peak|61.307|-142.327|US|Alaska|40|f
+Pyramids of Güímar|28.321|-16.414|ES|Canary Islands|40|f
+Pyyvesi|62.158|29.112|FI|Paijat-Hame|40|f
 Pyhäsalmi|63.683|25.983|FI|North Ostrobothnia|0
 Pyūthān|28.089|82.884|NP|Lumbini Province|0

@@ -22,6 +22,7 @@ Wellington|11.366|76.784|IN|Tamil Nadu|86
 Welgelegen|5.842|-55.219|SR|Paramaribo District|86
 Wels|48.167|14.033|AT|Upper Austria|85
 Welby|39.837|-104.959|US|Colorado|83
+Wellington International Airport|-41.327|174.805|NZ|Wellington Region|83|f
 Wells Branch|30.446|-97.679|US|Texas|82
 Wellington Point|-27.483|153.250|AU|Queensland|82
 Welzheim|48.877|9.634|DE|Baden-Wurttemberg|81
@@ -37,6 +38,7 @@ Wellinghofen|51.469|7.490|DE|North Rhine-Westphalia|77
 Wellen|50.841|5.339|BE|Flanders|77
 Welshpool|52.660|-3.147|GB|Wales|77
 Welcome|34.827|-82.439|US|South Carolina|76
+Welshpool Airport|52.629|-3.153|GB|Wales|76|f
 Wellesbourne Mountford|52.192|-1.610|GB|England|76
 Wellesbourne|52.197|-1.591|GB|England|75
 Weldon Spring|38.713|-90.689|US|Missouri|75
@@ -57,6 +59,7 @@ Welwyn|51.833|-0.214|GB|England|70
 Wellesley|43.477|-80.762|CA|Ontario|70
 Welverdiend|-26.388|27.278|ZA|Gauteng|70
 Welsh|30.236|-92.823|US|Louisiana|70
+Welke Airport|45.722|-85.520|US|Michigan|70|f
 Wellendingen|48.147|8.704|DE|Baden-Wurttemberg|70
 Welham Green|51.735|-0.221|GB|England|70
 Wellin|50.081|5.114|BE|Wallonia|69
@@ -69,6 +72,7 @@ Welschbillig|49.850|6.567|DE|Rheinland-Pfalz|68
 Wellford|34.951|-82.106|US|South Carolina|68
 Well|51.550|6.089|NL|Limburg|68
 Wellston|38.673|-90.299|US|Missouri|67
+Wellsboro Johnston Airport|41.728|-77.397|US|Pennsylvania|67|f
 Wells|43.746|-93.729|US|Minnesota|67
 Wellington|34.856|-100.214|US|Texas|67
 Wells-next-the-Sea|52.952|0.851|GB|England|67
@@ -91,10 +95,112 @@ Welschenrohr|47.281|7.527|CH|Solothurn|61
 Wélélokaha|8.844|-5.795|CI|Savanes District|61
 Wellsville|39.072|-91.570|US|Missouri|61
 Welcome Beach|49.480|-123.892|CA|British Columbia|61
+Welcome Mountain|-72.233|160.200|AQ||61|f
+Wells Airport|43.130|-85.505|US|Michigan|61|f
+Wells Island|39.550|-81.020|US|West Virginia|61|f
+Wels Airport|48.183|14.041|AT|Upper Austria|61|f
 Welford|52.417|-1.059|GB|England|60
+Wela|-11.654|43.281|KM|Grande Comore|60
+Weleetka|35.336|-96.136|US|Oklahoma|60
+Welschneudorf|50.373|7.798|DE|Rheinland-Pfalz|60
+Welling|50.333|7.317|DE|Rheinland-Pfalz|59
+Welland|52.058|-2.299|GB|England|59
+Welland|-34.904|138.558|AU|South Australia|59
+Welda|51.452|9.109|DE|North Rhine-Westphalia|58
+Welch Island|43.601|-71.361|US|New Hampshire|58|f
+Welch Peaks|47.845|-123.062|US|Washington|58|f
+Welchness|-63.482|-56.258|AQ||58|f
+Welcome Islands|-53.970|-37.494|GS||58|f
+Weldon Spring Conservation Area|38.675|-90.770|US|Missouri|58|f
+Weli Point|21.894|-159.574|US|Hawaii|58|f
+Wellington Municipal Airport|37.324|-97.387|US|Kansas|58|f
+Wellsville Municipal Airport-Tarantine Field|42.110|-77.992|US|New York|58|f
+Welcome|30.059|-90.868|US|Louisiana|58
+Wells|31.489|-94.940|US|Texas|58
+Wellston|35.694|-97.063|US|Oklahoma|58
+Wellington|39.134|-93.983|US|Missouri|58
+Welbsleben|51.707|11.424|DE|Saxony-Anhalt|58
+Welling|35.878|-94.901|US|Oklahoma|58
+Wellen|49.667|6.433|DE|Rheinland-Pfalz|58
+Wellsburg|42.459|-92.939|US|Iowa|57
+Wellenstein|49.524|6.342|LU|Remich|57
+Welaka|29.479|-81.671|US|Florida|57
+Welcome|43.667|-94.619|US|Minnesota|56
+Welbourn|53.076|-0.559|GB|England|56
+Welch|36.874|-95.096|US|Oklahoma|56
+Wellbank|56.524|-2.860|GB|Scotland|56
+Welgesheim|49.883|7.967|DE|Rheinland-Pfalz|56
+Wellington|38.216|-85.669|US|Kentucky|55
+Welsum|52.336|6.092|NL|Overijssel|55
+Wellsburg|42.016|-76.727|US|New York|55
+Welney|52.523|0.248|GB|England|55
 Wellow|51.324|-2.374|GB|England|54
+Welterod|50.133|7.883|DE|Rheinland-Pfalz|54
+Weldon Glacier|-76.550|-29.333|AQ||54|f
+Weller Island|-65.446|-65.390|AQ||54|f
+Wellesley Island|44.316|-76.012|US|New York|54|f
+Wellesley Islands|-16.700|139.500|AU|Queensland|54|f
+Wellesloot|52.945|5.632|NL|Friesland|54|f
+Wellington Harbour|-41.283|174.833|NZ||54|f
+Wellington Reservoir|-33.400|116.017|AU|Western Australia|54|f
+Wellman Glacier|-64.483|-61.400|AQ||54|f
+Welmbüttel|54.197|9.247|DE|Schleswig-Holstein|54
+Welagedara Stadium|7.491|80.373|LK|North Western Province|49|f
+Welch Island|-67.560|62.928|AQ||49|f
+Welch Mountains|-70.946|-63.519|AQ||49|f
+Welch Stadium|38.418|-96.180|US|Kansas|49|f
+Welford National Park|-25.044|143.383|AU|Queensland|49|f
+Weller, Mount|-67.283|50.667|AQ||49|f
+Wellesley Islands|-16.573|139.349|AU|Queensland|49|f
+Wellington Park|-42.890|147.100|AU|Tasmania|49|f
+Wellington Weir|-33.402|115.979|AU|Western Australia|49|f
+Wells Glacier|-73.552|-61.254|AQ||49|f
+Wells Peak|38.123|-119.528|US|California|49|f
+Welsh Harp|51.570|-0.247|GB|England|49|f
+Weltersburg|50.532|7.961|DE|Rheinland-Pfalz|49
+Welt|54.302|8.795|DE|Schleswig-Holstein|47
+Welchweiler|49.578|7.505|DE|Rheinland-Pfalz|46
+Welkenbach|50.633|7.726|DE|Rheinland-Pfalz|43
+Welcherath|50.317|6.967|DE|Rheinland-Pfalz|43
+Welaka National Fish Hatchery|29.446|-81.650|US|Florida|40|f
+WELC-FM (Welch)|37.417|-81.616|US|West Virginia|40|f
+Welch Municipal Airport|37.419|-81.530|US|West Virginia|40|f
+Welch Peak|49.160|-121.601|CA|British Columbia|40|f
+WELE-AM (Ormond Beach)|29.269|-81.081|US|Florida|40|f
+WELF-TV (Dalton)|34.952|-85.383|US|Georgia|40|f
+Well Bay|50.800|-57.215|CA|Newfoundland and Labrador|40|f
+Wellenkuppe|46.042|7.678|CH|Valais|40|f
+Weller Pond|44.284|-74.280|US|New York|40|f
+Wellers Bay|44.017|-77.599|CA|Ontario|40|f
+Wellesley Glacier|61.198|-147.935|US|Alaska|40|f
+Wellesley Island State Park|44.329|-76.024|US|New York|40|f
+Wellesley Lake|62.345|-139.827|CA|Yukon|40|f
+Wellesley Square Station|42.297|-71.295|US|Massachusetts|40|f
+Wellhorn|46.656|8.142|CH|Bern|40|f
+Wellington Bay|69.334|-106.586|CA|Nunavut|40|f
+Wellington Botanic Garden|-41.283|174.768|NZ|Wellington Region|40|f
+Wellington Hills|37.587|-116.805|US|Nevada|40|f
+Wells Dam|47.947|-119.866|US|Washington|40|f
+Wells Fargo Pavilion|38.582|-121.486|US|California|40|f
+Wells Gray Park|52.333|-120.003|CA|British Columbia|40|f
+Wells Lake|44.288|-93.344|US|Minnesota|40|f
+Wells Ridge|-76.967|-144.750|AQ||40|f
+Wells State Park|42.146|-72.067|US|Massachusetts|40|f
+Wells, Mount|-85.167|-169.800|AQ||40|f
+Wellsee|54.281|10.184|DE|Schleswig-Holstein|40|f
+Wellsville Mountains|41.653|-111.989|US|Utah|40|f
+WELM-AM (Elmira)|42.120|-76.810|US|New York|40|f
+Weltkulturen Museum|50.106|8.679|DE|Hesse|40|f
+Weltmuseum Wien|48.205|16.364|AT|Vienna|40|f
+WELU-TV (Aguadilla)|18.311|-67.185|PR|Rincón|40|f
+WELY-AM (Ely)|47.894|-91.867|US|Minnesota|40|f
+Welschenbach|50.367|7.067|DE|Rheinland-Pfalz|35
+Welahan|-8.209|111.784|ID|East Java|0
+Welai|-8.235|124.561|ID|East Nusa Tenggara|0
 Welamosa|-8.606|121.718|ID|East Nusa Tenggara|0
 Welchman Hall|13.187|-59.577|BB|Saint Thomas|0
+Weleng|-8.405|120.523|ID|East Nusa Tenggara|0
 Welford|51.457|-1.411|GB|England|0
+Welibo|-9.726|119.340|ID|East Nusa Tenggara|0
 Wellington|52.129|-2.742|GB|England|0
 Welton|53.732|-0.552|GB|England|0

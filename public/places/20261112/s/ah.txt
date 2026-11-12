@@ -34,6 +34,7 @@ Ahram|28.883|51.275|IR|Bushehr|84
 Ahwa|20.757|73.686|IN|Gujarat|84
 Ahiri|19.414|80.004|IN|Maharashtra|83
 Aḥmad Ābād Mostūfī|35.640|51.213|IR|Tehran|83
+Ahe Airport|-14.428|-146.257|PF|Tuamotu-Gambier Islands|82|f
 Ahmedihani|39.549|44.084|TR|Ağrı|82
 Ah Twin Pa Dan|16.872|96.029|MM|Yangon|82
 Ahoada|5.083|6.650|NG|Rivers State|82
@@ -69,6 +70,7 @@ Ahiérémou|6.218|-4.930|CI|Lagunes District|72
 Ah Shey Ah Yoe Taung|16.631|95.969|MM|Yangon|72
 Ahrarne|45.016|34.057|UA|Crimea|71
 Ahuatitla|21.165|-98.665|MX|Hidalgo|71
+Ahwaz International Airport|31.337|48.762|IR|Khuzestan|71|f
 Ahoghill|54.867|-6.367|GB|Northern Ireland|71
 Ahondo|6.307|-5.151|CI|Lagunes District|71
 Ahtanum|46.560|-120.622|US|Washington|71
@@ -91,6 +93,8 @@ Ahuazotepec|20.045|-98.163|MX|Puebla|67
 Aẖi‘ezer|31.982|34.871|IL|Central District|67
 Ahmadpurjat|27.266|80.838|IN|Uttar Pradesh|67
 Aẖuzzat Baraq|32.643|35.338|IL|Northern District|67
+Ahklun Mountains|59.383|-160.700|US|Alaska|67|f
+Ahunui|-19.637|-140.411|PF|Tuamotu-Gambier Islands|67|f
 Ahwahnee|37.365|-119.726|US|California|67
 Aholming|48.735|12.910|DE|Bavaria|67
 Aḩmad Sar Gūrāb|37.131|49.365|IR|Gilan Province|67
@@ -103,6 +107,7 @@ Ahuirán|19.666|-102.073|MX|Michoacán|66
 Ahuehuetitla|20.084|-98.417|MX|Hidalgo|65
 Aḩmadābād|34.771|59.904|IR|Razavi Khorasan|65
 Ahuacatlán|20.137|-98.007|MX|Puebla|65
+Ahoro Dake|43.517|144.071|JP|Hokkaido|65|f
 Ahuacatlán de Guadalupe|21.215|-99.541|MX|Querétaro|65
 Ahl Mohammed bin Ahmed|13.277|45.390|YE|Abyan Governorate|65
 Ahausen|53.063|9.313|DE|Lower Saxony|65
@@ -122,6 +127,7 @@ Ahlden|52.759|9.551|DE|Lower Saxony|64
 Ahuacatlán|19.883|-97.545|MX|Puebla|64
 Ahouaya|5.477|-4.509|CI|Lagunes District|63
 Ahouanou|6.515|-4.630|CI|Comoé District|63
+Ahuas Airport|15.472|-84.352|HN|Gracias a Dios Department|63|f
 Ahuillé|48.021|-0.871|FR|Pays de la Loire|63
 Ahouékro|6.497|-5.219|CI|Lacs District|63
 Ahetze|43.406|-1.571|FR|New Aquitaine|63
@@ -149,6 +155,10 @@ Ahuehuetitla|18.213|-98.219|MX|Puebla|62
 Ahuehuepan|18.006|-99.500|MX|Guerrero|61
 Ahuacatlán|20.006|-97.859|MX|Puebla|61
 Ahuexotitlán|17.528|-99.244|MX|Guerrero|61
+Ahern Peak|48.831|-113.782|US|Montana|61|f
+Aheru Lake|57.688|26.357|EE|Valgamaa|61|f
+Ähijärv|57.714|26.496|EE|Võrumaa|61|f
+Ahua‘umi Heiau|19.637|-155.784|US|Hawaii|61|f
 Ahtopol|42.100|27.944|BG|Burgas|61
 Ahillones|38.267|-5.850|ES|Extremadura|61
 Ahuaxintitla|20.253|-97.896|MX|Puebla|61
@@ -161,13 +171,88 @@ Ahuateno|21.002|-98.150|MX|Veracruz|60
 Ahouakoi|5.703|-3.870|CI|Lagunes District|60
 Ahronomiya|47.770|31.312|UA|Mykolaiv|60
 Ahuatlán|18.573|-98.257|MX|Puebla|60
+Ahacık|40.804|34.127|TR|Çorum|60
+Ahuacapán|19.673|-104.323|MX|Jalisco|60
+Ahuatepec|19.871|-97.432|MX|Puebla|60
+Ahuatenco|18.948|-99.333|MX|México|60
+Ahuehuetzingo|18.487|-98.636|MX|Puebla|60
+Ahuacatlán|20.890|-98.645|MX|Hidalgo|60
+Ahuatempa|21.099|-98.383|MX|Hidalgo|59
+Aẖihud|32.908|35.171|IL|Northern District|59
+Ahoutoukro|6.983|-4.333|CI|Lacs District|59
+Ahuacatlán|17.912|-98.720|MX|Guerrero|58
+Ahart Field|30.527|-91.976|US|Louisiana|58|f
+Ahelaid|58.741|23.136|EE|Hiiumaa|58|f
+Ahihi-Kinau Natural Area Reserve|20.610|-156.431|US|Hawaii|58|f
+Ahmar Mountains|9.411|41.438|ET|Oromiya|58|f
+Ahuica|20.930|-98.177|MX|Veracruz|58
 Ahuaycha|-12.407|-74.891|PE|Huancavelica|58
+Ahouniassou|6.650|-4.746|CI|Lacs District|58
+Ahuatenco|19.136|-99.457|MX|México|57
+Ahuacatitlan Centro|19.954|-99.990|MX|México|57
+Ahuateno|19.902|-97.133|MX|Veracruz|57
+Ahuatepec Ejido|17.544|-98.598|MX|Guerrero|57
+Ahijaderos|22.370|-101.472|MX|Zacatecas|57
+Ahaura|-42.349|171.539|NZ|West Coast|57
+Ahoundjo|7.473|-5.373|CI|Vallée du Bandama District|56
+Ahuixotitla|17.392|-98.804|MX|Guerrero|56
+Ahuatlán (Asunción Ahuatlán)|18.995|-98.930|MX|Morelos|56
+Ahuacatitla|21.422|-98.859|MX|San Luis Potosí|56
+Ahuatetla|21.043|-98.914|MX|Hidalgo|56
+Ahja|58.204|27.073|EE|Põlvamaa|56
+Ahorn|47.712|13.603|AT|Upper Austria|56
+Ahuakré|5.607|-4.855|CI|Lagunes District|56
+Ahuehuepan|18.341|-99.650|MX|Guerrero|56
+Ahualulco|18.662|-99.649|MX|Guerrero|55
+Ahuixtla|17.531|-99.035|MX|Guerrero|55
+Ahrobaza|47.093|37.448|UA|Donetsk|55
+Aherla|51.854|-8.732|IE|Munster|55
+Ahuelicán|18.025|-99.475|MX|Guerrero|55
+Ahuacapan|19.280|-97.137|MX|Puebla|55
+Ahoungnanou|7.200|-4.928|CI|Lacs District|55
+Ahrān|35.609|52.148|IR|Tehran|55
+Ahuacatlaya|20.178|-97.828|MX|Puebla|55
+Ahl|50.294|9.395|DE|Hesse|55
+Ahuehuetl|21.047|-98.284|MX|Hidalgo|55
+Aẖuzzam|31.554|34.770|IL|Southern District|55
+Ahuatitla|20.963|-98.221|MX|Hidalgo|55
+Ahi Bango|7.834|-3.254|CI|Zanzan District|55
+Ahmetbey|40.295|28.997|TR|Bursa Province|55
+Ahuaxotitla|18.146|-99.782|MX|Guerrero|54
+Ahrenviöl|54.531|9.207|DE|Schleswig-Holstein|54
+Ahua|5.200|-4.433|CI|Lagunes District|54
+Ahuehueyo|21.286|-98.811|MX|San Luis Potosí|54
+Ahijärv|58.300|27.176|EE|Tartu|54|f
+Ahlmann Glacier|-67.862|-65.803|AQ||54|f
+Ahornbüchsenkopf|47.620|13.082|AT||54|f
+Ahu Island|-1.326|144.159|PG|Manus Province|54|f
+Ahrenshöft|54.564|9.069|DE|Schleswig-Holstein|54
+Ahuatlán|19.918|-97.810|MX|Puebla|54
+Ahern Glacier|-81.783|159.167|AQ||49|f
+Ahimanawa Range|-39.000|176.450|NZ||49|f
+Ahornsee|47.467|13.783|AT|Styria|49|f
+Ahoskie, Tri-County Airport|36.297|-77.171|US|North Carolina|49|f
+Ahrenviölfeld|54.533|9.275|DE|Schleswig-Holstein|49
+Ahneby|54.704|9.745|DE|Schleswig-Holstein|48
 Ahigal de los Aceiteros|40.872|-6.747|ES|Castille and León|44
+Ahlstädt|50.533|10.683|DE|Thuringia|43
 Ahorn|48.524|14.174|AT|Upper Austria|43
+Ah-shi-sle-pah Wilderness Study Area|36.167|-107.917|US|New Mexico|40|f
+Ahern Glacier|48.843|-113.784|US|Montana|40|f
+Ahfad University for Women|15.645|32.472|SD|Khartoum|40|f
+Ahinsa Sthal|28.519|77.191|IN|Delhi|40|f
+Ahjumawi Lava Springs State Park|41.136|-121.418|US|California|40|f
+Ahmic Lake|45.634|-79.695|CA|Ontario|40|f
+Ahrnsbrak Glacier|-79.800|-82.300|AQ||40|f
+Ahtopol Peak|-62.543|-60.145|AQ||40|f
 Ahigal de Villarino|41.158|-6.380|ES|Castille and León|32
+Ahadan|-6.997|113.943|ID|East Java|0
+Aham|48.527|12.461|DE|Bavaria|0
 Ahau|-12.500|177.050|FJ|Rotuma|0
 Ahırlı|37.239|32.119|TR|Konya|0
 Ahmetli|38.178|39.856|TR|Diyarbakır Province|0
+Ahonglukumu|39.194|77.326|CN|Xinjiang|0
+Ahrensfelde|52.577|13.580|DE|Brandenburg|0
 Ahuac|-12.086|-75.321|PE|Junin|0
 Ahuano|-1.059|-77.546|EC|Napo|0
 Aḩwar|13.520|46.714|YE|Abyan Governorate|0

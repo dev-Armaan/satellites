@@ -43,11 +43,13 @@ Guaviare Department|1.917|-72.000|CO||97|r
 Guamúchil|25.459|-108.077|MX|Sinaloa|97
 Guanajuato|21.019|-101.259|MX|Guanajuato|97
 Guasave|25.568|-108.469|MX|Sinaloa|97
+Guangzhou Baiyun International Airport|23.392|113.299|CN|Guangdong|96|f
 Guasdualito|7.242|-70.732|VE|Apure|96
 Guanyin|29.099|104.394|CN|Sichuan|96
-Guarabira|-6.855|-35.490|BR|Paraíba|95
 Guairá|-25.800|-56.267|PY||95|r
+Guarabira|-6.855|-35.490|BR|Paraíba|95
 Guapimirim|-22.537|-42.982|BR|Rio de Janeiro|95
+Guam|13.431|144.753|GU||95|f
 Guaxupé|-21.305|-46.713|BR|Minas Gerais|94
 Guanshan|33.798|117.866|CN|Jiangsu|94
 Guanzhuang|36.263|119.194|CN|Shandong|94
@@ -84,6 +86,7 @@ Guadalupe|9.948|-84.057|CR|San José|88
 Guaraí|-8.834|-48.510|BR|Tocantins|88
 Guadalupe|-7.250|-79.483|PE|La Libertad|88
 Guamal|9.143|-74.224|CO|Magdalena Department|88
+Guadeloupe|16.255|-61.565|GP||88|f
 Guaporé|-28.846|-51.890|BR|Rio Grande do Sul|88
 Guanajay|22.926|-82.687|CU|Artemisa|88
 Guandu|30.081|106.429|CN|Chongqing|88
@@ -96,6 +99,8 @@ Gualaco|15.025|-86.071|HN|Olancho Department|87
 Guaranda|-1.591|-78.999|EC|Bolívar|87
 Guapiaçu|-20.795|-49.220|BR|São Paulo|87
 Guayama|17.984|-66.114|PR|Guayama|87
+Guaraní International Airport|-25.456|-54.844|PY|Alto Paraná Department|86|f
+Guajira Peninsula|12.000|-71.500|CO||86|f
 Gua Musang|4.884|101.969|MY|Kelantan|86
 Guacarí|3.764|-76.332|CO|Valle del Cauca Department|86
 Gualán|15.120|-89.357|GT|Zacapa|86
@@ -142,31 +147,39 @@ Guadalupe|10.454|123.373|PH|Western Visayas|81
 Guazapa|13.877|-89.173|SV|San Salvador Department|81
 Guaraciaba|-26.599|-53.518|BR|Santa Catarina|81
 Guaraci|-20.499|-48.945|BR|São Paulo|80
+Guadalupe Peak|31.891|-104.861|US|Texas|80|f
 Guanting|33.817|104.532|CN|Gansu|80
 Guadalupe Victoria|19.291|-97.343|MX|Puebla|80
 Guajará|-2.967|-57.667|BR|Amazonas|80
 Guaraciaba|-20.571|-43.008|BR|Minas Gerais|80
 Gualdo Tadino|43.229|12.779|IT|Umbria|80
+Guardiamarina Zañartu Airport|-54.931|-67.626|CL|Region of Magallanes|80|f
 Guagua|14.965|120.632|PH|Central Luzon|80
 Guánica|17.972|-66.908|PR|Guánica|79
 Guarambaré|-25.491|-57.456|PY|Central Department|79
+Guantanamo Bay|20.008|-75.123|CU|Guantánamo Province|79|f
 Guarita|14.183|-88.817|HN|Lempira Department|79
 Guatambú|-27.132|-52.787|BR|Santa Catarina|79
 Guanqing|28.619|108.687|CN|Chongqing|79
+Guadalupe Mountains|31.891|-104.861|US|Texas|78|f
+Guapi Airport|2.571|-77.898|CO|Cauca Department|78|f
+Guainía Department|2.500|-69.000|CO||78|r
 Guanshan|23.048|121.163|TW|Taiwan|78
 Guajeru|-14.547|-41.940|BR|Bahia|78
 Guardo|42.790|-4.848|ES|Castille and León|78
 Guamiranga|-25.191|-50.805|BR|Paraná|78
 Guarani|-21.352|-43.047|BR|Minas Gerais|78
+Guanambi Airport|-14.208|-42.746|BR|Bahia|78|f
+Guantanamo Bay Naval Base|19.906|-75.207|CU|Guantánamo Province|78|f
 Guaraçaí|-21.028|-51.207|BR|São Paulo|77
 Guaraqueçaba|-25.307|-48.329|BR|Paraná|77
 Guarani das Missões|-28.141|-54.558|BR|Rio Grande do Sul|77
 Guatapará|-21.496|-48.035|BR|São Paulo|77
 Guadalupe|34.972|-120.572|US|California|77
-Guainía Department|2.500|-69.000|CO||77|r
 Guanmian|31.552|108.670|CN|Chongqing|77
 Guateque|5.006|-73.473|CO|Boyacá|77
 Guácimo|10.213|-83.688|CR|Limón Province|77
+Guasdualito Airport|7.211|-70.756|VE|Apure|77|f
 Guareña|38.860|-6.100|ES|Extremadura|77
 Guanzhou|28.416|109.018|CN|Chongqing|77
 Guadalix de la Sierra|40.785|-3.693|ES|Madrid|77
@@ -180,6 +193,7 @@ Guaymate|18.588|-68.979|DO|La Romana|76
 Guadalupe|33.371|-111.963|US|Arizona|76
 Guadalupe Victoria|19.555|-96.961|MX|Veracruz|76
 Guadalupe y Calvo|26.094|-106.964|MX|Chihuahua|75
+Guayaramerín Airport|-10.889|-65.381|BO|Beni Department|75|f
 Guantou|26.136|119.562|CN|Fujian|75
 Guaramiranga|-4.263|-38.933|BR|Ceará|75
 Guadassuar|39.187|-0.479|ES|Valencia|75
@@ -196,6 +210,7 @@ Guaraciama|-17.014|-43.673|BR|Minas Gerais|74
 Guagnano|40.401|17.949|IT|Apulia|74
 Guardiagrele|42.194|14.219|IT|Abruzzo|74
 Guaraci|-22.973|-51.650|BR|Paraná|74
+Guangzhou TV Tower|23.147|113.263|CN|Guangdong|73|f
 Guardia Sanframondi|41.256|14.599|IT|Campania|73
 Guapirama|-23.516|-50.040|BR|Paraná|73
 Gualaquiza|-3.404|-78.581|EC|Morona-Santiago Province|73
@@ -203,11 +218,13 @@ Guaraní|-27.523|-55.161|AR|Misiones|73
 Guática|5.316|-75.798|CO|Risaralda Department|73
 Guaribas|-9.395|-43.693|BR|Piauí|73
 Guachetá|5.384|-73.686|CO|Cundinamarca|73
+Guanare Airport|9.028|-69.754|VE|Portuguesa|72|f
 Guarani de Goiás|-13.936|-46.480|BR|Goiás|72
 Guadalupe|11.004|124.014|PH|Central Visayas|72
 Guachucal|0.961|-77.732|CO|Nariño|72
 Guayabo Dulce|18.650|-69.283|DO|Hato Mayor Province|72
 Guadalupe Cachi|19.601|-99.825|MX|México|72
+Guarapari Airport|-20.647|-40.493|BR|Espírito Santo|71|f
 Guatacalca|18.167|-92.978|MX|Tabasco|71
 Guadalupe|18.817|-96.925|MX|Veracruz|71
 Guasca|4.866|-73.877|CO|Cundinamarca|71
@@ -228,6 +245,9 @@ Guayatá|4.964|-73.487|CO|Boyacá|69
 Guanagazapa|14.226|-90.643|GT|Escuintla|69
 Guadalupe Zaragoza|19.358|-98.537|MX|Puebla|69
 Guayalejo|22.383|-98.483|MX|Veracruz|69
+Guaíra Airport|-24.081|-54.192|BR|Paraná|69|f
+Guandu Daqiao|25.125|121.458|TW|Taipei|69|f
+Guanyin Shan|25.136|121.426|TW|Taipei|69|f
 Guasila|39.560|9.044|IT|Sardinia|69
 Guadalupe Septién|20.527|-100.114|MX|Querétaro|68
 Guananico|19.727|-70.923|DO|Puerto Plata|68
@@ -243,6 +263,8 @@ Guadalupe Victoria|24.299|-107.271|MX|Sinaloa|67
 Guardavalle Marina|38.480|16.577|IT|Calabria|67
 Guadalupe Victoria|16.756|-98.182|MX|Guerrero|67
 Guaimitas|15.500|-87.717|HN|Yoro Department|67
+Gu Achi Peak|32.348|-111.877|US|Arizona|67|f
+Guadalajara International Airport|20.522|-103.311|MX|Jalisco|67|f
 Guadalupe de Atlas|22.267|-102.032|MX|Aguascalientes|67
 Guadalupe Victoria|24.082|-98.233|MX|Tamaulipas|67
 Guadalupe|39.451|-5.326|ES|Extremadura|67
@@ -263,6 +285,7 @@ Guadalupe Minerva|20.126|-98.714|MX|Hidalgo|66
 Guarani d'Oeste|-20.075|-50.339|BR|São Paulo|66
 Guatavita|4.937|-73.833|CO|Cundinamarca|66
 Guadalupe Victoria|16.627|-93.335|MX|Chiapas|65
+Guadaba Airport|-37.978|-72.932|CL|Araucania|65|f
 Guadalupe Etla|17.173|-96.810|MX|Oaxaca|65
 Guachinango|20.576|-104.382|MX|Jalisco|65
 Guásimas (De Belem)|27.886|-110.582|MX|Sonora|65
@@ -286,6 +309,7 @@ Guayabal|18.598|-71.642|DO|Independencia|64
 Guadalupe|21.717|-100.977|MX|Guanajuato|63
 Guadalupe Libertad|19.188|-97.387|MX|Puebla|63
 Gualtieri Sicaminò|38.163|15.317|IT|Sicily|63
+Guanghua Dao|23.856|120.911|TW|Taiwan|63|f
 Gualjoco|14.960|-88.237|HN|Santa Bárbara Department|63
 Guabiju|-28.541|-51.690|BR|Rio Grande do Sul|63
 Guadalupe de Rivera|20.606|-101.468|MX|Guanajuato|63
@@ -309,6 +333,9 @@ Guadalupe Victoria|16.896|-95.850|MX|Oaxaca|61
 Guándaro|20.193|-101.874|MX|Michoacán|61
 Guadalupe de Lerma|20.341|-102.361|MX|Jalisco|61
 Guataquí|4.516|-74.789|CO|Cundinamarca|61
+Guadalcanal Island|-9.571|160.139|SB|Guadalcanal Province|61|f
+Gualeguaychu Aerodrome|-33.010|-58.613|AR|Entre Rios|61|f
+Guangfu Airport|31.263|120.401|CN|Jiangsu|61|f
 Guardialfiera|41.804|14.793|IT|Molise|61
 Guadacorte|36.193|-5.431|ES|Andalusia|61
 Guadalupe Calderón|18.966|-97.858|MX|Puebla|61
@@ -326,15 +353,125 @@ Guadalupe Grijalva|15.700|-92.164|MX|Chiapas|60
 Guadalupe Victoria|19.542|-97.278|MX|Veracruz|60
 Guadalupe Buenavista|19.612|-100.128|MX|México|60
 Guazzino|43.213|11.782|IT|Tuscany|60
+Guadalupe Tlapizalco|18.879|-99.611|MX|México|60
+Guayabo de Santa Rita|20.697|-101.906|MX|Guanajuato|60
+Gualba de Dalt|41.733|2.500|ES|Catalonia|60
+Guanxia Miaozuxiang|26.572|110.276|CN|Hunan|60
+Guanacastal 1ra. Sección|14.834|-92.469|MX|Chiapas|60
+Guadalupe|29.384|-110.449|MX|Sonora|60
+Guadalupe Victoria Dos|17.165|-92.764|MX|Chiapas|60
+Guadalupe Victoria|19.443|-97.946|MX|Tlaxcala|60
+Guayal|17.536|-92.600|MX|Tabasco|60
+Guatemalita|14.117|-88.617|HN|Lempira Department|60
 Guamaggiore|39.568|9.074|IT|Sardinia|59
 Guavatá|5.955|-73.700|CO|Santander Department|59
+Guadalupe Victoria|19.233|-98.335|MX|Tlaxcala|59
+Guadalupe la Venta|20.645|-100.221|MX|Querétaro|59
+Guadalupe Victoria|16.016|-95.888|MX|Oaxaca|59
+Guadalupe Villa Cárdenas|20.835|-101.351|MX|Guanajuato|59
+Guadalupe Victoria|24.075|-99.143|MX|Tamaulipas|59
+Guadalupe Victoria|18.670|-97.710|MX|Puebla|59
+Gualdrasco|45.280|9.204|IT|Lombardy|59
+Guadalupe de Ramales|20.926|-101.485|MX|Guanajuato|59
+Guadalupe Ramírez|17.758|-98.165|MX|Oaxaca|59
+Guadalupe Victoria|21.714|-103.011|MX|Zacatecas|59
+Guarrato|37.933|12.548|IT|Sicily|59
+Guangping|26.787|109.623|CN|Hunan|59
+Guadalupe Victoria (El Norteño)|25.297|-97.975|MX|Tamaulipas|59
+Guadalupe de Jalpa|20.860|-101.979|MX|Guanajuato|59
+Gualterio|23.586|-103.860|MX|Zacatecas|59
+Guadiana|21.786|-101.002|MX|San Luis Potosí|59
+Guadalupe Victoria|19.232|-99.424|MX|México|59
 Guardistallo|43.314|10.629|IT|Tuscany|59
+Guadalupe Victoria|18.537|-97.845|MX|Puebla|59
+Guadalupe Victoria|19.280|-98.386|MX|Tlaxcala|59
+Guadalupe Victoria|16.013|-92.896|MX|Chiapas|59
 Guarda Veneta|44.982|11.802|IT|Veneto|59
+Guadalupe Chico|19.598|-100.134|MX|México|58
+Guadalupe Palmira|16.448|-92.305|MX|Chiapas|58
 Guacá Arriba|8.540|-82.494|PA|Chiriquí Province|58
+Guayparín|26.967|-109.647|MX|Sonora|58
+Guadalupito las Dalias|19.416|-98.526|MX|Puebla|58
+Guadalupe Victoria|15.163|-92.406|MX|Chiapas|58
+Guadalupe Victoria|20.262|-97.373|MX|Veracruz|58
+Guatiza|29.074|-13.479|ES|Canary Islands|58
+Gualala Point Regional Park|38.755|-123.522|US|California|58|f
+Guanghan Airport|30.949|104.330|CN|Sichuan|58|f
+Guanghua Si|39.940|116.385|CN|Beijing|58|f
+Guangji Si|39.924|116.366|CN|Beijing|58|f
+Guangyuan Panlong Airport|32.391|105.702|CN|Sichuan|58|f
+Guano Island|-66.775|141.604|AQ||58|f
+Guardian Rock|-67.553|-67.248|AQ||58|f
+Guards Memorial|51.505|-0.129|GB|England|58|f
 Guacamayas|6.462|-72.505|CO|Boyacá|58
+Guachipilín|14.984|-92.431|MX|Chiapas|58
+Guarda de Guadalupe|19.741|-100.075|MX|México|58
 Guarene|44.740|8.035|IT|Piedmont|58
+Guadalupe Victoria|20.379|-97.563|MX|Veracruz|58
+Guadalupe|25.926|-97.584|MX|Tamaulipas|57
+Guadalupe|20.278|-100.951|MX|Guanajuato|57
+Guadalupe Primero|20.483|-100.304|MX|Querétaro|57
+Guatimoc|15.046|-92.154|MX|Chiapas|57
+Guadalupe Relinas|19.875|-98.777|MX|México|57
+Guadalupe el Terrero|20.119|-100.148|MX|Querétaro|57
+Guarapo|20.383|-101.411|MX|Guanajuato|57
+Guardia Mitre|-40.428|-63.674|AR|Rio Negro|57
+Guadalupe de las Corrientes|23.699|-102.503|MX|Zacatecas|57
+Guadalupe Monteverde|17.505|-97.711|MX|Oaxaca|57
+Guanajuato|15.648|-93.157|MX|Chiapas|57
+Gualdo|44.023|12.205|IT|Emilia-Romagna|57
+Guadalupe Nogales|17.480|-98.308|MX|Guerrero|57
+Guadalupe Bacja|16.713|-92.253|MX|Chiapas|57
+Guadalupe Victoria|17.369|-92.872|MX|Chiapas|57
+Guardbridge|56.366|-2.888|GB|Scotland|56
+Guadalupe Paxiljá|17.120|-92.032|MX|Chiapas|56
+Guaviraví|-29.368|-56.829|AR|Corrientes|56
+Guangüitiro|20.443|-101.774|MX|Guanajuato|56
+Guainville|48.917|1.491|FR|Centre-Val de Loire|56
+Guadalupe Mano de León|16.892|-98.172|MX|Guerrero|56
+Guadalupe del Río|19.715|-99.888|MX|México|56
+Guanajuatito (Cerrito de la Cruz)|21.810|-100.760|MX|San Luis Potosí|56
+Guadalupe del Recreo|17.800|-98.333|MX|Oaxaca|56
+Guadalupe Victoria|19.778|-100.261|MX|Michoacán|56
+Guadalupe Victoria|15.506|-92.879|MX|Chiapas|56
+Guazamara|37.350|-1.783|ES|Andalusia|56
+Guanajuatillo|20.336|-101.999|MX|Michoacán|55
+Guayabal|8.460|-82.351|PA|Chiriquí Province|55
+Guadalupe Fresnal|18.770|-97.354|MX|Puebla|55
+Guadalupe|18.957|-98.155|MX|Puebla|55
+Guadalupe de Trujillo|23.070|-103.198|MX|Zacatecas|55
+Guadalupe Quistaj|16.214|-92.034|MX|Chiapas|55
 Guapotá|6.308|-73.320|CO|Santander Department|55
+Guadalupe Cuauhtémoc|19.518|-98.239|MX|Tlaxcala|55
 Guardia Perticara|40.362|16.098|IT|Basilicate|55
+Guadalupe Victoria|17.322|-93.161|MX|Chiapas|55
+Guadalupe Victoria (Santa Lucía)|28.393|-106.791|MX|Chihuahua|55
+Guadalupe|26.621|-108.321|MX|Sinaloa|55
+Guayabal|16.947|-92.484|MX|Chiapas|55
+Guadalupe Piletas|18.818|-97.416|MX|Puebla|55
+Guandian|28.294|106.611|CN|Guizhou|55
+Guadalupe Victoria|17.977|-98.386|MX|Guerrero|55
+Guadalupe Victoria|19.642|-97.535|MX|Puebla|55
+Guadalupe Miramar|16.158|-91.280|MX|Chiapas|55
+Guadalupe del Pedregal la Palma|19.677|-100.112|MX|México|55
+Guadalupe Maravillas|15.950|-92.456|MX|Chiapas|55
+Guadalupe Nuevo Centro|16.797|-97.902|MX|Oaxaca|55
+Guadalupe de Morelos|17.676|-98.111|MX|Oaxaca|54
+Guana Island|18.474|-64.567|VG||54|f
+Guapiles Airport|10.217|-83.797|CR|Limón Province|54|f
+Guasopa|-9.230|153.000|PG|Milne Bay Province|54|f
+Guayabo National Monument|9.973|-83.698|CR|Cartago Province|54|f
+Guadalupe de los Sauces|22.359|-101.445|MX|Zacatecas|54
+Guayo 3ra. Sección|18.317|-93.456|MX|Tabasco|54
+Gualöv|56.050|14.417|SE|Skåne|54
+Guadalupe Victoria|21.019|-101.579|MX|Guanajuato|54
+Guadalupe|16.740|-95.543|MX|Oaxaca|54
+Guadalupe Victoria|17.070|-96.034|MX|Oaxaca|54
+Guaxcuaco|21.204|-98.879|MX|San Luis Potosí|54
+Guapalayna|27.178|-107.894|MX|Chihuahua|54
+Guadalupe|20.654|-100.748|MX|Guanajuato|54
+Guayabito de Pedroza|20.376|-101.969|MX|Guanajuato|54
+Guabas Arriba|8.468|-80.262|PA|Coclé|54
 Guarumal|7.799|-81.258|PA|Veraguas Province|54
 Guardiaregia|41.434|14.543|IT|Molise|53
 Guayabito|8.540|-81.482|PA|Ngöbe-Buglé Comarca|52
@@ -347,13 +484,28 @@ Guararé Arriba|7.808|-80.359|PA|Los Santos Province|51
 Gualta|42.030|3.103|ES|Catalonia|51
 Guazzora|45.014|8.848|IT|Piedmont|50
 Guardabosone|45.702|8.249|IT|Piedmont|50
+Guadalupe Bridge|14.569|121.046|PH|National Capital Region|49|f
+Guard Glacier|-71.010|-62.181|AQ||49|f
+Guard Mountain|49.900|-122.986|CA|British Columbia|49|f
+Guardrail Ridge|-77.533|168.833|AQ||49|f
 Guadalaviar|40.388|-1.718|ES|Aragon|49
 Guayabal|8.618|-82.579|PA|Chiriquí Province|47
 Guadramiro|41.017|-6.494|ES|Castille and León|46
 Guabal|8.575|-82.537|PA|Chiriquí Province|43
+Guadalupe Bay|28.439|-96.767|US|Texas|40|f
+Guadalupe Mountains|31.365|-108.988|US|New Mexico|40|f
+Guadalupe Mountains National Park|31.923|-104.886|US|Texas|40|f
+Guadalupe Reservoir|37.197|-121.876|US|California|40|f
+Guadalupe River State Park|29.875|-98.504|US|Texas|40|f
+Guanaco Peak|49.666|-121.136|CA|British Columbia|40|f
+Guarcello Peak|-79.917|-83.167|AQ||40|f
+Guardia Alta|46.759|10.877|AT||40|f
+Guardian Mountain|58.506|-134.245|US|Alaska|40|f
+Guayabo de Turrialba|9.933|-83.667|CR|Cartago Province|40|f
 Guayabito|8.550|-80.013|PA|Panamá Oeste Province|39
 Guaza de Campos|42.134|-4.909|ES|Castille and León|37
 Gu’an|39.437|116.303|CN|Hebei|0
+Guabu|32.249|118.884|CN|Jiangsu|0
 Guachavés|1.222|-77.678|CO|Nariño|0
 Guachené|3.133|-76.393|CO|Cauca Department|0
 Guadalcanal|38.100|-5.817|ES|Andalusia|0
@@ -364,39 +516,168 @@ Guadalupe|-13.986|-75.773|PE|Ica|0
 Guadalupe|0.379|6.638|ST|São Tomé Island|0
 Guadalupito|-8.950|-78.623|PE|La Libertad|0
 Guadarrama|8.535|-68.049|VE|Barinas|0
+Guajiasi|39.091|117.226|CN|Tianjin|0
 Guale|-1.630|-80.239|EC|Manabí|0
 Gualel|-3.770|-79.376|EC|Loja|0
+Guali|30.187|120.454|CN|Zhejiang|0
 Guambaló|-1.388|-78.532|EC|Tungurahua Province|0
 Guamote|-1.935|-78.710|EC|Chimborazo Province|0
+Guan’e|34.011|104.395|CN|Gansu|0
+Guan’er|39.516|113.635|CN|Shanxi|0
 Guanando|-1.546|-78.544|EC|Chimborazo Province|0
 Guanay|-15.498|-67.883|BO|La Paz Department|0
 Guanazán|-3.459|-79.492|EC|El Oro|0
+Guanba|30.489|107.882|CN|Chongqing|0
+Guanba|29.295|109.966|CN|Hunan|0
+Guanba|32.597|106.959|CN|Sichuan|0
+Guanban|26.312|119.670|CN|Fujian|0
+Guanbu|23.434|116.464|CN|Guangdong|0
+Guanbuqiao|29.901|114.319|CN|Hubei|0
+Guancang|28.036|106.714|CN|Guizhou|0
+Guancangping|29.182|109.919|CN|Hunan|0
+Guanchao|27.886|114.864|CN|Jiangxi|0
 Guancheng|36.480|115.435|CN|Shandong|0
 Guancheng|34.741|113.676|CN|Henan|0
+Guanchi|34.703|109.940|CN|Shaanxi|0
+Guancun|28.476|118.424|CN|Jiangxi|0
+Guandao|34.630|109.483|CN|Shaanxi|0
+Guandao|29.217|113.900|CN|Hubei|0
+Guandao|37.211|120.621|CN|Shandong|0
+Guandi|34.713|109.443|CN|Shaanxi|0
+Guandian|30.240|110.044|CN|Hubei|0
+Guandiping|29.592|110.436|CN|Hunan|0
 Guandou|31.378|118.398|CN|Anhui|0
+Guandu|31.998|110.079|CN|Hubei|0
+Guandu|24.283|113.883|CN|Guangdong|0
+Guandu|21.384|110.438|CN|Guangdong|0
+Guandu|21.680|110.919|CN|Guangdong|0
+Guandukou|31.039|110.309|CN|Hubei|0
+Guanfang|33.108|109.762|CN|Hubei|0
+Guang’ao|23.231|116.776|CN|Guangdong|0
+Guang’en|45.648|127.816|CN|Heilongjiang|0
+Guangang|29.912|116.929|CN|Anhui|0
+Guangchang|30.925|113.913|CN|Hubei|0
+Guangchanglong|41.433|112.350|CN|Inner Mongolia|0
+Guangchen|30.752|121.126|CN|Zhejiang|0
+Guangcun|19.818|109.477|CN|Hainan|0
+Guangde|24.144|116.732|CN|Guangdong|0
+Guangdongdi|44.350|86.243|CN|Heilongjiang|0
+Guangdu|28.952|120.743|CN|Zhejiang|0
+Guangfu|31.288|120.389|CN|Jiangsu|0
+Guangfu|24.830|116.180|CN|Guangdong|0
+Guangfudao|39.146|117.201|CN|Tianjin|0
+Guangfuqiao|29.477|111.298|CN|Hunan|0
+Guanghai|21.962|112.793|CN|Guangdong|0
 Guanghe Chengguanzhen|35.482|103.576|CN|Gansu|0
+Guanghou|47.081|123.388|CN|Heilongjiang|0
+Guanghua|41.946|125.986|CN|Jilin|0
+Guanghua|30.444|112.684|CN|Hubei|0
+Guangji|34.118|108.148|CN|Shaanxi|0
+Guangjin|33.657|106.491|CN|Gansu|0
+Guangkai|39.135|117.162|CN|Tianjin|0
+Guangkuotiandi|33.967|113.166|CN|Henan|0
+Guangli|23.188|112.611|CN|Guangdong|0
+Guangling|32.104|120.236|CN|Jiangsu|0
 Guangming|28.310|102.412|CN|Sichuan|0
+Guangming|26.795|117.390|CN|Fujian|0
+Guangming|22.772|113.930|CN|Guangdong|0
+Guangning|39.927|116.137|CN|Beijing|0
 Guangping|36.479|114.943|CN|Hebei|0
+Guangping|26.091|117.819|CN|Fujian|0
+Guangpo|18.551|110.052|CN|Hainan|0
 Guangrao|37.053|118.399|CN|Shandong|0
 Guangrao|37.260|118.463|CN|Shandong|0
+Guangrong|47.317|126.319|CN|Heilongjiang|0
 Guangshan|32.011|114.900|CN|Henan|0
+Guangshan|32.805|120.210|CN|Jiangsu|0
+Guangsheng|30.737|103.669|CN|Sichuan|0
+Guangtai|23.473|116.281|CN|Guangdong|0
+Guangyang|33.284|112.701|CN|Henan|0
+Guangyang|29.584|106.752|CN|Chongqing|0
 Guangyang|39.521|116.702|CN|Hebei|0
+Guangyi|23.474|116.767|CN|Guangdong|0
+Guangyilong|41.566|112.282|CN|Inner Mongolia|0
+Guangyubao|39.189|113.411|CN|Shanxi|0
+Guangyudian|40.471|119.978|CN|Liaoning|0
 Guangze|27.543|117.332|CN|Fujian|0
 Guangzhoulu|38.499|102.168|CN|Gansu|0
 Guangzong|37.074|115.139|CN|Hebei|0
+Guanhaiwei|30.170|121.402|CN|Zhejiang|0
+Guanjiabao|40.180|112.887|CN|Shanxi|0
+Guanjiachuan|35.765|102.933|CN|Gansu|0
+Guankou|30.550|115.333|CN|Hubei|0
+Guankou|24.612|117.991|CN|Fujian|0
+Guanlan|22.721|114.052|CN|Guangdong|0
+Guanli|37.185|120.692|CN|Shandong|0
+Guanlian|29.375|115.313|CN|Jiangxi|0
+Guanlin|31.504|119.712|CN|Jiangsu|0
+Guanlu|34.738|109.722|CN|Shaanxi|0
+Guanlu|28.833|120.659|CN|Zhejiang|0
+Guanlu|32.336|106.975|CN|Sichuan|0
+Guanmenshan|47.390|122.331|CN|Inner Mongolia|0
+Guanmiao|31.705|113.705|CN|Hubei|0
+Guanqian|26.180|117.961|CN|Fujian|0
+Guanqian|25.937|116.543|CN|Fujian|0
+Guanqiao|25.023|118.087|CN|Fujian|0
+Guanqiao|21.735|110.495|CN|Guangdong|0
+Guanqiao|29.922|113.942|CN|Hubei|0
 Guanshan|37.808|113.597|CN|Shanxi|0
+Guanshan|34.693|109.376|CN|Shaanxi|0
+Guanshan|27.100|115.446|CN|Jiangxi|0
+Guanshan|30.507|114.403|CN|Hubei|0
+Guanshan|32.373|110.862|CN|Hubei|0
+Guanshang|30.657|114.553|CN|Hubei|0
+Guanshui|37.216|121.264|CN|Shandong|0
 Guanta|10.235|-64.597|VE|Anzoátegui|0
+Guantang|27.675|119.449|CN|Zhejiang|0
+Guantang|23.622|116.727|CN|Guangdong|0
+Guantangyi|29.776|114.086|CN|Hubei|0
 Guantao|36.541|115.281|CN|Hebei|0
+Guantian|27.065|114.667|CN|Jiangxi|0
+Guantian|25.052|117.483|CN|Fujian|0
+Guanting|36.163|106.415|CN|Ningxia|0
+Guanting|35.875|102.800|CN|Qinghai|0
+Guanting|29.711|111.545|CN|Hunan|0
+Guantou|34.657|108.074|CN|Shaanxi|0
+Guantouzui|29.053|112.002|CN|Hunan|0
+Guantun|40.686|122.560|CN|Liaoning|0
 Guanujo|-1.560|-79.009|EC|Bolívar|0
+Guanxi|26.753|115.122|CN|Jiangxi|0
+Guanxi|29.112|111.616|CN|Hunan|0
+Guanxi|24.841|114.942|CN|Jiangxi|0
+Guanxu|23.256|111.794|CN|Guangdong|0
 Guanyang|25.492|111.155|CN|Guangxi|0
+Guanyao|30.150|115.278|CN|Hubei|0
+Guanyin|32.901|110.368|CN|Hubei|0
+Guanyinge|27.999|110.617|CN|Hunan|0
+Guanyinge|23.398|114.578|CN|Guangdong|0
+Guanyinge|41.313|124.115|CN|Liaoning|0
+Guanyinshan|32.010|120.934|CN|Jiangsu|0
+Guanyinsi|33.088|120.180|CN|Jiangsu|0
+Guanyinsi|33.367|106.455|CN|Shaanxi|0
+Guanyinsi|33.867|112.728|CN|Henan|0
+Guanyinsi|28.916|111.085|CN|Hunan|0
+Guanyuan|29.559|112.010|CN|Hunan|0
+Guanzhou|28.555|108.342|CN|Guizhou|0
+Guanzhu|21.691|111.173|CN|Guangdong|0
+Guanzhuang|34.957|108.866|CN|Shaanxi|0
+Guanzhuang|34.899|108.411|CN|Shaanxi|0
+Guanzhuang|32.887|113.295|CN|Henan|0
+Guanzhuang|28.533|110.900|CN|Hunan|0
+Guanzhuang|25.309|116.345|CN|Fujian|0
+Guapo|34.477|109.706|CN|Shaanxi|0
 Guara|22.810|-82.203|CU|Mayabeque|0
 Guaranda|8.467|-74.536|CO|Sucre Department|0
 Guaraque|8.154|-71.736|VE|Mérida|0
 Guardiola de Berguedà|42.235|1.877|ES|Catalonia|0
 Guarujá do Sul|-26.385|-53.526|BR|Santa Catarina|0
 Guasaganda Centro|-0.803|-79.160|EC|Cotopaxi|0
+Guashe|27.413|114.720|CN|Jiangxi|0
 Guasuntos|-2.232|-78.813|EC|Chimborazo Province|0
 Guay|-2.503|139.810|ID|Papua|0
 Guayabal|8.001|-67.397|VE|Guárico|0
 Guayquichuma|-3.823|-79.574|EC|Loja|0
 Guaytacama|-0.825|-78.642|EC|Cotopaxi|0
+Guayuan|40.021|113.652|CN|Shanxi|0
+Guazhou|40.464|95.671|CN|Gansu|0
+Guazhou|32.253|119.383|CN|Jiangsu|0

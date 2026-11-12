@@ -1,5 +1,5 @@
 Greece|39.000|22.000|GR||140|c
-Grand Est|48.698|5.867|FR||133|r
+Grand Est|48.698|5.867|FR||134|r
 Greater Accra|5.750|0.000|GH||130|r
 Greater Poland|52.300|17.200|PL||127|r
 Grodnenskaya|53.500|24.500|BY||118|r
@@ -14,11 +14,11 @@ Gravataí|-29.942|-50.993|BR|Rio Grande do Sul|108
 Groningen|53.219|6.567|NL|Groningen|108
 Granada|37.188|-3.607|ES|Andalusia|107
 Grand Rapids|42.963|-85.668|US|Michigan|106
+Grande Comore|-11.583|43.333|KM||106|r
 Grand Prairie|32.746|-96.998|US|Texas|105
-Grande Comore|-11.583|43.333|KM||105|r
 Greater Sudbury|46.490|-80.990|CA|Ontario|104
+Grisons|46.659|9.623|CH||104|r
 Grenoble|45.179|5.715|FR|Auvergne-Rhône-Alpes|104
-Grisons|46.659|9.623|CH||103|r
 Grand'Anse|18.500|-74.083|HT||102|r
 Granada Department|11.833|-85.917|NI||102|r
 Gràcia|41.402|2.156|ES|Catalonia|102
@@ -35,9 +35,11 @@ Grahamstown|-33.304|26.533|ZA|Eastern Cape|99
 Greenville|35.613|-77.366|US|North Carolina|99
 Grays|51.476|0.325|GB|England|99
 Granada|11.931|-85.954|NI|Granada Department|99
+Great Dividing Range|-25.000|147.000|AU||99|f
+Grand Port|-20.417|57.633|MU||99|r
 Greenburgh|41.033|-73.843|US|New York|99
 Grimsby|53.565|-0.076|GB|England|99
-Grand Port|-20.417|57.633|MU||99|r
+Great Salt Lake|41.163|-112.535|US|Utah|98|f
 Grand Bassa County|6.233|-9.833|LR||98|r
 Gresik|-7.154|112.656|ID|East Java|97
 Grazhdanka|60.017|30.417|RU|St. Petersburg|97
@@ -66,6 +68,7 @@ Grangwav|18.426|-72.770|HT|Ouest|94
 Greve|55.583|12.300|DK|Zealand|94
 Grasse|43.658|6.925|FR|Provence-Alpes-Côte d'Azur|94
 Gryazi|52.495|39.940|RU|Lipetsk Oblast|94
+Grenadines|12.667|-61.250|VC|Grenadines Parish|93|f
 Grantham|52.911|-0.642|GB|England|93
 Great Sankey|53.392|-2.640|GB|England|93
 Gravina in Puglia|40.817|16.419|IT|Apulia|93
@@ -84,6 +87,8 @@ Grimbergen|50.934|4.372|BE|Flanders|91
 Grand-Lahou|5.138|-5.021|CI|Lagunes District|91
 Great Malvern|52.112|-2.325|GB|England|91
 Grugliasco|45.065|7.580|IT|Piedmont|91
+Gran Canaria Airport|27.932|-15.387|ES|Canary Islands|91|f
+Grampian Mountains|56.917|-4.000|GB|Scotland|91|f
 Greven|52.094|7.594|DE|North Rhine-Westphalia|91
 Greenpoint|40.724|-73.951|US|New York|91
 Greenacres City|26.624|-80.125|US|Florida|90
@@ -92,9 +97,4 @@ Greater Grand Crossing|41.761|-87.615|US|Illinois|90
 Greenville|33.409|-91.060|US|Mississippi|90
 Grand-Zattry|6.116|-6.536|CI|Bas-Sassandra District|90
 Grottaglie|40.537|17.437|IT|Apulia|90
-Greenwich|51.478|-0.012|GB|England|90
-Granger|41.753|-86.111|US|Indiana|90
-Gries|47.062|15.424|AT|Styria|89
-Grandview-Woodlands|49.277|-123.071|CA|British Columbia|89
-Gragnano|40.689|14.520|IT|Campania|89
-Granite City|38.701|-90.149|US|Illinois|89
+Gracias a Dios Department|15.250|-84.333|HN||90|r

@@ -57,6 +57,7 @@ Ransiki|-1.508|134.171|ID|West Papua|84
 Rāni|25.350|73.309|IN|Rajasthan|83
 Rānīr Bāzār|23.835|91.366|IN|Tripura|82
 Rantoul|40.308|-88.156|US|Illinois|82
+Ranong Airport|9.778|98.585|TH|Ranong province|82|f
 Rānāpur|22.647|74.521|IN|Madhya Pradesh|82
 Rankweil|47.271|9.643|AT|Vorarlberg|81
 Ranoli|22.401|73.135|IN|Gujarat|81
@@ -64,11 +65,13 @@ Rangdu|30.593|108.306|CN|Chongqing|81
 Rangpo|27.177|88.534|IN|Sikkim|80
 Randazzo|37.877|14.950|IT|Sicily|80
 Rangsdorf|52.291|13.419|DE|Brandenburg|79
+Rand Airport|-26.243|28.151|ZA|Gauteng|79|f
 Ransart|50.462|4.476|BE|Wallonia|79
 Ranai Kota|3.940|108.378|ID|Riau Islands|79
 Ran|22.179|69.333|IN|Gujarat|79
 Rancho Alegre [Fraccionamiento]|20.474|-103.258|MX|Jalisco|79
 Ransbach-Baumbach|50.465|7.728|DE|Rheinland-Pfalz|77
+Rankin Inlet Airport|62.810|-92.113|CA|Nunavut|77|f
 Rangapahār|25.856|93.705|IN|Assam|76
 Rancheria Payau|7.854|123.160|PH|Zamboanga Peninsula|76
 Ranohira|-22.483|45.400|MG|Ihorombe|76
@@ -76,15 +79,18 @@ Ranica|45.723|9.713|IT|Lombardy|75
 Ranchettes|41.219|-104.790|US|Wyoming|75
 Rancho Murieta|38.502|-121.095|US|California|75
 Randalstown|54.750|-6.300|GB|Northern Ireland|75
+Rantoul National Aviation Center|40.294|-88.142|US|Illinois|74|f
 Rangendingen|48.382|8.889|DE|Baden-Wurttemberg|74
 Rangāpuram|13.145|79.398|IN|Tamil Nadu|74
 Ranstadt|50.357|8.984|DE|Hesse|74
 Ranson|39.295|-77.861|US|West Virginia|74
 Rankoshimachi|42.809|140.539|JP|Hokkaido|74
+Randøy|59.209|6.036|NO|Rogaland|73|f
 Rānīpur|22.576|77.977|IN|Madhya Pradesh|73
 Rancho Veloz|22.881|-80.391|CU|Villa Clara Province|73
 Rancho Calaveras|38.127|-120.858|US|California|73
 Rannebergen|57.802|12.071|SE|Västra Götaland|73
+Rancho Murieta Airport|38.488|-121.104|US|California|72|f
 Randleman|35.818|-79.803|US|North Carolina|72
 Rankovce|42.170|22.116|MK|Rankovce|72
 Rang-du-Fliers|50.417|1.644|FR|Hauts-de-France|72
@@ -98,6 +104,7 @@ Randersacker|49.760|9.983|DE|Bavaria|71
 Rancho Nuevo de la Cruz|20.651|-101.518|MX|Guanajuato|71
 Rancho Queimado|-27.672|-49.022|BR|Santa Catarina|70
 Rantasalmi|62.067|28.300|FI|South Savo|70
+Randalls Island|40.797|-73.922|US|New York|70|f
 Randogne|46.310|7.501|CH|Valais|70
 Rannersdorf|48.128|16.464|AT|Lower Austria|70
 Rancho Santa Fe|33.020|-117.203|US|California|70
@@ -106,6 +113,9 @@ Rankin Inlet|62.809|-92.085|CA|Nunavut|69
 Rancho Nuevo|22.222|-100.923|MX|San Luis Potosí|69
 Rantīs|32.028|35.019|PS|West Bank|69
 Rancho Verde|31.916|-116.588|MX|Baja California|69
+Randall Airport|41.431|-74.393|US|New York|69|f
+Ranger Uranium Mine|-12.682|132.917|AU|Northern Territory|69|f
+Rangiroa Airport|-14.954|-147.661|PF|Tuamotu-Gambier Islands|69|f
 Rantigny|49.328|2.442|FR|Hauts-de-France|68
 Rancho Alegre d'Oeste|-24.307|-52.954|BR|Paraná|68
 Ranchos de Taos|36.359|-105.609|US|New Mexico|68
@@ -116,6 +126,7 @@ Rangely|40.087|-108.805|US|Colorado|68
 Rantau Panjang|6.022|101.977|MY|Kelantan|67
 Rāniwāra|24.749|72.205|IN|Rajasthan|67
 Ranshofen|48.233|13.016|AT|Upper Austria|67
+Rangers Ballpark in Arlington|32.751|-97.083|US|Texas|67|f
 Raniżów|50.259|21.971|PL|Subcarpathia|67
 Ranao|16.208|119.816|PH|Ilocos|66
 Rankin|40.413|-79.879|US|Pennsylvania|66
@@ -129,6 +140,9 @@ Randolph|43.925|-72.666|US|Vermont|66
 Råneå|65.855|22.291|SE|Norrbotten|66
 Randvere|59.504|24.905|EE|Harjumaa|66
 Randgate|-28.399|32.218|ZA|KwaZulu-Natal|66
+Rangsundøya|66.572|13.031|NO|Nordland|65|f
+Rånön|65.717|22.917|SE|Norrbotten|65|f
+Ranvik Island|-68.900|77.833|AQ||65|f
 Râncăciov|44.889|25.358|RO|Dâmbovița County|65
 Rangiriri|-37.431|175.130|NZ|Waikato Region|65
 Randolph|44.230|-69.767|US|Maine|65
@@ -147,6 +161,10 @@ Rancho Viejo|19.249|-100.418|MX|Michoacán|64
 Rancho Tehama Reserve|40.016|-122.401|US|California|63
 Rancho Grande|14.689|-87.495|HN|Comayagua Department|63
 Randan|46.018|3.355|FR|Auvergne-Rhône-Alpes|63
+Rancagua de la Independencia Airport|-34.174|-70.776|CL|O'Higgins Region|63|f
+Ranger Peak|46.502|-114.400|US|Idaho|63|f
+Rangī|32.332|62.719|AF|Farah|63|f
+Ranwu Cuo|29.444|96.799|CN|Tibet|63|f
 Rancho Nuevo|22.408|-102.349|MX|Zacatecas|63
 Ransomville|43.239|-78.910|US|New York|63
 Rancho Nuevo de Morelos (De Guadalupe)|22.341|-101.785|MX|Zacatecas|63
@@ -169,6 +187,9 @@ Rânzești|46.221|28.095|RO|Vaslui County|62
 Rancho Nuevo|20.672|-97.206|MX|Veracruz|61
 Ransom Canyon|33.533|-101.680|US|Texas|61
 Rancho Viejo|16.865|-99.289|MX|Guerrero|61
+Råna|62.275|6.574|NO|Møre og Romsdal|61|f
+Range Regional Airport|47.392|-92.842|US|Minnesota|61|f
+Rano Island|-15.986|167.391|VU|Malampa|61|f
 Ranchicourt|50.436|2.557|FR|Hauts-de-France|61
 Rancho Viejo (Rancho Nuevo de la Democracia)|17.033|-98.224|MX|Guerrero|61
 Rancho Viejo|19.446|-96.783|MX|Veracruz|61
@@ -180,31 +201,223 @@ Rancho Viejo|16.340|-97.964|MX|Oaxaca|60
 Rancho Grande|18.354|-96.349|MX|Oaxaca|60
 Rancho de Guadalupe|21.216|-101.010|MX|Guanajuato|60
 Rancho Nuevo del Llanito|20.824|-101.369|MX|Guanajuato|60
+Rancho Alegre del Llano (El Llano)|17.271|-100.954|MX|Guerrero|60
+Rancho Nuevo|20.586|-97.461|MX|Veracruz|60
+Rânes|48.641|-0.211|FR|Normandy|60
+Ranchero|50.654|-119.202|CA|British Columbia|60
+Ranchería de Guadalupe|22.319|-101.201|MX|San Luis Potosí|60
+Ranspach|47.886|7.010|FR|Grand Est|59
+Ranchester|44.909|-107.163|US|Wyoming|59
 Ranrahirca|-9.173|-77.723|PE|Ancash|59
+Randwijk|51.953|5.708|NL|Gelderland|59
+Ranum|56.897|9.229|DK|North Denmark|59
+Rancho Nuevo|22.611|-102.119|MX|Zacatecas|59
+Rancho Nuevo|20.529|-100.743|MX|Guanajuato|59
+Randolph|42.379|-97.357|US|Nebraska|59
+Ransdaal|50.865|5.892|NL|Limburg|59
+Rancho Seco de Guantes|20.452|-101.205|MX|Guanajuato|59
+Rancho Nuevo|21.698|-99.037|MX|San Luis Potosí|59
 Ranco|45.797|8.571|IT|Lombardy|59
+Ranchería de San Martín Obispo|19.325|-100.090|MX|México|59
+Rancho Viejo|19.527|-96.978|MX|Veracruz|59
+Rancho Nuevo de San Andrés|20.377|-101.284|MX|Guanajuato|59
+Ransta|59.810|16.637|SE|Västmanland|59
+Rannamõisa|59.436|24.505|EE|Harjumaa|59
 Rankin|31.223|-101.938|US|Texas|59
+Rancho Nuevo|21.455|-98.935|MX|San Luis Potosí|58
+Rancho Viejo|25.122|-107.757|MX|Sinaloa|58
+Rancho de Pala|18.883|-97.138|MX|Veracruz|58
+Rancennes|50.116|4.819|FR|Grand Est|58
+Rancho Viejo|21.163|-98.317|MX|Hidalgo|58
+Ranguevaux|49.298|6.055|FR|Grand Est|58
+Rancho Nuevo|17.911|-95.080|MX|Veracruz|58
+Rancho Nuevo|21.896|-105.560|MX|Nayarit|58
+Rancho Point|-62.967|-60.496|AQ||58|f
+Rand Mountains|35.295|-117.777|US|California|58|f
+Randolph's Landing Area|43.113|-84.523|US|Michigan|58|f
+Ranger Mountains|36.761|-115.839|US|Nevada|58|f
+Ranger Peak|33.844|-116.826|US|California|58|f
+Ranger Peak|43.929|-110.764|US|Wyoming|58|f
+Rāni̇̄ Pokhari̇̄|27.708|85.315|NP|Bagmati Province|58|f
+Rankin Airport|40.333|-94.835|US|Missouri|58|f
+Rankonøse|61.043|8.512|NO|Innlandet|58|f
+Ranu Kumbolo|-8.050|112.921|ID|East Java|58|f
+Ranu Pane|-8.013|112.946|ID|East Java|58|f
+Randonnai|48.649|0.675|FR|Normandy|58
+Rancho Seco de Barajas|20.362|-101.689|MX|Guanajuato|58
+Rancho de Guadalupe (El Gato)|20.344|-101.559|MX|Guanajuato|58
+Ranchito de las Ánimas|19.521|-96.649|MX|Veracruz|58
+Rancho Contento|20.712|-103.478|MX|Jalisco|58
+Rancho Nuevo|21.336|-97.672|MX|Veracruz|58
+Rancho Nuevo|19.180|-97.054|MX|Puebla|58
+Rancho Nuevo|16.944|-99.471|MX|Guerrero|58
+Rancho Nuevo|19.748|-98.279|MX|Hidalgo|58
+Rancho de Pro|22.096|-99.578|MX|San Luis Potosí|57
+Ranchería la Ciénega|19.641|-100.051|MX|México|57
+Randens|45.546|6.310|FR|Auvergne-Rhône-Alpes|57
+Rândunica|45.001|28.751|RO|Tulcea County|57
+Ranfurly|-45.133|170.100|NZ|Otago|57
+Rantzwiller|47.652|7.375|FR|Grand Est|57
+Rancho el Llano|16.415|-95.155|MX|Oaxaca|57
+Rankin|32.206|-96.707|US|Texas|57
+Rannen|31.338|34.601|IL|Southern District|57
+Rancho del Cura|16.726|-92.249|MX|Chiapas|57
+Rânceni|46.404|28.105|RO|Vaslui County|57
+Ranschbach|49.196|8.029|DE|Rheinland-Pfalz|57
+Rancho la Cabaña|19.426|-98.897|MX|México|57
+Rancho Viejo del Refugio|20.451|-102.639|MX|Jalisco|57
+Ranchito de Zavala|25.718|-108.322|MX|Sinaloa|56
+Rancé|45.966|4.871|FR|Auvergne-Rhône-Alpes|56
+Rancho Cuachixolotera|18.891|-98.954|MX|Morelos|56
+Rancho Nuevo|18.551|-99.368|MX|Morelos|56
+Rancho el Calvarito|21.210|-100.918|MX|Guanajuato|56
+Rancho Nuevo|19.730|-96.674|MX|Veracruz|56
+Rankwitz|53.946|13.927|DE|Mecklenburg-Vorpommern|56
+Rancho Nuevo|18.459|-97.060|MX|Puebla|56
+Ranspach-le-Bas|47.587|7.446|FR|Grand Est|56
+Rancherías|27.817|-101.392|MX|Coahuila|56
+Rancho Viejo|17.095|-99.400|MX|Guerrero|56
+Rancho Nuevo|19.787|-101.207|MX|Michoacán|56
+Rancho Nuevo|21.418|-98.276|MX|Veracruz|56
+Ransberg|50.875|5.040|BE|Flanders|56
+Rancho Mesa Verde|32.594|-114.655|US|Arizona|56
+Randall|46.091|-94.504|US|Minnesota|56
 Ranten|47.159|14.083|AT|Styria|56
+Ranchito de Inzunza|25.644|-108.468|MX|Sinaloa|56
+Rancho Nuevo de Dolores (El Cuero)|20.627|-101.415|MX|Guanajuato|56
+Rancho Viejo|18.785|-97.209|MX|Veracruz|56
+Rancho Nuevo|21.200|-98.727|MX|San Luis Potosí|56
+Rancho Nuevo|21.876|-99.089|MX|San Luis Potosí|56
+Rancho Nuevo|21.362|-97.901|MX|Veracruz|55
+Ranchos Unidos|20.342|-101.209|MX|Guanajuato|55
+Ranier|48.613|-93.349|US|Minnesota|55
+Rancho Nuevo de Atotonilquillo|20.676|-101.896|MX|Guanajuato|55
+Ranchito Nuevo de Buenavistilla|20.941|-100.391|MX|Guanajuato|55
+Rancho Largo|20.703|-100.440|MX|Querétaro|55
+Ranchos Penitas West|27.674|-99.611|US|Texas|55
+Ranchos Penitas West Colonia|27.675|-99.603|US|Texas|55
+Rancho Camargo|27.100|-109.530|MX|Sonora|55
+Rancho de Santiago|28.350|-107.183|MX|Chihuahua|55
+Rancho del Puente (Puente Prieto)|21.977|-100.372|MX|San Luis Potosí|55
+Rancho Nuevo (Joyas del Pedregal)|19.969|-102.354|MX|Michoacán|55
 Rancio Valcuvia|45.916|8.772|IT|Lombardy|55
+Rantum|54.846|8.293|DE|Schleswig-Holstein|55
+Rankin|40.465|-87.896|US|Illinois|55
+Rancon|46.131|1.183|FR|New Aquitaine|55
+Rancho Nuevo|16.444|-98.234|MX|Oaxaca|55
+Rancho Seco|20.991|-101.416|MX|Guanajuato|54
+Randall Island|38.340|-121.551|US|California|54|f
+Randall Rocks|-68.176|-67.269|AQ||54|f
+Randsfjorden|60.417|10.400|NO|Innlandet|54|f
+Rangitoto Island|-36.783|174.867|NZ||54|f
+Rannasee|48.533|13.775|AT|Upper Austria|54|f
+Ranseren|65.187|14.326|NO|Nordland|54|f
+Ranuanjärvi|65.929|26.569|FI|Lapland|54|f
+Ranvik Glacier|-69.133|77.533|AQ||54|f
+Rancy|46.597|5.092|FR|Bourgogne-Franche-Comté|54
 Ranemsletta|64.494|11.949|NO|Trøndelag|54
 Raning|46.850|15.817|AT|Styria|54
+Ranshaw|40.786|-76.518|US|Pennsylvania|54
+Rancho Pastor|17.252|-98.246|MX|Oaxaca|54
+Rancho Nuevo|19.309|-102.705|MX|Jalisco|54
 Randolph|41.666|-111.182|US|Utah|53
 Ranzanico|45.788|9.935|IT|Lombardy|53
 Rangersdorf|46.860|12.949|AT|Carinthia|52
 Randegg|48.012|14.973|AT|Lower Austria|50
+Rantzau|54.254|10.508|DE|Schleswig-Holstein|50
+Ransweiler|49.667|7.767|DE|Rheinland-Pfalz|49
+Rana Pratap Sagar Dam|24.933|75.633|IN|Rajasthan|49|f
+Rand Peak|-80.100|159.500|AQ||49|f
+Randall Museum|37.764|-122.439|US|California|49|f
+Randall Ridge|-71.739|-64.596|AQ||49|f
+Randbreen|76.724|17.084|SJ|Svalbard|49|f
+Randen|47.772|8.569|CH|Schaffhausen|49|f
+Randenigala Dam|7.200|80.900|LK|Central Province|49|f
+Randers Fjord|56.561|10.247|DK|Central Jutland|49|f
+Ranfurly Point|-84.833|169.600|AQ||49|f
+Rangatira|-44.350|-176.167|NZ||49|f
+Rangihoua Bay|-35.168|174.090|NZ|Auckland|49|f
+Rankin Bridge|40.405|-79.881|US|Pennsylvania|49|f
+Rankin Glacier|-71.627|-62.459|AQ||49|f
+Ranomafana National Park|-21.368|47.390|MG|Upper Matsiatra|49|f
+Rantembe Dam|7.200|80.917|LK|Central Province|49|f
+Ranu Tompe|-8.047|112.963|ID|East Java|49|f
+Rannstedt|51.083|11.550|DE|Thuringia|46
+Ranchaero Airport|39.722|-121.872|US|California|40|f
+Rancho Los Cerritos Museum|33.840|-118.196|US|California|40|f
+Rancho San Antonio County Park|37.331|-122.093|US|California|40|f
+Rancho Santa Ana Botanic Garden|34.112|-117.716|US|California|40|f
+Rand Mountain|43.343|-74.175|US|New York|40|f
+Randal Tyson Track Center|36.050|-94.184|US|Arkansas|40|f
+Randall Creek Recreation Area|43.046|-98.546|US|South Dakota|40|f
+Random Island|48.133|-53.731|CA|Newfoundland and Labrador|40|f
+Raney Peak|-77.217|160.533|AQ||40|f
+Rangali Finolhu|3.618|72.724|MV||40|f
+Range Island|56.417|-78.833|CA|Nunavut|40|f
+Rangeley Lake|44.967|-70.770|US|Maine|40|f
+Rangitahi Lake|-43.767|-176.350|NZ||40|f
+Rangitoto Channel|-36.798|174.810|NZ|Auckland|40|f
+Rangitoto Range|-38.417|175.583|NZ||40|f
+Rankin Airport|31.224|-101.954|US|Texas|40|f
+Ransom Water Tower|41.157|-88.649|US|Illinois|40|f
+Ranthambore National Park|26.017|76.503|IN|Rajasthan|40|f
+Ranworth Broad|52.685|1.482|GB|England|40|f
 Ranai|3.938|108.384|ID|Riau Islands|0
+Ranambeling|-8.659|120.713|ID|East Nusa Tenggara|0
+Rancabakung|-7.623|108.137|ID|West Java|0
+Rancabelut|-7.402|108.157|ID|West Java|0
+Rancabolang|-7.271|107.803|ID|West Java|0
+Rancabuaya|-7.524|107.491|ID|West Java|0
+Rancabugel|-6.402|106.032|ID|Banten|0
+Rancabungur|-7.736|108.279|ID|West Java|0
+Rancabungur|-7.485|108.592|ID|West Java|0
+Rancaerang|-7.422|106.718|ID|West Java|0
+Rancagadog|-7.012|106.704|ID|West Java|0
+Rancageneng Satu|-7.318|108.186|ID|West Java|0
 Rancah|-7.197|108.504|ID|West Java|0
+Rancahideung|-6.543|105.848|ID|Banten|0
+Rancakole|-7.372|108.589|ID|West Java|0
+Rancakukun|-7.345|108.174|ID|West Java|0
+Rancakuya|-7.145|108.147|ID|West Java|0
+Rancamaya|-7.036|108.077|ID|West Java|0
+Rancamulya|-7.507|108.189|ID|West Java|0
+Rancanyenang|-6.338|106.016|ID|Banten|0
+Rancapanjang|-7.027|108.006|ID|West Java|0
+Rancapare|-7.157|107.944|ID|West Java|0
+Rancapeundey|-7.331|108.067|ID|West Java|0
+Rancapiit|-6.368|106.091|ID|Banten|0
+Rancaranji|-6.212|105.934|ID|Banten|0
+Rancasadang|-6.755|105.681|ID|Banten|0
+Rancaseneng|-6.759|105.867|ID|Banten|0
 Rancho Grande|13.237|-85.558|NI|Matagalpa Department|0
 Ranchos|-35.516|-58.319|AR|Buenos Aires|0
 Randaberg|59.000|5.619|NO|Rogaland|0
+Randangan|-6.708|110.990|ID|Central Java|0
+Randegan|-7.352|108.571|ID|West Java|0
+Randegan Dua|-7.356|108.568|ID|West Java|0
+Randu|-8.120|111.793|ID|East Java|0
 Randuagung|-8.072|113.303|ID|East Java|0
+Randuagung|-7.766|114.236|ID|East Java|0
+Randuboto|-7.003|112.581|ID|East Java|0
+Randumerak|-7.728|113.481|ID|East Java|0
+Randusari|-7.054|108.709|ID|West Java|0
+Rangah|-8.782|116.351|ID|West Nusa Tenggara|0
+Ranggagata|-8.722|116.185|ID|West Nusa Tenggara|0
+Ranggawatu|-8.612|120.044|ID|East Nusa Tenggara|0
+Ranghe|33.692|112.851|CN|Henan|0
+Rangmanten|-6.890|113.085|ID|East Java|0
+Rangxi|29.915|116.722|CN|Jiangxi|0
+Ranisoba|-8.823|121.019|ID|East Nusa Tenggara|0
 Rankūs|33.756|36.388|SY|Rif-dimashq|0
 Rann|12.269|14.466|NG|Borno State|0
 Ranracancha|-13.534|-73.605|PE|Apurímac Department|0
+Rantang|-8.549|120.742|ID|East Nusa Tenggara|0
 Rantau|-2.933|115.162|ID|South Kalimantan|0
 Rantau Ambacang|-1.398|101.919|ID|Jambi|0
 Rantau Panjang|-2.496|102.251|ID|Jambi|0
 Rantau Panjang|-1.845|102.308|ID|Jambi|0
 Rantau Panjang|4.727|97.757|ID|Aceh|0
+Rantau Panjang Kiri|2.050|100.632|ID|Riau|0
 Rantau Prapat|2.332|100.052|ID|North Sumatra|0
 Rantaupulut|-2.009|112.196|ID|Central Kalimantan|0
 Rantepang|-2.925|119.941|ID|South Sulawesi|0

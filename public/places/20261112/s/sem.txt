@@ -13,9 +13,11 @@ Semboku|39.709|140.747|JP|Akita|88
 Semënov|56.788|44.496|RU|Nizhny Novgorod Oblast|88
 Semi|6.367|2.617|BJ|Ouémé|87
 Semikarakorsk|47.517|40.808|RU|Rostov|87
+Semperoper|51.054|13.735|DE|Saxony|86|f
 Seminyih|2.948|101.847|MY|Selangor|86
 Şemdinli|37.305|44.574|TR|Hakkâri|86
 Seminole|27.840|-82.791|US|Florida|85
+Semey Airport|50.351|80.234|KZ|East Kazakhstan|85|f
 Semender|42.986|47.404|RU|Dagestan|84
 Sémien|7.614|-7.130|CI|Montagnes|83
 Sembedu|13.130|79.563|IN|Tamil Nadu|82
@@ -32,30 +34,40 @@ Sematan|1.800|109.767|MY|Sarawak|77
 Semarwāra|23.567|73.743|IN|Rajasthan|77
 Sémé|15.194|-12.945|SN|Matam|77
 Semenovka|56.647|47.980|RU|Mariy-El Republic|76
+Semidi Islands|56.062|-156.698|US|Alaska|76|f
 Semenivka|49.597|33.179|UA|Poltava|76
 Semenivka|52.179|32.582|UA|Chernihiv Oblast|75
 Séman|6.894|-5.297|CI|Yamoussoukro|75
 Semirara|12.070|121.399|PH|Western Visayas|75
+Sematan Airport|1.814|109.763|MY|Sarawak|74|f
 Semur-en-Auxois|47.483|4.333|FR|Bourgogne-Franche-Comté|74
 Séméac|43.228|0.105|FR|Occitanie|74
 Sémiambli|7.543|-7.194|CI|Montagnes|74
+Semonkong Airport|-29.839|28.060|LS|Maseru District|73|f
 Semāri|24.055|73.857|IN|Rajasthan|73
 Sembabule|-0.077|31.457|UG|Central Region|73
 Semiletka|55.360|54.615|RU|Bashkortostan Republic|72
+Semisopochnoi Island|51.951|179.601|US|Alaska|72|f
+Semnan Municipal Airport|35.595|53.495|IR|Semnan|72|f
 Semmes|30.778|-88.259|US|Alabama|72
 Sempach|47.136|8.191|CH|Lucerne|71
 Semlac|46.117|20.933|RO|Arad County|71
 Šempeter pri Gorici|45.929|13.641|SI|Municipality of Šempeter–Vrtojba|71
 Semut|6.664|122.219|PH|Autonomous Region in Muslim Mindanao|71
+Semangka Bay|-5.665|104.736|ID|Lampung|70|f
+Semichi Islands|52.733|174.011|US|Alaska|70|f
 Semoy|47.933|1.950|FR|Centre-Val de Loire|70
 Semerah|1.885|102.783|MY|Johor|69
 Semypolky|50.726|30.934|UA|Kyiv Oblast|69
 Semenivka|46.895|35.408|UA|Zaporizhzhia|69
 Semkhoz|56.283|38.067|RU|Moscow Oblast|69
+Semenanjung Bomberai|-3.155|133.170|ID|West Papua|69|f
 Sementina|46.184|8.992|CH|Ticino|69
 Seminole Manor|26.584|-80.100|US|Florida|68
 Semonte-Casamorcia|43.368|12.531|IT|Umbria|68
 Sem-Peixe|-20.109|-42.839|BR|Minas Gerais|68
+Semelholstinden|61.535|8.357|NO|Innlandet|67|f
+Semenov-Tyan-Shanskiy peak|45.043|80.256|KZ||67|f
 Semblançay|47.500|0.583|FR|Centre-Val de Loire|66
 Šempeter v Savinjski Dolini|46.256|15.122|SI|Municipality of Žalec|66
 Sémalens|43.591|2.110|FR|Occitanie|66
@@ -75,20 +87,91 @@ Semriach|47.217|15.400|AT|Styria|63
 Semenivka|46.608|33.597|UA|Kherson|63
 Sembach|49.512|7.867|DE|Rheinland-Pfalz|62
 Šempas|45.930|13.744|SI|Urban Municipality of Nova Gorica|61
+Semirara Island|12.050|121.390|PH|Western Visayas|61|f
+Semyazino Airport|56.124|40.312|RU|Vladimir Oblast|61|f
 Semeljci|45.361|18.544|HR|County of Osijek-Baranja|60
+Semenkovo|56.425|38.259|RU|Moscow Oblast|60
+Semianivka|49.663|34.592|UA|Poltava|60
+Semsales|46.573|6.929|CH|Fribourg|60
+Semice|50.164|14.871|CZ|Central Bohemia|59
+Semoutiers-Montsaon|48.084|5.035|FR|Grand Est|59
+Semécourt|49.194|6.137|FR|Grand Est|59
+Semlow|54.181|12.657|DE|Mecklenburg-Vorpommern|59
+Šemovec|46.304|16.471|HR|Varaždin|58
+Semera Airport|11.543|41.240|ET|Āfar|58|f
+Seminole, Seminole Municipal Airport|35.274|-96.675|US|Oklahoma|58|f
+Semsvatnet|59.858|10.417|NO|Akershus|58|f
+Sembrancher|46.078|7.153|CH|Valais|58
+Semington|51.345|-2.148|GB|England|58
+Sempigny|49.559|2.995|FR|Hauts-de-France|58
+Semogo|46.485|10.270|IT|Lombardy|58
+Semur-en-Brionnais|46.266|4.095|FR|Bourgogne-Franche-Comté|57
+Semmenstedt|52.094|10.697|DE|Lower Saxony|57
+Semenivka|46.272|30.128|UA|Odesa|55
+Semerūn|30.929|51.288|IR|Kohgiluyeh and Boyer-Ahmad|55
+Semykhatka|46.172|34.733|UA|Kherson|55
+Semanín|49.869|16.453|CZ|Pardubice Region|55
 Semmering|47.633|15.830|AT|Lower Austria|55
+Semín|50.053|15.520|CZ|Pardubice Region|55
+Sembawang End Park|1.464|103.837|SG||54|f
+Semer Water|54.267|-2.117|GB|England|54|f
+Sempor Reservoir|-7.556|109.485|ID|Central Java|54|f
+Semporna Airport|4.450|118.583|MY|Sabah|54|f
+Šemnice|50.237|12.976|CZ|Carlsbad Region|54
+Semyachki|52.651|33.663|RU|Bryansk Oblast|54
+Semčice|50.368|15.007|CZ|Central Bohemia|54
 Semproniano|42.729|11.541|IT|Tuscany|54
+Semiahmoo Bay|49.016|-122.818|CA|British Columbia|49|f
+Semla Reef|-54.250|-37.454|GS||49|f
 Semiana|45.137|8.730|IT|Lombardy|48
 Semestene|40.398|8.725|IT|Sardinia|47
+Semeltinden|61.513|8.407|NO|Innlandet|40|f
+Semiahmoo Spit|48.985|-122.782|US|Washington|40|f
+Semifonte|43.542|11.131|IT|Tuscany|40|f
+Seminoe Dam|42.156|-106.908|US|Wyoming|40|f
+Seminole State Park|30.806|-84.875|US|Georgia|40|f
+Semprebon, Mount|-82.067|-88.017|AQ||40|f
+Semuliki National Park|0.822|30.063|UG|Western Region|40|f
 Semillas|41.059|-3.119|ES|Castille-La Mancha|34
 Sempere|38.920|-0.481|ES|Valencia|31
+Semalang|-8.366|114.221|ID|East Java|0
+Semambung|-7.097|112.459|ID|East Java|0
+Semampir|-7.308|112.780|ID|East Java|0
+Semampir|-6.988|111.483|ID|Central Java|0
+Semampir Barat|-7.372|112.773|ID|East Java|0
 Semamung|-8.652|117.429|ID|West Nusa Tenggara|0
+Semanding|-7.144|111.686|ID|East Java|0
+Semanding Barat|-6.926|112.065|ID|East Java|0
+Semang|-8.578|120.219|ID|East Nusa Tenggara|0
+Semanggi|-7.059|111.428|ID|Central Java|0
+Semanten|-6.915|111.383|ID|Central Java|0
 Semarapura|-8.535|115.402|ID|Bali|0
+Semayan|-8.719|116.284|ID|West Nusa Tenggara|0
+Sembalunbumbung|-8.385|116.545|ID|West Nusa Tenggara|0
+Sembalunlawang|-8.364|116.534|ID|West Nusa Tenggara|0
+Sembon|-8.014|111.902|ID|East Java|0
 Semboro Lor|-8.190|113.445|ID|East Java|0
+Semboropasar|-8.211|113.445|ID|East Java|0
+Sembung|-8.141|112.383|ID|East Java|0
+Sembung|-8.061|111.896|ID|East Java|0
+Sembung|-6.970|111.369|ID|Central Java|0
+Sembung|-6.894|113.150|ID|East Java|0
+Sembungan Kidul|-7.006|112.508|ID|East Java|0
+Sembungin|-7.000|111.368|ID|Central Java|0
+Sembungin|-6.795|111.754|ID|East Java|0
+Sembungjaya|-7.349|108.508|ID|West Java|0
 Semenivka|49.870|28.663|UA|Zhytomyr Oblast|0
+Semerak|-6.580|111.056|ID|Central Java|0
 Semilat|-2.308|112.212|ID|Central Kalimantan|0
 Semiluki|51.729|39.048|RU|Voronezh Oblast|0
+Semiring|-7.630|114.022|ID|East Java|0
 Semongkat|-8.572|117.319|ID|West Nusa Tenggara|0
+Sempe Atas|-8.655|117.363|ID|West Nusa Tenggara|0
+Sempol|-8.008|114.149|ID|East Java|0
+Sempolkrajan|-8.255|112.502|ID|East Java|0
+Sempu|-8.318|114.152|ID|East Java|0
+Sempu|-6.762|111.151|ID|Central Java|0
+Sempur|-7.621|108.339|ID|West Java|0
 Semuda|-2.862|112.973|ID|Central Kalimantan|0
 Semurup|-1.992|101.369|ID|Jambi|0
 Semyduby|50.344|25.809|UA|Rivne Oblast|0

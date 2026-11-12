@@ -1,6 +1,7 @@
 Tyumen Oblast|57.683|69.133|RU||122|r
 Tyumen|57.152|65.527|RU|Tyumen Oblast|118
 Tyrol|47.250|11.333|AT||117|r
+Tyrrhenian Sea|40.000|12.000|||104|f
 Tyre|33.273|35.194|LB|South Governorate|103
 Tychy|50.137|18.966|PL|Silesia|102
 Tyoply Stan|55.620|37.493|RU|Moscow|102
@@ -18,6 +19,7 @@ Tyngsboro|42.677|-71.425|US|Massachusetts|81
 Tyul’kubas|42.486|70.296|KZ|Turkistan|81
 Týrnavos|39.738|22.289|GR|Thessaly|81
 Tyul’gan|52.341|56.162|RU|Orenburg Oblast|80
+Tynda Airport|55.284|124.779|RU|Amur Oblast|80|f
 Tyuratam|45.650|63.312|KZ|Baikonur|80
 Tysmenytsia|48.904|24.847|UA|Ivano-Frankivsk|79
 Tyachiv|48.011|23.572|UA|Zakarpattia|79
@@ -32,12 +34,17 @@ Tyumentsevo|53.324|81.502|RU|Altai Krai|75
 Týnec nad Sázavou|49.833|14.590|CZ|Central Bohemia|75
 Tyrone|40.671|-78.239|US|Pennsylvania|75
 Tympáki|35.073|24.769|GR|Crete|74
+Tyne Bridge|54.968|-1.606|GB|England|74|f
+Tyrifjorden|60.019|10.245|NO|Buskerud|74|f
 Tyukhtet|56.542|89.316|RU|Krasnoyarsk Krai|74
 Tyringe|56.160|13.598|SE|Skåne|73
 Tynne|50.601|26.185|UA|Rivne Oblast|72
 Tyret’ Pervaya|53.670|102.311|RU|Irkutsk Oblast|72
 Tyvriv|49.012|28.500|UA|Vinnytsia|72
 Tyro|35.809|-80.373|US|North Carolina|72
+Tympaki Airport|35.063|24.766|GR|Crete|71|f
+Tynecastle Stadium|55.939|-3.232|GB|Scotland|71|f
+Tyssøyna|60.294|5.157|NO|Vestland|71|f
 Tyubuk|56.055|60.941|RU|Chelyabinsk|71
 Tysovets|48.173|25.899|UA|Chernivtsi|71
 Tygda|53.113|126.330|RU|Amur Oblast|71
@@ -69,6 +76,7 @@ Tylicz|49.396|21.024|PL|Lesser Poland|66
 Tyésérila|9.943|-7.645|CI|Denguélé District|66
 Tymanivka|48.573|28.840|UA|Vinnytsia|66
 Tykocin|53.206|22.775|PL|Podlasie|66
+Tynningö|59.383|18.383|SE|Stockholm|65|f
 Tytuvėnai|55.598|23.202|LT|Siauliai|65
 Tyolohokaha|9.217|-5.500|CI|Savanes District|65
 Tyniec Mały|51.019|16.920|PL|Lower Silesia|64
@@ -78,6 +86,9 @@ Tynaarlo|53.078|6.617|NL|Drenthe|64
 Tyarlevo|59.708|30.445|RU|St. Petersburg|64
 Tylertown|31.116|-90.142|US|Mississippi|64
 Tyésan|7.359|-7.380|CI|Montagnes|64
+Tymfristós Óros|38.950|21.817|GR|Central Greece|63|f
+Tysdalsvatnet,øvre|59.173|6.361|NO|Rogaland|63|f
+Tysfjorden|68.254|16.116|NO|Nordland|63|f
 Tyélivogo|9.522|-5.733|CI|Savanes District|63
 Tyéfindougou|8.154|-5.732|CI|Woroba|63
 Tysalovo|48.183|23.750|UA|Zakarpattia|62
@@ -85,6 +96,9 @@ Tye|32.458|-99.871|US|Texas|62
 Tylstrup|57.195|9.953|DK|North Denmark|62
 Tyémorokaha|8.499|-5.203|CI|Vallée du Bandama District|62
 Tyhee|42.952|-112.466|US|Idaho|61
+Tyler Municipal Airport|44.286|-96.148|US|Minnesota|61|f
+Tysnesøya|59.995|5.589|NO|Vestland|61|f
+Tyssdalsvatnet|59.079|6.085|NO|Rogaland|61|f
 Tyler|44.278|-96.135|US|Minnesota|61
 Tytarenkove|48.432|39.198|UA|Luhansk|61
 Týnec|48.779|17.013|CZ|South Moravian|61
@@ -93,8 +107,71 @@ Tymákov|49.719|13.510|CZ|Plzeň Region|61
 Tyndall|42.993|-97.863|US|South Dakota|60
 Tyrlaching|48.067|12.667|DE|Bavaria|60
 Tyémasoba|7.815|-6.453|CI|Woroba|60
+Tyémoudougou|8.378|-5.795|CI|Woroba|60
+Tymień|54.202|15.853|PL|West Pomerania|60
+Tyndall|50.083|-96.659|CA|Manitoba|59
+Tybava|48.542|23.089|UA|Zakarpattia|59
+Tymchenky|49.459|32.569|UA|Cherkasy|59
 Tyrawa Wołoska|49.577|22.370|PL|Subcarpathia|59
+Tyédyarékaha|8.033|-5.100|CI|Vallée du Bandama District|59
+Tymchenky|49.223|36.142|UA|Kharkiv|59
+Tystberga|58.850|17.233|SE|Södermanland|59
+Týn nad Bečvou|49.517|17.618|CZ|Olomouc Region|59
+Tysaashvan|48.420|22.249|UA|Zakarpattia|59
+Tydeo Larre Borges International Airport|-32.363|-58.062|UY|Paysandú Department|58|f
+Tyler Pounds Field|32.354|-95.402|US|Texas|58|f
+Tyuleniy Point|-70.735|11.600|AQ||58|f
+Tymkove|47.875|29.282|UA|Odesa|58
+Tyristrand|60.086|10.097|NO|Buskerud|58
+Tyrone|36.954|-101.065|US|Oklahoma|58
+Tyers|-38.149|146.480|AU|Victoria|58
+Tyronza|35.490|-90.359|US|Arkansas|57
+Ty Ty|31.472|-83.647|US|Georgia|57
+Tyssedal|60.116|6.559|NO|Vestland|57
+Tymonove|49.744|38.446|UA|Luhansk|57
+Tysaahtelek|48.445|22.329|UA|Zakarpattia|57
 Tytherington|51.593|-2.480|GB|England|56
+Tykhyi|48.920|22.826|UA|Zakarpattia|56
+Tyrone|32.710|-108.302|US|New Mexico|56
+Tyéso|8.441|-6.589|CI|Woroba|55
+Tylove|44.441|33.732|UA|Sevastopol City|55
+Tyasédougou|8.330|-5.850|CI|Woroba|55
+Tyihlash|48.488|22.232|UA|Zakarpattia|55
+Tyenko|8.229|-7.571|CI|Woroba|55
+Tygart Lake State Park|39.273|-80.007|US|West Virginia|54|f
+Tyler Davidson Fountain|39.101|-84.512|US|Ohio|54|f
+Tyräjärvi|65.474|28.699|FI|North Ostrobothnia|54|f
+Tyssen Islands|-51.875|-59.648|FK||54|f
+Tyshiv|48.810|23.067|UA|Zakarpattia|54
+Tylden|-37.326|144.406|AU|Victoria|54
+Tyin|61.242|8.231|NO|Innlandet|49|f
+Tyler Glacier|-72.250|168.583|AQ||49|f
+Tyndall Mountains|-67.251|-67.262|AQ||49|f
+Tyonek Airport|61.072|-151.136|US|Alaska|49|f
+Typee Mountain|50.958|-117.379|CA|British Columbia|49|f
+Tyree Head|-77.650|167.417|AQ||49|f
+Tyrrell, Mount|-69.634|-69.512|AQ||49|f
+Tyssestrengene|60.135|6.754|NO|Vestland|49|f
+Tystigbreen|61.917|7.353|NO|Vestland|49|f
+Tyaughton Lake|50.945|-122.772|CA|British Columbia|40|f
+Tybee National Wildlife Refuge|32.045|-80.913|US|South Carolina|40|f
+Tyee Mountain|49.983|-125.903|CA|British Columbia|40|f
+Tyee Mountain Lookout|47.864|-120.471|US|Washington|40|f
+Tyersal Mediumwave Transmitter|53.786|-1.702|GB|England|40|f
+Tygart Dam|39.313|-80.034|US|West Virginia|40|f
+Tyhee Lake Park|54.700|-127.037|CA|British Columbia|40|f
+Tyler Hill|41.710|-75.111|US|Pennsylvania|40|f
+Tyler Island|38.367|-81.712|US|West Virginia|40|f
+Tyler Lake|44.412|-93.711|US|Minnesota|40|f
+Tyler Museum of Art|32.330|-95.282|US|Texas|40|f
+Tyn Head Court|39.155|-75.476|US|Delaware|40|f
+Tyndall Glacier|40.305|-105.689|US|Colorado|40|f
+Tynemouth Castle|55.018|-1.419|GB|England|40|f
+Tyree Ridge|-78.383|-85.667|AQ||40|f
+Tyresö Palace|59.235|18.305|SE|Stockholm|40|f
+Tyrrell Lake|49.390|-112.270|CA|Alberta|40|f
+Tyson Lake|44.614|-95.533|US|Minnesota|40|f
+Tystrup Sø|55.362|11.579|DK|Zealand|40|f
 Tyberton|52.045|-2.904|GB|England|0
 Tyrnyauz|43.406|42.927|RU|Kabardino-Balkariya Republic|0
 Tysse|60.374|5.760|NO|Vestland|0

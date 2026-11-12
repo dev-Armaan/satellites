@@ -2,7 +2,7 @@ Kanagawa|35.417|139.333|JP||140|r
 Kano State|11.500|8.500|NG||134|r
 Kano|12.000|8.517|NG|Kano State|134
 Kanpur|26.465|80.350|IN|Uttar Pradesh|129
-Kansas|38.500|-98.501|US||127|r
+Kansas|38.500|-98.501|US||128|r
 Kananga|-5.896|22.417|CD|Kasai-Central|122
 Kanayannur|9.967|76.267|IN|Kerala|119
 Kankan Region|10.400|-9.250|GN||115|r
@@ -41,10 +41,12 @@ Kanem|15.000|15.000|TD||96|r
 Kanbe|16.707|96.002|MM|Yangon|95
 Kan’onjichō|34.128|133.646|JP|Kagawa|95
 Kandukūr|15.215|79.904|IN|Andhra Pradesh|95
+Kansai International Airport|34.427|135.244|JP|Osaka|95|f
 Kandi|11.134|2.939|BJ|Alibori|95
 Kāndi|23.959|88.040|IN|West Bengal|95
 Kanakapura|12.547|77.420|IN|Karnataka|95
 Kangāvar|34.504|47.965|IR|Kermanshah Province|94
+Kandahar Airport|31.507|65.850|AF|Kandahar|94|f
 Kanash|55.510|47.491|RU|Chuvash Republic|94
 Kānūru|16.499|80.691|IN|Andhra Pradesh|94
 Kanye|-24.967|25.333|BW|Ngwaketsi|94
@@ -60,6 +62,7 @@ Kannamangalam|11.075|75.985|IN|Kerala|92
 Kannabechō-yahiro|34.558|133.418|JP|Hiroshima|92
 Kansanshi|-12.095|26.427|ZM|North-Western|92
 Kanegusuku|26.197|127.726|JP|Okinawa|92
+Kangaroo Island|-35.812|137.205|AU|South Australia|92|f
 Kandalaksha|67.151|32.413|RU|Murmansk|92
 Kanda|33.783|130.983|JP|Fukuoka|92
 Kānker|20.272|81.492|IN|Chhattisgarh|91
@@ -91,6 +94,7 @@ Kaniv|49.752|31.470|UA|Cherkasy|87
 Kanhān|21.229|79.240|IN|Maharashtra|87
 Kanmaki|34.564|135.706|JP|Nara|87
 Kant|42.891|74.851|KG|Chuy Region|87
+Kanchenjunga|27.703|88.147|NP|Koshi|87|f
 Kanniyākumāri|8.090|77.538|IN|Tamil Nadu|87
 Kantābānji|20.467|82.920|IN|Odisha|87
 Kanaya|34.820|138.128|JP|Shizuoka|86
@@ -108,6 +112,8 @@ Kantyshevo|43.228|44.633|RU|Ingushetiya Republic|85
 Kangaba|11.933|-8.417|ML|Koulikoro|85
 Kanifing|13.446|-16.674|GM|Banjul|85
 Kanungu|-0.958|29.790|UG|Western Region|84
+Kangra Airport|32.165|76.263|IN|Himachal Pradesh|84|f
+Kantara Castle|35.407|33.924|CY|Ammochostos|84|f
 Kankauli|16.266|73.712|IN|Maharashtra|84
 Kandāri|21.061|75.810|IN|Maharashtra|84
 Kandıra|41.070|30.153|TR|Kocaeli|84
@@ -141,6 +147,7 @@ Kānodar|24.089|72.394|IN|Gujarat|82
 Kandry|54.567|54.117|RU|Bashkortostan Republic|82
 Kaniyūr|11.093|77.156|IN|Tamil Nadu|82
 Kangal|39.234|37.391|TR|Sivas|82
+Kananga Airport|-5.900|22.469|CD|Kasai-Central|81|f
 Kangiwa|12.553|3.818|NG|Kebbi|81
 Kani|8.478|-6.605|CI|Woroba|81
 Kānjikkovil|11.369|77.596|IN|Tamil Nadu|81
@@ -151,6 +158,7 @@ Kānar|23.672|76.171|IN|Madhya Pradesh|80
 Kāntāphor|22.577|76.560|IN|Madhya Pradesh|80
 Kannivādi|10.379|77.830|IN|Tamil Nadu|80
 Kanjhawāla|28.737|77.005|IN|Delhi|80
+Kandla Airport|23.113|70.100|IN|Gujarat|80|f
 Kandete|-9.150|33.800|TZ|Mbeya|80
 Kangundo|-1.303|37.348|KE|Machakos County|80
 Kanjiža|46.067|20.050|RS|Vojvodina|80
@@ -166,11 +174,13 @@ Kangra|32.091|76.263|IN|Himachal Pradesh|80
 Kanakpur Part-II|24.800|92.804|IN|Assam|80
 Kan Nar West|16.881|96.093|MM|Yangon|80
 Kantilo|20.362|85.192|IN|Odisha|79
+Kansas City International Airport|39.296|-94.718|US|Missouri|79|f
 Kannavam|11.845|75.663|IN|Kerala|79
 Kanoroba|9.111|-6.122|CI|Savanes District|79
 Kangping|30.978|109.245|CN|Chongqing|79
 Kandel|49.083|8.197|DE|Rheinland-Pfalz|78
 Kāndri|21.420|79.277|IN|Maharashtra|78
+Kandi Airport|11.133|2.933|BJ|Alibori|78|f
 Kangarāli-khurd|15.895|74.499|IN|Karnataka|78
 Kāndra|22.852|86.052|IN|Jharkhand|78
 Kankossa|15.939|-11.527|MR|Assaba|78
@@ -185,6 +195,8 @@ Kannamangalam|12.752|79.148|IN|Tamil Nadu|77
 Kanisail Pt I|24.855|92.370|IN|Assam|77
 Kanzra|7.323|-6.222|CI|Sassandra-Marahoue|77
 Kantunilkín|21.102|-87.486|MX|Quintana Roo|77
+Kantchari Airport|12.467|1.500|BF|Est|77|f
+Kanton Island|-2.810|-171.677|KI|Phoenix Islands|77|f
 Kandiari|26.916|68.522|PK|Sindh|77
 Kang|-23.675|22.788|BW|Kgalagadi|77
 Kantabamsuguda|18.323|82.883|IN|Andhra Pradesh|77
@@ -192,10 +204,13 @@ Kandasar|20.842|85.143|IN|Odisha|76
 Kanyosha|-3.415|29.408|BI|Bujumbura Rural|76
 Kangema|-0.686|36.965|KE|Murang'A|76
 Kangagui|5.718|-6.810|CI|Bas-Sassandra District|76
+Kanab Municipal Airport|37.011|-112.531|US|Utah|76|f
 Kanakpur I|24.795|92.806|IN|Assam|76
 Kangkong|6.000|100.345|MY|Kedah|76
 Kanangonon|8.298|-5.056|CI|Vallée du Bandama District|76
 Kanapaka|18.115|83.374|IN|Andhra Pradesh|76
+Kanabak Island|11.244|-15.724|GW|Bolama|75|f
+Kanlıdivane|36.526|34.178|TR|Mersin|75|f
 Kango|0.172|10.109|GA|Estuaire|75
 Kanouan|7.417|-5.452|CI|Vallée du Bandama District|75
 Kan Beit|16.725|95.994|MM|Yangon|75
@@ -217,6 +232,8 @@ Kanab|37.047|-112.526|US|Utah|73
 Kanguélé|8.112|-2.715|CI|Zanzan District|73
 Kanelovskaya|46.590|39.194|RU|Krasnodar Krai|73
 Kanakeravan|40.247|44.535|AM|Kotayk|73
+Kangerlussuaq Airport|67.012|-50.714|GL|Qeqqata|72|f
+Kansas City - Lee's Summit Regional Airport|38.960|-94.372|US|Missouri|72|f
 Kangare|-0.796|36.881|KE|Murang'A|72
 Kanáli|39.606|19.892|GR|Ionian Islands|72
 Kangkar Baru|1.989|103.083|MY|Johor|72
@@ -234,17 +251,31 @@ Kanashevo|55.217|62.063|RU|Chelyabinsk|70
 Kandava|57.041|22.775|LV|Tukums Municipality|70
 Kanda-jinbōchō|35.696|139.756|JP|Tokyo|70
 Kańczuga|49.983|22.412|PL|Subcarpathia|70
+Kanaal Antwerpen-Turnhout|51.333|4.933|BE|Flanders|70|f
+Kanaal Van Bocholt naar Herentals|51.167|4.817|BE|Flanders|70|f
+Kanuku Mountains|3.200|-59.583|GY|Upper Takutu-Upper Essequibo|70|f
+Kanye Airport|-25.051|25.318|BW|Ngwaketsi|70|f
 Kānam|8.543|78.057|IN|Tamil Nadu|70
 Kanxoc|20.616|-88.098|MX|Yucatán|70
 Kaniów|49.943|19.051|PL|Silesia|69
 Kanaura|44.707|141.789|JP|Hokkaido|69
 Kancab|20.195|-89.346|MX|Yucatán|69
+Kanaal van Gent naar Terneuzen|51.096|3.733|BE|Flanders|69|f
+Kanaf 25|30.775|34.668|IL|Southern District|69|f
+Kandawgyi Lake|16.795|96.165|MM|Yangon|69|f
+Kandoodhoo|2.321|72.917|MV|Thaa Atholhu|69|f
+Kānjirowā Himāl|29.408|82.707|NP|Karnali Pradesh|69|f
+Kanoko Dam|43.608|143.388|JP|Hokkaido|69|f
 Kang Sahbu|31.216|75.515|IN|Punjab|69
 Kanaláki|39.234|20.600|GR|Epirus|68
 Kandabong|9.686|123.073|PH|Central Visayas|67
 Kanturk|52.167|-8.900|IE|Munster|67
 Kangduo|35.034|103.525|CN|Gansu|67
 Kanluran|14.417|120.850|PH|Calabarzon|67
+Kanayama Dam|35.153|140.076|JP|Chiba|67|f
+Kanditheemu|6.439|72.917|MV||67|f
+Kanduhulhudhoo|0.354|73.543|MV|Gaafu Alif Atoll|67|f
+Kankakee Airport|41.097|-87.910|US|Illinois|67|f
 Kántorjánosi|47.933|22.150|HU|Szabolcs-Szatmár-Bereg|67
 Kanlagay|5.876|121.291|PH|Autonomous Region in Muslim Mindanao|67
 Kangbapleu|7.188|-7.984|CI|Montagnes|67
@@ -253,6 +284,18 @@ Kanadey|53.168|47.526|RU|Ulyanovsk|66
 Kandopleu|7.591|-7.616|CI|Montagnes|66
 Kanta|7.144|-8.161|CI|Montagnes|66
 Kanayevka|53.108|45.561|RU|Penza Oblast|66
+Kanaal van Willebroek|50.867|4.367|BE||65|f
+Kanacea Island|-17.265|-179.153|FJ|Eastern|65|f
+Kanaga Island|51.751|-177.332|US|Alaska|65|f
+Kanał Gliwicki|50.361|18.172|PL||65|f
+Kanal Imeni Moskvy|56.717|37.133|RU||65|f
+Kanał Mosiński|52.117|16.600|PL||65|f
+Kandel|48.062|8.011|DE|Baden-Wurttemberg|65|f
+Kangaamiut Kangerluarsuat|65.981|-53.044|GL|Qeqqata|65|f
+Kangerluarsuk Tulleq|67.000|-53.500|GL|Qeqqata|65|f
+Kangerlussuaq|66.500|-52.117|GL|Qeqqata|65|f
+Kanikula Glacier|62.764|-151.058|US|Alaska|65|f
+Kanin|46.360|13.438|IT|Friuli Venezia Giulia|65|f
 Kan Yin Ngu|16.615|95.928|MM|Yangon|65
 Kangalassy|62.348|129.965|RU|Sakha|65
 Kangréta|6.799|-6.042|CI|Sassandra-Marahoue|64
@@ -261,6 +304,16 @@ Kangaslampi|62.296|28.253|FI|North Savo|64
 Kaniéné|8.694|-4.710|CI|Vallée du Bandama District|64
 Kandaklī|36.574|61.056|IR|Razavi Khorasan|64
 Kanavayén|5.633|-61.800|VE|Bolívar|64
+Kanabara-damu|36.410|138.363|JP|Nagano|63|f
+Kanas Airport|48.220|87.000|CN|Xinjiang|63|f
+Kāne‘ohe Bay|21.463|-157.810|US|Hawaii|63|f
+Kangerluaraq|60.583|-43.000|GL|Kujalleq|63|f
+Kangerlussuaq|68.383|-32.252|GL|Sermersooq|63|f
+Kanggardo Rizê|27.866|92.531|IN||63|f
+Kaņieris|57.000|23.466|LV|Tukums Municipality|63|f
+Kanna-damu|26.482|127.950|JP|Okinawa|63|f
+Kannonjärvi|62.901|25.259|FI|Central Finland|63|f
+Kansas Aviation Museum|37.632|-97.274|US|Kansas|63|f
 Kan|16.788|96.040|MM|Yangon|63
 Kanchad|19.677|73.022|IN|Maharashtra|63
 Kant Ma Lar|16.412|96.206|MM|Yangon|63
@@ -287,34 +340,217 @@ Kanizh|48.721|31.931|UA|Kirovohrad|61
 Kan-sokoura|8.822|-6.271|CI|Woroba|61
 Kandersteg|46.495|7.673|CH|Bern|61
 Kanice|49.264|16.715|CZ|South Moravian|61
+Kan’ei Ji|35.722|139.775|JP|Tokyo|61|f
+Kanaal Brugge-Oostende|51.233|2.933|BE|Flanders|61|f
+Kanał Elbląski|54.061|19.488|PL|Warmia-Masuria|61|f
+Kanal Griboyedova|59.921|30.299|RU|St. Petersburg|61|f
+Kanal Kuloy|64.724|43.456|RU|Arkhangelskaya|61|f
+Kangaroo Mountain|41.920|-123.199|US|California|61|f
+Kangerluluk Bjerge|61.133|-42.917|GL|Kujalleq|61|f
+Kangtega|27.793|86.817|NP|Koshi|61|f
+Kaniama Airport|-7.542|24.173|CD|Haut-Lomami|61|f
+Kanjut Sar|36.206|75.417|PK|Gilgit-Baltistan|61|f
+Kānkaria Tank|23.000|72.633|IN||61|f
+Kanmon Kyō|33.962|130.958|JP||61|f
+Kanowna Island|-39.154|146.310|AU|Victoria|61|f
+Kanpur Civil Airport|26.404|80.410|IN|Uttar Pradesh|61|f
+Kanuni Sultan Süleyman Bridge|41.022|28.571|TR|Istanbul|61|f
 Kandolūs|36.324|51.568|IR|Māzandarān|61
 Kancabchén|19.715|-88.862|MX|Quintana Roo|61
 Kangkar Sedili Kecil|1.750|104.150|MY|Johor|60
 Kanatlarci|41.210|21.503|MK|Prilep|60
 Kangani|-12.732|45.187|YT|Koungou|60
 Kandrian|-6.207|149.547|PG|West New Britain Province|60
+Kanie|52.138|20.769|PL|Mazovia|60
+Kandergrund|46.562|7.659|CH|Bern|60
+Kanonon|10.015|-6.031|CI|Savanes District|60
+Kanáli|39.070|20.700|GR|Epirus|60
+Kangara|8.393|-6.992|CI|Woroba|60
+Kancabdzonot|20.510|-88.710|MX|Yucatán|60
+Kangiqsualujjuaq|58.691|-65.952|CA|Quebec|60
+Kanoukro|7.096|-4.687|CI|Lacs District|60
+Kani Bé|-12.964|45.112|YT|Kani-Kéli|60
+Kangaroo Valley|-34.738|150.537|AU|New South Wales|59
+Kaniéguéma|8.427|-4.057|CI|Vallée du Bandama District|59
+Kandara|-0.897|37.003|KE|Murang'A|59
+Kangrassou|6.936|-4.834|CI|Lacs District|59
+Kanidiovogo|9.705|-5.507|CI|Savanes District|59
+Kanália|39.499|22.886|GR|Thessaly|59
+Kangré|7.501|-5.365|CI|Vallée du Bandama District|59
+Kanzaq|38.147|48.112|IR|Ardabil Province|59
+Kanoukro|7.516|-4.985|CI|Vallée du Bandama District|59
+Kangui|7.226|-7.953|CI|Montagnes|59
+Kandíla|38.706|20.947|GR|West Greece|59
+Kan Thone Kan|16.580|96.138|MM|Yangon|59
+Kanchevo|42.543|25.453|BG|Stara Zagora|59
+Kandéna|8.010|-3.083|CI|Zanzan District|59
+Kangani|-12.343|43.820|KM|Mohéli|59
+Kangiqsujuaq|61.599|-71.960|CA|Quebec|58
+Kanfen|49.439|6.109|FR|Grand Est|58
+Kanal Imeni Moskvy|55.872|37.455|RU||58|f
+Kandalakshskiy Zapovednik|67.000|32.500|RU|Murmansk|58|f
+Kandrian Airport|-6.190|149.548|PG|West New Britain Province|58|f
+Kandrich|49.994|7.727|DE|Rheinland-Pfalz|58|f
+Kangaroo Island|-40.690|144.830|AU|Tasmania|58|f
+Kangerluluk|61.117|-43.200|GL|Kujalleq|58|f
+Kangiqsujuaq (Wakeham Bay) Airport|61.589|-71.930|CA|Quebec|58|f
+Kangirsuk Airport|60.023|-70.003|CA|Quebec|58|f
+Kannur International Airport|11.917|75.547|IN|Kerala|58|f
+Kansas Museum of History|39.056|-95.776|US|Kansas|58|f
+Kansas|36.205|-94.798|US|Oklahoma|58
+Kanango|7.460|-5.219|CI|Vallée du Bandama District|58
+Kaniva|-36.379|141.242|AU|Victoria|57
+Kansas|39.553|-87.939|US|Illinois|57
+Kanassi|7.938|-2.834|CI|Zanzan District|57
+Kankassua|7.595|-3.126|CI|Zanzan District|57
+Kanmantoo|-35.070|139.013|AU|South Australia|57
+Kanapleu|7.239|-8.255|CI|Montagnes|57
+Kangakro|7.406|-3.480|CI|Zanzan District|57
+Kaniža|45.108|17.886|HR|Brod-Posavina|57
+Kanália|39.398|21.800|GR|Thessaly|57
+Kandíla|37.772|22.379|GR|Peloponnese|57
+Kandanga|-26.393|152.677|AU|Queensland|56
+Kanoua|7.526|-5.126|CI|Vallée du Bandama District|56
+Kanora|48.732|23.206|UA|Zakarpattia|56
+Kantens|53.366|6.635|NL|Groningen|56
 Kanepi|57.983|26.756|EE|Põlvamaa|56
+Kanawha|42.938|-93.793|US|Iowa|56
+Kanavy|49.092|34.469|UA|Poltava|56
+Kanzem|49.667|6.578|DE|Rheinland-Pfalz|56
+Kanižarica|45.550|15.167|SI|Municipality of Črnomelj|55
+Kanlo|9.008|-7.497|CI|Denguélé District|55
+Kandelān|34.501|48.782|IR|Hamadan Province|55
+Kānī Sorkh|37.019|45.051|IR|West Azerbaijan|55
+Kancabal|21.110|-89.259|MX|Yucatán|55
+Kangaatsiaq|68.306|-53.464|GL||54
+Kaning|46.827|13.709|AT|Carinthia|54
+Kanzach|48.078|9.559|DE|Baden-Wurttemberg|54
+Kanaal door Walcheren|51.450|3.586|NL|Zeeland|54|f
+Kanaga Volcano|51.925|-177.162|US|Alaska|54|f
+Kanali Qayroqqum|40.135|69.442|TJ|Sughd|54|f
+Kaname Island|-69.333|37.583|AQ||54|f
+Kanaskat-Palmer State Park|47.318|-121.903|US|Washington|54|f
+Kanda Sar|32.572|70.356|PK|Khyber Pakhtunkhwa|54|f
+Kane Basin|79.389|-70.425|CA|Nunavut|54|f
+Kangaarsuk|73.267|-56.133|GL|Avannaata|54|f
+Kangasvesi|62.690|30.058|FI|North Karelia|54|f
+Kanholmsfjärden|59.333|18.783|SE|Stockholm|54|f
+Kankesanturai Airport|9.792|80.070|LK|Northern Province|54|f
+Kanopolis Lake|38.633|-97.998|US|Kansas|54|f
+Kansas Lake|43.917|-94.702|US|Minnesota|54|f
+Kanti Airport|25.988|95.674|MM|Sagaing Region|54|f
+Kanton Airport|-2.767|-171.716|KI|Phoenix Islands|54|f
+Kanzelwand|47.333|10.200|AT|Vorarlberg|54|f
+Kandilli|37.989|36.040|TR|Adana|54
+Kangerlussuaq|67.009|-50.689|GL|Qeqqata|54
+Kana|-13.808|-70.319|PE|Puno|54
 Kanfanar|45.122|13.839|HR|Istria|54
+Kanaal van Steenenhoek|51.821|4.858|NL|South Holland|49|f
+Kanak Peak|-79.267|158.500|AQ||49|f
+Kanangra-Boyd National Park|-33.998|150.085|AU|New South Wales|49|f
+Kandy Lake|7.300|80.633|LK|Central Province|49|f
+Kang Airport|-23.678|22.818|BW|Kgalagadi|49|f
+Kanga Forest Reserve|-5.933|37.733|TZ|Morogoro|49|f
+Kangaroo Creek Reservoir|-34.868|138.779|AU|South Australia|49|f
+Kangaroo Island|-25.430|152.878|AU|Queensland|49|f
+Kangaroo Lake|-35.583|143.772|AU|Victoria|49|f
+Kangeq|64.117|-52.050|GL|Sermersooq|49|f
+Kangphu Kang I|28.157|90.071|BT|Punakha|49|f
+Kanisfluh|47.330|9.934|AT|Vorarlberg|49|f
+Kanjamalai|11.617|78.059|IN|Tamil Nadu|49|f
+Kanjavec|46.360|13.807|SI|Municipality of Bovec|49|f
+Kankaria Lake|23.006|72.600|IN|Gujarat|49|f
+Kankarisvesi|61.964|25.142|FI|Central Finland|49|f
+Kanmantoo Mine|-35.092|139.005|AU|South Australia|49|f
+Kannheiser Glacier|-72.250|-101.750|AQ||49|f
+Kanono Lake|-36.367|174.150|NZ||49|f
+Kanoya Ab|31.368|130.845|JP|Kagoshima|49|f
+Kansas Motorcycle Museum|38.554|-97.833|US|Kansas|49|f
+Kankelau|53.550|10.568|DE|Schleswig-Holstein|46
+Kana Cone|57.900|-130.637|CA|British Columbia|40|f
+Kanaha Pond State Wildlife Sanctuary|20.895|-156.459|US|Hawaii|40|f
+Kananaskis Range|50.833|-115.252|CA|Alberta|40|f
+Kanas Lake|48.817|87.033|CN|Xinjiang|40|f
+Kanchenjunga Conservation Area|27.715|87.928|NP|Koshi|40|f
+Kandadji Dam|14.590|1.083|NE|Niamey|40|f
+Kandahar University|31.637|65.681|AF|Kandahar|40|f
+Kanderfirn|46.475|7.804|CH|Bern|40|f
+Kangaroo Lake|45.035|-87.159|US|Wisconsin|40|f
+Kangaroo Lake|41.334|-122.635|US|California|40|f
+Kangasjärvi|62.160|22.000|FI|North Karelia|40|f
+Kangigutsak Island|65.184|-66.814|CA|Nunavut|40|f
+KANI-AM (Wharton)|29.323|-96.059|US|Texas|40|f
+Kanifushi|5.011|72.951|MV||40|f
+Kankakee River State Park|41.209|-88.031|US|Illinois|40|f
+Kanopolis Dam|38.617|-97.968|US|Kansas|40|f
+Kansas City Southern Railroad Bridge (historical)|32.520|-93.750|US|Louisiana|40|f
+Kansas Glacier|-85.700|-134.500|AQ||40|f
+Kansas Speedway|39.116|-94.831|US|Kansas|40|f
+Kansas Underground Salt Museum|38.044|-97.868|US|Kansas|40|f
+Kantajew Temple|25.790|88.666|BD|Rangpur Division|40|f
+Kantishna Airport|63.539|-150.991|US|Alaska|40|f
+Kanuti National Wildlife Refuge|66.406|-151.888|US|Alaska|40|f
+Kanuyak Island|67.418|-107.969|CA|Nunavut|40|f
+Kanva Reservoir|12.729|77.198|IN|Karnataka|40|f
+Kanyakumari Wildlife Sanctuary|8.354|77.343|IN|Tamil Nadu|40|f
+Kan|43.670|81.543|CN|Xinjiang|0
 Kan’onji|34.070|133.649|JP|Kagawa|0
+Kanada|-8.430|122.768|ID|East Nusa Tenggara|0
 Kanamma|13.100|12.108|NG|Yobe State|0
 Kananggar|-10.043|120.362|ID|East Nusa Tenggara|0
+Kanariblolong|-8.289|123.069|ID|East Nusa Tenggara|0
+Kanbula|36.114|101.849|CN|Qinghai|0
 Kanchanadit|9.166|99.470|TH|Surat Thani|0
 Kandal Stueng|11.414|104.826|KH|Kandal|0
+Kandang|-6.932|112.879|ID|East Java|0
+Kandang Timur|-6.804|106.006|ID|Banten|0
 Kandangan|-2.784|115.277|ID|South Kalimantan|0
+Kandangan|-8.067|113.090|ID|East Java|0
+Kandangan|-8.541|113.971|ID|East Java|0
+Kandangsapi|-6.743|106.029|ID|Banten|0
+Kandangsapi|-7.314|107.811|ID|West Java|0
+Kandangubuku|-9.873|120.652|ID|East Nusa Tenggara|0
 Kanḏay|34.954|70.779|AF|Kunar|0
+Kandayakan Satu|-7.137|108.783|ID|Central Java|0
 Kandilli|39.906|40.837|TR|Erzurum|0
+Kandun|30.225|121.260|CN|Zhejiang|0
 Känerkinden|47.412|7.837|CH|Basel-Landschaft|0
 Kang Meas|11.946|105.275|KH|Kampong Cham|0
+Kanganara|-8.624|121.841|ID|East Nusa Tenggara|0
 Kangbao|41.850|114.591|CN|Hebei|0
+Kangcuo|27.053|119.532|CN|Fujian|0
+Kanghe|23.779|115.085|CN|Guangdong|0
+Kangin|-8.490|115.389|ID|Bali|0
+Kangin|-8.833|115.127|ID|Bali|0
+Kanginan|-8.287|114.982|ID|Bali|0
+Kangjin|46.197|126.804|CN|Heilongjiang|0
 Kangle|28.096|114.450|CN|Jiangxi|0
 Kangmar|28.560|89.680|CN|Tibet|0
+Kangmei|25.040|118.471|CN|Fujian|0
+Kangmei|23.736|117.473|CN|Fujian|0
 Kangping|42.739|123.349|CN|Liaoning|0
+Kangpu|27.596|99.101|CN|Yunnan|0
+Kangqiao|30.365|120.144|CN|Zhejiang|0
+Kangqiao|31.129|121.569|CN|Shanghai|0
+Kangrong|46.194|126.250|CN|Heilongjiang|0
+Kangshan|28.881|116.431|CN|Jiangxi|0
+Kangxung|29.291|90.082|CN|Tibet|0
+Kangyang|36.059|101.915|CN|Qinghai|0
+Kangzhuang|40.378|115.894|CN|Beijing|0
+Kangzhuo|28.889|89.496|CN|Tibet|0
 Kānī Māsī|37.228|43.437|IQ|Duhok|0
+Kanigoro|-8.130|112.219|ID|East Java|0
+Kanigorokrajan|-8.185|112.579|ID|East Java|0
+Kanjilu|-9.778|120.058|ID|East Nusa Tenggara|0
 Kankia|12.546|7.823|NG|Katsina State|0
 Kanlıavşar|37.216|38.309|TR|Şanlıurfa|0
 Kanoni|0.177|31.881|UG|Central Region|0
 Kanonychi|51.442|26.226|UA|Rivne Oblast|0
+Kanshan|30.194|120.407|CN|Zhejiang|0
+Kanshi|24.919|116.888|CN|Fujian|0
 Kantché|13.539|8.463|NE|Zinder Region|0
 Kanthararom|15.103|104.573|TH|Si Sa Ket|0
 Kantharawichai|16.327|103.299|TH|Maha Sarakham|0
+Kanugrahan|-8.050|111.900|ID|East Java|0
+Kanugrahan|-6.992|112.299|ID|East Java|0
 Kanzaki|33.324|130.341|JP|Saga|0

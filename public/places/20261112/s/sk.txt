@@ -13,9 +13,11 @@ Skierniewice|51.955|20.158|PL|Łódź Voivodeship|94
 Skelmersdale|53.550|-2.773|GB|England|92
 Skövde|58.391|13.845|SE|Västra Götaland|91
 Skellefteå|64.751|20.953|SE|Västerbotten|91
+Skellefteå Airport|64.625|21.077|SE|Västerbotten|90|f
 Skegness|53.144|0.336|GB|England|88
 Skopin|53.825|39.553|RU|Ryazan Oblast|88
 Skawina|49.975|19.829|PL|Lesser Poland|87
+Skellig Michael|51.771|-10.540|IE|Munster|87|f
 Skive|56.567|9.027|DK|Central Jutland|86
 Skhodnya|55.948|37.298|RU|Moscow Oblast|86
 Skadovsk|46.113|32.910|UA|Kherson|85
@@ -37,9 +39,15 @@ Skerries|53.581|-6.107|IE|Leinster|80
 Skovorodino|53.984|123.940|RU|Amur Oblast|80
 Skødstrup|56.263|10.304|DK|Central Jutland|80
 Skidel’|53.590|24.248|BY|Grodnenskaya|80
+Skogerøya|69.840|29.878|NO|Finnmark|80|f
+Skaftafell|64.016|-16.969|IS|East|79|f
+Skagway Airport|59.460|-135.317|US|Alaska|79|f
+Skardu Airport|35.336|75.536|PK|Gilgit-Baltistan|79|f
+Skyang Kangri|35.926|76.567|CN|Xinjiang|79|f
 Skidaway Island|31.935|-81.047|US|Georgia|78
 Skurup|55.478|13.502|SE|Skåne|78
 Skiatook|36.368|-96.001|US|Oklahoma|78
+Skara Brae|59.050|-3.350|GB|Scotland|78|f
 Skagen|57.721|10.584|DK|North Denmark|77
 Skjern|55.950|8.500|DK|Central Jutland|77
 Skanör med Falsterbo|55.400|12.850|SE|Skåne|77
@@ -47,6 +55,7 @@ Skarszewy|54.069|18.444|PL|Pomerania|77
 Skelton|53.725|-0.842|GB|England|76
 Skelton|54.561|-0.988|GB|England|76
 Skole|49.038|23.514|UA|Lviv|76
+Skopska Crna Gora|42.191|21.484|MK||76|f
 Skælskør|55.251|11.294|DK|Zealand|76
 Skowhegan|44.765|-69.719|US|Maine|76
 Skutskär|60.625|17.416|SE|Uppsala|76
@@ -57,16 +66,23 @@ Sky Tower|22.323|114.190|HK|Kowloon City|75
 Skuodas|56.271|21.532|LT|Klaipėda County|75
 Skåre|59.433|13.433|SE|Värmland|75
 Skoropuskovskiy|56.367|38.167|RU|Moscow Oblast|75
+Skive Airport|56.550|9.173|DK|Central Jutland|74|f
+Skwentna Airport|61.965|-151.191|US|Alaska|74|f
 Skalité|49.497|18.897|SK|Žilina Region|74
 Skåre|55.383|13.050|SE|Skåne|74
 Skuteč|49.843|15.997|CZ|Pardubice Region|74
 Skiáthos|39.162|23.491|GR|Thessaly|74
 Skoura|31.063|-6.553|MA|Drâa-Tafilalet|73
+Skeppsholmen|59.325|18.084|SE|Stockholm|73|f
+Skogerøytoppen|69.876|29.859|NO|Finnmark|73|f
+Skövde Airport|58.456|13.973|SE|Västra Götaland|73|f
 Skoútari|41.019|23.520|GR|Central Macedonia|73
 Skýdra|40.767|22.152|GR|Central Macedonia|73
 Skelmanthorpe|53.591|-1.652|GB|England|73
 Skaidiškės|54.614|25.396|LT|Vilnius|72
 Skala-Podilska|48.850|26.201|UA|Ternopil|72
+Skelton Glacier|-78.583|161.500|AQ||72|f
+Skiddaw|54.651|-3.148|GB|England|72|f
 Skaryszew|51.311|21.252|PL|Mazovia|72
 Skärblacka|58.567|15.900|SE|Östergötland|72
 Skyline View|40.339|-76.726|US|Pennsylvania|72
@@ -77,6 +93,11 @@ Skalat|49.425|25.976|UA|Ternopil|72
 Skippack|40.223|-75.399|US|Pennsylvania|71
 Skorodnoye|51.071|37.228|RU|Belgorod Oblast|71
 Skrzyszów|49.994|21.061|PL|Lesser Poland|71
+Skansen|59.326|18.103|SE|Stockholm|71|f
+Skarvehøe|62.158|8.163|NO|Innlandet|71|f
+Skipton Castle|53.964|-2.015|GB|England|71|f
+Skjernøya|57.988|7.523|NO|Agder|71|f
+Skjervøya|70.023|20.955|NO|Troms|71|f
 Skultorp|58.350|13.833|SE|Västra Götaland|71
 Skała|50.231|19.854|PL|Lesser Poland|71
 Skórcz|53.794|18.526|PL|Pomerania|71
@@ -94,6 +115,8 @@ Skotoússa|41.128|23.382|GR|Central Macedonia|70
 Skänninge|59.933|18.483|SE|Stockholm|70
 Skorokhodove|49.774|35.074|UA|Poltava|70
 Skibby|55.751|11.961|DK|Capital Region|70
+Skopje International Airport|41.962|21.621|MK|Ilinden|70|f
+Sky Park Airport|41.985|-73.836|US|New York|70|f
 Skelleftehamn|64.683|21.233|SE|Västerbotten|70
 Skaerbaek|55.157|8.769|DK|South Denmark|70
 Skalistoye|44.817|33.978|UA|Crimea|70
@@ -104,6 +127,13 @@ Skála|36.850|22.667|GR|Peloponnese|69
 Skippers Corner|34.339|-77.903|US|North Carolina|69
 Skibbereen|51.550|-9.267|IE|Munster|69
 Skoonplaas|-25.757|31.636|ZA|Mpumalanga|69
+Skalnaté pleso|49.189|20.232|SK||69|f
+Skardsøya|63.364|8.566|NO|Møre og Romsdal|69|f
+Skrova|68.167|14.683|NO|Nordland|69|f
+Sky Manor Airport|40.566|-74.978|US|New Jersey|69|f
+Skydive Houston Airport|29.994|-95.931|US|Texas|69|f
+Skyway Estates Airport|42.583|-84.649|US|Michigan|69|f
+Skyway Manor Airport|29.556|-95.328|US|Texas|69|f
 Skarżysko Kościelne|51.138|20.912|PL|Świętokrzyskie|69
 Skawica|49.677|19.623|PL|Lesser Poland|68
 Skålevik|58.080|8.016|NO|Agder|68
@@ -118,6 +148,12 @@ Skrīveri|56.645|25.121|LV|Aizkraukle Municipality|68
 Sky Valley|33.890|-116.353|US|California|68
 Skinnskatteberg|59.830|15.693|SE|Västmanland|68
 Škvorec|50.047|14.730|CZ|Central Bohemia|67
+Skagafjörður|65.875|-19.561|IS|Northwest|67|f
+Skiathos Airport 'Alexandros Papadiamantis'|39.177|23.504|GR|Thessaly|67|f
+Skilak Lake|60.406|-150.331|US|Alaska|67|f
+Skua Island|-54.017|-37.250|GS||67|f
+Skukuza Airport|-24.963|31.590|ZA|Mpumalanga|67|f
+Skyscraper Mountain|46.927|-121.698|US|Washington|67|f
 Skhidnytsia|49.224|23.352|UA|Lviv|67
 Škofljica|45.984|14.575|SI|Municipality of Škofljica|67
 Skelky|47.440|35.124|UA|Zaporizhzhia|67
@@ -128,6 +164,15 @@ Skogn|63.704|11.193|NO|Trøndelag|66
 Skårup|55.091|10.690|DK|South Denmark|66
 Skalná|50.170|12.361|CZ|Carlsbad Region|65
 Skjeberg|59.211|11.190|NO|Østfold|65
+Skagul Island|51.597|-178.588|US|Alaska|65|f
+Skálafjørður|62.145|-6.755|FO|Eysturoy|65|f
+Skeppsholmsbron|59.327|18.079|SE|Stockholm|65|f
+Ski resort Straja|45.319|23.237|RO|Hunedoara County|65|f
+Skirveggen|60.108|8.925|NO|Telemark|65|f
+Skogsøy|68.900|14.921|NO|Nordland|65|f
+Skokholm Island|51.698|-5.277|GB|Wales|65|f
+Skorpa|62.330|5.495|NO|Møre og Romsdal|65|f
+Skrivena Luka|42.733|16.867|HR||65|f
 Skrea|56.883|12.567|SE|Halland|65
 Skarbimierz Osiedle|50.846|17.419|PL|Opole Voivodeship|65
 Skepplanda|57.983|12.200|SE|Västra Götaland|65
@@ -147,6 +192,16 @@ Skawinki|49.823|19.713|PL|Lesser Poland|64
 Skelton|54.000|-1.133|GB|England|64
 Skópelos|39.029|26.448|GR|North Aegean|64
 Skolkovo|55.688|37.368|RU|Moscow Oblast|64
+Skálholt|64.126|-20.525|IS|South|63|f
+Skammevarden|59.225|7.250|NO|Agder|63|f
+Skansin|62.008|-6.763|FO|Streymoy|63|f
+Skavlhø Mountain|-72.030|14.492|AQ||63|f
+Skihist Mountain|50.188|-121.903|CA|British Columbia|63|f
+Skillern Peak|43.687|-114.816|US|Idaho|63|f
+Skjærsjøen|64.187|11.432|NO|Trøndelag|63|f
+Skua Island|-65.254|-64.263|AQ||63|f
+Skuleggen|62.364|9.092|NO|Trøndelag|63|f
+Skyhaven Airport|41.529|-75.946|US|Pennsylvania|63|f
 Skołyszyn|49.750|21.337|PL|Subcarpathia|63
 Skála Oropoú|38.320|23.788|GR|Attica|63
 Skotarske|48.733|23.265|UA|Zakarpattia|63
@@ -171,6 +226,22 @@ Skrbeň|49.641|17.177|CZ|Olomouc Region|61
 Škrljevo|45.321|14.533|HR|Primorje-Gorski Kotar|61
 Skegrie|55.406|13.077|SE|Skåne|61
 Skidby|53.789|-0.461|GB|England|61
+Skagerrak|57.970|9.517|||61|f
+Skallen Glacier|-69.667|39.550|AQ||61|f
+Skarø|55.006|10.467|DK|South Denmark|61|f
+Skåtøy|58.857|9.520|NO|Telemark|61|f
+Skauthøi|61.625|8.448|NO|Innlandet|61|f
+Skelton Dam|43.571|-70.558|US|Maine|61|f
+Skeppsdalsström|59.283|18.467|SE|Stockholm|61|f
+Skilvatnet|68.064|15.895|NO|Nordland|61|f
+Skiros Airport|38.968|24.487|GR|Central Greece|61|f
+Skjálfandi|66.070|-17.532|IS|Northeast|61|f
+Skjomen|68.293|17.328|NO|Nordland|61|f
+Skogsøy|58.005|7.589|NO|Agder|61|f
+Skorefjell|-66.450|53.950|AQ||61|f
+Skredahøin|62.238|9.189|NO|Innlandet|61|f
+Skydive Chicago Airport|41.401|-88.791|US|Illinois|61|f
+Skylane Airport|38.008|-87.594|US|Indiana|61|f
 Sknyliv|49.800|23.950|UA|Lviv|61
 Skrzydlna|49.753|20.186|PL|Lesser Poland|61
 Sköllersta|59.137|15.339|SE|Örebro|61
@@ -181,15 +252,229 @@ Skreia|60.653|10.936|NO|Innlandet|60
 Skřipov|49.819|17.910|CZ|Moravian-Silesian Region|60
 Skalánion|35.283|25.187|GR|Crete|60
 Skosarivka|47.444|30.526|UA|Odesa|60
+Skoki|52.155|23.633|BY|Brest|60
+Skřivany|50.269|15.499|CZ|Hradec Králové Region|60
+Skoúrta|38.214|23.551|GR|Central Greece|60
+Skillinge|55.474|14.283|SE|Skåne|60
 Skórzec|52.107|22.131|PL|Mazovia|60
+Skoke|46.486|15.694|SI|Municipality of Hoče–Slivnica|60
+Skýcov|48.503|18.421|SK|Nitra Region|60
+Skotína|40.015|22.552|GR|Central Macedonia|60
+Skogsby|56.636|16.523|SE|Kalmar|60
+Skidmore|28.254|-97.686|US|Texas|59
+Skwierzynka|54.231|16.206|PL|West Pomerania|59
+Škale|46.376|15.105|SI|Urban Municipality of Velenje|59
+Skoutáros|39.292|26.134|GR|North Aegean|59
+Skotnice|49.657|18.134|CZ|Moravian-Silesian Region|59
+Skyline|34.814|-86.115|US|Alabama|58
+Skidegate|53.266|-131.991|CA|British Columbia|58
+Skyland Estates|38.923|-78.082|US|Virginia|58
+Skibno|54.245|16.295|PL|West Pomerania|58
+Skrevan|40.748|19.825|AL|Berat County|58
+Skagen Kirke|57.717|10.533|DK|North Denmark|58|f
+Skåla|61.868|6.966|NO|Vestland|58|f
+Skaneateles Lake|42.861|-76.364|US|New York|58|f
+Skarvanfjellet|60.890|8.672|NO|Buskerud|58|f
+Skaulen|59.637|6.593|NO|Rogaland|58|f
+Skeidshovden Mountain|-72.137|11.517|AQ||58|f
+Skien-Geiteryggen Airport|59.185|9.567|NO|Telemark|58|f
+Skjerkenuten|59.229|7.216|NO|Agder|58|f
+Skjettholvola|63.689|11.598|NO|Trøndelag|58|f
+Skjorta|62.658|8.206|NO|Møre og Romsdal|58|f
+Skoddemedet Peak|-72.833|-3.867|AQ||58|f
+Skorasalen|62.166|6.486|NO|Møre og Romsdal|58|f
+Skottsberg Point|-63.921|-60.809|AQ||58|f
+Skrydstrup Airport|55.226|9.264|DK|South Denmark|58|f
+Skrzyczne|49.684|19.030|PL|Silesia|58|f
+Skull Island|-15.600|136.800|AU|Northern Territory|58|f
+Sky Harbor Airport|46.722|-92.044|US|Minnesota|58|f
+Skyhaven Airport|43.284|-70.929|US|New Hampshire|58|f
+Skavkulla|56.183|15.517|SE|Blekinge|58
+Skanovo|53.868|43.760|RU|Penza Oblast|58
+Skáli|62.155|-6.779|FO|Eysturoy|58
+Skidziń|49.979|19.199|PL|Lesser Poland|58
+Skee|58.926|11.269|SE|Västra Götaland|57
+Skatinskoye|56.724|62.862|RU|Sverdlovsk Oblast|57
+Skärplinge|60.467|17.767|SE|Uppsala|57
+Skalivski Khutory|48.659|30.948|UA|Kirovohrad|57
 Skipsea|53.977|-0.221|GB|England|57
+Sköldinge|59.031|16.447|SE|Södermanland|57
+Skalice nad Svitavou|49.481|16.604|CZ|South Moravian|57
+Skorošice|50.309|17.081|CZ|Olomouc Region|56
+Skoulikádo|37.801|20.785|GR|Ionian Islands|56
 Skjærhalden|59.025|11.037|NO|Østfold|56
+Skourochóri|37.686|21.358|GR|West Greece|56
+Skällinge|57.183|12.467|SE|Halland|56
+Skyttorp|60.083|17.733|SE|Uppsala|56
+Skowkale 10|49.136|-121.942|CA|British Columbia|56
+Skokomish|47.333|-123.157|US|Washington|56
+Skobelevo|42.680|25.198|BG|Stara Zagora|56
+Škrdlovice|49.635|15.926|CZ|Vysocina|56
+Skage|64.467|11.756|NO|Trøndelag|56
+Skånevik|59.733|5.938|NO|Vestland|56
+Skjold|59.503|5.587|NO|Rogaland|56
+Škarićevo|46.126|15.850|HR|Krapina-Zagorje|55
+Skruv|56.676|15.366|SE|Kronoberg|55
+Skorykivka|49.815|32.085|UA|Cherkasy|55
+Skrzatusz|53.204|16.582|PL|Greater Poland|55
 Skrad|45.432|14.906|HR|Primorje-Gorski Kotar|55
+Skipton|-37.686|143.365|AU|Victoria|55
+Skála Kalliráchis|40.706|24.534|GR|East Macedonia and Thrace|55
+Skopiá|40.763|21.410|GR|West Macedonia|55
+Skąpe|53.217|18.615|PL|Kujawsko-Pomorskie|55
+Skalička|49.867|16.850|CZ|Olomouc Region|55
+Skalice|48.964|16.225|CZ|South Moravian|55
+Škocjan|45.534|13.764|SI|Urban Municipality of Koper|55
+Skalice|50.276|15.872|CZ|Hradec Králové Region|55
+Skalička|49.515|17.796|CZ|Olomouc Region|55
+Škaljari|42.419|18.766|ME|Kotor|55
+Skála Foúrkas|39.999|23.383|GR|Central Macedonia|55
+Skalokhóri|39.259|26.075|GR|North Aegean|55
+Skoronice|48.981|17.153|CZ|South Moravian|54
+Skaget|61.291|9.200|NO|Innlandet|54|f
+Skagit Peak|48.917|-120.954|US|Washington|54|f
+Skålebreen|-72.117|3.867|AQ||54|f
+Skáleyjar|65.442|-22.673|IS|Westfjords|54|f
+Skallevik Point|-69.683|39.250|AQ||54|f
+Skalø|54.963|11.358|DK|Zealand|54|f
+Skappelnabben Spur|-73.717|-4.550|AQ||54|f
+Skarsbrotet Glacier|-71.833|11.750|AQ||54|f
+Skarshaugane Peaks|-71.800|11.600|AQ||54|f
+Skarskvervet Glacier|-71.750|11.500|AQ||54|f
+Skarsnuten Peak|-72.533|0.367|AQ||54|f
+Skaupsjøen|60.347|7.693|NO|Buskerud|54|f
+Skavlrimen Ridge|-71.967|13.533|AQ||54|f
+Skeidshornet Peak|-71.850|12.000|AQ||54|f
+Skeidskneet, Mount|-71.883|11.950|AQ||54|f
+Skeidsnutane Peaks|-71.883|11.583|AQ||54|f
+Skep Point|-64.046|-57.293|AQ||54|f
+Skigarden Ridge|-71.900|4.567|AQ||54|f
+Skilling Island|-60.783|-45.150|AQ||54|f
+Skinner Butte|44.058|-123.095|US|Oregon|54|f
+Skinner Reservoir|33.588|-117.057|US|California|54|f
+Skipjack Island|48.732|-123.036|US|Washington|54|f
+Skjaldbreiður|64.409|-20.751|IS|South|54|f
+Skjegget Peak|-69.433|39.617|AQ||54|f
+Skjerstadfjorden|67.245|15.143|NO|Nordland|54|f
+Skøddetinden|61.092|8.309|NO|Buskerud|54|f
+Skógafoss|63.532|-19.512|IS|South|54|f
+Skogman Lake|45.574|-93.152|US|Minnesota|54|f
+Skomakaren|65.683|23.983|SE|Norrbotten|54|f
+Skomer Island|51.737|-5.297|GB|Wales|54|f
+Skoparnik|42.551|23.294|BG|Sofia-Capital|54|f
+Skorpa|69.933|21.683|NO|Troms|54|f
+Skorpa|61.600|4.842|NO|Vestland|54|f
+Skorradalsvatn|64.516|-21.469|IS|West|54|f
+Skøyen|59.922|10.679|NO|Oslo|54|f
+Skrimfjella|59.517|9.633|NO|Buskerud|54|f
+Škrka|43.081|17.745|BA|Federation of B&H|54|f
+Skuggekammen Ridge|-71.400|13.667|AQ||54|f
+Sky Meadows State Park|38.991|-77.971|US|Virginia|54|f
+Sky Ranch Airport|35.795|-115.628|US|Nevada|54|f
+Skyang Kangri|35.922|76.562|CN||54|f
+Skydive Oregon|45.147|-122.618|US|Oregon|54|f
+Skylark Airpark|41.929|-72.572|US|Connecticut|54|f
+Skylark Field Airport|31.083|-97.683|US|Texas|54|f
+Skyline Commissary|34.813|-86.124|US|Alabama|54|f
+Skyvatn|59.620|7.169|NO|Agder|54|f
+Skruv|57.150|15.167|SE|Kronoberg|54
+Skottorp|56.449|12.961|SE|Halland|54
 Skradin|43.820|15.924|HR|Šibenik-Knin|54
+Skuhrov|50.676|15.213|CZ|Liberec Region|54
 Skopun|61.903|-6.882|FO|Sandoy|53
 Skąpe|52.153|15.458|PL|Lubusz|52
+Skagsnebb|61.608|8.151|NO|Innlandet|49|f
+Skarddalstinden|61.489|8.321|NO|Innlandet|49|f
+Skardtind|62.006|8.590|NO|Innlandet|49|f
+Skasen|60.386|12.323|NO|Innlandet|49|f
+Skeam East|51.508|-9.447|IE|Munster|49|f
+Skedaddle Mountains|40.379|-120.117|US|California|49|f
+Skeen Rocks|-67.783|-68.900|AQ||49|f
+Skeikampen|61.351|10.088|NO|Innlandet|49|f
+Skellerup Glacier|-81.633|155.700|AQ||49|f
+Skew Peak|-77.217|160.700|AQ||49|f
+Skilly Peak|-64.972|-61.280|AQ||49|f
+Skimuseet|59.965|10.666|NO|Oslo|49|f
+Skinner Glacier|-70.202|-67.982|AQ||49|f
+Skitt Mountain|34.505|-83.722|US|Georgia|49|f
+Skjærvangen|59.913|11.895|NO|Innlandet|49|f
+Skjoldafjorden|59.333|5.617|NO|Rogaland|49|f
+Skogseidvatnet|60.218|5.878|NO|Vestland|49|f
+Skogvollvatnet|69.155|15.810|NO|Nordland|49|f
+Skorpa|63.127|7.774|NO|Møre og Romsdal|49|f
+Skorpo|60.171|5.311|NO|Vestland|49|f
+Skratten|65.779|23.979|SE|Norrbotten|49|f
+Skridulaupen|61.946|7.604|NO|Innlandet|49|f
+Škrlatica|46.433|13.821|SI|Municipality of Kranjska Gora|49|f
+Skua Glacier|-82.917|157.667|AQ||49|f
+Skua Lake|-77.633|166.417|AQ||49|f
+Skyhaven Airport|38.786|-93.801|US|Missouri|49|f
+Skykomish Peak|47.957|-121.164|US|Washington|49|f
 Škocjan|45.907|15.291|SI|Municipality of Škocjan|48
 Skálavík|61.831|-6.662|FO|Sandoy|45
+Skaar Ridge|-84.817|163.250|AQ||40|f
+Skagit Bay|48.300|-122.447|US|Washington|40|f
+Skagit Range|49.166|-121.503|CA|British Columbia|40|f
+Skagway Seaplane Base|59.447|-135.327|US|Alaska|40|f
+Skaha Lake|49.422|-119.588|CA|British Columbia|40|f
+Skalistiy Ridge|42.997|44.141|RU|North Ossetia–Alania|40|f
+Skalite|49.711|19.045|PL|Silesia|40|f
+Skånevikfjorden|59.718|5.809|NO|Vestland|40|f
+Skardstinden|61.633|8.266|NO|Innlandet|40|f
+Skarnsund Bridge|63.843|11.075|NO|Trøndelag|40|f
+Skataas Lake|45.170|-95.030|US|Minnesota|40|f
+Skatutakee Lake|42.938|-72.076|US|New Hampshire|40|f
+Skatutakee Mountain|42.969|-72.038|US|New Hampshire|40|f
+Skeena Mountains|56.500|-128.671|CA|British Columbia|40|f
+Skeggs Point|37.411|-122.306|US|California|40|f
+Skeleton Lake|45.251|-79.453|CA|Ontario|40|f
+Skeleton Lake|54.622|-112.725|CA|Alberta|40|f
+Skellefteå Kraft Arena|64.761|20.967|SE|Västerbotten|40|f
+Skellow|53.588|-1.201|GB|England|40|f
+Skelly Peak|-79.383|-85.317|AQ||40|f
+Skene Bay|74.989|-107.809|CA|Nunavut|40|f
+Skenfrith Castle|51.878|-2.790|GB|Wales|40|f
+Skerray Bay|58.543|-4.303|GB||40|f
+Skiatook Lake|36.370|-96.156|US|Oklahoma|40|f
+Skiff Hill|41.822|-69.963|US|Massachusetts|40|f
+Skiff Lake|45.822|-67.527|CA|New Brunswick|40|f
+Skihist Park|50.250|-121.503|CA|British Columbia|40|f
+Skillet Glacier|43.837|-110.764|US|Wyoming|40|f
+Skilton Ledge|-79.933|156.367|AQ||40|f
+Skinner Glacier|44.116|-121.773|US|Oregon|40|f
+Skinner Peak|-84.767|-112.883|AQ||40|f
+Skinner Ranch Airport|42.951|-117.285|US|Oregon|40|f
+Skinner Ridge|-74.400|161.750|AQ||40|f
+Skipsea Castle Hill|53.979|-0.230|GB|England|40|f
+Skirt Mountain|48.466|-123.536|CA|British Columbia|40|f
+Skjerjavatnet|60.882|6.123|NO|Vestland|40|f
+Skjoldungen|63.330|-41.519|GL|Sermersooq|40|f
+Skoatl Point|51.154|-120.432|CA|British Columbia|40|f
+Skofield Park|34.457|-119.694|US|California|40|f
+Skogshorn|60.881|8.690|NO|Buskerud|40|f
+Skoki Mountain|51.533|-116.069|CA|Alberta|40|f
+Skokie Lagoons|42.102|-87.759|US|Illinois|40|f
+Skootamatta Lake|44.837|-77.247|CA|Ontario|40|f
+Skopje Millenium Cross|41.965|21.394|MK|Grad Skopje|40|f
+Skraeling Island|78.919|-75.663|CA|Nunavut|40|f
+Skree Range|58.966|-129.753|CA|British Columbia|40|f
+Skua Gull Peak|-76.850|-145.417|AQ||40|f
+Skull Island|48.639|-122.986|US|Washington|40|f
+Skull Islet|48.754|-123.241|CA|British Columbia|40|f
+Skull Lake|49.045|-125.182|CA|British Columbia|40|f
+Skunk River Bridge|41.987|-93.587|US|Iowa|40|f
+Skuta|46.363|14.558|SI|Municipality of Kamnik|40|f
+Sky Acres Airport|41.707|-73.735|US|New York|40|f
+Sky Harbor Airport|47.871|-121.792|US|Washington|40|f
+Sky King Airport|39.550|-87.372|US|Indiana|40|f
+Sky Manor Airport|34.710|-77.587|US|North Carolina|40|f
+Sky Pilot Mountain|49.633|-123.086|CA|British Columbia|40|f
+Sky Pilot Mountain|46.437|-114.368|US|Montana|40|f
+Sky Top Glacier|45.161|-109.816|US|Montana|40|f
+Skye Museum of Island Life|57.662|-6.369|GB|Scotland|40|f
+Skylon Tower|43.086|-79.079|CA|Ontario|40|f
+Skyport Airport|45.580|-123.053|US|Oregon|40|f
+Skyway Fishing Pier State Park|27.678|-82.678|US|Florida|40|f
 Skúvoy|61.771|-6.805|FO|Sandoy|34
 Skënderbegas|40.776|20.241|AL|Elbasan County|0
 Skjønhaug|59.641|11.316|NO|Østfold|0

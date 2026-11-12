@@ -1,7 +1,7 @@
-Alagoas|-9.583|-36.417|BR||130|r
 Alabama|32.750|-86.750|US||130|r
+Alagoas|-9.583|-36.417|BR||130|r
 Al Ain City|24.192|55.761|AE|Abu Dhabi|119
-Alaska|64.000|-150.000|US||116|r
+Alaska|64.000|-150.000|US||117|r
 Al Aḩmadī|29.077|48.084|KW|Al Aḩmadī|116
 Alanya|36.544|32.000|TR|Antalya|111
 Al ‘Amārah|31.836|47.145|IQ|Maysan|110
@@ -76,11 +76,16 @@ Alausí|-2.201|-78.848|EC|Chimborazo Province|83
 Ālampur|15.880|78.134|IN|Telangana|83
 Alajuelita|9.903|-84.100|CR|San José|83
 Alagoinha|-6.950|-35.545|BR|Paraíba|83
+Alamagan Island|17.595|145.822|MP|Northern Islands|82|f
 Ālangudi|10.361|78.985|IN|Tamil Nadu|82
 Alangānallūr|10.047|78.090|IN|Tamil Nadu|82
 Alaverdi|41.098|44.673|AM|Lori|82
+Alaid Island|50.862|155.568|RU|Sakhalin Oblast|81|f
+Alashankou|44.895|82.300|CN|Xinjiang|81|f
 Ālārd|35.513|51.060|IR|Tehran|81
 Al Awjām|26.563|49.943|SA|Eastern Province|81
+Alamogordo–White Sands Regional Airport|32.840|-105.991|US|New Mexico|81|f
+Aland Islands|60.250|20.000|AX|Ålands landsbygd|81|f
 Alavus|62.583|23.617|FI|South Ostrobothnia|81
 Alampur|26.025|78.797|IN|Madhya Pradesh|81
 Alassio|44.004|8.167|IT|Liguria|81
@@ -98,6 +103,7 @@ Alapa|8.617|4.383|NG|Oyo State|80
 Alauca|13.850|-86.683|HN|El Paraíso Department|79
 ‘Alāqahdārī Dīshū|30.432|63.298|AF|Helmand|79
 Al Arţāwīyah|26.504|45.348|SA|Riyadh Region|79
+Alabat Island|14.117|122.050|PH|Calabarzon|79|f
 Alajärvi|63.000|23.817|FI|South Ostrobothnia|79
 Alaior|39.930|4.140|ES|Balearic Islands|79
 Alashankou|45.170|82.570|CN|Xinjiang|79
@@ -110,6 +116,7 @@ Alāwalpur|31.432|75.656|IN|Punjab|78
 Alamādi|13.209|80.110|IN|Tamil Nadu|77
 Al ‘Alamayn|30.830|28.955|EG|Matruh|77
 Ālāndurai|10.953|76.790|IN|Tamil Nadu|77
+Al Aaliya Island|25.407|51.567|QA|Al Daayen|77|f
 Alagoinha do Piauí|-7.010|-40.938|BR|Piauí|77
 Alambari|-23.551|-47.899|BR|São Paulo|76
 Alakurtti|66.967|30.349|RU|Murmansk|76
@@ -141,6 +148,8 @@ Alakhadzi|43.218|40.288|GE|Abkhazia|69
 Alari-Isadan|6.734|2.788|NG|Ogun State|69
 Alagoa|-22.171|-44.642|BR|Minas Gerais|69
 Alabushevo|56.017|37.150|RU|Moscow Oblast|69
+Al Alam Palace|23.615|58.597|OM|Muscat|69|f
+Aladagh Mountains|37.197|57.471|IR||69|f
 Alakro|7.064|-3.699|CI|Lacs District|69
 Alacaygan|10.840|123.058|PH|Western Visayas|68
 Alata|41.976|8.742|FR|Corsica|68
@@ -150,6 +159,7 @@ Alamo|35.785|-89.117|US|Tennessee|68
 Alavieska|64.167|24.300|FI|North Ostrobothnia|68
 Alayao|14.282|122.552|PH|Bicol Region|68
 Alangilanan|9.642|123.106|PH|Central Visayas|67
+Al ‘Arābā al Madfūnah|26.187|31.916|EG|New Valley|67|f
 ‘Alavīyeh|28.581|53.767|IR|Fars|67
 Alap|46.799|18.689|HU|Fejér|67
 Alanyurt|40.109|29.519|TR|Bursa Province|67
@@ -161,12 +171,20 @@ Alapars|40.422|44.633|AM|Kotayk|66
 Alange|38.785|-6.246|ES|Extremadura|66
 Alattyán|47.427|20.042|HU|Jász-Nagykun-Szolnok|66
 Alà dei Sardi|40.650|9.328|IT|Sardinia|65
+Alaid Island|52.762|173.895|US|Alaska|65|f
+Alamein Range|-72.083|163.500|AQ||65|f
+Åland|60.179|19.902|AX|Ålands landsbygd|65|f
+Alander Mountain|42.088|-73.505|US|Massachusetts|65|f
+Alashkert Stadium|40.154|44.475|AM|Yerevan|65|f
 Ālādīzgeh|38.284|48.588|IR|Ardabil Province|65
 Alabama|43.096|-78.391|US|New York|65
 Ālān|38.093|47.264|IR|East Azerbaijan|65
 Alaejos|41.307|-5.216|ES|Castille and León|65
 Alabaş|37.769|40.090|TR|Diyarbakır Province|64
 Alano di Piave|45.907|11.908|IT|Veneto|64
+Al Anbār|33.367|43.717|IQ|Anbar|63|f
+Alakır Barajı|36.433|30.241|TR|Antalya|63|f
+Alayskiy Khrebet|39.651|72.096|KG||63|f
 Alamosa East|37.477|-105.842|US|Colorado|63
 Alaïli Ḏaḏḏa‘|12.422|42.896|DJ|Obock|63
 Alanikro|7.336|-4.868|CI|Lacs District|63
@@ -181,6 +199,9 @@ Alámpra|34.989|33.399|CY|Nicosia|62
 Alar del Rey|42.660|-4.313|ES|Castille and León|61
 Alaquines|22.130|-99.601|MX|San Luis Potosí|61
 Al ‘Aţţārah|32.326|35.164|PS|West Bank|61
+Ala-Kitka|66.260|28.961|FI|North Ostrobothnia|61|f
+Alaca Barajı|40.107|34.839|TR|Çorum|61|f
+Alazan Bay|27.328|-97.521|US|Texas|61|f
 Alàs i Cerc|42.350|1.517|ES|Catalonia|61
 Alakamış|37.159|41.789|TR|Şırnak|61
 Alangouanou|5.152|-2.935|CI||61
@@ -190,20 +211,96 @@ Alamo|37.365|-115.164|US|Nevada|61
 Alaska|16.381|120.337|PH|Ilocos|60
 Alamut|37.809|28.292|TR|Aydın|60
 Alămor|45.930|23.994|RO|Sibiu County|60
+Al Araad|23.865|55.523|AE|Abu Dhabi|60
+Al'Arad|23.847|55.527|AE|Abu Dhabi|60
+Alamance|36.035|-79.486|US|North Carolina|60
+Al ‘Aqrabānīyah|32.252|35.378|PS|West Bank|60
+Älandsbro|62.677|17.841|SE|Västernorrland|59
+Alampur|25.755|88.488|BD|Rangpur Division|59
+Alanşeyhi|41.108|35.131|TR|Samsun|59
+Alaçami|36.592|32.300|TR|Antalya|59
+Alacska|48.217|20.650|HU|Borsod-Abaúj-Zemplén|59
 Alagna|45.169|8.889|IT|Lombardy|59
 Alamedilla|37.582|-3.242|ES|Andalusia|58
+Alamito|25.723|-103.304|MX|Coahuila|58
+‘Ālau|21.195|-156.952|US|Hawaii|58|f
+Al Abraq International Airport|32.789|21.964|LY|Al Jabal al Akhdar|58|f
+Ala Kol Lake|42.317|78.536|KG|Issyk-Kul|58|f
+Ala Moana Beach Park|21.290|-157.848|US|Hawaii|58|f
+Ala Wai Canal|21.287|-157.831|US|Hawaii|58|f
+Alángup Qáqai|69.400|-54.000|GL|Qeqertalik|58|f
+Alas Islands|-4.650|153.067|PG|New Ireland|58|f
+Alas Strait|-8.667|116.667|ID|West Nusa Tenggara|58|f
+Alaska Mountain|47.463|-121.346|US|Washington|58|f
+Alairac|43.185|2.241|FR|Occitanie|58
 Alanno|42.296|13.971|IT|Abruzzo|58
+Alanson|45.444|-84.787|US|Michigan|57
+Alatay|39.263|42.959|TR|Ağrı|57
+Alakanuk|62.689|-164.615|US|Alaska|57
+Alacabük|38.379|42.742|TR|Bitlis|57
+Alabuğday|37.997|39.480|TR|Diyarbakır Province|57
+Alamul|16.886|-92.526|MX|Chiapas|56
+Alapaha|31.385|-83.223|US|Georgia|56
+Alayo|-11.886|-75.299|PE|Junin|56
+Álamo Rustico|20.101|-98.716|MX|Hidalgo|56
+Alabino|55.527|37.010|RU|Moscow Oblast|56
 Alaraz|40.749|-5.288|ES|Castille and León|56
+Alano|40.306|14.972|IT|Campania|55
 Alatoz|39.095|-1.361|ES|Castille-La Mancha|55
+Alancık|38.040|38.559|TR|Adıyaman Province|55
+Alatepe|39.060|40.757|TR|Bingöl|55
+Alahualtitla|20.927|-98.167|MX|Veracruz|55
+‘Alalūlū|39.042|47.358|IR|East Azerbaijan|55
+Alanköy|41.137|35.134|TR|Samsun|55
+Alabayır|37.540|28.158|TR|Aydın|55
+Alayhanı|38.533|34.330|TR|Aksaray|54
+Al Ahsa Airport|25.285|49.485|SA|Eastern Province|54|f
+Al Ain International Airport|24.262|55.609|AE|Abu Dhabi|54|f
+Al Asad Airbase|33.786|42.441|IQ|Anbar|54|f
+Alabama Hills|36.615|-118.096|US|California|54|f
+Alafia River State Park|27.860|-82.121|US|Florida|54|f
+Alakanuk Airport|62.680|-164.649|US|Alaska|54|f
+Alameda Plaza|34.428|-119.705|US|California|54|f
+Alamo Lake|34.270|-113.569|US|Arizona|54|f
+Alamode Island|-68.711|-67.497|AQ||54|f
+Alan Peak|-72.650|0.167|AQ||54|f
+Alángorssûp Sermia|73.167|-55.000|GL|Avannaata|54|f
+Alas Leuser Airport|3.392|97.864|ID|Aceh|54|f
+Alayta|12.891|40.574|ET|Āfar|54|f
+Alamor|-4.480|-80.399|PE|Piura|54
+Alao|-14.268|-170.564|AS|Eastern District|54
 Alacón|41.026|-0.698|ES|Aragon|53
 Alatskivi|58.598|27.134|EE|Tartu|53
 Alagyaz|40.681|44.288|AM|Aragatsotn|52
 Ala di Stura|45.315|7.303|IT|Piedmont|50
 Alagna Valsesia|45.852|7.938|IT|Piedmont|50
+A Lake|44.824|-63.634|CA|Nova Scotia|49|f
+Alakai Wilderness Preserve|22.090|-159.561|US|Hawaii|49|f
+Alan|63.018|21.360|FI|Ostrobothnia|49|f
+Alanya Kalesi|36.532|31.995|TR|Antalya|49|f
+Alara Kalesi|36.645|31.792|TR|Antalya|49|f
+Alaska State Railroad Museum|64.564|-149.096|US|Alaska|49|f
+Alayto le Boyna|11.973|42.078|DJ||49|f
 Alameda del Valle|40.919|-3.842|ES|Madrid|47
 Alarcón|39.550|-2.083|ES|Castille-La Mancha|45
 Alarba|41.205|-1.613|ES|Aragon|43
 Alarilla|40.847|-3.103|ES|Castille-La Mancha|42
+Al-Aqsa University|31.504|34.436|PS|Gaza Strip|40|f
+Al-Azhar University|30.046|31.262|EG|Cairo|40|f
+Ala Kahakai National Historic Trail|18.911|-155.681|US|Hawaii|40|f
+Alabama International Motorsports Hall of Fame Museum|33.579|-86.068|US|Alabama|40|f
+Alabanda|37.592|27.985|TR|Aydın|40|f
+Alabaster Caverns State Park|36.698|-99.146|US|Oklahoma|40|f
+Alameda County Fairgrounds|37.662|-121.887|US|California|40|f
+Alameda de Hercules|37.398|-5.994|ES|Andalusia|40|f
+Alameda Island|37.775|-122.274|US|California|40|f
+Alamitos Bay|33.750|-118.118|US|California|40|f
+Alamo Hueco Mountains|31.433|-108.351|US|New Mexico|40|f
+Alamo Lake State Park|34.242|-113.584|US|Arizona|40|f
+Alamosa National Wildlife Refuge|37.421|-105.776|US|Colorado|40|f
+Alareak Island|64.335|-75.680|CA|Nunavut|40|f
+Alaska Aviation Heritage Museum|61.179|-149.973|US|Alaska|40|f
+Alaska Canyon|-86.000|-136.550|AQ||40|f
 Alaminos|40.863|-2.726|ES|Castille-La Mancha|38
 Aladrén|41.249|-1.156|ES|Aragon|37
 ‘Alāqahdārī Aṯghar|31.735|67.357|AF|Zabul|0
@@ -230,19 +327,28 @@ Al ‘Ayn|13.330|44.092|YE|Ta‘izz|0
 Al Aḩad|14.258|43.642|YE|Dhamār|0
 Al Aqţa‘|14.662|45.351|YE|Ma’rib|0
 Al Atārib|36.139|36.825|SY|Aleppo|0
+Ala|24.998|102.788|CN|Yunnan|0
 Alabio|-2.454|115.245|ID|South Kalimantan|0
 Alacahan|39.107|37.597|TR|Sivas|0
 Alacakaya|38.462|39.862|TR|Elazığ|0
 Alaçam|41.606|35.598|TR|Samsun|0
 Alafors|57.926|12.078|SE|Västra Götaland|0
+Alage’er|39.343|77.901|CN|Xinjiang|0
 Alagoa|39.361|-7.539|PT|Portalegre|0
 Alah Sāy|34.897|69.720|AF|Kapisa|0
 Alahanpanjang|-1.075|100.794|ID|West Sumatra|0
 Alájar|37.874|-6.665|ES|Andalusia|0
+Alak|-10.197|123.533|ID|East Nusa Tenggara|0
+Alakaga|41.547|82.766|CN|Xinjiang|0
 Alamikambang|13.500|-84.224|NI|North Caribbean Coast|0
 Alamillo|38.678|-4.790|ES|Castille-La Mancha|0
 Alandroal|38.702|-7.403|PT|Évora|0
+Alanga|-9.539|119.753|ID|East Nusa Tenggara|0
 Alangasí|-0.307|-78.416|EC|Pichincha|0
 Alanís|38.033|-5.717|ES|Andalusia|0
+Alas Tengah Krajan|-7.749|113.495|ID|East Java|0
+Alasbuluh|-8.010|114.407|ID|East Java|0
+Alasmalang|-7.139|114.590|ID|East Java|0
 Alastaro|60.950|22.850|FI|Southwest Finland|0
+Alatan Hada|47.958|119.596|CN|Inner Mongolia|0
 Alatan'molezhen|48.664|116.811|CN|Inner Mongolia|0

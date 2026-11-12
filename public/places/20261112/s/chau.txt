@@ -11,7 +11,9 @@ Chauny|49.615|3.219|FR|Hauts-de-France|82
 Chaurai|22.055|79.252|IN|Madhya Pradesh|82
 Chaumont-Gistoux|50.678|4.721|BE|Wallonia|81
 Chausy|53.807|30.966|BY|Mogilev|80
+Chautauqua Lake|42.169|-79.404|US|New York|78|f
 Chauvigny|46.570|0.643|FR|New Aquitaine|78
+Chaurjahari Airport|28.627|82.195|NP|Karnali Pradesh|77|f
 Chautla|18.966|-98.153|MX|Puebla|76
 Chaupāran|24.387|85.253|IN|Jharkhand|75
 Chauray|46.361|-0.378|FR|New Aquitaine|74
@@ -24,24 +26,65 @@ Chauvin|29.439|-90.595|US|Louisiana|69
 Chaung Wa|16.586|96.284|MM|Yangon|66
 Chauché|46.829|-1.273|FR|Pays de la Loire|66
 Chaulnes|49.817|2.801|FR|Hauts-de-France|66
+Chauncey Peak|41.558|-72.760|US|Connecticut|65|f
+Chausu Dake|37.124|139.960|JP|Tochigi|65|f
 Chaupāl|30.946|77.588|IN|Himachal Pradesh|65
 Chauvé|47.152|-1.987|FR|Pays de la Loire|65
 Chauconin-Neufmontiers|48.967|2.850|FR|Île-de-France|65
 Chaussin|46.966|5.408|FR|Bourgogne-Franche-Comté|64
 Chaung Nyi Ah Ko|17.010|95.956|MM|Yangon|64
 Chaudron-en-Mauges|47.288|-0.985|FR|Pays de la Loire|64
+Chauburji|31.555|74.305|PK|Punjab|63|f
+Chaudhary Charan Singh Airport|26.761|80.889|IN|Uttar Pradesh|63|f
 Chaudon|48.663|1.497|FR|Centre-Val de Loire|63
 Chauriat|45.751|3.279|FR|Auvergne-Rhône-Alpes|63
 Chaulgnes|47.129|3.103|FR|Bourgogne-Franche-Comté|62
 Chaunay|46.207|0.164|FR|New Aquitaine|62
 Chaucingo|18.301|-99.116|MX|Guerrero|62
+Chau Tsai|22.333|114.100|HK||61|f
+Chaunskaya Guba|69.349|169.774|RU|Chukotka|61|f
+Chautauqua County-Jamestown Airport|42.150|-79.267|US|New York|61|f
 Chaumont-sur-Tharonne|47.610|1.905|FR|Centre-Val de Loire|61
 Chaumont-sur-Loire|47.481|1.189|FR|Centre-Val de Loire|61
 Chauncey|39.398|-82.129|US|Ohio|60
 Chaudes-Aigues|44.855|3.004|FR|Auvergne-Rhône-Alpes|60
+Chaussan|45.634|4.639|FR|Auvergne-Rhône-Alpes|60
+Chaux|47.715|6.835|FR|Bourgogne-Franche-Comté|60
+Chauffry|48.811|3.181|FR|Île-de-France|59
+Chaufour-Notre-Dame|48.025|0.076|FR|Pays de la Loire|59
+Chaussée-Notre-Dame-Louvignies|50.592|3.998|BE|Wallonia|59
+Chaudenay|46.917|4.786|FR|Bourgogne-Franche-Comté|59
+Chaudefonds-sur-Layon|47.325|-0.707|FR|Pays de la Loire|58
+Chautipa|17.092|-99.391|MX|Guerrero|58
+Chautauqua Park|39.998|-105.280|US|Colorado|58|f
+Chauveau Point|-64.085|-62.057|AQ||58|f
+Chaumousey|48.173|6.335|FR|Grand Est|58
+Chausove|48.061|30.718|UA|Mykolaiv|57
+Chauvigné|48.377|-1.461|FR|Brittany|57
+Chaudeney-sur-Moselle|48.653|5.907|FR|Grand Est|57
+Chautengo|16.642|-99.091|MX|Guerrero|56
+Chaussoy-Epagny|49.733|2.333|FR|Hauts-de-France|56
+Chaussy|49.122|1.691|FR|Île-de-France|56
+Chaumot|48.080|3.218|FR|Bourgogne-Franche-Comté|56
+Chaumont|44.067|-76.130|US|New York|56
+Chaumont|48.322|3.106|FR|Bourgogne-Franche-Comté|56
+Chausove Druhe|48.058|30.705|UA|Mykolaiv|56
+Chaucenne|47.284|5.898|FR|Bourgogne-Franche-Comté|55
+Chaucheprat Point|-63.529|-56.720|AQ||54|f
+Chautauqua County-Dunkirk Airport|42.493|-79.272|US|New York|54|f
+Chautauqua National Wildlife Refuge|40.376|-90.001|US|Illinois|54|f
+Chauve, Mount|-66.817|141.383|AQ||54|f
+Chauveaubreen|79.683|12.133|SJ||54|f
+Chaul|18.567|72.932|IN|Maharashtra|49|f
+Chau Say Tevoda|13.445|103.878|KH|Siem Reap|40|f
+Chaudière Falls|45.421|-75.723|CA|Ontario|40|f
+Chausu-yama|35.818|137.821|JP|Nagano|40|f
+Chauvet|44.255|6.144|FR|Provence-Alpes-Côte d'Azur|40|f
+Chaux Ronde|46.321|7.085|CH|Vaud|40|f
 Cha-uat|7.968|100.000|TH|Nakhon Si Thammarat|0
 Châu Thành|9.870|106.349|VN|Vinh Long|0
 Châu Thành|11.312|106.029|VN|Tay Ninh|0
 Châu Thành|10.301|106.357|VN|Vinh Long|0
 Châu Thành|9.701|105.902|VN|Can Tho City|0
 Chaulán|-10.056|-76.485|PE|Huánuco Department|0
+Chaunaca|-19.017|-65.467|BO|Chuquisaca Department|0

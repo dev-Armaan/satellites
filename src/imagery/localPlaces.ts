@@ -10,10 +10,10 @@
  * page and kept in memory (a small LRU), shared by every caller: an abort only stops that caller waiting.
  */
 import { haversineKm } from '@/lib/geo'
-import { PLACE_GROUPS, PLACE_SPLIT, PLACE_TILES, PLACES_VERSION } from './localPlaces.gen'
+import { PLACE_GROUPS, PLACE_SPLIT, PLACE_TILES, PLACE_TILES_SPLIT, PLACES_VERSION } from './localPlaces.gen'
 import { Lru } from './lru'
 import { raceAbort, throwIfAborted } from './net'
-import { placeKey, shardFor, shardOf, TILE_COLS, TILE_DEG, TILE_ROWS, tileAt, tileIndex } from './placeKey'
+import { placeKey, shardFor, shardOf, tileAt, tileFile, tileIndex } from './placeKey'
 
 export interface LocalPlace {
   name: string
@@ -25,8 +25,8 @@ export interface LocalPlace {
   admin1: string
   /** Population on a log scale: round(20·log10(people)); 0 when unknown */
   p: number
-  /** '' a settlement, 'r' a state or province, 'c' a country, 'l' a landmark */
-  kind: '' | 'r' | 'c' | 'l'
+  /** '' a settlement, 'r' a state or province, 'c' a country, 'f' a named feature or building, 'l' a landmark */
+  kind: '' | 'r' | 'c' | 'f' | 'l'
   /** placeKey of the name (or of the ASCII name, where the name has no Latin key) */
   key: string
   /** A landmark's sublabel as written ("Giza, Egypt"), and its other names' keys */
@@ -40,6 +40,7 @@ const BASE = `/places/${PLACES_VERSION}`
 const LANDMARKS = 'l.txt'
 const GROUPS = new Set(PLACE_GROUPS.match(/../g) ?? [])
 const SPLIT = new Set(PLACE_SPLIT.split(','))
+const TILES_SPLIT = new Set(PLACE_TILES_SPLIT.split(',').filter(Boolean).map(Number))
 let tileBits: Uint8Array | undefined
 const hasTile = (i: number) => {
   tileBits ??= Uint8Array.from(atob(PLACE_TILES), (c) => c.charCodeAt(0))
@@ -54,7 +55,7 @@ export function parsePlaces(text: string): LocalPlace[] {
     const lat = Number(f[1])
     const lon = Number(f[2])
     if (!Number.isFinite(lat) || !Number.isFinite(lon)) continue
-    const kind = f[6] === 'r' || f[6] === 'c' ? f[6] : ''
+    const kind = f[6] === 'r' || f[6] === 'c' || f[6] === 'f' ? f[6] : ''
     out.push({ name: f[0], lat, lon, cc: f[3], admin1: f[4], p: Number(f[5]) || 0, kind, key: placeKey(f[7] || f[0]) })
   }
   return out
@@ -177,21 +178,22 @@ export function reachKm(p: number): number {
   return Math.min(30, 2 * Math.max(1, people / 1_000) ** 0.3)
 }
 
-/** Tiles near enough to (lat, lon) to hold a place whose reach covers it (the reach is at most 30 km). */
-function tilesAround(lat: number, lon: number): number[] {
-  const { row, col } = tileAt(lat, lon)
-  const marginLat = 0.3
-  const marginLon = Math.min(TILE_DEG, 0.3 / Math.max(0.05, Math.cos((lat * Math.PI) / 180)))
-  const fr = (lat + 90) / TILE_DEG - row
-  const fc = (lon + 180) / TILE_DEG - col
-  const rows = [row]
-  if (fr * TILE_DEG < marginLat && row > 0) rows.push(row - 1)
-  if ((1 - fr) * TILE_DEG < marginLat && row < TILE_ROWS - 1) rows.push(row + 1)
-  const cols = [col]
-  if (fc * TILE_DEG < marginLon) cols.push(col - 1)
-  if ((1 - fc) * TILE_DEG < marginLon) cols.push(col + 1)
-  const out = new Set<number>()
-  for (const r of rows) for (const c of cols) out.add(tileIndex(r, ((c % TILE_COLS) + TILE_COLS) % TILE_COLS))
+/**
+ * The tile files near enough to (lat, lon) to hold a place whose reach covers it (the reach is at most 30 km): the
+ * files under the spot and under points 0.3° (~33 km) around it, quarters where a tile is split.
+ */
+function tilesAround(lat: number, lon: number): string[] {
+  const dLat = 0.3
+  const dLon = Math.min(5, 0.3 / Math.max(0.05, Math.cos((lat * Math.PI) / 180)))
+  const out = new Set<string>()
+  for (const a of [-dLat, 0, dLat])
+    for (const o of [-dLon, 0, dLon]) {
+      const la = Math.max(-89.999, Math.min(89.999, lat + a))
+      const lo = ((((lon + o + 180) % 360) + 360) % 360) - 180
+      const { row, col } = tileAt(la, lo)
+      const i = tileIndex(row, col)
+      if (hasTile(i)) out.add(tileFile(la, lo, TILES_SPLIT.has(i)))
+    }
   return [...out]
 }
 
@@ -202,8 +204,7 @@ function tilesAround(lat: number, lon: number): number[] {
  */
 export async function nearestLocal(lat: number, lon: number, signal?: AbortSignal): Promise<LocalPlace | undefined> {
   throwIfAborted(signal)
-  const tiles = tilesAround(lat, lon).filter(hasTile)
-  const lists = (await Promise.all(tiles.map((i) => load(`t/${i}.txt`, signal)))).map((l) => l ?? [])
+  const lists = (await Promise.all(tilesAround(lat, lon).map((f) => load(`t/${f}.txt`, signal)))).map((l) => l ?? [])
   let best: LocalPlace | undefined
   let bestScore = 1
   for (const list of lists) {

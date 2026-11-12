@@ -8,8 +8,11 @@ Roth|49.248|11.091|DE|Bavaria|88
 Rotenburg|53.110|9.404|DE|Lower Saxony|87
 Rottingdean|50.810|-0.059|GB|England|87
 Rotterdam|42.787|-73.971|US|New York|86
+Rota Island|14.154|145.202|MP|Rota|85|f
 Rotherbaum|53.567|9.981|DE|Hamburg|85
 Rotselaar|50.953|4.717|BE|Flanders|84
+Rota International Airport|14.174|145.244|MP|Rota|83|f
+Rotterdam The Hague Airport|51.955|4.437|NL|South Holland|83|f
 Rotherhithe|51.500|-0.050|GB|England|83
 Rotenburg an der Fulda|50.996|9.728|DE|Hesse|82
 Röthenbach an der Pegnitz|49.483|11.241|DE|Bavaria|82
@@ -36,6 +39,7 @@ Röttenbach|49.664|10.926|DE|Bavaria|73
 Rot|47.923|9.105|DE|Baden-Wurttemberg|73
 Rothesay|55.836|-5.055|GB|Scotland|73
 Rötha|51.198|12.414|DE|Saxony|72
+Rothenberg Fortress|49.554|11.360|DE|Bavaria|72|f
 Rothenbergen|50.199|9.112|DE|Hesse|72
 Rothley|52.709|-1.137|GB|England|72
 Rotem|51.053|5.741|BE|Flanders|71
@@ -49,9 +53,13 @@ Rotheux-Rimière|50.534|5.481|BE|Wallonia|69
 Röttenbach|49.150|11.033|DE|Bavaria|69
 Rotava|50.296|12.573|CZ|Carlsbad Region|69
 Rotonda|6.492|124.886|PH|Soccsksargen|69
+Rothaargebirge|51.167|8.481|DE|North Rhine-Westphalia|69|f
+Rottnest Island Airport|-32.007|115.540|AU|Western Australia|69|f
+Rottøya|63.231|8.525|NO|Møre og Romsdal|69|f
 Rothenberg|49.499|8.919|DE|Hesse|68
 Rottne|57.017|14.900|SE|Kronoberg|68
 Rothbury|55.311|-1.908|GB|England|67
+Roteck|46.724|10.984|IT|Lazio|67|f
 Rötgesbüttel|52.417|10.533|DE|Lower Saxony|67
 Rottenmann|47.525|14.357|AT|Styria|67
 Rottenacker|48.235|9.690|DE|Baden-Wurttemberg|67
@@ -62,6 +70,7 @@ Rothwesten|51.385|9.523|DE|Hesse|66
 Rothenbuch|49.965|9.394|DE|Bavaria|66
 Röthis|47.293|9.655|AT|Vorarlberg|66
 Rottofreno|45.055|9.550|IT|Emilia-Romagna|65
+Rote Wand|47.186|9.985|AT|Vorarlberg|65|f
 Röthenbach|47.623|9.974|DE|Bavaria|65
 Rotmanka|54.274|18.604|PL|Pomerania|65
 Rottenbuch|47.733|10.967|DE|Bavaria|65
@@ -73,6 +82,8 @@ Rothem|50.877|5.739|NL|Limburg|64
 Roth|50.762|7.700|DE|Rheinland-Pfalz|64
 Rotherfield Peppard|51.531|-0.978|GB|England|64
 Rotunda|47.022|26.963|RO|Neamț County|64
+Rothschild Island|-69.429|-72.554|AQ||63|f
+Rötspitze|47.027|12.205|IT||63|f
 Rotondella|40.171|16.525|IT|Basilicate|63
 Rotan|32.852|-100.466|US|Texas|63
 Rothenstein|50.850|11.600|DE|Thuringia|63
@@ -82,19 +93,96 @@ Rotta|45.162|9.146|IT|Lombardy|62
 Rótova|38.932|-0.258|ES|Valencia|62
 Rothes|57.526|-3.207|GB|Scotland|62
 Rota Greca|39.467|16.114|IT|Calabria|61
+Rotbühlspitz|46.916|9.959|CH|Grisons|61|f
 Rotglá y Corbera|39.005|-0.565|ES|Valencia|61
 Rothenfels|49.891|9.593|DE|Bavaria|61
 Rotello|41.748|15.006|IT|Molise|61
 Rothienorman|57.411|-2.465|GB|Scotland|61
 Rottanova|45.144|12.018|IT|Veneto|60
+Rot-Front|42.721|75.104|KG|Chuy Region|60
 Rotenturm an der Pinka|47.250|16.250|AT|Burgenland|60
+Rotbav|45.839|25.558|RO|Brașov County|59
+Rothenburg|51.646|11.755|DE|Saxony-Anhalt|59
+Rothenbach|50.564|7.903|DE|Rheinland-Pfalz|59
+Rotta|51.764|12.602|DE|Saxony-Anhalt|59
+Rotari|45.055|26.295|RO|Prahova|59
 Rota d'Imagna|45.831|9.512|IT|Lombardy|59
+Rotterode|50.712|10.554|DE|Thuringia|59
+Rotorua International Stadium|-38.156|176.224|NZ|Bay of Plenty|58|f
+Rott|58.921|5.508|NO|Rogaland|58|f
+Rotten Island|54.614|-8.441|IE|Ulster|58|f
+Rotwandlspitze|47.407|11.288|AT||58|f
+Rottmersleben|52.213|11.399|DE|Saxony-Anhalt|58
+Rottum|52.937|5.894|NL|Friesland|58
+Rottleben|51.362|11.048|DE|Thuringia|58
+Rothselberg|49.550|7.600|DE|Rheinland-Pfalz|57
+Rotunda|45.289|24.656|RO|Arges|57
+Rot|61.250|14.033|SE|Dalarna|56
+Rotabile|41.661|13.464|IT|Lazio|56
+Rothenschirmbach|51.456|11.547|DE|Saxony-Anhalt|56
+Rotuma Village|-0.631|174.414|KI|Gilbert Islands|56
+Rota|14.154|145.201|MP||55|r
+Rotenhain|50.600|7.883|DE|Rheinland-Pfalz|55
+Rotsterhaule|52.920|5.852|NL|Friesland|55
+Rottnest Island|-31.995|115.540|AU|Western Australia|55
+Rotherwick|51.303|-0.971|GB|England|55
+Rothbach|48.907|7.529|FR|Grand Est|55
+Rötsweiler-Nockenthal|49.717|7.267|DE|Rheinland-Pfalz|54
+Rotamah Island|-37.975|147.724|AU|Victoria|54|f
+Rotch Dome|-62.633|-60.883|AQ||54|f
+Rotgundspitze|47.288|10.266|AT||54|f
+Rothera Point|-67.569|-68.127|AQ||54|f
+Rothrock Landing Strip|45.744|-118.631|US|Oregon|54|f
+Roto Kakahi|-38.218|176.319|NZ||54|f
+Rotorua Airport|-38.109|176.317|NZ|Auckland|54|f
+Rotsee|47.070|8.314|CH|Lucerne|54|f
+Rottumeroog|53.539|6.585|NL|Groningen|54|f
+Rottumerplaat|53.541|6.473|NL|Groningen|54|f
+Rotuma|-12.483|177.071|FJ|Rotuma|54|f
+Rotino|41.057|21.210|MK|Bitola|54
+Rote|41.079|-77.420|US|Pennsylvania|54
+Rotheau|48.068|15.598|AT|Lower Austria|54
 Rotzo|45.862|11.396|IT|Veneto|54
 Rotella|42.954|13.558|IT|The Marches|52
+Rote Säule|47.040|12.350|AT|Tyrol|49|f
+Rote Spitze|47.433|10.500|AT|Tyrol|49|f
+Roter Kamm|-27.764|16.301|NA|Karas Region|49|f
+Roter Kogl|47.133|11.167|AT|Tyrol|49|f
+Roto Iti|-38.033|176.417|NZ||49|f
+Rotwand|46.425|11.620|IT|Trentino-Alto Adige|49|f
+Rotz Glacier|-69.284|-65.743|AQ||49|f
+Roth|50.267|7.896|DE|Rheinland-Pfalz|47
 Röthelstein|47.317|15.367|AT|Styria|46
+Rotberg|46.990|11.910|IT|Trentino-Alto Adige|40|f
+Rote Flüh|47.503|10.602|AT|Tyrol|40|f
+Rote Nase|45.986|7.809|CH|Valais|40|f
+Rote Säule|47.150|12.450|AT|Salzburg|40|f
+Rote Spitze|46.876|12.344|AT|Tyrol|40|f
+Roteflue|46.682|7.958|CH|Bern|40|f
+Roter Knopf|46.978|12.740|AT|Carinthia|40|f
+Rothenbachkopf|48.000|6.980|FR|Grand Est|40|f
+Rotherfield Greys Court|51.545|-0.957|GB|England|40|f
+Rothorn|46.340|8.249|IT|Piedmont|40|f
+Rotkopf|47.391|10.381|DE|Bavaria|40|f
+Rotokare|-39.450|174.417|NZ||40|f
+Rotolante, Mount|-83.600|168.417|AQ||40|f
+Rotonda di San Lorenzo|45.158|10.795|IT|Lombardy|40|f
+Rotopouri|-36.298|174.080|NZ|Auckland|40|f
+Rotoroa Island|-36.817|175.200|NZ|Auckland|40|f
+Rotsandnollen|46.801|8.344|CH|Obwalden|40|f
+Rotspitz|47.058|9.552|CH|Grisons|40|f
+Rotspitze|47.459|10.369|DE|Bavaria|40|f
+Rotstock|46.435|8.002|CH|Valais|40|f
+Rotstöckli|46.778|8.426|CH|Obwalden|40|f
+Rottalhorn|46.532|7.967|CH|Valais|40|f
+Rotunda Glacier|-78.000|161.633|AQ||40|f
 Roturas|41.668|-4.119|ES|Castille and León|30
-Rota|14.154|145.201|MP||0|r
+Rot an der Rot|48.013|10.030|DE|Baden-Wurttemberg|0
+Rote|-9.866|124.275|ID|East Nusa Tenggara|0
+Roth|49.933|7.800|DE|Rheinland-Pfalz|0
 Rothley|55.183|-1.917|GB|England|0
 Rotmistrivka|49.148|31.713|UA|Cherkasy|0
+Rott|50.633|7.517|DE|Rheinland-Pfalz|0
+Rott|47.905|10.973|DE|Bavaria|0
 Rottenschwil|47.314|8.361|CH|Aargau|0
 Rotuma|-12.508|177.066|FJ||0|r

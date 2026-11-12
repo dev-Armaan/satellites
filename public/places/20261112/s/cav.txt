@@ -11,6 +11,7 @@ Cavriago|44.695|10.526|IT|Emilia-Romagna|79
 Çavuşlu|37.500|41.251|TR|Mardin|79
 Cave|41.817|12.941|IT|Lazio|78
 Cavallino|40.310|18.202|IT|Apulia|78
+Cavern City Air Terminal|32.337|-104.263|US|New Mexico|77|f
 Cavenago di Brianza|45.583|9.413|IT|Lombardy|77
 Cavalaire-sur-Mer|43.173|6.530|FR|Provence-Alpes-Côte d'Azur|75
 Cavaria Con Premezzo|45.692|8.803|IT|Lombardy|75
@@ -19,6 +20,7 @@ Cave Creek|33.833|-111.951|US|Arizona|75
 Cavnic|47.648|23.822|RO|Maramureş|74
 Cavallermaggiore|44.706|7.687|IT|Piedmont|72
 Çavdır|36.366|29.352|TR|Antalya|72
+Cavalier Municipal Airport|48.785|-97.631|US|North Dakota|71|f
 Cavadineşti|46.067|28.017|RO|Galați County|71
 Cava Manara|45.140|9.108|IT|Lombardy|71
 Cavajon Veronese|45.540|10.770|IT|Veneto|71
@@ -30,6 +32,7 @@ Cavour|44.793|7.374|IT|Piedmont|69
 Cavallasca|45.810|9.033|IT|Lombardy|69
 Cavallino|45.475|12.549|IT|Veneto|69
 Cavaglià|45.406|8.092|IT|Piedmont|69
+Cavanaugh Bay Airport|48.519|-116.822|US|Idaho|69|f
 Cavaso del Tomba|45.861|11.898|IT|Veneto|69
 Çavuşköy|36.332|30.431|TR|Antalya|68
 Cavertitz|51.383|13.133|DE|Saxony|68
@@ -39,6 +42,7 @@ Cave City|37.137|-85.957|US|Kentucky|68
 Cavriana|45.348|10.596|IT|Lombardy|67
 Cavernago|45.625|9.766|IT|Lombardy|67
 Cavagnolo|45.152|8.049|IT|Piedmont|67
+Çavuştepe|38.363|43.457|TR|Van|67|f
 Cavriglia-Monastero|43.520|11.487|IT|Tuscany|67
 Cavtat|42.581|18.218|HR|Dubrovnik-Neretva|67
 Cave Junction|42.163|-123.648|US|Oregon|66
@@ -50,6 +54,7 @@ Cava d'Aliga|36.730|14.690|IT|Sicily|64
 Cavoni-Ginestreto|39.452|16.263|IT|Calabria|64
 Cavazzona|44.573|11.119|IT|Emilia-Romagna|64
 Cavetown|39.644|-77.586|US|Maryland|63
+Cave Island|-62.449|-60.061|AQ||63|f
 Cavolano-Schiavoi|45.933|12.500|IT|Friuli Venezia Giulia|62
 Cavignac|45.101|-0.390|FR|New Aquitaine|62
 Cavasso Nuovo|46.194|12.772|IT|Friuli Venezia Giulia|62
@@ -62,15 +67,56 @@ Cavanagh|-33.478|-62.339|AR|Cordoba|61
 Cavallirio|45.662|8.397|IT|Piedmont|61
 Cavareno|46.408|11.139|IT|Trentino-Alto Adige|60
 Cavaillon|18.300|-73.655|HT|Sud|60
+Çavdar|37.597|27.643|TR|Aydın|60
 Cavedine|45.995|10.974|IT|Trentino-Alto Adige|60
+Cavendish|52.087|0.634|GB|England|59
+Cavrie|45.704|12.370|IT|Veneto|59
+Cavaione|45.479|9.445|IT|Lombardy|58
+Caviahue Airport|-37.851|-71.009|AR|Neuquen|58|f
+Cavistrau Grond|46.784|8.974|CH|Grisons|58|f
+Cavanac|43.170|2.323|FR|Occitanie|58
 Cavacurta|45.190|9.742|IT|Lombardy|58
+Cavola|44.400|10.532|IT|Emilia-Romagna|58
+Cavillargues|44.115|4.522|FR|Occitanie|57
 Cavazzo Carnico|46.368|13.041|IT|Friuli Venezia Giulia|57
+Cavora-Lenticchia|38.952|16.557|IT|Calabria|57
+Cavasagra|45.662|12.055|IT|Veneto|56
+Caves|42.932|2.975|FR|Occitanie|56
+Cavalinhos|39.710|-8.875|PT|Leiria|56
+Cavin-Botti|45.499|12.063|IT|Veneto|56
+Cavo|42.863|10.419|IT|Tuscany|56
+Caviola|46.364|11.896|IT|Veneto|55
+Çavuşköy|39.598|41.962|TR|Erzurum|55
+Cavalleri-Fumeri|44.832|7.743|IT|Piedmont|55
+Cavagnano|45.905|8.871|IT|Lombardy|55
+Cavi-Casalone|43.480|11.709|IT|Tuscany|55
+Cavalier Rock|-67.825|-69.462|AQ||54|f
+Çavdarhisar Barajı|39.176|29.585|TR|Kütahya|54|f
+Cave Lake State Park|39.190|-114.722|US|Nevada|54|f
+Cave Run Lake|38.063|-83.482|US|Kentucky|54|f
+Caverswall Castle|52.983|-2.075|GB|England|54|f
 Cavallerleone|44.740|7.664|IT|Piedmont|54
 Cavedago|46.185|11.033|IT|Trentino-Alto Adige|52
 Cavaglietto|45.602|8.502|IT|Piedmont|50
 Cavaglio-Spoccia|46.071|8.631|IT|Piedmont|50
+Cava|58.878|-3.168|GB|Scotland|49|f
+Cave Bay|13.134|-59.426|BB|Saint Philip|49|f
+Cave Island|32.364|-64.688|BM|Saint Georgeʼs|49|f
+Cave Knoll|37.321|-113.104|US|Utah|49|f
+Cavite Peninsula|14.485|120.896|PH|Calabarzon|49|f
 Cavizzana|46.367|10.958|IT|Trentino-Alto Adige|48
 Cavargna|46.091|9.112|IT|Lombardy|47
+Cavalier County Museum|48.825|-98.481|US|North Dakota|40|f
+Cavalli Islands|-35.001|173.943|NZ||40|f
+Cavanaghs Lake|45.917|-60.040|CA|Nova Scotia|40|f
+Cavaney, Mount|-74.050|163.050|AQ||40|f
+Cave Buttes Dam|33.660|-112.089|US|Arizona|40|f
+Cave Creek Dam|33.726|-112.047|US|Arizona|40|f
+Cave Creek Museum|33.829|-111.948|US|Arizona|40|f
+Cave Mountain|50.933|-115.602|CA|Alberta|40|f
+Cave Mountain|42.286|-74.246|US|New York|40|f
+Cave Stream Scenic Reserve|-43.197|171.742|NZ|Canterbury|40|f
+Cave-In-Rock State Park|37.469|-88.156|US|Illinois|40|f
 Cavatore|44.631|8.453|IT|Piedmont|35
 Çavdarhisar|39.193|29.619|TR|Kütahya|0
 Çavdır|37.155|29.694|TR|Burdur|0

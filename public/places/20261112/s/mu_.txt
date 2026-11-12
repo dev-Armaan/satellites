@@ -1,14 +1,14 @@
 Mumbai|19.073|72.883|IN|Maharashtra|142
 Multan|30.197|71.478|PK|Punjab|127
 Munich|48.137|11.575|DE|Bavaria|124
+Munster|52.343|-8.717|IE||119|r
 Mulenvos|-8.867|13.334|AO|Luanda|119
-Munster|52.343|-8.717|IE||118|r
 Muscat|23.584|58.408|OM|Muscat|118
 Murmansk|67.808|34.575|RU||118|r
 Muzaffarābād|34.370|73.471|PK|Azad Kashmir|117
+Mureș County|46.667|24.583|RO||117|r
 Mudanjiang|44.548|129.626|CN|Heilongjiang|116
 Muhafazat Hadramaout|16.000|49.000|YE||116|r
-Mureș County|46.667|24.583|RO||116|r
 Mukalla|14.542|49.124|YE|Muhafazat Hadramaout|115
 Muntinlupa|14.390|121.047|PH|Calabarzon|115
 Mukim Pulai|1.533|103.667|MY|Johor|114
@@ -75,7 +75,9 @@ Mutengene|4.091|9.314|CM|South-West|96
 Mudu|31.256|120.519|CN|Jiangsu|96
 Mushie|-3.017|16.922|CD|Mai-Ndombe|96
 Mujiayingzi|42.117|118.783|CN|Inner Mongolia|96
+Muscat International Airport|23.601|58.286|OM|Muscat|96|f
 Murakami|38.233|139.483|JP|Niigata|95
+Museo del Prado|40.414|-3.692|ES|Madrid|95|f
 Mulbāgal|13.164|78.393|IN|Karnataka|95
 Mukandpur|28.739|77.183|IN|Delhi|95
 Mukō|34.965|135.704|JP|Kyoto|95
@@ -96,5 +98,4 @@ Muţūbas|31.294|30.522|EG|Kafr el-Sheikh|93
 Muyuka|4.290|9.410|CM|South-West|93
 Murang’a|-0.721|37.153|KE|Murang'A|93
 Munsan|37.859|126.785|KR|Gyeonggi-do|93
-Mucuri|-18.086|-39.551|BR|Bahia|93
-Mülheim|50.966|7.004|DE|North Rhine-Westphalia|92
+Mu|29.287|89.766|CN|Tibet|0

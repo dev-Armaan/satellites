@@ -1,5 +1,5 @@
+Tabasco|18.000|-92.667|MX||124|r
 Tabriz|38.080|46.292|IR|East Azerbaijan|123
-Tabasco|18.000|-92.667|MX||123|r
 Tabuk Region|28.250|37.167|SA||118|r
 Tabuk|28.400|36.572|SA|Tabuk Region|116
 Tabora|-5.016|32.827|TZ|Tabora|110
@@ -9,6 +9,8 @@ Tabatinga|-4.231|-69.939|BR|Amazonas|97
 Täby|59.444|18.069|SE|Stockholm|95
 Tabaco|13.359|123.734|PH|Bicol Region|95
 Tabas|33.596|56.924|IR|Yazd Province|94
+Tabriz International Airport|38.133|46.234|IR|East Azerbaijan|92|f
+Table Mountain|-33.962|18.414|ZA|Western Cape|92|f
 Tábor|49.414|14.658|CZ|South Bohemian Region|91
 Tabount|30.903|-6.916|MA|Drâa-Tafilalet|91
 Tabanan|-8.541|115.125|ID|Bali|91
@@ -16,9 +18,11 @@ Tabuleiro do Norte|-5.247|-38.131|BR|Ceará|90
 Tabou|4.423|-7.353|CI|Bas-Sassandra District|89
 Tabira|-7.591|-37.539|BR|Pernambuco|89
 Tabay|8.632|-71.078|VE|Mérida|87
+Taba International Airport|29.588|34.778|EG|South Sinai|87|f
 Tabligbo|6.583|1.500|TG|Maritime|87
 Tabursuq|36.457|9.248|TN|Béja Governorate|86
 Tabarka|36.954|8.758|TN|Jendouba Governorate|86
+Tabuk Regional Airport|28.365|36.619|SA|Tabuk Region|84|f
 Tabatinga|-21.737|-48.686|BR|São Paulo|83
 Tabalosos|-6.350|-76.683|PE|San Martín Department|83
 Tabuse|33.950|132.067|JP|Yamaguchi|83
@@ -26,6 +30,7 @@ Tabata|35.736|139.758|JP|Tokyo|83
 Tabi|-8.180|13.357|AO|Bengo|82
 Tábua|40.362|-8.029|PT|Coimbra|82
 Tabocas do Brejo Velho|-12.704|-44.010|BR|Bahia|82
+Table Bay|-33.884|18.451|ZA|Western Cape|81|f
 Tabapuã|-20.964|-49.032|BR|São Paulo|81
 Tabubil|-5.274|141.229|PG|Western Province|80
 Tabaporã|-11.308|-56.819|BR|Mato Grosso|80
@@ -33,6 +38,9 @@ Tabo|6.236|-5.137|CI|Lagunes District|78
 Taber|49.787|-112.146|CA|Alberta|78
 Tabasco|21.863|-102.911|MX|Zacatecas|77
 Tabaloslos|-6.386|-76.633|PE|San Martín Department|77
+Tabar Islands|-2.792|151.954|PG|New Ireland|77|f
+Tabas Airport|33.668|56.893|IR|Yazd Province|77|f
+Tabiteuea Atoll|-1.407|174.860|KI|Gilbert Islands|77|f
 Tabagné|7.991|-3.069|CI|Zanzan District|76
 Tabuaço|41.116|-7.568|PT|Viseu|76
 Tabu|9.892|122.710|PH|Western Visayas|76
@@ -47,6 +55,7 @@ Tabaí|-29.643|-51.682|BR|Rio Grande do Sul|73
 Tablazo Norte|-5.384|-80.764|PE|Piura|73
 Tabarz|50.875|10.516|DE|Thuringia|72
 Tabio|4.917|-74.094|CO|Cundinamarca|72
+Table Island|23.491|119.528|TW|Taiwan|72|f
 Tabuating|15.392|120.941|PH|Central Luzon|72
 Ţabl|26.757|55.726|IR|Hormozgan|72
 Tabuleiro|-21.359|-43.248|BR|Minas Gerais|72
@@ -66,6 +75,7 @@ Tabaquite|10.388|-61.297|TT|Couva-Tabaquite-Talparo|70
 Tabug|18.034|120.549|PH|Ilocos|70
 Tabon|9.804|123.456|PH|Central Visayas|70
 Tabernas|37.050|-2.391|ES|Andalusia|70
+Tabatinga International Airport|-4.256|-69.936|BR|Amazonas|70|f
 Tabid|8.108|123.780|PH|Northern Mindanao|70
 Tabunok|10.777|124.016|PH|Central Visayas|70
 Tabaka|-0.747|34.667|KE|Kisii County|69
@@ -89,6 +99,8 @@ T’abakhmela|41.652|44.757|GE|Tbilisi|66
 Tabory|58.520|64.548|RU|Sverdlovsk Oblast|66
 Ţabaqdeh|36.761|53.204|IR|Māzandarān|66
 Tabwakea Village|2.016|-157.488|KI|Line Islands|65
+Tababort|36.550|5.467|DZ|Sétif|65|f
+Tabarka–Ain Draham International Airport|36.980|8.877|TN|Jendouba Governorate|65|f
 Taborivka|47.609|31.384|UA|Mykolaiv|65
 Tăbărăști|45.079|26.919|RO|Buzău County|65
 Tabiago-Cibrone|45.756|9.267|IT|Lombardy|65
@@ -97,27 +109,81 @@ Taboadela|42.242|-7.827|ES|Galicia|65
 Tabachnoye|44.902|33.676|UA|Crimea|64
 Tabādakān|36.479|59.908|IR|Razavi Khorasan|64
 Tabakoro-Dierré|8.219|-5.628|CI|Woroba|64
+Tabeguache Peak|38.625|-106.251|US|Colorado|63|f
+Tablas Island|12.396|122.038|PH|Mimaropa|63|f
+Table Rock Mountain|35.891|-81.883|US|North Carolina|63|f
 Tabossi|-31.802|-59.936|AR|Entre Rios|62
 Tabachnoye|45.613|34.615|UA|Crimea|62
 Tabanović|44.820|19.641|RS|Central Serbia|62
 Tabdi|46.682|19.326|HU|Bács-Kiskun|62
 Tabakoro|8.496|-6.119|CI|Woroba|62
 Tabāzīn|35.527|51.346|IR|Tehran|61
+Table Top Mountain|58.292|-134.501|US|Alaska|61|f
 Tabureli|36.654|34.069|TR|Mersin|61
 Tabanac|44.721|-0.406|FR|New Aquitaine|61
 Tabarteh|34.520|49.513|IR|Markazi|61
 Taboth|5.258|-4.329|CI|Lagunes District|60
 Tabăra|47.574|27.412|RO|Iași County|60
+Ţabaqat Faḩl|32.451|35.609|JO|Irbid|60
+Tabor|40.898|-95.671|US|Iowa|60
+Taborio Village|1.356|173.054|KI|Gilbert Islands|60
 Tábara|41.825|-5.964|ES|Castille and León|59
+Taben-Rodt|49.550|6.583|DE|Rheinland-Pfalz|59
+Tabusintac|47.328|-65.011|CA|New Brunswick|59
+Taborio Village|1.520|173.003|KI|Gilbert Islands|59
+Tabarin Peninsula|-63.533|-57.000|AQ||58|f
+Table Island|-62.343|-59.808|AQ||58|f
+Table Rock Lake|36.596|-93.311|US|Missouri|58|f
+Taborovskiy Peak|-71.802|11.592|AQ||58|f
+Tabwémasana|-15.367|166.750|VU|Sanma|58|f
+Tabouttou|5.191|-4.740|CI|Lagunes District|58
+Tabalá|24.442|-107.096|MX|Sinaloa|57
+Tabi|20.599|-88.898|MX|Yucatán|57
+Taba|29.492|34.896|EG|South Sinai|57
+Tabellano|45.017|10.721|IT|Lombardy|57
+Tabakoroni|8.417|-6.573|CI|Woroba|57
+Tabanözü|41.591|32.407|TR|Bartın|56
+Tabaklar|36.749|35.001|TR|Adana|56
+Tabiang Village|0.486|173.829|KI|Gilbert Islands|55
+Tabayama|35.790|138.922|JP|Yamanashi|54
+Tabernacle Hill|38.910|-112.530|US|Utah|54|f
+Tabing Airport|-0.875|100.352|ID|West Sumatra|54|f
+Table Mountain|41.959|-74.405|US|New York|54|f
+Table Mountain|36.660|-118.474|US|California|54|f
+Table Mountain|43.747|-110.852|US|Wyoming|54|f
+Table Rock State Park|36.588|-93.310|US|Missouri|54|f
+Tabor Island|11.572|122.478|PH|Western Visayas|54|f
+Tabora Airport|-5.083|32.833|TZ|Tabora|54|f
+Tabubil Airport|-5.279|141.227|PG|Western Province|54|f
 Tabuenca|41.695|-1.543|ES|Aragon|53
 Tabaconas|-5.315|-79.283|PE|Cajamarca Department|53
 Tabor|46.235|15.017|SI|Municipality of Tabor|52
+Tabar Island|-2.919|152.013|PG|New Ireland|49|f
+Tabernacle Dome|37.300|-113.094|US|Utah|49|f
+Tablas Strait|12.415|121.726|PH||49|f
+Table Cape|-40.946|145.733|AU|Tasmania|49|f
+Table Mountain|53.017|-6.482|IE|Leinster|49|f
+Taboga Island|8.790|-79.558|PA|Panamá|49|f
+Tabourie Lake|-35.417|150.414|AU|New South Wales|49|f
 Tabanera de Cerrato|42.025|-4.124|ES|Castille and León|43
 Tabera de Abajo|40.910|-6.002|ES|Castille and León|40
+Tabaconas Namballe National Sanctuary|-5.157|-79.273|PE|Cajamarca Department|40|f
+Table Island|77.202|-95.468|CA|Nunavut|40|f
+Table Mountain|39.977|-121.423|US|California|40|f
+Table Mountain|45.742|-112.462|US|Montana|40|f
+Table Mountain|45.691|-121.984|US|Washington|40|f
+Table Mountain National Park|-33.967|18.425|ZA|Western Cape|40|f
+Table Rock|46.208|-82.828|CA|Ontario|40|f
+Table Rock Airport|43.214|-120.842|US|Oregon|40|f
+Table Rock State Park|35.037|-82.707|US|South Carolina|40|f
+Table Top Mountain|44.144|-73.907|US|New York|40|f
+Tablettes|46.976|6.789|CH|Neuchâtel|40|f
+Taborga Lake|-14.829|-63.494|BO|Santa Cruz Department|40|f
 Tabanera la Luenga|41.096|-4.239|ES|Castille and León|38
 Tabanera de Valdavia|42.647|-4.694|ES|Castille and León|34
 Tababela|-0.186|-78.344|EC|Pichincha|0
 Tabacundo|0.048|-78.220|EC|Pichincha|0
+Tabali|-8.318|123.014|ID|East Nusa Tenggara|0
 Tabant|31.653|-6.410|MA|Beni Mellal-Khenifra|0
 Taberno|37.469|-2.077|ES|Andalusia|0
 Tabia|32.030|-6.800|MA|Beni Mellal-Khenifra|0
@@ -125,4 +191,8 @@ Tabia|30.035|-8.877|MA|Souss-Massa|0
 Tabing|-0.872|100.343|ID|West Sumatra|0
 Tabogon|10.941|124.028|PH|Central Visayas|0
 Tabouda|34.719|-5.140|MA|Fes-Meknes|0
+Tabrik|-7.361|108.137|ID|West Java|0
+Tabu|-10.035|124.266|ID|East Nusa Tenggara|0
+Tabulehete|44.219|84.267|CN|Heilongjiang|0
+Tabun|-10.217|123.575|ID|East Nusa Tenggara|0
 Tabunganen|-3.410|114.483|ID|South Kalimantan|0

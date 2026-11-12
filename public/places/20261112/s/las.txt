@@ -17,6 +17,7 @@ Lashibi|5.685|-0.040|GH|Greater Accra|94
 Lashkar Gāh|31.594|64.372|AF|Helmand|93
 Las Tejerías|10.254|-67.173|VE|Aragua|93
 Las Choapas|17.912|-94.096|MX|Veracruz|93
+Las Américas International Airport|18.430|-69.669|DO|Nacional|92|f
 Lasoano|6.255|45.385|ET|Somali|92
 Las Guacamayas|18.019|-102.210|MX|Michoacán|92
 La Sebala du Mornag|36.679|10.292|TN|Ben Arous Governorate|90
@@ -35,6 +36,7 @@ Las Torres de Cotillas|38.028|-1.242|ES|Murcia|86
 Las Margaritas|16.313|-91.982|MX|Chiapas|86
 Las Vegas|9.537|-68.630|VE|Cojedes|86
 L.A.Sagaram|13.903|79.891|IN|Andhra Pradesh|86
+Lassen Peak|40.488|-121.505|US|California|86|f
 Las Rosas|16.366|-92.371|MX|Chiapas|85
 Las Varillas|-31.870|-62.720|AR|Cordoba|85
 Łask|51.591|19.133|PL|Łódź Voivodeship|85
@@ -77,24 +79,31 @@ Las Juntas|20.700|-105.243|MX|Jalisco|79
 Las Tablas|7.766|-80.278|PA|Los Santos Province|79
 Las Cabras|-34.290|-71.306|CL|O'Higgins Region|78
 Lasang|7.267|125.665|PH|Davao Region|78
+Las Higueras Airport|-33.085|-64.261|AR|Cordoba|78|f
 Las Praderas|13.348|-85.944|NI|Jinotega Department|78
 La Sarre|48.800|-79.200|CA|Quebec|78
 Las Terrenas|19.311|-69.543|DO|Samaná|78
 La Selva|18.023|-92.963|MX|Tabasco|78
+La Soufrière|16.045|-61.663|GP||78|f
+Las Flecheras Airport|7.883|-67.444|VE|Apure|78|f
 Lascahobas|18.830|-71.936|HT|Centre|78
 Las Vegas, Santa Barbara|14.876|-88.075|HN|Santa Bárbara Department|77
 Lashkarābād|35.855|50.746|IR|Alborz Province|77
 Lassance|-17.887|-44.578|BR|Minas Gerais|77
+La Sal Mountains|38.449|-109.241|US|Utah|77|f
+Las Vegas Municipal Airport|35.654|-105.142|US|New Mexico|77|f
 Las Pedroñeras|39.450|-2.674|ES|Castille-La Mancha|77
 Lascano|-33.672|-54.206|UY|Rocha Department|77
 Las Khorey|11.159|48.197|SO|Sanaag|77
 Lastrup|52.795|7.867|DE|Lower Saxony|77
 Las Piedras|18.183|-65.866|PR|Las Piedras|76
+Las Brujas Airport|22.621|-79.147|CU|Villa Clara Province|76|f
 Lasam|18.065|121.601|PH|Cagayan Valley|76
 La Salvetat-Saint-Gilles|43.576|1.272|FR|Occitanie|76
 Las Jarretaderas|20.692|-105.274|MX|Nayarit|76
 Las Trojes|14.067|-85.983|HN|El Paraíso Department|76
 Las Flores|33.588|-117.627|US|California|76
+Las Cruces International Airport|32.289|-106.922|US|New Mexico|75|f
 Lasologo|9.586|-5.101|CI|Savanes District|75
 La Souterraine|46.238|1.486|FR|New Aquitaine|75
 Las Higueras|-33.094|-64.288|AR|Cordoba|74
@@ -105,6 +114,7 @@ Las Torres|25.952|-100.318|MX|Nuevo León|74
 Łaskarzew|51.790|21.591|PL|Mazovia|74
 La Selva del Camp|41.215|1.139|ES|Catalonia|74
 Las Charcas|18.450|-70.617|DO|Azua Province|73
+La Sarre Airport|48.916|-79.181|CA|Quebec|73|f
 Las Lajas|-38.524|-70.365|AR|Neuquen|73
 Las Perdices|-32.699|-63.705|AR|Cordoba|73
 Las Salinas|18.275|-71.316|DO|Barahona Province|73
@@ -142,6 +152,7 @@ Lashky|49.105|33.468|UA|Poltava|70
 Lascari|38.001|13.941|IT|Sicily|69
 La Selva Beach|36.937|-121.865|US|California|69
 Lassnitzhöhe|47.067|15.583|AT|Styria|69
+Las Vegas Range|36.571|-115.036|US|Nevada|69|f
 Las Mesas|17.008|-99.457|MX|Guerrero|69
 La Salute di Livenza|45.654|12.801|IT|Veneto|69
 Lassay-les-Châteaux|48.438|-0.498|FR|Pays de la Loire|68
@@ -154,6 +165,8 @@ Las Varas|28.154|-105.342|MX|Chihuahua|68
 Lassee|48.225|16.822|AT|Lower Austria|68
 Łaszczów|50.533|23.726|PL|Lublin|67
 La Sabinita|20.361|-99.632|MX|Hidalgo|67
+Las Gaviotas Airport|4.550|-70.926|CO|Vichada Department|67|f
+Lasikin Airport|2.412|96.329|ID|Aceh|67|f
 Las Animas|38.067|-103.223|US|Colorado|67
 Las Cañadas|20.297|-101.978|MX|Michoacán|67
 La Sarrosa|15.233|-87.833|HN|Yoro Department|67
@@ -170,6 +183,11 @@ Lasa|46.618|10.698|IT|Trentino-Alto Adige|66
 Las Taponas|20.418|-100.383|MX|Querétaro|66
 Las Ollas|18.014|-66.421|PR|Santa Isabel|66
 Las Margaritas|18.254|-96.284|MX|Oaxaca|66
+Las Brizas Airport|-14.558|-65.731|BO|Beni Department|65|f
+Las Tacas Airport|-30.096|-71.364|CL|Coquimbo Region|65|f
+Las Vegas Community Healing Garden|36.160|-115.151|US|Nevada|65|f
+Lasondre Airport|-0.019|98.299|ID|North Sumatra|65|f
+Lasörling|46.977|12.355|AT|Tyrol|65|f
 Las Arenitas|24.373|-107.536|MX|Sinaloa|65
 Las Moras|25.658|-108.457|MX|Sinaloa|65
 Laszki|50.020|22.900|PL|Subcarpathia|65
@@ -199,6 +217,10 @@ Las Lomas|19.446|-96.907|MX|Veracruz|64
 Las Catarinas|23.091|-102.616|MX|Zacatecas|64
 La Sabana|15.374|-87.932|HN|Cortés Department|64
 La Subida|21.905|-99.099|MX|San Luis Potosí|64
+La Soufrière|13.333|-61.183|VC||63|f
+Las Guijas Mountains|31.650|-111.385|US|Arizona|63|f
+Las Termas Airport|-27.496|-64.935|AR|Santiago del Estero|63|f
+Lastoursville Airport|-0.827|12.745|GA|Ogooué-Lolo|63|f
 La Saletta-Tamara|44.882|11.772|IT|Emilia-Romagna|63
 Las Peñas|19.450|-99.999|MX|México|63
 La Sauve|44.770|-0.312|FR|New Aquitaine|63
@@ -259,6 +281,7 @@ Las Golondrinas [Fraccionamiento]|22.105|-103.254|MX|Jalisco|61
 L'Ascension-de-Notre-Seigneur|48.683|-71.666|CA|Quebec|61
 Las Pilas|22.840|-102.613|MX|Zacatecas|61
 Las Cuevas|25.497|-103.549|MX|Durango|61
+Las Moras Mountain|29.357|-100.389|US|Texas|61|f
 Las Ánimas|14.250|-86.567|HN|El Paraíso Department|61
 Las Trancas|19.504|-96.864|MX|Veracruz|61
 Lasalle|44.046|3.852|FR|Occitanie|61
@@ -292,23 +315,305 @@ Las Varas|-31.803|-62.617|AR|Cordoba|60
 Las Lajas|8.245|-81.870|PA|Chiriquí Province|60
 Las Plazuelas|16.874|-99.786|MX|Guerrero|60
 Las Torres de Guadalupe|25.806|-100.623|MX|Nuevo León|60
+Las Mercedes|14.283|-87.567|HN|Comayagua Department|60
+Las Piedras|21.359|-98.501|MX|Hidalgo|60
+La Soledad|-8.028|-77.474|PE|La Libertad|60
+Las Vivianas|18.931|-99.028|MX|Morelos|60
+La Soledad|16.509|-91.448|MX|Chiapas|60
+Laskarci|41.975|21.211|MK|Grad Skopje|60
+La Sinaloa|24.768|-107.624|MX|Sinaloa|60
+La Sagne|47.046|6.809|CH|Neuchâtel|60
+Las Chacas|21.211|-98.525|MX|Hidalgo|60
+Las Trancas|19.731|-97.576|MX|Puebla|60
+La Saulce|44.425|6.007|FR|Provence-Alpes-Côte d'Azur|60
+Las Plazas|19.871|-98.943|MX|Hidalgo|60
+Lasberg|48.471|14.540|AT|Upper Austria|60
+Las Puentes (Guadalupe Victoria)|24.532|-107.541|MX|Sinaloa|60
+Lassoro|8.256|-4.190|CI|Vallée du Bandama District|60
+La Salle-de-Vihiers|47.156|-0.637|FR|Pays de la Loire|60
+LaScie|49.950|-55.598|CA|Newfoundland and Labrador|60
+Lassnitz|46.831|15.241|AT|Styria|60
+La Soledad|15.578|-92.486|MX|Chiapas|60
+Las Haldas|19.631|-96.826|MX|Veracruz|60
+La Salitrera|17.719|-101.604|MX|Guerrero|59
+Las Conchas|16.663|-94.715|MX|Oaxaca|59
+Las Minas|16.804|-99.540|MX|Guerrero|59
+Las Palmas|-6.527|-76.343|PE|San Martín Department|59
+Las Colonias|19.912|-101.719|MX|Michoacán|59
+Las Lomas|21.635|-98.697|MX|San Luis Potosí|59
+La Soledad Ejido|20.087|-99.854|MX|México|59
+Las Palmeras|14.867|-92.276|MX|Chiapas|59
+La Soledad|24.761|-104.926|MX|Durango|59
+La Sauvagère|48.623|-0.416|FR|Normandy|59
+La Santa|29.107|-13.668|ES|Canary Islands|59
+La Sábila|26.765|-109.625|MX|Sonora|59
+Las Limas|18.482|-96.725|MX|Veracruz|59
+La Selle-Craonnaise|47.843|-1.043|FR|Pays de la Loire|59
+La Soledad|16.731|-98.402|MX|Guerrero|59
+La Soledad de Santa Ana|20.271|-101.482|MX|Michoacán|59
+Laslovo|45.415|18.696|HR|County of Osijek-Baranja|59
+La Salud|19.597|-100.283|MX|Michoacán|59
 Las Minas|7.799|-80.746|PA|Herrera Province|59
+Las Mercedes|25.839|-103.297|MX|Coahuila|59
+Las Juntas (La Floreña)|19.055|-104.224|MX|Colima|59
+Las Colonias (Colonia Juárez)|22.557|-101.792|MX|San Luis Potosí|59
+Las Piedras|23.802|-103.063|MX|Zacatecas|59
+Las Alvareñas|28.125|-105.339|MX|Chihuahua|59
+Laßnitzthal|47.085|15.647|AT|Styria|59
 La Salle|45.745|7.073|IT|Aosta Valley|59
+Las Canteras|-6.719|-79.598|PE|Lambayeque|58
+Las Minas|18.892|-98.932|MX|Morelos|58
+Las Lagunillas|19.716|-104.289|MX|Jalisco|58
+Las Trojes|21.555|-101.407|MX|Guanajuato|58
+Las Américas|25.586|-108.310|MX|Sinaloa|58
+Las Adjuntas|21.061|-100.414|MX|Guanajuato|58
+Las Puentes|28.292|-105.453|MX|Chihuahua|58
+Las Juntas|18.186|-100.376|MX|Guerrero|58
+Las Trancas|24.715|-107.742|MX|Sinaloa|58
+La Selle-sur-le-Bied|48.064|2.897|FR|Centre-Val de Loire|58
 Las Cruces|7.827|-80.430|PA|Los Santos Province|58
+Las Matas|8.306|-81.866|PA|Chiriquí Province|58
 Las Palmitas|7.767|-80.290|PA|Los Santos Province|58
+La Soledad|19.421|-100.490|MX|Michoacán|58
+Las Puentes|20.046|-98.185|MX|Hidalgo|58
+Las Tapias|14.067|-87.282|HN|Francisco Morazán Department|58
+Las Vueltas|18.903|-99.856|MX|México|58
+La Soledad|17.867|-95.876|MX|Oaxaca|58
+Las Cenizas|20.606|-100.074|MX|Querétaro|58
+Las Plazas|19.814|-99.034|MX|México|58
+La Sila|39.250|16.500|IT|Calabria|58|f
+La Solfatara|40.828|14.139|IT|Campania|58|f
+Las Aguilas Mountains|36.743|-121.003|US|California|58|f
+Las Heras Airport|-46.538|-68.965|AR|Santa Cruz|58|f
+Las Lomas|35.797|-119.916|US|California|58|f
+Las Malvinas/Echarate Airport|-11.855|-72.940|PE|Cuzco Department|58|f
+Las Palmas Glacier|-62.684|-60.404|AQ||58|f
+Las Trampas Peak|37.833|-122.065|US|California|58|f
+Las Puertas|19.043|-96.207|MX|Veracruz|58
+Las Cruces|18.247|-100.773|MX|Guerrero|58
+Las Playitas|26.986|-109.615|MX|Sonora|58
+Las Cruces|20.099|-100.977|MX|Guanajuato|58
+Las Joyas (El Poblado)|19.206|-101.432|MX|Michoacán|58
+Lasbordes|43.295|2.046|FR|Occitanie|58
+Las Cañas|21.056|-100.727|MX|Guanajuato|58
+L'Asile|18.384|-73.414|HT|Nippes|58
+Las Peñas|16.633|-99.059|MX|Guerrero|58
 Las Pirias|-5.627|-78.853|PE|Cajamarca Department|58
+Las Jícamas|20.063|-100.843|MX|Guanajuato|58
+Las Raíces|20.356|-101.433|MX|Guanajuato|58
+Las Anonitas|18.207|-100.573|MX|Guerrero|58
+Las Delicias|19.837|-97.447|MX|Puebla|58
+Las Arenas (San Agustín)|19.991|-99.729|MX|México|58
+Las Cuevas|21.364|-98.875|MX|San Luis Potosí|58
+Lashkuta|43.550|43.200|RU|Kabardino-Balkariya Republic|58
+Las Mesas|19.660|-101.081|MX|Michoacán|58
+Lasowice Wielkie|50.870|18.227|PL|Opole Voivodeship|58
+La Savina|38.731|1.418|ES|Balearic Islands|58
+Lăstuni|45.027|28.697|RO|Tulcea County|58
+Las Cruces|21.228|-101.858|MX|Jalisco|58
+Las Grutas|19.649|-100.495|MX|Michoacán|58
+Lashgarak|36.774|50.899|IR|Māzandarān|58
+Las Paredes|19.772|-104.247|MX|Jalisco|58
+Las Mercedes Esperanza|17.113|-92.555|MX|Chiapas|58
+La Soledad|20.226|-102.210|MX|Michoacán|58
+Las Herencias|39.869|-4.922|ES|Castille-La Mancha|57
+Las Fincas|20.498|-86.916|MX|Quintana Roo|57
+Las Peñitas|18.139|-96.139|MX|Veracruz|57
+Las Parritas|25.619|-108.623|MX|Sinaloa|57
+Las Jarillas|19.141|-99.660|MX|México|57
+Las Yaguas|18.323|-96.227|MX|Veracruz|57
+Las Tres Gotas de Agua|24.421|-107.329|MX|Sinaloa|57
+La Selve|44.112|2.535|FR|Occitanie|57
+Las Vigas|16.677|-98.456|MX|Guerrero|57
+Lasserre|43.639|1.169|FR|Occitanie|57
+Las Moras|22.266|-101.080|MX|San Luis Potosí|57
+Las Yerbas|21.330|-100.919|MX|Guanajuato|57
+Las Cruces de Cacahuatepec|16.847|-99.616|MX|Guerrero|57
+Las Yeguas|18.906|-102.277|MX|Michoacán|57
+Las Piedritas|24.412|-107.367|MX|Sinaloa|57
+Las Negritas|21.988|-101.879|MX|Aguascalientes|57
+Las Golondrinas|17.888|-90.813|MX|Campeche|57
+Las Pimientas|16.950|-93.458|MX|Chiapas|57
+La Sauceda|24.523|-104.750|MX|Durango|57
+Las Palmas|20.562|-102.484|MX|Jalisco|57
+La Selva Natividad|16.758|-92.689|MX|Chiapas|57
+Las Delicias|15.634|-92.502|MX|Chiapas|57
+Las Josefinas|18.493|-96.693|MX|Veracruz|57
+Las Limas|17.097|-92.699|MX|Chiapas|57
+Las Delicias|8.541|-80.366|PA|Coclé|57
+Las Pilas|22.034|-105.163|MX|Nayarit|57
+Lastaíika|37.693|21.407|GR|West Greece|57
 Lasino|46.024|10.984|IT|Trentino-Alto Adige|57
+Las Cruces|21.259|-97.950|MX|Veracruz|57
+Las Truchas|19.786|-97.085|MX|Veracruz|57
+Las Trojes|20.334|-103.329|MX|Jalisco|57
+Las Labores|39.275|-3.519|ES|Castille-La Mancha|57
+Las Palomas|25.372|-103.336|MX|Coahuila|57
+Las Ánimas|16.623|-96.032|MX|Oaxaca|57
+Las Pilas|21.158|-98.404|MX|Veracruz|57
+Las Fincas|19.174|-100.258|MX|México|56
+La Sirena|15.971|-96.653|MX|Oaxaca|56
+Las Ánimas|17.915|-94.569|MX|Veracruz|56
+Las Coloradas 2da. Sección (Ampliación las Aldeas)|18.329|-93.550|MX|Tabasco|56
+Las Moras|21.074|-100.163|MX|Guanajuato|56
+La Santa Cruz|21.171|-101.629|MX|Guanajuato|56
+Las Parras|26.839|-109.717|MX|Sonora|56
+Las Guapas|21.927|-99.460|MX|San Luis Potosí|56
+La Selle-en-Hermoy|48.012|2.895|FR|Centre-Val de Loire|56
+Las Cañitas|16.785|-92.910|MX|Chiapas|56
+Las Zarquillas|20.045|-102.524|MX|Michoacán|56
+Las Tinajas|18.358|-100.708|MX|Guerrero|56
+Las Crucecitas|25.581|-108.438|MX|Sinaloa|56
+Las Trancas|17.706|-99.225|MX|Guerrero|56
+Las Palmas|16.139|-97.049|MX|Oaxaca|56
+Las Palmas|18.932|-97.509|MX|Puebla|56
+Las Trojes|19.884|-101.056|MX|Michoacán|56
+Las Coloradas|21.098|-101.502|MX|Guanajuato|56
+Las Cruces|19.094|-99.605|MX|México|56
+Las Palomas (Bajo Paloma)|18.147|-94.901|MX|Veracruz|56
+Las Piedras|21.202|-105.092|MX|Nayarit|56
+La Sône|45.111|5.278|FR|Auvergne-Rhône-Alpes|56
+Las Canoas|19.808|-101.873|MX|Michoacán|56
+Las Moras|21.284|-98.946|MX|Hidalgo|56
+Las Cruces|21.023|-103.113|MX|Jalisco|56
+Las Tinajas|19.668|-99.250|MX|México|56
+La Salada|23.448|-102.880|MX|Zacatecas|56
+Las Jaulas|22.017|-102.307|MX|Aguascalientes|56
+Las Flores Cinco Poblados|20.933|-97.780|MX|Veracruz|56
+Las Mesas San Gabriel (Las Mesas)|21.392|-98.370|MX|Veracruz|56
+Las Piedras|25.502|-103.580|MX|Durango|56
+Las Compuertas|23.282|-98.860|MX|Tamaulipas|56
+Las Mesas|21.527|-98.854|MX|San Luis Potosí|56
+Las Flores de Mamonaquihua|-6.663|-76.466|PE|San Martín Department|56
+Las Guabas|8.388|-80.448|PA|Coclé|56
+Las Mesas|17.514|-101.056|MX|Guerrero|56
+Las Palomas (Lajillas)|23.546|-100.181|MX|Nuevo León|56
+Las Delicias|19.071|-98.779|MX|México|56
+Las Tortugas (Emiliano Zapata)|20.140|-101.414|MX|Michoacán|56
+Las Hoyas Altas|19.233|-101.421|MX|Michoacán|56
+La Sierra|16.713|-92.543|MX|Chiapas|56
+Las Cuevas|15.805|-96.609|MX|Oaxaca|56
+Lassinkro|7.701|-5.303|CI|Vallée du Bandama District|56
+La Sabana|17.196|-97.960|MX|Oaxaca|56
+La Soledad|24.083|-99.079|MX|Tamaulipas|56
+Las Mercedes|25.039|-103.848|MX|Durango|56
+Las Carolinas|17.328|-94.436|MX|Veracruz|56
+Las Cruces|15.281|-92.732|MX|Chiapas|56
+Las Ánimas|16.658|-99.201|MX|Guerrero|56
+Las Higueras|23.053|-105.956|MX|Sinaloa|56
+La Soledad|21.392|-98.724|MX|San Luis Potosí|56
+Las Placetas|21.034|-98.014|MX|Veracruz|56
+Las Mesas Huitzizilapan|19.424|-99.448|MX|México|56
+Las Paredes|19.793|-96.838|MX|Veracruz|56
 Lassolaz|45.739|7.589|IT|Aosta Valley|56
+La Soledad|17.548|-98.614|MX|Guerrero|55
+Las Juntas de Chamicari|25.683|-108.423|MX|Sinaloa|55
 Las Yaras|-17.864|-70.561|PE|Tacna|55
+Las Canoas|19.815|-97.446|MX|Puebla|55
+Las Juntas y los Veranos|20.480|-105.295|MX|Jalisco|55
+Las Tablas|19.501|-101.443|MX|Michoacán|55
+Lascov|49.157|21.476|SK|Prešov Region|55
+Las Tuzas|20.991|-100.293|MX|Guanajuato|55
+Las Güeras|21.719|-102.110|MX|Jalisco|55
+La Soledad Piedra Ancha|18.045|-96.704|MX|Oaxaca|55
+La Soledad|19.923|-99.906|MX|México|55
+Las Lomas|19.623|-96.911|MX|Veracruz|55
+Las Mesas|18.197|-95.722|MX|Veracruz|55
+Las Lajas Primera Sección|20.008|-98.090|MX|Puebla|55
+Laškov|49.584|17.002|CZ|Olomouc Region|55
+Las Barreras|8.105|-80.997|PA|Veraguas Province|55
+Las Ollas Abajo|8.842|-79.905|PA|Panamá Oeste Province|55
+Las Badeas|21.740|-98.411|MX|Veracruz|55
+Las Moras|15.559|-92.429|MX|Chiapas|55
+Las Vinatas|17.860|-99.851|MX|Guerrero|55
+Las Puentes|19.041|-101.652|MX|Michoacán|55
+Las Playas (La Palma)|25.396|-108.423|MX|Sinaloa|55
+Lăschia|47.543|23.732|RO|Maramureş|55
+La Soledad|20.547|-101.322|MX|Guanajuato|55
+Las Fuentes|20.159|-102.219|MX|Michoacán|55
+Las Pilas|15.796|-96.678|MX|Oaxaca|55
+Las Cruces|15.544|-92.330|MX|Chiapas|55
+La Sabanilla (Campo Preciado)|25.557|-108.511|MX|Sinaloa|55
+La Salvetat-Belmontet|43.964|1.533|FR|Occitanie|55
+Las Guayabas|26.898|-109.689|MX|Sonora|55
+La Sauceda de la Luz|21.613|-101.190|MX|Guanajuato|55
+La Saunière|46.131|1.937|FR|New Aquitaine|55
+Las Huacas|-13.490|-76.113|PE|Ica|55
+Lasowice Małe|50.905|18.255|PL|Opole Voivodeship|55
+Las Isabeles|25.497|-103.558|MX|Durango|55
+Las Milpas|26.797|-109.771|MX|Sonora|55
+Las Anonas|19.486|-100.505|MX|Michoacán|55
+La Soledad|19.359|-97.690|MX|Tlaxcala|55
+Las Norias (Norias)|24.297|-102.699|MX|Zacatecas|55
 Las Minas|8.642|-80.400|PA|Coclé|55
+Las Puentes|21.049|-98.000|MX|Veracruz|55
+Las Águilas|18.036|-94.390|MX|Veracruz|55
+Las Higueras|21.819|-104.521|MX|Nayarit|55
+Las Magdalenas|21.843|-99.957|MX|San Luis Potosí|55
+Las Mónicas|-4.930|-80.285|PE|Piura|55
+Las Crucitas|18.900|-102.234|MX|Michoacán|55
 Lasinja|45.528|15.859|HR|Karlovac|55
+Las Estacas|19.911|-102.535|MX|Michoacán|55
+Las Gallinas|20.751|-100.710|MX|Guanajuato|55
 Lases|46.146|11.219|IT|Trentino-Alto Adige|55
+Las Tablas Abajo|7.794|-80.253|PA|Los Santos Province|55
+Las Pilas de Puruagua|20.036|-100.432|MX|Guanajuato|55
+La Sabinada|15.692|-92.153|MX|Chiapas|55
+La Selva|20.567|-98.506|MX|Veracruz|55
+Las Cruces|20.532|-101.574|MX|Guanajuato|55
+Las Peñas|16.997|-96.027|MX|Oaxaca|55
+Las Pilas|15.456|-92.258|MX|Chiapas|54
+Las Tenerías (Las Tenerías de Tepetongo)|19.905|-100.124|MX|Michoacán|54
+Las Liebres|20.629|-101.124|MX|Guanajuato|54
+Las Flores|20.049|-98.763|MX|Hidalgo|54
+Las Colonias (Colonia Ángel Flores)|25.407|-108.358|MX|Sinaloa|54
+Las Salinas|-12.544|-76.723|PE|Lima region|54
+La Selva Biological Station and Reserve|10.422|-84.015|CR|Heredia Province|54|f
+Las Brujas Airport|-31.786|-71.016|CL|Coquimbo Region|54|f
+Las Cabras|27.767|-108.400|MX|Chihuahua|54|f
+Las Flores Airport|-36.066|-59.104|AR|Buenos Aires|54|f
+Las Tetas de María Guevara|10.957|-64.121|VE|Nueva Esparta|54|f
+Las Vegas Bay|36.117|-114.851|US|Nevada|54|f
+Lasham Airport|51.187|-1.034|GB|England|54|f
+Lashio Airport|22.978|97.752|MM|Shan State|54|f
+Lassul Bay|-4.209|151.724|PG|East New Britain Province|54|f
+La Soledad|16.423|-96.622|MX|Oaxaca|54
+La Sarna|20.388|-101.968|MX|Guanajuato|54
+Las Guásimas (Las Borregas)|19.116|-103.725|MX|Colima|54
+La Sonadora|8.553|-80.329|PA|Coclé|54
+Las Jacarandas|18.003|-94.610|MX|Veracruz|54
+La Serra|43.645|10.814|IT|Tuscany|54
+Las Delicias|24.897|-100.644|MX|Nuevo León|54
+Las Estacas|26.264|-108.763|MX|Sinaloa|54
+Las Juntas del Tanque|19.173|-100.660|MX|Michoacán|54
+Las Palomas|19.823|-100.570|MX|Michoacán|54
+Las Adjuntas|21.960|-100.056|MX|San Luis Potosí|54
+Las Canoas|20.595|-98.350|MX|Veracruz|54
+Las Lajas|20.106|-99.751|MX|México|54
+La Selle-en-Luitré|48.311|-1.128|FR|Brittany|54
+La Soledad|16.676|-92.519|MX|Chiapas|54
+Las Balsas|20.703|-97.784|MX|Puebla|54
+Las Salvias|15.453|-92.306|MX|Chiapas|54
+Lásenice|49.074|14.970|CZ|South Bohemian Region|54
+Las Caldas|43.333|-5.921|ES|Asturias|54
 Las Uvas|8.461|-79.996|PA|Panamá Oeste Province|54
 Lastras de Cuéllar|41.298|-4.107|ES|Castille and León|53
 Lasnigo|45.882|9.266|IT|Lombardy|53
 Las Huacas del Quije|8.467|-80.751|PA|Coclé|53
 Las Guías Abajo|8.198|-80.757|PA|Veraguas Province|52
+Lasel|50.117|6.467|DE|Rheinland-Pfalz|51
 Lastovo|42.768|16.897|HR|Dubrovnik-Neretva|50
+La Savane|14.603|-61.068|MQ||49|f
+Las Alturas|35.934|-119.985|US|California|49|f
+Las Hurdes|40.323|-6.257|ES|Extremadura|49|f
+Las Vegas Stadium|36.091|-115.184|US|Nevada|49|f
+Laseron Islands|-66.983|142.800|AQ||49|f
+Lashly Glacier|-77.917|159.800|AQ||49|f
+Lashly Mountains|-77.900|159.550|AQ||49|f
+Lashmar Conservation Park|-35.780|138.063|AU|South Australia|49|f
+Lassus Mountains|-69.564|-71.520|AQ||49|f
+Last Chance Range|36.909|-117.598|US|California|49|f
+Last Chance Range|36.317|-116.090|US|Nevada|49|f
 Laspaúles|42.471|0.597|ES|Aragon|49
 Laspuña|42.504|0.154|ES|Aragon|49
 Las Minas|19.691|-97.146|MX|Veracruz|47
@@ -319,8 +624,25 @@ Las Guabas|7.911|-80.805|PA|Herrera Province|44
 Las Trancas|7.736|-80.373|PA|Los Santos Province|44
 Lascuarre|42.196|0.520|ES|Aragon|43
 Lastebasse|45.915|11.274|IT|Veneto|43
+La Sâle|46.024|7.372|CH|Valais|40|f
+La Salle University Art Museum|40.038|-75.154|US|Pennsylvania|40|f
+La Serpentine|45.977|7.427|CH|Valais|40|f
+La Seu Vella|41.618|0.627|ES|Catalonia|40|f
+La Singla|45.946|7.472|IT|Aosta Valley|40|f
+La Spedla|46.381|9.907|IT|Lombardy|40|f
+Las Bambas Copper Mine|-14.099|-72.320|PE|Apurímac Department|40|f
+Las Cienegas National Conservation Area|31.766|-110.606|US|Arizona|40|f
+Las Colinas|35.804|-119.940|US|California|40|f
+Las Habras Lake|-12.760|-65.104|BO|Beni Department|40|f
+Las Vegas National Wildlife Refuge|35.533|-105.169|US|New Mexico|40|f
+Las Vegas Natural History Museum|36.180|-115.134|US|Nevada|40|f
+Laseinie Islands|-10.399|151.427|PG|Milne Bay Province|40|f
+Lasqueti Island|49.485|-124.290|CA|British Columbia|40|f
+Last Chance Mining Museum|58.306|-134.384|US|Alaska|40|f
+Last Mountain Lake|51.083|-105.234|CA|Saskatchewan|40|f
 Las Sabanas|8.583|-80.680|PA|Coclé|39
 Lastras del Pozo|40.879|-4.347|ES|Castille and León|39
+Lascheid|50.117|6.417|DE|Rheinland-Pfalz|37
 Las Marias|8.890|-80.220|PA|Coclé|37
 Las Palmas|7.683|-80.497|PA|Los Santos Province|22
 La Sabana|10.619|-66.382|VE|Vargas|0
@@ -329,6 +651,8 @@ La Salina|6.132|-72.338|CO|Casanare Department|0
 La Soledad|7.879|-81.268|PA|Veraguas Province|0
 La Susaya|-3.677|-79.691|EC|El Oro|0
 Las Cabras|7.877|-80.548|PA|Herrera Province|0
+Las Carreras|-21.250|-65.283|BO|Chuquisaca Department|0
+Las Carreras|-21.208|-65.210|BO|Chuquisaca Department|0
 Las Casitas del Vegon de Nutrias|8.237|-69.418|VE|Barinas|0
 Las Coloradas|-39.556|-70.594|AR|Neuquen|0
 Las Heras|-32.850|-68.841|AR|Mendoza|0
@@ -343,8 +667,13 @@ Las Plumas|-43.722|-67.284|AR|Chubut|0
 Las Zangüengas|8.958|-79.870|PA|Panamá Oeste Province|0
 Lascano|-1.531|-80.230|EC|Manabí|0
 Lasehao|-5.007|122.494|ID|Southeast Sulawesi|0
+Lasem|-6.989|112.507|ID|East Java|0
+Lasengmiao|39.323|106.836|CN|Inner Mongolia|0
 Lāsh|35.378|64.775|AF|Faryab|0
 Lāsh-e Juwayn|31.714|61.623|AF|Farah|0
 Lasho|6.785|37.473|ET|South Ethiopia Regional State|0
+Lasi Dua|-8.302|118.403|ID|West Nusa Tenggara|0
+Lasiana|-10.137|123.669|ID|East Nusa Tenggara|0
+Lasite|47.890|88.110|CN|Xinjiang|0
 Lassing|47.534|14.258|AT|Styria|0
 Lasusua|-3.510|120.884|ID|Southeast Sulawesi|0

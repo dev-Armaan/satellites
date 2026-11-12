@@ -22,11 +22,13 @@ Pilar|14.660|120.565|PH|Central Luzon|85
 Pilisvörösvár|47.614|18.909|HU|Pest County|83
 Pilas|37.303|-6.301|ES|Andalusia|83
 Pilcomayo|-9.047|-77.811|PE|Ancash|82
+Piloto Civil Norberto Fernández International Airport|-51.609|-69.313|AR|Santa Cruz|82|f
 Pilar|-7.267|-35.260|BR|Paraíba|82
 Pillānallūr|11.432|78.133|IN|Tamil Nadu|81
 Pilis|47.289|19.548|HU|Pest County|81
 Pilar|11.487|122.996|PH|Western Visayas|80
 Pilikōdu|12.192|75.164|IN|Kerala|80
+Pilanesberg International Airport|-25.334|27.173|ZA|North West|80|f
 Pilar|12.923|123.672|PH|Bicol Region|79
 Pilcomayo|-12.047|-75.249|PE|Junin|78
 Píllaro|-1.174|-78.551|EC|Tungurahua Province|77
@@ -38,6 +40,7 @@ Pilsting|48.701|12.651|DE|Bavaria|76
 Pilerne|15.534|73.795|IN|Goa|75
 Pilõezinhos|-6.843|-35.530|BR|Paraíba|75
 Pilcaya|18.747|-99.675|MX|Guerrero|74
+Pilot Point Airport|57.580|-157.570|US|Alaska|74|f
 Pilzno|49.979|21.292|PL|Subcarpathia|73
 Pilawa|51.959|21.531|PL|Mazovia|73
 Pilate|19.667|-72.552|HT|Nord|73
@@ -45,6 +48,7 @@ Pilisszentiván|47.610|18.899|HU|Pest County|73
 Pi La Khat|16.462|96.265|MM|Yangon|72
 Pilot Point|33.397|-96.961|US|Texas|72
 Pildești|46.997|26.826|RO|Neamț County|72
+Pilot Knob|32.731|-114.750|US|California|71|f
 Pila|-36.004|-58.141|AR|Buenos Aires|71
 Pili|13.066|121.520|PH|Mimaropa|71
 Pilsley|53.150|-1.367|GB|England|70
@@ -69,6 +73,9 @@ Pilu|46.567|21.350|RO|Arad County|66
 Pila|43.053|12.329|IT|Umbria|65
 Pilot Rock|45.483|-118.830|US|Oregon|64
 Piletas|19.588|-96.979|MX|Veracruz|63
+Pila Island|-67.583|62.717|AQ||63|f
+Piliaieve|-7.225|177.163|TV|Nui|63|f
+Pilot Range|41.093|-114.035|US|Utah|63|f
 Pilcaniyeu|-41.123|-70.722|AR|Rio Negro|63
 Pilning|51.563|-2.643|GB|England|63
 Pilot Mountain|36.387|-80.469|US|North Carolina|63
@@ -81,16 +88,91 @@ Pilníkov|50.532|15.820|CZ|Hradec Králové Region|62
 Piltown|52.353|-7.340|IE|Leinster|61
 Pill|47.324|11.680|AT|Tyrol|61
 Pillichsdorf|48.350|16.533|AT|Lower Austria|61
+Pileni|-10.173|166.247|SB||61|f
+Pilot Mountains|38.348|-117.982|US|Nevada|61|f
 Pilastro|44.683|10.289|IT|Emilia-Romagna|61
+Pilcaya (San Juan Pilcaya)|18.237|-98.707|MX|Puebla|60
+Pilsrundāle|56.425|23.987|LV|Bauska Municipality|59
+Pilão Cão|15.197|-23.632|CV|São Miguel|59
+Piltene|57.224|21.674|LV|Ventspils Municipality|58
+Pilar de Zaragoza|23.924|-104.605|MX|Durango|58
+Pilatovica|43.131|20.968|RS|Central Serbia|58|f
+Pillsbury Tower|-73.517|-94.333|AQ||58|f
 Pilcuyo|-16.110|-69.554|PE|Puno|58
+Pilzone|45.674|10.081|IT|Lombardy|58
+Pilot Grove|38.875|-92.912|US|Missouri|58
+Pilszcz|49.999|17.918|PL|Opole Voivodeship|58
+Pilastri|44.947|11.288|IT|Emilia-Romagna|57
+Pilot Knob|37.621|-90.640|US|Missouri|57
+Pilalchén|16.841|-92.685|MX|Chiapas|57
+Pilcaniyeu Viejo|-41.022|-70.615|AR|Rio Negro|57
+Pilchiatipa|21.034|-98.470|MX|Hidalgo|57
+Pilchowice|50.979|15.638|PL|Lower Silesia|57
 Pilpichaca|-13.330|-74.977|PE|Huancavelica|57
+Pilastrello|44.732|10.374|IT|Emilia-Romagna|56
+Pilton|51.165|-2.587|GB|England|56
+Pilot Station|61.939|-162.875|US|Alaska|56
+Pilcante|45.771|11.001|IT|Trentino-Alto Adige|56
+Pilateno|21.332|-98.969|MX|San Luis Potosí|55
 Pilgersdorf|47.441|16.349|AT|Burgenland|55
+Pilcuatla|20.951|-98.550|MX|Hidalgo|55
 Pillpinto|-13.953|-71.762|PE|Cuzco Department|55
+Pila|50.180|12.926|CZ|Carlsbad Region|55
+Piła Kościelecka|50.132|19.463|PL|Lesser Poland|55
+Pilpuerta|20.781|-98.119|MX|Veracruz|55
+Pilgerhof|47.266|8.867|CH|Zurich|55
+Pila Huittu|-17.583|-65.517|BO|Cochabamba|54|f
+Pilanesberg|-25.177|27.060|ZA|North West|54|f
+Pilanesberg|-25.167|27.050|ZA|North West|54|f
+Pilcher Peak|-64.309|-60.822|AQ||54|f
+Pilgrim N709Y|61.179|-149.973|US|Alaska|54|f
+Pillsbury State Park|43.231|-72.100|US|New Hampshire|54|f
+Pilone|46.218|8.532|CH|Ticino|54|f
+Pilot Island|45.285|-86.920|US|Wisconsin|54|f
+Pilot Peak|41.021|-114.078|US|Nevada|54|f
+Pilot Peak|44.977|-109.882|US|Wyoming|54|f
+Pilz Glacier|48.070|-120.972|US|Washington|54|f
+Pillig|50.239|7.312|DE|Rheinland-Pfalz|54
 Pilluana|-6.777|-76.291|PE|San Martín Department|54
 Pilchaca|-12.401|-75.084|PE|Huancavelica|52
+Piła Airport|52.969|17.030|PL|Greater Poland|49|f
+Pilarryggen|-72.700|-3.933|AQ||49|f
+Pilgrim Hall Museum|41.959|-70.668|US|Massachusetts|49|f
+Pilis|47.683|18.883|HU|Pest County|49|f
+Pillar Bluff|-51.931|-61.095|FK||49|f
+Pilot Glacier|-73.383|165.050|AQ||49|f
+Pilot Knob|37.274|-118.757|US|California|49|f
+Pilot Knob|37.812|-107.829|US|Colorado|49|f
+Pilot Station Airport|61.963|-162.935|US|Alaska|49|f
+Pilsensee|48.024|11.189|DE|Bavaria|49|f
+Pilanesberg Game Reserve|-25.261|27.100|ZA|North West|40|f
+Pilektuak Island|68.333|-66.489|CA|Nunavut|40|f
+Pilgrim's Progress Road Bridge|41.940|-73.880|US|New York|40|f
+Piling Bay|68.884|-74.781|CA|Nunavut|40|f
+Pillar|54.497|-3.281|GB|England|40|f
+Pillar Point|43.969|-76.200|US|New York|40|f
+Pilon Peak|-71.233|164.950|AQ||40|f
+Pilot Bay|49.639|-116.873|CA|British Columbia|40|f
+Pilot Butte|44.061|-121.283|US|Oregon|40|f
+Pilot Butte Airport|44.045|-121.277|US|Oregon|40|f
+Pilot Hill|41.453|-70.639|US|Massachusetts|40|f
+Pilot Hill|38.818|-121.030|US|California|40|f
+Pilot Lake|60.284|-111.001|CA|Northwest Territories|40|f
+Pilot Mountain|51.188|-115.815|CA|Alberta|40|f
+Pilot Mountain|54.050|-122.886|CA|British Columbia|40|f
+Pilot Mountain State Park|36.340|-80.479|US|North Carolina|40|f
+Pilot Peak|37.437|-119.702|US|California|40|f
+Pilot Peak|61.347|-146.902|US|Alaska|40|f
+Pilot Rock|36.818|-84.569|US|Kentucky|40|f
+Pilsbury Castle Hills|53.171|-1.831|GB|England|40|f
+Pilsko|49.529|19.318|PL||40|f
 Pila|45.770|8.081|IT|Piedmont|34
+Pilang|-7.201|111.393|ID|Central Java|0
+Pilang|-6.988|112.342|ID|East Java|0
 Pilar|17.416|120.595|PH|Cordillera|0
 Pilar|10.806|124.566|PH|Central Visayas|0
+Pilaya|-20.950|-64.750|BO|Chuquisaca Department|0
+Pili|-9.777|124.506|ID|East Nusa Tenggara|0
 Pili|13.550|123.278|PH|Bicol Region|0
 Pillaton|50.450|-4.300|GB|England|0
 Pillcopata|-13.067|-71.167|PE|Cuzco Department|0

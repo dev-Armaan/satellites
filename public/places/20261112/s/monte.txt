@@ -49,6 +49,7 @@ Monte Azul Paulista|-20.907|-48.641|BR|São Paulo|85
 Montecatini-Terme|43.882|10.772|IT|Tuscany|85
 Montemurlo|43.927|11.037|IT|Tuscany|85
 Montereau-Fault-Yonne|48.383|2.950|FR|Île-de-France|85
+Monterey Bay|36.800|-121.901|US|California|84|f
 Monte-Carlo|43.740|7.427|MC|Municipality of Monaco|84
 Monte Negro|-10.294|-63.325|BR|Rondônia|84
 Monte Plata|18.807|-69.784|DO|Monte Plata Province|84
@@ -58,10 +59,12 @@ Monte Alegre de Sergipe|-10.027|-37.562|BR|Sergipe|83
 Monte Patria|-30.695|-70.958|CL|Coquimbo Region|83
 Montecristo|8.297|-74.473|CO|Bolívar|83
 Montecristo|-31.341|-63.945|AR|Cordoba|83
+Monte Titano|43.931|12.452|SM||82|f
 Monteroni di Lecce|40.319|18.092|IT|Apulia|82
 Monte Belo|-21.326|-46.367|BR|Minas Gerais|82
 Monte di Procida|40.798|14.050|IT|Campania|82
 Montemor-o-Novo|38.648|-8.215|PT|Évora|82
+Monte Albán|17.044|-96.768|MX|Oaxaca|82|f
 Monte Sant'Angelo|41.705|15.961|IT|Apulia|82
 Monte Argentario|42.435|11.120|IT|Tuscany|82
 Montegranaro|43.231|13.630|IT|The Marches|81
@@ -83,14 +86,20 @@ Montes Claros de Goiás|-16.008|-51.397|BR|Goiás|79
 Monte Alegre do Sul|-22.682|-46.681|BR|São Paulo|79
 Montecchio Emilia|44.699|10.452|IT|Emilia-Romagna|79
 Monteagudo|-19.800|-63.956|BO|Chuquisaca Department|78
+Monte Zoncolan|46.500|12.917|IT|Friuli Venezia Giulia|78|f
 Montecorvino Rovella|40.692|14.979|IT|Campania|78
 Monte Hermoso|-38.983|-61.295|AR|Buenos Aires|78
 Montecorvino Pugliano|40.679|14.945|IT|Campania|78
 Monte Castelo|-26.462|-50.231|BR|Santa Catarina|78
+Monte Perdido|42.675|0.034|ES|Aragon|78|f
 Montecillo|19.457|-98.907|MX|México|77
 Monteirópolis|-9.603|-37.248|BR|Alagoas|77
 Montella|40.844|15.018|IT|Campania|77
 Montézo|5.486|-3.740|CI|Lagunes District|77
+Monte Cinto|42.380|8.945|FR|Corsica|77|f
+Monte Dourado Airport|-0.890|-52.602|BR|Pará|77|f
+Monte Leone|46.249|8.110|CH|Valais|77|f
+Monte San Giorgio|45.914|8.950|CH|Ticino|77|f
 Monte Maíz|-33.204|-62.601|AR|Cordoba|77
 Monte Blanco|18.966|-97.017|MX|Veracruz|77
 Montezuma|-15.172|-42.497|BR|Minas Gerais|77
@@ -102,9 +111,13 @@ Montevallo|33.101|-86.864|US|Alabama|76
 Monte Alegre|-5.890|-36.301|BR|Rio Grande do Norte|76
 Montefrío|37.323|-4.009|ES|Andalusia|76
 Monte Urano|43.190|13.662|IT|The Marches|76
+Monte Civetta|46.380|12.053|IT|Veneto|76|f
+Monte Roraima|5.195|-60.737|VE|Bolívar|76|f
 Monte San Giusto|43.236|13.593|IT|The Marches|76
 Monte Israel|-3.884|-71.442|PE|Loreto|76
 Monte Compatri|41.809|12.738|IT|Lazio|75
+Monte Disgrazia|46.269|9.750|IT|Lombardy|75|f
+Monte Musinè|45.114|7.455|IT|Piedmont|75|f
 Monte Real|39.852|-8.863|PT|Leiria|75
 Monte do Carmo|-10.763|-48.109|BR|Tocantins|75
 Montehermoso|40.088|-6.350|ES|Extremadura|75
@@ -112,11 +125,14 @@ Monte Kristal|25.626|-100.157|MX|Nuevo León|75
 Montenero di Bisaccia|41.964|14.781|IT|Molise|75
 Monte Buey|-32.916|-62.456|AR|Cordoba|75
 Monteiasi|40.500|17.383|IT|Apulia|75
+Monte Rosa|45.937|7.867|IT|Piedmont|74|f
+Monte Tamaro|46.104|8.866|CH|Ticino|74|f
 Monteforte d'Alpone|45.420|11.284|IT|Veneto|74
 Montevideo|44.948|-95.717|US|Minnesota|74
 Montebello Vicentino|45.459|11.383|IT|Veneto|74
 Monteroni d'Arbia|43.230|11.422|IT|Tuscany|74
 Montelepre|38.090|13.175|IT|Sicily|74
+Monte Pissis|-27.759|-68.799|AR|La Rioja|73|f
 Montebello|41.136|-74.118|US|New York|73
 Monte Redondo|39.899|-8.832|PT|Leiria|73
 Monte Formoso|-16.867|-41.255|BR|Minas Gerais|73
@@ -126,6 +142,10 @@ Monte Gordo|37.182|-7.452|PT|Faro|73
 Monterroso|42.792|-7.834|ES|Galicia|73
 Monte Castelo|-21.299|-51.569|BR|São Paulo|73
 Montespertoli|43.643|11.073|IT|Tuscany|72
+Monte Amiata|42.888|11.624|IT|Tuscany|72|f
+Monte Boglia|46.030|9.008|CH|Ticino|72|f
+Monte Terminillo|42.473|12.997|IT|Lazio|72|f
+Montecristo|42.332|10.309|IT|Tuscany|72|f
 Monteiro Lobato|-22.957|-45.840|BR|São Paulo|72
 Monte Verde|-22.864|-46.035|BR|Minas Gerais|72
 Montecavolo|44.633|10.543|IT|Emilia-Romagna|72
@@ -136,6 +156,10 @@ Montesano|46.981|-123.603|US|Washington|72
 Montenegro|20.763|-100.429|MX|Querétaro|72
 Montelibretti|42.136|12.739|IT|Lazio|72
 Montech|43.957|1.230|FR|Occitanie|71
+Monte del Forno|46.338|9.725|IT||71|f
+Monte Lema|46.041|8.833|CH|Ticino|71|f
+Monte Penna|44.481|9.493|IT|Liguria|71|f
+Montelimar Airport|11.806|-86.511|NI|Managua Department|71|f
 Monte Comán|-34.593|-67.876|AR|Mendoza|71
 Monte Sereno|37.236|-121.992|US|California|71
 Montemaggiore Belsito|37.848|13.762|IT|Sicily|71
@@ -151,6 +175,11 @@ Montélier|44.934|5.031|FR|Auvergne-Rhône-Alpes|70
 Monte Alegre dos Campos|-28.683|-50.783|BR|Rio Grande do Sul|70
 Montecalvoli|43.686|10.665|IT|Tuscany|70
 Montecelio|42.021|12.744|IT|Lazio|70
+Monte Bo|45.714|7.999|IT|Piedmont|70|f
+Monte Bondone|45.988|11.031|IT|Trentino-Alto Adige|70|f
+Monte Galero|44.156|8.015|IT|Liguria|70|f
+Monte Saccarello|44.061|7.712|FR||70|f
+Montelbaanstoren|52.372|4.906|NL|North Holland|70|f
 Montello|45.672|9.806|IT|Lombardy|70
 Montemor-o-Velho|40.173|-8.686|PT|Coimbra|70
 Montevago|37.702|12.986|IT|Sicily|70
@@ -158,6 +187,12 @@ Monterosso Almo|37.089|14.765|IT|Sicily|69
 Monterey|36.148|-85.268|US|Tennessee|69
 Montepaone Lido|38.730|16.542|IT|Calabria|69
 Monterrubio de la Serena|38.589|-5.446|ES|Extremadura|69
+Monte Caplone|45.802|10.641|IT|Lombardy|69|f
+Monte Cusna|44.289|10.390|IT|Emilia-Romagna|69|f
+Monte Mars|45.633|7.915|IT|Piedmont|69|f
+Monte Torena|46.089|10.102|IT|Lombardy|69|f
+Monte Zucchero|46.354|8.714|CH|Ticino|69|f
+Monterey Bay Academy Airport|36.907|-121.845|US|California|69|f
 Montesquieu-Volvestre|43.208|1.230|FR|Occitanie|68
 Montegiorgio|43.130|13.539|IT|The Marches|68
 Monte Belo do Sul|-29.163|-51.633|BR|Rio Grande do Sul|68
@@ -174,6 +209,15 @@ Montefano|43.410|13.437|IT|The Marches|67
 Montealegre del Castillo|38.789|-1.327|ES|Castille-La Mancha|67
 Montedecoro|41.028|14.418|IT|Campania|67
 Monteparano|40.443|17.413|IT|Apulia|67
+Monte Binga|-19.777|33.062|MZ|Manica|67|f
+Monte Cimone|44.194|10.700|IT|Emilia-Romagna|67|f
+Monte Legnone|46.095|9.415|IT|Lombardy|67|f
+Monte Maddalena|45.550|10.285|IT|Lombardy|67|f
+Monte Mucrone|45.620|7.945|IT|Piedmont|67|f
+Monte Real Air Base|39.831|-8.887|PT|Leiria|67|f
+Monte Rogoria|46.023|8.821|CH|Ticino|67|f
+Monte Zebrù|46.493|10.548|IT|Trentino-Alto Adige|67|f
+Monte Zerbion|45.788|7.664|IT|Aosta Valley|67|f
 Montecchia di Crosara|45.482|11.254|IT|Veneto|67
 Montelabbate|43.847|12.788|IT|The Marches|67
 Monterrey|15.589|-87.881|HN|Cortés Department|67
@@ -189,6 +233,17 @@ Montelera|45.154|7.443|IT|Piedmont|66
 Monte Romano|42.267|11.897|IT|Lazio|66
 Monte Alto|26.373|-97.972|US|Texas|66
 Montefalcione|40.962|14.883|IT|Campania|65
+Monte Antola|44.574|9.150|IT|Liguria|65|f
+Monte Berlinghera|46.210|9.390|IT|Lombardy|65|f
+Monte Cresto|45.680|7.911|IT|Piedmont|65|f
+Monte Grappa|45.867|11.800|IT|Veneto|65|f
+Monte Lesima|44.680|9.259|IT|Emilia-Romagna|65|f
+Monte Melimoyu|-44.079|-72.868|CL|Aysén|65|f
+Monte Mònega|44.037|7.801|IT|Liguria|65|f
+Monte Morello|43.882|11.231|IT|Tuscany|65|f
+Monte Ribáue|-14.594|37.284|MZ|Nampula|65|f
+Monterey Regional Airport|36.588|-121.839|US|California|65|f
+Montes de Vallivana|40.525|-0.028|ES|Valencia|65|f
 Monte Salas|18.937|-97.018|MX|Veracruz|65
 Montelupone|43.343|13.571|IT|The Marches|65
 Monte Grande|18.087|-67.107|PR|Cabo Rojo|65
@@ -220,6 +275,25 @@ Monte Alegre|19.983|-99.341|MX|Hidalgo|64
 Montefalcone nel Sannio|41.867|14.638|IT|Molise|63
 Montenay|48.289|-0.893|FR|Pays de la Loire|63
 Montenaken|50.721|5.129|BE|Flanders|63
+Monte Albergian|45.007|6.993|IT|Piedmont|63|f
+Monte Carmo|44.615|9.200|IT|Lombardy|63|f
+Monte Cavallino|46.678|12.516|AT||63|f
+Monte Cristo Mountains|38.982|-118.137|US|Nevada|63|f
+Monte Cristo Peak|47.971|-121.341|US|Washington|63|f
+Monte Darwin|-54.753|-69.488|CL|Region of Magallanes|63|f
+Monte delle Figne|44.564|8.835|IT|Piedmont|63|f
+Monte Frerone|45.946|10.413|IT|Trentino-Alto Adige|63|f
+Monte Grammondo|43.850|7.517|FR||63|f
+Monte Guglielmo|45.756|10.168|IT|Lombardy|63|f
+Monte Linas|39.450|8.617|IT|Sardinia|63|f
+Monte Lovello|47.033|11.916|AT|Tyrol|63|f
+Monte Manos|45.737|10.539|IT|Lombardy|63|f
+Monte Penice|44.785|9.317|IT|Emilia-Romagna|63|f
+Monte Pizzocolo|45.673|10.592|IT|Lombardy|63|f
+Monte Sarmiento|-54.449|-70.835|CL|Region of Magallanes|63|f
+Monte Tagliaferro|45.873|7.971|IT|Piedmont|63|f
+Montes de Oca|11.333|-72.417|CO||63|f
+Montezuma Castle National Monument|34.611|-111.837|US|Arizona|63|f
 Monte San Vito|43.601|13.268|IT|The Marches|63
 Montello|43.791|-89.320|US|Wisconsin|63
 Montecosaro|43.316|13.638|IT|The Marches|63
@@ -256,6 +330,16 @@ Monte Rio|38.465|-123.009|US|California|61
 Montemurro|40.298|15.992|IT|Basilicate|61
 Montenois|47.492|6.666|FR|Bourgogne-Franche-Comté|61
 Montegalda|45.446|11.675|IT|Veneto|61
+Monte Cristo Range|38.139|-117.788|US|Nevada|61|f
+Monte Fasce|44.410|9.034|IT|Liguria|61|f
+Monte Fontainhas|14.850|-24.703|CV|Brava|61|f
+Monte Jayuya|18.168|-66.575|PR|Jayuya|61|f
+Monte Limbara|40.850|9.167|IT|Sardinia|61|f
+Monte Monarco|45.863|8.840|IT|Lombardy|61|f
+Monte Moro Pass|45.996|7.989|IT|Piedmont|61|f
+Monte Penegal|46.438|11.216|IT|Trentino-Alto Adige|61|f
+Montelíbano Airport|7.972|-75.433|CO|Córdoba|61|f
+Montezuma Range|37.647|-117.373|US|Nevada|61|f
 Monterenzio|44.326|11.404|IT|Emilia-Romagna|61
 Montesquiu d'Albera|42.518|2.882|FR|Occitanie|61
 Monte Verde|30.913|-108.714|MX|Chihuahua|61
@@ -272,42 +356,170 @@ Montecillos|16.390|-98.497|MX|Guerrero|60
 Montescudo|43.918|12.541|IT|Emilia-Romagna|60
 Monterotondo Marittimo|43.146|10.856|IT|Tuscany|60
 Montejaque|36.737|-5.250|ES|Andalusia|60
+Montezuma|39.793|-87.371|US|Indiana|60
+Montezuma|37.596|-100.443|US|Kansas|60
+Montebello|45.650|-74.933|CA|Quebec|60
+Monterotondo|45.609|10.043|IT|Lombardy|60
 Montemagno|44.983|8.325|IT|Piedmont|60
+Monte Prieto|20.085|-100.782|MX|Guanajuato|60
+Montesquieu-Lauragais|43.417|1.629|FR|Occitanie|60
+Monterey|42.179|-73.212|US|Massachusetts|60
 Montefredane|40.960|14.814|IT|Campania|60
 Montepaone|38.722|16.498|IT|Calabria|59
+Monteavan|40.209|44.308|AM|Armavir|59
+Monte Alto|16.717|-99.463|MX|Guerrero|59
+Monte Castello|43.949|12.185|IT|Emilia-Romagna|59
 Montegaldella|45.437|11.670|IT|Veneto|59
+Montecillos|20.287|-98.609|MX|Hidalgo|59
 Monte Giardino|43.909|12.482|SM|Montegiardino|59
 Montegiardino|43.911|12.484|SM||59|r
 Monteleone di Puglia|41.167|15.258|IT|Apulia|59
+Monte de Peña|19.732|-99.548|MX|México|59
+Montevirginio|42.148|12.126|IT|Lazio|59
 Monte di Malo|45.660|11.361|IT|Veneto|59
 Montescudaio|43.326|10.626|IT|Tuscany|58
 Montegiordano|40.043|16.534|IT|Calabria|58
+Monte de Hoyos|20.813|-101.661|MX|Guanajuato|58
+Monte Grande|19.398|-97.071|MX|Veracruz|58
+Monte Albo|40.533|9.583|IT|Sardinia|58|f
+Monte Brasil|38.647|-27.226|PT|Azores|58|f
+Monte Buckland|-54.450|-70.200|CL|Region of Magallanes|58|f
+Monte Cairo|41.550|13.767|IT|Lazio|58|f
+Monte Calamita|42.732|10.397|IT|Tuscany|58|f
+Monte Cristo Range|41.550|-111.484|US|Utah|58|f
+Monte Cucco|43.369|12.745|IT|Umbria|58|f
+Monte Licó|-15.791|37.364|MZ|Zambezia Province|58|f
+Monte Padro|42.467|8.989|FR|Corsica|58|f
+Monte Pelpi|44.545|9.651|IT|Tuscany|58|f
+Monte San Petrone|42.396|9.328|FR|Corsica|58|f
+Monte Sano Mountain|34.745|-86.512|US|Alabama|58|f
+Monte Soratte|42.250|12.500|IT|Lazio|58|f
+Monte Stivo|45.921|10.963|IT|Trentino-Alto Adige|58|f
+Monte Tobbio|44.589|8.805|IT|Piedmont|58|f
+Monte Verena|45.931|11.414|IT|Veneto|58|f
+Monte Zeda|46.045|8.535|IT|Piedmont|58|f
+Monte Zevola|45.689|11.143|IT|Veneto|58|f
+Montes Aquilanos|42.461|-6.666|ES|Castille and León|58|f
+Montevideo-Chippewa County Airport|44.970|-95.715|US|Minnesota|58|f
 Monteverde|40.999|15.534|IT|Campania|58
+Monte Alto|19.175|-100.114|MX|México|58
+Montepagano|42.677|13.990|IT|Abruzzo|58
+Montecerboli|43.248|10.880|IT|Tuscany|58
+Montecchio|43.313|11.926|IT|Tuscany|58
+Monteverde|41.499|14.486|IT|Molise|58
+Monte Marcone|42.123|14.432|IT|Abruzzo|58
+Montebello Della Stanza [Fraccionamiento]|21.936|-102.272|MX|Aguascalientes|58
 Montecchio|42.662|12.288|IT|Umbria|58
+Monterrey|25.492|-103.626|MX|Durango|58
+Montesquieu|44.202|0.438|FR|New Aquitaine|58
+Montericco|45.492|10.957|IT|Veneto|57
+Monterosso|37.643|15.091|IT|Sicily|57
 Monteleone Sabino|42.233|12.858|IT|Lazio|57
 Montederramo|42.276|-7.501|ES|Galicia|57
+Monte Gordo|20.293|-96.839|MX|Veracruz|57
+Montembœuf|45.777|0.553|FR|New Aquitaine|57
 Monte Lirio|8.793|-82.825|PA|Chiriquí Province|57
+Monteneuf|47.873|-2.210|FR|Brittany|57
+Montepertuso|40.632|14.493|IT|Campania|57
+Monterappoli|43.679|10.943|IT|Tuscany|57
+Monteaux|47.488|1.113|FR|Centre-Val de Loire|57
 Monte San Giovanni Campano|41.643|13.511|IT|Lazio|57
+Monteombraro|44.383|11.000|IT|Emilia-Romagna|57
+Monte Grande|16.938|-92.862|MX|Chiapas|57
+Monte Café|0.300|6.640|ST|São Tomé Island|57
 Monterrubio de Armuña|41.027|-5.644|ES|Castille and León|57
+Montesquieu|44.196|1.058|FR|Occitanie|57
+Monte Águila|17.132|-95.251|MX|Oaxaca|57
+Monte Alegre|25.619|-103.307|MX|Coahuila|56
 Montefusco|41.037|14.855|IT|Campania|56
+Monteaperti|43.327|11.431|IT|Tuscany|56
+Monte Hermoso|-6.470|-79.957|PE|Lambayeque|56
+Monte Bello|-6.165|-75.167|PE|Loreto|56
+Montepiano|44.091|11.160|IT|Tuscany|56
+Montesilvano Colle|42.491|14.145|IT|Abruzzo|56
+Montestruc-sur-Gers|43.793|0.629|FR|Occitanie|56
 Montegabbione|42.920|12.092|IT|Umbria|56
+Montereau|47.856|2.573|FR|Centre-Val de Loire|56
+Monteils|44.266|1.997|FR|Occitanie|56
+Monterubiaglio|42.767|12.017|IT|Umbria|56
 Montevideo|-6.618|-77.823|PE|Amazonas|56
+Monte Claro|8.929|-79.668|PA|Panamá Oeste Province|56
+Montereau-sur-le-Jard|48.591|2.668|FR|Île-de-France|56
+Monte Alegre|17.497|-99.296|MX|Guerrero|56
 Monteu da Po|45.150|8.014|IT|Piedmont|56
 Monterubbiano|43.086|13.719|IT|The Marches|56
 Monteleone d'Orvieto|42.922|12.053|IT|Umbria|56
+Montesquiou|43.578|0.329|FR|Occitanie|56
+Montesano Scalo|40.281|15.658|IT|Campania|56
 Montemignaio|43.740|11.619|IT|Tuscany|55
+Monte Grande|18.049|-94.894|MX|Veracruz|55
+Monteleone|45.194|9.409|IT|Lombardy|55
+Monte Horeb|17.344|-93.004|MX|Chiapas|55
+Monte Alegre|19.802|-100.211|MX|Michoacán|55
+Monterrey|16.920|-93.242|MX|Chiapas|55
+Montechiaro|40.654|14.410|IT|Campania|55
 Montereale|42.523|13.246|IT|Abruzzo|55
+Montécheroux|47.349|6.806|FR|Bourgogne-Franche-Comté|55
 Montefranco|42.598|12.764|IT|Umbria|55
+Montefiores|-32.533|148.933|AU|New South Wales|55
 Monterchi|43.487|12.111|IT|Tuscany|55
 Montecalvo Versiggia|44.972|9.285|IT|Lombardy|55
 Montenero Val Cocchiara|41.717|14.069|IT|Molise|55
+Monterrico|-12.825|-73.592|PE|Cuzco Department|55
+Monte Sinaí|15.690|-92.367|MX|Chiapas|55
+Monte Chiquito|20.964|-97.801|MX|Veracruz|55
+Monterrey|18.740|-97.146|MX|Veracruz|55
+Monte de los Juárez|20.183|-101.252|MX|Guanajuato|55
+Monte Alto|17.899|-94.626|MX|Veracruz|55
 Monte Castello di Vibio|42.840|12.352|IT|Umbria|55
+Monte del Toro|16.677|-96.739|MX|Oaxaca|55
 Montenars|46.251|13.169|IT|Friuli Venezia Giulia|55
+Montecchio|43.234|11.930|IT|Tuscany|55
+Monte Negro|15.064|-23.518|CV|Santa Cruz|54
 Montefalcone Appennino|42.990|13.457|IT|The Marches|54
 Monterado|43.697|13.091|IT|The Marches|54
+Monte Flor Arriba|15.320|-92.571|MX|Chiapas|54
+Montepastore|44.368|11.123|IT|Emilia-Romagna|54
+Monte Asto|42.581|9.210|FR|Corsica|54|f
+Monte Beigua|44.439|8.551|IT|Liguria|54|f
+Monte Bove|-54.767|-69.050|CL|Region of Magallanes|54|f
+Monte Brè|46.009|8.988|CH|Ticino|54|f
+Monte Breva|46.477|10.045|IT|Lombardy|54|f
+Monte Caseros Aerodrome|-30.272|-57.640|AR|Corrientes|54|f
+Monte Cavo|41.750|12.700|IT|Lazio|54|f
+Monte Conero|43.552|13.605|IT|The Marches|54|f
+Monte Cornetto|45.747|11.176|IT|Trentino-Alto Adige|54|f
+Monte de Gibralfaro|36.722|-4.413|ES|Andalusia|54|f
+Monte Generoso|45.931|9.020|CH|Ticino|54|f
+Monte Meta|41.689|13.937|IT|Lazio|54|f
+Monte Montona|16.839|-25.028|CV|São Vicente|54|f
+Monte Mottarone|45.882|8.454|IT|Piedmont|54|f
+Monte Pascoal|-16.896|-39.408|BR|Bahia|54|f
+Monte Pelmo|46.420|12.135|IT|Veneto|54|f
+Monte Pennino|43.100|12.883|IT|The Marches|54|f
+Monte Politri|44.983|7.000|IT|Piedmont|54|f
+Monte Priore|42.932|13.241|IT|The Marches|54|f
+Monte Resegone|45.858|9.469|IT|Lombardy|54|f
+Monte S. Lorenzo|46.668|10.391|CH|Grisons|54|f
+Monte Sibilla|42.900|13.262|IT|Lazio|54|f
+Monte Sobretta|46.400|10.433|IT|Lombardy|54|f
+Monte Volturino|40.412|15.810|IT|Basilicate|54|f
+Monteagudo Airport|-19.827|-63.961|BO|Chuquisaca Department|54|f
+Montebello Islands|-20.467|115.533|AU|Western Australia|54|f
+Montecito Heights Recreation Center|34.097|-118.203|US|California|54|f
+Montemont Islands|-11.304|152.278|PG|Milne Bay Province|54|f
+Montes de Castejón|41.949|-0.948|ES|Aragon|54|f
+Montes Martial|-54.775|-68.472|AR|Tierra del Fuego|54|f
+Montezuma Hills|38.117|-121.804|US|California|54|f
+Montezuma Island|38.074|-121.840|US|California|54|f
+Monte Ordóñez|15.564|-92.175|MX|Chiapas|54
 Monteciccardo|43.824|12.803|IT|The Marches|54
 Monteforte Cilento|40.365|15.195|IT|Campania|54
+Montérolier|49.631|1.346|FR|Normandy|54
 Monte Vidon Combatte|43.049|13.631|IT|The Marches|54
+Montes de Loreto|20.932|-100.734|MX|Guanajuato|54
+Monte Vidon Combatte|43.033|13.450|IT|The Marches|54
+Monterrey|15.714|-92.891|MX|Chiapas|54
 Montearagón|39.964|-4.632|ES|Castille-La Mancha|54
 Montecatini Val di Cecina|43.392|10.749|IT|Tuscany|54
 Montemitro|41.888|14.647|IT|Molise|53
@@ -335,6 +547,64 @@ Montezemolo|44.377|8.141|IT|Piedmont|50
 Montecorice|40.234|14.985|IT|Campania|49
 Montemezzo|46.179|9.371|IT|Lombardy|49
 Montedinove|42.973|13.590|IT|The Marches|49
+Monte Acero|41.263|14.493|IT|Campania|49|f
+Monte Adamello|46.155|10.497|IT|Lombardy|49|f
+Monte Alpi|40.117|15.983|IT|Basilicate|49|f
+Monte Alto|46.699|10.726|IT|Trentino-Alto Adige|49|f
+Monte Arcuentu|39.583|8.550|IT|Sardinia|49|f
+Monte Bignone|43.867|7.733|IT|Liguria|49|f
+Monte Bivera|46.441|12.643|IT|Friuli Venezia Giulia|49|f
+Monte Cammarata|37.617|13.600|IT|Sicily|49|f
+Monte Cara|16.872|-25.037|CV|São Vicente|49|f
+Monte Caruso|40.767|15.717|IT|Basilicate|49|f
+Monte Cesen|45.946|12.012|IT|Veneto|49|f
+Monte Chambeyron|44.528|6.853|FR|Provence-Alpes-Côte d'Azur|49|f
+Monte Coccovello|40.050|15.717|IT|Basilicate|49|f
+Monte Cocuzzo|39.217|16.133|IT|Calabria|49|f
+Monte Corona|29.185|-13.481|ES|Canary Islands|49|f
+Monte Creta Forata|46.542|12.736|IT|Friuli Venezia Giulia|49|f
+Monte Cristallo|46.576|12.200|IT|Trentino-Alto Adige|49|f
+Monte Crostis|46.574|12.890|IT|Friuli Venezia Giulia|49|f
+Monte Gorzano|42.617|13.400|IT|Abruzzo|49|f
+Monte Guilarte|18.142|-66.769|PR|Adjuntas|49|f
+Monte Igno|43.094|12.988|IT|Umbria|49|f
+Monte Largo|35.196|-106.271|US|New Mexico|49|f
+Monte Luco Grande|46.535|11.086|IT|Trentino-Alto Adige|49|f
+Monte Macaion|46.490|11.210|IT|Trentino-Alto Adige|49|f
+Monte Malbe|43.133|12.300|IT|Umbria|49|f
+Monte Massico|41.167|13.917|IT|Campania|49|f
+Monte Miletto|41.450|14.367|IT|Molise|49|f
+Monte Millifret|46.054|12.349|IT|Veneto|49|f
+Monte Muambe|-16.328|34.101|MZ|Tete|49|f
+Monte Mutria|41.383|14.517|IT|Molise|49|f
+Monte Ortobene|40.317|9.367|IT|Sardinia|49|f
+Monte Padrio|46.183|10.217|IT|Lombardy|49|f
+Monte Pania della Croce|44.035|10.323|IT|Tuscany|49|f
+Monte Pellegrino|38.167|13.350|IT|Sicily|49|f
+Monte Pizzocco|46.141|12.008|IT|Veneto|49|f
+Monte Pollino|39.907|16.189|IT|Calabria|49|f
+Monte Rasu|40.417|9.000|IT|Sardinia|49|f
+Monte Reisa|44.451|8.667|IT|Liguria|49|f
+Monte Renoso|42.061|9.135|FR|Corsica|49|f
+Monte Semprevisa|41.571|13.091|IT|Lazio|49|f
+Monte Settepani|44.250|8.200|IT|Liguria|49|f
+Monte Sirente|42.150|13.600|IT|Abruzzo|49|f
+Monte Solarolo|45.917|11.833|IT|Veneto|49|f
+Monte Subasio|43.049|12.680|IT|Umbria|49|f
+Monte Summano|45.760|11.390|IT|Trentino-Alto Adige|49|f
+Monte Tabor|43.390|13.556|IT|The Marches|49|f
+Monte Terza Grande|46.527|12.622|IT|Friuli Venezia Giulia|49|f
+Monte Toc|46.241|12.338|IT|Veneto|49|f
+Monte Tovo|45.645|7.962|IT|Piedmont|49|f
+Monte Vulture|40.951|15.636|IT|Basilicate|49|f
+Monteagle, Mount|-73.717|165.467|AQ||49|f
+Montecitori Palace|41.902|12.479|IT|Lazio|49|f
+Monteixo|42.602|1.362|ES|Catalonia|49|f
+Montes de Toledo|39.550|-4.333|ES||49|f
+Montes Obarenes|42.635|-3.004|ES|La Rioja|49|f
+Montes Universales|40.273|-1.568|ES|Aragon|49|f
+Monteverde Cloud Forest Reserve|10.303|-84.797|CR|Puntarenas Province|49|f
+Monteverdi Peninsula|-72.500|-71.833|AQ||49|f
 Monte San Martino|43.032|13.440|IT|The Marches|49
 Monteleone di Spoleto|42.650|12.952|IT|Umbria|49
 Monte Giberto|43.091|13.631|IT|The Marches|49
@@ -360,6 +630,7 @@ Montejo de la Vega de la Serrezuela|41.550|-3.654|ES|Castille and León|45
 Monteu Roero|44.781|7.934|IT|Piedmont|45
 Monteagudo de las Salinas|39.800|-1.900|ES|Castille-La Mancha|44
 Montegridolfo|43.858|12.690|IT|Emilia-Romagna|44
+Möntenich|50.221|7.299|DE|Rheinland-Pfalz|44
 Monterrubio de la Sierra|40.756|-5.693|ES|Castille and León|44
 Montegrosso Pian Latte|44.066|7.816|IT|Liguria|43
 Monterey|38.412|-79.581|US|Virginia|43
@@ -369,6 +640,136 @@ Monte San Giovanni in Sabina|42.327|12.779|IT|Lazio|42
 Montebello sul Sangro|41.987|14.324|IT|Abruzzo|41
 Montevecchia|45.705|9.381|IT|Lombardy|41
 Montelapiano|41.963|14.342|IT|Abruzzo|41
+Monte Accellica|40.779|15.002|IT|Campania|40|f
+Monte Agner|46.277|11.953|IT|Veneto|40|f
+Monte Alén National Park|1.531|10.118|GQ|Centro Sur|40|f
+Monte Alfeo|44.631|9.275|IT|Piedmont|40|f
+Monte Altissimo|45.914|10.173|IT|Lombardy|40|f
+Monte Altissimo di Nago|45.810|10.888|IT|Trentino-Alto Adige|40|f
+Monte António Gomes|16.886|-24.931|CV|São Vicente|40|f
+Monte Argentella|42.858|13.243|IT|Abruzzo|40|f
+Monte Armetta|44.137|7.940|IT|Piedmont|40|f
+Monte Baldo|45.726|10.844|IT|Veneto|40|f
+Monte Bar|46.108|9.012|CH|Ticino|40|f
+Monte Barone|45.734|8.155|IT|Piedmont|40|f
+Monte Benacantil|38.349|-0.479|ES|Valencia|40|f
+Monte Bianco di Courmayeur|45.829|6.869|IT|Aosta Valley|40|f
+Monte Bicco|42.915|13.194|IT|Lazio|40|f
+Monte Bisbino|45.874|9.066|||40|f
+Monte Bove Sud|42.918|13.202|IT|Lazio|40|f
+Monte Bregagno|46.098|9.221|IT|Lombardy|40|f
+Monte Bubbonia|37.252|14.339|IT|Sicily|40|f
+Monte Bulgheria|40.070|15.431|IT|Campania|40|f
+Monte Cadria|45.939|10.698|IT|Trentino-Alto Adige|40|f
+Monte Calisio|46.098|11.143|IT|Trentino-Alto Adige|40|f
+Monte Camicia|42.441|13.717|IT|Abruzzo|40|f
+Monte Camino|45.645|7.945|IT|Piedmont|40|f
+Monte Canto|45.722|9.491|IT|Lombardy|40|f
+Monte Cardosa|42.888|13.127|IT|Lazio|40|f
+Monte Carlo Country Club|43.752|7.441|FR|Provence-Alpes-Côte d'Azur|40|f
+Monte Carmine|40.762|15.746|IT|Basilicate|40|f
+Monte Carpegna|43.802|12.319|IT|The Marches|40|f
+Monte Catria|43.460|12.705|IT|The Marches|40|f
+Monte Cervati|40.283|15.490|IT|Campania|40|f
+Monte Cevedale|46.444|10.617|IT|Lombardy|40|f
+Monte Chiappo|44.686|9.200|IT|Piedmont|40|f
+Monte Circeo|41.231|13.056|IT|Lazio|40|f
+Monte Cistella|46.258|8.254|IT|Piedmont|40|f
+Monte Corrasi|40.243|9.432|IT|Sardinia|40|f
+Monte Creek Park|50.646|-119.952|CA|British Columbia|40|f
+Monte Cridola|46.427|12.487|IT|Veneto|40|f
+Monte Croce Di Muggio|46.051|9.357|IT|Lombardy|40|f
+Monte Cuzzo|46.859|11.687|IT|Trentino-Alto Adige|40|f
+Monte d'Oro|42.139|9.099|FR|Corsica|40|f
+Monte delle Prata|42.873|13.205|IT|Lazio|40|f
+Monte di Tremezzo|46.002|9.185|IT|Lombardy|40|f
+Monte Due Mani|45.897|9.450|IT|Lombardy|40|f
+Monte Emilius|45.679|7.385|IT|Aosta Valley|40|f
+Monte Faito|40.667|14.483|IT|Campania|40|f
+Monte Falterona|43.874|11.697|IT|Tuscany|40|f
+Monte Ferro|46.584|12.667|IT|Veneto|40|f
+Monte Figogna|44.491|8.862|IT|Liguria|40|f
+Monte Forato|44.016|10.335|IT|Tuscany|40|f
+Monte Forcola|46.558|10.351|CH|Grisons|40|f
+Monte Fravort|46.076|11.351|IT|Trentino-Alto Adige|40|f
+Monte Frontè|44.055|7.757|IT|Liguria|40|f
+Monte Fumaiolo|43.789|12.070|IT|Emilia-Romagna|40|f
+Monte Gambarogno|46.112|8.831|CH|Ticino|40|f
+Monte Gordo|16.621|-24.355|CV|Tarrafal de São Nicolau|40|f
+Monte Graciosa|15.299|-23.749|CV|Tarrafal|40|f
+Monte Grande|16.821|-22.910|CV|Sal|40|f
+Monte Granero|44.717|7.067|IT|Piedmont|40|f
+Monte Greco|41.799|13.995|IT|Abruzzo|40|f
+Monte Grona|46.062|9.211|CH|Ticino|40|f
+Monte Grosso|42.502|8.923|FR|Corsica|40|f
+Monte Iulio|40.797|14.718|IT|Campania|40|f
+Monte Lake|50.506|-119.838|CA|British Columbia|40|f
+Monte Lake Park|50.500|-119.836|CA|British Columbia|40|f
+Monte Lauro|37.117|14.820|IT|Sicily|40|f
+Monte Leco|44.564|8.873|IT|Piedmont|40|f
+Monte Lieto|42.843|13.174|IT|Lazio|40|f
+Monte Maggiorasca|44.551|9.490|IT|Liguria|40|f
+Monte Marmagna|44.398|9.996|IT|Emilia-Romagna|40|f
+Monte Martica|45.888|8.814|IT|Lombardy|40|f
+Monte Matto|44.226|7.256|IT|Piedmont|40|f
+Monte Meidassa|44.718|7.073|IT|Piedmont|40|f
+Monte Nerone|43.558|12.519|IT|The Marches|40|f
+Monte Nery|45.716|7.820|IT|Aosta Valley|40|f
+Monte Nevoso|46.906|12.084|IT|Trentino-Alto Adige|40|f
+Monte Nudo|45.922|8.689|IT|Lombardy|40|f
+Monte Nuovo|40.833|14.084|IT|Campania|40|f
+Monte Orditano|44.519|8.813|IT|Liguria|40|f
+Monte Orsa|45.888|8.915|IT|Lombardy|40|f
+Monte Orsiera|45.064|7.107|IT|Piedmont|40|f
+Monte Ortigara|46.008|11.507|IT|Veneto|40|f
+Monte Palazzo Borghese|42.868|13.232|IT|Lazio|40|f
+Monte Pegherolo|46.025|9.711|IT|Lombardy|40|f
+Monte Peralba|46.630|12.720|IT|Veneto|40|f
+Monte Petrella|41.323|13.665|IT|Lazio|40|f
+Monte Piambello|45.922|8.852|IT|Lombardy|40|f
+Monte Piana|46.617|12.245|IT|Veneto|40|f
+Monte Pisanino|44.135|10.213|IT|Tuscany|40|f
+Monte Plische|45.702|11.136|IT|Trentino-Alto Adige|40|f
+Monte Polveracchio|40.724|15.127|IT|Campania|40|f
+Monte Porche|42.876|13.232|IT|Lazio|40|f
+Monte Pracaban|44.552|8.737|IT|Liguria|40|f
+Monte Prado|44.250|10.407|IT|Emilia-Romagna|40|f
+Monte Priafora|45.787|11.319|IT|Veneto|40|f
+Monte Ramaceto|44.437|9.315|IT|Piedmont|40|f
+Monte Re di Castello|46.021|10.482|IT|Trentino-Alto Adige|40|f
+Monte Roen|46.361|11.191|IT|Trentino-Alto Adige|40|f
+Monte Rotondo|42.216|9.058|FR|Corsica|40|f
+Monte Sagro|44.116|10.159|IT|Emilia-Romagna|40|f
+Monte San Martino|45.881|9.389|IT|Lombardy|40|f
+Monte San Primo|45.916|9.210|IT|Lombardy|40|f
+Monte San Vicino|43.333|13.060|IT|The Marches|40|f
+Monte Sano State Park|34.731|-86.504|US|Alabama|40|f
+Monte Schiara|46.230|12.182|IT|Veneto|40|f
+Monte Scuderi|38.064|15.402|IT|Sicily|40|f
+Monte Sernio|46.476|13.139|IT|Friuli Venezia Giulia|40|f
+Monte Sillara|44.368|10.063|IT|Tuscany|40|f
+Monte Sissone|46.293|9.715|IT|Lombardy|40|f
+Monte Solaro|40.546|14.223|IT|Campania|40|f
+Monte Somma|40.838|14.428|IT|Campania|40|f
+Monte Stella|45.490|9.133|IT|Lombardy|40|f
+Monte Taccone|44.560|8.850|IT|Piedmont|40|f
+Monte Tambura|44.108|10.233|IT|Tuscany|40|f
+Monte Tesoro|45.799|9.494|IT|Lombardy|40|f
+Monte Toraro|45.862|11.269|IT|Veneto|40|f
+Monte Tremalzo|45.842|10.699|IT|Trentino-Alto Adige|40|f
+Monte Velino|42.147|13.382|IT|Abruzzo|40|f
+Monte Venda|45.314|11.689|IT|Veneto|40|f
+Monte Vermenone|43.149|12.921|IT|Umbria|40|f
+Monte Vettore|42.824|13.275|IT|The Marches|40|f
+Monte Villandro|46.659|11.419|IT|Trentino-Alto Adige|40|f
+Monte Vioz|46.402|10.631|IT|Lombardy|40|f
+Monte Vista National Wildlife Refuge|37.488|-106.093|US|Colorado|40|f
+Monte Zucco|45.823|9.656|IT|Lombardy|40|f
+Montecchi Glacier|-72.067|167.583|AQ||40|f
+Monterey State Beach|36.601|-121.884|US|California|40|f
+Monterreal Castle|42.125|-8.850|ES|Galicia|40|f
+Montesquieu University - Bordeaux IV|44.799|-0.615|FR|New Aquitaine|40|f
+Montezuma National Wildlife Refuge|42.996|-76.765|US|New York|40|f
 Montenegro de Cameros|42.089|-2.754|ES|Castille and León|40
 Monterrubio|40.849|-4.350|ES|Castille and León|39
 Monte Santa Maria Tiberina|43.437|12.162|IT|Umbria|39

@@ -24,17 +24,20 @@ Ilkal|15.959|76.114|IN|Karnataka|96
 Ilo|-17.632|-71.341|PE|Moquegua Department|95
 Ilaro|6.889|3.014|NG|Ogun State|93
 Ilkeston|52.971|-1.310|GB|England|92
+Île Saint-Paul|-38.717|77.517|TF|Saint-Paul-et-Amsterdam|92|f
 Ilopango|13.702|-89.109|SV|San Salvador Department|92
 Ilmenau|50.683|10.919|DE|Thuringia|92
 Ilhabela|-23.778|-45.358|BR|São Paulo|91
 Iława|53.596|19.568|PL|Warmia-Masuria|90
 Illéla|14.460|5.244|NE|Tahoua Region|90
+Il Caravaggio International Airport|45.674|9.704|IT|Lombardy|90|f
 Ilula|-7.677|36.037|TZ|Iringa|89
 Ilgın|38.279|31.914|TR|Konya|89
 Illkirch-Graffenstaden|48.529|7.715|FR|Grand Est|89
 Ilha Solteira|-20.433|-51.343|BR|São Paulo|89
 Ilaiyankudi|9.625|78.624|IN|Tamil Nadu|88
 Ilha de Itamaracá|-7.748|-34.826|BR|Pernambuco|88
+Île de la Cité|48.855|2.346|FR|Île-de-France|88|f
 Il-Mosta|35.913|14.421|MT||87|r
 Ilchester|39.226|-76.789|US|Maryland|87
 Il’skiy|44.842|38.567|RU|Krasnodar Krai|87
@@ -53,6 +56,8 @@ Ilanskiy|56.235|96.067|RU|Krasnoyarsk Krai|84
 Īlkhchī|37.937|45.979|IR|East Azerbaijan|84
 Illertissen|48.223|10.103|DE|Bavaria|84
 Ilinden|41.993|21.581|MK|Ilinden|84
+Île de Ré|46.200|-1.417|FR|New Aquitaine|84|f
+Île Saint-Louis|48.852|2.357|FR|Île-de-France|84|f
 Illzach|47.774|7.352|FR|Grand Est|84
 Ilovays’k|47.925|38.202|UA|Donetsk|84
 Ilkley|53.924|-1.823|GB|England|83
@@ -65,14 +70,17 @@ Ilıca|39.947|41.095|TR|Erzurum|82
 Il-Fgura|35.873|14.520|MT||82|r
 Ilinge|-31.977|27.043|ZA|Eastern Cape|82
 Ilicínea|-20.936|-45.833|BR|Minas Gerais|82
+Iloilo International Airport|10.830|122.494|PH|Western Visayas|82|f
 Ilmajoki|62.733|22.567|FI|South Ostrobothnia|82
 Ilsede|52.263|10.199|DE|Lower Saxony|82
 Ilovlya|49.300|43.984|RU|Volgograd Oblast|82
+Il-Mellieħa|35.958|14.351|MT||82|r
 Ilampillai|11.607|78.007|IN|Tamil Nadu|81
+Îles-de-la-Madeleine Airport|47.425|-61.778|CA|Quebec|81|f
 Il-Gżira|35.906|14.493|MT||81|r
-Il-Mellieħa|35.958|14.351|MT||81|r
 Illintsi|49.105|29.206|UA|Vinnytsia|81
 Ilfracombe|51.209|-4.113|GB|England|81
+Île Amsterdam|-37.833|77.517|TF|Saint-Paul-et-Amsterdam|81|f
 Illora|37.288|-3.881|ES|Andalusia|80
 Ilanji|8.960|77.280|IN|Tamil Nadu|80
 Ilam|-43.518|172.570|NZ|Canterbury|80
@@ -85,30 +93,39 @@ Ilha Grande|-2.852|-41.817|BR|Piauí|79
 Ilnytsia|48.357|23.076|UA|Zakarpattia|79
 Ilha das Flores|-10.436|-36.540|BR|Sergipe|78
 Il’inskiy|55.619|38.118|RU|Moscow Oblast|78
+Illizi Airport|26.724|8.623|DZ|Illizi|78|f
 Ilsfeld|49.055|9.246|DE|Baden-Wurttemberg|78
 Ilion|43.015|-75.035|US|New York|78
 Il|-2.098|36.792|KE|Kajiado County|78
 Ilare|7.351|5.113|NG|Ondo State|78
 Ilvesheim|49.474|8.567|DE|Baden-Wurttemberg|78
+Île Art – Waala Airport|-19.721|163.661|NC|North Province|78|f
 Illushi|6.670|6.629|NG|Edo State|77
 Ilyinogorsk|56.228|42.954|RU|Nizhny Novgorod Oblast|77
 Illingen|48.956|8.925|DE|Baden-Wurttemberg|77
+Ilhéu de Vila Franca|37.706|-25.443|PT|Azores|77|f
 Ilog|10.027|122.768|PH|Western Visayas|77
 ‘Illār|32.370|35.107|PS|West Bank|76
 Il’inka|46.238|47.901|RU|Astrakhan Oblast|76
 Ilsenburg|51.867|10.678|DE|Saxony-Anhalt|76
 Ilshofen|49.170|9.918|DE|Baden-Wurttemberg|76
 Ilijaš|43.951|18.271|BA|Federation of B&H|75
+Ilak Island|51.478|-178.287|US|Alaska|75|f
+Ílis|37.892|21.374|GR|West Greece|75|f
 Ilminster|50.927|-2.910|GB|England|75
 Île-de-Lamèque|47.847|-64.596|CA|New Brunswick|75
 Ille-sur-Têt|42.671|2.621|FR|Occitanie|75
 Il-Marsa|35.876|14.492|MT||75|r
 Ilava|48.998|18.235|SK|Trenčín Region|75
+Île Anselme-Fay|46.573|-72.707|CA|Quebec|74|f
 Iluka|-31.736|115.731|AU|Western Australia|74
 Iłża|51.163|21.240|PL|Mazovia|74
 Illa de Arousa|42.564|-8.873|ES|Galicia|74
 İliç|39.457|38.565|TR|Erzincan|74
 Ilola|60.327|25.013|FI|Uusimaa|74
+Île Frégate|17.940|-62.834|BL||73|f
+Île Jésus|45.603|-73.728|CA|Quebec|73|f
+Îlots des Apôtres|-45.960|50.407|TF||73|f
 Illasit|-2.959|37.571|KE|Kajiado County|73
 Ilirska Bistrica|45.568|14.246|SI|Municipality of Ilirska Bistrica|73
 Ilaskhan-Yurt|43.279|46.102|RU|Chechnya|73
@@ -117,6 +134,12 @@ Ilomantsi|62.672|30.933|FI|North Karelia|73
 Il’inskoye|55.249|37.958|RU|Moscow Oblast|73
 Il’inka|52.119|107.271|RU|Buryatiya Republic|72
 Ilópolis|-28.927|-52.124|BR|Rio Grande do Sul|72
+Île aux Aigrettes|-20.420|57.733|MU|Grand Port|72|f
+Île aux Cochons|-46.091|50.227|TF||72|f
+Île du Levant|43.031|6.469|FR|Provence-Alpes-Côte d'Azur|72|f
+Îles Moucha|11.716|43.206|DJ|Djibouti|72|f
+Îles Tubuaï|-23.000|-150.000|PF||72|f
+Ilha Grande|-23.155|-44.239|BR|Rio de Janeiro|72|f
 Il’inskiy Pogost|55.478|38.909|RU|Moscow Oblast|72
 Ilogbo|6.722|3.162|NG|Ogun State|72
 Ilia|45.933|22.650|RO|Hunedoara County|72
@@ -124,6 +147,12 @@ Iłowa|51.501|15.200|PL|Lubusz|72
 Ilok|45.222|19.377|HR|Vukovar-Srijem|72
 Ileana|44.517|26.667|RO|Călărași County|72
 Ilići|43.348|17.768|BA|Federation of B&H|71
+Île Chergui|34.733|11.233|TN|Sfax Governorate|71|f
+Île de la Possession|-46.402|51.761|TF|Crozet|71|f
+Île des Pingouins|-46.419|50.401|TF||71|f
+Îles Des Madeleines|14.654|-17.471|SN|Dakar|71|f
+Iliamna Lake|59.553|-155.088|US|Alaska|71|f
+Illinois Valley Airport|42.104|-123.681|US|Oregon|71|f
 I. L. Caragiale|44.910|25.703|RO|Dâmbovița County|71
 Il’inskoye-Khovanskoye|56.973|39.766|RU|Ivanovo Oblast|71
 Ilihan|13.631|121.071|PH|Calabarzon|71
@@ -135,6 +164,17 @@ Ilovka|50.705|38.637|RU|Belgorod Oblast|70
 Ilihan|10.905|123.970|PH|Central Visayas|70
 Ilaya|5.815|125.227|PH|Soccsksargen|70
 Il-Gudja|35.851|14.503|MT||70|r
+Il-Fortizza ta’ San Luċjan|35.830|14.543|MT|Marsaxlokk|70|f
+Ile Alataūy Zhotasy|43.000|77.000|KZ||70|f
+Île de l'Est|-46.415|52.224|TF||70|f
+Île des Pins Airport|-22.589|167.456|NC|South Province|70|f
+Île Fourchue|17.958|-62.904|BL||70|f
+Îles du Duc de Gloucester|-20.633|-143.333|PF||70|f
+Ilha de Tinharé|-13.500|-38.967|BR|Bahia|70|f
+Ilha Fiscal|-22.897|-43.166|BR|Rio de Janeiro|70|f
+Ilhéu Rabo de Junco|16.700|-22.993|CV|Sal|70|f
+Iligan Bay|8.417|124.083|PH||70|f
+Illeginni|9.086|167.473|MH|Kwajalein Atoll|70|f
 Il-Qrendi|35.832|14.451|MT||70|r
 Ilfeld|51.576|10.785|DE|Thuringia|70
 Ilaya|8.546|123.431|PH|Zamboanga Peninsula|70
@@ -146,6 +186,16 @@ Iloni|-12.846|45.190|YT|Dembeni|69
 Illnau|47.411|8.721|CH|Zurich|69
 Ilpoinen|60.423|22.285|FI|Southwest Finland|69
 Iłowo -Osada|53.168|20.293|PL|Warmia-Masuria|69
+Il-Bajja tal-Ġnejna|35.924|14.341|MT|L-Imġarr|69|f
+Île aux Rats|-4.669|55.535|SC||69|f
+Île Gharbi|34.648|11.045|TN|Sfax Governorate|69|f
+Île Pamandzi|-12.780|45.285|YT||69|f
+Îles de Boynes|-50.014|68.866|TF||69|f
+Îles de Los|9.472|-13.792|GN|Conakry|69|f
+Ilha de São Luís|-2.587|-44.219|BR|Maranhão|69|f
+Ilhéu das Cabras|0.408|6.715|ST|São Tomé Island|69|f
+Ilhéu Gago Coutinho|-0.005|6.520|ST|São Tomé Island|69|f
+Ilhéu Raso|16.618|-24.588|CV|São Vicente|69|f
 Ilembo|-9.250|33.383|TZ|Mbeya|68
 Ilva Mare|47.367|24.900|RO|Bistrița-Năsăud County|68
 Ileanda|47.333|23.633|RO|Sălaj County|68
@@ -153,6 +203,12 @@ Il-Birgu|35.886|14.527|MT||68|r
 Ilandža|45.169|20.920|RS|Vojvodina|68
 Illmitz|47.761|16.800|AT|Burgenland|68
 Ilanz|46.774|9.205|CH|Grisons|67
+Il-Bajja ta’ San Tumas|35.852|14.566|MT|Marsaskala|67|f
+Île Chevreau|17.933|-62.851|BL||67|f
+Île de l'Ouest|-49.348|68.711|TF||67|f
+Île Kerguelen|-49.250|69.500|TF||67|f
+Îles Palliser|-15.500|-146.500|PF||67|f
+Iliamna Volcano|60.032|-153.088|US|Alaska|67|f
 Ilderton|43.079|-81.381|CA|Ontario|67
 Il’ichevo|53.279|91.840|RU|Krasnoyarsk Krai|67
 Ilmmünster|48.483|11.500|DE|Bavaria|67
@@ -173,6 +229,27 @@ Iluka|-29.401|153.351|AU|New South Wales|66
 Il-Qala|36.038|14.317|MT||66|r
 Iles|0.970|-77.521|CO|Nariño|65
 Ilychyovo|45.283|35.739|UA|Crimea|65
+Il-Bajja Fomm ir-Riħ|35.907|14.337|MT|Ir-Rabat|65|f
+Île Akamaru|-23.186|-134.914|PF|Tuamotu-Gambier Islands|65|f
+Île Aval|48.803|-3.556|FR|Brittany|65|f
+Île Chekli|36.817|10.218|TN|Tunis Governorate|65|f
+Ile Labalekang|-8.544|123.384|ID|East Nusa Tenggara|65|f
+Île Milliau|48.769|-3.598|FR|Brittany|65|f
+Île Tintamarre|18.119|-62.979|MF||65|f
+Îles Chesterfield|-20.000|159.000|NC||65|f
+Îles Gambier|-23.147|-134.958|PF||65|f
+Ilfjellet|62.946|9.941|NO|Trøndelag|65|f
+Ilha da Conceição|-22.871|-43.118|BR|Rio de Janeiro|65|f
+Ilha das Cobras|-22.896|-43.172|BR|Rio de Janeiro|65|f
+Ilha de Marajó|-0.849|-49.515|BR|Pará|65|f
+Ilha Grande de Gurupá|-0.986|-51.502|BR|Pará|65|f
+Ilha Montão de Trigo|-23.864|-45.781|BR|São Paulo|65|f
+Ilha Tupinambarana|-3.138|-57.925|BR|Amazonas|65|f
+Ilhas dos Lobos|-29.347|-49.704|BR|Rio Grande do Sul|65|f
+Ilhéus/Bahia-Jorge Amado Airport|-14.816|-39.032|BR|Bahia|65|f
+Illa de sa Conillera|38.986|1.210|ES|Balearic Islands|65|f
+Illauneeragh|53.285|-9.736|IE|Connacht|65|f
+Illimani|-16.655|-67.784|BO|La Paz Department|65|f
 Ilpendam|52.463|4.950|NL|North Holland|65
 Ilieni|45.800|25.767|RO|Covasna County|65
 Ilama|15.068|-88.223|HN|Santa Bárbara Department|65
@@ -184,6 +261,25 @@ Il’inskoye|56.967|37.183|RU|Tver Oblast|64
 Ile des Chênes|49.711|-96.989|CA|Manitoba|64
 Ilıdağ|37.943|28.042|TR|Aydın|64
 Ilba|47.713|23.358|RO|Maramureş|64
+Il-Fortizza tal-Madliena|35.931|14.464|MT|Is-Swieqi|63|f
+Île Agakauitai|-23.166|-135.035|PF|Tuamotu-Gambier Islands|63|f
+Île de Bannec|48.427|-5.011|FR|Brittany|63|f
+Île de Bréhat|48.848|-2.997|FR|Brittany|63|f
+Île de Sein|48.037|-4.853|FR|Brittany|63|f
+Île Kamaka|-23.243|-134.958|PF|Tuamotu-Gambier Islands|63|f
+Ile Lewotobi Laki- Laki|-8.539|122.767|ID|East Nusa Tenggara|63|f
+Île Taravai|-23.147|-135.039|PF|Tuamotu-Gambier Islands|63|f
+Ilha da Berlenga|39.414|-9.510|PT|Leiria|63|f
+Ilha de Fernando de Noronha|-3.857|-32.429|BR|Pernambuco|63|f
+Ilha do Algodão|-23.037|-44.518|BR|Rio de Janeiro|63|f
+Ilhéu Branco|16.659|-24.671|CV|São Vicente|63|f
+Ilhéu Chão|32.585|-16.545|PT|Madeira|63|f
+Ilhéu Quixibá|0.073|6.586|ST|São Tomé Island|63|f
+Ilhéus das Formigas|37.267|-24.783|PT|Azores|63|f
+Illa de Tabarca|38.164|-0.473|ES|Valencia|63|f
+Illum|55.132|10.086|DK|South Denmark|63|f
+Îlot Moa|-12.367|43.750|KM||63|f
+Ilulissat Airport|69.241|-51.064|GL|Avannaata|63|f
 Ileza|61.053|43.900|RU|Arkhangelskaya|63
 Iliokentima|40.949|24.789|GR|East Macedonia and Thrace|63
 Il’ichëvo|60.268|29.752|RU|Leningradskaya Oblast'|63
@@ -199,17 +295,289 @@ Ilz|47.086|15.927|AT|Styria|62
 Ilir|55.225|100.685|RU|Irkutsk Oblast|61
 Illinka|45.818|33.795|UA|Crimea|61
 Illinivka|48.494|37.663|UA|Donetsk|61
+Il-Palazz ta’ Sant’Anton|35.896|14.446|MT|Attard|61|f
+Ile Ape|-8.274|123.508|ID|East Nusa Tenggara|61|f
+Île Aukena|-23.135|-134.909|PF|Tuamotu-Gambier Islands|61|f
+Île Australia|-49.462|69.847|TF||61|f
+Île Cachée|-4.641|55.505|SC||61|f
+Île d'Arz|47.592|-2.800|FR|Brittany|61|f
+Île de Batz|48.748|-4.014|FR|Brittany|61|f
+Île de Groix|47.637|-3.461|FR|Brittany|61|f
+Île de La Passe|-20.396|57.761|MU|Grand Port|61|f
+Île de Mateba|-5.899|12.847|CD|Bas-Congo|61|f
+Île des Embiez|43.075|5.783|FR|Provence-Alpes-Côte d'Azur|61|f
+Île Desroches|-5.683|53.683|SC||61|f
+Île du Lys|-11.516|47.377|TF|Îles Éparses|61|f
+Île Grosse Caye|18.223|-73.399|HT|Sud|61|f
+Île Haute|-49.376|69.915|TF||61|f
+Île Hunter|-22.396|172.086|NC||61|f
+Île Kabak|9.333|-13.400|GN|Kindia|61|f
+Île Matakong|9.268|-13.420|GN|Kindia|61|f
+Île Plane|37.181|10.328|TN|Bizerte Governorate|61|f
+Île Raphael|-16.450|59.617|MU|Cargados Carajos|61|f
+Île Ratoua|-15.617|167.183|VU|Sanma|61|f
+Île Saint-Lanne Gramont|-48.921|69.183|TF||61|f
+Île Téviec|47.555|-3.164|FR|Brittany|61|f
+Île-de-France|77.735|-17.875|GL||61|f
+Îles d'Hyères|43.001|6.377|FR|Provence-Alpes-Côte d'Azur|61|f
+Îles de Glénan|47.717|-4.000|FR|Brittany|61|f
+Îles du Désappointement|-14.167|-141.333|PF|Tuamotu-Gambier Islands|61|f
+Îles Kerguelen|-49.250|69.167|TF||61|f
+Îles Lavezzi|41.341|9.254|FR|Corsica|61|f
+Îles Leygues|-48.697|69.487|TF||61|f
+Îlet des Chardons|14.674|-60.880|MQ|Martinique|61|f
+Ilgaz Dağları|41.081|33.870|TR|Kastamonu|61|f
+Ilha Bela|-23.848|-45.335|BR|São Paulo|61|f
+Ilha da Inhaca|-26.017|32.945|MZ|Maputo City|61|f
+Ilha de Bubaque|11.250|-15.867|GW||61|f
+Ilha de Jeta|11.883|-16.250|GW||61|f
+Ilha de Orangozinho|11.133|-15.933|GW||61|f
+Ilha de Uno|11.250|-16.217|GW||61|f
+Ilha de Uracane|11.300|-16.100|GW||61|f
+Ilha de Vitória|-20.293|-40.325|BR|Espírito Santo|61|f
+Ilhéu de Cima|33.055|-16.282|PT|Madeira|61|f
+Ilhéu de Sal Rei|16.168|-22.929|CV|Boa Vista|61|f
+Ilhéu dos Pássaros|11.817|-15.600|GW||61|f
+Ilin Egon|-8.675|122.454|ID|East Nusa Tenggara|61|f
+Iliniza|-0.661|-78.715|EC|Pichincha|61|f
+Illana Bay|7.417|123.750|PH||61|f
+Illanmaster|54.326|-9.640|IE|Connacht|61|f
+Ilopango International Airport|13.699|-89.120|SV|San Salvador Department|61|f
+Iluileq|60.867|-42.800|GL|Kujalleq|61|f
 Illas|43.497|-5.975|ES|Asturias|60
+Ilıcaköy|37.476|35.899|TR|Adana|60
+Ilova|45.278|22.342|RO|Caraș-Severin County|60
 Ilyichevo|45.245|35.071|UA|Crimea|59
 Il-Fontana|36.038|14.236|MT||59|r
+Ilwaco|46.309|-124.043|US|Washington|59
+I Liyang|15.193|145.717|MP|Saipan|59
 Illorai|40.353|9.002|IT|Sardinia|59
+Illiopolis|39.854|-89.242|US|Illinois|59
+Ilseng|60.776|11.227|NO|Innlandet|59
+İlyas|40.564|35.842|TR|Amasya|59
+Ilıpınar|38.690|26.919|TR|İzmir Province|59
+Illesheim|49.480|10.382|DE|Bavaria|58
+Ileni|45.788|25.001|RO|Brașov County|58
+Illinka|45.372|33.782|UA|Crimea|58
+Il-Swar tal-Kottonera|35.878|14.525|MT|Bormla|58|f
+Ildefonso Island|26.632|-111.430|MX|Baja California Sur|58|f
+Île Alofi|-14.339|-178.041|WF||58|f
+Île Aride|-4.212|55.666|SC||58|f
+Île aux Marins|46.787|-56.148|PM||58|f
+Île aux Moines|48.879|-3.490|FR|Brittany|58|f
+Île Cocos|-19.722|63.297|MU|Rodrigues|58|f
+Île d'Yeu|46.710|-2.351|FR|Pays de la Loire|58|f
+Île de Porquerolles|42.995|6.209|FR|Provence-Alpes-Côte d'Azur|58|f
+Île du Nord|-4.394|55.246|SC||58|f
+Île du Port|-49.187|69.604|TF||58|f
+Île Foch|-49.017|69.283|TF||58|f
+Île Gaby|-49.657|69.776|TF||58|f
+Île Howe|-48.859|69.439|TF||58|f
+Île Matthew|-22.343|171.356|NC||58|f
+Ile Muda|-8.479|122.761|ID|East Nusa Tenggara|58|f
+Île Parasol|-5.264|71.844|IO||58|f
+Île Royale|5.287|-52.589|GF|Guyane|58|f
+Île Yeye|-5.243|71.963|IO||58|f
+Ilemba Island|-0.561|33.928|KE|Homa Bay County|58|f
+Îles Nuageuses|-48.632|68.716|TF||58|f
+Îlet à Cabrit|15.875|-61.595|GP||58|f
+Ilford Airport|56.051|-95.614|CA|Manitoba|58|f
+Ilha Brava|14.849|-24.705|CV|Brava|58|f
+Ilha Caravela|11.533|-16.333|GW||58|f
+Ilha das Galinhas|11.467|-15.683|GW||58|f
+Ilha de Pecixe|11.833|-16.083|GW||58|f
+Ilha de Rubane|11.333|-15.817|GW||58|f
+Ilha de Santo Aleixo|-8.612|-35.022|BR|Pernambuco|58|f
+Ilha João Vieira|11.033|-15.633|GW||58|f
+Ilhas Desertas|32.472|-16.493|PT|Madeira|58|f
+Ilhéu da Praia|39.057|-27.955|PT|Azores|58|f
+Ilhéu Grande|14.967|-24.689|CV|Brava|58|f
+Iliad Glacier|-64.516|-63.516|AQ||58|f
+Illapel Aucó Airport|-31.577|-71.111|CL|Coquimbo Region|58|f
+Illauneeragh West|53.355|-9.676|IE|Connacht|58|f
+Illimsan|34.685|127.032|KR|Jeollanam-do|58|f
+Illunnguit|73.300|-56.333|GL|Avannaata|58|f
+Îlot Rumarei|-23.114|-134.991|PF|Tuamotu-Gambier Islands|58|f
 Ilovăț|44.812|22.763|RO|Mehedinți County|58
+Ilișua|47.297|22.840|RO|Sălaj County|58
+Ilita|19.849|-97.473|MX|Puebla|58
+Illerich|50.200|7.183|DE|Rheinland-Pfalz|58
 Illana|40.184|-2.909|ES|Castille-La Mancha|58
+Ildır|38.383|26.478|TR|İzmir Province|58
+Illgau|46.988|8.725|CH|Schwyz|58
+Il’inka|51.441|85.108|RU|Altai|58
+Ilișua|47.219|24.091|RO|Bistrița-Năsăud County|57
+Ilton|50.954|-2.925|GB|England|57
+Ilıcaköy|37.171|30.649|TR|Antalya|57
+Ilıcaköy|36.407|32.368|TR|Antalya|57
 Ilamatlán|20.781|-98.443|MX|Veracruz|57
+Ilmington|52.089|-1.691|GB|England|57
+Ilova|45.456|16.837|HR|Sisak-Moslavina|57
+Il Rosi|43.857|11.141|IT|Tuscany|57
+Illeville-sur-Montfort|49.326|0.726|FR|Normandy|57
 Iłów|52.340|20.027|PL|Mazovia|57
+Ilača|45.181|19.096|HR|Vukovar-Srijem|57
+Illhaeusern|48.184|7.433|FR|Grand Est|57
+İlemin|36.733|34.313|TR|Mersin|56
+Illifaut|48.146|-2.349|FR|Brittany|56
+Île-Tudy|47.846|-4.168|FR|Brittany|56
+Illiriia|48.404|38.991|UA|Luhansk|56
+Iliești|44.643|23.402|RO|Gorj County|56
+Ilamacingo|18.007|-98.240|MX|Puebla|56
+Île-aux-Moines|47.596|-2.844|FR|Brittany|56
+Ilparpa|-23.752|133.818|AU|Northern Territory|56
+Il Fabbro|43.980|11.125|IT|Tuscany|55
 Illano|43.334|-6.866|ES|Asturias|55
+İlyasköy|37.786|30.120|TR|Burdur|55
+Il Rigo|43.104|12.300|IT|Umbria|55
+Iliókastron|37.445|23.267|GR|Peloponnese|55
+Ilaniyya|32.754|35.408|IL|Northern District|54
+Ildefonso Turrubiartes (La Boquilla)|21.926|-99.869|MX|San Luis Potosí|54
+Iliókali|39.618|20.968|GR|Epirus|54
+Ilfoveni|44.828|25.562|RO|Dâmbovița County|54
+Il Galeone Neptune|44.411|8.927|IT||54|f
+Il Gran Zebrù|46.479|10.568|IT|Lombardy|54|f
+Il-Fortizza Manoel|35.903|14.505|MT|Il-Gżira|54|f
+Île à Morfil|16.584|-14.584|SN|Saint-Louis|54|f
+Île Altazin|-49.632|69.744|TF||54|f
+Ile aux Galets|45.676|-85.173|US|Michigan|54|f
+Île aux Pigeons|46.797|-56.132|PM||54|f
+Île Boulay|5.281|-4.087|CI|Abidjan Autonomous District|54|f
+Île Cavallo|41.368|9.263|FR|Corsica|54|f
+Île d’Arguin|20.597|-16.463|MR|Dakhlet Nouadhibou|54|f
+Île d'Or|43.410|6.847|FR|Provence-Alpes-Côte d'Azur|54|f
+Ile d'Yeu|46.717|-2.392|FR|Pays de la Loire|54|f
+Île de Cézembre|48.676|-2.072|FR|Brittany|54|f
+Île de la Giraglia|43.025|9.407|FR|Corsica|54|f
+Île de Port-Cros|43.005|6.396|FR|Provence-Alpes-Côte d'Azur|54|f
+Île de Tatihou|49.589|-1.244|FR|Normandy|54|f
+Île de Terénez|48.284|-4.280|FR|Brittany|54|f
+Île Grande|48.800|-3.573|FR|Brittany|54|f
+Île Idjwi|-2.118|29.059|CD|South Kivu|54|f
+Île Lacroix|49.433|1.102|FR|Normandy|54|f
+Île Madame|45.958|-1.114|FR|New Aquitaine|54|f
+Île Mbamou|-4.238|15.444|CG|Brazzaville|54|f
+Île Ratonneau|43.283|5.309|FR|Provence-Alpes-Côte d'Azur|54|f
+Île Saint-Honorat|43.507|7.046|FR|Provence-Alpes-Côte d'Azur|54|f
+Île Saint-Joseph|5.281|-52.582|GF|Guyane|54|f
+Île Saint-Pierre|46.781|-56.194|PM|Saint-Pierre|54|f
+Île Sainte-Marguerite|43.519|7.051|FR|Provence-Alpes-Côte d'Azur|54|f
+Île Verte|47.767|-3.800|FR|Brittany|54|f
+Île Vierge|48.867|-3.058|FR|Brittany|54|f
+Île Walpole|-22.617|168.950|NC|South Province|54|f
+Ile Werung|-8.532|123.575|ID|East Nusa Tenggara|54|f
+Îles Chausey|48.883|-1.833|FR|Normandy|54|f
+Îles de Lérins|43.516|7.048|FR|Provence-Alpes-Côte d'Azur|54|f
+Îles Saint-Marcouf|49.496|-1.150|FR|Normandy|54|f
+Ilha Caviana de Fora|0.179|-49.969|BR|Pará|54|f
+Ilha de Itaparica|-13.012|-38.691|BR|Bahia|54|f
+Ilha de Paquetá|-22.760|-43.110|BR|Rio de Janeiro|54|f
+Ilha de São Vicente|-23.950|-46.367|BR|São Paulo|54|f
+Ilha de Unhocomo|11.298|-16.458|GW||54|f
+Ilha de Villegagnon|-22.914|-43.160|BR|Rio de Janeiro|54|f
+Ilha do Bananal|-11.366|-50.316|BR|Tocantins|54|f
+Ilha do Ibo|-12.340|40.601|MZ|Cabo Delgado Province|54|f
+Ilha Inhacamba|-18.668|36.302|MZ|Zambezia Province|54|f
+Ilha Santa Carolina|-21.616|35.341|MZ|Inhambane Province|54|f
+Ilhéu Bombom|1.698|7.403|ST|Príncipe|54|f
+Ilhéu de Cima|14.971|-24.638|CV|Brava|54|f
+Ilhéu do Baluarte|16.154|-22.660|CV|Boa Vista|54|f
+Ilhéu Gabado|0.132|6.480|ST|São Tomé Island|54|f
+Ilhéu São Miguel|0.138|6.481|ST|São Tomé Island|54|f
+Ilhéus das Cabras|38.631|-27.146|PT|Azores|54|f
+Iliamna Airport|59.752|-154.913|US|Alaska|54|f
+Illa de l'Aire|39.801|4.290|ES|Balearic Islands|54|f
+Illa de Tagomago|39.037|1.643|ES|Balearic Islands|54|f
+Illawarra Regional Airport|-34.560|150.789|AU|New South Wales|54|f
+Illulissuaq|74.333|-56.400|GL|Avannaata|54|f
+Illullip Sermia|74.400|-56.000|GL|Avannaata|54|f
+Illuminated Block|-34.611|-58.374|AR|Buenos Aires F.D.|54|f
+Ilmoilanselkä|61.217|24.417|FI|Kanta-Häme|54|f
+Îlot Sowan|-16.133|167.450|VU|Malampa|54|f
+Ilmatsalu|58.386|26.547|EE|Tartu|54
+Illiat|46.189|4.884|FR|Auvergne-Rhône-Alpes|54
+Ilbesheim|49.690|8.075|DE|Rheinland-Pfalz|54
 Illar|36.986|-2.639|ES|Andalusia|52
+Ile aux Coudres|47.402|-70.384|CA|Quebec|49|f
+Ile du Golfe|-43.574|146.534|AU|Tasmania|49|f
+Ile Du Nord|-42.560|148.050|AU|Tasmania|49|f
+Ilha Angoche|-16.333|39.850|MZ||49|f
+Ilha da Restinga|-7.000|-34.850|BR|Paraíba|49|f
+Ilha de Boipeba|-13.650|-38.917|BR|Bahia|49|f
+Ilha de Orango|11.105|-16.138|GW||49|f
+Ilha do Cardoso|-25.133|-47.967|BR|São Paulo|49|f
+Ilha do Mar Virado|-23.567|-45.154|BR|São Paulo|49|f
+Ilha do Mosqueiro|-1.134|-48.389|BR|Pará|49|f
+Ilha dos Marinheiros|-32.002|-52.154|BR|Rio Grande do Sul|49|f
+Ilha Formosa|11.483|-15.967|GW||49|f
+Ilin Island|12.232|121.078|PH|Mimaropa|49|f
+Ill Bell|54.462|-2.872|GB|England|49|f
+Illa de sa Porrassa|39.504|2.545|ES|Balearic Islands|49|f
+Illa des Bosc|38.969|1.217|ES|Balearic Islands|49|f
+Illa Grossa|42.401|3.166|ES|Catalonia|49|f
+Illgill Head|54.433|-3.283|GB|England|49|f
+Illinois Mountain|41.720|-73.995|US|New York|49|f
+Iloilo Strait|10.695|122.600|PH|Western Visayas|49|f
 Ilche|41.957|0.057|ES|Aragon|48
+Il Chapütschin|46.374|9.819|CH|Grisons|40|f
+Il Madone|46.492|8.559|CH|Ticino|40|f
+Il Polo Glacier|-69.833|74.900|AQ||40|f
+Île à Bouleaux de Terre|50.242|-64.003|CA|Quebec|40|f
+Île à la Croix|47.217|-72.266|CA|Quebec|40|f
+Île aux Grues|46.185|-72.997|CA|Quebec|40|f
+Île aux Hérons|45.423|-73.578|CA|Quebec|40|f
+Île aux Lièvres|45.472|-73.292|CA|Quebec|40|f
+Île aux Noix|45.123|-73.264|CA|Quebec|40|f
+Île aux Perroquets|50.220|-64.207|CA|Quebec|40|f
+Île Bigras|45.520|-73.854|CA|Quebec|40|f
+Île Bizard|45.490|-73.909|CA|Quebec|40|f
+Île Bonaventure|48.498|-64.161|CA|Quebec|40|f
+Île Brion|47.795|-61.465|CA|Quebec|40|f
+Île Charron|45.582|-73.488|CA|Quebec|40|f
+Île de la Visitation|45.579|-73.660|CA|Quebec|40|f
+Île de Tibidy|48.300|-4.248|FR|Brittany|40|f
+Île des Morts|48.303|-4.537|FR|Brittany|40|f
+Île Dowker|45.402|-73.894|CA|Quebec|40|f
+Île du Cap aux Meules|47.380|-61.909|CA|Quebec|40|f
+Île Kuchistiniwamiskahikan|56.334|-74.366|CA|Quebec|40|f
+Île Longue|48.305|-4.509|FR|Brittany|40|f
+Ile Marc|75.852|-103.586|CA|Nunavut|40|f
+Île Notre-Dame|45.499|-73.523|CA|Quebec|40|f
+Île Pariseau|45.519|-73.845|CA|Quebec|40|f
+Ile Parisienne|46.683|-84.733|CA|Ontario|40|f
+Île Perrot|45.379|-73.956|CA|Quebec|40|f
+Île Ronde|48.324|-4.463|FR|Brittany|40|f
+Île Saint-Quentin|46.353|-72.527|CA|Quebec|40|f
+Île Sainte-Hélène|45.517|-73.534|CA|Quebec|40|f
+Île Tristan|48.102|-4.338|FR|Brittany|40|f
+Ile Vanier|76.168|-103.253|CA|Nunavut|40|f
+Îles Odanak|45.272|-72.054|CA|Quebec|40|f
+Ilgachuz Range|52.753|-125.242|CA|British Columbia|40|f
+Ilha do Campeche|-27.697|-48.465|BR|Santa Catarina|40|f
+Ilha Matemo|-12.213|40.595|MZ|Cabo Delgado Province|40|f
+Ilhéu do Bugio|32.425|-16.484|PT|Madeira|40|f
+Ilhéu do Monchique|39.495|-31.275|PT|Azores|40|f
+Iliev Glacier|-69.474|-71.592|AQ||40|f
+Ilikok Island|65.284|-63.247|CA|Nunavut|40|f
+Ilinden Peak|-62.536|-59.696|AQ||40|f
+Illa Coelleira|43.758|-7.632|ES|Galicia|40|f
+Illa de Cortegada|42.619|-8.785|ES|Galicia|40|f
+Illa de Ons|42.381|-8.936|ES|Galicia|40|f
+Illa Dragonera|39.585|2.320|ES|Balearic Islands|40|f
+Illahee State Park|47.597|-122.599|US|Washington|40|f
+Illecillewaet Glacier|51.237|-117.444|CA|British Columbia|40|f
+Illes Formigues|41.863|3.187|ES|Catalonia|40|f
+Illhorn|46.263|7.616|CH|Valais|40|f
+Illini State Park|41.322|-88.716|US|Illinois|40|f
+Illinois Beach State Park|42.417|-87.812|US|Illinois|40|f
+Illinois Caverns State Natural Area|38.236|-90.137|US|Illinois|40|f
+Illinois Centennial Monument|41.928|-87.707|US|Illinois|40|f
+Illinois Railway Museum|42.211|-88.526|US|Illinois|40|f
+Illinois River Forks State Park|42.157|-123.658|US|Oregon|40|f
+Illinois State Museum|39.797|-89.655|US|Illinois|40|f
+Illsee|46.257|7.632|CH|Valais|40|f
+Illusive Islands|63.638|-91.405|CA|Nunavut|40|f
+Ilthpaya Lake|49.121|-125.625|CA|British Columbia|40|f
 Illán de Vacas|39.971|-4.557|ES|Castille-La Mancha|18
 Il’inskiy|58.570|55.695|RU|Perm Krai|0
 Il’inskoye|56.924|28.525|RU|Pskov Oblast|0
@@ -223,6 +591,7 @@ Ile-Oluji|7.213|4.869|NG|Ondo State|0
 Ilemona|8.110|4.661|NG|Kwara State|0
 Îles Éparses|-17.043|42.745|TF||0|r
 Ilgwang|35.264|129.233|KR|Busan|0
+Ili|-8.675|122.266|ID|East Nusa Tenggara|0
 Ilıca|39.876|27.776|TR|Balıkesir|0
 Ilıcalar|38.980|40.674|TR|Bingöl|0
 İlkadım|41.287|36.290|TR|Samsun|0

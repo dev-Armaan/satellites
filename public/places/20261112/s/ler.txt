@@ -1,7 +1,7 @@
 Leribe|-29.037|28.253|LS||102|r
 Lere|10.386|8.573|NG|Kaduna State|99
-Lerik|38.774|48.415|AZ|Lerik District|99
 Lerik District|38.750|48.417|AZ||99|r
+Lerik|38.774|48.415|AZ|Lerik District|99
 Lerdo|25.536|-103.525|MX|Durango|98
 Léré|9.645|14.215|TD|Mayo-Kebbi Ouest|90
 Lerum|57.771|12.269|SE|Västra Götaland|89
@@ -22,24 +22,31 @@ Lerwick|60.153|-1.144|GB|Scotland|77
 Lercara Friddi|37.747|13.604|IT|Sicily|77
 Le Rheu|48.102|-1.796|FR|Brittany|76
 Lereşti|45.333|25.067|RO|Arges|74
+Leros Municipal Airport|37.185|26.800|GR|South Aegean|73|f
 Lermontovka|47.146|134.339|RU|Khabarovsk|73
 Le Roy|42.978|-77.984|US|New York|73
+Léros Island|37.147|26.843|GR|South Aegean|72|f
 Le Rove|43.370|5.251|FR|Provence-Alpes-Côte d'Azur|72
 Le Revest-les-Eaux|43.176|5.927|FR|Provence-Alpes-Côte d'Azur|71
 Le Roy|40.352|-88.764|US|Illinois|71
 Le Rouret|43.679|7.015|FR|Provence-Alpes-Côte d'Azur|71
 Lernanist|40.467|44.792|AM|Kotayk|70
 Le Rughe|42.069|12.376|IT|Lazio|69
+Leribe Airport|-28.856|28.053|LS|Leribe|69|f
 Lerma|42.026|-3.760|ES|Castille and León|68
 Lernagog|40.240|43.871|AM|Armavir|67
 Lervik|59.271|10.746|NO|Østfold|67
 Léry|49.286|1.208|FR|Normandy|67
 Lernapat|40.815|44.393|AM|Lori|66
 Le Russey|47.161|6.729|FR|Bourgogne-Franche-Comté|66
+Léré Lake|9.617|14.166|TD|Mayo-Kebbi Ouest|65|f
+Lerøyna|60.235|5.178|NO|Vestland|65|f
 Lerín|42.483|-1.972|ES|Navarre|65
 Lermontovo|52.993|43.661|RU|Penza Oblast|64
 Lernavan|40.788|44.160|AM|Lori|64
 Le Roux|50.389|4.624|BE|Wallonia|64
+Le Reculet|46.257|5.930|FR|Auvergne-Rhône-Alpes|63|f
+Lérna|37.551|22.718|GR|Peloponnese|63|f
 Lernantsk|40.795|44.274|AM|Lori|63
 Lérouville|48.793|5.541|FR|Grand Est|63
 Lernakert|40.563|43.939|AM|Shirak|63
@@ -47,6 +54,38 @@ Léré|47.469|2.870|FR|Centre-Val de Loire|62
 Lermontovo|44.304|38.757|RU|Krasnodar Krai|61
 Lermoos|47.404|10.881|AT|Tyrol|61
 Lernahovit|41.162|44.370|AM|Lori|60
+Le Roy|43.510|-92.504|US|Minnesota|59
+Le Roc-Saint-André|47.864|-2.450|FR|Brittany|59
+Le Rouget|44.855|2.232|FR|Auvergne-Rhône-Alpes|59
+Leroy|31.505|-87.985|US|Alabama|59
 Lermontovo|40.758|44.634|AM|Lori|59
+Lerwick Tingwall Airport|60.192|-1.244|GB|Scotland|58|f
+Lerdo de Tejada|19.687|-97.242|MX|Veracruz|56
+Le Rochereau|46.708|0.154|FR|New Aquitaine|56
+Lernapar|40.744|44.162|AM|Aragatsotn|56
 Lerma|44.636|8.713|IT|Piedmont|56
+Léran|42.989|1.910|FR|Occitanie|56
+Lerdo de Tejada 2da. Sección|17.785|-92.650|MX|Tabasco|55
+Lerchi|43.476|12.199|IT|Umbria|55
+Lerdala|58.478|13.713|SE|Västra Götaland|55
+Lerca|44.404|8.650|IT|Liguria|55
+Lernamerdz|40.258|44.264|AM|Armavir|55
+LeRoy|38.084|-95.634|US|Kansas|55
+Lera|45.334|26.236|RO|Buzău County|54
+Lerchenfeld Glacier|-77.916|-34.250|AQ||54|f
+Le Roignais|45.643|6.689|FR|Auvergne-Rhône-Alpes|49|f
+Le Rateau|45.001|6.280|FR|Auvergne-Rhône-Alpes|40|f
+Le Ritord|45.963|7.256|CH|Valais|40|f
+Le Roy Airport|42.980|-77.936|US|New York|40|f
+Le Rubli|46.463|7.211|CH|Vaud|40|f
+LeResche, Mount|-71.517|166.283|AQ||40|f
+Lerotholi Polytechnic|-29.307|27.485|LS|Maseru District|40|f
+Leroy Percy State Park|33.160|-90.939|US|Mississippi|40|f
 Lerga|42.568|-1.501|ES|Navarre|38
+Lerahinga|-8.369|123.555|ID|East Nusa Tenggara|0
+Leramatang|-8.365|123.572|ID|East Nusa Tenggara|0
+Leran|-6.644|111.471|ID|Central Java|0
+Leran|-7.022|111.719|ID|East Java|0
+Leran Kulon|-6.923|112.151|ID|East Java|0
+Leran Wetan|-6.923|112.154|ID|East Java|0
+Lerek|-8.523|123.546|ID|East Nusa Tenggara|0

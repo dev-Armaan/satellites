@@ -4,19 +4,21 @@ Toluca|19.288|-99.653|MX|México|114
 Toledo|41.664|-83.555|US|Ohio|108
 Toli-Toli|1.040|120.818|ID|Central Sulawesi|108
 Toledo|10.377|123.639|PH|Central Visayas|106
-Tolna County|46.500|18.583|HU||105|r
+Tolna County|46.500|18.583|HU||106|r
 Toliara|-23.350|43.667|MG|Atsimo-Andrefana|105
 Toledo|-24.714|-53.743|BR|Paraná|104
 Toledo|39.858|-4.023|ES|Castille-La Mancha|99
 Tôlanaro|-25.032|46.983|MG|Anosy|97
 Tolga|34.722|5.378|DZ|Biskra|94
+Tolmachevo Airport|55.013|82.651|RU|Novosibirsk Oblast|93|f
+Toledo District|16.333|-88.867|BZ||89|r
 Tolú Viejo|9.451|-75.439|CO|Sucre Department|86
 Tolosa|43.135|-2.078|ES|Basque Country|85
 Tolentino|43.209|13.285|IT|The Marches|84
-Toledo District|16.333|-88.867|BZ||84|r
 Tolland|41.871|-72.369|US|Connecticut|83
 Tola Rāmpurwā Motalke Kurwa Mathiā|26.866|84.528|IN|Bihar|83
 Tolna|46.427|18.782|HU|Tolna County|82
+Tôlanaro Airport|-25.038|46.956|MG|Anosy|81|f
 Tolbazy|54.011|55.887|RU|Bashkortostan Republic|80
 Tolworth|51.380|-0.281|GB|England|80
 Tolochin|54.410|29.693|BY|Vitebsk|80
@@ -44,6 +46,8 @@ Tollarp|55.933|13.983|SE|Skåne|71
 Tolmachevo|58.856|29.909|RU|Leningradskaya Oblast'|71
 Tolve|40.694|16.016|IT|Basilicate|71
 Tollarp1|56.167|14.283|SE|Skåne|70
+Toledo State Airport|44.601|-123.939|US|Oregon|70|f
+Toll Stadium|-35.734|174.330|NZ|Northland|70|f
 Tollembeek|50.741|4.007|BE|Flanders|70
 Toluca de Guadalupe|19.469|-97.956|MX|Tlaxcala|70
 Tollo|42.345|14.324|IT|Abruzzo|70
@@ -65,6 +69,10 @@ Toledo|41.996|-92.577|US|Iowa|67
 Töltéstava|47.626|17.734|HU|Győr-Moson-Sopron|66
 Tolcsva|48.283|21.450|HU|Borsod-Abaúj-Zemplén|65
 Tollakro|6.367|-5.174|CI|Lacs District|65
+Toledo Executive Airport|41.565|-83.476|US|Ohio|63|f
+Toledo Express Airport|41.592|-83.806|US|Ohio|63|f
+Tollensesee|53.503|13.207|DE|Mecklenburg-Vorpommern|63|f
+Tolmie Peak|46.958|-121.877|US|Washington|63|f
 Tolón|37.520|22.859|GR|Peloponnese|63
 Tolimán|19.601|-103.915|MX|Jalisco|63
 Toluca|41.002|-89.133|US|Illinois|62
@@ -74,16 +82,60 @@ Toledo|39.274|-88.244|US|Illinois|62
 Țolici|47.118|26.448|RO|Neamț County|62
 Tollevast|49.574|-1.627|FR|Normandy|62
 Tolabonou|7.242|-5.026|CI|Lacs District|61
+Toloño mendilerroa / Sierra Toloño|42.598|-2.592|ES|Basque Country|61|f
+Tolú Airport|9.509|-75.585|CO|Sucre Department|61|f
 Tolk|54.580|9.638|DE|Schleswig-Holstein|61
 Tolleshunt Knights|51.799|0.777|GB|England|60
 Tolédougou|8.264|-4.582|CI|Vallée du Bandama District|60
 Toloriu|42.362|1.628|ES|Catalonia|60
+Tolaga Bay|-38.367|178.300|NZ|Gisborne|59
+Tollered|57.817|12.417|SE|Västra Götaland|59
+Toluca|15.029|-92.245|MX|Chiapas|59
+Tollered|57.950|12.100|SE|Västra Götaland|59
+Toll|-20.050|146.252|AU|Queensland|58
+Tolar|32.389|-97.921|US|Texas|58
+Tolbo Nuur|48.567|90.000|MN|Bayan-Ölgii Province|58|f
+Tolch Rock|58.415|-134.603|US|Alaska|58|f
+Toledo Suburban Airport|41.736|-83.653|US|Michigan|58|f
+Tolago|20.978|-98.728|MX|Hidalgo|58
+Tol-e Ashkī|29.074|51.127|IR|Bushehr|57
+Tolón|-7.297|-79.303|PE|Cajamarca Department|57
+Toledo|46.440|-122.847|US|Washington|57
+Tolmács|47.929|19.109|HU|Nógrád|57
+Tollakro|5.912|-4.944|CI|Lagunes District|57
+Tolosita|17.202|-95.051|MX|Oaxaca|57
+Toltecamila|17.962|-98.618|MX|Puebla|57
+Tolosa|22.521|-101.357|MX|Zacatecas|56
+Tolleterau|48.233|13.783|AT|Upper Austria|56
 Tolga|62.409|10.999|NO|Innlandet|56
+Toluquilla Buena Vista|18.746|-96.744|MX|Veracruz|56
+Tolè|44.330|11.060|IT|Emilia-Romagna|55
+Toledo Museum of Art|41.658|-83.560|US|Ohio|54|f
+Tolhuin Lago Fagnano Airport|-54.500|-67.174|AR|Tierra del Fuego|54|f
+Tolapa|18.740|-97.084|MX|Veracruz|54
+Toltepec|15.883|-96.454|MX|Oaxaca|54
+Tolken|57.783|13.250|SE|Västra Götaland|49|f
+Toll Creagach|57.309|-5.000|GB|Scotland|49|f
+Tollymore Park|54.217|-5.933|GB|Northern Ireland|49|f
+Tolsford Hill BT Tower|51.107|1.085|GB|England|49|f
 Tolbaños|40.752|-4.582|ES|Castille and León|41
+Toledo Bend Reservoir|32.008|-94.133|US|Texas|40|f
+Toledo Bridge|41.993|-92.591|US|Iowa|40|f
+Toledo Municipal Airport|41.993|-92.548|US|Iowa|40|f
+Toledo Zoo|41.619|-83.581|US|Ohio|40|f
+Tolicha Peak|37.269|-116.809|US|Nevada|40|f
+Tolley, Mount|-77.283|-143.117|AQ||40|f
+Tolmer Falls|-13.205|130.715|AU|Northern Territory|40|f
+Tolo Lake|45.915|-116.236|US|Idaho|40|f
+Tolowa Dunes State Park|41.797|-124.223|US|California|40|f
+Toluca Lake|34.146|-118.348|US|California|40|f
 Tolocirio|41.134|-4.651|ES|Castille and León|35
 Tollos|38.756|-0.275|ES|Valencia|30
 Tolbo|48.417|90.283|MN|Bayan-Ölgii Province|0
+Tolbuk Laok|-6.926|112.838|ID|East Java|0
 Toledo|7.013|-75.695|CO|Antioquia|0
 Toli|45.933|83.604|CN|Xinjiang|0
+Tolomango|-8.505|118.613|ID|West Nusa Tenggara|0
 Tolosa|11.100|125.017|PH|Eastern Visayas|0
+Tolotangga|-8.764|118.635|ID|West Nusa Tenggara|0
 Tolti|35.028|76.092|PK|Gilgit-Baltistan|0

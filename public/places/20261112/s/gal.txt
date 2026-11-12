@@ -1,5 +1,5 @@
 Galicia|42.755|-7.866|ES||128|r
-Galați County|45.750|27.750|RO||115|r
+Galați County|45.750|27.750|RO||116|r
 Galguduud|5.000|47.000|SO||109|r
 Galaţi|45.437|28.050|RO|Galați County|107
 Galle|6.046|80.210|LK|Southern Province|99
@@ -13,6 +13,8 @@ Gallatin|36.388|-86.447|US|Tennessee|91
 Galapagar|40.578|-4.004|ES|Madrid|90
 Galesburg|40.948|-90.371|US|Illinois|90
 Galdakao|43.231|-2.843|ES|Basque Country|89
+Galleria Borghese|41.914|12.492|IT|Lazio|89|f
+Gallaudet University|38.907|-76.994|US|District of Columbia|89|f
 Galt|38.255|-121.300|US|California|88
 G’allaorol Shahri|40.027|67.588|UZ|Jizzakh Region|88
 Gáldar|28.147|-15.650|ES|Canary Islands|88
@@ -29,8 +31,12 @@ Galich|58.379|42.346|RU|Kostroma Oblast|85
 Galappo|-4.267|35.850|TZ|Manyara|85
 Gálvez|-32.030|-61.221|AR|Santa Fe|85
 Galaat el Andeless|37.063|10.118|TN|Ariana Governorate|85
+Galveston Island|29.222|-94.909|US|Texas|85|f
+Galdhøpiggen|61.636|8.313|NO|Innlandet|84|f
 Galliate|45.479|8.698|IT|Piedmont|84
+Galleria dell'Accademia|43.777|11.259|IT|Tuscany|84|f
 Galanta|48.190|17.727|SK|Trnava Region|84
+Galway Bay|53.200|-9.230|IE|Connacht|83|f
 Galatone|40.147|18.069|IT|Apulia|83
 Galehdār|27.660|52.657|IR|Fars|83
 Galpadar|23.097|70.125|IN|Gujarat|82
@@ -41,8 +47,12 @@ Gällivare|67.134|20.653|SE|Norrbotten|80
 Galmūrtī|27.482|59.447|IR|Sistan and Baluchestan|80
 Galion|40.734|-82.790|US|Ohio|80
 Galashiels|55.615|-2.807|GB|Scotland|80
+Galway Airport|53.300|-8.941|IE|Connacht|80|f
 Galaxia Bonito Jalisco|20.505|-103.205|MX|Jalisco|79
+Galena Airport|64.736|-156.937|US|Alaska|79|f
+Galop Island|44.765|-75.400|US|New York|79|f
 Galela|1.823|127.789|ID|North Maluku|79
+Gallinara|44.026|8.227|IT||78|f
 Galmaarden|50.754|3.971|BE|Flanders|78
 Galkynyş|39.263|63.184|TM|Lebap|78
 Galliano|29.442|-90.299|US|Louisiana|78
@@ -54,20 +64,25 @@ Galūgāh|36.310|52.626|IR|Māzandarān|77
 Galiākot|23.520|74.020|IN|Rajasthan|77
 Galliera Veneta|45.667|11.822|IT|Veneto|77
 Gallneukirchen|48.354|14.416|AT|Upper Austria|76
+Galloo Islands|43.906|-76.416|US|New York|76|f
 Gália|-22.291|-49.553|BR|São Paulo|76
 Galiléia|-18.999|-41.538|BR|Minas Gerais|76
 Gălăneşti|47.917|25.800|RO|Suceava|76
 Galván|18.502|-71.343|DO|Baoruco Province|76
 Galaxia|22.341|114.202|HK|Wong Tai Sin District|76
+Galbraith Lake Airport|68.479|-149.490|US|Alaska|75|f
+Galegu Airport|12.533|35.067|SD|Sennar|75|f
 Galaxia la Noria|20.457|-103.419|MX|Jalisco|75
 Galegos|41.563|-8.572|PT|Braga|75
 Galoya Toucouleur|16.074|-13.859|SN|Saint-Louis|74
+Gällivare Lapland Airport|67.133|20.817|SE|Norrbotten|74|f
 Galten|56.159|9.917|DK|Central Jutland|74
 Galicea Mare|44.100|23.300|RO|Dolj|74
 Galda de Jos|46.183|23.617|RO|Alba County|74
 Galston|55.601|-4.382|GB|Scotland|73
 Galeville|43.090|-76.173|US|New York|73
 Galbiate|45.816|9.379|IT|Lombardy|73
+Galenstock|46.613|8.417|CH|Uri|72|f
 Galicea|44.917|24.283|RO|Vâlcea County|72
 Gălbinaşi|45.083|26.917|RO|Buzău County|72
 Gallicano nel Lazio|41.864|12.835|IT|Lazio|72
@@ -81,6 +96,9 @@ Galvão|-26.455|-52.686|BR|Santa Catarina|70
 Gălbinași|44.317|26.419|RO|Călărași County|70
 Gălăţeni|44.217|25.350|RO|Teleorman County|70
 Galatás|35.499|23.963|GR|Crete|70
+Galapagos Islands|0.000|-90.500|EC|Galápagos|70|f
+Galiuro Mountains|32.458|-110.245|US|Arizona|70|f
+Gallipoli Peninsula|40.333|26.500|TR|Canakkale|70|f
 Galston|-33.653|151.047|AU|New South Wales|70
 Galindo|20.397|-100.098|MX|Querétaro|70
 Galeana|20.035|-101.572|MX|Michoacán|69
@@ -91,6 +109,8 @@ Galaxia la Calera|18.999|-98.153|MX|Puebla|69
 Galzignano|45.308|11.731|IT|Veneto|69
 Gâlgău Almaşului|47.197|23.325|RO|Sălaj County|69
 Galateo|18.362|-66.259|PR|Toa Alta|69
+Galdeberget|61.381|8.442|NO|Innlandet|69|f
+Galveston Airport|40.585|-86.258|US|Indiana|69|f
 Galékro|5.685|-3.430|CI|Lagunes District|69
 Galgon|44.991|-0.272|FR|New Aquitaine|69
 Galgahévíz|47.617|19.567|HU|Pest County|68
@@ -107,6 +127,7 @@ Galgate|53.994|-2.792|GB|England|68
 Galeras|20.618|-100.157|MX|Querétaro|67
 Galta|45.391|12.023|IT|Veneto|67
 Galtellì|40.385|9.612|IT|Sardinia|67
+Gallops Island|42.326|-70.939|US|Massachusetts|67|f
 Galatás|37.496|23.449|GR|Attica|67
 Galiwinku|-12.028|135.565|AU|Northern Territory|67
 Galinhos|-5.091|-36.275|BR|Rio Grande do Norte|66
@@ -120,6 +141,11 @@ Galisteo|39.976|-6.268|ES|Extremadura|66
 Galșa|46.288|21.651|RO|Arad County|66
 Gallspach|48.210|13.810|AT|Upper Austria|66
 Galleh Manda|13.433|-14.783|GM|Central River|65
+Galbajavri,stuora|69.170|24.126|NO|Finnmark|65|f
+Galehead Mountain|44.185|-71.574|US|New Hampshire|65|f
+Galiano Island|48.931|-123.456|CA|British Columbia|65|f
+Gallatin Field Airport|45.777|-111.154|US|Montana|65|f
+Galya-tető|47.917|19.917|HU|Heves County|65|f
 Gâlâfi|11.716|41.836|DJ|Dikhil|65
 Galena|38.352|-85.942|US|Indiana|65
 Gal’bshtadt|53.227|78.987|RU|Altai Krai|65
@@ -133,6 +159,10 @@ Gallitzin|40.482|-78.552|US|Pennsylvania|64
 Galecio Narcia|16.588|-93.021|MX|Chiapas|64
 Galesville|44.082|-91.349|US|Wisconsin|64
 Gallese|42.374|12.396|IT|Lazio|64
+Galela Gamarmalamu Airport|1.838|127.787|ID|North Maluku|63|f
+Galichskoye Ozero|58.407|42.299|RU|Kostroma Oblast|63|f
+Gallant Lake|33.228|-87.180|US|Alabama|63|f
+Galveston Bay|29.570|-94.937|US|Texas|63|f
 Gallio|45.885|11.534|IT|Veneto|63
 Gałków Mały|51.726|19.714|PL|Łódź Voivodeship|63
 Galar|42.761|-1.699|ES|Navarre|63
@@ -148,6 +178,10 @@ Galébo|7.034|-4.923|CI|Lacs District|62
 Gales Ferry|41.430|-72.082|US|Connecticut|61
 Galeton|41.733|-77.642|US|Pennsylvania|61
 Galán|6.638|-73.289|CO|Santander Department|61
+Galdhøi|61.650|8.319|NO|Innlandet|61|f
+Gale Hills|36.239|-114.811|US|Nevada|61|f
+Galindez Island|-65.250|-64.248|AQ||61|f
+Galveston Causeway|29.297|-94.886|US|Texas|61|f
 Galera|37.743|-2.552|ES|Andalusia|61
 Galluis|48.797|1.794|FR|Île-de-France|61
 Galgagnano|45.358|9.445|IT|Lombardy|61
@@ -157,16 +191,95 @@ Galatás|38.357|21.562|GR|West Greece|60
 Galliano|44.017|11.294|IT|Tuscany|60
 Gălășești|44.956|24.786|RO|Arges|60
 Galoșpetreu|47.483|22.217|RO|Bihor County|60
+Galiakberovo|53.270|57.057|RU|Bashkortostan Republic|60
+Galūgāh|28.385|54.352|IR|Fars|60
+Gallikós|40.858|22.876|GR|Central Macedonia|60
 Galliate Lombardo|45.785|8.770|IT|Lombardy|60
+Gallignano|45.438|9.838|IT|Lombardy|59
+Gállos|35.347|24.452|GR|Crete|59
+Galatia|37.841|-88.609|US|Illinois|59
+Gałków Duży|51.736|19.725|PL|Łódź Voivodeship|59
+Galva|38.382|-97.538|US|Kansas|59
+Galeana|16.225|-92.001|MX|Chiapas|59
+Galbeni|46.742|26.843|RO|Bacău County|59
+Gallatin Gateway|45.592|-111.198|US|Montana|59
+Gallant|33.999|-86.245|US|Alabama|59
+Galiá|35.078|24.870|GR|Crete|59
+Galan|43.222|0.408|FR|Occitanie|58
 Gâlgău|47.282|23.702|RO|Sălaj County|58
 Galápagos|40.693|-3.335|ES|Castille-La Mancha|58
 Gallicchio|40.292|16.136|IT|Basilicate|58
+Galkinskoye|56.906|62.727|RU|Sverdlovsk Oblast|58
+Gallipolis Ferry|38.771|-82.199|US|West Virginia|58
+Galera de la Grulla|20.635|-101.633|MX|Guanajuato|58
+Gala|43.724|16.706|HR|Split-Dalmatia|58
+Gallmersgarten|49.450|10.267|DE|Bavaria|58
+Galata Bridge|41.020|28.973|TR|Istanbul|58|f
+Galata Tower|41.026|28.974|TR|Istanbul|58|f
+Galbraith Lake|68.459|-149.427|US|Alaska|58|f
+Galerie Régionale de Sicile|38.117|13.372|IT|Sicily|58|f
+Gallipolis Island|38.814|-82.192|US|West Virginia|58|f
+Gallon House Bridge|45.032|-122.799|US|Oregon|58|f
+Gallop Hill|42.253|-75.205|US|New York|58|f
+Galoa Island|-19.081|178.182|FJ||58|f
+Galtymore Mountain|52.366|-8.174|IE|Munster|58|f
 Galtür|46.967|10.183|AT|Tyrol|58
 Gallo Matese|41.465|14.225|IT|Campania|58
+Gällö|62.913|15.232|SE|Jämtland|58
+Gallbrunn|48.050|16.633|AT|Lower Austria|57
 Gallegos del Río|41.735|-6.174|ES|Castille and León|57
+Galekgatshwane|-24.519|25.808|BW|Kweneng|57
+Gallina|36.935|15.174|IT|Sicily|57
+Gallinal|-31.885|-57.480|UY|Paysandú Department|57
+Galena|40.215|-82.880|US|Ohio|57
+Galgovo|45.743|15.750|HR|Zagreb County|57
+Galinheiros|14.999|-24.444|CV|São Filipe|57
+Galesville|38.843|-76.544|US|Maryland|57
+Galáta|34.997|32.899|CY|Nicosia|57
+Galmsbüll|54.750|8.750|DE|Schleswig-Holstein|57
+Gals|47.028|7.052|CH|Bern|57
 Gallzein|47.368|11.772|AT|Tyrol|56
+Gālesh Kalām|37.208|50.250|IR|Gilan Province|56
+Gallaway|35.326|-89.616|US|Tennessee|56
+Galeras|18.244|-95.427|MX|Veracruz|56
+Galița|44.100|27.491|RO|Constanța County|56
+Galeana|21.291|-97.691|MX|Veracruz|56
+Galicija|46.299|15.196|SI|Municipality of Žalec|56
+Galmiz|46.949|7.158|CH|Fribourg|56
+Galder|51.515|4.776|NL|North Brabant|56
+Gal‘ed|32.557|35.076|IL|Northern District|56
+Gallito|-3.835|-73.154|PE|Loreto|56
+Galena|39.341|-75.879|US|Maryland|56
+Galleriano|45.963|13.124|IT|Friuli Venezia Giulia|56
+Galfingue|47.706|7.224|FR|Grand Est|55
+Galargues|43.771|4.022|FR|Occitanie|55
+Gallin|53.510|12.124|DE|Mecklenburg-Vorpommern|55
+Galilea|16.610|-92.510|MX|Chiapas|55
+Galeșu|45.272|24.764|RO|Arges|55
 Galindo y Perahuy|40.944|-5.874|ES|Castille and León|55
+Gällstad|57.667|13.433|SE|Västra Götaland|55
+Galien|41.798|-86.499|US|Michigan|55
 Galinduste|40.663|-5.540|ES|Castille and León|55
+Galleno|43.775|10.721|IT|Tuscany|54
+Gal Oya National Park|7.167|81.417|LK|Uva Province|54|f
+Galena Hill|39.472|-121.052|US|California|54|f
+Galesburg Municipal Airport|40.944|-90.430|US|Illinois|54|f
+Galion Municipal Airport|40.751|-82.725|US|Ohio|54|f
+Gallarus|52.172|-10.348|IE|Munster|54|f
+Galleria Barberini|41.903|12.490|IT|Lazio|54|f
+Galleria d'arte moderna|45.473|9.200|IT|Lombardy|54|f
+Gallo Lungo|40.582|14.435|IT|Campania|54|f
+Gallo Peak|34.637|-106.439|US|New Mexico|54|f
+Gallows Point|-64.323|-62.974|AQ||54|f
+Gallup Municipal Airport|35.514|-108.778|US|New Mexico|54|f
+Galpin Lake|44.897|-93.565|US|Minnesota|54|f
+Galtsjøen|61.888|11.740|NO|Innlandet|54|f
+Galty Mountains|52.364|-8.148|IE|Munster|54|f
+Galway Lake|43.031|-74.074|US|New York|54|f
+Gallo|40.942|14.545|IT|Campania|54
+Galliera|44.750|11.394|IT|Emilia-Romagna|54
+Găloiești|45.552|26.956|RO|Vrancea|54
+Gallese|45.224|11.332|IT|Veneto|54
 Galisancho|40.744|-5.555|ES|Castille and León|53
 Galena|36.805|-93.467|US|Missouri|52
 Gallodoro|37.902|15.294|IT|Sicily|52
@@ -174,7 +287,27 @@ Gallegos de Argañán|40.631|-6.702|ES|Castille and León|51
 Gallo|41.465|14.225|IT|Campania|50
 Galilea|42.347|-2.236|ES|La Rioja|50
 Gallizien|46.550|14.517|AT|Carinthia|49
+Gal Oya Dam|7.200|81.533|LK|Eastern Province|49|f
+Galabank|54.994|-3.262|GB|Scotland|49|f
+Galan Ridge|-73.189|-62.050|AQ||49|f
+Galata Museo del Mare|44.414|8.923|IT|Liguria|49|f
+Galatos Peak|-71.967|163.717|AQ||49|f
+Gale Peak|37.568|-119.388|US|California|49|f
+Gale Ridge|-83.689|-56.391|AQ||49|f
+Galen Peak|-64.382|-62.412|AQ||49|f
+Galena Peak|38.309|-105.869|US|Colorado|49|f
+Galenbecker See|53.624|13.735|DE|Mecklenburg-Vorpommern|49|f
+Gallagher Ridge|-77.467|162.817|AQ||49|f
+Gallatin Peak|45.368|-111.366|US|Montana|49|f
+Galleria dell'Arte Moderna|41.917|12.482|IT|Lazio|49|f
+Galleria Umberto I|40.838|14.249|IT|Campania|49|f
+Gallis Hill|41.956|-74.069|US|New York|49|f
+Galston Gorge|-33.665|151.076|AU|New South Wales|49|f
+Galt Island|26.516|-82.106|US|Florida|49|f
+Galten Islands|-66.383|56.433|AQ||49|f
+Galzig|47.133|10.233|AT|Tyrol|49|f
 Gallinaro|41.655|13.798|IT|Lazio|47
+Galenberg|50.433|7.200|DE|Rheinland-Pfalz|47
 Gallifa|41.692|2.113|ES|Catalonia|47
 Galliavola|45.098|8.819|IT|Lombardy|46
 Gallmannsegg|47.183|15.067|AT|Styria|46
@@ -184,19 +317,61 @@ Gallegos de Hornija|41.610|-5.098|ES|Castille and León|44
 Gallocanta|40.996|-1.508|ES|Aragon|43
 Galve|40.656|-0.882|ES|Aragon|43
 Galve de Sorbe|41.217|-3.183|ES|Castille-La Mancha|42
+Galaţi TV Tower|45.413|28.024|RO|Galați County|40|f
+Galbraith Mountain|48.693|-122.357|US|Washington|40|f
+Galehorn|46.222|7.983|CH|Valais|40|f
+Galena Bay|50.667|-117.852|CA|British Columbia|40|f
+Galena Island|67.878|-109.679|CA|Nunavut|40|f
+Galena Summit|43.871|-114.714|US|Idaho|40|f
+Galerie de Minéralogie et de Géologie|48.842|2.357|FR|Île-de-France|40|f
+Galerie Rudolfinum|50.090|14.415|CZ|Prague|40|f
+Galeries Royales Saint-Hubert|50.847|4.353|BE|Brussels Capital|40|f
+Galesville Reservoir|42.848|-123.172|US|Oregon|40|f
+Galinakopf|47.152|9.621|AT|Vorarlberg|40|f
+Galipeau Island|45.217|-80.200|CA|Ontario|40|f
+Galisteo Dam|35.462|-106.209|US|New Mexico|40|f
+Gallagher Cove|47.142|-122.979|US|Washington|40|f
+Gallagher-Iba Arena|36.126|-97.065|US|Oklahoma|40|f
+Gallaher Peak|-85.450|-138.300|AQ||40|f
+Gallant Lake|51.791|-100.903|CA|Manitoba|40|f
 Gallegos|41.075|-3.786|ES|Castille and León|40
+Galleria dell'Accademia|45.431|12.328|IT|Veneto|40|f
+Galleria Doria Pamphilj|41.898|12.482|IT|Lazio|40|f
+Galleria Sabauda|45.074|7.686|IT|Piedmont|40|f
+Gallerie dell'Accademia|45.431|12.328|IT|Veneto|40|f
+Gallia-Meigs Regional Airport|38.834|-82.162|US|Ohio|40|f
+Gallouwisteck|46.652|8.235|CH|Bern|40|f
+Gallows Pond|41.863|-70.614|US|Massachusetts|40|f
+Gallup Glacier|-85.150|-177.833|AQ||40|f
+Galmihorn|46.498|8.384|CH|Valais|40|f
+Galpharm Stadium|53.654|-1.768|GB|England|40|f
+Galt Island|45.300|-80.050|CA|Ontario|40|f
+Galtefjellet|-68.267|58.583|AQ||40|f
+Gältehore|46.346|7.334|CH|Valais|40|f
+Galveston Island Railroad Museum|29.307|-94.797|US|Texas|40|f
+Galveston Island State Park|29.205|-94.966|US|Texas|40|f
+Galway City Museum|53.270|-9.053|IE|Connacht|40|f
 Gallegos de Sobrinos|40.717|-5.112|ES|Castille and León|39
 Galbárruli|42.622|-2.961|ES|La Rioja|37
 Galluccio|41.352|13.954|IT|Campania|34
 Galbarros|42.527|-3.438|ES|Castille and León|30
 Gallinero de Cameros|42.172|-2.618|ES|La Rioja|27
+Gala|28.263|89.382|CN|Tibet|0
 Galanga|-12.063|15.138|AO|Huambo|0
 Galangue|-13.794|16.106|AO|Huíla|0
 Galaroza|37.929|-6.707|ES|Andalusia|0
 Galaz|34.544|-4.804|MA|Fes-Meknes|0
+Galenbeck|53.620|13.705|DE|Mecklenburg-Vorpommern|0
+Galengkou|35.699|102.227|CN|Qinghai|0
 Galera|0.817|-80.046|EC|Esmeraldas|0
 Galiciuica|44.103|23.391|RO|Dolj|0
 Galimuyod|17.184|120.472|PH|Ilocos|0
 Galis|-7.156|113.554|ID|East Java|0
+Galis|-6.967|113.221|ID|East Java|0
+Galis Dua|-7.113|113.644|ID|East Java|0
+Galtek|-7.073|114.029|ID|East Java|0
+Galubakul|-9.621|119.567|ID|East Nusa Tenggara|0
+Galuk|-7.110|111.487|ID|Central Java|0
+Galumpit|-7.212|106.623|ID|West Java|0
 Galunggalung|-3.489|118.896|ID|West Sulawesi|0
 Galutu|38.601|108.847|CN|Inner Mongolia|0

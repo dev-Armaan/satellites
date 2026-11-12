@@ -64,6 +64,7 @@ Pataskala|39.996|-82.674|US|Ohio|84
 Patong|7.896|98.297|TH|Phuket|83
 Pātan|23.286|79.690|IN|Madhya Pradesh|83
 Patrocínio Paulista|-20.639|-47.282|BR|São Paulo|83
+Pattle Island|16.534|111.608|VN|Da Nang City|83|f
 Pattensen|52.264|9.764|DE|Lower Saxony|83
 Pātan|17.375|73.901|IN|Maharashtra|83
 Pativilca|-10.700|-77.783|PE|Lima region|83
@@ -83,7 +84,9 @@ Patra|24.970|87.842|IN|Jharkhand|80
 Patti|38.147|14.964|IT|Sicily|79
 Pattanam|10.981|77.054|IN|Tamil Nadu|79
 Pattanam|11.473|78.211|IN|Tamil Nadu|79
+Pathein Airport|16.815|94.780|MM|Ayeyarwady|78|f
 Pâturages|50.407|3.855|BE|Wallonia|78
+Patos de Minas Airport|-18.673|-46.491|BR|Minas Gerais|78|f
 Patani|5.229|6.191|NG|Delta|77
 Patin-ay|8.551|125.937|PH|Caraga|77
 Patnanungan|14.783|122.183|PH|Calabarzon|77
@@ -108,6 +111,7 @@ Pātuli|23.553|88.265|IN|West Bengal|73
 Pătulele|44.345|22.773|RO|Mehedinți County|73
 Pătrăuţi|47.717|26.200|RO|Suceava|73
 Patillas|18.006|-66.016|PR|Patillas|73
+Pato Branco Airport|-26.218|-52.694|BR|Paraná|72|f
 Paterswolde|53.145|6.565|NL|Drenthe|71
 Paterna del Campo|37.419|-6.402|ES|Andalusia|71
 Pataliputra Housing Colony|25.627|85.107|IN|Bihar|71
@@ -123,6 +127,8 @@ Pato-o|12.430|122.066|PH|Mimaropa|69
 Paterno|40.375|15.735|IT|Basilicate|69
 Patique|10.237|122.899|PH|Western Visayas|69
 Patkovača|44.727|19.231|BA|Srpska|69
+Patapatani|-16.009|-68.420|BO|La Paz Department|69|f
+Patuxent Range|-84.716|-64.500|AQ||69|f
 Pătârlagele|45.321|26.361|RO|Buzău County|69
 Patpata Segundo|17.183|120.433|PH|Ilocos|68
 Patonan|10.568|123.472|PH|Western Visayas|68
@@ -132,10 +138,12 @@ Patria|11.740|122.017|PH|Western Visayas|68
 Paternoster|-32.810|17.891|ZA|Western Cape|67
 Pātāveh|30.955|51.269|IR|Kohgiluyeh and Boyer-Ahmad|67
 Patawag|8.106|122.621|PH|Zamboanga Peninsula|67
+Patéras Óros|38.111|23.328|GR|Attica|67|f
 Pata|17.715|121.502|PH|Cagayan Valley|67
 Patna|55.364|-4.506|GB|Scotland|67
 Patay|48.048|1.695|FR|Centre-Val de Loire|67
 Patindeguen|7.220|124.498|PH|Soccsksargen|66
+Pat Sin Range|22.486|114.229|HK||65|f
 Patrick Springs|36.642|-80.195|US|Virginia|65
 Patersdorf|49.017|12.983|DE|Bavaria|65
 Pat|23.541|75.917|IN|Madhya Pradesh|65
@@ -151,6 +159,9 @@ Patchchacan|18.401|-88.472|BZ|Corozal District|64
 Patrington|53.684|-0.013|GB|England|64
 Patsi|-12.156|44.437|KM|Anjouan|64
 Patù|39.841|18.338|IT|Apulia|63
+Patkai Bum|27.000|96.000|IN||63|f
+Patras Araxos Airport|38.151|21.426|GR|West Greece|63|f
+Patton Island|34.795|-87.650|US|Alabama|63|f
 Patosil|16.752|-92.741|MX|Chiapas|63
 Patumahoe|-37.183|174.833|NZ|Auckland|63
 Pateley Bridge|54.086|-1.760|GB|England|63
@@ -166,6 +177,11 @@ Patru Frați|44.737|26.471|RO|Ialomița County|61
 Patten|45.996|-68.446|US|Maine|61
 Patpāt|22.841|85.810|IN|Jharkhand|61
 Patambo|18.224|-100.874|MX|Guerrero|61
+Pathfinder Dam|42.468|-106.854|US|Wyoming|61|f
+Pathiramanal Island|9.619|76.385|IN|Kerala|61|f
+Patience Rocks|-67.750|-68.933|AQ||61|f
+Pątnowskie Lake|52.304|18.296|PL|Greater Poland|61|f
+Pattee Island|59.667|-80.433|CA|Nunavut|61|f
 Pathé|19.927|-99.839|MX|México|61
 Patskanovo|48.588|22.610|UA|Zakarpattia|61
 Patskanyovo|48.585|22.609|UA|Zakarpattia|61
@@ -173,25 +189,149 @@ Pătuleni|44.732|25.165|RO|Arges|61
 Patla|20.248|-97.853|MX|Puebla|61
 Patsch|47.205|11.415|AT|Tyrol|60
 Patzité|14.964|-91.208|GT|Quiché|60
+Patoltecoya|20.208|-98.031|MX|Puebla|60
+Pathhead|55.867|-2.967|GB|Scotland|60
+Pattish|31.328|34.559|IL|Southern District|60
+Pataparidougou|8.145|-4.293|CI|Vallée du Bandama District|59
+Patanou|7.431|-5.303|CI|Vallée du Bandama District|59
+Pata|4.617|-7.241|CI|Bas-Sassandra District|59
+Patagonia|31.540|-110.756|US|Arizona|59
+Paterson|-32.606|151.616|AU|New South Wales|59
+Patihuitz|16.739|-91.737|MX|Chiapas|59
+Pa Tang|13.535|106.977|KH|Ratanakiri|59
+Pătroaia Vale|44.727|25.231|RO|Dâmbovița County|59
+Patrickswell|52.597|-8.709|IE|Munster|59
+Patah Vīr|38.151|44.705|IR|West Azerbaijan|58
+Patim|14.873|-24.426|CV|São Filipe|58
+Patience Island|41.657|-71.359|US|Rhode Island|58|f
+Patos Island|48.784|-122.955|US|Washington|58|f
+Patriots Park|41.082|-73.858|US|New York|58|f
+Patvinsuon Kansallispuisto|63.108|30.687|FI|North Karelia|58|f
 Paterno Calabro|39.228|16.265|IT|Calabria|58
+Patria Nueva|16.180|-97.797|MX|Oaxaca|58
+Patlanoaya|18.499|-98.285|MX|Puebla|58
+Pativilca|-6.457|-79.666|PE|Lambayeque|58
+Pătaș|44.951|22.101|RO|Caraș-Severin County|58
+Patterson|31.387|-82.140|US|Georgia|58
+Patoka|38.407|-87.586|US|Indiana|57
+Patreksfjörður|65.598|-23.996|IS|Westfjords|57
+Paticajo|19.302|-104.153|MX|Colima|57
+Patton Village|40.141|-120.155|US|California|57
 Paternion|46.714|13.636|AT|Carinthia|57
+Pata de Mula de los Cedros (Patemula)|19.736|-100.106|MX|México|57
+Pateros|48.051|-119.903|US|Washington|56
+P’at’ara Lilo|41.745|44.907|GE|Tbilisi|56
+Patrimonio|42.698|9.363|FR|Corsica|56
+Pattishall|52.183|-1.021|GB|England|56
+Pathé|20.600|-99.701|MX|Querétaro|56
+Pato|7.331|-5.337|CI|Vallée du Bandama District|56
+Patiška Reka|41.800|21.317|MK|Sopište|56
+Patterson Heights|40.740|-80.329|US|Pennsylvania|56
+Patterson Springs|35.235|-81.515|US|North Carolina|56
+Pata|46.727|23.747|RO|Cluj County|56
+Patamea|-13.525|-172.307|WS|Gaga'emauga|56
+Patay|-11.310|-75.570|PE|Junin|56
+Patelná|17.239|-92.174|MX|Chiapas|56
+Patierno|40.658|14.452|IT|Campania|55
+Pátyod|47.869|22.619|HU|Szabolcs-Szatmár-Bereg|55
+Patoka|38.755|-89.095|US|Illinois|55
+Patatehel|17.172|-92.168|MX|Chiapas|55
+Patambarillo|20.133|-101.855|MX|Michoacán|55
+Patuzza|45.513|10.379|IT|Lombardy|55
+Patalpani|23.841|77.354|IN|Madhya Pradesh|55
+Patouliá|39.535|21.865|GR|Thessaly|55
 Pátmos|37.309|26.547|GR|South Aegean|55
+Pattison|29.825|-95.995|US|Texas|55
+Patarakaha|9.403|-5.627|CI|Savanes District|54
+Pátek|50.166|15.158|CZ|Central Bohemia|54
+Pat Mayse Lake|33.832|-95.601|US|Texas|54|f
+Pate Island|-2.111|41.061|KE|Lamu|54|f
+Patella Island|-63.129|-55.524|AQ||54|f
+Pathankot Air Force Station|32.234|75.635|IN|Punjab|54|f
+Patnos Barajı|39.273|42.894|TR|Ağrı|54|f
+Patreksfjordur Airport|65.556|-23.965|IS|Westfjords|54|f
+Patrick And Beatrice Haggerty Museum of Art|43.037|-87.928|US|Wisconsin|54|f
+Pattison Lake|46.995|-122.778|US|Washington|54|f
+Pattison State Park WP433 Dam|46.535|-92.122|US|Wisconsin|54|f
+Patuakhali Science and Technology University|22.464|90.383|BD|Barisal Division|54|f
+Pätzer Vordersee|52.233|13.654|DE|Brandenburg|54|f
+Patzig|54.465|13.396|DE|Mecklenburg-Vorpommern|54
 Paterna del Madera|38.598|-2.344|ES|Castille-La Mancha|54
 Patrica|41.591|13.244|IT|Lazio|53
 Patambuco|-14.360|-69.619|PE|Puno|53
+Patersberg|50.150|7.733|DE|Rheinland-Pfalz|53
 Pattigham|48.155|13.484|AT|Upper Austria|53
 Paterna del Río|37.022|-2.953|ES|Andalusia|52
 Patones|40.856|-3.485|ES|Madrid|52
+Patcha Point|-64.624|-62.113|AQ||49|f
+Paternostro Glacier|-69.400|158.617|AQ||49|f
+Paterson Islands|-67.530|63.178|AQ||49|f
+Patiala Airport|30.314|76.855|IN|Haryana|49|f
+Patio Island|-2.595|150.546|PG|New Ireland|49|f
+Patnanongan Island|14.796|122.186|PH|Calabarzon|49|f
+Paton Peak|-76.967|166.950|AQ||49|f
+Patrick Point|-73.467|66.850|AQ||49|f
+Patrick, Mount|-84.217|172.000|AQ||49|f
+Patroon Island Bridge|42.665|-73.729|US|New York|49|f
+Patteriol|47.050|10.183|AT|Tyrol|49|f
+Patterson Park|39.288|-76.579|US|Maryland|49|f
+Patton Glacier|-78.267|-85.417|AQ||49|f
+Patton Island|54.903|-162.142|US|Alaska|49|f
+Patung Pemuda Membangun|-6.229|106.799|ID|Jakarta|49|f
 Pataypampa|-14.177|-72.672|PE|Apurímac Department|48
 Patigno|44.353|9.763|IT|Tuscany|46
+Pat Pond|42.330|-75.170|US|New York|40|f
+Patagonia Lake|31.495|-110.859|US|Arizona|40|f
+Patagonia Mountains|31.416|-110.730|US|Arizona|40|f
+Patagonian Desert|-49.576|-68.351|AR|Santa Cruz|40|f
+Patara|36.262|29.315|TR|Antalya|40|f
+Patchogue Bay|40.742|-73.011|US|New York|40|f
+Patea Dam|-39.538|174.560|NZ|Taranaki Region|40|f
+Paterchurch Tower|51.693|-4.957|GB|Wales|40|f
+Paterson Field|32.382|-86.292|US|Alabama|40|f
+Paterson Inlet / Whaka a Te Wera|-46.917|168.050|NZ|Southland|40|f
+Paterson Lake|50.048|-125.655|CA|British Columbia|40|f
+Pathfinder National Wildlife Refuge|42.509|-106.960|US|Wyoming|40|f
+Pathfinder Reservoir|42.468|-106.854|US|Wyoming|40|f
+Patience Lake|52.117|-106.334|CA|Saskatchewan|40|f
+Patillas Airport|17.982|-66.022|PR|Patillas|40|f
+Patio De La Madera|-32.940|-60.669|AR||40|f
+Patoka Lake|38.411|-86.637|US|Indiana|40|f
+Patricia Bay|48.657|-123.462|CA|British Columbia|40|f
+Patricia Lake|52.902|-118.105|CA|Alberta|40|f
+Patricia Lake|45.879|-89.751|US|Wisconsin|40|f
+Pats Lake|43.972|-115.124|US|Idaho|40|f
+Patscherkofel|47.209|11.461|AT|Tyrol|40|f
+Patsy Klengenberg Island|68.168|-108.786|CA|Nunavut|40|f
+Patterson Island|77.052|-103.687|CA|Nunavut|40|f
+Patterson Lake|44.512|-63.875|CA|Nova Scotia|40|f
+Patterson Peak|-85.733|-155.983|AQ||40|f
+Patterson Peak|33.721|-107.731|US|New Mexico|40|f
+Patton Hill|33.735|-87.421|US|Alabama|40|f
+Pattullo Range|53.000|-126.587|CA|British Columbia|40|f
+Patuxent Research Refuge|39.057|-76.782|US|Maryland|40|f
+Patuxent River State Park|39.260|-77.081|US|Maryland|40|f
 Pa Tio|15.833|104.387|TH|Yasothon|0
+Pataha|-8.530|119.010|ID|West Nusa Tenggara|0
+Patala|-7.110|108.581|ID|West Java|0
+Patalan|-6.944|111.445|ID|Central Java|0
 Patan|35.110|73.008|PK|Khyber Pakhtunkhwa|0
+Patandun|-6.997|114.052|ID|East Java|0
+Patapan|-7.028|113.508|ID|East Java|0
+Pataruman|-7.197|107.991|ID|West Java|0
+Pataruman|-7.199|107.893|ID|West Java|0
+Patawang|-9.811|120.623|ID|East Nusa Tenggara|0
+Patemon|-8.152|113.454|ID|East Java|0
+Patenongan|-7.001|113.881|ID|East Java|0
 Pathio|10.709|99.318|TH|Chumphon|0
 Pathum Rat|15.634|103.343|TH|Roi Et|0
 Pathum Ratchawongsa|15.892|104.906|TH|Amnat Charoen|0
+Patia Kidul|-6.486|105.859|ID|Banten|0
 Patikul|6.089|121.105|PH|Autonomous Region in Muslim Mindanao|0
 Patimuan|-7.598|108.755|ID|Central Java|0
+Patingen Dua|-7.542|108.697|ID|West Java|0
 Patipi Pasir|-2.712|132.128|ID|West Papua|0
 Patquía|-30.047|-66.880|AR|La Rioja|0
 Patrang|-8.145|113.720|ID|East Java|0
 Patrick|54.204|-4.694|IM|Patrick|0
+Patrol|-7.110|108.107|ID|West Java|0

@@ -1,5 +1,5 @@
 Missouri|38.250|-92.500|US||132|r
-Mississippi|32.750|-89.750|US||124|r
+Mississippi|32.750|-89.750|US||125|r
 Misiones|-26.814|-54.344|AR||120|r
 Mississauga|43.579|-79.658|CA|Ontario|117
 Misratah|32.375|15.093|LY|Misratah|111
@@ -35,15 +35,20 @@ Mississippi Mills|45.233|-76.199|CA|Ontario|83
 Misasi|-3.000|33.083|TZ|Mwanza|83
 Misau|11.314|10.467|NG|Bauchi|83
 Missal|-25.092|-54.248|BR|Paraná|81
+Missoula International Airport|46.916|-114.091|US|Montana|80|f
+Miskan Island|29.485|48.251|KW|Al Asimah|80|f
 Mission|39.028|-94.656|US|Kansas|80
 Mishkino|55.338|63.915|RU|Kurgan Oblast|79
 Misión San Pablo|25.740|-100.144|MX|Nuevo León|78
+Miskolc Airport|48.138|20.790|HU|Borsod-Abaúj-Zemplén|78|f
 Mishelevka|52.858|103.172|RU|Irkutsk Oblast|78
 Misión de Chichimecas|21.290|-100.492|MX|Guanajuato|77
 Mistelbach|48.570|16.577|AT|Lower Austria|76
 Misasa|35.410|133.895|JP|Tottori|76
 Mistrató|5.296|-75.884|CO|Risaralda Department|76
 Mislīyah|17.460|42.557|SA|Jazan Region|76
+Misawa Air Base|40.703|141.368|JP|Aomori|75|f
+Mischabelhörner|46.095|7.862|CH|Valais|75|f
 Mishkino|54.000|59.106|RU|Bashkortostan Republic|75
 Missaglia|45.707|9.335|IT|Lombardy|75
 Mishkovo-Pohorilove|46.995|32.110|UA|Mykolaiv|75
@@ -54,17 +59,24 @@ Mission Bay|-36.855|174.832|NZ|Auckland|73
 Misano Adriatico|43.977|12.698|IT|Emilia-Romagna|73
 Misinto|45.661|9.081|IT|Lombardy|73
 Missillac|47.482|-2.159|FR|Pays de la Loire|72
+Missolonghi Lagoon|38.360|21.356|GR|West Greece|72|f
 Mistelgau|49.913|11.466|DE|Bavaria|72
 Misheronskiy|55.719|39.738|RU|Moscow Oblast|72
 Miskindzha|41.424|47.847|RU|Dagestan|71
 Mission Hills|39.018|-94.617|US|Kansas|71
 Mission Hills|34.686|-120.437|US|California|71
 Missidougou|8.561|-6.072|CI|Woroba|70
+Miseryfjellet|74.427|19.207|SJ|Svalbard|70|f
+Misti|-16.297|-71.411|PE|Arequipa|70|f
 Mistissini|50.418|-73.869|CA|Quebec|69
 Misano di Gera d'Adda|45.469|9.621|IT|Lombardy|69
+Mission Field|45.699|-110.449|US|Montana|69|f
 Missouri Valley|41.556|-95.888|US|Iowa|69
 Mission Canyon|34.451|-119.713|US|California|68
 Mismaloya (Fraccionamiento Pedregal de Santa Martha)|20.607|-103.171|MX|Jalisco|67
+Misaki Dam|35.283|140.357|JP|Chiba|67|f
+Mišnjak|42.759|17.831|HR|Dubrovnik-Neretva|67|f
+Mistake Island|44.475|-67.536|US|Maine|67|f
 Miserey-Salines|47.286|5.974|FR|Bourgogne-Franche-Comté|67
 Mislīyah|32.386|35.288|PS|West Bank|67
 Mislea|45.097|25.824|RO|Prahova|66
@@ -72,9 +84,16 @@ Mislesevo|41.185|20.709|MK|Struga|66
 Misérieux|45.974|4.813|FR|Auvergne-Rhône-Alpes|66
 Mislinja|46.441|15.200|SI|Municipality of Mislinja|65
 Misterton|53.445|-0.850|GB|England|65
+Misima Island|-10.671|152.729|PG|Milne Bay Province|65|f
+Misina|46.099|18.219|HU|Baranya|65|f
+Misool Island|-1.867|130.167|ID|Southwest Papua|65|f
 Mischii|44.383|23.850|RO|Dolj|65
 Mistley|51.943|1.083|GB|England|65
 Miske|46.446|19.033|HU|Bács-Kiskun|64
+Misakubo-damu|35.185|137.931|JP|Shizuoka|63|f
+Mishawaka Pilots Club Airport|41.658|-86.034|US|Indiana|63|f
+Misima Island Airport|-10.689|152.838|PG|Milne Bay Province|63|f
+Mission Bay|32.779|-117.234|US|California|63|f
 Missen-Wilhams|47.600|10.117|DE|Bavaria|63
 Misión Chaqueña|-23.261|-63.740|AR|Salta|63
 Mishicot|44.239|-87.641|US|Wisconsin|63
@@ -84,6 +103,11 @@ Missirikoro|8.507|-6.142|CI|Woroba|62
 Mission|43.306|-100.658|US|South Dakota|62
 Mistřice|49.087|17.536|CZ|Zlín|61
 Mișca|46.603|21.600|RO|Arad County|61
+Miskito Cays|14.381|-82.765|NI|North Caribbean Coast|61|f
+Mississippi Sound|30.267|-88.517|US|Mississippi|61|f
+Missouri Key|24.678|-81.238|US|Florida|61|f
+Missouri Mountain|38.947|-106.378|US|Colorado|61|f
+Mistake Peak|33.918|-111.167|US|Arizona|61|f
 Misija|17.266|-92.382|MX|Chiapas|61
 Mishmeret|32.227|34.919|IL|Central District|60
 Mission|45.670|-118.684|US|Oregon|60
@@ -91,8 +115,103 @@ Misentea|46.327|25.895|RO|Harghita County|60
 Mishmarot|32.488|34.986|IL|Haifa|60
 Mișca|47.263|22.259|RO|Bihor County|60
 Mishmar HaNegev|31.364|34.719|IL|Southern District|60
+Missiriac|47.836|-2.350|FR|Brittany|60
+Mishmar David|31.823|34.901|IL|Central District|60
+Misión de Arnedo|21.231|-100.252|MX|Guanajuato|59
+Mison|44.265|5.840|FR|Provence-Alpes-Côte d'Azur|59
+Mismaloya|20.160|-103.115|MX|Jalisco|59
+Missicab (La Pita)|17.833|-91.379|MX|Tabasco|59
+Misleanu|44.574|27.214|RO|Ialomița County|59
+Missé|46.948|-0.192|FR|New Aquitaine|59
+Mislea|44.840|25.335|RO|Dâmbovița County|58
+Mīshen|34.157|48.927|IR|Hamadan Province|58
+Misy-sur-Yonne|48.361|3.090|FR|Île-de-France|58
+Mishmar HaYarden|33.005|35.600|IL|Northern District|58
+Misano Monte|43.962|12.653|IT|Emilia-Romagna|58
+Miscoe Lake|42.008|-71.418|US|Massachusetts|58|f
+Mishaum Point|41.524|-70.954|US|Massachusetts|58|f
+Miska|32.217|34.933|IL|Central District|58|f
+Misnomer Point|-62.366|-59.688|AQ||58|f
+Mission Trails Regional Park|32.796|-117.037|US|California|58|f
+Mississippi River Dam|45.620|-94.204|US|Minnesota|58|f
+Missouri Botanical Garden|38.613|-90.259|US|Missouri|58|f
+Missouri Buttes|44.616|-104.775|US|Wyoming|58|f
+Misty Fjords National Monument|55.667|-130.667|US|Alaska|58|f
+Miškovci|45.003|17.797|BA|Srpska|58
+Misson|53.448|-0.966|GB|England|57
+Miskovice|49.946|15.205|CZ|Central Bohemia|57
+Mistorf|53.885|12.145|DE|Mecklenburg-Vorpommern|57
+Misgav Dov|31.819|34.740|IL|Central District|57
+Misenheimer|35.485|-80.288|US|North Carolina|57
+Mislinjska Dobrava|46.465|15.124|SI|Urban Municipality of Slovenj Gradec|57
+Missimahana|10.304|-7.418|CI|Denguélé District|57
+Misson|43.587|-0.961|FR|New Aquitaine|57
+Missy-sur-Aisne|49.387|3.436|FR|Hauts-de-France|57
+Misión del Mar 1ra. y 2da. Sección|32.303|-117.023|MX|Baja California|56
+Mis|46.154|12.087|IT|Veneto|56
+Mishmar HaSharon|32.357|34.903|IL|Central District|56
+Mistrovice|50.024|16.572|CZ|Pardubice Region|55
+Mishmar Ayyalon|31.871|34.941|IL|Central District|55
 Mischendorf|47.193|16.314|AT|Burgenland|55
+Mishqui|-9.259|-77.660|PE|Ancash|55
+Missy|49.120|-0.551|FR|Normandy|55
+Miscou|47.944|-64.571|CA|New Brunswick|54
 Missanello|40.283|16.166|IT|Basilicate|54
+Misnal Airport|-23.585|-68.384|CL|Antofagasta|54|f
+Misratah Airport|32.325|15.061|LY|Misratah|54|f
+Mission Dolores Park|37.760|-122.426|US|California|54|f
+Mission Point|34.312|-118.533|US|California|54|f
+Mississippi County Airport|36.846|-89.358|US|Missouri|54|f
+Mississippi Palisades State Park|42.138|-90.159|US|Illinois|54|f
+Missouri River Bridge|46.172|-111.444|US|Montana|54|f
+Missouri River Bridge|47.631|-108.685|US|Montana|54|f
+Misselwarden|53.675|8.516|DE|Lower Saxony|54
+Misciano|40.815|14.786|IT|Campania|54
+Miserey|49.021|1.270|FR|Normandy|54
+Miserden Castle|51.782|-2.083|GB|England|49|f
+Misery Peak|-85.517|-178.267|AQ||49|f
+Misje|60.451|4.956|NO|Vestland|49|f
+Missen Ridge|-70.683|166.400|AQ||49|f
+Mission Bay|-16.454|123.012|AU|Western Australia|49|f
+Mission Peak|37.512|-121.881|US|California|49|f
+Mississippi River Bridge|32.315|-90.906|US|Louisiana|49|f
+Mistake Peak|-77.433|160.217|AQ||49|f
+Mistaken Island|-35.063|117.945|AU|Western Australia|49|f
+Mistberget|60.374|11.157|NO|Akershus|49|f
+Mistral Ridge|-69.546|-68.064|AQ||49|f
+Misema Lake|48.215|-79.752|CA|Ontario|40|f
+Misery Bay|45.783|-82.733|CA|Ontario|40|f
+Misery Mountain|42.617|-73.308|US|Massachusetts|40|f
+Misquah Hills|47.983|-90.550|US|Minnesota|40|f
+Misselberg|50.307|7.769|DE|Rheinland-Pfalz|40
+Missinaibi Lake|48.357|-83.691|CA|Ontario|40|f
+Mission Concepcion|29.391|-98.474|US|Texas|40|f
+Mission House|-35.218|173.963|NZ|Northland|40|f
+Mission Stadium|29.393|-98.491|US|Texas|40|f
+Missisa Lake|52.312|-85.198|CA|Ontario|40|f
+Missisquoi National Wildlife Refuge|44.953|-73.179|US|Vermont|40|f
+Missisquoi River Bridge|44.997|-72.671|US|Vermont|40|f
+Mississagi Island|46.117|-83.000|CA|Ontario|40|f
+Mississagi Provincial Park|46.583|-82.700|CA|Ontario|40|f
+Mississagi River Provincial Park|47.000|-82.508|CA|Ontario|40|f
+Mississagua Lake|44.706|-78.321|CA|Ontario|40|f
+Mississinewa Lake Dam|40.708|-85.958|US|Indiana|40|f
+Mississippi Lake|45.065|-76.185|CA|Ontario|40|f
+Mississippi Museum of Art|32.296|-90.186|US|Mississippi|40|f
+Mississippi Museum of Natural Science|32.325|-90.157|US|Mississippi|40|f
+Mississippi National River and Recreation Area|44.772|-92.930|US|Minnesota|40|f
+Mississippi Sandhill Crane National Wildlife Refuge|30.474|-88.792|US|Mississippi|40|f
+Mississippi Veterans Memorial Stadium|32.330|-90.180|US|Mississippi|40|f
+Missouri River Headwaters State Park|45.921|-111.498|US|Montana|40|f
+Mist Mountain|50.555|-114.912|CA|Alberta|40|f
+Mistake Bay|62.151|-92.917|CA|Nunavut|40|f
+Mistaya Canyon|51.947|-116.713|CA|Alberta|40|f
+Mistaya Mountain|51.717|-116.586|CA|Alberta|40|f
+Misty Range|50.583|-114.952|CA|Alberta|40|f
 Mishan|45.528|131.840|CN|Heilongjiang|0
+Mishi|30.228|112.118|CN|Hubei|0
+Mishixiang|30.295|120.143|CN|Zhejiang|0
 Mishkino|55.533|55.963|RU|Bashkortostan Republic|0
+Mislak|-1.728|105.453|ID|Bangka–Belitung Islands|0
 Mismīyah|33.129|36.394|SY|Daraa|0
+Mistelbach|49.913|11.513|DE|Bavaria|0

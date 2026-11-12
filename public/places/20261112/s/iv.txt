@@ -10,6 +10,7 @@ Ivanteyevka|55.971|37.921|RU|Moscow Oblast|94
 Ivaiporã|-24.248|-51.685|BR|Paraná|90
 Ivoti|-29.591|-51.161|BR|Rio Grande do Sul|88
 Ivrea|45.467|7.876|IT|Piedmont|87
+Ivano-Frankivsk International Airport|48.884|24.686|UA|Ivano-Frankivsk|87|f
 Ivohibe|-22.483|46.883|MG|Ihorombe|87
 Ivatsevichi|52.708|25.335|BY|Brest|87
 Ives Estates|25.962|-80.177|US|Florida|86
@@ -39,6 +40,7 @@ Ivot|53.675|34.189|RU|Bryansk Oblast|76
 Ivano-Frankove|49.922|23.725|UA|Lviv|76
 Ivanteyevka|52.268|49.105|RU|Saratov Oblast|76
 İvrindi|39.584|27.486|TR|Balıkesir|76
+Ivujivik Airport|62.417|-77.925|CA|Quebec|75|f
 Ivoz-Ramet|50.588|5.466|BE|Wallonia|75
 Ivy City|38.911|-76.985|US|District of Columbia|74
 Ivankovo|45.289|18.684|HR|Vukovar-Srijem|74
@@ -61,6 +63,7 @@ Ivanopil|49.861|28.216|UA|Zhytomyr Oblast|69
 Ivanka pri Nitre|48.243|18.116|SK|Nitra Region|69
 Iváncsa|47.157|18.820|HU|Fejér|69
 Ivatuba|-23.619|-52.221|BR|Paraná|69
+Ivösjön|56.100|14.450|SE|Skåne|69|f
 Ivolândia|-16.602|-50.794|BR|Goiás|69
 Ivry-la-Bataille|48.883|1.459|FR|Normandy|69
 Ivanivka|46.975|30.469|UA|Odesa|68
@@ -79,6 +82,7 @@ Ivanja Reka|45.802|16.119|HR|Zagreb|65
 Ivanivs'ke|48.572|37.917|UA|Donetsk|65
 Ivanove|46.677|30.885|UA|Odesa|64
 Ivanivka|51.376|31.290|UA|Chernihiv Oblast|63
+Ivalo Airport|68.607|27.405|FI|Lapland|63|f
 Ivanopillya|48.473|37.763|UA|Donetsk|63
 Iverske|48.640|36.959|UA|Donetsk|63
 Ivana|20.370|121.915|PH|Cagayan Valley|63
@@ -92,15 +96,80 @@ Iva|34.306|-82.664|US|South Carolina|62
 Ivanivtsi|48.471|22.647|UA|Zakarpattia|62
 Iván|47.444|16.906|HU|Győr-Moson-Sopron|61
 Ivanovka|53.347|34.219|RU|Bryansk Oblast|61
+Ivanscica|46.181|16.127|HR|Varaždin|61|f
+Ivato International Airport|-18.797|47.479|MG|Analamanga|61|f
 Ivanivka|49.139|34.369|UA|Poltava|61
 Ivanovce|48.830|17.907|SK|Trenčín Region|61
 Ivyland|40.208|-75.073|US|Pennsylvania|60
 Īvand|38.349|46.117|IR|East Azerbaijan|60
 Ivanovo|43.686|25.956|BG|Ruse|60
 Ivankovci|41.849|21.820|MK|Veles|60
+Ivanivka|48.100|36.635|UA|Dnipropetrovsk|60
+Ivanjevci|41.206|21.359|MK|Mogila|60
+Ivenack|53.711|12.969|DE|Mecklenburg-Vorpommern|60
+Ivey|32.907|-83.291|US|Georgia|59
+Ivy|38.057|-78.597|US|Virginia|59
+Ivot|51.984|33.490|UA|Sumy|59
+Ivanovka|44.938|34.252|UA|Crimea|59
+Ivaneș|46.825|25.901|RO|Neamț County|59
+Ivanec Bistranski|45.847|15.831|HR|Zagreb County|59
+Ivalee|34.035|-86.145|US|Alabama|59
+Ivoy-le-Pré|47.345|2.486|FR|Centre-Val de Loire|59
+Ivanpah Mountains|35.374|-115.506|US|California|58|f
+Ives Peak|46.503|-121.447|US|Washington|58|f
+Ivano-Kepyne|47.042|32.853|UA|Mykolaiv|58
+Ivanaj|42.285|19.438|AL|Shkodër County|58
+Ivanovskoye|56.868|39.031|RU|Yaroslavl Oblast|58
+Ivanivka|49.534|32.850|UA|Poltava|58
+Ivanopil|49.478|28.203|UA|Vinnytsia|58
+Ivănețu|45.459|26.492|RO|Buzău County|57
+Ivaň|48.930|16.576|CZ|South Moravian|57
+Ivashky|49.595|34.406|UA|Poltava|57
+Ivanivka|47.891|31.127|UA|Mykolaiv|56
+Ivanivka|48.869|32.901|UA|Kirovohrad|56
+Ivry-le-Temple|49.229|2.031|FR|Hauts-de-France|56
+Ivánc|46.944|16.502|HU|Vas County|56
+Ívira|40.895|23.699|GR|Central Macedonia|56
+Ivăneasa|47.339|24.909|RO|Bistrița-Năsăud County|56
+Ivanovci Gorjanski|45.366|18.417|HR|County of Osijek-Baranja|55
+Ivanchanka|46.343|29.133|UA|Odesa|55
+Ivanivka|46.901|31.626|UA|Mykolaiv|55
 Ivanska|45.779|16.812|HR|Bjelovar-Bilogora|55
+Ivanove Selyshche|49.518|33.553|UA|Poltava|55
+Ivanhoe|36.840|-80.967|US|Virginia|55
 Ivanhoe|44.463|-96.247|US|Minnesota|55
+Ivanda|45.566|20.942|RO|Timiș County|55
+Ivgobahta|69.391|20.267|NO|Troms|55
+Iverny|49.001|2.789|FR|Île-de-France|55
+Ivănești|46.563|28.118|RO|Vaslui County|55
+Ivanivka|47.796|31.666|UA|Mykolaiv|54
+Ivan Planina|43.776|18.017|BA|Federation of B&H|54|f
+Ivanovo South Airport|56.939|40.941|RU|Ivanovo Oblast|54|f
+Ivanšćica|46.183|16.133|HR|Varaždin|54|f
+Ivory Pinnacles|-63.831|-59.165|AQ||54|f
+Ivriz Barajı|37.442|34.163|TR|Konya|54|f
+Ivrinezu Mare|44.230|28.066|RO|Constanța County|54
+Ivenrode|52.273|11.231|DE|Saxony-Anhalt|54
+Ivanovci Đakovački|45.370|18.409|HR|County of Osijek-Baranja|54
 Ivanovka|45.374|34.720|UA|Crimea|52
+Ivanoff Head|-66.883|109.117|AQ||49|f
+Ivenacker See|53.709|12.955|DE|Mecklenburg-Vorpommern|49|f
+Ives Tongue|-67.350|59.483|AQ||49|f
+Ivins Mountain|37.287|-113.006|US|Utah|49|f
+Ivuniryuaq|68.375|-110.887|CA|Nunavut|49|f
+Ivan Alexander Point|-62.344|-58.981|AQ||40|f
+Ivan Asen Point|-63.025|-62.512|AQ||40|f
+Ivan the Great Bell Tower|55.751|37.618|RU|Moscow|40|f
+Ivan Vladislav Point|-62.617|-61.233|AQ||40|f
+Ivanhoe Lake|48.083|-82.627|CA|Ontario|40|f
+Ivanhoe Lake Provincial Park|48.150|-82.533|CA|Ontario|40|f
+Ivington Camp|52.188|-2.758|GB|England|40|f
+Ivisa Island|65.967|-67.097|CA|Nunavut|40|f
+Ivisaat Island|62.709|-69.800|CA|Nunavut|40|f
+Ivory Island|52.274|-128.402|CA|British Columbia|40|f
+Ivory Tower|-85.467|-142.400|AQ||40|f
+İvriz Harabesi|37.414|34.172|TR|Konya|40|f
+Ivuniraarjuq Island|61.851|-92.533|CA|Nunavut|40|f
 Ivane-Puste|48.642|26.188|UA|Ternopil|0
 Ivanivka|49.278|25.824|UA|Ternopil|0
 Ivanjica|43.580|20.231|RS|Central Serbia|0
@@ -111,3 +180,4 @@ Ivanychi|50.636|24.356|UA|Volyn|0
 Ivars d'Urgell|41.680|0.987|ES|Catalonia|0
 Ivinhema|-22.301|-53.829|BR|Mato Grosso do Sul|0
 Ivorra|41.767|1.400|ES|Catalonia|0
+Ivychurch|51.013|0.889|GB|England|0

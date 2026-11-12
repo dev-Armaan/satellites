@@ -548,7 +548,266 @@ Khānīān|37.481|45.927|IR|East Azerbaijan|60
 Mehmāndār-e Soflá|37.058|46.123|IR|East Azerbaijan|60
 Dahaneh Sar-e Shījān|37.428|49.575|IR|Gilan Province|60
 Dūsh|37.388|46.137|IR|East Azerbaijan|60
+Qaţār Qū’ī|35.332|48.098|IR|Hamadan Province|60
+Fakhrābād|38.524|47.863|IR|Ardabil Province|60
+Jāmīshlū|35.246|48.976|IR|Hamadan Province|60
+Khachik|39.622|45.208|AM|Vayots Dzor|60
+Dowgūr|37.285|49.347|IR|Gilan Province|60
+Ashagy Aylis|38.931|45.990|AZ|Nakhchivan|60
+Chūlāb|37.262|49.880|IR|Gilan Province|60
+Qoltūq|36.496|48.070|IR|Zanjan|60
+Jīldān|37.389|49.843|IR|Gilan Province|60
+Navīdeh|37.265|49.735|IR|Gilan Province|60
+Lī Sarā|38.033|48.886|IR|Gilan Province|60
+Varqestān|35.396|49.010|IR|Hamadan Province|60
+Gīldīr|38.257|46.914|IR|East Azerbaijan|60
+Qareh Tappeh|37.016|46.117|IR|West Azerbaijan|60
+Doshtūr|38.564|47.497|IR|Ardabil Province|60
+Gūshkhānī|35.288|46.431|IR|Kurdistan Province|60
+Kārband|37.731|48.946|IR|Gilan Province|60
+Nārenjak|35.129|48.095|IR|Kurdistan Province|60
+Chapar Pord|37.446|49.709|IR|Gilan Province|60
+Bīd Gīneh|36.505|48.199|IR|Zanjan|60
+Mehmāndār|37.513|45.950|IR|East Azerbaijan|60
+Kyalakhan|38.647|48.340|AZ|Lerik District|59
+Fārsejīn|35.380|49.055|IR|Hamadan Province|59
+Yārījān-e Khāleşeh|37.043|46.004|IR|West Azerbaijan|59
+Ebrāhīmābād|35.821|49.872|IR|Qazvin Province|59
+Ḩājjī ‘Abdāl|37.983|46.457|IR|East Azerbaijan|59
+Mehdīlū|37.976|45.894|IR|East Azerbaijan|59
+Nah Neh Karān|38.371|48.522|IR|Ardabil Province|59
+Kechut|39.804|45.671|AM|Vayots Dzor|59
+Qohūrd-e ‘Olyā|35.440|48.074|IR|Hamadan Province|59
+Ebrāhīm Sarā|37.266|49.895|IR|Gilan Province|59
+Kolā Sar|38.343|48.538|IR|Ardabil Province|59
+Dīzaj-e Parvāneh|37.320|46.131|IR|East Azerbaijan|59
+Pīshkenār|37.139|49.713|IR|Gilan Province|59
+Ḩakān|35.445|49.133|IR|Hamadan Province|59
+Khazīneh Anbār-e Jadīd|37.120|46.036|IR|West Azerbaijan|59
+Arafsa|39.294|45.788|AZ|Nakhchivan|59
+Sarāy|37.861|45.564|IR|East Azerbaijan|59
+Shavand|35.375|49.210|IR|Hamadan Province|59
+Lonbar|37.743|48.523|IR|Ardabil Province|59
+Mollā Sarā|37.270|49.444|IR|Gilan Province|59
+Varnakesh|37.656|47.449|IR|East Azerbaijan|59
+Kalehkīn|36.739|45.135|IR|West Azerbaijan|59
+Kateh Sar|37.369|49.685|IR|Gilan Province|59
+Khot|39.444|46.337|AM|Syunik|59
+Bīmẕorteh|37.012|45.023|IR|West Azerbaijan|59
+Jīgheh|38.316|46.759|IR|East Azerbaijan|59
+Kafterūd|37.339|49.519|IR|Gilan Province|59
+Turshsu|39.688|46.643|AZ|Shusha|59
+Khormā Zard|37.418|46.164|IR|East Azerbaijan|59
+Golshan|37.453|49.651|IR|Gilan Province|59
+Barzaljīn|35.748|49.563|IR|Qazvin Province|59
+Shīt|36.978|48.699|IR|Zanjan|59
+Khāndān Qolī|35.695|47.421|IR|Kurdistan Province|59
+Kamand|38.112|46.457|IR|East Azerbaijan|59
+Parsbānej|35.474|49.388|IR|Qazvin Province|59
+Sarāgāh|37.819|48.876|IR|Gilan Province|59
+Kanzaq|38.147|48.112|IR|Ardabil Province|59
+Mārenj|35.072|47.136|IR|Kurdistan Province|59
+Tamchāl|37.310|49.958|IR|Gilan Province|59
+Sheykh Maḩalleh|37.877|48.906|IR|Gilan Province|59
+‘Abbāsābād|37.164|46.105|IR|East Azerbaijan|59
+Behdān|37.143|49.612|IR|Gilan Province|59
+Ersī|38.474|45.517|IR|East Azerbaijan|59
+Khesht-e Masjed|37.316|49.749|IR|Gilan Province|59
+Pārām|38.235|46.988|IR|East Azerbaijan|59
+Jefrūd-e Pā’īn|37.449|49.678|IR|Gilan Province|59
+Mollā Pīrī|36.392|48.040|IR|Zanjan|59
+Chargar|36.421|49.047|IR|Zanjan|59
+Shīzand|35.736|49.524|IR|Qazvin Province|59
+Kūshk|38.137|45.588|IR|East Azerbaijan|59
+Dākān|35.987|49.584|IR|Qazvin Province|59
+Nowjeh Deh|38.175|45.733|IR|East Azerbaijan|59
+Qal‘eh Khāleşeh|37.336|46.188|IR|East Azerbaijan|59
+Vartāqmīsh|35.570|48.629|IR|Hamadan Province|58
+Javāsh|38.403|45.840|IR|East Azerbaijan|58
+Qarah Tappeh-ye Sabalān|38.293|48.063|IR|Ardabil Province|58
+Kūrā’īm|37.955|48.236|IR|Ardabil Province|58
+Mīnaq|38.276|46.979|IR|East Azerbaijan|58
+Rāzeqān|35.330|49.953|IR|Markazi|58
+Sīnāb|37.929|46.897|IR|East Azerbaijan|58
+Ḩājjīābād|36.757|46.427|IR|West Azerbaijan|58
+Palangān|35.068|46.603|IR|Kurdistan Province|58
+Sheykhān|36.972|45.060|IR|West Azerbaijan|58
+Şūfīān|36.907|45.155|IR|West Azerbaijan|58
+Qārnā|36.925|45.309|IR|West Azerbaijan|58
+Moshīrān|38.681|47.539|IR|Ardabil Province|58
+Nebrīn|37.437|45.942|IR|East Azerbaijan|58
+Alvārsī|38.157|47.945|IR|Ardabil Province|58
+Senowkesh|37.475|46.240|IR|East Azerbaijan|58
+Chiva|39.767|45.136|AM|Vayots Dzor|58
+Ḩoseynābād-e Latkā|35.023|48.585|IR|Hamadan Province|58
+Maqşūdlū|38.266|47.026|IR|East Azerbaijan|58
+Ḩasanābād|37.040|46.097|IR|West Azerbaijan|58
+Nānesā’|37.431|45.925|IR|East Azerbaijan|58
+Shūrāb|38.552|45.001|IR|West Azerbaijan|58
+Sheykh Valī|38.229|45.411|IR|East Azerbaijan|58
+Zaglūjeh|37.796|46.910|IR|East Azerbaijan|58
+Āldāshīn|38.178|48.016|IR|Ardabil Province|58
+Deh Shams-e Bozorg|36.987|45.208|IR|West Azerbaijan|58
+Kalhor|37.687|47.352|IR|East Azerbaijan|58
+Fārfār|38.483|45.686|IR|East Azerbaijan|58
+Nīkūyeh|36.291|49.559|IR|Qazvin Province|58
+Chāllū|35.567|48.325|IR|Hamadan Province|58
+Qom Tappeh|38.217|46.014|IR|East Azerbaijan|58
+Tatev|39.386|46.245|AM|Syunik|58
+Karaglukh|39.893|45.268|AM|Vayots Dzor|58
+Khosrow Maḩalleh|38.313|48.845|IR|Gilan Province|58
+Līlāb|38.669|46.211|IR|East Azerbaijan|58
+Shīrāyeh|37.335|49.794|IR|Gilan Province|58
+Baraqū|35.277|46.486|IR|Kurdistan Province|58
+Artabuynk|39.867|45.328|AM|Vayots Dzor|58
+Jeyd|38.480|48.483|IR|Ardabil Province|58
+Rahnamā Maḩalleh|37.822|48.937|IR|Gilan Province|58
+Davechī-ye ‘Olyā|38.651|47.877|IR|Ardabil Province|58
+Gndevaz|39.761|45.622|AM|Vayots Dzor|58
+Khnatsakh|39.606|46.392|AM|Syunik|57
+Chūnchenān|37.437|49.853|IR|Gilan Province|57
+Zovenj|35.347|46.523|IR|Kurdistan Province|57
+Bāgh Daraq|38.626|45.047|IR|West Azerbaijan|57
+Qoţlū|37.507|45.138|IR|West Azerbaijan|57
+Artsvanik|39.263|46.474|AM|Syunik|57
+Gezelān|36.985|45.959|IR|West Azerbaijan|57
+Shaghat|39.568|45.906|AM|Syunik|57
+Harzhis|39.434|46.222|AM|Syunik|57
+Nowsher|37.366|49.779|IR|Gilan Province|57
+Sahandābād-e Soflá|36.777|47.543|IR|Zanjan|57
+Rūd Posht|37.374|49.806|IR|Gilan Province|57
+Gūrchīn|37.917|46.890|IR|East Azerbaijan|57
+Novīn|35.190|46.359|IR|Kurdistan Province|57
+Kofūd Mozhdeh|37.412|49.130|IR|Gilan Province|57
+Nāv|35.180|46.344|IR|Kurdistan Province|57
+Bījārehbīn|38.428|48.832|IR|Gilan Province|57
+Khvājeh Karī|37.814|48.929|IR|Gilan Province|57
+Pareh Vānlū|39.623|47.793|IR|Ardabil Province|57
+Ḩūrī|37.544|46.051|IR|East Azerbaijan|57
+Bābālū|38.140|48.859|IR|Gilan Province|57
+Bakandī|36.390|49.573|IR|Qazvin Province|57
+Pīsheh Var|37.323|49.689|IR|Gilan Province|57
+Vargeh Sarān|38.175|47.991|IR|Ardabil Province|57
+Jamā Kūh|37.839|48.934|IR|Gilan Province|57
+Ḩājjī Bekandeh|37.446|49.790|IR|Gilan Province|57
+Benīs|38.212|45.729|IR|East Azerbaijan|57
+Qojar|35.746|47.029|IR|Kurdistan Province|57
+Govāz|35.110|46.656|IR|Kurdistan Province|57
+Sārūjlū|35.612|48.892|IR|Hamadan Province|57
+Qeshlāq|37.773|45.871|IR|East Azerbaijan|57
+Hartashen|39.484|46.381|AM|Syunik|57
+Badamli|39.450|45.532|AZ|Nakhchivan|57
 Javān Qal‘eh|37.497|45.973|IR|East Azerbaijan|57
+Owlom|37.456|49.089|IR|Gilan Province|57
+Shangolābād|38.142|45.657|IR|East Azerbaijan|57
+Davit Bek|39.320|46.495|AM|Syunik|57
+Khāneqāh|37.323|46.198|IR|East Azerbaijan|57
+Jānbahān|37.908|46.821|IR|East Azerbaijan|57
+Beneh|39.080|47.991|IR|Ardabil Province|57
+Ganjgāh|37.709|48.258|IR|Ardabil Province|57
+Taleh Gerd|36.472|48.233|IR|Zanjan|57
+Eshmenān Ţālem|37.320|49.708|IR|Gilan Province|57
+Barāghūsh|38.095|47.225|IR|East Azerbaijan|57
+Āghcheh Masjed|36.806|46.475|IR|West Azerbaijan|57
+Shāhvāneh|37.078|45.127|IR|West Azerbaijan|57
+Ekīs|37.248|46.209|IR|East Azerbaijan|57
+Gond-e Vīlā|37.037|45.201|IR|West Azerbaijan|57
+Morādlū|38.747|47.748|IR|Ardabil Province|57
+Razāb|35.260|46.404|IR|Kurdistan Province|57
+Amīr Zakarīā|38.203|45.854|IR|East Azerbaijan|56
+Karābād|35.262|46.424|IR|Kurdistan Province|56
+Dadeh Beyglū|38.556|47.837|IR|Ardabil Province|56
+Majīdābād|36.231|48.599|IR|Zanjan|56
+Tūprāq Kandī|39.552|47.662|IR|Ardabil Province|56
+Qūrūq|35.026|47.063|IR|Kurdistan Province|56
+Fārāb|37.727|48.304|IR|Ardabil Province|56
+Torp|38.349|46.163|IR|East Azerbaijan|56
+Sorkheh Tūt|35.119|46.557|IR|Kurdistan Province|56
+Syunik|39.202|46.472|AM|Syunik|56
+Sīser|36.246|45.617|IR|West Azerbaijan|56
+Bārān Dūz|37.406|45.092|IR|West Azerbaijan|56
+Lomeh Daraq|39.081|47.395|IR|East Azerbaijan|56
+Kāvand|36.610|48.150|IR|Zanjan|56
+Khalvat|36.846|46.375|IR|West Azerbaijan|56
+Haft Cheshmeh|38.189|45.466|IR|East Azerbaijan|56
+Chap Darreh|36.356|47.055|IR|West Azerbaijan|56
+Tajaraq|37.522|46.104|IR|East Azerbaijan|56
+Gīleh Sarā|37.387|49.126|IR|Gilan Province|56
+Khāk Mardān|38.394|45.078|IR|West Azerbaijan|56
+Marakān|38.850|45.259|IR|West Azerbaijan|56
+Mīāb|38.701|45.802|IR|East Azerbaijan|56
+Halidzor|39.412|46.296|AM|Syunik|56
+Pālāsī|38.196|48.873|IR|Gilan Province|56
+Kalāntar|39.067|47.332|IR|East Azerbaijan|56
+Rāsteh Kenār|37.334|49.557|IR|Gilan Province|56
+Amīnābād|37.443|49.808|IR|Gilan Province|56
+Ājī Būzāyeh|37.345|49.772|IR|Gilan Province|56
+Mardīlū|39.062|47.493|IR|East Azerbaijan|56
+Ḩasan Nūrān|37.005|45.213|IR|West Azerbaijan|55
+Şāḩeb Dīvān|38.510|47.528|IR|Ardabil Province|55
+Herher|39.775|45.542|AM|Vayots Dzor|55
+Zangelān-e Pā’īn|38.858|45.133|IR|West Azerbaijan|55
+Deh Sar|37.349|49.942|IR|Gilan Province|55
+Zarzar|36.288|48.443|IR|Zanjan|55
+Majīdābād|39.635|47.953|IR|Ardabil Province|55
+Māẕīben|35.221|46.465|IR|Kurdistan Province|55
+Ardalān|38.019|47.233|IR|East Azerbaijan|55
+Jīrhandeh|37.334|49.863|IR|Gilan Province|55
+Shānejān|38.226|45.715|IR|East Azerbaijan|55
+Anūsh Maḩalleh|37.813|48.922|IR|Gilan Province|55
+Oshnūzang|36.764|45.237|IR|West Azerbaijan|55
+Jīrsar-e Vīshkā|37.362|49.738|IR|Gilan Province|55
+Lemīr|38.230|48.886|IR|Gilan Province|55
+Qarābā|37.462|49.271|IR|Gilan Province|55
+Āq Kand-e Qareh Kheẕer|37.040|46.145|IR|West Azerbaijan|55
+Kānī Sorkh|37.019|45.051|IR|West Azerbaijan|55
+Nasanār|35.174|46.567|IR|Kurdistan Province|55
+Nokhvodābād|37.383|46.642|IR|East Azerbaijan|55
+Māsūleh|37.155|48.990|IR|Gilan Province|55
+Līmū Chāh|37.327|49.806|IR|Gilan Province|55
+Dānālū|37.486|45.842|IR|East Azerbaijan|55
+Āq Gonbad|37.816|45.423|IR|East Azerbaijan|55
+Bozveh|37.509|45.029|IR|West Azerbaijan|55
+Akhlatyan|39.439|46.042|AM|Syunik|55
+Ţalā Tappeh|37.720|45.180|IR|West Azerbaijan|55
+‘Alalūlū|39.042|47.358|IR|East Azerbaijan|55
+Allāh Verdī Kandī|38.842|45.092|IR|West Azerbaijan|55
+Forshom|37.345|49.760|IR|Gilan Province|55
+Bārāzlu|37.542|46.151|IR|East Azerbaijan|55
+Zangī|38.184|45.883|IR|East Azerbaijan|55
+Tāzeh Kand-e Khān Kandī|37.159|46.072|IR|East Azerbaijan|55
+Sībon|36.821|49.739|IR|Gilan Province|55
+Chālekash-e Lāt|37.407|49.893|IR|Gilan Province|55
+‘Āsheqlū|38.987|46.700|IR|East Azerbaijan|55
+Seyyed Maḩalleh|38.083|48.880|IR|Gilan Province|55
+Sharānlū|37.157|46.026|IR|East Azerbaijan|55
+Şadāqeh|37.557|45.121|IR|West Azerbaijan|55
+‘Alī Sarā|37.311|49.702|IR|Gilan Province|55
+Dūzāl|38.860|46.229|IR|East Azerbaijan|55
+Anbūh|36.663|49.993|IR|Gilan Province|55
+Bū’īn|37.191|49.340|IR|Gilan Province|54
+Darbas|39.439|46.127|AM|Syunik|54
+Azatek|39.650|45.439|AM|Vayots Dzor|54
+Sārīmsāqlū|36.760|48.370|IR|Zanjan|54
+Kolālū|38.330|48.514|IR|Ardabil Province|54
+Jūqān-e Kūchak|37.779|46.777|IR|East Azerbaijan|54
+Farrokh Bolāgh|35.234|48.479|IR|Hamadan Province|54
+Ghelmānsarāy|38.303|45.118|IR|East Azerbaijan|54
+Āghājerī|37.438|46.420|IR|East Azerbaijan|54
+Vaghatin|39.505|46.120|AM|Syunik|54
+Māzāfā|38.696|47.709|IR|Ardabil Province|54
+Moshend|38.393|48.693|IR|Gilan Province|54
+Qolī Kandī|37.195|46.162|IR|East Azerbaijan|54
+Nowjeh Mehr|38.839|46.224|IR|East Azerbaijan|54
+Morādlū|39.282|48.139|IR|Ardabil Province|54
+Shekār Sarā|37.316|49.713|IR|Gilan Province|54
+Bāgh-e Amīr Bekandeh|37.444|49.753|IR|Gilan Province|54
+Dastjerd|37.634|47.471|IR|East Azerbaijan|54
+Khndzorut|39.553|45.405|AM|Vayots Dzor|54
+Vīshkā-ye Bālā Maḩalleh|37.335|49.736|IR|Gilan Province|54
+Lombar|38.551|47.892|IR|Ardabil Province|54
+Mīrrānaq|38.481|48.509|IR|Ardabil Province|54
+Malhaz̄ān|38.652|45.086|IR|West Azerbaijan|52
 Āvaj|35.580|49.223|IR|Qazvin Province|0
 Chwarta|35.721|45.571|IQ|Sulaymaniyah|0
 Dehgolān|35.278|47.418|IR|Kurdistan Province|0

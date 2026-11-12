@@ -109,19 +109,35 @@ Florida ( Pomacochas)|-5.826|-77.970|PE|Amazonas|71
 Papaplaya|-6.209|-75.782|PE|San Martín Department|62
 San Pablo de Pillao|-9.787|-75.999|PE|Huánuco Department|61
 Pinto Recodo|-6.379|-76.604|PE|San Martín Department|61
+Cultambo|-7.333|-79.429|PE|La Libertad|60
+La Soledad|-8.028|-77.474|PE|La Libertad|60
 Sondor|-5.315|-79.411|PE|Piura|60
 Challas|-8.439|-77.324|PE|La Libertad|60
+Santa Isabel|-6.483|-79.964|PE|Lambayeque|60
 San Pablo|-6.808|-76.573|PE|San Martín Department|60
 Chavin de Pariarca|-9.423|-76.771|PE|Huánuco Department|60
 Colasay|-5.979|-79.069|PE|Cajamarca Department|60
 Yamango|-5.181|-79.751|PE|Piura|60
+Buena Vista|-8.480|-78.633|PE|La Libertad|60
 Llama|-6.515|-79.120|PE|Cajamarca Department|60
+San Vicente de Paúl|-7.005|-77.923|PE|La Libertad|60
 Usquil|-7.816|-78.419|PE|La Libertad|60
 Longar|-6.385|-77.546|PE|Amazonas|60
+La Pareja|-5.310|-79.735|PE|Piura|60
 Shilla|-9.231|-77.626|PE|Ancash|59
+Las Palmas|-6.527|-76.343|PE|San Martín Department|59
+Arahuante|-5.311|-75.725|PE|Loreto|59
 Asunción|-7.323|-78.519|PE|Cajamarca Department|59
 Ranrahirca|-9.173|-77.723|PE|Ancash|59
+Utao|-9.761|-76.213|PE|Huánuco Department|59
+Pacayhua|-9.990|-76.529|PE|Huánuco Department|59
+Mariscal Benavides|-6.387|-77.504|PE|Amazonas|59
+Cochabamba|-9.786|-76.160|PE|Huánuco Department|59
 Ledoy|-7.129|-76.649|PE|San Martín Department|59
+Huaja|-6.599|-76.738|PE|San Martín Department|59
+Mocán|-7.657|-79.241|PE|La Libertad|59
+Yanas|-9.159|-76.798|PE|Ancash|59
+Vilcabamba|-9.785|-76.177|PE|Huánuco Department|59
 Pajarillo|-7.179|-76.688|PE|San Martín Department|59
 San Juan|-7.292|-78.498|PE|Cajamarca Department|59
 Parcoy|-8.035|-77.482|PE|La Libertad|59
@@ -129,92 +145,282 @@ Querocotillo|-6.274|-79.038|PE|Cajamarca Department|59
 Sallique|-5.657|-79.316|PE|Cajamarca Department|59
 Yanas|-9.715|-76.749|PE|Huánuco Department|59
 Huacapampa|-6.925|-78.133|PE|Cajamarca Department|59
+Tumpa|-9.174|-77.666|PE|Ancash|59
+Salamanca|-7.821|-79.274|PE|La Libertad|59
+Pachachupan|-9.789|-76.102|PE|Huánuco Department|59
 Canchaque|-5.376|-79.610|PE|Piura|59
+Codo del Pozuzo|-9.673|-75.462|PE|Huánuco Department|59
 Paucas|-9.152|-76.898|PE|Ancash|59
+La Raya|-6.518|-79.836|PE|Lambayeque|59
 Sitabamba|-8.023|-77.732|PE|La Libertad|59
 Acopampa|-9.294|-77.626|PE|Ancash|59
+Santa Cruz|-6.615|-76.727|PE|San Martín Department|59
 Huántar|-9.452|-77.175|PE|Ancash|59
 La Pampa|-8.662|-77.901|PE|Ancash|59
+Yumbatos|-6.320|-76.298|PE|San Martín Department|59
+Mariscal Castilla|-7.299|-79.408|PE|La Libertad|59
 Aija|-9.781|-77.610|PE|Ancash|59
+Bambamarca|-7.441|-77.695|PE|La Libertad|58
 Chuquis|-9.677|-76.705|PE|Huánuco Department|58
+Las Canteras|-6.719|-79.598|PE|Lambayeque|58
 Uco|-9.188|-76.928|PE|Ancash|58
 Huacachi|-9.316|-76.936|PE|Ancash|58
+Santa Cruz|-8.554|-76.283|PE|San Martín Department|58
+Cerrillo|-7.127|-78.489|PE|Cajamarca Department|58
+Villa El Milagro|-6.898|-79.843|PE|Lambayeque|58
+Sunchubamba|-7.478|-78.396|PE|Cajamarca Department|58
 Simbal|-7.976|-78.813|PE|La Libertad|58
+Urpay|-7.796|-78.079|PE|La Libertad|58
 Huancas|-6.174|-77.865|PE|Amazonas|58
 Yauyucán|-6.677|-78.819|PE|Cajamarca Department|58
 Rapayan|-9.205|-76.761|PE|Ancash|58
+Capachique|-7.875|-78.307|PE|La Libertad|58
+Mariátegui|-6.710|-79.858|PE|Lambayeque|58
+Dos de Mayo|-7.184|-77.057|PE|San Martín Department|58
+Alto Perú|-8.948|-78.580|PE|Ancash|58
+Pueblo Nuevo|-5.238|-79.991|PE|Piura|58
+Ucrania|-5.946|-77.282|PE|San Martín Department|58
 Buenos Aires|-6.794|-76.327|PE|San Martín Department|58
 Las Pirias|-5.627|-78.853|PE|Cajamarca Department|58
 Chalamarca|-6.503|-78.480|PE|Cajamarca Department|58
 Pólvora|-7.908|-76.671|PE|San Martín Department|58
 Pucayacu|-8.750|-76.121|PE|Huánuco Department|58
+Alto Perú|-6.299|-77.098|PE|San Martín Department|58
+Nuevo Reque|-6.880|-79.815|PE|Lambayeque|58
+Cucho|-9.895|-76.019|PE|Huánuco Department|58
+Masanca|-7.376|-79.478|PE|La Libertad|58
+Trita|-6.147|-78.013|PE|Amazonas|58
+Angaiza|-5.819|-77.388|PE|San Martín Department|58
+Juzgara|-5.293|-79.475|PE|Piura|58
+La Florida|-5.949|-77.342|PE|San Martín Department|58
+La Traposa|-6.423|-79.574|PE|Lambayeque|58
 Zapatero|-6.531|-76.491|PE|San Martín Department|58
 Sayapullo|-7.596|-78.468|PE|La Libertad|58
 Matará|-7.255|-78.260|PE|Cajamarca Department|58
+Pativilca|-6.457|-79.666|PE|Lambayeque|58
 Poroto|-8.011|-78.768|PE|La Libertad|58
+Dos de Mayo|-6.717|-77.801|PE|Amazonas|58
+Linderos|-5.691|-78.801|PE|Cajamarca Department|58
+Sion|-7.666|-76.787|PE|San Martín Department|58
+Inguer|-6.246|-79.069|PE|Cajamarca Department|57
+Nuevo Celedin|-6.586|-76.537|PE|San Martín Department|57
+Nueva Vida|-5.552|-76.693|PE|Loreto|57
+Viscas|-9.145|-76.841|PE|Ancash|57
+Chosgón|-5.930|-78.009|PE|Amazonas|57
+Huasicaj|-6.220|-79.295|PE|Lambayeque|57
+San Roque de Cumbaza|-6.386|-76.436|PE|San Martín Department|57
 Aricapampa|-7.806|-77.720|PE|La Libertad|57
 Huachis|-9.410|-77.100|PE|Ancash|57
+Quispe|-6.210|-78.286|PE|Amazonas|57
+Cayumba|-9.483|-75.948|PE|Huánuco Department|57
 Huabal|-5.613|-78.900|PE|Cajamarca Department|57
 Llapa|-6.980|-78.807|PE|Cajamarca Department|57
 Amashca|-9.239|-77.646|PE|Ancash|57
+Singo|-5.285|-79.482|PE|Piura|57
 Chingas|-9.119|-76.992|PE|Ancash|57
+Pallar Alto|-7.756|-77.906|PE|La Libertad|57
+Tolón|-7.297|-79.303|PE|Cajamarca Department|57
 Chimbán|-6.252|-78.478|PE|Cajamarca Department|57
+Sarín|-7.912|-77.905|PE|La Libertad|57
+La Viña|-6.371|-79.764|PE|Lambayeque|57
+Pacherrez|-6.778|-79.526|PE|Lambayeque|57
+La Colorada|-6.493|-79.998|PE|Lambayeque|57
 Catache|-6.674|-79.033|PE|Cajamarca Department|57
+Salala|-5.112|-79.465|PE|Piura|57
+Caracucho|-6.480|-79.950|PE|Lambayeque|57
 Sorochuco|-6.912|-78.255|PE|Cajamarca Department|57
 Huandoval|-8.331|-77.975|PE|Ancash|57
+La Portada de la Sierra|-7.338|-79.384|PE|La Libertad|57
 Rondos|-9.984|-76.689|PE|Huánuco Department|57
 Salpo|-8.005|-78.606|PE|La Libertad|57
 Mache|-8.030|-78.535|PE|La Libertad|57
+Vista Alegre|-7.356|-78.549|PE|Cajamarca Department|57
+Leoncio Prado|-6.984|-76.259|PE|San Martín Department|57
+San Lorenzo|-5.540|-78.823|PE|Cajamarca Department|57
+Los Angeles|-5.937|-77.013|PE|San Martín Department|57
+Hatumplaya|-5.852|-77.238|PE|San Martín Department|57
+Huanchuy|-9.361|-78.154|PE|Ancash|57
 Magdalena|-6.373|-77.902|PE|Amazonas|57
+Cachinche|-6.522|-79.808|PE|Lambayeque|57
+Cullashpampa|-9.014|-77.810|PE|Ancash|57
+Tranca Sasape|-6.493|-79.939|PE|Lambayeque|57
 Yupán|-8.615|-77.969|PE|Ancash|57
+Zapotal|-5.398|-78.705|PE|Cajamarca Department|57
+Acobamba|-9.144|-77.741|PE|Ancash|57
+Pampas del Carmen|-9.579|-76.796|PE|Huánuco Department|57
+Barraza|-8.111|-78.972|PE|La Libertad|57
+Menocucho|-8.023|-78.839|PE|La Libertad|57
 Huambo|-6.429|-77.538|PE|Amazonas|57
+Nauta|-6.655|-76.731|PE|San Martín Department|57
 Llapo|-8.514|-78.042|PE|Ancash|57
+Macuaco|-6.802|-79.238|PE|Lambayeque|57
+Insculas|-5.756|-79.859|PE|Lambayeque|57
 Tingo de Saposoa|-7.094|-76.642|PE|San Martín Department|57
+Ciudad De Dios|-7.304|-79.477|PE|La Libertad|56
 San Cristobal de Jacas Chico|-9.886|-76.503|PE|Huánuco Department|56
+Macabí Alto|-7.716|-79.369|PE|La Libertad|56
+Naranjitos|-5.818|-78.276|PE|Amazonas|56
 Cospán|-7.427|-78.542|PE|Cajamarca Department|56
+Santo Domingo|-8.105|-78.911|PE|La Libertad|56
+Chapaya|-5.188|-79.426|PE|Piura|56
 Yambrasbamba|-5.736|-77.925|PE|Amazonas|56
+Otuto|-7.516|-78.069|PE|Cajamarca Department|56
+Chuco|-7.325|-78.090|PE|Cajamarca Department|56
+Canelos|-7.059|-75.112|PE|Loreto|56
+Pona Alta|-5.898|-78.364|PE|Amazonas|56
+Colaya|-6.084|-79.509|PE|Lambayeque|56
 Mirgas|-9.079|-77.093|PE|Ancash|56
+Costa Rica|-7.271|-76.673|PE|San Martín Department|56
 La Morada|-8.791|-76.249|PE|Huánuco Department|56
 Lucma|-7.641|-78.551|PE|La Libertad|56
+Solecape|-6.593|-79.935|PE|Lambayeque|56
+Monte Hermoso|-6.470|-79.957|PE|Lambayeque|56
+Tutumberos|-5.342|-78.446|PE|Amazonas|56
 Llacanora|-7.194|-78.427|PE|Cajamarca Department|56
+Chavin|-9.432|-77.535|PE|Ancash|56
+Miraflores|-5.910|-77.369|PE|San Martín Department|56
+Monte Bello|-6.165|-75.167|PE|Loreto|56
 Incahuasi|-6.237|-79.315|PE|Lambayeque|56
+La Victoria|-7.135|-76.742|PE|San Martín Department|56
+Soledad|-5.661|-76.575|PE|Loreto|56
+Mayas|-8.270|-77.662|PE|Ancash|56
+Palo Blanco|-5.402|-79.806|PE|Piura|56
+Cruz Pampa|-9.712|-76.773|PE|Huánuco Department|56
 Niepos|-6.927|-79.129|PE|Cajamarca Department|56
 Cauday|-7.574|-78.070|PE|Cajamarca Department|56
+Maya|-9.288|-77.678|PE|Ancash|56
+Quillupampa|-8.188|-78.053|PE|La Libertad|56
+Tamboya|-5.166|-79.777|PE|Piura|56
+Dos Unidos|-7.179|-76.513|PE|San Martín Department|56
+Hualcán|-9.256|-77.614|PE|Ancash|56
 Collonce|-6.283|-78.211|PE|Amazonas|56
+Parrapos|-7.779|-78.769|PE|La Libertad|56
 Quiches|-8.395|-77.491|PE|Ancash|56
+Querobal|-7.841|-77.935|PE|La Libertad|56
 Shirac|-7.349|-78.048|PE|Cajamarca Department|56
 Sucre|-8.962|-77.843|PE|Ancash|56
+Las Flores de Mamonaquihua|-6.663|-76.466|PE|San Martín Department|56
+Jacocha|-5.192|-79.530|PE|Piura|56
 Chuquibamba|-6.935|-77.855|PE|Amazonas|56
+Vicos|-9.328|-77.552|PE|Ancash|56
+Huarapa|-9.770|-76.207|PE|Huánuco Department|56
+Congona|-6.836|-78.222|PE|Cajamarca Department|56
 Montevideo|-6.618|-77.823|PE|Amazonas|56
 Ichocán|-7.368|-78.130|PE|Cajamarca Department|56
+Pundin|-5.224|-79.501|PE|Piura|56
 Anta|-9.357|-77.598|PE|Ancash|56
+Farías|-7.807|-79.225|PE|La Libertad|56
+Vaquería|-7.756|-77.971|PE|La Libertad|56
+Quipran|-9.496|-76.773|PE|Huánuco Department|56
+Bello Horizonte|-6.529|-76.301|PE|San Martín Department|56
 Omia|-6.468|-77.396|PE|Amazonas|56
+La Colpa|-7.835|-78.064|PE|La Libertad|56
+Tanguche|-8.747|-78.522|PE|La Libertad|56
 Sartimbamba|-7.700|-77.741|PE|La Libertad|56
 Huaylillas|-8.187|-77.345|PE|La Libertad|56
 Quillo|-9.329|-78.042|PE|Ancash|56
 Yungar|-9.378|-77.592|PE|Ancash|55
+Huancacarpa Alto|-5.134|-79.524|PE|Piura|55
 La Florida|-6.869|-79.123|PE|Cajamarca Department|55
+Tamarindo|-7.307|-79.443|PE|La Libertad|55
+Charupa|-5.006|-75.865|PE|Loreto|55
 Cochabamba|-9.095|-76.837|PE|Huánuco Department|55
+Quemazon|-6.525|-79.975|PE|Lambayeque|55
+Callancas|-7.766|-78.482|PE|La Libertad|55
+La Otra Banda|-6.942|-79.580|PE|Lambayeque|55
+Lishinas|-6.037|-79.136|PE|Cajamarca Department|55
 Agallpampa|-7.986|-78.548|PE|La Libertad|55
+Collud|-6.787|-79.771|PE|Lambayeque|55
+Buenos Aires|-5.923|-77.079|PE|San Martín Department|55
 San Pedro de Chonta|-8.656|-76.875|PE|Huánuco Department|55
 Huaylas|-8.872|-77.893|PE|Ancash|55
+Samán|-6.139|-75.042|PE|Loreto|55
+Chumpón|-7.719|-79.319|PE|La Libertad|55
 Bolívar|-6.977|-79.178|PE|Cajamarca Department|55
+El Hornito|-7.419|-79.547|PE|La Libertad|55
 Shunqui|-9.731|-76.783|PE|Huánuco Department|55
 Tunal|-5.213|-79.679|PE|Piura|55
+Ancomarca|-9.987|-76.065|PE|Huánuco Department|55
+El Verde|-6.438|-79.736|PE|Lambayeque|55
+Huaca Rajada|-6.800|-79.602|PE|Lambayeque|55
+Huangashanga|-6.865|-78.287|PE|Cajamarca Department|55
+Pariacolca|-9.322|-77.993|PE|Ancash|55
+Coyona|-5.301|-79.615|PE|Piura|55
 Tinco|-9.271|-77.678|PE|Ancash|55
+Pedregal|-5.242|-79.985|PE|Piura|55
+Shumba Alto|-5.569|-78.815|PE|Cajamarca Department|55
+Compín|-7.699|-78.626|PE|La Libertad|55
+Huacho|-9.306|-77.950|PE|Ancash|55
+Siempre Viva|-5.747|-78.668|PE|Amazonas|55
+Mamonaquihua|-6.658|-76.439|PE|San Martín Department|55
 Yanama|-9.021|-77.471|PE|Ancash|55
+Nuevo Horizonte|-5.836|-78.526|PE|Amazonas|55
 Urpay|-8.348|-77.392|PE|La Libertad|55
+Alto Perillo|-7.079|-75.143|PE|Loreto|55
+Samne|-7.991|-78.681|PE|La Libertad|55
+Llacta|-9.030|-77.828|PE|Ancash|55
+Paric|-6.284|-79.134|PE|Cajamarca Department|55
+Urpish|-9.276|-76.725|PE|Huánuco Department|55
+Huiyán|-9.847|-76.001|PE|Huánuco Department|55
+Pacopampa|-6.337|-79.021|PE|Cajamarca Department|55
+Siracat|-7.412|-78.583|PE|Cajamarca Department|55
+Alto Mayo|-5.698|-77.472|PE|San Martín Department|55
+Huanchán|-9.943|-76.492|PE|Huánuco Department|55
+Vista Alegre|-5.825|-77.395|PE|San Martín Department|55
 San Benito|-7.425|-78.927|PE|Cajamarca Department|55
+Mishqui|-9.259|-77.660|PE|Ancash|55
+Jorobamba|-5.853|-78.614|PE|Amazonas|55
 Pampamarca|-9.705|-76.703|PE|Huánuco Department|55
 Pías|-7.872|-77.547|PE|La Libertad|55
+San Cristóbal|-5.410|-79.587|PE|Piura|55
 Parobamba|-8.696|-77.430|PE|Ancash|55
+Santa Lucía|-9.124|-76.021|PE|Huánuco Department|55
+San José|-6.295|-78.479|PE|Cajamarca Department|55
+Pariahuanca|-9.365|-77.581|PE|Ancash|55
 Chalán|-6.650|-78.232|PE|Cajamarca Department|55
+Cochabamba|-9.802|-76.815|PE|Huánuco Department|55
+Toma|-9.273|-77.668|PE|Ancash|55
 La Grama|-7.464|-78.129|PE|Cajamarca Department|55
+Pay Pay|-7.253|-79.235|PE|Cajamarca Department|55
+Cóndor Cerro|-8.414|-77.486|PE|Ancash|55
+Huancayoc|-9.505|-76.998|PE|Ancash|55
+Algamarca|-7.607|-78.245|PE|Cajamarca Department|55
 Canchabamba|-8.885|-77.123|PE|Huánuco Department|55
+Mariscal La Mar|-7.268|-79.408|PE|La Libertad|54
+Cuyuchugo|-7.833|-78.393|PE|La Libertad|54
+Santa Rosa|-6.216|-79.084|PE|Cajamarca Department|54
 Cayrán|-9.981|-76.284|PE|Huánuco Department|54
+Chafán Grande|-7.316|-79.380|PE|La Libertad|54
+San Pedro|-5.596|-78.574|PE|Amazonas|54
+Shimbillo|-6.826|-76.340|PE|San Martín Department|54
 Callayuc|-6.181|-78.910|PE|Cajamarca Department|54
+Barranquita|-6.720|-76.595|PE|San Martín Department|54
+Huayllapampa|-7.217|-78.535|PE|Cajamarca Department|54
+Rondobamba|-9.023|-76.979|PE|Huánuco Department|54
+Sapame|-6.484|-79.828|PE|Lambayeque|54
+Ulpamache|-5.323|-79.506|PE|Piura|54
+La Floresta|-5.573|-78.806|PE|Cajamarca Department|54
+Alto San Ildefonso|-7.144|-79.585|PE|La Libertad|54
+Maravillas|-6.536|-79.885|PE|Lambayeque|54
+Mitupampa|-5.330|-79.481|PE|Piura|54
+Pachin Bajo|-7.886|-78.626|PE|La Libertad|54
+Tacarpo|-5.397|-79.397|PE|Piura|54
+Pallar Bajo|-7.757|-77.899|PE|La Libertad|54
+Cruz Blanca|-6.498|-79.869|PE|Lambayeque|54
+Copa Chico|-9.280|-77.567|PE|Ancash|54
+Penachi|-6.169|-79.475|PE|Lambayeque|54
+Fala|-6.674|-79.787|PE|Lambayeque|54
 Pira|-9.582|-77.708|PE|Ancash|54
+Quilcate|-6.819|-78.724|PE|Cajamarca Department|54
+Paranshique|-7.831|-78.019|PE|La Libertad|54
+Lives|-7.079|-79.041|PE|Cajamarca Department|54
+La Pared|-6.558|-79.806|PE|Lambayeque|54
+Santa Clemencia|-8.997|-78.539|PE|Ancash|54
 Sillapata|-9.758|-76.774|PE|Huánuco Department|54
+Valle Nuevo|-6.581|-79.916|PE|Lambayeque|54
+Ichic Huaylas|-9.037|-77.815|PE|Ancash|54
+Mariscal Castilla|-6.898|-76.262|PE|San Martín Department|54
+Nueva Santa Cruz|-5.868|-77.422|PE|San Martín Department|54
 Navarro|-6.333|-75.750|PE|San Martín Department|54
 Olto|-6.103|-77.959|PE|Amazonas|54
 Cusca|-8.513|-77.865|PE|Ancash|54
@@ -316,6 +522,7 @@ Longuita|-6.414|-77.969|PE|Amazonas|46
 Licupis|-6.424|-79.242|PE|Cajamarca Department|46
 Charat|-7.833|-78.450|PE|La Libertad|46
 San Gregorio|-7.057|-79.095|PE|Cajamarca Department|46
+Ciudad Constitución|-9.865|-75.008|PE|Pasco|45
 Miracosta|-6.405|-79.284|PE|Cajamarca Department|45
 La Esperanza|-6.593|-78.895|PE|Cajamarca Department|45
 Mollepata|-8.193|-77.958|PE|La Libertad|45

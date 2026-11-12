@@ -4,7 +4,7 @@ Harbin|45.750|126.650|CN|Heilongjiang|140
 Haryana|29.250|76.333|IN||139|r
 Hanoi|21.024|105.841|VN|Hanoi|138
 Hainan|19.250|109.750|CN||138|r
-Hauts-de-France|49.612|2.656|FR||134|r
+Hauts-de-France|49.612|2.656|FR||135|r
 Hai Phong|20.870|106.510|VN||130|r
 Haut-Katanga|-10.467|27.817|CD||130|r
 Haikou|20.034|110.347|CN|Hainan|130
@@ -14,7 +14,7 @@ Hawaii|20.788|-156.386|US||126|r
 Hamburg|53.551|9.993|DE|Hamburg|126
 Harare|-17.828|31.053|ZW|Harare|124
 Handan|36.610|114.488|CN|Hebei|123
-Hatay|36.500|36.250|TR||122|r
+Hatay|36.500|36.250|TR||123|r
 Hamadan Province|34.833|48.583|IR||121|r
 Hauts-Bassins|11.280|-4.320|BF||120|r
 Hanzhong|33.075|107.022|CN|Shaanxi|120
@@ -28,8 +28,8 @@ Hamilton|43.250|-79.850|CA|Ontario|115
 Hamhŭng|39.918|127.536|KP|South Hamgyong|115
 Haut-Lomami|-8.733|25.000|CD||115|r
 Hamadān|34.799|48.515|IR|Hamadan Province|114
-Hannover|52.371|9.733|DE|Lower Saxony|114
 Harjumaa|59.333|24.833|EE||114|r
+Hannover|52.371|9.733|DE|Lower Saxony|114
 Hajdú-Bihar|47.417|21.500|HU||114|r
 Hāthazāri|22.505|91.813|BD|Chittagong|114
 Hargeysa|9.560|44.065|SO|Woqooyi Galbeed|114
@@ -50,13 +50,13 @@ Hạ Long|20.950|107.073|VN|Quảng Ninh|109
 Hà Tĩnh|18.343|105.906|VN|Hà Tĩnh Province|109
 Haut-Ogooué|-1.300|13.900|GA||108|r
 Hanam|37.540|127.206|KR|Gyeonggi-do|108
+Halland|56.750|13.000|SE||108|r
 Ḩayy Khildā|31.992|35.840|JO|Amman|108
 Hami|42.834|93.506|CN|Xinjiang|108
 Hāpur|28.730|77.781|IN|Uttar Pradesh|108
 Hải Dương|20.941|106.333|VN|Hai Phong|108
 Hachinohe|40.500|141.500|JP|Aomori|108
 Halle (Saale)|51.482|11.979|DE|Saxony-Anhalt|108
-Halland|56.750|13.000|SE||107|r
 Ḩalwān|29.841|31.301|EG|Cairo|107
 Haeju|38.041|125.715|KP|South Hwanghae|107
 Hailar|49.200|119.700|CN|Inner Mongolia|106
@@ -82,6 +82,7 @@ Harari|9.250|42.167|ET||104|r
 Hanumāngarh|29.582|74.329|IN|Rajasthan|104
 Hassan|13.007|76.096|IN|Karnataka|104
 Hazāribāgh|23.992|85.362|IN|Jharkhand|104
+Harvard University|42.377|-71.117|US|Massachusetts|104|f
 Harunabad|29.612|73.138|PK|Punjab|104
 Harrow|51.578|-0.332|GB|England|103
 Hājīpur|25.685|85.210|IN|Bihar|103
@@ -97,5 +98,4 @@ Hagonoy|14.834|120.733|PH|Central Luzon|102
 Hardoī|27.395|80.132|IN|Uttar Pradesh|102
 Haveli Lakha|30.451|73.694|PK|Punjab|102
 Hartford|41.764|-72.685|US|Connecticut|102
-Handa|34.883|136.933|JP|Aichi|101
 Ha|27.387|89.281|BT|Haa|63

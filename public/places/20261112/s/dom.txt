@@ -27,6 +27,7 @@ Dombasle-sur-Meurthe|48.619|6.355|FR|Grand Est|79
 Dom Inocêncio|-9.005|-41.975|BR|Piauí|79
 Domérat|46.360|2.535|FR|Auvergne-Rhône-Alpes|79
 Dommaranandyāla|14.864|78.364|IN|Andhra Pradesh|78
+Domingo Faustino Sarmiento Airport|-31.571|-68.418|AR|San Juan|78|f
 Dom Aquino|-15.810|-54.921|BR|Mato Grosso|78
 Domène|45.203|5.833|FR|Auvergne-Rhône-Alpes|77
 Domat|46.835|9.451|CH|Grisons|77
@@ -40,12 +41,15 @@ Domingo Arenas|19.140|-98.457|MX|Puebla|75
 Domnești|44.399|25.916|RO|Ilfov|75
 Domampot|16.000|120.650|PH|Ilocos|75
 Dompierre-sur-Mer|46.188|-1.064|FR|New Aquitaine|74
+Dom|46.094|7.859|CH|Valais|74|f
+Domus Aurea|41.893|12.494|IT|Lazio|74|f
 Dom Silvério|-20.160|-42.968|BR|Minas Gerais|74
 Domeikava|54.968|23.916|LT|Kaunas|74
 Domaniç|39.802|29.609|TR|Kütahya|74
 Dom Cavati|-19.374|-42.106|BR|Minas Gerais|74
 Dom Joaquim|-18.967|-43.256|BR|Minas Gerais|74
 Domselaar|-35.072|-58.288|AR|Buenos Aires|74
+Domodedovo International Airport|55.414|37.900|RU|Moscow Oblast|73|f
 Dom Macedo Costa|-12.905|-39.193|BR|Bahia|73
 Domfront|48.592|-0.646|FR|Normandy|73
 Domangbeu|6.985|-7.019|CI|Sassandra-Marahoue|73
@@ -53,6 +57,7 @@ Dombrád|48.233|21.933|HU|Szabolcs-Szatmár-Bereg|73
 Domaszék|46.249|20.011|HU|Csongrád|73
 Domingos Mourão|-4.254|-41.270|BR|Piauí|72
 Dom Bosco|-16.652|-46.271|BR|Minas Gerais|71
+Dôme de Chasseforêt|45.331|6.761|FR|Auvergne-Rhône-Alpes|71|f
 Dompierre-sur-Besbre|46.522|3.681|FR|Auvergne-Rhône-Alpes|71
 Dompierre-sur-Yon|46.739|-1.388|FR|Pays de la Loire|71
 Dompleu|7.348|-7.538|CI|Montagnes|71
@@ -61,11 +66,13 @@ Dommitzsch|51.641|12.879|DE|Saxony|70
 Domagnano|43.950|12.468|SM|Domagnano|70
 Domaradz|49.787|21.946|PL|Subcarpathia|70
 Dom Viçoso|-22.254|-45.161|BR|Minas Gerais|70
+Dome Rock Mountains|33.691|-114.337|US|Arizona|69|f
 Dom Pedro de Alcântara|-29.369|-49.850|BR|Rio Grande do Sul|68
 Domegge di Cadore|46.457|12.407|IT|Veneto|68
 Dömitz|53.141|11.250|DE|Mecklenburg-Vorpommern|68
 Dombegyház|46.333|21.133|HU|Bekes County|68
 Domdidier|46.867|7.013|CH|Fribourg|67
+Dominion Range|-85.333|166.500|AQ||67|f
 Domantove|49.673|31.914|UA|Cherkasy|67
 Domony|47.656|19.432|HU|Pest County|66
 Domoszló|47.833|20.117|HU|Heves County|66
@@ -82,6 +89,8 @@ Domalain|47.996|-1.241|FR|Brittany|64
 Domarin|45.587|5.246|FR|Auvergne-Rhône-Alpes|64
 Domokós|39.127|22.300|GR|Central Greece|64
 Domessin|45.547|5.705|FR|Auvergne-Rhône-Alpes|63
+Dome Fuji|-77.317|39.700|AQ||63|f
+Dome Mountain|44.839|-110.841|US|Wyoming|63|f
 Domašinec|46.432|16.600|HR|Međimurje|63
 Domaša|48.006|18.659|SK|Nitra Region|63
 Domaşnea|45.083|22.317|RO|Caraș-Severin County|63
@@ -97,6 +106,9 @@ Dombås|62.076|9.128|NO|Innlandet|61
 Dommershausen|50.150|7.400|DE|Rheinland-Pfalz|61
 Domart-en-Ponthieu|50.074|2.126|FR|Hauts-de-France|61
 Domvraína|38.253|22.982|GR|Central Greece|61
+Domen|70.333|31.035|NO|Finnmark|61|f
+Domine Edward Osok Airport|-0.894|131.285|ID|Southwest Papua|61|f
+Dominikanerinsel Konstanz|47.664|9.178|DE|Baden-Wurttemberg|61|f
 Domrūstān|33.474|47.223|IR|Lorestan Province|61
 Domgermain|48.643|5.830|FR|Grand Est|61
 Domaszowice|51.043|17.889|PL|Opole Voivodeship|61
@@ -110,16 +122,79 @@ Domus de Maria|38.945|8.863|IT|Sardinia|60
 Domme|44.802|1.215|FR|New Aquitaine|60
 Domaszowice|50.875|20.683|PL|Świętokrzyskie|60
 Domnița|47.021|27.335|RO|Iași County|60
+Domaradz|50.948|17.865|PL|Opole Voivodeship|60
+Domfront-en-Champagne|48.105|0.027|FR|Pays de la Loire|60
+Dompaire|48.224|6.219|FR|Grand Est|60
+Dompierre-sur-Helpe|50.142|3.864|FR|Hauts-de-France|59
+Domakha|48.862|36.298|UA|Kharkiv|59
 Domaniewice|52.006|19.803|PL|Łódź Voivodeship|59
+Domaslovec|45.808|15.753|HR|Zagreb County|59
+Domblans|46.764|5.597|FR|Bourgogne-Franche-Comté|59
+Domjean|48.987|-1.032|FR|Normandy|58
+Domazan|43.930|4.650|FR|Occitanie|58
+Doman|45.265|21.916|RO|Caraș-Severin County|58
+Domenigoni Mountains|33.695|-117.031|US|California|58|f
+Dominguez Hills|33.861|-118.234|US|California|58|f
+Dommel|51.332|8.670|DE|Hesse|58|f
+Domyeongsan|36.652|127.817|KR|North Chungcheong|58|f
+Dompierre-les-Ormes|46.360|4.483|FR|Bourgogne-Franche-Comté|58
+Domnitz|51.631|11.839|DE|Saxony-Anhalt|58
+Domaháza|48.183|20.117|HU|Borsod-Abaúj-Zemplén|58
+Domaniów|50.894|17.130|PL|Lower Silesia|58
+Domasław|51.011|16.956|PL|Lower Silesia|57
+Dommary-Baroncourt|49.283|5.705|FR|Grand Est|57
+Dommartin-lès-Cuiseaux|46.499|5.299|FR|Bourgogne-Franche-Comté|57
+Dompierre|46.852|6.991|CH|Fribourg|57
+Domessargues|43.977|4.169|FR|Occitanie|57
+Domnești|47.037|24.477|RO|Bistrița-Năsăud County|56
+Dommartin|45.835|4.711|FR|Auvergne-Rhône-Alpes|56
+Dommartemont|48.713|6.215|FR|Grand Est|56
+Domsten|56.119|12.607|SE|Skåne|56
+Domoušíce|50.234|13.730|CZ|Ústí nad Labem Region|56
+Domats|48.114|3.067|FR|Bourgogne-Franche-Comté|56
+Domašov|49.245|16.344|CZ|South Moravian|55
 Domanico|39.217|16.207|IT|Calabria|55
 Domeño|39.661|-0.671|ES|Valencia|55
+Domashyn|48.969|22.550|UA|Zakarpattia|55
 Dominowo|52.292|17.358|PL|Greater Poland|55
+Domingo Arenas (La Calera)|19.517|-98.475|MX|Tlaxcala|55
+Domptin|49.016|3.278|FR|Hauts-de-France|55
+Dommartin|46.923|6.307|FR|Bourgogne-Franche-Comté|54
+Domnu Tudor|44.140|23.319|RO|Dolj|54
+Dôme de l'Arpont|45.319|6.743|FR|Auvergne-Rhône-Alpes|54|f
+Dôme de la Sache|45.511|6.870|FR|Auvergne-Rhône-Alpes|54|f
+Dôme des Nants|45.327|6.742|FR|Auvergne-Rhône-Alpes|54|f
+Dome Mountain|-28.475|152.701|AU|New South Wales|54|f
+Domen Butte|-72.717|-3.833|AQ||54|f
+Domjüchsee|53.327|13.130|DE|Mecklenburg-Vorpommern|54|f
+Dompierre-du-Chemin|48.267|-1.143|FR|Brittany|54
 Domingo Pérez|39.977|-4.506|ES|Castille-La Mancha|54
 Domanice|52.037|22.176|PL|Mazovia|50
+Dom Mount Dom|-37.590|145.658|AU|Victoria|49|f
+Dome Mountain|37.861|-107.600|US|Colorado|49|f
+Domeyko Glacier|-62.064|-58.485|AQ||49|f
+Domain Lake|50.959|-94.577|CA|Ontario|40|f
+Domäne Dahlem|52.458|13.289|DE|State of Berlin|40|f
+Dome Glacier|48.306|-121.039|US|Washington|40|f
+Dome Mountain|58.450|-129.637|CA|British Columbia|40|f
+Dome Peak|48.302|-121.032|US|Washington|40|f
+Domen Fawr|52.610|-3.639|GB|Wales|40|f
+Domen Las|52.554|-3.938|GB|Wales|40|f
+Dometa Point|-62.661|-61.013|AQ||40|f
+Dominica|15.437|-61.342|DM||40|f
+Dömitz Fortress|53.142|11.246|DE|Mecklenburg-Vorpommern|40|f
+Domus|43.378|-8.406|ES|Galicia|40|f
+Domus Augustana|41.888|12.487|IT|Lazio|40|f
+Domus Municipalis|41.804|-6.749|PT|Bragança|40|f
+Domus Severiana|41.887|12.488|IT|Lazio|40|f
 Dombay|38.154|30.209|TR|Afyonkarahisar Province|39
 Domingo García|41.115|-4.379|ES|Castille and León|34
 Domaljevac|45.061|18.586|BA|Federation of B&H|12
 Dom Eliseu|-4.297|-47.552|BR|Pará|0
+Doma|-8.685|121.328|ID|East Nusa Tenggara|0
 Domartang|30.939|94.689|CN|Tibet|0
+Domasan|-8.145|111.976|ID|East Java|0
+Domba|32.311|95.585|CN|Qinghai|0
 Dombo wa Zanga|-8.556|15.886|AO|Malanje|0
 Domingo Pérez|37.496|-3.509|ES|Andalusia|0
+Dompyong|-8.216|113.143|ID|East Java|0

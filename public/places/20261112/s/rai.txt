@@ -20,8 +20,10 @@ Raismes|50.383|3.483|FR|Hauts-de-France|83
 Rainham|51.517|0.194|GB|England|82
 Rainhill|53.416|-2.766|GB|England|81
 Raia|15.305|73.971|IN|Goa|81
+Raiatea Airport|-16.723|-151.466|PF|Leeward Islands|80|f
 Rainbow City|33.955|-86.042|US|Alabama|80
 Rāipur Rāni|30.586|77.022|IN|Haryana|79
+Rainy Lake|48.637|-93.031|CA|Ontario|79|f
 Rain|48.690|10.916|DE|Bavaria|79
 Rainworth|53.119|-1.119|GB|England|78
 Raisdorf|54.281|10.249|DE|Schleswig-Holstein|78
@@ -29,12 +31,17 @@ Rail|30.999|76.468|IN|Punjab|78
 Rainham|51.363|0.609|GB|England|76
 Rainford|53.502|-2.788|GB|England|76
 Raighar|19.888|82.072|IN|Chhattisgarh|75
+Rainbow Lake Airport|58.491|-119.408|CA|Alberta|74|f
 Rāīwāla Bara|30.019|78.229|IN|Uttarakhand|74
 Rainsville|34.494|-85.848|US|Alabama|74
+Rainbow Bridge|43.090|-79.068|US|New York|73|f
 Raimbeaucourt|50.435|3.093|FR|Hauts-de-France|73
 Raipur Rasulpur|31.402|75.594|IN|Punjab|72
 Raihorodok|48.902|37.725|UA|Donetsk|70
+Raiatea Island|-16.826|-151.438|PF|Leeward Islands|70|f
+Raikoke Island|48.293|153.252|RU|Sakhalin Oblast|70|f
 Raiano|42.102|13.814|IT|Abruzzo|69
+Raichur Airport|16.280|77.360|IN|Karnataka|69|f
 Rain|48.905|12.469|DE|Bavaria|68
 Raillencourt-Sainte-Olle|50.183|3.167|FR|Hauts-de-France|68
 Raisting|47.917|11.100|DE|Bavaria|67
@@ -46,11 +53,65 @@ Rai|48.751|0.582|FR|Normandy|65
 Raikhenfeld|47.165|35.315|UA|Zaporizhzhia|64
 Rainbow Beach|-25.904|153.092|AU|Queensland|64
 Rainelle|37.969|-80.767|US|West Virginia|63
+Rainbow Peak|48.879|-114.097|US|Montana|63|f
+Raivavae Airport|-23.886|-147.665|PF|Austral Islands|63|f
 Raitenbuch|49.015|11.125|DE|Bavaria|61
+Raid Peak|42.860|-109.343|US|Wyoming|61|f
+Raiden-yama|42.900|140.467|JP|Hokkaido|61|f
+Rainbow Lake|45.824|-69.117|US|Maine|61|f
 Rain|46.605|14.386|AT|Carinthia|61
 Rainbach im Mühlkreis|48.558|14.474|AT|Upper Austria|60
+Railton|-41.346|146.424|AU|Tasmania|60
+Rainbow City|33.873|-109.976|US|Arizona|60
+Rainvillers|49.405|2.008|FR|Hauts-de-France|60
+Raito|40.669|14.718|IT|Campania|59
 Raiding|47.566|16.531|AT|Burgenland|59
+Rainfeld|48.047|15.711|AT|Lower Austria|58
+Raichberg|48.305|8.993|DE|Baden-Wurttemberg|58|f
+Raigastvere Järv|58.593|26.643|EE|Tartu|58|f
+Railway Stadium|31.566|74.352|PK|Punjab|58|f
+Rainbow Dam|47.534|-111.205|US|Montana|58|f
+Rainy Mountain|34.997|-98.850|US|Oklahoma|58|f
+Rainneville|49.973|2.355|FR|Hauts-de-France|58
+Raizeux|48.624|1.683|FR|Île-de-France|58
+Raigón|-34.340|-56.663|UY|San José Department|57
+Raiu|46.240|28.018|RO|Vaslui County|57
+Rainbow Flat|-32.033|152.483|AU|New South Wales|56
+Raíces|19.161|-99.805|MX|México|56
+Rainbow|-35.896|141.998|AU|Victoria|56
+Raiozero|49.905|32.751|UA|Poltava|55
+Raikot Bridge|35.493|74.592|PK|Gilgit-Baltistan|54|f
+Raikot Pahar|35.259|74.638|PK|Gilgit-Baltistan|54|f
+Railtown 1897 State Historic Park|37.950|-120.416|US|California|54|f
+Rainbow Lake|34.152|-109.984|US|Arizona|54|f
+Railway Museum|37.794|-122.393|US|California|49|f
+Rainberg|47.795|13.034|AT|Salzburg|49|f
+Rainbow Bay|-28.163|153.548|AU|Queensland|49|f
+Rainbow Mountain|34.735|-86.729|US|Alabama|49|f
+Raine Island|-11.591|144.038|AU|Queensland|49|f
+Rainey Glacier|-73.667|163.100|AQ||49|f
+Rainy Butte|46.480|-103.032|US|North Dakota|49|f
+Raigad Fort|18.234|73.440|IN|Maharashtra|40|f
+RailsWest Railroad Museum|41.247|-95.850|US|Iowa|40|f
+Rainbow Alley Park|55.333|-126.634|CA|British Columbia|40|f
+Rainbow Beach Provincial Park|51.129|-99.814|CA|Manitoba|40|f
+Rainbow Bridge|48.387|-122.502|US|Washington|40|f
+Rainbow Bridge National Monument|37.078|-110.966|US|Utah|40|f
+Rainbow Falls Provincial Park|48.842|-87.408|CA|Ontario|40|f
+Rainbow Falls State Park|46.629|-123.231|US|Washington|40|f
+Rainbow Glacier|48.798|-121.775|US|Washington|40|f
+Rainbow Island|50.035|-90.734|CA|Ontario|40|f
+Rainbow Lake|44.667|-64.989|CA|Nova Scotia|40|f
+Rainbow Mountain|50.183|-123.053|CA|British Columbia|40|f
+Rainbow Mountain|41.473|-121.956|US|California|40|f
+Rainbow Range|52.716|-125.820|CA|British Columbia|40|f
+Rainbow Ridge|-78.100|165.400|AQ||40|f
+Rainbow Springs State Park|29.066|-82.420|US|Florida|40|f
+Rainerhorn|47.101|12.364|AT|Tyrol|40|f
+Rainy Lake|44.899|-77.330|CA|Ontario|40|f
+Rainy Lake|45.166|-77.330|CA|Ontario|40|f
 Raihorod|48.878|29.081|UA|Vinnytsia|0
 Raihorodok|49.827|28.381|UA|Zhytomyr Oblast|0
 Rainis|4.233|126.867|ID|North Sulawesi|0
+Raioi|-8.563|118.979|ID|West Nusa Tenggara|0
 Raivka|48.352|35.456|UA|Dnipropetrovsk|0

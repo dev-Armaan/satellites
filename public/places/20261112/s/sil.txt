@@ -17,9 +17,11 @@ Sillanwali|31.825|72.541|PK|Punjab|94
 Šilainiai|54.929|23.886|LT|Kaunas|92
 Silver Lake|34.087|-118.270|US|California|90
 Siliana|36.085|9.371|TN|Siliana Governorate|90
+Silvio Pettirossi International Airport|-25.240|-57.519|PY|Central Department|90|f
 Silistra|44.117|27.261|BG|Silistra|89
 Silao|25.084|85.428|IN|Bihar|88
 Silapathar|27.594|94.724|IN|Assam|88
+Silesia Stadium|50.288|18.973|PL|Silesia|88|f
 Silvânia|-16.667|-48.613|BR|Goiás|87
 Silva Jardim|-22.651|-42.392|BR|Rio de Janeiro|87
 Silver Firs|47.866|-122.155|US|Washington|86
@@ -32,7 +34,9 @@ Silvāni|23.303|78.441|IN|Madhya Pradesh|85
 Sīlappādi|10.394|78.008|IN|Tamil Nadu|85
 Siloam Springs|36.188|-94.540|US|Arkansas|84
 Silute|55.349|21.483|LT|Klaipėda County|84
+Silchar Airport|24.913|92.979|IN|Assam|83|f
 Silvi|42.550|14.118|IT|Abruzzo|82
+Siljan|60.833|14.750|SE|Dalarna|82|f
 Sillamäe|59.397|27.763|EE|Ida-Virumaa|82
 Silves|37.189|-8.438|PT|Faro|81
 Siltara|21.381|81.664|IN|Chhattisgarh|81
@@ -45,6 +49,7 @@ Silves|-2.839|-58.209|BR|Amazonas|79
 Silleda|42.696|-8.247|ES|Galicia|79
 Siler City|35.723|-79.462|US|North Carolina|78
 Silva Escura|41.258|-8.581|PT|Porto|78
+Siling Co|31.778|89.035|CN|Tibet|78|f
 Siltamäki|60.278|24.983|FI|Uusimaa|78
 Siluko|6.536|5.160|NG|Edo State|78
 Silsden|53.914|-1.938|GB|England|78
@@ -66,10 +71,12 @@ Silvianópolis|-22.029|-45.835|BR|Minas Gerais|76
 Sīlat az̧ Z̧ahr|32.319|35.184|PS|West Bank|76
 Silea|45.654|12.297|IT|Veneto|76
 Silver Hill|38.842|-76.946|US|Maryland|75
+Silsilat Jibāl Qandīl|36.517|45.020|IR||75|f
 Silver Lakes|34.746|-117.341|US|California|75
 Silver Lake|34.149|-77.914|US|North Carolina|75
 Silver Springs|39.415|-119.225|US|Nevada|74
 Silvanópolis|-11.147|-48.169|BR|Tocantins|74
+Silkeborg Stadion|56.158|9.553|DK|Central Jutland|74|f
 Silvolde|51.909|6.388|NL|Gelderland|74
 Silverton|39.193|-84.400|US|Ohio|74
 Šilalė|55.490|22.187|LT|Tauragė County|73
@@ -88,6 +95,11 @@ Silverstream|-41.150|175.000|NZ|Wellington Region|71
 Siltepec|15.557|-92.322|MX|Chiapas|71
 Silab|9.438|123.179|PH|Central Visayas|70
 Sillingy|45.948|6.044|FR|Auvergne-Rhône-Alpes|70
+Silda|62.013|5.189|NO|Vestland|70|f
+Siletz Bay State Airport|44.879|-124.029|US|Oregon|70|f
+Silino Island|8.855|123.417|PH|Zamboanga Peninsula|70|f
+Silistra Airfield|44.055|27.179|BG|Razgrad|70|f
+Silver Bay Municipal Airport|47.249|-91.416|US|Minnesota|70|f
 Sillawit|16.873|121.759|PH|Cagayan Valley|70
 Silt|39.549|-107.656|US|Colorado|70
 Siltse|48.291|22.991|UA|Zakarpattia|69
@@ -96,6 +108,8 @@ Silongin|13.300|122.522|PH|Calabarzon|69
 Sillé-le-Guillaume|48.183|-0.129|FR|Pays de la Loire|69
 Siloah|18.167|-77.703|JM|St. Elizabeth|69
 Silvino Lobos|12.300|124.833|PH|Eastern Visayas|69
+Silver Island Mountains|40.929|-113.814|US|Utah|69|f
+Silvrettahorn|46.858|10.092|AT||69|f
 Siliștea Gumești|44.383|25.000|RO|Teleorman County|68
 Silk Grass|16.883|-88.333|BZ|Stann Creek|68
 Silver Creek|42.544|-79.167|US|New York|68
@@ -109,6 +123,8 @@ Silanga|11.818|124.843|PH|Eastern Visayas|67
 Siliștea Snagovului|44.739|26.179|RO|Ilfov|67
 Silveirânia|-21.159|-43.215|BR|Minas Gerais|67
 Silago|10.529|125.162|PH|Eastern Visayas|67
+Silver Falls State Park|44.851|-122.646|US|Oregon|67|f
+Silver Peak Range|37.653|-117.845|US|Nevada|67|f
 Silenen|46.789|8.673|CH|Uri|67
 Sillenstede|53.574|7.985|DE|Lower Saxony|67
 Silae|8.159|125.282|PH|Northern Mindanao|67
@@ -121,6 +137,11 @@ Silveira Martins|-29.642|-53.586|BR|Rio Grande do Sul|66
 Silverstone|52.092|-1.026|GB|England|66
 Silver Lake|28.842|-81.798|US|Florida|65
 Siliştea|45.311|27.829|RO|Brăila County|65
+Silangit Airport|2.259|98.994|ID|North Sumatra|65|f
+Silay International Airport|10.776|123.019|PH|Western Visayas|65|f
+Silgadi Doti Airport|29.263|80.936|NP|Sudurpashchim Pradesh|65|f
+Silmido|37.402|126.392|KR|Incheon|65|f
+Silver Creek Airport|16.685|-88.350|BZ|Stann Creek|65|f
 Siliştea Crucii|44.043|23.475|RO|Dolj|65
 Silver Bay|47.294|-91.257|US|Minnesota|65
 Silsoe|52.009|-0.425|GB|England|65
@@ -132,6 +153,12 @@ Sillian|46.753|12.421|AT|Tyrol|64
 Sillans|45.343|5.389|FR|Auvergne-Rhône-Alpes|64
 Silvano d'Orba|44.686|8.672|IT|Piedmont|64
 Silverton|50.817|-3.483|GB|England|63
+Silampari Airport|-3.282|102.916|ID|South Sumatra|63|f
+Sildhopvatnet|67.699|15.901|NO|Nordland|63|f
+Siler City Municipal Airport|35.705|-79.506|US|North Carolina|63|f
+Silers Bald|35.566|-83.565|US|Tennessee|63|f
+Silver Run Peak|45.121|-109.545|US|Montana|63|f
+Silvermine Mountain|52.778|-8.267|IE|Munster|63|f
 Siliştea|44.400|28.167|RO|Constanța County|63
 Silver Lake|39.104|-95.859|US|Kansas|63
 Silverdale|54.167|-2.817|GB|England|62
@@ -143,26 +170,195 @@ Silo Number 1|-8.037|145.885|PG|Gulf Province|62
 Silly-le-Long|49.107|2.792|FR|Hauts-de-France|61
 Silver Ridge|39.963|-74.238|US|New Jersey|61
 Silver Grove|39.035|-84.390|US|Kentucky|61
+Silba|44.380|14.695|HR|Zadar|61|f
+Silver Bay|57.009|-135.167|US|Alaska|61|f
+Silver Bell Mountains|32.414|-111.499|US|Arizona|61|f
+Silver City Airport|32.636|-108.156|US|New Mexico|61|f
+Silver Springs Airport|39.405|-119.249|US|Nevada|61|f
+Silver Star Mountain|48.548|-120.585|US|Washington|61|f
+Silvretta Alps|46.833|10.250|CH|Grisons|61|f
 Silca|14.833|-86.533|HN|Olancho Department|61
 Șilindru|47.437|22.047|RO|Bihor County|60
 Silva|20.946|-101.857|MX|Guanajuato|60
+Silvano Gatica|14.960|-92.206|MX|Chiapas|60
+Silverwood|45.965|-66.764|CA|New Brunswick|60
 Silvaplana|46.458|9.795|CH|Grisons|60
+Silenrieux|50.226|4.417|BE|Wallonia|59
+Silistraru|45.169|27.778|RO|Brăila County|59
 Şilindia|46.350|21.917|RO|Arad County|59
+Silver Lake|41.072|-85.892|US|Indiana|59
+Sillé-le-Philippe|48.108|0.352|FR|Pays de la Loire|59
 Siljan|59.288|9.710|NO|Telemark|59
+Silbach|51.229|8.483|DE|North Rhine-Westphalia|59
+Silver City|34.996|-79.226|US|North Carolina|59
+Siliștea|44.802|25.453|RO|Dâmbovița County|59
 Siligo|40.575|8.728|IT|Sardinia|59
+Silverio Galicia García|19.448|-99.622|MX|México|59
 Silivașu de Câmpie|46.783|24.300|RO|Bistrița-Năsăud County|59
+Sili|-13.756|-172.377|WS|Palauli|59
+Silverdale|40.348|-75.271|US|Pennsylvania|59
+Silla|44.183|10.974|IT|Emilia-Romagna|59
+Siliștea|44.366|26.759|RO|Călărași County|58
 Silbertal|47.094|9.983|AT|Vorarlberg|58
+Sils im Domleschg|46.700|9.454|CH|Grisons|58
+Siliștea|45.191|25.388|RO|Dâmbovița County|58
+Silene|55.753|26.785|LV|Augšdaugava Municipality|58
+Silkworth|41.272|-76.086|US|Pennsylvania|58
+Silz|49.150|7.950|DE|Rheinland-Pfalz|58
+Siliștea|46.428|27.556|RO|Vaslui County|58
+Silver Lake|44.903|-94.196|US|Minnesota|58
+Silvi Paese|42.563|14.088|IT|Abruzzo|58
+Silvituc|18.642|-90.271|MX|Campeche|58
+Silas N Pearman Bridge|32.803|-79.914|US|South Carolina|58|f
+Silberen|46.992|8.899|CH|Schwyz|58|f
+Silda|70.322|21.740|NO|Finnmark|58|f
+Silk Road Covered Bridge|42.909|-73.226|US|Vermont|58|f
+Silliman University|9.311|123.307|PH|Central Visayas|58|f
+Silo Canal|52.415|12.493|DE|Brandenburg|58|f
+Silurian Hills|35.533|-116.127|US|California|58|f
+Silvaplanersee|46.452|9.797|CH||58|f
+Silver Lake|42.019|-70.805|US|Massachusetts|58|f
+Silver Lake Forest Service Strip|43.113|-121.091|US|Oregon|58|f
+Silver Peak|38.935|-120.230|US|California|58|f
+Silver Peak|47.361|-121.462|US|Washington|58|f
+Silver Strand|32.671|-117.170|US|California|58|f
+Siliștea|47.522|26.479|RO|Suceava|58
+Silchester|51.354|-1.101|GB|England|58
+Silverhill|30.545|-87.752|US|Alabama|58
+Silly-sur-Nied|49.120|6.359|FR|Grand Est|58
+Siliștea Nouă|47.450|26.636|RO|Suceava|58
+Silver Springs|42.661|-78.086|US|New York|58
+Sils-Segl Maria|46.429|9.764|CH|Grisons|57
+Silver Creek|16.280|-88.890|BZ|Toledo District|57
+Silakoro-Sokourala|8.901|-7.612|CI|Woroba|57
+Silůvky|49.106|16.468|CZ|South Moravian|57
+Silverdalen|57.541|15.751|SE|Kalmar|57
 Silverton|34.474|-101.305|US|Texas|57
+Sil’|48.952|22.520|UA|Zakarpattia|56
+Šiljakovina|45.633|16.017|HR|Zagreb County|56
 Silvano Pietra|45.039|8.946|IT|Lombardy|56
+Siladice|48.358|17.743|SK|Trnava Region|56
 Silverton|37.812|-107.665|US|Colorado|56
+Siliștea|44.000|25.467|RO|Teleorman County|56
+Silla|40.361|15.587|IT|Campania|56
+Siltzheim|49.064|7.093|FR|Grand Est|56
+Silva|20.895|-101.550|MX|Guanajuato|56
+Silver Creek|37.041|-94.473|US|Missouri|56
+Sillars|46.420|0.769|FR|New Aquitaine|56
+Silvella|46.087|13.049|IT|Friuli Venezia Giulia|56
+Șilea Nirajului|46.599|24.923|RO|Mureș County|56
+Silver Cliff|38.135|-105.446|US|Colorado|55
+Silbitz|50.950|12.000|DE|Thuringia|55
+Siliștea|44.739|25.045|RO|Arges|55
+Silva de Abajo|19.388|-100.344|MX|Michoacán|55
+Silhouette|-4.483|55.233|SC||54|f
+Sillard Islands|-66.611|-67.617|AQ||54|f
+Siltcoos Lake|43.876|-124.090|US|Oregon|54|f
+Silver Eagle Peak|47.608|-121.290|US|Washington|54|f
+Silver Hills|38.251|-85.876|US|Indiana|54|f
+Silver King Mine|33.330|-111.089|US|Arizona|54|f
+Silver Lake|42.959|-72.140|US|New Hampshire|54|f
+Silver Lake|41.705|-74.555|US|New York|54|f
+Silver Lake|41.435|-71.488|US|Rhode Island|54|f
+Silver Lake|43.096|-120.888|US|Oregon|54|f
+Silver Lake|46.295|-122.787|US|Washington|54|f
+Silver Lake Reservoir|34.097|-118.264|US|California|54|f
+Silver Mountain|37.615|-105.103|US|Colorado|54|f
+Silver Mountain|37.874|-107.836|US|Colorado|54|f
+Silver Peak|38.564|-119.760|US|California|54|f
+Silverwood Lake|34.294|-117.323|US|California|54|f
+Silvia Rock|-63.300|-57.900|AQ||54|f
+Sillans-la-Cascade|43.568|6.180|FR|Provence-Alpes-Côte d'Azur|54
 Sillapata|-9.758|-76.774|PE|Huánuco Department|54
 Sillavengo|45.521|8.441|IT|Piedmont|53
 Sillano|44.223|10.302|IT|Tuscany|51
+Silali|1.170|36.175|KE|Turkana County|49|f
+Silberhorn|47.087|9.606|LI|Triesenberg|49|f
+Silcox Island|47.129|-122.565|US|Washington|49|f
+Silent Valley Reservoir|54.133|-6.000|GB|Northern Ireland|49|f
+Silesian Zoological Garden|50.280|18.991|PL|Silesia|49|f
+Silk Glacier|-81.150|158.917|AQ||49|f
+Sillycook Mountain|34.729|-83.553|US|Georgia|49|f
+Silva Ridge|-72.983|162.283|AQ||49|f
+Silvan Reservoir|-37.841|145.417|AU|Victoria|49|f
+Silver Lake Mountain|43.296|-74.412|US|New York|49|f
+Silver Mountain|34.651|-117.267|US|California|49|f
+Silver Peak|37.470|-119.021|US|California|49|f
+Silver Ridge|-82.267|161.667|AQ||49|f
+Silverhorn Mountain|51.767|-116.502|CA|Alberta|49|f
+Silverthrone Mountain|51.528|-126.113|CA|British Columbia|49|f
+Silvertip Peak|47.975|-121.420|US|Washington|49|f
+Silzen|54.028|9.635|DE|Schleswig-Holstein|45
+Silberberg|47.838|7.997|DE|Baden-Wurttemberg|40|f
+Silberhorn|46.542|7.949|CH|Bern|40|f
+Silberhorn|-43.567|170.150|NZ|West Coast|40|f
+Silberplatten|47.240|9.316|CH|Saint Gallen|40|f
+Silbury Hill|51.415|-1.857|GB|England|40|f
+Silent Lake Provincial Park|44.913|-78.058|CA|Ontario|40|f
+Silent Sam Civil War Monument|35.914|-79.052|US|North Carolina|40|f
+Siletz Airport|44.730|-123.914|US|Oregon|40|f
+Siletz Bay National Wildlife Refuge|44.893|-124.001|US|Oregon|40|f
+Silistra Knoll|-62.689|-60.098|AQ||40|f
+Sillem Island|70.934|-71.714|CA|Nunavut|40|f
+Sillen|58.997|17.365|SE||40|f
+Sillustani|-15.721|-70.158|PE|Puno|40|f
+Sillyon|36.991|30.987|TR|Antalya|40|f
+Siloam Springs State Park|39.883|-90.925|US|Illinois|40|f
+Silva Island|37.887|-122.515|US|California|40|f
+Silver Bay|42.867|-79.166|CA|Ontario|40|f
+Silver Beach Park|51.240|-118.958|CA|British Columbia|40|f
+Silver Creek Communications Annex|41.346|-97.722|US|Nebraska|40|f
+Silver Creek Reservoir|44.982|-122.741|US|Oregon|40|f
+Silver Dollar Pond|43.832|-74.889|US|New York|40|f
+Silver Fox Island|49.017|-53.681|CA|Newfoundland and Labrador|40|f
+Silver Hill|40.644|-75.122|US|New Jersey|40|f
+Silver Jack Dam|38.245|-107.544|US|Colorado|40|f
+Silver Lake|44.684|-78.799|CA|Ontario|40|f
+Silver Lake|38.911|-75.436|US|Delaware|40|f
+Silver Lake|46.831|-96.334|US|Minnesota|40|f
+Silver Lake|44.030|-92.458|US|Minnesota|40|f
+Silver Lake|43.867|-71.172|US|New Hampshire|40|f
+Silver Lake|42.757|-71.598|US|New Hampshire|40|f
+Silver Lake|43.077|-88.493|US|Wisconsin|40|f
+Silver Lake National Wildlife Refuge|48.251|-99.216|US|North Dakota|40|f
+Silver Lake Provincial Park|44.833|-76.579|CA|Ontario|40|f
+Silver Lake State Park|43.679|-86.511|US|Michigan|40|f
+Silver Lake State Park|42.763|-71.593|US|New Hampshire|40|f
+Silver Lake State Park|42.679|-78.057|US|New York|40|f
+Silver Lake State Park|43.733|-72.614|US|Vermont|40|f
+Silver Lakes|57.500|-121.203|CA|British Columbia|40|f
+Silver Memorial Bridge|38.835|-82.148|US|West Virginia|40|f
+Silver Mountain|37.544|-90.461|US|Missouri|40|f
+Silver River Museum and Environmental Education Center|29.201|-82.051|US|Florida|40|f
+Silver River State Park|29.209|-82.019|US|Florida|40|f
+Silver Sands State Park|41.203|-73.071|US|Connecticut|40|f
+Silver Snag Lake|49.530|-125.083|CA|British Columbia|40|f
+Silver Star Mountain|45.748|-122.239|US|Washington|40|f
+Silver Star Park|50.375|-119.086|CA|British Columbia|40|f
+Silverforsen Folkets Park|55.788|13.116|SE|Skåne|40|f
+Silverlake Stadium|50.953|-1.372|GB|England|40|f
+Silvermere Lake|49.167|-122.408|CA|British Columbia|40|f
+Silverstein Peak|-78.547|-85.654|AQ||40|f
+Silverthrone Glacier|51.433|-125.886|CA|British Columbia|40|f
+Silvertip Mountain|49.166|-121.219|CA|British Columbia|40|f
+Silvretta Stausee|46.913|10.096|AT|Vorarlberg|40|f
+Silvrettagletscher|46.853|10.080|CH|Grisons|40|f
 Sila|-8.502|118.620|ID|West Nusa Tenggara|0
 Sila Lat|15.472|104.072|TH|Si Sa Ket|0
 Silame|13.039|4.846|NG|Sokoto|0
+Silao|22.930|112.226|CN|Guangdong|0
 Siles|38.390|-2.582|ES|Andalusia|0
 Silgaḍhi̇̄|29.267|80.984|NP|Sudurpashchim Pradesh|0
+Sili|28.400|117.167|CN|Jiangxi|0
+Silidian|33.466|112.916|CN|Henan|0
+Silihe|28.412|111.823|CN|Hunan|0
+Silipeng|30.945|113.611|CN|Hubei|0
 Siliragung|-8.557|114.112|ID|East Java|0
+Siliwu|46.570|123.261|CN|Heilongjiang|0
 Sille|37.927|32.420|TR|Konya|0
+Silo|-8.217|113.854|ID|East Java|0
+Silodakon|-8.168|113.502|ID|East Java|0
+Silonang|-8.322|124.721|ID|East Nusa Tenggara|0
+Siluman|-7.342|108.237|ID|West Java|0
+Silun|22.709|111.320|CN|Guangdong|0
 Silvalen|65.983|12.289|NO|Nordland|0

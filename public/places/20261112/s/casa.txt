@@ -20,6 +20,7 @@ Casa de Oro-Mount Helix|32.764|-116.969|US|California|85
 Casavatore|40.899|14.277|IT|Campania|85
 Casamassima|40.957|16.921|IT|Apulia|85
 Casa Blanca|19.042|-98.119|MX|Puebla|85
+Casa Batlló|41.392|2.165|ES|Catalonia|84|f
 Casal Bertone|41.898|12.534|IT|Lazio|84
 Casagiove|41.071|14.312|IT|Campania|83
 Casandrino|40.928|14.247|IT|Campania|82
@@ -36,6 +37,7 @@ Casalgrande|44.585|10.736|IT|Emilia-Romagna|77
 Casano-Dogana-Isola|44.076|10.034|IT|Liguria|77
 Casatenovo|45.695|9.313|IT|Lombardy|76
 Casabianca|5.080|-75.121|CO|Tolima Department|76
+Casa Grande Municipal Airport|32.955|-111.767|US|Arizona|76|f
 Casapesenna|40.992|14.136|IT|Campania|76
 Ca' Savio|45.454|12.457|IT|Veneto|75
 Casarza Ligure|44.272|9.447|IT|Liguria|75
@@ -80,6 +82,7 @@ Casalmorano|45.288|9.899|IT|Lombardy|64
 Casa Nueva|19.833|-99.209|MX|México|64
 Casanova|41.193|13.963|IT|Campania|64
 Casalazzara|41.623|12.576|IT|Lazio|63
+Casa Grande Ruins National Monument|32.997|-111.533|US|Arizona|63|f
 Casavieja|40.283|-4.767|ES|Castille and León|63
 Casa Blanca|25.432|-108.425|MX|Sinaloa|63
 Casalnuovo Monterotaro|41.619|15.104|IT|Apulia|63
@@ -110,28 +113,67 @@ Casamassella|40.114|18.451|IT|Apulia|60
 Casas Viejas|19.152|-100.108|MX|México|60
 Casale|44.917|10.432|IT|Emilia-Romagna|60
 Casalbeltrame|45.438|8.467|IT|Piedmont|60
+Casalbagliano|44.897|8.567|IT|Piedmont|60
+Casa Blanca (Cuyotliapa)|18.585|-98.513|MX|Puebla|59
 Casale Litta|45.768|8.741|IT|Lombardy|59
+Casanova del Morbasco|45.163|9.963|IT|Lombardy|59
 Casalborgone|45.130|7.940|IT|Piedmont|59
 Casaleggio Novara|45.488|8.493|IT|Piedmont|59
+Casa Blanca|22.885|-102.306|MX|Zacatecas|59
+Casalbellotto|44.963|10.476|IT|Lombardy|59
+Casas Coloradas|19.474|-100.054|MX|México|59
+Casa Blanqueada|-3.737|-80.454|PE|Tumbes|59
 Casas del Monte|40.203|-5.962|ES|Extremadura|59
+Casas Viejas|17.987|-95.258|MX|Veracruz|59
+Casa Veche|44.868|24.317|RO|Vâlcea County|59
+Casa Blanca|20.752|-100.505|MX|Querétaro|59
+Casavitola|41.652|13.443|IT|Lazio|59
 Casas de Haro|39.334|-2.273|ES|Castille-La Mancha|58
+Casacancha|-12.788|-74.632|PE|Huancavelica|58
 Casalvolone|45.400|8.465|IT|Piedmont|58
+Casanova di Torre|43.293|12.660|IT|Umbria|58
+Casalborsetti|44.552|12.280|IT|Emilia-Romagna|58
 Casas de Ves|39.250|-1.333|ES|Castille-La Mancha|58
+Casa Nueva (Casa Nueva Yebuciví)|19.490|-99.916|MX|México|58
 Casacanditella|42.246|14.200|IT|Abruzzo|58
+Casali|42.206|12.796|IT|Lazio|58
+Casa Blanca|19.864|-100.448|MX|Michoacán|58
 Casalnoceto|44.913|8.984|IT|Piedmont|58
 Casatisma|45.046|9.131|IT|Lombardy|57
 Casape|41.907|12.886|IT|Lazio|57
 Casal Cermelli|44.835|8.625|IT|Piedmont|57
 Casas de Millán|39.818|-6.330|ES|Extremadura|57
 Casaletto Spartano|40.151|15.621|IT|Campania|57
+Casa Blanca|19.363|-100.168|MX|México|57
+Casa Blanca|19.662|-98.241|MX|Tlaxcala|57
+Casa Rocco d'Amato|40.680|14.832|IT|Campania|57
 Casas|23.727|-98.737|MX|Tamaulipas|57
+Casa Blanca|20.244|-98.991|MX|Hidalgo|57
+Casale della Madonna|45.777|13.168|IT|Friuli Venezia Giulia|57
+Casa Blanca|20.931|-99.968|MX|Querétaro|56
 Casas del Castañar|40.108|-5.905|ES|Extremadura|56
 Casal Velino|40.190|15.111|IT|Campania|56
 Casale Marittimo|43.297|10.617|IT|Tuscany|56
 Casargo|46.039|9.387|IT|Lombardy|56
+Casa Blanca|-13.034|-76.455|PE|Lima region|56
+Casacastalda|43.197|12.647|IT|Umbria|56
+Casaburi|40.040|15.302|IT|Campania|56
 Casares de las Hurdes|40.433|-6.283|ES|Extremadura|56
+Casas Viejas|24.038|-106.810|MX|Sinaloa|55
+Casateia|46.883|11.407|IT|Trentino-Alto Adige|55
+Casa Quemada|19.331|-97.016|MX|Veracruz|55
+Ca' Sabbioni|45.457|12.184|IT|Veneto|55
 Casalanguida|42.038|14.496|IT|Abruzzo|55
+Casabianca|45.221|7.946|IT|Piedmont|55
 Casas de los Pinos|39.334|-2.370|ES|Castille-La Mancha|54
+Casacancha|-11.905|-75.257|PE|Junin|54
+Casaglia|44.902|11.542|IT|Emilia-Romagna|54
+Casanova|46.076|13.183|IT|Friuli Venezia Giulia|54
+Casa dei Mercanti|45.443|10.997|IT|Veneto|54|f
+Casa Grande Peak|29.268|-103.287|US|Texas|54|f
+Casa Leoni|35.890|14.477|MT|Saint Venera|54|f
+Casabianca Island|-64.812|-63.511|AQ||54|f
+Casa del Campesino|23.264|-98.845|MX|Tamaulipas|54
 Casalduni|41.261|14.695|IT|Campania|54
 Casaletto di Sopra|45.419|9.783|IT|Lombardy|53
 Casalvecchio Siculo|37.959|15.324|IT|Sicily|53
@@ -164,6 +206,33 @@ Casaseca de Campeán|41.374|-5.746|ES|Castille and León|42
 Casas de Guijarro|39.350|-2.167|ES|Castille-La Mancha|42
 Casa de Uceda|40.841|-3.368|ES|Castille-La Mancha|41
 Casalattico|41.622|13.726|IT|Lazio|41
+Casa Buonarroti|43.770|11.264|IT|Tuscany|40|f
+Casa das Histórias Paula Rego|38.695|-9.424|PT|Lisbon|40|f
+Casa de Castril|37.179|-3.592|ES|Andalusia|40|f
+Casa de Cisneros|40.415|-3.710|ES|Madrid|40|f
+Casa de La Panadería|40.416|-3.707|ES|Madrid|40|f
+Casa de las Conchas|40.963|-5.666|ES|Castille and León|40|f
+Casa de los Balcones|28.388|-16.526|ES|Canary Islands|40|f
+Casa de Los Coroneles|28.607|-13.925|ES|Canary Islands|40|f
+Casa de los Dragones|35.887|-5.309|ES|Ceuta|40|f
+Casa de Moneda de Colombia|4.597|-74.074|CO|Bogota D.C.|40|f
+Casa de Pilatos|37.390|-5.987|ES|Andalusia|40|f
+Casa de Serralves|41.160|-8.656|PT|Porto|40|f
+Casa dei Cavalieri di Rodi|41.895|12.486|IT|Lazio|40|f
+Casa del Labrador|40.041|-3.587|ES|Madrid|40|f
+Casa do Infante|41.141|-8.615|PT|Porto|40|f
+Casa Lis|40.959|-5.667|ES|Castille and León|40|f
+Casa Museu Fernando de Castro|41.167|-8.596|PT|Porto|40|f
+Casa Museu Gaudí|41.414|2.154|ES|Catalonia|40|f
+Casa Navàs|41.155|1.109|ES|Catalonia|40|f
+Casa Tait|41.148|-8.629|PT|Porto|40|f
+Casa-Museu Dr. Anastácio Gonçalves|38.733|-9.146|PT|Lisbon|40|f
+Casa-Museu Salvador Dalí|42.293|3.286|ES|Catalonia|40|f
+Casa-Oficina António Carneiro|41.150|-8.594|PT|Porto|40|f
+Casad Dam|47.537|-122.780|US|Washington|40|f
+Casanna|46.859|9.828|CH|Grisons|40|f
+Casanovas Peak|-62.583|-60.712|AQ||40|f
+Casatelli Peak|-80.367|155.517|AQ||40|f
 Casafranca|40.593|-5.760|ES|Castille and León|38
 Casasco|44.827|9.006|IT|Piedmont|34
 Casas de Garcimolina|40.000|-1.417|ES|Castille-La Mancha|31

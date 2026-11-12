@@ -9,6 +9,7 @@ Lagos de Moreno|21.359|-101.933|MX|Jalisco|100
 Lagoa Santa|-19.630|-43.901|BR|Minas Gerais|98
 Laguna Niguel|33.523|-117.708|US|California|96
 Lagoa da Prata|-20.023|-45.544|BR|Minas Gerais|95
+Lago Trasimeno|43.133|12.100|IT|Umbria|94|f
 Laguna|38.421|-121.424|US|California|93
 La Goulette|36.819|10.306|TN|Tunis Governorate|93
 Lago da Pedra|-4.560|-45.132|BR|Maranhão|93
@@ -28,12 +29,14 @@ Lagunillas|8.505|-71.389|VE|Mérida|89
 Lagoa Vermelha|-28.209|-51.526|BR|Rio Grande do Sul|89
 Lagoa Seca|-7.171|-35.854|BR|Paraíba|89
 La Garenne-Colombes|48.905|2.247|FR|Île-de-France|88
+Lago Gatún|9.199|-79.895|PA||88|f
 Lago Sul|-15.846|-47.884|BR|Federal District|88
 La Guaira|10.602|-66.933|VE|Vargas|88
 Lagoa Grande|-8.997|-40.272|BR|Pernambuco|88
 La Gomera|14.082|-91.054|GT|Escuintla|88
 Laguna Beach|33.542|-117.783|US|California|87
 Laguna City|22.306|114.229|HK|Kwun Tong District|87
+Lagoon Mirim|-32.725|-53.046|BR||87|f
 Laguna de Duero|41.582|-4.723|ES|Castille and León|87
 Lagny-sur-Marne|48.867|2.717|FR|Île-de-France|86
 Lagoa do Itaenga|-7.936|-35.290|BR|Pernambuco|86
@@ -41,6 +44,7 @@ Lágymányos|47.472|19.058|HU|Pest County|86
 Lagawe|16.800|121.119|PH|Cordillera|86
 Lagoa Formosa|-18.779|-46.407|BR|Minas Gerais|86
 Lagoa da Canoa|-9.830|-36.738|BR|Alagoas|85
+La Gomera Airport|28.030|-17.215|ES|Canary Islands|85|f
 Laguna Verde|22.307|114.191|HK|Kowloon City|85
 Lagoa do Carro|-7.845|-35.320|BR|Pernambuco|85
 Laguilayan|6.672|124.525|PH|Soccsksargen|85
@@ -48,6 +52,7 @@ Laghman|34.783|70.183|AF||85|r
 Laguna Woods|33.610|-117.725|US|California|84
 Lagoa Real|-14.035|-42.142|BR|Bahia|84
 La Grange|41.805|-87.869|US|Illinois|84
+Lagoon of Narta|40.539|19.423|AL|Vlorë County|84|f
 Lagoa Nova|-6.094|-36.472|BR|Rio Grande do Norte|84
 la Guineueta|41.439|2.169|ES|Catalonia|84
 la Garriga|41.683|2.283|ES|Catalonia|84
@@ -56,6 +61,7 @@ Lago Verde|-4.042|-44.933|BR|Maranhão|83
 Lagoa|37.745|-25.572|PT|Azores|83
 Lagoa dos Gatos|-8.658|-35.900|BR|Pernambuco|83
 Lagan’|45.392|47.365|RU|Kalmykiya Republic|83
+LaGuardia Airport|40.776|-73.873|US|New York|83|f
 Lagoa da Confusão|-10.794|-49.624|BR|Tocantins|83
 La Grange Park|41.835|-87.862|US|Illinois|83
 La Grande|45.325|-118.088|US|Oregon|82
@@ -65,7 +71,9 @@ Laguna Paiva|-31.307|-60.661|AR|Santa Fe|82
 La Guata|15.083|-86.383|HN|Olancho Department|82
 Lagoa do Ouro|-9.127|-36.458|BR|Pernambuco|82
 Lagoa Grande do Maranhão|-4.991|-45.386|BR|Maranhão|81
+La Grande Rivière Airport|53.625|-77.704|CA|Quebec|81|f
 Lagoa do Mato|-6.047|-43.526|BR|Maranhão|80
+Laguna de Bay|14.375|121.241|PH||80|f
 La Gangosa Vistasol|36.806|-2.622|ES|Andalusia|80
 Lago do Junco|-4.606|-45.054|BR|Maranhão|80
 Lagunas|-5.227|-75.675|PE|Loreto|79
@@ -73,13 +81,18 @@ Lagonglong|8.807|124.790|PH|Northern Mindanao|79
 Lagoa Grande|-17.835|-46.514|BR|Minas Gerais|79
 La Grange|38.408|-85.379|US|Kentucky|79
 Lagoa Salgada|-6.121|-35.477|BR|Rio Grande do Norte|78
+Lagoon of Viluni|41.874|19.444|AL|Shkodër County|78|f
 Lagoa Alegre|-4.516|-42.625|BR|Piauí|78
 Laguna Larga|-31.776|-63.800|AR|Cordoba|78
 Lagoa de Dentro|-6.673|-35.379|BR|Paraíba|78
+La Gomera|28.100|-17.133|ES|Canary Islands|78|f
+Lågøya|80.287|18.404|SJ|Svalbard|78|f
 Laguna Salada|19.650|-71.084|DO|Valverde Province|78
 Lagoa de Pedras|-6.149|-35.438|BR|Rio Grande do Norte|77
 La Grande-Motte|43.561|4.085|FR|Occitanie|77
 Lagonoy|13.734|123.521|PH|Bicol Region|77
+Laguna Neskynpil’gyn|66.966|-173.023|RU|Chukotka|77|f
+Laguna Verde|-22.795|-67.838|BO|Potosí Department|77|f
 Lagord|46.189|-1.154|FR|New Aquitaine|77
 Laguna Carapã|-22.546|-55.150|BR|Mato Grosso do Sul|77
 Lagoa d'Anta|-6.391|-35.598|BR|Rio Grande do Norte|76
@@ -89,6 +102,7 @@ Lago Vista|30.460|-97.988|US|Texas|76
 Lagnieu|45.902|5.344|FR|Auvergne-Rhône-Alpes|76
 Lagoa de São Francisco|-4.393|-41.601|BR|Piauí|76
 Lagoa|37.135|-8.453|PT|Faro|76
+Lagginhorn|46.157|8.003|CH|Valais|75|f
 Lagodekhi|41.827|46.275|GE|Kakheti|75
 La Guancha|28.373|-16.652|ES|Canary Islands|75
 Lagoão|-29.235|-52.796|BR|Rio Grande do Sul|75
@@ -102,11 +116,14 @@ Lagonegro|40.128|15.762|IT|Basilicate|74
 La Grand-Croix|45.504|4.559|FR|Auvergne-Rhône-Alpes|74
 Lagoa do Piauí|-5.415|-42.643|BR|Piauí|74
 La Grange|29.905|-96.877|US|Texas|73
+Lages Airport|-27.782|-50.282|BR|Santa Catarina|73|f
+Laguna Gaiba|-17.750|-57.717|BO||73|f
 Lagoa|-6.571|-37.916|BR|Paraíba|73
 La Guerche-de-Bretagne|47.942|-1.231|FR|Brittany|73
 Laguit Centro|15.947|120.190|PH|Ilocos|73
 Lagoa do Sítio|-6.513|-41.584|BR|Piauí|73
 La Griega|20.666|-100.240|MX|Querétaro|72
+Laguna Mountains|32.808|-116.449|US|California|72|f
 La Galarza|18.668|-98.455|MX|Puebla|72
 La Guardia de Jaén|37.743|-3.693|ES|Andalusia|72
 Lago Puelo|-42.067|-71.604|AR|Chubut|72
@@ -115,12 +132,17 @@ Lagosanto|44.763|12.140|IT|Emilia-Romagna|72
 Laguna Beach|30.240|-85.924|US|Florida|72
 La Garnache|46.892|-1.832|FR|Pays de la Loire|72
 Laguna de Guadalupe|21.799|-101.357|MX|Guanajuato|71
+La Galite|37.526|8.929|TN|Bizerte Governorate|71|f
+Lagosta Island|42.753|16.875|HR|Dubrovnik-Neretva|71|f
+Lague Airport|-2.450|14.533|CG|Plateaux|71|f
 Lagoa do Tocantins|-10.378|-47.551|BR|Tocantins|71
 Lagyná|40.724|23.004|GR|Central Macedonia|71
 La Gotera|20.865|-100.376|MX|Querétaro|71
 Laguna Heights|26.080|-97.254|US|Texas|71
 Lagoa dos Patos|-16.983|-44.582|BR|Minas Gerais|70
 Laguna Vista|26.101|-97.290|US|Texas|70
+La Garita Mountains|38.023|-106.923|US|Colorado|70|f
+Laguna Yaxjá|17.067|-89.409|GT|Petén|70|f
 Lagasit|15.993|120.794|PH|Ilocos|70
 La Gloria|19.426|-96.402|MX|Veracruz|70
 Lagindingan|8.575|124.442|PH|Northern Mindanao|70
@@ -134,6 +156,8 @@ Lägerdorf|53.888|9.572|DE|Schleswig-Holstein|69
 Laguna de San Vicente|21.946|-100.859|MX|San Luis Potosí|69
 Laguna Yema|-24.256|-61.245|AR|Formosa|69
 Lagrange|41.642|-85.417|US|Indiana|69
+Lago Cochrane|-47.248|-72.057|CL||69|f
+Laguna Yolnajab|16.055|-91.571|GT|Huehuetenango|69|f
 La Gaubretière|46.943|-1.065|FR|Pays de la Loire|69
 Laguna del Rey (Químicas del Rey)|27.031|-103.367|MX|Coahuila|68
 Laguna de Santa Rita|22.114|-100.847|MX|San Luis Potosí|68
@@ -150,6 +174,11 @@ Lagardelle-sur-Lèze|43.412|1.388|FR|Occitanie|68
 La Granja|-31.009|-64.268|AR|Cordoba|68
 La Garrovilla|38.920|-6.477|ES|Extremadura|68
 La Guardia|39.788|-3.476|ES|Castille-La Mancha|67
+La Graufesenque|44.096|3.093|FR|Occitanie|67|f
+Lago de Güija|14.257|-89.535|GT||67|f
+Lagoon of the Willow|-34.814|-55.057|UY|Maldonado|67|f
+Laguna Marfil|-15.517|-60.250|BO||67|f
+Laguna Olomega|13.317|-88.067|SV||67|f
 Lagoa Bonita do Sul|-29.490|-53.013|BR|Rio Grande do Sul|67
 Laguitas|8.089|125.131|PH|Northern Mindanao|67
 La Gineta|39.115|-1.996|ES|Castille-La Mancha|67
@@ -162,6 +191,12 @@ Lagartera 1ra. Sección|18.063|-92.886|MX|Tabasco|66
 Lago|41.621|-8.413|PT|Braga|66
 Lagny-le-Sec|49.087|2.745|FR|Hauts-de-France|65
 La Gloria|15.964|-91.965|MX|Chiapas|65
+Lago Colico Airport|-39.057|-72.077|CL|Araucania|65|f
+Lago Gualletué|-38.679|-71.293|CL|Araucania|65|f
+Laguindingan International Airport|8.612|124.456|PH|Northern Mindanao|65|f
+Laguna Concepción|-17.483|-61.417|BO|Santa Cruz Department|65|f
+Laguna de Chiriquí|9.066|-82.108|PA|Bocas del Toro Province|65|f
+Laguna Rogaguado|-12.867|-65.717|BO|Beni Department|65|f
 Lagunitas-Forest Knolls|38.018|-122.691|US|California|65
 La Goleta|19.739|-101.083|MX|Michoacán|65
 La Gloria|16.149|-94.093|MX|Chiapas|65
@@ -184,6 +219,23 @@ Laguenne|45.242|1.781|FR|New Aquitaine|64
 La Goma|25.485|-103.688|MX|Durango|64
 Laguardia|42.555|-2.585|ES|Basque Country|64
 La Gloria|17.442|-92.954|MX|Chiapas|63
+La Grande-3 Airport|53.572|-76.190|CA|Quebec|63|f
+La Grande-4 Airport|53.754|-73.679|CA|Quebec|63|f
+Lago de Coatepeque|13.864|-89.546|SV||63|f
+Lago di Lentini|37.317|14.950|IT|Sicily|63|f
+Lago Vista TX - Rusty Allen Airport|30.499|-97.969|US|Texas|63|f
+Lago Ypacarai|-25.308|-57.337|PY||63|f
+Lagoa de Tramandaí|-29.965|-50.159|BR|Rio Grande do Sul|63|f
+Lagoa Mandioré|-18.142|-57.561|BO||63|f
+Laguna Choclococha|-13.204|-75.077|PE|Huancavelica|63|f
+Laguna Coruto|-22.427|-67.009|BO|Potosí Department|63|f
+Laguna de Caratasca|15.383|-83.867|HN|Gracias a Dios Department|63|f
+Laguna de La Cocha|1.097|-77.149|CO|Nariño|63|f
+Laguna Langui Layo|-14.476|-71.224|PE|Cuzco Department|63|f
+Laguna Ojo de Liebre|27.727|-114.174|MX|Baja California Sur|63|f
+Laguna Otún|4.783|-75.401|CO|Risaralda Department|63|f
+Laguna Petexbatún|16.428|-90.189|GT|Petén|63|f
+Laguna Suches|-14.766|-69.279|BO||63|f
 La Génétouze|46.733|-1.517|FR|Pays de la Loire|63
 Laguna Verde|15.200|-88.167|HN|Santa Bárbara Department|63
 La Gavia|20.394|-100.881|MX|Guanajuato|63
@@ -220,6 +272,28 @@ Laguneta|18.341|-95.153|MX|Veracruz|61
 La Guadalupana|19.561|-99.895|MX|México|61
 Laguna Seca|14.700|-86.100|HN|Olancho Department|61
 Laghetti|46.275|11.240|IT|Trentino-Alto Adige|61
+Lago de Ilopango|13.673|-89.047|SV||61|f
+Lago di Bràies|46.695|12.085|IT|Trentino-Alto Adige|61|f
+Lago di Piana degli Albanesi|37.967|13.300|IT|Sicily|61|f
+Lago Nahuel Huapí|-40.919|-71.526|AR||61|f
+Lago Poopó|-18.822|-67.067|BO|Oruro|61|f
+Lagoa de Juturnaíba|-22.632|-42.305|BR|Rio de Janeiro|61|f
+Laguna Acucocha|-10.775|-76.539|PE|Pasco|61|f
+Laguna Ana|-52.068|-69.795|AR||61|f
+Laguna Corralero|16.203|-98.114|MX|Oaxaca|61|f
+Laguna de Arenal|10.517|-84.901|CR|Guanacaste Province|61|f
+Laguna de Oviedo|17.750|-71.367|DO|Pedernales Province|61|f
+Laguna de Parinacochas|-15.292|-73.698|PE|Ayacucho|61|f
+Laguna El Barco|-37.928|-71.278|CL|Biobio|61|f
+Laguna el Jabalí|19.304|-104.911|MX|Jalisco|61|f
+Laguna Honda|-38.050|-59.800|AR|Buenos Aires|61|f
+Laguna Lauricocha|-10.313|-76.696|PE|Huánuco Department|61|f
+Laguna Loa Airport|-14.284|-66.792|BO|Beni Department|61|f
+Laguna Loriscota|-16.869|-70.037|PE|Puno|61|f
+Laguna Miñiques|-23.766|-67.791|CL|Antofagasta|61|f
+Laguna Rimachuima|-4.420|-76.700|PE|Loreto|61|f
+Laguna Salada|32.390|-115.661|MX|Baja California|61|f
+Laguna Sibinacocha|-13.851|-71.029|PE|Cuzco Department|61|f
 Łagów|51.158|15.044|PL|Lower Silesia|61
 Lagnasco|44.625|7.555|IT|Piedmont|61
 La Garita|19.775|-103.122|MX|Jalisco|61
@@ -230,13 +304,363 @@ La Guásima|22.406|-105.388|MX|Nayarit|60
 Lagunitas|32.320|-114.896|MX|Sonora|60
 Laguna de Farfán|19.803|-96.643|MX|Veracruz|60
 La Guásima|20.540|-97.251|MX|Veracruz|60
+Lagbo|9.708|-3.121|CI|Zanzan District|60
+Lagunas|14.617|-88.483|HN|Lempira Department|60
+Laguna Grande|22.442|-103.504|MX|Zacatecas|60
+Laguna Seca|20.040|-98.125|MX|Puebla|60
+La Guierche|48.114|0.194|FR|Pays de la Loire|60
+Lagraulière|45.353|1.639|FR|New Aquitaine|59
+La Grange|40.043|-91.498|US|Missouri|59
+Lagedi|59.404|24.939|EE|Harjumaa|59
 Laglio|45.881|9.137|IT|Lombardy|59
+La Garrida|20.749|-101.360|MX|Guanajuato|59
+Laguna Kaná|19.503|-88.397|MX|Quintana Roo|59
+La Guadalupana|18.134|-94.521|MX|Veracruz|59
+Lagbora|8.492|-4.734|CI|Vallée du Bandama District|59
+Laguna Seca|23.202|-102.796|MX|Zacatecas|59
+Lago Verde|-44.240|-71.850|CL|Aysén|59
+La Garita|19.477|-100.487|MX|Michoacán|59
+Laguna Prieta|20.218|-101.347|MX|Guanajuato|59
+La Grandeza|20.518|-97.384|MX|Veracruz|59
 Laguna Dalga|42.332|-5.752|ES|Castille and León|59
+La Gala|38.118|15.231|IT|Sicily|59
+La Gresle|46.077|4.285|FR|Auvergne-Rhône-Alpes|58
+Lagunillas|20.313|-101.898|MX|Guanajuato|58
+La Glanerie|50.530|3.301|BE|Wallonia|58
+La Gloria|18.171|-95.206|MX|Veracruz|58
+Laguna de Lourdes|20.479|-100.049|MX|Querétaro|58
+Laggio di Cadore|46.496|12.480|IT|Veneto|58
+La Grande Municipal Airport|45.289|-118.006|US|Oregon|58|f
+La Grange Dam|37.672|-120.444|US|California|58|f
+Lagernoye, Lake|-67.667|45.850|AQ||58|f
+Lägh da Cavloc|46.380|9.705|CH|Grisons|58|f
+Lago d'Averno|40.838|14.075|IT|Campania|58|f
+Lago de Coipasa|-19.212|-68.130|BO|Oruro|58|f
+Lago de Yojoa|14.867|-87.983|HN||58|f
+Lago del Sambuco|46.460|8.656|CH||58|f
+Lago di Fondi|41.317|13.333|IT|Lazio|58|f
+Lago di Lucendro|46.562|8.541|CH|Ticino|58|f
+Lago Fagnano|-54.549|-68.547|AR||58|f
+Lago Nordenskjöld|-51.036|-72.961|CL|Region of Magallanes|58|f
+Lago San Roque|-31.374|-64.468|AR|Cordoba|58|f
+Lago Villarrica|-39.255|-72.088|CL|Araucania|58|f
+Lagonísi|37.778|23.888|GR|Attica|58|f
+Lagoon of Fire|37.762|-25.474|PT|Azores|58|f
+Lagos de Epulafquen|-39.804|-71.586|AR|Neuquen|58|f
+Laguna Aricota|-17.356|-70.284|PE|Tacna|58|f
+Laguna Cáceres|-18.950|-57.768|BO|Santa Cruz Department|58|f
+Laguna Catemaco|18.401|-95.065|MX|Veracruz|58|f
+Laguna Conococha|-10.128|-77.280|PE|Ancash|58|f
+Laguna de Cañapa|-21.505|-68.011|BO|Potosí Department|58|f
+Laguna de Cuitzeo|20.013|-101.103|MX|Michoacán|58|f
+Laguna de Leche|22.201|-78.617|CU|Ciego de Ávila Province|58|f
+Laguna de Términos|18.632|-91.510|MX|Campeche|58|f
+Laguna del Inca|-32.821|-70.134|CL|Valparaiso|58|f
+Laguna di Marano|45.735|13.163|IT|Friuli Venezia Giulia|58|f
+Laguna Pastos Grandes|-21.696|-67.756|BO|Potosí Department|58|f
+Laguna Pías|-7.905|-77.551|PE|La Libertad|58|f
+Laguna Potrok Aike|-51.963|-70.379|AR|Santa Cruz|58|f
+Laguna Rogagua|-13.961|-66.969|BO|Beni Department|58|f
+Laguna Uberaba|-17.509|-57.782|BO||58|f
+Laguna Ucumarini|-16.386|-70.403|PE|Moquegua Department|58|f
+Lagkadikia|40.636|23.247|GR|Central Macedonia|58
 la Granadella|41.350|0.667|ES|Catalonia|58
+La Gloria|20.840|-101.715|MX|Guanajuato|58
+La Galera|40.681|0.463|ES|Catalonia|58
+Laguna de Servín|20.272|-100.271|MX|Querétaro|58
+Laguna Grande|18.820|-90.290|MX|Campeche|58
+Lagrange|45.167|-68.844|US|Maine|58
+Lagarde-Enval|45.187|1.807|FR|New Aquitaine|58
+Laguépie|44.144|1.971|FR|Occitanie|58
+La Gloria|19.942|-105.371|MX|Jalisco|58
+Laguna Colorada|24.682|-107.310|MX|Sinaloa|58
+Lagkáda|38.478|26.124|GR|North Aegean|58
+La Geneytouse|45.786|1.468|FR|New Aquitaine|58
+Laguna Petej|16.790|-92.668|MX|Chiapas|58
+Lagunillas de Rayón (Alchichica)|18.486|-98.698|MX|Puebla|57
+Laguna Escondida|20.930|-100.605|MX|Guanajuato|57
+Lagbayo|8.460|-3.746|CI|Zanzan District|57
+Lagorce|44.448|4.417|FR|Auvergne-Rhône-Alpes|57
+Laganás|37.728|20.868|GR|Ionian Islands|57
+Lagoa do Furadouro|39.617|-8.551|PT|Santarém|57
+La Guayaba (Alto Amatitán)|17.900|-91.818|MX|Tabasco|57
+Lagopesole|40.803|15.734|IT|Basilicate|57
+Lagja e Shimshirve|42.380|21.740|RS|Central Serbia|57
+La Gloria|25.874|-97.621|MX|Tamaulipas|57
+La Genoveva|25.863|-108.913|MX|Sinaloa|57
+La Grancia|41.861|13.433|IT|Abruzzo|57
+Lagrange|-18.682|121.785|AU|Western Australia|57
+La Guásima|22.940|-106.118|MX|Sinaloa|57
+Lagbokaha|9.347|-5.430|CI|Savanes District|57
+Lagunillas|22.330|-99.566|MX|San Luis Potosí|57
+Laguna de Majahual|18.659|-95.299|MX|Veracruz|57
+Lagazé|5.906|-5.457|CI|Goh-Djiboua|57
+Lagja e Korbajve|42.387|21.743|RS|Central Serbia|57
+La Grandville|49.780|4.795|FR|Grand Est|57
+Lagrasse|43.091|2.619|FR|Occitanie|57
+Laguna|10.210|-84.401|CR|Alajuela Province|57
+La Granja|18.355|-96.259|MX|Veracruz|56
+Lagboro|8.094|-4.443|CI|Vallée du Bandama District|56
+Lago Posadas|-47.511|-71.772|AR|Santa Cruz|56
+La Guadalupe|16.676|-98.077|MX|Oaxaca|56
+La Guéroulde|48.813|0.889|FR|Normandy|56
+Laguna Guerrero|18.690|-88.267|MX|Quintana Roo|56
+La Guiche|46.545|4.452|FR|Bourgogne-Franche-Comté|56
+La Granja|21.441|-100.712|MX|Guanajuato|56
+Lagaro|44.218|11.179|IT|Emilia-Romagna|56
+La Garita|28.146|-105.581|MX|Chihuahua|56
+Laguna Arroyo Grande|18.086|-96.422|MX|Oaxaca|56
+La Genevraye|48.320|2.746|FR|Île-de-France|56
+La Granjena|20.394|-101.660|MX|Guanajuato|56
+Laglorieuse|43.867|-0.406|FR|New Aquitaine|56
+Lagoaça|41.192|-6.727|PT|Bragança|56
+La Goutelle|45.841|2.759|FR|Auvergne-Rhône-Alpes|56
+Lagunillas|18.217|-99.297|MX|Guerrero|56
+Laguna Seca (Sección Cuarta)|15.737|-96.464|MX|Oaxaca|56
+La Gloria|19.018|-96.123|MX|Veracruz|56
+Lagunilla|18.911|-97.055|MX|Veracruz|55
+La Garita|21.315|-97.919|MX|Veracruz|55
+La Grande-Verrière|46.965|4.140|FR|Bourgogne-Franche-Comté|55
+La Gravelle|48.073|-1.016|FR|Pays de la Loire|55
 Lagunilla del Jubera|42.334|-2.321|ES|La Rioja|55
+La Guásima|21.113|-97.838|MX|Veracruz|55
+Laguna del Carmen|16.649|-92.707|MX|Chiapas|55
+La Garganta|40.329|-5.823|ES|Extremadura|55
+Lagunilla de Mogotes|20.296|-101.259|MX|Guanajuato|55
+La Grulla de Abajo|21.104|-100.725|MX|Guanajuato|55
 Lagunilla|40.325|-5.971|ES|Castille and León|55
+La Gran Lucha|17.777|-96.313|MX|Oaxaca|55
+Lagunillas|21.202|-101.765|MX|Guanajuato|55
+La Gloria (La Tranca)|16.304|-92.469|MX|Chiapas|55
+Lago|45.986|12.215|IT|Veneto|55
+Lagunillas|20.224|-97.945|MX|Puebla|55
+Lagos|43.209|-0.225|FR|New Aquitaine|55
 La Grama|-7.464|-78.129|PE|Cajamarca Department|55
+La Giettaz|45.864|6.494|FR|Auvergne-Rhône-Alpes|55
+La Goma|21.717|-105.275|MX|Nayarit|55
+La Grande|44.718|11.063|IT|Emilia-Romagna|55
+Laguna de Labradores|24.816|-100.117|MX|Nuevo León|54
+La Granadilla|20.834|-97.570|MX|Veracruz|54
+Lagunillas|16.347|-98.222|MX|Oaxaca|54
+Lagja e Ternovcalive|42.390|21.744|RS|Central Serbia|54
+La Gaiola|40.791|14.187|IT|Campania|54|f
+La Grande-3 generating station|53.730|-75.968|CA|Quebec|54|f
+La Grange, Callaway Airport|33.009|-85.073|US|Georgia|54|f
+Lagan Navigation|54.600|-5.900|GB|Northern Ireland|54|f
+Lägern|47.482|8.394|CH|Aargau|54|f
+Laghetto di Muzzano|45.996|8.927|CH||54|f
+Lago Alajuela|9.237|-79.575|PA||54|f
+Lago Aluminé|-38.919|-71.130|AR|Neuquen|54|f
+Lago Argentino Aerodrome|-50.333|-72.300|AR|Santa Cruz|54|f
+Lago Arvo|39.233|16.483|IT|Calabria|54|f
+Lago Constancia|-40.642|-71.882|CL|Los Lagos Region|54|f
+Lago Cucao|-42.639|-74.066|CL|Los Lagos Region|54|f
+Lago d'Anterselva|46.889|12.164|IT|Trentino-Alto Adige|54|f
+Lago d'Idro|45.775|10.512|IT|Lombardy|54|f
+Lago del Coghinas|40.750|9.033|IT|Sardinia|54|f
+Lago del Predil|46.420|13.565|IT|Friuli Venezia Giulia|54|f
+Lago di Bilancino|43.978|11.263|IT|Tuscany|54|f
+Lago di Candia|45.317|7.900|IT|Piedmont|54|f
+Lago di Canterno|41.750|13.251|IT|Lazio|54|f
+Lago di Cavazzo|46.326|13.072|IT|Friuli Venezia Giulia|54|f
+Lago di Doberdò|45.830|13.561|IT|Friuli Venezia Giulia|54|f
+Lago di Endine|45.767|9.933|IT|Lombardy|54|f
+Lago di Mezzola|46.200|9.433|IT|Lombardy|54|f
+Lago di Misurina|46.583|12.254|IT|Veneto|54|f
+Lago di Santa Croce|46.112|12.340|IT|Veneto|54|f
+Lago di Vico|42.317|12.167|IT|Lazio|54|f
+Lago Enriquillo|18.522|-71.687|DO||54|f
+Lago Gurrida|37.850|14.900|IT|Sicily|54|f
+Lago Gutiérrez|-41.206|-71.411|AR|Rio Negro|54|f
+Lago Huechulafquén|-39.768|-71.335|AR|Neuquen|54|f
+Lago Lácar|-40.169|-71.509|AR|Neuquen|54|f
+Lago Larati|-17.333|-66.033|BO|Cochabamba|54|f
+Lago Menéndez|-42.696|-71.802|AR|Chubut|54|f
+Lago Omodeo|40.133|8.917|IT|Sardinia|54|f
+Lago Pellaifa|-39.600|-71.951|CL|Los Ríos Region|54|f
+Lago Porteño|-51.333|-72.788|CL|Region of Magallanes|54|f
+Lago Ritom|46.541|8.691|CH|Ticino|54|f
+Lago Valencia|-12.436|-68.820|PE|Madre de Dios|54|f
+Lago Yusala|-14.079|-67.153|BO|Beni Department|54|f
+Lago Zacapu|19.824|-101.786|MX|Michoacán|54|f
+Lagoa da Conceição|-27.560|-48.454|BR|Santa Catarina|54|f
+Lagoa de Araruama|-22.883|-42.188|BR|Rio de Janeiro|54|f
+Lagoa de Óbidos|39.410|-9.208|PT|Leiria|54|f
+Lagoa dos Patos|-31.112|-51.328|BR|Rio Grande do Sul|54|f
+Lagoa Mangueira|-33.123|-52.780|BR|Rio Grande do Sul|54|f
+Lagoon of Venice, bassi fondali|45.391|12.339|IT|Veneto|54|f
+Lagotellerie Island|-67.886|-67.402|AQ||54|f
+Lagrange Island|-66.770|141.469|AQ||54|f
+LaGrave Field|32.769|-97.337|US|Texas|54|f
+Lagrelius Point|-63.908|-58.297|AQ||54|f
+Laguna Agua Grande|22.715|-105.697|MX|Sinaloa|54|f
+Laguna Bahía Toco Largo|-16.533|-59.617|BO|Santa Cruz Department|54|f
+Laguna Carreras|-12.600|-65.200|BO|Beni Department|54|f
+Laguna Chauya|-8.963|-74.256|PE|Ucayali|54|f
+Laguna Cololo|-14.867|-69.250|BO|La Paz Department|54|f
+Laguna Coranto|-22.197|-66.938|BO|Potosí Department|54|f
+Laguna de Ayarza|14.419|-90.126|GT|Santa Rosa Department|54|f
+Laguna de Fúquene|5.459|-73.747|CO|Cundinamarca|54|f
+Laguna de la Laja|-37.305|-71.295|CL|Biobio|54|f
+Laguna de Lobos|-35.282|-59.119|AR|Buenos Aires|54|f
+Laguna de Tacarigua|10.269|-65.853|VE|Miranda|54|f
+Laguna de Tota|5.543|-72.923|CO|Boyacá|54|f
+Laguna del Carbón|-49.587|-68.342|AR|Santa Cruz|54|f
+Laguna del Maule|-36.061|-70.496|CL|Maule Region|54|f
+Laguna di Orbetello|42.450|11.233|IT|Tuscany|54|f
+Laguna El Pino|14.344|-90.394|GT|Santa Rosa Department|54|f
+Laguna Escondida|-54.648|-67.798|AR|Tierra del Fuego|54|f
+Laguna Guárico|7.918|-67.369|VE|Guárico|54|f
+Laguna Huaña Kkota|-18.033|-68.933|BO|Oruro|54|f
+Laguna Kara|-21.900|-67.861|BO|Potosí Department|54|f
+Laguna Lagunillas|-15.724|-70.743|PE|Puno|54|f
+Laguna Lake|38.215|-122.749|US|California|54|f
+Laguna Madre|26.797|-97.459|US|Texas|54|f
+Laguna Manialtepec|15.942|-97.190|MX|Oaxaca|54|f
+Laguna Mar Chiquita|-30.673|-62.536|AR|Cordoba|54|f
+Laguna Melincué|-33.707|-61.465|AR|Santa Fe|54|f
+Laguna Mountains|32.784|-114.447|US|Arizona|54|f
+Laguna Sauce|-6.706|-76.218|PE|San Martín Department|54|f
+Laguna Vilacota|-17.140|-70.036|PE|Tacna|54|f
+Laguna Volcán|-23.924|-65.474|AR|Jujuy|54|f
+Laguna Zapaleri|-22.733|-67.183|BO|Potosí Department|54|f
+Laguna Zumpango|19.786|-99.137|MX|México|54|f
+Laguneta Chichoj|15.361|-90.475|GT|Alta Verapaz|54|f
+Laguneta La Colorada|16.898|-89.452|GT|Petén|54|f
+Lagupie|44.555|0.114|FR|New Aquitaine|54
+La Gripperie-Saint-Symphorien|45.800|-0.951|FR|New Aquitaine|54
+Łagów|51.367|21.751|PL|Mazovia|54
+Laguna Seca|19.784|-99.733|MX|México|54
 Lagunillas|21.590|-99.566|MX|San Luis Potosí|54
+La Gorce Island|25.848|-80.129|US|Florida|49|f
+La Gorce Mountains|-86.667|-147.000|AQ||49|f
+La Grande Ruine|44.968|6.329|FR|Provence-Alpes-Côte d'Azur|49|f
+Lag Grond|46.670|9.033|CH|Grisons|49|f
+Lagally, Mount|-67.146|-67.093|AQ||49|f
+Laggard Island|-64.808|-64.015|AQ||49|f
+Lagh da Val Viola|46.404|10.139|CH|Grisons|49|f
+Lägh dal Lunghin|46.417|9.675|CH|Grisons|49|f
+Lagh de Pian Doss|46.450|9.205|CH|Grisons|49|f
+Lago Ampollino|39.200|16.617|IT|Calabria|49|f
+Lago Bayano|9.116|-78.785|PA|Panamá|49|f
+Lago Belgrano|-47.852|-72.142|AR|Santa Cruz|49|f
+Lago Bianco|46.406|10.017|CH||49|f
+Lago Cardiel|-48.920|-71.205|AR|Santa Cruz|49|f
+Lago Carite|18.068|-66.095|PR|Guayama|49|f
+Lago Cholila|-42.459|-71.670|AR|Chubut|49|f
+Lago d'Orta|45.813|8.396|IT|Piedmont|49|f
+Lago de Enol|43.272|-4.991|ES|Asturias|49|f
+Lago de Sanabria|42.117|-6.717|ES|Castille and León|49|f
+Lago de Valencia|10.186|-67.728|VE|Carabobo|49|f
+Lago del Fusaro|40.821|14.055|IT|Campania|49|f
+Lago del Turano|42.217|12.950|IT|Lazio|49|f
+Lago dell'Accesa|42.983|10.883|IT|Tuscany|49|f
+Lago di Bracciano|42.117|12.233|IT|Lazio|49|f
+Lago di Burano|42.400|11.383|IT|Tuscany|49|f
+Lago di Caldonazzo|46.018|11.243|IT|Trentino-Alto Adige|49|f
+Lago di Caprolace|41.350|12.967|IT|Lazio|49|f
+Lago di Cecita|39.383|16.533|IT|Calabria|49|f
+Lago di Chiusi|43.050|11.967|IT|Umbria|49|f
+Lago di Comabbio|45.767|8.700|IT|Lombardy|49|f
+Lago di Fimon|45.471|11.545|IT|Veneto|49|f
+Lago di Giacopiane|44.450|9.383|IT|Liguria|49|f
+Lago di Giulianello|41.691|12.850|IT|Lazio|49|f
+Lago di Laceno|40.817|15.100|IT|Campania|49|f
+Lago di Landro|46.631|12.231|IT|Trentino-Alto Adige|49|f
+Lago di Lesina|41.883|15.433|IT|Apulia|49|f
+Lago di Massaciuccoli|43.833|10.333|IT|Tuscany|49|f
+Lago di Mergozzo|45.955|8.465|IT|Piedmont|49|f
+Lago di Mezzano|42.617|11.767|IT|Lazio|49|f
+Lago di Monate|45.797|8.658|IT|Lombardy|49|f
+Lago di Montepulciano|43.083|11.917|IT|Umbria|49|f
+Lago di Pergusa|37.517|14.300|IT|Sicily|49|f
+Lago di Piediluco|42.533|12.750|IT|Umbria|49|f
+Lago di Pietra del Pertusillo|40.283|15.983|IT|Basilicate|49|f
+Lago di Pontesei|46.337|12.219|IT|Veneto|49|f
+Lago di Poschiavo|46.286|10.091|CH||49|f
+Lago di Resia|46.802|10.530|IT|Trentino-Alto Adige|49|f
+Lago di Scanno|41.917|13.867|IT|Abruzzo|49|f
+Lago di Tenno|45.938|10.816|IT|Trentino-Alto Adige|49|f
+Lago di Tovel|46.261|10.949|IT|Trentino-Alto Adige|49|f
+Lago di Val Noci|44.483|9.033|IT|Liguria|49|f
+Lago di Varano|41.883|15.750|IT|Apulia|49|f
+Lago di Varese|45.817|8.750|IT|Lombardy|49|f
+Lago di Vernago|46.736|10.835|IT|Trentino-Alto Adige|49|f
+Lago di Vogorno|46.212|8.857|CH|Ticino|49|f
+Lago Espejo|-40.638|-71.751|AR|Neuquen|49|f
+Lago Futalaufquen|-42.811|-71.670|AR|Chubut|49|f
+Lago Mascardi|-41.349|-71.544|AR|Rio Negro|49|f
+Lago Morto|46.063|12.322|IT|Veneto|49|f
+Lago Nero|46.449|8.540|CH||49|f
+Lago Pellegrini|-38.675|-68.012|AR|Rio Negro|49|f
+Lago Pirehueico|-39.928|-71.779|CL|Los Ríos Region|49|f
+Lago Puyehue|-40.665|-72.456|CL||49|f
+Lago Rivadavia|-42.605|-71.665|AR|Chubut|49|f
+Lago Salso|41.550|15.867|IT|Apulia|49|f
+Lago Sfundau|46.464|8.524|CH||49|f
+Lago Traful|-40.635|-71.427|AR|Neuquen|49|f
+Lago Tremorgio|46.479|8.720|CH|Ticino|49|f
+Lago Uru Uru|-18.119|-67.101|BO|Oruro|49|f
+Lago Verde|44.367|10.083|IT|Emilia-Romagna|49|f
+Lagoa do Mato|-2.991|-39.789|BR|Ceará|49|f
+Lagoa do Negro|38.733|-27.267|PT|Azores|49|f
+Lagoa Grande|-5.913|-36.524|BR|Rio Grande do Norte|49|f
+Lagoa Manguaba|-9.667|-36.917|BR|Alagoas|49|f
+Lagonoy Gulf|13.590|123.673|PH||49|f
+Lagoon Island|-67.594|-68.239|AQ||49|f
+Lagoon of the Seven Cities|37.855|-25.787|PT|Azores|49|f
+Lagrange Bay|-18.652|121.702|AU|Western Australia|49|f
+Lagrange Peak|-64.474|-62.421|AQ||49|f
+Laguna Alalay|-17.417|-66.133|BO|Cochabamba|49|f
+Laguna Blanca|-23.810|-56.284|PY|San Pedro Department|49|f
+Laguna Cacha|-15.972|-68.510|BO|La Paz Department|49|f
+Laguna Capina|-21.929|-67.577|BO|Potosí Department|49|f
+Laguna Carhuacocha|-10.245|-76.866|PE|Huánuco Department|49|f
+Laguna Celeste|-22.213|-67.107|BO|Potosí Department|49|f
+Laguna Chiar Kkola|-18.033|-69.050|BO|Oruro|49|f
+Laguna Chinancocha|-10.044|-76.407|PE|Huánuco Department|49|f
+Laguna Colorada|-22.220|-67.767|BO|Potosí Department|49|f
+Laguna de Aculeo|-33.845|-70.917|CL|Santiago Metropolitan|49|f
+Laguna de Gallocanta|40.965|-1.492|ES||49|f
+Laguna de los Padres|-37.936|-57.737|AR|Buenos Aires|49|f
+Laguna de Oc|14.300|-91.717|GT|Retalhuleu|49|f
+Laguna de Suesca|5.184|-73.785|CO|Cundinamarca|49|f
+Laguna de Vilama|-22.601|-66.928|AR|Jujuy|49|f
+Laguna de Yaguarcocha|0.372|-78.101|EC|Imbabura|49|f
+Laguna del Negro Francisco|-27.464|-69.220|CL|Atacama|49|f
+Laguna di Grado|45.714|13.350|IT|Friuli Venezia Giulia|49|f
+Laguna Diamante|-34.162|-69.694|AR|Mendoza|49|f
+Laguna Guatavita|4.977|-73.775|CO|Cundinamarca|49|f
+Laguna Hedionda|-22.417|-67.867|BO|Potosí Department|49|f
+Laguna Hedionda|-21.568|-68.047|BO|Potosí Department|49|f
+Laguna Huallatani|-17.017|-67.350|BO|La Paz Department|49|f
+Laguna Huascacocha|-11.089|-76.411|PE|Pasco|49|f
+Laguna Imiria|-8.864|-74.302|PE|Ucayali|49|f
+Laguna La Brava|-37.881|-57.977|AR|Buenos Aires|49|f
+Laguna Labrahuani|-16.133|-68.400|BO|La Paz Department|49|f
+Laguna Llancanelo|-35.604|-69.141|AR|Mendoza|49|f
+Laguna Loromayu|-22.410|-67.212|BO|Potosí Department|49|f
+Laguna Milluni|-16.333|-68.150|BO|La Paz Department|49|f
+Laguna Miscanti|-23.726|-67.767|CL|Antofagasta|49|f
+Laguna Nuevo Mundo|-15.828|-64.270|BO|Beni Department|49|f
+Laguna Paca|-11.728|-75.508|PE|Junin|49|f
+Laguna Pacucha|-13.611|-73.319|PE|Apurímac Department|49|f
+Laguna Petrel|-34.381|-71.994|CL|O'Higgins Region|49|f
+Laguna Puyehue|-39.057|-73.280|CL|Araucania|49|f
+Laguna Redonda Airport|-48.934|-72.801|CL|Aysén|49|f
+Laguna Sajama|-18.033|-68.950|BO|Oruro|49|f
+Laguna San Francisco|-15.941|-68.535|BO|La Paz Department|49|f
+Laguna Sausacocha|-7.795|-77.990|PE|La Libertad|49|f
+Laguna Seca|-37.350|-57.400|AR|Buenos Aires|49|f
+Laguna Siecha|4.765|-73.853|CO|Cundinamarca|49|f
+Laguna Singrenacocha|-13.660|-71.159|PE|Cuzco Department|49|f
+Laguna Socompa|-24.533|-68.217|AR|Salta|49|f
+Laguna Sora Kkota|-16.183|-68.350|BO|La Paz Department|49|f
+Laguna Taypi Chaka|-16.217|-68.350|BO|La Paz Department|49|f
+Laguna Tigre|5.153|-66.308|VE|Amazonas|49|f
+Laguna Tuyajto|-23.943|-67.592|CL|Antofagasta|49|f
+Laguna Verde|-37.150|-57.350|AR|Buenos Aires|49|f
+Laguna Verde|-15.467|-64.250|BO|Beni Department|49|f
 Lagunas|-4.789|-79.844|PE|Piura|48
 Laganadi|38.174|15.741|IT|Calabria|48
 La Ginebrosa|40.870|-0.135|ES|Aragon|47
@@ -246,6 +670,88 @@ Laguna de Contreras|41.495|-4.029|ES|Castille and León|44
 Lagartos|42.406|-4.905|ES|Castille and León|43
 Lagunaseca|40.531|-2.020|ES|Castille-La Mancha|42
 Lagata|41.240|-0.805|ES|Aragon|42
+La Grange Mine|40.741|-122.991|US|California|40|f
+La Grange Rock Shelter (historical)|34.659|-87.551|US|Alabama|40|f
+La Guajira Desert|12.072|-71.598|CO|La Guajira Department|40|f
+Lag da Breil|46.772|9.071|CH|Grisons|40|f
+Lag da Laus|46.703|8.916|CH|Grisons|40|f
+Lag da Pigniu|46.830|9.103|CH|Grisons|40|f
+Lag la Cresta|46.831|9.321|CH|Grisons|40|f
+Lag Prau Pulté|46.827|9.275|CH|Grisons|40|f
+Lag Prau Tuleritg|46.821|9.283|CH|Grisons|40|f
+Lagarfljót|65.183|-14.600|IS|East|40|f
+Lägh da Bitabergh|46.390|9.686|CH|Grisons|40|f
+Lagh da Palü|46.373|10.026|CH|Grisons|40|f
+Lagh da Saoseo|46.398|10.126|CH|Grisons|40|f
+Lagina|37.379|28.039|TR|Muğla|40|f
+Lago Aviolo|46.195|10.413|IT|Lombardy|40|f
+Lago Baccio|44.130|10.589|IT|Emilia-Romagna|40|f
+Lago Barbellino|46.064|10.052|IT|Lombardy|40|f
+Lago Bertrand|-46.935|-72.860|CL|Aysén|40|f
+Lago Cadagno|46.550|8.712|CH|Ticino|40|f
+Lago Cerrillos|18.089|-66.579|PR|Ponce|40|f
+Lago d'Alzasca|46.266|8.585|CH|Ticino|40|f
+Lago d'Arno|46.047|10.443|IT|Lombardy|40|f
+Lago d'Isola|46.450|9.189|CH|Grisons|40|f
+Lago d'Origlio|46.051|8.943|CH|Ticino|40|f
+Lago dei Cavagnöö|46.455|8.501|CH|Ticino|40|f
+Lago del Narét|46.478|8.569|CH||40|f
+Lago del Zött|46.433|8.503|CH|Ticino|40|f
+Lago della Vacca|45.955|10.439|IT|Lombardy|40|f
+Lago di Annone|45.811|9.350|IT|Lombardy|40|f
+Lago di Barrea|41.763|13.967|IT|Abruzzo|40|f
+Lago di Bomba|42.011|14.355|IT|Abruzzo|40|f
+Lago di Calaita|46.202|11.794|IT|Veneto|40|f
+Lago di Campotosto|42.534|13.388|IT|Abruzzo|40|f
+Lago di Lases|46.139|11.221|IT|Trentino-Alto Adige|40|f
+Lago di Ledro|45.877|10.751|IT|Trentino-Alto Adige|40|f
+Lago di Levico|46.013|11.280|IT|Trentino-Alto Adige|40|f
+Lago di Liscia|41.001|9.264|IT|Sardinia|40|f
+Lago di Livigno|46.609|10.181|IT|Lombardy|40|f
+Lago di Luzzone|46.568|8.978|CH|Ticino|40|f
+Lago di Mognòla|46.430|8.689|CH|Ticino|40|f
+Lago di Molveno|46.123|10.960|IT|Trentino-Alto Adige|40|f
+Lago di Montedoglio|43.598|12.064|IT|Tuscany|40|f
+Lago di Morghirolo|46.451|8.717|CH|Ticino|40|f
+Lago di Palagnedra|46.157|8.622|CH|Ticino|40|f
+Lago di Pusiano|45.803|9.272|IT|Lombardy|40|f
+Lago di Robièi|46.446|8.517|CH|Ticino|40|f
+Lago di San Domenico|41.942|13.829|IT|Abruzzo|40|f
+Lago di Sartirana|45.717|9.425|IT|Lombardy|40|f
+Lago di Toblino|46.053|10.966|IT|Trentino-Alto Adige|40|f
+Lago di Tom|46.550|8.689|CH|Ticino|40|f
+Lago di vagli|44.120|10.304|IT|Tuscany|40|f
+Lago Dos Bocas|18.324|-66.658|PR|Arecibo|40|f
+Lago La Plata|18.324|-66.233|PR|Toa Alta|40|f
+Lago Loiza|18.328|-66.016|PR|Trujillo Alto|40|f
+Lago Lucrino|40.829|14.080|IT|Campania|40|f
+Lago Pio|41.933|13.842|IT|Abruzzo|40|f
+Lago Retico|46.577|8.891|CH|Ticino|40|f
+Lago Rosario|-43.269|-71.328|AR|Chubut|40|f
+Lago Sachavacayoc|-12.895|-69.361|PE|Madre de Dios|40|f
+Lago Santo|44.402|10.008|IT|Emilia-Romagna|40|f
+Lagoas Cufada Natural Park|11.709|-15.048|GW|Quinara|40|f
+Lågskär|59.839|19.920|AX|Ålands landsbygd|40|f
+Laguna Atascosa National Wildlife Refuge|26.193|-97.327|US|Texas|40|f
+Laguna Blanca|-22.803|-67.793|BO|Potosí Department|40|f
+Laguna Blanca|34.431|-119.760|US|California|40|f
+Laguna Cabarete|19.752|-70.426|DO|Puerto Plata|40|f
+Laguna Cartagena National Wildlife Refuge|18.011|-67.100|PR|Lajas|40|f
+Laguna Cuitzeo|19.917|-100.850|MX|Michoacán|40|f
+Laguna de La Restinga|10.955|-64.137|VE|Nueva Esparta|40|f
+Laguna del Laja National Park|-37.417|-71.350|CL|Biobio|40|f
+Laguna Joyuda|18.130|-67.177|PR|Cabo Rojo|40|f
+Laguna La Sarca|-12.467|-64.983|BO|Beni Department|40|f
+Laguna Lake|35.266|-120.692|US|California|40|f
+Laguna Marcapomacocha|-11.402|-76.347|PE|Junin|40|f
+Laguna Niguel Regional Park|33.551|-117.708|US|California|40|f
+Laguna Pomacanchi|-14.002|-71.544|PE|Cuzco Department|40|f
+Laguna San Antonio|-14.767|-65.600|BO|Beni Department|40|f
+Laguna San Jorge|-15.817|-63.850|BO|Beni Department|40|f
+Laguna San Lorenzo|-14.158|-67.238|BO|Beni Department|40|f
+Laguna Seca|36.584|-121.755|US|California|40|f
+Laguna Victoria|-13.965|-63.614|BO|Beni Department|40|f
+Lagunas de Ruidera|38.959|-2.900|ES|Castille-La Mancha|40|f
 La Garceana|7.941|-81.015|PA|Veraguas Province|39
 La Guinea|8.343|-78.930|PA|Panamá|38
 Laguna del Marquesado|40.177|-1.672|ES|Castille-La Mancha|37

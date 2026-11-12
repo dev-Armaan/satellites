@@ -1,5 +1,5 @@
-Bacău County|46.417|26.833|RO||117|r
-Bács-Kiskun|46.500|19.417|HU||114|r
+Bacău County|46.417|26.833|RO||118|r
+Bács-Kiskun|46.500|19.417|HU||115|r
 Bacolod City|10.667|122.950|PH|Western Visayas|113
 Bắc Giang|21.273|106.195|VN|Bac Ninh|113
 Bacoor|14.459|120.939|PH|Calabarzon|111
@@ -19,6 +19,7 @@ Bachhraon|28.927|78.235|IN|Uttar Pradesh|89
 Back Mountain|41.336|-75.996|US|Pennsylvania|89
 Bacoli|40.797|14.073|IT|Campania|88
 Bacchus Marsh|-37.673|144.438|AU|Victoria|88
+Bacău George Enescu International Airport|46.522|26.910|RO|Bacău County|87|f
 Bacheli|18.684|81.269|IN|Chhattisgarh|87
 Bacuri|-1.728|-45.142|BR|Maranhão|85
 Back Bay|42.350|-71.087|US|Massachusetts|85
@@ -39,6 +40,7 @@ Bacarra|18.253|120.612|PH|Ilocos|80
 Bačko Petrovo Selo|45.707|20.079|RS|Vojvodina|79
 Bacliff|29.507|-94.992|US|Texas|79
 Bacobampo|26.982|-109.653|MX|Sonora|79
+Bạch Long Vĩ Island|20.134|107.729|VN|Hai Phong|78|f
 Baciu|46.800|23.517|RO|Cluj County|78
 Bácsalmás|46.126|19.333|HU|Bács-Kiskun|78
 Bacuyangan|9.637|122.472|PH|Western Visayas|78
@@ -50,6 +52,7 @@ Bacag|15.930|120.582|PH|Ilocos|75
 Bacuag|9.608|125.639|PH|Caraga|75
 Bacolod|8.117|123.917|PH|Northern Mindanao|74
 Bacurituba|-2.706|-44.738|BR|Maranhão|74
+Bachtel|47.295|8.886|CH|Zurich|74|f
 Bacong|9.246|123.296|PH|Central Visayas|74
 Bachajón|17.040|-92.190|MX|Chiapas|74
 Bacon|13.038|124.041|PH|Bicol Region|74
@@ -70,6 +73,7 @@ Baculin|7.452|126.584|PH|Davao Region|69
 Baco|13.357|121.098|PH|Mimaropa|69
 Bacolod|12.229|123.509|PH|Bicol Region|69
 Băcani|46.333|27.667|RO|Vaslui County|69
+Backbone Mountain|39.107|-79.603|US|West Virginia|69|f
 Bachauan|11.207|123.963|PH|Central Visayas|69
 Bacsay|15.621|120.343|PH|Central Luzon|68
 Bacabchén|20.289|-90.057|MX|Campeche|68
@@ -77,6 +81,8 @@ Bachhagel|48.632|10.320|DE|Bavaria|68
 Bachant|50.215|3.868|FR|Hauts-de-France|68
 Bacundao Weste|15.915|120.477|PH|Ilocos|67
 Bacong|9.741|124.569|PH|Central Visayas|67
+Bac Mór|56.460|-6.475|GB|Scotland|67|f
+Bachtel Tower|47.295|8.886|CH|Zurich|67|f
 Bachowice|49.958|19.494|PL|Lesser Poland|67
 Bacnor East|17.034|121.704|PH|Cagayan Valley|67
 Bacabac|15.725|120.428|PH|Central Luzon|67
@@ -95,6 +101,8 @@ Bacu Abis|39.243|8.465|IT|Sardinia|64
 Bacea|44.398|24.638|RO|Olt|64
 Backa|64.983|21.067|SE|Västerbotten|64
 Bäch|47.204|8.732|CH|Schwyz|63
+Bachelor Island|45.819|-122.775|US|Washington|63|f
+Backstairs Passage Strait|-35.688|138.072|AU|South Australia|63|f
 Băcălești|44.060|24.816|RO|Teleorman County|63
 Bacova|45.664|21.552|RO|Timiș County|63
 Bácsszőlős|46.150|19.450|HU|Bács-Kiskun|63
@@ -109,22 +117,88 @@ Baciu|44.332|25.444|RO|Teleorman County|62
 Bacadéhuachi|29.809|-109.141|MX|Sonora|62
 Bácsborsód|46.099|19.158|HU|Bács-Kiskun|62
 Bacubirito|25.809|-107.915|MX|Sinaloa|61
+Baco Airport|5.783|36.563|ET|South Ethiopia Regional State|61|f
 Bacerac|30.356|-108.931|MX|Sonora|61
 Bacoachi|30.630|-109.967|MX|Sonora|61
 Bachigualatito|24.713|-107.470|MX|Sinaloa|60
+Bachimeto|24.742|-107.744|MX|Sinaloa|60
+Baczyna|52.755|15.115|PL|Lubusz|59
+Baconton|31.380|-84.161|US|Georgia|59
+Baczyn|49.793|19.721|PL|Lesser Poland|58
+Bacurimí|24.811|-107.448|MX|Sinaloa|58
+Bachelor Peak|30.994|-98.097|US|Texas|58|f
+Baćinska Jezera|43.078|17.415|HR|Dubrovnik-Neretva|58|f
+Bacon Hills|35.469|-119.807|US|California|58|f
+Baczków|50.034|20.441|PL|Lesser Poland|58
+Bäckefors|58.805|12.162|SE|Västra Götaland|57
+Bachantahui|26.773|-109.633|MX|Sonora|57
+Bač|40.932|21.558|MK|Novaci|57
+Bạch Long Vĩ|20.131|107.731|VN|Hai Phong|57
+Bacilly|48.701|-1.441|FR|Normandy|57
+Bacaporobampo|25.908|-109.016|MX|Sinaloa|56
+Baccon|47.891|1.629|FR|Centre-Val de Loire|56
+Bâcu|46.924|27.460|RO|Iași County|56
+Bacouel-sur-Selle|49.830|2.225|FR|Hauts-de-France|55
+Băcăoani|46.584|27.781|RO|Vaslui County|55
+Backa|60.923|15.100|SE|Dalarna|55
+Baccaiano|43.665|11.083|IT|Tuscany|55
+Bachoco|24.794|-107.803|MX|Sinaloa|55
 Bacanora|28.980|-109.400|MX|Sonora|55
 Baćkowice|50.792|21.232|PL|Świętokrzyskie|55
+Backe|63.817|16.400|SE|Jämtland|55
+Bachfeld|50.417|10.983|DE|Thuringia|54
+Bac Beag|56.450|-6.483|GB|Scotland|54|f
+Bachstrom Point|-65.484|-63.838|AQ||54|f
+Backachers Ranch Airport|42.284|-123.534|US|Oregon|54|f
+Bacoor Bay|14.469|120.907|PH|Calabarzon|54|f
+Baćina|43.081|17.387|HR|Dubrovnik-Neretva|54
+Backbarrow|54.255|-2.988|GB|England|54
+Bace|43.220|21.345|RS|Central Serbia|54
 Bachmanning|48.131|13.794|AT|Upper Austria|53
 Bâcleș|44.483|23.133|RO|Mehedinți County|53
 Baceno|46.261|8.319|IT|Piedmont|52
+Bac an Eich|57.496|-4.968|GB|Scotland|49|f
+Bacalhoo Island|48.133|-52.803|CA|Newfoundland and Labrador|49|f
+Bache Peninsula|79.173|-75.589|CA|Nunavut|49|f
+Back Bay|18.932|72.803|IN|Maharashtra|49|f
+Backer Islands|-74.417|-102.667|AQ||49|f
+Backstairs Passage Glacier|-75.033|162.600|AQ||49|f
+Bacon Island|37.977|-121.552|US|California|49|f
+Bachenberg|50.717|7.650|DE|Rheinland-Pfalz|42
+Baca National Wildlife Refuge|37.870|-105.803|US|Colorado|40|f
+Bacalhao Island|49.696|-54.544|CA|Newfoundland and Labrador|40|f
+Bachelor Island|41.500|-70.708|US|Massachusetts|40|f
+Bachelor Lake|30.233|-82.935|US|Florida|40|f
+Bächlistock|46.587|8.240|CH|Bern|40|f
+Bachman Lake|32.853|-96.866|US|Texas|40|f
+Bachtold Glacier|-77.125|162.000|AQ||40|f
+Back Bay Fens|42.341|-71.096|US|Massachusetts|40|f
+Back Bay National Wildlife Refuge|36.652|-75.909|US|Virginia|40|f
+Back Lake|45.080|-71.351|US|New Hampshire|40|f
+Back Peninsula|63.723|-80.194|CA|Nunavut|40|f
+Back Rocky Lake|44.843|-62.790|CA|Nova Scotia|40|f
+Back Sound|34.685|-76.570|US|North Carolina|40|f
+Backdrop Ridge|-78.350|163.333|AQ||40|f
+Backside|48.083|-52.881|CA|Newfoundland and Labrador|40|f
+Backstreet Cultural Museum|29.965|-90.066|US|Louisiana|40|f
+Bacon Glacier|58.650|-133.808|US|Alaska|40|f
+Bacon Lake|49.971|-125.628|CA|British Columbia|40|f
+Bacon Peak|48.664|-121.520|US|Washington|40|f
+Baconsthorpe Castle|52.898|1.152|GB|England|40|f
 Bač|45.392|19.237|RS|Vojvodina|0
 Bác Ái|11.841|108.903|VN|Khanh Hoa|0
 Bắc Hà|22.539|104.293|VN|Lao Cai|0
 Bắc Sơn|21.900|106.321|VN|Lạng Sơn Province|0
 Bắc Yên|21.246|104.433|VN|Sơn La Province|0
+Bacem|-8.195|112.232|ID|East Java|0
+Bacem|-7.047|111.356|ID|Central Java|0
+Bacem|-6.927|111.469|ID|Central Java|0
 Bachaquero|9.962|-71.124|VE|Zulia|0
+Bacheng|31.458|120.873|CN|Jiangsu|0
+Bachi|24.741|115.804|CN|Guangdong|0
 Bacho|6.517|101.651|TH|Narathiwat|0
 Bachu|39.785|78.543|CN|Xinjiang|0
 Baclayon|9.626|123.894|PH|Central Visayas|0
 Bacolor|15.000|120.652|PH|Central Luzon|0
 Bacton|51.983|-2.917|GB|England|0
+Bacun|29.479|92.931|CN|Tibet|0

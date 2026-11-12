@@ -21,10 +21,12 @@ Koksovyy|48.197|40.643|RU|Rostov|79
 Kokdala|43.783|90.941|CN|Xinjiang|78
 Kokhav Ya‘aqov|31.881|35.244|PS|West Bank|78
 Kokuy|52.208|117.553|RU|Zabaykalskiy (Transbaikal) Kray|78
+Kokhav HaYarden|32.596|35.522|IL|Northern District|77|f
 Kokemäki|61.256|22.356|FI|Satakunta|76
 Kokernag|33.578|75.318|IN|Jammu and Kashmir|76
 Kokoda|-8.878|147.736|PG|Oro Province|76
 Kokolopozo|5.137|-6.082|CI|Bas-Sassandra District|76
+Kokomo Municipal Airport|40.528|-86.059|US|Indiana|75|f
 Kokpekty|48.750|82.400|KZ||74
 Koktokay|47.217|89.817|CN|Xinjiang|74
 Koki|-12.171|44.442|KM|Anjouan|74
@@ -41,20 +43,28 @@ Koktobe|51.530|77.471|KZ|Pavlodar Region|71
 Kokoun|9.495|-7.038|CI|Denguélé District|71
 Kokaha|9.638|-5.736|CI|Savanes District|70
 Kokpa|5.671|-5.038|CI|Goh-Djiboua|70
+Ko Khram|12.701|100.787|TH|Chon Buri|70|f
 Koknese|56.652|25.436|LV|Aizkraukle Municipality|69
 Ko Kood|11.656|102.541|TH|Trat|69
 Koktebel|44.965|35.248|UA|Crimea|69
+Kokhanok Airport|59.434|-154.798|US|Alaska|69|f
+Kokkilai Lagoon|8.991|80.933|LK||69|f
 Kokonou|7.132|-3.617|CI|Comoé District|69
 Kokoumba|7.968|-4.423|CI|Vallée du Bandama District|68
 Kokorevka|52.587|34.276|RU|Bryansk Oblast|68
 Kokterek|42.494|70.255|KZ|Turkistan|68
+Kókkini Ráchi|38.190|20.703|GR|Ionian Islands|67|f
 Kokialo|8.013|-7.414|CI|Montagnes|67
 Kokhav HaShaẖar|31.960|35.349|IL|Jerusalem|67
 Kokou|5.120|-5.258|CI|Lagunes District|66
+Ko Kradan|7.314|99.253|TH|Trang|65|f
 Kokkíni Cháni|35.328|25.258|GR|Crete|65
 Kokrica|46.270|14.361|SI|Urban Municipality of Kranj|64
 Koko|6.718|2.789|NG|Ogun State|64
 Kokkinóchoma|40.927|24.308|GR|East Macedonia and Thrace|63
+Ko Kham|11.835|102.460|TH|Trat|63|f
+Ko Kra|8.417|100.750|TH|Nakhon Si Thammarat|63|f
+Kokkola-Pietarsaari Airport|63.721|23.143|FI|Ostrobothnia|63|f
 Kokwo|9.121|-5.579|CI|Savanes District|63
 Kokoflé|7.803|-5.717|CI|Vallée du Bandama District|63
 Koktal|49.650|73.517|KZ|Karaganda|63
@@ -69,12 +79,45 @@ Kokkónion|37.971|22.780|GR|Peloponnese|60
 Kokhav Michael Sobell|31.628|34.669|IL|Southern District|60
 Kökez|37.581|35.287|TR|Adana|60
 Koklo Kouassikro|7.380|-4.931|CI|Lacs District|60
+Kokkári|37.779|26.892|GR|North Aegean|59
+Kokossou|7.331|-3.658|CI|Lacs District|59
+Kokorénou|7.553|-5.173|CI|Vallée du Bandama District|59
+Kokshi|52.382|85.537|RU|Altai Krai|59
+Koko|5.255|-4.395|CI|Lagunes District|59
+Ko Klang|8.040|98.937|TH|Krabi|58|f
+Kōke‘e State Park|22.140|-159.639|US|Hawaii|58|f
+Kōkeʻe Ditch|22.075|-159.674|US|Hawaii|58|f
+Kokoda Airport|-8.885|147.731|PG|Oro Province|58|f
+Kokshetau Airport|53.329|69.595|KZ|Aqmola|58|f
+Kókkinon|38.475|23.239|GR|Central Greece|57
+Kokhanivka|47.613|30.016|UA|Odesa|56
+Kokoyakro|7.687|-3.495|CI|Zanzan District|56
+Kokotikro|7.959|-5.415|CI|Vallée du Bandama District|55
+Kokkínion|39.609|19.815|GR|Ionian Islands|55
+Kokkinopilós|40.096|22.253|GR|Thessaly|54
+Koko Crater|21.286|-157.684|US|Hawaii|54|f
+Kokunye Kyun|15.303|97.706|MM||54|f
 Kökar|59.921|20.909|AX|Ålands skärgård|51
+Kokko|67.376|23.752|FI|Lapland|49|f
+Kokkosaari|61.990|29.210|FI|South Savo|49|f
+Kokalyane Point|-62.635|-61.296|AQ||40|f
+Kokanee Creek Park|49.600|-117.136|CA|British Columbia|40|f
+Kokanee Glacier Park|49.783|-117.169|CA|British Columbia|40|f
+Kokanee Lake|49.748|-117.175|CA|British Columbia|40|f
+Kokanee Range|49.833|-117.002|CA|British Columbia|40|f
+KOKH-TV (Oklahoma City)|35.550|-97.489|US|Oklahoma|40|f
+KOKI-TV (Tulsa)|36.027|-95.679|US|Oklahoma|40|f
+Koksilah River Park|48.644|-123.742|CA|British Columbia|40|f
+Kokugakuin University|35.655|139.712|JP|Tokyo|40|f
+Kokummi Mountain|50.100|-126.136|CA|British Columbia|40|f
 Ko Kha|18.192|99.394|TH|Lampang|0
 Ko Kut|11.658|102.542|TH|Trat|0
+Kokagax|47.017|87.688|CN|Xinjiang|0
 Kokaj|41.878|20.505|AL|Kukës County|0
+Kokang|-8.616|122.685|ID|East Nusa Tenggara|0
 Kokar|-8.163|124.447|ID|East Nusa Tenggara|0
 Kokas Kota|-2.701|132.438|ID|West Papua|0
+Kokembang|-6.952|113.649|ID|East Java|0
 Kokkedal|55.912|12.500|DK|Capital Region|0
 Koko|6.001|5.455|NG|Delta|0
 Kokop|-6.942|113.030|ID|East Java|0

@@ -16,6 +16,7 @@ Delray Beach|26.461|-80.073|US|Florida|96
 Delmiro Gouveia|-9.389|-37.999|BR|Alagoas|94
 Delano|35.769|-119.247|US|California|94
 Delaware|40.299|-83.068|US|Ohio|92
+Delaware Bay|39.050|-75.150|US|Delaware|91|f
 Del Pilar|15.036|120.699|PH|Central Luzon|91
 Del Rio|29.363|-100.897|US|Texas|91
 Delījān|33.990|50.684|IR|Markazi|91
@@ -28,6 +29,8 @@ Dellys|36.917|3.913|DZ|Boumerdes|88
 Delitzsch|51.525|12.343|DE|Saxony|88
 Delanggu|-7.617|110.683|ID|Central Java|88
 Del City|35.442|-97.441|US|Oklahoma|87
+Delos|37.391|25.271|GR|South Aegean|86|f
+Del Bajío International Airport|20.993|-101.481|MX|Guanajuato|85|f
 Delta del Tigre|-34.765|-56.364|UY|San José Department|85
 Del Remedio|14.087|121.312|PH|Calabarzon|85
 Delcevo|41.967|22.769|MK|Delchevo|85
@@ -51,11 +54,14 @@ Delavan|42.633|-88.644|US|Wisconsin|78
 Delyatyn|48.525|24.626|UA|Ivano-Frankivsk|78
 Delmar|42.622|-73.833|US|New York|78
 Delfim Moreira|-22.509|-45.280|BR|Minas Gerais|78
+Déline Airport|65.211|-123.436|CA|Northwest Territories|78|f
+Delingha Airport|37.125|97.268|CN|Qinghai|78|f
 Delson|45.367|-73.549|CA|Quebec|77
 Delafield|43.061|-88.404|US|Wisconsin|77
 Delphos|40.843|-84.342|US|Ohio|77
 Delden|52.260|6.711|NL|Overijssel|77
 Delbarān|35.246|47.986|IR|Kurdistan Province|77
+Del Norte International Airport|25.866|-100.237|MX|Nuevo León|76|f
 Delle|47.508|7.000|FR|Bourgogne-Franche-Comté|76
 Delvinë|39.951|20.098|AL|Vlorë County|76
 Delano|45.042|-93.789|US|Minnesota|75
@@ -65,6 +71,7 @@ Delhi Hills|39.093|-84.613|US|Ohio|74
 Delta|32.355|-115.196|MX|Baja California|74
 Deleşti|46.700|27.550|RO|Vaslui County|74
 Dellwood|38.749|-90.286|US|Missouri|74
+De La Salle University|14.565|120.993|PH|National Capital Region|73|f
 Del Monte Forest|36.586|-121.947|US|California|73
 Delvār|28.763|51.070|IR|Bushehr|73
 Delwāra|24.776|73.746|IN|Rajasthan|73
@@ -79,12 +86,14 @@ Delfino Victoria (Santa Fe)|19.207|-96.273|MX|Veracruz|72
 Delnice|45.401|14.800|HR|Primorje-Gorski Kotar|72
 Dell Rapids|43.826|-96.706|US|South Dakota|71
 Deliceto|41.223|15.384|IT|Apulia|71
+Delano Peak|38.369|-112.371|US|Utah|71|f
 Del Pilar|15.696|121.086|PH|Central Luzon|71
 Delta|39.352|-112.577|US|Utah|71
 Delianuova|38.236|15.917|IT|Calabria|71
 Dello|45.419|10.076|IT|Lombardy|70
 Delebio|46.136|9.462|IT|Lombardy|70
 Delanco|40.051|-74.954|US|New Jersey|70
+Delaware Airpark|39.218|-75.596|US|Delaware|70|f
 Delhi|42.278|-74.916|US|New York|70
 Del Campillo|-34.376|-64.496|AR|Cordoba|70
 De la Paz|9.700|123.864|PH|Central Visayas|70
@@ -103,6 +112,7 @@ Del Pilar|9.152|125.585|PH|Caraga|68
 Délegyháza|47.241|19.090|HU|Pest County|68
 Deleni|44.100|28.017|RO|Constanța County|68
 Delphi|38.479|22.494|GR|Central Greece|68
+Delhi Dam|42.408|-91.345|US|Iowa|67|f
 Deltana|63.872|-145.218|US|Alaska|67
 Del Monte|7.726|123.008|PH|Zamboanga Peninsula|67
 Delsbo|61.801|16.556|SE|Gävleborg|67
@@ -115,6 +125,8 @@ Dellok|16.041|97.918|MM|Kayin State|66
 Delph|53.567|-2.017|GB|England|66
 Deleni|46.354|26.776|RO|Bacău County|66
 Delcambre|29.948|-91.989|US|Louisiana|65
+Delamar Mountains|37.298|-114.766|US|Nevada|65|f
+Delaware County Regional Airport|40.240|-85.391|US|Indiana|65|f
 Delgoshā|33.406|46.595|IR|Ilam Province|65
 Deldoul|28.768|0.053|DZ|Timimoun|65
 Delaware City|39.578|-75.589|US|Delaware|65
@@ -127,6 +139,10 @@ Delvináki|39.934|20.465|GR|Epirus|64
 Del Norte|37.679|-106.353|US|Colorado|64
 Deliktaş|38.989|26.927|TR|İzmir Province|63
 Dellfeld|49.234|7.474|DE|Rheinland-Pfalz|63
+Del Campo Peak|47.991|-121.470|US|Washington|63|f
+Delarof Islands|51.387|-178.963|US|Alaska|63|f
+Delta Barrage|30.194|31.130|EG|Qalyubia|63|f
+Delta County Airport|45.719|-87.094|US|Michigan|63|f
 Del Rio|37.744|-121.012|US|California|62
 Delgado de Abajo|20.718|-100.893|MX|Guanajuato|61
 De Lisle|30.379|-89.264|US|Mississippi|61
@@ -138,13 +154,119 @@ Delevan|42.489|-78.481|US|New York|60
 De Land Southwest|29.008|-81.311|US|Florida|60
 Delisle|51.924|-107.135|CA|Saskatchewan|60
 Ðelekovec|46.249|16.867|HR|Koprivnica-Križevci|60
+Delitz am Berge|51.417|11.900|DE|Saxony-Anhalt|60
+Delettes|50.618|2.212|FR|Hauts-de-France|59
+Delta Junction|64.038|-145.732|US|Alaska|59
+Delton|42.500|-85.408|US|Michigan|59
 Deleitosa|39.644|-5.646|ES|Extremadura|58
+De Long Islands|76.500|153.000|RU|Sakha|58|f
+Del Desierto Lake|-49.009|-72.847|AR||58|f
+Del Toro Lake|-51.218|-72.742|CL|Region of Magallanes|58|f
+Delaite Island|-64.564|-62.188|AQ||58|f
+Delano Mountains|41.610|-114.266|US|Nevada|58|f
+Delitschøya|77.387|22.493|SJ||58|f
+Delta del Paraná|-32.667|-59.500|AR||58|f
+Delta Island|-64.311|-62.976|AQ||58|f
+Deluge Mountain|50.850|-117.052|CA|British Columbia|58|f
+Delusion Point|-65.385|-61.995|AQ||58|f
+Dellstedt|54.238|9.371|DE|Schleswig-Holstein|58
+Delme|48.888|6.392|FR|Grand Est|58
+Deleni|47.629|25.975|RO|Suceava|57
+Delvin|53.611|-7.093|IE|Leinster|57
+Delta|39.727|-76.327|US|Pennsylvania|57
+Deluz|47.294|6.202|FR|Bourgogne-Franche-Comté|57
+Delice|39.689|28.661|TR|Balıkesir|57
+Delaware Water Gap|40.979|-75.143|US|Pennsylvania|57
+Delleker|39.809|-120.498|US|California|57
+Delve|54.301|9.252|DE|Schleswig-Holstein|57
 Dellach im Drautal|46.737|13.078|AT|Carinthia|57
+Delungra|-29.654|150.830|AU|New South Wales|56
 Dellach|46.662|13.080|AT|Carinthia|56
+Delfstrahuizen|52.874|5.824|NL|Friesland|56
+Delinești|45.388|22.073|RO|Caraș-Severin County|56
+Delnița|46.413|25.830|RO|Harghita County|55
+Delīābād|33.721|48.794|IR|Lorestan Province|55
+Dellwood|43.984|-89.939|US|Wisconsin|55
+Deleni|46.517|27.989|RO|Vaslui County|55
+De los Santos|18.061|-93.371|MX|Tabasco|55
+Delbarton|37.711|-82.184|US|West Virginia|55
+Delincourt|49.250|1.833|FR|Hauts-de-France|55
+Deline|65.198|-123.406|CA|Northwest Territories|55
+Deleni|46.917|27.833|RO|Iași County|54
+De la Motte, Cape|-67.000|144.417|AQ||54|f
+De Leon Springs State Park|29.131|-81.360|US|Florida|54|f
+Del Norte Coast Redwoods State Park|41.671|-124.118|US|California|54|f
+Del Rio International Airport|29.372|-100.923|US|Texas|54|f
+Delaware Lake|41.888|-75.130|US|New York|54|f
+Delaware Seashore State Park|38.650|-75.066|US|Delaware|54|f
+Delaware Water Gap National Recreation Area|41.126|-74.948|US|Pennsylvania|54|f
+Delian Island|11.840|120.313|PH|Mimaropa|54|f
+Deliverance Island|-9.517|141.572|AU|Queensland|54|f
+Deliverance Point|-65.306|-64.098|AQ||54|f
+Delnor-Wiggins Pass State Park|26.282|-81.828|US|Florida|54|f
+Delta Municipal Airport|39.387|-112.502|US|Utah|54|f
+Delta National Wildlife Refuge|29.237|-89.205|US|Louisiana|54|f
+Deltabreen|77.570|23.098|SJ||54|f
+Deleni|44.566|24.361|RO|Olt|54
+Delmar|42.002|-90.607|US|Iowa|54
+DeLaca Island|-64.780|-64.100|AQ||49|f
+DeLand House Museum|29.033|-81.304|US|Florida|49|f
+Delano Municipal Airport|35.745|-119.238|US|California|49|f
+Delaware and Raritan Canal|40.415|-74.630|US|New Jersey|49|f
+Delaware Memorial Bridges|39.689|-75.519|US|New Jersey|49|f
+Delay Point|-66.450|98.250|AQ||49|f
+Deleon, Mount|-80.850|159.950|AQ||49|f
+Delftse Hout|52.022|4.375|NL|South Holland|49|f
+Deli Jovan|44.254|22.205|RS||49|f
+Delinski Glacier|-77.483|160.433|AQ||49|f
+Delius Glacier|-69.619|-70.996|AQ||49|f
+Dellbridge Islands|-77.667|166.417|AQ||49|f
+Dellis Cay|21.898|-72.071|TC||49|f
+Delmar Stadium|29.803|-95.457|US|Texas|49|f
+Delta Glacier|-78.700|161.333|AQ||49|f
+Delta Island|32.281|-64.824|BM|Warwick|49|f
+Delta Junction Airport|64.052|-145.730|US|Alaska|49|f
+De la Beche Bay|75.265|-100.402|CA|Nunavut|40|f
+De la Roquette Islands|72.168|-95.451|CA|Nunavut|40|f
+De Lesseps Lake|50.700|-90.706|CA|Ontario|40|f
+De Long Mountains|68.417|-161.667|US|Alaska|40|f
+Del Cerro Park|33.757|-118.369|US|California|40|f
+Del Mar Mesa|32.941|-117.183|US|California|40|f
+Delabar State Park|40.962|-90.939|US|Illinois|40|f
+Delacroix Island|29.770|-89.788|US|Louisiana|40|f
+Delano Park|34.598|-86.975|US|Alabama|40|f
+Delaware and Hudson Canal|41.607|-74.448|US|New York|40|f
+Delaware Aqueduct|41.282|-73.668|US|New York|40|f
+Delaware Bay|-41.150|173.467|NZ||40|f
+Delaware Mountains|31.500|-104.600|US|Texas|40|f
+Delaware State Forest|41.123|-75.166|US|Pennsylvania|40|f
+Delaware Water Gap Toll Bridge|40.981|-75.137|US|Pennsylvania|40|f
+Delcambre Canal|29.944|-91.982|US|Louisiana|40|f
+Delchev Peak|-62.641|-59.938|AQ||40|f
+Delchev Ridge|-62.632|-59.904|AQ||40|f
+Delevan National Wildlife Refuge|39.307|-122.098|US|California|40|f
+Delhi Reservoir|42.289|-74.931|US|New York|40|f
+Dell Diamond|30.526|-97.632|US|Texas|40|f
+Dell Flight Strip|44.731|-112.715|US|Montana|40|f
+Della Pia Glacier|-78.567|-85.050|AQ||40|f
+Delphi Municipal Airport|40.546|-86.682|US|Indiana|40|f
+Delta Blues Museum|34.205|-90.575|US|Mississippi|40|f
+Delta Lake|47.675|-83.874|CA|Ontario|40|f
+Delta Lake|43.733|-110.773|US|Wyoming|40|f
+Delta Peak|-86.583|-147.500|AQ||40|f
+Delta Reservoir|43.292|-75.431|US|New York|40|f
+Deltaform Mountain|51.301|-116.246|CA|Alberta|40|f
+Delyan Point|-62.875|-62.370|AQ||40|f
 Déleg|-2.772|-78.919|EC|Canar|0
+Delegan|-6.901|112.463|ID|East Java|0
 Delgerhaan|50.086|106.186|MN|Selenge Province|0
 Delgermörön|46.409|98.287|MN|Bayankhongor|0
 Deliçay|39.082|43.486|TR|Van|0
 Delicias|7.566|-72.448|VE|Táchira|0
 Deliktaş|39.342|37.204|TR|Sivas|0
 Delingha|37.376|97.375|CN|Qinghai|0
+Deliqi’er|48.635|123.718|CN|Inner Mongolia|0
+Delo|-9.595|119.213|ID|East Nusa Tenggara|0
+Delod Pangkung|-8.381|114.635|ID|Bali|0
+Delodpeken|-8.492|115.091|ID|Bali|0
+Delok|-6.707|111.240|ID|Central Java|0

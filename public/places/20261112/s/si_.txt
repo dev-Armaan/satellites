@@ -5,7 +5,7 @@ Singapore|1.367|103.800|SG||136|c
 Singapore|1.290|103.850|SG||135
 Sicily|37.750|14.250|IT||134|r
 Silesia|50.333|18.933|PL||133|r
-Sinaloa|25.000|-107.500|MX||127|r
+Sinaloa|25.000|-107.500|MX||128|r
 Sistan and Baluchestan|28.500|60.500|IR||123|r
 Sialkot|32.493|74.531|PK|Punjab|119
 Situbondo|-7.706|114.010|ID|East Java|117
@@ -15,7 +15,7 @@ Sishui|35.649|117.276|CN|Shandong|115
 Singida|-5.750|34.667|TZ||114|r
 Siliguri|26.710|88.429|IN|West Bengal|114
 Simiyu|-3.000|34.250|TZ||114|r
-Sibiu County|45.784|24.144|RO||112|r
+Sibiu County|45.784|24.144|RO||113|r
 Sinjhoro|26.030|68.809|PK|Sindh|111
 Sikasso|11.318|-5.667|ML|Sikasso|111
 Simferopol|44.957|34.111|UA|Crimea|111
@@ -73,6 +73,7 @@ Siegen|50.875|8.024|DE|North Rhine-Westphalia|101
 Sirte|31.209|16.589|LY|Surt|101
 Sidi Slimane|34.265|-5.926|MA|Rabat-Salé-Kénitra|100
 Simmering|48.183|16.433|AT|Vienna|100
+Sisak-Moslavina|45.417|16.500|HR||100|r
 Si Maha Phot|13.966|101.514|TH|Prachin Buri|100
 Sino-Singapore Tianjin Eco-city|39.153|117.784|CN|Tianjin|100
 Šiauliai|55.933|23.317|LT|Siauliai|100
@@ -82,13 +83,13 @@ Siliana Governorate|36.000|9.333|TN||100|r
 Sibolga|1.740|98.781|ID|North Sumatra|99
 Siaya County|0.105|34.302|KE||99|r
 Sintang|0.067|111.500|ID|West Kalimantan|99
-Sisak-Moslavina|45.417|16.500|HR||99|r
 Sirsilla|18.389|78.810|IN|Telangana|98
 Sinwŏn-ŭp|38.235|125.762|KP|South Hwanghae|98
 Sioux City|42.500|-96.400|US|Iowa|98
 Sidi Kacem|34.221|-5.708|MA|Rabat-Salé-Kénitra|98
 Sinhyeon|34.883|128.627|KR|Gyeongsangnam-do|98
 Sirs al Layyānah|30.443|30.970|EG|Monufia|98
+Šibenik-Knin|43.833|15.917|HR||98|r
 Siedlce|52.168|22.290|PL|Mazovia|98
 Sindhnūr|15.770|76.756|IN|Karnataka|98
 Silao de la Victoria|20.944|-101.427|MX|Guanajuato|97
@@ -97,4 +98,3 @@ Sikandarābād|28.452|77.700|IN|Uttar Pradesh|97
 Siemianowice Śląskie|50.327|19.029|PL|Silesia|97
 Sihanoukville|10.609|103.530|KH|Preah Sihanouk|97
 Sitrah|26.155|50.621|BH|Manama|97
-Silver Spring|38.991|-77.026|US|Maryland|97

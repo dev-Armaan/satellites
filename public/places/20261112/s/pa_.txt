@@ -26,12 +26,12 @@ Pasir Gudang|1.462|103.905|MY|Johor|115
 Paju|37.761|126.773|KR|Gyeonggi-do|113
 Patiāla|30.336|76.392|IN|Punjab|113
 Palma|39.569|2.650|ES|Balearic Islands|113
+Pardubice Region|49.833|16.083|CZ||113|r
 Pasay|14.537|121.001|PH|National Capital Region|112
 Panama City|8.994|-79.520|PA|Panamá|112
 Pasto|1.215|-77.278|CO|Nariño|112
 Palu|-0.908|119.871|ID|Central Sulawesi|112
 Pānihāti|22.691|88.374|IN|West Bengal|112
-Pardubice Region|49.833|16.083|CZ||111|r
 Paulista|-7.941|-34.873|BR|Pernambuco|111
 Pavlodar|52.276|76.969|KZ|Pavlodar Region|110
 Palangkaraya|-2.208|113.917|ID|Central Kalimantan|110
@@ -43,9 +43,9 @@ Pātan|27.677|85.314|NP|Bagmati Province|110
 Panipat|29.387|76.968|IN|Haryana|109
 Parnamirim|-5.916|-35.263|BR|Rio Grande do Norte|109
 Pasarkemis|-6.170|106.530|ID|West Java|108
+Panamá Oeste Province|8.800|-79.900|PA||108|r
 Pachuca de Soto|20.117|-98.733|MX|Hidalgo|108
 Parakou|9.337|2.630|BJ|Borgou|108
-Panamá Oeste Province|8.800|-79.900|PA||108|r
 Palermo|-34.589|-58.431|AR|Buenos Aires F.D.|108
 Paraná|-31.733|-60.529|AR|Entre Rios|108
 Padangsidempuan|1.380|99.271|ID|North Sumatra|108
@@ -90,6 +90,7 @@ Pathānkot|32.275|75.653|IN|Punjab|105
 Parnaíba|-2.905|-41.777|BR|Piauí|105
 Pátra|38.246|21.735|GR|West Greece|105
 Pandi|14.865|120.957|PH|Central Luzon|104
+Pasco|-10.500|-75.250|PE||104|r
 Parepare|-4.013|119.626|ID|South Sulawesi|104
 Paech’ŏn-ŭp|37.993|126.301|KP|South Hwanghae|104
 Paris 16 Passy|48.864|2.277|FR|Île-de-France|104
@@ -97,5 +98,4 @@ Patos de Minas|-18.579|-46.518|BR|Minas Gerais|104
 Paris 17 Batignolles-Monceau|48.883|2.322|FR|Île-de-France|104
 Palmdale|34.579|-118.116|US|California|104
 Panguíla|-8.693|13.449|AO|Bengo|104
-Pasco|-10.500|-75.250|PE||104|r
 Pa|12.667|-3.950|BF|Boucle du Mouhoun|84

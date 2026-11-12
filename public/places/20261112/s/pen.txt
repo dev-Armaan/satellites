@@ -1,4 +1,4 @@
-Pennsylvania|40.800|-77.700|US||137|r
+Pennsylvania|40.800|-77.700|US||138|r
 Penang|5.377|100.258|MY||126|r
 Penza Oblast|53.183|44.633|RU||121|r
 Penza|53.196|45.011|RU|Penza Oblast|114
@@ -23,10 +23,12 @@ Peng Siang|1.380|103.741|SG||91
 Penticton|49.481|-119.586|CA|British Columbia|91
 Penha|-26.769|-48.646|BR|Santa Catarina|91
 Penalva|-3.294|-45.174|BR|Maranhão|90
+Penang International Airport|5.297|100.277|MY|Penang|89|f
 Peñaranda|15.351|121.004|PH|Central Luzon|89
 Pennsport|39.928|-75.150|US|Pennsylvania|88
 Penugonda|16.654|81.746|IN|Andhra Pradesh|87
 Penarth|51.439|-3.173|GB|Wales|87
+Peñón de Vélez de la Gomera|35.172|-4.300|ES||87|f
 Penja|4.639|9.680|CM|Littoral|87
 Penukonda|14.083|77.595|IN|Andhra Pradesh|86
 Penzance|50.119|-5.537|GB|England|86
@@ -39,6 +41,7 @@ Penonomé|8.519|-80.357|PA|Coclé|84
 Penicuik|55.831|-3.226|GB|Scotland|84
 Penzberg|47.753|11.377|DE|Bavaria|84
 Peniche|39.356|-9.381|PT|Leiria|84
+Peñón de Alhucemas|35.213|-3.889|ES||84|f
 Pengerang|1.365|104.112|MY|Johor|84
 Penal/Debe|10.168|-61.465|TT||84|r
 Penha de França|15.517|73.835|IN|Goa|84
@@ -61,18 +64,23 @@ Penetanguishene|44.783|-79.916|CA|Ontario|80
 Pennathur|12.847|79.111|IN|Tamil Nadu|79
 Pencoed|51.524|-3.500|GB|Wales|79
 Pendembu|8.098|-10.694|SL|Eastern Province|79
+Pensacola International Airport|30.474|-87.187|US|Florida|78|f
 Pensilvania|5.383|-75.161|CO|Caldas Department|78
 Penafiel|41.208|-8.283|PT|Porto|78
 Pencahue|-35.393|-71.801|CL|Maule Region|78
 Peng Chau|22.283|114.033|HK|Islands|78
 Penkridge|52.726|-2.116|GB|England|78
 Penhalonga|-18.891|32.698|ZW|Manicaland|78
+Peñalara|40.850|-3.955|ES|Castille and León|78|f
 Peníscola|40.357|0.407|ES|Valencia|77
 Penryn|50.168|-5.104|GB|England|77
 Peñuelas|18.056|-66.722|PR|Peñuelas|77
+Pensacola Bay|30.368|-87.201|US|Florida|76|f
 Peñaranda de Bracamonte|40.901|-5.200|ES|Castille and León|76
 Pengdong|29.386|108.823|CN|Chongqing|76
 Penne|42.455|13.928|IT|Abruzzo|76
+Pentadáktylos|35.293|33.372|CY|Keryneia|75|f
+Peñuelas Lake|-33.162|-71.525|CL|Valparaiso|75|f
 Penn Wynne|39.986|-75.275|US|Pennsylvania|75
 Pentling|48.983|12.059|DE|Bavaria|75
 Peñafiel|41.602|-4.114|ES|Castille and León|75
@@ -80,12 +88,17 @@ Pentre|51.654|-3.491|GB|Wales|75
 Peñuela|18.864|-96.894|MX|Veracruz|75
 Pengkalan Kundor|6.078|100.360|MY|Kedah|75
 Peñón Blanco|24.792|-104.034|MX|Durango|74
+Penggung Airport|-6.755|108.541|ID|West Java|74|f
+Pennine Alps|46.083|7.833|CH|Valais|74|f
+Penrhyn Island|-9.008|-157.958|CK||74|f
 Peno|56.925|32.744|RU|Tver Oblast|74
 Pennsylvania Avenue SE|38.868|-76.958|US|District of Columbia|74
 Penn Yan|42.661|-77.054|US|New York|74
 Penns Grove|39.730|-75.468|US|New Jersey|74
 Pentéli|38.050|23.867|GR|Attica|74
 Penitas|26.231|-98.445|US|Texas|73
+Penang|5.373|100.250|MY|Penang|73|f
+Penghu Magong Airport|23.569|119.628|TW|Taiwan|73|f
 Penn Estates|41.038|-75.240|US|Pennsylvania|73
 Pendleton|39.998|-85.747|US|Indiana|73
 Pennside|40.337|-75.879|US|Pennsylvania|72
@@ -94,6 +107,10 @@ Peña Flores (Palo Verde)|18.867|-98.968|MX|Morelos|72
 Penguin|-41.123|146.073|AU|Tasmania|71
 Penzing|48.075|10.927|DE|Bavaria|71
 Peñaflor|37.709|-5.345|ES|Andalusia|71
+P’eng-hu Bay Bridge|23.651|119.549|TW|Taiwan|71|f
+Pengyong To|37.972|124.673|KR|Incheon|71|f
+Péninsule Courbet|-49.275|70.095|TF||71|f
+Penn State University Park Airport|40.849|-77.849|US|Pennsylvania|71|f
 Penrose|38.425|-105.023|US|Colorado|71
 Penyffordd|53.148|-3.046|GB|Wales|71
 Peña Blanca|15.533|-88.050|HN|Cortés Department|71
@@ -103,11 +120,15 @@ Penjamillo de Degollado|20.104|-101.933|MX|Michoacán|71
 Pennington|-30.368|30.703|ZA|KwaZulu-Natal|70
 Penhold|52.133|-113.869|CA|Alberta|70
 Penacova|40.269|-8.282|PT|Coimbra|70
+Penikese Island|41.450|-70.923|US|Massachusetts|70|f
 Pendleton|34.652|-82.784|US|South Carolina|70
 Penparcau|52.403|-4.074|GB|Wales|70
 Peñablanca|17.633|121.781|PH|Cagayan Valley|69
 Penbrook|40.275|-76.848|US|Pennsylvania|69
 Penedono|40.989|-7.394|PT|Viseu|69
+Pendragon Castle|54.419|-2.338|GB|England|69|f
+Península Lacui|-41.805|-73.964|CL|Los Lagos Region|69|f
+Peninsula of Kintyre|55.583|-5.583|GB|Scotland|69|f
 Penta-di-Casinca|42.466|9.459|FR|Corsica|69
 Pennington|40.328|-74.791|US|New Jersey|68
 Penvénan|48.812|-3.296|FR|Brittany|68
@@ -117,6 +138,9 @@ Penzlin|53.504|13.085|DE|Mecklenburg-Vorpommern|68
 Penngrove|38.300|-122.667|US|California|68
 Pennautier|43.246|2.319|FR|Occitanie|68
 Pentyrch|51.529|-3.295|GB|Wales|67
+P’eng-lai Falls|23.598|120.708|TW|Taiwan|67|f
+Péninsule Rallier du Baty|-49.583|68.917|TF||67|f
+Penny’s Bay|22.322|114.037|HK||67|f
 Penthalaz|46.611|6.525|CH|Vaud|67
 Pennfield|45.102|-66.739|CA|New Brunswick|67
 Penndel|40.152|-74.917|US|Pennsylvania|67
@@ -127,6 +151,9 @@ Pen-clawdd|51.640|-4.099|GB|Wales|66
 Penz|48.033|14.483|AT|Lower Austria|66
 Pentálofos|40.743|22.853|GR|Central Macedonia|65
 Penanjong|4.838|114.680|BN|Tutong|65
+Penhow Castle|51.614|-2.834|GB|Wales|65|f
+Península Burica|8.167|-82.917|PA||65|f
+Península el Mogote|24.165|-110.366|MX|Baja California Sur|65|f
 Pennington Gap|36.758|-83.027|US|Virginia|65
 Penygroes|53.055|-4.285|GB|Wales|65
 Pěnčín|50.688|15.236|CZ|Liberec Region|65
@@ -140,6 +167,10 @@ Penrhyndeudraeth|52.933|-4.067|GB|Wales|64
 Pencuyut|20.293|-89.289|MX|Yucatán|64
 Penobsquis|45.776|-65.381|CA|New Brunswick|64
 Pencaitland|55.907|-2.895|GB|Scotland|63
+Penrice Castle|51.575|-4.170|GB|Wales|63|f
+Penrose Peak|47.464|-115.145|US|Montana|63|f
+Penrose Peak|44.415|-107.145|US|Wyoming|63|f
+Penticton Regional Airport|49.463|-119.602|CA|British Columbia|63|f
 Peñuelas|20.717|-101.297|MX|Guanajuato|63
 Penobscot|44.465|-68.711|US|Maine|63
 Peñalsordo|38.820|-5.114|ES|Extremadura|63
@@ -155,6 +186,17 @@ Penyabong|1.631|104.147|MY|Johor|62
 Penedo Gordo|37.985|-7.917|PT|Beja|61
 Pentone|38.986|16.582|IT|Calabria|61
 Pennisi|37.649|15.124|IT|Sicily|61
+Pena Castle|38.788|-9.390|PT|Lisbon|61|f
+Penguin Island|-26.616|15.154|NA|Karas Region|61|f
+Península de Guanahacabibes|21.936|-84.637|CU|Pinar del Río|61|f
+Península de Jandía|28.073|-14.502|ES|Canary Islands|61|f
+Península de Samaná|19.250|-69.417|DO|Samaná|61|f
+Péninsule Loranchet|-48.917|68.967|TF||61|f
+Pennine Chain|54.167|-2.167|GB|England|61|f
+Penns Cave Airport|40.890|-77.603|US|Pennsylvania|61|f
+Penobscot Bay|44.187|-68.921|US|Maine|61|f
+Peñol de Cerquín|14.150|-88.367|HN|Lempira Department|61|f
+Pentamerus Bjerge|80.650|-64.500|GL|Avannaata|61|f
 Pencader|52.001|-4.266|GB|Wales|61
 Peña Blanca|29.290|-107.711|MX|Chihuahua|61
 Peña del Panal|19.773|-101.189|MX|Michoacán|61
@@ -166,18 +208,130 @@ Pentaplátano|40.819|22.419|GR|Central Macedonia|60
 Peña Colorada|17.478|-97.794|MX|Oaxaca|60
 Pendé|50.161|1.585|FR|Hauts-de-France|60
 Pennabilli|43.817|12.267|IT|Emilia-Romagna|60
+Peña Limonar|17.121|-91.707|MX|Chiapas|60
+Penészlek|47.633|22.150|HU|Szabolcs-Szatmár-Bereg|60
+Pen Mar|39.720|-77.507|US|Pennsylvania|59
 Penna in Teverina|42.493|12.358|IT|Umbria|59
+Penningberg|47.422|12.125|AT|Tyrol|59
+Pendálofon|38.485|21.247|GR|West Greece|59
+Penzendorf|47.300|15.967|AT|Styria|59
+Penchard|48.987|2.861|FR|Île-de-France|59
+Pensford|51.371|-2.547|GB|England|59
 Penally|51.660|-4.724|GB|Wales|59
+Pentwater|43.782|-86.433|US|Michigan|59
+Penryn|38.852|-121.169|US|California|58
+Península de Villamoros|24.167|-107.223|MX|Sinaloa|58
+Penney Farms|29.980|-81.810|US|Florida|58
+Peñuelas|21.386|-100.790|MX|Guanajuato|58
 Peña Blanca|7.720|-80.284|PA|Los Santos Province|58
+Penhook|36.982|-79.628|US|Virginia|58
+Peña de Bernal|20.750|-99.946|MX|Querétaro|58|f
+Penck Ledge|-73.050|-4.300|AQ||58|f
+Penckbreen|77.464|15.651|SJ|Svalbard|58|f
+Penedo de los Tres Reinos|41.967|-6.983|PT|Bragança|58|f
+Penfold Point|-62.984|-60.576|AQ||58|f
+Penguin Bay|-54.333|-36.233|GS||58|f
+Penguin Island|-41.150|146.550|AU|Tasmania|58|f
+Penguin Point|-64.308|-56.709|AQ||58|f
+Peninsule de Wad Ad-Dahab|23.700|-15.950|EH||58|f
+Penllyn Castle|51.475|-3.472|GB|Wales|58|f
+Penn Island|-51.788|-61.149|FK||58|f
+Penrhyn Tongareva Airport|-9.018|-158.030|CK||58|f
+Pensacola Mountains|-83.500|-58.000|AQ||58|f
+Penfield|-34.695|138.640|AU|South Australia|58
+Pennwyn|40.294|-75.977|US|Pennsylvania|58
+Pentápoli|41.050|23.689|GR|Central Macedonia|58
+Pěnčín|49.567|17.013|CZ|Olomouc Region|58
+Peña Blanca|21.429|-98.981|MX|San Luis Potosí|57
+Penzano|45.810|9.258|IT|Lombardy|57
 Peñalba|41.501|-0.038|ES|Aragon|57
+Penns Creek|40.860|-77.055|US|Pennsylvania|57
+Peña Blanca|35.571|-106.338|US|New Mexico|57
+Penshurst|51.173|0.183|GB|England|57
+Penyige|47.996|22.564|HU|Szabolcs-Szatmár-Bereg|57
+Pennville|40.494|-85.148|US|Indiana|57
+Pennsbury Village|40.428|-80.101|US|Pennsylvania|56
+Pennewitz|50.659|11.054|DE|Thuringia|56
+Penshurst|-37.875|142.291|AU|Victoria|56
+Pěnčín|50.595|15.076|CZ|Liberec Region|56
+Penley|52.953|-2.870|GB|Wales|56
+Peña de Afuera|20.835|-97.366|MX|Veracruz|56
+Peña Prieta|8.369|-81.720|PA|Ngöbe-Buglé Comarca|56
+Penysarn|53.390|-4.317|GB|Wales|55
+Pentéli|39.665|20.837|GR|Epirus|55
+Peñasco|36.169|-105.686|US|New Mexico|55
+Pénjamo|17.015|-100.115|MX|Guerrero|55
 Peñaranda de Duero|41.688|-3.479|ES|Castille and León|55
+Peninsula|41.241|-81.553|US|Ohio|55
+Pentávryso|40.454|21.142|GR|West Macedonia|55
+Pentraeth|53.284|-4.218|GB|Wales|55
+Penna|43.567|11.610|IT|Tuscany|55
 Penna San Giovanni|43.056|13.425|IT|The Marches|55
+Penne|44.077|1.730|FR|Occitanie|55
+Peñas Negras|16.226|-97.489|MX|Oaxaca|55
+Peñarroya de Tastavíns|40.756|0.040|ES|Aragon|54
+Pena Blanca Lake|31.405|-111.086|US|Arizona|54|f
+Peña Labra|43.045|-4.432|ES|Castille and León|54|f
+Penacook Lake|43.229|-71.591|US|New Hampshire|54|f
+Penarth Head|51.441|-3.164|GB|Wales|54|f
+Penck Glacier|-77.950|-34.700|AQ||54|f
+Pencoed Castle|51.600|-2.859|GB|Wales|54|f
+Pendragon, Mount|-61.250|-55.233|AQ||54|f
+Penguin Island|-62.102|-57.926|AQ||54|f
+Penguin Island|-37.499|140.014|AU|South Australia|54|f
+Península de Almina|35.892|-5.298|ES|Ceuta|54|f
+Península Mitre|-54.800|-65.667|AR|Tierra del Fuego|54|f
+Péninsule du Labrador|56.000|-70.999|CA|Quebec|54|f
+Penitent Peak|-67.865|-67.232|AQ||54|f
+Penken|47.167|11.800|AT|Tyrol|54|f
+Penn Valley Airport|40.817|-76.863|US|Pennsylvania|54|f
+Pennock Island|55.320|-131.628|US|Alaska|54|f
+Pennsylvania Farm Museum|40.093|-76.279|US|Pennsylvania|54|f
+Penobscot Mountain|41.156|-76.051|US|Pennsylvania|54|f
+Penola Island|-62.044|-57.894|AQ||54|f
+Pensacola Dam|36.473|-95.034|US|Oklahoma|54|f
+Pental Island|-35.403|143.645|AU|Victoria|54|f
+Pentavika|80.182|18.285|SJ||54|f
+Penwood State Park|41.865|-72.779|US|Connecticut|54|f
+Penyagolosa|40.223|-0.351|ES|Valencia|54|f
+Pensamiento Liberal Mexicano|16.925|-97.045|MX|Oaxaca|54
+Pennock|45.149|-95.176|US|Minnesota|54
+Penachi|-6.169|-79.475|PE|Lambayeque|54
+Peña Blanca|21.040|-99.731|MX|Querétaro|54
+Penyaky|49.898|25.181|UA|Lviv|54
 Peñausende|41.287|-5.868|ES|Castille and León|54
 Peñaparda|40.321|-6.669|ES|Castille and León|53
 Peñaflor de Hornija|41.712|-4.983|ES|Castille and León|52
 Peñas Chatas|8.018|-80.802|PA|Herrera Province|51
 Pennapiedimonte|42.156|14.194|IT|Abruzzo|51
 Penna Sant'Andrea|42.594|13.772|IT|Abruzzo|50
+Pen Bonc Hill|43.284|-75.283|US|New York|49|f
+Pen y Fan|51.884|-3.437|GB|Wales|49|f
+Pen-y-ghent|54.156|-2.249|GB|England|49|f
+Penambol Conservation Park|-37.969|140.881|AU|South Australia|49|f
+Penang Hill|5.423|100.266|MY|Penang|49|f
+Penang Second Bridge|5.249|100.376|MY||49|f
+Penck, Cape|-66.700|87.717|AQ||49|f
+Pender Island|48.783|-123.286|CA|British Columbia|49|f
+Penelope Point|-71.500|169.783|AQ||49|f
+Penguin Island|-32.305|115.691|AU|Western Australia|49|f
+Penguin Island Conservation Park|-37.497|140.013|AU|South Australia|49|f
+Penguin Islet|-40.575|144.811|AU|Tasmania|49|f
+Penhale Peak|-77.617|162.783|AQ||49|f
+Penile Hill|35.249|-86.037|US|Tennessee|49|f
+Penn Mountain|43.380|-75.260|US|New York|49|f
+Penn Tarn|-77.583|163.100|AQ||49|f
+Penn Yan Airport|42.641|-77.056|US|New York|49|f
+Pennridge Airport|40.389|-75.286|US|Pennsylvania|49|f
+Penns Neck|39.621|-75.515|US|New Jersey|49|f
+Penny Lake|-78.283|163.250|AQ||49|f
+Penny Point|-80.800|160.683|AQ||49|f
+Pennyhole Bay|51.917|1.267|GB|England|49|f
+Pensaskari|65.772|23.978|SE|Norrbotten|49|f
+Penstowe Castle|50.877|-4.499|GB|England|49|f
+Pentagon Mountain|47.927|-113.125|US|Montana|49|f
+Penton Hook Island|51.412|-0.502|GB|England|49|f
+Penunungan Arfak|-1.155|133.979|ID|West Papua|49|f
 Pennadomo|42.004|14.323|IT|Abruzzo|48
 Peñarandilla|40.883|-5.394|ES|Castille and León|48
 Peñalver|40.581|-2.889|ES|Castille-La Mancha|46
@@ -186,29 +340,125 @@ Penango|45.033|8.252|IT|Piedmont|45
 Peñalba de Ávila|40.773|-4.746|ES|Castille and León|42
 Peñalén|40.666|-2.070|ES|Castille-La Mancha|42
 Pennewang|48.133|13.850|AT|Upper Austria|41
+Pen Mar Park|39.717|-77.508|US|Maryland|40|f
+Pen y Castell|52.352|-4.013|GB|Wales|40|f
+Pen y Clawdd Castle|51.875|-3.004|GB|Wales|40|f
+Peña Montañesa|42.491|0.199|ES|Aragon|40|f
+Pena Trevinca|42.264|-6.793|ES|Galicia|40|f
+Peñas del Chache|29.119|-13.521|ES|Canary Islands|40|f
+Pénaud, Mount|-64.102|-60.875|AQ||40|f
+Pendant Ridge|-85.067|-174.750|AQ||40|f
+Pendjari National Park|11.050|1.517|BJ|Atakora|40|f
+Pendrell Sound|50.241|-124.737|CA|British Columbia|40|f
+Penedo da Saudade|40.205|-8.415|PT|Coimbra|40|f
+Peneplain Peak|-83.850|167.033|AQ||40|f
+Pengersick Castle|50.107|-5.384|GB|England|40|f
+Penguin Islands|49.450|-53.798|CA|Newfoundland and Labrador|40|f
+Peninsula Lake|45.343|-79.099|CA|Ontario|40|f
+Peninsula Lake|52.860|-111.486|CA|Alberta|40|f
+Peninsula State Park|45.147|-87.214|US|Wisconsin|40|f
+Penn Street Bridge|40.335|-75.937|US|Pennsylvania|40|f
+Pennard Castle|51.577|-4.102|GB|Wales|40|f
+Pennask Lake Park|49.983|-120.102|CA|British Columbia|40|f
+Pennington Field|32.833|-97.136|US|Texas|40|f
+Pennington Lake|45.781|-93.272|US|Minnesota|40|f
+Pennsylvania Avenue National Historic Site|38.893|-77.018|US|District of Columbia|40|f
+Pennsylvania Lumber Museum|41.782|-77.822|US|Pennsylvania|40|f
+Penny Ice Cap|67.284|-66.214|CA|Nunavut|40|f
+Pennypack Park|40.056|-75.036|US|Pennsylvania|40|f
+Penrhyn Bay|53.323|-3.752|GB||40|f
+Penrith Castle|54.660|-2.756|GB|England|40|f
+Penrose Point State Park|47.259|-122.744|US|Washington|40|f
+Pensacola Bay Bridge|30.394|-87.184|US|Florida|40|f
+Penser Weißhorn|46.801|11.396|IT|Trentino-Alto Adige|40|f
+Penshurst Place|51.175|0.184|GB|England|40|f
+Penstock Bridge|47.588|-120.709|US|Washington|40|f
+Pentagon Barracks Museum|30.456|-91.189|US|Louisiana|40|f
+Pentagon Memorial|38.871|-77.059|US|Virginia|40|f
+Pentedattilo|37.954|15.761|IT|Calabria|40|f
+Penwortham Castle Hill|53.756|-2.723|GB|England|40|f
+Penzance Bay|-41.078|173.760|NZ|Marlborough|40|f
 Peña Blanca|8.470|-81.688|PA|Ngöbe-Buglé Comarca|0
 Penaforte|-7.829|-39.075|BR|Ceará|0
 Penajam|-1.249|116.770|ID|East Kalimantan|0
 Penama|-15.397|167.804|VU||0|r
 Penamacor|40.169|-7.170|PT|Castelo Branco|0
+Penambangan|-6.938|112.061|ID|East Java|0
+Penanae|-8.460|118.764|ID|West Nusa Tenggara|0
+Penang|-9.845|120.246|ID|East Nusa Tenggara|0
+Penanggal|-8.142|113.043|ID|East Java|0
+Penanggapan|-7.063|108.787|ID|Central Java|0
+Penanggungan|-8.019|113.778|ID|East Java|0
+Penaraga|-8.466|118.757|ID|West Nusa Tenggara|0
 Penaron|4.641|97.684|ID|Aceh|0
 Peñarrubia|17.565|120.652|PH|Cordillera|0
+Penarukan|-8.135|112.579|ID|East Java|0
 Penataban Krajan Satu|-8.207|114.356|ID|East Java|0
+Penatahan Kaja|-8.436|115.126|ID|Bali|0
+Penatu|-7.038|113.899|ID|East Java|0
+Pencil|-6.741|111.115|ID|Central Java|0
 Pencoyd|51.933|-2.700|GB|England|0
+Pendaleman|-8.684|116.240|ID|West Nusa Tenggara|0
 Pendawanbaru|-2.530|115.242|ID|South Kalimantan|0
+Pende|-7.330|108.401|ID|West Java|0
 Pendik|40.877|29.273|TR|Istanbul|0
+Pendiqing|39.942|112.004|CN|Inner Mongolia|0
+Pendok|-6.631|111.528|ID|Central Java|0
 Pendolo|-2.075|120.685|ID|Central Sulawesi|0
+Penebel|-8.421|115.145|ID|Bali|0
 Penela|40.033|-8.383|PT|Coimbra|0
 Penelles|41.750|0.967|ES|Catalonia|0
+Peneng|-8.380|115.194|ID|Bali|0
 Penengahan|-5.771|105.697|ID|Lampung|0
+Penfui|-10.177|123.658|ID|East Nusa Tenggara|0
 Pengam|51.665|-3.227|GB|Wales|0
 Pengandonan|-4.054|103.877|ID|South Sumatra|0
+Penganjuran Krajan|-8.219|114.371|ID|East Java|0
+Pengbao|36.092|106.146|CN|Ningxia|0
+Pengbu|30.291|120.220|CN|Zhejiang|0
+Pengchang|30.251|113.513|CN|Hubei|0
+Pengdian|31.534|114.364|CN|Hubei|0
+Pengembunan|-8.495|115.154|ID|Bali|0
+Pengembur Dua|-8.807|116.263|ID|West Nusa Tenggara|0
+Pengfang|27.234|114.317|CN|Jiangxi|0
+Penggakrajeng|-8.324|115.618|ID|Bali|0
+Penghu|25.383|118.152|CN|Fujian|0
+Penghua|25.195|118.194|CN|Fujian|0
+Pengilon|-6.818|111.156|ID|Central Java|0
+Pengjia Zhaizi|27.608|103.527|CN|Yunnan|0
+Pengjiazhuang|38.372|114.753|CN|Henan|0
+Pengjie|28.555|121.481|CN|Zhejiang|0
+Pengkelakmas|-8.734|116.499|ID|West Nusa Tenggara|0
 Pengkok|-7.167|111.610|ID|East Java|0
+Pengkol|-7.235|111.593|ID|East Java|0
+Pengkol|-6.734|111.292|ID|Central Java|0
+Pengkolan|-7.304|108.244|ID|West Java|0
+Pengkolrejo|-6.960|111.324|ID|Central Java|0
+Pengkou|25.531|116.684|CN|Fujian|0
 Penglai|30.582|105.251|CN|Sichuan|0
+Penglai|25.132|118.091|CN|Fujian|0
+Penglai|19.538|110.536|CN|Hainan|0
+Pengotaan|-8.016|113.779|ID|East Java|0
+Pengshi|30.453|113.183|CN|Hubei|0
+Pengsi|30.273|115.272|CN|Hubei|0
+Pengulu|-6.987|112.563|ID|East Java|0
+Pengwan|28.096|117.124|CN|Jiangxi|0
+Pengxing|30.966|113.912|CN|Hubei|0
+Pengzhai|24.365|115.081|CN|Guangdong|0
+Pengzhou|27.492|115.724|CN|Jiangxi|0
+Penikebon|-6.342|106.088|ID|Banten|0
+Penimbung Barat|-8.547|116.135|ID|West Nusa Tenggara|0
 Peninjawan|-3.869|104.382|ID|South Sumatra|0
 Penipe|-1.566|-78.532|EC|Chimborazo Province|0
+Penisihan|-7.587|109.159|ID|Central Java|0
+Penitik|-8.325|113.504|ID|East Java|0
 Penllyn|51.474|-3.479|GB|Wales|0
 Pennard|51.576|-4.087|GB|Wales|0
 Penrhyn|-8.995|-157.966|CK||0|r
 Penthéréaz|46.682|6.604|CH|Vaud|0
+Pentil|-6.750|111.308|ID|Central Java|0
+Pentungan|-6.691|111.110|ID|Central Java|0
+Penunjak|-8.745|116.240|ID|West Nusa Tenggara|0
+Penyabangan|-8.165|114.728|ID|Bali|0
+Penyaring Bawah|-8.470|117.466|ID|West Nusa Tenggara|0
 Penybont|52.267|-3.300|GB|Wales|0

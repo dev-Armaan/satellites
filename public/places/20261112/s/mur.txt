@@ -1,5 +1,5 @@
 Murmansk|67.808|34.575|RU||118|r
-Mureș County|46.667|24.583|RO||116|r
+Mureș County|46.667|24.583|RO||117|r
 Murcia|37.987|-1.130|ES|Murcia|113
 Muratpaşa|36.892|30.765|TR|Antalya|113
 Murmansk|68.968|33.099|RU|Murmansk|109
@@ -29,6 +29,7 @@ Murree|33.908|73.390|PK|Punjab|88
 Muret|43.460|1.325|FR|Occitanie|88
 Murayama|38.470|140.414|JP|Yamagata|87
 Muritiba|-12.917|-39.250|BR|Bahia|87
+Müritz|53.422|12.712|DE|Mecklenburg-Vorpommern|87|f
 Murphy|33.015|-96.613|US|Texas|86
 Muriti|-1.983|32.917|TZ|Mara|86
 Murrysville|40.428|-79.698|US|Pennsylvania|86
@@ -89,6 +90,8 @@ Murovani Kurylivtsi|48.718|27.531|UA|Vinnytsia|75
 Murten/Morat|46.928|7.117|CH|Fribourg|75
 Muriāro|25.821|85.903|IN|Bihar|75
 Mûrs-Erigné|47.396|-0.553|FR|Pays de la Loire|75
+Murchisonfjorden|79.986|18.429|SJ||74|f
+Murray Field|40.804|-124.114|US|California|74|f
 Murcia|15.404|120.609|PH|Central Luzon|74
 Murgul|41.280|41.564|TR|Artvin|74
 Muringur Vadakummuri|10.289|76.339|IN|Kerala|74
@@ -100,12 +103,15 @@ Murovane|49.521|22.937|UA|Lviv|73
 Mūrmūrī|32.726|47.678|IR|Ilam Province|72
 Murighiol|45.033|29.167|RO|Tulcea County|72
 Murutinga do Sul|-20.993|-51.278|BR|São Paulo|71
+Murcia–San Javier Airport|37.775|-0.812|ES|Murcia|71|f
 Muro Lucano|40.754|15.488|IT|Basilicate|71
 Murau|47.111|14.169|AT|Styria|71
 Murmino|54.604|40.055|RU|Ryazan Oblast|71
 Muricilândia|-7.146|-48.610|BR|Tocantins|71
 Mursko Središće|46.512|16.439|HR|Međimurje|70
 Murchante|42.032|-1.656|ES|Navarre|70
+Murmansk Airport|68.782|32.751|RU|Murmansk|70|f
+Murovdağ|40.300|46.508|AZ||70|f
 Murrumbateman|-34.972|149.030|AU|New South Wales|70
 Murgenthal|47.271|7.839|CH|Aargau|70
 Murfreesboro|36.442|-77.099|US|North Carolina|70
@@ -119,6 +125,9 @@ Murgon|-26.242|151.940|AU|Queensland|68
 Murindó|6.981|-76.821|CO|Antioquia|68
 Murgia|42.957|-2.819|ES|Basque Country|67
 Murat|45.110|2.869|FR|Auvergne-Rhône-Alpes|67
+Muraidhoo|6.840|73.165|MV|Haa Dhaalu Atholhu|67|f
+Murdock Stadium|33.884|-118.332|US|California|67|f
+Murtala Mohammed International Airport|6.577|3.321|NG|Lagos|67|f
 Murphys|38.138|-120.461|US|California|67
 Murtino|41.415|22.726|MK|Strumica|67
 Mûr-de-Bretagne|48.201|-2.986|FR|Brittany|67
@@ -129,6 +138,7 @@ Murakeresztúr|46.364|16.882|HU|Zala County|66
 Murter|43.820|15.590|HR|Šibenik-Knin|66
 Murupara|-38.467|176.700|NZ|Bay of Plenty|65
 Murillo|4.874|-75.172|CO|Tolima Department|65
+Murggosjávri|67.723|15.916|NO|Nordland|65|f
 Muros de Nalón|43.543|-6.103|ES|Asturias|65
 Murphy|35.088|-84.035|US|North Carolina|64
 Murata|43.920|12.451|SM|San Marino|64
@@ -138,6 +148,8 @@ Murchison|-23.902|30.691|ZA|Limpopo|64
 Mureck|46.708|15.775|AT|Styria|64
 Mürşitali|40.025|44.133|TR|Iğdır|64
 Murzasichle|49.302|20.040|PL|Lesser Poland|63
+Murray Island|-64.376|-61.557|AQ||63|f
+Murrin Murrin Airport|-28.710|121.886|AU|Western Australia|63|f
 Murphys Estates|33.601|-81.944|US|South Carolina|63
 Murviel-lès-Montpellier|43.605|3.737|FR|Occitanie|63
 Muratbey|41.096|28.492|TR|Istanbul|63
@@ -147,32 +159,193 @@ Muravlivka|45.563|29.157|UA|Odesa|62
 Murra|13.758|-86.018|NI|Nueva Segovia Department|61
 Murgeşti|45.400|26.883|RO|Buzău County|61
 Muriwai Beach|-36.837|174.433|NZ|Auckland|61
+Murisipán-tepuí|5.850|-62.000|VE|Bolívar|61|f
+Murusjøen|64.475|14.041|NO|Trøndelag|61|f
 Muron|46.035|-0.829|FR|New Aquitaine|61
 Murrurundi|-31.764|150.836|AU|New South Wales|60
+Murasho|32.233|131.150|JP|Miyazaki|60
+Murine|45.452|13.543|HR|Istria|60
+Mursallı|37.852|27.565|TR|Aydın|60
+Muradpur|24.647|91.200|BD|Mymensingh Division|60
 Muras|43.467|-7.724|ES|Galicia|59
+Murchin|53.907|13.742|DE|Mecklenburg-Vorpommern|59
 Mürzhofen|47.483|15.383|AT|Styria|59
+Murchison|-36.619|145.217|AU|Victoria|59
+Murakhivka|47.246|33.021|UA|Mykolaiv|59
 Murialdo|44.317|8.168|IT|Liguria|59
+Murat-sur-Vèbre|43.685|2.855|FR|Occitanie|59
+Murvica|44.147|15.324|HR|Zadar|59
+Murtoa|-36.620|142.467|AU|Victoria|59
+Muruhuay|-11.349|-75.653|PE|Junin|59
+Mur-de-Barrez|44.843|2.661|FR|Occitanie|58
+Murat Bay|-32.119|133.623|AU|South Australia|58|f
+Murchison Falls|2.278|31.684|UG||58|f
+Muriel Peak|37.217|-118.693|US|California|58|f
+Murihiti|-10.396|-161.025|CK||58|f
+Murlough Bay|55.211|-6.115|GB|Northern Ireland|58|f
+Murphy Lake|43.639|-85.992|US|Michigan|58|f
+Murray Ø|71.533|-21.800|GL|Sermersooq|58|f
+Murtenica|43.569|19.827|RS|Central Serbia|58|f
+Muryongsan|35.590|129.399|KR|Ulsan|58|f
+Murgești|44.711|23.364|RO|Gorj County|58
+Murrow|52.643|0.027|GB|England|58
 Muros|40.679|8.618|IT|Sardinia|58
+Murdochville|48.958|-65.501|CA|Quebec|58
+Murillo|14.816|-92.295|MX|Chiapas|58
+Mūrd-e Shahrak|28.869|52.462|IR|Fars|58
 Muromskoye|45.091|34.849|UA|Crimea|58
 Murisengo|45.082|8.136|IT|Piedmont|58
 Murillo el Fruto|42.393|-1.460|ES|Navarre|57
+Murray|41.042|-93.949|US|Iowa|57
 Murtas|36.885|-3.109|ES|Andalusia|57
+Mûres|45.806|6.038|FR|Auvergne-Rhône-Alpes|57
+Murianette|45.191|5.819|FR|Auvergne-Rhône-Alpes|57
+Muris|46.188|12.995|IT|Friuli Venezia Giulia|57
+Muratlar|39.060|30.364|TR|Afyonkarahisar Province|57
+Murta|43.982|23.950|RO|Dolj|57
 Murello|44.752|7.601|IT|Piedmont|57
+Murillo el Cuende|42.396|-1.630|ES|Navarre|56
 Murgași|44.500|23.867|RO|Dolj|56
+Mürlenbach|50.150|6.600|DE|Rheinland-Pfalz|56
+Murphys Creek|-27.464|152.055|AU|Queensland|56
+Mursley|51.950|-0.812|GB|England|56
+Murato|42.578|9.327|FR|Corsica|56
 Murilo|8.692|152.339|FM|Chuuk|56
+Murchison|-41.800|172.333|NZ|Tasman District|56
+Murray Hill|38.290|-85.588|US|Kentucky|56
+Murrays Beach|-33.117|151.621|AU|New South Wales|55
+Murchison|32.278|-95.750|US|Texas|55
+Mürseloğlu|36.811|35.164|TR|Adana|55
+Murol|45.573|2.943|FR|Auvergne-Rhône-Alpes|55
 Murazzano|44.473|8.019|IT|Piedmont|55
+Murrayville|39.586|-90.252|US|Illinois|55
 Murias de Paredes|42.850|-6.192|ES|Castille and León|55
 Mure|45.734|11.611|IT|Veneto|55
+Murta Maria|40.890|9.588|IT|Sardinia|55
+Murani|45.925|21.305|RO|Timiș County|54
+Murati Järv|57.584|27.091|EE|Võrumaa|54|f
+Murchison Falls National Park|2.246|31.907|UG|Western Region|54|f
+Murcielagos Island|8.119|122.451|PH|Zamboanga Peninsula|54|f
+Muriel O Ponsler Memorial State Scenic Viewpoint|44.171|-124.115|US|Oregon|54|f
+Müritzarm|53.306|12.684|DE|Mecklenburg-Vorpommern|54|f
+Muroleenkanava|61.853|23.906|FI|Pirkanmaa|54|f
+Murphy Island|40.690|-79.635|US|Pennsylvania|54|f
+Murphy Lake|30.107|-91.386|US|Louisiana|54|f
+Murphy Lake|47.442|-93.474|US|Minnesota|54|f
+Murphy Lake|42.378|-101.610|US|Nebraska|54|f
+Murphy-Collins House|33.204|-87.569|US|Alabama|54|f
+Murray Island Airport|-9.917|144.055|AU|Queensland|54|f
+Murray Islands|-60.766|-44.500|AQ||54|f
+Murray Isle|44.290|-76.050|US|New York|54|f
+Murray M Baker Bridge|40.689|-89.584|US|Illinois|54|f
+Murray Reservoir|32.787|-117.043|US|California|54|f
+Murrumburrah|-34.550|148.333|AU|New South Wales|54|f
+Mursal Barajı|39.142|37.981|TR|Sivas|54|f
+Mürtschenstock|47.076|9.148|CH|Glarus|54|f
+Mürtzsee|53.405|13.129|DE|Mecklenburg-Vorpommern|54|f
+Mururata|-16.516|-67.816|BO|La Paz Department|54|f
+Muradiyemengencik|40.783|31.233|TR|Düzce|54
 Murla|38.760|-0.082|ES|Valencia|54
+Murthly|56.529|-3.467|GB|Scotland|54
 Murat|39.678|43.247|TR|Ağrı|54
 Murdo|43.888|-100.713|US|South Dakota|53
 Murton|53.966|-1.011|GB|England|53
 Mura|45.713|10.342|IT|Lombardy|51
 Muruzábal|42.691|-1.769|ES|Navarre|50
+Mura Aureliane|41.889|12.519|IT|Lazio|49|f
+Murai Reservoir|1.400|103.674|SG||49|f
+Murch, Mount|-84.633|-65.416|AQ||49|f
+Murder Bridge Hill|42.404|-73.982|US|New York|49|f
+Murfreesboro Municipal Airport|35.876|-86.378|US|Tennessee|49|f
+Muriel Mine|-17.233|30.600|ZW|Mashonaland West|49|f
+Murihau Peak|-78.133|163.800|AQ||49|f
+Muritapua|-18.915|-159.730|CK||49|f
+Murkay Islets|-40.660|144.740|AU|Tasmania|49|f
+Murphy Wall|-54.083|-37.400|GS||49|f
+Murramarang National Park|-35.632|150.318|AU|New South Wales|49|f
+Murray Dome|-70.706|67.166|AQ||49|f
+Murray Falls|-18.153|145.819|AU|Queensland|49|f
+Murray Field Airport|-32.510|115.836|AU|Western Australia|49|f
+Murray Glacier|-71.650|170.000|AQ||49|f
+Murray Islands|-9.933|144.042|AU|Queensland|49|f
+Murray Monolith|-67.783|66.900|AQ||49|f
+Murray Park|-33.722|150.370|AU|New South Wales|49|f
+Murrayfield|55.942|-3.241|GB|Scotland|49|f
+Murrays Fall|3.533|-58.283|GY|Upper Takutu-Upper Essequibo|49|f
+Murrish Glacier|-71.033|-61.883|AQ||49|f
+Murrunatta Conservation Park|-34.542|135.595|AU|South Australia|49|f
+Murted Tur-Afb|40.079|32.566|TR|Ankara|49|f
 Murieta|42.656|-2.155|ES|Navarre|49
 Mura|41.699|1.976|ES|Catalonia|46
 Mürzsteg|47.676|15.491|AT|Styria|45
 Murero|41.160|-1.483|ES|Aragon|43
+Mura di Asti|44.903|8.198|IT|Piedmont|40|f
+Murayama Crests|-79.200|158.567|AQ||40|f
+Murchison Glacier|-43.528|170.400|NZ|Canterbury|40|f
+Murchison Promontory|71.968|-94.951|CA|Nunavut|40|f
+Murder Cove|57.029|-134.556|US|Alaska|40|f
+Murgash Glacier|-62.497|-59.881|AQ||40|f
+Murgul Mare|46.077|25.801|RO|Covasna County|40|f
+Muriel Lake|54.146|-110.689|CA|Alberta|40|f
+Muriel Lake|49.131|-125.608|CA|British Columbia|40|f
+Murphy Hill|37.651|-90.477|US|Missouri|40|f
+Murphy Hill|42.675|-74.882|US|New York|40|f
+Murphy Lake|44.903|-64.524|CA|Nova Scotia|40|f
+Murphy Lake|32.522|-85.368|US|Alabama|40|f
+Murphy Lake|36.355|-90.672|US|Arkansas|40|f
+Murphy Lake|35.324|-91.450|US|Arkansas|40|f
+Murphy Lake|33.881|-85.309|US|Georgia|40|f
+Murphy Lake|33.344|-83.747|US|Georgia|40|f
+Murphy Lake|32.970|-85.038|US|Georgia|40|f
+Murphy Lake|38.130|-91.997|US|Missouri|40|f
+Murphy Lake|32.589|-96.436|US|Texas|40|f
+Murphy Lake|31.579|-95.434|US|Texas|40|f
+Murphy Lake|42.013|-87.857|US|Illinois|40|f
+Murphy Lake|46.342|-88.817|US|Michigan|40|f
+Murphy Lake|46.132|-86.463|US|Michigan|40|f
+Murphy Lake|43.300|-83.462|US|Michigan|40|f
+Murphy Lake|41.944|-86.258|US|Michigan|40|f
+Murphy Lake|47.341|-91.770|US|Minnesota|40|f
+Murphy Lake|43.775|-94.470|US|Minnesota|40|f
+Murphy Lake|46.712|-95.657|US|Minnesota|40|f
+Murphy Lake|44.710|-93.341|US|Minnesota|40|f
+Murphy Lake|46.838|-92.802|US|Minnesota|40|f
+Murphy Lake|47.293|-92.494|US|Minnesota|40|f
+Murphy Lake|40.243|-91.816|US|Missouri|40|f
+Murphy Lake|42.258|-99.287|US|Nebraska|40|f
+Murphy Lake|43.339|-74.218|US|New York|40|f
+Murphy Lake|46.362|-90.651|US|Wisconsin|40|f
+Murphy Lake|45.131|-88.128|US|Wisconsin|40|f
+Murphy Lake|45.659|-90.306|US|Wisconsin|40|f
+Murphy Lake|45.697|-91.208|US|Wisconsin|40|f
+Murphy Lake|46.264|-89.774|US|Wisconsin|40|f
+Murphy Lake|43.228|-88.364|US|Wisconsin|40|f
+Murphy Lake|39.990|-121.320|US|California|40|f
+Murphy Lake|36.565|-103.108|US|New Mexico|40|f
+Murphy Lake|40.315|-105.746|US|Colorado|40|f
+Murphy Lake|48.735|-114.858|US|Montana|40|f
+Murphy Lake|41.930|-102.422|US|Nebraska|40|f
+Murphy Lake|48.016|-119.459|US|Washington|40|f
+Murphy Lakes|34.912|-85.194|US|Georgia|40|f
+Murphy Lakes|47.684|-121.131|US|Washington|40|f
+Murphy Lakes|43.053|-110.864|US|Wyoming|40|f
+Murphy Peak|-77.983|164.067|AQ||40|f
+Murphy Ranch Airport|43.958|-118.131|US|Oregon|40|f
+Murphy Range|53.002|-129.172|CA|British Columbia|40|f
+Murphys Black Duck Lake|44.827|-62.795|CA|Nova Scotia|40|f
+Murphys Point Provincial Park|44.783|-76.216|CA|Ontario|40|f
+Murray Bay|44.200|-76.249|CA|Ontario|40|f
+Murray Canal|44.047|-77.628|CA|Ontario|40|f
+Murray Hill|42.922|-74.908|US|New York|40|f
+Murray Lake|54.467|-65.632|CA|Newfoundland and Labrador|40|f
+Murray Lake|54.758|-101.595|CA|Manitoba|40|f
+Murray Lake|43.029|-85.380|US|Michigan|40|f
+Murray Maxwell Bay|69.951|-80.665|CA|Nunavut|40|f
+Murray-Sunset National Park|-34.682|141.432|AU|Victoria|40|f
+Murrill Hill|37.886|-90.552|US|Missouri|40|f
+Murrin Park|49.645|-123.208|CA|British Columbia|40|f
+Murtaugh Peak|-85.683|-130.250|AQ||40|f
+Murtle Lake|52.138|-119.637|CA|British Columbia|40|f
 Muriel de la Fuente|41.723|-2.860|ES|Castille and León|40
 Murphy|43.218|-116.552|US|Idaho|40
 Muriel Viejo|41.783|-2.915|ES|Castille and León|37
@@ -181,13 +354,20 @@ Muro en Cameros|42.225|-2.530|ES|La Rioja|31
 Murlo|43.161|11.388|IT|Tuscany|29
 Muradiye|38.986|43.753|TR|Van|0
 Muradiye|38.660|27.338|TR|Manisa|0
+Muraharjo|-7.046|111.266|ID|Central Java|0
 Muraloka|-8.772|116.879|ID|West Nusa Tenggara|0
 Muratlı|41.474|41.706|TR|Artvin|0
 Muratlı|41.172|27.499|TR|Tekirdağ|0
 Murça|41.406|-7.455|PT|Vila Real|0
+Muri|38.133|99.067|CN|Qinghai|0
 Murici dos Portelas|-3.324|-42.090|BR|Piauí|0
 Muriege|-9.907|21.215|AO|Lunda Sul|0
 Mūrmuiža|57.473|25.492|LV|Valmiera|0
 Muroto|33.333|134.142|JP|Kochi|0
+Mursaba|-6.972|112.859|ID|East Java|0
 Mursal|39.168|37.957|TR|Sivas|0
 Mürşitpınar|36.903|38.347|TR|Şanlıurfa|0
+Murtajih|-7.167|113.509|ID|East Java|0
+Muruni|-6.913|111.675|ID|East Java|0
+Muruona|-8.330|123.477|ID|East Nusa Tenggara|0
+Muruy|-6.366|105.900|ID|Banten|0

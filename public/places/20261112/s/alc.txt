@@ -12,10 +12,12 @@ Alcalá la Real|37.461|-3.923|ES|Andalusia|87
 Alcobaça|-17.519|-39.196|BR|Bahia|87
 Alcalde Díaz|9.123|-79.557|PA|Panamá|86
 Alcântara|38.701|-9.171|PT|Lisbon|86
+Alcatraz Island|37.827|-122.423|US|California|86|f
 Alcúdia|39.853|3.121|ES|Balearic Islands|86
 Alcântara|-2.404|-44.417|BR|Maranhão|85
 Alcañiz|41.050|-0.133|ES|Aragon|84
 Alcobaça|39.552|-8.977|PT|Leiria|84
+Alcides Fernández Airport|8.498|-77.274|CO|Chocó|83|f
 Alcântaras|-3.589|-40.546|BR|Ceará|81
 Alcaudete|37.591|-4.082|ES|Andalusia|81
 Alcalá del Río|37.518|-5.982|ES|Andalusia|81
@@ -53,12 +55,15 @@ Alcantara|12.259|122.054|PH|Mimaropa|67
 Alcoletge|41.648|0.694|ES|Catalonia|66
 Alconchel|38.516|-7.072|ES|Extremadura|66
 Alcara Li Fusi|38.021|14.701|IT|Sicily|66
+Alcantari Airport|-19.241|-65.149|BO|Chuquisaca Department|65|f
 Alcaraces|19.365|-103.576|MX|Colima|65
 Alcaraz|38.667|-2.491|ES|Castille-La Mancha|65
 Alcántara|39.719|-6.884|ES|Extremadura|65
 Alcaucín|36.903|-4.114|ES|Andalusia|65
 Alcolea de Calatrava|38.987|-4.116|ES|Castille-La Mancha|64
 Alconbury|52.369|-0.260|GB|England|64
+Alcona Dam Pond|44.570|-83.816|US|Michigan|63|f
+Alcovy Mountain|33.733|-83.745|US|Georgia|63|f
 Alcanhões|39.296|-8.658|PT|Santarém|63
 Alcaracejos|38.383|-4.967|ES|Andalusia|63
 Alcsútdoboz|47.428|18.604|HU|Fejér|63
@@ -72,16 +77,22 @@ Alcañices|41.699|-6.346|ES|Castille and León|61
 Alcholoa|17.151|-100.408|MX|Guerrero|61
 Alcı|37.146|29.191|TR|Denizli|61
 Alcolea|36.975|-2.962|ES|Andalusia|60
+Alcholoya (El Salto de Alcholoya)|20.225|-98.453|MX|Hidalgo|59
 Alcolea de Tajo|39.810|-5.147|ES|Castille-La Mancha|58
+Alcock Island|-64.240|-61.127|AQ||58|f
 Alcublas|39.800|-0.700|ES|Valencia|58
 Alcadozo|38.649|-1.980|ES|Castille-La Mancha|58
 Alconera|38.400|-6.467|ES|Extremadura|58
+Alcester|43.021|-96.631|US|South Dakota|58
 Alcanadre|42.405|-2.121|ES|La Rioja|58
 Alcoba|39.260|-4.477|ES|Castille-La Mancha|57
+Alcanterini|40.874|17.179|IT|Apulia|57
 Alcazarén|41.371|-4.673|ES|Castille and León|57
 Alcabón|40.002|-4.369|ES|Castille-La Mancha|57
 Alcubillas|38.753|-3.134|ES|Castille-La Mancha|57
 Alcóntar|37.336|-2.597|ES|Andalusia|57
+Alcalde Mayor|17.716|-92.310|MX|Tabasco|56
+Alchenstorf|47.125|7.636|CH|Bern|54
 Alcalá de la Selva|40.372|-0.720|ES|Aragon|54
 Alca|-15.135|-72.765|PE|Arequipa|54
 Alcubierre|41.808|-0.453|ES|Aragon|53
@@ -91,6 +102,7 @@ Alcañizo|39.903|-5.106|ES|Castille-La Mancha|50
 Alcocer|40.470|-2.609|ES|Castille-La Mancha|50
 Alcollarín|39.245|-5.739|ES|Extremadura|50
 Alcalá de Gurrea|42.067|-0.685|ES|Aragon|49
+Alcamarinayoc|-13.700|-71.094|PE|Cuzco Department|49|f
 Alcalá de Ebro|41.815|-1.194|ES|Aragon|49
 Alcanó|41.481|0.617|ES|Catalonia|48
 Alcázar del Rey|40.063|-2.808|ES|Castille-La Mancha|47
@@ -106,6 +118,17 @@ Alcoroches|40.627|-1.746|ES|Castille-La Mancha|44
 Alcalá de la Vega|40.033|-1.517|ES|Castille-La Mancha|44
 Alcalá de Moncayo|41.786|-1.695|ES|Aragon|44
 Alconchel de Ariza|41.204|-2.122|ES|Aragon|42
+Alcántara Dam|39.730|-6.885|ES|Extremadura|40|f
+Alcántara Roman Bridge|39.723|-6.893|ES|Extremadura|40|f
+Alcazaba|36.721|-4.416|ES|Andalusia|40|f
+Alcazaba|38.883|-6.968|ES|Extremadura|40|f
+Alcazaba of Antequera|37.014|-4.558|ES|Andalusia|40|f
+Alcazaba of Mérida|38.915|-6.347|ES|Extremadura|40|f
+Alcazar of Jerez de la Frontera|36.681|-6.140|ES|Andalusia|40|f
+Alcázar of Seville|37.384|-5.991|ES|Andalusia|40|f
+Alcohol and Drug Abuse Lake|34.092|-80.988|US|South Carolina|40|f
+Alcova Dam|42.549|-106.721|US|Wyoming|40|f
+Alcove Reservoir|42.496|-73.948|US|New York|40|f
 Alcantud|40.548|-2.333|ES|Castille-La Mancha|40
 Alcohujate|40.418|-2.615|ES|Castille-La Mancha|38
 Alcubilla de las Peñas|41.251|-2.527|ES|Castille and León|38

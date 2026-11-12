@@ -23,6 +23,7 @@ Sörnäinen|60.186|24.965|FI|Uusimaa|84
 Sorrento|40.627|14.378|IT|Campania|83
 Soroksár|47.405|19.124|HU|Budapest|83
 Sorsk|54.001|90.252|RU|Khakasiya Republic|82
+Sorbonne|48.849|2.344|FR|Île-de-France|81|f
 Sorso|40.799|8.576|IT|Sardinia|81
 Sorab|14.381|75.092|IN|Karnataka|81
 Soritor|-6.139|-77.104|PE|San Martín Department|81
@@ -31,8 +32,10 @@ Sorkheh|35.463|53.214|IR|Semnan|80
 Soresina|45.288|9.859|IT|Lombardy|79
 Sorisole|45.731|9.637|IT|Lombardy|79
 Sortino|37.159|15.030|IT|Sicily|79
+Sørkappøya|76.492|16.571|SJ||78|f
 Sorala|19.131|84.751|IN|Odisha|78
 Sorø|55.432|11.555|DK|Zealand|78
+Sørøya|70.600|22.796|NO|Finnmark|78|f
 Sorbhog|26.486|90.886|IN|Assam|78
 Sorbiers|45.491|4.442|FR|Auvergne-Rhône-Alpes|78
 Soroa|22.798|-83.013|CU|Artemisa|77
@@ -41,6 +44,7 @@ Sori|-0.841|34.160|KE|Migori County|77
 Sorkhrūd-e Gharbī|36.679|52.452|IR|Māzandarān|77
 Sorokino|53.750|84.917|RU|Altai Krai|76
 Sørumsand|59.986|11.242|NO|Akershus|75
+Sørhellhøi|62.314|8.809|NO|Innlandet|75|f
 Sorrento|22.306|114.162|HK|Yau Tsim Mong District|75
 Soriano nel Cimino|42.418|12.234|IT|Lazio|75
 Soribadougou|6.549|-3.777|CI|Lagunes District|74
@@ -48,21 +52,32 @@ Sört|49.318|104.382|MN|Bulgan|73
 Şorgala|38.108|58.031|TM|Ahal|73
 Sorobango|8.172|-2.708|CI|Zanzan District|73
 Sörup|54.717|9.667|DE|Schleswig-Holstein|72
+Sør Rondane Mountains|-72.000|25.000|AQ||71|f
+Sørarnøya|67.133|13.967|NO|Nordland|71|f
+Sørporten|79.175|21.881|SJ||71|f
 Sorbara|44.748|11.007|IT|Emilia-Romagna|71
 Soragna|44.927|10.120|IT|Emilia-Romagna|70
 Sordio|45.342|9.364|IT|Lombardy|70
 Sorède|42.531|2.957|FR|Occitanie|69
 Sori|44.373|9.105|IT|Liguria|69
+Sør-Herøy|65.971|12.256|NO|Nordland|69|f
+Søre Russøya|79.959|18.245|SJ||69|f
 Sorbas|37.098|-2.123|ES|Andalusia|69
 Sorkhāb|35.881|50.714|IR|Alborz Province|68
 Sorèze|43.453|2.067|FR|Occitanie|68
 Soriano Calabro|38.600|16.222|IT|Calabria|68
 Söråker|62.506|17.510|SE|Västernorrland|68
+Soroca Fort|48.161|28.305|MD|Soroca District|67|f
+Sorriso Airport|-12.481|-55.673|BR|Mato Grosso|67|f
 Sorata|-15.773|-68.650|BO|La Paz Department|67
 Sort|42.413|1.130|ES|Catalonia|67
 Sorigny|47.243|0.695|FR|Centre-Val de Loire|66
 Sorodi|10.069|-5.434|CI|Savanes District|66
 Sorotona|8.093|-7.128|CI|Woroba|66
+Sørfolda|67.538|15.216|NO|Nordland|65|f
+Sori-san|37.638|127.613|KR|Gyeonggi-do|65|f
+Sørøysundet|70.514|22.957|NO|Finnmark|65|f
+Sørvágsfjørður|62.080|-7.376|FO|Vágar|65|f
 Sortová|8.551|-82.651|PA|Chiriquí Province|65
 Sornay|46.630|5.180|FR|Bourgogne-Franche-Comté|65
 Sorgono|40.026|9.102|IT|Sardinia|64
@@ -70,6 +85,10 @@ Sorengo|45.998|8.938|CH|Ticino|64
 Sorrento|30.184|-90.859|US|Louisiana|64
 Sörforsa|61.733|16.983|SE|Gävleborg|64
 Sorel-Moussel|48.834|1.367|FR|Centre-Val de Loire|64
+Sorgu|58.179|24.200|EE|Pärnumaa|63|f
+Sørlaguna|70.971|-8.541|SJ|Jan Mayen|63|f
+Soroti Airport|1.728|33.623|UG|Eastern Region|63|f
+Sørvágsvatn|62.050|-7.236|FO|Vágar|63|f
 Sorrento|50.878|-119.471|CA|British Columbia|62
 Soroní|36.362|28.003|GR|South Aegean|62
 Sordevolo|45.573|7.973|IT|Piedmont|62
@@ -78,31 +97,90 @@ Sörgenloch|49.883|8.201|DE|Rheinland-Pfalz|62
 Sorsele|65.535|17.537|SE|Västerbotten|61
 Sorges|45.307|0.874|FR|New Aquitaine|61
 Sørvágur|62.072|-7.307|FO|Vágar|61
+Søre Repøya|80.415|24.225|SJ|Svalbard|61|f
+Sørhausane Peaks|-72.783|0.250|AQ||61|f
+Sørhjelmen Peak|-71.792|26.617|AQ||61|f
+Sorjosjávri,bajit|67.218|16.266|NO|Nordland|61|f
+Sorkh Kūh|33.682|47.509|IR|Lorestan Province|61|f
+Sørkjosen Airport|69.786|20.961|NO|Troms|61|f
+Sorolevu|-16.627|179.397|FJ|Northern|61|f
+Sorrento Peninsula|40.617|14.417|IT|Campania|61|f
+Sørsdal Glacier|-68.700|78.167|AQ||61|f
+Sørstokken|59.793|5.344|NO|Vestland|61|f
+Sørungen|63.124|10.945|NO|Trøndelag|61|f
 Sorifuro|9.035|-6.284|CI|Woroba|61
 Sorobono|10.524|-6.326|CI|Savanes District|61
+Sore|44.324|-0.581|FR|New Aquitaine|60
+Sorcy-Saint-Martin|48.714|5.634|FR|Grand Est|60
+Sorinnes|50.259|4.981|BE|Wallonia|59
+Sornac|45.667|2.193|FR|New Aquitaine|59
+Sorrento|28.808|-81.564|US|Florida|59
+Sorens|46.669|7.052|CH|Fribourg|58
+Sorgun|36.870|34.136|TR|Mersin|58
+Sorkun|38.445|30.054|TR|Afyonkarahisar Province|58
 Soracá|5.501|-73.333|CO|Boyacá|58
+Sorobo|8.083|-2.979|CI|Zanzan District|58
+Soro|7.708|-5.547|CI|Vallée du Bandama District|58
+Sork Ale|13.181|41.727|ET||58|f
+Sørlle Buttress|-54.283|-36.833|GS||58|f
+Soroako Airport|-2.531|121.358|ID|South Sulawesi|58|f
+Sorpe Dam|51.336|7.944|DE|North Rhine-Westphalia|58|f
+Sorpresa Rock|-67.854|-69.553|AQ||58|f
+Soreni|44.052|24.127|RO|Dolj|58
 Sorano|42.681|11.719|IT|Tuscany|58
+Sorbo-Ocagnano|42.476|9.456|FR|Corsica|58
+Sorkwity|53.846|21.140|PL|Warmia-Masuria|58
+Sorrel|29.889|-91.617|US|Louisiana|58
+Sort-en-Chalosse|43.683|-0.931|FR|New Aquitaine|58
 Sorvilán|36.795|-3.268|ES|Andalusia|57
+Sörvik|64.133|15.717|SE|Jämtland|57
 Soraga|46.395|11.666|IT|Trentino-Alto Adige|57
 Sorochuco|-6.912|-78.255|PE|Cajamarca Department|57
 Soriso|45.740|8.410|IT|Piedmont|57
+Sörvik|60.184|15.156|SE|Dalarna|57
+Soral|46.144|6.043|CH|Geneva|57
+Soroștin|46.029|24.061|RO|Sibiu County|57
+Sorkheh Tūt|35.119|46.557|IR|Kurdistan Province|56
 Sørland|67.666|12.698|NO|Nordland|56
 Sorianello|38.594|16.232|IT|Calabria|56
 Sormano|45.878|9.246|IT|Lombardy|56
 Sorico|46.173|9.384|IT|Lombardy|56
 Sorá|8.635|-80.009|PA|Panamá Oeste Province|56
+Sorée|50.399|5.124|BE|Wallonia|55
 Sorgà|45.213|10.980|IT|Veneto|55
+Sormonne|49.811|4.566|FR|Grand Est|55
+Sorge Island|-67.181|-67.694|AQ||54|f
+Sorgenfri Slot|55.781|12.506|DK|Capital Region|54|f
+Sorgschrofen|47.550|10.450|AT||54|f
+Sørgulen|61.717|5.117|NO|Vestland|54|f
+Sororopán-tepuí|5.750|-61.717|VE|Bolívar|54|f
 Sora|5.565|-73.450|CO|Boyacá|54
 Sorbo San Basile|39.019|16.569|IT|Calabria|54
 Sorbo Serpico|40.917|14.887|IT|Campania|53
 Sorradile|40.106|8.932|IT|Sardinia|52
 Sorihuela|40.444|-5.678|ES|Castille and León|51
+Sore Thumb|-76.667|161.100|AQ||49|f
+Sorell Causeway|-42.800|147.530|AU|Tasmania|49|f
+Sornfelli|62.067|-6.967|FO|Streymoy|49|f
+Sorsavesi|62.483|27.550|FI||49|f
+Sorsogon Bay|12.916|123.943|PH|Bicol Region|49|f
 Sorzano|42.343|-2.529|ES|La Rioja|48
+Sörth|50.700|7.683|DE|Rheinland-Pfalz|48
+Sören|54.203|9.998|DE|Schleswig-Holstein|45
 Soraya|-14.165|-73.315|PE|Apurímac Department|43
+Sorensen Peak|-71.717|167.800|AQ||40|f
+Sorenson Glacier|-74.467|-111.367|AQ||40|f
 Sorlada|42.615|-2.215|ES|Navarre|32
 Sordillos|42.462|-4.107|ES|Castille and León|30
 Sora|42.112|2.161|ES|Catalonia|0
+Sora|34.793|127.632|KR|Jeollanam-do|0
 Soras|-14.115|-73.604|PE|Ayacucho|0
 Sorendiweri|-0.734|135.736|ID|Papua|0
+Sorinomo|-8.263|117.796|ID|West Nusa Tenggara|0
+Soriutu|-8.519|118.323|ID|West Nusa Tenggara|0
+Soro|-8.557|118.238|ID|West Nusa Tenggara|0
+Sorodot|-6.362|105.913|ID|Banten|0
 Sorol|8.143|140.394|FM|Yap State|0
+Sorongan|-6.758|105.748|ID|Banten|0
 Sørreisa|69.145|18.153|NO|Troms|0
+Sorren Daya|-6.924|113.261|ID|East Java|0

@@ -7,6 +7,7 @@ Oviedo|28.670|-81.208|US|Florida|92
 Overbrook|39.989|-75.243|US|Pennsylvania|90
 Overath|50.933|7.284|DE|North Rhine-Westphalia|89
 Overijse|50.774|4.535|BE|Flanders|87
+Ovda Airport|29.940|34.936|IL|Southern District|87|f
 Ovar|40.859|-8.625|PT|Aveiro|85
 Ovrīn|35.548|51.128|IR|Tehran|85
 Overland|38.701|-90.362|US|Missouri|84
@@ -18,6 +19,7 @@ Overlea|39.363|-76.521|US|Maryland|82
 Ovidiopol|46.247|30.437|UA|Odesa|81
 Overbrook|45.427|-75.652|CA|Ontario|80
 Ovada|44.637|8.642|IT|Piedmont|80
+Ovo Island|35.600|25.576|GR|Crete|77|f
 Ovriá|38.189|21.729|GR|West Greece|76
 Ovacık|39.353|39.209|TR|Tunceli|76
 Ovelgönne|53.342|8.422|DE|Lower Saxony|75
@@ -41,27 +43,81 @@ Oviedo|17.801|-71.401|DO|Pedernales Province|69
 Ovča|44.883|20.533|RS|Central Serbia|68
 Overton|32.275|-94.979|US|Texas|68
 Ovoshchi|45.366|43.323|RU|Stavropol Kray|67
+Ovalle Airport|-30.629|-71.273|CL|Coquimbo Region|67|f
+Øverelsvatnet|65.557|14.397|NO|Nordland|67|f
+Overton Islands|36.266|-114.391|US|Nevada|67|f
 Ovakavağı|37.711|32.935|TR|Konya|67
 Oveselu|44.750|24.017|RO|Vâlcea County|67
 Overtown|55.757|-3.916|GB|Scotland|66
 Övertorneå|66.388|23.654|SE|Norrbotten|66
+Øvresætertjern|59.982|10.672|NO|Oslo|65|f
 Overasselt|51.760|5.789|NL|Gelderland|65
 Oviedo|22.045|-98.401|MX|Veracruz|64
 Ovodda|40.095|9.161|IT|Sardinia|64
 Ovid|43.006|-84.372|US|Michigan|64
 Over Holluf|55.358|10.470|DK|South Denmark|64
+Ovau Island|-6.794|156.016|SB||63|f
+Overcoat Peak|47.514|-121.292|US|Washington|63|f
 Overberg|52.040|5.494|NL|Utrecht|63
 Ovenstädt|52.415|8.974|DE|North Rhine-Westphalia|62
 Överum|57.989|16.314|SE|Kalmar|61
 Ovayenice|41.100|28.419|TR|Istanbul|61
+Ovčinec|41.959|20.689|XK||61|f
+Överuman|66.050|14.833|SE|Västerbotten|61|f
+Øvre Buarbreen|60.044|6.428|NO|Vestland|61|f
+Øvrevatnet|67.227|15.936|NO|Nordland|61|f
 Overton|54.015|-2.861|GB|England|61
 Överkalix|66.328|22.844|SE|Norrbotten|60
 Overstrand|52.916|1.339|GB|England|60
 Overbrook|38.781|-95.557|US|Kansas|60
+Over Wallop|51.146|-1.595|GB|England|60
+Ovacık|36.185|33.670|TR|Mersin|60
 Overton|52.967|-2.933|GB|Wales|60
+Övündüler|37.882|39.918|TR|Diyarbakır Province|59
+Ovgort|64.817|63.983|RU|Yamalo-Nenets|59
+Ovaköy|37.852|28.022|TR|Aydın|59
 Oviglio|44.861|8.488|IT|Piedmont|59
 Ovindoli|42.138|13.516|IT|Abruzzo|59
+Ovakozlu|39.408|41.858|TR|Erzurum|59
+Oventeni|-10.751|-74.220|PE|Ucayali|59
 Ovaro|46.484|12.867|IT|Friuli Venezia Giulia|58
+Ovsiuky|50.018|32.492|UA|Poltava|58
+Overland Lake|40.460|-115.457|US|Nevada|58|f
+Oversay Island|55.674|-6.512|GB|Scotland|58|f
+Ovoshchnoye|45.755|34.338|UA|Crimea|58
+Ovčáry|50.063|15.239|CZ|Central Bohemia|57
+Ovacık|38.038|28.430|TR|Aydın|57
+Ovstug|53.368|33.875|RU|Bryansk Oblast|57
+Overrepen|50.808|5.431|BE|Flanders|57
+Övecek|37.904|42.884|TR|Van|56
+Ovid|42.676|-76.823|US|New York|56
+Overhespen|50.796|5.036|BE|Flanders|56
+Överhörnäs|63.288|18.581|SE|Västernorrland|56
+Over Kellet|54.123|-2.732|GB|England|55
+Overton|40.739|-99.538|US|Nebraska|55
+Överhärde|60.617|16.967|SE|Gävleborg|55
+Overwinden|50.755|5.048|BE|Flanders|55
+Överlida|57.350|12.897|SE|Västra Götaland|55
+Ovčáry|50.253|14.614|CZ|Central Bohemia|54
+Ovčar|43.896|20.217|RS|Central Serbia|54|f
+Ove Peak|-72.183|-3.450|AQ||54|f
+Ovacık|38.067|28.544|TR|Aydın|54
+Oval Peak|48.287|-120.425|US|Washington|49|f
+Ovalau|-18.750|-174.078|TO|Vavau|49|f
+Ovalau Island|-17.679|178.791|FJ|Eastern|49|f
+Overflow Glacier|-77.783|163.183|AQ||49|f
+Overlord, Mount|-73.167|164.600|AQ||49|f
+Oversight|-37.377|146.107|AU|Victoria|49|f
+Overton Peak|-69.685|-71.998|AQ||49|f
+Overturn Glacier|-79.900|157.250|AQ||49|f
+Oviston Nature Reserve|-30.732|25.785|ZA|Eastern Cape|49|f
+Övre Rudasjön|59.169|18.134|SE|Stockholm|49|f
+Ovech Glacier|-62.962|-62.444|AQ||40|f
+Overflow National Wildlife Refuge|33.082|-91.655|US|Arkansas|40|f
+Overhall Grove|52.250|-0.043|GB|England|40|f
+Overlook Mountain|42.085|-74.093|US|New York|40|f
+Overlord Mountain|50.016|-122.819|CA|British Columbia|40|f
+Overpeck County Park|40.867|-73.994|US|New Jersey|40|f
 Ovabağ|37.708|39.987|TR|Diyarbakır Province|0
 Ovacık|37.513|38.779|TR|Şanlıurfa|0
 Ovacık|40.200|40.997|TR|Erzurum|0

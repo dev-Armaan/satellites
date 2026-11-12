@@ -6,6 +6,7 @@ Beauport|46.859|-71.192|CA|Quebec|98
 Beauvais|49.433|2.083|FR|Hauts-de-France|95
 Beavercreek|39.709|-84.063|US|Ohio|93
 Beaufort West|-32.357|22.583|ZA|Western Cape|93
+Bear Island|74.448|19.040|SJ|Svalbard|93|f
 Beaumont|33.929|-116.977|US|California|93
 Bealanana|-14.543|48.750|MG|Sofia|90
 Bearsden|55.915|-4.333|GB|Scotland|89
@@ -13,6 +14,7 @@ Beaune|47.024|4.839|FR|Bourgogne-Franche-Comté|88
 Bear|39.629|-75.658|US|Delaware|86
 Beaconsfield|45.433|-73.866|CA|Quebec|86
 Beaver Dam|43.458|-88.837|US|Wisconsin|84
+Beaumaris Castle|53.265|-4.090|GB|Wales|84|f
 Beaufort|5.347|115.746|MY|Sabah|84
 Beaucaire|43.808|4.644|FR|Occitanie|83
 Beacon|41.505|-73.970|US|New York|83
@@ -32,16 +34,21 @@ Beach Haven|-36.788|174.680|NZ|Auckland|81
 Beauchamp|49.017|2.200|FR|Île-de-France|80
 Beacon Hill|42.359|-71.068|US|Massachusetts|79
 Beaumont-sur-Oise|49.142|2.287|FR|Île-de-France|79
+Beartooth Mountains|45.163|-109.808|US|Montana|79|f
 Beaver Falls|40.752|-80.319|US|Pennsylvania|79
 Beausoleil|46.298|-64.603|CA|New Brunswick|79
 Beaumont|53.387|-6.227|IE|Leinster|79
 Beachlands|-36.883|175.000|NZ|Auckland|78
 Beauraing|50.110|4.956|BE|Wallonia|78
 Beaugency|47.780|1.627|FR|Centre-Val de Loire|78
+Beaver Airport|66.362|-147.408|US|Alaska|78|f
 Beaumont|53.350|-113.419|CA|Alberta|77
 Beacon Square|28.209|-82.755|US|Florida|77
 Beaconsfield|42.337|-71.141|US|Massachusetts|77
 Beau Vallon|-20.423|57.704|MU|Grand Port|77
+Beaufort County Airport|32.411|-80.634|US|South Carolina|77|f
+Beaumont Municipal Airport|30.070|-94.216|US|Texas|77|f
+Beaver County Airport|40.772|-80.391|US|Pennsylvania|77|f
 Beaupréau|47.202|-0.995|FR|Pays de la Loire|77
 Beaubassin East|46.209|-64.418|CA|New Brunswick|77
 Béablo|6.379|-7.334|CI|Montagnes|76
@@ -60,6 +67,8 @@ Beaufays|50.559|5.639|BE|Wallonia|75
 Beas de Segura|38.252|-2.889|ES|Andalusia|74
 Bear Valley Springs|35.159|-118.628|US|California|74
 Beaurains|50.266|2.795|FR|Hauts-de-France|74
+Beauvais–Tillé Airport|49.454|2.113|FR|Hauts-de-France|73|f
+Beaver Creek Airport|62.411|-140.869|CA|Yukon|73|f
 Beattystown|40.813|-74.843|US|New Jersey|73
 Beaucouzé|47.475|-0.632|FR|Pays de la Loire|73
 Beavercreek|45.288|-122.536|US|Oregon|73
@@ -68,15 +77,20 @@ Beaver|40.695|-80.305|US|Pennsylvania|73
 Beaurepaire|45.337|5.049|FR|Auvergne-Rhône-Alpes|72
 Beaufort|34.718|-76.662|US|North Carolina|72
 Beas|37.426|-6.793|ES|Andalusia|72
+Beatrice Municipal Airport|40.301|-96.754|US|Nebraska|72|f
 Beau Vallon|-4.621|55.430|SC|Beau Vallon|72
 Beaumont-lès-Valence|44.862|4.943|FR|Auvergne-Rhône-Alpes|72
 Beach Haven West|39.670|-74.232|US|New Jersey|72
 Beaulieu-sur-Mer|43.707|7.331|FR|Provence-Alpes-Côte d'Azur|72
 Beaumont-de-Lomagne|43.883|0.988|FR|Occitanie|71
+Bear Lake|58.379|22.222|EE|Saare|71|f
+Bearskin Lake Airport|53.966|-91.027|CA|Ontario|71|f
+Beaver Island|51.906|-177.446|US|Alaska|71|f
 Beauvoir-sur-Mer|46.915|-2.041|FR|Pays de la Loire|71
 Beaver Dam|37.402|-86.876|US|Kentucky|71
 Beauvoisin|43.719|4.323|FR|Occitanie|71
 Beaverton|44.433|-79.150|CA|Ontario|70
+Beaver Municipal Airport|38.230|-112.675|US|Utah|70|f
 Beausejour|50.062|-96.517|CA|Manitoba|70
 Bean Station|36.344|-83.284|US|Tennessee|70
 Beaver|38.277|-112.641|US|Utah|70
@@ -90,6 +104,11 @@ Beaumont|-34.949|138.662|AU|South Australia|68
 Beaune-la-Rolande|48.071|2.431|FR|Centre-Val de Loire|68
 Beauval|50.108|2.333|FR|Hauts-de-France|67
 Beaverlodge|55.217|-119.436|CA|Alberta|67
+Bear Island|62.564|6.236|NO|Møre og Romsdal|67|f
+Bearhat Mountain|48.667|-113.764|US|Montana|67|f
+Beauchêne Island|-52.917|-59.200|FK||67|f
+Beaufort Island|22.185|114.251|HK|Islands|67|f
+Beautiful Mountain|36.489|-108.989|US|New Mexico|67|f
 Beaver Dam Lake|41.447|-74.115|US|New York|67
 Beaverdam Lake-Salisbury Mills|41.442|-74.116|US|New York|67
 Beautiran|44.704|-0.452|FR|New Aquitaine|67
@@ -103,6 +122,8 @@ Beaujeu|46.154|4.588|FR|Auvergne-Rhône-Alpes|66
 Bearna|53.252|-9.150|IE|Connacht|66
 Beaver Dam|36.899|-113.933|US|Arizona|66
 Bear Creek|60.164|-149.395|US|Alaska|66
+Bearfort Mountain|41.140|-74.392|US|New Jersey|65|f
+Bearskin Lake|48.066|-90.428|US|Minnesota|65|f
 Beaulieu-sous-la-Roche|46.677|-1.611|FR|Pays de la Loire|65
 Beaulieu-lès-Loches|47.125|1.016|FR|Centre-Val de Loire|65
 Beauvallon|44.856|4.908|FR|Auvergne-Rhône-Alpes|65
@@ -117,6 +138,18 @@ Beaulon|46.602|3.673|FR|Auvergne-Rhône-Alpes|64
 Beaulieu|43.729|4.022|FR|Occitanie|64
 Beaufort|-37.430|143.383|AU|Victoria|64
 Beaurevoir|49.997|3.309|FR|Hauts-de-France|64
+Beacon Hill|22.350|114.169|HK|Sha Tin|63|f
+Beacon Hill|41.272|-72.858|US|Connecticut|63|f
+Beanley Island|-14.432|144.886|AU|Queensland|63|f
+Bear Creek 3 Airport|63.575|-156.150|US|Alaska|63|f
+Bear Garden Mountain|39.331|-78.395|US|West Virginia|63|f
+Bear Peak|39.961|-105.295|US|Colorado|63|f
+Bear Peak|43.675|-114.590|US|Idaho|63|f
+Beardsley Dam|38.204|-120.075|US|California|63|f
+Bearpen Mountain|42.273|-74.484|US|New York|63|f
+Beaufort Sea|72.600|-136.760|||63|f
+Beauregard Regional Airport|30.832|-93.334|US|Louisiana|63|f
+Beaver Stadium|40.812|-77.856|US|Pennsylvania|63|f
 Beaver|36.816|-100.520|US|Oklahoma|63
 Beaumont|46.104|6.121|FR|Auvergne-Rhône-Alpes|63
 Beaufort|49.836|6.292|LU|Echternach|63
@@ -141,6 +174,24 @@ Beaucé|48.339|-1.157|FR|Brittany|61
 Beach Haven|39.559|-74.243|US|New Jersey|61
 Beaulieu-sur-Layon|47.311|-0.590|FR|Pays de la Loire|61
 Beaumaris|53.263|-4.092|GB|Wales|61
+Beacon Island|35.098|-76.047|US|North Carolina|61|f
+Beagle Island|-63.414|-54.667|AQ||61|f
+Beall Island|-66.300|110.483|AQ||61|f
+Beamish Museum|54.876|-1.650|GB|England|61|f
+Bear Creek Spire|37.368|-118.768|US|California|61|f
+Bear Island|-68.151|-67.250|AQ||61|f
+Bear Island|41.258|-72.739|US|Connecticut|61|f
+Bear Mountain|34.313|-84.648|US|Georgia|61|f
+Bearhead Mountain|48.424|-113.356|US|Montana|61|f
+Bears Ears Mountain|42.839|-109.133|US|Wyoming|61|f
+Bears Paw Mountains|48.208|-109.517|US|Montana|61|f
+Beartooth Mountain|45.061|-109.569|US|Montana|61|f
+Beartown Mountain|36.936|-81.887|US|Virginia|61|f
+Beatty Airport|36.868|-116.785|US|Nevada|61|f
+Beaucatcher Mountain|35.605|-82.538|US|North Carolina|61|f
+Beaver Dam Lake|43.521|-88.902|US|Wisconsin|61|f
+Beaver Island|-67.117|50.783|AQ||61|f
+Beaver Island|45.665|-85.557|US|Michigan|61|f
 Beach|46.918|-104.004|US|North Dakota|61
 Beaupuy|44.535|0.149|FR|New Aquitaine|61
 Beaumont-du-Gâtinais|48.139|2.479|FR|Île-de-France|61
@@ -157,9 +208,257 @@ Beach City|40.653|-81.581|US|Ohio|60
 Beatty|36.909|-116.759|US|Nevada|60
 Beaumetz-lès-Loges|50.239|2.658|FR|Hauts-de-France|60
 Beaumont-de-Pertuis|43.737|5.690|FR|Provence-Alpes-Côte d'Azur|60
+Beaufort|46.574|5.439|FR|Bourgogne-Franche-Comté|60
+Beaucamps-Ligny|50.606|2.916|FR|Hauts-de-France|60
+Beavertown|40.754|-77.169|US|Pennsylvania|60
+Beaverdale|40.847|-91.208|US|Iowa|60
+Beaumont|31.169|-88.920|US|Mississippi|59
+Beauregard|45.999|4.754|FR|Auvergne-Rhône-Alpes|59
+Beauregard-Vendon|45.960|3.110|FR|Auvergne-Rhône-Alpes|59
+Bearden|33.725|-92.616|US|Arkansas|59
+Bear River City|41.615|-112.127|US|Utah|59
+Beaver Meadows|40.928|-75.915|US|Pennsylvania|59
+Beaulieu|50.820|-1.441|GB|England|58
+Beacon Island|64.201|-76.449|CA|Nunavut|58|f
+Beak Island|-63.622|-57.310|AQ||58|f
+Bear Gulch Reservoir|37.433|-122.228|US|California|58|f
+Bear Lake|41.936|-111.338|US|Utah|58|f
+Bear Mountain|41.313|-74.006|US|New York|58|f
+Bear Mountain|35.205|-118.638|US|California|58|f
+Bear Rock Lakes Wildlife Management Area|40.078|-80.534|US|West Virginia|58|f
+Bear Spring Mountain|42.145|-75.121|US|New York|58|f
+Bearpaw Mountain|48.946|-121.854|US|Washington|58|f
+Bears Breast Mountain|47.540|-121.225|US|Washington|58|f
+Beaumont Island|-68.199|-66.943|AQ||58|f
+Beaver Island|57.434|-102.167|CA|Saskatchewan|58|f
+Beaver Island|-51.839|-61.273|FK||58|f
+Beaver Kill Range|42.005|-74.567|US|New York|58|f
+Beaverhead Mountains|44.355|-112.823|US|Idaho|58|f
+Béard-Géovreissiat|46.189|5.550|FR|Auvergne-Rhône-Alpes|58
+Beaujeu-Saint-Vallier-Pierrejux-et-Quitteur|47.500|5.683|FR|Bourgogne-Franche-Comté|58
+Beaumont-sur-Vesle|49.174|4.187|FR|Grand Est|58
+Beaumontel|49.083|0.762|FR|Normandy|57
+Bearley|52.244|-1.738|GB|England|57
+Beaurieux|49.393|3.740|FR|Hauts-de-France|57
+Beauregard-de-Terrasson|45.148|1.231|FR|New Aquitaine|57
+Beaux|45.187|4.093|FR|Auvergne-Rhône-Alpes|57
+Beaver Springs|40.746|-77.209|US|Pennsylvania|57
+Beaumesnil|49.011|0.706|FR|Normandy|57
+Beasley|29.497|-95.918|US|Texas|56
+Beauvais-sur-Matha|45.883|-0.189|FR|New Aquitaine|56
+Beaumarchés|43.586|0.090|FR|Occitanie|56
+Beaulieu-sous-Parthenay|46.576|-0.235|FR|New Aquitaine|56
+Beals|44.520|-67.615|US|Maine|56
+Beausaint|50.168|5.549|BE|Wallonia|56
+Beautheil|48.763|3.087|FR|Île-de-France|56
+Beaurecueil|43.512|5.546|FR|Provence-Alpes-Côte d'Azur|56
 Beaver City|40.138|-99.830|US|Nebraska|55
+Beauville|44.277|0.882|FR|New Aquitaine|55
+Beauregard|44.997|5.187|FR|Auvergne-Rhône-Alpes|55
+Beachport|-37.481|140.013|AU|South Australia|55
+Beaulieu-les-Fontaines|49.660|2.912|FR|Hauts-de-France|55
 Beade|42.331|-8.130|ES|Galicia|55
+Beaudignies|50.237|3.593|FR|Hauts-de-France|55
+Beaulieu|45.179|5.395|FR|Auvergne-Rhône-Alpes|55
+Beaumetz-lès-Cambrai|50.122|2.984|FR|Hauts-de-France|55
+Beaupont|46.410|5.262|FR|Auvergne-Rhône-Alpes|55
+Beaumont-les-Autels|48.258|0.959|FR|Centre-Val de Loire|55
+Beaumont-en-Auge|49.278|0.110|FR|Normandy|54
+Beach Airport|46.923|-103.981|US|North Dakota|54|f
+Beach Mountains|31.136|-104.859|US|Texas|54|f
+Beach Park|35.379|-119.040|US|California|54|f
+Beach Ranch Airport|45.972|-117.233|US|Oregon|54|f
+Beachcomber Island|-17.654|177.255|FJ||54|f
+Beachside State Recreation Site|44.379|-124.090|US|Oregon|54|f
+Beagle Islands|-29.807|114.877|AU|Western Australia|54|f
+Beaner Lake|48.445|-120.627|US|Washington|54|f
+Bear Bluff|44.252|-90.378|US|Wisconsin|54|f
+Bear Butte|44.476|-103.427|US|South Dakota|54|f
+Bear Canyon Lake|34.393|-111.003|US|Arizona|54|f
+Bear Head Lake|47.776|-92.079|US|Minnesota|54|f
+Bear Island|51.636|-9.881|IE|Munster|54|f
+Bear Island|32.612|-80.445|US|South Carolina|54|f
+Bear Island Lake|47.781|-91.944|US|Minnesota|54|f
+Bear Lake|60.200|-149.354|US|Alaska|54|f
+Bear Lake National Wildlife Refuge|42.166|-111.317|US|Idaho|54|f
+Bear Mountain|44.030|-71.302|US|New Hampshire|54|f
+Bear Mountain|40.874|-75.699|US|Pennsylvania|54|f
+Bear Mountain|48.955|-113.757|US|Montana|54|f
+Bear Valley Buttes|39.186|-122.444|US|California|54|f
+Beara Peninsula|51.683|-9.700|IE|Munster|54|f
+Beast Lake|48.509|-92.763|US|Minnesota|54|f
+Beatton River Provincial Park|56.100|-120.378|CA|British Columbia|54|f
+Beaubears Island|46.974|-65.571|CA|New Brunswick|54|f
+Beaudesert Castle|52.293|-1.773|GB|England|54|f
+Beaune-la-Rolande Transit Camp|48.070|2.430|FR|Centre-Val de Loire|54|f
+Beaver Creek Bridge|33.906|-98.905|US|Texas|54|f
+Beaver Island State Park|42.967|-78.950|US|New York|54|f
+Beaver Lake|36.235|-93.943|US|Arkansas|54|f
+Beaver Marsh State Airport|43.131|-121.807|US|Oregon|54|f
+Beaver Oaks Airport|45.319|-122.363|US|Oregon|54|f
+Beaver Peak|41.076|-116.254|US|Nevada|54|f
+Beaver Rocks|-63.683|-59.350|AQ||54|f
+Beaver Run Reservoir|40.483|-79.559|US|Pennsylvania|54|f
+Beaurepaire-en-Bresse|46.669|5.388|FR|Bourgogne-Franche-Comté|54
+Bear River|41.384|-111.026|US|Wyoming|54
 Beadnell|55.557|-1.633|GB|England|52
 Beas de Guadix|37.279|-3.206|ES|Andalusia|52
+Beachport Conservation Park|-37.456|139.979|AU|South Australia|49|f
+Beachy Head|50.736|0.241|GB|England|49|f
+Beacon Head|-67.821|-67.346|AQ||49|f
+Beacon Island|-28.750|113.783|AU|Western Australia|49|f
+Beagle Bay|-16.930|122.541|AU|Western Australia|49|f
+Beagle Gulf|-12.183|130.767|AU|Western Australia|49|f
+Beagle Island|-40.330|147.920|AU|Tasmania|49|f
+Beagle Peak|-69.604|-71.657|AQ||49|f
+Beaglehole Glacier|-66.588|-64.028|AQ||49|f
+Beakley Glacier|-73.850|-119.833|AQ||49|f
+Beaman Glacier|-70.967|164.633|AQ||49|f
+Bean Peaks|-75.966|-70.000|AQ||49|f
+Bear Island|38.985|-77.243|US|Maryland|49|f
+Bear Island|47.016|-90.758|US|Wisconsin|49|f
+Bear Mountain|42.045|-73.455|US|Connecticut|49|f
+Bear Mountain|36.747|-119.281|US|California|49|f
+Bear Mountain|41.796|-123.672|US|California|49|f
+Bear Mountain|41.922|-114.906|US|Nevada|49|f
+Bear Mountain|43.870|-103.744|US|South Dakota|49|f
+Bear Mountain Bridge|41.320|-73.983|US|New York|49|f
+Bear Peninsula|-74.333|-110.500|AQ||49|f
+Bearing Island|-64.548|-62.019|AQ||49|f
+Bears Island|-40.431|144.839|AU|Tasmania|49|f
+Bearskin, Mount|-78.333|-85.617|AQ||49|f
+Beartooth Butte|44.955|-109.611|US|Wyoming|49|f
+Beatrice Islet Conservation Park|-35.640|137.679|AU|South Australia|49|f
+Beatrice Islets|-35.626|137.664|AU|South Australia|49|f
+Beatton Provincial Park|56.311|-120.948|CA|British Columbia|49|f
+Beatty Park|-31.935|115.850|AU|Western Australia|49|f
+Beau|0.501|120.387|ID|Central Sulawesi|49|f
+Beaufort Island|-76.948|166.942|AQ||49|f
+Beaufoy Ridge|-60.628|-45.545|AQ||49|f
+Beaufront Castle|54.988|-2.058|GB|England|49|f
+Beaumaris Bay|-37.985|145.054|AU|Victoria|49|f
+Beaumont Castle|52.002|-1.113|GB|England|49|f
+Beaumont Glacier|-72.000|-62.250|AQ||49|f
+Beaumont Skerries|-64.773|-64.309|AQ||49|f
+Beaumys Castle|51.376|-0.982|GB|England|49|f
+Beaver Bay|50.702|-127.410|CA|British Columbia|49|f
+Beaver Creek Bridge|42.196|-95.517|US|Iowa|49|f
+Beaver Creek Bridge|41.847|-94.048|US|Iowa|49|f
+Beaver Glacier|-67.033|50.667|AQ||49|f
+Beaver Glacier|-83.400|169.500|AQ||49|f
+Beaver Island Airport|45.693|-85.563|US|Michigan|49|f
+Beaver Lake|-70.793|68.295|AQ||49|f
+Beaver Mountain|43.727|-74.342|US|New York|49|f
+Beach Boys Historic Landmark|33.925|-118.338|US|California|40|f
+Beacon Dome|-86.133|-146.417|AQ||40|f
+Beacon Hill|40.376|-74.225|US|New Jersey|40|f
+Beacon Island|62.684|-69.715|CA|Nunavut|40|f
+Beacon Island|66.087|-65.926|CA|Nunavut|40|f
+Beacon Reservoir|41.486|-73.941|US|New York|40|f
+Beacon Rock State Park|45.662|-122.016|US|Washington|40|f
+Beady Range|58.833|-129.904|CA|British Columbia|40|f
+Beagle Sky Ranch Airport|42.541|-122.904|US|Oregon|40|f
+Beale Peak|-80.300|155.500|AQ||40|f
+Beales Pond|42.202|-75.379|US|New York|40|f
+Beall Woods State Conservation and Natural Area|38.355|-87.827|US|Illinois|40|f
+Bean Hill|42.865|-74.230|US|New York|40|f
+Bean Hollow State Beach|37.233|-122.415|US|California|40|f
+Bean Lake|54.767|-66.799|CA|Newfoundland and Labrador|40|f
+Bean Lake|39.485|-95.017|US|Missouri|40|f
+Bear Brook State Park|43.108|-71.353|US|New Hampshire|40|f
+Bear Creek Dam|39.650|-105.134|US|Colorado|40|f
+Bear Creek Lake State Park|37.527|-78.271|US|Virginia|40|f
+Bear Creek Park|39.272|-76.487|US|Maryland|40|f
+Bear Creek Reservoir|34.388|-87.943|US|Alabama|40|f
+Bear Cub Pond|42.123|-75.059|US|New York|40|f
+Bear Glacier|51.600|-117.986|CA|British Columbia|40|f
+Bear Glacier Park|56.100|-129.671|CA|British Columbia|40|f
+Bear Head Lake State Park|47.796|-92.077|US|Minnesota|40|f
+Bear Hill|41.667|-74.397|US|New York|40|f
+Bear Island|47.617|-57.365|CA|Newfoundland and Labrador|40|f
+Bear Island|62.450|-64.281|CA|Nunavut|40|f
+Bear Island|44.284|-68.268|US|Maine|40|f
+Bear Island|43.645|-71.402|US|New Hampshire|40|f
+Bear Islands|55.100|-78.333|CA|Nunavut|40|f
+Bear Lake|49.067|-55.131|CA|Newfoundland and Labrador|40|f
+Bear Lake|48.132|-79.631|CA|Ontario|40|f
+Bear Lake|54.477|-122.677|CA|British Columbia|40|f
+Bear Lake|41.322|-85.518|US|Indiana|40|f
+Bear Lake|44.728|-84.944|US|Michigan|40|f
+Bear Lake|45.630|-91.822|US|Wisconsin|40|f
+Bear Lake|40.313|-105.648|US|Colorado|40|f
+Bear Lake|44.138|-114.694|US|Idaho|40|f
+Bear Lake|44.658|-122.044|US|Oregon|40|f
+Bear Lake|47.574|-121.395|US|Washington|40|f
+Bear Lodge Mountains|44.633|-104.384|US|Wyoming|40|f
+Bear Marsh Lake|44.666|-64.515|CA|Nova Scotia|40|f
+Bear Meadows Natural Area|40.729|-77.762|US|Pennsylvania|40|f
+Bear Mountain|46.121|-68.415|US|Maine|40|f
+Bear Mountain|44.480|-73.913|US|New York|40|f
+Bear Mountain|38.019|-120.584|US|California|40|f
+Bear Mountain|37.179|-106.858|US|Colorado|40|f
+Bear Mountain|48.930|-121.342|US|Washington|40|f
+Bear Mountain|60.081|-149.497|US|Alaska|40|f
+Bear Mountain State Park|41.296|-74.000|US|New York|40|f
+Bear Pond|33.973|-91.152|US|Arkansas|40|f
+Bear Pond Mountains|39.715|-77.967|US|Maryland|40|f
+Bear Swamp Pond|42.687|-74.679|US|New York|40|f
+Bear Valley National Wildlife Refuge|42.062|-121.929|US|Oregon|40|f
+Beard Peak|-86.667|-145.417|AQ||40|f
+Beardsley Canal|35.416|-119.056|US|California|40|f
+Bearman Glacier|-72.350|-99.167|AQ||40|f
+Bearpaw Lake|43.830|-110.730|US|Wyoming|40|f
+Bears Ears|37.630|-109.868|US|Utah|40|f
+Bearskin Lake|44.884|-64.025|CA|Nova Scotia|40|f
+Beartooth Glacier|45.065|-109.559|US|Montana|40|f
+Beartown State Park|38.052|-80.276|US|West Virginia|40|f
+Beatrixkanaal|51.483|5.391|NL|North Brabant|40|f
+Beatty Lake|44.585|-94.157|US|Minnesota|40|f
+Beaty Lake|35.072|-90.708|US|Arkansas|40|f
+Beaudoin Peak|-79.800|-81.000|AQ||40|f
+Beaufort Lake|49.505|-125.041|CA|British Columbia|40|f
+Beaufort Range|49.433|-124.903|CA|British Columbia|40|f
+Beaulieu Abbey|50.822|-1.450|GB|England|40|f
+Beaulieu Lake|47.484|-95.858|US|Minnesota|40|f
+Beausoleil Island|44.883|-79.866|CA|Ontario|40|f
+Beauty Lake|45.106|-109.971|US|Montana|40|f
+Beauvais Lake|49.409|-114.100|CA|Alberta|40|f
+Beauvais Lake Provincial Park|49.417|-114.102|CA|Alberta|40|f
+Beauvale Priory|53.036|-1.266|GB|England|40|f
+Beaver Bay|44.700|-76.266|CA|Ontario|40|f
+Beaver Bridge|36.472|-93.769|US|Arkansas|40|f
+Beaver Brook Reservation|42.391|-71.198|US|Massachusetts|40|f
+Beaver Cove|45.549|-69.566|US|Maine|40|f
+Beaver Creek Provincial Park|51.376|-96.916|CA|Manitoba|40|f
+Beaver Creek Valley State Park|43.643|-91.582|US|Minnesota|40|f
+Beaver Dam Lake|45.638|-61.284|CA|Nova Scotia|40|f
+Beaver Dam Mountains|37.153|-113.887|US|Utah|40|f
+Beaver Dam Pond|41.898|-70.570|US|Massachusetts|40|f
+Beaver Dam State Park|39.211|-89.976|US|Illinois|40|f
+Beaver Island|44.167|-64.849|CA|Nova Scotia|40|f
+Beaver Island|44.825|-62.340|CA|Nova Scotia|40|f
+Beaver Island|42.668|-72.959|US|Massachusetts|40|f
+Beaver Lake|53.567|-66.365|CA|Newfoundland and Labrador|40|f
+Beaver Lake|45.147|-62.735|CA|Nova Scotia|40|f
+Beaver Lake|49.833|-102.300|CA|Saskatchewan|40|f
+Beaver Lake|54.706|-111.816|CA|Alberta|40|f
+Beaver Lake|37.969|-85.021|US|Kentucky|40|f
+Beaver Lake|47.591|-121.997|US|Washington|40|f
+Beaver Lake Dam (historical)|57.671|-134.192|US|Alaska|40|f
+Beaver Lake Mountains|38.519|-113.139|US|Utah|40|f
+Beaver Lake Seaplane Base|61.588|-149.821|US|Alaska|40|f
+Beaver Meadow Pond|42.031|-75.205|US|New York|40|f
+Beaver Mountain|41.964|-111.558|US|Utah|40|f
+Beaver Municipal Airport|36.800|-100.525|US|Oklahoma|40|f
+Beaver Woman Lake|48.485|-113.578|US|Montana|40|f
+Beaverdell Range|49.583|-118.952|CA|British Columbia|40|f
+Beaverfoot Range|51.133|-116.635|CA|British Columbia|40|f
+Beaverhead Rock|45.386|-112.460|US|Montana|40|f
+Beaverhill Lake|53.453|-112.536|CA|Alberta|40|f
+Beaverkill Covered Bridge|41.981|-74.836|US|New York|40|f
+Beaverlodge Lake|59.517|-108.584|CA|Saskatchewan|40|f
+Beavertail Hill State Park|46.720|-113.580|US|Montana|40|f
 Beamud|40.186|-1.829|ES|Castille-La Mancha|39
 Bea|41.036|-1.147|ES|Aragon|32
+Bean|-6.964|111.901|ID|East Java|0
+Beaung Tengah|-8.421|115.161|ID|Bali|0

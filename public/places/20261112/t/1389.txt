@@ -352,10 +352,12 @@ Tausa|5.199|-73.891|CO|Cundinamarca|59
 Ocamonte|6.340|-73.122|CO|Santander Department|59
 Chipatá|6.062|-73.637|CO|Santander Department|59
 Jericó|6.146|-72.571|CO|Boyacá|59
+Santa Helena|6.300|-73.583|CO|Santander Department|59
 Nuevo Colón|5.354|-73.457|CO|Boyacá|59
 Carcasí|6.627|-72.626|CO|Santander Department|59
 San Joaquín|6.430|-72.868|CO|Santander Department|59
 Páramo|6.416|-73.170|CO|Santander Department|59
+El Peñón|6.550|-72.833|CO|Santander Department|58
 Togüí|5.935|-73.513|CO|Boyacá|58
 Soracá|5.501|-73.333|CO|Boyacá|58
 Sutatenza|5.023|-73.452|CO|Boyacá|58
@@ -377,6 +379,7 @@ Gámbita|5.946|-73.344|CO|Santander Department|57
 Boyacá|5.454|-73.362|CO|Boyacá|57
 Chíquiza|5.604|-73.485|CO|Boyacá|57
 El Peñón|5.253|-74.291|CO|Cundinamarca|57
+San Cayetano|5.302|-74.070|CO|Cundinamarca|57
 Enciso|6.668|-72.700|CO|Santander Department|57
 Campohermoso|5.031|-73.103|CO|Boyacá|57
 Pinchote|6.532|-73.173|CO|Santander Department|57
@@ -504,7 +507,6 @@ Santa Apolonia|9.471|-71.012|VE|Trujillo|0
 Santa Bárbara de Pinto|9.433|-74.704|CO|Magdalena Department|0
 Santa Cruz de Guacas|7.443|-71.301|VE|Barinas|0
 Santa Elena de Arenales|8.821|-71.466|VE|Mérida|0
-Santa Helena del Opón|6.340|-73.617|CO|Santander Department|0
 Santa Isabel|9.632|-70.808|VE|Trujillo|0
 Santa María de Caparo|7.714|-71.465|VE|Mérida|0
 Santo Domingo|8.861|-70.695|VE|Mérida|0

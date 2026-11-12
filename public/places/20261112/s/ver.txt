@@ -1,6 +1,6 @@
 Vereeniging|-26.673|27.926|ZA|Gauteng|114
 Veracruz|19.181|-96.143|MX|Veracruz|113
-Vermont|44.000|-72.750|US||110|r
+Vermont|44.000|-72.750|US||111|r
 Verona|45.439|10.994|IT|Veneto|108
 Verhunskyi|48.586|39.372|UA|Luhansk|105
 Verāval|20.908|70.368|IN|Gujarat|105
@@ -17,6 +17,7 @@ Véroia|40.524|22.202|GR|Central Macedonia|93
 Vera Cruz|-12.960|-38.609|BR|Bahia|93
 Vernon|50.267|-119.273|CA|British Columbia|92
 Verkhniy Ufaley|56.055|60.226|RU|Chelyabinsk|90
+Verrazano–Narrows Bridge|40.606|-74.044|US|New York|90|f
 Verbania|45.921|8.552|IT|Piedmont|90
 Vera Cruz|-12.633|-41.033|BR|Bahia|90
 Vernier|46.217|6.085|CH|Geneva|90
@@ -56,6 +57,7 @@ Verkhniy Tagil|57.374|59.954|RU|Sverdlovsk Oblast|82
 Verdun|41.443|2.176|ES|Catalonia|82
 Vermont South|-37.857|145.183|AU|Victoria|82
 Vernouillet|48.721|1.370|FR|Centre-Val de Loire|81
+Verkhoyansk Range|67.000|129.000|RU||81|f
 Verde Village|34.711|-112.012|US|Arizona|81
 Versoix|46.284|6.162|CH|Geneva|81
 Vernal|40.456|-109.529|US|Utah|81
@@ -90,6 +92,7 @@ Verê|-25.881|-52.908|BR|Paraná|78
 Verkhnyaya Khava|51.842|39.938|RU|Voronezh Oblast|78
 Verdelândia|-15.589|-43.603|BR|Minas Gerais|78
 Verdellino|45.601|9.608|IT|Lombardy|78
+Vermilion County Airport|40.199|-87.595|US|Illinois|78|f
 Vertente do Lério|-7.771|-35.850|BR|Pernambuco|78
 Verdello|45.604|9.629|IT|Lombardy|77
 Verneuil-sur-Avre|48.739|0.927|FR|Normandy|77
@@ -108,6 +111,7 @@ Vereda|-17.223|-40.085|BR|Bahia|76
 Veragua Arriba|19.583|-70.333|DO|Espaillat Province|75
 Verkhovyna|48.155|24.830|UA|Ivano-Frankivsk|75
 Vergiate|45.722|8.695|IT|Lombardy|75
+Vernon Regional Airport|50.247|-119.330|CA|British Columbia|75|f
 Verkh-Tula|54.884|82.776|RU|Novosibirsk Oblast|75
 Vernio|44.048|11.151|IT|Tuscany|75
 Verkhniy Rohachyk|47.252|34.336|UA|Kherson|75
@@ -123,6 +127,8 @@ Vermelho Novo|-20.036|-42.267|BR|Minas Gerais|74
 Verkhoshizhem’ye|58.008|49.107|RU|Kirov Oblast|74
 Vertova|45.810|9.849|IT|Lombardy|73
 Vergato|44.282|11.110|IT|Emilia-Romagna|73
+Vercors Plateau|44.950|5.417|FR|Auvergne-Rhône-Alpes|73|f
+Verkhnevilyuysk Airport|63.459|120.276|RU|Sakha|73|f
 Verkhneye Dubrovo|56.757|61.053|RU|Sverdlovsk Oblast|73
 Vermelles|50.489|2.747|FR|Hauts-de-France|73
 Vergel|38.847|0.010|ES|Valencia|73
@@ -167,6 +173,8 @@ Verdun-sur-Garonne|43.854|1.234|FR|Occitanie|70
 Véretz|47.357|0.806|FR|Centre-Val de Loire|70
 Vera Mendes|-7.603|-41.483|BR|Piauí|70
 Verquin|50.502|2.639|FR|Hauts-de-France|70
+Verdugo Mountains|34.217|-118.284|US|California|70|f
+Vernonia Municipal Airport|45.851|-123.242|US|Oregon|70|f
 Verkhniy Kurkuzhin|43.696|43.275|RU|Kabardino-Balkariya Republic|70
 Verona|34.194|-88.720|US|Mississippi|70
 Veräjämäki|60.227|24.975|FI|Uusimaa|69
@@ -200,6 +208,9 @@ Vertaizon|45.770|3.287|FR|Auvergne-Rhône-Alpes|68
 Veringenstadt|48.185|9.211|DE|Baden-Wurttemberg|67
 Verkhnosadove|44.689|33.702|UA|Sevastopol City|67
 Vergara|5.118|-74.345|CO|Cundinamarca|67
+Verblyud Island|-70.000|15.917|AQ||67|f
+Verge Rocks|-65.566|-64.566|AQ||67|f
+Verona Villafranca Airport|45.396|10.889|IT|Veneto|67|f
 Verkhni Vorota|48.746|23.143|UA|Zakarpattia|67
 Verapaz|15.711|-92.062|MX|Chiapas|67
 Verishen|39.531|46.318|AM|Syunik|67
@@ -232,6 +243,10 @@ Verd|45.957|14.306|SI|Municipality of Vrhnika|66
 Verkhnetulomskiy|68.607|31.796|RU|Murmansk|66
 Vernoux-en-Vivarais|44.896|4.645|FR|Auvergne-Rhône-Alpes|65
 Vermiglio|46.297|10.691|IT|Trentino-Alto Adige|65
+Vernal Regional Airport|40.439|-109.511|US|Utah|65|f
+Verplanck Point|41.249|-73.962|US|New York|65|f
+Verrasundet|63.877|10.859|NO|Trøndelag|65|f
+Vertainspitze|46.538|10.635|IT|Trentino-Alto Adige|65|f
 Verny|49.007|6.204|FR|Grand Est|65
 Verzino|39.313|16.856|IT|Calabria|65
 Verona Walk|26.084|-81.680|US|Florida|65
@@ -261,6 +276,8 @@ Versailles|40.316|-79.831|US|Pennsylvania|63
 Vernet-les-Bains|42.549|2.387|FR|Occitanie|63
 Verrua Savoia|45.157|8.092|IT|Piedmont|63
 Verin Karmiraghbyur|40.880|45.442|AM|Tavush|63
+Vérmio|40.552|21.952|GR|Central Macedonia|63|f
+Vero Beach Municipal Airport|27.653|-80.420|US|Florida|63|f
 Verona|38.818|-84.661|US|Kentucky|63
 Verkhnia Vyznytsia|48.545|22.745|UA|Zakarpattia|63
 Verdi|39.518|-119.989|US|Nevada|63
@@ -293,6 +310,10 @@ Vernon|43.080|-75.539|US|New York|61
 Vertheuil|45.250|-0.834|FR|New Aquitaine|61
 Verchnia Rozhanka|48.781|23.515|UA|Lviv|61
 Verkhorechye|44.697|33.987|UA|Crimea|61
+Verdant Lake|46.178|-86.548|US|Michigan|61|f
+Vermilion Lake|47.892|-92.367|US|Minnesota|61|f
+Verona Island|44.538|-68.788|US|Maine|61|f
+Vértes|47.417|18.333|HU||61|f
 Verkhnyaya Sysert’|56.440|60.756|RU|Sverdlovsk Oblast|61
 Ver-sur-Launette|49.105|2.684|FR|Hauts-de-France|61
 Verkhniy Fiagdon|42.835|44.306|RU|North Ossetia–Alania|61
@@ -313,12 +334,125 @@ Verbivka|48.898|24.261|UA|Ivano-Frankivsk|60
 Verșești|46.449|26.702|RO|Bacău County|60
 Veruno|45.689|8.529|IT|Piedmont|60
 Verscio|46.185|8.732|CH|Ticino|60
+Verkh-Obskiy|52.417|85.018|RU|Altai Krai|60
+Verchain-Maugré|50.268|3.477|FR|Hauts-de-France|60
+Veremiivka|49.637|33.254|UA|Poltava|60
+Verkhnii Tokmak|47.201|36.374|UA|Zaporizhzhia|60
+Verkhnyaya Ivolga|51.752|107.196|RU|Buryatiya Republic|60
+Verdalle|43.511|2.161|FR|Occitanie|60
 Verucchio|43.982|12.423|IT|Emilia-Romagna|59
+Verruyes|46.517|-0.290|FR|New Aquitaine|59
+Verbiazh|48.803|23.143|UA|Zakarpattia|59
 Veržej|46.583|16.164|SI|Municipality of Veržej|59
+Vermeș|47.000|24.317|RO|Bistrița-Năsăud County|59
 Verano - Voeran|46.605|11.226|IT|Trentino-Alto Adige|59
+Vermont|43.072|-89.786|US|Wisconsin|59
+Verdelais|44.588|-0.252|FR|New Aquitaine|59
+Veracruz|24.020|-103.923|MX|Durango|59
+Verona|43.138|-75.571|US|New York|59
+Verrières|46.413|0.592|FR|New Aquitaine|59
+Verquières|43.840|4.919|FR|Provence-Alpes-Côte d'Azur|59
+Vergeroux|45.967|-0.983|FR|New Aquitaine|58
+Veresk|35.904|52.988|IR|Māzandarān|58
+Verdant Islands|-54.000|-38.150|GS||58|f
+Verdi Range|39.505|-120.049|US|California|58|f
+Vereteno, Lake|-68.515|78.414|AQ||58|f
+Vermilion Peak|37.799|-107.828|US|Colorado|58|f
+Vermillon Airport|53.357|-110.825|CA|Alberta|58|f
+Vernon Islands|-12.083|131.033|AU|Northern Territory|58|f
+Verte Island|-66.740|141.192|AQ||58|f
+Verderel-lès-Sauqueuse|49.500|2.100|FR|Hauts-de-France|58
+Verdea|46.012|26.894|RO|Vrancea|58
+Verneuil|49.097|3.674|FR|Grand Est|58
+Verkhneblagoveshchenskoye|50.288|127.397|RU|Amur Oblast|58
 Verla|46.158|11.153|IT|Trentino-Alto Adige|58
+Vers-sur-Selles|49.833|2.233|FR|Hauts-de-France|58
+Vert|48.943|1.692|FR|Île-de-France|58
+Vérac|44.991|-0.340|FR|New Aquitaine|58
+Verdía|20.159|-103.509|MX|Jalisco|58
+Verkhnia Lanna|49.409|35.291|UA|Poltava|58
+Vermontville|42.629|-85.024|US|Michigan|58
+Verkhniy Studenyi|48.725|23.359|UA|Zakarpattia|58
+Vernon|42.939|-84.029|US|Michigan|58
+Verkhnyaya Kutuzovka|44.722|34.370|UA|Crimea|58
+Veracrucito|18.852|-97.796|MX|Puebla|57
+Vernet-la-Varenne|45.475|3.452|FR|Auvergne-Rhône-Alpes|57
+Vershatsi|49.009|32.613|UA|Cherkasy|57
+Verteuil-sur-Charente|45.982|0.231|FR|New Aquitaine|57
+Verbivtsi|48.493|25.921|UA|Chernivtsi|57
+Verměřovice|50.005|16.563|CZ|Pardubice Region|57
 Vercana|46.159|9.335|IT|Lombardy|57
+Verdelot|48.875|3.366|FR|Île-de-France|57
+Vérin|45.454|4.753|FR|Auvergne-Rhône-Alpes|57
+Vereshchaki|52.733|31.661|RU|Bryansk Oblast|57
+Verteillac|45.347|0.366|FR|New Aquitaine|57
+Verdea|44.691|24.228|RO|Vâlcea County|57
+Verin Tsaghkavan|40.941|45.331|AM|Tavush|57
+Vérgi|40.954|23.398|GR|Central Macedonia|57
+Verrières-en-Forez|45.572|3.996|FR|Auvergne-Rhône-Alpes|57
+Verdunville|37.845|-82.055|US|West Virginia|57
+Vernajoul|42.987|1.606|FR|Occitanie|57
+Vernon|30.623|-85.712|US|Florida|57
+Vernoux-en-Gâtine|46.636|-0.513|FR|New Aquitaine|57
+Verna|43.354|12.238|IT|Umbria|57
+Vernești|45.200|24.607|RO|Arges|57
+Verneil-le-Chétif|47.733|0.295|FR|Pays de la Loire|56
+Vertolaye|45.650|3.707|FR|Auvergne-Rhône-Alpes|56
+Vermont|40.294|-90.428|US|Illinois|56
+Verzé|46.377|4.736|FR|Bourgogne-Franche-Comté|56
+Vergéal|48.036|-1.266|FR|Brittany|56
+Verkhnia Krasnianka|48.270|39.506|UA|Luhansk|56
+Verbicioara|44.284|23.188|RO|Dolj|56
+Vernéville|49.146|6.005|FR|Grand Est|56
+Vermont|13.204|-61.225|VC|Saint Andrew Parish|56
+Verkhnekurgannoye|45.091|34.242|UA|Crimea|56
+Verrens|45.655|6.318|FR|Auvergne-Rhône-Alpes|56
+Verkhovyna-Bystra|49.011|22.776|UA|Zakarpattia|56
+Verkhnetemernitzkiy|47.311|39.737|RU|Rostov|56
+Verchaix|46.098|6.682|FR|Auvergne-Rhône-Alpes|56
+Vernon|46.440|0.476|FR|New Aquitaine|56
+Verona|36.964|-93.796|US|Missouri|56
+Vérargues|43.716|4.100|FR|Occitanie|56
+Véranne|45.369|4.663|FR|Auvergne-Rhône-Alpes|55
+Verneix|46.397|2.670|FR|Auvergne-Rhône-Alpes|55
+Verkhnia Manuilivka|49.348|33.727|UA|Poltava|55
+Verndale|46.398|-95.015|US|Minnesota|55
+Vers|46.089|6.031|FR|Auvergne-Rhône-Alpes|55
+Vergaville|48.838|6.745|FR|Grand Est|55
+Verkh-Uymon|50.213|85.739|RU|Altai|55
+Verkhniy Uymon|50.213|85.739|RU|Altai|55
+Verhuny|49.862|33.348|UA|Poltava|55
+Verkhy|51.463|25.103|UA|Volyn|55
+Verosvres|46.400|4.433|FR|Bourgogne-Franche-Comté|55
+Verbky|49.475|33.231|UA|Poltava|55
+Vernons|17.092|-61.771|AG|Saint Peter Parish|55
+Verkhnia Krynka|48.162|38.147|UA|Donetsk|55
+Verkh-Marushka|52.917|85.628|RU|Altai Krai|55
+Veredas|20.258|-101.851|MX|Guanajuato|55
+Vergel de Guadalupe|21.451|-100.668|MX|Guanajuato|55
+Verona|44.565|-68.790|US|Maine|55
+Verderonne|49.330|2.498|FR|Hauts-de-France|55
+Verdigre|42.597|-98.034|US|Nebraska|55
+Vernham Dean|51.307|-1.512|GB|England|55
+Veriora|58.004|27.352|EE|Põlvamaa|55
+Verneuil-sur-Indre|47.056|1.040|FR|Centre-Val de Loire|55
+Vernou-en-Sologne|47.501|1.680|FR|Centre-Val de Loire|55
+Verchocq|50.564|2.041|FR|Hauts-de-France|55
+Verden|35.083|-98.088|US|Oklahoma|55
+Vertain|50.212|3.525|FR|Hauts-de-France|55
+Vereshitsa|49.988|23.632|UA|Lviv|54
+Verdier House Museum|32.431|-80.671|US|South Carolina|54|f
+Verijärv|57.809|27.057|EE|Võrumaa|54|f
+Verin|39.797|45.054|AM|Ararat|54|f
+Vermilion Bay|29.720|-91.976|US|Louisiana|54|f
+Vermont Bridge|44.061|-73.149|US|Vermont|54|f
+Verne, Mount|-67.745|-67.552|AQ||54|f
+Vernon Lake|43.964|-114.992|US|Idaho|54|f
+Vergnies|50.199|4.303|BE|Wallonia|54
+Verje|46.147|14.419|SI|Municipality of Medvode|54
+Verjux|46.879|4.963|FR|Bourgogne-Franche-Comté|54
 Vernasca|44.799|9.831|IT|Emilia-Romagna|54
+Vertrieu|45.875|5.361|FR|Auvergne-Rhône-Alpes|54
 Vernazza|44.135|9.683|IT|Liguria|54
 Vera de Moncayo|41.824|-1.688|ES|Aragon|52
 Vervò|46.310|11.120|IT|Trentino-Alto Adige|52
@@ -326,9 +460,52 @@ Vernate|45.316|9.060|IT|Lombardy|52
 Verduno|44.666|7.931|IT|Piedmont|52
 Verano|46.604|11.226|IT|Trentino-Alto Adige|51
 Verretto|45.040|9.113|IT|Lombardy|51
+Verde Island|13.551|121.076|PH|Calabarzon|49|f
+Vergilov Rocks|-62.637|-60.370|AQ||49|f
+Vermunden|60.700|12.377|NO|Innlandet|49|f
+Verner Island|-67.577|62.883|AQ||49|f
+Vernon Harcourt, Mount|-72.533|169.917|AQ||49|f
+Verran Tanks Conservation Park|-33.836|136.231|AU|South Australia|49|f
+Verrill Island|32.290|-64.814|BM|Warwick|49|f
+Verron Range|-4.396|152.806|PG|New Ireland|49|f
+Veryan Bay|50.218|-4.839|GB|England|49|f
 Verghereto|43.794|12.005|IT|Emilia-Romagna|47
 Vertavillo|41.833|-4.327|ES|Castille and León|47
 Verrayes|45.763|7.535|IT|Aosta Valley|44
+Verdi Lake|40.648|-115.354|US|Nevada|40|f
+Verdi Peak|40.644|-115.358|US|Nevada|40|f
+Verdi Square|40.779|-73.982|US|New York|40|f
+Vereyken Glacier|-78.417|163.950|AQ||40|f
+Verhage, Mount|-71.383|163.700|AQ||40|f
+Verhildersum|53.362|6.393|NL|Groningen|40|f
+Verila Glacier|-62.604|-60.687|AQ||40|f
+Verizon Arena|34.755|-92.264|US|Arkansas|40|f
+Verlautz, Mount|-86.767|-153.000|AQ||40|f
+Verleger Point|-74.700|-136.250|AQ||40|f
+Vermilion Bay|50.033|-94.634|CA|Ontario|40|f
+Vermilion Dam|47.961|-92.476|US|Minnesota|40|f
+Vermilion Lake|46.523|-81.391|CA|Ontario|40|f
+Vermilion Lakes|51.183|-115.602|CA|Alberta|40|f
+Vermilion Peak|51.167|-116.119|CA|British Columbia|40|f
+Vermilion Point|46.763|-85.149|US|Michigan|40|f
+Vermilion Provincial Park|53.367|-110.918|CA|Alberta|40|f
+Vermilion Range|51.383|-115.702|CA|Alberta|40|f
+Vermilyea Lake|54.528|-94.782|CA|Manitoba|40|f
+Vermont Lake|46.083|-95.377|US|Minnesota|40|f
+Vernita Bridge|46.642|-119.724|US|Washington|40|f
+Vernokhörner|46.563|9.027|CH|Grisons|40|f
+Vernon Lake|31.232|-93.327|US|Louisiana|40|f
+Vernonia Pioneer Museum|45.857|-123.181|US|Oregon|40|f
+Verona Airport|42.989|-89.511|US|Wisconsin|40|f
+Verona Beach State Park|43.178|-75.725|US|New York|40|f
+Verona Park|40.825|-74.249|US|New Jersey|40|f
+Verpeil Spitze|47.003|10.805|AT|Tyrol|40|f
+Versailles Lake|55.817|-104.350|CA|Saskatchewan|40|f
+Versailles State Park Dam|39.077|-85.247|US|Indiana|40|f
+Verstanclagletscher|46.841|10.071|CH|Grisons|40|f
+Verstanclahorn|46.835|10.072|CH|Grisons|40|f
+Verwolde|52.212|6.392|NL|Gelderland|40|f
+Verzasca Damm|46.197|8.848|CH|Ticino|40|f
 Vervio|46.253|10.241|IT|Lombardy|40
 Vera|-12.286|-55.297|BR|Mato Grosso|0
 Verba|50.280|25.602|UA|Rivne Oblast|0

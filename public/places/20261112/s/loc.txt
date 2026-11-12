@@ -2,11 +2,13 @@ Lochearn|39.341|-76.722|US|Maryland|88
 Lockport|41.589|-88.058|US|Illinois|88
 Lockport|43.171|-78.690|US|New York|86
 Lochristi|51.096|3.832|BE|Flanders|86
+Loch Ness|57.300|-4.450|GB|Scotland|85|f
 Lochapada|19.329|84.801|IN|Odisha|84
 Locarno|46.171|8.800|CH|Ticino|84
 Lockhart|29.885|-97.670|US|Texas|83
 Lockhart|28.619|-81.443|US|Florida|82
 Lochem|52.159|6.411|NL|Gelderland|82
+Loch Lomond|56.083|-4.600|GB|Scotland|81|f
 Lộc Ninh|11.845|106.591|VN|Dong Nai|80
 Locri|38.239|16.260|IT|Calabria|80
 Lock Haven|41.137|-77.447|US|Pennsylvania|80
@@ -17,11 +19,16 @@ Loches|47.129|0.995|FR|Centre-Val de Loire|77
 Lockwood|45.819|-108.415|US|Montana|77
 Lochgelly|56.128|-3.310|GB|Scotland|76
 Łochów|52.531|21.682|PL|Mazovia|76
+Lockhart Stadium|26.193|-80.161|US|Florida|76|f
 Locharbriggs|55.103|-3.584|GB|Scotland|76
+Loch Awe|56.250|-5.283|GB|Scotland|75|f
+Loch Tay|56.517|-4.167|GB|Scotland|75|f
 Locust Grove|33.346|-84.109|US|Georgia|75
 Lochau|47.533|9.750|AT|Vorarlberg|75
 Lochbuie|40.007|-104.716|US|Colorado|75
 Löchgau|49.004|9.106|DE|Baden-Wurttemberg|75
+Loch Morar|56.950|-5.717|GB|Scotland|73|f
+Lockhart River Airport|-12.787|143.305|AU|Queensland|73|f
 Lochmoor Waterway Estates|26.644|-81.910|US|Florida|72
 Lockerbie|55.123|-3.356|GB|Scotland|72
 Locmiquélic|47.725|-3.341|FR|Brittany|72
@@ -29,6 +36,7 @@ Locate Varesino|45.690|8.930|IT|Lombardy|72
 Locminé|47.887|-2.836|FR|Brittany|72
 Loctudy|47.832|-4.168|FR|Brittany|72
 Loch Lomond|38.786|-77.478|US|Virginia|71
+Loch Maree|57.700|-5.500|GB|Scotland|71|f
 Lockland|39.229|-84.458|US|Ohio|71
 Locust Valley|40.876|-73.597|US|New York|71
 Lockeford|38.164|-121.150|US|California|70
@@ -40,11 +48,17 @@ Lockport|29.646|-90.539|US|Louisiana|68
 Lochgilphead|56.038|-5.432|GB|Scotland|68
 Locoal-Mendon|47.705|-3.108|FR|Brittany|67
 Locon|50.570|2.666|FR|Hauts-de-France|67
+Loch Linnhe|56.650|-5.350|GB|Scotland|67|f
+Lochnagar|56.959|-3.244|GB|Scotland|67|f
 Lochmaben|55.130|-3.443|GB|Scotland|66
 Locmayan|10.473|122.519|PH|Western Visayas|66
 Locking|51.333|-2.914|GB|England|65
 Lockney|34.125|-101.442|US|Texas|65
 Locara|45.412|11.333|IT|Veneto|65
+Loch Lochy|56.952|-4.938|GB|Scotland|63|f
+Loch Shiel|56.783|-5.583|GB|Scotland|63|f
+Lochloosa Lake|29.520|-82.127|US|Florida|63|f
+Lockwood Island|83.350|-39.333|GL||63|f
 Locmariaquer|47.569|-2.945|FR|Brittany|63
 Locust Grove|36.200|-95.168|US|Oklahoma|63
 Locquirec|48.692|-3.646|FR|Brittany|63
@@ -55,13 +69,241 @@ Lockyer|-35.006|117.859|AU|Western Australia|62
 Loché|21.389|-88.146|MX|Yucatán|62
 Locust Fork|33.908|-86.615|US|Alabama|62
 Lochau|51.397|12.053|DE|Saxony-Anhalt|61
+Loch a’ Bhraoin|57.718|-5.137|GB|Scotland|61|f
+Loch Buidhe|56.595|-4.775|GB|Scotland|61|f
+Loch Indaal|55.750|-6.350|GB|Scotland|61|f
+Loch Leven|56.200|-3.367|GB|Scotland|61|f
+Loch Lomond|37.114|-122.065|US|California|61|f
+Loch MacDougall|57.467|-5.367|GB|Scotland|61|f
+Lochan Sròn Smeur|56.700|-4.533|GB|Scotland|61|f
 Loceri|39.858|9.584|IT|Sardinia|61
 Lockenhaus|47.408|16.416|AT|Burgenland|60
 Lockhart|-35.223|146.718|AU|New South Wales|60
 Locumba|-17.613|-70.763|PE|Tacna|60
+Lockwood South|-36.844|144.158|AU|Victoria|60
+Locmaria-Grand-Champ|47.757|-2.787|FR|Brittany|60
+Locunolé|47.937|-3.479|FR|Brittany|59
+Locogrande|37.926|12.512|IT|Sicily|59
+Lockwood|37.386|-93.953|US|Missouri|59
+Locronan|48.099|-4.208|FR|Brittany|59
+Ločica ob Savinji|46.264|15.097|SI|Municipality of Polzela|58
+Lockington|-36.271|144.537|AU|Victoria|58
+Loch an Lagain|57.929|-4.265|GB|Scotland|58|f
+Loch Bhac|56.733|-3.917|GB|Scotland|58|f
+Loch Bràigh Horrisdale|57.667|-5.667|GB|Scotland|58|f
+Loch Cluanie|57.117|-5.083|GB|Scotland|58|f
+Loch Hourn Beag|57.100|-5.417|GB|Scotland|58|f
+Loch Iubhair|56.408|-4.556|GB|Scotland|58|f
+Loch Langavat|58.067|-6.800|GB|Scotland|58|f
+Loch Ryan|54.933|-5.033|GB|Scotland|58|f
+Loch Sgamhain|57.533|-5.183|GB|Scotland|58|f
+Locomotive Mountain|50.583|-123.053|CA|British Columbia|58|f
+Locusteni|43.975|23.998|RO|Dolj|58
+Lochen|48.008|13.180|AT|Upper Austria|58
+Locquénolé|48.625|-3.862|FR|Brittany|58
+Lockhart River|-12.787|143.344|AU|Queensland|58
+Lockwood|-36.811|144.158|AU|Victoria|58
+Loch Sport|-38.040|147.592|AU|Victoria|58
+Lockesburg|33.967|-94.169|US|Arkansas|57
 Locana|45.414|7.457|IT|Piedmont|57
 Locatello|45.835|9.534|IT|Lombardy|57
+Loch Lloyd|38.831|-94.598|US|Missouri|57
+Loče|46.300|15.500|SI|Municipality of Slovenske Konjice|57
+Loch|-38.369|145.708|AU|Victoria|56
+Ločenice|48.824|14.528|CZ|South Bohemian Region|55
+Loché-sur-Indrois|47.092|1.220|FR|Centre-Val de Loire|55
+Loch Lynn Heights|39.393|-79.373|US|Maryland|55
+Locarno Airport|46.161|8.879|CH|Ticino|54|f
+Locarno Mine|35.395|-118.327|US|California|54|f
+Loch Achaidh na h-Inich|57.300|-5.633|GB|Scotland|54|f
+Loch Achall|57.900|-5.067|GB|Scotland|54|f
+Loch Achtriochtan|56.667|-5.017|GB|Scotland|54|f
+Loch Affric|57.250|-5.083|GB|Scotland|54|f
+Loch Alsh|57.268|-5.632|GB|Scotland|54|f
+Loch an Sgoltaire|56.083|-6.183|GB|Scotland|54|f
+Loch Arienas|56.583|-5.767|GB|Scotland|54|f
+Loch Arkaig|56.967|-5.133|GB|Scotland|54|f
+Loch Brittle|57.186|-6.309|GB|Scotland|54|f
+Loch Buidhe|57.950|-4.250|GB|Scotland|54|f
+Loch Craignish|56.150|-5.567|GB|Scotland|54|f
+Loch Doire nam Mart|56.600|-5.817|GB|Scotland|54|f
+Loch Dun Seilcheig|57.333|-4.300|GB|Scotland|54|f
+Loch Eigheach|56.667|-4.517|GB|Scotland|54|f
+Loch Essan|56.417|-4.567|GB|Scotland|54|f
+Loch Etchachan|57.083|-3.641|GB|Scotland|54|f
+Loch Goil|56.134|-4.895|GB|Scotland|54|f
+Loch Kishorn|57.350|-5.683|GB|Scotland|54|f
+Loch Laidon|56.650|-4.667|GB|Scotland|54|f
+Loch Loyal|58.383|-4.367|GB|Scotland|54|f
+Loch Mcness|-31.534|115.676|AU|Western Australia|54|f
+Loch of Butterstone|56.583|-3.550|GB|Scotland|54|f
+Loch of Craiglush|56.583|-3.567|GB|Scotland|54|f
+Loch Quoich|57.067|-5.283|GB|Scotland|54|f
+Loch Scridain|56.350|-6.117|GB|Scotland|54|f
+Loch Shawbost|58.333|-6.683|GB|Scotland|54|f
+Loch Shin|58.100|-4.567|GB|Scotland|54|f
+Loch Skeen|55.433|-3.317|GB|Scotland|54|f
+Loch Tuath|56.500|-6.200|GB|Scotland|54|f
+Loch Venachar|56.217|-4.317|GB|Scotland|54|f
+Lochaber Loch|55.000|-3.683|GB|Scotland|54|f
+Lochan Dubh|56.783|-5.417|GB|Scotland|54|f
+Lochindorb|57.400|-3.717|GB|Scotland|54|f
+Lochrutton Loch|55.050|-3.733|GB|Scotland|54|f
+Lock 22|39.054|-77.289|US|Maryland|54|f
+Lock 23|39.067|-77.329|US|Maryland|54|f
+Lock 24|39.069|-77.340|US|Maryland|54|f
+Locke Lake|43.382|-71.234|US|New Hampshire|54|f
+Lockwood-Mathews Mansion Museum|41.110|-73.417|US|Connecticut|54|f
+Lockyer Island|-64.447|-57.599|AQ||54|f
+Locust Grove State Historic Site|30.838|-91.336|US|Louisiana|54|f
+Lockhart|31.010|-86.350|US|Alabama|54
+Lochenice|50.272|15.819|CZ|Hradec Králové Region|54
 Loculi|40.407|9.611|IT|Sardinia|54
 Lockington|53.914|-0.486|GB|England|51
+Lochum|50.606|7.866|DE|Rheinland-Pfalz|51
+Locate Creek Bridge|46.475|-105.304|US|Montana|49|f
+Locator Island|-65.180|-64.491|AQ||49|f
+Loch Achanalt|57.600|-4.883|GB|Scotland|49|f
+Loch Achray|56.217|-4.400|GB|Scotland|49|f
+Loch Ailort|56.867|-5.700|GB|Scotland|49|f
+Loch Aline|56.550|-5.767|GB|Scotland|49|f
+Loch an Eilein|57.133|-3.800|GB|Scotland|49|f
+Loch Ard|56.183|-4.467|GB|Scotland|49|f
+Loch Ascog|55.819|-5.045|GB|Scotland|49|f
+Loch Avich|56.278|-5.333|GB|Scotland|49|f
+Loch Bad an Sgalaig|57.683|-5.517|GB|Scotland|49|f
+Loch Bracadale|57.317|-6.500|GB|Scotland|49|f
+Loch Broom|57.867|-5.133|GB|Scotland|49|f
+Loch Cairnbawn|58.267|-5.183|GB|Scotland|49|f
+Loch Calder|58.517|-3.600|GB|Scotland|49|f
+Loch Carron|57.367|-5.517|GB|Scotland|49|f
+Loch Chon|56.217|-4.533|GB|Scotland|49|f
+Loch Coruisk|57.206|-6.167|GB|Scotland|49|f
+Loch Creran|56.520|-5.376|GB|Scotland|49|f
+Loch Crinan|56.100|-5.567|GB|Scotland|49|f
+Loch Davan|57.083|-2.917|GB|Scotland|49|f
+Loch Derculich|56.667|-3.850|GB|Scotland|49|f
+Loch Dochart|56.383|-4.583|GB|Scotland|49|f
+Loch Doine|56.333|-4.467|GB|Scotland|49|f
+Loch Doon|55.250|-4.367|GB|Scotland|49|f
+Loch Dornal|55.033|-4.667|GB|Scotland|49|f
+Loch Drunkie|56.200|-4.350|GB|Scotland|49|f
+Loch Duich|57.233|-5.500|GB|Scotland|49|f
+Loch Dunvegan|57.467|-6.667|GB|Scotland|49|f
+Loch Earn|56.383|-4.233|GB|Scotland|49|f
+Loch Eil|56.850|-5.233|GB|Scotland|49|f
+Loch Enoch|55.133|-4.433|GB|Scotland|49|f
+Loch Eriboll|58.494|-4.686|GB|Scotland|49|f
+Loch Ericht|56.802|-4.410|GB|Scotland|49|f
+Loch Erisort|58.117|-6.400|GB|Scotland|49|f
+Loch Etive|56.483|-5.150|GB|Scotland|49|f
+Loch Ewe|57.809|-5.630|GB|Scotland|49|f
+Loch Fannich|57.633|-5.000|GB|Scotland|49|f
+Loch Finlaggan|55.829|-6.178|GB|Scotland|49|f
+Loch Gairloch|57.733|-5.733|GB|Scotland|49|f
+Loch Garten|57.250|-3.667|GB|Scotland|49|f
+Loch Hourn|57.133|-5.600|GB|Scotland|49|f
+Loch Howie|55.133|-4.033|GB|Scotland|49|f
+Loch Humphrey|55.950|-4.467|GB|Scotland|49|f
+Loch Insh|57.117|-3.917|GB|Scotland|49|f
+Loch Katrine|56.250|-4.517|GB|Scotland|49|f
+Loch Ken|55.033|-4.133|GB|Scotland|49|f
+Loch Kennard|56.583|-3.783|GB|Scotland|49|f
+Loch Killin|57.133|-4.417|GB|Scotland|49|f
+Loch Kinord|57.067|-2.917|GB|Scotland|49|f
+Loch Kirkaig|58.117|-5.283|GB|Scotland|49|f
+Loch Laggan|56.950|-4.467|GB|Scotland|49|f
+Loch Lee|56.900|-2.950|GB|Scotland|49|f
+Loch Leven|56.683|-5.117|GB|Scotland|49|f
+Loch Lomond National Nature Reserve|56.083|-4.633|GB|Scotland|49|f
+Loch Loyne|57.100|-5.000|GB|Scotland|49|f
+Loch Lubnaig|56.283|-4.283|GB|Scotland|49|f
+Loch Lyon|56.533|-4.600|GB|Scotland|49|f
+Loch Macaterick|55.183|-4.450|GB|Scotland|49|f
+Loch Mealt|57.600|-6.167|GB|Scotland|49|f
+Loch Migdale|57.883|-4.283|GB|Scotland|49|f
+Loch Moidart|56.783|-5.767|GB|Scotland|49|f
+Loch Monar|57.417|-5.100|GB|Scotland|49|f
+Loch Moraig|56.767|-3.783|GB|Scotland|49|f
+Loch Morlich|57.167|-3.700|GB|Scotland|49|f
+Loch Moy|57.367|-4.050|GB|Scotland|49|f
+Loch Muick|56.933|-3.167|GB|Scotland|49|f
+Loch Mullardoch|57.333|-5.000|GB|Scotland|49|f
+Loch na Dal|57.167|-5.767|GB|Scotland|49|f
+Loch na Keal|56.467|-6.067|GB|Scotland|49|f
+Loch Neldricken|55.100|-4.433|GB|Scotland|49|f
+Loch Nevis|57.017|-5.717|GB|Scotland|49|f
+Loch of Boardhouse|59.117|-3.283|GB|Scotland|49|f
+Loch of Forfar|56.650|-2.917|GB|Scotland|49|f
+Loch of Harray|59.017|-3.217|GB|Scotland|49|f
+Loch of Hundland|59.117|-3.233|GB|Scotland|49|f
+Loch of Kirbister|58.950|-3.083|GB|Scotland|49|f
+Loch of Skene|57.150|-2.350|GB|Scotland|49|f
+Loch of Spiggie|59.933|-1.333|GB|Scotland|49|f
+Loch of Stenness|59.000|-3.250|GB|Scotland|49|f
+Loch of Strathbeg|57.620|-1.878|GB|Scotland|49|f
+Loch of Swannay|59.133|-3.217|GB|Scotland|49|f
+Loch Oich|57.067|-4.767|GB|Scotland|49|f
+Loch Ordie|56.617|-3.567|GB|Scotland|49|f
+Loch Ossian|56.767|-4.633|GB|Scotland|49|f
+Loch Rannoch|56.683|-4.300|GB|Scotland|49|f
+Loch Rusky|56.200|-4.233|GB|Scotland|49|f
+Loch Ruthven|57.333|-4.267|GB|Scotland|49|f
+Loch Seaforth|57.900|-6.667|GB|Scotland|49|f
+Loch Shurrery|58.483|-3.633|GB|Scotland|49|f
+Loch Skae|55.133|-4.033|GB|Scotland|49|f
+Loch Skiach|56.600|-3.717|GB|Scotland|49|f
+Loch Snizort|57.567|-6.467|GB|Scotland|49|f
+Loch Spynie|57.667|-3.283|GB|Scotland|49|f
+Loch Stack|58.333|-4.917|GB|Scotland|49|f
+Loch Sunart|56.689|-5.694|GB|Scotland|49|f
+Loch Thom|55.900|-4.783|GB|Scotland|49|f
+Loch Torridon|57.583|-5.767|GB|Scotland|49|f
+Loch Trool|55.083|-4.483|GB|Scotland|49|f
+Loch Tummel|56.700|-3.917|GB|Scotland|49|f
+Loch Valley|55.100|-4.433|GB|Scotland|49|f
+Loch Voil|56.333|-4.433|GB|Scotland|49|f
+Loch Watten|58.483|-3.317|GB|Scotland|49|f
+Lochinvar|55.133|-4.117|GB|Scotland|49|f
+Lock Museum of America|41.679|-73.011|US|Connecticut|49|f
+Locking Castle|51.343|-2.915|GB|England|49|f
+Lockley Point|-64.789|-63.369|AQ||49|f
+Lockvattnet|59.050|17.083|SE|Södermanland|49|f
+Lockstedt|54.005|9.686|DE|Schleswig-Holstein|46
+Loch Assynt|58.174|-5.039|GB|Scotland|40|f
+Loch Ba|56.608|-4.738|GB|Scotland|40|f
+Loch Callater|56.940|-3.344|GB|Scotland|40|f
+Loch Eck|56.102|-4.991|GB|Scotland|40|f
+Loch Fad|55.807|-5.073|GB|Scotland|40|f
+Loch Fithie|56.651|-2.837|GB|Scotland|40|f
+Loch Gilp|56.017|-5.438|GB|Scotland|40|f
+Loch Leven|48.167|-58.865|CA|Newfoundland and Labrador|40|f
+Loch Leven|37.231|-118.655|US|California|40|f
+Loch Lomond|45.750|-60.598|CA|Nova Scotia|40|f
+Loch Lomond|48.250|-89.333|CA|Ontario|40|f
+Loch Lomond|42.280|-88.010|US|Illinois|40|f
+Loch Lundie|57.091|-4.813|GB|Scotland|40|f
+Loch Raven Reservoir|39.458|-76.574|US|Maryland|40|f
+Loch Restil|56.231|-4.858|GB|Scotland|40|f
+Loch Spey|57.008|-4.603|GB|Scotland|40|f
+Loch Treig|56.819|-4.724|GB|Scotland|40|f
+Loch Tulla|56.546|-4.776|GB|Scotland|40|f
+Loch Veyatie|58.074|-5.087|GB|Scotland|40|f
+Lochberg|46.624|8.470|CH|Uri|40|f
+Lock|34.408|-92.104|US|Arkansas|40|f
+Lock and Dam Number 53|37.201|-89.040|US|Illinois|40|f
+Lockers Bay|48.900|-53.948|CA|Newfoundland and Labrador|40|f
+Lockhart Airport|44.183|-118.214|US|Oregon|40|f
+Lockhart Beach Park|49.517|-116.785|CA|British Columbia|40|f
+Lockhart Creek Park|49.497|-116.685|CA|British Columbia|40|f
+Lockhart Lake|45.659|-64.745|CA|New Brunswick|40|f
+Lockhart Ridge|-85.033|-174.833|AQ||40|f
+Lockhart, Mount|-76.467|-145.100|AQ||40|f
+Lockington Locks|40.204|-84.239|US|Ohio|40|f
+Locko Park|52.940|-1.395|GB|England|40|f
+Lockwood Reservoir|51.595|-0.048|GB|England|40|f
+Loco Mountain|46.225|-110.336|US|Montana|40|f
+Locust Creek Covered Bridge|38.080|-80.250|US|West Virginia|40|f
+Locust Point|39.276|-76.591|US|Maryland|40|f
 Lộc Thắng|11.628|107.835|VN|Lam Dong|0
 Locroja|-12.740|-74.442|PE|Huancavelica|0

@@ -43,6 +43,7 @@ La Ville-du-Bois|48.655|2.268|FR|Île-de-France|76
 La Verpillière|45.634|5.146|FR|Auvergne-Rhône-Alpes|76
 Laventure|-20.146|57.677|MU|Flacq|76
 Lavagno|45.439|11.134|IT|Veneto|76
+Lavrentiya Airport|65.581|-170.999|RU|Chukotka|75|f
 La Vega|5.002|-74.342|CO|Cundinamarca|75
 La Venta del Astillero|20.727|-103.546|MX|Jalisco|75
 La Valla|20.496|-100.028|MX|Querétaro|75
@@ -58,6 +59,7 @@ LaVerkin|37.201|-113.270|US|Utah|72
 La Verrie|46.961|-0.995|FR|Pays de la Loire|71
 La Vale|39.656|-78.811|US|Maryland|71
 La Vega|2.002|-76.779|CO|Cauca Department|71
+Laven Sari Island|60.005|27.834|RU|Leningradskaya Oblast'|70|f
 Lavezzola|44.561|11.876|IT|Emilia-Romagna|70
 La Verde|-27.129|-59.375|AR|Chaco|70
 Lavon|33.028|-96.434|US|Texas|69
@@ -79,6 +81,8 @@ Lavans-lès-Saint-Claude|46.385|5.782|FR|Bourgogne-Franche-Comté|66
 La Ventana|25.327|-103.478|MX|Coahuila|66
 La Victoria|29.123|-110.893|MX|Sonora|66
 La Versolilla|20.873|-100.379|MX|Querétaro|66
+La Victoria de Chacabuco Airport|-33.050|-70.708|CL|Santiago Metropolitan|65|f
+Lavsa|43.753|15.371|HR|Šibenik-Knin|65|f
 La Victoria|18.374|-95.121|MX|Veracruz|65
 Lavallette|39.970|-74.069|US|New Jersey|65
 La Ventilla|21.774|-101.030|MX|San Luis Potosí|65
@@ -87,6 +91,7 @@ Lavandeira|-12.789|-46.506|BR|Tocantins|64
 Lavit|43.957|0.920|FR|Occitanie|64
 La Vega|20.584|-103.859|MX|Jalisco|64
 Lavilledieu|44.575|4.453|FR|Auvergne-Rhône-Alpes|64
+Lavangen|68.798|17.591|NO|Troms|63|f
 La Varenne|47.311|-1.320|FR|Pays de la Loire|63
 La Villedieu-du-Clain|46.455|0.370|FR|New Aquitaine|63
 Lavenham|52.109|0.796|GB|England|63
@@ -106,17 +111,130 @@ Lavertezzo|46.259|8.838|CH|Ticino|61
 La Victoria|18.591|-92.632|MX|Tabasco|61
 Lavalette|43.184|2.268|FR|Occitanie|61
 La Vraie-Croix|47.690|-2.544|FR|Brittany|61
+Låvebrua Island|-63.022|-60.576|AQ||61|f
+Lavon Dam|33.033|-96.467|US|Texas|61|f
 Laval-Pradel|44.207|4.066|FR|Occitanie|61
 Lavalette|38.323|-82.447|US|West Virginia|61
 Lavoux|46.596|0.530|FR|New Aquitaine|61
 La Vaupalière|49.488|0.996|FR|Normandy|60
 Laval-en-Belledonne|45.253|5.933|FR|Auvergne-Rhône-Alpes|60
 La Vespière|49.020|0.412|FR|Normandy|60
+La Victoria (Kilómetro 47)|20.597|-97.422|MX|Veracruz|60
+La Virginia|16.878|-92.174|MX|Chiapas|60
+Laversines|49.425|2.198|FR|Hauts-de-France|60
+La Venta|21.119|-100.788|MX|Guanajuato|60
+La Villita|36.103|-106.048|US|New Mexico|60
+Lavāsān-e Bozorg|35.824|51.781|IR|Tehran|59
+Laveyron|45.210|4.820|FR|Auvergne-Rhône-Alpes|59
 La Valle Agordina|46.282|12.068|IT|Veneto|59
+Lavariano|45.956|13.228|IT|Friuli Venezia Giulia|59
+La Villa|46.586|11.905|IT|Trentino-Alto Adige|59
+La Victoria|18.491|-90.924|MX|Campeche|59
+Lavaveix-les-Mines|46.071|2.089|FR|New Aquitaine|59
+La Verdière|43.639|5.935|FR|Provence-Alpes-Côte d'Azur|59
+La Valla-en-Gier|45.419|4.518|FR|Auvergne-Rhône-Alpes|59
+La Virgen|19.884|-101.767|MX|Michoacán|59
+La Vicomté-sur-Rance|48.489|-1.983|FR|Brittany|58
+La Viña|19.266|-101.469|MX|Michoacán|58
+La Virgen|20.142|-100.904|MX|Guanajuato|58
+Lava Bed Mountains|34.628|-116.454|US|California|58|f
+Lava Mountains|35.437|-117.520|US|California|58|f
+Laveaga Peak|36.891|-121.178|US|California|58|f
+LaVell Edwards Stadium|40.258|-111.655|US|Utah|58|f
+Lavoisier Island|-66.204|-66.691|AQ||58|f
+Lavon Lake|33.074|-96.480|US|Texas|58|f
+Lavington|50.233|-119.100|CA|British Columbia|58
+La Vecchia|44.566|10.529|IT|Emilia-Romagna|58
+Lavaré|48.054|0.644|FR|Pays de la Loire|58
+La Veta|37.505|-105.008|US|Colorado|58
+La Ventana|23.010|-100.264|MX|San Luis Potosí|58
+Lávara|41.270|26.385|GR|East Macedonia and Thrace|57
+Lavausseau|46.559|0.074|FR|New Aquitaine|57
+La Ville-ès-Nonais|48.548|-1.953|FR|Brittany|57
+Lavelle|40.763|-76.383|US|Pennsylvania|57
+Lavoûte-sur-Loire|45.118|3.906|FR|Auvergne-Rhône-Alpes|57
+La Viña|-5.047|-80.156|PE|Piura|57
+La Viña|-6.371|-79.764|PE|Lambayeque|57
+La Vuelta|21.285|-99.241|MX|Querétaro|57
+Lavacherie|50.053|5.511|BE|Wallonia|57
+La Vencedora|18.050|-93.840|MX|Tabasco|57
+La Vernelle|47.249|1.543|FR|Centre-Val de Loire|57
+La Vallée|45.891|-0.841|FR|New Aquitaine|57
+Laveline-devant-Bruyères|48.189|6.757|FR|Grand Est|57
+Lavardin|48.077|0.062|FR|Pays de la Loire|57
+La Villita|20.541|-103.623|MX|Jalisco|57
+Lavalette|43.638|1.596|FR|Occitanie|57
+Lavau-sur-Loire|47.307|-1.967|FR|Pays de la Loire|57
+La Victoria|17.884|-95.757|MX|Veracruz|56
+La Voivre|48.331|6.903|FR|Grand Est|56
+La Vergne|45.963|-0.564|FR|New Aquitaine|56
+La Victoria|-7.135|-76.742|PE|San Martín Department|56
+La Vuelta|24.715|-107.706|MX|Sinaloa|56
+La Venta (Barrio la Venta)|19.923|-99.777|MX|México|56
+La Ventilla|21.115|-100.934|MX|Guanajuato|56
+La Vieille-Lyre|48.917|0.750|FR|Normandy|56
+Laval-sur-Vologne|48.191|6.705|FR|Grand Est|56
+Lavilletertre|49.196|1.930|FR|Hauts-de-France|56
+La Vigueta|20.334|-96.880|MX|Veracruz|56
+La Victoria|14.820|-92.496|MX|Chiapas|56
+La Victoria|17.864|-94.641|MX|Veracruz|56
+Lavagna|45.462|9.444|IT|Lombardy|56
+La Venada|25.790|-97.593|MX|Tamaulipas|56
+La Victoria|18.458|-96.324|MX|Veracruz|56
+Laveissière|45.116|2.808|FR|Auvergne-Rhône-Alpes|56
+La Vega|20.486|-99.334|MX|Hidalgo|55
+La Venta de Mochitiltic|21.018|-104.146|MX|Jalisco|55
+Lavaiano|43.629|10.584|IT|Tuscany|55
+Lavoriškės|54.706|25.643|LT|Vilnius|55
+Lavergne|44.592|0.397|FR|New Aquitaine|55
+La Villeneuve-en-Chevrie|49.015|1.527|FR|Île-de-France|55
+La Ventana|16.766|-92.695|MX|Chiapas|55
+La Victoria|22.216|-102.236|MX|Aguascalientes|55
+La Villita|20.586|-104.172|MX|Jalisco|55
+La Vittoria|41.672|13.426|IT|Lazio|55
+Lavassaare|58.511|24.389|EE|Pärnumaa|55
+La Veuve|49.030|4.317|FR|Grand Est|55
+La Vacherie|49.131|1.129|FR|Normandy|55
+La Victoria|20.255|-98.294|MX|Hidalgo|55
+La Victoria|25.864|-103.177|MX|Coahuila|55
+Lavelanet-de-Comminges|43.255|1.118|FR|Occitanie|55
+Lava Tree State Monument|19.486|-154.905|US|Hawaii|54|f
+Lavaca Bay|28.660|-96.595|US|Texas|54|f
+Lavender Peak|37.442|-108.080|US|Colorado|54|f
+Laverton Airport|-28.616|122.424|AU|Western Australia|54|f
+Lavci|41.015|21.302|MK|Bitola|54
+La Venta|17.810|-99.906|MX|Guerrero|54
 Lavenone|45.739|10.439|IT|Lombardy|54
 La Villa|45.267|7.431|IT|Piedmont|52
 Lavamünd|46.640|14.947|AT|Carinthia|50
 Lavant|46.799|12.838|AT|Tyrol|50
+Lāvardeh|27.619|52.553|IR|Bushehr|49
+La Vertiente Airport|-21.287|-63.296|BO|Tarija Department|49|f
+Lava Beds National Monument|41.759|-121.517|US|California|49|f
+Lava Cap Mine|39.228|-120.971|US|California|49|f
+Lavallee Point|-76.617|159.850|AQ||49|f
+Lavender Mountain|34.335|-85.245|US|Georgia|49|f
+Lavendon Castle|52.179|-0.660|GB|England|49|f
+LaVilla Museum|30.335|-81.667|US|Florida|49|f
+La Visite National Park|18.330|-72.330|HT|Sud-Est|40|f
+Lava Canyon|51.883|-123.903|CA|British Columbia|40|f
+Lava Forks Park|56.450|-130.904|CA|British Columbia|40|f
+Lava Glacier|46.228|-121.493|US|Washington|40|f
+Lava Lake|55.046|-128.996|CA|British Columbia|40|f
+Lava Lake|39.819|-106.525|US|Colorado|40|f
+Lava Lake|43.920|-121.773|US|Oregon|40|f
+Lava Lakes|56.433|-130.904|CA|British Columbia|40|f
+Lavallee Peak|-72.067|164.933|AQ||40|f
+Lavanttal-Arena|46.826|14.852|AT|Carinthia|40|f
+Lavender Peak|55.650|-129.320|CA|British Columbia|40|f
+LaVerendrye Provincial Park|48.104|-90.367|CA|Ontario|40|f
+LaVergne Glacier|-85.317|-170.750|AQ||40|f
+Lavina Airport|46.308|-108.951|US|Montana|40|f
+Lavoie Island|62.701|-69.565|CA|Nunavut|40|f
+Lavoie Islands|71.040|-87.599|CA|Nunavut|40|f
+Lavrenov Point|-62.337|-59.574|AQ||40|f
+Lavris Peak|-76.817|-125.933|AQ||40|f
 La Victoria|5.526|-74.236|CO|Boyacá|0
 La Victoria de Imbana|-3.847|-79.120|EC|Zamora Chinchipe|0
 La Virgen|10.402|-84.133|CR|Heredia Province|0
+Lavilleneuve-au-Roi|48.160|4.926|FR|Grand Est|0

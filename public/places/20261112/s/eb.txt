@@ -22,11 +22,13 @@ Ebéjico|6.326|-75.768|CO|Antioquia|80
 Ebo|-11.050|14.717|AO|Kwanza Sul|80
 Ebersbach|51.008|14.586|DE|Saxony|79
 Ebenthal|46.608|14.364|AT|Carinthia|78
+Ebolowa Airport|2.876|11.185|CM|South|78|f
 Ebeltoft|56.194|10.682|DK|Central Jutland|77
 Ebikro-Ndakro|5.725|-3.111|CI|Comoé District|77
 Ebermannstadt|49.782|11.182|DE|Bavaria|77
 Eberdingen|48.879|8.965|DE|Baden-Wurttemberg|76
 Ebersdorf|50.329|11.153|DE|Bavaria|76
+Ebon Atoll|4.633|168.719|MH|Ebon Atoll|75|f
 Ebensfeld|50.066|10.958|DE|Bavaria|75
 Ebstorf|53.028|10.418|DE|Lower Saxony|75
 Eboué|5.344|-3.126|CI|Comoé District|74
@@ -40,6 +42,7 @@ Ebensee|47.807|13.779|AT|Upper Austria|72
 Eberhardzell|48.000|9.817|DE|Baden-Wurttemberg|72
 Ebelsbach|49.986|10.674|DE|Bavaria|72
 Ebounou|5.124|-5.347|CI|Lagunes District|71
+Ebensburg Airport|40.459|-78.775|US|Pennsylvania|71|f
 Eberstadt|49.180|9.321|DE|Baden-Wurttemberg|70
 Ebensburg|40.485|-78.725|US|Pennsylvania|70
 Ebeleben|51.283|10.730|DE|Thuringia|70
@@ -65,6 +68,9 @@ Eben-Emael|50.794|5.667|BE|Wallonia|64
 Ebrāhīmābād|34.203|50.046|IR|Markazi|64
 Ebenhaeser|-31.582|18.225|ZA|Western Cape|64
 Ebrāhīmābād|32.102|54.095|IR|Yazd Province|64
+Ebelyakhskaya Guba|72.627|140.468|RU|Sakha|63|f
+Ebensee Concentration Camp|47.807|13.779|AT|Upper Austria|63|f
+Ebeye|8.786|167.736|MH|Kwajalein Atoll|63|f
 Ebertsheim|49.568|8.109|DE|Rheinland-Pfalz|63
 Ebnath|49.950|11.933|DE|Bavaria|63
 Ebernhahn|50.473|7.770|DE|Rheinland-Pfalz|62
@@ -73,22 +79,65 @@ Eburu|4.600|115.717|MY|Sabah|62
 Ebersbach|51.099|13.114|DE|Saxony|61
 Ebersdorf|53.525|9.049|DE|Lower Saxony|61
 Eberndorf|46.591|14.644|AT|Carinthia|61
+Eboshi-dake|40.833|141.033|JP|Aomori|61|f
 Ebenweiler|47.900|9.517|DE|Baden-Wurttemberg|61
 Eberstalzell|48.044|13.983|AT|Upper Austria|61
 Ebra|5.278|-3.740|CI|Lagunes District|60
 Ebene|-20.245|57.492|MU|Plaines Wilhems|60
+Ebtun|20.664|-88.260|MX|Yucatán|60
+Ebrāhīmābād|35.821|49.872|IR|Qazvin Province|59
+Ebrāhīm Sarā|37.266|49.895|IR|Gilan Province|59
 Ebenthal|48.433|16.783|AT|Lower Austria|59
+Ebini-Koidiokro|7.290|-4.168|CI|Lacs District|59
+Ebchester|54.893|-1.842|GB|England|59
+Ebersdorf|50.485|11.668|DE|Thuringia|59
 Ebersdorf|47.199|15.962|AT|Styria|58
+Eboma Island|-10.604|150.653|PG|Milne Bay Province|58|f
+Ebouado-Un|5.170|-3.260|CI|Comoé District|58
+Ebly|49.853|5.541|BE|Wallonia|58
+Ebersberg|48.197|15.891|AT|Lower Austria|57
 Ebon|4.582|168.696|MH|Ebon Atoll|57
 Ebon Atoll|4.633|168.717|MH||57|r
 Eberstein|46.808|14.560|AT|Carinthia|57
+Ébersviller|49.275|6.401|FR|Grand Est|57
+Eberholzen|52.050|9.850|DE|Lower Saxony|56
+Ebotiam|5.153|-3.430|CI|Comoé District|56
+Ebershausen|48.205|10.316|DE|Bavaria|56
+Eber|38.599|31.127|TR|Afyonkarahisar Province|56
+Ebendorf|48.559|16.596|AT|Lower Austria|55
+Ebrāhīmābād-e Soflá|36.423|55.712|IR|Semnan|55
+Ebblinghem|50.732|2.410|FR|Hauts-de-France|55
+Ebersmunster|48.311|7.525|FR|Grand Est|55
+Ebbegebirge|51.144|7.764|DE|North Rhine-Westphalia|54|f
+Ebey's Landing National Historical Reserve|48.214|-122.688|US|Washington|54|f
+Ebersdorf|46.583|14.783|AT|Carinthia|54
+Ebokoffi|5.554|-3.207|CI|Comoé District|54
 Eberschwang|48.155|13.562|AT|Upper Austria|54
 Eberau|47.108|16.460|AT|Burgenland|51
+Ebenshausen|51.083|10.300|DE|Thuringia|50
+Eba Island Conservation Park|-32.678|134.269|AU|South Australia|49|f
+Ebbe Glacier|-71.050|164.750|AQ||49|f
+Ebi Nuur|44.917|82.917|CN|Xinjiang|49|f
+Ebony Ridge|-83.767|172.767|AQ||49|f
+Eburobrittium|39.364|-9.141|PT|Leiria|49|f
+Eberstedt|51.074|11.579|DE|Thuringia|47
 Ebenau|47.791|13.175|AT|Salzburg|46
+Ebertshausen|50.283|7.983|DE|Rheinland-Pfalz|43
+Ebenalp|47.282|9.410|CH|Appenzell Innerrhoden|40|f
+Ebenezer Covered Bridge|40.192|-80.040|US|Pennsylvania|40|f
+Ebersberg|50.475|9.852|DE|Hesse|40|f
+Ebon Peak|51.783|-116.652|CA|British Columbia|40|f
+Ebon Pond|-77.183|165.183|AQ||40|f
+Ebrach abbey|49.847|10.495|DE|Bavaria|40|f
+Ebak|-8.238|123.520|ID|East Nusa Tenggara|0
+Ebak|-8.170|122.851|ID|East Nusa Tenggara|0
 Eban|-9.554|124.324|ID|East Nusa Tenggara|0
+Ebao|37.968|100.933|CN|Qinghai|0
 Ebem Ohafia|5.631|7.830|NG|Abia State|0
 Eben am Achensee|47.414|11.761|AT|Tyrol|0
 Eberi|5.091|7.234|NG|Rivers State|0
 Ebina|35.434|139.394|JP|Kanagawa|0
 Ebo|-11.045|14.695|AO|Kwanza Sul|0
+Ebsdorfergrund|50.726|8.857|DE|Hesse|0
+Ebu|22.832|114.994|CN|Guangdong|0
 Ebute-Metta|6.488|3.382|NG|Lagos|0

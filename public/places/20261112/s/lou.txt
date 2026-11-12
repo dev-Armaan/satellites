@@ -1,4 +1,4 @@
-Louisiana|31.000|-92.000|US||129|r
+Louisiana|31.000|-92.000|US||130|r
 Louisville|38.254|-85.759|US|Kentucky|116
 Loudi|27.734|111.994|CN|Hunan|114
 Louga|15.619|-16.224|SN|Louga|101
@@ -8,7 +8,9 @@ Loures|38.831|-9.168|PT|Lisbon|96
 Loughborough|52.767|-1.200|GB|England|96
 Loum|4.718|9.735|CM|Littoral|95
 Louveira|-23.086|-46.951|BR|São Paulo|94
+Louisiade Archipelago|-11.200|153.000|PG|Milne Bay Province|91|f
 Loughton|52.433|-2.567|GB|England|90
+Louisville International Airport|38.174|-85.736|US|Kentucky|90|f
 Louvain-la-Neuve|50.668|4.614|BE|Wallonia|89
 Loungnamtha|20.917|101.333|LA||89|r
 Loutété|-4.296|13.851|CG|Bouenza|89
@@ -20,7 +22,9 @@ Loulé|37.138|-8.020|PT|Faro|85
 Louth|53.367|-0.004|GB|England|85
 Lourdes|43.095|-0.046|FR|Occitanie|84
 Lougheed|49.248|-122.892|CA|British Columbia|84
+Lough Neagh|54.617|-6.417|GB|Northern Ireland|83|f
 Loudaya|31.633|-8.249|MA|Marrakesh-Safi|83
+Louis Armstrong New Orleans International Airport|29.987|-90.257|US|Louisiana|81|f
 Loutráki|37.978|22.978|GR|Peloponnese|81
 Lousã|40.117|-8.249|PT|Coimbra|81
 Lourdes|14.967|120.683|PH|Central Luzon|81
@@ -31,12 +35,16 @@ Lourinhã|39.242|-9.313|PT|Lisbon|79
 Louisville|40.837|-81.260|US|Ohio|79
 Loua|6.438|-5.606|CI|Goh-Djiboua|79
 Loudun|47.008|0.083|FR|New Aquitaine|79
+Lough Corrib|53.433|-9.233|IE|Connacht|78|f
 Loukoléla|-1.038|17.114|CG|Cuvette|78
 Louveciennes|48.861|2.115|FR|Île-de-France|78
 Louvroil|50.264|3.963|FR|Hauts-de-France|77
+Lough Ree|53.533|-7.967|IE|Leinster|77|f
 Louhans|46.626|5.225|FR|Bourgogne-Franche-Comté|76
+Lough Derg|52.956|-8.307|IE||76|f
 Louisville|33.124|-89.055|US|Mississippi|76
 Louiseville|46.256|-72.941|CA|Quebec|75
+Lourdes-de-Blanc-Sablon Airport|51.444|-57.185|CA|Quebec|75|f
 Louterwater|-33.800|23.664|ZA|Eastern Cape|75
 Loukhi|66.075|33.049|RU|Karelia|75
 Loudon|35.733|-84.334|US|Tennessee|75
@@ -57,6 +65,7 @@ Lourches|50.314|3.353|FR|Hauts-de-France|72
 Lourdes|13.390|123.374|PH|Bicol Region|72
 Loughlinstown|53.244|-6.133|IE|Leinster|71
 Loudoun Valley Estates|38.981|-77.508|US|Virginia|71
+Louds Island|43.930|-69.434|US|Maine|71|f
 Louisburg|36.099|-78.301|US|North Carolina|71
 Loulo|10.372|-5.813|CI|Savanes District|71
 Louisiana|39.449|-91.052|US|Missouri|70
@@ -72,6 +81,8 @@ Louannec|48.794|-3.411|FR|Brittany|68
 Louisa|38.114|-82.603|US|Kentucky|68
 Lourdes|15.019|120.851|PH|Central Luzon|67
 Louisville|33.002|-82.411|US|Georgia|67
+Lou Island|-2.395|147.342|PG|Manus Province|67|f
+Louis Bennett Field|39.091|-80.470|US|West Virginia|67|f
 Louargat|48.566|-3.339|FR|Brittany|67
 Louvigny|49.157|-0.394|FR|Normandy|67
 Lousada|41.278|-8.280|PT|Porto|67
@@ -87,6 +98,10 @@ Loupian|43.450|3.613|FR|Occitanie|64
 Louisa|38.025|-78.004|US|Virginia|64
 Louvigné-de-Bais|48.048|-1.332|FR|Brittany|64
 Lourdes|7.944|-72.833|CO|Norte de Santander Department|64
+Louang Namtha Airport|20.960|101.403|LA|Loungnamtha|63|f
+Lough Foyle|55.100|-7.133|GB||63|f
+Loughermore|54.984|-7.081|GB|Northern Ireland|63|f
+Louisa Reef|6.333|113.242|BN||63|f
 Loučeň|50.285|15.020|CZ|Central Bohemia|63
 Louieville|-25.677|31.306|ZA|Mpumalanga|63
 Louis Trichardt Airforce Base|-23.153|29.704|ZA|Limpopo|63
@@ -100,6 +115,11 @@ Loukísia|38.479|23.448|GR|Central Greece|61
 Louzy|47.012|-0.187|FR|New Aquitaine|61
 Louga I|5.048|-6.210|CI|Bas-Sassandra District|61
 Loutráki|40.971|21.947|GR|Central Macedonia|61
+Loudoun Heights|39.308|-77.739|US|Virginia|61|f
+Lough Currane|51.837|-10.133|IE|Munster|61|f
+Lough Tay|53.105|-6.269|IE|Leinster|61|f
+Louise Island|-64.605|-62.376|AQ||61|f
+Louth Island|-34.578|135.954|AU|South Australia|61|f
 Louisville|38.772|-88.503|US|Illinois|61
 Loutrá|39.057|26.545|GR|North Aegean|61
 Louvie-Juzon|43.086|-0.419|FR|New Aquitaine|60
@@ -109,7 +129,165 @@ Loureira|39.660|-8.688|PT|Leiria|60
 Loup City|41.276|-98.967|US|Nebraska|60
 Loutrá Oraías Elénis|37.865|22.996|GR|Peloponnese|60
 Loutró|38.952|21.205|GR|West Greece|60
+Louise|29.111|-96.403|US|Texas|60
+Loutrós|40.882|26.047|GR|East Macedonia and Thrace|60
+Lourdes (Estación de Lourdes)|21.289|-100.705|MX|Guanajuato|60
+Louey|43.175|0.020|FR|Occitanie|60
+Loukov|49.422|17.721|CZ|Zlín|59
+Loupershouse|49.081|6.915|FR|Grand Est|59
+Louvignies-Quesnoy|50.224|3.642|FR|Hauts-de-France|59
+Louka|48.915|17.489|CZ|South Moravian|59
+Lourdoueix-Saint-Pierre|46.410|1.822|FR|New Aquitaine|59
+Loubeyrat|45.936|3.010|FR|Auvergne-Rhône-Alpes|59
+Louisville|18.319|-88.510|BZ|Corozal District|59
+Louisfert|47.675|-1.433|FR|Pays de la Loire|59
+Louvil|50.558|3.194|FR|Hauts-de-France|59
+Loudes|45.088|3.749|FR|Auvergne-Rhône-Alpes|59
+Loutró|39.967|21.934|GR|Thessaly|58
+Loulay|46.046|-0.510|FR|New Aquitaine|58
+Loukoukro|6.411|-5.369|CI|Goh-Djiboua|58
+Louderback Mountains|39.439|-118.086|US|Nevada|58|f
+Lough Bane|53.687|-7.170|IE|Leinster|58|f
+Lough Dan|53.068|-6.282|IE|Leinster|58|f
+Lough Feeagh|53.939|-9.576|IE|Connacht|58|f
+Lough Gara|53.924|-8.454|IE|Connacht|58|f
+Louise Peak|-65.083|-64.000|AQ||58|f
+Louisiana Art and Science Museum|30.446|-91.190|US|Louisiana|58|f
+Loup River Canal|41.495|-97.488|US|Nebraska|58|f
+Loures-Barousse|43.024|0.605|FR|Occitanie|58
+Loučka|49.439|17.833|CZ|Zlín|58
+Louches|50.830|2.006|FR|Hauts-de-France|58
+Lougres|47.471|6.688|FR|Bourgogne-Franche-Comté|57
+Louka u Litvínova|50.587|13.637|CZ|Ústí nad Labem Region|57
+Louvigny|48.963|6.185|FR|Grand Est|57
+Louvemont|48.552|4.911|FR|Grand Est|57
+Louwaha|9.567|-5.795|CI|Savanes District|57
+Louin|46.802|-0.161|FR|New Aquitaine|57
+Louth|53.949|-6.541|IE|Leinster|57
+Louvigné|48.059|-0.633|FR|Pays de la Loire|57
+Louňovice pod Blaníkem|49.637|14.847|CZ|Central Bohemia|57
+Loughshinny|53.549|-6.083|IE|Leinster|57
+Loudías|40.678|22.543|GR|Central Macedonia|56
+Louresse|47.239|-0.313|FR|Pays de la Loire|56
+Louhossoa|43.316|-1.354|FR|New Aquitaine|56
+Loučany|49.602|17.083|CZ|Olomouc Region|56
+Louans|47.184|0.748|FR|Centre-Val de Loire|56
+Louchats|44.513|-0.567|FR|New Aquitaine|55
+Loudon|43.286|-71.467|US|New Hampshire|55
+Lourdes|20.867|-101.594|MX|Guanajuato|55
+Louversey|48.990|0.922|FR|Normandy|54
+Loubat Point|-65.078|-63.926|AQ||54|f
+Lough Aleck More|54.919|-8.367|IE|Ulster|54|f
+Lough Alewnaghta|52.969|-8.358|IE||54|f
+Lough Allua|51.851|-9.173|IE|Munster|54|f
+Lough Arrow|54.064|-8.325|IE|Connacht|54|f
+Lough Barra|54.956|-8.105|IE|Ulster|54|f
+Lough Beagh|55.038|-7.972|IE|Ulster|54|f
+Lough Brackley|54.136|-7.706|IE|Ulster|54|f
+Lough Conn|54.033|-9.258|IE|Connacht|54|f
+Lough Corry|53.917|-8.083|IE|Connacht|54|f
+Lough Cullaun|52.964|-9.023|IE|Munster|54|f
+Lough Cullin|53.970|-9.178|IE|Connacht|54|f
+Lough Ennell|53.467|-7.400|IE|Leinster|54|f
+Lough Eske|54.700|-8.033|IE|Ulster|54|f
+Lough Gill|54.250|-8.383|IE|Connacht|54|f
+Lough Leane|52.033|-9.550|IE|Munster|54|f
+Lough Macnean Lower|54.288|-7.836|GB|Northern Ireland|54|f
+Lough Macnean Upper|54.300|-7.933|GB||54|f
+Lough Scur|54.027|-7.952|IE|Connacht|54|f
+Louis Armstrong Stadium|40.751|-73.845|US|New York|54|f
+Louth Bay|-34.556|136.001|AU|South Australia|54|f
+Louňovice|49.982|14.762|CZ|Central Bohemia|54
+Lousiká|38.108|21.595|GR|West Greece|54
+Louholo|10.288|-5.696|CI|Savanes District|54
+Loupes|44.810|-0.388|FR|New Aquitaine|54
+Louailles|47.792|-0.252|FR|Pays de la Loire|54
+Lourdes|48.650|-58.999|CA|Newfoundland and Labrador|54
+Loud Dam|44.464|-83.721|US|Michigan|49|f
+Lough Acoose|52.007|-9.812|IE|Munster|49|f
+Lough Allen|54.117|-8.050|IE|Connacht|49|f
+Lough Anaserd|53.432|-10.095|IE|Connacht|49|f
+Lough Atedaun|52.945|-9.046|IE|Munster|49|f
+Lough Atorick|53.016|-8.546|IE|Munster|49|f
+Lough Beg|54.783|-6.467|GB|Northern Ireland|49|f
+Lough Boderg|53.867|-7.983|IE||49|f
+Lough Bofin|53.850|-7.933|IE||49|f
+Lough Bofin|53.433|-9.450|IE|Connacht|49|f
+Lough Bunny|53.018|-8.929|IE|Munster|49|f
+Lough Caragh|52.051|-9.863|IE|Munster|49|f
+Lough Carra|53.700|-9.250|IE|Connacht|49|f
+Lough Conway|54.016|-7.996|IE|Connacht|49|f
+Lough Craghy|54.954|-8.322|IE|Ulster|49|f
+Lough Cullaunyheeda|52.821|-8.767|IE|Munster|49|f
+Lough Cutra|53.036|-8.782|IE|Connacht|49|f
+Lough Derg|54.619|-7.871|IE|Ulster|49|f
+Lough Derravaragh|53.650|-7.367|IE|Leinster|49|f
+Lough Egish|54.067|-6.800|IE||49|f
+Lough Fee|53.583|-9.833|IE|Connacht|49|f
+Lough Fern|55.059|-7.719|IE|Ulster|49|f
+Lough Finn|54.861|-8.139|IE|Ulster|49|f
+Lough Forbes|53.783|-7.883|IE||49|f
+Lough Funshinagh|53.517|-8.100|IE|Connacht|49|f
+Lough Gill|52.262|-10.044|IE|Munster|49|f
+Lough Golagh|54.542|-8.054|IE|Ulster|49|f
+Lough Gowna|53.850|-7.567|IE|Leinster|49|f
+Lough Graney|52.983|-8.661|IE|Munster|49|f
+Lough Guitane|52.000|-9.417|IE|Munster|49|f
+Lough Gullion|54.483|-6.450|GB|Northern Ireland|49|f
+Lough Gur|52.516|-8.533|IE|Munster|49|f
+Lough Hyne|51.501|-9.304|IE|Munster|49|f
+Lough Iron|53.600|-7.467|IE|Leinster|49|f
+Lough Island Reavy|54.240|-6.017|GB|Northern Ireland|49|f
+Lough Key|54.000|-8.250|IE|Connacht|49|f
+Lough Key Forest Park|53.981|-8.242|IE|Connacht|49|f
+Lough Kinale|53.767|-7.400|IE||49|f
+Lough Lene|53.660|-7.228|IE|Leinster|49|f
+Lough Mahon|51.882|-8.354|IE|Munster|49|f
+Lough Mask|53.617|-9.350|IE|Connacht|49|f
+Lough Meela|54.970|-8.404|IE|Ulster|49|f
+Lough Meelagh|54.058|-8.169|IE|Connacht|49|f
+Lough Melvin|54.433|-8.167|IE|Connacht|49|f
+Lough Mourne|54.754|-7.896|IE|Ulster|49|f
+Lough Nacung Upper|55.032|-8.169|IE|Ulster|49|f
+Lough Oughter|53.994|-7.474|IE|Ulster|49|f
+Lough Owel|53.567|-7.400|IE|Leinster|49|f
+Lough Ramor|53.828|-7.087|IE|Ulster|49|f
+Lough Rea|53.188|-8.582|IE|Connacht|49|f
+Lough Sheelin|53.800|-7.317|IE|Leinster|49|f
+Lough Shindilla|53.450|-9.567|IE|Connacht|49|f
+Lough Sillan|54.002|-6.922|IE|Ulster|49|f
+Lough Skean|54.062|-8.215|IE||49|f
+Lough Talt|54.084|-8.921|IE|Connacht|49|f
+Louisa Island|-43.530|146.340|AU|Tasmania|49|f
+Louisiana State Exhibit Building|32.480|-93.785|US|Louisiana|49|f
+Lourah Island|-43.353|145.983|AU|Tasmania|49|f
+Loucherhorn|46.666|7.935|CH|Bern|40|f
+Loudoun Mansion|40.026|-75.161|US|Pennsylvania|40|f
+Lough Inagh|53.515|-9.743|IE|Connacht|40|f
+Lough Money|54.335|-5.643|GB|Northern Ireland|40|f
+Loughborough Lake|44.447|-76.411|CA|Ontario|40|f
+Lougheed Island|77.435|-105.104|CA|Nunavut|40|f
+Loughor Castle|51.662|-4.077|GB|Wales|40|f
+Louis Armstrong Park|29.963|-90.068|US|Louisiana|40|f
+Louis Guisto Baseball Field|37.841|-122.112|US|California|40|f
+Louisburg Square|42.358|-71.069|US|Massachusetts|40|f
+Louise Island|52.955|-131.756|CA|British Columbia|40|f
+Louisville and Portland Canal|38.272|-85.779|US|Kentucky|40|f
+Louisville Lakes State Recreation Area|41.000|-96.183|US|Nebraska|40|f
+Louisville Slugger Field|38.256|-85.745|US|Kentucky|40|f
+Louloudies|40.343|22.601|GR|Central Macedonia|40|f
+Lout Pond|41.936|-70.671|US|Massachusetts|40|f
+Louth Island|-34.592|135.950|AU|South Australia|40|f
+Louth Park Abbey|53.378|0.032|GB|England|40|f
+Louvre Abu Dhabi|24.534|54.399|AE|Abu Dhabi|40|f
+Loux Covered Bridge|40.423|-75.127|US|Pennsylvania|40|f
 Loufan|38.092|111.807|CN|Shanxi|0
+Loufeng|31.291|120.659|CN|Jiangsu|0
 Loughton|52.030|-0.786|GB|England|0
+Louguan|34.093|108.299|CN|Shaanxi|0
+Loujiadian|42.058|120.672|CN|Liaoning|0
 Loumbila|12.519|-1.373|BF|Plateau-Central|0
 Louqiao|28.011|120.632|CN|Zhejiang|0
+Louta|29.907|120.124|CN|Zhejiang|0
+Louzhuang|32.556|120.221|CN|Jiangsu|0
+Louziqiu|29.543|110.366|CN|Hunan|0

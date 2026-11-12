@@ -20,6 +20,7 @@ Hammond|41.583|-87.500|US|Indiana|98
 Hämeenlinna|60.996|24.464|FI|Kanta-Häme|97
 Hamilton|39.400|-84.561|US|Ohio|96
 Hamden|41.396|-72.897|US|Connecticut|96
+Hamburg Airport|53.630|9.988|DE|Hamburg|96|f
 Hameln|52.104|9.356|DE|Lower Saxony|95
 Hamada|34.883|132.083|JP|Shimane|95
 Hamura|35.762|139.320|JP|Tokyo|95
@@ -38,13 +39,18 @@ Hammam Bou Hadjar|35.379|-0.968|DZ|Aïn Témouchent|88
 Hamme|51.098|4.137|BE|Flanders|87
 Ḥamīdiyeh|31.483|48.433|IR|Khuzestan|87
 Hamtramck|42.393|-83.050|US|Michigan|87
+Hamid Karzai International Airport|34.566|69.212|AF|Kabul|87|f
+Hampton Court Palace|51.403|-0.337|GB|England|87|f
+Hampden Park|55.826|-4.252|GB|Scotland|86|f
 Hammond|30.505|-90.463|US|Louisiana|86
 Hampton|51.413|-0.367|GB|England|86
 Hambantota|6.124|81.118|LK|Southern Province|86
 Hamina|60.570|27.198|FI|Kymenlaakso|86
 Hamīrpur|31.684|76.525|IN|Himachal Pradesh|86
+Hamad International Airport|25.269|51.610|QA|Baladiyat ad Dawhah|85|f
 Ham Lake|45.250|-93.250|US|Minnesota|84
 Hamilton East|-37.788|175.290|NZ|Waikato Region|84
+Hamilton Island|-20.353|148.962|AU|Queensland|83|f
 Hammonton|39.637|-74.802|US|New Jersey|83
 Hampton Bays|40.869|-72.518|US|New York|83
 Hampton|-37.950|145.000|AU|Victoria|83
@@ -57,6 +63,8 @@ Hamīrgarh|25.188|74.631|IN|Rajasthan|81
 Hammerfest|70.663|23.681|NO|Finnmark|81
 Hamilton Hill|-32.085|115.779|AU|Western Australia|81
 Hamadānak|35.543|51.140|IR|Tehran|81
+Hammersmith Bridge|51.488|-0.230|GB|England|81|f
+HaMoshava Stadium|32.104|34.865|IL|Tel Aviv|81|f
 Hämeenkyrö|61.639|23.195|FI|Pirkanmaa|80
 Hamilton|-37.744|142.022|AU|Victoria|80
 Hambühren|52.630|9.972|DE|Lower Saxony|80
@@ -64,6 +72,8 @@ Hampton Wick|51.420|-0.315|GB|England|80
 Hampi|15.335|76.460|IN|Karnataka|80
 Ħamrun|35.885|14.485|MT|Il-Ħamrun|80
 Hampton|42.938|-70.839|US|New Hampshire|80
+Hamadan Airport|34.869|48.553|IR|Hamadan Province|80|f
+Hambak-to|37.678|126.028|KP|South Hwanghae|80|f
 Hamburg|42.716|-78.829|US|New York|80
 Hammam el Rhezez|36.875|11.108|TN|Nabeul Governorate|79
 Hamont|51.253|5.547|BE|Flanders|79
@@ -95,6 +105,7 @@ Hampton|39.423|-76.585|US|Maryland|74
 Ham-sur-Heure|50.323|4.388|BE|Wallonia|74
 Hamtic|10.702|121.982|PH|Western Visayas|74
 Hammersbach|50.217|8.983|DE|Hesse|74
+Hamgyŏng-sanjulgi|41.591|129.245|KP|North Hamgyong|73|f
 Hamilton|46.247|-114.160|US|Montana|73
 Hamaikawa|39.914|140.074|JP|Akita|73
 Hamadet el Kebalou|35.500|10.867|TN|Monastir Governorate|73
@@ -106,10 +117,13 @@ Hamilton|42.827|-75.545|US|New York|72
 Hampstead|34.368|-77.711|US|North Carolina|72
 Hamble-le-Rice|50.860|-1.324|GB|England|72
 Hamatonbetsu|45.133|142.383|JP|Hokkaido|72
+Hambaek-san|37.161|128.917|KR|Gangwon-do|71|f
+Hamilton Island|74.201|-99.185|CA|Nunavut|71|f
 Hamoir|50.427|5.533|BE|Wallonia|71
 Ham-sur-Sambre|50.444|4.674|BE|Wallonia|71
 Hamm (Sieg)|50.765|7.678|DE|Rheinland-Pfalz|71
 Hammar|56.017|14.217|SE|Skåne|70
+Hammershus|55.271|14.755|DK|Capital Region|70|f
 Hamburg|41.153|-74.576|US|New Jersey|70
 Hamoraon|12.226|123.552|PH|Bicol Region|70
 Hamuliakovo|48.038|17.250|SK|Bratislava Region|70
@@ -120,17 +134,27 @@ Hamur|39.606|42.985|TR|Ağrı|69
 Hamilton|40.396|-91.339|US|Illinois|69
 Hamburg|33.228|-91.798|US|Arkansas|69
 Ham-sous-Varsberg|49.180|6.647|FR|Grand Est|69
+Hamburg Finkenwerder Airport|53.536|9.837|DE|Hamburg|69|f
+Hamburger Hallig|54.599|8.818|DE|Schleswig-Holstein|69|f
+Hammerfest Airport|70.680|23.673|NO|Finnmark|69|f
+Hammonton Municipal Airport|39.667|-74.758|US|New Jersey|69|f
 Hampton|32.878|-81.128|US|South Carolina|69
 Hamme-Mille|50.780|4.717|BE|Wallonia|68
 Hambach|49.059|7.035|FR|Grand Est|68
 Hampton Manor|42.621|-73.728|US|New York|68
 Hampton Beach|42.907|-70.812|US|New Hampshire|67
+Hamersley Range|-21.883|116.767|AU|Western Australia|67|f
 Hämeenkoski|61.022|25.154|FI|Paijat-Hame|67
 Ha-Mavhunga|-22.925|30.117|ZA|Limpopo|67
 Hamlin|32.885|-100.126|US|Texas|66
 Hampton Falls|42.916|-70.864|US|New Hampshire|66
 Hamjago|-12.688|45.075|YT|Mtsamboro|66
 Hammond|44.979|-92.436|US|Wisconsin|66
+Hamarøya Mountain|-71.933|4.950|AQ||65|f
+Hambantota International Airport|6.284|81.124|LK|Southern Province|65|f
+Hami Airport|42.841|93.669|CN|Xinjiang|65|f
+Hamlin Lake|44.064|-86.396|US|Michigan|65|f
+Hamnesfjorden|62.980|8.452|NO|Møre og Romsdal|65|f
 Hampton|41.556|-90.409|US|Illinois|65
 Hāmre|34.211|74.511|IN|Jammu and Kashmir|65
 Hamilton City|39.743|-122.014|US|California|65
@@ -146,6 +170,9 @@ Hamry nad Sázavou|49.566|15.898|CZ|Vysocina|64
 Hamoud|15.640|-11.519|MR|Assaba|64
 Hamilton|41.534|-84.913|US|Indiana|64
 Hambanathi|-29.554|31.105|ZA|KwaZulu-Natal|64
+Hamarikyu Gardens|35.660|139.763|JP|Tokyo|63|f
+Hamburg-Dessauer Ufer Concentration Camp|53.530|10.017|DE|Hamburg|63|f
+Hampton Roads Executive Airport|36.778|-76.448|US|Virginia|63|f
 Hampden Sydney|37.242|-78.460|US|Virginia|63
 Hammarland|60.217|19.750|AX|Ålands landsbygd|63
 Hammerbrücke|50.435|12.415|DE|Saxony|63
@@ -162,20 +189,147 @@ Hamurana|-38.033|176.267|NZ|Bay of Plenty|61
 Hamlin|38.279|-82.103|US|West Virginia|61
 Hampolol|19.927|-90.389|MX|Campeche|61
 Hammoor|53.714|10.322|DE|Schleswig-Holstein|61
+Hamama|31.700|34.583|IL|Southern District|61|f
+Hambergfjellet|74.358|19.044|SJ|Svalbard|61|f
+Hamlagrøvatn|60.552|6.154|NO|Vestland|61|f
+Hammervatnet|63.614|11.004|NO|Trøndelag|61|f
+Hamp Airport|43.399|-84.805|US|Michigan|61|f
 Hammarstrand|63.110|16.354|SE|Jämtland|61
 Hamzabey|40.136|29.526|TR|Bursa Province|61
 Hamburg|40.604|-95.658|US|Iowa|61
 Hamouro|-12.881|45.215|YT|Bandrele|60
 Hammerdal|63.576|15.365|SE|Jämtland|60
 Hamitabat|41.507|27.285|TR|Kırklareli|60
+Ham-en-Artois|50.589|2.458|FR|Hauts-de-France|60
+Ḩamzeh Kandī|38.222|44.850|IR|West Azerbaijan|60
+Hamersleben|52.063|11.085|DE|Saxony-Anhalt|59
+Hampton|43.525|-73.252|US|New York|59
+Ḩamīdābād|36.265|50.138|IR|Qazvin Province|59
+Hampsthwaite|54.024|-1.606|GB|England|59
 Hamilton|32.295|-64.783|BM|Hamilton city|59
+Hammenhög|55.500|14.150|SE|Skåne|59
+HaMa‘pil|32.379|34.983|IL|Central District|59
+Hamden|39.160|-82.527|US|Ohio|59
+Hamme|50.921|4.283|BE|Flanders|58
+Hamidiye|36.992|35.996|TR|Adana|58
+Hamel|38.889|-89.845|US|Illinois|58
+Hamberg Lakes|-54.317|-36.517|GS||58|f
+Hambergbreen|77.050|17.098|SJ||58|f
+Hamelin Island|-34.224|115.015|AU|Western Australia|58|f
+Hamilton Airport|-37.650|142.062|AU|Victoria|58|f
+Hamilton International Airport|-37.865|175.333|NZ|Waikato Region|58|f
+Hamilton Municipal Airport|42.843|-75.559|US|New York|58|f
+Hamilton Point|-64.358|-57.285|AQ||58|f
+Hammersley Inlet|47.206|-123.017|US|Washington|58|f
+Hammond Island|-10.546|142.214|AU|Queensland|58|f
+Hammond Northshore Regional Airport|30.523|-90.419|US|Louisiana|58|f
+Hampton Buttes|43.774|-120.282|US|Oregon|58|f
+Hampton Island|-14.561|144.887|AU|Queensland|58|f
+Hamlet|41.548|-86.582|US|Indiana|58
+Hamzebali|37.802|28.121|TR|Aydın|58
+Hamavouna|-12.373|43.838|KM|Mohéli|58
+Hamel|50.279|3.074|FR|Hauts-de-France|58
+Hamwarde|53.452|10.421|DE|Schleswig-Holstein|57
+Hamzallı|37.900|28.422|TR|Aydın|57
+Hamburgsund|58.553|11.273|SE|Västra Götaland|57
+Hamley Bridge|-34.358|138.681|AU|South Australia|57
+Hambledon|50.932|-1.081|GB|England|57
+Hampton|44.610|-93.002|US|Minnesota|57
+Hambuch|50.225|7.182|DE|Rheinland-Pfalz|57
+Hamidiye|39.373|27.996|TR|Balıkesir|57
+Hamba|45.863|24.197|RO|Sibiu County|56
+Hammondsport|42.408|-77.224|US|New York|56
+Hampton|39.930|-77.058|US|Pennsylvania|56
+Hampstead Norreys|51.484|-1.240|GB|England|56
+Hamilton|39.134|-77.662|US|Virginia|56
+Hämelhausen|52.781|9.283|DE|Lower Saxony|56
+Hampton|52.467|-2.383|GB|England|56
+Hammon|35.633|-99.382|US|Oklahoma|55
+Hammond|46.200|-123.952|US|Oregon|55
+Hammarslund|56.018|14.194|SE|Skåne|55
+Hamba|-12.274|43.632|KM|Mohéli|55
+Hambers|48.254|-0.418|FR|Pays de la Loire|55
+Hamler|41.229|-84.034|US|Ohio|55
+Hampden|-21.067|148.933|AU|Queensland|55
+Hammer an der Uecker|53.601|13.980|DE|Mecklenburg-Vorpommern|55
+Hamrångefjärden|60.900|17.067|SE|Gävleborg|55
+Hamilton Branch|40.275|-121.091|US|California|55
+Hamersville|38.918|-83.983|US|Ohio|55
+Hammarby|60.544|16.569|SE|Gävleborg|55
+Hambach|50.400|7.983|DE|Rheinland-Pfalz|54
+Ḩamzeh Deh-e Soflá|36.577|51.704|IR|Māzandarān|54
+Hamzalı|36.881|35.863|TR|Adana|54
+Hamburg|44.733|-93.967|US|Minnesota|54
+Hàm Rồng|19.833|105.800|VN|Thanh Hóa Province|54|f
+Hamartind Peak|-72.550|0.650|AQ||54|f
+Hamberg Glacier|-54.351|-36.521|GS||54|f
+Hamburg Mountains|41.152|-74.514|US|New Jersey|54|f
+Hamburger Bahnhof|52.528|13.372|DE|State of Berlin|54|f
+Hamlagrøvatnet|60.511|6.116|NO|Vestland|54|f
+Hamnenabben Head|-69.283|39.700|AQ||54|f
+Hampton National Historic Site|39.418|-76.588|US|Maryland|54|f
+Hampteau|50.258|5.472|BE|Wallonia|54
+Hamzagerek|40.654|43.580|TR|Kars Province|54
+Hamweddel|54.191|9.620|DE|Schleswig-Holstein|54
+Hamersen|53.256|9.480|DE|Lower Saxony|54
 Hamnvik|68.779|17.172|NO|Troms|54
+Hammerstein|50.483|7.350|DE|Rheinland-Pfalz|51
+Ham Fort|52.502|4.735|NL|North Holland|49|f
+Hamamatsu Ab|34.750|137.703|JP|Shizuoka|49|f
+Hamblin Glacier|-66.393|-65.211|AQ||49|f
+Hamilton Bay|-54.803|-35.888|GS||49|f
+Hamilton Mountain|43.412|-74.367|US|New York|49|f
+Hamilton Municipal Airport|31.670|-98.144|US|Texas|49|f
+Hamilton Park|-33.741|151.120|AU|New South Wales|49|f
+Hamm Peak|-69.716|74.117|AQ||49|f
+Hammer Island|37.816|-121.557|US|California|49|f
+Hammerspitze|47.327|10.200|AT|Vorarlberg|49|f
+Hammerstad Reef|-54.209|-37.426|GS||49|f
+Hammond Island|38.105|-121.937|US|California|49|f
+Hamnholmen|65.400|21.683|SE|Norrbotten|49|f
+Hampton, Mount|-76.483|-125.800|AQ||49|f
+Hamra Nationalpark|61.767|14.750|SE|Gävleborg|49|f
+Hamun|28.963|63.978|PK|Balochistan|49|f
+Hammerstedt|50.954|11.454|DE|Thuringia|44
+Ham House|51.444|-0.314|GB|England|40|f
+Hamal Lake|27.440|67.630|PK|Sindh|40|f
+Hamden Slough National Wildlife Refuge|46.944|-95.970|US|Minnesota|40|f
+Hamilton Glacier|-77.550|-157.417|AQ||40|f
+Hamilton Island|49.533|-54.998|CA|Newfoundland and Labrador|40|f
+Hamilton Lake|44.863|-62.608|CA|Nova Scotia|40|f
+Hamilton Lake|44.827|-64.765|CA|Nova Scotia|40|f
+Hamilton Lake|44.840|-63.706|CA|Nova Scotia|40|f
+Hamilton Mountain|43.217|-79.866|CA|Ontario|40|f
+Hamlin Beach State Park|43.361|-77.958|US|New York|40|f
+Hamlin Peak|45.924|-68.929|US|Maine|40|f
+Hamm Railway Bridge|51.208|6.730|DE|North Rhine-Westphalia|40|f
+Hammer Lake|48.402|-85.101|CA|Ontario|40|f
+Hammerhead Island|52.721|174.039|US|Alaska|40|f
+Hammerhead Lake|51.003|-94.841|CA|Ontario|40|f
+Hammersly, Cape|-66.467|115.050|AQ||40|f
+Hammocks Beach State Park|34.632|-77.145|US|North Carolina|40|f
+Hammond Bridge|41.178|-93.014|US|Iowa|40|f
+Hammond Covered Bridge|43.717|-73.052|US|Vermont|40|f
+Hammond Pond Park Reservation|42.327|-71.180|US|Massachusetts|40|f
+Hamperokken|69.550|19.367|NO|Troms|40|f
+Hampole Priory|53.588|-1.237|GB|England|40|f
+Hampshire and Hampden Canal|42.087|-72.725|US|Massachusetts|40|f
+Hampstead Heath|51.564|-0.169|GB|England|40|f
+Hampstead Norris|51.480|-1.240|GB|England|40|f
+Hampton Park|32.800|-79.956|US|South Carolina|40|f
+Hampton Ridge|-83.867|167.033|AQ||40|f
+Hampton Roads Bridge Tunnel|36.990|-76.307|US|Virginia|40|f
+Hamtoren|52.106|4.996|NL|Utrecht|40|f
 Hamamözü|40.785|35.026|TR|Amasya|0
+Hamatang|43.423|129.499|CN|Jilin|0
+Hamberang Sabrang|-6.538|106.403|ID|Banten|0
 Hamidiye|41.151|26.664|TR|Edirne|0
+Hamm|50.017|6.417|DE|Rheinland-Pfalz|0
 Ḩammām ‘Alī|14.664|44.148|YE|Dhamār|0
 Ḩammām Damt|14.090|44.670|YE|Aḑ Ḑāli‘|0
 Ḩammām Wāşil|35.074|36.087|SY|Tartus|0
 Hammersmith|51.494|-0.229|GB|England|0
+Hamonggolele|-9.581|118.995|ID|East Nusa Tenggara|0
 Hampang|-2.918|115.837|ID|South Kalimantan|0
 Hamren|25.934|92.617|IN|Assam|0
 Hamsterley|54.683|-1.817|GB|England|0

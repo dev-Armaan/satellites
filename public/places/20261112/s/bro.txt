@@ -1,17 +1,19 @@
 Brooklyn|40.650|-73.950|US|New York|129
 Brownsville|25.902|-97.497|US|Texas|105
 Brovary|50.511|30.791|UA|Kyiv Oblast|101
+Brod-Posavina|45.167|17.750|HR||101|r
 Broken Arrow|36.053|-95.791|US|Oklahoma|101
 Brockton|42.083|-71.018|US|Massachusetts|100
-Brod-Posavina|45.167|17.750|HR||99|r
 Brooklyn Park|45.094|-93.356|US|Minnesota|98
 Brookes Point|8.772|117.837|PH|Mimaropa|98
 Brownsville|40.661|-73.920|US|New York|97
+Brooklyn Bridge|40.705|-73.996|US|New York|97|f
 Bromma|59.340|17.940|SE|Stockholm|97
 Brossard|45.450|-73.466|CA|Quebec|97
 Broomfield|39.921|-105.087|US|Colorado|96
 Brookline|42.332|-71.121|US|Massachusetts|95
 Brookhaven|33.858|-84.340|US|Georgia|94
+Brown University|41.826|-71.398|US|Rhode Island|94|f
 Bronkhorstspruit|-25.810|28.742|ZA|Gauteng|92
 Brookfield|43.061|-88.106|US|Wisconsin|92
 Bron|45.739|4.913|FR|Auvergne-Rhône-Alpes|92
@@ -81,6 +83,7 @@ Brouafla-nattis|7.596|-6.518|CI|Sassandra-Marahoue|80
 Brod|45.137|17.987|BA|Srpska|79
 Brookdale|40.834|-74.183|US|New Jersey|79
 Broukro|6.646|-4.223|CI|Comoé District|79
+Bronx Zoo|40.851|-73.878|US|New York|79|f
 Broughton Astley|52.528|-1.218|GB|England|79
 Broni|45.064|9.260|IT|Lombardy|79
 Brockport|43.214|-77.939|US|New York|78
@@ -94,6 +97,7 @@ Brooksville|28.556|-82.390|US|Florida|78
 Brozan|6.399|-5.503|CI|Goh-Djiboua|77
 Broadview Park|26.100|-80.209|US|Florida|77
 Brombach|47.633|7.695|DE|Baden-Wurttemberg|77
+Broken Bow Municipal Airport|41.436|-99.642|US|Nebraska|77|f
 Broumov|50.586|16.332|CZ|Hradec Králové Region|77
 Brook Highland|33.436|-86.674|US|Alabama|77
 Brownsburg-Chatham|45.683|-74.416|CA|Quebec|76
@@ -105,6 +109,9 @@ Broek op Langedijk|52.674|4.806|NL|North Holland|76
 Broughton|53.163|-2.993|GB|Wales|76
 Brookville|39.837|-84.411|US|Ohio|75
 Broitzem|52.235|10.477|DE|Lower Saxony|75
+Brookings Airport|42.075|-124.290|US|Oregon|75|f
+Brown Field Municipal Airport|32.572|-116.981|US|California|75|f
+Brownwood Municipal Airport|31.794|-98.957|US|Texas|75|f
 Broseley|52.613|-2.483|GB|England|75
 Brouagui|5.651|-6.824|CI|Bas-Sassandra District|75
 Broshniv-Osada|48.998|24.194|UA|Ivano-Frankivsk|75
@@ -112,6 +119,7 @@ Broubrou|5.725|-4.824|CI|Lagunes District|75
 Brouta|7.250|-6.185|CI|Sassandra-Marahoue|75
 Brownsfield|30.547|-91.121|US|Louisiana|75
 Brotton|54.567|-0.939|GB|England|75
+Brochet Airport|57.889|-101.679|CA|Manitoba|74|f
 Brookhaven|39.612|-79.905|US|West Virginia|74
 Brookshire|29.786|-95.951|US|Texas|74
 Brønnøysund|65.475|12.213|NO|Nordland|74
@@ -119,6 +127,9 @@ Brochier|-29.545|-51.586|BR|Rio Grande do Sul|74
 Brolo|38.156|14.828|IT|Sicily|74
 Brookdale|33.507|-80.823|US|South Carolina|74
 Brownsweg|5.004|-55.153|SR|Brokopondo District|74
+Broadway Bridge|45.532|-122.674|US|Oregon|73|f
+Brodie Castle|57.598|-3.708|GB|Scotland|73|f
+Broumov Airport|50.563|16.343|CZ|Hradec Králové Region|73|f
 Brou-sur-Chantereine|48.883|2.633|FR|Île-de-France|73
 Broughton|53.567|-0.550|GB|England|73
 Bromham|52.145|-0.529|GB|England|73
@@ -132,6 +143,7 @@ Brownsville|32.487|-92.154|US|Louisiana|73
 Brouafla|7.244|-6.683|CI|Sassandra-Marahoue|73
 Broadford|-37.203|145.048|AU|Victoria|73
 Broadmoor|37.687|-122.483|US|California|72
+Broughton Castle|52.041|-1.392|GB|England|72|f
 Broken Bow|34.029|-94.739|US|Oklahoma|72
 Bromyard|52.190|-2.509|GB|England|72
 Broechem|51.181|4.602|BE|Flanders|72
@@ -147,6 +159,8 @@ Broward Estates|26.126|-80.193|US|Florida|72
 Broska|45.369|28.788|UA|Odesa|71
 Brokohio|5.873|-6.107|CI|Goh-Djiboua|71
 Brodina|47.883|25.417|RO|Suceava|71
+Brottøya|68.483|15.172|NO|Nordland|71|f
+Brougham Castle|54.654|-2.719|GB|England|71|f
 Brookville|40.813|-73.567|US|New York|71
 Brockenhurst|50.819|-1.573|GB|England|71
 Broken Bow|41.402|-99.639|US|Nebraska|71
@@ -159,6 +173,8 @@ Brofodoumé|5.514|-3.931|CI|Abidjan Autonomous District|71
 Brodhead|42.618|-89.376|US|Wisconsin|70
 Brooktrails|39.444|-123.385|US|California|70
 Broager|54.889|9.675|DK|South Denmark|70
+Brooklyn Children's Museum|40.674|-73.944|US|New York|70|f
+Brown County Airport|38.882|-83.885|US|Ohio|70|f
 Broek in Waterland|52.434|4.996|NL|North Holland|70
 Broby|56.255|14.078|SE|Skåne|70
 Brotterode|50.824|10.444|DE|Thuringia|70
@@ -169,6 +185,10 @@ Broderstorf|54.081|12.264|DE|Mecklenburg-Vorpommern|69
 Brocēni|56.679|22.569|LV|Saldus Rajons|69
 Brownstown|40.124|-76.214|US|Pennsylvania|69
 Brognoligo-Costalunga|45.449|11.294|IT|Veneto|69
+Broad Peak|35.811|76.569|PK|Gilgit-Baltistan|69|f
+Broadhall Way|51.890|-0.194|GB|England|69|f
+Brooks Airport|50.634|-111.925|CA|Alberta|69|f
+Brotonne Bridge|49.520|0.747|FR|Normandy|69|f
 Brovst|57.097|9.523|DK|North Denmark|69
 Brohl-Lützing|50.483|7.329|DE|Rheinland-Pfalz|68
 Brogden|35.293|-78.034|US|North Carolina|68
@@ -188,6 +208,8 @@ Brownville|40.401|-74.295|US|New Jersey|68
 Bronson|41.872|-85.195|US|Michigan|67
 Broad Creek|34.721|-76.936|US|North Carolina|67
 Brownsville|40.024|-79.884|US|Pennsylvania|67
+Bronnoysund Bronnoy Airport|65.461|12.217|NO|Nordland|67|f
+Brooks Range|69.202|-143.802|US|Alaska|67|f
 Brodské|48.691|17.014|SK|Trnava Region|67
 Brokstedt|53.991|9.821|DE|Schleswig-Holstein|67
 Broşteni|45.750|27.033|RO|Vrancea|67
@@ -205,6 +227,13 @@ Brooklawn|39.878|-75.121|US|New Jersey|66
 Bromskirchen|51.094|8.626|DE|Hesse|66
 Brok|52.699|21.857|PL|Mazovia|66
 Brozas|39.613|-6.778|ES|Extremadura|65
+Broadford Airfield|57.253|-5.828|GB|Scotland|65|f
+Broka Island|-67.117|58.600|AQ||65|f
+Broken Island|-67.814|-66.958|AQ||65|f
+Brønnøya|59.857|10.540|NO|Akershus|65|f
+Bronson Island|59.951|-79.866|CA|Nunavut|65|f
+Brooks Island|37.896|-122.355|US|California|65|f
+Brownsea Island|50.692|-1.971|GB|England|65|f
 Brompton|54.360|-1.424|GB|England|65
 Brodski Varoš|45.181|17.979|HR|Brod-Posavina|65
 Brookwood|33.256|-87.321|US|Alabama|65
@@ -224,6 +253,18 @@ Brooklyn Heights|41.425|-81.688|US|Ohio|64
 Brookston|40.603|-86.867|US|Indiana|64
 Broccostella|41.700|13.635|IT|Lazio|64
 Brodek u Prostějova|49.370|17.089|CZ|Olomouc Region|63
+Broadus Airport|45.472|-105.465|US|Montana|63|f
+Broadwood Stadium|55.945|-4.038|GB|Scotland|63|f
+Brochøya|80.455|25.971|SJ||63|f
+Brocken|-54.483|-36.067|GS||63|f
+Brockville Regional Tackaberry Airport|44.639|-75.750|CA|Ontario|63|f
+Brodie Mountain|42.636|-73.245|US|Massachusetts|63|f
+Bromaghin Peak|43.830|-114.719|US|Idaho|63|f
+Bromberg-Ost Concentration Camp|53.128|18.085|PL|Kujawsko-Pomorskie|63|f
+Brookhaven-Lincoln County Airport|31.607|-90.410|US|Mississippi|63|f
+Brosnahan Island|-79.467|160.983|AQ||63|f
+Brotjacklriegel|48.817|13.217|DE|Bavaria|63|f
+Browse Island|-14.109|123.550|AU|Western Australia|63|f
 Brooklet|32.380|-81.663|US|Georgia|63
 Brooklyn|42.854|-89.370|US|Wisconsin|63
 Brookside|44.554|-63.724|CA|Nova Scotia|63
@@ -266,6 +307,11 @@ Brouzra|7.657|-5.940|CI|Sassandra-Marahoue|61
 Broukro Ahoué|7.371|-5.219|CI|Vallée du Bandama District|61
 Broût-Vernet|46.188|3.273|FR|Auvergne-Rhône-Alpes|61
 Brookneal|37.050|-78.944|US|Virginia|61
+Broadhaven Bay|54.300|-9.900|IE|Connacht|61|f
+Brokey|65.080|-22.473|IS|West|61|f
+Brookhaven Calabro Airport|40.818|-72.870|US|New York|61|f
+Broughton Bay|47.145|152.222|RU|Sakhalin Oblast|61|f
+Brown Stadium|41.842|-71.394|US|Rhode Island|61|f
 Bronson|29.448|-82.642|US|Florida|61
 Brockum|52.468|8.419|DE|Lower Saxony|61
 Broniszewice|51.967|17.816|PL|Greater Poland|61
@@ -282,31 +328,309 @@ Browning|48.557|-113.013|US|Montana|60
 Brownville|41.800|-74.381|US|New York|60
 Bronów|49.878|18.921|PL|Silesia|60
 Brodła|50.043|19.589|PL|Lesser Poland|60
+Brooklyn|41.788|-71.950|US|Connecticut|60
+Bronte|31.887|-100.292|US|Texas|60
+Brook|40.866|-87.364|US|Indiana|60
+Brodac-Gornji|44.864|19.264|BA|Srpska|60
+Brovky Pershi|49.931|29.198|UA|Zhytomyr Oblast|60
+Brooksville|44.347|-68.684|US|Maine|60
 Brossasco|44.568|7.365|IT|Piedmont|59
+Brodce|50.331|14.869|CZ|Central Bohemia|59
+Brookport|37.124|-88.630|US|Illinois|59
+Brodina|47.781|25.272|RO|Suceava|59
+Broad Haven|51.780|-5.103|GB|Wales|59
+Broufla|6.541|-5.796|CI|Sassandra-Marahoue|59
+Brooklin|44.266|-68.569|US|Maine|59
+Broekhuizenvorst|51.495|6.157|NL|Limburg|59
+Brochon|47.238|4.969|FR|Bourgogne-Franche-Comté|59
+Broughton Gifford|51.372|-2.175|GB|England|59
+Brooklyn|45.006|-64.010|CA|Nova Scotia|59
+Brownstown Cross Roads|53.138|-6.840|IE|Leinster|59
+Brookfield|42.214|-72.102|US|Massachusetts|58
+Brodick|55.575|-5.147|GB|Scotland|58
 Brownsville|37.193|-86.268|US|Kentucky|58
+Broekdijk|52.450|5.933|NL|Gelderland|58
+Brommat|44.830|2.685|FR|Occitanie|58
+Brousseval|48.490|4.967|FR|Grand Est|58
+Bromley|39.082|-84.560|US|Kentucky|58
+Broad Cairn|56.919|-3.249|GB|Scotland|58|f
+Broad Law|55.498|-3.353|GB|Scotland|58|f
+Broad River Air Park|34.414|-83.177|US|Georgia|58|f
+Broadback Island|39.382|-81.273|US|West Virginia|58|f
+Brocolitia Roman fort|55.035|-2.222|GB|England|58|f
+Brøde Island|-54.907|-36.120|GS||58|f
+Brookings Municipal Airport|44.305|-96.813|US|South Dakota|58|f
+Brooklyn Island|-64.637|-62.052|AQ||58|f
+Brooklyn Museum of Art|40.671|-73.964|US|New York|58|f
+Brooks Pond|42.302|-72.042|US|Massachusetts|58|f
+Brophy Hill|42.433|-122.576|US|Oregon|58|f
+Brotherhood Bridge|58.371|-134.599|US|Alaska|58|f
+Brounov, Mount|-71.967|14.333|AQ||58|f
+Brown Island|-64.962|-63.773|AQ||58|f
+Brown Peak|35.484|-118.424|US|California|58|f
+Browns Island|38.039|-121.865|US|California|58|f
+Brownsville-South Padre Island International Airport|25.907|-97.426|US|Texas|58|f
+Brodek u Konice|49.549|16.833|CZ|Olomouc Region|58
+Broumy|49.955|13.852|CZ|Central Bohemia|58
+Bročice|45.313|16.954|HR|Sisak-Moslavina|58
+Broué|48.749|1.523|FR|Centre-Val de Loire|58
+Broughton Moor|54.687|-3.468|GB|England|58
+Bromley|38.641|-84.848|US|Kentucky|58
+Brocas|44.044|-0.532|FR|New Aquitaine|58
+Broadford|57.242|-5.911|GB|Scotland|58
+Brouderdorff|48.697|7.102|FR|Grand Est|58
+Browerville|46.086|-94.866|US|Minnesota|58
+Brookton|-32.372|117.010|AU|Western Australia|58
+Brody|52.061|15.434|PL|Lubusz|58
+Brownstown|38.996|-88.953|US|Illinois|57
+Brooten|45.501|-95.124|US|Minnesota|57
+Brownton|44.732|-94.350|US|Minnesota|57
+Brofouédou|7.229|-3.042|CI|Zanzan District|57
+Broșteni|45.046|21.651|RO|Caraș-Severin County|57
+Broboniq|42.844|20.794|XK|Mitrovica|57
+Brodersby|54.533|9.717|DE|Schleswig-Holstein|57
+Brody|52.439|16.295|PL|Greater Poland|57
 Brodnica|52.141|16.891|PL|Greater Poland|57
+Brösarp|55.724|14.103|SE|Skåne|57
+Brooklyn|38.659|-90.166|US|Illinois|57
+Brooklyn|-33.549|151.225|AU|New South Wales|57
+Broquiès|44.005|2.696|FR|Occitanie|57
+Brownstown|40.335|-78.938|US|Pennsylvania|57
+Brodenbach|50.233|7.450|DE|Rheinland-Pfalz|57
+Broye|46.872|4.291|FR|Bourgogne-Franche-Comté|57
+Bronkow|51.667|13.917|DE|Brandenburg|57
+Brouilla|42.567|2.903|FR|Occitanie|57
+Broukro-Banouan|7.352|-3.321|CI|Zanzan District|57
+Brownsdale|43.740|-92.869|US|Minnesota|57
+Broad Chalke|51.027|-1.948|GB|England|57
+Broughton|-20.117|146.433|AU|Queensland|57
+Brookfield|39.883|-75.016|US|New Jersey|57
+Brookfield|40.817|-75.061|US|New Jersey|57
+Broadhempston|50.484|-3.690|GB|England|57
+Broșteni|44.717|24.867|RO|Arges|57
+Brookenby|53.441|-0.193|GB|England|56
+Brownsboro Farm|38.303|-85.596|US|Kentucky|56
 Brognaturo|38.601|16.341|IT|Calabria|56
+Broad Hinton|51.489|-1.848|GB|England|56
+Brosville|49.100|1.117|FR|Normandy|56
+Brookfield|43.559|-71.065|US|New Hampshire|56
 Brooksville|38.683|-84.066|US|Kentucky|56
+Broadwater|-29.011|153.436|AU|New South Wales|56
+Broșteni|44.606|25.349|RO|Dâmbovița County|56
+Brookside|40.071|-80.761|US|Ohio|56
+Broekhuizen|51.486|6.164|NL|Limburg|56
+Brouchy|49.717|3.100|FR|Hauts-de-France|56
+Bromankoté|9.324|-3.033|CI|Zanzan District|56
+Brownsville|43.616|-88.491|US|Wisconsin|55
+Brookfield|55.846|-4.534|GB|Scotland|55
+Bronvaux|49.196|6.087|FR|Grand Est|55
+Broke|-32.751|151.104|AU|New South Wales|55
+Broadwindsor|50.820|-2.800|GB|England|55
+Brodjé|4.964|-6.065|CI|Bas-Sassandra District|55
+Brod nad Dyjí|48.875|16.535|CZ|South Moravian|55
+Browns Valley|45.595|-96.833|US|Minnesota|55
+Brooks|33.291|-84.459|US|Georgia|55
+Brossac|45.330|-0.045|FR|New Aquitaine|55
 Brovello-Carpugnino|45.842|8.532|IT|Piedmont|55
+Brouzet-lès-Alès|44.137|4.246|FR|Occitanie|55
+Broughton in Furness|54.277|-3.211|GB|England|54
+Brouvelieures|48.237|6.731|FR|Grand Est|54
+Broadwater|-28.259|153.503|AU|New South Wales|54
+Broad Bay|58.250|-6.250|GB|Scotland|54|f
+Broad Sound|42.396|-70.949|US|Massachusetts|54|f
+Broager Peninsula|54.870|9.715|DK|South Denmark|54|f
+Broaghnabinnia|51.972|-9.745|IE|Munster|54|f
+Brockhamp Islands|-67.297|-67.951|AQ||54|f
+Brockman 4 Mine|-22.587|117.251|AU|Western Australia|54|f
+Brofjorden|58.367|11.433|SE|Västra Götaland|54|f
+Brøgger Glacier|-54.539|-36.446|GS||54|f
+Bröhn|52.247|9.508|DE|Lower Saxony|54|f
+Broken Bow Lake|34.212|-94.684|US|Oklahoma|54|f
+Broken Hill Airport|-32.001|141.472|AU|New South Wales|54|f
+Broken Hills|39.104|-117.970|US|Nevada|54|f
+Broms, Cape|-64.320|-58.308|AQ||54|f
+Bronkhorstspruitdam|-25.897|28.697|ZA|Gauteng|54|f
+Bronnaja Gora Extermination Camp|52.602|25.079|BY|Brest|54|f
+Brookfield Zoo|41.833|-87.836|US|Illinois|54|f
+Brookneal/Campbell County Airport|37.139|-79.019|US|Virginia|54|f
+Broome International Airport|-17.949|122.227|AU|Western Australia|54|f
+Brown Islet|-15.717|136.883|AU|Northern Territory|54|f
+Brown Mountain|35.817|-84.934|US|Tennessee|54|f
+Brown Mountain|42.363|-122.271|US|Oregon|54|f
+Brown v. Board of Education National Historic Site|39.038|-95.676|US|Kansas|54|f
+Brown-Cooper, Mount|-70.700|64.200|AQ||54|f
+Brown’s Bay|54.855|-5.768|GB|Northern Ireland|54|f
+Browning Pond|42.314|-71.998|US|Massachusetts|54|f
+Browns Bridge|34.262|-83.951|US|Georgia|54|f
+Browns Island|40.425|-80.609|US|West Virginia|54|f
+Browns Lake|48.236|-117.810|US|Washington|54|f
+Browns Pond|41.474|-74.087|US|New York|54|f
 Broto|42.604|-0.124|ES|Aragon|54
+Broscoșești|46.567|28.222|RO|Vaslui County|54
+Brodersdorf|47.110|15.653|AT|Styria|54
 Broadus|45.444|-105.411|US|Montana|54
 Brockley|51.400|-2.767|GB|England|53
+Brodersdorf|54.386|10.250|DE|Schleswig-Holstein|53
 Bronchales|40.512|-1.588|ES|Aragon|53
 Brozolo|45.117|8.072|IT|Piedmont|53
 Brosso|45.492|7.802|IT|Piedmont|52
 Brochów|52.319|20.263|PL|Mazovia|52
 Brójce|51.664|19.648|PL|Łódź Voivodeship|52
 Bromberg|47.665|16.210|AT|Lower Austria|50
+Broad Sound|-22.167|149.750|AU|Queensland|49|f
+Broad Sound|51.717|-5.283|GB|Wales|49|f
+Broadwater National Park|-29.065|153.418|AU|New South Wales|49|f
+Brocklehurst Ridge|-71.033|67.133|AQ||49|f
+Brocklehurst, Mount|-76.133|161.450|AQ||49|f
+Brockman Airport|-22.388|117.370|AU|Western Australia|49|f
+Brockman National Park|-34.512|115.999|AU|Western Australia|49|f
+Brodie Peak|-69.403|-66.115|AQ||49|f
+Brodie Ponds|-77.950|163.667|AQ||49|f
+Broken Bay|-33.546|151.333|AU|New South Wales|49|f
+Broken Island|-51.344|-59.675|FK||49|f
+Brokers Nose|-34.366|150.875|AU|New South Wales|49|f
+Bromley Peak|-77.633|162.067|AQ||49|f
+Brommafjorden|60.535|9.161|NO|Buskerud|49|f
+Bronk, Mount|-84.400|175.767|AQ||49|f
+Bronsil Castle|52.032|-2.366|GB|England|49|f
+Bronte Lagoon|-42.197|146.489|AU|Tasmania|49|f
+Bronzewing Airport|-27.366|121.032|AU|Western Australia|49|f
+Brook Islands|-18.148|146.291|AU|Queensland|49|f
+Brook Islands National Park|-18.143|146.284|AU|Queensland|49|f
+Brook Park|-32.277|150.874|AU|New South Wales|49|f
+Brooke, Mount|-76.833|159.933|AQ||49|f
+Brooklyn Bridge Park|40.700|-73.997|US|New York|49|f
+Brooks Island|32.371|-64.675|BM|Saint Georgeʼs|49|f
+Brooks Point|-66.750|108.433|AQ||49|f
+Brookside Gardens|39.059|-77.037|US|Maryland|49|f
+Brookvale Oval|-33.760|151.273|AU|New South Wales|49|f
+Brookville Lake Dam|39.440|-85.000|US|Indiana|49|f
+Brother Isle|60.517|-1.233|GB|Scotland|49|f
+Brothers Water|54.506|-2.924|GB|England|49|f
+Broughton Island|-33.980|122.435|AU|Western Australia|49|f
+Broughton Island|-32.609|152.317|AU|New South Wales|49|f
+Broughton Island|-48.033|166.583|NZ||49|f
+Brow Head|51.449|-9.773|IE|Munster|49|f
+Brown Glacier|-53.067|73.650|HM||49|f
+Brown Lake|-27.490|153.432|AU|Queensland|49|f
+Brown Mountain|-36.582|149.551|AU|New South Wales|49|f
+Brown Mountain|-36.599|149.385|AU|New South Wales|49|f
+Brown Peak|-67.417|164.583|AQ||49|f
+Brown Peninsula|-78.100|165.417|AQ||49|f
+Brown Ridge|-83.630|-55.044|AQ||49|f
+Brown, Mount|-68.583|86.083|AQ||49|f
+Browne Falls|-45.398|167.080|NZ|Southland|49|f
+Browning Peninsula|-66.469|110.550|AQ||49|f
+Browns Field|-33.735|151.108|AU|New South Wales|49|f
+Browns Glacier|-68.933|77.954|AQ||49|f
+Bröthen|53.479|10.668|DE|Schleswig-Holstein|49
 Brod Moravice|45.463|14.971|HR|Primorje-Gorski Kotar|49
+Brockscheid|50.133|6.850|DE|Rheinland-Pfalz|47
 Brovello|45.842|8.532|IT|Piedmont|46
+Broad Bay|54.699|-99.788|CA|Manitoba|40|f
+Broad Bay|43.806|-71.101|US|New Hampshire|40|f
+Broad Brook Canal|42.211|-72.415|US|Massachusetts|40|f
+Broad Canal|42.363|-71.079|US|Massachusetts|40|f
+Broad Dyke Canal|39.668|-75.569|US|Delaware|40|f
+Broad Run Reservoir|40.869|-75.868|US|Pennsylvania|40|f
+Broad Sound|43.717|-70.065|US|Maine|40|f
+Broad Street Historic District|41.560|-72.652|US|Connecticut|40|f
+Broadfield Stadium|51.100|-0.195|GB|England|40|f
+Broadlands Dam|6.979|80.454|LK|Central Province|40|f
+Broadway Bridge|39.112|-94.589|US|Missouri|40|f
+Broadway Bridge|40.874|-73.911|US|New York|40|f
+Brocavum|54.653|-2.717|GB|England|40|f
+Brock Island|77.868|-114.323|CA|Northwest Territories|40|f
+Brock Mountain|42.053|-74.903|US|New York|40|f
+Broken Group|48.897|-125.361|CA|British Columbia|40|f
+Broken Islands|62.674|-92.011|CA|Nunavut|40|f
+Broken Top|44.083|-121.700|US|Oregon|40|f
+Brokenleg Lake|51.185|-115.068|CA|Alberta|40|f
+Bromley Mountain|43.228|-72.939|US|Vermont|40|f
+Bromley Rock Park|49.416|-120.261|CA|British Columbia|40|f
+Brömserburg|49.978|7.918|DE|Hesse|40|f
+Bronte Creek Provincial Park|43.417|-79.766|CA|Ontario|40|f
+Bronte Parsonage Museum|53.831|-1.957|GB|England|40|f
+Bronx Museum of the Arts|40.831|-73.920|US|New York|40|f
+Bronx Park|40.857|-73.875|US|New York|40|f
+Brook Glacier|-78.700|-85.150|AQ||40|f
+Brook Island|63.301|-67.864|CA|Nunavut|40|f
+Brookdale Park|40.833|-74.188|US|New Jersey|40|f
+Brooke Creek Bridge|42.851|-95.293|US|Iowa|40|f
+Brooker Creek County Preserve|28.113|-82.664|US|Florida|40|f
+Brookgreen Gardens|33.520|-79.084|US|South Carolina|40|f
+Brookhaven State Park|40.922|-72.866|US|New York|40|f
+Brooklands Lagoon|-43.412|172.706|NZ|Canterbury|40|f
+Brooklyn Botanic Garden|40.669|-73.962|US|New York|40|f
+Brooklyn Sanctuary|-16.667|145.267|AU|Queensland|40|f
+Brookman Point|-74.317|-131.850|AQ||40|f
+Brooks Bridge|30.392|-86.599|US|Florida|40|f
+Brooks Field|39.752|-105.225|US|Colorado|40|f
+Brooks Glacier|63.155|-150.602|US|Alaska|40|f
+Brooks Island|37.732|-80.905|US|West Virginia|40|f
+Brooks Lake|45.087|-94.203|US|Minnesota|40|f
+Brooks Mountain|65.536|-167.146|US|Alaska|40|f
+Brooks Peninsula Park|50.150|-127.786|CA|British Columbia|40|f
+Brooks Seaplane Base|47.672|-116.786|US|Idaho|40|f
+Brookside Park|39.790|-86.107|US|Indiana|40|f
+Brookvale Provincial Park|46.283|-63.415|CA|Prince Edward Island|40|f
+Brookwood Point|42.726|-74.917|US|New York|40|f
+Broomfield Island|55.717|-79.166|CA|Nunavut|40|f
+Bror Hjorths Hus|59.849|17.620|SE|Uppsala|40|f
+Brother Island|43.079|-79.069|US|New York|40|f
+Brouardel Point|-65.050|-63.983|AQ||40|f
+Brough Castle|54.522|-2.324|GB|England|40|f
+Broughton Archipelago|50.704|-126.453|CA|British Columbia|40|f
+Broughton Bay|51.618|-4.285|GB|Wales|40|f
+Broughton Island|50.817|-126.722|CA|British Columbia|40|f
+Broughton Peaks|48.996|-125.225|CA|British Columbia|40|f
+Brown County State Park|39.114|-86.265|US|Indiana|40|f
+Brown Covered Bridge|43.566|-72.919|US|Vermont|40|f
+Brown Island|43.180|-75.012|US|New York|40|f
+Brown Island|48.539|-123.006|US|Washington|40|f
+Brown Mountain|37.683|-90.599|US|Missouri|40|f
+Brown Mountain|35.929|-81.758|US|North Carolina|40|f
+Brown Peak|54.642|-163.734|US|Alaska|40|f
+Brown Peaks|-85.583|-158.083|AQ||40|f
+Brown Square|42.811|-70.874|US|Massachusetts|40|f
+Brown Stadium|32.534|-92.067|US|Louisiana|40|f
+Brown State Fishing Lake and Wildlife Area|39.845|-95.377|US|Kansas|40|f
+Brown-Lowery Provincial Park|50.814|-114.433|CA|Alberta|40|f
+Browne Island|74.818|-96.352|CA|Nunavut|40|f
+Browne Lake|47.130|-83.929|CA|Ontario|40|f
+Browne Lake|40.865|-109.814|US|Utah|40|f
+Browning Field|41.491|-90.512|US|Illinois|40|f
+Brownington Village Historic District|44.837|-72.168|US|Vermont|40|f
+Brownlee Dam|44.836|-116.901|US|Oregon|40|f
+Browns Bay|-27.677|153.372|AU|Queensland|40|f
+Browns Butte|-85.250|167.500|AQ||40|f
+Browns Island|37.534|-77.440|US|Virginia|40|f
+Browns Island (Motukorea)|-36.828|174.880|NZ|Auckland|40|f
+Browns Lake|46.185|-60.163|CA|Nova Scotia|40|f
+Browns Lake|43.932|-115.144|US|Idaho|40|f
+Browns Park National Wildlife Refuge|40.811|-108.959|US|Colorado|40|f
+Brownsea Castle|50.688|-1.958|GB|England|40|f
+Brownson Island|55.987|-132.176|US|Alaska|40|f
+Brownsover|52.392|-1.253|GB|England|40|f
+Brownsville Bridge|40.023|-79.890|US|Pennsylvania|40|f
+Brownville Bridge|40.399|-95.651|US|Nebraska|40|f
+Brownworth, Lake|-77.433|162.750|AQ||40|f
 Brondello|44.601|7.406|IT|Piedmont|40
 Brodić|46.021|17.251|HR|Koprivnica-Križevci|36
 Broby|60.500|26.717|FI|Kymenlaakso|0
+Bröckel|52.516|10.215|DE|Lower Saxony|0
 Brockhampton|51.983|-2.583|GB|England|0
+Brockley|52.160|0.668|GB|England|0
+Brodersby|54.635|9.980|DE|Schleswig-Holstein|0
+Brohl|50.219|7.279|DE|Rheinland-Pfalz|0
 Bromfield|52.383|-2.767|GB|England|0
 Bromley|51.406|0.015|GB|England|0
 Brondong|-6.877|112.291|ID|East Java|0
+Brongkah|-8.114|111.776|ID|East Java|0
+Brongkal|-8.181|112.594|ID|East Java|0
+Brongkalan|-7.258|112.767|ID|East Java|0
 Brooke|52.643|-0.746|GB|England|0
 Broomfleet|53.733|-0.667|GB|England|0
 Brøstadbotn|69.089|17.695|NO|Troms|0
+Broto|-8.021|111.410|ID|East Java|0
 Broughton|52.050|-0.694|GB|England|0

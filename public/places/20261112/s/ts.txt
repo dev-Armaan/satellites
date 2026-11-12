@@ -32,6 +32,7 @@ Tsugaru|40.804|140.403|JP|Aomori|90
 Tsiombe|-25.300|45.483|MG|Androy|89
 Tsushima|34.206|129.291|JP|Nagasaki|89
 Tsaratanana|-16.797|47.652|MG|Betsiboka|88
+Tsushima Island|34.333|129.333|JP|Nagasaki|88|f
 Tsim Sha Tsui|22.300|114.167|HK|Kowloon City|88
 Tsumeb|-19.248|17.713|NA|Oshikoto Region|87
 Tsirang|27.022|90.123|BT|Tsirang District|87
@@ -53,6 +54,8 @@ Tsogni|-2.804|10.161|GA|Nyanga|83
 Tsivil’sk|55.870|47.479|RU|Chuvash Republic|82
 Tsuruta|40.752|140.432|JP|Aomori|82
 Tsimbeo|-12.206|44.465|KM|Anjouan|82
+Tsushima Airport|34.285|129.331|JP|Nagasaki|82|f
+Tsugaru Strait|41.333|140.333|||81|f
 Tshabong|-26.050|22.450|BW|Kgalagadi|81
 Tsrār Sharīf|33.863|74.765|IN|Jammu and Kashmir|81
 Tselina|46.534|41.032|RU|Rostov|81
@@ -68,6 +71,7 @@ Tsiolkovskiy|51.769|128.120|RU|Amur Oblast|77
 Tsqnet’i|41.695|44.699|GE|Kvemo Kartli|77
 Tsqaltubo|42.329|42.598|GE|Imereti|77
 Tsz Hong Estate|22.347|114.203|HK|Wong Tai Sin District|77
+Tsaghkunyats’ Lerrnashght’a|40.595|44.526|AM||77|f
 Tsuwano|34.467|131.767|JP|Shimane|77
 Tsolo|-31.308|28.755|ZA|Eastern Cape|77
 Tseminyu|25.925|94.216|IN|Nagaland|76
@@ -86,23 +90,32 @@ Tsentoroy|43.007|46.222|RU|Chechnya|75
 Tsoundzou 1|-12.806|45.202|YT|Mamoudzou|75
 Tséri|35.073|33.323|CY|Nicosia|75
 Tsetsebjwe|-22.416|28.398|BW|Central|74
+Tsletsi Airport|34.667|3.349|DZ|Djelfa|74|f
+Tsung-ming Island|31.618|121.553|CN|Shanghai|74|f
+Tsuruga Castle|37.488|139.930|JP|Fukushima|74|f
 Tsararano|-12.835|45.174|YT|Dembeni|74
 Tsnori|41.618|45.979|GE|Kakheti|74
 Tsur Hadassa|31.719|35.097|IL|Jerusalem|73
+Tshumbe Airport|-4.102|24.399|CD|East Kasai|73|f
 Tsidjé|-11.701|43.271|KM|Grande Comore|73
 Tsunagi|32.236|130.476|JP|Kumamoto|73
 Tsovinar|40.160|45.468|AM|Gegharkunik|73
 Tsibanobalka|44.980|37.344|RU|Krasnodar Krai|73
 Tsudikong|26.680|94.644|IN|Nagaland|73
 Tsovagyugh|40.633|44.961|AM|Gegharkunik|73
+Tsengwen Reservoir|23.278|120.566|TW|Taiwan|72|f
+Tshabong Airport|-26.034|22.402|BW|Kgalagadi|72|f
 Tsil’na|54.595|48.141|RU|Ulyanovsk|72
 Tsintsabis|-18.769|17.963|NA|Oshikoto Region|72
 Tsar Kaloyan|43.617|26.250|BG|Razgrad|72
 Tsalka|41.598|44.091|GE|Kvemo Kartli|72
 Tsukigata|43.335|141.669|JP|Hokkaido|71
+Tsuken Jima|26.256|127.942|JP|Okinawa|71|f
 Tsyelyakhany|52.517|25.843|BY|Brest|71
 Tsybli|49.994|31.562|UA|Kyiv Oblast|71
 Tsybuliv|49.072|29.845|UA|Cherkasy|71
+Tsam Chuk Wan|22.387|114.313|HK||70|f
+Tshane Airport|-24.017|21.883|BW|Kgalagadi|70|f
 Tsentral’nyy|56.297|42.789|RU|Nizhny Novgorod Oblast|69
 Tsalenjikha|42.609|42.067|GE|Samegrelo and Zemo Svaneti|69
 Tsovasar|40.138|45.191|AM|Gegharkunik|69
@@ -110,6 +123,7 @@ Tsakkar|40.174|45.222|AM|Gegharkunik|69
 Tsimasham|27.099|89.536|BT|Chukha|69
 Tsebrykove|47.147|30.108|UA|Odesa|69
 Tsur Moshe|32.298|34.912|IL|Central District|69
+Tsakalonísi|38.462|21.036|GR|Ionian Islands|69|f
 Tsa Kholo|-29.669|27.152|LS||69
 Tsvetochnoye|45.087|34.385|UA|Crimea|69
 Ts’inandali|41.893|45.571|GE|Kakheti|69
@@ -118,6 +132,8 @@ Tsoundzou 2|-12.818|45.197|YT|Mamoudzou|68
 Tsurui|43.250|144.296|JP|Hokkaido|68
 Tsomo|-32.037|27.820|ZA|Eastern Cape|68
 Tsovak|40.183|45.633|AM|Gegharkunik|67
+Tschermakfjellet|78.514|15.290|SJ|Svalbard|67|f
+Tsuno Shima|34.354|130.865|JP|Yamaguchi|67|f
 Tsenovo|43.536|25.658|BG|Ruse|67
 Tsaghkahovit|40.639|44.223|AM|Aragatsotn|67
 Tschagguns|47.074|9.903|AT|Vorarlberg|67
@@ -128,6 +144,12 @@ Tses|-25.885|18.125|NA|Karas Region|66
 Tsumori|34.647|135.481|JP|Osaka|66
 Tsurib|42.238|46.834|RU|Dagestan|66
 Tsybulivka|48.386|29.118|UA|Vinnytsia|66
+Tsiárta|34.841|32.456|CY|Pafos|65|f
+Tsingy de Bemaraha Strict Nature Reserve|-18.667|44.751|MG|Melaky|65|f
+Tsingy de Namoroka Strict Nature Reserve|-16.467|45.333|MG|Boeny|65|f
+Tsukari Dam|40.443|140.673|JP|Aomori|65|f
+Tsuki Shima|38.374|141.118|JP|Miyagi|65|f
+Tsz Lo Lan Shan|22.249|114.200|HK|Southern District|65|f
 Tsybuleve|48.814|32.492|UA|Kirovohrad|65
 Tsukuryne|48.084|37.310|UA|Donetsk|65
 Tsumkwe|-19.594|20.502|NA|Otjozondjupa Region|64
@@ -139,6 +161,9 @@ Tsarítsani|39.881|22.228|GR|Thessaly|64
 Tsikhisdziri|41.767|41.755|GE|Adjara|64
 Tsukabaru|32.517|131.333|JP|Miyazaki|63
 Tsaghkunk|40.180|44.272|AM|Armavir|63
+Tsemperoú|37.348|22.248|GR|Peloponnese|63|f
+Tsimpsean Peninsula|54.374|-130.206|CA|British Columbia|63|f
+Tso Morīri|32.913|78.315|IN||63|f
 Tsau|-20.165|22.456|BW|North-West|63
 Tsimkoura|-12.939|45.137|YT|Chirongui|63
 Tsentralne|51.476|30.685|UA|Chernihiv Oblast|63
@@ -155,6 +180,12 @@ Tsvitkove|49.155|31.532|UA|Cherkasy|61
 Tsvitne|48.956|32.499|UA|Kirovohrad|61
 Tsuri’el|33.007|35.314|IL|Northern District|61
 Tsaghkadzor|40.532|44.723|AM|Kotayk|61
+Tsala Apopka Lake|28.932|-82.360|US|Florida|61|f
+Tsaratanana Strict Nature Reserve|-13.894|48.840|MG|Diana|61|f
+Tsentralny Airport|54.967|73.311|RU|Omsk Oblast|61|f
+Tsiolkovskiy Island|-70.500|3.000|AQ||61|f
+Tsumeb Airport|-19.262|17.733|NA|Oshikoto Region|61|f
+Tsylos Park Lodge Aerodrome|51.627|-124.144|CA|British Columbia|61|f
 Tselafon|31.805|34.932|IL|Jerusalem|61
 Ts’avk’isi|41.668|44.743|GE|Tbilisi|61
 Tsandi|-17.743|14.886|NA|Omusati Region|60
@@ -164,7 +195,71 @@ Tsageri|42.645|42.769|GE|Racha-Lechkhumi and Kvemo Svaneti|60
 Tsentralne|46.907|32.470|UA|Mykolaiv|60
 Tsupivka|50.270|36.182|UA|Kharkiv|60
 Tsippori|32.745|35.280|IL|Northern District|60
+Tselinnyye Zemli|54.698|100.629|RU|Irkutsk Oblast|60
+Tsimmermanovka|51.341|139.250|RU|Khabarovsk|60
+Tsafriyya|32.004|34.856|IL|Central District|60
+Tshane|-24.033|21.900|BW|Kgalagadi|60
+Tsákoi|40.955|22.038|GR|Central Macedonia|60
+Tsuren|48.238|26.101|UA|Chernivtsi|60
+Tsminy|51.296|25.847|UA|Volyn|60
 Tselinnoye|45.906|34.181|UA|Crimea|59
+Tshikapa Airport|-6.441|20.795|CD|Kasai|58|f
+Tsim Shan|22.350|114.150|HK|Kwai Tsing District|58|f
+Tsinghua University|39.996|116.316|CN|Beijing|58|f
+Tsingy de Bemaraha National Park|-18.667|44.750|MG|Melaky|58|f
+Tsoilaunung Island|-2.544|150.532|PG|New Ireland|58|f
+Tsubakuro Dake|36.409|137.712|JP|Nagano|58|f
+Tsukiji Honganji|35.666|139.772|JP|Tokyo|58|f
+Tsentralnyi|48.351|38.573|UA|Luhansk|58
+Tsvitkove|47.633|31.183|UA|Mykolaiv|58
+Tsentral'noe otdelenie sovkhoza imeni Lenina|52.189|40.850|RU|Tambov Oblast|58
+Ts’alk’ot’i|43.400|40.052|GE|Abkhazia|57
+Tsipky|50.454|34.064|UA|Poltava|57
+Tsvitokha|50.247|26.944|UA|Khmelnytskyi|57
+Tsaredarivka|47.719|30.843|UA|Mykolaiv|56
+Tsaghveri|41.804|43.482|GE|Samtskhe-Javakheti|56
+Tsaghkashen|40.503|44.354|AM|Aragatsotn|56
+Tschirn|50.400|11.450|DE|Bavaria|56
+Tsoghamarg|40.949|43.857|AM|Shirak|56
+Tsilkar|40.720|44.207|AM|Aragatsotn|55
+Tsoloda|42.638|46.366|RU|Dagestan|55
+Tsagkaráda|39.388|23.174|GR|Thessaly|54
+Tsavo National Park East|-2.746|38.782|KE||54|f
+Tschima da Flix|46.523|9.703|CH|Grisons|54|f
+Tseax Cone|55.111|-128.901|CA|British Columbia|54|f
+TSTC Waco Airport|31.634|-97.069|US|Texas|54|f
+Tsoukaládhes|38.822|20.655|GR|Ionian Islands|54
+Tschöran|46.679|13.962|AT|Carinthia|54
+Tsamakasar|40.467|43.761|AM|Aragatsotn|54
+Tschurndorf|47.608|16.406|AT|Burgenland|54
+Tsarskoye Selo|59.723|30.416|RU|Leningradskaya Oblast'|49|f
+Tschuffert Peak|-67.473|60.915|AQ||49|f
+Tsili Tsili|-6.850|146.350|PG|Morobe Province|49|f
+Tsuiki Ab|33.685|131.040|JP|Fukuoka|49|f
+Ts'oogot Gaay Lake|62.616|-140.991|CA|Yukon|40|f
+Tsa de l'Ano|46.078|7.573|CH|Valais|40|f
+Tsable Lake|49.533|-125.110|CA|British Columbia|40|f
+Tsang Tai Uk|22.374|114.191|HK|Sha Tin|40|f
+Tsarigrad Peak|-63.015|-62.578|AQ||40|f
+Tsaydaychuz Peak|53.021|-126.640|CA|British Columbia|40|f
+Tschaggunser Mittagspitze|47.046|9.885|AT|Vorarlberg|40|f
+Tschawinersee|46.147|8.138|CH|Valais|40|f
+Tscheischhorn|46.428|9.517|CH|Grisons|40|f
+Tschingel|46.704|8.140|CH|Bern|40|f
+Tschingelfirn|46.494|7.836|CH|Bern|40|f
+Tschingelhorn|46.479|7.848|CH|Valais|40|f
+Tschingellochtighore|46.446|7.593|CH|Bern|40|f
+Tschingelsee|46.551|7.742|CH|Bern|40|f
+Tschingelspitz|46.511|7.840|CH|Bern|40|f
+Tschuggen|46.600|7.950|CH|Bern|40|f
+Tshibinda|-2.320|28.750|CD||40|f
+Tshwane University of Technology|-25.732|28.162|ZA|Gauteng|40|f
+Tsimanampetsotsa National Park|-24.099|43.832|MG|Atsimo-Andrefana|40|f
+Tsintsunko Lakes Park|51.050|-120.503|CA|British Columbia|40|f
+Tsirku Glacier|59.316|-136.620|CA|British Columbia|40|f
+Tsitika Mountain|50.433|-126.653|CA|British Columbia|40|f
+Tsitsutl Peak|52.724|-125.779|CA|British Columbia|40|f
+Tskhouk-Karckar|39.730|46.019|AM|Syunik|40|f
 Tschanigraben|47.006|16.315|AT|Burgenland|36
 Tsada - Tremithousa - Tala (Borders)|34.834|32.454|CY|Pafos|0
 Tsagaan-Olom|46.713|96.526|MN|Govi-Altai Province|0

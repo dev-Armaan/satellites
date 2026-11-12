@@ -7,8 +7,8 @@ Madhya Pradesh|23.500|78.500|IN||146|r
 Massachusetts|42.366|-71.108|US||137|r
 Maranhão|-5.000|-45.000|BR||137|r
 Mazovia|52.367|21.100|PL||135|r
+Maryland|39.000|-76.750|US||135|r
 Mauritania|20.250|-10.500|MR||135|c
-Maryland|39.000|-76.750|US||134|r
 Mato Grosso|-13.000|-56.000|BR||131|r
 Madrid|40.416|-3.703|ES|Madrid|130
 Mato Grosso do Sul|-20.500|-55.000|BR||129|r
@@ -35,9 +35,9 @@ Managua Department|12.000|-86.417|NI||122|r
 Matola|-25.962|32.459|MZ|Maputo Province|122
 Malingao|7.161|124.475|PH|Soccsksargen|121
 Maiduguri|11.847|13.157|NG|Borno State|121
+Maine|45.500|-69.250|US||121|r
 Magdalena Department|10.000|-74.500|CO||121|r
 Maceió|-9.666|-35.735|BR|Alagoas|120
-Maine|45.500|-69.250|US||120|r
 Marrakesh|31.634|-8.000|MA|Marrakesh-Safi|120
 Manitoba|55.000|-97.000|CA||120|r
 Managua|12.133|-86.250|NI|Managua Department|120
@@ -66,6 +66,7 @@ Malta|35.917|14.433|MT||115|c
 Malacca|2.196|102.240|MY|Melaka|115
 Manchester|53.481|-2.237|GB|England|115
 Maekel|15.333|38.917|ER||115|r
+Maramureş|47.667|24.000|RO||115|r
 Maldives|3.200|73.000|MV||114|c
 Mazār-e Sharīf|36.709|67.111|AF|Balkh|114
 Macapá|0.039|-51.066|BR|Amapá|114
@@ -74,9 +75,8 @@ Makati City|14.550|121.033|PH|National Capital Region|114
 Maipú|-33.514|-70.765|CL|Santiago Metropolitan|114
 Mangaluru|12.917|74.856|IN|Karnataka|114
 Matsudo|35.780|139.901|JP|Chiba|114
-Maramureş|47.667|24.000|RO||114|r
-Masina|-4.384|15.391|CD|Kinshasa|114
 Mariy-El Republic|56.575|47.942|RU||114|r
+Masina|-4.384|15.391|CD|Kinshasa|114
 Malegaon|20.550|74.535|IN|Maharashtra|114
 Mashonaland West|-17.167|29.750|ZW||113|r
 Marikina City|14.648|121.113|PH|National Capital Region|113

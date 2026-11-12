@@ -18,6 +18,7 @@ Nyaung|16.835|96.088|MM|Yangon|93
 Nyaungdon|17.045|95.640|MM|Ayeyarwady|92
 Nyköping|58.753|17.008|SE|Södermanland|92
 Nyahururu|0.038|36.363|KE|Laikipia|92
+Nymphenburg Palace|48.158|11.503|DE|Bavaria|91|f
 Nyanza|-2.352|29.751|RW|Southern Province|90
 Nyachera|-0.900|30.417|UG|Western Region|90
 Nyêmo|29.437|90.148|CN|Tibet|90
@@ -33,6 +34,7 @@ Nyahuka|0.675|29.993|UG|Western Region|86
 Nyimba|-14.557|30.815|ZM|Eastern Province|86
 Nyakabindi|-2.633|33.983|TZ|Simiyu|85
 Nyborg|55.313|10.790|DK|South Denmark|85
+Nyingchi Mainling Airport|29.303|94.335|CN|Tibet|85|f
 Nyzhnya Telychka|50.388|30.575|UA|Kyiv City|85
 Nyamunuka|-0.835|30.092|UG|Western Region|85
 Nyon|46.383|6.240|CH|Vaud|85
@@ -46,11 +48,14 @@ Nyírbátor|47.833|22.133|HU|Szabolcs-Szatmár-Bereg|83
 Nyambunwa|-0.678|34.707|KE|Kisii County|83
 Nybro|56.745|15.907|SE|Kalmar|82
 Nyazepetrovsk|56.037|59.599|RU|Chelyabinsk|82
+Nyala Airport|12.054|24.956|SD|Southern Darfur|81|f
+Nyíregyháza Airport|47.984|21.692|HU|Szabolcs-Szatmár-Bereg|81|f
 Nyanguge|-2.550|33.200|TZ|Mwanza|81
 Nyāmti|14.149|75.576|IN|Karnataka|80
 Nyurba|63.284|118.350|RU|Sakha|80
 Nyu-York|48.330|37.841|UA|Donetsk|80
 Nykøbing Mors|56.793|8.853|DK|North Denmark|79
+Nyagan Airport|62.110|65.615|RU|Khanty-Mansia|78|f
 Nyaung Waing|16.667|96.323|MM|Yangon|78
 Nyíradony|47.697|21.919|HU|Hajdú-Bihar|78
 Nyergesújfalu|47.760|18.557|HU|Komárom-Esztergom|78
@@ -63,14 +68,17 @@ Nyzhnia Apsha|48.004|23.833|UA|Zakarpattia|77
 Nyírtelek|48.017|21.633|HU|Szabolcs-Szatmár-Bereg|77
 Nyack|41.091|-73.918|US|New York|77
 Nýřany|49.711|13.212|CZ|Plzeň Region|77
+Nyeri Airport|-0.372|36.981|KE|Nyeri County|76|f
 Nykvarn|59.800|18.300|SE|Stockholm|76
 Nyansiongo|-0.760|35.015|KE|Nyamira county|76
+Nyngan Airport|-31.551|147.203|AU|New South Wales|75|f
 Nýrsko|49.294|13.144|CZ|Plzeň Region|74
 Nykøbing Sjælland|55.925|11.671|DK|Zealand|74
 Nyékládháza|47.983|20.833|HU|Borsod-Abaúj-Zemplén|74
 Nyanga|-18.217|32.750|ZW|Manicaland|74
 Nyírmada|48.067|22.200|HU|Szabolcs-Szatmár-Bereg|74
 Nyzhni Sirohozy|46.846|34.375|UA|Kherson|73
+Nyurba Airport|63.297|118.347|RU|Sakha|73|f
 Nyuksenitsa|60.412|44.233|RU|Vologda Oblast|73
 Nyíracsád|47.603|21.972|HU|Hajdú-Bihar|72
 Nyandiwa|-0.723|34.059|KE|Homa Bay County|72
@@ -78,6 +86,7 @@ Nyva Trudova|47.731|33.622|UA|Dnipropetrovsk|72
 Nyírábrány|47.553|22.024|HU|Hajdú-Bihar|72
 Nyúl|47.590|17.689|HU|Győr-Moson-Sopron|72
 Nyáregyháza|47.262|19.501|HU|Pest County|72
+Ny Carlsberg Glyptotek|55.672|12.572|DK|Capital Region|71|f
 Nyangusu|-0.933|34.844|KE|Kisii County|71
 Nyan|6.010|-3.726|CI|Lagunes District|71
 Nyzhnya Syrovatka|50.775|34.829|UA|Sumy|71
@@ -119,6 +128,9 @@ Nyírmihálydi|47.740|21.964|HU|Szabolcs-Szatmár-Bereg|66
 Nyzhni Stanivtsi|48.321|25.569|UA|Chernivtsi|66
 Nyírvasvári|47.817|22.187|HU|Szabolcs-Szatmár-Bereg|66
 Nyangourala|8.137|-5.726|CI|Woroba|66
+Nyainqêntanglha Feng|30.383|90.573|CN|Tibet|65|f
+Nydalasjön|63.817|20.350|SE|Västerbotten|65|f
+Nyêr Co|32.287|82.213|CN|Tibet|65|f
 Nyakouoboué|5.908|-5.779|CI|Goh-Djiboua|65
 Nyzhankovychi|49.680|22.812|UA|Lviv|65
 Nyambadao|-12.893|45.202|YT|Bandrele|65
@@ -126,6 +138,7 @@ Nyoiseau|47.717|-0.917|FR|Pays de la Loire|64
 Nyzhnie Bolotne|48.265|23.090|UA|Zakarpattia|64
 Nyangbo|8.806|-5.164|CI|Vallée du Bandama District|63
 Nyaung Chaung|16.633|96.222|MM|Yangon|63
+Ny-Ålesund Airport, Hamnerabben|78.917|11.933|SJ|Svalbard|63|f
 Nyzhnia Viznytsia|48.516|22.762|UA|Zakarpattia|63
 Nyaungshwe|20.661|96.934|MM|Mandalay Region|62
 Nyaung Ngoke To|16.728|96.140|MM|Yangon|62
@@ -135,11 +148,72 @@ Nyzhnii Bystryi|48.360|23.529|UA|Zakarpattia|62
 Nyaung Pin|16.625|96.151|MM|Yangon|61
 Nyzhnii Studenyi|48.701|23.364|UA|Zakarpattia|61
 Nyzhnii Dubovets|48.158|23.900|UA|Zakarpattia|61
+Nyströmøya|79.424|19.598|SJ||61|f
 Nyhammar|60.283|14.967|SE|Dalarna|60
 Nýmfes|39.756|19.785|GR|Ionian Islands|60
 Nyrkiv|48.814|25.599|UA|Ternopil|60
 Nyaung Ngu|16.468|96.044|MM|Yangon|60
+Nyehorelaye|53.610|27.073|BY|Minsk|60
+Nyzhni Synivtsi|48.007|26.132|UA|Chernivtsi|60
+Nyzhnia Lanna|49.376|35.209|UA|Poltava|60
+Nyland|64.817|20.767|SE|Västerbotten|60
+Nyimbale|10.161|-2.605|GH|Upper West|59
+Nyland|63.006|17.759|SE|Västernorrland|59
+Nyzhni Remety|48.257|22.827|UA|Zakarpattia|59
+Nyaung Ta Chan|17.112|96.274|MM|Yangon|59
+Nyzhnie Solotvyno|48.547|22.444|UA|Zakarpattia|58
+Nyzhnii Bulatets|50.018|32.941|UA|Poltava|58
+Nyamantougoula|9.283|-7.737|CI|Denguélé District|58
+Nyborg|65.783|23.200|SE|Norrbotten|58
+Nyzhnii Koropets|48.362|22.666|UA|Zakarpattia|58
+Nybrua|59.918|10.759|NO|Oslo|58|f
+Nygren Point|-64.385|-58.222|AQ||58|f
+Nyumba ya Mungu Reservoir|-3.800|37.467|TZ||58|f
+Nykroppa|59.623|14.303|SE|Värmland|58
+Nyangbagala|8.267|-5.817|CI|Woroba|57
+Nyzhni Mlyny|49.546|34.579|UA|Poltava|57
+Nyzhni Byriuky|47.867|38.068|UA|Donetsk|57
+Nyker|55.139|14.761|DK|Capital Region|57
+Nyah West|-35.185|143.351|AU|Victoria|57
+Nykirke|59.423|10.384|NO|Vestfold|56
+Nykyforivka|48.770|37.898|UA|Donetsk|56
+Nymfópetra|40.694|23.331|GR|Central Macedonia|56
+Nyzhnokrynske|47.785|38.627|UA|Donetsk|56
+Nyanzongo|9.261|-7.080|CI|Denguélé District|56
+Nyondjyé|8.846|-6.484|CI|Woroba|55
+Nyah|-35.175|143.377|AU|Victoria|55
+Nygardsvatnet|60.510|7.816|NO|Buskerud|54|f
+Nyika National Park|-10.635|33.836|MW|Northern Region|54|f
+Nyona Lake|40.964|-86.185|US|Indiana|54|f
+Nyzhnii Turiv|49.088|22.937|UA|Lviv|54
+Nyac Airport|60.979|-160.002|US|Alaska|49|f
+Nyanaberi Forest Park|13.433|-15.467|GM|Lower River|49|f
+Nyassang Forest Park|13.633|-14.983|GM|Central River|49|f
+Nye Glacier|-67.441|-67.452|AQ||49|f
+Nye Mountains|-68.167|49.000|AQ||49|f
+Nyhellervatnet|60.809|7.672|NO|Vestland|49|f
+Nylen Glacier|-77.683|161.483|AQ||49|f
+Nymboida National Park|-29.633|152.427|AU|New South Wales|49|f
+Nymph Island National Park|-14.654|145.252|AU|Queensland|49|f
+Nyord|55.045|12.212|DK|Zealand|49|f
+Nyutabaru Ab|32.084|131.451|JP|Miyazaki|49|f
+Nybroviken|59.331|18.079|SE|Stockholm|40|f
+Nye Islands|-66.167|110.417|AQ||40|f
+Nye Mountain|44.193|-74.024|US|New York|40|f
+Nymboi-Binderay National Park|-30.097|152.756|AU|New South Wales|40|f
 Nyagassola|12.317|-9.117|GN|Kankan Region|0
+Nyagla|32.041|96.841|CN|Qinghai|0
 Nyalindung|-7.043|106.944|ID|West Java|0
+Nyalindung|-7.191|108.176|ID|West Java|0
 Nyanga|-2.914|11.888|CG|Niari|0
+Nyangkleng|-6.855|115.293|ID|East Java|0
+Nyapar|-6.905|113.832|ID|East Java|0
+Nyemplong|-7.418|108.247|ID|West Java|0
+Nyima|31.759|92.254|CN|Tibet|0
+Nyima|31.544|92.732|CN|Tibet|0
+Nyima|31.077|91.058|CN|Tibet|0
+Nyinmo|31.249|94.338|CN|Tibet|0
+Nyinqug|35.209|100.853|CN|Qinghai|0
+Nyiurtebel|-8.636|116.499|ID|West Nusa Tenggara|0
+Nyungcung|-6.715|106.141|ID|Banten|0
 Nyzhnoteple|48.798|39.351|UA|Luhansk|0

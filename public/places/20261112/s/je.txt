@@ -35,6 +35,7 @@ Jedeïda|36.831|9.924|TN|Manouba|93
 Jerez de García Salinas|22.650|-102.990|MX|Zacatecas|93
 Jesús María|21.961|-102.343|MX|Aguascalientes|93
 Jefferson City|38.577|-92.174|US|Missouri|93
+Jeju International Airport|33.511|126.493|KR|Jeju-do|92|f
 Jeremoabo|-10.076|-38.347|BR|Bahia|92
 Jekulo|-6.806|110.926|ID|Central Java|91
 Jelilyüzi|43.975|81.536|CN|Xinjiang|91
@@ -49,12 +50,19 @@ Jeffersontown|38.194|-85.564|US|Kentucky|89
 Jevargi|17.014|76.773|IN|Karnataka|88
 Jenjarum|2.872|101.495|MY|Selangor|88
 Jequitinhonha|-16.434|-41.003|BR|Minas Gerais|88
+Jerez Airport|36.745|-6.060|ES|Andalusia|87|f
+Jersey Airport|49.208|-2.195|JE|St Peter|87|f
 Jesús del Monte|19.375|-99.294|MX|México|87
 Jebba|9.120|4.824|NG|Kwara State|87
 Jēkabpils|56.499|25.857|LV|Jēkabpils Municipality|86
 Jenks|36.023|-95.968|US|Oklahoma|86
 Jenzan|36.241|128.298|KR|Gyeongsangbuk-do|86
+Jewish Museum|40.785|-73.957|US|New York|86|f
 Jericho|31.867|35.450|PS|West Bank|86
+Jebel ech Chambi|35.207|8.683|TN|Kasserine Governorate|86|f
+Jérémie Airport|18.663|-74.170|HT|Grand'Anse|86|f
+Jersey|49.217|-2.138|JE||86|f
+Jessore Airport|23.184|89.161|BD|Khulna Division|86|f
 Jessore Cantonment|23.184|89.176|BD|Khulna Division|86
 Jenipapo dos Vieiras|-5.371|-45.636|BR|Maranhão|85
 Jędrzejów|50.639|20.305|PL|Świętokrzyskie|85
@@ -81,10 +89,12 @@ Jemeppe-sur-Meuse|50.617|5.498|BE|Wallonia|81
 Jefferson|29.966|-90.153|US|Louisiana|81
 Jerome|42.724|-114.519|US|Idaho|81
 Jessen|51.793|12.958|DE|Saxony-Anhalt|81
+Jejudo|33.402|126.546|KR|Jeju-do|81|f
 Jeumont|50.297|4.101|FR|Hauts-de-France|81
 Jemappes|50.449|3.891|BE|Wallonia|81
 Jesenice|49.968|14.514|CZ|Central Bohemia|81
 Jeseník|50.229|17.205|CZ|Olomouc Region|80
+Jellyfish Lake|7.161|134.376|PW|Koror|80|f
 Jerez de los Caballeros|38.321|-6.773|ES|Extremadura|80
 Jefferson|34.117|-83.572|US|Georgia|80
 Jennings|30.222|-92.657|US|Louisiana|80
@@ -105,6 +115,8 @@ Jefferson|43.006|-88.807|US|Wisconsin|78
 Jersey Village|29.888|-95.563|US|Texas|78
 Jericó|5.792|-75.786|CO|Antioquia|78
 Jerécuaro|20.151|-100.511|MX|Guanajuato|78
+Jemo Island|10.079|169.525|MH|Jemo Island|78|f
+Ještěd|50.733|14.984|CZ|Liberec Region|78|f
 Jericó|-6.554|-37.809|BR|Paraíba|78
 Jelīn|36.854|54.538|IR|Golestan|77
 Jennings Lodge|45.391|-122.613|US|Oregon|77
@@ -114,16 +126,19 @@ Jepelacio|-6.117|-76.950|PE|San Martín Department|77
 Jessup|39.149|-76.775|US|Maryland|77
 Jenbach|47.392|11.772|AT|Tyrol|77
 Jesteburg|53.310|9.953|DE|Lower Saxony|77
+Jebel Qihwi|25.743|56.210|OM|Musandam Governorate|77|f
 Jesús de Otoro|14.488|-87.982|HN|Intibucá Department|77
 Jenāḩ|27.020|54.284|IR|Hormozgan|77
 Jettingen-Scheppach|48.390|10.438|DE|Bavaria|77
 Jesús María Garza|16.397|-93.294|MX|Chiapas|77
 Jequitaí|-17.236|-44.446|BR|Minas Gerais|76
+Jerimoth Hill|41.849|-71.779|US|Rhode Island|76|f
 Jeceaba|-20.534|-43.992|BR|Minas Gerais|76
 Jemeppe-sur-Sambre|50.465|4.665|BE|Wallonia|76
 Jenipapo de Minas|-17.083|-42.258|BR|Minas Gerais|76
 Jequitibá|-19.236|-44.028|BR|Minas Gerais|75
 Jetibá|-20.021|-40.681|BR|Espírito Santo|75
+Jebel Dhana Airport|24.187|52.614|AE|Abu Dhabi|75|f
 Jedlicze|49.717|21.649|PL|Subcarpathia|75
 Jeanerette|29.911|-91.663|US|Louisiana|75
 Jean-Rabel|19.854|-73.191|HT|Nord-Ouest|75
@@ -131,11 +146,14 @@ Jebilat|-0.694|35.071|KE|Nyamira county|75
 Jeżowe|50.375|22.127|PL|Subcarpathia|75
 Jebel|45.556|21.214|RO|Timiș County|74
 Jelah|44.654|17.959|BA|Federation of B&H|74
+Jebel Akhdar|23.110|57.743|OM|Ad Dakhiliyah|74|f
+Jerry Tyler Memorial Airport|41.840|-86.226|US|Michigan|74|f
 Jestetten|47.650|8.567|DE|Baden-Wurttemberg|74
 Jesuânia|-21.998|-45.291|BR|Minas Gerais|74
 Jedlina-Zdrój|50.720|16.346|PL|Lower Silesia|74
 Jerago Con Orago|45.705|8.796|IT|Lombardy|74
 Jegălia|44.300|27.633|RO|Călărași County|74
+Jethou|49.467|-2.467|GG||73|f
 Jerumenha|-7.088|-43.510|BR|Piauí|73
 Jessup|41.469|-75.562|US|Pennsylvania|73
 Jenkintown|40.096|-75.125|US|Pennsylvania|73
@@ -148,6 +166,8 @@ Jevnaker|60.240|10.387|NO|Akershus|73
 Jersey Shore|41.202|-77.264|US|Pennsylvania|73
 Jefferson|42.015|-94.377|US|Iowa|72
 Jesús del Monte|19.652|-101.152|MX|Michoacán|72
+Jeløya|59.450|10.635|NO|Østfold|72|f
+Jeypore Airport|18.880|82.552|IN|Odisha|72|f
 Jebha|35.205|-4.665|MA|Tanger-Tetouan-Al Hoceima|72
 Jeleśnia|49.642|19.327|PL|Silesia|72
 Jermuk|39.839|45.671|AM|Vayots Dzor|72
@@ -161,6 +181,10 @@ Jejkowice|50.108|18.468|PL|Silesia|71
 Jemgum|53.269|7.385|DE|Lower Saxony|71
 Jedlnia-Letnisko|51.431|21.335|PL|Mazovia|71
 Jeßnitz|51.683|12.300|DE|Saxony-Anhalt|71
+Jebu Island|37.169|126.622|KR|Gyeonggi-do|71|f
+Jenpeg Airport|54.519|-98.046|CA|Manitoba|71|f
+Jezioro Białoławki|53.737|21.826|PL|Warmia-Masuria|71|f
+Jezioro Niegocin|54.007|21.779|PL|Warmia-Masuria|71|f
 Jemielnica|50.546|18.378|PL|Opole Voivodeship|71
 Jersey Farm|51.770|-0.296|GB|England|71
 Jewett City|41.607|-71.981|US|Connecticut|71
@@ -170,6 +194,8 @@ Jevenstedt|54.235|9.664|DE|Schleswig-Holstein|70
 Jefferson|44.720|-123.010|US|Oregon|70
 Jesewitz|51.423|12.563|DE|Saxony|70
 Jelšava|48.629|20.241|SK|Banská Bystrica Region|70
+Jebel Bou Kournine|36.689|10.357|TN|Ben Arous Governorate|70|f
+Jezioro Karaś|53.556|19.481|PL|Warmia-Masuria|70|f
 Jefferson|41.739|-80.770|US|Ohio|70
 Jedovnice|49.345|16.756|CZ|South Moravian|70
 Jesús María|20.622|-100.256|MX|Querétaro|69
@@ -177,6 +203,11 @@ Jetzendorf|48.433|11.417|DE|Bavaria|69
 Jerzu|39.793|9.518|IT|Sardinia|69
 Jevíčko|49.632|16.711|CZ|Pardubice Region|69
 Jesús Nazareno|18.877|-97.623|MX|Puebla|69
+Jefferson County International Airport|48.055|-122.810|US|Washington|69|f
+Jen-i-t’an Reservor|23.465|120.515|TW|Taiwan|69|f
+Jervis Bay|-35.065|150.735|AU|New South Wales|69|f
+Jezioro Szwałk Wielki|54.112|22.207|PL|Warmia-Masuria|69|f
+Jezioro Wielkie Dąbrowskie|53.439|20.052|PL|Warmia-Masuria|69|f
 Jesup|42.476|-92.064|US|Iowa|69
 Jesberg|51.000|9.150|DE|Hesse|68
 Jesús María|22.251|-104.518|MX|Nayarit|68
@@ -190,6 +221,13 @@ Jennersdorf|46.938|16.142|AT|Burgenland|67
 Jenāqerd|38.297|48.124|IR|Ardabil Province|67
 Jesús María|25.089|-107.452|MX|Sinaloa|67
 Jerichow|52.500|12.030|DE|Saxony-Anhalt|67
+Jean Lesage International Airport|46.792|-71.384|CA|Quebec|67|f
+Jeannette Island|76.792|158.055|RU|Sakha|67|f
+Jebel Ressas|36.607|10.337|TN|Ben Arous Governorate|67|f
+Jetmore Municipal Airport|37.984|-99.894|US|Kansas|67|f
+Jetnamsklumpen|65.131|14.192|NO|Trøndelag|67|f
+Jezioro Morliny|53.677|19.939|PL|Warmia-Masuria|67|f
+Jezioro Pogubie Wielkie|53.582|21.747|PL|Warmia-Masuria|67|f
 Jellico|36.588|-84.127|US|Tennessee|67
 Jerzmanowice|50.213|19.747|PL|Lesser Poland|67
 Jedwabne|53.286|22.304|PL|Podlasie|67
@@ -209,6 +247,15 @@ Jelenča|44.727|19.735|RS|Central Serbia|66
 Jevremovac|44.722|19.664|RS|Central Serbia|66
 Jeseník nad Odrou|49.612|17.905|CZ|Moravian-Silesian Region|66
 Jembke|52.500|10.765|DE|Lower Saxony|66
+Jebel Abu Rasein|8.641|24.224|CF|Haute-Kotto|65|f
+Jebel Ayachi|32.465|-4.998|MA|Drâa-Tafilalet|65|f
+Jebel Kelti|35.358|-5.276|MA|Tanger-Tetouan-Al Hoceima|65|f
+Jeptha Knob|38.177|-85.111|US|Kentucky|65|f
+Jerpoint Abbey|52.511|-7.157|IE|Leinster|65|f
+Jeyranbatan reservoir|40.498|49.690|AZ|Abşeron|65|f
+Jezioro Gaładuś|54.185|23.420|LT||65|f
+Jezioro Łukniańskie|53.814|21.627|PL|Warmia-Masuria|65|f
+Jezioro Świdwie|53.559|14.373|PL|West Pomerania|65|f
 Ježdovec|45.773|15.852|HR|Zagreb|65
 Jenštejn|50.153|14.612|CZ|Central Bohemia|65
 Jesús María|19.418|-99.997|MX|México|65
@@ -227,6 +274,17 @@ Jereh|29.246|51.978|IR|Fars|64
 Jeuk|50.735|5.210|BE|Flanders|64
 Jérica|39.917|-0.567|ES|Valencia|64
 Jesenwang|48.167|11.133|DE|Bavaria|63
+Jebel Bou Ramli|34.520|8.551|TN|Gafsa|63|f
+Jebel Hamza|34.924|-3.204|MA|Oriental|63|f
+Jebel Zem Zem|35.691|-5.621|MA|Tanger-Tetouan-Al Hoceima|63|f
+Jekyll Island Airport|31.074|-81.428|US|Georgia|63|f
+Jember Noto Hadinegoro Airport|-8.242|113.694|ID|East Java|63|f
+Jennings Randolph Lake|39.418|-79.136|US|West Virginia|63|f
+Jeombongsan|38.049|128.426|KR|Gangwon-do|63|f
+Jericoacoara Airport|-2.906|-40.356|BR|Ceará|63|f
+Jezioro Drwęckie|53.721|19.913|PL|Warmia-Masuria|63|f
+Jezioro Gardno|54.654|17.106|PL|Pomerania|63|f
+Jezioro Głębinowski|50.446|17.260|PL|Opole Voivodeship|63|f
 Jermenovci|45.186|21.046|RS|Vojvodina|63
 Jehay|50.573|5.324|BE|Wallonia|63
 Jeżów|51.814|19.969|PL|Łódź Voivodeship|63
@@ -254,6 +312,16 @@ Jezero|44.865|17.394|BA|Srpska|61
 Jetūţ|29.357|51.147|IR|Bushehr|61
 Jenaz|46.929|9.713|CH|Grisons|61
 Jedwabno|53.530|20.727|PL|Warmia-Masuria|61
+Jeamsan|34.710|126.976|KR|Jeollanam-do|61|f
+Jebel Kissane|30.579|-6.049|MA|Drâa-Tafilalet|61|f
+Jemaja Island Letung Airport|2.964|105.755|ID|Riau Islands|61|f
+Jemez Canyon Dam|35.394|-106.547|US|New Mexico|61|f
+Jemur Island|2.880|100.567|ID|Riau|61|f
+Jersey Shore Airport|41.206|-77.228|US|Pennsylvania|61|f
+Jezioro Drawsko|53.594|16.183|PL|West Pomerania|61|f
+Jezioro Goczałkowickie|49.929|18.876|PL|Silesia|61|f
+Jezioro Gotuń|54.005|17.949|PL|Pomerania|61|f
+Jezioro Otmuchowskie|50.465|17.112|PL|Opole Voivodeship|61|f
 Jehnice|49.272|16.595|CZ|South Moravian|61
 Jenin|52.696|15.098|PL|Lubusz|61
 Jefferson Heights|42.234|-73.882|US|New York|61
@@ -268,34 +336,319 @@ Jelisavac|45.529|18.156|HR|County of Osijek-Baranja|60
 Jerilderie|-35.358|145.730|AU|New South Wales|60
 Jerome|40.209|-78.984|US|Pennsylvania|60
 Jedlová|49.661|16.306|CZ|Pardubice Region|60
+Jelšovce|48.382|18.058|SK|Nitra Region|60
 Jerzens|47.151|10.747|AT|Tyrol|60
+Jezainville|48.872|6.041|FR|Grand Est|59
+Jech Chentic|16.730|-92.738|MX|Chiapas|59
+Jedľové Kostoľany|48.469|18.498|SK|Nitra Region|59
+Jettenbach|49.535|7.557|DE|Rheinland-Pfalz|59
+Jennings|30.604|-83.098|US|Florida|59
+Jefrūd-e Pā’īn|37.449|49.678|IR|Gilan Province|59
+Jekyll Island|31.070|-81.423|US|Georgia|59
 Jericó|6.146|-72.571|CO|Boyacá|59
+Jelmstorf|53.101|10.522|DE|Lower Saxony|59
+Jeziorzany|49.995|19.776|PL|Lesser Poland|59
 Jetmore|38.084|-99.893|US|Kansas|59
+Jenišovice|50.628|15.137|CZ|Liberec Region|59
+Jeníkov|50.629|13.749|CZ|Ústí nad Labem Region|59
+Jeruco|19.970|-101.170|MX|Michoacán|58
 Jesús María|5.877|-73.781|CO|Santander Department|58
+Jesús Carranza|17.412|-92.655|MX|Chiapas|58
+Jeneffe|50.651|5.354|BE|Wallonia|58
+Jea Kulli|29.119|62.837|PK|Balochistan|58|f
+Jebel Serj|35.937|9.550|TN|Siliana Governorate|58|f
+Jebibong|36.942|128.283|KR|North Chungcheong|58|f
+Jefferson Peak|47.561|-123.232|US|Washington|58|f
+Jeffries Range|76.135|-99.752|CA|Nunavut|58|f
+Jemmy Jones Island|48.445|-123.273|CA|British Columbia|58|f
+Jendemsfjellet|62.801|7.044|NO|Møre og Romsdal|58|f
+Jenner|47.576|13.021|DE|Bavaria|58|f
+Jenny Island|-67.733|-68.383|AQ||58|f
+Jeondeungsa|37.632|126.485|KR|Incheon|58|f
+Jeonju-National-University-of-Education|35.809|127.156|KR|Jeollabuk-do|58|f
+Jepson Peak|34.103|-116.845|US|California|58|f
+Jerry Sumners Sr Aurora Municipal Airport|36.964|-93.695|US|Missouri|58|f
+Jervaulx Abbey|54.267|-1.738|GB|England|58|f
+Jesse Morrow Mountain|36.736|-119.408|US|California|58|f
+Jessie Island|-17.674|146.174|AU|Queensland|58|f
+Jessiefjellet|78.598|11.034|SJ|Svalbard|58|f
+Jew Mountain|45.679|-114.225|US|Montana|58|f
+Jew Peak|47.747|-115.722|US|Montana|58|f
+Jewell Island|43.682|-70.093|US|Maine|58|f
+Jewish Museum of Maryland|39.290|-76.601|US|Maryland|58|f
+Jezioro Chełmżyńskie|53.175|18.648|PL|Kujawsko-Pomorskie|58|f
+Jezioro Firlejowski|51.554|22.517|PL|Lublin|58|f
+Jezioro Gant|53.712|21.240|PL|Warmia-Masuria|58|f
+Jezioro Jamno|54.274|16.148|PL|West Pomerania|58|f
+Jezioro Jeziorak|53.739|19.595|PL|Warmia-Masuria|58|f
+Jezioro Juno|53.905|21.295|PL|Warmia-Masuria|58|f
+Jezioro Lednica|52.531|17.375|PL|Greater Poland|58|f
+Jezioro Mamry|54.178|21.694|PL|Warmia-Masuria|58|f
+Jezioro Mikołajskie|53.783|21.589|PL|Warmia-Masuria|58|f
+Jezioro Piniewo|53.939|19.659|PL|Warmia-Masuria|58|f
+Jezera|43.788|15.641|HR|Šibenik-Knin|58
+Jesús|14.640|-92.175|MX|Chiapas|58
+Jezeřany-Maršovice|49.031|16.434|CZ|South Moravian|58
+Jerusalén|16.180|-91.380|MX|Chiapas|58
+Jesús Carranza|18.240|-93.170|MX|Tabasco|58
+Jestřebí|50.609|14.585|CZ|Liberec Region|58
 Jeziorzany|51.602|22.277|PL|Lublin|58
+Jerovec|46.239|16.109|HR|Varaždin|58
+Jettenbach|48.167|12.383|DE|Bavaria|58
+Jeyd|38.480|48.483|IR|Ardabil Province|58
+Jeffersonville|44.644|-72.829|US|Vermont|58
+Jezero|45.970|14.433|SI|Municipality of Brezovica|58
+Jesseren|50.806|5.392|BE|Flanders|57
+Jefferson|34.650|-80.389|US|South Carolina|57
+Jenins|47.001|9.557|CH|Grisons|57
+Jecuán|-11.469|-77.271|PE|Lima region|57
+Jefferson|39.817|-76.842|US|Pennsylvania|57
+Jehonville|49.907|5.200|BE|Wallonia|57
+Jeuxey|48.202|6.488|FR|Grand Est|57
+Jedlí|49.931|16.795|CZ|Olomouc Region|57
 Jerusalén|4.563|-74.695|CO|Cundinamarca|57
+Ježov|49.027|17.210|CZ|South Moravian|57
+Jesús María Acatla|19.190|-97.133|MX|Puebla|57
+Jeandelaincourt|48.843|6.245|FR|Grand Est|57
+Jesús Nazareno (Rancho Nuevo)|18.906|-97.458|MX|Puebla|57
+Jesionka|52.024|20.354|PL|Mazovia|57
+Jefferson|38.375|-81.780|US|West Virginia|57
+Jewett|40.368|-81.005|US|Ohio|57
+Jelna|47.110|24.556|RO|Bistrița-Năsăud County|57
+Jennerstown|40.160|-79.066|US|Pennsylvania|57
+Jesús de Nazareno (La Hacienda)|19.624|-100.328|MX|Michoacán|56
+Jezernice|49.548|17.625|CZ|Olomouc Region|56
 Jedenspeigen|48.498|16.872|AT|Lower Austria|56
+Jeber-Bergfrieden|51.984|12.350|DE|Saxony-Anhalt|56
+Jędrzychowice|51.185|15.016|PL|Lower Silesia|56
+Jesús María Corte|21.723|-104.883|MX|Nayarit|56
+Jersleben|52.244|11.580|DE|Saxony-Anhalt|56
+Jerā|34.413|48.295|IR|Hamadan Province|56
+Jesús Sansón Flores|32.442|-115.373|MX|Baja California|56
+Jesús González Ortega|18.487|-88.669|MX|Quintana Roo|56
+Jeleniewo|54.206|22.912|PL|Podlasie|56
+Jécori|29.937|-109.736|MX|Sonora|56
+Jertovec|46.040|16.187|HR|Krapina-Zagorje|56
+Jennings|17.078|-61.866|AG|Saint Philip Parish|56
+Jeriko|13.583|-15.667|GM|North Bank|56
+Jerzmanowa|51.596|16.045|PL|Lower Silesia|56
+Jestřebí|49.852|16.869|CZ|Olomouc Region|55
 Jezero|44.350|17.169|BA|Srpska|55
+Jerusalén|18.901|-98.586|MX|Puebla|55
+Jeromesville|40.804|-82.196|US|Ohio|55
+Jevišovka|48.829|16.466|CZ|South Moravian|55
 Jeziora Wielkie|52.530|18.268|PL|Kujawsko-Pomorskie|55
+Jennewitz|54.093|11.789|DE|Mecklenburg-Vorpommern|55
+Jervis Bay Village|-35.128|150.704|AU|Australian Capital Territory|55
+Jechtoch|16.725|-92.719|MX|Chiapas|55
+Jena|45.603|22.075|RO|Timiș County|55
+Jeeralang Junction|-38.348|146.413|AU|Victoria|55
+Jesendorf|53.804|11.600|DE|Mecklenburg-Vorpommern|55
+Jesús Carranza|19.704|-100.100|MX|México|54
+Jettingen|47.599|7.373|FR|Grand Est|54
+Jersie|55.525|12.164|DK|Zealand|54
+Jean Lafitte National Historical Park and Preserve|29.824|-90.140|US|Louisiana|54|f
+Jean Lake|35.786|-115.258|US|Nevada|54|f
+Jebel Kissâne|30.704|-6.287|MA|Drâa-Tafilalet|54|f
+Jebensfjellet|78.350|18.486|SJ|Svalbard|54|f
+Jebil National Park|33.017|9.099|TN|Kebili Governorate|54|f
+Jebsen Point|-60.713|-45.671|AQ||54|f
+Jebsen Rocks|-60.705|-45.674|AQ||54|f
+Jeddah King Abdul Aziz International Airport|21.670|39.151|SA|Mecca Region|54|f
+Jedediah Smith Redwoods State Park|41.782|-124.102|US|California|54|f
+Jeffers Glacier|47.779|-123.674|US|Washington|54|f
+Jefferson City Memorial Airport|38.593|-92.152|US|Missouri|54|f
+Jefferson National Expansion Memorial|38.622|-90.176|US|Illinois|54|f
+Jefford Point|-64.397|-57.700|AQ||54|f
+Jegindø|56.648|8.616|DK|Central Jutland|54|f
+Jekselen Peak|-72.000|-2.500|AQ||54|f
+Jellicoe Channel|-36.218|175.000|NZ|Auckland|54|f
+Jellicoe Channel|-36.068|174.790|NZ|Auckland|54|f
+Jelovica|46.300|14.133|SI|Radovljica|54|f
+Jenkins Airport|39.115|-75.584|US|Delaware|54|f
+Jenkins Glacier|-54.778|-36.101|GS||54|f
+Jenkinson Lake|38.723|-120.556|US|California|54|f
+Jenner Glacier|-64.437|-62.549|AQ||54|f
+Jennings Glacier|-71.950|24.367|AQ||54|f
+Jennings Lake|-70.145|72.556|AQ||54|f
+Jenny Jump Mountain|40.920|-74.908|US|New Jersey|54|f
+Jensens Strip|44.909|-117.958|US|Oregon|54|f
+Jeon Ju Airport|35.878|127.120|KR|Jeollabuk-do|54|f
+Jeremy, Cape|-69.402|-68.838|AQ||54|f
+Jericho Dam|-26.641|30.478|ZA|Mpumalanga|54|f
+Jericho Mountain|44.467|-71.223|US|New Hampshire|54|f
+Jerisjärvi|67.903|24.140|FI|Lapland|54|f
+Jervis Bay Airport|-35.147|150.697|AU|New South Wales|54|f
+Jesse Besser Museum|45.080|-83.446|US|Michigan|54|f
+Jesup-Wayne County Airport|31.553|-81.887|US|Georgia|54|f
+Jezero Župica|44.300|16.519|BA|Federation of B&H|54|f
+Jezioro Dąbie|53.852|15.354|PL|West Pomerania|54|f
+Jezioro Dobczyckie|49.869|20.054|PL|Lesser Poland|54|f
+Jezioro Głuszyńskie|52.527|18.647|PL|Kujawsko-Pomorskie|54|f
+Jezioro Gopło|52.610|18.353|PL|Kujawsko-Pomorskie|54|f
+Jezioro Szczytno|53.760|17.181|PL|Pomerania|54|f
+Jezioro Wielki Staw|53.469|19.375|PL|Warmia-Masuria|54|f
+Jefferson|42.602|-96.559|US|South Dakota|54
+Jesenný|50.660|15.338|CZ|Liberec Region|54
+Jerup|57.534|10.417|DK|North Denmark|54
+Jesús Carranza (La Colorada)|31.492|-106.236|MX|Chihuahua|54
+Jerusalén|16.841|-92.468|MX|Chiapas|54
+Jesenice|49.608|14.478|CZ|Central Bohemia|54
+Jeuss|46.904|7.163|CH|Fribourg|54
 Jelenje|45.386|14.451|HR|Primorje-Gorski Kotar|52
 Jenne|41.889|13.170|IT|Lazio|51
+Jean Marie Laran House|30.686|-92.267|US|Louisiana|49|f
+Jebel Hebri|33.362|-5.142|MA|Fes-Meknes|49|f
+Jebel Tassemit|32.304|-6.258|MA|Beni Mellal-Khenifra|49|f
+Jebel Zagora|30.350|-5.750|MA|Drâa-Tafilalet|49|f
+Jeevanjee Gardens|-1.281|36.820|KE|Nairobi County|49|f
+Jefferson Barracks Bridge|38.486|-90.275|US|Missouri|49|f
+Jeffries Glacier|-79.034|-28.128|AQ||49|f
+Jeffries Peak|-64.704|-61.964|AQ||49|f
+Jelica|43.821|20.312|RS||49|f
+Jelim|43.064|17.802|BA|Federation of B&H|49|f
+Jelin|44.927|20.457|RS||49|f
+Jells Park|-37.907|145.200|AU|Victoria|49|f
+Jelm Mountain|41.097|-105.977|US|Wyoming|49|f
+Jennings Promontory|-70.203|72.559|AQ||49|f
+Jennings Reef|-67.771|-68.819|AQ||49|f
+Jensen Hill|41.867|-75.154|US|New York|49|f
+Jeongbang Waterfall|33.245|126.572|KR|Jeju-do|49|f
+Jeremiah Morrow Bridge|39.419|-84.104|US|Ohio|49|f
+Jernbanetorget|59.912|10.750|NO|Oslo|49|f
+Jeroboam Glacier|-65.613|-62.599|AQ||49|f
+Jersey Island|38.036|-121.686|US|California|49|f
+Jerseyfield Mountain|43.264|-74.732|US|New York|49|f
+Jervvasstind|61.465|7.910|NO|Vestland|49|f
+Jesse Viertel Memorial Airport|38.943|-92.685|US|Missouri|49|f
+Jessie Street Gardens|-33.863|151.210|AU|New South Wales|49|f
+Jester Rock|-67.866|-68.695|AQ||49|f
+Jewell Glacier|-54.267|-37.133|GS||49|f
+Jewfish Cay|23.457|-75.941|BS|Exuma|49|f
+Jewish Museum of Florida|25.772|-80.135|US|Florida|49|f
+Jezero Pernica|46.587|15.728|SI|Pesnica|49|f
+Jezero Petnja|45.204|17.952|HR|Brod-Posavina|49|f
+Jezioro Ciemino|53.644|16.564|PL|West Pomerania|49|f
+Jezioro Popielewskie|52.577|17.874|PL|Greater Poland|49|f
+Jezioro Turawskie|50.722|18.125|PL|Opole Voivodeship|49|f
+Jezioro Wierzchucice|53.467|15.583|PL|West Pomerania|49|f
+Jeckenbach|49.717|7.600|DE|Rheinland-Pfalz|49
+Jenalöbnitz|50.950|11.700|DE|Thuringia|44
 Jesenice|44.230|15.578|HR|Zadar|44
+Jeal Point|47.144|-122.900|US|Washington|40|f
+Jean Airport|35.772|-115.329|US|Nevada|40|f
+Jean de Baie|47.217|-55.048|CA|Newfoundland and Labrador|40|f
+Jean Klock Park|42.126|-86.472|US|Michigan|40|f
+Jean Piaget University|-8.908|13.403|AO|Luanda|40|f
+Jeanette Kawas National Park|15.840|-87.678|HN|Atlántida Department|40|f
+Jeanne d'arc|48.864|2.332|FR|Île-de-France|40|f
+Jebel Serj National Park|35.992|9.616|TN|Kairouan|40|f
+Jeddah TV Tower|21.473|39.200|SA|Mecca Region|40|f
+Jefferson Landing State Historic Site|38.581|-92.172|US|Missouri|40|f
+Jefferson Park|33.433|-94.029|US|Arkansas|40|f
+Jefferson Park Glacier|44.685|-121.807|US|Oregon|40|f
+Jeffery Glacier|63.138|-151.076|US|Alaska|40|f
+Jeffery Head|-74.550|-111.900|AQ||40|f
+Jegihorn|46.151|7.970|CH|Valais|40|f
+Jelgava Palace|56.656|23.733|LV|Jelgava|40|f
+Jemez Mountains (Sandoval County)|35.883|-106.367|US|New Mexico|40|f
+Jemez National Recreation Area|35.806|-106.792|US|New Mexico|40|f
+Jenkins Arboretum|40.059|-75.432|US|Pennsylvania|40|f
+Jenks Lake|34.164|-116.882|US|California|40|f
+Jenness Pond|43.257|-71.248|US|New Hampshire|40|f
+Jennings Environmental Education Center|41.010|-80.003|US|Pennsylvania|40|f
+Jennings Peak|-71.533|168.117|AQ||40|f
+Jennings Randolph Bridge|40.616|-80.559|US|West Virginia|40|f
+Jenny Lake|43.764|-110.730|US|Wyoming|40|f
+Jenny Lind Island|68.707|-101.960|CA|Nunavut|40|f
+Jenny Lind Tower|42.040|-70.060|US|Massachusetts|40|f
+Jens Haven|58.912|-63.737|CA|Newfoundland and Labrador|40|f
+Jens Munk Island|69.651|-80.065|CA|Nunavut|40|f
+Jensen Glacier|-85.083|170.800|AQ||40|f
+Jenvey Island|63.584|-68.148|CA|Nunavut|40|f
+Jericho Covered Bridge|39.460|-76.387|US|Maryland|40|f
+Jerome Park Reservoir|40.879|-73.895|US|New York|40|f
+Jerome State Historic Park|34.754|-112.112|US|Arizona|40|f
+Jerry Glacier|48.743|-120.916|US|Washington|40|f
+Jerry Hill|33.691|-85.782|US|Alabama|40|f
+Jessie Lake|54.250|-110.733|CA|Alberta|40|f
+Jessup Covered Bridge|39.664|-87.256|US|Indiana|40|f
+Jetty Island|48.007|-122.229|US|Washington|40|f
+Jew Point|25.287|-80.329|US|Florida|40|f
+Jewel Box|38.635|-90.280|US|Missouri|40|f
+Jewel Cave National Monument|43.731|-103.830|US|South Dakota|40|f
+Jewel Geyser|44.485|-110.856|US|Wyoming|40|f
+Jewel Lake|37.912|-122.269|US|California|40|f
+Jewfish Point|33.320|-118.303|US|California|40|f
+Jewish Museum Berlin|52.502|13.395|DE|State of Berlin|40|f
+Jewish Museum of Greece|37.973|23.733|GR|Attica|40|f
+Jezek Glacier|-77.983|162.217|AQ||40|f
+Jezero Hrast|44.033|16.874|BA|Federation of B&H|40|f
+Jezero Jarun|45.782|15.916|HR|Zagreb|40|f
+Jezerska Kočna|46.359|14.523|SI|Municipality of Preddvor|40|f
+Jezioro Czorsztynskie|49.441|20.268|PL|Lesser Poland|40|f
 Jeberos|-5.283|-76.283|PE|Loreto|0
+Jeblog Satu|-8.119|112.263|ID|East Java|0
 Jebus|-1.743|105.455|ID|Bangka–Belitung Islands|0
+Jeding|-7.917|114.145|ID|East Java|0
+Jedung|-8.117|111.730|ID|East Java|0
 Jeffreyston|51.725|-4.768|GB|Wales|0
+Jegu|-8.151|112.235|ID|East Java|0
+Jejelok|-8.612|116.166|ID|West Nusa Tenggara|0
+Jejerukrajan|-6.975|111.449|ID|Central Java|0
+Jelagax|46.601|83.920|CN|Xinjiang|0
+Jelat|-7.284|108.385|ID|West Java|0
+Jelateng Timur|-8.755|116.085|ID|West Nusa Tenggara|0
 Jelbuk|-8.082|113.759|ID|East Java|0
+Jeleuk|-6.893|112.964|ID|East Java|0
+Jelun Krajan|-8.215|114.279|ID|East Java|0
+Jembangan|-6.711|111.211|ID|Central Java|0
+Jembangan|-6.954|111.380|ID|Central Java|0
+Jembatandua|-7.136|107.988|ID|West Java|0
+Jembayan Hitam|-8.221|124.543|ID|East Nusa Tenggara|0
+Jembe Timur|-8.715|116.411|ID|West Nusa Tenggara|0
+Jemblem|-6.750|111.240|ID|Central Java|0
 Jembrana Subdistrict|-8.315|114.576|ID|Bali|0
+Jembul Kulon|-6.547|110.998|ID|Central Java|0
 Jemielno|51.524|16.543|PL|Lower Silesia|0
+Jeminay|47.500|85.618|CN|Xinjiang|0
 Jemo Island|10.079|169.524|MH||0|r
 Jenamas|-2.446|114.908|ID|Central Kalimantan|0
+Jenang Selatan|-7.300|108.760|ID|Central Java|0
 Jeneponto|-5.676|119.748|ID|South Sulawesi|0
 Jenggawah|-8.266|113.648|ID|East Java|0
+Jengglungharjo|-8.241|111.896|ID|East Java|0
+Jeong|-8.585|120.230|ID|East Nusa Tenggara|0
 Jeongnyang|35.083|127.777|KR|Gyeongsangnam-do|0
 Jeongok|38.026|127.070|KR|Gyeonggi-do|0
+Jepang|-7.024|111.257|ID|Central Java|0
+Jepang Satu|-7.014|111.421|ID|Central Java|0
 Jepara|-5.169|105.704|ID|Lampung|0
+Jepat Kidul|-6.557|111.052|ID|Central Java|0
 Jepon|-6.973|111.480|ID|Central Java|0
+Jepon|-6.912|113.629|ID|East Java|0
+Jeponkrajan|-6.979|111.479|ID|Central Java|0
+Jepun|-8.075|111.911|ID|East Java|0
+Jepuro|-6.728|111.145|ID|Central Java|0
+Jeratmaling|-6.897|112.996|ID|East Java|0
+Jeru|-8.162|112.675|ID|East Java|0
+Jeruk|-6.735|111.441|ID|Central Java|0
+Jeruk|-6.939|111.507|ID|Central Java|0
+Jeruklegi|-7.624|109.019|ID|Central Java|0
+Jerukporot|-6.940|114.001|ID|East Java|0
 Jesús|-7.250|-78.380|PE|Cajamarca Department|0
 Jesús María|-2.568|-79.546|EC|Guayas|0
+Jetak|-7.032|111.264|ID|Central Java|0
+Jetak|-6.673|111.098|ID|Central Java|0
+Jetak|-6.956|111.907|ID|East Java|0
+Jetak|-6.814|111.130|ID|Central Java|0
+Jetak Kulon|-6.674|111.091|ID|Central Java|0
+Jetaral|47.098|87.445|CN|Xinjiang|0
 Jete|36.797|-3.667|ES|Andalusia|0
+Jetis|-7.214|111.518|ID|Central Java|0
+Jetis|-7.120|112.420|ID|East Java|0
+Jetis|-6.976|111.410|ID|Central Java|0
 Jetis|-6.912|111.626|ID|East Java|0
+Jetis|-6.978|112.432|ID|East Java|0
+Jetis|-8.201|113.565|ID|East Java|0
 Jezzine|33.542|35.584|LB|South Governorate|0

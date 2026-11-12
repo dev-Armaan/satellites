@@ -3,8 +3,8 @@ Akure|7.253|5.193|NG|Ondo State|117
 Aktobe|48.617|58.600|KZ||116|r
 Aktobe|50.280|57.207|KZ|Aktobe|114
 Akola|20.710|76.998|IN|Maharashtra|113
-Aksaray|38.373|34.025|TR|Aksaray|110
 Akershus|60.000|11.167|NO||110|r
+Aksaray|38.373|34.025|TR|Aksaray|110
 Akowonjo|6.610|3.310|NG|Lagos|110
 Akita|39.717|140.117|JP|Akita|110
 Akashi|34.655|135.007|JP|Hyōgo|110
@@ -13,6 +13,7 @@ Akhmīm|26.562|31.746|EG|Sohag|104
 Aktau|43.661|51.174|KZ|Mangystau|103
 Akishima|35.721|139.380|JP|Tokyo|101
 'Ākra|36.734|43.880|IQ|Nineveh|100
+Akashi Kaikyō Bridge|34.616|135.021|JP||100|f
 Akademicheskoe|60.014|30.395|RU|Leningradskaya Oblast'|100
 Aksum|14.121|38.723|ET|Tigray|100
 Akot|21.096|77.059|IN|Maharashtra|99
@@ -54,13 +55,16 @@ Aklera|24.413|76.567|IN|Rajasthan|88
 Aksu|42.422|69.827|KZ|Turkistan|88
 Akune|32.017|130.200|JP|Kagoshima|88
 Akyazı|40.685|30.622|TR|Sakarya|88
+Akureyri Airport|65.660|-18.073|IS|Northeast|88|f
 Akdağmadeni|39.660|35.884|TR|Yozgat|87
 Akaltara|22.025|82.426|IN|Chhattisgarh|87
 Akaike|33.692|130.765|JP|Fukuoka|87
 Akhnūr|32.895|74.735|IN|Jammu and Kashmir|86
 Akhtyrskiy|44.855|38.303|RU|Krasnodar Krai|86
 Akureyri|65.684|-18.088|IS|Northeast|86
+Akita Airport|39.616|140.219|JP|Akita|86|f
 Akbarpur|26.384|79.949|IN|Uttar Pradesh|85
+Aktau Airport|43.860|51.092|KZ|Mangystau|85|f
 Akalkuva|21.554|74.019|IN|Maharashtra|85
 Akitsu|35.774|139.491|JP|Tokyo|85
 Akasaka|35.671|139.734|JP|Tokyo|85
@@ -75,15 +79,21 @@ Akabira|43.551|142.053|JP|Hokkaido|83
 Akdepe|42.055|59.379|TM|Dasoguz|83
 Akhty|41.459|47.732|RU|Dagestan|83
 Ak-Suu|42.499|78.527|KG|Issyk-Kul|83
+Akutan Island|54.128|-165.918|US|Alaska|82|f
 Ak-Dovurak|51.175|90.598|RU|Republic of Tyva|82
 Akoda|26.533|78.904|IN|Madhya Pradesh|82
+Akola Airport|20.699|77.059|IN|Maharashtra|81|f
 Akodia|23.380|76.599|IN|Madhya Pradesh|81
 Akseki|37.049|31.790|TR|Antalya|81
 Akropong|5.975|-0.085|GH|Eastern|81
+Akashi Castle|34.653|134.992|JP|Hyōgo|81|f
+Akshardham|28.614|77.278|IN|Uttar Pradesh|81|f
 Akabane|35.782|139.721|JP|Tokyo|81
 Akaiwa|36.207|139.439|JP|Gunma|81
 Aklim|34.920|-2.430|MA|Oriental|80
 Aksu|40.090|38.035|TR|Sivas|80
+Aksi|59.599|25.090|EE|Harjumaa|80|f
+Akun Island|54.188|-165.529|US|Alaska|80|f
 Akbez|36.856|36.518|TR|Hatay|80
 Akkuş|40.793|37.016|TR|Ordu|80
 Akil|20.265|-89.347|MX|Yucatán|80
@@ -93,17 +103,23 @@ Aktau|48.033|72.833|KZ|Karaganda|80
 Aktyubinskiy|54.814|52.806|RU|Tatarstan Republic|80
 Aktas|49.780|72.961|KZ|Karaganda|80
 Akom II|2.783|10.567|CM|South|80
+Akure Airport|7.247|5.301|NG|Ondo State|80|f
 Akhuryan|40.781|43.900|AM|Shirak|80
 Aktau|50.235|73.067|KZ|Karaganda|80
 Aken|51.853|12.045|DE|Saxony-Anhalt|79
 Aksubayevo|54.847|50.796|RU|Tatarstan Republic|79
 Akdepe|38.308|57.598|TM|Ahal|79
 Ākera|27.012|75.809|IN|Rajasthan|79
+Akhiok Airport|56.940|-154.181|US|Alaska|79|f
+Ákra Kyllíni|37.942|21.139|GR|West Greece|79|f
+Ákra Maléas|36.435|23.198|GR|Peloponnese|79|f
+Akron Fulton Airport|41.037|-81.467|US|Ohio|79|f
 Aksay|43.373|46.445|RU|Dagestan|79
 Akkeshi|43.036|144.852|JP|Hokkaido|79
 Ak’ordat|15.548|37.883|ER|Gash-Barka|79
 Aksu|52.444|71.958|KZ|Aqmola|79
 Akkistau|47.221|51.006|KZ|Atyrau Oblisi|79
+Akrotírio Apóstolos Andréas|35.695|34.587|CY|Ammochostos|78|f
 Akridou|5.627|-5.607|CI|Goh-Djiboua|78
 Akaa|61.167|23.867|FI|Pirkanmaa|78
 Akiéni|-1.175|13.876|GA|Haut-Ogooué|78
@@ -118,6 +134,7 @@ Akradio|5.437|-4.364|CI|Lagunes District|77
 Aktsyabrski|52.648|28.880|BY|Homyel’ Voblasc’|77
 Aksakovo|43.259|27.818|BG|Varna|77
 Akaira|28.231|76.851|IN|Haryana|77
+Akimiski Island|53.008|-81.275|CA|Nunavut|77|f
 Akankpa|5.126|8.190|NG|Cross River State|77
 Akālgarh|29.821|75.891|IN|Punjab|77
 Akhand|27.436|52.750|IR|Bushehr|77
@@ -125,6 +142,9 @@ Akdaş|40.042|53.127|TM|Balkan|77
 Aksuat|48.717|83.700|KZ||77
 Akaren|28.317|129.933|JP|Kagoshima|76
 Ake-Eze|5.917|7.676|NG|Enugu State|76
+Akdamar Adası|38.341|43.036|TR|Van|76|f
+Akieni Airport|-1.140|13.904|GA|Haut-Ogooué|76|f
+Akulivik Airport|60.819|-78.149|CA|Quebec|76|f
 Akpessékro|6.725|-5.306|CI|Yamoussoukro|76
 Akko|10.289|10.973|NG|Gombe State|76
 Åkarp|55.654|13.111|SE|Skåne|76
@@ -139,11 +159,17 @@ Akarsu|37.226|41.051|TR|Mardin|75
 Åkarp|58.233|13.650|SE|Västra Götaland|75
 Akgoňur|38.091|58.061|TM|Ahal|75
 Akersloot|52.561|4.733|NL|North Holland|75
+Aksai Chin Lake|35.213|79.854|CN|Xinjiang|74|f
 Åkrehamn|59.261|5.187|NO|Rogaland|74
 Akusha|42.275|47.345|RU|Dagestan|74
 Aknoul|34.654|-3.868|MA|Fes-Meknes|74
 Akıncılar|40.072|38.343|TR|Sivas|74
 Aksu-Ayuly|48.768|73.673|KZ|Karaganda|73
+Akashi Strait|34.625|135.008|JP|Hyōgo|73|f
+Ákra Vasilikós|37.728|20.993|GR|Ionian Islands|73|f
+Ákra Zostír|37.798|23.788|GR|Attica|73|f
+Akrotiri Bay|34.633|33.083|CY||73|f
+Akrotírio Kormakítis|35.403|32.921|CY|Keryneia|73|f
 Akkupalle Gokavaram|16.838|81.349|IN|Andhra Pradesh|73
 Akalékro|5.611|-4.825|CI|Lagunes District|73
 Akana|35.000|132.717|JP|Shimane|73
@@ -154,6 +180,7 @@ Akabréboua|5.893|-5.649|CI|Goh-Djiboua|73
 Akounougbé|5.183|-3.178|CI|Comoé District|73
 Akráta|38.155|22.318|GR|West Greece|73
 Akkol’|48.774|53.182|KZ|Atyrau Oblisi|73
+Aklavik/Freddie Carmichael Airport|68.223|-135.006|CA|Northwest Territories|72|f
 Aketikandun|38.334|85.570|CN|Xinjiang|72
 Aknada|42.402|46.172|RU|Dagestan|72
 Akron|40.157|-76.202|US|Pennsylvania|72
@@ -165,6 +192,8 @@ Akhunovo|54.208|59.602|RU|Bashkortostan Republic|72
 Akababa|33.100|131.074|JP|Kumamoto|71
 Aktogay|48.167|75.300|KZ|Karaganda|71
 Akunk|40.161|45.727|AM|Gegharkunik|71
+Akseløya|77.719|14.675|SJ||71|f
+Aksu Airport|41.263|80.292|CN|Xinjiang|71|f
 Akhaldaba|41.654|42.152|GE|Adjara|71
 Akréby|6.144|-3.385|CI|Comoé District|71
 Akasztó|46.692|19.204|HU|Bács-Kiskun|71
@@ -177,6 +206,8 @@ Akkışla|39.002|36.174|TR|Kayseri|70
 Aknalich|40.147|44.167|AM|Armavir|70
 Akkrum|53.050|5.831|NL|Friesland|70
 Aksakovo|54.033|54.150|RU|Bashkortostan Republic|70
+Ak-Chin Regional Airport|32.990|-111.917|US|Arizona|70|f
+Ákra Mávros|35.281|26.245|GR|Crete|70|f
 Akroidokikro|7.317|-3.140|CI|Zanzan District|70
 Akasaka-nakano|37.047|140.502|JP|Fukushima|70
 Ak-Jol|41.567|72.195|KG|Jalal-Abad Region|70
@@ -192,6 +223,9 @@ Akbaba|41.151|29.117|TR|Istanbul|69
 Akáki|35.133|33.129|CY|Nicosia|69
 Åkers Styckebruk|59.250|17.083|SE|Södermanland|69
 Akowébo|6.945|-5.874|CI|Sassandra-Marahoue|69
+Akiyuri-tō|43.367|146.006|RU|Sakhalin Oblast|69|f
+Ákra Kástellos|36.667|24.857|GR|South Aegean|69|f
+Ákra Voúxa|35.624|23.598|GR|Crete|69|f
 Akyeniköy|37.495|27.303|TR|Aydın|69
 Akkuly|51.470|77.779|KZ|Pavlodar Region|69
 Akkol|51.994|70.947|KZ|Aqmola|68
@@ -212,6 +246,12 @@ Akouaba|6.541|-3.420|CI|Comoé District|67
 Akori|41.090|44.617|AM|Lori|67
 Akimouyaokro|6.916|-5.107|CI|Yamoussoukro|67
 Akraifnía|38.457|23.221|GR|Central Greece|67
+Aka Island|26.199|127.279|JP|Okinawa|67|f
+Akan Ko|43.453|144.102|JP|Hokkaido|67|f
+Åkrafjorden|59.748|5.998|NO|Vestland|67|f
+Akrotiri Airfield|34.590|32.989|GB||67|f
+Aktobe International Airport|50.246|57.207|KZ|Aktobe|67|f
+Akuseki-shima|29.461|129.603|JP|Kagoshima|67|f
 Akouré|5.377|-3.748|CI|Lagunes District|67
 Akakomoékrou|7.448|-3.524|CI|Lacs District|67
 Akouai-Santai|5.366|-3.898|CI|Abidjan Autonomous District|67
@@ -222,6 +262,15 @@ Akçaköy|37.964|28.022|TR|Aydın|66
 Akalpur|31.054|75.760|IN|Punjab|66
 Akossikro|7.169|-4.404|CI|Lacs District|66
 Akbarābād|30.105|53.108|IR|Fars|66
+Akaiami|-18.906|-159.730|CK||65|f
+Akerøya|59.047|10.885|NO|Østfold|65|f
+Akersvatnet|66.166|14.394|NO|Nordland|65|f
+Akiaki|-18.558|-139.212|PF|Tuamotu-Gambier Islands|65|f
+Akita Port Tower|39.753|140.061|JP|Akita|65|f
+Ako Castle|34.746|134.389|JP|Hyōgo|65|f
+Ákra Voroskópos|39.856|25.356|GR|North Aegean|65|f
+Akron Airport|43.022|-78.483|US|New York|65|f
+Akšuvonjiekki|70.180|22.060|NO|Finnmark|65|f
 Akoye Ndénou|7.238|-5.071|CI|Lacs District|65
 Akçakonak|37.700|27.367|TR|Aydın|65
 Akbakay|45.129|72.672|KZ|Zhambyl|65
@@ -246,6 +295,11 @@ Akgedik|36.958|34.909|TR|Mersin|64
 Akasahebpet|17.505|82.566|IN|Andhra Pradesh|64
 Aktaío|38.304|21.794|GR|West Greece|63
 Akossiom|7.567|-2.983|CI|Zanzan District|63
+Akámas|35.051|32.312|CY|Pafos|63|f
+Akiachak Airport|60.906|-161.427|US|Alaska|63|f
+Akkajaure|67.633|17.800|SE|Norrbotten|63|f
+Áktion|38.940|20.769|GR|West Greece|63|f
+Akwapim-Togo Ranges|7.417|0.667|GH||63|f
 Akobakabo|6.703|-4.400|CI|Lacs District|63
 Akron|42.829|-96.559|US|Iowa|63
 Akhalgori|42.124|44.483|GE|Mtskheta-Mtianeti|63
@@ -272,6 +326,11 @@ Akron|41.038|-86.028|US|Indiana|61
 Akyar|39.464|27.999|TR|Balıkesir|61
 Akabia|6.036|-5.454|CI|Goh-Djiboua|61
 Akdiken|36.725|39.309|TR|Şanlıurfa|61
+Akebono Glacier|-68.117|42.883|AQ||61|f
+Akoğlu Adası|39.350|26.714|TR|Balıkesir|61|f
+Akron City Reservoir|41.384|-81.204|US|Ohio|61|f
+Akuliarutsip Sermerssua|73.050|-28.217|GL||61|f
+Akwa Ibom International Airport|4.876|8.086|NG|Akwa Ibom State|61|f
 Akriní|40.435|21.906|GR|West Macedonia|61
 Akköy|37.491|27.269|TR|Aydın|61
 Akalan|41.256|28.419|TR|Istanbul|61
@@ -282,11 +341,148 @@ Akutan|54.134|-165.775|US|Alaska|60
 Akpuibo|7.501|-5.041|CI|Vallée du Bandama District|60
 Akayaokro|6.768|-5.002|CI|Yamoussoukro|60
 Akçıra|38.851|43.098|TR|Bitlis|60
+Akçaburç|37.249|37.321|TR|Gaziantep|60
+Akkuyu|37.092|35.416|TR|Adana|60
+Aktachy|44.759|33.745|UA|Crimea|60
+Akpla|7.846|-5.026|CI|Vallée du Bandama District|60
+Akbarpur Kalān|31.039|75.406|IN|Punjab|59
+Aksaağaç|37.907|36.206|TR|Adana|59
+Ak|38.147|56.119|TM||59
+Akhisar|38.290|34.096|TR|Aksaray|59
+Aka Akaffoukro|7.357|-4.985|CI|Lacs District|59
+Akören|40.161|43.005|TR|Kars Province|59
+Akören|37.454|35.446|TR|Adana|59
+Akçakoyun|39.816|27.163|TR|Canakkale|59
+Aka-Ahoussikro|6.890|-4.243|CI|Lacs District|59
+Akyuva|38.540|30.483|TR|Afyonkarahisar Province|59
+Akuvikro|6.551|-4.854|CI|Lacs District|59
+Ak-Chin Village|33.028|-112.088|US|Arizona|59
+Akakobénankro|7.189|-3.038|CI|Zanzan District|59
+Akyazı|37.162|40.567|TR|Mardin|59
+Akçakent|38.084|34.090|TR|Aksaray|59
+Aksu|38.077|28.331|TR|Aydın|58
+Akoudjé|5.806|-4.821|CI|Lagunes District|58
+Akıncılar|37.535|40.136|TR|Mardin|58
+Akyamaç|41.466|32.103|TR|Zonguldak Province|58
+Aké-Douanier|6.097|-4.431|CI|Lagunes District|58
+‘Akaka Falls State Park|19.858|-155.156|US|Hawaii|58|f
+Akarnaniká Óri|38.790|21.002|GR|West Greece|58|f
+Akarui, Cape|-68.450|41.450|AQ||58|f
+Akhwibong|36.738|127.958|KR|North Chungcheong|58|f
+Ákra Kechriés|37.868|23.002|GR|Peloponnese|58|f
+Ákra Megatzédes|35.262|26.224|GR|Crete|58|f
+Akreavenek Island|63.434|-90.650|CA|Nunavut|58|f
+Akron-Canton Regional Airport|40.916|-81.442|US|Ohio|58|f
+Akron-Washington County Airport|40.175|-103.222|US|Colorado|58|f
+Akuliaruseq Peninsula|71.500|-52.250|GL|Avannaata|58|f
+Aklou Gbangbokro|7.672|-4.842|CI|Vallée du Bandama District|58
+Akoba|37.943|41.056|TR|Diyarbakır Province|58
+Akouédo|5.349|-3.952|CI|Abidjan Autonomous District|58
+Akçatepe|37.811|38.017|TR|Adıyaman Province|58
+Akakro|7.826|-5.017|CI|Vallée du Bandama District|58
+Akbaş|37.977|41.059|TR|Diyarbakır Province|58
+Akçakese|40.913|30.087|TR|Kocaeli|58
+Akçayır|37.991|40.990|TR|Diyarbakır Province|58
+Akçayol|37.533|43.018|TR|Şırnak|58
+Akören|41.192|35.462|TR|Samsun|58
+Akbaş|41.369|32.323|TR|Bartın|57
+Akçörten|37.923|39.502|TR|Diyarbakır Province|57
+Akhinós|38.893|22.725|GR|Central Greece|57
+Akyar|37.161|30.181|TR|Antalya|57
+Akça|37.854|41.183|TR|Batman|57
+Akmanlar|41.539|32.226|TR|Bartın|57
+Akpınar|37.758|37.734|TR|Adıyaman Province|57
+Akbulak|38.393|40.990|TR|Diyarbakır Province|57
+Akdizgin|37.442|42.000|TR|Şırnak|57
+Akaroa|-43.804|172.968|NZ|Canterbury|57
+Akproabo|7.645|-5.314|CI|Vallée du Bandama District|57
+Akrotiri|34.601|32.955|GB||57
+Akunk|40.426|43.903|AM|Aragatsotn|57
+Akakro|6.644|-5.107|CI|Lacs District|57
+Akropótamos|40.789|24.035|GR|East Macedonia and Thrace|57
+Akayao|7.699|-3.375|CI|Zanzan District|57
+Akıncılar|41.515|32.304|TR|Bartın|57
+Akçakale|40.561|42.665|TR|Kars Province|56
+Akanangbo|7.547|-3.887|CI|Lacs District|56
+Aksoy|37.221|41.676|TR|Mardin|56
+Akulivik|60.801|-78.199|CA|Quebec|56
+Akokoro|6.776|-3.512|CI|Comoé District|56
+Akropotamiá|39.094|21.020|GR|Epirus|56
+Akdilek|39.158|42.964|TR|Ağrı|56
+Aktove|47.706|31.458|UA|Mykolaiv|56
+Akhíllio|39.005|22.961|GR|Thessaly|56
+Akçadere|38.628|29.984|TR|Afyonkarahisar Province|56
+Akiachak|60.909|-161.431|US|Alaska|56
+Akataki|34.303|135.882|JP|Nara|56
+Akkeçili|37.931|29.952|TR|Afyonkarahisar Province|56
+Akarçay|36.919|38.027|TR|Şanlıurfa|56
+Aklavik|68.219|-135.011|CA|Northwest Territories|55
+Akin|38.455|34.048|TR|Aksaray|55
+Akarca|36.870|34.414|TR|Mersin|55
+Akvaskia|42.820|41.566|GE|Abkhazia|55
+Akrifoukro|7.485|-4.351|CI|Lacs District|55
+Akçalıuşağı|37.688|36.034|TR|Adana|55
+Akören|40.804|35.761|TR|Amasya|55
+Akbaş|37.059|31.145|TR|Antalya|55
+Akçamescit|41.528|32.357|TR|Bartın|55
+Akhlatyan|39.439|46.042|AM|Syunik|55
+Akafou-Ndrikro|7.641|-4.390|CI|Lacs District|55
+Akayakro|7.716|-5.511|CI|Vallée du Bandama District|55
+Akçesir|38.447|41.265|TR|Diyarbakır Province|55
+Akçam|39.860|41.982|TR|Erzurum|55
+Akçapınar|39.926|26.324|TR|Canakkale|55
+Akdurak|37.482|37.882|TR|Adıyaman Province|54
+Akziyaret|37.200|40.508|TR|Mardin|54
+Akadimia Platonos|37.992|23.707|GR|Attica|54|f
+Akaro|-10.018|-161.083|CK||54|f
+Aker Lake|33.617|-109.344|US|Arizona|54|f
+Akiak Airport|60.905|-161.227|US|Alaska|54|f
+Akitua|-18.850|-159.756|CK||54|f
+Akköy Barajı|38.318|35.029|TR|Kayseri|54|f
+Akksjøen|60.786|9.926|NO|Innlandet|54|f
+Aknajärv|59.274|27.589|EE|Ida-Virumaa|54|f
+Akyab|20.133|92.873|MM|Rakhine|54|f
+Akyar Barajı|40.608|32.587|TR|Ankara|54|f
+Akessémossou|6.615|-4.700|CI|Lacs District|54
+Akçabel|37.801|37.802|TR|Adıyaman Province|54
+Akeley|52.034|-0.970|GB|England|54
+Aksaz|40.440|27.173|TR|Canakkale|54
+Akça|37.609|41.294|TR|Batman|54
+Akner|41.082|44.692|AM|Lori|54
+Aktaş|37.954|41.807|TR|Siirt|54
+Aker Peaks|-66.617|55.233|AQ||49|f
+Akia|61.517|-42.550|GL|Kujalleq|49|f
+Akilia|63.940|-51.672|GL|Sermersooq|49|f
+Akkale|36.529|34.223|TR|Mersin|49|f
+Akobo Airport|7.777|33.003|SS|Jonglei|49|f
+Akpaka Airport|7.522|1.193|TG|Plateaux|49|f
+Akuna Bay|-33.644|151.236|AU|New South Wales|49|f
+Akure Forest Reserve|7.294|5.034|NG|Ondo State|49|f
+Akure Ofosu Forest Reserve|6.945|5.350|NG|Ondo State|49|f
+Akurey|64.173|-21.965|IS|Capital Region|49|f
+Ak Sar Ben Bridge|41.260|-95.922|US|Iowa|40|f
+Akaitcho Lake|66.534|-115.702|CA|Northwest Territories|40|f
+Akaiyan Lake|48.620|-113.777|US|Montana|40|f
+Akamina-Kishinena Park|49.025|-114.202|CA|British Columbia|40|f
+Akan National Park|43.568|144.402|JP|Hokkaido|40|f
+Akasik Mountain|50.239|-121.764|CA|British Columbia|40|f
+Akers Pond|44.792|-71.150|US|New Hampshire|40|f
+Aketajawe-Lolobata National Park|1.150|128.267|ID|Maluku|40|f
+Akka|67.583|17.417|SE|Norrbotten|40|f
+Akpatok Island|60.417|-68.131|CA|Nunavut|40|f
+Akporvik Hill|68.908|-164.439|US|Alaska|40|f
+Akraberg Mediumwave Transmitter, Large Mast|61.398|-6.683|FO|Suðuroy|40|f
+Akron Zoo|41.079|-81.541|US|Ohio|40|f
+Aksdalsvatnet|59.409|5.421|NO|Rogaland|40|f
+Akuglek Island|65.617|-62.464|CA|Nunavut|40|f
+Akulagok Island|65.734|-65.847|CA|Nunavut|40|f
+Akvitlak Islands|68.201|-112.236|CA|Nunavut|40|f
 Ak-Say|39.874|70.522|KG|Batken|0
 Ak-Suu|39.899|69.372|KG|Batken|0
 Ak-Tatyr|39.960|70.485|KG|Batken|0
 Akamkpa|5.312|8.355|NG|Cross River State|0
 Akanran|7.281|4.026|NG|Oyo State|0
+Akarakar|-8.221|116.343|ID|West Nusa Tenggara|0
 Akarsu|39.929|38.614|TR|Erzincan|0
 Akat Amnuai|17.596|103.982|TH|Sakon Nakhon|0
 Akbulak|51.001|55.620|RU|Orenburg Oblast|0
@@ -294,6 +490,8 @@ Akçakent|39.623|34.096|TR|Kırşehir|0
 Akcakışla|39.538|36.336|TR|Sivas|0
 Akçaova|41.038|29.951|TR|Kocaeli|0
 Akdağ|40.712|35.976|TR|Amasya|0
+Akdala|42.989|81.380|CN|Xinjiang|0
+Akebielidou|46.217|83.433|CN|Heilongjiang|0
 Aketao|39.135|75.931|CN|Xinjiang|0
 Akhtarīn|36.511|37.336|SY|Aleppo|0
 Akinima|5.085|6.466|NG|Rivers State|0
@@ -317,6 +515,7 @@ Aksu|36.941|30.824|TR|Antalya|0
 Aktepe|36.702|36.485|TR|Hatay|0
 Aktogay|48.316|74.983|KZ|Karaganda|0
 Aktuzla|39.330|42.285|TR|Muş|0
+Akubala|-8.261|125.138|ID|East Nusa Tenggara|0
 Akwete|4.887|7.357|NG|Abia State|0
 Akwukwu-Igbo|6.358|6.591|NG|Delta|0
 Akziyaret|37.353|38.796|TR|Şanlıurfa|0

@@ -23,6 +23,7 @@ San Nicolás Tolentino|19.359|-99.572|MX|México|77
 San Nicolás Guadalupe|19.615|-100.031|MX|México|75
 San Nicolás de los Ranchos|19.071|-98.486|MX|Puebla|75
 San Nicolás|20.478|-99.940|MX|Querétaro|75
+San Nicolás de Bari Airport|22.756|-81.921|CU|Mayabeque|74|f
 Sannazzaro de' Burgondi|45.102|8.906|IT|Lombardy|74
 San Nicolò a Tordino|42.696|13.797|IT|Abruzzo|74
 Sannicola|40.092|18.068|IT|Apulia|74
@@ -56,6 +57,7 @@ San Nicolás|18.933|-99.568|MX|México|64
 San Nicolás Parangueo|20.394|-101.254|MX|Guanajuato|64
 San Nicolás del Cármen|21.274|-100.550|MX|Guanajuato|64
 Sannerville|49.180|-0.224|FR|Normandy|64
+San Nicolas Island|33.249|-119.500|US|California|63|f
 San-Nicolao|42.370|9.514|FR|Corsica|63
 San Nicolás el Oro|19.805|-100.119|MX|México|63
 San Nicolás Tolentino|19.185|-100.241|MX|México|63
@@ -66,6 +68,7 @@ San Nicola Arcella|39.843|15.786|IT|Calabria|62
 Sânnicoară|46.790|23.726|RO|Cluj County|62
 Sânnicolau Român|46.961|21.715|RO|Bihor County|62
 San Nicolás el Chico|20.096|-98.390|MX|Hidalgo|61
+Sanna|66.506|12.047|NO|Nordland|61|f
 San Nicola da Crissa|38.664|16.286|IT|Calabria|61
 San Niccolò di Celle|43.017|12.383|IT|Umbria|61
 San Nicolò|38.634|15.851|IT|Calabria|61
@@ -76,18 +79,47 @@ San Nicolás Quialana|16.843|-96.779|MX|Oaxaca|60
 San Nico|39.669|16.432|IT|Calabria|60
 San Nicolás de la Condesa|20.234|-100.782|MX|Guanajuato|60
 San Nicolás|21.677|-98.778|MX|San Luis Potosí|60
+San Nicolás|20.468|-103.818|MX|Jalisco|60
+Sânnicolau de Munte|47.304|22.137|RO|Bihor County|60
+San Nicolás|14.717|-87.350|HN|Comayagua Department|60
+San Nicolás|20.946|-99.164|MX|Hidalgo|59
 San Nicola dell'Alto|39.291|16.972|IT|Calabria|59
+San Nicolás|18.973|-99.495|MX|México|59
 San Nicolo'Gerrei|39.498|9.306|IT|Sardinia|58
+Sanningasoq|67.083|-50.583|GL|Qeqqata|58|f
 San Nicolás|16.416|-96.740|MX|Oaxaca|58
+San Nicolás Tenexcalco|18.481|-98.596|MX|Puebla|58
 San Nazzaro|41.052|14.857|IT|Campania|58
+San Nicolás|20.560|-104.108|MX|Jalisco|58
+San Nicolás Plan de Ayutla|15.720|-92.606|MX|Chiapas|58
+San Nazzaro|45.076|9.899|IT|Emilia-Romagna|58
 San Nicola|38.212|15.694|IT|Calabria|57
 San Nazario|45.840|11.689|IT|Veneto|57
 San Nicola Manfredi|41.075|14.824|IT|Campania|57
+San Nicolò|44.708|11.710|IT|Emilia-Romagna|57
 San Nicolás de Carretas|28.250|-106.510|MX|Chihuahua|57
+San Nicolás|16.977|-100.127|MX|Guerrero|57
+San Nicolás (Animazco)|19.842|-97.447|MX|Puebla|57
+San Nicolás Tumbastatiro (Cañada de Abajo)|19.996|-101.343|MX|Michoacán|57
+San Nicolás|19.558|-96.767|MX|Veracruz|57
 San Nicola Baronia|41.058|15.200|IT|Campania|56
 San Nazzaro Sesia|45.438|8.425|IT|Piedmont|56
 San Nicolás Tolentino|22.249|-100.552|MX|San Luis Potosí|56
+San Nicolás|15.892|-92.728|MX|Chiapas|56
+San Nazzaro|46.132|8.803|CH|Ticino|56
+San Nicolás de Manantiales|20.397|-100.964|MX|Guanajuato|56
+San Nicolás Quiriceo|20.453|-101.287|MX|Guanajuato|56
+San Nicolás del Palenque|20.986|-101.903|MX|Guanajuato|56
+San Nicolás Cebolletas (Cebolletas)|20.160|-98.345|MX|Hidalgo|56
+San Nicolás|16.059|-93.808|MX|Chiapas|56
+San Nicolás|20.177|-101.518|MX|Michoacán|56
+San Nicolás (La Burrera)|18.437|-96.142|MX|Veracruz|55
+San Nicolas Airport|-6.392|-77.501|PE|Amazonas|54|f
+San Nicolás Coatzontla|20.872|-98.852|MX|Hidalgo|54
+San Nicolás Arroyo Hondo|18.535|-100.862|MX|Michoacán|54
+San Nicola|42.302|13.274|IT|Abruzzo|54
 San Nazzaro Val Cavargna|46.089|9.127|IT|Lombardy|49
+San Nicholas Island|33.235|-119.453|US|California|49|f
 San Nicolò Comelico|46.583|12.527|IT|Veneto|39
 San Nicolás|24.693|-98.830|MX|Tamaulipas|39
 San Nicolas|16.070|120.762|PH|Ilocos|0
@@ -95,3 +127,4 @@ San Nicolás|12.932|-86.348|NI|Estelí Department|0
 San Nicolás|-8.976|-77.189|PE|Ancash|0
 San Nicolás del Puerto|38.000|-5.650|ES|Andalusia|0
 Sannae|35.568|127.030|KR|Jeollabuk-do|0
+Sannip|-7.048|113.584|ID|East Java|0

@@ -14,6 +14,7 @@ Long Khánh|10.927|107.248|VN|Dong Nai|105
 Longfeng|46.532|125.104|CN|Heilongjiang|104
 Longshui|29.566|105.762|CN|Chongqing|102
 Longjing|42.771|129.423|CN|Jilin|101
+London Heathrow Airport|51.471|-0.456|GB|England|101|f
 Longjiang|47.336|123.196|CN|Heilongjiang|101
 Longonjo|-12.908|15.248|AO|Huambo|99
 Longmont|40.167|-105.102|US|Colorado|99
@@ -23,14 +24,18 @@ Longnan|33.398|104.917|CN|Gansu|99
 Longview|32.501|-94.740|US|Texas|98
 Longgang|29.697|105.714|CN|Chongqing|97
 Longshan|24.601|98.704|CN|Yunnan|96
+London Bridge|51.508|-0.088|GB|England|96|f
 Longfeng|30.388|109.507|CN|Hubei|96
 Long Mỹ|9.681|105.572|VN|Can Tho City|96
 Longgang|37.652|120.331|CN|Shandong|96
 Longgu|34.903|116.807|CN|Jiangsu|95
+London Gatwick Airport|51.156|-0.178|GB|England|95|f
 Lonavla|18.753|73.406|IN|Maharashtra|95
 Longtan|28.757|108.964|CN|Chongqing|95
 Longshi|30.215|106.457|CN|Chongqing|95
 Long Eaton|52.899|-1.271|GB|England|94
+London City Airport|51.505|0.055|GB|England|93|f
+London Southend Airport|51.571|0.696|GB|England|92|f
 Longshan|35.032|106.081|CN|Gansu|92
 Longview|46.138|-122.938|US|Washington|91
 Longtan|29.446|107.102|CN|Chongqing|91
@@ -40,6 +45,7 @@ Longhe|30.018|107.180|CN|Chongqing|91
 Longqiao|29.710|107.294|CN|Chongqing|91
 Longfeng|29.815|106.429|CN|Chongqing|91
 Long Beach|40.588|-73.658|US|New York|91
+Long Island|40.817|-73.066|US|New York|90|f
 Longju|30.611|108.635|CN|Chongqing|90
 Long Branch|40.304|-73.992|US|New Jersey|90
 Longsheng|29.081|106.816|CN|Chongqing|90
@@ -55,6 +61,7 @@ Long Island City|40.745|-73.949|US|New York|88
 Longcheng|35.001|105.973|CN|Gansu|88
 Longchi|28.610|109.049|CN|Chongqing|88
 Longxing|30.251|105.909|CN|Chongqing|88
+Long Beach Airport|33.818|-118.152|US|California|88|f
 Longowal|30.198|75.682|IN|Punjab|88
 Lonar|19.985|76.520|IN|Maharashtra|87
 Loncoche|-39.367|-72.631|CL|Araucania|87
@@ -64,6 +71,7 @@ Longfeng|30.268|106.023|CN|Chongqing|86
 Longkong|30.045|107.915|CN|Chongqing|86
 Longmen|30.798|107.687|CN|Chongqing|86
 Longjing|31.089|109.887|CN|Chongqing|86
+London Biggin Hill Airport|51.331|0.033|GB|England|86|f
 Lonand|18.040|74.187|IN|Maharashtra|85
 Longchang|26.667|107.917|CN|Guizhou|85
 Longlin|33.943|105.067|CN|Gansu|85
@@ -79,6 +87,7 @@ Long Beach|30.350|-89.153|US|Mississippi|84
 Loniya|22.062|78.913|IN|Madhya Pradesh|84
 Longwy|49.522|5.762|FR|Grand Est|83
 Longwood|28.703|-81.338|US|Florida|83
+Long Island Sound|41.097|-72.880|US|New York|83|f
 Lons|43.315|-0.411|FR|New Aquitaine|83
 Longuenesse|50.734|2.235|FR|Hauts-de-France|83
 Longtanzi|29.501|105.797|CN|Chongqing|82
@@ -86,8 +95,10 @@ Lone Tree|39.552|-104.886|US|Colorado|82
 Löningen|52.736|7.757|DE|Lower Saxony|82
 Lontras|-27.166|-49.542|BR|Santa Catarina|82
 Longxi|29.470|108.516|CN|Chongqing|82
+Long Bien Bridge|21.043|105.858|VN|Hanoi|82|f
 Lonigo|45.386|11.384|IT|Veneto|82
 Long|18.074|99.831|TH|Phrae|81
+London Oxford Airport|51.837|-1.320|GB|England|81|f
 Longtai|34.599|104.896|CN|Gansu|81
 Londonderry|42.865|-71.374|US|New Hampshire|81
 Lonate Pozzolo|45.592|8.752|IT|Lombardy|81
@@ -103,6 +114,7 @@ Longsha|30.135|108.184|CN|Chongqing|80
 Longveaek|11.869|104.754|KH|Kampong Chhnang|80
 Longvic|47.288|5.063|FR|Bourgogne-Franche-Comté|80
 Longido|-2.733|36.698|TZ|Arusha|79
+Longs Peak|40.255|-105.616|US|Colorado|79|f
 Longdendale|53.467|-2.000|GB|England|79
 Lontra|-15.903|-44.305|BR|Minas Gerais|79
 Longqiao|30.615|109.364|CN|Chongqing|79
@@ -122,11 +134,13 @@ Long Ditton|51.384|-0.320|GB|England|76
 Longpont-sur-Orge|48.642|2.293|FR|Île-de-France|76
 Londa|15.469|74.519|IN|Karnataka|76
 Long Lama|3.767|114.400|MY|Sarawak|75
+London Road Stadium|52.565|-0.240|GB|England|75|f
 Longuyon|49.442|5.605|FR|Grand Est|75
 Long Beach|33.910|-78.118|US|North Carolina|75
 Longmen|24.960|118.089|CN|Fujian|75
 Longtang|29.068|107.987|CN|Chongqing|74
 Long Ashton|51.430|-2.661|GB|England|74
+London Transport Museum|51.512|-0.121|GB|England|74|f
 Lone Grove|34.175|-97.263|US|Oklahoma|74
 Longueau|49.872|2.359|FR|Hauts-de-France|74
 Longba|33.625|105.294|CN|Gansu|74
@@ -134,6 +148,8 @@ Longview|35.729|-81.383|US|North Carolina|74
 Lontzen|50.681|6.007|BE|Wallonia|74
 Lonsee|48.543|9.920|DE|Baden-Wurttemberg|74
 Londiani|-0.166|35.594|KE|Kericho County|74
+Lonely Air Station|70.911|-153.242|US|Alaska|73|f
+Longtan Hu|24.795|121.741|TW|Taiwan|73|f
 Long Sutton|51.220|-0.943|GB|England|73
 Longo|8.976|-5.399|CI|Vallée du Bandama District|73
 Long Stratton|52.488|1.235|GB|England|73
@@ -142,6 +158,7 @@ Loncopué|-38.073|-70.614|AR|Neuquen|73
 Lonoke|34.784|-91.900|US|Arkansas|73
 Longding|26.884|95.319|IN|Arunachal Pradesh|73
 Long Hill|41.354|-72.052|US|Connecticut|72
+Lonesome Pine Airport|36.986|-82.529|US|Virginia|72|f
 Long Bedian|3.800|114.733|MY|Sarawak|72
 Longjing|22.564|113.968|CN|Guangdong|72
 Longoni|-12.734|45.163|YT|Koungou|72
@@ -154,10 +171,18 @@ Longford|-41.605|147.119|AU|Tasmania|72
 Long Buckby|52.303|-1.081|GB|England|72
 Longreach|-23.442|144.249|AU|Queensland|71
 Lonquimay|-38.454|-71.370|CL|Araucania|71
+Long Island|23.285|-75.095|BS|Long Island|71|f
+Longtan Chi|24.862|121.210|TW|Taiwan|71|f
 Long Lake|42.371|-88.128|US|Illinois|71
 Longtan|29.839|108.266|CN|Chongqing|71
 Long Prairie|45.975|-94.866|US|Minnesota|70
 Lonzo|10.036|-5.397|CI|Savanes District|70
+London Stansted Airport|51.885|0.235|GB|England|70|f
+Lone Eagle Peak|40.071|-105.660|US|Colorado|70|f
+Long Apung Airport|1.704|114.970|ID|East Kalimantan|70|f
+Long Island|-63.766|-58.200|AQ||70|f
+Long Island|54.867|-79.416|CA|Nunavut|70|f
+Lonorore Airport|-15.866|168.172|VU|Penama|70|f
 Lonneu|7.038|-8.091|CI|Montagnes|70
 Loncin|50.667|5.505|BE|Wallonia|70
 Lonoy|11.512|122.553|PH|Western Visayas|70
@@ -169,6 +194,11 @@ Longtan|27.411|110.536|CN|Hunan|69
 Longtou’an|27.670|110.336|CN|Hunan|69
 Longongara|8.514|-3.426|CI|Zanzan District|69
 Longtown|35.245|-95.513|US|Oklahoma|69
+Long Island|-51.557|-58.070|FK||69|f
+Long Rock|-62.689|-61.198|AQ||69|f
+Long Sukang Airport|4.552|115.494|MY|Sarawak|69|f
+Longana Airport|-15.306|167.967|VU|Penama|69|f
+Longfellow Bridge|42.361|-71.076|US|Massachusetts|69|f
 Long Cốc|21.118|105.060|VN|Phu Tho|68
 Longos|16.107|120.397|PH|Ilocos|68
 Longare|45.477|11.607|IT|Veneto|68
@@ -181,6 +211,10 @@ Longyearbyen|78.223|15.647|SJ|Svalbard|67
 Long Crendon|51.773|-0.997|GB|England|67
 Longara|44.571|11.304|IT|Emilia-Romagna|67
 Longstanton|52.281|0.046|GB|England|67
+Lone Mountain|39.599|-116.260|US|Nevada|67|f
+Long Ke Wan|22.369|114.382|HK||67|f
+Long Key|24.820|-80.822|US|Florida|67|f
+Longnan Chengzhou Airport|33.790|105.795|CN|Gansu|67|f
 Longperrier|49.048|2.666|FR|Île-de-France|67
 Longarone|46.266|12.300|IT|Veneto|67
 Longeville-sur-Mer|46.417|-1.500|FR|Pays de la Loire|67
@@ -196,6 +230,13 @@ Lonneker|52.251|6.911|NL|Overijssel|66
 Long Valley|40.786|-74.780|US|New Jersey|65
 London|36.476|-119.443|US|California|65
 Longueville|48.515|3.247|FR|Île-de-France|65
+Lone Walker Mountain|48.453|-113.479|US|Montana|65|f
+Long Island|-20.621|166.277|NC||65|f
+Long Knife Peak|48.997|-114.208|US|Montana|65|f
+Longfellow Peak|48.746|-113.939|US|Montana|65|f
+Longluan Lake|21.977|120.743|TW|Taiwan|65|f
+Longyan Guanzhishan Airport|25.667|116.746|CN|Fujian|65|f
+Lonquimay Airport|-38.733|-71.219|CL|Araucania|65|f
 Londerzeel|51.005|4.303|BE|Flanders|65
 London Village|1.985|-157.475|KI|Line Islands|65
 Long Beach|38.461|-76.469|US|Maryland|65
@@ -214,6 +255,14 @@ Longlier|49.854|5.450|BE|Wallonia|64
 Lone Star|32.944|-94.707|US|Texas|64
 Longueil-Sainte-Marie|49.357|2.718|FR|Hauts-de-France|64
 Longi|38.026|14.753|IT|Sicily|64
+Lone Peak|40.527|-111.756|US|Utah|63|f
+Lone Rock Point|44.488|-73.249|US|Vermont|63|f
+Long Island|54.871|-132.719|US|Alaska|63|f
+Long Island Mac Arthur Airport|40.790|-73.098|US|New York|63|f
+Longhorn Dam|30.250|-97.713|US|Texas|63|f
+Longmen Shan|32.147|104.921|CN|Sichuan|63|f
+Longwood Range|-46.200|167.833|NZ||63|f
+Longxing Temple|38.143|114.576|CN|Hebei|63|f
 Longford|-38.162|147.086|AU|Victoria|63
 Longnes|48.920|1.587|FR|Île-de-France|63
 Longvilly|50.026|5.838|BE|Wallonia|63
@@ -245,24 +294,227 @@ Longwick|51.736|-0.857|GB|England|61
 Longchaumois|46.462|5.931|FR|Bourgogne-Franche-Comté|61
 Lone Jack|38.871|-94.174|US|Missouri|61
 Long Whatton|52.806|-1.285|GB|England|61
+Lønavatnet|60.683|6.475|NO|Vestland|61|f
+London-Corbin Airport|37.089|-84.075|US|Kentucky|61|f
+Lone Mountain|41.969|-74.389|US|New York|61|f
+Long Branch Dam|39.752|-92.514|US|Missouri|61|f
+Long Island University Brooklyn Campus|40.690|-73.981|US|New York|61|f
+Longmen Shan|35.750|110.667|CN|Shanxi|61|f
+Longs Pond|47.039|-122.791|US|Washington|61|f
+Lonjsko Polje Nature Park|45.368|16.787|HR||61|f
 Longhope|51.867|-2.450|GB|England|61
 Long Clawson|52.837|-0.929|GB|England|61
 London|35.329|-93.253|US|Arkansas|60
+Longwang|32.047|106.017|CN|Sichuan|60
+Longcheng|26.034|109.777|CN|Hunan|60
+Longá|36.869|21.907|GR|Peloponnese|60
+Long Riston|53.865|-0.289|GB|England|60
+Longside|57.517|-1.940|GB|Scotland|60
+Longueville-sur-Scie|49.791|1.110|FR|Normandy|60
 Longar|-6.385|-77.546|PE|Amazonas|60
+Łoniowa|49.916|20.694|PL|Lesser Poland|60
+Longcross|51.377|-0.589|GB|England|59
+Longa|45.681|11.642|IT|Veneto|59
+Lonbar|37.743|48.523|IR|Ardabil Province|59
+Lončari|44.942|18.684|BA|Srpska|59
 Longhorsley|55.246|-1.769|GB|England|59
+Longport|39.314|-74.525|US|New Jersey|59
+Lonzée|50.554|4.727|BE|Wallonia|59
+Long Wittenham|51.641|-1.212|GB|England|59
 Lonevåg|60.526|5.496|NO|Vestland|59
+Longframlington|55.304|-1.795|GB|England|59
+Longridge|55.845|-3.678|GB|Scotland|59
+Longádes|39.659|20.939|GR|Epirus|59
+Lonrai|48.460|0.040|FR|Normandy|59
+Lone Rock|43.183|-90.198|US|Wisconsin|59
 Longares|41.403|-1.169|ES|Aragon|59
+Longhu|24.673|118.619|CN|Fujian|59
+Long Grove|41.698|-90.583|US|Iowa|59
+Lonjica|45.855|16.330|HR|Zagreb County|58
+Longes|45.505|4.689|FR|Auvergne-Rhône-Alpes|58
+Longueville|50.702|4.740|BE|Wallonia|58
+London International Airport|43.030|-81.149|CA|Ontario|58|f
+Lone Cone|49.210|-125.911|CA|British Columbia|58|f
+Lone Mountain|41.127|-115.976|US|Nevada|58|f
+Lonely Rock|-64.089|-57.036|AQ||58|f
+Lonesome Lake|44.140|-71.701|US|New Hampshire|58|f
+Long Buttes|34.730|-117.811|US|California|58|f
+Long Cay|22.602|-74.332|BS|Crooked Island and Long Cay|58|f
+Long Island|47.650|-55.998|CA|Newfoundland and Labrador|58|f
+Long Island|46.727|-90.785|US|Wisconsin|58|f
+Long Pasia Airport|4.410|115.724|MY|Sabah|58|f
+Long Ranch Airport|42.019|-121.703|US|Oregon|58|f
+Long Scraggy Peak|39.349|-105.202|US|Colorado|58|f
+Longeraksvatnet|58.745|7.900|NO|Agder|58|f
+Longfellow-Evangeline State Historic Site|30.138|-91.817|US|Louisiana|58|f
+Longing, Cape|-64.500|-58.750|AQ||58|f
+Longville Municipal Airport|46.991|-94.208|US|Minnesota|58|f
+Lonna|60.154|24.990|FI|Uusimaa|58|f
+Longwood|-15.949|-5.686|SH|Saint Helena|58
+Long Compton|51.993|-1.582|GB|England|58
+Longobardi|38.704|16.121|IT|Calabria|57
+Long Preston|54.019|-2.257|GB|England|57
+Longchamps|50.577|4.895|BE|Wallonia|57
 Lona-Lases|46.144|11.220|IT|Trentino-Alto Adige|57
+Longeault|47.221|5.253|FR|Bourgogne-Franche-Comté|57
+Longoteme|-21.181|-175.170|TO|Tongatapu|57
+Longeau-Percey|47.767|5.300|FR|Grand Est|56
+Lóngos|38.295|22.021|GR|West Greece|56
+Long|50.041|1.979|FR|Hauts-de-France|56
+Longville|30.605|-93.232|US|Louisiana|56
+Longevelle-sur-Doubs|47.453|6.652|FR|Bourgogne-Franche-Comté|56
+Longroy|49.989|1.540|FR|Normandy|56
+Lone Oak|32.997|-95.940|US|Texas|56
+Longues-sur-Mer|49.338|-0.693|FR|Normandy|56
+Lonsheim|49.779|8.077|DE|Rheinland-Pfalz|56
 Longhena|45.438|10.060|IT|Lombardy|55
+Lønstrup|57.470|9.796|DK|North Denmark|55
+Longomapu|-18.645|-174.058|TO|Vavau|55
+Longworth|51.691|-1.438|GB|England|55
+Longuesse|49.062|1.932|FR|Île-de-France|55
+Longar|-14.009|-75.747|PE|Ica|55
+Long Lake|43.973|-74.421|US|New York|55
+Longèves|46.229|-0.989|FR|New Aquitaine|55
+Longessaigne|45.792|4.424|FR|Auvergne-Rhône-Alpes|55
+Longueil|49.883|0.967|FR|Normandy|54
+Longchamps|49.361|1.625|FR|Normandy|54
+Loncopan Airport|-40.065|-72.541|CL|Los Ríos Region|54|f
+London Heathrow Terminal 4|51.460|-0.447|GB|England|54|f
+London Heathrow Terminal 5|51.472|-0.488|GB|England|54|f
+Londrina Aeroporto|-23.334|-51.130|BR|Paraná|54|f
+Lone Butte|33.262|-112.032|US|Arizona|54|f
+Lone Cone|37.888|-108.256|US|Colorado|54|f
+Lone Oaks Ranch Airport|44.777|-122.760|US|Oregon|54|f
+Lone Star Flight Museum|29.262|-94.854|US|Texas|54|f
+Lone Star Geyser|44.418|-110.807|US|Wyoming|54|f
+Long Akah Airport|3.314|114.786|MY|Sarawak|54|f
+Long Cay|17.183|-87.567|BZ|Belize District|54|f
+Long Duck Pond|41.823|-70.593|US|Massachusetts|54|f
+Long Hunter State Park|36.097|-86.551|US|Tennessee|54|f
+Long Island|17.155|-61.756|AG|Saint George Parish|54|f
+Long Island|-33.540|151.218|AU|New South Wales|54|f
+Long Island|-20.365|148.859|AU|Queensland|54|f
+Long Island|-4.627|55.509|SC||54|f
+Long Island|36.537|-82.567|US|Tennessee|54|f
+Long Islet|-39.200|147.000|AU|Tasmania|54|f
+Long Lake|45.706|-91.671|US|Wisconsin|54|f
+Long Lellang Airport|3.421|115.154|MY|Sarawak|54|f
+Long Lost Lake|47.190|-95.414|US|Minnesota|54|f
+Long Pines|45.689|-104.228|US|Montana|54|f
+Long Point Key|24.746|-80.987|US|Florida|54|f
+Long Semado Airport|4.217|115.600|MY|Sarawak|54|f
+Long Seridan Airport|3.967|115.050|MY|Sarawak|54|f
+Long Thanh International Airport|10.773|107.040|VN|Dong Nai|54|f
+Longa Island|57.733|-5.833|GB|Scotland|54|f
+Longay|57.310|-5.892|GB|Scotland|54|f
+Longley Covered Bridge|44.907|-72.655|US|Vermont|54|f
+Longonot|-0.917|36.450|KE|Nakuru County|54|f
+Longonot|-0.915|36.457|KE|Nakuru County|54|f
+Longreach Airport|-23.433|144.267|AU|Queensland|54|f
+Longstaffbreen|79.771|16.147|SJ|Svalbard|54|f
+Longwy-sur-le-Doubs|46.957|5.375|FR|Bourgogne-Franche-Comté|54
 Łoniów|50.564|21.526|PL|Świętokrzyskie|53
 Longano|41.522|14.247|IT|Molise|52
 Lonya Chico|-6.229|-77.955|PE|Amazonas|51
 Longobardi|39.211|16.075|IT|Calabria|49
+Lone Pine Peak|36.562|-118.225|US|California|49|f
+Lonesome Mountain|45.017|-109.597|US|Montana|49|f
+Long Banga Airport|3.185|115.454|MY|Sarawak|49|f
+Long Bay|-35.943|139.446|AU|South Australia|49|f
+Long Bird Island|32.365|-64.697|BM|Saint Georgeʼs|49|f
+Long Gables|-78.183|-86.233|AQ||49|f
+Long Island|-16.573|123.371|AU|Western Australia|49|f
+Long Island|-40.356|148.009|AU|Tasmania|49|f
+Long Island|32.286|-64.820|BM|Warwick|49|f
+Long Island|51.493|-9.567|IE|Munster|49|f
+Long Island|-41.117|174.279|NZ||49|f
+Long Island|-5.321|147.107|PG|Madang Province|49|f
+Long Island Recreation Park|-35.130|139.300|AU|South Australia|49|f
+Long Mountain|52.645|-3.088|GB|Wales|49|f
+Longhurst, Mount|-79.433|157.300|AQ||49|f
+Longridge Fell|53.867|-2.517|GB|England|49|f
+Longridge Head|-67.485|-67.660|AQ||49|f
+Longstaff Peaks|-82.900|165.667|AQ||49|f
+Longview Lake|38.906|-94.472|US|Missouri|49|f
+Longostagno|46.555|11.492|IT|Trentino-Alto Adige|47
 Longhi|45.907|11.311|IT|Veneto|46
 Longuita|-6.414|-77.969|PE|Amazonas|46
+Longomoso|46.544|11.468|IT|Trentino-Alto Adige|43
 Longone Sabino|42.273|12.967|IT|Lazio|40
+London Avenue Outfall Canal|30.011|-90.069|US|Louisiana|40|f
+London Bridge|34.472|-114.347|US|Arizona|40|f
+London Coffee House|39.950|-75.142|US|Pennsylvania|40|f
+London Dungeon|51.503|-0.119|GB|England|40|f
+Lone Butte|51.550|-121.186|CA|British Columbia|40|f
+Lone Butte|46.055|-121.839|US|Washington|40|f
+Lone Mountain|37.779|-122.452|US|California|40|f
+Lone Mountain|45.278|-111.450|US|Montana|40|f
+Lone Pine Airport|36.591|-118.047|US|California|40|f
+Lone Star Lake|38.834|-95.382|US|Kansas|40|f
+Lone Tree Lake|45.662|-80.290|CA|Ontario|40|f
+Lone Wolf Mountain|49.466|-125.920|CA|British Columbia|40|f
+Lonely Lakes|48.540|-113.390|US|Montana|40|f
+Lonesome Lake|44.625|-64.362|CA|Nova Scotia|40|f
+Lonesome Lake|44.074|-114.607|US|Idaho|40|f
+Long Bay|13.063|-59.495|BB|Christ Church|40|f
+Long Beach Island|39.660|-74.171|US|New Jersey|40|f
+Long Beach Museum of Art|33.763|-118.165|US|California|40|f
+Long Beach Road Bridge|40.595|-73.657|US|New York|40|f
+Long Branch Park|43.117|-76.250|US|New York|40|f
+Long Glacier|-72.500|-96.717|AQ||40|f
+Long Island|32.362|-64.676|BM|Saint Georgeʼs|40|f
+Long Island|44.333|-66.266|CA|Nova Scotia|40|f
+Long Island|63.723|-68.494|CA|Nunavut|40|f
+Long Island|12.400|92.935|IN|Andaman and Nicobar|40|f
+Long Island|41.218|-73.113|US|Connecticut|40|f
+Long Island|42.321|-70.966|US|Massachusetts|40|f
+Long Island|46.452|-123.969|US|Washington|40|f
+Long Island Children's Museum|40.728|-73.600|US|New York|40|f
+Long Key State Park|24.817|-80.824|US|Florida|40|f
+Long Lake|-66.993|142.667|AQ||40|f
+Long Lake|44.653|-65.230|CA|Nova Scotia|40|f
+Long Lake|44.793|-76.246|CA|Ontario|40|f
+Long Lake|46.303|-79.246|CA|Ontario|40|f
+Long Lake|45.612|-79.009|CA|Ontario|40|f
+Long Lake|54.579|-113.655|CA|Alberta|40|f
+Long Lake|49.054|-123.793|CA|British Columbia|40|f
+Long Lake|41.616|-87.211|US|Indiana|40|f
+Long Lake|44.025|-70.646|US|Maine|40|f
+Long Lake|45.205|-83.478|US|Michigan|40|f
+Long Lake|45.841|-88.676|US|Wisconsin|40|f
+Long Lake|34.788|-111.211|US|Arizona|40|f
+Long Lake|47.019|-122.775|US|Washington|40|f
+Long Lake Dam|47.837|-117.840|US|Washington|40|f
+Long Lake National Wildlife Refuge|46.729|-100.040|US|North Dakota|40|f
+Long Lake Provincial Park|44.600|-63.632|CA|Nova Scotia|40|f
+Long Lake Provincial Park|54.450|-112.769|CA|Alberta|40|f
+Long Man of Wilmington|50.810|0.188|GB|England|40|f
+Long Marsh Lake|44.998|-62.116|CA|Nova Scotia|40|f
+Long Mountain|17.981|-76.743|JM|Saint Andrew Parish|40|f
+Long Mountain|42.306|-72.480|US|Massachusetts|40|f
+Long Mynd - Pole Bank|52.545|-2.864|GB|England|40|f
+Long Peak|-78.733|-83.900|AQ||40|f
+Long Point Provincial Park|42.583|-80.383|CA|Ontario|40|f
+Long Point Wildlife Refuge|41.350|-70.587|US|Massachusetts|40|f
+Long Pond|41.801|-70.945|US|Massachusetts|40|f
+Long Pond|41.767|-70.856|US|Massachusetts|40|f
+Long Pond|41.859|-70.603|US|Massachusetts|40|f
+Long Pond Park|40.516|-74.226|US|New York|40|f
+Long Range Mountains|49.325|-57.803|CA|Newfoundland and Labrador|40|f
+Long Valley Caldera|37.717|-118.884|US|California|40|f
+Longcanoe Lake|48.926|-87.366|CA|Ontario|40|f
+Longhorn Cavern State Park|30.684|-98.355|US|Texas|40|f
+Longleat Safari Park|51.189|-2.263|GB|England|40|f
+Longthorpe Tower|52.571|-0.287|GB|England|40|f
+Longtown Castle|51.957|-2.990|GB|England|40|f
+Longview Ranch Airport|44.667|-119.655|US|Oregon|40|f
+Longview Range|56.383|-129.554|CA|British Columbia|40|f
+Longyear Lake|47.492|-92.874|US|Minnesota|40|f
+Lonzahörner|46.424|7.904|CH|Valais|40|f
+Longen|49.800|6.783|DE|Rheinland-Pfalz|38
 Longás|42.481|-0.934|ES|Aragon|35
 Lonan|54.215|-4.433|IM||0|r
+Londe|-8.606|121.729|ID|East Nusa Tenggara|0
 Londesborough|53.883|-0.683|GB|England|0
 Long Bang|2.848|116.905|ID|North Kalimantan|0
 Long Beluah|2.760|117.089|ID|North Kalimantan|0
@@ -273,44 +525,198 @@ Long Peso|2.690|116.785|ID|North Kalimantan|0
 Long Phú|9.610|106.119|VN|Can Tho City|0
 Long Pujungan|2.588|115.795|ID|North Kalimantan|0
 Long’an|32.409|104.529|CN|Sichuan|0
+Long’an|27.227|116.803|CN|Jiangxi|0
 Long’an|23.169|107.692|CN|Guangxi|0
+Long’an|26.634|117.035|CN|Fujian|0
 Long’an|36.094|114.303|CN|Henan|0
+Long’anqiao|47.519|124.444|CN|Heilongjiang|0
 Longa|-14.606|18.478|AO|Cubango|0
+Longba|32.354|109.655|CN|Hubei|0
+Longbei|24.284|115.725|CN|Guangdong|0
+Longbei|34.544|109.572|CN|Shaanxi|0
 Longbo|25.929|111.622|CN|Hunan|0
+Longbo|19.761|109.852|CN|Hainan|0
+Longbu|25.473|115.376|CN|Jiangxi|0
+Longcang|32.941|101.703|CN|Sichuan|0
+Longcang|35.280|100.071|CN|Qinghai|0
 Longcheng|29.897|116.555|CN|Jiangxi|0
+Longcheng|23.733|114.250|CN|Guangdong|0
 Longcheng|34.184|116.951|CN|Anhui|0
 Longcheng|24.898|102.800|CN|Yunnan|0
+Longcheng|33.607|113.915|CN|Henan|0
+Longcheng|22.702|114.215|CN|Guangdong|0
+Longchi|34.807|109.677|CN|Shaanxi|0
+Longchiqiao|31.188|115.022|CN|Hubei|0
 Longchuan|25.162|101.294|CN|Yunnan|0
+Longcun|27.253|118.495|CN|Fujian|0
+Longcun|23.552|115.533|CN|Guangdong|0
 Longde Chengguanzhen|35.612|106.117|CN|Ningxia|0
+Longdong|30.973|109.166|CN|Chongqing|0
+Longdong|23.201|113.372|CN|Guangdong|0
+Longdu|23.573|116.724|CN|Guangdong|0
+Longfeng|32.171|106.405|CN|Sichuan|0
+Longfeng|23.073|114.382|CN|Guangdong|0
 Longfeng|46.559|125.127|CN|Heilongjiang|0
+Longfengshan|44.766|127.580|CN|Heilongjiang|0
+Longfu|23.357|112.709|CN|Guangdong|0
+Longfu|38.943|76.056|CN|Xinjiang|0
 Longgang|35.689|112.158|CN|Shanxi|0
+Longgang|29.626|114.950|CN|Hubei|0
+Longgang|26.109|116.260|CN|Jiangxi|0
+Longgang|30.162|119.123|CN|Zhejiang|0
+Longgang|23.999|116.228|CN|Guangdong|0
 Longgang|40.721|120.926|CN|Liaoning|0
+Longgang Shezu|26.738|115.583|CN|Jiangxi|0
+Longgao|34.955|108.315|CN|Shaanxi|0
+Longgong|27.490|118.944|CN|Zhejiang|0
+Longguang|18.505|109.899|CN|Hainan|0
+Longgui|24.735|113.449|CN|Guangdong|0
+Longgun|19.051|110.525|CN|Hainan|0
+Longhe|19.382|110.210|CN|Hainan|0
+Longhu|23.557|116.646|CN|Guangdong|0
+Longhu|19.577|110.394|CN|Hainan|0
+Longhua|25.345|118.651|CN|Fujian|0
+Longhua|23.612|114.195|CN|Guangdong|0
+Longhua|23.192|114.102|CN|Guangdong|0
+Longhua|22.658|114.009|CN|Guangdong|0
 Longhua|41.312|117.725|CN|Hebei|0
+Longhuashan|30.372|113.454|CN|Hubei|0
+Longhushan|28.123|116.976|CN|Jiangxi|0
+Longhutang|31.854|119.981|CN|Jiangsu|0
+Longhuya|37.130|119.869|CN|Shandong|0
 Longikis|-1.583|116.206|ID|East Kalimantan|0
+Longjiang|29.963|117.952|CN|Anhui|0
+Longjiang|22.989|116.192|CN|Guangdong|0
+Longjiang|22.887|113.068|CN|Guangdong|0
+Longjiang|19.148|110.320|CN|Hainan|0
+Longjiang|23.603|114.298|CN|Guangdong|0
+Longjiang|33.123|106.959|CN|Shaanxi|0
+Longjiao|30.814|108.857|CN|Chongqing|0
+Longjiao|24.255|118.055|CN|Fujian|0
+Longjie|24.185|114.360|CN|Guangdong|0
+Longjie|24.650|102.892|CN|Yunnan|0
 Longjin|26.182|116.815|CN|Fujian|0
+Longjing|23.870|112.837|CN|Guangdong|0
+Longju|34.367|119.100|CN|Jiangsu|0
+Longka|-6.946|112.965|ID|East Java|0
 Longkali|-1.522|116.320|ID|East Kalimantan|0
+Longkou|29.941|113.759|CN|Hubei|0
+Longkou|26.186|115.301|CN|Jiangxi|0
+Longkou|22.774|112.907|CN|Guangdong|0
+Longlou|19.656|110.965|CN|Hainan|0
+Longmen|30.374|118.114|CN|Anhui|0
+Longmen|25.097|116.968|CN|Fujian|0
+Longmen|20.711|110.036|CN|Guangdong|0
+Longmen|19.443|110.326|CN|Hainan|0
+Longmen|29.903|119.947|CN|Zhejiang|0
+Longmen|28.809|114.053|CN|Hunan|0
+Longmen|27.090|114.143|CN|Jiangxi|0
+Longmen|37.878|98.923|CN|Qinghai|0
+Longmenfan|28.500|117.651|CN|Jiangxi|0
+Longmentan|25.503|118.342|CN|Fujian|0
+Longmiao|46.351|127.227|CN|Heilongjiang|0
+Longmu|24.264|115.436|CN|Guangdong|0
 Longnan|24.905|114.797|CN|Jiangxi|0
+Longnan|27.935|119.294|CN|Zhejiang|0
 Longnawang|1.789|114.901|ID|North Kalimantan|0
 Longnor|52.600|-2.750|GB|England|0
 Longotea|-7.067|-77.917|PE|La Libertad|0
+Longpao|32.199|118.950|CN|Jiangsu|0
+Longping|30.814|110.149|CN|Hubei|0
+Longping|29.870|115.697|CN|Hubei|0
 Longping|25.434|106.747|CN|Guizhou|0
+Longping|24.821|112.478|CN|Guangdong|0
+Longping|26.356|115.235|CN|Jiangxi|0
+Longping|31.657|111.496|CN|Hubei|0
+Longqiao|19.914|110.356|CN|Hainan|0
+Longqiu|32.829|119.513|CN|Jiangsu|0
+Longqu|38.830|100.294|CN|Gansu|0
 Longquan|36.695|110.956|CN|Shanxi|0
 Longquan|25.901|112.212|CN|Hunan|0
 Longquan|39.084|112.191|CN|Shanxi|0
 Longquan|30.561|104.269|CN|Sichuan|0
+Longquan|37.332|121.772|CN|Shandong|0
+Longquan|30.731|111.490|CN|Hubei|0
 Longquan|36.117|113.186|CN|Shanxi|0
+Longquan|33.488|113.425|CN|Henan|0
+Longquan|34.685|108.868|CN|Shaanxi|0
 Longquan|40.364|113.666|CN|Shanxi|0
+Longquan|46.208|127.457|CN|Heilongjiang|0
+Longquan|29.640|116.814|CN|Anhui|0
+Longquan|30.869|120.104|CN|Zhejiang|0
+Longquan|47.414|125.960|CN|Heilongjiang|0
+Longquan|28.256|108.038|CN|Guizhou|0
 Longsha|47.318|123.946|CN|Heilongjiang|0
+Longshan|32.511|118.558|CN|Anhui|0
+Longshan|30.079|121.553|CN|Zhejiang|0
+Longshan|23.751|113.388|CN|Guangdong|0
+Longshan|29.271|117.685|CN|Jiangxi|0
+Longshan|29.023|120.182|CN|Zhejiang|0
 Longshan|40.320|116.629|CN|Beijing|0
+Longshanqiao|31.496|118.482|CN|Anhui|0
 Longsheng|25.800|110.005|CN|Guangxi|0
+Longsheng|22.544|112.460|CN|Guangdong|0
+Longtai|46.687|127.220|CN|Heilongjiang|0
+Longtan|23.713|114.106|CN|Guangdong|0
+Longtan|28.962|111.131|CN|Hunan|0
+Longtan|32.168|119.049|CN|Jiangsu|0
+Longtan|23.451|115.874|CN|Guangdong|0
+Longtan|28.393|115.237|CN|Jiangxi|0
+Longtan|28.489|109.392|CN|Hunan|0
+Longtan|39.884|116.427|CN|Beijing|0
 Longtan|43.908|126.557|CN|Jilin|0
+Longtang|28.443|111.402|CN|Hunan|0
+Longtang|23.599|113.070|CN|Guangdong|0
+Longtang|20.321|110.343|CN|Guangdong|0
+Longtang|19.884|110.411|CN|Hainan|0
+Longtanhe|29.243|111.076|CN|Hunan|0
+Longtanping|29.677|110.157|CN|Hunan|0
+Longtian|28.017|111.933|CN|Hunan|0
+Longtian|25.612|119.455|CN|Fujian|0
+Longtian|24.219|115.709|CN|Guangdong|0
+Longtian|27.020|114.031|CN|Jiangxi|0
+Longtian|23.751|114.250|CN|Guangdong|0
+Longtian|23.170|116.501|CN|Guangdong|0
+Longting|24.655|115.607|CN|Jiangxi|0
 Longting|34.813|114.324|CN|Henan|0
+Longtou|28.871|109.443|CN|Hunan|0
+Longtou|21.360|110.519|CN|Guangdong|0
+Longtoushan|28.948|117.840|CN|Jiangxi|0
+Longwan|22.689|111.187|CN|Guangdong|0
+Longwang|32.212|111.973|CN|Hubei|0
+Longwantun|40.223|116.857|CN|Beijing|0
+Longwei|23.576|116.147|CN|Guangdong|0
+Longwen|24.595|116.347|CN|Guangdong|0
+Longwo|23.476|115.302|CN|Guangdong|0
+Longwu|24.002|102.400|CN|Yunnan|0
+Longxi|23.142|114.122|CN|Guangdong|0
+Longxi|28.396|121.043|CN|Zhejiang|0
+Longxi|28.198|121.304|CN|Zhejiang|0
+Longxi|27.449|119.243|CN|Zhejiang|0
+Longxi|27.714|116.288|CN|Jiangxi|0
+Longxi|28.740|109.667|CN|Hunan|0
+Longxian|24.345|114.136|CN|Guangdong|0
 Longxian Chengguanzhen|34.907|106.850|CN|Shaanxi|0
+Longxiang|23.411|116.721|CN|Guangdong|0
 Longxing|35.613|111.219|CN|Shanxi|0
+Longxing|28.674|107.546|CN|Guizhou|0
+Longxing|33.197|112.406|CN|Henan|0
 Longxu|23.417|111.233|CN|Guangxi|0
+Longyang|34.845|109.687|CN|Shaanxi|0
+Longyangxia|36.128|100.895|CN|Qinghai|0
 Longyao|37.352|114.772|CN|Hebei|0
+Longyuan|29.402|118.587|CN|Zhejiang|0
+Longyuan|34.654|103.776|CN|Gansu|0
+Longyuanba|24.943|114.450|CN|Jiangxi|0
+Longzhong|32.010|112.081|CN|Hubei|0
 Longzhou|38.438|114.550|CN|Hebei|0
 Longzhou|22.353|106.845|CN|Guangxi|0
+Longzhou|29.033|119.170|CN|Zhejiang|0
+Longzhouping|30.495|111.160|CN|Hubei|0
+Longzhua|45.249|130.144|CN|Heilongjiang|0
+Longzui|29.334|109.367|CN|Hunan|0
 Lonhe|-10.826|15.552|AO|Kwanza Sul|0
+Lonpao Dajah|-6.899|113.489|ID|East Java|0
+Lontar|-5.970|106.305|ID|Banten|0
 Lontar|-3.975|116.070|ID|South Kalimantan|0
 Lonya Grande|-6.095|-78.421|PE|Amazonas|0

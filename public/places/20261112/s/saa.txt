@@ -3,12 +3,14 @@ Saarbrücken|49.233|7.010|DE|Saarland|105
 Saaba|12.371|-1.415|BF|Centre|103
 Saanich|48.550|-123.369|CA|British Columbia|101
 Saarlouis|49.314|6.752|DE|Saarland|92
+Saaremaa|58.413|22.496|EE|Saare|91|f
 Saalfeld|50.648|11.365|DE|Thuringia|89
 Saaxo|6.773|46.797|SO|Mudug|88
+Saarbrücken Airport|49.215|7.110|DE|Saarland|87|f
 Saatlı|39.932|48.369|AZ|Saatlı|86
 Sa‘ādat Shahr|30.079|53.135|IR|Fars|85
 Saalfelden am Steinernen Meer|47.427|12.848|AT|Salzburg|85
-Saare|58.417|22.583|EE||83|r
+Saare|58.417|22.583|EE||84|r
 Saarwellingen|49.354|6.805|DE|Saarland|83
 Saavedra|-38.787|-73.397|CL|Araucania|81
 Saarenkylä|66.519|25.767|FI|Lapland|79
@@ -18,10 +20,17 @@ Saanen|46.489|7.260|CH|Bern|76
 Saarburg|49.606|6.544|DE|Rheinland-Pfalz|76
 Saa|4.367|11.450|CM|Centre|75
 Saal|48.901|11.932|DE|Bavaria|75
+Saalburg Roman Fort|50.271|8.567|DE|Hesse|71|f
 Saara|50.933|12.421|DE|Thuringia|70
+Saacada Diin|11.436|43.464|SO|Awdal|69|f
 Saaban|13.130|121.369|PH|Mimaropa|68
+Saadallah al-Jabiri Square|36.207|37.148|SY|Aleppo|67|f
+Saaristomeren Kansallispuisto|59.848|21.812|FI|Southwest Finland|67|f
+Saarnaki laid|58.804|22.998|EE|Hiiumaa|67|f
 Saavedra|9.985|123.372|PH|Central Visayas|67
 Saâcy-sur-Marne|48.962|3.211|FR|Île-de-France|65
+Saaranpaskantamasaari|66.786|29.118|FI|Lapland|65|f
+Saattut|69.450|-54.300|GL|Qeqertalik|65|f
 Saalbach|47.391|12.636|AT|Salzburg|65
 Saarhölzbach|49.516|6.607|DE|Saarland|65
 Saas-Fee|46.108|7.927|CH|Valais|64
@@ -30,5 +39,27 @@ Saal an der Saale|50.317|10.358|DE|Bavaria|64
 Saanichton|48.600|-123.417|CA|British Columbia|64
 Saal|54.311|12.499|DE|Mecklenburg-Vorpommern|63
 Saarenkylä|61.649|29.752|FI|South Karelia|62
+Saantee|61.715|21.528|FI|Satakunta|61|f
 Saas-Grund|46.123|7.937|CH|Valais|61
+Saales|48.350|7.107|FR|Grand Est|59
+Sa‘ar|33.030|35.109|IL|Northern District|59
+Sa‘ad|31.471|34.535|IL|Southern District|59
+Saattoq|73.513|-56.113|GL|Avannaata|58|f
+Saattut|70.809|-51.615|GL||58|f
+Saalburg|50.502|11.732|DE|Thuringia|58
+Saas im Prättigau|46.910|9.809|CH|Grisons|57
+Saara|50.850|11.967|DE|Thuringia|57
+Saasveld|52.332|6.807|NL|Overijssel|56
+Sa’asa’ai|-13.637|-172.194|WS|Fa'asaleleaga|54
+Sääksjärvi|61.413|22.385|FI|Satakunta|54|f
+Saanijärvi|63.416|25.600|FI|Central Finland|54|f
+Saavedra Rock|-63.317|-57.931|AQ||54|f
+Saasenheim|48.236|7.619|FR|Grand Est|54
+Saalstadt|49.317|7.550|DE|Rheinland-Pfalz|51
+Saalhauser Berge|51.133|8.158|DE|North Rhine-Westphalia|49|f
+Saana|69.043|20.859|FI|Lapland|40|f
+Saanich Peninsula|48.533|-123.419|CA|British Columbia|40|f
+Saashörner-Nordgipfel|46.530|8.440|CH|Valais|40|f
 Saakpenwa|4.717|7.263|NG|Rivers State|0
+Saar|-7.058|108.073|ID|West Java|0
+Saar Kaler|-7.027|107.925|ID|West Java|0

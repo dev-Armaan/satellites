@@ -34,13 +34,19 @@ Etinan|4.843|7.853|NG|Akwa Ibom State|80
 Ete|7.090|7.453|NG|Enugu State|80
 Etchojoa|26.911|-109.625|MX|Sonora|80
 Ettimadai|10.891|76.909|IN|Tamil Nadu|79
+Etolin Island|56.098|-132.360|US|Alaska|79|f
+Étang de Berre|43.478|5.080|FR|Provence-Alpes-Côte d'Azur|78|f
+Étang Saumâtre|18.580|-72.000|HT|Ouest|78|f
 Etchūjima|35.667|139.794|JP|Tokyo|77
 Etowah|35.318|-82.594|US|North Carolina|77
 Ettrick|37.240|-77.430|US|Virginia|76
 Étréchy|48.495|2.195|FR|Île-de-France|76
 Ettelbruck|49.847|6.104|LU|Diekirch|76
+Etorofu Strait|45.500|149.167|RU|Sakhalin Oblast|74|f
+Etzel|47.177|8.768|CH|Schwyz|74|f
 Étalle|49.674|5.600|BE|Wallonia|74
 Ettingen|47.482|7.547|CH|Basel-Landschaft|74
+Étang de Thau|43.383|3.600|FR|Occitanie|73|f
 Étoile-sur-Rhône|44.839|4.891|FR|Auvergne-Rhône-Alpes|73
 Ettalong|-33.513|151.338|AU|New South Wales|72
 Etroukro|7.259|-3.764|CI|Lacs District|72
@@ -52,15 +58,20 @@ Etowah|35.323|-84.525|US|Tennessee|71
 Étupes|47.505|6.871|FR|Bourgogne-Franche-Comté|71
 Etna|40.504|-79.949|US|Pennsylvania|71
 Ettringen|48.100|10.650|DE|Bavaria|71
+Etten|7.358|151.889|FM|Chuuk|70|f
 Etoka|43.913|43.037|RU|Stavropol Kray|70
 Eton|51.488|-0.609|GB|England|70
 Ettringen|50.350|7.217|DE|Rheinland-Pfalz|69
 Étiolles|48.632|2.482|FR|Île-de-France|69
+Étang de Biscarrosse|44.350|-1.167|FR|New Aquitaine|69|f
 Étables-sur-Mer|48.633|-2.833|FR|Brittany|68
 Etwall|52.884|-1.600|GB|England|68
 Étival-Clairefontaine|48.365|6.861|FR|Grand Est|68
 Étrelles|48.061|-1.194|FR|Brittany|68
 Etuéboué|5.211|-3.215|CI|Comoé District|68
+Étang de Cazaux|44.488|-1.159|FR|New Aquitaine|67|f
+Étang de Leucate|42.850|3.000|FR||67|f
+Etoile Island|9.830|169.219|MH|Likiep Atoll|67|f
 Étel|47.658|-3.201|FR|Brittany|66
 Étival-lès-le-Mans|47.957|0.088|FR|Pays de la Loire|66
 Eton Wick|51.497|-0.634|GB|England|66
@@ -68,6 +79,9 @@ Eton Wick|51.497|-0.634|GB|England|66
 Étang-sur-Arroux|46.866|4.190|FR|Bourgogne-Franche-Comté|66
 Etikhove|50.812|3.625|BE|Flanders|65
 Éthe|49.580|5.582|BE|Wallonia|65
+Et Tîdra|19.730|-16.401|MR|Dakhlet Nouadhibou|65|f
+Étang de Bois Rouge|-20.917|55.649|RE||65|f
+Ethnographic Museum|-2.586|29.744|RW|Southern Province|65|f
 Ettiswil|47.150|8.018|CH|Lucerne|65
 Etzenricht|49.633|12.100|DE|Bavaria|64
 Étretat|49.707|0.205|FR|Normandy|64
@@ -77,6 +91,7 @@ Etzelwang|49.528|11.586|DE|Bavaria|64
 Ethete|43.025|-108.773|US|Wyoming|64
 Étauliers|45.224|-0.574|FR|New Aquitaine|64
 Etten|51.917|6.336|NL|Gelderland|63
+Etosha National Park|-19.000|16.000|NA|Kunene Region|63|f
 Ettienkro|6.867|-4.421|CI|Lacs District|63
 Étampes-sur-Marne|49.035|3.419|FR|Hauts-de-France|62
 Etzbach|50.778|7.688|DE|Rheinland-Pfalz|62
@@ -89,6 +104,12 @@ Etaux|46.068|6.295|FR|Auvergne-Rhône-Alpes|62
 Ettelgem|51.180|3.029|BE|Flanders|61
 Etchoropo|26.770|-109.683|MX|Sonora|61
 Etúcuaro|19.419|-101.215|MX|Michoacán|61
+E. T. Joshua Airport|13.145|-61.210|VC|Saint George Parish|61|f
+Étang d'Aureilhan|44.226|-1.208|FR|New Aquitaine|61|f
+Étang de Carcans|45.099|-1.117|FR|New Aquitaine|61|f
+Étang de Mauguio|43.579|4.036|FR|Occitanie|61|f
+Étang de Vaccarès|43.539|4.568|FR|Provence-Alpes-Côte d'Azur|61|f
+Etoi Ki|31.964|-111.947|US|Arizona|61|f
 Éterville|49.144|-0.425|FR|Normandy|61
 Etna|44.821|-69.111|US|Maine|60
 Étreillers|49.831|3.160|FR|Hauts-de-France|60
@@ -96,12 +117,100 @@ Ettington|52.138|-1.607|GB|England|60
 Étalans|47.151|6.273|FR|Bourgogne-Franche-Comté|60
 Étainhus|49.566|0.313|FR|Normandy|60
 Étagnac|45.895|0.779|FR|New Aquitaine|60
+Etsdorf am Kamp|48.445|15.741|AT|Lower Austria|60
+Étréaupont|49.904|3.913|FR|Hauts-de-France|59
+Eton|34.825|-84.763|US|Georgia|59
+Étrépilly|49.035|2.931|FR|Île-de-France|59
+Ettenstatt|49.078|11.055|DE|Bavaria|59
+Etgersleben|51.979|11.413|DE|Saxony-Anhalt|58
+Ettal|47.567|11.100|DE|Bavaria|58
 Etxalar|43.234|-1.637|ES|Navarre|58
+Étrechet|46.779|1.784|FR|Centre-Val de Loire|58
+Étouy|49.419|2.363|FR|Hauts-de-France|58
+Etting|49.031|7.178|FR|Grand Est|58
+Eta Island|-64.308|-62.910|AQ||58|f
+Étang de Lavalduc|43.464|4.969|FR|Provence-Alpes-Côte d'Azur|58|f
+Eternity Range|-69.766|-64.533|AQ||58|f
+Ethnographic Museum (Budapest)|47.508|19.048|HU|Budapest|58|f
+Ettrick Pen|55.356|-3.264|GB|Scotland|58|f
+Etilékro|6.612|-3.812|CI|Lacs District|58
+Etna Creek|-23.217|150.467|AU|Queensland|58
+Étouvans|47.465|6.720|FR|Bourgogne-Franche-Comté|58
+Ettendorf|48.813|7.582|FR|Grand Est|57
+Étigny|48.140|3.292|FR|Bourgogne-Franche-Comté|57
+Etchohuaquila|27.319|-109.757|MX|Sonora|57
+Étais-la-Sauvin|47.503|3.345|FR|Bourgogne-Franche-Comté|57
+Etna|41.457|-122.895|US|California|57
+Étercy|45.893|6.006|FR|Auvergne-Rhône-Alpes|57
+Étrez|46.334|5.186|FR|Auvergne-Rhône-Alpes|57
+Étroussat|46.219|3.221|FR|Auvergne-Rhône-Alpes|56
+Etlantepec|19.686|-96.986|MX|Veracruz|56
+Etler|37.143|31.060|TR|Antalya|56
+Eton|-21.265|148.972|AU|Queensland|56
+Etekli|37.423|35.238|TR|Adana|56
+Étaves-et-Bocquiaux|49.939|3.456|FR|Hauts-de-France|56
+Ettersburg|51.034|11.280|DE|Thuringia|56
+Ete|47.531|18.075|HU|Komárom-Esztergom|55
+Etna Green|41.279|-86.046|US|Indiana|55
+Étables|45.101|4.725|FR|Auvergne-Rhône-Alpes|55
+Étuz|47.350|5.940|FR|Bourgogne-Franche-Comté|55
+Etyrken|51.522|131.526|RU|Khabarovsk|55
+Étaimpuis|49.645|1.141|FR|Normandy|55
+Etzersdorf|47.200|15.683|AT|Styria|54
+Étang d'Araing|42.828|0.870|FR|Occitanie|54|f
+Étang d'Oise|50.000|4.250|BE|Wallonia|54|f
+Étang de Hanau|49.010|7.537|FR|Grand Est|54|f
+Étang de Miragoâne|18.403|-73.048|HT|Ouest|54|f
+Étang de Pérols|43.547|3.952|FR|Occitanie|54|f
+Étang de Saint Quentin|48.788|2.015|FR|Île-de-France|54|f
+Étang de Virelles|50.073|4.346|BE|Wallonia|54|f
+Étang Long|42.788|1.062|FR|Occitanie|54|f
+Etna Island|-63.095|-55.179|AQ||54|f
+Etonbreen|79.716|21.892|SJ|Svalbard|54|f
+Ettrick Bay|55.850|-5.133|GB|Scotland|54|f
+Ettrick|44.168|-91.269|US|Wisconsin|54
+Etingen|52.394|11.170|DE|Saxony-Anhalt|54
+Ettenhausen|50.880|10.232|DE|Thuringia|54
+Étréville|49.372|0.649|FR|Normandy|54
+Eterna Primavera|18.844|-99.258|MX|Morelos|54
+Etzersdorf|48.267|15.750|AT|Lower Austria|54
 Etroubles|45.821|7.231|IT|Aosta Valley|51
+Etzleben|51.267|11.167|DE|Thuringia|50
+Ettinghausen|50.516|7.873|DE|Rheinland-Pfalz|50
+Eta Island|32.284|-64.819|BM|Warwick|49|f
+Etchells, Mount|-80.284|-28.331|AQ||49|f
+Ethelbert Ridge|-70.312|-68.926|AQ||49|f
+Ethelwulf, Mount|-70.030|-69.584|AQ||49|f
+Etna Mountain|34.015|-85.400|US|Georgia|49|f
 Etton|53.878|-0.513|GB|England|49
+Etal Castle|55.647|-2.120|GB|England|40|f
+Etang de la Gruère|47.239|7.048|CH|Jura|40|f
+Etang de la Moubra|46.304|7.478|CH|Valais|40|f
+Étang de Lacanau|44.967|-1.117|FR|New Aquitaine|40|f
+Etang de Trente Pas|46.288|7.280|CH|Valais|40|f
+Etang Grenon|46.310|7.476|CH|Valais|40|f
+Etangs Rougeat|47.462|7.160|CH|Jura|40|f
+Etemenanki|32.536|44.421|IQ|Babil|40|f
+Ethan Allen Homestead|44.507|-73.235|US|Vermont|40|f
+Ethel F. Wilson Memorial Park|54.417|-125.687|CA|British Columbia|40|f
+Ethel Lake|54.532|-110.351|CA|Alberta|40|f
+Ether Monument|42.355|-71.071|US|Massachusetts|40|f
+Ethnological Museum|52.456|13.292|DE|State of Berlin|40|f
+Etnefjorden|59.647|5.823|NO|Vestland|40|f
+Etnografiska Museet|59.333|18.121|SE|Stockholm|40|f
+Etolin Canoe|56.173|-132.457|US|Alaska|40|f
+Eton Manor|51.553|-0.015|GB|England|40|f
+Etonbury|52.027|-0.264|GB|England|40|f
+Etpison Museum|7.345|134.483|PW|Koror|40|f
+Etropole Peak|-62.602|-60.140|AQ||40|f
+Ettaler Manndl|47.584|11.116|DE|Bavaria|40|f
+Etters Bridge|40.224|-76.898|US|Pennsylvania|40|f
 Etayo|42.617|-2.154|ES|Navarre|40
+Etgert|49.779|7.021|DE|Rheinland-Pfalz|36
+Etteldorf|50.033|6.567|DE|Rheinland-Pfalz|30
 Eti-Osa|6.531|3.326|NG|Lagos|0
 Etili|39.986|26.897|TR|Canakkale|0
 Etimesgut|39.953|32.633|TR|Ankara|0
+Etschberg|49.517|7.433|DE|Rheinland-Pfalz|0
 Ettal|5.584|153.586|FM|Chuuk|0
 Etxebarria|43.254|-2.478|ES|Basque Country|0

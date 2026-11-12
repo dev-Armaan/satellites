@@ -6,10 +6,12 @@ Szombathely|47.231|16.622|HU|Vas County|98
 Szolnok|47.181|20.198|HU|Jász-Nagykun-Szolnok|97
 Szczecinek|53.708|16.699|PL|West Pomerania|92
 Szekszárd|46.347|18.712|HU|Tolna County|91
+Szczecin-Goleniów Airport|53.585|14.902|PL|West Pomerania|89|f
 Szentes|46.658|20.261|HU|Csongrád|89
 Szczytno|53.563|20.987|PL|Warmia-Masuria|88
 Szigetszentmiklós|47.344|19.043|HU|Pest County|88
 Szentendre|47.669|19.076|HU|Pest County|87
+Szczecin Lagoon|53.767|14.233|PL||87|f
 Szamotuły|52.612|16.578|PL|Greater Poland|85
 Szczepin|51.116|17.010|PL|Lower Silesia|85
 Szarvas|46.867|20.550|HU|Bekes County|85
@@ -48,6 +50,7 @@ Szczekociny|50.627|19.825|PL|Silesia|72
 Szczuczyn|53.563|22.285|PL|Podlasie|71
 Szada|47.633|19.317|HU|Pest County|71
 Szczerców|51.333|19.110|PL|Łódź Voivodeship|70
+Szrenica|50.792|15.513|PL|Lower Silesia|70|f
 Szynwałd|49.968|21.123|PL|Lesser Poland|70
 Szob|47.819|18.870|HU|Pest County|70
 Sződ|47.724|19.170|HU|Pest County|70
@@ -64,6 +67,7 @@ Szigetcsép|47.265|18.970|HU|Pest County|68
 Szárliget|47.516|18.495|HU|Fejér|67
 Szepietowo|52.870|22.544|PL|Podlasie|67
 Szany|47.464|17.304|HU|Győr-Moson-Sopron|67
+Széchenyi Chain Bridge|47.499|19.044|HU|Budapest|67|f
 Szerzyny|49.809|21.247|PL|Lesser Poland|67
 Szaflary|49.427|20.027|PL|Lesser Poland|67
 Szigetújfalu|47.234|18.927|HU|Pest County|67
@@ -78,6 +82,7 @@ Szentkirály|46.919|19.918|HU|Bács-Kiskun|66
 Szurdokpüspöki|47.859|19.692|HU|Nógrád|66
 Szilvásvárad|48.100|20.400|HU|Heves County|66
 Szpetal Górny|52.681|19.100|PL|Kujawsko-Pomorskie|65
+Szászrégen Ghetto|46.767|24.700|RO|Mureș County|65|f
 Szczurowa|50.119|20.636|PL|Lesser Poland|65
 Szczepanów|51.198|16.611|PL|Lower Silesia|65
 Szemud|54.487|18.223|PL|Pomerania|64
@@ -93,7 +98,30 @@ Szumowo|52.919|22.084|PL|Podlasie|61
 Szydłów|50.591|21.007|PL|Świętokrzyskie|61
 Szirák|47.831|19.531|HU|Nógrád|61
 Szastarka|50.855|22.320|PL|Lublin|60
+Szakcs|46.539|18.110|HU|Tolna County|60
+Szczepanów|50.005|20.654|PL|Lesser Poland|60
+Szuhakálló|48.283|20.652|HU|Borsod-Abaúj-Zemplén|59
+Sztabin|53.682|23.098|PL|Podlasie|59
+Szigliget|46.801|17.435|HU|Veszprém|58
+Szczytno-Szymany International Airport|53.483|20.933|PL|Warmia-Masuria|58|f
+Szentendrei-sziget|47.696|19.106|HU|Pest County|58|f
 Szydłowo|53.162|16.612|PL|Greater Poland|58
+Szczodre|51.195|17.183|PL|Lower Silesia|57
+Szczytniki|51.689|18.331|PL|Greater Poland|57
+Szymanowo|51.605|16.893|PL|Greater Poland|56
+Szudziałowo|53.299|23.655|PL|Podlasie|56
+Szczawin|51.900|19.488|PL|Łódź Voivodeship|56
 Szczutowo|52.940|19.574|PL|Mazovia|56
+Szabás|46.289|17.448|HU|Somogy County|56
+Szálka|46.275|18.638|HU|Tolna County|56
+Szczyglice|50.092|19.828|PL|Lesser Poland|55
 Szydłowo|53.081|20.451|PL|Mazovia|55
+Szlembark|49.475|20.212|PL|Lesser Poland|55
+Szczyrzyc|49.783|20.190|PL|Lesser Poland|55
+Szczytniki|49.974|20.230|PL|Lesser Poland|55
+Szanda|47.927|19.441|HU|Nógrád|54
+Szeged Airport|46.247|20.090|HU|Csongrád|54|f
+Szelidi-tó|46.628|19.044|HU|Bács-Kiskun|54|f
+Szolnok Air Base|47.123|20.235|HU|Jász-Nagykun-Szolnok|54|f
 Szelków|52.835|21.218|PL|Mazovia|49
+Szczeliniec Wielki|50.484|16.343|PL|Lower Silesia|40|f

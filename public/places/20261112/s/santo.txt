@@ -28,6 +28,7 @@ Santos Lugares|-34.603|-58.541|AR|Buenos Aires|91
 Santo Antônio do Tauá|-1.152|-48.129|BR|Pará|90
 Santo Tomás|10.758|-74.755|CO|Atlántico|89
 Santo Antônio do Sudoeste|-26.074|-53.725|BR|Paraná|89
+Santorini|36.406|25.457|GR|South Aegean|89|f
 Santo Antônio do Monte|-20.087|-45.294|BR|Minas Gerais|89
 Santo Amaro da Imperatriz|-27.688|-48.779|BR|Santa Catarina|89
 Santo António|32.661|-16.935|PT|Madeira|88
@@ -35,6 +36,7 @@ Santo Antônio de Posse|-22.606|-46.919|BR|São Paulo|87
 Santo Tomé|-28.551|-56.041|AR|Corrientes|87
 Santo Antônio|-6.311|-35.479|BR|Rio Grande do Norte|87
 Santo Antônio do Içá|-3.102|-67.940|BR|Amazonas|87
+Santos Dumont Airport|-22.910|-43.163|BR|Rio de Janeiro|86|f
 Santo Anastácio|-21.976|-51.651|BR|São Paulo|85
 Santo Antônio do Amparo|-20.946|-44.919|BR|Minas Gerais|85
 Santo Antônio do Leverger|-15.866|-56.077|BR|Mato Grosso|85
@@ -50,6 +52,7 @@ Santoña|43.444|-3.458|ES|Cantabria|81
 Santo André|39.055|-8.244|PT|Portalegre|81
 Santo António da Charneca|38.626|-9.030|PT|Setúbal|81
 Santo Amaro das Brotas|-10.789|-37.054|BR|Sergipe|81
+Santo-Pekoa International Airport|-15.505|167.220|VU|Sanma|81|f
 Santo André|38.061|-8.782|PT|Setúbal|81
 Santo Antônio do Jacinto|-16.534|-40.176|BR|Minas Gerais|80
 Santo Antônio das Missões|-28.511|-55.227|BR|Rio Grande do Sul|80
@@ -82,6 +85,7 @@ Santo Domingo|12.264|-85.082|NI|Chontales Department|75
 Santo Domingo|10.064|-84.155|CR|Heredia Province|75
 Santo Pipó|-27.141|-55.409|AR|Misiones|75
 Santo Domingo Petapa|16.818|-95.140|MX|Oaxaca|75
+Santoméri|37.969|21.579|GR|West Greece|74|f
 Santorso|45.734|11.388|IT|Veneto|74
 Santos Reyes Nopala|16.107|-97.144|MX|Oaxaca|74
 Santo Tomas|15.750|120.962|PH|Central Luzon|74
@@ -154,6 +158,7 @@ Santo Tomás Huatzindeo|20.222|-100.921|MX|Guanajuato|66
 Santo Niño|13.104|123.968|PH|Bicol Region|66
 Santo Niño|11.063|124.562|PH|Eastern Visayas|66
 San Tommaso Tre Archi|43.228|13.775|IT|The Marches|66
+Santos Dumont Airport|-25.540|-48.531|BR|Paraná|65|f
 Santo Stefano al Mare|43.839|7.897|IT|Liguria|65
 Santo Domingo Tepuxtepec|16.956|-96.056|MX|Oaxaca|65
 Santo Antônio do Rio Abaixo|-19.228|-43.254|BR|Minas Gerais|65
@@ -179,38 +184,86 @@ Santo Domingo|8.510|-82.714|PA|Chiriquí Province|62
 Santo Domingo Shomege (Shomege)|19.845|-99.902|MX|México|61
 Santo António|1.639|7.420|ST|Príncipe|61
 Santos Reyes Tepejillo|17.438|-97.938|MX|Oaxaca|61
+Santo Antão|17.069|-25.183|CV|Porto Novo|61|f
 Santo Tomás Jalieza|16.844|-96.671|MX|Oaxaca|61
 Santo Amaro|0.366|6.689|ST|São Tomé Island|61
 Santo Domingo|22.283|-100.170|MX|San Luis Potosí|60
 Santo Domingo Xagacía|17.155|-96.268|MX|Oaxaca|60
 Santo Stefano di Rogliano|39.192|16.321|IT|Calabria|60
 Santo Domingo Yanhuitlán|17.529|-97.343|MX|Oaxaca|60
+Santo Spirito|41.167|16.750|IT|Apulia|60
+Santo Domingo del Río|18.037|-96.548|MX|Oaxaca|60
+Santo Tomás Allende|20.232|-98.621|MX|Hidalgo|60
+Santo da Serra|32.722|-16.820|PT|Madeira|59
+Santo Domingo del Estado|17.156|-97.848|MX|Oaxaca|59
+S.Antonio dei Lazzari|41.577|14.671|IT|Molise|59
+Santo Niño|18.287|-100.324|MX|Guerrero|59
+Santo Tomás|20.996|-104.115|MX|Jalisco|59
+Sant'Onofrio-Floriano|42.762|13.737|IT|Abruzzo|59
+Santo Domingo Barrio Alto|17.197|-96.790|MX|Oaxaca|59
 Sant'Orsola Terme|46.109|11.302|IT|Trentino-Alto Adige|59
+Santonuovo|43.865|10.944|IT|Tuscany|59
+Santos Reyes Zochiquilazola|17.266|-98.184|MX|Oaxaca|59
+Santo Domingo|18.401|-100.728|MX|Guerrero|59
+Santo Domingo Yojovi|17.299|-96.210|MX|Oaxaca|59
+Santo Tomás Venaditos (Venaditos)|22.521|-102.106|MX|Zacatecas|59
+Santo Tomás|20.987|-98.452|MX|Hidalgo|59
 Santo Domingo Ozolotepec|16.150|-96.310|MX|Oaxaca|58
+Santo Domingo|22.865|-100.283|MX|San Luis Potosí|58
+Santorini Airport|36.399|25.479|GR|South Aegean|58|f
+Santo Antônio|-5.335|-35.722|BR|Rio Grande do Norte|58
 Santok|52.738|15.410|PL|Lubusz|58
 Santo Domingo Albarradas|17.068|-96.201|MX|Oaxaca|58
+Santo Domingo Tonahuíxtla|18.203|-97.890|MX|Puebla|58
+Santo Domingo Ayotlicha|18.721|-98.577|MX|Puebla|58
+Santo Marino|44.014|12.407|IT|Emilia-Romagna|58
 Santo Stefano in Aspromonte|38.169|15.790|IT|Calabria|58
 Santo Tomás de los Plátanos|19.183|-100.260|MX|México|58
+Santo Domingo Yolotepec|17.812|-97.955|MX|Oaxaca|58
+Santo Antão|38.550|-27.800|PT|Azores|57
 Santo Domingo|23.327|-101.736|MX|San Luis Potosí|57
 Santorcaz|40.472|-3.235|ES|Madrid|57
+Santo Domingo Agua Zarca|20.152|-98.499|MX|Hidalgo|57
+Santos Degollado|17.343|-93.552|MX|Chiapas|57
+Santo Tomás Quieri|16.348|-96.181|MX|Oaxaca|57
+Santo Stefano in Vairano|45.378|9.676|IT|Lombardy|57
+Santo Tomás|28.683|-107.573|MX|Chihuahua|57
+Santo Domingo|-8.105|-78.911|PE|La Libertad|56
+Santo Tomás|16.725|-91.552|MX|Chiapas|56
 Santo Tomás|8.397|-82.648|PA|Chiriquí Province|56
+Santos Reyes Yucuna|17.777|-98.001|MX|Oaxaca|56
+Santo Niño de Praga|20.669|-100.512|MX|Querétaro|56
+Santos Degollado|17.221|-96.791|MX|Oaxaca|56
+Santo Tomás de Arriba|16.777|-96.236|MX|Oaxaca|56
 Santo Tomás del Norte|13.186|-86.923|NI|Chinandega Department|56
 Santo Domingo Roayaga|17.338|-96.115|MX|Oaxaca|55
+Santo|45.674|11.487|IT|Veneto|55
+Santo Domingo (La Cascada)|15.486|-92.405|MX|Chiapas|55
 Santo Tomás de Pata|-13.113|-74.419|PE|Huancavelica|55
+Santo Domingo|17.999|-89.377|MX|Campeche|55
 Santo Stefano del Sole|40.894|14.867|IT|Campania|55
+Santo António|14.944|-24.480|CV|São Filipe|55
+Santo Domingo de las Granadas|16.307|-92.117|MX|Chiapas|54
+Santo Domingo|17.452|-100.353|MX|Guerrero|54
+Santo Domingo Latani|17.372|-95.901|MX|Oaxaca|54
 Santo Stefano d'Aveto|44.547|9.453|IT|Liguria|54
+Santo Domingo|20.516|-101.228|MX|Guanajuato|54
 Santomenna|40.807|15.326|IT|Campania|53
 Santopadre|41.602|13.635|IT|Lazio|52
 Santo Domingo Yodohino|17.617|-97.683|MX|Oaxaca|51
 Santovenia|41.879|-5.710|ES|Castille and León|51
 Sant'Orsola|46.109|11.302|IT|Trentino-Alto Adige|49
 Santo Domingo de Silos|41.964|-3.417|ES|Castille and León|49
+Santo Stefano al Ponte|43.769|11.254|IT|Tuscany|49|f
+Santos Peak|-64.413|-61.536|AQ||49|f
+Santower See|53.882|11.201|DE|Mecklenburg-Vorpommern|49|f
 Santoyo|42.215|-4.343|ES|Castille and León|48
 Santo Domingo de Capillas|-13.737|-75.243|PE|Huancavelica|47
 Santo Domingo Tlatayápam|17.408|-97.347|MX|Oaxaca|43
 San Torcuato|42.482|-2.889|ES|La Rioja|42
 Santo Stefano di Sessanio|42.343|13.645|IT|Abruzzo|41
 Santo Tomé de Zabarcos|40.787|-4.910|ES|Castille and León|41
+Santos Luzardo National Park|6.721|-67.571|VE|Apure|40|f
 Santo Domingo de las Posadas|40.812|-4.634|ES|Castille and León|39
 Santo Domingo de Los Olleros|-12.215|-76.512|PE|Lima region|39
 Santo Stefano Roero|44.788|7.941|IT|Piedmont|38
@@ -235,3 +288,5 @@ Santo Tomás|-6.151|-78.682|PE|Cajamarca Department|0
 Santo Toribio|-8.865|-77.914|PE|Ancash|0
 Santol|16.772|120.460|PH|Ilocos|0
 Santon|54.117|-4.583|IM|Santon|0
+Santong|-8.318|116.287|ID|West Nusa Tenggara|0
+Santosa|-7.254|107.639|ID|West Java|0

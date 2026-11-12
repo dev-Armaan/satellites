@@ -13,6 +13,7 @@ Bahadurgarh|28.693|76.936|IN|Haryana|105
 Baḥarkah|36.316|44.035|IQ|Erbil|102
 Bahārestān|32.488|51.773|IR|Isfahan|101
 Baheri|28.774|79.497|IN|Uttar Pradesh|96
+Bahrain International Airport|26.271|50.634|BH|Muharraq|96|f
 Bahlā’|22.979|57.305|OM|Ad Dakhiliyah|95
 Bäherden|38.436|57.432|TM|Ahal|92
 Bahía de Caráquez|-0.600|-80.424|EC|Manabí|91
@@ -22,14 +23,19 @@ Bahārak|37.003|70.907|AF|Badakhshan|90
 Bahau|2.808|102.405|MY|Negeri Sembilan|90
 Bahār|34.907|48.441|IR|Hamadan Province|89
 Bah-Bah|8.607|125.914|PH|Caraga|89
+Bahías de Huatulco International Airport|15.775|-96.263|MX|Oaxaca|86|f
 Bahía Honda|22.903|-83.160|CU|Artemisa|86
 Bahé-Blaon|6.671|-7.343|CI|Montagnes|85
 Bahula|23.652|87.165|IN|West Bengal|84
 Bahacheve|49.012|31.047|UA|Cherkasy|84
 Bāh|26.869|78.594|IN|Uttar Pradesh|84
+Bahawalpur Airport|29.348|71.718|PK|Punjab|83|f
 Bahçe|37.197|36.577|TR|Adana|82
+Bahir Dar Airport|11.608|37.322|ET|Amhara|82|f
 Bahārān Shahr|32.512|51.542|IR|Isfahan|81
 Bahsūma|29.201|77.972|IN|Uttar Pradesh|81
+Bahia Palace|31.622|-7.982|MA|Marrakesh-Safi|81|f
+Bahrain Island|26.000|50.550|BH||81|f
 Bahçelievler|39.925|32.825|TR|Ankara|81
 Bahua|25.839|80.623|IN|Uttar Pradesh|80
 Bahay Pare|15.032|120.881|PH|Central Luzon|80
@@ -45,6 +51,7 @@ Bahārestān|27.832|52.354|IR|Bushehr|76
 Bahrāmpur|32.131|75.396|IN|Punjab|75
 Bahadurpur|26.115|85.902|IN|Bihar|73
 Baherove|45.374|36.297|UA|Crimea|73
+Bahia Laolao|15.142|145.756|MP|Saipan|72|f
 Bahate|45.407|28.943|UA|Odesa|72
 Bahnea|46.367|24.483|RO|Mureș County|71
 Bahiry|7.308|-6.736|CI|Sassandra-Marahoue|71
@@ -52,22 +59,43 @@ Bahçeköy|41.179|28.992|TR|Istanbul|71
 Bahçesaray|38.125|42.798|TR|Van|71
 Bahna|46.783|26.783|RO|Neamț County|71
 Bahlingen|48.121|7.740|DE|Baden-Wurttemberg|71
+Bahía de Ancón de Sardinas|1.460|-78.973|CO||71|f
+Bahía de Campeche|20.000|-94.000|MX||71|f
 Bahati|-0.154|36.146|KE|Nakuru County|70
 Bahreghān|30.213|52.018|IR|Fars|70
+Bahía de las Águilas|17.843|-71.633|DO|Pedernales Province|70|f
 Baho|42.701|2.822|FR|Occitanie|69
+Bahía Magdalena|24.636|-111.973|MX|Baja California Sur|69|f
+Bahiret el Biban|33.215|11.346|TN|Medenine Governorate|69|f
 Bahādor Bayk|34.952|48.315|IR|Hamadan Province|69
 Bahía Tortugas|27.691|-114.895|MX|Baja California Sur|69
 Bahay|13.544|123.041|PH|Bicol Region|68
 Bahşiş|36.823|34.888|TR|Mersin|68
 Bahnhof Reken|51.804|7.044|DE|North Rhine-Westphalia|67
+Bahía Almirante|9.347|-82.320|PA|Bocas del Toro Province|67|f
+Bahia Honda Key|24.668|-81.265|US|Florida|67|f
+Bahia Piña Airport|7.585|-78.181|PA|Darién|67|f
 Baheli|10.014|118.773|PH|Mimaropa|67
 Bahmanābād|30.339|52.190|IR|Fars|66
 Bahrdorf|52.386|11.000|DE|Lower Saxony|66
 Bahrāmābād|35.572|51.260|IR|Tehran|66
+Bahama Islands|24.250|-76.000|BS|Cat Island|65|f
+Bahía Academia|-0.754|-90.295|EC|Galápagos|65|f
+Bahía de Amatique|15.942|-88.864|BZ||65|f
+Bahía de Banderas|20.637|-105.427|MX|Nayarit|65|f
+Bahía de Buena Vista|22.458|-79.145|CU||65|f
+Bahía de Parita|8.167|-80.408|PA||65|f
+Bahía de Portete|12.217|-71.917|CO|La Guajira Department|65|f
+Bahía del Rincón|19.317|-69.200|DO|Samaná|65|f
+Bahía Tamarindo|10.317|-85.853|CR|Guanacaste Province|65|f
 Báhoň|48.309|17.445|SK|Bratislava Region|65
 Bahatyr|47.995|36.939|UA|Donetsk|65
 Bahon|19.470|-72.115|HT|Nord|64
 Bahía Asunción|27.142|-114.296|MX|Baja California Sur|63
+Bahía Blanca|-38.903|-62.139|AR|Buenos Aires|63|f
+Bahía Colonet|30.961|-116.279|MX|Baja California|63|f
+Bahía de Jiquilisco|13.232|-88.548|SV|Usulutan|63|f
+Bahía San Julián|-49.340|-67.709|AR|Santa Cruz|63|f
 Bahrynivka|47.983|25.946|UA|Chernivtsi|63
 Bahābād|34.327|58.718|IR|Razavi Khorasan|63
 Bahtılı|36.887|30.574|TR|Antalya|63
@@ -80,14 +108,72 @@ Bahār|36.406|59.608|IR|Razavi Khorasan|62
 Bahşılar|38.242|40.024|TR|Diyarbakır Province|61
 Bahçebaşı|38.379|35.493|TR|Kayseri|61
 Bahar|39.730|47.725|AZ|Beyləqan|61
+Bahādurgarh Fort|30.364|76.472|IN|Punjab|61|f
+Bahía Corral|-39.855|-73.415|CL|Los Lagos Region|61|f
+Bahía de Adair|31.581|-113.920|MX|Sonora|61|f
+Bahía de Cienfuegos|22.128|-80.475|CU|Cienfuegos Province|61|f
+Bahía de Maimón|19.832|-70.780|DO|Puerto Plata|61|f
+Bahía de Montevideo|-34.890|-56.224|UY|Montevideo Department|61|f
+Bahía de Panamá|8.833|-79.250|PA|Panamá|61|f
+Bahía Inglesa|-27.116|-70.884|CL|Atacama|61|f
+Bahrain Fort|26.233|50.520|BH|Manama|61|f
 Baẖan|32.352|35.019|IL|Central District|61
 Bahçedere|38.801|42.638|TR|Bitlis|61
 Bahrāmīyeh|36.662|57.515|IR|Razavi Khorasan|60
 Bahuang|27.718|109.019|CN|Guizhou|60
+Bahçekonak|41.103|35.545|TR|Samsun|60
+Bahitipla|7.935|-5.805|CI|Woroba|60
+Bahābād|36.552|59.260|IR|Razavi Khorasan|59
+Băhnășeni|46.573|26.582|RO|Bacău County|59
+Bahachivka|47.976|30.555|UA|Mykolaiv|59
+Bāhārchara|20.836|92.285|BD|Chittagong|58
+Bahçebaşı|37.114|41.234|TR|Mardin|58
+Bahía Bustamante|-45.123|-66.503|AR|Chubut|58|f
+Bahía Cook|-55.182|-70.206|CL|Region of Magallanes|58|f
+Bahía de Coronado|8.917|-83.750|CR|Puntarenas Province|58|f
+Bahía de La Habana|23.138|-82.340|CU|Havana|58|f
+Bahía Honda|7.745|-81.530|PA|Veraguas Province|58|f
+Bahuaja-Sonene National Park|-13.509|-69.574|PE|Puno|58|f
+Bahçeköy|40.823|31.080|TR|Düzce|58
+Bahosil|16.779|-92.727|MX|Chiapas|58
+Bahachivka|49.052|31.098|UA|Cherkasy|57
+Bahérémi|7.592|-3.970|CI|Lacs District|57
+Bahçeli|39.206|26.820|TR|İzmir Province|57
+Bahārān|32.689|51.789|IR|Isfahan|57
+Bahibli|6.859|-6.997|CI|Sassandra-Marahoue|56
+Bahçeköy|39.216|40.907|TR|Bingöl|56
+Bahnele|45.640|26.722|RO|Vrancea|56
+Bahrenfleth|53.871|9.440|DE|Schleswig-Holstein|56
+Bahna|46.226|26.650|RO|Bacău County|55
+Bahía de los Ángeles|28.947|-113.560|MX|Baja California|55
+Bahālnagar|23.249|89.197|BD|Khulna Division|55
+Bahçe|38.133|41.100|TR|Diyarbakır Province|55
+Bahachka|49.978|38.373|UA|Luhansk|55
+Bahamonde Point|-63.321|-57.902|AQ||54|f
+Bahía Ainsworth|-54.391|-69.575|CL|Region of Magallanes|54|f
+Bahía Buen Suceso|-54.783|-65.250|AR|Tierra del Fuego|54|f
+Bahía Concepción|-55.374|-68.297|CL|Region of Magallanes|54|f
+Bahía Concepción|26.684|-111.824|MX|Baja California Sur|54|f
+Bahía de Cárdenas|23.106|-81.149|CU|Matanzas Province|54|f
+Bahía de Chingudi|43.367|-1.783|FR||54|f
+Bahía de Nipe|20.786|-75.687|CU|Holguín Province|54|f
+Bahía de Santa Clara|23.071|-80.484|CU||54|f
+Bahía Engaño|-43.332|-65.044|AR|Buenos Aires F.D.|54|f
+Bahía Honda|12.350|-71.783|CO|La Guajira Department|54|f
+Bahía San Sebastián|-53.159|-68.345|AR|Tierra del Fuego|54|f
 Bahía Azul|9.142|-81.894|PA|Ngöbe-Buglé Comarca|52
+Bahia Cupica|6.550|-77.333|CO|Chocó|49|f
+Bahía de Jobos|17.948|-66.208|PR|Guayama|49|f
 Bahabón|41.481|-4.279|ES|Castille and León|46
+Bahrenhof|53.878|10.376|DE|Schleswig-Holstein|46
 Bahía Honda|7.709|-80.451|PA|Los Santos Province|42
 Bahabón de Esgueva|41.862|-3.730|ES|Castille and León|42
+Bahía Las Palmas|23.688|-109.664|MX|Baja California Sur|40|f
+Bahir Dar University|11.597|37.396|ET||40|f
+Bahaodi|41.911|112.980|CN|Inner Mongolia|0
+Bahe|30.429|115.023|CN|Hubei|0
+Bahechuan|41.027|124.810|CN|Liaoning|0
 Bahoi|2.362|125.373|ID|North Sulawesi|0
 Bahorí|37.402|67.994|TJ|Khatlon Province|0
 Bahşılı|39.800|33.437|TR|Kırıkkale|0
+Bahui|40.932|123.200|CN|Liaoning|0

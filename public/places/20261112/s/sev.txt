@@ -23,10 +23,12 @@ Sevierville|35.868|-83.562|US|Tennessee|84
 Seven Sisters|51.578|-0.079|GB|England|84
 Seven Oaks|34.049|-81.146|US|South Carolina|84
 Severínia|-20.809|-48.803|BR|São Paulo|83
+Seven Brothers Islands|12.463|43.411|DJ|Obock|82|f
 Sevugampatti|10.199|77.805|IN|Tamil Nadu|81
 Seven Hills|41.395|-81.676|US|Ohio|81
 Sēvūr|12.955|78.853|IN|Tamil Nadu|81
 Seville Grove|-32.136|115.989|AU|Western Australia|80
+Seven Hunters|58.284|-7.611|GB|Scotland|80|f
 Seven Corners|38.872|-77.155|US|Virginia|79
 Severnyy|50.675|36.559|RU|Belgorod Oblast|78
 Sevsk|52.149|34.493|RU|Bryansk Oblast|78
@@ -38,8 +40,10 @@ Severnoye|56.350|78.365|RU|Novosibirsk Oblast|75
 Sevenum|51.413|6.037|NL|Limburg|74
 Seven Lakes|35.278|-79.564|US|North Carolina|74
 Severnoye|54.093|52.542|RU|Orenburg Oblast|73
+Severouralsk Airport|60.300|60.075|RU|Sverdlovsk Oblast|73|f
 Sevnica|46.008|15.316|SI|Municipality of Sevnica|73
 Sevelen|47.122|9.486|CH|Saint Gallen|73
+Seville Airport|37.418|-5.893|ES|Andalusia|72|f
 Sevrier|45.864|6.140|FR|Auvergne-Rhône-Alpes|72
 Severomuysk|56.177|113.570|RU|Buryatiya Republic|72
 Severnyy|56.733|37.650|RU|Moscow Oblast|72
@@ -49,19 +53,29 @@ Seva|41.838|2.280|ES|Catalonia|71
 Severiano de Almeida|-27.433|-52.116|BR|Rio Grande do Sul|71
 Sevina|19.629|-101.901|MX|Michoacán|70
 Severka|56.869|60.301|RU|Sverdlovsk Oblast|70
+Sevier Lake|38.946|-113.139|US|Utah|70|f
 Severomorsk-3|68.879|33.726|RU|Murmansk|70
 Seven Fields|40.692|-80.063|US|Pennsylvania|69
+Severnaya Zemlya|79.500|98.000|RU|Krasnoyarsk Krai|69|f
 Seven Miles|19.334|-81.381|KY||69
 Sévérac-le-Château|44.322|3.071|FR|Occitanie|68
 Seville|41.010|-81.862|US|Ohio|67
+Seven Fingered Jack|48.151|-120.814|US|Washington|67|f
+Severnyy Yekaterininskiy Kanal|60.972|55.155|RU||67|f
 Sevkar|41.016|45.142|AM|Tavush|67
 Severnyy-Kospashskiy|59.090|57.804|RU|Perm Krai|67
 Severn Beach|51.560|-2.663|GB|England|67
 Seven Sisters|51.767|-3.717|GB|Wales|67
 Sèvres-Anxaumont|46.569|0.465|FR|New Aquitaine|66
+Severny Island|75.383|59.470|RU|Nenets|65|f
+Severnyy Proliv|54.992|137.207|RU|Khabarovsk|65|f
+Sevy Peak|44.025|-114.973|US|Idaho|65|f
 Severka|52.133|79.283|RU|Altai Krai|65
 Sevinçli|38.350|34.133|TR|Aksaray|64
 Sevastianá|40.769|22.123|GR|Central Macedonia|64
+Severn River Bridge|39.007|-76.504|US|Maryland|63|f
+Severo-Evensk Airport|61.925|159.231|RU|Magadan Oblast|63|f
+Severo-Vostochnyy Proliv|54.580|137.667|RU|Khabarovsk|63|f
 Ševarice|44.867|19.660|RS|Central Serbia|63
 Seven Points|32.320|-96.213|US|Texas|63
 Sevindik|37.741|40.003|TR|Diyarbakır Province|63
@@ -73,11 +87,59 @@ Sevinç|39.780|30.689|TR|Eskişehir|62
 Ševica|44.509|21.723|RS|Central Serbia|62
 Sevrey|46.738|4.840|FR|Bourgogne-Franche-Comté|62
 Seville B|-24.677|31.445|ZA|Mpumalanga|61
+Seven Troughs Range|40.462|-118.818|US|Nevada|61|f
+Seven Utes Mountain|40.478|-105.935|US|Colorado|61|f
+Severo-Eniseysk Airport|60.374|93.012|RU|Krasnoyarsk Krai|61|f
 Sévignac|48.334|-2.339|FR|Brittany|61
+Seven Miles El Progresso|17.102|-88.949|BZ|Cayo District|60
 Sevilleja de la Jara|39.575|-4.964|ES|Castille-La Mancha|60
+Sevastopol’|53.134|65.791|KZ|Kostanay|59
+Sevastí|40.359|22.545|GR|Central Macedonia|59
+Sevan Peninsula|40.565|45.007|AM|Gegharkunik|58|f
+Severny Airport|55.092|82.906|RU|Novosibirsk Oblast|58|f
+Seven Mile Ford|36.810|-81.630|US|Virginia|58
+Seven Mile|39.480|-84.552|US|Ohio|58
+Sevenans|47.587|6.866|FR|Bourgogne-Franche-Comté|58
+Sevenmile|33.785|-109.957|US|Arizona|57
+Sévignacq|43.442|-0.263|FR|New Aquitaine|56
+Severinești|44.694|22.946|RO|Mehedinți County|56
+Seville|29.317|-81.493|US|Florida|56
+Severynivka|46.827|30.581|UA|Odesa|56
+Sevelinges|46.099|4.296|FR|Auvergne-Rhône-Alpes|55
+Seville A|-24.669|31.417|ZA|Mpumalanga|55
+Sévignacq-Meyracq|43.113|-0.411|FR|New Aquitaine|55
+Sevinçli|37.265|35.588|TR|Adana|55
+Seven Devils Lake|33.569|-91.584|US|Arkansas|54|f
+Severn Road Bridge|51.611|-2.643|GB|England|54|f
+Sevastyanovka|44.820|33.933|UA|Crimea|54
+Seven Valleys|39.856|-76.769|US|Pennsylvania|54
 Severin|45.841|16.968|HR|Bjelovar-Bilogora|53
+Seva|5.967|0.933|GH||49|f
+Seven Gables|37.311|-118.834|US|California|49|f
+Seven Mile Beach National Park|-34.835|150.746|AU|New South Wales|49|f
+Seven O'clock Mountain|50.500|-122.853|CA|British Columbia|49|f
+Sevenmile Mountain|33.153|-112.253|US|Arizona|49|f
+Sevar Point|-62.674|-61.149|AQ||40|f
+Seven Beaver Lake|47.499|-91.811|US|Minnesota|40|f
+Seven Islands|39.275|-79.685|US|West Virginia|40|f
+Seven Lakes State Park|42.813|-83.664|US|Michigan|40|f
+Seven Mile Bridge|24.685|-81.220|US|Florida|40|f
+Seven Mile Island|67.913|-114.872|CA|Nunavut|40|f
+Seven Presidents Park|40.315|-73.977|US|New Jersey|40|f
+Seven Sisters Peaks|54.966|-128.204|CA|British Columbia|40|f
+Seven Winds of the Lake|48.524|-113.465|US|Montana|40|f
+Sevenmile Bridge|37.792|-106.981|US|Colorado|40|f
+Sevenmile Mountains|33.570|-110.574|US|Arizona|40|f
+Severance Lake|44.682|-94.121|US|Minnesota|40|f
+Severinghaus Glacier|-78.667|-85.250|AQ||40|f
+Severn Lake|53.949|-90.764|CA|Ontario|40|f
+Seville Bridge|40.488|-90.352|US|Illinois|40|f
+Sevilleta National Wildlife Refuge|34.320|-106.814|US|New Mexico|40|f
+Sevlievski Peak|-62.961|-62.487|AQ||40|f
+Sevtopolis Peak|-62.468|-59.876|AQ||40|f
 Sevaster|40.396|19.730|AL|Vlorë County|0
 Sever do Vouga|40.735|-8.367|PT|Aveiro|0
+Severnyy|47.289|39.712|RU|Rostov|0
 Severynivka|49.051|27.947|UA|Vinnytsia|0
 Sevilla|0.085|-77.126|EC|Sucumbíos|0
 Sevilla|9.704|124.048|PH|Central Visayas|0

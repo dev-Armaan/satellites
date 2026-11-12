@@ -47,6 +47,10 @@ Yiu Tung Estate|22.278|114.223|HK|Eastern District|84
 Yinxingshu|33.805|106.038|CN|Gansu|83
 Yiju|28.877|108.591|CN|Chongqing|83
 Yıldızlı|41.001|39.607|TR|Trabzon|83
+Yining Airport|43.955|81.329|CN|Xinjiang|82|f
+Yinxu|36.141|114.303|CN|Henan|82|f
+Yiwu Airport|29.345|120.032|CN|Zhejiang|82|f
+Yīchūn Líndū Jīchǎng|47.751|129.018|CN|Heilongjiang|82|f
 Yirol|6.553|30.498|SS|Lakes|81
 Yingye'er|37.373|79.777|CN|Xinjiang|81
 Yingwusitang|38.314|77.228|CN|Xinjiang|80
@@ -55,52 +59,195 @@ Yingkiong|28.610|95.048|IN|Arunachal Pradesh|76
 Yıldızeli|39.866|36.599|TR|Sivas|76
 Yingwusitangcun|38.179|85.415|CN|Xinjiang|76
 Yizhivtsi|48.025|25.646|UA|Chernivtsi|76
+Yichang Sanxia Airport|30.671|111.441|CN|Hubei|74|f
 Yingdu|24.972|118.244|CN|Fujian|74
 Yiwa|34.137|103.169|CN|Gansu|73
 Yinglin|24.632|118.581|CN|Fujian|72
+Yibin Wuliangye Airport|28.853|104.526|CN|Sichuan|71|f
+Yılan Ada|36.214|29.354|TR|Antalya|70|f
+Yinchuan Hedong Airport|38.323|106.388|CN|Ningxia|69|f
 Yiğitçavuş|37.944|40.296|TR|Diyarbakır Province|67
+Yichun Mingyueshan Airport|27.803|114.308|CN|Jiangxi|67|f
+Yingkou Lanqi Airport|40.539|122.355|CN|Liaoning|67|f
+Yioúktas|35.240|25.144|GR|Crete|67|f
+Yılan Adası|38.331|26.678|TR|İzmir Province|67|f
 Yılanlı|39.527|43.996|TR|Ağrı|67
 Yimnón|38.440|23.884|GR|Central Greece|66
 Yiẕhar|32.167|35.239|PS|West Bank|64
 Yıprak|38.333|30.463|TR|Afyonkarahisar Province|64
+Yim Tin Tsai|22.383|114.300|HK||63|f
 Yığınlı|37.219|37.244|TR|Gaziantep|63
 Yibeljoj|16.957|-92.504|MX|Chiapas|62
 Yinnon|31.742|34.782|IL|Southern District|62
 Yif‘at|32.677|35.223|IL|Northern District|62
 Yıllarca|37.738|40.144|TR|Diyarbakır Province|61
+Yim Tin Tsai|22.453|114.214|HK||61|f
+Yılanlı Ada|37.700|31.650|TR|Konya|61|f
 Yılmazköy|37.858|27.890|TR|Aydın|60
 Yinliu|39.983|117.396|CN|Tianjin|60
+Yitic|16.857|-92.626|MX|Chiapas|59
+Yinfeng|22.603|113.836|CN|Guangdong|59
+Yinnar|-38.323|146.329|AU|Victoria|59
+Yirrkala|-12.255|136.890|AU|Northern Territory|59
+Yichang Chang Jiang Gonglu Daqiao|30.570|111.392|CN|Hubei|58|f
+Yiershi Airport|47.310|119.911|CN|Inner Mongolia|58|f
+Yiling Chang Jiang Daqiao|30.684|111.290|CN|Hubei|58|f
+Yilong Lake|23.666|102.557|CN|Yunnan|58|f
+Yirol Airport|6.563|30.511|SS|Lakes|58|f
+Yish‘i|31.751|34.967|IL|Jerusalem|58
+Yinnar South|-38.383|146.383|AU|Victoria|56
+Yiğityolu|37.872|39.883|TR|Diyarbakır Province|56
+Yiftaẖ|33.129|35.552|IL|Northern District|55
+Yizre‘el|32.563|35.320|IL|Northern District|55
+Yıldız|36.938|38.409|TR|Şanlıurfa|55
+Yin Shan|41.282|108.802|CN|Inner Mongolia|54|f
+Y Island|-21.953|114.420|AU|Western Australia|49|f
+Yielden Castle|52.291|-0.515|GB|England|49|f
+Yıldız-Park|41.048|29.016|TR|Istanbul|40|f
 Yiğitler|39.867|26.611|TR|Canakkale|40
 Yi Xian|39.354|115.496|CN|Hebei|0
 Yi-ngo|6.403|101.706|TH|Narathiwat|0
+Yi’an|38.189|114.275|CN|Hebei|0
 Yi’an|47.891|125.300|CN|Heilongjiang|0
+Yicheng|27.985|115.174|CN|Jiangxi|0
 Yicheng|32.989|114.025|CN|Henan|0
+Yichongqiao|29.331|110.861|CN|Hunan|0
 Yichuan|34.420|112.426|CN|Henan|0
+Yidao|37.231|120.161|CN|Shandong|0
+Yidian|34.404|107.753|CN|Shaanxi|0
+Yidu|25.778|119.187|CN|Fujian|0
+Yidu|25.459|117.809|CN|Fujian|0
+Yidu|24.158|115.137|CN|Guangdong|0
+Yifaquan|41.623|112.527|CN|Inner Mongolia|0
+Yigezi Ye’er|38.643|76.195|CN|Xinjiang|0
 Yiğityolu|35.996|36.260|TR|Hatay|0
+Yigou|32.802|119.525|CN|Jiangsu|0
+Yihantong|45.876|128.896|CN|Heilongjiang|0
+Yihe|23.840|114.874|CN|Guangdong|0
+Yihe|29.960|119.355|CN|Zhejiang|0
+Yihe|30.756|113.505|CN|Hubei|0
+Yihe|30.938|113.195|CN|Hubei|0
+Yijiang|30.907|118.486|CN|Anhui|0
 Yijiang|31.315|118.361|CN|Anhui|0
+Yijiang|27.702|115.354|CN|Jiangxi|0
+Yijin|30.920|117.197|CN|Anhui|0
+Yijing|39.639|113.214|CN|Shanxi|0
+Yijing|39.064|112.000|CN|Shanxi|0
 Yijing|37.836|113.602|CN|Shanxi|0
+Yijing|34.572|108.105|CN|Shaanxi|0
+Yilaha|48.821|125.158|CN|Heilongjiang|0
+Yili|49.560|124.209|CN|Inner Mongolia|0
+Yiling|32.482|119.674|CN|Jiangsu|0
+Yiliu|24.836|113.405|CN|Guangdong|0
+Yilkiqi|37.961|77.249|CN|Xinjiang|0
 Yilong|23.691|102.487|CN|Yunnan|0
+Yilong|47.471|125.359|CN|Heilongjiang|0
+Yilongyong|42.640|120.648|CN|Inner Mongolia|0
+Yimamu|41.204|79.458|CN|Xinjiang|0
+Yiminhe|48.587|119.773|CN|Inner Mongolia|0
+Yinbaohu|29.291|116.579|CN|Jiangxi|0
+Yindian|32.072|113.506|CN|Hubei|0
 Yindu|36.112|114.303|CN|Henan|0
+Ying’an|42.890|130.286|CN|Jilin|0
+Ying’ebu|41.730|125.556|CN|Jilin|0
 Yingbazha|41.165|80.263|CN|Xinjiang|0
 Yingcheng|24.166|113.413|CN|Guangdong|0
+Yingcheng|30.369|112.199|CN|Hubei|0
+Yingcheng|24.218|113.350|CN|Guangdong|0
+Yingchengzi|45.168|126.956|CN|Heilongjiang|0
+Yingchuan|27.853|119.315|CN|Zhejiang|0
+Yingchun|47.037|125.947|CN|Heilongjiang|0
+Yingchun|47.145|129.234|CN|Heilongjiang|0
+Yingcui|32.482|106.451|CN|Sichuan|0
+Yingcun|24.602|118.104|CN|Fujian|0
+Yingde’er|36.406|100.189|CN|Qinghai|0
+Yingdianjie|29.817|120.114|CN|Zhejiang|0
+Yingfengqiao|28.661|112.263|CN|Hunan|0
+Yingge|34.096|107.649|CN|Shaanxi|0
+Yinggehai|18.511|108.689|CN|Hainan|0
+Yinghai|39.759|116.434|CN|Beijing|0
+Yinghong|24.299|113.407|CN|Guangdong|0
+Yinghua|24.226|113.663|CN|Guangdong|0
+Yingjiang|28.139|117.913|CN|Jiangxi|0
+Yingkeng|28.394|120.502|CN|Zhejiang|0
+Yinglan|46.341|129.544|CN|Heilongjiang|0
+Yingli|20.564|110.096|CN|Guangdong|0
+Yinglong|29.520|106.715|CN|Chongqing|0
+Yingluo|40.643|122.698|CN|Liaoning|0
+Yingmaili|39.511|76.801|CN|Xinjiang|0
+Yingpu|31.155|121.106|CN|Shanghai|0
+Yingqian|25.967|119.463|CN|Fujian|0
+Yingqiao|33.963|113.585|CN|Henan|0
+Yingshan|27.283|119.802|CN|Fujian|0
 Yingshouyingzi|40.548|117.654|CN|Hebei|0
+Yingta|40.846|120.936|CN|Liaoning|0
+Yingtan|35.573|102.971|CN|Gansu|0
+Yingtou|34.160|107.754|CN|Shaanxi|0
+Yingwusitang|39.165|77.620|CN|Xinjiang|0
 Yingxian|39.559|113.186|CN|Shanxi|0
+Yingya|24.384|116.482|CN|Guangdong|0
+Yingyang|33.951|113.612|CN|Henan|0
+Yingye’er|38.973|76.291|CN|Xinjiang|0
+Yingzai|21.491|109.925|CN|Guangdong|0
+Yingzhou|18.421|109.849|CN|Hainan|0
+Yingzhou|30.062|118.644|CN|Anhui|0
 Yinhai|21.451|109.136|CN|Guangxi|0
+Yinhao|41.120|110.306|CN|Inner Mongolia|0
+Yinhe|27.700|114.118|CN|Jiangxi|0
+Yinhe|47.953|123.651|CN|Heilongjiang|0
+Yinhedahan’er|48.027|123.011|CN|Inner Mongolia|0
 Yining|43.978|81.518|CN|Xinjiang|0
 Yining|29.030|114.540|CN|Jiangxi|0
+Yinji|31.941|112.074|CN|Hubei|0
+Yinji|33.251|113.575|CN|Henan|0
+Yinjiacheng|36.189|106.941|CN|Gansu|0
+Yinjiang|29.774|121.355|CN|Zhejiang|0
+Yinjiang|24.266|116.442|CN|Guangdong|0
+Yinjiaxi|29.137|110.409|CN|Hunan|0
+Yinkeng|26.215|115.615|CN|Jiangxi|0
+Yinkeng|29.199|118.399|CN|Zhejiang|0
 Yinla|29.577|94.483|CN|Tibet|0
+Yinlianhu|30.243|113.773|CN|Hubei|0
+Yinong|30.197|120.586|CN|Zhejiang|0
+Yintang|31.602|118.529|CN|Anhui|0
+Yinxi|25.733|119.359|CN|Fujian|0
+Yinyang|31.715|121.862|CN|Jiangsu|0
 Yinying|37.937|113.558|CN|Shanxi|0
+Yinzhen|34.083|109.098|CN|Shaanxi|0
+Yinzhu|29.982|119.417|CN|Zhejiang|0
+Yinzi|37.215|122.313|CN|Shandong|0
+Yinzu|29.960|114.887|CN|Hubei|0
+Yipeng|30.262|120.489|CN|Zhejiang|0
+Yipin|29.285|106.561|CN|Chongqing|0
+Yiqi|29.727|118.257|CN|Anhui|0
+Yiqian|26.557|116.320|CN|Jiangxi|0
+Yiqiao|30.070|120.198|CN|Zhejiang|0
+Yirong|23.523|114.831|CN|Guangdong|0
+Yirshi|47.300|119.750|CN|Inner Mongolia|0
 Yisa|23.332|102.447|CN|Yunnan|0
+Yishan|30.828|118.817|CN|Anhui|0
 Yishan|34.299|119.254|CN|Jiangsu|0
+Yishi|29.199|121.475|CN|Zhejiang|0
 Yishi|35.165|110.746|CN|Shanxi|0
+Yishui|32.268|110.090|CN|Hubei|0
 Yisuhe|27.765|112.927|CN|Hunan|0
+Yitai|31.276|118.486|CN|Anhui|0
+Yitang|31.096|113.704|CN|Hubei|0
+Yitao|34.083|119.100|CN|Jiangsu|0
 Yitiaoshan|37.153|104.062|CN|Gansu|0
+Yiting|29.236|119.961|CN|Zhejiang|0
 Yitong|43.340|125.298|CN|Jilin|0
+Yitulihe|50.635|121.568|CN|Inner Mongolia|0
+Yiwan|29.867|111.681|CN|Hunan|0
 Yiwu|43.250|94.688|CN|Xinjiang|0
+Yixi|23.699|116.641|CN|Guangdong|0
+Yixin|46.810|124.392|CN|Heilongjiang|0
 Yixing|37.338|113.539|CN|Shanxi|0
+Yixingfu|39.199|117.211|CN|Tianjin|0
 Yiyang|34.517|112.187|CN|Henan|0
 Yiyang|28.391|117.440|CN|Jiangxi|0
 Yiyang|26.389|112.379|CN|Hunan|0
+Yiyang|28.405|117.432|CN|Jiangxi|0
 Yizhang Chengguanzhen|25.383|112.979|CN|Hunan|0
 Yizhou|42.824|93.516|CN|Xinjiang|0
 Yığılca|40.960|31.444|TR|Düzce|0

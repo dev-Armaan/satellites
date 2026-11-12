@@ -29,6 +29,7 @@ Pail|30.721|76.060|IN|Punjab|78
 Paide|58.888|25.540|EE|Järvamaa|78
 Paiyūr|12.671|79.302|IN|Tamil Nadu|78
 Pai Pedro|-15.517|-43.065|BR|Minas Gerais|75
+Paignton Zoo|50.428|-3.583|GB|England|74|f
 Paiisa|13.926|121.354|PH|Calabarzon|73
 Paiguano|-30.029|-70.517|CL|Coquimbo Region|73
 Paintsville|37.815|-82.807|US|Kentucky|73
@@ -38,11 +39,13 @@ Paim Filho|-27.711|-51.761|BR|Rio Grande do Sul|71
 Paitan|6.660|124.872|PH|Autonomous Region in Muslim Mindanao|70
 Paimboeuf|47.287|-2.030|FR|Pays de la Loire|70
 Paitan Este|16.085|120.032|PH|Ilocos|69
+Paine Airport|-33.894|-70.886|CL|Santiago Metropolitan|69|f
 Paia|20.903|-156.369|US|Hawaii|69
 Paialvo|39.562|-8.467|PT|Santarém|68
 Paitan Norte|15.833|120.741|PH|Central Luzon|68
 Pai|19.362|98.440|TH|Chiang Mai|67
 Painten|48.997|11.819|DE|Bavaria|67
+Painted Rock Mountains|32.990|-113.022|US|Arizona|67|f
 Painel|-27.929|-50.105|BR|Santa Catarina|67
 Paikpara|24.771|87.923|IN|West Bengal|66
 Painted Post|42.162|-77.094|US|New York|66
@@ -50,6 +53,7 @@ Paikuse|58.379|24.634|EE|Pärnumaa|66
 Pā’īn Dezā|36.530|53.080|IR|Māzandarān|66
 Paial|-27.252|-52.498|BR|Santa Catarina|66
 Paitone|45.552|10.402|IT|Lombardy|65
+Päijänteen Kansallispuisto|61.370|25.451|FI|Paijat-Hame|65|f
 Painswick|51.786|-2.196|GB|England|65
 Paintla|18.503|-99.655|MX|Guerrero|65
 Paicol|2.450|-75.775|CO|Huila Department|65
@@ -58,17 +62,72 @@ Pā’īn Deh|36.523|59.364|IR|Razavi Khorasan|64
 Paimpont|48.018|-2.170|FR|Brittany|64
 Pā’īn Maḩalleh-ye ‘Alīābād|36.678|52.644|IR|Māzandarān|64
 Paiva|-21.289|-43.416|BR|Minas Gerais|63
+Paine Field|47.908|-122.282|US|Washington|63|f
 Paisanos|22.204|-101.036|MX|San Luis Potosí|63
 Paispamba|2.255|-76.611|CO|Cauca Department|63
+Painted Tepee Peak|48.442|-113.412|US|Montana|61|f
 Paillet|44.686|-0.365|FR|New Aquitaine|61
 Paisley|44.306|-81.273|CA|Ontario|60
+Paillencourt|50.247|3.274|FR|Hauts-de-France|60
+Paint|40.244|-78.849|US|Pennsylvania|60
+Paincourtville|29.990|-91.055|US|Louisiana|59
+Pairana|45.320|9.287|IT|Lombardy|58
+Pailou’ao|27.341|109.918|CN|Hunan|58
+Paisley|28.984|-81.542|US|Florida|58
+Pains Island|-16.873|139.060|AU|Queensland|58|f
+Painted Lady|36.793|-118.399|US|California|58|f
 Paime|5.371|-74.152|CO|Cundinamarca|58
+Păiseni|47.430|26.110|RO|Suceava|57
+Painted Hills|39.396|-86.346|US|Indiana|57
+Paillart|49.667|2.325|FR|Hauts-de-France|56
+Pā’īn Kūlā|36.490|53.127|IR|Māzandarān|56
+Păiușeni|46.249|22.094|RO|Arad County|55
+Paifve|50.728|5.523|BE|Wallonia|55
+Pailhès|43.431|3.186|FR|Occitanie|54
+Paidra Järv|57.910|27.189|EE|Võrumaa|54|f
+Paisley Airport|42.715|-120.561|US|Oregon|54|f
+Paisley Islet|-35.901|136.536|AU|South Australia|54|f
+Pailton|52.433|-1.309|GB|England|54
+Păingeni|46.680|24.562|RO|Mureș County|54
 Paico|-14.038|-73.642|PE|Ayacucho|53
 Pailly|46.701|6.675|CH|Vaud|53
+Paitzdorf|50.850|12.217|DE|Thuringia|53
+Paine, Mount|-86.767|-147.533|AQ||49|f
+Painted Peak|-67.750|62.833|AQ||49|f
+Painted Point Range|41.793|-119.627|US|Nevada|49|f
 Paint Rock|31.508|-99.920|US|Texas|48
 Paisco Loveno|46.079|10.293|IT|Lombardy|48
+Paige, Mount|-76.333|-144.700|AQ||40|f
+Paine Lake|47.190|-94.996|US|Minnesota|40|f
+Paine Ridge|-71.833|162.000|AQ||40|f
+Paint Hills Islands|52.950|-79.016|CA|Nunavut|40|f
+Painted Bluffs Park|50.796|-120.757|CA|British Columbia|40|f
+Painted Hills|44.662|-120.273|US|Oregon|40|f
+Painted Ladies|37.776|-122.433|US|California|40|f
+Painted Rock Dam|33.073|-113.012|US|Arizona|40|f
+Paintsville Lake|37.850|-82.889|US|Kentucky|40|f
+Paintsville Lake State Park|37.843|-82.870|US|Kentucky|40|f
+Paiom di Cermis|46.240|11.503|IT|Trentino-Alto Adige|40|f
+Paisiy Peak|-62.626|-59.901|AQ||40|f
 Pā’īn-e Bāzār-e Rūdbār|36.821|49.426|IR|Gilan Province|0
+Pai|-8.432|119.025|ID|West Nusa Tenggara|0
+Paibi|28.383|109.533|CN|Hunan|0
+Paibu|28.434|114.248|CN|Jiangxi|0
+Paicun|29.508|94.848|CN|Tibet|0
 Paiko|9.437|6.634|NG|Niger State|0
+Pailiao|28.376|109.604|CN|Hunan|0
+Pailou|31.054|112.282|CN|Hubei|0
+Pailou|29.550|109.857|CN|Hunan|0
+Pailou|40.733|122.817|CN|Liaoning|0
 Paimandó|5.483|-76.740|CO|Chocó|0
 Paimas|-4.627|-79.945|PE|Piura|0
 Painan|-1.352|100.574|ID|West Sumatra|0
+Paingar|31.198|94.035|CN|Tibet|0
+Paisha|23.537|112.528|CN|Guangdong|0
+Paishan|28.460|118.279|CN|Jiangxi|0
+Paishi|29.722|115.055|CN|Hubei|0
+Paitan|23.486|113.771|CN|Guangdong|0
+Paitoko|-8.363|124.894|ID|East Nusa Tenggara|0
+Paitou|29.606|120.151|CN|Zhejiang|0
+Paiwu|28.365|109.409|CN|Hunan|0
+Paizhou|30.216|113.935|CN|Hubei|0

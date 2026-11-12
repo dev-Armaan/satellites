@@ -5,8 +5,8 @@ Stevenage|51.902|-0.203|GB|England|99
 Steglitz|52.456|13.332|DE|State of Berlin|97
 Stepnogorsk|52.351|71.882|KZ|Aqmola|93
 Steyr|48.043|14.421|AT|Upper Austria|92
+St. Elizabeth|18.050|-77.783|JM||92|r
 Stendal|52.606|11.861|DE|Saxony-Anhalt|92
-St. Elizabeth|18.050|-77.783|JM||91|r
 Steinfurt|52.150|7.337|DE|North Rhine-Westphalia|91
 Stella|40.860|14.252|IT|Campania|90
 Sterling|39.006|-77.429|US|Virginia|89
@@ -36,6 +36,7 @@ Steinheim|51.871|9.091|DE|North Rhine-Westphalia|83
 Stenungsund|58.070|11.818|SE|Västra Götaland|82
 Steinkjer|64.015|11.495|NO|Trøndelag|82
 Ştefăneşti|44.865|24.950|RO|Arges|82
+Stepanavan Airport|41.048|44.336|AM|Lori|82|f
 Steamboat Springs|40.485|-106.832|US|Colorado|82
 Stezzano|45.650|9.652|IT|Lombardy|82
 Stepanavan|41.010|44.385|AM|Lori|82
@@ -49,6 +50,7 @@ Steenokkerzeel|50.919|4.510|BE|Flanders|80
 Steinbach am Taunus|50.168|8.573|DE|Hesse|80
 Steinen|47.644|7.739|DE|Baden-Wurttemberg|80
 Steyning|50.887|-0.328|GB|England|80
+Stephansplatz|48.208|16.372|AT|Vienna|80|f
 Stenhousemuir|56.027|-3.815|GB|Scotland|80
 Stephanskirchen|47.854|12.186|DE|Bavaria|80
 Steger|41.470|-87.636|US|Illinois|80
@@ -85,6 +87,8 @@ Stepnoye Ozero|52.779|79.856|RU|Altai Krai|75
 Stettler|52.317|-112.719|CA|Alberta|75
 Stetten am Kalten Markt|48.124|9.078|DE|Baden-Wurttemberg|75
 Steyerberg|52.568|9.023|DE|Lower Saxony|75
+Steamboat Springs-Bob Adams Field Stolport|40.516|-106.866|US|Colorado|74|f
+Stewart International Airport|41.499|-74.100|US|New York|74|f
 Stepanivka|50.948|34.613|UA|Sumy|74
 Stepnyak|52.835|70.789|KZ|Aqmola|74
 Steyregg|48.285|14.370|AT|Upper Austria|74
@@ -107,6 +111,7 @@ Steinhöring|48.087|12.031|DE|Bavaria|72
 Stevoort|50.919|5.253|BE|Flanders|71
 Steyl|51.332|6.119|NL|Limburg|71
 Ştefăneşti|44.617|24.250|RO|Vâlcea County|71
+Steven Cay|18.331|-64.807|VI|Saint John Island|71|f
 Stenhamra|59.334|17.688|SE|Stockholm|71
 Štěpánov|49.684|17.220|CZ|Olomouc Region|71
 Steinbach|50.153|11.651|DE|Bavaria|71
@@ -120,6 +125,7 @@ Steenwerck|50.702|2.778|FR|Hauts-de-France|70
 Ștefan cel Mare|44.426|27.646|RO|Călărași County|70
 Steckborn|47.667|8.983|CH|Thurgau|70
 Stein am Rhein|47.659|8.860|CH|Schaffhausen|70
+Steventon Island|-77.250|-148.250|AQ||70|f
 Stenay|49.495|5.186|FR|Grand Est|70
 Štěpánkovice|49.957|18.037|CZ|Moravian-Silesian Region|70
 Stephansposching|48.817|12.800|DE|Bavaria|70
@@ -140,6 +146,10 @@ Stepojevac|44.513|20.295|RS|Central Serbia|69
 Stepantsevo|56.131|41.703|RU|Vladimir Oblast|69
 Steinhagen|54.226|12.989|DE|Mecklenburg-Vorpommern|69
 Steinach am Brenner|47.083|11.467|AT|Tyrol|69
+Stellar Airpark|33.298|-111.917|US|Arizona|69|f
+Sterling Airport|42.426|-71.794|US|Massachusetts|69|f
+Stevensville Airport|46.526|-114.052|US|Montana|69|f
+Steyr-Münichholz Concentration Camp|48.048|14.440|AT|Upper Austria|69|f
 Stegersbach|47.167|16.167|AT|Burgenland|68
 Ştefan cel Mare|44.493|25.244|RO|Arges|68
 Steinbrunn|47.833|16.417|AT|Burgenland|68
@@ -156,6 +166,12 @@ Stewartstown|39.754|-76.591|US|Pennsylvania|67
 Steinfeld|49.953|9.669|DE|Bavaria|67
 Stejaru|44.767|28.550|RO|Tulcea County|67
 Sterling|38.210|-98.207|US|Kansas|67
+Steel Bridge|45.528|-122.669|US|Oregon|67|f
+Stephenville Clark Regional Airport|32.218|-98.181|US|Texas|67|f
+Stephenville International Airport|48.544|-58.550|CA|Newfoundland and Labrador|67|f
+Sterling Municipal Airport|40.615|-103.266|US|Colorado|67|f
+Steven A. Bean Municipal Airport|44.991|-70.661|US|Maine|67|f
+Stewart Island|-47.000|167.833|NZ|Southland|67|f
 Stejaru|44.183|24.883|RO|Teleorman County|67
 Steblivka|48.090|23.424|UA|Zakarpattia|67
 Steinfort|49.661|5.919|LU|Capellen|67
@@ -185,6 +201,12 @@ Stepanhorod|51.632|26.177|UA|Rivne Oblast|66
 Stężyca|51.582|21.771|PL|Lublin|66
 Steinsel|49.677|6.124|LU|Luxembourg|65
 Stepove|47.189|31.517|UA|Mykolaiv|65
+Steep Island|22.276|114.314|HK||65|f
+Stehøi|61.542|8.224|NO|Vestland|65|f
+Steindalshøi|61.713|7.981|NO|Innlandet|65|f
+Stepovak Bay|55.717|-159.833|US|Alaska|65|f
+Steptoe Butte|47.032|-117.297|US|Washington|65|f
+Steward Ø|69.917|-22.867|GL|Sermersooq|65|f
 Steenhuize-Wijnhuize|50.840|3.888|BE|Flanders|65
 Stepanivka|46.795|29.987|UA|Odesa|65
 Steinweiler|49.121|8.141|DE|Rheinland-Pfalz|65
@@ -210,6 +232,13 @@ Steeden|50.415|8.127|DE|Hesse|64
 Stensved|54.997|12.030|DK|Zealand|64
 Stevenson|45.696|-121.885|US|Washington|64
 Steventon|51.625|-1.321|GB|England|63
+Stebonheath Park|51.684|-4.148|GB|Wales|63|f
+Stedelijk Museum Alkmaar|52.633|4.744|NL|North Holland|63|f
+Steens Mountain|42.683|-118.551|US|Oregon|63|f
+Steinemann Island|-66.866|-67.916|AQ||63|f
+Steins Peak|32.334|-109.044|US|New Mexico|63|f
+Stella Maris Airport|23.582|-75.267|BS|Long Island|63|f
+Stephens Islet|-9.507|143.545|AU|Queensland|63|f
 Stepnoye|45.652|33.774|UA|Crimea|63
 Sterup|54.727|9.736|DE|Schleswig-Holstein|63
 Steinbergkirche|54.755|9.761|DE|Schleswig-Holstein|63
@@ -245,6 +274,13 @@ Stehelčeves|50.172|14.191|CZ|Central Bohemia|61
 Steep Falls|43.794|-70.653|US|Maine|61
 Stepkivka|47.891|30.906|UA|Mykolaiv|61
 Stevensville|42.014|-86.519|US|Michigan|61
+St Elmo Airport|30.501|-88.275|US|Alabama|61|f
+Steel Mountain|43.747|-115.318|US|Idaho|61|f
+Steffen Glacier|-47.491|-73.721|CL|Aysén|61|f
+Steffen Strait|-2.679|150.625|PG|New Ireland|61|f
+Steinaker State Park|40.517|-109.530|US|Utah|61|f
+Steinsundøyna|61.078|4.774|NO|Vestland|61|f
+Steppingstone Farm Museum|39.602|-76.138|US|Maryland|61|f
 Stedten|51.443|11.693|DE|Saxony-Anhalt|61
 Steninge|56.769|12.630|SE|Halland|61
 Ștefan Vodă|46.317|26.512|RO|Bacău County|61
@@ -262,26 +298,313 @@ Stephanshart|48.150|14.817|AT|Lower Austria|60
 Steinfeld|47.713|13.633|AT|Upper Austria|60
 Steinberg|54.755|9.782|DE|Schleswig-Holstein|60
 Stetson|44.892|-69.143|US|Maine|60
+Steinsdorf|50.750|12.050|DE|Thuringia|60
+Steutz|51.877|12.078|DE|Saxony-Anhalt|60
 Steinhaus|48.116|14.019|AT|Upper Austria|60
+Stepanivka|50.119|32.249|UA|Cherkasy|60
+Steuden|51.419|11.766|DE|Saxony-Anhalt|60
+Stewartstown|45.006|-71.508|US|New Hampshire|60
+Steindorf|47.963|13.571|AT|Upper Austria|60
+Stetten|47.690|9.299|DE|Baden-Wurttemberg|60
+Steinau|53.757|8.592|DE|Lower Saxony|60
+Stepano-Krynka|47.922|38.336|UA|Donetsk|60
+Steeple Aston|51.927|-1.311|GB|England|60
+Stemmen|53.224|9.553|DE|Lower Saxony|60
 Steinakirchen am Forst|48.070|15.048|AT|Lower Austria|60
+Steindorf|48.217|11.000|DE|Bavaria|59
+Sterley|53.620|10.818|DE|Schleswig-Holstein|59
+Steeple Ashton|51.310|-2.135|GB|England|59
+Stebbing|51.891|0.414|GB|England|59
+Stedesand|54.739|8.928|DE|Schleswig-Holstein|59
+Steigra|51.300|11.667|DE|Saxony-Anhalt|59
+Stejaru|44.250|25.933|RO|Giurgiu County|59
+Sterksel|51.352|5.611|NL|North Brabant|59
+Steinerberg|47.055|8.586|CH|Schwyz|59
+Steinbach an der Steyr|47.971|14.269|AT|Upper Austria|59
+Stedum|53.322|6.696|NL|Groningen|59
+Stejaru|46.847|27.051|RO|Neamț County|59
+Stephenson|45.415|-87.608|US|Michigan|59
+Stein|54.416|10.271|DE|Schleswig-Holstein|59
+Steeple Morden|52.066|-0.125|GB|England|59
+Steep|51.023|-0.942|GB|England|59
+Steinberg bei Ligist|46.983|15.217|AT|Styria|59
+Sterrenberg|52.114|5.282|NL|Utrecht|59
+Sterkowiec|49.995|20.681|PL|Lesser Poland|58
+Štěkeň|49.267|14.006|CZ|South Bohemian Region|58
+Stérnes|35.511|24.146|GR|Crete|58
+Steinbach am Donnersberg|49.600|7.950|DE|Rheinland-Pfalz|58
+Steinbach am Ziehberg|47.893|14.030|AT|Upper Austria|58
+Stephens|33.411|-93.070|US|Arkansas|58
+Stérna|41.565|26.458|GR|East Macedonia and Thrace|58
 Sterdyń|52.580|22.294|PL|Mazovia|58
+Steinbach|50.780|8.186|DE|Hesse|58
+Steggerda|52.857|6.075|NL|Friesland|58
+Stebnyi|48.309|24.389|UA|Zakarpattia|58
+Stenímachos|40.604|22.126|GR|Central Macedonia|58
 Steinerkirchen an der Traun|48.079|13.958|AT|Upper Austria|58
+Sterling|34.750|-98.172|US|Oklahoma|58
+St. Elias Mountains|60.200|-139.889|US|Alaska|58|f
+Steamboat Island|47.185|-122.940|US|Washington|58|f
+Steep Holm|51.340|-3.111|GB|England|58|f
+Steinberg|48.683|13.588|DE|Bavaria|58|f
+Steinfleckberg|48.952|13.522|DE|Bavaria|58|f
+Steinheii|59.284|7.108|NO|Agder|58|f
+Stenhouse Bluff|-62.072|-58.372|AQ||58|f
+Stenka Mountain|-71.935|14.750|AQ||58|f
+Stennis International Airport|30.371|-89.454|US|Mississippi|58|f
+Stephen Island|-75.833|-146.900|AQ||58|f
+Stephenson Ø|82.500|-48.500|GL||58|f
+Stepladder Mountains|34.563|-114.863|US|California|58|f
+Stetson Mountain|45.526|-67.977|US|Maine|58|f
+Stevens Lakes|44.104|-115.015|US|Idaho|58|f
+Stevens Mountain|42.388|-74.429|US|New York|58|f
+Stevens Peak|46.746|-121.677|US|Washington|58|f
+Stewart Strait|-54.007|-38.105|GS||58|f
+Steninge|59.602|17.805|SE|Stockholm|58
+Steinberg an der Rabnitz|47.474|16.488|AT|Burgenland|58
 Stellanello|44.000|8.060|IT|Liguria|58
+Steinefrenz|50.459|7.933|DE|Rheinland-Pfalz|58
+Stejaru|47.159|25.824|RO|Neamț County|58
+Stepanivka Druha|46.765|35.942|UA|Zaporizhzhia|58
+Steinebach|50.610|7.806|DE|Rheinland-Pfalz|57
+Stemshorn|52.453|8.360|DE|Lower Saxony|57
+Steinfeld|53.832|10.427|DE|Schleswig-Holstein|57
+Stewartsville|39.751|-94.497|US|Missouri|57
+Štěpánov nad Svratkou|49.505|16.339|CZ|Vysocina|57
+Stewardson|39.263|-88.630|US|Illinois|57
+Sterrett|33.449|-86.480|US|Alabama|57
+Steindorf|47.960|13.240|AT|Salzburg|57
 Steele|46.855|-99.916|US|North Dakota|57
+Stetchworth|52.200|0.400|GB|England|57
+Steadfast|16.999|-88.424|BZ|Stann Creek|57
+Steinhaus am Semmering|47.617|15.800|AT|Styria|57
+Stein-Bockenheim|49.767|7.967|DE|Rheinland-Pfalz|57
+Steffeln|50.283|6.567|DE|Rheinland-Pfalz|57
+Štefanec|46.368|16.496|HR|Međimurje|57
+Steineroth|50.760|7.854|DE|Rheinland-Pfalz|57
+Steinberg|47.067|15.317|AT|Styria|57
+Stepok|50.115|29.113|UA|Zhytomyr Oblast|57
+Steinbrunn-le-Bas|47.675|7.367|FR|Grand Est|57
+Stensjön|64.983|21.100|SE|Västerbotten|56
+Stepfershausen|50.600|10.300|DE|Thuringia|56
+Stephen|48.450|-96.873|US|Minnesota|56
+Steinheim|49.818|6.477|LU|Echternach|56
+Steinsoultz|47.552|7.337|FR|Grand Est|56
+Steinheim|50.444|8.924|DE|Hesse|56
+Stetten|49.669|8.092|DE|Rheinland-Pfalz|56
+Ștefănești|44.511|26.738|RO|Călărași County|56
+Štěpánovice|49.002|14.653|CZ|South Bohemian Region|56
+Stecklenberg|51.733|11.088|DE|Saxony-Anhalt|56
+Štěnovický Borek|49.650|13.427|CZ|Plzeň Region|56
+Stepaside|51.735|-4.694|GB|Wales|56
+Stevens|40.216|-76.155|US|Pennsylvania|56
+Steenwijksmoer|52.669|6.699|NL|Drenthe|56
+Stejaru|44.838|25.961|RO|Prahova|55
+Ștefănești|44.981|23.566|RO|Gorj County|55
+Stepanshchino|55.249|38.528|RU|Moscow Oblast|55
+Steindorf|47.287|12.644|AT|Salzburg|55
+Stepove|49.539|32.558|UA|Cherkasy|55
+Stein|48.189|15.981|AT|Lower Austria|55
+Steyrling|47.806|14.131|AT|Upper Austria|55
+Stebbins|63.520|-162.289|US|Alaska|55
+Stefáni|39.181|20.790|GR|Epirus|55
+Steinbach|51.422|10.219|DE|Thuringia|55
+Steinbrunn-le-Haut|47.660|7.348|FR|Grand Est|55
 Stenico|46.051|10.856|IT|Trentino-Alto Adige|55
+Stenlejsotztetic|16.928|-92.826|MX|Chiapas|55
 Stevington|52.168|-0.555|GB|England|55
+Štědrá|50.058|13.114|CZ|Carlsbad Region|55
+Stewart|44.725|-94.486|US|Minnesota|55
+Steinthaleben|51.395|11.025|DE|Thuringia|55
+Ştefan cel Mare|44.301|28.077|RO|Constanța County|55
+Steinhorst|53.721|10.485|DE|Schleswig-Holstein|55
+Stedham|50.994|-0.771|GB|England|55
 Stetteldorf am Wagram|48.408|16.019|AT|Lower Austria|55
+Stepanivka|49.526|32.926|UA|Poltava|55
+Steige|48.362|7.235|FR|Grand Est|55
+Steinrode|51.502|10.493|DE|Thuringia|55
+Stetsonville|45.077|-90.315|US|Wisconsin|54
+Stebbins Airport|63.515|-162.286|US|Alaska|54|f
+Stedet Island|-67.551|61.436|AQ||54|f
+Steele Island|-70.980|-60.710|AQ||54|f
+Steenkampsberge|-25.143|30.186|ZA|Mpumalanga|54|f
+Steep Island|-16.059|124.471|AU|Western Australia|54|f
+Steese National Conservation Area|65.251|-145.001|US|Alaska|54|f
+Steilacoom Lake|47.160|-122.536|US|Washington|54|f
+Steinahøfjellet|61.717|8.118|NO|Innlandet|54|f
+Steinbusjøen|61.265|8.336|NO|Innlandet|54|f
+Steinheil Point|-64.855|-62.666|AQ||54|f
+Steinmulen Shoulder|-71.300|13.417|AQ||54|f
+Steinskaregga Ridge|-71.817|8.867|AQ||54|f
+Steinviksholm|63.543|10.813|NO|Trøndelag|54|f
+Stejneger Peak|-54.000|-38.067|GS||54|f
+Stena|41.139|22.034|MK|Kavadarci|54|f
+Stene Point|-60.650|-45.700|AQ||54|f
+Stepanakert Republican Stadium|39.821|46.753|AZ|Xankǝndi|54|f
+Stephen Foster Folk Culture Center State Park|30.332|-82.767|US|Florida|54|f
+Stephenson Island|45.102|-87.629|US|Wisconsin|54|f
+Sterile Island|-43.548|147.000|AU|Tasmania|54|f
+Sterling Hill|41.082|-74.609|US|New Jersey|54|f
+Sterna Island|-65.383|-64.224|AQ||54|f
+Stetson Pond|42.028|-70.827|US|Massachusetts|54|f
+Stevens Peak|38.734|-119.983|US|California|54|f
+Stevens Point Municipal Airport|44.544|-89.536|US|Wisconsin|54|f
+Stevenson Airport|34.889|-85.801|US|Alabama|54|f
+Stevenson Island|44.515|-110.385|US|Wyoming|54|f
+Stewart Airport|55.936|-129.981|CA|British Columbia|54|f
+Stewart Island|13.017|92.933|IN|Andaman and Nicobar|54|f
+Stewart Peak|38.023|-106.923|US|Colorado|54|f
+Stewarts Point|32.525|-80.722|US|South Carolina|54|f
+Stebni|48.086|25.020|UA|Chernivtsi|54
+Stepanivka|48.047|32.465|UA|Kirovohrad|54
+Stewart|55.936|-129.987|CA|British Columbia|54
+Steffenshagen|54.105|11.822|DE|Mecklenburg-Vorpommern|54
+Steinwandleiten|48.066|15.633|AT|Lower Austria|54
+Sterling|44.033|-84.023|US|Michigan|54
 Steindorf am Ossiacher See|46.698|14.009|AT|Carinthia|54
+Stein-Neukirch|50.676|8.055|DE|Rheinland-Pfalz|54
+Stelle-Wittenwurth|54.267|9.050|DE|Schleswig-Holstein|53
+Steinalben|49.317|7.650|DE|Rheinland-Pfalz|53
 Stein|46.998|16.087|AT|Styria|53
 Stelvio|46.598|10.546|IT|Trentino-Alto Adige|53
+Steenfeld|54.142|9.378|DE|Schleswig-Holstein|53
 Stella Cilento|40.232|15.093|IT|Campania|51
+Stebach|50.517|7.650|DE|Rheinland-Pfalz|51
 Štefanje|45.805|16.720|HR|Bjelovar-Bilogora|50
+Steinheuterode|51.383|10.067|DE|Thuringia|49
+Steel Peak|-70.901|-63.400|AQ||49|f
+Steenburg Mountain|42.395|-74.275|US|New York|49|f
+Steenstrupbreen|77.583|16.267|SJ|Svalbard|49|f
+Steeple Jason|-51.037|-61.209|FK||49|f
+Steeple Peaks|-71.632|-67.028|AQ||49|f
+Steeple Point|-71.702|-67.316|AQ||49|f
+Steere, Mount|-76.733|-117.817|AQ||49|f
+Stein Islands|-69.680|75.742|AQ||49|f
+Steinbergstein|47.350|12.183|AT|Tyrol|49|f
+Steinen|71.003|25.021|NO|Finnmark|49|f
+Steinernes Meer|47.500|12.967|AT||49|f
+Steinkopf|50.326|8.660|DE|Hesse|49|f
+Steinkuppe|50.719|13.599|DE|Saxony|49|f
+Steinnes|-69.347|76.593|AQ||49|f
+Steinsdalsfossen|60.371|6.103|NO|Vestland|49|f
+Steinslandsvatnet|60.910|5.971|NO|Vestland|49|f
+Steiny Hill|41.877|-74.339|US|New York|49|f
+Steklin|52.955|19.012|PL|Kujawsko-Pomorskie|49|f
+Stellar Crests|-71.106|-68.984|AQ||49|f
+Stendorfer See|54.162|10.707|DE|Schleswig-Holstein|49|f
+Stenhouse Glacier|-62.059|-58.383|AQ||49|f
+Stenhouse Peak|-54.250|-36.550|GS||49|f
+Stephen Peak|47.870|-123.595|US|Washington|49|f
+Stephens Creek Reservoir|-31.873|141.585|AU|New South Wales|49|f
+Stephens Island|-17.738|146.160|AU|Queensland|49|f
+Stephens Island / Takapourewa|-40.670|173.997|NZ||49|f
+Stephenson Glacier|-53.100|73.700|HM||49|f
+Stephenson, Mount|-69.822|-69.718|AQ||49|f
+Sternberg Peak|-80.067|159.633|AQ||49|f
+Sternstein|48.567|14.267|AT|Upper Austria|49|f
+Stetinden|68.164|16.613|NO|Nordland|49|f
+Stetinden|61.547|8.195|NO|Vestland|49|f
+Steuben Hill|43.058|-75.024|US|New York|49|f
+Steve Bigle Mountain|43.427|-74.188|US|New York|49|f
+Stevens Park|-33.975|151.133|AU|New South Wales|49|f
+Stevens Village Airport|66.015|-149.060|US|Alaska|49|f
+Stevenson Glacier|-70.097|72.711|AQ||49|f
+Stevenson Island|-67.438|61.181|AQ||49|f
+Stevenson Railroad Depot and Hotel|34.868|-85.840|US|Alabama|49|f
+Stewart Stacks|-62.638|-61.191|AQ||49|f
+Stewart Stadium|41.192|-111.939|US|Utah|49|f
+Steinsberg|50.333|7.950|DE|Rheinland-Pfalz|49
+Steinen|50.583|7.800|DE|Rheinland-Pfalz|48
 Steeg|47.244|10.294|AT|Tyrol|48
+Steineberg|50.183|6.917|DE|Rheinland-Pfalz|48
+Steinborn|50.067|6.633|DE|Rheinland-Pfalz|47
+Stein-Wingert|50.722|7.741|DE|Rheinland-Pfalz|47
 Stenzengreith|47.200|15.517|AT|Styria|47
+Steiningen|50.183|6.917|DE|Rheinland-Pfalz|46
 Steinbach am Attersee|47.831|13.546|AT|Upper Austria|44
 Steuerberg|46.788|14.113|AT|Carinthia|43
+Steinbach|50.043|7.594|DE|Rheinland-Pfalz|41
+St. Eloi Mountain|49.333|-114.485|CA|British Columbia|40|f
+St. Evtimiy Crag|-62.654|-59.934|AQ||40|f
+Ste. Genevieve Bay|51.150|-56.815|CA|Newfoundland and Labrador|40|f
+Steagall Glacier|-85.633|-161.900|AQ||40|f
+Steam Sawmill Hill|42.637|-75.519|US|New York|40|f
+Steamboat Lake|50.748|-116.292|CA|British Columbia|40|f
+Steamboat Mountain|33.098|-110.866|US|Arizona|40|f
+Steamboat Rock State Park|47.863|-119.133|US|Washington|40|f
+Steamtown National Historic Site|41.408|-75.670|US|Pennsylvania|40|f
+Stecknadelhorn|46.111|7.859|CH|Valais|40|f
+Stedelijk Museum 's-Hertogenbosch|51.686|5.290|NL|North Brabant|40|f
+Stedelijk Museum Amsterdam|52.358|4.880|NL|North Holland|40|f
+Stedelijk museum de Lakenhal|52.163|4.487|NL|South Holland|40|f
+Steel Lake|49.203|-86.845|CA|Ontario|40|f
+Steele Lake|54.649|-113.776|CA|Alberta|40|f
+Steele Lake|46.513|-91.763|US|Wisconsin|40|f
+Steenburg Lake|44.826|-77.681|CA|Ontario|40|f
+Steep Rock Lake|48.797|-91.670|CA|Ontario|40|f
+Steeple|54.493|-3.302|GB|England|40|f
+Steeple Rock|-41.318|174.830|NZ|Wellington Region|40|f
+Steer Island|37.540|-80.893|US|West Virginia|40|f
+Stefansson Island|73.453|-105.599|CA|Nunavut|40|f
+Steghorn|46.417|7.584|CH|Valais|40|f
+Stegskopf|50.699|8.019|DE|Rheinland-Pfalz|40|f
+Steigerkopf|49.297|8.026|DE|Rheinland-Pfalz|40|f
+Steigerwald Lake National Wildlife Refuge|45.566|-122.306|US|Washington|40|f
+Steigkoppe|50.043|9.305|DE|Bavaria|40|f
+Steilerhorn|46.584|9.316|CH|Grisons|40|f
+Stein|46.726|9.127|CH|Grisons|40|f
+Stein Mountain|50.333|-121.769|CA|British Columbia|40|f
+Stein Valley Nlaka'pamux Heritage Park|50.266|-122.036|CA|British Columbia|40|f
+Steinbok Peak|49.650|-121.253|CA|British Columbia|40|f
+Steinfalk|47.427|11.512|AT|Tyrol|40|f
+Steinhüshoren|46.668|8.332|CH|Bern|40|f
+Steinkopf|48.958|13.388|DE|Bavaria|40|f
+Steinlouwihorn|46.618|8.255|CH|Bern|40|f
+Steinschartenkopf|47.286|10.280|AT|Tyrol|40|f
+Steitalhorn|46.204|7.760|CH|Valais|40|f
+Stella Lake|39.005|-114.319|US|Nevada|40|f
+Stellenbosch University|-33.930|18.865|ZA|Western Cape|40|f
+Steller Field|41.381|-83.629|US|Ohio|40|f
+Stelli|46.836|9.766|CH|Grisons|40|f
+Stellihorn|46.036|8.001|CH|Valais|40|f
+Stellwagen Bank National Marine Sanctuary|42.250|-70.249|US|Massachusetts|40|f
+Stempflesee|48.339|10.918|DE|Bavaria|40|f
+Stemwinder Park|49.366|-120.136|CA|British Columbia|40|f
+Stephen Vincent Benet House|33.476|-82.024|US|Georgia|40|f
+Stephens Island|54.156|-130.728|CA|British Columbia|40|f
+Stephens Island|72.151|-80.565|CA|Nunavut|40|f
+Stephens Lake|51.250|-101.179|CA|Manitoba|40|f
+Stephens State Park|40.874|-74.810|US|New Jersey|40|f
+Stephenson Island|34.332|-82.792|US|Georgia|40|f
+Steptoe Butte State Park|47.032|-117.299|US|Washington|40|f
+Sterling and Francine Clark Art Institute|42.707|-73.214|US|Massachusetts|40|f
+Sterling Island|41.908|-83.377|US|Michigan|40|f
+Sterling State Park|41.916|-83.334|US|Michigan|40|f
+Sternenweiher|47.196|8.691|CH|Zurich|40|f
+Sternwarte Sonneberg|50.377|11.190|DE|Thuringia|40|f
+Steuri Glacier|-76.383|-112.400|AQ||40|f
+Stevens Creek Reservoir|37.299|-122.077|US|California|40|f
+Stevens Lake|45.535|-63.517|CA|Nova Scotia|40|f
+Stevenson Peak|-72.417|168.283|AQ||40|f
+Stevensons Island|-44.596|169.136|NZ|Otago|40|f
+Stever Ridge|-72.850|168.033|AQ||40|f
+Stewart Avenue Bridge|43.157|-93.190|US|Iowa|40|f
+Stewart Glacier|-77.483|-151.417|AQ||40|f
+Stewart Lake|54.483|-65.915|CA|Newfoundland and Labrador|40|f
+Stewart Lake|46.790|-94.221|US|Minnesota|40|f
+Stewart Lake National Wildlife Refuge|46.345|-103.436|US|North Dakota|40|f
+Stewart Mountain Dam|33.567|-111.536|US|Arizona|40|f
+Stewart Park|42.461|-76.504|US|New York|40|f
+Stewart Peak|49.171|-121.621|CA|British Columbia|40|f
+Stewarts Lake|45.939|-60.021|CA|Nova Scotia|40|f
+Steyer Bridge|43.298|-91.811|US|Iowa|40|f
 Steblevë|41.337|20.470|AL|Elbasan County|0
 Ştefan Cel Mare|46.205|26.855|RO|Bacău County|0
+Steinau|53.682|8.886|DE|Lower Saxony|0
+Steinberg|49.283|12.183|DE|Bavaria|0
+Steinburg|53.844|9.575|DE|Schleswig-Holstein|0
+Steinfeld|54.600|9.745|DE|Schleswig-Holstein|0
+Steinhausen an der Rottum|48.017|9.967|DE|Baden-Wurttemberg|0
 Steinsdalen|64.299|10.513|NO|Trøndelag|0
 Stepanky|49.317|31.983|UA|Cherkasy|0
 Stepne|47.797|35.306|UA|Zaporizhzhia|0

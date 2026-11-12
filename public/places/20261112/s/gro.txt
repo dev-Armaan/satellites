@@ -11,6 +11,7 @@ Groot IJsselmonde|51.883|4.549|NL|South Holland|89
 Grombalia|36.599|10.500|TN|Nabeul Governorate|89
 Grodzisk Mazowiecki|52.104|20.634|PL|Mazovia|89
 Gros Islet|14.067|-60.950|LC|Gros-Islet|88
+Groningen Airport Eelde|53.120|6.579|NL|Drenthe|88|f
 Grootfontein|-19.573|18.100|NA|Otjozondjupa Region|88
 Groß-Gerau|49.921|8.483|DE|Hesse|87
 Groß-Umstadt|49.869|8.932|DE|Hesse|87
@@ -19,6 +20,7 @@ Groesbeek|51.777|5.936|NL|Gelderland|85
 Großenhain|51.290|13.534|DE|Saxony|85
 Grottaferrata|41.787|12.671|IT|Lazio|85
 Groot-Brakrivier|-34.044|22.226|ZA|Western Cape|85
+Grønfjorden|78.045|14.145|SJ||85|f
 Großostheim|49.920|9.076|DE|Bavaria|84
 Grosse Pointe Woods|42.444|-82.907|US|Michigan|84
 Groves|29.948|-93.917|US|Texas|84
@@ -32,6 +34,7 @@ Großenkneten|52.944|8.253|DE|Lower Saxony|83
 Grover Beach|35.122|-120.621|US|California|83
 Großauheim|50.103|8.948|DE|Hesse|82
 Grovetown|33.450|-82.198|US|Georgia|82
+Grossglockner|47.074|12.694|AT|Tyrol|81|f
 Groveland|28.558|-81.851|US|Florida|81
 Großräschen|51.588|14.011|DE|Brandenburg|81
 Grosse Ile|42.129|-83.144|US|Michigan|81
@@ -46,11 +49,13 @@ Grosse Pointe Farms|42.409|-82.892|US|Michigan|79
 Groton|41.350|-72.078|US|Connecticut|79
 Großrosseln|49.203|6.841|DE|Saarland|79
 Großhansdorf|53.665|10.286|DE|Schleswig-Holstein|79
+Grootfontein Airport|-19.602|18.123|NA|Otjozondjupa Region|79|f
 Großenlüder|50.593|9.542|DE|Hesse|79
 Grodków|50.698|17.384|PL|Opole Voivodeship|79
 Groß Kreutz|52.403|12.782|DE|Brandenburg|79
 Grove|51.610|-1.422|GB|England|78
 Großbottwar|49.001|9.293|DE|Baden-Wurttemberg|78
+Groton-New London Airport|41.330|-72.045|US|Connecticut|78|f
 Grove City|41.158|-80.089|US|Pennsylvania|78
 Groot-Bijgaarden|50.872|4.250|BE|Flanders|78
 Groslay|48.986|2.347|FR|Île-de-France|78
@@ -61,6 +66,8 @@ Großröhrsdorf|51.145|14.019|DE|Saxony|77
 Gros Morne|19.671|-72.678|HT|Artibonite|77
 Großkrotzenburg|50.083|8.983|DE|Hesse|77
 Grosuplje|45.956|14.659|SI|Municipality of Grosuplje|77
+Gross Aubrig|47.111|8.882|CH|Schwyz|77|f
+Großvenediger|47.109|12.345|AT|Tyrol|77|f
 Großkarolinenfeld|47.891|12.081|DE|Bavaria|77
 Großbeeren|52.359|13.310|DE|Brandenburg|77
 Groby|52.659|-1.224|GB|England|77
@@ -70,8 +77,11 @@ Groß-Enzersdorf|48.203|16.551|AT|Lower Austria|76
 Großschönau|50.900|14.683|DE|Saxony|76
 Grootvlei|-26.762|28.484|ZA|Mpumalanga|76
 Gromiljak|43.967|18.055|BA|Federation of B&H|76
+Grozny Airport|43.388|45.700|RU|Chechnya|76|f
 Großschirma|50.966|13.286|DE|Saxony|76
 Groveland|42.760|-71.031|US|Massachusetts|76
+Großer Inselsberg|50.851|10.466|DE|Thuringia|75|f
+Grosshorn|46.487|7.910|CH|Bern|75|f
 Groveport|39.878|-82.884|US|Ohio|75
 Grou|53.095|5.837|NL|Friesland|75
 Großpösna|51.267|12.500|DE|Saxony|75
@@ -79,12 +89,17 @@ Grotte|37.403|13.699|IT|Sicily|75
 Gronau|52.085|9.777|DE|Lower Saxony|75
 Grottaminarda|41.070|15.059|IT|Campania|75
 Grove Hall|42.311|-71.075|US|Massachusetts|74
+Gross Spannort|46.787|8.525|CH|Uri|74|f
+Gross Windgällen|46.807|8.732|CH|Uri|74|f
+Groupe Raevski|-16.750|-144.233|PF|Tuamotu-Gambier Islands|74|f
 Grosse Pointe|42.386|-82.912|US|Michigan|74
 Großheubach|49.728|9.223|DE|Bavaria|74
 Groguida|5.133|-5.086|CI|Lagunes District|74
 Groblersdal|-25.168|29.394|ZA|Mpumalanga|74
 Großdubrau|51.254|14.459|DE|Saxony|74
 Großaitingen|48.228|10.779|DE|Bavaria|74
+Gross Ruchen|46.810|8.775|CH|Uri|73|f
+Grosvenor Bridge|51.485|-0.147|GB|England|73|f
 Groß Pankow|53.120|12.051|DE|Brandenburg|73
 Groß-Bieberau|49.801|8.824|DE|Hesse|73
 Groenpunt|-26.826|28.038|ZA|Gauteng|73
@@ -94,6 +109,7 @@ Groesbeck|31.524|-96.534|US|Texas|73
 Großhabersdorf|49.400|10.783|DE|Bavaria|73
 Großrinderfeld|49.665|9.734|DE|Baden-Wurttemberg|72
 Gröningen|51.937|11.216|DE|Saxony-Anhalt|72
+Großer Mützelburger See|53.658|14.329|DE||72|f
 Großwallstadt|49.879|9.153|DE|Bavaria|72
 Groot-Marico|-25.597|26.417|ZA|North West|72
 Großbettlingen|48.591|9.308|DE|Baden-Wurttemberg|72
@@ -104,6 +120,8 @@ Grossarl|47.233|13.200|AT|Salzburg|72
 Groß-Rohrheim|49.721|8.483|DE|Hesse|72
 Grödig|47.738|13.037|AT|Salzburg|71
 Grobiņa|56.535|21.168|LV|South Kurzeme Municipality|71
+Großer Auerberg|51.585|11.005|DE|Saxony-Anhalt|71|f
+Grove Field|45.628|-122.404|US|Washington|71|f
 Großbothen|51.188|12.751|DE|Saxony|71
 Grosspetersdorf|47.239|16.318|AT|Burgenland|71
 Groß Grönau|53.800|10.754|DE|Schleswig-Holstein|71
@@ -124,6 +142,8 @@ Großolbersdorf|50.700|13.083|DE|Saxony|70
 Groningen|5.800|-55.467|SR|Saramacca District|70
 Groisy|46.010|6.170|FR|Auvergne-Rhône-Alpes|70
 Grootdrink|-28.564|21.747|ZA|Northern Cape|70
+Groote Eylandt Airport|-13.975|136.460|AU|Northern Territory|70|f
+Großer Widderstein|47.285|10.129|AT|Vorarlberg|70|f
 Großpostwitz|51.121|14.441|DE|Saxony|70
 Gröbming|47.443|13.901|AT|Styria|70
 Großbreitenbach|50.583|11.010|DE|Thuringia|69
@@ -141,6 +161,12 @@ Grottazzolina|43.119|13.607|IT|The Marches|69
 Gröbzig|51.682|11.875|DE|Saxony-Anhalt|69
 Groß Twülpstedt|52.374|10.919|DE|Lower Saxony|69
 Grosse Pointe Shores|42.437|-82.877|US|Michigan|69
+Grønhøe|62.080|8.271|NO|Innlandet|69|f
+Gross Seehorn|46.888|10.032|AT|Vorarlberg|69|f
+Groß-Rosen Concentration Camp|50.998|16.276|PL|Lower Silesia|69|f
+Große Arnspitze|47.397|11.223|DE||69|f
+Großer Geiger|47.093|12.308|AT|Tyrol|69|f
+Großer Seekopf|47.406|10.355|DE|Bavaria|69|f
 Großheirath|50.176|10.950|DE|Bavaria|68
 Großerlach|49.054|9.514|DE|Baden-Wurttemberg|68
 Grosseto-Prugna|41.871|8.964|FR|Corsica|68
@@ -158,6 +184,9 @@ Großenseebach|49.633|10.875|DE|Bavaria|68
 Großengottern|51.148|10.562|DE|Thuringia|67
 Groșii Țibleșului|47.490|24.064|RO|Maramureş|67
 Großkugel|51.417|12.146|DE|Saxony-Anhalt|67
+Groom Range|37.450|-115.735|US|Nevada|67|f
+Groß Labenzer See|53.779|11.765|DE|Mecklenburg-Vorpommern|67|f
+Großer Bärenberg|51.352|9.268|DE|Hesse|67|f
 Grodzisko Górne|50.187|22.438|PL|Subcarpathia|67
 Grozeşti|44.650|23.317|RO|Mehedinți County|67
 Groß Köris|52.166|13.659|DE|Brandenburg|67
@@ -178,6 +207,15 @@ Groessen|51.932|6.026|NL|Gelderland|66
 Grozăvești|44.569|25.454|RO|Dâmbovița County|66
 Großsolt|54.700|9.517|DE|Schleswig-Holstein|65
 Grozeşti|46.991|28.051|RO|Iași County|65
+Großer Daumen|47.442|10.375|DE|Bavaria|65|f
+Großer Hundstod|47.512|12.886|DE||65|f
+Großer Müggelsee|52.438|13.650|DE|State of Berlin|65|f
+Großer Riesenkopf|47.708|12.107|DE|Bavaria|65|f
+Großer Traithen|47.648|12.038|DE|Bavaria|65|f
+Großer Werder|54.440|12.940|DE|Mecklenburg-Vorpommern|65|f
+Großer Wilder|47.370|10.389|DE|Bavaria|65|f
+Grosseto Airport|42.760|11.072|IT|Tuscany|65|f
+Groupe Actéon|-21.333|-136.500|PF||65|f
 Groß Lindow|52.233|14.533|DE|Brandenburg|65
 Großweikersdorf|48.471|15.983|AT|Lower Austria|65
 Groß Rosenburg|51.917|11.892|DE|Saxony-Anhalt|65
@@ -202,6 +240,14 @@ Groton|45.447|-98.099|US|South Dakota|64
 Grove Hill|31.709|-87.777|US|Alabama|63
 Groß-Engersdorf|48.359|16.566|AT|Lower Austria|63
 Groffliers|50.384|1.615|FR|Hauts-de-France|63
+Grodno TV Tower|53.702|23.822|BY||63|f
+Großer Binnensee|54.324|10.628|DE|Schleswig-Holstein|63|f
+Großer Eyberg|49.124|7.750|DE|Rheinland-Pfalz|63|f
+Großer Ölberg|50.682|7.248|DE|North Rhine-Westphalia|63|f
+Grotbreahesten|61.675|8.577|NO|Innlandet|63|f
+Grotto Geyser|44.472|-110.842|US|Wyoming|63|f
+Grove City Airport|41.145|-80.168|US|Pennsylvania|63|f
+Grove Isle|25.736|-80.219|US|Florida|63|f
 Großenstein|50.900|12.200|DE|Thuringia|63
 Gromlongo|45.729|9.541|IT|Lombardy|63
 Großweil|47.676|11.301|DE|Bavaria|63
@@ -241,6 +287,20 @@ Großdorf|47.434|9.915|AT|Vorarlberg|61
 Groton|42.611|-71.575|US|Massachusetts|61
 Groß-Gerungs|48.574|14.958|AT|Lower Austria|61
 Groombridge|51.115|0.183|GB|England|61
+Gromskie Jezioro|53.633|20.883|PL|Warmia-Masuria|61|f
+Grønliskarstinden|62.376|8.890|NO|Møre og Romsdal|61|f
+Grøsfjellvatnet|58.490|6.261|NO|Rogaland|61|f
+Groß Glienicker See|52.465|13.111|DE||61|f
+Große Haube|50.388|9.755|DE|Hesse|61|f
+Großer Auersberg|50.367|9.872|DE|Bavaria|61|f
+Großer Bärenkopf|47.131|12.731|AT|Carinthia|61|f
+Großer Bettelwurf|47.344|11.520|AT|Tyrol|61|f
+Großer Fürstenseer See|53.305|13.165|DE|Mecklenburg-Vorpommern|61|f
+Großer Riedelstein|49.166|12.973|DE|Bavaria|61|f
+Großer See|53.909|13.812|DE|Mecklenburg-Vorpommern|61|f
+Großer See|53.390|13.564|DE|Brandenburg|61|f
+Großer Wariner See|53.813|11.692|DE|Mecklenburg-Vorpommern|61|f
+Grosses Wannenhorn|46.494|8.097|CH|Valais|61|f
 Groveton|44.599|-71.511|US|New Hampshire|61
 Großebersdorf|48.364|16.471|AT|Lower Austria|61
 Großnaundorf|51.200|13.933|DE|Saxony|61
@@ -264,30 +324,288 @@ Großbardorf|50.267|10.367|DE|Bavaria|60
 Großwoltersdorf|53.070|13.096|DE|Brandenburg|60
 Groși|47.045|22.480|RO|Bihor County|60
 Grottola|41.317|14.041|IT|Campania|60
+Groß Vollstedt|54.234|9.869|DE|Schleswig-Holstein|60
+Groșeni|46.498|22.118|RO|Arad County|60
 Grottolella|40.971|14.789|IT|Campania|60
+Grobla|50.126|20.426|PL|Lesser Poland|60
+Grovéhio|6.521|-6.305|CI|Sassandra-Marahoue|60
+Grotta dell'Olmo I|40.894|14.092|IT|Campania|60
+Großmonra|51.213|11.296|DE|Thuringia|59
 Grontardo|45.201|10.152|IT|Lombardy|59
+Groß Sarau|53.772|10.737|DE|Schleswig-Holstein|59
 Groß Sankt Florian|46.824|15.319|AT|Styria|59
+Großfahner|51.056|10.828|DE|Thuringia|59
+Gródków|50.363|19.106|PL|Silesia|59
 Großkrut|48.644|16.724|AT|Lower Austria|59
+Gródek Nad Dunajcem|49.747|20.732|PL|Lesser Poland|59
+Grono|46.248|9.148|CH|Grisons|59
 Großrußbach|48.474|16.416|AT|Lower Austria|59
+Grodziczno|53.413|19.761|PL|Warmia-Masuria|59
+Groeslon|53.079|-4.281|GB|Wales|59
+Großpaschleben|51.761|11.933|DE|Saxony-Anhalt|59
+Groveland|43.220|-112.372|US|Idaho|59
+Großschwabhausen|50.933|11.483|DE|Thuringia|59
+Grossveitsch|47.588|15.472|AT|Styria|59
+Großgörschen|51.217|12.183|DE|Saxony-Anhalt|59
+Groß Garz|52.933|11.610|DE|Saxony-Anhalt|59
+Grote Berg|12.192|-68.998|CW||58
 Gromo|45.962|9.926|IT|Lombardy|58
+Groß Mohrdorf|54.388|12.948|DE|Mecklenburg-Vorpommern|58
+Großlöbichau|50.928|11.680|DE|Thuringia|58
+Groumania|7.920|-4.000|CI|Lacs District|58
 Grosso|45.256|7.557|IT|Piedmont|58
+Groß Teetzleben|53.645|13.228|DE|Mecklenburg-Vorpommern|58
+Großneuhausen|51.161|11.286|DE|Thuringia|58
+Groșani|45.228|25.034|RO|Arges|58
+Groß Plasten|53.546|12.851|DE|Mecklenburg-Vorpommern|58
+Großvargula|51.117|10.783|DE|Thuringia|58
+Grosrouvre|48.782|1.762|FR|Île-de-France|58
+Grogan Morgan Range|76.435|-100.419|CA|Nunavut|58|f
+Gross Düssi|46.792|8.828|CH|Uri|58|f
+Gross Muttenhorn|46.547|8.427|CH|Valais|58|f
+Gross Walenstock|46.857|8.420|CH|Obwalden|58|f
+Große Sandspitze|46.768|12.823|AT|Tyrol|58|f
+Großer Feldberg|50.232|8.457|DE|Hesse|58|f
+Großer Gleichberg|50.388|10.591|DE|Thuringia|58|f
+Großer Pälitzsee|53.187|12.975|DE||58|f
+Großer Prebelowsee|53.177|12.882|DE|Brandenburg|58|f
+Grosses Engelhorn|46.672|8.180|CH|Bern|58|f
+Großes Wiesbachhorn|47.150|12.750|AT|Salzburg|58|f
+Grot|42.625|21.908|RS|Central Serbia|58|f
+Groton Monument|41.355|-72.079|US|Connecticut|58|f
+Grouse Mountain|34.815|-119.183|US|California|58|f
+Groves Island|-75.500|-143.083|AQ||58|f
+Groșerea|44.720|23.481|RO|Gorj County|58
 Gropparello|44.834|9.728|IT|Emilia-Romagna|58
+Groß Krankow|53.815|11.334|DE|Mecklenburg-Vorpommern|57
+Gröben|51.124|12.042|DE|Saxony-Anhalt|57
+Groede|51.378|3.507|NL|Zeeland|57
+Groß Roge|53.779|12.505|DE|Mecklenburg-Vorpommern|57
+Großbadegast|51.731|12.027|DE|Saxony-Anhalt|57
+Grover|35.175|-81.450|US|North Carolina|57
+Grootschermer|52.583|4.850|NL|North Holland|57
+Grosswilfersdorf|47.083|15.983|AT|Styria|57
+Großfischlingen|49.269|8.176|DE|Rheinland-Pfalz|57
+Großkochberg|50.775|11.356|DE|Thuringia|57
+Groß Nordende|53.700|9.649|DE|Schleswig-Holstein|57
+Großheringen|51.103|11.669|DE|Thuringia|57
+Gröbern|51.689|12.451|DE|Saxony-Anhalt|57
+Grosville|49.509|-1.743|FR|Normandy|57
+Groß Wüstenfelde|53.874|12.552|DE|Mecklenburg-Vorpommern|57
+Gröst|51.260|11.849|DE|Saxony-Anhalt|56
+Grospierres|44.401|4.289|FR|Auvergne-Rhône-Alpes|56
+Gro|7.786|-5.228|CI|Vallée du Bandama District|56
+Grosssöding|47.000|15.300|AT|Styria|56
+Grozăvești|44.131|24.237|RO|Olt|56
 Grosbous|49.828|5.967|LU|Redange|56
+Grole|45.375|10.528|IT|Lombardy|56
+Groß Berßen|52.772|7.494|DE|Lower Saxony|56
+Großsteinhausen|49.183|7.450|DE|Rheinland-Pfalz|56
+Grodzisk|52.584|22.738|PL|Podlasie|56
 Großklein|46.736|15.444|AT|Styria|56
+Grolloo|52.935|6.672|NL|Drenthe|56
+Grose Wold|-33.598|150.685|AU|New South Wales|56
+Grosse Tete|30.411|-91.434|US|Louisiana|56
+Groß Stieten|53.813|11.449|DE|Mecklenburg-Vorpommern|56
+Groß Niendorf|53.846|10.243|DE|Schleswig-Holstein|56
+Grottaccia|43.346|13.273|IT|The Marches|56
+Groléjac|44.817|1.295|FR|New Aquitaine|56
+Grove City|45.151|-94.683|US|Minnesota|56
+Groot-Gelmen|50.784|5.264|BE|Flanders|56
+Groß-Schierstedt|51.748|11.521|DE|Saxony-Anhalt|56
+Grotti|42.356|12.949|IT|Lazio|56
+Groß Sierning|48.193|15.458|AT|Lower Austria|56
+Groß Oßnig|51.678|14.359|DE|Brandenburg|56
+Grossa|45.559|11.705|IT|Veneto|56
+Groveland|37.838|-120.233|US|California|56
 Grone|45.727|9.909|IT|Lombardy|56
+Groß Döbbern|51.652|14.330|DE|Brandenburg|55
+Großkufhaus|47.922|13.737|AT|Upper Austria|55
+Grostenquin|48.980|6.739|FR|Grand Est|55
+Großseifen|50.633|7.967|DE|Rheinland-Pfalz|55
+Groß Schenkenberg|53.794|10.567|DE|Schleswig-Holstein|55
+Gröna|51.765|11.697|DE|Saxony-Anhalt|55
+Großharrie|54.120|10.055|DE|Schleswig-Holstein|55
+Großkadolz|48.712|16.186|AT|Lower Austria|55
+Groom|35.204|-101.107|US|Texas|55
+Groß Gievitz|53.580|12.782|DE|Mecklenburg-Vorpommern|55
+Grödby|59.050|17.883|SE|Stockholm|55
+Großenrade|54.021|9.222|DE|Schleswig-Holstein|55
+Grójec|50.898|21.474|PL|Świętokrzyskie|55
+Groß Rönnau|53.972|10.312|DE|Schleswig-Holstein|55
+Grosspertholz|48.629|14.824|AT|Lower Austria|55
+Großzöberitz|51.619|12.179|DE|Saxony-Anhalt|55
 Großmugl|48.499|16.231|AT|Lower Austria|55
+Großderschau|52.791|12.368|DE|Brandenburg|55
+Grosssteinbach|47.150|15.883|AT|Styria|55
+Gröbitz|51.135|11.924|DE|Saxony-Anhalt|54
+Grosswarasdorf|47.539|16.553|AT|Burgenland|54
+Grosley-sur-Risle|49.045|0.803|FR|Normandy|54
+Grodno Ghetto|53.683|23.833|BY|Grodnenskaya|54|f
+Groenlandberge|-34.138|19.127|ZA|Western Cape|54|f
+Grönskär|59.278|19.026|SE|Stockholm|54|f
+Grønvatnet|62.111|7.623|NO|Innlandet|54|f
+Groote Eylandt|-13.965|136.593|AU|Northern Territory|54|f
+Gros Morne|-21.087|55.467|RE|Reunion|54|f
+Gros Ventre Range|43.375|-110.501|US|Wyoming|54|f
+Grosnez Castle|49.257|-2.247|JE||54|f
+Gross Chärpf|46.917|9.093|CH|Glarus|54|f
+Gross Fulfirst|47.130|9.396|CH|Saint Gallen|54|f
+Gross Schinhorn|46.361|8.261|IT|Piedmont|54|f
+Gross-Rosen Concentration Camp|50.998|16.276|PL|Lower Silesia|54|f
+Grosse Schlenkerspitze|47.250|10.617|AT|Tyrol|54|f
+Großer Adelberg|49.216|7.958|DE|Rheinland-Pfalz|54|f
+Großer Arbersee|49.099|13.156|DE|Bavaria|54|f
+Großer Baberowsee|53.234|13.473|DE|Brandenburg|54|f
+Großer Brückentinsee|53.257|13.243|DE|Mecklenburg-Vorpommern|54|f
+Großer Eutiner See|54.144|10.639|DE|Schleswig-Holstein|54|f
+Großer Galtenberg|47.333|11.967|AT|Tyrol|54|f
+Großer Heuberg|48.103|8.936|DE|Baden-Wurttemberg|54|f
+Großer Jasmunder Bodden|54.520|13.444|DE|Mecklenburg-Vorpommern|54|f
+Großer Labussee|53.306|12.952|DE|Mecklenburg-Vorpommern|54|f
+Großer Möseler|46.992|11.782|AT||54|f
+Großer Müllroser See|52.232|14.418|DE|Brandenburg|54|f
+Großer Plessower See|52.387|12.898|DE|Brandenburg|54|f
+Großer Pönitzer See|54.032|10.695|DE|Schleswig-Holstein|54|f
+Großer Priepertsee|53.227|13.041|DE|Mecklenburg-Vorpommern|54|f
+Großer Rettenstein|47.333|12.300|AT|Tyrol|54|f
+Großer Segeberger See|53.949|10.326|DE|Schleswig-Holstein|54|f
+Grosser Sonnblick|47.050|13.417|AT|Carinthia|54|f
+Großer Stadtsee|53.491|13.089|DE|Mecklenburg-Vorpommern|54|f
+Großer Steinberg|51.705|9.663|DE|Lower Saxony|54|f
+Großer Varchentiner See|53.596|12.843|DE|Mecklenburg-Vorpommern|54|f
+Großer Weißer See|53.285|12.940|DE|Mecklenburg-Vorpommern|54|f
+Großer Winterberg|51.761|10.624|DE|Saxony-Anhalt|54|f
+Großer Wostevitzer Teich|54.494|13.540|DE|Mecklenburg-Vorpommern|54|f
+Großer Wummsee|53.188|12.803|DE|Brandenburg|54|f
+Großer Wünsdorfer See|52.151|13.465|DE|Brandenburg|54|f
+Großer Zechliner See|53.157|12.802|DE|Brandenburg|54|f
+Großes Heiliges Meer|52.352|7.634|DE|North Rhine-Westphalia|54|f
+Großes Meer|53.431|7.295|DE|Lower Saxony|54|f
+Großes Teufelshorn|47.483|13.033|AT|Salzburg|54|f
+Grótta|64.164|-22.022|IS|Capital Region|54|f
+Grotto Island|-65.242|-64.252|AQ||54|f
+Grover Hot Springs State Park|38.700|-119.838|US|California|54|f
+Grover Island|30.877|-81.550|US|Georgia|54|f
+Growler Mountains|32.243|-113.028|US|Arizona|54|f
+Groton Long Point|41.315|-72.008|US|Connecticut|54
+Grosshart|47.167|15.950|AT|Styria|54
+Groß Polzin|53.894|13.593|DE|Mecklenburg-Vorpommern|54
+Groß-Inzersdorf|48.526|16.760|AT|Lower Austria|54
 Grotteria|38.365|16.265|IT|Calabria|54
+Gross Meckelsen|53.287|9.448|DE|Lower Saxony|54
+Großstöbnitz|50.922|12.388|DE|Thuringia|54
+Grøa|62.644|8.725|NO|Møre og Romsdal|54
+Grosmagny|47.723|6.886|FR|Bourgogne-Franche-Comté|54
+Großenwörden|53.680|9.259|DE|Lower Saxony|54
 Großharras|48.664|16.246|AT|Lower Austria|54
 Großsölk|47.417|13.967|AT|Styria|53
 Grohote|43.392|16.287|HR|Split-Dalmatia|53
+Groß Offenseth-Aspern|53.817|9.733|DE|Schleswig-Holstein|53
 Großriedenthal|48.483|15.867|AT|Lower Austria|53
+Großpürschütz|50.817|11.600|DE|Thuringia|52
+Großbundenbach|49.300|7.417|DE|Rheinland-Pfalz|52
+Groß Buchwald|54.163|10.086|DE|Schleswig-Holstein|51
+Großeutersdorf|50.789|11.563|DE|Thuringia|49
+Groat Bridge|53.537|-113.539|CA|Alberta|49|f
+Grob Ridge|-83.474|-51.343|AQ||49|f
+Groff Mountain|43.315|-74.281|US|New York|49|f
+Gros Piton|13.810|-61.068|LC|Soufrière|49|f
+Gross Mythen|47.030|8.689|CH|Schwyz|49|f
+Grosse Ile Municipal Airport|42.106|-83.161|US|Michigan|49|f
+Großer Falkenstein|49.086|13.282|DE|Bavaria|49|f
+Großer Garten|51.038|13.763|DE|Saxony|49|f
+Grosser Rachel|48.978|13.389|DE|Bavaria|49|f
+Grosser Solstein|47.302|11.307|AT|Tyrol|49|f
+Grosvenor Mountains|-85.667|175.000|AQ||49|f
+Grot|43.260|20.346|RS|Central Serbia|49|f
+Grotto Glacier|-70.740|-68.811|AQ||49|f
+Grouse Mountain|33.329|-108.716|US|New Mexico|49|f
+Grovabreen|61.486|6.515|NO|Vestland|49|f
+Grovatnet|67.616|15.504|NO|Nordland|49|f
+Grove Mountains|-72.750|75.000|AQ||49|f
+Grove Municipal Airport|36.600|-94.737|US|Oklahoma|49|f
+Grove Park|-33.973|151.095|AU|New South Wales|49|f
+Großmölsen|51.033|11.133|DE|Thuringia|49
+Grödersby|54.638|9.919|DE|Schleswig-Holstein|48
+Grobengereuth|50.669|11.669|DE|Thuringia|48
+Grove|53.528|10.495|DE|Schleswig-Holstein|48
+Groß Boden|53.751|10.450|DE|Schleswig-Holstein|46
+Großbarkau|54.225|10.168|DE|Schleswig-Holstein|46
+Großbockedra|50.850|11.650|DE|Thuringia|46
 Grondona|44.696|8.965|IT|Piedmont|46
+Großkampenberg|50.150|6.200|DE|Rheinland-Pfalz|44
+Großlangenfeld|50.217|6.250|DE|Rheinland-Pfalz|44
 Grožnjan|45.379|13.724|HR|Istria|43
+Groß Pampau|53.522|10.562|DE|Schleswig-Holstein|42
 Grognardo|44.630|8.493|IT|Piedmont|42
+Groven|54.300|8.988|DE|Schleswig-Holstein|42
+G Rollie White Coliseum|30.612|-96.340|US|Texas|40|f
+Groais Island|50.945|-55.597|CA|Newfoundland and Labrador|40|f
+Groby Castle Hill|52.664|-1.227|GB|England|40|f
+Grodziec - Zamek|51.177|15.760|PL|Lower Silesia|40|f
+Grohman Narrows Park|49.500|-117.352|CA|British Columbia|40|f
+Grøningen|64.134|12.806|NO|Trøndelag|40|f
+Groninger Museum|53.212|6.566|NL|Groningen|40|f
+Groom Lake|37.268|-115.800|US|Nevada|40|f
+Groom Mine|37.346|-115.767|US|Nevada|40|f
+Groot Constantia|-34.031|18.419|ZA|Western Cape|40|f
+Grootes Peak|-78.050|161.600|AQ||40|f
+Gros Van|46.393|7.062|CH|Vaud|40|f
+Gros-Horloge|49.442|1.091|FR|Normandy|40|f
+Grosilliers Lake|47.164|-95.214|US|Minnesota|40|f
+Grosmont Castle|51.918|-2.850|GB|England|40|f
+Gross Bielenhorn|46.604|8.428|CH|Uri|40|f
+Gross Bigerhorn|46.145|7.870|CH|Valais|40|f
+Gross Diamantstock|46.592|8.243|CH|Bern|40|f
+Gross Furkahorn|46.597|8.410|CH|Uri|40|f
+Gross Hill|41.952|-70.003|US|Massachusetts|40|f
+Gross Hill|42.658|-75.204|US|New York|40|f
+Gross Island|62.034|-65.881|CA|Nunavut|40|f
+Gross Leckihorn|46.536|8.464|CH|Valais|40|f
+Gross Pölven|47.500|12.150|AT|Tyrol|40|f
+Gross Reservoir|39.942|-105.373|US|Colorado|40|f
+Gross Schärhorn|46.827|8.829|CH|Uri|40|f
+Großer Alpsee|47.575|10.174|DE|Bavaria|40|f
+Grosser Arber|49.112|13.136|DE|Bavaria|40|f
+Großer Beerberg|50.658|10.745|DE|Thuringia|40|f
+Großer Bösenstein|47.433|14.400|AT|Styria|40|f
+Großer Hafner|47.070|13.401|AT|Carinthia|40|f
+Grosser Lindenkopf|50.183|8.337|DE|Hesse|40|f
+Grosser Moosstock|46.951|12.022|IT|Trentino-Alto Adige|40|f
+Großer Ödsee|47.764|14.019|AT|Upper Austria|40|f
+Grosser Priel|47.717|14.063|AT|Upper Austria|40|f
+Großer Pyhrgas|47.651|14.397|AT|Upper Austria|40|f
+Grosser Sättelistock|46.853|8.437|CH|Obwalden|40|f
+Großer Teufelssee|54.053|12.420|DE|Mecklenburg-Vorpommern|40|f
+Großer Zschirnstein|50.856|14.176|DE|Saxony|40|f
+Großes Beil|47.341|12.027|AT|Tyrol|40|f
+Grosses Fiescherhorn|46.551|8.061|CH|Valais|40|f
+Grosses Fusshorn|46.431|7.998|CH|Valais|40|f
+Grosses Grünhorn|46.532|8.078|CH|Valais|40|f
+Grössinsee|52.254|13.130|DE|Brandenburg|40|f
+Grosvenor Island|77.085|-103.870|CA|Nunavut|40|f
+Grotta di Cocceio|40.845|14.062|IT|Campania|40|f
+Grotto Hills|35.161|-115.215|US|California|40|f
+Grotto Mountain|51.083|-115.267|CA|Alberta|40|f
+Grouse Mountain|49.386|-123.076|CA|British Columbia|40|f
+Grout Museum of History and Science|42.493|-92.344|US|Iowa|40|f
+Grove Hill Municipal Airport|31.692|-87.762|US|Alabama|40|f
+Grover Cleveland Park|40.835|-74.282|US|New Jersey|40|f
+Growden Memorial Park|64.841|-147.757|US|Alaska|40|f
 Großhofen|48.258|16.619|AT|Lower Austria|40
+Groß Disnack|53.743|10.692|DE|Schleswig-Holstein|39
+Grothusenkoog|54.301|8.759|DE|Schleswig-Holstein|29
+Gröde|54.633|8.717|DE|Schleswig-Holstein|24
 Groscavallo|45.368|7.258|IT|Piedmont|22
 Groblershoop|-28.895|21.984|ZA|Northern Cape|0
+Grobokan|-8.205|114.379|ID|East Java|0
 Grocka|44.672|20.716|RS|Central Serbia|0
+Grömbach|48.573|8.545|DE|Baden-Wurttemberg|0
 Grosmont|51.917|-2.867|GB|Wales|0
+Großen Buseck|50.605|8.786|DE|Hesse|0
 Großkirchheim|46.973|12.896|AT|Carinthia|0
+Großmehring|48.767|11.533|DE|Bavaria|0
 Grouville|49.185|-2.049|JE||0|r
+Growong Kidul|-6.715|111.138|ID|Central Java|0
+Growong Lor|-6.712|111.141|ID|Central Java|0

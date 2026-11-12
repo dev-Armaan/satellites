@@ -4,13 +4,16 @@ Wasit|32.750|45.417|IQ||116|r
 Washington Heights|40.850|-73.935|US|New York|104
 Wāshīm|20.111|77.133|IN|Maharashtra|98
 Washington|54.900|-1.517|GB|England|97
+Washington Monument|38.890|-77.035|US|District of Columbia|94|f
 Washuk|27.727|64.810|PK|Balochistan|92
 Washinomiya|36.099|139.660|JP|Saitama|91
 Washwood Heath|52.501|-1.827|GB|England|90
 Wasco|35.594|-119.341|US|California|88
+Washington Dulles International Airport|38.949|-77.449|US|Virginia|88|f
 Wassenaar|52.146|4.403|NL|South Holland|88
 Washington|37.131|-113.508|US|Utah|88
 Wasco|41.938|-88.405|US|Illinois|87
+Wasatch Range|39.822|-111.760|US|Utah|87|f
 Wasaga Beach|44.517|-80.016|CA|Ontario|86
 Wasquehal|50.670|3.134|FR|Hauts-de-France|86
 Washington|40.704|-89.407|US|Illinois|84
@@ -23,6 +26,7 @@ Washington Square|39.950|-75.162|US|Pennsylvania|83
 Wasserburg am Inn|48.053|12.223|DE|Bavaria|82
 Washington|38.659|-87.173|US|Indiana|82
 Wasmes|50.415|3.847|BE|Wallonia|81
+Wasilla Airport|61.572|-149.541|US|Alaska|80|f
 Washington|35.547|-77.052|US|North Carolina|80
 Wasilków|53.199|23.208|PL|Podlasie|79
 Wasilla|61.581|-149.441|US|Alaska|79
@@ -45,6 +49,7 @@ Washington|33.737|-82.739|US|Georgia|72
 Wäschenbeuren|48.760|9.687|DE|Baden-Wurttemberg|72
 Wasserburg|47.572|9.632|DE|Bavaria|72
 Wasungen|50.662|10.369|DE|Thuringia|72
+Wasau Island|-20.709|166.469|NC||71|f
 Wassamu|44.021|142.418|JP|Hokkaido|71
 Wasserlosen|50.095|10.030|DE|Bavaria|71
 Wasserbillig|49.715|6.499|LU|Grevenmacher|71
@@ -53,13 +58,19 @@ Wassy|48.498|4.948|FR|Grand Est|71
 Wasmuel|50.445|3.848|BE|Wallonia|70
 Wasserburg|48.441|10.269|DE|Bavaria|70
 Wąsosz|51.562|16.691|PL|Lower Silesia|69
+Washpool National Park|-29.365|152.335|AU|New South Wales|69|f
 Wasseiges|50.622|5.005|BE|Wallonia|68
 Wasserliesch|49.707|6.539|DE|Rheinland-Pfalz|67
+Wassermann Lake|44.841|-93.674|US|Minnesota|67|f
+Wassuk Range|38.680|-118.841|US|Nevada|67|f
 Wasbek|54.074|9.897|DE|Schleswig-Holstein|67
 Waskom|32.479|-94.060|US|Texas|67
 Washburn|46.673|-90.895|US|Wisconsin|66
 Wasbüttel|52.413|10.594|DE|Lower Saxony|66
 Washington|50.905|-0.406|GB|England|66
+Washington County Veteran's Memorial Airport|39.733|-97.048|US|Kansas|65|f
+Washington Island|47.875|-89.250|US|Michigan|65|f
+Waskaganish Airport|51.475|-78.755|CA|Quebec|65|f
 Waskaganish|51.483|-78.750|CA|Quebec|65
 Washington Heights|41.470|-74.416|US|New York|65
 Washington Park|26.133|-80.181|US|Florida|64
@@ -68,6 +79,8 @@ Wasbank|-28.313|30.107|ZA|KwaZulu-Natal|64
 Wasserleben|51.921|10.757|DE|Saxony-Anhalt|64
 Wasségbono|8.502|-4.497|CI|Vallée du Bandama District|63
 Waswanipi|49.733|-76.166|CA|Quebec|63
+Washington Island|45.377|-86.901|US|Wisconsin|63|f
+Wassaw Sound|31.934|-80.950|US|Georgia|63|f
 Washington|44.274|-69.367|US|Maine|63
 Wassu|13.691|-14.879|GM|Central River|63
 Washburn|47.289|-101.029|US|North Dakota|62
@@ -76,15 +89,118 @@ Washington Mills|43.050|-75.273|US|New York|61
 Washington|39.261|-81.672|US|West Virginia|61
 Wassenach|50.433|7.283|DE|Rheinland-Pfalz|61
 Washburn|40.919|-89.291|US|Illinois|61
+Washington Bridge|41.200|-73.110|US|Connecticut|61|f
+Washington Peak|44.009|-114.673|US|Idaho|61|f
+Washū Dake|36.402|137.605|JP|Nagano|61|f
+Wąsosze lake|53.489|16.080|PL|West Pomerania|61|f
 Washington|39.818|-97.051|US|Kansas|61
 Wassigny|50.013|3.600|FR|Hauts-de-France|60
 Washington|44.106|-72.433|US|Vermont|60
+Washburn|46.790|-68.158|US|Maine|60
+Wasma|15.433|-84.400|HN|Gracias a Dios Department|60
+Washington|30.616|-92.057|US|Louisiana|60
+Washington|43.176|-72.097|US|New Hampshire|60
+Washburn|42.412|-92.267|US|Iowa|59
+Washington|45.395|-86.932|US|Wisconsin|58
+Washburn Lake|46.870|-93.989|US|Minnesota|58|f
+Washington County Airport|40.136|-80.292|US|Pennsylvania|58|f
+Washington Crossing Bridge|40.473|-79.969|US|Pennsylvania|58|f
+Washington Crossing Historic Park|40.298|-74.876|US|Pennsylvania|58|f
+Wasp Island|-35.665|150.318|AU|New South Wales|58|f
+Waspam Airport|14.739|-83.969|NI|North Caribbean Coast|58|f
+Wasserkuppe|50.498|9.937|DE|Hesse|58|f
+Wąsewo|52.874|21.673|PL|Mazovia|58
+Washingtonville|40.900|-80.764|US|Ohio|58
+Wasleys|-34.470|138.686|AU|South Australia|57
+Washington Boro|39.993|-76.467|US|Pennsylvania|57
+Wasenbruck|47.987|16.558|AT|Lower Austria|56
+Washington|35.059|-97.484|US|Oklahoma|56
+Washakie Ten|44.096|-107.909|US|Wyoming|56
+Washford|51.161|-3.362|GB|England|56
+Wasserhofen|46.617|14.617|AT|Carinthia|55
+Washington Grove|39.140|-77.175|US|Maryland|55
+Washington|42.366|-73.116|US|Massachusetts|55
+Waskemeer|53.057|6.280|NL|Friesland|55
+Wasnes-au-Bac|50.271|3.260|FR|Hauts-de-France|54
+Wasterkingen|47.590|8.471|CH|Zurich|54
+Wasatch Mountain|37.890|-107.796|US|Colorado|54|f
+Wasco-Kern County Airport|35.618|-119.352|US|California|54|f
+Waseca Municipal Airport|44.073|-93.553|US|Minnesota|54|f
+Washington Island Airport|45.385|-86.923|US|Wisconsin|54|f
+Washington Park Arboretum|47.636|-122.296|US|Washington|54|f
+Washington Square|41.490|-71.313|US|Rhode Island|54|f
+Washington Square Park|40.731|-73.998|US|New York|54|f
+Washington’s Headquarters|40.296|-74.947|US|Pennsylvania|54|f
+Washita Battlefield National Historic Site|35.621|-99.704|US|Oklahoma|54|f
+Washoe Lake|39.268|-119.801|US|Nevada|54|f
+Wasilla Community Hall|61.583|-149.441|US|Alaska|54|f
+Wasini Island|-4.663|39.382|KE|Kwale County|54|f
+Wassama Round House State Historic Park|37.374|-119.722|US|California|54|f
+Wasserthaleben|51.250|10.883|DE|Thuringia|54
 Waśniów|50.899|21.223|PL|Świętokrzyskie|53
+Wasenbach|50.317|7.967|DE|Rheinland-Pfalz|51
+Wasenkoepfel|48.947|7.599|FR|Grand Est|49|f
+Washing Bay|54.533|-6.583|GB|Northern Ireland|49|f
+Washington Bridge|41.819|-71.387|US|Rhode Island|49|f
+Washington Monument|39.298|-76.616|US|Maryland|49|f
+Washington Ridge|-78.100|-154.800|AQ||49|f
+Washington, Cape|-74.650|165.417|AQ||49|f
+Wasilewski, Mount|-75.178|-71.401|AQ||49|f
+Wasko, Mount|-84.567|-176.967|AQ||49|f
+Wast Water|54.442|-3.295|GB|England|49|f
 Washington|38.713|-78.159|US|Virginia|42
+Wasa Lake|49.779|-115.736|CA|British Columbia|40|f
+Wasa Lake Park|49.783|-115.735|CA|British Columbia|40|f
+Wasaga Beach Provincial Park|44.496|-80.041|CA|Ontario|40|f
+Wasatch Mountain State Park|40.482|-111.512|US|Utah|40|f
+Wasco Lake|44.510|-121.812|US|Oregon|40|f
+Wasco State Airport|45.589|-120.679|US|Oregon|40|f
+Waseda University|35.709|139.720|JP|Tokyo|40|f
+Wasekamio Lake|56.750|-108.751|CA|Saskatchewan|40|f
+Wasenburg|48.960|7.616|FR|Grand Est|40|f
+Wasenhorn|46.266|8.086|CH|Valais|40|f
+Washakie Glacier|42.809|-109.247|US|Wyoming|40|f
+Washaqua Hill|41.366|-70.472|US|Massachusetts|40|f
+Washburn Island|41.558|-70.536|US|Massachusetts|40|f
+Washburn Municipal Airport|47.351|-101.034|US|North Dakota|40|f
+Washdyke Lagoon|-44.358|171.250|NZ|Canterbury|40|f
+Washington and Lee University Historic District|37.788|-79.443|US|Virginia|40|f
+Washington Aqueduct|38.938|-77.112|US|District of Columbia|40|f
+Washington Avenue Bridge|31.561|-97.129|US|Texas|40|f
+Washington Avenue Bridge|42.520|-93.270|US|Iowa|40|f
+Washington Bridge|40.847|-73.928|US|New York|40|f
+Washington Canal|40.466|-74.372|US|New Jersey|40|f
+Washington County Museum of Fine Arts|39.637|-77.731|US|Maryland|40|f
+Washington Crossing State Park|40.311|-74.864|US|New Jersey|40|f
+Washington Lake|44.032|-114.621|US|Idaho|40|f
+Washington Market Park|40.717|-74.012|US|New York|40|f
+Washington Mill Bridge|42.304|-90.781|US|Iowa|40|f
+Washington Monument State Park|39.498|-77.626|US|Maryland|40|f
+Washington Oaks Gardens State Park|29.636|-81.204|US|Florida|40|f
+Washington Park|37.285|-79.943|US|Virginia|40|f
+Washington Park|42.499|-90.668|US|Iowa|40|f
+Washington Park|41.795|-87.611|US|Illinois|40|f
+Washington Park|40.743|-74.170|US|New Jersey|40|f
+Washington Park|39.702|-104.971|US|Colorado|40|f
+Washington Rock State Park|40.613|-74.472|US|New Jersey|40|f
+Washington Slagbaai National Park|12.258|-68.379|BQ|Bonaire|40|f
+Washington Square|37.801|-122.410|US|California|40|f
+Washington State Park|38.083|-90.688|US|Missouri|40|f
+Washington-Wilkes Historical Museum|33.735|-82.732|US|Georgia|40|f
+Washita National Wildlife Refuge|35.615|-99.263|US|Oklahoma|40|f
+Washmill Lake|44.680|-63.685|CA|Nova Scotia|40|f
+Wasp Islands|48.595|-123.027|US|Washington|40|f
+Wasserbergfirst|46.940|8.789|CH|Schwyz|40|f
+Wasserflue|47.430|8.024|CH|Aargau|40|f
+Wasserschloss Kunreuth|49.683|11.141|DE|Bavaria|40|f
+WASU-FM (Boone)|36.216|-81.681|US|North Carolina|40|f
+Wasuhorn|46.173|7.749|CH|Valais|40|f
 Wase|9.094|9.956|NG|Plateau State|0
 Wāshēr|32.251|63.856|AF|Helmand|0
 Washḩah|16.308|43.411|YE|Ḩajjah|0
 Washington Street Courthouse Annex|34.803|-86.973|US|Alabama|0
 Wasior|-2.642|134.488|ID|West Papua|0
+Waso|-8.430|120.586|ID|East Nusa Tenggara|0
+Wasogolo|-8.627|120.460|ID|East Nusa Tenggara|0
 Wassa-Akropong|5.787|-2.084|GH|Western|0
 Wasserburg|48.274|14.562|AT|Upper Austria|0

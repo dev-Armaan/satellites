@@ -1,6 +1,7 @@
 Deventer|52.255|6.164|NL|Overijssel|100
 Deva|45.883|22.900|RO|Hunedoara County|97
 Devakottai|9.947|78.823|IN|Tamil Nadu|94
+Devils Tower|44.591|-104.715|US|Wyoming|93|f
 Devinuwara|5.928|80.589|LK|Southern Province|93
 Develi|38.391|35.492|TR|Kayseri|91
 Devarkonda|16.692|78.921|IN|Telangana|89
@@ -14,6 +15,7 @@ Devadanapatti|10.147|77.644|IN|Tamil Nadu|86
 Devgarh|25.525|73.908|IN|Rajasthan|85
 Devínska Nová Ves|48.207|16.979|SK|Bratislava Region|85
 Devizes|51.351|-1.994|GB|England|85
+Devil's Island|5.293|-52.583|GF||82|f
 Devendranagar|24.617|80.379|IN|Madhya Pradesh|82
 Devrukh|17.067|73.615|IN|Maharashtra|82
 Devipattinam|9.478|78.896|IN|Tamil Nadu|81
@@ -23,6 +25,7 @@ Déville-lès-Rouen|49.469|1.052|FR|Normandy|80
 Devsar|20.785|72.984|IN|Gujarat|80
 Devikāpuram|12.498|79.253|IN|Tamil Nadu|80
 Devāpur|19.044|79.350|IN|Telangana|80
+Devonport Airport|-41.170|146.430|AU|Tasmania|80|f
 Dévaványa|47.033|20.967|HU|Bekes County|79
 Devnya|43.222|27.569|BG|Varna|78
 Devin|41.743|24.400|BG|Smolyan|77
@@ -35,18 +38,96 @@ Devoto|-31.402|-62.306|AR|Cordoba|75
 Devecser|47.103|17.438|HU|Veszprém|74
 Devasthanam|12.668|78.582|IN|Tamil Nadu|74
 Devine|29.140|-98.905|US|Texas|73
+Deverall Island|-81.467|161.900|AQ||73|f
 Devitsa|51.635|38.956|RU|Voronezh Oblast|73
 Devesel|44.469|22.667|RO|Mehedinți County|71
 Deveselu|44.067|24.383|RO|Olt|70
+Devizes Castle|51.351|-1.998|GB|England|70|f
+Devínska Kobyla|48.191|16.995|SK|Bratislava Region|69|f
 Devola|39.474|-81.479|US|Ohio|68
+Devil Peak|35.697|-115.453|US|Nevada|67|f
+Devils Head|39.260|-105.101|US|Colorado|67|f
 Devetak|44.551|18.457|BA|Federation of B&H|67
 Devaprayāg|30.146|78.603|IN|Uttarakhand|67
 Devín|48.174|16.984|SK|Bratislava Region|67
+Devilsmother|53.600|-9.640|IE|Connacht|65|f
 Devens|42.545|-71.613|US|Massachusetts|65
 Deville|31.357|-92.165|US|Louisiana|65
 Devon|40.049|-75.429|US|Pennsylvania|64
 Devecey|47.322|6.019|FR|Bourgogne-Franche-Comté|63
 Devon|45.964|-66.617|CA|New Brunswick|63
+Devil Mountain|66.296|-164.525|US|Alaska|63|f
+Devils Postpile National Monument|37.625|-119.085|US|California|63|f
+Devils Thumb|48.129|-121.549|US|Washington|63|f
 Deville|49.879|4.706|FR|Grand Est|61
+Devils Lake|43.417|-89.732|US|Wisconsin|61|f
+Devils Point|-62.671|-61.183|AQ||61|f
+Devils Thumb|74.597|-57.144|GL|Avannaata|61|f
+Devasora|22.165|92.625|IN|Mizoram|59
+Devasora South|22.132|92.642|IN|Mizoram|59
+Devil Island|-63.799|-57.289|AQ||58|f
+Devil’s Peak|-33.955|18.439|ZA|Western Cape|58|f
+Devils Courthouse|35.303|-82.896|US|North Carolina|58|f
+Devils Lake Municipal Airport|48.114|-98.908|US|North Dakota|58|f
+Devils Paw|58.730|-133.840|US|Alaska|58|f
+Devyatyy Val|43.307|131.838|RU|Primorye|58
+Deveciuşağı|36.762|35.627|TR|Adana|56
+De Valls Bluff|34.785|-91.458|US|Arkansas|55
+Devedamı|38.928|34.035|TR|Aksaray|55
+Devlethan|38.557|29.960|TR|Afyonkarahisar Province|55
+Devi Ahilyabai Holkar International Airport|22.722|75.801|IN|Madhya Pradesh|54|f
+Devi Malai|10.058|77.150|IN|Kerala|54|f
+DeVicq Glacier|-75.000|-131.000|AQ||54|f
+Devil’s Gap Battery|36.137|-5.350|GI||54|f
+Deville Glacier|-64.803|-62.524|AQ||54|f
+Devils Desk|58.476|-154.298|US|Alaska|54|f
+Devils Hopyard State Park|41.476|-72.341|US|Connecticut|54|f
+Devils Kitchen Lake|37.596|-89.086|US|Illinois|54|f
+Devils Lake|48.046|-98.998|US|North Dakota|54|f
+Devils Throne|45.310|-116.555|US|Idaho|54|f
+Devils Thumb|57.092|-132.361|US|Alaska|54|f
+Devils Tower|-39.370|146.740|AU|Tasmania|54|f
+Devold Peak|-72.250|26.733|AQ||54|f
+Dévoluy|44.650|5.883|FR|Provence-Alpes-Côte d'Azur|54|f
+Devon Island|75.252|-88.000|CA|Nunavut|54|f
+DeVries Glacier|-80.333|157.500|AQ||54|f
+Devils Couch|49.833|-117.652|CA|British Columbia|49|f
+Devils Dome|49.833|-117.702|CA|British Columbia|49|f
+Devils Glacier|-86.383|-165.000|AQ||49|f
+Devils Island|47.070|-90.727|US|Wisconsin|49|f
+Devils Mountain Lodge Airport|62.399|-142.995|US|Alaska|49|f
+Devils Ridge|-77.017|162.367|AQ||49|f
+Devoke Water|54.361|-3.298|GB|England|49|f
+Devon Falls|6.952|80.630|LK|Central Province|49|f
+Devon Park|-33.748|150.718|AU|New South Wales|49|f
+Devonport Oval|-41.160|146.350|AU|Tasmania|49|f
+Devore Peak|48.277|-120.765|US|Washington|49|f
+Devorse Mountain|43.352|-74.315|US|New York|49|f
+Devastator Peak|50.593|-123.532|CA|British Columbia|40|f
+Develin Peak|58.300|-124.770|CA|British Columbia|40|f
+Devick Lake|50.904|-120.081|CA|British Columbia|40|f
+Devil Bay|47.633|-56.615|CA|Newfoundland and Labrador|40|f
+Devil Mountain|47.083|-80.083|CA|Ontario|40|f
+Devil Mountain Lakes|66.399|-164.487|US|Alaska|40|f
+Devil's Appendix|53.110|-4.035|GB|Wales|40|f
+Devil's Lake|46.778|-83.945|CA|Ontario|40|f
+Devil’s Tongue Battery|36.147|-5.355|GI||40|f
+Devils Backbone|42.203|-74.895|US|New York|40|f
+Devils Churn|44.284|-124.112|US|Oregon|40|f
+Devils Den Lake|49.250|-124.863|CA|British Columbia|40|f
+Devils Head|51.347|-115.264|CA|Alberta|40|f
+Devils Hole Hills|36.328|-116.181|US|Nevada|40|f
+Devils Island|47.517|-55.632|CA|Newfoundland and Labrador|40|f
+Devils Island|44.582|-63.459|CA|Nova Scotia|40|f
+Devils Lake|41.982|-84.291|US|Michigan|40|f
+Devils Lake|46.627|-95.657|US|Minnesota|40|f
+Devils Lake|44.982|-123.992|US|Oregon|40|f
+Devils Peak|34.029|-119.785|US|California|40|f
+Devils Tooth|45.344|-116.540|US|Idaho|40|f
+Devils Tower National Monument|44.591|-104.716|US|Wyoming|40|f
+Děvín|48.869|16.650|CZ|South Moravian|40|f
+Devon Ice Cap|75.335|-82.499|CA|Nunavut|40|f
+Devon Mountain|51.717|-116.252|CA|Alberta|40|f
+Devork Lake|49.409|-86.446|CA|Ontario|40|f
 Devecikonağı|39.915|28.562|TR|Bursa Province|0
 Devladove|48.103|33.755|UA|Dnipropetrovsk|0

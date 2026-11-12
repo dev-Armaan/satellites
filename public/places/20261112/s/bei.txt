@@ -7,6 +7,7 @@ Beibei|29.827|106.436|CN|Chongqing|108
 Beiliu|22.707|110.349|CN|Guangxi|106
 Beipiao|41.792|120.779|CN|Liaoning|106
 Beining|41.596|121.793|CN|Liaoning|104
+Beijing Capital International Airport|40.080|116.585|CN|Beijing|100|f
 Beidao|34.569|105.893|CN|Gansu|97
 Beichengqu|40.439|113.154|CN|Inner Mongolia|97
 Beimeng|36.604|119.496|CN|Shandong|96
@@ -15,17 +16,22 @@ Beisu|38.155|114.807|CN|Hebei|94
 Beiwangli|38.621|115.396|CN|Hebei|93
 Beigang|23.570|120.302|TW|Taiwan|90
 Beidou|23.873|120.524|TW|Taiwan|90
+Beijing Nanyuan Airport|39.783|116.388|CN|Beijing|88|f
 Beihai|25.080|98.577|CN|Yunnan|87
 Beitun|47.352|87.821|CN|Xinjiang|86
+Beijing Normal University|39.960|116.369|CN|Beijing|83|f
 Beizheng|38.060|114.078|CN|Henan|82
 Beïnamar|8.670|15.381|TD|Logone Occidental|82
 Beit Jann|32.965|35.377|IL|Northern District|82
+Beihai Fucheng Airport|21.539|109.294|CN|Guangxi|81|f
 Beitanzhuang|38.513|114.288|CN|Henan|81
 Beighton|53.333|-1.333|GB|England|81
 Beiuş|46.667|22.350|RO|Bihor County|81
+Beijing Daxing International Airport|39.510|116.410|CN|Beijing|80|f
 Beilen|52.863|6.514|NL|Drenthe|80
 Beihuaidian|39.259|117.564|CN|Tianjin|79
 Beicang|39.236|117.123|CN|Tianjin|78
+Beihan Airport|14.782|45.720|YE|Shabwah|78|f
 Beizhoushan|22.526|113.976|CN|Guangdong|77
 Beinasco|45.025|7.586|IT|Piedmont|76
 Beith|55.749|-4.637|GB|Scotland|76
@@ -33,40 +39,247 @@ Beilstein|49.041|9.314|DE|Baden-Wurttemberg|76
 Beit El|31.942|35.222|PS|West Bank|76
 Béinleu|7.228|-7.883|CI|Montagnes|74
 Beiping|31.974|108.779|CN|Chongqing|74
+Beirut International Airport|33.821|35.488|LB|Mount Lebanon|73|f
+Beinn Alligin|57.591|-5.573|GB|Scotland|72|f
 Beierfeld|50.565|12.790|DE|Saxony|72
 Beishancun|26.437|119.634|CN|Fujian|71
 Beira Rio|-12.254|-42.755|BR|Bahia|71
 Beiriz de Baixo|41.397|-8.724|PT|Porto|70
 Beindersheim|49.561|8.319|DE|Rheinland-Pfalz|69
+Beinn a' Chaorainn|57.093|-3.577|GB|Scotland|69|f
 Beilrode|51.567|13.067|DE|Saxony|69
 Beinette|44.364|7.645|IT|Piedmont|68
 Beimerstetten|48.483|9.983|DE|Baden-Wurttemberg|68
+Beinn Dearg|57.786|-4.930|GB|Scotland|67|f
 Beica de Jos|46.733|24.800|RO|Mureș County|67
 Beigem|50.949|4.369|BE|Flanders|66
 Beiu|43.874|25.455|RO|Teleorman County|66
+Beinn a' Chochuill|56.450|-5.069|GB|Scotland|65|f
+Beinn Bhuidhe|56.327|-4.907|GB|Scotland|65|f
+Beinn Dearg|57.588|-5.523|GB|Scotland|65|f
+Beinn Dorain|56.503|-4.722|GB|Scotland|65|f
+Beinn Fhada|57.221|-5.284|GB|Scotland|65|f
+Beinn Narnain|56.221|-4.789|GB|Scotland|65|f
+Beinn Sgritheall|57.154|-5.580|GB|Scotland|65|f
 Beizhai|36.220|120.529|CN|Shandong|65
 Bei der Höhne|53.514|9.112|DE|Lower Saxony|65
 Beidaud|44.717|28.567|RO|Tulcea County|65
 Beitan|39.758|117.446|CN|Tianjin|65
+Beinn a' Bha' ach Ard|57.452|-4.734|GB|Scotland|63|f
+Beinn a' Chlachair|56.870|-4.509|GB|Scotland|63|f
+Beinn a' Chlaidheimh|57.746|-5.259|GB|Scotland|63|f
+Beinn Bhreac|57.055|-3.553|GB|Scotland|63|f
+Beinn Challuim|56.455|-4.620|GB|Scotland|63|f
+Beinn Fhionnlaidh|56.601|-5.104|GB|Scotland|63|f
+Beinn Mhanach|56.534|-4.646|GB|Scotland|63|f
 Beiersdorf|51.074|14.538|DE|Saxony|63
 Beilizigu|39.491|117.465|CN|Tianjin|62
 Beicaicun|39.487|117.026|CN|Tianjin|62
+Be-in Kyun|17.759|94.484|MM|Rakhine|61|f
+Beinn a’ Bheithir|56.667|-5.200|GB|Scotland|61|f
+Beinn a' Chleibh|56.390|-4.836|GB|Scotland|61|f
+Beinn a' Chroin|56.332|-4.610|GB|Scotland|61|f
+Beinn a’ Ghlo|56.833|-3.717|GB|Scotland|61|f
+Beinn Achaladair|56.552|-4.695|GB|Scotland|61|f
+Beinn Chabhair|56.326|-4.642|GB|Scotland|61|f
+Beinn Dubhchraig|56.391|-4.743|GB|Scotland|61|f
+Beinn Eighe - Ruadh-stac Mor|57.594|-5.429|GB|Scotland|61|f
+Beinn Fhionnlaidh|57.306|-5.130|GB|Scotland|61|f
+Beinn Heasgarnich|56.510|-4.579|GB|Scotland|61|f
+Beinn Leoid|58.222|-4.862|GB|Scotland|61|f
+Beinn Lochain|56.163|-4.964|GB|Scotland|61|f
+Beinn na Caillich|57.243|-5.697|GB|Scotland|61|f
+Beinn na Lap|56.789|-4.659|GB|Scotland|61|f
+Beinn Sgulaird|56.566|-5.170|GB|Scotland|61|f
+Beinn Tulaichean|56.343|-4.564|GB|Scotland|61|f
+Beinn Udlamain|56.835|-4.330|GB|Scotland|61|f
+Beisfjord|68.425|17.396|NO|Nordland|61|f
 Beit Horon|31.876|35.130|IL||61
 Beignon|47.971|-2.172|FR|Brittany|61
+Beinsdorp|52.287|4.596|NL|North Holland|60
+Beinwil|47.261|8.205|CH|Aargau|60
+Beidenfleth|53.879|9.413|DE|Schleswig-Holstein|60
+Beit H̱erut|32.376|34.874|IL|Central District|59
+Beine-Nauroy|49.249|4.216|FR|Grand Est|58
+Beijing Dongwuyuan|39.940|116.330|CN|Beijing|58|f
+Beijing Guguanxiangtai|39.906|116.428|CN|Beijing|58|f
+Beijing Kongmiao|39.945|116.408|CN|Beijing|58|f
+Beilstein|50.403|9.891|DE|Hesse|58|f
+Beinn a' Chreachain|56.560|-4.648|GB|Scotland|58|f
+Beinn a' Chuallaich|56.729|-4.152|GB|Scotland|58|f
+Beinn a' Mhanaich|56.113|-4.785|GB|Scotland|58|f
+Beinn an Eoin|57.623|-5.510|GB|Scotland|58|f
+Beinn Bhan South Top|57.433|-5.644|GB|Scotland|58|f
+Beinn Bhrotain|57.010|-3.724|GB|Scotland|58|f
+Beinn Damh|57.493|-5.518|GB|Scotland|58|f
+Beinn Dearg Mor|57.766|-5.310|GB|Scotland|58|f
+Beinn Dronaig|57.392|-5.268|GB|Scotland|58|f
+Beinn Ghlas|56.536|-4.237|GB|Scotland|58|f
+Beinn Iutharn Mhor|56.895|-3.568|GB|Scotland|58|f
+Beinn Mhor|56.073|-5.042|GB|Scotland|58|f
+Beinn Spionnaidh|58.473|-4.811|GB|Scotland|58|f
+Beinn Tarsuinn|57.702|-5.292|GB|Scotland|58|f
+Beira Lake|6.929|79.852|LK|Western Province|58|f
+Beirut Memorial|34.748|-77.415|US|North Carolina|58|f
+Beidendorf|53.829|11.389|DE|Mecklenburg-Vorpommern|58
+Beire-le-Châtel|47.413|5.205|FR|Bourgogne-Franche-Comté|56
+Beisfjord|68.376|17.596|NO|Nordland|55
+Beichlingen|51.233|11.258|DE|Thuringia|55
+Beiușele|46.718|22.451|RO|Bihor County|55
+Beica Airport|9.386|34.522|ET|Oromiya|54|f
+Beinn a’ Bhuird|57.083|-3.500|GB|Scotland|54|f
+Beinn Bheigier|55.733|-6.095|GB|Scotland|54|f
+Beinn Each|56.314|-4.262|GB|Scotland|54|f
+Beinn Eunaich|56.450|-5.027|GB|Scotland|54|f
+Beinn Ime|56.237|-4.817|GB|Scotland|54|f
+Beinn Liath Mhor|57.512|-5.401|GB|Scotland|54|f
+Beinn Mhor|57.259|-7.295|GB|Scotland|54|f
+Beinn Odhar|56.468|-4.700|GB|Scotland|54|f
+Beinn Reithe|56.147|-4.852|GB|Scotland|54|f
+Beinn Resipol|56.727|-5.653|GB|Scotland|54|f
+Beinn Tarsuinn|55.617|-5.233|GB|Scotland|54|f
+Beinn Udlaidh|56.460|-4.792|GB|Scotland|54|f
+Beira Airport|-19.793|34.919|MZ|Sofala|54|f
+Beitstadfjorden|63.883|11.000|NO|Trøndelag|54|f
+Beierstedt|52.074|10.858|DE|Lower Saxony|53
+Beinerstadt|50.467|10.600|DE|Thuringia|52
+Beilingen|49.950|6.667|DE|Rheinland-Pfalz|51
 Beire|42.454|-1.621|ES|Navarre|50
+Bei|-6.983|141.167|PG|Western Province|49|f
+Beinn a' Chrulaiste|56.669|-4.864|GB|Scotland|49|f
+Beinn an Eoin|58.007|-5.209|GB|Scotland|49|f
+Beinn an Lochain|56.230|-4.876|GB|Scotland|49|f
+Beinn an Oir|55.902|-6.004|GB|Scotland|49|f
+Beinn Bheula|56.142|-4.971|GB|Scotland|49|f
+Beinn Bhreac|56.164|-4.705|GB|Scotland|49|f
+Beinn Chaorach|56.093|-4.754|GB|Scotland|49|f
+Beinn Iaruinn|56.970|-4.803|GB|Scotland|49|f
+Beinn Mhic Chasgaig|56.610|-4.899|GB|Scotland|49|f
+Beinn Mhic Mhonaidh|56.473|-4.910|GB|Scotland|49|f
+Beinn na Caillich|57.237|-5.977|GB|Scotland|49|f
+Beinn na Caillich|57.098|-5.640|GB|Scotland|49|f
+Beinn na Gucaig|56.739|-5.169|GB|Scotland|49|f
+Beinn Odhar Bheag|56.842|-5.532|GB|Scotland|49|f
+Beinn Ruadh|56.053|-4.963|GB|Scotland|49|f
+Beinn Shiantaidh|55.902|-5.979|GB|Scotland|49|f
+Beirdneau Peak|41.793|-111.694|US|Utah|49|f
 Beizama|43.134|-2.200|ES|Basque Country|44
+Beilstein|50.117|7.250|DE|Rheinland-Pfalz|44
 Beires|37.012|-2.791|ES|Andalusia|42
+Beichle|46.898|7.973|CH|Lucerne|40|f
+Beihai Park|39.925|116.389|CN|Beijing|40|f
+Beijing World Art Museum|39.910|116.315|CN|Beijing|40|f
+Beinn a' Bheithir - Sgorr Dhearg|56.654|-5.172|GB|Scotland|40|f
+Beinn a' Chaorainn|56.929|-4.654|GB|Scotland|40|f
+Beinn a' Ghlo - Carn Liath|56.808|-3.743|GB|Scotland|40|f
+Beinn an Dothaidh|56.530|-4.714|GB|Scotland|40|f
+Beinn Mheadhoin|56.603|-5.587|GB|Scotland|40|f
+Beinn nan Aighenan|56.520|-5.011|GB|Scotland|40|f
+Beinn nan Caorach|57.151|-5.521|GB|Scotland|40|f
+Beitzel Peak|-80.283|-82.300|AQ||40|f
+Beinhausen|50.267|6.883|DE|Rheinland-Pfalz|38
+Bei|-8.701|122.271|ID|East Nusa Tenggara|0
+Bei’an|29.910|118.575|CN|Anhui|0
+Bei’an|46.441|126.240|CN|Heilongjiang|0
+Bei’an|44.626|129.578|CN|Heilongjiang|0
 Bei’an|48.237|126.485|CN|Heilongjiang|0
+Bei’er|48.027|117.471|CN|Inner Mongolia|0
+Beibao|39.650|111.837|CN|Inner Mongolia|0
+Beicaoshan|39.466|113.198|CN|Shanxi|0
+Beichan|30.067|122.219|CN|Zhejiang|0
+Beichangshan|37.965|120.722|CN|Shandong|0
+Beicheng|24.427|102.548|CN|Yunnan|0
+Beicheng|28.675|121.258|CN|Zhejiang|0
+Beicuo|25.480|119.737|CN|Fujian|0
+Beida|18.924|110.331|CN|Hainan|0
+Beidacun Xiaozhai|24.858|103.360|CN|Yunnan|0
 Beidaihe|39.832|119.484|CN|Hebei|0
 Beidajie|31.585|120.290|CN|Jiangsu|0
+Beidiantou|38.797|114.893|CN|Hebei|0
+Beidong|35.616|111.543|CN|Shanxi|0
+Beidou|23.822|116.132|CN|Guangdong|0
+Beidou|21.877|112.389|CN|Guangdong|0
+Beidu|34.462|108.734|CN|Shaanxi|0
+Beidu|33.707|113.287|CN|Henan|0
+Beidun|24.456|115.212|CN|Guangdong|0
+Beifan|31.384|113.523|CN|Hubei|0
+Beifang|40.324|116.687|CN|Beijing|0
 Beigang|31.797|119.879|CN|Jiangsu|0
+Beigang|29.299|113.650|CN|Hubei|0
+Beigang|27.929|115.093|CN|Jiangxi|0
+Beigang|42.420|127.534|CN|Jilin|0
+Beigao|25.340|119.136|CN|Fujian|0
+Beigong|30.681|118.199|CN|Anhui|0
+Beigou|37.738|120.615|CN|Shandong|0
+Beiguan|21.932|112.067|CN|Guangdong|0
 Beiguan|36.119|114.359|CN|Henan|0
+Beigucheng|24.985|103.182|CN|Yunnan|0
+Beiguoyuan|38.775|114.317|CN|Hebei|0
+Beihe|38.632|114.499|CN|Hebei|0
+Beihe|20.653|109.877|CN|Guangdong|0
+Beihe|36.590|101.427|CN|Qinghai|0
+Beijiang|29.274|120.375|CN|Zhejiang|0
+Beijiang|51.038|126.093|CN|Heilongjiang|0
+Beijiao|22.927|113.198|CN|Guangdong|0
+Beijiazao|40.053|113.469|CN|Shanxi|0
+Beijie|22.609|113.101|CN|Guangdong|0
+Beijie|22.319|110.799|CN|Guangdong|0
 Beijie|39.223|106.766|CN|Ningxia|0
 Beijinglu|31.323|118.385|CN|Anhui|0
 Beijinglu|43.834|87.574|CN|Xinjiang|0
+Beila|31.400|90.828|CN|Tibet|0
 Beilin|34.250|108.941|CN|Shaanxi|0
 Beilin|46.635|126.979|CN|Heilongjiang|0
+Beiling|24.596|115.338|CN|Guangdong|0
 Beilun|29.919|121.838|CN|Zhejiang|0
+Beiluo|38.707|114.859|CN|Hebei|0
+Beima|37.609|120.381|CN|Shandong|0
+Beipai|27.651|119.707|CN|Zhejiang|0
+Beipo|21.219|109.894|CN|Guangdong|0
+Beiqi|24.789|116.358|CN|Guangdong|0
+Beiqiao|31.509|120.595|CN|Jiangsu|0
+Beiqijia|40.117|116.417|CN|Beijing|0
+Beiquan|44.337|86.012|CN|Heilongjiang|0
+Beishan|28.402|112.995|CN|Hunan|0
+Beishan|27.082|111.088|CN|Hunan|0
+Beishan|29.293|116.195|CN|Jiangxi|0
+Beishan|28.080|120.019|CN|Zhejiang|0
+Beishi|23.839|112.571|CN|Guangdong|0
+Beishicao|40.248|116.524|CN|Beijing|0
+Beishidian|35.548|112.894|CN|Shanxi|0
+Beisijia|42.146|120.679|CN|Liaoning|0
+Beisijiazi|42.849|123.486|CN|Liaoning|0
 Beït ed Dîne|33.694|35.581|LB|Mount Lebanon|0
+Beitai|38.852|114.550|CN|Hebei|0
+Beitan|37.906|101.822|CN|Gansu|0
+Beiting|44.064|89.209|CN|Xinjiang|0
+Beitou|25.000|114.583|CN|Jiangxi|0
+Beitou|24.387|114.277|CN|Guangdong|0
+Beituan|25.800|116.717|CN|Fujian|0
+Beitun|34.618|109.231|CN|Shaanxi|0
+Beiwa|38.349|114.442|CN|Hebei|0
+Beiwa|36.139|106.609|CN|Ningxia|0
 Beiwenquan|29.834|106.419|CN|Chongqing|0
+Beiwu|40.058|116.821|CN|Beijing|0
+Beiwucha|44.531|86.320|CN|Xinjiang|0
+Beiwudu|33.621|113.692|CN|Henan|0
+Beixi|34.620|109.109|CN|Shaanxi|0
+Beixiang|25.194|113.360|CN|Guangdong|0
+Beixiaoying|40.198|116.720|CN|Beijing|0
+Beixin|31.825|121.509|CN|Jiangsu|0
+Beixinjie|42.748|129.199|CN|Jilin|0
+Beiyang|23.030|115.847|CN|Guangdong|0
+Beiyang|28.616|121.107|CN|Zhejiang|0
+Beiyingzi|40.761|119.118|CN|Liaoning|0
+Beiyinhe|45.167|127.000|CN|Heilongjiang|0
 Beiyuan|39.904|116.647|CN|Beijing|0
+Beizang|39.674|116.284|CN|Beijing|0
+Beizaoxian|38.231|114.523|CN|Henan|0
+Beizhakou|38.956|117.395|CN|Tianjin|0
+Beizhang|35.702|111.103|CN|Shanxi|0
+Beizhang|29.591|121.040|CN|Zhejiang|0
+Beizhen|41.596|121.797|CN|Liaoning|0
+Beizhouzhuang|39.598|112.823|CN|Shanxi|0
+Beizhouzi|29.165|112.688|CN|Hunan|0
+Beizhuang|40.508|117.168|CN|Beijing|0
+Beizi|33.963|112.604|CN|Henan|0

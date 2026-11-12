@@ -3,6 +3,7 @@ Pistoia|43.931|10.924|IT|Tuscany|97
 Pisco|-13.710|-76.205|PE|Ica|96
 Piscataway|40.499|-74.399|US|New Jersey|95
 Pīshvā|35.308|51.727|IR|Tehran|95
+Pisa / S. Giusto|43.684|10.393|IT|Tuscany|93|f
 Piskent|40.897|69.351|UZ|Tashkent Region|91
 Písek|49.309|14.148|CZ|South Bohemian Region|90
 Piscinola|40.893|14.234|IT|Campania|89
@@ -13,6 +14,7 @@ Pisz|53.627|21.813|PL|Warmia-Masuria|86
 Pīshīn|26.079|61.754|IR|Sistan and Baluchestan|84
 Pismo Beach|35.143|-120.641|US|California|78
 Piskivka|50.694|29.622|UA|Kyiv Oblast|77
+Piškera|43.770|15.338|HR|Šibenik-Knin|76|f
 Pissékou|6.287|-5.820|CI|Goh-Djiboua|76
 Pisticci|40.390|16.559|IT|Basilicate|76
 Pīshkamar|37.530|55.593|IR|Golestan|75
@@ -34,6 +36,7 @@ Piszczac|51.981|23.377|PL|Lublin|70
 Pişchia|45.903|21.337|RO|Timiș County|69
 Pistsovo|57.179|40.530|RU|Ivanovo Oblast|69
 Piscina|44.919|7.425|IT|Piedmont|69
+Piseco Airport|43.452|-74.515|US|New York|69|f
 Pisky-Radkivski|49.267|37.607|UA|Kharkiv|68
 Pisaflores|20.609|-97.928|MX|Veracruz|67
 Pisky|50.373|33.455|UA|Poltava|67
@@ -56,6 +59,7 @@ Pissotte|46.497|-0.808|FR|Pays de la Loire|62
 Piscu Nou|43.924|23.179|RO|Dolj|62
 Pissos|44.309|-0.779|FR|New Aquitaine|62
 Pishcha|51.609|23.822|UA|Volyn|61
+Pistapaug Mountain|41.432|-72.737|US|Connecticut|61|f
 Piskorowice|50.236|22.529|PL|Subcarpathia|61
 Pissoúri|34.669|32.701|CY|Limassol|61
 Písečná|49.575|18.787|CZ|Moravian-Silesian Region|61
@@ -63,13 +67,64 @@ Písečná|50.273|17.254|CZ|Olomouc Region|61
 Pisignano|40.305|18.272|IT|Apulia|60
 Pishchane|49.741|34.153|UA|Poltava|60
 Piscoiu|44.852|23.754|RO|Gorj County|60
+Piscuri|44.776|23.393|RO|Gorj County|60
+Pisky|47.348|32.254|UA|Mykolaiv|60
+Pișteștii din Deal|45.032|23.399|RO|Gorj County|59
+Pīshkenār|37.139|49.713|IR|Gilan Province|59
+Piscu|44.734|26.072|RO|Ilfov|59
 Piscinas|39.074|8.666|IT|Sardinia|58
+Piscaderabaai|12.132|-68.969|CW||58|f
+Pisgah, Mount|-62.948|-62.484|AQ||58|f
+Pisarowce|49.559|22.096|PL|Subcarpathia|58
+Piškorovec|46.419|16.576|HR|Međimurje|58
+Pistrialovo|48.367|22.802|UA|Zakarpattia|58
 Pisoniano|41.908|12.958|IT|Lazio|58
 Pisciotta|40.109|15.235|IT|Campania|58
+Pisky|47.136|31.852|UA|Mykolaiv|57
+Pisany|45.702|-0.782|FR|New Aquitaine|57
+Piscop|49.012|2.345|FR|Île-de-France|57
+Pīsheh Var|37.323|49.689|IR|Gilan Province|57
+Pisgah|34.681|-85.848|US|Alabama|57
+Písařov|50.005|16.802|CZ|Olomouc Region|57
 Pisano|45.796|8.515|IT|Piedmont|57
+Pisgah|31.997|-86.118|US|Alabama|57
+Pisculești|44.829|26.017|RO|Prahova|56
+Piseux|48.773|0.974|FR|Normandy|56
+Pisky|50.017|33.088|UA|Poltava|56
+Pisana|45.171|11.754|IT|Veneto|56
 Pistorf|46.767|15.367|AT|Styria|56
+Pischchanyy Brid|47.213|31.408|UA|Mykolaiv|56
+Pishchanivka|46.649|32.843|UA|Kherson|55
+Písková Lhota|50.367|14.872|CZ|Central Bohemia|55
+Písečné|48.965|15.462|CZ|South Bohemian Region|55
+Pișcari|47.654|22.732|RO|Satu Mare County|55
+Piskoshyne|47.138|34.786|UA|Zaporizhzhia|55
+Pischelsdorf|48.000|16.567|AT|Lower Austria|55
+Piscataway Park|38.685|-77.053|US|Maryland|54|f
+Piseco Lake|43.412|-74.546|US|New York|54|f
+Pisticci Scalo|40.421|16.549|IT|Basilicate|54
+Pischeldorf|46.683|14.450|AT|Carinthia|54
+Piscu Radului|45.962|26.807|RO|Vrancea|54
+Pisieu|45.387|5.061|FR|Auvergne-Rhône-Alpes|54
 Pisarovina|45.586|15.859|HR|Zagreb County|53
 Pisba|5.724|-72.486|CO|Boyacá|50
+Pisa Range|-44.883|169.200|NZ||49|f
+Pisang Peak|28.647|84.185|NP|Gandaki Pradesh|49|f
+Pismire Island|45.768|-85.445|US|Michigan|49|f
+Pischahorn|46.813|9.947|CH|Grisons|40|f
+Pisco|-9.010|-77.632|PE|Ancash|40|f
+Pisew Falls Provincial Park|55.198|-98.397|CA|Manitoba|40|f
+Pisgah Crater|34.746|-116.376|US|California|40|f
+Pisgah State Park|42.840|-72.454|US|New Hampshire|40|f
+Pisiktarfik Island|72.568|-80.399|CA|Nunavut|40|f
+Pistol Bay|62.417|-92.675|CA|Nunavut|40|f
+Pistola Lake|-16.225|-63.500|BO|Santa Cruz Department|40|f
+Pistolet Bay|51.583|-55.748|CA|Newfoundland and Labrador|40|f
+Pistyll Rhaeadr|52.855|-3.379|GB|Wales|40|f
+Pisan|-9.736|124.597|ID|East Nusa Tenggara|0
+Pisang|-8.470|118.757|ID|West Nusa Tenggara|0
+Pisang|28.615|84.147|NP|Gandaki Pradesh|0
+Pisangkemeng|-8.803|117.777|ID|West Nusa Tenggara|0
 Pisaras|8.569|150.419|FM|Chuuk|0
 Piscoyacu|-6.980|-76.768|PE|San Martín Department|0
 Pisha|27.071|102.758|CN|Sichuan|0

@@ -21,12 +21,14 @@ Bunjwah|33.146|75.948|IN|Jammu and Kashmir|84
 Bunhe|48.221|38.284|UA|Donetsk|83
 Bunkeflostrand|55.545|12.924|SE|Skåne|82
 Bünyan|38.846|35.860|TR|Kayseri|82
+Bunia Airport|1.566|30.221|CD|Ituri|81|f
 Buñol|39.417|-0.783|ES|Valencia|80
 Bunde|53.184|7.273|DE|Lower Saxony|78
 Bunumbu|8.174|-10.864|SL|Eastern Province|77
 Bungad|14.648|121.024|PH|National Capital Region|77
 Buncrana|55.133|-7.450|IE|Ulster|77
 Bunguiao|7.104|122.196|PH|Zamboanga Peninsula|77
+Bunce Island|8.570|-13.041|SL|Northern Province|76|f
 Buna Hir|34.524|74.203|IN|Jammu and Kashmir|76
 Bunnik|52.067|5.199|NL|Utrecht|76
 Bununu|9.882|9.681|NG|Bauchi|76
@@ -35,6 +37,7 @@ Bunyola|39.696|2.700|ES|Balearic Islands|75
 Bungal|32.314|75.749|IN|Punjab|74
 Bungay|52.454|1.438|GB|England|74
 Buntingford|51.946|-0.018|GB|England|74
+Bunbury Airport|-33.378|115.677|AU|Western Australia|73|f
 Bunteşti|46.617|22.467|RO|Bihor County|73
 Bundoc|15.486|120.717|PH|Central Luzon|73
 Bundia|21.781|83.914|IN|Odisha|73
@@ -53,6 +56,9 @@ Bunol|15.667|120.834|PH|Central Luzon|70
 Bunschoten|52.243|5.379|NL|Utrecht|70
 Bunnell|29.466|-81.258|US|Florida|69
 Bundanoon|-34.657|150.296|AU|New South Wales|69
+Bündihore|46.577|7.583|CH|Bern|69|f
+Bunsen Peak|44.932|-110.707|US|Wyoming|69|f
+Bünsow Land|78.547|16.976|SJ|Svalbard|69|f
 Buneşti|45.117|24.183|RO|Vâlcea County|68
 Buneşti|46.100|25.050|RO|Brașov County|68
 Buñuel|41.980|-1.445|ES|Navarre|68
@@ -63,31 +69,114 @@ Bunclody|52.655|-6.654|IE|Leinster|66
 Bundoran|54.478|-8.281|IE|Ulster|66
 Bunsbeek|50.842|4.945|BE|Flanders|65
 Bunker Hill|39.043|-89.952|US|Illinois|65
+Bunnell Point|37.739|-119.467|US|California|63|f
 Bunker Hill|43.356|-124.205|US|Oregon|63
 Bungetu|44.843|25.538|RO|Dâmbovița County|63
 Bunkerville|36.773|-114.128|US|Nevada|62
 Bunbury|53.116|-2.652|GB|England|62
 Bundenthal|49.095|7.808|DE|Rheinland-Pfalz|61
+Bunejug Mountains|39.301|-118.612|US|Nevada|61|f
+Bưng Bình Thiên Lớn|10.917|105.067|VN|An Giang|61|f
+Buninga|-17.033|168.583|VU|Shefa|61|f
+Bunker Hill Monument|42.376|-71.061|US|Massachusetts|61|f
+Bunnefjorden|59.867|10.733|NO||61|f
+Bünsowbukta|78.940|28.324|SJ||61|f
 Bundenbach|49.843|7.378|DE|Rheinland-Pfalz|60
+Bundorf|50.217|10.517|DE|Bavaria|60
+Bunsoh|54.165|9.320|DE|Schleswig-Holstein|59
+Bunești|47.059|23.881|RO|Cluj County|59
+Bunker Hill|40.660|-86.103|US|Indiana|59
+Bungebreen|76.804|16.100|SJ|Svalbard|58|f
+Bunhwangsa|35.840|129.233|KR|Gyeongsangbuk-do|58|f
+Bunt Island|-67.150|50.950|AQ||58|f
+Buntu Rantekambola|-3.352|120.044|ID|South Sulawesi|58|f
+Buntu Rantemario|-3.386|120.026|ID|South Sulawesi|58|f
+Bunyatino|56.404|37.247|RU|Moscow Oblast|58
+Bunești|45.017|24.753|RO|Arges|58
+Buniadu|13.550|-15.333|GM|Central River|58
+Bunnythorpe|-40.283|175.633|NZ|Manawatu-Wanganui|58
+Bundarra|-30.172|151.076|AU|New South Wales|57
+Bünsdorf|54.369|9.744|DE|Schleswig-Holstein|55
+Bunjani|45.700|16.500|HR|Zagreb County|55
 Bunești|47.525|26.288|RO|Suceava|55
+Bunwell|52.502|1.116|GB|England|55
+Bunnlevel|35.310|-78.780|US|North Carolina|55
+Buno-Bonnevaux|48.356|2.387|FR|Île-de-France|55
+Bundaberg Airport|-24.904|152.319|AU|Queensland|54|f
+Bundermann Range|-72.000|2.750|AQ||54|f
+Būni Zom|36.158|72.321|PK|Khyber Pakhtunkhwa|54|f
+Bunker Hill|42.381|-71.061|US|Massachusetts|54|f
+Bunya Mountains|-26.833|151.550|AU|Queensland|54|f
+Bunyu Airport|3.456|117.867|ID|North Kalimantan|54|f
 Bunila|45.700|22.667|RO|Hunedoara County|53
+Bunch of Hair|34.658|-76.553|US|North Carolina|49|f
+Bundibugyo Airport|0.709|30.077|UG|Western Region|49|f
+Bundjalung National Park|-29.332|153.335|AU|New South Wales|49|f
+Bungevatnet|76.763|16.023|SJ|Svalbard|49|f
+Bunkenburg|52.761|9.559|DE|Lower Saxony|49|f
+Bunker Hill Covered Bridge|35.722|-81.115|US|North Carolina|49|f
+Bunt, Mount|-70.767|66.367|AQ||49|f
+Buntun Bridge|17.616|121.685|PH|Cagayan Valley|49|f
+Bunya Mountains National Park|-26.858|151.606|AU|Queensland|49|f
 Buniel|42.312|-3.822|ES|Castille and León|49
+Bun Island|56.617|-78.766|CA|Nunavut|40|f
+Bunch Reservoir|34.039|-109.447|US|Arizona|40|f
+Bundek|45.785|15.987|HR||40|f
+Bunderspitz|46.492|7.620|CH|Bern|40|f
+Bungay Castle|52.455|1.435|GB|England|40|f
+Bunker Hill|35.730|-87.997|US|Tennessee|40|f
+Bunker Hill|39.258|-117.125|US|Nevada|40|f
+Bunker Island|43.816|-66.135|CA|Nova Scotia|40|f
+Bunn Hill|42.614|-75.043|US|New York|40|f
+Bunner Glacier|-74.467|-110.667|AQ||40|f
+Bunratty Castle|52.700|-8.812|IE|Munster|40|f
+Bunster Range|50.066|-124.620|CA|British Columbia|40|f
+Bunton|33.655|-105.267|US|New Mexico|40|f
+Buntzen Lake|49.331|-122.860|CA|British Columbia|40|f
+Bun Barat|-6.955|113.780|ID|East Java|0
+Buncitan|-7.396|112.781|ID|East Java|0
+Bunder|-7.187|113.530|ID|East Java|0
+Bunderan|-6.991|112.561|ID|East Java|0
 Bung Khla|18.302|103.974|TH|Bueng Kan|0
 Bunga Mas|-3.701|103.369|ID|South Sumatra|0
+Bungalaleng|-8.192|123.753|ID|East Nusa Tenggara|0
 Bungalawang|3.610|125.476|ID|North Sulawesi|0
+Bungasrejo|-6.743|111.123|ID|Central Java|0
+Bungbangsari|-7.065|106.979|ID|West Java|0
 Bungbulang|-7.457|107.599|ID|West Java|0
+Bungereng|-6.907|113.867|ID|East Java|0
+Bunggeta|-8.343|124.629|ID|East Nusa Tenggara|0
+Bungin-Bungin|-6.938|114.082|ID|East Java|0
 Bungkal|-8.008|111.454|ID|East Java|0
+Bungkeduk|-6.963|113.378|ID|East Java|0
+Bungkulan|-8.446|115.642|ID|Bali|0
 Bungo|-7.440|15.385|AO|Uíge|0
 Bungo-ōno|32.972|131.528|JP|Oita|0
 Bungoma|0.583|34.583|KE|Bungoma County|0
+Bungtiang Barat|-8.731|116.484|ID|West Nusa Tenggara|0
 Bungudu|12.268|6.553|NG|Zamfara State|0
+Bungur|-8.027|111.889|ID|East Java|0
+Bungur|-7.138|108.596|ID|West Java|0
+Bungurdua|-6.715|105.781|ID|Banten|0
+Bungursari|-7.303|108.171|ID|West Java|0
+Bungursari|-7.155|108.329|ID|West Java|0
 Buni Yadi|11.274|12.009|NG|Yobe State|0
+Buniaga|-7.032|108.581|ID|West Java|0
 Buniasih|-7.423|106.723|ID|West Java|0
+Bunigeulis|-7.059|108.434|ID|West Java|0
+Buninegara|-7.038|108.227|ID|West Java|0
+Bunirasa|-7.334|108.328|ID|West Java|0
+Bunirasa|-7.411|108.448|ID|West Java|0
+Bunisakit|-7.249|107.822|ID|West Java|0
+Bunisari|-7.647|107.712|ID|West Java|0
 Bunisari|-7.072|107.961|ID|West Java|0
 Buniseuri|-7.242|108.378|ID|West Java|0
+Buniwangi|-7.279|106.799|ID|West Java|0
 Bunkure|11.699|8.541|NG|Kano State|0
 Bunobogu|1.041|121.613|ID|Central Sulawesi|0
 Buntharik|14.756|105.411|TH|Ubon Ratchathani|0
 Buntok|-1.721|114.840|ID|Central Kalimantan|0
+Bunut|-6.729|105.911|ID|Banten|0
+Bunutan|-8.465|115.248|ID|Bali|0
 Bunza|12.088|4.015|NG|Kebbi|0
 Bünzen|47.310|8.324|CH|Aargau|0

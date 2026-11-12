@@ -1,5 +1,5 @@
 Maiduguri|11.847|13.157|NG|Borno State|121
-Maine|45.500|-69.250|US||120|r
+Maine|45.500|-69.250|US||121|r
 Maianga|-8.847|13.237|AO|Luanda|117
 Maipú|-33.514|-70.765|CL|Santiago Metropolitan|114
 Mai-Ndombe|-2.591|19.335|CD||111|r
@@ -28,6 +28,7 @@ Mairo Inya|0.025|36.409|KE|Nyandarua County|90
 Maināguri|26.563|88.820|IN|West Bengal|89
 Maiurno|13.417|33.667|SD|Sennar|89
 Maisí|20.247|-74.152|CU|Guantánamo Province|89
+Main Caucasus Range|43.135|42.922|AZ||88|f
 Maintirano|-18.064|44.030|MG|Melaky|87
 Mairwa|26.232|84.163|IN|Bihar|87
 Maisons-Laffitte|48.953|2.145|FR|Île-de-France|87
@@ -38,6 +39,7 @@ Mairi|-11.711|-40.149|BR|Bahia|85
 Maïné Soroa|13.211|12.024|NE|Diffa|85
 Maitland|28.628|-81.363|US|Florida|85
 Maillardville|49.238|-122.867|CA|British Columbia|84
+Maio Airport|15.156|-23.214|CV|Maio|84|f
 Mairang|25.562|91.636|IN|Meghalaya|83
 Mailāni|28.291|80.344|IN|Uttar Pradesh|83
 Mainburg|48.642|11.781|DE|Bavaria|83
@@ -48,28 +50,35 @@ Maida Hill|51.527|-0.190|GB|England|81
 Mai Khet|14.109|101.327|TH|Prachin Buri|81
 Maidan Garhi|28.500|77.206|IN|Delhi|81
 Mainvilliers|48.450|1.456|FR|Centre-Val de Loire|80
+Mainland|59.000|-3.250|GB|Scotland|80|f
 Maiyama|12.082|4.369|NG|Kebbi|80
 Maile|-25.442|27.282|ZA|North West|80
 Maizières-lès-Metz|49.213|6.160|FR|Grand Est|80
+Maiao|-17.656|-150.630|PF|Îles du Vent|80|f
 Mā‘ili|21.416|-158.175|US|Hawaii|80
 Maidan Wardak Province|34.250|68.000|AF||79|r
 Maiquinique|-15.621|-40.266|BR|Bahia|79
 Maitum|6.039|124.499|PH|Soccsksargen|79
 Mainaschaff|49.982|9.090|DE|Bavaria|78
 Maibong|25.301|93.138|IN|Assam|78
+Mainau|47.706|9.197|DE|Baden-Wurttemberg|78|f
 Maidenbower|51.108|-0.153|GB|England|78
+Mainland|60.267|-1.267|GB|Scotland|78|f
 Maima|33.641|102.069|CN|Gansu|77
 Măieru|47.400|24.750|RO|Bistrița-Năsăud County|77
 Maigo|8.161|123.958|PH|Northern Mindanao|77
 Mairabari Town|26.454|92.423|IN|Assam|77
+Maikal Hills|22.500|81.500|IN||77|f
 Mainleus|50.100|11.377|DE|Bavaria|77
+Maio|15.217|-23.167|CV||76|r
 Maitengwe|-20.129|27.210|BW|North-East|75
+Maintirano Airport|-18.050|44.033|MG|Melaky|75|f
 Mainhardt|49.076|9.556|DE|Baden-Wurttemberg|75
-Maio|15.217|-23.167|CV||75|r
 Mainit|9.535|125.523|PH|Caraga|75
 Mailag|7.970|125.138|PH|Northern Mindanao|75
 Măicăneşti|45.500|27.500|RO|Vrancea|75
 Maiori|40.648|14.641|IT|Campania|74
+Main Tower|50.112|8.672|DE|Hesse|73|f
 Maintenon|48.587|1.578|FR|Centre-Val de Loire|73
 Maize|37.779|-97.467|US|Kansas|73
 Mairana|-18.120|-63.961|BO|Santa Cruz Department|73
@@ -82,8 +91,14 @@ Maihama|35.630|139.880|JP|Chiba|71
 Maizal|19.637|-71.027|DO|Valverde Province|71
 Maiden|35.576|-81.212|US|North Carolina|71
 Maindang|6.590|124.847|PH|Soccsksargen|70
+Maīdān|32.883|65.197|AF|Oruzgan|70|f
+Mailu Island|-10.387|149.356|PG|Central Province|70|f
+Main Barrier Range|-31.431|141.492|AU|New South Wales|70|f
+Maize Airport|37.766|-97.436|US|Kansas|70|f
 Maisse|48.395|2.379|FR|Île-de-France|69
 Maida|38.859|16.363|IT|Calabria|69
+Mains Castle|56.486|-2.958|GB|Scotland|69|f
+Maitland Airport|-32.703|151.488|AU|New South Wales|69|f
 Mainqué|-39.064|-67.306|AR|Rio Negro|68
 Maignelay-Montigny|49.550|2.517|FR|Hauts-de-France|68
 Maibu|6.570|124.794|PH|Soccsksargen|68
@@ -107,11 +122,15 @@ Maincy|48.550|2.700|FR|Île-de-France|66
 Maia|37.832|-25.390|PT|Azores|66
 Maierato|38.711|16.175|IT|Calabria|65
 Maitenbeth|48.151|12.093|DE|Bavaria|65
+Maiduguri Airport|11.855|13.081|NG|Borno State|65|f
+Main Island|32.302|-64.759|BM||65|f
+Maínalo|37.649|22.265|GR|Peloponnese|65|f
 Mainstockheim|49.772|10.148|DE|Bavaria|65
 Maidan|48.601|23.473|UA|Zakarpattia|65
 Maierhöfen|47.650|10.050|DE|Bavaria|64
 Maizières-la-Grande-Paroisse|48.510|3.786|FR|Grand Est|64
 Maiac|47.237|29.385|MD|Transnistria|64
+Maine Maritime Museum|43.894|-69.815|US|Maine|63|f
 Maiory|46.538|30.281|UA|Odesa|63
 Maidières|48.900|6.040|FR|Grand Est|63
 Mainvault|50.649|3.718|BE|Wallonia|63
@@ -123,20 +142,97 @@ Maitland|-34.374|137.673|AU|South Australia|62
 Maiak|47.965|38.029|UA|Donetsk|61
 Maillot|48.176|3.308|FR|Bourgogne-Franche-Comté|61
 Mailat|46.042|21.107|RO|Arad County|61
+Maiana Atoll|0.920|172.994|KI|Gilbert Islands|61|f
+Maidenform Peak|43.825|-110.851|US|Wyoming|61|f
+Maimun Saleh Airport|5.876|95.340|ID|Aceh|61|f
+Maintop Mountain|37.830|-79.122|US|Virginia|61|f
+Maipo Island|-64.425|-62.285|AQ||61|f
 Mainzweiler|49.417|7.118|DE|Saarland|61
 Maitinez|22.372|-99.293|MX|San Luis Potosí|61
 Maillen|50.378|4.971|BE|Wallonia|61
 Maillezais|46.372|-0.739|FR|Pays de la Loire|60
+Maineville|39.315|-84.221|US|Ohio|60
+Maillebois|48.630|1.149|FR|Centre-Val de Loire|60
+Maisprach|47.525|7.845|CH|Basel-Landschaft|59
 Maissau|48.573|15.830|AT|Lower Austria|59
+Maiorshchyna|50.198|32.406|UA|Poltava|59
+Maisonsgoutte|48.353|7.263|FR|Grand Est|58
+Maizières|48.583|6.059|FR|Grand Est|58
+Maiden Island|17.145|-61.763|AG|Saint George Parish|58|f
+Main Street Bridge|30.322|-81.658|US|Florida|58|f
+Maisan|35.761|127.416|KR|Jeollabuk-do|58|f
 Mairano|45.358|9.069|IT|Lombardy|58
+Măiag|44.612|23.622|RO|Gorj County|58
+Maiachka|49.107|34.520|UA|Poltava|58
+Maianço|0.349|6.674|ST|São Tomé Island|57
+Maisoncelles-en-Brie|48.866|2.992|FR|Île-de-France|57
+Maillé|46.342|-0.789|FR|Pays de la Loire|57
+Mailly-Champagne|49.155|4.112|FR|Grand Est|57
+Maiborodivka|49.245|33.385|UA|Poltava|57
 Mairago|45.252|9.578|IT|Lombardy|57
+Maillé|47.054|0.582|FR|Centre-Val de Loire|57
+Maiersdorf|47.818|16.055|AT|Lower Austria|56
+Mainsat|46.052|2.387|FR|New Aquitaine|56
+Maillat|46.127|5.542|FR|Auvergne-Rhône-Alpes|56
+Maiaky|47.441|29.560|UA|Odesa|56
+Mailly-le-Château|47.597|3.637|FR|Bourgogne-Franche-Comté|56
+Maierhof|48.156|13.568|AT|Upper Austria|56
+Mailly-Maillet|50.080|2.605|FR|Hauts-de-France|56
+Mailly-la-Ville|47.601|3.682|FR|Bourgogne-Franche-Comté|56
+Mailley-et-Chazelot|47.539|6.052|FR|Bourgogne-Franche-Comté|55
+Mairy-sur-Marne|48.881|4.411|FR|Grand Est|55
+Maierhof|48.243|13.464|AT|Upper Austria|55
+Mainsdorf|46.775|15.195|AT|Styria|55
 Mailberg|48.674|16.181|AT|Lower Austria|55
+Maissin|49.965|5.178|BE|Wallonia|55
+Mainxe|45.643|-0.189|FR|New Aquitaine|55
+Maisonnette|47.824|-64.998|CA|New Brunswick|55
+Maidens|55.333|-4.817|GB|Scotland|54
+Maimola|34.635|71.611|PK|Khyber Pakhtunkhwa|54
+Māi Pokhari̇̄|27.007|87.930|NP|Koshi|54|f
+Maihue Lake|-40.283|-72.021|CL|Los Ríos Region|54|f
+Main Avenue Viaduct|41.499|-81.705|US|Ohio|54|f
+Main Duck Island|43.931|-76.627|CA|Ontario|54|f
+Mainpāt|22.803|83.257|IN|Chhattisgarh|54|f
+Mainstay Lake|7.233|-58.539|GY|Pomeroon-Supenaam|54|f
+Maio|15.214|-23.160|CV|Maio|54|f
+Maitland Glacier|-68.775|-65.056|AQ||54|f
+Maisnières|50.015|1.618|FR|Hauts-de-France|54
+Mai|18.484|102.680|LA|Vientiane|54
 Maino|-6.337|-77.880|PE|Amazonas|53
 Maiolati Spontini|43.476|13.120|IT|The Marches|53
+Main Crater|-77.533|167.167|AQ||49|f
+Main Street Bridge|39.956|-83.006|US|Ohio|49|f
+Main Street Bridge|45.521|-122.964|US|Oregon|49|f
+Main-Donau-Kanal|49.907|10.864|DE|Bavaria|49|f
+Maina|-18.914|-159.835|CK||49|f
+Maine-Soroa Airport|13.233|11.983|NE|Diffa|49|f
+Mainhardter Wald|49.083|9.583|DE|Baden-Wurttemberg|49|f
+Mainsail Rock|-60.600|-46.033|AQ||49|f
+Mainz Citadel|49.994|8.274|DE|Rheinland-Pfalz|49|f
+Maivatn|-54.250|-36.517|GS||49|f
 Maierà|39.717|15.850|IT|Calabria|47
 Maire de Castroponce|42.113|-5.785|ES|Castille and León|47
 Mainar|41.193|-1.303|ES|Aragon|44
+Maitzborn|49.933|7.433|DE|Rheinland-Pfalz|43
 Maierdorf|46.892|15.850|AT|Styria|43
+Maisborn|50.082|7.581|DE|Rheinland-Pfalz|42
+Maiden Peak|43.627|-121.965|US|Oregon|40|f
+Maidu Lake|43.255|-122.001|US|Oregon|40|f
+Maigetter Peak|-76.450|-146.483|AQ||40|f
+Maignan Point|-65.050|-64.033|AQ||40|f
+Maihaugen|61.111|10.480|NO|Innlandet|40|f
+Mailbox Peak|47.462|-121.639|US|Washington|40|f
+Main chimney of Pirdop copper smelter and refinery|42.720|24.165|BG|Sofia|40|f
+Main Lake Park|50.208|-125.220|CA|British Columbia|40|f
+Main Street Bridge|41.051|-73.546|US|Connecticut|40|f
+Main Street Bridge|41.876|-71.384|US|Rhode Island|40|f
+Main Street Cemetery|42.475|-73.175|US|Massachusetts|40|f
+Main Street Historic District|41.631|-89.786|US|Illinois|40|f
+Main Street Historic District|41.587|-73.948|US|New York|40|f
+Maindee Camp|51.592|-2.968|GB|Wales|40|f
+Maine Ridge|-78.083|162.133|AQ||40|f
+Mair Island|63.676|-68.411|CA|Nunavut|40|f
 Maissana|44.337|9.536|IT|Liguria|33
 Maicas|40.967|-0.890|ES|Aragon|32
 Mā‘īn|31.680|35.732|JO|Madaba|0
@@ -144,14 +240,25 @@ Mai Kaen|6.610|101.667|TH|Pattani|0
 Mai-Mne|14.554|38.503|ER|Debub|0
 Mai’Adua|13.180|8.230|NG|Katsina State|0
 Maials|41.367|0.500|ES|Catalonia|0
+Maiba|31.009|89.097|CN|Tibet|0
+Maichen|20.335|109.995|CN|Guangdong|0
 Maīdān Khūlah|33.649|69.781|AF|Paktia|0
+Maidiping|29.492|110.359|CN|Hunan|0
 Maigana|11.027|7.938|NG|Kaduna State|0
 Maigatari|12.808|9.445|NG|Jigawa State|0
 Maiha|9.997|13.217|NG|Adamawa|0
+Maikawada|-8.282|124.713|ID|East Nusa Tenggara|0
+Maikun|32.910|101.755|CN|Sichuan|0
 Maikunkele|9.684|6.479|NG|Niger State|0
+Mailing|33.774|113.645|CN|Henan|0
 Mainang|-8.283|124.625|ID|East Nusa Tenggara|0
 Maindong|31.333|85.417|CN|Tibet|0
 Mainling|29.218|94.213|CN|Tibet|0
+Mainri|29.498|94.612|CN|Tibet|0
 Mainstone|52.483|-3.083|GB|England|0
+Maintang|31.413|89.756|CN|Tibet|0
 Maipú|-36.863|-57.883|AR|Buenos Aires|0
 Maipú|-32.985|-68.788|AR|Mendoza|0
+Maishi|29.171|113.958|CN|Hubei|0
+Maiwal|-8.325|124.519|ID|East Nusa Tenggara|0
+Maiwang|30.497|113.596|CN|Hubei|0

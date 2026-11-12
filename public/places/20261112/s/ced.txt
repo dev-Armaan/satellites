@@ -15,6 +15,7 @@ Cedro|-7.722|-39.239|BR|Pernambuco|81
 Cedral|-2.000|-44.536|BR|Maranhão|81
 Cedar Hills|40.414|-111.759|US|Utah|80
 Cedartown|34.011|-85.256|US|Georgia|80
+Cedar City Regional Airport|37.701|-113.098|US|Utah|79|f
 Cedar Hills|45.505|-122.798|US|Oregon|78
 Cedeira|43.660|-8.057|ES|Galicia|77
 Cedarhurst|40.623|-73.724|US|New York|76
@@ -25,14 +26,20 @@ Cedar Knolls|40.822|-74.449|US|New Jersey|72
 Cedar Springs|43.223|-85.551|US|Michigan|71
 Cedar Grove|30.171|-85.625|US|Florida|71
 Cedonia|39.332|-76.532|US|Maryland|70
+Cedros Island|28.182|-115.219|MX|Baja California|70|f
 Cedar|49.116|-123.853|CA|British Columbia|69
+Cedars North Airpark|45.765|-122.515|US|Washington|67|f
 Cedaredge|38.902|-107.926|US|Colorado|67
 Cedar Grove|43.570|-87.823|US|Wisconsin|66
 Ceduna|-32.127|133.673|AU|South Australia|66
 Cedillo del Condado|40.113|-3.921|ES|Castille-La Mancha|66
+Cedar Mountains|38.531|-117.823|US|Nevada|65|f
 Cedar Bluff|34.220|-85.608|US|Alabama|65
 Cedar Hill|38.353|-90.641|US|Missouri|65
 Cedynia|52.879|14.202|PL|West Pomerania|64
+Cedar Breaks National Monument|37.635|-112.845|US|Utah|63|f
+Cedar Creek Reservoir|32.297|-96.132|US|Texas|63|f
+Cederberg|-32.338|19.126|ZA|Western Cape|63|f
 Cedar Glen Lakes|39.952|-74.400|US|New Jersey|63
 Cedro de la Manzana|19.697|-100.115|MX|México|63
 Cedarville|35.570|-94.367|US|Arkansas|63
@@ -40,15 +47,81 @@ Cedar Point|34.688|-77.072|US|North Carolina|62
 Cedar Glen West|40.042|-74.293|US|New Jersey|62
 Cedegolo|46.074|10.351|IT|Lombardy|62
 Cedar Ridge|38.066|-120.277|US|California|61
+Cedar Range|37.651|-114.290|US|Nevada|61|f
 Cedro do Abaeté|-19.148|-45.711|BR|Minas Gerais|61
 Cedar Bluff|37.088|-81.759|US|Virginia|61
 Cedar Bluff|37.264|-79.935|US|Virginia|60
 Cedros|14.600|-87.117|HN|Francisco Morazán Department|60
 Cedros|24.678|-101.772|MX|Zacatecas|60
 Cedry Wielkie|54.247|18.846|PL|Pomerania|60
+Cedar Crest|35.108|-106.373|US|New Mexico|60
+Cedar Grove|38.221|-81.428|US|West Virginia|60
+Cedros|38.636|-28.694|PT|Azores|59
+Cedar Valley|40.333|-112.081|US|Utah|59
+Cedar Hill|36.937|-107.890|US|New Mexico|59
+Cedar Creek and Belle Grove National Historical Park|39.009|-78.306|US|Virginia|58|f
+Cedar Island|41.266|-72.526|US|Connecticut|58|f
+Ceduna Airport|-32.125|133.702|AU|South Australia|58|f
+Cedar Grove|17.162|-61.818|AG|Saint John Parish|58
+Cedarville|39.333|-75.200|US|New Jersey|58
+Cedar Grove|35.171|-106.190|US|New Mexico|57
+Cedarville|38.663|-76.802|US|Maryland|57
+Cedarville|42.376|-89.633|US|Illinois|57
+Cedar Key|29.139|-83.035|US|Florida|57
+Cedar Bluffs|41.397|-96.611|US|Nebraska|55
 Cedillo|39.651|-7.498|ES|Extremadura|55
+Cedar Vale|37.104|-96.500|US|Kansas|55
+Cedar Bluff Reservoir|38.792|-99.878|US|Kansas|54|f
+Cedar Key Museum State Park|29.153|-83.047|US|Florida|54|f
+Cedar Lake|43.384|-88.263|US|Wisconsin|54|f
+Cedar Pond|41.109|-74.426|US|New Jersey|54|f
 Cedrillas|40.437|-0.852|ES|Aragon|54
+Cedarville|41.529|-120.173|US|California|54
 Cedrasco|46.149|9.768|IT|Lombardy|53
+Cedar Avenue Bridge|44.827|-93.232|US|Minnesota|49|f
+Cedar Bay National Park|-15.819|145.331|AU|Queensland|49|f
+Cedar Butte|47.434|-121.742|US|Washington|49|f
+Cedar Island|44.659|-73.254|US|Vermont|49|f
+Cedar Island|55.583|-131.678|US|Alaska|49|f
+Cedar Mountain|45.228|-111.529|US|Montana|49|f
+Cedar Park|-31.120|150.918|AU|New South Wales|49|f
+Cedar Street Bridge|40.678|-89.600|US|Illinois|49|f
 Cedessano|45.689|10.434|IT|Lombardy|48
 Cedillo de la Torre|41.425|-3.606|ES|Castille and León|40
+Cedar Bay|31.917|-81.659|US|Georgia|40|f
+Cedar Brook Park|40.603|-74.406|US|New Jersey|40|f
+Cedar Cliffs Park|38.737|-85.346|US|Indiana|40|f
+Cedar Creek Bridge|35.128|-92.925|US|Arkansas|40|f
+Cedar Creek Reservoir|34.529|-87.925|US|Alabama|40|f
+Cedar Creek State Park|38.882|-80.862|US|West Virginia|40|f
+Cedar Dunes Provincial Park|46.617|-64.399|CA|Prince Edward Island|40|f
+Cedar Hedge Lake|44.671|-85.783|US|Michigan|40|f
+Cedar Hill|37.633|-90.645|US|Missouri|40|f
+Cedar Hill|42.311|-71.596|US|Massachusetts|40|f
+Cedar Hill Lakes|38.333|-90.654|US|Missouri|40|f
+Cedar Hill State Park|32.606|-96.999|US|Texas|40|f
+Cedar Island|42.017|-82.767|CA|Ontario|40|f
+Cedar Island|33.151|-79.267|US|South Carolina|40|f
+Cedar Island|45.388|-122.626|US|Oregon|40|f
+Cedar Island National Wildlife Refuge|34.947|-76.339|US|North Carolina|40|f
+Cedar Island State Park|44.450|-75.791|US|New York|40|f
+Cedar Key Scrub State Reserve|29.189|-83.035|US|Florida|40|f
+Cedar Keys National Wildlife Refuge|29.096|-83.069|US|Florida|40|f
+Cedar Lake|50.180|-93.165|CA|Ontario|40|f
+Cedar Lake|46.021|-78.476|CA|Ontario|40|f
+Cedar Lake|37.637|-89.282|US|Illinois|40|f
+Cedar Lake|45.528|-68.801|US|Maine|40|f
+Cedar Lake|44.960|-93.321|US|Minnesota|40|f
+Cedar Lake|34.231|-116.941|US|California|40|f
+Cedar Lakes|47.033|-84.583|CA|Ontario|40|f
+Cedar Mesa|37.385|-109.930|US|Utah|40|f
+Cedar Mountain Range|31.930|-108.102|US|New Mexico|40|f
+Cedar Point National Wildlife Refuge|41.687|-83.320|US|Ohio|40|f
+Cedar Point State Park|44.203|-76.195|US|New York|40|f
+Cedar Pond|41.811|-70.914|US|Massachusetts|40|f
+Cedar Pond|44.592|-71.269|US|New Hampshire|40|f
+Cedar River Flow|43.726|-74.472|US|New York|40|f
+Cedars of Lebanon State Park|36.090|-86.376|US|Tennessee|40|f
+Cedartree Lake|49.304|-93.867|CA|Ontario|40|f
+Cedarville Airport|41.550|-120.170|US|California|40|f
 Cedro Arriba|7.781|-80.531|PA|Los Santos Province|39

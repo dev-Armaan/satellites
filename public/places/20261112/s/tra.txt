@@ -3,10 +3,11 @@ Trabzon|41.005|39.727|TR|Trabzon|108
 Trans Nzoia|1.045|34.979|KE||105|r
 Trảng Bàng|11.030|106.358|VN|Tay Ninh|104
 Trà Vinh|9.947|106.342|VN|Vinh Long|104
-Trarza|17.866|-14.659|MR||100|r
+Trarza|17.866|-14.659|MR||101|r
 Tracy|37.740|-121.426|US|California|99
 Trapani|38.018|12.536|IT|Sicily|97
 Trang|7.556|99.611|TH|Trang|96
+Trafalgar Square|51.508|-0.128|GB|England|96|f
 Trảng Bom|10.954|107.006|VN|Dong Nai|95
 Trairi|-3.278|-39.269|BR|Ceará|95
 Trần Văn Thời|9.077|104.979|VN|Ca Mau|95
@@ -21,6 +22,7 @@ Traralgon|-38.195|146.542|AU|Victoria|89
 Tralee|52.270|-9.703|IE|Munster|88
 Traun|48.221|14.238|AT|Upper Austria|88
 Trafalgar|40.433|-3.701|ES|Madrid|88
+Trabzon Airport|40.995|39.790|TR|Trabzon|88|f
 Trångsund|59.233|18.133|SE|Stockholm|87
 Tràm Chim|10.670|105.565|VN|Dong Thap|87
 Trat|12.244|102.515|TH|Trat|87
@@ -30,12 +32,14 @@ Trāl|33.927|75.116|IN|Jammu and Kashmir|85
 Traiguén|-38.250|-72.670|CL|Araucania|85
 Tradate|45.708|8.908|IT|Lombardy|85
 Trajpar|22.816|70.867|IN|Gujarat|84
+Trang Airport|7.509|99.617|TH|Trang|84|f
 Trairão|-4.574|-55.944|BR|Pará|84
 Traverse City|44.763|-85.621|US|Michigan|84
 Tranås|58.037|14.978|SE|Jönköping|83
 Tracunhaém|-7.805|-35.240|BR|Pernambuco|83
 Trancoso|22.736|-102.366|MX|Zacatecas|83
 Travemünde|53.963|10.871|DE|Schleswig-Holstein|83
+Trat Airport|12.275|102.319|TH|Trat|82|f
 Tranovaho|-25.300|44.967|MG|Androy|82
 Trastevere|41.883|12.467|IT|Lazio|82
 Travagliato|45.524|10.080|IT|Lombardy|82
@@ -48,6 +52,7 @@ Trajano de Morais|-22.063|-42.066|BR|Rio de Janeiro|81
 Trahé|4.716|-7.176|CI|Bas-Sassandra District|80
 Trá Mhór|52.162|-7.152|IE|Munster|80
 Tra Que Vegetable Village|15.902|108.339|VN|Da Nang City|80
+Trausnitz Castle|48.532|12.152|DE|Bavaria|80|f
 Trabia|38.004|13.634|IT|Sicily|79
 Trawaininkro|6.063|-6.881|CI|Bas-Sassandra District|79
 Trail|49.100|-117.702|CA|British Columbia|78
@@ -57,6 +62,7 @@ Trazegnies|50.464|4.333|BE|Wallonia|77
 Trancas|-26.231|-65.281|AR|Tucuman|76
 Traiskirchen|48.015|16.293|AT|Lower Austria|76
 Trà My|15.340|108.221|VN|Da Nang City|76
+Traunsee|47.850|13.800|AT|Upper Austria|76|f
 Trasacco|41.957|13.533|IT|Abruzzo|76
 Traben-Trarbach|49.951|7.116|DE|Rheinland-Pfalz|76
 Trapeang Chan|12.472|104.410|KH|Kampong Chhnang|75
@@ -69,6 +75,7 @@ Tracyton|47.609|-122.655|US|Washington|74
 Trans-en-Provence|43.503|6.486|FR|Provence-Alpes-Côte d'Azur|74
 Trappenkamp|54.040|10.215|DE|Schleswig-Holstein|74
 Travelers Rest|34.968|-82.443|US|South Carolina|74
+Trail Airport|49.057|-117.608|CA|British Columbia|73|f
 Traian|46.633|27.033|RO|Bacău County|73
 Trapeang Sala Khang Lech|10.717|104.600|KH|Kampot|73
 Tragano|37.672|21.415|GR|West Greece|73
@@ -91,6 +98,7 @@ Tranemo|57.483|13.350|SE|Västra Götaland|70
 Travedona Monate|45.804|8.671|IT|Lombardy|70
 Tracadie-Sheila|47.514|-64.918|CA|New Brunswick|70
 Traian|44.764|27.343|RO|Ialomița County|70
+Traiguén Airport|-38.271|-72.662|CL|Araucania|70|f
 Trafford|40.386|-79.759|US|Pennsylvania|70
 Tran|42.835|22.652|BG|Pernik|70
 Trafford Park|53.469|-2.312|GB|England|70
@@ -102,6 +110,10 @@ Trappeto|38.069|13.038|IT|Sicily|69
 Trawniki|51.136|22.998|PL|Lublin|69
 Traismauer|48.350|15.733|AT|Lower Austria|69
 Trăisteni|45.339|25.728|RO|Prahova|69
+Traiguén Quino La Colmena Airport|-38.335|-72.587|CL|Araucania|69|f
+Traill Ø|72.533|-23.167|GL||69|f
+Traitors Bay|-9.831|-139.047|PF||69|f
+Transylvania County Airport|35.270|-82.645|US|North Carolina|69|f
 Transporte|25.636|-103.542|MX|Durango|68
 Travis Ranch|32.804|-96.473|US|Texas|68
 Trafla-Gottron|7.504|-6.377|CI|Sassandra-Marahoue|68
@@ -109,6 +121,7 @@ Tranca|14.118|121.057|PH|Calabarzon|68
 Traona|46.147|9.533|IT|Lombardy|68
 Trafessou|7.753|-5.882|CI|Woroba|68
 Tramutola|40.319|15.788|IT|Basilicate|68
+Trade Wind Airport|41.441|-70.568|US|Massachusetts|67|f
 Traian Vuia|45.800|22.067|RO|Timiș County|67
 Traian|43.767|25.000|RO|Teleorman County|67
 Tran|6.720|124.055|PH|Soccsksargen|67
@@ -120,6 +133,12 @@ Trail Creek|41.698|-86.859|US|Indiana|66
 Transacqua|46.174|11.833|IT|Trentino-Alto Adige|66
 Träslövsläge|57.054|12.279|SE|Halland|66
 Travacò Siccomario|45.149|9.160|IT|Lombardy|66
+Tranøya|69.145|17.430|NO|Troms|65|f
+Trapani Airport|37.911|12.488|IT|Sicily|65|f
+Trapper Peak|45.890|-114.298|US|Montana|65|f
+Trascău Mountains|46.383|23.550|RO||65|f
+Traunstein|47.873|13.840|AT|Upper Austria|65|f
+Traverse Peak|43.868|-110.795|US|Wyoming|65|f
 Trainer|39.828|-75.414|US|Pennsylvania|65
 Train|48.733|11.833|DE|Bavaria|65
 Tracy-le-Mont|49.472|3.009|FR|Hauts-de-France|65
@@ -135,6 +154,9 @@ Tragwein|48.333|14.622|AT|Upper Austria|64
 Traiguera|40.525|0.290|ES|Valencia|64
 Trabada|43.445|-7.195|ES|Galicia|64
 Transito Tular|18.338|-93.403|MX|Tabasco|64
+Trajan's Column|41.896|12.484|IT|Lazio|63|f
+Travel Town Museum|34.154|-118.308|US|California|63|f
+Trawniki Concentration Camp|51.162|22.990|PL|Lublin|63|f
 Trablice|51.352|21.129|PL|Mazovia|63
 Tracy City|35.260|-85.736|US|Tennessee|63
 Trafla|7.633|-6.517|CI|Sassandra-Marahoue|63
@@ -152,6 +174,8 @@ Trassem|49.578|6.525|DE|Rheinland-Pfalz|61
 Trangie|-32.031|147.983|AU|New South Wales|61
 Trafalgar|39.416|-86.151|US|Indiana|61
 Traplice|49.131|17.436|CZ|Zlín|61
+Traveler Mountain|46.073|-68.845|US|Maine|61|f
+Tray Mountain|34.801|-83.684|US|Georgia|61|f
 Trarivi|43.937|12.544|IT|Emilia-Romagna|61
 Trapiche Viejo|18.843|-96.946|MX|Veracruz|61
 Třanovice|49.712|18.529|CZ|Moravian-Silesian Region|61
@@ -164,23 +188,102 @@ Traian|46.991|26.904|RO|Neamț County|60
 Trappstadt|50.319|10.570|DE|Bavaria|60
 Trappe|38.658|-76.058|US|Maryland|60
 Trausnitz|49.521|12.262|DE|Bavaria|60
+Traînel|48.417|3.450|FR|Grand Est|60
 Tramatza|40.003|8.649|IT|Sardinia|60
 Trautmannsdorf an der Leitha|48.024|16.633|AT|Lower Austria|60
+Trassenheide|54.085|13.865|DE|Mecklenburg-Vorpommern|60
 Traspinedo|41.575|-4.476|ES|Castille and León|60
+Tracy-sur-Loire|47.320|2.888|FR|Bourgogne-Franche-Comté|60
 Tratalias|39.103|8.579|IT|Sardinia|59
+Tramayes|46.305|4.603|FR|Bourgogne-Franche-Comté|59
+Trasanni|43.754|12.663|IT|The Marches|59
+Traonfla|7.461|-6.177|CI|Sassandra-Marahoue|59
 Travesio|46.197|12.867|IT|Friuli Venezia Giulia|59
 Trashigang|27.333|91.554|BT|Trashigang District|59
 Trashigang District|27.250|91.750|BT||59|r
+Tragána|38.620|23.123|GR|Central Greece|59
+Traby|54.159|25.907|BY|Grodnenskaya|59
 Tranebjerg|55.833|10.597|DK|Central Jutland|58
+Trapiche Santa Cruz|16.762|-96.854|MX|Oaxaca|58
+Tracy-le-Val|49.488|3.009|FR|Hauts-de-France|58
+Trabuco Peak|33.702|-117.475|US|California|58|f
+Trælleborg|55.383|11.283|DK|Zealand|58|f
+Trainer Hills|39.243|-121.494|US|California|58|f
+Transantarctic Mountains|-84.337|166.520|AQ||58|f
+Trapper Lake|61.996|-150.243|US|Alaska|58|f
+Travers Island|40.887|-73.788|US|New York|58|f
+Traversay Islands|-56.600|-27.717|GS||58|f
+Traverse Mountains|-69.950|-67.900|AQ||58|f
+Tranquillity|36.649|-120.253|US|California|58
+Trappolone|44.448|11.363|IT|Emilia-Romagna|58
+Traian|44.460|22.858|RO|Mehedinți County|58
 Trautmannsdorf in Oststeiermark|46.875|15.885|AT|Styria|58
+Trans-sur-Erdre|47.477|-1.374|FR|Pays de la Loire|57
+Traver|36.455|-119.485|US|California|57
 Travo|44.863|9.544|IT|Emilia-Romagna|57
+Traders Cove|49.941|-119.507|CA|British Columbia|57
+Trail|42.648|-122.811|US|Oregon|57
+Tranca Sasape|-6.493|-79.939|PE|Lambayeque|57
+Traryd|56.579|13.749|SE|Kronoberg|56
+Travecy|49.687|3.359|FR|Hauts-de-France|56
+Travaillan|44.183|4.901|FR|Provence-Alpes-Côte d'Azur|56
+Trans-la-Forêt|48.500|-1.600|FR|Brittany|56
+Trafford|33.818|-86.743|US|Alabama|56
 Trawsfynydd|52.902|-3.923|GB|Wales|56
+Tramm|53.522|11.648|DE|Mecklenburg-Vorpommern|56
+Tragákion|37.813|20.832|GR|Ionian Islands|56
+Tracy|45.677|-66.684|CA|New Brunswick|56
+Trasdorf|48.313|15.878|AT|Lower Austria|56
+Traenheim|48.596|7.465|FR|Grand Est|56
+Trafinello I|39.054|17.105|IT|Calabria|55
+Trapiche|21.369|-98.280|MX|Veracruz|55
+Trapiche|-11.720|-76.964|PE|Lima region|55
+Trasadingen|47.669|8.430|CH|Schaffhausen|55
+Traisen|49.821|7.820|DE|Rheinland-Pfalz|55
+Travčice|50.503|14.190|CZ|Ústí nad Labem Region|55
+Traventhal|53.898|10.319|DE|Schleswig-Holstein|55
+Tramain|48.401|-2.402|FR|Brittany|55
 Trattenbach|47.600|15.867|AT|Lower Austria|55
 Traves|45.268|7.431|IT|Piedmont|55
+Traskwood|34.449|-92.654|US|Arkansas|55
+Traralgon South|-38.290|146.546|AU|Victoria|55
+Tradewind Airport|35.170|-101.828|US|Texas|54|f
+Trahonge Glacier|35.799|76.122|PK|Gilgit-Baltistan|54|f
+Trailer Lakes|44.162|-115.069|US|Idaho|54|f
+Trap Pond State Park|38.525|-75.466|US|Delaware|54|f
+Trashigang Dzong|27.337|91.551|BT|Trashigang District|54|f
+Traub Glacier|-62.479|-59.789|AQ||54|f
+Traverse Mountains|40.464|-111.899|US|Utah|54|f
+Trawbreaga Bay|55.285|-7.295|IE|Ulster|54|f
+Tramolé|45.518|5.269|FR|Auvergne-Rhône-Alpes|54
 Traboch|47.377|14.986|AT|Styria|54
 Trasaghis|46.282|13.075|IT|Friuli Venezia Giulia|53
+Tramm|53.564|10.612|DE|Schleswig-Holstein|50
+Tracy Glacier|-65.933|102.333|AQ||49|f
+Tracy Municipal Airport|44.250|-95.605|US|Minnesota|49|f
+Tracy Municipal Airport|37.686|-121.441|US|California|49|f
+Traeger Park|-23.709|133.875|AU|Northern Territory|49|f
+Trafalgar Glacier|-72.467|168.417|AQ||49|f
+Tragic Corner|-67.998|-66.796|AQ||49|f
+Trainer Glacier|-72.567|167.483|AQ||49|f
+Traitors Island|-28.484|113.784|AU|Western Australia|49|f
+Trajer Ridge|-68.561|78.500|AQ||49|f
+Tralee Bay|52.278|-9.931|IE|Munster|49|f
+Trammer See|54.171|10.415|DE|Schleswig-Holstein|49|f
+Tramway Ridge|-77.517|167.100|AQ||49|f
+Trandum|60.217|11.133|NO|Akershus|49|f
+Trango Group|35.771|76.184|PK|Gilgit-Baltistan|49|f
+Tranquil Lake|-60.704|-45.646|AQ||49|f
+Transit Ridge|-77.933|163.083|AQ||49|f
+Transition Glacier|-70.436|-68.901|AQ||49|f
+Transverse Island|-67.326|59.333|AQ||49|f
+Trapper Mountain|48.432|-121.018|US|Washington|49|f
+Trappers Peak|48.688|-121.322|US|Washington|49|f
+Trask Mountain|45.371|-123.456|US|Oregon|49|f
+Traualpsee|47.450|10.517|AT|Tyrol|49|f
 Trabanca|41.233|-6.385|ES|Castille and León|49
 Tramonti di Sopra|46.310|12.790|IT|Friuli Venezia Giulia|48
+Travenhorst|54.019|10.458|DE|Schleswig-Holstein|47
 Traversella|45.509|7.749|IT|Piedmont|47
 Tramonti di Sotto|46.285|12.796|IT|Friuli Venezia Giulia|46
 Trarego|46.034|8.670|IT|Piedmont|46
@@ -190,6 +293,31 @@ Trasquera|46.213|8.213|IT|Piedmont|43
 Tramacastilla|40.431|-1.575|ES|Aragon|43
 Tramaced|41.973|-0.298|ES|Aragon|41
 Tramacastiel|40.188|-1.241|ES|Aragon|41
+Trace Lake|45.831|-94.755|US|Minnesota|40|f
+Tracy Arm|57.918|-133.433|US|Alaska|40|f
+Tracy Point|-66.300|110.450|AQ||40|f
+Trädgårdsföreningen|57.706|11.976|SE|Västra Götaland|40|f
+Trafalgar Park|38.950|-94.738|US|Kansas|40|f
+Trager Stadium|38.215|-85.754|US|Kentucky|40|f
+Traherne Island|-36.868|174.680|NZ|Auckland|40|f
+Trail Creek Lakes|44.158|-115.082|US|Idaho|40|f
+Trail of Tears State Park|37.472|-89.494|US|Missouri|40|f
+Traleika Glacier|63.158|-150.774|US|Alaska|40|f
+Tran Crag|-62.680|-60.231|AQ||40|f
+Tranebergsbron|59.334|17.996|SE|Stockholm|40|f
+Tranholmen|59.375|18.086|SE|Stockholm|40|f
+Tranquil Creek Park|49.316|-125.622|CA|British Columbia|40|f
+Tranter Glacier|-82.533|161.750|AQ||40|f
+Trapp Lake|50.465|-120.270|CA|British Columbia|40|f
+Trapper Lake|46.911|-81.697|CA|Ontario|40|f
+Trapper Lake|43.833|-110.732|US|Wyoming|40|f
+Trapper Peak|51.678|-116.592|CA|Alberta|40|f
+Trapper Peak|42.152|-114.209|US|Idaho|40|f
+Trappers Lake|39.986|-107.231|US|Colorado|40|f
+Trask Pond|42.070|-75.205|US|New York|40|f
+Travers Park|40.754|-73.889|US|New York|40|f
+Travers Reservoir|50.200|-112.852|CA|Alberta|40|f
+Travis Park|29.428|-98.489|US|Texas|40|f
 Trausella|45.490|7.763|IT|Piedmont|39
 Trasmoz|41.826|-1.723|ES|Aragon|36
 Trà Bồng|15.256|108.517|VN|Quang Ngai|0
@@ -197,11 +325,17 @@ Trà Cú|9.698|106.258|VN|Vinh Long|0
 Trà Ôn|9.963|105.922|VN|Vinh Long|0
 Trabadelo|42.649|-6.880|ES|Castille and León|0
 Trabazos|41.748|-6.491|ES|Castille and León|0
+Tracal|-6.982|112.338|ID|East Java|0
+Trahan Wetan|-6.637|111.482|ID|Central Java|0
 Trairão|-4.700|-55.995|BR|Pará|0
 Trakan Phut Phon|15.612|105.021|TH|Ubon Ratchathani|0
 Tram Kak|11.012|104.676|KH|Takeo|0
+Trambalan|-6.760|111.325|ID|Central Java|0
 Trần Cao|20.730|106.180|VN|Hưng Yên Province|0
 Trancoso|40.783|-7.350|PT|Guarda|0
+Trangkil|-6.663|111.075|ID|Central Java|0
+Trantang|-6.890|111.816|ID|East Java|0
 Trapeang Prasat|14.187|104.355|KH|Ŏtâr Méanchey|0
+Trasak|-7.132|113.524|ID|East Java|0
 Trasierra|38.183|-6.000|ES|Extremadura|0
 Travesseiro|-29.320|-52.065|BR|Rio Grande do Sul|0

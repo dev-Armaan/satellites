@@ -13,6 +13,7 @@ Wakabayashi|35.646|139.659|JP|Tokyo|86
 Wakimachi|34.067|134.150|JP|Tokushima|85
 Wakaf Baharu|6.117|102.200|MY|Kelantan|85
 Wakuya|38.545|141.135|JP|Miyagi|84
+Wakkanai Airport|45.404|141.801|JP|Hokkaido|84|f
 Wake|34.812|134.143|JP|Okayama|83
 Wakasu|32.603|130.643|JP|Kumamoto|81
 Waku Kungo|-11.357|15.117|AO|Kwanza Sul|81
@@ -21,9 +22,12 @@ Wakkerstroom|-27.355|30.144|ZA|Mpumalanga|78
 Waki|34.200|132.217|JP|Yamaguchi|76
 Wake Village|33.427|-94.106|US|Texas|75
 Wakefield|43.568|-71.030|US|New Hampshire|73
+Wake Atoll|19.299|166.624|UM|Wake Island|71|f
 Wakasa|35.333|134.400|JP|Tottori|70
 Wakken|50.933|3.397|BE|Flanders|70
+Wakulla County Airport|29.991|-84.395|US|Florida|70|f
 Wakefield|18.412|-77.722|JM|Trelawny Parish|69
+Wakamatsu Island|32.894|129.002|JP|Nagasaki|69|f
 Wakefield|-41.400|173.050|NZ|Tasman District|69
 Waksmund|49.482|20.076|PL|Lesser Poland|67
 Wakefield|45.667|-75.833|CA|Quebec|66
@@ -31,7 +35,36 @@ Wakarusa|41.536|-86.021|US|Indiana|65
 WaKeeney|39.025|-99.880|US|Kansas|65
 Wakefield|46.475|-89.940|US|Michigan|65
 Wakefield|39.313|-76.698|US|Maryland|65
+Wakaia Island|-17.622|179.006|FJ|Eastern|63|f
 Wakefield|42.269|-96.865|US|Nebraska|63
 Wakala|8.109|-3.143|CI|Zanzan District|61
+Wakato Ōhashi|33.903|130.817|JP|Fukuoka|61|f
+Wake Island Airfield|19.281|166.643|UM|Wake Island|61|f
 Wakeman|41.255|-82.400|US|Ohio|60
+Wakefield|39.213|-97.006|US|Kansas|60
+Wakaw|52.650|-105.734|CA|Saskatchewan|60
+Wakefield|36.968|-76.990|US|Virginia|59
+Wakunai Inus Airport|-5.861|155.221|PG|Bougainville|58|f
+Wakefield|39.774|-76.179|US|Pennsylvania|56
+Wakunai|-5.870|155.210|PG|Bougainville|55
+Wa Kyun|15.201|97.732|MM|Mon|54|f
+Wakadori Island|-69.008|39.538|AQ||54|f
+Wakasa Bay|35.750|135.667|JP||54|f
+Wakefield Highland|-69.283|-65.183|AQ||54|f
+Waku Kungo Airport|-11.426|15.101|AO|Benguela|54|f
+Wakefield Reef|-53.183|73.350|HM||49|f
+Waka National Park|-1.254|11.067|GA|Ngouni|40|f
+Wakaw Lake|52.667|-105.584|CA|Saskatchewan|40|f
+WAKG-FM (Danville)|36.741|-79.384|US|Virginia|40|f
+WAKO-FM (Lawrenceville)|38.723|-87.654|US|Illinois|40|f
+Wakonda Beach State Airport|44.386|-124.084|US|Oregon|40|f
+Wakonda State Park|40.006|-91.524|US|Missouri|40|f
+WAKR-AM (Akron)|41.021|-81.505|US|Ohio|40|f
+Wakaf|-6.835|115.342|ID|East Java|0
+Wakap|-7.524|108.084|ID|West Java|0
+Wakapuken|-8.343|123.206|ID|East Nusa Tenggara|0
+Wakaseko|-8.638|121.470|ID|East Nusa Tenggara|0
+Wakduwa’ Barat|-6.939|113.527|ID|East Java|0
 Wake Island|19.280|166.648|UM||0|r
+Wakendorf Eins|53.866|10.360|DE|Schleswig-Holstein|0
+Wakendorf Zwei|53.785|10.084|DE|Schleswig-Holstein|0

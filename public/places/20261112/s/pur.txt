@@ -28,6 +28,7 @@ Purkersdorf|48.208|16.175|AT|Lower Austria|80
 Pureza|-5.467|-35.556|BR|Rio Grande do Norte|79
 Purcellville|39.137|-77.715|US|Virginia|79
 Purpe|64.480|76.690|RU|Yamalo-Nenets|79
+Purdue University Airport|40.412|-86.937|US|Indiana|78|f
 Purihasa|22.745|86.193|IN|Jharkhand|78
 Puri|-7.695|15.654|AO|Uíge|78
 Puruarán|19.097|-101.522|MX|Michoacán|77
@@ -41,11 +42,13 @@ Purificación|19.717|-104.605|MX|Jalisco|74
 Purchase|41.041|-73.715|US|New York|73
 Puravachcheri|10.757|79.822|IN|Tamil Nadu|73
 Puro Pinget|17.680|120.359|PH|Ilocos|72
+Purnea Airport|25.762|87.410|IN|Bihar|71|f
 Purton|51.589|-1.874|GB|England|71
 Puračić|44.546|18.479|BA|Federation of B&H|71
 Pürgen|48.025|10.922|DE|Bavaria|70
 Purbach am Neusiedler See|47.913|16.696|AT|Burgenland|69
 Puruagua|20.080|-100.453|MX|Guanajuato|69
+Purau Bay|-43.633|172.750|NZ||69|f
 Purísima Concepción Mayorazgo|19.694|-100.002|MX|México|69
 Purgstall|48.058|15.135|AT|Lower Austria|68
 Puricay|6.686|124.070|PH|Soccsksargen|68
@@ -56,6 +59,10 @@ Purullena|37.318|-3.191|ES|Andalusia|67
 Purshevo|55.721|38.033|RU|Moscow Oblast|66
 Puriton|51.169|-2.972|GB|England|66
 Purísima del Progreso|20.793|-101.330|MX|Guanajuato|66
+Pura Island|-8.300|124.347|ID|East Nusa Tenggara|65|f
+Purdy Islands|-2.862|146.347|PG|Manus Province|65|f
+Purekkari Neem|59.675|25.697|EE|Harjumaa|65|f
+Purple Mountain|32.071|118.849|CN|Jiangsu|65|f
 Purekh|56.647|43.068|RU|Nizhny Novgorod Oblast|65
 Purísima|25.679|-103.321|MX|Coahuila|65
 Purechucho|18.582|-100.888|MX|Michoacán|65
@@ -64,17 +71,86 @@ Purdy|47.389|-122.625|US|Washington|64
 Purcăreni|45.645|25.791|RO|Brașov County|63
 Purcăreni|44.968|24.887|RO|Arges|63
 Purísima de Cubos (La Purísima)|20.600|-100.118|MX|Querétaro|63
+Purka Mountain|-68.250|58.583|AQ||63|f
+Purple Mountain|44.667|-110.862|US|Wyoming|63|f
 Purani|43.980|25.437|RO|Teleorman County|62
 Purísima de Covarrubias|20.619|-101.483|MX|Guanajuato|62
 Purda|53.708|20.707|PL|Warmia-Masuria|61
+Purcell Mountains|50.000|-116.502|CA|British Columbia|61|f
 Purdy|36.817|-93.921|US|Missouri|61
 Pura|45.986|8.869|CH|Ticino|61
+Purcăreni|44.447|25.135|RO|Arges|60
+Purgstall|47.132|15.574|AT|Styria|60
+Puranii de Sus|44.369|25.401|RO|Teleorman County|59
+Pureza|19.284|-96.316|MX|Veracruz|59
 Purani|44.361|25.425|RO|Teleorman County|58
+Purcell Knob|39.258|-77.750|US|Virginia|58|f
+Purple Mountain|38.992|-107.103|US|Colorado|58|f
+Purísima del Zapote|20.136|-100.539|MX|Guanajuato|57
+Purísima de Cerro Grande|21.266|-100.533|MX|Guanajuato|57
+Purmo|63.525|22.958|FI|Ostrobothnia|57
+Purísima de Ramírez (Los Oriones)|20.433|-101.640|MX|Guanajuato|57
+Puryear|36.444|-88.334|US|Tennessee|57
+Purungueo|19.022|-100.820|MX|Michoacán|56
+Purello|43.317|12.757|IT|Umbria|56
+Pure|49.674|5.176|FR|Grand Est|55
+Purnode|50.312|4.944|BE|Wallonia|55
+Puruahua|19.911|-99.989|MX|México|55
+Purple Sage|41.551|-109.324|US|Wyoming|55
+Purleigh|51.687|0.658|GB|England|54
+Purdy Point|-60.533|-45.450|AQ||54|f
+Purple Mountain|52.008|-9.623|IE|Munster|54|f
+Purple Peak|38.913|-107.120|US|Colorado|54|f
+Purutu Island|-8.390|143.469|PG|Western Province|54|f
+Puruvesi|61.887|29.534|FI|South Savo|54|f
+Purvis Glacier|-54.099|-37.168|GS||54|f
+Pureba Conservation Park|-32.058|134.458|AU|South Australia|49|f
+Purerua Peninsula|-35.128|174.060|NZ|Auckland|49|f
+Purgatory Peak|-77.350|162.300|AQ||49|f
+Purakaunui Falls|-46.520|169.563|NZ|Otago|40|f
+Purana Qila|28.609|77.242|IN|Delhi|40|f
+Purcell Bay|76.331|-100.341|CA|Nunavut|40|f
+Purchase Bay|75.544|-116.109|CA|Northwest Territories|40|f
+Purden Lake Park|53.921|-121.935|CA|British Columbia|40|f
+Purdown BT Tower|51.485|-2.563|GB|England|40|f
+Pure Lake Park|53.864|-132.080|CA|British Columbia|40|f
+Purling Brook Falls|-28.190|153.271|AU|Queensland|40|f
+Purnululu National Park|-17.500|128.500|AU|Western Australia|40|f
+Purple Mountain|42.703|-124.353|US|Oregon|40|f
+Purschenstein|50.676|13.463|DE|Saxony|40|f
+Pürschling|47.584|10.993|DE|Bavaria|40|f
+Purse State Park|38.430|-77.253|US|Maryland|40|f
+Purvis Peak|-72.633|169.150|AQ||40|f
 Puras|41.183|-4.650|ES|Castille and León|36
 Purujosa|41.683|-1.765|ES|Aragon|36
+Purabaya|-7.100|106.880|ID|West Java|0
+Purabaya|-7.352|107.021|ID|West Java|0
 Purbadhala|24.941|90.600|BD|Mymensingh Division|0
+Puri|-6.749|111.025|ID|Central Java|0
+Puring Kulon|-8.149|113.690|ID|East Java|0
+Purong|28.859|109.617|CN|Hunan|0
+Purorejo|-8.304|112.947|ID|East Java|0
 Pursaklar|40.032|32.895|TR|Ankara|0
 Puruk Cahu|-0.583|114.583|ID|Central Kalimantan|0
 Purupuru|-3.384|-59.717|BR|Amazonas|0
+Purut|-8.234|113.109|ID|East Java|0
+Purwa|-7.223|111.544|ID|East Java|0
+Purwa|-8.187|114.929|ID|Bali|0
+Purwasari|-7.477|108.641|ID|West Java|0
+Purwodadi|-8.156|112.078|ID|East Java|0
+Purwodadi|-7.602|108.761|ID|Central Java|0
+Purwodadi|-6.986|112.562|ID|East Java|0
+Purwodadi Lor|-8.354|112.845|ID|East Java|0
 Purwoharjo|-8.501|114.222|ID|East Java|0
+Purwoharjokrajan Satu|-8.317|113.483|ID|East Java|0
+Purwojoyo|-8.332|114.098|ID|East Java|0
 Purworejo|-7.711|110.010|ID|Central Java|0
+Purworejo|-6.787|111.922|ID|East Java|0
+Purworejo|-8.268|112.323|ID|East Java|0
+Purwosari|-8.035|112.323|ID|East Java|0
+Purwosari|-7.172|111.659|ID|East Java|0
+Purwosari|-8.129|113.148|ID|East Java|0
+Purwosari|-7.734|108.335|ID|West Java|0
+Purwosari|-6.701|111.002|ID|Central Java|0
+Purwosari|-7.386|108.783|ID|Central Java|0
+Purwosari|-6.888|111.662|ID|East Java|0

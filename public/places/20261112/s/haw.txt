@@ -4,6 +4,7 @@ Hawke's Bay Region|-39.667|176.500|NZ||106|r
 Hawthorne|33.916|-118.353|US|California|99
 Hawr al ‘Anz|25.277|55.337|AE|Dubai|99
 Ḩawsh ‘Īsá|30.913|30.290|EG|Beheira|98
+Hawa Mahal|26.924|75.827|IN|Rajasthan|90|f
 Ḥawṭah Banī Tamīm|23.496|46.878|SA|Riyadh Region|90
 Hawai‘i Kai|21.296|-157.702|US|Hawaii|90
 Hawarden|53.185|-3.026|GB|Wales|88
@@ -16,8 +17,13 @@ Hawick|55.423|-2.787|GB|Scotland|83
 Hawaiian Paradise Park|19.593|-154.973|US|Hawaii|81
 Hawera|-39.592|174.283|NZ|Taranaki Region|81
 Hawkesbury|45.600|-74.616|CA|Ontario|80
+Hawaiian Islands|21.134|-157.010|US|Hawaii|80|f
 Hawkinge|51.113|1.162|GB|England|78
 Hawthorn Woods|42.217|-88.050|US|Illinois|78
+Hawarden Airport|53.178|-2.978|GB|Wales|78|f
+Hawkins Field|32.334|-90.222|US|Mississippi|78|f
+Hawar Islands|25.645|50.768|BH||77|f
+Hawadax Island|51.798|178.308|US|Alaska|76|f
 Haworth|53.829|-1.948|GB|England|76
 Hawkinsville|32.284|-83.472|US|Georgia|75
 Hawthorne|41.107|-73.796|US|New York|73
@@ -26,21 +32,72 @@ Hawaiian Beaches|19.543|-154.916|US|Hawaii|73
 Hawkhurst|51.048|0.511|GB|England|72
 Haworth|40.961|-73.990|US|New Jersey|71
 Hawthorne|38.525|-118.625|US|Nevada|70
+Hawke's Bay Airport|-39.466|176.868|NZ|Hawke's Bay Region|70|f
+Hawthorne Bridge|45.513|-122.671|US|Oregon|69|f
 Hawaiian Acres|19.538|-155.052|US|Hawaii|69
 Hawarden|42.996|-96.485|US|Iowa|68
 Haw River|36.092|-79.364|US|North Carolina|68
+Hawkins County Airport|36.456|-82.885|US|Tennessee|67|f
 Hawley|46.881|-96.317|US|Minnesota|67
 Hawe Ben Alean|35.271|43.378|IQ|Salah ad Din|64
 Hawthorne|29.592|-82.087|US|Florida|63
 Hawthorne|28.761|-81.871|US|Florida|63
+Hawker Island|-68.633|77.850|AQ||63|f
 Hawks Nest|-32.668|152.178|AU|New South Wales|62
 Hawkins|32.588|-95.204|US|Texas|62
 Hawangen|47.967|10.267|DE|Bavaria|62
 Hawley|41.476|-75.182|US|Pennsylvania|61
+Hawai‘i Volcanoes National Park|19.419|-155.288|US|Hawaii|61|f
+Hawk Mountain|40.646|-75.980|US|Pennsylvania|61|f
+Hawley Municipal Airport|46.884|-96.351|US|Minnesota|61|f
 Hāwī|20.241|-155.834|US|Hawaii|61
 Hawesville|37.900|-86.755|US|Kentucky|60
+Hawkesbury Upton|51.580|-2.319|GB|England|60
 Hawai|27.887|96.802|IN|Arunachal Pradesh|60
+Hawkhead|55.833|-4.383|GB|Scotland|60
+Hawes|54.304|-2.196|GB|England|59
+Hawarden Municipal Airport|43.036|-96.493|US|Iowa|58|f
+Hawkins Mountain|47.450|-121.001|US|Washington|58|f
+Hawthorn Bridge|-37.820|145.016|AU|Victoria|58|f
+Hawthorne Municipal Airport|38.544|-118.634|US|Nevada|58|f
+Hawk Point|38.971|-91.131|US|Missouri|57
+Hawley|32.612|-99.814|US|Texas|56
+Hawk Run|40.924|-78.206|US|Pennsylvania|55
+Hawk Hill|37.825|-122.499|US|California|54|f
+Hawkins Island|32.286|-64.829|BM|Warwick|54|f
+Hawkins Island|60.526|-146.050|US|Alaska|54|f
+Hawkins Peak|38.739|-119.872|US|California|54|f
+Hawks Nest Airport|24.154|-75.524|BS|Cat Island|54|f
+Hawksbill|38.555|-78.395|US|Virginia|54|f
+Hawthorne-Feather Airpark|43.061|-71.905|US|New Hampshire|54|f
 Hawthorn|54.800|-1.350|GB|England|54
+Haw Knob|35.310|-84.027|US|Tennessee|49|f
+Haw Par Villa|1.285|103.783|SG||49|f
+Hawk Pride Mountain|34.679|-87.811|US|Alabama|49|f
+Hawkes, Mount|-83.916|-56.083|AQ||49|f
+Hawksbeak Peak|38.152|-119.508|US|California|49|f
+Haw River State Park|36.251|-79.756|US|North Carolina|40|f
+Hawarden Castle|53.180|-3.020|GB|Wales|40|f
+Hawassa University|7.062|38.501|ET||40|f
+Hāwea / Bligh Sound|-44.788|167.516|NZ||40|f
+Hawk Hill|42.843|-75.067|US|New York|40|f
+Hawk Island|41.991|-75.136|US|New York|40|f
+Hawk Mountain|53.014|-118.017|CA|Alberta|40|f
+Hawk Mountain|42.017|-75.234|US|New York|40|f
+Hawke Island|53.067|-55.831|CA|Newfoundland and Labrador|40|f
+Hawkesbury Island|53.583|-129.070|CA|British Columbia|40|f
+Hawkesworth Bridge|17.156|-89.068|BZ|Cayo District|40|f
+Hawkeye Creek Bridge|41.042|-91.045|US|Iowa|40|f
+Hawkeye Point|43.460|-95.709|US|Iowa|40|f
+Hawkeye Street Underpass|43.140|-93.006|US|Iowa|40|f
+Hawkin Hall Lake|44.875|-63.723|CA|Nova Scotia|40|f
+Hawkins Field|36.144|-86.808|US|Tennessee|40|f
+Hawkins Glacier|61.233|-141.880|US|Alaska|40|f
+Hawkins Peak|-75.400|-110.483|AQ||40|f
+Hawks Nest State Park|38.124|-81.119|US|West Virginia|40|f
+Hawley Lake|33.990|-109.752|US|Arizona|40|f
+Hawn State Park|37.822|-90.236|US|Missouri|40|f
+Hawthorn Lake|49.054|-124.767|CA|British Columbia|40|f
 Ḩawf|16.634|53.034|YE|Al Mahrah Governorate|0
 Ḩawrah|13.358|44.146|YE|Ta‘izz|0
 Ḩawshā|32.451|36.099|JO|Mafraq|0

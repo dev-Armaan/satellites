@@ -27,11 +27,15 @@ La Blancarde|43.300|5.406|FR|Provence-Alpes-Côte d'Azur|84
 la Barceloneta|41.380|2.190|ES|Catalonia|84
 Laba|22.511|99.639|CN|Yunnan|83
 Labuan|7.100|121.904|PH|Zamboanga Peninsula|82
+Labuan Airport|5.300|115.250|MY|Labuan|82|f
 Labbaikkudikkādu|11.392|79.022|IN|Tamil Nadu|82
+Labo Airport|8.179|123.842|PH|Northern Mindanao|81|f
 La Bañeza|42.300|-5.898|ES|Castille and León|81
 Labangan|7.865|123.512|PH|Zamboanga Peninsula|81
 la Bisbal d'Empordà|41.950|3.050|ES|Catalonia|80
 Labuan Lombok|-8.500|116.667|ID|West Nusa Tenggara|80
+Labuche Kang|28.304|86.351|CN|Tibet|80|f
+Labasa Airport|-16.466|179.339|FJ|Northern|79|f
 Labunista|41.269|20.596|MK|Struga|79
 La Bruyère|50.395|4.614|BE|Wallonia|78
 Labodougou|5.714|-5.413|CI|Goh-Djiboua|78
@@ -54,14 +58,18 @@ LaBelle|26.762|-81.438|US|Florida|74
 Labico|41.793|12.871|IT|Lazio|73
 Labasan|12.777|121.469|PH|Mimaropa|73
 La Balme-de-Sillingy|45.969|6.042|FR|Auvergne-Rhône-Alpes|72
+Labna|20.172|-89.579|MX|Yucatán|72|f
+Labrador Sea|57.000|-55.000|||72|f
 La Bouëxière|48.184|-1.438|FR|Brittany|72
 Labège|43.529|1.530|FR|Occitanie|71
+Laboulaye Airport|-34.135|-63.362|AR|Cordoba|71|f
 Labenne|43.593|-1.427|FR|New Aquitaine|71
 Labog|9.056|118.049|PH|Mimaropa|71
 Laberweinting|48.800|12.317|DE|Bavaria|71
 La Bruffière|47.014|-1.198|FR|Pays de la Loire|70
 Labu-o|7.114|125.045|PH|Soccsksargen|70
 Labastide-Saint-Pierre|43.919|1.367|FR|Occitanie|70
+Łabski Szczyt|50.780|15.545|PL|Lower Silesia|70|f
 La Bazoge|48.099|0.155|FR|Pays de la Loire|70
 Labnig|13.377|123.679|PH|Bicol Region|69
 La Boisse|45.843|5.036|FR|Auvergne-Rhône-Alpes|69
@@ -69,6 +77,7 @@ Labayug|16.153|120.566|PH|Ilocos|69
 Labènèkaha|9.033|-5.567|CI|Savanes District|69
 Labouheyre|44.213|-0.921|FR|New Aquitaine|69
 La Broque|48.473|7.216|FR|Grand Est|69
+La Berra|46.676|7.184|CH|Fribourg|69|f
 La Buisse|45.346|5.614|FR|Auvergne-Rhône-Alpes|68
 La Blanca|26.293|-98.038|US|Texas|68
 Labuñgan|7.103|124.235|PH|Autonomous Region in Muslim Mindanao|68
@@ -125,6 +134,7 @@ La Bridoire|45.525|5.741|FR|Auvergne-Rhône-Alpes|61
 La Boissière-des-Landes|46.564|-1.459|FR|Pays de la Loire|61
 Labuissière|50.319|4.181|BE|Wallonia|61
 La Bueso|15.617|-87.857|HN|Cortés Department|61
+Labbé Rock|-63.294|-57.925|AQ||61|f
 La Bastide-des-Jourdans|43.785|5.634|FR|Provence-Alpes-Côte d'Azur|61
 Łabowa|49.528|20.855|PL|Lesser Poland|61
 La Bóveda|20.125|-98.128|MX|Hidalgo|61
@@ -133,11 +143,107 @@ Lab-Sar|36.026|66.838|AF|Balkh|61
 La Boussac|48.513|-1.661|FR|Brittany|61
 La Brea|15.800|-85.967|HN|Colón Department|60
 Labastide-Beauvoir|43.482|1.665|FR|Occitanie|60
+Labergement-Sainte-Marie|46.774|6.279|FR|Bourgogne-Franche-Comté|60
+La Bastide-de-Sérou|43.012|1.428|FR|Occitanie|60
+Labastide-d'Anjou|43.347|1.851|FR|Occitanie|60
+L'Absie|46.632|-0.577|FR|New Aquitaine|60
+Labastide-Marnhac|44.388|1.400|FR|Occitanie|60
+La Bebelama de San Pedro|24.793|-107.573|MX|Sinaloa|59
+Labor de Valtierra|20.486|-101.253|MX|Guanajuato|59
+Labastide-de-Lévis|43.928|2.010|FR|Occitanie|59
+La Barra|16.948|-100.108|MX|Guerrero|59
 Labranzagrande|5.562|-72.575|CO|Boyacá|59
+La Barre-en-Ouche|48.946|0.665|FR|Normandy|59
+La Barranca (Quinta Manzana Crescencio Morales)|19.458|-100.264|MX|Michoacán|59
+La Bandera|24.701|-107.864|MX|Sinaloa|59
+Labarthe-Inard|43.108|0.836|FR|Occitanie|59
+Labor de Solís|20.568|-103.986|MX|Jalisco|59
+La Boquilla|22.261|-102.370|MX|Aguascalientes|59
+La Bóveda de Toro|41.344|-5.410|ES|Castille and León|59
+La Breña|17.499|-94.388|MX|Veracruz|59
+La Bâtie-Rolland|44.554|4.865|FR|Auvergne-Rhône-Alpes|59
+La Bâtie-Divisin|45.510|5.598|FR|Auvergne-Rhône-Alpes|59
+Labor de Medina|20.477|-103.929|MX|Jalisco|59
+Labastide-du-Temple|44.085|1.195|FR|Occitanie|59
+Labor Vieja|22.013|-100.143|MX|San Luis Potosí|59
+Labenz|53.710|10.521|DE|Schleswig-Holstein|58
+Labergement-lès-Seurre|46.998|5.093|FR|Bourgogne-Franche-Comté|58
+La Brillanne|43.927|5.891|FR|Provence-Alpes-Côte d'Azur|58
+La Boquita|22.000|-105.343|MX|Nayarit|58
+La Baume-de-Transit|44.337|4.866|FR|Auvergne-Rhône-Alpes|58
+La Barre-de-Semilly|49.112|-1.034|FR|Normandy|58
+La Bouille|49.350|0.933|FR|Normandy|58
+La Bussière|47.746|2.752|FR|Centre-Val de Loire|58
+La Barranca|20.079|-101.443|MX|Michoacán|58
+Labrit|44.105|-0.545|FR|New Aquitaine|58
+La Brigue|44.063|7.616|FR|Provence-Alpes-Côte d'Azur|58
+La Boissière-École|48.680|1.651|FR|Île-de-France|58
+La Borra|43.643|10.629|IT|Tuscany|58
+Labastide-Murat|44.647|1.567|FR|Occitanie|57
+Labo|7.270|-4.867|CI|Lacs District|57
+La Brée-les-Bains|46.015|-1.349|FR|New Aquitaine|57
+La Balme-les-Grottes|45.852|5.333|FR|Auvergne-Rhône-Alpes|57
+La Bebelama|25.477|-108.490|MX|Sinaloa|57
+La Bastidonne|43.701|5.567|FR|Provence-Alpes-Côte d'Azur|57
+La Brosse-Montceaux|48.345|3.019|FR|Île-de-France|57
+Labor de Guadalupe|24.164|-104.595|MX|Durango|57
+La Bourgonce|48.312|6.827|FR|Grand Est|57
+La Brévine|46.981|6.606|CH|Neuchâtel|57
+La Bastide-sur-l'Hers|42.956|1.909|FR|Occitanie|57
+Labrieville|49.300|-69.563|CA|Quebec|57
+La Bajada del Monte|26.337|-108.700|MX|Sinaloa|57
+Labessière-Candeil|43.802|2.005|FR|Occitanie|57
+La Borunda|20.730|-100.670|MX|Guanajuato|57
+Laborovaya|67.640|67.552|RU|Yamalo-Nenets|57
+La Bouillie|48.573|-2.437|FR|Brittany|57
+Labastide-d'Armagnac|43.970|-0.186|FR|New Aquitaine|57
+Labarde|45.015|-0.640|FR|New Aquitaine|57
+La Barben|43.630|5.176|FR|Provence-Alpes-Côte d'Azur|57
+La Brûlatte|48.086|-0.953|FR|Pays de la Loire|57
+La Blanca|20.366|-99.029|MX|Hidalgo|56
+La Belle|40.117|-91.913|US|Missouri|56
+La Basilia|19.462|-102.065|MX|Michoacán|56
+Lab-e Daryā|37.402|50.033|IR|Gilan Province|56
+La Blanca (Chihuahua)|22.081|-101.564|MX|Zacatecas|56
+La Buissière|45.400|5.983|FR|Auvergne-Rhône-Alpes|56
+Labruyère|49.351|2.510|FR|Hauts-de-France|56
+Labso|40.843|14.767|IT|Campania|56
+La Bonita|8.619|-82.764|PA|Chiriquí Province|56
+La Bajada|18.319|-100.672|MX|Guerrero|55
+La Baffe|48.162|6.574|FR|Grand Est|55
+La Bolsa|18.397|-100.595|MX|Guerrero|55
+Labazoubia|6.628|-6.505|CI|Sassandra-Marahoue|55
+La Blanquita|22.789|-102.377|MX|Zacatecas|55
+Labra|42.884|41.451|GE|Abkhazia|55
+Labor de Santa Bárbara|23.014|-103.206|MX|Zacatecas|55
+La Bazoge-Montpinçon|48.278|-0.575|FR|Pays de la Loire|55
+La Barge|42.262|-110.195|US|Wyoming|55
+La Bajada|21.504|-105.159|MX|Nayarit|55
+La Barranca|21.791|-100.759|MX|San Luis Potosí|55
+La Bouteille|49.860|3.975|FR|Hauts-de-France|54
+La Bastille|45.200|5.725|FR|Auvergne-Rhône-Alpes|54|f
+La Belle Municipal Airport|26.745|-81.432|US|Florida|54|f
+Lábbás|66.407|17.591|SE|Norrbotten|54|f
+Labrador Nature Reserve|1.266|103.802|SG||54|f
+Lábrea Airport|-7.279|-64.769|BR|Amazonas|54|f
+La Baussaine|48.313|-1.898|FR|Brittany|54
+Labbeville|49.136|2.144|FR|Île-de-France|54
+La Brousse|45.889|-0.364|FR|New Aquitaine|54
 Labuch|47.067|15.667|AT|Styria|51
+La Braye|46.319|6.840|CH|Valais|49|f
+Labussee|53.206|12.893|DE|Mecklenburg-Vorpommern|49|f
+Labyrinth Mountain|47.853|-121.043|US|Washington|49|f
 Labuerda|42.452|0.136|ES|Aragon|44
 Labajos|40.843|-4.520|ES|Castille and León|43
 Labro|42.526|12.801|IT|Lazio|43
+La Barillette|46.430|6.125|CH|Vaud|40|f
+La Breya|46.019|7.098|CH|Valais|40|f
+La Butte|45.253|-122.852|US|Oregon|40|f
+LaBarque Creek Conservation Area|38.421|-90.702|US|Missouri|40|f
+Labbé Point|-62.497|-59.731|AQ||40|f
+LABoral Centro de Arte y Creación Industrial|43.525|-5.612|ES|Asturias|40|f
+Labour Day Lake|49.125|-124.456|CA|British Columbia|40|f
+Labyrinth Bay|68.418|-105.285|CA|Nunavut|40|f
 La Bouza|40.836|-6.796|ES|Castille and León|36
 L'Abbaye|46.650|6.319|CH|Vaud|0
 La Banda|-27.730|-64.244|AR|Santiago del Estero|0
@@ -146,10 +252,27 @@ La Blanca|14.579|-92.141|GT|San Marcos|0
 La Boca del Guásimo|9.058|-80.331|PA|Colón|0
 La Bocana|0.860|-79.875|EC|Esmeraldas|0
 La Bocana|-3.689|-79.903|EC|El Oro|0
+Lab|33.272|97.142|CN|Qinghai|0
+Laba Goumen|40.898|116.616|CN|Beijing|0
+Labala|-8.515|123.491|ID|East Nusa Tenggara|0
+Laban|-8.142|113.204|ID|East Java|0
+Labang|-6.947|112.958|ID|East Java|0
+Labangka Satu|-8.900|117.768|ID|West Nusa Tenggara|0
+Labansari|-7.260|112.791|ID|East Java|0
 Labason|8.069|122.522|PH|Zamboanga Peninsula|0
 Labateca|7.299|-72.495|CO|Norte de Santander Department|0
 Labinot-Fushë|41.141|20.146|AL|Elbasan County|0
 Labinot-Mal|41.201|20.152|AL|Elbasan County|0
+Labuhan|-6.884|112.205|ID|East Java|0
 Labuhan Bajau|2.401|96.455|ID|Aceh|0
+Labuhan Tangga Besar|2.033|100.888|ID|Riau|0
+Labuhanaji|-8.219|117.486|ID|West Nusa Tenggara|0
+Labuhanbadas|-8.464|117.368|ID|West Nusa Tenggara|0
+Labuhanjambu|-8.696|118.020|ID|West Nusa Tenggara|0
+Labuhankananga|-8.139|117.771|ID|West Nusa Tenggara|0
+Labuhankuris|-8.581|117.634|ID|West Nusa Tenggara|0
+Labuhanlalar|-8.815|116.816|ID|West Nusa Tenggara|0
+Labuhanmapin|-8.519|116.940|ID|West Nusa Tenggara|0
 Labuhanmaringgai|-5.351|105.810|ID|Lampung|0
+Labuhansumbawa|-8.473|117.401|ID|West Nusa Tenggara|0
 Labungkari|-5.263|122.551|ID|Southeast Sulawesi|0

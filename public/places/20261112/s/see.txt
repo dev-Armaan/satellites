@@ -27,6 +27,7 @@ Seewalchen|47.952|13.584|AT|Upper Austria|69
 Seebach|51.165|10.514|DE|Thuringia|68
 Seehausen am Staffelsee|47.689|11.185|DE|Bavaria|68
 Seedorf|54.051|10.409|DE|Schleswig-Holstein|67
+Seekofel|46.675|12.073|IT|Trentino-Alto Adige|67|f
 Seer Green|51.618|-0.606|GB|England|67
 Séez|45.624|6.801|FR|Auvergne-Rhône-Alpes|67
 Seelitz|51.033|12.817|DE|Saxony|67
@@ -37,12 +38,62 @@ Seeburg|51.567|10.150|DE|Lower Saxony|64
 Seebach|48.576|8.170|DE|Baden-Wurttemberg|64
 Seedorf|46.882|8.616|CH|Uri|64
 Seelingstädt|50.773|12.244|DE|Thuringia|64
+See All|38.249|-79.933|US|West Virginia|63|f
+Seehorn|47.517|12.853|AT|Salzburg|63|f
+Seekogel|46.971|10.811|AT|Tyrol|63|f
 Seeham|47.967|13.077|AT|Salzburg|63
 Seebergen|50.921|10.799|DE|Thuringia|63
 Seeberg|47.156|7.666|CH|Bern|62
 See|47.083|10.467|AT|Tyrol|62
+Seekopf, Mount|-71.300|13.700|AQ||61|f
 Seewalchen|47.903|13.131|AT|Salzburg|60
 Seehof|53.692|11.433|DE|Mecklenburg-Vorpommern|60
 Seelyville|39.492|-87.267|US|Indiana|60
+Seester|53.718|9.598|DE|Schleswig-Holstein|60
+Seebad Zempin|54.065|13.953|DE|Mecklenburg-Vorpommern|59
 Seebenstein|47.699|16.145|AT|Lower Austria|59
+Seestermühe|53.704|9.568|DE|Schleswig-Holstein|59
+Seeth-Ekholt|53.741|9.730|DE|Schleswig-Holstein|59
+Seebuck|47.864|8.022|DE|Baden-Wurttemberg|58|f
+Seeth|53.732|9.731|DE|Schleswig-Holstein|57
+Seeburg|51.490|11.703|DE|Saxony-Anhalt|56
+Seelisberg|46.973|8.587|CH|Uri|56
+Seedorf|53.350|9.227|DE|Lower Saxony|56
+Seem|55.312|8.821|DK|South Denmark|55
+Seesbach|49.845|7.547|DE|Rheinland-Pfalz|55
+Seedorf|53.620|10.866|DE|Schleswig-Holstein|55
+Seedskadee National Wildlife Refuge|41.855|-109.834|US|Wyoming|54|f
+Seehamer See|47.850|11.857|DE|Bavaria|54|f
+Seetaler Alpen|47.083|14.550|AT|Styria|54|f
+See|47.300|10.967|AT|Tyrol|54
+Seelbach|50.317|7.867|DE|Rheinland-Pfalz|53
+Seefeld|54.100|9.493|DE|Schleswig-Holstein|53
+Seekirch|48.100|9.650|DE|Baden-Wurttemberg|49
+Seebensee|47.367|10.933|AT|Tyrol|49|f
+Seeberg Observatory (1787-1934)|50.934|10.728|DE|Thuringia|49|f
+Seeburger See|51.565|10.164|DE|Lower Saxony|49|f
+Seedsman, Mount|-70.158|65.441|AQ||49|f
+Seefelder Spitze|47.333|11.233|AT|Tyrol|49|f
+Seekarkreuz|47.650|11.650|DE|Bavaria|49|f
+Seelig Peak|-82.433|163.967|AQ||49|f
+Seelig, Mount|-82.467|-103.900|AQ||49|f
+Seely Ridge|-83.880|-56.883|AQ||49|f
+Seewli|46.811|8.715|CH|Uri|49|f
 Seend|51.348|-2.085|GB|England|49
+Seelen|49.600|7.717|DE|Rheinland-Pfalz|45
+Seealpsee|47.268|9.401|CH|Appenzell Innerrhoden|40|f
+Seebergkopf|47.664|11.998|DE|Bavaria|40|f
+Seebergsee|46.578|7.443|CH|Bern|40|f
+Seehore|46.567|7.461|CH|Bern|40|f
+Seehorn|46.183|8.116|CH|Valais|40|f
+Seekarköpfe|46.874|10.619|AT|Tyrol|40|f
+Seekopf|48.665|8.290|DE|Baden-Wurttemberg|40|f
+Seekopf|48.570|8.232|DE|Baden-Wurttemberg|40|f
+Seeley Lake|48.813|-86.416|CA|Ontario|40|f
+Seeley Lake Park|55.200|-127.687|CA|British Columbia|40|f
+Seeli|46.959|8.572|CH|Uri|40|f
+Seetalhorn|46.176|7.863|CH|Valais|40|f
+Seeweidsee|47.257|8.746|CH|Zurich|40|f
+Se’ergu|31.938|103.419|CN|Sichuan|0
+Seebach|50.917|10.417|DE|Thuringia|0
+Seeth|54.366|9.165|DE|Schleswig-Holstein|0

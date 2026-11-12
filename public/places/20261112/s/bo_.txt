@@ -3,7 +3,7 @@ Bogota D.C.|4.250|-74.183|CO||138|r
 Bogotá|4.610|-74.082|CO|Bogota D.C.|138
 Bosnia and Herzegovina|44.250|17.833|BA||130|c
 Botswana|-22.000|24.000|BW||128|c
-Bourgogne-Franche-Comté|47.070|5.048|FR||126|r
+Bourgogne-Franche-Comté|47.070|5.048|FR||127|r
 Bolívar|6.333|-63.500|VE||125|r
 Bolívar|9.000|-74.333|CO||125|r
 Borno State|11.500|13.000|NG||124|r
@@ -14,11 +14,11 @@ Bouaké|7.694|-5.030|CI|Vallée du Bandama District|118
 Boston|42.358|-71.060|US|Massachusetts|116
 Borivli|19.235|72.860|IN|Maharashtra|116
 Borama|9.936|43.183|SO|Awdal|116
-Bokāro|23.669|86.152|IN|Jharkhand|115
 Borsod-Abaúj-Zemplén|48.250|21.000|HU||115|r
+Bokāro|23.669|86.152|IN|Jharkhand|115
 Boké Region|11.262|-14.330|GN||115|r
+Botoșani County|47.833|26.750|RO||115|r
 Borgou|9.750|2.750|BJ||114|r
-Botoșani County|47.833|26.750|RO||114|r
 Bornova|38.479|27.240|TR|İzmir Province|113
 Boksburg|-26.212|28.260|ZA|Gauteng|113
 Bogura|24.851|89.371|BD|Rajshahi Division|113
@@ -100,3 +100,4 @@ Borongan|11.608|125.432|PH|Eastern Visayas|97
 Bolpur|23.663|87.697|IN|West Bengal|97
 Bo|20.673|105.536|VN|Phu Tho|84
 Bø|59.413|9.069|NO|Telemark|68
+Bő|47.368|16.815|HU|Veszprém|57

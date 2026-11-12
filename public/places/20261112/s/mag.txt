@@ -4,7 +4,7 @@ Magdeburg|52.131|11.632|DE|Saxony-Anhalt|108
 Magé|-22.653|-43.041|BR|Rio de Janeiro|108
 Magdalena Contreras|19.332|-99.211|MX|Mexico City|108
 Magugpo Poblacion|7.447|125.805|PH|Davao Region|107
-Magadan Oblast|62.700|154.000|RU||103|r
+Magadan Oblast|62.700|154.000|RU||104|r
 Magelang|-7.471|110.218|ID|Central Java|102
 Magangué|9.242|-74.755|CO|Bolívar|102
 Maghāghah|28.648|30.841|EG|Minya|101
@@ -41,12 +41,14 @@ Magtymguly|38.436|56.284|TM|Balkan|84
 Magdalena|-35.080|-57.514|AR|Buenos Aires|84
 Magarao|13.660|123.187|PH|Bicol Region|84
 Magburaka|8.723|-11.949|SL|Northern Province|83
+Magdalenefjorden|79.569|11.010|SJ|Svalbard|83|f
 Magadi|-1.901|36.287|KE|Kajiado County|83
 Maglie|40.121|18.298|IT|Apulia|83
 Maghama|15.510|-12.851|MR|Gorgol|83
 Magalhães de Almeida|-3.396|-42.204|BR|Maranhão|83
 Magapit, Aguiguican|18.108|121.677|PH|Cagayan Valley|83
 Magsaysay|9.386|118.513|PH|Mimaropa|82
+Magnitogorsk International Airport|53.393|58.756|RU|Bashkortostan Republic|82|f
 Magude|-25.023|32.648|MZ|Maputo Province|82
 Magdalena Chichicaspa|19.417|-99.325|MX|México|82
 Magdalena Milpas Altas|14.548|-90.675|GT|Sacatepéquez|81
@@ -55,7 +57,9 @@ Magnolia|33.267|-93.239|US|Arkansas|81
 Magalia|39.812|-121.578|US|California|81
 Magapit|18.137|121.669|PH|Cagayan Valley|81
 Magdolnanegyed|47.493|19.083|HU|Budapest|80
+Magas Airport|43.320|45.013|RU|Ingushetiya Republic|80|f
 Maglód|47.443|19.364|HU|Pest County|80
+Magdalen Islands|47.393|-61.896|CA|Quebec|80|f
 Magsaysay|12.333|121.150|PH|Mimaropa|79
 Măgurele|44.350|26.033|RO|Ilfov|79
 Magdalena Cuayucatepec|18.550|-97.485|MX|Puebla|79
@@ -63,6 +67,8 @@ Magny-les-Hameaux|48.743|2.062|FR|Île-de-France|79
 Magtymguly|37.883|58.516|TM|Ahal|79
 Magherafelt|54.754|-6.607|GB|Northern Ireland|79
 Magstadt|48.745|8.967|DE|Baden-Wurttemberg|79
+Magens Bay|18.371|-64.936|VI|Saint Thomas Island|79|f
+Maglić|43.281|18.733|BA||79|f
 Magomeni|-5.233|38.117|TZ|Tanga|79
 Magas|43.223|44.773|RU|Ingushetiya Republic|79
 Magnago|45.579|8.802|IT|Lombardy|79
@@ -73,14 +79,17 @@ Magistral’nyy|56.171|107.442|RU|Irkutsk Oblast|78
 Magaliesburg|-25.994|27.556|ZA|Gauteng|78
 Maglaj|44.548|18.100|BA|Federation of B&H|77
 Magogeni|-25.788|31.608|ZA|Mpumalanga|77
+Magere Brug|52.364|4.902|NL|North Holland|77|f
 Magaramkent|41.615|48.346|RU|Dagestan|77
 Magallanes|9.020|125.517|PH|Caraga|76
 Măgureni|45.067|25.733|RO|Prahova|76
+Magnolia Municipal Airport|33.228|-93.218|US|Arkansas|76|f
 Magione|43.142|12.212|IT|Umbria|76
 Magarlor|20.749|81.852|IN|Chhattisgarh|76
 Magtaking|15.985|120.183|PH|Ilocos|75
 Magor|51.579|-2.831|GB|Wales|75
 Magabeni|-30.172|30.766|ZA|KwaZulu-Natal|75
+Magerrain|47.033|9.220|CH|Saint Gallen|75|f
 Magnitka|55.347|59.696|RU|Chelyabinsk|75
 Magatos|7.556|125.727|PH|Davao Region|75
 Maglavit|44.033|23.100|RO|Dolj|75
@@ -90,6 +99,7 @@ Magny-en-Vexin|49.155|1.787|FR|Île-de-France|75
 Maguyam|14.263|121.005|PH|Calabarzon|75
 Magpet|7.100|125.115|PH|Soccsksargen|75
 Magaluf|39.511|2.535|ES|Balearic Islands|75
+Magerøya|71.034|25.826|NO|Finnmark|74|f
 Măgurele|45.100|26.033|RO|Prahova|74
 Magoúla|38.080|23.521|GR|Attica|74
 Măgura|45.267|26.583|RO|Buzău County|73
@@ -106,6 +116,9 @@ Magsaysay|7.397|125.635|PH|Davao Region|72
 Măgura|46.567|26.850|RO|Bacău County|72
 Magdalena Tequisistlán|16.399|-95.603|MX|Oaxaca|72
 Măgura Ilvei|47.383|24.800|RO|Bistrița-Năsăud County|72
+Magadan-13 Airport|59.623|150.925|RU|Magadan Oblast|71|f
+Magat Dam|16.825|121.454|PH|Cagayan Valley|71|f
+Magnetic Island|-19.139|146.835|AU|Queensland|71|f
 Maglizh|42.600|25.550|BG|Stara Zagora|71
 Magallon Cadre|10.289|123.092|PH|Western Visayas|71
 Ma Gyi Kan|16.565|96.059|MM|Yangon|71
@@ -118,6 +131,8 @@ Magbay|12.410|121.090|PH|Mimaropa|70
 Maguiayo|6.094|-6.128|CI|Goh-Djiboua|70
 Magdalena|14.200|121.429|PH|Calabarzon|70
 Magda|-20.644|-50.226|BR|São Paulo|70
+Magdalena Airport|-13.257|-64.063|BO|Beni Department|70|f
+Magdalena Island|-10.480|-138.643|PF|Marquesas Islands|70|f
 Magliano De'Marsi|42.092|13.364|IT|Abruzzo|70
 Măgura|44.033|25.400|RO|Teleorman County|70
 Maguinao|15.022|120.934|PH|Central Luzon|69
@@ -131,6 +146,8 @@ Măgeşti|47.017|22.450|RO|Bihor County|69
 Magallanes|12.829|123.836|PH|Bicol Region|69
 Maglić|45.362|19.532|RS|Vojvodina|69
 Magdiwang|12.484|122.515|PH|Mimaropa|69
+Magaruque Island|-21.970|35.426|MZ|Inhambane Province|69|f
+Mage Shima|30.742|130.854|JP|Kagoshima|69|f
 Măgherani|46.567|24.900|RO|Mureș County|69
 Mágocs|46.350|18.232|HU|Baranya|68
 Magyarbánhegyes|46.450|20.967|HU|Bekes County|68
@@ -148,6 +165,8 @@ Magnolia|31.143|-90.459|US|Mississippi|67
 Maguling|6.095|124.403|PH|Soccsksargen|67
 Magdug|6.548|126.095|PH|Davao Region|67
 Magay|10.472|124.013|PH|Central Visayas|67
+Magan Airport|62.107|129.543|RU|Sakha|67|f
+Magdalena Rocks|38.537|-28.545|PT|Azores|67|f
 Magnac-Laval|46.215|1.166|FR|New Aquitaine|67
 Magnassini-Nindri|-12.278|44.416|KM|Anjouan|67
 Mago|53.259|140.181|RU|Khabarovsk|67
@@ -162,6 +181,9 @@ Ma‘galim|31.397|34.599|IL|Southern District|66
 Magdala|50.907|11.448|DE|Thuringia|66
 Magenta|49.049|3.969|FR|Grand Est|66
 Magliano Alpi|44.458|7.819|IT|Piedmont|66
+Mägdeberg|47.805|8.797|DE|Baden-Wurttemberg|65|f
+Magdeburg–Cochstedt Airport|51.856|11.419|DE|Saxony-Anhalt|65|f
+Magsaysay Island|9.176|124.826|PH|Northern Mindanao|65|f
 Maguey Blanco|20.424|-99.170|MX|Hidalgo|65
 Magdalena de Araceo|20.310|-101.181|MX|Guanajuato|65
 Magnolia|30.209|-95.751|US|Texas|65
@@ -177,6 +199,9 @@ Magoúla|37.080|22.405|GR|Peloponnese|64
 Magadino|46.149|8.856|CH|Ticino|64
 Magescq|43.779|-1.217|FR|New Aquitaine|64
 Magny-Cours|46.883|3.150|FR|Bourgogne-Franche-Comté|64
+Maga Dam|10.828|15.066|TD|Mayo-Kebbi Est|63|f
+Maggies Peaks|38.932|-120.114|US|California|63|f
+Magnesia on the Meander|37.853|27.527|TR|Aydın|63|f
 Magno|45.707|10.199|IT|Lombardy|63
 Maginsk|55.763|56.966|RU|Bashkortostan Republic|63
 Magnée|50.600|5.688|BE|Wallonia|63
@@ -193,6 +218,7 @@ Magheralin|54.467|-6.260|GB|Northern Ireland|61
 Magazinka|45.863|34.050|UA|Crimea|61
 Magallón|41.832|-1.460|ES|Aragon|61
 Maggal|32.385|35.034|IL|Haifa|61
+Magruder Mountain|37.411|-117.547|US|Nevada|61|f
 Maguilla|38.367|-5.833|ES|Extremadura|61
 Magnacavallo|45.006|11.183|IT|Lombardy|61
 Magdalena Ocotlán|16.709|-96.710|MX|Oaxaca|61
@@ -204,34 +230,150 @@ Magoúla|39.454|21.804|GR|Thessaly|60
 Măguri|46.628|23.103|RO|Cluj County|60
 Magrè sulla Strada del Vino|46.288|11.211|IT|Trentino-Alto Adige|60
 Magele|52.469|6.521|NL|Overijssel|60
+Magiscatzin|22.802|-98.699|MX|Tamaulipas|60
+Magnolia|40.651|-81.299|US|Ohio|60
+Maguey Blanco|21.316|-100.553|MX|Guanajuato|60
+Magnor|59.951|12.202|NO|Innlandet|60
+Magdalena|13.867|-88.300|HN|Intibucá Department|60
+Magnano|40.055|16.055|IT|Basilicate|60
+Magnolia|34.897|-78.054|US|North Carolina|60
+Magdalena Loxícha|15.902|-96.692|MX|Oaxaca|59
+Magdalena|34.117|-107.244|US|New Mexico|59
 Măguri-Răcătău|46.645|23.197|RO|Cluj County|59
+Magheru|44.655|22.631|RO|Mehedinți County|59
 Magdalena Yodocono de Porfirio Díaz|17.385|-97.355|MX|Oaxaca|59
+Magdalena Alquizapán|18.482|-97.760|MX|Puebla|59
+Magallanes|20.463|-101.696|MX|Guanajuato|58
 Magliano in Toscana|42.598|11.292|IT|Tuscany|58
+Măguri|45.663|22.000|RO|Timiș County|58
 Magisano|39.013|16.628|IT|Calabria|58
+Magazine|35.151|-93.807|US|Arkansas|58
+Magnac-Bourg|45.618|1.431|FR|New Aquitaine|58
 Maguarichi|27.859|-107.994|MX|Chihuahua|58
+Mago Island|-17.448|-179.160|FJ|Eastern|58|f
+Magruder Mountain|45.707|-114.823|US|Idaho|58|f
+Magnuszew|51.765|21.380|PL|Mazovia|58
+Magoulítsa|39.439|21.760|GR|Thessaly|58
+Magnolia Springs|30.400|-87.776|US|Alabama|58
+Magaz|41.981|-4.428|ES|Castille and León|58
+Maguey Largo|16.684|-96.656|MX|Oaxaca|58
+Măgura|44.834|25.235|RO|Dâmbovița County|57
+Magikó|41.063|24.900|GR|East Macedonia and Thrace|57
+Maggio|45.926|9.459|IT|Lombardy|57
+Maggia|46.247|8.706|CH|Ticino|57
+Măgura|44.394|24.555|RO|Olt|57
+Magnet|46.213|3.504|FR|Auvergne-Rhône-Alpes|57
 Magdalena|-6.373|-77.902|PE|Amazonas|57
+Magra|-42.750|147.067|AU|Tasmania|57
+Măgura|45.523|25.292|RO|Brașov County|57
+Magazia|47.103|26.262|RO|Neamț County|57
+Magdalena|18.761|-97.046|MX|Veracruz|57
+Magen Sha’ul|32.521|35.308|IL|Northern District|57
 Magacela|38.896|-5.734|ES|Extremadura|57
+Măgureni|44.783|27.926|RO|Brăila County|56
+Magny-sur-Tille|47.276|5.172|FR|Bourgogne-Franche-Comté|56
 Magreglio|45.921|9.263|IT|Lombardy|56
+Măgina|46.341|23.651|RO|Alba County|56
+Magorno|40.276|15.744|IT|Campania|56
+Măgura|45.127|25.472|RO|Dâmbovița County|56
+Magozal|21.568|-97.981|MX|Veracruz|56
+Magazzeno|40.611|14.857|IT|Campania|56
+Magolà|38.977|16.330|IT|Calabria|56
+Magueyitos|19.650|-97.247|MX|Veracruz|55
+Magné|46.357|0.393|FR|New Aquitaine|55
 Magdalena Mixtepec|16.897|-96.906|MX|Oaxaca|55
+Magglingen|47.139|7.214|CH|Bern|55
 Magliolo|44.193|8.249|IT|Liguria|55
+Magnicourt-en-Comte|50.400|2.500|FR|Hauts-de-France|55
+Magueycitos|19.947|-99.633|MX|México|55
+Măgura|45.004|24.251|RO|Vâlcea County|55
+Măgura|45.500|22.414|RO|Caraș-Severin County|55
+Magny-la-Campagne|49.049|-0.104|FR|Normandy|55
+Magherești|45.094|23.524|RO|Gorj County|55
+Măgura|45.150|26.200|RO|Prahova|55
+Magallanes (Los Pinos)|19.690|-100.509|MX|Michoacán|54
+Magnolia|37.444|-85.744|US|Kentucky|54
+Magado|0.612|38.049|KE|Meru County|54|f
+Magaliesberg|-25.768|27.706|ZA|North West|54|f
+Magdagachi Airport|53.473|125.795|RU|Amur Oblast|54|f
+Magdalena Mountains|34.048|-107.185|US|New Mexico|54|f
+Mageta Island|-0.134|34.011|KE|Siaya County|54|f
+Magnier Peaks|-65.678|-64.305|AQ||54|f
+Magoke Point|-69.667|39.483|AQ||54|f
+Magra Islet|-11.858|143.282|AU|Queensland|54|f
+Magway Airport|20.166|94.941|MM|Magway|54|f
+Magdaleno Aguilar|22.430|-98.705|MX|Tamaulipas|54
+Maggio|44.436|11.500|IT|Emilia-Romagna|54
 Magliano Alfieri|44.769|8.070|IT|Piedmont|54
+Mague|8.667|-82.365|PA|Chiriquí Province|54
 Magdalena Jaltepec|17.323|-97.221|MX|Oaxaca|54
 Magomadas|40.263|8.523|IT|Sardinia|53
 Magaz de Cepeda|42.540|-6.072|ES|Castille and León|53
 Maglione|45.347|8.013|IT|Piedmont|53
 Magdalena Zahuatlán|17.390|-97.228|MX|Oaxaca|51
+Maga|13.696|14.155|TD|Lac|49|f
+Maganik|42.735|19.275|ME||49|f
+Magas-hegy|48.402|21.632|HU|Borsod-Abaúj-Zemplén|49|f
+Magdala Park|-33.798|151.135|AU|New South Wales|49|f
+Magdalena Peninsula|43.469|-3.767|ES|Cantabria|49|f
+Magelungen|59.229|18.097|SE|Stockholm|49|f
+Magga Peak|-69.150|157.117|AQ||49|f
+Magnetic Island|-68.543|77.909|AQ||49|f
+Magnetic Island National Park|-19.135|146.839|AU|Queensland|49|f
+Magnis Ridge|-80.083|156.200|AQ||49|f
+Magura|49.571|21.170|PL|Lesser Poland|49|f
+Magura Glacier|-62.666|-59.994|AQ||49|f
+Magwa Falls|-31.445|29.639|ZA|Eastern Cape|49|f
 Magliano di Tenna|43.138|13.587|IT|The Marches|48
 Maglione-Crosa|45.603|8.149|IT|Piedmont|47
 Magliano Vetere|40.347|15.237|IT|Campania|47
 Magasa|45.781|10.616|IT|Lombardy|45
 Magnano|45.463|8.003|IT|Piedmont|43
 Magaña|41.901|-2.163|ES|Castille and León|40
+Magdalena Palace|43.469|-3.766|ES|Cantabria|40|f
+Magdalenenberg|48.051|8.448|DE|Baden-Wurttemberg|40|f
+Magellan Bay|10.331|124.020|PH|Central Visayas|40|f
+Maggie Summit|41.676|-116.050|US|Nevada|40|f
+Magic Dam|43.251|-114.364|US|Idaho|40|f
+Magic Island|38.357|-81.649|US|West Virginia|40|f
+Magic Island|21.284|-157.846|US|Hawaii|40|f
+Magic Mountain|48.446|-121.041|US|Washington|40|f
+Magic Reservoir|43.284|-114.378|US|Idaho|40|f
+Maglione, Mount|-77.300|-141.783|AQ||40|f
+Magna Carta Island|51.446|-0.563|GB|England|40|f
+Magna Park|52.461|-1.246|GB|England|40|f
+Magnetawan Lake|45.662|-78.988|CA|Ontario|40|f
+Magnetic Island|60.243|-152.848|US|Alaska|40|f
+Magnolia Bridge|47.634|-122.380|US|Washington|40|f
+Magnolia Park|45.533|-122.875|US|Oregon|40|f
+Magnolia Springs State Park|32.887|-81.956|US|Georgia|40|f
+Magone Lake|44.549|-118.911|US|Oregon|40|f
+Magoodhoo|5.775|73.361|MV||40|f
+Magoun Square|42.398|-71.104|US|Massachusetts|40|f
+Magura|49.212|19.968|SK|Prešov Region|40|f
+Maguse Lake|61.617|-95.167|CA|Nunavut|40|f
 Magadenovac|45.662|18.187|HR|County of Osijek-Baranja|40
+Magang|21.546|111.168|CN|Guangdong|0
+Magang|22.478|112.493|CN|Guangdong|0
+Magang|29.184|113.773|CN|Hubei|0
+Magaozhuang|36.874|106.442|CN|Ningxia|0
 Magdalena|-1.664|-79.068|EC|Bolívar|0
 Magdalena|-7.251|-78.659|PE|Cajamarca Department|0
+Magepanda|-8.549|122.049|ID|East Nusa Tenggara|0
+Magersari|-6.702|111.325|ID|Central Java|0
 Magetan|-7.657|111.331|ID|East Java|0
+Magetlegar|-8.699|122.351|ID|East Nusa Tenggara|0
 Magitang|35.939|102.030|CN|Qinghai|0
+Magok|-7.039|112.463|ID|East Java|0
+Magong|22.790|115.239|CN|Guangdong|0
+Magong|32.328|105.032|CN|Sichuan|0
 Magsaysay|17.308|121.778|PH|Cagayan Valley|0
 Magsaysay|10.874|121.053|PH|Mimaropa|0
 Magsaysay|9.021|125.183|PH|Northern Mindanao|0
+Maguan|30.393|107.736|CN|Chongqing|0
+Maguan|-8.071|112.537|ID|East Java|0
+Maguan|-6.742|111.238|ID|Central Java|0
+Magui|22.203|111.314|CN|Guangdong|0
 Magura|23.487|89.416|BD|Khulna Division|0
+Magutian|32.674|113.474|CN|Henan|0
+Maguwon|-6.966|111.377|ID|Central Java|0

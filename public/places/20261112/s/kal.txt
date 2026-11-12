@@ -95,6 +95,7 @@ Kalabo|-14.993|22.679|ZM|Western Province|85
 Kalocsa|46.530|18.973|HU|Bács-Kiskun|85
 Kalmthout|51.384|4.476|BE|Flanders|85
 Kallūr Tekkumuri|10.240|76.324|IN|Kerala|85
+Kalmar Strait|56.667|16.417|SE|Kalmar|85|f
 Kalodzishchy|53.944|27.782|BY|Minsk|85
 Kalghatgi|15.183|74.971|IN|Karnataka|85
 Kaleke Mandi|31.976|73.600|PK|Punjab|84
@@ -126,22 +127,27 @@ Kalmiuskyi|47.999|37.812|UA|Donetsk|81
 Kalayagaqi|44.058|81.476|CN|Xinjiang|81
 Kallakkudi|10.977|78.951|IN|Tamil Nadu|81
 Kal'mius'ke|47.664|38.078|UA|Donetsk|81
+Kalemie Airport|-5.876|29.250|CD|Tanganyika|81|f
 Kālappanāyakkanpatti|11.328|78.244|IN|Tamil Nadu|81
 Kallupatti|9.717|77.867|IN|Tamil Nadu|81
 Kālīnagar|28.620|80.082|IN|Uttar Pradesh|81
+Kalibo International Airport|11.686|122.381|PH|Western Visayas|80|f
 Kalombe|16.663|74.212|IN|Maharashtra|80
 Kaldenkirchen|51.320|6.198|DE|North Rhine-Westphalia|80
 Kalavai|12.770|79.420|IN|Tamil Nadu|80
 Kalaoa|19.729|-155.982|US|Hawaii|80
+Kalimno Island|36.976|26.981|GR|South Aegean|80|f
 Kaleybar|38.865|47.039|IR|East Azerbaijan|79
 Kalawa|51.744|13.953|DE|Brandenburg|79
 Kalanchak|46.255|33.291|UA|Kherson|79
 Kalkandere|40.920|40.437|TR|Rize Province|79
+Kalsoy|62.313|-6.760|FO|Norðoyar|79|f
 Kalewa|23.198|94.302|MM|Sagaing Region|79
 Kalety|50.563|18.893|PL|Silesia|79
 Kalawit|8.067|122.517|PH|Zamboanga Peninsula|79
 Kalbajar|40.110|46.044|AZ|Kalbajar|78
 Kalinovskaya|43.574|45.521|RU|Chechnya|78
+Kållandsö|58.667|13.150|SE|Västra Götaland|78|f
 Kalaat es Senam|35.768|8.342|TN|Kef Governorate|78
 Kalampáka|39.704|21.627|GR|Thessaly|78
 Kālundri|18.980|73.127|IN|Maharashtra|78
@@ -166,6 +172,10 @@ Kalyny|48.144|23.874|UA|Zakarpattia|75
 Kalevala|65.199|31.190|RU|Karelia|75
 Kalkaman|51.953|76.027|KZ|Pavlodar Region|75
 Kalabulegen|46.414|88.685|CN|Xinjiang|74
+Kalabo Airport|-14.998|22.645|ZM|Western Province|74|f
+Kalamata International Airport|37.068|22.026|GR|Peloponnese|74|f
+Kalolimnos Island|37.062|27.088|GR|South Aegean|74|f
+Kalskag Airport|61.536|-160.341|US|Alaska|74|f
 Kalsdorf bei Graz|46.965|15.480|AT|Styria|74
 Kale|39.033|38.000|TR|Malatya|74
 Kālāigaon|26.574|91.976|IN|Assam|74
@@ -191,6 +201,7 @@ Kalwaria Zebrzydowska|49.868|19.677|PL|Lesser Poland|73
 Kalpeni|10.083|73.643|IN|Lakshadweep|73
 Kalbay|5.723|125.499|PH|Davao Region|73
 Kalama Valley|21.297|-157.672|US|Hawaii|73
+Kalispell City Airport|48.178|-114.306|US|Montana|72|f
 Kalisz Pomorski|53.299|15.906|PL|West Pomerania|72
 Kālikāpur|22.617|86.288|IN|Jharkhand|72
 Kállósemjén|47.861|21.939|HU|Szabolcs-Szatmár-Bereg|72
@@ -198,6 +209,9 @@ Kalinovskoye|44.864|42.962|RU|Stavropol Kray|72
 Ka Lung Court|22.249|114.139|HK|Southern District|72
 Kaltbrunn|47.214|9.026|CH|Saint Gallen|72
 Kál|47.733|20.267|HU|Heves County|71
+Kalaeloa Airport|21.310|-158.073|US|Hawaii|71|f
+Kalamos|38.628|20.909|GR|Ionian Islands|71|f
+Kalma Airport|39.161|127.489|KP|Kangwŏn-do|71|f
 Kalmanka|52.900|83.543|RU|Altai Krai|71
 Kalga|50.925|118.899|RU|Zabaykalskiy (Transbaikal) Kray|71
 Kalcheva|45.736|28.808|UA|Odesa|71
@@ -212,6 +226,11 @@ Kaltenleutgeben|48.116|16.200|AT|Lower Austria|70
 Kalofer|42.617|24.983|BG|Plovdiv|70
 Kalaīkunda|22.339|87.226|IN|West Bengal|70
 Kalbugan|6.960|124.659|PH|Soccsksargen|70
+Kalamitska Zatoka|45.027|33.477|UA|Crimea|70|f
+Kaldbukta|77.865|15.399|SJ||70|f
+Kalem Island|39.004|26.795|TR|İzmir Province|70|f
+Kalgin Island|60.465|-151.931|US|Alaska|70|f
+Kaligagan Island|54.143|-164.914|US|Alaska|70|f
 Kalkara|35.889|14.533|MT|Il-Kalkara|70
 Kalynove|49.380|30.441|UA|Kyiv Oblast|70
 Kalchreuth|49.558|11.133|DE|Bavaria|70
@@ -233,6 +252,7 @@ Kaligutan|7.703|125.813|PH|Davao Region|69
 Kaloyanovo|42.350|24.733|BG|Plovdiv|69
 Kaloa|10.003|-6.050|CI|Savanes District|69
 Kaliliog|13.904|123.293|PH|Bicol Region|69
+Kālūseh|31.779|49.301|IR|Khuzestan|69|f
 Kalanguy|51.011|116.519|RU|Zabaykalskiy (Transbaikal) Kray|69
 Kalugmanan|8.278|124.860|PH|Northern Mindanao|69
 Kalajärvi|60.305|24.737|FI|Uusimaa|68
@@ -252,6 +272,11 @@ Kalanganan|8.083|124.247|PH|Northern Mindanao|67
 Kalang|5.920|121.363|PH|Autonomous Region in Muslim Mindanao|67
 Kalinovka|45.317|35.746|UA|Crimea|67
 Kaliska|53.905|18.219|PL|Pomerania|67
+Kalegauk Island|15.542|97.654|MM||67|f
+Kalgoorlie-Boulder Airport|-30.786|121.458|AU|Western Australia|67|f
+Kallvatnet|66.235|14.881|NO|Nordland|67|f
+Kalmar Öland Airport|56.683|16.283|SE|Kalmar|67|f
+Kalmit|49.319|8.083|DE|Rheinland-Pfalz|67|f
 Kalkım|39.812|27.215|TR|Canakkale|67
 Kalandagan|6.678|124.725|PH|Soccsksargen|67
 Kálmánháza|47.883|21.583|HU|Szabolcs-Szatmár-Bereg|66
@@ -264,6 +289,11 @@ Kalein|17.001|96.008|MM|Yangon|66
 Kalyanpur|24.684|91.214|BD|Mymensingh Division|66
 Kaltenengers|50.417|7.550|DE|Rheinland-Pfalz|66
 Kaltennordheim|50.626|10.159|DE|Thuringia|66
+Kalaburagi Airport|17.308|76.955|IN|Karnataka|65|f
+Kalenica|50.643|16.547|PL|Lower Silesia|65|f
+Kalkgurung Airport|-17.432|130.808|AU|Northern Territory|65|f
+Kálo Óros|38.332|20.585|GR|Ionian Islands|65|f
+Kalvøya|59.885|10.539|NO|Akershus|65|f
 Kalí|40.819|22.178|GR|Central Macedonia|65
 Källby|58.510|13.306|SE|Västra Götaland|65
 Kalchyk|47.307|37.600|UA|Donetsk|65
@@ -279,6 +309,12 @@ Kalida|40.983|-84.199|US|Ohio|64
 Kallnach|47.020|7.235|CH|Bern|64
 Kálo Chorió|34.929|33.536|CY|Larnaka|64
 Kaltenbach|47.708|13.611|AT|Upper Austria|64
+Kalabak|41.918|20.575|RS||63|f
+Kalaupapa Airport|21.209|-156.975|US|Hawaii|63|f
+Kalbarri Airport|-27.689|114.259|AU|Western Australia|63|f
+Kaleetan Peak|47.462|-121.478|US|Washington|63|f
+Kalimaru Airport|2.155|117.432|ID|East Kalimantan|63|f
+Kallídromo|38.729|22.610|GR|Central Greece|63|f
 Kalkrand|-24.074|17.586|NA|Hardap Region|63
 Kalýves|35.450|24.175|GR|Crete|63
 Kalāteh-ye ‘Arab|36.617|57.620|IR|Razavi Khorasan|63
@@ -304,6 +340,17 @@ Kalogo|10.151|-6.245|CI|Savanes District|61
 Kalá Déndra|41.099|23.424|GR|Central Macedonia|61
 Kalývia|40.755|22.218|GR|Central Macedonia|61
 Kalinino|45.595|34.220|UA|Crimea|61
+Kalarskiy Khrebet|56.301|118.135|RU|Zabaykalskiy (Transbaikal) Kray|61|f
+Kalāyen|37.663|57.242|IR|North Khorasan|61|f
+Kalgi-san|36.117|127.628|KR|North Chungcheong|61|f
+Kālinjar Fort|25.001|80.485|IN|Madhya Pradesh|61|f
+Kalinovka|50.317|23.883|UA|Lviv|61|f
+Kalkaska City Airport|44.725|-85.201|US|Michigan|61|f
+Kalmat Khor|25.439|64.060|PK|Balochistan|61|f
+Kaló Chorió|34.982|33.155|CY|Nicosia|61|f
+Kalø Vig|56.255|10.417|DK|Central Jutland|61|f
+Kalvø|54.724|11.860|DK|Zealand|61|f
+Kalymnos Island National Airport|36.963|26.941|GR|South Aegean|61|f
 Kaleburcu|36.933|34.837|TR|Mersin|61
 Kallífytos|41.173|24.215|GR|East Macedonia and Thrace|61
 Kallíthiro|39.281|21.905|GR|Thessaly|61
@@ -317,38 +364,252 @@ Kalynivka|46.922|31.530|UA|Mykolaiv|60
 Kalamiá|39.165|20.932|GR|Epirus|60
 Kalaidyntsi|50.102|32.964|UA|Poltava|60
 Kallikomo|37.583|21.583|GR|West Greece|60
+Kalývia|38.617|21.292|GR|West Greece|60
+Kalakamate|-20.592|27.311|BW|North-East|60
+Kallimasiá|38.294|26.102|GR|North Aegean|60
+Kallithéa|37.552|21.820|GR|West Greece|60
+Kaluha|47.364|32.941|UA|Mykolaiv|60
+Kalynivka|47.634|31.909|UA|Mykolaiv|59
+Kalīnak|36.171|50.750|IR|Alborz Province|59
+Kallitechnoúpoli|38.026|23.958|GR|Attica|59
+Kalehkīn|36.739|45.135|IR|West Azerbaijan|59
+Kalifadougou|8.150|-5.767|CI|Woroba|59
+Kalisz Pomorski|54.044|17.798|PL|Pomerania|59
+Kallithéa|37.910|22.116|GR|West Greece|59
+Kalnyk|48.520|22.596|UA|Zakarpattia|59
+Kalamotó|40.556|23.373|GR|Central Macedonia|59
+Kalhausen|49.023|7.154|FR|Grand Est|59
+Kalinovka|45.748|34.332|UA|Crimea|59
+Kalbī Bak|31.933|50.973|IR|Chaharmahal and Bakhtiari|58
+Ka Lan|13.955|106.793|KH|Ratanakiri|58
+Kalfa|41.290|28.440|TR|Istanbul|58
+Kalana-Bawé|9.720|-4.095|CI|Zanzan District|58
+Kalamazoo-Battle Creek International Airport|42.235|-85.552|US|Michigan|58|f
+Kalbe|51.216|9.873|DE|Hesse|58|f
+Kaldfjorden|69.769|18.682|NO|Troms|58|f
+Kaldvågvatnet|68.068|15.829|NO|Nordland|58|f
+Kalgi-san|37.579|127.785|KR|Gangwon-do|58|f
+Kallavesi|62.883|27.747|FI|North Savo|58|f
+Kalmia Hills|33.963|-117.196|US|California|58|f
+Kalte Herberge|50.055|8.002|DE|Hesse|58|f
+Kalundborg Airport|55.700|11.255|DK|Zealand|58|f
+Kalveholotinden,nordre|61.371|8.631|NO|Innlandet|58|f
+Kalvvatnet|65.059|12.961|NO|Nordland|58|f
+Kalbsrieth|51.342|11.340|DE|Thuringia|58
+Kalna|49.709|19.104|PL|Silesia|58
+Kalebaşı|40.151|42.764|TR|Kars Province|58
+Kalasi|8.680|-7.597|CI|Woroba|58
+Kalhor|37.687|47.352|IR|East Azerbaijan|58
+Kalynivka|47.148|37.668|UA|Donetsk|58
+Kalngale|57.079|24.159|LV|Ādaži|58
 Kalwang|47.427|14.754|AT|Styria|58
+Kalochóri - Panteíchi|38.388|23.596|GR|Central Greece|58
+Kalogrianá|39.465|21.873|GR|Thessaly|58
+Kalinowo|53.874|22.672|PL|Warmia-Masuria|58
+Kalynivka|47.011|32.645|UA|Mykolaiv|57
+Kalinovka|45.485|32.687|UA|Crimea|57
+Kalāt|27.460|52.732|IR|Bushehr|57
+Kaletepe|38.244|41.236|TR|Batman|57
+Kalenborn|50.615|7.315|DE|Rheinland-Pfalz|57
+Kallaste|58.663|27.162|EE|Tartu|57
+Kalipádhon|37.801|20.838|GR|Ionian Islands|57
+Kalantaivka|46.721|30.283|UA|Odesa|57
+Kallithea - Moustafádhes|38.311|23.439|GR|Central Greece|57
+Kalebalta|38.583|34.196|TR|Aksaray|57
+Kalándra|39.971|23.401|GR|Central Macedonia|57
+Kalaru|-36.731|149.929|AU|New South Wales|57
+Kalloní|37.539|23.289|GR|Attica|57
+Kalavasos|34.758|33.308|CY|Larnaka|56
+Kałków|50.405|17.187|PL|Opole Voivodeship|56
+Kalnivtsi|48.341|25.582|UA|Chernivtsi|56
+Kaldırımbaşı|40.243|27.207|TR|Canakkale|56
+Kalāteh-ye Andādeh|36.754|57.230|IR|Razavi Khorasan|56
+Kallitéros|37.758|20.901|GR|Ionian Islands|56
+Kalynove|48.297|37.651|UA|Donetsk|56
 Kalpáki|39.888|20.624|GR|Epirus|56
+Kallmerode|51.350|10.300|DE|Thuringia|56
+Kalenyky|49.526|33.855|UA|Poltava|56
+Kaliska|52.408|19.119|PL|Kujawsko-Pomorskie|56
+Kaltenholzhausen|50.300|8.100|DE|Rheinland-Pfalz|56
+Kalāntar|39.067|47.332|IR|East Azerbaijan|56
+Kalá Nerá|39.306|23.121|GR|Thessaly|55
+Kalóvatos|39.127|20.918|GR|Epirus|55
+Kalī Kalī|33.700|46.561|IR|Ilam Province|55
+Kalachivka|46.386|28.990|UA|Odesa|55
+Kalübbe|54.120|10.281|DE|Schleswig-Holstein|55
+Kalynove|47.458|37.465|UA|Donetsk|55
+Kalbe|53.293|9.551|DE|Lower Saxony|55
+Kalamotí|38.234|26.045|GR|North Aegean|55
+Kallham|48.285|13.711|AT|Upper Austria|55
+Kalón Nerón|37.299|21.702|GR|Peloponnese|55
+Kalafatlı|41.411|32.008|TR|Zonguldak Province|55
+Kallípoli|40.790|22.233|GR|Central Macedonia|55
+Kalol INA|23.211|72.519|IN|Gujarat|55
+Kalān|33.400|46.283|IR|Ilam Province|55
+Kalenyky|49.866|31.840|UA|Cherkasy|55
+Kalce|45.896|14.194|SI|Logatec|54
+Ka Loko Reservoir|22.177|-159.377|US|Hawaii|54|f
+Kalākaua Park|19.725|-155.089|US|Hawaii|54|f
+Kalaleh Airport|37.383|55.452|IR|Māzandarān|54|f
+Kalamazoo Aviation History Museum|42.229|-85.559|US|Michigan|54|f
+Kalampunian Island|7.052|116.746|MY|Sabah|54|f
+Kalandsvatnet|60.272|5.399|NO|Vestland|54|f
+Kalapattar|27.995|86.828|NP|Koshi|54|f
+Kalay Airport|23.189|94.051|MM|Sagaing Region|54|f
+Kalhaidhoo|1.987|73.537|MV||54|f
+Kalhovdfjorden|60.068|8.313|NO|Telemark|54|f
+Kalina Lake|-22.612|-67.201|BO|Potosí Department|54|f
+Kalingarāyan Canal|11.045|77.906|IN|Tamil Nadu|54|f
+Kalø Slot|56.275|10.470|DK|Central Jutland|54|f
+Kalokol Airport|3.491|35.838|KE|Turkana County|54|f
+Kalopa State Recreation Area|20.042|-155.441|US|Hawaii|54|f
+Kalpeni Island|10.067|73.644|IN|Lakshadweep|54|f
+Kalški Greben|46.334|14.539|SI|Municipality of Preddvor|54|f
+Kalsūbai|19.600|73.707|IN|Maharashtra|54|f
+Kaltag Airport|64.326|-158.744|US|Alaska|54|f
+Kaleüçağız|36.197|29.849|TR|Antalya|54
+Kalt|50.267|7.395|DE|Rheinland-Pfalz|54
+Kalavárda|36.341|27.948|GR|South Aegean|54
+Kalantaiv|49.056|32.894|UA|Kirovohrad|54
+Kalomoíra|39.750|21.411|GR|Thessaly|54
+Kaltschach|46.617|13.950|AT|Carinthia|54
+Kalenborn-Scheuern|50.250|6.600|DE|Rheinland-Pfalz|54
 Kalinko|11.117|-11.183|GN|Faranah|53
+Kaltenborn|50.400|7.017|DE|Rheinland-Pfalz|52
 Kalnik|46.128|16.462|HR|Koprivnica-Križevci|49
+Kala Wewa|8.008|80.553|LK|North Central Province|49|f
+Kalafat|43.397|21.984|RS|Central Serbia|49|f
+Kalaja|42.208|20.751|XK||49|f
+Kalamazoo Valley Museum|42.293|-85.583|US|Michigan|49|f
+Kalambo Falls|-8.600|31.233|TZ||49|f
+Kalamunda National Park|-31.959|116.075|AU|Western Australia|49|f
+Kalatungan Mountains|7.957|124.816|PH|Northern Mindanao|49|f
+Kalemovo Jezero|43.858|17.657|BA|Federation of B&H|49|f
+Kaliakra Glacier|-62.582|-60.151|AQ||49|f
+Kallavesi|61.400|27.106|FI|South Savo|49|f
+Källtorpssjön|59.292|18.165|SE|Stockholm|49|f
+Kalmar Castle|56.658|16.355|SE|Kalmar|49|f
+Kalsa|38.116|13.369|IT|Sicily|49|f
+Kalenborn|50.267|7.083|DE|Rheinland-Pfalz|48
+Kalkofen|49.733|7.833|DE|Rheinland-Pfalz|46
+Kalamalka Lake|50.174|-119.330|CA|British Columbia|40|f
+Kalamalka Lake Park|50.200|-119.252|CA|British Columbia|40|f
+Kalamazoo Lake|42.651|-86.207|US|Michigan|40|f
+Kalayaan Islands|10.671|115.845|PH||40|f
+KALB-TV (Alexandria)|31.038|-92.496|US|Louisiana|40|f
+KALE-AM (Richland)|46.243|-119.181|US|Washington|40|f
+Kaligandaki Bridge, Keladighat|27.872|83.931|NP|Gandaki Pradesh|40|f
+Kalin|44.099|17.532|BA|Federation of B&H|40|f
+Kaliningrad Devau Airport|54.724|20.564|RU|Kaliningrad Oblast|40|f
+Kalmia Gardens|34.366|-80.116|US|South Carolina|40|f
+Kalofer Peak|-62.690|-60.019|AQ||40|f
+Kaloyan Nunatak|-62.624|-59.868|AQ||40|f
+KALQ-FM (Alamosa)|37.472|-105.854|US|Colorado|40|f
+Kaltwasserkarspitze|47.403|11.450|AT|Tyrol|40|f
+KALU-FM (Langston)|35.944|-97.261|US|Oklahoma|40|f
+KALV-AM (Alva)|36.818|-98.644|US|Oklahoma|40|f
+KALW-FM (San Francisco)|37.755|-122.447|US|California|40|f
+KALY-AM (Los Ranchos de Albuquerque)|35.184|-106.614|US|New Mexico|40|f
 Kalafgān|36.772|69.945|AF|Takhar|0
+Kalahang|-6.361|106.053|ID|Banten|0
+Kalahang|-6.280|105.994|ID|Banten|0
 Kalakān|34.784|69.150|AF|Kabul|0
 Kalān Deh|33.837|68.402|AF|Maidan Wardak Province|0
+Kalang Mangga|-7.225|113.782|ID|East Java|0
 Kalangala|-0.309|32.225|UG|Central Region|0
+Kalangan|-6.705|111.106|ID|Central Java|0
+Kalangan|-6.942|111.372|ID|Central Java|0
+Kalanganyartambak|-7.399|112.794|ID|East Java|0
 Kalangbret|-8.053|111.865|ID|East Java|0
+Kalangga|-10.160|120.314|ID|East Nusa Tenggara|0
+Kalangsari|-7.493|108.424|ID|West Java|0
+Kalapadua|-6.564|105.855|ID|Banten|0
+Kalapagada|-7.394|108.661|ID|West Java|0
+Kalapagenep|-7.807|108.293|ID|West Java|0
+Kalapanunggal|-7.215|107.005|ID|West Java|0
 Kalāt-e Nāderī|36.995|59.765|IR|Razavi Khorasan|0
+Kalate|-8.543|118.247|ID|West Nusa Tenggara|0
+Kalatongke|46.856|89.698|CN|Xinjiang|0
+Kalayemule|46.755|84.360|CN|Heilongjiang|0
+Kalbach|50.404|9.683|DE|Hesse|0
 Kalde Panga|4.556|95.715|ID|Aceh|0
 Kale|38.415|38.771|TR|Malatya|0
 Kale|40.387|39.683|TR|Gümüşhane Province|0
+Kalebun|-6.943|113.484|ID|East Java|0
+Kalede|-8.571|118.987|ID|West Nusa Tenggara|0
+Kalelu|-8.542|122.937|ID|East Nusa Tenggara|0
+Kalembutillu|-9.560|119.244|ID|East Nusa Tenggara|0
+Kalenaren|-7.580|108.785|ID|Central Java|0
+Kalenborn|50.550|7.000|DE|Rheinland-Pfalz|0
 Kalenjë|40.590|19.778|AL|Fier County|0
+Kalenpring|-7.585|108.761|ID|Central Java|0
+Kalepasan|-6.260|106.080|ID|Banten|0
+Kalerker|-6.918|114.037|ID|East Java|0
 Kaleroang|-3.052|122.387|ID|Central Sulawesi|0
 Kalgo|12.327|4.200|NG|Kebbi|0
 Kali|1.162|121.429|ID|Central Sulawesi|0
 Kalianda|-5.738|105.592|ID|Lampung|0
 Kalianyar Selatan|-8.013|113.829|ID|East Java|0
+Kaliasin|-8.220|114.378|ID|East Java|0
+Kalibaru|-8.290|113.986|ID|East Java|0
+Kalibaru|-7.076|107.043|ID|West Java|0
+Kalibaru Kulon|-8.288|113.979|ID|East Java|0
+Kaliboto|-8.043|111.980|ID|East Java|0
 Kalibunder|-7.263|106.722|ID|West Java|0
+Kalibuntu|-6.213|106.114|ID|Banten|0
+Kalibuntu|-7.736|113.417|ID|East Java|0
+Kalidawe|-8.253|112.012|ID|East Java|0
 Kalidawir|-8.181|111.972|ID|East Java|0
+Kalidung|-7.191|107.890|ID|West Java|0
+Kaliduren|-7.560|109.098|ID|Central Java|0
+Kalieung|-7.319|108.082|ID|West Java|0
+Kaligambir|-8.279|112.276|ID|East Java|0
+Kaligentong|-8.228|111.990|ID|East Java|0
+Kaligerman|-6.998|112.329|ID|East Java|0
+Kaligrenjeng|-8.274|112.129|ID|East Java|0
+Kalijaga|-7.213|106.649|ID|West Java|0
+Kalijeruk|-8.065|113.339|ID|East Java|0
+Kalikasa|-8.434|123.468|ID|East Nusa Tenggara|0
 Kalikot District|29.102|81.680|NP|Karnali Pradesh|0
+Kalilu|-6.683|111.488|ID|Central Java|0
+Kalimango|-8.522|116.995|ID|West Nusa Tenggara|0
+Kalimanis|-8.045|112.437|ID|East Java|0
+Kalimati|-7.009|112.500|ID|East Java|0
+Kalimati|-6.759|111.238|ID|Central Java|0
+Kalimbukuni|-9.636|119.436|ID|East Nusa Tenggara|0
+Kalimeneng|-8.284|112.090|ID|East Java|0
 Kalimpong, Крукети|27.056|88.462|IN|West Bengal|0
+Kalinanas|-6.863|111.261|ID|Central Java|0
+Kaliombo Wetan|-6.787|111.362|ID|Central Java|0
 Kaliori|-6.702|111.248|ID|Central Java|0
 Kalipang|-6.724|111.654|ID|Central Java|0
+Kalipare|-8.207|112.466|ID|East Java|0
+Kaliprak|-6.886|111.583|ID|Central Java|0
 Kalipucang|-7.643|108.753|ID|West Java|0
+Kalipuro|-8.169|114.359|ID|East Java|0
 Kalirejo|-5.226|104.961|ID|Lampung|0
+Kalirejo|-6.923|111.434|ID|Central Java|0
 Kalis|41.839|20.367|AL|Kukës County|0
+Kalisabuk|-6.693|111.129|ID|Central Java|0
+Kalisangkrah Lor|-8.285|112.388|ID|East Java|0
+Kalisari|-8.023|112.648|ID|East Java|0
+Kalitelo|-8.257|112.434|ID|East Java|0
+Kalitengah|-6.995|112.400|ID|East Java|0
+Kaliterus|-7.624|109.198|ID|Central Java|0
+Kaliuda|-10.165|120.714|ID|East Nusa Tenggara|0
+Kaliuling|-8.267|112.951|ID|East Java|0
+Kaliwates|-8.182|113.671|ID|East Java|0
+Kaliwon Kertawirama|-7.011|108.427|ID|West Java|0
+Kalkal Barat|-6.997|112.819|ID|East Java|0
 Kallmet|41.418|19.821|AL|Tirana|0
 Kallmeti i Madh|41.849|19.687|AL|Lezhë County|0
+Kalodu|-8.659|118.838|ID|West Nusa Tenggara|0
+Kaloghodalo|-9.547|118.987|ID|East Nusa Tenggara|0
 Kals am Großglockner|47.002|12.646|AT|Tyrol|0
+Kalumbang|-9.887|120.654|ID|East Nusa Tenggara|0
 Kalumpang|-2.478|119.486|ID|West Sulawesi|0
+Kalumpang|-6.213|105.953|ID|Banten|0
+Kalunan|-8.390|124.668|ID|East Nusa Tenggara|0
 Kalungu|-0.170|31.758|UG|Central Region|0
 Kalynivka|50.563|30.822|UA|Kyiv Oblast|0
 Kalynivka|50.225|30.226|UA|Kyiv Oblast|0

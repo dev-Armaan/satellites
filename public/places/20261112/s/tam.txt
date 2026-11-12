@@ -58,6 +58,7 @@ Tamazunchale|21.260|-98.789|MX|San Luis Potosí|88
 Tamandaré|-8.756|-35.100|BR|Pernambuco|87
 Tamboril|19.485|-70.611|DO|Santiago Province|87
 Tam Giang|8.800|105.183|VN|Ca Mau|87
+Tampa Bay|27.766|-82.547|US|Florida|87|f
 Tammampatti|11.441|78.489|IN|Tamil Nadu|87
 Tambaú|-21.705|-47.274|BR|São Paulo|87
 Tambuwal|12.406|4.646|NG|Sokoto|86
@@ -68,6 +69,7 @@ Tamazula de Gordiano|19.680|-103.251|MX|Jalisco|85
 Tamallalt|31.819|-7.514|MA|Marrakesh-Safi|85
 Tamuín|22.006|-98.780|MX|San Luis Potosí|84
 Tammenga|5.829|-55.202|SR|Paramaribo District|84
+Taman Negara|4.767|102.444|MY|Kelantan|84|f
 Tamaru|34.483|136.633|JP|Mie|84
 Tamarana|-23.723|-51.097|BR|Paraná|84
 Tamaraceite|28.099|-15.472|ES|Canary Islands|83
@@ -75,6 +77,7 @@ Tāmaraikkulam|10.109|77.555|IN|Tamil Nadu|82
 Tamagawa|35.616|139.624|JP|Tokyo|82
 Tamm|48.920|9.116|DE|Baden-Wurttemberg|82
 Tamarakutamkudiyiruppu|8.101|77.494|IN|Tamil Nadu|81
+Tampa International Airport|27.976|-82.533|US|Florida|81|f
 Tamanar|31.001|-9.678|MA|Marrakesh-Safi|81
 Tamalpais-Homestead Valley|37.878|-122.536|US|California|81
 Ţammūn|32.283|35.384|PS|West Bank|80
@@ -101,12 +104,15 @@ Tamaqua|40.797|-75.969|US|Pennsylvania|77
 Tamanredjo|5.786|-55.025|SR|Commewijne District|76
 Tamayo|18.395|-71.203|DO|Baoruco Province|76
 Támesis|5.665|-75.713|CO|Antioquia|76
+Tambov Donskoye Airport|52.806|41.483|RU|Tambov Oblast|76|f
+Tamga Airport|42.153|77.564|KG|Issyk-Kul|76|f
 Tamarindo|10.299|-85.841|CR|Guanacaste Province|76
 Tamaşi|46.483|26.983|RO|Bacău County|76
 Tamnag|6.573|124.880|PH|Soccsksargen|76
 Tammela|60.810|23.768|FI|Kanta-Häme|75
 Tamayo|15.877|120.285|PH|Ilocos|75
 Tamayong|7.133|125.380|PH|Davao Region|75
+Tampa Executive Airport|28.014|-82.345|US|Florida|74|f
 Tamgaon|16.648|74.299|IN|Maharashtra|74
 Tamontaka|7.181|124.226|PH|Soccsksargen|74
 Tamiahua|21.279|-97.446|MX|Veracruz|74
@@ -117,6 +123,8 @@ Tamalameque|8.852|-73.812|CO|Cesar Department|74
 Tamboara|-23.200|-52.500|BR|Paraná|74
 Tamentit|27.761|-0.260|DZ|Adrar|74
 Tambilil|5.962|124.670|PH|Soccsksargen|74
+Tambao Airport|14.791|0.041|BF|Sahel|73|f
+Tamchakett Airport|17.233|-10.817|MR|Hodh El Gharbi|73|f
 Tamer-e Qarah Qūzī|37.498|55.500|IR|Golestan|73
 Taman Kota Sarang Semut|5.979|100.400|MY|Kedah|73
 Tambach-Dietharz|50.792|10.616|DE|Thuringia|73
@@ -129,6 +137,7 @@ Tamos|22.220|-97.997|MX|Veracruz|72
 Tampocon|9.850|123.133|PH|Central Visayas|72
 Tâmna|44.567|23.017|RO|Mehedinți County|71
 Tamarit de Llitera / Tamarite de Litera|41.869|0.422|ES|Aragon|71
+Taman Peninsula|45.185|36.800|RU|Krasnodar Krai|71|f
 Tampilisan|8.017|122.683|PH|Zamboanga Peninsula|71
 Tambaca|21.961|-99.301|MX|San Luis Potosí|71
 Tambovka|47.315|47.378|RU|Astrakhan Oblast|71
@@ -139,6 +148,7 @@ Tampate|21.636|-99.026|MX|San Luis Potosí|71
 Tambo|13.547|123.036|PH|Bicol Region|70
 Tamazula|25.446|-108.455|MX|Sinaloa|70
 Tambo|9.895|123.056|PH|Central Visayas|70
+Tampere–Pirkkala Airport|61.414|23.604|FI|Pirkanmaa|70|f
 Tamchekett|17.245|-10.670|MR|Hodh El Gharbi|70
 Tampamolón Corona|21.559|-98.819|MX|San Luis Potosí|70
 Tambo|13.255|123.291|PH|Bicol Region|70
@@ -152,6 +162,9 @@ Tampayan|12.494|122.533|PH|Mimaropa|69
 Tama|41.967|-92.577|US|Iowa|69
 Tamazulápam del Espíritu Santo|17.055|-96.065|MX|Oaxaca|69
 Tamaghzah|34.388|7.943|TN|Tozeur Governorate|69
+Tamanskiy Zaliv|45.283|36.822|RU|Krasnodar Krai|69|f
+Tampa Bay Executive Airport|28.188|-82.625|US|Florida|69|f
+Tampico International Airport|22.291|-97.866|MX|Tamaulipas|69|f
 Tambac|11.671|122.411|PH|Western Visayas|69
 Támara|14.169|-87.341|HN|Francisco Morazán Department|69
 Tamworth|43.860|-71.263|US|New Hampshire|69
@@ -166,6 +179,7 @@ Tambo|7.157|125.699|PH|Davao Region|68
 Taman Naga Emas|3.078|101.698|MY|Kuala Lumpur|67
 Tamazula de Victoria|24.969|-106.966|MX|Durango|67
 Tamlang|10.825|123.454|PH|Western Visayas|67
+Tamiyasu Dam|44.832|141.814|JP|Hokkaido|67|f
 Tambak|6.725|124.623|PH|Soccsksargen|67
 Taman Dusun Setia|2.714|101.964|MY|Negeri Sembilan|67
 Tambalan|9.909|123.090|PH|Central Visayas|67
@@ -175,11 +189,18 @@ Támara|5.830|-72.163|CO|Casanare Department|66
 Tamoowoug|16.034|97.915|MM|Kayin State|66
 Tamassint|35.072|-3.961|MA|Tanger-Tetouan-Al Hoceima|66
 Tampemoche|21.689|-99.082|MX|San Luis Potosí|65
+Tamarindo Airport|10.315|-85.815|CR|Guanacaste Province|65|f
+Tampon Ambohitra|-12.596|49.153|MG|Diana|65|f
 Tampacán|21.402|-98.728|MX|San Luis Potosí|65
 Tamai|45.924|12.572|IT|Friuli Venezia Giulia|65
 Tamaulipas|15.772|-93.407|MX|Chiapas|64
 Tambores|-31.877|-56.244|UY|Tacuarembó Department|64
 Ta Mar Ta Kaw Ah Htet|16.821|96.047|MM|Yangon|64
+Tamagawa-damu|33.993|132.933|JP|Ehime|63|f
+Tamahara-damu|36.775|139.063|JP|Gunma|63|f
+Tampa Padang Airport|-2.587|119.029|ID|West Sulawesi|63|f
+Tampere Ice Stadium|61.496|23.824|FI|Pirkanmaa|63|f
+Tamula Järv|57.840|26.977|EE|Võrumaa|63|f
 Tamándaro|19.949|-102.285|MX|Michoacán|63
 Tamazulita|20.203|-103.970|MX|Jalisco|63
 Tamași|44.584|26.007|RO|Ilfov|63
@@ -189,19 +210,94 @@ Tamán|21.232|-98.879|MX|San Luis Potosí|62
 Tamins|46.830|9.406|CH|Grisons|61
 Tămașda|46.645|21.557|RO|Bihor County|61
 Tamest|27.426|-0.243|DZ|Adrar|61
+Tama Glacier|-68.783|40.367|AQ||61|f
+Tama Point|-68.717|40.433|AQ||61|f
+Tamale Airport|9.557|-0.863|GH|Northern|61|f
+Tamanos Mountain|46.872|-121.597|US|Washington|61|f
+Tamarin Falls Reservoir|-20.358|57.463|MU|Plaines Wilhems|61|f
 Tamasane|-22.418|27.401|BW|Central|61
 Tampiquito|23.834|-98.195|MX|Tamaulipas|61
 Tamaryne|47.019|33.002|UA|Mykolaiv|61
 Tamahú|15.309|-90.236|GT|Alta Verapaz|60
 Tamápatz|21.567|-99.078|MX|San Luis Potosí|60
+Tămaia|47.593|23.366|RO|Maramureş|60
+Tampoi|1.498|103.704|MY|Johor|60
 Tămășeu|47.221|21.928|RO|Bihor County|60
 Tamames|40.657|-6.105|ES|Castille and León|60
+Tampochocho|21.489|-98.870|MX|San Luis Potosí|60
+Tămăoani|45.679|28.075|RO|Galați County|60
+Tamácuaro|18.495|-100.652|MX|Guerrero|59
+Tamoyón I|21.024|-98.247|MX|Hidalgo|59
+Tamchāl|37.310|49.958|IR|Gilan Province|59
+Tampamachoco|20.970|-97.326|MX|Veracruz|59
+Tampuchón|21.510|-98.951|MX|San Luis Potosí|59
+Tampajal|21.521|-99.053|MX|San Luis Potosí|59
+Tamarindo|19.340|-96.491|MX|Veracruz|59
+Tamana Island|-2.501|175.987|KI|Gilbert Islands|58|f
+Tamassós|35.022|33.242|CY|Nicosia|58|f
+Tambisan Island|5.452|119.124|MY|Sabah|58|f
+Tambopata-Candamo Nature Reserve|-12.900|-69.333|PE|Madre de Dios|58|f
+Tambor Airport|9.739|-85.014|CR|Puntarenas Province|58|f
+Tambovskaya Peak|-71.675|12.342|AQ||58|f
+Tamiahua Lagoon|21.633|-97.575|MX|Veracruz|58|f
+Tamworth Airport|-31.084|150.847|AU|New South Wales|58|f
+Tamarisi|41.438|44.744|GE|Kvemo Kartli|58
+Tambana|13.505|-16.174|GM|North Bank|58
+Tamaloya|17.381|-98.824|MX|Guerrero|58
+Tampico|41.630|-89.786|US|Illinois|58
 Tam Đảo|21.393|105.614|VN|Phu Tho|57
+Tamala|20.998|-98.800|MX|Hidalgo|57
+Tămășești|44.995|23.188|RO|Gorj County|57
+Tâmpa|45.826|23.015|RO|Hunedoara County|57
+Tamacol|21.235|-98.825|MX|San Luis Potosí|56
+Tamboya|-5.166|-79.777|PE|Piura|56
+Tameapa|25.637|-107.377|MX|Sinaloa|56
+Tametate|21.318|-98.233|MX|Veracruz|56
+Tamaroa|38.138|-89.230|US|Illinois|56
+Tambo|8.662|-80.294|PA|Coclé|56
+Tamacuas (El Ranchito)|18.033|-102.179|MX|Guerrero|56
+Tamerville|49.532|-1.453|FR|Normandy|55
+Tamarindo|-7.307|-79.443|PE|La Libertad|55
+Tamanché|21.139|-89.641|MX|Yucatán|55
+Tamașfalău|45.884|26.116|RO|Covasna County|55
+Tampuche|22.071|-98.152|MX|Veracruz|55
+Tambo Real|-13.477|-72.239|PE|Cuzco Department|55
+Tammneeme|59.530|24.886|EE|Harjumaa|54
+Taman Negara Bako|1.715|110.475|MY|Sarawak|54|f
+Tamgout Lalla Khedidja|36.448|4.228|DZ|Bouira|54|f
+Tami Islands|-6.754|147.910|PG|Morobe Province|54|f
+Tammijärvi|60.583|26.550|FI||54|f
+Tampa, Peter O Knight Airport|27.916|-82.449|US|Florida|54|f
+Tamuin Airport|22.038|-98.806|MX|San Luis Potosí|54|f
+Tamcuem|21.538|-99.078|MX|San Luis Potosí|54
+Tamalayo|19.931|-97.485|MX|Puebla|54
+Tămășeni|48.015|23.135|RO|Satu Mare County|54
 Tambre|46.126|12.419|IT|Veneto|53
 Tambo Quemado|-14.728|-74.670|PE|Ayacucho|51
+Taman Mini Indonesia Indah|-6.302|106.903|ID|Jakarta|49|f
+Tamarindito|16.451|-90.239|GT|Petén|49|f
+Tambajang Forest Park|13.383|-15.350|GM|Lower River|49|f
+Tambao Mines|14.800|0.083|BF|Sahel|49|f
+Tambo Colorado|-13.701|-75.824|PE|Ica|49|f
+Tamborine National Park|-27.892|153.191|AU|Queensland|49|f
+Tambroso|38.600|-28.650|PT|Azores|49|f
+Tamdoult|29.296|-8.325|MA|Souss-Massa|49|f
+Tammann Peaks|-66.939|-66.347|AQ||49|f
 Tamurejo|38.983|-4.933|ES|Extremadura|48
 Tamajón|40.999|-3.247|ES|Castille-La Mancha|47
 Tambillo|-13.195|-74.111|PE|Ayacucho|46
+Tamagawa University|35.567|139.468|JP|Tokyo|40|f
+Tamaki Strait|-36.838|174.970|NZ|Auckland|40|f
+Tamale Stadium|9.411|-0.862|GH|Northern|40|f
+Tamarac National Wildlife Refuge|46.982|-95.619|US|Minnesota|40|f
+Tamarack Lake|47.366|-95.598|US|Minnesota|40|f
+Tamarack Springs Ranch Airport|45.502|-117.472|US|Oregon|40|f
+Tambomachay|-13.479|-71.967|PE|Cuzco Department|40|f
+Tamiami Park|25.749|-80.382|US|Florida|40|f
+Tampa|45.634|25.593|RO|Brașov County|40|f
+Tampa Bay History Center|27.942|-82.450|US|Florida|40|f
+Tampa Museum of Art|27.949|-82.462|US|Florida|40|f
+Tamworth Castle|52.631|-1.697|GB|England|40|f
 Tamariz de Campos|41.977|-5.023|ES|Castille and León|40
 Tamarón|42.274|-3.992|ES|Castille and León|33
 Tam Bình|10.048|106.000|VN|Vinh Long|0
@@ -209,26 +305,75 @@ Tam Điệp|20.156|105.917|VN|Ninh Binh|0
 Tam Đường|22.318|103.626|VN|Lai Châu Province|0
 Tầm Vu|10.441|106.468|VN|Tay Ninh|0
 Tama|-30.507|-66.530|AR|La Rioja|0
+Tamaau|-9.590|119.556|ID|East Nusa Tenggara|0
 Tamako|3.456|125.506|ID|North Sulawesi|0
+Tamalabang|-8.353|124.257|ID|East Nusa Tenggara|0
+Taman|-7.075|114.042|ID|East Java|0
+Taman|-8.020|113.217|ID|East Java|0
+Taman|-8.259|115.035|ID|Bali|0
+Taman|-6.978|112.315|ID|East Java|0
+Taman|-7.051|113.745|ID|East Java|0
+Taman|-7.225|113.797|ID|East Java|0
+Taman|-6.910|113.279|ID|East Java|0
 Taman|-6.914|109.410|ID|Central Java|0
+Taman Suruh Krajan|-8.196|114.299|ID|East Java|0
+Tamanaimahu|-9.638|119.601|ID|East Nusa Tenggara|0
+Tamanan|-8.023|111.893|ID|East Java|0
 Tamanan|-8.072|111.903|ID|East Java|0
+Tamanan|-8.059|111.702|ID|East Java|0
+Tamanbumigora|-8.775|116.307|ID|West Nusa Tenggara|0
 Tamanco|-5.850|-74.317|PE|Loreto|0
+Tamanjaya Satu|-7.226|106.528|ID|West Java|0
+Tamansari|-8.196|114.945|ID|Bali|0
+Tamansari|-8.281|113.723|ID|East Java|0
+Tamansari|-7.423|108.193|ID|West Java|0
+Tamansari Krajan|-8.380|114.111|ID|East Java|0
 Tamarindo|-4.877|-80.973|PE|Piura|0
 Tamatam|7.539|149.414|FM|Chuuk|0
+Tambahrejo Krajan|-8.149|113.067|ID|East Java|0
 Tambak|-5.732|112.650|ID|East Java|0
+Tambakan|-8.057|112.298|ID|East Java|0
+Tambakan|-6.203|105.938|ID|Banten|0
+Tambakan|-7.373|108.120|ID|West Java|0
+Tambakbaya|-7.403|108.179|ID|West Java|0
+Tambakbaya|-7.005|108.558|ID|West Java|0
+Tambakbayan|-8.266|114.236|ID|East Java|0
+Tambakkromo|-7.157|111.570|ID|Central Java|0
+Tambakmerak|-7.115|111.664|ID|East Java|0
+Tambakoso|-7.346|112.804|ID|East Java|0
+Tambakreja|-7.383|108.656|ID|West Java|0
+Tambakrejo|-8.011|111.964|ID|East Java|0
+Tambakrejo|-8.311|112.143|ID|East Java|0
+Tambakrejo|-6.900|112.175|ID|East Java|0
 Tambakrejo|-7.247|112.756|ID|East Java|0
+Tambakromo|-6.726|111.068|ID|Central Java|0
 Tambaksari|-7.249|108.535|ID|West Java|0
+Tambaksari|-8.055|112.590|ID|East Java|0
+Tambaksari|-7.501|108.751|ID|Central Java|0
+Tambaksari Satu|-6.934|111.431|ID|Central Java|0
+Tambaksumber|-8.104|111.952|ID|East Java|0
+Tambaksumur|-7.348|112.773|ID|East Java|0
+Tambangan|-7.486|108.822|ID|Central Java|0
 Tambarangan|-3.004|115.132|ID|South Kalimantan|0
+Tambe|-8.510|118.605|ID|West Nusa Tenggara|0
+Tambeggan Satu|-6.954|112.854|ID|East Java|0
 Tamberías|-31.459|-69.422|AR|San Juan|0
 Tamberu|-6.898|113.484|ID|East Java|0
 Tambillo|-9.867|-76.040|PE|Huánuco Department|0
+Tambir|-7.377|108.177|ID|West Java|0
 Tambo|-2.510|-78.927|EC|Canar|0
 Tambo|-12.948|-74.020|PE|Ayacucho|0
 Tambobamba|-13.945|-72.171|PE|Apurímac Department|0
 Tâmboeşti|45.517|27.050|RO|Vrancea|0
 Tambu|-0.048|119.879|ID|Central Sulawesi|0
+Tambulatana|-9.513|120.198|ID|East Nusa Tenggara|0
 Tamburco|-13.617|-72.871|PE|Apurímac Department|0
+Tamiajeng|-8.007|112.720|ID|East Java|0
 Tamiang Layang|-2.124|115.196|ID|Central Kalimantan|0
 Tamorot|34.936|-4.779|MA|Tanger-Tetouan-Al Hoceima|0
 Tamot|7.339|100.112|TH|Phatthalung|0
+Tampakdandang|-6.860|115.263|ID|East Java|0
+Tampekan|-8.202|114.973|ID|Bali|0
+Tampes|-8.235|116.301|ID|West Nusa Tenggara|0
 Tamri|30.696|-9.830|MA|Souss-Massa|0
+Tamutuo Gelake|41.340|82.430|CN|Xinjiang|0

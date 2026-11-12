@@ -8,6 +8,7 @@ Little Havana|25.768|-80.233|US|Florida|95
 Littleton|39.613|-105.017|US|Colorado|93
 Little Elm|33.163|-96.938|US|Texas|92
 Litoměřice|50.533|14.132|CZ|Ústí nad Labem Region|88
+Little Andaman Island|10.750|92.500|IN|Andaman and Nicobar|87|f
 Litherland|53.470|-2.998|GB|England|87
 Litvínov|50.604|13.618|CZ|Ústí nad Labem Region|87
 Littau|47.050|8.263|CH|Lucerne|84
@@ -16,6 +17,7 @@ Lithia Springs|33.794|-84.660|US|Georgia|84
 Littleborough|53.644|-2.096|GB|England|83
 Little Hulton|53.533|-2.417|GB|England|83
 Litein|-0.582|35.190|KE|Kericho County|83
+Lítla Dímun|61.631|-6.707|FO|Suðuroy|81|f
 Little Chute|44.280|-88.318|US|Wisconsin|81
 Little Ferry|40.853|-74.042|US|New Jersey|81
 Little Falls|40.869|-74.208|US|New Jersey|81
@@ -25,19 +27,27 @@ Little Canada|45.027|-93.088|US|Minnesota|80
 Little Lever|53.563|-2.378|GB|England|80
 Little Neck|40.763|-73.732|US|New York|80
 Liteni|47.567|26.200|RO|Suceava|80
+Little Kuril Strait|50.682|156.161|RU|Sakhalin Oblast|80|f
+Little Quemoy|24.433|118.245|TW|Fujian|80|f
+Little Tobago|11.299|-60.501|TT|Tobago|80|f
 Litovel|49.701|17.076|CZ|Olomouc Region|80
 Lititz|40.157|-76.307|US|Pennsylvania|79
 Little River|33.873|-78.614|US|South Carolina|79
+Little Diomede|65.753|-168.924|US|Alaska|79|f
+Little Tanaga Island|51.844|-176.164|US|Alaska|79|f
+Lituya Bay|58.637|-137.573|US|Alaska|79|f
 Little Falls|45.976|-94.362|US|Minnesota|79
 Litchfield|42.844|-71.480|US|New Hampshire|78
 Little Cottonwood Creek Valley|40.604|-111.829|US|Utah|78
 Little Bookham|51.281|-0.391|GB|England|78
 Littleport|52.458|0.306|GB|England|78
+Little San Bernardino Mountains|33.974|-116.317|US|California|78|f
 Litchfield|39.175|-89.654|US|Illinois|77
 Litóchoro|40.101|22.498|GR|Central Macedonia|77
 Litchfield|45.127|-94.528|US|Minnesota|76
 Lityn|49.327|28.087|UA|Vinnytsia|76
 Litija|46.060|14.822|SI|Municipality of Litija|76
+Little Rocky Mountains|48.009|-108.602|US|Montana|76|f
 Litzendorf|49.914|11.010|DE|Bavaria|76
 Littlefield|33.917|-102.325|US|Texas|76
 Little Silver|40.337|-74.047|US|New Jersey|75
@@ -54,17 +64,33 @@ Little Chalfont|51.668|-0.570|GB|England|73
 Littlestown|39.745|-77.088|US|Pennsylvania|73
 Littleton|44.306|-71.770|US|New Hampshire|73
 Liteni|47.520|26.528|RO|Suceava|73
+Little Grand Rapids Airport|52.046|-95.466|CA|Manitoba|72|f
 Litzelstetten|47.714|9.173|DE|Baden-Wurttemberg|72
 Lití|40.745|22.980|GR|Central Macedonia|70
 Little Paxton|52.250|-0.258|GB|England|70
 Liţa|43.800|24.817|RO|Teleorman County|70
+Litchfield Municipal Airport|45.097|-94.507|US|Minnesota|70|f
+Little Ararat|39.649|44.412|TR|Ağrı|70|f
+Little Bay de Noc|45.767|-87.013|US|Michigan|70|f
+Little Black River Peak|-20.405|57.409|MU|Black River|70|f
 Lith|51.806|5.439|NL|North Brabant|69
 Little Belize|18.198|-88.408|BZ|Corozal District|69
 Litvínovice|48.962|14.451|CZ|South Bohemian Region|69
 Littleton Common|42.546|-71.475|US|Massachusetts|69
 Little Flock|36.386|-94.135|US|Arkansas|69
+Litløya|68.596|14.321|NO|Nordland|69|f
+Little Belt Bridge|55.519|9.749|DK|South Denmark|69|f
+Little Bernera|58.265|-6.875|GB|Scotland|69|f
+Little Brewster Island|42.328|-70.891|US|Massachusetts|69|f
+Little Rock Zoo|34.746|-92.332|US|Arkansas|69|f
 Litovko|49.236|135.178|RU|Khabarovsk|69
 Little Amwell|51.783|-0.033|GB|England|68
+Litlmolla|68.198|14.748|NO|Nordland|67|f
+Little Bighorn Battlefield National Monument|45.565|-107.429|US|Montana|67|f
+Little Goose Lock and Dam|46.587|-118.026|US|Washington|67|f
+Little Jost Van Dyke|18.454|-64.720|VG||67|f
+Little Saint James Island|18.300|-64.825|VI|Saint Thomas Island|67|f
+Litueche Airport|-34.112|-71.719|CL|O'Higgins Region|67|f
 Little Dunmow|51.861|0.415|GB|England|67
 Little Current|45.979|-81.925|CA|Ontario|67
 Litky|50.709|30.749|UA|Kyiv Oblast|67
@@ -74,10 +100,25 @@ Lithonia|33.712|-84.105|US|Georgia|66
 Litér|47.101|18.005|HU|Veszprém|66
 Little River-Academy|30.986|-97.359|US|Texas|66
 Littlethorpe|52.568|-1.202|GB|England|66
+Little Bear Peak|37.567|-105.497|US|Colorado|65|f
+Little Ndrova Island|-2.224|147.219|PG|Manus Province|65|f
+Little Sitkin Island|51.944|178.519|US|Alaska|65|f
 Litta Parodi-Cascinagrossa|44.873|8.712|IT|Piedmont|65
 Lit-et-Mixe|44.032|-1.257|FR|New Aquitaine|64
 Littlebourne|51.274|1.167|GB|England|64
 Little Marlow|51.584|-0.740|GB|England|64
+Little Chebeague Island|43.712|-70.148|US|Maine|63|f
+Little Dinding Island|4.194|100.545|MY|Perak|63|f
+Little Dog Mountain|48.343|-113.387|US|Montana|63|f
+Little Duck Key|24.681|-81.232|US|Florida|63|f
+Little Egg Harbor|39.590|-74.273|US|New Jersey|63|f
+Little Kiska Island|51.953|177.659|US|Alaska|63|f
+Little Maria Mountains|33.882|-114.889|US|California|63|f
+Little Nicobar Island|7.335|93.683|IN|Andaman and Nicobar|63|f
+Little Quittacas Pond|41.793|-70.916|US|Massachusetts|63|f
+Little San Salvador|24.573|-75.932|BS|Cat Island|63|f
+Little Tahoma Peak|46.850|-121.712|US|Washington|63|f
+Litueche Midango Airport|-42.525|-72.815|CL|Los Lagos Region|63|f
 Litschau|48.944|15.045|AT|Lower Austria|63
 Littlerock|34.521|-117.984|US|California|63
 Liteni|47.302|27.038|RO|Iași County|63
@@ -90,12 +131,322 @@ Litchfield|41.747|-73.189|US|Connecticut|62
 Little Rock|47.868|-95.111|US|Minnesota|62
 Litzelsdorf|47.208|16.172|AT|Burgenland|61
 Lit|31.497|75.484|IN|Punjab|61
+Litle Sokumvatnet|66.960|14.266|NO|Nordland|61|f
+Litlekalsøy|60.041|5.080|NO|Vestland|61|f
+Little Bakkungaan Island|6.167|118.110|MY|Sabah|61|f
+Little Camas Dam|43.353|-115.386|US|Idaho|61|f
+Little Chestnut Mountain|35.941|-81.777|US|North Carolina|61|f
+Little Chief Mountain|48.645|-113.595|US|Montana|61|f
+Little Chuckwalla Mountains|33.456|-115.417|US|California|61|f
+Little Cone|37.927|-108.091|US|Colorado|61|f
+Little Desert National Park|-36.514|141.998|AU|Victoria|61|f
+Little Dragoon Mountains|32.112|-110.094|US|Arizona|61|f
+Little Falls Dam|45.975|-94.369|US|Minnesota|61|f
+Little Haystack Mountain|44.141|-71.645|US|New Hampshire|61|f
+Little Jason Lagoon|-54.183|-36.600|GS||61|f
+Little Lake Butte Des Morts|44.213|-88.462|US|Wisconsin|61|f
+Little Mountain|35.570|-85.281|US|Tennessee|61|f
+Little Piton Island|30.032|-16.049|PT|Madeira|61|f
+Little Piute Mountains|34.644|-115.050|US|California|61|f
+Little Scrub Island|18.298|-62.956|AI||61|f
+Little Si|47.499|-121.756|US|Washington|61|f
+Little Whale Cay|25.448|-77.760|BS|Berry Islands|61|f
+Little Yellow Mountain|36.065|-82.069|US|North Carolina|61|f
+Littles Peak|43.806|-110.870|US|Wyoming|61|f
 Lit|63.320|14.846|SE|Jämtland|61
 Little Valley|42.253|-78.806|US|New York|61
 Little Round Lake|45.965|-91.368|US|Wisconsin|61
 Little Weighton|53.790|-0.507|GB|England|60
+Little Wymondley|51.933|-0.236|GB|England|60
+Littleton|46.231|-67.841|US|Maine|60
+Littleville|34.591|-87.677|US|Alabama|60
+Liteň|49.904|14.149|CZ|Central Bohemia|60
+Littleville|34.251|-87.575|US|Alabama|59
+Litiara|8.620|-4.696|CI|Vallée du Bandama District|59
+Litlington|52.067|-0.088|GB|England|59
+Littletown|32.130|-110.873|US|Arizona|59
+Litio|9.369|-5.851|CI|Savanes District|58
+Little Annapurna|47.468|-120.815|US|Washington|58|f
+Little Cacapon Mountain|39.350|-78.610|US|West Virginia|58|f
+Little Creek Peak|37.881|-112.612|US|Utah|58|f
+Little Dog Island|-40.250|148.200|AU|Tasmania|58|f
+Little Farmer's Cay|23.957|-76.322|BS|Black Point|58|f
+Little Frog Mountain|35.094|-84.420|US|Tennessee|58|f
+Little Gasparilla Island|26.830|-82.291|US|Florida|58|f
+Little Goose Island|-40.295|147.784|AU|Tasmania|58|f
+Little Hatchet Mountains|31.847|-108.457|US|New Mexico|58|f
+Little High Rock Mountains|41.304|-119.484|US|Nevada|58|f
+Little Island|-31.812|115.709|AU|Western Australia|58|f
+Little Island|52.247|-7.049|IE|Munster|58|f
+Little Island|38.891|-77.059|US|District of Columbia|58|f
+Little Marys River Covered Bridge|37.949|-89.766|US|Illinois|58|f
+Little Mule Mountains|33.308|-115.089|US|California|58|f
+Little Mullet Key|24.582|-81.950|US|Florida|58|f
+Little River Airport|39.263|-123.753|US|California|58|f
+Little Rocky Pond|41.797|-70.608|US|Massachusetts|58|f
+Little Shell Island|48.670|-123.378|CA|British Columbia|58|f
+Little Signal Hills|35.093|-119.442|US|California|58|f
+Little Sugar Loaf|53.165|-6.117|IE|Leinster|58|f
+Little Sunapee Lake|43.433|-72.019|US|New Hampshire|58|f
+Little Tancook Island|44.472|-64.133|CA|Nova Scotia|58|f
+Little Tybee Island|31.975|-80.891|US|Georgia|58|f
+Little Wolf Mountains|45.842|-106.911|US|Montana|58|f
+Lituya Mountain|58.806|-137.436|US|Alaska|58|f
+Littleton|-33.496|150.140|AU|New South Wales|58
+Litultovice|49.904|17.751|CZ|Moravian-Silesian Region|58
+Lithoijen|51.803|5.464|NL|North Brabant|57
+Little Falls|43.731|-70.428|US|Maine|57
+Lithótopos|41.134|23.222|GR|Central Macedonia|57
+Little Italy|39.287|-76.601|US|Maryland|57
+Little Plumstead|52.658|1.419|GB|England|56
+Littleton|36.435|-77.912|US|North Carolina|56
+Lit|31.804|75.769|IN|Punjab|56
+Little Gaddesden|51.810|-0.562|GB|England|56
+Littlefork|48.399|-93.556|US|Minnesota|56
+Little Walsingham|52.895|0.874|GB|England|56
+Littlebury|52.035|0.210|GB|England|55
+Little River|38.398|-98.012|US|Kansas|55
+Lithaire|49.300|-1.483|FR|Normandy|55
+Litchfield Island|-64.771|-64.091|AQ||54|f
+Litlabø|59.788|5.418|NO|Vestland|54|f
+Litlesotra|60.359|5.137|NO|Vestland|54|f
+Little Anegada Island|18.696|-64.276|VG||54|f
+Little Assawoman Bay|38.475|-75.064|US|Delaware|54|f
+Little Beaver State Park Lake Dam|37.750|-81.075|US|West Virginia|54|f
+Little Belt Mountains|46.838|-110.718|US|Montana|54|f
+Little Burro Mountains|32.700|-108.367|US|New Mexico|54|f
+Little Colonsay|56.451|-6.259|GB|Scotland|54|f
+Little Cranberry Island|44.258|-68.229|US|Maine|54|f
+Little Crater Lake|45.148|-121.751|US|Oregon|54|f
+Little Crawl Key|24.743|-80.985|US|Florida|54|f
+Little Cultus Lake|43.803|-121.874|US|Oregon|54|f
+Little Diamond Island|43.668|-70.209|US|Maine|54|f
+Little Falls Dam|38.949|-77.128|US|Maryland|54|f
+Little Goat Island|17.885|-77.067|JM|Saint Catherine Parish|54|f
+Little Gull Island|45.499|-86.715|US|Michigan|54|f
+Little Havra Island|60.017|-1.367|GB|Scotland|54|f
+Little Inagua|21.497|-73.006|BS|Inagua|54|f
+Little Kennesaw Mountain|33.971|-84.587|US|Georgia|54|f
+Little Magothy River|39.046|-76.430|US|Maryland|54|f
+Little Monadnock Mountain|42.790|-72.206|US|New Hampshire|54|f
+Little Ormes Head|53.333|-3.767|GB|Wales|54|f
+Little Petra|30.375|35.450|JO|Ma’an|54|f
+Little Redfish Lake|44.155|-114.914|US|Idaho|54|f
+Little River State Beach|41.016|-124.110|US|California|54|f
+Little Rock Lake|45.732|-94.169|US|Minnesota|54|f
+Little Roe Island|60.500|-1.267|GB|Scotland|54|f
+Little Ross|54.766|-4.085|GB|Scotland|54|f
+Little San Pascual Mountain|33.721|-106.860|US|New Mexico|54|f
+Little Skookum Inlet|47.144|-123.061|US|Washington|54|f
+Little Sound|32.262|-64.847|BM|Southampton|54|f
+Little Summer Island|45.606|-86.694|US|Michigan|54|f
+Little Teton Mountain|61.248|-149.504|US|Alaska|54|f
+Little Torch Key|24.669|-81.391|US|Florida|54|f
+Little Traverse Bay|45.400|-85.026|US|Michigan|54|f
+Little West Pond|41.922|-70.706|US|Massachusetts|54|f
+Little Whale Cay Airport|25.450|-77.759|BS|Berry Islands|54|f
+Littleton Island|78.366|-72.851|GL|Avannaata|54|f
+Littleville Lake|42.265|-72.881|US|Massachusetts|54|f
+Lituya Glacier|58.735|-137.445|US|Alaska|54|f
+Litchfield Park|-13.279|130.877|AU|Northern Territory|49|f
+Litoranea Veneta|45.733|13.550|IT|Friuli Venezia Giulia|49|f
+Littabella National Park|-24.600|152.069|AU|Queensland|49|f
+Little Anderson Island|-40.290|148.110|AU|Tasmania|49|f
+Little Badger Island|-40.300|147.910|AU|Tasmania|49|f
+Little Barrier Island|-36.200|175.083|NZ||49|f
+Little Betsey Island|-43.066|147.482|AU|Tasmania|49|f
+Little Blue Lake|-37.928|140.680|AU|South Australia|49|f
+Little Blue Mountain|43.884|-74.478|US|New York|49|f
+Little Burhou|49.728|-2.266|GG||49|f
+Little Calf Island|42.346|-70.894|US|Massachusetts|49|f
+Little Camanoe|18.458|-64.543|VG||49|f
+Little Cathead Mountain|43.262|-74.308|US|New York|49|f
+Little Cay|18.440|-64.539|VG||49|f
+Little Chalky Island|-40.130|147.890|AU|Tasmania|49|f
+Little Charity Island|44.003|-83.466|US|Michigan|49|f
+Little Christmas Island|-42.258|148.026|AU|Tasmania|49|f
+Little Costilla Peak|36.833|-105.222|US|New Mexico|49|f
+Little Cumbrae Island|55.722|-4.953|GB|Scotland|49|f
+Little Darby Island Airport|23.858|-76.223|BS|Black Point|49|f
+Little Devil Peak|48.577|-121.268|US|Washington|49|f
+Little Dip Conservation Park|-37.235|139.793|AU|South Australia|49|f
+Little Giant Peak|37.796|-107.599|US|Colorado|49|f
+Little Green Island|-40.220|148.250|AU|Tasmania|49|f
+Little Hog Island|46.070|-85.290|US|Michigan|49|f
+Little Holm|60.550|-1.267|GB|Scotland|49|f
+Little Island|-34.950|136.025|AU|South Australia|49|f
+Little Island|-39.822|147.825|AU|Tasmania|49|f
+Little Island|38.180|-122.351|US|California|49|f
+Little Lake|-41.910|146.980|AU|Tasmania|49|f
+Little Linga|60.367|-1.050|GB|Scotland|49|f
+Little Matterhorn|-53.067|73.483|HM||49|f
+Little Mill Mountain|43.803|-74.280|US|New York|49|f
+Little Nerang Dam|-28.148|153.284|AU|Queensland|49|f
+Little Oswego Island|32.367|-64.661|BM|Saint Georgeʼs|49|f
+Little Popple|43.335|-74.310|US|New York|49|f
+Little Razorback Island|-77.668|166.531|AQ||49|f
+Little Roundtop Mountain|43.333|-74.337|US|New York|49|f
+Little Santa Cruz Island|6.884|122.043|PH|Zamboanga Peninsula|49|f
+Little Sark|49.415|-2.373|GG||49|f
+Little Snaggy Mountain|39.490|-79.284|US|Maryland|49|f
+Little Sparta|55.724|-3.509|GB|Scotland|49|f
+Little Stirrup Cay|25.817|-77.939|BS|Berry Islands|49|f
+Little Swan Island|-40.724|148.081|AU|Tasmania|49|f
+Little Tobago|18.433|-64.850|VG||49|f
+Little Tonshi Mountain|42.000|-74.201|US|New York|49|f
+Little Trefoil|-40.640|144.700|AU|Tasmania|49|f
+Little Venice Island|38.050|-121.501|US|California|49|f
+Little Waterhouse Island|-40.820|147.620|AU|Tasmania|49|f
+Little Whernside|54.200|-1.967|GB|England|49|f
+Little Wood Dam|43.425|-114.027|US|Idaho|49|f
+Littlefield Fountain|30.284|-97.740|US|Texas|49|f
+Littlepage, Mount|-77.200|160.050|AQ||49|f
 Litago|41.814|-1.753|ES|Aragon|46
 Lituénigo|41.835|-1.762|ES|Aragon|42
+Liternum|40.921|14.030|IT|Campania|40|f
+Lithia Park|42.189|-122.719|US|Oregon|40|f
+Littick Field|40.292|-83.064|US|Ohio|40|f
+Little Abitibi Provincial Park|49.583|-80.833|CA|Ontario|40|f
+Little Ajo Mountains|32.352|-112.875|US|Arizona|40|f
+Little Alberta|52.273|-117.437|CA|Alberta|40|f
+Little Albro Lake|44.684|-63.577|CA|Nova Scotia|40|f
+Little Barnwell Island|32.503|-80.795|US|South Carolina|40|f
+Little Baron Lake|44.088|-115.034|US|Idaho|40|f
+Little Bay|47.650|-55.237|CA|Newfoundland and Labrador|40|f
+Little Bay|49.600|-55.948|CA|Newfoundland and Labrador|40|f
+Little Beach Hill|41.901|-70.072|US|Massachusetts|40|f
+Little Bear Lake|54.333|-104.584|CA|Saskatchewan|40|f
+Little Beaver Lakes|45.850|-61.015|CA|Nova Scotia|40|f
+Little Bitterroot Lake|48.114|-114.716|US|Montana|40|f
+Little Bitterroot Lake|48.114|-114.716|US|Montana|40|f
+Little Bolton Lake|54.173|-96.212|CA|Manitoba|40|f
+Little Bonnet Lake|27.561|-81.476|US|Florida|40|f
+Little Boot Lake|47.464|-95.000|US|Minnesota|40|f
+Little Bow Provincial Park|50.217|-112.935|CA|Alberta|40|f
+Little Bowman Pond|42.645|-73.483|US|New York|40|f
+Little Branch Lake|45.313|-78.243|CA|Ontario|40|f
+Little Bull Lake|46.439|-82.214|CA|Ontario|40|f
+Little Bull Lake|47.092|-80.569|CA|Ontario|40|f
+Little Camping Island|68.593|-113.715|CA|Nunavut|40|f
+Little Canyon|52.887|-122.272|CA|British Columbia|40|f
+Little Cedar Lake|43.376|-88.228|US|Wisconsin|40|f
+Little Chicken Island|41.767|-82.783|CA|Ontario|40|f
+Little Coon Lake|45.312|-93.111|US|Minnesota|40|f
+Little Cornwallis Island|75.502|-96.502|CA|Nunavut|40|f
+Little Cranberry Lake|44.659|-63.714|CA|Nova Scotia|40|f
+Little Cranberry Lake|44.638|-65.035|CA|Nova Scotia|40|f
+Little Cranberry Lake|44.837|-62.695|CA|Nova Scotia|40|f
+Little Deer Lake|45.386|-66.374|CA|New Brunswick|40|f
+Little Dell Reservoir|40.773|-111.694|US|Utah|40|f
+Little Diamond Pond|43.802|-74.933|US|New York|40|f
+Little Dummy Lake|45.578|-91.988|US|Wisconsin|40|f
+Little Egg Inlet|39.498|-74.317|US|New Jersey|40|f
+Little Elbow Lake|47.182|-95.604|US|Minnesota|40|f
+Little England|37.252|-76.476|US|Virginia|40|f
+Little Ferguson Lake|45.952|-60.114|CA|Nova Scotia|40|f
+Little Ferry Seaplane Base|40.850|-74.032|US|New Jersey|40|f
+Little Fish Lake|51.377|-112.234|CA|Alberta|40|f
+Little Fish Lake Provincial Park|51.367|-112.202|CA|Alberta|40|f
+Little Fishing Lake|53.867|-109.551|CA|Saskatchewan|40|f
+Little Frog Lake|44.080|-114.542|US|Idaho|40|f
+Little Galloo Island|43.886|-76.395|US|New York|40|f
+Little Gibson Lake|48.452|-80.817|CA|Ontario|40|f
+Little Goose National Wildlife Refuge|47.930|-97.842|US|North Dakota|40|f
+Little Grand Lake|44.962|-63.575|CA|Nova Scotia|40|f
+Little Grass Valley Reservoir|39.729|-120.990|US|California|40|f
+Little Grassy Lake|45.181|-66.509|CA|New Brunswick|40|f
+Little Grassy Lake|37.629|-89.143|US|Illinois|40|f
+Little Green Island|60.205|-147.509|US|Alaska|40|f
+Little Gull Island|41.206|-72.107|US|New York|40|f
+Little Hall Island|62.516|-64.167|CA|Nunavut|40|f
+Little Harbor|45.791|-86.388|US|Michigan|40|f
+Little Harbour Lake|43.709|-65.055|CA|Nova Scotia|40|f
+Little Hardwood Hill|43.641|-74.318|US|New York|40|f
+Little Harle Tower|55.145|-1.980|GB|England|40|f
+Little Harquahala Mountains|33.686|-113.606|US|Arizona|40|f
+Little Hell Gate Bridge (historical)|40.791|-73.923|US|New York|40|f
+Little Herring Pond|41.825|-70.575|US|Massachusetts|40|f
+Little Horseshoe Lake|45.591|-93.069|US|Minnesota|40|f
+Little Independence Pond|43.803|-74.958|US|New York|40|f
+Little Indian Lake|41.912|-86.282|US|Michigan|40|f
+Little Kelk|54.025|-0.330|GB|England|40|f
+Little Kennebec Bay|44.627|-67.433|US|Maine|40|f
+Little Lake|45.617|-61.835|CA|Nova Scotia|40|f
+Little Lake Hamilton|28.071|-81.634|US|Florida|40|f
+Little Larcom Mountain|43.811|-71.315|US|New Hampshire|40|f
+Little Lava Lake|43.911|-121.757|US|Oregon|40|f
+Little Lillooet Lake|50.111|-122.534|CA|British Columbia|40|f
+Little Limestone Lake|53.750|-99.334|CA|Manitoba|40|f
+Little Long Pond|41.869|-70.613|US|Massachusetts|40|f
+Little Lost Lake|43.737|-114.660|US|Idaho|40|f
+Little Machias Bay|44.649|-67.258|US|Maine|40|f
+Little MacLeod Lake|45.957|-60.106|CA|Nova Scotia|40|f
+Little Manatee River State Park|27.671|-82.355|US|Florida|40|f
+Little Manitou Lake|51.733|-105.501|CA|Saskatchewan|40|f
+Little Maquoketa River Mounds State Preserve|42.566|-90.708|US|Iowa|40|f
+Little Matterhorn|48.636|-113.785|US|Montana|40|f
+Little Merrill Lake|44.910|-77.396|CA|Ontario|40|f
+Little Mink Lake|44.910|-77.373|CA|Ontario|40|f
+Little Misema Lake|48.291|-79.646|CA|Ontario|40|f
+Little Moose Lake|43.691|-74.922|US|New York|40|f
+Little Moose Mountain|43.693|-74.952|US|New York|40|f
+Little Mountain|49.241|-123.115|CA|British Columbia|40|f
+Little Mountain|41.635|-81.274|US|Ohio|40|f
+Little Narragansett Bay|41.320|-71.866|US|Connecticut|40|f
+Little Neck Bay|40.788|-73.762|US|New York|40|f
+Little Pend Oreille National Wildlife Refuge|48.462|-117.655|US|Washington|40|f
+Little Pike Bay|44.900|-81.366|CA|Ontario|40|f
+Little Pine Mountain|34.601|-119.739|US|California|40|f
+Little Pine State Park|41.379|-77.340|US|Pennsylvania|40|f
+Little Pockwock Lake|44.769|-63.860|CA|Nova Scotia|40|f
+Little Pond|41.942|-70.685|US|Massachusetts|40|f
+Little Qualicum Falls Provincial Park|49.317|-124.549|CA|British Columbia|40|f
+Little Red Trout Lake|44.814|-63.544|CA|Nova Scotia|40|f
+Little Red Water Lake|27.540|-81.471|US|Florida|40|f
+Little Rincon Mountains|32.168|-110.413|US|Arizona|40|f
+Little River Canyon National Preserve|34.415|-85.617|US|Alabama|40|f
+Little River National Wildlife Refuge|33.941|-94.684|US|Oklahoma|40|f
+Little Rock Central High School National Historic Site|34.737|-92.300|US|Arkansas|40|f
+Little Rocky|41.919|-74.332|US|New York|40|f
+Little Rocky Mountain|42.115|-74.204|US|New York|40|f
+Little Round Top|39.792|-77.236|US|Pennsylvania|40|f
+Little Roundtop|43.661|-75.043|US|New York|40|f
+Little Sachigo Lake|54.148|-92.201|CA|Ontario|40|f
+Little Safford Lake|43.759|-74.965|US|New York|40|f
+Little Sahara State Recreation Area|36.533|-98.882|US|Oklahoma|40|f
+Little Salt Lake|37.904|-112.896|US|Utah|40|f
+Little Salt Spring|27.075|-82.233|US|Florida|40|f
+Little Sand Lake|47.252|-93.281|US|Minnesota|40|f
+Little Sandy Bottom Pond|42.041|-70.831|US|Massachusetts|40|f
+Little Sandy National Wildlife Refuge|32.576|-95.247|US|Texas|40|f
+Little Sandy Pond|41.796|-70.603|US|Massachusetts|40|f
+Little Sarsfield Lake|48.160|-80.343|CA|Ontario|40|f
+Little Sauk Lake|45.858|-94.984|US|Minnesota|40|f
+Little Seneca Lake|39.192|-77.302|US|Maryland|40|f
+Little Shuswap Lake|50.849|-119.644|CA|British Columbia|40|f
+Little Simon Pond|43.733|-75.041|US|New York|40|f
+Little Sioux River Bridge|43.163|-95.170|US|Iowa|40|f
+Little Sister|48.690|-122.760|US|Washington|40|f
+Little Snowy Mountains|46.757|-109.160|US|Montana|40|f
+Little South Pond|41.915|-70.675|US|Massachusetts|40|f
+Little Spangle Lake|43.944|-115.031|US|Idaho|40|f
+Little Squam Lake|43.721|-71.603|US|New Hampshire|40|f
+Little Sucker Lake|46.697|-79.397|CA|Ontario|40|f
+Little Swan Lake|40.667|-90.539|US|Illinois|40|f
+Little Talbot Island State Park|30.460|-81.416|US|Florida|40|f
+Little Trout Bay|48.067|-89.450|CA|Ontario|40|f
+Little Trout Pond|44.096|-74.652|US|New York|40|f
+Little White Mountain|49.700|-119.336|CA|British Columbia|40|f
+Little Woodhull Lake|43.532|-74.991|US|New York|40|f
+Little Yirkie Lake|45.152|-77.319|CA|Ontario|40|f
+Litz Glacier|-72.117|-99.067|AQ||40|f
+Lita|27.359|116.536|CN|Jiangxi|0
+Litan|30.580|113.563|CN|Hubei|0
+Litian|27.211|114.729|CN|Jiangxi|0
+Litian|27.017|114.140|CN|Jiangxi|0
+Litian|26.015|116.700|CN|Fujian|0
+Litibakul|-9.700|119.436|ID|East Nusa Tenggara|0
+Litou|25.435|112.102|CN|Hunan|0
 Little Barford|52.199|-0.273|GB|England|0
 Little Cayman|19.661|-80.110|KY|Sister Island|0
 Little Houghton|53.546|-1.360|GB|England|0

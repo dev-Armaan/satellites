@@ -1,5 +1,5 @@
 Antioquia|7.000|-75.500|CO||134|r
-Antalya|36.770|31.902|TR||129|r
+Antalya|36.770|31.902|TR||130|r
 Antananarivo|-18.914|47.536|MG|Analamanga|123
 Antalya|36.908|30.696|TR|Antalya|123
 Antipolo|14.626|121.123|PH|Calabarzon|119
@@ -25,12 +25,16 @@ Antsohihy|-14.880|47.988|MG|Sofia|92
 Antakalnis|54.708|25.317|LT|Vilnius|92
 Antiguo Cuscatlán|13.665|-89.253|SV|La Libertad Department|91
 Anta|25.150|76.300|IN|Rajasthan|90
+Antwerp International Airport|51.189|4.460|BE|Flanders|90|f
 Antsohimbondrona|-13.083|48.850|MG|Diana|90
 An Trạch|9.069|105.396|VN|Ca Mau|89
+Antonio B. Won Pat International Airport|13.483|144.798|GU|Barrigada|88|f
 Anthem|33.860|-112.112|US|Arizona|87
+Anti-Atlas|30.000|-8.500|MA|Souss-Massa|87|f
 Anthiyur|11.575|77.590|IN|Tamil Nadu|86
 Antrim|54.718|-6.211|GB|Northern Ireland|86
 Antonina|-25.429|-48.712|BR|Paraná|86
+Anti-Lebanon|34.000|36.500|LB||85|f
 Antioch|42.477|-88.096|US|Illinois|83
 Antas|-10.412|-38.331|BR|Bahia|83
 Antônio Prado|-28.858|-51.283|BR|Rio Grande do Sul|82
@@ -42,12 +46,14 @@ Antarjal|23.054|70.083|IN|Gujarat|81
 Antônio Carlos|-27.517|-48.767|BR|Santa Catarina|81
 Antônio Cardoso|-12.435|-39.120|BR|Bahia|81
 Antônio Carlos|-21.318|-43.747|BR|Minas Gerais|81
+Antikythera|35.867|23.304|GR|Attica|81|f
 Antakotako|-15.317|49.800|MG|Analanjirofo|81
 Anta|41.266|-8.628|PT|Porto|81
 Antônio Gonçalves|-10.572|-40.276|BR|Bahia|81
 Antyfiyivka|50.486|30.470|UA|Kyiv City|80
 Antri|26.058|78.210|IN|Madhya Pradesh|80
 Anthicad|10.458|76.121|IN|Kerala|80
+Antalya Airport|36.899|30.800|TR|Antalya|80|f
 Antônio João|-22.191|-55.947|BR|Mato Grosso do Sul|79
 Anthony|32.004|-106.606|US|New Mexico|79
 Antônio Dias|-19.653|-42.872|BR|Minas Gerais|79
@@ -55,6 +61,8 @@ Antúnez (Morelos)|19.013|-102.204|MX|Michoacán|79
 Antúnez|19.016|-102.206|MX|Michoacán|79
 Antu|26.057|81.903|IN|Uttar Pradesh|78
 Antigo|45.140|-89.152|US|Wisconsin|78
+Antigua|17.076|-61.795|AG||78|f
+Antipaxos|39.149|20.232|GR|Ionian Islands|78|f
 Antoing|50.568|3.449|BE|Wallonia|78
 Antipolo|10.357|122.965|PH|Western Visayas|77
 Ant|27.443|80.469|IN|Uttar Pradesh|77
@@ -67,12 +75,17 @@ Antônio Martins|-6.213|-37.906|BR|Rio Grande do Norte|76
 Antón Lizardo|19.060|-95.993|MX|Veracruz|76
 Anta Gorda|-28.970|-52.005|BR|Rio Grande do Sul|76
 Anta|-13.471|-72.148|PE|Cuzco Department|75
+Anthedon|38.498|23.449|GR|Central Greece|75|f
+Antsirabato Airport|-14.999|50.320|MG|Sava|75|f
 Anthony|31.999|-106.606|US|Texas|75
 Antonio Escobedo|20.800|-104.017|MX|Jalisco|74
+Antlers Municipal Airport|34.192|-95.651|US|Oklahoma|74|f
 Antipino|57.107|65.758|RU|Tyumen Oblast|74
 Antanhol|40.168|-8.463|PT|Coimbra|74
 Antipolo|13.529|123.162|PH|Bicol Region|74
 Antigonish|45.617|-61.999|CA|Nova Scotia|74
+Ant Atoll|6.780|157.961|FM|Pohnpei State|73|f
+Anti-Taurus Mountains|37.917|35.217|TR||73|f
 Antipolo|11.167|123.950|PH|Central Visayas|73
 Antheit|50.549|5.240|BE|Wallonia|73
 Anthisnes|50.483|5.519|BE|Wallonia|72
@@ -80,6 +93,10 @@ Antagan Segunda|17.283|121.872|PH|Cagayan Valley|72
 Antanimena|-23.550|44.100|MG|Atsimo-Andrefana|72
 Antuco|-37.330|-71.675|CL|Biobio|72
 Antropovo|58.400|43.008|RU|Kostroma Oblast|71
+Antelao|46.452|12.262|IT|Veneto|71|f
+Anticosti Island|49.500|-62.999|CA|Quebec|71|f
+Antonio Maceo International Airport|19.970|-75.835|CU|Santiago de Cuba Province|71|f
+Antsiranana Bay|-12.236|49.306|MG|Diana|71|f
 Antonio Amaro|24.277|-104.017|MX|Durango|71
 Antipolo|15.618|121.190|PH|Central Luzon|71
 Antessano|40.733|14.777|IT|Campania|71
@@ -91,11 +108,14 @@ Antipovka|49.830|45.312|RU|Volgograd Oblast|70
 Antegnate|45.486|9.791|IT|Lombardy|69
 Antella|43.728|11.322|IT|Tuscany|69
 Antequera|-24.085|-57.202|PY|San Pedro Department|69
+Antler Peak|44.869|-110.836|US|Wyoming|69|f
+Antonio Roldán Betancourt Airport|7.812|-76.716|CO|Antioquia|69|f
 Antirrio|38.330|21.764|GR|West Greece|68
 Antrodoco|42.415|13.077|IT|Lazio|68
 Antlers|34.231|-95.620|US|Oklahoma|67
 Ant|26.462|80.106|IN|Uttar Pradesh|67
 Antonio Rosales|27.351|-109.853|MX|Sonora|67
+Antora Peak|38.325|-106.218|US|Colorado|67|f
 Antipolo|13.393|123.523|PH|Bicol Region|67
 Antimácheia|36.809|27.098|GR|South Aegean|67
 Anthony|37.153|-98.031|US|Kansas|67
@@ -106,6 +126,12 @@ Antonivka|46.143|32.952|UA|Kherson|66
 An Thới|10.019|104.015|VN|An Giang|66
 Anthy-sur-Léman|46.355|6.427|FR|Auvergne-Rhône-Alpes|65
 Antigua Ocotepeque|14.401|-89.200|HN|Ocotepeque Department|65
+An Teallach|57.807|-5.252|GB|Scotland|65|f
+Antelope Island|40.958|-112.207|US|Utah|65|f
+Antelope Range|39.965|-114.401|US|Nevada|65|f
+Anthony Peak|39.846|-122.964|US|California|65|f
+Antofagasta Airport|-23.444|-70.445|CL|Antofagasta|65|f
+Antonio Rivera Rodríguez Airport|18.135|-65.490|PR|Vieques|65|f
 Antriftal|50.794|9.186|DE|Hesse|65
 Antón Ruiz|18.185|-65.808|PR|Humacao|65
 Anton|42.735|24.260|BG|Sofia|65
@@ -120,6 +146,10 @@ Antrain|48.460|-1.485|FR|Brittany|64
 Antonio J Bermúdez|22.150|-98.159|MX|Veracruz|64
 Anton’yevka|51.996|83.974|RU|Altai Krai|64
 Antella|39.080|-0.592|ES|Valencia|64
+Antarcticøya|78.672|26.631|SJ||63|f
+Antelope Hills|35.535|-119.806|US|California|63|f
+Antioch Bridge|38.025|-121.751|US|California|63|f
+Antoine de Saint Exupéry Airport|-40.752|-65.033|AR|Rio Negro|63|f
 Antrim|43.031|-71.939|US|New Hampshire|63
 Antopal’|52.204|24.786|BY|Brest|63
 Antigny|46.620|-0.769|FR|Pays de la Loire|62
@@ -128,35 +158,134 @@ Antsahé|-12.356|44.523|KM|Anjouan|61
 Antonne|45.213|0.830|FR|New Aquitaine|61
 Antran|46.855|0.541|FR|New Aquitaine|61
 Anton|33.811|-102.164|US|Texas|61
+Antarctandes|-68.054|-66.296|AQ||61|f
+Antelope Range|40.746|-118.500|US|Nevada|61|f
+Antigone Island|40.880|29.062|TR|Istanbul|61|f
+Antilles|18.733|-69.150|AN||61|f
+Anton Island|-66.033|134.467|AQ||61|f
+Antonio (Nery) Juarbe Pol Airport|18.450|-66.675|PR|Arecibo|61|f
 Antdorf|47.751|11.308|DE|Bavaria|61
 Antalovtsi|48.626|22.516|UA|Zakarpattia|60
 Antonio Rosales|28.077|-110.612|MX|Sonora|60
+Antiesenhofen|48.345|13.400|AT|Upper Austria|60
+Anthon|45.791|5.171|FR|Auvergne-Rhône-Alpes|60
+Antrosano|42.064|13.410|IT|Abruzzo|59
+Ántheia|40.871|25.990|GR|East Macedonia and Thrace|59
+Antiguo Tamuín|21.991|-98.766|MX|San Luis Potosí|59
 Antillo|37.979|15.240|IT|Sicily|59
+Antipino|53.300|85.833|RU|Altai Krai|59
+Antnäs|65.555|21.836|SE|Norrbotten|59
+Antonio Rosales|25.902|-108.944|MX|Sinaloa|59
 Anticoli Corrado|42.008|12.990|IT|Lazio|59
+Antifílippoi|40.946|24.211|GR|East Macedonia and Thrace|59
+Antypivka|49.722|32.065|UA|Cherkasy|59
+Antully|46.904|4.410|FR|Bourgogne-Franche-Comté|59
+Antelope|43.303|-100.629|US|South Dakota|58
+Ántissa|39.234|25.980|GR|North Aegean|58
+Antonivka|47.547|29.616|UA|Odesa|58
+Antarcticbukta|78.829|27.996|SJ||58|f
+Antarcticfjellet|74.366|19.087|SJ|Svalbard|58|f
+Antimony Peak|34.877|-119.112|US|California|58|f
+Antisana|-0.485|-78.142|EC|Napo|58|f
+Antler Peak|46.920|-121.632|US|Washington|58|f
+Antoniabreen|77.482|14.975|SJ|Svalbard|58|f
+Antonivanovtsi|41.900|24.450|BG|Smolyan|58|f
+Anten Mills|44.481|-79.817|CA|Ontario|58
+Anta|18.109|-93.135|MX|Tabasco|58
+Antonito|37.079|-106.009|US|Colorado|58
 Antau|47.774|16.480|AT|Burgenland|58
+Antica Colle Piscioso|41.662|13.482|IT|Lazio|57
+Anterselva di Mezzo|46.859|12.100|IT|Trentino-Alto Adige|57
+Antlantlacpac|19.125|-99.431|MX|México|57
+Antonelli|40.896|17.235|IT|Apulia|57
+Antonyuky|47.442|30.709|UA|Odesa|57
+Antwerp|44.199|-75.607|US|New York|57
+Anthoúsa|39.299|20.373|GR|Epirus|57
+Antonio M. Quirazco|20.563|-97.601|MX|Puebla|57
+Anta|-12.271|-74.963|PE|Huancavelica|56
+Antiguo Caporalco|18.540|-97.162|MX|Puebla|56
+Antigny|46.535|0.854|FR|New Aquitaine|56
 Anta|-9.357|-77.598|PE|Ancash|56
+Antin|45.382|18.751|HR|Vukovar-Srijem|56
+Antonivka|47.523|32.087|UA|Mykolaiv|55
+Antróni|37.803|21.722|GR|West Greece|55
+Anthí|40.944|23.506|GR|Central Macedonia|55
+Antweiler|50.400|6.833|DE|Rheinland-Pfalz|55
+Anthon|42.388|-95.867|US|Iowa|55
 Antaparco|-13.076|-74.412|PE|Huancavelica|55
 Antrona Schieranco|46.060|8.115|IT|Piedmont|55
+Antraigues-sur-Volane|44.718|4.358|FR|Auvergne-Rhône-Alpes|54
+Anta Huaraz|-9.347|-77.598|PE|Ancash|54|f
+Antalya Atatürk Stadyumu|36.879|30.708|TR|Antalya|54|f
+Antarctic Bay|-54.105|-37.003|GS||54|f
+Antechamber Bay|-35.788|138.090|AU|South Australia|54|f
+Antelope Flat Reservoir|44.006|-120.382|US|Oregon|54|f
+Antelope Hill|32.704|-114.016|US|Arizona|54|f
+Antenna Island|-69.001|39.583|AQ||54|f
+Antevs Glacier|-67.343|-66.836|AQ||54|f
+Anthony Glacier|-69.724|-62.845|AQ||54|f
+Anthony Lakes|44.960|-118.231|US|Oregon|54|f
+Anthony Municipal Airport|37.154|-98.078|US|Kansas|54|f
+Anthony Wayne Bridge|41.641|-83.534|US|Ohio|54|f
+Anthracite Range|38.814|-107.144|US|Colorado|54|f
+Antietam National Battlefield|39.470|-77.738|US|Maryland|54|f
+Antipodes Island Group|-49.667|178.767|NZ||54|f
+Antonelli Pond|36.956|-122.061|US|California|54|f
+Antonine Wall|55.967|-4.067|GB|Scotland|54|f
+Antônio Ribeiro Nogueira Jr. State Airport|-24.163|-46.787|BR|São Paulo|54|f
 Anta|-12.812|-74.639|PE|Huancavelica|54
 Antonimina|38.273|16.148|IT|Calabria|54
+Antapallpa|-14.130|-71.718|PE|Cuzco Department|54
 Antignano|44.845|8.135|IT|Piedmont|52
 Antigüedad|41.947|-4.121|ES|Castille and León|52
 Antronapiana|46.061|8.115|IT|Piedmont|52
+Ant Hill Glacier|-78.817|161.500|AQ||49|f
+Antaeopolis|26.950|31.500|EG|Sohag|49|f
+Antiochia Ad Cragum|36.157|32.415|TR|Antalya|49|f
+Antique Boat Museum|44.238|-76.089|US|New York|49|f
+Antler Mine|34.883|-113.969|US|Arizona|49|f
+Antoinette Tubman Stadium|6.300|-10.800|LR|Montserrado County|49|f
+Antonov 1 National Airport|50.479|30.384|UA|Kyiv City|49|f
+Antvorskov|55.383|11.383|DK|Zealand|49|f
 Anthiró|39.347|21.458|GR|Thessaly|49
 Antey-Saint-Andrè|45.806|7.587|IT|Aosta Valley|48
 Antagnod|45.815|7.689|IT|Aosta Valley|48
 Anterivo|46.278|11.367|IT|Trentino-Alto Adige|47
 Antillón|42.036|-0.162|ES|Aragon|45
+Antelope Hills|35.904|-99.885|US|Oklahoma|40|f
+Antelope Island State Park|40.958|-112.207|US|Utah|40|f
+Antelope Lake|50.267|-108.401|CA|Saskatchewan|40|f
+Antelope Peak|39.397|-116.460|US|Nevada|40|f
+Antelope Range|39.097|-116.265|US|Nevada|40|f
+Antelope Reservoir|42.891|-117.226|US|Oregon|40|f
+Antelope Valley Indian Museum State Historic Park|34.650|-117.850|US|California|40|f
+Antero Reservoir|38.987|-105.916|US|Colorado|40|f
+Anthony Hill|39.055|-81.693|US|West Virginia|40|f
+Anthony Island|48.200|-53.465|CA|Newfoundland and Labrador|40|f
+Anthony Island|52.095|-131.219|CA|British Columbia|40|f
+Anthozoan Mountain|51.467|-116.035|CA|Alberta|40|f
+Antim Peak|-62.977|-62.503|AQ||40|f
+Antioch Dunes National Wildlife Refuge|38.014|-121.793|US|California|40|f
+Antisana Ecological Reserve|-0.552|-78.155|EC|Napo|40|f
+Antler Lake|53.497|-112.969|CA|Alberta|40|f
+Antoine Lake|54.767|-112.088|CA|Alberta|40|f
 Ân Thi|20.818|106.091|VN|Hưng Yên Province|0
 Antabamba|-14.361|-72.876|PE|Apurímac Department|0
+Antai|26.082|119.293|CN|Fujian|0
+Antang|22.929|112.203|CN|Guangdong|0
+Antang|27.001|114.681|CN|Jiangxi|0
 Antarctica|-82.676|8.789|AQ||0|c
 Antauta|-14.300|-70.292|PE|Puno|0
 Antequera|9.781|123.899|PH|Central Visayas|0
 Antilla|20.832|-75.736|CU|Holguín Province|0
+Anting|31.299|121.158|CN|Shanghai|0
 Antíparos|37.039|25.083|GR|South Aegean|0
+Anto|-7.168|108.131|ID|West Java|0
 Antonio José de Holguín|-1.098|-78.604|EC|Cotopaxi|0
 Antonio Sotomayor|-1.642|-79.802|EC|Los Ríos|0
 Antonivka|51.315|26.302|UA|Rivne Oblast|0
+Antou|32.061|121.317|CN|Jiangsu|0
+Antrukan|-8.008|113.198|ID|East Java|0
 Antsampanimahazo|-19.640|47.157|MG|Vakinankaratra|0
 Antsla|57.826|26.541|EE|Võrumaa|0
 Antzuola|43.097|-2.380|ES|Basque Country|0

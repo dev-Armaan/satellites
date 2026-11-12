@@ -23,6 +23,7 @@ Oak Ridge|28.471|-81.425|US|Florida|87
 Oakdale|37.767|-120.847|US|California|87
 Oakwood Village|43.683|-79.438|CA|Ontario|87
 Oakleaf Plantation|30.171|-81.835|US|Florida|86
+O‘ahu|21.433|-157.967|US|Hawaii|86|f
 Oak Bay|48.450|-123.303|CA|British Columbia|85
 Oak Grove|45.417|-122.640|US|Oregon|84
 Ōarai|36.314|140.584|JP|Ibaraki|84
@@ -40,9 +41,11 @@ Oakham|52.667|-0.733|GB|England|81
 Oatley|-33.980|151.072|AU|New South Wales|80
 Oak Grove|33.981|-81.143|US|South Carolina|80
 Oak Creek|33.674|-117.771|US|California|80
+Oakwell|53.552|-1.468|GB|England|80|f
 Oakwood|39.725|-84.174|US|Ohio|79
 Oakville|41.593|-73.085|US|Connecticut|79
 Oakbrook|39.000|-84.685|US|Kentucky|79
+Oakland International Airport|37.731|-122.220|US|California|79|f
 Oak Hills|34.383|-117.381|US|California|79
 Oakengates|52.695|-2.450|GB|England|79
 Oak Grove|45.341|-93.327|US|Minnesota|79
@@ -63,6 +66,8 @@ Oaxtepec|18.909|-98.972|MX|Morelos|77
 Oasis|33.466|-116.099|US|California|77
 Oak Ridge|36.173|-79.989|US|North Carolina|76
 Oakmont|40.522|-79.842|US|Pennsylvania|76
+Oakdale Airport|37.757|-120.800|US|California|76|f
+Oak Island|44.514|-64.294|CA|Nova Scotia|75|f
 Oakglen|-31.051|24.433|ZA|Northern Cape|75
 Oak Park|38.306|-85.696|US|Indiana|74
 Oak Park Heights|45.031|-92.793|US|Minnesota|74
@@ -75,11 +80,14 @@ Oakhurst|40.271|-74.016|US|New Jersey|72
 Oaklyn|39.901|-75.085|US|New Jersey|72
 Oak Bluffs|41.456|-70.568|US|Massachusetts|72
 Oakwood|41.365|-81.508|US|Ohio|71
+Oakland Inner Harbor|37.793|-122.289|US|California|71|f
 Oak Valley|39.801|-75.162|US|New Jersey|71
 Oakwood|33.548|-83.974|US|Georgia|71
 Oak Point|33.190|-96.992|US|Texas|70
 Oasis|19.202|-96.219|MX|Veracruz|70
 Oakridge|43.747|-122.462|US|Oregon|70
+Oakan Dake|43.453|144.161|JP|Hokkaido|70|f
+Oakland Southwest Airport|42.504|-83.623|US|Michigan|70|f
 Oak Ridge North|30.160|-95.444|US|Texas|70
 Oarja Sat|44.764|24.971|RO|Arges|69
 Oakhurst|37.328|-119.649|US|California|69
@@ -103,6 +111,7 @@ Oakwood Hills|42.246|-88.243|US|Illinois|66
 Oakley|39.133|-100.864|US|Kansas|66
 Oakland|39.408|-79.407|US|Maryland|65
 Oakboro|35.226|-80.329|US|North Carolina|65
+Oak Harbor Airport|48.252|-122.678|US|Washington|65|f
 Oak Hill|28.864|-80.855|US|Florida|65
 Oakdale|-34.079|150.513|AU|New South Wales|65
 Oak Cliff Place|29.927|-95.627|US|Texas|65
@@ -123,6 +132,8 @@ Oar|47.806|22.731|RO|Satu Mare County|64
 Oakland|41.309|-95.397|US|Iowa|64
 Oak Hill|38.894|-82.573|US|Ohio|64
 Oakdale|40.398|-80.186|US|Pennsylvania|63
+Oakham Castle|52.670|-0.728|GB|England|63|f
+Oakland County International Airport|42.663|-83.417|US|Michigan|63|f
 Oakdale|40.992|-75.920|US|Pennsylvania|63
 Oakland|42.581|-93.443|US|Iowa|63
 Oakhurst|-25.513|152.636|AU|Queensland|63
@@ -136,4 +147,82 @@ Oakfield|43.686|-88.546|US|Wisconsin|61
 Oakland|34.100|-96.794|US|Oklahoma|61
 Oanțu|46.910|26.199|RO|Neamț County|60
 Oakley|51.804|-1.073|GB|England|60
+Oak Grove Heights|36.121|-90.511|US|Arkansas|60
+Oaxaquillas|16.824|-99.657|MX|Guerrero|60
+Oakland|43.422|-123.298|US|Oregon|59
+Oak Creek|40.275|-106.958|US|Colorado|59
+Oakland|39.654|-88.026|US|Illinois|59
+Oak Level|36.815|-79.936|US|Virginia|59
+Oakbank|-34.983|138.845|AU|South Australia|58
+Oahu Forest National Wildlife Refuge|21.484|-157.923|US|Hawaii|58|f
+Oak Island|49.310|-94.848|US|Minnesota|58|f
+Oakland-Troy Airport|42.543|-83.178|US|Michigan|58|f
+Oakleaf Lake|44.308|-94.016|US|Minnesota|58|f
+Oakzanita Peak|32.891|-116.561|US|California|58|f
+Oat Hills|37.742|-120.345|US|California|58|f
+Oat Hills|33.220|-117.101|US|California|58|f
+Oat Hills|39.256|-121.312|US|California|58|f
+Oakley|42.243|-113.882|US|Idaho|58
+Oaklee|39.268|-76.685|US|Maryland|58
+Oakfield|46.099|-68.150|US|Maine|58
+Oakman|33.713|-87.389|US|Alabama|58
+Oakhill|51.224|-2.526|GB|England|57
+Oarța de Sus|47.468|23.078|RO|Maramureş|57
+Oatlands|-42.303|147.367|AU|Tasmania|57
+Oak Grove|32.535|-96.319|US|Texas|56
+Oakville|46.840|-123.232|US|Washington|56
+Oak Glen|34.049|-116.948|US|California|56
+Oak City|39.375|-112.335|US|Utah|56
+Oaktown|38.871|-87.441|US|Indiana|56
+Oakwood|41.096|-84.380|US|Ohio|55
+Oakland|41.950|-75.605|US|Pennsylvania|55
+Oak Ridge|32.657|-96.262|US|Texas|55
+Oak Grove|41.411|-90.571|US|Illinois|55
+Oak Hill|44.224|-86.304|US|Michigan|55
+Oak Run|40.963|-90.145|US|Illinois|55
+Oaksey|51.641|-2.017|GB|England|54
+Oahe Dam|44.451|-100.402|US|South Dakota|54|f
+Oak Island|46.937|-90.728|US|Wisconsin|54|f
+Oak Mountain|37.647|-90.627|US|Missouri|54|f
+Oak Mountain State Park|33.343|-86.721|US|Alabama|54|f
+Oak Openings Preserve Metropark|41.571|-83.864|US|Ohio|54|f
+Oakey Aerodrome|-27.411|151.735|AU|Queensland|54|f
+Oakland Bay|47.225|-123.057|US|Washington|54|f
+Oamaru Airport|-44.958|171.080|NZ|Otago|54|f
+Oanob Dam|-23.326|17.023|NA|Hardap Region|54|f
+Oak Grove|33.192|-86.299|US|Alabama|54
+Oakwood|31.585|-95.849|US|Texas|54
+Oakland|34.056|-89.916|US|Mississippi|54
+Oak Park|-34.069|151.156|AU|New South Wales|49|f
+Oakeley, Cape|-71.017|167.900|AQ||49|f
+Oakes Hill|43.358|-75.294|US|New York|49|f
+Oamaru Peak|-77.467|167.900|AQ||49|f
+Oat Hills|39.121|-122.377|US|California|49|f
+Oat Mountain|34.330|-118.601|US|California|49|f
+Oates Piedmont Glacier|-76.417|162.583|AQ||49|f
+Oatley Bay|-33.990|151.085|AU|New South Wales|49|f
+Oatley Park|-33.982|151.060|AU|New South Wales|49|f
+Oaxen|58.976|17.716|SE|Stockholm|49|f
+Oak Head|42.070|-70.179|US|Massachusetts|40|f
+Oak Hill|42.303|-71.186|US|Massachusetts|40|f
+Oak Lake|45.308|-62.277|CA|Nova Scotia|40|f
+Oak Lake|44.523|-65.407|CA|Nova Scotia|40|f
+Oak Lake|46.859|-95.901|US|Minnesota|40|f
+Oak Lake|44.516|-96.529|US|South Dakota|40|f
+Oak Park|32.733|-117.084|US|California|40|f
+Oak Park Lake|43.608|-65.666|CA|Nova Scotia|40|f
+Oakachoy Covered Bridge|32.849|-86.056|US|Alabama|40|f
+Oakes Municipal Airport|46.176|-98.086|US|North Dakota|40|f
+Oakland Mills Bridge|40.936|-91.619|US|Iowa|40|f
+Oaklawn Farm Zoo|45.004|-64.845|CA|Nova Scotia|40|f
+Oakleigh|30.681|-88.060|US|Alabama|40|f
+Oakley Glacier|-73.700|166.133|AQ||40|f
+Oakridge State Airport|43.752|-122.499|US|Oregon|40|f
+Oaks Bottom Wildlife Refuge|45.470|-122.660|US|Oregon|40|f
+Oaks of Avalon|51.150|-2.685|GB|England|40|f
+Oakwoods Metropark|42.106|-83.338|US|Michigan|40|f
+Oasis Mountain|37.048|-116.753|US|Nevada|40|f
+Oasis State Park|34.256|-103.349|US|New Mexico|40|f
+Oastler Lake Provincial Park|45.313|-79.966|CA|Ontario|40|f
+Oatka Creek Park|43.007|-77.802|US|New York|40|f
 Oakmere|53.220|-2.641|GB|England|0

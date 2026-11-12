@@ -21,6 +21,7 @@ Charenton-le-Pont|48.822|2.412|FR|Île-de-France|90
 Charneca de Caparica|38.620|-9.194|PT|Setúbal|89
 Charata|-27.218|-61.187|AR|Chaco|89
 Charef|34.621|2.795|DZ|Djelfa|89
+Charlotte Douglas International Airport|35.221|-80.944|US|North Carolina|88|f
 Charkhāri|25.403|79.749|IN|Uttar Pradesh|88
 Charentsavan|40.403|44.644|AM|Kotayk|87
 Charleston|39.496|-88.176|US|Illinois|87
@@ -29,11 +30,14 @@ Charlotte Amalie|18.342|-64.931|VI|Saint Thomas Island|86
 Charthāwal|29.547|77.594|IN|Uttar Pradesh|86
 Charipara|23.809|91.248|IN|Tripura|86
 Charlottenburg-Nord|52.533|13.295|DE|State of Berlin|86
+Charcot Island|-69.750|-75.250|AQ||86|f
 Charāmaddi|22.642|90.426|BD|Barisal Division|85
 Charqueada|-22.510|-47.778|BR|São Paulo|84
 Charām|30.756|50.745|IR|Kohgiluyeh and Boyer-Ahmad|84
+Charles Bridge|50.086|14.412|CZ|Prague|83|f
 Charlton|51.485|0.040|GB|England|83
 Chard|50.873|-2.966|GB|England|83
+Charleston International Airport|32.899|-80.040|US|South Carolina|83|f
 Charxin|39.694|66.827|UZ|Samarqand Region|83
 Charmahīn|32.339|51.195|IR|Isfahan|83
 Charlton|42.136|-71.970|US|Massachusetts|82
@@ -45,12 +49,14 @@ Charneca|38.784|-9.143|PT|Lisbon|80
 Charāma|20.493|81.367|IN|Chhattisgarh|80
 Charter Oak|34.103|-117.846|US|California|79
 Charlotte|42.564|-84.836|US|Michigan|79
+Charleville Airport|-26.413|146.262|AU|Queensland|79|f
 Charvieu-Chavagneux|45.750|5.150|FR|Auvergne-Rhône-Alpes|79
 Charlestown|41.383|-71.642|US|Rhode Island|79
 Charles Village|39.323|-76.613|US|Maryland|78
 Charlestown|38.453|-85.670|US|Indiana|78
 Charters Towers|-20.077|146.264|AU|Queensland|78
 Charlotte Parish|13.251|-61.152|VC||78|r
+Charles Island|62.651|-74.249|CA|Nunavut|78|f
 Charhoi|33.302|73.955|PK|Azad Kashmir|78
 Charles City|43.066|-92.672|US|Iowa|77
 Chartres-de-Bretagne|48.040|-1.705|FR|Brittany|77
@@ -58,9 +64,12 @@ Charnay-lès-Mâcon|46.308|4.785|FR|Bourgogne-Franche-Comté|77
 Charhi|23.854|85.445|IN|Jharkhand|77
 Charles Town|39.289|-77.860|US|West Virginia|75
 Charleston|36.921|-89.351|US|Missouri|75
+Charles Prince Airport|-17.751|30.925|ZW|Mashonaland West|75|f
+Charlo Airport|47.991|-66.330|CA|New Brunswick|75|f
 Chartersville|46.085|-64.733|CA|New Brunswick|75
 Charlemagne|45.717|-73.482|CA|Quebec|75
 Charlestown|-27.411|29.874|ZA|KwaZulu-Natal|74
+Charters Towers Airport|-20.043|146.273|AU|Queensland|74|f
 Charo|19.748|-101.046|MX|Michoacán|74
 Charles Hill|-22.276|20.093|BW|Ghanzi|74
 Chardon|41.614|-81.149|US|Ohio|74
@@ -68,6 +77,8 @@ Charingia Gaon|26.733|94.146|IN|Assam|74
 Charmes|48.372|6.291|FR|Grand Est|74
 Charbonnières-les-Bains|45.781|4.746|FR|Auvergne-Rhône-Alpes|73
 Chariton|41.014|-93.307|US|Iowa|72
+Charles Island|41.191|-73.055|US|Connecticut|72|f
+Charlevoix Airport|47.597|-70.224|CA|Quebec|72|f
 Charly|45.649|4.795|FR|Auvergne-Rhône-Alpes|72
 Charibatia|20.559|85.939|IN|Odisha|72
 Charleroi|40.138|-79.898|US|Pennsylvania|72
@@ -77,6 +88,7 @@ Charleville|52.350|-8.683|IE|Munster|72
 Charlotte|44.310|-73.261|US|Vermont|72
 Charlieu|46.162|4.172|FR|Auvergne-Rhône-Alpes|71
 Charlotte Harbor|26.958|-82.067|US|Florida|71
+Charles Mound|42.504|-90.240|US|Illinois|71|f
 Charleville|-26.405|146.243|AU|Queensland|71
 Charyshskoye|51.398|83.562|RU|Altai Krai|71
 Charolles|46.435|4.275|FR|Bourgogne-Franche-Comté|70
@@ -99,12 +111,16 @@ Charfield|51.627|-2.407|GB|England|67
 Charlottenberg|59.884|12.304|SE|Värmland|67
 Charlotte Park|26.910|-82.054|US|Florida|67
 Charquemont|47.214|6.820|FR|Bourgogne-Franche-Comté|67
+Charterhouse of Santa María de la Defensión|36.655|-6.093|ES|Andalusia|67|f
+Chartley Castle|52.854|-1.985|GB|England|67|f
 Charleval|43.719|5.245|FR|Provence-Alpes-Côte d'Azur|67
 Charleston|34.007|-90.057|US|Mississippi|66
 Chara|56.903|118.259|RU|Zabaykalskiy (Transbaikal) Kray|66
 Charleval|49.373|1.384|FR|Normandy|66
 Charenton|29.882|-91.525|US|Louisiana|66
 Charantonnay|45.537|5.110|FR|Auvergne-Rhône-Alpes|65
+Charagua Airport|-19.786|-63.189|BO|Santa Cruz Department|65|f
+Charlestown Navy Yard|42.375|-71.052|US|Massachusetts|65|f
 Charing|51.211|0.795|GB|England|65
 Charlotte|28.862|-98.706|US|Texas|65
 Charmes|49.653|3.379|FR|Hauts-de-France|65
@@ -124,6 +140,11 @@ Charouine|29.015|-0.264|DZ|Timimoun|64
 Charlotte|36.177|-87.340|US|Tennessee|64
 Charnècles|45.344|5.528|FR|Auvergne-Rhône-Alpes|63
 Char Para|23.766|89.106|BD|Khulna Division|63
+Charata Airport|-27.216|-61.210|AR|Chaco|63|f
+Charleston Farmhouse|50.843|0.116|GB|England|63|f
+Charleston Peak|36.273|-115.695|US|Nevada|63|f
+Charlottetown Airport|46.286|-63.127|CA|Prince Edward Island|63|f
+Chartres-Métropole airport|48.457|1.520|FR|Centre-Val de Loire|63|f
 Charleston|45.085|-69.041|US|Maine|63
 Charlotte Hall|38.481|-76.778|US|Maryland|63
 Charroux|46.144|0.403|FR|New Aquitaine|63
@@ -138,6 +159,12 @@ Charlestown|39.574|-75.975|US|Maryland|62
 Charrat|46.125|7.131|CH|Valais|61
 Charlestown|43.239|-72.425|US|New Hampshire|61
 Charentay|46.089|4.679|FR|Auvergne-Rhône-Alpes|61
+Charles B. Wheeler Downtown Airport|39.121|-94.592|US|Missouri|61|f
+Charles River Dam|42.368|-71.071|US|Massachusetts|61|f
+Charles’ Fort|32.333|-64.667|BM|Saint Georgeʼs|61|f
+Charlotte–Monroe Executive Airport|35.020|-80.619|US|North Carolina|61|f
+Charlton Public Use Area|34.518|-93.384|US|Arkansas|61|f
+Charvak Lake|41.637|70.031|UZ|Tashkent Region|61|f
 Charapendo|19.265|-102.066|MX|Michoacán|61
 Charlestown|39.268|-76.705|US|Maryland|61
 Charenton-du-Cher|46.730|2.644|FR|Centre-Val de Loire|61
@@ -151,12 +178,119 @@ Charnay|45.891|4.668|FR|Auvergne-Rhône-Alpes|60
 Charlton|-36.264|143.349|AU|Victoria|60
 Chargé|47.433|1.030|FR|Centre-Val de Loire|60
 Charras|-33.024|-64.046|AR|Cordoba|60
+Charles Sturt University|-35.061|147.354|AU|New South Wales|60
+Charlesworth|53.433|-1.993|GB|England|60
+Charlwood|51.156|-0.226|GB|England|60
+Charpey|44.938|5.094|FR|Auvergne-Rhône-Alpes|60
+Charíessa|40.651|22.167|GR|Central Macedonia|59
+Charbonnières-les-Vieilles|45.995|2.998|FR|Auvergne-Rhône-Alpes|59
+Charvonnex|45.977|6.160|FR|Auvergne-Rhône-Alpes|59
+Charnoz-sur-Ain|45.867|5.217|FR|Auvergne-Rhône-Alpes|59
+Chargar|36.421|49.047|IR|Zanjan|59
+Charbonnier-les-Mines|45.417|3.285|FR|Auvergne-Rhône-Alpes|59
+Charity Island|44.031|-83.436|US|Michigan|58|f
+Charles Aznavour Square|40.182|44.517|AM|Yerevan|58|f
+Charles Berry Bascule Bridge|41.469|-82.176|US|Ohio|58|f
+Charles City Municipal Airport|43.072|-92.611|US|Iowa|58|f
+Charles Grimes Bridge|-37.823|144.948|AU|Victoria|58|f
+Charleston Harbor|32.764|-79.897|US|South Carolina|58|f
+Charlotte Lake|36.776|-118.427|US|California|58|f
+Charlottetown Airport|52.765|-56.117|CA|Newfoundland and Labrador|58|f
+Charpentierbreen|77.620|15.594|SJ|Svalbard|58|f
+Charrais|46.698|0.201|FR|New Aquitaine|58
+Charl Cilliers|-26.661|29.186|ZA|Mpumalanga|58
+Charváty|49.518|17.254|CZ|Olomouc Region|58
+Charco Largo|20.273|-100.812|MX|Guanajuato|58
+Charco Nduayoo|16.170|-97.753|MX|Oaxaca|57
+Chargey-lès-Gray|47.485|5.579|FR|Bourgogne-Franche-Comté|57
 Charvensod|45.720|7.324|IT|Aosta Valley|57
+Charmont-sous-Barbuise|48.408|4.173|FR|Grand Est|57
+Charco Blanco|22.633|-100.520|MX|San Luis Potosí|57
+Charleston|35.287|-84.758|US|Tennessee|57
+Charcé-Saint-Ellier-sur-Aubance|47.358|-0.412|FR|Pays de la Loire|56
+Charco de Sierra|20.728|-100.607|MX|Guanajuato|56
 Charta|7.280|-72.968|CO|Santander Department|56
+Chartainvilliers|48.544|1.554|FR|Centre-Val de Loire|56
+Charly-Oradour|49.174|6.238|FR|Grand Est|56
+Charmeil|46.161|3.393|FR|Auvergne-Rhône-Alpes|56
+Charrin|46.788|3.598|FR|Bourgogne-Franche-Comté|56
+Charsonville|47.928|1.580|FR|Centre-Val de Loire|56
+Charancieu|45.530|5.586|FR|Auvergne-Rhône-Alpes|56
+Charensat|45.987|2.636|FR|Auvergne-Rhône-Alpes|56
+Chārbaria|24.100|90.583|BD|Dhaka Division|55
+Charupa|-5.006|-75.865|PE|Loreto|55
+Charcani Chico|-16.309|-71.501|PE|Arequipa|55
+Charnizay|46.914|0.986|FR|Centre-Val de Loire|55
+Charnas|45.336|4.744|FR|Auvergne-Rhône-Alpes|55
+Charols|44.590|4.952|FR|Auvergne-Rhône-Alpes|55
+Charis|16.296|-95.095|MX|Oaxaca|54
+Charleston|-34.917|138.900|AU|South Australia|54
 Charlotte Court House|37.057|-78.638|US|Virginia|54
+Charpont|48.699|1.436|FR|Centre-Val de Loire|54
+Charkasy|53.766|27.335|BY|Minsk|54
+Char Lakshmi|21.950|90.550|BD||54|f
+Chara Airport|56.912|118.265|RU|Zabaykalskiy (Transbaikal) Kray|54|f
+Charity Glacier|-62.731|-60.300|AQ||54|f
+Charlat Island|-65.180|-64.149|AQ||54|f
+Charles Butler House|33.277|-86.357|US|Alabama|54|f
+Charles Glacier|-72.567|-3.433|AQ||54|f
+Charles M Russell National Wildlife Refuge|47.693|-107.284|US|Montana|54|f
+Charles Mill Lake|40.763|-82.377|US|Ohio|54|f
+Charles Point|-64.239|-61.000|AQ||54|f
+Charles W Baker Airport|35.278|-89.934|US|Tennessee|54|f
+Charlesbreen|78.517|13.267|SJ|Svalbard|54|f
+Charlesfjellet|78.606|11.031|SJ|Svalbard|54|f
+Charlevoix Municipal Airport|45.304|-85.272|US|Michigan|54|f
+Charlies Bunion|35.639|-83.372|US|North Carolina|54|f
+Charlotte Amalie Harbor Seaplane Base|18.336|-64.940|VI|Saint Thomas Island|54|f
+Charlottesville-Albemarle Airport|38.138|-78.453|US|Virginia|54|f
+Charlton Castle|52.696|-2.597|GB|England|54|f
+Charrúa Ridge|-62.655|-60.353|AQ||54|f
+Charivne|47.019|33.267|UA|Kherson|54
 Charcana|-15.241|-73.071|PE|Arequipa|51
+Charity Island|-43.320|147.030|AU|Tasmania|49|f
+Charity, Mount|-69.923|-64.448|AQ||49|f
+Charles River Museum of Industry|42.373|-71.235|US|Massachusetts|49|f
+Charleston Executive Airport|32.698|-80.008|US|South Carolina|49|f
+Charleston Municipal Airport|33.987|-90.080|US|Mississippi|49|f
+Charleston Navy Yard|32.864|-79.967|US|South Carolina|49|f
+Charlotte Dome|36.782|-118.481|US|California|49|f
+Charlotte Peak|47.572|-113.390|US|Montana|49|f
+Charlottenburger Verbindungskanal|52.524|13.316|DE|State of Berlin|49|f
+Charlton Island|-66.225|110.152|AQ||49|f
+Charpentier Pyramid|-80.268|-25.596|AQ||49|f
+Charter Oak Bridge|41.753|-72.655|US|Connecticut|49|f
 Charat|-7.833|-78.450|PE|La Libertad|46
+Charlottenberg|50.344|7.881|DE|Rheinland-Pfalz|44
 Charles City|37.343|-77.073|US|Virginia|42
+Charge Pond|41.816|-70.675|US|Massachusetts|40|f
+Charger Stadium|32.835|-96.626|US|Texas|40|f
+Charity Island|45.317|-60.965|CA|Nova Scotia|40|f
+Charity Lake|49.659|-125.433|CA|British Columbia|40|f
+Charlcote House|39.344|-76.619|US|Maryland|40|f
+Charlecote Park|52.205|-1.616|GB|England|40|f
+Charles Allis Art Museum|43.054|-87.890|US|Wisconsin|40|f
+Charles Hosmer Morse Museum of American Art|28.601|-81.351|US|Florida|40|f
+Charles Paddock Zoo|35.466|-120.671|US|California|40|f
+Charles Peak|-79.733|-83.183|AQ||40|f
+Charles River Reservation|42.354|-71.118|US|Massachusetts|40|f
+Charles Towne Landing|32.807|-79.985|US|South Carolina|40|f
+Charles V Wall|36.132|-5.347|GI||40|f
+Charles Young Buffalo Soldiers National Monument|39.708|-83.893|US|Ohio|40|f
+Charleston Lake|44.535|-76.016|CA|Ontario|40|f
+Charleston Lake Provincial Park|44.517|-75.983|CA|Ontario|40|f
+Charleston Museum|32.783|-79.944|US|South Carolina|40|f
+Charlestown Bridge|42.369|-71.060|US|Massachusetts|40|f
+Charlie Hammonds Seaplane Base|29.584|-90.717|US|Louisiana|40|f
+Charlie Lake|54.517|-66.399|CA|Newfoundland and Labrador|40|f
+Charlie Lake|56.338|-121.005|CA|British Columbia|40|f
+Charlie Lake Park|56.317|-121.003|CA|British Columbia|40|f
+Charlotte Lake|52.183|-125.317|CA|British Columbia|40|f
+Charlottenburg Palace|52.521|13.296|DE|State of Berlin|40|f
+Charlottenhof|52.397|13.028|DE|Brandenburg|40|f
+Charlton Island|52.000|-79.486|CA|Nunavut|40|f
+Chārminār|17.361|78.480|IN|Telangana|40|f
+Charwelton BT Tower|52.202|-1.251|GB|England|40|f
 Characato|-16.469|-71.484|PE|Arequipa|0
 Charalá|6.286|-73.147|CO|Santander Department|0
 Charanchi|12.672|7.729|NG|Katsina State|0

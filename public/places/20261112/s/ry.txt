@@ -12,8 +12,10 @@ Ryde|50.730|-1.162|GB|England|88
 Ryazhsk|53.706|40.080|RU|Ryazan Oblast|87
 Rydułtowy|50.059|18.417|PL|Silesia|87
 Rybnoye|54.725|39.513|RU|Ryazan Oblast|86
+Ryukyu Islands|26.423|127.888|JP|Okinawa|85|f
 Ryl’sk|51.571|34.683|RU|Kursk Oblast|85
 Rypin|53.066|19.409|PL|Kujawsko-Pomorskie|84
+Rysy|49.179|20.088|PL|Lesser Poland|84|f
 Ryōtsu-minato|38.078|138.439|JP|Niigata|84
 Ryton|52.617|-2.350|GB|England|84
 Rye|40.981|-73.684|US|New York|84
@@ -21,6 +23,7 @@ Ryhope|54.871|-1.370|GB|England|83
 Ryonggang-ŭp|38.856|125.424|KP|Nampo|83
 Ryūō|35.061|136.125|JP|Shiga|81
 Rychnov nad Kněžnou|50.163|16.275|CZ|Hradec Králové Region|81
+Ryŏ-do|39.231|127.628|KP|Kangwŏn-do|81|f
 Ryki|51.626|21.933|PL|Lublin|80
 Rye Brook|41.019|-73.683|US|New York|80
 Rye|50.951|0.734|GB|England|79
@@ -32,11 +35,13 @@ Rybnaya Sloboda|55.462|50.144|RU|Tatarstan Republic|77
 Ry|56.090|9.765|DK|Central Jutland|77
 Rydebäck|55.967|12.767|SE|Skåne|75
 Rye|43.013|-70.771|US|New Hampshire|74
+Ryükyüsyo Island|22.340|120.372|TW|Taiwan|74|f
 Ryazanskaya|44.955|39.589|RU|Krasnodar Krai|74
 Ryhill|53.622|-1.411|GB|England|74
 Rybie|52.152|20.937|PL|Mazovia|72
 Rydal|34.335|-84.715|US|Georgia|72
 Rytro|49.489|20.666|PL|Lesser Poland|71
+Rybinsk Reservoir|58.476|38.360|RU||71|f
 Rymanów|49.576|21.868|PL|Subcarpathia|71
 Rykove|46.331|34.749|UA|Kherson|71
 Rybarzowice|49.730|19.102|PL|Silesia|71
@@ -53,9 +58,11 @@ Rygge|59.378|10.750|NO|Østfold|68
 Rybno|53.383|19.932|PL|Warmia-Masuria|68
 Ryggebyen|59.375|10.750|NO|Østfold|68
 Rychwał|52.071|18.165|PL|Greater Poland|67
+Rychlebské Hory|50.333|16.933|CZ||67|f
 Ryslinge|55.242|10.537|DK|South Denmark|66
 Ryczywół|52.813|16.831|PL|Greater Poland|66
 Rymättylä|60.377|21.942|FI|Southwest Finland|66
+Ryer Island|38.083|-122.014|US|California|65|f
 Rytwiany|50.529|21.206|PL|Świętokrzyskie|65
 Ryton on Dunsmore|52.367|-1.433|GB|England|65
 Rybnoye|56.413|37.622|RU|Moscow Oblast|65
@@ -66,6 +73,8 @@ Rydaholm|56.984|14.308|SE|Jönköping|64
 Rybitví|50.060|15.705|CZ|Pardubice Region|64
 Rycerka Dolna|49.478|19.062|PL|Silesia|63
 Ryd|56.467|14.683|SE|Kronoberg|63
+Ryan Peak|43.902|-114.409|US|Idaho|63|f
+Rýchory|50.649|15.863|CZ|Hradec Králové Region|63|f
 Ryhall|52.686|-0.468|GB|England|63
 Ryd|58.667|15.083|SE|Östergötland|63
 Rybach'e|44.773|34.596|UA|Crimea|63
@@ -75,8 +84,74 @@ Ryczywół|51.691|21.422|PL|Mazovia|62
 Rybí|49.601|18.076|CZ|Moravian-Silesian Region|62
 Rybne|48.353|25.281|UA|Ivano-Frankivsk|62
 Rynhach|48.310|26.244|UA|Chernivtsi|61
+Ryggehøi|61.619|8.560|NO|Innlandet|61|f
+Ryōgoku Kokugikan|35.697|139.793|JP|Tokyo|61|f
+Ryūkō Ji|35.312|139.489|JP|Kanagawa|61|f
 Rymań|53.944|15.529|PL|West Pomerania|61
 Ryland Heights|38.958|-84.463|US|Kentucky|60
+Rydboholm|57.650|12.883|SE|Västra Götaland|60
+Rybachiy|55.155|20.852|RU|Kaliningrad Oblast|60
+Rybachyi|46.136|33.314|UA|Kherson|60
+Rybalche|46.475|32.237|UA|Kherson|60
+Rybotyn|51.562|32.907|UA|Chernihiv Oblast|60
+Ryasnopil|47.070|31.189|UA|Odesa|60
+Rylstone|-32.800|149.969|AU|New South Wales|59
+Rymarivka|50.450|33.978|UA|Poltava|59
+Rybno|52.610|17.288|PL|Greater Poland|59
+Rybkhoz|55.789|38.134|RU|Moscow Oblast|59
 Rybczewice|51.029|22.851|PL|Lublin|58
+Rychliki|53.985|19.528|PL|Warmia-Masuria|58
+Ryan Glacier|-54.045|-37.602|GS||58|f
+Rygge Airport|59.379|10.785|NO|Østfold|58|f
+Ryswyck Island|-64.561|-62.795|AQ||58|f
+Ryan|34.020|-97.958|US|Oklahoma|58
+Ryptsjerk|53.222|5.917|NL|Friesland|58
+Ryasno, Рясно, Расна|53.712|30.618|BY|Mogilev|58
+Rybník|49.889|16.474|CZ|Pardubice Region|58
+Rynoltice|50.789|14.819|CZ|Liberec Region|57
+Rynholec|50.138|13.922|CZ|Central Bohemia|57
+Rybniště|50.880|14.515|CZ|Ústí nad Labem Region|57
+Rysakovo|45.652|34.327|UA|Crimea|57
+Rybnica|50.918|15.622|PL|Lower Silesia|57
+Ryssby|56.867|14.167|SE|Kronoberg|57
+Ryssby|57.717|14.650|SE|Jönköping|57
+Rysum|53.379|7.035|DE|Lower Saxony|57
+Ryzha|47.975|25.049|UA|Chernivtsi|57
+Rychwałd|49.907|20.938|PL|Lesser Poland|57
+Rynárec|49.390|15.235|CZ|Vysocina|56
+Rykene|58.410|8.638|NO|Agder|56
+Ry|49.471|1.342|FR|Normandy|56
 Rybno|52.243|20.103|PL|Mazovia|56
+Rychnov na Moravě|49.834|16.640|CZ|Pardubice Region|56
+Rybalske|45.777|29.830|UA|Odesa|56
+Rydbo|59.462|18.185|SE|Stockholm|56
+Rychnovek|50.357|15.970|CZ|Hradec Králové Region|55
+Ryžoviště|49.876|17.358|CZ|Moravian-Silesian Region|55
+Ryákia|40.401|22.393|GR|Central Macedonia|55
+Rymice|49.342|17.526|CZ|Zlín|55
+Rycroft|55.750|-118.719|CA|Alberta|55
+Rybno|52.569|21.408|PL|Mazovia|54
+Ryan Peak|-67.863|-67.188|AQ||54|f
+Ryans Creek Aerodrome|-46.900|168.101|NZ|Southland|54|f
+Ryge Rocks|-63.652|-59.959|AQ||54|f
+Rymill, Cape|-69.484|-62.457|AQ||54|f
+Ryvingen Peak|-72.917|-3.500|AQ||54|f
+Rybno|54.684|18.086|PL|Pomerania|54
+Ryan Park|-29.455|153.200|AU|New South Wales|49|f
+Ryan Reef|-54.440|-36.138|GS||49|f
+Rydberg Peninsula|-73.168|-79.929|AQ||49|f
+Ryder Glacier|-71.116|-67.250|AQ||49|f
+Rymill Park|-34.923|138.614|AU|South Australia|49|f
+Ryves Canal|16.364|80.895|IN|Andhra Pradesh|49|f
 Ryegate|46.297|-109.259|US|Montana|47
+Rya skog|57.697|11.885|SE|Västra Götaland|40|f
+Ryan Dam|47.569|-111.125|US|Montana|40|f
+Ryan Mountain|33.986|-116.135|US|California|40|f
+Ryan Peak|35.032|-95.061|US|Oklahoma|40|f
+Ryan Point|-72.300|-95.850|AQ||40|f
+Rydal Water|54.447|-2.999|GB|England|40|f
+Rydboholms Slott|59.440|18.186|SE|Stockholm|40|f
+Rydell National Wildlife Refuge|47.657|-96.107|US|Minnesota|40|f
+Rye Patch Reservoir|40.470|-118.308|US|Nevada|40|f
+Ryer Island|38.240|-121.634|US|California|40|f
+Ryot Covered Bridge|40.142|-78.624|US|Pennsylvania|40|f

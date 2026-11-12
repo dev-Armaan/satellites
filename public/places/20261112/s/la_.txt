@@ -8,10 +8,10 @@ La Paz|-16.500|-68.150|BO|La Paz Department|126
 Latvia|57.000|25.000|LV||125|c
 Lagunes District|5.871|-4.299|CI||125|r
 Lara|10.167|-69.833|VE||125|r
-La Libertad|-8.000|-78.500|PE||123|r
+La Libertad|-8.000|-78.500|PE||124|r
+Lacs District|7.031|-4.448|CI||123|r
 Lampung|-5.000|105.000|ID||123|r
 Lam Dong|11.673|107.971|VN||122|r
-Lacs District|7.031|-4.448|CI||122|r
 Laiwu|36.193|117.657|CN|Shandong|120
 Laibin|23.747|109.222|CN|Guangxi|119
 Laiyang|36.976|120.714|CN|Shandong|119
@@ -40,6 +40,7 @@ Laohekou|32.386|111.668|CN|Hubei|108
 La Altagracia Province|18.583|-68.633|DO||108|r
 La Ceiba|15.760|-86.782|HN|Atlántida Department|107
 La Ceiba|15.767|-86.833|HN|Atlántida Department|107
+Lake Winnipesaukee|43.614|-71.344|US|New Hampshire|107|f
 Lanús|-34.708|-58.391|AR|Buenos Aires|107
 La Romana|18.423|-68.966|DO|La Romana|106
 Latacunga|-0.934|-78.615|EC|Cotopaxi|106
@@ -55,11 +56,12 @@ Laizhou|37.181|119.942|CN|Shandong|105
 Langsa|4.468|97.968|ID|Aceh|105
 Labé Region|11.610|-12.087|GN||105|r
 La Rioja|-29.413|-66.856|AR|La Rioja|105
+Larnaka|34.915|33.526|CY||105|r
 Lander|10.183|-66.700|VE|Miranda|105
 Latkrabang|13.728|100.746|TH|Bangkok|105
 Lang'ata|-1.367|36.733|KE|Nairobi County|105
 Lages|-27.816|-50.326|BR|Santa Catarina|105
-Larnaka|34.915|33.526|CY||105|r
+Lake Victoria|-1.000|33.000|TZ||104|f
 Lajeado|-23.534|-46.409|BR|São Paulo|104
 Lat Krabang|13.722|100.785|TH|Bangkok|104
 Lancaster|34.698|-118.137|US|California|104
@@ -96,5 +98,3 @@ Lavras|-21.245|-45.000|BR|Minas Gerais|101
 Lak Si|13.887|100.579|TH|Bangkok|101
 La Cité-Limoilou|46.829|-71.226|CA|Quebec|101
 Labé|11.318|-12.283|GN|Labé Region|101
-Lahad Datu|5.023|118.329|MY|Sabah|100
-Lakeland|28.039|-81.950|US|Florida|100

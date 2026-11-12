@@ -1,9 +1,9 @@
 Washington|47.500|-120.501|US||136|r
-Wallonia|50.500|4.750|BE||134|r
+Wallonia|50.500|4.750|BE||135|r
 Wales|52.500|-3.500|GB||130|r
 Warsaw|52.230|21.012|PL|Mazovia|125
 Wanzhou|30.765|108.396|CN|Chongqing|124
-Warmia-Masuria|53.833|20.833|PL||119|r
+Warmia-Masuria|53.833|20.833|PL||120|r
 Warri|5.517|5.750|NG|Delta|119
 Wanxian|30.816|108.374|CN|Chongqing|119
 Warangal|18.000|79.583|IN|Telangana|117
@@ -49,6 +49,7 @@ Wangqing|43.311|129.763|CN|Jilin|99
 Waukegan|42.364|-87.845|US|Illinois|99
 Wadi Fira|15.000|21.500|TD||99|r
 Wakiso|0.404|32.459|UG|Central Region|99
+Warsaw Chopin Airport|52.166|20.967|PL|Mazovia|99|f
 Wanju|35.845|127.148|KR|Jeollabuk-do|98
 Wako|35.789|139.623|JP|Saitama|98
 Warwick|41.700|-71.416|US|Rhode Island|98
@@ -89,6 +90,7 @@ Waiblingen|48.832|9.316|DE|Baden-Wurttemberg|94
 Wakefield|40.898|-73.852|US|New York|94
 Wanguru|-0.684|37.357|KE|Kirinyaga County|94
 Währing|48.226|16.345|AT|Vienna|94
+Washington Monument|38.890|-77.035|US|District of Columbia|94|f
 Wakasugi|33.609|130.526|JP|Fukuoka|94
 Wangfen|36.550|118.383|CN|Shandong|94
 Warud|21.471|78.270|IN|Maharashtra|94
@@ -96,5 +98,3 @@ Wānkāner|22.612|70.944|IN|Gujarat|94
 Wauwatosa|43.049|-88.008|US|Wisconsin|94
 Waiau-Pacific Palisades|21.400|-157.954|US|Hawaii|94
 Walajapet|12.925|79.366|IN|Tamil Nadu|94
-Watsa|3.037|29.536|CD|Haut-Uele|93
-Warora|20.229|79.003|IN|Maharashtra|93

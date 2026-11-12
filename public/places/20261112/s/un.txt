@@ -14,25 +14,39 @@ Union City|37.596|-122.019|US|California|97
 Union City|40.780|-74.024|US|New Jersey|97
 Unna|51.538|7.690|DE|North Rhine-Westphalia|96
 União dos Palmares|-9.163|-36.032|BR|Alagoas|96
+University of Edinburgh|55.944|-3.188|GB|Scotland|96|f
+University of Pennsylvania|39.951|-75.194|US|Pennsylvania|96|f
+University of London|51.521|-0.125|GB|England|96|f
 Una|20.823|71.038|IN|Gujarat|95
 União da Vitória|-26.230|-51.086|BR|Paraná|95
 Unjha|23.804|72.391|IN|Gujarat|95
 Union|40.698|-74.263|US|New Jersey|95
 University of Texas|30.286|-97.739|US|Texas|94
 Universitäts- und Hansestadt Greifswald|54.089|13.402|DE|Mecklenburg-Vorpommern|94
+University of Toronto|43.662|-79.394|CA|Ontario|94|f
 University Heights|52.144|-106.579|CA|Saskatchewan|94
+University Cologne|50.928|6.928|DE|North Rhine-Westphalia|94|f
 Untolovo|60.012|30.209|RU|Leningradskaya Oblast'|94
 União|-4.586|-42.864|BR|Piauí|93
+University of Manchester|53.467|-2.234|GB|England|93|f
+University of Wisconsin-Madison|43.074|-89.411|US|Wisconsin|93|f
 Unnan|35.243|132.900|JP|Shimane|93
 University|28.074|-82.439|US|Florida|92
 Unzen|32.771|130.248|JP|Nagasaki|92
+University of Concepción|-36.829|-73.037|CL|Biobio|92|f
+University of Southern California|34.021|-118.286|US|California|91|f
 University City|38.656|-90.309|US|Missouri|91
 Ungheni|47.210|27.800|MD|Ungheni|91
 Unión de Reyes|22.795|-81.537|CU|Matanzas Province|91
+University of Hamburg|53.567|9.984|DE|Hamburg|90|f
+University of Salamanca|40.961|-5.667|ES|Castille and León|90|f
 University Place|47.236|-122.550|US|Washington|90
 Universidad|40.426|-3.707|ES|Madrid|90
 Unchagao|16.697|74.273|IN|Maharashtra|90
 Un|23.887|71.770|IN|Gujarat|90
+Unimak Island|54.768|-164.187|US|Alaska|90|f
+University of Basel|47.558|7.584|CH|Basel-City|90|f
+University of Sheffield|53.381|-1.488|GB|England|89|f
 Unamaucheri|12.861|80.107|IN|Tamil Nadu|89
 Unecha|52.843|32.688|RU|Bryansk Oblast|89
 Unterschleißheim|48.280|11.577|DE|Bavaria|89
@@ -43,12 +57,17 @@ Universidade Rural|-22.766|-43.691|BR|Rio de Janeiro|88
 Unity|8.650|29.850|SS||88|r
 Uniondale|40.700|-73.593|US|New York|88
 University Park|32.850|-96.800|US|Texas|88
+University of Lausanne|46.524|6.584|CH|Vaud|88|f
 Unionport|40.827|-73.850|US|New York|88
 Unnamalaikadai|8.300|77.241|IN|Tamil Nadu|87
+University of Florida (UF)|29.644|-82.355|US|Florida|87|f
 Undurkhaan|47.319|110.656|MN|Hentiy|87
+University of Aberdeen|57.165|-2.100|GB|Scotland|87|f
 Unterhaching|48.066|11.616|DE|Bavaria|86
 Union City|33.587|-84.542|US|Georgia|86
+University of Alberta|53.526|-113.526|CA|Alberta|86|f
 Universal City|29.548|-98.291|US|Texas|86
+University of Warwick|52.381|-1.562|GB|England|86|f
 Union Hill-Novelty Hill|47.679|-122.028|US|Washington|85
 Una|31.465|76.269|IN|Himachal Pradesh|85
 Un Chau Estate|22.336|114.156|HK|Sham Shui Po District|85
@@ -57,55 +76,92 @@ Unchahra|24.383|80.781|IN|Madhya Pradesh|85
 University City|39.951|-75.195|US|Pennsylvania|85
 University Endowment Lands|49.264|-123.239|CA|British Columbia|85
 Undera|22.348|73.133|IN|Gujarat|85
+Unalaska Island|53.673|-166.648|US|Alaska|84|f
+University of Alabama|33.209|-87.541|US|Alabama|84|f
+University of Miami|25.720|-80.279|US|Florida|84|f
+University of the Witwatersrand|-26.191|28.030|ZA|Gauteng|84|f
 Unterkrozingen|47.919|7.690|DE|Baden-Wurttemberg|84
 Unhel|23.338|75.559|IN|Madhya Pradesh|84
 Unquillo|-31.237|-64.312|AR|Cordoba|84
 Ūn|29.585|77.255|IN|Uttar Pradesh|84
+University of Dhaka|23.732|90.392|BD|Dhaka Division|83|f
+University of Ottawa|45.424|-75.683|CA|Ontario|83|f
 Union Square|42.380|-71.097|US|Massachusetts|83
 Ungutūru|16.822|81.424|IN|Andhra Pradesh|83
 Unión Hidalgo|16.472|-94.830|MX|Oaxaca|83
 University Heights|41.498|-81.537|US|Ohio|82
 Uniāra|25.915|76.026|IN|Rajasthan|82
+University of Leicester|52.621|-1.124|GB|England|82|f
+University of Nairobi|-1.279|36.822|KE|Nairobi County|82|f
 Unguía|8.044|-77.091|CO|Chocó|82
 Union Market|38.909|-76.998|US|District of Columbia|82
+Unalaska Airport|53.900|-166.543|US|Alaska|81|f
+University of Bolton Stadium|53.580|-2.536|GB|England|81|f
+University of Dar es Salaam|-6.782|39.206|TZ|Dar es Salaam Region|81|f
 Uniāra|26.153|75.215|IN|Rajasthan|81
 Uničov|49.771|17.121|CZ|Olomouc Region|81
+United Center|41.881|-87.674|US|Illinois|81|f
 Union|38.450|-91.008|US|Missouri|81
 Unhos|38.820|-9.120|PT|Lisbon|81
 Unidad Habitacional José María Morelos y Pavón|18.820|-99.262|MX|Morelos|81
 Union City|36.424|-89.057|US|Tennessee|80
 Unterföhring|48.193|11.643|DE|Bavaria|80
+University of Essex|51.878|0.949|GB|England|80|f
+University of Kent|51.298|1.061|GB|England|80|f
 Uniontown|39.900|-79.716|US|Pennsylvania|80
 Union Park|28.568|-81.286|US|Florida|80
+University of Illinois Willard Airport|40.039|-88.278|US|Illinois|80|f
 Unión Chocó|8.084|-77.535|PA|Embera|80
 Unión de Tula|19.956|-104.268|MX|Jalisco|79
 Unterhausen|48.430|9.255|DE|Baden-Wurttemberg|79
+Unalga Island|53.976|-166.144|US|Alaska|79|f
+United States Holocaust Memorial Museum|38.887|-77.033|US|District of Columbia|79|f
+University of San Francisco|37.775|-122.451|US|California|79|f
+University Square|44.436|26.103|RO|Bucharest|79|f
 Ūncha Sawāna|29.621|76.999|IN|Haryana|79
 Uncía|-18.467|-66.567|BO|Potosí Department|79
 Unieux|45.404|4.271|FR|Auvergne-Rhône-Alpes|79
 Ungsang-nodongjagu|42.358|130.462|KP|Rason|78
+University of Ibadan|7.443|3.902|NG|Oyo State|78|f
+University of Zimbabwe|-17.784|31.053|ZW|Harare|78|f
 Unión y Progreso|18.873|-97.119|MX|Veracruz|78
 Union|34.715|-81.624|US|South Carolina|78
 Unterägeri|47.136|8.585|CH|Zug|78
+University College Dublin|53.308|-6.220|IE|Leinster|78|f
+University of Exeter|50.735|-3.534|GB|England|78|f
 Unión de San Antonio|21.127|-102.006|MX|Jalisco|78
 Untergruppenbach|49.089|9.275|DE|Baden-Wurttemberg|78
 United Townships of Dysart, Dudley, Harcourt, Guilford, Harburn, Bruton, Havelock, Eyre and Clyde|45.200|-78.417|CA|Ontario|77
+Unalakleet Airport|63.888|-160.800|US|Alaska|77|f
+Université du Québec à Montréal|45.512|-73.561|CA|Quebec|77|f
+University of Phoenix Stadium|33.528|-112.263|US|Arizona|77|f
+University of the West Indies|18.007|-76.746|JM|Saint Andrew Parish|77|f
 Unsworth Heights|-36.754|174.721|NZ|Auckland|76
 Unionville|35.087|-80.509|US|North Carolina|76
 Union|39.898|-84.306|US|Ohio|76
 Ungheni|46.483|24.467|RO|Mureș County|76
 Untermeitingen|48.161|10.807|DE|Bavaria|76
+Union Island|12.601|-61.436|VC|Grenadines Parish|76|f
 Untersiggenthal|47.502|8.256|CH|Aargau|76
 Untergriesbach|48.574|13.667|DE|Bavaria|76
 Union Gap|46.557|-120.475|US|Washington|76
 Undy|51.575|-2.815|GB|Wales|75
 Untsukul’|42.711|46.787|RU|Dagestan|75
+University ITMO|59.956|30.310|RU|Leningradskaya Oblast'|75|f
+University of Central Florida|28.602|-81.200|US|Florida|75|f
+University of South Florida|28.059|-82.414|US|Florida|75|f
+Unmu-do|39.414|125.119|KP|P'yŏngan-bukto|75|f
 Union|38.946|-84.680|US|Kentucky|75
 Unidad Minera 11 de Julio|20.105|-98.723|MX|Hidalgo|75
 Ungca|10.750|122.550|PH|Western Visayas|75
 Union Beach|40.447|-74.178|US|New Jersey|75
 Uniondale|-33.659|23.123|ZA|Western Cape|75
 Unhošť|50.085|14.130|CZ|Central Bohemia|74
+Union Square|37.788|-122.407|US|California|74|f
+Unity Arena|59.903|10.624|NO|Akershus|74|f
+University of Alicante|38.384|-0.512|ES|Valencia|74|f
+University of Oklahoma Westheimer Airport|35.246|-97.472|US|Oklahoma|74|f
+Unst|60.750|-0.883|GB|Scotland|74|f
 Unterseen|46.685|7.847|CH|Bern|74
 Unkel|50.597|7.219|DE|Rheinland-Pfalz|74
 Union Grove|42.688|-88.051|US|Wisconsin|74
@@ -113,6 +169,8 @@ Untermhaus|50.885|12.065|DE|Thuringia|74
 Unidad Acaquilpan|19.367|-98.939|MX|México|74
 Uni|57.755|51.489|RU|Kirov Oblast|74
 Unisan|13.841|121.975|PH|Calabarzon|74
+University of Limerick|52.679|-8.566|IE|Munster|73|f
+Unjangsan|35.911|127.358|KR|Jeollabuk-do|73|f
 Unterschneidheim|48.933|10.367|DE|Baden-Wurttemberg|73
 Union|10.669|124.325|PH|Central Visayas|73
 Unterensingen|48.655|9.358|DE|Baden-Wurttemberg|73
@@ -122,6 +180,9 @@ Unirea|44.150|23.183|RO|Dolj|73
 Untersiemau|50.194|10.974|DE|Bavaria|72
 University Park|32.283|-106.753|US|New Mexico|72
 Unterlüß|52.835|10.297|DE|Lower Saxony|72
+Uncompahgre Peak|38.072|-107.462|US|Colorado|72|f
+União da Vitória Airport|-26.233|-51.068|BR|Santa Catarina|72|f
+Union Glacier|-79.750|-82.500|AQ||72|f
 Unterjettingen|48.562|8.784|DE|Baden-Wurttemberg|72
 Unterbreizbach|50.817|9.983|DE|Thuringia|72
 Unirea|46.404|23.813|RO|Alba County|72
@@ -132,6 +193,9 @@ União de Minas|-19.529|-50.334|BR|Minas Gerais|72
 Unidad Habitacional José María Morelos y Pavón|18.620|-99.219|MX|Morelos|71
 Ungheni|44.500|24.967|RO|Arges|71
 Unadilla|32.262|-83.737|US|Georgia|71
+Unalaska Bay|53.951|-166.514|US|Alaska|71|f
+University College Cork|51.893|-8.493|IE|Munster|71|f
+University of Arizona Herbariums (ARIZ)|32.232|-110.956|US|Arizona|71|f
 University Center|39.057|-77.444|US|Virginia|71
 Unzad|15.919|120.539|PH|Ilocos|71
 Unicoi|36.195|-82.350|US|Tennessee|71
@@ -147,6 +211,7 @@ Underberg|-29.791|29.494|ZA|KwaZulu-Natal|70
 Union City|41.900|-79.845|US|Pennsylvania|70
 Une|4.403|-74.025|CO|Cundinamarca|70
 Unidad Habitacional Rinconada Acolapa|18.897|-99.131|MX|Morelos|70
+Unaksan|37.877|127.325|KR|Gyeonggi-do|70|f
 Unterkulm|47.310|8.114|CH|Aargau|70
 Unguraş|47.117|24.050|RO|Cluj County|70
 Unţeni|47.800|26.783|RO|Botoșani County|70
@@ -161,6 +226,9 @@ Unterwaltersdorf|47.961|16.430|AT|Lower Austria|69
 União do Oeste|-26.761|-52.855|BR|Santa Catarina|69
 Unterthingau|47.772|10.504|DE|Bavaria|69
 Unterpleichfeld|49.869|10.044|DE|Bavaria|69
+Underhill Stadium|51.646|-0.192|GB|England|69|f
+University of California, Berkeley|37.872|-122.260|US|California|69|f
+University Peak|61.328|-141.783|US|Alaska|69|f
 Unterengstringen|47.414|8.448|CH|Zurich|69
 University Park|38.970|-76.942|US|Maryland|69
 Unión Juárez|15.063|-92.081|MX|Chiapas|68
@@ -183,6 +251,11 @@ Union|44.211|-69.274|US|Maine|67
 Union|11.761|121.896|PH|Western Visayas|67
 Unterreichenbach|48.825|8.709|DE|Baden-Wurttemberg|67
 Union|10.047|124.515|PH|Central Visayas|67
+Un’gyo-san|37.138|128.653|KR|Gangwon-do|67|f
+Una National Park|44.578|16.086|BA||67|f
+United States Army Aviation Museum|31.324|-85.713|US|Alabama|67|f
+University of Bologna|44.497|11.353|IT|Emilia-Romagna|67|f
+University of Hertfordshire|51.753|-0.242|GB|England|67|f
 Unión Ejidal Tierra y Libertad|19.657|-98.338|MX|Tlaxcala|67
 Unterpremstätten|46.965|15.404|AT|Styria|67
 Unterdietfurt|48.383|12.667|DE|Bavaria|67
@@ -200,6 +273,12 @@ Ungra|45.983|25.267|RO|Brașov County|66
 Unterlangkampfen|47.550|12.100|AT|Tyrol|66
 Union City|35.392|-97.941|US|Oklahoma|66
 Unnau|50.649|7.908|DE|Rheinland-Pfalz|66
+Uncanoonuc Mountains|42.991|-71.605|US|New Hampshire|65|f
+Unimak Bight|54.581|-164.180|US|Alaska|65|f
+Union Canal|55.967|-3.133|GB|Scotland|65|f
+Université d'Alger|36.771|3.055|DZ|Algiers|65|f
+University of Alaska Museum of the North|64.859|-147.842|US|Alaska|65|f
+Unmu-san|37.650|128.202|KR|Gangwon-do|65|f
 Unión Buena Vista|16.486|-92.818|MX|Chiapas|65
 Unionville|31.435|-83.510|US|Georgia|65
 Unión Roja|15.047|-92.217|MX|Chiapas|65
@@ -221,6 +300,12 @@ Unidad Habitacional 10 de Abril|18.754|-98.916|MX|Morelos|64
 Untrasried|47.833|10.383|DE|Bavaria|64
 Unirea|45.740|27.107|RO|Vrancea|64
 Uncasville|41.435|-72.110|US|Connecticut|64
+Unicoi Mountains|35.313|-84.026|US|North Carolina|63|f
+Unimai|-7.229|177.163|TV|Nui|63|f
+Union Peak|42.831|-122.224|US|Oregon|63|f
+University of Barisal|22.660|90.362|BD|Barisal Division|63|f
+University of Medicine and Dentistry of New Jersey|40.740|-74.189|US|New Jersey|63|f
+University of Oregon Autzen Stadium|44.058|-123.068|US|Oregon|63|f
 Unterammergau|47.617|11.027|DE|Bavaria|63
 Unteregg|47.967|10.467|DE|Bavaria|63
 Unionville|35.622|-86.593|US|Tennessee|63
@@ -241,6 +326,20 @@ Unín|48.725|17.215|SK|Trnava Region|61
 Unterschefflenz|49.393|9.270|DE|Baden-Wurttemberg|61
 Union Hall|37.019|-79.686|US|Virginia|61
 University Heights|41.655|-91.557|US|Iowa|61
+Una-Comandatuba Airport|-15.357|-38.998|BR|Bahia|61|f
+Uncatena Island|41.517|-70.705|US|Massachusetts|61|f
+Unga Island|55.261|-160.695|US|Alaska|61|f
+Union County Airport|34.685|-81.642|US|South Carolina|61|f
+Unity Pond|44.646|-69.330|US|Maine|61|f
+University Bridge|47.653|-122.320|US|Washington|61|f
+University of Economics, Prague|50.084|14.441|CZ|Prague|61|f
+University of Iceland|64.141|-21.949|IS|Capital Region|61|f
+University of Monterrey|25.661|-100.420|MX|Nuevo León|61|f
+University of Technology of Compiègne|49.415|2.817|FR|Hauts-de-France|61|f
+University Peak|36.748|-118.361|US|California|61|f
+Unneruskollen Island|-70.500|-6.167|AQ||61|f
+Unter-See, Lake|-71.350|13.467|AQ||61|f
+Untzillatx|43.128|-2.645|ES|Basque Country|61|f
 Undløse|55.605|11.588|DK|Zealand|61
 Únanov|48.901|16.064|CZ|South Moravian|61
 Unadilla|42.325|-75.312|US|New York|61
@@ -255,35 +354,359 @@ Unión Agropecuarios Lázaro Cárdenas del Norte|25.832|-100.384|MX|Nuevo León|
 Unión Juárez|17.281|-92.400|MX|Chiapas|60
 Unidos Avanzamos|22.434|-97.972|MX|Tamaulipas|60
 Unión de Azuero|9.158|-79.168|PA|Panamá|60
+Unieście|54.272|16.098|PL|West Pomerania|60
+Unsleben|50.379|10.253|DE|Bavaria|60
+Unterdorf|47.845|13.228|AT|Salzburg|60
+Ungureni|44.937|25.811|RO|Prahova|60
+Union Bridge|39.569|-77.177|US|Maryland|60
+Uniontown|37.775|-87.931|US|Kentucky|60
+Unionville|40.941|-79.962|US|Pennsylvania|60
+Unterroth|48.196|10.171|DE|Bavaria|60
+Underwood|41.387|-95.677|US|Iowa|59
+Unterschwaningen|49.080|10.622|DE|Bavaria|59
+Unión Hidalgo (El Chorro)|17.361|-92.602|MX|Chiapas|59
+Unión de Guadalupe|19.910|-103.451|MX|Jalisco|59
+Untermarchtal|48.239|9.610|DE|Baden-Wurttemberg|59
 Ungerdorf|47.083|15.667|AT|Styria|59
+Unión de Progreso (Lomas de Irapeo)|19.677|-101.047|MX|Michoacán|59
+Union|30.087|-90.905|US|Louisiana|59
+Unterweißbach|50.614|11.167|DE|Thuringia|59
+Unidad Habitacional CTM|20.100|-98.721|MX|Hidalgo|59
+Unterweissenbach|48.435|14.782|AT|Upper Austria|59
+Undeloh|53.197|9.976|DE|Lower Saxony|59
+Unterrohr|47.250|16.050|AT|Styria|59
+Unidad Habitacional Dina-Sidena Chacón|20.084|-98.739|MX|Hidalgo|59
+Unidad Obrera Habitacional CTM|19.924|-99.320|MX|Hidalgo|59
+Unterach (Attersee)|47.805|13.487|AT|Upper Austria|59
+Ungureni|45.035|26.386|RO|Prahova|59
+Ungureni|44.785|25.900|RO|Dâmbovița County|59
 Uncastillo|42.360|-1.128|ES|Aragon|59
+Unión Miramar|14.945|-92.352|MX|Chiapas|59
 Ungureni|46.523|27.112|RO|Bacău County|59
+Unterweitersdorf|48.367|14.468|AT|Upper Austria|59
+Unnaryd|56.950|13.517|SE|Halland|58
+Unteraigen|48.332|16.129|AT|Lower Austria|58
+Unaka Mountains|36.103|-82.363|US|North Carolina|58|f
+Unalga Island|51.580|-179.046|US|Alaska|58|f
+Undalsan|36.757|128.199|KR|Gyeongsangbuk-do|58|f
+Undine South Harbour|-54.527|-36.536|GS||58|f
+Ungilsan|37.573|127.294|KR|Gyeonggi-do|58|f
+Unhyeongung|37.576|126.987|KR|Seoul|58|f
+Unitaa|7.540|168.877|MH|Ailinglaplap Atoll|58|f
+United States Mountain|37.957|-107.739|US|Colorado|58|f
+Univ. Río Matanza Aeroclub|-34.728|-58.501|AR|Buenos Aires|58|f
+Université libre de Bruxelles (ULB)|50.813|4.382|BE|Brussels Capital|58|f
+University Museum and Art Gallery|22.284|114.139|HK|Central and Western|58|f
+University of Amsterdam|52.369|4.890|NL|North Holland|58|f
+University of Guam|13.432|144.803|GU|Mangilao|58|f
+Unjusa|34.926|126.880|KR|Jeollanam-do|58|f
+Untersberg|47.700|12.983|AT||58|f
+Union|41.991|-72.157|US|Connecticut|58
+Unión y Progreso|16.478|-93.322|MX|Chiapas|58
+Untergrünburg|47.972|14.265|AT|Upper Austria|58
+Underwood|47.456|-101.137|US|North Dakota|58
+Unterwald|48.017|14.467|AT|Upper Austria|58
+Unțești|46.397|27.732|RO|Vaslui County|58
+Unión Agrarista|16.476|-93.679|MX|Chiapas|58
+Unión Capiri|-11.092|-74.702|PE|Junin|58
+Unterschächen|46.863|8.769|CH|Uri|58
+Unterstadion|48.203|9.688|DE|Baden-Wurttemberg|58
+Unión Jamaica|15.338|-92.526|MX|Chiapas|58
+Unwa Birit|26.785|84.815|IN|Bihar|58
+Unzmarkt|47.200|14.450|AT|Styria|57
+Untergroßau|47.102|15.811|AT|Styria|57
+Unterhart|48.196|14.076|AT|Upper Austria|57
+Untertweng|46.790|13.736|AT|Carinthia|57
+Unkovice|49.019|16.604|CZ|South Moravian|57
+Unalakleet|63.873|-160.788|US|Alaska|57
+Unternalb|48.741|15.958|AT|Lower Austria|57
 Unterwart|47.264|16.229|AT|Burgenland|57
+Uncești|47.528|26.323|RO|Suceava|57
+Unterstammheim|47.639|8.791|CH|Zurich|57
+Unión Juárez|17.387|-92.629|MX|Chiapas|57
+Unteramt|47.998|15.039|AT|Lower Austria|57
+Unterpuchenau|48.328|14.235|AT|Upper Austria|57
+Unterwasser|47.197|9.309|CH|Saint Gallen|57
+Ungheni|47.200|27.783|RO|Iași County|57
 Unterfrauenhaid|47.571|16.499|AT|Burgenland|57
+Unterweissenbach|46.950|15.850|AT|Styria|57
+Unión de Tabiqueros del Río Grande de Morelia|19.679|-101.246|MX|Michoacán|57
+Unterolberndorf|48.433|16.483|AT|Lower Austria|56
+Unión Zaragoza|17.081|-92.847|MX|Chiapas|56
 Unterlamm|46.977|16.064|AT|Styria|56
+Unión Zapata|16.917|-96.413|MX|Oaxaca|56
+Unhais-o-Velho|40.131|-7.810|PT|Coimbra|56
+Un|13.675|107.337|KH|Ratanakiri|56
+Unterretzbach|48.767|16.000|AT|Lower Austria|56
+Union|47.355|-123.101|US|Washington|56
+Unterschönau|50.717|10.583|DE|Thuringia|56
+Unidad Antorchista|19.138|-96.236|MX|Veracruz|56
+Untermieming|47.295|10.980|AT|Tyrol|56
+Unterfreundorf|48.260|13.941|AT|Upper Austria|56
+Unimăt|47.505|22.745|RO|Satu Mare County|56
+Unidad Familiar Confederación de Trabajadores Campesinos|19.777|-99.079|MX|México|56
+Unterbuch|47.227|15.990|AT|Styria|56
+Unionville|41.302|-74.562|US|New York|55
+Unión Progreso|15.586|-92.229|MX|Chiapas|55
+Undersåker|63.317|13.248|SE|Jämtland|55
+Ungheni|47.265|26.459|RO|Neamț County|55
+Unidad Habitacional II|19.324|-98.281|MX|Tlaxcala|55
+Unterellen|50.967|10.160|DE|Thuringia|55
 Unterstinkenbrunn|48.668|16.346|AT|Lower Austria|55
 Union|37.592|-80.544|US|West Virginia|55
+Union|42.233|-88.542|US|Illinois|55
+Úněšov|49.883|13.149|CZ|Plzeň Region|55
+Ungarie|-33.642|146.975|AU|New South Wales|55
+Unterneuberg|47.317|15.850|AT|Styria|55
+Unec|45.816|14.294|SI|Municipality of Cerknica|54
+Únětice|50.150|14.354|CZ|Central Bohemia|54
+Undara Volcanic National Park|-18.285|144.631|AU|Queensland|54|f
+Underi Island|18.707|72.842|IN|Maharashtra|54|f
+Undu Bay|58.466|23.202|EE|Saare|54|f
+Ungane Islands|-69.267|39.483|AQ||54|f
+Ungava Peninsula|60.000|-73.999|CA|Quebec|54|f
+Unguan Island|18.437|93.906|MM|Rakhine|54|f
+Unicamp|-22.816|-47.069|BR|São Paulo|54|f
+Unicorn Mountain|51.433|-125.186|CA|British Columbia|54|f
+Unicorn Peak|48.011|-123.522|US|Washington|54|f
+Union Island Airport|12.600|-61.412|VC|Grenadines Parish|54|f
+Union Parish Airport|32.722|-92.337|US|Louisiana|54|f
+Union Pond|41.763|-70.671|US|Massachusetts|54|f
+Unionville Municipal Airport|40.537|-93.024|US|Missouri|54|f
+Unison Island|10.334|122.588|PH|Western Visayas|54|f
+United States Naval Academy Bridge|38.993|-76.487|US|Maryland|54|f
+United States Navy Memorial|38.899|-77.022|US|District of Columbia|54|f
+Unity Lake State Recreation Site|44.499|-118.187|US|Oregon|54|f
+Universidad de Cuenca|-2.900|-79.009|EC|Azuay|54|f
+Universidad del Pacífico|-12.080|-77.046|PE|Lima region|54|f
+University of Arkansas for Medical Sciences|34.749|-92.320|US|Arkansas|54|f
+University of California Santa Cruz|36.997|-122.053|US|California|54|f
+University of Eduardo Mondlane|-25.952|32.604|MZ|Maputo Province|54|f
+University of Lübeck|53.834|10.704|DE|Schleswig-Holstein|54|f
+University of Peloponnese|37.527|22.371|GR|Peloponnese|54|f
+University of Trieste|45.659|13.793|IT|Friuli Venezia Giulia|54|f
+University of Warsaw|52.240|21.019|PL|Mazovia|54|f
+University of West Florida|30.542|-87.219|US|Florida|54|f
+University of Wrocław|51.114|17.034|PL|Lower Silesia|54|f
+University-Oxford Airport|34.383|-89.540|US|Mississippi|54|f
+Unmun-sa|35.662|128.961|KR|Gyeongsangbuk-do|54|f
+Untere Wublitz|52.431|12.945|DE|Brandenburg|54|f
+Πανεπιστήμιο Πειραιώς|37.942|23.653|GR|Attica|54|f|University of Piraeus
+Unterbergern|48.367|15.550|AT|Lower Austria|54
+Unterrabnitz|47.454|16.377|AT|Burgenland|54
+Untershausen|50.401|7.844|DE|Rheinland-Pfalz|54
+Untergreith|46.717|15.350|AT|Styria|54
+Unzenberg|49.970|7.439|DE|Rheinland-Pfalz|53
+Unterkatz|50.619|10.257|DE|Thuringia|53
 Unken|47.650|12.729|AT|Salzburg|53
 Unión Santeña|8.835|-78.649|PA|Panamá|52
 Unterfladnitz|47.183|15.667|AT|Styria|50
+Understen|60.283|18.900|SE|Stockholm|49|f
+Underwood Glacier|-66.600|108.083|AQ||49|f
+Union County Airport|40.226|-83.351|US|Ohio|49|f
+United States Army Medical Department Museum|29.461|-98.438|US|Texas|49|f
+Universidad de Costa Rica sede del Caribe|9.985|-83.061|CR|Limón Province|49|f
+Universidade de Brasília|-15.762|-47.871|BR|Federal District|49|f
+Universita Ca'Foscari di Venezia|45.435|12.326|IT|Veneto|49|f
+University Airport|38.532|-121.788|US|California|49|f
+University Avenue Bridge|39.943|-75.197|US|Pennsylvania|49|f
+university Lusiada|38.698|-9.192|PT|Lisbon|49|f
+University of Aalborg|57.015|9.987|DK|North Denmark|49|f
+University of Applied Sciences Augsburg|48.355|10.906|DE|Bavaria|49|f
+University of Aston|52.486|-1.889|GB|England|49|f
+University of Buenos Aires|-34.600|-58.373|AR|Buenos Aires F.D.|49|f
+University of Coimbra|40.209|-8.424|PT|Coimbra|49|f
+University of Copenhagen Botanical Garden|55.687|12.573|DK|Capital Region|49|f
+University of Flores|-38.940|-68.003|AR|Rio Negro|49|f
+University of Gezira|14.386|33.529|SD||49|f
+University of Guyana|6.812|-58.117|GY|Demerara-Mahaica|49|f
+University of Twente|52.239|6.850|NL|Overijssel|49|f
+University of Uppsala Botanical Garden|59.853|17.630|SE|Uppsala|49|f
+Unley Oval|-34.950|138.612|AU|South Australia|49|f
+Unnukka|62.420|27.888|FI|North Savo|49|f
+Unst Baltasound|60.750|-0.850|GB|Scotland|49|f
+Unteraargletscher|46.567|8.213|CH|Bern|49|f
+Unterberg|47.933|15.817|AT|Lower Austria|49|f
+Untere Wildgruben Spitze|47.167|10.117|AT|Vorarlberg|49|f
+Unternberg|47.731|12.642|DE|Bavaria|49|f
+Unwin Range|50.177|-124.584|CA|British Columbia|49|f
 Unterbergla|46.807|15.315|AT|Styria|49
 Unešić|43.741|16.190|HR|Šibenik-Knin|48
 Uñón|-15.728|-72.433|PE|Arequipa|48
 Untertauern|47.304|13.507|AT|Salzburg|48
+Unkenbach|49.717|7.750|DE|Rheinland-Pfalz|48
 Untertilliach|46.703|12.678|AT|Tyrol|47
 Unterkohlstätten|47.376|16.325|AT|Burgenland|47
 Unterperfuss|47.267|11.250|AT|Tyrol|47
 Unterauersbach|46.866|15.770|AT|Styria|47
 Uña de Quintana|42.087|-6.145|ES|Castille and León|46
+Unterbodnitz|50.817|11.650|DE|Thuringia|46
 Ungenach|48.048|13.615|AT|Upper Austria|46
+Unterwachingen|48.203|9.644|DE|Baden-Wurttemberg|45
 Unzué|42.653|-1.626|ES|Navarre|43
 Uña|40.224|-1.978|ES|Castille-La Mancha|43
+Unterjeckenbach|49.667|7.483|DE|Rheinland-Pfalz|40
+Una Lake|34.550|-118.111|US|California|40|f
+Una Peaks|-65.024|-63.777|AQ||40|f
+Unadilla Lake|42.920|-75.078|US|New York|40|f
+UNAM FAD Academia de San Carlos|19.433|-99.129|MX|Mexico City|40|f
+UnderWater World|-26.683|153.121|AU|Queensland|40|f
+Unger Peak|-79.350|-86.167|AQ||40|f
+Unghürhörner|46.812|10.013|CH|Grisons|40|f
+Unicoi State Park|34.725|-83.722|US|Georgia|40|f
+Unicorn Glacier|46.745|-121.707|US|Washington|40|f
+Unicorn Peak|46.745|-121.701|US|Washington|40|f
+Union Bay|55.761|-132.213|US|Alaska|40|f
+Union Bay Natural Area|47.655|-122.293|US|Washington|40|f
+Union Canal|30.040|-94.048|US|Texas|40|f
+Union Corner Provincial Park|46.383|-63.982|CA|Prince Edward Island|40|f
+Union Lake|42.606|-83.434|US|Michigan|40|f
+Union Peak|43.456|-109.788|US|Wyoming|40|f
+Union Slough National Wildlife Refuge|43.263|-94.134|US|Iowa|40|f
+Union Square|38.890|-77.014|US|District of Columbia|40|f
+Union Stockyards (Omaha)|41.211|-95.956|US|Nebraska|40|f
+Union Valley Reservoir|38.873|-120.407|US|California|40|f
+Union Village Covered Bridge|43.789|-72.254|US|Vermont|40|f
+Unipol Arena|44.486|11.248|IT|Emilia-Romagna|40|f
+Unisphere|40.746|-73.845|US|New York|40|f
+United Spirit Arena|33.581|-101.887|US|Texas|40|f
+United States Department of the Interior Museum|38.882|-77.043|US|District of Columbia|40|f
+United States Range|82.419|-67.992|CA|Nunavut|40|f
+United Verde Mine|34.750|-112.124|US|Arizona|40|f
+Universidad Anahuac|19.402|-99.262|MX|México|40|f
+Universidad Autónoma de Guadalajara|20.695|-103.418|MX|Jalisco|40|f
+Universidad Catolica de la Santisima Concepción|-36.798|-73.055|CL|Biobio|40|f
+Universidad Católica de Oriente|6.150|-75.366|CO|Antioquia|40|f
+Universidad de Costa Rica|9.937|-84.054|CR|San José|40|f
+Universidad de León|42.612|-5.560|ES|Castille and León|40|f
+Universidad de Playa Ancha de Ciencias de la Educación|-33.024|-71.641|CL|Valparaiso|40|f
+Universidad del Bio-Bio|-36.821|-73.015|CL|Biobio|40|f
+Universidad del Magdalena|11.222|-74.186|CO|Magdalena Department|40|f
+Universidad del Norte|11.020|-74.850|CO|Atlántico|40|f
+Universidad Metropolitana de Monterrey|25.674|-100.313|MX|Nuevo León|40|f
+Universidad Miguel Hernández|38.275|-0.687|ES|Valencia|40|f
+Universidad San Francisco de Quito|-0.197|-78.436|EC|Pichincha|40|f
+Universidad San Sebastián|-36.814|-73.044|CL|Biobio|40|f
+Universidad Técnica Federico Santa María|-33.035|-71.596|CL|Valparaiso|40|f
+Universidad Técnica Particular de Loja|-3.988|-79.199|EC|Loja|40|f
+Universidad Tecnológica de Bolívar|10.413|-75.538|CO|Bolívar|40|f
+Universidade Federal de Mato Grosso do Sul|-20.504|-54.614|BR|Mato Grosso do Sul|40|f
+Universidade Nacional Timor Lorosa'e|-8.556|125.579|TL|Dili Municipality|40|f
+Università degli Studi di Brescia|45.544|10.218|IT|Lombardy|40|f
+Università degli Studi di Napoli Federico II|40.846|14.258|IT|Campania|40|f
+Universita di Pavia|45.187|9.156|IT|Lombardy|40|f
+Universitas Airlangga|-7.268|112.771|ID|East Java|40|f
+Universitas Bengkulu|-3.760|102.277|ID|Bengkulu|40|f
+Universitas Jenderal Soedirman|-7.408|109.253|ID|Central Java|40|f
+Universitas Lampung|-5.365|105.243|ID|Lampung|40|f
+Universitas Riau|0.474|101.380|ID|Riau|40|f
+Universitas Sebelas Maret|-7.560|110.789|ID|Central Java|40|f
+Universitas Tadulako|-0.838|119.896|ID|Central Sulawesi|40|f
+Universität Augsburg|48.335|10.897|DE|Bavaria|40|f
+Universität Passau|48.568|13.453|DE|Bavaria|40|f
+Universität Salzburg|47.788|13.060|AT|Salzburg|40|f
+Universität Wien|48.213|16.360|AT|Vienna|40|f
+Université d'Abomey-Calavi|6.441|2.352|BJ|Atlantique|40|f
+Université de Deusto|43.271|-2.939|ES|Basque Country|40|f
+Université de Gênes|44.415|8.927|IT|Liguria|40|f
+Université de Lome|6.177|1.213|TG||40|f
+Université de technologie de Troyes|48.269|4.071|FR|Grand Est|40|f
+Université Ibn Zohr|30.406|-9.546|MA|Souss-Massa|40|f
+Université Paris 1 Panthéon-Sorbonne|48.847|2.345|FR|Île-de-France|40|f
+Université Paris-Sud|48.701|2.180|FR|Île-de-France|40|f
+Universitetshuset|55.706|13.193|SE|Skåne|40|f
+Universiti Brunei Darussalam|4.973|114.894|BN|Brunei-Muara District|40|f
+University Cheikh Anta Diop|14.687|-17.463|SN|Dakar|40|f
+University Heights Bridge|40.863|-73.915|US|New York|40|f
+University Museum of Bergen|60.388|5.322|NO|Vestland|40|f
+University Of Agriculture Faisalabad|31.431|73.067|PK|Punjab|40|f
+University of Auckland|-36.852|174.767|NZ|Auckland|40|f
+University of Basrah|30.568|47.749|IQ|Basra|40|f
+University of Belgrade|44.818|20.388|RS|Central Serbia|40|f
+University of Benin|6.340|5.609|NG|Edo State|40|f
+University of Bordeaux 1|44.800|-0.596|FR|New Aquitaine|40|f
+University of Bristol|51.459|-2.603|GB|England|40|f
+University of Bucharest|44.436|26.101|RO|Bucharest|40|f
+University of Burundi|-3.379|29.384|BI|Bujumbura Mairie|40|f
+University of Calicut|11.134|75.894|IN|Kerala|40|f
+University of Cantabria|43.474|-3.799|ES|Cantabria|40|f
+University of Cauca|2.441|-76.605|CO|Cauca Department|40|f
+University of Central Florida Orlando Campus College of Sciences|28.601|-81.200|US|Florida|40|f
+University of Central Florida Orlando Campus Institute for Simulation and Training|28.590|-81.200|US|Florida|40|f
+University of Cyprus|35.160|33.296|CY|Nicosia|40|f
+University of Delaware Bob Hannah Stadium|39.663|-75.748|US|Delaware|40|f
+University of Duhok|36.862|42.987|IQ|Duhok|40|f
+University of Durham|54.766|-1.580|GB|England|40|f
+University of Florence|43.778|11.260|IT|Tuscany|40|f
+University of Geneva|46.200|6.142|CH|Geneva|40|f
+University of Ghana|5.651|-0.190|GH|Greater Accra|40|f
+University of Goroka|-6.059|145.391|PG|Eastern Highlands Province|40|f
+University of Graz|47.078|15.449|AT|Styria|40|f
+University of Iowa Hospitals and Clinics Medical Museum|41.661|-91.548|US|Iowa|40|f
+University of Johannesburg|-26.183|27.999|ZA|Gauteng|40|f
+University of Jos|9.950|8.890|NG|Plateau State|40|f
+University of Juba|4.841|31.590|SS|Central Equatoria|40|f
+University of Kansas - Lawrence Campus Spencer Museum of Art|38.960|-95.245|US|Kansas|40|f
+University of Khartoum|15.612|32.542|SD|Khartoum|40|f
+University of Kinshasa|-4.419|15.310|CD|Kinshasa|40|f
+University of Las Palmas de Gran Canaria|28.099|-15.420|ES|Canary Islands|40|f
+University of Lethbridge|49.677|-112.863|CA|Alberta|40|f
+University of Liberia|6.300|-10.795|LR|Montserrado County|40|f
+University of Lubumbashi|-11.614|27.481|CD|Haut-Katanga|40|f
+University of Luhansk|48.565|39.317|UA|Luhansk|40|f
+University of Mbuji Mayi|-6.113|23.601|CD|East Kasai|40|f
+University of Messina|38.192|15.546|IT|Sicily|40|f
+University of Minho|41.561|-8.396|PT|Braga|40|f
+University of N'Djamena|12.105|15.044|TD|N’Djaména|40|f
+University of Namibia|-22.611|17.058|NA|Khomas Region|40|f
+University of Northern British Columbia|53.891|-122.813|CA|British Columbia|40|f
+University of Nouakchott|18.089|-15.969|MR|Trarza|40|f
+University of Oxford|51.757|-1.256|GB|England|40|f
+University of Padua|45.417|11.867|IT|Veneto|40|f
+University of Papua New Guinea|-9.404|147.171|PG|National Capital|40|f
+University of Peradeniya|7.254|80.597|LK|Central Province|40|f
+University of Piura|-5.174|-80.639|PE|Piura|40|f
+University of Pretoria|-25.755|28.231|ZA|Gauteng|40|f
+University of Reading|51.441|-0.944|GB|England|40|f
+University of Rostock Faculty for Agricultural and Environmental Sciences|54.075|12.098|DE|Mecklenburg-Vorpommern|40|f
+University of Salento|40.356|18.167|IT|Apulia|40|f
+University of Seychelles|-4.740|55.515|SC||40|f
+University of South Florida Contemporary Art Museum|28.064|-82.416|US|Florida|40|f
+University of Strasbourg|48.580|7.764|FR|Grand Est|40|f
+University of Sulaymaniyah|35.567|45.443|IQ|Sulaymaniyah|40|f
+university of surrey|51.243|-0.590|GB|England|40|f
+University of Tartu|58.381|26.720|EE|Tartu|40|f
+University of The Gambia|13.461|-16.676|GM||40|f
+University of Tirana|41.317|19.822|AL|Tirana|40|f
+University of Tokyo|35.713|139.762|JP|Tokyo|40|f
+University of tripoli|32.856|13.221|LY|Tripoli|40|f
+University of Valle|3.375|-76.534|CO|Valle del Cauca Department|40|f
+University of Waikato|-37.787|175.318|NZ|Waikato Region|40|f
+University of Washington Burke Museum|47.661|-122.310|US|Washington|40|f
+University of Washington Quad|47.657|-122.308|US|Washington|40|f
+University of Waterloo|43.472|-80.544|CA|Ontario|40|f
+University of Windsor|42.305|-83.065|CA|Ontario|40|f
+University Of Worcester|52.198|-2.242|GB|England|40|f
+University of Yaoundé I|3.857|11.501|CM|Centre|40|f
+University Peak|-77.867|160.733|AQ||40|f
+Unnecessary Mountain|49.448|-123.200|CA|British Columbia|40|f
+Unter Gabelhorn|46.026|7.698|CH|Valais|40|f
+Unterbächhorn|46.406|7.939|CH|Valais|40|f
+Unterberghorn|47.621|12.436|AT|Tyrol|40|f
+Unterer Grindelwaldgletscher|46.588|8.061|CH|Bern|40|f
+Untermyer Fountain|40.794|-73.952|US|New York|40|f
+Untermyer Park|40.967|-73.887|US|New York|40|f
+Unterrothorn|46.021|7.798|IT|Aosta Valley|40|f
+Unthank Hall|54.961|-2.424|GB|England|40|f
+Unwin Ledge|-77.583|162.617|AQ||40|f
 Undués de Lerda|42.566|-1.169|ES|Aragon|36
 Unterjosefstal|48.292|14.575|AT|Upper Austria|18
 ’Unābah|35.233|69.377|AF|Panjshir|0
 Unaaha|-3.854|122.042|ID|Southeast Sulawesi|0
 Unaizah|26.088|43.964|SA|Al-Qassim Region|0
 Unanu|8.750|150.341|FM|Chuuk|0
+Undaan|-8.196|112.678|ID|East Java|0
+Unden|-7.455|108.210|ID|West Java|0
 Undur Sume|50.473|100.928|MN|Khövsgöl Province|0
 Ungogo|12.092|8.495|NG|Kano State|0
 Ungrej|41.875|19.795|AL|Lezhë County|0
@@ -291,3 +714,5 @@ Ungsang|42.351|130.488|KP|Rason|0
 União da Serra|-28.753|-52.016|BR|Rio Grande do Sul|0
 Unión|15.922|-91.776|GT|Huehuetenango|0
 United States Minor Outlying Islands|5.875|-162.057|UM||0|c
+Unterwaldhausen|47.900|9.467|DE|Baden-Wurttemberg|0
+Unukume|-10.502|121.978|ID|East Nusa Tenggara|0

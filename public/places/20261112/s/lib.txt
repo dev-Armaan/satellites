@@ -1,7 +1,7 @@
 Libya|28.000|17.000|LY||137|c
 Liberia|6.500|-9.500|LR||135|c
 Libreville|0.392|9.454|GA|Estuaire|119
-Liberec Region|50.750|15.000|CZ||111|r
+Liberec Region|50.750|15.000|CZ||112|r
 Libertad|8.944|125.502|PH|Caraga|108
 Liberec|50.767|15.056|CZ|Liberec Region|100
 Libon|13.300|123.439|PH|Bicol Region|97
@@ -19,6 +19,7 @@ Liberal|37.043|-100.921|US|Kansas|86
 Libertyville|42.283|-87.953|US|Illinois|86
 Libiąż|50.104|19.316|PL|Lesser Poland|85
 Libres|19.466|-97.687|MX|Puebla|84
+Liberty Stadium|51.644|-3.930|GB|Wales|83|f
 Libertad|8.327|-69.631|VE|Barinas|82
 Librazhd-Qendër|41.197|20.336|AL|Elbasan County|82
 Libog|13.235|123.778|PH|Bicol Region|81
@@ -35,9 +36,12 @@ Libona|8.339|124.735|PH|Northern Mindanao|75
 Libungan|7.241|124.520|PH|Soccsksargen|75
 Libuš|50.010|14.462|CZ|Prague|75
 Libode|-31.543|29.016|ZA|Eastern Cape|75
+Liberty Cap|37.729|-119.532|US|California|74|f
 Libertad|8.250|124.233|PH||74
 Liberato Salzano|-27.600|-53.073|BR|Rio Grande do Sul|74
 Liberdade|-22.029|-44.320|BR|Minas Gerais|74
+Libenge Airport|3.633|18.633|CD|Sud-Ubangi|73|f
+Liberty Island|40.690|-74.045|US|New York|73|f
 Libin|49.981|5.256|BE|Wallonia|73
 Libertad|8.561|124.351|PH|Northern Mindanao|73
 Libertad|10.917|124.450|PH|Eastern Visayas|73
@@ -60,6 +64,9 @@ Liberty|34.788|-82.692|US|South Carolina|70
 Libertad|10.833|123.567|PH|Western Visayas|70
 Libacao|11.480|122.304|PH|Western Visayas|69
 Liboran|8.355|124.649|PH|Northern Mindanao|69
+Liberty Municipal Airport|30.078|-94.699|US|Texas|69|f
+Libo Airport|25.451|107.962|CN|Guizhou|69|f
+Libyan Desert|23.565|26.156|EG||69|f
 Liberty|35.853|-79.572|US|North Carolina|69
 Liberty|6.520|124.632|PH|Soccsksargen|69
 Libby|48.388|-115.556|US|Montana|68
@@ -82,12 +89,16 @@ Libas|10.939|124.545|PH|Eastern Visayas|66
 Liberty|39.636|-84.931|US|Indiana|66
 Libertad|11.769|121.919|PH|Western Visayas|66
 Libertów|49.972|19.895|PL|Lesser Poland|66
+Liberty Bell Mountain|48.515|-120.658|US|Washington|65|f
 Libouchec|50.759|14.041|CZ|Ústí nad Labem Region|65
 Libhošť|49.624|18.074|CZ|Moravian-Silesian Region|65
 Libre Unión|20.707|-88.809|MX|Yucatán|64
 Libeř|49.924|14.481|CZ|Central Bohemia|64
 Libáň|50.375|15.217|CZ|Hradec Králové Region|64
 Libertad|18.308|-88.454|BZ|Corozal District|63
+Liberty Bridge|45.457|12.293|IT|Veneto|63|f
+Liboi Airport|0.348|40.882|KE|Garissa County|63|f
+Libreville Airport|0.459|9.412|GA|Estuaire|63|f
 Liběšice|50.569|14.289|CZ|Ústí nad Labem Region|63
 Liberty Hill|30.665|-97.923|US|Texas|63
 Libertad Melchor Ocampo|16.374|-93.475|MX|Chiapas|62
@@ -98,20 +109,72 @@ Liberty|41.334|-111.864|US|Utah|62
 Libice nad Cidlinou|50.127|15.178|CZ|Central Bohemia|62
 Liberty Center|41.443|-84.009|US|Ohio|61
 Liberchies|50.514|4.421|BE|Wallonia|61
+Liberal Mid-America Regional Airport|37.044|-100.953|US|Kansas|61|f
+Liberty Bridge|47.486|19.055|HU|Budapest|61|f
 Libertad Álvaro Obregón|19.135|-97.767|MX|Puebla|61
 Libertad|17.410|-92.714|MX|Tabasco|60
+Liběchov|50.408|14.447|CZ|Central Bohemia|60
+Libštát|50.559|15.416|CZ|Liberec Region|60
+Liberty|44.389|-69.303|US|Maine|60
+Libertad|19.547|-97.255|MX|Veracruz|60
+Libertytown|39.485|-77.240|US|Maryland|60
+Libčeves|50.452|13.838|CZ|Ústí nad Labem Region|59
+Libice nad Doubravou|49.745|15.704|CZ|Vysocina|59
+Libertad Jolnishtie 2da. Sección|17.429|-92.510|MX|Chiapas|58
+Libá|50.128|12.231|CZ|Carlsbad Region|58
+Liberty Bay|47.719|-122.644|US|Washington|58|f
+Liberty Mountain|48.130|-121.671|US|Washington|58|f
+Libiola|45.063|11.061|IT|Lombardy|58
+Libčany|50.192|15.695|CZ|Hradec Králové Region|58
+Libuň|50.498|15.299|CZ|Hradec Králové Region|57
+Liberal|37.558|-94.520|US|Missouri|57
+Liberk|50.199|16.343|CZ|Hradec Králové Region|57
 Liberty|31.158|-90.812|US|Mississippi|57
+Liběšice|50.294|13.621|CZ|Ústí nad Labem Region|56
+Liboš|49.692|17.225|CZ|Olomouc Region|56
+Libertad del Pajal|15.779|-92.659|MX|Chiapas|56
 Libavské Údolí|50.129|12.552|CZ|Carlsbad Region|55
+Libertad Campesina|16.879|-93.033|MX|Chiapas|55
+Liberty|43.516|-90.734|US|Wisconsin|55
+Libano|46.152|12.155|IT|Veneto|55
+Libochovany|50.567|14.039|CZ|Ústí nad Labem Region|55
+Libkovice pod Řípem|50.392|14.342|CZ|Ústí nad Labem Region|54
+Libertatea|47.617|27.288|RO|Botoșani County|54
+Libby Dam|48.410|-115.315|US|Montana|54|f
+Liboje|46.211|15.195|SI|Municipality of Žalec|54
+Liberty|39.879|-91.108|US|Illinois|54
+Libočany|50.333|13.513|CZ|Ústí nad Labem Region|54
 Liberi|41.226|14.290|IT|Campania|53
 Librizzi|38.097|14.959|IT|Sicily|50
+Liberty Bend Bridge|39.168|-94.395|US|Missouri|49|f
+Liberty Bridge|40.433|-79.997|US|Pennsylvania|49|f
+Liberty County Airport|48.510|-110.980|US|Montana|49|f
+Liberty Island|38.287|-121.679|US|California|49|f
+Liberty Rocks|-62.314|-59.460|AQ||49|f
 Líbano|8.619|-79.832|PA|Panamá Oeste Province|45
 Libros|40.163|-1.234|ES|Aragon|43
 Lib|8.312|167.377|MH|Lib Island|41
 Lib Island|8.314|167.380|MH||41|r
+Libby Museum|43.615|-71.258|US|New Hampshire|40|f
+Libby's No. 23|60.197|-154.322|US|Alaska|40|f
+Liberation War Museum|23.732|90.407|BD|Dhaka Division|40|f
+Liberty Bell Memorial Museum|28.084|-80.615|US|Florida|40|f
+Liberty Bridge|43.605|-83.891|US|Michigan|40|f
+Liberty Lake|44.386|-65.427|CA|Nova Scotia|40|f
+Liberty Lake|40.582|-115.395|US|Nevada|40|f
+Liberty Memorial|39.081|-94.586|US|Missouri|40|f
+Liberty Park|40.745|-111.874|US|Utah|40|f
+Liberty Way|52.521|-1.442|GB|England|40|f
+Libertyland|35.119|-89.983|US|Tennessee|40|f
 Liberpolis|45.775|18.880|HR|County of Osijek-Baranja|36
 Libagon|10.301|125.056|PH|Eastern Visayas|0
+Libao|32.563|120.684|CN|Jiangsu|0
+Libei|27.646|116.133|CN|Jiangxi|0
+Libei|24.120|115.791|CN|Guangdong|0
 Libertad|9.357|-68.692|VE|Cojedes|0
 Libjo|10.198|125.535|PH|Caraga|0
 Libmanan|13.693|123.060|PH|Bicol Region|0
 Libofshë|40.834|19.552|AL|Fier County|0
 Libonik|40.704|20.709|AL|Korçë County|0
+Libu|24.557|112.418|CN|Guangdong|0
+Libu|30.322|112.067|CN|Hubei|0

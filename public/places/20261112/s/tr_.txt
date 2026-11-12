@@ -2,9 +2,9 @@ Trinidad and Tobago|11.000|-61.000|TT||123|c
 Tripoli|32.887|13.187|LY|Tripoli|122
 Trujillo|-8.116|-79.030|PE|La Libertad|121
 Tripura|24.000|92.000|IN||120|r
-Trentino-Alto Adige|46.500|11.333|IT||119|r
+Trentino-Alto Adige|46.500|11.333|IT||120|r
+Trenčín Region|48.833|18.250|SK||114|r
 Trnava Region|48.417|17.667|SK||113|r
-Trenčín Region|48.833|18.250|SK||113|r
 Trøndelag|64.025|11.580|NO||111|r
 Transnistria|47.367|29.250|MD||110|r
 Trabzon|41.005|39.727|TR|Trabzon|108
@@ -21,7 +21,7 @@ Trindade|-16.649|-49.489|BR|Goiás|103
 Trento|46.068|11.121|IT|Trentino-Alto Adige|102
 Troms|69.266|19.515|NO||101|r
 Trincomalee|8.578|81.229|LK|Eastern Province|101
-Trarza|17.866|-14.659|MR||100|r
+Trarza|17.866|-14.659|MR||101|r
 Trier|49.756|6.639|DE|Rheinland-Pfalz|100
 Trelew|-43.249|-65.305|AR|Chubut|100
 Trenton|40.217|-74.743|US|New Jersey|99
@@ -39,10 +39,14 @@ Trujillo|9.366|-70.437|VE|Trujillo|97
 Tripunittura|9.943|76.333|IN|Kerala|97
 Trapani|38.018|12.536|IT|Sicily|97
 Trang|7.556|99.611|TH|Trang|96
+Trafalgar Square|51.508|-0.128|GB|England|96|f
+Tribhuvan International Airport|27.697|85.359|NP|Bagmati Province|96|f
 Trnava|48.378|17.586|SK|Trnava Region|96
 Tríkala|39.555|21.768|GR|Thessaly|96
+Troy|39.957|26.239|TR|Canakkale|96|f
 Troyes|48.301|4.085|FR|Grand Est|96
 Trinidad|21.800|-79.983|CU|Sancti Spíritus Province|96
+Trevi Fountain|41.901|12.483|IT|Lazio|96|f
 Trenčín|48.895|18.044|SK|Trenčín Region|95
 Trảng Bom|10.954|107.006|VN|Dong Nai|95
 Três Pontas|-21.367|-45.513|BR|Minas Gerais|95
@@ -70,6 +74,7 @@ Tremblay-en-France|48.950|2.568|FR|Île-de-France|91
 Trëkhgornyy|54.817|58.448|RU|Chelyabinsk|91
 Třebíč|49.215|15.882|CZ|Vysocina|91
 Třinec|49.678|18.671|CZ|Moravian-Silesian Region|91
+Trinidad|10.461|-61.257|TT||90|f
 Treinta y Tres Department|-33.000|-54.250|UY||90|r
 Trebinje|42.712|18.344|BA|Srpska|90
 Trindade|-7.762|-40.268|BR|Pernambuco|90
@@ -93,8 +98,3 @@ Tralee|52.270|-9.703|IE|Munster|88
 Treinta y Tres|-33.231|-54.386|UY|Treinta y Tres Department|88
 Troy|40.039|-84.203|US|Ohio|88
 Três Passos|-27.456|-53.932|BR|Rio Grande do Sul|88
-Traun|48.221|14.238|AT|Upper Austria|88
-Treviglio|45.521|9.591|IT|Lombardy|88
-Três de Maio|-27.773|-54.240|BR|Rio Grande do Sul|88
-Tres Isletas|-26.341|-60.432|AR|Chaco|88
-Trelawny Parish|18.383|-77.633|JM||88|r

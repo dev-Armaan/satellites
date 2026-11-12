@@ -12,6 +12,7 @@ Pāmban|9.279|79.211|IN|Tamil Nadu|90
 Pampierstad|-27.783|24.688|ZA|Northern Cape|87
 Pāmpur|34.015|74.919|IN|Jammu and Kashmir|87
 Pāmūru|15.096|79.412|IN|Andhra Pradesh|86
+Pamplona Airport|42.770|-1.646|ES|Navarre|86|f
 Pampa|35.536|-100.960|US|Texas|85
 Pamiers|43.117|1.611|FR|Occitanie|85
 Pamukova|40.508|30.167|TR|Sakarya|83
@@ -22,15 +23,19 @@ Pamandzi|-12.797|45.279|YT|Pamandzi|81
 Pambujan|12.564|124.928|PH|Eastern Visayas|81
 Pamukkale|37.916|29.117|TR|Denizli|80
 Pamplemousses|-20.104|57.570|MU|Pamplemousses|80
+Pamir Mountains|38.000|73.000|TJ||80|f
 Pamel|50.845|4.071|BE|Flanders|79
 Pampa del Infierno|-26.504|-61.177|AR|Chaco|78
+Pama Airport|11.250|0.700|BF|Est|75|f
 Pampas|-12.399|-74.868|PE|Huancavelica|75
 Pampa de Tate|-14.145|-75.692|PE|Ica|74
 Pamplona|13.592|123.082|PH|Bicol Region|74
 Pampilhosa|40.336|-8.427|PT|Aveiro|73
 Pampa de los Guanacos|-26.230|-61.838|AR|Santiago del Estero|73
+Pamlico Sound|35.313|-75.937|US|North Carolina|72|f
 Pamyat’ Parizhskoy Kommuny|56.105|44.495|RU|Nizhny Novgorod Oblast|72
 Pampamarca|-14.146|-71.459|PE|Cuzco Department|72
+Pampa Guanaco Airport|-54.050|-68.811|CL|Region of Magallanes|70|f
 Pamatácuaro|19.692|-102.345|MX|Michoacán|70
 Pampow|53.754|12.607|DE|Mecklenburg-Vorpommern|70
 Pamafrique|5.317|-3.800|CI|Abidjan Autonomous District|70
@@ -39,11 +44,13 @@ Pambisan|13.014|121.413|PH|Mimaropa|69
 Pamantingan|6.714|124.381|PH|Soccsksargen|69
 Pamukören|37.923|28.542|TR|Aydın|68
 Pambuhan|13.974|123.084|PH|Bicol Region|68
+Pamoctan Island|18.904|121.836|PH|Cagayan Valley|67|f
 Pamplona|18.466|121.341|PH|Cagayan Valley|67
 Pambasso|7.612|-3.137|CI|Zanzan District|66
 Pampa Almirón|-26.700|-59.123|AR|Chaco|65
 Pamproux|46.396|-0.054|FR|New Aquitaine|65
 Pamhagen|47.701|16.908|AT|Burgenland|64
+Pāmban Island|9.274|79.291|IN|Tamil Nadu|63|f
 Pampilhosa da Serra|40.046|-7.952|PT|Coimbra|63
 Pameče|46.534|15.079|SI|Urban Municipality of Slovenj Gradec|62
 Pamiatne|46.367|32.217|UA|Kherson|62
@@ -51,26 +58,64 @@ Pámfila|39.157|26.522|GR|North Aegean|62
 Pamplico|33.996|-79.570|US|South Carolina|62
 Pama|48.047|17.033|AT|Burgenland|62
 Pamiątkowo|52.553|16.681|PL|Greater Poland|62
+Pam Islands|-2.500|147.342|PG|Manus Province|61|f
+Pamah|34.815|65.374|AF|Ghowr|61|f
 Pampanal de Bolívar|1.353|-78.894|EC|Esmeraldas|61
 Pambariba|7.402|-3.286|CI|Zanzan District|60
+Pambula|-36.930|149.875|AU|New South Wales|60
 Pamplonita|7.436|-72.638|CO|Norte de Santander Department|59
+Pamfou|48.461|2.870|FR|Île-de-France|59
 Pampigny|46.581|6.429|CH|Vaud|59
+Pambamarca|-0.079|-78.209|EC|Pichincha|58|f
+Pamukkale University|37.741|29.104|TR|Denizli|58|f
+Pambassou|7.523|-5.482|CI|Vallée du Bandama District|58
+Pamplona|26.103|-103.400|MX|Durango|58
+Pampa Elera Alta|-4.706|-80.120|PE|Piura|57
+Pampelonne|44.123|2.244|FR|Occitanie|57
+Pampa Elera Baja|-4.697|-80.148|PE|Piura|57
 Pampachiri|-14.187|-73.545|PE|Apurímac Department|57
+Pampas del Carmen|-9.579|-76.796|PE|Huánuco Department|57
+Pambula Beach|-36.942|149.903|AU|New South Wales|56
+Pampaconga|-13.444|-72.387|PE|Cuzco Department|56
+Pamal Navil|17.084|-91.802|MX|Chiapas|55
+Pampa Yanamayo|-14.002|-69.276|PE|Puno|55
+Pampachacra|-12.804|-74.921|PE|Huancavelica|55
 Pampamarca|-9.705|-76.703|PE|Huánuco Department|55
+Pamukçular|40.787|41.835|TR|Artvin|54
+Pampamarca|-14.427|-73.207|PE|Apurímac Department|54
 Pampas|-9.667|-77.833|PE|Ancash|52
 Pamparomas|-9.073|-77.982|PE|Ancash|52
 Pampliega|42.206|-3.987|ES|Castille and León|52
 Pampaneira|36.940|-3.361|ES|Andalusia|50
+Pamalican Island|11.356|120.729|PH|Mimaropa|49|f
 Pampas Chico|-10.115|-77.398|PE|Ancash|48
 Pamparato|44.277|7.914|IT|Piedmont|47
 Pampas|-13.229|-73.894|PE|Ayacucho|42
 Pampahuasi|-14.101|-75.477|PE|Ica|42
+Pam's Place Airport|39.501|-86.687|US|Indiana|40|f
+Pamplin Historical Park|37.182|-77.486|US|Virginia|40|f
 Pa Mok|14.490|100.448|TH|Ang Thong|0
+Pamadangan|-7.333|107.174|ID|West Java|0
+Pamakayo|-8.437|122.983|ID|East Nusa Tenggara|0
+Pamakoe|-8.759|121.250|ID|East Nusa Tenggara|0
+Pamarayan|-6.355|105.899|ID|Banten|0
 Pamarican|-7.458|108.524|ID|West Java|0
+Pamatang|-6.423|105.988|ID|Banten|0
+Pamatang|-6.330|105.834|ID|Banten|0
 Pambangala|-11.707|15.249|AO|Kwanza Sul|0
+Pamedaran|-7.068|108.865|ID|Central Java|0
+Pamedilan|-8.365|114.643|ID|Bali|0
+Pamekaran|-7.109|108.244|ID|West Java|0
 Pameungpeuk|-7.641|107.733|ID|West Java|0
+Pameungpeuk|-7.380|106.815|ID|West Java|0
 Pamolokan|-7.001|113.870|ID|East Java|0
 Pamotan|-6.761|111.490|ID|Central Java|0
+Pamotan|-8.200|112.735|ID|East Java|0
+Pamotan|-7.656|108.767|ID|West Java|0
+Pamoyanan|-7.307|107.180|ID|West Java|0
+Pamoyanan|-7.125|108.154|ID|West Java|0
+Pamoyanan|-7.348|106.576|ID|West Java|0
+Pamoyanan|-7.140|106.778|ID|West Java|0
 Pampa Cangallo|-13.559|-74.195|PE|Ayacucho|0
 Pampa Hermosa|-7.200|-75.300|PE|Loreto|0
 Pampachacra|-8.902|-77.246|PE|Ancash|0
@@ -78,3 +123,6 @@ Pampacolca|-15.713|-72.574|PE|Arequipa|0
 Pampas|-8.195|-77.896|PE|Ancash|0
 Pampas Grande|-9.655|-77.827|PE|Ancash|0
 Pamukkale|37.791|29.101|TR|Denizli|0
+Pamundayan Kaler|-6.697|106.025|ID|Banten|0
+Pamungguan|-7.477|107.618|ID|West Java|0
+Pamupukan|-7.047|108.530|ID|West Java|0

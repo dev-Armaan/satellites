@@ -27,6 +27,8 @@ Cabildo|-32.431|-71.072|CL|Valparaiso|86
 Cabaceiras do Paraguaçu|-12.536|-39.191|BR|Bahia|86
 Cabeceiras de Basto|41.514|-7.989|PT|Braga|84
 Cabayangan|7.407|125.733|PH|Davao Region|84
+Cabo da Roca|38.781|-9.501|PT|Lisbon|84|f
+Cabinda Airport|-5.597|12.188|AO|Cabinda|83|f
 Caburan|5.918|125.641|PH|Davao Region|82
 Cabral|18.250|-71.217|DO|Barahona Province|82
 Cabbagetown-South St.James Town|43.668|-79.366|CA|Ontario|81
@@ -36,6 +38,7 @@ Cabo Rojo|18.087|-67.146|PR|Cabo Rojo|81
 Cabinuangan|7.683|126.033|PH|Davao Region|81
 Cabeceiras do Piauí|-4.476|-42.309|BR|Piauí|80
 Cabinteely|53.270|-6.161|IE|Leinster|80
+Cabo San Lucas International Airport|22.948|-109.937|MX|Baja California Sur|80|f
 Cabaritan East|18.418|121.489|PH|Cagayan Valley|79
 Cabestany|42.681|2.941|FR|Occitanie|79
 Cabriès|43.441|5.379|FR|Provence-Alpes-Côte d'Azur|78
@@ -61,6 +64,7 @@ Cabaceiras|-7.489|-36.287|BR|Paraíba|75
 Cabo Ruivo|38.756|-9.097|PT|Lisbon|74
 Cabrera|19.643|-69.905|DO|María Trinidad Sánchez|74
 Caba|16.432|120.345|PH|Ilocos|74
+Caballococha Airport|-3.917|-70.508|PE|Loreto|73|f
 Cabañas|14.933|-89.800|GT|Zacapa|73
 Cabacao|13.336|120.659|PH|Mimaropa|73
 Cabanbanan|14.240|121.434|PH|Calabarzon|73
@@ -70,6 +74,8 @@ Cabrália Paulista|-22.456|-49.337|BR|São Paulo|73
 Cabannes|43.860|4.952|FR|Provence-Alpes-Côte d'Azur|73
 Cabugao|10.810|122.545|PH|Western Visayas|73
 Cabatang|13.967|121.367|PH|Calabarzon|72
+Cabezon Peak|35.599|-107.096|US|New Mexico|72|f
+Cabo de São Vicente|37.023|-8.997|PT|Faro|72|f
 Cabarete|19.750|-70.408|DO|Puerto Plata|72
 Cabrera de Mar|41.517|2.400|ES|Catalonia|72
 Caban|18.443|-67.136|PR|Aguadilla|72
@@ -77,6 +83,7 @@ Cabaret|18.736|-72.419|HT|Ouest|72
 Cabangahan|9.078|122.947|PH|Central Visayas|72
 Cabul-an|10.157|124.044|PH|Central Visayas|72
 Cabourg|49.291|-0.113|FR|Normandy|71
+Cabinet Mountains|48.167|-115.834|US|Montana|71|f
 Cabaluay|7.001|122.180|PH|Zamboanga Peninsula|71
 Cabitan|12.294|123.341|PH|Bicol Region|71
 Cabadiangan|9.753|122.474|PH|Western Visayas|71
@@ -84,6 +91,8 @@ Cabeza de Toro|15.937|-93.783|MX|Chiapas|71
 Cabay|13.871|121.380|PH|Calabarzon|70
 Cabra|13.888|120.049|PH|Mimaropa|70
 Cabano|47.681|-68.878|CA|Quebec|70
+Cabeza Prieta Mountains|32.350|-113.824|US|Arizona|70|f
+Cabra Island|13.883|120.041|PH|Mimaropa|70|f
 Cabangan|15.158|120.057|PH|Central Luzon|70
 Cabungan|16.340|119.995|PH|Ilocos|70
 Cabacuñgan|10.933|124.982|PH|Eastern Visayas|70
@@ -95,6 +104,8 @@ Cabalawan|10.741|123.953|PH|Central Visayas|69
 Cabulay|16.746|121.498|PH|Cagayan Valley|69
 Cabayaoasan|15.663|120.551|PH|Central Luzon|69
 Cabangahan|8.023|125.138|PH|Northern Mindanao|69
+Cabo Juan Román Airfield|-45.399|-72.670|CL|Aysén|69|f
+Cabo Touriñán|43.056|-9.299|ES|Galicia|69|f
 Cabucgayan|11.472|124.575|PH|Eastern Visayas|69
 Cabalaoangan|15.983|120.783|PH|Ilocos|69
 Cabilao|11.540|123.144|PH|Western Visayas|69
@@ -110,6 +121,7 @@ Cabay|11.446|125.493|PH|Eastern Visayas|67
 Cabin John|38.975|-77.158|US|Maryland|67
 Cabiguan|12.906|123.731|PH|Bicol Region|67
 Cabusao|13.723|123.117|PH|Bicol Region|67
+Cable Airport|34.112|-117.685|US|California|67|f
 Cabalitian|16.088|120.792|PH|Ilocos|67
 Cabra del Santo Cristo|37.704|-3.288|ES|Andalusia|67
 Cabognon|13.183|123.678|PH|Bicol Region|67
@@ -119,11 +131,19 @@ Cabool|37.124|-92.101|US|Missouri|67
 Căbeşti|46.767|22.367|RO|Bihor County|66
 Cabecicos|38.014|-1.081|ES|Murcia|66
 Cabouco|37.767|-25.567|PT|Azores|66
+Caballo Mountains|32.918|-107.222|US|New Mexico|65|f
+Cabo Blanco|20.770|-17.050|MR|Dakhlet Nouadhibou|65|f
+Cabo Carvoeiro|39.359|-9.409|PT|Leiria|65|f
+Cabo de Hornos Airport|-33.278|-71.456|CL|Valparaiso|65|f
+Cabo Polonio|-34.406|-53.777|UY|Rocha Department|65|f
+Cabot Tower|51.454|-2.607|GB|England|65|f
 Cabañas de la Sagra|40.006|-3.946|ES|Castille-La Mancha|65
 Cabeza la Vaca|38.083|-6.417|ES|Extremadura|64
 Cabris|43.656|6.874|FR|Provence-Alpes-Côte d'Azur|64
 Cabanac-et-Villagrains|44.600|-0.550|FR|New Aquitaine|64
 Cabanas de Viriato|40.477|-7.974|PT|Viseu|64
+Cabo Fisterra|42.880|-9.273|ES|Galicia|63|f
+Cabo Gracias a Dios|15.000|-83.150|HN||63|f
 Cabrera|3.986|-74.483|CO|Cundinamarca|63
 Cabasse|43.426|6.219|FR|Provence-Alpes-Côte d'Azur|63
 Cabeça Gorda|37.924|-7.793|PT|Beja|63
@@ -135,18 +155,58 @@ Cabiche|14.004|-60.948|LC|Castries|61
 Cabariot|45.926|-0.857|FR|New Aquitaine|61
 Cable Bay|-34.994|173.493|NZ|Northland|61
 Cabuyaro|4.282|-72.794|CO|Meta Department|61
+Caballo Dam|32.896|-107.293|US|New Mexico|61|f
+Cabo Bojador|26.126|-14.500|EH||61|f
+Cabo Camarón|16.000|-84.983|HN||61|f
+Cabo de São Roque|-5.481|-35.261|BR|Rio Grande do Norte|61|f
+Cabo de São Tomé|-22.007|-40.987|BR|Rio de Janeiro|61|f
+Cabo Matapalo|8.375|-83.291|CR|Puntarenas Province|61|f
+Cabras Island|13.462|144.677|GU|Piti|61|f
+Čabulja|43.481|17.622|BA|Federation of B&H|61|f
+Caburai-tepe|5.267|-60.200|BR||61|f
 Cabarlah|-27.433|152.000|AU|Queensland|60
 Cabo de Palos|37.633|-0.692|ES|Murcia|60
 Cabecera de Indígenas|19.371|-100.139|MX|México|60
 Cabanas de Torres|39.156|-9.066|PT|Lisbon|60
+Ca' Ballarin|45.468|12.514|IT|Veneto|60
 Cabrillanes|42.953|-6.148|ES|Castille and León|60
 Cabanilla|-15.620|-70.346|PE|Puno|59
 Cabezas Rubias|37.727|-7.087|ES|Andalusia|59
+Cabo Verde|19.173|-96.301|MX|Veracruz|59
+Cabuyal|-3.717|-80.437|PE|Tumbes|59
+Căbești|46.212|27.441|RO|Bacău County|58
 Cabana|-15.649|-70.322|PE|Puno|58
+Cabeza de Tigre|18.304|-96.430|MX|Oaxaca|58
+Cabbage Tree Island|-32.699|152.001|AU|New South Wales|58|f
+Cabeço Gordo|38.567|-28.717|PT|Azores|58|f
+Cables Lake|42.009|-74.945|US|New York|58|f
+Cabo Beata|17.605|-71.423|DO|Pedernales Province|58|f
+Cabrera|39.143|2.946|ES|Balearic Islands|58|f
+Cabugao Island|11.568|123.348|PH|Western Visayas|58|f
+Čab|48.409|17.988|SK|Nitra Region|58
+Cabauw|51.964|4.899|NL|Utrecht|57
 Cabezuela|41.236|-3.932|ES|Castille and León|57
+Caballerías (Caballería Villa Hidalgo)|22.386|-101.653|MX|Zacatecas|57
+Cabo da Praia|38.707|-27.057|PT|Azores|57
 Cabuya|8.577|-79.923|PA|Panamá Oeste Province|57
+Cabanette|44.883|8.579|IT|Piedmont|57
+Cabellal Número Uno|20.676|-97.324|MX|Veracruz|57
+Cabo da Ribeira|17.122|-25.050|CV|Paul|56
 Cabanillas de la Sierra|40.820|-3.624|ES|Madrid|56
+Cabuna|45.754|17.578|HR|Virovitica-Podravina|56
+Cabezarrubias del Puerto|38.615|-4.185|ES|Castille-La Mancha|56
 Cabañas de Ebro|41.800|-1.200|ES|Aragon|54
+Cabahan Island|12.145|122.039|PH|Mimaropa|54|f
+Caballo Island|14.366|120.620|PH|Central Luzon|54|f
+Cabaniss Field|27.705|-97.440|US|Texas|54|f
+Cabo Blanco|9.559|-85.111|CR|Puntarenas Province|54|f
+Cabo Blanco|39.364|2.791|ES|Balearic Islands|54|f
+Cabo Catoche|21.605|-87.103|MX|Quintana Roo|54|f
+Cabo de San Antonio|21.863|-84.952|CU|Pinar del Río|54|f
+Cabo Frio Airport|-22.922|-42.074|BR|Rio de Janeiro|54|f
+Cabo Orange|4.400|-51.550|BR|Amapá|54|f
+Cabo San Pío|-55.067|-66.533|AR|Tierra del Fuego|54|f
+Caburgua Lake|-39.125|-71.775|CL|Araucania|54|f
 Cabañas del Castillo|39.548|-5.512|ES|Extremadura|54
 Cabrejas del Pinar|41.796|-2.849|ES|Castille and León|54
 Cabreros del Río|42.402|-5.542|ES|Castille and León|54
@@ -161,6 +221,16 @@ Cabrera|6.593|-73.246|CO|Santander Department|51
 Cabrero|40.113|-5.893|ES|Extremadura|51
 Cabella Ligure|44.675|9.096|IT|Piedmont|51
 Čabar|45.596|14.646|HR|Primorje-Gorski Kotar|50
+Cabarruyan Island|16.285|119.981|PH|Ilocos|49|f
+Cable Mountain|37.268|-112.934|US|Utah|49|f
+Cabo das Correntes|-23.927|35.530|MZ|Inhambane Province|49|f
+Cabo de San Antonio|38.802|0.199|ES|Valencia|49|f
+Cabo Espichel|38.414|-9.223|PT|Setúbal|49|f
+Cabo Mondego|40.180|-8.907|PT|Coimbra|49|f
+Cabo Rojo|21.752|-97.570|MX|Veracruz|49|f
+Cabo Rojo National Wildlife Refuge|17.962|-67.190|PR|Cabo Rojo|49|f
+Cabo Trafalgar|36.181|-6.034|ES|Andalusia|49|f
+Cabrits National Park|15.587|-61.472|DM|Saint Andrew Parish|49|f
 Cabañas de Yepes|39.891|-3.535|ES|Castille-La Mancha|49
 Cabañes de Esgueva|41.830|-3.788|ES|Castille and León|47
 Cabezas de Alambre|40.942|-4.842|ES|Castille and León|46
@@ -173,6 +243,21 @@ Cabezas del Pozo|41.001|-4.955|ES|Castille and León|42
 Caballero|8.545|-80.197|PA|Coclé|41
 Caballar|41.122|-3.964|ES|Castille and León|41
 Cabredo|42.630|-2.411|ES|Navarre|41
+Cabanes Du Breuil|44.920|1.125|FR|New Aquitaine|40|f
+Cabárceno Natural Park|43.362|-3.844|ES|Cantabria|40|f
+Cabarrus Arena & Events Center|35.389|-80.499|US|North Carolina|40|f
+Cabeza Prieta National Wildlife Refuge|32.266|-113.392|US|Arizona|40|f
+Cabin Lake|50.389|-94.511|CA|Ontario|40|f
+Cabin Lake|37.684|-119.152|US|California|40|f
+Cabinet Gorge Dam|48.087|-116.064|US|Idaho|40|f
+Cable Creek Ranch Airport|45.098|-118.818|US|Oregon|40|f
+Cable Union Airport|46.198|-91.247|US|Wisconsin|40|f
+Cabo de Gata|36.721|-2.193|ES|Andalusia|40|f
+Cabot Provincial Park|46.550|-63.699|CA|Prince Edward Island|40|f
+Cabot's Landing Provincial Park|46.943|-60.464|CA|Nova Scotia|40|f
+Cabri Lake|51.100|-109.734|CA|Saskatchewan|40|f
+Cabrillo Bridge|32.731|-117.156|US|California|40|f
+Cabrillo National Monument|32.672|-117.242|US|California|40|f
 Cabuya|8.547|-80.168|PA|Coclé|39
 Cabreros del Monte|41.849|-5.270|ES|Castille and León|38
 Cabrejas del Campo|41.681|-2.270|ES|Castille and León|38
@@ -180,6 +265,7 @@ Cabolafuente|41.211|-2.041|ES|Aragon|36
 Cabezón de la Sierra|41.934|-3.242|ES|Castille and León|36
 Cabezón de Valderaduey|42.168|-5.159|ES|Castille and León|34
 Cabezón de Cameros|42.197|-2.520|ES|La Rioja|29
+Cabak Satu|-6.625|110.993|ID|Central Java|0
 Cabana|-8.400|-78.033|PE|Ancash|0
 Cabana|-14.289|-73.967|PE|Ayacucho|0
 Cabanaconde|-15.621|-71.979|PE|Arequipa|0
@@ -187,6 +273,7 @@ Cabanelles|42.231|2.820|ES|Catalonia|0
 Cabanes|42.308|2.978|ES|Catalonia|0
 Cabanillas|42.032|-1.526|ES|Navarre|0
 Cabatuan|16.957|121.669|PH|Cagayan Valley|0
+Cabean|-6.842|111.356|ID|Central Java|0
 Cabecera de Cerro Puerco|8.307|-81.755|PA|Ngöbe-Buglé Comarca|0
 Cabezón de Liébana|43.134|-4.576|ES|Cantabria|0
 Cabiri|-8.922|13.659|AO|Bengo|0

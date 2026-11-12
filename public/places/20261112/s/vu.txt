@@ -1,5 +1,5 @@
 Vũng Tàu|10.346|107.084|VN|Ho Chi Minh City (HCMC)|113
-Vukovar-Srijem|45.167|18.917|HR||102|r
+Vukovar-Srijem|45.167|18.917|HR||103|r
 Vuosaari|60.210|25.142|FI|Uusimaa|92
 Vuyyūru|16.363|80.844|IN|Andhra Pradesh|91
 Vushtrri|42.823|20.968|XK|Mitrovica|90
@@ -9,24 +9,43 @@ Vulcan|45.383|23.267|RO|Hunedoara County|86
 Vura|-9.442|159.989|SB|Honiara|85
 Vulcăneşti|45.685|28.406|MD|Gagauzia|83
 Vuhledar|47.780|37.250|UA|Donetsk|83
+Vung Tau Airport|10.370|107.093|VN|Ho Chi Minh City (HCMC)|83|f
 Vuktyl|63.848|57.310|RU|Komi|83
+Vunisea Airport|-19.058|178.157|FJ|Eastern|81|f
 Vubatalai|11.360|76.765|IN|Tamil Nadu|81
 Vurnary|55.490|46.965|RU|Chuvash Republic|81
+VU University Amsterdam|52.334|4.865|NL|North Holland|80|f
 Vụ Bản|20.464|105.443|VN|Phu Tho|80
 Vượng Lộc|18.481|105.734|VN|Hà Tĩnh Province|79
+Vulkan Kambal’nyy|51.304|156.879|RU|Kamchatka|78|f
 Vuhlehirsk|48.315|38.272|UA|Donetsk|77
 Vuokatti|64.145|28.282|FI|Kainuu|76
+Vulkan Sarycheva|48.091|153.199|RU|Sakhalin Oblast|75|f
 Vulcan|45.633|25.417|RO|Brașov County|75
+Vulkan Karymskiy|54.049|159.443|RU|Kamchatka|74|f
 Vurpăr|46.000|23.467|RO|Alba County|74
+Vuktyl Airport|63.824|57.279|RU|Komi|72|f
+Vulkan Mutnovskaya Sopka|52.449|158.195|RU|Kamchatka|72|f
 Vuvulane|-26.074|31.877|SZ|Lubombo Region|72
 Vultureşti|47.517|26.450|RO|Suceava|72
+Vulkan Atsonupuri|44.807|147.128|RU|Sakhalin Oblast|71|f
+Vulkan Fussa|50.270|155.248|RU|Sakhalin Oblast|71|f
+Vulkan Tyatya|44.354|146.251|RU|Sakhalin Oblast|71|f
+Vulkan Ushkovskiy|56.069|160.470|RU|Kamchatka|71|f
 Vukovije Donje|44.462|18.749|BA|Federation of B&H|71
 Vucht|50.978|5.711|BE|Flanders|71
 Vulturu|45.617|27.417|RO|Vrancea|70
 Vuwani|-23.135|30.421|ZA|Limpopo|70
 Vurghun|41.095|45.471|AZ|Ağstafa|70
+Vuaqava Island|-18.867|-178.906|FJ|Eastern|70|f
+Vulkan Mendeleyeva|43.979|145.733|RU|Sakhalin Oblast|70|f
 Vulcana Băi|45.080|25.382|RO|Dâmbovița County|69
 Vultureşti|44.733|24.317|RO|Olt|69
+Vulaï|-16.550|167.783|VU|Malampa|69|f
+Vulcano|38.393|14.975|IT|Sicily|69|f
+Vulkan Ebeko|50.686|156.014|RU|Sakhalin Oblast|69|f
+Vulkan Il’inskiy|51.497|157.204|RU|Kamchatka|69|f
+Vulkan Malyy Semyachik|54.117|159.661|RU|Kamchatka|69|f
 Vulpeni|44.467|23.917|RO|Olt|69
 Vuolijoki|64.185|26.995|FI|Kainuu|68
 Vulcana-Pandele|45.016|25.393|RO|Dâmbovița County|68
@@ -35,22 +54,95 @@ Vutcani|46.467|27.967|RO|Vaslui County|68
 Vurpăr|45.900|24.350|RO|Sibiu County|67
 Vultureşti|46.817|27.533|RO|Vaslui County|67
 Vulaines-sur-Seine|48.432|2.765|FR|Île-de-France|67
+Vulkan Golovnina|43.844|145.504|RU|Sakhalin Oblast|67|f
+Vulkan Kuntomintar|48.759|154.013|RU|Sakhalin Oblast|67|f
+Vulkan Prevo|47.012|152.115|RU|Sakhalin Oblast|67|f
+Vulkan Vilyuchinskaya Sopka|52.705|158.281|RU|Kamchatka|67|f
 Vultureni|46.367|27.283|RO|Bacău County|67
 Vulturești|45.066|25.083|RO|Arges|66
 Vulcan|50.400|-113.252|CA|Alberta|66
 Vuren|51.825|5.046|NL|Gelderland|65
+Vulaga Island|-19.148|-178.576|FJ|Eastern|65|f
+Vulkan Bezymyannyy|55.975|160.591|RU|Kamchatka|65|f
+Vulkan Koryakskaya Sopka|53.321|158.713|RU|Kamchatka|65|f
+Vulkan Sinarka|48.873|154.181|RU|Sakhalin Oblast|65|f
+Vulkan Sopka Kikhpinych|54.488|160.252|RU|Kamchatka|65|f
 Vuadens|46.615|7.017|CH|Fribourg|65
 Vuzenica|46.597|15.163|SI|Municipality of Vuzenica|64
 Vultureni|46.967|23.567|RO|Cluj County|64
+Vuelta Grande Airport|-20.900|-63.194|BO|Chuquisaca Department|63|f
+Vulcan Island|-4.077|145.038|PG|Madang Province|63|f
+Vulkan Avachinskaya Sopka|53.255|158.833|RU|Kamchatka|63|f
+Vulkan Berutarube|44.461|146.932|RU|Sakhalin Oblast|63|f
+Vulkan Gorelaya Sopka|52.560|158.030|RU|Kamchatka|63|f
+Vulkan Karpinskogo|50.142|155.384|RU|Sakhalin Oblast|63|f
+Vulkan Kronotskaya Sopka|54.753|160.532|RU|Kamchatka|63|f
+Vulkan Ksudach|51.800|157.517|RU|Kamchatka|63|f
+Vulkan Tolbachikskiy|55.823|160.392|RU|Kamchatka|63|f
+Vulkan Zheltovskaya Sopka|51.576|157.329|RU|Kamchatka|63|f
+Vulture Peak|48.837|-114.024|US|Montana|63|f
 Vulcana de Sus|45.101|25.358|RO|Dâmbovița County|63
 Vue|47.199|-1.881|FR|Pays de la Loire|62
 Vuhliar|48.016|38.059|UA|Donetsk|62
+Vučedol|45.337|19.056|HR|Vukovar-Srijem|61|f
+Vulkan Chirip|45.377|147.913|RU|Sakhalin Oblast|61|f
+Vulkan Opala|52.543|157.338|RU|Kamchatka|61|f
+Vulkan Shmidta|54.916|160.628|RU|Kamchatka|61|f
+Vũng Rô|12.866|109.421|VN|Dak Lak|61|f
+Vuosjärvi|62.999|25.479|FI|Central Finland|61|f
+Vurrusjøen|61.874|12.102|NO|Innlandet|61|f
 Vukatanë|42.028|19.548|AL|Shkodër County|61
 Vulcăneasa|45.774|26.910|RO|Vrancea|61
 Vurste|50.943|3.683|BE|Flanders|60
+Vulpești|44.597|24.942|RO|Arges|60
+Vugrovec|45.884|16.105|HR|Zagreb|59
+Vulbens|46.102|5.934|FR|Auvergne-Rhône-Alpes|59
+Vukovina|45.683|16.117|HR|Zagreb County|59
+Vulkan Goryashchaya Sopka|46.832|151.754|RU|Sakhalin Oblast|58|f
+Vulkan Kizimen|55.131|160.321|RU|Kamchatka|58|f
+Vulkan Krasheninnikova|54.597|160.276|RU|Kamchatka|58|f
+Vundwe Island|-6.403|39.416|TZ|Zanzibar Central/South|58|f
+Vuurberg|-4.522|129.879|ID|Maluku|58|f
+Vulpășești|46.970|27.060|RO|Neamț County|58
+Vuhred|46.595|15.238|SI|Municipality of Radlje ob Dravi|58
 Vuka|45.434|18.505|HR|County of Osijek-Baranja|58
+Vulturi|47.249|27.538|RO|Iași County|58
+Vuchkove|48.444|23.553|UA|Zakarpattia|58
 Vulturu|44.650|28.267|RO|Constanța County|57
+Vukojevci|45.478|18.156|HR|County of Osijek-Baranja|57
+Vultureni|44.940|27.365|RO|Brăila County|57
+Vufflens-le-Château|46.526|6.472|CH|Vaud|57
+Vuillafans|47.065|6.215|FR|Bourgogne-Franche-Comté|57
+Vuollerim|66.430|20.624|SE|Norrbotten|57
+Vučetinec|46.439|16.371|HR|Međimurje|55
+Vuillecin|46.939|6.322|FR|Bourgogne-Franche-Comté|55
+Vučjak|45.031|18.160|BA|Srpska|54|f
+Vučji Zub|42.580|18.555|BA||54|f
+Vulci|42.417|11.150|IT|Tuscany|54|f
+Vulture Mountains|33.885|-112.795|US|Arizona|54|f
+Vulueggje|62.099|7.688|NO|Innlandet|54|f
+Vumba Mountains|-19.083|32.750|ZW||54|f
+Vunivandra Island|-17.693|177.313|FJ|Western|54|f
+Vuohijärvi|61.200|26.700|FI||54|f
+Vuokalanjärvi|62.300|29.000|FI|South Savo|54|f
+Vuokkijärvi|64.790|29.256|FI|Kainuu|54|f
+Vuontisjärvi|68.435|23.990|FI|Lapland|54|f
+Vuotjärvi|63.138|28.374|FI|North Savo|54|f
+Vukosavljevica|45.878|17.232|HR|Virovitica-Podravina|54
+Vukovich Peaks|-72.383|75.000|AQ||49|f
+Vulcan|33.492|-86.795|US|Alabama|49|f
+Vulcan's Throne|36.217|-113.078|US|Arizona|49|f
+Vulkan Baranskogo|45.101|148.019|RU|Sakhalin Oblast|49|f
+Vulkan Komarova|55.034|160.725|RU|Kamchatka|49|f
+Vuurtoreneiland|52.372|5.014|NL|North Holland|49|f
 Vučilčevo|45.957|15.720|HR|Zagreb County|42
+Vulcan|35.141|-106.772|US|New Mexico|40|f
+Vulcan Mountain|48.989|-118.649|US|Washington|40|f
+Vulcão dos Capelinhos|38.601|-28.831|PT|Azores|40|f
+Vulture Glacier|51.598|-116.461|CA|Alberta|40|f
+Vulture Glacier|48.825|-114.027|US|Montana|40|f
+Vulture Mine|33.822|-112.836|US|Arizona|40|f
+Vund Point|-62.630|-61.187|AQ||40|f
 Vũ Thư|20.437|106.291|VN|Hưng Yên Province|0
 Vuarrens|46.686|6.648|CH|Vaud|0
 Vuisternens-devant-Romont|46.653|6.930|CH|Fribourg|0

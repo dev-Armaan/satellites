@@ -1,5 +1,4 @@
 Henan|34.000|113.667|CN||149|r
-Hebei|39.000|115.667|CN||147|r
 Heilongjiang|47.750|128.000|CN||147|r
 Hefei|31.864|117.281|CN|Anhui|140
 Hesse|50.550|9.000|DE||135|r
@@ -36,9 +35,11 @@ Herzliya|32.166|34.825|IL|Tel Aviv|101
 Helsingborg|56.047|12.694|SE|Skåne|100
 Hedong|23.920|115.780|CN|Guangdong|100
 Hemel Hempstead|51.754|-0.450|GB|England|100
+Hellespont|40.214|26.458|TR||99|f
 Hesperia|34.426|-117.301|US|California|99
 Heerlen|50.884|5.982|NL|Limburg|99
 Heho|20.723|96.823|MM|Shan State|99
+Hermitage Museum|59.941|30.313|RU|Leningradskaya Oblast'|99|f
 Hede|33.772|120.262|CN|Jiangsu|99
 Heroica Ciudad de Juchitán de Zaragoza|16.434|-95.022|MX|Oaxaca|99
 Heidelberg|-26.505|28.359|ZA|Gauteng|99
@@ -49,9 +50,10 @@ Hemet|33.748|-116.973|US|California|98
 Heredia Province|10.333|-84.000|CR||98|r
 Hengelo|52.266|6.793|NL|Overijssel|98
 Hengbei|23.880|115.725|CN|Guangdong|98
+Helsinki Airport|60.317|24.963|FI|Uusimaa|98|f
 Helmond|51.482|5.661|NL|North Brabant|97
-Heguan|36.890|118.574|CN|Shandong|97
 Herrera Province|7.833|-80.750|PA||97|r
+Heguan|36.890|118.574|CN|Shandong|97
 Hekinan|34.883|136.983|JP|Aichi|97
 Heishan|41.689|122.113|CN|Liaoning|97
 Hermanas Mirabal|19.417|-70.333|DO||97|r
@@ -82,7 +84,11 @@ Hegou|34.408|118.122|CN|Jiangsu|93
 Heerenveen|52.959|5.919|NL|Friesland|93
 Henrietta|43.059|-77.612|US|New York|93
 Heinsberg|51.064|6.100|DE|North Rhine-Westphalia|92
+Heidelberg Castle|49.410|8.716|DE|Baden-Wurttemberg|92|f
+Hengduan Mountains|27.500|99.000|CN|Yunnan|92|f
+Henri Coandă International Airport|44.572|26.102|RO|Ilfov|92|f
 Héliopolis|36.504|7.443|DZ|Guelma|92
+Heydar Aliyev International Airport|40.461|50.052|AZ|Baki|92|f
 Heemskerk|52.511|4.672|NL|North Holland|92
 Hetoudian|37.018|120.574|CN|Shandong|92
 Hegeng|29.137|105.870|CN|Chongqing|92
@@ -92,9 +98,3 @@ Hemer|51.387|7.770|DE|North Rhine-Westphalia|91
 Heston|51.484|-0.376|GB|England|91
 Herstal|50.664|5.623|BE|Wallonia|91
 Heunghae|36.109|129.345|KR|Gyeongsangbuk-do|91
-Hentiy|48.000|110.500|MN||91|r
-Hendek|40.799|30.748|TR|Sakarya|91
-Heqiao|34.453|116.900|CN|Jiangsu|91
-Helsingør|56.036|12.614|DK|Capital Region|91
-Hebbagodi|12.826|77.681|IN|Karnataka|91
-Herrenberg|48.595|8.866|DE|Baden-Wurttemberg|91

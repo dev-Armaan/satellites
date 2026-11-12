@@ -39,9 +39,11 @@ San Ramon|17.413|120.708|PH|Cordillera|72
 San Rafael|13.217|123.600|PH|Bicol Region|72
 San Remigio|11.081|123.938|PH|Central Visayas|72
 San Rafael|14.128|121.415|PH|Calabarzon|72
+San Ramón Airport|-13.264|-64.604|BO|Beni Department|71|f
 San Rafael|10.064|-84.474|CR|Alajuela Province|71
 San Rafael|11.178|122.827|PH|Western Visayas|71
 San Ramon|13.722|123.540|PH|Bicol Region|71
+San Rafael Mountains|34.711|-119.814|US|California|70|f
 San Rafael|13.094|122.960|PH|Bicol Region|70
 San Rocco al Porto|45.082|9.697|IT|Lombardy|69
 San Ramón|12.923|-85.839|NI|Matagalpa Department|69
@@ -70,6 +72,7 @@ San Raymundo Jalpan|16.971|-96.756|MX|Oaxaca|65
 San Roque de Montes|21.010|-101.811|MX|Guanajuato|65
 San Rafael Petzal|15.405|-91.665|GT|Huehuetenango|64
 San Roque|15.787|-96.463|MX|Oaxaca|64
+San Rafael Santiago Germano Airport|-34.588|-68.404|AR|Mendoza|63|f
 San Rafael Río Seco|18.876|-96.881|MX|Veracruz|63
 San Romano in Garfagnana|44.169|10.347|IT|Tuscany|63
 San Roque de Torres|20.971|-101.853|MX|Guanajuato|63
@@ -81,16 +84,57 @@ San Rafael|20.704|-90.158|MX|Yucatán|62
 San Rafael Zaragoza|18.641|-99.005|MX|Morelos|62
 San Romano|43.689|10.769|IT|Tuscany|62
 San Rocco|44.397|7.472|IT|Piedmont|62
+San Rafael Hills|34.180|-118.211|US|California|61|f
 San Rafael La Independencia|15.701|-91.536|GT|Huehuetenango|60
 San Rafael Tecario|19.212|-101.506|MX|Michoacán|60
+San Rafael|21.589|-99.708|MX|San Luis Potosí|60
+San Ramón|20.354|-102.456|MX|Jalisco|60
+San Rafael|35.113|-107.883|US|New Mexico|59
+San Ramón|20.564|-100.709|MX|Guanajuato|59
+San Regis|-4.511|-73.904|PE|Loreto|59
+San Rafael|21.115|-98.938|MX|Hidalgo|58
+San Rafael Coapa|19.526|-101.363|MX|Michoacán|58
+San Rafael|31.902|-116.554|MX|Baja California|58
+San Rafael|20.453|-100.394|MX|Querétaro|58
+San Rafael|-4.992|-80.596|PE|Piura|58
+San Rafael del Carrizal|20.063|-101.091|MX|Michoacán|58
+San Roque de Cumbaza|-6.386|-76.436|PE|San Martín Department|57
 San Rocco|42.243|14.129|IT|Abruzzo|57
+San Rafael|21.130|-100.355|MX|Guanajuato|57
+San Rafael de los Moreno|20.122|-105.195|MX|Jalisco|57
+San Rocchetto|43.485|13.569|IT|The Marches|57
+San Ramón|19.900|-100.258|MX|Michoacán|57
 San Rufo|40.435|15.464|IT|Campania|57
+San Ramón|22.698|-102.525|MX|Zacatecas|56
+San Ramón|17.576|-92.817|MX|Tabasco|56
+San Ramón|22.640|-102.135|MX|Zacatecas|56
+San Rafael de Abajo|25.660|-103.009|MX|Coahuila|56
+San Rafael de Horta|20.626|-101.543|MX|Guanajuato|56
+San Rocco|45.552|11.087|IT|Veneto|56
+San Rafael de la Maraña|20.393|-101.902|MX|Guanajuato|56
+San Rafael Jocom|16.297|-92.127|MX|Chiapas|55
+San Rafael Tamápatz|21.614|-99.117|MX|San Luis Potosí|55
+San Rafael Axolota|19.940|-97.607|MX|Puebla|55
+San Rafael de las Tablas|22.795|-104.095|MX|Zacatecas|55
+San Rafael|19.730|-100.223|MX|Michoacán|55
+San Ramón de los Martínez|23.883|-100.320|MX|Nuevo León|55
+San Rocco|45.772|12.196|IT|Veneto|55
+San Rafael Matriz|22.620|-99.889|MX|San Luis Potosí|55
+San Roque|43.200|-8.750|ES|Galicia|55
+San Ramón|23.151|-102.428|MX|Zacatecas|55
+San Román|18.795|-88.728|MX|Quintana Roo|54
+San Rafael Airport|-32.814|-70.647|CL|Valparaiso|54|f
+San Rafael Lake|-46.666|-73.933|CL|Aysén|54|f
+Sanry-lès-Vigy|49.183|6.280|FR|Grand Est|54
+San Rafael|23.125|-99.794|MX|Tamaulipas|54
+San Rafael|17.201|-92.783|MX|Chiapas|54
 San Román de Hornija|41.481|-5.285|ES|Castille and León|53
 San Roberto|38.211|15.736|IT|Calabria|50
 San Romano|44.170|10.346|IT|Tuscany|49
 San Rocco|45.009|9.162|IT|Lombardy|48
 San Román de Cameros|42.233|-2.474|ES|La Rioja|44
 San Román de la Cuba|42.263|-4.857|ES|Castille and León|41
+San Rafael Bay|37.964|-122.477|US|California|40|f
 San Rafael|-0.312|-78.459|EC|Pichincha|0
 San Rafael|-7.030|-76.475|PE|San Martín Department|0
 San Rafael|-10.338|-76.183|PE|Huánuco Department|0
@@ -103,3 +147,4 @@ San Roque|-28.574|-58.709|AR|Corrientes|0
 San Roque|-3.727|-79.669|EC|El Oro|0
 San Roque|0.302|-78.233|EC|Imbabura|0
 San Roque|12.533|124.867|PH|Eastern Visayas|0
+Sanrao|23.985|116.822|CN|Guangdong|0

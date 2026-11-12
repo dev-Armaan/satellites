@@ -4,7 +4,7 @@ Adelaide|-34.929|138.599|AU|South Australia|123
 Adamawa|9.333|12.500|NG||121|r
 Aden|12.780|45.039|YE|Aden|121
 Adachi|35.763|139.808|JP|Tokyo|117
-Adıyaman Province|37.750|38.250|TR||115|r
+Adıyaman Province|37.750|38.250|TR||116|r
 Adamaoua|6.833|13.250|CM||113|r
 Ado-Ekiti|7.623|5.221|NG|Ekiti State|113
 Ad Dakhiliyah|22.500|57.333|OM||110|r
@@ -31,6 +31,8 @@ Adler|43.429|39.924|RU|Krasnodar Krai|97
 Ad Dilinjāt|30.828|30.536|EG|Beheira|97
 Adrar|27.874|-0.294|DZ|Adrar|97
 Ad Dir‘īyah|24.752|46.539|SA|Riyadh Region|96
+Adolfo Suárez Madrid–Barajas Airport|40.492|-3.569|ES|Madrid|95|f
+Addis Ababa Bole International Airport|8.978|38.798|ET|Addis Ababa|95|f
 Adilcevaz|38.799|42.732|TR|Bitlis|94
 Ad Darwa|33.375|-7.536|MA|Casablanca-Settat|94
 Adenta|5.714|-0.154|GH|Greater Accra|94
@@ -44,8 +46,12 @@ Adamantina|-21.685|-51.072|BR|São Paulo|91
 Ad Dilam|23.991|47.162|SA|Riyadh Region|91
 Adrano|37.664|14.833|IT|Sicily|91
 Adelanto|34.583|-117.409|US|California|90
+Adana Şakirpaşa Airport|36.982|35.280|TR|Adana|90|f
+Adriatic Sea|43.000|16.000|||90|f
 Adirampattinam|10.341|79.379|IN|Tamil Nadu|90
 Adūr|9.156|76.732|IN|Kerala|89
+Adelaide Airport|-34.945|138.531|AU|South Australia|89|f
+Aden International Airport|12.830|45.029|YE|Aden|89|f
 Addanki|15.811|79.973|IN|Andhra Pradesh|89
 Adrogué|-34.800|-58.384|AR|Buenos Aires|89
 Adichānallūr|8.880|76.716|IN|Kerala|89
@@ -64,13 +70,17 @@ Adebaye|14.202|36.760|ET|Tigray|87
 Ad Darbāsīyah|37.073|40.652|SY|Al-Hasakah|87
 Adampur|31.432|75.715|IN|Punjab|86
 Ādīs ‘Alem|9.033|38.400|ET|Oromiya|86
+Adelaide Island|-67.222|-68.392|AQ||86|f
 Adrian|41.898|-84.037|US|Michigan|86
 Adlershof|52.435|13.548|DE|State of Berlin|86
 Adh Dhayd|25.288|55.882|AE|Sharjah|86
 Ādīs K’idamē|11.083|36.883|ET|Amhara|86
 Adelaide city centre|-34.929|138.603|AU|South Australia|86
 Adwick le Street|53.571|-1.185|GB|England|86
+Aden Adde International Airport|2.016|45.304|SO|Banaadir|86|f
+Admiralty Island|57.667|-134.333|US|Alaska|86|f
 Adelfas|40.401|-3.671|ES|Madrid|85
+Adak Island|51.784|-176.640|US|Alaska|85|f
 Adiyanuthu|10.331|77.981|IN|Tamil Nadu|85
 Ad Dasmah|29.365|48.001|KW|Al Asimah|85
 Adriano|45.513|9.249|IT|Lombardy|85
@@ -101,11 +111,17 @@ Adygeysk|44.885|39.191|RU|Adygeya Republic|82
 Adalaj|23.165|72.581|IN|Gujarat|82
 Ad Duraykīsh|34.895|36.143|SY|Tartus|82
 Adahidoukou|5.311|-5.225|CI|Goh-Djiboua|81
+Admiralty Mountains|-71.788|168.762|AQ||81|f
 Aduthurai|11.015|79.481|IN|Tamil Nadu|81
 Ad Dabbah|18.050|30.950|SD|Northern State|81
 Adda-Douéni|-12.293|44.497|KM|Anjouan|81
+Addison Airport|32.968|-96.837|US|Texas|80|f
 Adendorf|53.282|10.438|DE|Lower Saxony|80
 Ad Dawḩah|31.699|35.180|PS|West Bank|80
+Adak Airport|51.878|-176.646|US|Alaska|80|f
+Adams Island|-9.399|-140.073|PF|Marquesas Islands|80|f
+Ada Municipal Airport|34.803|-96.671|US|Oklahoma|79|f
+Adisutjipto International Airport|-7.788|110.432|ID|Yogyakarta|79|f
 Adaikkakuzhi|8.308|77.141|IN|Tamil Nadu|79
 Adolfo López Mateos|28.467|-107.300|MX|Chihuahua|79
 Adéta|7.133|0.733|TG|Plateaux|79
@@ -120,6 +136,7 @@ Adalar|40.868|29.133|TR|Istanbul|77
 Adbhār|21.953|83.025|IN|Chhattisgarh|77
 Adelsdorf|49.470|10.685|DE|Bavaria|77
 Adyār|12.870|74.923|IN|Karnataka|77
+Adam Airport|22.497|57.383|OM|Ad Dakhiliyah|77|f
 Ādri|20.966|70.289|IN|Gujarat|77
 Ādaži|57.071|24.337|LV|Ādaži|77
 Adébem|5.473|-5.837|CI|Bas-Sassandra District|76
@@ -127,12 +144,14 @@ A dos Cunhados|39.152|-9.297|PT|Lisbon|76
 Adelebsen|51.583|9.755|DE|Lower Saxony|76
 Adegem|51.205|3.495|BE|Flanders|76
 Adelia María|-33.632|-64.021|AR|Cordoba|76
+Admiralty Arch|51.507|-0.129|GB|England|76|f
 Adérbissinat|15.627|7.894|NE|Agadez|76
 Adrianópolis|-24.657|-48.991|BR|Paraná|76
 Adani|6.740|7.011|NG|Enugu State|76
 Adămuş|46.300|24.233|RO|Mureș County|75
 Adikokoi|6.633|-3.712|CI|Comoé District|75
 Ada|40.770|-83.823|US|Ohio|75
+Admiralty Islands|-2.243|147.409|PG|Manus Province|75|f
 Adorf|50.320|12.260|DE|Saxony|75
 Adātt|10.544|76.142|IN|Kerala|75
 Adligenswil|47.065|8.361|CH|Lucerne|75
@@ -144,6 +163,8 @@ Adiékro|7.067|-3.693|CI|Lacs District|75
 Addūru|12.920|74.957|IN|Karnataka|75
 Ad Darb|17.723|42.253|SA|Jazan Region|75
 Adel|31.137|-83.424|US|Georgia|75
+Adi Sumarmo International Airport|-7.515|110.750|ID|Central Java|74|f
+Adventfjorden|78.258|15.515|SJ||74|f
 Adjuntas|18.163|-66.722|PR|Adjuntas|74
 Adh Dhibiyah|26.027|43.157|SA|Al-Qassim Region|74
 Adairsville|34.369|-84.934|US|Georgia|74
@@ -156,6 +177,7 @@ Adamsville|33.601|-86.956|US|Alabama|73
 Adamuz|38.027|-4.522|ES|Andalusia|73
 Adjouan|5.310|-3.152|CI|Comoé District|73
 Adel|41.614|-94.017|US|Iowa|73
+Adelaide Oval|-34.916|138.596|AU|South Australia|72|f
 Adamagui|5.858|-6.822|CI|Bas-Sassandra District|72
 Adil’-Yangiyurt|43.563|46.585|RU|Dagestan|72
 Adamakro|6.301|-3.257|CI|Comoé District|72
@@ -168,6 +190,8 @@ Adony|47.119|18.865|HU|Fejér|72
 Addingham|53.945|-1.884|GB|England|71
 Adaou|6.276|-4.883|CI|Lacs District|71
 Adyge-Khabl|44.334|41.939|RU|Karachayevo-Cherkesiya Republic|71
+Ada Airport|40.791|-83.829|US|Ohio|71|f
+Adin Airport|41.186|-120.953|US|California|71|f
 Adlaon|10.300|123.900|PH|Central Visayas|71
 Adacao|13.492|144.845|GU|Mangilao|71
 ADK (Complexe|6.195|-7.096|CI|Bas-Sassandra District|71
@@ -177,6 +201,7 @@ Addison|43.423|-88.375|US|Wisconsin|71
 Adunații-Copăceni|44.254|26.049|RO|Giurgiu County|71
 Adtugan|7.812|124.854|PH|Northern Mindanao|71
 Ādh|28.867|77.792|IN|Uttar Pradesh|70
+Adams Park|51.631|-0.800|GB|England|70|f
 Adinkerke|51.074|2.599|BE|Flanders|70
 Adâncata|44.767|26.433|RO|Ialomița County|70
 Adjélilié|6.067|-5.486|CI|Goh-Djiboua|70
@@ -189,6 +214,9 @@ Admannshagen-Bargeshagen|54.130|11.999|DE|Mecklenburg-Vorpommern|69
 Adagum|45.100|37.725|RU|Krasnodar Krai|69
 Adderbury|52.017|-1.312|GB|England|69
 Adaromé|5.580|-4.190|CI|Abidjan Autonomous District|69
+Adobe Range|40.953|-115.799|US|Nevada|69|f
+Adrar des Ifôghas|20.000|2.000|ML||69|f
+Ādwa Isate Gemora YeFelek’ebet Gudgwad|10.061|40.834|ET|Āfar|69|f
 Adstock|46.050|-71.082|CA|Quebec|68
 Adityapatna|13.269|76.715|IN|Karnataka|68
 Addah|5.175|-4.651|CI|Lagunes District|68
@@ -200,6 +228,8 @@ Adamstown|39.311|-77.475|US|Maryland|68
 Adarmān|31.021|75.465|IN|Punjab|67
 Ádánd|46.859|18.164|HU|Somogy County|67
 Adelândia|-16.415|-50.166|BR|Goiás|67
+Adelup Point|13.481|144.729|GU|Hagatna|67|f
+Adugak Island|52.908|-169.160|US|Alaska|67|f
 Adamclisi|44.083|27.950|RO|Constanța County|67
 Adelsried|48.425|10.718|DE|Bavaria|67
 Adamsville|35.236|-88.391|US|Tennessee|67
@@ -222,6 +252,14 @@ Adohosou|8.020|-5.390|CI|Vallée du Bandama District|66
 Adams|43.956|-89.818|US|Wisconsin|66
 Ádendro|40.671|22.605|GR|Central Macedonia|66
 Adelmannsfelden|48.955|10.005|DE|Baden-Wurttemberg|65
+Adam’s Peak|6.809|80.497|LK|Sabaragamuwa Province|65|f
+Adams Mountains|-84.500|166.333|AQ||65|f
+Adarra|43.207|-1.962|ES|Basque Country|65|f
+Adèle Island|-15.525|123.157|AU|Western Australia|65|f
+Adhaim Dam|34.565|44.516|IQ|Salah ad Din|65|f
+Adrar Bou Nasser|33.566|-3.891|MA|Oriental|65|f
+Adrar Yagour|31.325|-7.642|MA|Marrakesh-Safi|65|f
+Advent Island|-64.893|-63.601|AQ||65|f
 Adamstown|40.241|-76.056|US|Pennsylvania|65
 Adams|43.809|-76.024|US|New York|65
 Adolfo Ruíz Cortines|20.596|-97.306|MX|Veracruz|65
@@ -246,6 +284,11 @@ Adelzhausen|48.357|11.139|DE|Bavaria|64
 Adha Chat|27.907|80.763|IN|Uttar Pradesh|63
 Addi|31.237|75.391|IN|Punjab|63
 Addiebrownhill|55.843|-3.617|GB|Scotland|63
+Ada|41.864|19.361|ME||63|f
+Adam Bay|-12.159|131.210|AU|Northern Territory|63|f
+Adams Key|25.400|-80.233|US|Florida|63|f
+Adams Mountain|35.931|-81.725|US|North Carolina|63|f
+Adirondack Mountains|44.000|-74.500|US|New York|63|f
 Adnet|47.697|13.131|AT|Salzburg|63
 Adzaneta|40.216|-0.170|ES|Valencia|63
 Adosso|5.355|-3.525|CI|Comoé District|63
@@ -272,6 +315,14 @@ Adessé|5.168|-4.699|CI|Lagunes District|61
 Ademuz|40.061|-1.287|ES|Valencia|61
 Advance|35.941|-80.409|US|North Carolina|61
 Adare|52.562|-8.796|IE|Munster|61
+Ada Međica|44.791|20.387|RS||61|f
+Adam Range|76.152|-103.503|CA|Nunavut|61|f
+Adelphi University|40.722|-73.652|US|New York|61|f
+Adelsön|59.383|17.500|SE|Stockholm|61|f
+Admiralen Peak|-62.105|-58.492|AQ||61|f
+Adrar n’ Ouanoukrim|31.056|-7.948|MA|Marrakesh-Safi|61|f
+Adsız Adası|39.725|49.625|AZ|Baki|61|f
+Adventure Sound|-52.111|-59.009|FK||61|f
 Adoumangan|5.205|-4.389|CI|Lagunes District|61
 Adikankourou|7.525|-3.913|CI|Lacs District|61
 Adlington|53.320|-2.137|GB|England|61
@@ -282,14 +333,179 @@ Adounikro|6.722|-3.564|CI|Comoé District|60
 Adea|46.555|21.584|RO|Arad County|60
 Adenstedt|51.999|9.935|DE|Lower Saxony|60
 Adroukro|7.523|-3.938|CI|Lacs District|60
+Adjuntas del Monte|21.307|-100.796|MX|Guanajuato|60
+Adiaou|7.221|-4.045|CI|Lacs District|60
+Adamaho|6.034|-4.498|CI|Lagunes District|60
+Adlikon|47.447|8.466|CH|Zurich|60
+Adjin|5.396|-3.854|CI|Abidjan Autonomous District|60
+Adelshofen|49.433|10.167|DE|Bavaria|60
+Adayazı|39.062|31.268|TR|Afyonkarahisar Province|59
+Addyston|39.137|-84.709|US|Ohio|59
+Adiokro|7.971|-5.421|CI|Vallée du Bandama District|59
+Adelong|-35.305|148.069|AU|New South Wales|59
+Adolfo Ruiz Cortines|20.222|-97.561|MX|Veracruz|59
+Adangba-Eby|5.450|-4.591|CI|Lagunes District|59
+Adahou|6.813|-4.837|CI|Lacs District|59
+Adamowice|50.132|18.333|PL|Silesia|59
+Adamovec|45.905|16.164|HR|Zagreb|59
+Adolfo López Mateos|22.844|-99.193|MX|Tamaulipas|59
+Adairville|36.668|-86.852|US|Kentucky|59
+Adamów|51.019|21.149|PL|Świętokrzyskie|59
+Adderet|31.661|34.996|IL|Jerusalem|59
+Adolfo López Mateos (San José de Enmedio)|18.812|-96.792|MX|Veracruz|59
+Adásztevel|47.303|17.541|HU|Veszprém|59
+Adjiéibango|7.947|-3.171|CI|Zanzan District|59
+Adailou|11.952|42.905|DJ|Tadjourah|59
+Adamovské Kochanovce|48.853|17.926|SK|Trenčín Region|59
+Adriers|46.257|0.799|FR|New Aquitaine|59
+Addington|51.307|0.374|GB|England|59
+Adoni|47.432|22.176|RO|Bihor County|59
+Adolfo Ruiz Cortines|14.859|-92.494|MX|Chiapas|59
+Adissan|43.535|3.428|FR|Occitanie|58
+Advocate Harbour|45.333|-64.778|CA|Nova Scotia|58
+Adelino|34.716|-106.731|US|New Mexico|58
+Adair|36.437|-95.271|US|Oklahoma|58
+Adair Village|44.671|-123.218|US|Oregon|58
+Adjiebo|7.304|-4.812|CI|Lacs District|58
+Ada Tepe|41.437|25.654|BG|Kardzhali|58|f
+Adair Lake|37.683|-119.407|US|California|58|f
+Adare, Cape|-71.283|170.233|AQ||58|f
+Addu Atoll|-0.639|73.162|MV|Seenu|58|f
+Adlerstein|50.699|13.163|DE|Saxony|58|f
+Admiral William Standley State Recreation Area|39.646|-123.618|US|California|58|f
+Admiralty Gulf|-14.333|125.833|AU|Western Australia|58|f
+Adventure Island|45.159|-87.265|US|Wisconsin|58|f
 Adrara San Rocco|45.716|9.959|IT|Lombardy|58
+Adam|46.029|27.733|RO|Galați County|58
+Ad Dayrāt|31.444|35.164|PS|West Bank|58
+Adams|43.565|-92.719|US|Minnesota|58
+Adainville|48.723|1.653|FR|Île-de-France|58
+Addison|34.202|-87.181|US|Alabama|57
+Adikro|7.757|-4.852|CI|Vallée du Bandama District|57
+Adjuassou|7.477|-5.100|CI|Vallée du Bandama District|57
+Adjué|5.188|-4.548|CI|Lagunes District|57
+Adi Koffikro|7.220|-4.635|CI|Lacs District|57
+Adiamara|7.717|-2.901|CI|Zanzan District|57
+Adena|40.219|-80.873|US|Ohio|57
+Adair|41.501|-94.644|US|Iowa|57
+Adé|43.134|-0.028|FR|Occitanie|57
+Adetswil|47.340|8.840|CH|Zurich|57
+Adolfo López Mateos (Aguinaldo)|24.544|-104.489|MX|Durango|57
+Adolfo López Mateos|16.879|-93.713|MX|Chiapas|57
+Adelianós Kámpos|35.372|24.541|GR|Crete|57
 Adsubia|38.848|-0.153|ES|Valencia|57
+Adolfo López Mateos|18.416|-92.953|MX|Tabasco|57
+Adolfo Oribe de Alva|30.936|-113.007|MX|Sonora|56
+Adioumanikro|6.858|-4.663|CI|Lacs District|56
+Adrian|32.531|-82.589|US|Georgia|56
+Adams|36.582|-87.066|US|Tennessee|56
+Adioblessou|7.491|-5.342|CI|Vallée du Bandama District|56
+Adiogouansou|7.553|-5.280|CI|Vallée du Bandama District|56
+Adavere|58.706|25.899|EE|Jõgevamaa|56
+Adalberto Tejeda|17.580|-94.230|MX|Veracruz|56
+Adolfo Ruiz Cortines (La Pastoría)|19.145|-97.000|MX|Veracruz|56
+Adolfo López Mateos|16.751|-92.414|MX|Chiapas|56
+Ādampur|24.650|91.136|BD|Mymensingh Division|56
+Adjoumanibango|7.770|-3.321|CI|Zanzan District|56
+Adamivka|47.828|30.665|UA|Mykolaiv|56
+Adams|40.459|-96.510|US|Nebraska|56
+Addison|41.986|-84.347|US|Michigan|55
+Adolfo Ruiz Cortines|17.295|-93.392|MX|Chiapas|55
+Ådalsbruk|60.797|11.309|NO|Innlandet|55
+Adolfo Ruiz Cortínes|17.387|-91.983|MX|Chiapas|55
+Adrian|47.904|23.127|RO|Satu Mare County|55
+Adolfo Ruiz Cortines|22.615|-98.462|MX|Tamaulipas|55
+Adršpach|50.619|16.109|CZ|Hradec Králové Region|54
+Adell|43.619|-87.952|US|Wisconsin|54
+Adolfo López Mateos|15.466|-93.009|MX|Chiapas|54
+Ada Ciganlija|44.790|20.398|RS||54|f
+Ada Huja|44.822|20.505|RS||54|f
+Adado Airport|6.097|46.638|SO|Galguduud|54|f
+Adam Mountains|55.650|-130.428|US|Alaska|54|f
+Adams Glacier|46.217|-121.512|US|Washington|54|f
+Adareil Airport|10.057|32.961|SS|Upper Nile|54|f
+Addo Elephant National Park|-33.483|25.755|ZA|Eastern Cape|54|f
+Adelaide Peninsula|68.251|-97.501|CA|Nunavut|54|f
+Adelbert Range|-4.721|145.301|PG|Madang Province|54|f
+Ader, Mount|-64.167|-60.517|AQ||54|f
+Adināth Temple|21.528|91.975|BD|Chittagong|54|f
+Adirondack Regional Airport|44.380|-74.205|US|New York|54|f
+Adiyaman Airport|37.731|38.469|TR|Adıyaman Province|54|f
+Adıgüzel Barajı|38.159|29.210|TR|Denizli|54|f
+Adlersparrefjorden|80.313|24.124|SJ|Svalbard|54|f
+Admiral David G Farragut Statue|38.902|-77.039|US|District of Columbia|54|f
+Admiralty Island National Monument|57.618|-134.161|US|Alaska|54|f
+Adolph Islands|-66.324|-67.190|AQ||54|f
+Adolph Zang Mansion|39.728|-104.978|US|Colorado|54|f
+Adolpho Ducke Forest Reserve|-2.962|-59.928|BR|Amazonas|54|f
+Adriasola, Cape|-67.631|-69.124|AQ||54|f
+Adventtoppen|78.267|15.733|SJ|Svalbard|54|f
+Adjacouti|5.186|-4.562|CI|Lagunes District|54
+‘Adanim|32.139|34.908|IL|Central District|54
+Adjuntas del Peñasco (El Peñasco)|22.991|-102.841|MX|Zacatecas|54
+Adorp|53.275|6.533|NL|Groningen|54
+Advance|39.996|-86.620|US|Indiana|54
+Adanekro|7.176|-3.359|CI|Comoé District|54
+Adamov|49.001|14.540|CZ|South Bohemian Region|54
+Adolfo López Mateos|16.608|-92.894|MX|Chiapas|54
+Adolfo Ruiz Cortines (Morelitos)|18.039|-93.173|MX|Tabasco|54
+Adımova|39.636|43.040|TR|Ağrı|54
 Adanero|40.945|-4.606|ES|Castille and León|50
+Adams Glacier|-66.850|109.700|AQ||49|f
+Adams Glacier|-78.117|163.633|AQ||49|f
+Adams Island|-66.546|92.549|AQ||49|f
+Adams Island|-50.883|166.083|NZ||49|f
+Adams Peak|-81.633|160.067|AQ||49|f
+Adams Peak|39.911|-120.100|US|California|49|f
+Adams Ridge|-71.000|162.383|AQ||49|f
+Adamsons Peak|-43.353|146.825|AU|Tasmania|49|f
+Adelaide Aquatic Centre|-34.901|138.591|AU|South Australia|49|f
+Adjumani Airport|3.339|31.766|UG|Northern Region|49|f
+Adkins, Mount|-73.076|-62.017|AQ||49|f
+Admiral Island|-16.066|123.403|AU|Western Australia|49|f
+Admiralty Peak|-54.220|-36.833|GS||49|f
+Adolphus Island|-15.167|128.167|AU|Western Australia|49|f
+Adrar Bous|20.371|9.025|NE|Agadez|49|f
+Adventure Bay|-43.310|147.340|AU|Tasmania|49|f
+Adventure Park|-33.805|151.106|AU|New South Wales|49|f
 Adrada de Haza|41.595|-3.823|ES|Castille and León|48
 Aderklaa|48.283|16.533|AT|Lower Austria|46
+Adenbach|49.667|7.650|DE|Rheinland-Pfalz|46
 Adrados|41.368|-4.112|ES|Castille and León|45
 Adahuesca|42.146|-0.008|ES|Aragon|45
 Adiós|42.686|-1.735|ES|Navarre|44
+Ada Covered Bridge Historical Marker|42.953|-85.487|US|Michigan|40|f
+Ada Gym|15.163|145.709|MP|Saipan|40|f
+Adair Viaduct|41.493|-94.652|US|Iowa|40|f
+Adamant Range|51.783|-117.869|CA|British Columbia|40|f
+Adams Crest|-80.333|155.550|AQ||40|f
+Adams Island|44.583|-64.215|CA|Nova Scotia|40|f
+Adams Island|71.451|-73.081|CA|Nunavut|40|f
+Adams Lake Park|50.983|-119.736|CA|British Columbia|40|f
+Adams Memorial|38.948|-77.010|US|District of Columbia|40|f
+Adams Museum|44.376|-103.729|US|South Dakota|40|f
+Adams National Historical Park|42.257|-71.013|US|Massachusetts|40|f
+Adamson House|34.034|-118.681|US|California|40|f
+Addicks Reservoir|29.791|-95.624|US|Texas|40|f
+Addis Ababa University|9.047|38.759|ET||40|f
+Addison Municipal Airport|34.219|-87.154|US|Alabama|40|f
+Addu City|-0.641|73.158|MV|Seenu|40|f
+Adel Bridge|41.614|-94.017|US|Iowa|40|f
+Adele H. Stamp Student Union|38.988|-76.945|US|Maryland|40|f
+Adele Island|45.150|-80.050|CA|Ontario|40|f
+Adele Island|-40.980|173.060|NZ||40|f
+Aden Lava Flow Wilderness Study Area|32.070|-107.058|US|New Mexico|40|f
+Adikavi Nannaya University|17.065|81.872|IN|Andhra Pradesh|40|f
+Adirondack Museum|43.869|-74.433|US|New York|40|f
+Adlerhorn|46.009|7.889|CH|Valais|40|f
+Admiral Island|48.367|-53.348|CA|Newfoundland and Labrador|40|f
+Admiralty Bay|-40.950|173.867|NZ||40|f
+Admonter Reichenstein|47.550|14.533|AT|Styria|40|f
+Adobe Hills|38.016|-118.609|US|California|40|f
+Adolphus Lake|53.171|-119.118|CA|Alberta|40|f
+Adriatic Arena|43.903|12.867|IT|The Marches|40|f
+Adventure Aquarium|39.946|-75.131|US|New Jersey|40|f
+Adventure Mine|46.773|-89.082|US|Michigan|40|f
 Adradas|41.351|-2.474|ES|Castille and León|38
 Adobes|40.676|-1.679|ES|Castille-La Mancha|37
 Adalia|41.649|-5.121|ES|Castille and León|36
@@ -312,13 +528,19 @@ Adaklı|39.226|40.483|TR|Bingöl|0
 Adala|38.578|28.268|TR|Manisa|0
 Adar|30.141|-8.372|MA|Souss-Massa|0
 Adassil|31.108|-8.491|MA|Marrakesh-Safi|0
+Adelschlag|48.840|11.219|DE|Bavaria|0
+Adelsdorf|49.712|10.895|DE|Bavaria|0
 Adhruḩ|30.331|35.597|JO|Ma’an|0
 Adikpo|6.890|9.234|NG|Benue State|0
 Adil Makmur|5.198|96.870|ID|Aceh|0
 Adīmī|31.111|61.412|IR|Sistan and Baluchestan|0
 Adipala|-7.660|109.150|ID|Central Java|0
+Adirejo|-8.212|112.639|ID|East Java|0
 Adjohon|6.719|2.478|BJ|Ouémé|0
 Adogo|7.510|6.480|NG|Kogi State|0
 Adolfo Gonzáles Chaves|-38.032|-60.099|AR|Buenos Aires|0
 Adraskan|33.646|62.270|AF|Herat|0
+Adun Chulu|48.443|116.184|CN|Inner Mongolia|0
 Aduna|43.204|-2.050|ES|Basque Country|0
+Aduo|32.940|95.049|CN|Qinghai|0
+Aduoen|-10.796|122.857|ID|East Nusa Tenggara|0

@@ -34,6 +34,7 @@ Bình Long|11.647|106.606|VN|Dong Nai|84
 Binningen|47.540|7.569|CH|Basel-Landschaft|83
 Binagadi|40.466|49.828|AZ|Baki|83
 Binkolo|8.952|-11.980|SL|Northern Province|83
+Bintulu Airport|3.124|113.020|MY|Sarawak|81|f
 Bin Yauri|10.782|4.811|NG|Kebbi|81
 Bin-Houyé|6.782|-8.313|CI|Montagnes|80
 Bingham|52.950|-0.959|GB|England|79
@@ -47,15 +48,18 @@ Binasco|45.331|9.094|IT|Lombardy|77
 Binji|13.223|4.909|NG|Sokoto|77
 Binubusan|13.969|120.636|PH|Calabarzon|77
 Binuangan|8.915|124.788|PH|Northern Mindanao|75
+Binaka Airport|1.166|97.705|ID|North Sumatra|74|f
 Bintawan|16.576|121.188|PH|Cagayan Valley|74
 Binahaan|13.992|121.754|PH|Calabarzon|74
 Binitayan|13.294|123.758|PH|Bicol Region|74
 Binago|45.782|8.922|IT|Lombardy|73
 Binga|-17.620|27.341|ZW|Matabeleland North|73
 Binantocan|11.407|122.860|PH|Western Visayas|72
+Binnenhof|52.080|4.313|NL|South Holland|72|f
 Binidayan|7.807|124.168|PH|Autonomous Region in Muslim Mindanao|72
 Bincoñgan|7.367|125.750|PH|Davao Region|72
 Bingawan|11.233|122.567|PH|Western Visayas|71
+Bintuni Bay|-2.337|133.450|ID|West Papua|71|f
 Binon-an|11.395|123.143|PH|Western Visayas|71
 Binabalian|16.420|119.928|PH|Ilocos|70
 Bingassou|6.794|-4.485|CI|Lacs District|70
@@ -86,6 +90,7 @@ Binpınar|39.362|42.049|TR|Erzurum|64
 Binaced|41.826|0.201|ES|Aragon|64
 Binz|47.356|8.627|CH|Zurich|64
 Binkom|50.872|4.884|BE|Flanders|64
+Binder Park Zoo|42.246|-85.155|US|Michigan|63|f
 Bingara|-29.869|150.572|AU|New South Wales|63
 Bíňa|47.922|18.642|SK|Nitra Region|63
 Bīneh|36.018|50.843|IR|Alborz Province|63
@@ -95,26 +100,96 @@ Binningup|-33.148|115.695|AU|Western Australia|62
 Bining|49.037|7.253|FR|Grand Est|62
 Bindoon|-31.387|116.097|AU|Western Australia|61
 Bingham Farms|42.516|-83.273|US|Michigan|61
+Bingöl Airport|38.860|40.594|TR|Bingöl|61|f
 Binsfeld|49.967|6.717|DE|Rheinland-Pfalz|61
 Binnen|52.620|9.132|DE|Lower Saxony|60
 Bindolo|8.135|-4.260|CI|Vallée du Bandama District|60
+Binhouléra|7.643|-5.944|CI|Sassandra-Marahoue|60
+Biniș|45.337|21.689|RO|Caraș-Severin County|59
+Binbrook|53.429|-0.181|GB|England|59
+Bingoro|8.001|-6.676|CI|Woroba|58
+Bingelrade|50.976|5.927|NL|Limburg|58
+Bin of Cullen|57.665|-2.873|GB|Scotland|58|f
+Bindalsfjorden|65.200|12.300|NO|Nordland|58|f
+Bine el Ouidane|32.130|-6.460|MA|Beni Mellal-Khenifra|58|f
+Binevenagh|55.113|-6.918|GB|Northern Ireland|58|f
+Binnein Beag|56.767|-4.912|GB|Scotland|58|f
+Bindernheim|48.283|7.608|FR|Grand Est|58
+Bingham|45.059|-69.882|US|Maine|58
+Bingham Canyon|40.558|-112.131|US|Utah|57
+Bingen|45.715|-121.465|US|Washington|57
+Binfield Heath|51.501|-0.926|GB|England|57
+Binningen|50.206|7.246|DE|Rheinland-Pfalz|57
+Binger|35.309|-98.342|US|Oklahoma|56
+Binderveld|50.861|5.165|BE|Flanders|56
+Binatlı|36.934|38.382|TR|Şanlıurfa|56
+Bintosun|39.337|42.779|TR|Ağrı|56
+Binas|47.904|1.462|FR|Centre-Val de Loire|56
+Binges|47.330|5.267|FR|Bourgogne-Franche-Comté|56
+Binnaway|-31.552|149.379|AU|New South Wales|55
+Binalong|-34.672|148.635|AU|New South Wales|54
+Bingham Copper Mine|40.522|-112.149|US|Utah|54|f
+Bingham Glacier|-69.407|-63.313|AQ||54|f
+Bingumer Sand|53.229|7.418|DE|Lower Saxony|54|f
+Binnen-Alster|53.555|9.995|DE|Hamburg|54|f
+Binnenmüritz|53.433|12.783|DE|Mecklenburg-Vorpommern|54|f
+Binneyfjellet|80.347|22.927|SJ|Svalbard|54|f
+Binary Peaks|-54.491|-36.095|GS||49|f
+Bindersee|51.487|11.723|DE|Saxony-Anhalt|49|f
+Bingley Glacier|-84.483|167.167|AQ||49|f
+Binn Peak|-62.717|-60.425|AQ||49|f
+Binnein Shuas|56.910|-4.526|GB|Scotland|49|f
+Binnie Peaks|-54.050|-37.867|GS||49|f
+Bincknoll Castle|51.512|-1.846|GB|England|40|f
+Bindon Abbey|50.680|-2.209|GB|England|40|f
+Bindschadler Glacier|-77.967|162.150|AQ||40|f
+Bingaman Lake|37.846|-119.246|US|California|40|f
+Binger Mäuseturm|49.972|7.880|DE|Rheinland-Pfalz|40|f
+Bingham Lake|43.921|-95.047|US|Minnesota|40|f
+Bingham Peak|-79.433|-84.783|AQ||40|f
+Bingley Peak|52.883|-118.619|CA|Alberta|40|f
+Binnein Mor|56.754|-4.926|GB|Scotland|40|f
+Bin’an|45.842|127.761|CN|Heilongjiang|0
+Binab|-9.583|124.290|ID|East Nusa Tenggara|0
+Binafun|-9.662|124.036|ID|East Nusa Tenggara|0
 Binalawan|4.092|117.773|ID|North Kalimantan|0
 Binanga|1.410|99.776|ID|North Sumatra|0
 Binangun|-8.234|112.336|ID|East Java|0
+Binangun|-7.537|109.247|ID|Central Java|0
+Binangun|-7.719|108.475|ID|West Java|0
 Binawara|-3.485|115.795|ID|South Kalimantan|0
+Bindang|-6.917|112.961|ID|East Java|0
 Bindawa|12.670|7.809|NG|Katsina State|0
 Bindo|-8.153|15.210|AO|Cuanza Norte|0
 Binfield|51.432|-0.788|GB|England|0
+Bingcha|32.523|120.891|CN|Jiangsu|0
+Bingchao|44.090|87.375|CN|Heilongjiang|0
+Bingcun|24.367|116.274|CN|Guangdong|0
+Bingfang|32.269|121.295|CN|Jiangsu|0
 Bingintelok|-2.623|103.117|ID|South Sumatra|0
+Binglincha|36.040|107.373|CN|Gansu|0
 Bingo|12.301|-1.835|BF|Centre-Ouest|0
+Bingtan|29.723|117.917|CN|Anhui|0
+Bingtang|22.623|111.705|CN|Guangdong|0
+Bingying|32.110|109.941|CN|Hubei|0
 Bình Đại|10.190|106.691|VN|Vinh Long|0
 Bình Gia|21.961|106.364|VN|Lạng Sơn Province|0
 Bình Mỹ|20.491|106.010|VN|Ninh Binh|0
 Bình Sơn|15.298|108.761|VN|Quang Ngai|0
+Binhailu|37.441|121.431|CN|Shandong|0
 Binhe|40.133|117.109|CN|Beijing|0
 Binhe|37.511|105.184|CN|Ningxia|0
+Binheng|23.471|112.421|CN|Guangdong|0
 Binhu|32.030|118.758|CN|Jiangsu|0
+Binhu|31.433|120.260|CN|Jiangsu|0
+Binjiang|27.784|114.552|CN|Jiangxi|0
+Binjiang|28.295|117.184|CN|Jiangxi|0
+Binongko|-8.218|124.513|ID|East Nusa Tenggara|0
+Binongsari|-7.351|106.919|ID|West Java|0
+Bintang|2.137|100.814|ID|Riau|0
 Bintuhan|-4.794|103.348|ID|Bengkulu|0
 Binuang|-3.071|115.164|ID|South Kalimantan|0
+Binuangeun|-6.837|105.885|ID|Banten|0
+Binxi|45.749|127.156|CN|Heilongjiang|0
 Binyang|23.221|108.805|CN|Guangxi|0
 Binyiny|1.417|34.533|UG|Eastern Region|0

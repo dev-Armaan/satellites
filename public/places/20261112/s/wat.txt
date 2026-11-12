@@ -15,6 +15,8 @@ Wat Tha Phra|13.735|100.476|TH|Bangkok|95
 Watsa|3.037|29.536|CD|Haut-Uele|93
 Wattrelos|50.701|3.218|FR|Hauts-de-France|93
 Watari|38.035|140.851|JP|Miyagi|90
+Water Cube|39.992|116.384|CN|Beijing|90|f
+Wattay International Airport|17.988|102.563|LA|Vientiane Prefecture|90|f
 Watertown|42.371|-71.183|US|Massachusetts|90
 Wattala|6.989|79.892|LK|Western Province|90
 Waterloo|50.715|4.399|BE|Wallonia|89
@@ -23,6 +25,7 @@ Watertown|43.975|-75.911|US|New York|89
 Watermael-Boitsfort|50.802|4.414|BE|Brussels Capital|88
 Watauga|32.858|-97.255|US|Texas|88
 Waterdown|43.333|-79.883|CA|Ontario|88
+Waterloo Bridge|51.509|-0.117|GB|England|88|f
 Watertown|43.195|-88.729|US|Wisconsin|88
 Watertown|44.899|-97.115|US|South Dakota|87
 Watté|4.935|-6.778|CI|Bas-Sassandra District|86
@@ -31,11 +34,13 @@ Wath upon Dearne|53.503|-1.346|GB|England|85
 Waterville|44.552|-69.632|US|Maine|84
 Wattignies|50.586|3.044|FR|Hauts-de-France|83
 Wat Arun|13.741|100.488|TH|Bangkok|83
+Waterford Airport|52.187|-7.087|IE|Munster|81|f
 Waterloo|38.336|-90.150|US|Illinois|80
 Watervliet|42.730|-73.701|US|New York|80
 Watton|52.567|0.833|GB|England|80
 Waterford|37.641|-120.760|US|California|79
 Water Eaton|51.987|-0.722|GB|England|78
+Wat Phra Kaew|13.751|100.493|TH|Bangkok|78|f
 Wattwil|47.300|9.087|CH|Saint Gallen|78
 Wattegama|6.799|81.481|LK|Uva Province|78
 Wattens|47.294|11.591|AT|Tyrol|78
@@ -44,17 +49,24 @@ Waterboro|43.536|-70.715|US|Maine|78
 Watargām|34.319|74.374|IN|Jammu and Kashmir|77
 Watford City|47.802|-103.283|US|North Dakota|77
 Wathlingen|52.537|10.150|DE|Lower Saxony|76
+Watsonville Municipal Airport|36.936|-121.791|US|California|76|f
 Wataradougou|8.672|-5.815|CI|Savanes District|76
 Watchung|40.638|-74.451|US|New Jersey|75
+Watertown International Airport|43.992|-76.021|US|New York|75|f
 Waterbeach|52.266|0.191|GB|England|75
 Waterville|41.501|-83.718|US|Ohio|75
 Waterford|42.763|-88.214|US|Wisconsin|75
 Watertown Square|42.365|-71.185|US|Massachusetts|75
+Watzmann|47.554|12.922|DE|Bavaria|74|f
 Watseka|40.776|-87.736|US|Illinois|74
 Waterloo|42.905|-76.863|US|New York|74
+Water Island|10.423|103.800|KH|Preah Sihanouk|73|f
+Watertown Municipal Airport|43.170|-88.723|US|Wisconsin|73|f
 Waterloo|45.350|-72.516|CA|Quebec|73
 Watertown|44.964|-93.847|US|Minnesota|73
 Water Ground|19.376|-81.400|KY||72
+Waterbury Airport|41.633|-73.047|US|Connecticut|71|f
+Watson Lake Airport|60.116|-128.822|CA|Yukon|71|f
 Watchet|51.182|-3.331|GB|England|71
 Watertown|41.606|-73.118|US|Connecticut|71
 Water Orton|52.516|-1.740|GB|England|71
@@ -67,18 +79,28 @@ Wattenbek|54.164|10.054|DE|Schleswig-Holstein|69
 Watkinsville|33.863|-83.409|US|Georgia|69
 Watertown|30.192|-82.615|US|Florida|69
 Wattenwil|46.770|7.508|CH|Bern|69
+Waterlemon Cay|18.367|-64.723|VI|Saint John Island|69|f
+Waterrock Knob|35.464|-83.138|US|North Carolina|69|f
+Waties Island|33.849|-78.575|US|South Carolina|69|f
 Watenbüttel|52.306|10.466|DE|Lower Saxony|68
 Wateringbury|51.255|0.423|GB|England|68
 Watchtower|41.638|-74.260|US|New York|68
 Watton at Stone|51.858|-0.114|GB|England|67
 Wa Thin Kha|16.498|95.905|MM|Yangon|67
 Watsontown|41.085|-76.864|US|Pennsylvania|67
+Watchung Mountains|40.971|-74.198|US|New Jersey|67|f
+Waterman Mountain|34.336|-117.936|US|California|67|f
 Waterloo|41.432|-85.020|US|Indiana|67
 Waterloo|39.563|-86.197|US|Indiana|67
 Watlington|51.643|-1.004|GB|England|67
 Waterford|42.793|-73.681|US|New York|66
 Watrous|51.667|-105.468|CA|Saskatchewan|65
 Watkins Glen|42.381|-76.873|US|New York|65
+Watchaug Pond|41.384|-71.691|US|Rhode Island|65|f
+Water Island|18.321|-64.952|VI|Saint Thomas Island|65|f
+Waterville Robert Lafleur Airport|44.534|-69.679|US|Maine|65|f
+Wattisham Airfield|52.127|0.956|GB|England|65|f
+Watts Island|37.800|-75.894|US|Virginia|65|f
 Waterville|44.219|-93.568|US|Minnesota|65
 Waterbury|44.338|-72.756|US|Vermont|65
 Watou|50.859|2.621|BE|Flanders|65
@@ -97,6 +119,8 @@ Waterford|41.943|-79.984|US|Pennsylvania|64
 Watford|42.950|-81.883|CA|Ontario|64
 Watertown|36.100|-86.132|US|Tennessee|64
 Waterman|41.772|-88.774|US|Illinois|63
+Watarrka National Park|-24.280|131.558|AU|Northern Territory|63|f
+Watom Island|-4.110|152.073|PG|East New Britain Province|63|f
 Waterford|40.255|-79.168|US|Pennsylvania|63
 Watergrasshill|52.011|-8.344|IE|Munster|63
 Wathena|39.759|-94.950|US|Kansas|63
@@ -105,18 +129,162 @@ Waterfoot|55.769|-4.284|GB|Scotland|62
 Watering Place|19.737|-79.778|KY||62
 Waterville|47.647|-120.071|US|Washington|61
 Wattsville|37.934|-75.500|US|Virginia|61
+Wat Chalong|7.847|98.337|TH|Phuket|61|f
+Waterbury Dam|44.382|-72.772|US|Vermont|61|f
+Wateree Lake|34.413|-80.811|US|South Carolina|61|f
+Waterfall Seaplane Base|55.295|-133.246|US|Alaska|61|f
+Waterloo Bridge|43.288|-71.856|US|New Hampshire|61|f
+Watervliet Municipal Airport|42.201|-86.251|US|Michigan|61|f
+Watson Island|-14.465|144.893|AU|Queensland|61|f
+Watson Island|25.784|-80.175|US|Florida|61|f
+Watson Peak|44.131|-114.686|US|Idaho|61|f
+Wattenberg|51.297|9.275|DE|Hesse|61|f
+Wattle Island|-39.140|146.361|AU|Victoria|61|f
 Wattle Ponds|-32.520|151.194|AU|New South Wales|61
 Wattmannshagen|53.779|12.413|DE|Mecklenburg-Vorpommern|61
 Watson|30.576|-90.953|US|Louisiana|60
 Waterloo|41.287|-96.286|US|Nebraska|60
 Watterson Park|38.192|-85.683|US|Kentucky|60
+Watkins|45.315|-94.409|US|Minnesota|59
+Wataga|41.025|-90.280|US|Illinois|58
+Wat Phanan Choeng|14.344|100.578|TH|Phra Nakhon Si Ayutthaya|58|f
+Wat Pho|13.747|100.492|TH|Bangkok|58|f
+Wat Phra Mahathat|14.357|100.567|TH|Phra Nakhon Si Ayutthaya|58|f
+Watagan Mountains|-31.700|151.700|AU|New South Wales|58|f
+Waterloo Municipal Airport|42.557|-92.400|US|Iowa|58|f
+Waterman Hills|34.971|-117.039|US|California|58|f
+Watertown Municipal Airport|44.914|-97.155|US|South Dakota|58|f
+Watnong Mountain|40.849|-74.493|US|New Jersey|58|f
+Watonga Regional Airport|35.860|-98.420|US|Oklahoma|58|f
+Watson Peninsula|-60.683|-44.533|AQ||58|f
+Wattle Island|-67.283|46.767|AQ||58|f
+Watson|39.025|-88.570|US|Illinois|57
 Wattenberg|47.283|11.600|AT|Tyrol|57
+Wattendorf|50.033|11.126|DE|Bavaria|57
+Waterville|39.691|-96.748|US|Kansas|56
+Waterproof|31.805|-91.383|US|Louisiana|56
+Waterloo|38.035|-121.187|US|California|55
+Watergang|52.438|4.951|NL|North Holland|55
+Wat Phou Temple|14.848|105.818|LA|Champasak Province|54|f
+Watauga Lake|36.333|-82.030|US|Tennessee|54|f
+Waterboat Point|-64.824|-62.858|AQ||54|f
+Waterbury-Oxford Airport|41.478|-73.137|US|Connecticut|54|f
+Waterford Speedbowl|41.397|-72.176|US|Connecticut|54|f
+Watergate Bay|50.467|-5.050|GB|England|54|f
+Watkins Island|-66.354|-67.086|AQ||54|f
+Watson Pond|41.951|-71.119|US|Massachusetts|54|f
+Watson Settlement Bridge|46.210|-67.800|US|Maine|54|f
+Watsons Bay|-33.845|151.279|AU|New South Wales|54|f
+Watters Smith Memorial State Park|39.170|-80.411|US|West Virginia|54|f
+Watts Bar Lake|35.847|-84.552|US|Tennessee|54|f
+Watts Landing|45.153|-123.238|US|Oregon|54|f
+Watzespitze|46.990|10.795|AT|Tyrol|54|f
+Waterville Valley|43.950|-71.500|US|New Hampshire|54
+Watzerath|50.183|6.367|DE|Rheinland-Pfalz|53
+Wat Chaiwatthanaram|14.343|100.542|TH|Phra Nakhon Si Ayutthaya|49|f
+Wat Phra Si Sanphet|14.356|100.558|TH|Phra Nakhon Si Ayutthaya|49|f
+Wat Ratchaburana|14.359|100.568|TH|Phra Nakhon Si Ayutthaya|49|f
+Watamu Marine National Park|-3.387|39.991|KE|Kilifi County|49|f
+Waterdown Dam|-32.300|26.867|ZA|Eastern Cape|49|f
+Waterfall Bay|-5.530|151.690|PG|East New Britain Province|49|f
+Waterhouse Island|-40.800|147.629|AU|Tasmania|49|f
+Waterland|52.450|4.950|NL|North Holland|49|f
+Waterloo Lake|-32.498|143.351|AU|New South Wales|49|f
+Watford Island|32.306|-64.856|BM|Sandys|49|f
+Watheroo National Park|-30.167|115.838|AU|Western Australia|49|f
+Watling Island|32.285|-64.808|BM|Warwick|49|f
+Watson Peaks|-73.750|-62.600|AQ||49|f
+Watson Ridge|-67.000|55.750|AQ||49|f
+Watt, Mount|-72.467|166.150|AQ||49|f
+Wattle Park|-31.063|150.907|AU|New South Wales|49|f
+Watts Needle|-80.730|-24.986|AQ||49|f
+Wat Chedi Luang|18.787|98.987|TH|Chiang Mai|40|f
+Wat Phra That Doi Suthep|18.806|98.922|TH|Chiang Mai|40|f
+Wat Si Muang|17.958|102.617|LA|Vientiane Prefecture|40|f
+Wat Srinagarindravararam|47.358|7.991|CH|Solothurn|40|f
+Wat Yai Chai Mongkhon|14.346|100.592|TH|Phra Nakhon Si Ayutthaya|40|f
+Watauga Dam|36.323|-82.122|US|Tennessee|40|f
+Watch Hill|41.678|-69.947|US|Massachusetts|40|f
+Watchman Island|-36.834|174.731|NZ||40|f
+Watchman Peak|52.042|-117.236|CA|British Columbia|40|f
+Watchtower Peak|50.083|-126.220|CA|British Columbia|40|f
+Watchung Reservation|40.701|-74.362|US|New Jersey|40|f
+WATD-FM (Marshfield)|42.111|-70.703|US|Massachusetts|40|f
+WATE-TV (Knoxville)|36.004|-83.943|US|Tennessee|40|f
+Water Avenue Historic District|32.408|-87.014|US|Alabama|40|f
+Water Country USA|37.263|-76.638|US|Virginia|40|f
+Water Polo Arena|51.541|-0.012|GB|England|40|f
+Watercress Darter National Wildlife Refuge|33.375|-86.962|US|Alabama|40|f
+Waterdog Lake|44.072|-114.558|US|Idaho|40|f
+Waterfall Bay|-54.675|158.877|AU|Tasmania|40|f
+Waterford Hill|42.711|-83.411|US|Michigan|40|f
+Waterford Lake|46.239|-60.124|CA|Nova Scotia|40|f
+Waterhen Lake|48.213|-79.559|CA|Ontario|40|f
+Waterhen Lake|52.103|-99.559|CA|Manitoba|40|f
+Waterloo Farm Museum|42.380|-84.180|US|Michigan|40|f
+Waterloo Mine|46.507|-110.662|US|Montana|40|f
+Waterloo State Recreation Area (Jackson County)|42.361|-84.191|US|Michigan|40|f
+Waterman Covered Bridge|44.609|-72.684|US|Vermont|40|f
+Waterman Mountains|32.360|-111.477|US|Arizona|40|f
+Waterman Reservoir|41.877|-71.584|US|Rhode Island|40|f
+Watershed Park|47.031|-122.885|US|Washington|40|f
+Waterside Street Bridge|34.781|-92.240|US|Arkansas|40|f
+Waterville Airport|47.655|-120.062|US|Washington|40|f
+Watkin's Tower|51.556|-0.279|GB|England|40|f
+Watkins Glacier|41.399|-122.177|US|California|40|f
+Watkins Glen State Park|42.369|-76.901|US|New York|40|f
+Watkins Lake|59.315|-100.617|CA|Manitoba|40|f
+WATL-TV (Atlanta)|33.808|-84.340|US|Georgia|40|f
+Watoga State Park|38.104|-80.150|US|West Virginia|40|f
+WATR-AM (Waterbury)|41.537|-73.031|US|Connecticut|40|f
+Watrous Hill|42.308|-75.731|US|New York|40|f
+Watsessing Park|40.787|-74.202|US|New Jersey|40|f
+Watson Hill|41.953|-70.663|US|Massachusetts|40|f
+Watson Island|50.933|-126.820|CA|British Columbia|40|f
+Watson Lake|45.046|-63.052|CA|Nova Scotia|40|f
+Watson Lake|34.589|-112.418|US|Arizona|40|f
+Watson Peak|34.153|-112.320|US|Arizona|40|f
+Watson Pond State Park|41.950|-71.114|US|Massachusetts|40|f
+Watt Ridge|-84.750|-173.783|AQ||40|f
+Wätterlatte|46.608|7.743|CH|Bern|40|f
+Watts Bar Dam|35.621|-84.782|US|Tennessee|40|f
+Watts Towers|33.939|-118.241|US|California|40|f
 Wat Bot|16.981|100.332|TH|Phitsanulok|0
 Wat Phleng|13.454|99.886|TH|Ratchaburi|0
 Wat Sing|15.260|100.040|TH|Chai Nat|0
+Watangan|-7.015|112.484|ID|East Java|0
 Watansoppeng|-4.352|119.884|ID|South Sulawesi|0
+Watatuku|-8.212|124.560|ID|East Nusa Tenggara|0
+Wate|-8.499|120.960|ID|East Nusa Tenggara|0
 Wates|-7.857|110.157|ID|Yogyakarta|0
+Wates|-8.133|111.954|ID|East Java|0
+Wates|-8.041|112.768|ID|East Java|0
 Wates|-8.254|112.376|ID|East Java|0
+Wates|-8.163|111.677|ID|East Java|0
+Watodei|-8.338|123.098|ID|East Nusa Tenggara|0
+Watomean|-8.254|123.477|ID|East Nusa Tenggara|0
+Watoona|-8.479|123.090|ID|East Nusa Tenggara|0
+Watoone|-8.302|123.263|ID|East Nusa Tenggara|0
+Watotenga|-8.287|122.947|ID|East Nusa Tenggara|0
+Watowiti|-8.276|123.001|ID|East Nusa Tenggara|0
 Watthana Nakhon|13.743|102.318|TH|Sa Kaeo|0
+Watuagung|-7.594|109.115|ID|Central Java|0
+Watuagung|-8.252|111.517|ID|East Java|0
+Watuagung|-8.197|111.716|ID|East Java|0
+Watuapi|-8.612|121.420|ID|East Nusa Tenggara|0
+Watublapi|-8.701|122.313|ID|East Nusa Tenggara|0
+Watubuku|-8.605|122.743|ID|East Nusa Tenggara|0
+Watubura|-8.718|122.135|ID|East Nusa Tenggara|0
+Watudakon|-8.045|112.628|ID|East Java|0
+Watugase|-8.731|121.186|ID|East Nusa Tenggara|0
 Watugolok|-8.438|123.473|ID|East Nusa Tenggara|0
+Watuguling|-6.919|112.453|ID|East Java|0
+Watuka|-8.755|120.711|ID|East Nusa Tenggara|0
+Watulabara|-9.530|119.267|ID|East Nusa Tenggara|0
+Watulimo|-8.221|111.716|ID|East Java|0
+Watuliwung|-8.658|122.254|ID|East Nusa Tenggara|0
 Watulumbung|-7.005|111.512|ID|Central Java|0
+Watunggong|-8.542|120.673|ID|East Nusa Tenggara|0
+Waturoka|-8.871|121.085|ID|East Nusa Tenggara|0
+Watuwawer|-8.507|123.542|ID|East Nusa Tenggara|0
+Watuweri|-8.784|120.471|ID|East Nusa Tenggara|0

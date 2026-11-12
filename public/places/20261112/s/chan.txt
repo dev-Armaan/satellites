@@ -22,6 +22,7 @@ Changji|44.008|87.305|CN|Xinjiang|106
 Changyuan|29.405|105.588|CN|Chongqing|105
 Chandannagar|22.862|88.368|IN|West Bengal|105
 Chanduasi|28.452|78.783|IN|Uttar Pradesh|101
+Channel Islands|49.347|-2.362|||101|f
 Chanthaburi|12.610|102.104|TH|Chanthaburi|100
 Changping|40.216|116.235|CN|Beijing|99
 Changqing|36.557|116.727|CN|Shandong|98
@@ -40,6 +41,7 @@ Chaniá|35.511|24.029|GR|Crete|95
 Changanācheri|9.442|76.536|IN|Kerala|94
 Changdian|34.776|116.583|CN|Jiangsu|94
 Changsha|31.000|108.305|CN|Chongqing|93
+Chania International Airport|35.532|24.150|GR|Crete|93|f
 Channarāyapatna|12.906|76.388|IN|Karnataka|92
 Changyŏn|38.251|125.096|KP|South Hwanghae|92
 Channelview|29.776|-95.115|US|Texas|92
@@ -49,6 +51,7 @@ Changling|30.768|108.484|CN|Chongqing|91
 Chand Chaur|25.728|85.786|IN|Bihar|90
 Chanderi|24.713|78.138|IN|Madhya Pradesh|90
 Chanika|-5.417|38.017|TZ|Tanga|90
+Changchun Longjia International Airport|43.996|125.685|CN|Jilin|89|f
 Chandrapura|23.749|86.120|IN|Jharkhand|89
 Chanpatia|26.944|84.538|IN|Bihar|89
 Chancay|-11.571|-77.267|PE|Lima region|89
@@ -87,8 +90,10 @@ Chandwā|23.676|84.740|IN|Jharkhand|82
 Chang’an|30.831|109.558|CN|Chongqing|82
 Chandūr|17.875|78.100|IN|Telangana|81
 Chantilly|49.195|2.471|FR|Hauts-de-France|81
+Changbaek-sanjulgi|41.745|127.966|CN||81|f
 Chandūr|16.981|79.059|IN|Telangana|81
 Chāndarun|26.927|74.336|IN|Rajasthan|81
+Changhai Airport|39.267|122.667|CN|Liaoning|80|f
 Changchuan|34.715|103.430|CN|Gansu|80
 Chāndbāli|20.775|86.741|IN|Odisha|80
 Chanteloup-les-Vignes|48.976|2.033|FR|Île-de-France|80
@@ -105,12 +110,17 @@ Chandrapada|19.362|72.882|IN|Maharashtra|78
 Changsheng|29.355|108.324|CN|Chongqing|78
 Changlingpi|22.601|114.007|CN|Guangdong|78
 Chandrapur|21.708|83.235|IN|Chhattisgarh|78
+Changzhi Wangcun Airport|36.248|113.126|CN|Shanxi|78|f
 Chantepie|48.088|-1.617|FR|Brittany|78
 Chantongia|26.546|94.686|IN|Nagaland|78
+Chan Chan|-8.108|-79.075|PE|La Libertad|77|f
+Chandigarh International Airport|30.674|76.788|IN|Chandigarh|77|f
 Chanal|16.657|-92.257|MX|Chiapas|77
 Chandan Hola|28.469|77.183|IN|Delhi|77
 Chanāri|24.916|83.797|IN|Bihar|76
+Chanute Martin Johnson Airport|37.668|-95.487|US|Kansas|76|f
 Changlang|27.132|95.735|IN|Arunachal Pradesh|76
+Chan Gurney Municipal Airport|42.916|-97.386|US|South Dakota|75|f
 Chandra|-12.195|44.465|KM|Anjouan|75
 Chañar Ladeado|-33.325|-62.037|AR|Santa Fe|75
 Chandigarh|23.502|91.337|IN|Tripura|75
@@ -129,18 +139,25 @@ Chaniers|45.718|-0.558|FR|New Aquitaine|71
 Chandler|38.042|-87.368|US|Indiana|71
 Chandrai|25.428|72.940|IN|Rajasthan|70
 Chandler|35.702|-96.881|US|Oklahoma|70
+Changsha Huanghua International Airport|28.189|113.220|CN|Hunan|70|f
 Changqiao|26.821|118.844|CN|Fujian|70
 Chantraine|48.172|6.435|FR|Grand Est|70
 Channel Islands Beach|34.158|-119.223|US|California|70
 Changata|18.273|-100.585|MX|Guerrero|70
 Chandler|32.308|-95.480|US|Texas|69
 Chanceaux-sur-Choisille|47.471|0.705|FR|Centre-Val de Loire|69
+Changzhou Benniu Airport|31.920|119.779|CN|Jiangsu|69|f
 Changtun|39.443|117.071|CN|Tianjin|68
 Changar Talai|31.453|76.523|IN|Himachal Pradesh|68
+Chandalar Lake|67.485|-148.615|US|Alaska|67|f
+Chandeleur Islands|29.836|-88.834|US|Louisiana|67|f
 Chan Cenote|20.992|-87.785|MX|Yucatán|67
 Chanas|45.319|4.818|FR|Auvergne-Rhône-Alpes|66
 Chañar Punco|-26.725|-66.072|AR|Catamarca|66
 Chanteloup-en-Brie|48.855|2.739|FR|Île-de-France|66
+Chance Rock|-64.000|-61.216|AQ||65|f
+Changchun Ci|24.161|121.602|TW|Taiwan|65|f
+Changshou Hu|29.938|107.284|CN|Chongqing|65|f
 Changi Village|1.390|103.987|SG||65
 Chantal|18.202|-73.890|HT|Sud|65
 Changchi|32.164|106.658|CN|Sichuan|65
@@ -150,6 +167,9 @@ Chancy|46.150|5.972|CH|Geneva|64
 Changsha|28.688|105.990|CN|Guizhou|64
 Chandul|22.669|88.107|IN|West Bengal|64
 Chanonat|45.693|3.094|FR|Auvergne-Rhône-Alpes|63
+Chan Chan Airport|-39.866|-72.131|CL|Los Ríos Region|63|f
+Chandrapur Airport|19.994|79.223|IN|Maharashtra|63|f
+Changabang|30.483|80.017|IN|Uttarakhand|63|f
 Changy-les-Bois|47.858|2.685|FR|Centre-Val de Loire|63
 Chandon|46.149|4.214|FR|Auvergne-Rhône-Alpes|63
 Chantôme|46.411|1.556|FR|Centre-Val de Loire|63
@@ -160,40 +180,262 @@ Changra|0.350|6.687|ST|São Tomé Island|62
 Chanac|44.466|3.343|FR|Occitanie|62
 Chantenay-Saint-Imbert|46.733|3.183|FR|Bourgogne-Franche-Comté|62
 Chancenay|48.670|4.987|FR|Grand Est|61
+Chañaral Airport|-26.333|-70.607|CL|Atacama|61|f
+Chandeleur Sound|29.859|-89.026|US|Louisiana|61|f
+Chandler Field|45.866|-95.395|US|Minnesota|61|f
+Chandler Island|-77.350|-153.167|AQ||61|f
+Chang-san|37.126|128.859|KR|Gangwon-do|61|f
+Changxing Dao|39.583|121.417|CN|Liaoning|61|f
+Changzhug Si|29.200|91.700|CN|Tibet|61|f
 Chantelle|46.238|3.153|FR|Auvergne-Rhône-Alpes|60
 Changis-sur-Marne|48.958|3.022|FR|Île-de-France|60
 Chanos-Curson|45.061|4.924|FR|Auvergne-Rhône-Alpes|60
+Chanzeaux|47.263|-0.643|FR|Pays de la Loire|60
+Chançay|47.454|0.874|FR|Centre-Val de Loire|60
+Chanteloup|46.766|-0.524|FR|New Aquitaine|59
+Chanat-la-Mouteyre|45.831|3.015|FR|Auvergne-Rhône-Alpes|59
+Chantemerle-les-Blés|45.116|4.896|FR|Auvergne-Rhône-Alpes|59
+Chaniotis|39.999|23.580|GR|Central Macedonia|59
+Chang’anying|26.264|110.089|CN|Hunan|59
+Chanchen Primero|20.401|-87.968|MX|Quintana Roo|59
+Chan Chen|18.433|-88.417|BZ|Corozal District|59
+Chandler Bay|44.562|-67.543|US|Maine|58|f
+Chandler Municipal Airport|35.724|-96.820|US|Oklahoma|58|f
+Chandranāth Temple|22.634|91.684|BD|Chittagong|58|f
+Changchun Si|39.892|116.358|CN|Beijing|58|f
+Changdeokgung|37.579|126.991|KR|Seoul|58|f
+Changshou Chang Jiang Daqiao|29.816|107.056|CN|Chongqing|58|f
+Changuinola/Captain Manuel Nino Airport|9.456|-82.517|PA|Bocas del Toro Province|58|f
+Channel Glacier|-64.792|-63.298|AQ||58|f
+Channel Rock (Argentine Islands)|-65.244|-64.259|AQ||58|f
+Chanticleer Island|-63.726|-61.791|AQ||58|f
+Chantenay-Villedieu|47.921|-0.161|FR|Pays de la Loire|58
+Chantasco|21.170|-98.749|MX|Hidalgo|57
 Chañe|41.338|-4.428|ES|Castille and León|57
+Chanovice|49.405|13.717|CZ|Plzeň Region|57
+Chanteloup-les-Bois|47.095|-0.685|FR|Pays de la Loire|56
+Chanay|46.005|5.785|FR|Auvergne-Rhône-Alpes|56
+Channay-sur-Lathan|47.479|0.264|FR|Centre-Val de Loire|56
+Chantrigné|48.415|-0.569|FR|Pays de la Loire|56
+Chaneins|46.097|4.853|FR|Auvergne-Rhône-Alpes|56
+Chanavayita|-20.705|-70.189|CL|Tarapacá|56
+Changy|46.142|3.891|FR|Auvergne-Rhône-Alpes|55
+Chan Pine Ridge|18.037|-88.583|BZ|Orange Walk District|55
+Chan X-Cail|20.357|-88.141|MX|Yucatán|55
+Chaniro (Xhaniro)|19.706|-102.436|MX|Michoacán|55
+Chan Santa Cruz|19.368|-88.332|MX|Quintana Roo|55
+Chanly|50.080|5.153|BE|Wallonia|55
+Chandpura|23.853|77.297|IN|Madhya Pradesh|55
+Chandai|48.753|0.740|FR|Normandy|55
+Chanoz-Châtenay|46.185|5.032|FR|Auvergne-Rhône-Alpes|55
+Chan Laguna|18.481|-90.209|MX|Campeche|55
+Chandlerville|40.048|-90.155|US|Illinois|54
+Chânes|46.251|4.756|FR|Bourgogne-Franche-Comté|54
+Chanteix|45.310|1.637|FR|New Aquitaine|54
+Chandalar Lake Airport|67.503|-148.491|US|Alaska|54|f
+Chandler Municipal Airport|33.269|-111.812|US|Arizona|54|f
+Chandranāth|22.633|91.684|BD|Chittagong|54|f
+Chang Zhou|23.081|113.420|CN|Guangdong|54|f
+Changbaishan Airport|42.065|127.605|CN|Jilin|54|f
+Changde Airport|28.919|111.640|CN|Hunan|54|f
+Channel Islands National Park|33.999|-119.858|US|California|54|f
+Chanticleer Point|45.538|-122.266|US|Oregon|54|f
+Chanaz|45.808|5.794|FR|Auvergne-Rhône-Alpes|54
+Chana|16.885|-92.478|MX|Chiapas|54
+Chanac-les-Mines|45.264|1.820|FR|New Aquitaine|54
+Chantignan|45.749|7.411|IT|Aosta Valley|54
+Chandiablo|19.199|-104.339|MX|Colima|54
 Channing|35.684|-102.330|US|Texas|51
+Chancellor Lakes|-78.217|163.300|AQ||49|f
+Chancellor Ridge|-78.200|163.200|AQ||49|f
+Chances Peak|16.709|-62.176|MS|Saint Anthony|49|f
+Chandler, Mount|-75.286|-72.536|AQ||49|f
+Changi Beach Park|1.390|103.994|SG||49|f
+Changi Creek Reservoir|1.386|103.996|SG||49|f
+Changing Lake|-60.708|-45.619|AQ||49|f
+Channar Mine|-23.306|117.784|AU|Western Australia|49|f
+Channel Island|-12.553|130.867|AU|Northern Territory|49|f
+Chanute Peak|-63.918|-59.878|AQ||49|f
 Changuillo|-14.664|-75.223|PE|Ica|48
+Chance Cove Provincial Park|46.776|-53.029|CA|Newfoundland and Labrador|40|f
+Chancellor Peak|51.224|-116.510|CA|British Columbia|40|f
+Chandelle Estates Airport|39.205|-75.482|US|Delaware|40|f
+Chandos Lake|44.825|-77.979|CA|Ontario|40|f
+Chandubi Lake|25.880|91.420|IN|Assam|40|f
+Chaney Glacier|48.852|-113.830|US|Montana|40|f
+Chang Peak|-77.067|-126.633|AQ||40|f
+Change Islands|49.667|-54.398|CA|Newfoundland and Labrador|40|f
+Changlimithang Stadium|27.471|89.639|BT|Thimphu District|40|f
+Changtse|28.025|86.915|CN|Tibet|40|f
+Channahon Parkway State Park|41.424|-88.228|US|Illinois|40|f
+Channel Islands|32.817|-118.451|US|California|40|f
+Chantier Médiéval de Guédelon|47.583|3.156|FR|Bourgogne-Franche-Comté|40|f
+Chantry Island|44.483|-81.400|CA|Ontario|40|f
 Chana|6.915|100.740|TH|Songkhla|0
 Chaná|-9.403|-77.011|PE|Ancash|0
 Chanae|6.099|101.694|TH|Narathiwat|0
 Chañaral|-26.343|-70.616|CL|Atacama|0
+Chanba|33.583|105.758|CN|Gansu|0
 Chancay|-7.388|-78.124|PE|Cajamarca Department|0
 Chandal Bā’ī|34.585|68.955|AF|Kabul|0
+Chande|38.646|114.585|CN|Hebei|0
 Chandel|24.330|94.004|IN|Manipur|0
 Chandmanĭ|48.050|96.250|MN|Dzabkhan|0
 Chandmanĭ|45.533|110.467|MN|East Gobi Aymag|0
 Chang Klang|8.371|99.562|TH|Nakhon Si Thammarat|0
+Chang’an|30.152|118.519|CN|Anhui|0
 Chang’an|34.151|108.945|CN|Shaanxi|0
 Chang’an|29.481|113.440|CN|Hunan|0
+Chang’an|30.456|120.444|CN|Zhejiang|0
+Chang’an|23.882|111.894|CN|Guangdong|0
 Chang’an|22.806|113.803|CN|Guangdong|0
+Chang’an|45.764|127.838|CN|Heilongjiang|0
 Chang’an|38.053|114.526|CN|Hebei|0
 Changaimina|-4.222|-79.524|EC|Loja|0
+Changbao|28.190|108.278|CN|Guizhou|0
+Changbao|45.035|127.209|CN|Heilongjiang|0
+Changbu|28.795|115.624|CN|Jiangxi|0
+Changbu|23.793|115.437|CN|Guangdong|0
+Changchun|26.729|120.040|CN|Fujian|0
+Changchun|47.732|125.659|CN|Heilongjiang|0
+Changcun|33.533|113.122|CN|Henan|0
+Changdai|32.036|120.217|CN|Jiangsu|0
+Changde|46.142|125.016|CN|Heilongjiang|0
+Changfa|46.733|130.468|CN|Heilongjiang|0
+Changfa|47.528|126.934|CN|Heilongjiang|0
+Changfeng|34.735|107.969|CN|Shaanxi|0
+Changfeng|28.422|108.083|CN|Guizhou|0
+Changfeng|18.804|110.309|CN|Hainan|0
+Changfeng|30.607|114.207|CN|Hubei|0
+Changfu|27.920|115.306|CN|Jiangxi|0
+Changfu|49.152|125.295|CN|Heilongjiang|0
+Changgai|29.659|118.525|CN|Anhui|0
+Changgang|31.551|112.974|CN|Hubei|0
+Changgang|26.366|115.366|CN|Jiangxi|0
+Changgang|23.277|111.579|CN|Guangdong|0
+Changgang|46.345|126.433|CN|Heilongjiang|0
 Changge|34.224|113.770|CN|Henan|0
+Changgou|39.574|115.896|CN|Beijing|0
+Changgouhe|33.257|106.631|CN|Shaanxi|0
+Changgucheng|38.704|114.964|CN|Hebei|0
 Changhan|16.139|103.604|TH|Roi Et|0
+Changhan Mutai|41.261|111.338|CN|Inner Mongolia|0
+Changhao|18.738|109.478|CN|Hainan|0
+Changhe|30.220|121.183|CN|Zhejiang|0
+Changhe|30.173|120.187|CN|Zhejiang|0
 Changhongjie|39.137|117.147|CN|Tianjin|0
+Changhua|30.168|119.218|CN|Zhejiang|0
+Changhua|19.331|108.676|CN|Hainan|0
+Changjiang|32.104|120.558|CN|Jiangsu|0
+Changjiang|25.327|113.927|CN|Guangdong|0
+Changjiang|46.301|126.522|CN|Heilongjiang|0
+Changjiangbu|30.861|113.726|CN|Hubei|0
+Changjianglu|31.565|120.342|CN|Jiangsu|0
 Changjianglu Jiedao|35.966|120.173|CN|Shandong|0
+Changjie|29.250|121.705|CN|Zhejiang|0
+Changjing|31.755|120.478|CN|Jiangsu|0
+Changjun|28.866|115.714|CN|Jiangxi|0
+Changkeng|25.196|117.867|CN|Fujian|0
+Changkou|29.913|119.877|CN|Zhejiang|0
+Changlai|25.086|113.394|CN|Guangdong|0
+Changle|31.934|121.248|CN|Jiangsu|0
+Changle|29.456|120.610|CN|Zhejiang|0
+Changle|24.295|116.937|CN|Fujian|0
+Changleping|30.175|110.868|CN|Hubei|0
+Changliang|30.702|109.777|CN|Hubei|0
+Changlin|33.143|106.905|CN|Shaanxi|0
+Changling|31.518|113.582|CN|Hubei|0
+Changling|25.246|115.801|CN|Jiangxi|0
+Changling|40.295|116.248|CN|Beijing|0
+Changling|46.047|126.640|CN|Heilongjiang|0
+Changlinggang|29.233|111.693|CN|Hunan|0
+Changliu|20.013|110.201|CN|Hainan|0
+Changlong|26.319|119.569|CN|Fujian|0
+Changlu|32.262|118.787|CN|Jiangsu|0
+Changluo|25.804|115.182|CN|Jiangxi|0
+Changma|39.867|96.767|CN|Gansu|0
+Changmahe|34.486|99.182|CN|Qinghai|0
+Changmao|34.217|119.575|CN|Jiangsu|0
+Changmaoling|28.786|111.603|CN|Hunan|0
+Changmu|35.806|101.606|CN|Qinghai|0
 Changning|35.980|110.822|CN|Shanxi|0
+Changning|37.653|112.847|CN|Shanxi|0
+Changning|34.831|108.250|CN|Shaanxi|0
 Changning|24.955|115.645|CN|Jiangxi|0
+Changning|23.224|114.038|CN|Guangdong|0
+Changning|34.302|108.291|CN|Shaanxi|0
+Changning|36.829|101.740|CN|Qinghai|0
+Changping|28.099|109.275|CN|Guizhou|0
+Changping|31.791|111.554|CN|Hubei|0
+Changping|22.977|113.990|CN|Guangdong|0
+Changping|35.241|112.927|CN|Henan|0
+Changping|28.208|103.855|CN|Yunnan|0
+Changpo|22.064|111.017|CN|Guangdong|0
+Changpo|19.343|110.608|CN|Hainan|0
 Changpu|26.576|110.108|CN|Hunan|0
+Changpu|24.742|115.523|CN|Jiangxi|0
 Changpyeong|35.239|127.018|KR|Jeollanam-do|0
+Changqi|28.620|106.068|CN|Guizhou|0
+Changqi|21.534|110.723|CN|Guangdong|0
+Changqiao|26.830|116.409|CN|Jiangxi|0
+Changqiao|31.538|119.080|CN|Jiangsu|0
+Changqiao|33.937|113.348|CN|Henan|0
+Changqiao|30.760|118.405|CN|Anhui|0
+Changqiao|31.142|121.434|CN|Shanghai|0
+Changqing|32.258|120.454|CN|Jiangsu|0
+Changqing|25.884|118.580|CN|Fujian|0
+Changqing|30.614|114.117|CN|Hubei|0
+Changqing|47.219|123.602|CN|Heilongjiang|0
+Changqing|46.802|130.290|CN|Heilongjiang|0
+Changrong|32.944|120.081|CN|Jiangsu|0
+Changsa|19.763|110.898|CN|Hainan|0
+Changsha|32.410|121.288|CN|Jiangsu|0
+Changsha|24.216|116.121|CN|Guangdong|0
+Changsha|25.475|115.523|CN|Jiangxi|0
+Changshan|21.796|110.005|CN|Guangdong|0
+Changshan|29.021|119.548|CN|Zhejiang|0
+Changshan|47.767|123.542|CN|Heilongjiang|0
+Changshan|47.217|127.385|CN|Heilongjiang|0
+Changshanyan|28.241|116.223|CN|Jiangxi|0
+Changshanzi|44.089|87.612|CN|Xinjiang|0
+Changshaoying|40.794|116.742|CN|Beijing|0
+Changsheng|26.285|116.013|CN|Jiangxi|0
+Changsheng|46.565|126.267|CN|Heilongjiang|0
+Changsheng|47.829|126.405|CN|Heilongjiang|0
+Changsheng|49.408|129.514|CN|Heilongjiang|0
+Changshengqiao|29.509|106.661|CN|Chongqing|0
+Changshou|31.417|112.613|CN|Hubei|0
+Changshou|45.270|127.933|CN|Heilongjiang|0
 Changshun|41.891|113.992|CN|Inner Mongolia|0
+Changtai|25.498|118.932|CN|Fujian|0
+Changtan|31.002|112.733|CN|Hubei|0
+Changtan|24.677|116.153|CN|Guangdong|0
+Changtan|28.816|109.310|CN|Hunan|0
+Changtang|28.357|111.773|CN|Hunan|0
+Changtang|27.192|114.968|CN|Jiangxi|0
+Changtang|29.955|120.792|CN|Zhejiang|0
+Changtang|24.558|115.146|CN|Guangdong|0
+Changtian|24.470|115.966|CN|Guangdong|0
+Changting|44.469|128.918|CN|Heilongjiang|0
+Changtu|30.254|122.303|CN|Zhejiang|0
+Changxi|29.913|118.644|CN|Anhui|0
+Changxing|34.271|107.836|CN|Shaanxi|0
+Changxing|43.181|128.938|CN|Jilin|0
+Changxing|23.178|113.347|CN|Guangdong|0
+Changxingbao|28.317|109.192|CN|Guizhou|0
+Changxingdian|41.450|121.725|CN|Liaoning|0
+Changxuanling|31.096|114.345|CN|Hubei|0
+Changyanbao|34.194|108.950|CN|Shaanxi|0
+Changyi|29.024|116.061|CN|Jiangxi|0
 Changyi|43.879|126.569|CN|Jilin|0
 Changyuan|35.200|114.676|CN|Henan|0
 Changyuan County|35.212|114.735|CN|Henan|0
+Changzhen|39.254|111.824|CN|Shanxi|0
+Changzheng|18.962|109.875|CN|Hainan|0
+Changzhou|23.082|113.422|CN|Guangdong|0
 Changzhou|23.485|111.274|CN|Guangxi|0
+Changzhoudao|39.147|117.233|CN|Tianjin|0
+Changzhug|29.193|91.772|CN|Tibet|0
 Chanhe|34.697|112.497|CN|Henan|0
 Chantaco|-3.879|-79.329|EC|Loja|0
 Chantrea|10.984|106.125|KH|Svay Rieng|0

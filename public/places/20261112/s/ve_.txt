@@ -1,11 +1,11 @@
 Venezuela|8.000|-66.000|VE||149|c
-Veneto|45.500|11.750|IT||132|r
+Veneto|45.500|11.750|IT||133|r
 Vestland|60.930|6.433|NO||115|r
 Vellore|12.918|79.133|IN|Tamil Nadu|114
 Vereeniging|-26.673|27.926|ZA|Gauteng|114
 Venustiano Carranza|19.444|-99.105|MX|Mexico City|113
 Veracruz|19.181|-96.143|MX|Veracruz|113
-Vermont|44.000|-72.750|US||110|r
+Vermont|44.000|-72.750|US||111|r
 Verona|45.439|10.994|IT|Veneto|108
 Velikiy Novgorod|58.521|31.271|RU|Novgorod Oblast|107
 Vestfold|59.265|10.416|NO||107|r
@@ -16,10 +16,10 @@ Vespasiano|-19.692|-43.923|BR|Minas Gerais|103
 Veshnyaki|55.724|37.820|RU|Moscow|102
 Vejalpur|22.690|73.563|IN|Gujarat|102
 Vedado|23.138|-82.393|CU|Havana|101
+Veraguas Province|8.250|-81.133|PA||100|r
 Velikiye Luki|56.341|30.544|RU|Pskov Oblast|100
 Venlo|51.370|6.168|NL|Limburg|100
 Ventura|34.278|-119.293|US|California|100
-Veraguas Province|8.250|-81.133|PA||100|r
 Velbert|51.335|7.043|DE|North Rhine-Westphalia|99
 Velampālaiyam|11.138|77.311|IN|Tamil Nadu|99
 Versailles|48.804|2.134|FR|Île-de-France|99
@@ -53,6 +53,7 @@ Vellakkovil|10.946|77.712|IN|Tamil Nadu|92
 Vernon|50.267|-119.273|CA|British Columbia|92
 Venray|51.525|5.975|NL|Limburg|92
 Vetapālem|15.785|80.307|IN|Andhra Pradesh|92
+Velana International Airport|4.192|73.529|MV|Kaafu Atoll|92|f
 Ventanas|-1.443|-79.463|EC|Los Ríos|92
 Vettūr|8.717|76.726|IN|Kerala|91
 Venganoor|8.396|77.003|IN|Kerala|91
@@ -65,6 +66,7 @@ Verkhniy Ufaley|56.055|60.226|RU|Chelyabinsk|90
 Ventspils|57.395|21.561|LV|Ventspils|90
 Vengola Kizhakkumbāgam|10.064|76.476|IN|Kerala|90
 Velikiy Ustyug|60.762|46.314|RU|Vologda Oblast|90
+Verrazano–Narrows Bridge|40.606|-74.044|US|New York|90|f
 Verbania|45.921|8.552|IT|Piedmont|90
 Vera Cruz|-12.633|-41.033|BR|Bahia|90
 Vernier|46.217|6.085|CH|Geneva|90
@@ -96,5 +98,3 @@ Vero Beach South|27.616|-80.413|US|Florida|87
 Vertou|47.169|-1.473|FR|Pays de la Loire|87
 Vellūr|8.626|76.831|IN|Kerala|87
 Vedder Crossing|49.100|-121.967|CA|British Columbia|87
-Vereshchagino|58.078|54.656|RU|Perm Krai|87
-Venice|27.100|-82.454|US|Florida|87

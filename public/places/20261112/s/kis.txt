@@ -24,6 +24,7 @@ Kiskunfélegyháza|46.712|19.845|HU|Bács-Kiskun|90
 Kisesa|-2.550|33.033|TZ|Mwanza|90
 Kisesa|-3.083|34.150|TZ|Simiyu|89
 Kiskunhalas|46.434|19.485|HU|Bács-Kiskun|89
+Kish Island|26.537|53.968|IR|Hormozgan|87|f
 Kisai|36.100|139.583|JP|Saitama|86
 Kishtwār|33.313|75.767|IN|Jammu and Kashmir|86
 Kisinga|0.077|29.868|UG|Western Region|85
@@ -31,6 +32,8 @@ Kisvárda|48.217|22.083|HU|Szabolcs-Szatmár-Bereg|85
 Kishaba|26.303|127.794|JP|Okinawa|85
 Kisoro|-1.285|29.685|UG|Western Region|85
 Kishapu|-3.617|33.867|TZ|Shinyanga|84
+Kissos|40.582|23.116|GR|Central Macedonia|84|f
+Kisumu International Airport|-0.086|34.729|KE|Kisumu County|84|f
 Kiskőrös|46.621|19.285|HU|Bács-Kiskun|84
 Kisújszállás|47.217|20.767|HU|Jász-Nagykun-Szolnok|82
 Kistarcsa|47.548|19.262|HU|Pest County|82
@@ -49,16 +52,20 @@ Kisra - Sume'a|32.973|35.299|IL|Northern District|79
 Kißlegg|47.789|9.884|DE|Baden-Wurttemberg|79
 Kiseljak|43.943|18.081|BA|Federation of B&H|79
 Kisolon|8.330|124.977|PH|Northern Mindanao|78
+Kiska Island|51.964|177.460|US|Alaska|78|f
 Kistelek|46.472|19.980|HU|Csongrád|77
 Kismatpur|17.334|78.392|IN|Telangana|77
 Kisiwani|-4.133|37.950|TZ|Kilimanjaro|77
+Kish|32.533|44.700|IQ|Babil|77|f
 Kishkenekol’|53.636|72.341|KZ|North Kazakhstan|77
 Kishanpur|25.642|81.023|IN|Uttar Pradesh|76
 Kisbér|47.503|18.037|HU|Komárom-Esztergom|75
+Kissimmee Gateway Airport|28.290|-81.437|US|Florida|75|f
 Kislyakovskaya|46.442|39.675|RU|Krasnodar Krai|75
 Kisante|6.923|125.155|PH|Soccsksargen|74
 Kishpek|43.655|43.641|RU|Kabardino-Balkariya Republic|73
 Kíssamos|35.495|23.654|GR|Crete|73
+Kisimul Castle|56.952|-7.487|GB|Scotland|72|f
 Kiszombor|46.183|20.433|HU|Csongrád|72
 Kishcha|42.177|47.581|RU|Dagestan|72
 Kisa|57.988|15.633|SE|Östergötland|72
@@ -71,6 +78,7 @@ Kisláng|46.957|18.388|HU|Fejér|68
 K. I. Sawyer Air Force Base|46.332|-87.366|US|Michigan|68
 Kist|49.743|9.844|DE|Bavaria|68
 Kistokaj|48.040|20.839|HU|Borsod-Abaúj-Zemplén|68
+Kish Island International Airport|26.530|53.973|IR|Hormozgan|67|f
 Kisielice|53.609|19.264|PL|Warmia-Masuria|67
 Kissonerga|34.823|32.401|CY|Pafos|66
 Kismat Rājāpur|23.252|89.247|BD|Khulna Division|66
@@ -79,14 +87,52 @@ Kisléta|47.842|22.004|HU|Szabolcs-Szatmár-Bereg|66
 Kismaros|47.837|19.005|HU|Pest County|66
 Kiszkowo|52.589|17.266|PL|Greater Poland|66
 Kissenbrück|52.110|10.590|DE|Lower Saxony|66
+Kiso Komaga-take|35.790|137.804|JP|Nagano|65|f
 Kisovec|46.139|14.963|SI|Municipality of Zagorje ob Savi|65
 Kışlak|35.968|36.157|TR|Hatay|65
 Kistanje|43.983|15.965|HR|Šibenik-Knin|64
 Kisgyőr|48.017|20.700|HU|Borsod-Abaúj-Zemplén|64
 Kisač|45.354|19.730|RS|Vojvodina|64
+Kisangani Bangoka International Airport|0.482|25.338|CD|Tshopo|63|f
 Kislingbury|52.230|-0.979|GB|England|62
+Kışlak|37.652|41.128|TR|Batman|61|f
 Kissee Mills|36.684|-93.050|US|Missouri|61
 Kissié Malékro|7.436|-4.643|CI|Lacs District|60
 Kishuara|-13.691|-73.118|PE|Apurímac Department|59
+Kismat Ināyetpur|23.243|89.207|BD|Khulna Division|58
+Kisimayu Airport|-0.377|42.459|SO|Lower Juba|58|f
+Kissa Island|-8.061|127.182|ID|Maluku|58|f
+Kisseraing Island|11.679|98.482|MM|Tanintharyi Region|58|f
+Kisfalud|47.528|17.091|HU|Győr-Moson-Sopron|58
+Kisankaha|9.441|-5.278|CI|Savanes District|56
+Kisselbach|50.050|7.617|DE|Rheinland-Pfalz|56
+Kissabo|7.592|-4.855|CI|Vallée du Bandama District|55
+Kışla|41.165|36.522|TR|Samsun|55
+Kisecik|37.389|33.012|TR|Karaman|55
+Kistler|37.756|-81.860|US|West Virginia|54
+Kis-Duna|47.935|17.979|SK||54|f
+Kisejärv|57.642|27.204|EE|Võrumaa|54|f
+Kiska Harbor|51.967|177.564|US|Alaska|54|f
+Kiska Volcano|52.102|177.603|US|Alaska|54|f
+Kisoro Airport|-1.283|29.718|UG|Western Region|54|f
+Kissimmee Prairie Preserve State Park|27.617|-81.083|US|Florida|54|f
+Kistefjellet|76.600|16.630|SJ|Svalbard|54|f
+Kistenuten|59.783|7.096|NO|Vestland|54|f
+Kışla|41.409|32.375|TR|Bartın|54
+Kisarazu Ab|35.398|139.910|JP|Chiba|49|f
+Kisii Airport|-0.667|34.783|KE|Kisii County|49|f
+Kisima Airport|0.950|36.754|KE|Samburu County|49|f
+Kissack/Reynolds Airport|42.489|-118.609|US|Oregon|49|f
+Kise Mill Bridge|40.116|-76.811|US|Pennsylvania|40|f
+Kishinena Peak|49.117|-114.152|CA|Alberta|40|f
+Kisimngiuqtuq Peak|70.798|-71.648|CA|Nunavut|40|f
+Kiskitto Lake|54.267|-98.501|CA|Manitoba|40|f
+Kiskittogisu Lake|54.264|-98.226|CA|Manitoba|40|f
+Kispiox Mountain|55.400|-127.937|CA|British Columbia|40|f
+Kispiox Range|55.333|-127.920|CA|British Columbia|40|f
+KISR-FM (Fort Smith)|35.523|-94.392|US|Arkansas|40|f
+Kissena Park|40.745|-73.804|US|New York|40|f
+Kississing Lake|55.170|-101.335|CA|Manitoba|40|f
+Kisanata|-8.790|120.970|ID|East Nusa Tenggara|0
 Kishk-e Nakhūd|31.625|65.055|AF|Kandahar|0
 Kışlaköy|40.324|42.022|TR|Erzurum|0

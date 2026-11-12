@@ -754,25 +754,61 @@ Milagres|39.790|-8.794|PT|Leiria|60
 São Luis|37.716|-8.665|PT|Beja|60
 Constância|39.478|-8.336|PT|Santarém|60
 Torremayor|38.901|-6.539|ES|Extremadura|60
+Monroy|39.637|-6.209|ES|Extremadura|60
 Montejaque|36.737|-5.250|ES|Andalusia|60
+Mombeja|38.024|-8.038|PT|Beja|60
+Santa Vitória|37.969|-8.027|PT|Beja|60
+Benquerencia de la Serena|38.700|-5.495|ES|Extremadura|60
+Arroyomolinos de Montánchez|39.186|-6.162|ES|Extremadura|60
+Odeceixe|37.433|-8.771|PT|Faro|60
+Vale do Paraíso|39.115|-8.886|PT|Lisbon|60
+La Nava de Santiago|39.063|-6.505|ES|Extremadura|60
 Llera|38.450|-6.050|ES|Extremadura|59
 Algatocín|36.574|-5.276|ES|Andalusia|59
 Puebla de la Reina|38.665|-6.102|ES|Extremadura|59
 Talaván|39.717|-6.281|ES|Extremadura|59
+Calvaria de Cima|39.644|-8.864|PT|Leiria|59
+Colmeias|39.801|-8.711|PT|Leiria|59
+Garcíaz|39.413|-5.628|ES|Extremadura|59
 Aldeacentenera|39.527|-5.629|ES|Extremadura|59
 Albalá|39.256|-6.185|ES|Extremadura|59
+Membrío|39.527|-7.054|ES|Extremadura|59
+Barão de São João|37.139|-8.778|PT|Faro|59
+Alburitel|39.649|-8.520|PT|Santarém|59
+Comenda|39.400|-7.781|PT|Portalegre|59
 Escurial|39.169|-5.885|ES|Extremadura|59
+Acehuche|39.803|-6.634|ES|Extremadura|59
 Torre Alháquime|36.916|-5.234|ES|Andalusia|59
 Cabezas Rubias|37.727|-7.087|ES|Andalusia|59
+Calzadilla de Los Barros|38.300|-6.317|ES|Extremadura|59
+Moitas Venda|39.493|-8.660|PT|Santarém|59
+La Cumbre|39.405|-5.976|ES|Extremadura|59
+Santa Clara de Louredo|37.971|-7.872|PT|Beja|59
+El Almendro|37.508|-7.270|ES|Andalusia|59
+Gáfete|39.411|-7.684|PT|Portalegre|59
+Corredoura|39.601|-8.832|PT|Leiria|59
+Nadrupe|39.238|-9.282|PT|Lisbon|59
+Azoia|39.714|-8.831|PT|Leiria|59
 Acedera|39.077|-5.574|ES|Extremadura|59
 Torrico|39.829|-5.226|ES|Castille-La Mancha|59
 Deleitosa|39.644|-5.646|ES|Extremadura|58
+Alguber|39.277|-9.022|PT|Lisbon|58
 Villanueva de los Castillejos|37.499|-7.291|ES|Andalusia|58
 Alcolea de Tajo|39.810|-5.147|ES|Castille-La Mancha|58
 Valencia del Mombuey|38.242|-7.120|ES|Extremadura|58
+Azenhas do Mar|38.841|-9.458|PT|Lisbon|58
+Carvide|39.863|-8.894|PT|Leiria|58
 Puebla del Maestre|38.083|-6.083|ES|Extremadura|58
+Salir do Porto|39.495|-9.156|PT|Leiria|58
 Salorino|39.480|-7.008|ES|Extremadura|58
+Carvoeiro|39.625|-7.923|PT|Santarém|58
 San Pedro de Mérida|38.950|-6.186|ES|Extremadura|58
+Coimbrão|39.898|-8.884|PT|Leiria|58
+El Garrobo|37.626|-6.172|ES|Andalusia|58
+Cortes|39.701|-8.786|PT|Leiria|58
+Matalascañas|36.998|-6.551|ES|Andalusia|58
+La Morera|38.546|-6.653|ES|Extremadura|58
+Chainça|39.667|-8.710|PT|Leiria|58
 Holguera|39.899|-6.350|ES|Extremadura|58
 Valverde de Llerena|38.217|-5.817|ES|Extremadura|58
 Alconera|38.400|-6.467|ES|Extremadura|58
@@ -782,44 +818,91 @@ Aldea del Cano|39.289|-6.318|ES|Extremadura|57
 Saucedilla|39.853|-5.678|ES|Extremadura|57
 Mirabel|39.862|-6.233|ES|Extremadura|57
 Aldeanueva de Barbarroya|39.759|-5.023|ES|Castille-La Mancha|57
+Fuente del Arco|38.150|-5.900|ES|Extremadura|57
 Navezuelas|39.509|-5.438|ES|Extremadura|57
 Palomas|38.693|-6.135|ES|Extremadura|57
+Carvoeira|39.716|-8.545|PT|Santarém|57
 Jubrique|36.565|-5.216|ES|Andalusia|57
+Lagoa do Furadouro|39.617|-8.551|PT|Santarém|57
 Benaocaz|36.701|-5.422|ES|Andalusia|57
 Malpartida de la Serena|38.675|-5.641|ES|Extremadura|57
+Moinhos|39.850|-8.908|PT|Leiria|57
 Garlitos|38.880|-5.048|ES|Extremadura|57
 Valdeverdeja|39.796|-5.245|ES|Castille-La Mancha|57
+Barreiros|39.786|-8.847|PT|Leiria|57
+Reixida|39.683|-8.779|PT|Leiria|57
 Valencia de las Torres|38.405|-6.004|ES|Extremadura|57
 Casas de Millán|39.818|-6.330|ES|Extremadura|57
+Pedrógão|39.522|-8.592|PT|Santarém|57
 Táliga|38.529|-7.017|ES|Extremadura|57
+Serra do Bouro|39.455|-9.178|PT|Leiria|57
+Blázquez|38.400|-5.433|ES|Andalusia|57
+Bairro|39.577|-8.592|PT|Santarém|57
 Nogales|38.586|-6.749|ES|Extremadura|57
+Moleanos|39.503|-8.778|PT|Leiria|57
 Magacela|38.896|-5.734|ES|Extremadura|57
 Torre de Santa María|39.254|-6.116|ES|Extremadura|56
+Porto Carro|39.644|-8.894|PT|Leiria|56
 Rena|39.053|-5.809|ES|Extremadura|56
 Castilleja del Campo|37.386|-6.334|ES|Andalusia|56
+Cavalinhos|39.710|-8.875|PT|Leiria|56
+Fontes|39.607|-8.231|PT|Santarém|56
+Caldelas|39.732|-8.703|PT|Leiria|56
 Don Álvaro|38.848|-6.275|ES|Extremadura|56
 San Silvestre de Guzmán|37.388|-7.349|ES|Andalusia|56
 Carmonita|39.155|-6.339|ES|Extremadura|56
 Jaraicejo|39.666|-5.813|ES|Extremadura|56
+Soutocico|39.700|-8.740|PT|Leiria|56
+Jardoeira|39.666|-8.832|PT|Leiria|56
+Cruz da Légua|39.601|-8.876|PT|Leiria|56
+El Granado|37.520|-7.416|ES|Andalusia|56
 Torrequemada|39.367|-6.221|ES|Extremadura|56
 Zarza de Montánchez|39.258|-6.032|ES|Extremadura|56
+Martinchel|39.536|-8.312|PT|Santarém|56
+Golpilheira|39.692|-8.820|PT|Leiria|56
+Mahroun|35.043|-5.234|MA|Tanger-Tetouan-Al Hoceima|56
+Mata|39.808|-8.769|PT|Leiria|56
+Belvis de Monroy|39.819|-5.609|ES|Extremadura|55
+Brancas de Cima|39.647|-8.818|PT|Leiria|55
+Valdesalor|39.378|-6.348|ES|Extremadura|55
+La Calzada de Oropesa|39.898|-5.278|ES|Castille-La Mancha|55
 Zibreira|39.483|-8.610|PT|Santarém|55
 Entrín Bajo|38.719|-6.713|ES|Extremadura|55
+Faro do Alentejo|38.149|-7.942|PT|Beja|55
+Pereiro da Palhacana|39.043|-9.111|PT|Lisbon|55
 Torrejón el Rubio|39.771|-6.013|ES|Extremadura|55
 Ibahernando|39.325|-5.918|ES|Extremadura|55
+Reguengo do Fetal|39.641|-8.764|PT|Leiria|55
+Sismaria|39.881|-8.865|PT|Leiria|55
+Lamarosa|39.522|-8.470|PT|Santarém|55
 Cedillo|39.651|-7.498|ES|Extremadura|55
+São Brissos|38.072|-7.947|PT|Beja|55
+Trigaches|38.091|-7.972|PT|Beja|55
+Faniqueira|39.676|-8.833|PT|Leiria|55
+São Matias|38.109|-7.856|PT|Beja|55
 Cristina|38.837|-6.099|ES|Extremadura|55
+São Jorge|39.635|-8.847|PT|Leiria|55
 Mohedas de la Jara|39.604|-5.142|ES|Castille-La Mancha|55
+Évora|39.516|-8.971|PT|Leiria|55
 Hinojosa del Valle|38.483|-6.183|ES|Extremadura|55
+Telheiro|39.711|-8.912|PT|Leiria|55
 Puebla del Prior|38.570|-6.196|ES|Extremadura|55
 Genalguacil|36.545|-5.236|ES|Andalusia|55
 Benarrabá|36.551|-5.276|ES|Andalusia|55
+Ulmeiro|39.674|-8.659|PT|Leiria|55
 Bohonal de Ibor|39.785|-5.485|ES|Extremadura|55
+Fontainhas|39.664|-8.513|PT|Santarém|55
 Plasenzuela|39.382|-6.048|ES|Extremadura|55
+Moinhos|39.751|-8.843|PT|Leiria|55
+Catalan Bay|36.140|-5.342|GI||54
 Herreruela de Oropesa|39.889|-5.243|ES|Castille-La Mancha|54
+Arrimal|39.492|-8.880|PT|Leiria|54
 Cabañas del Castillo|39.548|-5.512|ES|Extremadura|54
 Aldeanueva de San Bartolomé|39.636|-5.113|ES|Castille-La Mancha|54
 Abertura|39.244|-5.814|ES|Extremadura|54
+Évora Monte|38.765|-7.717|PT|Évora|54
+Famalicão|39.707|-8.775|PT|Leiria|54
+Berzocana|39.437|-5.461|ES|Extremadura|54
 Valdelacasa de Tajo|39.726|-5.283|ES|Extremadura|54
 Villaluenga del Rosario|36.696|-5.386|ES|Andalusia|54
 Casillas de Coria|39.965|-6.637|ES|Extremadura|54

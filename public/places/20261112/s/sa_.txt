@@ -7,22 +7,22 @@ Saint Petersburg|59.939|30.314|RU|St. Petersburg|135
 Santiago|-33.457|-70.648|CL|Santiago Metropolitan|134
 Saxony|51.000|13.250|DE||132|r
 Samara Oblast|53.275|50.467|RU||129|r
-Salvador|-12.976|-38.491|BR|Bahia|129
 Sassandra-Marahoue|6.966|-6.507|CI||129|r
+Salvador|-12.976|-38.491|BR|Bahia|129
+Saxony-Anhalt|52.000|11.733|DE||127|r
 Santa Cruz Department|-17.500|-61.500|BO||127|r
 Santo Domingo|18.472|-69.892|DO|Nacional|127
 Sarawak|2.500|113.500|MY||127|r
 Sabah|5.500|117.000|MY||127|r
-Saxony-Anhalt|52.000|11.733|DE||126|r
 Saratov Oblast|51.500|47.000|RU||126|r
+Savanes District|9.488|-5.494|CI||126|r
 Sapporo|43.067|141.350|JP|Hokkaido|126
 Sanaa|15.355|44.206|YE|Amanat Alasimah|126
-Savanes District|9.488|-5.494|CI||125|r
 Santa Cruz de la Sierra|-17.786|-63.181|BO|Santa Cruz Department|125
 Santander Department|6.833|-73.417|CO||125|r
 Santiago de Querétaro|20.588|-100.388|MX|Querétaro|124
-San Antonio|29.424|-98.494|US|Texas|124
 Sardinia|40.000|9.000|IT||124|r
+San Antonio|29.424|-98.494|US|Texas|124
 Santo Domingo Province|18.567|-69.849|DO||123|r
 San Salvador Department|13.783|-89.183|SV||123|r
 San Diego|32.716|-117.165|US|California|123
@@ -54,8 +54,8 @@ São José dos Campos|-23.179|-45.887|BR|São Paulo|117
 San Luis Potosí|22.152|-100.971|MX|San Luis Potosí|117
 Sagamihara|35.567|139.242|JP|Kanagawa|117
 Saltillo|25.426|-100.980|MX|Coahuila|117
-Santo Domingo Oeste|18.500|-70.000|DO|Santo Domingo Province|117
 Sakha|65.000|130.000|RU||117|r
+Santo Domingo Oeste|18.500|-70.000|DO|Santo Domingo Province|117
 Santo Domingo Este|18.485|-69.848|DO|Santo Domingo Province|117
 Sarajevo|43.849|18.356|BA|Federation of B&H|117
 Sanmenxia|34.781|111.193|CN|Henan|117
@@ -74,9 +74,9 @@ Sacramento|38.582|-121.494|US|California|114
 Salta|-24.806|-65.420|AR|Salta|114
 Santa Marta|11.239|-74.194|CO|Magdalena Department|114
 Sancaktepe|41.002|29.232|TR|Istanbul|114
+Sakhalin Oblast|50.192|142.992|RU||114|r
 Sahāranpur|29.968|77.545|IN|Uttar Pradesh|114
 Saint-Louis|16.333|-15.000|SN||114|r
-Sakhalin Oblast|50.192|142.992|RU||114|r
 São José do Rio Preto|-20.820|-49.379|BR|São Paulo|114
 São João de Meriti|-22.804|-43.372|BR|Rio de Janeiro|113
 Santo Domingo de los Colorados|-0.254|-79.176|EC|Santo Domingo de los Tsáchilas|113
@@ -84,6 +84,7 @@ Santo Domingo de los Tsáchilas|-0.289|-79.186|EC||113|r
 Şanlıurfa|37.167|38.794|TR|Şanlıurfa|113
 Saint Gallen|47.250|9.250|CH||113|r
 Sandakan|5.840|118.118|MY|Sabah|113
+Satu Mare County|47.750|23.000|RO||113|r
 Santos|-23.961|-46.334|BR|São Paulo|112
 San Juan|18.466|-66.106|PR|San Juan|112
 San Nicolás de los Garza|25.742|-100.302|MX|Nuevo León|112
@@ -94,7 +95,6 @@ Saurimo|-9.661|20.392|AO|Lunda Sul|112
 Santa Fe|-31.649|-60.709|AR|Santa Fe|112
 San-Pédro|4.749|-6.636|CI|Bas-Sassandra District|112
 Samut Prakan|13.598|100.597|TH|Samut Prakan|112
-Satu Mare County|47.750|23.000|RO||112|r
 Savar|23.849|90.250|BD|Dhaka Division|112
 Samba|-8.880|13.196|AO|Luanda|111
 Santarém|-2.443|-54.708|BR|Pará|111

@@ -18,6 +18,7 @@ Pādiyanallūr|13.200|80.176|IN|Tamil Nadu|88
 Padmanābhapuram|8.245|77.326|IN|Tamil Nadu|87
 Pad Idan|26.775|68.301|PK|Sindh|86
 Padua|5.134|-75.140|CO|Tolima Department|86
+Padre Island|26.845|-97.368|US|Texas|86|f
 Padampur|29.709|73.625|IN|Rajasthan|85
 Padmapur|21.000|83.067|IN|Odisha|85
 Pādegān-e Manjīl|36.742|49.416|IR|Gilan Province|85
@@ -69,6 +70,7 @@ Padre Burgos|13.923|121.812|PH|Calabarzon|70
 Padapada|15.552|120.516|PH|Central Luzon|70
 Paddock Lake|42.578|-88.105|US|Wisconsin|70
 Padilla|-19.309|-64.303|BO|Chuquisaca Department|69
+Paderborn Lippstadt Airport|51.608|8.611|DE|North Rhine-Westphalia|69|f
 Padula|40.339|15.656|IT|Campania|69
 Padasjoki|61.350|25.283|FI|Paijat-Hame|69
 Paden City|39.603|-80.937|US|West Virginia|68
@@ -96,34 +98,93 @@ Pad’ Mel’nichnaya|52.161|104.380|RU|Irkutsk Oblast|61
 Padea|44.021|23.868|RO|Dolj|61
 Pădureni|47.974|26.317|RO|Botoșani County|61
 Paducah|34.012|-100.302|US|Texas|61
+Paddock Valley Dam|44.198|-116.599|US|Idaho|61|f
+Pădurea Craiului Mountains|46.917|22.333|RO||61|f
 Padiglione|43.469|13.463|IT|The Marches|61
 Padru|40.766|9.521|IT|Sardinia|61
 Pădurea Neagră|47.166|22.413|RO|Bihor County|60
 Padina Matei|44.758|21.751|RO|Caraș-Severin County|60
+Padangbai|-8.532|115.507|ID|Bali|60
+Padola|46.603|12.479|IT|Veneto|59
 Paderno Ponchielli|45.238|9.929|IT|Lombardy|59
+Păduroiu din Deal|44.794|24.721|RO|Arges|59
+Pădurișu|44.316|26.305|RO|Călărași County|58
+Padbury|51.971|-0.953|GB|England|58
+Păduroiu din Vale|44.783|24.699|RO|Arges|58
+Paddy Island|-24.839|152.368|AU|Queensland|58|f
+Paddy Knob|38.266|-79.796|US|West Virginia|58|f
+Paddys Island|-41.398|148.303|AU|Tasmania|58|f
+Padua “Gino Allegri” Airport|45.399|11.849|IT|Veneto|58|f
+Padriciano|45.658|13.839|IT|Friuli Venezia Giulia|58
+Pad Nunok|4.717|114.728|BN|Tutong|58
 Paderno|45.828|11.856|IT|Veneto|58
 Padergnone|46.060|10.985|IT|Trentino-Alto Adige|57
+Pădureni|45.525|27.061|RO|Vrancea|57
 Padria|40.396|8.630|IT|Sardinia|57
+Pădureni|47.616|26.772|RO|Botoșani County|56
+Padula|39.339|16.270|IT|Calabria|55
+Pădureni|45.793|27.036|RO|Vrancea|55
+Paddle Prairie|57.950|-117.486|CA|Alberta|55
+Pădureni|45.937|27.232|RO|Vrancea|55
+Paddock Viaduct|32.759|-97.335|US|Texas|54|f
+Paden Island|39.613|-80.928|US|West Virginia|54|f
+Padilla Bay|48.523|-122.529|US|Washington|54|f
+Pădureni|47.950|26.106|RO|Suceava|54
+Padingbüttel|53.700|8.533|DE|Lower Saxony|54
 Padules|36.998|-2.774|ES|Andalusia|53
+Paddington Reservoir Gardens|-33.886|151.227|AU|New South Wales|49|f
+Padjelanta Nationalpark|67.367|16.667|SE|Norrbotten|49|f
+Padloping Island|67.101|-62.630|CA|Nunavut|49|f
 Paderna|44.821|8.891|IT|Piedmont|47
 Padiernos|40.622|-4.845|ES|Castille and León|47
 Padivarma|44.196|9.768|IT|Liguria|47
 Padilla de Abajo|42.408|-4.177|ES|Castille and León|40
 Padilla de Arriba|42.438|-4.191|ES|Castille and León|40
+Paddy's Lake|44.810|-77.701|CA|Ontario|40|f
+Padgett Lake|27.924|-81.609|US|Florida|40|f
+Padre Bay|37.073|-111.306|US|Utah|40|f
+Padre Island National Seashore|26.704|-97.341|US|Texas|40|f
+Padre Point|37.027|-111.278|US|Utah|40|f
+Padres Butte|37.049|-111.283|US|Utah|40|f
 Padrones de Bureba|42.706|-3.533|ES|Castille and León|35
+Padaan|-6.944|111.299|ID|Central Java|0
+Padabeunghar|-7.015|106.805|ID|West Java|0
+Padadue|-10.499|121.935|ID|East Nusa Tenggara|0
+Padahayu|-6.372|105.861|ID|Banten|0
 Padaherang|-7.550|108.696|ID|West Java|0
+Padahurip|-7.413|107.916|ID|West Java|0
+Padaimut|-7.073|108.026|ID|West Java|0
+Padakarya|-7.336|108.082|ID|West Java|0
+Padamulya|-7.203|108.202|ID|West Java|0
 Padang Aro|-1.527|101.264|ID|West Sumatra|0
+Padang Krajan|-8.292|114.242|ID|East Java|0
+Padangalang|-8.379|124.714|ID|East Nusa Tenggara|0
+Padangan|-7.154|111.615|ID|East Java|0
+Padangan|-8.129|112.028|ID|East Java|0
 Padangbatung|-2.838|115.291|ID|South Kalimantan|0
 Padangcermin|-5.601|105.139|ID|Lampung|0
 Padangguci|-4.589|103.144|ID|Bengkulu|0
 Padangsappa|-3.235|120.300|ID|South Sulawesi|0
+Padangsari|-7.334|108.779|ID|Central Java|0
 Padangtepung|-3.754|102.794|ID|South Sumatra|0
 Padangtiji|5.374|95.844|ID|Aceh|0
 Padangtikar|-0.691|109.263|ID|West Kalimantan|0
 Padangulaktanding|-3.375|102.800|ID|Bengkulu|0
+Padaran|-6.722|111.400|ID|Central Java|0
 Padarincang|-6.214|105.951|ID|Banten|0
+Padas|-6.861|111.176|ID|Central Java|0
+Padasan|-6.904|111.904|ID|East Java|0
+Padasono|-7.356|107.803|ID|West Java|0
+Padasuka|-8.993|117.207|ID|West Nusa Tenggara|0
 Padaviya Divisional Secretariat|8.845|80.763|LK||0
+Padedemanu|-9.451|119.103|ID|East Nusa Tenggara|0
+Padedewatu|-9.748|119.401|ID|East Nusa Tenggara|0
 Pademawu|-7.186|113.526|ID|East Java|0
 Paderne|43.286|-8.174|ES|Galicia|0
+Padhahegha|-8.773|121.137|ID|East Nusa Tenggara|0
 Padre Burgos|10.037|125.019|PH|Eastern Visayas|0
 Padre Juan Bautista Aguirre|-1.877|-79.862|EC|Guayas|0
+Padukan|-6.149|106.104|ID|Banten|0
+Padurekso|-7.048|113.942|ID|East Java|0
+Padurung|-6.587|106.390|ID|Banten|0
+Padusan|-7.000|113.875|ID|East Java|0

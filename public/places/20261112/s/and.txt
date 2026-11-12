@@ -27,6 +27,7 @@ Anderson|34.503|-82.650|US|South Carolina|89
 Andipalayam|11.092|77.312|IN|Tamil Nadu|88
 Andol|17.815|78.077|IN|Telangana|88
 Andenne|50.489|5.095|BE|Wallonia|88
+Andreanof Islands|51.822|-175.551|US|Alaska|87|f
 Andrychów|49.855|19.338|PL|Lesser Poland|87
 Andorra la Vella|42.508|1.521|AD|Andorra la Vella|86
 Andreyevskoye|55.555|37.926|RU|Moscow Oblast|86
@@ -35,9 +36,11 @@ Andritz|47.114|15.423|AT|Styria|86
 Andéranboukan|15.428|3.018|ML|Ménaka|85
 Andalucía|4.170|-76.167|CO|Valle del Cauca Department|85
 Andahuaylas|-13.656|-73.387|PE|Apurímac Department|85
+Andaman Islands|12.416|92.783|IN|Andaman and Nicobar|85|f
 Andada|21.656|73.022|IN|Gujarat|84
 Andes|5.656|-75.880|CO|Antioquia|84
 Andé|6.782|-4.085|CI|Comoé District|84
+Andizhan Airport|40.728|72.294|UZ|Andijan Region|84|f
 Andorinha|-10.345|-39.836|BR|Bahia|84
 Andoain|43.217|-2.025|ES|Basque Country|83
 Andalgalá|-27.582|-66.316|AR|Catamarca|83
@@ -61,6 +64,7 @@ Andrézieux-Bouthéon|45.526|4.260|FR|Auvergne-Rhône-Alpes|80
 Andreapol’|56.651|32.264|RU|Tver Oblast|79
 Andop|7.861|125.754|PH|Davao Region|79
 Andalusia|31.308|-86.482|US|Alabama|79
+Andulo Airport|-11.472|16.711|AO|Bíe|79|f
 Andover|42.658|-71.137|US|Massachusetts|79
 Andro|24.749|94.043|IN|Manipur|79
 Andırın|37.578|36.355|TR|Kahramanmaraş|79
@@ -70,19 +74,24 @@ Andarak|39.768|69.464|KG|Batken|78
 Andorra|40.977|-0.447|ES|Aragon|78
 Andijk|52.747|5.222|NL|North Holland|77
 Andrimont|50.613|5.883|BE|Wallonia|77
+Anderson County Airport|34.495|-82.709|US|South Carolina|77|f
 Andoung Thma|10.670|103.797|KH|Preah Sihanouk|77
 Andora|43.955|8.141|IT|Liguria|77
 Andreotta|39.307|16.218|IT|Calabria|77
 Andzhiyevskiy|44.239|43.086|RU|Stavropol Kray|77
 Andres Bonifacio|10.917|123.250|PH|Western Visayas|76
 Andoung Trabaek|11.580|105.765|KH|Svay Rieng|75
+Andrews Municipal Airport|33.452|-79.526|US|South Carolina|75|f
 Andi|42.784|46.262|RU|Dagestan|75
 Andreyevo|55.947|41.151|RU|Vladimir Oblast|74
 Anderstorp|57.283|13.633|SE|Jönköping|74
 Anderstorp|58.883|14.283|SE|Västra Götaland|74
 Andaeuk Haeb|12.859|102.972|KH|Battambang|74
+Andamooka Airport|-30.438|137.137|AU|South Australia|73|f
+Andøy|69.168|15.885|NO|Nordland|73|f
 Andrieşeni|47.533|27.283|RO|Iași County|73
 Andili|7.462|125.970|PH|Davao Region|73
+Andaman Sea|10.000|95.000|TH||72|f
 Andoung Pou|12.283|105.122|KH|Kampong Thom|72
 Andros|37.837|24.937|GR|South Aegean|72
 Andrespol|51.728|19.642|PL|Łódź Voivodeship|72
@@ -90,6 +99,9 @@ Andravída|37.906|21.269|GR|West Greece|71
 Andrano|39.985|18.382|IT|Apulia|70
 Anduze|44.055|3.985|FR|Occitanie|70
 Andechs|47.975|11.183|DE|Bavaria|70
+Anderson Bridge|1.287|103.853|SG||70|f
+Andes Mountains|-16.878|-70.302|||70|f
+Andrews University|41.963|-86.358|US|Michigan|70|f
 Anda|16.289|119.950|PH|Ilocos|70
 Andeville|49.261|2.164|FR|Hauts-de-France|70
 Andé|6.042|-3.954|CI|Lagunes District|70
@@ -100,6 +112,9 @@ Andrews|33.451|-79.561|US|South Carolina|69
 Andorf|48.371|13.574|AT|Upper Austria|69
 Andriyivka|47.094|36.589|UA|Zaporizhzhia|69
 Andosilla|42.381|-1.673|ES|Navarre|69
+Andabeløya|58.218|6.682|NO|Agder|69|f
+Andorra - La Seu d'Urgell Airport|42.339|1.409|ES|Catalonia|69|f
+Andøya|58.112|7.979|NO|Agder|69|f
 Andenes|69.314|16.119|NO|Nordland|69
 Andalan|5.959|121.390|PH|Autonomous Region in Muslim Mindanao|68
 Andacollo|-37.180|-70.670|AR|Neuquen|68
@@ -115,6 +130,8 @@ Andard|47.457|-0.398|FR|Pays de la Loire|67
 Andarāb|37.886|47.518|IR|East Azerbaijan|67
 Andau|47.774|17.033|AT|Burgenland|67
 Andrăşeşti|44.567|27.133|RO|Ialomița County|67
+Andersnatten|60.117|9.418|NO|Buskerud|67|f
+Andronica Island|55.325|-160.072|US|Alaska|67|f
 Andover|43.437|-71.823|US|New Hampshire|67
 Andouillé|48.177|-0.784|FR|Pays de la Loire|67
 Andilly|49.009|2.302|FR|Île-de-France|67
@@ -125,6 +142,8 @@ Anderson|36.651|-94.444|US|Missouri|66
 Anderslöv|55.438|13.320|SE|Skåne|66
 Andrezé|47.172|-0.952|FR|Pays de la Loire|66
 Andalen|57.700|11.761|SE|Västra Götaland|66
+Andøya Andenes Airport|69.293|16.144|NO|Nordland|65|f
+Andréetangen|77.408|22.664|SJ||65|f
 Andilly|46.253|-1.027|FR|New Aquitaine|65
 Andrei Șaguna|46.288|21.392|RO|Arad County|65
 Andanía|37.266|21.985|GR|Peloponnese|65
@@ -141,6 +160,13 @@ Andarvar|36.582|51.735|IR|Māzandarān|64
 Ando-Zumé|7.273|-5.347|CI|Vallée du Bandama District|64
 Andriyivka|44.817|33.563|UA|Sevastopol City|64
 Andres|50.866|1.921|FR|Hauts-de-France|63
+Anderson Massif|-79.167|-84.750|AQ||63|f
+Andersonville National Historic Site|32.198|-84.130|US|Georgia|63|f
+Andes Airport|5.696|-75.879|CO|Antioquia|63|f
+Andohahela National Park|-24.601|46.699|MG|Atsimo-Andrefana|63|f
+Andong Dam|36.585|128.773|KR|Gyeongsangbuk-do|63|f
+Andørja|68.815|17.295|NO|Troms|63|f
+Andros Island|24.433|-77.950|BS|Central Andros|63|f
 Andobo|7.403|-5.300|CI|Vallée du Bandama District|63
 Andoufoué|7.382|-5.240|CI|Vallée du Bandama District|63
 Andretta-Mattinella|40.937|15.325|IT|Campania|63
@@ -159,6 +185,15 @@ Andianou|7.021|-4.473|CI|Lacs District|61
 André da Rocha|-28.631|-51.572|BR|Rio Grande do Sul|61
 Andrews|40.863|-85.602|US|Indiana|61
 Andover|41.607|-80.572|US|Ohio|61
+An den zwei Steinen|49.834|7.226|DE|Rheinland-Pfalz|61|f
+Anda|69.066|15.169|NO|Nordland|61|f
+Anderson Ranch Dam|43.357|-115.449|US|Idaho|61|f
+Andimba Toivo ya Toivo Airport|-17.880|15.947|NA|Oshana Region|61|f
+Andrée Island|-64.516|-61.500|AQ||61|f
+Andréebukta|78.878|29.477|SJ||61|f
+Andrew Jackson Downing Urn|38.889|-77.026|US|District of Columbia|61|f
+Andrews Peak|38.039|-119.680|US|California|61|f
+Andrōth Island|10.812|73.676|IN|Lakshadweep|61|f
 Andrijevica|42.734|19.792|ME|Andrijevica|61
 Andrés Quintana Roo|17.708|-93.011|MX|Tabasco|61
 Andriyivka|48.617|37.287|UA|Donetsk|60
@@ -166,21 +201,147 @@ Andé|49.232|1.241|FR|Normandy|60
 Andance|45.241|4.799|FR|Auvergne-Rhône-Alpes|60
 Andover|42.156|-77.796|US|New York|60
 Andalo|46.166|11.004|IT|Trentino-Alto Adige|60
+Andale|37.791|-97.629|US|Kansas|60
+Andelot-Blancheville|48.250|5.300|FR|Grand Est|60
 Andreești|44.789|23.551|RO|Gorj County|60
+Andel|48.491|-2.565|FR|Brittany|60
+Andabamba|-12.695|-74.624|PE|Huancavelica|59
+Anderlingen|53.374|9.304|DE|Lower Saxony|59
+Andreuzza|42.011|12.684|IT|Lazio|59
 Andriano|46.518|11.231|IT|Trentino-Alto Adige|59
+Andrzejewo|52.831|22.203|PL|Mazovia|59
+Andover|44.636|-70.751|US|Maine|59
+Andrate-Molinetto|45.744|9.076|IT|Lombardy|59
+Andrusovo|44.892|34.179|UA|Crimea|59
+Andabamba|-10.007|-76.244|PE|Huánuco Department|59
+Andraševec|45.988|15.943|HR|Krapina-Zagorje|58
+Andromáchi|40.273|22.481|GR|Central Macedonia|58
+Andraž nad Polzelo|46.325|15.092|SI|Municipality of Polzela|58
+Andakombe Airport|-7.137|145.745|PG|Gulf Province|58|f
+Andersen Island|-67.433|63.367|AQ||58|f
+Anderson Island|47.160|-122.706|US|Washington|58|f
+Anderson Municipal Airport|40.109|-85.616|US|Indiana|58|f
+Andersson Island|-63.583|-56.583|AQ||58|f
+Andingmen Qiao|39.947|116.402|CN|Beijing|58|f
+Andirovitha Island|40.850|29.144|TR|Istanbul|58|f
+Andrew Johnson National Historic Site|36.156|-82.837|US|Tennessee|58|f
+Andrew Lake|51.942|-176.638|US|Alaska|58|f
+Andrews University Airpark|41.951|-86.366|US|Michigan|58|f
+Andreyev, Mount|-71.750|10.250|AQ||58|f
+Andeer|46.603|9.426|CH|Grisons|58
+Andrews|29.533|-82.882|US|Florida|58
+Andrítsaina|37.484|21.906|GR|West Greece|58
+Andriievychi|50.734|27.886|UA|Zhytomyr Oblast|58
+Andocutín|19.956|-100.866|MX|Guanajuato|58
+Andersonville|39.428|-83.010|US|Ohio|58
 Andali|39.013|16.769|IT|Calabria|58
+Andselv|69.066|18.516|NO|Troms|57
+Andreyevka|42.646|131.132|RU|Primorye|56
+Ando-Dougba|7.267|-5.344|CI|Vallée du Bandama District|56
+Andilly|46.058|6.065|FR|Auvergne-Rhône-Alpes|56
+Andriyivka-Klevtsove|48.049|36.590|UA|Donetsk|56
+Ando Blékro|7.272|-5.331|CI|Vallée du Bandama District|56
 Andajes|-10.793|-76.909|PE|Lima region|56
+Andreyevka|54.518|68.277|KZ|North Kazakhstan|56
+Andisleben|51.083|10.928|DE|Thuringia|56
+Andriivka|49.546|34.253|UA|Poltava|55
+Andover|40.986|-74.742|US|New Jersey|55
+Andriivka|49.371|34.883|UA|Poltava|55
+Andriivka|49.187|34.587|UA|Poltava|55
+Andover|41.294|-90.292|US|Illinois|55
+Andoins|43.304|-0.229|FR|New Aquitaine|55
+Andelot-en-Montagne|46.853|5.934|FR|Bourgogne-Franche-Comté|55
+Andoversford|51.875|-1.969|GB|England|55
 Andalo Valtellino|46.136|9.474|IT|Lombardy|55
+Andouillé-Neuville|48.293|-1.590|FR|Brittany|55
+Andas|-11.626|-75.109|PE|Junin|54
+Andriiashivka|47.920|29.695|UA|Odesa|54
+Andahuaylas Airport|-13.706|-73.350|PE|Apurímac Department|54|f
+Andalusia, Andalusia-Opp Municipal Airport|31.308|-86.392|US|Alabama|54|f
+Anders Peak|-71.767|9.017|AQ||54|f
+Anderson Glacier|-66.379|-63.988|AQ||54|f
+Anderson Goose Lake|42.312|-93.626|US|Iowa|54|f
+Anderson Lake|37.171|-121.619|US|California|54|f
+Anderson Marsh State Historic Park|38.925|-122.633|US|California|54|f
+Anderson University|34.514|-82.639|US|South Carolina|54|f
+Andfiskvatnet|66.272|14.130|NO|Nordland|54|f
+Andi Jemma Airport|-2.558|120.324|ID|South Sulawesi|54|f
+Andkjelvatnet|67.382|15.736|NO|Nordland|54|f
+Andøybrua|68.962|15.646|NO|Nordland|54|f
+Andravida Airport|37.921|21.293|GR|West Greece|54|f
+Andreassen Point|-63.899|-57.769|AQ||54|f
+Andresen Island|-66.885|-66.680|AQ||54|f
+Andrews Bald|35.542|-83.493|US|North Carolina|54|f
+Andrews Point|-64.511|-62.904|AQ||54|f
+Andrusia Lake|47.445|-94.654|US|Minnesota|54|f
+Ando-Simbo|7.275|-5.348|CI|Vallée du Bandama District|54
 Andarapa|-13.526|-73.366|PE|Apurímac Department|53
 Andamarca|-11.728|-74.802|PE|Junin|52
 Andrate|45.526|7.881|IT|Piedmont|52
 Andilla|39.833|-0.800|ES|Valencia|52
 Andaray|-15.797|-72.861|PE|Arequipa|51
 Andaymarca|-12.315|-74.635|PE|Huancavelica|50
+Andacollo Airport|-41.045|-73.046|CL|Los Lagos Region|49|f
+Anderson Islands|-40.301|148.119|AU|Tasmania|49|f
+Anderson Lake|50.633|-122.410|CA|British Columbia|49|f
+Anderson Park|-33.999|151.123|AU|New South Wales|49|f
+Anderson Peak|39.259|-120.297|US|California|49|f
+Anderson Peak|34.124|-116.894|US|California|49|f
+Anderson Pyramid|-70.767|159.950|AQ||49|f
+Anderson Street Conservation Park|-16.918|145.742|AU|Queensland|49|f
+Andersson Peak|-64.830|-61.023|AQ||49|f
+Andrew F.C. Turpin Dam|-32.652|26.073|ZA|Eastern Cape|49|f
+Andrew Glacier|-63.898|-59.709|AQ||49|f
+Andrew Park|-34.553|150.848|AU|New South Wales|49|f
+Andrews Peak|-72.283|165.417|AQ||49|f
+Andrus Island|38.158|-121.598|US|California|49|f
 Anderson|30.487|-95.987|US|Texas|47
 Anduins|46.233|12.958|IT|Friuli Venezia Giulia|47
 Andreis|46.201|12.614|IT|Friuli Venezia Giulia|46
 Andlersdorf|48.183|16.667|AT|Lower Austria|43
+Andalusia Commercial Historic District|31.307|-86.482|US|Alabama|40|f
+Anderson Bay|59.316|-133.704|CA|British Columbia|40|f
+Anderson Bay Park|49.513|-124.137|CA|British Columbia|40|f
+Anderson Dome|-73.500|-93.900|AQ||40|f
+Anderson Glacier|47.713|-123.335|US|Washington|40|f
+Anderson Island|49.700|-54.731|CA|Newfoundland and Labrador|40|f
+Anderson Island|12.798|92.702|IN|Andaman and Nicobar|40|f
+Anderson Island|39.016|-122.744|US|California|40|f
+Anderson Lake|44.733|-64.227|CA|Nova Scotia|40|f
+Anderson Lake|44.726|-63.620|CA|Nova Scotia|40|f
+Anderson Lake|40.200|-90.185|US|Illinois|40|f
+Anderson Lake|45.279|-97.253|US|South Dakota|40|f
+Anderson Lake State Park|48.018|-122.804|US|Washington|40|f
+Anderson Mesa|35.055|-111.440|US|Arizona|40|f
+Anderson Mountain|37.628|-90.600|US|Missouri|40|f
+Anderson Park|40.840|-74.210|US|New Jersey|40|f
+Anderson Peak|49.133|-114.069|CA|Alberta|40|f
+Anderson Peak|37.773|-118.487|US|California|40|f
+Anderson Peninsula|-69.800|160.217|AQ||40|f
+Anderson Ridge|-85.783|-155.400|AQ||40|f
+Anderson River Park|40.470|-122.266|US|California|40|f
+Anderson Summit|-85.050|-90.883|AQ||40|f
+Andersson Ridge|-74.717|162.617|AQ||40|f
+Anderton Glacier|-74.683|162.367|AQ||40|f
+Andes, Mount|-85.883|-146.767|AQ||40|f
+Andhra University|17.729|83.320|IN|Andhra Pradesh|40|f
+Andree Clark Bird Refuge|34.421|-119.660|US|California|40|f
+Andrew Jackson State Park|34.840|-80.805|US|South Carolina|40|f
+Andrew Lake|44.351|-64.648|CA|Nova Scotia|40|f
+Andrew Molera State Park|36.288|-121.844|US|California|40|f
+Andrews County Airport|32.323|-102.532|US|Texas|40|f
+Andrews Glacier|40.287|-105.684|US|Colorado|40|f
+Andrews Peaks|-77.133|-144.050|AQ||40|f
+Andrews, Mount|-85.950|-149.683|AQ||40|f
+Andringitra National Park|-22.113|46.923|MG|Upper Matsiatra|40|f
+Androscoggin Lake|44.322|-70.088|US|Maine|40|f
+Andrus Point|-73.883|165.800|AQ||40|f
+Andrus, Mount|-75.800|-132.233|AQ||40|f
+Andy Bailey Park|58.550|-122.503|CA|British Columbia|40|f
+Andy Good Peak|49.567|-114.585|CA|Alberta|40|f
+Andy Kerr Stadium|42.816|-75.546|US|New York|40|f
+Andy Simons Mountain|60.372|-149.260|US|Alaska|40|f
+Andy Warhol Museum|40.448|-80.002|US|Pennsylvania|40|f
 An Dương|20.864|106.613|VN|Hai Phong|0
 Anda|9.746|124.577|PH|Central Visayas|0
 Andabamba|-6.663|-78.817|PE|Cajamarca Department|0
@@ -188,11 +349,23 @@ Andahua|-15.499|-72.357|PE|Arequipa|0
 Andahuaylillas|-13.672|-71.679|PE|Cuzco Department|0
 Andamarca|-18.779|-67.508|BO|Oruro|0
 Andamarca|-14.387|-73.961|PE|Ayacucho|0
+Andamui|-7.038|108.652|ID|West Java|0
+Andekantor|-9.582|119.367|ID|East Nusa Tenggara|0
+Andelara|-9.543|119.311|ID|East Nusa Tenggara|0
+Anding|39.618|116.489|CN|Beijing|0
+Anding|45.167|122.600|CN|Jilin|0
+Andir|-7.155|107.901|ID|West Java|0
+Andong|30.268|121.216|CN|Zhejiang|0
+Andongrejo|-8.407|113.741|ID|East Java|0
+Andongsari|-8.366|113.634|ID|East Java|0
+Andongsari|-8.170|113.550|ID|East Java|0
 Andongwei|35.129|119.276|CN|Shandong|0
 Andoolo|-4.327|122.252|ID|Southeast Sulawesi|0
 Andosilla|42.377|-1.943|ES|Navarre|0
+Andou|33.001|101.547|CN|Sichuan|0
 Andoung Meas|13.867|107.297|KH|Ratanakiri|0
 Andramasina|-19.188|47.590|MG|Analamanga|0
 Andreas|54.367|-4.433|IM|Andreas|0
 Andriiashivka|50.571|33.362|UA|Sumy|0
 Andrushky|49.880|29.344|UA|Zhytomyr Oblast|0
+Andun|23.183|115.005|CN|Guangdong|0

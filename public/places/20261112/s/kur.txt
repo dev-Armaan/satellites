@@ -32,9 +32,11 @@ Kurihashi|36.133|139.700|JP|Saitama|89
 Kurenivka|50.494|30.471|UA|Kyiv City|87
 Kurduvādi|18.093|75.416|IN|Maharashtra|87
 Kurikuppi|15.218|76.649|IN|Karnataka|87
+Kura Kurk|57.750|22.083|EE||87|f
 Kurandvād|16.683|74.589|IN|Maharashtra|87
 Kurono|35.467|136.633|JP|Gifu|87
 Kuri Dulal|33.384|73.264|PK|Punjab|87
+Kuressaare Airport|58.230|22.509|EE|Saare|87|f
 Kurchaloy|43.205|46.088|RU|Chechnya|86
 Kürten|51.050|7.267|DE|North Rhine-Westphalia|86
 Kuraymah|18.550|31.850|SD|Northern State|86
@@ -52,6 +54,7 @@ Kurud|20.831|81.722|IN|Chhattisgarh|83
 Kureekkad|9.930|76.375|IN|Kerala|83
 Kurāra|25.980|79.990|IN|Uttar Pradesh|82
 Kuressaare|58.254|22.492|EE|Saare|82
+Kuril Islands|47.000|152.083|RU|Sakhalin Oblast|82|f
 Kurumbalūr|11.236|78.801|IN|Tamil Nadu|82
 Kurskaya|44.043|44.455|RU|Stavropol Kray|82
 Kurşunlu|40.841|33.260|TR|Çankırı|82
@@ -66,9 +69,11 @@ Kuršėnai|56.003|22.937|LT|Siauliai|81
 Kurchatov|50.756|78.542|KZ|Abai Region|81
 Kurunjang|-37.676|144.597|AU|Victoria|81
 Kurmuk|10.557|34.287|SD|Blue Nile|80
+Kurd Mountains|36.686|36.637|SY||80|f
 Kürti|47.200|89.305|CN|Xinjiang|80
 Kurthaur|25.562|85.122|IN|Bihar|80
 Kur|40.906|46.185|AZ|Şǝmkir|80
+Kurgan Airport|55.475|65.416|RU|Kurgan Oblast|80|f
 Kura|11.772|8.426|NG|Kano State|80
 Kurino|31.950|130.717|JP|Kagoshima|79
 Kuruman|-27.464|23.436|ZA|Northern Cape|79
@@ -82,18 +87,22 @@ Kurlovo|55.433|40.485|RU|Vladimir Oblast|77
 Kurl-Husen|51.556|7.595|DE|North Rhine-Westphalia|77
 Kuriyazawa|38.900|140.250|JP|Yamagata|77
 Kurgahalli|12.355|76.577|IN|Karnataka|77
+Kuril Strait|50.836|156.585|RU||77|f
 Kurttepe|37.055|35.276|TR|Adana|77
 Kurchanskaya|45.222|37.572|RU|Krasnodar Krai|76
 Kurumoch|53.490|50.037|RU|Samara Oblast|76
 Kurkino|53.426|38.656|RU|Tula Oblast|75
 Kurumkan|54.321|110.307|RU|Buryatiya Republic|75
 Kūrūnī|29.533|52.505|IR|Fars|75
+Kure Atoll|28.419|-178.325|US|Hawaii|74|f
+Kurnool Airport|15.715|78.178|IN|Andhra Pradesh|74|f
 Kurukkuppatti|11.694|77.981|IN|Tamil Nadu|74
 Kurul|18.642|72.895|IN|Maharashtra|74
 Kurland|-33.945|23.493|ZA|Western Cape|74
 Kurmanayevka|52.507|52.066|RU|Orenburg Oblast|73
 Kürnach|49.850|10.033|DE|Bavaria|73
 Kurdzhinovo|43.988|40.955|RU|Karachayevo-Cherkesiya Republic|73
+Kurumoch International Airport|53.508|50.152|RU|Samara Oblast|72|f
 Kurichikara|10.572|76.256|IN|Kerala|72
 K’urdghelauri|41.929|45.488|GE|Kakheti|72
 Kurttila|60.178|24.603|FI|Uusimaa|72
@@ -107,6 +116,8 @@ Kurşunlu|40.037|29.660|TR|Bursa Province|71
 Kurakh|41.585|47.782|RU|Dagestan|71
 Kurort-Darasun|51.202|113.714|RU|Zabaykalskiy (Transbaikal) Kray|70
 Kurkent|41.712|48.115|RU|Dagestan|70
+Ku-ring-gai Chase National Park|-33.621|151.223|AU|New South Wales|70|f
+Kuro Shima|30.831|129.934|JP|Kagoshima|70|f
 Kurrajong|-33.555|150.670|AU|New South Wales|70
 Kurzętnik|53.399|19.579|PL|Warmia-Masuria|70
 Kuranda|-16.820|145.638|AU|Queensland|70
@@ -114,6 +125,8 @@ Kurów|51.389|22.186|PL|Lublin|69
 Kuromatsunai|42.668|140.306|JP|Hokkaido|69
 Kurkimäki|60.233|25.067|FI|Uusimaa|69
 Kuru|61.876|23.719|FI|Pirkanmaa|69
+Kurahashi Jima|34.133|132.517|JP|Hiroshima|69|f
+Kuro-shima|24.239|124.010|JP||69|f
 Kurakhivka|48.031|37.372|UA|Donetsk|68
 Kurort Oberwiesenthal|50.419|12.968|DE|Saxony|68
 Kurylivka|48.576|34.605|UA|Dnipropetrovsk|68
@@ -135,6 +148,9 @@ Kuryłówka|50.300|22.466|PL|Subcarpathia|64
 Kurort Oybin|50.841|14.741|DE|Saxony|64
 Kuril’sk|45.227|147.878|RU|Sakhalin Oblast|64
 Kurba|57.561|39.498|RU|Yaroslavl Oblast|63
+Kurima Jima|24.721|125.247|JP||63|f
+Kurumayama|36.103|138.197|JP|Nagano|63|f
+Kurushima|34.118|132.969|JP||63|f
 Kurityán|48.317|20.633|HU|Borsod-Abaúj-Zemplén|63
 Kurbnesh|41.780|20.084|AL|Lezhë County|63
 Kurtan|40.957|44.556|AM|Lori|63
@@ -147,8 +163,58 @@ Kurna|40.959|29.336|TR|Istanbul|61
 Kurima|49.226|21.454|SK|Prešov Region|61
 Kurtuluş|36.633|33.551|TR|Mersin|61
 Kurtuluş|36.341|34.010|TR|Mersin|61
+Kür Daşı Adası|39.015|49.333|AZ|Neftçala|61|f
+Kurinbi|6.667|72.996|MV||61|f
+Kurjenrahkan Kansallispuisto|60.733|22.398|FI|Southwest Finland|61|f
 Kuruždeý|38.341|56.742|TM|Balkan|61
+Kurrimine Beach|-17.775|146.106|AU|Queensland|60
+Kuryūgawa|36.031|138.555|JP|Nagano|60
+Kurtscheid|50.533|7.467|DE|Rheinland-Pfalz|60
+Küre|40.089|30.153|TR|Bilecik|60
+Kurtzenhouse|48.740|7.804|FR|Grand Est|59
+Kurucu|37.234|42.069|TR|Şırnak|59
+Kūrā’īm|37.955|48.236|IR|Ardabil Province|58
+Kürnberg|48.000|14.533|AT|Lower Austria|58
+Kurdyumivka|48.470|37.957|UA|Donetsk|58
+Kurmond|-33.553|150.695|AU|New South Wales|58
+Kurtyeri|41.126|30.233|TR|Kocaeli|58
+Kurush|41.284|47.835|RU|Dagestan|58
+Kurai Yama|36.037|137.197|JP|Gifu|58|f
+Kuraminskiy Khrebet|40.750|70.167|UZ||58|f
+Kurayskiy Khrebet|50.167|88.333|RU|Altai|58|f
+Kuria Island|0.265|173.389|KI|Gilbert Islands|58|f
+Kurrimine Beach National Park|-17.727|146.097|AU|Queensland|58|f
+Kurumi Island|-69.024|39.462|AQ||58|f
+Kurze Mountains|-71.833|9.000|AQ||58|f
+Kurşunlu|40.360|29.023|TR|Bursa Province|58
+Kurzah|31.441|35.000|PS|West Bank|58
+Kurortne|45.939|30.299|UA|Odesa|58
+Kuruköy|37.561|28.071|TR|Aydın|57
+Kurov|49.342|21.136|SK|Prešov Region|57
+Kurt|41.553|32.415|TR|Bartın|56
+Kurugöl|37.649|37.769|TR|Adıyaman Province|56
+Kurgannoye|45.069|33.939|UA|Crimea|56
+Kurrajong Hills|-33.533|150.652|AU|New South Wales|56
+Kuremaa|58.737|26.523|EE|Jõgevamaa|55
+Kurów|49.722|19.435|PL|Lesser Poland|55
+Kur’yanovo|56.026|35.729|RU|Moscow Oblast|55
+Kurland|55.375|13.083|SE|Skåne|55
+Kuruçay|40.609|34.128|TR|Çorum|55
+Kurendhoo|5.334|73.464|MV||54|f
+Kurgjärv|57.724|27.019|EE|Võrumaa|54|f
+Kursk East Airport|51.751|36.296|RU|Kursk Oblast|54|f
+Kurahashi-jima|34.117|132.533|JP||49|f
+Kuranda National Park|-16.700|145.549|AU|Queensland|49|f
+Kuri Bay|-15.482|124.523|AU|Western Australia|49|f
+Kurkulica|42.313|21.073|XK||49|f
+Kurupung|6.467|-59.167|GY|Cuyuni-Mazaruni|49|f
 Kurtkale|41.265|43.126|TR|Ardahan|47
+Kuradisild|58.379|26.716|EE|Tartu|40|f
+Kurhaus Baden-Baden|48.760|8.237|DE|Baden-Wurttemberg|40|f
+Kurilo Point|-62.744|-61.244|AQ||40|f
+Kurobe-damu|36.566|137.661|JP|Toyama|40|f
+Kurpfälzisches Museum|49.411|8.703|DE|Baden-Wurttemberg|40|f
+KURY-FM|42.075|-124.316|US|Oregon|40|f
 Kur’ya|51.601|82.289|RU|Altai Krai|0
 Kuran wa Munjan|36.029|70.773|AF|Badakhshan|0
 Kurau|-3.566|114.579|ID|South Kalimantan|0
@@ -159,9 +225,14 @@ Kuripan|-5.035|103.764|ID|Lampung|0
 Kurjan|40.718|19.746|AL|Fier County|0
 Kurnāz|35.390|36.488|SY|Hama|0
 Kurne|50.453|28.092|UA|Zhytomyr Oblast|0
+Kurnia|-7.052|108.036|ID|West Java|0
 Kuroishi|40.644|140.623|JP|Aomori|0
 Kuršumlija|43.138|21.273|RS|Central Serbia|0
 Kurşunlu|38.653|37.851|TR|Malatya|0
 Kurthasanlı|38.326|32.175|TR|Konya|0
 Kuruçay|39.640|38.474|TR|Erzincan|0
 Kurumul|-5.855|144.631|PG|Jiwaka Province|0
+Kurungannyawa|-4.238|104.465|ID|South Sumatra|0
+Kurungkambing|-6.310|106.010|ID|Banten|0
+Kurungkotok|-6.228|106.037|ID|Banten|0
+Kuruqi|48.963|123.820|CN|Inner Mongolia|0

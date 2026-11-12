@@ -7,10 +7,12 @@ Suleja|9.181|7.179|NG|Niger State|104
 Sullana|-4.904|-80.685|PE|Piura|104
 Sultan Kudarat|7.229|124.258|PH|Autonomous Region in Muslim Mindanao|102
 Sultānpur|26.258|82.073|IN|Uttar Pradesh|101
+Sulu Archipelago|6.000|121.000|PH||95|f
 Sultānganj|25.238|86.736|IN|Bihar|94
 Suluova|40.831|35.648|TR|Amasya|94
 Sultan sa Barongis|6.800|124.637|PH|Autonomous Region in Muslim Mindanao|92
 Sūlūru|13.700|80.017|IN|Andhra Pradesh|92
+Sulawesi|-2.132|120.289|ID|South Sulawesi|91|f
 Sulur|11.024|77.126|IN|Tamil Nadu|89
 Sulmona|42.049|13.926|IT|Abruzzo|86
 Sulphur|30.237|-93.377|US|Louisiana|86
@@ -28,6 +30,8 @@ Sultan Pur|28.496|77.161|IN|Delhi|84
 Suluktu|39.937|69.568|KG|Batken|84
 Sulingen|52.683|8.813|DE|Lower Saxony|82
 Sulz am Neckar|48.362|8.633|DE|Baden-Wurttemberg|82
+Sultan Thaha Airport|-1.638|103.644|ID|Jambi|81|f
+Sultan Mahmud Airport|5.384|103.104|MY|Terengganu|80|f
 Sultānpur|23.138|77.934|IN|Madhya Pradesh|80
 Sulęcin|52.444|15.117|PL|Lesser Poland|80
 Sūlibele|13.184|77.801|IN|Karnataka|80
@@ -38,24 +42,29 @@ Sultanpur|20.087|76.519|IN|Maharashtra|79
 Sultānpur|29.755|78.110|IN|Uttarakhand|79
 Sulebhāvi|15.896|74.655|IN|Karnataka|79
 Sülysáp|47.452|19.534|HU|Pest County|78
+Sultan Hasanuddin International Airport|-5.077|119.549|ID|South Sulawesi|78|f
 Sultandağı|38.531|31.228|TR|Afyonkarahisar Province|78
 Sullivan|38.208|-91.160|US|Missouri|77
 Sulzbach am Main|49.911|9.153|DE|Bavaria|77
 Sulak|43.273|47.515|RU|Dagestan|77
 Sulakyurt|40.157|33.716|TR|Kırıkkale|76
 Sulop|6.599|125.344|PH|Davao Region|76
+Sulu Sea|8.668|120.561|||76|f
 Sułkowice|49.841|19.801|PL|Lesser Poland|76
 Sulejów|51.354|19.885|PL|Łódź Voivodeship|76
 Sully-sur-Loire|47.764|2.372|FR|Centre-Val de Loire|76
 Sultanhisar|37.890|28.154|TR|Aydın|76
 Sultan Naga Dimaporo|7.796|123.715|PH|Northern Mindanao|76
+Sulphur Springs Municipal Airport|33.160|-95.621|US|Texas|75|f
 Sulucan|14.794|120.926|PH|Central Luzon|75
 Sulzbach an der Murr|49.003|9.500|DE|Baden-Wurttemberg|75
+Sula Sgeir|59.095|-6.156|GB||74|f
 Sulphur|34.508|-96.968|US|Oklahoma|74
 Sulit|6.236|125.021|PH|Soccsksargen|74
 Sūleqān|35.822|51.265|IR|Tehran|74
 Sułkowice|49.819|19.360|PL|Lesser Poland|74
 Sultan|47.863|-121.817|US|Washington|74
+Sullivan County Airport|39.114|-87.447|US|Indiana|73|f
 Sulat|11.810|125.454|PH|Eastern Visayas|73
 Sulzfeld|49.105|8.856|DE|Baden-Wurttemberg|73
 Sulzberg|47.660|10.350|DE|Bavaria|73
@@ -70,11 +79,18 @@ Sulusaray|39.994|36.084|TR|Tokat Province|72
 Sulbiate|45.640|9.428|IT|Lombardy|72
 Süleymanlı|38.984|27.776|TR|Manisa|71
 Sulţān|31.094|20.223|LY|Banghazi|71
+Sule Skerry|59.085|-4.408|GB|Scotland|71|f
+Sulitelma|67.139|16.395|NO||71|f
+Suluan Island|10.764|125.956|PH|Eastern Visayas|71|f
 Sultepec de Pedro Ascencio de Alquisiras|18.859|-99.966|MX|México|71
 Sulina|-25.702|-52.722|BR|Paraná|71
 Sula|15.457|120.396|PH|Central Luzon|71
 Sulgen|47.540|9.186|CH|Thurgau|71
 Sülfeld|53.801|10.231|DE|Schleswig-Holstein|70
+Sula Island|13.271|123.830|PH|Bicol Region|70|f
+Sule Stack|59.024|-4.507|GB|Scotland|70|f
+Sulphur Spring Range|40.152|-116.058|US|Nevada|70|f
+Suluada|36.239|30.472|TR|Antalya|70|f
 Sulangan|10.936|125.826|PH|Eastern Visayas|70
 Sūlam|32.606|35.334|IL|Northern District|69
 Sul Brasil|-26.736|-52.965|BR|Santa Catarina|69
@@ -82,6 +98,8 @@ Sulmierzyce|51.606|17.531|PL|Greater Poland|69
 Sulzburg|47.841|7.708|DE|Baden-Wurttemberg|69
 Sulice|49.926|14.557|CZ|Central Bohemia|69
 Sultanköy|41.021|27.989|TR|Tekirdağ|69
+Sula|62.415|6.134|NO|Møre og Romsdal|69|f
+Sultan Muhammad Salahudin Airport|-8.540|118.688|ID|West Nusa Tenggara|69|f
 Şuletea|46.289|27.912|RO|Vaslui County|68
 Sulz|47.287|9.652|AT|Vorarlberg|68
 Sulzemoos|48.291|11.264|DE|Bavaria|68
@@ -92,12 +110,19 @@ Sulangan|10.830|122.690|PH|Western Visayas|67
 Sulików|51.076|15.068|PL|Lower Silesia|66
 Sulzheim|49.950|10.333|DE|Bavaria|66
 Süleymanobası|37.252|37.551|TR|Gaziantep|65
+Sula|61.115|4.953|NO|Vestland|65|f
+Suliskongen|67.147|16.377|NO|Nordland|65|f
+Sullivan Regional Airport|38.232|-91.165|US|Missouri|65|f
+Sultan Abdul Aziz Shah Airport|3.131|101.549|MY|Selangor|65|f
 Sulligent|33.902|-88.134|US|Alabama|65
 Sulzfeld|50.260|10.405|DE|Bavaria|65
 Sülzbach|49.147|9.340|DE|Baden-Wurttemberg|65
 Sullivans Island|32.763|-79.837|US|South Carolina|65
 Sulzano|45.687|10.100|IT|Lombardy|64
 Sulęczyno|54.233|17.773|PL|Pomerania|64
+Sullorsuaq Strait|70.200|-52.947|GL|Avannaata|63|f
+Sultan Bantilan Airport|1.122|120.796|ID|Central Sulawesi|63|f
+Sulzberg|47.744|12.062|DE|Bavaria|63|f
 Sulsted|57.163|9.957|DK|North Denmark|63
 Sulzberg|47.522|9.914|AT|Vorarlberg|63
 Sulak|37.414|41.962|TR|Şırnak|63
@@ -112,6 +137,9 @@ Sullivan|44.520|-68.197|US|Maine|62
 Sulz|47.536|8.096|CH|Aargau|62
 Sultan|41.025|26.452|TR|Edirne|61
 Sultana|44.261|26.854|RO|Călărași County|61
+Sulafjorden|62.381|6.128|NO|Møre og Romsdal|61|f
+Sultan Abdul Halim Airport|6.194|100.402|MY|Kedah|61|f
+Sultan Mountain|37.786|-107.704|US|Colorado|61|f
 Sułów|50.907|22.361|PL|Lublin|61
 Sülek|36.820|31.480|TR|Antalya|61
 Sulphur Springs|34.181|-92.123|US|Arkansas|61
@@ -120,16 +148,97 @@ Sülekler|37.133|30.083|TR|Antalya|61
 Sulzheim|49.843|8.092|DE|Rheinland-Pfalz|60
 Sulbiny Górne|51.873|21.632|PL|Mazovia|60
 Sülstorf|53.510|11.376|DE|Mecklenburg-Vorpommern|60
+Šula|43.385|19.073|ME|Pljevlja|60
+Súľov-Hradná|49.148|18.590|SK|Žilina Region|60
+Sülzfeld|50.523|10.360|DE|Thuringia|60
+Sulzthal|50.132|10.035|DE|Bavaria|59
+Sulzau|47.500|13.167|AT|Salzburg|59
+Sulakyurt|41.162|42.623|TR|Ardahan|59
+Sulevo|43.483|40.094|GE|Abkhazia|59
+Sulz im Wienerwald|48.100|16.137|AT|Lower Austria|58
+Sully|41.578|-92.845|US|Iowa|58
+Sula|63.850|8.450|NO|Trøndelag|58|f
+Sultan Babullah Airport|0.831|127.381|ID|North Maluku|58|f
+Sultan Haji Ahmad Shah Airport|3.775|103.209|MY|Pahang|58|f
+Sulu Range|-5.497|150.936|PG|West New Britain Province|58|f
+Sulzberg|48.844|13.699|DE|Bavaria|58|f
+Sullivan|43.013|-72.221|US|New Hampshire|58
+Sulolor|13.450|-14.667|GM|Central River|58
+Sultana|36.546|-119.340|US|California|58
+Suluphuitz|17.201|-92.215|MX|Chiapas|58
+Suluca|39.304|42.754|TR|Ağrı|57
+Sulța|46.469|26.239|RO|Bacău County|57
+Sulejovice|50.499|14.037|CZ|Ústí nad Labem Region|57
+Sülek|41.468|32.247|TR|Bartın|57
+Sullivan|43.013|-88.588|US|Wisconsin|57
+Sulzbach|47.698|13.618|AT|Upper Austria|57
+Sułkowice|51.790|17.041|PL|Greater Poland|56
+Sulphur Creek|-41.095|146.023|AU|Tasmania|56
+Süleymankümbet|39.397|42.970|TR|Ağrı|55
+Sultanlar|37.353|37.256|TR|Kahramanmaraş|55
+Suluçem|39.694|43.815|TR|Ağrı|55
+Sully|47.007|4.473|FR|Bourgogne-Franche-Comté|55
+Sulignat|46.173|4.960|FR|Auvergne-Rhône-Alpes|55
+Sulphur Springs|36.483|-94.459|US|Arkansas|54
+Sulaiman Range|30.625|70.173|PK|Punjab|54|f
+Sulaymaniyah International Airport|35.562|45.317|IQ|Sulaymaniyah|54|f
+Sulefjellet|61.109|8.155|NO|Innlandet|54|f
+Suleyman Demirel|37.855|30.368|TR|Isparta|54|f
+Suli Hu|37.067|94.317|CN|Qinghai|54|f
+Sullivan County International Airport|41.701|-74.800|US|New York|54|f
+Sullivan Island|58.972|-135.327|US|Alaska|54|f
+Sullom Voe|60.450|-1.333|GB|Scotland|54|f
+Sulphur Bank Mine|39.004|-122.666|US|California|54|f
+Sulphur Bay|-19.511|169.463|VU|Tafea|54|f
+Sulphur Mountain|35.376|-93.240|US|Arkansas|54|f
+Sultan Azlan Shah Airport|4.568|101.092|MY|Perak|54|f
+Sultan Dağları|38.333|31.333|TR|Konya|54|f
+Sultan Glacier|-61.143|-55.330|AQ||54|f
+Sultan Mahmud Badaruddin II Airport|-2.898|104.700|ID|South Sumatra|54|f
+Sultanköy Barajı|41.037|26.482|TR|Edirne|54|f
+Sultansuyu Barajı|38.318|38.051|TR|Malatya|54|f
 Süleymanlı|37.876|36.833|TR|Kahramanmaraş|54
+Sulz bei Gleisdorf|47.067|15.733|AT|Styria|54
+Sülm|49.917|6.567|DE|Rheinland-Pfalz|54
 Sułów|50.771|22.956|PL|Lublin|53
+Sulzbach|49.833|7.333|DE|Rheinland-Pfalz|50
+Sulza|50.867|11.617|DE|Thuringia|50
+Suldalsvatnet|59.527|6.599|NO|Rogaland|49|f
+Sullivan Bay|-38.346|144.760|AU|Victoria|49|f
+Sullivan Peaks|-84.818|-63.066|AQ||49|f
+Sullivan Ridge|-84.783|177.083|AQ||49|f
+Sully Island|51.396|-3.196|GB|Wales|49|f
+Sulphur Peak|38.614|-112.530|US|Utah|49|f
+Sulzbach|50.303|7.752|DE|Rheinland-Pfalz|47
 Sulztal an der Weinstraße|46.676|15.549|AT|Styria|41
+Suletinden|61.123|8.126|NO|Vestland|40|f
+Sullivan Lake|44.882|-63.576|CA|Nova Scotia|40|f
+Sullivan Lake|44.222|-114.444|US|Idaho|40|f
+Sullys Hill National Game Preserve|47.990|-98.972|US|North Dakota|40|f
+Sulphide Glacier|48.813|-121.606|US|Washington|40|f
+Sulphide Lake|48.805|-121.584|US|Washington|40|f
+Sulphur Creek Reservoir|33.547|-117.705|US|California|40|f
+Sulphur Mountain|51.133|-115.569|CA|Alberta|40|f
+Sulphur Mountain|37.774|-90.590|US|Missouri|40|f
+Sulphur Passage Park|49.408|-126.097|CA|British Columbia|40|f
+Sulphur Springs Mountain|38.151|-122.192|US|California|40|f
+Sulphurous Lake|51.630|-120.832|CA|British Columbia|40|f
+Sultan's Palace|-6.160|39.191|TZ|Zanzibar Urban/West|40|f
+Sultartangalón|64.209|-19.480|IS|South|40|f
+Súlur|65.617|-18.217|IS|Northeast|40|f
+Sulzfluh|47.013|9.840|CH|Grisons|40|f
 Sulahan|-8.421|115.348|ID|Bali|0
 Sulang Tengah|-6.806|111.381|ID|Central Java|0
 Sule Tankarkar|12.667|9.228|NG|Jigawa State|0
+Sulengwaseng|-8.507|122.976|ID|East Nusa Tenggara|0
+Suling Kulon|-7.790|114.037|ID|East Java|0
 Sulitair|-0.613|100.648|ID|West Sumatra|0
+Sulo|-6.731|111.573|ID|Central Java|0
 Süloğlu|41.769|26.910|TR|Edirne|0
+Sulong|22.717|111.609|CN|Guangdong|0
 Sult|40.885|20.099|AL|Elbasan County|0
 Sultanhanı|38.247|33.550|TR|Aksaray|0
 Sulţānpūr-e ‘Ulyā|34.412|70.296|AF|Nangarhar|0
+Sulu|32.499|95.286|CN|Qinghai|0
 Sulūk|36.596|39.130|SY|Raqqa|0
 Sülüklü|38.881|32.343|TR|Konya|0

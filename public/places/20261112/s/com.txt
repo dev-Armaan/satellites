@@ -1,7 +1,7 @@
 Comoé District|5.504|-3.251|CI||125|r
 Comoros|-12.233|44.446|KM||119|c
 Comilla|23.462|91.185|BD|Chittagong|116
-Comayagua Department|14.583|-87.667|HN||111|r
+Comayagua Department|14.583|-87.667|HN||112|r
 Commonwealth|14.697|121.080|PH|National Capital Region|107
 Comitán|16.240|-92.137|MX|Chiapas|104
 Comodoro Rivadavia|-45.863|-67.494|AR|Chubut|103
@@ -41,10 +41,12 @@ Comala|19.324|-103.761|MX|Colima|80
 Comandante Luis Piedrabuena|-49.985|-68.915|AR|Santa Cruz|79
 Comber|54.549|-5.744|GB|Northern Ireland|79
 Comendador Levy Gasparian|-22.029|-43.205|BR|Rio de Janeiro|79
+Cominotto|36.014|14.319|MT|Il-Qala|79|f
 Commerce|33.247|-95.900|US|Texas|79
 Comacchio|44.695|12.182|IT|Emilia-Romagna|78
 Comines|50.775|3.001|BE|Wallonia|78
 Comana|44.171|26.145|RO|Giurgiu County|78
+Combin de Corbassière|45.977|7.281|CH|Valais|78|f
 Commentry|46.289|2.742|FR|Auvergne-Rhône-Alpes|77
 Commercy|48.761|5.591|FR|Grand Est|77
 Comandante Nicanor Otamendi|-38.111|-57.841|AR|Buenos Aires|77
@@ -57,25 +59,34 @@ Comstock Northwest|42.322|-85.518|US|Michigan|75
 Comişani|44.883|25.583|RO|Dâmbovița County|75
 Combourg|48.409|-1.751|FR|Brittany|75
 Comblain-au-Pont|50.475|5.577|BE|Wallonia|74
+Comilla Airport|23.437|91.190|BD|Chittagong|74|f
 Comoapan|18.407|-95.175|MX|Veracruz|74
 Combinado|-12.792|-46.539|BR|Tocantins|74
 Comillas|15.398|120.700|PH|Central Luzon|74
 Comachuén|19.572|-101.905|MX|Michoacán|74
 Comloşu Mare|45.891|20.627|RO|Timiș County|74
+Comodoro Pierrestegui Airport|-31.297|-57.997|AR|Entre Rios|73|f
+Comoro Islands|-12.000|44.250|KM||73|f
 Comerío|18.218|-66.226|PR|Comerío|73
 Comarna|47.050|27.783|RO|Iași County|73
 Comarapa|-17.915|-64.532|BO|Santa Cruz Department|73
 Comanche|31.897|-98.604|US|Texas|72
+Comau Inlet|-42.345|-72.480|CL|Los Lagos Region|72|f
+Comodoro P. Zanni Airport|-35.845|-61.858|AR|Buenos Aires|72|f
+Comoro Island|-11.586|43.333|KM|Grande Comore|72|f
 Compuertas|25.842|-109.019|MX|Sinaloa|72
 Communay|45.604|4.835|FR|Auvergne-Rhône-Alpes|72
 Comun Nuovo|45.623|9.662|IT|Lombardy|72
 Coma-ruga|41.180|1.525|ES|Catalonia|72
 Cómpeta|36.834|-3.974|ES|Andalusia|72
+Comandante Espora Airport|-38.729|-62.153|AR|Buenos Aires|71|f
+Commodore Reef|8.358|115.225|||71|f
 Combined Locks|44.266|-88.314|US|Wisconsin|71
 Comani|44.183|24.492|RO|Olt|71
 Combapata|-14.101|-71.429|PE|Cuzco Department|71
 Combrit|47.887|-4.161|FR|Brittany|70
 Comaltepec|19.859|-97.599|MX|Puebla|70
+Comodoro Arturo Merino Benítez International Airport|-33.393|-70.786|CL|Santiago Metropolitan|70|f
 Comillas Norte|16.959|120.747|PH|Ilocos|70
 Combes|26.249|-97.734|US|Texas|70
 Comanjilla|21.066|-101.473|MX|Guanajuato|69
@@ -83,6 +94,7 @@ Comagascas|9.140|125.560|PH|Caraga|69
 Commelle|46.001|4.058|FR|Auvergne-Rhône-Alpes|69
 Comendador Gomes|-19.698|-49.081|BR|Minas Gerais|69
 Communal|13.255|121.137|PH|Central Luzon|69
+Comino Island|36.012|14.337|MT|Ghajnsielem|69|f
 Combe Martin|51.199|-4.023|GB|England|69
 Combrée|47.704|-1.030|FR|Pays de la Loire|69
 Comeana|43.793|11.058|IT|Tuscany|69
@@ -98,6 +110,8 @@ Comberton|52.187|0.019|GB|England|67
 Comerio|45.842|8.742|IT|Lombardy|67
 Compton|51.024|-1.337|GB|England|67
 Combloux|45.898|6.644|FR|Auvergne-Rhône-Alpes|67
+Commerson Islands|-0.755|145.300|PG|Manus Province|67|f
+Compton Castle|50.472|-3.600|GB|England|67|f
 Comillas|43.386|-4.292|ES|Cantabria|67
 Combine|32.588|-96.509|US|Texas|66
 Compiobbi|43.785|11.359|IT|Tuscany|66
@@ -118,6 +132,9 @@ Compton|51.516|-1.255|GB|England|64
 Comanja|19.746|-101.691|MX|Michoacán|63
 Comapa|14.113|-89.915|GT|Jutiapa|63
 Compreignac|45.992|1.275|FR|New Aquitaine|63
+Combolcha Airport|11.111|39.725|ET|Amhara|63|f
+Comerica Park|42.339|-83.049|US|Michigan|63|f
+Commonwealth Range|-84.250|172.333|AQ||63|f
 Comares|36.849|-4.247|ES|Andalusia|63
 Combaillaux|43.677|3.766|FR|Occitanie|63
 Comapa|19.164|-96.887|MX|Veracruz|63
@@ -131,6 +148,12 @@ Como|34.511|-89.940|US|Mississippi|62
 Combrand|46.865|-0.689|FR|New Aquitaine|61
 Commer|48.240|-0.620|FR|Pays de la Loire|61
 Comer|34.064|-83.125|US|Georgia|61
+Comfort Lake|45.321|-92.948|US|Minnesota|61|f
+Commerce Municipal Airport|33.293|-95.896|US|Texas|61|f
+Commodore John Paul Jones Memorial|38.888|-77.039|US|District of Columbia|61|f
+Como Chamling|28.400|88.200|CN|Tibet|61|f
+Comox Valley Airport|49.711|-124.887|CA|British Columbia|61|f
+Compton/Woodley Airport|33.889|-118.242|US|California|61|f
 Comabbio|45.774|8.678|IT|Lombardy|61
 Comisarovca Nouă|47.331|29.347|MD|Transnistria|60
 Compertrix|48.942|4.346|FR|Grand Est|60
@@ -139,17 +162,116 @@ Combita|5.633|-73.317|CO|Boyacá|60
 Comana de Jos|45.914|25.231|RO|Brașov County|60
 Compuertas|25.746|-103.303|MX|Coahuila|60
 Cominio|42.312|13.432|IT|Abruzzo|60
+Commana|48.414|-3.957|FR|Brittany|60
 Comas|-11.718|-75.082|PE|Junin|60
+Coman|46.474|26.768|RO|Bacău County|59
+Comloșu Mic|45.852|20.669|RO|Timiș County|59
 Commezzadura|46.322|10.840|IT|Trentino-Alto Adige|59
+Çomak|37.524|37.992|TR|Adıyaman Province|59
 Comitini|37.407|13.645|IT|Sicily|59
+Çomaklı|37.289|30.243|TR|Antalya|59
+Comenda|39.400|-7.781|PT|Portalegre|59
 Commessaggio|45.038|10.545|IT|Lombardy|59
+Comrie|56.085|-3.577|GB|Scotland|59
+Comalteco|20.252|-97.474|MX|Veracruz|59
+Comoara|44.113|25.507|RO|Teleorman County|59
+Compañia|-13.069|-74.255|PE|Ayacucho|58
+Combles-en-Barrois|48.751|5.116|FR|Grand Est|58
+Comandante Gustavo Kraemer International Airport|-31.391|-54.112|BR|Rio Grande do Sul|58|f
+Comb Island|-63.409|-54.719|AQ||58|f
+Combat Air Museum|38.947|-95.684|US|Kansas|58|f
+Comer Range|-64.800|-63.433|AQ||58|f
+Compass Island|-68.636|-67.786|AQ||58|f
+Compton Glacier|-53.050|73.617|HM||58|f
+Çomranlı|41.483|32.067|TR|Zonguldak Province|58
+Comlăușa|48.052|23.156|RO|Satu Mare County|58
+Compans|48.995|2.665|FR|Île-de-France|58
 Comiziano|40.952|14.551|IT|Campania|58
+Comorâște|45.182|21.563|RO|Caraș-Severin County|58
 Comignago|45.715|8.564|IT|Piedmont|58
+Commenailles|46.803|5.453|FR|Bourgogne-Franche-Comté|57
+Como|33.061|-95.472|US|Texas|57
+Combles|50.009|2.867|FR|Hauts-de-France|57
+Comaltepec|16.579|-98.471|MX|Guerrero|57
+Comunidad Calmecayo|21.523|-98.874|MX|San Luis Potosí|57
+Complesso Agave|40.350|18.205|IT|Apulia|57
+Comet|-23.600|148.550|AU|Queensland|57
+Compton|-37.815|140.676|AU|South Australia|57
+Commelle|45.428|5.226|FR|Auvergne-Rhône-Alpes|57
+Comburindio|18.548|-100.970|MX|Michoacán|56
+Comblanchien|47.102|4.921|FR|Bourgogne-Franche-Comté|56
+Çömlekçi|41.525|32.079|TR|Zonguldak Province|56
+Combon|49.096|0.891|FR|Normandy|56
+Comanja de Corona|21.326|-101.713|MX|Jalisco|55
+Comparati|43.160|12.325|IT|Umbria|55
+Como|41.766|-89.767|US|Illinois|55
+Çömlekçi|39.495|28.042|TR|Balıkesir|55
+Compín|-7.699|-78.626|PE|La Libertad|55
+Combeaufontaine|47.710|5.891|FR|Bourgogne-Franche-Comté|55
+Comblessac|47.876|-2.084|FR|Brittany|55
+Comalander Stadium|29.549|-98.468|US|Texas|54|f
+Coman, Mount|-73.818|-64.296|AQ||54|f
+Comanche County-City Airport|31.917|-98.601|US|Texas|54|f
+Comanche Reservoir|40.584|-105.652|US|Colorado|54|f
+Comer Bridge|34.641|-85.977|US|Alabama|54|f
+Comet Peak|37.898|-114.586|US|Nevada|54|f
+Comfortlessbreen|78.767|12.161|SJ|Svalbard|54|f
+Commandant Charcot Glacier|-66.500|136.500|AQ||54|f
+Commandant Charcot Glacier Tongue|-66.367|136.583|AQ||54|f
+Commodore John Barry Statue|38.902|-77.031|US|District of Columbia|54|f
+Company Glacier|48.246|-120.864|US|Washington|54|f
+Comrie Glacier|-65.820|-64.215|AQ||54|f
+Compeyre|44.161|3.102|FR|Occitanie|54
 Compton Martin|51.311|-2.655|GB|England|54
+Combermere Abbey|52.994|-2.613|GB|England|49|f
+Combin de Valsorey|45.938|7.290|CH|Valais|49|f
+Combs, Mount|-73.483|-79.150|AQ||49|f
+Comer Crag|-54.023|-37.640|GS||49|f
+Comeragh Mountains|52.280|-7.566|IE|Munster|49|f
+Comitium|41.893|12.485|IT|Lazio|49|f
+Commanda Glacier|-77.500|162.933|AQ||49|f
+Commanda Lake|46.017|-79.716|CA|Ontario|49|f
+Commodore Island|58.788|-78.655|CA|Nunavut|49|f
+Commonwealth Glacier|-77.583|163.317|AQ||49|f
+Commonwealth Park|-35.290|149.137|AU|Australian Capital Territory|49|f
+Company E of the 167th Infantry of the Alabama National Guard Armory|34.349|-86.302|US|Alabama|49|f
+Compass Cay|24.267|-76.517|BS|Exuma|49|f
+Compton Island|50.595|-126.684|CA|British Columbia|49|f
+Computer Games Museum|52.518|13.442|DE|State of Berlin|49|f
 Comano|44.293|10.131|IT|Tuscany|49
 Comeglians|46.516|12.866|IT|Friuli Venezia Giulia|46
 Compiano|44.496|9.662|IT|Emilia-Romagna|42
+Comanche Creek Reservoir|32.288|-97.760|US|Texas|40|f
+Comanche Point|35.132|-118.822|US|California|40|f
+Comberiate Glacier|-78.350|162.233|AQ||40|f
+Combin de Boveire|45.965|7.271|CH|Valais|40|f
+Combin du Meitin|45.937|7.278|CH|Valais|40|f
+Combs Lake|43.625|-74.936|US|New York|40|f
+Comet Geyser|44.470|-110.844|US|Wyoming|40|f
+Comet Mountain|52.850|-127.170|CA|British Columbia|40|f
+Comet Mountain|45.460|-113.044|US|Montana|40|f
+Command Ridge Top of Nauru|-0.531|166.917|NR|Aiwo District|40|f
+Commander Mountain|50.417|-116.569|CA|British Columbia|40|f
+Commencement Bay|47.286|-122.445|US|Washington|40|f
+Commissioners Ledge|42.357|-70.905|US|Massachusetts|40|f
+Committee Bay|68.268|-86.899|CA|Nunavut|40|f
+Commonwealth Mountain|82.402|-76.746|CA|Nunavut|40|f
+Community Field|40.827|-91.136|US|Iowa|40|f
+Como Lake|49.260|-122.858|CA|British Columbia|40|f
+Como Lake Park|42.889|-78.658|US|New York|40|f
+Comox Glacier|49.550|-125.353|CA|British Columbia|40|f
+Comox Lake|49.621|-125.161|CA|British Columbia|40|f
+Company Lake|45.834|-61.051|CA|Nova Scotia|40|f
+Company's Garden|-33.927|18.417|ZA|Western Cape|40|f
+Complexo Desportivo da Covilhã|40.266|-7.499|PT|Castelo Branco|40|f
+Complutense University of Madrid|40.449|-3.727|ES|Madrid|40|f
+Compton Airport|45.223|-122.724|US|Oregon|40|f
+Compton Hill Reservoir Park|38.615|-90.240|US|Missouri|40|f
+Compton Névé|50.816|-124.186|CA|British Columbia|40|f
+Computer Science Institute - Federal Fluminense University|-22.907|-43.133|BR|Rio de Janeiro|40|f
+Comstock Covered Bridge|44.899|-72.644|US|Vermont|40|f
 Combinado|-12.814|-46.548|BR|Tocantins|0
 Cómbita|5.633|-73.324|CO|Boyacá|0
 Comité del Pueblo|-0.095|-78.528|EC|Pichincha|0
+Commune des Béni Bou Attab|35.995|1.618|DZ|Chlef|0
 Compton Dando|51.379|-2.514|GB|England|0

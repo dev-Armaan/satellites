@@ -16,8 +16,11 @@ Eden Prairie|44.855|-93.471|US|Minnesota|96
 Edgewater|41.983|-87.664|US|Illinois|95
 Edina|44.890|-93.350|US|Minnesota|94
 Edenvale|-26.141|28.152|ZA|Gauteng|94
+Edgeøya|77.750|22.500|SJ|Svalbard|93|f
+Edinburgh Airport|55.950|-3.373|GB|Scotland|93|f
 Edmonds|47.811|-122.377|US|Washington|92
 Edremit|39.596|27.024|TR|Balıkesir|92
+Edinburgh Castle|55.949|-3.200|GB|Scotland|90|f
 Edappāl|10.783|76.008|IN|Kerala|90
 Edacchēri|11.682|75.625|IN|Kerala|89
 Edavai|8.764|76.688|IN|Kerala|88
@@ -50,6 +53,7 @@ Edwards|39.645|-106.594|US|Colorado|80
 Eduardo Castex|-35.916|-64.296|AR|La Pampa|80
 Edgware|51.613|-0.275|GB|England|80
 Edgewood|47.250|-122.294|US|Washington|80
+Eden Project|50.362|-4.745|GB|England|80|f
 Edgewater|38.938|-76.557|US|Maryland|79
 Edgewood|39.019|-84.582|US|Kentucky|79
 Edgemere|39.242|-76.448|US|Maryland|79
@@ -64,9 +68,12 @@ Edam|52.512|5.048|NL|North Holland|77
 Edenderry|53.339|-7.048|IE|Leinster|77
 Edinburgh A|-24.690|31.180|ZA|Mpumalanga|77
 Eden Isle|30.229|-89.799|US|Louisiana|77
+Edinburgh Zoo|55.942|-3.269|GB|Scotland|77|f
 Edenkoben|49.284|8.127|DE|Rheinland-Pfalz|76
 Edinboro|41.874|-80.132|US|Pennsylvania|76
 Edertal|51.167|9.078|DE|Hesse|76
+Edgeley Park|53.400|-2.166|GB|England|75|f
+Edson Airport|53.579|-116.462|CA|Alberta|75|f
 Edna|28.979|-96.646|US|Texas|75
 Edissiya|44.051|44.541|RU|Stavropol Kray|75
 Edgemoor|39.750|-75.500|US|Delaware|75
@@ -82,6 +89,10 @@ Edgewood|41.873|-80.773|US|Ohio|73
 Edwardsville|39.061|-94.820|US|Kansas|73
 Edgartown|41.389|-70.513|US|Massachusetts|73
 Edsbyn|61.377|15.817|SE|Gävleborg|72
+Ed Koch Queensboro Bridge|40.757|-73.954|US|New York|72|f
+Edateku Jima|28.294|129.199|JP|Kagoshima|72|f
+Eday|59.183|-2.783|GB|Scotland|72|f
+Edmund Pettus Bridge|32.406|-87.018|US|Alabama|72|f
 Edealina|-17.424|-49.663|BR|Goiás|72
 Edolo|46.178|10.333|IT|Lombardy|72
 Edge Hill|-16.900|145.750|AU|Queensland|72
@@ -91,6 +102,8 @@ Edmondson Village|39.295|-76.682|US|Maryland|71
 Edemissen|52.387|10.261|DE|Lower Saxony|71
 Eden|42.652|-78.897|US|New York|71
 Edcouch|26.294|-97.961|US|Texas|70
+Edgar County Airport|39.700|-87.670|US|Illinois|70|f
+Edward F Johnson Airport|46.346|-87.787|US|Michigan|70|f
 Eden|-37.067|149.900|AU|New South Wales|70
 Ederveen|52.063|5.578|NL|Gelderland|70
 Edgewood|40.432|-79.881|US|Pennsylvania|70
@@ -100,6 +113,9 @@ Edgecliff Village|32.658|-97.343|US|Texas|69
 Edinburgh of the Seven Seas|-37.068|-12.312|SH|Tristan da Cunha|69
 Edgewood|28.486|-81.372|US|Florida|69
 Eden|31.216|-99.846|US|Texas|69
+Edgar Street|52.061|-2.718|GB|England|69|f
+Edith Cavell Memorial|51.509|-0.127|GB|England|69|f
+Edmonton International Airport|53.308|-113.584|CA|Alberta|69|f
 Eddyville|37.094|-88.080|US|Kentucky|68
 Edisto|33.477|-80.899|US|South Carolina|68
 Edgard|30.043|-90.560|US|Louisiana|68
@@ -109,6 +125,7 @@ Edneyville|35.394|-82.341|US|North Carolina|67
 Edgemont Park|42.747|-84.594|US|Michigan|67
 Edgworth|53.646|-2.394|GB|England|67
 Edesheim|49.263|8.135|DE|Rheinland-Pfalz|67
+Ed-Air Airport|38.858|-87.501|US|Indiana|67|f
 Eden|17.038|121.598|PH|Cagayan Valley|67
 Eddington|44.826|-68.693|US|Maine|67
 Edenfield|53.667|-2.305|GB|England|67
@@ -121,12 +138,17 @@ Edern|48.104|-3.978|FR|Brittany|66
 Eddington|40.085|-74.945|US|Pennsylvania|66
 Edgecumbe|-37.983|176.833|NZ|Bay of Plenty|66
 Edgewood|40.103|-85.734|US|Indiana|65
+Edøya|63.300|8.162|NO|Møre og Romsdal|65|f
+Edward Bodden Airfield|19.660|-80.088|KY|Sister Island|65|f
+Edward Jones Dome|38.633|-90.188|US|Missouri|65|f
+Edwards Mountain|48.623|-113.786|US|Montana|65|f
 Edgerton|38.765|-95.008|US|Kansas|65
 Edelira|-26.767|-55.279|PY|Itapúa|65
 Edgeworth|40.551|-80.193|US|Pennsylvania|64
 Edmonton|36.980|-85.612|US|Kentucky|64
 Edmonston|38.947|-76.931|US|Maryland|64
 Edison|31.558|-84.738|US|Georgia|63
+Edward F. Knapp State Airport|44.203|-72.564|US|Vermont|63|f
 Edgar|44.927|-89.963|US|Wisconsin|63
 Eddelak|53.950|9.147|DE|Schleswig-Holstein|63
 Edgewood|32.698|-95.885|US|Texas|63
@@ -140,6 +162,16 @@ Edersleben|51.417|11.283|DE|Saxony-Anhalt|61
 Ederheim|48.808|10.466|DE|Bavaria|61
 Edgerton|43.872|-96.129|US|Minnesota|61
 Edgecomb|43.958|-69.631|US|Maine|61
+Edasjön|59.802|17.900|SE|Uppsala|61|f
+Eday Airport|59.191|-2.772|GB|Scotland|61|f
+Eddrachillis Bay|58.300|-5.250|GB|Scotland|61|f
+Eddy Island|59.434|-80.466|CA|Nunavut|61|f
+Eden Glacier|-66.207|-63.221|AQ||61|f
+Edholma|59.416|18.335|SE|Stockholm|61|f
+Edmonton City Centre Airport|53.572|-113.521|CA|Alberta|61|f
+Edough|36.883|7.617|DZ|Annaba|61|f
+Eduardo Falla Solano Airport|2.148|-74.763|CO|Caquetá|61|f
+Eduardo Gomes International Airport|-3.039|-60.050|BR|Amazonas|61|f
 Edina|40.168|-92.173|US|Missouri|61
 Edgmond|52.774|-2.410|GB|England|61
 Ediger-Eller|50.117|7.150|DE|Rheinland-Pfalz|61
@@ -149,13 +181,138 @@ Edinburg|39.657|-89.390|US|Illinois|60
 Eden Valley|45.326|-94.546|US|Minnesota|60
 Edwards|32.330|-90.606|US|Mississippi|60
 Eddyville|41.157|-92.637|US|Iowa|60
+Edgcott|51.892|-1.010|GB|England|60
+Ēdole|57.021|21.691|LV|Kuldīga Municipality|60
 Edlitz|47.598|16.141|AT|Lower Austria|59
+Edenhope|-37.037|141.297|AU|Victoria|59
+Edzell|56.809|-2.656|GB|Scotland|59
+Edgewater|33.527|-86.958|US|Alabama|59
+Edgewood|42.644|-91.401|US|Iowa|59
+Eden|43.694|-88.361|US|Wisconsin|59
+Edmundson|38.736|-90.364|US|Missouri|58
+Eden|38.281|-75.651|US|Maryland|58
 Edith Weston|52.638|-0.632|GB|England|58
+Edon|41.556|-84.769|US|Ohio|58
+Eddie Dew Memorial Airpark|40.477|-80.629|US|Ohio|58|f
+Eddy Island|53.195|-8.980|IE|Connacht|58|f
+Edenton Municipal Airport|36.025|-76.566|US|North Carolina|58|f
+Edgewood Lake|41.781|-71.409|US|Rhode Island|58|f
+Edison Bridge|41.481|-82.836|US|Ohio|58|f
+Ediz Hook|48.139|-123.402|US|Washington|58|f
+Edlandsvatnet|58.761|5.873|NO|Rogaland|58|f
+Edman Island|-66.300|110.533|AQ||58|f
+Edong Chang Jiang Daqiao|30.260|115.073|CN|Hubei|58|f
+Edvard Ø|76.595|-21.349|GL||58|f
+Edward R Murrow Park|38.900|-77.042|US|District of Columbia|58|f
+Edwards Island|-31.029|115.325|AU|Western Australia|58|f
+Edwards Point|-62.462|-59.498|AQ||58|f
 Edelstal|48.100|16.988|AT|Burgenland|57
+Edgemont|43.301|-103.827|US|South Dakota|57
 Edington|51.276|-2.106|GB|England|57
+Edsvalla|59.435|13.209|SE|Värmland|57
 Edelsbach bei Feldbach|46.989|15.837|AT|Styria|57
 Edelsgrub|47.033|15.600|AT|Styria|57
+Edinboro|13.160|-61.236|VC|Saint Andrew Parish|57
+Edenburg|40.566|-75.960|US|Pennsylvania|57
+Ed Dahī|32.621|35.344|IL|Northern District|56
+Edane|59.629|12.826|SE|Värmland|56
+Edmeston|42.698|-75.244|US|New York|56
+Edramsberg|48.312|14.173|AT|Upper Austria|56
+Edingale|52.707|-1.689|GB|England|56
+Edmondthorpe|52.750|-0.726|GB|England|56
+Edelhof|48.118|14.560|AT|Lower Austria|56
+Eden|41.300|-111.812|US|Utah|56
+Edingworth|51.275|-2.923|GB|England|56
+Edendale|-46.317|168.783|NZ|Southland|55
+Edsbro|59.893|18.492|SE|Stockholm|55
+Edgerton|39.505|-94.633|US|Missouri|55
+Edgeley|46.359|-98.716|US|North Dakota|55
+Edinakovci|41.260|21.249|MK|Demir Hisar|55
+Edlbach|47.715|14.345|AT|Upper Austria|55
+Edgewood|42.241|-88.921|US|Illinois|55
+Edeline Islands|-16.369|123.610|AU|Western Australia|54|f
+Eden Gardens State Park|30.378|-86.122|US|Florida|54|f
+Edgar Brown Memorial Stadium|46.235|-119.111|US|Washington|54|f
+Edge Creek|38.738|-76.213|US|Maryland|54|f
+Edgeley Municipal Airport|46.354|-98.736|US|North Dakota|54|f
+Edgell, Mount|-69.429|-68.258|AQ||54|f
+Edgewater Park|39.930|-91.415|US|Illinois|54|f
+Edholm Point|-66.235|-67.057|AQ||54|f
+Edinboro Lake|41.885|-80.136|US|Pennsylvania|54|f
+Edinburg Baseball Stadium|26.308|-98.171|US|Texas|54|f
+Edinburg Rio Grande Valley Regional Freight Terminal Airport|26.442|-98.130|US|Texas|54|f
+Edisto Ice Tongue|-66.167|100.617|AQ||54|f
+Edisto Rocks|-68.214|-67.115|AQ||54|f
+Edmonton/Cooking Lake Airport|53.426|-113.110|CA|Alberta|54|f
+Edmonton/Villeneuve Airport|53.667|-113.854|CA|Alberta|54|f
+Edmunds Glacier|46.868|-121.813|US|Washington|54|f
+Eduard Alexander Gummels Airport|5.860|-55.193|SR|Paramaribo District|54|f
+Edward Peak|47.515|-120.758|US|Washington|54|f
+Edwards Run Wildlife Management Area|39.323|-78.438|US|West Virginia|54|f
+Ed Dumeidā|32.815|35.227|IL|Northern District|54
+Edlau|51.667|11.817|DE|Saxony-Anhalt|54
+Edsevö|63.635|22.857|FI|Ostrobothnia|54
 Edelstauden|46.983|15.617|AT|Styria|53
+Eddy Point|-62.231|-58.969|AQ||49|f
+Eddystone|-43.850|147.000|AU|Tasmania|49|f
+Edenhouse Point|36.043|-76.707|US|North Carolina|49|f
+Edgar Dam|-43.029|146.345|AU|Tasmania|49|f
+Edge Glacier|-82.495|-51.051|AQ||49|f
+Edgeworth Glacier|-64.327|-59.877|AQ||49|f
+Ediacara Conservation Park|-30.805|138.136|AU|South Australia|49|f
+Edinburgh Peak|-40.309|-9.946|SH|Tristan da Cunha|49|f
+Edisto Glacier|-72.450|169.883|AQ||49|f
+Edith Falls|-14.183|132.183|AU|Northern Territory|49|f
+Edixon, Mount|-71.817|163.583|AQ||49|f
+Edmond Island|42.083|-83.194|US|Michigan|49|f
+Edmonds Historical Museum|47.811|-122.377|US|Washington|49|f
+Edmundston Airport|47.487|-68.477|CA|New Brunswick|49|f
+Edred, Mount|-70.565|-68.991|AQ||49|f
+Edward Ridge|-67.217|55.567|AQ||49|f
+Edward VII Peninsula|-77.667|-155.000|AQ||49|f
+Edwards Islands|-66.850|50.483|AQ||49|f
+Edwards Islet|-40.599|144.782|AU|Tasmania|49|f
+Edwards Peninsula|-72.050|-97.500|AQ||49|f
+Edwards Pillar|-73.077|66.332|AQ||49|f
+Ed Bird-Estella Lakes Park|56.933|-125.103|CA|British Columbia|40|f
+Ed R Levin Park|37.467|-121.857|US|California|40|f
+Edburton Castle Ring|50.885|-0.242|GB|England|40|f
+Eden Camp|54.152|-0.780|GB|England|40|f
+Eden Island|63.151|-67.714|CA|Nunavut|40|f
+Eden Lake|45.396|-62.295|CA|Nova Scotia|40|f
+Eden Mountain|50.233|-126.253|CA|British Columbia|40|f
+Eden Park|-36.868|174.740|NZ|Auckland|40|f
+Eden Peak|52.188|-117.734|CA|Alberta|40|f
+Edenville Dam|43.816|-84.385|US|Michigan|40|f
+Edgar Allan Poe National Historic Site|39.962|-75.150|US|Pennsylvania|40|f
+Edge Peak|49.357|-122.498|CA|British Columbia|40|f
+Edgegrain Mountain|54.033|-120.353|CA|British Columbia|40|f
+Edgell Island|61.817|-65.048|CA|Nunavut|40|f
+Edgemont Memorial Park|40.831|-74.212|US|New Jersey|40|f
+Edgerton Park|41.335|-72.914|US|Connecticut|40|f
+Edgewood Lake|28.568|-81.750|US|Florida|40|f
+Edgeworth Island|73.885|-97.201|CA|Nunavut|40|f
+Edinburgh Island|68.518|-110.853|CA|Nunavut|40|f
+Edison Bridge|26.654|-81.871|US|Florida|40|f
+Edith Lake|43.977|-114.959|US|Idaho|40|f
+Edlingham Castle|55.377|-1.818|GB|England|40|f
+Edmonson Point|-74.333|165.133|AQ||40|f
+Edmund Walker Island|77.118|-104.187|CA|Nunavut|40|f
+Edna Lake|43.971|-114.992|US|Idaho|40|f
+Edsbergs Slott|59.441|17.956|SE|Stockholm|40|f
+Edsviken|59.415|17.994|SE|Stockholm|40|f
+Eduardo Avaroa Andean Fauna National Reserve|-22.467|-67.467|BO|Potosí Department|40|f
+Edward Ball Wakulla Springs State Park|30.235|-84.298|US|Florida|40|f
+Edward Island|48.383|-88.617|CA|Ontario|40|f
+Edwards Glacier|-71.583|160.500|AQ||40|f
+Edwards Island|44.372|-89.849|US|Wisconsin|40|f
+Edwards Lake|32.810|-83.554|US|Georgia|40|f
+Edwards Pond|42.006|-74.990|US|New York|40|f
+Edwards Range|52.216|-126.220|CA|British Columbia|40|f
+Edwards Track Stadium|37.869|-122.265|US|California|40|f
+Edworthy Park|51.061|-114.156|CA|Alberta|40|f
 Edt bei Lambach|48.117|13.883|AT|Upper Austria|28
 Edincik|40.342|27.861|TR|Balıkesir|0
+Edling|48.056|12.165|DE|Bavaria|0
+Edo|-8.310|121.728|ID|East Nusa Tenggara|0
 Edworth|52.056|-0.217|GB|England|0

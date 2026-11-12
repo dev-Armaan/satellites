@@ -1,12 +1,13 @@
-Sibiu County|45.784|24.144|RO||112|r
+Sibiu County|45.784|24.144|RO||113|r
 Sibu|2.300|111.817|MY|Sarawak|106
 Sibiu|45.800|24.150|RO|Sibiu County|103
 Sibolga|1.740|98.781|ID|North Sumatra|99
-Šibenik-Knin|43.833|15.917|HR||97|r
+Šibenik-Knin|43.833|15.917|HR||98|r
 Sibi|29.543|67.877|PK|Balochistan|96
 Sibsāgar|26.984|94.638|IN|Assam|96
 Sibay|52.718|58.667|RU|Bashkortostan Republic|96
 Sibonga|10.017|123.617|PH|Central Visayas|95
+Sibuyan Sea|12.626|122.484|PH||94|f
 Sibu Jaya|2.240|111.971|MY|Sarawak|91
 Sibiti|-3.682|13.350|CG|Lékoumou|90
 Sibut|5.718|19.074|CF|Kémo|90
@@ -18,6 +19,7 @@ Sibaté|4.492|-74.260|CO|Cundinamarca|87
 Sibbo|60.378|25.269|FI|Uusimaa|87
 Sibanicú|21.236|-77.526|CU|Camagüey|85
 Si Bun Rueang|16.967|102.276|TH|Nong Bua Lamphu|82
+Sibu Airport|2.262|111.985|MY|Sarawak|82|f
 Sibirskiy|53.580|83.767|RU|Altai Krai|82
 Sibundoy|1.203|-76.923|CO|Putumayo Department|80
 Sibulan|6.934|125.462|PH|Davao Region|79
@@ -25,21 +27,25 @@ Sibul|15.169|121.062|PH|Central Luzon|78
 Sibassor|14.186|-16.159|SN|Kaolack|78
 Sibalom|10.790|122.018|PH|Western Visayas|77
 Sibirtsevo|44.202|132.461|RU|Primorye|77
+Sibiti Airport|-3.746|13.412|CG|Lékoumou|76|f
 Sibagat|8.822|125.698|PH|Caraga|74
 Sibabli|6.937|-7.164|CI|Montagnes|73
 Sible Hedingham|51.978|0.593|GB|England|71
 Sibulan|14.750|121.933|PH|Calabarzon|71
 Sibutao|8.592|123.486|PH|Zamboanga Peninsula|71
 Sibuco|7.291|122.066|PH|Zamboanga Peninsula|70
+Sibut Airport|5.733|19.083|CF|Kémo|70|f
 Sibulao|7.324|122.239|PH|Zamboanga Peninsula|69
 Sibucao|10.418|122.887|PH|Western Visayas|69
 Sibbesse|52.050|9.900|DE|Lower Saxony|69
 Sibley|43.399|-95.752|US|Iowa|69
 Şibot|45.950|23.333|RO|Alba County|68
 Sibul|15.800|121.000|PH|Central Luzon|67
+Siberut|-1.365|98.922|ID|West Sumatra|67|f
 Sibaguan|11.558|122.714|PH|Western Visayas|67
 Sibinj|45.192|17.908|HR|Brod-Posavina|66
 Sibari|39.747|16.455|IT|Calabria|66
+Siberia Airport|-37.175|-72.065|CL|Ñuble|65|f
 Sibinal|15.150|-92.049|GT|San Marcos|64
 Sibsey|53.039|0.016|GB|England|63
 Sibret|49.971|5.635|BE|Wallonia|63
@@ -54,10 +60,40 @@ Sibřina|50.057|14.669|CZ|Central Bohemia|61
 Sibirinakaha|9.002|-6.092|CI|Savanes District|60
 Sibbe|50.844|5.826|NL|Limburg|60
 Sibraguhé|6.822|-6.656|CI|Sassandra-Marahoue|60
+Sibiciu de Sus|45.337|26.363|RO|Buzău County|60
+Siberia|16.618|-92.293|MX|Chiapas|60
+Sibi Airport|29.550|67.883|PK|Balochistan|58|f
+Sībīyār|33.067|44.250|IQ|Baghdad|58|f
+Šibice|45.861|15.778|HR|Zagreb County|58
+Sibito|13.383|-15.733|GM|Lower River|57
+Sibiciu de Jos|45.318|26.377|RO|Buzău County|56
+Sibișel|45.750|23.250|RO|Hunedoara County|56
+Šiba|49.232|21.228|SK|Prešov Region|56
+Sibajahui|26.149|-108.737|MX|Sinaloa|56
+Sībon|36.821|49.739|IR|Gilan Province|55
 Sibayo|-15.487|-71.457|PE|Arequipa|54
+Sibley Lake|46.593|-94.324|US|Minnesota|54|f
+Sibutu Island|4.771|119.487|PH|Autonomous Region in Muslim Mindanao|54|f
 Sibratsgfäll|47.427|10.038|AT|Vorarlberg|52
+Sibay Airport|52.689|58.716|RU|Bashkortostan Republic|49|f
+Sibbersdorfer See|54.156|10.645|DE|Schleswig-Holstein|49|f
+Sibelius Glacier|-69.910|-69.961|AQ||49|f
+Sibi Kuroto Forest Park|13.317|-14.367|GM|Upper River|49|f
+Sibsey Island|-34.647|136.184|AU|South Australia|49|f
+Sibuguey Bay|7.500|122.667|PH|Zamboanga Peninsula|49|f
+Sibuyan Island|12.442|122.571|PH|Mimaropa|49|f
+Sibbald Point Provincial Park|44.325|-79.325|CA|Ontario|40|f
+Sibley Lake Dam|31.755|-93.109|US|Louisiana|40|f
+Sibley Lake National Wildlife Refuge|47.525|-98.342|US|North Dakota|40|f
+Sibley Peninsula|48.417|-88.750|CA|Ontario|40|f
+Sibley Railroad Bridge|39.180|-94.179|US|Missouri|40|f
+Sibley State Park|45.320|-95.023|US|Minnesota|40|f
+Sibola Range|53.750|-127.253|CA|British Columbia|40|f
+Sibton Abbey|52.276|1.466|GB|England|40|f
 Si Banphot|7.721|99.884|TH|Phatthalung|0
 Sibambe|-2.226|-78.891|EC|Chimborazo Province|0
+Sibao|25.895|116.706|CN|Fujian|0
+Sibaozi|35.839|102.770|CN|Gansu|0
 Sibigo|2.838|95.913|ID|Aceh|0
 Siborong-Borong|2.213|98.973|ID|North Sumatra|0
 Sibreh|5.519|95.373|ID|Aceh|0

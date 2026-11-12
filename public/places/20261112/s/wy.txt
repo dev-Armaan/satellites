@@ -1,4 +1,4 @@
-Wyoming|43.000|-107.501|US||112|r
+Wyoming|43.000|-107.501|US||113|r
 Wyoming|42.913|-85.705|US|Michigan|98
 Wylie|33.015|-96.539|US|Texas|93
 Wyszków|52.593|21.458|PL|Mazovia|88
@@ -21,6 +21,7 @@ Wynyard|-40.990|145.726|AU|Tasmania|75
 Wyndmoor|40.081|-75.189|US|Pennsylvania|75
 Wyrzysk|53.153|17.268|PL|Greater Poland|74
 Wyk auf Föhr|54.691|8.567|DE|Schleswig-Holstein|73
+Wyre|59.117|-2.967|GB|Scotland|72|f
 Wyhl|48.166|7.649|DE|Baden-Wurttemberg|71
 Wyry|50.133|18.901|PL|Silesia|70
 Wynantskill|42.697|-73.644|US|New York|70
@@ -39,11 +40,17 @@ Wysoka Głogowska|50.160|22.021|PL|Subcarpathia|67
 Wysoka Strzyżowska|49.831|21.741|PL|Subcarpathia|67
 Wynigen|47.106|7.667|CH|Bern|66
 Wye|51.182|0.937|GB|England|66
+Wyndham Airport|-15.511|128.153|AU|Western Australia|65|f
+Wynoochee Dam|47.385|-123.606|US|Washington|65|f
 Wyreema|-27.656|151.855|AU|Queensland|65
 Wynyard|51.767|-104.184|CA|Saskatchewan|65
 Wynau|47.256|7.816|CH|Bern|64
 Wy Yung|-37.800|147.583|AU|Victoria|64
 Wysoka|49.907|19.604|PL|Lesser Poland|64
+Wycamp Lake|45.661|-84.966|US|Michigan|63|f
+Wynn Mountain|48.776|-113.599|US|Montana|63|f
+Wyoming Peak|42.604|-110.624|US|Wyoming|63|f
+Wyoming Range|42.734|-110.613|US|Wyoming|63|f
 Wyoming|39.118|-75.559|US|Delaware|63
 Wymore|40.122|-96.663|US|Nebraska|63
 Wylam|54.977|-1.822|GB|England|63
@@ -53,6 +60,83 @@ Wymiarki|51.511|15.082|PL|Lubusz|62
 Wymeswold|52.805|-1.113|GB|England|62
 Wyssachen|47.079|7.829|CH|Bern|62
 Wysoka|50.430|19.354|PL|Silesia|62
+Wyanet|41.365|-89.584|US|Illinois|60
+Wyndham|-15.487|128.124|AU|Western Australia|59
+Wynndel|49.180|-116.552|CA|British Columbia|59
 Wyśmierzyce|51.625|20.814|PL|Mazovia|59
+Wybunbury|53.045|-2.452|GB|England|59
+Wylewa|50.192|22.623|PL|Subcarpathia|59
+Wyck Island|-64.650|-62.074|AQ||58|f
+Wysoka|49.620|19.848|PL|Lesser Poland|58
+Wyocena|43.496|-89.308|US|Wisconsin|57
+Wysoka Lelowska|50.636|19.338|PL|Silesia|57
+Wysokie|49.654|20.544|PL|Lesser Poland|57
+Wysokie|50.754|23.222|PL|Lublin|57
+Wysoka|50.024|17.819|PL|Opole Voivodeship|56
+Wyalong|-33.926|147.243|AU|New South Wales|56
+Wycheproof|-36.078|143.227|AU|Victoria|56
 Wysokie|50.911|22.666|PL|Lublin|56
+Wysoka|52.777|15.038|PL|Lubusz|55
+Wyalusing|41.668|-76.262|US|Pennsylvania|55
+Wymysłów|50.411|18.987|PL|Silesia|55
+Wyndham|-46.333|168.850|NZ|Southland|55
+Wyatt Island|-67.338|-67.686|AQ||54|f
+Wynyard Airport|-40.999|145.731|AU|Tasmania|54|f
+Wyrówno|54.061|17.822|PL|Pomerania|54|f
+Wye|46.953|-114.121|US|Montana|54
+Wyoming|42.059|-91.007|US|Iowa|54
+Wymysłów|50.969|21.343|PL|Świętokrzyskie|54
+Wymondham|52.760|-0.741|GB|England|54
+Wyandot Point|-77.383|168.067|AQ||49|f
+Wyandot Ridge|-76.600|160.500|AQ||49|f
+Wyangala Dam|-33.974|148.950|AU|New South Wales|49|f
+Wyatt Earp Islands|-68.359|78.540|AQ||49|f
+Wyatt Earp, Mount|-77.567|-86.417|AQ||49|f
+Wyatt Glacier|-68.312|-66.163|AQ||49|f
+Wyatt, Mount|-86.767|-154.000|AQ||49|f
+Wyche Island|-66.228|110.582|AQ||49|f
+Wycheproof Airport|-36.064|143.240|AU|Victoria|49|f
+Wylie Island|37.456|-80.866|US|West Virginia|49|f
+Wyman Dam|45.070|-69.906|US|Maine|49|f
+Wymondley Castle|51.941|-0.234|GB|England|49|f
+WYAJ-FM (Sudbury)|42.375|-71.407|US|Massachusetts|40|f
+WYAL-AM (Scotland Neck)|36.134|-77.431|US|North Carolina|40|f
+Wyalusing State Park|42.992|-91.122|US|Wisconsin|40|f
+WYAV-FM (Conway)|33.591|-79.048|US|South Carolina|40|f
+WYCC-TV (Chicago)|41.899|-87.623|US|Illinois|40|f
+Wyckoff Glacier|-84.183|164.667|AQ||40|f
+Wye Oak State Park|38.939|-76.081|US|Maryland|40|f
+WYEA-AM (Sylacauga)|33.188|-86.235|US|Alabama|40|f
+WYES-TV (New Orleans)|29.954|-89.950|US|Louisiana|40|f
+Wyeth Glacier|48.495|-120.939|US|Washington|40|f
+WYFF-TV (Greenville)|35.111|-82.605|US|South Carolina|40|f
+WYFJ-FM (Ashland)|37.746|-77.495|US|Virginia|40|f
+WYFK-FM (Columbus)|32.668|-84.955|US|Georgia|40|f
+WYFT-FM (Luray)|38.638|-78.401|US|Virginia|40|f
+WYKO-AM (Sabana Grande)|18.071|-66.951|PR|Sabana Grande|40|f
+WYKR-FM (Haverhill)|44.114|-71.981|US|New Hampshire|40|f
+Wylde Glacier|-73.533|166.700|AQ||40|f
+Wylie Ridge|-71.850|168.450|AQ||40|f
+WYLS-AM (York)|32.523|-88.258|US|Alabama|40|f
+WYMG-FM (Jacksonville)|39.661|-89.922|US|Illinois|40|f
+WYMT-TV (Hazard)|37.194|-83.181|US|Kentucky|40|f
+WYNC-AM (Yanceyville)|36.415|-79.335|US|North Carolina|40|f
+Wyndham-Carseland Provincial Park|50.823|-113.447|CA|Alberta|40|f
+WYNK-FM (Baton Rouge)|30.327|-91.277|US|Louisiana|40|f
+Wynnewood|36.394|-86.316|US|Tennessee|40|f
+Wynniatt Bay|72.777|-110.823|CA|Northwest Territories|40|f
+Wyodak Strip Mine|44.289|-105.391|US|Wyoming|40|f
+Wyoming Monument|41.306|-75.845|US|Pennsylvania|40|f
+WYRV-AM (Cedar Bluff)|37.085|-81.768|US|Virginia|40|f
+WYRY-FM (Hinsdale)|42.776|-72.455|US|New Hampshire|40|f
+WYSP-FM (Philadelphia)|40.043|-75.240|US|Pennsylvania|40|f
+Wyssegga|46.199|7.748|CH|Valais|40|f
+Wysshorn|46.443|7.954|CH|Valais|40|f
+WYSU-FM (Youngstown)|41.057|-80.645|US|Ohio|40|f
+WYTN-FM (Youngstown)|41.058|-80.645|US|Ohio|40|f
+WYTV-TV (Youngstown)|41.062|-80.635|US|Ohio|40|f
+WYUS-AM (Milford)|38.928|-75.489|US|Delaware|40|f
+WYUU-FM (Safety Harbor)|27.843|-82.814|US|Florida|40|f
+WYXC-AM (Cartersville)|34.210|-84.797|US|Georgia|40|f
+WYZZ-TV (Bloomington)|40.646|-89.179|US|Illinois|40|f
 Wyszki|52.841|22.981|PL|Podlasie|0

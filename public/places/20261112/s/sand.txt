@@ -19,6 +19,7 @@ San Donato|45.082|7.665|IT|Piedmont|90
 Sandaoling Lutiankuang Wuqi Nongchang|43.015|92.883|CN|Xinjiang|90
 Sandanski|41.567|23.283|BG|Blagoevgrad|89
 San Donato Milanese|45.410|9.268|IT|Lombardy|89
+Sandefjord Airport|59.187|10.259|NO|Vestfold|89|f
 Sandusky|41.449|-82.708|US|Ohio|88
 Sandomierz|50.683|21.749|PL|Świętokrzyskie|88
 Sāndi|27.289|79.952|IN|Uttar Pradesh|88
@@ -32,23 +33,30 @@ Sandbach|53.145|-2.363|GB|England|85
 San Diego|9.900|-84.002|CR|Cartago Province|85
 Sandaun Province|-3.500|142.000|PG||84|r
 Sandalfoot Cove|26.339|-80.187|US|Florida|84
+San Diego International Airport|32.732|-117.197|US|California|83|f
 Sandhausen|49.343|8.659|DE|Baden-Wurttemberg|83
+Sandia Mountains|35.198|-106.434|US|New Mexico|83|f
+San Diego State University|32.776|-117.071|US|California|82|f
 Sandringham|-36.888|174.730|NZ|Auckland|82
 Sanderstead|51.336|-0.078|GB|England|82
 Sandy Hill|45.425|-75.679|CA|Ontario|82
 Sandy Bay|-42.894|147.324|AU|Tasmania|81
 Sandy|52.129|-0.289|GB|England|81
+Sandakan Airport|5.901|118.059|MY|Sabah|81|f
+Sandspit Airport|53.254|-131.814|CA|British Columbia|81|f
 Sandringham|-37.952|145.011|AU|Victoria|81
 Sandy|45.397|-122.261|US|Oregon|81
 Sandoná|1.286|-77.469|CO|Nariño|80
 San Diego Country Estates|33.007|-116.784|US|California|80
 Sande|53.505|8.014|DE|Lower Saxony|79
 Sandymount|53.328|-6.222|IE|Leinster|79
+Sandys|32.293|-64.868|BM||79|r
 Sandpoint|48.277|-116.553|US|Idaho|78
 Sande|41.702|-8.392|PT|Braga|78
 Sándorfalva|46.361|20.099|HU|Csongrád|78
-Sandys|32.293|-64.868|BM||78|r
 Sandys Parish|32.296|-64.869|BM|Sandys|78
+San Diego Zoo|32.737|-117.152|US|California|78|f
+Sandnessjøen Airport, Stokka|65.957|12.469|NO|Nordland|78|f
 Sandston|37.523|-77.316|US|Virginia|78
 Sandwich|41.646|-88.622|US|Illinois|77
 San Diego de la Unión|21.468|-100.873|MX|Guanajuato|77
@@ -56,24 +64,30 @@ San Donaci|40.449|17.923|IT|Apulia|77
 San Daniele del Friuli|46.157|13.007|IT|Friuli Venezia Giulia|77
 Sandersdorf|51.628|12.265|DE|Saxony-Anhalt|76
 Sandim|41.035|-8.507|PT|Porto|76
+Sand Point Airport|55.314|-160.522|US|Alaska|76|f
 Sandrigo|45.661|11.589|IT|Veneto|76
 Sândominic|46.584|25.780|RO|Harghita County|76
 Sandown|42.929|-71.187|US|New Hampshire|75
+Sandal Castle|53.659|-1.491|GB|England|75|f
 Sandnessjøen|66.022|12.632|NO|Nordland|75
 San Donnino|43.795|11.147|IT|Tuscany|75
 Sandersville|32.982|-82.810|US|Georgia|75
 San Dionisio Ocotepec|16.797|-96.396|MX|Oaxaca|75
 San Diego de Alejandría|20.993|-101.993|MX|Jalisco|75
 San Dieguito Xochimanca|19.491|-98.825|MX|México|74
+San Diego Bay|32.650|-117.134|US|California|74|f
+Sanderson Field|47.233|-123.147|US|Washington|74|f
 San Damián Texoloc|19.278|-98.285|MX|Tlaxcala|74
 Sandiat Centro|17.073|121.638|PH|Cagayan Valley|74
 Sandwich|51.272|1.338|GB|England|74
+Sand Island|21.308|-157.883|US|Hawaii|73|f
 Sandy Bay|18.449|-78.073|JM|Hanover|73
 San Donato di Lecce|40.267|18.183|IT|Apulia|73
 Sand Bluff|19.318|-81.088|KY||73
 San Diego|27.764|-98.239|US|Texas|73
 San Damiano d'Asti|44.833|8.064|IT|Piedmont|73
 Sănduleni|46.450|26.733|RO|Bacău County|73
+Sandy Lake Airport|53.064|-93.344|CA|Ontario|72|f
 Sanddrif|-33.983|23.996|ZA|Eastern Cape|72
 Sandata|46.271|41.758|RU|Rostov|72
 San Dionisio|12.760|-85.850|NI|Matagalpa Department|72
@@ -83,6 +97,7 @@ Sandovo|58.464|36.415|RU|Tver Oblast|72
 Sandıklı|37.845|27.733|TR|Aydın|72
 San Diego Alcalá|19.451|-99.621|MX|México|72
 Sandia|-14.321|-69.465|PE|Puno|71
+Sandhornøya|67.104|14.076|NO|Nordland|71|f
 Sandovalina|-22.456|-51.763|BR|São Paulo|71
 Sandolot|9.105|123.019|PH|Central Visayas|71
 Sandillon|47.845|2.032|FR|Centre-Val de Loire|71
@@ -92,6 +107,7 @@ Sandayong Sur|10.496|123.999|PH|Central Visayas|71
 San Diego los Padres Cuexcontitlán Sección 5 B|19.376|-99.612|MX|México|70
 Sandia Heights|35.177|-106.491|US|New Mexico|70
 Sand|49.986|10.586|DE|Bavaria|70
+Sand Island|23.715|119.556|TW|Taiwan|70|f
 San Dionisio del Mar|16.324|-94.758|MX|Oaxaca|70
 Sandy Point Town|17.359|-62.849|KN|Saint Anne Sandy Point|70
 San Dionisio|11.271|123.096|PH|Western Visayas|70
@@ -102,6 +118,10 @@ Sandberg|50.348|10.008|DE|Bavaria|69
 San Damaso|44.601|10.974|IT|Emilia-Romagna|69
 Sandstone|46.131|-92.867|US|Minnesota|69
 Sands Point|40.852|-73.719|US|New York|69
+Sandøya|62.817|6.586|NO|Møre og Romsdal|69|f
+Sandsøya|68.955|16.696|NO|Troms|69|f
+Sandsøya|62.255|5.428|NO|Møre og Romsdal|69|f
+Sandwich Mountain|43.900|-71.498|US|New Hampshire|69|f
 Sandusky|43.420|-82.830|US|Michigan|68
 San Diego la Huerta|19.145|-99.633|MX|México|68
 Sandweiler|49.615|6.222|LU|Luxembourg|68
@@ -111,6 +131,7 @@ Sandougou Soba|7.601|-7.479|CI|Montagnes|68
 Sandane|61.773|6.215|NO|Vestland|68
 San Diego del Cerrito|19.509|-100.007|MX|México|68
 San Demetrio Corone|39.570|16.361|IT|Calabria|67
+Sandusky Bay|41.479|-82.841|US|Ohio|67|f
 Sandy Beach|-30.147|153.192|AU|New South Wales|67
 Sandrà|45.461|10.787|IT|Veneto|67
 Sand Hill|17.640|-88.368|BZ|Belize District|67
@@ -122,6 +143,12 @@ Sandsund|63.648|22.730|FI|Ostrobothnia|66
 Sandrégué|10.050|-5.819|CI|Savanes District|66
 San Diego el Organal|18.731|-98.517|MX|Puebla|66
 Sănduleşti|46.583|23.717|RO|Cluj County|65
+San Diego Museum of Man|32.731|-117.153|US|California|65|f
+Sand Mountain|39.309|-118.397|US|Nevada|65|f
+Sands Key|25.502|-80.184|US|Florida|65|f
+Sandstone Peak|34.120|-118.932|US|California|65|f
+Sandwich Harbour|-23.390|14.483|NA|Erongo Region|65|f
+Sandy Bay Mountain|45.754|-70.394|US|Maine|65|f
 Sandford|-42.933|147.500|AU|Tasmania|65
 San Donato|43.703|10.788|IT|Tuscany|65
 San Diego Huehuecalco|19.092|-98.764|MX|México|65
@@ -134,6 +161,14 @@ San Diego de Los Baños|22.647|-83.368|CU|Pinar del Río|64
 Sandesneben|53.689|10.487|DE|Schleswig-Holstein|64
 Sandgerði|64.038|-22.708|IS|Southern Peninsula|64
 Sandridge|51.781|-0.305|GB|England|64
+Sandbostel Concentration Camp|53.398|9.113|DE|Lower Saxony|63|f
+Sandnesvatnet|67.851|15.992|NO|Nordland|63|f
+Sandpoint Airport|48.297|-116.563|US|Idaho|63|f
+Sandskär|65.574|23.749|SE|Norrbotten|63|f
+Sandstone Island|-38.330|145.210|AU|Victoria|63|f
+Sandsvatn|61.847|-6.819|FO|Sandoy|63|f
+Sandviksfjellet|60.410|5.340|NO|Vestland|63|f
+Sandy Bay|22.270|114.121|HK||63|f
 San Diego|19.008|-99.654|MX|Morelos|63
 Sandy|41.108|-78.771|US|Pennsylvania|63
 Sand Lake|44.319|-83.685|US|Michigan|63
@@ -156,6 +191,19 @@ Sandia Knolls|35.164|-106.311|US|New Mexico|62
 San Daniele Po|45.067|10.176|IT|Lombardy|61
 San Diego de Alcalá|20.030|-100.864|MX|Guanajuato|61
 Sand|48.383|7.612|FR|Grand Est|61
+San Diego Aerospace Museum|32.726|-117.154|US|California|61|f
+Sand Cay|10.375|114.480|CN||61|f
+Sand Island|46.979|-90.949|US|Wisconsin|61|f
+Sand Rock Peak|34.369|-118.606|US|California|61|f
+Sandakphū|27.103|88.001|IN|West Bengal|61|f
+Sandhøhallet Glacier|-71.867|9.833|AQ||61|f
+Sandøya|58.592|9.048|NO|Agder|61|f
+Sandøyna|60.890|4.999|NO|Vestland|61|f
+Sandsjøen|64.434|13.683|NO|Trøndelag|61|f
+Sandusky City Airport|43.456|-82.834|US|Michigan|61|f
+Sandwick Lake|47.708|-93.558|US|Minnesota|61|f
+Sandy Bay Island|-52.194|-58.802|FK||61|f
+Sandy Cape|-24.703|153.260|AU|Queensland|61|f
 San Defendente|44.391|7.491|IT|Piedmont|61
 Sandau|52.790|12.046|DE|Saxony-Anhalt|61
 Sandy Bay|16.329|-86.564|HN|Bay Islands|61
@@ -163,27 +211,216 @@ Sandsli|60.303|5.286|NO|Vestland|61
 San Diego|21.917|-100.101|MX|San Luis Potosí|61
 Sand Point|55.336|-160.501|US|Alaska|61
 San Dionisio Ocotlán|16.747|-96.680|MX|Oaxaca|60
+Sandoukouma|7.684|-4.310|CI|Lacs District|60
+Sandala|8.112|-6.468|CI|Woroba|60
 Sand|60.392|11.540|NO|Innlandet|60
+San Diego de los Dolores|20.726|-101.029|MX|Guanajuato|59
+San Donato|41.391|12.999|IT|Lazio|59
+Sandon|45.364|12.043|IT|Veneto|59
+Sand|47.441|8.478|CH|Zurich|59
+Sand Ridge|43.256|-76.230|US|New York|59
+Sandbostel|53.409|9.129|DE|Lower Saxony|59
+Sandisfield|42.113|-73.143|US|Massachusetts|58
 Sanderson|30.142|-102.394|US|Texas|58
+Sand Springs|32.283|-101.351|US|Texas|58
+Sando|7.407|-5.249|CI|Vallée du Bandama District|58
+Sandiébounga|6.496|-4.627|CI|Comoé District|58
+Sandhaven|57.697|-2.063|GB|Scotland|58
+San Damián|-12.017|-76.392|PE|Lima region|58
+San Diego Mountain|32.603|-106.988|US|New Mexico|58|f
+Sand Hill|41.514|-85.225|US|Indiana|58|f
+Sand Hills|39.223|-121.317|US|California|58|f
+Sand Hills|42.025|-118.587|US|Oregon|58|f
+Sand Island|28.210|-177.379|UM|Midway Islands|58|f
+Sand Springs Range|39.106|-118.350|US|Nevada|58|f
+Sandankyo Gorge|34.617|132.183|JP||58|f
+Sanday Airport|59.250|-2.577|GB|Scotland|58|f
+Sanday Island|59.250|-2.583|GB|Scotland|58|f
+Sandefjordsfjorden|59.033|10.267|NO|Vestfold|58|f
+Sanderson Bridge|43.790|-73.112|US|Vermont|58|f
+Sandnesfjorden|58.693|9.131|NO|Agder|58|f
+Sandray|56.895|-7.519|GB|Scotland|58|f
+Sands of Forvie Nature Reserve|57.333|-1.967|GB|Scotland|58|f
+Sandsfoot Castle|50.595|-2.461|GB|England|58|f
+Sandwood Bay|58.550|-5.083|GB|Scotland|58|f
+Sandy Island (a phantom island)|-19.250|159.933|NC||58|f
+Sandy Pond|41.772|-70.655|US|Massachusetts|58|f
+San Diego Cuentla (Llano Grande)|18.966|-100.068|MX|México|58
+San Donato|43.537|11.235|IT|Tuscany|58
+San Diego de las Trasquilas|20.936|-100.394|MX|Guanajuato|58
+Sandallar|41.401|32.220|TR|Zonguldak Province|58
 Sandavágur|62.054|-7.150|FO|Vágar|58
+San Diego (Pueblo Viejo)|21.497|-99.487|MX|San Luis Potosí|58
+Sandouville|49.498|0.317|FR|Normandy|58
+Sandetole|43.866|11.532|IT|Tuscany|58
+San Diego del Llanito|21.142|-100.944|MX|Guanajuato|57
+Sandy Creek|43.644|-76.086|US|New York|57
+Sandersville|31.787|-89.035|US|Mississippi|57
+San Diego|21.147|-98.192|MX|Veracruz|57
+Sandhem|58.017|13.483|SE|Västra Götaland|57
+San Diego|16.113|-91.962|MX|Chiapas|57
+Sandskogen|55.758|12.983|SE|Skåne|57
+Sandved|55.263|11.522|DK|Zealand|57
+Sandleheath|50.883|-1.817|GB|England|57
+Sandhem|57.983|13.767|SE|Jönköping|57
+San Diego Texmelucan|19.020|-97.453|MX|Puebla|57
+San Donato|43.676|10.690|IT|Tuscany|56
+San Diego Buenavista|19.131|-98.480|MX|Puebla|56
+Sandwick|58.204|-6.357|GB|Scotland|56
+Sandy Lake|41.349|-80.082|US|Pennsylvania|56
+Sandford|50.810|-3.664|GB|England|56
 Sandy Hill|18.221|-63.013|AI|Sandy Hill|56
+Sanders|35.216|-109.334|US|Arizona|56
 Sandy Hook|38.086|-83.126|US|Kentucky|56
 Šandrovac|45.906|17.021|HR|Bjelovar-Bilogora|56
 Sandur|61.843|-6.808|FO|Sandoy|56
+San Diego Quiriceo|20.452|-101.294|MX|Guanajuato|56
+San Diego los Sauces|19.080|-98.294|MX|Puebla|55
+Sandía|19.815|-100.207|MX|Michoacán|55
+Sandl|48.561|14.642|AT|Upper Austria|55
+San Diego|19.845|-88.729|MX|Quintana Roo|55
+Săndulița|44.418|26.633|RO|Călărași County|55
+Sandhult|57.767|12.817|SE|Västra Götaland|55
+San Diego Chalcatepehuacán|19.125|-98.779|MX|México|55
 San Damiano al Colle|45.027|9.349|IT|Lombardy|55
+Sand Rock|34.243|-85.769|US|Alabama|55
 San Diego|14.790|-89.776|GT|Zacapa|55
 San Donato di Ninea|39.712|16.047|IT|Calabria|55
+San Donnino|44.583|10.967|IT|Emilia-Romagna|55
 Sandy Point|26.021|-77.390|BS|South Abaco|55
+Sande|61.325|5.798|NO|Vestland|55
+Sandeid|59.544|5.862|NO|Rogaland|55
 San Didero|45.135|7.213|IT|Piedmont|54
+San Damián|20.939|-100.957|MX|Guanajuato|54
+Sand Lake|43.292|-85.518|US|Michigan|54
+Sand Island|-13.851|125.808|AU|Western Australia|54|f
+Sandane / Anda|61.833|6.117|NO|Vestland|54|f
+Sandåtinden|61.929|7.573|NO|Innlandet|54|f
+Sandbaai|-34.432|19.200|ZA|Western Cape|54|f
+Sandbore Cay|17.464|-87.488|BZ|Belize District|54|f
+Sandefjord Peaks|-60.616|-45.983|AQ||54|f
+Sandegga Ridge|-71.883|9.700|AQ||54|f
+Sandeggtind Peak|-71.850|9.750|AQ||54|f
+Sandeidfjorden|59.509|5.851|NO|Rogaland|54|f
+Sander's castle|-22.574|17.092|NA|Khomas Region|54|f
+Sandhamn|60.146|25.051|FI|Uusimaa|54|f
+Sandneset Point|-71.667|9.567|AQ||54|f
+Sandnesstaven Peak|-71.700|9.617|AQ||54|f
+Sandseten Mountain|-71.550|12.167|AQ||54|f
+Sandvær|65.917|11.967|NO|Nordland|54|f
+Sandvevatnet|60.042|6.541|NO|Vestland|54|f
+Sandy Bay|-54.570|158.921|AU|Tasmania|54|f
+Sandy Bay|-34.023|18.329|ZA|Western Cape|54|f
+Sandy Cay|18.436|-64.710|VG||54|f
+Sandy Creek Airpark|30.103|-85.482|US|Florida|54|f
+Sandy Island|18.212|-63.118|AI||54|f
+Sandy Island|-34.866|116.038|AU|Western Australia|54|f
+Sandy River Airport|45.401|-122.229|US|Oregon|54|f
+Sandyougouna|9.617|-7.852|CI|Denguélé District|54
 San Damiano Macra|44.488|7.256|IT|Piedmont|49
+San Diego Automotive Museum|32.727|-117.153|US|California|49|f
+San Diego Museum of Art|32.732|-117.151|US|California|49|f
+San Diego Zoo Safari Park|33.100|-116.980|US|California|49|f
+Sand Bay|51.376|-2.973|GB|England|49|f
+Sand Hills|39.851|-119.894|US|Nevada|49|f
+Sand Range|40.356|-119.839|US|Nevada|49|f
+Sand River Convention|-28.217|27.083|ZA|Free State|49|f
+Sanda Island|55.281|-5.581|GB|Scotland|49|f
+Sandaig Bay|57.167|-5.683|GB|Scotland|49|f
+Sandaig Bay|57.050|-5.750|GB|Scotland|49|f
+Sandbanks Peninsula|50.686|-1.946|GB|England|49|f
+Sandfloegga|59.946|7.145|NO|Vestland|49|f
+Sandford Glacier|-66.667|129.833|AQ||49|f
+Sandgate Castle|51.074|1.152|GB|England|49|f
+Sandow, Mount|-67.367|100.367|AQ||49|f
+Sandown Bay|50.633|-1.133|GB|England|49|f
+Sandra|25.584|-103.670|MX|Durango|49|f
+Sandridge Bridge|-37.820|144.963|AU|Victoria|49|f
+Sandwater|53.368|7.417|DE|Lower Saxony|49|f
+Sandy Hill Bay|18.217|-63.008|AI||49|f
+Sandy Lake|-41.869|146.466|AU|South Australia|49|f
+Sandy Spit|18.450|-64.709|VG||49|f
 Sandy Ground|18.204|-63.090|AI||49|r
 Sandy Ground Village|18.201|-63.090|AI|Sandy Ground|49
 Sando|40.968|-6.111|ES|Castille and León|48
+San Diego Bay National Wildlife Refuge|32.600|-117.107|US|California|40|f
+San Diego-Coronado Bay Bridge|32.690|-117.155|US|California|40|f
+San Diego-La Jolla Underwater Park|32.875|-117.253|US|California|40|f
+Sand Bar Ferry Bridge|33.440|-81.913|US|Georgia|40|f
+Sand Creek Massacre National Historic Site|38.564|-102.517|US|Colorado|40|f
+Sand Hill Wildlife Management Area|39.251|-81.269|US|West Virginia|40|f
+Sand Island|46.962|-124.058|US|Washington|40|f
+Sand Lake|46.140|-59.915|CA|Nova Scotia|40|f
+Sand Lake|45.626|-79.173|CA|Ontario|40|f
+Sand Lake|46.102|-79.661|CA|Ontario|40|f
+Sand Lake|47.649|-92.635|US|Minnesota|40|f
+Sand Lake|45.918|-92.173|US|Wisconsin|40|f
+Sand Lake|45.852|-91.496|US|Wisconsin|40|f
+Sand Lake|61.151|-149.966|US|Alaska|40|f
+Sand Lake National Wildlife Refuge|45.786|-98.241|US|South Dakota|40|f
+Sand Lakes Provincial Park|57.843|-98.531|CA|Manitoba|40|f
+Sand Mountain|30.559|-85.526|US|Florida|40|f
+Sand Point Lake|48.377|-92.468|CA|Ontario|40|f
+Sand Pond|41.916|-75.184|US|New York|40|f
+Sandale Transmitting Station|54.749|-3.141|GB|England|40|f
+Sandalee Glacier|48.409|-120.788|US|Washington|40|f
+Sandanski Point|-62.509|-60.695|AQ||40|f
+Sanday Island|57.051|-6.495|GB|Scotland|40|f
+Sandbanks Provincial Park|43.917|-77.299|CA|Ontario|40|f
+Sandbar Lake Provincial Park|49.467|-91.567|CA|Ontario|40|f
+Sandfly Bay|-45.900|170.650|NZ||40|f
+Sandfly Bay|-40.918|173.050|NZ|Nelson Region|40|f
+Sandhubel|46.740|9.684|CH|Grisons|40|f
+Sandown Castle|51.238|1.402|GB|England|40|f
+Sands Point Seaplane Base|40.838|-73.716|US|New York|40|f
+Sandungen|60.120|10.638|NO|Oslo|40|f
+Sandusky County Regional Airport|41.299|-83.036|US|Ohio|40|f
+Sandved, Mount|-82.683|161.100|AQ||40|f
+Sandwell Park|49.185|-123.818|CA|British Columbia|40|f
+Sandwich Bay|43.781|-71.479|US|New Hampshire|40|f
+Sandwich Glass Museum|41.759|-70.501|US|Massachusetts|40|f
+Sandwich Range|43.920|-71.480|US|New Hampshire|40|f
+Sandy Bay|53.400|-55.798|CA|Newfoundland and Labrador|40|f
+Sandy Bay|50.606|-3.372|GB|England|40|f
+Sandy Glacier|45.381|-121.719|US|Oregon|40|f
+Sandy Heath Transmitting Station|52.130|-0.241|GB|England|40|f
+Sandy Hill|38.124|-90.840|US|Missouri|40|f
+Sandy Island|33.568|-79.150|US|South Carolina|40|f
+Sandy Island Marine Park|49.619|-124.852|CA|British Columbia|40|f
+Sandy Islands|53.333|-55.781|CA|Newfoundland and Labrador|40|f
+Sandy Islands|52.967|-97.967|CA|Manitoba|40|f
+Sandy Lake|44.734|-63.700|CA|Nova Scotia|40|f
+Sandy Lake|53.019|-93.037|CA|Ontario|40|f
+Sandy Lake|53.788|-114.041|CA|Alberta|40|f
+Sandy Lake|55.832|-113.387|CA|Alberta|40|f
+Sandy Lake|31.691|-91.898|US|Louisiana|40|f
+Sandy Point State Park|39.017|-76.402|US|Maryland|40|f
 San Diego|10.261|-67.954|VE|Carabobo|0
 Sanda|34.947|135.214|JP|Hyōgo|0
 Sandamu|12.962|8.360|NG|Katsina State|0
 Sandan|13.105|105.254|KH|Kampong Thom|0
+Sandao|18.467|109.664|CN|Hainan|0
+Sandao|47.417|126.400|CN|Heilongjiang|0
+Sandao|42.528|128.449|CN|Jilin|0
+Sandaoba|44.128|87.621|CN|Xinjiang|0
+Sandaogang|46.115|130.104|CN|Heilongjiang|0
+Sandaogou|41.379|112.650|CN|Inner Mongolia|0
+Sandaogou|41.647|126.511|CN|Jilin|0
+Sandaogou|48.012|123.394|CN|Inner Mongolia|0
+Sandaogou|40.435|96.865|CN|Gansu|0
+Sandaohezi|45.302|129.771|CN|Heilongjiang|0
+Sandaotong|45.680|129.736|CN|Heilongjiang|0
+Sandaowan|43.166|129.174|CN|Jilin|0
 Sande|-12.306|17.350|AO|Bíe|0
+Sandian|30.931|114.792|CN|Hubei|0
+Sandian|30.652|114.152|CN|Hubei|0
+Sandong|22.996|114.448|CN|Guangdong|0
+Sandouping|30.812|111.015|CN|Hubei|0
 Şandra|45.925|20.890|RO|Timiș County|0
+Sandu|29.536|119.570|CN|Zhejiang|0
+Sandu|29.175|114.685|CN|Jiangxi|0
+Sandu|28.570|114.446|CN|Jiangxi|0
+Sandun|30.325|120.078|CN|Zhejiang|0
+Sanduo|32.819|119.660|CN|Jiangsu|0
 Sandvika|64.464|13.591|NO|Trøndelag|0
 Sandvika|59.891|10.528|NO|Akershus|0

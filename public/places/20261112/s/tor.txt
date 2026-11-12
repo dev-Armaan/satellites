@@ -16,6 +16,7 @@ Torrelavega|43.349|-4.048|ES|Cantabria|95
 Torbalı|38.182|27.335|TR|İzmir Province|94
 Torzhok|57.044|34.962|RU|Tver Oblast|94
 Tororo|0.693|34.181|UG|Eastern Region|94
+Toronto Pearson International Airport|43.681|-79.613|CA|Ontario|93|f
 Torre Annunziata|40.753|14.453|IT|Campania|93
 Torres|-29.335|-49.727|BR|Rio Grande do Sul|92
 Tortuguitas|-34.475|-58.754|AR|Buenos Aires|92
@@ -48,6 +49,7 @@ Tordera|41.699|2.719|ES|Catalonia|84
 Torredembarra|41.145|1.399|ES|Catalonia|84
 Torres Novas|39.476|-8.543|PT|Santarém|84
 Tori-Bossito|6.503|2.144|BJ|Atlantique|83
+Torsby Airport|60.154|12.996|SE|Värmland|83|f
 Torre del Campo|37.771|-3.897|ES|Andalusia|83
 Toropets|56.500|31.639|RU|Tver Oblast|83
 Torredonjimeno|37.767|-3.958|ES|Andalusia|83
@@ -82,6 +84,7 @@ Torbay|47.667|-52.731|CA|Newfoundland and Labrador|78
 Tortolì|39.926|9.656|IT|Sardinia|78
 Torpoint|50.375|-4.196|GB|England|78
 Torres de la Alameda|40.403|-3.358|ES|Madrid|78
+Tortuguero Airport|10.569|-83.515|CR|Limón Province|78|f
 Tornquist|-38.101|-62.223|AR|Buenos Aires|78
 Torkamān|37.585|47.390|IR|East Azerbaijan|77
 Torregrotta|38.203|15.350|IT|Sicily|77
@@ -93,6 +96,7 @@ Torrington|42.062|-104.184|US|Wyoming|76
 Tortoreto Lido|42.800|13.942|IT|Abruzzo|76
 Torbole Casaglia|45.513|10.117|IT|Lombardy|76
 Torrelles de Llobregat|41.350|1.983|ES|Catalonia|75
+Torre del Oro|37.382|-5.996|ES|Andalusia|75|f
 Torkālakī|32.244|48.847|IR|Khuzestan|75
 Torreblanca|40.220|0.197|ES|Valencia|75
 Torban|24.768|93.947|IN|Manipur|75
@@ -101,6 +105,7 @@ Torrejón de la Calzada|40.199|-3.797|ES|Madrid|75
 Toramangalam|11.693|77.903|IN|Tamil Nadu|75
 Torghay|49.631|63.490|KZ|Kostanay|74
 Torreglia|45.336|11.736|IT|Veneto|74
+Toronto Zoo|43.819|-79.187|CA|Ontario|74|f
 Torchiarolo|40.483|18.051|IT|Apulia|74
 Torre a Mare|41.083|17.000|IT|Apulia|74
 Torrebelvicino|45.716|11.319|IT|Veneto|74
@@ -108,6 +113,8 @@ Tortora Marina|39.923|15.769|IT|Calabria|74
 Toronto|40.464|-80.601|US|Ohio|74
 Torul|40.551|39.283|TR|Gümüşhane Province|74
 Törtel|47.122|19.937|HU|Pest County|74
+Torcello|45.496|12.417|IT|Veneto|73|f
+Toronto Islands|43.617|-79.366|CA|Ontario|73|f
 Töreboda|58.707|14.126|SE|Västra Götaland|73
 Torchyn|50.766|25.001|UA|Volyn|73
 Torsby|60.135|13.008|SE|Värmland|73
@@ -122,6 +129,7 @@ Toribío|2.955|-76.268|CO|Cauca Department|72
 Torrenova|38.092|14.679|IT|Sicily|72
 Torkābād|32.341|53.968|IR|Yazd Province|71
 Toreno|42.700|-6.512|ES|Castille and León|71
+Tortolì Airport|39.919|9.683|IT|Sardinia|71|f
 Toreo Bajo (El Toreo Bajo)|19.445|-102.004|MX|Michoacán|71
 Torre Caracciolo|40.876|14.179|IT|Campania|71
 Torricella|40.355|17.498|IT|Apulia|71
@@ -132,6 +140,9 @@ Torrejón de Velasco|40.187|-3.777|ES|Madrid|70
 Toroguhé|6.948|-6.466|CI|Sassandra-Marahoue|70
 Torre de' Passeri|42.243|13.933|IT|Abruzzo|70
 Toro-Sanguéi|8.301|-3.116|CI|Zanzan District|70
+Torreón Airport|-36.499|-72.681|CL|Ñuble|70|f
+Torrington Municipal Airport|42.064|-104.153|US|Wyoming|70|f
+Tortuga|20.053|-72.793|HT|Nord-Ouest|70|f
 Torre di Mosto|45.686|12.700|IT|Veneto|70
 Torrenueva|38.640|-3.363|ES|Castille-La Mancha|70
 Torcy|46.769|4.453|FR|Bourgogne-Franche-Comté|70
@@ -148,6 +159,7 @@ Torrazza Piemonte|45.215|7.977|IT|Piedmont|69
 Tornyospálca|48.267|22.183|HU|Szabolcs-Szatmár-Bereg|69
 Torreblascopedro|37.998|-3.638|ES|Andalusia|69
 Tormac|45.521|21.494|RO|Timiș County|69
+Tortola|18.437|-64.618|VG||69|f
 Torda|45.584|20.459|RS|Vojvodina|69
 Torvaianica Alta|41.632|12.498|IT|Lazio|69
 Tõrva|58.003|25.935|EE|Valgamaa|69
@@ -165,6 +177,9 @@ Tørring|55.850|9.483|DK|Central Jutland|67
 Torretta|39.454|17.036|IT|Calabria|67
 Torretta|38.130|13.235|IT|Sicily|67
 Torrefarrera|41.673|0.607|ES|Catalonia|67
+Torellbreen|77.179|14.863|SJ|Svalbard|67|f
+Torres Islands|-13.250|166.617|VU|Torba|67|f
+Torri ta’ Mġarr ix-Xini|36.017|14.274|MT|Sannat|67|f
 Torreilles|42.755|2.994|FR|Occitanie|67
 Torremegía|38.790|-6.377|ES|Extremadura|67
 Torre Melissa|39.310|17.107|IT|Calabria|67
@@ -178,6 +193,9 @@ Torres de Segre|41.534|0.514|ES|Catalonia|66
 Torbeck|18.163|-73.809|HT|Sud|66
 Torviscosa|45.823|13.280|IT|Friuli Venezia Giulia|66
 Torro|8.555|-4.451|CI|Vallée du Bandama District|65
+Torca Airport|-34.784|-72.051|CL|Maule Region|65|f
+Toro Iseki|34.956|138.408|JP|Shizuoka|65|f
+Torri Lippija|35.922|14.346|MT|L-Imġarr|65|f
 Tortoman|44.350|28.217|RO|Constanța County|65
 Torūd|35.428|55.015|IR|Semnan|65
 Torrion Quartara|45.418|8.615|IT|Piedmont|65
@@ -194,6 +212,17 @@ Torre San Patrizio|43.183|13.611|IT|The Marches|64
 Torre Colonna-Sperone|38.030|13.574|IT|Sicily|64
 Toro Canyon|34.420|-119.567|US|California|64
 Torrevecchia Pia|45.282|9.296|IT|Lombardy|64
+Torchport Airport|45.055|-85.357|US|Michigan|63|f
+Torkildsenøya|78.899|21.169|SJ||63|f
+Tornion Hurrei|65.743|24.061|SE|Norrbotten|63|f
+Toro Peak|33.523|-116.426|US|California|63|f
+Tororo Airport|0.683|34.167|UG|Eastern Region|63|f
+Torres Airport|-13.329|166.641|VU|Torba|63|f
+Torreys Peak|39.643|-105.821|US|Colorado|63|f
+Torri ta’ Kenuna|36.036|14.284|MT|In-Nadur|63|f
+Torri ta’ Xlendi|36.028|14.213|MT|Il-Munxar|63|f
+Torsvatnet|62.150|7.824|NO|Innlandet|63|f
+Tortolita Mountains|32.490|-111.062|US|Arizona|63|f
 Tornabé|15.750|-87.550|HN|Atlántida Department|63
 Torres de Berrellén|41.758|-1.065|ES|Aragon|63
 Torphins|57.106|-2.624|GB|Scotland|63
@@ -216,6 +245,12 @@ Torrecillas de la Tiesa|39.568|-5.742|ES|Extremadura|61
 Torba|-13.750|167.500|VU||61|r
 Torremocha|39.346|-6.173|ES|Extremadura|61
 Torrecuso|41.186|14.681|IT|Campania|61
+Torfeno Branishte|42.583|23.283|BG|Sofia-Capital|61|f
+Torget|65.426|12.102|NO|Nordland|61|f
+Toronto/Buttonville Municipal Airport|43.862|-79.370|CA|Ontario|61|f
+Torre Branca|45.473|9.173|IT|Lombardy|61|f
+Torri Ħamrija|35.825|14.440|MT|Il-Qrendi|61|f
+Torsukattak|69.967|-51.083|GL|Avannaata|61|f
 Torre-Cardela|37.505|-3.356|ES|Andalusia|61
 Torreselle|45.630|12.023|IT|Veneto|61
 Tornado|38.343|-81.844|US|West Virginia|61
@@ -230,51 +265,150 @@ Torricella|42.659|13.657|IT|Abruzzo|60
 Tormestorp|56.114|13.745|SE|Skåne|60
 Torre de' Picenardi|45.143|10.288|IT|Lombardy|60
 Torcé|48.062|-1.267|FR|Brittany|60
+Tordinia-Villa Ripa|42.633|13.657|IT|Abruzzo|60
 Torrazza Coste|44.978|9.076|IT|Lombardy|60
+Tórim|27.577|-110.225|MX|Sonora|60
 Torremayor|38.901|-6.539|ES|Extremadura|60
+Torrent de Cinca / Torrente de Cinca|41.474|0.335|ES|Aragon|60
 Torralba|40.513|8.765|IT|Sardinia|60
+Torren|47.600|13.150|AT|Salzburg|60
 Torricella Peligna|42.024|14.259|IT|Abruzzo|60
 Torrevecchia|42.383|14.213|IT|Abruzzo|59
+Tordandrea|43.036|12.556|IT|Umbria|59
 Torreano|46.128|13.429|IT|Friuli Venezia Giulia|59
 Torre Caietani|41.787|13.265|IT|Lazio|59
+Torres de Albanchez|38.416|-2.678|ES|Andalusia|59
+Torriano|45.262|9.120|IT|Lombardy|59
 Torre d'Arese|45.243|9.317|IT|Lombardy|59
+Torre di Fine|45.566|12.750|IT|Veneto|59
 Torrice|41.634|13.404|IT|Lazio|59
+Torreón de Cañas|26.374|-105.273|MX|Durango|59
+Torsa|45.874|13.117|IT|Friuli Venezia Giulia|59
 Torre Alháquime|36.916|-5.234|ES|Andalusia|59
+Torosove|47.231|29.970|UA|Odesa|59
+Torsåker|63.067|17.750|SE|Västernorrland|59
+Torrecillas (El Lindero)|21.379|-101.965|MX|Jalisco|59
 Torella dei Lombardi|40.937|15.108|IT|Campania|59
+Torcé-en-Vallée|48.134|0.396|FR|Pays de la Loire|59
+Torsåker|60.511|16.471|SE|Gävleborg|59
 Torrico|39.829|-5.226|ES|Castille-La Mancha|59
 Torrecaballeros|40.992|-4.025|ES|Castille and León|58
 Tortoreto|42.804|13.913|IT|Abruzzo|58
 Tornabous|41.701|1.054|ES|Catalonia|58
+Torre|43.479|11.564|IT|Tuscany|58
+Tordenskjoldberget|78.870|28.198|SJ||58|f
+Torfinnsvatnet|60.549|6.266|NO|Vestland|58|f
+Torit Airport|4.419|32.574|SS|Eastern Equatoria|58|f
+Tornik|43.654|19.640|RS|Central Serbia|58|f
+Tornose|62.141|7.656|NO|Innlandet|58|f
+Toronto/Downsview Airport|43.743|-79.466|CA|Ontario|58|f
+Torre del Mangia|43.318|11.332|IT|Tuscany|58|f
+Torre dels Soldats|42.450|1.583|AD||58|f
+Torre Jaume I|41.372|2.180|ES|Catalonia|58|f
+Torres Strait|-10.282|142.159|||58|f
+Torri ta’ Għajn Tuffieħa|35.931|14.343|MT|L-Imġarr|58|f
+Torri ta’ San Tumas|35.861|14.572|MT|Marsaskala|58|f
+Torrone d'Orza|46.345|9.074|CH|Ticino|58|f
+Torronsuon Kansallispuisto|60.732|23.630|FI|Kanta-Häme|58|f
+Torsa Island|56.257|-5.615|GB|Scotland|58|f
+Tortugas Mountain|32.293|-106.698|US|New Mexico|58|f
 Torresandino|41.829|-3.910|ES|Castille and León|58
 Tornaco|45.357|8.717|IT|Piedmont|58
+Torvilliers|48.274|3.974|FR|Grand Est|58
+Tornac|44.023|3.997|FR|Occitanie|58
+Torbanlea|-25.345|152.594|AU|Queensland|58
 Torrile|44.925|10.324|IT|Emilia-Romagna|58
+Torcé-Viviers-en-Charnie|48.100|-0.267|FR|Pays de la Loire|58
 Torano Nuovo|42.823|13.777|IT|Abruzzo|58
+Torsac|45.563|0.214|FR|New Aquitaine|57
+Torteron|47.023|2.966|FR|Centre-Val de Loire|57
+Torpes|47.167|5.888|FR|Bourgogne-Franche-Comté|57
+Tortellà|42.233|2.633|ES|Catalonia|57
+Torano|42.153|13.260|IT|Lazio|57
+Torunsolaklı|37.301|35.226|TR|Adana|57
+Torcy-le-Grand|49.799|1.175|FR|Normandy|57
+Torsång|60.467|15.567|SE|Dalarna|57
+Torre Suda|39.956|18.034|IT|Apulia|57
+Tortequesne|50.289|3.040|FR|Hauts-de-France|57
 Torrecilla de los Ángeles|40.248|-6.416|ES|Extremadura|57
+Tortugas (Las Conchas)|20.928|-101.813|MX|Guanajuato|57
 Torraca|40.111|15.636|IT|Campania|57
+Toraňňyly|38.140|58.398|TM|Ahal|57
 Torre di Ruggiero|38.653|16.372|IT|Calabria|57
+Torano|44.092|10.104|IT|Tuscany|57
 Torre de Santa María|39.254|-6.116|ES|Extremadura|56
+Torcești|45.697|27.486|RO|Galați County|56
 Torrebruna|41.867|14.541|IT|Abruzzo|56
+Torchiagina|43.120|12.535|IT|Umbria|56
+Torphichen|55.934|-3.655|GB|Scotland|56
+Torp|38.349|46.163|IR|East Azerbaijan|56
 Toral de los Guzmanes|42.243|-5.568|ES|Castille and León|56
 Torrejoncillo del Rey|40.008|-2.571|ES|Castille-La Mancha|56
 Torella del Sannio|41.639|14.520|IT|Molise|56
+Torcieu|45.924|5.394|FR|Auvergne-Rhône-Alpes|56
+Tornitz|51.930|11.848|DE|Saxony-Anhalt|56
 Torija|40.743|-3.028|ES|Castille-La Mancha|56
 Torremenga|40.047|-5.775|ES|Extremadura|56
+Toreador de en Medio|21.326|-100.536|MX|Guanajuato|56
+Toreby|54.754|11.787|DK|Zealand|56
 Torrequemada|39.367|-6.221|ES|Extremadura|56
 Torre de Don Miguel|40.223|-6.577|ES|Extremadura|56
+Torre Maina|44.499|10.873|IT|Emilia-Romagna|56
+Tornau|51.719|12.182|DE|Saxony-Anhalt|56
+Torreratti-Persi|44.733|8.967|IT|Piedmont|56
+Torrecitas|21.085|-100.199|MX|Guanajuato|56
 Torrecilla en Cameros|42.255|-2.631|ES|La Rioja|56
 Torricella del Pizzo|45.020|10.295|IT|Lombardy|56
 Tordinci|45.370|18.795|HR|Vukovar-Srijem|55
 Torrelobatón|41.649|-5.025|ES|Castille and León|55
 Torrejón el Rubio|39.771|-6.013|ES|Extremadura|55
+Torpāq Tappeh|35.588|50.983|IR|Tehran|55
+Torres Dias|0.307|6.696|ST|São Tomé Island|55
 Torre San Giorgio|44.736|7.528|IT|Piedmont|55
+Torbiato|45.612|9.984|IT|Lombardy|55
+Tornavento|45.583|8.715|IT|Lombardy|55
+Torhamn|56.100|15.833|SE|Blekinge|55
 Torrita Tiberina|42.238|12.616|IT|Lazio|55
 Toraya|-14.053|-73.295|PE|Apurímac Department|55
+Tororumi|-12.783|-74.590|PE|Huancavelica|55
+Torno Largo 2da. Sección|17.918|-92.023|MX|Tabasco|55
 Torrijo del Campo|40.826|-1.338|ES|Aragon|55
+Torcenay|47.815|5.467|FR|Grand Est|55
+Tornau|51.637|12.589|DE|Saxony-Anhalt|55
 Torremocha de Jarama|40.841|-3.497|ES|Madrid|55
+Torremezzo di Falconara|39.269|16.058|IT|Calabria|55
+Torma|58.813|26.738|EE|Jõgevamaa|55
+Tórtoles del Esgueva|41.816|-4.024|ES|Castille and León|54
 Torricella in Sabina|42.263|12.872|IT|Lazio|54
+Tormeno|45.504|11.552|IT|Veneto|54
 Torre Mondovì|44.353|7.900|IT|Piedmont|54
+Toraja Airport|-3.186|119.916|ID|South Sulawesi|54|f
+Torc Cascade|52.000|-9.500|IE|Munster|54|f
+Torc Mountain|51.998|-9.521|IE|Munster|54|f
+Torch Bay|47.087|-88.443|US|Michigan|54|f
+Tordrillo Mountains|61.409|-152.412|US|Alaska|54|f
+Torgersen Island|-64.773|-64.074|AQ||54|f
+Torgny Peak|-71.833|8.083|AQ||54|f
+Tori-shima|27.867|128.233|JP||54|f
+Torii Glacier|-71.317|35.667|AQ||54|f
+Tørla|62.436|6.319|NO|Møre og Romsdal|54|f
+Tornø|55.458|10.483|DK|South Denmark|54|f
+Toro Point|-63.323|-57.898|AQ||54|f
+Toronto Lake|37.764|-95.936|US|Kansas|54|f
+Torre Astura|41.408|12.765|IT|Lazio|54|f
+Torre Cerredo|43.183|-4.783|ES|Asturias|54|f
+Torre della Meloria|43.548|10.219|IT|Tuscany|54|f
+Torsäule|47.433|13.100|AT|Salzburg|54|f
+Torsnäs|56.167|15.700|SE|Blekinge|54|f
+Tortuguero Conservation Area|10.215|-83.773|CR|Limón Province|54|f
+Tortuguero National Park|10.541|-83.502|CR|Limón Province|54|f
+Tortum Şelâlesi|40.667|41.683|TR|Erzurum|54|f
+Tory Island|55.264|-8.221|IE|Ulster|54|f
 Torchiara|40.322|15.054|IT|Campania|54
 Tordillos|40.853|-5.353|ES|Castille and León|54
+Tornyosnémeti|48.521|21.251|HU|Borsod-Abaúj-Zemplén|54
+Toropălești|45.493|26.919|RO|Buzău County|54
+Törbel|46.238|7.852|CH|Valais|54
 Torre le Nocelle|41.023|14.909|IT|Campania|54
 Torre Canavese|45.392|7.760|IT|Piedmont|54
 Tortora|39.941|15.805|IT|Calabria|54
@@ -286,6 +420,7 @@ Tórtola de Henares|40.704|-3.123|ES|Castille-La Mancha|54
 Torre Beretti|45.060|8.671|IT|Lombardy|54
 Torrecilla de Alcañiz|40.961|-0.091|ES|Aragon|54
 Torri in Sabina|42.351|12.642|IT|Lazio|53
+Torgelow am See|53.558|12.775|DE|Mecklenburg-Vorpommern|53
 Torcegno|46.074|11.450|IT|Trentino-Alto Adige|53
 Torroella de Fluvià|42.175|3.040|ES|Catalonia|53
 Torre di Santa Maria|46.234|9.852|IT|Lombardy|52
@@ -309,6 +444,23 @@ Tormos|38.801|-0.072|ES|Valencia|50
 Torrioni|41.034|14.814|IT|Campania|49
 Tora|41.340|14.024|IT|Campania|49
 Torrecilla del Pinar|41.374|-4.038|ES|Castille and León|49
+Tor Bay|50.431|-3.503|GB|England|49|f
+Torani Canal|5.828|-57.461|GY|East Berbice-Corentyne|49|f
+Torgelower See|53.562|12.788|DE|Mecklenburg-Vorpommern|49|f
+Torhelm|47.267|12.000|AT|Tyrol|49|f
+Torkofel|46.702|13.082|AT|Carinthia|49|f
+Torlesse Islands|-10.821|152.213|PG|Milne Bay Province|49|f
+Torlyn Mountain|-67.800|66.850|AQ||49|f
+Torndirrup National Park|-35.094|117.868|AU|Western Australia|49|f
+Torre del Almirante|36.150|-5.444|ES|Andalusia|49|f
+Torre Latinoamericana|19.434|-99.141|MX|Mexico City|49|f
+Torrecid|41.314|-1.773|ES|Aragon|49|f
+Torrens Island|-34.792|138.531|AU|South Australia|49|f
+Torrens Island Conservation Park|-34.785|138.529|AU|South Australia|49|f
+Torres Strait Islands|-10.500|142.250|AU|Queensland|49|f
+Torricelli Mountains|-3.401|142.516|PG|Sandaun Province|49|f
+Torside Reservoir|53.483|-1.900|GB|England|49|f
+Toruń Airport|53.030|18.544|PL|Kujawsko-Pomorskie|49|f
 Torás|39.917|-0.683|ES|Valencia|49
 Torralba de Oropesa|39.934|-5.154|ES|Castille-La Mancha|49
 Torlino Vimercati|45.417|9.595|IT|Lombardy|48
@@ -339,7 +491,43 @@ Torre del Burgo|40.792|-3.077|ES|Castille-La Mancha|42
 Torregalindo|41.583|-3.752|ES|Castille and León|42
 Torralba de Aragón|41.935|-0.511|ES|Aragon|41
 Torreadrada|41.445|-3.840|ES|Castille and León|41
+Torch Lake|44.967|-85.311|US|Michigan|40|f
+Torch Lake|47.163|-88.423|US|Michigan|40|f
+Tordillo Mountain|32.266|-113.872|US|Arizona|40|f
+Torkopf|47.379|10.129|AT|Vorarlberg|40|f
+Torksey Castle|53.299|-0.747|GB|England|40|f
+Tornado Mountain|49.967|-114.652|CA|Alberta|40|f
+Torngarsoak Mountain|58.945|-63.790|CA|Newfoundland and Labrador|40|f
+Törngrens Krukmakeri|56.900|12.496|SE|Halland|40|f
+Toronto Lake|50.353|-87.821|CA|Ontario|40|f
+Toronto Lake|41.630|-74.883|US|New York|40|f
+Torre Bruciata|42.659|13.706|IT|Abruzzo|40|f
+Torre de la Plata|37.383|-5.995|ES|Andalusia|40|f
+Torre dei Lamberti|45.443|10.998|IT|Veneto|40|f
+Torre del Diavolo|43.468|11.044|IT|Tuscany|40|f
+Torre del Gran San Pietro|45.526|7.359|IT|Aosta Valley|40|f
+Torre del Reformador|14.613|-90.517|GT|Guatemala|40|f
+Torre dell'Elefante|39.218|9.115|IT|Sardinia|40|f
+Torre delle Ore|43.844|10.504|IT|Tuscany|40|f
+Torre dels Escipions|41.132|1.319|ES|Catalonia|40|f
+Torre di Lavina|45.556|7.448|IT|Aosta Valley|40|f
+Torre Egger|-49.291|-73.099|CL|Region of Magallanes|40|f
+Torre España|40.420|-3.664|ES|Madrid|40|f
+Torre Grossa|43.468|11.043|IT|Tuscany|40|f
+Torre Guinigi|43.844|10.507|IT|Tuscany|40|f
+Torre Medieval do Porto|41.143|-8.612|PT|Porto|40|f
 Torrechiva|40.050|-0.400|ES|Valencia|40
+Torrent Bay|-40.950|173.050|NZ||40|f
+Torrenthorn|46.377|7.679|CH|Valais|40|f
+Torres de Serranos|39.479|-0.376|ES|Valencia|40|f
+Torreta de Guardamar|38.072|-0.665|ES|Valencia|40|f
+Torrey Peak|43.353|-109.625|US|Wyoming|40|f
+Torrey Pines Gliderport|32.900|-117.252|US|California|40|f
+Torrey Pines State Beach|32.936|-117.261|US|California|40|f
+Torreya State Park|30.569|-84.948|US|Florida|40|f
+Torrinch|56.071|-4.568|GB|Scotland|40|f
+Torrisdale Bay|55.567|-5.491|GB||40|f
+Torrone di Nav|46.547|8.993|CH|Ticino|40|f
 Torrehermosa|41.238|-2.128|ES|Aragon|40
 Torre de Esgueva|41.768|-4.200|ES|Castille and León|40
 Torre los Negros|40.853|-1.098|ES|Aragon|40
@@ -382,8 +570,12 @@ Torata|-3.602|-79.887|EC|El Oro|0
 Torbole sul Garda|45.870|10.876|IT|Trentino-Alto Adige|0
 Tōrmay|33.688|68.402|AF|Ghazni|0
 Toro|10.059|9.069|NG|Bauchi|0
+Toroh|-7.008|115.540|ID|East Java|0
 Toroloji|-8.358|120.169|ID|East Nusa Tenggara|0
 Torondoy|9.035|-71.014|VE|Mérida|0
+Toroy|-6.918|113.609|ID|East Java|0
 Torrebesses|41.433|0.600|ES|Catalonia|0
+Torserajah|-6.980|112.899|ID|East Java|0
+Torsobih|-7.000|113.055|ID|East Java|0
 Torteval|49.433|-2.650|GG|Torteval|0
 Torunos|8.500|-70.081|VE|Barinas|0

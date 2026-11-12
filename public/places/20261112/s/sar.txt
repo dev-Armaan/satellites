@@ -26,6 +26,7 @@ Sarpsborg|59.284|11.110|NO|Østfold|95
 Sarcelles|48.997|2.378|FR|Île-de-France|95
 Sarasota|27.336|-82.531|US|Florida|95
 Sartrouville|48.948|2.192|FR|Île-de-France|95
+Sardar Vallabhbhai Patel International Airport|23.077|72.635|IN|Gujarat|94|f
 Sar-e Pul|36.215|65.932|AF|Sar-e Pol Province|94
 Sardhana|29.146|77.614|IN|Uttar Pradesh|94
 Sarakhs|36.545|61.158|IR|Razavi Khorasan|93
@@ -35,6 +36,7 @@ Sarāb|37.941|47.537|IR|East Azerbaijan|93
 Sariaya|13.962|121.526|PH|Calabarzon|93
 Sarikei|2.117|111.517|MY|Sarawak|93
 Saran|49.802|72.832|KZ|Karaganda|93
+Sarikol Range|38.632|74.498|CN||92|f
 Saronno|45.625|9.035|IT|Lombardy|92
 Saray|40.533|49.717|AZ|Abşeron|92
 Sārangpur|23.567|76.473|IN|Madhya Pradesh|91
@@ -76,6 +78,7 @@ Sarvestān|29.273|53.220|IR|Fars|85
 Sarāi Mīr|26.027|82.918|IN|Uttar Pradesh|85
 Sarāi Ākil|25.379|81.510|IN|Uttar Pradesh|85
 Saraktash|51.787|56.360|RU|Orenburg Oblast|85
+Sardis|38.489|28.040|TR|Manisa|85|f
 Sartell|45.622|-94.207|US|Minnesota|84
 Sarangpore|21.636|73.048|IN|Gujarat|84
 Saran|47.950|1.876|FR|Centre-Val de Loire|84
@@ -105,6 +108,8 @@ Sarābleh|33.768|46.566|IR|Ilam Province|82
 Sarıhamzalı|36.977|35.225|TR|Adana|82
 Sárospatak|48.325|21.574|HU|Borsod-Abaúj-Zemplén|82
 Sarjāpur|12.860|77.787|IN|Karnataka|81
+Saransk Airport|54.125|45.212|RU|Mordoviya Republic|81|f
+Sarygamysh Lake|41.933|57.417|TM||81|f
 Sargūr|12.000|76.396|IN|Karnataka|81
 Sarakagui|5.819|-6.804|CI|Bas-Sassandra District|81
 Sarāb-e Tāveh|30.598|51.577|IR|Kohgiluyeh and Boyer-Ahmad|81
@@ -129,6 +134,8 @@ Sarmakovo|43.746|43.200|RU|Kabardino-Balkariya Republic|80
 Sarushi|33.217|130.167|JP|Saga|80
 Saron|-33.181|19.009|ZA|Western Cape|79
 Sa Rài|10.870|105.466|VN|Dong Thap|79
+Sarigan Island|16.694|145.782|MP|Northern Islands|79|f
+Sårjåsjávrre|67.227|16.389|NO||79|f
 Sarupathar Bengali|27.341|95.314|IN|Assam|79
 Sarbīsheh|32.576|59.798|IR|South Khorasan Province|79
 Sarıyahşi|38.983|33.841|TR|Aksaray|79
@@ -161,6 +168,7 @@ Sarpara|26.095|91.518|IN|Assam|76
 Sarayi|53.729|41.002|RU|Ryazan Oblast|76
 Saranga|20.926|85.264|IN|Odisha|76
 Şărmăşag|47.350|22.833|RO|Sălaj County|76
+Sarnia Chris Hadfield Airport|42.999|-82.309|CA|Ontario|76|f
 Sarmanovo|55.254|52.588|RU|Tatarstan Republic|76
 Saruhashi|35.617|138.983|JP|Yamanashi|76
 Sarnico|45.671|9.962|IT|Lombardy|76
@@ -175,6 +183,9 @@ Sarikhosor|38.539|69.831|TJ|Khatlon Province|75
 Sarna|32.263|75.583|IN|Punjab|75
 Sarrat|18.157|120.647|PH|Ilocos|75
 Sarrians|44.083|4.971|FR|Provence-Alpes-Côte d'Azur|75
+Sarazm|39.517|67.567|TJ||75|f
+Sarh Airport|9.150|18.383|TD|Moyen-Chari|75|f
+Sarushima|35.286|139.694|JP|Kanagawa|75|f
 Sarhala|8.418|-6.171|CI|Woroba|75
 Sarāvān|37.061|49.656|IR|Gilan Province|75
 Sarina|-21.419|149.217|AU|Queensland|75
@@ -215,6 +226,7 @@ Sarjū’īyeh|27.437|57.240|IR|Hormozgan|72
 Sarutaiá|-23.273|-49.480|BR|São Paulo|71
 Sartène|41.617|8.983|FR|Corsica|71
 Sargé-lès-le-Mans|48.035|0.240|FR|Pays de la Loire|71
+Saratov Tsentralny Airport|51.565|46.047|RU|Saratov Oblast|71|f
 Sarcedo|45.701|11.530|IT|Veneto|71
 Sariegos|42.650|-5.633|ES|Castille and León|71
 Sarre-Union|48.938|7.094|FR|Grand Est|71
@@ -233,6 +245,7 @@ Sarabetsu|42.656|143.187|JP|Hokkaido|70
 Sardinal|10.517|-85.647|CR|Guanacaste Province|70
 Sarıseki|36.669|36.215|TR|Hatay|70
 Sary-Tyuz|43.902|41.895|RU|Karachayevo-Cherkesiya Republic|70
+Sara Airport|-15.471|168.152|VU|Penama|70|f
 Săruleşti|44.417|26.650|RO|Călărași County|70
 Sárrétudvari|47.233|21.200|HU|Hajdú-Bihar|70
 Sart-Dames-Avelines|50.569|4.492|BE|Wallonia|70
@@ -244,6 +257,9 @@ Sárszentmihály|47.153|18.339|HU|Fejér|69
 Sar Mashhad|29.291|51.703|IR|Fars|69
 Şarrah|32.210|35.191|PS|West Bank|69
 Saraya|12.832|-11.754|SN|Kedougou|69
+Sardarapat Memorial|40.093|43.946|AM|Armavir|69|f
+Sarez Lake|38.190|72.723|TJ|Gorno-Badakhshan|69|f
+Saronikos Gulf|37.803|23.617|GR||69|f
 Sarıkemer|37.566|27.364|TR|Aydın|69
 Sarmato|45.057|9.497|IT|Emilia-Romagna|69
 Sarāb Bāgh|32.898|47.574|IR|Ilam Province|68
@@ -261,6 +277,8 @@ Sáránd|47.400|21.633|HU|Hajdú-Bihar|67
 Sarmenstorf|47.311|8.249|CH|Aargau|67
 Sarentino|46.641|11.354|IT|Trentino-Alto Adige|67
 Sarzeh|27.210|60.720|IR|Sistan and Baluchestan|67
+Šar Planina|42.083|20.833|RS||67|f
+Sarich Point|44.387|33.738|UA|Sevastopol City|67|f
 Sar Chāhān-e Janūbī|28.062|55.878|IR|Hormozgan|67
 Šardice|48.964|17.028|CZ|South Moravian|67
 Sarry|48.919|4.406|FR|Grand Est|67
@@ -277,6 +295,11 @@ Sarıca|38.170|40.247|TR|Diyarbakır Province|66
 Sarnano|43.035|13.298|IT|The Marches|65
 Sarantáporo|40.068|22.053|GR|Thessaly|65
 Șard|46.128|23.535|RO|Alba County|65
+Saratoga Lake|43.017|-73.741|US|New York|65|f
+Sargasso Sea|30.000|-60.000|||65|f
+Sarkānī|37.866|45.502|IR|East Azerbaijan|65|f
+Sarsang Reservoir|40.187|46.628|AZ|Tartar District|65|f
+Sarysu Lake|40.030|48.191|AZ|İmişli|65|f
 Sármellék|46.712|17.169|HU|Zala County|65
 Sargazy|55.021|61.250|RU|Chelyabinsk|65
 Sărulești-Gară|44.444|26.658|RO|Călărași County|65
@@ -310,6 +333,8 @@ Sarahart|40.870|44.214|AM|Lori|64
 Sarāhan|31.510|77.794|IN|Himachal Pradesh|63
 Sarni|34.317|73.049|PK|Khyber Pakhtunkhwa|63
 Sarāy|38.225|46.931|IR|East Azerbaijan|63
+Sarah Island|42.258|-70.886|US|Massachusetts|63|f
+Sarīr Kalanshiyū|27.817|20.975|LY|Al Wahat|63|f
 Saraiu|44.717|28.150|RO|Constanța County|63
 Sarmast|26.994|57.091|IR|Hormozgan|63
 Sars-Poteries|50.169|4.027|FR|Hauts-de-France|63
@@ -348,6 +373,9 @@ Sari-Solenzara|41.835|9.375|FR|Corsica|61
 Saracalarçiftliği|40.074|32.970|TR|Ankara|61
 Sarıçubuk|38.666|39.123|TR|Elazığ|61
 Sarazhinka|48.088|29.449|UA|Odesa|61
+Sarad Sarso|16.849|41.591|SA|Jazan Region|61|f
+Sarasota–Bradenton International Airport|27.395|-82.554|US|Florida|61|f
+Sarcee Mountain|48.989|-113.788|US|Montana|61|f
 Sarleinsbach|48.545|13.905|AT|Upper Austria|61
 Sarconi|40.248|15.888|IT|Basilicate|61
 Sărăuad|47.479|22.626|RO|Satu Mare County|61
@@ -370,28 +398,200 @@ Saroleh|31.353|49.856|IR|Khuzestan|60
 Saryk|37.973|58.796|TM|Ahal|60
 Sargé-sur-Braye|47.924|0.853|FR|Centre-Val de Loire|60
 Sarabash|47.764|37.789|UA|Donetsk|60
+Sarasa|51.877|85.356|RU|Altai Krai|60
+Sarnów|51.857|22.302|PL|Lublin|60
+Sardis|32.975|-81.758|US|Georgia|60
+Sardinia|39.008|-83.809|US|Ohio|60
+Sarmaşık|38.278|40.167|TR|Diyarbakır Province|59
+Sarāy|37.861|45.564|IR|East Azerbaijan|59
+Sarow|53.794|13.100|DE|Mecklenburg-Vorpommern|59
+Sarawina|16.971|-88.274|BZ|Stann Creek|59
+Saračino|41.982|21.042|MK|Tetovo|59
+Sărata-Monteoru|45.149|26.642|RO|Buzău County|59
+Sarnaq|38.136|44.770|IR|West Azerbaijan|59
+Sardagna|46.064|11.096|IT|Trentino-Alto Adige|59
+Sarceaux|48.719|-0.041|FR|Normandy|59
+Sărata|47.073|24.436|RO|Bistrița-Năsăud County|59
 Sáric|31.103|-111.379|MX|Sonora|59
+Sa Ràpita|39.365|2.942|ES|Balearic Islands|59
+Sarāgāh|37.819|48.876|IR|Gilan Province|59
+Šaratice|49.117|16.804|CZ|South Moravian|59
+Sarāb-e Kalān|33.574|46.718|IR|Ilam Province|59
+Sarid|32.663|35.225|IL|Northern District|59
+Sârca|47.229|27.181|RO|Iași County|59
+Sarapulka|56.868|61.055|RU|Sverdlovsk Oblast|59
+Sarepta|32.893|-93.449|US|Louisiana|59
+Sărata|46.567|26.552|RO|Bacău County|59
+Sârbi|45.870|27.065|RO|Vrancea|59
+Sars-la-Buissière|50.340|4.209|BE|Wallonia|58
+Sarcey|45.881|4.552|FR|Auvergne-Rhône-Alpes|58
+Sars-la-Bruyère|50.372|3.874|BE|Wallonia|58
 Sary-Bash|45.571|33.787|UA|Crimea|58
+Sarıbuğday|38.144|40.779|TR|Diyarbakır Province|58
+Sarpi|41.521|41.552|GE|Adjara|58
+Sărdănești|44.771|23.361|RO|Gorj County|58
+Sardent|46.051|1.856|FR|New Aquitaine|58
+Sarana Bay|52.873|173.297|US|Alaska|58|f
+Sardis Road Stadium|51.602|-3.348|GB|Wales|58|f
+Sarik Merapi|0.682|99.541|ID|North Sumatra|58|f
+Sarmiento Lake|-51.042|-72.725|CL|Region of Magallanes|58|f
+Saroja|47.191|9.573|LI|Planken|58|f
+Sarpefossen|59.276|11.131|NO|Østfold|58|f
+Sarstoon Island|15.891|-88.924|BZ|Toledo District|58|f
+Sarvant Glaciers|46.855|-121.619|US|Washington|58|f
+Sart-Eustache|50.375|4.605|BE|Wallonia|58
+Sarraltroff|48.776|7.060|FR|Grand Est|58
+Sarrigné|47.501|-0.385|FR|Pays de la Loire|58
+Sărbătoarea|44.299|23.652|RO|Dolj|58
+Sargstedt|51.941|10.987|DE|Saxony-Anhalt|58
+Sarıharman|37.717|38.461|TR|Adıyaman Province|58
+Sar Āb Bīz-e Bālā|30.389|51.082|IR|Kohgiluyeh and Boyer-Ahmad|58
+Sărmășel-Gară|46.785|24.206|RO|Mureș County|58
+Sarayköy|40.056|32.632|TR|Ankara|57
+Sarzbüttel|54.117|9.181|DE|Schleswig-Holstein|57
+Sarín|-7.912|-77.905|PE|La Libertad|57
+Sar Sakhtī-ye ‘Olyā|33.835|49.358|IR|Markazi|57
+Sărmășel|46.761|24.179|RO|Mureș County|57
+Sarrancolin|42.967|0.377|FR|Occitanie|57
+Sarakakro|7.495|-5.058|CI|Vallée du Bandama District|57
+Saramon|43.523|0.763|FR|Occitanie|57
+Sarıalan|41.193|35.194|TR|Samsun|57
+Sārūjlū|35.612|48.892|IR|Hamadan Province|57
+Sárpilis|46.249|18.742|HU|Tolna County|57
+Sargento López 3ra. Sección (San Jorge)|18.212|-93.259|MX|Tabasco|57
+Sarīzjān|29.277|52.009|IR|Fars|57
+Sarıkavak|37.111|34.684|TR|Mersin|57
+Sarıyaprak|37.585|37.711|TR|Adıyaman Province|57
+Särna|61.693|13.143|SE|Dalarna|57
+Sarbast|29.400|51.220|IR|Bushehr|57
 Sardón de Duero|41.608|-4.434|ES|Castille and León|57
+Sarbāz|30.953|51.600|IR|Isfahan|56
+Sărămaș|45.706|26.041|RO|Covasna County|56
+Sardieu|45.368|5.212|FR|Auvergne-Rhône-Alpes|56
+Sarıkaya|36.762|34.113|TR|Mersin|56
+Saraycık|41.232|35.219|TR|Samsun|56
 Sarnonico|46.419|11.142|IT|Trentino-Alto Adige|56
+Sarıoba|39.871|32.083|TR|Ankara|56
+Sarraméa|-21.650|165.850|NC|South Province|56
+Sarıçam|37.989|28.101|TR|Aydın|56
+Sarchūb|27.428|60.823|IR|Sistan and Baluchestan|56
+Sarakinádhon|37.790|20.848|GR|Ionian Islands|56
+Sarina Beach|-21.388|149.309|AU|Queensland|56
+Sarıhacılar|37.021|31.773|TR|Antalya|56
+Sarasdorf|48.021|16.678|AT|Lower Austria|56
+Sarrīgān|27.194|56.958|IR|Hormozgan|56
+Sarsfield|-37.750|147.717|AU|Victoria|56
+Sark|49.433|-2.356|GG||56
 Sartimbamba|-7.700|-77.741|PE|La Libertad|56
+Sarıtoprak|37.836|40.471|TR|Diyarbakır Province|56
+Sarıcaali|40.985|26.382|TR|Edirne|55
+Sarıtepe|37.393|37.836|TR|Gaziantep|55
+Šared|45.511|13.654|SI|Municipality of Izola|55
+Sările|45.533|26.751|RO|Buzău County|55
+Sarrouilles|43.235|0.126|FR|Occitanie|55
+Sarayköy|37.030|37.964|TR|Gaziantep|55
+Sarıgün|40.548|42.604|TR|Kars Province|55
+Sardis|39.623|-80.913|US|Ohio|55
+Sarbinowo|54.249|15.959|PL|West Pomerania|55
+Șardu|46.862|23.392|RO|Cluj County|55
 Sarezzano|44.869|8.912|IT|Piedmont|55
+Sărișoru Mare|47.270|25.333|RO|Suceava|55
+Sarakorodougou|9.135|-7.524|CI|Denguélé District|55
+Sarighiol de Deal|44.700|28.514|RO|Tulcea County|55
+Sarāb Bas-e Seyyed ‘Alī|34.762|46.341|IR|Kermanshah Province|55
+Sarıcaeli|40.121|26.443|TR|Canakkale|55
+Sârbi|47.594|23.344|RO|Maramureş|55
+Sarbinowo|52.851|17.667|PL|Kujawsko-Pomorskie|55
+Sarteneja|23.681|-101.710|MX|Zacatecas|55
+Sar Kārīz|35.339|59.219|IR|Razavi Khorasan|55
+Sarmstorf|53.842|12.207|DE|Mecklenburg-Vorpommern|55
+Sarche|46.048|10.953|IT|Trentino-Alto Adige|55
+Sarrazac|45.017|1.589|FR|Occitanie|55
+Sârbi|46.230|27.338|RO|Bacău County|55
+Sărand|46.998|22.121|RO|Bihor County|54
+Sārīmsāqlū|36.760|48.370|IR|Zanjan|54
+Sarlhusen|54.023|9.793|DE|Schleswig-Holstein|54
+Sarinasuf|45.010|29.064|RO|Tulcea County|54
+Sarah Ridge|-62.646|-60.365|AQ||54|f
+Sarajevo International Airport|43.826|18.337|BA|Federation of B&H|54|f
+Sarayözü Barajı|40.920|35.196|TR|Amasya|54|f
+Sardis Lake|34.479|-89.647|US|Mississippi|54|f
+Šarengradska Ada|45.260|19.243|RS||54|f
+Sariba Island|-10.609|150.715|PG|Milne Bay Province|54|f
+Sārīs|31.798|35.074|IL|Jerusalem|54|f
+Sarımehmet Barajı|38.794|43.743|TR|Van|54|f
+Sarıyar Barajı|40.026|31.442|TR|Ankara|54|f
+Särkijärvi|62.342|30.078|FI|North Karelia|54|f
+Sarkofagen Mountain|-72.175|16.750|AQ||54|f
+Sarmısaklı Barajı|38.890|35.733|TR|Kayseri|54|f
+Sarnersee|46.867|8.217|CH|Obwalden|54|f
+Saronde Island|0.927|122.864|ID|Gorontalo|54|f
+Sarsawa Airport|29.991|77.408|IN|Uttar Pradesh|54|f
+Sartorius Point|-62.560|-59.657|AQ||54|f
 Saro|43.260|-3.836|ES|Cantabria|54
+Sarakap|40.553|43.732|AM|Shirak|54
+Sargenroth|49.933|7.517|DE|Rheinland-Pfalz|54
+Sarbinowo|52.658|14.676|PL|West Pomerania|54
+Sârbești|45.117|23.783|RO|Gorj County|54
+Sargent|41.641|-99.371|US|Nebraska|54
+Sarvelāt|36.955|50.547|IR|Gilan Province|54
+Saraçlı|36.850|31.588|TR|Antalya|54
+Sarımeşe|40.595|36.082|TR|Amasya|54
+Şarköy|39.482|26.979|TR|Balıkesir|54
+Sarmego|45.500|11.674|IT|Veneto|54
+Sârbi|45.961|22.707|RO|Hunedoara County|54
 Sarıbuğday|40.748|35.460|TR|Amasya|51
 Sarracín|42.258|-3.686|ES|Castille and León|50
+Sarabah National Park|-28.047|153.123|AU|Queensland|49|f
+Sarangani Bay|5.950|125.183|PH|Soccsksargen|49|f
+Saratov South|51.478|45.943|RU|Saratov Oblast|49|f
+Sarek|67.350|17.500|SE|Norrbotten|49|f
+Sargar|25.981|64.482|PK|Balochistan|49|f
+Sarichef Island|66.248|-166.097|US|Alaska|49|f
+Sarimbun Reservoir|1.427|103.684|SG||49|f
+Sarmiento Park|-31.430|-64.176|AR|Cordoba|49|f
+Sarvenkataja|65.617|24.150|SE|Norrbotten|49|f
 Sarita|27.222|-97.789|US|Texas|48
 Sargentes de la Lora|42.769|-3.873|ES|Castille and León|46
 Sardigliano|44.752|8.896|IT|Piedmont|46
+Sarmersbach|50.233|6.883|DE|Rheinland-Pfalz|45
 Sartajada|40.213|-4.794|ES|Castille-La Mancha|43
+Sar-i Sang|36.240|70.826|AF|Badakhshan|40|f
+Sarah Island|45.233|-80.216|CA|Ontario|40|f
+Sarah Island|52.766|-128.513|CA|British Columbia|40|f
+Sarasota Bay|27.388|-82.605|US|Florida|40|f
+Saratoga County Airport|43.047|-73.861|US|New York|40|f
+Saratoga Gap Open Space Preserve|37.264|-122.107|US|California|40|f
+Saratoga National Historical Park|42.998|-73.630|US|New York|40|f
+Sardis Lake|34.662|-95.389|US|Oklahoma|40|f
+Sarek National Park|67.283|17.700|SE|Norrbotten|40|f
+Sarektjåkkå|67.433|17.721|SE|Norrbotten|40|f
+Sargeant Bay Park|49.480|-123.869|CA|British Columbia|40|f
+Sargent Glacier|-85.383|-163.833|AQ||40|f
+Sargent House Museum|42.613|-70.665|US|Massachusetts|40|f
+Sarita Lake|48.908|-124.885|CA|British Columbia|40|f
+Sarnoff Mountains|-77.167|-145.000|AQ||40|f
+Sarphatipark|52.354|4.896|NL|South Holland|40|f
+Sarpugerði|62.199|-6.746|FO|Eysturoy|40|f
+Sarsfield Lake|48.204|-80.359|CA|Ontario|40|f
+Sarto Bridge|31.074|-91.793|US|Louisiana|40|f
+Sarvis Fork Covered Bridge|38.921|-81.644|US|West Virginia|40|f
 Sarratella|40.313|0.032|ES|Valencia|39
 Saracinesco|42.003|12.953|IT|Lazio|39
 Sardón de los Frailes|41.214|-6.271|ES|Castille and León|38
 Sar Chakān|35.702|65.231|AF|Faryab|0
 Sar Kāṉī|34.790|71.110|AF|Kunar|0
 Sar-e Tayghān|33.510|65.676|AF|Daykundi|0
+Saradan|-7.058|107.979|ID|West Java|0
+Sarae|-8.339|120.759|ID|East Nusa Tenggara|0
+Sarageni|-6.465|106.122|ID|Banten|0
 Saraguro|-3.625|-79.239|EC|Loja|0
+Sarakole|-6.396|106.072|ID|Banten|0
 Saramiriza|-4.566|-77.416|PE|Loreto|0
+Sarampu|-6.364|105.869|ID|Banten|0
 Saranchuky|49.353|24.985|UA|Ternopil|0
+Sarang|-7.031|111.701|ID|East Java|0
+Sarangmeduro|-6.737|111.670|ID|Central Java|0
 Saraphi|18.714|99.035|TH|Chiang Mai|0
 Saraqinishtë|40.105|20.229|AL|Gjirokastër County|0
 Sarare|9.781|-69.163|VE|Lara|0
@@ -408,9 +608,17 @@ Sardinilla|9.303|-79.636|PA|Colón|0
 Sarebe|-2.548|133.828|ID|West Papua|0
 Sarfirāz Kalā|32.983|67.965|AF|Ghazni|0
 Sarhua|-13.673|-74.320|PE|Ayacucho|0
+Saribakti|-7.534|107.931|ID|West Java|0
 Saribudolok|2.939|98.611|ID|North Sumatra|0
 Sarilamak|-0.150|100.664|ID|West Sumatra|0
 Sarimatondang|2.864|98.915|ID|North Sumatra|0
+Sarimukti|-7.032|108.313|ID|West Java|0
+Sarimukti Kaler|-7.430|108.715|ID|West Java|0
+Saripin|-7.332|108.246|ID|West Java|0
+Sarirejo|-6.747|111.051|ID|Central Java|0
+Sarirejo|-6.933|111.481|ID|Central Java|0
+Sarirejo Satu|-8.156|113.199|ID|East Java|0
+Sariwangi|-7.246|108.180|ID|West Java|0
 Sarıbeyler|39.398|27.577|TR|Balıkesir|0
 Sarıcakaya|40.037|30.627|TR|Eskişehir|0
 Sarıgöl|40.947|41.495|TR|Artvin|0
@@ -418,12 +626,14 @@ Sarıkavak|36.581|33.643|TR|Mersin|0
 Sarıkaya|39.494|35.377|TR|Yozgat|0
 Sarıkonak|38.243|41.959|TR|Bitlis|0
 Sarıköy|40.208|27.596|TR|Balıkesir|0
+Sarkanjut|-7.109|107.942|ID|West Java|0
 Sarkin Pawa|10.021|7.112|NG|Niger State|0
 Särkisalo|60.114|22.950|FI|Southwest Finland|0
 Şarköy|40.614|27.116|TR|Tekirdağ|0
 Sarmīn|35.904|36.725|SY|Idlib|0
 Sarōbī|34.590|69.760|AF|Kabul|0
 Sarolangun|-2.312|102.727|ID|Jambi|0
+Sarongan|-8.542|113.960|ID|East Java|0
 Saronggi|-7.083|113.828|ID|East Java|0
 Saruaso|-0.483|100.638|ID|West Sumatra|0
 Sarulla|1.786|99.114|ID|North Sumatra|0

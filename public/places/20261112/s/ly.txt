@@ -32,6 +32,8 @@ Lyepyel’|54.881|28.699|BY|Vitebsk|85
 Lyantonde|-0.403|31.157|UG|Central Region|84
 Lyasny|54.007|27.696|BY|Minsk|84
 Lymington|50.759|-1.538|GB|England|83
+Lycksele Airport|64.548|18.716|SE|Västerbotten|83|f
+Lynden Pindling International Airport|25.046|-77.466|BS|New Providence|83|f
 Lys-lez-Lannoy|50.667|3.217|FR|Hauts-de-France|83
 Lyndhurst|41.520|-81.489|US|Ohio|83
 Lynden|48.947|-122.452|US|Washington|83
@@ -57,6 +59,7 @@ Lyubymivka|48.046|39.439|UA|Luhansk|79
 Lycksele|64.595|18.674|SE|Västerbotten|79
 Lyaskovets|43.111|25.728|BG|Veliko Tarnovo|79
 Lypovets|49.228|29.057|UA|Vinnytsia|78
+Lydd Airport|50.956|0.939|GB|England|78|f
 Lyambir’|54.280|45.122|RU|Mordoviya Republic|78
 Lysá nad Labem|50.201|14.833|CZ|Central Bohemia|78
 Lyubimets|41.844|26.081|BG|Haskovo|78
@@ -68,9 +71,12 @@ Lymanske|46.680|29.972|UA|Odesa|77
 Lymanivka|48.938|36.277|UA|Kharkiv|77
 Lynchburg|35.283|-86.374|US|Tennessee|76
 Lyubim|58.362|40.687|RU|Yaroslavl Oblast|76
+Lyon–Saint Exupéry Airport|45.726|5.091|FR|Auvergne-Rhône-Alpes|75|f
+Lysá hora|49.546|18.448|CZ|Moravian-Silesian Region|75|f
 Lyubymivka|46.810|33.568|UA|Kherson|75
 Lyndon|44.514|-72.011|US|Vermont|75
 Lyneham|51.517|-1.967|GB|England|75
+Lyudao Airport|22.673|121.466|TW|Taiwan|74|f
 Lypova Dolyna|50.563|33.792|UA|Sumy|74
 Lyubokhna|53.503|34.388|RU|Bryansk Oblast|74
 Lyamino|58.284|57.725|RU|Perm Krai|74
@@ -89,6 +95,7 @@ Lydd|50.951|0.907|GB|England|72
 Lypetske|47.736|29.715|UA|Odesa|71
 Lyons|38.345|-98.202|US|Kansas|71
 Lyngdal|58.138|7.070|NO|Agder|71
+Lýkaio|37.441|21.991|GR|Peloponnese|71|f
 Lypcha|48.262|23.384|UA|Zakarpattia|71
 Lyons|43.064|-76.990|US|New York|71
 Lyaskelya|61.763|31.006|RU|Karelia|71
@@ -100,16 +107,20 @@ Lytchett Matravers|50.758|-2.078|GB|England|70
 Lymans’ke|45.430|28.413|UA|Odesa|70
 Lyubytino|58.814|33.392|RU|Novgorod Oblast|70
 Lyttelton|-43.603|172.718|NZ|Canterbury|70
+Lyø|55.044|10.147|DK|South Denmark|70|f
 Lysychovo|48.495|23.282|UA|Zakarpattia|70
 Lypetska Poliana|48.331|23.359|UA|Zakarpattia|69
 Lysá pod Makytou|49.197|18.196|SK|Trenčín Region|69
 Lysets|48.869|24.609|UA|Ivano-Frankivsk|69
 Lytle|29.233|-98.796|US|Texas|69
 Lythrodóntas|34.951|33.298|CY|Nicosia|69
+Lyttelton Harbour|-43.607|172.718|NZ||69|f
 Lyford|26.412|-97.790|US|Texas|68
 Lynchburg|34.962|-90.096|US|Mississippi|68
 Łyse|53.364|21.565|PL|Mazovia|67
 Lyndhurst|50.873|-1.577|GB|England|67
+Lynn Lake Airport|56.864|-101.076|CA|Manitoba|67|f
+Lyon-Bron Airport|45.727|4.944|FR|Auvergne-Rhône-Alpes|67|f
 Lýmpia|34.999|33.462|CY|Nicosia|67
 Lyefjell|58.735|5.736|NO|Rogaland|67
 Lymany|46.732|31.968|UA|Mykolaiv|67
@@ -124,6 +135,8 @@ Lyminge|51.130|1.089|GB|England|66
 Lydbrook|51.838|-2.578|GB|England|66
 Lynemouth|55.213|-1.542|GB|England|65
 Lyski|50.120|18.391|PL|Silesia|65
+Lympne Castle|51.072|1.024|GB|England|65|f
+Lyon Park|40.154|44.525|AM|Yerevan|65|f
 Lyme|43.810|-72.156|US|New Hampshire|65
 Lympstone|50.648|-3.432|GB|England|65
 Lykens|40.567|-76.701|US|Pennsylvania|65
@@ -135,6 +148,14 @@ Lypovets|48.281|23.297|UA|Zakarpattia|64
 Lytovezh|50.643|24.187|UA|Volyn|64
 Lyndhurst|38.029|-78.945|US|Virginia|63
 Lynchburg|39.242|-83.791|US|Ohio|63
+Lykilsvatnet|59.658|6.129|NO|Vestland|63|f
+Lyman Allyn Museum of Art|41.376|-72.108|US|Connecticut|63|f
+Lyman Clayton Airport|48.094|-105.576|US|Montana|63|f
+Lynchburg Regional Airport|37.326|-79.204|US|Virginia|63|f
+Lyneham Airport|51.505|-1.993|GB|England|63|f
+Lyngen|69.672|20.344|NO|Troms|63|f
+Lynx Rocks|-62.539|-60.550|AQ||63|f
+Lyulin|42.670|23.099|BG|Pernik|63|f
 Lyrkeía|37.705|22.552|GR|Peloponnese|63
 Lytvynenkove|45.087|34.311|UA|Crimea|63
 Lysyche|47.731|38.595|UA|Donetsk|63
@@ -149,14 +170,148 @@ Lyons|44.775|-122.615|US|Oregon|61
 Lysovychi|49.123|23.889|UA|Lviv|61
 Lyaud|46.340|6.526|FR|Auvergne-Rhône-Alpes|61
 Lynton|51.230|-3.841|GB|England|61
+Lybagh|52.943|-6.481|IE|Leinster|61|f
+Lymanske International Airport|46.669|30.011|UA|Odesa|61|f
+Lyndon Baines Johnson Memorial Grove on the Potomac|38.879|-77.051|US|District of Columbia|61|f
+Lynn Ø|80.150|-19.583|GL||61|f
+Lyon Mountain|44.704|-73.865|US|New York|61|f
+Lysakerfjorden|59.900|10.650|NO|Oslo|61|f
+Łysogóry|50.883|20.950|PL|Świętokrzyskie|61|f
+Lyttelton Range|-71.550|167.750|AQ||61|f
 Łysomice|53.086|18.620|PL|Kujawsko-Pomorskie|61
 Łyszkowice|51.986|19.907|PL|Łódź Voivodeship|61
 Lýkeio|41.064|25.686|GR|East Macedonia and Thrace|61
 Lynn|40.050|-84.940|US|Indiana|60
 Lydiard Millicent|51.571|-1.863|GB|England|60
 Lyndon|38.610|-95.684|US|Kansas|60
+Lyubcha|53.752|26.060|BY|Grodnenskaya|60
+Lybeniq|42.598|20.291|XK|Pec|60
+Lymanchuk|48.016|38.824|UA|Donetsk|60
+Lydia|29.924|-91.783|US|Louisiana|60
+Lynnview|38.178|-85.710|US|Kentucky|59
+Lysohirka|48.066|29.146|UA|Odesa|59
+Lynnville|38.196|-87.297|US|Indiana|59
+Lyps'ke|48.082|38.146|UA|Donetsk|59
+Lyons-la-Forêt|49.399|1.477|FR|Normandy|58
+Lyubopil|46.724|31.101|UA|Odesa|58
+Lypianka|49.384|35.006|UA|Poltava|58
+Lyons Brook|45.668|-62.787|CA|Nova Scotia|58
+Lytviaky|50.076|33.251|UA|Poltava|58
 Lyngseidet|69.576|20.219|NO|Troms|58
+Lyons|41.937|-96.477|US|Nebraska|58
+Lydía|41.031|24.282|GR|East Macedonia and Thrace|58
+Lyng|52.717|1.067|GB|England|58
+Lyndonville|43.327|-78.389|US|New York|58
+Lye|47.228|1.474|FR|Centre-Val de Loire|58
+Lyons|42.982|-84.947|US|Michigan|58
+Lymany|46.696|31.470|UA|Mykolaiv|58
+Lykholity|49.557|32.391|UA|Cherkasy|57
+Lygiá|37.860|21.155|GR|West Greece|57
+Lysivka|50.151|29.529|UA|Zhytomyr Oblast|57
+Lypovenke|48.230|30.580|UA|Kirovohrad|57
+Lyles|35.920|-87.345|US|Tennessee|57
+Lyubomyrivka|48.789|39.308|UA|Luhansk|57
+Lyons|38.989|-87.082|US|Indiana|57
+Lysychanskyi|48.891|38.407|UA|Luhansk|57
+Lynch|36.966|-82.922|US|Kentucky|57
+Lytle Creek|34.259|-117.500|US|California|57
+Lyndon|42.305|-78.354|US|New York|57
+Lychyny|51.451|24.784|UA|Volyn|57
+Lydden|51.163|1.235|GB|England|57
+Lytvynovychi|51.413|33.679|UA|Sumy|56
+Lydia|34.289|-80.112|US|South Carolina|56
+Lynn|34.047|-87.550|US|Alabama|56
+Lynde|50.713|2.421|FR|Hauts-de-France|56
+Lyndon|41.718|-89.926|US|Illinois|56
+Lyubomyrivka|46.885|32.376|UA|Mykolaiv|56
+Lynsted|51.312|0.786|GB|England|56
+Lympsham|51.284|-2.954|GB|England|56
+Lykoshino|58.105|33.713|RU|Tver Oblast|56
+Lygariá|39.495|21.684|GR|Thessaly|55
+Lysivka|50.187|33.931|UA|Poltava|55
+Lypove|49.483|32.724|UA|Poltava|55
+Lyons Falls|43.625|-75.367|US|New York|55
+Lyudmylivka|48.036|31.449|UA|Mykolaiv|55
+Lyman Druhyi|49.691|33.981|UA|Poltava|55
+Lyons|41.700|-84.070|US|Ohio|55
+Lyas|44.757|4.599|FR|Auvergne-Rhône-Alpes|55
+Lyle|43.505|-92.944|US|Minnesota|55
+Lyerly|34.404|-85.403|US|Georgia|54
+Lyonshall|52.198|-2.975|GB|England|54
+Lyzyne|49.532|38.844|UA|Luhansk|54
+Lyford Cay|25.033|-77.567|BS|New Providence|54|f
+Lyftingen Peak|-72.283|-3.233|AQ||54|f
+Lygnern|57.483|12.333|SE||54|f
+Lykke Peak|-54.437|3.321|BV||54|f
+Lyman Lake|34.356|-109.360|US|Arizona|54|f
+Lyme Bay|50.715|-2.903|GB|England|54|f
+Lynch Island|-60.650|-45.600|AQ||54|f
+Lyndon Baines Johnson Museum|30.286|-97.729|US|Texas|54|f
+Lyngdalsfjorden|58.124|6.885|NO|Agder|54|f
+Lynnoaks Park|34.175|-118.901|US|California|54|f
+Lyon Peak|-63.788|-60.798|AQ||54|f
+Lyons-Fulton Bridge|41.868|-90.170|US|Illinois|54|f
+Lyracappul|52.360|-8.227|IE|Munster|54|f
+Łysa Góra|50.861|21.047|PL|Świętokrzyskie|54|f
+Lyshornet|60.241|5.407|NO|Vestland|54|f
+Łysica|50.891|20.897|PL|Świętokrzyskie|54|f
+Lysvatnet|66.904|13.892|NO|Nordland|54|f
+Lyall Islands|-70.683|167.333|AQ||49|f
+Lyaskovets Peak|-62.663|-60.144|AQ||49|f
+Lyceum|37.974|23.743|GR|Attica|49|f
+Lychnis Mountain|51.483|-115.985|CA|Alberta|49|f
+Lyell Lake|-54.317|-36.583|GS||49|f
+Lygne|58.446|7.238|NO|Agder|49|f
+Lygra|60.687|5.129|NO|Vestland|49|f
+Lymburner, Mount|-77.433|-86.500|AQ||49|f
+Lyngebreen|76.624|16.701|SJ|Svalbard|49|f
+Lyon Mountain|42.231|-73.520|US|New York|49|f
+Lyon Peak|39.207|-120.315|US|California|49|f
+Lysebottnuten|60.858|8.185|NO|Buskerud|49|f
+Lyseren|59.684|11.083|NO|Østfold|49|f
+Lyskamm Occidentale|45.927|7.823|CH|Valais|49|f
+Lyttelton Peak|-82.300|158.917|AQ||49|f
+Lyttelton Ridge|-66.358|-63.110|AQ||49|f
+Lyttelton, Cape|-82.350|164.650|AQ||49|f
+Lykershausen|50.200|7.667|DE|Rheinland-Pfalz|47
+Lyall Bay|-41.333|174.800|NZ||40|f
+Lyall Glacier|48.488|-120.747|US|Washington|40|f
+Lycksele Djurpark|64.584|18.666|SE|Västerbotten|40|f
+Lycksjön|59.184|18.211|SE|Stockholm|40|f
+Lyda Ranch Airstrip|45.389|-121.280|US|Oregon|40|f
+Lyddan Island|-74.404|-20.601|AQ||40|f
+Lydford Castle|50.644|-4.111|GB|England|40|f
+Lyell Glacier|37.743|-119.269|US|California|40|f
+Lyell Island|52.670|-131.568|CA|British Columbia|40|f
+Lyendecker Lake|47.197|-95.184|US|Minnesota|40|f
+Lykes Palmdale Airport|26.949|-81.321|US|Florida|40|f
+Lykosoura|37.390|22.032|GR|Peloponnese|40|f
+Lyman Glacier|48.170|-120.897|US|Washington|40|f
+Lyman House Memorial Museum|19.722|-155.091|US|Hawaii|40|f
+Lyme Park|53.357|-2.054|GB|England|40|f
+Lynch Glacier|47.572|-121.180|US|Washington|40|f
+Lynch Point|-75.083|-137.733|AQ||40|f
+Lynch, Mount|-78.167|162.067|AQ||40|f
+Lyndale Park|44.929|-93.300|US|Minnesota|40|f
+Lyne Lake|48.870|-87.361|CA|Ontario|40|f
+Lyngby Sø|55.772|12.487|DK|Capital Region|40|f
+Lynn Lake|45.456|-97.672|US|South Dakota|40|f
+Lynx Lake|46.743|-60.437|CA|Nova Scotia|40|f
+Lynx Lake|54.611|-101.559|CA|Manitoba|40|f
+Lynx Lake|34.518|-112.385|US|Arizona|40|f
+Lynx Mountain|53.117|-119.052|CA|British Columbia|40|f
+Lyon Air Museum|33.674|-117.873|US|California|40|f
+Lyon Lake|42.189|-84.967|US|Michigan|40|f
+Lyons Ferry State Park|46.621|-118.234|US|Washington|40|f
+Lyons Peak|32.702|-116.764|US|California|40|f
+Lysaght, Mount|-82.817|161.317|AQ||40|f
+Lysefjorden|58.940|6.120|NO|Rogaland|40|f
+Lytton Park|43.715|-79.410|CA|Ontario|40|f
+Lyulin Peak|-62.611|-59.809|AQ||40|f
+Lyutitsa Nunatak|-62.531|-59.637|AQ||40|f
+Lyveden New Bield|52.457|-0.553|GB|England|40|f
 Lychkove|49.092|35.205|UA|Dnipropetrovsk|0
 Lydham|52.515|-2.980|GB|England|0
 Lydiard Tregoze|51.550|-1.850|GB|England|0
+Lyme Town Offices|43.815|-72.149|US|New Hampshire|0
 Lynovytsia|50.468|32.390|UA|Chernihiv Oblast|0

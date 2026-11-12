@@ -3,10 +3,12 @@ Beshariq|40.436|70.610|UZ|Fergana|100
 Besbes|36.702|7.847|DZ|El Tarf|96
 Besuki|-7.734|113.698|ID|East Java|95
 Besni|37.693|37.861|TR|Adıyaman Province|92
+Beskids|49.417|20.250|SK||92|f
 Beşikdüzü|41.052|39.233|TR|Trabzon|91
 Beslan|43.193|44.533|RU|North Ossetia–Alania|91
 Best|51.508|5.390|NL|North Brabant|89
 Bessemer|33.402|-86.954|US|Alabama|89
+Beslan Airport|43.205|44.607|RU|North Ossetia–Alania|86|f
 Beshkent|38.821|65.653|UZ|Qashqadaryo|86
 Besalampy|-16.750|44.483|MG|Melaky|82
 Besigheim|48.998|9.143|DE|Baden-Wurttemberg|81
@@ -27,18 +29,22 @@ Bessarabske|46.188|29.146|UA|Odesa|75
 Bessemer City|35.285|-81.284|US|North Carolina|75
 Besisahar|28.231|84.377|NP|Karnali Pradesh|75
 Besnate|45.699|8.767|IT|Lombardy|74
+Bescot Stadium|52.565|-1.991|GB|England|73|f
+Beskid Sądecki|49.450|20.750|PL|Lesser Poland|73|f
 Bessan|43.361|3.422|FR|Occitanie|73
 Bestwina|49.897|19.058|PL|Silesia|73
 Besqaraghay|50.887|79.482|KZ|Abai Region|73
 Beshpagir|45.022|42.381|RU|Stavropol Kray|72
 Bescanó|41.966|2.739|ES|Catalonia|72
 Besko|49.588|21.953|PL|Subcarpathia|71
+Besna Kobila|42.529|22.230|RS|Central Serbia|71|f
 Besenyszög|47.300|20.267|HU|Jász-Nagykun-Szolnok|71
 Bessèges|44.292|4.100|FR|Occitanie|71
 Besleney|44.240|41.739|RU|Karachayevo-Cherkesiya Republic|70
 Bessonovka|50.526|36.301|RU|Belgorod Oblast|70
 Bessines-sur-Gartempe|46.109|1.368|FR|New Aquitaine|69
 Bessé-sur-Braye|47.834|0.750|FR|Pays de la Loire|69
+Beška|42.165|19.229|ME||69|f
 Bessières|43.799|1.606|FR|Occitanie|69
 Beselare|50.848|3.024|BE|Flanders|68
 Besenyőtelek|47.700|20.433|HU|Heves County|68
@@ -53,11 +59,15 @@ Bessenay|45.777|4.554|FR|Auvergne-Rhône-Alpes|67
 Besate|45.313|8.970|IT|Lombardy|66
 Besse-sur-Issole|43.349|6.177|FR|Provence-Alpes-Côte d'Azur|66
 Beștepe|45.092|29.015|RO|Tulcea County|66
+Besançon – La Vèze Aerodrome|47.205|6.080|FR|Bourgogne-Franche-Comté|65|f
+Beskid Żywiecki|49.450|19.083|SK||65|f
+Besshøi|61.518|8.688|NO|Innlandet|65|f
 Bessemer|46.481|-90.053|US|Michigan|65
 Besh-Badam|41.141|72.889|KG|Jalal-Abad Region|65
 Besse-et-Saint-Anastaise|45.517|2.933|FR|Auvergne-Rhône-Alpes|64
 Bestwinka|49.933|19.067|PL|Silesia|64
 Beşeylül|37.925|28.426|TR|Aydın|63
+Besler|47.425|10.187|DE|Bavaria|63|f
 Beşpınar|37.782|40.364|TR|Diyarbakır Province|63
 Bessines|46.302|-0.516|FR|New Aquitaine|63
 Bessay-sur-Allier|46.442|3.363|FR|Auvergne-Rhône-Alpes|63
@@ -66,14 +76,84 @@ Bestyakh|61.371|128.880|RU|Sakha|63
 Beshinji Zobujug|39.576|47.396|AZ|Fuzuli District|62
 Besātīn|27.385|52.661|IR|Bushehr|62
 Beşpınar|37.837|41.602|TR|Batman|62
+Beskid Śląski|49.533|19.000|SK||61|f
+Bessanèse|45.300|7.117|FR|Auvergne-Rhône-Alpes|61|f
 Bessemer|40.975|-80.494|US|Pennsylvania|61
 Beşpınar|41.138|35.217|TR|Samsun|60
+Bésayes|44.966|5.076|FR|Auvergne-Rhône-Alpes|60
+Bessoncourt|47.645|6.932|FR|Bourgogne-Franche-Comté|60
+Bessaboua|6.123|-5.644|CI|Goh-Djiboua|59
+Bešenovo|45.084|19.704|RS|Vojvodina|58
+Beslakhuba|42.758|41.514|GE|Abkhazia|58
+Besednice|48.790|14.557|CZ|South Bohemian Region|58
+Běšiny|49.302|13.313|CZ|Plzeň Region|58
+Besalampy Airport|-16.733|44.467|MG|Melaky|58|f
+Besboro Island|64.129|-161.311|US|Alaska|58|f
+Beszterce Ghetto|47.139|24.489|RO|Bistrița-Năsăud County|58|f
+Besson|46.470|3.264|FR|Auvergne-Rhône-Alpes|58
+Beşbudak|37.142|40.208|TR|Mardin|57
+Béséréguhé|6.495|-6.502|CI|Sassandra-Marahoue|57
+Bešeňová|49.100|19.435|SK|Žilina Region|57
+Bessens|43.879|1.254|FR|Occitanie|57
+Besana Ancha|19.306|-99.765|MX|México|56
+Béséré|4.578|-7.313|CI|Bas-Sassandra District|56
+Beseit / Beceite|40.832|0.183|ES|Aragon|56
+Beşikci|36.363|30.345|TR|Antalya|55
+Beşyol|37.725|38.301|TR|Adıyaman Province|55
+Beschendorf|54.183|10.875|DE|Schleswig-Holstein|55
+Beşyol|40.130|42.648|TR|Kars Province|55
+Besneville|49.368|-1.627|FR|Normandy|54
+Besitz|53.343|10.859|DE|Mecklenburg-Vorpommern|54
+Beseck Lake|41.515|-72.732|US|Connecticut|54|f
+Beseck Mountain|41.513|-72.746|US|Connecticut|54|f
+Beskid Mały|49.800|19.333|PL|Lesser Poland|54|f
+Besnard Point|-64.826|-63.483|AQ||54|f
+Beşparmak Dağları|37.467|27.768|TR|Muğla|54|f
+Bessel Fjord|75.981|-21.103|GL||54|f
+Beschling|47.192|9.681|AT|Vorarlberg|54
+Bestorp|58.233|15.733|SE|Östergötland|54
+Běstvina|49.837|15.596|CZ|Pardubice Region|54
+Beslon|48.849|-1.152|FR|Normandy|54
 Bessude|40.554|8.728|IT|Sardinia|53
+Bescheid|49.750|6.883|DE|Rheinland-Pfalz|52
 Besenzone|44.987|9.956|IT|Emilia-Romagna|50
+Besch, Mount|-78.183|-84.717|AQ||49|f
+Beskid Makowski|49.733|19.700|PL||49|f
+Beskid Wyspowy|49.700|20.250|PL|Lesser Poland|49|f
+Besselsbreen|78.528|21.545|SJ||49|f
+Bessemer Airport|33.312|-86.925|US|Alabama|49|f
+Bessemer Mountain|47.560|-121.608|US|Washington|49|f
+Bessvatnet|61.524|8.765|NO|Innlandet|49|f
+Best Peak|-54.117|-36.817|GS||49|f
+Besdorf|54.050|9.360|DE|Schleswig-Holstein|47
+Beskid|49.229|19.987|PL|Lesser Poland|40|f
+Besnard Lake|55.417|-106.001|CA|Saskatchewan|40|f
+Bessemer Park|41.733|-87.557|US|Illinois|40|f
+Besseringen B-Werk|49.465|6.621|DE|Saarland|40|f
+Besso|46.078|7.659|CH|Valais|40|f
+Besenthal|53.530|10.741|DE|Schleswig-Holstein|37
+Besah|-7.136|111.639|ID|East Java|0
+Besarmanah|-7.225|107.892|ID|West Java|0
 Besenbüren|47.314|8.346|CH|Aargau|0
 Beshkent|40.031|69.819|KG|Batken|0
 Beshkent Shahri|38.811|65.642|UZ|Qashqadaryo|0
 Beshrabot|40.198|65.335|UZ|Navoiy Region|0
+Besisora|-8.858|116.828|ID|West Nusa Tenggara|0
+Beskolen|-9.688|124.278|ID|East Nusa Tenggara|0
 Beşkonak|37.144|31.199|TR|Antalya|0
+Besnakeh|-9.682|124.273|ID|East Nusa Tenggara|0
+Besnam|-9.651|124.656|ID|East Nusa Tenggara|0
+Besole|-8.224|111.819|ID|East Java|0
+Beson|-8.674|116.376|ID|West Nusa Tenggara|0
+Besowo|-6.851|111.656|ID|East Java|0
 Besse|11.267|4.431|NG|Kebbi|0
+Bestala|-8.246|114.978|ID|Bali|0
+Bestamuti|-9.637|124.301|ID|East Nusa Tenggara|0
+Besterek|47.304|85.880|CN|Xinjiang|0
+Besuk Kidul Krajan Satu|-7.784|113.479|ID|East Java|0
+Besuk Selatan|-8.154|113.115|ID|East Java|0
+Besukan|-8.170|113.238|ID|East Java|0
+Besuki|-8.261|111.594|ID|East Java|0
+Besuki Dua|-8.216|111.783|ID|East Java|0
 Besuki Satu|-8.209|111.775|ID|East Java|0
+Besukrejo|-8.186|113.239|ID|East Java|0

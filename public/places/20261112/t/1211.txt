@@ -42,82 +42,860 @@ Komodo|-8.589|119.491|ID|East Nusa Tenggara|66
 Gili Air|-8.358|116.082|ID|West Nusa Tenggara|65
 Jimbaran|-8.791|115.160|ID|Bali|65
 Gili Trawangan|-8.349|116.037|ID|West Nusa Tenggara|64
+Padangbai|-8.532|115.507|ID|Bali|60
 Pemenang|-8.404|116.103|ID|West Nusa Tenggara|60
 Abang|-8.387|115.601|ID|Bali|0
 Aikmel|-8.568|116.531|ID|West Nusa Tenggara|0
+Airsuning|-8.651|116.855|ID|West Nusa Tenggara|0
+Akarakar|-8.221|116.343|ID|West Nusa Tenggara|0
+Alanga|-9.539|119.753|ID|East Nusa Tenggara|0
+Ampanlolat|-8.720|116.198|ID|West Nusa Tenggara|0
+Ampu|-8.723|118.005|ID|West Nusa Tenggara|0
+Andekantor|-9.582|119.367|ID|East Nusa Tenggara|0
+Andelara|-9.543|119.311|ID|East Nusa Tenggara|0
+Angkahgede|-8.463|115.016|ID|Bali|0
+Anjani Barat|-8.604|116.506|ID|West Nusa Tenggara|0
 Anyar|-8.230|116.425|ID|West Nusa Tenggara|0
+Anyar|-6.858|115.296|ID|East Java|0
+Apityeh|-8.453|115.071|ID|Bali|0
 Arjasa|-6.860|115.285|ID|East Java|0
+Babakan Barat|-8.602|116.137|ID|West Nusa Tenggara|0
+Bagikkedok Lauk|-8.572|116.606|ID|West Nusa Tenggara|0
+Bagiktinggang|-8.748|116.304|ID|West Nusa Tenggara|0
+Bajera|-8.504|115.026|ID|Bali|0
+Balai|-8.599|118.983|ID|West Nusa Tenggara|0
+Baleagung|-8.453|115.132|ID|Bali|0
+Bangekdewa|-8.748|116.192|ID|West Nusa Tenggara|0
 Bangli|-8.454|115.355|ID|Bali|0
+Banjar Ababi|-8.406|115.585|ID|Bali|0
+Banjar Abiantuwung|-8.558|115.149|ID|Bali|0
+Banjar Abuan|-8.321|115.313|ID|Bali|0
+Banjar Abuan|-8.463|115.335|ID|Bali|0
+Banjar Angseri|-8.358|115.164|ID|Bali|0
+Banjar Apuan|-8.369|115.178|ID|Bali|0
+Banjar Apuan Kaja|-8.477|115.330|ID|Bali|0
+Banjar Badung|-8.582|115.188|ID|Bali|0
+Banjar Badung Tengah|-8.507|115.199|ID|Bali|0
+Banjar Baleagung|-8.507|115.035|ID|Bali|0
+Banjar Bangbang|-8.447|115.403|ID|Bali|0
+Banjar Bangli|-8.334|115.177|ID|Bali|0
+Banjar Banjaranyar|-8.545|115.144|ID|Bali|0
+Banjar Bantasbaleagung|-8.504|115.069|ID|Bali|0
+Banjar Banua|-8.324|115.295|ID|Bali|0
+Banjar Batanbuah|-8.603|115.105|ID|Bali|0
+Banjar Batanpoh|-8.676|115.258|ID|Bali|0
+Banjar Batanyuh Kaja|-8.508|115.168|ID|Bali|0
+Banjar Batuaji Kaja|-8.513|115.110|ID|Bali|0
+Banjar Batunya|-8.314|115.187|ID|Bali|0
+Banjar Batur|-8.600|115.213|ID|Bali|0
+Banjar Baturiti Kaja|-8.541|115.083|ID|Bali|0
+Banjar Bau Kawan|-8.380|115.584|ID|Bali|0
+Banjar Bayungcerik|-8.297|115.289|ID|Bali|0
+Banjar Bebalang|-8.472|115.353|ID|Bali|0
+Banjar Beji|-8.458|115.582|ID|Bali|0
+Banjar Belancan|-8.280|115.309|ID|Bali|0
+Banjar Belanga|-8.249|115.267|ID|Bali|0
+Banjar Belatung|-8.589|115.122|ID|Bali|0
+Banjar Belok|-8.286|115.243|ID|Bali|0
+Banjar Belumbang Tengah|-8.549|115.063|ID|Bali|0
+Banjar Bengkelgede|-8.588|115.094|ID|Bali|0
+Banjar Beraban Kangin|-8.557|115.042|ID|Bali|0
+Banjar Besakih Kangin|-8.380|115.446|ID|Bali|0
+Banjar Bias|-8.317|115.396|ID|Bali|0
+Banjar Binyan|-8.273|115.264|ID|Bali|0
+Banjar Bongangede|-8.558|115.120|ID|Bali|0
+Banjar Bonyoh|-8.310|115.323|ID|Bali|0
+Banjar Buahan|-8.395|115.237|ID|Bali|0
+Banjar Buahan|-8.287|115.390|ID|Bali|0
+Banjar Buayang|-8.345|115.614|ID|Bali|0
+Banjar Bucu|-8.586|115.206|ID|Bali|0
+Banjar Budakeling|-8.428|115.572|ID|Bali|0
+Banjar Bugbug|-8.489|115.594|ID|Bali|0
+Banjar Bukian|-8.407|115.265|ID|Bali|0
+Banjar Bunutin|-8.301|115.263|ID|Bali|0
+Banjar Cemenggon|-8.539|115.200|ID|Bali|0
+Banjar Cempaga|-8.444|115.357|ID|Bali|0
+Banjar Cice|-8.590|115.171|ID|Bali|0
+Banjar Dalam|-8.447|115.493|ID|Bali|0
+Banjar Danginpangkung|-8.575|115.165|ID|Bali|0
+Banjar Danginsema|-8.450|115.616|ID|Bali|0
+Banjar Dauh Peken|-8.591|115.143|ID|Bali|0
+Banjar Dauhpangkung|-8.545|115.075|ID|Bali|0
+Banjar Dauhrurung|-8.595|115.096|ID|Bali|0
+Banjar Delodrurung|-8.500|115.019|ID|Bali|0
+Banjar Delodsema|-8.598|115.123|ID|Bali|0
+Banjar Demulih|-8.453|115.341|ID|Bali|0
+Banjar Desa|-8.582|115.240|ID|Bali|0
+Banjar Desa Tengah|-8.440|115.563|ID|Bali|0
+Banjar Dujung Kaja|-8.401|115.289|ID|Bali|0
+Banjar Dukuh|-8.573|115.062|ID|Bali|0
+Banjar Dukuh|-8.282|115.552|ID|Bali|0
+Banjar Gablogan|-8.511|115.029|ID|Bali|0
+Banjar Gede|-8.426|115.445|ID|Bali|0
+Banjar Gegelang|-8.502|115.481|ID|Bali|0
+Banjar Genteng|-8.456|115.601|ID|Bali|0
+Banjar Geriana Kangin|-8.434|115.501|ID|Bali|0
+Banjar Getakan|-8.517|115.375|ID|Bali|0
+Banjar Gunungbau|-8.259|115.279|ID|Bali|0
+Banjar Gunungpande|-8.616|115.145|ID|Bali|0
+Banjar Jabejero|-8.599|115.240|ID|Bali|0
+Banjar Jabon|-8.539|115.415|ID|Bali|0
+Banjar Jagasatru|-8.561|115.139|ID|Bali|0
+Banjar Jambe Baleran|-8.532|115.125|ID|Bali|0
+Banjar Jehem Kaja|-8.438|115.376|ID|Bali|0
+Banjar Jumbayah|-8.565|115.165|ID|Bali|0
+Banjar Jungutan|-8.434|115.537|ID|Bali|0
+Banjar Kaler|-8.515|115.490|ID|Bali|0
+Banjar Kaleran|-8.481|115.384|ID|Bali|0
+Banjar Kaleran|-8.512|115.393|ID|Bali|0
+Banjar Kampungislamkusamba|-8.563|115.451|ID|Bali|0
+Banjar Kanginan|-8.534|115.416|ID|Bali|0
+Banjar Kanginan|-8.551|115.461|ID|Bali|0
+Banjar Kangkaang|-8.357|115.612|ID|Bali|0
+Banjar Karangsuling|-8.600|115.195|ID|Bali|0
+Banjar Karangsuung Kaja|-8.419|115.398|ID|Bali|0
+Banjar Katung|-8.310|115.305|ID|Bali|0
+Banjar Kawan|-8.464|115.381|ID|Bali|0
+Banjar Kawan|-8.556|115.397|ID|Bali|0
+Banjar Kawan|-8.571|115.418|ID|Bali|0
+Banjar Kawan|-8.517|115.452|ID|Bali|0
+Banjar Kawan|-8.489|115.524|ID|Bali|0
+Banjar Kawan|-8.463|115.353|ID|Bali|0
+Banjar Kayangan|-8.623|115.230|ID|Bali|0
+Banjar Kayubihi|-8.397|115.363|ID|Bali|0
+Banjar Kebon|-8.540|115.053|ID|Bali|0
+Banjar Kedisan|-8.280|115.381|ID|Bali|0
+Banjar Kedisan Kelod|-8.422|115.292|ID|Bali|0
+Banjar Kedua|-8.518|115.186|ID|Bali|0
+Banjar Kelodan|-8.469|115.549|ID|Bali|0
+Banjar Kelodan|-8.342|115.597|ID|Bali|0
+Banjar Kelodan|-8.499|115.368|ID|Bali|0
+Banjar Kembangsari|-8.510|115.211|ID|Bali|0
+Banjar Keraman|-8.528|115.212|ID|Bali|0
+Banjar Kerobokan|-8.618|115.128|ID|Bali|0
+Banjar Kerta|-8.338|115.287|ID|Bali|0
+Banjar Kertajiwa|-8.640|115.262|ID|Bali|0
+Banjar Kertasari|-8.622|115.210|ID|Bali|0
+Banjar Kubu|-8.428|115.363|ID|Bali|0
+Banjar Kubu|-8.254|115.571|ID|Bali|0
+Banjar Laing|-8.579|115.133|ID|Bali|0
+Banjar Lalangpasek|-8.598|115.145|ID|Bali|0
+Banjar Langgahan Kangin|-8.314|115.271|ID|Bali|0
+Banjar Lebah|-8.533|115.406|ID|Bali|0
+Banjar Lebahsari|-8.545|115.175|ID|Bali|0
+Banjar Lembean|-8.291|115.279|ID|Bali|0
+Banjar Madangan Kaja|-8.475|115.324|ID|Bali|0
+Banjar Mambalkajanan|-8.551|115.223|ID|Bali|0
+Banjar Mambanggede|-8.525|115.063|ID|Bali|0
 Banjar Mandung|-8.518|115.092|ID|Bali|0
+Banjar Mangguh|-8.308|115.294|ID|Bali|0
+Banjar Manikliyu|-8.279|115.287|ID|Bali|0
+Banjar Manukayaanyar|-8.408|115.312|ID|Bali|0
+Banjar Medura|-8.693|115.253|ID|Bali|0
+Banjar Meliling Kawan|-8.509|115.082|ID|Bali|0
+Banjar Mengani|-8.287|115.255|ID|Bali|0
+Banjar Metra Tengah|-8.407|115.385|ID|Bali|0
+Banjar Mulung|-8.479|115.311|ID|Bali|0
+Banjar Mundeh|-8.580|115.139|ID|Bali|0
+Banjar Negari|-8.566|115.377|ID|Bali|0
+Banjar Nyamping|-8.543|115.423|ID|Bali|0
+Banjar Paangkelod|-8.624|115.240|ID|Bali|0
+Banjar Pancingan|-8.560|115.451|ID|Bali|0
+Banjar Pande|-8.513|115.240|ID|Bali|0
+Banjar Pangkungkarung Kangin|-8.544|115.104|ID|Bali|0
+Banjar Pangkungtibah Selatan|-8.594|115.091|ID|Bali|0
+Banjar Parekan|-8.576|115.216|ID|Bali|0
+Banjar Pasek|-8.509|115.382|ID|Bali|0
+Banjar Pasekan|-8.633|115.284|ID|Bali|0
+Banjar Pegatepan|-8.554|115.407|ID|Bali|0
+Banjar Pegeringsingan|-8.476|115.567|ID|Bali|0
+Banjar Pejaten|-8.576|115.107|ID|Bali|0
+Banjar Pekandelan|-8.538|115.399|ID|Bali|0
+Banjar Pekandelan|-8.516|115.401|ID|Bali|0
+Banjar Pekandelan|-8.548|115.080|ID|Bali|0
+Banjar Peken|-8.556|115.421|ID|Bali|0
+Banjar Pekenjelodan|-8.575|115.178|ID|Bali|0
+Banjar Pelaga|-8.293|115.225|ID|Bali|0
+Banjar Pemangkalan|-8.624|115.200|ID|Bali|0
+Banjar Pempatan|-8.380|115.418|ID|Bali|0
+Banjar Pengotan|-8.326|115.362|ID|Bali|0
+Banjar Penida Kaja|-8.433|115.386|ID|Bali|0
+Banjar Penyalin|-8.533|115.109|ID|Bali|0
+Banjar Pesaban Kawan|-8.470|115.403|ID|Bali|0
+Banjar Pesalakan|-8.481|115.302|ID|Bali|0
+Banjar Petak|-8.445|115.320|ID|Bali|0
+Banjar Petuludesa|-8.487|115.274|ID|Bali|0
+Banjar Ponggang|-8.389|115.260|ID|Bali|0
+Banjar Puseh|-8.565|115.137|ID|Bali|0
+Banjar Sandinggianyar|-8.463|115.299|ID|Bali|0
+Banjar Sayanbaleran|-8.506|115.180|ID|Bali|0
+Banjar Sebudi|-8.409|115.484|ID|Bali|0
+Banjar Sedang|-8.571|115.239|ID|Bali|0
+Banjar Sekaan|-8.319|115.330|ID|Bali|0
+Banjar Sekardadi|-8.312|115.349|ID|Bali|0
+Banjar Selat|-8.498|115.404|ID|Bali|0
+Banjar Sembunggede|-8.509|115.088|ID|Bali|0
+Banjar Sempidi|-8.523|115.206|ID|Bali|0
+Banjar Senganan Kangin|-8.369|115.161|ID|Bali|0
+Banjar Sengguan|-8.580|115.111|ID|Bali|0
+Banjar Serangan|-8.543|115.171|ID|Bali|0
+Banjar Seribatu|-8.368|115.344|ID|Bali|0
+Banjar Sidakaria|-8.466|115.448|ID|Bali|0
+Banjar Soka Kaja|-8.524|115.009|ID|Bali|0
+Banjar Subamiabaleagung|-8.514|115.127|ID|Bali|0
+Banjar Susut Kaja|-8.437|115.330|ID|Bali|0
+Banjar Suter|-8.307|115.395|ID|Bali|0
+Banjar Taman|-8.682|115.256|ID|Bali|0
+Banjar Tandangbuanasari|-8.251|115.330|ID|Bali|0
+Banjar Tangkup Anyar|-8.497|115.416|ID|Bali|0
+Banjar Taro Kelod|-8.385|115.279|ID|Bali|0
+Banjar Tebongkang|-8.529|115.244|ID|Bali|0
+Banjar Tegal Belodan|-8.541|115.119|ID|Bali|0
+Banjar Tegalmengkeb Kaja|-8.533|115.034|ID|Bali|0
+Banjar Teguan|-8.506|115.230|ID|Bali|0
+Banjar Tengah|-8.498|115.194|ID|Bali|0
+Banjar Tengah|-8.461|115.396|ID|Bali|0
+Banjar Tengah|-8.494|115.404|ID|Bali|0
+Banjar Tengah|-8.538|115.445|ID|Bali|0
+Banjar Tengah|-8.499|115.507|ID|Bali|0
+Banjar Tengah|-8.446|115.537|ID|Bali|0
+Banjar Tengah|-8.475|115.537|ID|Bali|0
+Banjar Tengah|-8.451|115.290|ID|Bali|0
+Banjar Tengahbelayu|-8.514|115.167|ID|Bali|0
+Banjar Tibubiyu Kaja|-8.559|115.050|ID|Bali|0
+Banjar Tiga|-8.383|115.353|ID|Bali|0
+Banjar Tihingan|-8.532|115.383|ID|Bali|0
+Banjar Timbrah|-8.477|115.597|ID|Bali|0
+Banjar Tohjiwo|-8.327|115.198|ID|Bali|0
+Banjar Tojan Kelod|-8.556|115.402|ID|Bali|0
+Banjar Tonja|-8.552|115.104|ID|Bali|0
+Banjar Triwangsakeliki|-8.452|115.262|ID|Bali|0
+Banjar Triwangsakelusa|-8.441|115.258|ID|Bali|0
+Banjar Trunyan|-8.252|115.425|ID|Bali|0
+Banjar Tuakilangbaleran|-8.520|115.129|ID|Bali|0
+Banjar Ubud|-8.476|115.293|ID|Bali|0
+Banjar Ulapan Satu|-8.510|115.214|ID|Bali|0
+Banjar Ulian|-8.276|115.273|ID|Bali|0
+Banjar Ulumsul|-8.543|115.417|ID|Bali|0
+Banjar Umesalakan|-8.554|115.385|ID|Bali|0
+Banjar Wates Tengah|-8.448|115.501|ID|Bali|0
 Bantaeng|-5.548|119.951|ID|South Sulawesi|0
+Bantawora|-8.326|118.894|ID|West Nusa Tenggara|0
+Bantilan|-6.836|115.374|ID|East Java|0
+Bantu|-8.733|118.027|ID|West Nusa Tenggara|0
+Baodesasampar|-8.639|117.151|ID|West Nusa Tenggara|0
+Barabali|-8.626|116.309|ID|West Nusa Tenggara|0
+Barabedang|-9.694|119.456|ID|East Nusa Tenggara|0
+Barakabita|-9.723|119.361|ID|East Nusa Tenggara|0
+Baratsungai|-6.898|115.434|ID|East Java|0
+Barejulat|-8.659|116.252|ID|West Nusa Tenggara|0
+Baroh|-9.488|119.043|ID|East Nusa Tenggara|0
+Baru|-8.523|116.993|ID|West Nusa Tenggara|0
 Basa|-8.474|115.168|ID|Bali|0
+Batang|-9.592|118.987|ID|East Nusa Tenggara|0
+Batubasong Lauk|-8.528|116.583|ID|West Nusa Tenggara|0
+Batudulang|-8.587|117.281|ID|West Nusa Tenggara|0
+Batugulung|-8.796|116.392|ID|West Nusa Tenggara|0
+Batukuta|-8.603|116.200|ID|West Nusa Tenggara|0
+Batumadeg Kaja|-8.746|115.507|ID|Bali|0
+Batuputih Atas|-6.875|115.370|ID|East Java|0
+Batur|-8.254|115.332|ID|Bali|0
+Baturinggit Kaja|-8.246|115.563|ID|Bali|0
 Baturiti|-8.325|115.186|ID|Bali|0
+Baturotok|-8.665|117.146|ID|West Nusa Tenggara|0
+Batutering|-8.666|117.480|ID|West Nusa Tenggara|0
+Batutulis|-8.691|116.214|ID|West Nusa Tenggara|0
+Bau|-8.563|118.972|ID|West Nusa Tenggara|0
+Bayad|-8.447|115.242|ID|Bali|0
+Bayan|-8.269|116.425|ID|West Nusa Tenggara|0
+Beaung Tengah|-8.421|115.161|ID|Bali|0
+Bebae|-8.690|116.551|ID|West Nusa Tenggara|0
 Bebandem|-8.439|115.561|ID|Bali|0
+Belanting|-8.305|116.627|ID|West Nusa Tenggara|0
+Beleka Satu|-8.742|116.403|ID|West Nusa Tenggara|0
+Belimbingdesa|-8.407|115.037|ID|Bali|0
+Bengkel Utara|-8.616|116.148|ID|West Nusa Tenggara|0
+Bente|-8.350|118.782|ID|West Nusa Tenggara|0
+Benteng|-8.362|118.917|ID|West Nusa Tenggara|0
+Beraim|-8.707|116.340|ID|West Nusa Tenggara|0
+Beringin|-8.524|118.572|ID|West Nusa Tenggara|0
+Besisora|-8.858|116.828|ID|West Nusa Tenggara|0
+Beson|-8.674|116.376|ID|West Nusa Tenggara|0
+Beting|-6.856|115.311|ID|East Java|0
+Biaslantang Kaler|-8.336|115.629|ID|Bali|0
+Blong Daye|-8.693|116.226|ID|West Nusa Tenggara|0
+Boal Atas|-8.791|117.963|ID|West Nusa Tenggara|0
+Bodak|-8.654|116.310|ID|West Nusa Tenggara|0
+Bogorawatu|-9.749|119.327|ID|East Nusa Tenggara|0
+Bolengpulau|-8.438|119.994|ID|East Nusa Tenggara|0
+Bolubewa|-9.533|119.714|ID|East Nusa Tenggara|0
+Bombo|-8.613|119.013|ID|West Nusa Tenggara|0
+Bondoboghila|-9.412|119.353|ID|East Nusa Tenggara|0
 Bondokodi|-9.594|118.993|ID|East Nusa Tenggara|0
+Bonggor|-9.559|118.940|ID|East Nusa Tenggara|0
+Bongkemalik|-8.631|116.528|ID|West Nusa Tenggara|0
+Boro|-8.369|118.277|ID|West Nusa Tenggara|0
+Brahmana|-8.487|115.210|ID|Bali|0
+Buahan Tengah|-8.495|115.150|ID|Bali|0
+Bualu|-8.796|115.217|ID|Bali|0
+Bugis|-8.742|116.842|ID|West Nusa Tenggara|0
+Bungkulan|-8.446|115.642|ID|Bali|0
+Bungtiang Barat|-8.731|116.484|ID|West Nusa Tenggara|0
+Bunutan|-8.465|115.248|ID|Bali|0
+Buruan Tengah|-8.458|115.139|ID|Bali|0
+Campa|-8.586|118.580|ID|West Nusa Tenggara|0
+Carik|-8.483|115.077|ID|Bali|0
+Cempa|-8.493|119.878|ID|East Nusa Tenggara|0
 Dajan Tangluk|-8.646|115.239|ID|Bali|0
+Dajanpeken|-8.470|115.184|ID|Bali|0
+Dalam|-8.742|116.849|ID|West Nusa Tenggara|0
+Dalam|-8.515|116.995|ID|West Nusa Tenggara|0
+Dalam Daya|-8.680|116.471|ID|West Nusa Tenggara|0
+Dalamdesa Selatan|-8.594|116.412|ID|West Nusa Tenggara|0
+Dalangdesa|-8.440|115.081|ID|Bali|0
+Dalong|-8.565|119.936|ID|East Nusa Tenggara|0
+Danger Utara|-8.612|116.459|ID|West Nusa Tenggara|0
+Darmaji|-8.672|116.336|ID|West Nusa Tenggara|0
+Dasangeria Selatan|-8.556|116.148|ID|West Nusa Tenggara|0
+Dasanlian Lauk|-8.551|116.519|ID|West Nusa Tenggara|0
+Dawan|-8.541|115.442|ID|Bali|0
+Dayanpeken|-8.592|116.421|ID|West Nusa Tenggara|0
+Delo|-9.595|119.213|ID|East Nusa Tenggara|0
+Delodpeken|-8.492|115.091|ID|Bali|0
+Denggen Daya|-8.666|116.510|ID|West Nusa Tenggara|0
+Denuma|-8.415|115.122|ID|Bali|0
+Dinjo|-9.594|119.014|ID|East Nusa Tenggara|0
+Dodu Dua|-8.489|118.796|ID|West Nusa Tenggara|0
 Donggo|-8.425|118.595|ID|West Nusa Tenggara|0
+Doro Oo|-8.686|118.763|ID|West Nusa Tenggara|0
+Doropeti|-8.347|117.822|ID|West Nusa Tenggara|0
 Duda|-8.442|115.487|ID|Bali|0
+Duko Tengah|-6.857|115.280|ID|East Java|0
+Dumandesa|-8.564|116.149|ID|West Nusa Tenggara|0
 Elopada|-9.569|119.317|ID|East Nusa Tenggara|0
+Empalan|-8.395|115.151|ID|Bali|0
+Galubakul|-9.621|119.567|ID|East Nusa Tenggara|0
+Ganti Dua|-8.769|116.395|ID|West Nusa Tenggara|0
+Gelagah|-8.707|115.559|ID|Bali|0
+Gelumpang|-8.596|116.525|ID|West Nusa Tenggara|0
+Gerelayang|-6.853|115.262|ID|East Java|0
+Gereneng|-8.687|116.512|ID|West Nusa Tenggara|0
 Gerung|-8.683|116.125|ID|West Nusa Tenggara|0
 Gianyar|-8.543|115.327|ID|Bali|0
 Godo|-8.561|118.666|ID|West Nusa Tenggara|0
+Gontar|-8.511|116.978|ID|West Nusa Tenggara|0
+Gubuk Daya|-8.525|116.573|ID|West Nusa Tenggara|0
+Gubuk Daya|-8.569|116.624|ID|West Nusa Tenggara|0
+Gubuk Lauk|-8.632|116.451|ID|West Nusa Tenggara|0
+Gubuk Lauk|-8.648|116.486|ID|West Nusa Tenggara|0
+Gubuk Leuk|-8.618|116.608|ID|West Nusa Tenggara|0
+Gubuk Timuk|-8.633|116.504|ID|West Nusa Tenggara|0
+Gubukjero Timuk|-8.560|116.479|ID|West Nusa Tenggara|0
+Gunungrajak|-8.707|116.463|ID|West Nusa Tenggara|0
+Hamonggolele|-9.581|118.995|ID|East Nusa Tenggara|0
+Hidirasa|-8.325|118.922|ID|West Nusa Tenggara|0
+Hodi|-9.713|119.255|ID|East Nusa Tenggara|0
+Hohawungo|-9.532|119.024|ID|East Nusa Tenggara|0
+Hombakaripit|-9.521|119.033|ID|East Nusa Tenggara|0
 Jabajero|-8.728|115.175|ID|Bali|0
 Janapria|-8.695|116.401|ID|West Nusa Tenggara|0
+Jejelok|-8.612|116.166|ID|West Nusa Tenggara|0
+Jelateng Timur|-8.755|116.085|ID|West Nusa Tenggara|0
+Jembe Timur|-8.715|116.411|ID|West Nusa Tenggara|0
 Jeneponto|-5.676|119.748|ID|South Sulawesi|0
+Jorok Dalam|-8.411|117.135|ID|West Nusa Tenggara|0
+Jorong Lauk|-8.567|116.575|ID|West Nusa Tenggara|0
+Jorowaru Daya|-8.787|116.481|ID|West Nusa Tenggara|0
+Jungutbatu Kaja Dua|-8.677|115.448|ID|Bali|0
+Juranalas|-8.523|116.997|ID|West Nusa Tenggara|0
+Kabar Utara|-8.661|116.476|ID|West Nusa Tenggara|0
+Kabondok|-9.599|119.572|ID|East Nusa Tenggara|0
 Kabukarudi|-9.725|119.360|ID|East Nusa Tenggara|0
+Kahale|-9.696|119.105|ID|East Nusa Tenggara|0
+Kajisara|-6.878|115.507|ID|East Java|0
+Kalate|-8.543|118.247|ID|West Nusa Tenggara|0
+Kalede|-8.571|118.987|ID|West Nusa Tenggara|0
+Kalembutillu|-9.560|119.244|ID|East Nusa Tenggara|0
+Kalimango|-8.522|116.995|ID|West Nusa Tenggara|0
+Kalimbukuni|-9.636|119.436|ID|East Nusa Tenggara|0
+Kalodu|-8.659|118.838|ID|West Nusa Tenggara|0
+Kaloghodalo|-9.547|118.987|ID|East Nusa Tenggara|0
+Kambatatamakawu|-9.421|119.894|ID|East Nusa Tenggara|0
+Kambu|-8.386|118.321|ID|West Nusa Tenggara|0
+Kampungbaru|-8.502|116.664|ID|West Nusa Tenggara|0
+Kampungmasjid|-8.598|116.450|ID|West Nusa Tenggara|0
+Kangin|-8.490|115.389|ID|Bali|0
+Kangin|-8.833|115.127|ID|Bali|0
+Kapakabisa|-9.722|119.300|ID|East Nusa Tenggara|0
+Kara|-8.340|118.919|ID|West Nusa Tenggara|0
 Karang Daye|-8.745|116.241|ID|West Nusa Tenggara|0
+Karang Kuripan|-8.635|116.154|ID|West Nusa Tenggara|0
+Karangbalong|-8.490|117.425|ID|West Nusa Tenggara|0
+Karangbaru|-8.621|116.476|ID|West Nusa Tenggara|0
+Karangbugis|-8.497|117.422|ID|West Nusa Tenggara|0
+Karangdalam|-8.738|116.243|ID|West Nusa Tenggara|0
+Karangdima|-8.475|117.392|ID|West Nusa Tenggara|0
+Karanggedang|-8.223|116.399|ID|West Nusa Tenggara|0
+Karangkebon Timur|-8.627|116.138|ID|West Nusa Tenggara|0
+Karangkecicang|-8.595|116.131|ID|West Nusa Tenggara|0
+Karangmete|-8.276|117.750|ID|West Nusa Tenggara|0
+Karangparwa|-8.603|116.127|ID|West Nusa Tenggara|0
+Karangranjong|-8.582|116.512|ID|West Nusa Tenggara|0
+Karangsubagan|-8.407|116.102|ID|West Nusa Tenggara|0
+Karangtengah|-8.902|117.744|ID|West Nusa Tenggara|0
+Karano|-8.708|118.730|ID|West Nusa Tenggara|0
+Karumbu|-8.695|118.830|ID|West Nusa Tenggara|0
 Karyadharma|-8.704|115.219|ID|Bali|0
+Katikuloko|-9.598|119.543|ID|East Nusa Tenggara|0
+Kawangohari|-9.541|119.003|ID|East Nusa Tenggara|0
+Kayuaru|-6.913|115.558|ID|East Java|0
 Kediri|-8.634|116.151|ID|West Nusa Tenggara|0
+Kekeran|-8.491|115.178|ID|Bali|0
+Kekeri|-8.557|116.128|ID|West Nusa Tenggara|0
+Kelanabian|-8.752|115.177|ID|Bali|0
+Keli|-8.390|118.799|ID|West Nusa Tenggara|0
+Kelungkung|-8.552|117.337|ID|West Nusa Tenggara|0
+Kembangkerang Lauk Timur|-8.558|116.538|ID|West Nusa Tenggara|0
+Kembangkerang Satu|-8.597|116.298|ID|West Nusa Tenggara|0
+Kembansari|-8.481|117.410|ID|West Nusa Tenggara|0
 Kempo|-8.543|118.248|ID|West Nusa Tenggara|0
+Kenari|-8.618|119.840|ID|East Nusa Tenggara|0
+Kendo Satu|-8.469|118.780|ID|West Nusa Tenggara|0
+Keroak|-8.570|116.498|ID|West Nusa Tenggara|0
+Kesi|-8.534|118.192|ID|West Nusa Tenggara|0
+Kesiutkawan Kaja|-8.480|115.109|ID|Bali|0
+Ketara|-8.789|116.281|ID|West Nusa Tenggara|0
+Kettep|-6.861|115.284|ID|East Java|0
+Klumbu|-8.718|115.523|ID|Bali|0
+Kolla|-6.883|115.349|ID|East Java|0
+Kolo|-8.372|118.719|ID|West Nusa Tenggara|0
+Kombapari|-9.786|119.938|ID|East Nusa Tenggara|0
+Komerda|-9.632|119.410|ID|East Nusa Tenggara|0
+Komi|-9.430|119.303|ID|East Nusa Tenggara|0
+Konte|-8.545|118.234|ID|West Nusa Tenggara|0
 Kopang Satu|-8.633|116.352|ID|West Nusa Tenggara|0
 Kore|-8.376|118.299|ID|West Nusa Tenggara|0
+Kore Barat|-8.375|118.295|ID|West Nusa Tenggara|0
+Kori|-9.508|119.035|ID|East Nusa Tenggara|0
 Kotawaikabubak|-9.638|119.423|ID|East Nusa Tenggara|0
+Kowo|-8.535|119.006|ID|West Nusa Tenggara|0
+Krida|-8.978|117.188|ID|West Nusa Tenggara|0
 Kubu|-8.252|115.567|ID|Bali|0
+Kumbe|-8.485|118.770|ID|West Nusa Tenggara|0
+Kuta|-8.586|118.781|ID|West Nusa Tenggara|0
+Kutampi|-8.674|115.552|ID|Bali|0
+Kute|-8.892|116.278|ID|West Nusa Tenggara|0
+Kuwumkumambal|-8.488|115.170|ID|Bali|0
+Labangka Satu|-8.900|117.768|ID|West Nusa Tenggara|0
+Labuhanaji|-8.219|117.486|ID|West Nusa Tenggara|0
+Labuhanbadas|-8.464|117.368|ID|West Nusa Tenggara|0
+Labuhanjambu|-8.696|118.020|ID|West Nusa Tenggara|0
+Labuhankananga|-8.139|117.771|ID|West Nusa Tenggara|0
+Labuhankuris|-8.581|117.634|ID|West Nusa Tenggara|0
+Labuhanlalar|-8.815|116.816|ID|West Nusa Tenggara|0
+Labuhanmapin|-8.519|116.940|ID|West Nusa Tenggara|0
+Labuhansumbawa|-8.473|117.401|ID|West Nusa Tenggara|0
+Lahihagalang|-9.722|119.453|ID|East Nusa Tenggara|0
+Laiponda|-9.863|119.896|ID|East Nusa Tenggara|0
+Laleng|-8.448|115.047|ID|Bali|0
+Lambitu|-8.597|118.772|ID|West Nusa Tenggara|0
+Lampe Satu|-8.512|118.801|ID|West Nusa Tenggara|0
+Lanci Satu|-8.493|118.318|ID|West Nusa Tenggara|0
+Lanta Timur|-8.618|118.999|ID|West Nusa Tenggara|0
+Lantebaru|-8.632|118.774|ID|West Nusa Tenggara|0
+Larangan|-6.890|115.316|ID|East Java|0
+Lasi Dua|-8.302|118.403|ID|West Nusa Tenggara|0
+Laukrurung|-8.639|116.476|ID|West Nusa Tenggara|0
+Lawonda|-9.525|119.592|ID|East Nusa Tenggara|0
+Lekong|-8.535|116.966|ID|West Nusa Tenggara|0
+Lekor Barat|-8.730|116.435|ID|West Nusa Tenggara|0
+Lela|-8.441|118.751|ID|West Nusa Tenggara|0
+Lelongken|-8.323|116.497|ID|West Nusa Tenggara|0
+Lembongan Kawan|-8.690|115.440|ID|Bali|0
 Lenangguar|-8.736|117.365|ID|West Nusa Tenggara|0
+Lendangara Satu|-8.609|116.372|ID|West Nusa Tenggara|0
+Lendangtampel Daya|-8.613|116.287|ID|West Nusa Tenggara|0
+Lepak|-8.705|116.501|ID|West Nusa Tenggara|0
+Leteloko|-9.605|119.019|ID|East Nusa Tenggara|0
+Leu|-8.507|118.624|ID|West Nusa Tenggara|0
+Liang|-8.860|116.829|ID|West Nusa Tenggara|0
+Lido|-8.629|118.734|ID|West Nusa Tenggara|0
+Lilin Satu|-8.619|116.365|ID|West Nusa Tenggara|0
+Lingsar|-8.573|116.182|ID|West Nusa Tenggara|0
+Lintek|-8.663|116.456|ID|West Nusa Tenggara|0
+Litibakul|-9.700|119.436|ID|East Nusa Tenggara|0
+Loangmaka|-8.714|116.393|ID|West Nusa Tenggara|0
 Lokokrangan|-8.255|116.259|ID|West Nusa Tenggara|0
+Lokori|-9.419|119.398|ID|East Nusa Tenggara|0
+Lokorota|-9.587|119.066|ID|East Nusa Tenggara|0
+Lokuuy|-9.566|119.814|ID|East Nusa Tenggara|0
+Loloan|-8.256|116.439|ID|West Nusa Tenggara|0
+Lopokloka|-8.608|117.547|ID|West Nusa Tenggara|0
+Luar|-8.519|116.993|ID|West Nusa Tenggara|0
+Lukkarya|-8.429|117.288|ID|West Nusa Tenggara|0
+Lunyuk Ode|-8.971|117.216|ID|West Nusa Tenggara|0
+Luwus|-8.398|115.196|ID|Bali|0
+Majan|-8.730|116.312|ID|West Nusa Tenggara|0
 Malaju|-8.310|118.394|ID|West Nusa Tenggara|0
+Malata|-9.447|119.385|ID|East Nusa Tenggara|0
+Maledona|-9.723|119.385|ID|East Nusa Tenggara|0
+Maliiha|-9.553|119.019|ID|East Nusa Tenggara|0
+Malulla|-9.627|119.251|ID|East Nusa Tenggara|0
+Mambalan|-8.550|116.128|ID|West Nusa Tenggara|0
+Mandar|-6.855|115.255|ID|East Java|0
+Mandikbatu|-8.720|116.505|ID|West Nusa Tenggara|0
+Mangge|-8.677|118.946|ID|West Nusa Tenggara|0
+Manggekompo|-8.417|118.617|ID|West Nusa Tenggara|0
+Manggenae|-8.431|118.618|ID|West Nusa Tenggara|0
 Mangupura|-8.544|115.170|ID|Bali|0
 Manola|-9.564|119.201|ID|East Nusa Tenggara|0
 Mantang|-8.616|116.314|ID|West Nusa Tenggara|0
+Mantar|-8.616|116.826|ID|West Nusa Tenggara|0
+Manuakalada|-9.401|119.545|ID|East Nusa Tenggara|0
+Manukaka|-9.597|119.588|ID|East Nusa Tenggara|0
+Mapinkebak|-8.550|116.942|ID|West Nusa Tenggara|0
+Mapinrea|-8.560|116.946|ID|West Nusa Tenggara|0
+Maredakalada|-9.597|119.320|ID|East Nusa Tenggara|0
+Maredakamau|-9.435|119.187|ID|East Nusa Tenggara|0
+Marenteh|-8.547|117.018|ID|West Nusa Tenggara|0
 Maria|-8.524|118.843|ID|West Nusa Tenggara|0
+Marisgama|-8.912|117.684|ID|West Nusa Tenggara|0
+Marokota|-9.501|119.177|ID|East Nusa Tenggara|0
+Maronge|-8.671|117.707|ID|West Nusa Tenggara|0
 Masbagik|-8.622|116.477|ID|West Nusa Tenggara|0
+Matumadua|-9.389|119.754|ID|East Nusa Tenggara|0
+Mawu|-8.283|118.837|ID|West Nusa Tenggara|0
+Megati Kelod|-8.498|115.056|ID|Bali|0
+Mejelo Timur|-8.638|116.389|ID|West Nusa Tenggara|0
+Mekarjaya|-8.887|117.793|ID|West Nusa Tenggara|0
+Melati|-8.567|118.927|ID|West Nusa Tenggara|0
+Melati|-8.507|118.623|ID|West Nusa Tenggara|0
+Melinggih|-8.431|115.245|ID|Bali|0
+Melo|-8.598|119.961|ID|East Nusa Tenggara|0
+Menala|-8.744|116.856|ID|West Nusa Tenggara|0
+Menanga|-8.410|115.421|ID|Bali|0
+Meraran|-8.688|116.849|ID|West Nusa Tenggara|0
+Meringkik|-8.816|116.531|ID|West Nusa Tenggara|0
+Merombok|-8.540|119.897|ID|East Nusa Tenggara|0
+Mesa|-8.528|119.746|ID|East Nusa Tenggara|0
+Mesjid|-6.981|115.430|ID|East Java|0
+Monggo|-8.514|118.567|ID|West Nusa Tenggara|0
+Montongbaan|-8.636|116.428|ID|West Nusa Tenggara|0
+Montongbelok|-8.631|116.329|ID|West Nusa Tenggara|0
+Montonggamang|-8.634|116.371|ID|West Nusa Tenggara|0
+Montonggedeng|-8.539|116.592|ID|West Nusa Tenggara|0
+Montongkemong|-8.491|116.554|ID|West Nusa Tenggara|0
+Montongtangi Timuk|-8.687|116.495|ID|West Nusa Tenggara|0
+Montongtebolak|-8.726|116.464|ID|West Nusa Tenggara|0
+Motong|-8.743|116.853|ID|West Nusa Tenggara|0
+Motong Barat|-8.415|117.131|ID|West Nusa Tenggara|0
+Muer|-8.749|117.731|ID|West Nusa Tenggara|0
+Muhajirin|-8.646|116.520|ID|West Nusa Tenggara|0
+Muhajirin|-8.903|117.718|ID|West Nusa Tenggara|0
 Mujur|-8.762|116.355|ID|West Nusa Tenggara|0
+Mujur|-8.604|116.401|ID|West Nusa Tenggara|0
+Mungkin|-8.751|117.127|ID|West Nusa Tenggara|0
 Muraloka|-8.772|116.879|ID|West Nusa Tenggara|0
+Nae|-8.565|118.982|ID|West Nusa Tenggara|0
+Naebugis|-8.577|119.007|ID|West Nusa Tenggara|0
+Nangabere|-8.817|119.965|ID|East Nusa Tenggara|0
+Nangaraba|-8.315|118.768|ID|West Nusa Tenggara|0
+Napu|-9.396|119.926|ID|East Nusa Tenggara|0
 Narmada|-8.591|116.202|ID|West Nusa Tenggara|0
 Naru|-8.572|118.993|ID|West Nusa Tenggara|0
+Ncera|-8.635|118.745|ID|West Nusa Tenggara|0
+Ndano|-8.496|118.541|ID|West Nusa Tenggara|0
+Ngaduloda|-9.692|119.370|ID|East Nusa Tenggara|0
+Ngeru|-8.517|117.516|ID|West Nusa Tenggara|0
+Ngondokandawu|-9.660|119.076|ID|East Nusa Tenggara|0
+Npongge|-8.553|118.292|ID|West Nusa Tenggara|0
+Ntobo|-8.450|118.779|ID|West Nusa Tenggara|0
+Ntoke|-8.408|118.907|ID|West Nusa Tenggara|0
+Ntonggu|-8.530|118.761|ID|West Nusa Tenggara|0
+Nungga|-8.483|118.793|ID|West Nusa Tenggara|0
+Nusajaya|-8.482|118.306|ID|West Nusa Tenggara|0
+Nyangkleng|-6.855|115.293|ID|East Java|0
+Nyiurtebel|-8.636|116.499|ID|West Nusa Tenggara|0
+Obelobel|-8.265|116.549|ID|West Nusa Tenggara|0
+Oinao|-8.577|118.827|ID|West Nusa Tenggara|0
+Oitui|-8.333|118.978|ID|West Nusa Tenggara|0
+Ombakamia|-9.522|119.304|ID|East Nusa Tenggara|0
+Ombarade|-9.563|119.302|ID|East Nusa Tenggara|0
+Ompuboi|-8.628|118.710|ID|West Nusa Tenggara|0
+Ongko|-8.739|118.044|ID|West Nusa Tenggara|0
+Oo|-8.421|118.598|ID|West Nusa Tenggara|0
+Orong|-8.413|117.130|ID|West Nusa Tenggara|0
+Osapsio|-8.479|117.413|ID|West Nusa Tenggara|0
+Padasuka|-8.993|117.207|ID|West Nusa Tenggara|0
+Padedemanu|-9.451|119.103|ID|East Nusa Tenggara|0
+Padedewatu|-9.748|119.401|ID|East Nusa Tenggara|0
+Pagutan|-8.627|116.284|ID|West Nusa Tenggara|0
+Pahomba|-9.624|119.800|ID|East Nusa Tenggara|0
+Pai|-8.432|119.025|ID|West Nusa Tenggara|0
+Pajannangger|-6.980|115.397|ID|East Java|0
+Palama|-8.475|118.537|ID|West Nusa Tenggara|0
+Pali|-8.377|118.309|ID|West Nusa Tenggara|0
+Palla|-9.527|119.355|ID|East Nusa Tenggara|0
+Pancoran|-8.664|116.488|ID|West Nusa Tenggara|0
+Panenggoede|-9.670|119.051|ID|East Nusa Tenggara|0
+Pangsan|-8.415|115.221|ID|Bali|0
+Paokmotong Utara|-8.626|116.459|ID|West Nusa Tenggara|0
+Paoqpampang|-8.697|116.570|ID|West Nusa Tenggara|0
+Parang|-8.744|117.981|ID|West Nusa Tenggara|0
+Parse|-6.860|115.271|ID|East Java|0
+Pasar|-6.859|115.319|ID|East Java|0
+Pasarbaru|-6.860|115.317|ID|East Java|0
+Pasolapida|-9.640|119.163|ID|East Nusa Tenggara|0
+Pasonobenu|-9.550|119.171|ID|East Nusa Tenggara|0
+Pataha|-8.530|119.010|ID|West Nusa Tenggara|0
+Payangan Tengah|-8.436|115.167|ID|Bali|0
+Pecatu|-8.832|115.125|ID|Bali|0
+Ped|-8.674|115.506|ID|Bali|0
+Pediti|-8.588|116.330|ID|West Nusa Tenggara|0
+Pegongan|-8.486|115.227|ID|Bali|0
+Pejukutan|-8.749|115.586|ID|Bali|0
+Pemijian|-8.450|115.219|ID|Bali|0
+Pemongkong|-8.845|116.482|ID|West Nusa Tenggara|0
+Penanae|-8.460|118.764|ID|West Nusa Tenggara|0
+Penaraga|-8.466|118.757|ID|West Nusa Tenggara|0
+Penatahan Kaja|-8.436|115.126|ID|Bali|0
+Pendaleman|-8.684|116.240|ID|West Nusa Tenggara|0
+Penebel|-8.421|115.145|ID|Bali|0
+Peneng|-8.380|115.194|ID|Bali|0
+Pengembunan|-8.495|115.154|ID|Bali|0
+Pengembur Dua|-8.807|116.263|ID|West Nusa Tenggara|0
+Penggakrajeng|-8.324|115.618|ID|Bali|0
+Pengkelakmas|-8.734|116.499|ID|West Nusa Tenggara|0
+Penimbung Barat|-8.547|116.135|ID|West Nusa Tenggara|0
+Penunjak|-8.745|116.240|ID|West Nusa Tenggara|0
+Penyaring Bawah|-8.470|117.466|ID|West Nusa Tenggara|0
+Peresak Barat|-8.658|116.552|ID|West Nusa Tenggara|0
+Pergan|-8.427|115.195|ID|Bali|0
+Perian Selatan|-8.564|116.393|ID|West Nusa Tenggara|0
+Permas|-8.738|116.208|ID|West Nusa Tenggara|0
+Peseng|-8.580|116.374|ID|West Nusa Tenggara|0
+Petang|-8.396|115.219|ID|Bali|0
+Petiga|-8.436|115.177|ID|Bali|0
+Piong|-8.357|118.254|ID|West Nusa Tenggara|0
+Pisang|-8.470|118.757|ID|West Nusa Tenggara|0
+Pisangkemeng|-8.803|117.777|ID|West Nusa Tenggara|0
 Plampang|-8.797|117.779|ID|West Nusa Tenggara|0
+Pohgending Kangin|-8.432|115.145|ID|Bali|0
 Pohgending Kawan|-8.436|115.143|ID|Bali|0
+Poja Nae|-8.502|119.039|ID|West Nusa Tenggara|0
+Pondokkaha Kelod|-8.736|115.495|ID|Bali|0
+Poto|-8.499|117.478|ID|West Nusa Tenggara|0
+Prailangina|-9.649|119.745|ID|East Nusa Tenggara|0
+Praimutung|-9.723|119.456|ID|East Nusa Tenggara|0
+Prawira|-8.361|116.144|ID|West Nusa Tenggara|0
+Pretana|-9.616|119.644|ID|East Nusa Tenggara|0
+Pringalot|-8.427|115.419|ID|Bali|0
 Pringgabaya|-8.557|116.632|ID|West Nusa Tenggara|0
+Puukadelu|-9.651|119.410|ID|East Nusa Tenggara|0
 Raba|-8.461|118.747|ID|West Nusa Tenggara|0
+Raba|-8.561|118.863|ID|West Nusa Tenggara|0
+Radamata|-9.426|119.245|ID|East Nusa Tenggara|0
+Radamata|-9.549|119.146|ID|East Nusa Tenggara|0
+Raioi|-8.563|118.979|ID|West Nusa Tenggara|0
+Rangah|-8.782|116.351|ID|West Nusa Tenggara|0
+Ranggagata|-8.722|116.185|ID|West Nusa Tenggara|0
+Rarang Selatan|-8.639|116.394|ID|West Nusa Tenggara|0
+Rasabau|-8.566|118.984|ID|West Nusa Tenggara|0
+Rasabou|-8.537|118.255|ID|West Nusa Tenggara|0
+Rate|-8.540|118.555|ID|West Nusa Tenggara|0
+Rato|-8.474|118.765|ID|West Nusa Tenggara|0
+Rato|-8.506|118.621|ID|West Nusa Tenggara|0
+Redakodi|-9.454|119.227|ID|East Nusa Tenggara|0
+Rejasa Kaja|-8.461|115.117|ID|Bali|0
+Rempe|-8.647|116.866|ID|West Nusa Tenggara|0
+Rempungtimur Utara|-8.612|116.499|ID|West Nusa Tenggara|0
+Rhee Beru|-8.418|117.236|ID|West Nusa Tenggara|0
+Riang Tengah|-8.493|115.124|ID|Bali|0
+Rontu|-8.480|118.754|ID|West Nusa Tenggara|0
+Rora|-8.477|118.511|ID|West Nusa Tenggara|0
+Rora Timur|-8.487|118.482|ID|West Nusa Tenggara|0
+Rungkam|-8.473|119.990|ID|East Nusa Tenggara|0
+Rupe|-8.695|118.838|ID|West Nusa Tenggara|0
+Sagikmateng|-8.828|116.408|ID|West Nusa Tenggara|0
+Sai|-8.316|118.659|ID|West Nusa Tenggara|0
 Sakra|-8.683|116.462|ID|West Nusa Tenggara|0
+Sakti|-8.706|115.482|ID|Bali|0
+Samangawah|-8.495|118.299|ID|West Nusa Tenggara|0
 Sambelia|-8.379|116.687|ID|West Nusa Tenggara|0
 Sampalan|-8.674|115.559|ID|Bali|0
+Sampir|-8.742|116.856|ID|West Nusa Tenggara|0
+Sampungu|-8.265|118.544|ID|West Nusa Tenggara|0
+Saneo|-8.471|118.450|ID|West Nusa Tenggara|0
+Sangari|-8.442|118.579|ID|West Nusa Tenggara|0
+Sangia|-8.563|118.984|ID|West Nusa Tenggara|0
+Sangiang|-8.297|118.933|ID|West Nusa Tenggara|0
+Sangkangunung|-8.458|115.434|ID|Bali|0
+Sangumata|-9.403|119.561|ID|East Nusa Tenggara|0
+Santong|-8.318|116.287|ID|West Nusa Tenggara|0
 Sapeken|-7.005|115.706|ID|East Java|0
+Saseel|-7.091|115.766|ID|East Java|0
+Satowebrang|-8.416|117.127|ID|West Nusa Tenggara|0
+Sawirara|-9.393|119.478|ID|East Nusa Tenggara|0
+Sayang Lauq|-8.569|116.132|ID|West Nusa Tenggara|0
+Sebasang|-8.650|117.446|ID|West Nusa Tenggara|0
+Sebedo|-8.429|117.163|ID|West Nusa Tenggara|0
+Sebewe|-8.479|117.479|ID|West Nusa Tenggara|0
+Sekartaji|-8.801|115.569|ID|Bali|0
 Sekongkang Bawah|-8.966|116.749|ID|West Nusa Tenggara|0
 Sekotong Tengah|-8.778|116.049|ID|West Nusa Tenggara|0
+Selagalas|-8.581|116.144|ID|West Nusa Tenggara|0
+Selaparang Timur|-8.548|116.601|ID|West Nusa Tenggara|0
+Selat|-8.435|115.475|ID|Bali|0
+Selat|-8.582|116.210|ID|West Nusa Tenggara|0
+Selebung|-8.765|116.482|ID|West Nusa Tenggara|0
+Selebung Satu|-8.602|116.323|ID|West Nusa Tenggara|0
+Selemadeg Kelod|-8.496|115.041|ID|Bali|0
 Semamung|-8.652|117.429|ID|West Nusa Tenggara|0
 Semarapura|-8.535|115.402|ID|Bali|0
+Semayan|-8.719|116.284|ID|West Nusa Tenggara|0
+Sembalunbumbung|-8.385|116.545|ID|West Nusa Tenggara|0
+Sembalunlawang|-8.364|116.534|ID|West Nusa Tenggara|0
 Semongkat|-8.572|117.319|ID|West Nusa Tenggara|0
+Sempe Atas|-8.655|117.363|ID|West Nusa Tenggara|0
 Senayan|-8.613|116.850|ID|West Nusa Tenggara|0
+Sengkerang Tiga|-8.768|116.374|ID|West Nusa Tenggara|0
+Sepanjang|-7.180|115.785|ID|East Java|0
+Sepit|-8.742|116.461|ID|West Nusa Tenggara|0
+Sepolong Timur|-8.585|116.454|ID|West Nusa Tenggara|0
+Seraya|-8.430|115.658|ID|Bali|0
+Sesaot Lauq|-8.541|116.245|ID|West Nusa Tenggara|0
+Seseng|-8.467|117.230|ID|West Nusa Tenggara|0
+Setanggor|-8.654|116.481|ID|West Nusa Tenggara|0
 Seteluk|-8.625|116.867|ID|West Nusa Tenggara|0
+Seteluk Atas|-8.628|116.870|ID|West Nusa Tenggara|0
+Seteluk Tengah|-8.626|116.864|ID|West Nusa Tenggara|0
 Sidemen|-8.484|115.445|ID|Bali|0
+Sigih|-8.537|118.850|ID|West Nusa Tenggara|0
+Sigirato|-8.619|119.013|ID|West Nusa Tenggara|0
 Sikur|-8.633|116.446|ID|West Nusa Tenggara|0
 Sila|-8.502|118.620|ID|West Nusa Tenggara|0
+Simpasai|-8.691|118.665|ID|West Nusa Tenggara|0
+Simu|-8.669|117.690|ID|West Nusa Tenggara|0
+Sindu|-8.583|116.135|ID|West Nusa Tenggara|0
+Sintung Timur|-8.610|116.222|ID|West Nusa Tenggara|0
+Sobeok|-8.758|117.186|ID|West Nusa Tenggara|0
+Sondo|-8.745|118.665|ID|West Nusa Tenggara|0
+Songkar B|-8.485|117.497|ID|West Nusa Tenggara|0
+Sorinomo|-8.263|117.796|ID|West Nusa Tenggara|0
+Soriutu|-8.519|118.323|ID|West Nusa Tenggara|0
+Soro|-8.557|118.238|ID|West Nusa Tenggara|0
+Sowa|-8.375|118.690|ID|West Nusa Tenggara|0
+Suana|-8.728|115.599|ID|Bali|0
 Subagan|-8.450|115.606|ID|Bali|0
+Sukadana|-8.227|115.541|ID|Bali|0
+Sukadana Selatan|-8.628|116.408|ID|West Nusa Tenggara|0
+Sukamaju|-8.574|118.972|ID|West Nusa Tenggara|0
+Sukamaju|-8.974|117.202|ID|West Nusa Tenggara|0
 Sukamulia|-8.629|116.513|ID|West Nusa Tenggara|0
+Sukarara Utara|-8.710|116.443|ID|West Nusa Tenggara|0
 Sulahan|-8.421|115.348|ID|Bali|0
+Sumbernangka Tengah|-6.853|115.269|ID|East Java|0
+Sumur Lima|-8.494|118.299|ID|West Nusa Tenggara|0
 Sungguminasa|-5.197|119.451|ID|South Sulawesi|0
+Suradi Selatan|-8.653|116.416|ID|West Nusa Tenggara|0
+Susunan|-7.003|115.675|ID|East Java|0
+Suwangi Utara|-8.693|116.444|ID|West Nusa Tenggara|0
+Ta’a|-8.518|118.841|ID|West Nusa Tenggara|0
 Takalar|-5.426|119.438|ID|South Sulawesi|0
+Taloko|-8.401|118.317|ID|West Nusa Tenggara|0
+Tamaau|-9.590|119.556|ID|East Nusa Tenggara|0
+Taman|-8.259|115.035|ID|Bali|0
+Tamanaimahu|-9.638|119.601|ID|East Nusa Tenggara|0
+Tamanbumigora|-8.775|116.307|ID|West Nusa Tenggara|0
+Tambe|-8.510|118.605|ID|West Nusa Tenggara|0
+Tampakdandang|-6.860|115.263|ID|East Java|0
+Tampes|-8.235|116.301|ID|West Nusa Tenggara|0
+Tanahsong Daya|-8.351|116.168|ID|West Nusa Tenggara|0
+Tanakawu Dua|-8.774|116.268|ID|West Nusa Tenggara|0
+Tanakbeak Daye|-8.607|116.203|ID|West Nusa Tenggara|0
+Tanaktepong|-8.596|116.211|ID|West Nusa Tenggara|0
+Tanarara|-9.634|119.545|ID|East Nusa Tenggara|0
+Tanatoku|-9.521|119.539|ID|East Nusa Tenggara|0
 Tangga|-8.656|118.694|ID|West Nusa Tenggara|0
+Tangkanpulit|-8.660|117.174|ID|West Nusa Tenggara|0
+Tanglad|-8.774|115.583|ID|Bali|0
 Tanjung|-8.356|116.156|ID|West Nusa Tenggara|0
+Tanjung|-8.757|115.534|ID|Bali|0
+Tanjungluar|-8.775|116.518|ID|West Nusa Tenggara|0
+Tao|-8.688|119.824|ID|East Nusa Tenggara|0
+Tarimbang|-9.970|119.954|ID|East Nusa Tenggara|0
+Tatebal|-8.754|117.354|ID|West Nusa Tenggara|0
 Tawali|-8.341|118.915|ID|West Nusa Tenggara|0
+Tawun|-8.753|116.008|ID|West Nusa Tenggara|0
+Tebara|-9.637|119.431|ID|East Nusa Tenggara|0
 Tegalalang|-8.437|115.279|ID|Bali|0
+Teluksantong|-8.722|117.888|ID|West Nusa Tenggara|0
+Tembang|-6.991|115.266|ID|East Java|0
+Tembau|-8.469|115.168|ID|Bali|0
+Tembayangan Barat|-6.883|115.419|ID|East Java|0
 Tembuku|-8.452|115.385|ID|Bali|0
+Tengah|-8.263|115.031|ID|Bali|0
+Tengah Satu|-8.418|117.131|ID|West Nusa Tenggara|0
+Tepal|-8.626|117.179|ID|West Nusa Tenggara|0
 Tepas|-8.717|116.917|ID|West Nusa Tenggara|0
 Terara|-8.641|116.411|ID|West Nusa Tenggara|0
+Terara Utara|-8.639|116.413|ID|West Nusa Tenggara|0
+Teruwai|-8.812|116.338|ID|West Nusa Tenggara|0
+Teta Satu|-8.569|118.803|ID|West Nusa Tenggara|0
+Tetebatu|-8.553|116.420|ID|West Nusa Tenggara|0
+Tibulakasasak|-8.423|115.631|ID|Bali|0
+Tibutana|-9.634|119.426|ID|East Nusa Tenggara|0
+Timba Lauk|-8.621|116.445|ID|West Nusa Tenggara|0
+Timba Timuk|-8.665|116.557|ID|West Nusa Tenggara|0
+Timukpeken|-8.722|116.526|ID|West Nusa Tenggara|0
+Timurlorong|-6.862|115.264|ID|East Java|0
+Tistagede|-8.379|115.609|ID|Bali|0
+Tiyingtali Kelod|-8.411|115.615|ID|Bali|0
+Todo|-8.372|116.182|ID|West Nusa Tenggara|0
+Tolomango|-8.505|118.613|ID|West Nusa Tenggara|0
+Tolotangga|-8.764|118.635|ID|West Nusa Tenggara|0
+Toroh|-7.008|115.540|ID|East Java|0
+Totok|-9.483|119.306|ID|East Nusa Tenggara|0
+Toupopu|-9.703|119.472|ID|East Nusa Tenggara|0
+Toyapakeh|-8.682|115.488|ID|Bali|0
+Tua|-8.411|115.181|ID|Bali|0
+Tubanan|-8.552|115.408|ID|Bali|0
+Tuka|-8.432|115.198|ID|Bali|0
+Tumbukebon|-8.445|115.624|ID|Bali|0
+Tunjuk Selatan|-8.476|115.152|ID|Bali|0
 Ulakan|-8.498|115.513|ID|Bali|0
+Umasari Kauh|-8.435|115.463|ID|Bali|0
 Utan|-8.413|117.133|ID|West Nusa Tenggara|0
+Utarapasar|-6.855|115.287|ID|East Java|0
+Wadusari|-8.574|118.908|ID|West Nusa Tenggara|0
+Waewaso|-8.491|119.897|ID|East Nusa Tenggara|0
+Waiha|-9.636|119.043|ID|East Nusa Tenggara|0
+Waihibar|-9.610|119.624|ID|East Nusa Tenggara|0
+Waiholo|-9.518|119.084|ID|East Nusa Tenggara|0
 Waikabubak|-9.648|119.389|ID|East Nusa Tenggara|0
+Waikambila|-9.532|119.669|ID|East Nusa Tenggara|0
+Wailiang|-9.636|119.407|ID|East Nusa Tenggara|0
+Wailolung|-9.588|119.582|ID|East Nusa Tenggara|0
+Waimadaka|-9.708|119.411|ID|East Nusa Tenggara|0
 Waimangura|-9.510|119.238|ID|East Nusa Tenggara|0
+Wakaf|-6.835|115.342|ID|East Java|0
+Wanagiri|-8.410|115.056|ID|Bali|0
+Wanasari Baleran|-8.485|115.135|ID|Bali|0
+Watulabara|-9.530|119.267|ID|East Nusa Tenggara|0
+Waworada|-8.700|118.799|ID|West Nusa Tenggara|0
+Waworada|-8.670|118.688|ID|West Nusa Tenggara|0
+Weegaingo|-9.528|119.352|ID|East Nusa Tenggara|0
+Weekaka|-9.566|119.221|ID|East Nusa Tenggara|0
+Weekombaka|-9.510|119.142|ID|East Nusa Tenggara|0
+Weelimbu|-9.562|119.337|ID|East Nusa Tenggara|0
+Weepanapi|-9.574|119.446|ID|East Nusa Tenggara|0
+Weepangali|-9.427|119.263|ID|East Nusa Tenggara|0
+Weerame|-9.542|119.288|ID|East Nusa Tenggara|0
+Weetobula|-9.441|119.232|ID|East Nusa Tenggara|0
+Weetombo|-9.566|119.128|ID|East Nusa Tenggara|0
+Welibo|-9.726|119.340|ID|East Nusa Tenggara|0
+Wengaingo|-9.733|119.346|ID|East Nusa Tenggara|0
 Woha|-8.618|118.648|ID|West Nusa Tenggara|0
 Woja|-8.637|118.354|ID|West Nusa Tenggara|0
+Wongaya Kaja|-8.390|115.111|ID|Bali|0
+Woro|-8.573|118.544|ID|West Nusa Tenggara|0

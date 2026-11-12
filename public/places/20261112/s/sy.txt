@@ -7,30 +7,39 @@ Syzran|53.158|48.468|RU|Samara Oblast|106
 Sykhiv|49.794|24.063|UA|Lviv|104
 Syracuse|43.048|-76.147|US|New York|103
 Sydney|46.135|-60.183|CA|Nova Scotia|101
-Syunik|39.333|46.250|AM||99|r
 Sylmar|34.308|-118.449|US|California|98
+Sydney Harbour Bridge|-33.852|151.210|AU|New South Wales|98|f
 Syrets|50.480|30.445|UA|Kyiv City|93
 Sykiés|40.649|22.951|GR|Central Macedonia|93
+Sydney University|-33.888|151.187|AU|New South Wales|93|f
 Synelnykove|48.324|35.526|UA|Dnipropetrovsk|90
 Syracuse|41.089|-112.065|US|Utah|89
 Sydney Central Business District|-33.865|151.208|AU|New South Wales|88
 Syke|52.913|8.822|DE|Lower Saxony|88
+Sydney International Airport|-33.946|151.177|AU|New South Wales|87|f
 Sysert’|56.502|60.820|RU|Sverdlovsk Oblast|87
 Sylvania|41.719|-83.713|US|Ohio|86
 Syosset|40.826|-73.502|US|New York|85
 Sycamore|41.989|-88.687|US|Illinois|85
 Sylvan Lake|52.311|-114.084|CA|Alberta|85
+Syros National Airport Demetrius Vikelas|37.423|24.951|GR|South Aegean|84|f
+Sydney Tower|-33.870|151.209|AU|New South Wales|83|f
 Syas’stroy|60.137|32.569|RU|Leningradskaya Oblast'|82
 Sylacauga|33.173|-86.252|US|Alabama|82
 Sydney Mines|46.237|-60.218|CA|Nova Scotia|82
+Sylt|54.904|8.338|DE|Schleswig-Holstein|81|f
 Syston|52.683|-1.067|GB|England|81
 Syeverne|48.096|38.684|UA|Donetsk|81
+Syracuse Hancock International Airport|43.111|-76.106|US|New York|81|f
 Syców|51.308|17.720|PL|Lower Silesia|81
 Sydenham|-37.700|144.767|AU|Victoria|80
 Sylvania|-34.012|151.097|AU|New South Wales|80
 Sychëvka|55.830|34.277|RU|Smolensk Oblast|79
 Sylva|58.033|56.771|RU|Perm Krai|78
+Syros|37.441|24.919|GR|South Aegean|78|f
 Sylvester|31.531|-83.837|US|Georgia|76
+Sydenham Island|-0.655|174.318|KI|Gilbert Islands|75|f
+Sydney/J.A. Douglas McCurdy Airport|46.161|-60.048|CA|Nova Scotia|75|f
 Syumsi|57.111|51.615|RU|Udmurtiya Republic|75
 Syenitsa|53.831|27.534|BY|Minsk|74
 Synevyr|48.493|23.621|UA|Zakarpattia|73
@@ -42,20 +51,28 @@ Syava|58.015|46.322|RU|Nizhny Novgorod Oblast|72
 Syrskoye|52.571|39.531|RU|Lipetsk Oblast|71
 Sysmä|61.500|25.683|FI|Paijat-Hame|71
 Sydenham|44.567|-80.800|CA|Ontario|70
+Sydney Jewish Museum|-33.879|151.220|AU|New South Wales|70|f
 Syrynia|50.020|18.346|PL|Silesia|70
 Sychëvo|55.062|38.714|RU|Moscow Oblast|70
 Sychëvo|55.958|36.228|RU|Moscow Oblast|69
 Syracuse|41.428|-85.752|US|Indiana|69
+Synevyr National Park|48.617|23.683|UA|Zakarpattia|69|f
+Syracuse Suburban Airport|43.266|-76.179|US|New York|69|f
 Sylva|35.374|-83.226|US|North Carolina|68
 Sylvania|32.750|-81.637|US|Georgia|68
 Sými|36.615|27.836|GR|South Aegean|67
 Sykoúrio|39.759|22.580|GR|Thessaly|67
 Sykiá|40.039|23.940|GR|Central Macedonia|67
+Sydney Cove|-33.859|151.211|AU|New South Wales|67|f
+Syukuran Aminuddin Amir Airport|-1.039|122.772|ID|Central Sulawesi|67|f
 Sytkivtsi|48.909|29.199|UA|Vinnytsia|67
 Sychëvka|52.051|84.779|RU|Altai Krai|67
 Syrovice|49.080|16.546|CZ|South Moravian|67
 Syracuse|40.657|-96.186|US|Nebraska|66
 Sylvania|34.562|-85.812|US|Alabama|65
+Sykkylvsfjorden|62.370|6.558|NO|Møre og Romsdal|65|f
+Sylarna|63.021|12.219|SE|Jämtland|65|f
+Synagogue of El Transito|39.856|-4.030|ES|Castille-La Mancha|65|f
 Syntul|55.003|41.297|RU|Ryazan Oblast|65
 Sylvan Lake|42.611|-83.329|US|Michigan|65
 Symoniv|50.574|26.630|UA|Rivne Oblast|65
@@ -67,6 +84,7 @@ Syrotyne|48.916|38.515|UA|Luhansk|64
 Syrove|47.896|30.457|UA|Mykolaiv|64
 Sylvan Springs|33.516|-87.015|US|Alabama|64
 Syomkava|54.010|27.441|BY|Minsk|64
+Sywell Aerodrome|52.305|-0.793|GB|England|63|f
 Synoikismós Chavaríou|37.856|21.388|GR|West Greece|63
 Syburg|51.425|7.489|DE|North Rhine-Westphalia|63
 Synevyrska Poliana|48.585|23.689|UA|Zakarpattia|63
@@ -76,13 +94,83 @@ Sypniewo|53.370|17.327|PL|Kujawsko-Pomorskie|62
 Syrostan|55.063|59.900|RU|Chelyabinsk|62
 Syfteland|60.238|5.453|NO|Vestland|61
 Sykesville|41.050|-78.822|US|Pennsylvania|61
+Syamsudin Noor Airport|-3.442|114.759|ID|South Kalimantan|61|f
+Syktyvkar Airport|61.647|50.845|RU|Komi|61|f
+Sylvan Lake|41.609|-73.742|US|New York|61|f
+Syrian Desert|32.000|40.000|SY||61|f
+Syrtbyttnosi|61.762|7.581|NO|Innlandet|61|f
+Syväjärvi|68.342|23.217|FI|Lapland|61|f
+Syvdsfjorden|62.167|5.667|NO|Møre og Romsdal|61|f
 Sywell|52.299|-0.797|GB|England|61
 Sydney Forks|46.060|-60.304|CA|Nova Scotia|61
 Sylvan Beach|42.465|-77.108|US|New York|60
 Symington|55.552|-4.558|GB|Scotland|60
 Sypaldouo|9.159|-2.951|CI|Zanzan District|60
 Synya|65.372|58.039|RU|Komi|60
+Sývota|39.407|20.248|GR|Epirus|60
+Sylivainiótika|38.161|22.332|GR|West Greece|60
+Sykámino|38.302|23.730|GR|Attica|59
+Sylvan Beach|43.196|-75.730|US|New York|59
+Sycamore|40.950|-83.171|US|Ohio|58
+Syracuse|38.998|-81.974|US|Ohio|58
+Sykiá|36.764|22.943|GR|Peloponnese|58
+Sybaris|39.717|16.490|IT|Calabria|58|f
+Sycharth Castle|52.824|-3.181|GB|Wales|58|f
+Symington Islands|-65.450|-64.950|AQ||58|f
+Syndle|58.377|8.514|NO|Agder|58|f
+Syunik Airport|39.202|46.455|AM|Syunik|58|f
+Symbister|60.342|-1.025|GB|Scotland|58
+Sylta|59.533|15.983|SE|Västmanland|58
+Sylta|59.480|17.716|SE|Stockholm|58
+Symington|55.598|-3.595|GB|Scotland|58
+Syalyets|52.587|24.868|BY|Brest|58
+Synookivka|49.730|32.221|UA|Cherkasy|57
+Syresham|52.068|-1.082|GB|England|57
+Syren|49.562|6.222|LU|Luxembourg|57
+Sykhiv|49.213|24.031|UA|Lviv|57
+Syzës|40.823|19.820|AL|Berat County|57
+Syapsya|61.922|33.387|RU|Karelia|57
+Sycamore|31.674|-83.637|US|Georgia|57
+Sycamore Hills|38.701|-90.350|US|Missouri|57
+Syunik|39.202|46.472|AM|Syunik|56
+Symsonia|36.920|-88.520|US|Kentucky|56
+Syvik|62.550|6.300|NO|Møre og Romsdal|55
+Syrotyne|50.053|38.295|UA|Luhansk|55
+Sykiáda|38.464|26.124|GR|North Aegean|55
+Sylvan|43.422|-90.628|US|Wisconsin|55
+Sylling|59.893|10.291|NO|Buskerud|54
+Sycamore Strip|32.624|-97.354|US|Texas|54|f
+Syekh Hamzah Fansyuri Airport|2.273|97.967|ID|Aceh|54|f
+Sylvania Mountains|37.392|-117.716|US|Nevada|54|f
+Systerflesene Islands|-69.275|39.417|AQ||54|f
+Syysjärvi|61.724|27.605|FI|South Savo|54|f
+Sylda|51.679|11.426|DE|Saxony-Anhalt|54
 Sypniewo|53.006|21.307|PL|Mazovia|54
+Sydney Island|-16.690|139.459|AU|Queensland|49|f
+Sydney Olympic Park|-33.848|151.066|AU|New South Wales|49|f
+Sykkylvsbrua|62.385|6.558|NO|Møre og Romsdal|49|f
+Sylwester Glacier|-84.233|159.800|AQ||49|f
+Symphony Lake|1.314|103.815|SG||49|f
+Sysselmannbreen|77.626|16.113|SJ|Svalbard|49|f
+Sybil Island|63.567|-68.198|CA|Nunavut|40|f
+Sycamore Island|40.492|-79.855|US|Pennsylvania|40|f
+Sycamore Shoals State Historic Area|36.346|-82.253|US|Tennessee|40|f
+Sydenham Lake|44.431|-76.557|CA|Ontario|40|f
+Sydere Lake|49.164|-81.805|CA|Ontario|40|f
+Sydney Harbour National Park|-33.819|151.293|AU|New South Wales|40|f
+Sydney Inlet Park|49.478|-126.275|CA|British Columbia|40|f
+Sydney Lake|50.662|-94.436|CA|Ontario|40|f
+Sydney Tramway Museum|-34.045|151.054|AU|New South Wales|40|f
+Sykes Glacier|-77.583|161.533|AQ||40|f
+Sylvan Lake|43.846|-103.563|US|South Dakota|40|f
+Sylvan Lake Provincial Park|52.317|-114.085|CA|Alberta|40|f
+Sylvan Peak|45.164|-109.605|US|Montana|40|f
+Sylvan Ponds|43.613|-74.936|US|New York|40|f
+Sylvania Airport|42.703|-87.956|US|Wisconsin|40|f
+Synnada|38.532|30.550|TR|Afyonkarahisar Province|40|f
+Syntagma square|37.975|23.735|GR|Attica|40|f
+Syracuse Lake|41.426|-85.738|US|Indiana|40|f
+Syringa Park|49.383|-117.902|CA|British Columbia|40|f
 Sykkylven|62.396|6.588|NO|Møre og Romsdal|0
 Synej|41.180|19.543|AL|Tirana|0
 Synivka|50.542|34.101|UA|Sumy|0

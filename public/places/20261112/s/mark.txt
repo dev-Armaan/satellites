@@ -33,11 +33,13 @@ Markivka|49.525|39.570|UA|Luhansk|77
 Market Weighton|53.863|-0.665|GB|England|76
 Markovo|57.321|107.088|RU|Irkutsk Oblast|76
 Mārkkayankottai|9.853|77.360|IN|Tamil Nadu|76
+Markovo Airport|64.665|170.414|RU|Chukotka|75|f
 Markt Erlbach|49.494|10.653|DE|Bavaria|75
 Marksville|31.128|-92.066|US|Louisiana|75
 Markłowice|50.017|18.521|PL|Silesia|74
 Markfield|52.687|-1.275|GB|England|74
 Market Rasen|53.388|-0.338|GB|England|74
+Marksburg|50.272|7.649|DE|Rheinland-Pfalz|73|f
 Markaryd|56.461|13.596|SE|Kronoberg|73
 Markušovce|48.912|20.631|SK|Košice Region|73
 Markersdorf|51.133|14.883|DE|Saxony|73
@@ -58,6 +60,8 @@ Markīd|38.499|45.627|IR|East Azerbaijan|70
 Markyate|51.838|-0.463|GB|England|69
 Markova|48.684|24.426|UA|Ivano-Frankivsk|69
 Markstay-Warren|46.467|-80.483|CA|Ontario|69
+Markermeer|52.567|5.217|NL|Flevoland|69|f
+Markotkhskiy Khrebet|44.746|37.850|RU|Krasnodar Krai|69|f
 Marktl|48.255|12.845|DE|Bavaria|68
 Market Shop|17.132|-62.573|KN|Saint George Gingerland|68
 Marked Tree|35.533|-90.421|US|Arkansas|68
@@ -97,12 +101,60 @@ Markt Nordheim|49.591|10.356|DE|Bavaria|61
 Markle|40.825|-85.339|US|Indiana|61
 Markham|28.960|-96.065|US|Texas|61
 Markt Taschendorf|49.701|10.556|DE|Bavaria|61
+Markivka|49.564|34.664|UA|Poltava|60
+Märkisch Buchholz|52.110|13.765|DE|Brandenburg|59
+Markegem|50.946|3.400|BE|Flanders|58
 Markgrafneusiedl|48.267|16.633|AT|Lower Austria|58
+Mark Twain Lake|39.501|-91.776|US|Missouri|58|f
+Markberg|50.227|9.434|DE|Hesse|58|f
+Marker Rock|-66.083|-65.783|AQ||58|f
+Markham Heights|-41.510|147.650|AU|Tasmania|58|f
+Mark|51.227|-2.890|GB|England|57
 Markušica|45.374|18.706|HR|Vukovar-Srijem|57
 Markt Sankt Martin|47.562|16.425|AT|Burgenland|57
+Markovac|45.150|21.472|RS|Vojvodina|57
+Markwerben|51.216|11.941|DE|Saxony-Anhalt|57
+Markopil|49.860|25.286|UA|Lviv|57
+Markevycheve|47.157|30.528|UA|Odesa|57
+Marktl|48.023|15.603|AT|Lower Austria|56
+Marktgölitz|50.556|11.335|DE|Thuringia|56
+Markvartice|50.776|14.355|CZ|Ústí nad Labem Region|55
 Market Overton|52.738|-0.686|GB|England|55
+Markusy|54.050|19.400|PL|Warmia-Masuria|55
+Markt|47.739|13.447|AT|Upper Austria|55
+Markvippach|51.079|11.175|DE|Thuringia|55
+Markstein|46.696|14.114|AT|Carinthia|55
+Mark|41.264|-89.250|US|Illinois|55
 Markt Neuhodis|47.296|16.396|AT|Burgenland|54
+Mark Twain House Museum|41.768|-72.698|US|Connecticut|54|f
+Markavatnet|66.906|13.761|NO|Nordland|54|f
+Market Lake Wildlife Management Area|43.782|-112.147|US|Idaho|54|f
+Markhambreen|77.149|17.327|SJ|Svalbard|54|f
+Markovi Kuli|41.362|21.540|MK|Prilep|54|f
+Marksville Prehistoric Indian Site|31.125|-92.048|US|Louisiana|54|f
+Markleville|39.978|-85.615|US|Indiana|54
 Markovci|46.396|15.928|SI|Municipality of Markovci|54
+Mark Twain Memorial Bridge|39.721|-91.357|US|Illinois|49|f
+Mark Twain National Wildlife Refuge|41.284|-91.104|US|Iowa|49|f
+Markham Island|-74.600|164.917|AQ||49|f
+Mark Anton Airport|35.481|-84.936|US|Tennessee|40|f
+Mark Island|44.520|-64.203|CA|Nova Scotia|40|f
+Mark Island|63.384|-67.981|CA|Nunavut|40|f
+Mark Reynolds/North Mobile County Airport|30.912|-87.993|US|Alabama|40|f
+Mark Twain Birthplace State Historic Site|39.489|-91.782|US|Missouri|40|f
+Mark Twain State Park|39.476|-91.800|US|Missouri|40|f
+Markeli Point|-62.936|-62.551|AQ||40|f
+Market Square|40.441|-80.002|US|Pennsylvania|40|f
+Market Street Bridge|40.358|-80.608|US|Ohio|40|f
+Market Street Bridge|40.254|-76.887|US|Pennsylvania|40|f
+Market Street Bridge|41.249|-75.885|US|Pennsylvania|40|f
+Markgräfliches Schloss Erlangen|49.598|11.005|DE|Bavaria|40|f
+Markham Bay|41.602|-72.493|US|Connecticut|40|f
+Markinsenis Peak|-71.583|164.483|AQ||40|f
+Märkisches Museum|52.514|13.415|DE|State of Berlin|40|f
+Markland Locks and Dam|38.775|-84.964|US|Kentucky|40|f
+Marks Knob|35.680|-83.248|US|North Carolina|40|f
+Marks Peak|-76.500|-125.750|AQ||40|f
 Markadah|35.746|40.753|SY|Al-Hasakah|0
 Markaz|40.240|71.900|KG|Batken|0
 Markaz al Marīr|13.982|43.595|YE|Al Hudaydah|0
@@ -110,3 +162,4 @@ Markaz Bilād aţ Ţa‘ām|14.834|43.536|YE|Raymah|0
 Markaz Mudhaykirah|13.890|43.969|YE|Ibb Governorate|0
 Markaz-e Ḩukūmat-e Sulţān-e Bakwāh|32.241|62.949|AF|Farah|0
 Markina-Xemein|43.267|-2.500|ES|Basque Country|0
+Markog|33.084|100.478|CN|Qinghai|0

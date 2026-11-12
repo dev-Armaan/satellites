@@ -209,6 +209,7 @@ Sà Phìn|23.267|105.250|VN|Tuyen Quang|67
 Sằng Uỷ|22.700|106.550|VN|Cao Bằng Province|66
 Lương Bằng|21.648|105.029|VN|Phu Tho|66
 Tam Đảo|21.393|105.614|VN|Phu Tho|57
+Bạch Long Vĩ|20.131|107.731|VN|Hai Phong|57
 An Châu|21.335|106.849|VN|Bac Ninh|0
 An Dương|20.864|106.613|VN|Hai Phong|0
 An Lão|20.823|106.556|VN|Hai Phong|0
@@ -217,6 +218,8 @@ Bắc Sơn|21.900|106.321|VN|Lạng Sơn Province|0
 Bama|24.171|107.249|CN|Guangxi|0
 Bẩn Yên Nhân|20.937|106.057|VN|Hưng Yên Province|0
 Bằng Lũng|22.158|105.596|VN|Thai Nguyen|0
+Beihe|20.653|109.877|CN|Guangdong|0
+Beipo|21.219|109.894|CN|Guangdong|0
 Bích Động|21.274|106.101|VN|Bac Ninh|0
 Bình Gia|21.961|106.364|VN|Lạng Sơn Province|0
 Bình Mỹ|20.491|106.010|VN|Ninh Binh|0
@@ -225,7 +228,9 @@ Bobai|22.276|109.972|CN|Guangxi|0
 Cẩm Thủy|20.209|105.469|VN|Thanh Hóa Province|0
 Cành Nàng|20.348|105.229|VN|Thanh Hóa Province|0
 Cao Phong|20.704|105.321|VN|Phu Tho|0
+Caotan|21.265|109.781|CN|Guangdong|0
 Cầu Gồ|21.477|106.127|VN|Bac Ninh|0
+Cheban|21.517|109.831|CN|Guangdong|0
 Chengzhong|22.135|107.065|CN|Guangxi|0
 Chengzhong|24.315|109.413|CN|Guangxi|0
 Chi Nê|20.491|105.778|VN|Phu Tho|0
@@ -252,7 +257,9 @@ Du’an|23.934|108.101|CN|Guangxi|0
 Fengshan|24.550|107.038|CN|Guangxi|0
 Fusui|22.639|107.907|CN|Guangxi|0
 Gangkou|21.656|108.374|CN|Guangxi|0
+Gangmen|21.215|109.800|CN|Guangdong|0
 Gangnan|23.077|109.597|CN|Guangxi|0
+Gaoqiao|21.609|109.764|CN|Guangdong|0
 Gia Bình|21.059|106.175|VN|Bac Ninh|0
 Gia Lộc|20.868|106.300|VN|Hai Phong|0
 Hạ Hòa|21.563|105.005|VN|Phu Tho|0
@@ -261,6 +268,7 @@ Haicheng|21.478|109.113|CN|Guangxi|0
 Hanoi|20.328|106.012|VN|Hanoi|0
 Heng|22.683|109.257|CN|Guangxi|0
 Heshan|23.813|108.888|CN|Guangxi|0
+Hetou|21.058|109.851|CN|Guangdong|0
 Hồ|21.063|106.086|VN|Bac Ninh|0
 Hòa Mạc|20.642|105.989|VN|Ninh Binh|0
 Hợp Hòa|21.375|105.543|VN|Phu Tho|0
@@ -269,8 +277,12 @@ Hưng Hóa|21.255|105.295|VN|Phu Tho|0
 Hương Canh|21.279|105.647|VN|Phu Tho|0
 Hương Sơn|21.460|105.978|VN|Thai Nguyen|0
 Hữu Lũng|21.506|106.345|VN|Lạng Sơn Province|0
+Jianghong|21.016|109.716|CN|Guangdong|0
 Jiangnan|22.784|108.269|CN|Guangxi|0
 Jiangzhou|22.412|107.342|CN|Guangxi|0
+Jiaoweixiang|20.268|109.961|CN|Guangdong|0
+Jiepao|21.397|109.960|CN|Guangdong|0
+Jijia|20.953|109.795|CN|Guangdong|0
 Jingxi|23.137|106.413|CN|Guangxi|0
 Kẻ Sặt|20.910|106.148|VN|Hai Phong|0
 Khoái Châu|20.839|105.978|VN|Hưng Yên Province|0
@@ -282,6 +294,7 @@ Lai Cách|20.933|106.248|VN|Hai Phong|0
 Lâm Thao|21.320|105.292|VN|Phu Tho|0
 Lang Chánh|20.156|105.242|VN|Thanh Hóa Province|0
 Lập Thạch|21.415|105.461|VN|Phu Tho|0
+Lemin|21.134|109.757|CN|Guangdong|0
 Leye|24.801|106.558|CN|Guangxi|0
 Liancheng|24.052|105.075|CN|Yunnan|0
 Liangqing|22.739|108.344|CN|Guangxi|0
@@ -298,6 +311,7 @@ Lũng Hồ|22.985|105.240|VN|Tuyen Quang|0
 Luocheng|24.781|108.898|CN|Guangxi|0
 Lương Sơn|20.871|105.526|VN|Phu Tho|0
 Luzhai|24.485|109.735|CN|Guangxi|0
+Maichen|20.335|109.995|CN|Guangdong|0
 Mashan|23.711|108.174|CN|Guangxi|0
 Me|20.347|105.836|VN|Ninh Binh|0
 Mê Linh|21.158|105.739|VN|Hanoi|0
@@ -325,10 +339,12 @@ Phùng|21.089|105.659|VN|Hanoi|0
 Pingguo|23.333|107.586|CN|Guangxi|0
 Qiaoxu|22.956|109.761|CN|Guangxi|0
 Qinbeiqu|22.005|108.635|CN|Guangxi|0
+Qingping|21.625|109.919|CN|Guangdong|0
 Qingxiu|22.789|108.492|CN|Guangxi|0
 Qinnan|21.942|108.654|CN|Guangxi|0
 Qinnanqu|21.943|108.654|CN|Guangxi|0
 Qintang|23.131|109.448|CN|Guangxi|0
+Qishui|20.754|109.778|CN|Guangdong|0
 Quan Hóa|20.385|105.100|VN|Thanh Hóa Province|0
 Quảng Hà|21.451|107.756|VN|Quảng Ninh|0
 Quảng Yên|20.942|106.803|VN|Quảng Ninh|0
@@ -341,6 +357,8 @@ Sơn Dương|21.697|105.399|VN|Tuyen Quang|0
 Sông Thao|21.421|105.134|VN|Phu Tho|0
 Tam Điệp|20.156|105.917|VN|Ninh Binh|0
 Tân Việt|22.864|105.459|VN|Cao Bằng Province|0
+Tandou|20.527|109.896|CN|Guangdong|0
+Tangjia|20.843|109.847|CN|Guangdong|0
 Thắng|21.355|105.983|VN|Bac Ninh|0
 Thanh Ba|21.499|105.141|VN|Phu Tho|0
 Thanh Hà|20.898|106.426|VN|Hai Phong|0
@@ -379,9 +397,11 @@ Vĩnh Trụ|20.560|106.028|VN|Ninh Binh|0
 Vũ Thư|20.437|106.291|VN|Hưng Yên Province|0
 Vương|20.701|106.118|VN|Hưng Yên Province|0
 Wuming|23.161|108.273|CN|Guangxi|0
+Wushi|20.553|109.866|CN|Guangdong|0
 Wuxuan|23.597|109.659|CN|Guangxi|0
 Xiangzhou|23.975|109.701|CN|Guangxi|0
 Xiaojiang|22.273|109.552|CN|Guangxi|0
+Xilian|20.380|109.945|CN|Guangdong|0
 Xilin|24.499|105.094|CN|Guangxi|0
 Xincheng|24.086|108.653|CN|Guangxi|0
 Xingbin|23.708|109.182|CN|Guangxi|0
@@ -391,6 +411,8 @@ Xinhua|23.643|105.653|CN|Yunnan|0
 Xinzhou|24.872|105.351|CN|Guangxi|0
 Xixiangtang|22.838|108.312|CN|Guangxi|0
 Xuân Trường|20.292|106.333|VN|Ninh Binh|0
+Yanggan|21.322|109.918|CN|Guangdong|0
+Yangjia|20.898|109.960|CN|Guangdong|0
 Yên Định|20.201|106.296|VN|Ninh Binh|0
 Yên Lạc|21.236|105.573|VN|Phu Tho|0
 Yến Lạc|22.237|106.181|VN|Thai Nguyen|0
@@ -399,6 +421,7 @@ Yên Mỹ|20.886|106.036|VN|Hưng Yên Province|0
 Yên Ninh|20.184|106.061|VN|Ninh Binh|0
 Yên Phú|22.732|105.371|VN|Tuyen Quang|0
 Yên Thịnh|20.162|106.007|VN|Ninh Binh|0
+Yingzai|21.491|109.925|CN|Guangdong|0
 Yinhai|21.451|109.136|CN|Guangxi|0
 Yongfu|24.992|109.992|CN|Guangxi|0
 Youjiang|23.904|106.616|CN|Guangxi|0

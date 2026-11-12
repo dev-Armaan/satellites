@@ -22,6 +22,7 @@ Zima|53.920|102.044|RU|Irkutsk Oblast|90
 Ziniaré|12.582|-1.298|BF|Plateau-Central|90
 Zintan|31.932|12.253|LY|Jabal al Gharbi|90
 Zighout Youcef|36.533|6.712|DZ|Constantine|89
+Zion National Park|37.298|-113.026|US|Utah|89|f
 Zionsville|39.951|-86.262|US|Indiana|88
 Zirndorf|49.442|10.954|DE|Bavaria|88
 Zittau|50.898|14.808|DE|Saxony|88
@@ -45,23 +46,27 @@ Ziro|27.595|93.839|IN|Arunachal Pradesh|83
 Zizur Mayor|42.788|-1.691|ES|Navarre|83
 Zimapán|20.738|-99.383|MX|Hidalgo|82
 Ziama Mansouria|36.673|5.481|DZ|Jijel|82
+Zinder Airport|13.779|8.984|NE|Zinder Region|82|f
 Zimatlán de Álvarez|16.867|-96.785|MX|Oaxaca|81
 Zirefuxiati|38.216|77.034|CN|Xinjiang|80
 Zierikzee|51.650|3.919|NL|Zeeland|80
 Zindah Jān|34.343|61.747|AF|Herat|80
 Zibashahr|32.382|51.568|IR|Isfahan|80
 Zillah|28.551|17.544|LY|Al Jufrah|80
+Zinalrothorn|46.065|7.690|CH|Valais|80|f
 Zinkiv|50.210|34.360|UA|Poltava|80
 Zierbena|43.350|-3.083|ES|Basque Country|79
 Ziębice|50.601|17.041|PL|Lower Silesia|79
 Zizhao|30.533|107.938|CN|Chongqing|79
 Ziplignan|6.449|-5.840|CI|Goh-Djiboua|79
 Zirara|34.241|-5.742|MA|Rabat-Salé-Kénitra|79
+Ziguinchor Airport|12.556|-16.283|SN|Ziguinchor|78|f
 Ẕīā’ābād|35.993|49.446|IR|Qazvin Province|78
 Zirl|47.274|11.240|AT|Tyrol|78
 Zimatepec|19.421|-98.165|MX|Tlaxcala|77
 Zirc|47.264|17.874|HU|Veszprém|77
 Ziéagui|5.564|-6.907|CI|Bas-Sassandra District|77
+Zirkūh|24.884|53.072|AE|Abu Dhabi|77|f
 Zikisso|6.064|-5.702|CI|Goh-Djiboua|77
 Zierenberg|51.369|9.302|DE|Hesse|77
 Zingem|50.904|3.653|BE|Flanders|76
@@ -77,12 +82,14 @@ Ziduri|45.300|27.083|RO|Buzău County|74
 Ziki|5.760|-5.445|CI|Goh-Djiboua|74
 Zimandu Nou|46.283|21.400|RO|Arad County|73
 Zinzénou|6.881|-3.458|CI|Comoé District|73
+Zíria|37.939|22.397|GR|Peloponnese|72|f
 Zirgan|53.222|55.919|RU|Bashkortostan Republic|72
 Zinacantán|16.760|-92.723|MX|Chiapas|72
 Zīārān|36.120|50.529|IR|Qazvin Province|71
 Živinice|44.548|17.374|BA|Srpska|71
 Zibido San Giacomo|45.360|9.111|IT|Lombardy|71
 Židlochovice|49.040|16.619|CZ|South Moravian|71
+Zirku Airport|24.864|53.075|AE|Abu Dhabi|71|f
 Žiri|46.044|14.107|SI|Municipality of Žiri|71
 Žiežmariai|54.807|24.441|LT|Kaunas|70
 Zirándaro de los Chávez|18.478|-100.977|MX|Guerrero|70
@@ -116,6 +123,7 @@ Zion|40.914|-77.685|US|Pennsylvania|66
 Zizin|45.637|25.779|RO|Brașov County|66
 Zináparo|20.172|-101.998|MX|Michoacán|66
 Zilupe|56.386|28.122|LV|Ludza Municipality|66
+Žilina Airport|49.232|18.613|SK|Žilina Region|65|f
 Ziwayo|5.695|-6.151|CI|Bas-Sassandra District|65
 Ziquítaro|20.063|-101.890|MX|Michoacán|65
 Ziziessou|7.100|-5.076|CI|Lacs District|65
@@ -131,6 +139,9 @@ Zigopa|6.192|-5.770|CI|Goh-Djiboua|64
 Ziombli|6.546|-8.375|CI|Montagnes|64
 Zībā Kenār|37.434|49.875|IR|Gilan Province|64
 Zipacón|4.759|-74.380|CO|Cundinamarca|63
+Zige Tangcuo|32.088|90.861|CN|Tibet|63|f
+Zigzag Mountain|45.346|-121.838|US|Oregon|63|f
+Zintan Airport|31.776|12.250|LY|Jabal al Gharbi|63|f
 Žitenice|50.555|14.157|CZ|Ústí nad Labem Region|63
 Ziesendorf|53.994|12.039|DE|Mecklenburg-Vorpommern|63
 Žirany|48.378|18.175|SK|Nitra Region|63
@@ -147,6 +158,8 @@ Zillingdorf|47.850|16.333|AT|Lower Austria|62
 Zizicazapa|17.516|-99.153|MX|Guerrero|62
 Ziroudani|-12.332|43.778|KM|Mohéli|62
 Zihuateutla|20.251|-97.888|MX|Puebla|61
+Zimmermann, Mount|-71.350|13.317|AQ||61|f
+Zion Triangle|40.669|-73.919|US|New York|61|f
 Zigrigbi|5.612|-5.423|CI|Goh-Djiboua|61
 Zimmersheim|47.721|7.388|FR|Grand Est|61
 Zilacayotitlán|17.295|-98.549|MX|Guerrero|61
@@ -155,22 +168,158 @@ Zidurile|44.582|25.555|RO|Dâmbovița County|60
 Ziertheim|48.652|10.399|DE|Bavaria|60
 Zimino|45.508|33.514|UA|Crimea|60
 Zinasco Vecchio|45.128|9.030|IT|Lombardy|60
+Zivandani|-11.646|43.266|KM|Grande Comore|60
+Ziegelheim|50.933|12.550|DE|Thuringia|60
+Zienkolo|9.488|-5.826|CI|Savanes District|60
 Zillingtal|47.814|16.409|AT|Burgenland|59
+Zigoneni|45.092|24.680|RO|Arges|59
+Ziduho-Bouénou|7.383|-6.169|CI|Sassandra-Marahoue|59
 Zibello|45.018|10.130|IT|Emilia-Romagna|59
+Zichyújfalu|47.133|18.683|HU|Fejér|59
+Žinkovy|49.483|13.489|CZ|Plzeň Region|59
+Zimmerbach|48.074|7.236|FR|Grand Est|59
+Ziethen|53.694|10.809|DE|Schleswig-Holstein|59
+Zigbohouri|6.433|-5.921|CI|Goh-Djiboua|59
+Ziegelroda|51.333|11.466|DE|Saxony-Anhalt|59
+Zirimondiro|19.351|-102.344|MX|Michoacán|59
+Zituní|20.713|-99.830|MX|Querétaro|59
+Zielonki-Wieś|52.253|20.806|PL|Mazovia|59
+Zintsi|49.540|34.619|UA|Poltava|59
+Ziqim|31.607|34.522|IL|Southern District|59
+Zipimeo|19.925|-101.768|MX|Michoacán|59
+Zinzintitlán|17.538|-99.153|MX|Guerrero|59
+Ziglo|6.563|-7.796|CI|Montagnes|58
+Zīf|31.467|35.137|PS|West Bank|58
+Zinkivtsi|48.685|26.562|UA|Khmelnytskyi|58
+Živanice|50.062|15.649|CZ|Pardubice Region|58
+Zijderveld|51.942|5.140|NL|Utrecht|58
+Zimella|45.332|11.377|IT|Veneto|58
+Žitni Potok|43.090|21.575|RS|Central Serbia|58
+Zimmerwald|46.881|7.477|CH|Bern|58
+Zilacayota|17.302|-98.807|MX|Guerrero|58
+Zimogor’ye|57.959|33.278|RU|Novgorod Oblast|58
+Žichlínek|49.884|16.636|CZ|Pardubice Region|58
+Zinswiller|48.920|7.590|FR|Grand Est|58
+Zieglerøya|77.388|22.432|SJ||58|f
+Zielona Gora Airport|52.139|15.799|PL|Lubusz|58|f
+Zillertal Alps|47.000|11.917|AT||58|f
+Zizhuyuan Gongyuan|39.941|116.314|CN|Beijing|58|f
+Ziegendorf|53.296|11.814|DE|Mecklenburg-Vorpommern|58
+Zigofla|7.551|-5.969|CI|Sassandra-Marahoue|58
+Zillingdorf-Bergwerk|47.844|16.381|AT|Lower Austria|58
+Ziegenrück|50.608|11.650|DE|Thuringia|58
+Zíria|38.300|21.980|GR|West Greece|58
+Zirimbo|19.302|-102.318|MX|Michoacán|58
+Zikibouo|6.479|-6.327|CI|Sassandra-Marahoue|58
+Zilișteanca|45.250|26.870|RO|Buzău County|58
+Zimpizahua|19.434|-96.948|MX|Veracruz|58
+Žižice|50.246|14.154|CZ|Central Bohemia|58
+Zierow|53.926|11.376|DE|Mecklenburg-Vorpommern|57
+Ziyaret|37.463|41.085|TR|Mardin|57
+Zimapantongo|20.240|-99.456|MX|Hidalgo|57
+Zia Pueblo|35.507|-106.720|US|New Mexico|57
 Ziarat|30.382|67.726|PK|Balochistan|57
+Žilina|50.100|14.006|CZ|Central Bohemia|57
+Zimna Wódka|50.437|18.316|PL|Opole Voivodeship|57
+Zitlala|20.035|-97.668|MX|Puebla|57
+Žichovice|49.267|13.628|CZ|Plzeň Region|57
+Zilébli|6.329|-8.139|CI|Montagnes|57
+Zirchow|53.891|14.139|DE|Mecklenburg-Vorpommern|57
+Ziyaret|38.133|40.399|TR|Diyarbakır Province|56
+Žihobce|49.215|13.632|CZ|Plzeň Region|56
+Životice u Nového Jičína|49.560|18.045|CZ|Moravian-Silesian Region|56
+Zielina|50.441|17.794|PL|Opole Voivodeship|56
+Zimming|49.124|6.588|FR|Grand Est|56
+Ziouébli|6.652|-8.440|CI|Montagnes|56
+Zibido al Lambro|45.279|9.274|IT|Lombardy|56
+Zichow|53.189|14.038|DE|Brandenburg|56
+Zilling|47.850|13.100|AT|Salzburg|56
+Zimrat|31.448|34.554|IL|Southern District|56
+Zicapa|17.923|-99.039|MX|Guerrero|56
+Zítsa|39.754|20.650|GR|Epirus|56
+Zinampleu|6.886|-8.222|CI|Montagnes|56
+Zimica|46.533|15.750|SI|Municipality of Duplek|56
+Ziracco|46.112|13.343|IT|Friuli Venezia Giulia|56
+Zinasco Nuovo|45.122|9.001|IT|Lombardy|56
+Žirovnica|46.405|14.140|SI|Municipality of Žirovnica|56
+Zickhusen|53.759|11.414|DE|Mecklenburg-Vorpommern|56
+Zileftí|39.587|21.819|GR|Thessaly|56
 Zibreira|39.483|-8.610|PT|Santarém|55
+Žižki|46.567|16.315|SI|Municipality of Črenšovci|55
+Zimatlán|16.938|-97.832|MX|Oaxaca|55
+Žimutice|49.204|14.510|CZ|South Bohemian Region|55
 Ziano Piacentino|45.000|9.395|IT|Emilia-Romagna|55
+Zinantla|17.531|-99.188|MX|Guerrero|55
+Žiče|46.315|15.480|SI|Municipality of Slovenske Konjice|55
+Zilacatipan|20.657|-98.431|MX|Veracruz|55
+Zīārat|26.681|57.075|IR|Hormozgan|55
+Žikava|48.444|18.382|SK|Nitra Region|54
+Zirknitz|46.949|15.261|AT|Styria|54
+Zigzag Glacier|45.363|-121.712|US|Oregon|54|f
+Zigzag Island|-63.612|-59.842|AQ||54|f
+Žilindar|43.038|20.018|RS||54|f
+Zimba|47.091|9.789|AT|Vorarlberg|54|f
+Zischgeles|47.117|11.083|AT|Tyrol|54|f
+Živanj|43.255|18.553|BA|Srpska|54|f
+Ziwa|-18.138|32.654|ZW|Manicaland|54|f
 Zimone|45.449|8.037|IT|Piedmont|53
+Zimmernsupra|50.983|10.867|DE|Thuringia|52
+Zilshausen|50.117|7.383|DE|Rheinland-Pfalz|51
+Zierker See|53.361|13.036|DE|Mecklenburg-Vorpommern|49|f
+Ziernsee|53.206|13.073|DE|Mecklenburg-Vorpommern|49|f
+Zieskensee|53.533|13.083|DE|Mecklenburg-Vorpommern|49|f
+Zigerbergkopf|47.150|9.604|AT|Vorarlberg|49|f
+Zilva Peaks|-66.758|-65.415|AQ||49|f
+Zimmerman Island|-66.426|110.457|AQ||49|f
+Zireiner See|47.467|11.817|AT|Tyrol|49|f
+Zimmern|51.000|11.633|DE|Thuringia|47
+Ziegenhain|50.683|7.533|DE|Rheinland-Pfalz|43
+Ziegeleisee|52.617|13.335|DE|State of Berlin|40|f
+Ziegelsee|53.655|11.424|DE|Mecklenburg-Vorpommern|40|f
+Ziegler Point|-79.350|-83.000|AQ||40|f
+Ziezi Peak|-62.546|-59.629|AQ||40|f
+Zigler Art Museum|30.223|-92.658|US|Louisiana|40|f
+Zilker Park|30.267|-97.770|US|Texas|40|f
+Zimmer Hill|42.641|-74.235|US|New York|40|f
+Zimmerman Pond|42.702|-75.161|US|New York|40|f
+Zinberg Glacier|-72.350|-96.067|AQ||40|f
+Zindlenspitz|47.076|8.960|CH|Schwyz|40|f
+Zinkensdamms Idrottsplats|59.316|18.050|SE|Stockholm|40|f
+Zinsmeister Ridge|-78.450|-85.250|AQ||40|f
+Zionz Lake|51.416|-91.879|CA|Ontario|40|f
+Zippel Bay State Park|48.864|-94.859|US|Minnesota|40|f
+Zirbitzkogel|47.063|14.567|AT|Styria|40|f
+Zimmerschied|50.350|7.783|DE|Rheinland-Pfalz|39
 Zīārat-e Shāh Maqşūd|31.985|65.474|AF|Kandahar|0
+Zibu|28.853|116.863|CN|Jiangxi|0
+Zicheng|23.647|115.177|CN|Guangdong|0
+Zihu|28.906|118.155|CN|Jiangxi|0
+Zijin|32.135|111.306|CN|Hubei|0
+Zijin|28.920|89.533|CN|Tibet|0
 Ziketan|35.586|99.988|CN|Qinghai|0
+Zilang|30.004|111.211|CN|Hunan|0
+Zili|29.566|107.371|CN|Chongqing|0
+Ziliang|25.229|112.090|CN|Hunan|0
+Zilingpu|31.131|112.218|CN|Hubei|0
+Zimmern unter der Burg|48.221|8.719|DE|Baden-Wurttemberg|0
 Zinat|35.430|-5.400|MA|Tanger-Tetouan-Al Hoceima|0
 Zing|8.991|11.748|NG|Taraba State|0
 Zinkiv|49.094|27.075|UA|Khmelnytskyi|0
 Ziordia|42.871|-2.230|ES|Navarre|0
+Ziqiu|30.437|110.678|CN|Hubei|0
 Zīrakī|37.592|70.558|AF|Badakhshan|0
 Zīṟūk ‘Alāqahdārī|33.158|69.313|AF|Paktika|0
+Zirun|39.303|112.684|CN|Shanxi|0
+Zishan|25.960|115.541|CN|Jiangxi|0
+Zishi|23.932|115.351|CN|Guangdong|0
+Zishi|30.182|112.409|CN|Hubei|0
 Zitenga|12.748|-1.310|BF|Plateau-Central|0
 Zito|30.739|95.836|CN|Tibet|0
+Zitong|30.750|103.697|CN|Sichuan|0
 Žitorađa|43.190|21.713|RS|Central Serbia|0
+Ziwu|34.058|108.894|CN|Shaanxi|0
+Zixi|28.069|117.784|CN|Jiangxi|0
+Zixiao|27.018|116.283|CN|Jiangxi|0
 Ziyodin Shaharchasi|40.031|65.666|UZ|Samarqand Region|0
 Ziyuan|26.038|110.639|CN|Guangxi|0
+Ziyun|33.820|113.429|CN|Henan|0

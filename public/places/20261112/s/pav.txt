@@ -8,6 +8,7 @@ Pāvugada|14.100|77.280|IN|Karnataka|90
 Pavlovskaya|46.139|39.786|RU|Krasnodar Krai|90
 Pavlovsk|50.454|40.124|RU|Voronezh Oblast|88
 Pāveh|35.043|46.356|IR|Kermanshah Province|88
+Pavlodar Airport|52.195|77.074|KZ|Pavlodar Region|85|f
 Pavlovsk|59.683|30.435|RU|St. Petersburg|84
 Pavlovsk|53.320|82.990|RU|Altai Krai|83
 Pāvaratti|10.565|76.062|IN|Kerala|82
@@ -28,6 +29,7 @@ Pavona|41.726|12.616|IT|Lazio|74
 Pavlovce nad Uhom|48.611|22.069|SK|Košice Region|73
 Pavlysh|48.923|33.361|UA|Kirovohrad|73
 Pavlovka|55.421|56.554|RU|Bashkortostan Republic|73
+Pavlof Bay|55.534|-161.541|US|Alaska|71|f
 Pavlivka|49.443|28.465|UA|Vinnytsia|71
 Pavussu|-7.966|-43.222|BR|Piauí|71
 Pavone Canavese|45.442|7.853|IT|Piedmont|71
@@ -38,10 +40,13 @@ Pavino|59.115|46.144|RU|Kostroma Oblast|69
 Pavone del Mella|45.301|10.210|IT|Lombardy|69
 Pavlivka|45.961|29.489|UA|Odesa|68
 Pavie|43.610|0.589|FR|Occitanie|67
+Pavlof Volcano|55.417|-161.894|US|Alaska|67|f
 Pavelets|53.788|39.246|RU|Ryazan Oblast|67
 Pavliš|45.106|21.240|RS|Vojvodina|67
 Pavlivka|48.989|33.269|UA|Kirovohrad|66
+Pavlof Islands|55.134|-161.701|US|Alaska|65|f
 Pavón|-36.711|-56.754|AR|Buenos Aires|64
+Pavlof Sister|55.458|-161.855|US|Alaska|63|f
 Pavoloch|49.867|29.455|UA|Zhytomyr Oblast|63
 Pavlivka|49.610|38.701|UA|Luhansk|61
 Pavlivka|47.064|32.851|UA|Mykolaiv|61
@@ -50,8 +55,39 @@ Pavencul|15.203|-92.180|MX|Chiapas|60
 Pavia di Udine|45.995|13.304|IT|Friuli Venezia Giulia|60
 Pavlivka|47.242|29.569|UA|Odesa|60
 Pavlíkov|50.056|13.736|CZ|Central Bohemia|60
+Pavlovichi|56.567|37.700|RU|Moscow Oblast|60
+Pavlivka|46.760|29.987|UA|Odesa|59
 Pāvilosta|56.888|21.186|LV|South Kurzeme Municipality|59
+Pavshyno|48.414|22.691|UA|Zakarpattia|58
 Pavlivka|50.626|24.459|UA|Volyn|58
+Pavlovice u Přerova|49.469|17.548|CZ|Olomouc Region|58
+Pavlovo|48.646|22.911|UA|Zakarpattia|58
+Pavant|48.954|3.286|FR|Hauts-de-France|58
+Pavda|59.246|59.516|RU|Sverdlovsk Oblast|57
 Pavarolo|45.067|7.839|IT|Piedmont|56
+Pavilion|42.876|-78.023|US|New York|56
+Pavlopil|47.260|37.781|UA|Donetsk|56
+Pavlov|48.874|16.672|CZ|South Moravian|56
+Pavo|30.960|-83.738|US|Georgia|56
+Pavlov|49.743|16.879|CZ|Olomouc Region|55
+Pavlovka|45.178|34.716|UA|Crimea|55
+Pavlovec-Zabočki|46.020|15.882|HR|Krapina-Zagorje|55
+Pavlo-Maryanivka|47.100|32.887|UA|Mykolaiv|55
+Pavenham|52.189|-0.552|GB|England|54
+Pavlice|48.258|17.577|SK|Trnava Region|54
+Pavlynka|46.813|30.675|UA|Odesa|54
+Pavie Ridge|-68.560|-66.983|AQ||54|f
+Pavučnjak|45.712|15.764|HR|Zagreb County|54
+Pavlice|48.971|15.899|CZ|South Moravian|54
+Paviken|57.453|18.142|SE|Gotland|49|f
+Pavlof Harbor|54.458|-162.696|US|Alaska|49|f
+Pavlov Peak|-64.044|-61.972|AQ||49|f
+Pavlovsk Palace|59.686|30.453|RU|Leningradskaya Oblast'|49|f
+Pavelló de l'Ateneu de Sant Sadurní|41.423|1.783|ES|Catalonia|40|f
+Pavilhão Rosa Mota|41.147|-8.626|PT|Porto|40|f
+Pavilion Lake|50.866|-121.739|CA|British Columbia|40|f
+Pavilion Mountain|50.983|-121.686|CA|British Columbia|40|f
+Pavlak Glacier|-82.967|163.200|AQ||40|f
+Pavlikeni Point|-62.442|-59.966|AQ||40|f
 Pavías|39.967|-0.483|ES|Valencia|35
 Pavlivske|47.945|35.460|UA|Zaporizhzhia|0

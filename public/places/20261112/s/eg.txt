@@ -3,6 +3,7 @@ Eger|47.903|20.373|HU|Heves County|95
 Egypt Lake-Leto|28.018|-82.506|US|Florida|91
 Egra|21.899|87.538|IN|West Bengal|90
 Egham|51.432|-0.552|GB|England|89
+Egilsstaðir Airport|65.283|-14.400|IS|East|88|f
 Eglinton East|43.739|-79.246|CA|Ontario|87
 Eggenberg|47.070|15.399|AT|Styria|86
 Égkomi|35.163|33.883|CY|Ammochostos|86
@@ -16,9 +17,11 @@ Egarkunr|23.751|86.769|IN|Jharkhand|81
 Egota|35.726|139.665|JP|Tokyo|81
 Egersund|58.451|6.000|NO|Rogaland|81
 Egelsbach|49.968|8.663|DE|Hesse|80
+Egg Island|53.863|-166.051|US|Alaska|79|f
 Egg|47.300|8.690|CH|Zurich|79
 Egestorf|52.286|9.517|DE|Lower Saxony|78
 Éguilles|43.569|5.356|FR|Provence-Alpes-Côte d'Azur|77
+Egegik Airport|58.186|-157.375|US|Alaska|77|f
 Eglin Village|30.463|-86.539|US|Florida|77
 Eggolsheim|49.770|11.057|DE|Bavaria|76
 Egremont|54.479|-3.528|GB|England|76
@@ -39,12 +42,14 @@ Egindiköl|51.052|69.475|KZ|Aqmola|71
 Egna|46.318|11.273|IT|Trentino-Alto Adige|71
 Egmond aan den Hoef|52.623|4.653|NL|North Holland|71
 Egenhofen|48.283|11.167|DE|Bavaria|70
+Egan Range|39.439|-115.029|US|Nevada|70|f
 Eggenburg|48.639|15.819|AT|Lower Austria|70
 Eguia|15.906|119.886|PH|Ilocos|70
 Eglise Catholique, Centrale GIKO|-1.937|29.806|RW|Southern Province|70
 Egerkingen|47.320|7.784|CH|Solothurn|69
 Eggstätt|47.927|12.379|DE|Bavaria|69
 Egaña|10.747|122.010|PH|Western Visayas|69
+Egg Island|25.483|-76.883|BS|Spanish Wells|69|f
 Egmond-Binnen|52.596|4.656|NL|North Holland|69
 Eggebek|54.617|9.367|DE|Schleswig-Holstein|68
 Egilsstaðir|65.267|-14.395|IS|East|68
@@ -57,6 +62,8 @@ Egtved|55.616|9.308|DK|South Denmark|68
 Egypt|40.680|-75.530|US|Pennsylvania|68
 Egling|48.186|10.977|DE|Bavaria|67
 Eglin Air Force Base|30.459|-86.550|US|Florida|67
+Egal International Airport - Hargeisa|9.514|44.084|SO|Woqooyi Galbeed|67|f
+Egrisis Kedi|42.818|42.227|GE|Samegrelo and Zemo Svaneti|67|f
 Egvekinot|66.323|-179.118|RU|Chukotka|67
 Eglinton|-33.377|149.547|AU|New South Wales|67
 Eggersriet|47.442|9.469|CH|Saint Gallen|67
@@ -65,6 +72,7 @@ Egenhausen|48.567|8.617|DE|Baden-Wurttemberg|66
 Égreville|48.176|2.873|FR|Île-de-France|66
 Egmating|48.004|11.795|DE|Bavaria|66
 Egerszalók|47.867|20.333|HU|Heves County|66
+Eglisau railway bridge|47.578|8.510|CH|Zurich|65|f
 Eggersdorf bei Graz|47.123|15.601|AT|Styria|65
 Eggermühlen|52.569|7.818|DE|Lower Saxony|65
 Eggingen|47.700|8.400|DE|Baden-Wurttemberg|65
@@ -72,6 +80,8 @@ Eglofs|47.663|9.931|DE|Baden-Wurttemberg|65
 Egem|51.015|3.259|BE|Flanders|64
 Eguisheim|48.043|7.306|FR|Grand Est|64
 Egahlou|12.125|42.937|DJ|Obock|64
+Eggers Island|59.909|-43.901|GL|Kujalleq|63|f
+Egremont Castle|54.480|-3.530|GB|England|63|f
 Eglington A|-24.657|31.364|ZA|Mpumalanga|63
 Egipto|17.262|-91.972|MX|Chiapas|63
 Egliswil|47.349|8.186|CH|Aargau|63
@@ -84,14 +94,63 @@ Eggendorf|48.131|15.620|AT|Lower Austria|62
 Egg|48.087|10.285|DE|Bavaria|61
 Eğrice|37.362|37.332|TR|Kahramanmaraş|61
 Eganville|45.533|-77.099|CA|Ontario|61
+Egadi Islands|37.967|12.267|IT|Sicily|61|f
 Egchel|51.314|5.972|NL|Limburg|61
 Eglington B|-24.674|31.317|ZA|Mpumalanga|60
 Égriselles-le-Bocage|48.121|3.182|FR|Bourgogne-Franche-Comté|60
+Eglisau|47.577|8.521|CH|Zurich|60
+Egoukro|7.306|-4.130|CI|Lacs District|60
+Eglfing|47.733|11.183|DE|Bavaria|59
+Egypt|34.074|-86.156|US|Alabama|59
+Eggstedt|54.054|9.257|DE|Schleswig-Holstein|59
+Eggelsberg|48.079|12.990|AT|Upper Austria|58
+Egg|47.693|9.193|DE|Baden-Wurttemberg|58
+Eggegebirge|51.747|8.987|DE|North Rhine-Westphalia|58|f
+Egmont Islands|-6.654|71.350|IO||58|f
+Egmont Key|27.593|-82.762|US|Florida|58|f
+Égliseneuve-près-Billom|45.722|3.391|FR|Auvergne-Rhône-Alpes|58
 Eğerci|41.099|31.817|TR|Zonguldak Province|57
+Eggendorf|47.296|16.006|AT|Styria|57
+Eğribucak|36.744|36.454|TR|Hatay|57
+Egesheim|48.117|8.856|DE|Baden-Wurttemberg|56
+Egan|30.237|-92.506|US|Louisiana|56
+Égliseneuve-d'Entraigues|45.408|2.827|FR|Auvergne-Rhône-Alpes|55
+Egginton|52.850|-1.605|GB|England|55
+Eggendorf im Traunkreis|48.131|14.144|AT|Upper Austria|55
+Egelsdorf|47.117|15.817|AT|Styria|55
+Egg Harbor|45.055|-87.291|US|Wisconsin|54|f
+Egg Island|-63.674|-57.708|AQ||54|f
+Egg Islands|-43.084|147.020|AU|Tasmania|54|f
+Eggi|61.463|8.653|NO|Innlandet|54|f
+Egil Peak|-72.400|1.283|AQ||54|f
+Egmont Dam|-30.049|27.037|ZA|Free State|54|f
 Eggern|48.908|15.149|AT|Lower Austria|54
+Egbert, Mount|-69.951|-69.649|AQ||49|f
+Ege, Mount|-83.560|-55.853|AQ||49|f
+Egeberg Glacier|-71.567|169.833|AQ||49|f
+Egegik Bay|58.186|-157.458|US|Alaska|49|f
+Egg Island|-32.475|133.314|AU|South Australia|49|f
+Egg Island|31.305|-81.301|US|Georgia|49|f
+Egholm|57.066|9.841|DK|North Denmark|49|f
+Egilsay|59.150|-2.933|GB|Scotland|49|f
+Egress Peak|-81.400|158.900|AQ||49|f
+Egelsee|47.257|8.818|CH|Zurich|40|f
+Egenolf Lake|59.050|-100.000|CA|Manitoba|40|f
+Egg Hill|40.832|-77.602|US|Pennsylvania|40|f
+Egg Islands|60.373|-145.832|US|Alaska|40|f
+Egg Lake|44.831|-63.512|CA|Nova Scotia|40|f
+Egg Rock|42.465|-71.359|US|Massachusetts|40|f
+Egginer|46.075|7.930|CH|Valais|40|f
+Eggishorn|46.431|8.094|CH|Valais|40|f
+Eggleston Hill|42.620|-74.915|US|New York|40|f
+Eggner Ferry Bridge|36.773|-88.120|US|Kentucky|40|f
+Eggstock|46.652|8.418|CH|Valais|40|f
+Eglinton Fiord|70.668|-70.047|CA|Nunavut|40|f
+Eglinton Island|75.801|-118.339|CA|Northwest Territories|40|f
 Eg|48.683|110.183|MN|Hentiy|0
 Eg-Uur|50.109|101.575|MN|Khövsgöl Province|0
 Egbeda|7.377|4.050|NG|Oyo State|0
 Egbema|5.544|6.761|NG|Imo State|0
 Eggleston|54.609|-2.003|GB|England|0
 Egito Praia|-11.962|13.764|AO|Benguela|0
+Egweil|48.783|11.233|DE|Bavaria|0

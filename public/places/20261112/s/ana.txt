@@ -24,8 +24,10 @@ Anastácio|-20.484|-55.807|BR|Mato Grosso do Sul|88
 Anaka|2.601|31.947|UG|Northern Region|88
 Anak Bukit|1.341|103.773|SG||87
 Anagé|-14.612|-41.136|BR|Bahia|87
+Anazarbus|37.255|35.906|TR|Adana|87|f
 Añatuya|-28.460|-62.834|AR|Santiago del Estero|86
 Anak|38.511|125.494|KP|North Hwanghae|86
+Anapa Airport|45.002|37.347|RU|Krasnodar Krai|86|f
 Anacortes|48.513|-122.613|US|Washington|85
 Anamizu|37.233|136.900|JP|Ishikawa|85
 Anadia|-9.684|-36.304|BR|Alagoas|85
@@ -41,6 +43,7 @@ Anandanagar|23.809|91.313|IN|Tripura|83
 Anapurus|-3.672|-43.116|BR|Maranhão|83
 Anandpar|22.322|70.846|IN|Gujarat|83
 Ananguié|6.223|-3.773|CI|Lagunes District|82
+Anatahan Island|16.362|145.642|MP|Northern Islands|82|f
 Anatolí|39.635|20.866|GR|Epirus|82
 ‘Anātā|31.809|35.259|PS|West Bank|82
 Anacostia|38.867|-76.984|US|District of Columbia|81
@@ -54,6 +57,7 @@ Anār Darah|32.759|61.654|AF|Farah|80
 Anaconda|46.129|-112.942|US|Montana|79
 Anagni|41.743|13.155|IT|Lazio|79
 Anantabati|22.637|88.146|IN|West Bengal|79
+Anacapa Island|34.004|-119.391|US|California|79|f
 Ananbin|16.913|96.133|MM|Yangon|79
 Ānā Khātūn|38.153|46.257|IR|East Azerbaijan|78
 Ananyiv|47.720|29.957|UA|Odesa|78
@@ -66,6 +70,8 @@ Anávyssos|37.734|23.944|GR|Attica|76
 Anantpur|19.933|75.012|IN|Maharashtra|76
 Añasco|18.283|-67.140|PR|Añasco|76
 Anamosa|42.108|-91.285|US|Iowa|75
+Analalava Airport|-14.630|47.764|MG|Sofia|74|f
+Anaphi Island|36.368|25.778|GR|South Aegean|74|f
 Anacleto Canabal 2da. Sección|17.976|-93.024|MX|Tabasco|74
 Anapoima|4.551|-74.535|CO|Cundinamarca|74
 Analândia|-22.126|-47.663|BR|São Paulo|73
@@ -73,11 +79,13 @@ Anao|15.142|120.691|PH|Central Luzon|73
 Anandravy|-22.900|47.367|MG|Upper Matsiatra|72
 Anakan|8.848|125.151|PH|Northern Mindanao|72
 Ananda|7.283|-4.267|CI|Lacs District|72
+Anangula Island|53.002|-168.907|US|Alaska|71|f
 Anáhuac|25.777|-97.776|MX|Tamaulipas|71
 Anārestān|28.031|52.062|IR|Bushehr|71
 Anakao|-23.667|43.650|MG|Atsimo-Andrefana|70
 Anamas|37.767|30.800|TR|Isparta|69
 Anahy|-24.644|-53.135|BR|Paraná|69
+Anare Mountains|-70.917|166.000|AQ||69|f
 Anamorós|13.741|-87.874|SV|La Union|68
 Anahawan|10.343|124.878|PH|Eastern Visayas|68
 Anacleto Canabal 3ra. Sección|18.018|-92.990|MX|Tabasco|68
@@ -87,27 +95,91 @@ Anambongan|15.866|120.389|PH|Ilocos|68
 Anao|13.529|144.918|GU|Yigo|68
 Anayazı|36.321|36.191|TR|Hatay|67
 Anahuac|29.773|-94.683|US|Texas|67
+Anatolikí Rodhópi|41.733|25.517|BG||67|f
 Anahola|22.142|-159.314|US|Hawaii|67
 Anand Nagar|26.224|90.227|IN|Assam|66
 Anarcs|48.176|22.112|HU|Szabolcs-Szatmár-Bereg|66
 Anārak|33.311|53.699|IR|Isfahan|66
+Anápolis Air Force Base|-16.229|-48.964|BR|Goiás|65|f
 Anastasiyevka|47.561|38.528|RU|Rostov|65
 Anadolukavağı|41.174|29.089|TR|Istanbul|64
 Anahim Lake|52.467|-125.307|CA|British Columbia|64
+Anabarskiy Zaliv|73.704|113.931|RU|Sakha|63|f
+Ananaigawa-damu|33.681|133.655|JP|Kochi|63|f
+Anatom Airport|-20.249|169.771|VU|Tafea|63|f
 Anār Marz|36.706|52.852|IR|Māzandarān|63
 Anau|-16.501|-151.721|PF|Leeward Islands|63
 Anakikro|7.567|-3.333|CI|Zanzan District|63
 Anaklia|42.393|41.562|GE|Samegrelo and Zemo Svaneti|62
 Anamakro|7.359|-4.001|CI|Lacs District|62
 Anávra|39.190|22.093|GR|Thessaly|61
+Anaa Airport|-17.355|-145.509|PF|Tuamotu-Gambier Islands|61|f
+Anaconda Peak|48.768|-113.973|US|Montana|61|f
+Anai Mudi|10.168|77.062|IN|Kerala|61|f
 Anakasiá|39.381|22.975|GR|Thessaly|60
+Anatolikó|40.544|21.748|GR|West Macedonia|60
+Anadoly|48.482|26.529|UA|Chernivtsi|59
+Analco|19.818|-97.400|MX|Puebla|59
+Anaríta|34.741|32.534|CY|Pafos|59
+Anatolivka|46.814|31.211|UA|Mykolaiv|59
+Anacoco|31.252|-93.341|US|Louisiana|59
+Anaconda Smelter Stack State Park|46.111|-112.913|US|Montana|58|f
+Anacostia Museum|38.857|-76.976|US|District of Columbia|58|f
+Anaehoomalu Bay|19.915|-155.889|US|Hawaii|58|f
+Anahim Lake Airport|52.454|-125.306|CA|British Columbia|58|f
+Anaho Island|39.951|-119.514|US|Nevada|58|f
+Anaho Island National Wildlife Refuge|39.953|-119.512|US|Nevada|58|f
+Anaktuvuk Pass Airport|68.137|-151.739|US|Alaska|58|f
+Anastasova Tumba|41.453|22.976|BG||58|f
+Anawalt Lake Wildlife Management Area|37.321|-81.420|US|West Virginia|58|f
+Anaráchi|40.492|21.573|GR|West Macedonia|58
+Anayénnisis|41.110|23.333|GR|Central Macedonia|58
+Anafotída|34.824|33.464|CY|Larnaka|57
+Anakie|-37.917|144.250|AU|Victoria|56
+Analipsi|40.721|23.175|GR|Central Macedonia|56
+Ånäset|65.450|20.883|SE|Norrbotten|56
+Ånäset|64.267|21.050|SE|Västerbotten|56
+Análipsi|35.040|25.981|GR|Crete|55
+Anávra|39.073|22.551|GR|Thessaly|55
+Anatolivka|47.224|30.536|UA|Odesa|55
+Anārak|30.623|52.913|IR|Fars|55
+Analco|18.734|-98.175|MX|Puebla|55
+Análipsi|40.697|21.683|GR|West Macedonia|54
+Anaconda Range|45.981|-113.442|US|Montana|54|f
+Anacortes Airport|48.498|-122.661|US|Washington|54|f
+Anagram Islands|-65.210|-64.329|AQ||54|f
+Analaitivu|9.668|79.773|LK|Northern Province|54|f
+Analavelona|-22.750|44.167|MG|Atsimo-Andrefana|54|f
+Anânâ|72.617|-56.133|GL|Avannaata|54|f
+Anangula Archeological District|52.996|-168.913|US|Alaska|54|f
+Anastasia State Park|29.862|-81.273|US|Florida|54|f
+Anavarza Kalesi|37.251|35.904|TR|Adana|54|f
+Anayal Número Uno|20.136|-97.551|MX|Veracruz|54
+Anais|45.774|0.209|FR|New Aquitaine|54
 Anabar|-0.508|166.953|NR|Anabar District|52
 Anabar District|-0.507|166.952|NR||52|r
+Anacostia Railroad Bridge|38.880|-76.972|US|District of Columbia|49|f
+Anakeesta Knob|35.634|-83.414|US|Tennessee|49|f
+Anarusuk|73.467|-55.650|GL|Avannaata|49|f
+Anauayan Island|11.096|123.154|PH|Western Visayas|49|f
+Anavilhanas Ecological Station|-2.129|-60.870|BR|Amazonas|49|f
 Anaya de Alba|40.728|-5.493|ES|Castille and León|49
 Anaya|40.992|-4.309|ES|Castille and León|43
+Anacostia Park|38.918|-76.946|US|District of Columbia|40|f
+Anaheim Bay|33.732|-118.087|US|California|40|f
+Anahim Peak|52.750|-125.620|CA|British Columbia|40|f
+Anahuac National Wildlife Refuge|29.610|-94.438|US|Texas|40|f
+Anak Ranakah|-8.633|120.533|ID|East Nusa Tenggara|40|f
+Anand Agricultural University|22.535|72.971|IN|Gujarat|40|f
+Anandakrishnan Glacier|-75.533|-140.083|AQ||40|f
+Anarchist Mountain|49.033|-119.336|CA|British Columbia|40|f
+Anarnittuq Island|66.367|-66.981|CA|Nunavut|40|f
+Anastasia Island|29.827|-81.277|US|Florida|40|f
+Anatakupu Island|-40.888|173.860|NZ|Nelson Region|40|f
 Anadón|40.982|-0.984|ES|Aragon|26
 Anadia|40.438|-8.434|PT|Aveiro|0
 Anáfi|36.350|25.767|GR|South Aegean|0
+Anafolo|-8.721|121.043|ID|East Nusa Tenggara|0
 Anahawan|10.277|125.263|PH|Eastern Visayas|0
 Anaku|6.469|6.929|NG|Anambra|0
 Ananea|-14.679|-69.535|PE|Puno|0

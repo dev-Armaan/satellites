@@ -1,0 +1,2513 @@
+Brussels|50.850|4.349|BE|Brussels Capital|120
+Rotterdam|51.922|4.479|NL|South Holland|119
+Amsterdam|52.374|4.890|NL|North Holland|117
+Antwerp|51.220|4.400|BE|Flanders|114
+The Hague|52.077|4.299|NL|South Holland|114
+Gent|51.050|3.717|BE|Flanders|108
+Lille|50.634|3.055|FR|Hauts-de-France|108
+Charleroi|50.411|4.444|BE|Wallonia|106
+Breda|51.587|4.776|NL|North Brabant|105
+Haarlem|52.381|4.637|NL|North Holland|104
+Anderlecht|50.836|4.315|BE|Brussels Capital|104
+Zaanstad|52.453|4.814|NL|North Holland|103
+Schaerbeek|50.869|4.377|BE|Brussels Capital|102
+Hoofddorp|52.303|4.689|NL|North Holland|102
+Leiden|52.158|4.493|NL|South Holland|102
+Dordrecht|51.810|4.674|NL|South Holland|102
+Brugge|51.209|3.224|BE|Flanders|101
+Zoetermeer|52.057|4.493|NL|South Holland|101
+Namur|50.467|4.867|BE|Wallonia|101
+Leuven|50.880|4.701|BE|Flanders|100
+Roubaix|50.694|3.175|FR|Hauts-de-France|100
+Tourcoing|50.724|3.161|FR|Hauts-de-France|100
+Molenbeek-Saint-Jean|50.850|4.312|BE|Brussels Capital|100
+Mons|50.454|3.952|BE|Wallonia|100
+Delft|52.007|4.356|NL|South Holland|100
+Ixelles|50.833|4.367|BE|Brussels Capital|99
+Uccle|50.802|4.339|BE|Brussels Capital|98
+Amstelveen|52.301|4.864|NL|North Holland|98
+Deurne|51.221|4.466|BE|Flanders|98
+Roosendaal|51.531|4.465|NL|North Brabant|98
+Aalst|50.936|4.035|BE|Flanders|98
+Mechelen|51.026|4.478|BE|Flanders|98
+La Louvière|50.487|4.188|BE|Wallonia|98
+Schiedam|51.919|4.389|NL|South Holland|98
+Spijkenisse|51.845|4.329|NL|South Holland|97
+Kortrijk|50.828|3.265|BE|Flanders|97
+Vlaardingen|51.913|4.342|NL|South Holland|97
+Gouda|52.017|4.708|NL|South Holland|97
+Zaandam|52.439|4.826|NL|North Holland|97
+Alphen aan den Rijn|52.129|4.655|NL|South Holland|97
+Tournai|50.607|3.389|BE|Wallonia|97
+Ostend|51.216|2.927|BE|Flanders|97
+Sint-Niklaas|51.165|4.144|BE|Flanders|97
+Bergen op Zoom|51.495|4.292|NL|North Brabant|96
+Capelle aan den IJssel|51.929|4.578|NL|South Holland|96
+Villeneuve-d'Ascq|50.617|3.167|FR|Hauts-de-France|96
+Woluwe-Saint-Lambert|50.844|4.429|BE|Brussels Capital|95
+Forest|50.817|4.328|BE|Brussels Capital|95
+Roeselare|50.947|3.123|BE|Flanders|95
+Oosterhout|51.645|4.860|NL|North Brabant|95
+Jette|50.873|4.334|BE|Brussels Capital|94
+Mouscron|50.745|3.206|BE|Wallonia|94
+Saint-Gilles|50.828|4.344|BE|Brussels Capital|94
+Woerden|52.085|4.883|NL|Utrecht|94
+Etterbeek|50.833|4.388|BE|Brussels Capital|94
+Rijswijk|52.036|4.325|NL|South Holland|93
+Arras|50.293|2.782|FR|Hauts-de-France|93
+Douai|50.371|3.079|FR|Hauts-de-France|93
+Middelburg|51.500|3.614|NL|Zeeland|93
+Borgerhout|51.210|4.435|BE|Flanders|93
+Zwijndrecht|51.818|4.633|NL|South Holland|93
+Dendermonde|51.029|4.101|BE|Flanders|93
+Vlissingen|51.443|3.574|NL|Zeeland|93
+Ridderkerk|51.873|4.603|NL|South Holland|93
+Beveren|51.212|4.256|BE|Flanders|93
+Valenciennes|50.359|3.525|FR|Hauts-de-France|93
+Merksem|51.246|4.449|BE|Flanders|93
+Turnhout|51.323|4.945|BE|Flanders|93
+Etten-Leur|51.571|4.637|NL|North Brabant|93
+Berchem|51.190|4.433|BE|Flanders|93
+Wattrelos|50.701|3.218|FR|Hauts-de-France|93
+Evere|50.874|4.399|BE|Brussels Capital|92
+Lokeren|51.104|3.993|BE|Flanders|92
+Wilrijk|51.167|4.395|BE|Flanders|92
+Dilbeek|50.848|4.260|BE|Flanders|92
+Barendrecht|51.857|4.535|NL|South Holland|92
+Marcq-en-Barœul|50.667|3.083|FR|Hauts-de-France|92
+Lens|50.433|2.828|FR|Hauts-de-France|92
+Voorburg|52.074|4.360|NL|South Holland|92
+Heist-op-den-Berg|51.075|4.728|BE|Flanders|92
+Beverwijk|52.483|4.657|NL|North Holland|92
+Braine-l'Alleud|50.684|4.368|BE|Wallonia|91
+Brasschaat|51.291|4.492|BE|Flanders|91
+Grimbergen|50.934|4.372|BE|Flanders|91
+Vilvoorde|50.928|4.429|BE|Flanders|91
+Goes|51.504|3.889|NL|Zeeland|91
+Cambrai|50.176|3.235|FR|Hauts-de-France|91
+Waregem|50.889|3.428|BE|Flanders|91
+Châtelet|50.403|4.528|BE|Wallonia|91
+Ieper|50.851|2.886|BE|Flanders|91
+Hoogvliet|51.863|4.362|NL|South Holland|91
+Ninove|50.828|4.027|BE|Flanders|91
+Gorinchem|51.837|4.972|NL|South Holland|91
+Geel|51.166|4.989|BE|Flanders|91
+Halle|50.734|4.235|BE|Flanders|91
+Hoboken|51.176|4.348|BE|Flanders|91
+Liévin|50.420|2.781|FR|Hauts-de-France|91
+Wavre|50.717|4.601|BE|Wallonia|91
+Auderghem|50.817|4.433|BE|Brussels Capital|91
+Knokke-Heist|51.350|3.267|BE|Flanders|91
+Maubeuge|50.279|3.973|FR|Hauts-de-France|91
+Schoten|51.253|4.503|BE|Flanders|91
+Lier|51.131|4.570|BE|Flanders|90
+Maassluis|51.923|4.250|NL|South Holland|90
+Sint-Amandsberg|51.059|3.749|BE|Flanders|90
+Binche|50.412|4.165|BE|Wallonia|90
+IJmuiden|52.460|4.610|NL|North Holland|90
+Menen|50.797|3.122|BE|Flanders|90
+Oudenaarde|50.852|3.609|BE|Flanders|90
+Nieuw-Vennep|52.264|4.631|NL|North Holland|90
+Tienen|50.807|4.938|BE|Flanders|90
+Papendrecht|51.832|4.688|NL|South Holland|90
+Evergem|51.113|3.710|BE|Flanders|90
+Béthune|50.530|2.640|FR|Hauts-de-France|90
+Wevelgem|50.800|3.167|BE|Flanders|90
+Geraardsbergen|50.773|3.882|BE|Flanders|90
+Sint-Pieters-Leeuw|50.779|4.244|BE|Flanders|90
+Blauwput|50.886|4.724|BE|Flanders|90
+Kessel-Lo|50.885|4.737|BE|Flanders|90
+Ypenburg|52.041|4.370|NL|South Holland|90
+Lomme|50.644|2.987|FR|Hauts-de-France|90
+Deinze|50.982|3.531|BE|Flanders|89
+Waterloo|50.715|4.399|BE|Wallonia|89
+Louvain-la-Neuve|50.668|4.614|BE|Wallonia|89
+Courcelles|50.464|4.375|BE|Wallonia|89
+Krimpen aan den IJssel|51.917|4.603|NL|South Holland|89
+Asse|50.910|4.198|BE|Flanders|89
+Lambersart|50.650|3.033|FR|Hauts-de-France|89
+Uithoorn|52.237|4.826|NL|North Holland|89
+Zaventem|50.884|4.473|BE|Flanders|89
+Terneuzen|51.336|3.828|NL|Zeeland|89
+Aarschot|50.987|4.837|BE|Flanders|89
+Saint-Josse-ten-Noode|50.854|4.373|BE|Brussels Capital|89
+Ath|50.629|3.778|BE|Wallonia|89
+Armentières|50.686|2.882|FR|Hauts-de-France|89
+Kapellen|51.314|4.435|BE|Flanders|88
+Izegem|50.914|3.214|BE|Flanders|88
+Temse|51.128|4.214|BE|Flanders|88
+Harelbeke|50.853|3.309|BE|Flanders|88
+Leiderdorp|52.158|4.529|NL|South Holland|88
+Herentals|51.177|4.832|BE|Flanders|88
+Heemstede|52.350|4.623|NL|North Holland|88
+Dongen|51.627|4.939|NL|North Brabant|88
+Assendelft|52.468|4.743|NL|North Holland|88
+Hénin-Beaumont|50.414|2.965|FR|Hauts-de-France|88
+Wassenaar|52.146|4.403|NL|South Holland|88
+Waddinxveen|52.045|4.651|NL|South Holland|88
+Berchem-Sainte-Agathe|50.866|4.296|BE|Brussels Capital|88
+Watermael-Boitsfort|50.802|4.414|BE|Brussels Capital|88
+Soignies|50.579|4.071|BE|Wallonia|88
+Ganshoren|50.871|4.315|BE|Brussels Capital|88
+Mortsel|51.167|4.451|BE|Flanders|88
+Jumet|50.442|4.437|BE|Wallonia|88
+Bruay-la-Buissière|50.483|2.550|FR|Hauts-de-France|88
+Zottegem|50.870|3.811|BE|Flanders|88
+Noordwijk-Binnen|52.234|4.445|NL|South Holland|88
+Diemen|52.340|4.963|NL|North Holland|88
+Ronse|50.746|3.600|BE|Flanders|88
+Nivelles|50.598|4.328|BE|Wallonia|88
+Sliedrecht|51.821|4.776|NL|South Holland|88
+Marcinelle|50.392|4.444|BE|Wallonia|87
+Steenbergen|51.584|4.319|NL|North Brabant|87
+La Madeleine|50.646|3.076|FR|Hauts-de-France|87
+Oud-Beijerland|51.824|4.412|NL|South Holland|87
+Wondelgem|51.087|3.709|BE|Flanders|87
+Overijse|50.774|4.535|BE|Flanders|87
+Zwevegem|50.813|3.338|BE|Flanders|87
+Hazebrouck|50.724|2.537|FR|Hauts-de-France|87
+Ekeren|51.281|4.418|BE|Flanders|87
+Heverlee|50.864|4.696|BE|Flanders|87
+Beersel|50.766|4.300|BE|Flanders|87
+Mons-en-Barœul|50.633|3.117|FR|Hauts-de-France|87
+Scheveningen|52.105|4.276|NL|South Holland|87
+Wetteren|51.005|3.883|BE|Flanders|87
+Hamme|51.098|4.137|BE|Flanders|87
+Willebroek|51.060|4.360|BE|Flanders|87
+Westerlo|51.090|4.915|BE|Flanders|87
+Saint-Ghislain|50.448|3.819|BE|Wallonia|87
+Voorschoten|52.127|4.449|NL|South Holland|87
+Lisse|52.260|4.557|NL|South Holland|87
+Borssele|51.423|3.735|NL|Zeeland|87
+Manage|50.503|4.236|BE|Wallonia|87
+Loos|50.610|3.019|FR|Hauts-de-France|87
+Maldegem|51.207|3.445|BE|Flanders|87
+Fleurus|50.484|4.550|BE|Wallonia|87
+Koekelberg|50.861|4.331|BE|Brussels Capital|87
+Zedelgem|51.142|3.137|BE|Flanders|87
+Koksijde|51.116|2.638|BE|Flanders|87
+Hellevoetsluis|51.833|4.133|NL|South Holland|87
+Edegem|51.157|4.445|BE|Flanders|87
+Gembloux|50.561|4.699|BE|Wallonia|87
+Rixensart|50.712|4.525|BE|Wallonia|87
+Oostkamp|51.154|3.231|BE|Flanders|87
+Denain|50.329|3.394|FR|Hauts-de-France|87
+Croix|50.678|3.149|FR|Hauts-de-France|87
+Oegstgeest|52.180|4.469|NL|South Holland|87
+Zemst|50.983|4.461|BE|Flanders|86
+Hendrik-Ido-Ambacht|51.844|4.639|NL|South Holland|86
+Geertruidenberg|51.702|4.857|NL|North Brabant|86
+Nijlen|51.161|4.670|BE|Flanders|86
+Tervuren|50.824|4.514|BE|Flanders|86
+Frameries|50.406|3.896|BE|Wallonia|86
+Schilde|51.241|4.583|BE|Flanders|86
+Kontich|51.132|4.447|BE|Flanders|86
+Zele|51.066|4.040|BE|Flanders|86
+Berkel en Rodenrijs|51.993|4.479|NL|South Holland|86
+Halluin|50.786|3.126|FR|Hauts-de-France|86
+Braine-le-Comte|50.610|4.147|BE|Wallonia|86
+Boussu|50.434|3.794|BE|Wallonia|86
+Gilly|50.424|4.479|BE|Wallonia|86
+Katwijk aan Zee|52.203|4.399|NL|South Holland|86
+Bornem|51.097|4.244|BE|Flanders|86
+Colfontaine|50.414|3.856|BE|Wallonia|86
+Assebroek|51.194|3.262|BE|Flanders|86
+Hem|50.653|3.187|FR|Hauts-de-France|86
+Lochristi|51.096|3.832|BE|Flanders|86
+Jambes|50.456|4.872|BE|Wallonia|86
+Poperinge|50.854|2.727|BE|Flanders|86
+Sint-Katelijne-Waver|51.067|4.535|BE|Flanders|86
+Bodegraven|52.083|4.750|NL|South Holland|86
+Sint-Andries|51.197|3.179|BE|Flanders|86
+Wasquehal|50.670|3.134|FR|Hauts-de-France|86
+Tielt|50.999|3.327|BE|Flanders|86
+Herent|50.909|4.671|BE|Flanders|86
+'s-Gravenzande|52.002|4.165|NL|South Holland|86
+Eeklo|51.187|3.557|BE|Flanders|86
+Nootdorp|52.045|4.396|NL|South Holland|86
+Benthuizen|52.078|4.544|NL|South Holland|86
+Torhout|51.066|3.101|BE|Flanders|86
+Aalter|51.090|3.447|BE|Flanders|85
+Montignies-sur-Sambre|50.411|4.491|BE|Wallonia|85
+Pijnacker|52.020|4.429|NL|South Holland|85
+Carvin|50.492|2.958|FR|Hauts-de-France|85
+Hoogstraten|51.400|4.760|BE|Flanders|85
+Meise|50.939|4.327|BE|Flanders|85
+Quaregnon|50.441|3.865|BE|Wallonia|85
+Avion|50.410|2.831|FR|Hauts-de-France|85
+Hillegom|52.291|4.583|NL|South Holland|85
+Alblasserdam|51.866|4.661|NL|South Holland|85
+Ronchin|50.599|3.091|FR|Hauts-de-France|85
+Rhoon|51.858|4.422|NL|South Holland|85
+Zwijndrecht|51.220|4.327|BE|Flanders|85
+Morlanwelz-Mariemont|50.455|4.245|BE|Wallonia|85
+Blankenberge|51.313|3.132|BE|Flanders|85
+Tubize|50.691|4.201|BE|Wallonia|85
+Sint-Genesius-Rode|50.746|4.358|BE|Flanders|85
+Saint-Amand-les-Eaux|50.447|3.431|FR|Hauts-de-France|85
+Middelkerke|51.185|2.821|BE|Flanders|85
+Kortenberg|50.890|4.544|BE|Flanders|85
+Kasterlee|51.241|4.967|BE|Flanders|85
+Naaldwijk|51.994|4.210|NL|South Holland|85
+Lessines|50.711|3.836|BE|Wallonia|85
+Sin-le-Noble|50.362|3.131|FR|Hauts-de-France|85
+Sint-Gillis-Waas|51.219|4.124|BE|Flanders|85
+Middelharnis|51.758|4.165|NL|South Holland|85
+Walcourt|50.254|4.438|BE|Wallonia|85
+Kalmthout|51.384|4.476|BE|Flanders|85
+Ranst|51.190|4.565|BE|Flanders|85
+Lebbeke|51.005|4.135|BE|Flanders|85
+Wervik|50.781|3.039|BE|Flanders|85
+Stabroek|51.332|4.371|BE|Flanders|85
+Krommenie|52.499|4.763|NL|North Holland|85
+Châtelineau|50.415|4.520|BE|Wallonia|85
+Haaltert|50.906|4.001|BE|Flanders|85
+Mariakerke|51.075|3.683|BE|Flanders|85
+Stekene|51.210|4.037|BE|Flanders|85
+Denderleeuw|50.885|4.076|BE|Flanders|85
+Dour|50.396|3.778|BE|Wallonia|85
+Destelbergen|51.060|3.799|BE|Flanders|85
+Lede|50.966|3.986|BE|Flanders|85
+Merelbeke|50.994|3.746|BE|Flanders|84
+Péruwelz|50.508|3.594|BE|Wallonia|84
+Bergschenhoek|51.990|4.499|NL|South Holland|84
+Herzele|50.887|3.890|BE|Flanders|84
+Zandvoort|52.371|4.533|NL|North Holland|84
+Rijen|51.591|4.919|NL|North Brabant|84
+Beerse|51.319|4.853|BE|Flanders|84
+Faches-Thumesnil|50.583|3.067|FR|Hauts-de-France|84
+Duffel|51.096|4.509|BE|Flanders|84
+Sint-Kruis|51.214|3.249|BE|Flanders|84
+Puurs|51.074|4.288|BE|Flanders|84
+Pont-à-Celles|50.505|4.369|BE|Wallonia|84
+Gentbrugge|51.037|3.765|BE|Flanders|84
+Boom|51.092|4.372|BE|Flanders|84
+Haubourdin|50.608|2.991|FR|Hauts-de-France|84
+Badhoevedorp|52.337|4.785|NL|North Holland|84
+Hautmont|50.251|3.921|FR|Hauts-de-France|84
+Diksmuide|51.032|2.864|BE|Flanders|84
+Sassenheim|52.225|4.522|NL|South Holland|84
+Lille|51.242|4.823|BE|Flanders|84
+Velserbroek|52.433|4.662|NL|North Holland|84
+Velsen-Noord|52.472|4.647|NL|North Holland|84
+Bevere|50.850|3.587|BE|Flanders|84
+Putte|51.053|4.633|BE|Flanders|84
+Mijdrecht|52.207|4.862|NL|Utrecht|84
+Boskoop|52.075|4.656|NL|South Holland|84
+Marchienne-au-Pont|50.406|4.395|BE|Wallonia|84
+Rotselaar|50.953|4.717|BE|Flanders|84
+Wuustwezel|51.392|4.595|BE|Flanders|84
+Bailleul|50.736|2.736|FR|Hauts-de-France|83
+Bredene|51.235|2.976|BE|Flanders|83
+Kruibeke|51.170|4.314|BE|Flanders|83
+Wattignies|50.586|3.044|FR|Hauts-de-France|83
+Thuin|50.339|4.286|BE|Wallonia|83
+Zulte|50.920|3.449|BE|Flanders|83
+Merchtem|50.951|4.232|BE|Flanders|83
+Ternat|50.867|4.167|BE|Flanders|83
+Rumst|51.082|4.422|BE|Flanders|83
+Beernem|51.140|3.339|BE|Flanders|83
+Knokke|51.351|3.287|BE|Flanders|83
+Anzin|50.372|3.504|FR|Hauts-de-France|83
+Wemmel|50.908|4.306|BE|Flanders|83
+Chapelle-lez-Herlaimont|50.471|4.282|BE|Wallonia|83
+Éghezée|50.591|4.912|BE|Wallonia|83
+Houdeng-Goegnies|50.490|4.175|BE|Wallonia|83
+Genappe|50.612|4.452|BE|Wallonia|83
+Rumbeke|50.932|3.167|BE|Flanders|83
+Aartselaar|51.134|4.387|BE|Flanders|83
+Fourmies|50.015|4.048|FR|Hauts-de-France|83
+Lopik|51.972|4.949|NL|Utrecht|83
+Brecht|51.350|4.638|BE|Flanders|83
+Anzegem|50.837|3.478|BE|Flanders|83
+Caudry|50.125|3.412|FR|Hauts-de-France|83
+Basse Lasne|50.695|4.492|BE|Wallonia|83
+Berlare|51.033|4.000|BE|Flanders|83
+Lys-lez-Lannoy|50.667|3.217|FR|Hauts-de-France|83
+Aalsmeer|52.259|4.760|NL|North Holland|83
+Strombeek-Bever|50.910|4.356|BE|Flanders|83
+Tremelo|50.992|4.708|BE|Flanders|83
+Raismes|50.383|3.483|FR|Hauts-de-France|83
+Ichtegem|51.096|3.015|BE|Flanders|83
+Lubbeek|50.883|4.839|BE|Flanders|83
+Harnes|50.446|2.905|FR|Hauts-de-France|83
+Ravels|51.373|4.992|BE|Flanders|83
+Couvin|50.053|4.495|BE|Wallonia|83
+Buggenhout|51.016|4.202|BE|Flanders|83
+Assenede|51.226|3.751|BE|Flanders|83
+Herselt|51.052|4.882|BE|Flanders|83
+Jabbeke|51.182|3.089|BE|Flanders|83
+Beloeil|50.550|3.735|BE|Wallonia|83
+Roncq|50.753|3.121|FR|Hauts-de-France|83
+Oudenbosch|51.588|4.535|NL|North Brabant|83
+Mouvaux|50.699|3.134|FR|Hauts-de-France|82
+Wezembeek-Oppem|50.840|4.494|BE|Flanders|82
+Wormer|52.495|4.806|NL|North Holland|82
+Oosterzele|50.953|3.798|BE|Flanders|82
+Drongen|51.051|3.656|BE|Flanders|82
+Sint-Gillis-bij-Dendermonde|51.019|4.111|BE|Flanders|82
+Heist|51.339|3.239|BE|Flanders|82
+Wingene|51.058|3.274|BE|Flanders|82
+Dinant|50.258|4.912|BE|Wallonia|82
+Reeuwijk|52.047|4.725|NL|South Holland|82
+Kraainem|50.862|4.469|BE|Flanders|82
+Mont-sur-Marchienne|50.390|4.407|BE|Wallonia|82
+Kuurne|50.851|3.282|BE|Flanders|82
+Comines|50.761|3.011|FR|Hauts-de-France|82
+Rozenburg|51.904|4.249|NL|South Holland|82
+Grez-Doiceau|50.739|4.698|BE|Wallonia|82
+Oud-Turnhout|51.320|4.984|BE|Flanders|82
+Schoonhoven|51.947|4.849|NL|South Holland|82
+Somain|50.360|3.281|FR|Hauts-de-France|82
+Zandhoven|51.215|4.662|BE|Flanders|82
+Sint-Michiels|51.188|3.211|BE|Flanders|82
+Machelen|50.911|4.442|BE|Flanders|82
+Seclin|50.549|3.027|FR|Hauts-de-France|82
+Erembodegem|50.919|4.050|BE|Flanders|82
+Boechout|51.160|4.492|BE|Flanders|82
+Opwijk|50.967|4.184|BE|Flanders|82
+Mettet|50.321|4.662|BE|Wallonia|82
+Veurne|51.073|2.668|BE|Flanders|82
+Liedekerke|50.869|4.087|BE|Flanders|82
+Bully-les-Mines|50.444|2.727|FR|Hauts-de-France|82
+Nœux-les-Mines|50.483|2.667|FR|Hauts-de-France|82
+Kortemark|51.030|3.041|BE|Flanders|82
+Jodoigne|50.724|4.869|BE|Wallonia|82
+Wommelgem|51.205|4.522|BE|Flanders|82
+Zelzate|51.190|3.808|BE|Flanders|82
+Gavere|50.929|3.662|BE|Flanders|82
+Noordwijkerhout|52.262|4.493|NL|South Holland|81
+Heule|50.838|3.238|BE|Flanders|81
+De Lier|51.975|4.249|NL|South Holland|81
+Made|51.677|4.793|NL|North Brabant|81
+De Haan|51.273|3.034|BE|Flanders|81
+Wasmes|50.415|3.847|BE|Wallonia|81
+Bruay-sur-l'Escaut|50.399|3.544|FR|Hauts-de-France|81
+Marly|50.346|3.550|FR|Hauts-de-France|81
+Laarne|51.031|3.851|BE|Flanders|81
+Anderlues|50.407|4.271|BE|Wallonia|81
+Goedereede|51.818|3.981|NL|South Holland|81
+Bernissart|50.475|3.650|BE|Wallonia|81
+Zonnebeke|50.873|2.987|BE|Flanders|81
+Méricourt|50.401|2.862|FR|Hauts-de-France|81
+Monster|52.026|4.175|NL|South Holland|81
+Boortmeerbeek|50.979|4.574|BE|Flanders|81
+Farciennes|50.430|4.542|BE|Wallonia|81
+Profondeville|50.376|4.865|BE|Wallonia|81
+Enghien|50.694|4.038|BE|Wallonia|81
+Couillet|50.391|4.459|BE|Wallonia|81
+Koog aan de Zaan|52.460|4.805|NL|North Holland|81
+Saint-Saulve|50.371|3.556|FR|Hauts-de-France|81
+Deerlijk|50.853|3.354|BE|Flanders|81
+Bondues|50.702|3.095|FR|Hauts-de-France|81
+Carnisse|51.889|4.478|NL|South Holland|81
+Werkendam|51.810|4.894|NL|North Brabant|81
+Nevele|51.035|3.546|BE|Flanders|81
+Gistel|51.156|2.964|BE|Flanders|81
+Seneffe|50.531|4.263|BE|Wallonia|81
+Gosselies|50.469|4.433|BE|Wallonia|81
+Wichelen|51.005|3.977|BE|Flanders|81
+Jeumont|50.297|4.101|FR|Hauts-de-France|81
+Meulebeke|50.951|3.288|BE|Flanders|81
+Chaumont-Gistoux|50.678|4.721|BE|Wallonia|81
+Melsele|51.223|4.282|BE|Flanders|81
+Frasnes-lez-Buissenal|50.668|3.620|BE|Wallonia|81
+Saint-André-lez-Lille|50.667|3.050|FR|Hauts-de-France|81
+Damme|51.251|3.281|BE|Flanders|81
+Aiseau|50.412|4.587|BE|Wallonia|81
+Nazareth|50.957|3.594|BE|Flanders|81
+Zellik|50.884|4.273|BE|Flanders|81
+Nieuwpoort|51.130|2.751|BE|Flanders|81
+Marquette-lez-Lille|50.676|3.066|FR|Hauts-de-France|81
+Jemappes|50.449|3.891|BE|Wallonia|81
+Staden|50.975|3.015|BE|Flanders|81
+Vieux-Condé|50.459|3.567|FR|Hauts-de-France|81
+Ertvelde|51.179|3.747|BE|Flanders|81
+Grobbendonk|51.190|4.736|BE|Flanders|81
+Florennes|50.251|4.606|BE|Wallonia|81
+Moorslede|50.892|3.061|BE|Flanders|81
+Prinsenbeek|51.598|4.713|NL|North Brabant|81
+Montigny-en-Gohelle|50.425|2.939|FR|Hauts-de-France|81
+Tielt-Winge|50.917|4.884|BE|Flanders|81
+Melle|51.002|3.805|BE|Flanders|81
+Sallaumines|50.417|2.862|FR|Hauts-de-France|81
+Oignies|50.463|2.994|FR|Hauts-de-France|81
+Rijkevorsel|51.348|4.761|BE|Flanders|81
+Ingelmunster|50.921|3.256|BE|Flanders|81
+Albert|50.001|2.651|FR|Hauts-de-France|80
+Steenokkerzeel|50.919|4.510|BE|Flanders|80
+Bleiswijk|52.011|4.532|NL|South Holland|80
+Oud-Heverlee|50.835|4.664|BE|Flanders|80
+Annoeullin|50.529|2.932|FR|Hauts-de-France|80
+Oosteinde|52.279|4.796|NL|North Holland|80
+Belsele|51.146|4.089|BE|Flanders|80
+Zierikzee|51.650|3.919|NL|Zeeland|80
+Waasmunster|51.106|4.086|BE|Flanders|80
+Landsmeer|52.431|4.915|NL|North Holland|80
+Berlaar|51.118|4.658|BE|Flanders|80
+Oost-Souburg|51.463|3.604|NL|Zeeland|80
+Borsbeek|51.197|4.485|BE|Flanders|80
+Petegem-aan-de-Leie|50.967|3.533|BE|Flanders|80
+Courrières|50.457|2.947|FR|Hauts-de-France|80
+Vosselaar|51.309|4.890|BE|Flanders|80
+Douchy-les-Mines|50.301|3.393|FR|Hauts-de-France|80
+Hoeilaart|50.767|4.468|BE|Flanders|80
+Condé-sur-l'Escaut|50.454|3.589|FR|Hauts-de-France|80
+Aniche|50.330|3.253|FR|Hauts-de-France|80
+Rebecq-Rognon|50.651|4.107|BE|Wallonia|80
+De Pinte|50.993|3.647|BE|Flanders|80
+Essen|51.468|4.469|BE|Flanders|80
+Nieuwerkerk aan den IJssel|51.968|4.610|NL|South Holland|80
+Zoersel|51.268|4.713|BE|Flanders|80
+Cuesmes|50.436|3.923|BE|Wallonia|80
+Hooglede|50.983|3.083|BE|Flanders|80
+Halsteren|51.528|4.268|NL|North Brabant|80
+Wilsele|50.892|4.698|BE|Flanders|80
+Oudewater|52.025|4.868|NL|Utrecht|80
+Leers|50.682|3.244|FR|Hauts-de-France|80
+Monceau-sur-Sambre|50.417|4.377|BE|Wallonia|80
+Écaussinnes-d'Enghien|50.568|4.166|BE|Wallonia|80
+De Panne|51.098|2.594|BE|Flanders|80
+Oostzaan|52.439|4.876|NL|North Holland|80
+Liesveld|51.932|4.832|NL|South Holland|80
+Chimay|50.049|4.317|BE|Wallonia|80
+Ter Aar|52.166|4.707|NL|South Holland|80
+Braine-le-Château|50.680|4.274|BE|Wallonia|80
+Villers-la-Ville|50.580|4.534|BE|Wallonia|80
+Ottignies|50.665|4.567|BE|Wallonia|80
+Nieuw-Lekkerland|51.889|4.687|NL|South Holland|80
+Saint-Servais|50.476|4.837|BE|Wallonia|80
+Hemiksem|51.145|4.339|BE|Flanders|80
+Jurbise|50.531|3.909|BE|Wallonia|80
+Escaudain|50.333|3.344|FR|Hauts-de-France|80
+Limal|50.695|4.575|BE|Wallonia|80
+Neuville-en-Ferrain|50.748|3.157|FR|Hauts-de-France|79
+Hoek van Holland|51.977|4.133|NL|South Holland|79
+Erquelinnes|50.307|4.111|BE|Wallonia|79
+Strijen|51.745|4.551|NL|South Holland|79
+Court-Saint-Étienne|50.634|4.569|BE|Wallonia|79
+Estaimpuis|50.705|3.268|BE|Wallonia|79
+Lovendegem|51.102|3.613|BE|Flanders|79
+Aulnoye-Aymeries|50.201|3.838|FR|Hauts-de-France|79
+Pamel|50.845|4.071|BE|Flanders|79
+Kudelstaart|52.234|4.751|NL|North Holland|79
+Bertem|50.864|4.629|BE|Flanders|79
+Begijnendijk|51.019|4.784|BE|Flanders|79
+Ardooie|50.976|3.197|BE|Flanders|79
+Sint-Lievens-Houtem|50.920|3.862|BE|Flanders|79
+Huldenberg|50.789|4.583|BE|Flanders|79
+Rouvroy|50.392|2.904|FR|Hauts-de-France|79
+Avelgem|50.776|3.445|BE|Flanders|79
+Merville|50.643|2.641|FR|Hauts-de-France|79
+Holsbeek|50.921|4.757|BE|Flanders|79
+Fosses-la-Ville|50.395|4.696|BE|Wallonia|79
+Beuvry|50.517|2.685|FR|Hauts-de-France|79
+Herseaux|50.717|3.217|BE|Wallonia|79
+Sint-Stevens-Woluwe|50.868|4.452|BE|Flanders|79
+s-Gravendeel|51.780|4.617|NL|South Holland|79
+Bierbeek|50.829|4.759|BE|Flanders|79
+Roux|50.441|4.392|BE|Wallonia|79
+Gooik|50.794|4.114|BE|Flanders|79
+Houthulst|50.978|2.950|BE|Flanders|79
+Montigny-le-Tilleul|50.381|4.376|BE|Wallonia|79
+Wijnegem|51.228|4.519|BE|Flanders|79
+Gullegem|50.843|3.205|BE|Flanders|79
+Bracquegnies|50.471|4.120|BE|Wallonia|79
+Strépy-Bracquegnies|50.473|4.120|BE|Wallonia|79
+Zaandijk|52.475|4.807|NL|North Holland|79
+Ouderkerk aan de Amstel|52.295|4.907|NL|North Holland|79
+Kapelle-op-den-Bos|51.010|4.363|BE|Flanders|79
+Wielsbeke|50.900|3.367|BE|Flanders|79
+Sint-Martens-Lennik|50.812|4.170|BE|Flanders|79
+Wingles|50.494|2.855|FR|Hauts-de-France|79
+Ransart|50.462|4.476|BE|Wallonia|79
+Hornu|50.433|3.827|BE|Wallonia|79
+Oudenburg|51.185|3.000|BE|Flanders|79
+Fontaine-l'Évêque|50.409|4.324|BE|Wallonia|79
+Onnaing|50.386|3.600|FR|Hauts-de-France|79
+Wambrechies|50.683|3.048|FR|Hauts-de-France|79
+Kapelle|51.486|3.958|NL|Zeeland|79
+Niel|51.111|4.334|BE|Flanders|79
+Sint Willebrord|51.548|4.589|NL|North Brabant|79
+Heusden|51.028|3.804|BE|Flanders|79
+Oostduinkerke|51.116|2.682|BE|Flanders|79
+Billy-Montigny|50.417|2.903|FR|Hauts-de-France|79
+Sint-Job-in-'t-Goor|51.299|4.573|BE|Flanders|79
+Lodelinsart|50.431|4.449|BE|Wallonia|79
+Ghlin|50.473|3.903|BE|Wallonia|79
+Hoevenen|51.306|4.402|BE|Flanders|79
+Auvelais|50.450|4.632|BE|Wallonia|79
+Ledeberg|51.039|3.745|BE|Flanders|79
+Libercourt|50.483|3.016|FR|Hauts-de-France|79
+Lauwe|50.795|3.187|BE|Flanders|78
+Harmelen|52.090|4.961|NL|Utrecht|78
+Sterrebeek|50.862|4.494|BE|Flanders|78
+Koekelare|51.090|2.978|BE|Flanders|78
+Sint-Martens-Latem|51.015|3.638|BE|Flanders|78
+Dottignies|50.733|3.300|BE|Wallonia|78
+Genval|50.722|4.494|BE|Wallonia|78
+Beauraing|50.110|4.956|BE|Wallonia|78
+La Bruyère|50.395|4.614|BE|Wallonia|78
+Kruishoutem|50.902|3.526|BE|Flanders|78
+Westmalle|51.298|4.690|BE|Flanders|78
+Aulnoy-lez-Valenciennes|50.333|3.533|FR|Hauts-de-France|78
+Lichtervelde|51.033|3.150|BE|Flanders|78
+Yvoir|50.328|4.881|BE|Wallonia|78
+Zomergem|51.120|3.565|BE|Flanders|78
+Axel|51.267|3.908|NL|Zeeland|78
+Groot-Bijgaarden|50.872|4.250|BE|Flanders|78
+Houplines|50.695|2.915|FR|Hauts-de-France|78
+Pâturages|50.407|3.855|BE|Wallonia|78
+Zwanenburg|52.380|4.746|NL|North Holland|78
+Carnières|50.444|4.255|BE|Wallonia|78
+Philippeville|50.196|4.544|BE|Wallonia|78
+Linselles|50.737|3.079|FR|Hauts-de-France|78
+Wolvertem|50.952|4.310|BE|Flanders|78
+Rijnsburg|52.190|4.442|NL|South Holland|78
+Hove|51.154|4.471|BE|Flanders|78
+Le Roeulx|50.504|4.112|BE|Wallonia|78
+Merksplas|51.359|4.865|BE|Flanders|78
+Galmaarden|50.754|3.971|BE|Flanders|78
+Comines|50.775|3.001|BE|Wallonia|78
+Knesselare|51.139|3.413|BE|Flanders|78
+Silly|50.649|3.924|BE|Wallonia|78
+Oostakker|51.101|3.769|BE|Flanders|78
+Uitkerke|51.307|3.137|BE|Flanders|78
+Auby|50.415|3.054|FR|Hauts-de-France|78
+Beuvrages|50.384|3.494|FR|Hauts-de-France|78
+Wavrin|50.574|2.936|FR|Hauts-de-France|78
+Waarschoot|51.153|3.605|BE|Flanders|78
+Pérenchies|50.670|2.970|FR|Hauts-de-France|78
+Barlin|50.452|2.620|FR|Hauts-de-France|78
+Boutersem|50.841|4.834|BE|Flanders|78
+Lissewege|51.294|3.193|BE|Flanders|78
+Orchies|50.467|3.233|FR|Hauts-de-France|78
+Lembeek|50.716|4.218|BE|Flanders|78
+Quévy-le-Petit|50.369|3.936|BE|Wallonia|78
+Achicourt|50.274|2.758|FR|Hauts-de-France|78
+Schelle|51.126|4.341|BE|Flanders|78
+Haine-Saint-Pierre|50.457|4.207|BE|Wallonia|78
+Sint-Amands|51.056|4.210|BE|Flanders|78
+Bolnes|51.895|4.579|NL|South Holland|78
+Sleidinge|51.134|3.674|BE|Flanders|78
+Nieppe|50.704|2.835|FR|Hauts-de-France|78
+Houdain|50.450|2.538|FR|Hauts-de-France|78
+Brunehault|50.505|4.432|BE|Wallonia|78
+Kessel|51.139|4.630|BE|Flanders|78
+Mazingarbe|50.471|2.715|FR|Hauts-de-France|78
+Marke|50.807|3.233|BE|Flanders|78
+Estinnes-au-Val|50.410|4.105|BE|Wallonia|78
+Fresnes-sur-Escaut|50.434|3.578|FR|Hauts-de-France|78
+Houdeng-Aimeries|50.481|4.145|BE|Wallonia|78
+Tamines|50.434|4.607|BE|Wallonia|78
+Antoing|50.568|3.449|BE|Wallonia|78
+Waziers|50.387|3.115|FR|Hauts-de-France|77
+Burcht|51.204|4.343|BE|Flanders|77
+Langdorp|50.996|4.872|BE|Flanders|77
+Oostrozebeke|50.921|3.338|BE|Flanders|77
+Floreffe|50.435|4.760|BE|Wallonia|77
+Tholen|51.532|4.221|NL|Zeeland|77
+Noyelles-sous-Lens|50.431|2.872|FR|Hauts-de-France|77
+Sombreffe|50.529|4.601|BE|Wallonia|77
+Givet|50.138|4.825|FR|Grand Est|77
+Louvroil|50.264|3.963|FR|Hauts-de-France|77
+La Hulpe|50.731|4.486|BE|Wallonia|77
+Kain|50.639|3.397|BE|Wallonia|77
+Tongerlo|51.106|4.916|BE|Flanders|77
+Zwijnaarde|51.001|3.707|BE|Flanders|77
+Feignies|50.298|3.915|FR|Hauts-de-France|77
+Honselersdijk|52.007|4.224|NL|South Holland|77
+Vedrin|50.503|4.876|BE|Wallonia|77
+Divion|50.472|2.505|FR|Hauts-de-France|77
+Haine-Saint-Paul|50.455|4.189|BE|Wallonia|77
+Santpoort-Noord|52.434|4.642|NL|North Holland|77
+Wanfercée-Baulet|50.473|4.587|BE|Wallonia|77
+Teteringen|51.609|4.821|NL|North Brabant|77
+Halle|51.241|4.643|BE|Flanders|77
+La Bouverie|50.405|3.874|BE|Wallonia|77
+Scherpenheuvel|50.981|4.976|BE|Flanders|77
+Loos-en-Gohelle|50.458|2.792|FR|Hauts-de-France|77
+Anhée|50.310|4.878|BE|Wallonia|77
+Leuze|50.600|3.600|BE|Wallonia|77
+Grembergen|51.054|4.105|BE|Flanders|77
+Cuincy|50.379|3.053|FR|Hauts-de-France|77
+Ruisbroek|50.790|4.298|BE|Flanders|77
+Eernegem|51.133|3.026|BE|Flanders|77
+Oostmalle|51.300|4.733|BE|Flanders|77
+Fouquières-lès-Lens|50.428|2.913|FR|Hauts-de-France|77
+Booischot|51.052|4.775|BE|Flanders|77
+Abcoude|52.273|4.969|NL|Utrecht|77
+Negenmanneke|50.805|4.285|BE|Flanders|77
+Wachtebeke|51.169|3.872|BE|Flanders|77
+Reet|51.102|4.413|BE|Flanders|77
+Baarle-Nassau|51.447|4.929|NL|North Brabant|77
+Leforest|50.439|3.065|FR|Hauts-de-France|77
+Zundert|51.472|4.656|NL|North Brabant|77
+Trazegnies|50.464|4.333|BE|Wallonia|77
+Geluwe|50.810|3.077|BE|Flanders|77
+Lemberge|50.976|3.771|BE|Flanders|77
+Dampremy|50.417|4.431|BE|Wallonia|77
+Vendin-le-Vieil|50.474|2.867|FR|Hauts-de-France|77
+Bloemendaal|52.403|4.622|NL|North Holland|77
+Pecquencourt|50.379|3.213|FR|Hauts-de-France|77
+Sint-Lenaarts|51.349|4.680|BE|Flanders|77
+Sint-Laureins|51.242|3.524|BE|Flanders|76
+Beaumont|50.237|4.239|BE|Wallonia|76
+Lettelingen|50.683|4.083|BE|Wallonia|76
+Hersin-Coupigny|50.448|2.649|FR|Hauts-de-France|76
+Sint-Katherina-Lombeek|50.873|4.154|BE|Flanders|76
+Raamsdonksveer|51.697|4.874|NL|North Brabant|76
+Pittem|50.993|3.263|BE|Flanders|76
+Zingem|50.904|3.653|BE|Flanders|76
+Wépion|50.422|4.864|BE|Wallonia|76
+Lallaing|50.390|3.169|FR|Hauts-de-France|76
+Quiévrain|50.407|3.684|BE|Wallonia|76
+Mont-Saint-Guibert|50.634|4.611|BE|Wallonia|76
+Yerseke|51.492|4.050|NL|Zeeland|76
+Brakel|50.801|3.763|BE|Flanders|76
+Zichem|51.002|4.983|BE|Flanders|76
+Quesnoy-sur-Deûle|50.714|3.000|FR|Hauts-de-France|76
+Grenay|50.450|2.752|FR|Hauts-de-France|76
+Adegem|51.205|3.495|BE|Flanders|76
+Leval-Trahegnies|50.421|4.226|BE|Wallonia|76
+Herne|50.724|4.035|BE|Flanders|76
+Sint-Maria-Lierde|50.819|3.844|BE|Flanders|76
+Klemskerke|51.242|3.024|BE|Flanders|76
+Hever|50.995|4.551|BE|Flanders|76
+Lesquin|50.582|3.119|FR|Hauts-de-France|76
+Sint-Denijs-Westrem|51.021|3.672|BE|Flanders|76
+Hensies|50.433|3.684|BE|Wallonia|76
+'s-Gravenwezel|51.263|4.561|BE|Flanders|76
+Buizingen|50.742|4.253|BE|Flanders|76
+Oedelem|51.170|3.338|BE|Flanders|76
+Trith-Saint-Léger|50.317|3.483|FR|Hauts-de-France|76
+Baasrode|51.038|4.155|BE|Flanders|76
+Saint-Vaast|50.454|4.160|BE|Wallonia|76
+Beauvechain|50.782|4.772|BE|Wallonia|76
+Sinaai|51.158|4.041|BE|Flanders|76
+Stene|51.204|2.913|BE|Flanders|76
+Gilze|51.544|4.940|NL|North Brabant|76
+Chastre-Villeroux-Blanmont|50.609|4.642|BE|Wallonia|76
+Havré|50.464|4.047|BE|Wallonia|76
+Erps-Kwerps|50.901|4.560|BE|Flanders|76
+Lichtaart|51.225|4.917|BE|Flanders|76
+Courcelles-lès-Lens|50.417|3.017|FR|Hauts-de-France|76
+Quiévrechain|50.392|3.668|FR|Hauts-de-France|76
+Marles-les-Mines|50.505|2.509|FR|Hauts-de-France|76
+Sains-en-Gohelle|50.445|2.683|FR|Hauts-de-France|76
+Nieuwerkerken|50.924|4.004|BE|Flanders|76
+Baudour|50.483|3.833|BE|Wallonia|76
+Jemeppe-sur-Sambre|50.465|4.665|BE|Wallonia|76
+Kaprijke|51.217|3.615|BE|Flanders|76
+Moorsele|50.841|3.160|BE|Flanders|76
+Nieuwkerken-Waas|51.194|4.178|BE|Flanders|76
+Beerzel|51.058|4.671|BE|Flanders|76
+Chièvres|50.588|3.807|BE|Wallonia|76
+Fayt-lez-Manage|50.487|4.230|BE|Wallonia|76
+La Bassée|50.534|2.806|FR|Hauts-de-France|76
+Ittre|50.644|4.265|BE|Wallonia|76
+Eksaarde|51.149|3.968|BE|Flanders|76
+Schepdaal|50.838|4.196|BE|Flanders|76
+Denderhoutem|50.872|4.018|BE|Flanders|76
+Walhain-Saint-Paul|50.626|4.698|BE|Wallonia|76
+Estaires|50.646|2.728|FR|Hauts-de-France|76
+Ohain|50.699|4.470|BE|Wallonia|76
+Alsemberg|50.741|4.338|BE|Flanders|75
+Katwijk aan den Rijn|52.194|4.422|NL|South Holland|75
+Baal|50.995|4.753|BE|Flanders|75
+Ouddorp|51.812|3.935|NL|South Holland|75
+Hofstade|50.961|4.027|BE|Flanders|75
+Itegem|51.103|4.729|BE|Flanders|75
+Terheijden|51.643|4.754|NL|North Brabant|75
+Templeuve-en-Pévèle|50.523|3.178|FR|Hauts-de-France|75
+Roost-Warendin|50.419|3.104|FR|Hauts-de-France|75
+Zwevezele|51.037|3.212|BE|Flanders|75
+Meerbeke|50.824|4.037|BE|Flanders|75
+Sleeuwijk|51.816|4.953|NL|North Brabant|75
+Sint-Kwintens-Lennik|50.804|4.155|BE|Flanders|75
+Moerbeke|51.174|3.930|BE|Flanders|75
+Ferrière-la-Grande|50.255|3.993|FR|Hauts-de-France|75
+Ruddervoorde|51.096|3.207|BE|Flanders|75
+Hoogerheide|51.424|4.325|NL|North Brabant|75
+Poeldijk|52.024|4.219|NL|South Holland|75
+Saint-Nicolas|50.304|2.779|FR|Hauts-de-France|75
+Nalinnes|50.324|4.446|BE|Wallonia|75
+Kalken|51.038|3.919|BE|Flanders|75
+Dourges|50.436|2.986|FR|Hauts-de-France|75
+Rijmenam|51.002|4.584|BE|Flanders|75
+Ramillies|50.634|4.901|BE|Wallonia|75
+Veerle|51.070|4.988|BE|Flanders|75
+Wilnis|52.197|4.897|NL|Utrecht|75
+Bekkevoort|50.941|4.969|BE|Flanders|75
+Saint-Laurent-Blangy|50.294|2.807|FR|Hauts-de-France|75
+Flénu|50.437|3.886|BE|Wallonia|75
+Bazel|51.147|4.301|BE|Flanders|75
+Loison-sous-Lens|50.438|2.853|FR|Hauts-de-France|75
+Annezin|50.532|2.618|FR|Hauts-de-France|75
+Flers-en-Escrebieux|50.398|3.060|FR|Hauts-de-France|75
+Duivendrecht|52.329|4.940|NL|North Holland|75
+Forchies-la-Marche|50.437|4.321|BE|Wallonia|75
+Noyelles-Godault|50.418|2.993|FR|Hauts-de-France|75
+Onze-Lieve-Vrouw-Waver|51.063|4.579|BE|Flanders|75
+Sainghin-en-Weppes|50.564|2.898|FR|Hauts-de-France|75
+Dainville|50.281|2.726|FR|Hauts-de-France|75
+Flines-lez-Raches|50.417|3.183|FR|Hauts-de-France|75
+Ellezelles|50.735|3.680|BE|Wallonia|75
+Wallers|50.374|3.392|FR|Hauts-de-France|75
+Ostricourt|50.451|3.034|FR|Hauts-de-France|75
+Westende|51.160|2.769|BE|Flanders|75
+Rillaar|50.974|4.892|BE|Flanders|75
+Montfoort|52.046|4.953|NL|Utrecht|75
+Dworp|50.730|4.301|BE|Flanders|75
+Lobbes|50.353|4.267|BE|Wallonia|75
+Malonne|50.440|4.796|BE|Wallonia|75
+Dechy|50.350|3.117|FR|Hauts-de-France|75
+Bauvin|50.517|2.894|FR|Hauts-de-France|75
+Limelette|50.684|4.572|BE|Wallonia|75
+Bennebroek|52.321|4.599|NL|North Holland|75
+Klundert|51.665|4.535|NL|North Brabant|75
+Céroux-Mousty|50.661|4.521|BE|Wallonia|75
+Lendelede|50.886|3.237|BE|Flanders|75
+Muizen|51.011|4.514|BE|Flanders|75
+Sijsele|51.208|3.317|BE|Flanders|75
+Fenain|50.367|3.300|FR|Hauts-de-France|75
+Mere|50.923|3.971|BE|Flanders|75
+Beveren-Leie|50.875|3.340|BE|Flanders|75
+La Gorgue|50.638|2.715|FR|Hauts-de-France|75
+Bissegem|50.824|3.228|BE|Flanders|75
+Oud Gastel|51.587|4.460|NL|North Brabant|74
+Hekelgem|50.906|4.108|BE|Flanders|74
+Giessendam|51.833|4.836|NL|South Holland|74
+Desselgem|50.886|3.360|BE|Flanders|74
+Douvrin|50.509|2.831|FR|Hauts-de-France|74
+Veldegem|51.105|3.159|BE|Flanders|74
+Momignies|50.027|4.165|BE|Wallonia|74
+Elewijt|50.960|4.497|BE|Flanders|74
+Eke|50.959|3.640|BE|Flanders|74
+Noorderwijk|51.141|4.841|BE|Flanders|74
+Hastière-Lavaux|50.218|4.824|BE|Wallonia|74
+Westzaan|52.464|4.772|NL|North Holland|74
+Ruiselede|51.040|3.394|BE|Flanders|74
+Haillicourt|50.475|2.575|FR|Hauts-de-France|74
+Waspik|51.687|4.944|NL|North Brabant|74
+Dinteloord|51.635|4.369|NL|North Brabant|74
+Moorsel|50.947|4.098|BE|Flanders|74
+Maurage|50.457|4.097|BE|Wallonia|74
+Varsenare|51.190|3.139|BE|Flanders|74
+Langemark|50.913|2.920|BE|Flanders|74
+Arnemuiden|51.502|3.675|NL|Zeeland|74
+Glabbeek|50.873|4.956|BE|Flanders|74
+Santes|50.593|2.963|FR|Hauts-de-France|74
+Schriek|51.028|4.694|BE|Flanders|74
+Lambres-lez-Douai|50.360|3.065|FR|Hauts-de-France|74
+Erpe|50.936|3.972|BE|Flanders|74
+Tielt|50.942|4.905|BE|Flanders|74
+Hingene|51.103|4.269|BE|Flanders|74
+Linden|50.895|4.770|BE|Flanders|74
+Champion|50.495|4.904|BE|Wallonia|74
+Sauvenière|50.582|4.725|BE|Wallonia|74
+Petite-Forêt|50.367|3.483|FR|Hauts-de-France|74
+Diegem|50.897|4.434|BE|Flanders|74
+Maasdijk|51.959|4.214|NL|South Holland|74
+Sint-Antonius|51.267|4.639|BE|Flanders|74
+Guesnain|50.350|3.150|FR|Hauts-de-France|74
+Solesmes|50.185|3.498|FR|Hauts-de-France|74
+Bierges|50.711|4.587|BE|Wallonia|74
+Rekkem|50.784|3.163|BE|Flanders|74
+Astene|50.985|3.567|BE|Flanders|74
+Bouffioulx|50.391|4.516|BE|Wallonia|74
+Montigny-en-Ostrevent|50.367|3.183|FR|Hauts-de-France|74
+Rumes|50.554|3.305|BE|Wallonia|74
+Loppem|51.157|3.196|BE|Flanders|74
+Alveringem|51.012|2.711|BE|Flanders|74
+Oelegem|51.213|4.598|BE|Flanders|74
+Le Quesnoy|50.248|3.637|FR|Hauts-de-France|74
+Hoeven|51.579|4.583|NL|North Brabant|74
+La Hestre|50.476|4.247|BE|Wallonia|74
+Westkapelle|51.315|3.302|BE|Flanders|74
+Betekom|50.987|4.782|BE|Flanders|74
+Hofstade|50.991|4.492|BE|Flanders|74
+Gageldonk|51.602|4.739|NL|North Brabant|74
+Ruisbroek|51.088|4.331|BE|Flanders|74
+Fijnaart|51.638|4.469|NL|North Brabant|74
+Péronnes|50.438|4.149|BE|Wallonia|74
+Weelde|51.408|4.993|BE|Flanders|74
+Drogenbos|50.787|4.315|BE|Flanders|74
+Ham-sur-Heure|50.323|4.388|BE|Wallonia|74
+Aartrijke|51.119|3.091|BE|Flanders|74
+Linkebeek|50.768|4.337|BE|Flanders|74
+Aerdenhout|52.362|4.597|NL|North Holland|74
+Itterbeek|50.838|4.249|BE|Flanders|74
+Évin-Malmaison|50.439|3.031|FR|Hauts-de-France|74
+Beaurains|50.266|2.795|FR|Hauts-de-France|74
+Giessenburg|51.851|4.890|NL|South Holland|74
+Annay|50.463|2.881|FR|Hauts-de-France|74
+Vimy|50.372|2.810|FR|Hauts-de-France|74
+Tertre|50.469|3.812|BE|Wallonia|74
+Pernis|51.888|4.389|NL|South Holland|74
+Clabecq|50.692|4.221|BE|Wallonia|74
+Luingne|50.740|3.236|BE|Wallonia|74
+Belgrade|50.471|4.829|BE|Wallonia|74
+Nimy|50.477|3.955|BE|Wallonia|73
+Welle|50.899|4.056|BE|Flanders|73
+Vichte|50.839|3.401|BE|Flanders|73
+Phalempin|50.517|3.016|FR|Hauts-de-France|73
+Winksele|50.899|4.646|BE|Flanders|73
+Zuun|50.790|4.277|BE|Flanders|73
+Lot|50.768|4.277|BE|Flanders|73
+Veltem-Beisem|50.908|4.619|BE|Flanders|73
+Vitry-en-Artois|50.327|2.980|FR|Hauts-de-France|73
+Bray-Dunes|51.078|2.517|FR|Hauts-de-France|73
+Marchiennes|50.400|3.283|FR|Hauts-de-France|73
+Voorhout|52.222|4.485|NL|South Holland|73
+Masny|50.348|3.202|FR|Hauts-de-France|73
+Auberchicourt|50.333|3.233|FR|Hauts-de-France|73
+Moerzeke|51.069|4.161|BE|Flanders|73
+Oostvoorne|51.913|4.099|NL|South Holland|73
+Overmere|51.047|3.947|BE|Flanders|73
+Sint-Pauwels|51.194|4.096|BE|Flanders|73
+Wouw|51.522|4.390|NL|North Brabant|73
+Eppegem|50.962|4.455|BE|Flanders|73
+Erquinghem-Lys|50.676|2.845|FR|Hauts-de-France|73
+Vermelles|50.489|2.747|FR|Hauts-de-France|73
+Angres|50.406|2.761|FR|Hauts-de-France|73
+Maasland|51.934|4.272|NL|South Holland|73
+Flawinne|50.458|4.810|BE|Wallonia|73
+Auchy-les-Mines|50.513|2.783|FR|Hauts-de-France|73
+Teralfene|50.892|4.099|BE|Flanders|73
+Asper|50.914|3.651|BE|Flanders|73
+Brebières|50.333|3.017|FR|Hauts-de-France|73
+Ulvenhout|51.549|4.799|NL|North Brabant|73
+Boven-Hardinxveld|51.823|4.882|NL|South Holland|73
+Cerfontaine|50.170|4.410|BE|Wallonia|73
+Dirksland|51.749|4.100|NL|South Holland|73
+Haastrecht|52.001|4.776|NL|South Holland|73
+Laventie|50.628|2.771|FR|Hauts-de-France|73
+Gierle|51.269|4.867|BE|Flanders|73
+Bouge|50.472|4.892|BE|Wallonia|73
+Bois-d'Haine|50.502|4.216|BE|Wallonia|73
+Overveen|52.392|4.614|NL|North Holland|73
+Humbeek|50.968|4.380|BE|Flanders|73
+Rousies|50.273|4.004|FR|Hauts-de-France|73
+Leefdaal|50.848|4.589|BE|Flanders|73
+Raimbeaucourt|50.435|3.093|FR|Hauts-de-France|73
+Haisnes|50.508|2.794|FR|Hauts-de-France|73
+Wezemaal|50.948|4.755|BE|Flanders|73
+Obourg|50.474|4.009|BE|Wallonia|73
+Ramsel|51.032|4.832|BE|Flanders|73
+Oostburg|51.326|3.487|NL|Zeeland|73
+Rijsenhout|52.258|4.714|NL|North Holland|73
+Incourt|50.692|4.798|BE|Wallonia|73
+Vijfhuizen|52.351|4.678|NL|North Holland|73
+Bouchain|50.285|3.315|FR|Hauts-de-France|73
+Blaasveld|51.056|4.377|BE|Flanders|73
+Crespin|50.421|3.661|FR|Hauts-de-France|73
+Wervicq-Sud|50.775|3.042|FR|Hauts-de-France|73
+Ploegsteert|50.727|2.880|BE|Wallonia|73
+Lillois-Witterzée|50.645|4.367|BE|Wallonia|73
+Strijpen|50.868|3.788|BE|Flanders|73
+Cysoing|50.569|3.216|FR|Hauts-de-France|73
+Billy-Berclau|50.518|2.866|FR|Hauts-de-France|73
+Breskens|51.396|3.556|NL|Zeeland|73
+Haasdonk|51.182|4.241|BE|Flanders|73
+Escautpont|50.419|3.553|FR|Hauts-de-France|73
+Hank|51.735|4.897|NL|North Brabant|73
+Loenhout|51.399|4.644|BE|Flanders|73
+Lasne-Chapelle-Saint-Lambert|50.693|4.501|BE|Wallonia|73
+Koningshooikt|51.096|4.610|BE|Flanders|73
+Numansdorp|51.732|4.438|NL|South Holland|73
+Warmond|52.197|4.503|NL|South Holland|73
+Minderhout|51.417|4.763|BE|Flanders|73
+Blaton|50.500|3.660|BE|Wallonia|73
+Ophain-Bois-Seigneur-Isaac|50.666|4.349|BE|Wallonia|73
+Bousbecque|50.771|3.085|FR|Hauts-de-France|73
+Spy|50.481|4.709|BE|Wallonia|73
+Zoeterwoude-Dorp|52.120|4.496|NL|South Holland|73
+Abscon|50.333|3.300|FR|Hauts-de-France|72
+Hombeek|51.018|4.439|BE|Flanders|72
+Steenvoorde|50.810|2.582|FR|Hauts-de-France|72
+Souvret|50.449|4.346|BE|Wallonia|72
+Bapaume|50.104|2.850|FR|Hauts-de-France|72
+Machelen-aan-de-Leie|50.960|3.490|BE|Flanders|72
+Overboelare|50.764|3.864|BE|Flanders|72
+Rijsbergen|51.517|4.697|NL|North Brabant|72
+Krooswijk|51.647|4.592|NL|North Brabant|72
+Gits|50.997|3.096|BE|Flanders|72
+Baisieux|50.608|3.253|FR|Hauts-de-France|72
+Gozée|50.335|4.353|BE|Wallonia|72
+Vrasene|51.221|4.191|BE|Flanders|72
+Broechem|51.181|4.602|BE|Flanders|72
+Ressaix|50.423|4.194|BE|Wallonia|72
+Hyon|50.438|3.960|BE|Wallonia|72
+Everberg|50.877|4.570|BE|Flanders|72
+Oudegem|51.010|4.062|BE|Flanders|72
+Sint-Eloois-Winkel|50.876|3.181|BE|Flanders|72
+Hérin|50.356|3.453|FR|Hauts-de-France|72
+Ouderkerk aan den IJssel|51.934|4.636|NL|South Holland|72
+Landrecies|50.125|3.692|FR|Hauts-de-France|72
+Biache-Saint-Vaast|50.309|2.948|FR|Hauts-de-France|72
+Sailly-sur-la-Lys|50.658|2.769|FR|Hauts-de-France|72
+Wenduine|51.298|3.082|BE|Flanders|72
+Merbes-le-Château|50.324|4.165|BE|Wallonia|72
+Gondecourt|50.545|2.984|FR|Hauts-de-France|72
+Maisières|50.488|3.966|BE|Wallonia|72
+Kieldrecht|51.289|4.176|BE|Flanders|72
+Tildonk|50.944|4.645|BE|Flanders|72
+Ossendrecht|51.394|4.326|NL|North Brabant|72
+Trivières|50.448|4.145|BE|Wallonia|72
+Strijp|52.031|4.301|NL|South Holland|72
+Sint-Eloois-Vijve|50.909|3.415|BE|Flanders|72
+Zaffelare|51.134|3.864|BE|Flanders|72
+Herenthout|51.140|4.756|BE|Flanders|72
+Maing|50.308|3.484|FR|Hauts-de-France|72
+Tielen|51.243|4.900|BE|Flanders|72
+Olsene|50.934|3.464|BE|Flanders|72
+Toufflers|50.660|3.234|FR|Hauts-de-France|72
+Hergnies|50.473|3.526|FR|Hauts-de-France|72
+Lestrem|50.620|2.686|FR|Hauts-de-France|72
+Valkenburg|52.180|4.432|NL|South Holland|72
+Lens|50.557|3.899|BE|Wallonia|72
+Wechelderzande|51.263|4.787|BE|Flanders|72
+Deux-Acren|50.730|3.853|BE|Wallonia|72
+Velsen-Zuid|52.460|4.650|NL|North Holland|72
+Malderen|51.021|4.246|BE|Flanders|72
+Hallennes-lez-Haubourdin|50.613|2.966|FR|Hauts-de-France|72
+Zeebrugge|51.329|3.182|BE|Flanders|72
+Denderwindeke|50.797|4.025|BE|Flanders|72
+Lourches|50.314|3.353|FR|Hauts-de-France|72
+Sas van Gent|51.227|3.799|NL|Zeeland|72
+Tielrode|51.113|4.177|BE|Flanders|72
+Bellegem|50.777|3.279|BE|Flanders|72
+De Klinge|51.256|4.090|BE|Flanders|72
+Emblem|51.162|4.605|BE|Flanders|72
+Dadizele|50.851|3.095|BE|Flanders|72
+Schellebelle|51.011|3.928|BE|Flanders|72
+Vossem|50.836|4.560|BE|Flanders|72
+De Kwakel|52.239|4.793|NL|North Holland|72
+Heerjansdam|51.836|4.564|NL|South Holland|72
+Sirault|50.505|3.789|BE|Wallonia|71
+Provin|50.514|2.908|FR|Hauts-de-France|71
+Bavikhove|50.875|3.311|BE|Flanders|71
+Hondschoote|50.978|2.584|FR|Hauts-de-France|71
+Stolwijk|51.972|4.774|NL|South Holland|71
+Aix-Noulette|50.426|2.706|FR|Hauts-de-France|71
+Violaines|50.542|2.789|FR|Hauts-de-France|71
+Élouges|50.402|3.752|BE|Wallonia|71
+Houplin-Ancoisne|50.563|3.003|FR|Hauts-de-France|71
+Sequedin|50.626|2.983|FR|Hauts-de-France|71
+Noordgeest|51.509|4.279|NL|North Brabant|71
+Scheldewindeke|50.934|3.787|BE|Flanders|71
+Lembeke|51.195|3.633|BE|Flanders|71
+Neuville-Saint-Rémy|50.186|3.224|FR|Hauts-de-France|71
+Avesnes-les-Aubert|50.200|3.383|FR|Hauts-de-France|71
+Bousval|50.617|4.508|BE|Wallonia|71
+Rucphen|51.532|4.558|NL|North Brabant|71
+Nieuwendijk|51.775|4.921|NL|North Brabant|71
+Wauthier-Braine|50.682|4.298|BE|Wallonia|71
+Falisolle|50.418|4.621|BE|Wallonia|71
+Meurchin|50.498|2.893|FR|Hauts-de-France|71
+Schipluiden|51.976|4.314|NL|South Holland|71
+Meerle|51.472|4.803|BE|Flanders|71
+Templeuve|50.644|3.280|BE|Wallonia|71
+Sprundel|51.538|4.597|NL|North Brabant|71
+Balegem|50.926|3.791|BE|Flanders|71
+Vorselaar|51.202|4.773|BE|Flanders|71
+Kemzeke|51.210|4.074|BE|Flanders|71
+Vlamertinge|50.855|2.820|BE|Flanders|71
+Wespelaar|50.961|4.640|BE|Flanders|71
+Proville|50.161|3.206|FR|Hauts-de-France|71
+Korbeek-Lo|50.860|4.763|BE|Flanders|71
+Gaurain-Ramecroix|50.589|3.488|BE|Wallonia|71
+Oevel|51.138|4.905|BE|Flanders|71
+Wiekevorst|51.108|4.792|BE|Flanders|71
+Froidchapelle|50.151|4.327|BE|Wallonia|71
+Moerkerke|51.245|3.343|BE|Flanders|71
+Oostnieuwkerke|50.940|3.057|BE|Flanders|71
+Werchter|50.973|4.701|BE|Flanders|71
+Kwintsheul|52.013|4.256|NL|South Holland|71
+Spaarndam|52.413|4.683|NL|North Holland|71
+Boussois|50.289|4.041|FR|Hauts-de-France|71
+Basècles|50.525|3.649|BE|Wallonia|71
+Serskamp|50.988|3.927|BE|Flanders|71
+Neufvilles|50.571|4.000|BE|Wallonia|71
+Templemars|50.574|3.054|FR|Hauts-de-France|71
+Meer|51.446|4.739|BE|Flanders|71
+Nieuw-Beijerland|51.813|4.343|NL|South Holland|71
+Velaine|50.478|4.610|BE|Wallonia|71
+Hallaar|51.084|4.729|BE|Flanders|71
+Rœulx|50.300|3.333|FR|Hauts-de-France|71
+Ameide|51.955|4.963|NL|Utrecht|71
+Steendorp|51.127|4.270|BE|Flanders|71
+Klaaswaal|51.770|4.446|NL|South Holland|71
+Luttre|50.510|4.397|BE|Wallonia|71
+Allennes-les-Marais|50.538|2.954|FR|Hauts-de-France|71
+Zandvoorde|51.199|2.972|BE|Flanders|71
+Duisburg|50.816|4.555|BE|Flanders|71
+Berg|50.931|4.543|BE|Flanders|71
+Opdorp|51.028|4.218|BE|Flanders|71
+Thumeries|50.477|3.055|FR|Hauts-de-France|71
+Hulshout|51.075|4.791|BE|Flanders|71
+Essene|50.902|4.137|BE|Flanders|71
+Ham-sur-Sambre|50.444|4.674|BE|Wallonia|71
+Putte|51.360|4.396|NL|North Brabant|71
+Linschoten|52.063|4.915|NL|Utrecht|71
+Ooigem|50.893|3.336|BE|Flanders|71
+Tisselt|51.034|4.359|BE|Flanders|71
+Landegem|51.055|3.577|BE|Flanders|71
+Bavay|50.298|3.794|FR|Hauts-de-France|71
+Leernes|50.398|4.332|BE|Wallonia|71
+Lezennes|50.616|3.114|FR|Hauts-de-France|71
+Saint-Symphorien|50.439|4.007|BE|Wallonia|71
+Averbode|51.029|4.981|BE|Flanders|71
+Santpoort-Zuid|52.421|4.631|NL|North Holland|71
+Wignehies|50.016|4.009|FR|Hauts-de-France|71
+Lapugnoy|50.516|2.535|FR|Hauts-de-France|71
+Gijzegem|50.986|4.049|BE|Flanders|71
+Hennuyères|50.639|4.169|BE|Wallonia|71
+Gouy-lez-Piéton|50.491|4.329|BE|Wallonia|71
+Vlezenbeek|50.808|4.232|BE|Flanders|71
+Escaudœuvres|50.200|3.267|FR|Hauts-de-France|71
+Quarouble|50.386|3.623|FR|Hauts-de-France|71
+Velzeke-Ruddershove|50.883|3.783|BE|Flanders|71
+Brugelette|50.596|3.854|BE|Wallonia|71
+Frasnes-lez-Gosselies|50.538|4.452|BE|Wallonia|71
+Saint-Venant|50.620|2.539|FR|Hauts-de-France|71
+Lisserbroek|52.257|4.572|NL|North Holland|71
+Hulste|50.882|3.295|BE|Flanders|70
+Steenwerck|50.702|2.778|FR|Hauts-de-France|70
+Quevaucamps|50.519|3.681|BE|Wallonia|70
+Mark|50.691|4.016|BE|Wallonia|70
+Bois-de-Villers|50.390|4.824|BE|Wallonia|70
+Berlaimont|50.202|3.813|FR|Hauts-de-France|70
+Eindhout|51.104|5.000|BE|Flanders|70
+Groot-Ammers|51.923|4.824|NL|South Holland|70
+Bassevelde|51.231|3.678|BE|Flanders|70
+Dion-le-Mont|50.697|4.667|BE|Wallonia|70
+Kachtem|50.933|3.194|BE|Flanders|70
+Wasmuel|50.445|3.848|BE|Wallonia|70
+Hillegem|50.896|3.853|BE|Flanders|70
+Hasnon|50.425|3.387|FR|Hauts-de-France|70
+La Sentinelle|50.351|3.484|FR|Hauts-de-France|70
+Koolkerke|51.239|3.247|BE|Flanders|70
+Hoegaarden|50.776|4.890|BE|Flanders|70
+Quenast|50.670|4.157|BE|Wallonia|70
+Outer|50.842|3.999|BE|Flanders|70
+Olen|51.144|4.860|BE|Flanders|70
+Baisy-Thy|50.597|4.476|BE|Wallonia|70
+Verquin|50.502|2.639|FR|Hauts-de-France|70
+Huizingen|50.746|4.274|BE|Flanders|70
+Nossegem|50.882|4.508|BE|Flanders|70
+Wakken|50.933|3.397|BE|Flanders|70
+Alphen|51.482|4.958|NL|North Brabant|70
+Eugies|50.389|3.885|BE|Wallonia|70
+Esen|51.029|2.902|BE|Flanders|70
+Tollembeek|50.741|4.007|BE|Flanders|70
+Rupelmonde|51.129|4.294|BE|Flanders|70
+Broek in Waterland|52.434|4.996|NL|North Holland|70
+Handzame|51.025|3.003|BE|Flanders|70
+Drocourt|50.390|2.924|FR|Hauts-de-France|70
+Adinkerke|51.074|2.599|BE|Flanders|70
+Flobecq|50.737|3.739|BE|Wallonia|70
+Iwuy|50.233|3.321|FR|Hauts-de-France|70
+Haveluy|50.353|3.404|FR|Hauts-de-France|70
+Allouagne|50.532|2.512|FR|Hauts-de-France|70
+Testelt|51.011|4.953|BE|Flanders|70
+Arquennes|50.568|4.273|BE|Wallonia|70
+Marbais|50.547|4.535|BE|Wallonia|70
+Ghyvelde|51.053|2.526|FR|Hauts-de-France|70
+Onkerzele|50.782|3.911|BE|Flanders|70
+Erwetegem|50.855|3.814|BE|Flanders|70
+Sainte-Catherine|50.308|2.764|FR|Hauts-de-France|70
+Bruinisse|51.662|4.094|NL|Zeeland|70
+Passendale|50.900|3.021|BE|Flanders|70
+Goeferdinge|50.766|3.840|BE|Flanders|70
+Emmerin|50.595|3.001|FR|Hauts-de-France|70
+Vlimmeren|51.295|4.781|BE|Flanders|70
+Lambusart|50.454|4.553|BE|Wallonia|70
+Oude Wetering|52.214|4.644|NL|South Holland|70
+Fretin|50.557|3.137|FR|Hauts-de-France|70
+Bouwel|51.173|4.742|BE|Flanders|70
+Rijsoord|51.851|4.596|NL|South Holland|70
+Sains-du-Nord|50.094|4.009|FR|Hauts-de-France|70
+Warneton|50.752|2.946|BE|Wallonia|70
+Hulluch|50.490|2.812|FR|Hauts-de-France|70
+Bray|50.432|4.106|BE|Wallonia|70
+Sart-Dames-Avelines|50.569|4.492|BE|Wallonia|70
+Onhaye|50.241|4.841|BE|Wallonia|70
+Perre|50.889|3.861|BE|Flanders|70
+Hornaing|50.368|3.337|FR|Hauts-de-France|70
+Oordegem|50.957|3.902|BE|Flanders|70
+Casteau|50.512|4.011|BE|Wallonia|70
+Chéreng|50.611|3.207|FR|Hauts-de-France|70
+Burst|50.915|3.916|BE|Flanders|70
+Salomé|50.534|2.847|FR|Hauts-de-France|69
+Appelterre-Eichem|50.816|3.978|BE|Flanders|69
+Chocques|50.541|2.572|FR|Hauts-de-France|69
+Arkel|51.864|4.994|NL|South Holland|69
+Zaamslag|51.313|3.913|NL|Zeeland|69
+Meldert|50.934|4.135|BE|Flanders|69
+Haasrode|50.832|4.730|BE|Flanders|69
+Éleu-dit-Leauwette|50.421|2.811|FR|Hauts-de-France|69
+Aarsele|50.997|3.420|BE|Flanders|69
+Hautrage|50.482|3.765|BE|Wallonia|69
+Le Nouvion-en-Thiérache|50.016|3.785|FR|Hauts-de-France|69
+Pont-à-Vendin|50.474|2.889|FR|Hauts-de-France|69
+Goutroux|50.413|4.362|BE|Wallonia|69
+Trélon|50.058|4.102|FR|Hauts-de-France|69
+Aalbeke|50.778|3.230|BE|Flanders|69
+Courchelettes|50.340|3.059|FR|Hauts-de-France|69
+Steenhuffel|50.995|4.268|BE|Flanders|69
+Breendonk|51.043|4.324|BE|Flanders|69
+Sint-Joris-Winge|50.904|4.875|BE|Flanders|69
+Pont-de-Loup|50.417|4.546|BE|Wallonia|69
+Wiers|50.509|3.535|BE|Wallonia|69
+Koudekerke|51.482|3.554|NL|Zeeland|69
+Râches|50.417|3.136|FR|Hauts-de-France|69
+Morbecque|50.694|2.518|FR|Hauts-de-France|69
+Heestert|50.782|3.412|BE|Flanders|69
+Appels|51.032|4.061|BE|Flanders|69
+Weerde|50.973|4.475|BE|Flanders|69
+Wemeldinge|51.518|3.997|NL|Zeeland|69
+Willems|50.632|3.238|FR|Hauts-de-France|69
+Beveren|50.973|3.144|BE|Flanders|69
+Poederlee|51.228|4.840|BE|Flanders|69
+Moerbeke|50.753|3.917|BE|Flanders|69
+Naast|50.554|4.101|BE|Wallonia|69
+Pulderbos|51.217|4.694|BE|Flanders|69
+Rumillies|50.621|3.443|BE|Wallonia|69
+Kumtich|50.821|4.887|BE|Flanders|69
+Haspres|50.258|3.417|FR|Hauts-de-France|69
+Pulle|51.203|4.714|BE|Flanders|69
+Saintes|50.705|4.160|BE|Wallonia|69
+Chaam|51.506|4.861|NL|North Brabant|69
+Lotenhulle|51.050|3.462|BE|Flanders|69
+Bleskensgraaf|51.873|4.783|NL|South Holland|69
+Perk|50.936|4.496|BE|Flanders|69
+Lewarde|50.342|3.168|FR|Hauts-de-France|69
+Nieuwrode|50.950|4.833|BE|Flanders|69
+Ruien|50.769|3.486|BE|Flanders|69
+Iddergem|50.876|4.044|BE|Flanders|69
+Ursel|51.129|3.487|BE|Flanders|69
+Lecelles|50.468|3.401|FR|Hauts-de-France|69
+Beervelde|51.083|3.886|BE|Flanders|69
+Rollegem|50.766|3.263|BE|Flanders|69
+Brielle|51.902|4.162|NL|South Holland|69
+Virginal-Samme|50.640|4.206|BE|Wallonia|69
+Genech|50.531|3.217|FR|Hauts-de-France|69
+Erpent|50.451|4.906|BE|Wallonia|69
+Leest|51.033|4.415|BE|Flanders|69
+Waudrez|50.413|4.151|BE|Wallonia|69
+Kerksken|50.891|3.995|BE|Flanders|69
+Zuid-Beijerland|51.751|4.368|NL|South Holland|69
+Doische|50.134|4.735|BE|Wallonia|69
+Monchecourt|50.304|3.210|FR|Hauts-de-France|69
+Terhagen|51.080|4.399|BE|Flanders|69
+Wahagnies|50.487|3.034|FR|Hauts-de-France|69
+Zuienkerke|51.265|3.155|BE|Flanders|69
+Neuville-sur-Escaut|50.300|3.350|FR|Hauts-de-France|69
+Moen|50.770|3.395|BE|Flanders|69
+Massemen|50.981|3.874|BE|Flanders|69
+Moustier-sur-Sambre|50.467|4.696|BE|Wallonia|69
+Oosteeklo|51.193|3.689|BE|Flanders|69
+Almkerk|51.771|4.960|NL|North Brabant|69
+Marpent|50.293|4.079|FR|Hauts-de-France|69
+Sint-Martens-Bodegem|50.862|4.213|BE|Flanders|69
+Roelofarendsveen|52.203|4.633|NL|South Holland|69
+Brussegem|50.926|4.267|BE|Flanders|69
+Peutie|50.930|4.452|BE|Flanders|69
+Wambeek|50.853|4.162|BE|Flanders|69
+Masnuy-Saint-Jean|50.532|3.940|BE|Wallonia|69
+Wieze|50.977|4.079|BE|Flanders|68
+Saint-Gérard|50.346|4.741|BE|Wallonia|68
+Koewacht|51.228|3.974|NL|Zeeland|68
+Hamme-Mille|50.780|4.717|BE|Wallonia|68
+Solre-sur-Sambre|50.308|4.154|BE|Wallonia|68
+Avesnelles|50.118|3.947|FR|Hauts-de-France|68
+Ligny|50.512|4.577|BE|Wallonia|68
+Arleux|50.280|3.104|FR|Hauts-de-France|68
+Melsbroek|50.916|4.480|BE|Flanders|68
+Gouderak|51.984|4.678|NL|South Holland|68
+Pont-sur-Sambre|50.222|3.847|FR|Hauts-de-France|68
+Taintignies|50.553|3.342|BE|Wallonia|68
+Perwez|50.624|4.814|BE|Wallonia|68
+Thiant|50.305|3.448|FR|Hauts-de-France|68
+Mellet|50.506|4.479|BE|Wallonia|68
+Marœuil|50.325|2.705|FR|Hauts-de-France|68
+Halfweg|52.383|4.754|NL|North Holland|68
+Bouvigny-Boyeffles|50.421|2.672|FR|Hauts-de-France|68
+Beselare|50.848|3.024|BE|Flanders|68
+Sainghin-en-Mélantois|50.588|3.166|FR|Hauts-de-France|68
+Dentergem|50.964|3.416|BE|Flanders|68
+Masnières|50.115|3.209|FR|Hauts-de-France|68
+Vremde|51.175|4.523|BE|Flanders|68
+Anzin-Saint-Aubin|50.313|2.747|FR|Hauts-de-France|68
+La Couture|50.582|2.707|FR|Hauts-de-France|68
+Thulin|50.430|3.740|BE|Wallonia|68
+Vendin-lès-Béthune|50.540|2.600|FR|Hauts-de-France|68
+Otegem|50.807|3.420|BE|Flanders|68
+Biesme|50.340|4.610|BE|Wallonia|68
+Recquignies|50.284|4.037|FR|Hauts-de-France|68
+Richebourg-l'Avoué|50.570|2.749|FR|Hauts-de-France|68
+Fleurbaix|50.651|2.833|FR|Hauts-de-France|68
+Hévillers|50.623|4.617|BE|Wallonia|68
+Herdersem|50.972|4.067|BE|Flanders|68
+Famars|50.317|3.519|FR|Hauts-de-France|68
+Feluy|50.563|4.251|BE|Wallonia|68
+Dussen|51.731|4.963|NL|North Brabant|68
+Pommeroeul|50.462|3.713|BE|Wallonia|68
+Sint-Maria-Oudenhove|50.834|3.796|BE|Flanders|68
+Westkapelle|51.529|3.440|NL|Zeeland|68
+Stambruges|50.509|3.716|BE|Wallonia|68
+Blanden|50.826|4.710|BE|Flanders|68
+Orp-le-Grand|50.703|4.989|BE|Wallonia|68
+Busigny|50.034|3.467|FR|Hauts-de-France|68
+Sint-Denijs|50.752|3.366|BE|Flanders|68
+Prouvy|50.318|3.451|FR|Hauts-de-France|68
+Herchies|50.528|3.857|BE|Wallonia|68
+Marche-lez-Écaussinnes|50.546|4.182|BE|Wallonia|68
+Leffinge|51.176|2.876|BE|Flanders|68
+Meerbeek|50.882|4.590|BE|Flanders|68
+Cruquius|52.336|4.635|NL|North Holland|68
+Deurle|51.004|3.615|BE|Flanders|68
+Leuze|50.546|4.906|BE|Wallonia|68
+Leval|50.181|3.831|FR|Hauts-de-France|68
+Nomain|50.499|3.250|FR|Hauts-de-France|68
+Keerbergen|51.003|4.634|BE|Flanders|68
+Cousolre|50.246|4.149|FR|Hauts-de-France|68
+Dudzele|51.274|3.225|BE|Flanders|68
+Verlinghem|50.683|2.999|FR|Hauts-de-France|68
+Roselies|50.430|4.572|BE|Wallonia|68
+Berchem|50.790|3.513|BE|Flanders|68
+Schoonaarde|51.004|4.015|BE|Flanders|68
+Westmeerbeek|51.061|4.838|BE|Flanders|68
+Raillencourt-Sainte-Olle|50.183|3.167|FR|Hauts-de-France|68
+Thy-le-Château|50.282|4.430|BE|Wallonia|68
+Horrues|50.608|4.043|BE|Wallonia|68
+Bachant|50.215|3.868|FR|Hauts-de-France|68
+Sluiskil|51.278|3.836|NL|Zeeland|68
+Bossut-Gottechain|50.758|4.695|BE|Wallonia|68
+Richebourg|50.583|2.733|FR|Hauts-de-France|68
+Lompret|50.669|2.990|FR|Hauts-de-France|68
+Piéton|50.440|4.298|BE|Wallonia|68
+Oud-Vossemeer|51.571|4.199|NL|Zeeland|68
+Lesve|50.377|4.778|BE|Wallonia|68
+Kallo|51.252|4.275|BE|Flanders|68
+Haulchin|50.317|3.436|FR|Hauts-de-France|68
+Godarville|50.495|4.287|BE|Wallonia|68
+Borchtlombeek|50.848|4.139|BE|Flanders|68
+Ingooigem|50.820|3.434|BE|Flanders|67
+Orcq|50.603|3.349|BE|Wallonia|67
+Borsbeke|50.906|3.890|BE|Flanders|67
+Frelinghien|50.717|2.933|FR|Hauts-de-France|67
+Elversele|51.118|4.149|BE|Flanders|67
+Sint-Baafs-Vijve|50.907|3.391|BE|Flanders|67
+Corbehem|50.331|3.050|FR|Hauts-de-France|67
+Godinne|50.348|4.874|BE|Wallonia|67
+Avelin|50.540|3.082|FR|Hauts-de-France|67
+Zegveld|52.115|4.836|NL|Utrecht|67
+Arsimont|50.429|4.639|BE|Wallonia|67
+Vinkeveen|52.215|4.934|NL|Utrecht|67
+Oplinter|50.830|4.990|BE|Flanders|67
+'s Gravenmoer|51.656|4.941|NL|North Brabant|67
+Ottenburg|50.752|4.616|BE|Flanders|67
+Bertry|50.087|3.443|FR|Hauts-de-France|67
+Grand-Leez|50.584|4.775|BE|Wallonia|67
+Landas|50.473|3.304|FR|Hauts-de-France|67
+Viesville|50.491|4.409|BE|Wallonia|67
+Baarle-Hertog|51.405|4.892|BE|Flanders|67
+Locon|50.570|2.666|FR|Hauts-de-France|67
+Dikkelvenne|50.919|3.695|BE|Flanders|67
+Nil-Saint-Vincent-Saint-Martin|50.643|4.682|BE|Wallonia|67
+Zwaanshoek|52.313|4.617|NL|North Holland|67
+Zoerle-Parwijs|51.090|4.871|BE|Flanders|67
+Coutiches|50.455|3.204|FR|Hauts-de-France|67
+Pellenberg|50.872|4.794|BE|Flanders|67
+Zeveneken|51.108|3.890|BE|Flanders|67
+Bellecourt|50.484|4.254|BE|Wallonia|67
+Nieuwerkerk|51.651|4.001|NL|Zeeland|67
+Bellem|51.094|3.493|BE|Flanders|67
+Mérignies|50.506|3.110|FR|Hauts-de-France|67
+Attiches|50.522|3.062|FR|Hauts-de-France|67
+Lint|51.127|4.497|BE|Flanders|67
+Bioul|50.331|4.796|BE|Wallonia|67
+Pont-à-Marcq|50.522|3.114|FR|Hauts-de-France|67
+Westrozebeke|50.932|3.010|BE|Flanders|67
+Villers-Outréaux|50.036|3.299|FR|Hauts-de-France|67
+Anseremme|50.240|4.899|BE|Wallonia|67
+Gonnehem|50.561|2.573|FR|Hauts-de-France|67
+La Longueville|50.289|3.857|FR|Hauts-de-France|67
+Vieux-Berquin|50.695|2.644|FR|Hauts-de-France|67
+Koolskamp|51.002|3.210|BE|Flanders|67
+Merkem|50.953|2.852|BE|Flanders|67
+Mollem|50.931|4.226|BE|Flanders|67
+Kop van Zuid|51.906|4.487|NL|South Holland|67
+Néchin|50.667|3.266|BE|Wallonia|67
+Tarcienne|50.312|4.497|BE|Wallonia|67
+Souchez|50.393|2.740|FR|Hauts-de-France|67
+Bevel|51.138|4.680|BE|Flanders|67
+Meux|50.552|4.801|BE|Wallonia|67
+Hinges|50.567|2.622|FR|Hauts-de-France|67
+Presles|50.384|4.578|BE|Wallonia|67
+Bassilly|50.676|3.934|BE|Wallonia|67
+Zevenhoven|52.182|4.779|NL|South Holland|67
+Mariekerke|51.065|4.192|BE|Flanders|67
+Annequin|50.505|2.720|FR|Hauts-de-France|67
+Poelkapelle|50.918|2.957|BE|Flanders|67
+Rosières|50.731|4.545|BE|Wallonia|67
+Bersée|50.480|3.148|FR|Hauts-de-France|67
+Mater|50.843|3.663|BE|Flanders|67
+Neerheylissem|50.758|4.988|BE|Wallonia|67
+Heffen|51.047|4.416|BE|Flanders|67
+Oetingen|50.773|4.064|BE|Flanders|67
+Selvigny|50.080|3.349|FR|Hauts-de-France|67
+Vogelenzang|52.319|4.578|NL|North Holland|67
+Bever|50.716|3.941|BE|Flanders|67
+Gottignies|50.495|4.060|BE|Wallonia|67
+Meerdonk|51.267|4.150|BE|Flanders|67
+Vlierzele|50.932|3.896|BE|Flanders|67
+Lovenjoel|50.859|4.781|BE|Flanders|67
+Wijk aan Zee|52.494|4.594|NL|North Holland|67
+Zarren|51.018|2.958|BE|Flanders|67
+Thiméon|50.490|4.429|BE|Wallonia|67
+Denderbelle|51.001|4.091|BE|Flanders|67
+Wihéries|50.385|3.754|BE|Wallonia|67
+Boekhoute|51.259|3.718|BE|Flanders|67
+Saultain|50.337|3.577|FR|Hauts-de-France|67
+Everbeek|50.763|3.809|BE|Flanders|67
+Okegem|50.856|4.055|BE|Flanders|67
+Tourinnes-Saint-Lambert|50.640|4.724|BE|Wallonia|67
+Méteren|50.733|2.700|FR|Hauts-de-France|67
+Givenchy-en-Gohelle|50.391|2.773|FR|Hauts-de-France|67
+Westdorpe|51.233|3.826|NL|Zeeland|66
+Hansbeke|51.074|3.536|BE|Flanders|66
+Vlissegem|51.255|3.056|BE|Flanders|66
+Waardamme|51.111|3.223|BE|Flanders|66
+Haybes|50.005|4.705|FR|Grand Est|66
+Houtvenne|51.042|4.809|BE|Flanders|66
+Mons-en-Pévèle|50.479|3.098|FR|Hauts-de-France|66
+Aaigem|50.889|3.937|BE|Flanders|66
+Sint Philipsland|51.617|4.165|NL|Zeeland|66
+Morkhoven|51.119|4.819|BE|Flanders|66
+Munkzwalm|50.877|3.735|BE|Flanders|66
+Lustin|50.379|4.899|BE|Wallonia|66
+Temploux|50.486|4.755|BE|Wallonia|66
+Froyennes|50.622|3.355|BE|Wallonia|66
+Wortegem|50.854|3.510|BE|Flanders|66
+Acoz|50.359|4.533|BE|Wallonia|66
+Walincourt-Selvigny|50.067|3.333|FR|Hauts-de-France|66
+Boeschepe|50.800|2.700|FR|Hauts-de-France|66
+Sailly-Labourse|50.501|2.697|FR|Hauts-de-France|66
+Gommegnies|50.272|3.706|FR|Hauts-de-France|66
+Labourse|50.499|2.681|FR|Hauts-de-France|66
+Boezinge|50.897|2.854|BE|Flanders|66
+Oosterland|51.650|4.036|NL|Zeeland|66
+Petegem|50.833|3.550|BE|Flanders|66
+Petegem-aan-de-Schelde|50.833|3.556|BE|Flanders|66
+Vertrijk|50.829|4.835|BE|Flanders|66
+Zillebeke|50.835|2.922|BE|Flanders|66
+Merendree|51.077|3.576|BE|Flanders|66
+Poix-du-Nord|50.189|3.610|FR|Hauts-de-France|66
+Herlies|50.578|2.853|FR|Hauts-de-France|66
+Oppuurs|51.066|4.242|BE|Flanders|66
+Vieux-Genappe|50.608|4.441|BE|Wallonia|66
+Beauvois-en-Cambrésis|50.137|3.379|FR|Hauts-de-France|66
+Écaillon|50.350|3.217|FR|Hauts-de-France|66
+Estinnes-au-Mont|50.397|4.097|BE|Wallonia|66
+Sint-Lievens-Esse|50.857|3.888|BE|Flanders|66
+Avesnes-le-Comte|50.278|2.530|FR|Hauts-de-France|66
+Vireux-Wallerand|50.082|4.730|FR|Grand Est|66
+Thieu|50.474|4.093|BE|Wallonia|66
+Beigem|50.949|4.369|BE|Flanders|66
+Agny|50.259|2.760|FR|Hauts-de-France|66
+Uitbergen|51.022|3.955|BE|Flanders|66
+Mariembourg|50.095|4.522|BE|Wallonia|66
+Ennevelin|50.541|3.130|FR|Hauts-de-France|66
+Verrebroek|51.255|4.189|BE|Flanders|66
+Bachte-Maria-Leerne|51.011|3.581|BE|Flanders|66
+Aardenburg|51.273|3.447|NL|Zeeland|66
+Erbisoeul|50.515|3.896|BE|Wallonia|66
+Maria Aalter|51.095|3.369|BE|Flanders|66
+Pironchamps|50.432|4.520|BE|Wallonia|66
+Laneffe|50.279|4.493|BE|Wallonia|66
+Cappelle-en-Pévèle|50.510|3.171|FR|Hauts-de-France|66
+Fournes-en-Weppes|50.585|2.888|FR|Hauts-de-France|66
+Thuillies|50.299|4.333|BE|Wallonia|66
+Marcoing|50.121|3.173|FR|Hauts-de-France|66
+Walem|51.067|4.458|BE|Flanders|66
+Nethen|50.783|4.675|BE|Wallonia|66
+Wijtschate|50.786|2.884|BE|Flanders|66
+Godewaersvelde|50.794|2.645|FR|Hauts-de-France|66
+Nieuw-Vossemeer|51.590|4.218|NL|North Brabant|66
+Westkerke|51.164|3.011|BE|Flanders|66
+Faumont|50.460|3.137|FR|Hauts-de-France|66
+Hertsberge|51.107|3.269|BE|Flanders|66
+Noyelles-lès-Vermelles|50.490|2.726|FR|Hauts-de-France|66
+Rhisnes|50.507|4.806|BE|Wallonia|66
+Dorst|51.590|4.857|NL|North Brabant|66
+Tilly|50.561|4.555|BE|Wallonia|66
+Klerken|50.996|2.908|BE|Flanders|66
+Vollezele|50.761|4.024|BE|Flanders|66
+Féchain|50.266|3.210|FR|Hauts-de-France|66
+Prémesques|50.656|2.952|FR|Hauts-de-France|66
+Buvrinnes|50.389|4.205|BE|Wallonia|66
+Gelrode|50.966|4.804|BE|Flanders|66
+Bierghes|50.696|4.119|BE|Wallonia|66
+Messelbroek|50.995|4.937|BE|Flanders|66
+Lauwin-Planque|50.390|3.045|FR|Hauts-de-France|66
+Evrehailles|50.320|4.913|BE|Wallonia|66
+Moignelée|50.446|4.584|BE|Wallonia|66
+Sluis|51.308|3.386|NL|Zeeland|66
+Bever|50.917|4.317|BE|Flanders|66
+Standdaarbuiten|51.613|4.514|NL|North Brabant|66
+Oeselgem|50.938|3.432|BE|Flanders|66
+Bosschenhoofd|51.561|4.540|NL|North Brabant|66
+Baardegem|50.955|4.142|BE|Flanders|66
+Raamsdonk|51.688|4.908|NL|North Brabant|66
+Harchies|50.480|3.693|BE|Wallonia|66
+Nukerke|50.796|3.595|BE|Flanders|66
+Corroy-le-Grand|50.663|4.674|BE|Wallonia|66
+Roosbeek|50.836|4.863|BE|Flanders|66
+Sint-Joris-Weert|50.802|4.653|BE|Flanders|66
+Nederokkerzeel|50.919|4.564|BE|Flanders|66
+Wagenberg|51.665|4.749|NL|North Brabant|66
+Franière|50.437|4.732|BE|Wallonia|66
+Sint-Joris|51.127|3.365|BE|Flanders|66
+Oisquercq|50.670|4.220|BE|Wallonia|66
+Cortil-Noirmont|50.581|4.643|BE|Wallonia|66
+Sint-Martens-Lierde|50.804|3.825|BE|Flanders|66
+Viane|50.742|3.925|BE|Flanders|66
+Ablain-Saint-Nazaire|50.393|2.709|FR|Hauts-de-France|66
+Ville-sur-Haine|50.477|4.064|BE|Wallonia|66
+Haamstede|51.697|3.743|NL|Zeeland|66
+Préseau|50.311|3.574|FR|Hauts-de-France|66
+Rosult|50.459|3.359|FR|Hauts-de-France|66
+Ophasselt|50.817|3.893|BE|Flanders|65
+Loverval|50.375|4.473|BE|Wallonia|65
+Heldergem|50.878|3.958|BE|Flanders|65
+Schendelbeke|50.799|3.899|BE|Flanders|65
+Sint-Ulriks-Kapelle|50.879|4.219|BE|Flanders|65
+Etikhove|50.812|3.625|BE|Flanders|65
+Bottelare|50.964|3.755|BE|Flanders|65
+Hélesmes|50.370|3.359|FR|Hauts-de-France|65
+Steenhuize-Wijnhuize|50.840|3.888|BE|Flanders|65
+Saint-Sauveur|50.706|3.598|BE|Wallonia|65
+Londerzeel|51.005|4.303|BE|Flanders|65
+Bonheiden|51.023|4.547|BE|Flanders|65
+Elene|50.890|3.810|BE|Flanders|65
+Ilpendam|52.463|4.950|NL|North Holland|65
+Vireux-Molhain|50.079|4.724|FR|Grand Est|65
+Wortel|51.398|4.795|BE|Flanders|65
+Hoeleden|50.867|4.985|BE|Flanders|65
+Jauche|50.681|4.956|BE|Wallonia|65
+Nieuwenrode|50.980|4.353|BE|Flanders|65
+Waarloos|51.106|4.455|BE|Flanders|65
+Nismes|50.075|4.548|BE|Wallonia|65
+Sailly-lez-Lannoy|50.650|3.217|FR|Hauts-de-France|65
+Sebourg|50.342|3.644|FR|Hauts-de-France|65
+Kester|50.764|4.121|BE|Flanders|65
+Liezele|51.060|4.280|BE|Flanders|65
+Bambrugge|50.921|3.930|BE|Flanders|65
+Tongrinne|50.516|4.624|BE|Wallonia|65
+Solre-le-Château|50.174|4.089|FR|Hauts-de-France|65
+Zerkegem|51.166|3.070|BE|Flanders|65
+Nieuwerbrug aan den Rijn|52.078|4.814|NL|South Holland|65
+West-Souburg|51.464|3.592|NL|Zeeland|65
+Wierde|50.426|4.951|BE|Wallonia|65
+Neerijse|50.817|4.624|BE|Flanders|65
+IJzendijke|51.322|3.617|NL|Zeeland|65
+Kruisland|51.569|4.410|NL|North Brabant|65
+Idegem|50.802|3.926|BE|Flanders|65
+Deftinge|50.787|3.840|BE|Flanders|65
+Mijnsheerenland|51.797|4.487|NL|South Holland|65
+Grotenberge|50.873|3.823|BE|Flanders|65
+Huise|50.901|3.591|BE|Flanders|65
+Leeuwergem|50.888|3.831|BE|Flanders|65
+Wavrechain-sous-Denain|50.332|3.413|FR|Hauts-de-France|65
+Zevergem|50.979|3.693|BE|Flanders|65
+Bunsbeek|50.842|4.945|BE|Flanders|65
+Haacht|50.977|4.638|BE|Flanders|65
+Écourt-Saint-Quentin|50.252|3.073|FR|Hauts-de-France|65
+Westmaas|51.787|4.475|NL|South Holland|65
+Hérinnes|50.701|3.363|BE|Wallonia|65
+Labeuvrière|50.519|2.563|FR|Hauts-de-France|65
+Quiévy|50.168|3.428|FR|Hauts-de-France|65
+Elverdinge|50.885|2.817|BE|Flanders|65
+Zandbergen|50.803|3.966|BE|Flanders|65
+Erondegem|50.941|3.956|BE|Flanders|65
+Caëstre|50.758|2.603|FR|Hauts-de-France|65
+Rèves|50.538|4.411|BE|Wallonia|65
+Maffle|50.618|3.803|BE|Wallonia|65
+Buzet|50.540|4.370|BE|Wallonia|65
+Michelbeke|50.836|3.762|BE|Flanders|65
+Thorembais-Saint-Trond|50.635|4.784|BE|Wallonia|65
+Bousies|50.151|3.618|FR|Hauts-de-France|65
+Kortrijk-Dutsel|50.927|4.808|BE|Flanders|65
+Saulzoir|50.241|3.444|FR|Hauts-de-France|65
+Estevelles|50.477|2.909|FR|Hauts-de-France|65
+Watou|50.859|2.621|BE|Flanders|65
+Watervliet|51.275|3.626|BE|Flanders|65
+Lannoy|50.667|3.210|FR|Hauts-de-France|65
+Rance|50.142|4.279|BE|Wallonia|65
+Épinois|50.406|4.207|BE|Wallonia|65
+Haussy|50.218|3.477|FR|Hauts-de-France|65
+Loupoigne|50.598|4.444|BE|Wallonia|65
+Cuinchy|50.517|2.749|FR|Hauts-de-France|65
+Fontaine-Notre-Dame|50.167|3.158|FR|Hauts-de-France|65
+Ligny-en-Cambrésis|50.101|3.378|FR|Hauts-de-France|65
+Oekene|50.918|3.157|BE|Flanders|65
+Colleret|50.257|4.081|FR|Hauts-de-France|65
+Yves-Gomezée|50.239|4.493|BE|Wallonia|65
+Bourghelles|50.565|3.244|FR|Hauts-de-France|64
+Essars|50.549|2.666|FR|Hauts-de-France|64
+Saint-Hilaire-lez-Cambrai|50.184|3.413|FR|Hauts-de-France|64
+Barry|50.588|3.543|BE|Wallonia|64
+Willemeau|50.574|3.350|BE|Wallonia|64
+Obaix|50.530|4.361|BE|Wallonia|64
+Snellegem|51.168|3.119|BE|Flanders|64
+Somzée|50.295|4.482|BE|Wallonia|64
+Huijbergen|51.432|4.376|NL|North Brabant|64
+Opbrakel|50.792|3.749|BE|Flanders|64
+Geluveld|50.835|2.993|BE|Flanders|64
+Marquette-en-Ostrevant|50.283|3.267|FR|Hauts-de-France|64
+Émines|50.513|4.844|BE|Wallonia|64
+Sint-Agatha-Rode|50.786|4.631|BE|Flanders|64
+Mortagne-du-Nord|50.504|3.454|FR|Hauts-de-France|64
+Bois-de-Lessines|50.697|3.896|BE|Wallonia|64
+Veere|51.548|3.667|NL|Zeeland|64
+Marquillies|50.556|2.871|FR|Hauts-de-France|64
+Aubers|50.595|2.827|FR|Hauts-de-France|64
+Impe|50.960|3.950|BE|Flanders|64
+Naninne|50.419|4.926|BE|Wallonia|64
+Vitrival|50.393|4.658|BE|Wallonia|64
+Aspelare|50.842|3.957|BE|Flanders|64
+Lécluse|50.277|3.040|FR|Hauts-de-France|64
+Ruitz|50.466|2.589|FR|Hauts-de-France|64
+Piétrain|50.725|4.920|BE|Wallonia|64
+Kamperland|51.572|3.704|NL|Zeeland|64
+Noordeinde|52.017|4.483|NL|South Holland|64
+Ouwegem|50.912|3.600|BE|Flanders|64
+Sivry|50.166|4.184|BE|Wallonia|64
+Camphin-en-Pévèle|50.596|3.261|FR|Hauts-de-France|64
+Rijpwetering|52.193|4.583|NL|South Holland|64
+Scherpenisse|51.547|4.106|NL|Zeeland|64
+Serooskerke|51.548|3.594|NL|Zeeland|64
+Plancenoit|50.662|4.428|BE|Wallonia|64
+Schorisse|50.803|3.676|BE|Flanders|64
+Saint-Denis|50.490|4.020|BE|Wallonia|64
+Bon-Secours|50.498|3.608|BE|Wallonia|64
+Houwaart|50.934|4.860|BE|Flanders|64
+Rexpoëde|50.939|2.539|FR|Hauts-de-France|64
+Opprebais|50.680|4.798|BE|Wallonia|64
+Kloetinge|51.498|3.915|NL|Zeeland|64
+Wolphaartsdijk|51.532|3.819|NL|Zeeland|64
+Forest-sur-Marque|50.633|3.189|FR|Hauts-de-France|64
+Morialmé|50.276|4.566|BE|Wallonia|64
+Roksem|51.169|3.033|BE|Flanders|64
+Meslin-l'Évêque|50.649|3.847|BE|Wallonia|64
+Ledegem|50.858|3.124|BE|Flanders|64
+Pipaix|50.583|3.580|BE|Wallonia|64
+Ammerstol|51.928|4.808|NL|South Holland|64
+Bost|50.789|4.941|BE|Flanders|64
+Egem|51.015|3.259|BE|Flanders|64
+Zegge|51.557|4.518|NL|North Brabant|64
+Camphin-en-Carembault|50.512|2.987|FR|Hauts-de-France|64
+Archennes|50.753|4.670|BE|Wallonia|64
+Relegem|50.899|4.277|BE|Flanders|64
+Semmerzake|50.944|3.663|BE|Flanders|64
+Bouvignies|50.436|3.244|FR|Hauts-de-France|64
+Noordeloos|51.903|4.942|NL|South Holland|64
+Flines-lès-Mortagne|50.503|3.465|FR|Hauts-de-France|64
+Capinghem|50.646|2.962|FR|Hauts-de-France|64
+Calonne-sur-la-Lys|50.623|2.617|FR|Hauts-de-France|64
+Tiegem|50.809|3.475|BE|Flanders|64
+Tilloy-lès-Mofflaines|50.275|2.815|FR|Hauts-de-France|64
+Rumilly-en-Cambrésis|50.127|3.219|FR|Hauts-de-France|64
+Strée|50.281|4.294|BE|Wallonia|64
+Binkom|50.872|4.884|BE|Flanders|64
+Geest-Gérompont-Petit-Rosière|50.640|4.859|BE|Wallonia|64
+Beez|50.469|4.912|BE|Wallonia|64
+Ollignies|50.688|3.862|BE|Wallonia|64
+Kampenhout|50.942|4.551|BE|Flanders|64
+Hoves|50.671|4.037|BE|Wallonia|64
+Goudswaard|51.794|4.276|NL|South Holland|64
+Schelderode|50.969|3.713|BE|Flanders|64
+Jamioulx|50.353|4.413|BE|Wallonia|64
+Saint-Jans-Cappel|50.764|2.722|FR|Hauts-de-France|64
+Le Roux|50.389|4.624|BE|Wallonia|64
+Estaimbourg|50.680|3.308|BE|Wallonia|64
+Mont-Sainte-Aldegonde|50.430|4.233|BE|Wallonia|64
+Oostkapelle|51.567|3.551|NL|Zeeland|64
+Stavenisse|51.587|4.013|NL|Zeeland|64
+Dave|50.415|4.888|BE|Wallonia|64
+Ledeberg|50.844|4.091|BE|Flanders|64
+Ramsdonk|51.015|4.335|BE|Flanders|64
+Bruille-Saint-Amand|50.466|3.500|FR|Hauts-de-France|64
+Pecq|50.686|3.338|BE|Wallonia|64
+Courrière|50.380|4.986|BE|Wallonia|63
+Givry|50.378|4.029|BE|Wallonia|63
+Deûlémont|50.733|2.950|FR|Hauts-de-France|63
+Sint-Maria-Horebeke|50.839|3.688|BE|Flanders|63
+Fraire|50.261|4.508|BE|Wallonia|63
+Bois-Grenier|50.650|2.874|FR|Hauts-de-France|63
+Dikkebus|50.821|2.829|BE|Flanders|63
+Colijnsplaat|51.599|3.849|NL|Zeeland|63
+Driebruggen|52.044|4.800|NL|South Holland|63
+Aubry-du-Hainaut|50.367|3.467|FR|Hauts-de-France|63
+Hoogmade|52.169|4.582|NL|South Holland|63
+Grand-Reng|50.331|4.075|BE|Wallonia|63
+Vred|50.395|3.230|FR|Hauts-de-France|63
+Beerst|51.060|2.885|BE|Flanders|63
+Haverskerque|50.641|2.542|FR|Hauts-de-France|63
+Nieuwkerke|50.747|2.829|BE|Flanders|63
+Gouwsluis|52.119|4.669|NL|South Holland|63
+Suarlée|50.481|4.779|BE|Wallonia|63
+Eine|50.867|3.618|BE|Flanders|63
+Vendeville|50.577|3.079|FR|Hauts-de-France|63
+Goetsenhoven|50.769|4.952|BE|Flanders|63
+Bas-Warneton|50.759|2.960|BE|Wallonia|63
+Rieulay|50.379|3.253|FR|Hauts-de-France|63
+Warchin|50.609|3.424|BE|Wallonia|63
+Cantin|50.309|3.128|FR|Hauts-de-France|63
+Felleries|50.147|4.033|FR|Hauts-de-France|63
+Sars-Poteries|50.169|4.027|FR|Hauts-de-France|63
+Reningelst|50.815|2.771|BE|Flanders|63
+Saint-Aubert|50.208|3.417|FR|Hauts-de-France|63
+Neuville-Saint-Vaast|50.358|2.763|FR|Hauts-de-France|63
+Mignault|50.530|4.158|BE|Wallonia|63
+Domburg|51.563|3.496|NL|Zeeland|63
+Rumegies|50.489|3.351|FR|Hauts-de-France|63
+Vinkt|51.009|3.479|BE|Flanders|63
+Noville-les-Bois|50.557|4.985|BE|Wallonia|63
+Vosselare|51.029|3.557|BE|Flanders|63
+Lepelstraat|51.548|4.276|NL|North Brabant|63
+Maroilles|50.135|3.761|FR|Hauts-de-France|63
+Saint-Marc|50.492|4.847|BE|Wallonia|63
+Sint-Pieters-Kapelle|50.708|3.990|BE|Flanders|63
+Melsen|50.956|3.696|BE|Flanders|63
+Sint-Martens|50.839|4.924|BE|Flanders|63
+Vissenaken|50.838|4.905|BE|Flanders|63
+Aubigny-en-Artois|50.350|2.583|FR|Hauts-de-France|63
+Nieuwkoop|52.151|4.776|NL|South Holland|63
+Piershil|51.793|4.314|NL|South Holland|63
+Welberg|51.577|4.331|NL|North Brabant|63
+Hulst|51.280|4.053|NL|Zeeland|63
+Rœux|50.295|2.901|FR|Hauts-de-France|63
+Saméon|50.471|3.335|FR|Hauts-de-France|63
+Blaugies|50.372|3.806|BE|Wallonia|63
+Maretz|50.045|3.418|FR|Hauts-de-France|63
+Tourinnes-la-Grosse|50.783|4.744|BE|Wallonia|63
+Mainvault|50.649|3.718|BE|Wallonia|63
+Rieux-en-Cambrésis|50.201|3.352|FR|Hauts-de-France|63
+Couture-Saint-Germain|50.675|4.473|BE|Wallonia|63
+Laplaigne|50.522|3.447|BE|Wallonia|63
+Berkenwoude|51.945|4.707|NL|South Holland|63
+Férin|50.327|3.074|FR|Hauts-de-France|63
+Nieuwpoort|51.936|4.868|NL|South Holland|63
+Mazenzele|50.942|4.172|BE|Flanders|63
+Dhuy|50.559|4.859|BE|Wallonia|63
+Hakendover|50.796|4.982|BE|Flanders|63
+Wodecq|50.718|3.746|BE|Wallonia|63
+Bavegem|50.944|3.865|BE|Flanders|63
+Duisans|50.306|2.687|FR|Hauts-de-France|63
+Forville|50.574|4.999|BE|Wallonia|63
+Corbais|50.646|4.656|BE|Wallonia|63
+Loyers|50.463|4.951|BE|Wallonia|63
+Mouchin|50.516|3.296|FR|Hauts-de-France|63
+Neuville|50.173|4.516|BE|Wallonia|63
+Weijpoort|52.082|4.803|NL|South Holland|63
+Ronquières|50.609|4.221|BE|Wallonia|63
+Heijplaat|51.893|4.421|NL|South Holland|63
+Bachy|50.551|3.260|FR|Hauts-de-France|63
+Pollare|50.817|4.006|BE|Flanders|63
+Mélin|50.740|4.829|BE|Wallonia|63
+Vezon|50.569|3.505|BE|Wallonia|63
+Erre|50.363|3.316|FR|Hauts-de-France|63
+Béclers|50.621|3.504|BE|Wallonia|63
+Englefontaine|50.191|3.644|FR|Hauts-de-France|63
+Viesly|50.153|3.462|FR|Hauts-de-France|63
+Saint-Denis|50.536|4.783|BE|Wallonia|63
+Saint-Souplet|50.056|3.532|FR|Hauts-de-France|63
+Lombardsijde|51.150|2.750|BE|Flanders|63
+Villers-Perwin|50.528|4.480|BE|Wallonia|63
+Mourcourt|50.653|3.445|BE|Wallonia|63
+Vaulx-lez-Tournai|50.594|3.430|BE|Wallonia|63
+Voorde|50.823|3.949|BE|Flanders|63
+Beuzet|50.534|4.745|BE|Wallonia|63
+Woensdrecht|51.429|4.304|NL|North Brabant|63
+Bellaing|50.368|3.425|FR|Hauts-de-France|63
+Busnes|50.588|2.518|FR|Hauts-de-France|63
+Waarder|52.061|4.821|NL|South Holland|62
+Herzeele|50.886|2.535|FR|Hauts-de-France|62
+Nieuwveen|52.197|4.757|NL|South Holland|62
+Heerle|51.519|4.360|NL|North Brabant|62
+Klein-Zundert|51.481|4.654|NL|North Brabant|62
+Keiem|51.081|2.882|BE|Flanders|62
+Péronnes|50.552|3.454|BE|Wallonia|62
+Corroy-le-Château|50.539|4.663|BE|Wallonia|62
+Zoutelande|51.502|3.485|NL|Zeeland|62
+Snaaskerke|51.177|2.939|BE|Flanders|62
+Nederhasselt|50.846|3.975|BE|Flanders|62
+Avesnes-le-Sec|50.251|3.378|FR|Hauts-de-France|62
+Gouy-sous-Bellonne|50.311|3.057|FR|Hauts-de-France|62
+Sart-Bernard|50.402|4.959|BE|Wallonia|62
+Woesten|50.900|2.790|BE|Flanders|62
+Boué|50.011|3.696|FR|Hauts-de-France|62
+De Kieviet|52.123|4.358|NL|South Holland|62
+Kersbeek-Miskom|50.885|4.996|BE|Flanders|62
+Bucquoy|50.140|2.710|FR|Hauts-de-France|62
+Papignies|50.686|3.818|BE|Wallonia|62
+Pottes|50.733|3.407|BE|Wallonia|62
+Oisy-le-Verger|50.250|3.123|FR|Hauts-de-France|62
+Huissignies|50.566|3.756|BE|Wallonia|62
+Viersel|51.188|4.649|BE|Flanders|62
+Gouzeaucourt|50.056|3.124|FR|Hauts-de-France|62
+Villers-Pol|50.285|3.614|FR|Hauts-de-France|62
+Woumen|51.001|2.870|BE|Flanders|62
+Villers-Poterie|50.354|4.549|BE|Wallonia|62
+Illies|50.561|2.830|FR|Hauts-de-France|62
+Ressegem|50.891|3.911|BE|Flanders|62
+Schoondijke|51.354|3.556|NL|Zeeland|62
+Bourlon|50.177|3.114|FR|Hauts-de-France|62
+Hollain|50.542|3.426|BE|Wallonia|62
+Brouwershaven|51.727|3.913|NL|Zeeland|62
+Rockanje|51.872|4.071|NL|South Holland|62
+Lieu-Saint-Amand|50.273|3.346|FR|Hauts-de-France|62
+Maubray|50.551|3.504|BE|Wallonia|62
+Le Doulieu|50.682|2.717|FR|Hauts-de-France|62
+Namêche|50.472|4.998|BE|Wallonia|62
+Westouter|50.797|2.746|BE|Flanders|62
+Hooge Zwaluwe|51.688|4.744|NL|North Brabant|62
+Haulchin|50.384|4.083|BE|Wallonia|62
+Welden|50.877|3.655|BE|Flanders|62
+Houthem|50.787|2.964|BE|Wallonia|62
+Schelluinen|51.843|4.926|NL|South Holland|62
+Roisin|50.332|3.696|BE|Wallonia|62
+Havinnes|50.617|3.463|BE|Wallonia|62
+Baileux|50.029|4.375|BE|Wallonia|62
+Aagtekerke|51.547|3.510|NL|Zeeland|62
+Nispen|51.483|4.461|NL|North Brabant|62
+Zevenbergschen Hoek|51.672|4.679|NL|North Brabant|62
+Frasnes|50.080|4.514|BE|Wallonia|62
+Winenne|50.098|4.895|BE|Wallonia|62
+Bléharies|50.513|3.413|BE|Wallonia|62
+Maisnil-lès-Ruitz|50.453|2.590|FR|Hauts-de-France|62
+Rongy|50.507|3.389|BE|Wallonia|62
+Neuf-Berquin|50.661|2.672|FR|Hauts-de-France|62
+Oostvleteren|50.933|2.741|BE|Flanders|62
+Floriffoux|50.452|4.770|BE|Wallonia|62
+Bruille-lez-Marchiennes|50.361|3.244|FR|Hauts-de-France|62
+Marquain|50.607|3.321|BE|Wallonia|62
+Smetlede|50.966|3.928|BE|Flanders|62
+Kerkom|50.856|4.874|BE|Flanders|62
+Gruson|50.596|3.208|FR|Hauts-de-France|62
+Meliskerke|51.514|3.510|NL|Zeeland|62
+Ellignies-Sainte-Anne|50.562|3.673|BE|Wallonia|62
+Moere|51.123|2.956|BE|Flanders|62
+Poortvliet|51.544|4.143|NL|Zeeland|62
+Gosnay|50.506|2.589|FR|Hauts-de-France|62
+Vierpolders|51.879|4.179|NL|South Holland|62
+Hordain|50.263|3.314|FR|Hauts-de-France|62
+Leerbeek|50.778|4.119|BE|Flanders|62
+Proven|50.890|2.657|BE|Flanders|62
+Driehuis|52.447|4.638|NL|North Holland|62
+Heppignies|50.485|4.495|BE|Wallonia|62
+Piétrebais|50.728|4.765|BE|Wallonia|62
+Villers-en-Cauchies|50.226|3.404|FR|Hauts-de-France|62
+Godveerdegem|50.859|3.821|BE|Flanders|62
+Vicq|50.407|3.603|FR|Hauts-de-France|62
+Letterhoutem|50.928|3.880|BE|Flanders|62
+Anstaing|50.605|3.191|FR|Hauts-de-France|62
+Bergstoep|51.922|4.785|NL|South Holland|62
+Isières|50.663|3.819|BE|Wallonia|62
+Vladslo|51.046|2.916|BE|Flanders|62
+Mont-Bernanchon|50.583|2.583|FR|Hauts-de-France|62
+Lammerenburg|51.467|3.558|NL|Zeeland|62
+Ways|50.611|4.464|BE|Wallonia|62
+Bailleul-Sir-Berthoult|50.338|2.851|FR|Hauts-de-France|62
+Lorgies|50.569|2.790|FR|Hauts-de-France|62
+Langeheit|52.492|4.758|NL|North Holland|62
+Waret-la-Chaussée|50.543|4.924|BE|Wallonia|62
+Aische-en-Refail|50.600|4.838|BE|Wallonia|62
+Ernage|50.595|4.676|BE|Wallonia|61
+Jandrain-Jandrenouille|50.672|4.978|BE|Wallonia|61
+Anvaing|50.683|3.561|BE|Wallonia|61
+Meensel-Kiezegem|50.896|4.925|BE|Flanders|61
+Curgies|50.330|3.603|FR|Hauts-de-France|61
+Feuchy|50.294|2.843|FR|Hauts-de-France|61
+Jenlain|50.312|3.629|FR|Hauts-de-France|61
+Fouquières-lès-Béthune|50.515|2.610|FR|Hauts-de-France|61
+Vinderhoute|51.088|3.642|BE|Flanders|61
+Ettelgem|51.180|3.029|BE|Flanders|61
+Kanegem|51.013|3.402|BE|Flanders|61
+Lo|50.980|2.750|BE|Flanders|61
+Croisilles|50.200|2.879|FR|Hauts-de-France|61
+Landelies|50.380|4.351|BE|Wallonia|61
+Leke|51.100|2.891|BE|Flanders|61
+Massenhoven|51.200|4.636|BE|Flanders|61
+Cartignies|50.093|3.845|FR|Hauts-de-France|61
+Wangenies|50.480|4.520|BE|Wallonia|61
+Orbais|50.638|4.764|BE|Wallonia|61
+Outrijve|50.758|3.430|BE|Flanders|61
+Autre-Église|50.669|4.904|BE|Wallonia|61
+Don|50.549|2.918|FR|Hauts-de-France|61
+Molenbeek-Wersbeek|50.919|4.948|BE|Flanders|61
+Moortsele|50.959|3.778|BE|Flanders|61
+Rivière|50.233|2.692|FR|Hauts-de-France|61
+Hermies|50.111|3.042|FR|Hauts-de-France|61
+Oorbeek|50.799|4.892|BE|Flanders|61
+Elst|50.830|3.739|BE|Flanders|61
+Kemmel|50.783|2.827|BE|Flanders|61
+Stampersgat|51.613|4.444|NL|North Brabant|61
+Wandignies-Hamage|50.396|3.314|FR|Hauts-de-France|61
+Ennetières-en-Weppes|50.635|2.940|FR|Hauts-de-France|61
+Biez|50.724|4.714|BE|Wallonia|61
+Soye|50.450|4.730|BE|Wallonia|61
+Westvleteren|50.927|2.717|BE|Flanders|61
+Elsegem|50.824|3.536|BE|Flanders|61
+Festubert|50.542|2.736|FR|Hauts-de-France|61
+Robecq|50.596|2.563|FR|Hauts-de-France|61
+Velaines|50.668|3.487|BE|Wallonia|61
+Mazy|50.511|4.674|BE|Wallonia|61
+Boussoit|50.459|4.082|BE|Wallonia|61
+Forges|50.026|4.328|BE|Wallonia|61
+Labuissière|50.319|4.181|BE|Wallonia|61
+Nieuw- en Sint Joosland|51.483|3.657|NL|Zeeland|61
+Escanaffles|50.757|3.453|BE|Wallonia|61
+Fromelennes|50.123|4.860|FR|Grand Est|61
+Irchonwelz|50.621|3.751|BE|Wallonia|61
+Lippelo|51.043|4.259|BE|Flanders|61
+Papenveer|52.185|4.725|NL|South Holland|61
+Sint-Pieters-Rode|50.932|4.822|BE|Flanders|61
+Winnezeele|50.841|2.551|FR|Hauts-de-France|61
+Vaulx-Vraucourt|50.149|2.908|FR|Hauts-de-France|61
+Amougies|50.744|3.507|BE|Wallonia|61
+Liberchies|50.514|4.421|BE|Wallonia|61
+Fontaine-au-Pire|50.133|3.377|FR|Hauts-de-France|61
+Mornimont|50.459|4.704|BE|Wallonia|61
+Nieuwenhoorn|51.854|4.143|NL|South Holland|61
+Rijnsaterwoude|52.196|4.671|NL|South Holland|61
+Schuiferskapelle|51.032|3.338|BE|Flanders|61
+Clary|50.078|3.399|FR|Hauts-de-France|61
+Warcoing|50.704|3.346|BE|Wallonia|61
+Evregnies|50.713|3.287|BE|Wallonia|61
+Biercée|50.324|4.259|BE|Wallonia|61
+Épehy|50.000|3.133|FR|Hauts-de-France|61
+Herfelingen|50.748|4.098|BE|Flanders|61
+Opvelp|50.810|4.793|BE|Flanders|61
+Wanzele|50.974|3.956|BE|Flanders|61
+Écaussinnes-Lalaing|50.569|4.184|BE|Wallonia|61
+Ormeignies|50.595|3.752|BE|Wallonia|61
+Zétrud-Lumay|50.757|4.887|BE|Wallonia|61
+Gœulzin|50.317|3.100|FR|Hauts-de-France|61
+Sint-Jan-in-Eremo|51.272|3.581|BE|Flanders|61
+Loonbeek|50.809|4.610|BE|Flanders|61
+Meldert|50.788|4.838|BE|Flanders|61
+Radinghem-en-Weppes|50.619|2.909|FR|Hauts-de-France|61
+Fampoux|50.302|2.873|FR|Hauts-de-France|61
+La Flamengrie|50.002|3.921|FR|Hauts-de-France|61
+Saint-Sylvestre-Cappel|50.776|2.556|FR|Hauts-de-France|61
+Spiere|50.719|3.356|BE|Flanders|61
+Scharendijke|51.736|3.843|NL|Zeeland|61
+Weerestein|52.304|4.589|NL|South Holland|61
+Bonlez|50.702|4.689|BE|Wallonia|61
+Durnal|50.337|4.986|BE|Wallonia|61
+Huppaye|50.694|4.894|BE|Wallonia|61
+Renesse|51.733|3.775|NL|Zeeland|61
+Stein|52.003|4.782|NL|South Holland|61
+Artres|50.295|3.540|FR|Hauts-de-France|61
+Ranchicourt|50.436|2.557|FR|Hauts-de-France|61
+Anseroeul|50.727|3.524|BE|Wallonia|61
+Hoogblokland|51.875|4.976|NL|South Holland|61
+Vellereille-les-Brayeux|50.380|4.151|BE|Wallonia|61
+Sint-Martens-Leerne|51.016|3.581|BE|Flanders|61
+Waarde|51.417|4.068|NL|Zeeland|61
+Attenrode|50.878|4.924|BE|Flanders|61
+Wargnies-le-Grand|50.308|3.660|FR|Hauts-de-France|61
+Maillen|50.378|4.971|BE|Wallonia|61
+Fontaine-Valmont|50.320|4.215|BE|Wallonia|61
+Seloignes|50.015|4.255|BE|Wallonia|61
+Reninge|50.948|2.789|BE|Flanders|61
+Vendegies-sur-Écaillon|50.262|3.513|FR|Hauts-de-France|61
+Bekegem|51.160|3.046|BE|Flanders|61
+Middelsluis|51.742|4.442|NL|South Holland|61
+Woubrugge|52.170|4.636|NL|South Holland|61
+Aulnois|50.340|3.904|BE|Wallonia|60
+Thun-Saint-Amand|50.473|3.451|FR|Hauts-de-France|60
+Ghoy|50.728|3.810|BE|Wallonia|60
+Nieuw-Namen|51.292|4.161|NL|Zeeland|60
+Saint-Amand|50.506|4.550|BE|Wallonia|60
+Hanret|50.582|4.948|BE|Wallonia|60
+Hellebecq|50.664|3.888|BE|Wallonia|60
+Kapellen|50.886|4.952|BE|Flanders|60
+Lozinghem|50.516|2.502|FR|Hauts-de-France|60
+Hanzinelle|50.296|4.556|BE|Wallonia|60
+Estrées|50.301|3.070|FR|Hauts-de-France|60
+Savy-Berlette|50.352|2.565|FR|Hauts-de-France|60
+Thélus|50.354|2.801|FR|Hauts-de-France|60
+Desteldonk|51.122|3.787|BE|Flanders|60
+Fouquereuil|50.519|2.600|FR|Hauts-de-France|60
+Kerkehout|52.110|4.380|NL|South Holland|60
+Sart-Saint-Laurent|50.402|4.742|BE|Wallonia|60
+Aubigny-au-Bac|50.264|3.164|FR|Hauts-de-France|60
+Genly|50.390|3.912|BE|Wallonia|60
+Grijpskerke|51.534|3.561|NL|Zeeland|60
+Wassigny|50.013|3.600|FR|Hauts-de-France|60
+Wissenkerke|51.585|3.747|NL|Zeeland|60
+Agimont|50.166|4.796|BE|Wallonia|60
+Saint-Python|50.190|3.480|FR|Hauts-de-France|60
+Leimuiden|52.224|4.669|NL|South Holland|60
+Marquion|50.211|3.087|FR|Hauts-de-France|60
+Mont-Saint-Éloi|50.351|2.692|FR|Hauts-de-France|60
+Petigny|50.057|4.533|BE|Wallonia|60
+Achiet-le-Grand|50.131|2.781|FR|Hauts-de-France|60
+Dergneau|50.714|3.580|BE|Wallonia|60
+Gelbressée|50.506|4.956|BE|Wallonia|60
+Killem|50.958|2.561|FR|Hauts-de-France|60
+Vurste|50.943|3.683|BE|Flanders|60
+Bossière|50.519|4.696|BE|Wallonia|60
+Moerdijk|51.702|4.626|NL|North Brabant|60
+Noduwez|50.729|4.968|BE|Wallonia|60
+Noordhoek|51.642|4.532|NL|North Brabant|60
+Wernhout|51.455|4.642|NL|North Brabant|60
+Gougnies|50.355|4.576|BE|Wallonia|60
+Thieusies|50.515|4.049|BE|Wallonia|60
+Bovekerke|51.054|2.963|BE|Flanders|60
+Nederboelare|50.776|3.871|BE|Flanders|60
+Sint-Jan|50.865|2.905|BE|Flanders|60
+Abbenes|52.235|4.592|NL|North Holland|60
+Émerchicourt|50.308|3.245|FR|Hauts-de-France|60
+Baambrugge|52.246|4.989|NL|Utrecht|60
+Beaumetz-lès-Loges|50.239|2.658|FR|Hauts-de-France|60
+Bentveld|52.365|4.572|NL|North Holland|60
+Cambron-Saint-Vincent|50.585|3.922|BE|Wallonia|60
+Tressin|50.617|3.194|FR|Hauts-de-France|60
+Zarlardinge|50.762|3.829|BE|Flanders|60
+Oosteind|51.644|4.898|NL|North Brabant|60
+Sint Laurens|51.528|3.603|NL|Zeeland|60
+Anhiers|50.407|3.155|FR|Hauts-de-France|60
+Kerkhove|50.799|3.503|BE|Flanders|60
+Marche-les-Dames|50.486|4.960|BE|Wallonia|60
+Grammene|50.978|3.467|BE|Flanders|60
+Roesbrugge-Haringe|50.918|2.625|BE|Flanders|60
+Aalterbrug|51.109|3.434|BE|Flanders|60
+Woubrechtegem|50.874|3.916|BE|Flanders|60
+Nes aan de Amstel|52.260|4.872|NL|North Holland|60
+Carnin|50.519|2.961|FR|Hauts-de-France|60
+Verchain-Maugré|50.268|3.477|FR|Hauts-de-France|60
+Werken|51.029|2.964|BE|Flanders|60
+Beinsdorp|52.287|4.596|NL|North Holland|60
+Familleureux|50.524|4.210|BE|Wallonia|60
+Zuiddorpe|51.235|3.904|NL|Zeeland|60
+Merris|50.716|2.662|FR|Hauts-de-France|60
+Grimminge|50.794|3.952|BE|Flanders|60
+Malèves-Sainte-Marie-Wastines|50.657|4.780|BE|Wallonia|60
+Saint-Jean-Geest|50.740|4.896|BE|Wallonia|60
+Wez-Velvain|50.546|3.389|BE|Wallonia|60
+Rebaix|50.660|3.783|BE|Wallonia|60
+Hoogbraak|51.448|4.919|NL|North Brabant|60
+Beaucamps-Ligny|50.606|2.916|FR|Hauts-de-France|60
+Hanzinne|50.311|4.544|BE|Wallonia|60
+Slijpe|51.155|2.848|BE|Flanders|60
+Neuve-Chapelle|50.586|2.782|FR|Hauts-de-France|60
+Prisches|50.079|3.768|FR|Hauts-de-France|60
+Cambrin|50.510|2.741|FR|Hauts-de-France|60
+Hondeghem|50.756|2.521|FR|Hauts-de-France|60
+Messines|50.766|2.898|BE|Flanders|60
+Gontrode|50.984|3.798|BE|Flanders|60
+Noville-sur-Méhaigne|50.609|4.892|BE|Wallonia|60
+Warquignies|50.402|3.822|BE|Wallonia|60
+Neuvilly|50.143|3.514|FR|Hauts-de-France|60
+Wontergem|50.979|3.440|BE|Flanders|60
+Amstelhoek|52.231|4.833|NL|Utrecht|60
+Chercq|50.588|3.421|BE|Wallonia|60
+Den Hout|51.657|4.813|NL|North Brabant|60
+Paillencourt|50.247|3.274|FR|Hauts-de-France|60
+Mesvin|50.426|3.959|BE|Wallonia|60
+Maresches|50.293|3.580|FR|Hauts-de-France|60
+Maransart|50.660|4.467|BE|Wallonia|60
+Blaregnies|50.358|3.892|BE|Wallonia|60
+Maarke-Kerkem|50.820|3.665|BE|Flanders|60
+Gourdinne|50.291|4.454|BE|Wallonia|60
+Aix-en-Pévèle|50.490|3.295|FR|Hauts-de-France|60
+Houtain-le-Val|50.582|4.413|BE|Wallonia|60
+Fressain|50.287|3.194|FR|Hauts-de-France|60
+Glimes|50.680|4.837|BE|Wallonia|60
+Athies|50.302|2.838|FR|Hauts-de-France|60
+Zegelsem|50.819|3.718|BE|Flanders|60
+Spiennes|50.425|3.987|BE|Wallonia|60
+Marilles|50.707|4.953|BE|Wallonia|60
+Melden|50.814|3.565|BE|Flanders|60
+Warnant|50.323|4.843|BE|Wallonia|60
+Aubrives|50.103|4.763|FR|Grand Est|60
+Vaudricourt|50.501|2.625|FR|Hauts-de-France|60
+Liernu|50.583|4.831|BE|Wallonia|59
+Silenrieux|50.226|4.417|BE|Wallonia|59
+Jolimetz|50.228|3.677|FR|Hauts-de-France|59
+Sint-Goriks-Oudenhove|50.853|3.786|BE|Flanders|59
+Gentinnes|50.578|4.607|BE|Wallonia|59
+Helkijn|50.732|3.384|BE|Flanders|59
+Dompierre-sur-Helpe|50.142|3.864|FR|Hauts-de-France|59
+Nederzwalm-Hermelgem|50.883|3.683|BE|Flanders|59
+Orroir|50.750|3.481|BE|Wallonia|59
+Ramegnies-Chin|50.652|3.337|BE|Wallonia|59
+Odomez|50.453|3.523|FR|Hauts-de-France|59
+Grand-Manil|50.557|4.675|BE|Wallonia|59
+Houdain-lez-Bavay|50.314|3.785|FR|Hauts-de-France|59
+Cortil-Wodon|50.568|4.957|BE|Wallonia|59
+Pesche|50.043|4.459|BE|Wallonia|59
+Carnières|50.168|3.347|FR|Hauts-de-France|59
+Wagnelée|50.523|4.533|BE|Wallonia|59
+Louvignies-Quesnoy|50.224|3.642|FR|Hauts-de-France|59
+Gijzenzele|50.971|3.817|BE|Flanders|59
+Tourpes|50.573|3.651|BE|Wallonia|59
+Daknam|51.126|3.982|BE|Flanders|59
+Esplechin|50.574|3.304|BE|Wallonia|59
+Vaux-Andigny|50.023|3.517|FR|Hauts-de-France|59
+Bovesse|50.519|4.781|BE|Wallonia|59
+Hantay|50.534|2.867|FR|Hauts-de-France|59
+Ligne|50.622|3.706|BE|Wallonia|59
+Bertincourt|50.086|2.981|FR|Hauts-de-France|59
+Maulde|50.502|3.434|FR|Hauts-de-France|59
+Servins|50.410|2.634|FR|Hauts-de-France|59
+Zeveren|50.996|3.499|BE|Flanders|59
+Eecke|50.779|2.597|FR|Hauts-de-France|59
+Bugnicourt|50.291|3.155|FR|Hauts-de-France|59
+Fromelles|50.607|2.853|FR|Hauts-de-France|59
+Ruwiel|52.182|4.974|NL|Utrecht|59
+Mastaing|50.306|3.305|FR|Hauts-de-France|59
+Thorembais-les-Béguines|50.658|4.818|BE|Wallonia|59
+Chapelle-à-Wattines|50.613|3.655|BE|Wallonia|59
+Sommelsdijk|51.757|4.149|NL|South Holland|59
+Isnes|50.506|4.728|BE|Wallonia|59
+Westrem|50.969|3.862|BE|Flanders|59
+Mesnil-Saint-Blaise|50.168|4.885|BE|Wallonia|59
+Estreux|50.351|3.594|FR|Hauts-de-France|59
+Hainin|50.430|3.767|BE|Wallonia|59
+Voormezele|50.817|2.876|BE|Flanders|59
+Olloy-sur-Viroin|50.073|4.608|BE|Wallonia|59
+Berzée|50.289|4.401|BE|Wallonia|59
+Barbençon|50.223|4.283|BE|Wallonia|59
+Roucourt|50.529|3.586|BE|Wallonia|59
+Bersillies-l'Abbaye|50.262|4.148|BE|Wallonia|59
+Haut-Ittre|50.653|4.298|BE|Wallonia|59
+Lonzée|50.554|4.727|BE|Wallonia|59
+Péronne-en-Mélantois|50.568|3.169|FR|Hauts-de-France|59
+Saint-Vaast-en-Cambrésis|50.200|3.417|FR|Hauts-de-France|59
+Fresnicourt-le-Dolmen|50.419|2.600|FR|Hauts-de-France|59
+Onze-Lieve-Vrouw-Lombeek|50.820|4.110|BE|Flanders|59
+Opheylissem|50.747|4.977|BE|Wallonia|59
+Sorinnes|50.259|4.981|BE|Wallonia|59
+Chaussée-Notre-Dame-Louvignies|50.592|3.998|BE|Wallonia|59
+Keumiée|50.462|4.591|BE|Wallonia|59
+Noyelles-lès-Seclin|50.576|3.017|FR|Hauts-de-France|59
+Catillon-sur-Sambre|50.073|3.643|FR|Hauts-de-France|59
+Kinderdijk|51.886|4.632|NL|South Holland|59
+Audregnies|50.383|3.721|BE|Wallonia|59
+Bois-Bernard|50.381|2.911|FR|Hauts-de-France|59
+Brielen|50.868|2.848|BE|Flanders|59
+Kobbegem|50.908|4.253|BE|Flanders|59
+Sint-Denijs-Boekel|50.865|3.712|BE|Flanders|59
+Louvil|50.558|3.194|FR|Hauts-de-France|59
+Wannehain|50.568|3.268|FR|Hauts-de-France|59
+Bellignies|50.327|3.769|FR|Hauts-de-France|59
+Thivencelle|50.440|3.634|FR|Hauts-de-France|59
+Taisnières-sur-Hon|50.320|3.835|FR|Hauts-de-France|59
+Heurne|50.881|3.626|BE|Flanders|59
+Den Ilp|52.454|4.907|NL|North Holland|59
+Heer|50.164|4.832|BE|Wallonia|59
+Mendonk|51.147|3.821|BE|Flanders|59
+Noyelles-sur-Selle|50.285|3.387|FR|Hauts-de-France|59
+Sars-la-Buissière|50.340|4.209|BE|Wallonia|58
+Hamme|50.921|4.283|BE|Flanders|58
+Markegem|50.946|3.400|BE|Flanders|58
+Quérénaing|50.286|3.513|FR|Hauts-de-France|58
+Saint-Aubin|50.248|4.577|BE|Wallonia|58
+Sars-la-Bruyère|50.372|3.874|BE|Wallonia|58
+Molenbaix|50.694|3.431|BE|Wallonia|58
+Saint-Hilaire-sur-Helpe|50.132|3.903|FR|Hauts-de-France|58
+Gerpinnes|50.338|4.527|BE|Wallonia|58
+Rancennes|50.116|4.819|FR|Grand Est|58
+Harmignies|50.406|4.017|BE|Wallonia|58
+La Glanerie|50.530|3.301|BE|Wallonia|58
+Preux-au-Bois|50.165|3.658|FR|Hauts-de-France|58
+Snelrewaard|52.028|4.908|NL|Utrecht|58
+Meigem|51.017|3.541|BE|Flanders|58
+Korbeek-Dijle|50.838|4.638|BE|Flanders|58
+Senzeille|50.177|4.465|BE|Wallonia|58
+Bolinne|50.601|4.929|BE|Wallonia|58
+Oeudeghien|50.678|3.712|BE|Wallonia|58
+Kooigem|50.740|3.332|BE|Flanders|58
+Outgaarden|50.767|4.919|BE|Flanders|58
+Pervijze|51.073|2.794|BE|Flanders|58
+Leisele|50.984|2.620|BE|Flanders|58
+Montignies-lez-Lens|50.564|3.943|BE|Wallonia|58
+Ramskapelle|51.315|3.251|BE|Flanders|58
+Saint-Géry|50.581|4.614|BE|Wallonia|58
+Ghislenghien|50.657|3.878|BE|Wallonia|58
+Hon-Hergies|50.327|3.818|FR|Hauts-de-France|58
+Havay|50.361|3.984|BE|Wallonia|58
+Longueville|50.702|4.740|BE|Wallonia|58
+Izel-lès-Équerchin|50.361|2.950|FR|Hauts-de-France|58
+Mont-Saint-André|50.656|4.866|BE|Wallonia|58
+Oignies-en-Thiérache|50.023|4.639|BE|Wallonia|58
+Sion|52.014|4.325|NL|South Holland|58
+Wilskerke|51.181|2.840|BE|Flanders|58
+Baisieux|50.387|3.696|BE|Wallonia|58
+Inchy|50.122|3.464|FR|Hauts-de-France|58
+Troisvilles|50.105|3.470|FR|Hauts-de-France|58
+Merbes-Sainte-Marie|50.353|4.178|BE|Wallonia|58
+Stave|50.280|4.659|BE|Wallonia|58
+Willemstad|51.692|4.439|NL|North Brabant|58
+Marchovelette|50.523|4.941|BE|Wallonia|58
+Quiéry-la-Motte|50.366|2.978|FR|Hauts-de-France|58
+Roborst|50.867|3.753|BE|Flanders|58
+Bouvines|50.579|3.189|FR|Hauts-de-France|58
+Sart-Eustache|50.375|4.605|BE|Wallonia|58
+Houtkerque|50.877|2.596|FR|Hauts-de-France|58
+Lisogne|50.281|4.971|BE|Wallonia|58
+Boussu-lez-Walcourt|50.228|4.378|BE|Wallonia|58
+Oostwinkel|51.152|3.532|BE|Flanders|58
+Hastière-par-delà|50.215|4.829|BE|Wallonia|58
+Hesdigneul-lès-Béthune|50.502|2.590|FR|Hauts-de-France|58
+Graty|50.632|3.996|BE|Wallonia|58
+Folx-les-Caves|50.661|4.938|BE|Wallonia|58
+Clermont|50.261|4.317|BE|Wallonia|58
+Nokere|50.885|3.510|BE|Flanders|58
+Dreischor|51.690|3.983|NL|Zeeland|58
+Ors|50.101|3.634|FR|Hauts-de-France|58
+Roly|50.136|4.537|BE|Wallonia|58
+Schijf|51.499|4.561|NL|North Brabant|58
+Hamel|50.279|3.074|FR|Hauts-de-France|58
+Roclincourt|50.326|2.787|FR|Hauts-de-France|58
+Sint-Blasius-Boekel|50.852|3.722|BE|Flanders|58
+Lathuy|50.725|4.826|BE|Wallonia|58
+Loffre|50.357|3.171|FR|Hauts-de-France|58
+Taviers|50.617|4.931|BE|Wallonia|58
+Kaster|50.813|3.496|BE|Flanders|58
+Flêtre|50.755|2.645|FR|Hauts-de-France|58
+Vrouwenpolder|51.577|3.615|NL|Zeeland|58
+Arbre|50.610|3.815|BE|Wallonia|58
+Heikruis|50.735|4.112|BE|Flanders|58
+Chastrès|50.267|4.455|BE|Wallonia|58
+Wargnies-le-Petit|50.293|3.673|FR|Hauts-de-France|58
+Thieulain|50.618|3.605|BE|Wallonia|58
+Bruyelle|50.558|3.428|BE|Wallonia|58
+Virelles|50.064|4.335|BE|Wallonia|58
+Marbaix|50.326|4.371|BE|Wallonia|58
+Brasmenil|50.541|3.545|BE|Wallonia|58
+Guignies|50.548|3.370|BE|Wallonia|58
+Blicquy|50.588|3.686|BE|Wallonia|58
+Honnecourt-sur-Escaut|50.033|3.200|FR|Hauts-de-France|58
+Villereau|50.256|3.665|FR|Hauts-de-France|58
+Attre|50.607|3.839|BE|Wallonia|58
+Ciply|50.419|3.944|BE|Wallonia|58
+Chooz|50.103|4.808|FR|Grand Est|57
+Glabais|50.631|4.453|BE|Wallonia|57
+Quévy-le-Grand|50.361|3.949|BE|Wallonia|57
+Sloten|52.342|4.797|NL|North Holland|57
+Esquerchin|50.376|3.014|FR|Hauts-de-France|57
+Montroeul-sur-Haine|50.438|3.706|BE|Wallonia|57
+Angre|50.366|3.695|BE|Wallonia|57
+Grand-Rosière-Hottomont|50.632|4.866|BE|Wallonia|57
+Warisoulx|50.537|4.867|BE|Wallonia|57
+Landskouter|50.970|3.793|BE|Flanders|57
+Béthencourt|50.136|3.433|FR|Hauts-de-France|57
+Bouvignies|50.646|3.766|BE|Wallonia|57
+Neufmaison|50.529|3.794|BE|Wallonia|57
+Beveren|50.939|2.640|BE|Flanders|57
+Erchin|50.317|3.167|FR|Hauts-de-France|57
+Langeraar|52.193|4.711|NL|South Holland|57
+Bourlers|50.027|4.341|BE|Wallonia|57
+Sint-Margriete-Houtem|50.829|4.958|BE|Flanders|57
+Pelves|50.291|2.914|FR|Hauts-de-France|57
+Pommereuil|50.112|3.596|FR|Hauts-de-France|57
+Solre-Saint-Géry|50.216|4.248|BE|Wallonia|57
+Biggekerke|51.499|3.526|NL|Zeeland|57
+Burgh|51.689|3.733|NL|Zeeland|57
+Cabauw|51.964|4.899|NL|Utrecht|57
+Longchamps|50.577|4.895|BE|Wallonia|57
+Joncret|50.354|4.513|BE|Wallonia|57
+Villerot|50.486|3.791|BE|Wallonia|57
+Heindonk|51.067|4.408|BE|Flanders|57
+Wannegem-Lede|50.890|3.551|BE|Flanders|57
+Merdorp|50.649|5.000|BE|Wallonia|57
+Ogy|50.721|3.780|BE|Wallonia|57
+Prémont|50.015|3.392|FR|Hauts-de-France|57
+Groede|51.378|3.507|NL|Zeeland|57
+Warloy-Baillon|50.010|2.522|FR|Hauts-de-France|57
+Zuidbuurt|52.108|4.504|NL|South Holland|57
+Brillon|50.435|3.329|FR|Hauts-de-France|57
+Cour-sur-Heure|50.301|4.389|BE|Wallonia|57
+Kwaremont|50.777|3.524|BE|Flanders|57
+Denée|50.319|4.752|BE|Wallonia|57
+Bellingen|50.741|4.154|BE|Flanders|57
+Fontenoy|50.568|3.474|BE|Wallonia|57
+Grandmetz|50.626|3.631|BE|Wallonia|57
+Vieille-Chapelle|50.591|2.701|FR|Hauts-de-France|57
+Saint-Léger|50.706|3.314|BE|Wallonia|57
+Rumaucourt|50.243|3.060|FR|Hauts-de-France|57
+Smeerebbe-Vloerzegem|50.817|3.928|BE|Flanders|57
+Waarmaarde|50.790|3.487|BE|Flanders|57
+Voorweg|52.089|4.621|NL|South Holland|57
+Carency|50.379|2.704|FR|Hauts-de-France|57
+Tortequesne|50.289|3.040|FR|Hauts-de-France|57
+Lijnden|52.352|4.757|NL|North Holland|57
+Ter Heijde|52.030|4.168|NL|South Holland|57
+Sainte-Marie-Cappel|50.785|2.507|FR|Hauts-de-France|57
+Hertain|50.613|3.289|BE|Wallonia|57
+Molenschot|51.572|4.882|NL|North Brabant|57
+Tourmignies|50.507|3.084|FR|Hauts-de-France|57
+Strazeele|50.726|2.631|FR|Hauts-de-France|57
+Mullem|50.897|3.605|BE|Flanders|57
+Houchin|50.482|2.620|FR|Hauts-de-France|57
+Tilloy-lez-Cambrai|50.200|3.217|FR|Hauts-de-France|57
+Combles|50.009|2.867|FR|Hauts-de-France|57
+Mellery|50.582|4.569|BE|Wallonia|57
+Schellingwoude|52.384|4.964|NL|North Holland|57
+Cattenières|50.135|3.334|FR|Hauts-de-France|57
+Chemy|50.531|2.989|FR|Hauts-de-France|57
+Petit-Roeulx-lez-Braine|50.626|4.094|BE|Wallonia|57
+Les Moëres|51.014|2.549|FR|Hauts-de-France|57
+Maulde|50.617|3.549|BE|Wallonia|57
+Moorsel|50.851|4.537|BE|Flanders|57
+Flavion|50.249|4.717|BE|Wallonia|57
+Les Rues-des-Vignes|50.096|3.239|FR|Hauts-de-France|57
+Macon|50.051|4.209|BE|Wallonia|57
+Izel-lès-Hameau|50.317|2.533|FR|Hauts-de-France|57
+Moustier|50.656|3.620|BE|Wallonia|57
+Miraumont|50.095|2.730|FR|Hauts-de-France|57
+Roux-Miroir|50.709|4.783|BE|Wallonia|57
+Élincourt|50.045|3.371|FR|Hauts-de-France|57
+Heenweg|51.982|4.181|NL|South Holland|57
+Wijngaarden|51.845|4.763|NL|South Holland|57
+Bury|50.543|3.594|BE|Wallonia|57
+Noyelles-sur-Escaut|50.133|3.183|FR|Hauts-de-France|57
+Parike|50.785|3.798|BE|Flanders|57
+Celles|50.712|3.457|BE|Wallonia|57
+Cognelée|50.515|4.907|BE|Wallonia|57
+Zevekote|51.138|2.921|BE|Flanders|57
+Willerval|50.357|2.845|FR|Hauts-de-France|57
+Fontaine-au-Bois|50.142|3.647|FR|Hauts-de-France|57
+Morville|50.234|4.741|BE|Wallonia|57
+Villers-au-Tertre|50.302|3.182|FR|Hauts-de-France|57
+Woerdense Verlaat|52.155|4.864|NL|South Holland|57
+Agnez-lès-Duisans|50.308|2.658|FR|Hauts-de-France|57
+Calonne|50.578|3.435|BE|Wallonia|57
+Thirimont|50.260|4.236|BE|Wallonia|57
+Blandain|50.621|3.305|BE|Wallonia|56
+Bambecque|50.902|2.549|FR|Hauts-de-France|56
+Krombeke|50.915|2.688|BE|Flanders|56
+Wanquetin|50.276|2.614|FR|Hauts-de-France|56
+Heeswijk|52.052|4.969|NL|Utrecht|56
+Wilhelminadorp|51.529|3.897|NL|Zeeland|56
+Habarcq|50.305|2.610|FR|Hauts-de-France|56
+Nodebais|50.773|4.737|BE|Wallonia|56
+Sailly-en-Ostrevent|50.289|2.993|FR|Hauts-de-France|56
+Bermerain|50.252|3.532|FR|Hauts-de-France|56
+Stalhille|51.214|3.072|BE|Flanders|56
+Villers-le-Gambon|50.190|4.607|BE|Wallonia|56
+Villers-Saint-Ghislain|50.430|4.040|BE|Wallonia|56
+Kluizen|51.158|3.732|BE|Flanders|56
+Hollebeke|50.805|2.937|BE|Flanders|56
+Rosée|50.233|4.687|BE|Wallonia|56
+Sint-Margriete|51.282|3.546|BE|Flanders|56
+Dranouter|50.766|2.784|BE|Flanders|56
+Énines|50.694|4.927|BE|Wallonia|56
+Pollinkhove|50.971|2.733|BE|Flanders|56
+Zuidzijde|52.080|4.772|NL|South Holland|56
+Bekkerzeel|50.885|4.238|BE|Flanders|56
+Bouvignes-sur-Meuse|50.274|4.898|BE|Wallonia|56
+Gouy|50.001|3.256|FR|Hauts-de-France|56
+La Neuville|50.493|3.048|FR|Hauts-de-France|56
+Villers-Guislain|50.041|3.155|FR|Hauts-de-France|56
+Middelburg|51.256|3.416|BE|Flanders|56
+Bulskamp|51.042|2.649|BE|Flanders|56
+Ermeton-sur-Biert|50.298|4.719|BE|Wallonia|56
+Sint-Maria-Latem|50.890|3.706|BE|Flanders|56
+Ostiches|50.679|3.759|BE|Wallonia|56
+Mozet|50.445|4.985|BE|Wallonia|56
+De Engel|52.242|4.537|NL|South Holland|56
+Naves|50.203|3.317|FR|Hauts-de-France|56
+Aisemont|50.405|4.652|BE|Wallonia|56
+Mont-Sainte-Geneviève|50.375|4.237|BE|Wallonia|56
+Houtem|51.011|2.609|BE|Flanders|56
+Arc-Ainières|50.702|3.554|BE|Wallonia|56
+Achtmaal|51.454|4.585|NL|North Brabant|56
+Annevoie-Rouillon|50.348|4.850|BE|Wallonia|56
+Graincourt-lès-Havrincourt|50.147|3.109|FR|Hauts-de-France|56
+Briastre|50.161|3.485|FR|Hauts-de-France|56
+Korteraar|52.173|4.732|NL|South Holland|56
+Langeweg|51.648|4.665|NL|North Brabant|56
+Sint-Antelinks|50.850|3.926|BE|Flanders|56
+Metz-en-Couture|50.067|3.064|FR|Hauts-de-France|56
+Oostkerke|51.277|3.296|BE|Flanders|56
+Petit-Roeulx-lez-Nivelles|50.554|4.314|BE|Wallonia|56
+Opperduit|51.899|4.713|NL|South Holland|56
+Balâtre|50.500|4.644|BE|Wallonia|56
+Peissant|50.351|4.120|BE|Wallonia|56
+Biesmerée|50.298|4.680|BE|Wallonia|56
+Millonfosse|50.434|3.398|FR|Hauts-de-France|56
+Callenelle|50.530|3.523|BE|Wallonia|56
+Puisieux|50.116|2.694|FR|Hauts-de-France|56
+Hantes-Wihéries|50.306|4.177|BE|Wallonia|56
+Stavele|50.941|2.672|BE|Flanders|56
+Grandrieu|50.200|4.174|BE|Wallonia|56
+Montigny-en-Cambrésis|50.091|3.412|FR|Hauts-de-France|56
+Tongre-Notre-Dame|50.582|3.776|BE|Wallonia|56
+Esnes|50.101|3.314|FR|Hauts-de-France|56
+Mailly-Maillet|50.080|2.605|FR|Hauts-de-France|56
+Saint-Germain|50.573|4.842|BE|Wallonia|56
+Houtaing|50.638|3.682|BE|Wallonia|56
+Graaf|51.981|4.979|NL|Utrecht|56
+Nieuwe Wetering|52.208|4.618|NL|South Holland|56
+Zwartewaal|51.883|4.221|NL|South Holland|56
+Villers-Saint-Amand|50.623|3.731|BE|Wallonia|56
+Acheville|50.384|2.883|FR|Hauts-de-France|56
+Moulbaix|50.601|3.716|BE|Wallonia|56
+Munte|50.944|3.743|BE|Flanders|56
+Gottem|50.964|3.464|BE|Flanders|56
+Hundelgem|50.889|3.751|BE|Flanders|56
+Mehaigne|50.595|4.876|BE|Wallonia|56
+Fayt-le-Franc|50.357|3.775|BE|Wallonia|56
+Boninne|50.494|4.932|BE|Wallonia|56
+Galder|51.515|4.776|NL|North Brabant|56
+Heinenoord|51.826|4.477|NL|South Holland|56
+Ename|50.858|3.637|BE|Flanders|56
+Presgaux|50.025|4.420|BE|Wallonia|56
+Russeignies|50.745|3.532|BE|Wallonia|56
+Pepingen|50.759|4.160|BE|Flanders|56
+Wancourt|50.247|2.869|FR|Hauts-de-France|56
+Obigies|50.662|3.364|BE|Wallonia|56
+Romedenne|50.171|4.697|BE|Wallonia|56
+Zonnemaire|51.713|3.951|NL|Zeeland|56
+Mecquignies|50.277|3.794|FR|Hauts-de-France|56
+Obies|50.268|3.785|FR|Hauts-de-France|56
+Treignes|50.092|4.670|BE|Wallonia|56
+Dongelberg|50.703|4.820|BE|Wallonia|56
+Rouvignies|50.323|3.448|FR|Hauts-de-France|56
+Brigdamme|51.516|3.606|NL|Zeeland|55
+Helwijk|51.676|4.432|NL|North Brabant|55
+Neigem|50.803|4.060|BE|Flanders|55
+Thines|50.597|4.369|BE|Wallonia|55
+Rombies-et-Marchipont|50.365|3.641|FR|Hauts-de-France|55
+Bazuel|50.091|3.591|FR|Hauts-de-France|55
+Jollain-Merlin|50.539|3.404|BE|Wallonia|55
+Wouwse Plantage|51.484|4.388|NL|North Brabant|55
+Mévergnies|50.605|3.848|BE|Wallonia|55
+Baugnies|50.560|3.552|BE|Wallonia|55
+Gonrieux|50.037|4.426|BE|Wallonia|55
+Monchaux-sur-Écaillon|50.286|3.456|FR|Hauts-de-France|55
+Boignée|50.501|4.609|BE|Wallonia|55
+Maasdam|51.789|4.556|NL|South Holland|55
+Mercatel|50.236|2.796|FR|Hauts-de-France|55
+Stoof|51.599|4.478|NL|North Brabant|55
+Baaigem|50.932|3.720|BE|Flanders|55
+Noyelles-sous-Bellonne|50.308|3.027|FR|Hauts-de-France|55
+Saint-Martin|50.501|4.648|BE|Wallonia|55
+Haynecourt|50.209|3.159|FR|Hauts-de-France|55
+Smitshoek|51.856|4.483|NL|South Holland|55
+Zonnegem|50.927|3.909|BE|Flanders|55
+Purnode|50.312|4.944|BE|Wallonia|55
+Bévillers|50.157|3.390|FR|Hauts-de-France|55
+Kerkwerve|51.687|3.899|NL|Zeeland|55
+Le Maisnil|50.615|2.885|FR|Hauts-de-France|55
+Awoingt|50.155|3.282|FR|Hauts-de-France|55
+Driewegen|51.418|3.803|NL|Zeeland|55
+Inchy-en-Artois|50.181|3.053|FR|Hauts-de-France|55
+Saint-Remy-Geest|50.747|4.858|BE|Wallonia|55
+Melles|50.647|3.482|BE|Wallonia|55
+Daussois|50.219|4.457|BE|Wallonia|55
+Magnicourt-en-Comte|50.400|2.500|FR|Hauts-de-France|55
+Dion-le-Val|50.716|4.662|BE|Wallonia|55
+Ramskapelle|51.110|2.764|BE|Flanders|55
+Poeke|51.039|3.445|BE|Flanders|55
+Stuifakker|51.884|4.063|NL|South Holland|55
+Loker|50.782|2.772|BE|Flanders|55
+Simencourt|50.258|2.643|FR|Hauts-de-France|55
+Rivière|50.357|4.874|BE|Wallonia|55
+Biesme-sous-Thuin|50.322|4.309|BE|Wallonia|55
+Monchy-le-Preux|50.271|2.893|FR|Hauts-de-France|55
+Arbre|50.366|4.821|BE|Wallonia|55
+Watergang|52.438|4.951|NL|North Holland|55
+Bailleul|50.669|3.319|BE|Wallonia|55
+Farbus|50.356|2.825|FR|Hauts-de-France|55
+Mazée|50.101|4.697|BE|Wallonia|55
+Quéant|50.179|2.982|FR|Hauts-de-France|55
+Terdeghem|50.799|2.539|FR|Hauts-de-France|55
+Borre|50.731|2.585|FR|Hauts-de-France|55
+Beaudignies|50.237|3.593|FR|Hauts-de-France|55
+Bikschote|50.928|2.863|BE|Flanders|55
+Vis-en-Artois|50.248|2.939|FR|Hauts-de-France|55
+Mespelare|50.996|4.069|BE|Flanders|55
+Ronsele|51.131|3.552|BE|Flanders|55
+Zulzeke|50.792|3.571|BE|Flanders|55
+Hermeton-sur-Meuse|50.198|4.817|BE|Wallonia|55
+Beaumetz-lès-Cambrai|50.122|2.984|FR|Hauts-de-France|55
+Sautin|50.163|4.226|BE|Wallonia|55
+Hoofdplaat|51.369|3.663|NL|Zeeland|55
+Falaën|50.279|4.794|BE|Wallonia|55
+Marcq-en-Ostrevent|50.286|3.238|FR|Hauts-de-France|55
+West-Cappel|50.930|2.506|FR|Hauts-de-France|55
+Sint-Kornelis-Horebeke|50.834|3.698|BE|Flanders|55
+Ficheux|50.226|2.738|FR|Hauts-de-France|55
+Oudezeele|50.838|2.510|FR|Hauts-de-France|55
+Branchon|50.629|4.973|BE|Wallonia|55
+Sepmeries|50.282|3.564|FR|Hauts-de-France|55
+Berthen|50.783|2.695|FR|Hauts-de-France|55
+Vertain|50.212|3.525|FR|Hauts-de-France|55
+Nieuwebrug|52.373|4.675|NL|North Holland|54
+Oostdijk|51.444|4.078|NL|Zeeland|54
+Palluel|50.261|3.093|FR|Hauts-de-France|54
+Willaupuis|50.568|3.603|BE|Wallonia|54
+Cauroir|50.173|3.303|FR|Hauts-de-France|54
+Buken|50.940|4.617|BE|Flanders|54
+Cobrieux|50.542|3.229|FR|Hauts-de-France|54
+Floyon|50.042|3.887|FR|Hauts-de-France|54
+Ramillies|50.205|3.261|FR|Hauts-de-France|54
+Buissenal|50.665|3.656|BE|Wallonia|54
+Ligny-Thilloy|50.085|2.822|FR|Hauts-de-France|54
+Aalsmeerderbrug|52.274|4.750|NL|North Holland|54
+Acheux-en-Amiénois|50.073|2.532|FR|Hauts-de-France|54
+Dorinne|50.315|4.976|BE|Wallonia|54
+Pry|50.272|4.439|BE|Wallonia|54
+Quartes|50.651|3.512|BE|Wallonia|54
+Wasnes-au-Bac|50.271|3.260|FR|Hauts-de-France|54
+Crupet|50.350|4.961|BE|Wallonia|54
+Fressies|50.256|3.195|FR|Hauts-de-France|54
+Neuville-Vitasse|50.248|2.820|FR|Hauts-de-France|54
+Strijtem|50.842|4.117|BE|Flanders|54
+Villers-la-Tour|50.036|4.261|BE|Wallonia|54
+Forest-en-Cambrésis|50.140|3.573|FR|Hauts-de-France|54
+Heudicourt|50.022|3.081|FR|Hauts-de-France|54
+Acq|50.347|2.657|FR|Hauts-de-France|54
+Ottergem|50.934|3.947|BE|Flanders|54
+Sommière|50.275|4.849|BE|Wallonia|54
+Vieux-Mesnil|50.253|3.861|FR|Hauts-de-France|54
+Renlies|50.191|4.267|BE|Wallonia|54
+Vergnies|50.199|4.303|BE|Wallonia|54
+Aubencheul-au-Bac|50.257|3.158|FR|Hauts-de-France|54
+Englos|50.627|2.957|FR|Hauts-de-France|54
+Niergnies|50.148|3.256|FR|Hauts-de-France|54
+Eede|51.248|3.443|NL|Zeeland|54
+Vlist|51.980|4.819|NL|South Holland|54
+Bossuit|50.749|3.408|BE|Flanders|54
+Hem-Lenglet|50.258|3.229|FR|Hauts-de-France|54
+Falmignoul|50.206|4.893|BE|Wallonia|54
+Honnechy|50.069|3.471|FR|Hauts-de-France|54
+Heijningen|51.656|4.408|NL|North Brabant|54
+Épinoy|50.483|2.945|FR|Hauts-de-France|54
+Gimnée|50.131|4.712|BE|Wallonia|54
+Ruesnes|50.259|3.584|FR|Hauts-de-France|54
+Monceau-Saint-Waast|50.170|3.853|FR|Hauts-de-France|54
+Taisnières-en-Thiérache|50.148|3.815|FR|Hauts-de-France|54
+Thoricourt|50.611|3.950|BE|Wallonia|54
+Hargnies|50.020|4.791|FR|Grand Est|54
+Bouzincourt|50.026|2.610|FR|Hauts-de-France|54
+Vierves-sur-Viroin|50.081|4.634|BE|Wallonia|54
+Hemptinne|50.603|4.988|BE|Wallonia|54
+Linsmeau|50.736|5.000|BE|Wallonia|54
+Avesnes-sur-Helpe|50.124|3.926|FR|Hauts-de-France|17
+Chastre|50.601|4.634|BE|Wallonia|0
+Frasnes-lez-Anvaing|50.692|3.636|BE|Wallonia|0
+Lennik|50.809|4.162|BE|Flanders|0
+Saint-Yvon|50.743|2.910|BE|Wallonia|0

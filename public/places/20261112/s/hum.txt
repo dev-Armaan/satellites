@@ -4,6 +4,7 @@ Humbe|-16.686|14.903|AO|Cunene|91
 Humansdorp|-34.029|24.769|ZA|Eastern Cape|91
 Humenné|48.937|21.916|SK|Prešov Region|90
 Humberto de Campos|-2.598|-43.461|BR|Maranhão|89
+Humber Bridge|53.707|-0.450|||89|f
 Humacao|18.150|-65.827|PR|Humacao|86
 Humberstone|52.647|-1.086|GB|England|86
 Humanes de Madrid|40.250|-3.831|ES|Madrid|85
@@ -11,11 +12,15 @@ Hummelsbüttel|53.648|10.041|DE|Hamburg|85
 Humble|29.999|-95.262|US|Texas|84
 Humbermede|43.752|-79.544|CA|Ontario|84
 Humboldtkolonie|50.932|6.995|DE|North Rhine-Westphalia|84
+Humberside Airport|53.574|-0.351|GB|England|83|f
 Humewood-Cedarvale|43.691|-79.428|CA|Ontario|83
+Humphreys Peak|35.346|-111.678|US|Arizona|82|f
 Humber Summit|43.758|-79.575|CA|Ontario|82
 Humpolec|49.542|15.359|CZ|Vysocina|81
 Humahuaca|-23.206|-65.347|AR|Jujuy|81
 Humber Heights-Westmount|43.692|-79.522|CA|Ontario|81
+Humboldt Bay|40.752|-124.216|US|California|80|f
+Humacao Airport|18.138|-65.800|PR|Humacao|80|f
 Humlebæk|55.962|12.534|DK|Capital Region|79
 Humboldt|35.820|-88.916|US|Tennessee|78
 Humberston|53.530|-0.025|GB|England|78
@@ -27,24 +32,94 @@ Humboldt|42.721|-94.215|US|Iowa|73
 Hummelstown|40.265|-76.708|US|Pennsylvania|73
 Humbeek|50.968|4.380|BE|Flanders|73
 Humniska|49.675|22.054|PL|Subcarpathia|73
+Humberto Ghizzo Bortoluzzi Southern Regional Airport|-28.676|-49.062|BR|Santa Catarina|72|f
+Hummelfjell|62.430|11.275|NO|Innlandet|72|f
 Humboldt Hill|40.726|-124.190|US|California|71
+Humboldt Mountains|-71.667|11.500|AQ||70|f
 Humilladero|37.114|-4.703|ES|Andalusia|69
 Humulani|-24.710|31.347|ZA|Mpumalanga|69
 Humppila|60.933|23.367|FI|Kanta-Häme|66
 Humboldt|37.811|-95.437|US|Kansas|65
+Humen Bridge|22.792|113.607|CN|Guangdong|65|f
+Humewood Castle|52.910|-6.612|IE|Leinster|65|f
 Humber Arm South|49.009|-58.135|CA|Newfoundland and Labrador|64
+Humaitá Airport|-7.536|-63.071|BR|Amazonas|63|f
+Humboldt Range|40.450|-118.188|US|Nevada|63|f
+Hume Dam|-36.108|147.032|AU|New South Wales|63|f
 Hummels Wharf|40.832|-76.836|US|Pennsylvania|63
 Humuya|14.250|-87.667|HN|Comayagua Department|62
 Humanes|40.826|-3.153|ES|Castille-La Mancha|62
+Humboldt Airport|42.736|-94.248|US|Iowa|61|f
+Humboldt Gletscher|79.500|-62.998|GL|Avannaata|61|f
+Humbug Mountain|42.679|-124.436|US|Oregon|61|f
+Humpback Mountain|47.373|-121.495|US|Washington|61|f
 Humele|44.526|24.977|RO|Arges|61
 Humansville|37.794|-93.578|US|Missouri|60
 Humoreni|47.652|25.992|RO|Suceava|60
 Hummelo|52.004|6.233|NL|Gelderland|60
+Hummelsta|59.627|16.944|SE|Uppsala|60
 Hum na Sutli|46.211|15.691|HR|Krapina-Zagorje|60
+Humboldt|40.164|-95.945|US|Nebraska|59
+Humboldt Lagoons State Park|41.190|-124.122|US|California|58|f
+Humera Airport|13.834|36.879|ET|Tigray|58|f
+Humps Island|-63.988|-57.409|AQ||58|f
+Humpy Peak|40.870|-111.000|US|Utah|58|f
+Humphrey|41.692|-97.484|US|Nebraska|58
+Humptrup|54.867|8.867|DE|Schleswig-Holstein|58
+Humosu|47.457|26.734|RO|Iași County|58
 Humay|-13.723|-75.887|PE|Ica|56
+Humbécourt|48.583|4.903|FR|Grand Est|56
+Hummelshain|50.767|11.633|DE|Thuringia|56
+Humshaugh|55.038|-2.128|GB|England|56
+Humes-Jorquenay|47.900|5.283|FR|Grand Est|56
+Humboldt|43.645|-97.074|US|South Dakota|55
+Humble|54.830|10.700|DK|South Denmark|55
+Hümmel|50.467|6.783|DE|Rheinland-Pfalz|55
+Humphrey|34.422|-91.706|US|Arkansas|54
+Hum|43.023|20.264|RS||54|f
+Humann Point|-64.403|-62.682|AQ||54|f
+Humble Point|-61.186|-54.129|AQ||54|f
+Humbug Mountain State Park|42.690|-124.434|US|Oregon|54|f
+Humla|62.446|6.291|NO|Møre og Romsdal|54|f
+Hummock Island|-51.615|-60.438|FK||54|f
+Hummock Lake|44.077|-114.592|US|Idaho|54|f
+Hümpfershausen|50.667|10.233|DE|Thuringia|53
+Hum|45.136|15.391|HR|Karlovac|49|f
+Hum Island|-67.356|59.641|AQ||49|f
+Humble Island|-64.765|-64.087|AQ||49|f
+Humboldt University|52.518|13.393|DE|State of Berlin|49|f
+Humic Lake|-54.250|-36.500|GS||49|f
+Hummer, Mount|-83.283|-50.100|AQ||49|f
+Hump Island|-67.599|62.880|AQ||49|f
+Hump Mountain|37.813|-80.878|US|West Virginia|49|f
+Humphrey Lloyd, Mount|-72.317|169.450|AQ||49|f
+Humphrey Mountain|43.635|-74.238|US|New York|49|f
+Hummelfeld|54.462|9.718|DE|Schleswig-Holstein|48
 Humada|42.667|-4.083|ES|Castille and León|45
+Humber Arm|49.000|-58.082|CA|Newfoundland and Labrador|40|f
+Humber Bay|43.633|-79.450|CA|Ontario|40|f
+Humboldt Bay Maritime Museum|40.806|-124.157|US|California|40|f
+Humboldt Bay National Wildlife Refuge|40.688|-124.216|US|California|40|f
+Humboldt Falls|-44.688|168.130|NZ|Otago|40|f
+HUMBOLDT MOUNTAINS|-44.818|168.290|NZ|Otago|40|f
+Humboldt Municipal Airport|35.798|-88.877|US|Tennessee|40|f
+Humboldt Park|41.906|-87.702|US|Illinois|40|f
+Humboldt Peak|37.976|-105.555|US|Colorado|40|f
+Humboldt Peak|40.901|-115.119|US|Nevada|40|f
+Humboldt Redwoods State Park|40.322|-123.994|US|California|40|f
+Humbolt Hills|45.825|-104.107|US|Montana|40|f
+Hume Lake|36.791|-118.905|US|California|40|f
+Humes Glacier|47.789|-123.650|US|Washington|40|f
+Humlegården|59.339|18.073|SE|Stockholm|40|f
+Hummer Point|-74.367|-110.250|AQ||40|f
+Hump Butte|45.884|-101.445|US|South Dakota|40|f
+Humpback Covered Bridge|37.800|-80.047|US|Virginia|40|f
+Humpback Mountain|35.945|-81.962|US|North Carolina|40|f
+Humphreys County Airport|36.115|-87.742|US|Tennessee|40|f
+Humuhumu Lake|-36.333|174.117|NZ||40|f
 Huma|51.727|126.651|CN|Heilongjiang|0
 Humber|52.200|-2.667|GB|England|0
 Humbleton|53.783|-0.150|GB|England|0
+Humei|25.795|117.934|CN|Fujian|0
 Humentsi|48.764|26.630|UA|Khmelnytskyi|0
 Humpata|-15.010|13.377|AO|Huíla|0

@@ -26,6 +26,7 @@ Ostrów Wielkopolski|51.655|17.807|PL|Greater Poland|97
 Ostend|51.216|2.927|BE|Flanders|97
 Oshkosh|44.025|-88.543|US|Wisconsin|96
 Ostankinskiy|55.830|37.616|RU|Moscow|96
+Ostankino Tower|55.820|37.612|RU|Moscow Oblast|95|f
 Ostrołęka|53.086|21.576|PL|Mazovia|95
 Ostuncalco|14.869|-91.621|GT|Quetzaltenango|94
 Oshnavīyeh|37.040|45.098|IR|West Azerbaijan|94
@@ -36,6 +37,7 @@ Oshikoto Region|-18.500|17.083|NA||93|r
 Osu|5.557|-0.186|GH|Greater Accra|93
 Oshakati|-17.788|15.704|NA|Oshana Region|93
 Osmancık|40.978|34.805|TR|Çorum|91
+Osaka International Airport|34.786|135.438|JP|Hyōgo|91|f
 Östermalm|59.339|18.085|SE|Stockholm|91
 Ostrogozhsk|50.866|39.078|RU|Voronezh Oblast|91
 Osdorp|52.357|4.801|NL|North Holland|91
@@ -48,6 +50,8 @@ Osterholz-Scharmbeck|53.227|8.792|DE|Lower Saxony|90
 Osvaldo Cruz|-21.797|-50.879|BR|São Paulo|90
 Osipovichi|53.306|28.629|BY|Mogilev|89
 Osdorf|53.580|9.858|DE|Hamburg|88
+Osijek Airport|45.463|18.810|HR|Vukovar-Srijem|88|f
+Oskemen Airport|50.037|82.494|KZ|East Kazakhstan|88|f
 Ossining|41.163|-73.862|US|New York|88
 Ostrov|57.344|28.354|RU|Pskov Oblast|88
 Osiedle Powstańców Śląskich|51.093|17.021|PL|Lower Silesia|88
@@ -77,6 +81,7 @@ Ostrzeszów|51.426|17.934|PL|Greater Poland|83
 Oststadt|52.382|9.749|DE|Lower Saxony|83
 Ōsaki|31.425|131.022|JP|Kagoshima|83
 Ospitaletto|45.552|10.076|IT|Lombardy|83
+Oshima Airport|34.782|139.360|JP|Tokyo|82|f
 Osterley|51.480|-0.354|GB|England|82
 Östringen|49.219|8.712|DE|Baden-Wurttemberg|82
 Osterhofen|48.700|13.022|DE|Bavaria|81
@@ -90,23 +95,33 @@ Ostbevern|52.040|7.842|DE|North Rhine-Westphalia|81
 Ossendorf|50.971|6.906|DE|North Rhine-Westphalia|81
 Oshiage|35.711|139.817|JP|Tokyo|80
 Oshino|35.459|138.859|JP|Yamanashi|80
+Osmussaar|59.292|23.394|EE|Lääne|80|f
+Osu Castle|5.547|-0.184|GH|Greater Accra|80|f
 Ostercappeln|52.350|8.233|DE|Lower Saxony|80
 Osternienburger Land|51.800|12.017|DE|Saxony-Anhalt|79
+Ostrov Zelenyy|43.510|146.141|RU|Sakhalin Oblast|79|f
 Osthofen|49.704|8.324|DE|Rheinland-Pfalz|79
+Oscar Niemeyer International Cultural Centre|43.558|-5.918|ES|Asturias|78|f
 Osiek|49.951|19.264|PL|Lesser Poland|78
 Oststeinbek|53.543|10.169|DE|Schleswig-Holstein|78
 Osinovo|55.881|48.881|RU|Tatarstan Republic|78
+Oshawa Airport|43.923|-78.895|CA|Ontario|78|f
+Oshika Peninsula|38.333|141.500|JP|Miyagi|78|f
 Osby|56.382|13.994|SE|Skåne|78
 Ostseebad Kühlungsborn|54.148|11.743|DE|Mecklenburg-Vorpommern|77
 Osakarovka|50.563|72.573|KZ|Karaganda|77
 Osceola|35.705|-89.970|US|Arkansas|77
 Osterburg|52.787|11.754|DE|Saxony-Anhalt|77
 Ōshima|34.748|139.362|JP|Tokyo|77
+Oslo Airport, Gardermoen|60.194|11.100|NO|Akershus|77|f
 Ostrach|47.950|9.383|DE|Baden-Wurttemberg|77
 Osmania University|17.413|78.526|IN|Telangana|77
+Ostrov Shumshu|50.749|156.364|RU|Sakhalin Oblast|76|f
 Osterburken|49.430|9.423|DE|Baden-Wurttemberg|76
 Osprey|27.196|-82.490|US|Florida|76
 Osire|-21.074|17.366|NA|Otjozondjupa Region|75
+Osterøy|60.535|5.564|NO|Vestland|75|f
+Ostrov Chirpoy|46.524|150.873|RU|Sakhalin Oblast|75|f
 Oščadnica|49.436|18.882|SK|Žilina Region|75
 Ostroveni|43.800|23.900|RO|Dolj|75
 Ossi|40.675|8.593|IT|Sardinia|75
@@ -140,6 +155,10 @@ Ostrau|51.206|12.884|DE|Saxony|73
 Osawatomie|38.497|-94.951|US|Kansas|73
 Ostseebad Zinnowitz|54.076|13.909|DE|Mecklenburg-Vorpommern|72
 Oskarström|56.800|12.967|SE|Halland|72
+Ō Shima|34.150|133.050|JP|Ehime|72|f
+Ostrov Dash Zirya|40.289|49.982|AZ|Baki|72|f
+Ostrov La-Rons’yer|81.011|60.887|RU|Arkhangelskaya|72|f
+Ostrov Sveta Anastasia|42.468|27.553|BG|Burgas|72|f
 Ossona|45.507|8.893|IT|Lombardy|72
 Osteria Grande|44.428|11.522|IT|Emilia-Romagna|72
 Ostružnica|44.728|20.318|RS|Central Serbia|72
@@ -155,6 +174,12 @@ Ostheim|50.460|10.231|DE|Bavaria|71
 Oslob|9.521|123.431|PH|Central Visayas|71
 Ostrovtsy|55.587|38.006|RU|Moscow Oblast|71
 Osage|43.284|-92.811|US|Iowa|71
+Ō Shima|34.736|139.403|JP|Tokyo|71|f
+Ossabaw Island|31.801|-81.095|US|Georgia|71|f
+Østøya|59.446|10.476|NO|Vestfold|71|f
+Ostrov Baydukova|53.332|141.395|RU|Khabarovsk|71|f
+Ostrov Shënau|80.133|58.833|RU|Arkhangelskaya|71|f
+Ostrovicë|40.567|20.450|AL|Korçë County|71|f
 Osii|48.356|23.108|UA|Zakarpattia|71
 Osobnica|49.709|21.402|PL|Subcarpathia|71
 Ostrovu Mare|44.379|22.516|RO|Mehedinți County|71
@@ -167,6 +192,17 @@ Oshikuku|-17.636|15.482|NA|Omusati Region|70
 Osias|7.600|124.817|PH|Soccsksargen|70
 Oskil|49.177|37.424|UA|Kharkiv|70
 Oșorhei|47.033|22.050|RO|Bihor County|70
+Osborne Mine Airport|-22.083|140.558|AU|Queensland|70|f
+Osgood Mountains|41.118|-117.351|US|Nevada|70|f
+Ōshima Strait|28.170|129.275|JP|Kagoshima|70|f
+Osorakan Zan|34.595|132.130|JP|Shimane|70|f
+Osser|49.203|13.110|DE|Bavaria|70|f
+Ostrov|48.000|17.600|SK|Trnava Region|70|f
+Ostrov Barsakel’mes|45.645|59.890|KZ|Kyzylorda|70|f
+Ostrov Bol’shaya Muksalma|65.038|35.960|RU|Arkhangelskaya|70|f
+Ostrov Bol’shoy Lyakhovskiy|73.566|142.086|RU|Sakha|70|f
+Ostrov Moneron|46.253|141.237|RU|Sakhalin Oblast|70|f
+Ostrozub|42.881|22.240|RS|Central Serbia|70|f
 Oşeşti|46.767|27.467|RO|Vaslui County|70
 Ostra|47.400|25.767|RO|Suceava|70
 Osinki|52.843|49.513|RU|Samara Oblast|70
@@ -188,6 +224,19 @@ Ospina|1.060|-77.566|CO|Nariño|69
 Ostashëvo|55.861|35.864|RU|Moscow Oblast|69
 Osilo|40.743|8.671|IT|Sardinia|69
 Osiao|13.091|123.981|PH|Bicol Region|69
+Osaka Bay|34.499|135.137|JP||69|f
+Osaka Castle|34.687|135.526|JP|Osaka|69|f
+Oslofjord|59.346|10.590|NO||69|f
+Osogovska Planina|42.147|22.485|BG||69|f
+Ostriv Dzharylhach|46.024|32.938|UA|Kherson|69|f
+Ostriv Khortytsia|47.821|35.098|UA|Zaporizhzhia|69|f
+Ostrov Brat Chirpoyev|46.463|150.807|RU|Sakhalin Oblast|69|f
+Ostrov Mantsinsaari|61.356|31.586|RU|Karelia|69|f
+Ostrov Rudol’fa|81.794|58.546|RU|Arkhangelskaya|69|f
+Ostrov Spafar’yeva|59.168|149.044|RU|Magadan Oblast|69|f
+Ostrov Tayvan’|23.838|120.966|TW||69|f
+Ōsumi Peninsula|31.333|130.917|JP|Kagoshima|69|f
+Ōsumi-shotō|30.609|130.183|JP|Kagoshima|69|f
 Oshikango|-17.402|15.891|NA|Ohangwena Region|68
 Østbirk|55.965|9.756|DK|Central Jutland|68
 Oßling|51.360|14.166|DE|Saxony|68
@@ -218,6 +267,19 @@ Osburg|49.717|6.783|DE|Rheinland-Pfalz|67
 Ostravice|49.535|18.392|CZ|Moravian-Silesian Region|67
 Oshivelo|-18.620|17.167|NA|Oshikoto Region|67
 Ossun|43.184|-0.027|FR|Occitanie|67
+Oštrik|43.503|19.656|RS|Central Serbia|67|f
+Ostrov Belyy|73.268|70.742|RU|Yamalo-Nenets|67|f
+Ostrov Bol’shoy Routan|69.753|170.136|RU|Chukotka|67|f
+Ostrov Malyy Lyakhovskiy|74.112|140.664|RU|Sakha|67|f
+Ostrov Meybel|79.997|49.509|RU|Arkhangelskaya|67|f
+Ostrov Oleniy|72.417|77.750|RU|Yamalo-Nenets|67|f
+Ostrov Salkay|73.338|118.752|RU|Sakha|67|f
+Ostrov Shokal’skogo|72.992|74.462|RU|Yamalo-Nenets|67|f
+Ostrov Solsberi|80.917|56.221|RU|Arkhangelskaya|67|f
+Ostrova Malyye Ushkan’i|53.867|108.567|RU|Buryatiya Republic|67|f
+Ostrova Yamskiye|59.206|155.521|RU|Magadan Oblast|67|f
+Ostrów Lednicki|52.527|17.378|PL|Greater Poland|67|f
+Osua Annin|-4.683|140.082|ID|Highland Papua|67|f
 Ospedaletto|45.662|12.079|IT|Veneto|67
 Ostrov|44.933|28.150|RO|Tulcea County|67
 Ostrów Lubelski|51.494|22.853|PL|Lublin|67
@@ -237,6 +299,33 @@ Ostend|-36.798|175.040|NZ|Auckland|66
 Ostrowy nad Okszą|50.978|19.054|PL|Silesia|66
 Ostra Vetere|43.603|13.062|IT|The Marches|66
 Oster|54.017|32.802|RU|Smolensk Oblast|66
+O'Shaughnessy Dam|37.948|-119.788|US|California|65|f
+O'Sullivan Dam|46.982|-119.291|US|Washington|65|f
+Osensjøen|61.245|11.818|NO|Innlandet|65|f
+Osorno Pilauco Airport|-40.554|-73.130|CL|Los Lagos Region|65|f
+Östliche Karwendelspitze|47.445|11.421|AT|Tyrol|65|f
+Östliche Petermann Range|-71.417|12.667|AQ||65|f
+Ostøya|59.869|10.566|NO|Akershus|65|f
+Östra Ringsjön|55.867|13.533|SE|Skåne|65|f
+Ostrov Ayon|69.817|168.583|RU|Chukotka|65|f
+Ostrov Bel’kovskiy|75.594|135.825|RU|Sakha|65|f
+Ostrov Belene|43.665|25.194|BG|Pleven|65|f
+Ostrov Bol’shoy Shantar|54.934|137.727|RU|Khabarovsk|65|f
+Ostrov Chkalova|53.419|141.214|RU|Khabarovsk|65|f
+Ostrov Kheysa|80.577|57.670|RU|Arkhangelskaya|65|f
+Ostrov Kiy|64.003|37.880|RU|Arkhangelskaya|65|f
+Ostrov Kol’deveya|80.135|59.216|RU|Arkhangelskaya|65|f
+Ostrov Kozloduy|43.790|23.748|BG|Vratsa|65|f
+Ostrov Malyy Vysotskiy|60.642|28.567|RU|Leningradskaya Oblast'|65|f
+Ostrov Morzhovets|66.735|42.553|RU|Arkhangelskaya|65|f
+Ostrov Oktyabr’skoy Revolyutsii|79.500|97.000|RU|Krasnoyarsk Krai|65|f
+Ostrov Petrovskiy|59.962|30.252|RU|St. Petersburg|65|f
+Ostrov Raynera|81.356|58.973|RU|Arkhangelskaya|65|f
+Ostrov Sal’m|80.033|59.449|RU|Arkhangelskaya|65|f
+Ostrov Sibiryakova|72.906|79.181|RU|Krasnoyarsk Krai|65|f
+Ostrov Uyedineniya|77.480|82.475|RU|Krasnoyarsk Krai|65|f
+Ostrov Vasil’yevskiy|59.939|30.256|RU|St. Petersburg|65|f
+Osua Trikora|-4.263|138.681|ID|Highland Papua|65|f
 Ostellato|44.746|11.943|IT|Emilia-Romagna|65
 Ospedaletto Lodigiano|45.169|9.579|IT|Lombardy|65
 Ostrów|49.968|22.787|PL|Subcarpathia|65
@@ -261,6 +350,35 @@ Ostenfeld|54.463|9.234|DE|Schleswig-Holstein|64
 Osburn|47.506|-115.999|US|Idaho|64
 Ostrów|50.098|21.593|PL|Subcarpathia|64
 Ostrožská Lhota|48.976|17.468|CZ|Zlín|63
+Oseosan|36.458|126.659|KR|Chungcheongnam-do|63|f
+Oso Bay|27.682|-97.310|US|Texas|63|f
+Ossa Mountain|49.866|-123.369|CA|British Columbia|63|f
+Ostrov Anzerskiy|65.145|36.096|RU|Arkhangelskaya|63|f
+Ostrov Bol’shoy Begichev|74.310|112.661|RU|Sakha|63|f
+Ostrov Breydi|80.279|55.313|RU|Arkhangelskaya|63|f
+Ostrov Chechen’|43.975|47.715|RU|Dagestan|63|f
+Ostrov Chetyre Pal’tsa|61.748|159.398|RU|Magadan Oblast|63|f
+Ostrov Dzheksona|81.274|56.543|RU|Arkhangelskaya|63|f
+Ostrov Iony|56.410|143.373|RU|Khabarovsk|63|f
+Ostrov Karla-Aleksandra|81.466|57.680|RU|Arkhangelskaya|63|f
+Ostrov Kharli|81.384|54.344|RU|Arkhangelskaya|63|f
+Ostrov Kolyuchin|67.462|-174.609|RU|Chukotka|63|f
+Ostrov Malyy Taymyr|78.118|107.196|RU|Krasnoyarsk Krai|63|f
+Ostrov Nortbruk|79.962|51.017|RU|Arkhangelskaya|63|f
+Ostrov Payyera|81.157|57.697|RU|Arkhangelskaya|63|f
+Ostrov Peschanyy|74.317|116.100|RU|Sakha|63|f
+Ostrov Ruuskari|59.969|26.679|RU|Leningradskaya Oblast'|63|f
+Ostrov Seskar|60.020|28.381|RU|Leningradskaya Oblast'|63|f
+Ostrov Stolbovoy|74.063|135.898|RU|Sakha|63|f
+Ostrov Svinoy|39.757|49.583|AZ|Baki|63|f
+Ostrov Viner-Nëyshtadt|80.800|58.336|RU|Arkhangelskaya|63|f
+Ostrov Yeva-Liv|81.635|63.102|RU|Arkhangelskaya|63|f
+Ostrov Yttygran|64.616|-172.577|RU|Chukotka|63|f
+Ostrov Zemlya Georga|80.445|49.012|RU|Arkhangelskaya|63|f
+Ostrova Dunay|73.904|124.624|RU|Sakha|63|f
+Ostrova Izvestiy Tsentral’nogo Ispolnitel’nogo Komiteta|75.943|82.559|RU|Krasnoyarsk Krai|63|f
+Ostrova Skott-Gansena|75.303|86.188|RU|Krasnoyarsk Krai|63|f
+Osua Sukarno Timur|-4.083|137.185|ID|Central Papua|63|f
 Osek|49.776|13.591|CZ|Plzeň Region|63
 Ostheim|48.160|7.370|FR|Grand Est|63
 Osica de Jos|44.244|24.279|RO|Olt|63
@@ -296,6 +414,54 @@ Osivtsi|51.676|24.905|UA|Volyn|62
 Osteria|43.550|13.022|IT|The Marches|61
 Osoblaha|50.275|17.715|CZ|Moravian-Silesian Region|61
 Ostrovskoye|45.742|34.066|UA|Crimea|61
+Osage Mills Dam|36.294|-94.268|US|Arkansas|61|f
+Oscawana Lake|41.396|-73.849|US|New York|61|f
+Oshima Peninsula|42.000|140.500|JP||61|f
+Ošljak|42.194|20.913|XK||61|f
+Osmanabad Airport|18.280|76.056|IN|Maharashtra|61|f
+Osoyoos Lake|48.978|-119.437|US|Washington|61|f
+Ostend-Bruges International Airport|51.200|2.872|BE|Flanders|61|f
+Østensjøvatnet|59.890|10.827|NO|Oslo|61|f
+Osterhout Mountain|41.537|-75.899|US|Pennsylvania|61|f
+Osterkopf|51.289|8.672|DE|Hesse|61|f
+Østernvann|59.969|10.582|NO|Akershus|61|f
+Ostrov Amel’kina Griva|54.909|77.761|RU|Novosibirsk Oblast|61|f
+Ostrov Aptekarskiy|59.967|30.317|RU|St. Petersburg|61|f
+Ostrov Brusnëva|71.657|129.046|RU|Sakha|61|f
+Ostrov Cherepakha|47.185|38.957|RU|Rostov|61|f
+Ostrov Dikson|73.512|80.330|RU|Krasnoyarsk Krai|61|f
+Ostrov Dolgiy|69.269|59.076|RU|Nenets|61|f
+Ostrov Furugel’ma|42.467|130.922|RU|Primorye|61|f
+Ostrov Gallya|80.310|57.964|RU|Arkhangelskaya|61|f
+Ostrov Greem-Bell|80.810|64.001|RU|Arkhangelskaya|61|f
+Ostrov Idlidlya|67.049|-172.775|RU|Chukotka|61|f
+Ostrov Karaginskiy|58.942|164.180|RU|Kamchatka|61|f
+Ostrov Karkarpko|67.841|-175.762|RU|Chukotka|61|f
+Ostrov Keyna|81.075|58.667|RU|Arkhangelskaya|61|f
+Ostrov Kil’din|69.353|34.168|RU|Murmansk|61|f
+Ostrov Konevits|60.861|30.611|RU|Leningradskaya Oblast'|61|f
+Ostrov Krestovskiy|59.970|30.263|RU|St. Petersburg|61|f
+Ostrov Lisiy|42.760|132.907|RU|Primorye|61|f
+Ostrov Malyy Begichev|74.297|111.160|RU|Sakha|61|f
+Ostrov Markema|75.267|88.083|RU|Krasnoyarsk Krai|61|f
+Ostrov Mezhdusharskiy|71.250|52.835|RU|Arkhangelskaya|61|f
+Ostrov Nansena|80.500|54.167|RU|Arkhangelskaya|61|f
+Ostrov Pioner|79.868|92.521|RU|Krasnoyarsk Krai|61|f
+Ostrov Preobrazheniya|74.658|112.968|RU|Sakha|61|f
+Ostrov Putyatina|42.859|132.429|RU|Primorye|61|f
+Ostrov Russkiy|77.060|96.157|RU|Krasnoyarsk Krai|61|f
+Ostrov Shkota|42.941|131.833|RU|Primorye|61|f
+Ostrov Shmidta|81.182|90.867|RU|Krasnoyarsk Krai|61|f
+Ostrov Skrebtsova|43.218|131.912|RU|Primorye|61|f
+Ostrov Vardim|43.629|25.479|BG|Veliko Tarnovo|61|f
+Ostrov Vetren|44.140|27.073|BG|Silistra|61|f
+Ostrov Vil’cheka|79.944|58.649|RU|Arkhangelskaya|61|f
+Ostrov Zemlya Aleksandry|80.607|46.230|RU|Arkhangelskaya|61|f
+Ostrova Petra|76.583|113.000|RU|Krasnoyarsk Krai|61|f
+Ostrów Grabowski|53.431|14.594|PL|West Pomerania|61|f
+Ošupis|55.979|21.073|LT|Klaipėda County|61|f
+Oswald Dome|35.193|-84.558|US|Tennessee|61|f
+Oswego County Airport|43.351|-76.387|US|New York|61|f
 Osiek|51.367|16.234|PL|Lower Silesia|61
 Osceola Mills|40.850|-78.271|US|Pennsylvania|61
 Ostrov u Macochy|49.382|16.763|CZ|South Moravian|61
@@ -311,29 +477,246 @@ Ostapie|49.546|33.764|UA|Poltava|60
 Ostaszewo|54.213|18.951|PL|Pomerania|60
 Ossé|48.055|-1.450|FR|Brittany|60
 Osiek|53.722|18.491|PL|Pomerania|60
+Osiecznica|51.327|15.421|PL|Lower Silesia|60
+Ostrożnica|50.244|18.083|PL|Opole Voivodeship|60
+Osmanbükü|37.816|27.763|TR|Aydın|60
+Oslon|46.784|4.923|FR|Bourgogne-Franche-Comté|60
+Ostereistedt|53.302|9.171|DE|Lower Saxony|60
+Osthouse|48.402|7.643|FR|Grand Est|60
+Osogna|46.312|8.986|CH|Ticino|60
+Ostrau|51.309|12.056|DE|Saxony-Anhalt|60
+Osikov|49.175|21.262|SK|Prešov Region|60
+Osiek|53.169|19.386|PL|Kujawsko-Pomorskie|60
+Oselivka|48.440|26.618|UA|Chernivtsi|60
+Osiek|51.368|18.199|PL|Łódź Voivodeship|60
+Osoi|47.091|27.193|RO|Iași County|60
+Ostrohe|54.216|9.125|DE|Schleswig-Holstein|60
 Ossuccio|45.970|9.180|IT|Lombardy|60
+Osiecznica|52.077|15.050|PL|Lubusz|60
+Ossingen|47.612|8.728|CH|Zurich|60
+Ostřetín|50.045|16.030|CZ|Pardubice Region|60
 Osieck|51.967|21.419|PL|Mazovia|60
+Ossineke|44.902|-83.442|US|Michigan|59
+Ostrowy Tuszowskie|50.318|21.652|PL|Subcarpathia|59
+Oșlobeni|47.053|26.402|RO|Neamț County|59
 Osceola|38.047|-93.704|US|Missouri|59
+Osterby|54.454|9.751|DE|Schleswig-Holstein|59
+Oscoda|44.420|-83.331|US|Michigan|59
+Ostřešany|49.993|15.805|CZ|Pardubice Region|59
 Österbymo|57.825|15.274|SE|Östergötland|59
+Ostrov nad Oslavou|49.487|15.990|CZ|Vysocina|59
+Ostapivka|50.235|33.666|UA|Poltava|59
+Osenbach|47.986|7.218|FR|Grand Est|59
+Osterberg|48.150|10.167|DE|Bavaria|59
+Ošupe|56.853|26.742|LV|Madonas novads|59
+Östansjö|59.050|14.983|SE|Örebro|59
+Östra Husby|58.583|16.550|SE|Östergötland|59
+Osvětimany|49.056|17.250|CZ|Zlín|59
+Östansjö|66.092|17.523|SE|Norrbotten|59
+Ostumán|14.833|-89.167|HN|Copán Department|59
+Ostrowiec|54.276|16.671|PL|West Pomerania|59
 Osasio|44.871|7.608|IT|Piedmont|59
 Osceola|41.180|-97.548|US|Nebraska|59
+Ostseebad Baabe|54.360|13.704|DE|Mecklenburg-Vorpommern|59
+Osieczna|53.771|18.203|PL|Pomerania|58
 Oshkosh|41.405|-102.344|US|Nebraska|58
+Ossian|43.146|-91.765|US|Iowa|58
+Osteria di Ramazzano|43.171|12.462|IT|Umbria|58
+Ossimo Inferiore|45.943|10.236|IT|Lombardy|58
+O'Sullivan Peak|-71.433|-62.152|AQ||58|f
+Osa Peninsula|8.550|-83.500|CR|Puntarenas Province|58|f
+Oscar S Straus Memorial Fountain|38.894|-77.032|US|District of Columbia|58|f
+Oshakati Airport|-17.798|15.700|NA|Oshana Region|58|f
+Osman Gazi Bridge|40.755|29.516|TR|Yalova|58|f
+Osmani International Airport|24.961|91.871|BD|Sylhet Division|58|f
+Osmankajärvi|64.532|27.549|FI|Kainuu|58|f
+Ossipee Mountains|43.761|-71.312|US|New Hampshire|58|f
+Ostafyevo International Airport|55.504|37.510|RU|Moscow Oblast|58|f
+Osterrieth Range|-64.633|-63.200|AQ||58|f
+Ostrander Lake|37.624|-119.550|US|California|58|f
+Ostrov Adelaidy|81.630|61.945|RU|Arkhangelskaya|58|f
+Ostrov Aldzhera|80.385|56.005|RU|Arkhangelskaya|58|f
+Ostrov Arka|60.813|163.208|RU|Kamchatka|58|f
+Ostrov Bekkera|81.209|59.415|RU|Arkhangelskaya|58|f
+Ostrov Feklistova|55.006|136.977|RU|Khabarovsk|58|f
+Ostrov Gofmana|81.291|60.196|RU|Arkhangelskaya|58|f
+Ostrov Grili|81.018|58.556|RU|Arkhangelskaya|58|f
+Ostrov Gukera|80.229|53.018|RU|Arkhangelskaya|58|f
+Ostrov Kil’pola|61.203|29.940|RU|Karelia|58|f
+Ostrov Kizhi|62.083|35.217|RU|Karelia|58|f
+Ostrov Kolguyev|69.083|49.250|RU|Nenets|58|f
+Ostrov Komsomolets|80.587|95.095|RU|Krasnoyarsk Krai|58|f
+Ostrov Kuna|81.135|58.525|RU|Arkhangelskaya|58|f
+Ostrov Leykina|74.083|120.500|RU|Sakha|58|f
+Ostrov Luidzhi|80.821|54.929|RU|Arkhangelskaya|58|f
+Ostrov Mak-Klintoka|80.215|56.579|RU|Arkhangelskaya|58|f
+Ostrov Nansena|76.191|94.867|RU|Krasnoyarsk Krai|58|f
+Ostrov Nedorazumeniya|59.584|150.400|RU|Magadan Oblast|58|f
+Ostrov Ogoy|53.127|106.996|RU|Irkutsk Oblast|58|f
+Ostrov Popova|42.966|131.730|RU|Primorye|58|f
+Ostrov Sorevnovaniya|75.183|88.193|RU|Krasnoyarsk Krai|58|f
+Ostrov Starokadomskogo|78.259|106.511|RU|Krasnoyarsk Krai|58|f
+Ostrov Sverdrupa|74.556|79.454|RU|Krasnoyarsk Krai|58|f
+Ostrov Taymyr|76.225|95.988|RU|Krasnoyarsk Krai|58|f
+Ostrov Valaam|61.371|30.944|RU|Karelia|58|f
+Ostrov Vaygach|69.982|59.587|RU|Nenets|58|f
+Ostrov Zhokhova|76.140|152.710|RU|Sakha|58|f
+Ostrova Faddeya|76.974|108.039|RU|Krasnoyarsk Krai|58|f
+Ostrova Mona|75.711|88.489|RU|Krasnoyarsk Krai|58|f
+Ostrova Rimskogo-Korsakova|42.679|131.424|RU|Primorye|58|f
+Ostrowo|53.822|14.700|PL|West Pomerania|58|f
+Oswald West State Park|45.770|-123.960|US|Oregon|58|f
 Os de Balaguer|41.873|0.720|ES|Catalonia|58
+Östra Karup|56.426|12.936|SE|Skåne|58
+Osová Bítýška|49.325|16.168|CZ|Vysocina|58
+Ostseebad Ahrenshoop|54.383|12.424|DE|Mecklenburg-Vorpommern|58
+Ossarn|48.267|15.717|AT|Lower Austria|58
 Osini|39.823|9.496|IT|Sardinia|58
 Osmate|45.789|8.655|IT|Lombardy|58
+Osso de Cinca|41.666|0.191|ES|Aragon|58
+Osmond|42.360|-97.597|US|Nebraska|58
+Östra Grevie|55.467|13.133|SE|Skåne|58
+Ostrovy|53.733|28.386|BY|Minsk|57
+Osek|49.820|13.859|CZ|Central Bohemia|57
+Ossès|43.242|-1.285|FR|New Aquitaine|57
+Oskar-Fredriksborg|59.400|18.433|SE|Stockholm|57
+Osthoffen|48.587|7.556|FR|Grand Est|57
+Osino|40.932|-115.661|US|Nevada|57
+Osekovo|45.516|16.617|HR|Sisak-Moslavina|57
+Ostrowite|53.143|18.984|PL|Kujawsko-Pomorskie|57
+Oster-Ohrstedt|54.515|9.222|DE|Schleswig-Holstein|57
+Ostocapa|17.447|-99.224|MX|Guerrero|57
 Ospedaletto|46.043|11.554|IT|Trentino-Alto Adige|57
+Ostoyahualco|17.715|-98.968|MX|Guerrero|57
+Osterzell|47.883|10.750|DE|Bavaria|57
+Ostrander|40.266|-83.213|US|Ohio|57
+Osmanköy|39.014|30.286|TR|Afyonkarahisar Province|57
 Osa de la Vega|39.660|-2.760|ES|Castille-La Mancha|57
 Osiek Jasielski|49.638|21.488|PL|Subcarpathia|57
+Ostojićevo|44.859|19.233|BA|Srpska|57
 Os|62.496|11.223|NO|Innlandet|57
+Osiek|50.887|17.292|PL|Lower Silesia|57
+Osmotherley|54.368|-1.299|GB|England|56
+Osterstedt|54.108|9.574|DE|Schleswig-Holstein|56
+Ospital Monacale|44.667|11.700|IT|Emilia-Romagna|56
+Óssa|39.746|22.578|GR|Thessaly|56
+Ostrowy Baranowskie|50.338|21.658|PL|Subcarpathia|56
+Ostiches|50.679|3.759|BE|Wallonia|56
 Osasco|44.849|7.343|IT|Piedmont|56
+Oslávia|45.971|13.615|IT|Friuli Venezia Giulia|56
 Osiek Mały|52.276|18.602|PL|Greater Poland|56
+Ostenfeld|54.315|9.782|DE|Schleswig-Holstein|56
+Osek|49.318|13.963|CZ|South Bohemian Region|56
+Ostrowo|54.825|18.244|PL|Pomerania|56
+Oslavice|49.341|15.991|CZ|Vysocina|56
+Osmancea|44.014|28.324|RO|Constanța County|56
+Oseredek|50.428|23.162|PL|Lublin|56
 Ossimo Superiore|45.946|10.231|IT|Lombardy|55
+Ostrov|49.930|16.541|CZ|Pardubice Region|55
+Osuské|48.624|17.440|SK|Trnava Region|55
+Ostrovačice|49.211|16.409|CZ|South Moravian|55
+Osterbruch|53.778|8.941|DE|Lower Saxony|55
 Ostrowite|52.382|18.045|PL|Greater Poland|55
+Ostramondra|51.200|11.333|DE|Thuringia|55
+Osthausen-Wülfershausen|50.850|11.083|DE|Thuringia|55
+Osigo|46.012|12.350|IT|Veneto|55
+Oshnūzang|36.764|45.237|IR|West Azerbaijan|55
+Ossipee|36.172|-79.511|US|North Carolina|55
 Osteno|46.007|9.084|IT|Lombardy|55
+Ostrowite|53.420|19.274|PL|Warmia-Masuria|55
+Osynivka|47.341|30.222|UA|Odesa|55
+Osvračín|49.513|13.047|CZ|Plzeň Region|55
+Osborne|40.532|-80.169|US|Pennsylvania|55
+Osmanville|49.329|-1.080|FR|Normandy|55
+Ostvik|64.883|21.067|SE|Västerbotten|55
+Oskořínek|50.240|15.084|CZ|Central Bohemia|55
+Österby|57.718|18.801|SE|Gotland|54
+Ostrowite|53.633|17.668|PL|Pomerania|54
+Östnor|61.033|14.483|SE|Dalarna|54
+Osterwohle|52.837|11.008|DE|Saxony-Anhalt|54
+Osteria della Fontana|41.729|13.143|IT|Lazio|54
+Ostrówek|51.336|18.624|PL|Łódź Voivodeship|54
+Osan Ab|37.091|127.030|KR|Gyeonggi-do|54|f
+Osbornebreen|78.583|13.300|SJ|Svalbard|54|f
+Osceola Peak|48.831|-120.576|US|Washington|54|f
+Oscoda-Wurtsmith Airport|44.454|-83.374|US|Michigan|54|f
+Oscura Peak|33.647|-106.373|US|New Mexico|54|f
+Osechka Peak|-71.517|15.433|AQ||54|f
+Oseetah Lake|44.282|-74.133|US|New York|54|f
+Osh International Airport|40.609|72.793|KG|Osh Region|54|f
+Öskjuvatn|65.032|-16.744|IS|Northeast|54|f
+Oslo Ladegård|59.906|10.768|NO|Oslo|54|f
+Osmān Sāgar|17.378|78.299|IN|Telangana|54|f
+Osore-zan|41.300|141.067|JP|Aomori|54|f
+Osorno Airport|-40.640|-73.127|CL|Los Lagos Region|54|f
+Osøya|-69.467|39.617|AQ||54|f
+Osprey Reef|-13.917|146.622|AU|Queensland|54|f
+Ossa|-40.383|176.350|NZ|Manawatu-Wanganui|54|f
+Ossipee Lake|43.793|-71.131|US|New Hampshire|54|f
+Oste-Hamme-Kanal|53.338|8.973|DE|Lower Saxony|54|f
+Osten Transporter Bridge|53.694|9.183|DE|Lower Saxony|54|f
+Osterfjorden|60.545|5.318|NO|Vestland|54|f
+Ostia antica|41.753|12.286|IT|Lazio|54|f
+Ostrander Lake|46.168|-86.612|US|Michigan|54|f
+Oštrelj|44.687|16.627|BA|Federation of B&H|54|f
+Oštrica|43.990|20.138|RS|Central Serbia|54|f
+Ostriv Berezan'|46.600|31.411|UA|Mykolaiv|54|f
+Ostrov Champa|80.691|56.144|RU|Arkhangelskaya|54|f
+Ostrov Chistoy Banki|45.204|48.024|RU|Astrakhan Oblast|54|f
+Ostrov Gogenloe|81.602|58.475|RU|Arkhangelskaya|54|f
+Ostrov Makar|71.865|138.486|RU|Sakha|54|f
+Ostrov Rikorda|42.877|131.659|RU|Primorye|54|f
+Ostrov Tsiglera|80.956|57.519|RU|Arkhangelskaya|54|f
+Ostrov Tyuleniy|44.467|47.515|RU|Dagestan|54|f
+Ostrov Ush|53.577|142.376|RU|Sakhalin Oblast|54|f
+Ostrov Ushi|43.064|131.804|RU|Primorye|54|f
+Ostrov Verkhniy Oseredok|45.882|48.700|RU|Astrakhan Oblast|54|f
+Ostrov Vize|79.561|76.722|RU|Krasnoyarsk Krai|54|f
+Ostrova Anzhu|75.463|142.935|RU|Sakha|54|f
+Ostrova Arkticheskogo Instituta|75.520|81.811|RU|Krasnoyarsk Krai|54|f
+Ostrova Belaya Zemlya|81.666|62.609|RU|Arkhangelskaya|54|f
+Ostrowskie Lake|52.532|18.118|PL|Kujawsko-Pomorskie|54|f
+Ostrý Vrch|48.919|18.967|SK|Žilina Region|54|f
+Ostryy Point|-69.917|12.000|AQ||54|f
+Oswestry Castle|52.861|-3.055|GB|England|54|f
+Ossey-les-Trois-Maisons|48.436|3.742|FR|Grand Est|54
+Osternberg|48.245|13.028|AT|Upper Austria|54
+Osteria Nuova|43.731|11.344|IT|Tuscany|54
+Ostelucum|17.354|-92.599|MX|Chiapas|54
 Osteno-Claino|46.004|9.087|IT|Lombardy|54
+Osterhorn|53.868|9.703|DE|Schleswig-Holstein|53
 Oseja de Sajambre|43.137|-5.038|ES|Castille and León|50
 Osiglia|44.281|8.201|IT|Liguria|49
+O'Shaughnessy Dam|40.154|-83.125|US|Ohio|49|f
+O'Shea Peak|-70.433|66.517|AQ||49|f
+Osafjord|60.500|6.900|NO|Vestland|49|f
+Osborn Barracks|22.338|114.180|HK|Kowloon City|49|f
+Osborne, Mount|-78.617|-84.767|AQ||49|f
+Osburger Hochwald|49.674|6.821|DE|Rheinland-Pfalz|49|f
+Oscar Anderson House|61.219|-149.906|US|Alaska|49|f
+Oscar Point|-74.583|164.883|AQ||49|f
+Oscar Range|-17.967|125.417|AU|Western Australia|49|f
+Osea Island|51.717|0.767|GB|England|49|f
+Oseberg|59.317|10.450|NO|Vestfold|49|f
+Ospis|49.750|9.267|DE|Bavaria|49|f
+Osteen Bridge|28.803|-81.210|US|Florida|49|f
+Osterzgebirge|50.800|13.583|DE|Saxony|49|f
+Ostler Peak|40.747|-110.768|US|Utah|49|f
+Ostorfer See|53.611|11.397|DE|Mecklenburg-Vorpommern|49|f
+Ostrá|49.163|20.021|SK|Prešov Region|49|f
+Ostrov Batkachnyy|45.728|48.444|RU|Astrakhan Oblast|49|f
+Ostrov Kazanskiy|69.793|83.638|RU|Krasnoyarsk Krai|49|f
+Ostrov Kolosovykh|74.901|86.679|RU|Krasnoyarsk Krai|49|f
+Ostrov Kverini|81.216|56.142|RU|Arkhangelskaya|49|f
+Ostrov Ushakova|80.885|79.544|RU|Krasnoyarsk Krai|49|f
+Ostrov Yarok|71.527|137.621|RU|Sakha|49|f
+Ostrov Zayachiy|59.950|30.316|RU|St. Petersburg|49|f
+Ostrov Zyudev|45.558|47.969|RU|Astrakhan Oblast|49|f
+Ostrova Kolomeytseva|76.709|98.032|RU|Krasnoyarsk Krai|49|f
+Ostrova Tillo|75.536|89.587|RU|Krasnoyarsk Krai|49|f
+Oswego Municipal Airport|37.163|-95.042|US|Kansas|49|f
 Ostrówek|51.581|22.612|PL|Lublin|49
+Osterhever|54.385|8.766|DE|Schleswig-Holstein|48
 Osidda|40.524|9.221|IT|Sardinia|47
 Ossó de Sió|41.755|1.159|ES|Catalonia|47
 Ospitale di Cadore|46.328|12.323|IT|Veneto|46
@@ -341,20 +724,49 @@ Ossana|46.307|10.738|IT|Trentino-Alto Adige|46
 Osterwitz|46.859|15.090|AT|Styria|43
 Osteria dei Cacciatori-Stella|44.430|8.471|IT|Liguria|42
 Ossiach|46.674|13.984|AT|Carinthia|41
+Osage City Municipal Airport|38.636|-95.802|US|Kansas|40|f
+Osage Creek Bridge|36.241|-94.254|US|Arkansas|40|f
+Osage Hills|36.321|-95.423|US|Oklahoma|40|f
+Osage Hills State Park|36.742|-96.180|US|Oklahoma|40|f
+Osborn Range|81.419|-78.414|CA|Nunavut|40|f
+Osborne Hill|43.087|-75.031|US|New York|40|f
+Oscar Scherer State Park|27.175|-82.466|US|Florida|40|f
+Osceola Municipal Airport|35.692|-90.011|US|Arkansas|40|f
+Osceola Municipal Airport|38.020|-93.693|US|Missouri|40|f
+Osceola Municipal Airport|41.051|-93.691|US|Iowa|40|f
+Osgood Hill|42.707|-71.109|US|Massachusetts|40|f
+Oshinow Lake|49.452|-125.331|CA|British Columbia|40|f
+Oshkosh Public Museum|44.034|-88.558|US|Wisconsin|40|f
+Osicki Glacier|-84.683|170.750|AQ||40|f
+Osilinka Ranges|56.250|-125.687|CA|British Columbia|40|f
+Ostbahnbrücke|48.187|16.431|AT|Vienna|40|f
+Osterfelderkopf|47.439|11.051|DE|Bavaria|40|f
+Østre Bolæren|59.205|10.568|NO||40|f
+Ostredok|48.903|19.079|SK|Žilina Region|40|f
+Ostrzyca|51.056|15.763|PL|Lower Silesia|40|f
+Osuga Glacier|-72.567|166.917|AQ||40|f
+Oswego Canal|43.353|-76.429|US|New York|40|f
+Oswego Pond|43.852|-74.899|US|New York|40|f
 Osilnica|45.529|14.698|SI|Municipality of Osilnica|39
 Osornillo|42.370|-4.292|ES|Castille and León|38
 Ostana|44.693|7.189|IT|Piedmont|38
 Oseja|41.596|-1.700|ES|Aragon|35
 Ōsaka-sayama|34.495|135.551|JP|Osaka|0
+Osapsio|-8.479|117.413|ID|West Nusa Tenggara|0
 Osisioma|5.160|7.322|NG|Abia State|0
 Osmaci|44.402|18.916|BA|Srpska|0
 Osmancalı|38.763|27.253|TR|Manisa|0
 Osmangazi|40.197|29.059|TR|Bursa Province|0
 Osmanpaşa|39.625|34.965|TR|Yozgat|0
 Osøyro|60.184|5.464|NO|Vestland|0
+Osterby|54.800|9.217|DE|Schleswig-Holstein|0
 Ostermundigen|46.957|7.490|CH|Bern|0
 Osterode am Harz|51.727|10.251|DE|Lower Saxony|0
+Osterrade|54.187|9.354|DE|Schleswig-Holstein|0
+Osteseebad Karlshagen|54.114|13.833|DE|Mecklenburg-Vorpommern|0
+Ostochtersum|53.606|7.526|DE|Lower Saxony|0
 Oštra Luka|44.860|16.661|BA|Srpska|0
 Ostreni i Math|41.431|20.456|AL|Dibër County|0
 Ostrozhets|50.667|25.538|UA|Rivne Oblast|0
+Ostseebad Nienhagen|54.160|11.960|DE|Mecklenburg-Vorpommern|0
 Osu|7.585|4.623|NG|Osun State|0

@@ -37,6 +37,7 @@ Ayang-ni|38.247|125.795|KP|South Hwanghae|84
 Ayutla de los Libres|16.965|-99.098|MX|Guerrero|84
 Aykhal|65.934|111.483|RU|Sakha|84
 Āyikudi|9.003|77.345|IN|Tamil Nadu|84
+Ayakkum Hu|37.558|89.403|CN|Xinjiang|83|f
 Ayyampālaiyam|10.225|77.748|IN|Tamil Nadu|82
 Ayolas|-27.384|-56.840|PY|Misiones Department|82
 Ayaou-Sokpa|7.421|-5.614|CI|Vallée du Bandama District|82
@@ -51,9 +52,11 @@ Ayer Molek|2.203|102.317|MY|Melaka|81
 Aywaille|50.474|5.677|BE|Wallonia|81
 Ayutinskiy|47.782|40.148|RU|Rostov|81
 Ayntap|40.097|44.465|AM|Ararat|80
+Ayding Lake|42.658|89.274|CN|Xinjiang|80|f
 Ayer Hangat|6.421|99.822|MY|Kedah|80
 Aydar|49.533|39.118|UA|Luhansk|80
 ‘Ayn Jannā|32.335|35.764|JO|Ajloun|80
+Ayrag Nuur|48.900|93.467|MN|Uvs Province|79|f
 Ayakod|8.346|77.299|IN|Tamil Nadu|79
 Ayazlı|41.027|37.479|TR|Ordu|79
 Ayr|-19.574|147.407|AU|Queensland|79
@@ -82,6 +85,7 @@ Ayabaca|-4.640|-79.715|PE|Piura|74
 Āyask|33.887|58.382|IR|South Khorasan Province|74
 Ayden|35.473|-77.416|US|North Carolina|74
 Ayia Napa|34.982|34.002|CY|Ammochostos|73
+Āyelu Terara|10.084|40.704|ET|Āfar|73|f
 Ayna|-12.650|-73.917|PE|Ayacucho|73
 Aylesford|51.304|0.479|GB|England|73
 Aygavan|39.873|44.670|AM|Ararat|73
@@ -91,6 +95,7 @@ Ayahualulco|17.502|-99.183|MX|Guerrero|72
 Ayoquezco de Aldama|16.684|-96.844|MX|Oaxaca|72
 Aylesham|51.225|1.202|GB|England|72
 Ayusan Uno|13.956|121.308|PH|Calabarzon|71
+Aydar Lake|40.902|66.960|UZ|Jizzakh Region|71|f
 Ayotzintepec|17.672|-96.129|MX|Oaxaca|71
 Ayene|1.856|10.690|GQ|Wele-Nzas|71
 Áyios Nikólaos|38.421|23.648|GR|Central Greece|71
@@ -120,6 +125,9 @@ Ayapata|-13.777|-70.323|PE|Puno|68
 Aygestan|40.003|44.558|AM|Ararat|68
 Ayeneux|50.608|5.716|BE|Wallonia|68
 ‘Aynabūs|32.147|35.245|PS|West Bank|67
+Ayaminami Dam|32.058|131.121|JP|Miyazaki|67|f
+Ayerfjorden|79.717|12.100|SJ||67|f
+Ayub Bridge|27.694|68.889|PK|Sindh|67|f
 Aygeshat|40.075|44.061|AM|Armavir|67
 Ayní|39.394|68.538|TJ|Sughd|67
 Aymavilles|45.701|7.247|IT|Aosta Valley|66
@@ -131,6 +139,9 @@ Ayyūbīyah|35.033|36.736|SY|Hama|66
 Aygeshat|40.236|44.289|AM|Armavir|66
 Ayrum|41.188|44.904|AM|Tavush|65
 Ayotuxtla|20.649|-98.303|MX|Veracruz|65
+‘Aydhāb|22.333|36.483|SD|Red Sea|65|f
+Ayacara Airport|-42.308|-72.788|CL|Los Lagos Region|65|f
+Ayers Rock Airport|-25.189|130.978|AU|Northern Territory|65|f
 Ayometitla|19.207|-98.193|MX|Tlaxcala|65
 Aygevan|40.142|43.975|AM|Armavir|65
 Aydat|45.660|2.973|FR|Auvergne-Rhône-Alpes|65
@@ -145,6 +156,9 @@ Ayapa|15.112|-87.176|HN|Yoro Department|64
 Aygepat|39.956|44.592|AM|Ararat|63
 Ayveri|37.738|40.091|TR|Diyarbakır Province|63
 Ayl|49.633|6.550|DE|Rheinland-Pfalz|63
+‘Ayn al Ghazālah|32.167|23.333|LY|Darnah|63|f
+Ayodhya Airport|26.751|82.155|IN|Uttar Pradesh|63|f
+Aytos Point|-62.706|-60.050|AQ||63|f
 Ayotla|18.670|-98.373|MX|Puebla|63
 Aygün|38.430|41.245|TR|Diyarbakır Province|63
 Ayegui|42.657|-2.039|ES|Navarre|62
@@ -160,6 +174,8 @@ Ayía Triás|37.637|22.805|GR|Peloponnese|61
 ‘Ayn al Bayḑā|32.381|35.508|PS|West Bank|61
 Ayyelet HaShaẖar|33.023|35.577|IL|Northern District|61
 Áyios Thomás|38.277|23.589|GR|Central Greece|61
+Ay Khānom|37.133|69.450|AF|Takhar|61|f
+Ayutthaya Historical Park|14.355|100.569|TH|Phra Nakhon Si Ayutthaya|61|f
 Aydoilles|48.210|6.574|FR|Grand Est|61
 Áyios Adhrianós|37.600|22.846|GR|Peloponnese|61
 Aynalı|38.102|39.456|TR|Diyarbakır Province|61
@@ -169,14 +185,86 @@ Ayerbe|42.273|-0.688|ES|Aragon|60
 Áyios Vasílios|37.798|22.797|GR|Peloponnese|60
 Ayron|46.660|0.075|FR|New Aquitaine|60
 Ayzan-Kouamikro|7.478|-3.918|CI|Lacs District|60
+Áyios Ioánnis|38.448|24.005|GR|Central Greece|60
+Ayengrébo|7.427|-5.006|CI|Lacs District|60
+Ayazini|39.017|30.577|TR|Afyonkarahisar Province|60
 Ayna|38.550|-2.083|ES|Castille-La Mancha|59
+Ayalo|5.908|-3.934|CI|Lagunes District|59
+Ayherre|43.392|-1.254|FR|New Aquitaine|59
+Aydınyurdu|37.117|35.549|TR|Adana|59
+Áyiai Paraskiaí|35.209|25.205|GR|Crete|59
+Ayuquila|19.840|-104.271|MX|Jalisco|59
+Ayat’|57.034|60.233|RU|Sverdlovsk Oblast|59
+Aydınlar|41.375|28.204|TR|Istanbul|59
+Ayahualtempa|17.458|-99.037|MX|Guerrero|58
+Aylesford|45.033|-64.832|CA|Nova Scotia|58
+Aygut|40.683|45.176|AM|Gegharkunik|58
+Ayotzinapan|20.056|-97.538|MX|Puebla|58
+‘Ayn ad Duyūk al Fawqā|31.887|35.427|PS|West Bank|58
+Ayvalık|37.483|43.115|TR|Şırnak|58
+‘Ayn Qīniyā|31.927|35.150|PS|West Bank|58
+Áyios|38.904|23.060|GR|Central Greece|58
+Aydin Airport|37.815|27.889|TR|Aydın|58|f
+Ayvalı|40.751|41.878|TR|Erzurum|58
+Ayotoxtla|17.394|-98.836|MX|Guerrero|58
+Aydın|37.408|35.544|TR|Adana|58
+Áyios Kírikos|37.788|20.831|GR|Ionian Islands|57
+Aygabats|40.704|43.905|AM|Shirak|57
+Áyios Serafím|38.801|22.704|GR|Central Greece|57
+Ayamarca|-14.002|-75.049|PE|Huancavelica|57
+Aylburton|51.715|-2.553|GB|England|57
+Ayolia|20.831|-97.990|MX|Veracruz|57
+Ayotitlán|19.470|-104.185|MX|Jalisco|57
+‘Ayn Sīnyā|31.971|35.228|PS|West Bank|57
+Ayer|46.181|7.601|CH|Valais|57
+Ayen|45.247|1.327|FR|New Aquitaine|57
+Ayaskent|39.185|27.333|TR|İzmir Province|57
+Ayotzinapa|17.716|-99.239|MX|Guerrero|57
+Aynor|34.000|-79.199|US|South Carolina|56
+Aynho|51.995|-1.252|GB|England|56
+Ayabo|7.704|-4.831|CI|Vallée du Bandama District|56
+Ayahuasi|-15.147|-72.743|PE|Arequipa|56
+Ayehualaco (San Martín)|19.438|-97.707|MX|Puebla|56
+Ayavitle|18.201|-100.503|MX|Guerrero|56
+Áyios Dhimítrios|37.800|20.798|GR|Ionian Islands|56
+Ayvalıbağ|37.957|42.478|TR|Siirt|56
+Aydınkavak|40.183|43.321|TR|Kars Province|56
+Ayotuxco|18.742|-99.803|MX|México|56
+Aylesbeare|50.719|-3.363|GB|England|55
+Áyios Andréas|38.526|21.554|GR|West Greece|55
+Aynac|44.785|1.851|FR|Occitanie|55
+Ayton|55.842|-2.126|GB|Scotland|55
+Ayahualco|17.624|-99.186|MX|Guerrero|55
+Aye Kyant|21.974|98.897|MM|Shan State|55
 Ayrihuanca|-14.115|-72.614|PE|Apurímac Department|55
+Ayotla|19.921|-98.040|MX|Puebla|55
+Ayrens|44.985|2.327|FR|Auvergne-Rhône-Alpes|55
+Ayoxuxtla|18.269|-98.761|MX|Puebla|54
+Ayşehoca|37.264|35.851|TR|Adana|54
+Ayawasi Airport|-1.160|132.464|ID|Southwest Papua|54|f
+Aydos Dağı|40.931|29.257|TR|Istanbul|54|f
+Ayers Island|44.875|-68.670|US|Maine|54|f
+Ayūb National Park|33.570|73.082|PK|Punjab|54|f
+Aydoğdu|38.157|28.952|TR|Denizli|54
+Ayacaxtle|20.967|-97.995|MX|Veracruz|54
+Aydoğdu|36.950|40.140|TR|Şanlıurfa|54
+Ayacancha|-12.292|-74.911|PE|Huancavelica|54
+Ayvazlar|41.402|32.060|TR|Zonguldak Province|54
 Ayoó de Vidriales|42.130|-6.066|ES|Castille and León|53
 Ayahuay|-14.209|-73.059|PE|Apurímac Department|51
 Ayrampuni|-15.063|-69.881|PE|Puno|51
 Ayauca|-12.592|-76.036|PE|Lima region|49
+Ayapel Airport|8.294|-75.150|CO|Córdoba|49|f
+Aykhal Airport|65.962|111.545|RU|Sakha|49|f
+Ayton Castle|54.252|-0.485|GB|England|49|f
 Ayo|-15.682|-72.274|PE|Arequipa|48
 Ayódar|40.000|-0.367|ES|Valencia|47
+Aydon Castle|54.991|-1.999|GB|England|40|f
+Aye Mountain|50.850|-115.635|CA|Alberta|40|f
+Aylesford Lake|44.944|-64.662|CA|Nova Scotia|40|f
+Aylmer Lake|64.084|-108.501|CA|Northwest Territories|40|f
+Ayr Lake|70.400|-70.250|CA|Nunavut|40|f
+Ayyanakere|13.443|75.883|IN|Karnataka|40|f
 Ayuela|42.626|-4.660|ES|Castille and León|36
 ‘Ayn ‘Īsá|36.386|38.862|SY|Raqqa|0
 ‘Ayn al Bāshā|32.057|35.831|JO|Balqa|0
@@ -188,6 +276,7 @@ Ayuela|42.626|-4.660|ES|Castille and León|36
 ‘Ayn Shiqāq|35.394|36.030|SY|Latakia|0
 ‘Ayn Tamr|32.567|43.488|IQ|Karbala|0
 ‘Aynkāwah|36.231|43.994|IQ|Erbil|0
+A’yi Take|38.953|75.428|CN|Xinjiang|0
 Ayamaru|-1.274|132.193|ID|Southwest Papua|0
 Ayapamba|-3.611|-79.678|EC|El Oro|0
 Ayavarí|-12.382|-76.139|PE|Lima region|0
@@ -199,6 +288,8 @@ Ayete|7.544|3.223|NG|Oyo State|0
 Ayetoro|7.243|3.026|NG|Ogun State|0
 Ayl|30.206|35.536|JO|Ma’an|0
 Ayn Halaqim|34.940|36.322|SY|Hama|0
+Ayofanu|-9.875|124.591|ID|East Nusa Tenggara|0
 Ayotupas|-9.697|124.708|ID|East Nusa Tenggara|0
 Ayrancı|37.361|33.688|TR|Karaman|0
 Ayungon|9.859|123.144|PH|Central Visayas|0
+Ayxin Siri|43.760|80.745|CN|Xinjiang|0

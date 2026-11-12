@@ -7,26 +7,32 @@ Capiatá|-25.355|-57.445|PY|Central Department|106
 Cape Coral|26.563|-81.950|US|Florida|105
 Capas|15.331|120.590|PH|Central Luzon|104
 Cap-Haïtien|19.759|-72.198|HT|Nord|103
+Cape of Good Hope|-34.350|18.479|ZA|Western Cape|101|f
+Cape Horn|-55.980|-67.289|CL|Region of Magallanes|98|f
 Capanema|-1.196|-47.181|BR|Pará|97
 Capelle aan den IJssel|51.929|4.578|NL|South Holland|96
 Capão da Canoa|-29.746|-50.010|BR|Rio Grande do Sul|96
 Capitão Poço|-1.746|-47.059|BR|Pará|95
 Capivari|-22.995|-47.508|BR|São Paulo|94
 Capão Bonito|-24.006|-48.349|BR|São Paulo|93
+Capernaum|32.881|35.575|IL|Northern District|93|f
 Capannori|43.842|10.573|IT|Tuscany|92
 Capacho Nuevo|7.825|-72.308|VE|Táchira|92
 Capelinha|-17.691|-42.516|BR|Minas Gerais|92
 Cape Girardeau|37.306|-89.518|US|Missouri|92
 Capela|-10.503|-37.053|BR|Sergipe|91
 Capim Grosso|-11.381|-40.013|BR|Bahia|90
+Cape Town Stadium|-33.903|18.411|ZA|Western Cape|89|f
 Capitán Bermúdez|-32.823|-60.719|AR|Santa Fe|89
 Capão do Leão|-31.763|-52.484|BR|Rio Grande do Sul|88
+Cape Town International Airport|-33.965|18.602|ZA|Western Cape|88|f
 Capivari de Baixo|-28.445|-48.958|BR|Santa Catarina|88
 Capinzal|-27.344|-51.612|BR|Santa Catarina|87
 Capela do Alto|-23.471|-47.735|BR|São Paulo|87
 Capunda|-11.133|14.467|AO|Kwanza Sul|87
 Caparica|38.662|-9.200|PT|Setúbal|87
 Capulhuac de Mirafuentes|19.193|-99.465|MX|México|86
+Cape Linguetta|40.422|19.289|AL|Vlorë County|86|f
 Capesterre-Belle-Eau|16.045|-61.564|GP|Guadeloupe|86
 Capanema|-25.672|-53.809|BR|Paraná|86
 Capitol Riverfront|38.878|-77.003|US|District of Columbia|86
@@ -34,27 +40,36 @@ Capoeiras|-8.735|-36.627|BR|Pernambuco|86
 Capalaba|-27.543|153.203|AU|Queensland|85
 Capistrano|-4.470|-38.901|BR|Ceará|85
 Cap-Rouge|46.748|-71.352|CA|Quebec|85
+Cape Dezhnev|66.081|-169.652|RU|Chukotka|85|f
+Capitol Reef National Park|38.367|-111.261|US|Utah|84|f
 Capua|41.105|14.213|IT|Campania|84
 Capela|-9.408|-36.074|BR|Alagoas|84
 Capitol Hill|38.889|-77.000|US|District of Columbia|84
 Capitán Sarmiento|-34.171|-59.791|AR|Buenos Aires|83
+Cape Agulhas|-34.831|20.014|ZA|Western Cape|83|f
+Capitán FAP Renán Elías Olivera Airport|-13.745|-76.220|PE|Ica|83|f
 Capinópolis|-18.682|-49.570|BR|Minas Gerais|83
 Capitão Leônidas Marques|-25.479|-53.614|BR|Paraná|83
 Capitão Enéas|-16.324|-43.711|BR|Minas Gerais|83
 Capurso|41.046|16.922|IT|Apulia|83
 Capilla de Guadalupe|20.827|-102.591|MX|Jalisco|82
+Cape Leeuwin|-34.376|115.136|AU|Western Australia|82|f
+Capitoline Hill|41.893|12.483|IT|Lazio|82|f
 Cape Horn|49.227|-122.837|CA|British Columbia|82
+Capitán Vicente Almandos Almonacid Airport|-29.382|-66.796|AR|La Rioja|82|f
 Captainganj|26.926|83.713|IN|Uttar Pradesh|82
 Cap-aux-Meules|47.382|-61.860|CA|Quebec|82
 Capela de Santana|-29.700|-51.325|BR|Rio Grande do Sul|82
 Capo d'Orlando|38.143|14.733|IT|Sicily|82
 Capixaba|-10.573|-67.676|BR|Acre|82
 Capdepera|39.702|3.435|ES|Balearic Islands|82
+Cape Soya|45.523|141.937|JP|Hokkaido|81|f
 Capela do Alto Alegre|-11.668|-39.838|BR|Bahia|81
 Capinzal do Norte|-4.728|-44.327|BR|Maranhão|81
 Capoterra|39.175|8.972|IT|Sardinia|81
 Capilla del Señor|-34.292|-59.101|AR|Buenos Aires|81
 Capitão de Campos|-4.457|-41.943|BR|Piauí|81
+Cap. FAP Víctor Montes Arias Airport|-4.577|-81.254|PE|Piura|81|f
 Capim Branco|-19.549|-44.117|BR|Minas Gerais|81
 Capitólio|-20.615|-46.050|BR|Minas Gerais|80
 Caparrapí|5.346|-74.491|CO|Cundinamarca|80
@@ -63,9 +78,11 @@ Cap Negro II|35.660|-5.285|MA|Tanger-Tetouan-Al Hoceima|80
 Cape Canaveral|28.406|-80.605|US|Florida|80
 Capaci|38.171|13.239|IT|Sicily|80
 Capodrise|41.043|14.306|IT|Campania|80
+Cape Bon|37.089|11.035|TN|Nabeul Governorate|80|f
 Cap-Acadie|46.201|-64.324|CA|New Brunswick|79
 Capitán Bado|-23.267|-55.539|PY|Amambay Department|79
 Capilla del Monte|-30.861|-64.525|AR|Cordoba|79
+Cape Breton Island|46.033|-60.805|CA|Nova Scotia|79|f
 Caputira|-20.172|-42.271|BR|Minas Gerais|79
 Capriolo|45.633|9.932|IT|Lombardy|79
 Cape Saint Claire|39.043|-76.445|US|Maryland|79
@@ -75,20 +92,40 @@ Cappelle-la-Grande|51.000|2.358|FR|Hauts-de-France|78
 Capanne-Prato-Cinquale|43.997|10.156|IT|Tuscany|78
 Čapljina|43.121|17.684|BA|Federation of B&H|78
 Capriate San Gervasio|45.613|9.530|IT|Lombardy|78
+Cape Dorset Airport|64.231|-76.529|CA|Nunavut|78|f
+Cape Krusenstern|67.128|-163.745|US|Alaska|78|f
 Capácuaro|19.547|-102.052|MX|Michoacán|77
 Capbreton|43.642|-1.431|FR|New Aquitaine|77
 Capitol Gateway|38.891|-76.919|US|District of Columbia|77
+Cape Greco|34.956|34.085|CY|Ammochostos|77|f
+Cape Henlopen|38.806|-75.096|US|Delaware|77|f
+Cape Lisburne|68.881|-166.215|US|Alaska|77|f
 Capim|-6.916|-35.172|BR|Paraíba|77
 Capri|40.551|14.243|IT|Campania|77
 Capetinga|-20.616|-47.054|BR|Minas Gerais|76
+Cape Ann|42.649|-70.593|US|Massachusetts|76|f
+Cape Farewell|59.774|-43.912|GL|Kujalleq|76|f
 Capayán|-28.774|-66.047|AR|Catamarca|76
 Cappeln|52.810|8.114|DE|Lower Saxony|76
 Capraia e Limite|43.745|10.983|IT|Tuscany|75
 Capioví|-26.929|-55.058|AR|Misiones|75
+Cape Bruat|40.834|129.711|KP|North Hamgyong|75|f
+Cape Kumukahi|19.516|-154.807|US|Hawaii|75|f
+Cape Matapan|36.385|22.483|GR|Peloponnese|75|f
+Cape Shiriya|41.431|141.463|JP|Aomori|75|f
+Capitán José Daniel Vazquez Airport|-49.307|-67.803|AR|Santa Cruz|75|f
 Capena|42.142|12.545|IT|Lazio|75
 Cape May Court House|39.083|-74.824|US|New Jersey|75
 Capranica|42.258|12.173|IT|Lazio|74
 Capiago-Intimiano-Olmeda|45.769|9.128|IT|Lombardy|74
+Cape D’Aguilar|22.208|114.261|HK|Southern District|74|f
+Cape Flattery|48.386|-124.727|US|Washington|74|f
+Cape Guardafui|11.834|51.287|SO|Bari|74|f
+Cape Muzon|54.668|-132.689|US|Alaska|74|f
+Cape Newenham LRRS Airport|58.646|-162.063|US|Alaska|74|f
+Cape Otranto|40.107|18.520|IT|Apulia|74|f
+Cape Romanzof LRRS Airport|61.780|-166.039|US|Alaska|74|f
+Cape Zevgari|34.567|32.933|GB||74|f
 Capellades|41.530|1.687|ES|Catalonia|74
 Capinota|-17.711|-66.261|BO|Cochabamba|74
 Capula|19.674|-101.392|MX|Michoacán|74
@@ -98,6 +135,7 @@ Cap-d'Ail|43.721|7.406|FR|Provence-Alpes-Côte d'Azur|74
 Cap Malheureux|-19.984|57.614|MU|Rivière du Rempart|74
 Capistrello|41.972|13.396|IT|Abruzzo|74
 Capul|12.424|124.181|PH|Eastern Visayas|74
+Cape Cod|41.686|-70.243|US|Massachusetts|73|f
 Capula|19.700|-101.800|MX|Michoacán|73
 Capitan Ramon|10.760|123.115|PH|Western Visayas|73
 Capitão Andrade|-19.071|-41.864|BR|Minas Gerais|73
@@ -107,12 +145,18 @@ Capela Nova|-20.923|-43.618|BR|Minas Gerais|73
 Capannoli|43.589|10.673|IT|Tuscany|73
 Capriano del Colle|45.475|10.132|IT|Lombardy|73
 Capaccio Scalo|40.455|15.009|IT|Campania|73
+Cape Barren Island|-40.390|148.205|AU|Tasmania|72|f
 Cappella Maggiore|45.972|12.359|IT|Veneto|72
 Caprarola|42.323|12.238|IT|Lazio|72
 Capivari do Sul|-30.145|-50.515|BR|Rio Grande do Sul|72
 Capitão Gervásio Oliveira|-8.490|-41.820|BR|Piauí|72
 Capalonga|14.331|122.494|PH|Bicol Region|72
 Capitanejo|6.529|-72.696|CO|Santander Department|72
+Cape Mendocino|40.439|-124.410|US|California|71|f
+Cape Monze|24.827|66.664|PK|Sindh|71|f
+Cape Nordkinn|71.133|27.645|NO|Finnmark|71|f
+Cape Saint Elias|59.797|-144.600|US|Alaska|71|f
+Cape Virgins|-52.334|-68.354|AR|Santa Cruz|71|f
 Căpuşu Mare|46.783|23.300|RO|Cluj County|71
 Caprino Veronese|45.605|10.795|IT|Veneto|71
 Capiibary|-24.732|-56.021|PY|San Pedro Department|71
@@ -125,6 +169,10 @@ Căpățânești|45.183|26.800|RO|Buzău County|70
 Capreol|46.706|-80.921|CA|Ontario|70
 Capitanejo|18.015|-66.534|PR|Juana Díaz|70
 Capizzi|37.848|14.480|IT|Sicily|70
+Cape Blanco State Airport|42.857|-124.520|US|Oregon|70|f
+Cape San Blas|29.664|-85.355|US|Florida|70|f
+Capitán FAP Carlos Martínez de Pinillos International Airport|-8.081|-79.109|PE|La Libertad|70|f
+Capul Island|12.429|124.163|PH|Eastern Visayas|70|f
 Capão do Cipó|-28.934|-54.556|BR|Rio Grande do Sul|70
 Capezzano-Cologna|40.715|14.774|IT|Campania|70
 Capulaan|15.905|120.537|PH|Ilocos|69
@@ -133,6 +181,14 @@ Capitão|-29.269|-51.989|BR|Rio Grande do Sul|69
 Capissayan Sur|18.051|121.818|PH|Cagayan Valley|69
 Capaga|11.438|122.748|PH|Western Visayas|69
 Capolona|43.567|11.864|IT|Tuscany|69
+Cap de Formentor|39.962|3.214|ES|Balearic Islands|69|f
+Cape Cod Bay|42.033|-70.416|US|Massachusetts|69|f
+Cape Greig|57.729|-157.697|US|Alaska|69|f
+Cape Patience|48.643|144.745|RU|Sakhalin Oblast|69|f
+Cape Perpetua|44.287|-124.115|US|Oregon|69|f
+Cape Verde Islands|15.922|-24.139|CV||69|f
+Cape Yakataga|60.063|-142.432|US|Alaska|69|f
+Cape Zhelaniya|76.955|68.576|RU|Arkhangelskaya|69|f
 Cap-Santé|46.672|-71.788|CA|Quebec|69
 Capoluca|18.806|-97.027|MX|Veracruz|68
 Capu Codrului|47.531|25.987|RO|Suceava|68
@@ -153,6 +209,11 @@ Caprino|45.749|9.492|IT|Lombardy|67
 Capriano|45.723|9.255|IT|Lombardy|67
 Capriglia Irpina|40.960|14.777|IT|Campania|67
 Capu Câmpului|47.508|25.980|RO|Suceava|67
+Cap de Boumort|42.234|1.134|ES|Catalonia|67|f
+Cap. FAP José A. Quiñones Gonzáles International Airport|-6.786|-79.828|PE|Lambayeque|67|f
+Cape Brett Peninsula|-35.172|174.331|NZ|Northland|67|f
+Cape Palos|37.636|-0.689|ES|Murcia|67|f
+Captain Vilkitski Island|75.712|152.461|RU|Sakha|67|f
 Capellanía|8.302|-80.553|PA|Coclé|67
 Capuluan|13.816|122.516|PH|Calabarzon|67
 Capalayan|9.741|125.544|PH|Caraga|67
@@ -170,6 +231,24 @@ Căpâlniţa|46.367|25.517|RO|Harghita County|66
 Capralba|45.444|9.644|IT|Lombardy|66
 Capirro|41.254|16.422|IT|Apulia|66
 Caparroso|18.345|-92.804|MX|Tabasco|66
+Cap Skirring Airport|12.391|-16.743|SN|Ziguinchor|65|f
+Cape Alitak|56.843|-154.310|US|Alaska|65|f
+Cape Battangan|15.235|108.944|VN|Quang Ngai|65|f
+Cape Chaplin|64.406|-172.228|RU|Chukotka|65|f
+Cape Denbigh|64.379|-161.530|US|Alaska|65|f
+Cape Jaffa|-36.955|139.804|AU|South Australia|65|f
+Cape Juby|27.953|-12.917|MA|Laayoune-Sakia El Hamra|65|f
+Cape Lutke|54.483|-164.333|US|Alaska|65|f
+Cape Prince of Wales|65.595|-168.092|US|Alaska|65|f
+Cape Race|46.658|-53.073|CA|Newfoundland and Labrador|65|f
+Cape Ray|47.618|-59.302|CA|Newfoundland and Labrador|65|f
+Cape Schmidt|68.921|-179.456|RU|Chukotka|65|f
+Capitán Av. Juan Cochamanidis Airport|-16.383|-60.967|BO|Santa Cruz Department|65|f
+Capitán Germán Quiroga Guardia Airport|-14.858|-66.737|BO|Beni Department|65|f
+Capitol Peak|39.150|-107.083|US|Colorado|65|f
+Cappielow|55.941|-4.727|GB|Scotland|65|f
+Capraia|43.037|9.818|IT|Tuscany|65|f
+Capt. J. Montenegro Airport|7.557|-80.023|PA|Los Santos Province|65|f
 Capac|43.013|-82.928|US|Michigan|65
 Capacho|19.964|-101.229|MX|Michoacán|65
 Capaccio|40.424|15.080|IT|Campania|65
@@ -185,6 +264,28 @@ Cappelletta|45.105|10.778|IT|Lombardy|64
 Capinghem|50.646|2.962|FR|Hauts-de-France|64
 Capendu|43.187|2.556|FR|Occitanie|64
 Capitignano|40.719|14.905|IT|Campania|64
+Cape Alexandra|-54.000|-38.000|GS||63|f
+Cape Catastrophe|-34.983|136.000|AU|South Australia|63|f
+Cape Cornwall|50.133|-5.700|GB|England|63|f
+Cape Flannery|-59.450|-27.350|GS||63|f
+Cape Hawaii|71.025|-177.904|RU|Chukotka|63|f
+Cape Henry|36.931|-76.018|US|Virginia|63|f
+Cape Kalekta|54.008|-166.371|US|Alaska|63|f
+Cape Liptrap|-38.909|145.922|AU|Victoria|63|f
+Cape Nuñez|-54.269|-37.412|GS||63|f
+Cape Otway|-38.867|143.517|AU|Victoria|63|f
+Cape Peninsula|-34.167|18.333|ZA|Western Cape|63|f
+Cape Saint Mary|-25.596|45.139|MG|Androy|63|f
+Cape Spencer|-35.300|136.883|AU|South Australia|63|f
+Cape Spencer|58.210|-136.665|US|Alaska|63|f
+Cape St. Francis|47.810|-52.786|CA|Newfoundland and Labrador|63|f
+Cape Stallworthy|81.385|-93.502|CA|Nunavut|63|f
+Cape Sudest|-8.741|148.472|PG|Oro Province|63|f
+Caper Peak|48.434|-113.498|US|Montana|63|f
+Capers Island|32.868|-79.679|US|South Carolina|63|f
+Capitol Butte|34.886|-111.807|US|Arizona|63|f
+Caples Lake|38.699|-120.045|US|California|63|f
+Caprera|41.208|9.465|IT|Sardinia|63|f
 Cap-Chat|49.097|-66.685|CA|Quebec|63
 Captieux|44.292|-0.262|FR|New Aquitaine|63
 Capodimonte|42.548|11.907|IT|Lazio|63
@@ -205,6 +306,36 @@ Capriati A Volturno|41.468|14.146|IT|Campania|62
 Caposele|40.816|15.223|IT|Campania|61
 Capu Piscului|45.180|24.977|RO|Arges|61
 Capvern|43.102|0.317|FR|Occitanie|61
+Cap des Trois Fourches|35.440|-2.963|MA||61|f
+Cap Fréhel|48.687|-2.317|FR|Brittany|61|f
+Capay Hills|38.765|-122.119|US|California|61|f
+Cape Bidlingmaier|-53.017|73.533|HM||61|f
+Cape Blanco|42.836|-124.567|US|Oregon|61|f
+Cape Constantine|58.395|-158.898|US|Alaska|61|f
+Cape Corwin|59.924|-165.566|US|Alaska|61|f
+Cape Delgado|-10.692|40.639|MZ|Cabo Delgado Province|61|f
+Cape Disappointment|46.270|-124.076|US|Washington|61|f
+Cape Dolphin|-51.235|-58.967|FK||61|f
+Cape Espartel|35.792|-5.925|MA|Tanger-Tetouan-Al Hoceima|61|f
+Cape Girardeau Municipal Airport|37.225|-89.571|US|Missouri|61|f
+Cape Jellison|44.459|-68.846|US|Maine|61|f
+Cape Lookout|34.598|-76.538|US|North Carolina|61|f
+Cape Meares|45.486|-123.979|US|Oregon|61|f
+Cape Mesurado|6.313|-10.818|LR|Montserrado County|61|f
+Cape Pankof|54.672|-163.045|US|Alaska|61|f
+Cape Rosier|44.333|-68.799|US|Maine|61|f
+Cape Sarichef Airport|54.583|-164.906|US|Alaska|61|f
+Cape Sata|30.994|130.660|JP|Kagoshima|61|f
+Cape Shackleton|73.785|-56.774|GL|Avannaata|61|f
+Cape Vankarem|67.848|-175.801|RU|Chukotka|61|f
+Cape Verde|14.722|-17.504|SN|Dakar|61|f
+Cape Vilan|43.162|-9.214|ES|Galicia|61|f
+Capital Region International Airport|42.779|-84.587|US|Michigan|61|f
+Capitán Av. Vidal Villagomez Toledo Airport|-18.483|-64.099|BO|Santa Cruz Department|61|f
+Capitan Fuentes Martinez Airport Airport|-53.254|-70.319|CL|Region of Magallanes|61|f
+Captain Germán Olano Moreno Air Base|5.484|-74.657|CO|Cundinamarca|61|f
+Captain Jack Thomas/El Dorado Airport|37.778|-96.817|US|Kansas|61|f
+Capulin Peak|36.245|-106.767|US|New Mexico|61|f
 Capdenac|44.581|2.070|FR|Occitanie|61
 Capitan Loreto|43.017|12.648|IT|Umbria|61
 Capistrano|38.691|16.289|IT|Calabria|61
@@ -216,23 +347,259 @@ Capula|18.867|-99.965|MX|México|60
 Capella|-23.086|148.022|AU|Queensland|60
 Cape Charles|37.270|-76.016|US|Virginia|60
 Caprie|45.119|7.333|IT|Piedmont|60
+Capohuiza|27.132|-109.449|MX|Sonora|60
+Capellades|9.922|-83.785|CR|Cartago Province|60
+Capitol Hill Village|15.208|145.753|MP|Saipan|60
+Capitán Meza|-27.017|-55.567|PY|Itapúa|60
 Capachica|-15.642|-69.831|PE|Puno|60
+Capulapa|19.099|-96.887|MX|Veracruz|60
+Capu Dealului|44.629|23.478|RO|Gorj County|60
+Cappella|45.569|12.140|IT|Veneto|60
+Căpâlna|45.846|23.604|RO|Alba County|59
+Capulines|22.177|-101.051|MX|San Luis Potosí|59
+Caporalco Buenos Aires|18.519|-97.153|MX|Puebla|59
+Capellanía de Loera|21.038|-101.596|MX|Guanajuato|59
+Căpâlna de Jos|46.240|24.113|RO|Alba County|59
+Cappelle|42.067|13.380|IT|Abruzzo|59
+Căpușu Mic|46.797|23.254|RO|Cluj County|59
+Capodimonte|45.467|10.266|IT|Lombardy|59
 Capracotta|41.833|14.266|IT|Molise|59
+Cape Paterson|-38.671|145.621|AU|Victoria|59
+Capparuccia|43.130|13.626|IT|The Marches|59
+Cape St. George|48.492|-59.177|CA|Newfoundland and Labrador|58
+Cap de la Chèvre|48.168|-4.554|FR|Brittany|58|f
+Capanda Airport|-9.769|15.455|AO|Malanje|58|f
+Cape Beaufort|69.033|-163.841|US|Alaska|58|f
+Cape Bellue|-66.333|-65.950|AQ||58|f
+Cape Billings|69.877|176.094|RU|Chukotka|58|f
+Cape Bougainville|-51.300|-58.465|FK||58|f
+Cape Calmette|-68.059|-67.225|AQ||58|f
+Cape Chelyuskin|77.721|104.258|RU|Krasnoyarsk Krai|58|f
+Cape Circoncision|-54.397|3.292|BV||58|f
+Cape Columbine|-32.827|17.845|ZA|Western Cape|58|f
+Cape Corrientes|20.409|-105.695|MX|Jalisco|58|f
+Cape Cross|-21.773|13.950|NA|Erongo Region|58|f
+Cape Deceit|66.100|-162.743|US|Alaska|58|f
+Cape Du Couedic|-36.060|136.700|AU|South Australia|58|f
+Cape Fear Museum|34.236|-77.938|US|North Carolina|58|f
+Cape Fie|-54.444|3.416|BV||58|f
+Cape Laurens|-52.983|73.250|HM||58|f
+Cape Lisburne LRRS Airport|68.875|-166.110|US|Alaska|58|f
+Cape Lollo|-54.411|3.428|BV||58|f
+Cape Lopatka|50.866|156.666|RU|Kamchatka|58|f
+Cape May Inlet|38.939|-74.869|US|New Jersey|58|f
+Cape Meredith|-52.257|-60.651|FK||58|f
+Cape Meteor|-54.423|3.434|BV||58|f
+Cape Paryadin|-54.017|-38.079|GS||58|f
+Cape Pembroke|-51.682|-57.715|FK||58|f
+Cape Rachado|2.403|101.854|MY|Negeri Sembilan|58|f
+Cape Romano|25.846|-81.680|US|Florida|58|f
+Cape Three Points|4.739|-2.092|GH|Western|58|f
+Cape Ugat|57.871|-153.847|US|Alaska|58|f
+Cape Valdivia|-54.388|3.356|BV||58|f
+Cape Wrangell|52.923|172.458|US|Alaska|58|f
+Cape Wrath|58.626|-4.998|GB|Scotland|58|f
+Cape Yakan|69.592|177.470|RU|Chukotka|58|f
+Cape York|65.414|-167.467|US|Alaska|58|f
+Capital City Airport|40.221|-76.854|US|Pennsylvania|58|f
+Capitol Airport|43.086|-88.180|US|Wisconsin|58|f
+Capitol Lake|47.033|-122.908|US|Washington|58|f
+Capshaw Mountain|34.819|-86.738|US|Alabama|58|f
+Capulin Volcano National Monument|36.782|-103.971|US|New Mexico|58|f
+Capachique|-7.875|-78.307|PE|La Libertad|58
+Cappel|53.726|8.570|DE|Lower Saxony|58
+Capurro|-34.437|-56.464|UY|San José Department|58
+Capela|0.307|6.680|ST|São Tomé Island|58
+Cappoquin|52.146|-7.847|IE|Munster|58
+Capovilla-Castello|45.595|8.197|IT|Piedmont|58
 Capitello|45.208|11.140|IT|Veneto|58
+Cappel|49.072|6.848|FR|Grand Est|57
+Capomos|25.409|-108.129|MX|Sinaloa|57
+Cape Vincent|44.128|-76.333|US|New York|57
+Caprara d'Abruzzo|42.432|14.110|IT|Abruzzo|57
+Capșa|46.905|26.111|RO|Neamț County|57
+Cappelletta|45.570|12.062|IT|Veneto|57
 Capestrano|42.268|13.768|IT|Abruzzo|57
+Capolago|45.904|8.979|CH|Ticino|57
+Cappella Morrone|41.489|13.870|IT|Lazio|57
+Cap Estate|14.100|-60.943|LC|Gros-Islet|57
+Capian|44.711|-0.331|FR|New Aquitaine|57
+Cappamore|52.614|-8.336|IE|Munster|57
+Capitello|40.077|15.550|IT|Campania|56
 Capriglia|40.960|14.778|IT|Campania|56
 Capalbio|42.453|11.422|IT|Tuscany|56
 Capacmarca|-14.008|-72.001|PE|Cuzco Department|56
+Capilla de Márquez|20.379|-101.636|MX|Guanajuato|56
+Çaputlu|39.019|42.896|TR|Ağrı|56
+Caprecano|40.741|14.791|IT|Campania|56
+Cappelluccia|40.749|15.799|IT|Basilicate|56
+Caporiacco|46.146|13.093|IT|Friuli Venezia Giulia|55
+Capolago|45.794|8.810|IT|Lombardy|55
 Căpățânenii Pământeni|45.317|24.650|RO|Arges|55
 Capileira|36.961|-3.359|ES|Andalusia|55
+Captains Flat|-35.591|149.445|AU|New South Wales|55
+Captiva|26.522|-82.189|US|Florida|55
+Capo Mazzo|40.924|14.351|IT|Campania|55
+Capitano|39.357|16.271|IT|Calabria|55
+Capanni|44.157|12.430|IT|Emilia-Romagna|55
 Capitán Luis Ángel Vidal|15.601|-92.628|MX|Chiapas|55
+Capu Corbului|47.000|25.629|RO|Harghita County|55
+Capalbio Scalo|42.410|11.372|IT|Tuscany|55
+Capultitla|18.758|-97.043|MX|Veracruz|55
+Caprona|43.709|10.505|IT|Tuscany|55
 Cappella Cantone|45.247|9.838|IT|Lombardy|55
+Capdrot|44.681|0.922|FR|New Aquitaine|55
+Căpățânenii Ungureni|45.333|24.633|RO|Arges|54
+Cap de la Hague|49.727|-1.940|FR|Normandy|54|f
+Cap Ferrat|43.674|7.327|FR|Provence-Alpes-Côte d'Azur|54|f
+Cap Santa Clara|0.505|9.318|GA|Estuaire|54|f
+Cap Serrat|37.241|9.217|TN|Bizerte Governorate|54|f
+Cap Sigale|35.680|-1.020|DZ|Oran|54|f
+Cape Blossom|66.733|-162.495|US|Alaska|54|f
+Cape Charles|37.149|-75.958|US|Virginia|54|f
+Cape Cheetham|-70.300|162.700|AQ||54|f
+Cape Demidov|-54.143|-37.729|GS||54|f
+Cape Engaño|18.582|122.133|PH|Cagayan Valley|54|f
+Cape Espiritu Santo Mountains|12.550|125.183|PH|Eastern Visayas|54|f
+Cape Finniss|-33.627|134.832|AU|South Australia|54|f
+Cape Foulweather|44.772|-124.076|US|Oregon|54|f
+Cape Foulwind|-41.750|171.467|NZ||54|f
+Cape Froward|-53.896|-71.292|CL|Region of Magallanes|54|f
+Cape Gazert|-53.083|73.350|HM||54|f
+Cape Gloucester|-5.445|148.414|PG|West New Britain Province|54|f
+Cape Gloucester Airport|-5.453|148.443|PG|West New Britain Province|54|f
+Cape Grenville|-11.967|143.233|AU|Queensland|54|f
+Cape Harcourt|-54.502|-35.989|GS||54|f
+Cape Hollman|-4.998|150.096|PG|West New Britain Province|54|f
+Cape Kidnappers|-39.643|177.096|NZ|Hawke's Bay Region|54|f
+Cape Kinsey|-69.333|158.583|AQ||54|f
+Cape Kiwanda State Natural Area|45.216|-123.972|US|Oregon|54|f
+Cape Krusenstern National Monument|67.412|-163.502|US|Alaska|54|f
+Cape Lopez|-0.618|8.711|GA|Ogooué-Maritime|54|f
+Cape May County Airport|39.009|-74.908|US|New Jersey|54|f
+Cape Nao|38.732|0.231|ES|Valencia|54|f
+Cape North|-53.975|-37.742|GS||54|f
+Cape Palliser|-41.614|175.290|NZ|Wellington Region|54|f
+Cape Peron|-32.267|115.687|AU|Western Australia|54|f
+Cape Ramas|15.086|73.914|IN|Goa|54|f
+Cape Reinga|-34.421|172.680|NZ|Northland|54|f
+Cape Sorell|-42.200|145.172|AU|Tasmania|54|f
+Cape Spieden|-66.417|126.750|AQ||54|f
+Cape Spirit|-78.200|166.750|AQ||54|f
+Cape St Mary|36.960|-7.892|PT|Faro|54|f
+Cape Teall|-79.050|161.067|AQ||54|f
+Capella Islands|18.276|-64.890|VI|Saint Thomas Island|54|f
+Capital City Airport|38.182|-84.904|US|Kentucky|54|f
+Capitan Mountains|33.607|-105.364|US|New Mexico|54|f
+Capitol Peak|46.973|-123.136|US|Washington|54|f
+Capron Park|41.938|-71.297|US|Massachusetts|54|f
+Captain Nicolas Rojas Airport|-19.543|-65.724|BO|Potosí Department|54|f
+Captains Mountain|-27.917|151.150|AU|Queensland|54|f
+Captiva Island|26.528|-82.195|US|Florida|54|f
+Capuchin Catacombs of Palermo|38.112|13.340|IT|Sicily|54|f
+Capurganá Airport|8.633|-77.350|CO|Chocó|54|f
+Capeo|18.530|-101.039|MX|Michoacán|54
+Capula|20.509|-99.138|MX|Hidalgo|54
 Capmany|42.374|2.920|ES|Catalonia|54
 Capriana|46.263|11.338|IT|Trentino-Alto Adige|53
 Capitignano|42.520|13.301|IT|Abruzzo|53
 Capella|42.196|0.396|ES|Aragon|52
 Capraia Isola|43.051|9.843|IT|Tuscany|49
 Cappella de' Picenardi|45.159|10.230|IT|Lombardy|49
+Cap Bernard|-20.875|55.423|RE||49|f
+Cap Blanc-Nez|50.927|1.709|FR|Hauts-de-France|49|f
+Cap Canaille|43.196|5.549|FR|Provence-Alpes-Côte d'Azur|49|f
+Cap Caxine|36.813|2.953|DZ|Algiers|49|f
+Cap de Creus|42.319|3.323|ES|Catalonia|49|f
+Cap Ferret|44.618|-1.254|FR|New Aquitaine|49|f
+Cap Gris-Nez|50.872|1.582|FR|Hauts-de-France|49|f
+Cap Island Conservation Park|-33.945|135.119|AU|South Australia|49|f
+Cap Martin|43.749|7.488|FR|Provence-Alpes-Côte d'Azur|49|f
+Cape Arid National Park|-33.624|123.376|AU|Western Australia|49|f
+Cape au Moine|46.381|7.171|CH|Vaud|49|f
+Cape Banks|-37.917|140.400|AU|South Australia|49|f
+Cape Bering|65.002|-175.891|RU|Chukotka|49|f
+Cape Best|-54.094|-36.821|GS||49|f
+Cape Blanche|-33.017|134.150|AU|South Australia|49|f
+Cape Blanche Conservation Park|-33.030|134.169|AU|South Australia|49|f
+Cape Bojeador|18.492|120.564|PH|Ilocos|49|f
+Cape Borda|-35.750|136.583|AU|South Australia|49|f
+Cape Buller|-53.989|-37.375|GS||49|f
+Cape Byron|-28.633|153.638|AU|New South Wales|49|f
+Cape Campbell|-41.726|174.276|NZ||49|f
+Cape Capricorn|-23.485|151.237|AU|Queensland|49|f
+Cape Charlotte|-54.547|-35.899|GS||49|f
+Cape Clairault|-33.702|114.976|AU|Western Australia|49|f
+Cape Constance|-54.054|-37.002|GS||49|f
+Cape Crewe|-54.042|-37.136|GS||49|f
+Cape d'Or|45.291|-64.775|CA|Nova Scotia|49|f
+Cape Darnley|-54.456|-36.814|GS||49|f
+Cape Disappointment|-54.876|-36.122|GS||49|f
+Cape Fourcroy|-11.790|130.019|AU|Northern Territory|49|f
+Cape Gantheaume|-36.083|137.450|AU|South Australia|49|f
+Cape Gantheaume Conservation Park|-35.935|137.446|AU|South Australia|49|f
+Cape George|48.104|-122.885|US|Washington|49|f
+Cape Grafton|-16.865|145.916|AU|Queensland|49|f
+Cape Hart Conservation Park|-35.862|138.081|AU|South Australia|49|f
+Cape Hawke|-32.216|152.571|AU|New South Wales|49|f
+Cape Hillsborough National Park|-20.911|149.033|AU|Queensland|49|f
+Cape Hooker|-46.981|37.830|ZA|Western Cape|49|f
+Cape Horn|47.657|-120.917|US|Washington|49|f
+Cape Howe|-37.503|149.978|AU|Victoria|49|f
+Cape Jervis|-35.572|138.146|AU|South Australia|49|f
+Cape Lambert|-20.583|117.167|AU|Western Australia|49|f
+Cape Le Grand National Park|-33.937|122.237|AU|Western Australia|49|f
+Cape Leveque|-16.389|122.926|AU|Western Australia|49|f
+Cape Londonderry|-13.750|126.917|AU|Western Australia|49|f
+Cape Manifold|-22.684|150.835|AU|Queensland|49|f
+Cape Maundy Thursday|78.469|-92.985|CA|Nunavut|49|f
+Cape Melville|-14.167|144.517|AU|Queensland|49|f
+Cape Moreton|-27.032|153.468|AU|Queensland|49|f
+Cape Naturaliste|-33.531|115.005|AU|Western Australia|49|f
+Cape Nelson|-8.998|149.250|PG|Oro Province|49|f
+Cape Pallarenda Conservation Park|-19.192|146.771|AU|Queensland|49|f
+Cape Palmerston National Park|-21.588|149.429|AU|Queensland|49|f
+Cape Pillar|-43.226|148.006|AU|Tasmania|49|f
+Cape Portland|-40.750|147.950|AU|Tasmania|49|f
+Cape Preston|-20.850|116.200|AU|Western Australia|49|f
+Cape Pride|-54.000|-37.967|GS||49|f
+Cape Radstock|-33.200|134.333|AU|South Australia|49|f
+Cape Range National Park|-22.070|113.978|AU|Western Australia|49|f
+Cape Raoul|-43.240|147.797|AU|Tasmania|49|f
+Cape Rosa|-54.188|-37.413|GS||49|f
+Cape Royds|-77.543|166.143|AQ||49|f
+Cape Runaway|-37.533|177.983|NZ||49|f
+Cape Sable Island|43.467|-65.599|CA|Nova Scotia|49|f
+Cape Santiago|13.768|120.659|PH|Calabarzon|49|f
+Cape Shirley|16.999|-61.746|AG|Saint Paul Parish|49|f
+Cape Small|43.712|-69.845|US|Maine|49|f
+Cape Taputapu|-14.321|-170.844|AS|Western District|49|f
+Cape Torrens Conservation Park|-35.730|136.746|AU|South Australia|49|f
+Cape Tourville|-42.125|148.353|AU|Tasmania|49|f
+Cape Upstart National Park|-19.751|147.806|AU|Queensland|49|f
+Cape Vahsel|-54.762|-35.798|GS||49|f
+Cape Vakop|-54.381|-36.173|GS||49|f
+Cape Wickham|-39.600|143.950|AU|Tasmania|49|f
+Cape Willoughby|-35.850|138.117|AU|South Australia|49|f
+Cape Willoughby Conservation Park|-35.841|138.130|AU|South Australia|49|f
+Cape Wilson|-54.042|-37.174|GS||49|f
+Capel Island|51.882|-7.855|IE|Munster|49|f
+Capel Sound|-38.346|144.844|AU|Victoria|49|f
+Capitán Omar Darío Gerardi Airport|-31.441|-64.259|AR|Cordoba|49|f
+Capitancillo Island|10.990|124.104|PH|Central Visayas|49|f
+Capitol Dome|38.289|-111.218|US|Utah|49|f
+Capo Carbonara|39.096|9.521|IT|Sardinia|49|f
+Capo Mannu|40.033|8.367|IT|Sardinia|49|f
+Capo Milazzo|38.270|15.224|IT|Sicily|49|f
+Capo Miseno|40.783|14.083|IT|Campania|49|f
+Capo Palinuro|40.025|15.268|IT|Campania|49|f
+Capote|-28.340|-71.057|CL|Atacama|49|f
+Capricorn Cays National Park|-23.539|151.738|AU|Queensland|49|f
+Capricorn Coast National Park|-23.181|150.796|AU|Queensland|49|f
+Capstan Rocks|-64.956|-63.423|AQ||49|f
+Captain Cook Bridge|-34.008|151.128|AU|New South Wales|49|f
+Captain Cook Bridge|-27.483|153.029|AU|Queensland|49|f
+Captina Island|39.875|-80.786|US|West Virginia|49|f
 Capaya|-14.117|-73.321|PE|Apurímac Department|49
 Capri Leone|38.087|14.730|IT|Sicily|49
 Capovalle|45.753|10.544|IT|Lombardy|48
@@ -245,15 +612,131 @@ Caprezzo|45.982|8.563|IT|Piedmont|45
 Capdesaso|41.843|-0.183|ES|Aragon|44
 Caprauna|44.116|7.955|IT|Piedmont|42
 Capriglio|45.004|8.009|IT|Piedmont|40
+Ca' Pesaro|45.440|12.331|IT|Veneto|40|f
+Cap de Norfeu|42.240|3.266|ES|Catalonia|40|f
+Cap del Verd|42.201|1.614|ES|Catalonia|40|f
+Cap Gaspé|48.752|-64.169|CA|Quebec|40|f
+Cap Wolstenholme|62.581|-77.509|CA|Quebec|40|f
+Cape Alava|48.166|-124.733|US|Washington|40|f
+Cape Anguille|47.917|-59.399|CA|Newfoundland and Labrador|40|f
+Cape Arago State Park|43.306|-124.399|US|Oregon|40|f
+Cape Aston|69.991|-67.297|CA|Nunavut|40|f
+Cape au Moine|46.470|6.979|CH|Fribourg|40|f
+Cape Baring|70.038|-117.361|CA|Northwest Territories|40|f
+Cape Barrow|68.018|-110.136|CA|Nunavut|40|f
+Cape Bathurst|70.579|-128.068|CA|Northwest Territories|40|f
+Cape Bauld|51.642|-55.426|CA|Newfoundland and Labrador|40|f
+Cape Bexley|69.017|-115.920|CA|Nunavut|40|f
+Cape Blomidon|45.299|-64.337|CA|Nova Scotia|40|f
+Cape Bonavista|48.703|-53.085|CA|Newfoundland and Labrador|40|f
+Cape Cairo|78.835|-100.355|CA|Nunavut|40|f
+Cape Canso|45.300|-60.932|CA|Nova Scotia|40|f
+Cape Carnot|-34.933|135.625|AU|South Australia|40|f
+Cape Chidley|60.384|-64.432|CA|Newfoundland and Labrador|40|f
+Cape Chidley Islands|60.429|-64.462|CA|Nunavut|40|f
+Cape Chignecto|45.328|-64.944|CA|Nova Scotia|40|f
+Cape Christian|70.523|-68.287|CA|Nunavut|40|f
+Cape Coast Castle|5.104|-1.241|GH|Central|40|f
+Cape Cod Canal|41.768|-70.566|US|Massachusetts|40|f
+Cape Cod Museum of Natural History|41.754|-70.116|US|Massachusetts|40|f
+Cape Cod National Seashore|41.973|-70.038|US|Massachusetts|40|f
+Cape Columbia|83.114|-69.946|CA|Nunavut|40|f
+Cape Eglinton|70.784|-69.414|CA|Nunavut|40|f
+Cape Egmont|-39.283|173.750|NZ||40|f
+Cape Enrage|45.605|-64.781|CA|New Brunswick|40|f
+Cape Farewell|-40.500|172.683|NZ||40|f
+Cape Flinders|68.268|-108.802|CA|Nunavut|40|f
+Cape Forchu|43.807|-66.160|CA|Nova Scotia|40|f
+Cape Fournier|-44.050|-176.333|NZ||40|f
+Cape Freels|46.612|-53.561|CA|Newfoundland and Labrador|40|f
+Cape Freels|49.250|-53.498|CA|Newfoundland and Labrador|40|f
+Cape Fullerton|63.967|-88.766|CA|Nunavut|40|f
+Cape George|45.733|-60.815|CA|Nova Scotia|40|f
+Cape Graham Moore|72.868|-76.065|CA|Nunavut|40|f
+Cape Henlopen State Park|38.767|-75.095|US|Delaware|40|f
+Cape Hope Islands|52.434|-78.783|CA|Nunavut|40|f
+Cape Hoppner|74.981|-112.851|CA|Northwest Territories|40|f
+Cape Jourimain|46.150|-63.799|CA|New Brunswick|40|f
+Cape La Hune|47.533|-56.848|CA|Newfoundland and Labrador|40|f
+Cape Lazo|49.701|-124.860|CA|British Columbia|40|f
+Cape Levvel|78.985|-94.335|CA|Nunavut|40|f
+Cape Liddon|74.635|-91.084|CA|Nunavut|40|f
+Cape Lookout State Park|45.353|-123.972|US|Oregon|40|f
+Cape Lovitt|-50.800|165.869|NZ||40|f
+Cape Ludwig|77.952|-95.119|CA|Nunavut|40|f
+Cape Lyon|69.830|-122.953|CA|Northwest Territories|40|f
+Cape Maria Van Diemen|-34.475|172.645|NZ||40|f
+Cape May Canal|38.967|-74.963|US|New Jersey|40|f
+Cape May National Wildlife Refuge|39.211|-74.740|US|New Jersey|40|f
+Cape Meares National Wildlife Refuge|45.489|-123.968|US|Oregon|40|f
+Cape Mountain|65.576|-168.010|US|Alaska|40|f
+Cape Nome Mining District Discovery Sites|64.549|-165.413|US|Alaska|40|f
+Cape Norman|51.631|-55.901|CA|Newfoundland and Labrador|40|f
+Cape Norman Bay|51.617|-55.881|CA|Newfoundland and Labrador|40|f
+Cape North|47.037|-60.414|CA|Nova Scotia|40|f
+Cape Northumberland|-38.061|140.663|AU|South Australia|40|f
+Cape Parry|70.200|-124.533|CA|Northwest Territories|40|f
+Cape Pattisson|-43.750|-176.800|NZ||40|f
+Cape Pine|46.615|-53.532|CA|Newfoundland and Labrador|40|f
+Cape Range|51.497|-127.925|CA|British Columbia|40|f
+Cape Raper|69.734|-67.097|CA|Nunavut|40|f
+Cape Roger|47.350|-54.732|CA|Newfoundland and Labrador|40|f
+Cape Romain National Wildlife Refuge|33.005|-79.509|US|South Carolina|40|f
+Cape Sabine|78.724|-74.119|CA|Nunavut|40|f
+Cape Sabine|68.916|-164.608|US|Alaska|40|f
+Cape Saint Ann|7.573|-12.956|SL|Southern Province|40|f
+Cape Scott Park|50.733|-128.337|CA|British Columbia|40|f
+Cape Searle|67.234|-62.464|CA|Nunavut|40|f
+Cape Sheridan|82.472|-61.502|CA|Nunavut|40|f
+Cape Southwest|78.202|-92.034|CA|Nunavut|40|f
+Cape Spear|47.525|-52.621|CA|Newfoundland and Labrador|40|f
+Cape Spencer|45.317|-64.706|CA|Nova Scotia|40|f
+Cape Split|45.334|-64.496|CA|Nova Scotia|40|f
+Cape St. Charles|52.211|-55.625|CA|Newfoundland and Labrador|40|f
+Cape St. Gregory|49.400|-58.232|CA|Newfoundland and Labrador|40|f
+Cape St. John|50.000|-55.531|CA|Newfoundland and Labrador|40|f
+Cape St. Marys|44.081|-66.209|CA|Nova Scotia|40|f
+Cape Sverre|78.819|-98.204|CA|Nunavut|40|f
+Cape Terawhiti|-41.283|174.617|NZ||40|f
+Cape Thomas Hubbard|81.369|-94.119|CA|Nunavut|40|f
+Cape Turnagain|-40.491|176.622|NZ|Manawatu-Wanganui|40|f
+Cape Uivak|58.484|-62.565|CA|Newfoundland and Labrador|40|f
+Cape Vera|76.235|-89.217|CA|Nunavut|40|f
+Cape Wanbrow|-45.122|170.982|NZ|Otago|40|f
+Cape Wiles|-34.941|135.686|AU|South Australia|40|f
+Cape Wykoff|42.824|-74.784|US|New York|40|f
+Capes Lake|49.568|-125.294|CA|British Columbia|40|f
+Capidava|44.494|28.090|RO|Constanța County|40|f
+Capilano Bridge|53.556|-113.439|CA|Alberta|40|f
+Capilano Lake|49.368|-123.113|CA|British Columbia|40|f
+Capilano Suspension Bridge|49.343|-123.115|CA|British Columbia|40|f
 Capillas|42.014|-4.891|ES|Castille and León|40
+Capitol Records Tower|34.103|-118.327|US|California|40|f
+Capitol Reflecting Pool|38.890|-77.014|US|District of Columbia|40|f
+Capitol Square|39.961|-82.999|US|Ohio|40|f
+Capitoline Grounds (historical)|40.683|-73.949|US|New York|40|f
+Capitolium|45.540|10.226|IT|Lombardy|40|f
+Caples House Museum|45.890|-122.808|US|Oregon|40|f
+Capley, Mount|-79.533|-83.217|AQ||40|f
+Caplin Bay|52.617|-55.765|CA|Newfoundland and Labrador|40|f
+Capling Peak|-72.433|167.133|AQ||40|f
+Cappella Brancacci|43.768|11.244|IT|Tuscany|40|f
+Cappella Colleoni|45.703|9.662|IT|Lombardy|40|f
+Cappellari Glacier|-85.867|-158.667|AQ||40|f
+Cappelle Medicee|43.775|11.253|IT|Tuscany|40|f
+Capricorn Mountain|50.626|-123.532|CA|British Columbia|40|f
+Capsize Glacier|-74.033|163.333|AQ||40|f
+Captree State Park|40.641|-73.260|US|New York|40|f
 Cap Martinet|38.919|1.460|ES|Balearic Islands|0
 Capacho Viejo|7.829|-72.319|VE|Táchira|0
 Capafonts|41.300|1.033|ES|Catalonia|0
 Capaia|-8.336|20.217|AO|Luanda Norte|0
 Capangombe|-15.097|13.136|AO|Namibe|0
+Capar|-7.119|108.734|ID|Central Java|0
 Capaso|-17.184|-69.745|PE|Puno|0
 Capelongo|-14.885|15.082|AO|Huíla|0
 Capenda Camulemba|-9.418|18.435|AO|Luanda Norte|0
+Caper|-7.135|111.612|ID|East Java|0
 Capillas|-13.293|-75.542|PE|Huancavelica|0
 Capitanejo|8.012|-71.005|VE|Barinas|0
 Capolat|42.077|1.754|ES|Catalonia|0

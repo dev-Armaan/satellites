@@ -15,6 +15,8 @@ Smederevska Palanka|44.365|20.959|RS|Central Serbia|89
 Smithtown|40.856|-73.201|US|New York|88
 Smaliavičy|54.025|28.089|BY|Minsk|88
 Smithfield|41.922|-71.550|US|Rhode Island|87
+Smeerenburgfjorden|79.681|11.158|SJ||86|f
+Small Prespa Lake|40.755|21.097|AL||82|f
 Smithfield|35.508|-78.339|US|North Carolina|82
 Smithfield|-33.850|150.933|AU|New South Wales|82
 Smyrna|39.300|-75.605|US|Delaware|81
@@ -24,6 +26,7 @@ Smørumnedre|55.742|12.303|DK|Capital Region|80
 Smolenskoye|52.304|85.076|RU|Altai Krai|79
 Smithville|39.387|-94.581|US|Missouri|79
 Smižany|48.954|20.523|SK|Košice Region|79
+Smithers Airport|54.825|-127.183|CA|British Columbia|79|f
 Smiths Falls|44.905|-76.023|CA|Ontario|79
 Smithfield|36.982|-76.631|US|Virginia|78
 Smolenskaya|44.786|38.803|RU|Krasnodar Krai|78
@@ -31,6 +34,7 @@ Smithville|39.494|-74.457|US|New Jersey|77
 Smirnykh|49.746|142.834|RU|Sakhalin Oblast|77
 Smeeni|44.983|26.850|RO|Buzău County|77
 Smyshlyayevka|53.239|50.391|RU|Samara Oblast|75
+Smithton Airport|-40.835|145.084|AU|Tasmania|75|f
 Smirnovo|54.515|69.427|KZ|North Kazakhstan|75
 Smithfield|-30.214|26.531|ZA|Free State|75
 Smidovich|48.594|133.810|RU|Jewish Autonomous Oblast|75
@@ -47,11 +51,16 @@ Smith Mills|41.639|-70.991|US|Massachusetts|74
 Smithville|35.961|-85.814|US|Tennessee|73
 Smålandsstenar|57.162|13.412|SE|Jönköping|73
 Smyadovo|43.067|27.017|BG|Shumen|73
+Smederevo Airport|44.645|20.963|RS|Central Serbia|72|f
+Smiths Falls-Montague Airport|44.946|-75.941|CA|Ontario|72|f
+Smolensk North Airport|54.824|32.024|RU|Smolensk Oblast|72|f
 Smithville|30.009|-97.159|US|Texas|72
 Smala|35.717|0.754|DZ|Relizane|72
 Smârdan|45.483|27.933|RO|Galați County|72
 Smithton|-40.846|145.125|AU|Tasmania|72
 Smithton|38.409|-89.992|US|Illinois|71
+Smith Island|60.751|-78.416|CA|Nunavut|71|f
+Smith Island|37.145|-75.872|US|Virginia|71|f
 Smedby|56.674|16.243|SE|Kalmar|71
 Smedby|60.700|15.050|SE|Dalarna|71
 Smimou|31.210|-9.709|MA|Marrakesh-Safi|71
@@ -64,13 +73,19 @@ Smithsburg|39.655|-77.573|US|Maryland|70
 Smolenka|52.141|113.507|RU|Zabaykalskiy (Transbaikal) Kray|69
 Smyha|50.238|25.765|UA|Rivne Oblast|69
 Smolec|51.073|16.882|PL|Lower Silesia|69
+Smokvica Vela|43.729|15.477|HR|Šibenik-Knin|69|f
 Smârdioasa|43.850|25.433|RO|Teleorman County|68
 Smolino|56.275|43.091|RU|Nizhny Novgorod Oblast|68
 Smarves|46.511|0.350|FR|New Aquitaine|67
+Smara Airport|26.737|-11.686|MA|Laayoune-Sakia El Hamra|67|f
+Smøla|63.357|8.034|NO|Møre og Romsdal|67|f
 Smalley|52.999|-1.395|GB|England|67
 Smolenshchina|52.256|104.123|RU|Irkutsk Oblast|67
 Smithton|57.480|-4.151|GB|Scotland|66
 Smečno|50.188|14.040|CZ|Central Bohemia|66
+Smedhaamaaren|61.891|9.700|NO|Innlandet|65|f
+Smith Island|48.319|-122.842|US|Washington|65|f
+Smrk|50.889|15.273|CZ|Liberec Region|65|f
 Smoke Rise|33.892|-86.820|US|Alabama|65
 Smotrych|48.947|26.559|UA|Khmelnytskyi|65
 Smackover|33.365|-92.725|US|Arkansas|65
@@ -84,6 +99,13 @@ Smokey Point|48.152|-122.183|US|Washington|64
 Smârdan|43.934|22.966|RO|Dolj|64
 Smidary|50.291|15.477|CZ|Hradec Králové Region|64
 Šmarje–Sap|45.976|14.612|SI|Municipality of Grosuplje|63
+Smbat walls|40.511|43.574|TR|Kars Province|63|f
+Smith Cove|41.336|-72.189|US|Connecticut|63|f
+Smith Island|63.317|-67.948|CA|Nunavut|63|f
+Smith Peak|37.927|-119.735|US|California|63|f
+Smogornia|50.750|15.667|CZ|Hradec Králové Region|63|f
+Smoky Dome|43.494|-114.936|US|Idaho|63|f
+Smoky Hills|38.792|-97.998|US|Kansas|63|f
 Šmartno pri Litiji|46.044|14.845|SI|Municipality of Šmartno pri Litiji|63
 Šmarca|46.193|14.597|SI|Municipality of Kamnik|63
 Smile|50.926|33.585|UA|Sumy|63
@@ -100,20 +122,175 @@ Smetlede|50.966|3.928|BE|Flanders|62
 Smirna|44.724|27.355|RO|Ialomița County|62
 Smiths Lake|-32.380|152.503|AU|New South Wales|62
 Śmiłowo|53.136|16.921|PL|Greater Poland|61
+Småknoltane Peaks|-72.133|8.050|AQ||61|f
+Smålandsfarvandet|55.083|11.333|DK||61|f
+Small Island|-64.012|-61.455|AQ||61|f
+Smallwood Reservoir|54.083|-64.498|CA|Newfoundland and Labrador|61|f
+Småtind Peak|-72.550|-2.917|AQ||61|f
+Smeerenburgbreen|79.650|11.500|SJ|Svalbard|61|f
+Smith Bay|70.930|-154.400|US|Alaska|61|f
+Smith Point Airport|-11.132|132.158|AU|Northern Territory|61|f
+Smiukampen|61.882|9.680|NO|Innlandet|61|f
+Smoky Mountain|42.059|-113.680|US|Idaho|61|f
+Smrk|49.508|18.372|CZ|Moravian-Silesian Region|61|f
+Smyley Island|-72.842|-77.827|AQ||61|f
 Smârdan|45.287|28.004|RO|Tulcea County|61
 Smoky Lake|54.117|-112.469|CA|Alberta|61
 Smith|38.800|-119.327|US|Nevada|60
 Smile|48.676|38.916|UA|Luhansk|60
 Smythesdale|-37.643|143.686|AU|Victoria|60
+Șmig|46.225|24.445|RO|Sibiu County|60
 Smołdzino|54.663|17.214|PL|Pomerania|60
+Smithfield|44.630|-69.829|US|Maine|60
+Šmrika|45.250|14.602|HR|Primorje-Gorski Kotar|60
+Smârdan|44.883|26.833|RO|Buzău County|60
+Smotryky|50.279|32.138|UA|Poltava|60
+Smolinské|48.675|17.130|SK|Trnava Region|59
+Smeura|44.834|24.836|RO|Arges|59
+Smithville|34.070|-88.391|US|Mississippi|59
+Smolari|41.375|22.904|MK|Novo Selo|59
+Smadovița|44.480|23.202|RO|Mehedinți County|59
 Smokvica|42.931|16.896|HR|Dubrovnik-Neretva|59
+Smith River|41.928|-124.147|US|California|59
+Smithfield|39.803|-79.808|US|Pennsylvania|59
+Smithfield|40.271|-80.781|US|Ohio|58
+Smirnov Peak|-71.748|10.633|AQ||58|f
+Smith Field|36.190|-94.491|US|Arkansas|58|f
+Smith Mountain|42.482|-73.335|US|Massachusetts|58|f
+Smith Peninsula|-74.398|-61.606|AQ||58|f
+Smithers Lake|29.491|-95.649|US|Texas|58|f
+Smoke Creek Mountains|40.372|-119.965|US|Nevada|58|f
+Smoky Mountains|43.663|-114.665|US|Idaho|58|f
+Smolenskaya Mountain|-71.868|12.358|AQ||58|f
+Smooth Island|-32.485|133.309|AU|South Australia|58|f
+Smuttynose Island|42.982|-70.608|US|Maine|58|f
+Smygehuk|55.337|13.360|SE|Skåne|58|f
+Small Dole|50.900|-0.278|GB|England|58
+Smithers|38.181|-81.307|US|West Virginia|58
+Šmarje|45.501|13.718|SI|Urban Municipality of Koper|58
+Smiths Grove|37.053|-86.208|US|Kentucky|57
 Smārde|56.954|23.337|LV|Tukums Municipality|57
+Smrjene|45.938|14.592|SI|Municipality of Škofljica|57
+Smiach|51.766|31.746|UA|Chernihiv Oblast|57
+Smeerebbe-Vloerzegem|50.817|3.928|BE|Flanders|57
+Smârdan|48.079|26.469|RO|Botoșani County|57
+Smilevo|41.154|21.111|MK|Demir Hisar|57
+Smilno|49.386|21.353|SK|Prešov Region|57
+Smolyany|54.599|30.064|BY|Vitebsk|56
 Šmartno ob Paki|46.333|15.033|SI|Municipality of Šmartno ob Paki|56
+Smyków|50.144|21.127|PL|Lesser Poland|56
+Smarden|51.149|0.687|GB|England|56
+Smilovice|49.661|18.572|CZ|Moravian-Silesian Region|56
+Smolyachkovo|60.180|29.476|RU|St. Petersburg|56
+Smoky Bay|-32.378|133.934|AU|South Australia|56
+Smelterville|47.543|-116.182|US|Idaho|56
+Smalininkai|55.076|22.584|LT|Tauragė County|56
+Smithville|31.900|-84.252|US|Georgia|55
+Smithtown|-31.014|152.945|AU|New South Wales|55
+Smock|39.998|-79.783|US|Pennsylvania|55
+Šmarješke Toplice|45.862|15.222|SI|Municipality of Šmarješke Toplice|55
+Smallwood|41.665|-74.819|US|New York|55
+Smitshoek|51.856|4.483|NL|South Holland|55
+Smričani|43.773|17.001|BA|Federation of B&H|55
+Smestad|59.933|10.433|NO|Akershus|55
+Smilovice|50.307|14.961|CZ|Central Bohemia|55
+Smiley|29.268|-97.636|US|Texas|55
+Smithton|38.680|-93.093|US|Missouri|55
+Smrdáky|48.722|17.302|SK|Trnava Region|55
+S.Maria Fiumicello|40.032|15.842|IT|Basilicate|55
+Smârdan|44.017|24.665|RO|Teleorman County|55
+Smokuč|46.386|14.165|SI|Municipality of Žirovnica|54
+Smith Corner|35.478|-119.279|US|California|54
+Small Islet|-15.787|136.959|AU|Northern Territory|54|f
+Smallpox Bay|48.541|-123.160|US|Washington|54|f
+Smalls Hill|42.010|-70.040|US|Massachusetts|54|f
+Smallwood State Park|38.557|-77.185|US|Maryland|54|f
+Smarts Mountain|43.826|-72.032|US|New Hampshire|54|f
+Smartt Syndicate Dam|-30.616|23.298|ZA|Northern Cape|54|f
+Smbataberd|39.872|45.339|AM|Vayots Dzor|54|f
+Smiggers Island|-65.460|-65.351|AQ||54|f
+Smith Bay|-35.591|137.444|AU|South Australia|54|f
+Smith Cove|47.630|-122.386|US|Washington|54|f
+Smith Island|-62.981|-62.520|AQ||54|f
+Smith Lake|-66.117|101.283|AQ||54|f
+Smith Lake|64.866|-147.867|US|Alaska|54|f
+Smith Mountain|36.017|-116.688|US|California|54|f
+Smith Mountain Lake|37.063|-79.766|US|Virginia|54|f
+Smith Point|-64.825|-63.477|AQ||54|f
+Smith Reynolds Airport|36.136|-80.228|US|North Carolina|54|f
+Smith Sound|48.167|-53.665|CA|Newfoundland and Labrador|54|f
+Smith's Irrigation Ditch|39.707|-104.969|US|Colorado|54|f
+Smith’s Island|32.372|-64.664|BM|Saint Georgeʼs|54|f
+Smithsonian Butte|37.114|-113.080|US|Utah|54|f
+Smithsonian INPA PDBFF Reserve Number 2206|-2.317|-60.083|BR|Amazonas|54|f
+Smoky Wall|-54.589|-36.199|GS||54|f
+Smyrna Airport|36.011|-86.512|US|Tennessee|54|f
+Smorodshchyna|49.613|35.036|UA|Poltava|54
 Smarano|46.343|11.110|IT|Trentino-Alto Adige|54
 Smerillo|43.005|13.445|IT|The Marches|52
 Šmarjeta|45.883|15.250|SI|Municipality of Šmarješke Toplice|50
 Smithland|37.139|-88.403|US|Kentucky|49
 Smyków|51.044|20.400|PL|Świętokrzyskie|49
+Små-Lyderhorn|60.371|5.240|NO|Vestland|49|f
+Small Bay|-54.117|-36.783|GS||49|f
+Small Isles|55.850|-5.917|GB|Scotland|49|f
+Small Rock|-60.702|-45.592|AQ||49|f
+Smillie Peak|-54.278|-36.951|GS||49|f
+Smith Island|-34.983|136.029|AU|South Australia|49|f
+Smith Islands National Park|-20.680|149.153|AU|Queensland|49|f
+Smith Park|-32.916|151.734|AU|New South Wales|49|f
+Smith Peaks|-67.942|62.488|AQ||49|f
+Smith, Mount|-76.050|161.700|AQ||49|f
+Smoky Cape|-30.924|153.089|AU|New South Wales|49|f
+Smoky Range|48.537|-114.255|US|Montana|49|f
+Smooth Island|-65.228|-64.265|AQ||49|f
+Smooth Island|-42.941|147.784|AU|Tasmania|49|f
+Small River Caves Park|53.117|-119.511|CA|British Columbia|40|f
+Smear Lake|46.249|-91.322|US|Wisconsin|40|f
+Smelt Bay Park|50.031|-124.991|CA|British Columbia|40|f
+Smelter Mountain|37.262|-107.906|US|Colorado|40|f
+Smiley Mountain|43.700|-113.811|US|Idaho|40|f
+Smirnenski Point|-62.369|-59.379|AQ||40|f
+Smith College Museum of Art|42.319|-72.637|US|Massachusetts|40|f
+Smith Glacier|61.289|-147.816|US|Alaska|40|f
+Smith Island|54.153|-130.222|CA|British Columbia|40|f
+Smith Island|13.344|93.059|IN|Andaman and Nicobar|40|f
+Smith Islands|-66.300|110.450|AQ||40|f
+Smith Lake|44.070|-65.344|CA|Nova Scotia|40|f
+Smith Mine Disaster Historical Marker|45.157|-109.184|US|Montana|40|f
+Smith Mountain|32.810|-85.838|US|Alabama|40|f
+Smith Mountain Dam|37.041|-79.536|US|Virginia|40|f
+Smith Peak|43.576|-72.784|US|Vermont|40|f
+Smith Point|29.535|-94.769|US|Texas|40|f
+Smith Point County Park|40.755|-72.800|US|New York|40|f
+Smith Private Airport|45.029|-122.956|US|Oregon|40|f
+Smith Ridge|-79.117|-86.533|AQ||40|f
+Smith Rock State Park|44.369|-121.138|US|Oregon|40|f
+Smith Sound|51.298|-127.692|CA|British Columbia|40|f
+Smith's Island|44.925|-79.859|CA|Ontario|40|f
+Smithland Lock and Dam|37.164|-88.430|US|Kentucky|40|f
+Smithonia Plantation|34.001|-83.179|US|Georgia|40|f
+Smiths Hill|41.083|-74.747|US|New Jersey|40|f
+Smithson Glacier|-71.250|163.867|AQ||40|f
+Smithsonian S. Dillon Ripley Center|38.889|-77.027|US|District of Columbia|40|f
+Smithville Lake|39.397|-94.568|US|Missouri|40|f
+Smoke Camp Wildlife Management Area|39.151|-80.609|US|West Virginia|40|f
+Smoke Lake|46.868|-81.625|CA|Ontario|40|f
+Smoke Lake|54.364|-116.936|CA|Alberta|40|f
+Smoketown Airport|40.042|-76.205|US|Pennsylvania|40|f
+Smoki Museum|34.543|-112.459|US|Arizona|40|f
+Smoky Hill|46.232|-91.494|US|Wisconsin|40|f
+Smoky Mountain|37.441|-120.032|US|California|40|f
+Smoky Point|57.612|-157.694|US|Alaska|40|f
+Smolyan Point|-62.625|-60.432|AQ||40|f
+Smooth Island|44.900|-79.916|CA|Ontario|40|f
+Smooth Island|62.002|-72.291|CA|Nunavut|40|f
+Smoothrock Lake|50.540|-89.424|CA|Ontario|40|f
+Smoothwater Lake|47.394|-80.677|CA|Ontario|40|f
+Smuggler Cove Marine Park|49.514|-123.959|CA|British Columbia|40|f
+Smuggler Mine|39.193|-106.807|US|Colorado|40|f
+Smyrna Airport|39.304|-75.586|US|Delaware|40|f
+Smythe Shoulder|-74.300|-113.883|AQ||40|f
 Smedsby|63.117|21.700|FI|Ostrobothnia|0
 Smidyn|51.298|24.432|UA|Volyn|0
 Smínthi|41.231|24.880|GR|East Macedonia and Thrace|0

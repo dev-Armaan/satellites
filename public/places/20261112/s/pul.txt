@@ -5,12 +5,15 @@ Puli|23.966|120.970|TW|Taiwan|99
 Pul Pehlad|28.499|77.291|IN|Delhi|97
 Puliyankudi|9.175|77.398|IN|Tamil Nadu|96
 Pulivendla|14.421|78.225|IN|Andhra Pradesh|96
+Pulkovo Airport|59.800|30.262|RU|Leningradskaya Oblast'|96|f
 Pul-e Khumrī|35.945|68.715|AF|Baghlan|95
 Pulheim|51.000|6.806|DE|North Rhine-Westphalia|95
 Pula|44.868|13.848|HR|Istria|94
+Pulkovo|59.772|30.327|RU|Leningradskaya Oblast'|94|f
 Puławy|51.417|21.969|PL|Lublin|94
 Pulgaon|20.722|78.321|IN|Maharashtra|91
 Pullman|46.731|-117.180|US|Washington|90
+Pula Airport|44.894|13.922|HR|Istria|90|f
 Pūlakkōd|11.310|75.950|IN|Kerala|90
 Pulupandan|10.518|122.803|PH|Western Visayas|89
 Pulü|29.818|106.159|CN|Chongqing|87
@@ -26,9 +29,12 @@ Puliyūr|10.950|78.145|IN|Tamil Nadu|82
 Pullur|10.345|76.244|IN|Kerala|82
 Pulau Sebang|2.455|102.233|MY|Melaka|81
 Puliyūr|10.634|78.841|IN|Tamil Nadu|81
+Pulau Redang Airport|5.765|103.007|MY|Terengganu|81|f
 Pulo|15.246|120.928|PH|Central Luzon|81
 Pulāmbādi|11.412|78.714|IN|Tamil Nadu|81
 Pullambādi|10.941|78.910|IN|Tamil Nadu|80
+Pullman–Moscow Regional Airport|46.744|-117.109|US|Washington|80|f
+Pulmankijärvi|70.000|28.000|FI|Lapland|80|f
 Pulpí|37.412|-1.745|ES|Andalusia|80
 Pūlāmpatti|11.657|77.766|IN|Tamil Nadu|80
 Pulian|31.301|109.560|CN|Chongqing|80
@@ -40,6 +46,7 @@ Pulaski|35.200|-87.031|US|Tennessee|78
 Pulsnitz|51.183|14.014|DE|Saxony|77
 Puliyoorsalai|8.420|77.197|IN|Tamil Nadu|76
 Pulung Santol|15.046|120.562|PH|Central Luzon|75
+Pulau Tekukor|1.230|103.838|SG||74|f
 Pulyny|50.467|28.270|UA|Zhytomyr Oblast|74
 Puloypuloy|6.635|124.096|PH|Soccsksargen|74
 Pula|39.007|9.002|IT|Sardinia|74
@@ -47,32 +54,298 @@ Pulianas|37.223|-3.608|ES|Andalusia|74
 Pūlānkinar|10.591|77.197|IN|Tamil Nadu|74
 Pulnoy|48.703|6.258|FR|Grand Est|74
 Pulong Gubat|14.859|120.906|PH|Central Luzon|73
+Pulau Halmahera|0.600|127.850|ID|North Maluku|73|f
+Pulau Betong|5.314|100.184|MY|Penang|72|f
+Pulau Karimun Kecil|1.145|103.395|ID|Riau Islands|72|f
+Pulau Ketam|3.033|101.250|MY||72|f
+Pulau Kondor Islands|8.685|106.608|VN|Ho Chi Minh City (HCMC)|72|f
+Pulau Mangole|-1.862|125.835|ID|North Maluku|72|f
+Pulau Pawai|1.186|103.724|SG||72|f
+Pulau Simeulue|2.588|96.132|ID|Aceh|72|f
 Pullens Hope|-26.020|29.595|ZA|Mpumalanga|72
 Pulborough|50.958|-0.513|GB|England|72
+Pulau Nuhuyut|-5.619|133.043|ID|Maluku|71|f
+Pulau Waigeo|-0.172|130.825|ID|Southwest Papua|71|f
 Pulaski|44.672|-88.243|US|Wisconsin|71
 Pu Law Kone|13.014|98.680|MM|Tanintharyi Region|70
+Pulau Banda Besar|-4.554|129.911|ID|Maluku|70|f
+Pulau Keppel|1.264|103.812|SG||70|f
+Pulau Numfoor|-0.992|134.888|ID|Papua|70|f
+Pulau Semakau|1.205|103.770|SG||70|f
+Pulau-pulau Ayu|0.504|131.118|ID|Southwest Papua|70|f
+Pulau-pulau Talaud|4.190|126.800|ID|North Sulawesi|70|f
 Pulo|14.962|121.015|PH|Central Luzon|70
 Pūl|36.395|51.594|IR|Māzandarān|70
 Pulgon|40.147|71.730|KG|Batken|70
 Pulderbos|51.217|4.694|BE|Flanders|69
 Pulle|51.203|4.714|BE|Flanders|69
+Pulau Bacan|-0.566|127.506|ID|North Maluku|69|f
+Pulau Rinca|-8.694|119.686|ID|East Nusa Tenggara|69|f
+Pulau Tapah|2.355|96.242|ID|Aceh|69|f
+Pulau-pulau Banyak|2.167|97.250|ID|Aceh|69|f
+Pulau-pulau Sangihe|3.500|125.550|ID|North Sulawesi|69|f
+Pulau-pulau Tayandu|-5.604|132.244|ID|Maluku|69|f
 Pulversheim|47.838|7.301|FR|Grand Est|68
 Pulong Sampalok|14.961|121.061|PH|Central Luzon|67
 Pulangbato|13.754|121.393|PH|Calabarzon|67
 Pulaski|43.567|-76.128|US|New York|67
 Pulo|14.715|121.633|PH|Calabarzon|67
+Pulau Giligenting|-7.195|113.909|ID|East Java|67|f
+Pulau Karakelang|4.307|126.807|ID|North Sulawesi|67|f
+Pulau Kayoa|0.044|127.442|ID|North Maluku|67|f
+Pulau Mioswundi|-1.253|136.375|ID|Papua|67|f
+Pulau Nusabarung|-8.476|113.342|ID|East Java|67|f
+Pulau Raijua|-10.621|121.581|ID|East Nusa Tenggara|67|f
+Pulau Sarimbun|1.434|103.685|SG||67|f
+Pulau Semau|-10.239|123.377|ID|East Nusa Tenggara|67|f
+Pulau Senang|1.171|103.735|SG||67|f
+Pulau Sumba|-9.698|119.966|ID|East Nusa Tenggara|67|f
+Pulau Tanahjampea|-7.088|120.690|ID|South Sulawesi|67|f
+Pulau Yamdena|-7.600|131.417|ID|Maluku|67|f
+Pulau-pulau Natuna Selatan|2.750|109.000|ID|Riau Islands|67|f
+Pulau-pulau Sula|-2.016|125.634|ID|North Maluku|67|f
+Pulau-pulau Watubela|-4.619|131.747|ID|Maluku|67|f
+Pullen Island|-35.538|138.692|AU|South Australia|67|f
 Pulei|16.062|97.883|MM|Kayin State|66
 Pullenreuth|49.933|12.000|DE|Bavaria|66
+Pulau Anak Bukum|1.231|103.757|SG||65|f
+Pulau Besar|-8.463|122.376|ID|East Nusa Tenggara|65|f
+Pulau Bunyu|3.525|117.814|ID|North Kalimantan|65|f
+Pulau Buton|-4.745|122.935|ID|Southeast Sulawesi|65|f
+Pulau Enggano|-5.400|102.267|ID|Bengkulu|65|f
+Pulau Gebe|-0.076|129.449|ID|North Maluku|65|f
+Pulau Kukup|1.322|103.428|MY|Johor|65|f
+Pulau Malawa|-3.109|127.934|ID|Maluku|65|f
+Pulau Musi|1.080|97.930|ID|North Sumatra|65|f
+Pulau Num|-1.506|135.193|ID|Papua|65|f
+Pulau Sajahat|1.401|104.020|SG||65|f
+Pulau Sanana|-2.224|125.935|ID|North Maluku|65|f
+Pulau Seringat|1.230|103.854|SG||65|f
+Pulau Sudong|1.208|103.721|SG||65|f
+Pulau Tinggi|2.301|104.120|MY|Johor|65|f
+Pulau Ubin|1.412|103.964|SG||65|f
+Pulau Wetar|-7.800|126.300|ID|Maluku|65|f
+Pulau-pulau Tanimbar|-7.500|131.500|ID|Maluku|65|f
+Pulicat Lagoon|13.579|80.184|IN||65|f
+Pulpit Mountain|-60.683|-45.216|AQ||65|f
 Pulumer|39.484|39.895|TR|Tunceli|65
 Pulkkila|64.267|25.867|FI|North Ostrobothnia|64
 Pulce|44.449|11.412|IT|Emilia-Romagna|64
+Pulau Ambelau|-3.859|127.196|ID|Maluku|63|f
+Pulau Anak Krakatau|-6.101|105.424|ID|Lampung|63|f
+Pulau Batik|4.714|118.457|MY|Sabah|63|f
+Pulau Bintan|1.100|104.525|ID|Riau Islands|63|f
+Pulau Hantu|1.225|103.749|SG||63|f
+Pulau Jambongan|6.681|117.474|MY|Sabah|63|f
+Pulau Karampuang|-2.631|118.886|ID|West Sulawesi|63|f
+Pulau Komoran|-8.300|138.750|ID|South Papua|63|f
+Pulau Liran|-8.013|125.746|ID|Maluku|63|f
+Pulau Menipo|-10.153|124.156|ID|East Nusa Tenggara|63|f
+Pulau Nusalaut|-3.668|128.786|ID|Maluku|63|f
+Pulau Obi|-1.554|127.772|ID|North Maluku|63|f
+Pulau Pantar|-8.417|124.117|ID|East Nusa Tenggara|63|f
+Pulau Pemanggil|2.583|104.333|MY|Johor|63|f
+Pulau Poat|-0.499|122.571|ID|Central Sulawesi|63|f
+Pulau Pulau Obi|-1.412|127.669|ID|North Maluku|63|f
+Pulau Redang|5.777|103.008|MY|Terengganu|63|f
+Pulau Sambu|1.160|103.900|ID|Riau Islands|63|f
+Pulau Saparua|-3.555|128.664|ID|Maluku|63|f
+Pulau Serangoon|1.409|103.924|SG||63|f
+Pulau Sumbawa|-8.750|118.000|ID|West Nusa Tenggara|63|f
+Pulau Tabawan|4.797|118.388|MY|Sabah|63|f
+Pulau Tembakul|1.224|103.860|SG||63|f
+Pulau Tenggul|4.805|103.682|MY|Terengganu|63|f
+Pulau Teor|-4.750|131.750|ID|Maluku|63|f
+Pulau Tinjil|-6.962|105.792|ID|Banten|63|f
+Pulau Yuan|-2.132|130.121|ID|Southwest Papua|63|f
+Pulau-pulau Natuna|3.250|108.250|ID|Riau Islands|63|f
+Pulau-pulau Wakde|-1.940|139.006|ID|Papua|63|f
+Pulgok-san|37.346|127.135|KR|Gyeonggi-do|63|f
 Pulgar|39.694|-4.152|ES|Castille-La Mancha|63
 Pulligny|48.539|6.144|FR|Grand Est|62
+Pul-e Khishtī|34.516|69.181|AF|Kabul|61|f
+Pulau Adonara|-8.320|123.173|ID|East Nusa Tenggara|61|f
+Pulau Ambon|-3.618|128.167|ID|Maluku|61|f
+Pulau Bidung Laut|5.621|103.061|MY|Terengganu|61|f
+Pulau Buru|-3.400|126.650|ID|Maluku|61|f
+Pulau Chermin|4.930|115.025|BN|Brunei-Muara District|61|f
+Pulau Gedung|5.274|100.386|MY|Penang|61|f
+Pulau Haruku|-3.570|128.491|ID|Maluku|61|f
+Pulau Iyu Kecil|1.191|103.352|ID|Riau Islands|61|f
+Pulau Jong|1.215|103.787|SG||61|f
+Pulau Kedi|-0.889|135.562|ID|Papua|61|f
+Pulau Lembeh|1.445|125.250|ID|North Sulawesi|61|f
+Pulau Makian|0.323|127.397|ID|North Maluku|61|f
+Pulau Matak|3.300|106.267|ID|Riau Islands|61|f
+Pulau Mayu|1.326|126.387|ID|North Maluku|61|f
+Pulau Moyo|-8.250|117.567|ID|West Nusa Tenggara|61|f
+Pulau Ndana|-10.988|122.872|ID|East Nusa Tenggara|61|f
+Pulau Padar Besar|-8.648|119.590|ID|East Nusa Tenggara|61|f
+Pulau Pagai Selatan|-3.002|100.332|ID|West Sumatra|61|f
+Pulau Pagai Utara|-2.695|100.089|ID|West Sumatra|61|f
+Pulau Palawan|1.249|103.815|SG||61|f
+Pulau Perhentian|5.915|102.740|MY|Terengganu|61|f
+Pulau Runi|0.378|131.048|ID|Southwest Papua|61|f
+Pulau Salawati|-1.094|130.885|ID|Southwest Papua|61|f
+Pulau Sempu|-8.445|112.697|ID|East Java|61|f
+Pulau Taliabu|-1.813|124.816|ID|North Maluku|61|f
+Pulau Wetan|-7.905|129.541|ID|Maluku|61|f
+Pulau Yefkabu|-0.363|130.321|ID|Southwest Papua|61|f
+Pulau-pulau Banda|-4.550|129.870|ID|Maluku|61|f
+Pulau-pulau Krakatau|-6.117|105.417|ID|Lampung|61|f
+Pulli Järv|57.606|27.214|EE|Võrumaa|61|f
+Pulomilo Island|7.403|93.687|IN|Andaman and Nicobar|61|f
 Pulkau|48.705|15.860|AT|Lower Austria|60
+Pulap Village|7.637|149.428|FM|Chuuk|59
+Pulau Adi|-4.199|133.433|ID|West Papua|58|f
+Pulau Aman|5.260|100.387|MY|Penang|58|f
+Pulau Antu|3.592|108.055|ID|Riau Islands|58|f
+Pulau Babar|-7.905|129.728|ID|Maluku|58|f
+Pulau Bajau|1.365|103.649|SG||58|f
+Pulau Banggi|7.267|117.171|MY|Sabah|58|f
+Pulau Batik Kulambu|4.703|118.412|MY|Sabah|58|f
+Pulau Batudaka|-0.465|121.852|ID|Central Sulawesi|58|f
+Pulau Beras|-4.151|104.458|ID|South Sumatra|58|f
+Pulau Biak|-0.958|135.946|ID|Papua|58|f
+Pulau Bohey Dulang|4.598|118.787|MY|Sabah|58|f
+Pulau Bola|-0.627|122.836|ID|Central Sulawesi|58|f
+Pulau Bunaken|1.623|124.765|ID|North Sulawesi|58|f
+Pulau Damar|-7.140|128.618|ID|Maluku|58|f
+Pulau Kalumpang|4.330|118.346|MY|Sabah|58|f
+Pulau Kapas|5.221|103.265|MY|Terengganu|58|f
+Pulau Karamian|-5.069|114.601|ID|East Java|58|f
+Pulau Kelapa|-2.909|111.415|ID|Central Kalimantan|58|f
+Pulau Kobroor|-6.143|134.526|ID|Maluku|58|f
+Pulau Komodo|-8.575|119.450|ID|East Nusa Tenggara|58|f
+Pulau Krok|-2.670|132.458|ID|West Papua|58|f
+Pulau Kundur|0.750|103.433|ID|Riau Islands|58|f
+Pulau Malawali|7.052|117.307|MY|Sabah|58|f
+Pulau Manipa|-3.312|127.573|ID|Maluku|58|f
+Pulau Menjangan|-8.096|114.518|ID|Bali|58|f
+Pulau Moty|0.457|127.408|ID|North Maluku|58|f
+Pulau Muara Besar Bridge|5.005|115.076|BN|Brunei-Muara District|58|f
+Pulau Ndao|-10.815|122.665|ID|East Nusa Tenggara|58|f
+Pulau Nura|-5.757|132.578|ID|Maluku|58|f
+Pulau Nusakambangan|-7.731|108.903|ID|Central Java|58|f
+Pulau Nuse|-10.780|122.766|ID|East Nusa Tenggara|58|f
+Pulau Pai|-1.215|136.441|ID|Papua|58|f
+Pulau Panjang|-8.442|116.900|ID|West Nusa Tenggara|58|f
+Pulau Ra'as|-7.142|114.567|ID|East Java|58|f
+Pulau Romang|-7.562|127.405|ID|Maluku|58|f
+Pulau Run|-4.556|129.684|ID|Maluku|58|f
+Pulau Sakar|4.970|118.346|MY|Sabah|58|f
+Pulau Selaru|-8.194|130.984|ID|Maluku|58|f
+Pulau Sempadeh Kecil|-1.433|110.017|ID||58|f
+Pulau Siau|2.731|125.382|ID|North Sulawesi|58|f
+Pulau Tarakan|3.364|117.591|ID|North Kalimantan|58|f
+Pulau Tekong|1.417|104.056|SG||58|f
+Pulau Tekong Kechil|1.417|104.023|SG||58|f
+Pulau Tidore|0.689|127.411|ID|North Maluku|58|f
+Pulau Timbun Mata|4.641|118.474|MY|Sabah|58|f
+Pulau Unauna|-0.166|121.614|ID|Central Sulawesi|58|f
+Pulau-pulau Ambai|-1.943|136.344|ID|Papua|58|f
+Pulau-pulau Tambelan|1.000|107.500|ID|Riau Islands|58|f
+Pullam Island|10.870|-15.726|GW|Bolama|58|f
+Pulham St Mary|52.423|1.249|GB|England|58
+Pulham Market|52.430|1.230|GB|England|57
+Pultneyville|43.280|-77.186|US|New York|57
+Puls|54.085|9.516|DE|Schleswig-Holstein|56
+Pulluri|-13.547|-73.285|PE|Apurímac Department|56
 Pulí|4.681|-74.714|CO|Cundinamarca|56
+Pulumsibac|16.882|-92.535|MX|Chiapas|55
+Pulkovo|59.975|29.194|RU|Leningradskaya Oblast'|55
 Pulloxhill|51.995|-0.453|GB|England|55
 Pullo|-15.210|-73.827|PE|Ayacucho|55
+Pular|-24.194|-68.059|CL|Antofagasta|54|f
+Pulau Babi|2.091|96.647|ID|Aceh|54|f
+Pulau Badas|0.912|103.807|ID|Riau Islands|54|f
+Pulau Balambangan|7.273|116.932|MY|Sabah|54|f
+Pulau Banggai|-1.641|123.537|ID|Central Sulawesi|54|f
+Pulau Batanta|-0.859|130.673|ID|Southwest Papua|54|f
+Pulau Berhala|3.774|99.500|ID|North Sumatra|54|f
+Pulau Boano|-2.980|127.921|ID|Maluku|54|f
+Pulau Bohayan|4.805|118.317|MY|Sabah|54|f
+Pulau Bruit|2.583|111.333|MY|Sarawak|54|f
+Pulau Bulan|0.967|103.917|ID|Riau Islands|54|f
+Pulau Bumbun|4.464|118.670|MY|Sabah|54|f
+Pulau Bunting|5.877|100.325|MY|Kedah|54|f
+Pulau Cun|-1.258|130.750|ID|Southwest Papua|54|f
+Pulau Danawan|4.306|118.858|MY|Sabah|54|f
+Pulau Dayang Bunting|6.232|99.800|MY|Kedah|54|f
+Pulau Doom|-0.887|131.237|ID|Southwest Papua|54|f
+Pulau Evans|5.389|118.926|MY|Sabah|54|f
+Pulau Genting|3.579|108.084|ID|Riau Islands|54|f
+Pulau Godon|-5.567|132.589|ID|Maluku|54|f
+Pulau Iyu Besar|1.187|103.345|ID|Riau Islands|54|f
+Pulau Kakaban|2.150|118.533|ID|East Kalimantan|54|f
+Pulau Kelang|-3.212|127.735|ID|Maluku|54|f
+Pulau Kendi|5.233|100.179|MY|Penang|54|f
+Pulau Laut|-3.625|116.157|ID|South Kalimantan|54|f
+Pulau Maikoor|-6.231|134.301|ID|Maluku|54|f
+Pulau Manukan|5.976|116.001|MY|Sabah|54|f
+Pulau Mare|0.574|127.396|ID|North Maluku|54|f
+Pulau Pegun|0.826|134.301|ID|Papua|54|f
+Pulau Peling|-1.360|123.389|ID|Central Sulawesi|54|f
+Pulau Rangsang|0.997|102.955|ID|Riau|54|f
+Pulau Rupat|1.893|101.581|ID|Riau|54|f
+Pulau Salahnama|3.342|99.723|ID|North Sumatra|54|f
+Pulau Sebesi|-5.947|105.488|ID|Lampung|54|f
+Pulau Sebuku|-5.878|105.513|ID|Lampung|54|f
+Pulau Sibungor|4.866|114.954|BN|Brunei-Muara District|54|f
+Pulau Silawa|4.574|118.579|MY|Sabah|54|f
+Pulau Solor|-8.466|123.002|ID|East Nusa Tenggara|54|f
+Pulau Tebing Tinggi|0.876|102.722|ID|Riau|54|f
+Pulau Tiga|5.724|115.656|MY|Sabah|54|f
+Pulau Timbang|5.767|117.967|MY|Sabah|54|f
+Pulau Togean|-0.388|121.940|ID|Central Sulawesi|54|f
+Pulau Wawonii|-4.124|123.092|ID|Southeast Sulawesi|54|f
+Pulau Wokam|-5.745|134.527|ID|Maluku|54|f
+Pulgas Ridge Open Space Preserve|37.478|-122.290|US|California|54|f
+Puliyantivu|8.950|79.900|LK|Northern Province|54|f
+Pullen Island|-72.557|-60.871|AQ||54|f
+Pulau Bai|5.776|118.105|MY|Sabah|49|f
+Pulau Bait|4.549|118.550|MY|Sabah|49|f
+Pulau Bengkalis|1.500|102.250|ID|Riau|49|f
+Pulau Bidan|5.746|100.288|MY|Kedah|49|f
+Pulau Dinawan|5.850|115.983|MY|Sabah|49|f
+Pulau Galang|0.750|104.233|ID|Riau Islands|49|f
+Pulau Gaya|6.019|116.030|MY|Sabah|49|f
+Pulau Harimau|2.560|103.945|MY|Johor|49|f
+Pulau Kabaena|-5.250|121.917|ID|Southeast Sulawesi|49|f
+Pulau Larapan|4.559|118.606|MY|Sabah|49|f
+Pulau Lingga|-0.175|104.695|ID|Riau Islands|49|f
+Pulau Mensirip|2.551|103.960|MY|Johor|49|f
+Pulau Merambong|1.316|103.610|MY|Johor|49|f
+Pulau Omadal|4.422|118.762|MY|Sabah|49|f
+Pulau Pababag|4.534|118.494|MY|Sabah|49|f
+Pulau Pandang|1.167|102.333|ID|Riau|49|f
+Pulau Penyengat|0.929|104.418|ID|Riau Islands|49|f
+Pulau Rawa|2.521|103.976|MY|Johor|49|f
+Pulau Rempang|0.850|104.167|ID|Riau Islands|49|f
+Pulau Reni|0.584|131.192|ID|Southwest Papua|49|f
+Pulau Rimau|5.247|100.273|MY|Penang|49|f
+Pulau Samosir|2.609|98.825|ID|North Sumatra|49|f
+Pulau Satonda|-8.108|117.747|ID|West Nusa Tenggara|49|f
+Pulau Sibu|2.220|104.067|MY|Johor|49|f
+Pulau Tanahmasa|-0.161|98.437|ID|North Sumatra|49|f
+Pulau Tekong Reservoir|1.415|104.044|SG||49|f
+Pulau Tikus|5.432|100.304|MY|Penang|49|f
+Pulau Trangan|-6.586|134.289|ID|Maluku|49|f
+Pulbah Island|-33.093|151.590|AU|New South Wales|49|f
+Pulford Castle|53.122|-2.935|GB|England|49|f
+Pulfrich Peak|-64.695|-62.453|AQ||49|f
+Pulitzer, Mount|-85.817|-154.267|AQ||49|f
+Pullen Island Conservation Park|-35.538|138.692|AU|South Australia|49|f
+Pulvermaar|50.131|6.926|DE|Rheinland-Pfalz|49|f
 Pulfero|46.174|13.484|IT|Friuli Venezia Giulia|41
+Pulitzer Fountain|40.764|-73.974|US|New York|40|f
+Pullen Island|52.053|-128.284|CA|British Columbia|40|f
+Pullen Park|35.781|-78.665|US|North Carolina|40|f
+Pullman Lake|45.802|-96.147|US|Minnesota|40|f
+Pullman National Monument|41.694|-87.609|US|Illinois|40|f
+Pulo do Lobo|37.804|-7.633|PT|Beja|40|f
+Pulpit Peak|51.567|-116.369|CA|Alberta|40|f
+Pululagua|0.035|-78.465|EC|Pichincha|40|f
 Pul-e Ḩişār|35.618|69.471|AF|Baghlan|0
 Pul-e Sangī|34.600|69.260|AF|Kabul|0
 Pulai Chondong|5.871|102.232|MY|Kelantan|0
@@ -88,7 +361,17 @@ Pulaupanggung|-5.318|104.742|ID|Lampung|0
 Pulaupinang|-3.891|103.520|ID|South Sumatra|0
 Pule|-8.124|111.561|ID|East Java|0
 Pule|-8.048|113.140|ID|East Java|0
+Pule|-6.534|111.025|ID|Central Java|0
+Pule|-8.037|111.502|ID|East Java|0
+Puledagel|-6.934|111.459|ID|Central Java|0
+Pulerejo|-8.003|111.941|ID|East Java|0
+Pulo|-7.189|111.499|ID|Central Java|0
+Pulo|-6.727|111.331|ID|Central Java|0
+Pulo|-6.938|111.260|ID|Central Java|0
 Pulo Batal|2.225|97.234|ID|Aceh|0
 Pulo Ie|3.282|97.355|ID|Aceh|0
 Pulopaya|2.873|97.652|ID|Aceh|0
+Pulorejo|-6.722|111.147|ID|Central Java|0
+Pulosari|-8.093|111.989|ID|East Java|0
 Pulosari|-7.009|108.017|ID|West Java|0
+Pulqui|-19.233|-65.217|BO|Chuquisaca Department|0

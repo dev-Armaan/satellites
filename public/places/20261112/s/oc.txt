@@ -1,9 +1,9 @@
-Occitanie|44.027|1.636|FR||133|r
+Occitanie|44.027|1.636|FR||134|r
 Oceanside|33.196|-117.379|US|California|105
 Ocumare del Tuy|10.118|-66.775|VE|Miranda|104
 Ochakovo-Matveyevskoye|55.684|37.447|RU|Moscow|101
 Ocaña|8.238|-73.356|CO|Norte de Santander Department|100
-Ocotepeque Department|14.500|-89.000|HN||99|r
+Ocotepeque Department|14.500|-89.000|HN||100|r
 Ocotlán|20.351|-102.768|MX|Jalisco|98
 Ochota|52.221|20.985|PL|Mazovia|98
 Ocala|29.187|-82.140|US|Florida|95
@@ -39,6 +39,7 @@ Ocniţa|48.382|27.439|MD|Raionul Ocniţa|79
 Ochsenhausen|48.070|9.950|DE|Baden-Wurttemberg|79
 Ochobo|7.180|7.982|NG|Benue State|79
 Ocean Pointe|21.311|-158.036|US|Hawaii|78
+Oceanside Municipal Airport|33.218|-117.353|US|California|78|f
 Oceano|35.099|-120.612|US|California|77
 Ocean City|38.337|-75.085|US|Maryland|77
 Ocaña|39.958|-3.498|ES|Castille-La Mancha|77
@@ -55,6 +56,7 @@ Ocampo|22.846|-99.336|MX|Tamaulipas|74
 Ocean Bluff-Brant Rock|42.102|-70.657|US|Massachusetts|74
 Octeville-sur-Mer|49.555|0.117|FR|Normandy|74
 Ocuituco|18.878|-98.775|MX|Morelos|74
+Ochi|38.060|24.467|GR|Central Greece|73|f
 Ocotepec|17.226|-93.164|MX|Chiapas|73
 Oconto|44.887|-87.865|US|Wisconsin|73
 Ocós|14.510|-92.193|GT|San Marcos|73
@@ -83,6 +85,7 @@ Oconto Falls|44.874|-88.143|US|Wisconsin|69
 Ocean Grove|41.729|-71.209|US|Massachusetts|69
 Ocotlán de Betancourt|19.798|-97.537|MX|Puebla|69
 Ocuapan|17.854|-93.489|MX|Tabasco|69
+Ocean Ridge Airport|38.802|-123.530|US|California|69|f
 Ochanado|11.614|122.483|PH|Western Visayas|68
 Őcsény|46.314|18.757|HU|Tolna County|68
 Ocotepec|19.807|-97.274|MX|Puebla|68
@@ -91,6 +94,8 @@ O.C.L. Industrial Township|22.206|84.592|IN|Odisha|68
 Ockenheim|49.944|7.971|DE|Rheinland-Pfalz|67
 Ocotitlán|19.043|-96.908|MX|Veracruz|67
 Oconahua|20.742|-104.165|MX|Jalisco|67
+Ocean City Airport|39.263|-74.607|US|New Jersey|67|f
+Ochsenälpeleskopf|47.526|10.814|DE||67|f
 Octaviano López|27.003|-105.033|MX|Chihuahua|67
 Ochotnica Dolna|49.527|20.343|PL|Lesser Poland|66
 Ochotnica Górna|49.509|20.243|PL|Lesser Poland|66
@@ -101,6 +106,8 @@ Occhiobello|44.922|11.581|IT|Veneto|66
 Ocuilan de Arteaga|18.979|-99.417|MX|México|66
 Ochodnica|49.349|18.790|SK|Žilina Region|66
 Ocean Ridge|26.527|-80.048|US|Florida|66
+Ocala International Airport|29.168|-82.223|US|Florida|65|f
+Ochlockonee Bay|29.971|-84.387|US|Florida|65|f
 Ocho de Enero|26.997|-101.496|MX|Coahuila|65
 Ocote Paulino|15.417|-87.600|HN|Yoro Department|65
 Ocna de Jos|46.526|25.129|RO|Harghita County|65
@@ -109,6 +116,8 @@ Ochoz u Brna|49.254|16.737|CZ|South Moravian|64
 Ocean Park|46.492|-124.052|US|Washington|64
 Ochla|51.879|15.471|PL|Lubusz|64
 Ochojno|49.953|19.975|PL|Lesser Poland|63
+Ocean City Municipal Airport|38.312|-75.124|US|Maryland|63|f
+Oceana County Airport|43.643|-86.327|US|Michigan|63|f
 Ocna de Sus|46.527|25.151|RO|Harghita County|63
 Ocland|46.167|25.417|RO|Harghita County|63
 Ocoxaltepec|18.935|-98.752|MX|Morelos|63
@@ -131,6 +140,8 @@ Occidente 4ta. Sección|18.303|-93.234|MX|Tabasco|61
 Octeyuco Dos Mil|19.963|-99.588|MX|México|61
 Ocampo|20.009|-99.239|MX|Hidalgo|61
 Octavio Paz|14.858|-92.264|MX|Chiapas|61
+O C Fisher Lake|31.496|-100.514|US|Texas|61|f
+Ocean Reef Club Airport|25.321|-80.279|US|Florida|61|f
 Occidental|38.407|-122.948|US|California|61
 Ocotlamanic|18.324|-97.097|MX|Puebla|61
 Ocotequila|17.449|-98.677|MX|Guerrero|61
@@ -140,22 +151,102 @@ Ocotillo|17.036|-99.878|MX|Guerrero|61
 Ocuiltzapoyo|21.324|-98.729|MX|San Luis Potosí|61
 Ocotal Chico|18.257|-94.860|MX|Veracruz|60
 Occoquan|38.684|-77.260|US|Virginia|60
+Ocoto Alto|-4.953|-80.393|PE|Piura|60
+Ocracoke|35.115|-75.981|US|North Carolina|60
+Ocean Beach|-35.014|117.290|AU|Western Australia|59
+Ocota|19.819|-97.497|MX|Puebla|59
 Ocamonte|6.340|-73.122|CO|Santander Department|59
+Ocpaco|20.146|-98.035|MX|Puebla|59
 Occagno|45.929|9.099|IT|Lombardy|59
+Ocoapa|17.384|-98.677|MX|Guerrero|59
+Ocheretnya|48.071|30.267|UA|Mykolaiv|59
 Ocros|-10.403|-77.397|PE|Ancash|58
+Ocheretuvate|49.565|33.147|UA|Poltava|58
 Ocoliş|46.483|23.467|RO|Alba County|58
+Ocotempa (Barrio Primero)|18.603|-96.996|MX|Veracruz|58
 Ocuviri|-15.114|-70.909|PE|Puno|58
+Ociogi|44.320|24.350|RO|Olt|58
+Ocniţa|48.133|28.636|MD|Transnistria|58
+O’Conner Peak|-54.280|-36.332|GS||58|f
+Ocate Peak|36.166|-105.038|US|New Mexico|58|f
+Ochilview Park|56.028|-3.815|GB|Scotland|58|f
+Oconto-J Douglas Bake Memorial Airport|44.876|-87.912|US|Wisconsin|58|f
+Ocotepec|19.696|-98.434|MX|Hidalgo|58
 Ocobamba|-13.483|-73.560|PE|Apurímac Department|58
+Ocna de Fier|45.342|21.776|RO|Caraș-Severin County|58
+Ocuituco (Acuituco)|17.563|-99.187|MX|Guerrero|57
+Ochodza|49.966|19.743|PL|Lesser Poland|57
+Ocoyotepec (Ocoyotepec Centro)|19.495|-99.842|MX|México|57
+Ocquier|50.396|5.394|BE|Wallonia|57
+Ochlocknee|30.974|-84.055|US|Georgia|57
+Ocotlán Tepatlaxco|19.301|-98.118|MX|Tlaxcala|57
+Ochonga|-11.317|-75.756|PE|Junin|56
+Ockfen|49.617|6.583|DE|Rheinland-Pfalz|56
+Ochagavía|42.905|-1.091|ES|Navarre|56
+Ochlenberg|47.150|7.736|CH|Bern|56
+Octujub o Campeche|21.559|-99.097|MX|San Luis Potosí|56
+Oconomowoc Lake|43.104|-88.459|US|Wisconsin|56
+Ocean Isle Beach|33.894|-78.427|US|North Carolina|56
+Ockley|51.147|-0.364|GB|England|55
+Ochtmersleben|52.158|11.409|DE|Saxony-Anhalt|55
 Ocros|-13.391|-73.915|PE|Ayacucho|55
+Ocracu|44.968|23.818|RO|Vâlcea County|55
 Ocaña|-14.399|-74.823|PE|Ayacucho|55
+Ocotillo|19.333|-103.649|MX|Colima|55
+Ocotepec de Morelos|19.673|-98.380|MX|Hidalgo|55
+Occagnes|48.780|-0.072|FR|Normandy|55
+Ochiuri|44.963|25.546|RO|Dâmbovița County|55
+Ocomantla|20.244|-97.894|MX|Puebla|55
+Ocoto Bajo|-4.928|-80.408|PE|Piura|55
+Ochomitas|20.224|-101.207|MX|Guanajuato|55
+O'Cain Point|-62.264|-58.876|AQ||54|f
+Očauš|44.504|17.620|BA|Srpska|54|f
+Ocean Cay|25.424|-79.210|BS|Bimini|54|f
+Ocean Shores Municipal Airport|47.004|-124.163|US|Washington|54|f
+Oceanside Beach State Recreation Site|45.461|-123.971|US|Oregon|54|f
+Ocotillo Airport|33.145|-116.130|US|California|54|f
+Occold|52.293|1.159|GB|England|54
 Ocón|42.299|-2.240|ES|La Rioja|52
+Ockholm|54.667|8.833|DE|Schleswig-Holstein|51
+O'Connor Island|-66.417|110.450|AQ||49|f
+Ocean Cay Airport|25.423|-79.208|BS|Bimini|49|f
+Ocean Park|-34.345|150.921|AU|New South Wales|49|f
+Oceanário de Lisboa|38.764|-9.094|PT|Lisbon|49|f
+Oceanside, Camp Pendleton, Marine Corps Air Station|33.301|-117.355|US|California|49|f
+Ochsenkopf|47.115|9.625|LI|Triesenberg|49|f
+Ocoa Point|-62.619|-61.140|AQ||49|f
+Octopus Mountain|50.900|-115.819|CA|British Columbia|49|f
 Ocoyo|-14.008|-75.022|PE|Huancavelica|47
 Ocobamba|-12.872|-72.447|PE|Cuzco Department|45
 Ocoruro|-15.053|-71.129|PE|Cuzco Department|44
+O’Connell Bridge|53.347|-6.259|IE|Leinster|40|f
+Occoquan Bay National Wildlife Refuge|38.644|-77.236|US|Virginia|40|f
+Occoquan Reservoir|38.720|-77.338|US|Virginia|40|f
+Ocean City State Park|47.033|-124.164|US|Washington|40|f
+Ocean Lake|43.185|-108.602|US|Wyoming|40|f
+Ocean View Hill|42.074|-70.205|US|Massachusetts|40|f
+Oceano County Airport|35.104|-120.625|US|California|40|f
+Ochanomizu University|35.719|139.732|JP|Tokyo|40|f
+Ochlockonee River State Park|30.006|-84.488|US|Florida|40|f
+Ochoco Dam|44.298|-120.726|US|Oregon|40|f
+Ochoco Mountains|44.443|-120.394|US|Oregon|40|f
+Ochs|46.556|8.076|CH|Valais|40|f
+Ochs Glacier|-76.500|-145.583|AQ||40|f
+Ochs Private Airport|44.784|-120.956|US|Oregon|40|f
+Ochse|46.699|7.419|CH|Bern|40|f
+Ochsehorn|46.221|7.941|CH|Valais|40|f
+Ochsenkopf|50.031|11.810|DE|Bavaria|40|f
+Ocmulgee National Monument|32.838|-83.602|US|Georgia|40|f
+Oconee State Park Dam Number One D-1642|34.867|-83.103|US|South Carolina|40|f
+Ocracoke Island|35.132|-75.905|US|North Carolina|40|f
+Ocracoke Island Airport|35.104|-75.963|US|North Carolina|40|f
+Ocriticum|42.003|13.990|IT|Abruzzo|40|f
+Octopus Islands Marine Park|50.267|-125.234|CA|British Columbia|40|f
 Ochánduri|42.525|-3.004|ES|La Rioja|38
 Oco|42.638|-2.165|ES|Navarre|37
 Ocentejo|40.772|-2.398|ES|Castille-La Mancha|31
 Ocheon|35.970|129.412|KR|Gyeongsangbuk-do|0
+Ochtersum|53.608|7.517|DE|Lower Saxony|0
 Ocle Pychard|52.117|-2.600|GB|England|0
 Ocoña|-16.433|-73.108|PE|Arequipa|0
 Ocongate|-13.627|-71.385|PE|Cuzco Department|0

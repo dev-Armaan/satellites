@@ -25,24 +25,33 @@ Rendon|32.576|-97.241|US|Texas|82
 Rengit|1.681|103.148|MY|Johor|82
 Rengāli|21.646|84.053|IN|Odisha|81
 Rengte|24.481|92.759|IN|Assam|80
+Rendsburg Transporter Bridge|54.294|9.682|DE|Schleswig-Holstein|80|f
 Rensselaer|42.643|-73.743|US|New York|79
 Renkum|51.977|5.733|NL|Gelderland|79
+Rendani Airport|-0.892|134.049|ID|West Papua|79|f
+Renton Municipal Airport|47.493|-122.216|US|Washington|79|f
 Renfrew|45.467|-76.683|CA|Ontario|78
+Reno/Tahoe International Airport|39.506|-119.773|US|Nevada|78|f
+Renmark Airport|-34.196|140.674|AU|South Australia|77|f
 Renon|46.542|11.457|IT|Trentino-Alto Adige|77
 Renchen|48.589|8.013|DE|Baden-Wurttemberg|77
 Renascença|-26.158|-52.969|BR|Paraná|77
 Renaico|-37.671|-72.584|CL|Araucania|76
 Rengāli|21.254|85.033|IN|Odisha|76
 Rensselaer|40.937|-87.151|US|Indiana|75
+Rene Mouawad Air Base|34.589|36.011|LB|North Lebanon|75|f
 Renedo|43.353|-3.950|ES|Cantabria|74
 Rennertshofen|48.759|11.045|DE|Bavaria|74
 Renmark|-34.177|140.747|AU|South Australia|73
 Renazzo|44.765|11.286|IT|Emilia-Romagna|73
 Renate|45.724|9.280|IT|Lombardy|72
 Rennerod|50.608|8.067|DE|Rheinland-Pfalz|72
+Rennes-Saint-Jacques Airport|48.070|-1.735|FR|Brittany|71|f
 Renage|45.333|5.489|FR|Auvergne-Rhône-Alpes|71
 Renswoude|52.073|5.540|NL|Utrecht|71
 Reno|33.663|-95.462|US|Texas|70
+Renardbreen|77.518|14.424|SJ|Svalbard|70|f
+Rennesøy|59.091|5.716|NO|Rogaland|70|f
 Rendlesham|52.127|1.415|GB|England|70
 Renfengzhuang|39.311|117.662|CN|Tianjin|70
 Renazé|47.793|-1.057|FR|Pays de la Loire|69
@@ -53,10 +62,15 @@ Renwick|-41.500|173.833|NZ|Marlborough|68
 Renton|55.972|-4.584|GB|Scotland|68
 Renko|60.896|24.288|FI|Kanta-Häme|68
 Rendeux|50.234|5.504|BE|Wallonia|67
+Renaud Island|-66.167|-66.000|AQ||67|f
+Rendova Island|-8.535|157.307|SB||67|f
+Rengat Japura Airport|-0.353|102.335|ID|Riau Islands|67|f
 Rena|61.132|11.372|NO|Innlandet|67
 Renescure|50.728|2.368|FR|Hauts-de-France|67
 Rensvik|63.098|7.820|NO|Møre og Romsdal|67
 Renče|45.890|13.669|SI|Municipality of Renče–Vogrsko|66
+René-Levasseur|51.333|-68.666|CA|Quebec|65|f
+Rennell Island|-11.615|160.191|SB|Rennell and Bellona Province|65|f
 Reńska Wieś|50.316|18.126|PL|Opole Voivodeship|65
 Rentweinsdorf|50.063|10.799|DE|Bavaria|64
 Reningelst|50.815|2.771|BE|Flanders|63
@@ -68,23 +82,108 @@ Renovo|41.326|-77.751|US|Pennsylvania|62
 Renville|44.789|-95.212|US|Minnesota|62
 Rennerdale|40.398|-80.141|US|Pennsylvania|61
 Rendufe|41.629|-8.409|PT|Braga|61
+Reno Stead Airport|39.671|-119.879|US|Nevada|61|f
+Renwick Dam|48.777|-97.748|US|North Dakota|61|f
 Renesse|51.733|3.775|NL|Zeeland|61
 Reninge|50.948|2.789|BE|Flanders|61
+Reno Centese|44.828|11.330|IT|Emilia-Romagna|60
+Renac|47.721|-1.975|FR|Brittany|60
+Řenče|49.580|13.414|CZ|Plzeň Region|59
+Rendswühren|54.083|10.183|DE|Schleswig-Holstein|58
+Rentína|39.063|21.979|GR|Thessaly|58
+Renque de Purga|15.081|-23.525|CV|Santa Cruz|58
+Renard, Cape|-65.021|-63.764|AQ||58|f
+Renier Point|-62.610|-59.806|AQ||58|f
+Renmin Yingxiong Jinianbei|39.903|116.392|CN|Beijing|58|f
+Rennell/Tingoa Airport|-11.550|160.063|SB|Rennell and Bellona Province|58|f
+Renquishausen|48.083|8.900|DE|Baden-Wurttemberg|58
+Rennau|52.296|10.912|DE|Lower Saxony|57
+Renova|33.779|-90.721|US|Mississippi|57
+Renkenberge|52.908|7.379|DE|Lower Saxony|57
 Rena|39.053|-5.809|ES|Extremadura|56
+Renmark North|-34.126|140.713|AU|South Australia|56
+Renkovci|46.637|16.303|SI|Municipality of Turnišče|56
+Rengínion|38.720|22.710|GR|Central Greece|55
+Renningers|40.650|-76.148|US|Pennsylvania|55
+Renwick|-34.448|150.470|AU|New South Wales|55
+Renneritz|51.602|12.226|DE|Saxony-Anhalt|54
+Renard Glacier|-64.684|-61.677|AQ||54|f
+Renard Island|-65.026|-63.776|AQ||54|f
+Rend Lake|38.110|-88.963|US|Illinois|54|f
+Rendezvous Peak|43.567|-110.905|US|Wyoming|54|f
+Renlies|50.191|4.267|BE|Wallonia|54
+Renung|43.749|-0.360|FR|New Aquitaine|54
+Rentína|40.661|23.610|GR|Central Macedonia|54
+Renthendorf|50.800|11.847|DE|Thuringia|53
 Rennweg am Katschberg|47.017|13.617|AT|Carinthia|51
+Renard Hill|42.096|-74.960|US|New York|49|f
+Renard Islands|-10.818|152.995|PG|Milne Bay Province|49|f
+Renaud Glacier|-67.700|-65.616|AQ||49|f
+Rendu, Mount|-67.449|-67.059|AQ||49|f
+Renegar Glacier|-78.367|163.133|AQ||49|f
+Rengen|64.098|13.983|NO|Trøndelag|49|f
+Renk|11.900|32.797|SS|Upper Nile|49|f
+Renner Peak|-70.336|-67.836|AQ||49|f
+Rennfeld|47.400|15.350|AT|Styria|49|f
+Rennie Island|46.963|-123.866|US|Washington|49|f
+Renown Park|-33.974|151.086|AU|New South Wales|49|f
+Renuka Lake|30.611|77.458|IN|Himachal Pradesh|49|f
 Renedo de la Vega|42.453|-4.703|ES|Castille and León|48
 Renieblas|41.820|-2.372|ES|Castille and León|42
 Renau|41.224|1.311|ES|Catalonia|40
+Rencontre Bay|47.617|-56.682|CA|Newfoundland and Labrador|40|f
+Rendezvous Islands|50.274|-125.048|CA|British Columbia|40|f
+Rendezvous Mountain|43.567|-110.905|US|Wyoming|40|f
+Renfrew Glacier|44.155|-121.792|US|Oregon|40|f
+Renhold|52.149|-0.384|GB|England|40|f
+Rennell Glacier|-79.383|-84.200|AQ||40|f
+Rennie Lake|44.670|-85.464|US|Michigan|40|f
+Renouf Island|56.575|-79.133|CA|Nunavut|40|f
+Rensselaer Lake|42.698|-73.834|US|New York|40|f
+Rentschler Farm Museum|42.176|-83.761|US|Michigan|40|f
 Renera|40.490|-3.014|ES|Castille-La Mancha|36
+Renchaoxi|29.609|110.586|CN|Hunan|0
 Rencheng|37.129|114.681|CN|Hebei|0
 Rencheng|35.415|116.583|CN|Shandong|0
+Rencun|22.659|112.366|CN|Guangdong|0
+Rencunwan|31.092|118.758|CN|Anhui|0
 Rende|25.558|103.276|CN|Yunnan|0
+Rendeng|-6.810|111.514|ID|Central Java|0
+Rendian|33.627|113.227|CN|Henan|0
+Rendole|-6.733|111.012|ID|Central Java|0
+Rendui|30.073|89.105|CN|Tibet|0
+Renes|-8.231|113.702|ID|East Java|0
+Rengang|32.011|120.835|CN|Jiangsu|0
 Rengat|-0.375|102.548|ID|Riau|0
+Rengganis|-7.213|107.899|ID|West Java|0
+Rengong|28.170|120.173|CN|Zhejiang|0
+Renhe|23.333|113.292|CN|Guangdong|0
+Renhe|36.891|122.300|CN|Shandong|0
+Renhe|29.625|106.526|CN|Chongqing|0
+Renhe|27.657|115.260|CN|Jiangxi|0
 Renhe|26.499|101.739|CN|Sichuan|0
+Renhe|28.025|114.938|CN|Jiangxi|0
+Renhe|30.446|120.075|CN|Zhejiang|0
+Renhe|30.984|108.660|CN|Chongqing|0
+Renheji|32.626|119.115|CN|Anhui|0
+Renheping|30.102|111.237|CN|Hubei|0
 Renhou|38.747|114.980|CN|Hebei|0
 Renhua|25.091|113.744|CN|Guangdong|0
 Renhuai|27.791|106.401|CN|Guizhou|0
+Renjia|30.143|107.874|CN|Chongqing|0
+Renju|24.817|115.883|CN|Guangdong|0
+Renliu|34.490|109.227|CN|Shaanxi|0
+Renmin|46.635|125.543|CN|Heilongjiang|0
+Renmindayuan|29.835|112.470|CN|Hubei|0
 Renminlu|36.551|104.170|CN|Gansu|0
 Rennell and Bellona Province|-11.605|160.155|SB||0|r
+Renshan|22.836|114.805|CN|Guangdong|0
+Renshui|33.036|106.812|CN|Shaanxi|0
+Rentian|25.987|116.117|CN|Jiangxi|0
+Rentian|24.853|116.599|CN|Fujian|0
+Rentung|-8.675|120.564|ID|East Nusa Tenggara|0
+Rentung|-8.457|120.550|ID|East Nusa Tenggara|0
 Renu Nakhon|17.052|104.677|TH|Nakhon Phanom|0
 Renwu|29.605|89.005|CN|Tibet|0
+Renyi|29.886|107.592|CN|Chongqing|0
+Renzhuang|28.045|120.248|CN|Zhejiang|0

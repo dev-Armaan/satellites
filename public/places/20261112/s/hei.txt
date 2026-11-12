@@ -6,23 +6,28 @@ Heidelberg|-26.505|28.359|ZA|Gauteng|99
 Heishan|41.689|122.113|CN|Liaoning|97
 Heidenheim an der Brenz|48.678|10.152|DE|Baden-Wurttemberg|94
 Heinsberg|51.064|6.100|DE|North Rhine-Westphalia|92
+Heidelberg Castle|49.410|8.716|DE|Baden-Wurttemberg|92|f
 Heist-op-den-Berg|51.075|4.728|BE|Flanders|92
 Heilbron|-27.281|27.971|ZA|Free State|90
 Heiligenhaus|51.327|6.971|DE|North Rhine-Westphalia|89
 Heiloo|52.603|4.688|NL|North Holland|88
 Heide|54.196|9.097|DE|Schleswig-Holstein|86
+Heinrich-Heine-University Dusseldorf|51.190|6.794|DE|North Rhine-Westphalia|86|f
 Heiligensee|52.614|13.245|DE|State of Berlin|85
 Heinola|61.206|26.038|FI|Paijat-Hame|85
 Heilbad Heiligenstadt|51.378|10.137|DE|Thuringia|85
 Heishui|29.056|108.796|CN|Chongqing|85
 Heidenau|50.972|13.867|DE|Saxony|84
+Heihe Aihui Airport|50.172|127.309|CN|Heilongjiang|84|f
 Heixi|29.621|108.541|CN|Chongqing|83
 Heiwadai|35.758|139.660|JP|Tokyo|83
 Heist|51.339|3.239|BE|Flanders|82
 Heitai|45.414|131.634|CN|Heilongjiang|82
 Heidelberg|-34.091|20.957|ZA|Western Cape|80
+Heipethes Islands|37.049|27.147|||80|f
 Heilsbronn|49.336|10.787|DE|Bavaria|79
 Heiligenhafen|54.370|10.976|DE|Schleswig-Holstein|79
+Heimaey|63.430|-20.274|IS|South|79|f
 Heishan|28.917|107.001|CN|Chongqing|79
 Heiden|51.828|6.933|DE|North Rhine-Westphalia|78
 Heikendorf|54.367|10.200|DE|Schleswig-Holstein|78
@@ -43,6 +48,8 @@ Heimbach|50.637|6.469|DE|North Rhine-Westphalia|73
 Heiligengrabe|53.145|12.363|DE|Brandenburg|73
 Heidstock|49.256|6.882|DE|Saarland|73
 Heiligenrode|51.308|9.576|DE|Hesse|73
+Hei Ling Chau|22.254|114.039|HK||72|f
+Heinz Field|40.446|-80.016|US|Pennsylvania|72|f
 Heiden|47.443|9.533|CH|Appenzell Ausserrhoden|72
 Heimenkirch|47.630|9.903|DE|Bavaria|71
 Heiligenstadt|49.863|11.172|DE|Bavaria|71
@@ -52,14 +59,19 @@ Heikinlaakso|60.269|25.074|FI|Uusimaa|70
 Heirok|24.586|94.067|IN|Manipur|69
 Heiligenberg|47.821|9.313|DE|Baden-Wurttemberg|69
 Heinävesi|62.433|28.600|FI|North Karelia|69
+Heinrich-Hertz-Turm|53.563|9.976|DE|Hamburg|69|f
 Heist|53.654|9.660|DE|Schleswig-Holstein|69
 Heidenreichstein|48.867|15.117|AT|Lower Austria|68
 Heidenheim|49.017|10.743|DE|Bavaria|68
 Heigenbrücken|50.028|9.371|DE|Bavaria|68
+Heiligenberg|49.426|8.706|DE|Baden-Wurttemberg|67|f
+Hein,øvre|60.388|7.822|NO|Buskerud|67|f
+Heiwadai Athletic Stadium|33.587|130.383|JP|Fukuoka|67|f
 Heidgraben|53.708|9.681|DE|Schleswig-Holstein|67
 Heimbuchenthal|49.889|9.296|DE|Bavaria|67
 Heidenau|53.314|9.652|DE|Lower Saxony|66
 Heisterbacherrott|50.696|7.234|DE|North Rhine-Westphalia|66
+Heimdalshøe|61.454|8.902|NO|Innlandet|65|f
 Heimertingen|48.033|10.150|DE|Bavaria|65
 Heidelberg|26.197|-97.880|US|Texas|65
 Heiligenstedten|53.933|9.475|DE|Schleswig-Holstein|65
@@ -67,6 +79,8 @@ Heijen|51.675|5.981|NL|Limburg|64
 Heisdorf|49.672|6.142|LU|Luxembourg|64
 Heimiswil|47.068|7.667|CH|Bern|64
 Heinbockel|53.574|9.327|DE|Lower Saxony|64
+Heilhornet|65.077|12.139|NO|Nordland|63|f
+Heiligenbeil Concentration Camp|54.466|19.935|RU|Kaliningrad Oblast|63|f
 Heiligenkreuz am Waasen|46.956|15.588|AT|Styria|63
 Heiligenroth|50.450|7.867|DE|Rheinland-Pfalz|63
 Heighington|54.596|-1.618|GB|England|63
@@ -84,8 +98,123 @@ Heidelberg|43.517|-80.616|CA|Ontario|60
 Heimschuh|46.760|15.493|AT|Styria|60
 Heinade|51.833|9.633|DE|Lower Saxony|60
 Heinsen|52.063|9.663|DE|Lower Saxony|60
+Hei- en Boeicop|51.945|5.082|NL|Utrecht|60
+Heimburg|51.823|10.911|DE|Saxony-Anhalt|60
+Heihoek|51.759|5.498|NL|North Brabant|60
+Heidersdorf|50.676|13.406|DE|Saxony|60
+Heinrichsthal|50.071|9.343|DE|Bavaria|59
+Heiligenstein|48.422|7.450|FR|Grand Est|59
+Heiligenthal|51.609|11.633|DE|Saxony-Anhalt|58
+Heiligenhagen|54.009|11.935|DE|Mecklenburg-Vorpommern|58
+Heiteren|47.970|7.540|FR|Grand Est|58
 Heiligenkreuz im Lafnitztal|46.989|16.261|AT|Burgenland|58
+Heidalsmuen|61.635|9.337|NO|Innlandet|58|f
+Heidenberg|49.116|7.836|DE|Rheinland-Pfalz|58|f
+Heiligenberg Castle|49.751|8.648|DE|Hesse|58|f
+Heimkehrerdenkmal|51.416|9.909|DE|Lower Saxony|58|f
+Heito Glacier|-69.267|39.800|AQ||58|f
+Heito, Mount|-69.261|39.828|AQ||58|f
+Heikruis|50.735|4.112|BE|Flanders|58
+Heiligenstedtenerkamp|53.900|9.468|DE|Schleswig-Holstein|58
+Heiningen|52.069|10.555|DE|Lower Saxony|57
+Heindonk|51.067|4.408|BE|Flanders|57
+Heidenburg|49.800|6.917|DE|Rheinland-Pfalz|57
+Heinrichsbrunn|48.243|14.535|AT|Upper Austria|57
+Heilwood|40.621|-78.915|US|Pennsylvania|57
+Heidlersburg|39.949|-77.146|US|Pennsylvania|57
+Heilig Landstichting|51.819|5.883|NL|Gelderland|57
+Heinersbrück|51.820|14.507|DE|Brandenburg|57
+Heiderscheid|49.887|5.979|LU|Wiltz|57
+Heilberscheid|50.417|7.883|DE|Rheinland-Pfalz|57
+Heidelberg|31.887|-88.984|US|Mississippi|57
+Heinerscheid|50.096|6.088|LU|Clervaux|57
+Heiligenschwendi|46.751|7.684|CH|Bern|57
+Heidmühlen|53.970|10.084|DE|Schleswig-Holstein|57
+Heiligenmoschel|49.550|7.767|DE|Rheinland-Pfalz|56
+Heimersdorf|47.572|7.241|FR|Grand Est|56
+Heiås|59.700|11.298|NO|Østfold|56
+Heidwiller|47.659|7.239|FR|Grand Est|56
+Heinenoord|51.826|4.477|NL|South Holland|56
+Heiligenberg|48.538|7.392|FR|Grand Est|56
+Heilles|49.335|2.266|FR|Hauts-de-France|56
+Heilshoop|53.887|10.537|DE|Schleswig-Holstein|56
+Heide|51.241|6.043|NL|Limburg|55
+Heinrichswalde|53.613|13.779|DE|Mecklenburg-Vorpommern|55
+Heiligkreuz|47.286|11.493|AT|Tyrol|55
 Heiterwang|47.450|10.750|AT|Tyrol|55
+Hei Glacier|-72.483|0.583|AQ||54|f
+Heiglkopf|47.733|11.517|DE|Bavaria|54|f
+Heikampen Peak|-72.467|0.667|AQ||54|f
+Heillstugutinden,store|61.544|8.428|NO|Innlandet|54|f
+Heimefront Range|-74.667|-11.000|AQ||54|f
+Heims Lake|45.316|-92.994|US|Minnesota|54|f
+Heirisson Island|-31.965|115.882|AU|Western Australia|54|f
+Heining-lès-Bouzonville|49.310|6.590|FR|Grand Est|54
+Heijningen|51.656|4.408|NL|North Brabant|54
 Heiligenkreuz|48.056|16.125|AT|Lower Austria|54
+Heidekamp|53.854|10.502|DE|Schleswig-Holstein|54
+Heinzenbach|49.967|7.417|DE|Rheinland-Pfalz|53
+Heidmoor|53.866|9.818|DE|Schleswig-Holstein|50
+Heinzenhausen|49.633|7.600|DE|Rheinland-Pfalz|49
+Heidelberg Zoo|49.415|8.662|DE|Baden-Wurttemberg|49|f
+Heidelstein|50.461|10.006|DE|Bavaria|49|f
+Heidentor|48.100|16.850|AT|Lower Austria|49|f
+Heim Glacier|-67.447|-66.906|AQ||49|f
+Heimdal Gletscher|62.933|-42.750|GL|Sermersooq|49|f
+Heimgarten|47.613|11.281|DE|Bavaria|49|f
+Heintz Peak|-70.935|-63.687|AQ||49|f
+Heinzenberg|46.733|9.367|CH|Grisons|49|f
+Heioab|-27.419|15.985|NA|Karas Region|49|f
+Heiser Ridge|-83.828|-57.076|AQ||49|f
+Heistadmoen|59.583|9.650|NO|Buskerud|49|f
+Heiterwanger See|47.450|10.767|AT|Tyrol|49|f
 Heiligenbrunn|47.027|16.417|AT|Burgenland|48
+Heidweiler|49.917|6.750|DE|Rheinland-Pfalz|46
+Heinkenborstel|54.131|9.751|DE|Schleswig-Holstein|44
+Heilenbach|50.067|6.467|DE|Rheinland-Pfalz|42
+Heilbach|50.050|6.283|DE|Rheinland-Pfalz|42
+Heisdorf|50.133|6.433|DE|Rheinland-Pfalz|41
+Heidbrink|52.292|8.641|DE|North Rhine-Westphalia|40|f
+Heidecksburg|50.723|11.338|DE|Thuringia|40|f
+Heidemann Glacier|-82.550|162.833|AQ||40|f
+Heidensee|53.644|11.431|DE|Mecklenburg-Vorpommern|40|f
+Heidetränk-Oppidum|50.222|8.523|DE|Hesse|40|f
+Heidkopf|51.333|8.507|DE|North Rhine-Westphalia|40|f
+Heidsee|46.739|9.551|CH|Grisons|40|f
+Heighley|53.017|-2.341|GB|England|40|f
+Height of the Rockies Park|50.500|-115.252|CA|British Columbia|40|f
+Heikes Covered Bridge|39.980|-77.152|US|Pennsylvania|40|f
+Heikkala Lake|47.382|-92.426|US|Minnesota|40|f
+Heiligkreuzkofel|46.614|11.951|IT|Trentino-Alto Adige|40|f
+Heilman Glacier|-82.617|160.767|AQ||40|f
+Heim Peninsula|76.535|-84.499|CA|Nunavut|40|f
+Heimdall Glacier|-77.583|161.833|AQ||40|f
+Heimstock|46.807|8.869|CH|Grisons|40|f
+Heinous Peak|-85.983|-154.917|AQ||40|f
+Heiser, Mount|-82.667|162.933|AQ||40|f
+Heitlistock|46.811|8.251|CH|Obwalden|40|f
+Heinzenberg|49.817|7.483|DE|Rheinland-Pfalz|30
+Heicheng|36.370|106.086|CN|Ningxia|0
+Heichengzi|42.140|120.975|CN|Liaoning|0
+Heigang|47.248|123.399|CN|Heilongjiang|0
+Heigou|40.082|123.607|CN|Liaoning|0
+Heihe|34.797|98.129|CN|Qinghai|0
+Heiheba|33.214|106.444|CN|Shaanxi|0
+Heiiyugou|40.804|120.554|CN|Liaoning|0
+Heilonggong|45.431|127.897|CN|Heilongjiang|0
+Heilongkou|34.010|109.731|CN|Shaanxi|0
+Heimahe|36.729|99.777|CN|Qinghai|0
+Heimbach|49.617|7.250|DE|Rheinland-Pfalz|0
+Heinersreuth|49.967|11.533|DE|Bavaria|0
 Heinfels|46.750|12.450|AT|Tyrol|0
+Heinsen|51.883|9.433|DE|Lower Saxony|0
+Heiquan|39.517|99.617|CN|Gansu|0
+Heiquan|36.106|106.187|CN|Ningxia|0
+Heishan|46.443|127.470|CN|Heilongjiang|0
+Heishan|37.965|120.620|CN|Shandong|0
+Heishantou|50.214|119.504|CN|Inner Mongolia|0
+Heishanzui|29.112|112.009|CN|Hunan|0
+Heishui|28.594|108.440|CN|Guizhou|0
+Heishui|45.200|122.817|CN|Jilin|0
+Heita|28.632|108.507|CN|Guizhou|0
+Heitan|32.034|106.653|CN|Sichuan|0

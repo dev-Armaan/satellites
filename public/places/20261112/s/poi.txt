@@ -10,10 +10,13 @@ Point Pleasant|40.083|-74.068|US|New Jersey|85
 Poio|42.448|-8.686|ES|Galicia|85
 Point Breeze|39.933|-75.178|US|Pennsylvania|85
 Pointe-à-Pitre|16.236|-61.535|GP|Guadeloupe|84
+Pointe Vele Airport|-14.312|-178.068|WF|Alo|83|f
 Pointe-Saint-Charles|45.481|-73.555|CA|Quebec|83
 Poiana Mare|43.917|23.067|RO|Dolj|82
 Poing|48.170|11.819|DE|Bavaria|81
 Poienile de sub Munte|47.817|24.433|RO|Maramureş|80
+Pointe Noire Airport|-4.816|11.887|CG|Kouilou|80|f
+Pointe-à-Pitre Le Raizet Airport|16.265|-61.532|GP|Guadeloupe|78|f
 Pointe-Noire|16.232|-61.789|GP|Guadeloupe|78
 Pointe aux Piments|-20.065|57.523|MU|Pamplemousses|78
 Pointe-du-Lac|48.500|-71.782|CA|Quebec|77
@@ -25,34 +28,50 @@ Point Vernon|-25.257|152.817|AU|Queensland|75
 Poiares|40.210|-8.257|PT|Coimbra|75
 Point Hill|18.090|-77.108|JM|Saint Catherine Parish|75
 Poiana Câmpina|45.127|25.711|RO|Prahova|74
+Point Hope Airport|68.349|-166.799|US|Alaska|74|f
 Poiana Teiului|47.100|25.967|RO|Neamț County|74
 Poindimié|-20.937|165.331|NC|North Province|74
 Poienile|46.933|27.183|RO|Iași County|74
+Point Kambolny|51.092|156.707|RU|Kamchatka|73|f
 Point Pleasant Beach|40.091|-74.048|US|New Jersey|73
 Poiana Crăcăoani|47.067|26.317|RO|Neamț County|73
 Point Pleasant|38.845|-82.137|US|West Virginia|73
+Point Roberts Airpark|48.979|-123.079|US|Washington|72|f
+Points North Landing Airport|58.277|-104.082|CA|Saskatchewan|72|f
 Poiana|44.567|25.683|RO|Dâmbovița County|72
 Poiana|45.245|25.663|RO|Prahova|71
 Pointe La Rue|-4.673|55.513|SC|Pointe La Rue|71
+Point Barrow|71.387|-156.479|US|Alaska|71|f
 Poienari|45.217|25.050|RO|Arges|71
 Poiana Mărului|45.600|25.300|RO|Brașov County|70
 Poienari|46.888|27.128|RO|Neamț County|70
+Point Conception|34.448|-120.472|US|California|70|f
+Point Grenville|47.304|-124.279|US|Washington|70|f
+Point Reyes|37.996|-122.995|US|California|70|f
 Poieneşti|46.617|27.533|RO|Vaslui County|70
 Poim|53.026|43.187|RU|Penza Oblast|70
 Point Baker|30.690|-87.054|US|Florida|70
 Poian|46.067|26.150|RO|Covasna County|69
 Poiana Cristei|45.650|26.983|RO|Vrancea|69
 Poiana Sibiului|45.800|23.733|RO|Sibiu County|69
+Poiana Ruscă Mountains|45.683|22.500|RO||69|f
+Point Lookout|38.038|-76.322|US|Maryland|69|f
 Point Lonsdale|-38.282|144.611|AU|Victoria|68
 Poilly-lez-Gien|47.677|2.597|FR|Centre-Val de Loire|67
 Poix-de-Picardie|49.783|1.983|FR|Hauts-de-France|67
 Poiana Maggiore|45.290|11.502|IT|Veneto|67
 Poiana Stampei|47.317|25.133|RO|Suceava|67
+Point Arguello|34.577|-120.651|US|California|67|f
+Point Isabel|37.897|-122.324|US|California|67|f
+Point Whitshed|60.448|-145.883|US|Alaska|67|f
 Point Clear|30.474|-87.919|US|Alabama|67
 Poisat|45.159|5.761|FR|Auvergne-Rhône-Alpes|66
 Poix-du-Nord|50.189|3.610|FR|Hauts-de-France|66
 Poieni-Solca|47.686|25.894|RO|Suceava|66
 Poiana|47.564|26.864|RO|Botoșani County|66
+Point Dume|34.000|-118.807|US|California|65|f
+Point Mugu|34.085|-119.061|US|California|65|f
+Poitiers–Biard Airport|46.588|0.307|FR|New Aquitaine|65|f
 Poiano|45.470|11.019|IT|Veneto|65
 Poiana Ilvei|47.357|24.741|RO|Bistrița-Năsăud County|64
 Poiana|44.652|23.531|RO|Gorj County|64
@@ -60,6 +79,8 @@ Poienarii Apostoli|44.772|26.054|RO|Prahova|64
 Poiana Codrului|47.627|23.251|RO|Satu Mare County|64
 Poiana|46.698|27.018|RO|Bacău County|64
 Poiana|47.601|26.608|RO|Botoșani County|64
+Point Judith|41.361|-71.480|US|Rhode Island|63|f
+Poipu Beach Park|21.876|-159.456|US|Hawaii|63|f
 Point of Rocks|39.276|-77.539|US|Maryland|63
 Poiana|45.992|27.256|RO|Galați County|63
 Poianella|45.630|11.629|IT|Veneto|63
@@ -75,13 +96,175 @@ Poieni|46.833|26.350|RO|Neamț County|62
 Point Lookout|40.592|-73.581|US|New York|62
 Pointe Michel|15.260|-61.375|DM|Saint Luke Parish|62
 Point Marion|39.739|-79.899|US|Pennsylvania|61
+Point Judith Pond|41.400|-71.506|US|Rhode Island|61|f
+Point Lay LRRS Airport|69.733|-163.016|US|Alaska|61|f
+Point Mugu, Naval Air Warfare Center|34.120|-119.121|US|California|61|f
+Point San Pablo|37.965|-122.429|US|California|61|f
+Point Udall|13.446|144.618|GU|Santa Rita|61|f
+Point View Dam|40.972|-74.256|US|New Jersey|61|f
+Pointe de Chésery|46.203|6.803|CH|Valais|61|f
+Pointe de l'Eyglière|44.817|6.417|FR|Provence-Alpes-Côte d'Azur|61|f
+Pointe de la Grande Casse|45.406|6.826|FR|Auvergne-Rhône-Alpes|61|f
+Pointe Rénod|45.247|6.606|FR|Auvergne-Rhône-Alpes|61|f
 Poienile-Mogoş|46.283|23.283|RO|Alba County|61
 Poiana Mărului|47.380|26.892|RO|Iași County|61
 Poieni|46.919|22.858|RO|Cluj County|60
 Poiana|43.742|24.952|RO|Teleorman County|60
 Poienile Izei|47.700|24.117|RO|Maramureş|60
 Poiana Copăceni|45.164|26.069|RO|Prahova|60
+Poiana Negrii|47.322|25.221|RO|Suceava|60
+Poienarii-Rali|44.750|26.033|RO|Prahova|60
+Poigny-la-Forêt|48.680|1.756|FR|Île-de-France|59
+Poiana Micului|47.658|25.770|RO|Suceava|59
+Poiana Seciuri|44.992|23.725|RO|Gorj County|59
+Point Venture|30.379|-97.996|US|Texas|59
+Pointis-de-Rivière|43.087|0.617|FR|Occitanie|59
+Poienile Zagrei|47.387|24.257|RO|Bistrița-Năsăud County|59
+Poiana|46.380|26.712|RO|Bacău County|59
+Poiana|44.549|27.258|RO|Ialomița County|59
+Pointe-Verte|47.854|-65.766|CA|New Brunswick|59
+Poieni|47.049|27.711|RO|Iași County|59
+Poienița|45.112|24.928|RO|Arges|59
+Point Reyes Station|38.069|-122.807|US|California|59
+Poix-Terron|49.650|4.641|FR|Grand Est|58
+Point|32.932|-95.871|US|Texas|58
+Pointis-Inard|43.086|0.811|FR|Occitanie|58
+Poienari|45.139|23.737|RO|Gorj County|58
+Point Marion Lock and Dam|39.727|-79.911|US|Pennsylvania|58|f
+Point Mountain|41.949|-75.287|US|New York|58|f
+Point No Point|47.912|-122.526|US|Washington|58|f
+Point Partridge|48.225|-122.770|US|Washington|58|f
+Point Peninsula|58.219|-6.206|GB|Scotland|58|f
+Point Pleasant Canal|40.076|-74.062|US|New Jersey|58|f
+Point Potrero|37.904|-122.366|US|California|58|f
+Point Pully|47.451|-122.383|US|Washington|58|f
+Point Wilson|48.144|-122.754|US|Washington|58|f
+Pointe d'Areu|45.982|6.576|FR|Auvergne-Rhône-Alpes|58|f
+Pointe de la Galoppaz|45.568|6.070|FR|Auvergne-Rhône-Alpes|58|f
+Pointe de Ronce|45.264|6.979|FR|Auvergne-Rhône-Alpes|58|f
+Poiana|45.876|26.759|RO|Vrancea|58
+Poienii de Sus|46.608|22.517|RO|Bihor County|58
+Poiana|47.298|26.361|RO|Neamț County|58
+Poiana|45.353|22.178|RO|Caraș-Severin County|58
+Pointe-du-Chêne|46.236|-64.517|CA|New Brunswick|58
+Poiana Largului|47.095|25.978|RO|Neamț County|58
+Poincy|48.970|2.936|FR|Île-de-France|57
+Point Comfort|28.680|-96.560|US|Texas|57
+Poieni|46.283|26.567|RO|Bacău County|57
+Poiana lui Stângă|44.511|25.586|RO|Giurgiu County|57
+Point Hope|68.349|-166.735|US|Alaska|57
+Poilley|48.618|-1.310|FR|Normandy|57
+Poienii de Jos|46.608|22.501|RO|Bihor County|57
+Poillé-sur-Vègre|47.919|-0.266|FR|Pays de la Loire|57
+Poiana|44.222|28.500|RO|Constanța County|57
+Poiana|46.448|22.580|RO|Bihor County|56
+Poilly-sur-Tholon|47.865|3.394|FR|Bourgogne-Franche-Comté|56
+Poiana di Granfion|45.486|11.730|IT|Veneto|56
+Pointblank|30.746|-95.213|US|Texas|55
+Point Leamington|49.334|-55.400|CA|Newfoundland and Labrador|55
+Poisson|46.385|4.129|FR|Bourgogne-Franche-Comté|55
+Point de Bute|45.901|-64.242|CA|New Brunswick|55
+Poiana|47.029|25.880|RO|Neamț County|55
+Poiana|47.796|26.276|RO|Suceava|55
+Pointon|52.872|-0.343|GB|England|55
 Poienari|45.070|24.531|RO|Arges|54
+Point MacKenzie|61.360|-149.978|US|Alaska|54
+Poiana|47.845|26.424|RO|Botoșani County|54
+Poiana|46.275|27.423|RO|Bacău County|54
+Point Baker Seaplane Base|56.358|-133.629|US|Alaska|54|f
+Point Buchon|35.255|-120.899|US|California|54|f
+Point Franklin|70.908|-158.809|US|Alaska|54|f
+Point Lobos|36.519|-121.955|US|California|54|f
+Point Marsden|-35.567|137.633|AU|South Australia|54|f
+Point of Rocks|35.690|-120.004|US|California|54|f
+Point Robinson|47.388|-122.373|US|Washington|54|f
+Point Sal State Beach|34.901|-120.648|US|California|54|f
+Point Widdows|-67.700|45.417|AQ||54|f
+Pointe aux Barques|44.068|-82.960|US|Michigan|54|f
+Pointe d'Arpitetta|46.111|7.666|CH|Valais|54|f
+Pointe d'Arvouin|46.320|6.806|CH|Valais|54|f
+Pointe de Charbonnel|45.281|7.060|FR|Auvergne-Rhône-Alpes|54|f
+Pointe de l'Échelle|45.270|6.684|FR|Auvergne-Rhône-Alpes|54|f
+Pointe de la Forcletta|46.187|7.659|CH|Valais|54|f
+Pointe de la Grande Journée|45.668|6.501|FR|Auvergne-Rhône-Alpes|54|f
+Pointe de la Plaine Mort|46.371|7.487|CH|Valais|54|f
+Pointe de Méan-Martin|45.368|6.989|FR|Auvergne-Rhône-Alpes|54|f
+Pointe du Mountet|46.059|7.685|CH|Valais|54|f
+Pointe du Vallonet|45.418|6.760|FR|Auvergne-Rhône-Alpes|54|f
+Pointers Airport|45.584|-121.268|US|Oregon|54|f
+Poiana Aiudului|46.365|23.606|RO|Alba County|54
+Poienari|45.317|24.650|RO|Arges|54
+Poikeke Island|-36.820|175.797|NZ|Auckland|49|f
+Poinsett, Cape|-65.767|113.217|AQ||49|f
+Point Bell Conservation Park|-32.193|133.140|AU|South Australia|49|f
+Point Davenport Conservation Park|-35.160|137.334|AU|South Australia|49|f
+Point Felipe|34.398|-119.702|US|California|49|f
+Point Jackson|-40.994|174.315|NZ|Marlborough|49|f
+Point Labatt Conservation Park|-33.151|134.263|AU|South Australia|49|f
+Point Lookout|-30.495|152.406|AU|New South Wales|49|f
+Point Street Bridge|41.818|-71.404|US|Rhode Island|49|f
+Pointe Allobrogia|45.909|7.064|CH|Valais|49|f
+Pointe d'Arcalod|45.684|6.228|FR|Auvergne-Rhône-Alpes|49|f
+Pointe d'Ireuse|46.267|6.575|FR|Auvergne-Rhône-Alpes|49|f
+Pointe de la Masse|45.297|6.509|FR|Auvergne-Rhône-Alpes|49|f
+Pointe de la Rechasse|45.374|6.803|FR|Auvergne-Rhône-Alpes|49|f
+Pointe de la Sana|45.386|6.919|FR|Auvergne-Rhône-Alpes|49|f
+Pointe de Paray|46.513|7.137|CH|Fribourg|49|f
+Pointe de Thorens|45.265|6.610|FR|Auvergne-Rhône-Alpes|49|f
+Pointe des Brasses|46.162|6.442|FR|Auvergne-Rhône-Alpes|49|f
+Pointe des Cerces|45.067|6.483|FR|Provence-Alpes-Côte d'Azur|49|f
+Pointe du Bouchet|45.253|6.604|FR|Auvergne-Rhône-Alpes|49|f
+Pointe du Dard|45.365|6.767|FR|Auvergne-Rhône-Alpes|49|f
+Pointe Helbronner|45.846|6.932|IT|Aosta Valley|49|f
+Pointe Nord de Moming|46.078|7.700|CH|Valais|49|f
+Poia Lake|48.852|-113.609|US|Montana|40|f
+Poindexter Peak|-75.217|-134.417|AQ||40|f
+Poinsett State Park|33.808|-80.539|US|South Carolina|40|f
+Point Beach|35.189|-75.776|US|North Carolina|40|f
+Point Bridge|40.440|-80.014|US|Pennsylvania|40|f
+Point Defiance Park|47.308|-122.531|US|Washington|40|f
+Point Hannon|47.887|-122.610|US|Washington|40|f
+Point Isabel Regional Shoreline|37.900|-122.325|US|California|40|f
+Point Island|45.150|-61.565|CA|Nova Scotia|40|f
+Point Islands|60.867|-70.048|CA|Nunavut|40|f
+Point Lake|65.250|-113.068|CA|Northwest Territories|40|f
+Point Lookout State Park|38.058|-76.332|US|Maryland|40|f
+Point Mallard Park|34.581|-86.930|US|Alabama|40|f
+Point Mugu State Park|34.100|-119.018|US|California|40|f
+Point of Rocks|34.758|-117.313|US|California|40|f
+Point Reyes National Seashore|38.055|-122.880|US|California|40|f
+Point San Pablo Yacht Harbor|37.964|-122.418|US|California|40|f
+Point Southworth|47.510|-122.495|US|Washington|40|f
+Point Stadium|40.329|-78.925|US|Pennsylvania|40|f
+Pointe d'Andey|46.043|6.420|FR|Auvergne-Rhône-Alpes|40|f
+Pointe d'Anterne|45.982|6.783|FR|Auvergne-Rhône-Alpes|40|f
+Pointe d'Aveneyre|46.417|7.005|CH|Vaud|40|f
+Pointe d'Orny|46.002|7.043|CH|Valais|40|f
+Pointe d'Uble|46.169|6.603|FR|Auvergne-Rhône-Alpes|40|f
+Pointe de Bellevue|46.258|6.888|CH|Valais|40|f
+Pointe de Bertol|46.010|7.528|CH|Valais|40|f
+Pointe de Boveire|45.995|7.240|CH|Valais|40|f
+Pointe de Bricola|46.062|7.592|CH|Valais|40|f
+Pointe de Chalune|46.180|6.583|FR|Auvergne-Rhône-Alpes|40|f
+Pointe de Chavasse|46.176|6.569|FR|Auvergne-Rhône-Alpes|40|f
+Pointe de Drone|45.879|7.157|IT|Aosta Valley|40|f
+Pointe de l'Au|46.200|6.841|CH|Valais|40|f
+Pointe de Miribel|46.212|6.475|FR|Auvergne-Rhône-Alpes|40|f
+Pointe de Nyon|46.147|6.722|FR|Auvergne-Rhône-Alpes|40|f
+Pointe de Vouasson|46.071|7.425|CH|Valais|40|f
+Pointe de Zinal|46.027|7.631|CH|Valais|40|f
+Pointe des Berons|46.006|6.984|FR|Auvergne-Rhône-Alpes|40|f
+Pointe des Ecandies|46.015|7.039|CH|Valais|40|f
+Pointe des Genevois|46.037|7.526|CH|Valais|40|f
+Pointe des Grands|46.003|6.990|FR|Auvergne-Rhône-Alpes|40|f
+Pointe des Mossettes|46.191|6.816|CH|Valais|40|f
+Pointe des Plines|45.981|7.055|CH|Valais|40|f
+Pointe des Savolaires|46.235|7.086|CH|Vaud|40|f
+Pointe du Tsaté|46.109|7.549|CH|Valais|40|f
+Pointe Mouillee State Game Area|42.012|-83.198|US|Michigan|40|f
+Pointe Percée|45.956|6.556|FR|Auvergne-Rhône-Alpes|40|f
+Pointe Ronde|46.041|7.020|CH|Valais|40|f
+Pointe Sud de Moming|46.073|7.695|CH|Valais|40|f
 Poigar|1.021|124.309|ID|North Sulawesi|0
 Poigar|0.996|124.283|ID|North Sulawesi|0
 Poio|42.429|-8.661|ES|Galicia|0

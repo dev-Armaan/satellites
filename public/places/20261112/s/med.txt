@@ -4,10 +4,11 @@ Medellín|6.245|-75.572|CO|Antioquia|126
 Medenine Governorate|33.333|11.000|TN||113|r
 Medinīpur|22.421|87.323|IN|West Bengal|104
 Médéa|36.264|2.754|DZ|Medea|103
+Mediterranean Sea|35.000|20.000|||103|f
 Medina Estates|5.666|-0.163|GH|Greater Accra|100
+Međimurje|46.417|16.500|HR||99|r
 Medford|42.327|-122.876|US|Oregon|98
 Medininagar|24.040|84.066|IN|Jharkhand|98
-Međimurje|46.417|16.500|HR||97|r
 Medenine|33.355|10.505|TN|Medenine Governorate|97
 Medicine Hat|50.039|-110.677|CA|Alberta|96
 Medford|42.418|-71.106|US|Massachusetts|95
@@ -68,6 +69,7 @@ Medha|17.794|73.829|IN|Maharashtra|73
 Médon|5.207|-6.217|CI|Bas-Sassandra District|73
 Medford|45.139|-90.340|US|Wisconsin|73
 Mednogorskiy|43.918|41.183|RU|Karachayevo-Cherkesiya Republic|73
+Medvednica|45.917|15.967|HR||72|f
 Medford Lakes|39.858|-74.803|US|New Jersey|72
 Medina|35.803|-88.775|US|Tennessee|72
 Medzev|48.700|20.894|SK|Košice Region|72
@@ -76,6 +78,7 @@ Medné|49.086|18.289|SK|Trenčín Region|72
 Médého|11.973|43.026|DJ|Obock|72
 Medina|26.921|-99.259|US|Texas|72
 Medeiros|-19.996|-46.226|BR|Minas Gerais|72
+Medan Kuala Namu Airport|3.639|98.874|ID|North Sumatra|71|f
 Medole|45.326|10.514|IT|Lombardy|71
 Medesano|44.758|10.138|IT|Emilia-Romagna|71
 Medenychi|49.427|23.750|UA|Lviv|70
@@ -93,6 +96,7 @@ Medellín|38.963|-5.958|ES|Extremadura|67
 Medolago|45.671|9.498|IT|Lombardy|67
 Medvezh’i Ozëra|55.869|37.986|RU|Moscow Oblast|67
 Međugorje|43.196|17.676|BA|Federation of B&H|67
+Medicine Hat Airport|50.019|-110.721|CA|Alberta|67|f
 Meduna di Livenza|45.817|12.628|IT|Veneto|67
 Medinah|41.981|-88.051|US|Illinois|66
 Medvedok|57.389|50.035|RU|Kirov Oblast|66
@@ -100,6 +104,7 @@ Medicine Lodge|37.281|-98.580|US|Kansas|66
 Médibli|6.522|-8.055|CI|Montagnes|66
 Medar|38.963|27.822|TR|Manisa|66
 Mediona|41.478|1.612|ES|Catalonia|65
+Medvezh’i Ostrova|70.837|161.551|RU|Sakha|65|f
 Mediglia|45.395|9.332|IT|Lombardy|65
 Medlov|49.788|17.063|CZ|Olomouc Region|65
 Medvedevo|45.386|33.004|UA|Crimea|65
@@ -109,6 +114,8 @@ Mediapolis|41.008|-91.164|US|Iowa|64
 Medway|45.609|-68.531|US|Maine|64
 Medio Sitio|20.869|-101.356|MX|Guanajuato|63
 Medveditskiy|50.785|44.713|RU|Volgograd Oblast|63
+Medicine Butte|41.352|-110.908|US|Wyoming|63|f
+Medina Dam|29.540|-98.934|US|Texas|63|f
 Médan|48.955|1.995|FR|Île-de-France|63
 Medranos|20.883|-101.437|MX|Guanajuato|63
 Medina de las Torres|38.333|-6.400|ES|Extremadura|63
@@ -122,18 +129,85 @@ Medford|44.174|-93.246|US|Minnesota|62
 Medindie|-34.896|138.605|AU|South Australia|61
 Meduno|46.215|12.799|IT|Friuli Venezia Giulia|61
 Medias Aguas|17.668|-95.028|MX|Veracruz|61
+Medborgarplatsen|59.315|18.072|SE|Stockholm|61|f
+Medetsiz Tepe|37.393|34.631|TR|Mersin|61|f
+Medicine Bow Airport|41.885|-106.182|US|Wyoming|61|f
+Medicine Grizzly Peak|48.559|-113.465|US|Montana|61|f
+Medicine Owl Peak|48.609|-113.495|US|Montana|61|f
+Medvědí Skála|50.571|13.465|CZ|Ústí nad Labem Region|61|f
+Medvednik|44.209|19.639|RS|Central Serbia|61|f
 Medanitos|-27.525|-67.589|AR|Catamarca|60
 Medlingen|48.570|10.316|DE|Bavaria|60
 Medford|36.807|-97.734|US|Oklahoma|60
+Medina|20.896|-100.394|MX|Guanajuato|60
 Medea|45.918|13.424|IT|Friuli Venezia Giulia|59
 Medernach|49.810|6.215|LU|Diekirch|59
+Medelby|54.812|9.173|DE|Schleswig-Holstein|59
+Medley|25.841|-80.326|US|Florida|59
+Medici Palace|43.715|10.407|IT|Tuscany|58|f
+Medlicott Dome|37.856|-119.426|US|California|58|f
+Medvejie Lake|57.023|-135.122|US|Alaska|58|f
+Medvedka|58.741|59.104|RU|Perm Krai|58
+Medina Kanuma|13.493|-16.523|GM|North Bank|58
+Meddewade|53.810|10.440|DE|Schleswig-Holstein|58
+Medora|38.825|-86.170|US|Indiana|57
 Medinaceli|41.172|-2.435|ES|Castille and León|57
+Medlov|49.035|16.522|CZ|South Moravian|56
+Medina|46.475|18.643|HU|Tolna County|55
+Medaryville|41.081|-86.892|US|Indiana|55
+Medellín|18.416|-95.366|MX|Veracruz|55
+Medeuzza|45.941|13.396|IT|Friuli Venezia Giulia|55
+Médina|5.304|-3.487|CI|Comoé District|55
+Medle|64.738|20.732|SE|Västerbotten|55
+Meddo|52.013|6.707|NL|Gelderland|54
+Medellín y Pigua 1ra. Sección|18.029|-92.913|MX|Tabasco|54
+Medard|49.667|7.617|DE|Rheinland-Pfalz|54
+Medicine Bow Mountains|40.828|-106.078|US|Colorado|54|f
+Medicine Creek Dam|40.379|-100.218|US|Nebraska|54|f
+Medicine Lake|41.582|-121.600|US|California|54|f
+Mediumfjellet|78.507|14.152|SJ|Svalbard|54|f
+Medley Rocks|-62.996|-56.036|AQ||54|f
+Medusa Peak|-79.633|157.417|AQ||54|f
+Medvedivtsi|48.553|22.604|UA|Zakarpattia|54
+Mediana|41.467|-0.706|ES|Aragon|54
+Medes Islands|42.047|3.222|ES|Catalonia|49|f
+Medford Island|38.037|-121.511|US|California|49|f
+Media Island Conservation Park|-34.429|140.588|AU|South Australia|49|f
+Medinet Habu|25.720|32.601|EG|Qena|49|f
+Medusa Pool|-57.067|-26.700|GS||49|f
+Medvecky Peaks|-70.549|67.589|AQ||49|f
 Medrano|42.384|-2.554|ES|La Rioja|46
 Medinilla|40.440|-5.618|ES|Castille and León|44
 Mediis|46.403|12.823|IT|Friuli Venezia Giulia|43
 Medora|46.914|-103.524|US|North Dakota|42
 Mediana de Voltoya|40.701|-4.563|ES|Castille and León|41
 Medranda|40.983|-2.937|ES|Castille-La Mancha|40
+Medburyville Bridge|42.871|-72.920|US|Vermont|40|f
+Meddybemps Lake|45.039|-67.358|US|Maine|40|f
+Medelhavsmuseet|59.329|18.067|SE|Stockholm|40|f
+Medeweger See|53.657|11.389|DE|Mecklenburg-Vorpommern|40|f
+Medford Municipal Airport|36.792|-97.747|US|Oklahoma|40|f
+Medford Pipe Bridge|42.418|-71.112|US|Massachusetts|40|f
+Medicine Bow Peak|41.361|-106.318|US|Wyoming|40|f
+Medicine Grizzly Lake|48.567|-113.496|US|Montana|40|f
+Medicine Lake|47.136|-82.696|CA|Ontario|40|f
+Medicine Lake|52.858|-117.760|CA|Alberta|40|f
+Medicine Lake|45.006|-93.420|US|Minnesota|40|f
+Medicine Lake|44.984|-97.352|US|South Dakota|40|f
+Medicine Lake National Wildlife Refuge|48.468|-104.382|US|Montana|40|f
+Medicine Owl Lake|48.605|-113.481|US|Montana|40|f
+Medicine Rocks State Park|46.044|-104.471|US|Montana|40|f
+Medina Lake|29.560|-98.951|US|Texas|40|f
+Medina Municipal Airport|41.136|-81.761|US|Ohio|40|f
+Medina Peaks|-85.600|-155.900|AQ||40|f
+Medizinische Hochschule Hannover|52.384|9.804|DE|Lower Saxony|40|f
+Medley Ridge|-77.533|160.183|AQ||40|f
+Medvedgrad|45.870|15.941|HR|Zagreb|40|f
+Medven Glacier|-62.546|-60.709|AQ||40|f
+Medalem|-7.002|111.714|ID|East Java|0
+Medang|-6.914|111.440|ID|Central Java|0
+Medangdatar|-7.158|108.125|ID|West Java|0
+Medokanayu|-7.326|112.799|ID|East Java|0
 Medovene|43.767|26.517|BG|Razgrad|0
 Medveđa|42.843|21.583|RS|Central Serbia|0
 Medvedivka|49.173|32.376|UA|Cherkasy|0

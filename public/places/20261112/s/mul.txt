@@ -18,6 +18,7 @@ Muluppilagadu|11.798|75.451|IN|Kerala|87
 Mulavukad|10.014|76.263|IN|Kerala|87
 Mulgrave|-37.928|145.177|AU|Victoria|86
 Mulakumūd|8.268|77.286|IN|Tamil Nadu|86
+Multan International Airport|30.203|71.419|PK|Punjab|86|f
 Mulgund|15.281|75.521|IN|Karnataka|86
 Müllheim|47.808|7.630|DE|Baden-Wurttemberg|85
 Mūlki|13.091|74.794|IN|Karnataka|85
@@ -66,19 +67,33 @@ Mulot|-0.938|35.422|KE|Bomet County|70
 Mulazzano|45.372|9.398|IT|Lombardy|70
 Mulda|50.808|13.415|DE|Saxony|69
 Mulu|1.683|111.383|MY|Sarawak|69
+Mulhadhoo|7.013|72.996|MV|Haa Alifu Atholhu|69|f
 Mulauin|13.867|121.017|PH|Calabarzon|68
 Müllheim|47.602|9.004|CH|Thurgau|68
 Mulberry|36.240|-81.181|US|North Carolina|67
 Mulwala|-35.985|146.005|AU|New South Wales|67
+Mulaku Atoll|3.000|73.500|MV|Meemu Atholhu|67|f
+Mulatupo Airport|8.945|-77.733|PA|Guna Yala|67|f
 Muldenstein|51.672|12.345|DE|Saxony-Anhalt|67
 Mulino|45.222|-122.582|US|Oregon|66
 Mulino|44.493|11.047|IT|Emilia-Romagna|66
 Mullion|50.027|-5.242|GB|England|66
 Müllheim-Feldberg|47.774|7.641|DE|Baden-Wurttemberg|65
+Mulitefala|-8.434|179.167|TV|Funafuti|65|f
+Mullacor|52.985|-6.374|IE|Leinster|65|f
+Mullaghanattin|51.934|-9.835|IE|Munster|65|f
+Müller Crest|-72.183|8.117|AQ||65|f
+Mullutu-Suurlaht|58.252|22.420|EE|Saare|65|f
 Muliterno|-28.329|-51.767|BR|Rio Grande do Sul|65
 Mulberry|35.501|-94.052|US|Arkansas|64
 Multé|17.688|-91.379|MX|Tabasco|64
 Muldersdriseloop|-26.037|27.838|ZA|Gauteng|64
+Mulga Island|-67.233|46.717|AQ||63|f
+Muli Island|-20.724|166.430|NC||63|f
+Mullaghcleevaun|53.104|-6.407|IE|Leinster|63|f
+Mullet Peninsula|54.200|-10.050|IE|Connacht|63|f
+Mullett Lake|45.513|-84.526|US|Michigan|63|f
+Mulu Airport|4.047|114.806|MY|Sarawak|63|f
 Mullens|37.583|-81.380|US|West Virginia|63
 Müllendorf|47.839|16.463|AT|Burgenland|63
 Multia|62.417|24.783|FI|Central Finland|63
@@ -86,14 +101,107 @@ Mulatupo|8.947|-77.751|PA|Guna Yala|62
 Mulberry|40.344|-86.665|US|Indiana|62
 Müllendorf|49.680|6.130|LU|Luxembourg|62
 Mullagh|53.813|-6.951|IE|Ulster|61
+Muldrow Glacier|63.118|-150.655|US|Alaska|61|f
+Mule Mountains|33.509|-114.831|US|California|61|f
+Mulhacén|37.053|-3.311|ES|Andalusia|61|f
+Müllerberget|77.663|21.561|SJ|Svalbard|61|f
+Mullewa Airport|-28.475|115.517|AU|Western Australia|61|f
+Mullins Harbour|-10.480|149.987|PG|Milne Bay Province|61|f
 Mulambin|-23.188|150.789|AU|Queensland|61
 Muli|2.922|73.581|MV|Meemu Atholhu|60
+Muldraugh|37.937|-85.992|US|Kentucky|60
+Mülheim|49.913|7.019|DE|Rheinland-Pfalz|59
+Mulga|33.550|-86.974|US|Alabama|58
+Mulainagiri|13.389|75.721|IN|Karnataka|58|f
+Mulatto Mountain|36.348|-81.506|US|North Carolina|58|f
+Mule Island|-68.646|77.827|AQ||58|f
+Mule Key|24.563|-81.861|US|Florida|58|f
+Mule Mountains|31.444|-109.863|US|Arizona|58|f
+Mulika Lodge Airport|0.161|38.195|KE|Isiolo County|58|f
+Mullach Coire Mhic Fhearchair|57.709|-5.271|GB|Scotland|58|f
+Mullach Fraoch-choire|57.205|-5.156|GB|Scotland|58|f
+Mullach nan Coirean|56.750|-5.072|GB|Scotland|58|f
+Mullaghareirk Mountains|52.333|-9.133|IE|Munster|58|f
+Mullaghcarn|54.674|-7.209|GB|Northern Ireland|58|f
+Multajo|16.721|-92.873|MX|Chiapas|58
+Mulaly|45.451|78.315|KZ|Zhetysu Region|57
+Mul’ta|50.172|85.958|RU|Altai|57
+Müllenbach|50.221|7.066|DE|Rheinland-Pfalz|57
+Mullem|50.897|3.605|BE|Flanders|57
+Mullan|47.470|-115.802|US|Idaho|57
+Mulgrave|45.612|-61.391|CA|Nova Scotia|56
+Muliparte|45.816|11.985|IT|Veneto|56
+Mulberry Grove|38.925|-89.269|US|Illinois|56
+Mulanjey|26.169|-108.730|MX|Sinaloa|55
+Mulanjey (Estación Vega)|26.169|-108.730|MX|Sinaloa|55
+Mulbring|-32.905|151.485|AU|New South Wales|55
+Mulliken|42.762|-84.896|US|Michigan|55
+Mūlenjān|32.719|51.797|IR|Isfahan|55
+Mulazzano Ponte|44.602|10.269|IT|Emilia-Romagna|55
+Mullhyttan|59.150|14.683|SE|Örebro|55
+Mullion Creek|-33.125|149.128|AU|New South Wales|55
+Mullumbimby Creek|-28.547|153.436|AU|New South Wales|54
+Mulberry|33.952|-80.333|US|South Carolina|54
+Mulberry Island|37.115|-76.590|US|Virginia|54|f
+Mulebreen|-67.468|59.355|AQ||54|f
+Mulege Airport|26.897|-111.958|MX|Baja California Sur|54|f
+Mulifenua|-9.327|-171.212|TK|Fakaofo|54|f
+Mull of Kintyre|55.299|-5.799|GB|Scotland|54|f
+Mullaghanish|51.983|-9.144|IE|Munster|54|f
+Mullaghmore|54.850|-6.851|GB|Northern Ireland|54|f
+Mulwala Canal|-35.985|146.013|AU|New South Wales|54|f
+Mulong|27.729|109.069|CN|Guizhou|54
+Mullewa|-28.540|115.512|AU|Western Australia|54
+Mulberry|37.557|-94.622|US|Kansas|54
 Mullen|42.043|-101.043|US|Nebraska|54
+Mulsum|53.667|8.550|DE|Lower Saxony|54
+Müllenbach|50.317|6.917|DE|Rheinland-Pfalz|54
+Mulah|2.948|73.585|MV||49|f
+Mulayit Taung|16.183|98.528|MM|Kayin State|49|f
+Muldoanich Island|56.918|-7.446|GB|Scotland|49|f
+Mule Peninsula|-68.645|77.979|AQ||49|f
+Mule Point|-67.087|58.293|AQ||49|f
+Mulkkusaaret|64.370|27.710|FI|Kainuu|49|f
+Mull Covered Bridge|41.261|-83.184|US|Ohio|49|f
+Mull of Galloway|54.635|-4.855|GB|Scotland|49|f
+Mulligan Peak|-77.183|160.250|AQ||49|f
+Mullinger Swamp Conservation Park|-36.854|140.969|AU|South Australia|49|f
+Mullion Island|50.017|-5.250|GB|England|49|f
+Mulock Glacier|-79.000|160.000|AQ||49|f
+Mulroy Bay|55.155|-7.685|IE|Ulster|49|f
+Mulroy Island|-71.917|-97.833|AQ||49|f
+Mulungushi Dam|-14.634|28.844|ZM|Central Province|49|f
 Mulazzo|44.316|9.891|IT|Tuscany|46
+Mülbach|49.969|6.405|DE|Rheinland-Pfalz|42
+Mule Jail Lake|32.391|-90.079|US|Mississippi|40|f
+Muleshoe National Wildlife Refuge|33.960|-102.755|US|Texas|40|f
+Mullach Clach a' Bhlair|57.012|-3.841|GB|Scotland|40|f
+Mulladay Hollow Bridge|36.435|-93.766|US|Arkansas|40|f
+Mullen, Mount|-78.800|-84.600|AQ||40|f
+Müller Glacier|-72.267|166.400|AQ||40|f
+Mullet Key|28.881|-82.692|US|Florida|40|f
+Mulry Square|40.736|-74.001|US|New York|40|f
+Mulakoli|-8.804|121.218|ID|East Nusa Tenggara|0
 Mulaló|-0.781|-78.575|EC|Cotopaxi|0
+Mulan|26.496|116.390|CN|Jiangxi|0
 Mulan|45.947|128.037|CN|Heilongjiang|0
+Mulan|31.100|114.455|CN|Hubei|0
+Mulandoro|-8.538|123.510|ID|East Nusa Tenggara|0
+Mulankera|-8.516|123.485|ID|East Nusa Tenggara|0
+Mulawato|-8.326|123.150|ID|East Nusa Tenggara|0
 Mulayḩ|31.585|35.807|JO|Madaba|0
+Muldenhammer|50.450|12.483|DE|Saxony|0
+Muleng|44.520|130.251|CN|Heilongjiang|0
+Muli|28.449|120.341|CN|Zhejiang|0
+Mulin|40.243|116.782|CN|Beijing|0
 Mulondo|-15.643|15.197|AO|Huíla|0
 Mulukukú|13.176|-84.955|NI|North Caribbean Coast|0
 Muluncay|-3.636|-79.636|EC|El Oro|0
+Mulyadadi|-7.321|108.751|ID|Central Java|0
+Mulyasari|-7.039|108.354|ID|West Java|0
+Mulyo|-8.171|111.798|ID|East Java|0
+Mulyoagung|-6.965|111.788|ID|East Java|0
+Mulyorejo|-7.159|111.565|ID|Central Java|0
+Mulyorejo|-7.263|112.784|ID|East Java|0
 Mulyosari|-7.507|108.786|ID|Central Java|0
+Mulyosari|-8.560|114.090|ID|East Java|0

@@ -16,6 +16,7 @@ Kolomyia|48.525|25.037|UA|Ivano-Frankivsk|96
 Kolaboui|10.796|-14.400|GN|Boké Region|95
 Kollegāl|12.154|77.111|IN|Karnataka|95
 Kolokani|13.574|-8.033|ML|Koulikoro|94
+Kolyma Mountains|63.000|159.999|RU||93|f
 Kol’chugino|56.304|39.377|RU|Vladimir Oblast|93
 Kołobrzeg|54.176|15.583|PL|West Pomerania|93
 Kolomyagi|60.024|30.285|RU|St. Petersburg|92
@@ -34,9 +35,12 @@ Kolavallúr|11.751|75.620|IN|Kerala|86
 Kolāras|25.219|77.612|IN|Madhya Pradesh|86
 Kolkhozobod|37.588|68.659|TJ|Khatlon Province|85
 Kolbermoor|47.850|12.067|DE|Bavaria|85
+Kolhapur Airport|16.665|74.289|IN|Maharashtra|85|f
 Kolaccheri|11.976|75.417|IN|Kerala|85
 Kolia|9.765|-6.464|CI|Savanes District|84
+Kolossi Castle|34.665|32.934|CY|Limassol|83|f
 Koluszki|51.739|19.820|PL|Łódź Voivodeship|83
+Kolwezi Airport|-10.766|25.506|CD|Lualaba|81|f
 Kōlazhi|10.572|76.219|IN|Kerala|81
 Kolyvan’|55.309|82.742|RU|Novosibirsk Oblast|81
 Kolno|53.411|21.929|PL|Podlasie|81
@@ -55,6 +59,7 @@ Kololi|13.450|-16.717|GM|Western|79
 Kolvi|23.942|75.599|IN|Rajasthan|79
 Kolyshley|52.700|44.537|RU|Penza Oblast|78
 Kolki|17.979|74.450|IN|Maharashtra|78
+Koltur|61.991|-6.981|FO|Streymoy|78|f
 Kolvānaq|38.100|46.989|IR|East Azerbaijan|77
 Kolpna|52.223|37.031|RU|Oryol oblast|77
 Kolossi|34.669|32.934|CY|Larnaka|76
@@ -62,6 +67,7 @@ Ko Lanta|7.534|99.086|TH|Krabi|76
 Kolonia|6.964|158.206|FM|Pohnpei State|76
 Kolodeznyy|51.333|39.183|RU|Voronezh Oblast|75
 Kölleda|51.187|11.245|DE|Thuringia|75
+Kolaba Fort|18.634|72.864|IN|Maharashtra|75|f
 Kolosovka|56.469|73.617|RU|Omsk Oblast|75
 Kolāhī|27.061|56.873|IR|Hormozgan|75
 Kolonia Town|6.964|158.206|FM|Pohnpei State|75
@@ -72,18 +78,26 @@ Kolinkivtsy|48.413|26.125|UA|Chernivtsi|74
 Kolo|-29.689|27.688|LS|Maseru District|74
 Kolt|56.108|10.070|DK|Central Jutland|74
 Kolochava|48.426|23.698|UA|Zakarpattia|74
+Kólpos Chaníon|35.597|23.927|GR|Crete|73|f
 Kolchyno|48.469|22.758|UA|Zakarpattia|73
+Kolga Bay|59.541|25.415|EE|Harjumaa|72|f
+Koliganek Airport|59.727|-157.267|US|Alaska|72|f
+Kólpos Episkopís|34.633|32.833|CY|Limassol|72|f
 Kolympári|35.541|23.780|GR|Crete|72
 Kölliken|47.333|8.022|CH|Aargau|72
 Kol’chugino|44.944|33.789|UA|Crimea|72
 Kolonyama|-29.065|27.733|LS||72
 Kolari|67.330|23.778|FI|Lapland|72
 Koltubanovskiy|52.941|52.027|RU|Orenburg Oblast|72
+Ko Lamphu|9.137|99.315|TH|Surat Thani|71|f
+Kólpos Ammochostoú|35.167|34.000|CY|Ammochostos|71|f
 Koloniya Zastav’ye|50.817|27.033|UA|Rivne Oblast|71
 Kologriv|58.827|44.318|RU|Kostroma Oblast|71
 Kolon|9.044|-4.215|CI|Savanes District|71
 Kologo|8.976|-6.887|CI|Woroba|71
 Kolonowskie|50.653|18.385|PL|Opole Voivodeship|71
+Kolchak Island|76.017|97.000|RU|Krasnoyarsk Krai|70|f
+Kolpashevo Airport|58.326|82.933|RU|Tomsk Oblast|70|f
 K’olkhida|43.258|40.288|GE|Abkhazia|70
 Kolodenka|50.586|26.316|UA|Rivne Oblast|70
 Kolbudy|54.270|18.466|PL|Pomerania|70
@@ -98,6 +112,9 @@ Kolobovo|56.702|41.342|RU|Ivanovo Oblast|69
 Kolape|5.070|119.897|PH|Autonomous Region in Muslim Mindanao|69
 Kolchanovo|60.016|32.588|RU|Leningradskaya Oblast'|69
 Kolyubakino|55.668|36.532|RU|Moscow Oblast|69
+Kolfjellet|77.808|14.940|SJ|Svalbard|69|f
+Kolpina Island|58.046|27.646|RU|Pskov Oblast|69|f
+Kólpos Mórfou|35.179|32.832|CY|Nicosia|69|f
 Kolomak|49.841|35.300|UA|Kharkiv|69
 Kolumbug|6.524|124.608|PH|Soccsksargen|68
 Kölln-Reisiek|53.757|9.698|DE|Schleswig-Holstein|68
@@ -106,12 +123,18 @@ Kolambugan|8.114|123.897|PH|Northern Mindanao|68
 Kolokaha|8.972|-5.193|CI|Vallée du Bandama District|67
 Kolūr|37.388|48.722|IR|Ardabil Province|67
 Koloriāng|27.910|93.355|IN|Arunachal Pradesh|67
+Kolamaafushi|0.838|73.186|MV||67|f
+Kolkheti National Park|42.153|41.778|GE||67|f
 Koloa|21.904|-159.467|US|Hawaii|67
 Kolodne|48.165|23.600|UA|Zakarpattia|67
 Kolbäck|59.565|16.230|SE|Västmanland|66
 Koleczkowo|54.486|18.344|PL|Pomerania|66
 Kolanukonda|16.454|80.610|IN|Andhra Pradesh|66
 Kolut|45.893|18.928|RS|Vojvodina|66
+Ko Lan|12.916|100.778|TH|Chon Buri|65|f
+Ko Lipe|6.491|99.303|TH|Satun|65|f
+Kolbeinn's Isle|67.149|-18.687|IS|Northeast|65|f
+Kólpos Argostolíou|38.164|20.458|GR|Ionian Islands|65|f
 Kollbrunn|47.458|8.783|CH|Zurich|65
 Kolárovice|49.272|18.533|SK|Žilina Region|65
 Kollmar|53.729|9.479|DE|Schleswig-Holstein|65
@@ -120,6 +143,10 @@ Kolarovo|41.364|23.107|BG|Blagoevgrad|65
 Koloděje|50.063|14.643|CZ|Prague|64
 Kolsass|47.300|11.633|AT|Tyrol|64
 Kolíňany|48.361|18.197|SK|Nitra Region|64
+Ko Losin|7.324|101.898|TH|Songkhla|63|f
+Kolana Rock|37.952|-119.760|US|California|63|f
+Kolkau Concentration Camp|54.714|18.054|PL|Pomerania|63|f
+Kolombangara Island|-7.976|157.072|SB|Honiara|63|f
 Kolychivka|51.416|31.303|UA|Chernihiv Oblast|63
 Kolvereid|64.865|11.605|NO|Trøndelag|63
 Kolinec|49.299|13.439|CZ|Plzeň Region|63
@@ -138,27 +165,119 @@ Kolokaha|9.048|-6.094|CI|Savanes District|61
 Kolonza|10.649|-6.407|CI|Savanes District|61
 Koliko|10.185|-7.443|CI|Denguélé District|61
 Kölbingen|50.550|7.933|DE|Rheinland-Pfalz|61
+Ko Lanta Yai|7.566|99.057|TH|Krabi|61|f
+Kolåstinden|62.259|6.311|NO|Møre og Romsdal|61|f
+Kollerfjorden|79.300|12.000|SJ|Svalbard|61|f
+Kollóttadyngja|65.220|-16.547|IS|Northeast|61|f
+Kolob Creek Dam|37.432|-113.047|US|Utah|61|f
+Kolyuchinskaya Guba|66.819|-174.379|RU|Chukotka|61|f
 Kolkā Sarā|37.130|50.265|IR|Gilan Province|61
 Kolosky|45.271|33.300|UA|Crimea|61
 Kolhorn|52.794|4.889|NL|North Holland|61
+Kołaczkowo|53.034|17.784|PL|Kujawsko-Pomorskie|60
 Kolsko|51.961|15.960|PL|Lubusz|60
 Kolodeznoye|45.227|34.337|UA|Crimea|60
+Koloveč|49.487|13.109|CZ|Plzeň Region|60
+Kolū Deh|36.554|52.305|IR|Māzandarān|60
+Kolonshchyna|50.452|29.948|UA|Kyiv Oblast|59
+Kolā Sar|38.343|48.538|IR|Ardabil Province|59
+Koldenbüttel|54.383|9.067|DE|Schleswig-Holstein|59
+Kolová|50.187|12.903|CZ|Carlsbad Region|59
+Koliadivka|49.083|39.195|UA|Luhansk|59
+Kolet|36.675|53.383|IR|Māzandarān|59
+Kolia|10.095|-6.130|CI|Savanes District|59
+Kolomiytsi|47.965|36.345|UA|Dnipropetrovsk|59
+Kolham|53.182|6.744|NL|Groningen|59
+Kollerschlag|48.605|13.841|AT|Upper Austria|59
+Kollafjørður|62.112|-6.911|FO|Streymoy|58
+Kolešovice|50.140|13.610|CZ|Central Bohemia|58
 Kolsassberg|47.282|11.653|AT|Tyrol|58
 Kolomatske|49.609|34.768|UA|Poltava|58
+Kolbsheim|48.561|7.590|FR|Grand Est|58
+Kolbenberg|50.243|8.496|DE|Hesse|58|f
+Kolin Kansallispuisto|63.076|29.833|FI|North Karelia|58|f
+Köllenspitze|47.500|10.633|AT|Tyrol|58|f
+Koloveden Kansallispuisto|62.233|28.833|FI|South Savo|58|f
+Kolspissfjella|78.020|14.733|SJ|Svalbard|58|f
+Kolumadulu Atoll|2.384|73.109|MV|Thaa Atholhu|58|f
+Kolymskaya Guba|70.963|151.902|RU|Sakha|58|f
+Kolo|8.679|-4.772|CI|Vallée du Bandama District|58
+Kolíri|37.685|21.474|GR|West Greece|58
+Kołczewo|53.965|14.616|PL|West Pomerania|58
 Kołaczkowo|52.217|17.624|PL|Greater Poland|58
+Kollmitzberg|48.178|14.865|AT|Lower Austria|58
+Kolokynthoú|40.505|21.211|GR|West Macedonia|57
+Kolomytsi|50.071|32.176|UA|Cherkasy|57
+Kolšov|49.903|16.947|CZ|Olomouc Region|57
+Kolm-e Bālā|33.358|46.914|IR|Ilam Province|57
 Kol’tsovo|45.328|33.450|UA|Crimea|57
+Kollow|53.464|10.461|DE|Schleswig-Holstein|56
+Kolenovo|56.954|39.192|RU|Yaroslavl Oblast|56
+Kolo|9.302|-5.545|CI|Savanes District|56
+Kolosnykove|48.051|38.056|UA|Donetsk|56
+Kolno|53.997|20.995|PL|Warmia-Masuria|55
+Kolbu|60.650|10.745|NO|Innlandet|55
+Koleč|50.199|14.223|CZ|Central Bohemia|55
+Kolovai|-21.101|-175.338|TO|Tongatapu|55
+Kolokpo|9.751|-5.988|CI|Savanes District|55
+Kolon|8.268|-7.217|CI|Woroba|55
+Kolālū|38.330|48.514|IR|Ardabil Province|54
 Kolomyichykha|49.448|37.972|UA|Luhansk|54
+Kolomban|45.590|13.747|SI|Urban Municipality of Koper|54
+Kolda North Airport|12.899|-14.968|SN|Kolda|54|f
+Kolkonjärvi|62.002|28.145|FI|South Savo|54|f
+Kollerfjellet|76.521|25.068|SJ|Svalbard|54|f
+Kölpinsee|53.504|12.579|DE|Mecklenburg-Vorpommern|54|f
+Kolsvatnet|59.161|7.295|NO|Agder|54|f
+Kolven Island|-67.549|61.468|AQ||54|f
+Kolodeznoye|45.022|33.832|UA|Crimea|54
+Kollig|50.267|7.283|DE|Rheinland-Pfalz|53
 Kołbaskowo|53.336|14.438|PL|West Pomerania|52
+Kollweiler|49.517|7.583|DE|Rheinland-Pfalz|52
 Kolan|44.494|14.961|HR|Zadar|50
+Kolahoi|34.166|75.329|IN|Ladakh|49|f
+Kolahoi Glacier|34.182|75.330|IN|Ladakh|49|f
+Kolaribetta|11.291|76.556|IN|Tamil Nadu|49|f
+Kolding Fjord|55.493|9.587|DK|South Denmark|49|f
+Kolla|62.292|9.487|NO|Trøndelag|49|f
+Koloc Point|-74.167|-111.650|AQ||49|f
+Kolokani Airport|13.524|-8.046|ML|Bamako|49|f
+Kolsnaren|59.042|16.002|SE|Södermanland|49|f
+Koltermann Peak|-77.483|160.383|AQ||49|f
 Koloni|34.749|32.466|CY|Pafos|48
+Kolverath|50.267|6.967|DE|Rheinland-Pfalz|43
+Kolhufushi|2.365|73.363|MV||40|f
+Kolich Point|-77.350|163.550|AQ||40|f
+KOLN-TV (Lincoln)|40.802|-97.180|US|Nebraska|40|f
+Kölnbreinsperre|47.079|13.340|AT|Carinthia|40|f
+Kölner Philharmonie|50.941|6.960|DE|North Rhine-Westphalia|40|f
+KOLO-TV (Reno)|39.314|-119.884|US|Nevada|40|f
+Kolob Reservoir|37.432|-113.048|US|Utah|40|f
+Kolodischi TV Mast|53.961|27.778|BY||40|f
+Kolp, Mount|-81.650|161.700|AQ||40|f
+KOLR-TV (Springfield)|37.219|-92.949|US|Missouri|40|f
+KOLY-FM (Mobridge)|45.531|-100.342|US|South Dakota|40|f
+Kolkerheide|54.617|9.133|DE|Schleswig-Holstein|37
+Kollmoor|53.920|9.594|DE|Schleswig-Holstein|31
 Kolaka|-4.060|121.606|ID|Southeast Sulawesi|0
 Kolay|41.418|35.801|TR|Samsun|0
+Kolbano|-10.035|124.522|ID|East Nusa Tenggara|0
 Kolbotn|59.811|10.804|NO|Akershus|0
 Kolç|41.787|19.676|AL|Lezhë County|0
 Kole|2.400|32.800|UG|Northern Region|0
+Kolhua|-10.214|123.642|ID|East Nusa Tenggara|0
+Kolibali|-8.289|123.249|ID|East Nusa Tenggara|0
+Kolirerek|-8.445|123.472|ID|East Nusa Tenggara|0
 Kolky|51.101|25.667|UA|Volyn|0
+Kolla|-10.658|123.158|ID|East Nusa Tenggara|0
+Kolla|-6.883|115.349|ID|East Java|0
+Kolo|-8.372|118.719|ID|West Nusa Tenggara|0
+Kolo|-9.744|124.583|ID|East Nusa Tenggara|0
+Kolobolon|-10.803|123.135|ID|East Nusa Tenggara|0
 Kolodiazhne|51.181|24.798|UA|Volyn|0
+Kolomanu|-10.241|123.699|ID|East Nusa Tenggara|0
 Kolonjë|40.824|19.604|AL|Fier County|0
 Kolonodale|-1.982|121.336|ID|Central Sulawesi|0
+Kolor|-7.106|113.617|ID|East Java|0
 Kolsh|42.078|20.342|AL|Kukës County|0
 Kolyndiany|48.962|25.952|UA|Ternopil|0

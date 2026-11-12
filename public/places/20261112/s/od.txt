@@ -10,10 +10,12 @@ Ode|7.790|5.712|NG|Ondo State|98
 Ödemiş|38.228|27.970|TR|İzmir Province|97
 Odienné|9.505|-7.564|CI|Denguélé District|95
 Odivelas|38.793|-9.184|PT|Lisbon|95
+Odesa International Airport|46.427|30.676|UA|Odesa|92|f
 Odenton|39.084|-76.700|US|Maryland|91
 Odorheiu Secuiesc|46.300|25.300|RO|Harghita County|91
 Ōdachō-ōda|35.190|132.508|JP|Shimane|91
 Oddanchathiram|10.480|77.750|IN|Tamil Nadu|90
+Odeon of Herodes Atticus|37.971|23.725|GR|Attica|89|f
 Od|22.621|73.117|IN|Gujarat|87
 Oderzo|45.781|12.494|IT|Veneto|84
 Odenthal|51.033|7.117|DE|North Rhine-Westphalia|84
@@ -22,6 +24,8 @@ Odaiyakulam|10.568|76.910|IN|Tamil Nadu|83
 Odder|55.973|10.153|DK|Central Jutland|82
 Odlābāri|26.836|88.629|IN|West Bengal|82
 Odžak|45.025|18.321|BA|Federation of B&H|81
+Ødevatnet|69.065|28.989|NO|Finnmark|80|f
+Odate–Noshiro Airport|40.192|140.371|JP|Akita|80|f
 Odugattūr|12.768|78.883|IN|Tamil Nadu|79
 Ōdai|34.396|136.407|JP|Mie|79
 Odobeşti|45.767|27.050|RO|Vrancea|78
@@ -46,6 +50,7 @@ Odoreu|47.800|23.000|RO|Satu Mare County|74
 Odiong|10.286|123.053|PH|Western Visayas|73
 Odelzhausen|48.309|11.199|DE|Bavaria|73
 Odzun|41.053|44.613|AM|Lori|72
+Odae-san|37.783|128.539|KR|Gangwon-do|72|f
 Odiongan|8.846|125.166|PH|Northern Mindanao|72
 Odenville|33.677|-86.397|US|Alabama|71
 Odos|43.196|0.057|FR|Occitanie|71
@@ -56,6 +61,8 @@ Odala|13.478|120.822|PH|Mimaropa|70
 Odrzykoń|49.741|21.741|PL|Subcarpathia|69
 Òdena|41.600|1.650|ES|Catalonia|69
 Odiong|11.536|122.467|PH|Western Visayas|69
+Odderøya|58.133|8.007|NO|Agder|69|f
+Odiham Castle|51.261|-0.962|GB|England|69|f
 Odensjö|57.717|14.167|SE|Jönköping|68
 Odra|45.730|15.992|HR|Zagreb|68
 Ödeshög|58.229|14.653|SE|Östergötland|68
@@ -63,15 +70,24 @@ Oderberg|52.866|14.045|DE|Brandenburg|68
 Odem|27.951|-97.582|US|Texas|68
 Odicon|13.530|123.059|PH|Bicol Region|68
 Odradokamyanka|46.786|33.302|UA|Kherson|67
+Odagawa Dam|40.889|140.541|JP|Aomori|67|f
+Oder Dam|51.646|10.505|DE|Lower Saxony|67|f
+Oder-Havel-Kanal|52.705|13.250|DE|Brandenburg|67|f
 Odell|45.627|-121.543|US|Oregon|67
 Odogui|5.627|-4.203|CI|Lagunes District|67
 Odolo|45.645|10.383|IT|Lombardy|66
 Odrzywół|51.520|20.556|PL|Mazovia|66
+Ödenburger Gebirge|47.667|16.500|AT||65|f
+Odense Airport|55.477|10.331|DK|South Denmark|65|f
 Odoorn|52.849|6.851|NL|Drenthe|65
 Odernheim|49.765|7.704|DE|Rheinland-Pfalz|65
 Odranci|46.586|16.280|SI|Municipality of Odranci|64
 Odaia Manolache|45.549|27.991|RO|Galați County|64
 Odranski Obrež|45.717|15.933|HR|Zagreb|64
+Ŏdap-san|37.584|128.069|KR|Gangwon-do|63|f
+Oderské vrchy|49.633|17.567|CZ||63|f
+Odessa Meteor Crater|31.756|-102.479|US|Texas|63|f
+Ödriegel|49.159|13.027|DE|Bavaria|63|f
 Ödsmål|58.100|11.850|SE|Västra Götaland|63
 Odon|38.843|-86.991|US|Indiana|63
 Odrzechowa|49.545|21.976|PL|Subcarpathia|63
@@ -85,9 +101,60 @@ Odabaşı|37.026|30.681|TR|Antalya|61
 Odăile|45.383|26.550|RO|Buzău County|61
 Odin|38.617|-89.052|US|Illinois|60
 Odeur|50.706|5.416|BE|Wallonia|60
+Odell|41.004|-88.525|US|Illinois|60
+Odebolt|42.312|-95.251|US|Iowa|60
+O'Donnell Heights|39.276|-76.542|US|Maryland|60
+Odeceixe|37.433|-8.771|PT|Faro|60
+Odrowąż|49.497|19.853|PL|Lesser Poland|59
+Odomez|50.453|3.523|FR|Hauts-de-France|59
+Odenbach|49.683|7.650|DE|Rheinland-Pfalz|59
+Odporyszów|50.152|20.912|PL|Lesser Poland|59
+Odessa|47.333|-118.691|US|Washington|59
+O'Donnell|32.964|-101.833|US|Texas|58
+Odakota Mountain|43.923|-103.754|US|South Dakota|58|f
+Odell Castle|52.211|-0.588|GB|England|58|f
+Oder Dam|51.659|10.525|DE|Lower Saxony|58|f
+Odzaberd|40.152|45.496|AM|Gegharkunik|58|f
+Odabaşı|37.105|41.463|TR|Mardin|58
+Odiahé|7.470|-5.376|CI|Vallée du Bandama District|58
+Odcombe|50.934|-2.702|GB|England|58
+Odra Sisačka|45.501|16.341|HR|Sisak-Moslavina|57
+Odenas|46.088|4.647|FR|Auvergne-Rhône-Alpes|57
+Odars|43.523|1.589|FR|Occitanie|57
+Odăile|44.824|26.059|RO|Prahova|56
+Odisheim|53.696|8.943|DE|Lower Saxony|56
+Ödeborg|58.545|11.975|SE|Västra Götaland|55
+Odaia Bursucani|46.153|27.711|RO|Vaslui County|55
+Odessa|42.337|-76.789|US|New York|55
+Odești|47.516|23.096|RO|Maramureş|55
+Ödsmål|58.717|11.483|SE|Västra Götaland|55
+Odense Fjord|55.489|10.559|DK|South Denmark|54|f
+Odienné Airport|9.539|-7.561|CI|Denguélé District|54|f
+Odiorne Point State Park|43.039|-70.725|US|New Hampshire|54|f
+Odness|59.133|-2.533|GB|Scotland|54|f
+Odrihei|46.405|24.568|RO|Mureș County|54
+Odum|31.666|-82.028|US|Georgia|54
 Odobești|46.676|27.150|RO|Bacău County|53
+Odderade|54.139|9.194|DE|Schleswig-Holstein|50
+Odbert Island|-66.373|110.541|AQ||49|f
+Oddi|63.775|-20.387|IS|South|49|f
+Odell Glacier|-76.733|159.917|AQ||49|f
+Odell Hill|42.773|-73.335|US|New York|49|f
+Odishaw, Mount|-84.683|174.617|AQ||49|f
 Odalengo Piccolo|45.072|8.206|IT|Piedmont|49
 Odón|40.884|-1.568|ES|Aragon|48
+O'Donnell Peak|-72.400|166.017|AQ||40|f
+O'Dowd Lake|44.737|-93.517|US|Minnesota|40|f
+Odaray Mountain|51.358|-116.382|CA|British Columbia|40|f
+Odell Lake|59.884|-64.232|CA|Newfoundland and Labrador|40|f
+Odell Lake|42.423|-74.691|US|New York|40|f
+Odell Lake|34.935|-111.631|US|Arizona|40|f
+Odell Lake|43.572|-122.001|US|Oregon|40|f
+Odenplan|59.343|18.049|SE|Stockholm|40|f
+Odenwald|49.402|9.029|DE|Baden-Wurttemberg|40|f
+Oderin Island|47.290|-54.809|CA|Newfoundland and Labrador|40|f
+Odin Glacier|-77.583|161.600|AQ||40|f
+Odinstårnet|55.394|10.332|DK|South Denmark|40|f
 Odalengo Grande|45.109|8.167|IT|Piedmont|33
 Oda|35.201|132.500|JP|Shimane|0
 Ode-Ekiti|7.648|5.549|NG|Ekiti State|0

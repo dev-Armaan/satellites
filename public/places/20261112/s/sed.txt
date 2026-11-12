@@ -5,6 +5,7 @@ Sedalia|38.704|-93.228|US|Missouri|87
 Sedan|49.702|4.940|FR|Grand Est|86
 Seddouk|36.547|4.686|DZ|Béjaïa|86
 Sedeh Lanjān|32.379|51.316|IR|Isfahan|86
+Sedanka Island|53.783|-166.191|US|Alaska|85|f
 Sedriano|45.491|8.972|IT|Lombardy|81
 Sedro-Woolley|48.504|-122.236|US|Washington|81
 Sedona|34.870|-111.761|US|Arizona|80
@@ -12,8 +13,10 @@ Sedgefield|-34.021|22.805|ZA|Western Cape|80
 Sedaví|39.433|-0.383|ES|Valencia|79
 Sedlčany|49.661|14.427|CZ|Central Bohemia|78
 Sedaikavundanūr|11.640|78.181|IN|Tamil Nadu|78
+Sedona Airport|34.849|-111.789|US|Arizona|78|f
 Sędziszów Małopolski|50.071|21.701|PL|Subcarpathia|77
 Sędziszów|50.566|20.056|PL|Świętokrzyskie|77
+Sedan Crater|37.177|-116.046|US|Nevada|75|f
 Sedico|46.106|12.093|IT|Veneto|75
 Sedgefield|54.653|-1.450|GB|England|73
 Sedeh|34.829|59.890|IR|Razavi Khorasan|73
@@ -22,6 +25,7 @@ Seden|55.426|10.443|DK|South Denmark|71
 Sedco Hills|33.642|-117.291|US|California|70
 Sedlec-Prčice|49.573|14.533|CZ|Central Bohemia|69
 Sede Nova|-27.635|-53.946|BR|Rio Grande do Sul|69
+Sedef Adası|40.468|28.100|TR|Balıkesir|69|f
 Sédibia|6.289|-6.750|CI|Sassandra-Marahoue|68
 Sédiogo|9.512|-5.476|CI|Savanes District|67
 Sedilo|40.173|8.920|IT|Sardinia|67
@@ -41,15 +45,45 @@ Sedlice|49.377|13.939|CZ|South Bohemian Region|62
 Sedlyshche|51.666|25.373|UA|Volyn|62
 Sedegliano|46.014|12.977|IT|Friuli Venezia Giulia|61
 Sedgwick|44.304|-68.616|US|Maine|61
+Sedalia Regional Airport|38.704|-93.184|US|Missouri|61|f
 Sedlec|49.964|15.288|CZ|Central Bohemia|61
 Seda|57.650|25.751|LV|Valmiera|61
 sedeyen-e Yek|31.362|48.818|IR|Khuzestan|61
 Sedniv|51.642|31.562|UA|Chernihiv Oblast|61
 Sedan|37.127|-96.187|US|Kansas|60
+Sedlescombe|50.934|0.534|GB|England|59
+Sedgeberrow|52.046|-1.966|GB|England|59
 Sędziejowice|51.507|19.028|PL|Łódź Voivodeship|58
+Sedillo|35.100|-106.296|US|New Mexico|58
+Sedge Island|-51.148|-60.405|FK||58|f
+Sedlec|48.779|16.694|CZ|South Moravian|58
+Sedici Pini-La Macchiozza|41.650|12.486|IT|Lazio|57
+Sedalia|36.067|-79.621|US|North Carolina|56
+Sedgeford|52.899|0.545|GB|England|56
+Sędziszowa|51.026|15.876|PL|Lower Silesia|55
+Seddon|-41.667|174.083|NZ|Marlborough|55
+Sedena|45.487|10.473|IT|Lombardy|55
+Sedano|42.717|-3.750|ES|Castille and León|55
+Sedgwick|-36.883|144.317|AU|Victoria|55
+Sedrano|46.053|12.665|IT|Friuli Venezia Giulia|55
+Seddinsee|52.387|13.684|DE||49|f
+Seddon Conservation Park|-35.833|137.274|AU|South Australia|49|f
+Sedes Airport|40.533|23.027|GR|Central Macedonia|49|f
+Sedgwick Glacier|-69.845|-69.448|AQ||49|f
+Sedgwick Castle|51.030|-0.318|GB|England|40|f
 Sediles|41.346|-1.532|ES|Aragon|39
+Seda|-10.769|123.216|ID|East Nusa Tenggara|0
+Sedagaran|-6.986|112.565|ID|East Java|0
 Sedan|-6.767|111.574|ID|Central Java|0
 Sedanau|3.794|108.029|ID|Riau Islands|0
+Sedandang|-6.817|111.763|ID|East Java|0
+Sedati|-7.395|112.767|ID|East Java|0
+Sedatiagung|-7.382|112.758|ID|East Java|0
+Sedatigede|-7.377|112.762|ID|East Java|0
+Sedayu|-8.180|112.688|ID|East Java|0
+Sedayugunung|-8.206|111.747|ID|East Java|0
+Sedayulawas|-6.880|112.273|ID|East Java|0
 Sedel’nikovo|56.945|75.308|RU|Omsk Oblast|0
 Sedella|36.862|-4.033|ES|Andalusia|0
+Sedeoen|-10.879|122.830|ID|East Nusa Tenggara|0
 Sedinginan|1.554|101.015|ID|Riau|0

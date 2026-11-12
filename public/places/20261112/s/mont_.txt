@@ -4,7 +4,7 @@ Montserrado County|6.500|-10.567|LR||124|r
 Montevideo Department|-34.825|-56.200|UY||122|r
 Montevideo|-34.903|-56.188|UY|Montevideo Department|122
 Monterrey|25.684|-100.317|MX|Nuevo León|121
-Montana|47.000|-109.751|US||116|r
+Montana|47.000|-109.751|US||117|r
 Montenegro|42.750|19.250|ME||116|c
 Montería|8.751|-75.878|CO|Córdoba|114
 Montes Claros|-16.735|-43.862|BR|Minas Gerais|113
@@ -23,6 +23,7 @@ Montenegro|-29.689|-51.461|BR|Rio Grande do Sul|96
 Montebello|34.009|-118.105|US|California|96
 Monterey Park|34.063|-118.123|US|California|96
 Monte Mor|-22.947|-47.316|BR|São Paulo|96
+Mont Blanc|45.833|6.864|FR|Auvergne-Rhône-Alpes|96|f
 Monte Alegre|-2.001|-54.081|BR|Pará|95
 Monte Cristi Province|19.717|-71.467|DO||95|r
 Montesilvano|42.511|14.145|IT|Abruzzo|95
@@ -43,10 +44,12 @@ Mont-de-Marsan|43.890|-0.497|FR|New Aquitaine|91
 Montélimar|44.555|4.755|FR|Auvergne-Rhône-Alpes|91
 Montcada i Reixac|41.483|2.183|ES|Catalonia|90
 Monteiro|-7.889|-37.120|BR|Paraíba|90
+Montréal–Pierre Elliott Trudeau International Airport|45.461|-73.750|CA|Quebec|90|f
 Montgomery Village|39.177|-77.195|US|Maryland|90
 Mont Kiara|3.169|101.651|MY|Kuala Lumpur|90
 Montijo|38.707|-8.974|PT|Setúbal|90
 Montalbán|10.213|-68.327|VE|Carabobo|89
+Mont Saint-Michel|48.636|-1.511|FR|Normandy|89|f
 Monterusciello|40.869|14.083|IT|Campania|89
 Montbéliard|47.510|6.798|FR|Bourgogne-Franche-Comté|89
 Monterey|36.600|-121.895|US|California|89
@@ -92,10 +95,8 @@ Montemurlo|43.927|11.037|IT|Tuscany|85
 Montargis|47.997|2.733|FR|Centre-Val de Loire|85
 Montereau-Fault-Yonne|48.383|2.950|FR|Île-de-France|85
 Montivilliers|49.545|0.188|FR|Normandy|84
+Monterey Bay|36.800|-121.901|US|California|84|f
 Montijo|38.908|-6.618|ES|Extremadura|84
 Montbrison|45.608|4.065|FR|Auvergne-Rhône-Alpes|84
-Monte-Carlo|43.740|7.427|MC|Municipality of Monaco|84
-Monte Negro|-10.294|-63.325|BR|Rondônia|84
-Mont-Saint-Hilaire|45.565|-73.187|CA|Quebec|84
-Montalvo|-1.790|-79.288|EC|Los Ríos|84
 Mont|43.435|-0.652|FR|New Aquitaine|60
+Mont|50.153|5.769|BE|Wallonia|60

@@ -24,6 +24,7 @@ Rosário|-2.940|-44.249|BR|Maranhão|93
 Rosa Zarate|0.328|-79.474|EC|Esmeraldas|92
 Rosny-sous-Bois|48.870|2.499|FR|Île-de-France|92
 Rosário do Sul|-30.258|-54.914|BR|Rio Grande do Sul|92
+Ross Island|-77.508|167.783|AQ||92|f
 Rostokino|55.833|37.667|RU|Moscow|91
 Roseville|45.006|-93.157|US|Minnesota|91
 Rosenberg|29.557|-95.809|US|Texas|91
@@ -53,11 +54,15 @@ Rosedale|39.320|-76.516|US|Maryland|86
 Rossville|40.549|-74.210|US|New York|85
 Rosamond|34.864|-118.163|US|California|85
 Rosana|-22.580|-53.059|BR|São Paulo|85
+Rose Tower|25.212|55.276|AE|Dubai|85|f
 Roseau|15.302|-61.388|DM|Saint George Parish|84
 Roseto degli Abruzzi|42.672|14.015|IT|Abruzzo|84
 Rosso|16.514|-15.805|MR|Trarza|84
+Rosario – Islas Malvinas International Airport|-32.904|-60.785|AR|Santa Fe|84|f
+Roskilde Airport|55.586|12.131|DK|Zealand|84|f
 Rosário Oeste|-14.836|-56.428|BR|Mato Grosso|84
 Rossville|39.338|-76.480|US|Maryland|84
+Rosh Pina|32.981|35.572|IL|Northern District|83|f
 Rosebud|-38.355|144.907|AU|Victoria|83
 Rosemère|45.633|-73.799|CA|Quebec|83
 Rosedale|35.384|-119.145|US|California|83
@@ -93,6 +98,7 @@ Rosário do Catete|-10.696|-37.031|BR|Sergipe|79
 Rostusa|41.610|20.600|MK|Mavrovo and Rostuša|79
 Roslyakovo|69.043|33.199|RU|Murmansk|79
 Rossmoor|39.104|-77.071|US|Maryland|79
+Rossio Square|38.714|-9.139|PT|Lisbon|78|f
 Rose Hall|6.256|-57.355|GY|East Berbice-Corentyne|78
 Rosto de Cão|37.744|-25.640|PT|Azores|78
 Rossano Veneto|45.703|11.804|IT|Veneto|78
@@ -107,17 +113,22 @@ Roscommon|53.633|-8.183|IE|Connacht|76
 Rosh Pinah|-27.966|16.761|NA|Karas Region|76
 Rossford|41.610|-83.564|US|Ohio|76
 Rosenfeld|48.286|8.724|DE|Baden-Wurttemberg|76
+Roseburg Regional Airport|43.239|-123.356|US|Oregon|76|f
 Roßleben|51.299|11.434|DE|Thuringia|76
 Ross’|53.284|24.407|BY|Grodnenskaya|76
 Roseburg North|43.269|-123.351|US|Oregon|75
 Roseland|40.821|-74.294|US|New Jersey|75
 Roseţi|44.215|27.448|RO|Călărași County|75
+Roscoe Turner Airport|34.915|-88.602|US|Mississippi|75|f
+Ross Castle|52.041|-9.531|IE|Munster|75|f
 Rosignol|6.271|-57.537|GY|Mahaica-Berbice|75
 Rosario|13.864|122.273|PH|Calabarzon|75
 Roscrea|52.951|-7.802|IE|Munster|75
 Rosário do Ivaí|-24.256|-51.249|BR|Paraná|75
 Rostovka|55.384|71.889|RU|Omsk Oblast|75
 Rossony|55.906|28.813|BY|Vitebsk|75
+Rosenburg castle|48.627|15.634|AT|Lower Austria|74|f
+Rosita Airport|13.890|-84.409|NI|North Caribbean Coast|74|f
 Roshchino|55.310|61.264|RU|Chelyabinsk|74
 Rossano|39.576|16.634|IT|Calabria|74
 Rosolina|45.077|12.230|IT|Veneto|74
@@ -128,6 +139,9 @@ Rosny-sur-Seine|48.998|1.631|FR|Île-de-France|74
 Rosheim|48.497|7.471|FR|Grand Est|74
 Rosário da Limeira|-20.979|-42.512|BR|Minas Gerais|74
 Roşia|45.817|24.317|RO|Sibiu County|74
+Rosablanche|46.060|7.354|CH|Valais|73|f
+Rosenhorn|46.632|8.137|CH|Bern|73|f
+Ross Island|34.071|125.114|KR|Jeollanam-do|73|f
 Rose Hall|6.238|-57.359|GY|East Berbice-Corentyne|73
 Rosta|45.068|7.465|IT|Piedmont|73
 Roshni-Chu|43.090|45.454|RU|Chechnya|73
@@ -146,6 +160,7 @@ Rosita North|28.656|-100.422|US|Texas|72
 Roscoff|48.724|-3.987|FR|Brittany|72
 Roşieşti|46.433|27.883|RO|Vaslui County|72
 Rosenthal|50.404|11.703|DE|Thuringia|71
+Roseman Covered Bridge|41.293|-94.150|US|Iowa|71|f
 Rosamorada|22.123|-105.204|MX|Nayarit|71
 Roşia de Amaradia|45.050|23.750|RO|Gorj County|71
 Ross|39.312|-84.650|US|Ohio|71
@@ -155,6 +170,7 @@ Rosselló|41.694|0.595|ES|Catalonia|70
 Röszke|46.188|20.034|HU|Csongrád|70
 Rositz|51.017|12.364|DE|Thuringia|70
 Rosselange|49.258|6.069|FR|Grand Est|70
+Rostra|41.893|12.484|IT|Lazio|70|f
 Roşiori|44.800|27.383|RO|Brăila County|70
 Rosières-en-Santerre|49.814|2.701|FR|Hauts-de-France|70
 Rosières-près-Troyes|48.262|4.074|FR|Grand Est|70
@@ -166,6 +182,7 @@ Rosario|27.841|-109.368|MX|Sonora|69
 Roslyn|40.800|-73.651|US|New York|69
 Roseau|48.846|-95.763|US|Minnesota|69
 Rosita South|28.624|-100.428|US|Texas|69
+Rosengartenspitze|46.454|11.622|IT|Trentino-Alto Adige|69|f
 Rosa Blanca|21.123|-104.358|MX|Nayarit|69
 Rossmoor|40.337|-74.473|US|New Jersey|69
 Rosenberg|49.019|10.030|DE|Baden-Wurttemberg|68
@@ -183,6 +200,8 @@ Rosairinho|38.677|-9.008|PT|Setúbal|68
 Rosario|11.583|122.302|PH|Western Visayas|67
 Rosetown|51.550|-108.001|CA|Saskatchewan|67
 Rossett|53.109|-2.945|GB|Wales|67
+Rose Island|41.496|-71.341|US|Rhode Island|67|f
+Rosebud Sioux Tribal Airport|43.257|-100.860|US|South Dakota|67|f
 Rososh|48.497|23.144|UA|Zakarpattia|67
 Rosenthal Heights|-28.240|152.013|AU|Queensland|67
 Rossmoyne|39.214|-84.387|US|Ohio|67
@@ -200,6 +219,10 @@ Rosenau|47.637|7.536|FR|Grand Est|66
 Rose Lodge|45.010|-123.880|US|Oregon|66
 Rosult|50.459|3.359|FR|Hauts-de-France|66
 Roseville|39.807|-82.071|US|Ohio|65
+Roslagenfjellet|78.083|18.000|SJ|Svalbard|65|f
+Rostock-Laage Airport|53.917|12.267|DE|Mecklenburg-Vorpommern|65|f
+Rostøya|60.085|5.206|NO|Vestland|65|f
+Rostraver Airport|40.208|-79.833|US|Pennsylvania|65|f
 Rosvik|65.433|21.700|SE|Norrbotten|65
 Rosal de la Frontera|37.968|-7.219|ES|Andalusia|65
 Rosersberg|59.583|17.883|SE|Stockholm|65
@@ -219,6 +242,11 @@ Roșia Montană|46.307|23.134|RO|Alba County|64
 Roseto|40.881|-75.215|US|Pennsylvania|64
 Rosslare|52.272|-6.390|IE|Leinster|64
 Roseland|27.836|-80.493|US|Florida|63
+Ross Archipelago|-77.500|167.000|AQ||63|f
+Ross County Airport|39.440|-83.028|US|Ohio|63|f
+Ross Island Bridge|45.501|-122.664|US|Oregon|63|f
+Ross Sea|-75.000|-175.000|AQ||63|f
+Rossel Island|-11.355|154.168|PG|Milne Bay Province|63|f
 Rosthern|52.667|-106.334|CA|Saskatchewan|63
 Rosalejo|39.437|-4.908|ES|Extremadura|63
 Rosières|45.133|3.988|FR|Auvergne-Rhône-Alpes|63
@@ -250,6 +278,14 @@ Roseto Valfortore|41.375|15.098|IT|Apulia|61
 Rossville|39.136|-95.952|US|Kansas|61
 Ross Creek|-37.650|143.750|AU|Victoria|61
 Rosario|39.291|16.231|IT|Calabria|61
+Roscommon Conservation Airport|44.472|-84.571|US|Michigan|61|f
+Roscommon County-Blodgett Memorial Airport|44.360|-84.671|US|Michigan|61|f
+Roseau Dam|13.900|-60.988|LC|Dennery|61|f
+Rosenthal Islands|-64.600|-64.283|AQ||61|f
+Rosfjorden|58.065|6.981|NO|Agder|61|f
+Rosita Harbour|-54.013|-37.445|GS||61|f
+Rosskreppfjorden|59.106|7.157|NO|Agder|61|f
+Roswell Industrial Air Center Airport|33.301|-104.531|US|New Mexico|61|f
 Rosh Ẕurim|31.668|35.126|PS|West Bank|61
 Rosenhayn|39.478|-75.131|US|New Jersey|61
 Roslyn Harbor|40.816|-73.637|US|New York|61
@@ -259,35 +295,242 @@ Rosières|44.483|4.258|FR|Auvergne-Rhône-Alpes|60
 Rosendale|43.808|-88.675|US|Wisconsin|60
 Rostamābād|32.089|50.547|IR|Chaharmahal and Bakhtiari|60
 Roscanvel|48.315|-4.549|FR|Brittany|60
+Roško Polje|43.580|17.168|BA|Federation of B&H|60
+Roseville|40.732|-90.665|US|Illinois|60
+Roseworthy|-34.534|138.750|AU|South Australia|60
+Rosendo Salazar|16.468|-94.001|MX|Chiapas|60
+Rosehall|13.273|-61.242|VC|Saint David Parish|60
+Rosell|40.618|0.221|ES|Valencia|60
+Rose Valley|39.896|-75.385|US|Pennsylvania|60
+Rosbruck|49.159|6.850|FR|Grand Est|59
+Roßbach|50.575|7.416|DE|Rheinland-Pfalz|59
 Roshchino|45.609|34.380|UA|Crimea|59
+Rösa|51.616|12.491|DE|Saxony-Anhalt|59
+Rosmeer|50.846|5.578|BE|Flanders|59
+Roslyn|47.223|-120.993|US|Washington|59
+Rosnoën|48.263|-4.195|FR|Brittany|59
+Rosario|-12.618|-73.845|PE|Ayacucho|59
+Röstånga|56.000|13.283|SE|Skåne|59
+Roșiuța|44.858|22.980|RO|Gorj County|59
+Roșiori|46.514|24.095|RO|Mureș County|59
+Roschbach|49.246|8.119|DE|Rheinland-Pfalz|58
+Rosario Ixtal|15.008|-92.155|MX|Chiapas|58
+Rosa|50.712|10.250|DE|Thuringia|58
+Rosses Point|54.309|-8.566|IE|Connacht|58
+Roșia Jiu|44.890|23.163|RO|Gorj County|58
 Roscigno|40.400|15.346|IT|Campania|58
 Rosendal|59.986|6.012|NO|Vestland|58
 Rosalie|15.367|-61.267|DM|Saint David Parish|58
+Rosamond Hills|34.909|-118.064|US|California|58|f
+Rosecrans Hills|33.933|-118.307|US|California|58|f
+Rosguill|55.212|-7.832|IE|Ulster|58|f
+Roshchino International Airport|57.190|65.324|RU|Tyumen Oblast|58|f
+Rosie the Riveter/World War II Home Front National Historical Park|37.909|-122.367|US|California|58|f
+Ross Lake|48.737|-121.045|US|Washington|58|f
+Ross River Airport|61.972|-132.430|CA|Yukon|58|f
+Rossøya|80.828|20.362|SJ||58|f
+Rostand Island|-66.669|140.019|AQ||58|f
+Rose Hill|36.672|-83.367|US|Virginia|58
+Roscoe|40.080|-79.866|US|Pennsylvania|58
+Rossignol|49.718|5.486|BE|Wallonia|58
+Rossfeld|48.338|7.616|FR|Grand Est|58
+Roschütz|50.906|12.083|DE|Thuringia|58
+Rosedale|30.441|-91.452|US|Louisiana|58
+Rossville|35.048|-89.543|US|Tennessee|58
+Roșioru|45.212|27.080|RO|Buzău County|58
+Rosenheim|50.712|7.851|DE|Rheinland-Pfalz|58
+Rosebery|-41.779|145.538|AU|Tasmania|58
+Rosais|38.717|-28.250|PT|Azores|57
+Rose Hill|50.635|-120.258|CA|British Columbia|57
+Rosovice|49.757|14.109|CZ|Central Bohemia|57
+Roșia|44.995|23.820|RO|Vâlcea County|57
+Roßdorf|50.700|10.217|DE|Thuringia|57
+Rosoux-Crenwick|50.707|5.190|BE|Wallonia|57
+Rosedale|39.623|-87.283|US|Indiana|57
+Roštění|49.367|17.538|CZ|Zlín|57
+Rosenwiller|48.505|7.439|FR|Grand Est|57
+Rosa Morada|24.672|-107.691|MX|Sinaloa|57
+Roštín|49.189|17.286|CZ|Zlín|57
 Roșcani|47.456|27.400|RO|Iași County|57
+Rosenthal|47.250|12.250|AT|Salzburg|57
 Rosport|49.805|6.505|LU|Echternach|57
+Rostāq|26.887|53.863|IR|Hormozgan|57
+Rosières|44.046|2.185|FR|Occitanie|57
 Röschitz|48.666|15.887|AT|Lower Austria|57
+Rosano|43.770|11.423|IT|Tuscany|57
+Rosendo G. Castro|25.635|-109.054|MX|Sinaloa|57
 Rościszewo|52.903|19.774|PL|Mazovia|56
+Rosemarkie|57.592|-4.115|GB|Scotland|56
+Rostoklaty|50.074|14.801|CZ|Central Bohemia|56
+Rosnay|46.701|1.215|FR|Centre-Val de Loire|56
+Rosée|50.233|4.687|BE|Wallonia|56
+Roštěnice-Zvonovice|49.238|16.966|CZ|South Moravian|56
+Rossiter|40.895|-78.931|US|Pennsylvania|56
+Roșcani|45.913|28.023|RO|Galați County|56
+Rose City|44.421|-84.117|US|Michigan|56
+Roseland|41.716|-86.253|US|Indiana|56
+Rosoy|49.340|2.501|FR|Hauts-de-France|56
 Rossana|44.545|7.432|IT|Piedmont|56
 Rosciano|42.322|14.046|IT|Abruzzo|56
+Roșu|46.987|27.964|RO|Iași County|56
+Roșiori|47.713|23.244|RO|Satu Mare County|56
+Rosemarket|51.737|-4.967|GB|Wales|56
+Rosteig|48.933|7.338|FR|Grand Est|56
 Roseto Capo Spulico|39.986|16.604|IT|Calabria|56
+Rosa de Castilla|19.788|-97.653|MX|Puebla|55
+Rosian|52.096|12.152|DE|Saxony-Anhalt|55
+Rosel|49.229|-0.459|FR|Normandy|55
+Rosslyn|-23.166|150.778|AU|Queensland|55
+Rosman|35.144|-82.821|US|North Carolina|55
+Rossow|53.642|13.363|DE|Mecklenburg-Vorpommern|55
 Roskoshnoye|45.652|34.116|UA|Crimea|55
+RostamKhan|33.900|46.170|IR|Ilam Province|55
+Rosario Bawitz|16.494|-92.099|MX|Chiapas|55
+Roșioara|45.014|23.880|RO|Vâlcea County|55
+Rosalia|47.236|-117.370|US|Washington|55
 Rosasco|45.250|8.579|IT|Lombardy|55
+Roscoe|41.933|-74.913|US|New York|55
+Ross Carbery|51.578|-9.032|IE|Munster|55
+Rosario de Yauca|-14.135|-75.574|PE|Ica|55
+Rosslea|54.233|-7.183|GB|Northern Ireland|54
+Rossinière|46.468|7.084|CH|Vaud|54
+Rosans|44.393|5.471|FR|Provence-Alpes-Côte d'Azur|54
+Rosario|17.089|-93.243|MX|Chiapas|54
+Rosa Rock|-63.317|-57.900|AQ||54|f
+Rosamel Island|-63.562|-56.294|AQ||54|f
+Rosamond Skypark Airport|34.869|-118.206|US|California|54|f
+Rosaschi Air Park|38.839|-119.331|US|Nevada|54|f
+Rose Canyon Lake|32.387|-110.711|US|Arizona|54|f
+Rosecrans Memorial Airport|39.770|-94.905|US|Missouri|54|f
+Roseires Dam|11.801|34.389|SD|Blue Nile|54|f
+Rosennock|46.877|13.714|AT|Carinthia|54|f
+Rosenthalbreen|79.386|21.445|SJ||54|f
+Rosetti Square|44.436|26.107|RO|Bucharest|54|f
+Roseville Covered Bridge|39.653|-87.294|US|Indiana|54|f
+Ross of Mull|56.300|-6.233|GB|Scotland|54|f
+Ross Point|-62.348|-59.119|AQ||54|f
+Rossa Point|-65.960|-65.233|AQ||54|f
+Rossel Mountains|-4.167|152.750|PG|New Ireland|54|f
+Roßgundkopf|47.319|10.234|DE|Bavaria|54|f
+Roßkopf|48.012|7.904|DE|Baden-Wurttemberg|54|f
+Roßkopf|47.656|11.862|DE|Bavaria|54|f
+Roßkopf|50.257|8.527|DE|Hesse|54|f
+Roßstein|47.633|11.677|DE|Bavaria|54|f
+Røst|67.467|11.983|NO|Nordland|54|f
+Rost Flyplass|67.528|12.103|NO|Nordland|54|f
+Rose City|30.103|-94.052|US|Texas|54
+Roßdorf|52.426|12.207|DE|Saxony-Anhalt|54
+Roseburg|53.530|10.626|DE|Schleswig-Holstein|54
 Rosaspata|-15.234|-69.527|PE|Puno|54
 Rosegg|46.588|14.017|AT|Carinthia|53
+Rosdorf|53.978|9.727|DE|Schleswig-Holstein|52
 Rosignano Monferrato|45.081|8.400|IT|Piedmont|52
 Rossi|44.000|8.059|IT|Liguria|51
+Rosenkopf|49.350|7.433|DE|Rheinland-Pfalz|50
+Rosaliengebirge|47.717|16.300|AT||49|f
+Roscoe Glacier|-66.500|95.417|AQ||49|f
+Roscoe Promontory|-66.866|-64.483|AQ||49|f
+Roscolyn Tor|-76.700|159.833|AQ||49|f
+Rose Bay|-33.867|151.262|AU|New South Wales|49|f
+Rose Bay|-42.850|147.350|AU|Tasmania|49|f
+Rose Crest|-77.392|160.942|AQ||49|f
+Rose Island|25.107|-77.151|BS|New Providence|49|f
+Rose Island|-50.513|166.248|NZ||49|f
+Rose Lake|45.150|-77.216|CA|Ontario|49|f
+Rose Peak|-62.047|-58.219|AQ||49|f
+Rosedale Park|-33.916|150.939|AU|New South Wales|49|f
+Rosemary Island|-20.482|116.594|AU|Western Australia|49|f
+Rosenberg Fortress|50.245|11.328|DE|Bavaria|49|f
+Roseninsel|47.942|11.309|DE|Bavaria|49|f
+Rosenjoch|47.167|11.550|AT|Tyrol|49|f
+Roskilde Fjord|55.933|12.000|DK||49|f
+Ross Bridge|-42.030|147.480|AU|Tasmania|49|f
+Ross Glacier|-54.551|-36.109|GS||49|f
+Ross Island|52.041|-9.543|IE|Munster|49|f
+Ross Island|40.749|-79.563|US|Pennsylvania|49|f
+Ross Lake|-35.811|141.928|AU|Victoria|49|f
+Ross Lake|53.374|-9.214|IE|Connacht|49|f
+Ross Park|-35.349|149.218|AU|New South Wales|49|f
+Ross Peaks|-60.716|-44.533|AQ||49|f
+Ross River Dam|-19.470|146.787|AU|Queensland|49|f
+Rosselin Glacier|-69.280|-70.891|AQ||49|f
+Rossen|60.317|16.433|SE|Dalarna|49|f
+Rosser Ridge|-82.769|-53.529|AQ||49|f
+Rossert|50.164|8.398|DE|Hesse|49|f
+Rossiter Bay|-33.966|122.272|AU|Western Australia|49|f
+Rossman Hill|42.551|-74.481|US|New York|49|f
+Rossmore Island|51.836|-9.802|IE|Munster|49|f
+Roswell Museum and Art Center|33.404|-104.524|US|New Mexico|49|f
 Rosora|43.483|13.068|IT|The Marches|48
 Rosello|41.901|14.349|IT|Abruzzo|47
+Rosendorf|50.767|11.783|DE|Thuringia|45
 Rossa|45.833|8.124|IT|Piedmont|41
+Rosa Parks Circle|42.965|-85.672|US|Michigan|40|f
+Rosalie Whyel Museum of Doll Art|47.621|-122.196|US|Washington|40|f
+Rosanova Glacier|-73.250|-97.917|AQ||40|f
+Rosaryville State Park|38.774|-76.811|US|Maryland|40|f
+Roscoe Bay Park|50.160|-124.775|CA|British Columbia|40|f
+Roscrea Castle|52.955|-7.798|IE|Munster|40|f
+Rose Castle|54.807|-2.980|GB|England|40|f
+Rose Island|38.426|-85.621|US|Indiana|40|f
+Rose Lake|54.398|-126.023|CA|British Columbia|40|f
+Rose Lake National Wildlife Refuge|48.002|-98.461|US|North Dakota|40|f
+Rose Mountain|42.151|-74.438|US|New York|40|f
+Rose Park|32.834|-83.639|US|Georgia|40|f
+Rose Peak|37.511|-121.725|US|California|40|f
+Rose Point|41.739|-70.749|US|Massachusetts|40|f
+Rose Valley Glacier|-62.508|-60.102|AQ||40|f
+Roseland Terrace Historic District|30.441|-91.168|US|Louisiana|40|f
+Rosen College of Hospitality Management|28.428|-81.442|US|Florida|40|f
+Rosen Peak|-79.317|-83.350|AQ||40|f
+Rosenau Head|-70.467|162.767|AQ||40|f
+Rosenberg Glacier|-75.733|-132.550|AQ||40|f
+Rosenthal, Mount|-80.050|-83.250|AQ||40|f
+Rosenwald, Mount|-85.067|-179.100|AQ||40|f
+Rosevean|49.868|-6.399|GB|England|40|f
+Rosevear|49.870|-6.401|GB|England|40|f
+Rosewall Creek Park|49.454|-124.778|CA|British Columbia|40|f
+Rosh Hanikra|33.093|35.106|IL|Northern District|40|f
+Rosicrucian Park|37.334|-121.922|US|California|40|f
+Ross Bridge|33.606|-85.589|US|Alabama|40|f
+Ross Creek Reservoir|-45.850|170.500|NZ||40|f
+Ross Dam|48.732|-121.067|US|Washington|40|f
+Ross Island|11.676|92.763|IN|Andaman and Nicobar|40|f
+Ross Island|45.490|-122.663|US|Oregon|40|f
+Ross Lake|39.342|-82.910|US|Ohio|40|f
+Ross River|-19.419|146.740|AU|Queensland|40|f
+Ross-Ade Stadium|40.434|-86.918|US|Indiana|40|f
+Rossberg|48.418|9.143|DE|Baden-Wurttemberg|40|f
+Rossbodegletscher|46.181|8.009|CH|Valais|40|f
+Rossbodenstock|46.635|8.651|CH|Uri|40|f
+Rosse Bay|78.669|-74.580|CA|Nunavut|40|f
+Rosserk Friary|54.172|-9.143|IE|Connacht|40|f
+Rosshorn|46.934|12.179|AT|Salzburg|40|f
+Roßkopf|47.426|12.071|AT|Tyrol|40|f
+Rossland Range|49.183|-117.902|CA|British Columbia|40|f
+Rossman, Mount|-79.783|-82.800|AQ||40|f
+Rosso di Ribia|46.261|8.530|CH|Ticino|40|f
+Rossstock|46.917|8.708|CH|Uri|40|f
+Rosställispitz|46.789|9.994|CH|Grisons|40|f
+Rostoul Lake|50.956|-94.768|CA|Ontario|40|f
+Rostrum Peak|51.832|-117.174|CA|British Columbia|40|f
+Rosvalla Nyköping Eventcenter|58.749|17.040|SE|Södermanland|40|f
 Rosazza|45.676|7.977|IT|Piedmont|39
+Roscheid|50.117|6.183|DE|Rheinland-Pfalz|37
 Rosario|-12.721|-74.582|PE|Huancavelica|0
 Rosario|16.230|120.486|PH|Ilocos|0
 Rosario|14.418|120.858|PH|Calabarzon|0
 Rosario|13.845|121.205|PH|Calabarzon|0
 Rosario|12.522|124.425|PH|Eastern Visayas|0
 Rosario|8.387|126.003|PH|Caraga|0
+Rosario del Ingre|-20.583|-63.900|BO|Chuquisaca Department|0
 Rose Island|-14.546|-168.150|AS||0|r
+Rosenberg|49.456|9.473|DE|Baden-Wurttemberg|0
 Roshtqal’a|37.258|71.826|TJ|Gorno-Badakhshan|0
+Rosong Timur|-7.065|114.346|ID|East Java|0
+Roßbach|50.605|7.682|DE|Rheinland-Pfalz|0
+Roßbach|48.600|12.933|DE|Bavaria|0
+Roßhaupten|47.650|10.717|DE|Bavaria|0
 Rossington|53.479|-1.062|GB|England|0
 Rossosz|51.858|23.137|PL|Lublin|0
 Røst|67.518|12.118|NO|Nordland|0

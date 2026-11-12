@@ -1,4 +1,4 @@
-Vysocina|49.417|15.500|CZ||110|r
+Vysocina|49.417|15.500|CZ||112|r
 Vyhurivshchyna-Troyeshchyna|50.511|30.603|UA|Kyiv City|108
 Vykhino-Zhulebino|55.702|37.812|RU|Moscow|107
 Vyborg|60.708|28.753|RU|Leningradskaya Oblast'|98
@@ -86,6 +86,7 @@ Vynohradivka|46.080|29.120|UA|Odesa|64
 Vyshevychi|50.631|29.405|UA|Zhytomyr Oblast|64
 Vybor|57.227|29.166|RU|Pskov Oblast|64
 Vynohradne|44.482|34.124|UA|Crimea|63
+Vystrel Mountain|-71.617|15.067|AQ||63|f
 Výborná|49.234|20.398|SK|Prešov Region|63
 Vyšné Ružbachy|49.304|20.566|SK|Prešov Region|63
 Vyshneve|45.807|29.774|UA|Odesa|63
@@ -98,13 +99,69 @@ Vyshniv|51.198|24.030|UA|Volyn|61
 Vyzyrka|46.686|30.999|UA|Odesa|61
 Vyshchyi Bulatets|50.030|32.900|UA|Poltava|61
 Vyshnivchyk|49.231|25.372|UA|Ternopil|61
+Vysoká|49.404|18.361|CZ|Zlín|61|f
 Vydropuzhsk|57.365|34.843|RU|Tver Oblast|61
 Vysha|53.848|42.378|RU|Mordoviya Republic|61
 Vynohradne|45.293|35.845|UA|Crimea|60
 Vytylivka|48.405|25.805|UA|Chernivtsi|60
 Vysoke|46.920|33.096|UA|Kherson|60
 Vyzhenka|48.211|25.182|UA|Chernivtsi|60
+Výprachtice|49.987|16.664|CZ|Pardubice Region|60
+Vysoká|50.413|14.538|CZ|Central Bohemia|59
+Vytína|37.670|22.183|GR|Peloponnese|59
+Vysochanske|46.486|29.042|UA|Odesa|59
+Vyshka|48.945|22.694|UA|Zakarpattia|59
 Vynohradove|45.393|33.647|UA|Crimea|59
+Vyatskoye|57.867|40.265|RU|Yaroslavl Oblast|59
+Vysoké Veselí|50.331|15.436|CZ|Hradec Králové Region|59
+Vytachiv|50.114|30.870|UA|Kyiv Oblast|58
+Vyšní Lhoty|49.636|18.457|CZ|Moravian-Silesian Region|58
+Vysoká Pec|50.520|13.470|CZ|Ústí nad Labem Region|58
+Vyatskaya Peak|-71.958|13.542|AQ||58|f
+Vypīn Island|10.083|76.217|IN|Kerala|58|f
+Vysotskiy Peak|-71.567|11.667|AQ||58|f
+Výčapy|49.144|15.878|CZ|Vysocina|58
+Vysoký Chlumec|49.618|14.390|CZ|Central Bohemia|58
+Vysoká nad Uhom|48.626|22.091|SK|Košice Region|58
+Vysoké Pole|49.177|17.937|CZ|Zlín|58
+Vysočany|49.433|16.813|CZ|South Moravian|58
+Vyróneia|41.265|23.252|GR|Central Macedonia|58
+Vysoká nad Labem|50.153|15.825|CZ|Hradec Králové Region|58
+Vyshneve|44.732|33.605|UA|Sevastopol City|57
+Vyhon|46.142|30.297|UA|Odesa|57
+Vysoke|47.232|35.406|UA|Zaporizhzhia|57
+Vyshnii Dubovets|48.178|23.898|UA|Zakarpattia|57
+Vydrychi|51.643|24.770|UA|Volyn|57
+Vysoke|46.810|34.982|UA|Zaporizhzhia|57
+Vyšehořovice|50.118|14.774|CZ|Central Bohemia|57
+Vyskytná nad Jihlavou|49.419|15.508|CZ|Vysocina|57
+Vynnychky|49.773|24.160|UA|Lviv|56
+Vyskytná|49.428|15.366|CZ|Vysocina|56
+Vyshneve|47.192|30.088|UA|Odesa|56
+Vyshniaky|46.079|29.498|UA|Odesa|56
+Vyshneve|49.706|33.209|UA|Poltava|56
+Výšovice|49.416|17.139|CZ|Olomouc Region|56
+Vysoké Popovice|49.183|16.285|CZ|South Moravian|56
+Vyazëmka|53.605|42.676|RU|Penza Oblast|56
+Vysoka Vakulivka|49.351|33.938|UA|Poltava|55
+Vysochynivka|49.695|36.294|UA|Kharkiv|55
+Vyshneve|50.325|32.647|UA|Poltava|55
+Vyalikaya Mashchanitsa|53.954|29.625|BY|Mogilev|55
+Vyshnivchyk|49.700|24.748|UA|Lviv|55
+Vy-lès-Lure|47.645|6.445|FR|Bourgogne-Franche-Comté|55
+Vysoke|47.945|38.057|UA|Donetsk|55
+Vyshnivtsi|48.816|33.470|UA|Kirovohrad|55
+Vyšehrad railway bridge|50.067|14.414|CZ|Prague|54|f
+Vysoká|48.418|17.217|SK|Bratislava Region|54|f
+Vynohradne|47.921|38.231|UA|Donetsk|54
+Vyšný Medzev|48.714|20.903|SK|Košice Region|54
+Vyle-et-Tharoul|50.445|5.262|BE|Wallonia|54
+Vynohradne|46.698|31.226|UA|Mykolaiv|54
+Vyšný Hrušov|48.994|22.013|SK|Prešov Region|54
+Vynohradivka|46.731|30.075|UA|Odesa|54
+Vysoke|50.330|34.273|UA|Poltava|54
+Vysoká|49.173|20.094|SK|Prešov Region|49|f
+Vysoký Kámen|50.301|12.408|CZ|Carlsbad Region|40|f
 Vyl’gort|61.624|50.757|RU|Komi|0
 Vyry|51.242|26.941|UA|Rivne Oblast|0
 Vysoke|51.332|32.556|UA|Chernihiv Oblast|0

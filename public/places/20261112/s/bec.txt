@@ -17,15 +17,18 @@ Bécouéfin|6.481|-3.846|CI|Lagunes District|80
 Bécédi|5.642|-4.582|CI|Lagunes District|80
 Beckett Ridge|39.347|-84.435|US|Ohio|79
 Bécal|20.442|-90.028|MX|Campeche|76
+Becharof Lake|57.919|-156.397|US|Alaska|76|f
 Becerril de la Sierra|40.717|-3.989|ES|Madrid|76
 Beceni|45.383|26.783|RO|Buzău County|74
 Beckett|39.754|-75.357|US|New Jersey|74
 Becicherecu Mic|45.829|21.051|RO|Timiș County|74
 Bechyně|49.295|14.468|CZ|South Bohemian Region|74
 Becker|45.393|-93.877|US|Minnesota|73
+Becs de Bosson|46.168|7.518|CH|Valais|72|f
 Bechet|43.782|23.957|RO|Dolj|72
 Becerreá|42.856|-7.164|ES|Galicia|71
 Beckenried|46.967|8.476|CH|Nidwalden|70
+Becan|18.517|-89.467|MX|Campeche|69|f
 Beckdorf|53.414|9.611|DE|Lower Saxony|68
 Bécon-les-Granits|47.503|-0.802|FR|Pays de la Loire|68
 Bečmen|44.780|20.206|RS|Central Serbia|68
@@ -39,6 +42,7 @@ Becanchén|19.874|-89.217|MX|Yucatán|65
 Beckedorf|52.350|9.317|DE|Lower Saxony|64
 Beclean|45.831|24.922|RO|Brașov County|64
 Bechtolsheim|49.804|8.194|DE|Rheinland-Pfalz|63
+Becca di Nona|45.687|7.366|IT|Aosta Valley|63|f
 Beciu|44.004|24.666|RO|Teleorman County|63
 Béclers|50.621|3.504|BE|Wallonia|63
 Bechlín|50.416|14.341|CZ|Ústí nad Labem Region|61
@@ -47,8 +51,65 @@ Bechtsrieth|49.645|12.210|DE|Bavaria|61
 Becerril de Campos|42.108|-4.642|ES|Castille and León|60
 Beckemeyer|38.606|-89.436|US|Illinois|60
 Bęczarka|49.878|19.867|PL|Lesser Poland|60
+Becanchén|19.651|-89.872|MX|Campeche|60
+Bečváry|49.957|15.080|CZ|Central Bohemia|60
+Bečov nad Teplou|50.083|12.838|CZ|Carlsbad Region|60
+Bechtelsville|40.373|-75.629|US|Pennsylvania|59
+Beckeln|52.862|8.582|DE|Lower Saxony|59
+Bečići|42.284|18.869|ME||59
+Beckington|51.264|-2.287|GB|England|59
+Beckville|32.243|-94.455|US|Texas|59
+Becca d'Audon|46.329|7.221|CH|Bern|58|f
+Beckett Point|48.076|-122.890|US|Washington|58|f
+Beckler Peak|47.736|-121.289|US|Washington|58|f
+Bechinești|44.791|25.817|RO|Dâmbovița County|58
+Bécherel|48.296|-1.945|FR|Brittany|57
+Beckermet|54.450|-3.517|GB|England|57
+Bech-Kleinmacher|49.531|6.355|LU|Remich|57
 Beckerich|49.731|5.882|LU|Redange|57
+Becquincourt|49.910|2.816|FR|Hauts-de-France|57
+Becheln|50.293|7.718|DE|Rheinland-Pfalz|56
+Bec-de-Mortagne|49.701|0.449|FR|Normandy|56
+Béceleuf|46.471|-0.507|FR|New Aquitaine|56
+Bechtsbüttel|52.338|10.541|DE|Lower Saxony|55
+Becheni|47.452|22.449|RO|Satu Mare County|54
+Bec d'Epicoune|45.915|7.422|CH||54|f
+Béchervaise Island|-67.591|62.818|AQ||54|f
+Becker Lake|34.153|-109.306|US|Arizona|54|f
+Beckholmen|59.321|18.101|SE|Stockholm|54|f
+Beckmann Fjord|-54.050|-37.200|GS||54|f
+Béchy|48.986|6.380|FR|Grand Est|54
+Bechijtic|16.775|-92.695|MX|Chiapas|54
+Bęczyn|49.935|19.660|PL|Lesser Poland|54
+Bechenheim|49.729|8.003|DE|Rheinland-Pfalz|53
 Bech|49.753|6.364|LU|Echternach|52
 Becilla de Valderaduey|42.099|-5.218|ES|Castille and León|51
 Becedas|40.404|-5.636|ES|Castille and León|51
+Bechstedtstraß|50.950|11.200|DE|Thuringia|49
+Beccles Airport|52.435|1.618|GB|England|49|f
+Béchar Airport|31.643|-2.185|DZ|Béchar|49|f
+Beche Blade|-80.711|-24.334|AQ||49|f
+Becker, Mount|-75.096|-72.021|AQ||49|f
+Beckmans Island|42.890|-70.842|US|New Hampshire|49|f
+Beckumer Berge|51.727|8.101|DE|North Rhine-Westphalia|49|f
+Bechstedt|50.667|11.167|DE|Thuringia|45
 Becedillas|40.538|-5.326|ES|Castille and León|44
+Bec de la Montau|46.129|7.348|CH|Valais|40|f
+Bec des Rosses|46.072|7.300|CH|Valais|40|f
+Bec du Corbeau|46.254|6.863|CH|Valais|40|f
+Becca de Corbassière|46.018|7.306|CH|Valais|40|f
+Becca di Luseney|45.871|7.491|IT|Aosta Valley|40|f
+Becco di Mezzodi|46.467|12.114|IT|Trentino-Alto Adige|40|f
+Becharof National Wildlife Refuge|57.993|-156.183|US|Alaska|40|f
+Becher Peninsula|63.551|-67.831|CA|Nunavut|40|f
+Beck Lakes|37.637|-119.157|US|California|40|f
+Beck Mountain|37.743|-90.411|US|Missouri|40|f
+Beck Peak|-86.083|-158.967|AQ||40|f
+Beckenham Place Park|51.419|-0.017|GB|England|40|f
+Becker Point|-78.133|164.217|AQ||40|f
+Becks Grove Airport|43.253|-75.603|US|New York|40|f
+Beckwith Island|44.867|-80.116|CA|Ontario|40|f
+Beckwith Lake|44.823|-63.477|CA|Nova Scotia|40|f
+Beckwood Lake|44.851|-63.456|CA|Nova Scotia|40|f
+Becherbach|49.650|7.683|DE|Rheinland-Pfalz|0
+Becirto|-8.226|112.242|ID|East Java|0

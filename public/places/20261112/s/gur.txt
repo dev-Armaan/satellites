@@ -20,6 +20,7 @@ Gürgentepe|40.790|37.601|TR|Ordu|85
 Guru Har Sahāi|30.709|74.404|IN|Punjab|85
 Gurun|5.817|100.474|MY|Kedah|84
 Gura Humorului|47.550|25.900|RO|Suceava|84
+Gurktal Alps|46.917|14.000|AT|Carinthia|84|f
 Gurh|24.503|81.500|IN|Madhya Pradesh|83
 Gurinhém|-7.124|-35.424|BR|Paraíba|83
 Gürün|38.722|37.271|TR|Sivas|82
@@ -29,10 +30,12 @@ Gurjaani|41.744|45.802|GE|Kakheti|77
 Gurghiu|46.767|24.850|RO|Mureș County|76
 Gura Văii|46.333|26.733|RO|Bacău County|76
 Gura Viţioarei|45.150|26.033|RO|Prahova|75
+Gurten|46.917|7.444|CH|Bern|75|f
 Gürbüz|38.379|40.362|TR|Diyarbakır Province|75
 Gura Şuţii|44.750|25.517|RO|Dâmbovița County|75
 Gurinhatã|-19.213|-49.786|BR|Minas Gerais|74
 Gūrāb Zarmīkh|37.293|49.238|IR|Gilan Province|74
+Gürgaletsch|46.797|9.583|CH|Grisons|73|f
 Gurbuki|42.611|47.601|RU|Dagestan|73
 Gurahonţ|46.267|22.350|RO|Arad County|73
 Gura Teghii|45.483|26.417|RO|Buzău County|72
@@ -48,9 +51,11 @@ Gūrband|27.326|56.980|IR|Hormozgan|69
 Guruyan|12.739|123.939|PH|Bicol Region|69
 Gura Vadului|45.050|26.467|RO|Prahova|68
 Gura Foii|44.750|25.283|RO|Dâmbovița County|67
+Guragē|8.400|38.400|ET|Oromiya|67|f
 Gurb|41.954|2.235|ES|Catalonia|67
 Gurdon|33.921|-93.154|US|Arkansas|67
 Gürbulak|39.417|44.354|TR|Ağrı|66
+Gurskøya|62.209|5.638|NO|Møre og Romsdal|65|f
 Guraidhoo|2.325|73.318|MV|Thaa Atholhu|65
 Guraidhoo|3.900|73.466|MV|Kaafu Atoll|65
 Gurrea de Gállego|42.015|-0.761|ES|Aragon|65
@@ -61,6 +66,7 @@ Gura Văii|44.667|22.556|RO|Mehedinți County|64
 Gura Suhașului|45.088|24.299|RO|Vâlcea County|64
 Gūrābjīr-e Şaḩrā|37.446|49.631|IR|Gilan Province|64
 Guran|54.761|100.644|RU|Irkutsk Oblast|64
+Gurney Airport|-10.311|150.338|PG|Milne Bay Province|63|f
 Gura Ialomiței|44.716|27.753|RO|Ialomița County|63
 Gurba|46.468|21.788|RO|Arad County|63
 Gura Vulcanei|45.024|25.396|RO|Dâmbovița County|62
@@ -68,18 +74,76 @@ Guruieni|44.058|25.397|RO|Teleorman County|62
 Gurbediu|46.794|21.865|RO|Bihor County|62
 Gura Putnei|47.900|25.595|RO|Suceava|62
 Gurgurnica|41.845|21.105|MK|Brvenica|61
+Gurayat Domestic Airport|31.413|37.274|SA|Al Jawf Region|61|f
+Guryongsan|37.059|128.841|KR|Gangwon-do|61|f
 Gura Căluiu|44.459|24.035|RO|Olt|61
 Gūrak Sādāt|28.946|51.053|IR|Bushehr|61
+Gürgencik|41.288|41.337|TR|Artvin|60
+Gura Văii|45.180|24.366|RO|Vâlcea County|60
+Gurley|33.776|-86.638|US|Alabama|59
+Guranda|47.777|27.068|RO|Botoșani County|59
 Gurk|46.874|14.292|AT|Carinthia|59
+Gurmençon|43.156|-0.595|FR|New Aquitaine|59
+Gürpınar|38.199|41.084|TR|Diyarbakır Province|58
+Gurskoye|50.312|138.092|RU|Khabarovsk|58
+Gurani|46.595|22.546|RO|Bihor County|58
+Guri Dam|7.766|-63.000|VE|Bolívar|58|f
+Guriel Airport|5.317|45.986|SO|Galguduud|58|f
+Gurla Mandhata|30.438|81.296|CN|Tibet|58|f
+Gurupi Airport|-11.740|-49.132|BR|Tocantins|58|f
+Gurley|34.702|-86.376|US|Alabama|58
+Gura Dimienii|45.404|26.759|RO|Buzău County|58
+Gura Pravăț|45.325|25.129|RO|Arges|57
+Gūrchīn|37.917|46.890|IR|East Azerbaijan|57
+Gura Văii|46.685|26.796|RO|Bacău County|57
+Gurtnellen|46.738|8.628|CH|Uri|56
+Gurten|48.241|13.344|AT|Upper Austria|56
+Guruslău|47.278|22.983|RO|Sălaj County|56
+Gürümze|37.987|35.804|TR|Adana|56
+Gura Haitii|47.197|25.264|RO|Suceava|56
+Gürbaşak|37.251|37.773|TR|Gaziantep|56
+Gura Bâdiliței|47.300|26.750|RO|Iași County|56
+Gura Bărbulețului|45.121|25.301|RO|Dâmbovița County|56
+Gura Văii|46.957|26.450|RO|Neamț County|55
+Gürpınar|38.084|41.427|TR|Batman|55
+Gura Arieșului|46.430|23.957|RO|Alba County|55
+Gura Solcii|47.741|26.050|RO|Suceava|55
+Guri i Bardhë|40.765|19.849|AL|Berat County|55
+Gurișoara|45.076|24.221|RO|Vâlcea County|54
+Gurgl|46.878|11.034|AT|Tyrol|54
+Gureni|45.112|23.040|RO|Gorj County|54
+Gurnet Point|42.005|-70.599|US|Massachusetts|54|f
+Gürgenli|37.979|38.835|TR|Adıyaman Province|54
+Gura Idrici|46.414|27.883|RO|Vaslui County|54
 Gurasada|45.955|22.595|RO|Hunedoara County|52
+Guraletschsee|46.561|9.138|CH|Grisons|49|f
+Gurha Salim Airport|32.879|73.605|PK|Punjab|49|f
+Guri i Kuq|42.663|20.134|XK||49|f
+Gurkha Peak|-77.667|163.267|AQ||49|f
+Gurling Glacier|-70.559|-62.387|AQ||49|f
+Gurney Point|-71.028|-67.453|AQ||49|f
+Gursken|62.236|5.552|NO|Møre og Romsdal|49|f
+Gurudongmar Chho|28.033|88.717|IN||49|f
 Gurro|46.085|8.568|IT|Piedmont|47
+Gura Apelor Dam|45.338|22.720|RO|Hunedoara County|40|f
+Guraidhoo|1.906|73.255|MV||40|f
+Gurnard Bay|50.760|-1.329|GB|England|40|f
+Gurney Peak|62.414|-152.688|US|Alaska|40|f
+Gurnon Peninsula|-74.367|-110.583|AQ||40|f
 Gura Văii|46.272|26.826|RO|Bacău County|0
+Guradog|-6.696|106.338|ID|Banten|0
+Guradog|-6.506|106.392|ID|Banten|0
+Guranteng|-7.099|108.193|ID|West Java|0
+Gurao|23.347|116.411|CN|Guangdong|0
 Güre|38.651|29.167|TR|Uşak|0
 Guri|12.728|10.420|NG|Jigawa State|0
 Guri i Zi|42.045|19.575|AL|Shkodër County|0
 Gurim|35.454|127.102|KR|Jeollabuk-do|0
+Gurinai|40.654|101.400|CN|Inner Mongolia|0
 Gurnard|50.761|-1.324|GB|England|0
 Gürpınar|38.324|43.410|TR|Van|0
 Gurra e Vogël|41.536|19.991|AL|Dibër County|0
 Guruafin|0.101|127.434|ID|North Maluku|0
+Gurung|-8.771|120.638|ID|East Nusa Tenggara|0
+Gurusina|-8.896|120.991|ID|East Nusa Tenggara|0
 Guryongpo|35.990|129.554|KR|Gyeongsangbuk-do|0

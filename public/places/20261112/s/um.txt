@@ -1,4 +1,4 @@
-Umbria|43.000|12.500|IT||116|r
+Umbria|43.000|12.500|IT||117|r
 Ümraniye|41.016|29.125|TR|Istanbul|115
 Umuahia|5.525|7.495|NG|Abia State|111
 Umarkot|25.363|69.742|PK|Sindh|103
@@ -17,6 +17,7 @@ Umluj|25.021|37.269|SA|Tabuk Region|93
 Umi|33.568|130.510|JP|Fukuoka|92
 Umán|20.881|-89.748|MX|Yucatán|92
 Umm Ghuwaylīnah|25.587|51.150|QA|Al-Shahaniya|92
+Umeå University|63.820|20.308|SE|Västerbotten|92|f
 Umm Hājar|13.295|19.697|TD|Batha|92
 Umarga|17.838|76.623|IN|Maharashtra|91
 Umreth|22.699|73.116|IN|Gujarat|91
@@ -31,6 +32,7 @@ Umm Shawkah|13.317|33.767|SD|Sennar|86
 Umbri|20.714|77.026|IN|Maharashtra|86
 Umirim|-3.677|-39.350|BR|Ceará|86
 Umburanas|-10.733|-41.326|BR|Bahia|86
+Umeå Airport|63.792|20.283|SE|Västerbotten|86|f
 Umm as Summāq|31.885|35.854|JO|Amman|85
 Umutara|-1.295|30.323|RW|Eastern Province|85
 Umm Lakhbā|25.342|51.471|QA|Baladiyat ad Dawhah|85
@@ -41,6 +43,7 @@ Umejima|35.776|139.798|JP|Tokyo|82
 Umurlu|37.850|27.963|TR|Aydın|82
 Umrāla|21.844|71.803|IN|Gujarat|81
 Umm as Sāhik|26.654|49.916|SA|Eastern Province|81
+Umm an Namil Island|29.382|47.867|KW|Al Jahra Governorate|81|f
 Umbertide|43.303|12.337|IT|Umbria|81
 Umm Kaddadah|13.602|26.688|SD|Northern Darfur|81
 Umm al Arānib|26.134|14.737|LY|Murzuq District|80
@@ -49,6 +52,7 @@ Umarizal|-5.991|-37.814|BR|Rio Grande do Norte|80
 Umri|26.511|78.937|IN|Madhya Pradesh|79
 Umbuzeiro|-7.696|-35.664|BR|Paraíba|79
 Um Jar Al Gharbiyya|13.801|32.408|SD|White Nile|79
+Umak Island|51.888|-176.041|US|Alaska|79|f
 Umm ar Rizam|32.533|23.009|LY|Darnah|79
 U Minh|9.413|104.974|VN|Ca Mau|79
 Umm Sā'ad|31.610|25.050|LY|Al Butnan|79
@@ -56,12 +60,15 @@ Umunede|6.265|6.310|NG|Delta|78
 Umsning|25.736|91.888|IN|Meghalaya|78
 Umzimhle|-26.935|26.731|ZA|North West|77
 Umbrăreşti|45.717|27.467|RO|Galați County|77
+Umm an Na‘sān|26.146|50.402|BH|Northern|77|f
 Umatilla|45.917|-119.343|US|Oregon|77
 Umbergaon INA|20.169|72.775|IN|Gujarat|77
 Umari|-6.648|-38.700|BR|Ceará|77
 Umag|45.431|13.524|HR|Istria|77
 Umm Dafog|10.463|23.317|SD|Southern Darfur|77
+Umuarama Airport|-23.799|-53.314|BR|Paraná|76|f
 Umba|66.687|34.343|RU|Murmansk|76
+Umnak Island|53.216|-168.400|US|Alaska|75|f
 Umka|44.678|20.305|RS|Central Serbia|75
 Umbrete|37.369|-6.158|ES|Andalusia|75
 Umberto I|-30.868|-61.348|AR|Santa Fe|75
@@ -80,33 +87,87 @@ Umurbey|40.415|29.183|TR|Bursa Province|71
 Uminokuchi|36.000|138.500|JP|Nagano|70
 Umet|54.116|42.697|RU|Mordoviya Republic|70
 Umm an Naşr|31.561|34.519|PS|Gaza Strip|69
+Umiat Airport|69.371|-152.136|US|Alaska|69|f
+Umm al Maradim Island|28.680|48.652|KW|Al Asimah|69|f
 Umburatiba|-17.256|-40.573|BR|Minas Gerais|69
 Umm Bāb|25.214|50.807|QA|Baladiyat ar Rayyan|68
 Umbrărești-Deal|45.700|27.467|RO|Galați County|67
 Umaganhan|11.329|124.377|PH|Eastern Visayas|66
 Umirzak|43.598|51.241|KZ|Mangystau|66
+Uman Island|7.299|151.877|FM|Chuuk|65|f
 Umhausen|47.135|10.928|AT|Tyrol|65
 Ummern|52.591|10.432|DE|Lower Saxony|64
+Umiivik|64.317|-40.600|GL|Sermersooq|63|f
+Umiujaq Airport|56.539|-76.519|CA|Quebec|63|f
+Umpqua River|43.713|-124.108|US|Oregon|63|f
 Umeda|34.703|135.498|JP|Osaka|62
 Úmbita|5.220|-73.457|CO|Boyacá|62
 Umanskiy|46.236|39.267|RU|Krasnodar Krai|62
 Umbrărești|45.848|27.918|RO|Galați County|62
 Umm el Quṭūf|32.467|35.058|IL|Haifa|61
 Ummendorf|52.156|11.182|DE|Saxony-Anhalt|61
+Umm at Tūt|32.432|35.344|PS|West Bank|60
+Umm Salmūnah|31.645|35.167|PS|West Bank|59
 Umatac|13.307|144.669|GU||59|r
 Umatac Village|13.298|144.663|GU|Umatac|59
+Umm Laşafā|31.436|35.156|PS|West Bank|58
+Umm ad Daraj|31.445|35.201|PS|West Bank|58
+Umblu|59.514|25.318|EE|Harjumaa|58|f
+Umeda Ko|36.479|139.413|JP|Gunma|58|f
+Umiivik|65.653|-37.199|GL|Sermersooq|58|f
+Umsaskis Lake|46.591|-69.374|US|Maine|58|f
 Umachiri|-14.853|-70.754|PE|Puno|58
 Umamarca|-14.053|-73.566|PE|Apurímac Department|57
+Ummanz|54.443|13.212|DE|Mecklenburg-Vorpommern|57
+Umī|35.236|59.214|IR|Razavi Khorasan|56
+Umpferstedt|50.983|11.417|DE|Thuringia|56
+Umm Şafā|32.009|35.165|PS|West Bank|56
+Umur|37.543|28.029|TR|Aydın|55
+Umm Dār|32.457|35.137|PS|West Bank|55
+Umiujaq|56.553|-76.549|CA|Quebec|55
+Ummerstadt|50.259|10.812|DE|Thuringia|54
+Umatilla Bridge|45.931|-119.328|US|Oregon|54|f
+Umbu Mehang Kunda Airport|-9.668|120.302|ID|East Nusa Tenggara|54|f
+Umedalen Sculpture Park|63.838|20.160|SE|Västerbotten|54|f
+Umpqua State Scenic Corridor|43.651|-123.906|US|Oregon|54|f
+Umm al Khayr|31.425|35.196|PS|West Bank|54
 Umbriatico|39.353|16.918|IT|Calabria|53
 Umbe|-8.623|-77.535|PE|Ancash|50
+Umananda|26.196|91.745|IN|Assam|49|f
+Umber Island|-69.314|-72.066|AQ||49|f
+Umbrawarra Gorge Nature Park|-13.969|131.683|AU|Northern Territory|49|f
+Umbriel, Mount|-71.574|-68.762|AQ||49|f
+Umeå Arena|63.815|20.242|SE|Västerbotten|49|f
+Umingmalik|70.584|-100.489|CA|Nunavut|49|f
 Umbrías|40.315|-5.580|ES|Castille and León|43
+Umatac Outdoor Library|13.300|144.660|GU|Umatac|40|f
+Umatilla Municipal Airport|28.926|-81.652|US|Florida|40|f
+Umatilla National Wildlife Refuge|45.899|-119.593|US|Oregon|40|f
+Umbagog Lake|44.763|-71.043|US|New Hampshire|40|f
+Umbagog National Wildlife Refuge|44.763|-71.070|US|New Hampshire|40|f
+Umfreville Lake|50.323|-94.838|CA|Ontario|40|f
+Umisk Island|59.534|-108.468|CA|Saskatchewan|40|f
+Umlauf Sculpture Garden and Museum|30.264|-97.766|US|Texas|40|f
+Umpqua Airport|43.310|-123.129|US|Oregon|40|f
 Umraniye|39.175|31.234|TR|Afyonkarahisar Province|37
+Umakadambung|-10.214|120.560|ID|East Nusa Tenggara|0
+Umanggudang|-10.053|120.484|ID|East Nusa Tenggara|0
+Umasari Kauh|-8.435|115.463|ID|Bali|0
+Umbanyar|-8.195|114.918|ID|Bali|0
+Umbul|-6.445|106.093|ID|Banten|0
+Umbulan|-6.765|105.856|ID|Banten|0
 Umbulan Kapiak|-4.834|104.529|ID|Lampung|0
+Umbuldamar|-8.180|112.356|ID|East Java|0
+Umbulsari|-8.259|113.445|ID|East Java|0
+Umbulsari|-8.307|112.950|ID|East Java|0
+Umbultanjung|-6.234|105.832|ID|Banten|0
+Umburarameha|-9.664|120.245|ID|East Nusa Tenggara|0
 Umët|52.563|42.972|RU|Tambov Oblast|0
 Umm al Basātīn|31.825|35.878|JO|Amman|0
 Umm al Jimāl|32.329|36.368|JO|Mafraq|0
 Umm ar Raşāş|31.512|35.918|JO|Amman|0
 Umm Şalāl ‘Alī|25.470|51.398|QA|Umm Salal|0
+Umpak|-8.078|113.210|ID|East Java|0
 Umphang|16.016|98.863|TH|Tak|0
 Umpulo|-12.704|17.691|AO|Bíe|0
 Ümraniye|41.033|29.101|TR|Istanbul|0

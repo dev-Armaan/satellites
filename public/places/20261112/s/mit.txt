@@ -21,7 +21,9 @@ Mitcham|-37.817|145.200|AU|Victoria|85
 Mittweida|50.986|12.975|DE|Saxony|84
 Mitchell|43.709|-98.030|US|South Dakota|84
 Mittegroßefehn|53.390|7.561|DE|Lower Saxony|82
+Mitiga International Airport|32.894|13.276|LY|Tripoli|82|f
 Mitai|32.700|131.300|JP|Miyazaki|81
+Mitkof Island|56.598|-132.809|US|Alaska|81|f
 Mitchellville|38.920|-76.808|US|Maryland|81
 Mitte|52.375|9.738|DE|Lower Saxony|81
 Mitzic|0.782|11.549|GA|Woleu-Ntem|80
@@ -34,15 +36,18 @@ Mittelschöntal|48.946|9.395|DE|Baden-Wurttemberg|75
 Mitzpe Ramon|30.609|34.801|IL|Southern District|75
 Mittagong|-34.450|150.446|AU|New South Wales|75
 Mitrofanovka|49.971|39.694|RU|Voronezh Oblast|75
+Mitchell Municipal Airport|43.775|-98.038|US|South Dakota|74|f
 Mittenaar|50.700|8.383|DE|Hesse|74
 Mitreni|44.167|26.600|RO|Călărași County|74
 Mitsamiouli|-11.385|43.284|KM|Grande Comore|74
+Mittaghorn|46.498|7.933|CH|Valais|73|f
 Mittelherwigsdorf|50.917|14.767|DE|Saxony|73
 Mitchell|38.733|-86.474|US|Indiana|73
 Mitocu Dragomirnei|47.733|26.250|RO|Suceava|72
 Mittelbiberach|48.083|9.750|DE|Baden-Wurttemberg|72
 Mitchelstown|52.266|-8.268|IE|Munster|71
 Mitunguu|-0.109|37.783|KE|Meru County|70
+Mitsuke Jima|37.396|137.247|JP|Ishikawa|70|f
 Mitsoudjé|-11.812|43.280|KM|Grande Comore|70
 Mitwitz|50.251|11.208|DE|Bavaria|70
 Mitcheldean|51.864|-2.490|GB|England|69
@@ -56,6 +61,8 @@ Mitoc|48.100|27.033|RO|Botoșani County|66
 Mitterdorf im Mürztal|47.533|15.517|AT|Styria|66
 Míthymna|39.368|26.176|GR|North Aegean|66
 Mittersill|47.283|12.483|AT|Salzburg|66
+Mitiaro|-19.867|-157.700|CK||65|f
+Mittelsteine Concentration Camp|50.522|16.496|PL|Lower Silesia|65|f
 Mitcham|-34.979|138.622|AU|South Australia|65
 Mittelhausbergen|48.614|7.690|FR|Grand Est|65
 Mitchell|41.940|-103.809|US|Nebraska|64
@@ -65,6 +72,7 @@ Mithra|31.118|75.652|IN|Punjab|64
 Mitteleschenbach|49.212|10.798|DE|Bavaria|64
 Mitrópoli|39.339|21.838|GR|Thessaly|64
 Mitroúsi|41.070|23.461|GR|Central Macedonia|63
+Mittag-Lefflerbreen|78.811|16.763|SJ|Svalbard|63|f
 Mitterberghütten|47.400|13.217|AT|Salzburg|63
 Mitchell|38.762|-90.085|US|Illinois|63
 Mittertreffling|48.339|14.365|AT|Upper Austria|62
@@ -74,19 +82,103 @@ Mitchell|-26.485|147.974|AU|Queensland|61
 Mitsushima|35.267|137.850|JP|Nagano|61
 Mittelhof|50.775|7.805|DE|Rheinland-Pfalz|61
 Mitéguékaha|9.625|-5.455|CI|Savanes District|61
+Mitake-san|35.783|139.150|JP|Tokyo|61|f
+Mitrahalvøya|79.233|11.333|SJ|Svalbard|61|f
+Mitsudomoe Islands|-69.967|38.750|AQ||61|f
+Mittlere Petermann Range|-71.500|12.500|AQ||61|f
 Mitterhofen|47.383|12.800|AT|Salzburg|61
 Mitspe Aviv|32.839|35.199|IL|Northern District|61
 Mittelschefflenz|49.402|9.280|DE|Baden-Wurttemberg|61
 Mittelneufnach|48.176|10.598|DE|Bavaria|60
 Mitterndorf im Steirischen Salzkammergut|47.556|13.932|AT|Styria|60
 Mitspe Netofa|32.802|35.387|IL|Northern District|60
+Mittelberg|47.206|9.643|AT|Vorarlberg|60
+Mittelnkirchen|53.542|9.623|DE|Lower Saxony|60
+Mittelsinn|50.192|9.617|DE|Bavaria|59
+Mitterberg|47.462|13.950|AT|Styria|59
+Mittelwihr|48.151|7.319|FR|Grand Est|59
 Mitrofani|44.733|24.209|RO|Vâlcea County|59
+Mitselwier|53.360|6.067|NL|Friesland|58
+Mittelreidenbach|49.726|7.442|DE|Rheinland-Pfalz|58
+Mititei|47.284|24.317|RO|Bistrița-Năsăud County|58
+Mitterndorf|47.954|13.998|AT|Upper Austria|58
+Mitchel Range|34.942|-117.003|US|California|58|f
+Mitford Castle|55.163|-1.735|GB|England|58|f
+Mitre Peak|35.719|76.502|PK|Gilgit-Baltistan|58|f
+Mittagsplatzl|49.093|13.142|DE|Bavaria|58|f
+Mittler Blistock|46.931|9.121|CH|Glarus|58|f
+Mitontic|16.867|-92.628|MX|Chiapas|58
+Mitlancingo|17.831|-98.981|MX|Guerrero|58
+Mitseró|35.043|33.124|CY|Nicosia|57
+Mittelbrunn|49.367|7.550|DE|Rheinland-Pfalz|57
+Mitterlimberg|46.733|15.233|AT|Styria|57
+Mitterhausleiten|48.079|14.722|AT|Lower Austria|57
+Mito|-11.937|-75.339|PE|Junin|56
+Mitocași|47.732|26.263|RO|Suceava|56
+Mittelbergheim|48.396|7.442|FR|Grand Est|56
+Mittelbronn|48.770|7.227|FR|Grand Est|56
+Mittelstenahe|53.651|9.037|DE|Lower Saxony|56
+Mitchell|-29.683|152.117|AU|New South Wales|56
+Mittelhausen|51.434|11.462|DE|Saxony-Anhalt|56
+Mitropolia|44.878|26.879|RO|Buzău County|56
+Mittlern|46.605|14.722|AT|Carinthia|55
+Mittersheim|48.861|6.942|FR|Grand Est|55
+Mitterfladnitz|47.011|15.803|AT|Styria|55
+Mittainville|48.671|1.646|FR|Île-de-France|55
+Mittelhausen|48.709|7.630|FR|Grand Est|55
+Mitterland|47.587|12.096|AT|Tyrol|55
+Mitichi|6.175|-4.337|CI|Lagunes District|54
+Mitterperwend|48.206|14.093|AT|Upper Austria|54
+Mitchell Point|-64.215|-62.048|AQ||54|f
+Mitchell Ranges|-12.931|135.530|AU|Northern Territory|54|f
+Mittelbau-Dora Concentration Camp|51.535|10.749|DE|Thuringia|54|f
+Mittellandkanal|52.278|7.605|DE|North Rhine-Westphalia|54|f
+Mitten Rock|36.609|-108.945|US|New Mexico|54|f
+Mitupampa|-5.330|-79.481|PE|Piura|54
+Mittenwalde|53.185|13.661|DE|Brandenburg|54
+Mittelstrimmig|50.083|7.283|DE|Rheinland-Pfalz|53
+Mittelpöllnitz|50.750|11.917|DE|Thuringia|50
+Mita Hills Dam|-14.147|29.094|ZM|Central Province|49|f
+Mitchell Park|-34.646|148.020|AU|New South Wales|49|f
+Mitchell Peak|-76.333|-147.300|AQ||49|f
+Mitchell Peninsula|-66.328|110.548|AQ||49|f
+Mitchell River National Park|-37.648|147.353|AU|Victoria|49|f
+Mitchell-Alice Rivers National Park|-15.468|142.086|AU|Queensland|49|f
+Mitchells Island|-31.898|152.618|AU|New South Wales|49|f
+Mitchelstown Castle|52.269|-8.297|IE|Munster|49|f
+Mite Skerry|-67.860|-67.305|AQ||49|f
+Mitterling Glacier|-66.834|-64.283|AQ||49|f
+Mittelsömmern|51.200|10.817|DE|Thuringia|48
 Mitterlabill|46.889|15.636|AT|Styria|47
 Mitterkirchen im Machland|48.188|14.696|AT|Upper Austria|45
 Mitterdorf an der Raab|47.167|15.600|AT|Styria|45
+Mittelfischbach|50.254|7.961|DE|Rheinland-Pfalz|42
+Mitatut Lake|54.789|-101.385|CA|Manitoba|40|f
+Mitchell Bay|44.933|-62.199|CA|Nova Scotia|40|f
+Mitchell Caverns State Park|34.941|-115.514|US|California|40|f
+Mitchell Glacier|-77.950|163.050|AQ||40|f
+Mitchell Island|49.200|-123.086|CA|British Columbia|40|f
+Mitchell Island|63.434|-67.964|CA|Nunavut|40|f
+Mitchell Lake|44.574|-78.950|CA|Ontario|40|f
+Mitchell Lake|29.283|-98.491|US|Texas|40|f
+Mitchell Peak|33.220|-109.368|US|Arizona|40|f
+Mitchell Peak|42.768|-109.198|US|Wyoming|40|f
+Mitchell Range|55.333|-125.620|CA|British Columbia|40|f
+Mitchell Recreation Area|42.432|-120.861|US|Oregon|40|f
+Mitre|-40.800|175.450|NZ|Wellington Region|40|f
+Mitre Peak|-44.633|167.856|NZ|Southland|40|f
+Mittaggüpfi|46.972|8.187|CH|Obwalden|40|f
+Mittagstock|46.632|8.512|CH|Uri|40|f
+Mittelaletschgletscher|46.459|8.016|CH|Valais|40|f
+Mittelhorn|46.635|8.125|CH|Bern|40|f
+Mittineague Park|42.101|-72.653|US|Massachusetts|40|f
+Mittlere Ödkarspitze|47.412|11.424|AT|Tyrol|40|f
+Mittlerspitz|47.065|9.540|LI||40|f
+Mittry Lake|32.819|-114.489|US|Arizona|40|f
 Mitaka|35.684|139.560|JP|Tokyo|0
 Mitchel Troy|51.787|-2.737|GB|Wales|0
 Mitiaro|-19.869|-157.709|CK||0|r
 Mitoma|-0.684|30.070|UG|Western Region|0
+Mitrabakti|-7.285|107.358|ID|West Java|0
 Mittakpheap|10.623|103.525|KH|Preah Sihanouk|0
 Mitterbach am Erlaufsee|47.814|15.295|AT|Lower Austria|0

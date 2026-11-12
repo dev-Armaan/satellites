@@ -12,6 +12,7 @@ Udaipur|23.533|91.483|IN|Tripura|90
 Udomlya|57.876|35.007|RU|Tver Oblast|90
 Udaipur|27.723|75.472|IN|Rajasthan|90
 Udaipurwati|27.730|75.472|IN|Rajasthan|89
+Udon Thani International Airport|17.386|102.788|TH|Udon Thani|87|f
 Udangudi|8.429|78.030|IN|Tamil Nadu|86
 Udaipura|23.074|78.511|IN|Madhya Pradesh|85
 Udalguri|26.754|92.102|IN|Assam|84
@@ -30,7 +31,10 @@ Udenhout|51.609|5.143|NL|North Brabant|78
 Udeşti|47.567|26.417|RO|Suceava|77
 Uddingston|55.820|-4.084|GB|Scotland|75
 Udobnaya|44.193|41.553|RU|Krasnodar Krai|75
+Udot Island|7.389|151.708|FM|Chuuk|74|f
+Udone Island|34.472|139.294|JP|Tokyo|73|f
 Udiana|26.461|91.606|IN|Assam|73
+Udo|34.724|127.310|KR|Jeollanam-do|71|f
 Udarnyy|54.341|42.861|RU|Mordoviya Republic|71
 Uddiawan|16.559|121.151|PH|Cagayan Valley|70
 Udimskiy|61.142|45.914|RU|Arkhangelskaya|68
@@ -40,6 +44,7 @@ Udligenswil|47.090|8.403|CH|Lucerne|67
 Udobne|46.378|30.045|UA|Odesa|66
 Udupu|44.397|25.145|RO|Teleorman County|66
 Uddel|52.259|5.781|NL|Gelderland|65
+Uddjaure|65.994|17.784|SE|Norrbotten|65|f
 Udachne|48.241|36.992|UA|Donetsk|65
 Uda|47.336|26.572|RO|Iași County|64
 Udy|50.391|36.055|UA|Kharkiv|63
@@ -52,9 +57,33 @@ Udavské|48.976|21.965|SK|Prešov Region|62
 Udenhausen|51.464|9.463|DE|Hesse|61
 Udarnyy|44.349|42.505|RU|Karachayevo-Cherkesiya Republic|61
 Ūdalah|32.154|35.276|PS|West Bank|61
+U-do|33.505|126.955|KR|Jeju-do|61|f
+Udu-san|37.405|127.644|KR|Gyeonggi-do|61|f
 Uda-Clocociov|43.888|24.714|RO|Teleorman County|61
 Údlice|50.441|13.457|CZ|Ústí nad Labem Region|60
 Udanin|51.037|16.455|PL|Lower Silesia|60
+Udanapur|20.051|76.491|IN|Maharashtra|60
+Udachnoye|45.389|34.282|UA|Crimea|59
 Uderns|47.317|11.867|AT|Tyrol|59
+Udestedt|51.050|11.133|DE|Thuringia|58
+Udriku Laid|58.422|23.285|EE|Saare|58|f
 Udbina|44.531|15.766|HR|Lika-Senj|57
+Udeni|44.464|25.430|RO|Teleorman County|57
+Udall|37.388|-97.114|US|Kansas|57
+Udidgaon|19.702|81.438|IN|Chhattisgarh|56
+Uddeholm|60.017|13.617|SE|Värmland|56
+Udeni-Zăvoi|44.829|24.999|RO|Arges|55
+Udovychenky|50.328|34.367|UA|Poltava|55
+Udayagiri|20.633|86.267|IN|Odisha|54|f
+Udell Lookout Tower|44.208|-86.100|US|Michigan|54|f
+Údolní nádrž Lipno|48.689|14.087|CZ||54|f
+Udarnyy|49.115|142.139|RU|Sakhalin Oblast|54
+Udler|50.133|6.883|DE|Rheinland-Pfalz|50
+Udawalawe National Park|6.474|80.899|LK|Uva Province|49|f
+Udhayliyah Airport|25.085|49.198|SA|Eastern Province|49|f
+Udren Zom|36.470|72.039|PK|Khyber Pakhtunkhwa|49|f
+Údolní nádrž Římov|48.833|14.467|CZ||40|f
+Údolní nádrž Slapy|49.799|14.432|CZ||40|f
+Údolní nádrž Štěchovice|49.847|14.440|CZ||40|f
+Udzungwa Mountains National Park|-7.751|36.696|TZ|Iringa|40|f
 Udënisht|40.963|20.639|AL|Korçë County|0

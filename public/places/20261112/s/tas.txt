@@ -4,8 +4,9 @@ Tasikmalaya|-7.327|108.221|ID|West Java|118
 Tasmania|-42.000|147.000|AU||114|r
 Tasek Glugor|5.480|100.498|MY|Penang|103
 Tashan|34.336|117.567|CN|Jiangsu|95
+Tashkent International Airport|41.258|69.281|UZ|Tashkent|94|f
+Tasman District|-41.200|173.050|NZ||92|r
 Tāsgaon|17.037|74.602|IN|Maharashtra|92
-Tasman District|-41.200|173.050|NZ||91|r
 Tash-Kumyr|41.346|72.217|KG|Jalal-Abad Region|87
 Tashtagol|52.768|87.888|RU|Kuzbass|87
 Tas-Sliema|35.913|14.502|MT||87|r
@@ -21,8 +22,10 @@ Tăşnad|47.483|22.583|RO|Satu Mare County|80
 Tashqorghan|37.778|75.225|CN|Xinjiang|79
 Tasso Fragoso|-8.475|-45.743|BR|Maranhão|79
 Taseyevo|57.217|94.894|RU|Krasnoyarsk Krai|79
+Tåsinge|55.000|10.600|DK|South Denmark|78|f
 Tashir|41.119|44.286|AM|Lori|78
 Tasūj|38.316|45.360|IR|East Azerbaijan|78
+Täschhorn|46.083|7.857|CH|Valais|77|f
 Tasqala|51.111|50.295|KZ|West Kazakhstan|77
 Tashla|51.772|52.741|RU|Orenburg Oblast|76
 Tashtyp|52.799|89.894|RU|Khakasiya Republic|76
@@ -30,10 +33,15 @@ Taşlıçay|39.630|43.369|TR|Ağrı|76
 Tasti Tea Garden|26.648|89.147|IN|West Bengal|75
 Taşağıl|36.921|31.236|TR|Antalya|73
 Ţasūj|29.267|52.699|IR|Fars|73
+Tasiujaq Airport|58.667|-69.956|CA|Quebec|72|f
 Tasquillo|20.548|-99.312|MX|Hidalgo|71
+Tashiro Jima|38.299|141.417|JP|Miyagi|71|f
 Tashara|55.520|83.509|RU|Novosibirsk Oblast|71
 Taşköprü|40.674|29.391|TR|Yalova|70
 Tass|47.021|19.030|HU|Bács-Kiskun|69
+Tasman Bay|-41.168|173.160|NZ|Nelson Region|69|f
+Tasman Bridge|-42.865|147.343|AU|Tasmania|69|f
+Tasman Sea|-40.000|160.000|AU||69|f
 Taşca|46.900|26.017|RO|Neamț County|69
 Tassara|16.805|5.644|NE|Tahoua Region|68
 Taszár|46.375|17.906|HU|Somogy County|66
@@ -41,18 +49,82 @@ Tasovčići|43.113|17.720|BA|Federation of B&H|66
 Tashanta|49.716|89.194|RU|Altai|66
 Tasiilaq|65.615|-37.637|GL|Sermersooq|66
 Tashlyk|49.073|31.734|UA|Cherkasy|66
+Tasaral Island|46.283|74.074|KZ|Karaganda|65|f
 Tasco|5.910|-72.780|CO|Boyacá|65
 Tasker|15.117|10.697|NE|Zinder Region|64
 Tassullo|46.343|11.045|IT|Trentino-Alto Adige|64
+Tase-damu|39.343|141.319|JP|Iwate|63|f
+Tasmania|-42.000|147.000|AU|Tasmania|63|f
 Tășad|46.938|22.125|RO|Bihor County|62
 Tasovice|48.836|16.156|CZ|South Moravian|62
 Tasty|50.464|65.973|KZ|Kostanay|61
+Tas-Silġ|35.846|14.552|MT|Marsaxlokk|61|f
 Taşobası|37.090|34.930|TR|Mersin|61
 Tāshkūh-e Soflá|36.556|51.957|IR|Māzandarān|61
 Taşlı|37.988|42.136|TR|Siirt|60
+Taşharman|38.702|42.334|TR|Bitlis|60
+Taşbaşı|37.407|43.458|TR|Hakkâri|60
+Taşlıca|37.337|40.977|TR|Mardin|59
+Tasajillo|21.214|-100.205|MX|Guanajuato|59
+Taskino|56.319|92.952|RU|Krasnoyarsk Krai|59
+Taşlıdere|38.221|41.261|TR|Batman|59
+Taşdeğirmen|37.420|37.806|TR|Gaziantep|59
+Taşburun|39.979|44.249|TR|Iğdır|59
+Täsch|46.068|7.778|CH|Valais|58
+Taşkapı|37.641|30.420|TR|Burdur|58
+Tasermiut|60.292|-44.770|GL|Kujalleq|58|f
+Tasersuatsiaq|66.967|-50.650|GL|Qeqqata|58|f
+Tasiusaq|73.350|-55.950|GL|Avannaata|58|f
+Tasiusaq|60.190|-44.812|GL|Kujalleq|58|f
+Taskigi Mound|32.504|-86.259|US|Alabama|58|f
+Tassel Hill|42.941|-75.317|US|New York|58|f
+Taşköprü|40.858|31.109|TR|Düzce|57
+Tasinaxtla (La Cañada)|19.580|-103.299|MX|Jalisco|57
+Tasourouboua|6.564|-6.595|CI|Sassandra-Marahoue|57
+Taşkesen|39.457|43.706|TR|Ağrı|57
 Tasty-Taldy|50.728|66.620|KZ|Aqmola|57
+Taşdelen|37.376|42.869|TR|Şırnak|57
+Tasajeras|16.810|-99.617|MX|Guerrero|57
+Tāshkūh-e Vosţá|36.550|51.955|IR|Māzandarān|56
+Tashi Chho Dzong|27.483|89.617|BT||56
+Taşdibek|37.950|42.296|TR|Siirt|56
+Taşkuyu|37.617|38.500|TR|Adıyaman Province|55
+Tasov|49.288|16.095|CZ|Vysocina|55
+Taşyayla|37.523|30.675|TR|Burdur|55
+Taşlıca|36.902|31.786|TR|Antalya|54
+Taşkesiği|36.760|31.636|TR|Antalya|54
+Tasghimout|30.908|-8.575|MA|Marrakesh-Safi|54|f
+Tashtego Point|-65.727|-62.127|AQ||54|f
+Tasikmalaya / Cibeureum|-7.333|108.250|ID|West Java|54|f
+Taşbasamak|39.487|43.621|TR|Ağrı|54
+Taşkın|39.045|42.839|TR|Ağrı|54
 Tassarolo|44.728|8.772|IT|Piedmont|54
+Tasov|48.907|17.430|CZ|South Moravian|54
+Tastrup|54.767|9.483|DE|Schleswig-Holstein|53
+Tasdorf|54.095|10.031|DE|Schleswig-Holstein|51
+Tashkurgan Airport|37.664|75.287|CN|Xinjiang|49|f
+Tasman Glacier|-43.559|170.243|NZ|Canterbury|49|f
+Tasman Island|-43.238|148.002|AU|Tasmania|49|f
+Tasman Peninsula|-43.085|147.798|AU|Tasmania|49|f
+Tasman Ridge|-78.033|163.050|AQ||49|f
+Tasu Sound|52.780|-132.056|CA|British Columbia|49|f
+Tastungen|51.469|10.310|DE|Thuringia|49
+Tasch Peak|-76.667|-118.050|AQ||40|f
+Taschensee|54.049|10.707|DE|Schleswig-Holstein|40|f
+Taseko Lakes|51.250|-123.603|CA|British Columbia|40|f
+Taseko Mountain|51.233|-123.470|CA|British Columbia|40|f
+Tashkent TV Tower|41.346|69.285|UZ||40|f
+Tashmoo Hill|41.446|-70.618|US|Massachusetts|40|f
+Tašmajdan|44.808|20.474|RS|Central Serbia|40|f
+Tasman Lake|-43.699|170.181|NZ|Canterbury|40|f
+Tasmania Islands|71.268|-96.584|CA|Nunavut|40|f
 Taşdelen|38.838|38.505|TR|Malatya|0
+Tasha|29.058|109.567|CN|Hunan|0
 Tashan|50.047|31.841|UA|Kyiv Oblast|0
+Tashang|38.395|114.202|CN|Henan|0
+Tashantun|40.255|120.395|CN|Liaoning|0
+Tashi|40.263|95.980|CN|Gansu|0
+Tashi|29.140|119.156|CN|Zhejiang|0
+Tasikona|-10.357|123.621|ID|East Nusa Tenggara|0
 Tasīl|32.834|35.970|SY|Daraa|0
 Taşpınar|38.180|34.025|TR|Aksaray|0

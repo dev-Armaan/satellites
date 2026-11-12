@@ -13,14 +13,18 @@ Baunatal|51.252|9.407|DE|Hesse|89
 Baud|20.838|84.326|IN|Odisha|86
 Baumschulenweg|52.466|13.485|DE|State of Berlin|86
 Baukau|-8.476|126.456|TL|Baucau|84
+Baucau Airport|-8.486|126.399|TL|Baucau|81|f
 Bauska|56.407|24.187|LV|Bauska Municipality|80
 Baua Kalan|23.812|86.365|IN|Jharkhand|80
 Bauan|17.723|121.680|PH|Cagayan Valley|78
+Bauru Airport|-22.345|-49.054|BR|São Paulo|77|f
 Bau|7.405|124.650|PH|Soccsksargen|76
 Baudour|50.483|3.833|BE|Wallonia|76
+Baudette International Airport|48.728|-94.612|US|Minnesota|75|f
 Baume-les-Dames|47.353|6.361|FR|Bourgogne-Franche-Comté|75
 Bauvin|50.517|2.894|FR|Hauts-de-France|75
 Baud|47.876|-3.019|FR|Brittany|74
+Bauchi Airport|10.294|9.817|NG|Bauchi|72|f
 Baumholder|49.617|7.334|DE|Rheinland-Pfalz|72
 Baunach|49.986|10.852|DE|Bavaria|72
 Baugé-en-Anjou|47.544|-0.107|FR|Pays de la Loire|71
@@ -29,14 +33,21 @@ Bautista|15.784|120.498|PH|Ilocos|70
 Baud|11.211|123.703|PH|Central Visayas|70
 Băuţar|45.517|22.567|RO|Caraș-Severin County|69
 Bautista|13.994|121.278|PH|Calabarzon|68
+Baurtregaum|52.207|-9.830|IE|Munster|67|f
 Baugo|10.317|123.919|PH|Central Visayas|67
 Baunu-Timbangan|6.005|120.994|PH|Autonomous Region in Muslim Mindanao|67
 Baunei|40.031|9.664|IT|Sardinia|66
 Baucina|37.925|13.536|IT|Sicily|66
 Baunza Manlékro|7.389|-4.631|CI|Lacs District|65
+Baumgartenschneid|47.702|11.809|DE|Bavaria|65|f
+Baures Airport|-13.583|-63.583|BO|Beni Department|65|f
+Bauru-Arealva Airport|-22.165|-49.071|BR|São Paulo|65|f
 Baule|47.811|1.673|FR|Centre-Val de Loire|65
 Baunda|7.622|-4.737|CI|Vallée du Bandama District|65
 Baulon|47.985|-1.932|FR|Brittany|63
+Baublitz Commercial Airport|39.852|-76.487|US|Pennsylvania|63|f
+Baudisson Island|-2.728|150.669|PG|New Ireland|63|f
+Bauneg Beg Mountain|43.385|-70.785|US|Maine|63|f
 Baulne|48.493|2.362|FR|Île-de-France|63
 Bauné|47.500|-0.319|FR|Pays de la Loire|63
 Bausendorf|50.017|7.000|DE|Rheinland-Pfalz|63
@@ -46,11 +57,50 @@ Baumkirchen|47.300|11.567|AT|Tyrol|62
 Baudenbach|49.625|10.536|DE|Bavaria|62
 Bautista Chico|16.800|-92.712|MX|Chiapas|61
 Baugy|47.082|2.728|FR|Centre-Val de Loire|61
+Baubau Betoambari Airport|-5.487|122.569|ID|Southeast Sulawesi|61|f
+Baulu Taung|12.961|99.102|MM|Tanintharyi Region|61|f
+Bautzen Reservoir|51.214|14.454|DE|Saxony|61|f
 Baudette|48.712|-94.600|US|Minnesota|61
 Bauma|47.367|8.879|CH|Zurich|60
+Baulmes|46.790|6.523|CH|Vaud|59
+Baumgarten am Tullnerfeld|48.283|16.033|AT|Lower Austria|59
+Baumgarten im Burgenland|47.739|16.501|AT|Burgenland|59
+Baudrières|46.673|5.011|FR|Bourgogne-Franche-Comté|58
+Baurech|44.725|-0.440|FR|New Aquitaine|58
+Baura|44.852|11.719|IT|Emilia-Romagna|57
+Baudemont|46.288|4.287|FR|Bourgogne-Franche-Comté|57
+Bautista Grande|16.797|-92.728|MX|Chiapas|57
 Bauladu|40.021|8.672|IT|Sardinia|57
+Baudreix|43.204|-0.258|FR|New Aquitaine|56
+Bauple|-25.812|152.621|AU|Queensland|56
+Baugnies|50.560|3.552|BE|Wallonia|55
+Baumgartenberg|48.209|14.744|AT|Upper Austria|55
+Baustert|49.978|6.390|DE|Rheinland-Pfalz|55
+Baudoncourt|47.779|6.346|FR|Bourgogne-Franche-Comté|55
+Baudin Island|-26.514|113.650|AU|Western Australia|54|f
+Baudin Peaks|-68.827|-67.056|AQ||54|f
+Baudissin Glacier|-53.033|73.433|HM||54|f
+Baugevatnet|68.091|17.015|NO|Nordland|54|f
+Baugh Fell|54.300|-2.400|GB|England|54|f
+Bautaen Peak|-71.967|25.950|AQ||54|f
+Baudres|47.058|1.578|FR|Centre-Val de Loire|54
+Baudin Conservation Park|-35.725|137.964|AU|South Australia|49|f
+Baudin Rocks Conservation Park|-37.090|139.723|AU|South Australia|49|f
+Baugh Mountain|34.544|-85.021|US|Georgia|49|f
+Baula|64.849|-21.439|IS|West|49|f
+Baur|28.910|63.708|PK|Balochistan|49|f
 Bauen|46.936|8.578|CH|Uri|46
 Baumgarten bei Gnas|46.917|15.767|AT|Styria|46
+Bauhaus Archive|52.506|13.354|DE|State of Berlin|40|f
+Baulch Peak|-83.350|163.083|AQ||40|f
+Baumann Fiord|77.668|-85.583|CA|Nunavut|40|f
+Baumbach Lake|46.009|-95.591|US|Minnesota|40|f
+Bauza Island|-45.300|166.883|NZ||40|f
+Bauler|50.333|6.883|DE|Rheinland-Pfalz|33
+Bau|-8.563|118.972|ID|West Nusa Tenggara|0
 Bauko|16.990|120.867|PH|Cordillera|0
+Bauler|49.967|6.200|DE|Rheinland-Pfalz|0
+Baumata|-10.198|123.689|ID|East Nusa Tenggara|0
+Baun|-10.294|123.725|ID|East Nusa Tenggara|0
 Baure|12.838|8.745|NG|Katsina State|0
 Bauyrzhan Momyshuly|42.614|70.770|KZ|Zhambyl|0

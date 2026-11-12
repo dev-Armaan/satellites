@@ -22,6 +22,7 @@ Kātrās|23.798|86.298|IN|Jharkhand|95
 Kateríni|40.270|22.506|GR|Central Macedonia|95
 Katanawa|33.521|130.424|JP|Fukuoka|94
 Katete|-14.050|32.083|ZM|Eastern Province|93
+Katowice International Airport|50.474|19.080|PL|Silesia|93|f
 Kātol|21.274|78.586|IN|Maharashtra|93
 Katanda|-0.825|29.365|CD|North Kivu|92
 Katō|34.924|135.026|JP|Hyōgo|92
@@ -73,6 +74,7 @@ Kāti|17.961|75.889|IN|Maharashtra|82
 Katoro|-1.400|31.500|TZ|Kagera|82
 Kāttakampāla|10.694|76.034|IN|Kerala|81
 Kāttupputtūr|10.994|78.219|IN|Tamil Nadu|81
+Katima Mulilo Airport|-17.634|24.177|NA|Zambezi Region|81|f
 Katsumada|35.033|134.117|JP|Okayama|81
 Kathāniān|31.637|74.757|IN|Punjab|81
 Katipunan|7.582|122.831|PH|Zamboanga Peninsula|81
@@ -81,11 +83,13 @@ Kathu|-27.696|23.049|ZA|Northern Cape|79
 Katyr-Yurt|43.172|45.370|RU|Chechnya|79
 Katiali|9.823|-5.934|CI|Savanes District|79
 Katra|32.992|74.932|IN|Jammu and Kashmir|79
+Katsina Airport|13.007|7.660|NG|Katsina State|79|f
 Katpur|21.059|71.795|IN|Gujarat|79
 Kattimancode|8.191|77.353|IN|Tamil Nadu|79
 Katangawan|6.172|125.221|PH|Soccsksargen|79
 Katoomba|-33.720|150.307|AU|New South Wales|78
 Katang Ailieke|38.153|85.518|CN|Xinjiang|78
+Katla volcano|63.631|-19.062|IS|South|78|f
 Katlenburg-Lindau|51.683|10.100|DE|Lower Saxony|78
 Kattrivedu|13.138|80.204|IN|Tamil Nadu|78
 Katran|39.844|70.015|KG|Batken|77
@@ -97,10 +101,13 @@ Katirail T.E.|24.909|92.580|IN|Assam|76
 Katikati|-37.550|175.917|NZ|Bay of Plenty|76
 Katherine|-14.465|132.263|AU|Northern Territory|76
 Katwijk aan den Rijn|52.194|4.422|NL|South Holland|75
+Kattiniq/Donaldson Airport|61.662|-73.321|CA|Quebec|75|f
 Katoro|10.150|-6.129|CI|Savanes District|75
 Káto Achaḯa|38.150|21.550|GR|West Greece|75
 Katerynopil|48.946|30.972|UA|Cherkasy|75
 Kąty Wrocławskie|51.031|16.768|PL|Lower Silesia|75
+Katiola Airport|8.134|-5.065|CI|Vallée du Bandama District|74|f
+Káto Nisí|38.524|25.519|GR|North Aegean|74|f
 Katsikás|39.623|20.888|GR|Epirus|74
 Katito|-0.269|34.972|KE|Kisumu County|74
 Katadji|5.668|-4.541|CI|Lagunes District|74
@@ -120,21 +127,27 @@ Katico|6.760|124.732|PH|Soccsksargen|72
 Katièplénou|7.087|-4.283|CI|Lacs District|72
 Kata|7.606|-8.099|CI|Montagnes|71
 Katanning|-33.688|117.558|AU|Western Australia|71
+Katama Airpark|41.358|-70.525|US|Massachusetts|71|f
 Kato|8.488|-6.829|CI|Woroba|70
 Katunino|64.392|40.627|RU|Arkhangelskaya|70
 Katherine East|-14.466|132.286|AU|Northern Territory|70
+Kati Thanda–Lake Eyre|-28.667|137.167|AU|South Australia|70|f
 Katzelsdorf|47.781|16.270|AT|Lower Austria|70
 Katharinenberg|51.181|10.261|DE|Thuringia|70
 Katyonon|8.167|-5.100|CI|Vallée du Bandama District|69
 Katse|-29.335|28.480|LS|Thaba-Tseka|69
 Katochí|38.412|21.253|GR|West Greece|69
 Káto Tithoréa|38.608|22.713|GR|Central Greece|69
+Katsurazawa Dam|43.240|142.003|JP|Hokkaido|69|f
+Katsuren Peninsula|26.323|127.896|JP|Okinawa|69|f
 Katara|10.176|-6.177|CI|Savanes District|68
 Katimasso|7.342|-3.574|CI|Lacs District|68
 Katipunan|7.320|125.620|PH|Davao Region|68
 Katchré Essekro|7.024|-4.613|CI|Lacs District|68
 Katok|4.916|114.894|BN|Brunei-Muara District|68
 Katymár|46.034|19.209|HU|Bács-Kiskun|68
+Kāthiāwār Peninsula|21.967|70.500|IN|Gujarat|67|f
+Katsuura Dam|35.171|140.205|JP|Chiba|67|f
 Katzenelnbogen|50.267|7.973|DE|Rheinland-Pfalz|67
 Katzhütte|50.552|11.053|DE|Thuringia|67
 Káto Goúves|35.329|25.314|GR|Crete|67
@@ -144,6 +157,7 @@ Katya|9.371|-5.656|CI|Savanes District|67
 Katzwinkel|50.815|7.822|DE|Rheinland-Pfalz|66
 K’atskhi|42.284|43.209|GE|Imereti|66
 Káto Scholári|40.429|23.030|GR|Central Macedonia|66
+Kattertooq|63.150|-41.767|GL|Sermersooq|65|f
 Katrā|36.737|50.985|IR|Māzandarān|65
 Katherine South|-14.468|132.258|AU|Northern Territory|65
 Katnajur|40.823|44.141|AM|Lori|65
@@ -158,6 +172,8 @@ Katonah|41.259|-73.685|US|New York|65
 Katouo|6.762|-8.328|CI|Montagnes|64
 Katoúna|38.785|21.114|GR|West Greece|64
 Katanra|9.647|-6.494|CI|Savanes District|64
+Katagiri-damu|35.621|137.858|JP|Nagano|63|f
+Katzenbuckel|49.471|9.041|DE|Baden-Wurttemberg|63|f
 Kati|6.515|-7.526|CI|Montagnes|63
 Katiénou|7.409|-5.124|CI|Vallée du Bandama District|63
 Katovice|49.273|13.830|CZ|South Bohemian Region|63
@@ -170,13 +186,117 @@ Katogbo|8.472|-6.671|CI|Woroba|61
 Káto Pýrgos|35.179|32.686|CY|Nicosia|61
 Káto Kamíla|41.021|23.483|GR|Central Macedonia|61
 Kátlovce|48.524|17.610|SK|Trnava Region|61
+Katchal Island|7.950|93.367|IN|Andaman and Nicobar|61|f
+Kato Paphos Castle|34.754|32.407|CY|Pafos|61|f
 Kateh Gonbad|29.270|53.143|IR|Fars|61
 Káto Lipochóri|40.758|22.180|GR|Central Macedonia|61
 Katnaghbyur|40.381|43.947|AM|Aragatsotn|61
 Katzelsdorf|48.285|16.108|AT|Lower Austria|60
 Káto Mazaráki|38.070|21.651|GR|West Greece|60
+Katunga|-36.013|145.469|AU|Victoria|60
+Katerynka|47.924|30.784|UA|Mykolaiv|60
+Káto Korakiána|39.690|19.828|GR|Ionian Islands|60
+Kąty Opolskie|50.559|17.974|PL|Opole Voivodeship|60
+Káto Figália|37.441|21.774|GR|West Greece|60
+Káto Chorió|35.049|25.791|GR|Crete|60
+Katiali|9.901|-6.126|CI|Savanes District|59
+Kateřinice|49.382|17.886|CZ|Zlín|59
+Katyali|8.866|-6.271|CI|Woroba|59
+Ka Tha Paung|16.912|95.895|MM|Yangon|59
+Kateh Sar|37.369|49.685|IR|Gilan Province|59
+Kattendorf|53.843|10.023|DE|Schleswig-Holstein|59
+Katnarat|41.058|44.193|AM|Lori|59
+Káto Agios Márkos|39.706|19.833|GR|Ionian Islands|59
+Katangli|51.707|143.228|RU|Sakhalin Oblast|59
+Katyonron|8.751|-5.602|CI|Vallée du Bandama District|58
+Káto Examília|37.908|22.940|GR|Peloponnese|58
+Katunki|56.831|43.220|RU|Nizhny Novgorod Oblast|58
+Katlanovo|41.892|21.681|MK|Petrovec|58
+Kataragama Peak|6.388|81.339|LK|Uva Province|58|f
+Kates Needle|57.045|-132.044|US|Alaska|58|f
+Katnosa|60.153|10.567|NO|Buskerud|58|f
+Kattegat|56.932|11.443|DK||58|f
+Kāttu Malai|10.254|77.098|IN|Kerala|58|f
+Katukurunda Airport|6.552|79.979|LK|Western Province|58|f
+Káto Alissós|38.141|21.576|GR|West Greece|58
+Káto Kastrítsi|38.291|21.804|GR|West Greece|58
+Katusice|50.445|14.777|CZ|Central Bohemia|58
+Káto Miliá|40.254|22.343|GR|Central Macedonia|58
+Káto Neochorópoulo|39.640|20.841|GR|Epirus|58
+Katokossou|7.716|-5.319|CI|Vallée du Bandama District|58
+Katran|37.253|42.105|TR|Şırnak|57
+Katnaghbyur|40.256|44.676|AM|Kotayk|57
+Kattarp|56.140|12.782|SE|Skåne|57
+Káto Kalésia|35.286|25.056|GR|Crete|57
+Katariina|60.453|26.943|FI|Kymenlaakso|57
+Kąty Rybackie|54.340|19.230|PL|Pomerania|57
+Katerynivka|47.228|31.503|UA|Mykolaiv|57
+Káto Mármara|39.643|20.828|GR|Epirus|57
+Káto Almyrí|37.849|23.003|GR|Peloponnese|57
+Káto Ássos|37.947|22.830|GR|Peloponnese|57
+Káto Panagía|37.930|21.147|GR|West Greece|57
+Katyorkpo|9.235|-5.738|CI|Savanes District|57
+Katerynivka|48.419|37.756|UA|Donetsk|57
+Katachás|40.467|22.542|GR|Central Macedonia|56
+Káto Pitsá|38.109|22.535|GR|Peloponnese|56
+Katiola|9.655|-7.622|CI|Denguélé District|56
+Katzow|54.047|13.677|DE|Mecklenburg-Vorpommern|56
+Kátov|48.830|17.170|SK|Trnava Region|56
+Katranlık|36.731|36.456|TR|Hatay|56
+Kateřinice|49.669|18.188|CZ|Moravian-Silesian Region|56
+Katnaghbyur|41.037|44.218|AM|Lori|56
+Katlijk|52.946|6.013|NL|Friesland|56
+Káto Arachovítika|38.329|21.843|GR|West Greece|56
+Katákolo|37.656|21.317|GR|West Greece|55
+Káto Makrinoú|38.487|21.626|GR|West Greece|55
+Káto Garoúna|39.539|19.865|GR|Ionian Islands|55
+Katamina|13.550|-15.283|GM|Central River|55
+Katanvogo|9.427|-5.772|CI|Savanes District|55
+Katzenbach|49.645|7.809|DE|Rheinland-Pfalz|55
+Katégé|9.556|-5.865|CI|Savanes District|55
+Katsch an der Mur|47.147|14.278|AT|Styria|55
+Katsiveli|44.395|33.972|UA|Crimea|54
+Katzenthal|48.108|7.282|FR|Grand Est|54
+Katanning Airport|-33.717|117.633|AU|Western Australia|54|f
+Kato Airport|4.649|-59.832|GY|Potaro-Siparuni|54|f
+Katsuk Peak|48.578|-120.888|US|Washington|54|f
+Káto Trítos|39.086|26.433|GR|North Aegean|54
+Katwoude|52.468|5.046|NL|North Holland|54
+Katkovo|55.122|82.545|RU|Novosibirsk Oblast|54
+Kate Hill|42.332|-74.155|US|New York|49|f
+Katers Island|-14.466|125.534|AU|Western Australia|49|f
+Kathai Conservation Park|-34.753|135.822|AU|South Australia|49|f
+Kathleen Island|-43.307|145.964|AU|Tasmania|49|f
+Kathleen, Mount|-83.767|172.800|AQ||49|f
+Katthammarsvik|57.438|18.860|SE|Gotland|49|f
+Katzensee|47.431|8.491|CH||49|f
+Katharinenheerd|54.335|8.829|DE|Schleswig-Holstein|45
+Katzwinkel|50.250|6.917|DE|Rheinland-Pfalz|43
+Kataka Mountain|52.833|-118.402|CA|British Columbia|40|f
+Katchewanooka Lake|44.457|-78.259|CA|Ontario|40|f
+Katepwa Lake|50.700|-103.651|CA|Saskatchewan|40|f
+Katepwa Point Provincial Park|50.693|-103.626|CA|Saskatchewan|40|f
+Kates Needle|57.050|-132.054|CA|British Columbia|40|f
+Kathleen Lake|60.575|-137.304|CA|Yukon|40|f
+Kathmandu Durbar Square|27.704|85.308|NP|Bagmati Province|40|f
+Katholieke Universiteit Leuven / Campus Kortrijk|50.805|3.290|BE|Flanders|40|f
+KATK-FM (Carlsbad)|32.451|-104.214|US|New Mexico|40|f
+KATN-TV (Fairbanks)|64.845|-147.714|US|Alaska|40|f
+Kato Souli Naval Transmission Facility, Large LF Transmission Mast|38.145|24.020|GR|Attica|40|f
+Katoomba Falls|-33.727|150.305|AU|New South Wales|40|f
+Katoya Lake|48.528|-113.448|US|Montana|40|f
+KATQ-FM (Plentywood)|48.785|-104.534|US|Montana|40|f
+Katse Dam|-29.337|28.506|LS|Thaba-Tseka|40|f
+Katsuk Glacier|48.583|-120.897|US|Washington|40|f
+KattenKabinet|52.366|4.891|NL|North Holland|40|f
+Kattskill Bay|43.480|-73.627|US|New York|40|f
+KATU-TV|45.520|-122.745|US|Oregon|40|f
+KATV-TV (Little Rock)|34.473|-92.203|US|Arkansas|40|f
+Katz Castle|50.152|7.724|DE|Rheinland-Pfalz|40|f
 Katakwi|1.891|33.966|UG|Eastern Region|0
 Katcha|8.761|6.312|NG|Niger State|0
 Kathwana|-0.331|37.869|KE|Tharaka - Nithi|0
+Katikuloko|-9.598|119.543|ID|East Nusa Tenggara|0
 Káto Nevrokópi|41.350|23.867|GR|East Macedonia and Thrace|0
 Katundi i Ri|41.403|19.518|AL|Durrës County|0
+Katur|-7.159|111.719|ID|East Java|0

@@ -1,6 +1,6 @@
 Ţarţūs|34.889|35.887|SY|Tartus|113
 Tarlac City|15.480|120.598|PH|Central Luzon|112
-Tarapacá|-20.000|-69.333|CL||111|r
+Tarapacá|-20.000|-69.333|CL||112|r
 Taraz|42.898|71.373|KZ|Zhambyl|111
 Tarsus|36.918|34.893|TR|Mersin|111
 Taraba State|8.000|10.500|NG||110|r
@@ -9,7 +9,7 @@ Tarakan|3.313|117.592|ID|North Kalimantan|108
 Târgu Mureş|46.542|24.557|RO|Mureș County|107
 Taranto|40.464|17.247|IT|Apulia|106
 Tarija|-21.535|-64.730|BO|Tarija Department|104
-Taranaki Region|-39.167|174.667|NZ||103|r
+Taranaki Region|-39.167|174.667|NZ||104|r
 Tarragona|41.119|1.245|ES|Catalonia|103
 Táriba|7.821|-72.223|VE|Táchira|103
 Tarime|-1.350|34.367|TZ|Mara|102
@@ -37,6 +37,7 @@ Tarutung|2.015|98.965|ID|North Sumatra|92
 Tarikere|13.710|75.814|IN|Karnataka|92
 Targovishte|43.251|26.572|BG|Targovishte|91
 Tārānagar|28.669|75.032|IN|Rajasthan|90
+Tarbela Dam|34.089|72.699|PK|Khyber Pakhtunkhwa|90|f
 Tarakeswar|22.886|88.014|IN|West Bengal|90
 Tāramangalam|11.694|77.970|IN|Tamil Nadu|90
 Tarsadi|21.470|72.952|IN|Gujarat|89
@@ -46,9 +47,10 @@ Tara|56.896|74.369|RU|Omsk Oblast|89
 Tarāna|23.334|76.043|IN|Madhya Pradesh|88
 Tarpon Springs|28.146|-82.757|US|Florida|88
 Tarch’a Sodo|7.151|37.172|ET|South West Ethiopia Peoples' Region|88
+Tarxien Temples|35.869|14.512|MT|Ta’ Xbiex|87|f
+Tartar District|40.331|46.943|AZ||87|r
 Târgu Neamţ|47.200|26.367|RO|Neamț County|86
 Tartar|40.342|46.932|AZ|Tartar District|86
-Tartar District|40.331|46.943|AZ||86|r
 Târgu Secuiesc|46.000|26.133|RO|Covasna County|86
 Tarumizu|31.483|130.700|JP|Kagoshima|86
 Tarko-Sale|64.916|77.775|RU|Yamalo-Nenets|85
@@ -58,6 +60,7 @@ Tarabya|41.134|29.046|TR|Istanbul|85
 Tartarugalzinho|1.506|-50.912|BR|Amapá|85
 Taradale|51.118|-113.937|CA|Alberta|85
 Tàrrega|41.647|1.140|ES|Catalonia|84
+Taraz Airport|42.854|71.304|KZ|Zhambyl|84|f
 Taree|-31.911|152.454|AU|New South Wales|84
 Tarqui|2.112|-75.824|CO|Huila Department|84
 Tarancón|40.009|-3.007|ES|Castille-La Mancha|84
@@ -81,8 +84,11 @@ Tarnos|43.542|-1.463|FR|New Aquitaine|81
 Tarazona|41.905|-1.727|ES|Aragon|81
 Tarboro|35.897|-77.536|US|North Carolina|81
 Tarragindi|-27.527|153.046|AU|Queensland|81
+Taranaki Maunga|-39.300|174.067|NZ|Taranaki Region|81|f
 Tarare|45.896|4.433|FR|Auvergne-Rhône-Alpes|81
 Tarki|42.944|47.495|RU|Dagestan|80
+Tarama Airport|24.654|124.675|JP|Okinawa|80|f
+Taranto-Grottaglie Airport|40.518|17.403|IT|Apulia|80|f
 Tarusa|54.725|37.172|RU|Kaluga Oblast|80
 Tarinkot|32.630|65.878|AF|Oruzgan|80
 Tårnby|55.630|12.600|DK|Capital Region|80
@@ -98,6 +104,7 @@ Tarxien|35.866|14.515|MT|Ta’ Xbiex|79
 Tarleton|53.680|-2.830|GB|England|79
 Târgşoru Vechi|44.867|25.917|RO|Prahova|79
 Tarabha|20.733|83.674|IN|Odisha|78
+Tarawa Atoll|1.419|172.985|KI|Gilbert Islands|78|f
 Tari|-5.845|142.947|PG|Hela Province|78
 Tarāghin|25.923|14.421|LY|Murzuq District|78
 Tarata|-17.609|-66.021|BO|Cochabamba|78
@@ -115,11 +122,15 @@ Tarabai|-22.302|-51.559|BR|São Paulo|76
 Tarazona de la Mancha|39.250|-1.917|ES|Castille-La Mancha|76
 Tarcento|46.213|13.215|IT|Friuli Venezia Giulia|76
 Taretan|19.334|-101.918|MX|Michoacán|76
+Tarbes-Lourdes-Pyrénées Airport|43.179|-0.006|FR|Occitanie|76|f
+Taree Airport|-31.889|152.514|AU|New South Wales|76|f
+Taro To|33.979|126.923|KR|Jeollanam-do|76|f
 Tarrant|33.583|-86.773|US|Alabama|76
 Târnova|46.317|21.800|RO|Arad County|76
 Tār|25.396|84.343|IN|Bihar|76
 Tarandacuao|20.001|-100.518|MX|Guanajuato|76
 Tarímbaro|19.796|-101.178|MX|Michoacán|76
+Tartagal General Enrique Mosconi Airport|-22.619|-63.793|AR|Salta|75|f
 Tarp|54.667|9.400|DE|Schleswig-Holstein|75
 Tarfaya|27.939|-12.926|MA|Laayoune-Sakia El Hamra|75
 Taradell|41.875|2.287|ES|Catalonia|75
@@ -131,6 +142,7 @@ Tartaro|15.167|121.017|PH|Central Luzon|74
 Tara Hills|37.994|-122.316|US|California|74
 Tărtăşeşti|44.577|25.813|RO|Dâmbovița County|74
 Tarsali|22.256|73.217|IN|Gujarat|74
+Tari Airport|-5.845|142.948|PG|Southern Highlands Province|73|f
 Ţarigrad|48.046|27.765|MD|Drochia|73
 Tarará|23.175|-82.207|CU|Havana|73
 Tarentum|40.601|-79.760|US|Pennsylvania|73
@@ -138,6 +150,8 @@ Tarskoye|42.966|44.775|RU|North Ossetia–Alania|73
 Tarrafal de São Nicolau|16.566|-24.358|CV|Tarrafal de São Nicolau|73
 Tarnowo Podgórne|52.466|16.663|PL|Greater Poland|73
 Tarbagatay|51.481|107.364|RU|Buryatiya Republic|72
+Taransay|57.900|-7.017|GB|Scotland|72|f
+Tarbela Dam Airport|33.986|72.611|PK|Khyber Pakhtunkhwa|72|f
 Târgu Bujor|45.867|27.900|RO|Galați County|72
 Tarm|55.909|8.530|DK|Central Jutland|72
 Tarczyn|51.982|20.834|PL|Mazovia|72
@@ -146,6 +160,8 @@ Tarpey Village|36.793|-119.701|US|California|72
 Targanice|49.806|19.324|PL|Lesser Poland|72
 Tarnów Opolski|50.576|18.084|PL|Opole Voivodeship|72
 Tarragona|7.049|126.447|PH|Davao Region|72
+Tarama Shima|24.650|124.700|JP|Okinawa|71|f
+Tarapoa Airport|-0.123|-76.338|EC|Sucumbíos|71|f
 Tarascon-sur-Ariège|42.847|1.606|FR|Occitanie|71
 Tarmstedt|53.225|9.078|DE|Lower Saxony|71
 Tarcău|46.867|26.133|RO|Neamț County|71
@@ -165,6 +181,7 @@ Târguşor|44.450|28.417|RO|Constanța County|69
 Tarján|47.610|18.511|HU|Komárom-Esztergom|69
 Tarasovka|55.957|37.843|RU|Moscow Oblast|69
 Tarangnan|11.901|124.746|PH|Eastern Visayas|69
+Tarapacá Airport|-2.895|-69.747|CO|Amazonas Department|69|f
 Tarso|5.865|-75.822|CO|Antioquia|69
 Tarcea|47.450|22.183|RO|Bihor County|68
 Tarporley|53.159|-2.669|GB|England|68
@@ -192,6 +209,10 @@ Tarna Mare|48.092|23.194|RO|Satu Mare County|66
 Tarbolton|55.513|-4.486|GB|Scotland|66
 Tarrenz|47.267|10.767|AT|Tyrol|66
 Taraco|-15.298|-69.978|PE|Puno|65
+Țarcu Mountains|45.283|22.467|RO||65|f
+Tardamu Airport|-10.428|121.898|ID|East Nusa Tenggara|65|f
+Tare Dam|33.822|130.529|JP|Fukuoka|65|f
+Taroko National Park|24.135|121.382|TW|Taiwan|65|f
 Târnova|45.343|22.006|RO|Caraș-Severin County|65
 Tarnaörs|47.595|20.053|HU|Heves County|65
 Targon|44.735|-0.264|FR|New Aquitaine|65
@@ -224,6 +245,12 @@ Tariverde|44.563|28.602|RO|Constanța County|61
 Tar|45.301|13.625|HR|Istria|61
 Tarbert|55.863|-5.416|GB|Scotland|61
 Taretán|20.778|-101.336|MX|Guanajuato|61
+Târgu Mureș Transilvania Airport|46.468|24.413|RO|Mureș County|61|f
+Tårnet Pinnacle|-72.058|25.617|AQ||61|f
+Tarnów Ghetto|50.017|20.983|PL|Lesser Poland|61|f
+Taro Co|31.100|84.100|CN|Tibet|61|f
+Tarso Ahon|20.383|18.300|TD|Borkou|61|f
+Tartu Ülenurme Airport|58.307|26.690|EE|Tartu|61|f
 Tarasivka|46.145|33.117|UA|Kherson|61
 Tardienta|41.978|-0.537|ES|Aragon|61
 Taro|-6.711|156.397|SB|Choiseul Province|60
@@ -231,39 +258,154 @@ Taragual|14.750|-88.483|HN|Lempira Department|60
 Ţarvīzak|35.865|49.606|IR|Qazvin Province|60
 Tard|47.883|20.617|HU|Borsod-Abaúj-Zemplén|60
 Tarasivka|50.195|32.486|UA|Poltava|60
+Tarasovo|53.925|27.381|BY|Minsk|60
 Tarnawatka|50.532|23.396|PL|Lublin|60
+Tarves|57.371|-2.222|GB|Scotland|60
 Tarashany|48.111|26.014|UA|Chernivtsi|60
+Tardona|48.167|20.533|HU|Borsod-Abaúj-Zemplén|60
+Târzii|46.569|27.863|RO|Vaslui County|60
+Tartaul|46.207|28.320|MD|Cantemir|60
+Tarum|31.783|34.981|IL|Jerusalem|60
+Tarnawa Dolna|49.477|22.258|PL|Subcarpathia|59
+Tarnogóra|50.369|22.318|PL|Subcarpathia|59
+Tărpiu|47.193|24.405|RO|Bistrița-Năsăud County|59
+Taroom|-25.639|149.800|AU|Queensland|59
+Tarnawa Górna|49.457|22.256|PL|Subcarpathia|59
+Tarnivtsi|48.586|22.218|UA|Zakarpattia|59
+Tarasivka|49.664|38.389|UA|Luhansk|59
 Tarantasca|44.493|7.545|IT|Piedmont|59
+Tarthun|51.932|11.473|DE|Saxony-Anhalt|58
+Tart-le-Haut|47.204|5.205|FR|Bourgogne-Franche-Comté|58
 Taramundi|43.360|-7.108|ES|Asturias|58
+Tar Taik|16.503|96.245|MM|Yangon|58
+Tarachine, Lake|-69.016|39.594|AQ||58|f
+Tarangire National Park|-4.000|36.000|TZ|Manyara|58|f
+Tararua Range|-40.767|175.383|NZ||58|f
+Tarban Creek Bridge|-33.837|151.145|AU|New South Wales|58|f
+Targovishte Bukhovtsi Airport|43.307|26.701|BG|Razgrad|58|f
+Tarnopol Ghetto|49.550|25.583|UA|Ternopil|58|f
+Tarva|63.800|9.417|NO|Trøndelag|58|f
 Tarłów|51.002|21.715|PL|Świętokrzyskie|58
+Taroomball|-23.173|150.744|AU|Queensland|58
+Tarutino|53.798|61.026|RU|Chelyabinsk|58
+Tarandyntsi|50.079|32.843|UA|Poltava|58
+Tărhăuși|46.591|26.088|RO|Bacău County|58
+Târlele Filiu|45.046|27.500|RO|Brăila County|58
+Tarmassia|45.271|11.056|IT|Veneto|57
+Tărtăria|45.934|23.413|RO|Alba County|57
+Tarland|57.128|-2.860|GB|Scotland|57
+Tárbena|38.694|-0.101|ES|Valencia|57
+Tardets|43.117|-0.864|FR|New Aquitaine|57
+Târzia|47.313|26.360|RO|Neamț County|57
+Tartaras|45.549|4.667|FR|Auvergne-Rhône-Alpes|57
+Tarrafal de Monte Trigo|16.959|-25.310|CV|Porto Novo|57
+Tarnowa|52.095|18.372|PL|Greater Poland|56
+Tarres|46.607|10.876|IT|Trentino-Alto Adige|56
+Tarcenay|47.158|6.113|FR|Bourgogne-Franche-Comté|56
+Țărățel|46.123|22.820|RO|Hunedoara County|56
 Tardajos|42.349|-3.817|ES|Castille and León|56
+Țărculești|45.072|26.252|RO|Prahova|56
+Tarasenkove|49.907|32.682|UA|Poltava|56
+Târgușor|47.383|22.167|RO|Bihor County|56
+Țarna Mare|47.473|26.328|RO|Suceava|56
+Ţarrāmah|31.481|35.033|PS|West Bank|56
 Tardelcuende|41.594|-2.644|ES|Castille and León|56
+Tarnița|46.521|27.253|RO|Bacău County|55
+Târlești|45.250|26.217|RO|Prahova|55
+Tarimoro|20.239|-102.335|MX|Michoacán|55
+Tarnów|50.578|16.790|PL|Lower Silesia|55
+Tardiano|40.254|15.748|IT|Campania|55
+Tariego|41.905|-4.481|ES|Castille and León|55
+Tarbert|52.573|-9.375|IE|Munster|55
+Tarmon|52.538|-9.379|IE|Munster|54
+Tara|43.926|19.405|RS||54|f
+Tarakäkä Peak|-77.500|169.150|AQ||54|f
+Taré|10.659|18.433|TD|Guéra|54|f
+Tarempa Airport|3.348|106.258|ID|Riau|54|f
+Tarġa Battery|35.916|14.414|MT|Il-Mosta|54|f
+Tarija Airport|-21.556|-64.701|BO|Tarija Department|54|f
+Tarkiln Bayou|30.367|-87.416|US|Florida|54|f
+Tärnö|56.121|14.977|SE|Blekinge|54|f
+Taronga Park|-33.844|151.241|AU|New South Wales|54|f
+Taroom Airport|-25.802|149.898|AU|Queensland|54|f
+Tarrabool Lake|-18.260|135.098|AU|Northern Territory|54|f
+Tarragal Lagoon|-33.439|151.435|AU|New South Wales|54|f
+Tarso Yéga|20.650|17.450|TD|Tibesti|54|f
+Tart Abbey|47.184|5.243|FR|Bourgogne-Franche-Comté|54|f
+Tartar Island|-61.931|-58.438|AQ||54|f
+Tartars Ferry Bridge|40.446|-90.350|US|Illinois|54|f
+Tarucuyo|-14.890|-71.548|PE|Cuzco Department|54
 Taray|-13.428|-71.868|PE|Cuzco Department|54
 Tarucachi|-17.526|-70.032|PE|Tacna|52
 Taranta Peligna|42.021|14.171|IT|Abruzzo|52
 Tarazona de Guareña|41.172|-5.250|ES|Castille and León|52
 Tarucani|-16.183|-71.062|PE|Arequipa|49
+Tarago Reservoir|-38.013|145.930|AU|Victoria|49|f
+Tarajornitsut|67.033|-51.083|GL|Qeqqata|49|f
+Tarakanov Ridge|-82.317|159.400|AQ||49|f
+Tarauru Roa|-23.108|-134.857|PF|Tuamotu-Gambier Islands|49|f
+Tarlo River National Park|-34.498|149.918|AU|New South Wales|49|f
+Tarner Island|57.361|-6.493|GB|Scotland|49|f
+Taro Island|-6.711|156.397|SB|Choiseul Province|49|f
+Tarong National Park|-26.836|151.843|AU|Queensland|49|f
+Tarpum Bay|24.983|-76.167|BS|South Eleuthera|49|f
+Tarra-Bulga National Park|-38.450|146.531|AU|Victoria|49|f
+Tarrafal Bay|15.285|-23.764|CV|Tarrafal|49|f
+Tarren y Gesail|52.635|-3.907|GB|Wales|49|f
+Tarset Castle|55.163|-2.334|GB|England|49|f
+Tarso Voon|20.950|17.167|TD|Tibesti|49|f
 Tardáguila|41.115|-5.574|ES|Castille and León|47
 Tarano|42.356|12.595|IT|Lazio|45
+Tarbek|54.056|10.267|DE|Schleswig-Holstein|45
 Tartanedo|40.993|-1.925|ES|Castille-La Mancha|45
+Tar Island|44.383|-75.916|CA|Ontario|40|f
+Tarahiki Island (Shag Island)|-36.790|175.227|NZ|Auckland|40|f
+Tarakchiev Point|-63.812|-59.870|AQ||40|f
+Taraponui|-39.133|176.750|NZ|Hawke's Bay Region|40|f
+Tararua Forest Park|-40.767|175.383|NZ||40|f
+Taras Shevchenko National University of Kyiv|50.442|30.508|UA|Kyiv City|40|f
+Tarawera Falls|-38.158|176.510|NZ|Auckland|40|f
+Tarbet Isle|56.212|-4.696|GB|Scotland|40|f
+Tareq Rajab Museum|29.374|47.967|KW|Al Asimah|40|f
+Tarfu Lake|60.059|-133.726|CA|Yukon|40|f
+Target Lake|43.796|-91.280|US|Minnesota|40|f
+Target Rock National Wildlife Refuge|40.927|-73.434|US|New York|40|f
+Targovishte Glacier|-62.549|-59.643|AQ||40|f
+Tarjanne|62.127|24.049|FI|Southwest Finland|40|f
+Tarnica|49.075|22.727|PL|Subcarpathia|40|f
+Tarpaulin Cove|41.475|-70.755|US|Massachusetts|40|f
+Tarrant Abbey|50.831|-2.111|GB|England|40|f
+Tarrytown Reservoir|41.083|-73.839|US|New York|40|f
 Taroda|41.348|-2.433|ES|Castille and León|38
 Taravilla|40.697|-1.968|ES|Castille-La Mancha|36
 Taragudo|40.821|-3.077|ES|Castille-La Mancha|32
 Tartano|46.106|9.679|IT|Lombardy|29
+Taraan|-6.905|112.003|ID|East Java|0
+Taraban Timur|-7.115|113.577|ID|East Java|0
 Taraju|-7.458|107.981|ID|West Java|0
 Taraksu|38.154|39.148|TR|Adıyaman Province|0
 Taraksu|38.017|39.083|TR|Adıyaman Province|0
+Taramana|-8.168|124.851|ID|East Nusa Tenggara|0
+Taranggatar|-8.738|122.271|ID|East Nusa Tenggara|0
 Tarapoa|-0.124|-76.346|EC|Sucumbíos|0
 Tarapoto|-6.501|-76.366|PE|San Martín Department|0
 Tarazá|7.584|-75.401|CO|Antioquia|0
+Tarebung|-7.094|114.272|ID|East Java|0
 Tarempa|3.216|106.217|ID|Riau Islands|0
+Targen|52.241|124.708|CN|Heilongjiang|0
 Târgu Lăpuş|47.453|23.865|RO|Maramureş|0
 Tarica|-9.394|-77.575|PE|Ancash|0
 Tarifa|-1.979|-79.755|EC|Guayas|0
+Tarikolot|-6.363|106.017|ID|Banten|0
+Tarikolot|-7.022|108.508|ID|West Java|0
 Tarim|16.057|48.999|YE|Muhafazat Hadramaout|0
+Tarimbang|-9.970|119.954|ID|East Nusa Tenggara|0
+Taringgul|-7.151|108.253|ID|West Java|0
 Târlişua|47.383|24.183|RO|Bistrița-Năsăud County|0
+Tarma|30.682|89.110|CN|Tibet|0
 Taroa|8.706|171.227|MH|Maloelap Atoll|0
 Tarogong|-7.190|107.887|ID|West Java|0
+Tarogong|-6.393|105.839|ID|Banten|0
 Târşolţ|47.950|23.350|RO|Satu Mare County|0
 Tarsouat|29.582|-9.027|MA|Souss-Massa|0
 Tarus|-10.133|123.688|ID|East Nusa Tenggara|0

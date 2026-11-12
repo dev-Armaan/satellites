@@ -3,7 +3,7 @@ Gilan Province|37.167|49.500|IR||124|r
 Gia Lai|13.889|108.441|VN||121|r
 Gilgit-Baltistan|36.000|75.000|PK||115|r
 Gifu|35.423|136.760|JP|Gifu|112
-Giurgiu County|44.167|25.917|RO||111|r
+Giurgiu County|44.167|25.917|RO||112|r
 Gia Lâm|21.020|105.939|VN|Hanoi|110
 Gijón|43.536|-5.662|ES|Asturias|109
 Gilbert|33.353|-111.789|US|Arizona|108
@@ -22,10 +22,10 @@ Girardot City|4.301|-74.808|CO|Cundinamarca|101
 Gillingham|51.389|0.549|GB|England|100
 Girona|41.983|2.825|ES|Catalonia|100
 Ginowan|26.263|127.761|JP|Okinawa|100
+Gilbert Islands|1.420|172.984|KI||99|r
 Gießen|50.587|8.676|DE|Hesse|99
 Gitarama|-2.074|29.757|RW|Southern Province|99
 Gia Nghĩa|12.004|107.691|VN|Lam Dong|99
-Gilbert Islands|1.420|172.984|KI||98|r
 Giugliano in Campania|40.928|14.202|IT|Campania|98
 Giảng Võ|21.031|105.813|VN|Hanoi|98
 Gion|34.433|132.467|JP|Hiroshima|97
@@ -35,6 +35,7 @@ Githunguri|-1.058|36.776|KE|Kiambu County|96
 Githunguri|-1.300|36.990|KE|Machakos County|96
 Gilgil|-0.504|36.318|KE|Nakuru County|96
 Givatayim|32.072|34.813|IL|Tel Aviv|96
+Gibraltar International Airport|36.151|-5.350|GI||96|f
 Giurgiu|43.887|25.963|RO|Giurgiu County|95
 Gilroy|37.006|-121.568|US|California|95
 Giddarbāha|30.200|74.666|IN|Punjab|93
@@ -58,6 +59,7 @@ Giannitsá|40.792|22.407|GR|Central Macedonia|89
 Gibara|21.110|-76.130|CU|Holguín Province|89
 Gingee|12.253|79.417|IN|Tamil Nadu|89
 Gibraltar|36.145|-5.353|GI||88
+Girona–Costa Brava Airport|41.901|2.761|ES|Catalonia|88|f
 Giussano|45.700|9.209|IT|Lombardy|88
 Ginan|35.388|136.785|JP|Gifu|88
 Gitesi|-2.114|29.402|RW|Western Province|88
@@ -74,8 +76,11 @@ Giulianova|42.754|13.966|IT|Abruzzo|86
 Giengen an der Brenz|48.622|10.243|DE|Baden-Wurttemberg|86
 Gilly|50.424|4.479|BE|Wallonia|86
 Giovinazzo|41.185|16.671|IT|Apulia|86
+Giglio Island|42.352|10.902|IT|Tuscany|86|f
+Gimpo International Airport|37.566|126.801|KR|Seoul|86|f
 Gioia Tauro|38.425|15.898|IT|Calabria|85
 Givors|45.591|4.769|FR|Auvergne-Rhône-Alpes|85
+Ginkaku-ji|35.027|135.798|JP|Kyoto|85|f
 Gilching|48.108|11.294|DE|Bavaria|85
 Ginosa|40.577|16.757|IT|Apulia|84
 Ginsheim-Gustavsburg|49.971|8.345|DE|Hesse|84
@@ -92,14 +97,17 @@ Giánnouli|39.667|22.396|GR|Thessaly|82
 Gibraleón|37.376|-6.969|ES|Andalusia|82
 Giffnock|55.804|-4.295|GB|Scotland|82
 Givat Zeev|31.861|35.169|PS|West Bank|81
+Gillette Stadium|42.091|-71.264|US|Massachusetts|81|f
 Giaveno|45.044|7.347|IT|Piedmont|81
 Girard Estate|39.923|-75.185|US|Pennsylvania|81
 Gilbués|-9.832|-45.344|BR|Piauí|81
 Gistel|51.156|2.964|BE|Flanders|81
+Gisborne Airport|-38.663|177.978|NZ|Gisborne|81|f
 Giffoni Valle Piana|40.718|14.942|IT|Campania|81
 Gislaved|57.304|13.541|SE|Jönköping|80
 Gigant|46.507|41.342|RU|Rostov|80
 Giesen|52.197|9.899|DE|Lower Saxony|80
+Gillette-Campbell County Airport|44.349|-105.540|US|Wyoming|80|f
 Girard|41.154|-80.701|US|Ohio|80
 Gifford|27.675|-80.409|US|Florida|80
 Gignac-la-Nerthe|43.393|5.236|FR|Provence-Alpes-Côte d'Azur|79
@@ -112,6 +120,7 @@ Gilford|43.548|-71.407|US|New Hampshire|78
 Giubiasco|46.172|9.008|CH|Ticino|78
 Gilău|46.732|23.362|RO|Cluj County|78
 Gilberts|42.103|-88.373|US|Illinois|78
+Gimli Industrial Park Airport|50.628|-97.043|CA|Manitoba|78|f
 Gizilhajili|40.577|46.858|AZ|Goranboy District|78
 Givet|50.138|4.825|FR|Grand Est|77
 Gīdam|18.974|81.399|IN|Chhattisgarh|77
@@ -120,6 +129,7 @@ Girov|46.950|26.517|RO|Neamț County|77
 Gizel’|43.040|44.571|RU|North Ossetia–Alania|77
 Gizo|-8.103|156.842|SB|Western Province|77
 Gīvī|37.686|48.342|IR|Ardabil Province|77
+Gillespie Field|32.826|-116.973|US|California|77|f
 Gio Linh|16.925|107.084|VN|Quang Tri|77
 Gibong|11.863|122.039|PH|Western Visayas|77
 Gibsons|49.395|-123.506|CA|British Columbia|77
@@ -150,6 +160,7 @@ Gironella|42.034|1.880|ES|Catalonia|74
 Gilbertsville|40.320|-75.610|US|Pennsylvania|74
 Giberville|49.182|-0.284|FR|Normandy|74
 Giessenburg|51.851|4.890|NL|South Holland|74
+Gillam Airport|56.357|-94.711|CA|Manitoba|73|f
 Gibsonia|28.115|-81.974|US|Florida|73
 Gibraltar|42.095|-83.190|US|Michigan|73
 Gierle|51.269|4.867|BE|Flanders|73
@@ -171,6 +182,7 @@ Gierałtowice|50.225|18.734|PL|Silesia|71
 Givry|46.782|4.743|FR|Bourgogne-Franche-Comté|71
 Gibbstown|39.825|-75.284|US|New Jersey|71
 Gistrup|56.994|9.991|DK|North Denmark|71
+Giftun Islands|27.216|33.945|EG|Red Sea|71|f
 Gighera|43.850|23.800|RO|Dolj|71
 Gimry|42.760|46.840|RU|Dagestan|71
 Giswil|46.833|8.181|CH|Obwalden|71
@@ -213,6 +225,10 @@ Girard|37.511|-94.838|US|Kansas|69
 Giesbeek|51.993|6.067|NL|Gelderland|69
 Gilly-sur-Isère|45.659|6.351|FR|Auvergne-Rhône-Alpes|69
 Gibsonia|40.630|-79.969|US|Pennsylvania|69
+Giebbnejávrre|66.747|15.402|NO|Nordland|69|f
+Gilbert Islands|0.383|173.636|KI|Gilbert Islands|69|f
+Gippsland Lakes|-38.000|147.650|AU|Victoria|69|f
+Giresun Adası|40.929|38.436|TR|Giresun|69|f
 Ginatilan|9.569|123.313|PH|Central Visayas|69
 Gimo|60.173|18.185|SE|Uppsala|69
 Giuvărăşti|43.800|24.700|RO|Olt|69
@@ -231,6 +247,10 @@ Giammoro|38.204|15.307|IT|Sicily|68
 Gibato|11.225|122.814|PH|Western Visayas|67
 Gießhübl|48.098|16.235|AT|Lower Austria|67
 Gilwern|51.825|-3.094|GB|Wales|67
+Gighay|57.020|-7.329|GB|Scotland|67|f
+Gila Mountains|32.575|-114.310|US|Arizona|67|f
+Ginbata Airport|-23.558|120.048|AU|Western Australia|67|f
+Gizo Nusatupe Airport|-8.098|156.864|SB|Western Province|67|f
 Giacciano con Baruchella|45.067|11.450|IT|Veneto|67
 Girdwood|60.943|-149.166|US|Alaska|67
 Gimli|50.634|-96.991|CA|Manitoba|67
@@ -249,6 +269,11 @@ Giv‘at Ela|32.723|35.245|IL|Northern District|66
 Giffone|38.440|16.149|IT|Calabria|65
 Gissi|42.018|14.545|IT|Abruzzo|65
 Gibbon|40.748|-98.845|US|Nebraska|65
+Gigg Lane|53.580|-2.295|GB|England|65|f
+Gillespie County Airport|30.243|-98.909|US|Texas|65|f
+Gillot Airport|-20.887|55.510|RE|Reunion|65|f
+Gilmour Island|59.801|-80.033|CA|Nunavut|65|f
+Gimsøya|68.292|14.186|NO|Nordland|65|f
 Giurdignano|40.124|18.432|IT|Apulia|65
 Gili Air|-8.358|116.082|ID|West Nusa Tenggara|65
 Gilbert|47.489|-92.465|US|Minnesota|65
@@ -277,6 +302,14 @@ Gillenfeld|50.128|6.904|DE|Rheinland-Pfalz|63
 Ginestra Fiorentina|43.709|11.074|IT|Tuscany|63
 Girardville|40.791|-76.284|US|Pennsylvania|63
 Girișu de Criș|47.064|21.761|RO|Bihor County|63
+Giebel|47.413|10.399|DE|Bavaria|63|f
+Giesecke Bræer|73.583|-55.250|GL|Avannaata|63|f
+Gila Bend Mountains|33.223|-113.038|US|Arizona|63|f
+Gilbert Peak|46.488|-121.407|US|Washington|63|f
+Giljeva Planina|43.150|19.961|RS||63|f
+Gillespie Dam|33.229|-112.769|US|Arizona|63|f
+Gillis Range|38.689|-118.560|US|Nevada|63|f
+Ginevrabotnen|78.599|20.487|SJ||63|f
 Giraldo|6.680|-75.953|CO|Antioquia|63
 Gildardo Magaña (Los Ángeles)|19.549|-102.459|MX|Michoacán|63
 Gimel|46.509|6.307|CH|Vaud|63
@@ -316,6 +349,13 @@ Gilten|52.707|9.576|DE|Lower Saxony|61
 Giekau|54.319|10.506|DE|Schleswig-Holstein|61
 Ginestas|43.268|2.872|FR|Occitanie|61
 Gironde-sur-Dropt|44.583|-0.083|FR|New Aquitaine|61
+Gidleigh Castle|50.680|-3.883|GB|England|61|f
+Gihccejiekŋa|68.009|16.804|NO|Nordland|61|f
+Gile Mountain|43.789|-72.352|US|Vermont|61|f
+Gilson Mountains|39.612|-112.222|US|Utah|61|f
+Gilze-Rijen Air Base|51.567|4.932|NL|North Brabant|61|f
+Gipsvika|78.427|16.539|SJ||61|f
+Giraavaru|4.200|73.413|MV|Kaafu Atoll|61|f
 Gilbert|42.107|-93.650|US|Iowa|61
 Gielniów|51.401|20.481|PL|Mazovia|61
 Gifford|40.306|-88.021|US|Illinois|61
@@ -332,33 +372,336 @@ Giavenale|45.700|11.400|IT|Veneto|60
 Giardina Gallotti|37.351|13.523|IT|Sicily|60
 Gillam|56.347|-94.708|CA|Manitoba|60
 Giv‘at H̱ayyim Me’uẖad|32.392|34.930|IL|Central District|60
+Givonne|49.721|4.988|FR|Grand Est|60
+Gilmorton|52.487|-1.160|GB|England|60
+Gīldīr|38.257|46.914|IR|East Azerbaijan|60
+Giumarra|37.477|14.649|IT|Sicily|60
+Girmont|48.259|6.439|FR|Grand Est|60
+Giornico|46.401|8.874|CH|Ticino|60
 Ginestar|41.042|0.633|ES|Catalonia|60
+Gingins|46.409|6.178|CH|Vaud|60
+Gironcourt-sur-Vraine|48.311|5.933|FR|Grand Est|60
+Gibsland|32.544|-93.053|US|Louisiana|60
+Gilly|46.458|6.297|CH|Vaud|59
+Gijzenzele|50.971|3.817|BE|Flanders|59
+Giais|46.118|12.610|IT|Friuli Venezia Giulia|59
+Giampilieri|38.068|15.470|IT|Sicily|59
+Gilbert|-32.536|-58.934|AR|Entre Rios|59
 Giuliano Teatino|42.312|14.281|IT|Abruzzo|59
+Giv‘at Koaẖ|32.030|34.936|IL|Central District|59
 Giuliano di Roma|41.539|13.280|IT|Lazio|59
+Gizilgaya|40.640|46.342|AZ|Goygol Rayon|59
 Giustenice|44.173|8.243|IT|Liguria|59
+Giurtelecu Hododului|47.417|23.093|RO|Satu Mare County|59
+Giat|45.802|2.468|FR|Auvergne-Rhône-Alpes|59
+Gialós|35.239|23.635|GR|Crete|59
+Gimåt|63.317|18.717|SE|Västernorrland|59
+Giv‘at HaShlosha|32.098|34.921|IL|Central District|59
+Gimmersdorf|50.636|7.145|DE|North Rhine-Westphalia|59
+Gielde|52.036|10.494|DE|Lower Saxony|59
+Giorocuta|47.432|22.798|RO|Satu Mare County|59
+Gilsum|43.048|-72.263|US|New Hampshire|58
+Ginnosar|32.847|35.523|IL|Northern District|58
+Giv‘at Yesha‘yahu|31.671|34.945|IL|Jerusalem|58
+Gierstädt|51.042|10.826|DE|Thuringia|58
 Gioia Sannitica|41.300|14.444|IT|Campania|58
+Gingin|-31.347|115.904|AU|Western Australia|58
+Giaever Ridge|-72.000|-5.000|AQ||58|f
+Giandari Koh|29.094|69.719|PK|Balochistan|58|f
+Giardino Scotto|43.712|10.407|IT|Tuscany|58|f
+Gibbet Island|32.323|-64.744|BM|Smithʼs|58|f
+Gibbs Island|-61.471|-55.639|AQ||58|f
+Gibraltar Hill|-35.565|149.168|AU|New South Wales|58|f
+Giddings, Giddings-Lee County Airport|30.169|-96.980|US|Texas|58|f
+Giengelvihke|65.118|13.651|NO|Nordland|58|f
+Giens Peninsula|43.059|6.143|FR|Provence-Alpes-Côte d'Azur|58|f
+Gigalitz|47.067|11.883|AT|Tyrol|58|f
+Gila Cliff Dwellings National Monument|33.227|-108.271|US|New Mexico|58|f
+Gila River Memorial Airport|33.245|-111.910|US|Arizona|58|f
+Gilbraltar Island|41.658|-82.821|US|Ohio|58|f
+Gili Motang|-8.809|119.787|ID|East Nusa Tenggara|58|f
+Gilia Islet|-11.135|152.718|PG|Milne Bay Province|58|f
+Gilletts Lake|42.264|-84.312|US|Michigan|58|f
+Gilmour Ag Air|44.755|-123.046|US|Oregon|58|f
+Gilpin Peak|37.987|-107.793|US|Colorado|58|f
+Gilsangsa|37.599|126.994|KR|Seoul|58|f
+Giman|31.829|64.636|AF|Helmand|58|f
+Gimlebreen|79.777|18.866|SJ|Svalbard|58|f
+Girdwood Airport|60.968|-149.119|US|Alaska|58|f
+Gitdaebong|34.680|126.705|KR|Jeollanam-do|58|f
+Giza Sphinx International Airport|30.109|30.895|EG|Giza|58|f
+Gizhiga|61.837|160.554|RU|Magadan Oblast|58|f
+Gidrouzel|55.531|35.944|RU|Moscow Oblast|58
+Ginestet|44.911|0.430|FR|New Aquitaine|58
+Gifford|55.903|-2.746|GB|Scotland|58
+Gilberto Flores Muñoz|17.682|-93.521|MX|Tabasco|58
+Girancourt|48.163|6.311|FR|Grand Est|58
+Giólou|34.924|32.475|CY|Pafos|58
+Giurgeni|46.816|27.109|RO|Neamț County|58
+Gironville-sur-Essonne|48.367|2.383|FR|Île-de-France|58
+Gibbon|44.534|-94.526|US|Minnesota|58
+Gīmān|27.849|60.169|IR|Sistan and Baluchestan|58
+Gilberton|40.800|-76.212|US|Pennsylvania|58
+Ginnegar|32.664|35.258|IL|Northern District|58
+Gimeux|45.636|-0.370|FR|New Aquitaine|57
+Gilbertville|42.416|-92.215|US|Iowa|57
+Giurgești|47.504|26.423|RO|Suceava|57
+Giardoni|41.119|14.429|IT|Campania|57
 Giustino|46.151|10.768|IT|Trentino-Alto Adige|57
+Giv‘at Nili|32.548|35.041|IL|Haifa|57
+Ginevet|39.933|44.624|AM|Ararat|57
+Gieleroth|50.667|7.683|DE|Rheinland-Pfalz|57
+Giou-de-Mamou|44.932|2.514|FR|Auvergne-Rhône-Alpes|57
 Ginestra|40.931|15.735|IT|Basilicate|57
 Giarole|45.061|8.567|IT|Piedmont|57
 Gioi|40.290|15.218|IT|Campania|57
+Gilgai|-29.853|151.118|AU|New South Wales|57
+Gillett|34.117|-91.377|US|Arkansas|57
+Gibraltar|40.284|-75.872|US|Pennsylvania|57
+Gilsbach|50.771|8.085|DE|North Rhine-Westphalia|57
+Gizy|49.601|3.774|FR|Hauts-de-France|57
+Gislingham|52.304|1.042|GB|England|57
+Gieterveen|53.028|6.838|NL|Drenthe|56
+Gimel-les-Cascades|45.300|1.851|FR|New Aquitaine|56
 Gibson|33.233|-82.595|US|Georgia|56
+Gillis|30.374|-93.201|US|Louisiana|56
 Giano Vetusto|41.203|14.193|IT|Campania|56
 Girasole|39.952|9.661|IT|Sardinia|56
+Gimoly|63.040|32.316|RU|Karelia|56
+Gibles|46.324|4.378|FR|Bourgogne-Franche-Comté|56
 Gierzwałd|53.541|20.089|PL|Warmia-Masuria|56
+Gildardo Muñoz|20.395|-97.393|MX|Veracruz|56
+Girkenroth|50.521|7.972|DE|Rheinland-Pfalz|56
+Giby|54.043|23.356|PL|Podlasie|56
+Gīlākajān|37.091|50.355|IR|Gilan Province|56
+Girolles|48.061|2.715|FR|Centre-Val de Loire|56
+Gīleh Sarā|37.387|49.126|IR|Gilan Province|56
+Gila Crossing|33.277|-112.167|US|Arizona|56
+Giraumont|49.472|2.820|FR|Hauts-de-France|56
+Giglio Porto|42.360|10.919|IT|Tuscany|56
+Giéville|49.015|-0.978|FR|Normandy|56
+Gilbert|33.924|-81.394|US|South Carolina|56
+Giardino-Botto|45.654|8.161|IT|Piedmont|56
+Gignac|45.005|1.458|FR|Occitanie|56
+Giurcani|46.283|27.982|RO|Vaslui County|56
+Gilocourt|49.292|2.879|FR|Hauts-de-France|55
+Gilly-lès-Cîteaux|47.166|4.981|FR|Bourgogne-Franche-Comté|55
 Gizałki|52.043|17.769|PL|Greater Poland|55
+Gigondas|44.164|5.005|FR|Provence-Alpes-Côte d'Azur|55
+Gisela|34.102|-111.280|US|Arizona|55
+Gilbert|32.049|-91.658|US|Louisiana|55
+Giannádes|39.631|19.763|GR|Ionian Islands|55
+Giverny|49.077|1.530|FR|Normandy|55
 Giaglione|45.139|7.015|IT|Piedmont|55
 Giglio Castello|42.365|10.901|IT|Tuscany|55
+Gilles|48.912|1.515|FR|Centre-Val de Loire|55
+Giulești|47.349|26.380|RO|Suceava|55
+Giskemo|62.483|6.867|NO|Møre og Romsdal|55
+Giáltra|38.863|22.976|GR|Central Greece|55
+Gilly-sur-Loire|46.538|3.780|FR|Bourgogne-Franche-Comté|55
+Giai|45.814|12.820|IT|Veneto|55
+Gierczyce|49.950|20.344|PL|Lesser Poland|55
+Giuliano|39.849|18.337|IT|Apulia|55
+Giurgești|47.250|26.909|RO|Iași County|55
+Gīkh|29.267|52.017|IR|Fars|55
 Giave|40.452|8.752|IT|Sardinia|54
+Gildardo Magaña|20.235|-101.649|MX|Michoacán|54
+Gisburn|53.935|-2.263|GB|England|54
+Gīlāpey|36.565|52.284|IR|Māzandarān|54
+Gia Binh International Airport|21.074|106.211|VN|Bac Ninh|54|f
+Giaever Glacier|-72.617|31.150|AQ||54|f
+Giant Mountain|44.161|-73.720|US|New York|54|f
+Giant’s Castle|-29.346|29.482|ZA|KwaZulu-Natal|54|f
+Giants Stadium|40.813|-74.077|US|New Jersey|54|f
+Giard Point|-64.428|-63.806|AQ||54|f
+Giardini pubblici Indro Montanelli|45.474|9.200|IT|Lombardy|54|f
+Gibbet Hill|42.610|-71.559|US|Massachusetts|54|f
+Gibbney Island|-67.558|62.319|AQ||54|f
+Gibbous Rocks|-61.066|-54.983|AQ||54|f
+Gibbs Lake|42.782|-89.181|US|Wisconsin|54|f
+Gibraltar|-30.915|150.268|AU|New South Wales|54|f
+Gibraltar Dam|34.527|-119.687|US|California|54|f
+Gibraltar Peak|-35.459|148.948|AU|Australian Capital Territory|54|f
+Gibson Dam|47.603|-112.761|US|Montana|54|f
+Gibson Islands|52.945|173.270|US|Alaska|54|f
+Giechburg|49.955|11.051|DE|Bavaria|54|f
+Gieselaukanal|54.174|9.443|DE|Schleswig-Holstein|54|f
+Gigalum Island|55.650|-5.742|GB|Scotland|54|f
+Giganteus Island|-67.577|62.487|AQ||54|f
+Gight Castle|57.433|-2.283|GB|Scotland|54|f
+Gila Mountains|33.115|-109.855|US|Arizona|54|f
+Gilbert Lake|42.581|-75.128|US|New York|54|f
+Gilfert|47.267|11.733|AT|Tyrol|54|f
+Gilfillin Lake|44.199|-93.848|US|Minnesota|54|f
+Gillham Lake|34.227|-94.230|US|Arkansas|54|f
+Gilling Castle|54.183|-1.065|GB|England|54|f
+Gillock Glacier|-72.000|24.133|AQ||54|f
+Gilpins Covered Bridge|39.649|-75.956|US|Maryland|54|f
+Gilson Butte|38.582|-110.618|US|Utah|54|f
+Gilson Peak|39.769|-115.811|US|Nevada|54|f
+Gilten|64.203|11.529|NO|Trøndelag|54|f
+Gioveretto|46.502|10.782|IT|Trentino-Alto Adige|54|f
+Giraud Peak|37.077|-118.564|US|California|54|f
+Girdler Island|-66.012|-65.652|AQ||54|f
+Gírová|49.532|18.800|SK||54|f
+Gibson|34.759|-79.611|US|North Carolina|54
+Gisy-les-Nobles|48.282|3.243|FR|Bourgogne-Franche-Comté|54
+Ginnasluokta|68.405|17.308|NO|Nordland|54
+Gimingham|52.876|1.392|GB|England|54
+Giroba Kunda|13.300|-14.200|GM|Upper River|54
+Gibbsville|43.652|-87.827|US|Wisconsin|54
+Gimouille|46.942|3.086|FR|Bourgogne-Franche-Comté|54
+Gimnée|50.131|4.712|BE|Wallonia|54
+Givry-en-Argonne|48.950|4.888|FR|Grand Est|54
+Girate|41.635|13.538|IT|Lazio|54
+Gigny-sur-Saône|46.662|4.945|FR|Bourgogne-Franche-Comté|54
+Gilman|41.879|-92.789|US|Iowa|54
 Gionghi-Cappella|45.937|11.275|IT|Trentino-Alto Adige|54
 Ginestra degli Schiavoni|41.280|15.044|IT|Campania|53
 Gignese|45.864|8.509|IT|Piedmont|53
+Gimbweiler|49.583|7.200|DE|Rheinland-Pfalz|53
 Gignod|45.780|7.296|IT|Aosta Valley|52
+Gilzem|49.867|6.517|DE|Rheinland-Pfalz|52
 Gildone|41.509|14.740|IT|Molise|52
 Giungano|40.395|15.108|IT|Campania|52
+Ginsweiler|49.650|7.650|DE|Rheinland-Pfalz|51
+Giesenhausen|50.700|7.717|DE|Rheinland-Pfalz|50
+Gindorf|50.017|6.650|DE|Rheinland-Pfalz|50
+Gierschnach|50.267|7.350|DE|Rheinland-Pfalz|50
+Giannini Peak|-71.006|-62.769|AQ||49|f
+Giardini Margherita|44.482|11.353|IT|Emilia-Romagna|49|f
+Giardino Inglese|38.133|13.352|IT|Sicily|49|f
+Gibbs Glacier|-68.466|-66.016|AQ||49|f
+Gibney Reef|-66.250|110.500|AQ||49|f
+Gibraltar Range|-29.577|152.252|AU|New South Wales|49|f
+Gibson Island|-16.311|123.302|AU|Western Australia|49|f
+Gickelsburg|50.269|8.587|DE|Hesse|49|f
+Gifford Hill|42.519|-75.039|US|New York|49|f
+Gifu Ab|35.394|136.870|JP|Gifu|49|f
+Giggenbach Ridge|-77.467|168.333|AQ||49|f
+Gil Sar|34.123|74.803|IN|Jammu and Kashmir|49|f
+Gilbert, Mount|-69.265|-66.264|AQ||49|f
+Gilchrist Aiguilles|-53.017|73.333|HM||49|f
+Gilcrest Peak|38.011|-119.230|US|California|49|f
+Gildersleeve Mine|47.036|-115.037|US|Montana|49|f
+Gildersleeve Mountain|41.594|-81.360|US|Ohio|49|f
+Giles Conservation Park|-34.934|138.723|AU|South Australia|49|f
+Gill Pinnacle|-24.884|128.782|AU|Western Australia|49|f
+Gilliamsen Peak|-71.853|-70.305|AQ||49|f
+Gillies Islands|-66.517|96.400|AQ||49|f
+Gillmor, Mount|-70.467|159.767|AQ||49|f
+Gillock Island|-70.454|71.810|AQ||49|f
+Gills Bay|58.650|-3.150|GB|Scotland|49|f
+Gilmerton Bridge|36.775|-76.295|US|Virginia|49|f
+Ginger Island|18.388|-64.477|VG||49|f
+Ginger Islands|-67.750|-68.687|AQ||49|f
+Giovanni Peak|-70.028|-71.354|AQ||49|f
+Girard Avenue Bridge|39.975|-75.193|US|Pennsylvania|49|f
+Girard Point Bridge|39.892|-75.198|US|Pennsylvania|49|f
+Giske|62.502|6.040|NO|Møre og Romsdal|49|f
+Gisundbrua|69.243|17.965|NO|Troms|49|f
+Giza Peak|-71.336|-68.284|AQ||49|f
+Gipperath|50.039|6.863|DE|Rheinland-Pfalz|48
+Gillenbeuren|50.155|7.019|DE|Rheinland-Pfalz|48
+Gielert|49.775|7.003|DE|Rheinland-Pfalz|44
 Gistaín|42.591|0.335|ES|Aragon|44
 Gimileo|42.550|-2.822|ES|La Rioja|43
+Giesdorf|50.183|6.450|DE|Rheinland-Pfalz|43
 Gimialcón|40.877|-5.123|ES|Castille and León|41
+Gianella Bridge|39.751|-121.997|US|California|40|f
+Giant City State Park|37.605|-89.188|US|Illinois|40|f
+Giantess Geyser|44.464|-110.829|US|Wyoming|40|f
+Giants Ring|54.540|-5.950|GB|Northern Ireland|40|f
+Giants Tomb Island|44.917|-80.000|CA|Ontario|40|f
+Giardini di Augusto|40.547|14.243|IT|Campania|40|f
+Giardini La Mortella|40.752|13.873|IT|Campania|40|f
+Giardini Lowe|43.782|7.662|IT|Liguria|40|f
+Giardino Bardini|43.764|11.257|IT|Tuscany|40|f
+Giardino Bellini|37.511|15.083|IT|Sicily|40|f
+Giardino botanico alpino di Campo Imperatore|42.444|13.558|IT|Abruzzo|40|f
+Giardino Botanico Daniela Brescia|42.120|14.027|IT|Abruzzo|40|f
+Giardino Botanico Gole del Sagittario|41.992|13.804|IT|Abruzzo|40|f
+Giardino Botanico Mediterraneo|42.078|14.753|IT|Abruzzo|40|f
+Giardino degli Aranci|41.885|12.480|IT|Lazio|40|f
+Giardino dei Tarocchi|42.426|11.465|IT|Tuscany|40|f
+Giardino dell'Iris|43.763|11.267|IT|Tuscany|40|f
+Giardino esotico Pallanca|43.788|7.688|IT|Liguria|40|f
+Giardino Montano Linasia|39.317|8.533|IT|Sardinia|40|f
+Gibbons Creek Reservoir|30.630|-96.055|US|Texas|40|f
+Gibbs Lake|43.732|-75.001|US|New York|40|f
+Gibbs Mountain|42.332|-71.483|US|Massachusetts|40|f
+Gibidum|46.270|7.936|CH|Valais|40|f
+Gibidumsee|46.259|7.941|CH|Valais|40|f
+Gibraltar Botanic Gardens|36.132|-5.351|GI||40|f
+Gibraltar Mountain|50.583|-114.835|CA|Alberta|40|f
+Gibraltar Mountain|34.168|-114.124|US|Arizona|40|f
+Gibraltar Peak|-72.083|164.983|AQ||40|f
+Gibraltar Range National Park|-29.554|152.324|AU|New South Wales|40|f
+Gibson Bay|65.267|-75.998|CA|Nunavut|40|f
+Gibson Hill|37.713|-90.281|US|Missouri|40|f
+Gibson Hill|43.026|-75.495|US|New York|40|f
+Gibson House Museum|42.355|-71.074|US|Massachusetts|40|f
+Gibson Island|71.785|-95.367|CA|Nunavut|40|f
+Gibson Lake|45.143|-63.234|CA|Nova Scotia|40|f
+Gibson Lake|44.966|-79.749|CA|Ontario|40|f
+Gibson Marine Park|49.264|-126.073|CA|British Columbia|40|f
+Gibson Reservoir|47.603|-112.761|US|Montana|40|f
+Giebelrain|50.504|9.831|DE|Hesse|40|f
+Giechburg|49.955|11.050|DE|Bavaria|40|f
+Gieseler Wand|47.373|10.342|DE|Bavaria|40|f
+Giewont|49.251|19.934|PL|Lesser Poland|40|f
+Giferspitz|46.451|7.353|CH|Bern|40|f
+Gifford Hill|42.778|-76.203|US|New York|40|f
+Gifford Peaks|-79.600|-84.800|AQ||40|f
+Gifford Peninsula|50.064|-124.755|CA|British Columbia|40|f
+Gigerwaldsee|46.914|9.377|CH|Saint Gallen|40|f
+Giglistock|46.710|8.387|CH|Bern|40|f
+Gil Island|53.184|-129.253|CA|British Columbia|40|f
+Gila Bend Municipal Airport|32.959|-112.679|US|Arizona|40|f
+Gilbert Bridge|40.154|-76.981|US|Pennsylvania|40|f
+Gilbert Collection|51.511|-0.118|GB|England|40|f
+Gilbert Creek Park|42.460|-123.329|US|Oregon|40|f
+Gilbert Lake State Park|42.590|-75.135|US|New York|40|f
+Gilbert Peak|40.823|-110.340|US|Utah|40|f
+Gilchrist Glacier|-66.117|114.100|AQ||40|f
+Gildea Glacier|-78.633|-85.650|AQ||40|f
+Giles Glacier|-78.667|-84.767|AQ||40|f
+Gilfillan Lake|45.084|-93.079|US|Minnesota|40|f
+Gilford Island|50.750|-126.336|CA|British Columbia|40|f
+Gilgit Mountain|51.717|-116.852|CA|British Columbia|40|f
+Gilgo State Park|40.633|-73.351|US|New York|40|f
+Gill Hill|42.582|-75.220|US|New York|40|f
+Gill Stadium|42.982|-71.454|US|New Hampshire|40|f
+Gillespie Glacier|-85.183|-175.200|AQ||40|f
+Gillette Castle State Park|41.426|-72.429|US|Connecticut|40|f
+Gillette LORAN-C Transmitter|44.003|-105.623|US|Wyoming|40|f
+Gilliece Bridge|43.415|-91.958|US|Iowa|40|f
+Gillies Lake|48.481|-81.316|CA|Ontario|40|f
+Gillis Lake|46.060|-60.398|CA|Nova Scotia|40|f
+Gilman Lake|44.100|-97.346|US|South Dakota|40|f
+Gilman Park Arboretum|42.201|-97.522|US|Nebraska|40|f
+Gilmore Car Club Museum|42.442|-85.404|US|Michigan|40|f
+Gilmore Lake|38.896|-120.116|US|California|40|f
+Gilmore Stadium (historical)|34.075|-118.360|US|California|40|f
+Gilmour, Mount|-76.933|-144.667|AQ||40|f
+Gilnockie Park|49.086|-115.652|CA|British Columbia|40|f
+Gilsum Stone Arch Bridge|43.038|-72.271|US|New Hampshire|40|f
+Gimli Peak|49.767|-117.648|CA|British Columbia|40|f
+Gimmigela Chuli I|27.741|88.159|NP|Koshi|40|f
+Gimpel|47.501|10.614|AT|Tyrol|40|f
+Ginseng Mountain|42.341|-74.196|US|New York|40|f
+Gippeswyk Park|52.052|1.135|GB|England|40|f
+Gir|47.244|9.338|CH|Saint Gallen|40|f
+Girenspitz|47.026|9.743|CH|Grisons|40|f
+Giriz|47.598|8.223|CH|Aargau|40|f
+Girls Mountain|61.182|-145.773|US|Alaska|40|f
+Girraween National Park|-28.774|151.913|AU|Queensland|40|f
+Gisborne Flowage|46.563|-60.556|CA|Nova Scotia|40|f
+Giscome Canyon|54.250|-122.370|CA|British Columbia|40|f
+Gitschen|46.877|8.575|CH|Uri|40|f
+Giza Museum|29.994|31.120|EG|Giza|40|f
 Giusvalla|44.448|8.394|IT|Liguria|40
+Giesensdorf|53.688|10.713|DE|Schleswig-Holstein|39
 Giuncugnano|44.211|10.247|IT|Tuscany|39
 Gifflenga|45.493|8.232|IT|Piedmont|27
 Gia Bình|21.059|106.175|VN|Bac Ninh|0
@@ -367,12 +710,34 @@ Gia Ray|10.926|107.402|VN|Dong Nai|0
 Giade|11.391|10.200|NG|Bauchi|0
 Gianyar|-8.543|115.327|ID|Bali|0
 Gidan Madi|13.296|4.975|NG|Sokoto|0
+Giershausen|50.681|7.546|DE|Rheinland-Pfalz|0
 Gildersome|53.761|-1.631|GB|England|0
+Giliketapang Krajan|-7.680|113.254|ID|East Java|0
+Gilimanuk|-8.172|114.434|ID|Bali|0
+Gilin|-6.896|113.313|ID|East Java|0
 Gima|-3.191|-78.958|EC|Azuay|0
+Gingsir|-6.742|111.268|ID|Central Java|0
+Gintongan|-6.909|112.865|ID|East Java|0
+Gintung|-7.659|108.048|ID|West Java|0
+Gintung Utara|-6.730|105.978|ID|Banten|0
+Gintungsari|-7.154|107.036|ID|West Java|0
+Ginyang|-6.971|114.061|ID|East Java|0
 Giồng Riềng|9.910|105.314|VN|An Giang|0
 Giồng Trôm|10.150|106.506|VN|Vinh Long|0
+Girang|-7.090|108.599|ID|West Java|0
+Girang|-7.270|108.422|ID|West Java|0
 Girardota|6.377|-75.449|CO|Antioquia|0
 Girei|9.365|12.546|NG|Adamawa|0
+Giri Krajan|-8.200|114.358|ID|East Java|0
+Giriawas|-7.364|107.821|ID|West Java|0
+Girihieum|-6.332|106.069|ID|Banten|0
+Girijaya|-7.686|108.535|ID|West Java|0
+Girijaya|-7.573|108.132|ID|West Java|0
+Girikarya|-7.532|108.385|ID|West Java|0
+Giring Barat|-6.967|113.868|ID|East Java|0
+Giriwaringin|-7.088|108.581|ID|West Java|0
 Girmeli|37.111|41.420|TR|Mardin|0
 Girón|-3.160|-79.148|EC|Azuay|0
+Girsereng|-7.007|114.028|ID|East Java|0
+Gisiliba|-8.831|121.052|ID|East Nusa Tenggara|0
 Giwa|11.316|7.450|NG|Kaduna State|0

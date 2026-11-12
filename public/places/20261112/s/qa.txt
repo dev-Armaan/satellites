@@ -1,6 +1,6 @@
 Qatar|25.500|51.250|QA||129|c
 Qalyubia|30.300|31.250|EG||128|r
-Qazvin Province|36.000|49.750|IR||119|r
+Qazvin Province|36.000|49.750|IR||120|r
 Qashqadaryo|38.583|66.000|UZ||116|r
 Qazvin|36.269|50.004|IR|Qazvin Province|110
 Qarshi|38.861|65.789|UZ|Qashqadaryo|109
@@ -27,6 +27,7 @@ Qarek|38.372|76.990|CN|Xinjiang|90
 Qahderījān|32.577|51.454|IR|Isfahan|89
 Qā’emīyeh|29.852|51.588|IR|Fars|89
 Qarah Ẕīā’ od Dīn|38.892|45.026|IR|West Azerbaijan|89
+Qamdo Bamda Airport|30.554|97.108|CN|Tibet|88|f
 Qacha’s Nek|-30.115|28.689|LS|Qacha's Nek District|88
 Qacha's Nek District|-30.000|28.750|LS||88|r
 Qarāwul|37.220|68.780|AF|Kunduz|88
@@ -45,6 +46,8 @@ Qalansuwa|32.285|34.981|IL|Central District|85
 Qaşr Khiyār|32.697|13.846|LY|Tripoli|84
 Qarqīn|37.419|66.044|AF|Jowzjan|84
 Qāderābād|30.278|53.266|IR|Fars|84
+Qaanaaq Airport|77.489|-69.389|GL|Avannaata|83|f
+Qalaat esh Shqif|33.324|35.532|LB|Nabatieh|83|f
 Qarazhal|48.011|70.801|KZ|Ulytau Region|83
 Qarah Bāgh|34.940|61.776|AF|Herat|82
 Qalāt|32.106|66.908|AF|Zabul|82
@@ -52,6 +55,8 @@ Qabbāsīn|36.308|38.156|SY|Aleppo|82
 Qax|41.418|46.920|AZ|Qax|82
 Qabala|40.981|47.846|AZ|Qabala District|81
 Qanavāt|34.613|51.026|IR|Qom Province|81
+Qaarsut Airport|70.734|-52.696|GL|Avannaata|81|f
+Qala i Naw Airport|34.985|63.117|AF|Badghis|81|f
 Qashar|53.368|62.868|KZ|Kostanay|80
 Qâna|33.209|35.299|LB|South Governorate|80
 Qāzigund|33.638|75.143|IN|Jammu and Kashmir|80
@@ -68,27 +73,40 @@ Qandūlah|32.538|21.575|LY|Al Jabal al Akhdar|78
 Qal‘ah-ye Shahr|35.547|65.568|AF|Sar-e Pol Province|78
 Qaryat Manārat Shabak|36.317|43.331|IQ|Nineveh|78
 Qarne Shomeron|32.167|35.083|PS|West Bank|78
+Qaşr al Ḩarrānah|31.729|36.463|JO|Amman|78|f
 Qalaqayın|39.984|48.484|AZ|Sabirabad District|78
 Qaţanah|31.834|35.119|PS|West Bank|77
 Qabalān|32.102|35.289|PS|West Bank|77
 Qabilanbek|41.494|69.276|KZ|Turkistan|76
 Qaşr Lībiyā|32.633|21.417|LY|Al Jabal al Akhdar|76
+Qal‘eh-ye Tī Jet|31.172|53.191|IR|Yazd Province|75|f
 Qaryat al Bayyāḑah|32.565|21.254|LY|Al Marj|75
 Qarah Chopoq|37.315|46.021|IR|East Azerbaijan|75
 Qal‘eh Now Khāleseh|35.513|51.515|IR|Tehran|75
+Qaruh Island|28.818|48.776|KW||74|f
+Qaşr al Ḩayr|34.383|37.609|SY|Homs|74|f
 Qaşr al Farāfirah|27.057|27.970|EG|New Valley|74
 Qasr Abu Hadi|31.059|16.659|LY|Surt|74
+Qaşr ‘Amrah|31.802|36.587|JO|Zarqa|73|f
 Qafqafā|32.349|35.939|JO|Jerash|73
 Qaraçala|39.816|48.938|AZ|Salyan District|72
+Qaşr Ibn Wardān|35.380|37.248|SY|Hama|72|f
 Qalāt|28.369|53.155|IR|Fars|72
 Qalāt|29.817|52.325|IR|Fars|72
 Qamşar|33.750|51.432|IR|Isfahan|72
 Qaryat al Qī‘ān|32.056|11.543|LY|Nalut|72
 Qarāwat Banī Ḩasan|32.126|35.101|PS|West Bank|72
+Qarokŭl|39.040|73.392|TJ|Gorno-Badakhshan|71|f
+Qasr Ibrim|22.650|31.993|EG|Aswan|71|f
 Qalansīyah|12.690|53.487|YE|Soqatra|71
 Qāẕī Jahān|37.776|45.941|IR|East Azerbaijan|71
 Qaqortoq|60.718|-46.036|GL|Kujalleq|70
 Qaraxanlı|41.044|45.655|AZ|Tovuz District|70
+Qabala International Airport|40.827|47.713|AZ|Qabala District|70|f
+Qal‘eh-ye Kaslānī|36.630|59.207|IR|Razavi Khorasan|70|f
+Qal‘eh-ye Sanjeh Vāsheh|33.853|50.359|IR|Markazi|70|f
+Qaşr aţ Ţūbah|31.326|36.571|JO|Amman|70|f
+Qazvin Airport|36.240|50.047|IR|Qazvin Province|70|f
 Qarah Bābā|37.756|46.857|IR|East Azerbaijan|70
 Qal‘eh Sheykh|35.503|51.366|IR|Tehran|70
 Qaxbaş|41.433|46.965|AZ|Qax|69
@@ -98,11 +116,20 @@ Qazānchī|34.442|47.024|IR|Kermanshah Province|69
 Qax İngiloy|41.424|46.939|AZ|Qax|69
 Qarah Qāshlī|36.897|54.174|IR|Golestan|69
 Qala|40.443|50.168|AZ|Baki|69
+Qalandar|33.292|69.655|AF|Khowst|69|f
+Qalūniya|31.800|35.167|IL|Jerusalem|69|f
+Qaragöl|39.789|46.009|AZ|Lachin Rayon|69|f
+Qaşr Anţūniyādis|31.202|29.951|EG|Alexandria|69|f
+Qaşr-e Tāj Bēg|34.455|69.114|AF|Kabul|69|f
+Qazāza|31.783|34.867|IL|Jerusalem|69|f
 Qarāwat Banī Zayd|32.055|35.129|PS|West Bank|69
 Qahurt|46.334|89.592|CN|Xinjiang|68
 Qal‘eh-ye Ḩoseynīyeh|36.247|49.170|IR|Zanjan|68
 Qaryūt|32.070|35.294|PS|West Bank|68
 Qareh Chāl|37.120|46.126|IR|East Azerbaijan|68
+Qarn Şarţabah|32.095|35.464|PS|West Bank|67|f
+Qatorkŭhi Akademiyai Fanho|38.993|72.098|TJ|Gorno-Badakhshan|67|f
+Qatorkŭhi Ishkoshim|37.189|71.629|TJ|Gorno-Badakhshan|67|f
 Qaramanlı|40.481|46.993|AZ|Yevlax|67
 Qānqarmeh|37.013|54.506|IR|Golestan|67
 Qarnābād|36.822|54.592|IR|Golestan|66
@@ -112,6 +139,12 @@ Qal‘eh-ye Shīān|34.066|46.698|IR|Kermanshah Province|66
 Qāsemābād-e Kūchak|35.912|50.672|IR|Alborz Province|66
 Qaryat al Lakk|36.302|43.263|IQ|Nineveh|66
 Qal‘eh Jīq|37.173|46.161|IR|East Azerbaijan|65
+Qal‘at Burzay|35.650|36.250|SY|Hama|65|f
+Qallunaat|73.600|-56.350|GL|Avannaata|65|f
+Qaneq|73.055|-55.876|GL||65|f
+Qaşr al Azraq|31.881|36.827|JO|Amman|65|f
+Qaşr al Kharrūbah|32.178|21.195|LY|Al Marj|65|f
+Qatorkŭhi Zarafshon|39.240|69.123|TJ|Sughd|65|f
 Qarājeh-ye Feyẕollāh|38.478|45.528|IR|East Azerbaijan|65
 Qareh Kheẕer|37.026|46.164|IR|East Azerbaijan|65
 Qahrīzjān|32.815|50.901|IR|Isfahan|65
@@ -120,6 +153,9 @@ Qandax|41.475|46.541|AZ|Zaqatala District|64
 Qalaikhumb|38.454|70.789|TJ|Gorno-Badakhshan|64
 Qafëmal|42.093|20.091|AL|Shkodër County|64
 Qal‘eh Now|28.294|55.207|IR|Fars|64
+Qarasu Adası|39.835|49.532|AZ|Baki|63|f
+Qaşr Hishām|31.882|35.460|PS||63|f
+Qatorkŭhi Shughnon|37.517|72.090|TJ|Gorno-Badakhshan|63|f
 Qadīmābād|36.181|49.974|IR|Qazvin Province|63
 Qayah Bāshī|39.110|47.218|IR|East Azerbaijan|63
 Qal‘eh Bīn|37.941|48.913|IR|Gilan Province|63
@@ -130,11 +166,52 @@ Qal‘eh-ye Nāz̧er|32.884|50.817|IR|Isfahan|62
 Qalandiyā|31.863|35.208|PS|West Bank|61
 Qarātlū|37.483|46.425|IR|East Azerbaijan|61
 Qalqas|31.492|35.095|PS|West Bank|61
+Qaarsorsuaq|72.721|-55.918|GL|Avannaata|61|f
+Qagoi Co|31.800|88.200|CN|Tibet|61|f
+Qal‘at ‘Arād|26.253|50.627|BH|Muharraq|61|f
+Qamashi Suv Ombori|38.866|66.427|UZ|Qashqadaryo|61|f
+Qaraqum|46.510|54.173|KZ|Atyrau Oblisi|61|f
+Qarn Alam Airport|21.375|57.054|OM|Al Wusta Governorate|61|f
+Qaşr Shabīb|33.417|35.850|LB||61|f
+Qassersuaq|73.100|-55.333|GL|Avannaata|61|f
+Qatorkŭhi Vakhsh|38.472|69.636|TJ||61|f
+Qatorkŭhi Vanj|38.417|71.709|TJ|Gorno-Badakhshan|61|f
 Qasigiannguit|68.819|-51.192|GL|Qeqertalik|61
+Qaşr al Ḩallābāt|32.096|36.332|JO|Zarqa|60
+Qaţār Qū’ī|35.332|48.098|IR|Hamadan Province|60
+Qareh Tappeh|37.016|46.117|IR|West Azerbaijan|60
+Qal‘eh Khāleşeh|37.336|46.188|IR|East Azerbaijan|59
+Qarah Tappeh-ye Sabalān|38.293|48.063|IR|Ardabil Province|58
+Qārnā|36.925|45.309|IR|West Azerbaijan|58
+Qaradağ|40.616|45.817|AZ|Gadabay District|58|f
+Qardho Airport|9.543|49.118|SO|Bari|58|f
+Qarsau Island|63.730|-68.589|CA|Nunavut|58|f
+Qatorkŭhi Shohdara|37.008|71.998|TJ|Gorno-Badakhshan|58|f
+Qaraçı|41.444|48.836|AZ|Xaçmaz|58
+Qāsemābād-e Bālā|37.012|50.461|IR|Gilan Province|58
+Qaryat Al kudshi al Ra'inah|13.691|43.872|YE|Ta‘izz|58
+Qal‘eh Boland|35.211|51.786|IR|Tehran|57
+Qaşşāb Kotī|36.549|52.301|IR|Māzandarān|57
+Qaanaaq|77.467|-69.232|GL|Avannaata|56
+Qanāt-e Kīfteh Gīvsīn|31.059|51.642|IR|Isfahan|55
+Qarābā|37.462|49.271|IR|Gilan Province|55
+Qaarsorsuatsiaq|73.183|-56.250|GL|Avannaata|54|f
+Qacha's Nek Airport|-30.112|28.672|LS|Qacha's Nek District|54|f
+Qaqortoq Airport|60.765|-46.065|GL|Kujalleq|54|f
+Qayyarah West|35.767|43.125|IQ|Nineveh|54|f
+Qarabaldır|40.980|47.440|AZ|Oğuz|54
+Qarnayn Airport|24.931|52.853|AE|Abu Dhabi|49|f
+Qaen Mediumwave Transmitter|33.745|59.162|IR||40|f
+Qamanirjuaq Lake|62.950|-95.767|CA|Nunavut|40|f
+Qaqaluit Island|67.217|-62.547|CA|Nunavut|40|f
 Qā’em Shahr|36.482|52.887|IR|Māzandarān|0
 Qa‘ţabah|13.855|44.706|YE|Aḑ Ḑāli‘|0
+Qabqir|39.616|106.874|CN|Inner Mongolia|0
 Qādis|34.809|63.430|AF|Badghis|0
 Qadsayyā|33.548|36.216|SY|Rif-dimashq|0
+Qagan Gol|46.480|90.746|CN|Xinjiang|0
+Qagan Hol|46.817|85.955|CN|Xinjiang|0
+Qagan Obo|44.248|111.739|CN|Inner Mongolia|0
 Qagan Us|36.397|98.012|CN|Qinghai|0
 Qaghiliq|37.883|77.413|CN|Xinjiang|0
 Qaīşār|35.687|64.293|AF|Faryab|0
@@ -157,6 +234,7 @@ Qaram Qōl|36.830|65.043|AF|Faryab|0
 Qaramengdi|51.657|64.225|KZ|Kostanay|0
 Qaranghū Tōghaī|37.215|67.640|AF|Balkh|0
 Qarghah’ī|34.554|70.243|AF|Laghman|0
+Qarqi|41.584|81.366|CN|Xinjiang|0
 Qaryat ad Da‘īs|13.988|44.275|YE|Ibb Governorate|0
 Qaryat al Qābil|15.450|44.128|YE|Amanat Alasimah|0
 Qāshqāl|35.040|69.007|AF|Parwan|0
@@ -164,3 +242,4 @@ Qasq|40.712|111.129|CN|Inner Mongolia|0
 Qaşr-e Qand|26.232|60.739|IR|Sistan and Baluchestan|0
 Qasţal Ma‘āf|35.824|35.952|SY|Latakia|0
 Qasym Qaysenov|49.874|82.495|KZ|East Kazakhstan|0
+Qaxa|46.689|83.405|CN|Xinjiang|0

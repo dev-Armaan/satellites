@@ -21,6 +21,7 @@ Dashun|29.570|107.045|CN|Chongqing|86
 Dastgerd|32.802|51.664|IR|Isfahan|85
 Dashan|23.002|100.115|CN|Yunnan|84
 Daşkǝsǝn|40.417|46.000|AZ||82|r
+Dasht-e Naz Airport|36.636|53.194|IR|Māzandarān|81|f
 Dassel|51.802|9.689|DE|Lower Saxony|81
 Dashkasan|40.524|46.082|AZ|Daşkǝsǝn|81
 Dashi|30.200|107.536|CN|Chongqing|79
@@ -28,6 +29,7 @@ Dāsiripuram|13.124|80.030|IN|Tamil Nadu|79
 Dasht-e Archī|37.133|69.167|AF|Kunduz|78
 Dass|10.001|9.516|NG|Bauchi|77
 Daspalla|20.340|84.847|IN|Odisha|77
+Daşlı Ada|39.620|49.712|AZ|Baki|76|f
 Dassun|17.745|121.711|PH|Cagayan Valley|76
 Dāsināyakkanpatti|11.609|78.144|IN|Tamil Nadu|75
 Dasing|48.385|11.047|DE|Bavaria|75
@@ -37,6 +39,7 @@ Dashtak|32.163|50.453|IR|Chaharmahal and Bakhtiari|72
 Dasol|15.990|119.883|PH|Ilocos|72
 Dashiv|49.004|29.440|UA|Vinnytsia|72
 Dassow|53.911|10.976|DE|Mecklenburg-Vorpommern|70
+Dashan Dao|35.009|119.892|CN|Shandong|70|f
 Dassendorf|53.495|10.360|DE|Schleswig-Holstein|70
 Dastjerd|35.010|48.527|IR|Hamadan Province|69
 Dastgerd-e Emāmzādeh|32.100|50.987|IR|Chaharmahal and Bakhtiari|69
@@ -45,6 +48,7 @@ Dasyu Nārāyanpur|24.135|90.544|BD|Dhaka Division|68
 Dashava|49.265|24.017|UA|Lviv|67
 Dashentang|39.217|117.953|CN|Tianjin|67
 Dashinchilling|47.850|104.050|MN|Bulgan|67
+Dashantang Dao|30.595|122.024|CN|Zhejiang|67|f
 Dastak|37.386|50.143|IR|Gilan Province|67
 Daso|7.984|-6.895|CI|Woroba|67
 Dashtavan|40.100|44.392|AM|Ararat|66
@@ -54,6 +58,7 @@ Dassoungboho|9.389|-5.786|CI|Savanes District|65
 Dasbiyo|11.253|42.799|DJ|Ali Sabieh|65
 Dastjerd|37.756|45.896|IR|East Azerbaijan|64
 Dashkawka|53.735|30.262|BY|Mogilev|64
+Daşoguz Airport|41.761|59.827|TM|Dasoguz|63|f
 Dassel|45.082|-94.307|US|Minnesota|63
 Daszewice|52.300|16.957|PL|Greater Poland|63
 Dasle|47.478|6.897|FR|Bourgogne-Franche-Comté|63
@@ -64,10 +69,58 @@ Dasi|39.018|117.238|CN|Tianjin|61
 Dăscălești|45.406|27.250|RO|Buzău County|60
 Dasht|40.228|44.300|AM|Armavir|60
 Dastgerd-e Mehr Āvarān|32.408|51.585|IR|Isfahan|60
+Dashwood|49.366|-124.519|CA|British Columbia|60
+Dasher|30.747|-83.221|US|Georgia|60
+Dash Point|47.319|-122.427|US|Washington|59
+Dashtlū|32.525|51.494|IR|Isfahan|59
+Dasht-e Bozorg|32.118|48.925|IR|Khuzestan|59
+Dasochóri|41.163|23.268|GR|Central Macedonia|58
+Dasht-e Khāsh|31.833|62.500|AF|Nimroz|58|f
+Dasht-i Tahlab|28.821|61.877|PK|Balochistan|58|f
+Dashtakar|39.922|44.756|AM|Ararat|56
+Dasochóri|39.692|22.418|GR|Thessaly|56
+Dasht-e Shūr|28.348|53.061|IR|Fars|56
 Daszyna|52.155|19.182|PL|Łódź Voivodeship|56
+Dashtadem|40.342|43.858|AM|Aragatsotn|56
+Daskabát|49.579|17.447|CZ|Olomouc Region|55
+Dashields Locks and Dam|40.548|-80.208|US|Pennsylvania|54|f
+Dassen Island|-33.425|18.088|ZA|Western Cape|54|f
+Dastjerd|37.634|47.471|IR|East Azerbaijan|54
+Das Island Airport|25.146|52.873|AE|Abu Dhabi|49|f
+Daspit Glacier|-68.186|-65.787|AQ||49|f
+Dassower See|53.911|10.931|DE|Schleswig-Holstein|49|f
+Dasburg|50.050|6.133|DE|Rheinland-Pfalz|49
+Das Buddhistische Haus|52.636|13.303|DE|State of Berlin|40|f
+Dash Point State Park|47.316|-122.407|US|Washington|40|f
 Das|42.361|1.871|ES|Catalonia|0
+Dasangeria Selatan|-8.556|116.148|ID|West Nusa Tenggara|0
+Dasanlian Lauk|-8.551|116.519|ID|West Nusa Tenggara|0
 Dasarahalli|13.099|77.832|IN|Karnataka|0
+Dasha|23.248|112.743|CN|Guangdong|0
+Dasha|22.520|112.345|CN|Guangdong|0
+Dasha|29.265|116.327|CN|Jiangxi|0
+Dashahe|42.723|128.254|CN|Jilin|0
+Dashanjiang|21.428|110.797|CN|Guangdong|0
 Dashbalbar|49.546|114.403|MN|East Aimak|0
+Dashe|29.908|118.907|CN|Zhejiang|0
+Dasheng|32.141|119.983|CN|Jiangsu|0
+Dashi|28.402|118.212|CN|Jiangxi|0
+Dashi|41.774|121.770|CN|Liaoning|0
+Dashi|23.022|113.305|CN|Guangdong|0
+Dashiju|29.445|121.034|CN|Zhejiang|0
+Dashiren|41.934|126.547|CN|Jilin|0
+Dashiwo|39.554|115.814|CN|Beijing|0
 Dasht-e Qal‘ah|33.030|63.840|AF|Farah|0
+Dashu|31.838|119.687|CN|Jiangsu|0
+Dashu|29.278|116.262|CN|Jiangxi|0
+Dashuipo|37.185|122.247|CN|Shandong|0
+Dashuitian|27.413|110.815|CN|Hunan|0
+Dasi|32.358|119.969|CN|Jiangsu|0
+Dasijiazi|42.756|123.637|CN|Liaoning|0
+Dasiping|41.317|124.713|CN|Liaoning|0
+Dasizhan|45.856|130.427|CN|Heilongjiang|0
+Dasongshu|26.137|103.573|CN|Yunnan|0
 Dasu|35.292|73.291|PK|Khyber Pakhtunkhwa|0
+Dasuhe|41.918|124.956|CN|Liaoning|0
 Dasuk|-6.902|113.814|ID|East Java|0
+Dasun|-6.678|111.445|ID|Central Java|0

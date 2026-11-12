@@ -69,15 +69,22 @@ Qinglong|30.780|109.256|CN|Chongqing|84
 Qingshui|24.939|98.460|CN|Yunnan|84
 Qishan|34.233|105.395|CN|Gansu|83
 Qianhai Bay Area|22.536|113.887|CN|Guangdong|83
+Qilian Mountains|39.200|98.533|CN|Gansu|83|f
+Qinhuangdao Shanhaiguan Airport|39.968|119.731|CN|Hebei|83|f
 Qingsheng|29.318|105.511|CN|Chongqing|83
 Qinting|34.733|106.354|CN|Gansu|83
+Qiqihar Sanjiazi Airport|47.240|123.918|CN|Heilongjiang|82|f
 Qia'erbage|38.342|77.305|CN|Xinjiang|82
 Qiaotou|34.139|105.032|CN|Gansu|82
+Qishm Island|26.695|55.618|IR|Hormozgan|82|f
 Qiziltepa|40.033|64.850|UZ|Navoiy Region|82
+Qingyang Airport|35.800|107.603|CN|Gansu|81|f
 Qibah|27.403|44.328|SA|Al-Qassim Region|81
 Qiryat ‘Eqron|31.861|34.823|IL|Central District|81
+Qinhuangdao Beidaihe Airport|39.663|119.058|CN|Hebei|80|f
 Qiushan|34.355|104.898|CN|Gansu|80
 Qingjiang|29.283|105.473|CN|Chongqing|80
+Qinghai Lake|36.926|100.160|CN|Qinghai|80|f
 Qinglong|30.167|107.785|CN|Chongqing|79
 Qiancheng|27.185|109.765|CN|Hunan|79
 Qingliu|29.591|105.327|CN|Chongqing|79
@@ -89,83 +96,427 @@ Qidu|26.765|119.547|CN|Fujian|78
 Qiaotou|30.109|108.258|CN|Chongqing|78
 Qingguang|39.199|117.033|CN|Tianjin|77
 Qingyuan|28.950|107.357|CN|Chongqing|77
+Qikiqtarjuaq Airport|67.546|-64.033|CA|Nunavut|77|f
+Qingdao Liuting International Airport|36.267|120.383|CN|Shandong|77|f
 Qīrah|27.586|14.354|LY|Wadi ash Shati'|77
 Qilong|29.355|107.221|CN|Chongqing|76
 Qiaotou Community|22.687|113.805|CN|Guangdong|76
+Qixia Mountain|32.160|118.965|CN|Jiangsu|75|f
 Qihama|33.381|101.986|CN|Gansu|75
 Qingquan|28.799|108.386|CN|Chongqing|75
 Qiongkulecun|38.093|85.538|CN|Xinjiang|75
 Qibyah|31.977|35.010|PS|West Bank|74
 Qirnādah|32.732|21.904|LY|Al Jabal al Akhdar|72
+Qiandao Lake|29.561|118.936|CN|Zhejiang|72|f
+Qingdao TV Tower|36.069|120.350|CN|Shandong|72|f
 Qiandengyingcun|36.139|120.574|CN|Shandong|72
 Qizilcha|40.711|66.137|UZ|Navoiy Region|71
 Qiagai|34.845|103.459|CN|Gansu|71
 Qiaojiang|27.937|110.676|CN|Hunan|70
+Qionghai Bo'ao Airport|19.140|110.456|CN|Hainan|70|f
 Qibu|26.508|119.545|CN|Fujian|70
 Qinglang|27.125|108.733|CN|Guizhou|69
+Qian Zhou|32.077|118.714|CN|Jiangsu|69|f
+Qilu Hu|24.164|102.772|CN|Yunnan|69|f
 Qiaogu|39.313|117.725|CN|Tianjin|68
 Qigang|22.640|113.826|CN|Guangdong|68
+Qingyuan Shan|24.959|118.596|CN|Fujian|67|f
 Qingshancun|36.154|120.683|CN|Shandong|67
 Qingxi|26.431|110.355|CN|Hunan|66
+Qianjiang Wulingshan Airport|29.515|108.832|CN|Chongqing|65|f
+Qianling Shan|26.650|106.700|CN|Guizhou|65|f
+Qianzhen Yunhe|22.584|120.299|TW|Takao|65|f
+Qilai Zhushan|24.086|121.323|TW|Taiwan|65|f
+Qingshan Ba|24.253|121.160|TW|Taiwan|65|f
+Qionglai Shan|31.500|102.500|CN|Sichuan|65|f
 Qidron|31.814|34.797|IL|Central District|65
+Qiong Hai|27.821|102.310|CN|Sichuan|63|f
 Qimeng|26.485|108.999|CN|Guizhou|63
 Qilong|22.601|113.896|CN|Guangdong|62
 Qīrah|32.122|35.172|PS|West Bank|61
+Qi’ao Dao|22.416|113.637|CN|Guangdong|61|f
+Qiianarteq|65.867|-36.650|GL|Sermersooq|61|f
+Qinnasrīn|35.983|37.017|SY|Aleppo|61|f
 Qingjiangqiao|26.604|110.985|CN|Hunan|61
+Qilā‘ Zaytā|31.553|35.121|PS|West Bank|59
+Qian Hai|22.536|113.875|CN|Guangdong|58|f
+Qingtuozi|39.123|117.748|CN|Tianjin|55
+Qian Shan|40.998|123.112|CN|Liaoning|49|f
+Qibing|-29.700|27.100|LS||49|f
+Qikiqta|72.768|-77.448|CA|Nunavut|49|f
+Qikiqtaalujjuaq|63.081|-71.466|CA|Nunavut|49|f
+Qikiqtagafaaluk|69.488|-101.115|CA|Nunavut|49|f
+Qikiqtarjuarusiq|62.567|-69.998|CA|Nunavut|49|f
+Qitai Jiangbulake Airport|44.185|89.591|CN|Xinjiang|49|f
+Qiajivik Mountain|72.182|-75.909|CA|Nunavut|40|f
+Qiemo Airport|38.149|85.533|CN|Xinjiang|40|f
 Qi Xian|34.555|114.770|CN|Henan|0
+Qi’an|32.178|121.049|CN|Jiangsu|0
+Qia’erlong|38.046|75.957|CN|Xinjiang|0
+Qiakeri|35.042|101.472|CN|Qinghai|0
 Qian’an|45.007|124.016|CN|Jilin|0
 Qian’an|40.006|118.697|CN|Hebei|0
+Qiancang|28.802|120.088|CN|Zhejiang|0
+Qianchang|30.840|113.094|CN|Hubei|0
+Qianchuan|30.091|119.390|CN|Zhejiang|0
+Qiandeng|31.267|120.997|CN|Jiangsu|0
+Qiandian|41.895|124.002|CN|Liaoning|0
+Qiandong|34.521|108.638|CN|Shaanxi|0
+Qiandong|23.678|116.906|CN|Guangdong|0
+Qianfang|28.524|116.234|CN|Jiangxi|0
+Qianfeng|47.778|126.246|CN|Heilongjiang|0
 Qianfeng|30.500|106.888|CN|Sichuan|0
 Qianfeng|37.849|112.521|CN|Shanxi|0
+Qianfoling|39.535|113.825|CN|Shanxi|0
+Qiangbai|34.747|109.810|CN|Shaanxi|0
+Qiangdui|29.088|89.366|CN|Tibet|0
+Qiangezhai|36.964|115.378|CN|Hebei|0
+Qiangken|45.892|130.662|CN|Heilongjiang|0
+Qiangma|31.976|90.845|CN|Hebei|0
+Qiangongping|28.030|109.502|CN|Hunan|0
 Qiangqinxue|29.267|89.900|CN|Tibet|0
+Qiangtou|29.464|121.781|CN|Zhejiang|0
+Qianguan|22.867|111.583|CN|Guangdong|0
+Qianhe|34.394|107.302|CN|Shaanxi|0
+Qianhong|30.261|119.396|CN|Zhejiang|0
+Qianhuang|31.597|119.961|CN|Jiangsu|0
+Qianjia|28.297|108.076|CN|Guizhou|0
+Qianjia|18.569|109.082|CN|Hainan|0
+Qianjiadian|40.695|116.342|CN|Beijing|0
+Qianjiadong|25.372|111.324|CN|Hunan|0
+Qianjiaping|28.661|111.704|CN|Hunan|0
+Qianjin|26.543|101.697|CN|Sichuan|0
+Qianjin|30.678|120.238|CN|Zhejiang|0
+Qianjin|47.397|126.812|CN|Heilongjiang|0
 Qianjin|46.812|130.367|CN|Heilongjiang|0
+Qianjin|49.100|125.209|CN|Heilongjiang|0
+Qiankeng|23.389|115.993|CN|Guangdong|0
+Qiankou|29.871|118.295|CN|Anhui|0
 Qianling|28.712|109.646|CN|Hunan|0
+Qianliu|40.842|122.634|CN|Liaoning|0
+Qianlu|28.768|120.261|CN|Zhejiang|0
+Qianpai|22.365|111.261|CN|Guangdong|0
+Qianping|25.845|117.864|CN|Fujian|0
+Qianqiao|31.601|120.225|CN|Jiangsu|0
+Qianqiao|29.356|108.320|CN|Chongqing|0
+Qianqing|30.125|120.405|CN|Zhejiang|0
 Qianqiu|34.742|111.872|CN|Henan|0
 Qianquan|30.871|114.373|CN|Hubei|0
+Qianshan|27.348|114.134|CN|Jiangxi|0
+Qianshan|22.243|113.521|CN|Guangdong|0
+Qianshan|20.427|110.461|CN|Guangdong|0
+Qianshan|26.931|116.470|CN|Jiangxi|0
+Qianshui|21.586|110.752|CN|Guangdong|0
+Qiansuo|28.699|121.447|CN|Zhejiang|0
+Qiansuo|40.095|119.948|CN|Liaoning|0
+Qiantan|29.620|119.539|CN|Zhejiang|0
+Qiantang|21.232|110.612|CN|Guangdong|0
+Qiantong|29.225|121.353|CN|Zhejiang|0
+Qianwei|34.126|109.224|CN|Shaanxi|0
+Qianwei|24.341|102.729|CN|Yunnan|0
+Qianwu|22.164|113.231|CN|Guangdong|0
 Qianxi|40.144|118.301|CN|Hebei|0
+Qianxiang|29.043|120.314|CN|Zhejiang|0
+Qianxu Zhen|30.777|121.242|CN|Shanghai|0
 Qianyang Chengguanzhen|34.642|107.130|CN|Shaanxi|0
+Qianying|40.158|123.181|CN|Liaoning|0
+Qianying|33.980|112.909|CN|Henan|0
+Qianyingzi|40.203|123.183|CN|Liaoning|0
 Qianyou|33.678|109.123|CN|Shaanxi|0
+Qianzhan|22.945|116.434|CN|Guangdong|0
+Qianzhou|31.692|120.213|CN|Jiangsu|0
+Qiaobian|30.682|111.187|CN|Hubei|0
+Qiaochong|22.921|115.798|CN|Guangdong|0
+Qiaochuan|36.764|107.670|CN|Gansu|0
+Qiaodi|34.606|108.716|CN|Shaanxi|0
+Qiaodong|28.058|115.820|CN|Jiangxi|0
+Qiaodong|23.664|116.656|CN|Guangdong|0
+Qiaodong|28.000|116.362|CN|Jiangxi|0
+Qiaojia|28.303|108.447|CN|Guizhou|0
+Qiaokou|28.503|112.733|CN|Hunan|0
+Qiaole|28.644|115.564|CN|Jiangxi|0
+Qiaoleipan|38.936|76.116|CN|Xinjiang|0
+Qiaolin|31.947|118.526|CN|Jiangsu|0
+Qiaomu|30.704|118.077|CN|Anhui|0
+Qiaonan|34.343|109.593|CN|Shaanxi|0
+Qiaonan|22.925|113.367|CN|Guangdong|0
+Qiaoshan|29.764|117.719|CN|Anhui|0
+Qiaoshang|27.943|105.165|CN|Yunnan|0
+Qiaoshe|28.850|115.983|CN|Jiangxi|0
+Qiaoshi|29.707|113.176|CN|Hubei|0
+Qiaosi|30.352|120.286|CN|Zhejiang|0
+Qiaoting|30.389|118.547|CN|Anhui|0
+Qiaoting|32.465|106.898|CN|Sichuan|0
+Qiaotou|32.550|120.069|CN|Jiangsu|0
+Qiaotou|37.319|122.281|CN|Shandong|0
+Qiaotou|33.754|104.814|CN|Gansu|0
+Qiaotou|33.055|112.810|CN|Henan|0
+Qiaotou|19.965|109.926|CN|Hainan|0
+Qiaotou|28.170|120.474|CN|Zhejiang|0
+Qiaotou|30.161|121.357|CN|Zhejiang|0
+Qiaotou|24.254|113.771|CN|Guangdong|0
+Qiaotou|23.745|111.970|CN|Guangdong|0
+Qiaotou|29.347|110.283|CN|Hunan|0
+Qiaotou|25.293|111.537|CN|Hunan|0
+Qiaotou|23.025|114.092|CN|Guangdong|0
 Qiaowa|27.931|101.278|CN|Sichuan|0
+Qiaoxi|28.388|114.770|CN|Jiangxi|0
 Qiaoxi|38.024|114.446|CN|Hebei|0
+Qiaoxia|28.169|120.555|CN|Zhejiang|0
+Qiaoxikou|28.043|109.683|CN|Hunan|0
 Qiaoxu|22.956|109.761|CN|Guangxi|0
+Qiaoyi|28.417|112.920|CN|Hunan|0
+Qiaozhen|34.487|107.139|CN|Shaanxi|0
 Qiaozhuang|32.590|105.233|CN|Sichuan|0
+Qiaozi|40.290|116.573|CN|Beijing|0
+Qiaozi|40.324|96.201|CN|Gansu|0
+Qiashui|24.088|112.332|CN|Guangdong|0
+Qiawan|27.274|116.575|CN|Jiangxi|0
+Qiaze|31.709|93.174|CN|Tibet|0
 Qibin|35.739|114.286|CN|Henan|0
+Qibu|28.722|116.864|CN|Jiangxi|0
+Qibu|27.076|119.343|CN|Fujian|0
+Qicai|37.244|120.353|CN|Shandong|0
+Qicha|19.115|109.067|CN|Hainan|0
+Qicun|34.823|109.109|CN|Shaanxi|0
+Qicun|38.695|114.503|CN|Henan|0
+Qidaogou|41.547|126.303|CN|Jilin|0
+Qidi|26.956|113.661|CN|Hunan|0
+Qidian|24.960|102.947|CN|Yunnan|0
+Qidou|30.953|120.388|CN|Jiangsu|0
+Qidu|28.008|120.764|CN|Zhejiang|0
+Qidu|27.276|115.556|CN|Jiangxi|0
+Qiecha|36.995|99.599|CN|Qinghai|0
+Qietong|28.710|109.877|CN|Hunan|0
+Qiewa|29.326|89.741|CN|Tibet|0
+Qiezha|32.075|96.514|CN|Qinghai|0
 Qiezihe|45.783|131.060|CN|Heilongjiang|0
+Qifang|19.300|109.236|CN|Hainan|0
+Qifang|25.100|116.099|CN|Fujian|0
+Qifang|32.204|112.563|CN|Hubei|0
+Qifo|32.304|105.285|CN|Sichuan|0
+Qiganjidie|46.864|87.716|CN|Heilongjiang|0
+Qigong|24.302|112.558|CN|Guangdong|0
+Qigzhi|34.568|95.658|CN|Qinghai|0
 Qihe|36.802|116.758|CN|Shandong|0
+Qihe|29.133|111.375|CN|Hunan|0
+Qihong|29.695|117.669|CN|Anhui|0
+Qijia|37.537|120.593|CN|Shandong|0
+Qijiang|27.449|110.973|CN|Hunan|0
+Qijiaping|28.885|110.854|CN|Hunan|0
+Qijiaxi|28.869|110.648|CN|Hunan|0
+Qijiazuo|38.931|114.839|CN|Henan|0
+Qijing|21.569|110.994|CN|Guangdong|0
+Qikeshu|47.525|123.258|CN|Heilongjiang|0
+Qikou|40.855|122.423|CN|Liaoning|0
 Qila Abdullah|30.728|66.661|PK|Balochistan|0
 Qila Saifullah|30.701|68.360|PK|Balochistan|0
+Qilan|40.567|79.617|CN|Xinjiang|0
+Qilanbulak|38.386|90.157|CN|Xinjiang|0
+Qili|40.115|94.609|CN|Gansu|0
 Qili|30.199|117.478|CN|Anhui|0
+Qili|28.448|116.268|CN|Jiangxi|0
+Qili|33.079|107.056|CN|Shaanxi|0
+Qili|28.680|120.059|CN|Zhejiang|0
 Qilidian|32.182|119.401|CN|Jiangsu|0
+Qiligang|28.010|116.424|CN|Jiangxi|0
+Qilin|31.937|121.349|CN|Jiangsu|0
+Qilin|23.423|116.285|CN|Guangdong|0
+Qiling|24.676|116.888|CN|Fujian|0
+Qiling|24.091|115.448|CN|Guangdong|0
+Qiliping|31.465|114.649|CN|Hubei|0
+Qilushan|25.696|115.298|CN|Jiangxi|0
+Qiman|41.538|82.911|CN|Xinjiang|0
+Qimantage|37.306|90.342|CN|Heilongjiang|0
 Qinbeiqu|22.005|108.635|CN|Guangxi|0
 Qincheng|34.580|105.727|CN|Gansu|0
+Qindu|34.102|108.751|CN|Shaanxi|0
 Qindu|34.342|108.708|CN|Shaanxi|0
 Qing’an|46.878|127.501|CN|Heilongjiang|0
+Qing’anping|29.281|110.155|CN|Hunan|0
+Qingban|28.517|117.533|CN|Jiangxi|0
+Qingban|28.510|117.572|CN|Jiangxi|0
+Qingcheng|35.999|107.885|CN|Gansu|0
+Qingchengzi|40.730|123.605|CN|Liaoning|0
+Qingchuan|45.444|128.105|CN|Heilongjiang|0
+Qingciyao|39.620|113.768|CN|Shanxi|0
+Qingcun|30.925|121.580|CN|Shanghai|0
 Qingdeli|44.903|82.076|CN|Xinjiang|0
+Qingduizi|41.446|121.908|CN|Liaoning|0
+Qingfa|46.336|130.114|CN|Heilongjiang|0
 Qingfeng|35.904|115.105|CN|Henan|0
+Qingfeng|32.046|110.967|CN|Hubei|0
+Qingfenglin|27.788|105.146|CN|Yunnan|0
+Qinggang|28.252|121.285|CN|Zhejiang|0
+Qinggis Han|47.750|122.833|CN|Inner Mongolia|0
+Qinggou|33.704|119.399|CN|Jiangsu|0
+Qinghaihu|36.838|100.821|CN|Qinghai|0
 Qinghe|46.668|90.380|CN|Xinjiang|0
+Qinghe|46.182|129.311|CN|Heilongjiang|0
+Qinghe|41.439|125.929|CN|Jilin|0
+Qinghe|40.030|116.333|CN|Beijing|0
+Qinghe|33.251|112.905|CN|Henan|0
+Qinghecheng|41.455|124.225|CN|Liaoning|0
+Qinghu|28.345|117.352|CN|Jiangxi|0
+Qinghua|34.426|107.836|CN|Shaanxi|0
+Qinghua|34.184|108.029|CN|Shaanxi|0
+Qinghua|29.419|117.774|CN|Jiangxi|0
+Qinghua|40.664|122.212|CN|Liaoning|0
 Qinghuazhen|35.172|113.065|CN|Henan|0
+Qingjiang|29.192|114.787|CN|Jiangxi|0
+Qingjiang|28.276|121.101|CN|Zhejiang|0
+Qingjiangyi|35.677|105.439|CN|Gansu|0
+Qingkeng|24.420|112.906|CN|Guangdong|0
+Qingkenpao|46.408|125.441|CN|Heilongjiang|0
 Qingkou|34.848|119.108|CN|Jiangsu|0
+Qingkou|25.894|119.386|CN|Fujian|0
+Qinglian|24.464|112.755|CN|Guangdong|0
+Qingliang|25.902|118.921|CN|Fujian|0
+Qingliangfeng|30.139|119.028|CN|Zhejiang|0
+Qinglin|28.954|111.469|CN|Hunan|0
+Qinglin|32.776|106.035|CN|Sichuan|0
 Qinglong|28.263|108.112|CN|Guizhou|0
+Qinglong|30.621|118.900|CN|Anhui|0
+Qinglong|24.443|102.983|CN|Yunnan|0
 Qinglong|40.403|118.946|CN|Hebei|0
+Qinglong|31.787|120.007|CN|Jiangsu|0
+Qinglong|30.933|108.697|CN|Chongqing|0
+Qinglong|38.882|99.696|CN|Gansu|0
+Qinglonghu|39.774|116.034|CN|Beijing|0
+Qinglung|31.162|90.666|CN|Tibet|0
+Qingminghe|31.035|113.689|CN|Hubei|0
+Qingmuguan|29.675|106.295|CN|Chongqing|0
+Qingnianlu|24.223|103.098|CN|Yunnan|0
+Qingping|21.625|109.919|CN|Guangdong|0
+Qingping|29.028|110.228|CN|Hunan|0
 Qingpingjie|34.537|113.373|CN|Henan|0
+Qingqiaoyi|33.329|106.976|CN|Shaanxi|0
+Qingqu|32.877|110.628|CN|Hubei|0
 Qingquan|38.793|101.089|CN|Gansu|0
+Qingshan|32.252|119.073|CN|Jiangsu|0
+Qingshan|29.694|116.698|CN|Anhui|0
+Qingshan|45.089|126.899|CN|Jilin|0
+Qingshan|29.439|114.019|CN|Hubei|0
+Qingshan|45.826|130.692|CN|Heilongjiang|0
+Qingshan|48.642|129.895|CN|Heilongjiang|0
+Qingshan|32.731|110.914|CN|Hubei|0
+Qingshan|45.737|122.862|CN|Jilin|0
+Qingshandi|29.084|118.394|CN|Zhejiang|0
+Qingshanhu|30.251|119.812|CN|Zhejiang|0
+Qingshi|41.359|126.513|CN|Jilin|0
+Qingshi|30.311|115.692|CN|Hubei|0
+Qingshiling|40.475|122.414|CN|Liaoning|0
+Qingshu|32.936|106.903|CN|Shaanxi|0
+Qingshui|39.383|99.133|CN|Gansu|0
+Qingshui|39.944|115.615|CN|Beijing|0
+Qingshui|31.318|118.477|CN|Anhui|0
+Qingshui|28.600|109.482|CN|Hunan|0
+Qingshui|28.546|117.885|CN|Jiangxi|0
+Qingshui|34.460|103.903|CN|Gansu|0
+Qingshui|30.705|108.968|CN|Chongqing|0
+Qingshuihe|33.804|97.136|CN|Qinghai|0
+Qingshuihe|39.722|113.108|CN|Shanxi|0
+Qingshuiping|28.773|109.285|CN|Hunan|0
+Qingshuitang|29.798|109.069|CN|Hubei|0
+Qingsong|44.414|127.357|CN|Heilongjiang|0
+Qingtaiping|30.483|110.217|CN|Hubei|0
+Qingtan|28.860|112.844|CN|Hunan|0
+Qingtang|24.215|113.845|CN|Guangdong|0
+Qingtang|26.441|115.863|CN|Jiangxi|0
+Qingtangpu|28.052|111.763|CN|Hunan|0
+Qingtong|38.383|114.350|CN|Henan|0
+Qingu|32.426|109.828|CN|Hubei|0
+Qingxi|25.229|115.614|CN|Jiangxi|0
+Qingxi|22.837|114.165|CN|Guangdong|0
+Qingxi|23.538|114.954|CN|Guangdong|0
+Qingxi|24.524|116.585|CN|Guangdong|0
+Qingxi|49.325|127.140|CN|Heilongjiang|0
+Qingxi|28.304|117.864|CN|Jiangxi|0
 Qingxiu|22.789|108.492|CN|Guangxi|0
+Qingyang|31.765|120.252|CN|Jiangsu|0
 Qingyang|36.207|113.417|CN|Shanxi|0
+Qingyang|45.366|128.792|CN|Heilongjiang|0
+Qingyanghu|44.083|88.965|CN|Xinjiang|0
+Qingyangyi|33.084|106.390|CN|Shaanxi|0
 Qingyuan|35.137|104.222|CN|Gansu|0
 Qingyuan|37.617|112.326|CN|Shanxi|0
 Qingyuan|38.769|115.485|CN|Hebei|0
+Qingyuan|27.402|119.490|CN|Fujian|0
 Qingyuan|28.117|112.998|CN|Hunan|0
+Qingyun|25.390|113.176|CN|Guangdong|0
+Qingyun|28.662|116.925|CN|Jiangxi|0
+Qingyun|27.985|116.356|CN|Jiangxi|0
+Qingyundian|39.677|116.507|CN|Beijing|0
+Qingzhou|26.532|117.977|CN|Fujian|0
 Qingzhou|38.579|116.828|CN|Hebei|0
+Qingzhou|24.355|114.803|CN|Guangdong|0
 Qinhe|36.501|112.325|CN|Shanxi|0
+Qinhe|34.920|108.593|CN|Shaanxi|0
 Qinhong|32.011|118.797|CN|Jiangsu|0
+Qinjia|46.796|127.000|CN|Heilongjiang|0
 Qinjiang|26.330|116.335|CN|Jiangxi|0
+Qinlan|32.601|119.166|CN|Anhui|0
+Qinlao|47.033|127.556|CN|Heilongjiang|0
+Qinling Jieban|34.387|109.249|CN|Shaanxi|0
 Qinnan|21.942|108.654|CN|Guangxi|0
 Qinnanqu|21.943|108.654|CN|Guangxi|0
+Qinshan|30.435|120.923|CN|Zhejiang|0
+Qinshi|29.969|112.600|CN|Hubei|0
+Qintang|29.715|119.564|CN|Zhejiang|0
 Qintang|23.131|109.448|CN|Guangxi|0
 Qinting|27.124|113.949|CN|Jiangxi|0
+Qintong|32.650|120.092|CN|Jiangsu|0
+Qinxi|30.729|118.491|CN|Anhui|0
+Qinxu|34.368|103.994|CN|Gansu|0
 Qinyang|35.091|112.928|CN|Henan|0
+Qinyang|27.385|119.391|CN|Fujian|0
+Qinzao|32.064|120.862|CN|Jiangsu|0
 Qiongxi|32.793|102.543|CN|Sichuan|0
+Qipan|29.750|113.152|CN|Hubei|0
+Qiping|28.665|114.204|CN|Jiangxi|0
+Qiping|28.433|110.183|CN|Hunan|0
+Qiqian|52.184|120.763|CN|Inner Mongolia|0
+Qiqiao|31.388|118.987|CN|Jiangsu|0
+Qiqin|27.706|115.605|CN|Jiangxi|0
+Qiqing|39.183|98.000|CN|Gansu|0
+Qishi|23.072|114.022|CN|Guangdong|0
+Qishi|22.916|116.136|CN|Guangdong|0
 Qishn|15.424|51.678|YE|Al Mahrah Governorate|0
+Qishuba|32.958|106.593|CN|Shaanxi|0
+Qishui|20.754|109.778|CN|Guangdong|0
+Qishuyan|31.728|120.054|CN|Jiangsu|0
+Qisumu|41.226|112.481|CN|Inner Mongolia|0
 Qitai|41.549|113.534|CN|Inner Mongolia|0
+Qitan|28.480|108.456|CN|Guizhou|0
+Qitao|34.167|119.850|CN|Jiangsu|0
+Qitao|26.053|117.869|CN|Fujian|0
+Qiting|31.437|119.860|CN|Jiangsu|0
+Qiting|31.014|114.742|CN|Hubei|0
+Qiu’ai|29.852|121.632|CN|Zhejiang|0
+Qiubin|29.073|119.612|CN|Zhejiang|0
+Qiuchang|22.821|114.423|CN|Guangdong|0
+Qiuchuan|28.867|118.317|CN|Zhejiang|0
+Qiucun|31.009|119.436|CN|Anhui|0
+Qiucun|29.604|121.621|CN|Zhejiang|0
+Qiujia|43.117|124.073|CN|Liaoning|0
+Qiujiang|26.393|117.775|CN|Fujian|0
+Qiujima|33.459|101.628|CN|Sichuan|0
+Qiujin|29.169|115.679|CN|Jiangxi|0
+Qiukou|29.347|117.900|CN|Jiangxi|0
+Qiulu|25.526|119.089|CN|Fujian|0
+Qiulu|27.726|119.346|CN|Zhejiang|0
+Qiushan|28.698|120.416|CN|Zhejiang|0
+Qiuxi|27.849|116.272|CN|Jiangxi|0
+Qiwen|39.626|98.327|CN|Gansu|0
+Qixia|32.139|118.942|CN|Jiangsu|0
+Qixia|24.189|114.034|CN|Guangdong|0
+Qixian|30.122|120.537|CN|Zhejiang|0
+Qixing|30.814|120.812|CN|Zhejiang|0
 Qixing|25.255|110.314|CN|Guangxi|0
+Qixingtai|30.414|111.887|CN|Hubei|0
+Qixu|32.027|120.015|CN|Jiangsu|0
+Qiying|36.503|106.149|CN|Ningxia|0
+Qizhen|34.211|107.714|CN|Shaanxi|0
+Qizhou|30.070|115.342|CN|Hubei|0
+Qizili|30.002|118.741|CN|Anhui|0
 Qiziltepa Shahri|40.025|64.829|UZ|Navoiy Region|0

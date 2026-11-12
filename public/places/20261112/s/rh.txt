@@ -1,4 +1,4 @@
-Rheinland-Pfalz|49.667|7.500|DE||131|r
+Rheinland-Pfalz|49.667|7.500|DE||132|r
 Rhode Island|41.750|-71.500|US||121|r
 Rheinhausen|51.401|6.712|DE|North Rhine-Westphalia|98
 Rheine|52.282|7.441|DE|North Rhine-Westphalia|98
@@ -6,9 +6,12 @@ Rhondda|51.659|-3.449|GB|Wales|97
 Rhodes|36.436|28.222|GR|South Aegean|95
 Rho|45.532|9.040|IT|Lombardy|93
 Rheda-Wiedenbrück|51.850|8.300|DE|North Rhine-Westphalia|93
+Rhode Island|41.556|-71.264|US|Rhode Island|92|f
 Rheinfelden|47.560|7.787|DE|Baden-Wurttemberg|91
+Rhine Falls|47.678|8.615|CH||90|f
 Rheinberg|51.546|6.595|DE|North Rhine-Westphalia|90
 Rhennouch|33.941|10.064|TN|Gabès Governorate|89
+Rhône Glacier|46.605|8.386|CH||89|f
 Rheinbach|50.626|6.949|DE|North Rhine-Westphalia|88
 Rhyl|53.319|-3.492|GB|Wales|88
 Rhawnhurst|40.062|-75.056|US|Pennsylvania|88
@@ -17,6 +20,8 @@ Rheinstetten|48.968|8.307|DE|Baden-Wurttemberg|86
 Rhede|51.835|6.696|DE|North Rhine-Westphalia|86
 Rhoon|51.858|4.422|NL|South Holland|85
 Rhenen|51.959|5.568|NL|Utrecht|85
+Rhodes|36.196|27.961|GR|South Aegean|85|f
+Rheinwaldhorn|46.494|9.040|CH|Grisons|81|f
 Rhodes|-33.827|151.088|AU|New South Wales|81
 Rhiwbina|51.528|-3.214|GB|Wales|81
 Rheinau|48.666|7.937|DE|Baden-Wurttemberg|81
@@ -28,10 +33,13 @@ Rhythm Garden|22.336|114.203|HK|Wong Tai Sin District|79
 Rhymney|51.760|-3.286|GB|Wales|79
 Rhinelander|45.637|-89.412|US|Wisconsin|78
 Rheden|52.005|6.029|NL|Gelderland|77
+Rhine tower|51.218|6.762|DE|North Rhine-Westphalia|77|f
 Rheurdt|51.467|6.467|DE|North Rhine-Westphalia|76
 Rhoose|51.388|-3.354|GB|Wales|76
 Rhenok|27.178|88.647|IN|Sikkim|75
+Rhodope Mountains|41.500|24.500|GR||75|f
 Rhade|51.752|6.936|DE|North Rhine-Westphalia|75
+Rhön Mountains|50.500|10.000|DE||74|f
 Rheenendal|-33.950|22.950|ZA|Western Cape|73
 Rheinzabern|49.118|8.278|DE|Rheinland-Pfalz|73
 Rheinbreitbach|50.617|7.233|DE|Rheinland-Pfalz|73
@@ -39,11 +47,16 @@ Rheinböllen|50.011|7.672|DE|Rheinland-Pfalz|73
 Rhede|53.060|7.269|DE|Lower Saxony|72
 Rheinbrohl|50.500|7.333|DE|Rheinland-Pfalz|72
 Rhuddlan|53.292|-3.470|GB|Wales|71
+Rhaetian Alps|46.500|10.000|CH|Grisons|71|f
 Rheineck|47.466|9.590|CH|Saint Gallen|70
 Rhens|50.281|7.617|DE|Rheinland-Pfalz|70
+Rhodes International Airport|36.405|28.086|GR|South Aegean|69|f
+Rhuddlan Castle|53.289|-3.465|GB|Wales|69|f
+Rhuys Peninsula|47.520|-2.801|FR|Brittany|69|f
 Rhinebeck|41.927|-73.913|US|New York|68
 Rhinau|48.320|7.705|FR|Grand Est|68
 Rhaunen|49.864|7.342|DE|Rheinland-Pfalz|67
+Rhode Island Sound|41.433|-71.216|US|Rhode Island|67|f
 Rhumspringe|51.583|10.300|DE|Lower Saxony|66
 Rhisnes|50.507|4.806|BE|Wallonia|66
 Rhinow|52.751|12.342|DE|Brandenburg|66
@@ -51,11 +64,59 @@ Rhu|56.017|-4.767|GB|Scotland|65
 Rhayader|52.302|-3.511|GB|Wales|65
 Rhome|33.053|-97.472|US|Texas|64
 Rheems|40.130|-76.571|US|Pennsylvania|64
+Rheine-Bentlage Air Base|52.291|7.387|DE|North Rhine-Westphalia|63|f
 Rhäzüns|46.799|9.398|CH|Grisons|62
 Rheden|52.058|9.787|DE|Lower Saxony|62
+Rhobell Fawr|52.815|-3.802|GB|Wales|61|f
+Rhodes Maritsa Airport|36.383|28.109|GR|South Aegean|61|f
+Rhome Meadows Airport|33.150|-97.498|US|Texas|61|f
 Rhade|53.329|9.114|DE|Lower Saxony|61
 Rhodt unter Rietburg|49.270|8.108|DE|Rheinland-Pfalz|61
 Rhodhiss|35.774|-81.431|US|North Carolina|60
 Rhosneigr|53.232|-4.515|GB|Wales|60
+Rhode|53.352|-7.202|IE|Leinster|58
+Rhein-Main-Donau-Kanal|48.910|11.906|DE|Bavaria|58|f
+Rhenen Ouwehands Dierenpark|51.958|5.590|NL|Utrecht|58|f
+Rho Islands|-64.289|-62.988|AQ||58|f
+Rhode River|38.865|-76.515|US|Maryland|58|f
+Rhyolite Islands|-69.653|-68.578|AQ||58|f
+Rhigos|51.742|-3.562|GB|Wales|57
+Rhosgadfan|53.090|-4.233|GB|Wales|56
+Rheezerveen|52.566|6.525|NL|Overijssel|56
+Rhyll|-38.464|145.299|AU|Victoria|55
+Rhydymwyn|53.193|-3.190|GB|Wales|55
+Rhayader Castle|52.301|-3.514|GB|Wales|54|f
+Rheban Castle|53.033|-7.033|IE|Leinster|54|f
+Rhinelander-Oneida County Airport|45.627|-89.463|US|Wisconsin|54|f
+Rhino Peak|58.559|-134.436|US|Alaska|54|f
+Rhododendron State Park|42.785|-72.191|US|New Hampshire|54|f
+Rhenoy|51.883|5.153|NL|Gelderland|54
+Rhamnus, Mount|-68.182|-66.828|AQ||49|f
+Rhea Corner|-71.880|-68.787|AQ||49|f
+Rheinisches Landesmuseum Bonn|50.732|7.093|DE|North Rhine-Westphalia|49|f
+Rheinisches Schiefergebirge|51.000|7.833|DE|North Rhine-Westphalia|49|f
+Rhinog Fach|52.824|-3.983|GB|Wales|49|f
+Rhinog Fawr|52.842|-3.995|GB|Wales|49|f
+Rhode Island|38.000|-121.574|US|California|49|f
+Rhodeswood Reservoir|53.479|-1.932|GB|England|49|f
+Rhodiapolis|36.389|30.280|TR|Antalya|49|f
+Rhone Glacier|-77.667|162.200|AQ||49|f
+Rhossili Bay|51.583|-4.300|GB|Wales|49|f
+Rhu More|58.067|-5.400|GB|Scotland|49|f
+Rhyolite Head|-62.171|-58.592|AQ||49|f
 Rhemes-Saint-Georges|45.652|7.154|IT|Aosta Valley|46
 Rhemes-Notre-Dame|45.570|7.119|IT|Aosta Valley|41
+Rhamnous|38.218|24.028|GR|Attica|40|f
+Rheinisches Landesmuseum Trier|49.752|6.644|DE|Rheinland-Pfalz|40|f
+Rheinpark|50.949|6.976|DE|North Rhine-Westphalia|40|f
+Rhesus Glacier|-64.526|-63.283|AQ||40|f
+Rhiwderin Camp|51.584|-3.064|GB|Wales|40|f
+Rhodes Head|-74.700|163.050|AQ||40|f
+Rhodes Park|33.505|-86.784|US|Alabama|40|f
+Rhodes Peak|-83.333|167.783|AQ||40|f
+Rhodes University|-33.314|26.520|ZA|Eastern Cape|40|f
+Rhododendron Lake|49.189|-124.291|CA|British Columbia|40|f
+RHS Garden, Wisley|51.314|-0.474|GB|England|40|f
+Rhee Beru|-8.418|117.236|ID|West Nusa Tenggara|0
+Rheinmünster|48.752|8.009|DE|Baden-Wurttemberg|0
+Rhoden|51.473|9.011|DE|Hesse|0

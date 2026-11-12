@@ -8,6 +8,7 @@ Sabha|27.038|14.428|LY|Sabha District|103
 Sabará|-19.886|-43.807|BR|Minas Gerais|102
 Sabanalarga|10.631|-74.922|CO|Atlántico|100
 Sabt Alalayah|19.577|41.964|SA|'Asir Region|100
+Sabiha Gökçen International Airport|40.899|29.309|TR|Istanbul|99|f
 Sablayan|12.835|120.769|PH|Mimaropa|99
 Şabrātah|32.793|12.488|LY|Az Zawiyah|98
 Sabaneta|6.152|-75.617|CO|Antioquia|98
@@ -32,6 +33,7 @@ Sabunçu|40.443|49.948|AZ|Baki|86
 Sabaudia|41.300|13.028|IT|Lazio|86
 Sabalpur|25.561|85.270|IN|Bihar|86
 Sabie|-25.100|30.780|ZA|Mpumalanga|86
+Sabadell Airport|41.521|2.105|ES|Catalonia|85|f
 Sabana Grande de Boyá|18.945|-69.793|DO|Monte Plata Province|85
 Sabanitas|9.345|-79.805|PA|Colón|84
 Sabou|12.067|-2.233|BF|Centre-Ouest|84
@@ -42,6 +44,7 @@ Saboeiro|-6.542|-39.907|BR|Ceará|83
 Sabanilla|9.947|-84.034|CR|San José|82
 Sabaur|25.243|87.045|IN|Bihar|82
 Sabinov|49.103|21.099|SK|Prešov Region|82
+sabīl wa-kuttāb ʻAbd al-Raḥmān katkhudā|30.051|31.262|EG|Cairo|81|f
 Sabana Yegua|18.717|-71.017|DO|Azua Province|81
 Sabiñánigo|42.519|-0.366|ES|Aragon|80
 Săbăoani|47.011|26.865|RO|Neamț County|80
@@ -53,8 +56,11 @@ Sabi|13.233|-14.200|GM|Upper River|78
 Sabancuy|18.971|-91.179|MX|Campeche|77
 Sabroom|23.002|91.724|IN|Tripura|77
 Sabāthu|30.975|76.991|IN|Himachal Pradesh|77
+Saba Island|17.630|-63.241|BQ|Saba|76|f
 Sabrosa|41.267|-7.576|PT|Vila Real|76
 Sabana Seca|18.427|-66.185|PR|Toa Baja|76
+Saba Island|18.305|-65.000|VI|Saint Thomas Island|75|f
+Sabzevar Airport|36.168|57.595|IR|Razavi Khorasan|75|f
 Şabḩā|32.327|36.502|JO|Mafraq|75
 Sabang|14.695|120.251|PH|Central Luzon|74
 Sabana Iglesia|19.321|-70.760|DO|Santiago Province|74
@@ -62,6 +68,7 @@ Sabino|-21.460|-49.578|BR|São Paulo|74
 Sabang|12.733|123.933|PH|Bicol Region|74
 Sabana Grande de Palenque|18.263|-70.148|DO|San Cristóbal|74
 Sabattus|44.120|-70.108|US|Maine|73
+Sable Island|43.933|-59.928|CA|Nova Scotia|73|f
 Sabo|23.215|81.567|IN|Madhya Pradesh|73
 Sabréguhé|6.295|-6.743|CI|Sassandra-Marahoue|72
 Sabir|40.586|48.707|AZ|Şamaxı|72
@@ -88,12 +95,15 @@ Sablan|16.493|120.495|PH|Cordillera|68
 Saba Saba|-0.876|37.143|KE|Murang'A|68
 Sabang|13.722|123.578|PH|Bicol Region|67
 Sabana Buey|18.274|-70.524|DO|Peravia|67
+Sabetta International Airport|71.237|72.153|RU|Yamalo-Nenets|67|f
+Sabinio|-1.386|29.589|CD||67|f
 Saban|20.035|-88.539|MX|Quintana Roo|67
 Sabasa|47.202|25.818|RO|Neamț County|67
 Sa Bagan|16.489|96.063|MM|Yangon|66
 Saba|13.516|-16.049|GM|North Bank|66
 Sabanillas|17.000|-99.703|MX|Guerrero|66
 Sabana|18.461|-66.359|PR|Vega Baja|66
+Sabineøyane|80.274|21.204|SJ||65|f
 Sabana Eneas|18.086|-67.081|PR|San Germán|65
 Sabran|44.151|4.548|FR|Occitanie|65
 Sabana Hoyos|18.434|-66.614|PR|Arecibo|65
@@ -120,11 +130,61 @@ Sabivka|48.579|39.145|UA|Luhansk|61
 Sabanas de Xalostoc|20.222|-97.535|MX|Veracruz|61
 Sablonceaux|45.719|-0.888|FR|New Aquitaine|61
 Sabanilla|10.074|-84.216|CR|Alajuela Province|60
+Sabana Grande|18.157|-99.549|MX|Guerrero|60
+Saburovshchino|54.427|35.652|RU|Kaluga Oblast|60
+Sabatynivka|48.178|30.184|UA|Kirovohrad|59
+Sabana Abajo|14.600|-86.583|HN|Olancho Department|59
+Sababurg|51.542|9.537|DE|Hesse|58|f
+Sabari Malai|9.490|77.071|IN|Kerala|58|f
+Sabi Kyun|11.886|98.265|MM|Tanintharyi Region|58|f
+Sabin Dam|44.708|-85.623|US|Michigan|58|f
+Sabine Ø|74.595|-18.945|GL||58|f
+Sable Island Airport|43.930|-59.978|CA|Nova Scotia|58|f
+Sable Pinnacles|-64.680|-62.555|AQ||58|f
+Sabtang Island|20.310|121.866|PH|Cagayan Valley|58|f
+Săbișa|47.729|23.329|RO|Maramureş|58
+Sabana Westpunt|12.370|-69.154|CW||58
+Sabana de Taborda 1ra. Sección|19.331|-100.003|MX|México|58
+Săbolciu|47.074|22.153|RO|Bihor County|58
+Sabino de Santa Rosa|20.418|-101.119|MX|Guanajuato|58
 Sabaino|-14.313|-72.945|PE|Apurímac Department|57
+Sabangia|44.976|28.883|RO|Tulcea County|57
+Săbed|46.664|24.446|RO|Mureș County|57
+Sabino Chico|20.338|-100.023|MX|Querétaro|57
+Sablonnières|48.876|3.297|FR|Île-de-France|57
+Sabino|21.319|-98.969|MX|San Luis Potosí|56
+Sabana del Madroño (El Madroño)|19.349|-100.048|MX|México|56
+Sabino de San Ambrosio|20.919|-99.970|MX|Querétaro|56
+Sabacché|20.315|-89.028|MX|Yucatán|56
+Sabanita|20.265|-97.555|MX|Veracruz|56
+Sabi|8.179|-2.880|CI|Zanzan District|56
+Sabino Buenavista|20.077|-101.588|MX|Michoacán|56
+Sabbioni-Zampine|44.952|11.522|IT|Veneto|55
 Sabana Grande|7.881|-80.638|PA|Herrera Province|55
+Sabina|40.901|14.821|IT|Campania|55
+Sabina Grande|20.375|-99.625|MX|Hidalgo|55
+Sabula|42.071|-90.174|US|Iowa|55
+Sabin|46.780|-96.653|US|Minnesota|55
+Sabaudia|50.471|23.441|PL|Lublin|55
+Sabinillo Ñumí|17.454|-97.780|MX|Oaxaca|55
+Săbiești|44.683|25.759|RO|Dâmbovița County|55
+Şabanköy|40.277|43.088|TR|Kars Province|55
 Sabana Grande|7.839|-80.366|PA|Los Santos Province|54
+Sabari Island|-11.122|153.097|PG|Milne Bay Province|54|f
+Sabine Lake|29.886|-93.842|US|Texas|54|f
+Sabinebukta|80.243|21.016|SJ||54|f
 Sabnie|52.501|22.307|PL|Mazovia|51
 Saborsko|44.983|15.478|HR|Karlovac|50
+Sabi Forest Park|13.283|-14.200|GM|Upper River|49|f
+Sabine Glacier|-63.904|-59.810|AQ||49|f
+Sabrina Island|-66.950|163.283|AQ||49|f
+Sabrina Ridge|-80.150|156.333|AQ||49|f
+Sabina Park|17.978|-76.783|JM|Kingston|40|f
+Sabine Bay|75.668|-109.421|CA|Nunavut|40|f
+Sabine Hill|36.338|-82.251|US|Tennessee|40|f
+Sabine Island|67.634|-86.616|CA|Nunavut|40|f
+Sabine National Wildlife Refuge|29.902|-93.579|US|Louisiana|40|f
+Saburro Peak|-80.333|155.017|AQ||40|f
 Sabbia|45.857|8.236|IT|Piedmont|36
 Sa Bot|15.210|100.831|TH|Lopburi|0
 Saba Yoi|6.617|100.952|TH|Songkhla|0
@@ -138,6 +198,7 @@ Sabanilla|-3.966|-79.057|EC|Zamora Chinchipe|0
 Sabanilla|-1.843|-80.222|EC|Guayas|0
 Sabbah|34.903|36.237|SY|Tartus|0
 Şabbūrah|35.156|37.209|SY|Hama|0
+Sabitak|-7.088|113.633|ID|East Java|0
 Sabon Birni|13.564|6.324|NG|Sokoto|0
 Sabon Garin Nangere|11.849|11.073|NG|Yobe State|0
 Sabon Wuse|9.334|7.261|NG|Niger State|0

@@ -45,9 +45,9 @@ Bégoua|4.454|18.535|CF|Ombella-M'Poko|108
 Begusarai|25.419|86.134|IN|Bihar|108
 Beibei|29.827|106.436|CN|Chongqing|108
 Berbera|10.440|45.014|SO|Woqooyi Galbeed|108
+Berat County|40.633|20.083|AL||107|r
 Bexley|51.442|0.149|GB|England|107
 Beni Mellal|32.337|-6.350|MA|Beni Mellal-Khenifra|106
-Berat County|40.633|20.083|AL||106|r
 Beiliu|22.707|110.349|CN|Guangxi|106
 Benfica|-8.944|13.164|AO|Luanda|106
 Beipiao|41.792|120.779|CN|Liaoning|106
@@ -71,6 +71,7 @@ Bertoua|4.577|13.685|CM|East|103
 Bettiah|26.802|84.503|IN|Bihar|102
 Besançon|47.249|6.018|FR|Bourgogne-Franche-Comté|102
 Bento Gonçalves|-29.171|-51.519|BR|Rio Grande do Sul|102
+Bering Strait|65.942|-168.879|RU||102|f
 Bến Tre|10.241|106.376|VN|Vinh Long|102
 Bemowo|52.255|20.908|PL|Mazovia|102
 Beppu|33.279|131.498|JP|Oita|102
@@ -82,8 +83,8 @@ Bergedorf|53.485|10.229|DE|Hamburg|102
 Berkane|34.920|-2.320|MA|Oriental|102
 Beaumont|30.086|-94.102|US|Texas|101
 Beau Bassin-Rose Hill|-20.233|57.466|MU|Plaines Wilhems|101
-Bender|46.832|29.477|MD|Bender Municipality|101
 Belize District|17.550|-88.417|BZ||101|r
+Bender|46.832|29.477|MD|Bender Municipality|101
 Bedford|52.135|-0.466|GB|England|101
 Berdyansk|46.756|36.788|UA|Zaporizhzhia|101
 Bergisch Gladbach|50.986|7.133|DE|North Rhine-Westphalia|101
@@ -92,9 +93,8 @@ Betūl|21.901|77.902|IN|Madhya Pradesh|100
 Bendigo|-36.758|144.280|AU|Victoria|100
 Belawan|3.776|98.683|ID|North Sumatra|100
 Becontree|51.553|0.129|GB|England|100
+Beijing Capital International Airport|40.080|116.585|CN|Beijing|100|f
 Bekobod|40.221|69.270|UZ|Tashkent Region|100
 Beshariq|40.436|70.610|UZ|Fergana|100
 Ben Guerir|32.241|-7.954|MA|Marrakesh-Safi|100
 Beaverton|45.487|-122.804|US|Oregon|100
-Behshahr|36.692|53.553|IR|Māzandarān|100
-Beni Mered|36.524|2.861|DZ|Blida|99

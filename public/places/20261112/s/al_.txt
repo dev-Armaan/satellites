@@ -1,8 +1,8 @@
 Algeria|28.000|3.000|DZ||154|c
 Alexandria|31.202|29.916|EG|Alexandria|134
 Alberta|52.283|-117.469|CA||131|r
-Alagoas|-9.583|-36.417|BR||130|r
 Alabama|32.750|-86.750|US||130|r
+Alagoas|-9.583|-36.417|BR||130|r
 Algiers|36.732|3.087|DZ|Algiers|127
 Albania|41.000|20.000|AL||127|c
 Alborz Province|36.011|50.810|IR||127|r
@@ -15,7 +15,7 @@ Al Ain City|24.192|55.761|AE|Abu Dhabi|119
 Alīgarh|27.881|78.075|IN|Uttar Pradesh|118
 Al Ḩudaydah|14.798|42.955|YE|Al Hudaydah|117
 Álvaro Obregón|19.359|-99.203|MX|Mexico City|117
-Alaska|64.000|-150.000|US||116|r
+Alaska|64.000|-150.000|US||117|r
 Al Aḩmadī|29.077|48.084|KW|Al Aḩmadī|116
 Al Mansurah|31.036|31.381|EG|Dakahlia|116
 Al Maḩallah al Kubrá|30.971|31.167|EG|Gharbia|115
@@ -26,10 +26,10 @@ Al Khuşūş|30.153|31.315|EG|Qalyubia|114
 Al Batinah North|24.000|56.750|OM||114|r
 Al-Qadisiyah|31.917|45.083|IQ||113|r
 Al Hillah|32.464|44.420|IQ|Babil|113
+Alba County|46.068|23.572|RO||113|r
 Al Kharj|24.155|47.335|SA|Riyadh Region|113
 Al Ḩasakah|36.502|40.748|SY|Al-Hasakah|113
 Alor Setar|6.121|100.360|MY|Kedah|112
-Alba County|46.068|23.572|RO||112|r
 Alta Verapaz|15.667|-90.000|GT||112|r
 Al Hoceïma|35.252|-3.937|MA|Tanger-Tetouan-Al Hoceima|112
 Alto Paraná Department|-25.500|-54.833|PY||112|r
@@ -83,12 +83,12 @@ Alexandria|38.805|-77.047|US|Virginia|104
 Al Miqdādīyah|33.979|44.937|IQ|Diyala|104
 Al Ḩawāmidīyah|29.900|31.250|EG|Giza|104
 Alto Hospicio|-20.269|-70.105|CL|Tarapacá|103
+Altai|50.733|87.017|RU||103|r
 Al’met’yevsk|54.904|52.318|RU|Tatarstan Republic|103
 Al Hindīyah|32.542|44.225|IQ|Karbala|103
 Al-'Ubūr|30.229|31.481|EG|Qalyubia|103
 Altamira|-3.203|-52.206|BR|Pará|103
 Al Qurnah|31.015|47.434|IQ|Basra|103
-Altai|50.733|87.017|RU||102|r
 Al Bāb|36.371|37.516|SY|Aleppo|102
 Al Ajaylat|32.757|12.376|LY|An Nuqat al Khams|102
 Aley|33.805|35.600|LB|Mount Lebanon|102

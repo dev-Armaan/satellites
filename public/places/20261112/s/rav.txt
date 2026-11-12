@@ -2,6 +2,7 @@ Ravenna|44.413|12.201|IT|Emilia-Romagna|98
 Ravensburg|47.782|9.611|DE|Baden-Wurttemberg|94
 Rāvar|31.266|56.805|IR|Kerman|92
 Rāvu|22.637|75.815|IN|Madhya Pradesh|91
+Ravensbrück concentration camp|53.191|13.168|DE|Brandenburg|90|f
 Rāver|21.248|76.035|IN|Maharashtra|89
 Ravānsar|34.715|46.653|IR|Kermanshah Province|88
 Raval|21.919|69.482|IN|Gujarat|86
@@ -10,6 +11,7 @@ Ravapara|22.796|70.826|IN|Gujarat|82
 Ravanusa|37.267|13.968|IT|Sicily|82
 Ravenna|41.158|-81.242|US|Ohio|81
 Rava-Ruska|50.232|23.622|UA|Lviv|79
+Ravenna Airport|44.364|12.225|IT|Emilia-Romagna|78|f
 Raviart|7.404|-4.887|CI|Lacs District|78
 Ravne na Koroškem|46.543|14.971|SI|Municipality of Ravne na Koroškem|77
 Ravenshead|53.087|-1.160|GB|England|75
@@ -22,6 +24,8 @@ Ravenel|32.763|-80.250|US|South Carolina|68
 Ravda|42.642|27.677|BG|Burgas|68
 Ravensworth|38.804|-77.221|US|Virginia|68
 Raven|37.087|-81.855|US|Virginia|67
+Ravahere|-18.230|-142.149|PF|Tuamotu-Gambier Islands|67|f
+Ravenga Island|-13.788|167.551|VU|Torba|67|f
 Ravesht-e Bozorg|37.373|46.111|IR|East Azerbaijan|67
 Ravulaparru|16.793|81.427|IN|Andhra Pradesh|66
 Ravnje|44.943|19.423|RS|Vojvodina|65
@@ -35,14 +39,50 @@ Ravenstein|51.797|5.650|NL|North Brabant|63
 Ravenshoe|-17.609|145.484|AU|Queensland|63
 Ravenna|41.026|-98.913|US|Nebraska|63
 Ravenna|43.189|-85.937|US|Michigan|62
+Ravensbrück Concentration Camp|53.191|13.165|DE|Brandenburg|61|f
+Ravna Island|43.624|15.609|HR|Šibenik-Knin|61|f
+Rävskär|59.955|22.068|FI|Southwest Finland|61|f
 Ravensdale|47.352|-121.984|US|Washington|61
 Ravne|46.414|15.061|SI|Municipality of Šoštanj|61
 Ravenel|49.515|2.502|FR|Hauts-de-France|61
 Ravières|47.735|4.228|FR|Bourgogne-Franche-Comté|60
+Raven Rocks|39.140|-77.835|US|West Virginia|58|f
+Ravnets|42.667|24.867|BG|Plovdiv|58|f
+Raveau|47.186|3.077|FR|Bourgogne-Franche-Comté|57
+Ravel|45.778|3.396|FR|Auvergne-Rhône-Alpes|57
+Ravine|40.575|-76.404|US|Pennsylvania|56
 Ravelsbach|48.550|15.850|AT|Lower Austria|56
 Raviscanina|41.371|14.243|IT|Campania|56
+Ravno Polje|44.690|19.066|BA|Srpska|56
+Ravosa-Magredis|46.152|13.301|IT|Friuli Venezia Giulia|56
+Ravenna|37.685|-83.953|US|Kentucky|55
+Ravnsnæs|55.863|12.456|DK|Capital Region|55
+Rāvanj|34.170|50.707|IR|Markazi|55
+Ravanica|43.748|20.884|RS|Central Serbia|55
+Ravia|34.242|-96.751|US|Oklahoma|54
+Ravel Peak|-69.908|-71.310|AQ||54|f
+Ravelin Ridge|-61.185|-54.087|AQ||54|f
+Ravensthorpe|-33.790|120.200|AU|Western Australia|54|f
+Ravine Gardens State Park|29.634|-81.645|US|Florida|54|f
+Ravinia Park|42.158|-87.777|US|Illinois|54|f
+Ravna Planina|43.529|20.757|RS||54|f
+Ravnsbjerg|55.532|8.439|DK|South Denmark|54
+Ravensthorpe|-33.583|120.047|AU|Western Australia|54
+Ravengiersburg|49.933|7.483|DE|Rheinland-Pfalz|54
 Raveo|46.434|12.872|IT|Friuli Venezia Giulia|52
 Ravascletto|46.525|12.921|IT|Friuli Venezia Giulia|51
+Raven Lake|48.052|-79.550|CA|Ontario|49|f
+Ravensbourne National Park|-27.364|152.185|AU|Queensland|49|f
+Ravna Gora|45.517|17.467|HR|Požega-Slavonia|49|f
+Raversbeuren|49.950|7.233|DE|Rheinland-Pfalz|45
+Ravalli County Museum|46.244|-114.158|US|Montana|40|f
+Ravda Peak|-62.648|-60.117|AQ||40|f
+Raven Rock State Park|35.473|-78.907|US|North Carolina|40|f
+Ravens Mountains|-80.333|155.417|AQ||40|f
+Ravensburg State Park|41.110|-77.243|US|Pennsylvania|40|f
+Ravenswood Park|42.596|-70.695|US|Massachusetts|40|f
+Ravensworth Castle|54.464|-1.782|GB|England|40|f
+Ravine Park|42.276|-87.835|US|Illinois|40|f
 Ravenstone|52.149|-0.759|GB|England|0
 Ravno|42.887|17.966|BA|Federation of B&H|0
 Ravon|39.977|71.135|UZ|Fergana|0

@@ -44,9 +44,11 @@ Panachikkad|9.530|76.541|IN|Kerala|93
 Panipat Taraf Ansar|29.412|76.955|IN|Haryana|93
 Panji|-7.725|114.100|ID|East Java|93
 Pánuco|22.054|-98.182|MX|Veracruz|92
+Pantheon|41.899|12.477|IT|Lazio|92|f
 Pantubig|14.968|120.955|PH|Central Luzon|92
 Panama City|30.159|-85.660|US|Florida|92
 Pandan|11.745|122.100|PH|Western Visayas|91
+Panthéon|48.846|2.346|FR|Île-de-France|91|f
 Panjakent|39.495|67.609|TJ|Sughd|91
 Pangururan|2.608|98.696|ID|North Sumatra|91
 Pandaan|-7.653|112.688|ID|East Java|91
@@ -97,6 +99,7 @@ Panjāb|34.388|67.023|AF|Bamyan|83
 Panama City Beach|30.177|-85.805|US|Florida|82
 Panania|-33.954|150.997|AU|New South Wales|82
 Pānsemāl|21.660|74.699|IN|Madhya Pradesh|82
+Pantnagar Airport|29.033|79.474|IN|Uttar Pradesh|81|f
 Pankhedi|23.347|76.836|IN|Madhya Pradesh|81
 Panamaram|11.740|76.074|IN|Kerala|81
 Panapākkam|12.921|79.566|IN|Tamil Nadu|81
@@ -107,6 +110,7 @@ Pāndātarai|22.187|81.328|IN|Chhattisgarh|81
 Pangody|65.850|74.486|RU|Yamalo-Nenets|81
 Panyam|9.408|9.215|NG|Plateau State|81
 Panacan|9.246|118.408|PH|Mimaropa|80
+Pangong Tso|33.716|79.346|IN||80|f
 Pantano Grande|-30.191|-52.374|BR|Rio Grande do Sul|80
 Panazol|45.839|1.310|FR|New Aquitaine|80
 Pangkor|4.213|100.575|MY|Perak|80
@@ -117,14 +121,18 @@ Panrra|23.800|86.723|IN|Jharkhand|80
 Panamarattuppatti|11.562|78.165|IN|Tamil Nadu|79
 Pannaipuram|9.866|77.284|IN|Tamil Nadu|79
 Panpuli|9.021|77.250|IN|Tamil Nadu|79
+Pančevo Airport|44.902|20.635|RS|Vojvodina|79|f
 Panciu|45.900|27.083|RO|Vrancea|79
 Pannaikadu|10.279|77.628|IN|Tamil Nadu|79
 Pangani|-5.425|38.975|TZ|Tanga|78
+Pangkor Airport|4.245|100.553|MY|Perak|78|f
 Pantai Belimbing|2.344|102.257|MY|Melaka|78
 Panj|37.236|69.099|TJ|Khatlon Province|78
 Panguma|8.185|-11.133|SL|Eastern Province|78
 Pangjia|34.287|104.281|CN|Gansu|78
 Panteleymonivka|48.202|37.974|UA|Donetsk|78
+Pangsuma Airport|0.836|112.937|ID|West Kalimantan|78|f
+Panjgur Airport|26.955|64.133|PK|Balochistan|78|f
 Panotla|19.316|-98.270|MX|Tlaxcala|77
 Panchet|23.688|86.757|IN|Jharkhand|77
 Pāndamangalam|11.103|77.967|IN|Tamil Nadu|77
@@ -142,6 +150,7 @@ Panchimalco|13.613|-89.180|SV|San Salvador Department|77
 Panningen|51.327|5.979|NL|Limburg|77
 Pangoa|-12.117|-73.000|PE|Cuzco Department|76
 Pan de Azúcar|-34.779|-55.236|UY|Maldonado|76
+Panatag Shoal|15.150|117.765|PH|Central Luzon|76|f
 Pansol|13.887|121.243|PH|Calabarzon|76
 Pangu|52.717|123.817|CN|Heilongjiang|76
 Pantelleria|36.828|11.946|IT|Sicily|76
@@ -149,6 +158,8 @@ Panambí|-27.722|-54.915|AR|Misiones|76
 Pantabangan|15.811|121.144|PH|Central Luzon|75
 Pănet|46.555|24.470|RO|Mureș County|75
 Pantigliate|45.435|9.352|IT|Lombardy|75
+Panan-awan Airport|10.187|124.783|PH|Eastern Visayas|75|f
+Pangnirtung Airport|66.145|-65.714|CA|Nunavut|75|f
 Pantay Na Matanda|14.117|121.121|PH|Calabarzon|75
 Pansoy|13.182|122.600|PH|Calabarzon|75
 Pana|39.389|-89.080|US|Illinois|75
@@ -165,6 +176,7 @@ Panzano|45.796|13.533|IT|Friuli Venezia Giulia|74
 Panzhuang|39.339|117.468|CN|Tianjin|74
 Pante Makasar|-9.200|124.383|TL|Oecusse|73
 Pantanal|-27.610|-48.516|BR|Santa Catarina|73
+Panaon|10.051|125.213|PH|Eastern Visayas|73|f
 Panuaya|20.195|-99.271|MX|Hidalgo|73
 Paniqui|12.453|123.382|PH|Bicol Region|73
 Pāndoh|31.669|77.054|IN|Himachal Pradesh|73
@@ -182,12 +194,14 @@ Pantla|17.739|-101.636|MX|Guerrero|72
 Panganiban|13.900|124.298|PH|Bicol Region|72
 Pangbourne|51.484|-1.085|GB|England|72
 Páno Polemídia|34.706|32.993|CY|Limassol|72
+Pantokrátor|39.487|19.871|GR|Ionian Islands|71|f
 Panhāla|16.812|74.110|IN|Maharashtra|71
 Pandu|26.236|119.450|CN|Fujian|71
 Pantanal|21.428|-104.861|MX|Nayarit|70
 Panggezhuang|39.805|117.166|CN|Tianjin|70
 Pandan Niog|6.228|120.563|PH|Autonomous Region in Muslim Mindanao|70
 Pantón|42.517|-7.600|ES|Galicia|70
+Panachaïkó|38.206|21.877|GR|West Greece|70|f
 Pandakan|5.989|121.166|PH|Autonomous Region in Muslim Mindanao|70
 Pan Set|23.049|94.715|MM|Sagaing Region|70
 Pannes|48.019|2.668|FR|Centre-Val de Loire|70
@@ -209,6 +223,9 @@ Panukulan|14.934|121.817|PH|Calabarzon|69
 Panguiranan|12.070|123.319|PH|Bicol Region|69
 Pangulayan|13.040|121.448|PH|Mimaropa|69
 Pangal Sur|16.600|121.670|PH|Cagayan Valley|69
+Panarea|38.637|15.068|IT|Sicily|69|f
+Panorama Point|41.011|-104.030|US|Nebraska|69|f
+Panzhihua Bao'anying Airport|26.538|101.794|CN|Sichuan|69|f
 Panganiban|16.008|120.775|PH|Ilocos|69
 Panique|12.480|122.015|PH|Mimaropa|69
 Panabingan|15.377|120.765|PH|Central Luzon|69
@@ -245,6 +262,12 @@ Panayacan|11.760|122.224|PH|Western Visayas|67
 Paniówki|50.231|18.781|PL|Silesia|67
 Panan|15.213|120.027|PH|Central Luzon|67
 Panorama Village|30.381|-95.494|US|Texas|67
+Panayır Adası|37.327|27.331|TR|Aydın|67|f
+Pangong Range|33.621|78.673|IN||67|f
+Panguipulli Airport|-39.656|-72.359|CL|Los Ríos Region|67|f
+Pantaron Mountain Range|7.743|125.430|PH|Northern Mindanao|67|f
+Pantelleria Airport|36.817|11.969|IT|Sicily|67|f
+Pantelleria Island|36.783|12.000|IT|Sicily|67|f
 Pancol|10.871|119.416|PH|Mimaropa|67
 Panales Jamaica (Cañones)|20.296|-100.823|MX|Guanajuato|67
 Panschwitz-Kuckau|51.234|14.198|DE|Saxony|67
@@ -271,6 +294,7 @@ Pana|-1.672|12.630|GA|Ogooué-Lolo|66
 Pancalieri|44.833|7.586|IT|Piedmont|66
 Panzarai|9.423|-3.105|CI|Zanzan District|65
 Pantelimon de Jos|44.573|28.386|RO|Constanța County|65
+Panther Mountain|42.056|-74.395|US|New York|65|f
 Pancheve|48.741|31.854|UA|Kirovohrad|65
 Pantepec|17.188|-93.050|MX|Chiapas|65
 Pangai|-19.815|-174.354|TO|Haapai|65
@@ -281,6 +305,10 @@ Pandah|5.279|-4.530|CI|Lagunes District|64
 Panker|54.333|10.567|DE|Schleswig-Holstein|64
 Pangnirtung|66.146|-65.700|CA|Nunavut|64
 Panguitch|37.823|-112.436|US|Utah|63
+Panama Pacific International Airport|8.919|-79.600|PA|Panamá|63|f
+Pangaíon Óros|40.914|24.092|GR|East Macedonia and Thrace|63|f
+Pangavini Island|-6.675|39.239|TZ|Dar es Salaam Region|63|f
+Pankisis Kheoba|42.135|45.286|GE||63|f
 Pantalla|42.873|12.399|IT|Umbria|63
 Pângărăcior|46.933|26.217|RO|Neamț County|63
 Panama|35.167|-94.672|US|Oklahoma|63
@@ -294,25 +322,165 @@ Panighina|44.172|12.163|IT|Emilia-Romagna|62
 Panzano in Chianti|43.544|11.314|IT|Tuscany|61
 Pánormos|35.418|24.691|GR|Crete|61
 Pandora|40.948|-83.961|US|Ohio|61
+Pan de Guajaibón|22.791|-83.360|CU|Artemisa|61|f
+Panamint Range|36.168|-117.074|US|California|61|f
+Panay|11.172|122.474|PH|Western Visayas|61|f
+Pančicev Vrh|43.269|20.825|RS|Central Serbia|61|f
+Pangaimotu Island|-18.681|-174.005|TO|Vavau|61|f
+Pangkor Island|4.228|100.560|MY|Perak|61|f
+Panguitch Municipal Airport|37.849|-112.392|US|Utah|61|f
+Panobolon Island|10.405|122.579|PH|Western Visayas|61|f
+Pantano de Entrepeñas|40.557|-2.716|ES|Castille-La Mancha|61|f
+Panther Peak|44.098|-74.132|US|New York|61|f
+Panüelerkopf|47.067|9.680|AT|Vorarlberg|61|f
+Panum Crater|37.930|-119.045|US|California|61|f
 Panora|41.692|-94.363|US|Iowa|61
 Pantrokin|6.556|-8.336|CI|Montagnes|61
 Pancé|47.881|-1.659|FR|Brittany|60
 Pánuco|22.876|-102.541|MX|Zacatecas|60
 Pannecé|47.485|-1.240|FR|Pays de la Loire|60
+Panagioúda|39.147|26.529|GR|North Aegean|60
+Pandėlys|56.026|25.226|LT|Panevėžys|60
+Panaca|37.791|-114.389|US|Nevada|60
+Páno Léfkara|34.817|33.283|CY|Larnaka|60
+Pannawonica|-21.639|116.322|AU|Western Australia|60
+Pantokrátor|37.732|20.828|GR|Ionian Islands|59
+Panda|-11.875|43.393|KM|Grande Comore|59
+Panic|47.205|22.993|RO|Sălaj County|59
+Panivanivka|49.588|33.233|UA|Poltava|59
+Panyang|26.549|118.831|CN|Fujian|59
+Panacaxtlán|21.149|-98.455|MX|Hidalgo|59
 Panni|41.221|15.276|IT|Apulia|59
+Pante Malakar|6.684|99.644|TH|Satun|59
+Pantoja|18.876|-100.018|MX|México|59
+Panfield|51.899|0.521|GB|England|58
+Panoli|21.531|72.964|IN|Gujarat|58
+Panacea|30.037|-84.388|US|Florida|58
+Pancho Villa|30.802|-108.645|MX|Chihuahua|58
+Pange|49.086|6.354|FR|Grand Est|58
+Panayo|8.252|-3.261|CI|Zanzan District|58
+Pancake Rock|52.934|-169.027|US|Alaska|58|f
+Panch Pokhari̇̄|28.042|85.718|NP|Bagmati Province|58|f
+Pangborn Field|47.399|-120.207|US|Washington|58|f
+Pangkalan Bun / Iskandar Airport|-2.703|111.671|ID|Central Kalimantan|58|f
+Panguan Island|4.710|119.031|PH|Autonomous Region in Muslim Mindanao|58|f
+Panhandle Hills|41.769|-121.657|US|California|58|f
+Panjiakou Shuiku|40.432|118.278|CN|Hebei|58|f
+Pannerdensch Kanaal|51.890|6.025|NL|Gelderland|58|f
+Panoche Hills|36.645|-120.732|US|California|58|f
+Panola Mountain|33.635|-84.170|US|Georgia|58|f
+Panorama Hills|35.183|-119.718|US|California|58|f
+Pantà de Darinus - Boadella|42.349|2.823|ES|Catalonia|58|f
+Pantà de Sau|41.974|2.385|ES|Catalonia|58|f
+Panther Mountain|51.512|-115.668|CA|Alberta|58|f
+Panbeh Chūleh-ye Bālā|36.718|53.123|IR|Māzandarān|58
+Panticosa|42.724|-0.282|ES|Aragon|58
 Pănătău|45.321|26.394|RO|Buzău County|58
+Panaghia|44.174|23.704|RO|Dolj|58
+Panzendorf|46.755|12.467|AT|Tyrol|58
+Panales|20.876|-99.997|MX|Querétaro|58
+Pantelitz|54.301|12.969|DE|Mecklenburg-Vorpommern|58
 Panchià|46.286|11.541|IT|Trentino-Alto Adige|58
+Panten|53.664|10.619|DE|Schleswig-Holstein|57
 Paniza|41.284|-1.212|ES|Aragon|57
+Panayía|40.731|24.728|GR|East Macedonia and Thrace|57
+Panicarola|43.069|12.086|IT|Umbria|57
+Pănade|46.225|23.959|RO|Alba County|57
+Panagía|39.796|21.330|GR|Thessaly|57
 Pantelimon|44.546|28.331|RO|Constanța County|57
+Pandori Jāgīr|31.089|75.540|IN|Punjab|57
 Pancan|-11.749|-75.486|PE|Junin|57
+Páno Kivídes|34.757|32.857|CY|Limassol|57
+Panskoye|55.031|36.392|RU|Kaluga Oblast|57
+Pangaimotu|-18.686|-173.997|TO|Vavau|57
+Pankrazberg|47.317|11.817|AT|Tyrol|57
 Panqueba|6.445|-72.463|CO|Boyacá|56
+Pané|7.294|-7.464|CI|Montagnes|56
+Panenské Břežany|50.214|14.440|CZ|Central Bohemia|56
+Pantano|41.436|15.554|IT|Apulia|56
+Panagiá|40.898|24.242|GR|East Macedonia and Thrace|56
+Pannocchia|44.677|10.309|IT|Emilia-Romagna|56
+Panrod|50.256|8.132|DE|Hesse|56
+Pánuco (La Pitahaya) [Nuevo Centro de Población]|21.946|-98.137|MX|Veracruz|56
+Panakalo|8.199|-4.341|CI|Vallée du Bandama District|56
+Panalillo|22.148|-100.815|MX|San Luis Potosí|56
+Panti|-12.036|-74.774|PE|Junin|56
+Pangburn|35.427|-91.837|US|Arkansas|56
+Pantaziivka|48.648|32.822|UA|Kirovohrad|56
+Panzoult|47.146|0.401|FR|Centre-Val de Loire|55
+Pano Panagia|34.920|32.632|CY|Pafos|55
 Pantoja|-0.964|-75.181|PE|Loreto|55
+Panarítis|37.631|22.823|GR|Peloponnese|55
+Panicaglia|43.985|11.408|IT|Tuscany|55
+Pantianicco|46.023|13.036|IT|Friuli Venezia Giulia|55
+Panangana|8.511|-4.401|CI|Vallée du Bandama District|55
+Panossas|45.677|5.204|FR|Auvergne-Rhône-Alpes|55
+Panatlán|18.659|-95.364|MX|Veracruz|55
+Pandánassa|38.602|21.556|GR|West Greece|55
+Panarakuum Island|-10.770|151.865|PG|Milne Bay Province|54|f
+Panasesa Island|-10.740|151.724|PG|Milne Bay Province|54|f
+Pānchet Hill|23.621|86.778|IN|West Bengal|54|f
+Pandanon Island|10.179|124.084|PH|Central Visayas|54|f
+Panguilemo Airport|-35.378|-71.602|CL|Maule Region|54|f
+Panguipulli Lake|-39.714|-72.223|CL|Los Ríos Region|54|f
+Panionium|37.704|27.330|TR|Aydın|54|f
+Pankajärvi|63.368|30.212|FI|North Karelia|54|f
+Panther Pond|43.926|-70.468|US|Maine|54|f
+Panther Swamp National Wildlife Refuge|32.846|-90.570|US|Mississippi|54|f
+Panua Pohuwato Airport|0.465|121.817|ID|Gorontalo|54|f
+Pantano Cosa|41.592|13.319|IT|Lazio|54
 Panicale|43.028|12.100|IT|Umbria|54
 Pancorbo|42.634|-3.112|ES|Castille and León|53
 Panettieri|39.060|16.454|IT|Calabria|50
+Pan De Azucar Island|11.283|123.167|PH|Western Visayas|49|f
+Pan Glacier|-68.836|-64.416|AQ||49|f
+Pan Island|63.443|-67.874|CA|Nunavut|49|f
+Panathinaikon stadium|37.968|23.741|GR|Attica|49|f
+Panay Gulf|10.250|122.249|PH||49|f
+Panay Island|13.957|124.332|PH|Bicol Region|49|f
+Pandan Reservoir|1.313|103.744|SG||49|f
+Pandav Falls|24.730|80.067|IN|Madhya Pradesh|49|f
+Pandemonium Point|-60.739|-45.647|AQ||49|f
+Pandora Reef|-18.814|146.433|AU|Queensland|49|f
+Pandora Spire|-77.783|161.217|AQ||49|f
+Panglao Island|9.596|123.809|PH|Central Visayas|49|f
+Pangrango|-6.767|106.950|ID||49|f
+Panguil Bay|8.018|123.725|PH||49|f
+Panimávida Airport|-35.765|-71.403|CL|Maule Region|49|f
+Panmah Glacier|35.855|75.966|PK|Gilgit-Baltistan|49|f
+Pano|29.880|68.486|PK|Balochistan|49|f
+Panos|43.806|19.340|BA|Srpska|49|f
+Panter Ridge|-77.550|169.050|AQ||49|f
+Pantomime Point|-60.726|-45.580|AQ||49|f
 Pancarana|45.075|9.051|IT|Lombardy|49
+Panzweiler|50.017|7.300|DE|Rheinland-Pfalz|48
+Pantenburg|50.083|6.833|DE|Rheinland-Pfalz|48
 Pancrudo|40.762|-1.030|ES|Aragon|42
+Pan de Azúcar National Park|-26.132|-70.557|CL|Atacama|40|f
+Pancake Bay Provincial Park|46.967|-84.700|CA|Ontario|40|f
+Pancake Range|38.812|-115.809|US|Nevada|40|f
+Panchakki|19.889|75.315|IN|Maharashtra|40|f
+Pancho Lake|43.938|-115.080|US|Idaho|40|f
+Pandoh Lake|31.681|77.104|IN|Himachal Pradesh|40|f
+Pandora Island|72.801|-96.801|CA|Nunavut|40|f
+Panega Glacier|-62.540|-60.114|AQ||40|f
+Panguitch Lake|37.715|-112.642|US|Utah|40|f
+Panhandle|37.772|-122.448|US|California|40|f
+Panmure Basin|-36.898|174.840|NZ|Auckland|40|f
+Panmure Island Provincial Park|46.132|-62.468|CA|Prince Edward Island|40|f
+Panorama Peak|-77.617|161.400|AQ||40|f
+Pansy Lake|27.642|-81.513|US|Florida|40|f
+Pantabangan Dam|15.813|121.113|PH|Central Luzon|40|f
+Panteón de Marinos Ilustres|36.479|-6.194|ES|Andalusia|40|f
+Pantheon Range|51.750|-125.136|CA|British Columbia|40|f
+Panther Falls|52.182|-117.058|CA|Alberta|40|f
+Panther Hollow Lake|40.437|-79.948|US|Pennsylvania|40|f
+Panther Lake|49.685|-125.316|CA|British Columbia|40|f
+Panther Lake|43.329|-75.909|US|New York|40|f
+Panther Mountain|35.884|-92.306|US|Arkansas|40|f
+Panuke Lake|44.829|-64.098|CA|Nova Scotia|40|f
 Pan’an|29.054|120.438|CN|Zhejiang|0
+Panacaran|-6.661|105.924|ID|Banten|0
 Pañacocha|-0.451|-76.069|EC|Sucumbíos|0
 Pananaw|5.981|121.215|PH|Autonomous Region in Muslim Mindanao|0
 Pananjung|-7.683|108.650|ID|West Java|0
@@ -320,38 +488,167 @@ Panao|-9.898|-75.993|PE|Huánuco Department|0
 Panaragan|-4.478|105.081|ID|Lampung|0
 Panare|6.862|101.491|TH|Pattani|0
 Panawangan|-7.118|108.382|ID|West Java|0
+Panawuan|-7.215|107.884|ID|West Java|0
+Panayagan|-7.354|108.110|ID|West Java|0
+Panbanqiao|30.385|119.871|CN|Zhejiang|0
+Pancalan|-7.316|107.314|ID|West Java|0
+Pancanagara|-6.192|106.088|ID|Banten|0
+Pancasura|-7.464|107.934|ID|West Java|0
 Pânceşti|46.903|27.153|RO|Neamț County|0
+Pancheng|32.212|118.708|CN|Jiangsu|0
+Pancoran|-8.664|116.488|ID|West Nusa Tenggara|0
+Pancoran|-7.104|113.520|ID|East Java|0
 Pancur|-6.721|111.468|ID|Central Java|0
+Pandai|-8.189|124.261|ID|East Nusa Tenggara|0
+Pandan|-6.734|111.451|ID|Central Java|0
 Pandan|1.684|98.822|ID|North Sumatra|0
+Pandan|-7.239|111.564|ID|East Java|0
+Pandan|-6.889|113.728|ID|East Java|0
 Pandan|11.720|122.095|PH|Western Visayas|0
+Pandangan Kulon|-6.667|111.589|ID|Central Java|0
+Pandangan Wetan|-6.670|111.590|ID|Central Java|0
+Pandanrejokrajan|-8.305|112.504|ID|East Java|0
+Pandansari|-8.007|112.562|ID|East Java|0
+Pandansari|-8.127|111.983|ID|East Java|0
+Pandansari|-8.070|112.804|ID|East Java|0
+Pandansari|-8.150|113.251|ID|East Java|0
+Pandansili|-6.837|111.291|ID|Central Java|0
+Pandanwangi|-8.151|113.248|ID|East Java|0
+Pandaringan Barat|-6.999|113.891|ID|East Java|0
+Pandat|-6.314|105.960|ID|Banten|0
+Panday|-6.350|106.046|ID|Banten|0
+Pandayan Dua|-6.997|111.787|ID|East Java|0
+Pandean|-8.093|112.328|ID|East Java|0
+Pandean|-8.230|113.216|ID|East Java|0
+Pandean|-6.704|111.348|ID|Central Java|0
+Pandean|-8.239|111.535|ID|East Java|0
+Pandean|-8.120|111.808|ID|East Java|0
+Pandeyan|-6.701|111.451|ID|Central Java|0
+Pandeyan|-6.899|113.479|ID|East Java|0
+Pandi|33.016|105.184|CN|Gansu|0
+Pandian|-6.916|113.145|ID|East Java|0
+Pandian|-6.930|114.059|ID|East Java|0
+Pandiyan|-7.132|113.558|ID|East Java|0
 Pane Tongah|2.906|98.972|ID|North Sumatra|0
+Panenggoede|-9.670|119.051|ID|East Nusa Tenggara|0
+Panenjoan|-6.129|106.004|ID|Banten|0
+Panfeng|28.939|120.540|CN|Zhejiang|0
 Pang Sila Thong|16.096|99.489|TH|Kamphaeng Phet|0
+Pangalangan|-6.891|113.062|ID|East Java|0
+Pangalengan|-7.347|107.966|ID|West Java|0
+Pangampoan|-6.399|105.852|ID|Banten|0
+Pangansalan|-6.992|112.385|ID|East Java|0
 Pangantocan|7.847|124.813|PH|Northern Mindanao|0
 Pângăraţi|46.933|26.150|RO|Neamț County|0
+Pangarengan|-5.957|106.073|ID|Banten|0
+Pangarengan|-7.462|108.646|ID|West Java|0
 Pangaron|-3.310|115.196|ID|South Kalimantan|0
+Pangasinan|-7.407|108.529|ID|West Java|0
+Pangatikan|-7.155|107.988|ID|West Java|0
+Pangauban|-7.263|107.778|ID|West Java|0
+Pangauban|-7.274|107.803|ID|West Java|0
+Pangawaren|-7.388|108.870|ID|Central Java|0
+Pangcun|38.615|114.967|CN|Hebei|0
+Pangeureunan|-7.138|107.932|ID|West Java|0
+Pangeureunan|-7.429|108.007|ID|West Java|0
+Panggarangandesa|-6.901|106.221|ID|Banten|0
+Pangguang|34.029|108.662|CN|Shaanxi|0
 Panggul|-8.249|111.455|ID|East Java|0
+Panggulan|-7.119|113.612|ID|East Java|0
+Panggung|-6.998|113.945|ID|East Java|0
+Panggungasri|-8.210|112.296|ID|East Java|0
+Panggungdaja|-7.053|113.693|ID|East Java|0
+Panggungduwet|-8.204|112.032|ID|East Java|0
 Panggungrejo|-8.251|112.279|ID|East Java|0
+Panggungrejo|-8.146|112.561|ID|East Java|0
+Panggungrejo|-8.146|112.601|ID|East Java|0
+Panggungsari|-8.268|112.808|ID|East Java|0
+Panggunguni|-8.203|112.002|ID|East Java|0
+Panggungwinong|-8.239|112.288|ID|East Java|0
+Panghadangan|-6.305|105.897|ID|Banten|0
 Pangin|28.210|94.989|IN|Arunachal Pradesh|0
 Pangkajene|-4.837|119.547|ID|South Sulawesi|0
+Pangkalan|-6.628|111.490|ID|Central Java|0
+Pangkalan|-6.558|105.757|ID|Banten|0
+Pangkalan|-7.177|107.884|ID|West Java|0
+Pangkalan|-6.618|111.078|ID|Central Java|0
+Pangkalan|-7.021|108.071|ID|West Java|0
 Pangkalan Balai|-2.881|104.394|ID|South Sumatra|0
 Pangkalan Bunut|0.298|102.146|ID|Riau|0
 Pangkalan Kasai|-0.589|102.390|ID|Riau|0
 Pangkalan Kerinci|0.396|101.857|ID|Riau|0
+Pangkatrejo|-6.981|112.292|ID|East Java|0
+Pangkungparuk|-8.215|114.887|ID|Bali|0
+Panglanjan|-7.641|108.512|ID|West Java|0
+Pangligaran|-7.600|107.770|ID|West Java|0
+Pangradin Satu|-6.508|106.477|ID|West Java|0
+Pangrumasan|-7.566|107.897|ID|West Java|0
+Pangrumasan|-7.205|108.408|ID|West Java|0
+Pangsan|-8.415|115.221|ID|Bali|0
+Pangtangis Dajah|-6.920|113.426|ID|East Java|0
+Pangtinggi|-6.957|113.879|ID|East Java|0
+Pangu|25.978|118.802|CN|Fujian|0
+Pangu|27.432|115.007|CN|Jiangxi|0
+Pangushan|25.643|115.422|CN|Jiangxi|0
 Panimbang|-6.494|105.796|ID|Banten|0
+Panineungan|-7.272|107.196|ID|West Java|0
+Paninggaran|-7.021|108.402|ID|West Java|0
 Panite|-10.070|124.228|ID|East Nusa Tenggara|0
 Panjalu|-7.131|108.266|ID|West Java|0
 Panjang|-5.476|105.320|ID|Lampung|0
+Panjangjiwo|-7.313|112.764|ID|East Java|0
+Panjeran|-6.912|113.939|ID|East Java|0
+Panjerrejo|-8.138|112.018|ID|East Java|0
 Panjgur|26.972|64.095|PK|Balochistan|0
+Panji Kidul Krajan|-7.709|114.042|ID|East Java|0
+Panji Lor Krajan Satu|-7.696|114.042|ID|East Java|0
+Panjiang|24.020|103.125|CN|Yunnan|0
+Panjiawan|30.221|111.199|CN|Hubei|0
+Panjing|25.053|116.528|CN|Fujian|0
+Panjir|-10.025|120.407|ID|East Nusa Tenggara|0
+Panjun|-6.994|112.826|ID|East Java|0
+Pankeng|28.453|120.586|CN|Chongqing|0
 Panlian|26.888|102.108|CN|Sichuan|0
 Panlong|32.807|114.024|CN|Henan|0
+Panlong|30.907|108.710|CN|Chongqing|0
+Panlong|34.418|107.198|CN|Shaanxi|0
+Panohan|-6.815|111.437|ID|Central Java|0
+Panolan|-7.225|111.533|ID|Central Java|0
+Panoongan|-7.138|108.205|ID|West Java|0
+Panshi|28.221|109.295|CN|Guizhou|0
 Pantai|-3.131|116.135|ID|South Kalimantan|0
 Pantai Ceuremen|4.369|96.196|ID|Aceh|0
+Pantaibesar|-8.349|122.969|ID|East Nusa Tenggara|0
 Pantaihambawang|-2.647|115.331|ID|South Kalimantan|0
+Pantaimakasar|-8.269|124.410|ID|East Nusa Tenggara|0
+Pantang|30.998|114.888|CN|Hubei|0
+Pantang|29.215|111.506|CN|Hunan|0
 Pantao-Ragat|8.083|124.133|PH|Northern Mindanao|0
 Pantar|8.066|124.258|PH|Northern Mindanao|0
 Pantasma|13.357|-85.942|NI|Jinotega Department|0
 Pante Raja|5.245|96.146|ID|Aceh|0
+Pantenan|-6.920|112.438|ID|East Java|0
+Panti|-8.168|113.626|ID|East Java|0
 Panti|0.362|100.055|ID|West Sumatra|0
+Pantian|23.919|116.323|CN|Guangdong|0
 Pantisawa|8.945|11.512|NG|Taraba State|0
 Pantukan|7.163|125.899|PH|Davao Region|0
+Panugeran|-7.365|108.103|ID|West Java|0
+Panulisan|-7.308|108.579|ID|Central Java|0
+Panunggangan|-7.227|107.887|ID|West Java|0
+Panututan|-7.341|108.209|ID|West Java|0
+Panuusan|-7.409|108.312|ID|West Java|0
+Panxi|34.323|107.403|CN|Shaanxi|0
+Panxin|28.022|109.236|CN|Guizhou|0
 Panyambungan|0.865|99.553|ID|North Sumatra|0
+Panyarang|-7.347|108.187|ID|West Java|0
+Panyaungan Timur|-6.901|106.154|ID|Banten|0
+Panyindangan|-7.574|107.759|ID|West Java|0
+Panyindangan|-7.396|107.094|ID|West Java|0
+Panyingkiran|-7.191|108.019|ID|West Java|0
+Panyingkiran|-7.354|107.780|ID|West Java|0
+Panyingkiran|-7.261|107.811|ID|West Java|0
+Panyingkiran|-7.296|108.265|ID|West Java|0
+Panyirapan|-6.234|106.123|ID|Banten|0
+Panyuran|-6.898|112.088|ID|East Java|0
+Panzhou|21.926|110.849|CN|Guangdong|0

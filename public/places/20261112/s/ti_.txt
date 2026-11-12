@@ -1,5 +1,5 @@
 Tianjin|39.142|117.177|CN|Tianjin|143
-Tibet|31.667|88.000|CN||128|r
+Tibet|31.667|88.000|CN||129|r
 Tijuana|32.503|-117.004|MX|Baja California|126
 Tirunelveli|8.727|77.684|IN|Tamil Nadu|123
 Timor Leste|-8.833|125.750|TL||123|c
@@ -7,13 +7,13 @@ Tigray|14.167|38.833|ET||123|r
 Tianshui|34.580|105.742|CN|Gansu|122
 Tiruchirappalli|10.816|78.697|IN|Tamil Nadu|120
 Tiruppur|11.115|77.355|IN|Tamil Nadu|120
-Timiș County|45.667|21.500|RO||116|r
+Timiș County|45.667|21.500|RO||117|r
 Tieling|42.293|123.841|CN|Liaoning|113
 Tirana|41.327|19.819|AL|Tirana|112
 Tillabéri Region|14.333|2.083|NE||110|r
 Tirupati|13.636|79.420|IN|Andhra Pradesh|109
-Tin Shui Wai|22.457|114.002|HK|Yuen Long|109
 Ticino|46.285|8.791|CH||109|r
+Tin Shui Wai|22.457|114.002|HK|Yuen Long|109
 Timişoara|45.754|21.226|RO|Timiș County|108
 Tiruvottiyūr|13.158|80.302|IN|Tamil Nadu|108
 Tilburg|51.556|5.091|NL|North Brabant|107
@@ -28,6 +28,7 @@ Timika|-4.614|136.677|ID|Central Papua|103
 Titāgarh|22.743|88.373|IN|West Bengal|102
 Titiwangsa|3.178|101.703|MY|Kuala Lumpur|102
 Tigwav|18.431|-72.865|HT|Ouest|101
+Tiananmen Square|39.904|116.391|CN|Beijing|101|f
 Tinsukia|27.489|95.360|IN|Assam|101
 Tinaquillo|9.919|-68.305|VE|Cojedes|101
 Tianfu|37.264|122.052|CN|Shandong|101
@@ -46,6 +47,7 @@ Timóteo|-19.581|-42.650|BR|Minas Gerais|98
 Tiznit|29.697|-9.732|MA|Souss-Massa|98
 Tīkamgarh|24.743|78.831|IN|Madhya Pradesh|98
 Tianguá|-3.732|-40.992|BR|Ceará|98
+Tierra del Fuego|-54.000|-70.000|CL||97|f
 Tindivanam|12.234|79.656|IN|Tamil Nadu|97
 Tianliu|37.000|118.783|CN|Shandong|97
 Tissemsilt|35.607|1.811|DZ|Tissemsilt|96
@@ -96,5 +98,3 @@ Timmins|48.467|-81.333|CA|Ontario|92
 Tiancheng|30.868|108.370|CN|Chongqing|92
 Tine Biougra|30.209|-9.379|MA|Souss-Massa|92
 Timizart|36.800|4.267|DZ|Tizi Ouzou|92
-Tiel|51.887|5.429|NL|Gelderland|92
-Tighenif|35.417|0.330|DZ|Mascara|92

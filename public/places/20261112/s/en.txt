@@ -1,4 +1,4 @@
-England|52.160|-0.703|GB||155|r
+England|52.160|-0.703|GB||156|r
 Enugu State|6.500|7.500|NG||122|r
 Entre Rios|-32.000|-59.000|AR||121|r
 Enugu|6.441|7.499|NG|Enugu State|120
@@ -70,9 +70,11 @@ English Bay|49.285|-123.143|CA|British Columbia|83
 Engenheiro Beltrão|-23.797|-52.269|BR|Paraná|83
 Engenheiro Caldas|-19.200|-42.047|BR|Minas Gerais|83
 Englewood|39.878|-84.302|US|Ohio|83
+Englischer Garten|48.153|11.591|DE|Bavaria|82|f
 Endicott|42.098|-76.049|US|New York|82
 Endenich|50.724|7.073|DE|North Rhine-Westphalia|82
 Engenheiro Paulo de Frontin|-22.550|-43.678|BR|Rio de Janeiro|82
+Enshi Xujiaping Airport|30.320|109.485|CN|Hubei|82|f
 Enumclaw|47.204|-121.992|US|Washington|81
 Endwell|42.113|-76.021|US|New York|81
 Enghien|50.694|4.038|BE|Wallonia|81
@@ -90,9 +92,11 @@ Enkakād|10.658|76.256|IN|Kerala|80
 Entre-Ijuís|-28.359|-54.268|BR|Rio Grande do Sul|79
 Energetik|51.745|58.793|RU|Orenburg Oblast|79
 Endingen|48.142|7.700|DE|Baden-Wurttemberg|79
+Enrique Adolfo Jiménez Airport|9.356|-79.867|PA|Colón|79|f
 Entrerríos|6.565|-75.517|CO|Antioquia|79
 Enyellé|2.808|18.012|CG|Likouala|79
 Enderby|52.588|-1.206|GB|England|78
+Enua Airport|-19.968|-158.119|CK|Atiu|78|f
 Enter|52.294|6.578|NL|Overijssel|78
 Entraigues-sur-la-Sorgue|44.003|4.927|FR|Provence-Alpes-Côte d'Azur|77
 Enkenbach-Alsenborn|49.483|7.900|DE|Rheinland-Pfalz|77
@@ -105,14 +109,16 @@ Encs|48.331|21.112|HU|Borsod-Abaúj-Zemplén|77
 Engen|47.855|8.773|DE|Baden-Wurttemberg|77
 Ensdorf|49.300|6.783|DE|Saarland|76
 Enfield|44.943|-63.536|CA|Nova Scotia|76
+Enga Province|-5.500|143.500|PG||76|r
+Engelskbukta|78.834|11.888|SJ||76|f
 Engenheiro Navarro|-17.280|-43.950|BR|Minas Gerais|76
 Enoch|37.773|-113.024|US|Utah|76
 Enola|40.290|-76.934|US|Pennsylvania|76
 Enrique Villanueva|9.276|123.647|PH|Central Visayas|76
 Encanto|-6.111|-38.305|BR|Rio Grande do Norte|76
 Enéas Marques|-25.942|-53.164|BR|Paraná|76
+English Channel|50.000|-1.000|GB||75|f
 Engis|50.582|5.399|BE|Wallonia|75
-Enga Province|-5.500|143.500|PG||75|r
 Engel’-Yurt|43.326|46.360|RU|Chechnya|75
 Enguera|38.980|-0.687|ES|Valencia|75
 Enriquillo|17.900|-71.233|DO|Barahona Province|75
@@ -124,6 +130,7 @@ Enebyberg|59.433|18.050|SE|Stockholm|74
 Ensuès-la-Redonne|43.355|5.204|FR|Provence-Alpes-Côte d'Azur|74
 Enthavi|19.505|-99.574|MX|México|74
 Ensival|50.581|5.849|BE|Wallonia|73
+Ennstal Alps|47.617|14.583|AT||73|f
 Encounter Bay|-35.574|138.601|AU|South Australia|73
 Entre Rios do Oeste|-24.706|-54.245|BR|Paraná|73
 Engelsbrand|48.833|8.650|DE|Baden-Wurttemberg|73
@@ -132,6 +139,8 @@ Ennetbürgen|46.984|8.410|CH|Nidwalden|73
 Engelberg|46.821|8.401|CH|Obwalden|72
 Enez|40.725|26.082|TR|Edirne|72
 Enschot|51.578|5.139|NL|North Brabant|72
+Enarotali Airport|-3.926|136.378|ID|Central Papua|71|f
+Engeløya|67.949|15.000|NO|Nordland|71|f
 Enon|37.331|-77.323|US|Virginia|71
 Entre Rios|-26.724|-52.561|BR|Santa Catarina|71
 Entabladero|20.276|-97.549|MX|Veracruz|70
@@ -159,6 +168,8 @@ Enon|39.878|-83.937|US|Ohio|68
 Enetai|47.585|-122.599|US|Washington|67
 Enina|42.667|25.400|BG|Stara Zagora|67
 Ensdorf|49.341|11.936|DE|Bavaria|67
+Engelmann Peak|39.746|-105.801|US|Colorado|67|f
+Engeløy airport, Elvik|67.967|14.993|NO|Nordland|67|f
 Encantada-Ranchito-El Calaboz|26.033|-97.633|US|Texas|67
 Envermeu|49.896|1.265|FR|Normandy|67
 Ennezat|45.898|3.223|FR|Auvergne-Rhône-Alpes|67
@@ -174,6 +185,11 @@ Endingen|47.537|8.290|CH|Aargau|66
 Enbacka|60.410|15.596|SE|Dalarna|66
 Enterprise|45.426|-117.279|US|Oregon|66
 Enniskerry|53.193|-6.169|IE|Leinster|66
+Enders Island|41.322|-71.963|US|Connecticut|65|f
+Engaku Ji|35.338|139.548|JP|Kanagawa|65|f
+Engures Ezers|57.261|23.106|LV|Talsu novads|65|f
+Enontekiö Airport|68.363|23.424|FI|Lapland|65|f
+Enoshima|35.300|139.481|JP|Kanagawa|65|f
 Ennery|49.226|6.218|FR|Grand Est|65
 Enterprise|37.574|-113.719|US|Utah|65
 Enontekiö|68.386|23.632|FI|Lapland|65
@@ -191,6 +207,11 @@ Entrena|42.388|-2.531|ES|La Rioja|64
 Ennery|19.483|-72.485|HT|Artibonite|64
 Encrucijada 3ra. Sección (Las Calzadas)|18.255|-93.556|MX|Tabasco|64
 Englehart|47.824|-79.874|CA|Ontario|63
+‘En H̱emed|31.794|35.128|IL|Jerusalem|63|f
+Enfidha – Hammamet International Airport|36.076|10.439|TN|Sousse Governorate|63|f
+Engey|64.171|-21.915|IS|Capital Region|63|f
+Enid Woodring Regional Airport|36.384|-97.788|US|Oklahoma|63|f
+Ensenada Airport|31.794|-116.602|MX|Baja California|63|f
 Entronque de Matehuala (El Huizache)|22.925|-100.459|MX|San Luis Potosí|63
 Enval|45.899|3.050|FR|Auvergne-Rhône-Alpes|63
 Entraygues-sur-Truyère|44.646|2.567|FR|Occitanie|63
@@ -217,6 +238,17 @@ Energy|37.774|-89.026|US|Illinois|61
 ‘En Ya‘aqov|33.010|35.231|IL|Northern District|61
 Endrefalva|48.127|19.577|HU|Nógrád|61
 Encinal Colorado|17.010|-95.107|MX|Oaxaca|61
+Endeavour River National Park|-15.449|145.222|AU|Queensland|61|f
+Ennerdale Water|54.519|-3.374|GB|England|61|f
+Ennis - Big Sky Airport|45.268|-111.650|US|Montana|61|f
+Ennis Municipal Airport|32.328|-96.664|US|Texas|61|f
+Enrique Olaya Herrera Airport|6.220|-75.591|CO|Antioquia|61|f
+Ensenada Tortuga|-0.999|-91.048|EC|Galápagos|61|f
+Ensign Peak|40.794|-111.890|US|Utah|61|f
+Ensjön|58.550|16.217|SE|Östergötland|61|f
+Ensomheden|63.717|-41.217|GL|Sermersooq|61|f
+Entschenkopf|47.437|10.330|DE|Bavaria|61|f
+Entuziasty Glacier|-70.500|14.500|AQ||61|f
 Engelthal|49.472|11.399|DE|Bavaria|61
 Enhagen-Ekbacken|59.565|16.530|SE|Västmanland|61
 Enzersfeld|48.363|16.424|AT|Lower Austria|61
@@ -226,30 +258,227 @@ Ennistimon|52.945|-9.292|IE|Munster|60
 Enlow|40.454|-80.233|US|Pennsylvania|60
 Enhaut|40.232|-76.827|US|Pennsylvania|60
 Enemonzo-Quinis|46.408|12.879|IT|Friuli Venezia Giulia|60
+Endeje|19.961|-99.837|MX|México|60
+Entrains-sur-Nohain|47.464|3.257|FR|Bourgogne-Franche-Comté|60
+Enterprise|39.421|-80.278|US|West Virginia|60
+Enrique Rodríguez Cano (Zapotalillo)|20.660|-97.549|MX|Veracruz|60
 Encinedo|42.270|-6.594|ES|Castille and León|60
+Enquin-les-Mines|50.587|2.283|FR|Hauts-de-France|59
+Entrecasteaux|43.516|6.242|FR|Provence-Alpes-Côte d'Azur|59
+Entrechaux|44.218|5.138|FR|Provence-Alpes-Côte d'Azur|59
+‘En Karmel|32.677|34.953|IL|Haifa|59
 Engelhartstetten|48.182|16.884|AT|Lower Austria|59
+Entrevaux|43.950|6.810|FR|Provence-Alpes-Côte d'Azur|59
+Engelbert|53.208|6.647|NL|Groningen|59
+Ennis|45.349|-111.730|US|Montana|59
+‘En HaMifrats|32.903|35.096|IL|Northern District|59
+Enderlin|46.623|-97.601|US|North Dakota|59
+‘En Ẕurim|31.695|34.719|IL|Southern District|59
+‘En HaShofet|32.595|35.100|IL|Northern District|59
+Enstone|51.915|-1.454|GB|England|59
+Enviken|60.800|15.783|SE|Dalarna|58
+‘En HaH̱oresh|32.386|34.940|IL|Central District|58
+‘Enat|32.083|34.938|IL|Central District|58
+Enterprise|38.903|-97.117|US|Kansas|58
+Enăchești|46.489|26.706|RO|Bacău County|58
+‘En Ha‘Emeq|32.630|35.084|IL|Northern District|58
+Ena-san|35.443|137.597|JP|Gifu|58|f
+Enderbury Island|-3.128|-171.086|KI|Phoenix Islands|58|f
+Enemy Swim Lake|45.442|-97.264|US|South Dakota|58|f
+Engelsmanplaat|53.453|6.057|NL|Friesland|58|f
+English Grove Lake|45.775|-95.194|US|Minnesota|58|f
+English Park|40.174|44.508|AM|Yerevan|58|f
+Engstligenfälle|46.452|7.563|CH|Bern|58|f
+Enschede Airport Twente|52.270|6.874|NL|Overijssel|58|f
+Ensenada de La Broa|22.558|-81.955|CU||58|f
+Entenbil|49.767|12.400|DE|Bavaria|58|f
+Enterprise Island|-64.538|-62.000|AQ||58|f
+Entrance Island|49.209|-123.809|CA|British Columbia|58|f
+Enzian|49.123|13.083|DE|Bavaria|58|f
+Encinillos|20.198|-98.433|MX|Hidalgo|58
+Engelbrechtsche Wildnis|53.782|9.462|DE|Schleswig-Holstein|58
 Envie|44.682|7.372|IT|Piedmont|58
+English Harbour Town|17.016|-61.767|AG|Saint Paul Parish|58
+Enríquez|19.679|-96.744|MX|Veracruz|58
 Enzenreith|47.668|15.952|AT|Lower Austria|58
+‘En HaNetsiv|32.471|35.500|IL|Northern District|57
+Englishman River South|49.282|-124.282|CA|British Columbia|57
+Entronque (Ley Seis de Enero)|31.468|-107.609|MX|Chihuahua|57
+‘En Yahav|30.658|35.237|IL|Southern District|57
+Engelstadt|49.904|8.065|DE|Rheinland-Pfalz|57
 Engerwitzdorf|48.345|14.442|AT|Upper Austria|57
 Entracque|44.240|7.398|IT|Piedmont|57
+‘En Gedi|31.452|35.384|IL|Southern District|57
+Engelschoff|53.663|9.327|DE|Lower Saxony|57
+Enniskeane|51.738|-8.932|IE|Munster|57
 Enciso|6.668|-72.700|CO|Santander Department|57
+Enveig|42.461|1.913|FR|Occitanie|57
+Enzersberg|47.850|13.200|AT|Salzburg|57
+Enokichō|35.705|139.729|JP|Tokyo|57
+‘En Gev|32.783|35.639|IL|Northern District|57
+Enzenkirchen|48.388|13.648|AT|Upper Austria|57
+Enoree|34.657|-81.965|US|South Carolina|56
+Engozero|65.788|33.937|RU|Karelia|56
+Engi|46.982|9.153|CH|Glarus|56
+Énines|50.694|4.927|BE|Wallonia|56
 Encinas de Abajo|40.935|-5.470|ES|Castille and León|56
+Enandio|19.333|-100.430|MX|Michoacán|56
+Enånger|61.546|17.011|SE|Gävleborg|56
 English|38.334|-86.464|US|Indiana|56
+Enramaditas|21.202|-98.807|MX|San Luis Potosí|56
+Ename|50.858|3.637|BE|Flanders|56
+‘En Hod|32.700|34.983|IL|Haifa|56
+Enterprise|41.100|-111.736|US|Utah|56
+Entraigues|45.890|3.261|FR|Auvergne-Rhône-Alpes|56
+Encinal|28.041|-99.354|US|Texas|55
 Entrín Bajo|38.719|-6.713|ES|Extremadura|55
+Enfield|38.099|-88.338|US|Illinois|55
+Encino Amarillo|18.289|-94.793|MX|Veracruz|55
+Ensenada (Chalco)|21.389|-98.801|MX|San Luis Potosí|55
+Ensenada|25.870|-97.868|MX|Tamaulipas|55
+Entremont-le-Vieux|45.433|5.883|FR|Auvergne-Rhône-Alpes|55
+Endotejiare|19.785|-100.031|MX|México|55
+Entremont|45.956|6.389|FR|Auvergne-Rhône-Alpes|55
+Enculești|44.905|24.948|RO|Arges|55
+Engersen|52.620|11.341|DE|Saxony-Anhalt|55
+‘En ‘Iron|32.484|35.009|IL|Haifa|55
+Encrucijada 4ta. Sección B (La Lucha)|18.211|-93.543|MX|Tabasco|55
+Enney|46.567|7.084|CH|Fribourg|55
+Entschendorf bei Gleisdorf|47.050|15.700|AT|Styria|55
+Enchastrayes|44.367|6.695|FR|Provence-Alpes-Côte d'Azur|55
+Encino Solo|21.254|-99.266|MX|Querétaro|55
+Englewood|40.784|-76.242|US|Pennsylvania|55
+Engwierum|53.321|6.136|NL|Friesland|54
+Endoufielle|43.551|1.023|FR|Occitanie|54
+Enfield|-37.728|143.794|AU|Victoria|54
+Encarnación|22.395|-101.314|MX|San Luis Potosí|54
+Engabrunn|48.450|15.763|AT|Lower Austria|54
+En Nahud Airport|12.705|28.438|SD|North Kordofan|54|f
+Enäjärvi|60.354|24.392|FI|Uusimaa|54|f
+Encarnacion Airport|-27.227|-55.837|PY|Itapúa|54|f
+Encounter Bay|-35.618|138.730|AU|South Australia|54|f
+Enden Point|-73.617|-4.217|AQ||54|f
+Endestadvatnet|61.602|5.572|NO|Vestland|54|f
+Endicott Rock Park|43.604|-71.456|US|New Hampshire|54|f
+Endurance Glacier|-61.166|-55.183|AQ||54|f
+Enewetak Airport|11.341|162.328|MH|Enewetak Atoll|54|f
+Engel Stadium|35.045|-85.287|US|Tennessee|54|f
+Engeren|61.621|12.020|NO|Innlandet|54|f
+English Bay Airport|59.355|-151.923|US|Alaska|54|f
+Englishman Bay|44.590|-67.469|US|Maine|54|f
+Enid A Haupt Garden|38.890|-77.026|US|District of Columbia|54|f
+Enid Lake|34.154|-89.805|US|Mississippi|54|f
+Enijärvi|66.846|26.799|FI|Lapland|54|f
+Enø|55.171|11.670|DK|Zealand|54|f
+Enonjärvi|62.930|25.167|FI|Central Finland|54|f
+Enonselkä|62.967|29.950|FI|North Karelia|54|f
+Enrum Slot|55.845|12.571|DK|Capital Region|54|f
+Enskär|65.650|23.983|SE|Norrbotten|54|f
+Entebbe Airport|0.042|32.444|UG|Central Region|54|f
+Enten Bay|-54.217|-36.617|GS||54|f
+Enterprise Municipal Airport|31.298|-85.900|US|Alabama|54|f
+Enugu Airport|6.474|7.562|NG|Enugu State|54|f
+Englos|50.627|2.957|FR|Hauts-de-France|54
+Enterprise|32.174|-88.831|US|Mississippi|54
+Ensch|49.827|6.833|DE|Rheinland-Pfalz|53
+Engden|52.392|7.179|DE|Lower Saxony|53
 Enguídanos|39.667|-1.600|ES|Castille-La Mancha|53
+Ensheim|49.806|8.116|DE|Rheinland-Pfalz|53
 Encino|6.137|-73.098|CO|Santander Department|52
+Endschütz|50.787|12.136|DE|Thuringia|52
 Encinas de Esgueva|41.757|-4.104|ES|Castille and León|51
 Enix|36.877|-2.602|ES|Andalusia|50
 Endrinal|40.591|-5.804|ES|Castille and León|49
 Encinacorba|41.285|-1.275|ES|Aragon|49
+Enard Bay|58.083|-5.333|GB|Scotland|49|f
+Encanto|25.220|-108.204|MX|Sinaloa|49|f
+End Mountain|51.199|-115.129|CA|Alberta|49|f
+Endeavour Field|-34.038|151.141|AU|New South Wales|49|f
+Endeavour Massif|-76.550|162.033|AQ||49|f
+Endeavour Piedmont Glacier|-77.383|166.667|AQ||49|f
+Endeavour Reef|-15.777|145.575|AU|Queensland|49|f
+Endeavour Strait|-10.833|142.250|AU|Queensland|49|f
+Endeavour, Mount|-76.550|162.000|AQ||49|f
+Endelave|55.756|10.300|DK|Central Jutland|49|f
+Enders Dam|40.422|-101.518|US|Nebraska|49|f
+Endless Mountains|41.600|-76.050|US|Pennsylvania|49|f
+Endresen Islands|-67.283|60.000|AQ||49|f
+Endurance Reef|-68.316|-67.533|AQ||49|f
+Engel Peaks|-69.511|-63.118|AQ||49|f
+Engelstad, Mount|-85.483|-167.400|AQ||49|f
+Engineer Battery|36.123|-5.354|GI||49|f
+Engineer Mountain|37.699|-107.807|US|Colorado|49|f
+Engineer Range|-42.299|145.722|AU|Tasmania|49|f
+England Peak|-82.618|-52.815|AQ||49|f
+Engle Peak|48.009|-115.619|US|Montana|49|f
+English Bay|59.355|-151.931|US|Alaska|49|f
+English Bicknor Castle|51.839|-2.609|GB|England|49|f
+English Harbour|17.003|-61.764|AG|Saint Paul Parish|49|f
+English Island|-34.638|136.196|AU|South Australia|49|f
+English Mountain|35.901|-83.298|US|Tennessee|49|f
+Engstlensee|46.773|8.357|CH||49|f
+Enigma Peak|-69.561|-72.661|AQ||49|f
+Enmore Castle|51.112|-3.088|GB|England|49|f
+Enonsaari|61.036|25.598|FI|Paijat-Hame|49|f
+Ensay|57.767|-7.083|GB|Scotland|49|f
+Ensenada de Mompiche|0.509|-80.026|EC|Esmeraldas|49|f
+Ensenada Honda|18.302|-65.283|PR|Culebra|49|f
+Entrance Island|-33.718|136.970|AU|South Australia|49|f
+Entrance Island|-42.211|145.216|AU|Tasmania|49|f
+Entrikin Glacier|-80.817|160.000|AQ||49|f
+Entry Island|47.277|-61.700|CA|Quebec|49|f
+Enyo Glacier|-77.483|162.000|AQ||49|f
+Enspel|50.617|7.883|DE|Rheinland-Pfalz|49
 Encinas de Arriba|40.771|-5.557|ES|Castille and León|49
 Encinasola de los Comendadores|41.031|-6.533|ES|Castille and León|48
 Enériz|42.671|-1.728|ES|Navarre|47
 Entrala|41.430|-5.756|ES|Castille and León|44
 Enciso|42.149|-2.270|ES|La Rioja|44
+Endlichhofen|50.202|7.818|DE|Rheinland-Pfalz|43
 Encina de San Silvestre|41.014|-6.093|ES|Castille and León|42
+Ena Lake|49.984|-94.518|CA|Ontario|40|f
+Ena Lake|59.917|-108.201|CA|Saskatchewan|40|f
+Encanto Park|33.478|-112.092|US|Arizona|40|f
+Enchanted Island|44.139|-68.582|US|Maine|40|f
+Enchanted Lake|44.719|-63.593|CA|Nova Scotia|40|f
+Enchanted Pond|45.434|-70.185|US|Maine|40|f
+Enchanted Rock|30.507|-98.819|US|Texas|40|f
+Enderby Island|-50.497|166.295|NZ||40|f
+Endicott Arm|57.628|-133.261|US|Alaska|40|f
+Endicott Mountains|67.917|-151.833|US|Alaska|40|f
+Eneas Lakes Park|49.750|-119.936|CA|British Columbia|40|f
+Enfield Square|41.995|-72.583|US|Connecticut|40|f
+Eng Lake|45.815|-95.683|US|Minnesota|40|f
+Eng Sérgio Motta Dam|-22.476|-52.958|BR|Mato Grosso do Sul|40|f
+Engebretson Peak|-78.200|162.450|AQ||40|f
+Engelberger Rotstock|46.854|8.498|CH|Uri|40|f
+Engelhardt Ice Ridge|-83.333|-146.000|AQ||40|f
+Engineers Lake|28.080|-81.631|US|Florida|40|f
+England Ridge|-77.033|162.483|AQ||40|f
+Englewood Dam|39.589|-104.919|US|Colorado|40|f
+English Bay|48.367|-53.281|CA|Newfoundland and Labrador|40|f
+English Center Suspension Bridge|41.435|-77.289|US|Pennsylvania|40|f
+English Field|36.697|-79.854|US|Virginia|40|f
+English Hills|38.436|-122.021|US|California|40|f
+English Island|51.167|-55.715|CA|Newfoundland and Labrador|40|f
+Englishman River Falls Provincial Park|49.248|-124.351|CA|British Columbia|40|f
+Englishman's Bay|11.291|-60.672|TT|Tobago|40|f
+Engstlensee|46.773|8.357|CH|Bern|40|f
+Ennadai Lake|60.967|-101.333|CA|Nunavut|40|f
+Enneüs Heerma Bridge|52.365|4.976|NL|North Holland|40|f
+Ennis Friary|52.846|-8.981|IE|Munster|40|f
+Enniscorthy Castle|52.501|-6.567|IE|Leinster|40|f
+Eno River State Park|36.083|-79.014|US|North Carolina|40|f
+Ensign Lake|48.033|-91.359|US|Minnesota|40|f
+Enterprise Lake|45.455|-89.239|US|Wisconsin|40|f
+Enterprise Municipal Airport|45.426|-117.268|US|Oregon|40|f
+Entiako Park|53.250|-125.436|CA|British Columbia|40|f
+Entiat Glacier|48.141|-120.797|US|Washington|40|f
+Entiat Mountains|47.773|-120.545|US|Washington|40|f
+Entry Islands|68.384|-108.936|CA|Nunavut|40|f
 Encinillas|41.018|-4.158|ES|Castille and León|39
 Encinas|41.375|-3.668|ES|Castille and León|37
+Enzen|49.917|6.367|DE|Rheinland-Pfalz|34
 Encío|42.671|-3.087|ES|Castille and León|33
 Enagi|9.127|5.544|NG|Niger State|0
 Enarotali|-3.930|136.377|ID|Central Papua|0
@@ -259,6 +488,7 @@ Enemawira|3.656|125.561|ID|North Sulawesi|0
 Enewetak|11.347|162.337|MH|Enewetak Atoll|0
 Enewetak Atoll|11.500|162.250|MH||0|r
 Engerdal|61.759|11.959|NO|Innlandet|0
+Enhe Hada|53.319|121.434|CN|Inner Mongolia|0
 Enhtal|49.248|105.374|MN|Selenge Province|0
 Enjiang|27.322|115.429|CN|Jiangxi|0
 Enle|23.960|101.083|CN|Yunnan|0

@@ -34,13 +34,16 @@ Nueva Rosita|27.937|-101.217|MX|Coahuila|92
 Nuoro|40.320|9.326|IT|Sardinia|91
 Nusle|50.065|14.440|CZ|Prague|91
 Nurlat|54.429|50.806|RU|Tatarstan Republic|91
+Nuba Mountains|12.000|30.750|SD|Southern Kordofan|90|f
+Nunavut|66.035|-100.078|CA||90|r
 Nueva Italia de Ruiz|19.025|-102.093|MX|Michoacán|90
 Nuevo Imperial|-13.075|-76.317|PE|Lima region|90
 Nurota|40.561|65.689|UZ|Navoiy Region|90
-Nunavut|66.035|-100.078|CA||90|r
 Nungwi|-5.727|39.299|TZ|Zanzibar North|90
 Nuozhadu|22.578|100.269|CN|Yunnan|89
 Nueva Imperial|-38.745|-72.950|CL|Araucania|89
+Nuremberg Castle|49.458|11.076|DE|Bavaria|89|f
+Nuuk Airport|64.191|-51.678|GL|Sermersooq|89|f
 Nuevo México|20.756|-103.443|MX|Jalisco|89
 Nutley|40.822|-74.160|US|New Jersey|89
 Nuwara Eliya|6.971|80.783|LK|Central Province|89
@@ -53,6 +56,7 @@ Nuevo Belén|9.089|-79.392|PA|Panamá|88
 Nuenen|51.470|5.553|NL|North Brabant|87
 Nuku‘alofa|-21.137|-175.201|TO|Tongatapu|87
 Núcleo Bandeirante|-15.871|-47.969|BR|Federal District|87
+Nurek Dam|38.371|69.348|TJ||86|f
 Nueva Gerona|21.888|-82.807|CU|Isla de la Juventud|86
 Nu‘ayjah|25.246|51.532|QA|Baladiyat ad Dawhah|86
 Nueva Bolivia|9.140|-71.091|VE|Mérida|86
@@ -65,6 +69,7 @@ Nümbrecht|50.904|7.541|DE|North Rhine-Westphalia|85
 Nūh|28.103|77.001|IN|Haryana|84
 Nuuanu - Punchbowl|21.342|-157.829|US|Hawaii|84
 Nuevo Arraiján|8.926|-79.720|PA|Panamá Oeste Province|83
+Numismatic Museum of Athens|37.978|23.736|GR|Attica|83|f
 Nuuk|64.183|-51.722|GL|Sermersooq|83
 Nuevo San Juan Parangaricutiro|19.418|-102.131|MX|Michoacán|83
 Nūrmahal|31.097|75.594|IN|Punjab|83
@@ -102,6 +107,8 @@ Nuevo Progreso|14.792|-91.919|GT|San Marcos|78
 Nuevo Celilac|14.983|-88.333|HN|Santa Bárbara Department|78
 Nuapatna|20.446|85.469|IN|Odisha|78
 Nurmijärven kirkonkylä|60.460|24.806|FI|Uusimaa|78
+Nuiqsut Airport|70.210|-151.005|US|Alaska|78|f
+Nur Mountains|36.748|36.333|TR|Hatay|78|f
 Nuestra Señora del Rosario de Caá Catí|-27.752|-57.622|AR|Corrientes|78
 Nuporanga|-20.731|-47.752|BR|São Paulo|77
 Numāligarh|26.622|93.722|IN|Assam|77
@@ -111,10 +118,14 @@ Nura|50.262|71.548|KZ|Karaganda|77
 Nünchritz|51.300|13.386|DE|Saxony|77
 Nuevo Cuscatlán|13.649|-89.265|SV|La Libertad Department|76
 Nuevo|33.801|-117.146|US|California|76
+Nuku Hiva Island|-8.862|-140.132|PF|Marquesas Islands|76|f
+Nukuoro Atoll|3.841|154.931|FM|Pohnpei State|76|f
 Nuriootpa|-34.468|138.998|AU|South Australia|76
 Nūa|28.044|75.272|IN|Rajasthan|76
 Nūāhatā|20.836|85.234|IN|Odisha|75
 Nunkiní|20.401|-90.149|MX|Campeche|75
+Nuhu Roa|-5.781|132.729|ID|Maluku|75|f
+Nuptse|27.967|86.887|NP|Koshi|75|f
 Nueva Guadalupe|13.533|-88.350|SV|San Miguel Department|75
 Nueva-Carteya|37.586|-4.468|ES|Andalusia|75
 Nurillo|26.267|-98.121|US|Texas|75
@@ -125,6 +136,7 @@ Nuşfalău|47.200|22.733|RO|Sălaj County|75
 Nuits-Saint-Georges|47.137|4.949|FR|Bourgogne-Franche-Comté|74
 Nūkābād|28.540|60.760|IR|Sistan and Baluchestan|74
 Nufringen|48.623|8.890|DE|Baden-Wurttemberg|74
+Nukutavake Airport|-19.285|-138.772|PF|Tuamotu-Gambier Islands|74|f
 Nueil-les-Aubiers|46.933|-0.583|FR|New Aquitaine|74
 Nu‘uuli|-14.316|-170.697|AS|Eastern District|74
 Nuwaybi‘a|29.047|34.663|EG|South Sinai|74
@@ -132,6 +144,8 @@ Nueva Santa Rosa|19.590|-98.960|MX|México|74
 Nüziders|47.167|9.800|AT|Vorarlberg|74
 Numarán|20.255|-101.947|MX|Michoacán|74
 Nuevo Progreso|18.622|-92.292|MX|Campeche|74
+Nuevos Ministerios|40.444|-3.693|ES|Madrid|73|f
+Nunapitchuk Airport|60.906|-162.440|US|Alaska|73|f
 Nulti|-2.917|-78.850|EC|Azuay|73
 Nuth|50.917|5.886|NL|Limburg|73
 Nuanquan|38.817|106.191|CN|Ningxia|73
@@ -144,11 +158,17 @@ Numansdorp|51.732|4.438|NL|South Holland|73
 Nüdlingen|50.221|10.123|DE|Bavaria|73
 Nuñoa|-14.477|-70.636|PE|Puno|73
 Nuova Gibellina|37.807|12.870|IT|Sicily|73
+Nusa Ceningan|-8.700|115.452|ID|Bali|72|f
+Nuzi|35.383|44.300|IQ|Kirkuk|72|f
 Nueva Esperanza|17.247|-92.455|MX|Chiapas|72
 Nuevo Ixcatlán|17.641|-95.438|MX|Oaxaca|72
 Nurio|19.656|-102.129|MX|Michoacán|71
 Numancia de la Sagra|40.074|-3.851|ES|Castille-La Mancha|71
 Nuevo León|32.410|-115.189|MX|Baja California|71
+Nukabira Dam|43.373|143.221|JP|Hokkaido|71|f
+Nunivak Island|60.084|-166.415|US|Alaska|71|f
+Nunukan Airport|4.137|117.667|ID|East Kalimantan|71|f
+Nut Tree Airport|38.377|-121.963|US|California|71|f
 Nueva Gorgona|8.555|-79.874|PA|Panamá Oeste Province|71
 Nuvolento|45.546|10.388|IT|Lombardy|71
 Nueva Palestina|15.805|-92.752|MX|Chiapas|71
@@ -160,6 +180,9 @@ Nurma|59.550|31.017|RU|Leningradskaya Oblast'|70
 Nuşeni|47.100|24.200|RO|Bistrița-Năsăud County|70
 Numata|43.803|141.939|JP|Hokkaido|70
 Nuci|44.717|26.300|RO|Ilfov|70
+Nueva Guinea Airport|11.667|-84.450|NI|South Caribbean Coast|70|f
+Núi Tản Viên|21.063|105.361|VN|Hanoi|70|f
+Nuup Kangerlua|64.500|-51.383|GL|Sermersooq|70|f
 Nuštar|45.333|18.841|HR|Vukovar-Srijem|70
 Nueva Vida Sur|9.785|124.174|PH|Central Visayas|70
 Nuevo San Miguel|25.963|-109.054|MX|Sinaloa|70
@@ -170,6 +193,7 @@ Nueva Italia|-25.611|-57.466|PY|Central Department|69
 Nulvi|40.784|8.744|IT|Sardinia|69
 Nuevo León|16.486|-92.571|MX|Chiapas|69
 Nuquí|5.713|-77.271|CO|Chocó|69
+Nunkun|33.981|76.021|IN|Jammu and Kashmir|69|f
 Nueva Valencia|10.511|122.531|PH|Western Visayas|69
 Nutfield|51.245|-0.143|GB|England|69
 Nueve de Julio|-28.841|-58.830|AR|Corrientes|69
@@ -192,6 +216,12 @@ Nuraminis|39.443|9.014|IT|Sardinia|67
 Numaligarh Refinery Township|26.589|93.744|IN|Assam|67
 Nürensdorf|47.448|8.649|CH|Zurich|67
 Nunguni|-1.793|37.363|KE|Makueni County|67
+Nughu|-9.285|160.342|SB||67|f
+Núi Bà Đen|11.382|106.170|VN|Tay Ninh|67|f
+Nukufetau|-7.995|178.374|TV|Nukufetau|67|f
+Nukutavake Island|-19.281|-138.786|PF|Tuamotu-Gambier Islands|67|f
+Nunam Iqua Airport|62.524|-164.844|US|Alaska|67|f
+Nuremberg Airport|49.496|11.076|DE|Bavaria|67|f
 Nuevo Zirosto|19.549|-102.348|MX|Michoacán|67
 Nuevo Morelos|22.536|-99.218|MX|Tamaulipas|67
 Nuyo|7.418|124.411|PH|Autonomous Region in Muslim Mindanao|67
@@ -212,6 +242,13 @@ Nuxco|17.209|-100.756|MX|Guerrero|66
 Nuevo Limar|17.455|-92.399|MX|Chiapas|66
 Nunningen|47.394|7.620|CH|Solothurn|66
 Nukerke|50.796|3.595|BE|Flanders|66
+Nuevo Casas Grandes Municipal Airport|30.399|-107.876|MX|Chihuahua|65|f
+Nukutepipi Atoll|-20.700|-143.054|PF|Tuamotu-Gambier Islands|65|f
+Nulopa Island|-13.842|-172.129|WS||65|f
+Nuorttageašjiehkki|70.419|23.228|NO|Finnmark|65|f
+Nusatupi Island|-8.098|156.864|SB||65|f
+Nuulua Island|-14.073|-171.411|WS|Atua|65|f
+Nuussuaq|70.417|-52.500|GL|Avannaata|65|f
 Nuevo Tantoán|22.427|-98.571|MX|Tamaulipas|65
 Nus|45.740|7.467|IT|Aosta Valley|65
 Nuevo Milenio Valdivia|15.503|-92.949|MX|Chiapas|65
@@ -239,6 +276,20 @@ Nuevo Torno Largo|18.432|-93.164|MX|Tabasco|64
 Nucet|46.487|22.558|RO|Bihor County|64
 Nueva Jarilla|36.758|-6.031|ES|Andalusia|63
 Nuevo San Juan|9.226|-79.666|PA|Colón|63
+Nu’utele Island|-14.063|-171.423|WS||63|f
+Núi Cẩn|21.166|104.914|VN|Phu Tho|63|f
+Nukabira Yama|42.782|142.508|JP|Hokkaido|63|f
+Nuku Hiva Airport|-8.796|-140.229|PF|Marquesas Islands|63|f
+Nukui-damu|34.634|132.300|JP|Hiroshima|63|f
+Nukumanu Atoll|-4.531|159.429|PG|Bougainville|63|f
+Numa Peak|48.903|-114.161|US|Montana|63|f
+Numbulwar Airport|-14.272|135.717|AU|Northern Territory|63|f
+Nunatarsuaq|73.283|-55.250|GL|Avannaata|63|f
+Nuñez Point|-65.550|-64.250|AQ||63|f
+Nuorbejavri|69.552|23.983|NO|Finnmark|63|f
+Nusa Penida|-8.735|115.538|ID|Bali|63|f
+Nusa Simbo Island|-8.292|156.526|SB|Western Province|63|f
+Nuyts Archipelago|-32.281|133.555|AU|South Australia|63|f
 Nuevo León|25.719|-103.295|MX|Coahuila|63
 Nuaillé|47.095|-0.796|FR|Pays de la Loire|63
 Nuevo Pumpuapa (Cereso)|14.926|-92.365|MX|Chiapas|63
@@ -274,6 +325,17 @@ Nuevo Cereso Regional de Altamira|22.461|-98.008|MX|Tamaulipas|61
 Nuntași|44.538|28.649|RO|Constanța County|61
 Nuevo Xcán|20.869|-87.603|MX|Quintana Roo|61
 Nuevo Naranjo|17.154|-93.433|MX|Chiapas|61
+Nu’usafe’e Island|-14.047|-171.690|WS||61|f
+Nuha Beleng|-8.650|122.850|ID||61|f
+Núi Hồng Lĩnh|18.545|105.791|VN|Hà Tĩnh Province|61|f
+Nukunamo|-19.715|-174.274|TO|Haapai|61|f
+Nupskåpa Peak|-72.717|0.267|AQ||61|f
+Nupsskarvet Mountain|-71.933|8.867|AQ||61|f
+Nusser Island|-65.733|-65.706|AQ||61|f
+Nuuluk|73.550|-55.983|GL|Avannaata|61|f
+Nüümü Hu Hupi|37.477|-118.923|US|California|61|f
+Nuussuup Nuua|74.094|-57.281|GL|Avannaata|61|f
+Nuvsfjorden|70.273|22.089|NO|Finnmark|61|f
 Nueva Palestina|16.493|-93.634|MX|Chiapas|61
 Nuillé-sur-Vicoin|47.985|-0.783|FR|Pays de la Loire|61
 Nueva Jalapa|14.917|-88.333|HN|Santa Bárbara Department|61
@@ -290,28 +352,286 @@ Nueva Libertad|16.090|-92.809|MX|Chiapas|60
 Nuevo Refugio de Afuera (Nuevo Refugio)|20.549|-102.707|MX|Jalisco|60
 Nueva Ameyalco|19.298|-99.505|MX|México|60
 Nuristan|35.300|70.833|AF||60|r
+Nuevo Renacimiento 2000|20.436|-97.071|MX|Veracruz|60
+Nuevo Orizaba|16.082|-90.633|MX|Chiapas|60
+Nuevo Teapa|18.075|-94.321|MX|Veracruz|60
 Nußdorf am Haunsberg|47.959|13.009|AT|Salzburg|60
+Nucșoara de Jos|45.291|26.108|RO|Prahova|60
+Nuevo Huixtán|16.156|-91.413|MX|Chiapas|59
+Nueva Granada|15.117|-88.100|HN|Cortés Department|59
+Nuffield|51.579|-1.035|GB|England|59
+Nueva Palestina (Nandayacuti)|16.663|-92.973|MX|Chiapas|59
+Nuevo Poza Rica|16.164|-91.409|MX|Chiapas|59
+Nuevo Mieleras|25.441|-103.335|MX|Coahuila|59
+Nueva Colonia Copalillo (El Atorón)|20.752|-101.375|MX|Guanajuato|59
+Nuevo Resplandor|15.963|-92.301|MX|Chiapas|59
 Nuragus|39.778|9.037|IT|Sardinia|59
+Nuevo Pescadito de Abajo|18.238|-96.354|MX|Oaxaca|59
+Nuevo Ahuacatitla|21.926|-98.650|MX|San Luis Potosí|59
+Nuevo Momón|16.330|-91.743|MX|Chiapas|59
+Nussbach|47.972|14.164|AT|Upper Austria|59
+Nueva Florida|15.467|-87.500|HN|Yoro Department|59
+Nueva Tenochtitlán|15.194|-92.415|MX|Chiapas|59
+Nuevo Lindero|20.958|-101.638|MX|Guanajuato|59
+Nuevo Pescadito de Abajo Dos|18.147|-96.401|MX|Oaxaca|59
+Nuevo Cuyutlán|19.020|-104.118|MX|Colima|59
+Nuevo San Miguel Mitontic (Punta de Piedad)|16.800|-92.947|MX|Chiapas|59
+Nueva Esperanza|17.497|-94.163|MX|Veracruz|59
+Nueva Victoria|15.020|-92.472|MX|Chiapas|59
+Nueva Armenia|15.033|-89.100|HN|Copán Department|59
+Nugola|43.578|10.441|IT|Tuscany|59
+Nuevo Atoyac|17.657|-94.404|MX|Veracruz|59
+Nuevo Uruapan|30.073|-115.708|MX|Baja California|59
+Ñumi|-25.951|-56.330|PY|Guairá|59
 Nuevo Colón|5.354|-73.457|CO|Boyacá|59
+Nuevo Valle de Moreno|21.212|-101.425|MX|Guanajuato|59
+Nuevo Graseros|25.258|-103.743|MX|Durango|59
+Nuevo Morelos|24.001|-98.331|MX|Tamaulipas|59
+Nuevo Pescadito de Málzaga (La Breña)|18.353|-96.381|MX|Oaxaca|59
+Nurnus|40.346|44.603|AM|Kotayk|59
+Nunney|51.207|-2.379|GB|England|59
+Nueva Galilea|17.318|-91.853|MX|Chiapas|59
+Nuevo Llano Grande|15.822|-91.921|MX|Chiapas|58
+Nucourt|49.159|1.853|FR|Île-de-France|58
+Nünschweiler|49.224|7.507|DE|Rheinland-Pfalz|58
+Nuevo Centro de Población Tlachichuca|19.282|-97.569|MX|Puebla|58
 Nughedu San Nicolò|40.557|9.021|IT|Sardinia|58
+Nuevo Progreso|32.466|-116.782|MX|Baja California|58
+Núñez|22.689|-100.506|MX|San Luis Potosí|58
+Nueva Londres|-25.404|-56.549|PY|Caaguazú Department|58
+Nuevo Progreso|16.522|-97.894|MX|Oaxaca|58
+Nueva Libertad|15.407|-92.706|MX|Chiapas|58
+Nubian Desert|20.500|33.000|SD|River Nile|58|f
+Nudo de Quenamari|-14.150|-70.383|PE|Puno|58|f
+Núi Bà Rá|11.817|107.000|VN|Dong Nai|58|f
+Nui Coc Lake|21.576|105.704|VN|Thai Nguyen|58|f
+Nukapu|-10.081|166.051|SB||58|f
+Nukuroa Airport|-19.843|-157.703|CK|Mitiaro|58|f
+Numbat Island|-67.567|47.967|AQ||58|f
+Nunn Island|-74.283|-117.000|AQ||58|f
+Nutaarmiut|72.700|-55.417|GL|Avannaata|58|f
+Nuuksion Kansallispuisto|60.300|24.467|FI|Uusimaa|58|f
+Nucetu|44.395|26.900|RO|Călărași County|58
+Nūrsar|36.687|51.325|IR|Māzandarān|58
+Nucșoara de Sus|45.281|26.114|RO|Prahova|58
+Nuevo Veracruz|16.086|-90.682|MX|Chiapas|58
+Nuevo Capirio|18.864|-102.119|MX|Michoacán|58
+Nuevo Miramar|21.381|-99.033|MX|San Luis Potosí|58
+Nuevo Galeana|18.546|-100.628|MX|Guerrero|58
+Nuevo Centla|18.623|-92.525|MX|Tabasco|58
+Nußdorf|46.833|12.800|AT|Tyrol|58
+Nuevo Reque|-6.880|-79.815|PE|Lambayeque|58
+Nūq|34.293|58.159|IR|Razavi Khorasan|58
+Nuevo Chicayán|21.763|-98.171|MX|Veracruz|58
+Nuevo Santa Elena de Aceves (El Capricho)|20.474|-101.978|MX|Guanajuato|58
 Nur|52.668|22.322|PL|Mazovia|58
+Nuevo Tejamanil|20.723|-97.392|MX|Veracruz|58
+Nuevo Centro de Población Ejidal el 30|24.610|-107.389|MX|Sinaloa|58
+Nuevo Progreso|17.138|-95.050|MX|Oaxaca|57
+Nuevo Cantón|17.324|-94.527|MX|Veracruz|57
+Nuevo Celedin|-6.586|-76.537|PE|San Martín Department|57
+Nusnäs|60.967|14.633|SE|Dalarna|57
+Nueva Vida|-5.552|-76.693|PE|Loreto|57
+Nueva Rosita|18.294|-90.738|MX|Campeche|57
+Nueva Vaquería|19.094|-97.212|MX|Veracruz|57
+Nueva Providencia|16.379|-91.363|MX|Chiapas|57
+Nuh|38.596|30.332|TR|Afyonkarahisar Province|57
+Nuevo Zoquiapan|20.438|-97.761|MX|Puebla|57
+Nulkaba|-32.810|151.348|AU|New South Wales|57
+Nuevo Chespal|15.115|-92.211|MX|Chiapas|57
+Nueva Samaria|17.196|-91.612|MX|Chiapas|57
+Nuevo Valle (Ex-Hacienda del Valle)|20.471|-102.588|MX|Jalisco|57
+Nueva Patria|18.313|-96.427|MX|Oaxaca|57
+Nucla|38.269|-108.548|US|Colorado|57
+Nueva Granada|14.983|-92.283|MX|Chiapas|57
+Nueva Sabanilla|16.265|-91.222|MX|Chiapas|57
+Nuevo Paraíso|16.889|-92.071|MX|Chiapas|57
+Nueva Esperanza|-3.642|-80.607|PE|Tumbes|57
+Nueva Esperanza|17.874|-92.544|MX|Tabasco|57
 Nuova Conza della Campania|40.859|15.336|IT|Campania|57
+Nuevo Progreso|23.176|-97.950|MX|Tamaulipas|57
+Nucatilí|16.685|-92.922|MX|Chiapas|57
+Nueva Luz|-11.468|-73.032|PE|Cuzco Department|57
+Nuevo Carrizal|20.501|-97.895|MX|Puebla|57
+Nuis|53.151|6.306|NL|Groningen|57
+Nueva Colombia|-25.188|-57.305|PY|Cordillera Department|57
+Nuevo Chihuahua|16.255|-90.504|MX|Chiapas|57
+Nuevo Aquismón|22.326|-98.819|MX|San Luis Potosí|57
+Nueva Tabasqueña|17.523|-93.999|MX|Veracruz|57
+Nuevo Cueytzén|21.696|-98.873|MX|San Luis Potosí|57
+Nuevo Villaflores|15.856|-91.978|MX|Chiapas|57
+Nuevo México|15.687|-92.102|MX|Chiapas|57
+Nuangola|41.155|-75.978|US|Pennsylvania|57
+Nuevo Mazapa|15.776|-92.140|MX|Chiapas|57
+Nuevo Mezcalapa|16.973|-93.448|MX|Chiapas|56
+Nuevo Progreso Dos|18.620|-90.915|MX|Campeche|56
+Nuevo México|16.569|-92.085|MX|Chiapas|56
+Nuevo Rocafuerte|-0.926|-75.402|EC|Orellana Province|56
+Nuevo Bosque|19.496|-100.035|MX|México|56
+Nuevo Copaltepec|18.384|-100.287|MX|México|56
+Nuevo Pescadito de Enmedio|18.271|-96.379|MX|Oaxaca|56
+Nueva Chontalpa|18.477|-91.093|MX|Campeche|56
+Nuevo Paso Nacional|18.243|-96.397|MX|Oaxaca|56
+Nußbach|49.633|7.700|DE|Rheinland-Pfalz|56
+Nuevo Mundo|22.734|-102.204|MX|Zacatecas|56
+Nubia|37.978|12.513|IT|Sicily|56
 Nuez de Ebro|41.590|-0.668|ES|Aragon|56
+Nueva Coapa (Estación Echegaray)|15.625|-93.166|MX|Chiapas|56
+Nuevo Amanecer|20.186|-100.119|MX|Querétaro|56
+Nüzhetiye|40.640|29.863|TR|Kocaeli|56
+Nuevo Andoas|-2.808|-76.455|PE|Loreto|56
+Nuevo Mariscal|16.979|-91.184|MX|Chiapas|56
+Nueva Esperanza|16.213|-93.289|MX|Chiapas|56
+Nuevo Israel|20.698|-103.267|MX|Jalisco|56
+Nueva Morelia|15.758|-92.449|MX|Chiapas|56
+Nuevo Brasil|15.198|-92.533|MX|Chiapas|56
 Nukufetau|-8.000|178.371|TV||55|r
+Nueva Esperanza Uno|15.442|-92.243|MX|Chiapas|55
+Nuevo Zinacantán|16.604|-92.521|MX|Chiapas|55
+Nuevo Sonora|17.423|-91.887|MX|Chiapas|55
+Nuevo Cerro Mojarra|17.446|-95.329|MX|Oaxaca|55
+Nuevo Vicencio|19.288|-97.686|MX|Puebla|55
+Nueva Independencia (Ampliación Calera)|15.207|-92.347|MX|Chiapas|55
+Nuevo Tonosí|9.556|-79.613|PA|Colón|55
+Nuevo Ayotoxco|21.456|-98.840|MX|San Luis Potosí|55
+Nussdorf ob der Traisen|48.353|15.696|AT|Lower Austria|55
+Nueva Costa Rica|15.468|-92.813|MX|Chiapas|55
+Nueva Libertad|16.267|-92.280|MX|Chiapas|55
+Nueva Esperanza (La Esperanza)|17.111|-91.677|MX|Chiapas|55
+Nuevo Poblado el Hato|17.937|-94.969|MX|Veracruz|55
+Nuevo San Carlos|16.693|-91.967|MX|Chiapas|55
+Nuevo San Diego (El Caballo)|24.954|-105.974|MX|Durango|55
+Nuevo Becar|18.725|-89.131|MX|Quintana Roo|55
+Nūrā’ī-ye Now|27.359|53.118|IR|Fars|55
+Nussdorf am Attersee|47.883|13.517|AT|Upper Austria|55
+Nuevo Horizonte|-5.836|-78.526|PE|Amazonas|55
+Nuraxi Figus|39.223|8.433|IT|Sardinia|55
+Nuevo Potrero|18.105|-95.608|MX|Veracruz|55
+Nueva Colonia San Carlos|21.049|-101.593|MX|Guanajuato|55
+Nueva Pastoría|23.587|-101.912|MX|Zacatecas|55
+Nuevo Progreso (Casas Viejas)|20.049|-101.651|MX|Michoacán|55
+Nuevo Rodulfo Figueroa|16.221|-91.262|MX|Chiapas|55
+Nutiví|8.871|-81.841|PA|Ngöbe-Buglé Comarca|55
+Nuevo Jerusalén|16.896|-92.026|MX|Chiapas|55
+Nuelles|45.850|4.623|FR|Auvergne-Rhône-Alpes|55
+Nuevo Tenancingo|20.424|-97.925|MX|Puebla|55
 Nukunonu|-9.200|-171.848|TK|Nukunonu|55
+Nueva América|15.284|-92.443|MX|Chiapas|54
+Nuevo San Gregorio|15.845|-91.984|MX|Chiapas|54
+Nueva Reforma|16.188|-90.586|MX|Chiapas|54
+Nunapitchuk|60.897|-162.459|US|Alaska|54
+Nuasjärvi|64.173|28.082|FI|Kainuu|54|f
+Nuatambu|-7.128|157.160|SB||54|f
+Nubara|-9.220|153.112|PG|Milne Bay Province|54|f
+Nueva Loja Airport|0.093|-76.868|EC|Sucumbíos|54|f
+Nueve de Julio Glacier|-68.433|-66.867|AQ||54|f
+Nukus / Karakalpakstan|42.480|59.630|UZ|Karakalpakstan|54|f
+Nulato Airport|64.725|-158.083|US|Alaska|54|f
+Nuorajärvi|62.684|31.118|FI|North Karelia|54|f
+Nüpli Järv|58.034|26.495|EE|Valgamaa|54|f
+Nupshamrane Peaks|-71.950|-3.333|AQ||54|f
+Nupskammen Ridge|-72.133|2.367|AQ||54|f
+Nūris|32.533|35.367|IL|Northern District|54|f
+Nusa Lembongan|-8.684|115.448|ID|Bali|54|f
+Nushagak Bay|58.622|-158.591|US|Alaska|54|f
+Nut Island|42.279|-70.954|US|Massachusetts|54|f
+Nuevo Santo Tomás|16.203|-91.410|MX|Chiapas|54
+Nundle|-31.465|151.126|AU|New South Wales|54
+Nuevo San Joaquín|17.278|-91.758|MX|Chiapas|54
+Nueva Libertad|17.101|-91.308|MX|Chiapas|54
+Nuevo México|17.208|-93.580|MX|Chiapas|54
+Nuevo Poblado el Caracol|17.959|-100.022|MX|Guerrero|54
+Nucet|45.159|26.288|RO|Prahova|54
 Nughedu Santa Vittoria|40.101|8.952|IT|Sardinia|54
+Nuevo Jericó|17.132|-91.543|MX|Chiapas|54
+Nuevo San Juan Chamula|16.899|-93.515|MX|Chiapas|54
+Nuevo Conhuás|18.541|-89.923|MX|Campeche|54
+Nuevo Matzám|16.123|-91.363|MX|Chiapas|54
+Nueva Santa Cruz|-5.868|-77.422|PE|San Martín Department|54
+Nußbaum|49.800|7.617|DE|Rheinland-Pfalz|54
+Nusbaum|49.917|6.350|DE|Rheinland-Pfalz|53
 Nueno|42.267|-0.439|ES|Aragon|53
 Nuevo Chagres|9.240|-80.083|PA|Colón|52
 Nui|-7.232|177.152|TV||52|r
 Nueva Villa de las Torres|41.268|-5.057|ES|Castille and León|52
 Nuévalos|41.212|-1.790|ES|Aragon|52
 Nureci|39.823|8.975|IT|Sardinia|50
+Nutteln|53.988|9.387|DE|Schleswig-Holstein|50
 Nueva Arenosa|8.870|-79.997|PA|Panamá Oeste Province|49
+Nuakata Island|-10.281|151.019|PG|Milne Bay Province|49|f
+Nuga Nuga National Park|-24.964|148.686|AU|Queensland|49|f
+Nuguria Airstriip|-3.409|154.740|PG|Bougainville|49|f
+Nuka Island|59.358|-150.670|US|Alaska|49|f
+Nukulau Island|-18.174|178.515|FJ|Central|49|f
+Nullarbor National Park|-31.456|129.899|AU|South Australia|49|f
+Nullica Bay|-37.082|149.885|AU|New South Wales|49|f
+Nupkins Island|-65.444|-65.679|AQ||49|f
+Nursery Glacier|-81.267|160.500|AQ||49|f
+Nussbaum Riegel|-77.667|162.767|AQ||49|f
+Nutt, Cape|-66.633|108.217|AQ||49|f
+Nuyts Archipelago Conservation Park|-32.310|133.514|AU|South Australia|49|f
+Nuyts Reef Conservation Park|-32.112|132.152|AU|South Australia|49|f
 Nucetto|44.340|8.060|IT|Piedmont|49
 Nuestro Amo|8.448|-80.594|PA|Coclé|47
 Nuño Gómez|40.114|-4.620|ES|Castille-La Mancha|46
+Nürburg|50.333|6.950|DE|Rheinland-Pfalz|45
+Nub Peak|50.931|-115.657|CA|British Columbia|40|f
+Nubanusit Lake|42.973|-72.003|US|New Hampshire|40|f
+Nuchatlitz Park|49.833|-126.920|CA|British Columbia|40|f
+Nudlung Island|68.368|-66.847|CA|Nunavut|40|f
+Nueces Bay|27.851|-97.433|US|Texas|40|f
+Nüenchamm|47.091|9.121|CH|Glarus|40|f
+Nuevo Estadio Los Pajaritos|41.755|-2.468|ES|Castille and León|40|f
+Nufenenstock|46.467|8.388|CH|Ticino|40|f
+Nugent Island|-29.217|-177.833|NZ||40|f
+Nugget Mountain|58.427|-134.354|US|Alaska|40|f
+Nugguren|60.315|12.072|NO|Innlandet|40|f
+Nukulakia|-9.419|-171.216|TK|Fakaofo|40|f
+Nukumatau|-9.395|-171.238|TK|Fakaofo|40|f
+Numa Falls|51.133|-116.132|CA|British Columbia|40|f
+Numaykoos Lake Provincial Park|57.866|-95.964|CA|Manitoba|40|f
+Nun Appleton Priory|53.852|-1.156|GB|England|40|f
+Nunajuak Island|64.324|-75.967|CA|Nunavut|40|f
+Nünalphorn|46.824|8.326|CH|Nidwalden|40|f
+Nunatak Island|66.467|-66.964|CA|Nunavut|40|f
+Nunatsiaq Island|67.981|-65.308|CA|Nunavut|40|f
+Nunavakanuk Lake|62.058|-164.599|US|Alaska|40|f
+Nungesser Lake|51.472|-93.540|CA|Ontario|40|f
+Nunney Castle|51.210|-2.378|GB|England|40|f
+Nuns of the Battlefield Monument|38.906|-77.040|US|District of Columbia|40|f
+Nuntsi Park|51.744|-123.786|CA|British Columbia|40|f
+Nuraghe Arrubiu|39.662|9.298|IT|Sardinia|40|f
+Nuraghe Genna Maria|39.635|8.854|IT|Sardinia|40|f
+Nuraghe Losa|40.117|8.790|IT|Sardinia|40|f
+Nuraghe Santu Antine|40.487|8.770|IT|Sardinia|40|f
+Nürnberg, Germanisches Nationalmuseum|49.448|11.076|DE|Bavaria|40|f
+Nusatsum Mountain|52.397|-126.378|CA|British Columbia|40|f
+Nüschenstock|46.869|9.018|CH|Glarus|40|f
+Nushagak Peninsula|58.553|-158.976|US|Alaska|40|f
+Nuss Lake|42.146|-121.636|US|Oregon|40|f
+Nussbaumersee|47.615|8.817|CH|Thurgau|40|f
+Nuthinaw Mountain|58.783|-131.054|CA|British Columbia|40|f
+Nuttby Mountain|45.550|-63.215|CA|Nova Scotia|40|f
+Nutzotin Mountains|62.167|-141.667|US|Alaska|40|f
+Nuuksuq Glacier|69.393|-68.428|CA|Nunavut|40|f
+Nuvujen Island|65.451|-66.831|CA|Nunavut|40|f
+Nuvuk Islands|62.401|-78.049|CA|Nunavut|40|f
+Nuvuktik Island|65.551|-62.480|CA|Nunavut|40|f
+Nuvursiit Islands|62.726|-69.654|CA|Nunavut|40|f
+Nuvursirpaaraaluk Island|62.717|-69.731|CA|Nunavut|40|f
 Nuario|7.527|-80.320|PA|Los Santos Province|39
 Nu'erbage|37.112|79.921|CN|Xinjiang|0
+Nuajena|-8.730|121.747|ID|East Nusa Tenggara|0
+Nuakota|-8.829|121.697|ID|East Nusa Tenggara|0
+Nuamuri|-8.587|121.861|ID|East Nusa Tenggara|0
+Nuamuzi|-8.857|121.012|ID|East Nusa Tenggara|0
+Nuanchitang|41.028|120.664|CN|Liaoning|0
+Nuanquan|40.382|122.503|CN|Liaoning|0
+Nuanquan|39.698|111.733|CN|Inner Mongolia|0
+Nuasepu|-8.796|121.635|ID|East Nusa Tenggara|0
+Nübel|54.563|9.586|DE|Schleswig-Holstein|0
+Nubma|29.464|89.636|CN|Tibet|0
+Nübu|29.263|119.461|CN|Zhejiang|0
 Nüden|43.583|110.467|MN|East Gobi Aymag|0
 Nueva Arica|-6.873|-79.343|PE|Lambayeque|0
 Nueva Cajamarca|-5.941|-77.308|PE|San Martín Department|0
@@ -326,17 +646,47 @@ Nuevo Lima|-7.100|-76.472|PE|San Martín Department|0
 Nuevo Occoro|-12.595|-75.020|PE|Huancavelica|0
 Nuevo Progreso|-8.453|-76.324|PE|Huánuco Department|0
 Nuga|48.317|95.117|MN|Dzabkhan|0
+Nuhawala|-8.375|124.239|ID|East Nusa Tenggara|0
 Núi Đèo|20.916|106.674|VN|Hai Phong|0
 Núi Đối|20.751|106.669|VN|Hai Phong|0
 Nukulaelae|-9.384|179.846|TV||0|r
 Nukuoro|3.836|154.971|FM|Pohnpei State|0
+Nularan|-9.614|124.666|ID|East Nusa Tenggara|0
 Numancia|11.706|122.328|PH|Western Visayas|0
+Numba|-8.807|121.526|ID|East Nusa Tenggara|0
+Numeto|-9.768|124.276|ID|East Nusa Tenggara|0
+Nunang|-8.720|120.004|ID|East Nusa Tenggara|0
+Nunbaki|-9.848|124.167|ID|East Nusa Tenggara|0
+Nunbaundelha|-10.172|123.570|ID|East Nusa Tenggara|0
+Nunbaunsabu|-10.172|123.566|ID|East Nusa Tenggara|0
 Nung Udoe|4.917|7.963|NG|Akwa Ibom State|0
+Nungga|-8.483|118.793|ID|West Nusa Tenggara|0
+Nunhala|-9.622|124.492|ID|East Nusa Tenggara|0
+Nunhila|-10.168|123.571|ID|East Nusa Tenggara|0
+Nunkurus|-10.063|123.827|ID|East Nusa Tenggara|0
+Nunleu|-9.880|124.624|ID|East Nusa Tenggara|0
+Nunmanu|-10.043|124.338|ID|East Nusa Tenggara|0
+Nunpo|-9.485|124.356|ID|East Nusa Tenggara|0
+Nunsena|-9.519|124.449|ID|East Nusa Tenggara|0
+Nunsena|-9.528|124.169|ID|East Nusa Tenggara|0
 Nunthorpe|54.529|-1.184|GB|England|0
+Nunukae|-8.801|121.153|ID|East Nusa Tenggara|0
+Nunumeu Timur|-9.863|124.299|ID|East Nusa Tenggara|0
+Nunutba|-10.218|123.627|ID|East Nusa Tenggara|0
+Nunutoko|-9.948|124.633|ID|East Nusa Tenggara|0
 Nuojiang|31.916|107.243|CN|Sichuan|0
+Nuomin|49.195|123.732|CN|Inner Mongolia|0
+Nuoxizhi|30.279|109.629|CN|Hubei|0
+Nur|36.325|81.060|CN|Xinjiang|0
+Nurabelen|-8.517|122.826|ID|East Nusa Tenggara|0
 Nurettin|39.281|42.507|TR|Muş|0
 Nurettin|39.229|42.418|TR|Muş|0
 Nūrgal|34.613|70.765|AF|Kunar|0
+Nurigai|39.494|101.080|CN|Inner Mongolia|0
 Nurobod Shahri|39.609|66.287|UZ|Samarqand Region|0
 Nurota Shahri|40.568|65.679|UZ|Navoiy Region|0
+Nusaherang|-7.009|108.445|ID|West Java|0
+Nusajaya|-8.482|118.306|ID|West Nusa Tenggara|0
 Nūsay|38.444|70.804|AF|Badakhshan|0
+Nusplingen|48.133|8.892|DE|Baden-Wurttemberg|0
+Nuwen Muren|46.751|123.601|CN|Heilongjiang|0

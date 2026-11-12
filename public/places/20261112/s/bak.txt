@@ -26,6 +26,7 @@ Baker|30.588|-91.168|US|Louisiana|83
 Bakel|14.902|-12.459|SN|Tambacounda|82
 Bakhtāwarpur|28.823|77.175|IN|Delhi|82
 Bakori|11.556|7.424|NG|Katsina State|82
+Baku Crystal Hall|40.344|49.850|AZ||81|f
 Bakāni|24.286|76.237|IN|Rajasthan|80
 Baker City|44.775|-117.834|US|Oregon|80
 Bakaly|55.179|53.796|RU|Bashkortostan Republic|80
@@ -33,8 +34,10 @@ Bakayo|5.533|-6.044|CI|Bas-Sassandra District|79
 Bakanou A|5.594|-4.635|CI|Lagunes District|79
 Bakchar|57.021|82.072|RU|Tomsk Oblast|77
 Baksanenok|43.690|43.655|RU|Kabardino-Balkariya Republic|77
+Baker Lake Airport|64.299|-96.078|CA|Nunavut|77|f
 Bakanas|44.806|76.275|KZ|Almaty Region|77
 Baklan|37.977|29.609|TR|Denizli|77
+Bakouma Airport|5.694|22.801|CF|Mbomou|76|f
 Bakhshāyesh|38.133|46.946|IR|East Azerbaijan|76
 Bakum|52.741|8.195|DE|Lower Saxony|75
 Bakov nad Jizerou|50.482|14.941|CZ|Central Bohemia|75
@@ -48,6 +51,7 @@ Bakkum|52.559|4.657|NL|North Holland|72
 Bakewell|53.213|-1.675|GB|England|72
 Bakaur|26.063|86.505|IN|Bihar|71
 Bakulong|15.538|120.638|PH|Central Luzon|71
+Baker Airport|35.287|-116.081|US|California|71|f
 Bakhtīār|35.906|50.630|IR|Alborz Province|71
 Bakung|4.891|119.794|PH|Autonomous Region in Muslim Mindanao|70
 Bakonycsernye|47.324|18.075|HU|Fejér|70
@@ -58,6 +62,8 @@ Baka|7.276|124.264|PH|Autonomous Region in Muslim Mindanao|68
 Bako|9.139|-7.610|CI|Denguélé District|67
 Baksheyevo|55.709|39.877|RU|Moscow Oblast|67
 Baks|46.543|20.102|HU|Csongrád|67
+Bakassi Peninsula|4.566|8.595|CM|South-West|67|f
+Bakony|47.250|17.833|HU||67|f
 Bakandésso|7.885|-7.673|CI|Woroba|67
 Baker Lake|64.320|-96.021|CA|Nunavut|66
 Baker|46.367|-104.285|US|Montana|66
@@ -66,6 +72,8 @@ Bakhri Ahmad Khan|30.736|70.838|PK|Punjab|66
 Bakadagy|13.300|-14.383|GM|Upper River|66
 Bakonyszentlászló|47.389|17.803|HU|Győr-Moson-Sopron|66
 Bakkeveen|53.081|6.257|NL|Friesland|66
+Baker Mountain|33.842|-110.939|US|Arizona|65|f
+Bakkafjörður|66.029|-14.878|IS|Northeast|65|f
 Bakuriani|41.753|43.529|GE|Samtskhe-Javakheti|65
 Bakloh|32.479|75.919|IN|Punjab|65
 Bak|46.730|16.846|HU|Zala County|65
@@ -75,25 +83,94 @@ Bąków|49.893|18.715|PL|Silesia|64
 Bakovci|46.619|16.150|SI|Urban Municipality of Murska Sobota|63
 Bakoubli|6.463|-8.403|CI|Montagnes|63
 Bakoro-Sobara|8.390|-4.727|CI|Vallée du Bandama District|63
+Baker Island|44.242|-68.199|US|Maine|63|f
+Baker Peak|43.670|-114.680|US|Idaho|63|f
 Bakopla|7.767|-5.883|CI|Woroba|62
 Bakhilovo|53.401|49.636|RU|Samara Oblast|62
 Bakar|45.309|14.530|HR|Primorje-Gorski Kotar|61
+Bakdalsan|37.761|126.889|KR|Gyeonggi-do|61|f
+Båkeneset Headland|-71.350|-2.833|AQ||61|f
 Bakers Hill|-31.747|116.459|AU|Western Australia|61
 Bak’urianis Andezit’i|41.734|43.472|GE|Samtskhe-Javakheti|61
 Baksha|48.009|29.977|UA|Odesa|61
 Bakhuizen|52.870|5.459|NL|Friesland|60
+Bakosh|48.378|22.355|UA|Zakarpattia|60
+Bakałarzewo|54.094|22.652|PL|Podlasie|59
+Bakhtājerd|28.735|54.429|IR|Fars|59
+Bäk|53.712|10.786|DE|Schleswig-Holstein|58
+Bakdalbong|38.095|127.415|KR|Gyeonggi-do|58|f
+Baker Island|40.586|-80.662|US|West Virginia|58|f
+Baker Mountain|39.163|-78.557|US|West Virginia|58|f
+Baker Mountain|45.571|-69.394|US|Maine|58|f
+Baker Mountain|44.335|-74.103|US|New York|58|f
+Baker Municipal Airport|44.838|-117.810|US|Oregon|58|f
+Bakers Lake|44.679|-94.349|US|Minnesota|58|f
+Bakewell Island|-74.883|-19.167|AQ||58|f
+Bakinskiy Arkhipelag|39.500|49.750|AZ|Shirvan|58|f
+Bakke Mountain|42.736|-73.033|US|Massachusetts|58|f
+Bakıoğlu|41.442|32.346|TR|Bartın|58
+Bakoutié-Yao-Fiéni|7.808|-3.109|CI|Zanzan District|57
+Baker|35.265|-116.074|US|California|57
+Bakandī|36.390|49.573|IR|Qazvin Province|57
+Baker Trails|49.087|-121.937|CA|British Columbia|56
+Bakpani|6.603|-8.400|CI|Montagnes|56
+Bakaieve|49.688|32.476|UA|Cherkasy|55
+Bakroukro|6.689|-5.060|CI|Lacs District|55
+Bakaka Village|-2.500|175.980|KI|Gilbert Islands|55
+Baker-Brook|47.304|-68.511|CA|New Brunswick|55
+Bakro Sakassou|7.052|-5.095|CI|Lacs District|55
+Bakoundougou|8.372|-5.909|CI|Woroba|55
+Bakalalan Airport|3.974|115.618|MY|Sarawak|54|f
+Bake Oven Knob|40.749|-75.734|US|Pennsylvania|54|f
+Baker Island|55.359|-133.555|US|Alaska|54|f
+Baker Lake|48.727|-121.630|US|Washington|54|f
+Bakhuis Gebergte|4.208|-56.960|SR|Sipaliwini District|54|f
+Bakkaflói|66.106|-14.912|IS|Northeast|54|f
 Bakersville|36.016|-82.159|US|North Carolina|53
+Bakara Conservation Park|-34.513|139.938|AU|South Australia|49|f
+Baker|0.365|29.893|UG|Western Region|49|f
+Baker Dam|-32.148|137.683|AU|South Australia|49|f
+Baker Heritage Museum|30.592|-91.167|US|Louisiana|49|f
+Baker Island|41.526|-79.440|US|Pennsylvania|49|f
+Baker Mountain|40.376|-106.601|US|Colorado|49|f
+Baker Municipal Airport|46.358|-104.251|US|Montana|49|f
+Baker Ridge|-83.340|-55.648|AQ||49|f
+Bakharevka Airport|57.952|56.189|RU|Perm Krai|49|f
+Baking Pot|17.183|-89.000|BZ|Cayo District|49|f
+Bakki Airport|63.557|-20.146|IS|South|49|f
 Bakacak|40.205|27.083|TR|Canakkale|47
+Baker Bridge|40.286|-78.121|US|Pennsylvania|40|f
+Baker Glacier|-72.767|169.250|AQ||40|f
+Baker Hill|36.131|-91.658|US|Arkansas|40|f
+Baker Hill|42.475|-75.135|US|New York|40|f
+Baker Lake|49.133|-56.165|CA|Newfoundland and Labrador|40|f
+Baker Lake|64.167|-95.500|CA|Nunavut|40|f
+Baker Lake|40.648|-121.378|US|California|40|f
+Bakewell Castle Hill|53.216|-1.670|GB|England|40|f
+Bakossi Mountains Wildlife Preserve|5.051|9.567|CM|South-West|40|f
+Bakshev Ridge|-62.629|-61.209|AQ||40|f
 Bak Khlang|11.569|102.955|KH|Koh Kong|0
 Bakai-Ata|42.493|71.924|KG|Talas Region|0
 Bakaiku|42.892|-2.103|ES|Navarre|0
+Bakalan|-8.110|112.660|ID|East Java|0
+Bakalan|-8.170|111.792|ID|East Java|0
+Bakalang|-8.266|124.299|ID|East Nusa Tenggara|0
+Bakan|-8.466|123.471|ID|East Nusa Tenggara|0
 Bakan|12.602|103.786|KH|Pursat|0
+Bakaran Kulon|-6.705|111.126|ID|Central Java|0
+Bakaran Wetan|-6.707|111.135|ID|Central Java|0
 Bakau|-2.410|116.239|ID|South Kalimantan|0
+Bakbatu|-7.083|113.594|ID|East Java|0
 Baker Island|0.195|-176.479|UM||0|r
+Baki|-9.929|124.474|ID|East Nusa Tenggara|0
 Bakio|43.429|-2.809|ES|Basque Country|0
 Bakırdağı|38.216|35.790|TR|Kayseri|0
+Bakom|-7.032|107.998|ID|West Java|0
 Bakong|13.347|103.988|KH|Siem Reap|0
 Bakun|16.790|120.663|PH|Cordillera|0
+Bakunase|-10.186|123.586|ID|East Nusa Tenggara|0
+Bakung|-7.352|108.676|ID|Central Java|0
 Bakung|-8.259|112.073|ID|East Java|0
+Bakung Utara|-8.254|112.070|ID|East Java|0
 Bakungan|2.924|97.483|ID|Aceh|0
 Bakura|12.711|5.874|NG|Zamfara State|0

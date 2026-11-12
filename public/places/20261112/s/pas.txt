@@ -24,6 +24,7 @@ Pashkovskiy|45.024|39.104|RU|Krasnodar Krai|93
 Pasni|25.263|63.469|PK|Balochistan|93
 Passi|11.108|122.642|PH|Western Visayas|93
 Pasing|48.141|11.456|DE|Bavaria|91
+Pasargadae|30.203|53.181|IR|Fars|91|f
 Pašilaičiai|54.734|25.219|LT|Vilnius|90
 Pasichna|48.943|24.700|UA|Ivano-Frankivsk|90
 Pasān|22.844|82.198|IN|Chhattisgarh|90
@@ -48,6 +49,7 @@ Paso de Carrasco|-34.860|-56.052|UY|Canelones|84
 Passo de Camaragibe|-9.238|-35.493|BR|Alagoas|83
 Pasteur|43.721|7.283|FR|Provence-Alpes-Côte d'Azur|83
 Paso del Macho|18.971|-96.724|MX|Veracruz|83
+passerelle Léopold-Sédar-Senghor|48.862|2.325|FR|Île-de-France|82|f
 Paso de los Toros|-32.817|-56.517|UY|Tacuarembó Department|82
 Pasila|60.199|24.932|FI|Uusimaa|82
 Passo de Torres|-29.321|-49.724|BR|Santa Catarina|82
@@ -68,11 +70,15 @@ Pasir Panjang|2.432|101.935|MY|Negeri Sembilan|78
 Pasadena Hills|28.280|-82.224|US|Florida|78
 Paso de Ovejas|19.285|-96.440|MX|Veracruz|77
 Pasong Kawayan Primero|14.343|120.882|PH|Calabarzon|77
+Paso de los Libres Airport|-29.689|-57.152|AR|Corrientes|77|f
 Pastor Ortiz|20.303|-101.597|MX|Michoacán|76
+Paso Robles Municipal Airport|35.673|-120.628|US|California|76|f
 Pasvalys|56.063|24.400|LT|Panevėžys|76
 Passo do Sobrado|-29.748|-52.275|BR|Rio Grande do Sul|76
 Passage West|51.871|-8.335|IE|Munster|75
 Paso de la Patria|-27.317|-58.573|AR|Corrientes|75
+Passerelle Debilly|48.863|2.297|FR|Île-de-France|75|f
+Pasterze Glacier|47.100|12.700|AT|Carinthia|75|f
 Pasuquin|18.333|120.618|PH|Ilocos|75
 Pass Christian|30.316|-89.248|US|Mississippi|75
 Passirano|45.597|10.070|IT|Lombardy|75
@@ -86,6 +92,7 @@ Pasichna|48.570|24.415|UA|Ivano-Frankivsk|73
 Passignano sul Trasimeno|43.190|12.135|IT|Umbria|73
 Pasian|7.928|126.067|PH|Davao Region|73
 Passoscuro|41.902|12.157|IT|Lazio|72
+Passerelle Simone-de-Beauvoir|48.835|2.378|FR|Île-de-France|72|f
 Pashiya|58.432|58.256|RU|Perm Krai|72
 Passagem Franca do Piauí|-5.858|-42.440|BR|Piauí|72
 Passos Maia|-26.780|-52.061|BR|Santa Catarina|72
@@ -97,11 +104,14 @@ Paso de Cuarenta|21.504|-101.752|MX|Jalisco|71
 Pasha|60.395|33.043|RU|Leningradskaya Oblast'|71
 Pāsūr|11.230|77.861|IN|Tamil Nadu|71
 Paso Hondo|15.684|-92.019|MX|Chiapas|71
+Pasochoa|-0.433|-78.483|EC|Pichincha|71|f
 Pasadena|49.017|-57.598|CA|Newfoundland and Labrador|71
 Pastoriza|43.333|-8.467|ES|Galicia|71
 Paso de Hidalgo (Paso de Álamos)|20.273|-102.545|MX|Michoacán|70
 Pasibi West|15.859|120.379|PH|Ilocos|70
 Pasca|4.307|-74.301|CO|Cundinamarca|70
+Paşalimanı Adası|40.476|27.619|TR|Balıkesir|70|f
+Pasarel Island|-62.397|-59.775|AQ||70|f
 Passagem|-6.279|-35.377|BR|Rio Grande do Norte|70
 Passendale|50.900|3.021|BE|Flanders|70
 Pas de la Casa|42.543|1.734|AD|Encamp|70
@@ -109,6 +119,7 @@ Pāsla|31.102|75.685|IN|Punjab|69
 Pascarola|40.976|14.305|IT|Campania|69
 Pasegovo|58.506|49.514|RU|Kirov Oblast|69
 Pastrana|11.137|124.886|PH|Eastern Visayas|69
+Pasque Island|41.450|-70.827|US|Massachusetts|69|f
 Pastor Rovaix|25.682|-103.510|MX|Durango|69
 Passirana|45.548|9.044|IT|Lombardy|69
 Paseo Puente Viejo|20.569|-103.191|MX|Jalisco|69
@@ -123,6 +134,7 @@ Pasching|48.259|14.204|AT|Upper Austria|68
 Passo di Treia|43.286|13.332|IT|The Marches|67
 Pasil|10.838|122.610|PH|Western Visayas|67
 Pastetten|48.199|11.944|DE|Bavaria|67
+Pasteur Island|-66.617|140.100|AQ||67|f
 Paso de Arena|18.303|-100.846|MX|Guerrero|67
 Passo di Mirabella-Pianopantano|41.055|15.016|IT|Campania|67
 Passa Vinte|-22.209|-44.234|BR|Minas Gerais|67
@@ -136,6 +148,9 @@ Păsăreni|46.483|24.700|RO|Mureș County|66
 Paso Nacional|18.766|-95.749|MX|Veracruz|66
 Pasaco|13.977|-90.206|GT|Jutiapa|65
 Paseos de la Providencia [Fraccionamiento]|22.024|-102.277|MX|Aguascalientes|65
+Pascal Island|-66.783|141.483|AQ||65|f
+Pasjača Planina|43.152|21.625|RS|Central Serbia|65|f
+Pástra Óros|38.197|23.390|GR|Attica|65|f
 Paso Blanco|21.974|-102.317|MX|Aguascalientes|65
 Passabém|-19.353|-43.136|BR|Minas Gerais|64
 Paseos de las Haciendas [Fraccionamiento]|21.992|-102.344|MX|Aguascalientes|64
@@ -144,6 +159,7 @@ Pastos|18.118|-66.259|PR|Aibonito|64
 Paseo de San Javier|25.740|-100.134|MX|Nuevo León|64
 Passail|47.283|15.517|AT|Styria|63
 Pasaje|24.928|-103.807|MX|Durango|63
+Pasilaid|58.943|23.281|EE|Lääne|63|f
 Paslières|45.929|3.497|FR|Auvergne-Rhône-Alpes|63
 Paszowice|51.011|16.153|PL|Lower Silesia|63
 Passo Ripe|43.656|13.122|IT|The Marches|63
@@ -170,6 +186,8 @@ Paso Canoa|18.013|-96.238|MX|Oaxaca|61
 Pasanauri|42.351|44.689|GE|Mtskheta-Mtianeti|61
 Pastelera|23.745|-103.098|MX|Zacatecas|61
 Paseos de la Pradera|19.891|-99.238|MX|Hidalgo|61
+Pashupati̇̄nāth|27.710|85.348|NP|Bagmati Province|61|f
+Passage Canal|60.814|-148.525|US|Alaska|61|f
 Paso Morelos|18.221|-99.210|MX|Guerrero|61
 Passaggio|43.022|12.508|IT|Umbria|61
 Passarella|45.594|12.605|IT|Veneto|61
@@ -192,35 +210,260 @@ Paso Blanco|22.206|-101.071|MX|San Luis Potosí|60
 Paso Real de Sarabia|17.074|-95.047|MX|Oaxaca|60
 Paso de Méndez|22.516|-102.468|MX|Zacatecas|60
 Pastora|22.136|-100.057|MX|San Luis Potosí|60
+Pasjane|42.407|21.496|XK|Gjilan|60
+Paşalı|37.766|35.986|TR|Adana|60
+Pašino Ruvci|41.274|21.370|MK|Krivogashtani|60
+Paso del Cedro|19.504|-96.388|MX|Veracruz|60
+Pas-en-Artois|50.153|2.490|FR|Hauts-de-France|60
+Paso Real|22.061|-98.174|MX|Veracruz|60
+Paso de la Mina 1ra. Sección|17.920|-93.736|MX|Tabasco|59
+Pasadena Hills|38.708|-90.293|US|Missouri|59
+Paso del Pital|20.629|-97.418|MX|Veracruz|59
+Paso Blanco|9.128|-79.245|PA|Panamá|59
+Paso Colorado|19.066|-96.137|MX|Veracruz|59
+Pastenelle-Pacitti-Sprumaro|41.487|13.883|IT|Lazio|59
+Paseo de las Reynas|20.086|-98.710|MX|Hidalgo|59
 Pasturana|44.751|8.749|IT|Piedmont|59
+Pasay|10.114|124.896|PH|Eastern Visayas|59
+Passo del Bidollo|43.249|13.423|IT|The Marches|59
+Paszkówka|49.939|19.678|PL|Lesser Poland|59
+Pasărea|44.284|26.330|RO|Călărași County|59
+Paso de Patria|-27.243|-58.544|PY|Ñeembucú Department|59
+Paseo Nuevo|18.793|-97.199|MX|Veracruz|59
+Paseos del Roble|25.906|-100.200|MX|Nuevo León|58
+Passavant-la-Rochère|47.968|6.036|FR|Bourgogne-Franche-Comté|58
+Paso Real|21.803|-98.105|MX|Veracruz|58
+Passow|53.507|12.053|DE|Mecklenburg-Vorpommern|58
+Pasărea|44.473|26.320|RO|Ilfov|58
+Passage East|52.231|-6.974|IE|Munster|58
+Passage Islands|-51.581|-60.749|FK||58|f
+Passes Peak|-63.445|-57.056|AQ||58|f
+Passfjellet|78.000|15.033|SJ|Svalbard|58|f
+Pasteur Peninsula|-64.050|-62.383|AQ||58|f
+Paso del Águila|25.623|-103.372|MX|Coahuila|58
+Passais|48.517|-0.767|FR|Normandy|58
+Paso Hondo|25.282|-99.968|MX|Nuevo León|58
+Paso Nuevo la Hamaca|17.760|-96.226|MX|Oaxaca|58
+Passins|45.688|5.430|FR|Auvergne-Rhône-Alpes|58
+Paso Blanco|19.868|-96.873|MX|Veracruz|58
+Passatore|44.432|7.507|IT|Piedmont|58
+Paso de San Jacobo|17.651|-95.884|MX|Oaxaca|58
+Pashkivka|50.308|29.876|UA|Kyiv Oblast|57
+Pashalli|40.770|19.861|AL|Berat County|57
+Paso Amapa|18.649|-96.650|MX|Veracruz|57
+Paso Real de la Victoria|18.137|-92.875|MX|Tabasco|57
+Pasohlávky|48.903|16.544|CZ|South Moravian|57
+Pašovice|49.080|17.644|CZ|Zlín|57
+Paso del Jiote|16.216|-97.959|MX|Oaxaca|57
+Paso de la Milpa|19.427|-96.613|MX|Veracruz|57
+Pastoría|21.088|-98.140|MX|Veracruz|57
+Pasturago|45.327|9.077|IT|Lombardy|57
+Pasat|47.972|29.804|UA|Odesa|57
+Paso San Juan|19.202|-96.324|MX|Veracruz|57
+Pastores Primer Barrio|19.856|-99.988|MX|México|57
+Paso Ancho|15.843|-96.316|MX|Oaxaca|57
+Paso del Perro|20.845|-97.792|MX|Veracruz|57
+Paso del Progreso|20.335|-97.138|MX|Veracruz|57
+Paso de Doña Juana|19.477|-96.357|MX|Veracruz|56
+Pastene|41.082|14.813|IT|Campania|56
+Pastoria|37.750|-75.630|US|Virginia|56
 Paspardo|46.032|10.369|IT|Lombardy|56
+Paso del Águila|17.546|-95.639|MX|Oaxaca|56
+Paso del Ingenio|18.603|-95.363|MX|Veracruz|56
+Passa|42.579|2.812|FR|Occitanie|56
+Paso de Ganado|19.720|-103.210|MX|Jalisco|56
+Paso Real del Bejuco|22.020|-105.187|MX|Nayarit|56
+Paso del Rosario|18.735|-96.711|MX|Veracruz|56
+Paso Rincón|18.266|-96.290|MX|Oaxaca|56
+Paso Córdova|-39.107|-67.627|AR|Rio Negro|55
+Paso Chinal|17.496|-92.513|MX|Chiapas|55
+Paso Hondo|22.396|-105.561|MX|Nayarit|55
+Paşalar|39.974|28.304|TR|Bursa Province|55
+Paso Coyote|18.622|-96.327|MX|Veracruz|55
+Pasiecznik|50.957|15.572|PL|Lower Silesia|55
+Paso Escaleras|17.920|-96.484|MX|Oaxaca|55
+Paşaköy|41.094|35.401|TR|Samsun|55
+Paso Pimienta|19.124|-96.699|MX|Veracruz|55
+Paşaormanı|40.798|31.201|TR|Düzce|55
+Pāshābādī|34.968|46.747|IR|Kurdistan Province|55
+Paso de Coyutla|20.437|-97.701|MX|Veracruz|55
+Paso Nuevo|18.606|-96.576|MX|Veracruz|55
+Paso del Tío Pío|28.479|-100.903|MX|Coahuila|55
+Paso de la Reina|16.251|-97.596|MX|Oaxaca|55
+Paso Mulato|18.874|-96.694|MX|Veracruz|54
+Pasadena Memorial Stadium|29.670|-95.185|US|Texas|54|f
+Pasak Vis|43.836|19.382|RS|Central Serbia|54|f
+Pascal Island|-14.068|125.651|AU|Western Australia|54|f
+Pasighat Airport|28.066|95.336|IN|Arunachal Pradesh|54|f
+Pasilan linkkitorni|60.205|24.923|FI|Uusimaa|54|f
+Pasjača|43.953|19.380|RS|Central Serbia|54|f
+Påsketoppen|76.926|16.398|SJ|Svalbard|54|f
+Passage Island|-21.105|115.786|AU|Western Australia|54|f
+Passage Island|-51.371|-59.847|FK||54|f
+Passage Island|11.181|92.677|IN|Andaman and Nicobar|54|f
+Pastaza / Rio Amazonas|-1.506|-78.062|EC|Pastaza Province|54|f
+Pasto / Antonio Narin|1.396|-77.291|CO|Nariño|54|f
+Pastorium, Dexter Avenue Baptist Church|32.373|-86.296|US|Alabama|54|f
+Paso Bonilla|-31.808|-55.979|UY|Tacuarembó Department|54
+Paso de Piedra|19.977|-102.954|MX|Jalisco|54
+Paso del Moral|17.236|-94.599|MX|Veracruz|54
+Paso Real|19.183|-96.362|MX|Veracruz|54
+Paso Carretas|18.684|-96.138|MX|Veracruz|54
+Paso Lagarto|19.101|-96.506|MX|Veracruz|54
 Passerano Marmorito|45.056|8.019|IT|Piedmont|53
 Pastena|41.468|13.491|IT|Lazio|53
 Pašman|43.958|15.385|HR|Zadar|51
+Passade|54.366|10.320|DE|Schleswig-Holstein|50
+Pasaleng Bay|18.587|120.934|PH|Ilocos|49|f
+Pasayten Peak|48.796|-120.670|US|Washington|49|f
+Pascoe Glacier|-76.767|161.017|AQ||49|f
+Paseo Bridge|39.123|-94.566|US|Missouri|49|f
+Pasir Kiaraberes|-6.770|106.664|ID|West Java|49|f
+Pasir Ris Beach Park|1.384|103.945|SG||49|f
+Passader See|54.348|10.318|DE|Schleswig-Holstein|49|f
+Passage Island|-40.490|148.330|AU|Tasmania|49|f
+Passel, Mount|-76.833|-144.667|AQ||49|f
+Passfjellbreen|78.017|15.050|SJ|Svalbard|49|f
+Passower See|53.495|12.051|DE|Mecklenburg-Vorpommern|49|f
+Paschel|49.633|6.683|DE|Rheinland-Pfalz|48
+Paska|50.620|11.629|DE|Thuringia|43
+Pasadena Museum of California Art|34.147|-118.140|US|California|40|f
+Pascack Brook County Park|40.990|-74.012|US|New Jersey|40|f
+Paschal Glacier|-75.900|-140.667|AQ||40|f
+Paseo Santa Lucía|25.669|-100.310|MX|Nuevo León|40|f
+Pashleth Glacier|51.530|-126.220|CA|British Columbia|40|f
+Pasqua Lake|50.783|-104.001|CA|Saskatchewan|40|f
+Pass Island|47.491|-56.196|CA|Newfoundland and Labrador|40|f
+Pass Lake|39.655|-105.879|US|Colorado|40|f
+Passage Island|49.343|-123.306|CA|British Columbia|40|f
+Passage Island|48.233|-88.351|US|Michigan|40|f
+Passage Key National Wildlife Refuge|27.554|-82.744|US|Florida|40|f
+Passamaquoddy Bay|45.100|-66.982|CA|New Brunswick|40|f
+Passeio Alegre|41.380|-8.768|PT|Porto|40|f
+Passel Pond|-76.883|-145.083|AQ||40|f
+Passy Peak|-62.529|-60.141|AQ||40|f
+Pastor Peak|-85.900|-134.700|AQ||40|f
+Pastorius Park|40.072|-75.205|US|Pennsylvania|40|f
+Pastra Glacier|-63.767|-60.733|AQ||40|f
 Pásiga|8.941|-78.909|PA|Panamá|38
 Pastores|40.515|-6.510|ES|Castille and León|33
 Pas Pul|37.474|70.616|AF|Badakhshan|0
 Pasāband|33.690|64.853|AF|Ghowr|0
+Pasagipasir|-6.182|106.121|ID|Banten|0
+Pasanggrahan|-7.264|107.912|ID|West Java|0
 Pasanggrahan|-6.605|105.904|ID|Banten|0
+Pasanggrahan|-7.499|107.860|ID|West Java|0
+Pasanggrahan|-7.163|108.008|ID|West Java|0
+Pasanggrahan|-7.387|108.204|ID|West Java|0
+Pasanggrahan|-7.384|108.871|ID|Central Java|0
+Pasantrentengah|-7.076|107.968|ID|West Java|0
+Pasar|-7.101|107.958|ID|West Java|0
+Pasar|-7.095|108.100|ID|West Java|0
+Pasar|-6.859|115.319|ID|East Java|0
+Pasar Banjit|-4.799|104.483|ID|Lampung|0
+Pasar Kidul|-7.311|107.794|ID|West Java|0
+Pasar Kulon|-7.111|107.897|ID|West Java|0
+Pasar Sabtu|-7.310|108.267|ID|West Java|0
 Pasar Wajo|-5.496|122.845|ID|Southeast Sulawesi|0
 Pasararba|-2.259|115.317|ID|South Kalimantan|0
 Pasaraya|-6.765|-76.815|PE|San Martín Department|0
+Pasarbanggi|-6.699|111.394|ID|Central Java|0
 Pasarbaru|-1.305|100.510|ID|West Sumatra|0
+Pasarbaru|-6.521|105.937|ID|Banten|0
+Pasarbaru|-6.860|115.317|ID|East Java|0
+Pasargunung|-6.364|105.952|ID|Banten|0
+Pasarkayu|-7.027|113.882|ID|East Java|0
+Pasarkolot|-7.056|108.090|ID|West Java|0
 Pasarkuok|-1.441|100.622|ID|West Sumatra|0
+Pasarlama|-7.223|108.190|ID|West Java|0
+Pasarnangka|-6.330|106.034|ID|Banten|0
 Pasarujungbatu|1.036|99.948|ID|North Sumatra|0
+Pasatan|-6.823|111.815|ID|East Java|0
+Pasauran|-6.231|105.832|ID|Banten|0
 Pascualcobo|40.656|-5.277|ES|Castille and León|0
 Pasean|-6.893|113.581|ID|East Java|0
+Pasedan Dua|-6.863|111.382|ID|Central Java|0
+Pasembon|-8.508|114.157|ID|East Java|0
+Paseyan|-6.875|111.641|ID|East Java|0
 Pāshmūl|31.557|65.434|AF|Kandahar|0
+Pasinan Barat|-8.315|114.237|ID|East Java|0
 Pasingkan|-2.686|115.210|ID|South Kalimantan|0
+Pasir|-7.474|108.184|ID|West Java|0
+Pasir|2.140|100.807|ID|Riau|0
 Pasir Panjang|2.675|98.001|ID|Aceh|0
 Pasir Pengaraian|0.865|100.295|ID|Riau|0
+Pasiragung|-7.064|108.471|ID|West Java|0
+Pasiraman|-8.244|112.129|ID|East Java|0
+Pasiramis|-7.166|108.399|ID|West Java|0
+Pasirangin|-7.316|108.172|ID|West Java|0
+Pasirangin Satu|-7.280|107.548|ID|West Java|0
+Pasirangin Tiga|-7.267|106.651|ID|West Java|0
+Pasirawi|-7.097|106.952|ID|West Java|0
+Pasirawi|-6.387|106.048|ID|Banten|0
+Pasirbaros|-7.076|108.095|ID|West Java|0
+Pasirbatang|-7.363|108.358|ID|West Java|0
+Pasirbenda|-7.129|106.728|ID|West Java|0
+Pasirbitung|-7.264|106.641|ID|West Java|0
+Pasirbungur|-6.932|106.380|ID|Banten|0
+Pasirdalem|-7.218|106.604|ID|West Java|0
+Pasireunteung|-7.503|107.579|ID|West Java|0
+Pasireurih|-6.656|106.308|ID|Banten|0
+Pasireurih|-7.176|108.198|ID|West Java|0
+Pasirgadung Satu|-6.492|105.900|ID|Banten|0
+Pasirgaru|-7.410|107.679|ID|West Java|0
+Pasirgaru|-7.456|108.731|ID|Central Java|0
 Pasirgeleng|-6.803|106.013|ID|Banten|0
+Pasirgembong|-6.897|106.284|ID|Banten|0
+Pasirgeulis|-7.510|108.674|ID|West Java|0
+Pasirhaur|-6.777|106.017|ID|Banten|0
+Pasirhuni|-7.026|106.989|ID|West Java|0
+Pasirhuni|-7.298|107.930|ID|West Java|0
 Pasirian|-8.214|113.115|ID|East Java|0
+Pasiripis|-7.299|108.113|ID|West Java|0
+Pasiripis|-7.346|108.166|ID|West Java|0
+Pasirirnem|-7.565|107.924|ID|West Java|0
+Pasirjambu|-6.445|106.013|ID|Banten|0
+Pasirjambu|-7.334|107.539|ID|West Java|0
+Pasirjaya|-7.325|108.268|ID|West Java|0
+Pasirjengkol|-7.127|107.990|ID|West Java|0
+Pasirkadu|-6.515|105.853|ID|Banten|0
+Pasirlaja|-7.538|107.870|ID|West Java|0
+Pasirlaja|-7.052|106.860|ID|West Java|0
+Pasirlimus|-7.278|107.900|ID|West Java|0
+Pasirloa|-6.541|105.888|ID|Banten|0
 Pasirluhur|-7.104|107.955|ID|West Java|0
+Pasirmadang|-6.598|106.478|ID|West Java|0
+Pasirmalang|-7.256|106.614|ID|West Java|0
+Pasirmanggu|-7.268|107.108|ID|West Java|0
+Pasirmanggu|-7.237|108.592|ID|Central Java|0
+Pasirmukti|-7.441|108.342|ID|West Java|0
+Pasirnangka|-6.830|106.095|ID|Banten|0
+Pasirnangka|-6.789|105.629|ID|Banten|0
+Pasirnangka|-7.365|108.437|ID|West Java|0
+Pasirpanjang|-7.304|106.527|ID|West Java|0
+Pasirpanjang|-6.479|105.927|ID|Banten|0
 Pasirpanjang|1.126|103.350|ID|Riau Islands|0
+Pasirpanjang|-10.156|123.602|ID|East Nusa Tenggara|0
+Pasirporong|-7.255|106.938|ID|West Java|0
+Pasirputih|-8.543|123.263|ID|East Nusa Tenggara|0
+Pasirreungit|-7.010|107.010|ID|West Java|0
+Pasirsalam|-7.119|107.895|ID|West Java|0
+Pasirsalam|-7.396|108.078|ID|West Java|0
+Pasirsongket Dua|-7.311|106.595|ID|West Java|0
+Pasirtamiang|-7.211|108.210|ID|West Java|0
+Pasirtujuhpuluh|-7.627|108.103|ID|West Java|0
+Pasirtundun|-6.414|105.950|ID|Banten|0
+Pasirwangi|-7.461|107.664|ID|West Java|0
+Pasirwaringin|-6.410|105.941|ID|Banten|0
 Paskuqan|41.354|19.807|AL|Tirana|0
 Pasnay|35.767|65.765|AF|Sar-e Pol Province|0
+Pasolapida|-9.640|119.163|ID|East Nusa Tenggara|0
 Pasongsongan|-6.889|113.657|ID|East Java|0
+Pasonobenu|-9.550|119.171|ID|East Nusa Tenggara|0
+Paspan Krajan|-8.222|114.304|ID|East Java|0
+Pasrukrajan Satu|-8.119|113.058|ID|East Java|0
 Passi|0.765|124.298|ID|North Sulawesi|0
 Passo|-3.630|128.252|ID|Maluku|0
+Passow|53.143|14.114|DE|Brandenburg|0
+Pasucen|-6.658|111.052|ID|Central Java|0
 Pasuruan|-5.746|105.677|ID|Lampung|0

@@ -68,6 +68,7 @@ Zea|8.377|-71.784|VE|Mérida|79
 Zell|48.692|8.063|DE|Baden-Wurttemberg|78
 Zelów|51.465|19.220|PL|Łódź Voivodeship|78
 Zékrézinssou|7.072|-4.280|CI|Lacs District|78
+Zero Airport|27.588|93.828|IN|Arunachal Pradesh|78|f
 Zell am See|47.323|12.798|AT|Salzburg|78
 Zelenoborskiy|66.845|32.362|RU|Murmansk|77
 Zemer|32.365|35.038|IL|Central District|77
@@ -88,6 +89,7 @@ Zephyrhills West|28.231|-82.206|US|Florida|75
 Zeitlarn|49.078|12.112|DE|Bavaria|75
 Zeithain|51.334|13.338|DE|Saxony|75
 Zero Branco|45.600|12.164|IT|Veneto|75
+Zemio Airport|5.002|25.102|CF|Haut-Mbomou|75|f
 Željezno Polje|44.399|17.941|BA|Federation of B&H|75
 Zelenivka|46.717|32.657|UA|Kherson|75
 Zelhem|52.007|6.349|NL|Gelderland|75
@@ -103,6 +105,7 @@ Zebulon|35.824|-78.315|US|North Carolina|74
 Zee Hpyu Kone|25.990|95.697|MM|Sagaing Region|74
 Zébra|6.921|-6.529|CI|Sassandra-Marahoue|74
 Zeeland|51.697|5.676|NL|North Brabant|74
+Zemun Polje Airport|44.876|20.305|RS|Central Serbia|73|f
 Zémongokaha|9.646|-5.620|CI|Savanes District|73
 Zerarda|33.970|-4.380|MA|Fes-Meknes|73
 Zey|37.787|38.244|TR|Adıyaman Province|73
@@ -147,6 +150,8 @@ Zellwood|28.731|-81.601|US|Florida|69
 Zergbeu|5.901|-6.595|CI|Bas-Sassandra District|69
 Zeytinliova|38.991|27.676|TR|Manisa|69
 Žehra|48.980|20.792|SK|Košice Region|69
+Zegrze Reservoir|52.452|21.042|PL|Mazovia|69|f
+Zemplínska šírava|48.790|22.018|SK|Košice Region|69|f
 Zérifla|7.679|-5.990|CI|Sassandra-Marahoue|68
 Zelënyy Bor|53.622|91.615|RU|Krasnoyarsk Krai|68
 Zephyrhills North|28.252|-82.166|US|Florida|68
@@ -161,6 +166,7 @@ Zeilarn|48.300|12.843|DE|Bavaria|67
 Zeiskam|49.233|8.247|DE|Rheinland-Pfalz|67
 Zemianska Olča|47.808|17.867|SK|Nitra Region|67
 Zeveneken|51.108|3.890|BE|Flanders|67
+Zembra Island|37.127|10.804|TN|Nabeul Governorate|67|f
 Zelenoborsk|61.471|64.043|RU|Khanty-Mansia|67
 Zeitlofs|50.262|9.672|DE|Bavaria|67
 Zevenhoven|52.182|4.779|NL|South Holland|67
@@ -182,6 +188,8 @@ Zeillern|48.130|14.808|AT|Lower Austria|65
 Želechovice nad Dřevnicí|49.217|17.745|CZ|Zlín|65
 Zell im Fichtelgebirge|50.135|11.823|DE|Bavaria|65
 Zebil|44.946|28.769|RO|Tulcea County|65
+Zebrnjak|42.149|21.785|MK||65|f
+Zemlya Vil’cheka|80.634|60.651|RU|Arkhangelskaya|65|f
 Zerkegem|51.166|3.070|BE|Flanders|65
 Zendeh Jān|35.253|58.406|IR|Razavi Khorasan|65
 Żebbuġ|36.072|14.237|MT|Iż-Żebbuġ|65
@@ -210,6 +218,10 @@ Zębowice|50.763|18.344|PL|Opole Voivodeship|64
 Żegocina|49.814|20.420|PL|Lesser Poland|64
 Zelenohirske|47.878|30.098|UA|Odesa|63
 Zenīvand|36.795|53.321|IR|Māzandarān|63
+Zeiger|47.410|10.351|DE|Bavaria|63|f
+Zeller Horn|48.312|8.981|DE|Baden-Wurttemberg|63|f
+Zembretta Island|37.107|10.874|TN|Nabeul Governorate|63|f
+Zenobia Peak|40.607|-108.870|US|Colorado|63|f
 Zébizékou|6.349|-5.941|CI|Goh-Djiboua|63
 Zerind|46.617|21.517|RO|Arad County|63
 Zelo Surrigone|45.388|8.985|IT|Lombardy|63
@@ -250,6 +262,9 @@ Zellerndorf|48.697|15.958|AT|Lower Austria|61
 Zelenyi Hai|46.942|32.242|UA|Mykolaiv|61
 Zerfaliu|39.961|8.710|IT|Sardinia|61
 Zétrud-Lumay|50.757|4.887|BE|Wallonia|61
+Zélée Glacier|-66.867|141.167|AQ||61|f
+Zélée Rocks|-62.944|-57.254|AQ||61|f
+Zelienople Municipal Airport|40.798|-80.161|US|Pennsylvania|61|f
 Zéguéré|9.845|-6.014|CI|Savanes District|61
 Zéréguhé|6.432|-6.543|CI|Sassandra-Marahoue|61
 Zelocotitlán|17.448|-99.108|MX|Guerrero|61
@@ -269,34 +284,173 @@ Zerzavatçı|41.128|29.159|TR|Istanbul|60
 Zeme|45.197|8.667|IT|Lombardy|60
 Zernovoye|45.324|34.481|UA|Crimea|60
 Zelenikovo|41.873|21.603|MK|Zelenikovo|60
+Zeihen|47.476|8.085|CH|Aargau|60
+Zenderen|52.324|6.724|NL|Overijssel|60
+Zéhouo|6.600|-5.822|CI|Sassandra-Marahoue|60
+Zegelsem|50.819|3.718|BE|Flanders|60
 Zernovoye|45.288|33.864|UA|Crimea|59
+Zelene|45.465|34.733|UA|Crimea|59
+Zemo P’shap’i|42.886|41.146|GE|Abkhazia|59
+Zesso|10.160|-6.711|CI|Denguélé District|59
+Zelenyi Hai|48.070|36.653|UA|Donetsk|59
+Zéngouanou|7.779|-5.389|CI|Vallée du Bandama District|59
+Zelenyy Yar|47.687|31.002|UA|Mykolaiv|59
+Zettlitz|51.074|12.836|DE|Saxony|59
+Zeveren|50.996|3.499|BE|Flanders|59
+Zéré|8.012|-3.020|CI|Zanzan District|59
+Zerbino|45.494|10.166|IT|Lombardy|59
+Zetodigba|6.910|-6.566|CI|Sassandra-Marahoue|59
+Zemitz|53.978|13.755|DE|Mecklenburg-Vorpommern|59
+Zèdè-Bossi|7.517|-5.461|CI|Vallée du Bandama District|59
 Zerbolò|45.207|9.014|IT|Lombardy|59
+Ženklava|49.564|18.107|CZ|Moravian-Silesian Region|59
+Zeleniv|48.355|25.639|UA|Chernivtsi|58
+Zelenyi Yar|47.014|31.745|UA|Mykolaiv|58
+Zerman|45.578|12.269|IT|Veneto|58
 Zelene|48.047|24.750|UA|Ivano-Frankivsk|58
+Zechin|52.608|14.453|DE|Brandenburg|58
+Zeekoevlei|-34.061|18.516|ZA|Western Cape|58|f
+Zeiss Needle|-64.647|-62.542|AQ||58|f
+Želeč|49.318|14.647|CZ|South Bohemian Region|58
+Zemianske Podhradie|48.840|17.833|SK|Trenčín Region|58
+Zevgarákion|38.537|21.414|GR|West Greece|58
+Zellwiller|48.397|7.497|FR|Grand Est|58
+Žeranovice|49.291|17.604|CZ|Zlín|58
+Zeppernick|52.125|12.022|DE|Saxony-Anhalt|58
+Zeehan|-41.883|145.336|AU|Tasmania|58
+Zempoala|20.318|-101.080|MX|Guanajuato|57
+Zeil-Pöllau|47.324|15.838|AT|Styria|57
+Zehna|53.716|12.138|DE|Mecklenburg-Vorpommern|57
+Zedlitz|50.817|12.033|DE|Thuringia|57
+Zeyen|53.047|6.546|NL|Drenthe|57
+Zemendorf|47.763|16.451|AT|Burgenland|57
+Zeminiana|45.533|12.024|IT|Veneto|57
+Zeleni Koshary|47.881|30.840|UA|Mykolaiv|57
+Zegujani|44.809|22.915|RO|Mehedinți County|57
+Zemo-Machara|43.011|41.193|GE|Abkhazia|57
+Zevekote|51.138|2.921|BE|Flanders|57
+Zéli|38.659|22.875|GR|Central Greece|57
 Zemlyanichnoye|44.974|34.836|UA|Crimea|56
+Zeals|51.086|-2.312|GB|England|56
+Zelenyi Hai|47.018|34.712|UA|Zaporizhzhia|56
 Zell am Moos|47.900|13.317|AT|Upper Austria|56
+Zernovoye|45.630|34.144|UA|Crimea|56
+Zeil|47.256|15.809|AT|Styria|56
+Zelen|51.692|26.206|UA|Rivne Oblast|56
+Zemo Orozmani|41.298|44.181|GE|Kvemo Kartli|56
+Zellach|46.861|14.855|AT|Carinthia|56
+Zelene|48.457|33.421|UA|Kirovohrad|56
+Zeytinli|36.952|37.422|TR|Gaziantep|56
+Zelków|50.159|19.795|PL|Lesser Poland|55
+Žehušice|49.969|15.407|CZ|Central Bohemia|55
+Želeč|49.346|17.098|CZ|Olomouc Region|55
+Zelyonaya Niva|45.935|33.892|UA|Crimea|55
 Zederhaus|47.156|13.506|AT|Salzburg|55
+Zervești|45.407|22.292|RO|Caraș-Severin County|55
+Zelene Pole|47.827|36.623|UA|Donetsk|55
+Zelene|47.945|38.175|UA|Donetsk|55
+Zelenyy Hay|47.239|31.569|UA|Mykolaiv|55
+Zephyr Cove|39.002|-119.956|US|Nevada|55
+Željne|45.659|14.886|SI|Municipality of Kočevje|55
+Želatovice|49.444|17.506|CZ|Olomouc Region|55
+Zehetner|47.959|14.275|AT|Upper Austria|55
+Zearing|42.161|-93.297|US|Iowa|55
+Zeglingen|47.417|7.906|CH|Basel-Landschaft|54
+Žerjavinec|45.867|16.167|HR|Zagreb|54
+Zed Islands|-62.433|-60.166|AQ||54|f
+Zeeland Airport|51.513|3.729|NL|Zeeland|54|f
+Zeelandbrug|51.617|3.897|NL|Zeeland|54|f
+Železné Hory|49.888|15.579|CZ||54|f
+Željin|43.478|20.806|RS|Central Serbia|54|f
+Zengő|46.183|18.383|HU|Baranya|54|f
+Zephyrhills Municipal Airport|28.231|-82.159|US|Florida|54|f
+Zernek Barajı|38.355|43.657|TR|Van|54|f
+Želetice|49.014|17.008|CZ|South Moravian|54
+Zelenotropynske|46.272|32.446|UA|Kherson|54
+Zeytinoba|36.716|36.441|TR|Hatay|54
+Zeldam|52.257|6.629|NL|Overijssel|54
+Zerrenthin|53.494|14.090|DE|Mecklenburg-Vorpommern|54
+Zephyr|44.200|-79.266|CA|Ontario|54
+Zepelin|53.835|12.046|DE|Mecklenburg-Vorpommern|54
 Żelechlinek|51.712|20.035|PL|Łódź Voivodeship|54
 Zettling|46.952|15.434|AT|Styria|53
 Zerbo|45.110|9.396|IT|Lombardy|53
 Žetale|46.274|15.827|SI|Municipality of Žetale|52
 Zellberg|47.233|11.850|AT|Tyrol|52
 Zerlach|46.946|15.651|AT|Styria|51
+Zebra Peak|-69.683|64.933|AQ||49|f
+Zebra Ridge|-70.029|-69.241|AQ||49|f
+Zelena Glava|43.549|17.904|BA|Federation of B&H|49|f
+Zelengora|43.354|18.546|BA|Srpska|49|f
+Zeller Blauen|47.734|7.852|DE|Baden-Wurttemberg|49|f
+Zeller Glacier|-80.917|156.500|AQ||49|f
+Zeller See|48.000|9.650|DE|Baden-Wurttemberg|49|f
+Zeltweg Airport|47.203|14.744|AT|Styria|49|f
+Zelve|38.677|34.853|TR|Nevşehir Province|49|f
+Zemu Glacier|27.750|88.257|IN||49|f
+Zenssee|53.197|13.340|DE|Brandenburg|49|f
+Zephyr Glacier|-69.467|-68.530|AQ||49|f
+Zeppelin, Mount|-64.444|-61.480|AQ||49|f
+Zeppelinfjellet|78.906|11.937|SJ|Svalbard|49|f
+Zethner See|53.209|12.793|DE|Mecklenburg-Vorpommern|49|f
+Zetland Glacier|-78.017|163.817|AQ||49|f
+Zeus Ridge|-64.587|-63.535|AQ||49|f
+Zeuthener See|52.359|13.639|DE||49|f
 Zelene|44.596|34.009|UA|Crimea|49
+Zettingen|50.233|7.200|DE|Rheinland-Pfalz|48
 Zeutschach|47.067|14.367|AT|Styria|47
 Zell am Pettenfirst|48.080|13.599|AT|Upper Austria|46
 Zelbio|45.905|9.181|IT|Lombardy|45
+Zehnhausen bei Wallmerod|50.476|7.924|DE|Rheinland-Pfalz|45
 Zeytinlik|41.118|41.856|TR|Artvin|44
+Zendscheid|50.100|6.600|DE|Rheinland-Pfalz|44
 Zenevredo|45.054|9.327|IT|Lombardy|43
+Zeballos Lake|50.080|-126.740|CA|British Columbia|40|f
+Zeballos Peak|50.100|-126.770|CA|British Columbia|40|f
+Zehnerkofel|46.622|11.961|IT|Trentino-Alto Adige|40|f
+Zeigler, Mount|-77.217|-143.050|AQ||40|f
+Zeilberg|50.196|10.678|DE|Bavaria|40|f
+Zeiss-Großplanetarium|52.543|13.428|DE|State of Berlin|40|f
+Zemaitija National Park|56.044|21.889|LT||40|f
+Zenith Glacier|-71.867|163.750|AQ||40|f
+Zenith Lake|48.963|-87.376|CA|Ontario|40|f
+Zephyr Field|29.976|-90.200|US|Louisiana|40|f
+Zervreilahorn|46.551|9.061|CH|Grisons|40|f
+Zervreilasee|46.569|9.102|CH|Grisons|40|f
+Zeta Island|32.281|-64.821|BM|Warwick|40|f
+Zeughaus|52.518|13.397|DE|State of Berlin|40|f
+Zeugma|37.058|37.869|TR|Gaziantep|40|f
 Zerba|44.666|9.288|IT|Emilia-Romagna|36
 Zegama|42.976|-2.291|ES|Basque Country|0
+Zeguo|28.512|121.361|CN|Zhejiang|0
+Zehnhausen bei Rennerod|50.647|8.060|DE|Rheinland-Pfalz|0
+Zejia|28.853|109.778|CN|Hunan|0
 Zejmen|41.708|19.689|AL|Lezhë County|0
+Zekou|30.487|112.872|CN|Hubei|0
+Zekti|43.537|83.279|CN|Xinjiang|0
+Zeku|36.940|122.054|CN|Shandong|0
 Zelenikovo|42.400|25.083|BG|Plovdiv|0
 Zelenyi Pid|46.678|33.783|UA|Kherson|0
+Zell|49.143|12.412|DE|Bavaria|0
 Zelmeņi|56.452|23.352|LV|Dobele Municipality|0
+Zengcun|38.245|114.737|CN|Hebei|0
+Zengdian|31.126|113.770|CN|Hubei|0
+Zengguang|23.018|114.872|CN|Guangdong|0
+Zengji|30.720|112.370|CN|Hubei|0
+Zengjia|29.551|106.298|CN|Chongqing|0
+Zengjiahe|33.121|106.126|CN|Shaanxi|0
+Zengjiang|23.319|113.860|CN|Guangdong|0
+Zengtian|27.356|115.839|CN|Jiangxi|0
+Zengtian|24.017|114.983|CN|Guangdong|0
 Zenza do Itombe|-9.287|14.211|AO|Cuanza Norte|0
+Zepe|-8.768|121.093|ID|East Nusa Tenggara|0
 Zepita|-16.497|-69.103|PE|Puno|0
+Zeqin|25.844|116.015|CN|Jiangxi|0
+Zequan|29.324|115.847|CN|Jiangxi|0
 Zerain|43.012|-2.273|ES|Basque Country|0
 Zerenda|52.906|69.156|KZ|Aqmola|0
 Zerkten|31.445|-7.392|MA|Marrakesh-Safi|0
 Zestoa|43.240|-2.258|ES|Basque Country|0
+Zetou|37.049|121.888|CN|Shandong|0
 Zeytinbağı|40.391|28.796|TR|Bursa Province|0
+Zezhang|35.716|111.156|CN|Shanxi|0

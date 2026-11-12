@@ -10,6 +10,7 @@ Oelsnitz|50.726|12.701|DE|Saxony|82
 Oecusse|-9.314|124.293|TL||79|r
 Oebisfelde|52.434|10.989|DE|Saxony-Anhalt|77
 Oederan|50.861|13.172|DE|Saxony|77
+Oedo|34.768|128.713|KR|Gyeongsangnam-do|77|f
 Oedelem|51.170|3.338|BE|Flanders|76
 Oestrich|51.564|7.371|DE|North Rhine-Westphalia|76
 Oelwein|42.673|-91.913|US|Iowa|76
@@ -20,6 +21,7 @@ Oetwil|47.270|8.720|CH|Zurich|74
 Oelegem|51.213|4.598|BE|Flanders|74
 Oensingen|47.288|7.716|CH|Solothurn|73
 Oespel|51.486|7.383|DE|North Rhine-Westphalia|73
+Oeneiadae|38.410|21.199|GR|West Greece|72|f
 Oevel|51.138|4.905|BE|Flanders|71
 Oetz|47.200|10.900|AT|Tyrol|68
 Oetingen|50.773|4.064|BE|Flanders|67
@@ -29,19 +31,121 @@ Oerle|51.423|5.372|NL|North Brabant|66
 Œting|49.173|6.915|FR|Grand Est|66
 Oeselgem|50.938|3.432|BE|Flanders|66
 Oerel|53.483|9.061|DE|Lower Saxony|65
+Oenpelli Airport|-12.325|133.006|AU|Northern Territory|65|f
 Oelixdorf|53.927|9.564|DE|Schleswig-Holstein|65
 Oekene|50.918|3.157|BE|Flanders|65
 Oeyreluy|43.672|-1.080|FR|New Aquitaine|64
+Oecusse Airport|-9.198|124.347|TL|Oecusse|63|f
+Oeno Island|-23.929|-130.744|PN||63|f
 Oeștii Pământeni|45.252|24.657|RO|Arges|63
 Oermingen|49.000|7.129|FR|Grand Est|62
 Oederquart|53.803|9.237|DE|Lower Saxony|62
 Oehling|48.100|14.800|AT|Lower Austria|62
 Oeynhausen|47.985|16.292|AT|Lower Austria|61
+Oeschinen Lake|46.498|7.727|CH|Bern|61|f
+Oetrange|49.596|6.260|LU|Luxembourg|60
+Oeștii Ungureni|45.253|24.649|RO|Arges|60
+Oersdorf|53.839|9.991|DE|Schleswig-Holstein|59
+Oettersdorf|50.600|11.817|DE|Thuringia|59
+Oeudeghien|50.678|3.712|BE|Wallonia|58
+Oedt bei Feldbach|46.936|15.865|AT|Styria|57
+Oechsen|50.745|10.063|DE|Thuringia|57
+Oed|48.183|14.883|AT|Lower Austria|57
+Oene|52.344|6.049|NL|Gelderland|56
+Œuilly|49.067|3.800|FR|Grand Est|55
+Oechlitz|51.323|11.762|DE|Saxony-Anhalt|55
 Oencia|42.548|-6.969|ES|Castille and León|55
+Oepfershausen|50.641|10.241|DE|Thuringia|55
+Oelsberg|50.199|7.837|DE|Rheinland-Pfalz|54
+Oesman Sadik Airport|-0.636|127.502|ID|Maluku|54|f
+Oevenum|54.710|8.532|DE|Schleswig-Holstein|54
+Oetwil / Oetwil an der Limmat|47.428|8.395|CH|Zurich|54
+Oersberg|54.675|9.844|DE|Schleswig-Holstein|50
 Oepping|48.603|13.946|AT|Upper Austria|50
+Oesterdeichstrich|54.160|8.895|DE|Schleswig-Holstein|49
+Oesterwurth|54.217|8.983|DE|Schleswig-Holstein|48
+Oeschebüttel|53.989|9.721|DE|Schleswig-Holstein|47
+Oettern|50.923|11.358|DE|Thuringia|44
+Oeschinenhorn|46.484|7.767|CH|Bern|40|f
+Oeana|-9.868|124.258|ID|East Nusa Tenggara|0
+Oeba|-10.159|123.592|ID|East Nusa Tenggara|0
+Oebaffok Satu|-10.814|122.983|ID|East Nusa Tenggara|0
+Oebai|-9.983|124.185|ID|East Nusa Tenggara|0
+Oebaki|-9.554|124.385|ID|East Nusa Tenggara|0
+Oebatu|-10.814|123.013|ID|East Nusa Tenggara|0
+Oebelo|-10.110|123.753|ID|East Nusa Tenggara|0
+Oebesa|-9.867|124.290|ID|East Nusa Tenggara|0
 Oebobo|-10.168|123.599|ID|East Nusa Tenggara|0
+Oebou|-10.899|122.943|ID|East Nusa Tenggara|0
+Oebubun|-9.859|124.601|ID|East Nusa Tenggara|0
+Oebufu|-10.179|123.621|ID|East Nusa Tenggara|0
 Oeekam|-9.709|124.589|ID|East Nusa Tenggara|0
+Oeekam|-9.948|124.514|ID|East Nusa Tenggara|0
+Oefatu|-9.854|124.415|ID|East Nusa Tenggara|0
+Oefau|-9.849|124.296|ID|East Nusa Tenggara|0
+Oefau|-9.906|124.531|ID|East Nusa Tenggara|0
+Oefenu|-9.757|124.674|ID|East Nusa Tenggara|0
+Oehala|-9.682|124.248|ID|East Nusa Tenggara|0
+Oehandi Utara|-10.852|122.954|ID|East Nusa Tenggara|0
+Oehani|-10.231|123.710|ID|East Nusa Tenggara|0
+Oehaunu|-10.057|124.129|ID|East Nusa Tenggara|0
+Oehumusu|-9.940|124.198|ID|East Nusa Tenggara|0
 Oekabiti|-10.215|123.825|ID|East Nusa Tenggara|0
 Oekamusa|-9.875|124.306|ID|East Nusa Tenggara|0
+Oekefan|-9.861|124.290|ID|East Nusa Tenggara|0
+Oekero|-10.156|124.050|ID|East Nusa Tenggara|0
+Oekiu|-10.069|124.302|ID|East Nusa Tenggara|0
+Oekuu|-10.327|123.788|ID|East Nusa Tenggara|0
+Oelaba|-10.754|122.912|ID|East Nusa Tenggara|0
 Oelamasi|-10.064|123.879|ID|East Nusa Tenggara|0
+Oelbanu|-9.706|123.899|ID|East Nusa Tenggara|0
+Oelbiteno|-9.925|123.843|ID|East Nusa Tenggara|0
+Oele|-10.785|123.159|ID|East Nusa Tenggara|0
+Oeleno|-9.621|124.738|ID|East Nusa Tenggara|0
+Oeleon|-9.791|124.577|ID|East Nusa Tenggara|0
+Oelet|-9.707|124.533|ID|East Nusa Tenggara|0
+Oeleu|-9.746|124.741|ID|East Nusa Tenggara|0
+Oeltua|-10.214|123.676|ID|East Nusa Tenggara|0
+Oelui|-9.954|124.463|ID|East Nusa Tenggara|0
+Oelunggu Satu|-10.730|123.066|ID|East Nusa Tenggara|0
+Oemanu|-9.925|124.284|ID|East Nusa Tenggara|0
+Oematnunu|-10.293|123.538|ID|East Nusa Tenggara|0
+Oemau|-10.934|122.848|ID|East Nusa Tenggara|0
+Oemaulain|-10.752|123.033|ID|East Nusa Tenggara|0
+Oemofa|-10.088|124.115|ID|East Nusa Tenggara|0
+Oemollo|-9.709|124.256|ID|East Nusa Tenggara|0
+Oenaek|-10.035|123.923|ID|East Nusa Tenggara|0
+Oenaek|-9.551|124.295|ID|East Nusa Tenggara|0
+Oenaik|-9.570|124.356|ID|East Nusa Tenggara|0
+Oenak|-9.561|124.502|ID|East Nusa Tenggara|0
+Oenam|-9.595|124.332|ID|East Nusa Tenggara|0
+Oenenas|-9.676|124.012|ID|East Nusa Tenggara|0
+Oenesu|-10.262|123.568|ID|East Nusa Tenggara|0
+Oenopu|-9.872|124.705|ID|East Nusa Tenggara|0
+Oenpeotnai|-9.852|124.571|ID|East Nusa Tenggara|0
+Oenuntono|-10.092|124.069|ID|East Nusa Tenggara|0
+Oenunu|-9.854|124.253|ID|East Nusa Tenggara|0
+Oeoh|-9.737|124.485|ID|East Nusa Tenggara|0
+Oepo|34.940|128.717|KR|Gyeongsangnam-do|0
+Oepuah|-9.871|124.302|ID|East Nusa Tenggara|0
+Oepula|-9.873|124.337|ID|East Nusa Tenggara|0
+Oepula|-9.799|124.016|ID|East Nusa Tenggara|0
+Oepura|-10.189|123.608|ID|East Nusa Tenggara|0
+Oeri’u|-10.310|123.700|ID|East Nusa Tenggara|0
+Oering|53.825|10.150|DE|Schleswig-Holstein|0
+Oesain|-10.353|123.741|ID|East Nusa Tenggara|0
+Oesao|-10.120|123.811|ID|East Nusa Tenggara|0
+Oesapa|-10.149|123.647|ID|East Nusa Tenggara|0
+Oesapi|-9.718|124.610|ID|East Nusa Tenggara|0
+Oesena|-9.555|124.291|ID|East Nusa Tenggara|0
 Oeseo|34.914|127.277|KR|Jeollanam-do|0
+Oesoot|-9.726|124.722|ID|East Nusa Tenggara|0
+Oesuti Dua|-10.616|123.309|ID|East Nusa Tenggara|0
+Oetaman|-10.046|124.181|ID|East Nusa Tenggara|0
+Oeteta|-10.013|123.756|ID|East Nusa Tenggara|0
+Oetete|-10.165|123.587|ID|East Nusa Tenggara|0
+Oetotom|-9.843|124.721|ID|East Nusa Tenggara|0
+Oetua|-9.684|124.605|ID|East Nusa Tenggara|0
+Oetuke|-9.991|124.554|ID|East Nusa Tenggara|0
+Oetutulul|-10.773|122.987|ID|East Nusa Tenggara|0
+Oetzen|53.019|10.676|DE|Lower Saxony|0

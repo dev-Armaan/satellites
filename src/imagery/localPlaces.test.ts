@@ -1,7 +1,8 @@
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest'
 import { reversePlace, searchPlaces } from './geocode'
 import { nearestLocal, parsePlaces, reachKm, searchLocal } from './localPlaces'
-import { placeKey, shardFor, shardOf, tileAt, tileIndex } from './placeKey'
+import { placeKey, shardFor, shardOf, tileAt, tileFile, tileIndex } from './placeKey'
+import { PLACE_TILES_SPLIT } from './localPlaces.gen'
 
 /** The committed place files (public/places), loaded on demand by path. */
 const FILES = import.meta.glob<string>('/public/places/**/*.txt', { query: '?raw', import: 'default' })
@@ -45,6 +46,14 @@ describe('placeKey', () => {
     expect(shardFor('san francisco', groups, split)).toEqual({ file: 'sanf', head: 'san_' })
     expect(shardFor('sao paulo', groups, split)).toEqual({ file: 'sao', head: 'sa_' })
     expect(shardFor('zz top', groups, split)).toBeUndefined()
+  })
+
+  it('names the quarters of a split tile by half', () => {
+    const { row, col } = tileAt(40.7, -73.9)
+    const i = tileIndex(row, col)
+    expect(tileFile(40.7, -73.9, false)).toBe(String(i))
+    expect(tileFile(44.9, -70.1, true)).toBe(`${i}-3`) // north-east quarter
+    expect(tileFile(40.1, -74.9, true)).toBe(`${i}-0`) // south-west
   })
 
   it('wraps tile columns across the antimeridian', () => {
@@ -98,6 +107,22 @@ describe('the offline list (real data)', () => {
     expect((await searchLocal('giza')).map((r) => r.name).slice(0, 2)).toEqual(['Pyramids of Giza', 'Giza'])
   })
 
+  it('finds notable features and buildings under their English names', async () => {
+    expect((await searchLocal('lake titicaca'))[0]).toMatchObject({ name: 'Lake Titicaca', kind: 'f' })
+    expect((await searchLocal('golden gate bridge'))[0]).toMatchObject({ name: 'Golden Gate Bridge' })
+    expect((await searchLocal('krakatoa'))[0]).toMatchObject({ name: 'Krakatoa', cc: 'ID' })
+    expect((await searchLocal('hoover dam'))[0]).toMatchObject({ name: 'Hoover Dam and Lake Mead', kind: 'l' }) // the curated one leads
+    expect((await searchLocal('hoover dam')).map((r) => r.name)).toContain('Hoover Dam')
+  })
+
+  it('names a spot in a split tile from its quarter', async () => {
+    expect(PLACE_TILES_SPLIT.split(',').length).toBeGreaterThan(0)
+    const { row, col } = tileAt(40.6782, -73.9442)
+    expect(PLACE_TILES_SPLIT.split(',')).toContain(String(tileIndex(row, col))) // the US north-east is split
+    expect((await nearestLocal(40.6782, -73.9442))?.name).toBe('Brooklyn')
+    expect((await nearestLocal(28.6139, 77.209))?.name).toBe('New Delhi')
+  })
+
   it('narrows by state or country after the name', async () => {
     expect((await searchLocal('paris, texas'))[0]).toMatchObject({ name: 'Paris', admin1: 'Texas' })
     expect((await searchLocal('waterloo belgium'))[0]).toMatchObject({ name: 'Waterloo', cc: 'BE' })
@@ -136,12 +161,12 @@ describe('searchPlaces and reversePlace with the offline list', () => {
   })
 
   it('asks Open-Meteo when the list has too few, offline rows first and kept in place', async () => {
-    const om = { results: [{ name: 'Eiffel', latitude: 45.1, longitude: 5.5, country_code: 'FR', country: 'France', admin1: 'Auvergne-Rhône-Alpes', population: 50 }] }
+    const om = { results: [{ name: 'Eiffel Towers', latitude: 45.1, longitude: 5.5, country_code: 'FR', country: 'France', admin1: 'Auvergne-Rhône-Alpes', population: 50 }] }
     const f = serveFiles((url) => (url.includes('open-meteo') ? Response.json(om) : (new Promise(() => undefined) as unknown as Response)))
     const early = vi.fn()
-    const r = await searchPlaces('eiffel', undefined, early)
+    const r = await searchPlaces('eiffel tow', undefined, early)
     expect(early).toHaveBeenCalledWith([expect.objectContaining({ label: 'Eiffel Tower', sublabel: 'Paris, France' })])
-    expect(r.map((p) => p.label)).toEqual(['Eiffel Tower', 'Eiffel'])
+    expect(r.map((p) => p.label)).toEqual(['Eiffel Tower', 'Eiffel Towers'])
     expect(f.mock.calls.some((c) => String(c[0]).startsWith('https://photon.komoot.io/'))).toBe(false)
   })
 })

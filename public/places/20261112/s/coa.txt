@@ -14,6 +14,7 @@ Coatesville|39.983|-75.824|US|Pennsylvania|82
 Coamo|18.080|-66.358|PR|Coamo|82
 Coal Harbour|49.290|-123.123|CA|British Columbia|80
 Coatetelco|18.730|-99.326|MX|Morelos|79
+Coari Airport|-4.134|-63.133|BR|Amazonas|79|f
 Coatepec|19.385|-98.848|MX|México|79
 Coaldale|49.717|-112.619|CA|Alberta|78
 Coahuayana de Hidalgo|18.704|-103.663|MX|Michoacán|77
@@ -22,6 +23,7 @@ Coaticook|45.133|-71.799|CA|Quebec|77
 Coacotla|17.936|-94.664|MX|Veracruz|77
 Coacoatzintla|19.652|-96.940|MX|Veracruz|77
 Coalisland|54.542|-6.702|GB|Northern Ireland|76
+Coatepeque Airport|14.695|-91.881|GT|Totonicapán|75|f
 Coatepeque|13.929|-89.504|SV|Santa Ana Department|75
 Coal City|41.288|-88.286|US|Illinois|75
 Coal Valley|41.429|-90.461|US|Illinois|71
@@ -48,6 +50,7 @@ Coal Grove|38.503|-82.647|US|Ohio|67
 Coajomulco|19.035|-99.205|MX|Morelos|66
 Coatlán del Río|18.744|-99.434|MX|Morelos|66
 Coalgate|34.538|-96.219|US|Oklahoma|65
+Coast Guard Island|37.782|-122.250|US|California|65|f
 Coarsegold|37.262|-119.701|US|California|65
 Coal City|37.679|-81.210|US|West Virginia|65
 Coamilpa de Juárez|19.198|-99.444|MX|México|65
@@ -58,20 +61,76 @@ Coal Run Village|37.513|-82.558|US|Kentucky|64
 Coacoyulichán|16.795|-98.935|MX|Guerrero|64
 Coahuayutla de Guerrero|18.315|-101.736|MX|Guerrero|63
 Coassolo Torinese|45.298|7.460|IT|Piedmont|63
+Coalstoun Lakes National Park|-25.596|151.910|AU|Queensland|63|f
 Coalville|40.918|-111.399|US|Utah|63
 Coatepec|18.668|-98.560|MX|Puebla|63
 Coaș|47.540|23.586|RO|Maramureş|63
 Coalburn|55.593|-3.886|GB|Scotland|62
 Coal Fork|38.318|-81.521|US|West Virginia|62
 Coatepec Costales|18.340|-99.722|MX|Guerrero|61
+Coal Island|-54.033|-37.950|GS||61|f
+Coal Island|-46.117|166.633|NZ||61|f
+Coastal Carolina Regional Airport|35.077|-77.043|US|North Carolina|61|f
 Coada Izvorului|44.858|25.819|RO|Prahova|61
 Coahuixtla|18.574|-99.370|MX|Morelos|60
 Coal Hill|35.437|-93.673|US|Arkansas|60
 Coachimalco|17.625|-98.681|MX|Guerrero|60
+Coatzontitla|21.442|-98.900|MX|San Luis Potosí|59
+Coatlaco|17.700|-98.639|MX|Guerrero|59
+Coahoma|32.297|-101.306|US|Texas|59
+Coalsnaughton|56.141|-3.736|GB|Scotland|59
+Coalmont|35.338|-85.704|US|Tennessee|58
+Coachella Canal|33.336|-115.551|US|California|58|f
+Coacoaco|20.828|-98.437|MX|Veracruz|58
+Coada Malului|45.123|26.036|RO|Prahova|58
+Coaxocotitla|21.210|-98.773|MX|San Luis Potosí|58
+Coat-Méal|48.509|-4.543|FR|Brittany|58
+Coamitla|20.901|-98.497|MX|Hidalgo|57
+Coada Stâncii|47.207|27.708|RO|Iași County|57
+Coaraze|43.864|7.295|FR|Provence-Alpes-Côte d'Azur|57
+Coatepec|20.061|-97.732|MX|Puebla|57
+Coaquimixco|17.579|-99.236|MX|Guerrero|57
+Coapeche|20.085|-96.902|MX|Veracruz|57
+Coarezza|45.681|8.645|IT|Lombardy|57
+Coaxtlahuacán|17.392|-99.347|MX|Guerrero|56
+Coapichapan (Barranca de San Miguel)|18.886|-97.002|MX|Veracruz|56
+Coatomatitlán|17.472|-99.324|MX|Guerrero|56
+Coamila|21.109|-98.498|MX|Hidalgo|56
+Coahuila|20.665|-90.170|MX|Yucatán|56
+Coasta|45.135|24.240|RO|Vâlcea County|56
+Coatlila|20.686|-98.587|MX|Hidalgo|56
+Coaltown of Wemyss|56.151|-3.089|GB|Scotland|56
+Coalville|42.445|-94.126|US|Iowa|56
+Coacoyunga|19.814|-98.029|MX|Puebla|56
+Coaquentla|21.311|-98.895|MX|San Luis Potosí|55
+Coatlancillo|19.894|-103.965|MX|Jalisco|55
+Coapiloloyita|17.425|-95.002|MX|Veracruz|55
+Coaxinquila|21.558|-98.862|MX|San Luis Potosí|55
+Coatzonco|20.990|-98.302|MX|Hidalgo|55
+Coatesville|39.688|-86.670|US|Indiana|55
+Coadout|48.518|-3.188|FR|Brittany|54
+Coatepec de Abajo (Rincón Lobo)|18.707|-97.257|MX|Veracruz|54
+Coakley Cay|23.442|-76.009|BS|Exuma|54|f
+Coats Island|62.620|-82.974|CA|Nunavut|54|f
+Coacalco|18.072|-98.668|MX|Puebla|54
+Coacalco|19.858|-97.427|MX|Puebla|54
+Coalport|40.748|-78.534|US|Pennsylvania|54
 Coata|-15.571|-69.949|PE|Puno|53
 Coalaque|-16.651|-71.021|PE|Moquegua Department|51
 Coayllo|-12.733|-76.467|PE|Lima region|51
 Coassolo|45.298|7.461|IT|Piedmont|51
+Coal Island|-22.147|149.867|AU|Queensland|49|f
+Coal Mines Historic Site|-42.990|147.714|AU|Tasmania|49|f
+Coast Guard Museum Northwest|47.590|-122.339|US|Washington|49|f
+Coast Lake|-77.543|166.149|AQ||49|f
 Coazzolo|44.728|8.145|IT|Piedmont|41
+Coal Creek Bridge|41.429|-93.346|US|Iowa|40|f
+Coal Creek Covered Bridge|39.948|-87.404|US|Indiana|40|f
+Coal Lake|53.075|-113.271|CA|Alberta|40|f
+Coal Lake|46.081|-94.755|US|Minnesota|40|f
+Coal Mountain|33.700|-86.442|US|Alabama|40|f
+Coalbed Mountain|-77.200|160.267|AQ||40|f
+Coalman Glacier|45.371|-121.698|US|Oregon|40|f
+Coastal Carolina University Williams - Brice Building - Kimbel Arena|33.794|-79.013|US|South Carolina|40|f
 Coasa|-13.987|-70.018|PE|Puno|0
 Coatham Mundeville|54.580|-1.556|GB|England|0

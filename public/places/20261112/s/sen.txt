@@ -16,12 +16,14 @@ Sengkurong|4.883|114.833|BN|Brunei-Muara District|92
 Senekal|-28.320|27.621|ZA|Free State|92
 Sento Sé|-9.746|-41.885|BR|Bahia|92
 Senigallia|43.716|13.209|IT|The Marches|90
+Sendai Airport|38.140|140.917|JP|Miyagi|89|f
 Senftenberg|51.525|14.002|DE|Brandenburg|89
 Senhora da Hora|41.186|-8.652|PT|Porto|89
 Sens|48.197|3.283|FR|Bourgogne-Franche-Comté|89
 Sendafa|9.152|39.023|ET|Oromiya|88
 Senador Pompeu|-5.588|-39.372|BR|Ceará|88
 Senja|1.385|103.761|SG||88
+Senai International Airport|1.641|103.670|MY|Johor|87|f
 Senador Guiomard|-10.150|-67.737|BR|Acre|87
 Senapparetti|10.963|78.113|IN|Tamil Nadu|87
 Senden|48.324|10.044|DE|Bavaria|87
@@ -83,14 +85,18 @@ Sengmai|24.946|93.881|IN|Manipur|74
 Senggigi|-8.492|116.042|ID|West Nusa Tenggara|74
 Šentjur|46.217|15.398|SI|Sentjur|74
 Sennwald|47.261|9.503|CH|Saint Gallen|74
+Sentinel Range|-78.167|-85.500|AQ||73|f
 Şendriceni|47.952|26.328|RO|Botoșani County|72
 Senj|44.989|14.906|HR|Lika-Senj|72
+Senja|69.331|17.493|NO|Troms|72|f
 Senorbì|39.533|9.132|IT|Sardinia|72
 Senoia|33.302|-84.554|US|Georgia|72
 Senador Georgino Avelino|-6.163|-35.123|BR|Rio Grande do Norte|72
 Sennfeld|50.039|10.260|DE|Bavaria|72
 Senador Modestino Gonçalves|-17.948|-43.223|BR|Minas Gerais|72
 Şenkaya|40.557|42.343|TR|Erzurum|72
+Sen Zan|34.358|134.839|JP|Hyōgo|71|f
+Sentinel Peak|32.210|-110.992|US|Arizona|71|f
 Senhora da Luz|37.088|-8.726|PT|Faro|71
 Senonches|48.560|1.031|FR|Centre-Val de Loire|70
 Šenčur|46.247|14.420|SI|Municipality of Šenčur|70
@@ -135,6 +141,10 @@ Sen Sen|34.250|51.279|IR|Isfahan|64
 Şenocak|37.650|40.694|TR|Mardin|64
 Senieji Trakai|54.609|24.980|LT|Vilnius|64
 Sendim|41.387|-6.426|PT|Bragança|63
+Senlicuo|30.417|84.050|CN|Tibet|63|f
+Sentinel Peak|54.908|-121.961|CA|British Columbia|63|f
+Sentinel Rock|37.729|-119.594|US|California|63|f
+Senzu-damu|35.217|138.090|JP|Shizuoka|63|f
 Senovo|43.650|26.367|BG|Ruse|63
 Sentheim|47.756|7.053|FR|Grand Est|63
 Šentjernej|45.842|15.334|SI|Municipality of Šentjernej|63
@@ -151,34 +161,158 @@ Senokosnoye|45.733|33.516|UA|Crimea|60
 Senyera|39.067|-0.500|ES|Valencia|60
 Senftenberg|48.452|15.545|AT|Lower Austria|60
 Šentvid pri Stični|45.950|14.843|SI|Municipality of Ivančna Gorica|60
+Sentelek|51.202|83.752|RU|Altai Krai|60
+Senneville|45.433|-73.955|CA|Quebec|60
+Senozan|46.396|4.863|FR|Bourgogne-Franche-Comté|59
+Senomaty|50.098|13.654|CZ|Central Bohemia|59
+Senohraby|49.895|14.718|CZ|Central Bohemia|59
+Sentinel|35.158|-99.175|US|Oklahoma|59
+Senouillac|43.942|1.949|FR|Occitanie|59
 Şenköy|36.048|36.144|TR|Hatay|59
+Senožaty|49.569|15.198|CZ|Vysocina|59
+Sent|46.817|10.337|CH|Grisons|59
+Senzeille|50.177|4.465|BE|Wallonia|58
+Senowkesh|37.475|46.240|IR|East Azerbaijan|58
+Senecaville Lake|39.895|-81.387|US|Ohio|58|f
+Sengaku Ji|35.638|139.736|JP|Tokyo|58|f
+Seno Almirantazgo|-54.361|-69.352|CL|Region of Magallanes|58|f
+Sentinel Dome|37.723|-119.584|US|California|58|f
+Sentinel Hills|41.823|-117.863|US|Nevada|58|f
+Sentinel Island|36.057|-114.745|US|Nevada|58|f
+Sentinel Peak|36.016|-118.527|US|California|58|f
+Sentry Rocks|-70.750|167.400|AQ||58|f
+Sendets|43.297|-0.260|FR|New Aquitaine|58
+Senožeti|46.091|14.733|SI|Dol pri Ljubljani|58
+Senningen|49.645|6.239|LU|Luxembourg|57
+Șendreni|47.538|26.874|RO|Botoșani County|57
+Senarpont|49.889|1.720|FR|Hauts-de-France|57
+Senan|47.912|3.359|FR|Bourgogne-Franche-Comté|57
+Seneca Gardens|38.229|-85.677|US|Kentucky|57
+Şenköy|37.553|27.781|TR|Aydın|57
+Senereuș|46.334|24.651|RO|Mureș County|57
+Šenkovec|45.890|15.695|HR|Zagreb County|56
+Senillé|46.778|0.614|FR|New Aquitaine|56
+Sénoufla|7.520|-6.369|CI|Sassandra-Marahoue|56
+Senneville-sur-Fécamp|49.772|0.416|FR|Normandy|56
+Senetářov|49.355|16.804|CZ|South Moravian|56
+Senožeče|45.721|14.041|SI|Municipality of Divača|56
+Senheim|50.083|7.217|DE|Rheinland-Pfalz|56
+Sendero Real|20.528|-103.352|MX|Jalisco|56
+Senantes|49.486|1.836|FR|Hauts-de-France|56
 Senija|38.728|0.042|ES|Valencia|55
+Sénergues|44.606|2.485|FR|Occitanie|55
+Şenköy|41.396|32.211|TR|Zonguldak Province|55
+Sennely|47.678|2.147|FR|Centre-Val de Loire|55
+Sensweiler|49.775|7.197|DE|Rheinland-Pfalz|55
+Seninghem|50.702|2.032|FR|Hauts-de-France|55
 Senerchia|40.741|15.205|IT|Campania|55
+Šentjanž pri Dravogradu|46.561|15.039|SI|Municipality of Dravograd|55
+Senantes|48.667|1.567|FR|Centre-Val de Loire|55
+Sena|41.716|-0.042|ES|Aragon|55
+Sénzénou|7.720|-4.881|CI|Vallée du Bandama District|55
+Séna|7.841|-6.558|CI|Woroba|55
+Sentimientos de la Nación|19.136|-96.232|MX|Veracruz|54
+Seneca Creek Aqueduct|39.069|-77.341|US|Maryland|54|f
+Seneca Quarry|39.078|-77.354|US|Maryland|54|f
+Sennar Dam|13.550|33.633|SD|Sennar|54|f
+Seno Agostini|-54.461|-70.416|CL|Region of Magallanes|54|f
+Seno Skyring|-52.613|-71.907|CL|Region of Magallanes|54|f
+Sentinel Island|-39.830|147.760|AU|Tasmania|54|f
+Senlisse|48.688|1.982|FR|Île-de-France|54
+Șendrești|46.384|27.432|RO|Bacău County|54
+Sensenruth|49.825|5.075|BE|Wallonia|54
 Senis|39.823|8.939|IT|Sardinia|54
 Sena de Luna|42.929|-5.953|ES|Castille and León|53
 Šentrupert na Dolenjskem|45.978|15.093|SI|Municipality of Šentrupert|50
+Sendeturm Langenbrand|48.808|8.624|DE|Baden-Wurttemberg|49|f
+Senggarang|0.968|104.417|ID|Riau Islands|49|f
+Senica Airport|48.659|17.326|SK|Trnava Region|49|f
+Sennet Glacier|-80.200|158.700|AQ||49|f
+Sentinel Peak|47.778|-123.343|US|Washington|49|f
+Sentraltind|61.464|7.882|NO|Vestland|49|f
 Sennariolo|40.212|8.556|IT|Sardinia|45
+Senachwine Lake|41.189|-89.356|US|Illinois|40|f
+Senckenberg Naturmuseum|50.118|8.652|DE|Hesse|40|f
+Sendeturm Dobratsch|46.603|13.673|AT|Carinthia|40|f
+Sendeturm Gibloux|46.684|7.041|CH|Fribourg|40|f
+Seneca County Airport|41.098|-83.207|US|Ohio|40|f
+Seneca Creek State Park|39.101|-77.342|US|Maryland|40|f
+Seneca Emergency Airstrip|44.135|-118.980|US|Oregon|40|f
+Seneca Lake|42.613|-76.918|US|New York|40|f
+Seneca Lake State Park|42.873|-76.946|US|New York|40|f
+Seneca LORAN-C Transmitter|42.714|-76.826|US|New York|40|f
+Seneca Park|38.236|-85.674|US|Kentucky|40|f
+Seney National Wildlife Refuge|46.261|-86.091|US|Michigan|40|f
+Senggchuppa|46.179|7.995|CH|Valais|40|f
+Senghor University|31.196|29.897|EG|Alexandria|40|f
+Senia Point|-80.517|160.967|AQ||40|f
+Sennott Square|40.441|-79.956|US|Pennsylvania|40|f
+Senshu University|35.697|139.754|JP|Tokyo|40|f
+Sentinel Island|44.817|-76.249|CA|Ontario|40|f
+Sentinel Mountain|52.133|-116.519|CA|Alberta|40|f
+Sentinel Peak|51.750|-117.869|CA|British Columbia|40|f
+Sentinel Peak|-44.400|169.233|NZ|Otago|40|f
+Sentinel Peak|58.993|-136.563|US|Alaska|40|f
+Sentinel Peak|48.356|-121.040|US|Washington|40|f
+Sentinel Range|59.000|-125.653|CA|British Columbia|40|f
+Sentry Island|61.167|-93.850|CA|Nunavut|40|f
+Senscheid|50.333|6.833|DE|Rheinland-Pfalz|39
 Senale|46.511|11.110|IT|Trentino-Alto Adige|37
 Senés de Alcubierre|41.907|-0.489|ES|Aragon|34
 Seno|40.812|-0.338|ES|Aragon|33
+Sengerich|50.117|6.217|DE|Rheinland-Pfalz|25
 Sena|14.327|100.405|TH|Phra Nakhon Si Ayutthaya|0
 Senada|35.075|-4.216|MA|Tanger-Tetouan-Al Hoceima|0
 Senadan|-8.386|123.258|ID|East Nusa Tenggara|0
 Senador Rui Palmeira|-9.467|-37.457|BR|Alagoas|0
 Senan|41.470|1.085|ES|Catalonia|0
+Senanghati|-6.716|105.963|ID|Banten|0
 Senangkhanikhom|16.040|104.669|TH|Amnat Charoen|0
 Senayan|-8.613|116.850|ID|West Nusa Tenggara|0
 Senayang|0.037|104.654|ID|Riau Islands|0
+Sencun|29.758|118.479|CN|Anhui|0
+Sendang|-7.007|111.731|ID|East Java|0
+Sendang|-6.696|111.555|ID|Central Java|0
+Sendang|-6.877|112.002|ID|East Java|0
+Sendang|-8.144|111.439|ID|East Java|0
+Sendang Timur|-7.117|113.621|ID|East Java|0
+Sendangagung|-6.745|111.425|ID|Central Java|0
+Sendangagung|-6.899|112.346|ID|East Java|0
+Sendangduwur|-6.896|112.347|ID|East Java|0
+Sendanggayam|-7.042|111.345|ID|Central Java|0
+Sendangharjo|-6.895|112.068|ID|East Java|0
+Sendangharjo|-6.920|112.241|ID|East Java|0
+Sendangkemulian|-8.097|111.816|ID|East Java|0
+Sendangmulyo|-6.639|111.552|ID|Central Java|0
+Sendangmulyo|-6.814|111.446|ID|Central Java|0
+Sendangmulyo|-6.737|111.668|ID|Central Java|0
+Sendangrejo|-6.919|111.559|ID|Central Java|0
+Sendangsari|-6.981|111.335|ID|Central Java|0
+Sendangwaru|-6.707|111.574|ID|Central Java|0
 Sendawar|-0.236|115.695|ID|East Kalimantan|0
 Sende|-5.645|12.213|AO|Cabinda|0
+Senden|-8.186|111.674|ID|East Java|0
+Sendung|-8.055|112.338|ID|East Java|0
+Sendung|-8.027|111.861|ID|East Java|0
 Senduro|-8.094|113.089|ID|East Java|0
+Sengari|-8.289|120.456|ID|East Nusa Tenggara|0
 Sengeti|-1.477|103.508|ID|Jambi|0
 Senggapi|-8.298|120.462|ID|East Nusa Tenggara|0
 Sengge|-3.447|140.775|ID|Papua|0
+Senggreng|-8.162|112.516|ID|East Java|0
+Sengguruhkrajan|-8.173|112.550|ID|East Java|0
+Sengkerang Tiga|-8.768|116.374|ID|West Nusa Tenggara|0
+Sengkol|-7.371|108.213|ID|West Java|0
 Senhora da Graça dos Padrões|37.565|-7.971|PT|Beja|0
 Senj|44.717|110.767|MN|East Gobi Aymag|0
+Senmasen|-6.989|113.865|ID|East Java|0
 Sennen|50.078|-5.701|GB|England|0
 Senori|-7.016|111.724|ID|East Java|0
+Senori|-6.871|111.959|ID|East Java|0
 Şenpazar|41.809|33.231|TR|Kastamonu|0
 Senterada|42.325|0.936|ES|Catalonia|0
+Sentul|-7.559|108.738|ID|West Java|0
+Sentul|-6.789|111.165|ID|Central Java|0
+Sentul|-8.023|111.736|ID|East Java|0
+Sentulan|-8.059|111.889|ID|East Java|0
 Şenyurt|40.426|41.428|TR|Erzurum|0

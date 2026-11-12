@@ -54,6 +54,7 @@ Makungu|-8.733|35.283|TZ|Iringa|80
 Mākhjan|17.270|73.500|IN|Maharashtra|80
 Maków Mazowiecki|52.865|21.101|PL|Mazovia|80
 Makushino|55.205|67.251|RU|Kurgan Oblast|80
+Makatea|-15.847|-148.255|PF|Tuamotu-Gambier Islands|80|f
 Makariv|50.457|29.815|UA|Kyiv Oblast|80
 Makanya|-4.367|37.833|TZ|Kilimanjaro|80
 Maksatikha|57.797|35.883|RU|Tver Oblast|80
@@ -65,7 +66,12 @@ Makedonska Kamenica|42.021|22.590|MK|Makedonska Kamenica|78
 Makar’yev|57.885|43.806|RU|Kostroma Oblast|78
 Makary|12.575|14.455|CM|Far North|77
 Makawao|20.857|-156.313|US|Hawaii|77
+Makurdi Airport|7.704|8.614|NG|Benue State|77|f
+Makushin Volcano|53.886|-166.940|US|Alaska|77|f
 Makarov|48.626|142.779|RU|Sakhalin Oblast|76
+Makalu|27.890|87.089|NP|Koshi|75|f
+Makin Atoll|3.389|173.000|KI|Gilbert Islands|75|f
+Maku International Airport|39.192|44.925|IR|West Azerbaijan|75|f
 Maków Podhalański|49.730|19.677|PL|Lesser Poland|75
 Makedonski Brod|41.513|21.216|MK|Makedonski Brod|75
 Makiv|48.795|26.681|UA|Khmelnytskyi|75
@@ -73,13 +79,17 @@ Makhalino|53.085|46.221|RU|Penza Oblast|74
 Makallé|-27.206|-59.287|AR|Chaco|74
 Makundapur|19.609|84.675|IN|Odisha|74
 Makrochóri|40.551|22.250|GR|Central Macedonia|74
+Makassar Strait|-1.665|118.066|ID||73|f
 Makiwalo|12.510|124.706|PH|Eastern Visayas|73
+Makkovik Airport|55.078|-59.187|CA|Newfoundland and Labrador|72|f
 Makadi Bay|26.991|33.900|EG|Red Sea|72
 Makkaveyevo|51.753|113.941|RU|Zabaykalskiy (Transbaikal) Kray|72
 Makahébli|7.366|-7.237|CI|Montagnes|72
 Makali|8.630|-11.662|SL|Northern Province|71
 Makkum|53.055|5.402|NL|Friesland|70
 Makanda|-1.954|10.977|GA|Ngouni|70
+Makanruru Island|46.722|150.733|RU|Sakhalin Oblast|70|f
+Makanrushir Island|49.776|154.437|RU|Sakhalin Oblast|70|f
 Makato|11.712|122.292|PH|Western Visayas|70
 Makhinjauri|41.674|41.694|GE|Adjara|69
 Makey|5.211|-5.148|CI|Lagunes District|69
@@ -87,10 +97,19 @@ Makry-Gialos|35.037|25.972|GR|Crete|68
 Makhakhe|-29.757|27.543|LS|Mafeteng District|68
 Makir|7.031|124.304|PH|Autonomous Region in Muslim Mindanao|67
 Maklár|47.800|20.417|HU|Heves County|67
+Makalamabedi Airport|-20.311|23.908|BW|Central|67|f
+Makepeace Island|-26.381|153.044|AU|Queensland|67|f
+Mäkiluoto|59.919|24.349|FI|Uusimaa|67|f
+Makinouchi Dam|43.358|145.639|JP|Hokkaido|67|f
+Makrona|34.812|32.502|CY|Pafos|67|f
+Makubetsu Dam|42.874|143.279|JP|Hokkaido|67|f
 Maksymilyanivka|47.975|37.393|UA|Donetsk|67
 Makira-Ulawa Province|-10.558|161.785|SB||66|r
 Maksymivka|49.185|33.174|UA|Poltava|66
 Makkari|42.758|140.803|JP|Hokkaido|66
+Makaroa|-23.219|-134.971|PF|Tuamotu-Gambier Islands|65|f
+Makkvatnet|67.833|15.833|NO|Nordland|65|f
+Makura|-17.133|168.433|VU|Shefa|65|f
 Makrychóri|39.800|22.483|GR|Thessaly|65
 Makin Village|3.364|172.984|KI|Gilbert Islands|65
 Makobeng|-22.996|27.668|BW|Central|65
@@ -104,22 +123,82 @@ Makobéri|6.100|-5.686|CI|Goh-Djiboua|64
 Mākrān|36.705|53.228|IR|Māzandarān|64
 Makrýgialos|40.416|22.604|GR|Central Macedonia|63
 Makariv Yar|48.577|39.717|UA|Luhansk|63
+Makalaus|60.843|9.350|NO|Innlandet|63|f
+Makaokahaʻi Point|21.883|-159.527|US|Hawaii|63|f
+Makemo Airport|-16.584|-143.658|PF|Tuamotu-Gambier Islands|63|f
+Makio-damu|35.824|137.603|JP|Nagano|63|f
+Makunudhoo Atholhu|6.333|72.583|MV||63|f
 Maketu|-37.767|176.450|NZ|Bay of Plenty|63
 Mākaha Valley|21.476|-158.199|US|Hawaii|63
 Makrychóri|39.440|21.966|GR|Thessaly|61
 Makaleng|-20.800|27.270|BW|North-East|61
+Makapu‘u Point|21.311|-157.649|US|Hawaii|61|f
+Makena Beach State Park|20.657|-156.444|US|Hawaii|61|f
+Makhawulani|-26.929|32.860|ZA|KwaZulu-Natal|61|f
+Makogai Island|-17.452|178.964|FJ|Eastern|61|f
+Makonjwa Range|-25.744|31.313|SZ||61|f
+Makrynóros|39.076|21.205|GR|West Greece|61|f
 Makoba|-23.483|27.117|BW||60
+Makarove|47.325|30.129|UA|Odesa|60
+Makhairádhon|37.758|20.810|GR|Ionian Islands|59
+Makārūd|36.549|51.166|IR|Māzandarān|59
+Mako|6.136|-5.891|CI|Goh-Djiboua|59
+Makrikápa|38.609|23.744|GR|Central Greece|59
+Makua|6.647|-6.435|CI|Sassandra-Marahoue|59
+Maków|51.346|21.253|PL|Mazovia|58
+Makankouamékro|6.586|-5.278|CI|Lacs District|58
+Makiyivka|49.220|37.981|UA|Luhansk|58
+Makedonivka|47.243|37.555|UA|Donetsk|58
+Maksymivka|49.581|35.104|UA|Poltava|58
+Makukhivka|49.592|34.630|UA|Poltava|58
+Makah Bay|48.319|-124.676|US|Washington|58|f
+Makjangbong|36.705|127.946|KR|Gyeongsangbuk-do|58|f
+Makoua Airport|-0.022|15.576|CG|Cuvette|58|f
 Makiyivka|50.667|31.828|UA|Chernihiv Oblast|58
+Makiyivka|49.975|30.434|UA|Kyiv Oblast|58
+Makrinítsa|39.401|22.987|GR|Thessaly|57
 Makresh|43.768|22.664|BG|Vidin|56
+Maków|50.109|18.083|PL|Silesia|56
+Makkinga|52.981|6.217|NL|Friesland|56
+Makedonivka|48.234|39.294|UA|Luhansk|56
+Makedony|49.833|31.119|UA|Kyiv Oblast|55
+Makýneia|38.346|21.724|GR|West Greece|55
+Makanda|37.618|-89.209|US|Illinois|55
+Makarivka|46.236|33.530|UA|Kherson|54
+Makana|22.218|-159.580|US|Hawaii|54|f
+Måkläppen|55.363|12.812|SE|Skåne|54|f
+Maksutlu Barajı|39.379|36.495|TR|Sivas|54|f
+Makaracı|41.727|32.450|TR|Bartın|54
+Mākmang|21.942|98.876|MM|Shan State|54
+Makah Peaks|48.294|-124.616|US|Washington|49|f
+Makaro|-41.294|174.871|NZ||49|f
+Makhoarane|-29.650|27.550|LS||49|f
+Makindu Airport|-2.290|37.825|KE|Makueni County|49|f
+Makinson Island|28.249|-81.406|US|Florida|49|f
+Makomis Mountain|44.088|-73.664|US|New York|49|f
 Makole|46.316|15.666|SI|Municipality of Makole|47
+Makaleha Mountains|22.118|-159.413|US|Hawaii|40|f
+Makatote Viaduct|-39.265|175.390|NZ|Wellington Region|40|f
+Makepeace Lake|39.546|-74.752|US|New Jersey|40|f
+Makerere University|0.336|32.568|UG|Central Region|40|f
+Makerere University School of Public Health|0.338|32.577|UG|Central Region|40|f
+Maktaktujanak Island|65.260|-66.759|CA|Nunavut|40|f
 Makale|-3.102|119.854|ID|South Sulawesi|0
+Makam|-8.003|113.215|ID|East Java|0
+Makamagung|-6.958|112.848|ID|East Java|0
+Makan|-6.949|112.858|ID|East Java|0
 Makapanstad|-25.244|28.126|ZA|North West|0
 Makarfi|11.377|7.881|NG|Kaduna State|0
 Makata|-15.787|35.030|MW|Southern Region|0
 Makbon|-0.748|131.539|ID|Southwest Papua|0
+Makemi|-8.215|124.689|ID|East Nusa Tenggara|0
+Makeng|29.925|117.085|CN|Anhui|0
 Makera|10.471|7.410|NG|Kaduna State|0
 Makham|12.673|102.196|TH|Chanthaburi|0
 Makhnivka|49.720|28.671|UA|Vinnytsia|0
 Makinohara|34.774|138.148|JP|Shizuoka|0
+Makou|30.569|113.833|CN|Hubei|0
+Makou|28.957|115.761|CN|Jiangxi|0
+Makui|-6.373|105.831|ID|Banten|0
 Makur|8.985|150.127|FM|Chuuk|0
 Makushino|56.688|28.472|RU|Pskov Oblast|0

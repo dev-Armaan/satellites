@@ -29,7 +29,9 @@ Minamiarupusu|35.609|138.465|JP|Yamanashi|97
 Mindelo|16.890|-24.980|CV|São Vicente|97
 Minggang|32.459|114.049|CN|Henan|97
 Minchinabad|30.164|73.569|PK|Punjab|97
+Ministro Pistarini International Airport|-34.822|-58.536|AR|Buenos Aires|96|f
 Minglanilla|10.245|123.796|PH|Central Visayas|96
+Minsk National Airport|53.882|28.031|BY|Minsk City|96|f
 Mingshui|47.179|125.903|CN|Heilongjiang|95
 Minami-Sōma|37.629|140.979|JP|Fukushima|95
 Minbu|20.181|94.876|MM|Magway|95
@@ -48,6 +50,7 @@ Minawa|35.523|139.319|JP|Kanagawa|92
 Minakuchichō-matoba|34.967|136.167|JP|Shiga|92
 Minas|-34.376|-55.238|UY|Lavalleja|92
 Mińsk Mazowiecki|52.179|21.573|PL|Mazovia|91
+Mineirão|-19.866|-43.971|BR|Minas Gerais|91|f
 Minamibōsō|35.031|139.927|JP|Chiba|91
 Minas de Matahambre|22.587|-83.946|CU|Pinar del Río|91
 Minamikyushu|31.347|130.456|JP|Kagoshima|90
@@ -66,9 +69,11 @@ Minas Novas|-17.219|-42.590|BR|Minas Gerais|88
 Min Ga Lar Don Zay|16.923|96.116|MM|Yangon|87
 Mine|34.187|131.216|JP|Yamaguchi|87
 Mingda|30.726|107.657|CN|Chongqing|87
+Mineralnye Vody Airport|44.225|43.082|RU|Stavropol Kray|87|f
 Mindouli|3.103|18.511|CG|Likouala|86
 Minas|21.488|-77.609|CU|Camagüey|86
 Mino|35.533|136.917|JP|Gifu|86
+Minneapolis–Saint Paul International Airport|44.882|-93.208|US|Minnesota|86|f
 Minamishibetsuchō|44.154|142.373|JP|Hokkaido|86
 Mineola|40.749|-73.641|US|New York|86
 Minakami|36.688|138.986|JP|Gunma|85
@@ -99,6 +104,7 @@ Minneola|28.574|-81.746|US|Florida|81
 Mindif|10.398|14.436|CM|Far North|80
 Mingoyo|-10.105|39.619|TZ|Lindi|80
 Minicoy|8.289|73.062|IN|Lakshadweep|80
+Minangkabau International Airport|-0.787|100.282|ID|West Sumatra|80|f
 Mīnā’ Dabā|25.651|56.265|OM|Musandam Governorate|80
 Minnehaha|45.659|-122.627|US|Washington|80
 Minano|36.074|139.100|JP|Saitama|80
@@ -106,6 +112,8 @@ Mîndreşti|47.505|28.277|MD|Teleneşti|79
 Minervino Murge|41.083|16.079|IT|Apulia|79
 Minnampalli|11.001|78.118|IN|Tamil Nadu|79
 Minatomirai|35.460|139.630|JP|Kanagawa|79
+Mindoro|12.930|121.095|PH|Mimaropa|79|f
+Minot International Airport|48.259|-101.281|US|North Dakota|79|f
 Minignan|9.997|-7.836|CI|Denguélé District|79
 Min’yar|55.073|57.555|RU|Chelyabinsk|78
 Minato|34.638|138.892|JP|Shizuoka|78
@@ -113,12 +121,14 @@ Mīnākshipuram|9.991|77.371|IN|Tamil Nadu|78
 Minas de Barroterán|27.652|-101.284|MX|Coahuila|78
 Minuwangoda|7.166|79.953|LK|Western Province|78
 Minuyan|10.514|123.105|PH|Western Visayas|78
+Minoo Island|30.346|48.214|IR|Khuzestan|78|f
 Minas do Leão|-30.140|-52.045|BR|Rio Grande do Sul|78
 Mindarie|-31.689|115.707|AU|Western Australia|77
 Minzhu|22.721|113.777|CN|Guangdong|77
 Mindszent|46.524|20.190|HU|Csongrád|77
 Minnetrista|44.938|-93.718|US|Minnesota|77
 Minzhu|29.363|107.167|CN|Chongqing|77
+Minna Airport|9.652|6.462|NG|Niger State|77|f
 Minapasoc|10.699|123.349|PH|Western Visayas|77
 Mina Clavero|-31.729|-65.005|AR|Cordoba|77
 Minante Segundo|16.902|121.762|PH|Cagayan Valley|77
@@ -135,6 +145,7 @@ Minot Air Force Base|48.421|-101.339|US|North Dakota|75
 Minamida|40.215|141.418|JP|Iwate|75
 Ming Wah Dai Ha|22.278|114.231|HK|Eastern District|74
 Min Ga Lun|16.578|96.462|MM|Yangon|74
+Minute Maid Park|29.756|-95.355|US|Texas|74|f
 Miño|43.350|-8.200|ES|Galicia|74
 Min’ancun|26.050|119.500|CN|Fujian|74
 Minador do Negrão|-9.305|-36.865|BR|Alagoas|74
@@ -142,6 +153,7 @@ Minta|4.583|12.800|CM|Centre|74
 Minerbio|44.618|11.473|IT|Emilia-Romagna|74
 Minalabac|13.569|123.184|PH|Bicol Region|73
 Minatitlán|19.367|-104.067|MX|Colima|73
+Minto Al Wright Airport|65.147|-149.366|US|Alaska|73|f
 Mintraching|48.954|12.242|DE|Bavaria|73
 Mineola|32.663|-95.488|US|Texas|73
 Mineral de Angangueo|19.621|-100.284|MX|Michoacán|73
@@ -153,18 +165,22 @@ Minderhout|51.417|4.763|BE|Flanders|73
 Minersville|40.691|-76.262|US|Pennsylvania|73
 Minlagas|8.878|125.039|PH|Northern Mindanao|73
 Mingzhong|31.733|108.815|CN|Chongqing|72
+Mīnat al Bayḑā|35.611|35.772|SY|Latakia|72|f
 Minerbe|45.232|11.352|IT|Veneto|72
 Mineral Ridge|41.140|-80.769|US|Ohio|72
 Mintiu Gherlii|47.050|23.950|RO|Cluj County|72
 Minas de Corrales|-31.574|-55.471|UY|Rivera Department|72
 Minduri|-21.682|-44.604|BR|Minas Gerais|71
 Minerva|40.730|-81.105|US|Ohio|71
+Minna Shima|26.648|127.817|JP|Okinawa|71|f
 Minoa|43.076|-76.001|US|New York|71
 Mindelo|41.315|-8.721|PT|Porto|71
 Mina México|19.411|-99.730|MX|México|71
 Mindupok|6.091|124.423|PH|Soccsksargen|71
 Mingo Junction|40.322|-80.610|US|Ohio|70
 Minde|39.516|-8.688|PT|Santarém|70
+Mingo Cay|18.360|-64.820|VI|Saint Thomas Island|70|f
+Mingulay|56.806|-7.642|GB|Scotland|70|f
 Minapan|6.815|124.859|PH|Soccsksargen|70
 Miniac-Morvan|48.514|-1.900|FR|Brittany|70
 Miners Rest|-37.481|143.801|AU|Victoria|70
@@ -175,6 +191,7 @@ Mineral Springs|34.938|-80.669|US|North Carolina|69
 Minster|40.393|-84.376|US|Ohio|69
 Minori|40.650|14.627|IT|Campania|69
 Mintlaw|57.524|-2.001|GB|Scotland|69
+Minorca|39.975|4.074|ES|Balearic Islands|69|f
 Mina|10.931|122.575|PH|Western Visayas|69
 Minuri|16.532|121.855|PH|Cagayan Valley|68
 Minas de São Domingos|37.673|-7.498|PT|Beja|68
@@ -188,6 +205,12 @@ Mindilóglion|38.184|21.701|GR|West Greece|67
 Minorca|31.579|-91.482|US|Louisiana|67
 Minglanilla|39.533|-1.600|ES|Castille-La Mancha|67
 Minervino di Lecce|40.090|18.421|IT|Apulia|67
+Ming-te Reservoir|24.589|120.893|TW|Taiwan|67|f
+Mingus Mountain|34.694|-112.128|US|Arizona|67|f
+Minna Island|24.750|124.700|JP||67|f
+Minoritenplatz|48.209|16.364|AT|Vienna|67|f
+Minţaqat as Salūqīyat al Atharīyah|33.104|44.517|IQ|Baghdad|67|f
+Minto Reef|8.112|154.275|FM|Pohnpei State|67|f
 Minto|46.085|-66.062|CA|New Brunswick|67
 Mīnūshahr|30.352|48.222|IR|Khuzestan|67
 Minanga Norte|17.452|121.785|PH|Cagayan Valley|67
@@ -197,6 +220,9 @@ Minonk|40.904|-89.035|US|Illinois|66
 Minneapolis|39.122|-97.707|US|Kansas|66
 Mineral Wells|39.178|-81.512|US|West Virginia|66
 Minzapan|18.137|-94.726|MX|Veracruz|66
+Minatitlán/Coatzacoalcos International Airport|18.103|-94.581|MX|Veracruz|65|f
+Mingyue Shan|30.400|107.317|CN|Sichuan|65|f
+Minjujisan|36.040|127.849|KR|Jeollabuk-do|65|f
 Minsin|25.530|95.379|MM|Sagaing Region|65
 Mina Vieja|19.552|-99.944|MX|México|65
 Minga Porá|-24.875|-54.934|PY|Alto Paraná Department|65
@@ -209,6 +235,13 @@ Minfeld|49.072|8.145|DE|Rheinland-Pfalz|64
 Minsterley|52.640|-2.928|GB|England|64
 Mineri|45.165|28.716|RO|Tulcea County|64
 Minieri|44.984|25.761|RO|Prahova|63
+Min Shan|33.639|103.600|CN||63|f
+Minden Airport|32.641|-93.300|US|Louisiana|63|f
+Minden-Tahoe Airport|39.001|-119.755|US|Nevada|63|f
+Mineral County Airport|47.168|-114.853|US|Montana|63|f
+Mingevannet|59.367|11.105|NO|Østfold|63|f
+Minnewasta Lake|45.391|-97.369|US|South Dakota|63|f
+Minowa-damu|35.928|138.031|JP|Nagano|63|f
 Minabo|7.972|-5.454|CI|Vallée du Bandama District|63
 Min Yan Aung|21.824|98.642|MM|Shan State|63
 Mineralni Bani|41.917|25.350|BG|Haskovo|63
@@ -223,6 +256,12 @@ Minamidaito|25.830|131.232|JP|Okinawa|62
 Mineral Springs|33.875|-93.914|US|Arkansas|61
 Mīnābād|38.466|48.518|IR|Ardabil Province|61
 Minihy-Tréguier|48.775|-3.229|FR|Brittany|61
+Minchumina Airport|63.882|-152.311|US|Alaska|61|f
+Mincle Mountain|34.521|-83.864|US|Georgia|61|f
+Mindanao|7.664|125.131|PH||61|f
+Minot Point|-64.259|-62.524|AQ||61|f
+Mińsk Mazowiecki Ghetto|52.183|21.567|PL|Mazovia|61|f
+Minzhulin Si|29.185|91.406|CN|Tibet|61|f
 Ministro Ramos Mexía|-40.507|-67.261|AR|Rio Negro|61
 Minor|33.537|-86.941|US|Alabama|61
 Mineville|44.692|-63.375|CA|Nova Scotia|61
@@ -232,27 +271,194 @@ Mineral de la Luz|21.064|-101.338|MX|Guanajuato|60
 Minturn|39.586|-106.431|US|Colorado|60
 Minyininba|8.807|-6.814|CI|Woroba|60
 Minkler|36.724|-119.458|US|California|60
+Miner|36.891|-89.538|US|Missouri|60
+Minkowice Oławskie|51.019|17.462|PL|Lower Silesia|59
+Minersville|38.214|-112.924|US|Utah|59
+Minhe|27.539|108.775|CN|Guizhou|59
 Minety|51.617|-1.950|GB|England|59
+Mīnaq|38.276|46.979|IR|East Azerbaijan|58
+Mintia|45.923|22.848|RO|Hunedoara County|58
+Minami, Lake|-69.017|39.593|AQ||58|f
+Minarets|37.662|-119.178|US|California|58|f
+Mindung-san|37.286|128.783|KR|Gangwon-do|58|f
+Mineirinho stadium|-19.862|-43.972|BR|Minas Gerais|58|f
+Mineral Wells Airport|32.785|-98.059|US|Texas|58|f
+Minicoy Island|8.276|73.052|IN|Lakshadweep|58|f
+Minidoka Dam|42.668|-113.485|US|Idaho|58|f
+Minatare|41.809|-103.504|US|Nebraska|58
+Minkivka|48.699|37.854|UA|Donetsk|58
+Miniș|46.136|21.606|RO|Arad County|58
+Minas Viejas|22.404|-99.336|MX|San Luis Potosí|58
+Mineral City|40.601|-81.361|US|Ohio|57
+Minneola|37.443|-100.015|US|Kansas|57
+Minderlittgen|50.017|6.833|DE|Rheinland-Pfalz|57
+Minford|38.859|-82.862|US|Ohio|57
+Minyindyéni|8.865|-6.784|CI|Woroba|57
+Minnesota Lake|43.842|-93.832|US|Minnesota|56
+Mining|48.277|13.162|AT|Upper Austria|56
+Miniac-sous-Bécherel|48.285|-1.931|FR|Brittany|56
+Minto|48.292|-97.371|US|North Dakota|56
+Minden|41.467|-95.543|US|Iowa|55
+Minnetonka Beach|44.940|-93.577|US|Minnesota|55
+Minzier|46.051|5.988|FR|Auvergne-Rhône-Alpes|55
+Minversheim|48.786|7.622|FR|Grand Est|55
+Minor Hill|35.055|-87.158|US|Tennessee|54
+Minheim|49.865|6.937|DE|Rheinland-Pfalz|54
+Minaçu Airport|-13.549|-48.195|BR|Goiás|54|f
+Minam Lodge Airport|45.351|-117.633|US|Oregon|54|f
+Minamidaitojima|25.847|131.263|JP|Okinawa|54|f
+Minamo Island|-69.650|39.467|AQ||54|f
+Minas de Toquepala|-17.246|-70.614|PE|Tacna|54|f
+Minas do Lenga|-9.467|15.500|AO|Malanje|54|f
+Mindlandet|65.777|12.444|NO|Nordland|54|f
+Mine Bank Mountain|37.919|-79.100|US|Virginia|54|f
+Mineral El Teniente|-34.091|-70.333|CL|O'Higgins Region|54|f
+Minersville Reservoir|38.236|-112.816|US|Utah|54|f
+Mingei International Museum|32.731|-117.150|US|California|54|f
+Minneriya Wewa|8.031|80.881|LK|North Central Province|54|f
+Minsener Oog|53.759|8.011|DE|Lower Saxony|54|f
+Minsk Ghetto|53.900|27.567|BY|Minsk City|54|f
+Minstrel Point|-61.078|-55.408|AQ||54|f
+Mint Museum of Art|35.197|-80.815|US|North Carolina|54|f
+Minvoul Airport|2.150|12.133|GA|Woleu-Ntem|54|f
+Minong|46.099|-91.825|US|Wisconsin|54
+Mingoville|40.932|-77.648|US|Pennsylvania|54
 Mineral del Chico|20.215|-98.731|MX|Hidalgo|54
 Mingorría|40.752|-4.666|ES|Castille and León|53
+Mina Quellaveco|-17.104|-70.624|PE|Moquegua Department|49|f
+Mincey Glacier|-84.950|-177.500|AQ||49|f
+Minchinbury Park|-33.785|150.832|AU|New South Wales|49|f
+Mindelsee|47.754|9.022|DE|Baden-Wurttemberg|49|f
+Mindoro Strait|12.333|120.667|PH||49|f
+Mineral Mountain|46.909|-121.755|US|Washington|49|f
+Mineral Range|41.603|-122.795|US|California|49|f
+Minerva Glacier|-79.570|157.250|AQ||49|f
+Minerva Reefs|-23.833|-179.000|||49|f
+Minillas|26.727|-99.820|MX|Nuevo León|49|f
+Minlacowie Conservation Park|-34.882|137.653|AU|South Australia|49|f
+Minneparken|59.906|10.769|NO|Oslo|49|f
+Minnie Peak|46.328|-122.190|US|Washington|49|f
+Minsi Trail Bridge|40.618|-75.358|US|Pennsylvania|49|f
+Minsmere Nature Reserve|52.233|1.600|GB|England|49|f
+Minto, Mount|-71.783|168.750|AQ||49|f
+Minziro Forest Reserve|-1.083|31.500|TZ|Kagera|49|f
 Minnewaukan|48.071|-99.252|US|North Dakota|47
+Minden|49.833|6.467|DE|Rheinland-Pfalz|43
 Minucciano|44.170|10.208|IT|Tuscany|42
+Mina Airport|38.383|-118.099|US|Nevada|40|f
+Minam Lake|45.181|-117.352|US|Oregon|40|f
+Minaret Lake|37.659|-119.157|US|California|40|f
+Minaret Peak|-80.250|-82.367|AQ||40|f
+Minaret Summit|37.656|-119.060|US|California|40|f
+Minas Basin|45.250|-64.165|CA|Nova Scotia|40|f
+Mincer Glacier|-72.167|-97.917|AQ||40|f
+Mindanao|7.275|124.519|PH|Soccsksargen|40|f
+Mindelheimer Köpfl|47.295|10.197|DE|Bavaria|40|f
+Mindemoya Lake|45.761|-82.202|CA|Ontario|40|f
+Mindepark|56.129|10.206|DK|Central Jutland|40|f
+Mine Falls Park|42.749|-71.506|US|New Hampshire|40|f
+Mine Hill|42.989|-71.339|US|New Hampshire|40|f
+Mine Kill State Park|42.433|-74.463|US|New York|40|f
+Miner Lake|43.759|-114.666|US|Idaho|40|f
+Mineral Mountains|38.365|-112.820|US|Utah|40|f
+Minerva Creek Bridge|42.139|-93.156|US|Iowa|40|f
+Mines ParisTech|48.845|2.339|FR|Île-de-France|40|f
+Mines View Park|16.417|120.600|PH|Cordillera|40|f
+Mingay|57.524|-6.640|GB|Scotland|40|f
+Mingo County Airport|37.688|-82.258|US|West Virginia|40|f
+Mingo National Wildlife Refuge|36.993|-90.174|US|Missouri|40|f
+Mini Estadi|41.380|2.118|ES|Catalonia|40|f
+Mini-Europe|50.894|4.339|BE||40|f
+Miniatürk|41.060|28.949|TR|Istanbul|40|f
+Minidoka National Historic Site|42.681|-114.247|US|Idaho|40|f
+Minidoka National Wildlife Refuge|42.657|-113.353|US|Idaho|40|f
+Minisink Hills|40.999|-75.137|US|Pennsylvania|40|f
+Ministers Island|45.109|-67.042|CA|New Brunswick|40|f
+Mink Lake|44.006|-65.890|CA|Nova Scotia|40|f
+Mink Lake|43.811|-110.846|US|Wyoming|40|f
+Mink Peak|-86.233|-129.933|AQ||40|f
+Minneapolis Sculpture Garden|44.971|-93.288|US|Minnesota|40|f
+Minnedosa Lake|50.266|-99.826|CA|Manitoba|40|f
+Minneopa State Park|44.162|-94.102|US|Minnesota|40|f
+Minnesota Landscape Arboretum|44.862|-93.617|US|Minnesota|40|f
+Minnesota Military Museum|46.103|-94.353|US|Minnesota|40|f
+Minnesota Museum of American Art|44.944|-93.095|US|Minnesota|40|f
+Minnesota Point|46.728|-92.048|US|Minnesota|40|f
+Minnesota Transportation Museum|44.962|-93.100|US|Minnesota|40|f
+Minnesota Valley National Wildlife Refuge|44.722|-93.602|US|Minnesota|40|f
+Minnesota Zoo|44.773|-93.196|US|Minnesota|40|f
+Minnie Island|45.250|-80.133|CA|Ontario|40|f
+Minnitaki Lake|49.972|-91.958|CA|Ontario|40|f
+Minnow Lake|51.008|-93.799|CA|Ontario|40|f
+Minnow Lake|47.532|-95.475|US|Minnesota|40|f
+Minocqua Lake|45.872|-89.697|US|Wisconsin|40|f
+Minor Glacier|43.187|-109.662|US|Wyoming|40|f
+Minoru Park|49.165|-123.145|CA|British Columbia|40|f
+Minstrel Island|50.620|-126.321|CA|British Columbia|40|f
+Minto Islands|68.568|-105.252|CA|Nunavut|40|f
+Minton Castle Mound|52.510|-2.839|GB|England|40|f
+Mintz Peak|-76.883|-126.050|AQ||40|f
+Minute Man National Historical Park|42.453|-71.296|US|Massachusetts|40|f
 Miño de San Esteban|41.536|-3.346|ES|Castille and León|38
 Min Buri|13.813|100.732|TH|Bangkok|0
 Min’an|29.459|109.437|CN|Hunan|0
+Min’an|21.014|110.320|CN|Guangdong|0
+Mindelstetten|48.850|11.650|DE|Bavaria|0
 Mindiptana|-5.864|140.693|ID|South Papua|0
 Mindo|-0.052|-78.776|EC|Pichincha|0
 Ming’antu|42.303|114.993|CN|Inner Mongolia|0
+Ming’ao|28.282|120.522|CN|Chongqing|0
 Mingajik|37.028|66.128|AF|Jowzjan|0
+Mingcheng|22.858|112.692|CN|Guangdong|0
+Mingdu|34.131|109.103|CN|Shaanxi|0
 Mingfeng|31.062|111.643|CN|Hubei|0
+Minggang|29.191|121.638|CN|Zhejiang|0
+Minggirsari Dua|-8.142|112.170|ID|East Java|0
+Minggou|32.249|119.907|CN|Jiangsu|0
+Minghai|39.500|99.417|CN|Gansu|0
+Mingjia|29.504|107.059|CN|Chongqing|0
+Mingjing|24.201|112.907|CN|Guangdong|0
+Mingjiu|46.115|125.520|CN|Heilongjiang|0
+Mingkou|28.919|117.431|CN|Jiangxi|0
+Mingshan|47.677|131.073|CN|Heilongjiang|0
+Mingshan|29.421|116.464|CN|Jiangxi|0
+Mingshan|30.060|114.759|CN|Hubei|0
+Mingshan|48.097|126.236|CN|Heilongjiang|0
+Mingshui|40.362|119.888|CN|Liaoning|0
+Mingshuihe|46.658|120.709|CN|Inner Mongolia|0
 Mingxi|26.359|117.197|CN|Fujian|0
+Mingxikou|28.700|110.317|CN|Hunan|0
+Mingxing|29.680|109.271|CN|Hubei|0
 Mingxing|37.426|112.544|CN|Shanxi|0
+Mingyi|46.445|130.433|CN|Heilongjiang|0
+Mingyihe|24.788|102.428|CN|Yunnan|0
+Mingyuedian|38.456|114.891|CN|Hebei|0
 Mingzhou|36.980|115.262|CN|Hebei|0
 Minh Long|14.932|108.703|VN|Quang Ngai|0
 Minh Lương|9.902|105.159|VN|An Giang|0
+Minhe|45.906|127.562|CN|Heilongjiang|0
+Minian|-6.916|113.139|ID|East Java|0
 Minj|-5.908|144.692|PG|Jiwaka Province|0
+Minji|30.841|114.130|CN|Hubei|0
 Minjian|28.846|103.546|CN|Sichuan|0
+Minjiang|25.956|119.392|CN|Fujian|0
 Minjibir|12.178|8.658|NG|Kano State|0
+Minle|28.385|109.299|CN|Hunan|0
+Minle|23.659|113.467|CN|Guangdong|0
+Minle|47.523|126.041|CN|Heilongjiang|0
+Minle|46.730|127.421|CN|Heilongjiang|0
+Minqiao|32.903|119.167|CN|Jiangsu|0
 Minqing|26.225|118.860|CN|Fujian|0
 Minquan Chengguanzhen|34.664|115.133|CN|Henan|0
+Minshan|34.437|103.976|CN|Gansu|0
+Minshan|29.506|115.749|CN|Jiangxi|0
+Mintang|33.800|101.033|CN|Qinghai|0
+Mintian|30.683|114.159|CN|Hubei|0
 Minwakh|16.800|48.109|YE|Muhafazat Hadramaout|0
+Minyi|44.926|127.297|CN|Heilongjiang|0
+Minyue|45.052|127.049|CN|Heilongjiang|0
+Minzheng|46.720|126.174|CN|Heilongjiang|0
+Minzhi|22.624|114.038|CN|Guangdong|0
+Minzhong|22.624|113.488|CN|Guangdong|0
+Minzhu|25.003|115.940|CN|Fujian|0
+Minzhu|41.132|126.202|CN|Jilin|0

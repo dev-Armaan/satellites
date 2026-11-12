@@ -1,6 +1,6 @@
 Peru|-10.000|-75.250|PE||151|c
 Pernambuco|-8.333|-37.750|BR||140|r
-Pennsylvania|40.800|-77.700|US||137|r
+Pennsylvania|40.800|-77.700|US||138|r
 Peshawar|34.008|71.578|PK|Khyber Pakhtunkhwa|134
 Perak|5.000|101.000|MY||129|r
 Perth|-31.952|115.861|AU|Western Australia|128
@@ -14,8 +14,8 @@ Perm|58.010|56.250|RU|Perm Krai|120
 Petaling Jaya|3.107|101.607|MY|Selangor|118
 Pelentong|1.524|103.824|MY|Johor|115
 Penza|53.196|45.011|RU|Penza Oblast|114
+Peloponnese|37.627|22.440|GR||114|r
 Pereira|4.814|-75.695|CO|Risaralda Department|113
-Peloponnese|37.627|22.440|GR||113|r
 Petrolina|-9.399|-40.501|BR|Pernambuco|112
 Pétionville|18.512|-72.285|HT|Ouest|112
 Petare|10.477|-66.808|VE|Miranda|111
@@ -54,9 +54,9 @@ Perpignan|42.698|2.895|FR|Occitanie|101
 Pelabuhanratu|-6.987|106.551|ID|West Java|101
 Pearland|29.564|-95.286|US|Texas|101
 Perdizes|-23.539|-46.681|BR|São Paulo|100
+Pec|42.663|20.301|XK||100|r
 Perling|1.481|103.684|MY|Johor|100
 Pechersk|50.444|30.523|UA|Kyiv City|100
-Pec|42.663|20.301|XK||100|r
 Penzing|48.200|16.267|AT|Vienna|100
 Pendang|5.995|100.479|MY|Kedah|99
 Pergamino|-33.891|-60.575|AR|Buenos Aires|99
@@ -74,6 +74,7 @@ Peckham|51.474|-0.070|GB|England|97
 Pengcheng|36.431|114.170|CN|Hebei|97
 Peruíbe|-24.320|-46.998|BR|São Paulo|97
 Perai|5.383|100.383|MY|Penang|96
+Peter I Island|-68.847|-90.597|AQ||96|f
 Pesqueira|-8.358|-36.696|BR|Pernambuco|96
 Pedro Leopoldo|-19.618|-44.043|BR|Minas Gerais|96
 Pervomaysk|48.045|30.848|UA|Mykolaiv|96
@@ -86,15 +87,14 @@ Petroúpolis|38.042|23.685|GR|Attica|95
 Pestlőrinc|47.430|19.216|HU|Budapest|95
 Petauke|-14.241|31.320|ZM|Eastern Province|95
 Pessac|44.806|-0.632|FR|New Aquitaine|95
+Pergamon Museum|52.521|13.397|DE|State of Berlin|95|f
 Petlād|22.477|72.800|IN|Gujarat|95
 Pemba North|-5.050|39.767|TZ||95|r
 Periya Semūr|11.361|77.690|IN|Tamil Nadu|95
 Pemangkat|1.167|108.967|ID|West Kalimantan|95
 Pensacola|30.421|-87.217|US|Florida|95
+Persepolis|29.935|52.891|IR|Fars|95|f
 Perth Amboy|40.507|-74.265|US|New Jersey|94
 Peabody|42.528|-70.929|US|Massachusetts|94
 Pedregal|9.066|-79.426|PA|Panamá|94
 Peranāmpattu|12.934|78.719|IN|Tamil Nadu|94
-Pèlèngana|13.427|-6.222|ML|Ségou|94
-Peine|52.319|10.235|DE|Lower Saxony|94
-Perintalmanna|10.977|76.225|IN|Kerala|94

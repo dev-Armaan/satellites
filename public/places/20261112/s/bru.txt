@@ -1,14 +1,17 @@
 Brussels Capital|50.853|4.351|BE||126|r
 Brussels|50.850|4.349|BE|Brussels Capital|120
 Brunei|4.500|114.667|BN||113|c
-Brunei-Muara District|4.917|114.917|BN||108|r
+Brunei-Muara District|4.917|114.917|BN||109|r
 Brusque|-27.098|-48.913|BR|Santa Catarina|104
 Brugge|51.209|3.224|BE|Flanders|101
+Brussels Airport|50.901|4.484|BE|Flanders|99|f
 Brumado|-14.204|-41.665|BR|Bahia|97
 Bruchsal|49.124|8.598|DE|Baden-Wurttemberg|94
 Brühl|50.829|6.905|DE|North Rhine-Westphalia|93
 Brumadinho|-20.143|-44.200|BR|Minas Gerais|92
+Brussels South Charleroi Airport|50.459|4.454|BE|Wallonia|92|f
 Brunswick|41.238|-81.842|US|Ohio|91
+Brunei International Airport|4.944|114.928|BN|Brunei-Muara District|90|f
 Brugherio|45.553|9.299|IT|Lombardy|90
 Brunssum|50.947|5.971|NL|Limburg|89
 Brufut|13.389|-16.750|GM|Western|89
@@ -35,22 +38,28 @@ Brunico|46.799|11.934|IT|Trentino-Alto Adige|82
 Brunn am Gebirge|48.107|16.285|AT|Lower Austria|81
 Bruay-sur-l'Escaut|50.399|3.544|FR|Hauts-de-France|81
 Brugg|47.481|8.209|CH|Aargau|81
+Bruce Peninsula|44.917|-81.250|CA|Ontario|81|f
 Brumunddal|60.881|10.939|NO|Innlandet|81
 Brumath|48.734|7.711|FR|Grand Est|80
 Bruck an der Mur|47.406|15.258|AT|Styria|79
+Bruny Island|-43.355|147.285|AU|Tasmania|79|f
 Bruino|45.015|7.478|IT|Piedmont|78
 Bruchmühlbach-Miesau|49.383|7.433|DE|Rheinland-Pfalz|78
 Brunete|40.405|-3.998|ES|Madrid|78
 Brunehault|50.505|4.432|BE|Wallonia|78
+Brunswick Golden Isles Airport|31.259|-81.466|US|Georgia|77|f
 Bruck an der Leitha|48.024|16.776|AT|Lower Austria|77
+Brunel University London|51.533|-0.473|GB|England|76|f
 Bruchhausen-Vilsen|52.829|8.991|DE|Lower Saxony|76
 Brunswick|39.314|-77.628|US|Maryland|76
 Brundall|52.624|1.435|GB|England|75
 Brunstatt|47.721|7.320|FR|Grand Est|75
+Brunegghorn|46.126|7.746|CH|Valais|75|f
 Brugnera|45.899|12.542|IT|Friuli Venezia Giulia|75
 Brusturi|47.283|26.383|RO|Neamț County|75
 Brush|40.259|-103.624|US|Colorado|75
 Brumov-Bylnice|49.092|18.022|CZ|Zlín|75
+Brunton Park|54.895|-2.914|GB|England|74|f
 Brusaporto|45.671|9.760|IT|Lombardy|74
 Bruckberg|48.522|11.994|DE|Bavaria|74
 Brusy|53.884|17.718|PL|Pomerania|73
@@ -66,6 +75,7 @@ Brunflo|63.076|14.832|SE|Jämtland|72
 Brügg|47.124|7.279|CH|Bern|72
 Brunna|60.263|16.010|SE|Dalarna|72
 Brüttisellen|47.422|8.633|CH|Zurich|71
+Brünnelistock|47.084|8.973|CH|Schwyz|71|f
 Brušperk|49.700|18.222|CZ|Moravian-Silesian Region|71
 Bruyères-sur-Oise|49.158|2.326|FR|Île-de-France|71
 Brūqīn|32.072|35.099|PS|West Bank|71
@@ -74,11 +84,13 @@ Bruyères|48.207|6.718|FR|Grand Est|71
 Brugelette|50.596|3.854|BE|Wallonia|71
 Brusyanka|53.985|38.036|RU|Tula Oblast|70
 Bruyères-le-Châtel|48.589|2.190|FR|Île-de-France|70
+Brukkaros|-25.866|17.796|NA|Karas Region|70|f
 Brüel|53.737|11.715|DE|Mecklenburg-Vorpommern|70
 Bruinisse|51.662|4.094|NL|Zeeland|70
 Bruton|51.112|-2.453|GB|England|69
 Brusly|30.394|-91.254|US|Louisiana|69
 Bruckneudorf|48.020|16.778|AT|Burgenland|69
+Brünnlitz Concentration Camp|49.627|16.522|CZ|Pardubice Region|69|f
 Brustem|50.805|5.223|BE|Flanders|69
 Brussegem|50.926|4.267|BE|Flanders|69
 Brush Prairie|45.733|-122.546|US|Washington|68
@@ -86,6 +98,10 @@ Brunópolis|-27.311|-50.839|BR|Santa Catarina|68
 Brüsewitz|53.676|11.244|DE|Mecklenburg-Vorpommern|68
 Brücken|49.432|7.360|DE|Rheinland-Pfalz|68
 Brüssow|53.400|14.125|DE|Brandenburg|67
+Brulandet|61.490|5.145|NO|Vestland|67|f
+Brunswick Peninsula|-53.459|-71.365|CL|Region of Magallanes|67|f
+Brushy Mountains|36.034|-81.213|US|North Carolina|67|f
+Brutus Island|-54.067|-37.150|GS||67|f
 Brugine|45.297|11.992|IT|Veneto|67
 Brusno|48.792|19.382|SK|Banská Bystrica Region|67
 Brusno|48.772|18.725|SK|Trenčín Region|66
@@ -94,6 +110,7 @@ Brunswick Heads|-28.540|153.546|AU|New South Wales|66
 Brundidge|31.720|-85.816|US|Alabama|66
 Brusnengo|45.590|8.252|IT|Piedmont|66
 Bruce|33.992|-89.349|US|Mississippi|66
+Brundidge Municipal Airport|31.733|-85.805|US|Alabama|65|f
 Bruchweiler-Bärenbach|49.117|7.800|DE|Rheinland-Pfalz|65
 Brusartsi|43.663|23.067|BG|Montana|65
 Brunate|45.821|9.099|IT|Lombardy|65
@@ -105,6 +122,7 @@ Brückl|46.752|14.537|AT|Carinthia|64
 Bruille-Saint-Amand|50.466|3.500|FR|Hauts-de-France|64
 Bruceville-Eddy|31.305|-97.252|US|Texas|64
 Bruzolo|45.141|7.195|IT|Piedmont|63
+Bruce Campbell Field|32.440|-90.104|US|Mississippi|63|f
 Brumovice|50.015|17.750|CZ|Moravian-Silesian Region|63
 Bruceton|36.038|-88.244|US|Tennessee|63
 Brûlon|47.969|-0.235|FR|Pays de la Loire|63
@@ -126,6 +144,7 @@ Brusasco|45.155|8.061|IT|Piedmont|61
 Brussels|43.743|-81.250|CA|Ontario|61
 Brusio|46.260|10.124|CH|Grisons|61
 Brunswick|34.287|-78.701|US|North Carolina|61
+Brushy Peak|37.768|-121.703|US|California|61|f
 Brusenky|48.264|25.534|UA|Chernivtsi|61
 Brussels|44.736|-87.621|US|Wisconsin|61
 Brucoli|37.282|15.188|IT|Sicily|61
@@ -135,20 +154,142 @@ Brumby|51.896|11.718|DE|Saxony-Anhalt|60
 Brügge|54.176|10.069|DE|Schleswig-Holstein|60
 Brüggen|52.042|9.774|DE|Lower Saxony|60
 Brumovice|48.961|16.896|CZ|South Moravian|60
+Bruebach|47.701|7.359|FR|Grand Est|60
+Brunn|47.890|13.135|AT|Salzburg|60
+Bruges-Capbis-Mifaget|43.133|-0.300|FR|New Aquitaine|60
+Brussieu|45.748|4.524|FR|Auvergne-Rhône-Alpes|60
+Brue-Auriac|43.529|5.943|FR|Provence-Alpes-Côte d'Azur|60
+Brufa|43.057|12.471|IT|Umbria|60
 Brusimpiano|45.945|8.890|IT|Lombardy|60
 Brudzeń Duży|52.669|19.504|PL|Mazovia|59
+Bruchhausen|50.600|7.250|DE|Rheinland-Pfalz|59
+Brunnadern|47.336|9.130|CH|Saint Gallen|59
+Brugneto|44.922|10.762|IT|Emilia-Romagna|59
+Brushy|35.557|-94.725|US|Oklahoma|59
 Bruzzano Zeffirio|38.013|16.083|IT|Calabria|59
+Brücken|51.444|11.198|DE|Saxony-Anhalt|59
 Brunello|45.765|8.795|IT|Lombardy|59
+Bruc-sur-Aff|47.815|-2.020|FR|Brittany|59
+Bruailles|46.596|5.236|FR|Bourgogne-Franche-Comté|59
+Brusvily|48.390|-2.127|FR|Brittany|58
+Brunswick|39.423|-93.130|US|Missouri|58
+Bruunshåb|56.421|9.440|DK|Central Jutland|58
+Brugmann Mountains|-64.034|-61.965|AQ||58|f
+Bruhnsøya|77.277|21.674|SJ||58|f
+Bruneau Range|41.933|-115.863|US|Nevada|58|f
+Brunei Bay|5.106|115.302|MY||58|f
+Brush Mountain|34.884|-119.225|US|California|58|f
+Brusnik|41.023|21.285|MK|Bitola|58
+Bruff|52.474|-8.546|IE|Munster|58
+Bruthen|-37.707|147.831|AU|Victoria|58
 Bruiu|45.867|24.700|RO|Sibiu County|58
+Bruchertseifen|50.750|7.717|DE|Rheinland-Pfalz|58
+Bruyelle|50.558|3.428|BE|Wallonia|58
+Bruno Martínez|24.519|-104.651|MX|Durango|58
+Bruch|44.205|0.412|FR|New Aquitaine|58
 Bruck an der Großglocknerstraße|47.285|12.823|AT|Salzburg|57
+Brusturei|46.300|23.533|RO|Alba County|57
+Bruzovice|49.717|18.410|CZ|Moravian-Silesian Region|57
+Bruce|45.457|-91.273|US|Wisconsin|57
+Bruckmühl|47.527|14.346|AT|Styria|57
+Brux|46.236|0.193|FR|New Aquitaine|57
+Brünzow|54.105|13.565|DE|Mecklenburg-Vorpommern|57
+Bruce Rock|-31.880|118.147|AU|Western Australia|57
+Brunn im Felde|48.429|15.699|AT|Lower Austria|57
+Brusove|49.522|33.337|UA|Poltava|56
+Brunau|52.748|11.468|DE|Saxony-Anhalt|56
+Brüttelen|47.023|7.148|CH|Bern|56
+Brullioles|45.761|4.499|FR|Auvergne-Rhône-Alpes|56
+Bruno|52.267|-105.518|CA|Saskatchewan|56
+Bruley|48.707|5.853|FR|Grand Est|56
+Bruniquel|44.055|1.664|FR|Occitanie|56
+Brule Shore|45.741|-63.238|CA|Nova Scotia|55
+Bruère-Allichamps|46.768|2.433|FR|Centre-Val de Loire|55
 Bruck am Ziller|47.390|11.851|AT|Tyrol|55
+Brunstorf|53.493|10.425|DE|Schleswig-Holstein|55
+Brunswick Station|43.887|-69.933|US|Maine|55
+Brû|48.348|6.682|FR|Grand Est|55
+Brunn|46.950|16.017|AT|Styria|55
+Brueil-en-Vexin|49.033|1.817|FR|Île-de-France|55
+Brûlain|46.202|-0.320|FR|New Aquitaine|55
+Bruchweiler|49.798|7.226|DE|Rheinland-Pfalz|55
+Bruno|37.691|-81.869|US|West Virginia|55
+Bruree|52.422|-8.664|IE|Munster|55
+Brüheim|51.000|10.583|DE|Thuringia|55
+Brunson|32.925|-81.187|US|South Carolina|54
+Bruce Island|80.156|50.028|RU|Arkhangelskaya|54|f
+Bruce Islands|-60.683|-44.900|AQ||54|f
+Brückner Glacier|-67.324|-67.037|AQ||54|f
+Brudesløret|61.643|5.288|NO|Vestland|54|f
+Brugda Ridge|-72.083|2.750|AQ||54|f
+Brule Lake|46.055|-88.840|US|Michigan|54|f
+Brunnensteinspitze|47.406|11.287|DE|Bavaria|54|f
+Brünnstein|47.648|12.094|DE|Bavaria|54|f
+Brusdalsvatnet|62.479|6.471|NO|Møre og Romsdal|54|f
+Brunehamel|49.770|4.182|FR|Hauts-de-France|54
+Brunelles|48.324|0.893|FR|Centre-Val de Loire|54
+Bruch|49.957|6.782|DE|Rheinland-Pfalz|54
+Bruin|41.055|-79.727|US|Pennsylvania|54
 Brusson|45.759|7.729|IT|Aosta Valley|52
+Bruchstedt|51.183|10.783|DE|Thuringia|50
+Bruschied|49.833|7.400|DE|Rheinland-Pfalz|50
 Brunn an der Wild|48.694|15.520|AT|Lower Austria|50
 Bruno|44.793|8.440|IT|Piedmont|49
+Bru|59.041|5.644|NO|Rogaland|49|f
+Bruce Point|-76.133|162.433|AQ||49|f
+Bruce, Mount|-70.533|162.500|AQ||49|f
+Brumby Hill|-37.022|147.993|AU|Victoria|49|f
+Brumer Islands|-10.762|150.401|PG|Milne Bay Province|49|f
+Brunonia Glacier|-54.054|-37.481|GS||49|f
+Bruns, Mount|-84.483|-64.383|AQ||49|f
+Bruray Island|60.427|-0.749|GB|Scotland|49|f
+Brush Island|-35.529|150.416|AU|New South Wales|49|f
 Brujas|8.586|-78.531|PA|Panamá|48
 Bruflat|60.888|9.641|NO|Innlandet|47
+Brunsmark|53.615|10.752|DE|Schleswig-Holstein|43
+Bruach na Frithe|57.247|-6.211|GB|Scotland|40|f
+Bruce Bay|-43.600|169.567|NZ||40|f
+Bruce Island|63.310|-67.427|CA|Nunavut|40|f
+Bruce Mountains|71.168|-72.498|CA|Nunavut|40|f
+Bruces Castle|55.297|-6.169|GB|Northern Ireland|40|f
+Bruchberg|51.784|10.500|DE|Lower Saxony|40|f
+Brückenberg|50.453|12.608|DE|Saxony|40|f
+Brudenell River Provincial Park|46.200|-62.599|CA|Prince Edward Island|40|f
+Brule Lake|45.585|-77.760|CA|Ontario|40|f
+Brule Lake|45.051|-77.048|CA|Ontario|40|f
+Brule Lake|47.940|-90.682|US|Minnesota|40|f
+Brûlé Lake|53.283|-117.850|CA|Alberta|40|f
+Brumba National Wildlife Refuge|48.733|-99.246|US|North Dakota|40|f
+Brumlow Top|-32.003|151.448|AU|New South Wales|40|f
+Brünberg|46.576|8.277|CH|Bern|40|f
+Brundage Mountain|45.021|-116.128|US|Idaho|40|f
+Bruneau Dunes State Park|42.895|-115.698|US|Idaho|40|f
+Brunegggletscher|46.135|7.721|CH|Valais|40|f
+Brunet Island State Park|45.182|-91.156|US|Wisconsin|40|f
+Brunette Island|47.271|-55.899|CA|Newfoundland and Labrador|40|f
+Brunhilde Peak|-77.633|161.450|AQ||40|f
+Brunner Glacier|-85.233|-175.633|AQ||40|f
+Brunnethorn|46.254|7.666|CH|Valais|40|f
+Brunnistock|46.848|8.550|CH|Uri|40|f
+Brunnsviken|59.372|18.031|SE|Stockholm|40|f
+Bruntsfield Links|55.940|-3.201|GB|Scotland|40|f
+Brunvoll Glacier|-67.800|66.800|AQ||40|f
+Bruschghorn|46.631|9.306|CH|Grisons|40|f
+Brush Glacier|-74.483|-111.600|AQ||40|f
+Brush Hollow Reservoir|38.463|-105.052|US|Colorado|40|f
+Brush Lake|44.722|-78.976|CA|Ontario|40|f
+Brush Lake|44.325|-97.116|US|South Dakota|40|f
+Brush Mountain|34.801|-86.559|US|Alabama|40|f
+Brush Mountain|40.534|-78.313|US|Pennsylvania|40|f
+Brushy Butte|41.178|-121.446|US|California|40|f
+Brushy Creek Reservoir|35.543|-94.822|US|Oklahoma|40|f
+Brussels Peak|52.517|-117.802|CA|Alberta|40|f
+Brücktal|50.317|6.983|DE|Rheinland-Pfalz|40
 Brumano|45.855|9.501|IT|Lombardy|37
 Bruhagen|63.053|7.634|NO|Møre og Romsdal|0
+Brumbung Laok|-6.927|113.516|ID|East Java|0
 Brummānat al Mashāyikh|35.019|36.171|SY|Tartus|0
+Brunn|49.100|11.900|DE|Bavaria|0
+Brunnen|48.629|11.309|DE|Bavaria|0
 Brunyola|41.900|2.683|ES|Catalonia|0
 Bruzual|8.051|-69.333|VE|Apure|0

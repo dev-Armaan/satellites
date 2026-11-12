@@ -1,6 +1,6 @@
 Bishkek|42.870|74.590|KG|Bishkek|119
 Bissau|11.864|-15.598|GW|Bissau|113
-Bistrița-Năsăud County|47.167|24.583|RO||110|r
+Bistrița-Năsăud County|47.167|24.583|RO||112|r
 Bishoftu|8.752|38.978|ET|Oromiya|106
 Bishan|29.595|106.225|CN|Chongqing|106
 Biskra|34.850|5.728|DZ|Biskra|106
@@ -10,6 +10,7 @@ Bishan New Town|1.350|103.849|SG||99
 Bistriţa|47.133|24.500|RO|Bistrița-Năsăud County|98
 Bismarck|46.808|-100.784|US|North Dakota|98
 Bismil|37.845|40.659|TR|Diyarbakır Province|97
+Bismarck Archipelago|-5.000|150.000|PG||97|f
 Bīsalpur|28.293|79.805|IN|Uttar Pradesh|97
 Bishnupur|23.074|87.320|IN|West Bengal|96
 Bisceglie|41.243|16.501|IT|Apulia|95
@@ -20,6 +21,7 @@ Bisauli|28.308|78.937|IN|Uttar Pradesh|90
 Bissikrima|10.850|-10.933|GN|Faranah|89
 Bishop Auckland|54.656|-1.677|GB|England|88
 Bishopbriggs|55.907|-4.219|GB|Scotland|87
+Bissau Airport|11.895|-15.654|GW|Bissau|87|f
 Bissāu|28.247|75.077|IN|Rajasthan|87
 Bisālgarh|23.676|91.283|IN|Tripura|86
 Biskupin-Sępolno-Dąbie-Bartoszowice|51.108|17.091|PL|Lower Silesia|86
@@ -46,16 +48,22 @@ Biscarrosse|44.395|-1.167|FR|New Aquitaine|81
 Bischofswerda|51.128|14.180|DE|Saxony|80
 Biskupiec|53.865|20.957|PL|Warmia-Masuria|80
 Bishunpur Hakīmābād|25.845|85.843|IN|Bihar|80
+Bislig Airport|8.198|126.325|PH|Caraga|80|f
 Bisingen|48.310|8.917|DE|Baden-Wurttemberg|79
+Bishorn|46.118|7.715|CH|Valais|79|f
 Bissamcuttack|19.512|83.506|IN|Odisha|78
 Bischofswiesen|47.631|12.983|DE|Bavaria|78
 Bishunpur Urf Mahārājganj|26.259|83.116|IN|Uttar Pradesh|78
 Bischofshofen|47.417|13.217|AT|Salzburg|77
+Biscayne Bay|25.578|-80.235|US|Florida|77|f
+Bishop International Airport|42.965|-83.743|US|Michigan|77|f
+Bisbee-Douglas International Airport|31.469|-109.604|US|Arizona|76|f
 Bispingen|53.083|9.998|DE|Lower Saxony|76
 Bishops Waltham|50.956|-1.215|GB|England|76
 Bischberg|49.911|10.832|DE|Bavaria|75
 Bishkul|54.778|69.100|KZ|North Kazakhstan|75
 Bissegem|50.824|3.228|BE|Flanders|75
+Biseulsan|35.716|128.525|KR|Daegu|74|f
 Bisbee|31.448|-109.928|US|Arizona|74
 Bischofsheim in der Rhön|50.402|10.008|DE|Bavaria|74
 Bisignano|39.507|16.281|IT|Calabria|74
@@ -66,6 +74,7 @@ Bistrica|40.979|21.366|MK|Bitola|74
 Bishopton|55.910|-4.506|GB|Scotland|73
 Bisacquino|37.704|13.261|IT|Sicily|73
 Bistra|47.867|24.200|RO|Maramureş|73
+Biskupská kupa|50.257|17.429|CZ|Moravian-Silesian Region|72|f
 Bisamberg|48.331|16.361|AT|Lower Austria|72
 Bisuschio|45.871|8.868|IT|Lombardy|72
 Bishop|37.364|-118.395|US|California|72
@@ -88,10 +97,14 @@ Bistrica pri Tržiču|46.355|14.292|SI|Municipality of Tržič|70
 Bisidougou|8.660|-5.869|CI|Savanes District|70
 Bisoca|45.533|26.700|RO|Buzău County|69
 Bislig|11.072|125.034|PH|Eastern Visayas|69
+Bishop Municipal Airport|27.612|-97.753|US|Texas|69|f
+Bismarck Memorial Airport|37.760|-90.618|US|Missouri|69|f
 Bissen|49.787|6.065|LU|Mersch|68
 Bissassé|7.514|-3.049|CI|Zanzan District|68
 Bisztynek|54.086|20.902|PL|Warmia-Masuria|68
 Bistreț|43.900|23.500|RO|Dolj|68
+Bishe Kola Air Base|36.655|52.350|IR|Māzandarān|67|f
+Bismarck Sea|-4.000|148.000|||67|f
 Bishopsteignton|50.552|-3.539|GB|England|67
 Bischofferode|51.497|10.444|DE|Thuringia|66
 Bischofsgrün|50.051|11.800|DE|Bavaria|66
@@ -101,10 +114,13 @@ Biskupiec|53.501|19.351|PL|Warmia-Masuria|66
 Biszcza|50.401|22.651|PL|Lublin|66
 Bishop's Castle|52.492|-3.002|GB|England|66
 Bischbrunn|49.870|9.489|DE|Bavaria|65
+Bison Mountain|39.238|-105.498|US|Colorado|65|f
+Bissagos Islands|11.250|-16.083|GW|Bolama|65|f
 Bisaccia Nuova|41.010|15.355|IT|Campania|65
 Bistrița|46.949|26.296|RO|Neamț County|65
 Biscoe|35.360|-79.780|US|North Carolina|65
 Bismarck|37.769|-90.625|US|Missouri|64
+Bistra|42.139|20.973|MK||63|f
 Biscoitos|38.783|-27.250|PT|Azores|63
 Bisira|8.901|-81.864|PA|Ngöbe-Buglé Comarca|63
 Bistrița|44.585|22.788|RO|Mehedinți County|63
@@ -114,28 +130,94 @@ Bistrinci|45.692|18.399|HR|County of Osijek-Baranja|62
 Bistagno|44.661|8.372|IT|Piedmont|62
 Bishop Sutton|51.334|-2.595|GB|England|62
 Bishop Middleham|54.678|-1.488|GB|England|61
+Bishop Airport|33.267|-97.452|US|Texas|61|f
+Bishop Airport|37.374|-118.368|US|California|61|f
+Bishop Peak|35.302|-120.697|US|California|61|f
+Bishop's Landing Airport|33.378|-96.730|US|Texas|61|f
+Biskopsön|59.100|18.717|SE|Stockholm|61|f
+Biskra Airport|34.793|5.738|DZ|Biskra|61|f
+Bismarck Municipal Airport|46.776|-100.758|US|North Dakota|61|f
 Biskupice Radłowskie|50.121|20.859|PL|Lesser Poland|61
 Bistra|47.255|22.423|RO|Bihor County|61
 Bistra Mureșului|46.961|24.906|RO|Mureș County|61
+Bistrețu Nou|43.901|23.472|RO|Dolj|60
+Bisley|51.752|-2.141|GB|England|59
+Bischwihr|48.097|7.437|FR|Grand Est|59
 Bisaccia|41.009|15.377|IT|Campania|59
+Biskupice|49.964|20.121|PL|Lesser Poland|59
+Biškupec Zelinski|45.961|16.233|HR|Zagreb County|59
+Bishop and Clerk Islets|-55.110|158.680|AU|Tasmania|58|f
+Bismarck Range|-5.564|144.793|PG||58|f
+Bissell Hills|34.923|-117.979|US|California|58|f
+Bistricioara|47.054|25.928|RO|Neamț County|58
+Bishop Monkton|54.093|-1.496|GB|England|58
+Bischofrode|51.487|11.532|DE|Saxony-Anhalt|58
+Bistrița Nouă|44.399|24.229|RO|Olt|57
+Bischheim|49.670|8.033|DE|Rheinland-Pfalz|57
+Biskupice|49.083|17.710|CZ|Zlín|57
+Bistrovicë|40.719|19.829|AL|Berat County|57
+Bistrețu|44.448|22.617|RO|Mehedinți County|57
+Bischofroda|51.056|10.364|DE|Thuringia|57
+Biscayne|17.717|-88.457|BZ|Belize District|57
+Bishop Burton|53.846|-0.498|GB|England|57
+Bishampton|52.162|-2.017|GB|England|57
+Bisseuil|49.046|4.088|FR|Grand Est|56
 Bischofstetten|48.122|15.469|AT|Lower Austria|56
+Bischoffingen|48.104|7.627|DE|Baden-Wurttemberg|56
+Bisericani|46.368|25.243|RO|Harghita County|56
+Bisel|47.535|7.218|FR|Grand Est|55
 Bisenti|42.529|13.800|IT|Abruzzo|55
+Bismoen|61.883|8.267|NO|Innlandet|55
+Bismarck|40.264|-87.608|US|Illinois|55
+Bishop Wilton|53.986|-0.785|GB|England|55
+Bishopville|38.443|-75.194|US|Maryland|55
+Bisahajār Tāl|27.615|84.438|NP|Bagmati Province|54|f
+Bisaurín|42.788|-0.640|ES|Aragon|54|f
+Biscayne National Park|25.490|-80.210|US|Florida|54|f
+Biscoe Point|-64.813|-63.793|AQ||54|f
+Bisha|19.984|42.621|SA|'Asir Region|54|f
+Bishops and Clerks|51.881|-5.376|GB|Wales|54|f
+Bissell Bridge|41.813|-72.644|US|Connecticut|54|f
+Bissersheim|49.536|8.204|DE|Rheinland-Pfalz|53
 Bishopstone|51.551|-1.647|GB|England|53
 Bison|45.520|-102.461|US|South Dakota|51
+Bisterschied|49.650|7.750|DE|Rheinland-Pfalz|49
+Bisbee Municipal Airport|31.371|-109.885|US|Arizona|49|f
+Bischof|47.541|11.176|DE|Bavaria|49|f
+Bishan Park|1.365|103.836|SG||49|f
+Bishop Glacier|-69.696|-71.472|AQ||49|f
+Bishop Peak|-78.167|162.150|AQ||49|f
+Bishop Rock|49.873|-6.446|GB|England|49|f
+Bislett Stadion|59.925|10.733|NO|Oslo|49|f
+Bismarck Peak|46.766|-121.274|US|Washington|49|f
 Biskupija|44.011|16.237|HR|Šibenik-Knin|48
 Bisaurri|42.497|0.506|ES|Aragon|48
 Bistrica ob Sotli|46.058|15.663|SI|Municipality of Bistrica ob Sotli|47
 Biscarrués|42.229|-0.750|ES|Aragon|47
+Bischofrod|50.550|10.650|DE|Thuringia|45
+Bissee|54.189|10.113|DE|Schleswig-Holstein|45
 Bisegna|41.921|13.758|IT|Abruzzo|45
 Bisvalles|8.185|-81.221|PA|Veraguas Province|43
 Bisimbre|41.856|-1.443|ES|Aragon|41
+Biscay Bay|46.717|-53.281|CA|Newfoundland and Labrador|40|f
+Biscayne Point|25.864|-80.142|US|Florida|40|f
+Bishop Auckland Castle|54.667|-1.673|GB|England|40|f
+Bishop Island|63.634|-68.748|CA|Nunavut|40|f
+Bishop River Park|50.916|-124.036|CA|British Columbia|40|f
+Bishops Cap|48.725|-113.709|US|Montana|40|f
+Bissett Lake|44.656|-63.470|CA|Nova Scotia|40|f
+Bistcho Lake|59.742|-118.845|CA|Alberta|40|f
 Biscoop|-1.591|133.299|ID|West Papua|0
 Biscucuy|9.360|-69.983|VE|Portuguesa|0
+Bishagou|29.343|109.591|CN|Hunan|0
 Bisham|51.561|-0.778|GB|England|0
+Bishan|29.954|117.909|CN|Anhui|0
 Bishopstone|51.030|-1.903|GB|England|0
 Bishopstrow|51.193|-2.155|GB|England|0
 Bishopton|54.583|-1.433|GB|England|0
 Bishramganj|23.606|91.344|IN|Tripura|0
 Bishton|51.582|-2.878|GB|Wales|0
+Bishui|52.125|123.668|CN|Heilongjiang|0
 Bismo|61.884|8.267|NO|Innlandet|0
+Bisten|49.254|6.707|DE|Saarland|0
 Bistriţa Bârgăului|47.217|24.767|RO|Bistrița-Năsăud County|0

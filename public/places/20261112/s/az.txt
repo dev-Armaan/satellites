@@ -3,8 +3,8 @@ Azad Kashmir|33.947|73.910|PK||123|r
 Azuay|-3.083|-79.333|EC||116|r
 Azcapotzalco|19.487|-99.186|MX|Mexico City|112
 Az-Zuhūr|31.265|32.264|EG|Port Said|109
-Az Zāwīyah|32.757|12.728|LY|Az Zawiyah|106
 Azores|37.808|-25.475|PT||106|r
+Az Zāwīyah|32.757|12.728|LY|Az Zawiyah|106
 Az Zulfī|26.299|44.815|SA|Riyadh Region|102
 Az Zubayr|30.392|47.702|IQ|Basra|102
 Azua Province|18.583|-70.800|DO||101|r
@@ -12,6 +12,7 @@ Azamgarh|26.068|83.184|IN|Uttar Pradesh|101
 Azare|11.675|10.191|NG|Bauchi|100
 Azimpur|23.730|90.385|BD|Dhaka Division|100
 Azumino|36.288|137.887|JP|Nagano|99
+Azores|37.741|-25.673|PT|Azores|99|f
 Azov|47.107|39.415|RU|Rostov|98
 Azul|-36.778|-59.858|AR|Buenos Aires|96
 Azrou|33.434|-5.221|MA|Fes-Meknes|95
@@ -19,6 +20,7 @@ Azua|18.453|-70.735|DO|Azua Province|95
 Az̧ Z̧a‘āyin|25.577|51.483|QA|Al Daayen|95
 Az̧ Z̧ulayl|32.121|36.280|JO|Zarqa|94
 Azusa|34.134|-117.908|US|California|94
+Azadi Stadium|35.724|51.276|IR|Tehran|94|f
 Āzādshahr|37.086|55.172|IR|Golestan|94
 Aznā|33.456|49.456|IR|Lorestan Province|94
 Aznā|33.609|48.931|IR|Lorestan Province|94
@@ -42,6 +44,7 @@ Azambuja|39.070|-8.868|PT|Lisbon|87
 Az Zuwaytīnah|30.952|20.120|LY|Al Wahat|86
 Azacualpa|14.712|-88.090|HN|Santa Bárbara Department|86
 Az Zaynīyah Qiblī|25.751|32.678|EG|Luxor|86
+Azadi Square|35.700|51.338|IR|Tehran|86|f
 Azeitão|38.519|-9.014|PT|Setúbal|86
 Azaguié|5.630|-4.082|CI|Lagunes District|85
 Azamino|35.570|139.545|JP|Kanagawa|85
@@ -75,6 +78,7 @@ Az Zawr|29.442|48.275|KW|Al Asimah|75
 Azatan|40.720|43.827|AM|Shirak|75
 Aznāv|34.300|48.858|IR|Hamadan Province|75
 Azovo|54.705|73.024|RU|Omsk Oblast|75
+Azhdahak|40.224|44.950|AM|Kotayk|74|f
 Azinhaga|39.050|-9.350|PT|Lisbon|74
 Azuga|45.450|25.550|RO|Prahova|74
 Āzādī|32.404|48.252|IR|Khuzestan|74
@@ -85,6 +89,7 @@ Azzate|45.778|8.794|IT|Lombardy|73
 Azueira|39.007|-9.289|PT|Lisbon|73
 Azara|-28.061|-55.677|AR|Misiones|73
 Azoyú|16.733|-98.602|MX|Guerrero|72
+Aziak Island|51.951|-176.156|US|Alaska|72|f
 Azovskaya|44.791|38.626|RU|Krasnodar Krai|72
 Azumbilla|18.646|-97.398|MX|Puebla|72
 Azagra|42.300|-1.900|ES|Navarre|71
@@ -96,6 +101,7 @@ Azé|47.822|-0.683|FR|Pays de la Loire|70
 Azdavay|41.643|33.300|TR|Kastamonu|70
 Azay-le-Rideau|47.264|0.471|FR|Centre-Val de Loire|70
 Azanka|58.040|64.789|RU|Sverdlovsk Oblast|70
+Azul Airport|-36.838|-59.881|AR|Buenos Aires|70|f
 Azatavan|39.986|44.506|AM|Ararat|70
 Azatamut|40.988|45.207|AM|Tavush|69
 Azay-sur-Cher|47.350|0.846|FR|Centre-Val de Loire|69
@@ -105,7 +111,12 @@ Azovs'ke|46.804|36.679|UA|Zaporizhzhia|68
 Azaguié Blida|5.526|-4.091|CI|Abidjan Autonomous District|67
 Azoia|38.776|-9.477|PT|Lisbon|67
 Azovske|46.264|34.864|UA|Kherson|67
+Azuero Peninsula|7.667|-80.583|PA||67|f
+Azumaya San|36.543|138.415|JP|Gunma|67|f
 Āzmanābād|27.252|60.939|IR|Sistan and Baluchestan|66
+Azopardo Airport|-54.482|-68.939|CL|Region of Magallanes|65|f
+Aztec Municipal Airport|36.837|-108.029|US|New Mexico|65|f
+Azuki Island|-69.883|38.933|AQ||65|f
 Azteca|16.218|-93.946|MX|Chiapas|65
 Azanovo|56.718|48.224|RU|Mariy-El Republic|65
 Azun Atme|32.122|35.020|PS|West Bank|65
@@ -123,17 +134,62 @@ Azeglio|45.423|7.992|IT|Piedmont|60
 Azé|47.851|0.998|FR|Centre-Val de Loire|60
 Azzano|45.981|9.203|IT|Lombardy|60
 Azay-le-Ferron|46.851|1.071|FR|Centre-Val de Loire|60
+Azyory|53.722|24.184|BY|Grodnenskaya|60
+Azé|46.431|4.761|FR|Bourgogne-Franche-Comté|60
+Aztatepec|17.375|-99.281|MX|Guerrero|60
+Azay-sur-Thouet|46.625|-0.351|FR|New Aquitaine|60
+Azacualpa|14.267|-88.383|HN|Intibucá Department|60
+Azereix|43.209|-0.008|FR|Occitanie|60
+Azov|47.453|37.116|UA|Zaporizhzhia|59
+Azerables|46.354|1.474|FR|New Aquitaine|59
+Azoia|39.714|-8.831|PT|Leiria|59
+Azerailles|48.489|6.695|FR|Grand Est|58
+Azatashen|40.136|44.417|AM|Ararat|58
+Azao|25.202|8.128|DZ|Djanet|58|f
+Azaza Airport|14.131|35.307|SD|Al Qaḑārif|58|f
+Aztec Mountain|-77.800|160.517|AQ||58|f
+Azurite Peak|48.657|-120.752|US|Washington|58|f
+Azenhas do Mar|38.841|-9.458|PT|Lisbon|58
+Āzādegān|32.682|50.481|IR|Chaharmahal and Bakhtiari|58
 Azzio|45.885|8.709|IT|Lombardy|58
+Az Zāwiyah|32.376|35.232|PS|West Bank|58
+Ázoros|40.001|22.079|GR|Thessaly|57
+Azucena 3ra. Sección (El Triunfo)|18.282|-93.686|MX|Tabasco|57
+‘Azīnābād|36.700|52.808|IR|Māzandarān|57
+Aztlán 5ta. Sección (Palomillal)|18.124|-92.644|MX|Tabasco|57
 Azzanello|45.313|9.920|IT|Lombardy|57
 Azuara|41.258|-0.871|ES|Aragon|57
+Azogueros|22.598|-101.772|MX|San Luis Potosí|56
+Aznāvleh|33.106|50.116|IR|Isfahan|55
+Azucenita 1ra. Sección B|18.257|-93.632|MX|Tabasco|55
+Aziziye|37.424|30.256|TR|Burdur|55
+Azizabat|37.877|28.567|TR|Aydın|54
+Azatek|39.650|45.439|AM|Vayots Dzor|54
+Azamgarh Airport|26.162|83.112|IN|Uttar Pradesh|54|f
+Aztec West|51.543|-2.568|GB|England|54|f
+Azure Mountain|44.543|-74.505|US|New York|54|f
+‘Azīzābād|37.541|55.695|IR|Golestan|54
 Azuébar|39.833|-0.367|ES|Valencia|51
 Azután|39.786|-5.127|ES|Castille-La Mancha|50
 Azzano d'Asti|44.873|8.267|IT|Piedmont|50
+Azimuth Islands|-67.519|62.735|AQ||49|f
+Azimuthbjerg|63.433|-41.667|GL|Sermersooq|49|f
+Aztec Butte|38.397|-109.875|US|Utah|49|f
 Azofra|42.424|-2.801|ES|La Rioja|49
 Azzone|45.979|10.113|IT|Lombardy|48
 Azángaro|-12.998|-75.837|PE|Lima region|46
 Azara|42.070|-0.029|ES|Aragon|46
 Azlor|42.094|-0.046|ES|Aragon|44
+AZ tower|49.176|16.606|CZ|South Moravian|40|f
+Azalea and Rhododendron Park Kromlau|51.536|14.639|DE|Saxony|40|f
+Azalea Park|32.731|-117.105|US|California|40|f
+Azeri TV Tower|40.352|49.823|AZ||40|f
+Aztalan State Park|43.066|-88.863|US|Wisconsin|40|f
+Aztec Bowl|32.774|-117.075|US|California|40|f
+Aztec Ruins National Monument|36.837|-108.000|US|New Mexico|40|f
+Ąžuolynas|54.899|23.945|LT|Kaunas|40|f
+Azure Lake|52.371|-120.108|CA|British Columbia|40|f
+Azure Lake|43.965|-115.132|US|Idaho|40|f
 Azuelo|42.608|-2.350|ES|Navarre|33
 Az Zāhir|13.967|45.483|YE|Al Bayda|0
 Az Zāhir|16.317|44.495|YE|Al Jawf|0
@@ -144,3 +200,4 @@ Az Ziyārah|35.685|36.339|SY|Hama|0
 Az Zuhrah|15.724|42.996|YE|Al Hudaydah|0
 Azare|10.526|12.291|NG|Borno State|0
 Azgour|31.138|-8.315|MA|Marrakesh-Safi|0
+Azurduy|-20.106|-64.414|BO|Chuquisaca Department|0

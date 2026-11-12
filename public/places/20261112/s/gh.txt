@@ -45,8 +45,10 @@ Ghim Moh|1.311|103.788|SG||82
 Ghanpur|17.850|79.367|IN|Telangana|82
 Ghogha|21.688|72.276|IN|Gujarat|82
 Ghadames|30.134|9.501|LY|Nalut|82
+Ghat Airport|25.146|10.143|LY|Ghat|81|f
 Ghāzīpur|25.098|86.660|IN|Bihar|81
 Ghogaon|21.916|75.747|IN|Madhya Pradesh|81
+Ghadames Airport|30.152|9.715|LY|Nalut|81|f
 Ghagga|30.020|76.104|IN|Punjab|80
 Ghoradongri|22.124|78.000|IN|Madhya Pradesh|80
 Ghomrassen|33.059|10.337|TN|Tataouine|80
@@ -54,6 +56,7 @@ Gharghoda|22.174|83.352|IN|Chhattisgarh|80
 Ghāghrā|23.267|84.553|IN|Jharkhand|79
 Ghlin|50.473|3.903|BE|Wallonia|79
 Gharavŭtí|37.567|68.447|TJ|Khatlon Province|79
+Ghriss Airport|35.208|0.147|DZ|Mascara|78|f
 Ghumārwīn|31.442|76.715|IN|Himachal Pradesh|78
 Ghorāwal|24.755|82.780|IN|Uttar Pradesh|77
 Ghansor|22.660|79.950|IN|Madhya Pradesh|77
@@ -75,6 +78,7 @@ Għaxaq|35.849|14.517|MT|Ħal Għaxaq|74
 Ghiroda|45.764|21.300|RO|Timiș County|74
 Ghelinţa|45.950|26.233|RO|Covasna County|73
 Ghilarza|40.121|8.836|IT|Sardinia|73
+Għallis Tower|35.953|14.434|MT|In-Naxxar|72|f
 Gho Brāhmanān de|32.556|74.954|IN|Jammu and Kashmir|72
 Ghioroc|46.150|21.583|RO|Arad County|72
 Gherghiţa|44.800|26.267|RO|Prahova|72
@@ -89,6 +93,7 @@ Ghirdoveni|44.941|25.674|RO|Dâmbovița County|70
 Ghraiba|34.496|10.211|TN|Sfax Governorate|70
 Gherăseni|45.026|26.791|RO|Buzău County|70
 Gherţa Mică|47.933|23.233|RO|Satu Mare County|70
+Ghanzi Airport|-21.696|21.654|BW|Ghanzi|70|f
 Ghyvelde|51.053|2.526|FR|Hauts-de-France|70
 Għajnsielem|36.026|14.286|MT|Ghajnsielem|69
 Gheaba|45.309|26.006|RO|Prahova|69
@@ -118,6 +123,7 @@ Ghiaie|45.682|9.581|IT|Lombardy|64
 Gheboieni|44.987|25.307|RO|Dâmbovița County|64
 Gherța Mare|47.969|23.209|RO|Satu Mare County|64
 Ghana Town|13.384|-16.766|GM|Western|64
+Ghai Island|-7.917|156.528|SB||63|f
 Gheja|46.447|24.065|RO|Mureș County|63
 Ghiare-Madonna|44.808|8.374|IT|Piedmont|63
 Għarb|36.060|14.209|MT|L-Għarb|62
@@ -128,6 +134,7 @@ Ghimeș|46.568|26.089|RO|Bacău County|62
 Gheorghieni|46.714|23.689|RO|Cluj County|62
 Ghimpețeni|44.281|24.775|RO|Olt|62
 Gherteniș|45.433|21.581|RO|Caraș-Severin County|61
+Ghizo Island|-8.073|156.803|SB|Western Province|61|f
 Ghizdăvești|44.058|24.108|RO|Dolj|61
 Ghinești|44.748|25.553|RO|Dâmbovița County|61
 Gholson|31.701|-97.216|US|Texas|61
@@ -135,7 +142,53 @@ Gheorghe Doja|46.378|26.962|RO|Bacău County|60
 Ghoy|50.728|3.810|BE|Wallonia|60
 Ghighișeni|46.551|22.431|RO|Bihor County|60
 Ghimpați|44.154|24.427|RO|Olt|60
+Ghimpați|44.655|25.794|RO|Dâmbovița County|60
+Ghirano|45.845|12.565|IT|Friuli Venezia Giulia|59
+Gharibjanyan|40.740|43.804|AM|Shirak|59
+Ghercești|44.356|23.897|RO|Dolj|59
+Ghergani|44.636|25.723|RO|Dâmbovița County|58
+Ghislenghien|50.657|3.878|BE|Wallonia|58
+Ghinnir Airport|7.132|40.709|ET|Oromiya|58|f
+Ghoḍāghoḍi̇̄ Tāl|28.690|80.949|NP|Sudurpashchim Pradesh|58|f
+Gholson Bridge|36.717|-77.831|US|Virginia|58|f
+Ghenetea|47.389|22.398|RO|Bihor County|58
 Ghislarengo|45.529|8.385|IT|Piedmont|58
+Ghirișa|47.596|22.793|RO|Satu Mare County|58
+Ghirla|45.925|8.822|IT|Lombardy|58
+Ghighiu|44.898|26.082|RO|Prahova|58
+Ghazanchi|41.073|43.840|AM|Shirak|58
+Ghireni|48.152|26.887|RO|Botoșani County|57
+Gharghan|32.905|50.367|IR|Isfahan|57
+Ghizdaru|43.931|25.882|RO|Giurgiu County|57
+Ghirbom|46.035|23.723|RO|Alba County|57
+Gheyb-e Elahī|27.599|53.035|IR|Fars|57
+Ghigoiești|46.983|26.577|RO|Neamț County|56
+Għasri|36.058|14.226|MT|L-Għasri|56
+Ghinda|47.136|24.574|RO|Bistrița-Năsăud County|56
+Ghouba|16.628|-15.955|MR|Trarza|55
+Ghazaravan|40.341|44.320|AM|Aragatsotn|55
+Ghermănești|46.324|27.839|RO|Vaslui County|55
+Ghimpețenii Noi|44.299|24.791|RO|Olt|55
+Gherghești|44.681|25.309|RO|Dâmbovița County|55
+Ghent|42.329|-73.616|US|New York|55
+Ghiardo|44.666|10.505|IT|Emilia-Romagna|55
+Ghetto di Trebbiantico|43.876|12.949|IT|The Marches|55
+Ghelmānsarāy|38.303|45.118|IR|East Azerbaijan|54
+Għar Dalam|35.837|14.528|MT|Birżebbuġa|54|f
+Ghorāmāra Island|21.913|88.130|IN|West Bengal|54|f
+Ghirolt|47.039|23.785|RO|Cluj County|54
+Ghionea|44.483|25.803|RO|Giurgiu County|54
+Gherăeștii Noi|47.017|26.817|RO|Neamț County|54
+Ghevio|45.782|8.503|IT|Piedmont|54
+Ghent Ridge|-77.567|163.117|AQ||49|f
+Ghiacciaio del Miage|45.800|6.850|IT|Aosta Valley|49|f
+Ghisonaccia Alzitone Airport|42.054|9.400|FR|Corsica|49|f
+Ghana-India Kofi Annan Centre of Excellence in ICT|5.560|-0.192|GH|Greater Accra|40|f
+Ghazi Stadium|34.519|69.194|AF|Kabul|40|f
+Ghegheto Island|44.817|-81.350|CA|Ontario|40|f
+Ghiacciaio del Basòdino|46.416|8.481|CH|Ticino|40|f
+Ghirlandina|44.646|10.926|IT|Emilia-Romagna|40|f
+Ghost Lake|51.200|-114.752|CA|Alberta|40|f
 Ghabāghib|33.182|36.225|SY|Daraa|0
 Ghafurov|40.216|69.729|TJ|Sughd|0
 Ghawr al Mazra‘ah|31.266|35.517|JO|Karak|0

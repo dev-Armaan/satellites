@@ -14,6 +14,7 @@ Sasovo|54.354|41.920|RU|Ryazan Oblast|90
 Sastamala|61.349|22.909|FI|Pirkanmaa|88
 Sasel|53.654|10.112|DE|Hamburg|87
 Sasmuan|14.944|120.623|PH|Central Luzon|86
+Saskatoon John G. Diefenbaker International Airport|52.171|-106.700|CA|Saskatchewan|86|f
 Sashiōgi|35.914|139.580|JP|Saitama|85
 Sasazuka|35.676|139.667|JP|Tokyo|85
 Sashiki|32.302|130.504|JP|Kumamoto|84
@@ -33,18 +34,24 @@ Sasso Marconi|44.401|11.252|IT|Emilia-Romagna|76
 Săsciori|45.867|23.583|RO|Alba County|75
 Sasbach|48.640|8.094|DE|Baden-Wurttemberg|75
 Sastre|-31.767|-61.829|AR|Santa Fe|75
+Saskylakh Airport|71.929|114.082|RU|Sakha|74|f
+Sasseneire|46.139|7.525|CH|Valais|74|f
 Sasykoli|47.552|46.997|RU|Astrakhan Oblast|74
 Šaštín-Stráže|48.637|17.145|SK|Trnava Region|74
+Sassafras Mountain|35.065|-82.777|US|South Carolina|73|f
 Saselamani|-22.856|30.834|ZA|Limpopo|73
 Sāsti|19.818|79.330|IN|Maharashtra|73
 Sas van Gent|51.227|3.799|NL|Zeeland|72
 Sassoferrato|43.431|12.857|IT|The Marches|72
 Sásd|46.255|18.108|HU|Baranya|71
 Sasbach|48.138|7.616|DE|Baden-Wurttemberg|71
+Sasereme Airport|-7.623|142.869|PG|Western Province|70|f
+Sa-ssu-K’a-erh Shan|33.250|77.667|IN||69|f
 Sasunik|40.250|44.344|AM|Aragatsotn|68
 Sasbachwalden|48.617|8.133|DE|Baden-Wurttemberg|68
 Sasnovy Bor|52.519|29.599|BY|Homyel’ Voblasc’|68
 Sasovo|48.092|23.075|UA|Zakarpattia|67
+Sasanagare Dam|41.835|140.773|JP|Hokkaido|67|f
 Sascut-Sat|46.187|27.069|RO|Bacău County|67
 Sassano|40.340|15.566|IT|Campania|66
 Saschiz|46.183|24.967|RO|Mureș County|66
@@ -55,6 +62,9 @@ Sassako-Bégniny|5.216|-4.277|CI|Lagunes District|65
 Sasi|37.902|12.888|IT|Sicily|65
 Săsar|47.644|23.499|RO|Maramureş|64
 Sassa|42.352|13.299|IT|Abruzzo|64
+Sasadaira-damu|36.607|138.082|JP|Nagano|63|f
+Sasamagawa-damu|34.971|138.094|JP|Shizuoka|63|f
+Sasanamigawa Dam|34.324|131.507|JP|Yamaguchi|63|f
 Sassenay|46.831|4.925|FR|Bourgogne-Franche-Comté|63
 Sasivka|48.567|23.069|UA|Zakarpattia|63
 Sąspów|50.229|19.770|PL|Lesser Poland|63
@@ -65,11 +75,56 @@ Sassello|44.480|8.494|IT|Liguria|61
 Sassacci|42.323|12.441|IT|Lazio|61
 Sasaltitla|20.935|-98.197|MX|Veracruz|60
 Sasaoukro|7.170|-4.625|CI|Lacs District|60
+Sassetot-le-Mauconduit|49.805|0.527|FR|Normandy|60
 Sassocorvaro|43.783|12.499|IT|The Marches|60
+Sasso Morelli|44.416|11.738|IT|Emilia-Romagna|59
+Sasca Mică|47.439|26.179|RO|Suceava|59
+Sasinkovo|48.371|17.849|SK|Trnava Region|58
 Sasca Montană|44.885|21.709|RO|Caraș-Severin County|58
+Šašinovec|45.850|16.167|HR|Zagreb|58
+Sassay|47.394|1.441|FR|Centre-Val de Loire|58
+Sassofortino|43.026|11.111|IT|Tuscany|57
+Sasamulco|18.159|-99.576|MX|Guerrero|57
+Săsarm|47.212|24.219|RO|Bistrița-Năsăud County|57
+Sasynivka|50.312|32.416|UA|Poltava|57
 Sasso di Castalda|40.485|15.676|IT|Basilicate|57
+Sășcioara|44.801|23.871|RO|Vâlcea County|57
+Sasca Mare|47.433|26.142|RO|Suceava|56
+Sasina|-13.470|-172.449|WS|Gaga'ifomauga|55
+Sasca Română|44.892|21.725|RO|Caraș-Severin County|55
+Sassen|54.024|13.187|DE|Mecklenburg-Vorpommern|55
+Sasi|61.021|21.212|FI|Southwest Finland|54|f
+Sass De Putia|46.659|11.820|IT|Trentino-Alto Adige|54|f
+Sassandra Airport|4.931|-6.132|CI|Bas-Sassandra District|54|f
+Sąsieczno|52.939|18.859|PL|Kujawsko-Pomorskie|54
 Sassinoro|41.375|14.665|IT|Campania|52
 Sassetta|43.129|10.644|IT|Tuscany|51
+Saser Kangri|34.867|77.753|IN|Ladakh|49|f
+Saska Peak|48.112|-120.643|US|Washington|49|f
+Sass de Mura|46.164|11.925|IT|Veneto|49|f
+Sassi di Matera|40.666|16.611|IT|Basilicate|49|f
+Sasso Lungo|46.525|11.735|IT|Trentino-Alto Adige|49|f
+Sasthamcotta Lake|9.036|76.635|IN|Kerala|49|f
 Sassofeltrio|43.892|12.510|IT|Emilia-Romagna|43
+Sasagiu Rapids Provincial Park|55.149|-98.453|CA|Manitoba|40|f
+Sasamat Lake|49.321|-122.889|CA|British Columbia|40|f
+Saskatchewan Glacier|52.138|-117.204|CA|Alberta|40|f
+Saskatchewan Lake|45.132|-78.777|CA|Ontario|40|f
+Saskatchewan Landing Provincial Park|50.650|-108.001|CA|Saskatchewan|40|f
+Saskatoon Island Provincial Park|55.200|-119.086|CA|Alberta|40|f
+Saskatoon Lake|55.220|-119.093|CA|Alberta|40|f
+Sasquatch Park|49.350|-121.703|CA|British Columbia|40|f
+Sass Rigais|46.609|11.766|IT|Trentino-Alto Adige|40|f
+Sassal Mason|46.390|10.014|CH|Grisons|40|f
+Sassalb|46.334|10.099|CH|Grisons|40|f
+Sassauna|47.012|9.698|CH|Grisons|40|f
+Sasse Lake|44.259|-93.693|US|Minnesota|40|f
+Sassenpoort|52.510|6.095|NL|Overijssel|40|f
+Sasso del Ferro|45.912|8.643|IT|Lombardy|40|f
+Sasso di Bosconero|46.345|12.267|IT|Veneto|40|f
+Sassen|50.267|6.967|DE|Rheinland-Pfalz|40
 Sa‘sa‘|33.282|36.019|SY|Rif-dimashq|0
+Sasa|-8.439|120.181|ID|East Nusa Tenggara|0
+Sasar|-7.083|113.734|ID|East Java|0
+Saseel|-7.091|115.766|ID|East Java|0
 Sasi|-9.499|124.493|ID|East Nusa Tenggara|0

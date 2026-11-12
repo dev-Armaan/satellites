@@ -28,6 +28,7 @@ Shorewood|41.520|-88.202|US|Illinois|84
 Shopian|33.717|74.834|IN|Jammu and Kashmir|84
 Shokat as-Sufi|31.259|34.282|PS|Gaza Strip|84
 Shorewood|43.089|-87.888|US|Wisconsin|82
+Shonai Airport|38.812|139.787|JP|Yamagata|82|f
 Short Hills|40.748|-74.325|US|New Jersey|82
 Show Low|34.254|-110.030|US|Arizona|81
 Sholakkorgan|43.765|69.179|KZ|Turkistan|81
@@ -35,24 +36,33 @@ Sholokhovskiy|48.281|41.046|RU|Rostov|80
 Shōlūr|11.485|76.656|IN|Tamil Nadu|80
 Shortlands|51.399|0.004|GB|England|79
 Shoshong|-23.039|26.510|BW|Central|79
+Shoshone Mountains|38.899|-117.543|US|Nevada|78|f
 Shotts|55.820|-3.797|GB|Scotland|78
 Shorewood|44.901|-93.589|US|Minnesota|78
+Shōdo Island|34.508|134.266|JP|Kagawa|77|f
 Shortandy|51.699|70.991|KZ|Aqmola|77
 Shouqiao|29.900|105.894|CN|Chongqing|76
 Shotor Khār|35.461|51.114|IR|Tehran|75
 Shohimardon|39.983|71.805|UZ|Fergana|74
+Shōwa’iō Jima|30.804|130.340|JP|Kagoshima|73|f
 Shōyama|35.167|133.317|JP|Tottori|72
 Shovgenovskiy|45.019|40.226|RU|Adygeya Republic|72
+Shōfū-en|33.574|130.396|JP|Fukuoka|71|f
 Shotorak|36.319|59.725|IR|Razavi Khorasan|70
+Showgrounds Oval|-40.357|175.601|NZ|Manawatu-Wanganui|70|f
 Shorūdān|32.539|51.489|IR|Isfahan|70
 Sholokhove|47.692|33.990|UA|Dnipropetrovsk|70
 Shoalhaven Heads|-34.851|150.745|AU|New South Wales|70
 Shorewood Forest|41.463|-87.145|US|Indiana|69
+Shooters Island|40.643|-74.160|US|New York|69|f
 Shojā‘|38.900|45.644|IR|East Azerbaijan|68
 Sho‘rsuv|40.284|70.800|UZ|Fergana|68
 Shooli Bazar|25.568|62.144|PK|Balochistan|67
 Shorabad|40.820|49.468|AZ|Xızı|66
 Shorewood Hills|43.078|-89.446|US|Wisconsin|66
+Shōfuku-ji|33.597|130.414|JP|Fukuoka|65|f
+Shōrenji-damu|34.604|136.120|JP|Mie|65|f
+Shoshone Lake|44.371|-110.719|US|Wyoming|65|f
 Shouson Hill|22.248|114.180|HK|Southern District|65
 Shoctic|17.224|-92.488|MX|Chiapas|65
 Shoreacres|29.620|-95.010|US|Texas|64
@@ -60,6 +70,8 @@ Shotley Gate|51.958|1.269|GB|England|64
 shokhaibٍ|24.490|46.269|SA|Riyadh Region|64
 Shoshone|42.936|-114.406|US|Idaho|63
 Shoushan|26.964|119.162|CN|Fujian|63
+Shoshone Range|40.350|-116.885|US|Nevada|63|f
+Shota Rustaveli Peak|43.025|43.044|GE||63|f
 Shortsville|42.956|-77.221|US|New York|63
 Shoal Creek|33.431|-86.611|US|Alabama|63
 Shoresh|31.797|35.065|IL|Jerusalem|63
@@ -69,10 +81,89 @@ Shorapani|42.096|43.082|GE|Imereti|62
 Shosanbetsu|44.534|141.770|JP|Hokkaido|62
 Shokan|41.973|-74.212|US|New York|61
 Shonguy|68.743|33.158|RU|Murmansk|61
+Shokotsu-dake|44.040|142.917|JP|Hokkaido|61|f
+Short Mountain|38.780|-78.541|US|Virginia|61|f
+Short Mountain|41.603|-72.823|US|Connecticut|61|f
+Shortland Island|-7.052|155.769|SB||61|f
+Shoshone Mountain|36.925|-116.219|US|Nevada|61|f
+Show Low Lake|34.190|-110.001|US|Arizona|61|f
 Shom|48.288|22.437|UA|Zakarpattia|61
+Shoreham|42.059|-86.516|US|Michigan|59
+Shongopovi|35.818|-110.535|US|Arizona|58
+Shotley|51.969|1.250|GB|England|58
+Shoval|31.413|34.744|IL|Southern District|58
+Shoestring Glacier|46.189|-122.168|US|Washington|58|f
+Sholes Glacier|48.813|-121.773|US|Washington|58|f
+Short Bridge|44.392|-122.510|US|Oregon|58|f
+Short Hill Mountain|39.248|-77.708|US|Virginia|58|f
+Shoudu Bowuguan|39.905|116.336|CN|Beijing|58|f
+Show Low Municipal Airport|34.265|-110.005|US|Arizona|58|f
+Shoreham|51.333|0.178|GB|England|58
 Shoals|38.666|-86.791|US|Indiana|58
+Shongar|40.322|49.599|AZ|Baki|57
+Shobdon|52.251|-2.883|GB|England|56
+Sho’eva|31.799|35.078|IL|Jerusalem|56
+Shostakove|47.217|31.720|UA|Mykolaiv|56
+Shoshoni|43.236|-108.110|US|Wyoming|56
+Shouldham|52.653|0.475|GB|England|56
+Shonto|36.591|-110.661|US|Arizona|55
+Shomrat|32.952|35.095|IL|Northern District|55
+Shoqeda|31.422|34.524|IL|Southern District|55
+Shoreham|40.957|-72.908|US|New York|55
+Shotor Khosb|35.267|59.289|IR|Razavi Khorasan|54
+Shoal Lake Airport|50.450|-100.600|CA|Manitoba|54|f
+Shootflying Hill|41.683|-70.343|US|Massachusetts|54|f
+Shopiere Dam|42.573|-88.938|US|Wisconsin|54|f
+Short Island|-63.942|-60.399|AQ||54|f
+Short Mountain|39.097|-78.743|US|West Virginia|54|f
+Short Mountain Wildlife Management Area|39.193|-78.670|US|West Virginia|54|f
+Shorashim|32.893|35.260|IL|Northern District|54
+Shoghakat|40.502|45.274|AM|Gegharkunik|54
+Shoshannat Ha‘Amaqim|32.354|34.857|IL|Central District|54
+Shoal Bay|-20.694|116.598|AU|Western Australia|49|f
+Shoal Bay|-12.288|130.941|AU|Northern Territory|49|f
+Shoal Bay|-32.715|152.168|AU|New South Wales|49|f
+Shoalwater Bay|-22.346|150.394|AU|Queensland|49|f
+Shoalwater Islands Marine Park|-32.323|115.698|AU|Western Australia|49|f
+Shockey Peak|-77.600|-86.783|AQ||49|f
+Shoe Island|45.807|-85.298|US|Michigan|49|f
+Shoemaker Hill|42.993|-74.917|US|New York|49|f
+Shoesmith Glacier|-67.843|-67.192|AQ||49|f
+Shooters Hill|-33.901|149.854|AU|New South Wales|49|f
+Shooting Creek Bald|34.980|-83.629|US|Georgia|49|f
+Shortcut Island|-64.783|-64.041|AQ||49|f
+Shortland Islands|-6.864|156.058|SB||49|f
+Shostakovich Peninsula|-72.183|-71.333|AQ||49|f
+Shotwick Castle|53.227|-2.976|GB|England|49|f
+Shoulder Mountain|-76.617|162.133|AQ||49|f
+Show Court 2|-37.821|144.977|AU|Victoria|49|f
+Show Court 3|-37.820|144.978|AU|Victoria|49|f
+Shoal Bay|46.983|-53.631|CA|Newfoundland and Labrador|40|f
+Shoal Bay|50.460|-125.365|CA|British Columbia|40|f
+Shoal Lake|54.267|-66.165|CA|Newfoundland and Labrador|40|f
+Shoal Lake|49.570|-95.015|CA|Ontario|40|f
+Shoe Island|48.744|-53.709|CA|Newfoundland and Labrador|40|f
+Shoe Island|67.584|-107.769|CA|Nunavut|40|f
+Shoe Lake|41.308|-85.749|US|Indiana|40|f
+Shoemaker Glacier|-73.783|164.750|AQ||40|f
+Shoemaker Peak|-79.850|-82.317|AQ||40|f
+Shollenberger Park|38.233|-122.629|US|California|40|f
+Shore Acres State Park|43.318|-124.381|US|Oregon|40|f
+Shoreham Aircraft Museum|51.334|0.178|GB|England|40|f
+Shoreham Hill Bridge|38.920|-77.054|US|District of Columbia|40|f
+Shoreline Park|34.397|-119.707|US|California|40|f
+Short Hills Provincial Park|43.100|-79.283|CA|Ontario|40|f
+Shot Tower State Historical Park|36.869|-80.863|US|Virginia|40|f
+Shotgun Ranch Airstrip|44.132|-120.326|US|Oregon|40|f
+Showgrounds|54.270|-8.487|IE|Connacht|40|f
 Shotton|54.783|-1.367|GB|England|0
 Shotwick|53.239|-2.991|GB|England|0
+Shouchang|29.360|119.218|CN|Zhejiang|0
 Shouchun|32.582|116.793|CN|Anhui|0
+Shoujiang|30.127|119.959|CN|Zhejiang|0
+Shoushan|26.244|119.236|CN|Fujian|0
 Shoushan|34.278|107.746|CN|Shaanxi|0
+Shoushan|45.446|128.439|CN|Heilongjiang|0
 Shouxihu|32.421|119.404|CN|Jiangsu|0
+Shouyan|25.571|111.502|CN|Hunan|0
+Shouzhan|25.938|119.480|CN|Fujian|0

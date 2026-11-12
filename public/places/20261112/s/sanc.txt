@@ -28,6 +28,7 @@ San Cataldo|37.484|13.985|IT|Sicily|87
 Sancoale|15.378|73.904|IN|Goa|87
 San Cristóbal Verapaz|15.367|-90.478|GT|Alta Verapaz|86
 San Cristobal|40.341|-3.688|ES|Madrid|85
+San Cristóbal Airport|-0.910|-89.617|EC|Galápagos|85|f
 San Carlos Park|26.467|-81.801|US|Florida|85
 San Clemente|-13.667|-76.150|PE|Ica|84
 San Carlos|7.792|-74.773|CO|Antioquia|83
@@ -37,6 +38,8 @@ San Carlos|18.477|-69.894|DO|Nacional|83
 San Carlos|11.127|-84.778|NI|Río San Juan Department|83
 San Cipriano d'Aversa|40.999|14.132|IT|Campania|83
 Sancang|33.014|105.115|CN|Gansu|82
+San Carlos de Bariloche Airport|-41.151|-71.158|AR|Rio Negro|82|f
+San Clemente Island|32.900|-118.501|US|California|81|f
 San Carlos de Guaroa|3.712|-73.243|CO|Meta Department|81
 Sánchez|19.228|-69.614|DO|Samaná|81
 San Clemente del Tuyú|-36.354|-56.726|AR|Buenos Aires|81
@@ -53,6 +56,7 @@ San Colombano al Lambro|45.183|9.490|IT|Lombardy|77
 San Carlos Sija|14.984|-91.549|GT|Quetzaltenango|77
 San Clemente|39.404|-2.428|ES|Castille-La Mancha|77
 San Cristóbal Nexquipayac|19.581|-98.930|MX|México|76
+San Cristóbal de las Casas National Airport|16.690|-92.530|MX|Chiapas|76|f
 San Casciano in Val di Pesa|43.660|11.185|IT|Tuscany|76
 Sâncraiu de Mureş|46.551|24.527|RO|Mureș County|76
 Sâncrăieni|46.314|25.839|RO|Harghita County|76
@@ -61,6 +65,7 @@ San Cipirello|37.961|13.177|IT|Sicily|74
 San Clemente|20.515|-100.086|MX|Querétaro|74
 San Cristóbal|9.878|-75.252|CO|Bolívar|74
 Sanctórum|19.493|-98.472|MX|Tlaxcala|73
+Sanctuary of the Sun God|29.900|31.200|EG|Giza|73|f
 San Carlos|13.842|121.242|PH|Calabarzon|73
 San Cristóbal|20.658|-101.476|MX|Guanajuato|73
 San Cosme|-27.371|-58.511|AR|Corrientes|73
@@ -71,6 +76,7 @@ San Carlo-Condofuri Marina|37.933|15.872|IT|Calabria|72
 San Carlos|33.346|-111.851|US|Arizona|72
 San Cristóbal Amatlán|16.318|-96.409|MX|Oaxaca|72
 San Carlos|33.346|-110.455|US|Arizona|72
+San Cristobal|-10.551|161.828|SB||71|f
 San Calogero|38.574|16.019|IT|Calabria|71
 Sancoins|46.833|2.922|FR|Centre-Val de Loire|71
 San Carlos|8.744|-75.713|CO|Córdoba|71
@@ -95,6 +101,7 @@ Sancha|34.587|103.761|CN|Gansu|68
 San Cosme Atlamaxac|19.238|-98.225|MX|Tlaxcala|67
 San Candido|46.732|12.279|IT|Trentino-Alto Adige|67
 San Carlos|27.957|-111.044|MX|Sonora|67
+San Cristóbal Island|-0.825|-89.424|EC|Galápagos|67|f
 San Cosme y Damián|-27.319|-56.332|PY|Itapúa|67
 San Celestio|13.926|121.235|PH|Calabarzon|67
 San Ciro-Ulmi-Filci|37.833|12.782|IT|Sicily|67
@@ -106,6 +113,8 @@ San Calixto|8.403|-73.208|CO|Norte de Santander Department|66
 San Cassiano|40.056|18.334|IT|Apulia|66
 San Cipriano-S.Barbara-Centinale|43.569|11.485|IT|Tuscany|66
 San Carlos|19.439|-97.690|MX|Puebla|65
+Sancho Point|25.009|122.002|TW|Taipei|65|f
+Sancti Spíritus Airport|21.968|-79.444|CU|Sancti Spíritus Province|65|f
 San Carlo|44.804|11.410|IT|Emilia-Romagna|65
 Sancé|46.339|4.830|FR|Bourgogne-Franche-Comté|65
 Sancerre|47.329|2.834|FR|Centre-Val de Loire|65
@@ -116,6 +125,7 @@ San Canzian d'Isonzo|45.797|13.466|IT|Friuli Venezia Giulia|65
 San Cristóbal de Entreviñas|42.046|-5.635|ES|Castille and León|64
 San Caralampio|15.829|-92.036|MX|Chiapas|64
 San Cristóbal|22.590|-102.231|MX|Zacatecas|64
+San Carlos Airport|11.133|-84.770|NI|Río San Juan Department|63|f
 San Chirico Nuovo|40.678|16.079|IT|Basilicate|63
 San Cayetano|7.877|-72.624|CO|Norte de Santander Department|63
 San Cassiano|46.277|9.397|IT|Lombardy|63
@@ -130,6 +140,7 @@ San Carlos Autopan|19.386|-99.687|MX|México|62
 San Clemente|20.084|-104.251|MX|Jalisco|61
 San Cristóbal Chacón|20.080|-98.733|MX|Hidalgo|61
 San Carlos|18.513|-98.518|MX|Puebla|61
+San Carlos Apache Airport|33.355|-110.669|US|Arizona|61|f
 San Carlos|24.583|-98.943|MX|Tamaulipas|61
 Sâncrai|46.367|25.317|RO|Harghita County|61
 San Cristóbal|21.680|-101.940|MX|Jalisco|61
@@ -143,27 +154,90 @@ San Cayetano|20.603|-100.821|MX|Guanajuato|60
 Sâncrai|46.294|23.752|RO|Alba County|60
 San Clemente de Lima|20.737|-105.271|MX|Nayarit|60
 Sánchez|21.787|-100.696|MX|San Luis Potosí|60
+San Cristóbal|20.641|-98.830|MX|Hidalgo|60
+San Claudio|43.275|13.502|IT|The Marches|60
+Sancti Spíritus|40.706|-6.400|ES|Castille and León|60
+San Cataldo|40.742|15.665|IT|Basilicate|60
+San Clemente|20.813|-101.541|MX|Guanajuato|59
 San Cristóbal de la Polantera|42.390|-5.907|ES|Castille and León|59
+San Cayetano|19.378|-100.099|MX|México|59
+San Cristóbal|20.391|-101.398|MX|Guanajuato|59
+San Cristóbal|20.956|-98.662|MX|Hidalgo|59
+San Cristóbal|20.504|-100.616|MX|Guanajuato|59
+San Cayetano|23.907|-99.097|MX|Tamaulipas|59
+San Cayetano|22.453|-105.685|MX|Nayarit|59
 San Clemente|41.340|13.956|IT|Campania|59
 San Carlos Yautepec|16.498|-96.105|MX|Oaxaca|59
+San Cristobal|-16.740|-70.706|PE|Moquegua Department|59
+San Cristóbal|16.445|-95.532|MX|Oaxaca|59
 San Cristóbal de la Barranca|21.045|-103.429|MX|Jalisco|59
 San Carlos|8.473|-79.956|PA|Panamá Oeste Province|59
+San Cristóbal|-11.735|-76.063|PE|Junin|59
 Sanchonuño|41.323|-4.305|ES|Castille and León|58
+San Chiaffredo|44.480|7.502|IT|Piedmont|58
+San Carlos Airport|37.511|-122.251|US|California|58|f
+San Carlos Bay|26.471|-81.994|US|Florida|58|f
+San Carlos Reservoir|33.200|-110.421|US|Arizona|58|f
+San Clemente|45.410|12.335|IT|Veneto|58|f
+San Cirilo|20.413|-100.201|MX|Querétaro|58
 Sanchidrián|40.893|-4.581|ES|Castille and León|58
+San Colombano|45.813|10.370|IT|Lombardy|58
+San Cristóbal Colhuacán|19.777|-98.823|MX|México|58
+San Cristobal (El Colorado)|20.556|-100.252|MX|Querétaro|58
+San Clemente|43.719|11.458|IT|Tuscany|57
+Sancor|-4.985|-80.165|PE|Piura|57
+Sancergues|47.154|2.914|FR|Centre-Val de Loire|57
+San Cristóbal|23.176|-103.055|MX|Zacatecas|57
+Sancheville|48.193|1.578|FR|Centre-Val de Loire|57
+San Costantino|38.705|16.003|IT|Calabria|57
+San Cristóbal|17.809|-94.540|MX|Veracruz|57
+Sanchey|48.175|6.362|FR|Grand Est|57
+San Caralampio|16.738|-91.425|MX|Chiapas|57
+San Carlos del Apa|-22.246|-57.289|PY|Concepción|57
+San Cayetano|20.079|-100.660|MX|Guanajuato|57
+San Cristóbal Buenavista|14.801|-92.375|MX|Chiapas|57
+San Cayetano|5.302|-74.070|CO|Cundinamarca|57
+San Carlitos|8.491|-82.455|PA|Chiriquí Province|57
 San Cristobal de Jacas Chico|-9.886|-76.503|PE|Huánuco Department|56
+San Carlo|41.311|13.918|IT|Campania|56
+San Cristóbal|16.484|-97.866|MX|Oaxaca|56
+Sancarlı|37.261|40.633|TR|Mardin|56
+San Cristobalito|16.913|-92.820|MX|Chiapas|56
+San Colombano|44.098|12.049|IT|Emilia-Romagna|56
+San Cristobal|19.568|-98.662|MX|Tlaxcala|56
 San Clemente|43.933|12.627|IT|Emilia-Romagna|56
+San Cataldo|45.071|10.783|IT|Lombardy|55
+San Carlos|17.681|-94.707|MX|Veracruz|55
 San Cristoforo|44.693|8.749|IT|Piedmont|55
 San Cosmo Albanese|39.584|16.415|IT|Calabria|55
+San Clemente|20.405|-98.147|MX|Hidalgo|55
 San Cristóbal de la Cuesta|41.029|-5.618|ES|Castille and León|55
+Sancrox|-31.432|152.801|AU|New South Wales|55
+San Carlos del Jagüey|20.910|-101.636|MX|Guanajuato|55
+San Crisanto|21.353|-89.172|MX|Yucatán|55
+San Cristóbal|-5.410|-79.587|PE|Piura|55
+San Claudio|43.350|-5.917|ES|Asturias|55
 San Costantino Albanese|40.037|16.305|IT|Basilicate|55
+San Caralampio|16.565|-91.968|MX|Chiapas|55
+San Cayetano|18.920|-97.633|MX|Puebla|55
 San Casciano dei Bagni|42.870|11.877|IT|Tuscany|54
 Sancos|-15.063|-73.952|PE|Ayacucho|54
+San Cristóbal|9.281|-82.268|PA|Bocas del Toro Province|54
+San Cipriano|42.334|13.411|IT|Abruzzo|54
+San Carlos Airport|33.372|-110.458|US|Arizona|54|f
+San Clemente Dam|36.436|-121.709|US|California|54|f
+San Cayetano de Vacas|23.946|-100.433|MX|Nuevo León|54
 San Cristóbal Amoltepec|17.285|-97.570|MX|Oaxaca|53
 San Cebrián de Campos|42.201|-4.531|ES|Castille and León|53
 San Cipriano Po|45.109|9.281|IT|Lombardy|52
 San Carlos|8.521|-82.505|PA|Chiriquí Province|52
 San Cebrián de Castro|41.706|-5.756|ES|Castille and León|50
 San Carlos|-5.967|-77.933|PE|Amazonas|49
+San Carlos Airport|-33.767|-69.033|AR|Mendoza|49|f
+San Carlos de Apoquindo Stadium|-33.396|-70.501|CL|Santiago Metropolitan|49|f
+San Carlos Point|-63.833|-58.022|AQ||49|f
+San Clemente Island, San Clemente Island NALF|33.023|-118.587|US|California|49|f
+Sanctuary Islands|-65.618|-64.577|AQ||49|f
 Sanchotello|40.438|-5.754|ES|Castille and León|49
 San Cristóbal de Cuéllar|41.406|-4.404|ES|Castille and León|46
 San Cebrián de Mazote|41.680|-5.148|ES|Castille and León|46
@@ -172,6 +246,14 @@ San Colombano Belmonte|45.382|7.621|IT|Piedmont|43
 San Cristóbal de la Vega|41.112|-4.644|ES|Castille and León|43
 Sanchorreja|40.665|-4.915|ES|Castille and León|43
 Sanchón de la Ribera|41.088|-6.413|ES|Castille and León|41
+San Christoval Range|52.616|-131.837|CA|British Columbia|40|f
+San Clemente State Beach|33.403|-117.605|US|California|40|f
+Sanchez Peak|-78.633|-85.000|AQ||40|f
+Sanchez Reservoir|37.084|-105.414|US|Colorado|40|f
+Sanctuary Glacier|-86.000|-150.417|AQ||40|f
+Sanctuary of Artemis Brauronia|37.971|23.725|GR|Attica|40|f
+Sanctuary of Artemis Orthia|37.083|22.435|GR|Peloponnese|40|f
+Sanctuary of Asklepios|37.598|23.074|GR|Peloponnese|40|f
 Sanchón de la Sagrada|40.743|-6.025|ES|Castille and León|34
 San Cristóbal de Boedo|42.542|-4.353|ES|Castille and León|31
 San Carlos|-1.116|-79.436|EC|Los Ríos|0
@@ -183,4 +265,15 @@ San Cayetano|5.336|-74.027|CO|Cundinamarca|0
 San Cristóbal|10.395|-75.066|CO|Bolívar|0
 San Cristóbal|-14.743|-74.222|PE|Ayacucho|0
 Sancak|39.092|40.388|TR|Bingöl|0
+Sancang|32.767|120.667|CN|Jiangsu|0
 Sancedo|42.667|-6.635|ES|Castille and León|0
+Sancha|36.051|107.045|CN|Gansu|0
+Sancha|33.841|106.672|CN|Shaanxi|0
+Sancha|30.276|109.622|CN|Hubei|0
+Sancha|29.062|110.564|CN|Hunan|0
+Sancha|30.945|114.059|CN|Hubei|0
+Sanchagang|29.274|116.391|CN|Jiangxi|0
+Sanchahe|29.118|112.298|CN|Hunan|0
+Sanchahe|48.689|123.442|CN|Inner Mongolia|0
+Sanchakou Chaoxianzu|44.017|131.236|CN|Heilongjiang|0
+Sanchang|31.895|121.241|CN|Jiangsu|0

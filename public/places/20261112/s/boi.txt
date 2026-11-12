@@ -5,14 +5,17 @@ Boisbriand|45.617|-73.832|CA|Quebec|88
 Bois-Colombes|48.919|2.275|FR|Île-de-France|88
 Boiro|42.647|-8.885|ES|Galicia|86
 Boissy-Saint-Léger|48.751|2.512|FR|Île-de-France|84
+Bois de Vincennes|48.830|2.433|FR|Île-de-France|83|f
 Bois-Guillaume|49.460|1.122|FR|Normandy|83
 Bois-d'Arcy|48.800|2.023|FR|Île-de-France|83
 Boizenburg|53.381|10.738|DE|Mecklenburg-Vorpommern|81
 Bois-des-Filion|45.667|-73.749|CA|Quebec|78
 Boischatel|46.894|-71.145|CA|Quebec|78
 Boiling Springs|35.047|-81.982|US|South Carolina|78
+Boire Field|42.782|-71.514|US|New Hampshire|78|f
 Boi|9.561|9.502|NG|Bauchi|76
 Bois-le-Roi|48.473|2.705|FR|Île-de-France|75
+Boise Airport|43.562|-116.240|US|Idaho|75|f
 Boiling Spring Lakes|34.030|-78.067|US|North Carolina|75
 Boiling Springs|33.135|-81.431|US|South Carolina|74
 Boipelo|-27.565|24.185|ZA|North West|74
@@ -33,6 +36,7 @@ Boisseron|43.758|4.080|FR|Occitanie|67
 Boigny-sur-Bionne|47.933|2.017|FR|Centre-Val de Loire|66
 Boisseuil|45.770|1.331|FR|New Aquitaine|66
 Bois des Amourettes|-20.363|57.731|MU|Grand Port|66
+Bois Blanc Island Airport|45.766|-84.501|US|Michigan|65|f
 Boinești|47.916|23.351|RO|Satu Mare County|65
 Bois-d'Amont|46.533|6.138|FR|Bourgogne-Franche-Comté|64
 Boissevain|49.231|-100.056|CA|Manitoba|64
@@ -43,6 +47,9 @@ Boian|46.202|24.229|RO|Sibiu County|64
 Boikivshchyna|49.910|32.250|UA|Cherkasy|64
 Boiu|46.266|24.873|RO|Mureș County|64
 Bois-Grenier|50.650|2.874|FR|Hauts-de-France|63
+Boigu Island|-9.260|142.214|AU|Queensland|63|f
+Bois de Boulogne|48.863|2.249|FR|Île-de-France|63|f
+Boistfort Peak|46.489|-123.216|US|Washington|63|f
 Boianu Mare|47.383|22.533|RO|Bihor County|63
 Bois-de-Céné|46.938|-1.886|FR|Pays de la Loire|63
 Boisgervilly|48.167|-2.064|FR|Brittany|63
@@ -52,3 +59,42 @@ Boise City|36.729|-102.513|US|Oklahoma|61
 Boismé|46.775|-0.436|FR|New Aquitaine|61
 Boiscommun|48.036|2.383|FR|Centre-Val de Loire|61
 Boianchuk|48.490|25.954|UA|Chernivtsi|60
+Boisset-Saint-Priest|45.513|4.104|FR|Auvergne-Rhône-Alpes|60
+Boissise-la-Bertrand|48.528|2.589|FR|Île-de-France|60
+Boiștea|47.177|26.429|RO|Neamț County|59
+Boiu|46.686|21.611|RO|Bihor County|59
+Boirs|50.753|5.579|BE|Wallonia|59
+Bois-et-Borsu|50.398|5.336|BE|Wallonia|59
+Bois-Bernard|50.381|2.911|FR|Hauts-de-France|59
+Bois-le-Roi|48.862|1.343|FR|Normandy|59
+Boisset-lès-Montrond|45.627|4.213|FR|Auvergne-Rhône-Alpes|58
+Boissy-Fresnoy|49.164|2.870|FR|Hauts-de-France|58
+Boian|46.637|23.991|RO|Cluj County|58
+Boise Mountains|43.750|-115.501|US|Idaho|58|f
+Boisemont|49.025|2.006|FR|Île-de-France|57
+Boisville-la-Saint-Père|48.329|1.693|FR|Centre-Val de Loire|57
+Boissey-le-Châtel|49.271|0.784|FR|Normandy|57
+Bois-Jérôme-Saint-Ouen|49.104|1.535|FR|Normandy|57
+Boisemont|49.288|1.500|FR|Normandy|57
+Bois-Arnault|48.815|0.731|FR|Normandy|56
+Boissy-le-Sec|48.479|2.090|FR|Île-de-France|56
+Boisset|44.783|2.254|FR|Auvergne-Rhône-Alpes|56
+Boisredon|45.314|-0.539|FR|New Aquitaine|56
+Boismorand|47.786|2.719|FR|Centre-Val de Loire|56
+Boissy-Mauvoisin|48.963|1.578|FR|Île-de-France|56
+Boignée|50.501|4.609|BE|Wallonia|55
+Boissy-lès-Perche|48.685|0.889|FR|Centre-Val de Loire|55
+Boissy-sans-Avoir|48.817|1.800|FR|Île-de-France|55
+Boistrudan|47.970|-1.401|FR|Brittany|55
+Boijl|52.909|6.200|NL|Friesland|54
+Boisse-Penchot|44.592|2.207|FR|Occitanie|54
+Boigu Airport|-9.233|142.218|AU|Queensland|54|f
+Bois Blanc Island|45.767|-84.436|US|Michigan|54|f
+Boissières|43.775|4.234|FR|Occitanie|54
+Boiensdorf|54.017|11.561|DE|Mecklenburg-Vorpommern|54
+Boismont|50.152|1.685|FR|Hauts-de-France|54
+Boitze|53.149|10.747|DE|Lower Saxony|52
+Bois Blanc Island|42.100|-83.117|CA|Ontario|40|f
+Boise City Airport|36.773|-102.516|US|Oklahoma|40|f
+Boise Towne Square|43.609|-116.278|US|Idaho|40|f
+Boitimu|-10.226|124.002|ID|East Nusa Tenggara|0

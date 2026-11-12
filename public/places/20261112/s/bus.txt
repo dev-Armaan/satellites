@@ -1,7 +1,7 @@
 Busan|35.102|129.030|KR|Busan|130
 Business Bay|25.185|55.270|AE|Dubai|106
+Buskerud|59.748|10.189|NO||105|r
 Bushehr|28.969|50.837|IR|Bushehr|104
-Buskerud|59.748|10.189|NO||104|r
 Busia County|0.350|34.170|KE||104|r
 Būsh|29.148|31.127|EG|Beni Suweif|103
 Bushwick|40.694|-73.919|US|New York|101
@@ -34,21 +34,26 @@ Bushtyno|48.047|23.486|UA|Zakarpattia|79
 Busk|49.965|24.612|UA|Lviv|78
 Bussigny|46.551|6.556|CH|Vaud|77
 Buşayrā|30.733|35.609|JO|Tafielah|77
+Busch Stadium|38.624|-90.193|US|Missouri|77|f
 Busnago|45.616|9.464|IT|Lombardy|76
+Busan / Gimhae International Airport|35.180|128.938|KR|Busan|76|f
 Busca|44.516|7.477|IT|Piedmont|75
 Busay|10.538|122.886|PH|Western Visayas|75
 Bussoleno|45.140|7.144|IT|Piedmont|75
+Buseoksa|36.999|128.687|KR|Gyeongsangbuk-do|74|f
 Busalla|44.571|8.945|IT|Liguria|74
 Büsum|54.134|8.858|DE|Schleswig-Holstein|74
 Bŭstonqal’a|37.848|68.831|TJ|Khatlon Province|74
 Busovača|44.098|17.878|BA|Federation of B&H|74
 Busseto|44.979|10.043|IT|Emilia-Romagna|73
 Buscate|45.544|8.813|IT|Lombardy|73
+Bush Mountains|-84.950|179.500|AQ||72|f
 Buštěhrad|50.156|14.189|CZ|Central Bohemia|72
 Bustuchin|44.967|23.733|RO|Gorj County|71
 Bustamante|26.532|-100.507|MX|Nuevo León|71
 Busok|6.508|124.600|PH|Soccsksargen|71
 Busby|55.780|-4.277|GB|Scotland|70
+Busia Airport|0.455|34.130|KE|Busia County|70|f
 Bushnell|28.665|-82.113|US|Florida|70
 Bushnell|40.553|-90.506|US|Illinois|69
 Busilak|16.477|121.124|PH|Cagayan Valley|69
@@ -57,6 +62,7 @@ Buseto Palizzolo|38.003|12.709|IT|Sicily|68
 Busigny|50.034|3.467|FR|Hauts-de-France|68
 Bussi sul Tirino|42.213|13.825|IT|Abruzzo|68
 Busot|38.482|-0.419|ES|Valencia|67
+Busby Islet|-35.624|137.641|AU|South Australia|67|f
 Busdi|8.276|125.251|PH|Northern Mindanao|67
 Būshkān|28.831|51.700|IR|Bushehr|67
 Busing|13.151|122.971|PH|Bicol Region|66
@@ -67,6 +73,8 @@ Buscoldo|45.094|10.696|IT|Lombardy|64
 Bustillo del Páramo|42.441|-5.793|ES|Castille and León|64
 Bushland|35.192|-102.065|US|Texas|64
 Büsingen|47.696|8.688|DE|Baden-Wurttemberg|63
+Buskin Rocks|-61.057|-55.149|AQ||63|f
+Bustins Island|43.800|-70.072|US|Maine|63|f
 Busano|45.331|7.657|IT|Piedmont|63
 Bussière-Galant|45.627|1.036|FR|New Aquitaine|63
 Busenberg|49.130|7.829|DE|Rheinland-Pfalz|63
@@ -78,6 +86,14 @@ Bushmills|55.205|-6.519|GB|Northern Ireland|62
 Bustan HaGalil|32.951|35.083|IL|Northern District|62
 Busachi|40.034|8.888|IT|Sardinia|62
 Bussac-sur-Charente|45.783|-0.633|FR|New Aquitaine|62
+Busan Bay|35.095|129.085|KR|Busan|61|f
+Busandaegyo|35.096|129.039|KR|Busan|61|f
+Bush Head|36.925|-111.722|US|Arizona|61|f
+Bush Mountain|31.930|-104.880|US|Texas|61|f
+Bushy Park|51.417|-0.346|GB|England|61|f
+Buskett|35.860|14.398|MT|Is-Siġġiewi|61|f
+Buško Jezero|43.662|17.024|BA|Federation of B&H|61|f
+Bustos Dam|14.957|120.955|PH|Central Luzon|61|f
 Bussière-Dunoise|46.258|1.762|FR|New Aquitaine|61
 Busso|41.554|14.561|IT|Molise|61
 Buso|45.065|11.848|IT|Veneto|61
@@ -86,17 +102,73 @@ Bușca|44.112|24.802|RO|Olt|60
 Buševec|45.634|16.120|HR|Zagreb County|60
 Bussière-Poitevine|46.235|0.905|FR|New Aquitaine|60
 Buşrá ash Shām|32.517|36.482|SY|Daraa|60
+Buštranje|42.332|21.754|RS|Central Serbia|60
+Busiljá|17.060|-91.362|MX|Chiapas|60
+Bussac-Forêt|45.213|-0.370|FR|New Aquitaine|59
+Buschwiller|47.559|7.507|FR|Grand Est|59
+Busset|46.062|3.513|FR|Auvergne-Rhône-Alpes|59
+Busheve|49.640|30.599|UA|Kyiv Oblast|58
+Bush Stadium|39.788|-86.189|US|Indiana|58|f
+Bushnell Peak|38.341|-105.889|US|Colorado|58|f
+Bushy Islet|-11.250|142.950|AU|Queensland|58|f
+Bussell Island|35.779|-84.255|US|Tennessee|58|f
+Busselton Airport|-33.687|115.401|AU|Western Australia|58|f
+Buștenari|45.142|25.834|RO|Prahova|58
+Bussy-en-Othe|48.019|3.514|FR|Bourgogne-Franche-Comté|58
+Busby|45.537|-106.956|US|Montana|57
+Bušetina|45.897|17.356|HR|Virovitica-Podravina|57
+Bušovice|49.796|13.535|CZ|Plzeň Region|56
+Bustighera|45.400|9.343|IT|Lombardy|56
+Bussy-Saint-Martin|48.849|2.690|FR|Île-de-France|56
+Busque|43.782|1.960|FR|Occitanie|56
+Busu|44.451|23.226|RO|Dolj|56
+Buschdorf|49.751|6.008|LU|Mersch|55
+Bussières|46.338|4.708|FR|Bourgogne-Franche-Comté|55
+Busta|45.746|12.001|IT|Veneto|55
+Busserolles|45.677|0.642|FR|New Aquitaine|55
+Bushfield|-38.333|142.517|AU|Victoria|55
+Bușag|47.659|23.428|RO|Maramureş|54
+Busača|44.979|18.490|BA|Srpska|54|f
+Busfield Pond|41.962|-75.283|US|New York|54|f
+Bush's Pasture City Park|44.929|-123.036|US|Oregon|54|f
+Bushehr Civ / Afb|28.945|50.835|IR|Bushehr|54|f
+Bushy Islet|-20.952|150.072|AU|Queensland|54|f
+Busuanga Island|12.103|120.084|PH|Mimaropa|54|f
+Bussière-Badil|45.651|0.605|FR|New Aquitaine|54
+Busy|47.167|5.948|FR|Bourgogne-Franche-Comté|54
+Busenwurth|54.041|9.038|DE|Schleswig-Holstein|51
 Bustillo de la Vega|42.456|-4.741|ES|Castille and León|51
+Busenhausen|50.716|7.634|DE|Rheinland-Pfalz|51
+Büsumer Deichhausen|54.137|8.891|DE|Schleswig-Holstein|51
 Busquístar|36.938|-3.294|ES|Andalusia|51
+Busby Islet Conservation Park|-35.624|137.641|AU|South Australia|49|f
+Bushy Island|-11.583|142.900|AU|Queensland|49|f
+Bussen|48.162|9.554|DE|Baden-Wurttemberg|49|f
+Bussey Glacier|-65.283|-63.958|AQ||49|f
+Busta Voe|60.382|-1.362|GB|Scotland|49|f
+Buster Boyd Bridge|35.102|-81.040|US|South Carolina|49|f
 Busana|44.369|10.323|IT|Emilia-Romagna|48
 Busto de Bureba|42.659|-3.265|ES|Castille and León|47
 Busbanzá|5.830|-72.884|CO|Boyacá|44
 Bustillo del Oro|41.675|-5.462|ES|Castille and León|43
+Busch Soccer Field|37.273|-76.722|US|Virginia|40|f
+Busch-Reisinger Museum|42.377|-71.114|US|Massachusetts|40|f
+Buscombe Lake|45.859|-60.205|CA|Nova Scotia|40|f
+Bush Island|60.483|-64.715|CA|Nunavut|40|f
+Bush Lake|47.956|-84.332|CA|Ontario|40|f
+Bush Lake|44.837|-93.383|US|Minnesota|40|f
+Bushes Island|37.657|-80.891|US|West Virginia|40|f
+Bushnell Park|41.763|-72.676|US|Connecticut|40|f
+Bushnell, Mount|-85.600|-150.800|AQ||40|f
+Bussey Lake|42.806|-91.105|US|Iowa|40|f
+Bustard Island|58.784|-110.735|CA|Alberta|40|f
 Bustares|41.133|-3.067|ES|Castille-La Mancha|40
 Bustillo de Chaves|42.131|-5.092|ES|Castille and León|40
 Buseno|46.274|9.107|CH|Grisons|39
 Bustillo del Páramo de Carrión|42.355|-4.740|ES|Castille and León|38
 Busalangga|-10.804|123.004|ID|East Nusa Tenggara|0
+Busdorf|54.491|9.550|DE|Schleswig-Holstein|0
+Bushan|28.081|120.179|CN|Zhejiang|0
 Bushat|42.119|19.900|AL|Shkodër County|0
 Bushenyi|-0.537|30.186|UG|Western Region|0
 Bushtricë|41.879|20.422|AL|Kukës County|0

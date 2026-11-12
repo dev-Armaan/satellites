@@ -4,9 +4,11 @@ Milton Keynes|52.042|-0.756|GB|England|108
 Milagro|-2.134|-79.593|EC|Guayas|103
 Milton|43.517|-79.883|CA|Ontario|102
 Milpitas|37.428|-121.907|US|California|98
+Millau Viaduct|44.083|3.022|FR|Occitanie|96|f
 Mila|36.450|6.264|DZ|Mila|96
 Millcreek|40.687|-111.875|US|Utah|96
 Milford|41.222|-73.056|US|Connecticut|94
+Milan Linate Airport|45.461|9.280|IT|Lombardy|94|f
 Milavittan|8.819|78.091|IN|Tamil Nadu|93
 Miliana|36.306|2.225|DZ|Aïn Defla|93
 Milas|37.316|27.784|TR|Muğla|93
@@ -34,7 +36,9 @@ Millburn|40.725|-74.304|US|New Jersey|86
 Mill Creek|47.860|-122.204|US|Washington|86
 Milledgeville|33.080|-83.232|US|Georgia|86
 Milpa Alta|19.193|-99.023|MX|Mexico City|85
+Millennium Stadium|51.479|-3.182|GB|Wales|85|f
 Mililani Mauka / Launani Valley|21.479|-157.988|US|Hawaii|85
+Milano Malpensa Airport|45.628|8.715|IT|Lombardy|85|f
 Milanówek|52.119|20.672|PL|Mazovia|84
 Mill Creek East|47.836|-122.188|US|Washington|84
 Mile 91|8.466|-12.215|SL|Northern Province|84
@@ -44,20 +48,26 @@ Mill Valley|37.906|-122.545|US|California|83
 Mildenhall|52.344|0.511|GB|England|83
 Milne Bay Province|-10.553|150.315|PG||83|r
 Milhã|-5.675|-39.194|BR|Ceará|83
+Milos Island National Airport|36.697|24.476|GR|South Aegean|83|f
 Millbury|42.194|-71.760|US|Massachusetts|83
 Milford Haven|51.713|-5.034|GB|Wales|83
 Milngavie|55.941|-4.323|GB|Scotland|82
+Milne Land|70.683|-26.750|GL|Sermersooq|82|f
 Miller Place|40.960|-72.996|US|New York|82
+Mildura Airport|-34.229|142.086|AU|Victoria|81|f
 Milicz|51.528|17.271|PL|Lower Silesia|81
 Millington|35.341|-89.897|US|Tennessee|81
 Milton-Parc|45.510|-73.575|CA|Quebec|81
 Milagres|-12.870|-39.859|BR|Bahia|81
+Mille Lacs Lake|46.243|-93.646|US|Minnesota|80|f
 Milford|38.913|-75.428|US|Delaware|80
 Milton|30.632|-87.040|US|Florida|80
+Milford Sound|-44.654|167.906|NZ|Southland|80|f
 Miltenberg|49.705|9.267|DE|Bavaria|80
 Milevsko|49.451|14.360|CZ|South Bohemian Region|79
 Mīlājerd|34.622|49.208|IR|Markazi|79
 Milnrow|53.611|-2.113|GB|England|79
+Mili Atoll|6.134|171.925|MH|Mili Atoll|79|f
 Milford|42.835|-71.649|US|New Hampshire|79
 Milagres do Maranhão|-3.581|-42.609|BR|Maranhão|79
 Milaor|13.596|123.177|PH|Bicol Region|79
@@ -66,6 +76,8 @@ Milton|47.248|-122.313|US|Washington|79
 Milcovul|45.650|27.250|RO|Vrancea|79
 Millersville|39.998|-76.354|US|Pennsylvania|79
 Milişăuţi|47.783|26.000|RO|Suceava|78
+Milas–Bodrum Airport|37.251|27.664|TR|Muğla|78|f
+Mill Island|-65.500|100.667|AQ||78|f
 Mil’kovo|54.695|158.619|RU|Kamchatka|78
 Milići|44.170|19.092|BA|Srpska|78
 Milattūr|10.858|79.239|IN|Tamil Nadu|78
@@ -74,11 +86,13 @@ Mill Plain|45.643|-122.494|US|Washington|78
 Milan|35.920|-88.759|US|Tennessee|78
 Militello in Val di Catania|37.276|14.793|IT|Sicily|78
 Mill End|51.639|-0.501|GB|England|78
+Millstätter See|46.792|13.592|AT|Carinthia|78|f
 Milán|1.290|-75.508|CO|Caquetá|78
 Mill Bay|48.650|-123.550|CA|British Columbia|77
 Mills River|35.388|-82.567|US|North Carolina|77
 Milltown|40.456|-74.443|US|New Jersey|77
 Milton-Freewater|45.933|-118.388|US|Oregon|77
+Milingimbi Airport|-12.094|134.894|AU|Northern Territory|77|f
 Miloslavov|48.106|17.300|SK|Bratislava Region|77
 Milton|41.012|-76.848|US|Pennsylvania|77
 Milford|39.175|-84.294|US|Ohio|77
@@ -87,6 +101,9 @@ Millersville|36.371|-86.710|US|Tennessee|77
 Milton Brandão|-4.703|-41.449|BR|Piauí|76
 Millidgeville|45.302|-66.103|CA|New Brunswick|76
 Milford|42.594|-83.599|US|Michigan|76
+Millennium Park|41.883|-87.623|US|Illinois|76|f
+Millinocket Municipal Airport|45.648|-68.685|US|Maine|76|f
+Milos Island|36.676|24.448|GR|South Aegean|76|f
 Milliken|40.329|-104.855|US|Colorado|76
 Mill|51.688|5.779|NL|North Brabant|76
 Mila Doce|26.226|-97.959|US|Texas|76
@@ -105,6 +122,7 @@ Milan|41.453|-90.572|US|Illinois|74
 Millicent|-37.594|140.349|AU|South Australia|74
 Milly-la-Forêt|48.404|2.470|FR|Île-de-France|74
 Miloslavskoye|53.581|39.448|RU|Ryazan Oblast|73
+Milne Mountain|46.815|151.785|RU|Sakhalin Oblast|73|f
 Millinocket|45.657|-68.710|US|Maine|73
 Milówka|49.555|19.091|PL|Silesia|73
 Millis-Clicquot|42.165|-71.354|US|Massachusetts|73
@@ -121,6 +139,7 @@ Mills|42.841|-106.366|US|Wyoming|72
 Mildenau|50.587|13.073|DE|Saxony|71
 Mildstedt|54.464|9.099|DE|Schleswig-Holstein|71
 Millvale|40.480|-79.978|US|Pennsylvania|71
+Mill Rock|40.781|-73.938|US|New York|71|f
 Millery|45.632|4.782|FR|Auvergne-Rhône-Alpes|71
 Miłosław|52.203|17.490|PL|Greater Poland|71
 Mileto|38.608|16.068|IT|Calabria|70
@@ -144,6 +163,9 @@ Milborne Port|50.966|-2.462|GB|England|69
 Millville|42.028|-71.581|US|Massachusetts|69
 Mileb|6.899|124.584|PH|Autonomous Region in Muslim Mindanao|69
 Milyutinskaya|48.628|41.669|RU|Rostov|69
+Milaca Municipal Airport|45.772|-93.632|US|Minnesota|69|f
+Miles Airport|-26.809|150.165|AU|Queensland|69|f
+Millen Range|-72.333|166.250|AQ||69|f
 Miłakowo|54.009|20.071|PL|Warmia-Masuria|69
 Milejów|51.232|22.924|PL|Lublin|69
 Milltimber|57.104|-2.241|GB|Scotland|68
@@ -172,6 +194,7 @@ Millet|53.094|-113.471|CA|Alberta|66
 Milan|39.121|-85.131|US|Indiana|66
 Mill City|44.754|-122.478|US|Oregon|65
 Milton|44.640|-73.110|US|Vermont|65
+Milešovka|50.555|13.932|CZ|Ústí nad Labem Region|65|f
 Milan|40.202|-93.125|US|Missouri|65
 Milo|45.254|-68.986|US|Maine|65
 Milpillas|20.501|-102.534|MX|Jalisco|65
@@ -196,6 +219,11 @@ Milano Marittima|44.274|12.352|IT|Emilia-Romagna|64
 Milanovac|45.800|17.387|HR|Virovitica-Podravina|64
 Milroy|40.714|-77.591|US|Pennsylvania|64
 Milam|31.432|-93.846|US|Texas|63
+Miletich Point|-62.446|-59.937|AQ||63|f
+Milingimbi Island|-12.133|134.914|AU|Northern Territory|63|f
+Miller Bluffs|-77.583|-85.750|AQ||63|f
+Miller Mountain|41.489|-75.952|US|Pennsylvania|63|f
+Milwaukee Public Museum|43.041|-87.921|US|Wisconsin|63|f
 Miller|44.518|-98.988|US|South Dakota|63
 Millbrook|41.785|-73.694|US|New York|63
 Milan|44.573|-71.185|US|New Hampshire|63
@@ -222,6 +250,9 @@ Milford|40.569|-75.095|US|New Jersey|62
 Millbourne|39.963|-75.250|US|Pennsylvania|61
 Millers Falls|42.582|-72.493|US|Massachusetts|61
 Milanere|45.104|7.434|IT|Piedmont|61
+Milford Dam|44.941|-68.648|US|Maine|61|f
+Miller Field|42.858|-100.548|US|Nebraska|61|f
+Millingimbi Island|-12.100|134.900|AU|Northern Territory|61|f
 Milford|43.101|-88.847|US|Wisconsin|61
 Miłoradz|54.014|18.918|PL|Pomerania|61
 Milverton|51.023|-3.252|GB|England|61
@@ -236,29 +267,265 @@ Millington|43.281|-83.530|US|Michigan|60
 Milpillas|27.205|-108.645|MX|Chihuahua|60
 Mill Neck|40.887|-73.555|US|New York|60
 Milagres|39.790|-8.794|PT|Leiria|60
+Millport|33.563|-88.081|US|Alabama|60
+Milledgeville|41.963|-89.775|US|Illinois|60
+Millfield|-32.889|151.261|AU|New South Wales|60
 Milford|41.322|-74.802|US|Pennsylvania|60
+Millford|55.088|-7.699|IE|Ulster|60
+Millville|41.017|-79.301|US|Pennsylvania|60
+Milostea|45.125|23.836|RO|Vâlcea County|60
+Millville|41.120|-76.530|US|Pennsylvania|60
+Milzau|51.375|11.899|DE|Saxony-Anhalt|60
+Milton|57.339|-4.505|GB|Scotland|60
+Millerton|41.954|-73.511|US|New York|59
+Millersburg|41.528|-85.694|US|Indiana|59
+Milota|48.104|22.784|HU|Szabolcs-Szatmár-Bereg|59
+Miletín|50.404|15.682|CZ|Hradec Králové Region|59
+Milford Square|40.437|-75.399|US|Pennsylvania|59
+Millheim|40.891|-77.477|US|Pennsylvania|59
 Millstatt|46.804|13.581|AT|Carinthia|59
+Milpoleta|16.773|-92.661|MX|Chiapas|59
+Milembéni|-12.198|44.264|KM|Anjouan|59
+Millwood|33.913|-80.379|US|South Carolina|59
+Milltown|45.526|-92.509|US|Wisconsin|59
+Miličín|49.571|14.661|CZ|Central Bohemia|59
+Miles|31.597|-100.182|US|Texas|59
 Mili|6.082|171.735|MH|Mili Atoll|59
 Mili Atoll|6.133|171.917|MH||59|r
+Miłoszyce|51.050|17.313|PL|Lower Silesia|59
+Milang|-35.408|138.971|AU|South Australia|59
+Miliá|40.992|22.145|GR|Central Macedonia|58
+Miłocice|50.233|20.043|PL|Lesser Poland|58
+Milda|50.856|11.464|DE|Thuringia|58
+Milpara|-34.987|117.865|AU|Western Australia|58
+Mīlās|31.471|50.783|IR|Chaharmahal and Bakhtiari|58
+Milford Center|40.179|-83.435|US|Ohio|58
 Mílos|36.745|24.427|GR|South Aegean|58
+Miletićevo|45.305|21.064|RS|Vojvodina|58
+Milevska Planina|42.565|22.445|RS||58|f
+Military Aviation Museum|36.679|-76.028|US|Virginia|58|f
+Milkovo Airport|54.681|158.551|RU|Kamchatka|58|f
+Mill Covered Bridge|43.892|-72.491|US|Vermont|58|f
+Miller State Park|42.860|-71.883|US|New Hampshire|58|f
+Millers Ferry Lock and Dam|32.101|-87.399|US|Alabama|58|f
+Millwood Lake|33.696|-93.961|US|Arkansas|58|f
+Milne Bay|-10.380|150.524|PG|Milne Bay Province|58|f
+Milseburg|50.545|9.898|DE|Hesse|58|f
+Milltown|38.342|-86.276|US|Indiana|58
+Millersburg|38.302|-84.147|US|Kentucky|58
+Milpillas de Santiago|21.201|-100.178|MX|Guanajuato|58
+Milembéni|-11.662|43.266|KM|Grande Comore|58
+Miltown Malbay|52.855|-9.398|IE|Munster|58
 Milna|43.327|16.451|HR|Split-Dalmatia|58
+Milo|41.292|-93.442|US|Iowa|58
+Milan|32.017|-83.063|US|Georgia|58
+Milton Ernest|52.193|-0.511|GB|England|58
+Milford|32.125|-96.945|US|Texas|57
+Milévani|-11.555|43.298|KM|Grande Comore|57
+Millville|40.549|-122.175|US|California|57
+Milpillas|19.794|-100.319|MX|Michoacán|57
+Millville|39.389|-84.654|US|Ohio|57
+Mill Creek|38.731|-79.970|US|West Virginia|57
+Millançay|47.447|1.772|FR|Centre-Val de Loire|57
+Milzkalne|56.978|23.226|LV|Tukums Municipality|57
+Miller|37.215|-93.840|US|Missouri|57
+Miluta|44.703|23.173|RO|Gorj County|57
+Mildam|52.936|6.002|NL|Friesland|57
+Milpillas de Allende|21.327|-103.615|MX|Zacatecas|57
+Millerstown|40.550|-77.155|US|Pennsylvania|57
+Milltown-Head of Bay D'Espoir|47.928|-55.728|CA|Newfoundland and Labrador|57
+Millam|50.855|2.249|FR|Hauts-de-France|56
+Millsboro|39.987|-79.994|US|Pennsylvania|56
+Millington|41.563|-88.598|US|Illinois|56
+Milești|44.450|23.786|RO|Dolj|56
+Milnor|46.259|-97.456|US|North Dakota|56
 Militello Rosmarino|38.046|14.676|IT|Sicily|56
+Miločani|42.829|18.904|ME|Opština Nikšić|56
+Miłocice|51.046|17.483|PL|Lower Silesia|56
+Miléai|39.327|23.152|GR|Thessaly|56
+Milhac-de-Nontron|45.468|0.781|FR|New Aquitaine|56
+Millac|46.190|0.687|FR|New Aquitaine|56
+Milešovice|49.083|16.854|CZ|South Moravian|56
+Millonfosse|50.434|3.398|FR|Hauts-de-France|56
 Milo|37.724|15.116|IT|Sicily|56
+Millington|39.258|-75.837|US|Maryland|56
+Milroy|39.497|-85.470|US|Indiana|56
+Milner|33.117|-84.197|US|Georgia|56
+Millingport|35.381|-80.305|US|North Carolina|56
+Milawa|-36.433|146.433|AU|Victoria|55
+Milcoveni|44.426|24.723|RO|Olt|55
+Milford|39.168|-96.913|US|Kansas|55
+Millville|38.550|-75.123|US|Delaware|55
+Milavče|49.467|12.981|CZ|Plzeň Region|55
+Miletin|47.481|27.063|RO|Botoșani County|55
+Miłki|53.943|21.883|PL|Warmia-Masuria|55
+Milpillas|22.252|-101.130|MX|San Luis Potosí|55
+Millières|49.187|-1.461|FR|Normandy|55
+Milpillas|16.581|-98.461|MX|Guerrero|55
+Milton|43.410|-70.988|US|New Hampshire|55
+Milton|38.724|-85.369|US|Kentucky|55
 Millares|39.250|-0.767|ES|Valencia|55
+Millwood|40.353|-79.278|US|Pennsylvania|55
+Milpillas de la Sierra|23.088|-103.678|MX|Zacatecas|55
+Mileham|52.737|0.833|GB|England|55
+Milova|46.106|21.802|RO|Arad County|55
 Mils bei Imst|47.206|10.675|AT|Tyrol|55
+Milochóri|40.504|21.537|GR|West Macedonia|55
+Milho Branco|15.027|-23.521|CV|São Domingos|55
+Milpillas de la Sierra|23.507|-102.752|MX|Zacatecas|55
+Mili San Pietro|38.126|15.489|IT|Sicily|55
+Millchester|-20.092|146.279|AU|Queensland|55
+Milton|55.937|-4.519|GB|Scotland|54
+Millaa Millaa|-17.514|145.613|AU|Queensland|54
+Millry|31.634|-88.313|US|Alabama|54
+Miladhoo|5.791|73.363|MV||54|f
+Mīlam Glacier|30.529|80.073|IN||54|f
+Milan amphitheatre|45.457|9.179|IT|Lombardy|54|f
+Mile High Stadium (historical)|39.747|-105.022|US|Colorado|54|f
+Miles Island|-66.063|101.258|AQ||54|f
+Miles Lake|-30.275|144.745|AU|New South Wales|54|f
+Milestone Mountain|36.633|-118.484|US|California|54|f
+Milford Lake|39.085|-96.954|US|Kansas|54|f
+Milford Sound Airport|-44.675|167.927|NZ|Southland|54|f
+Milk Shakes|46.005|-117.903|US|Washington|54|f
+Mill Bay|50.050|-5.700|GB|England|54|f
+Mill Hill|41.378|-70.519|US|Massachusetts|54|f
+Millard Airport|41.195|-96.113|US|Nebraska|54|f
+Millbrook Mountain|41.708|-74.226|US|New York|54|f
+Millbrook River Reservoir|-34.832|138.810|AU|South Australia|54|f
+Miller Heights|-66.020|-65.190|AQ||54|f
+Miller Lake|43.228|-121.960|US|Oregon|54|f
+Miller Point|-68.940|-63.363|AQ||54|f
+Millerand Island|-68.150|-67.212|AQ||54|f
+Millers Pond State Park|41.483|-72.627|US|Connecticut|54|f
+Millington, Millington Municipal Airport|35.357|-89.870|US|Tennessee|54|f
+Mills Island|38.045|-75.340|US|Maryland|54|f
+Millsite State Park|39.092|-111.193|US|Utah|54|f
+Millstone Bluff|37.469|-88.690|US|Illinois|54|f
+Millville Municipal Airport|39.368|-75.073|US|New Jersey|54|f
+Milman Islet|-11.168|143.016|AU|Queensland|54|f
+Milnes Island|-65.592|-65.020|AQ||54|f
+Milcovu din Deal|44.395|24.390|RO|Olt|54
+Millendon|-31.808|116.037|AU|Western Australia|54
+Miltonvale|39.348|-97.446|US|Kansas|54
+Milköy|36.844|38.785|TR|Şanlıurfa|54
 Milagros|41.575|-3.699|ES|Castille and León|54
 Mildenhall|51.426|-1.700|GB|England|54
 Milpuc|-6.494|-77.435|PE|Amazonas|52
+Milland|51.031|-0.804|GB|England|50
+Milan Ridge|-83.250|156.133|AQ||49|f
+Milden Castle|52.079|0.844|GB|England|49|f
+Mile Island|-40.120|147.910|AU|Tasmania|49|f
+Milk Loch|57.101|-4.847|GB|Scotland|49|f
+Mill Bay|-32.382|152.351|AU|New South Wales|49|f
+Mill Creek Island|39.526|-81.050|US|West Virginia|49|f
+Mill Dam Bridge|40.893|-73.373|US|New York|49|f
+Mill Glacier|-85.167|168.500|AQ||49|f
+Mill Mountain|-79.433|157.867|AQ||49|f
+Mill Peak|-67.967|61.133|AQ||49|f
+Millennium Peak|-77.500|167.450|AQ||49|f
+Miller Glacier|-77.200|162.000|AQ||49|f
+Miller Municipal Airport|44.519|-98.957|US|South Dakota|49|f
+Miller Park|43.029|-87.972|US|Wisconsin|49|f
+Miller Peak|-70.983|162.883|AQ||49|f
+Miller Peak|-78.817|-84.267|AQ||49|f
+Miller Range|-83.167|157.000|AQ||49|f
+Miller Ridge|-70.150|65.517|AQ||49|f
+Miller, Mount|-83.333|165.800|AQ||49|f
+Million Dollar Bridge|60.673|-144.746|US|Alaska|49|f
+Millom Castle|54.221|-3.273|GB|England|49|f
+Mills, Mount|-85.200|165.283|AQ||49|f
+Millstream Falls National Park|-17.632|145.467|AU|Queensland|49|f
+Milson Island|-33.515|151.176|AU|New South Wales|49|f
+Milton Frank Stadium|34.707|-86.604|US|Alabama|49|f
+Milton, Mount|-78.800|-84.800|AQ||49|f
+Milwaukee Peak|37.948|-105.551|US|Colorado|49|f
 Milles de la Polvorosa|41.923|-5.733|ES|Castille and León|48
 Millanes|39.849|-5.581|ES|Extremadura|45
 Millena|38.731|-0.363|ES|Valencia|45
 Millana|40.507|-2.571|ES|Castille-La Mancha|44
 Millbrook|52.039|-0.524|GB|England|42
 Milmarcos|41.086|-1.877|ES|Castille-La Mancha|41
+Miladinovi Islets|-62.475|-60.346|AQ||40|f
+Milandhoo|6.285|73.246|MV||40|f
+Mildread Lane Kemper Art Museum|38.647|-90.303|US|Missouri|40|f
+Mile Square Regional Park|33.725|-117.941|US|California|40|f
+Miles Glacier|60.667|-144.617|US|Alaska|40|f
+Miles Islands|68.475|-112.363|CA|Nunavut|40|f
+Miles Lake|60.680|-144.649|US|Alaska|40|f
+Miliakdjuin Island|65.551|-65.514|CA|Nunavut|40|f
+Military Park|40.740|-74.169|US|New Jersey|40|f
+Military Park|39.770|-86.169|US|Indiana|40|f
+Milk Creek Glacier|44.674|-121.802|US|Oregon|40|f
+Milk Lake|44.540|-76.461|CA|Ontario|40|f
+Milk Lake Glacier|48.151|-121.155|US|Washington|40|f
+Milk River Hills|48.029|-106.302|US|Montana|40|f
+Milk River Ridge Reservoir|49.367|-112.585|CA|Alberta|40|f
+Milkov Point|-63.919|-59.991|AQ||40|f
+Mill Basin Bridge|40.605|-73.898|US|New York|40|f
+Mill Covered Bridge|44.744|-72.741|US|Vermont|40|f
+Mill Creek Bridge|41.904|-91.065|US|Iowa|40|f
+Mill Creek Bridge|42.777|-95.530|US|Iowa|40|f
+Mill Creek Park|41.041|-80.693|US|Ohio|40|f
+Mill Creek Wildlife Management Area|38.481|-82.122|US|West Virginia|40|f
+Mill Ends City Park|45.516|-122.673|US|Oregon|40|f
+Mill Island|63.987|-77.762|CA|Nunavut|40|f
+Mill Lake|45.133|-62.901|CA|Nova Scotia|40|f
+Mill Lake|49.045|-122.310|CA|British Columbia|40|f
+Mill Lake|43.779|-114.640|US|Idaho|40|f
+Mill Mountain|43.800|-74.292|US|New York|40|f
+Mill Pond|42.018|-70.712|US|Massachusetts|40|f
+Mill Pond|41.771|-70.674|US|Massachusetts|40|f
+Mill Race Bridge|43.078|-91.889|US|Iowa|40|f
+Mill River Provincial Park|46.750|-64.165|CA|Prince Edward Island|40|f
+Mill Street-North Clover Street Historic District|41.707|-73.935|US|New York|40|f
+Millard E Tydings Memorial Bridge|39.581|-76.106|US|Maryland|40|f
+Mille Lacs Kathio State Park|46.129|-93.741|US|Minnesota|40|f
+Mille Lacs National Wildlife Refuge|46.179|-93.531|US|Minnesota|40|f
+Millennium Bridge|54.970|-1.600|GB|England|40|f
+Miller Airport|40.713|-85.250|US|Indiana|40|f
+Miller Airstrip|44.594|-122.989|US|Oregon|40|f
+Miller Bridge|41.412|-93.943|US|Iowa|40|f
+Miller Butte|-72.700|160.250|AQ||40|f
+Miller Field|40.568|-74.099|US|New York|40|f
+Miller Lake|44.815|-63.593|CA|Nova Scotia|40|f
+Miller Memorial Airpark|43.965|-117.253|US|Oregon|40|f
+Miller Mountain|35.829|-91.950|US|Arkansas|40|f
+Miller Mountain|38.065|-118.192|US|Nevada|40|f
+Miller Peak|31.393|-110.293|US|Arizona|40|f
+Miller Peninsula|48.021|-122.932|US|Washington|40|f
+Millers Hill|42.061|-70.177|US|Massachusetts|40|f
+Millers Island|49.567|-56.848|CA|Newfoundland and Labrador|40|f
+Millersylvania State Park|46.913|-122.911|US|Washington|40|f
+Millerton Lake|37.021|-119.661|US|California|40|f
+Millesgården|59.358|18.121|SE|Stockholm|40|f
+Millicent Rogers Museum|36.407|-105.573|US|New Mexico|40|f
+Millington Glacier|-84.533|178.000|AQ||40|f
+Millinocket Seaplane Base|45.728|-68.844|US|Maine|40|f
+Mills Glacier|40.256|-105.611|US|Colorado|40|f
+Mills Lake|44.083|-94.147|US|Minnesota|40|f
+Mills Lake|37.403|-118.776|US|California|40|f
+Mills Peak|-74.233|163.900|AQ||40|f
+Millstone Hill|42.617|-71.491|US|Massachusetts|40|f
+Millstone Hill|41.060|-74.240|US|New Jersey|40|f
+Milltown Bridge|35.159|-94.176|US|Arkansas|40|f
+Milne Ice Shelf|82.736|-81.747|CA|Nunavut|40|f
+Milner Dam|42.524|-114.010|US|Idaho|40|f
+Milo McIver State Park|45.306|-122.373|US|Oregon|40|f
+Milosz Point|-61.917|-57.767|AQ||40|f
+Milton Island|44.250|-76.399|CA|Ontario|40|f
+Milton Lake|45.909|-79.865|CA|Ontario|40|f
+Milton Lake|59.500|-103.867|CA|Saskatchewan|40|f
+Milton Pond|43.421|-70.981|US|Maine|40|f
+Milwaukee Art Museum|43.040|-87.897|US|Wisconsin|40|f
+Milwaukee Lake|44.018|-96.963|US|South Dakota|40|f
 Milagro|-31.008|-65.991|AR|La Rioja|0
 Milagro|-3.628|-79.661|EC|El Oro|0
 Milāḩ|14.416|44.786|YE|Al Bayda|0
 Milando|-8.815|17.555|AO|Malanje|0
+Mildenberg|48.615|12.770|DE|Bavaria|0
+Miliang|28.244|109.508|CN|Hunan|0
+Miliangju|41.334|112.455|CN|Inner Mongolia|0
 Millbrook|50.349|-4.215|GB|England|0
 Millington|53.950|-0.733|GB|England|0
 Milston|51.206|-1.769|GB|England|0

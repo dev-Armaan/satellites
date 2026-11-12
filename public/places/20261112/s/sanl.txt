@@ -29,6 +29,8 @@ San Luis del Palmar|-27.508|-58.556|AR|Corrientes|84
 San Lucas Tolimán|14.595|-91.147|GT|Sololá|83
 San Leone Mosè|37.265|13.584|IT|Sicily|82
 Sanlúcar la Mayor|37.388|-6.203|ES|Andalusia|82
+San Luis Valley Regional Airport|37.435|-105.867|US|Colorado|81|f
+San Luis Obispo County Regional Airport|35.238|-120.641|US|California|81|f
 San Lorenzo|-4.817|-76.600|PE|Loreto|80
 San Lucas ( Pueblo Nuevo de Colan)|-4.909|-81.057|PE|Piura|80
 San Lorenzo|18.189|-65.961|PR|San Lorenzo|79
@@ -36,6 +38,7 @@ San Lorenzo|12.378|-85.666|NI|Boaco Department|79
 San Luis|32.432|-116.954|MX|Baja California|79
 San Lucas el Grande|19.306|-98.478|MX|Puebla|79
 San Lorenzo|10.223|-63.925|VE|Sucre|78
+San Luis Río Colorado Airport|32.445|-114.798|MX|Sonora|78|f
 San Luis Acatlán|16.809|-98.734|MX|Guerrero|78
 San Luis|28.433|-113.750|MX|Baja California|78
 Sanluri|39.562|8.900|IT|Sardinia|78
@@ -64,6 +67,7 @@ San Lucas Totolmaloya|20.163|-99.897|MX|México|72
 San Luca|38.147|16.066|IT|Calabria|71
 San Luis Ayucan|19.496|-99.363|MX|México|71
 San Lorenzo Tlacoyucan|19.176|-99.032|MX|Mexico City|71
+Şanlıurfa GAP Airport|37.446|38.902|TR|Şanlıurfa|71|f
 San Lucas Amalinalco|19.270|-98.865|MX|México|71
 San Luis Soyatlán|20.197|-103.306|MX|Jalisco|71
 San Lorenzo Toxico|19.509|-99.763|MX|México|70
@@ -103,6 +107,7 @@ Sanlo|8.226|-3.760|CI|Zanzan District|66
 San Luis|14.749|-87.408|HN|Comayagua Department|66
 San Lorenzo Tlaxipehuala|20.130|-97.974|MX|Puebla|66
 San Lorenzo Nuovo|42.686|11.907|IT|Lazio|66
+San Luis Peak|37.987|-106.931|US|Colorado|65|f
 San Lorenzo Maggiore|41.249|14.624|IT|Campania|65
 San Luis Coyotzingo|19.198|-98.437|MX|Puebla|65
 San Lorenzo Achiotepec|20.598|-98.069|MX|Hidalgo|65
@@ -119,6 +124,9 @@ San Lorenzo Isontino|45.930|13.525|IT|Friuli Venezia Giulia|64
 San Lucas del Pulque|19.101|-100.028|MX|México|64
 San Lorenzo Albarradas|16.907|-96.259|MX|Oaxaca|64
 San Lucas el Viejo|18.677|-97.718|MX|Puebla|63
+San Lorenzo Island|-12.084|-77.222|PE|Callao|63|f
+San Luis Dam|37.059|-121.075|US|California|63|f
+San Luis Obispo Bay|35.166|-120.727|US|California|63|f
 San Lucas Texcaltitlán|19.298|-100.170|MX|México|63
 San Luis Boro|19.813|-99.856|MX|México|63
 San Lucas|20.293|-100.553|MX|Guanajuato|63
@@ -134,6 +142,7 @@ San Lorenzo|17.583|-95.777|MX|Oaxaca|62
 San Luis de Lozada|21.503|-104.705|MX|Nayarit|61
 San Lorenzo|20.467|-100.720|MX|Guanajuato|61
 San Lorenzo Itzícuaro|19.677|-101.281|MX|Michoacán|61
+San Leandro Hills|37.747|-122.096|US|California|61|f
 San Luis de Planes|14.976|-88.125|HN|Santa Bárbara Department|61
 San Lorenzo in Dorsino|46.077|10.908|IT|Trentino-Alto Adige|61
 San Luis del Agua Caliente|20.382|-102.824|MX|Jalisco|61
@@ -148,17 +157,54 @@ San Luis de Letras|22.137|-102.296|MX|Aguascalientes|60
 San Luqueño|16.013|-93.846|MX|Chiapas|60
 San Lorenzo Xaltelulco|19.341|-98.106|MX|Tlaxcala|60
 San Leoncio Jamaya|20.313|-97.579|MX|Veracruz|60
+San Lorenzo|20.336|-97.320|MX|Veracruz|60
 San Luis de Shuaro|-10.888|-75.287|PE|Junin|60
 San Lorenzo|15.031|-91.735|GT|San Marcos|60
 San Lucas|13.414|-86.611|NI|Madriz Department|59
+San Luis de Custique|21.978|-102.870|MX|Zacatecas|59
+San Lorenzo in Noceto|44.161|12.006|IT|Emilia-Romagna|59
+San Lázaro Etla|17.216|-96.825|MX|Oaxaca|59
+San Luis el Alto|19.301|-99.924|MX|México|59
+San Lorenzo|20.027|-100.486|MX|Guanajuato|59
+San Luis del Jánamo (El Morado)|20.589|-101.454|MX|Guanajuato|58
+San Lucas Tepango|19.647|-98.861|MX|México|58
+San Lorenzo|29.814|-107.076|MX|Chihuahua|58
+San Lorenzo|21.940|-105.080|MX|Nayarit|58
+San Lucas Teacalco|19.981|-99.361|MX|Hidalgo|58
+San Luis Gonzaga|22.069|-101.293|MX|San Luis Potosí|58
+San Luis Morelia|17.703|-98.214|MX|Oaxaca|58
+San Lorenzo Viejo|25.953|-109.301|MX|Sinaloa|58
+San Lucas|24.191|-103.101|MX|Zacatecas|58
+San Luis Rey|20.570|-100.787|MX|Guanajuato|58
 San Lorenzo Cuaunecuiltitla|18.207|-96.913|MX|Oaxaca|58
 San Lorenzello|41.276|14.542|IT|Campania|58
+San Leonardo di Cutro|38.952|16.981|IT|Calabria|58
 San Luis Amatlán|16.389|-96.497|MX|Oaxaca|57
+San Leonardo|46.098|12.682|IT|Friuli Venezia Giulia|57
+San Lucas|18.356|-97.622|MX|Puebla|57
 San Lupo|41.261|14.635|IT|Campania|57
+San Lázaro|-22.107|-57.962|PY|Concepción|57
+San Lorenzo Pápalo|17.885|-96.880|MX|Oaxaca|57
+San Lorenzo|-5.540|-78.823|PE|Cajamarca Department|57
+San Lorenzo|22.559|-100.648|MX|San Luis Potosí|57
+San Lorenzo Octeyuco|19.961|-99.601|MX|México|57
+San Leonel|21.350|-104.702|MX|Nayarit|56
+San Luis Potosí|16.604|-91.646|MX|Chiapas|56
+San Lucas|19.712|-99.455|MX|México|56
 San Lorenzo Bellizzi|39.889|16.330|IT|Calabria|56
 San Luis|37.201|-105.424|US|Colorado|56
+San Lucas|20.912|-100.936|MX|Guanajuato|56
+San Liberato|42.481|12.441|IT|Umbria|55
+San Lorenzo|45.999|12.998|IT|Friuli Venezia Giulia|55
+San Luis (Guadalupe)|16.936|-91.631|MX|Chiapas|55
+San Leopoldo|18.382|-95.315|MX|Veracruz|55
+San Leanna|30.146|-97.818|US|Texas|55
 San Lawrenz|36.055|14.204|MT|Saint Lawrence|54
+San Lucas Tlanichico|16.972|-96.808|MX|Oaxaca|54
+San Lorenzo|21.906|-100.868|MX|San Luis Potosí|54
+San Lorenzo|44.349|7.592|IT|Piedmont|54
 San Lorenzo Victoria|17.669|-98.120|MX|Oaxaca|54
+San Lorenzo el Chico|20.257|-99.770|MX|Hidalgo|54
 San Lorenzo|28.154|-106.477|MX|Chihuahua|53
 San Lucas Zoquiápam|18.136|-96.905|MX|Oaxaca|52
 San Lorenzo|44.173|8.244|IT|Liguria|51
@@ -170,6 +216,11 @@ San Leo|43.896|12.345|IT|Emilia-Romagna|46
 San Llorente|41.686|-4.066|ES|Castille and León|45
 San Leonardo|45.824|7.181|IT|Aosta Valley|44
 San Leonardo|46.119|13.531|IT|Friuli Venezia Giulia|41
+San Lázaro Roman aqueduct|38.921|-6.335|ES|Extremadura|40|f
+San Leandro Bay|37.751|-122.224|US|California|40|f
+San Luis Mountains|31.540|-111.378|US|Arizona|40|f
+San Luis National Wildlife Refuge|37.178|-120.805|US|California|40|f
+San Luis Reservoir|37.057|-121.121|US|California|40|f
 San Lorenzo|46.127|8.201|IT|Piedmont|39
 San Lorenzo de Tormes|40.370|-5.488|ES|Castille and León|35
 San Lorenzo|-32.743|-60.736|AR|Santa Fe|0
@@ -188,4 +239,17 @@ San Luis|11.120|-69.684|VE|Falcón|0
 San Luis de Lucma|-6.294|-78.604|PE|Cajamarca Department|0
 San Luis de Pambil|-1.234|-79.240|EC|Bolívar|0
 San Luis Grande|-7.157|-78.868|PE|Cajamarca Department|0
+Sanlanbahai|35.855|102.433|CN|Qinghai|0
 Sanlei|38.626|103.088|CN|Gansu|0
+Sanli|28.681|116.378|CN|Jiangxi|0
+Sanli|34.169|109.308|CN|Shaanxi|0
+Sanli|30.775|118.255|CN|Anhui|0
+Sanli|30.624|109.904|CN|Hubei|0
+Sanlian|29.042|120.345|CN|Zhejiang|0
+Sanlicheng|31.800|114.204|CN|Hubei|0
+Sanlidian|30.883|119.400|CN|Anhui|0
+Sanlifan|30.836|115.267|CN|Hubei|0
+Sanligang|31.494|113.073|CN|Hubei|0
+Sanling|44.166|129.109|CN|Heilongjiang|0
+Sanlong|33.418|120.511|CN|Jiangsu|0
+Sanlong|29.385|117.145|CN|Jiangxi|0

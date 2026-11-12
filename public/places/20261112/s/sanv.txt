@@ -46,6 +46,7 @@ San Valentino|45.790|13.412|IT|Friuli Venezia Giulia|70
 San Vicente|18.507|122.150|PH|Cagayan Valley|70
 San Vicente|6.454|124.780|PH|Soccsksargen|70
 San Vito di Leguzzano|45.685|11.389|IT|Veneto|70
+San Vito de Java Airport|8.826|-82.959|CR|Puntarenas Province|70|f
 San Vicente|13.897|122.205|PH|Calabarzon|70
 San Vicente la Mesilla|16.179|-92.293|MX|Chiapas|69
 San Vicente|13.574|123.053|PH|Bicol Region|69
@@ -71,6 +72,7 @@ San Venanzio|44.745|11.437|IT|Emilia-Romagna|64
 San Vito Sullo Ionio|38.707|16.409|IT|Calabria|64
 San Vito|46.463|12.206|IT|Veneto|64
 San Vito|45.755|11.916|IT|Veneto|64
+San Vicente de Tagua Tagua Peralillo Airport|-34.449|-71.386|CL|O'Higgins Region|63|f
 San Vigilio|46.699|11.931|IT|Trentino-Alto Adige|63
 San Vicente el Alto|20.568|-100.165|MX|Querétaro|63
 San Vito al Mantico|45.472|10.892|IT|Veneto|63
@@ -81,6 +83,7 @@ San Vicente Lachixío|16.704|-97.019|MX|Oaxaca|62
 San Vicente de la Sonsierra|42.563|-2.761|ES|La Rioja|62
 San Vicente (Calpulalpan Tercera Manzana)|20.037|-99.642|MX|México|62
 San Vicente Palapa|18.324|-99.410|MX|Guerrero|61
+San Vicente Airport|10.522|119.271|PH|Mimaropa|61|f
 San Victor|18.259|-88.576|BZ|Corozal District|61
 San Vito|44.558|10.974|IT|Emilia-Romagna|61
 San Vito|45.419|11.962|IT|Veneto|61
@@ -91,15 +94,40 @@ San Vicente|19.649|-103.251|MX|Jalisco|60
 San Vicente Piñas|16.785|-98.060|MX|Oaxaca|60
 San Vicente de Flores|20.622|-101.254|MX|Guanajuato|60
 San Venanzo|42.869|12.269|IT|Umbria|60
+San Vicente de Paúl|-7.005|-77.923|PE|La Libertad|60
 San Vito di Fagagna|46.091|13.066|IT|Friuli Venezia Giulia|60
+San Vitale Grande|44.548|11.291|IT|Emilia-Romagna|60
 San Vittore del Lazio|41.462|13.934|IT|Lazio|59
+San Vicente de Garma (Garma)|20.427|-101.211|MX|Guanajuato|59
+San Vicente|20.468|-100.544|MX|Guanajuato|59
+San Vicente|19.276|-101.846|MX|Michoacán|59
+San Vito|45.417|9.014|IT|Lombardy|59
+San Valentín|8.367|-82.780|PA|Chiriquí Province|58
+San Vicente de Chupaderos|24.118|-104.714|MX|Durango|58
+San Vittore|46.237|9.107|CH|Grisons|57
 San Vincenzo la Costa|39.365|16.151|IT|Calabria|57
 San Vitero|41.777|-6.349|ES|Castille and León|56
+San Vicente|21.967|-99.764|MX|San Luis Potosí|56
+San Vicente|8.592|-82.637|PA|Chiriquí Province|56
+San Vincenzo a Torri|43.701|11.096|IT|Tuscany|56
+San Vittore|45.430|11.222|IT|Veneto|56
+San Valentino alla Muta|46.764|10.534|IT|Trentino-Alto Adige|56
+San Vicente Amole|17.350|-98.710|MX|Guerrero|56
+San Vitale|43.046|12.638|IT|Umbria|56
+San Vicente Yogodoy|16.069|-96.617|MX|Oaxaca|55
+San Vincenzo Valle Roveto Superiore|41.833|13.524|IT|Abruzzo|55
+San Vicente el Chico|19.778|-100.481|MX|Michoacán|55
+San Vicente|16.956|-92.923|MX|Chiapas|55
 San Vicente de la Cabeza|41.807|-6.250|ES|Castille and León|55
+Sanvensa|44.292|2.049|FR|Occitanie|54
+San Vittorino|42.398|13.315|IT|Abruzzo|54|f
+San Vicente de Jesús|17.278|-100.270|MX|Guerrero|54
+San Venanzio|44.499|10.857|IT|Emilia-Romagna|54
 San Vicente Nuñú|17.456|-97.443|MX|Oaxaca|50
 San Vicente del Palacio|41.219|-4.852|ES|Castille and León|47
 San Vicente de Arévalo|40.968|-4.802|ES|Castille and León|47
 San Vincenzo Valle Roveto|41.845|13.536|IT|Abruzzo|47
+San Vicente Reservoir|32.930|-116.906|US|California|40|f
 San Vicente del Valle|42.338|-3.162|ES|Castille and León|36
 San Vicente|-0.590|-80.407|EC|Manabí|0
 San Vicente|-0.304|-76.536|EC|Sucumbíos|0

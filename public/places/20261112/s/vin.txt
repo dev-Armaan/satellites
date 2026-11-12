@@ -1,4 +1,4 @@
-Vinnytsia|49.234|28.466|UA||119|r
+Vinnytsia|49.234|28.466|UA||120|r
 Vinh|18.673|105.692|VN|Nghệ An Province|118
 Vinnytsya|49.232|28.469|UA|Vinnytsia|113
 Viña del Mar|-33.025|-71.552|CL|Valparaiso|110
@@ -12,11 +12,14 @@ Vinukonda|16.053|79.740|IN|Andhra Pradesh|96
 Vineland|39.486|-75.026|US|New Jersey|96
 Vinhomes Ocean Park|20.995|105.947|VN|Hanoi|96
 Vinto|-17.391|-66.317|BO|Cochabamba|95
+Vindhya Range|24.617|82.000|IN||95|f
 Vinhomes Smart City|21.005|105.740|VN|Hanoi|94
 Vinhomes Times City|20.994|105.868|VN|Hanoi|94
 Vincennes|48.849|2.438|FR|Île-de-France|93
 Vinzons|14.174|122.907|PH|Bicol Region|93
+Vinson Massif|-78.583|-85.417|AQ||93|f
 Vinces|-1.556|-79.752|EC|Los Ríos|90
+Vinh Airport|18.738|105.671|VN|Nghệ An Province|89|f
 Vinaròs|40.470|0.476|ES|Valencia|89
 Vinkovci|45.288|18.805|HR|Vukovar-Srijem|89
 Viñales|22.619|-83.707|CU|Pinar del Río|89
@@ -29,12 +32,14 @@ Vincennes|38.677|-87.529|US|Indiana|85
 Vinateros|40.405|-3.642|ES|Madrid|85
 Vincent|34.501|-118.116|US|California|84
 Vincent|34.098|-117.924|US|California|84
+Vincent Thomas Brücke|33.749|-118.271|US|California|83|f
 Vinchia|22.210|71.380|IN|Gujarat|82
 Vinzili|56.959|65.771|RU|Tyumen Oblast|81
 Vinohrady|49.207|16.663|CZ|South Moravian|81
 Vincent Square|51.493|-0.132|GB|England|80
 Vinovo|44.947|7.633|IT|Piedmont|80
 Vinings|33.865|-84.464|US|Georgia|80
+Viña del Mar Airport|-32.950|-71.479|CL|Valparaiso|80|f
 Vinogradovo|55.947|37.538|RU|Moscow Oblast|80
 Vinhais|41.835|-7.005|PT|Bragança|79
 Vinsady|44.081|42.965|RU|Stavropol Kray|79
@@ -52,6 +57,7 @@ Vinton|42.169|-92.024|US|Iowa|74
 Vincendo|-21.371|55.670|RE|Reunion|74
 Vinderei|46.150|27.800|RO|Vaslui County|73
 Vingåker|59.043|15.874|SE|Södermanland|73
+Viñamar Airport|-33.357|-71.354|CL|Valparaiso|72|f
 Vineland|43.151|-79.394|CA|Ontario|72
 Vinslöv|56.100|13.917|SE|Skåne|72
 Vinay|45.208|5.406|FR|Auvergne-Rhône-Alpes|72
@@ -63,12 +69,14 @@ Vinon-sur-Verdon|43.725|5.812|FR|Provence-Alpes-Côte d'Azur|70
 Vinogradnyy|45.056|37.321|RU|Krasnodar Krai|70
 Vindinge|55.623|12.139|DK|Zealand|70
 Vineyard|40.297|-111.747|US|Utah|70
+Vịnh Côn Sơn|8.671|106.633|VN|Ho Chi Minh City (HCMC)|70|f
 Vincentia|-35.068|150.675|AU|New South Wales|70
 Vințu de Jos|45.995|23.486|RO|Alba County|70
 Vinderup|56.482|8.780|DK|Central Jutland|70
 Vĩnh Lộc|18.449|105.721|VN|Hà Tĩnh Province|70
 Vinchina|-28.760|-68.207|AR|La Rioja|69
 Viničné|48.272|17.302|SK|Bratislava Region|69
+Vinicunca|-13.874|-71.300|PE|Cuzco Department|69|f
 Vinstra|61.595|9.751|NO|Innlandet|69
 Vinalesa|39.533|-0.367|ES|Valencia|68
 Viñas del Sol|32.627|-115.547|MX|Baja California|68
@@ -77,6 +85,7 @@ Vindeln|64.202|19.719|SE|Västerbotten|68
 Vindeby|55.045|10.613|DK|South Denmark|67
 Vinkeveen|52.215|4.934|NL|Utrecht|67
 Vintrosa|59.250|14.950|SE|Örebro|67
+Vinnufjellet|62.691|8.653|NO|Møre og Romsdal|67|f
 Vinnitsy|60.629|34.773|RU|Leningradskaya Oblast'|67
 Vincey|48.337|6.331|FR|Grand Est|67
 Vintileasca|45.608|26.706|RO|Vrancea|67
@@ -86,6 +95,8 @@ Vincent|33.385|-86.412|US|Alabama|67
 Vineyard Haven|41.454|-70.601|US|Massachusetts|67
 Vinton|31.951|-106.602|US|Texas|66
 Vinita Park|38.690|-90.343|US|Missouri|66
+Vịnh Cam Ranh|11.896|109.171|VN|Khanh Hoa|65|f
+Vintter Lake|-43.934|-71.626|AR||65|f
 Vinça|42.645|2.528|FR|Occitanie|65
 Vinningen|49.156|7.552|DE|Rheinland-Pfalz|65
 Vinchiaturo|41.493|14.592|IT|Molise|65
@@ -104,6 +115,10 @@ Vinderhoute|51.088|3.642|BE|Flanders|61
 Vinež|45.098|14.107|HR|Istria|61
 Vineuil|46.900|1.635|FR|Centre-Val de Loire|61
 Vintířov|50.234|12.717|CZ|Carlsbad Region|61
+Vindö|59.350|18.700|SE|Stockholm|61|f
+Vindolanda|54.991|-2.361|GB|England|61|f
+Vindonissa|47.483|8.220|CH|Aargau|61|f
+Viničko Kale|41.877|22.503|MK|Vinica|61|f
 Vinsobres|44.333|5.062|FR|Auvergne-Rhône-Alpes|61
 Vinnytske|44.981|33.739|UA|Crimea|60
 Vinninga|58.450|13.267|SE|Västra Götaland|60
@@ -112,17 +127,68 @@ Vintileanca|44.985|26.580|RO|Buzău County|60
 Vinuesa|41.910|-2.765|ES|Castille and León|60
 Vintere|46.769|22.147|RO|Bihor County|60
 Vineland|46.164|-93.757|US|Minnesota|60
+Vinogradovo|55.427|38.536|RU|Moscow Oblast|60
 Vinica|46.336|16.149|HR|Varaždin|60
+Vincelles|47.703|3.633|FR|Bourgogne-Franche-Comté|60
+Vincente Guerrero|19.059|-97.817|MX|Puebla|59
+Vindelle|45.720|0.121|FR|New Aquitaine|59
+Víniani|38.989|21.687|GR|Central Greece|59
+Vincenzo Magliocco Airport|36.996|14.609|IT|Sicily|58|f
+Vindafjorden|59.333|5.917|NO|Rogaland|58|f
+Vineuo|-9.333|150.200|PG|Milne Bay Province|58|f
+Viney Mountain|38.163|-80.265|US|West Virginia|58|f
+Vinjevatn|59.608|7.854|NO|Telemark|58|f
+Vinstre|61.327|8.836|NO|Innlandet|58|f
+Vinețești|46.630|27.901|RO|Vaslui County|58
+Vintrie|55.550|12.967|SE|Skåne|58
+Vinzelles|46.273|4.768|FR|Bourgogne-Franche-Comté|57
+Vinograd|43.333|25.833|BG|Veliko Tarnovo|57
+Vinzier|46.349|6.619|FR|Auvergne-Rhône-Alpes|57
+Vingard|46.013|23.747|RO|Alba County|57
+Vinogradi Ludbreški|46.235|16.629|HR|Varaždin|57
 Vinchos|-13.242|-74.354|PE|Ayacucho|57
+Vinišće|43.490|16.113|HR|Split-Dalmatia|56
+Vinkuran|44.836|13.862|HR|Istria|56
+Vinnytski Stavy|50.010|30.122|UA|Kyiv Oblast|56
+Viničani|41.601|21.898|MK|Gradsko|56
+Vins-sur-Caramy|43.434|6.142|FR|Provence-Alpes-Côte d'Azur|56
+Vinberg|56.950|12.544|SE|Halland|56
+Viñas|-12.416|-74.862|PE|Huancavelica|56
+Viñedos Rivier|21.978|-102.286|MX|Aguascalientes|55
+Vinoté|17.148|-92.511|MX|Chiapas|55
 Vinaixa|41.433|0.983|ES|Catalonia|55
+Vinchos|-10.440|-76.284|PE|Pasco|55
+Vince Genna Stadium|44.043|-121.299|US|Oregon|54|f
+Vindegghallet Glacier|-71.817|11.250|AQ||54|f
+Vineyard Airport|45.047|-123.233|US|Oregon|54|f
+Vinga|57.633|11.605|SE|Västra Götaland|54|f
+Vinje Glacier|-71.917|8.000|AQ||54|f
+Vinjefjorden|63.173|8.564|NO|Møre og Romsdal|54|f
+Vintage Flying Museum|32.813|-97.356|US|Texas|54|f
+Vinten-Johansen Ridge|-71.800|8.950|AQ||54|f
+Vingrau|42.849|2.778|FR|Occitanie|54
+Vinto Bajo|-10.689|-77.695|PE|Lima region|54
+Vinay|49.011|3.899|FR|Grand Est|54
 Vinebre|41.185|0.589|ES|Catalonia|53
 Vinadio|44.308|7.176|IT|Piedmont|52
 Vinchio|44.811|8.321|IT|Piedmont|52
+Vincent Islands|-54.150|-37.267|GS||49|f
+Vindication Island|-57.067|-26.767|GS||49|f
+Vinjeronden|61.904|9.848|NO|Innlandet|49|f
+Vinnufossen|62.659|8.657|NO|Møre og Romsdal|49|f
+Vintgar|46.400|14.100|SI|Municipality of Bled|49|f
 Viñac|-12.931|-75.779|PE|Lima region|48
 Vingt Cinq|-10.388|56.618|MU|Agalega Islands|48
 Vinzaglio|45.323|8.520|IT|Piedmont|47
 Viñuelas|40.792|-3.340|ES|Castille-La Mancha|41
 Viniegra de Abajo|42.151|-2.889|ES|La Rioja|41
+Vincents Lake|45.712|-62.155|CA|Nova Scotia|40|f
+Vine Street Bridge|42.954|-91.808|US|Iowa|40|f
+Vinegar Hill|42.245|-74.394|US|New York|40|f
+Vinegar Hill|44.714|-118.561|US|Oregon|40|f
+Vineland-Downstown Airport|39.539|-74.966|US|New Jersey|40|f
+Vines Botanical Gardens|33.862|-83.923|US|Georgia|40|f
+Vineyard Lake|42.085|-84.210|US|Michigan|40|f
 Viñegra de Moraña|40.851|-4.921|ES|Castille and León|38
 Viniegra de Arriba|42.095|-2.833|ES|La Rioja|33
 Vindel|40.587|-2.381|ES|Castille-La Mancha|30

@@ -6,6 +6,7 @@ Grünstadt|49.563|8.163|DE|Rheinland-Pfalz|83
 Grumo Appula|41.011|16.708|IT|Apulia|82
 Grunewald|52.483|13.266|DE|State of Berlin|81
 Grünwald|48.039|11.523|DE|Bavaria|81
+Grunwaldzki Bridge|51.109|17.053|PL|Lower Silesia|78|f
 Grünheide|52.423|13.813|DE|Brandenburg|78
 Gruiu|44.733|26.233|RO|Ilfov|77
 Grumello del Monte|45.635|9.875|IT|Lombardy|76
@@ -15,11 +16,13 @@ Gruiten|51.218|7.011|DE|North Rhine-Westphalia|74
 Grums|59.351|13.111|SE|Värmland|74
 Grubbenvorst|51.420|6.146|NL|Limburg|74
 Grude|43.372|17.414|BA|Federation of B&H|73
+Grübelekopf|47.001|10.389|AT||72|f
 Grushevskaya|47.441|39.951|RU|Rostov|72
 Grunuovo-Campomaggiore San Luca|41.272|13.807|IT|Lazio|72
 Grünburg|47.972|14.265|AT|Upper Austria|72
 Grünsfeld|49.609|9.747|DE|Baden-Wurttemberg|72
 Gruitrode|51.089|5.588|BE|Flanders|71
+Grumentum|40.285|15.907|IT|Basilicate|71|f
 Gruissan|43.108|3.087|FR|Occitanie|70
 Grub|50.103|11.929|DE|Bavaria|70
 Gruia|44.267|22.705|RO|Mehedinți County|70
@@ -36,6 +39,7 @@ Grumolo delle Abbadesse|45.517|11.672|IT|Veneto|67
 Grünau im Almtal|47.855|13.956|AT|Upper Austria|66
 Grünendeich|53.570|9.612|DE|Lower Saxony|66
 Grünbach|50.450|12.362|DE|Saxony|66
+Gruber Mountains|-71.373|13.381|AQ||65|f
 Gruetli-Laager|35.372|-85.618|US|Tennessee|65
 Grunthal|49.407|-96.859|CA|Manitoba|65
 Gruyères|46.583|7.082|CH|Fribourg|64
@@ -44,6 +48,8 @@ Grua|60.257|10.662|NO|Akershus|64
 Grüt|47.312|8.783|CH|Zurich|64
 Grudusk|53.058|20.625|PL|Mazovia|64
 Grünbach am Schneeberg|47.797|15.988|AT|Lower Austria|63
+Grunay|60.421|-0.741|GB|Scotland|63|f
+Grünsee|47.502|12.953|DE|Bavaria|63|f
 Gruaro-Bagnara|45.842|12.851|IT|Veneto|63
 Grumello Cremonese|45.194|9.864|IT|Lombardy|63
 Grupiara|-18.494|-47.722|BR|Minas Gerais|63
@@ -56,9 +62,72 @@ Gruson|50.596|3.208|FR|Hauts-de-France|62
 Gruver|36.265|-101.406|US|Texas|62
 Gruszów Wielki|50.192|21.031|PL|Lesser Poland|62
 Grumento Nova|40.283|15.889|IT|Basilicate|61
+Grünstein|47.594|12.966|DE|Bavaria|61|f
+Gruža Lake|43.925|20.678|RS||61|f
 Grumolo Pedemonte|45.724|11.492|IT|Veneto|60
 Grube|54.230|11.037|DE|Schleswig-Holstein|60
+Grugny|49.623|1.106|FR|Normandy|60
+Grundhof|54.771|9.653|DE|Schleswig-Holstein|60
 Grundy|37.278|-82.099|US|Virginia|60
+Gruziny|56.936|35.045|RU|Tver Oblast|60
+Gruiu|44.233|26.418|RO|Călărași County|59
+Grugies|49.812|3.268|FR|Hauts-de-France|59
+Grundarfjörður|64.924|-23.263|IS|West|59
+Gruda|42.518|18.374|HR|Dubrovnik-Neretva|59
+Grubine|43.430|17.163|HR|Split-Dalmatia|58
+Grussenheim|48.146|7.487|FR|Grand Est|58
+Grunewald Tower|52.478|13.197|DE|State of Berlin|58|f
+Gruppo dell'Adamello|46.167|10.583|IT|Trentino-Alto Adige|58|f
+Grunwald|53.484|20.094|PL|Warmia-Masuria|58
+Grues|46.399|-1.304|FR|Pays de la Loire|58
+Gruiu|44.735|25.070|RO|Arges|57
+Grupčin|41.967|21.131|MK|Zhelino|57
+Gruchet-Saint-Siméon|49.819|0.894|FR|Normandy|57
+Grumezoaia|46.557|28.038|RO|Vaslui County|57
+Grury|46.676|3.911|FR|Bourgogne-Franche-Comté|57
+Grundsund|58.212|11.419|SE|Västra Götaland|56
+Grünewald|51.400|14.000|DE|Brandenburg|56
+Grub|48.079|16.112|AT|Lower Austria|56
+Grutti|42.849|12.477|IT|Umbria|56
+Grünbach|48.538|14.536|AT|Upper Austria|55
+Grünbichl|48.349|14.523|AT|Upper Austria|55
+Grünebach|50.783|7.900|DE|Rheinland-Pfalz|55
+Grumbach|49.650|7.567|DE|Rheinland-Pfalz|55
+Grundviller|49.044|6.972|FR|Grand Est|55
+Grundarhverfi|64.241|-21.837|IS|Capital Region|54
+Grubb Glacier|-64.950|-62.683|AQ||54|f
+Gruinard Island|57.883|-5.467|GB|Scotland|54|f
+Grumeti River|-2.159|34.222|TZ|Mara|54|f
+Grundarfjörður Airport|64.991|-23.225|IS|West|54|f
+Grunden Rock|-63.394|-56.973|AQ||54|f
+Grunehogna Peaks|-72.033|-2.750|AQ||54|f
+Grüner See|47.467|14.400|AT|Styria|54|f
+Gruney Island|60.650|-1.300|GB|Scotland|54|f
+Grungstadvatnet|64.592|12.210|NO|Trøndelag|54|f
+Grünhorn|46.535|8.076|CH|Valais|54|f
+Grünsee|47.283|13.983|AT|Styria|54|f
+Grünten|47.552|10.311|DE|Bavaria|54|f
+Gruzinskoye Ushchel’ye|43.291|40.277|GE|Abkhazia|54
+Grünau|-27.734|18.380|NA|Karas Region|54
 Grumes|46.221|11.293|IT|Trentino-Alto Adige|50
+Gruda|43.931|17.884|BA|Federation of B&H|49|f
+Gruinard Bay|57.883|-5.517|GB|Scotland|49|f
+Grundgraben|46.733|13.367|AT|Carinthia|49|f
+Grundy Municipal Airport|37.233|-82.125|US|Virginia|49|f
+Gruppo delle Grigne|45.933|9.383|IT|Lombardy|49|f
+Grutness Voe|59.876|-1.279|GB|Scotland|49|f
+Grub|50.550|10.633|DE|Thuringia|47
+Grundsheim|48.167|9.667|DE|Baden-Wurttemberg|46
+Gruendler Glacier|-72.633|167.467|AQ||40|f
+Grugapark|51.428|6.989|DE|North Rhine-Westphalia|40|f
+Grulla National Wildlife Refuge|34.088|-103.076|US|New Mexico|40|f
+Grundy Lake Provincial Park|45.942|-80.541|CA|Ontario|40|f
+Grüneburgpark|50.126|8.661|DE|Hesse|40|f
+Gruner Hill|37.722|-90.455|US|Missouri|40|f
 Grudë-Fushë|42.162|19.497|AL|Shkodër County|0
 Gruemirë|42.159|19.519|AL|Shkodër County|0
+Grugul|-8.101|113.792|ID|East Java|0
+Grujugan|-7.778|114.006|ID|East Java|0
+Grujugan|-7.128|113.538|ID|East Java|0
+Grujugan|-7.029|113.616|ID|East Java|0
+Grünow|53.316|13.948|DE|Brandenburg|0

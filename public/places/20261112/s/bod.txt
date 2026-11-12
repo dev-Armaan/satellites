@@ -7,6 +7,7 @@ Bodrum|37.038|27.429|TR|Muğla|92
 Bodh Gaya|24.698|84.987|IN|Bihar|92
 Bodocó|-7.778|-39.941|BR|Pernambuco|91
 Bodø|67.283|14.375|NO|Nordland|91
+Bodiam Castle|51.002|0.544|GB|England|87|f
 Bodegraven|52.083|4.750|NL|South Holland|86
 Bodrī|22.023|82.114|IN|Chhattisgarh|85
 Bodmin|50.472|-4.724|GB|England|85
@@ -17,14 +18,17 @@ Bodden Town|19.276|-81.254|KY|Bodden Town|83
 Bodri|23.165|81.433|IN|Madhya Pradesh|83
 Bodeli|22.273|73.716|IN|Gujarat|82
 Boda|4.319|17.470|CF|Lobaye|81
+Bodaybo Airport|57.865|114.242|RU|Irkutsk Oblast|80|f
 Bodo|11.787|15.715|TD|Chari-Baguirmi|80
 Bodoquena|-20.539|-56.715|BR|Mato Grosso do Sul|79
+Bodø Airport|67.269|14.365|NO|Nordland|77|f
 Bodenheim|49.935|8.320|DE|Rheinland-Pfalz|77
 Bodenwerder|51.972|9.519|DE|Lower Saxony|76
 Bodelshausen|48.389|8.977|DE|Baden-Wurttemberg|75
 Bodo|5.910|-4.685|CI|Lagunes District|75
 Bodenkirchen|48.383|12.383|DE|Bavaria|75
 Bodokro|7.861|-5.477|CI|Vallée du Bandama District|75
+Bodrum-Imsik Airport|37.140|27.670|TR|Muğla|74|f
 Bodeşti|47.033|26.417|RO|Neamț County|74
 Boduaso|7.706|-6.396|CI|Sassandra-Marahoue|73
 Bodman-Ludwigshafen|47.818|9.055|DE|Baden-Wurttemberg|73
@@ -40,6 +44,8 @@ Bodega|14.923|120.480|PH|Central Luzon|68
 Bodé|16.444|-14.352|SN|Saint-Louis|68
 Bodoc|45.950|25.850|RO|Covasna County|68
 Bodó|-5.988|-36.413|BR|Rio Grande do Norte|67
+Bodai Dam|35.152|140.107|JP|Chiba|67|f
+Bodega Head|38.311|-123.066|US|California|67|f
 Bodzentyn|50.941|20.957|PL|Świętokrzyskie|67
 Bodio|45.790|8.751|IT|Lombardy|66
 Bodio Lomnago|45.789|8.751|IT|Lombardy|66
@@ -48,6 +54,8 @@ Bodafors|57.500|14.700|SE|Jönköping|66
 Bodfish|35.588|-118.492|US|California|66
 Bodelwyddan|53.268|-3.501|GB|Wales|65
 Bodeștii de Jos|47.028|26.445|RO|Neamț County|65
+Bodenschneid|47.672|11.837|DE|Bavaria|63|f
+Bodie Island|35.894|-75.590|US|North Carolina|63|f
 Bodilis|48.530|-4.117|FR|Brittany|63
 Bodle Street|50.913|0.343|GB|England|63
 Bodzanów|52.500|20.029|PL|Mazovia|62
@@ -61,8 +69,41 @@ Bodega Bay|38.333|-123.048|US|California|61
 Bodonal de la Sierra|38.148|-6.559|ES|Extremadura|60
 Bodedern|53.292|-4.503|GB|Wales|60
 Bodio|46.378|8.910|CH|Ticino|60
+Bodou|9.035|-6.043|CI|Savanes District|58
+Bodakva|50.300|33.418|UA|Poltava|58
+Bodega Harbor|38.324|-123.048|US|California|58|f
+Bodie Hills|38.256|-119.090|US|California|58|f
+Bodie Mountains|38.289|-118.870|US|Nevada|58|f
+Bodensee|51.606|10.133|DE|Lower Saxony|58
+Bodogaia|46.275|24.997|RO|Harghita County|58
+Bodo|8.445|-3.852|CI|Zanzan District|57
+Bodalla|-36.091|150.051|AU|New South Wales|57
+Bodelwitz|50.688|11.622|DE|Thuringia|56
+Boda|60.250|18.383|SE|Uppsala|55
+Boden|50.474|7.857|DE|Rheinland-Pfalz|55
+Boder|47.527|14.375|AT|Styria|55
+Boda|61.017|15.217|SE|Dalarna|54
+Bodo|45.816|21.884|RO|Timiș County|54
+Bodman Point|-64.242|-56.800|AQ||54|f
+Bodamalai Betta|11.917|77.555|IN|Tamil Nadu|49|f
+Bodine's Bridge|41.503|-74.264|US|New York|49|f
+Bodstedter Bodden|54.394|12.625|DE|Mecklenburg-Vorpommern|49|f
+Bodu|29.329|67.125|PK|Balochistan|49|f
+Bodenbach|50.317|6.850|DE|Rheinland-Pfalz|48
+Bode museum|52.522|13.394|DE|State of Berlin|40|f
+Bodega Marine Reserve|38.307|-123.066|US|California|40|f
+Bodega Ridge Park|48.956|-123.532|CA|British Columbia|40|f
+Bodelwyddan Castle|53.261|-3.502|GB|Wales|40|f
+Bodnant Garden|53.234|-3.798|GB|Wales|40|f
+Bodufinolhu|2.028|73.372|MV|Laamu|40|f
+Bodufolhudhoo|4.186|72.773|MV||40|f
+Bodzentyn - ruiny zamku|50.942|20.952|PL|Świętokrzyskie|40|f
+Bodziony, Mount|-74.567|-111.900|AQ||40|f
+Bodak|-8.654|116.310|ID|West Nusa Tenggara|0
 Bode Osi|7.749|4.228|NG|Osun State|0
+Bodeh|-6.836|111.132|ID|Central Java|0
 Bodenham|52.150|-2.683|GB|England|0
+Bodenteich|52.831|10.682|DE|Lower Saxony|0
 Bodĭ|45.412|100.574|MN|Bayankhongor|0
 Bodinga|12.844|5.150|NG|Sokoto|0
 Bodoquena|-20.551|-56.676|BR|Mato Grosso do Sul|0

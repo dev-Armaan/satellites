@@ -16,9 +16,9 @@ Tangerang|-6.178|106.630|ID|Banten|126
 Tainan|22.993|120.205|TW|Taiwan|125
 Tai’an|36.185|117.120|CN|Shandong|125
 Taizhou|32.491|119.908|CN|Jiangsu|124
+Tabasco|18.000|-92.667|MX||124|r
 Taizhou|28.663|121.433|CN|Zhejiang|123
 Tabriz|38.080|46.292|IR|East Azerbaijan|123
-Tabasco|18.000|-92.667|MX||123|r
 Taguig|14.524|121.079|PH|National Capital Region|122
 Tashkent Region|41.233|69.800|UZ||121|r
 Táchira|7.833|-72.083|VE||120|r
@@ -52,7 +52,7 @@ Tallinn|59.437|24.754|EE|Harjumaa|112
 Tanga|-5.069|39.099|TZ|Tanga|112
 Takoradi|4.898|-1.760|GH|Western|112
 Tanzhou|22.255|113.467|CN|Guangdong|112
-Tarapacá|-20.000|-69.333|CL||111|r
+Tarapacá|-20.000|-69.333|CL||112|r
 Takasaki|36.333|139.017|JP|Gunma|111
 Tawau|4.245|117.891|MY|Sabah|111
 Taraz|42.898|71.373|KZ|Zhambyl|111
@@ -69,6 +69,7 @@ Tambov|52.736|41.441|RU|Tambov Oblast|109
 Tacna|-18.015|-70.254|PE|Tacna|109
 Taganrog|47.236|38.905|RU|Rostov|109
 Tanghe|32.685|112.832|CN|Henan|109
+Tan Son Nhat International Airport|10.819|106.652|VN|Ho Chi Minh City (HCMC)|109|f
 Tai Po|22.450|114.169|HK|Tai Po|109
 Taboão da Serra|-23.626|-46.792|BR|São Paulo|109
 Tampines Estate|1.358|103.940|SG||108
@@ -97,5 +98,4 @@ Tân Châu|10.798|105.239|VN|An Giang|105
 Tambaram|12.925|80.127|IN|Tamil Nadu|105
 Tando Adam|25.768|68.662|PK|Sindh|105
 Takhar|36.667|69.750|AF||105|r
-Takaoka|36.750|137.017|JP|Toyama|105
 Ta|5.284|153.648|FM|Chuuk|0

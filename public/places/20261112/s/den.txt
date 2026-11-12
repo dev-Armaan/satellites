@@ -2,9 +2,10 @@ Denmark|56.000|10.000|DK||136|c
 Denver|39.739|-104.985|US|Colorado|117
 Denpasar|-8.650|115.217|ID|Bali|117
 Denizli|37.774|29.087|TR|Denizli|110
+Denguélé District|9.497|-7.376|CI||110|r
 Dengzhou|32.683|112.089|CN|Henan|109
-Denguélé District|9.497|-7.376|CI||108|r
 Denton|33.215|-97.133|US|Texas|102
+Denali|63.069|-151.006|US|Alaska|100|f
 Dengzhou|37.808|120.759|CN|Shandong|99
 Denov|38.267|67.899|UZ|Surxondaryo Region|98
 Dengbu|28.208|116.817|CN|Jiangxi|96
@@ -12,6 +13,7 @@ Den Helder|52.960|4.759|NL|North Holland|96
 Dendermonde|51.029|4.101|BE|Flanders|93
 Denia|38.841|0.106|ES|Valencia|92
 Denai Alam|3.160|101.515|MY|Selangor|91
+Denver International Airport|39.859|-104.673|US|Colorado|91|f
 Denton|53.457|-2.118|GB|England|89
 Den Den|36.808|10.111|TN|Manouba|89
 Denkanikota|12.530|77.789|IN|Tamil Nadu|88
@@ -26,6 +28,7 @@ Denville|40.892|-74.477|US|New Jersey|84
 Dentsville|34.064|-80.958|US|South Carolina|83
 Denzlingen|48.067|7.883|DE|Baden-Wurttemberg|83
 Dennery|13.914|-60.891|LC|Dennery|82
+Dennis Island|-3.805|55.667|SC|La Digue and Inner Islands|81|f
 Dent|39.186|-84.651|US|Ohio|80
 Denkendorf|48.696|9.317|DE|Baden-Wurttemberg|80
 Denham Springs|30.487|-90.958|US|Louisiana|80
@@ -35,6 +38,7 @@ Denison|42.018|-95.355|US|Iowa|78
 Denny|56.023|-3.908|GB|Scotland|78
 Deniliquin|-35.532|144.954|AU|New South Wales|78
 Dengkil|2.860|101.681|MY|Selangor|78
+Denmark Strait|67.540|-25.688|||77|f
 Denise|-14.740|-57.054|BR|Mato Grosso|77
 Den Burg|53.054|4.797|NL|North Holland|76
 Dengi|9.369|9.962|NG|Plateau State|76
@@ -43,13 +47,18 @@ Denderhoutem|50.872|4.018|BE|Flanders|76
 Denisovka|52.448|61.749|KZ|Kostanay|74
 Denver City|32.965|-102.829|US|Texas|74
 Dendron|-23.367|29.324|ZA|Limpopo|74
+Denizli Çardak Airport|37.786|29.701|TR|Denizli|73|f
+Dens Park|56.474|-2.973|GB|Scotland|73|f
 Deňizhan|37.236|61.245|TM|Mary|73
 Den Dolder|52.139|5.239|NL|Utrecht|73
 Denair|37.526|-120.797|US|California|73
 Denton|38.885|-75.827|US|Maryland|73
+Denison Municipal Airport|41.986|-95.381|US|Iowa|72|f
 Denver|40.233|-76.137|US|Pennsylvania|72
 Denderwindeke|50.797|4.025|BE|Flanders|72
 De Noord|52.708|4.851|NL|North Holland|71
+Denver Art Museum|39.737|-104.990|US|Colorado|71|f
+Denver Museum of Nature and Science|39.748|-104.943|US|Colorado|71|f
 Dengjia|30.842|110.053|CN|Chongqing|71
 Den Dungen|51.665|5.372|NL|North Brabant|71
 Denmark|33.323|-81.142|US|South Carolina|70
@@ -58,6 +67,9 @@ Denta|45.354|21.249|RO|Timiș County|70
 Denby Dale|53.572|-1.659|GB|England|70
 Dengjiapu|26.904|110.920|CN|Hunan|69
 Denholme|53.802|-1.895|GB|England|69
+Den Shima|30.751|130.102|JP|Kagoshima|69|f
+Dent de Crolles|45.308|5.855|FR|Auvergne-Rhône-Alpes|69|f
+Dents du Midi|46.167|6.931|CH|Valais|69|f
 Dennison|40.393|-81.334|US|Ohio|68
 Denmark|-34.961|117.353|AU|Western Australia|68
 Dentergem|50.964|3.416|BE|Flanders|68
@@ -66,6 +78,7 @@ Dentlein am Forst|49.148|10.423|DE|Bavaria|68
 Denan|6.538|-8.277|CI|Montagnes|68
 Denklingen|47.917|10.850|DE|Bavaria|68
 Denver|35.531|-81.030|US|North Carolina|67
+Dent Blanche|46.034|7.612|CH|Valais|67|f
 Denmark|44.348|-87.827|US|Wisconsin|67
 Dengyuantai|26.688|110.542|CN|Hunan|67
 Den Oever|52.934|5.031|NL|North Holland|67
@@ -82,6 +95,9 @@ Denton|13.500|-14.933|GM|Central River|65
 Denton|35.633|-80.116|US|North Carolina|64
 Denguin|43.363|-0.508|FR|New Aquitaine|64
 Dennyloanhead|55.999|-3.913|GB|Scotland|64
+Denbigh Castle|53.181|-3.421|GB|Wales|63|f
+Denham Island|-19.128|177.945|FJ|Eastern|63|f
+Denton Airport|47.321|-109.944|US|Montana|63|f
 Denée|47.379|-0.608|FR|Pays de la Loire|63
 Dennheritz|50.814|12.465|DE|Saxony|63
 Denham|51.567|-0.500|GB|England|63
@@ -92,9 +108,141 @@ Denjhi|19.924|-99.535|MX|México|62
 Denno|46.274|11.049|IT|Trentino-Alto Adige|61
 Denman Island Trust Area|49.552|-124.799|CA|British Columbia|61
 Denyshi|50.214|28.404|UA|Zhytomyr Oblast|61
+Denarau Island|-17.771|177.370|FJ|Western|61|f
+Denham Island|-14.228|144.266|AU|Queensland|61|f
+Denis Island Airport|-3.802|55.668|SC|La Digue and Inner Islands|61|f
+Dennison Reef|-66.483|-66.833|AQ||61|f
+Denny Mountain|47.439|-121.444|US|Washington|61|f
 Denmark|43.970|-70.803|US|Maine|60
 Denman Island|49.533|-124.820|CA|British Columbia|60
+Denisovka|44.923|34.228|UA|Crimea|60
+Den Hout|51.657|4.813|NL|North Brabant|60
+Dennis-Weston|45.242|-67.285|CA|New Brunswick|60
+Densole|51.130|1.158|GB|England|59
+Den Hoorn|53.025|4.751|NL|North Holland|59
+Deniztepesi|36.981|31.126|TR|Antalya|59
+Denysivka|49.885|32.577|UA|Poltava|59
+Den Ilp|52.454|4.907|NL|North Holland|59
+Denonville|48.391|1.812|FR|Centre-Val de Loire|58
+Denali National Preserve|63.478|-152.440|US|Alaska|58|f
+Denham Island|50.787|-126.494|CA|British Columbia|58|f
+Denman Mountain|41.903|-74.540|US|New York|58|f
+Denny Island Aerodrome|52.138|-128.060|CA|British Columbia|58|f
+Dennys Bay|44.888|-67.159|US|Maine|58|f
+Dent Bridge|46.602|-116.180|US|Idaho|58|f
+Denizgölü|40.090|42.918|TR|Kars Province|58
+Ðenovići|42.437|18.602|ME|Herceg Novi|58
 Densbüren|47.453|8.053|CH|Aargau|58
+Dennehotso|36.846|-109.847|US|Arizona|57
+Denham|-25.927|113.533|AU|Western Australia|57
+Denée|50.319|4.752|BE|Wallonia|57
+Dengezī|30.869|51.648|IR|Isfahan|57
+Denbury|50.508|-3.661|GB|England|57
+Denney|47.660|6.918|FR|Bourgogne-Franche-Comté|56
+Denholm|55.457|-2.685|GB|Scotland|56
+Densborn|50.122|6.601|DE|Rheinland-Pfalz|56
+Denshaw|53.590|-2.039|GB|England|55
+Dénat|43.847|2.205|FR|Occitanie|55
+Dendrochóri|39.553|21.637|GR|Thessaly|55
+Deniskovichi|52.311|31.709|RU|Bryansk Oblast|55
+Dennard|35.757|-92.525|US|Arkansas|54
+D’Entrecasteaux Islands|-9.650|150.700|PG|Milne Bay Province|54|f
+Denais Stack|-62.130|-58.482|AQ||54|f
+Deniliquin Airport|-35.558|144.948|AU|New South Wales|54|f
+Denman Peak|46.757|-121.743|US|Washington|54|f
+Deno|42.217|23.567|BG|Sofia|54|f
+Dent d'Herens|45.970|7.605|IT|Aosta Valley|54|f
+Dent de Morcles|46.199|7.075|CH|Valais|54|f
+Denton Bridge|13.468|-16.630|GM|Banjul|54|f
+Denton Municipal Airport|33.202|-97.198|US|Texas|54|f
+Denver Firefighters Museum|39.741|-104.992|US|Colorado|54|f
+Denizyaka|36.856|31.185|TR|Antalya|54
+Dennweiler-Frohnbach|49.583|7.383|DE|Rheinland-Pfalz|49
+d'Entrecasteaux National Park|-34.606|115.933|AU|Western Australia|49|f
+Den Hartog Peak|-84.333|178.867|AQ||49|f
+Dendtler Island|-72.967|-89.950|AQ||49|f
+Denham Castle|52.236|0.557|GB|England|49|f
+Denham Group National Park|-11.168|143.015|AU|Queensland|49|f
+Denison Island|-66.307|110.449|AQ||49|f
+Denison, Cape|-67.000|142.667|AQ||49|f
+Denman Glacier|-66.202|99.302|AQ||49|f
+Dennistoun Glacier|-71.183|168.000|AQ||49|f
+Dent de Cons|45.729|6.351|FR|Auvergne-Rhône-Alpes|49|f
+Dent de Ruth|46.554|7.237|CH|Fribourg|49|f
+Dent de Vaulion|46.684|6.351|CH|Vaud|49|f
+Dent du Chat|45.675|5.833|FR|Auvergne-Rhône-Alpes|49|f
+Dent du Géant|45.861|6.951|IT||49|f
+Dent du Lan|46.350|6.783|FR|Auvergne-Rhône-Alpes|49|f
+Dent Island|-20.358|148.933|AU|Queensland|49|f
+Dent Island|-52.517|169.033|NZ||49|f
+Dentine Peak|-71.583|163.733|AQ||49|f
+Denton Glacier|-77.483|162.600|AQ||49|f
+Denver and Rio Grande Western Railroad Business Car No. 101|46.836|-119.049|US|Washington|49|f
+Denver Museum of Miniatures, Dolls and Toys|39.746|-104.961|US|Colorado|49|f
+De Naald|52.228|5.946|NL|Gelderland|40|f
+De Neve Square|34.085|-118.434|US|California|40|f
+Den Blå Planet|55.638|12.656|DK|Capital Region|40|f
+Denali State Park|62.770|-150.053|US|Alaska|40|f
+Denarau Island|-17.775|177.374|FJ||40|f
+Denauro, Mount|-86.450|-151.500|AQ||40|f
+Denbigh Experimental Forest|48.290|-100.637|US|North Dakota|40|f
+Denetiah Park|58.500|-127.420|CA|British Columbia|40|f
+Denfeld Mountains|-76.917|-144.750|AQ||40|f
+Denison Dam|33.832|-96.571|US|Oklahoma|40|f
+Denmark Bay|70.665|-103.337|CA|Nunavut|40|f
+Denmark Vesey House|32.782|-79.941|US|South Carolina|40|f
+Dennos Museum Center|44.765|-85.591|US|Michigan|40|f
+Denny Chimes|33.210|-87.546|US|Alabama|40|f
+Denny Island|52.129|-128.000|CA|British Columbia|40|f
+Dent de Brenleire|46.551|7.175|CH|Fribourg|40|f
+Dent de Broc|46.589|7.128|CH|Fribourg|40|f
+Dent de Combette|46.528|7.204|CH|Vaud|40|f
+Dent de Corjon|46.450|7.036|CH|Vaud|40|f
+Dent de Folliéran|46.547|7.169|CH|Fribourg|40|f
+Dent de Jaman|46.445|6.975|CH|Vaud|40|f
+Dent de Lys|46.508|7.003|CH|Fribourg|40|f
+Dent de Nendaz|46.156|7.291|CH|Valais|40|f
+Dent de Perroc|46.039|7.523|CH|Valais|40|f
+Dent de Savigny|46.550|7.226|CH|Vaud|40|f
+Dent du Bourgo|46.576|7.140|CH|Fribourg|40|f
+Dent du Chamois|46.584|7.131|CH|Fribourg|40|f
+Dent du Salantin|46.151|6.996|CH|Valais|40|f
+Dent Favre|46.210|7.104|CH|Vaud|40|f
+Dent Island|48.717|-79.650|CA|Ontario|40|f
+Denti della Vecchia|46.053|9.023|CH|Ticino|40|f
+Denton Darrow Green|52.456|1.331|GB|England|40|f
+Dents de Bertol|45.997|7.539|CH|Valais|40|f
+Dents de Lanfon|45.864|6.239|FR|Auvergne-Rhône-Alpes|40|f
+Denver Athletic Club|39.742|-104.994|US|Colorado|40|f
+Denver Botanic Gardens|39.732|-104.960|US|Colorado|40|f
 Denice|44.599|8.333|IT|Piedmont|32
 Dê Nārkhēl Kêlay|32.432|65.635|AF|Kandahar|0
+Den Timur|-6.963|113.677|ID|East Java|0
+Dengdun|28.400|116.576|CN|Jiangxi|0
+Dengfang|25.263|114.443|CN|Guangdong|0
+Dengfang|27.811|116.525|CN|Jiangxi|0
+Denggang|23.545|116.516|CN|Guangdong|0
+Denggen Daya|-8.666|116.510|ID|West Nusa Tenggara|0
+Dengjia|25.917|116.839|CN|Fujian|0
+Dengjiang|28.630|121.204|CN|Zhejiang|0
+Dengjiapo|34.227|109.025|CN|Shaanxi|0
+Dengjiaxiang|28.252|116.561|CN|Jiangxi|0
+Dengli|33.672|113.502|CN|Henan|0
+Denglong|27.012|114.751|CN|Jiangxi|0
+Dengmingsi|37.901|116.741|CN|Hebei|0
+Dengmu|28.888|92.835|CN|Tibet|0
+Dengnan|30.303|113.977|CN|Hubei|0
+Dengok|-6.994|111.440|ID|Central Java|0
+Dengta|24.011|114.787|CN|Guangdong|0
+Dengta|29.869|117.666|CN|Anhui|0
+Dengta|46.900|126.781|CN|Heilongjiang|0
+Dengtang|23.682|116.526|CN|Guangdong|0
+Dengteke|48.598|124.536|CN|Inner Mongolia|0
+Dengyue|30.186|115.050|CN|Hubei|0
+Dengyun|24.069|115.393|CN|Guangdong|0
+Dengzhuang|35.964|111.522|CN|Shanxi|0
+Dengzishan|24.899|102.045|CN|Yunnan|0
+Denkendorf|48.928|11.457|DE|Bavaria|0
+Denok|-8.150|113.260|ID|East Java|0
 Denton|54.567|-1.667|GB|England|0
+Denuma|-8.415|115.122|ID|Bali|0

@@ -29,7 +29,9 @@ An-Najaylah|31.407|26.583|EG|Matruh|86
 Anna|51.490|40.422|RU|Voronezh Oblast|86
 Annonay|45.240|4.671|FR|Auvergne-Rhône-Alpes|85
 Annāmalainagar|11.400|79.733|IN|Tamil Nadu|84
+An Nufūd|28.500|41.000|SA|Al Jawf Region|83|f
 Anna Regina|7.266|-58.483|GY|Pomeroon-Supenaam|82
+Annapurna I|28.596|83.821|NP|Gandaki Pradesh|81|f
 Anna|33.349|-96.549|US|Texas|81
 Annabichl|46.650|14.317|AT|Carinthia|81
 Annerley|-27.512|153.032|AU|Queensland|81
@@ -40,6 +42,7 @@ Annfield Plain|54.857|-1.738|GB|England|80
 Annavāsal|10.461|78.700|IN|Tamil Nadu|79
 Anna Paulowna|52.861|4.836|NL|North Holland|79
 Annan|54.988|-3.256|GB|Scotland|79
+Annette Island Army Airfield|55.042|-131.572|US|Alaska|78|f
 Anno|5.860|-4.379|CI|Lagunes District|78
 Annweiler am Trifels|49.206|7.975|DE|Rheinland-Pfalz|77
 An Naşr|31.281|34.303|PS|Gaza Strip|76
@@ -49,6 +52,7 @@ Annotto Bay|18.272|-76.765|JM|Saint Mary Parish|75
 Annay|50.463|2.881|FR|Hauts-de-France|74
 Annville|40.330|-76.515|US|Pennsylvania|74
 Anna|37.460|-89.247|US|Illinois|73
+Annobón|-1.434|5.637|GQ|Annobon|72|f
 Anneyron|45.272|4.886|FR|Auvergne-Rhône-Alpes|71
 Annunziata|41.121|14.365|IT|Campania|71
 Annaburg|51.733|13.047|DE|Saxony-Anhalt|71
@@ -60,11 +64,15 @@ Anna Valley|51.193|-1.507|GB|England|69
 Anna|39.020|-0.646|ES|Valencia|69
 Annet-sur-Marne|48.927|2.720|FR|Île-de-France|69
 Annone Veneto|45.790|12.686|IT|Veneto|69
+Annenkov Island|-54.490|-37.079|GS||69|f
 Annopol|50.886|21.857|PL|Lublin|68
 An Nazlah|31.533|34.483|PS|Gaza Strip|67
+Annobon Airport|-1.410|5.622|GQ|Annobon|67|f
 Annone di Brianza|45.802|9.331|IT|Lombardy|67
 Annequin|50.505|2.720|FR|Hauts-de-France|67
 Anna|5.325|-3.879|CI|Abidjan Autonomous District|67
+Anna Maria Island|27.514|-82.719|US|Florida|65|f
+Annikitsup Kangerlua|60.517|-43.233|GL|Kujalleq|65|f
 Annalong|54.108|-5.900|GB|Northern Ireland|65
 An Najdah|20.850|58.718|OM|Southeastern Governorate|65
 Annandale|40.641|-74.881|US|New Jersey|65
@@ -74,6 +82,10 @@ Anna|40.394|-84.173|US|Ohio|64
 An Nāqūrah|32.265|35.201|PS|West Bank|64
 An Nazlah ash Sharqīyah|32.411|35.109|PS|West Bank|64
 Annicco|45.243|9.879|IT|Lombardy|64
+Ann Airport|19.772|94.027|MM|Rakhine|63|f
+Annawan Rock|41.865|-71.214|US|Massachusetts|63|f
+Annex Peak|58.361|-134.137|US|Alaska|63|f
+Annursnac Hill|42.478|-71.395|US|Massachusetts|63|f
 Annetta|32.709|-97.676|US|Texas|63
 Anneberg|60.242|18.417|SE|Uppsala|63
 Annesse-et-Beaulieu|45.164|0.572|FR|New Aquitaine|63
@@ -82,8 +94,63 @@ An Nuway‘imah|31.892|35.435|PS|West Bank|62
 Annelund|57.988|13.075|SE|Västra Götaland|62
 Annahilt|54.433|-6.000|GB|Northern Ireland|61
 An Nabī Ilyās|32.185|35.018|PS|West Bank|61
+Anniston Metropolitan Airport|33.590|-85.853|US|Alabama|61|f
+Ånnsjön|63.270|12.528|SE|Jämtland|61|f
 Annville|37.319|-83.970|US|Kentucky|61
 Annot|43.965|6.669|FR|Provence-Alpes-Côte d'Azur|61
+Annavölgy|47.700|18.667|HU|Somogy County|60
+Anneville-Ambourville|49.461|0.886|FR|Normandy|60
+An Nazlah al Gharbīyah|32.403|35.085|PS|West Bank|59
+Annbank|55.476|-4.522|GB|Scotland|59
+Annawan|41.397|-89.905|US|Illinois|59
+Anneberg|57.723|14.806|SE|Jönköping|58
+Anne Frank House|52.375|4.884|NL|North Holland|58|f
+Anngiiartarfik|60.200|-44.567|GL|Kujalleq|58|f
+Annabella|38.709|-112.060|US|Utah|58
+Annaberg im Lammertal|47.515|13.432|AT|Salzburg|57
+Annovka|50.772|37.452|RU|Belgorod Oblast|57
+Annape|-6.523|-80.002|PE|Lambayeque|56
+Annenheim|46.659|13.900|AT|Carinthia|56
+Annevoie-Rouillon|50.348|4.850|BE|Wallonia|56
+Annoisin|45.757|5.292|FR|Auvergne-Rhône-Alpes|56
+Annetta North|32.719|-97.676|US|Texas|55
+Annetta South|32.668|-97.661|US|Texas|55
+Annoville|48.966|-1.536|FR|Normandy|55
+Annapolis Royal|44.743|-65.518|CA|Nova Scotia|54
+Annarode|51.550|11.403|DE|Saxony-Anhalt|54
+An Nabī Şāliḩ|32.016|35.124|PS|West Bank|54
+Ann Arbor Municipal|42.223|-83.746|US|Michigan|54|f
+Ann Island|-68.128|-67.095|AQ||54|f
+Annagh Hill|52.752|-6.372|IE|Leinster|54|f
+Annai Airport|3.959|-59.124|GY|Upper Takutu-Upper Essequibo|54|f
+Annandags Peaks|-72.517|-6.250|AQ||54|f
+Annapurna|28.599|83.823|NP|Gandaki Pradesh|54|f
+Annecy-Meythet|45.931|6.106|FR|Auvergne-Rhône-Alpes|54|f
+Annet|49.896|-6.371|GB|England|54|f
+Annette Island|55.129|-131.452|US|Alaska|54|f
+Annie’s Bay|32.359|-64.658|BM|Saint Georgeʼs|54|f
+Annelund|60.000|16.033|SE|Västmanland|54
+An-Najah National University|32.220|35.244|PS|West Bank|49|f
+Anna Cay|26.550|-76.961|BS|Hope Town|49|f
+Anna Glacier|-62.033|-58.200|AQ||49|f
+Annaghmore Lough|53.800|-8.150|IE|Connacht|49|f
+Annan River National Park|-15.558|145.232|AU|Queensland|49|f
+Annie J Larsen|56.811|-132.963|US|Alaska|49|f
+Ann Morrison Park|43.612|-116.220|US|Idaho|40|f
+Anna Lake|46.766|-93.986|US|Minnesota|40|f
+Annabessacook Lake|44.242|-69.976|US|Maine|40|f
+Annacis Island|49.166|-122.953|CA|British Columbia|40|f
+Annadel State Park|38.429|-122.625|US|California|40|f
+Annamalai University|11.392|79.715|IN|Tamil Nadu|40|f
+Annapolis Basin|44.650|-65.699|CA|Nova Scotia|40|f
+Annapurna II|28.535|84.122|NP|Gandaki Pradesh|40|f
+Annapurna III|28.585|83.990|NP|Gandaki Pradesh|40|f
+Annapurna IV|28.536|84.083|NP|Gandaki Pradesh|40|f
+Annapurna South|28.519|83.807|NP|Gandaki Pradesh|40|f
+Annasee|49.063|9.334|DE|Baden-Wurttemberg|40|f
+Annexstad Peak|-76.683|-125.867|AQ||40|f
+Annieopsquotch Mountains|48.333|-57.499|CA|Newfoundland and Labrador|40|f
+Anniston Museum of Natural History|33.697|-85.819|US|Alabama|40|f
 An Nādirah|14.096|44.476|YE|Ibb Governorate|0
 An Najd|14.422|45.296|YE|Al Bayda|0
 An Nashābīyah|33.511|36.486|SY|Rif-dimashq|0
@@ -93,4 +160,7 @@ An Naz̧īr|16.909|43.262|YE|Şa‘dah|0
 Annaberg|47.871|15.376|AT|Lower Austria|0
 Annae|36.394|127.660|KR|North Chungcheong|0
 Annam|36.357|127.673|KR|North Chungcheong|0
+Annan|27.508|119.055|CN|Zhejiang|0
+Anning|29.501|112.073|CN|Hunan|0
 Anning Xilu|36.103|103.719|CN|Gansu|0
+Anningqu|43.983|87.533|CN|Xinjiang|0

@@ -746,29 +746,294 @@ Molochne|46.746|35.369|UA|Zaporizhzhia|60
 Novopidhorodnye|48.246|36.900|UA|Dnipropetrovsk|60
 Shyroke|47.957|38.232|UA|Donetsk|60
 Starobohdanivka|47.115|35.489|UA|Zaporizhzhia|60
+Hrabove|48.147|38.649|UA|Donetsk|60
+Ivanivka|48.100|36.635|UA|Dnipropetrovsk|60
+Debaltseve|48.112|36.064|UA|Dnipropetrovsk|60
+Bilukhivka|49.585|35.291|UA|Poltava|60
+Atmanai|46.376|35.182|UA|Zaporizhzhia|60
+Verkhnii Tokmak|47.201|36.374|UA|Zaporizhzhia|60
+Kostiantynopil|48.001|37.040|UA|Donetsk|60
+Shakhtne|47.983|38.281|UA|Donetsk|60
+Davydivka|46.515|35.141|UA|Zaporizhzhia|60
+Lymanchuk|48.016|38.824|UA|Donetsk|60
+Kuznetsovo-Mykhailivka|47.458|38.212|UA|Donetsk|60
+Yakovlivka|48.090|37.827|UA|Donetsk|60
+Kochubeivka|49.753|35.117|UA|Poltava|60
+Demuryne|48.179|36.475|UA|Dnipropetrovsk|60
+Dmytrivka|48.754|37.387|UA|Donetsk|60
+Yehorivka|47.706|37.225|UA|Donetsk|60
+Bohdanivka|46.742|35.917|UA|Zaporizhzhia|60
+Svyatotroyitske|46.550|35.646|UA|Zaporizhzhia|60
+Nyzhnia Lanna|49.376|35.209|UA|Poltava|60
+Urozhaine|47.751|36.819|UA|Donetsk|60
+Stepano-Krynka|47.922|38.336|UA|Donetsk|60
+Pryazovske|47.153|37.373|UA|Donetsk|60
 Dmitrovka|45.484|35.059|UA|Crimea|60
+Vrubivka|48.764|38.383|UA|Luhansk|60
+Veselianka|47.683|35.368|UA|Zaporizhzhia|59
+Nove|46.435|35.078|UA|Zaporizhzhia|59
+Domakha|48.862|36.298|UA|Kharkiv|59
 Ilyichevo|45.245|35.071|UA|Crimea|59
+Troitsko-Khartsyzk|47.968|38.271|UA|Donetsk|59
+Novokrasnivka|47.315|37.157|UA|Donetsk|59
+Pidhirne|47.441|35.354|UA|Zaporizhzhia|59
+Rozlyv|47.972|36.999|UA|Donetsk|59
+Demyanivka|47.029|37.141|UA|Donetsk|59
+Klymivka|49.321|35.125|UA|Poltava|59
+Zelenyi Hai|48.070|36.653|UA|Donetsk|59
+Sofiyivka|48.492|37.379|UA|Donetsk|59
+Oleksandrivske|47.207|38.112|UA|Donetsk|59
+Azov|47.453|37.116|UA|Zaporizhzhia|59
 Lugovoye|45.235|35.722|UA|Crimea|59
+Koliadivka|49.083|39.195|UA|Luhansk|59
+Bilosarayska Kosa|46.903|37.345|UA|Donetsk|59
 Shakhove|48.460|37.350|UA|Donetsk|59
+Fylenkove|49.834|35.002|UA|Poltava|59
+Voloska Balakliya|49.617|37.331|UA|Kharkiv|59
+Lyps'ke|48.082|38.146|UA|Donetsk|59
+Novobakhmutivka|48.226|37.619|UA|Donetsk|59
+Shubino|45.273|35.212|UA|Crimea|59
+Elitnyy|45.334|38.128|RU|Krasnodar Krai|59
+Lomuvatka|48.454|38.568|UA|Luhansk|59
+Solnechnoye|45.047|35.345|UA|Crimea|59
+Tymchenky|49.223|36.142|UA|Kharkiv|59
+Vovchanske|46.576|35.103|UA|Zaporizhzhia|59
+Yarova|49.063|37.631|UA|Donetsk|59
+Vasylivka|47.672|38.516|UA|Donetsk|59
 Malynivka|47.680|36.481|UA|Zaporizhzhia|59
+Ukaly|47.996|37.086|UA|Donetsk|59
+Kolomiytsi|47.965|36.345|UA|Dnipropetrovsk|59
+Novoselivka|48.820|37.466|UA|Donetsk|59
+Pikuzy|47.177|37.818|UA|Donetsk|59
+Starolaspa|47.561|37.986|UA|Donetsk|59
+Velyke Mishkove|47.874|38.560|UA|Donetsk|59
+Dianivka|47.422|37.398|UA|Donetsk|59
 Uvarovo|45.263|35.665|UA|Crimea|59
+Ulianivske|47.638|38.401|UA|Donetsk|59
+Vasylivka|49.636|35.194|UA|Poltava|59
+Khashchevoye|48.701|35.340|UA|Dnipropetrovsk|59
+Sofiyivka|48.741|37.514|UA|Dnipropetrovsk|59
+Starovarvarivka|48.680|37.227|UA|Donetsk|59
+Tarasivka|49.664|38.389|UA|Luhansk|59
+Komyshuvate|47.086|37.169|UA|Donetsk|59
+Rozivka|46.938|35.776|UA|Zaporizhzhia|59
+Novyi Korotych|49.959|36.009|UA|Kharkiv|58
+Staromaiorske|47.753|36.793|UA|Donetsk|58
 Kindrashivka|49.766|37.583|UA|Kharkiv|58
+Lypianka|49.384|35.006|UA|Poltava|58
 Tokarevo|45.284|35.152|UA|Crimea|58
 Krasnogorka|45.245|35.807|UA|Crimea|58
+Spaske|47.020|35.386|UA|Zaporizhzhia|58
+Zorykivka|49.403|39.838|UA|Luhansk|58
+Kurdyumivka|48.470|37.957|UA|Donetsk|58
+Makiyivka|49.220|37.981|UA|Luhansk|58
+Makedonivka|47.243|37.555|UA|Donetsk|58
+Maksymivka|49.581|35.104|UA|Poltava|58
+Afrykanivka|48.886|36.809|UA|Kharkiv|58
+Hnutove|47.211|37.753|UA|Donetsk|58
 Kirovo|45.221|35.842|UA|Crimea|58
+Raypole|48.264|36.839|UA|Dnipropetrovsk|58
+Yakovlivka|49.830|36.141|UA|Kharkiv|58
+Stavky|49.047|37.832|UA|Donetsk|58
+Minkivka|48.699|37.854|UA|Donetsk|58
+Tsentralnyi|48.351|38.573|UA|Luhansk|58
+Volokhiv Yar|49.601|36.978|UA|Kharkiv|58
+Horbachevo-Mykhailivka|47.852|38.010|UA|Donetsk|58
+Bohorodychne|49.016|37.507|UA|Donetsk|58
+Rizdvyanka|47.800|36.046|UA|Zaporizhzhia|58
+Khutoro-Hubynykha|48.715|35.083|UA|Dnipropetrovsk|58
+Starodubivka|47.104|37.040|UA|Donetsk|58
 Chelyadinovo|45.207|36.376|UA|Crimea|58
+Dolynske|46.787|35.208|UA|Zaporizhzhia|58
+Vidrodzhennia|47.079|35.239|UA|Zaporizhzhia|58
+Kalynivka|47.148|37.668|UA|Donetsk|58
+Cherniakivka|49.765|35.145|UA|Poltava|58
+Yelyzaveto-Mykolaivka|47.829|38.344|UA|Donetsk|58
 Rozdol|47.283|35.392|UA|Zaporizhzhia|58
+Verkhnia Lanna|49.409|35.291|UA|Poltava|58
+Nadtochiyi|49.968|36.071|UA|Kharkiv|58
+Velyke Orikhove|48.086|38.133|UA|Donetsk|58
 Terny|49.092|37.961|UA|Donetsk|58
+Voskresenka|46.815|35.876|UA|Zaporizhzhia|58
+Opytne|48.097|37.722|UA|Donetsk|58
+Stepanivka Druha|46.765|35.942|UA|Zaporizhzhia|58
+Troyitske|47.056|36.866|UA|Zaporizhzhia|58
+Danylo-Ivanivka|46.753|35.280|UA|Zaporizhzhia|57
+Zoloti Prudy|48.732|37.022|UA|Donetsk|57
+Karpaty|48.507|38.858|UA|Luhansk|57
+Voronove|48.899|38.573|UA|Luhansk|57
+Lyubomyrivka|48.789|39.308|UA|Luhansk|57
+Hetmanivka|49.745|37.103|UA|Kharkiv|57
+Novokostiantynivka|46.596|35.688|UA|Zaporizhzhia|57
+Velyka Ternivka|46.676|35.003|UA|Zaporizhzhia|57
+Vysoke|47.232|35.406|UA|Zaporizhzhia|57
+Babycheve|49.944|38.224|UA|Luhansk|57
+Lebedynske|47.128|37.753|UA|Donetsk|57
+Shyroke|47.421|35.405|UA|Zaporizhzhia|57
+Lysychanskyi|48.891|38.407|UA|Luhansk|57
 Marfovka|45.199|36.091|UA|Crimea|57
+Novochervone|49.630|38.301|UA|Luhansk|57
+Kasyanivka|47.297|37.533|UA|Donetsk|57
+Novopylypivka|46.953|35.489|UA|Zaporizhzhia|57
+Klenivka|47.762|38.232|UA|Donetsk|57
+Olefirivka|48.431|36.095|UA|Dnipropetrovsk|57
+Hannivka|46.843|36.038|UA|Zaporizhzhia|57
+Leontovychi|48.261|37.144|UA|Donetsk|57
+Tavriia|46.941|35.077|UA|Zaporizhzhia|57
+Byriuky|47.862|38.084|UA|Donetsk|57
+Koroviy Yar|49.155|37.629|UA|Donetsk|57
+Nyzhni Byriuky|47.867|38.068|UA|Donetsk|57
+Tymonove|49.744|38.446|UA|Luhansk|57
+Iziumske|49.270|37.810|UA|Kharkiv|57
+Prylisne|48.833|37.296|UA|Donetsk|57
+Bilokuzmynivka|48.653|37.680|UA|Donetsk|57
+Berdyanske|47.106|37.447|UA|Donetsk|57
+Trudove|46.956|35.167|UA|Zaporizhzhia|57
+Debal'tsivs'ke|48.331|38.370|UA|Donetsk|57
+Druzhne|48.196|38.281|UA|Donetsk|57
+Dovzhanskyi|47.858|39.748|UA|Luhansk|57
+Volodymyrivka|48.439|37.349|UA|Donetsk|57
+Hriakove|49.624|35.388|UA|Poltava|57
+Yuliyivka|47.703|35.439|UA|Zaporizhzhia|57
+Katerynivka|48.419|37.756|UA|Donetsk|57
+Divnynske|46.655|35.564|UA|Zaporizhzhia|56
+Iskrivka|49.822|35.177|UA|Poltava|56
+Vivcharove|49.854|38.585|UA|Luhansk|56
+Kamianyi Plast|48.445|39.057|UA|Luhansk|56
+Topolyne|47.276|35.010|UA|Zaporizhzhia|56
+Kruhlyk|48.305|39.141|UA|Luhansk|56
+Zakharivka|47.140|36.983|UA|Donetsk|56
+Peremozhne|48.395|39.387|UA|Luhansk|56
+Zaporizhzhya|46.962|35.043|UA|Zaporizhzhia|56
+Andriyivka-Klevtsove|48.049|36.590|UA|Donetsk|56
+Holoborodkivske|49.489|35.095|UA|Poltava|56
+Vilkhuvatka|49.620|35.333|UA|Poltava|56
+Vesela Hora|48.621|37.119|UA|Donetsk|56
+Hlynka|47.554|38.247|UA|Donetsk|56
+Illiriia|48.404|38.991|UA|Luhansk|56
+Nykyforivka|48.770|37.898|UA|Donetsk|56
+Mykolayivka|48.576|37.798|UA|Donetsk|56
 Bilyayivka|49.265|36.312|UA|Kharkiv|56
+Sadove|46.782|35.366|UA|Zaporizhzhia|56
+Verkhnia Krasnianka|48.270|39.506|UA|Luhansk|56
+Krasna Hora|48.663|38.022|UA|Donetsk|56
+Topoli|49.813|38.157|UA|Luhansk|56
+Pervomayske|47.993|38.785|UA|Donetsk|56
+Novoivanivka|47.677|38.390|UA|Donetsk|56
+Rozkvit|48.954|39.577|UA|Luhansk|56
+Artemivka|47.872|38.638|UA|Donetsk|56
+Zolotarivka|48.877|38.273|UA|Luhansk|56
+Rozpasiyivka|49.830|38.382|UA|Luhansk|56
+Karpovo-Nadezhdynka|47.827|38.582|UA|Donetsk|56
+Perekip|49.882|35.500|UA|Kharkiv|56
+Verkhnetemernitzkiy|47.311|39.737|RU|Rostov|56
+Novovodyane|49.273|38.022|UA|Luhansk|56
+Kalynove|48.297|37.651|UA|Donetsk|56
+Krasne|49.511|35.405|UA|Poltava|56
+Sontsivka|48.049|37.189|UA|Donetsk|56
+Dunaivka|46.573|35.422|UA|Zaporizhzhia|56
+Pavlopil|47.260|37.781|UA|Donetsk|56
+Marianivka|49.471|35.284|UA|Poltava|56
+Novospaske|46.927|35.991|UA|Zaporizhzhia|56
+Novoyelyzavetivka|48.137|37.041|UA|Donetsk|56
+Temyrivka|47.825|36.571|UA|Zaporizhzhia|56
+Hruzko-Lomivka|47.905|38.109|UA|Donetsk|56
+Dronivka|48.920|38.042|UA|Donetsk|56
+Mykolaivka|46.871|36.054|UA|Zaporizhzhia|56
+Volodymyrivka|46.727|35.858|UA|Zaporizhzhia|56
+Vozrozhdeniye|45.173|35.032|UA|Crimea|56
+Bazaliivka|49.831|36.987|UA|Kharkiv|56
+Berhtal|47.252|37.199|UA|Donetsk|56
+Mykhailivka|47.835|38.138|UA|Donetsk|56
+Polianivka|46.742|35.083|UA|Zaporizhzhia|56
+Nyzhnokrynske|47.785|38.627|UA|Donetsk|56
+Tetyanivka|49.036|37.591|UA|Donetsk|56
+Hyunivka|47.055|36.354|UA|Zaporizhzhia|56
+Bondarenkovo|45.400|36.488|UA|Crimea|56
+Makedonivka|48.234|39.294|UA|Luhansk|56
+Kolosnykove|48.051|38.056|UA|Donetsk|56
+Prydorozhnye|47.852|37.971|UA|Donetsk|56
+Strohanivka|46.677|35.864|UA|Zaporizhzhia|56
+Svitlodolynske|47.082|35.511|UA|Zaporizhzhia|55
+Voyevodivka|48.981|38.446|UA|Luhansk|55
+Mokroielanchyk|47.700|38.494|UA|Donetsk|55
+Riznykivka|48.836|37.987|UA|Donetsk|55
+Krasnyi Lyman|48.341|37.240|UA|Donetsk|55
+Velykyi Loh|48.260|39.554|UA|Luhansk|55
+Vostochnoye|45.219|35.027|UA|Crimea|55
 Maryevka|45.113|36.240|UA|Crimea|55
+Yevhenivka|47.669|37.086|UA|Donetsk|55
+Nikopol|48.887|37.125|UA|Kharkiv|55
+Myrne|47.989|36.707|UA|Donetsk|55
+Berezove|47.874|36.499|UA|Dnipropetrovsk|55
+Trudolyubovka|45.217|35.152|UA|Crimea|55
+Virolyubivka|48.610|37.719|UA|Donetsk|55
+Vysochynivka|49.695|36.294|UA|Kharkiv|55
+Novoivanivka|47.058|35.070|UA|Zaporizhzhia|55
+Zelene Pole|47.827|36.623|UA|Donetsk|55
+Kalynove|47.458|37.465|UA|Donetsk|55
+Husarivka|48.880|37.148|UA|Kharkiv|55
+Vesele|46.981|35.114|UA|Zaporizhzhia|55
+Zelene|47.945|38.175|UA|Donetsk|55
+Hrabske|47.902|38.156|UA|Donetsk|55
+Orestopil|47.957|36.465|UA|Dnipropetrovsk|55
+Samiilove|47.255|38.253|UA|Donetsk|55
+Ahrobaza|47.093|37.448|UA|Donetsk|55
+Novozlatopil|47.515|36.827|UA|Zaporizhzhia|55
+Vesele|48.063|37.725|UA|Donetsk|55
+Vidnozhyne|47.326|35.034|UA|Zaporizhzhia|55
+Taverivka|49.685|35.230|UA|Poltava|55
+Pobyeda|47.979|38.809|UA|Donetsk|55
+Sribne|48.106|37.014|UA|Donetsk|55
+Verkhnia Krynka|48.162|38.147|UA|Donetsk|55
+Dolyna|48.995|37.432|UA|Donetsk|55
+Hostre|47.992|37.403|UA|Donetsk|55
+Vysoke|47.945|38.057|UA|Donetsk|55
+Shevchenko|48.382|37.108|UA|Donetsk|55
+Novyi Donbas|48.450|37.180|UA|Donetsk|55
+Zahryzove|49.505|37.712|UA|Kharkiv|55
+Kozyrshchyna|49.029|35.296|UA|Dnipropetrovsk|55
+Slobozhanske|49.371|36.580|UA|Kharkiv|55
+Spodobivka|49.559|37.432|UA|Kharkiv|55
+Shlyakh|49.925|35.763|UA|Kharkiv|55
+Horodeshchyne|48.699|37.469|UA|Donetsk|55
+Druzhkivske|48.633|37.590|UA|Donetsk|55
+Bahachka|49.978|38.373|UA|Luhansk|55
+Novosimeikyne|48.344|39.620|UA|Luhansk|55
+Novoyehorivka|49.841|37.968|UA|Kharkiv|55
+Myrove|49.729|37.564|UA|Kharkiv|55
+Novyi Komar|47.882|36.838|UA|Donetsk|55
+Piddubne|48.011|36.694|UA|Donetsk|55
+Voskresenka|47.955|36.644|UA|Donetsk|55
+Komyshuvakha|48.641|37.453|UA|Donetsk|54
 Kolomyichykha|49.448|37.972|UA|Luhansk|54
+Solodke|47.791|37.494|UA|Donetsk|54
+Berdyanska Kosa|46.665|36.801|UA|Zaporizhzhia|54
+Hontiv Yar|49.818|35.578|UA|Kharkiv|54
+Birky|49.691|36.044|UA|Kharkiv|54
+Novomlynivka|47.419|36.976|UA|Zaporizhzhia|54
+Rodnyky|47.837|38.421|UA|Donetsk|54
+Lyzyne|49.532|38.844|UA|Luhansk|54
+Babenkovo|45.097|35.130|UA|Crimea|54
+Marianivka|47.119|35.290|UA|Zaporizhzhia|54
+Krasne|48.374|39.502|UA|Luhansk|54
+Stara Vodolaha|49.788|35.834|UA|Kharkiv|54
+Vynohradne|47.921|38.231|UA|Donetsk|54
+Aviatsiyne|46.917|35.317|UA|Zaporizhzhia|54
+Metolkine|48.930|38.556|UA|Luhansk|54
+Yasne|47.030|35.653|UA|Zaporizhzhia|54
+Fedorivka|46.787|35.793|UA|Zaporizhzhia|54
+Smorodshchyna|49.613|35.036|UA|Poltava|54
+Bondarevske|47.846|38.291|UA|Donetsk|54
+Pikuzy|47.175|37.812|UA|Donetsk|54
+Uspenivka|48.200|37.020|UA|Donetsk|54
 Mysovoe|45.448|35.835|UA|Crimea|53
 Belinskoye|45.375|36.082|UA|Crimea|51
 Nove|46.783|35.277|UA|Zaporizhzhia|47
 Kunie|49.392|37.246|UA|Kharkiv|43
 Berestove|47.142|36.804|UA|Zaporizhzhia|0
 Dubovyky|48.243|36.218|UA|Dnipropetrovsk|0
+Imeni Chkalova|47.281|39.749|RU|Rostov|0
 Liubymivka|48.373|35.173|UA|Dnipropetrovsk|0
 Lychkove|49.092|35.205|UA|Dnipropetrovsk|0
 Matviivka|47.905|35.302|UA|Zaporizhzhia|0
@@ -779,6 +1044,7 @@ Nyzhnoteple|48.798|39.351|UA|Luhansk|0
 Pavlivske|47.945|35.460|UA|Zaporizhzhia|0
 Petro-Mykhailivka|48.059|35.231|UA|Zaporizhzhia|0
 Raivka|48.352|35.456|UA|Dnipropetrovsk|0
+Severnyy|47.289|39.712|RU|Rostov|0
 Shulhynka|49.143|38.923|UA|Luhansk|0
 Shyrokyi|48.831|39.636|UA|Luhansk|0
 Stepne|47.797|35.306|UA|Zaporizhzhia|0

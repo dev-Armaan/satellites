@@ -23,10 +23,12 @@ Leirvik|59.780|5.501|NO|Vestland|83
 Leicester Forest East|52.625|-1.218|GB|England|83
 Leinefelde-Worbis|51.388|10.326|DE|Thuringia|83
 Leini|45.183|7.714|IT|Piedmont|83
+Leipzig Zoological Garden|51.348|12.371|DE|Saxony|82|f
 Lei Cheng Uk Estate|22.339|114.159|HK|Sham Shui Po District|81
 Leiwang|34.051|105.144|CN|Gansu|81
 Leicester|42.246|-71.909|US|Massachusetts|81
 Leingarten|49.146|9.117|DE|Baden-Wurttemberg|80
+Leicester Castle|52.632|-1.141|GB|England|80|f
 Leiba|33.791|105.038|CN|Gansu|79
 Leidong|25.914|109.340|CN|Guizhou|79
 Leisure World|39.102|-77.069|US|Maryland|79
@@ -40,27 +42,38 @@ Leiston|52.206|1.578|GB|England|76
 Leinburg|49.452|11.310|DE|Bavaria|76
 Lei King Wan|22.284|114.223|HK|Eastern District|76
 Leidersbach|49.901|9.222|DE|Bavaria|74
+Leidseplein|52.363|4.881|NL|North Holland|73|f
 Leisure Village|40.043|-74.185|US|New Jersey|73
 Leisure Village East|40.030|-74.164|US|New Jersey|73
 Leiblfing|48.776|12.518|DE|Bavaria|72
+Leinster Airport|-27.843|120.703|AU|Western Australia|71|f
 Leisuretowne|39.892|-74.702|US|New Jersey|71
 Leigh|-36.283|174.817|NZ|Auckland|71
 Leisure Village West-Pine Lake Park|40.004|-74.266|US|New Jersey|71
 Leitring|46.780|15.559|AT|Styria|70
+Leinavatn|68.462|19.768|NO|Troms|69|f
 Leimersheim|49.124|8.345|DE|Rheinland-Pfalz|68
 Leith-Hatfield|39.877|-79.731|US|Pennsylvania|68
 Leisure Knoll|40.019|-74.292|US|New Jersey|68
 Leibertingen|48.043|9.013|DE|Baden-Wurttemberg|67
+Leipzig-Halle Airport|51.421|12.222|DE|Saxony|67|f
 Leinzell|48.849|9.877|DE|Baden-Wurttemberg|67
 Leivi|44.353|9.311|IT|Liguria|67
 Leignon|50.269|5.110|BE|Wallonia|67
 Leipsic|41.098|-83.985|US|Ohio|66
 Leiferde|52.204|10.508|DE|Lower Saxony|66
 Leimbach|50.817|10.200|DE|Thuringia|65
+Leirungskampen|61.396|8.601|NO|Innlandet|65|f
+Leitmeritz Concentration Camp|50.541|14.116|CZ|Ústí nad Labem Region|65|f
+Leivonmäen Kansallispuisto|61.910|26.032|FI|Central Finland|65|f
 Leifear|54.832|-7.484|IE|Ulster|64
 Leilani Estates|19.470|-154.918|US|Hawaii|64
 Leipalingis|54.091|23.859|LT|Alytus|64
 Leißling|51.183|11.910|DE|Saxony-Anhalt|64
+Leichhardt Range|-20.667|147.417|AU|Queensland|63|f
+Leipzig Opera|51.340|12.381|DE|Saxony|63|f
+Leipzig–Altenburg Airport|50.982|12.506|DE|Thuringia|63|f
+Leite Lopes Airport|-21.134|-47.774|BR|São Paulo|63|f
 Leiwen|49.817|6.883|DE|Rheinland-Pfalz|63
 Leimātu'a|-18.600|-173.981|TO|Vavau|63
 Leinster|-27.920|120.697|AU|Western Australia|63
@@ -69,19 +82,88 @@ Leithaprodersdorf|47.933|16.479|AT|Burgenland|62
 Leirsund|59.997|11.087|NO|Akershus|61
 Leivonmäki|61.912|26.128|FI|Central Finland|61
 Leitzkau|52.058|11.952|DE|Saxony-Anhalt|61
+Leinøya|62.338|5.702|NO|Møre og Romsdal|61|f
+Leirhøi|61.591|8.467|NO|Innlandet|61|f
+Leirungshøe|61.947|8.481|NO|Innlandet|61|f
+Leirungstinden,vestre|61.416|8.582|NO|Innlandet|61|f
 Leicester|43.867|-73.108|US|Vermont|61
 Leirvík|62.210|-6.693|FO|Eysturoy|60
 Leimuiden|52.224|4.669|NL|South Holland|60
 Leicești|45.096|24.861|RO|Arges|60
+Leimen|49.274|7.769|DE|Rheinland-Pfalz|60
+Leithfield|-43.200|172.733|NZ|Canterbury|60
+Leissigen|46.655|7.775|CH|Bern|59
+Leimbach|47.794|7.101|FR|Grand Est|58
+Leighlinbridge|52.736|-6.973|IE|Leinster|58
+Leisele|50.984|2.620|BE|Flanders|58
+Leigh Creek Airport|-30.598|138.426|AU|South Australia|58|f
+Leimert Bridge|37.812|-122.214|US|California|58|f
+Leirnuten|59.496|6.917|NO|Rogaland|58|f
+Leiningen|50.133|7.567|DE|Rheinland-Pfalz|58
+Leira|60.970|9.295|NO|Innlandet|58
 Leiben|48.246|15.275|AT|Lower Austria|57
+Leitão Grande|15.083|-23.630|CV|São Salvador do Mundo|57
+Leighton|34.701|-87.529|US|Alabama|57
+Leinde|52.135|10.447|DE|Lower Saxony|57
 Leitersdorf im Raabtal|46.942|15.934|AT|Styria|57
+Leibsdorf|46.653|14.475|AT|Carinthia|57
 Leitzersdorf|48.419|16.245|AT|Lower Austria|56
+Leitrim|53.991|-8.064|IE|Connacht|55
+Leintwardine|52.362|-2.876|GB|England|55
+Leisel|49.717|7.200|DE|Rheinland-Pfalz|55
+Leitersburg|39.693|-77.623|US|Maryland|55
 Leisach|46.813|12.749|AT|Tyrol|55
+Leitchville|-35.904|144.302|AU|Victoria|55
 Lei|40.306|8.919|IT|Sardinia|55
+Leignes-sur-Fontaine|46.506|0.776|FR|New Aquitaine|55
+Leitersdorf bei Hartberg|47.150|16.033|AT|Styria|54
+Lei Cheng Uk Han Tomb Museum|22.338|114.160|HK|Sham Shui Po District|54|f
+Leidse Hout|52.176|4.480|NL|South Holland|54|f
+Leidse Rijn|52.100|4.967|NL|Utrecht|54|f
+Leighbreen|80.162|26.483|SJ|Svalbard|54|f
+Leimert Park|34.004|-118.331|US|California|54|f
+Leinesfjorden|67.754|14.824|NO|Nordland|54|f
+Leininger Peak|-70.616|-62.306|AQ||54|f
+Leirfjorden|66.030|12.685|NO|Nordland|54|f
+Leinsweiler|49.183|8.019|DE|Rheinland-Pfalz|52
+Leigh Hunt Glacier|-85.000|174.167|AQ||49|f
+Leighton Reservoir|54.200|-1.767|GB|England|49|f
+Leipzig University|51.338|12.379|DE|Saxony|49|f
+Leirvatnet|67.291|16.248|NO|Nordland|49|f
+Leirvogsvatn|64.196|-21.455|IS|Capital Region|49|f
+Leitch Massif|-71.917|164.600|AQ||49|f
+Leithagebirge|47.967|16.667|AT||49|f
 Leiva|42.503|-3.047|ES|La Rioja|49
+Leidenborn|50.133|6.217|DE|Rheinland-Pfalz|44
+Leitzweiler|49.583|7.217|DE|Rheinland-Pfalz|42
+Leidhorn|46.879|9.994|CH|Grisons|40|f
+Leigh Lake|43.814|-110.732|US|Wyoming|40|f
+Leigh Yawkey Woodson Art Museum|44.963|-89.613|US|Wisconsin|40|f
+Leila Arboretum|42.337|-85.216|US|Michigan|40|f
+Leila Wynne Lake|53.083|-66.782|CA|Newfoundland and Labrador|40|f
+Leistchamm|47.146|9.213|CH|Saint Gallen|40|f
+Leister Peak|-75.150|-113.900|AQ||40|f
+Leimbach|50.017|6.250|DE|Rheinland-Pfalz|38
+Lei|-8.310|121.705|ID|East Nusa Tenggara|0
 Leicheng|20.916|110.084|CN|Guangdong|0
+Leidian|30.522|120.141|CN|Zhejiang|0
+Leienkaul|50.217|7.083|DE|Rheinland-Pfalz|0
+Leifeng|25.576|118.294|CN|Fujian|0
+Leiferde|52.439|10.435|DE|Lower Saxony|0
+Leigao|20.809|110.194|CN|Guangdong|0
+Leigh|52.177|-2.316|GB|England|0
 Leigh|51.617|-1.900|GB|England|0
 Leigh-on-Sea|51.543|0.649|GB|England|0
+Leigong|31.294|113.511|CN|Hubei|0
+Leigongjian|28.886|115.340|CN|Jiangxi|0
+Leigongmiao|29.256|111.618|CN|Hunan|0
+Leigongta|29.793|111.769|CN|Hunan|0
+Leigu|32.369|109.924|CN|Hubei|0
+Leiguan|32.346|118.616|CN|Anhui|0
+Leijiadian|30.887|115.752|CN|Hubei|0
+Leiling|23.085|116.367|CN|Guangdong|0
+Leimbach|50.404|6.928|DE|Rheinland-Pfalz|0
+Leiming|19.557|110.320|CN|Hainan|0
 Leinesfjorden|67.775|15.015|NO|Nordland|0
 Leintz-Gatzaga|42.987|-2.569|ES|Basque Country|0
 Leipsoí|37.283|26.767|GR|South Aegean|0

@@ -13,7 +13,7 @@ Liuzhou|24.324|109.407|CN|Guangxi|123
 Lianjiang|21.647|110.282|CN|Guangdong|123
 Liupanshui|26.594|104.833|CN|Guizhou|122
 Liaocheng|36.451|116.002|CN|Shandong|122
-Lima region|-11.850|-76.450|PE||121|r
+Lima region|-11.850|-76.450|PE||122|r
 Limburg|51.250|6.000|NL||121|r
 Lilongwe|-13.967|33.787|MW|Central Region|121
 Linfen|36.089|111.519|CN|Shanxi|120
@@ -27,8 +27,8 @@ Lisbon|38.725|-9.150|PT|Lisbon|114
 Lipetsk|52.588|39.552|RU|Lipetsk Oblast|114
 Liverpool|53.411|-2.978|GB|England|114
 Lishui|28.460|119.910|CN|Zhejiang|113
+Liberec Region|50.750|15.000|CZ||112|r
 Liaozhong|41.506|122.724|CN|Liaoning|112
-Liberec Region|50.750|15.000|CZ||111|r
 Lincang|23.880|100.095|CN|Yunnan|110
 Lianshan|40.764|120.853|CN|Liaoning|110
 Linqu|36.516|118.540|CN|Shandong|110
@@ -49,6 +49,7 @@ Linhares|-19.391|-40.072|BR|Espírito Santo|105
 Livingstone|-17.842|25.854|ZM|Southern Province|105
 Licheng|23.295|113.825|CN|Guangdong|105
 Linköping|58.411|15.622|SE|Östergötland|104
+Ligurian Sea|43.500|9.000|||104|f
 Limuru|-1.114|36.642|KE|Kiambu County|104
 Livorno|43.544|10.326|IT|Tuscany|104
 Lizhi|29.703|107.395|CN|Chongqing|104
@@ -97,5 +98,4 @@ Liangxiang|39.736|116.133|CN|Beijing|98
 Lintong|34.378|109.209|CN|Shaanxi|98
 Licheng|31.428|119.484|CN|Jiangsu|97
 Livyi Bereh|48.594|34.560|UA|Dnipropetrovsk|97
-Linjiang|31.100|108.220|CN|Chongqing|97
 Li|17.803|98.951|TH|Lamphun|0

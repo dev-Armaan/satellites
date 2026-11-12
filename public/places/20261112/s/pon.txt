@@ -16,6 +16,7 @@ Ponticelli|40.854|14.330|IT|Campania|94
 Pontes e Lacerda|-15.226|-59.335|BR|Mato Grosso|93
 Pontefract|53.691|-1.313|GB|England|93
 Ponte de Lima|41.767|-8.584|PT|Viana do Castelo|93
+Ponta Delgada-João Paulo II Airport|37.741|-25.698|PT|Azores|93|f
 Pontian Besar|1.506|103.382|MY|Johor|92
 Pontal|-21.023|-48.037|BR|São Paulo|92
 Pontypool|51.701|-3.044|GB|Wales|91
@@ -28,6 +29,7 @@ Ponneri|13.339|80.195|IN|Tamil Nadu|90
 Pontal do Paraná|-25.674|-48.511|BR|Paraná|90
 Pontoise|49.050|2.100|FR|Île-de-France|90
 Ponmana|9.008|76.520|IN|Kerala|89
+Ponte Sant'Angelo|41.902|12.466|IT|Lazio|89|f
 Ponmundam|10.954|75.947|IN|Kerala|88
 Ponca City|36.707|-97.086|US|Oklahoma|88
 Ponedera|10.643|-74.754|CO|Atlántico|87
@@ -37,14 +39,21 @@ Ponteareas|42.175|-8.504|ES|Galicia|87
 Ponda|15.403|74.015|IN|Goa|87
 Pontarlier|46.903|6.355|FR|Bourgogne-Franche-Comté|86
 Ponta Delgada|37.740|-25.669|PT|Azores|86
+Pont de Normandie|49.436|0.274|FR|Normandy|86|f
+Pont Neuf|48.857|2.341|FR|Île-de-France|86|f
 Pontedera|43.661|10.631|IT|Tuscany|86
+Ponte Vecchio|43.768|11.253|IT|Tuscany|86|f
 Pontalina|-17.525|-49.447|BR|Goiás|85
 Pontivy|48.068|-2.966|FR|Brittany|84
+Pont Mirabeau|48.847|2.275|FR|Île-de-France|84|f
+Ponte dell'Accademia|45.432|12.329|IT|Veneto|84|f
 Pont-à-Celles|50.505|4.369|BE|Wallonia|84
 Ponders End|51.645|-0.047|GB|England|84
+Pont d'Iéna|48.860|2.292|FR|Île-de-France|84|f
 Ponmana|8.355|77.328|IN|Tamil Nadu|84
 Pont-à-Mousson|48.907|6.056|FR|Grand Est|84
 Ponto Novo|-10.863|-40.134|BR|Bahia|83
+pont de Bir-Hakeim|48.856|2.288|FR|Île-de-France|83|f
 Pong|19.149|100.275|TH|Phayao|83
 Pont-Viau|45.572|-73.686|CA|Quebec|83
 Pont-Sainte-Maxence|49.302|2.605|FR|Hauts-de-France|83
@@ -52,6 +61,7 @@ Ponsacco|43.623|10.627|IT|Tuscany|83
 Poncitlán|20.381|-102.924|MX|Jalisco|83
 Ponnamarāvati|10.280|78.536|IN|Tamil Nadu|82
 Pondūru|18.350|83.756|IN|Andhra Pradesh|82
+Pont de la Concorde|48.863|2.320|FR|Île-de-France|82|f
 Ponte San Nicolò|45.367|11.923|IT|Veneto|82
 Ponnampatti|10.367|78.396|IN|Tamil Nadu|82
 Ponthierry|48.534|2.544|FR|Île-de-France|82
@@ -61,12 +71,17 @@ Pontecagnano|40.644|14.876|IT|Campania|81
 Ponte de Sôr|39.250|-8.010|PT|Portalegre|81
 Ponto dos Volantes|-16.753|-41.504|BR|Minas Gerais|81
 Ponte Serrada|-26.872|-52.016|BR|Santa Catarina|81
+pont Saint-Louis|48.853|2.353|FR|Île-de-France|80|f
+Ponta Porã International Airport|-22.550|-55.703|BR|Mato Grosso do Sul|80|f
 Ponzano|45.715|12.204|IT|Veneto|80
 Ponteland|55.050|-1.745|GB|England|80
 Poniatowa|51.180|22.131|PL|Lublin|80
 Pont-Saint-Esprit|44.257|4.648|FR|Occitanie|80
 Pontassieve|43.775|11.431|IT|Tuscany|80
 Pont-Audemer|49.350|0.517|FR|Normandy|80
+Pont d'Arcole|48.855|2.351|FR|Île-de-France|80|f
+Pont de Sully|48.850|2.358|FR|Île-de-France|80|f
+Ponte Pietra|45.448|11.000|IT|Veneto|80|f
 Pont-du-Château|45.798|3.248|FR|Auvergne-Rhône-Alpes|80
 Pontarddulais|51.714|-4.039|GB|Wales|79
 Pontonnyy|59.787|30.615|RU|St. Petersburg|79
@@ -80,11 +95,18 @@ Ponte Cingoli|45.598|10.107|IT|Lombardy|78
 Pontevedra|10.375|122.868|PH|Western Visayas|78
 Ponte Alta do Tocantins|-10.744|-47.536|BR|Tocantins|78
 Pongro|12.257|105.922|KH|Kratie|78
+Pont au Change|48.857|2.347|FR|Île-de-France|78|f
+pont de Grenelle|48.850|2.280|FR|Île-de-France|78|f
+Pont des Arts|48.858|2.338|FR|Île-de-France|78|f
+Ponte Palatino|41.889|12.479|IT|Lazio|78|f
 Pont Rouge|48.883|-72.082|CA|Quebec|78
 Pontal do Araguaia|-15.907|-52.257|BR|Mato Grosso|77
 Poninka|50.184|27.528|UA|Khmelnytskyi|77
 Ponchatoula|30.439|-90.441|US|Louisiana|77
 Ponte|41.471|-8.330|PT|Braga|77
+Pont Louis-Philippe|48.854|2.354|FR|Île-de-France|77|f
+Pont Marie|48.853|2.357|FR|Île-de-France|77|f
+Pontefract Castle|53.695|-1.304|GB|England|77|f
 Pontcharra|45.436|6.018|FR|Auvergne-Rhône-Alpes|77
 Pontevico|45.273|10.092|IT|Lombardy|77
 Pont-l'Abbé|47.867|-4.224|FR|Brittany|77
@@ -95,6 +117,7 @@ Pondarkanali|23.770|86.352|IN|Jharkhand|76
 Ponto Belo|-18.124|-40.541|BR|Espírito Santo|76
 Ponteranica|45.732|9.652|IT|Lombardy|76
 Pontinia|41.411|13.043|IT|Lazio|76
+Ponafidin Island|30.482|140.301|JP|Tokyo|76|f
 Pona-Vahi|6.947|-7.161|CI|Montagnes|76
 Pontoglio|45.569|9.853|IT|Lombardy|76
 Pontasserchio|43.780|10.417|IT|Tuscany|76
@@ -102,10 +125,19 @@ Ponnampet|12.145|75.945|IN|Karnataka|76
 Ponte Sasso|43.799|13.095|IT|The Marches|76
 Pontotoc|34.248|-88.999|US|Mississippi|75
 Ponan|5.903|-7.477|CI|Montagnes|75
+Pont d'Austerlitz|48.845|2.366|FR|Île-de-France|75|f
+Pont de Bercy|48.838|2.375|FR|Île-de-France|75|f
+Pont de la Tournelle|48.851|2.355|FR|Île-de-France|75|f
+Pont du Garigliano|48.839|2.268|FR|Île-de-France|75|f
+Pont Notre-Dame|48.856|2.349|FR|Île-de-France|75|f
+Pont Royal|48.860|2.330|FR|Île-de-France|75|f
+Pontikonísi|39.586|19.918|GR|Ionian Islands|75|f
 Pontyclun|51.522|-3.391|GB|Wales|75
 Pontoon Beach|38.732|-90.080|US|Illinois|75
 Pont-Évêque|45.532|4.909|FR|Auvergne-Rhône-Alpes|75
 Pontenure|44.998|9.791|IT|Emilia-Romagna|75
+Pont Amont|48.827|2.389|FR|Île-de-France|74|f
+pont de Tolbiac|48.833|2.381|FR|Île-de-France|74|f
 Pontremoli|44.375|9.879|IT|Tuscany|74
 Ponggae-dong|33.491|126.594|KR|Jeju-do|74
 Pont-Sainte-Marie|48.318|4.094|FR|Grand Est|74
@@ -117,6 +149,7 @@ Pont-de-Roide|47.387|6.768|FR|Bourgogne-Franche-Comté|74
 Ponte Buggianese|43.846|10.748|IT|Tuscany|74
 Poncarale|45.461|10.180|IT|Lombardy|74
 Pont-l'Évêque|49.289|0.192|FR|Normandy|74
+Pont Aval|48.835|2.264|FR|Île-de-France|73|f
 Pont-de-Chéruy|45.753|5.172|FR|Auvergne-Rhône-Alpes|73
 Ponyri Vtoryye|52.280|36.225|RU|Kursk Oblast|73
 Ponso|13.291|123.517|PH|Bicol Region|73
@@ -134,12 +167,15 @@ Pontycymer|51.611|-3.584|GB|Wales|73
 Ponte Lambro|45.825|9.225|IT|Lombardy|73
 Ponta do Sol|32.680|-17.100|PT|Madeira|73
 Poneloya|12.378|-87.042|NI|León Department|73
+pont National|48.828|2.387|FR|Île-de-France|72|f
 Pontorson|48.553|-1.508|FR|Normandy|72
 Pontalinda|-20.441|-50.523|BR|São Paulo|72
 Ponte dell'Olio|44.868|9.644|IT|Emilia-Romagna|72
 Pontecurone|44.959|8.933|IT|Piedmont|72
 Pont-Saint-Martin|45.595|7.795|IT|Aosta Valley|72
 Ponto Chique|-16.631|-45.066|BR|Minas Gerais|71
+Ponciano Arriaga International Airport|22.254|-100.931|MX|San Luis Potosí|71|f
+Pont au Double|48.853|2.348|FR|Île-de-France|71|f
 Ponderano|45.538|8.056|IT|Piedmont|71
 Pont-Néro|4.750|-6.935|CI|Bas-Sassandra District|71
 Ponta Garça|37.717|-25.367|PT|Azores|71
@@ -154,6 +190,7 @@ Pont-sur-Yonne|48.283|3.202|FR|Bourgogne-Franche-Comté|70
 Pont Canavese|45.421|7.600|IT|Piedmont|70
 Ponderosa Park|39.408|-104.651|US|Colorado|70
 Ponte Alta do Norte|-27.158|-50.464|BR|Santa Catarina|70
+Pond Inlet Airport|72.687|-77.973|CA|Nunavut|70|f
 Ponce Inlet|29.096|-80.937|US|Florida|70
 Pont-Aven|47.855|-3.748|FR|Brittany|70
 Pontevedra|11.481|122.832|PH|Western Visayas|70
@@ -185,6 +222,7 @@ Pontian|8.281|124.900|PH|Northern Mindanao|67
 Ponornytsia|51.726|32.853|UA|Chernihiv Oblast|67
 Pontcharra-sur-Turdine|45.874|4.490|FR|Auvergne-Rhône-Alpes|67
 Pont-à-Marcq|50.522|3.114|FR|Hauts-de-France|67
+Pon’yaoromappu Dake|42.514|142.938|JP|Hokkaido|67|f
 Ponte di Barbarano|45.392|11.578|IT|Veneto|67
 Pont-Saint-Vincent|48.605|6.098|FR|Grand Est|67
 Pondaguitan|6.361|126.178|PH|Davao Region|67
@@ -198,6 +236,10 @@ Pongala|10.357|-5.594|CI|Savanes District|66
 Pontesbury|52.648|-2.890|GB|England|65
 Ponte Pattoli|43.178|12.428|IT|Umbria|65
 Pontresina|46.495|9.901|CH|Grisons|65
+Pongtiku Airport|-3.045|119.822|ID|South Sulawesi|65|f
+Pont de la Margineda|42.484|1.491|AD|Andorra la Vella|65|f
+Pontarlier Airport|46.909|6.330|FR|Bourgogne-Franche-Comté|65|f
+Pontook Reservoir|44.633|-71.236|US|New Hampshire|65|f
 Pont-Croix|48.041|-4.487|FR|Brittany|65
 Ponza|40.895|12.959|IT|Lazio|65
 Ponitz|50.858|12.423|DE|Thuringia|65
@@ -228,6 +270,8 @@ Pont-de-Salars|44.281|2.727|FR|Occitanie|64
 Ponticino|43.480|11.716|IT|Tuscany|64
 Pont Rhyd-y-cyff|51.587|-3.636|GB|Wales|64
 Ponte Caffaro|45.821|10.527|IT|Lombardy|63
+Ponte Presidente Costa e Silva|-22.871|-43.155|BR|Rio de Janeiro|63|f
+Pontoise – Cormeilles Aerodrome|49.097|2.041|FR|Île-de-France|63|f
 Ponterio-Pian di Porto|42.808|12.410|IT|Umbria|63
 Ponte della Venturina|44.130|10.991|IT|Emilia-Romagna|63
 Pontyates|51.752|-4.217|GB|Wales|63
@@ -247,6 +291,12 @@ Pontenx-les-Forges|44.241|-1.121|FR|New Aquitaine|61
 Ponte A Elsa|43.689|10.893|IT|Tuscany|61
 Pontpierre|49.536|6.029|LU|Esch-sur-Alzette|61
 Ponderay|48.305|-116.534|US|Idaho|61
+Ponca City Regional Airport|36.729|-97.102|US|Oklahoma|61|f
+Ponce de Leon Bay|25.359|-81.137|US|Florida|61|f
+Pongalei|-7.235|177.164|TV|Nui|61|f
+Pongbok-san|37.620|128.216|KR|Gangwon-do|61|f
+Ponkapoag Pond|42.192|-71.095|US|Massachusetts|61|f
+Pontiac Municipal Airport|40.922|-88.625|US|Illinois|61|f
 Ponta Verde|15.199|-23.600|CV|São Filipe|61
 Pontebba|46.505|13.306|IT|Friuli Venezia Giulia|61
 Poniklá|50.662|15.463|CZ|Liberec Region|61
@@ -260,33 +310,236 @@ Pontelangorino|44.861|12.149|IT|Emilia-Romagna|60
 Pont-Écrepin|48.764|-0.245|FR|Normandy|60
 Pont-d'Ouilly|48.876|-0.402|FR|Normandy|60
 Pont-en-Royans|45.063|5.341|FR|Auvergne-Rhône-Alpes|60
+Pontgouin|48.482|1.160|FR|Centre-Val de Loire|60
+Ponte di Ferro|40.885|14.394|IT|Campania|60
+Pont Henri|51.761|-4.208|GB|Wales|60
+Ponzano|43.965|10.964|IT|Tuscany|60
+Ponsanooth|50.199|-5.144|GB|England|60
+Pont-sur-Seine|48.518|3.596|FR|Grand Est|60
 Ponzano Romano|42.257|12.570|IT|Lazio|59
+Pontmain|48.439|-1.059|FR|Pays de la Loire|59
 Ponca|42.563|-96.706|US|Nebraska|59
+Pongafré|9.848|-6.159|CI|Savanes District|59
+Pontaumur|45.869|2.675|FR|Auvergne-Rhône-Alpes|59
+Pongrac|46.217|15.133|SI|Municipality of Žalec|59
+Ponte di Serravalle|43.896|10.822|IT|Tuscany|59
+Poniativka|46.904|30.170|UA|Odesa|59
+Ponticelli|44.321|11.653|IT|Emilia-Romagna|59
+Pontgibaud|45.832|2.851|FR|Auvergne-Rhône-Alpes|59
+Pond Creek|36.669|-97.801|US|Oklahoma|59
+Ponte A Bozzone|43.349|11.373|IT|Tuscany|59
+Ponoară|46.886|22.658|RO|Bihor County|59
 Pontestura|45.142|8.333|IT|Piedmont|58
+Pontrhydyfen|51.634|-3.745|GB|Wales|58
+Pontigny|47.905|3.712|FR|Bourgogne-Franche-Comté|58
+Pontepietra|45.043|7.319|IT|Piedmont|58
+Pontpierre|49.044|6.640|FR|Grand Est|58
+Ponta da Achada|15.133|-23.540|CV|Santa Cruz|58
+Ponte San Michele|40.829|14.592|IT|Campania|58
+Pond, Mount|-62.950|-60.550|AQ||58|f
+Ponderosa Ranch Airport|44.029|-118.935|US|Oregon|58|f
+Ponta Grossa Airport|-25.185|-50.144|BR|Paraná|58|f
+Ponte de Lianhua|22.140|113.549|MO||58|f
+Ponteland Castle|55.051|-1.743|GB|England|58|f
+Ponton Island|-65.108|-63.087|AQ||58|f
+Ponciano Arriaga|16.488|-92.626|MX|Chiapas|58
+Poncha Springs|38.513|-106.077|US|Colorado|58
+Poncins|45.725|4.170|FR|Auvergne-Rhône-Alpes|58
 Ponte Arche|46.035|10.873|IT|Trentino-Alto Adige|58
+Pontetto-Roldo|46.152|8.321|IT|Piedmont|58
+Ponta do Pargo|32.811|-17.249|PT|Madeira|58
+Pont-Noyelles|49.941|2.444|FR|Hauts-de-France|57
+Ponemah|48.021|-94.914|US|Minnesota|57
+Ponchiera|46.181|9.872|IT|Lombardy|57
+Pontrhydfendigaid|52.283|-3.863|GB|Wales|57
+Pont-Authou|49.244|0.713|FR|Normandy|57
 Pontey|45.739|7.588|IT|Aosta Valley|57
 Ponor|46.333|23.417|RO|Alba County|57
 Pont Cassé|15.367|-61.350|DM|Saint Paul Parish|57
+Pontemaodino|44.833|12.150|IT|Emilia-Romagna|57
+Ponte San Lorenzo|42.536|12.580|IT|Umbria|57
+Pontoirákleia|41.104|22.622|GR|Central Macedonia|57
+Ponte d'Oro|43.761|10.364|IT|Tuscany|56
+Pont Suaz-Ampaillant|45.727|7.319|IT|Aosta Valley|56
+Pont-Melvez|48.461|-3.307|FR|Brittany|56
+Pona Alta|-5.898|-78.364|PE|Amazonas|56
+Ponte All'Ania|44.042|10.494|IT|Tuscany|56
+Pont-de-Poitte|46.587|5.691|FR|Bourgogne-Franche-Comté|56
+Pongokofikro|7.783|-4.433|CI|Lacs District|56
+Pontevès|43.554|6.029|FR|Provence-Alpes-Côte d'Azur|56
+Pont-de-Ruan|47.262|0.575|FR|Centre-Val de Loire|56
+Ponticelli|42.931|11.975|IT|Umbria|56
+Pontville|-42.687|147.269|AU|Tasmania|56
+Ponta Figo|0.346|6.544|ST|São Tomé Island|56
+Ponte Nuovo|43.004|12.428|IT|Umbria|56
+Ponteterra|44.995|10.465|IT|Lombardy|56
+Ponte d'Assi|43.310|12.576|IT|Umbria|56
+Pontarmé|49.153|2.550|FR|Hauts-de-France|55
+Pontillas|50.549|5.021|BE|Wallonia|55
+Ponte Rizzoli|44.465|11.510|IT|Emilia-Romagna|55
 Ponte di Castegnero|45.437|11.601|IT|Veneto|55
+Ponova Vas|45.938|14.633|SI|Municipality of Grosuplje|55
+Ponte Ete-Caldarette|43.139|13.717|IT|The Marches|55
+Ponthoile|50.214|1.711|FR|Hauts-de-France|55
+Ponce de Leon|30.723|-85.937|US|Florida|55
+Ponlat-Taillebourg|43.111|0.600|FR|Occitanie|55
+Pongobamba|-13.424|-72.038|PE|Cuzco Department|55
+Ponte Barizzo|40.493|15.018|IT|Campania|55
+Ponthévrard|48.552|1.910|FR|Île-de-France|55
+Ponthaux|46.815|7.041|CH|Fribourg|55
+Ponterotto-Giustizia|45.453|11.828|IT|Veneto|55
+Ponce de Leon Springs State Park|30.712|-85.927|US|Florida|54|f
+Poncione della Bolla|46.467|8.595|CH|Ticino|54|f
+Pondalowie Bay|-35.227|136.841|AU|South Australia|54|f
+Pondicherry Airport|11.969|79.810|IN|Tamil Nadu|54|f
+Pondok Cabe Air Base|-6.337|106.765|ID|West Java|54|f
+Ponikve Airport|43.899|19.698|RS|Central Serbia|54|f
+Pons Fabricius|41.891|12.478|IT|Lazio|54|f
+Ponson Island|10.772|124.530|PH|Central Visayas|54|f
+Pont d'Avignon|43.954|4.805|FR|Provence-Alpes-Côte d'Azur|54|f
+Pont d’Engordany|42.509|1.543|AD|Escaldes-Engordany|54|f
+Pont Houphouët-Boigny|5.312|-4.019|CI|Abidjan Autonomous District|54|f
+Ponta Do Ouro|-26.827|32.838|MZ|Maputo Province|54|f
+Ponta do Seixas|-7.150|-34.783|BR|São Paulo|54|f
+Ponte de D. Luís|41.140|-8.609|PT|Porto|54|f
+Ponte dei Sospiri|45.434|12.341|IT|Veneto|54|f
+Ponte Molino|45.412|11.874|IT|Veneto|54|f
+Ponte Scaligero|45.440|10.987|IT|Veneto|54|f
+Pont-Trambouze|46.072|4.314|FR|Auvergne-Rhône-Alpes|54
+Ponte Armellina Zona Residenziale|43.781|12.712|IT|The Marches|54
 Ponuga|7.883|-80.977|PA|Veraguas Province|54
+Pont-de-Labeaume|44.667|4.290|FR|Auvergne-Rhône-Alpes|54
+Ponte dell'Aspio|43.529|13.499|IT|The Marches|54
 Pont de Molins|42.314|2.930|ES|Catalonia|53
 Ponzano di Fermo|43.104|13.660|IT|The Marches|52
 Pontinvrea|44.442|8.436|IT|Liguria|51
 Ponti|44.628|8.365|IT|Piedmont|50
+Ponam Island|-1.913|146.885|PG|Manus Province|49|f
+Ponce Harbor|17.972|-66.631|PR|Ponce|49|f
+Ponce Island|-63.309|-57.877|AQ||49|f
+Pond Peak|-77.317|162.400|AQ||49|f
+Ponder Peak|-77.483|162.767|AQ||49|f
+Pongo de Mainique|-12.238|-72.821|PE|Cuzco Department|49|f
+Ponmudi|10.486|76.479|IN|Kerala|49|f
+Ponquogue Bridge|40.845|-72.501|US|New York|49|f
+Pons Cestius|41.890|12.477|IT|Lazio|49|f
+Pont de la Tosca|42.509|1.546|AD|Escaldes-Engordany|49|f
+Pont dels Escalls|42.513|1.535|AD|Escaldes-Engordany|49|f
+Pont Gate|50.782|6.078|DE|North Rhine-Westphalia|49|f
+Ponte Governador Nobre De Carvalho|22.181|113.545|MO||49|f
+Ponte Nova|42.003|-8.164|PT|Viana do Castelo|49|f
+Ponte Rotto|41.889|12.479|IT|Lazio|49|f
+Pontedera Airport|43.659|10.618|IT|Tuscany|49|f
+Ponten|47.483|10.450|DE|Bavaria|49|f
+Pontes Ridge|-80.133|156.400|AQ||49|f
+Ponui Island|-36.867|175.183|NZ||49|f
+Pony Lake|-77.553|166.166|AQ||49|f
 Pontelatone|41.195|14.248|IT|Campania|48
 Ponte Nizza|44.852|9.097|IT|Lombardy|48
 Pontós|42.187|2.917|ES|Catalonia|46
 Pontechianale|44.621|7.030|IT|Piedmont|46
 Ponna Superiore|45.990|9.094|IT|Lombardy|46
+Pongrazen bei Hartberg|47.342|15.910|AT|Styria|45
 Pontestazzemese|43.997|10.294|IT|Tuscany|45
 Ponzano Monferrato|45.085|8.266|IT|Piedmont|44
 Ponte Gardena|46.597|11.531|IT|Trentino-Alto Adige|44
 Ponzone|44.588|8.459|IT|Piedmont|44
+Poncin Cove|47.169|-122.812|US|Washington|40|f
+Poncione d'Alnasca|46.292|8.824|CH|Ticino|40|f
+Poncione dei Laghetti|46.273|8.912|CH|Ticino|40|f
+Poncione del Vènn|46.274|8.907|CH|Ticino|40|f
+Poncione della Marcia|46.319|8.766|CH|Ticino|40|f
+Poncione di Braga|46.434|8.543|CH|Ticino|40|f
+Poncione di Manió|46.497|8.436|CH|Ticino|40|f
+Poncione di Piotta|46.254|8.924|CH|Ticino|40|f
+Poncione di Valleggia|46.465|8.499|CH|Ticino|40|f
+Poncione di Vespero|46.500|8.581|CH|Ticino|40|f
+Poncione Piancascia|46.299|8.734|CH|Ticino|40|f
+Poncione Pro do Rodùc|46.532|8.727|CH|Ticino|40|f
+Poncione Rosso|46.299|8.912|CH|Ticino|40|f
+Pond Creek National Wildlife Refuge|33.850|-94.247|US|Arkansas|40|f
+Pond Mill Bridge|40.001|-77.059|US|Pennsylvania|40|f
+Pond Ridge|-73.417|-93.550|AQ||40|f
+Ponn Humpback Covered Bridge|39.065|-82.400|US|Ohio|40|f
+Pont Bordeleau|46.673|-72.557|CA|Quebec|40|f
+Pont Cartier-Macdonald|45.438|-75.706|CA|Quebec|40|f
+Pont Charles de Gaulle|48.843|2.369|FR|Île-de-France|40|f
+Pont Charles-De Gaulle|45.698|-73.508|CA|Quebec|40|f
+Pont de l'Île-aux-Tourtes|45.417|-73.983|CA|Quebec|40|f
+Pont de la Concorde|45.508|-73.529|CA|Quebec|40|f
+Pont de Noirmoutier|46.890|-2.150|FR|Pays de la Loire|40|f
+Pont de Powerscourt|45.006|-74.161|CA|Quebec|40|f
+Pont de Saint-Nazaire|47.275|-2.164|FR|Pays de la Loire|40|f
+Pont de Savines|44.531|6.396|FR|Provence-Alpes-Côte d'Azur|40|f
+Pont del Diable|41.475|1.938|ES|Catalonia|40|f
+Pont des Invalides|48.864|2.310|FR|Île-de-France|40|f
+Pont du Carrousel|48.859|2.333|FR|Île-de-France|40|f
+Pont Du Diable|43.708|3.557|FR|Occitanie|40|f
+Pont du Long-Sault|45.619|-74.598|CA|Quebec|40|f
+Pont du Portage|45.422|-75.714|CA|Ontario|40|f
+Pont Ducharme|47.520|-72.681|CA|Quebec|40|f
+Pont Félix-Gabriel-Marchand|45.861|-76.740|CA|Quebec|40|f
+Pont Galipeault|45.403|-73.956|CA|Quebec|40|f
+Pont Gustave Flaubert|49.443|1.064|FR|Normandy|40|f
+Pont Honoré-Mercier|45.414|-73.656|CA|Quebec|40|f
+Pont Jacques-Bizard|45.488|-73.868|CA|Quebec|40|f
+Pont Jacques-Cartier|45.523|-73.545|CA|Quebec|40|f
+Pont Lachapelle|45.534|-73.728|CA|Quebec|40|f
+Pont Laviolette|46.315|-72.574|CA|Quebec|40|f
+Pont Le Gardeur|45.706|-73.483|CA|Quebec|40|f
+Pont Louis-Bisson|45.512|-73.764|CA|Quebec|40|f
+Pont Médéric-Martin|45.542|-73.714|CA|Quebec|40|f
+Pont Papineau-Leblanc|45.578|-73.668|CA|Quebec|40|f
+Pont Prince-de-Galles|45.418|-75.729|CA|Ontario|40|f
+Pont Saint-Michel|48.854|2.345|FR|Île-de-France|40|f
+Pont Taschereau|45.387|-74.001|CA|Quebec|40|f
+Pont Victoria|45.488|-73.539|CA|Quebec|40|f
+Pont-Neuf|43.599|1.439|FR|Occitanie|40|f
+Ponte Coperto|45.181|9.153|IT|Lombardy|40|f
+Ponte da Arrábida|41.147|-8.640|PT|Porto|40|f
+Ponte das Cainheiras|42.026|-8.139|PT|Viana do Castelo|40|f
+Ponte das Taipas|41.482|-8.345|PT|Braga|40|f
+Ponte de Lagoncinha|41.349|-8.520|PT|Braga|40|f
+Ponte de Rande|42.287|-8.661|ES|Galicia|40|f
+Ponte dei Mendicanti|45.442|12.343|IT|Veneto|40|f
+Ponte di San Francesco di Paola|40.473|17.235|IT|Apulia|40|f
+Ponte do Prado|41.596|-8.463|PT|Braga|40|f
+Ponte medieval de Vilela|41.921|-8.442|PT|Viana do Castelo|40|f
+Ponte Principe Amedeo Savoia Aosta|41.900|12.464|IT|Lazio|40|f
+Ponte Vecchio|44.134|12.234|IT|Emilia-Romagna|40|f
+Ponte Vecchio|45.767|11.731|IT|Veneto|40|f
+Ponte Vella|42.346|-7.869|ES|Galicia|40|f
+Ponte Vittorio Emanuele II|41.901|12.464|IT|Lazio|40|f
+Pontfadog|52.783|-3.050|GB|England|40|f
+Pontiac Lake|42.668|-83.460|US|Michigan|40|f
+Pontiac Lake State Recreation Area|42.676|-83.471|US|Michigan|40|f
+Pontifical Catholic University of Rio de Janeiro|-22.941|-43.242|BR|Rio de Janeiro|40|f
+Pontificia Universidad Católica de Valparaíso|-33.045|-71.605|CL|Valparaiso|40|f
+Ponto Lake|46.872|-94.340|US|Minnesota|40|f
+Pony Creek Park|41.071|-95.786|US|Iowa|40|f
 Pont-Bozet|45.607|7.686|IT|Aosta Valley|39
+Ponain|-10.207|123.852|ID|East Nusa Tenggara|0
+Poncokusumo|-8.052|112.810|ID|East Java|0
+Pondohan|-6.730|111.084|ID|Central Java|0
+Pondokaso|-7.356|106.542|ID|West Java|0
+Pondokdalem|-8.147|113.430|ID|East Java|0
+Pondokkaha Kelod|-8.736|115.495|ID|Bali|0
+Pondokrejo|-8.207|113.310|ID|East Java|0
+Pondokrejo Wetan|-6.837|111.324|ID|Central Java|0
+Pondoktelo|-8.105|113.283|ID|East Java|0
+Pondokunyur|-7.389|108.676|ID|West Java|0
+Pondokwaru|-6.197|105.839|ID|Banten|0
+Pondokwungu|-7.556|108.796|ID|Central Java|0
+Ponggeok|-8.723|120.415|ID|East Nusa Tenggara|0
+Ponggok|-8.238|111.686|ID|East Java|0
+Pongkor|-8.714|120.388|ID|East Nusa Tenggara|0
 Pongo de Caynarachi|-6.331|-76.284|PE|San Martín Department|0
+Pongpongan|-6.872|111.946|ID|East Java|0
 Ponhea Lueu|11.656|104.867|KH|Phnom Penh|0
+Ponjen|-6.837|111.386|ID|Central Java|0
 Ponomarëvka|53.315|54.121|RU|Orenburg Oblast|0
 Pont-la-Ville|46.698|7.111|CH|Fribourg|0
+Pontang Tengah|-8.346|113.638|ID|East Java|0
 Ponte Caldelas|42.389|-8.502|ES|Galicia|0
 Ponthir|51.632|-2.976|GB|Wales|0
 Pontianak Barat|-0.019|109.319|ID|West Kalimantan|0

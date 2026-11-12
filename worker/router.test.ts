@@ -79,6 +79,13 @@ describe('cache-control as browsers get it from Vercel', () => {
     expect((await get('/api/nope')).headers.get('cache-control')).toBe('public, max-age=0, must-revalidate')
   })
 
+  it('remembers a missing file in a versioned directory, as Vercel does', async () => {
+    const get = async (path: string) => (await route(new Request(`https://www.watched.earth${path}`), routes())).headers.get('cache-control')
+    expect(await get('/places/20261112/s/zz.txt')).toBe('public, max-age=31536000, immutable')
+    expect(await get('/assets/gone-abc123.js')).toBe('public, max-age=31536000, immutable')
+    expect(await get('/missing.png')).toBe('public, max-age=0, must-revalidate')
+  })
+
   it('leaves a static file\'s header as public/_headers set it', async () => {
     const cc = 'public, max-age=600, s-maxage=3600, stale-while-revalidate=86400'
     const r: Routes = { ...routes(), assets: { fetch: async () => new Response('{}', { headers: { 'cache-control': cc } }) } }

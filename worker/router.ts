@@ -88,7 +88,21 @@ async function cached(request: Request, handler: Handler, routes: Routes): Promi
   return res
 }
 
-const notFound = () => new Response('Not found', { status: 404, headers: { 'content-type': 'text/plain; charset=utf-8' } })
+/**
+ * Vercel applies a path's header rules to its 404 as well. That matters for the two versioned directories: a hashed
+ * asset or a place-list file that does not exist never will, and the browser remembers so (localPlaces.ts relies on
+ * it, for a typed name with no file).
+ */
+const IMMUTABLE_DIRS = /^\/(assets|places)\//
+
+const notFound = (path: string) =>
+  new Response('Not found', {
+    status: 404,
+    headers: {
+      'content-type': 'text/plain; charset=utf-8',
+      ...(IMMUTABLE_DIRS.test(path) ? { 'cache-control': 'public, max-age=31536000, immutable' } : {}),
+    },
+  })
 
 async function dispatch(request: Request, url: URL, routes: Routes): Promise<Response> {
   const path = url.pathname
@@ -117,7 +131,7 @@ async function dispatch(request: Request, url: URL, routes: Routes): Promise<Res
       return cached(request, routes.pan, routes)
   }
   if (APP_PATH.test(path)) return routes.assets.fetch(rewrite(request, new URL('/', url)))
-  return notFound()
+  return notFound(path)
 }
 
 /** What Vercel sends when a response names no Cache-Control. */

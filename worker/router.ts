@@ -120,10 +120,36 @@ async function dispatch(request: Request, url: URL, routes: Routes): Promise<Res
   return notFound()
 }
 
+/** What Vercel sends when a response names no Cache-Control. */
+const NO_CACHE_CONTROL = 'public, max-age=0, must-revalidate'
+
+/**
+ * A handler's Cache-Control as the browser gets it from Vercel: its CDN keeps `s-maxage` and
+ * `stale-while-revalidate` for itself and removes them, so a browser never serves a card or share page stale.
+ * The cache (above) still sees the full header.
+ */
+export function browserCacheControl(cc: string | null): string {
+  const kept = (cc ?? '')
+    .split(',')
+    .map((d) => d.trim())
+    .filter((d) => d && !/^(s-maxage|stale-while-revalidate)=/i.test(d))
+  return kept.length ? kept.join(', ') : NO_CACHE_CONTROL
+}
+
 export async function route(request: Request, routes: Routes): Promise<Response> {
   const url = new URL(request.url)
-  const res = await dispatch(request, url, routes)
+  const fromFiles = new WeakSet<Response>()
+  const files = {
+    async fetch(r: Request): Promise<Response> {
+      const res = await routes.assets.fetch(r)
+      fromFiles.add(res)
+      return res
+    },
+  }
+  const res = await dispatch(request, url, { ...routes, assets: files })
   const out = new Response(res.body, res) // static-file responses have immutable headers
+  // Static files keep their headers (public/_headers), as on Vercel; everything built here gets Vercel's.
+  if (!fromFiles.has(res)) out.headers.set('Cache-Control', browserCacheControl(res.headers.get('cache-control')))
   for (const [name, value] of Object.entries(SECURITY_HEADERS)) if (!out.headers.has(name)) out.headers.set(name, value)
   if (!isProductionHost(url.hostname)) out.headers.set('X-Robots-Tag', 'noindex')
   return out

@@ -60,9 +60,29 @@ describe('worker routes', () => {
     vi.stubEnv('PRODUCTION_HOSTS', 'www.watched.earth,watched.earth')
     const live = (await at('/')).res.headers
     for (const [name, value] of Object.entries(SECURITY_HEADERS)) expect(live.get(name)).toBe(value)
-    expect(live.get('cache-control')).toBe('public, max-age=0, must-revalidate') // the route's own headers survive
+    expect(live.get('cache-control')).toBe('public, max-age=0, must-revalidate') // the static file's own header
     expect(live.get('x-robots-tag')).toBeNull()
     expect((await at('/', PERSON, {}, 'https://next.watched.earth')).res.headers.get('x-robots-tag')).toBe('noindex')
+  })
+})
+
+describe('cache-control as browsers get it from Vercel', () => {
+  it('drops s-maxage and stale-while-revalidate from what handlers send, and fills in a missing header', async () => {
+    const r: Routes = {
+      ...routes(),
+      og: async () => new Response('x', { headers: { 'cache-control': 'public, max-age=86400, s-maxage=31536000, stale-while-revalidate=604800' } }),
+      events: async () => new Response(null, { status: 405 }),
+    }
+    const get = (path: string) => route(new Request(`https://www.watched.earth${path}`), r)
+    expect((await get('/api/og')).headers.get('cache-control')).toBe('public, max-age=86400')
+    expect((await get('/api/e')).headers.get('cache-control')).toBe('public, max-age=0, must-revalidate')
+    expect((await get('/api/nope')).headers.get('cache-control')).toBe('public, max-age=0, must-revalidate')
+  })
+
+  it('leaves a static file\'s header as public/_headers set it', async () => {
+    const cc = 'public, max-age=600, s-maxage=3600, stale-while-revalidate=86400'
+    const r: Routes = { ...routes(), assets: { fetch: async () => new Response('{}', { headers: { 'cache-control': cc } }) } }
+    expect((await route(new Request('https://www.watched.earth/about'), r)).headers.get('cache-control')).toBe(cc)
   })
 })
 

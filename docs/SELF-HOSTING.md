@@ -106,8 +106,9 @@ headers. Tests keep both equal to `vercel.json`, so a route or header change goe
    every preview URL, so the event relay writes only for those hosts, and every other host is marked `noindex`.
 5. Serve the Worker on your domain: a Worker route (`www.example.org/*`) on a proxied DNS record, or a Custom Domain.
 6. Check what Cloudflare adds to a proxied domain's pages. **Web Analytics** may be on already (Web Analytics → your
-   site → Manage site); it is cookieless. **JavaScript detections** (Security → Settings → Bot traffic) adds a script and
-   a `cf_clearance` cookie to every page: turn it off if your privacy notes promise no cookies, as Watched's do.
+   site → Manage site); it is cookieless. **JavaScript detections** adds a script and a `cf_clearance` cookie (kept up to a
+   year) to every page. The free plan cannot turn it off, even with Bot Fight Mode off; Pro and above can. If your
+   privacy notes promise no cookies, say so there, as Watched's do.
 
 Locally, after `npm run build`, `npm run dev:worker` runs the Worker in Cloudflare's runtime. Put its variables in
 `.dev.vars`.

@@ -84,6 +84,7 @@ export function mockStats(range: Range, now = Date.now()): AdminStats {
       error: k(6),
       vitals: Math.round(sessions * 0.6),
     },
+    recorded: { search: searches, session: sessions },
     funnel,
     series,
     top: {

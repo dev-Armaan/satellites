@@ -70,6 +70,19 @@ describe('admin_stats retry', () => {
   })
 })
 
+describe('recorded counts (0015)', () => {
+  it('keeps the counts without rebuilt hours apart from the totals', () => {
+    const s = parseStats({ range: '7d', totals: { search: 1894 + 100, session: 1217 + 50 }, recorded: { search: 100, session: 50 } })!
+    expect(s.totals).toMatchObject({ search: 1994, session: 1267 })
+    expect(s.recorded).toEqual({ search: 100, session: 50 })
+  })
+  it('falls back to the totals from a database before 0015, or on junk', () => {
+    expect(parseStats({ range: '7d', totals: { search: 9, session: 4 } })!.recorded).toEqual({ search: 9, session: 4 })
+    expect(parseStats({ range: '7d', totals: { search: 9 }, recorded: { search: 'x' } })!.recorded).toEqual({ search: 9, session: 0 })
+    expect(parseStats({ range: '7d' })!.recorded).toEqual({ search: 0, session: 0 })
+  })
+})
+
 describe('cached stats', () => {
   it('parses cachedAt, null from a database before 0009', () => {
     const now = Date.UTC(2026, 10, 10, 12)

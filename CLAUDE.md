@@ -38,7 +38,7 @@
 - Shares keep a capture only from an allow-list of collections in `create_share` (latest definition in
   `supabase/migrations/0012_*`, which adds Sentinel-1 radar); an unknown collection is dropped and the share made
   without its image. The collection lists in `api/_lib/share.ts` and `src/lib/backend.ts` must match it.
-- Admin stats are precomputed every 5 minutes by pg_cron (`admin_stats_cache`, migration 0009). Admin times are US
+- Admin stats are precomputed every 30 minutes by pg_cron (`admin_stats_cache`, migration 0009; 0014 moved it from every 5, which overloaded the free database). Admin times are US
   Eastern.
 - `VITE_*` env vars are bundled into the browser. Server secrets (`CDSE_CLIENT_ID` / `CDSE_CLIENT_SECRET`) are only
   read in `api/`. Never print env values.

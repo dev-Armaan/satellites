@@ -12,3 +12,4 @@ playwright-report
 /scratch
 *.tsbuildinfo
 .wrangler
+.dev.vars

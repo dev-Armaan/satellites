@@ -1,7 +1,7 @@
 # Self-hosting
 
-How to run your own copy of Watched: a static Vite app on Vercel, three small Vercel functions, an optional
-Supabase backend, and a GitHub Action that keeps the orbit catalog fresh.
+How to run your own copy of Watched: a static Vite app with four small functions, on Vercel or on a Cloudflare
+Worker, an optional Supabase backend, and a GitHub Action that keeps the orbit catalog fresh.
 
 ## What works without a backend
 
@@ -56,7 +56,8 @@ holding real visitors' data.
 
 ## 2. Environment variables
 
-Copy `.env.example` to `.env.local` for local development, and set the same names in your Vercel project.
+Copy `.env.example` to `.env.local` for local development, and set the same names in your Vercel project (or your
+Cloudflare Worker: section 3b).
 
 | Variable | Where | What it does |
 | --- | --- | --- |
@@ -85,6 +86,32 @@ In-app usage events are only sent from the hosts listed in `PRODUCTION_HOSTS` in
 the official site by default. A fork therefore sends no usage events until you put your own domain in that list.
 
 Nothing in the code points at the official site's database: with no env vars, the backend is simply off.
+
+## 3b. Or deploy to Cloudflare Workers
+
+`wrangler.jsonc` serves `dist/` as static files and runs `worker/index.ts` for `/`, `/s/*` and `/api/*`. The Worker
+answers every path as `vercel.json` does: `worker/router.ts` holds the routes, and `public/_headers` the static files'
+headers. Tests keep both equal to `vercel.json`, so a route or header change goes in both places.
+
+1. Subscribe to Workers Paid. A share card takes far more than the free plan's 10 ms of CPU per request.
+2. Create a Worker from the repository (Workers Builds). Build command `npm run build`; deploy command
+   `npx wrangler deploy`.
+3. Set the variables. The ones that name a database or a domain live in the dashboard, not in `wrangler.jsonc`
+   (`keep_vars` stops a deploy from removing them):
+   - **Build variables** (read by Vite): `VITE_SUPABASE_URL`, `VITE_SUPABASE_PUBLISHABLE_KEY`, `VITE_SITE_ORIGIN`.
+   - **Variables** (read by the functions): `VITE_SUPABASE_URL`, `VITE_SUPABASE_PUBLISHABLE_KEY`, `SITE_URL`.
+   - **Secrets**: `CDSE_CLIENT_ID` and `CDSE_CLIENT_SECRET`, for the Landsat pan band (`api/pan.ts`). Without them,
+     photos keep the 30 m layer.
+4. Put your own domain in `PRODUCTION_HOSTS` in `wrangler.jsonc`. On Cloudflare one Worker answers your domain and
+   every preview URL, so the event relay writes only for those hosts, and every other host is marked `noindex`.
+5. Serve the Worker on your domain: a Worker route (`www.example.org/*`) on a proxied DNS record, or a Custom Domain.
+
+Locally, after `npm run build`, `npm run dev:worker` runs the Worker in Cloudflare's runtime. Put its variables in
+`.dev.vars`.
+
+Share cards render with satori and resvg (`api/_lib/ogRender.ts`). Workers run only WebAssembly bundled at deploy time,
+so the Worker registers its bundled fonts and WebAssembly (`api/_lib/bundled.ts`), and `worker/harfbuzz.ts` starts
+HarfBuzz without compiling anything at runtime.
 
 ## 4. The orbit catalog Action
 

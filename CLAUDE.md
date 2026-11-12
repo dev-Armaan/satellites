@@ -16,7 +16,8 @@
 ## Quirks that trip agents up
 
 **Checks and style**
-- `npm test` covers `src/**` only. The serverless functions in `api/` have their own suite: `npm run test:backend`.
+- `npm test` covers `src/**` only. The serverless functions in `api/` and the Cloudflare Worker in `worker/` have their
+  own suite: `npm run test:backend`.
   Run both, plus `npm run build` (it runs `tsc -b` and two Vite builds: the app and `/admin`).
 - There is no Prettier or ESLint config. Never run `npx prettier`: it downloads Prettier and rewrites files in its
   defaults (double quotes, 80 columns). House style: single quotes, no semicolons, ~120 columns, and a doc comment at
@@ -82,6 +83,10 @@
   (see `SearchBox.tsx`).
 - Vercel functions use the fetch-style handler (`export default { fetch }`) and are registered in `vercel.json`
   (`maxDuration`). Vercel passes the query string percent-encoded in `req.url`.
+- The site is moving to a Cloudflare Worker (`worker/`, `wrangler.jsonc`) that runs the same handlers. Its routes
+  (`worker/router.ts`) and static headers (`public/_headers`) mirror `vercel.json`, and tests keep them equal: change
+  both. Workers run only WebAssembly bundled at deploy time, so the card renderer takes its fonts and WebAssembly
+  from `api/_lib/bundled.ts` there. After `npm run build`, `npm run dev:worker` runs it locally.
 - Honest labelling is a product rule: a label (resolution, "watched", counts) must say exactly what is on screen.
 - Sentinel-1 radar images (`sentinel-1-rtc`) are real images but not photos: `isDetailed` is false for them, they
   never lead or get a cloud check, and their crops are toned by `radarTone.ts` (route new radar URLs through

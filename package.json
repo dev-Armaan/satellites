@@ -9,6 +9,7 @@
     "build": "tsc -b && vite build && vite build -c vite.admin.config.ts",
     "typecheck": "tsc -b --pretty",
     "preview": "vite preview --host 0.0.0.0",
+    "dev:worker": "wrangler dev",
     "test": "vitest run",
     "data:celestrak": "tsx scripts/fetch-catalog.ts",
     "textures": "python3 scripts/build-textures.py",

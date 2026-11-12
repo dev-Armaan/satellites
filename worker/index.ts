@@ -1,10 +1,11 @@
 /**
- * Cloudflare Worker entry (migration spike: share cards only).
+ * Cloudflare Worker entry: the whole site, as Vercel serves it from vercel.json and api/.
  *
- * The handlers in api/ already take a Request and return a Response, so the Worker only has to hand them the files
- * Node would read from disk: the card fonts, the default plate and the WebAssembly the renderer runs. They are
- * imported here, which makes wrangler bundle them (fonts and images as bytes, WebAssembly compiled), and registered
- * before the first request (api/_lib/bundled.ts).
+ * The handlers in api/ already take a Request and return a Response, so the Worker routes to them (router.ts) and
+ * hands them the files Node would read from disk: the card fonts, the default plate and the WebAssembly the
+ * renderer runs. Those are imported here, which makes wrangler bundle them (fonts and images as bytes, WebAssembly
+ * compiled), and registered before the first request (api/_lib/bundled.ts). Static files come from `dist/`
+ * through the ASSETS binding (wrangler.jsonc).
  */
 import yoga from '../node_modules/satori/yoga.wasm'
 import resvg from '../node_modules/@resvg/resvg-wasm/index_bg.wasm'
@@ -19,7 +20,11 @@ import serifItalicLatin from '../api/_fonts/serif-italic-latin.ttf'
 import serifItalicLatinExt from '../api/_fonts/serif-italic-latin-ext.ttf'
 import plate from '../api/_assets/og-default-plate.jpg'
 import { registerBundled } from '../api/_lib/bundled.js'
+import { handleEvents } from '../api/e.ts'
 import { handleOg } from '../api/og.tsx'
+import { handlePan } from '../api/pan.ts'
+import { handleSharePage } from '../api/s.ts'
+import { route, type Routes } from './router.ts'
 
 registerBundled({
   'wasm/yoga': yoga,
@@ -36,10 +41,12 @@ registerBundled({
   '_assets/og-default-plate.jpg': plate,
 })
 
+interface Env {
+  ASSETS: Routes['assets']
+}
+
 export default {
-  async fetch(request: Request): Promise<Response> {
-    const url = new URL(request.url)
-    if (url.pathname === '/api/og') return handleOg(request)
-    return new Response('not found', { status: 404 })
+  fetch(request: Request, env: Env): Promise<Response> {
+    return route(request, { assets: env.ASSETS, og: handleOg, share: handleSharePage, events: handleEvents, pan: handlePan })
   },
 }

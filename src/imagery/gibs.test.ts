@@ -1,7 +1,7 @@
 import { afterEach, describe, expect, it, vi } from 'vitest'
 import type { Pass } from '@/types'
 import { gibsWmsUrl, worldviewUrl } from './endpoints'
-import { GEO_SAFE_LAG_MS, GIBS_LAYERS, geoFrameCandidates, geoFrames, geoFrameTime, geoImageUrl, gibsTime, latestGibsFrame, parseIsoDuration, parseTimeDomain, utcDate, weatherCandidates } from './gibs'
+import { GEO_SAFE_LAG_MS, GIBS_LAYERS, dailyProbeUrl, geoFrameCandidates, geoFrames, geoFrameTime, geoImageUrl, gibsTime, latestGibsFrame, parseIsoDuration, parseTimeDomain, utcDate, verifyWeatherCapture, weatherCandidates } from './gibs'
 import { measureNoData } from './image'
 
 const WATERLOO = { lat: 43.4723, lon: -80.5449 }
@@ -222,6 +222,35 @@ describe('weather candidates', () => {
     expect(crop.get('TIME')).toBe('2026-11-07')
     expect(crop.get('WIDTH')).toBe('640')
     expect(n20.sourceUrl).toContain('worldview.earthdata.nasa.gov')
+  })
+})
+
+describe('verifying a daily mosaic', () => {
+  afterEach(() => vi.unstubAllGlobals())
+  const capture = (date: string) => weatherCandidates(WATERLOO, [pass({ tClosest: Date.parse(`${date}T18:20:00Z`) })])[0]
+
+  it('probes the pre-cut tile that holds the place, and a WMS render only past the tile grid', () => {
+    const url = dailyProbeUrl('VIIRS_NOAA20_CorrectedReflectance_TrueColor', '2026-11-07', WATERLOO)
+    expect(url).toMatch(/^https:\/\/gibs\.earthdata\.nasa\.gov\/wmts\/epsg3857\/best\/VIIRS_NOAA20_CorrectedReflectance_TrueColor\/default\/2026-11-07\/GoogleMapsCompatible_Level9\/6\/\d+\/\d+\.jpg#win=\d+,\d+,\d+,\d+$/)
+    const polar = new URL(dailyProbeUrl('VIIRS_NOAA20_CorrectedReflectance_TrueColor', '2026-11-07', { lat: -89.98, lon: 139.27 }))
+    expect(polar.pathname).toBe('/wms/epsg4326/best/wms.cgi')
+    expect(polar.searchParams.get('WIDTH')).toBe('24')
+  })
+
+  it('takes a day the tile service has no image for (a 404) as an answer: no photo, asked once', async () => {
+    const f = vi.fn(async (_url: string) => new Response('<h1>Not Found</h1>', { status: 404, headers: { 'content-type': 'text/html' } }))
+    vi.stubGlobal('fetch', f)
+    await expect(verifyWeatherCapture(capture('2026-10-03'), WATERLOO)).resolves.toBe(false)
+    expect(f).toHaveBeenCalledTimes(1)
+    expect(f.mock.calls[0][0]).toContain('/wmts/epsg3857/best/VIIRS_NOAA20_CorrectedReflectance_TrueColor/default/2026-10-03/')
+    expect(f.mock.calls[0][0]).not.toContain('#')
+  })
+
+  it('drops a mosaic it cannot check, and retries a server error once', async () => {
+    const f = vi.fn(async (_url: string) => new Response('busy', { status: 503 }))
+    vi.stubGlobal('fetch', f)
+    await expect(verifyWeatherCapture(capture('2026-10-04'), WATERLOO)).resolves.toBe(false)
+    expect(f).toHaveBeenCalledTimes(2)
   })
 })
 

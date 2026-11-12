@@ -9,7 +9,8 @@
  *  - `probeImage(url)` decodes a (tiny) image and measures how much of it is no-data
  *    (transparent or pure black). GIBS answers "no data yet" with a black JPEG instead of an
  *    error, so this is the only reliable way to tell an empty frame from a real one. The fetch
- *    and decode run in a worker (pixelsClient.ts) when the browser allows.
+ *    and decode run in a worker (pixelsClient.ts) when the browser allows. A daily mosaic is probed
+ *    on its pre-cut tile (./gibsTiles.ts), where a day with no image at all is a 404: empty too.
  *
  *  - Sentinel-2 / Landsat photos (the encoded render, api/_lib/tone.ts) are never shown as they come: the pixels
  *    worker fetches them, applies the photo's one global curve + light sharpening and hands back the bytes, and
@@ -26,6 +27,7 @@ import { isTonedUrl } from './pcCrop'
 import { Lru, memoAsync } from './lru'
 import { HttpError, raceAbort, sleep, withRetry } from './net'
 import { measureNoData } from './pixels'
+import { isGibsTileUrl } from './gibsTiles'
 import { frameRedrawFor } from './infrared'
 import { fetchCheckedImage, fetchPanSharp, fetchPixels, fetchToned } from './pixelsClient'
 import { isPanSharpUrl, parsePanSharpUrl } from './panUrl'
@@ -266,12 +268,14 @@ export function probeImage(url: string, signal?: AbortSignal): Promise<ImageProb
       async (s): Promise<ImageProbe> => {
         // Fetched and decoded in the pixels worker (K8); only the tiny RGBA buffer comes back.
         const r = await fetchPixels(url, s)
+        // The tile service has no image for that day (not processed yet, an instrument outage): an answer, not a failure.
+        if (r.status === 404 && isGibsTileUrl(url)) return { noDataFraction: 1, meanLuma: 0, width: 0, height: 0 }
         if (r.status < 200 || r.status >= 300) throw new HttpError(r.status, url)
         if (!r.pixels) return { noDataFraction: 1, meanLuma: 0, width: 0, height: 0 }
         const { data, width, height } = r.pixels
         return { ...measureNoData(data), width, height }
       },
-      { timeoutMs: 15_000, retries: 1, label: url },
+      { timeoutMs: 15_000, retries: 1, retryTimeouts: false, label: url },
     )
     if (probe.noDataFraction > 0.5) emptyProbeAt.set(url, Date.now())
     return probe

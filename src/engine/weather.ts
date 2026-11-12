@@ -1,10 +1,13 @@
 /**
  * The NASA GIBS leg of a report: daily VIIRS / MODIS true-colour mosaics for the weather-LEO passes.
  *
- * The imagery module renders a tiny probe per mosaic and drops the ones that are empty at the place
- * (not processed yet, swath gap, instrument outage). GIBS renders WMS on demand and answers a single
- * browser connection in a staircase: measured cold in Chromium, 35 probes take 1.4–2.3 s median and
- * 3.0–4.8 s for the last one. That tail alone would break the report's 4-second contract.
+ * The imagery module reads a tiny probe per mosaic and drops the ones that are empty at the place
+ * (not processed yet, swath gap, instrument outage). The probes were small WMS renders until 2026-11-12:
+ * GIBS renders WMS on demand and answers a single browser connection in a staircase (measured cold in
+ * Chromium, 35 probes took 1.4–2.3 s median and 3.0–4.8 s for the last one), and under that day's traffic
+ * it stopped answering inside the budget at all. They are read from GIBS's pre-cut tiles now
+ * (imagery/gibsTiles.ts), which answer in about 0.3 s each. The budget and the rules below stay: a slow
+ * connection or a bad day at NASA still leaves stragglers.
  *
  * So verification is issued one mosaic per call (one `weatherCaptures` call per satellite and UTC day,
  * which is exactly one candidate, since daily mosaics are one image per layer per UTC day), results

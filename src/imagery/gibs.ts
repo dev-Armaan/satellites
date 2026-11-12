@@ -4,7 +4,8 @@
  *
  * GIBS never says "no data": a day that hasn't been processed yet, a swath gap or a missing
  * frame all come back as HTTP 200 with a black JPEG. So every weather capture is verified with a
- * tiny pixel probe (24×24 px) before it is returned, and empty ones are dropped.
+ * tiny pixel probe (24×24 px) before it is returned, and empty ones are dropped. A daily mosaic's
+ * probe is read from the pre-cut tile that holds the place, not rendered: ./gibsTiles.ts says why.
  *
  * Geostationary frames, measured 2026-11-08 06:00–06:10Z:
  *  - GIBS publishes which frames exist (WMTS DescribeDomains). The newest listed frame was 34 min
@@ -18,6 +19,7 @@
 import { sunElevationDeg } from '@/lib/geo'
 import type { Capture, CaptureCollection, LatLon, Pass } from '@/types'
 import { gibsDomainsUrl, gibsWmsUrl, worldviewUrl, type CropOpts } from './endpoints'
+import { gibsProbeTileUrl } from './gibsTiles'
 import { preloadImage, probeImage } from './image'
 import { Lru } from './lru'
 import { isAbortError, mapLimit, raceAbort, throwIfAborted, withRetry } from './net'
@@ -235,15 +237,21 @@ const PROBE_PX = 24
 const PROBE_HALF_KM = 30
 /**
  * Probes in flight at once. GIBS sits behind CloudFront over HTTP/2, so parallel probes share one
- * connection. Measured: 28 parallel probes ≈ 2.1 s, a 7-day report (35–40 candidates) ≈ 3–4 s,
- * dominated by GIBS render time (0.4–0.7 s per request, served in a staircase).
+ * connection. Measured on the tiles (2026-11-12, 12 at a time): 640 probes in 18 s, median 0.29 s each.
  */
 const PROBE_CONCURRENCY = 12
 /** A capture whose probe is more than half empty is dropped. */
 export const MAX_NO_DATA = 0.5
-/** Probe URL for "is there data at this place on this layer at this time". */
-function probeUrl(layer: string, time: string, place: LatLon): string {
-  return gibsWmsUrl(layer, time, place, { halfSizeKm: PROBE_HALF_KM, px: PROBE_PX })
+/**
+ * Probe URL for "is there data at this place on this daily layer on this day": the window of the place's map tile
+ * within 30 km of it (./gibsTiles.ts). Past 85° of latitude, where the tile grid ends, the same square as a small
+ * WMS render.
+ */
+export function dailyProbeUrl(layer: string, date: string, place: LatLon): string {
+  return (
+    gibsProbeTileUrl(layer, date, place, PROBE_HALF_KM, (2 * PROBE_HALF_KM) / PROBE_PX) ??
+    gibsWmsUrl(layer, date, place, { halfSizeKm: PROBE_HALF_KM, px: PROBE_PX })
+  )
 }
 
 // ── Weather captures from passes ───────────────────────────────────────────────────────────
@@ -295,7 +303,7 @@ export async function verifyWeatherCapture(capture: Capture, place: LatLon, sign
   const [layer, date] = capture.itemId.split('@')
   if (capture.provider !== 'gibs' || !layer || !date) return false
   try {
-    const probe = await probeImage(probeUrl(layer, date, place), signal)
+    const probe = await probeImage(dailyProbeUrl(layer, date, place), signal)
     return probe.noDataFraction <= MAX_NO_DATA
   } catch {
     throwIfAborted(signal)

@@ -26,8 +26,11 @@
 --         (top 10000 cells / 1000 of any other list).
 --     On the rollups of 2026-11-09..11 the daily cut left every top-15 list as it was bar one tie at #15; the map's top
 --     3000 cells kept 90% of its cells and 97% of their searches, the difference all in cells with 3-4 searches.
---   * maintain_events (pg_cron, hourly at :17) rolls at most one day and 48 hours per run, so a run stays short when it
---     has catching up to do; the admin ranges read raw events for whatever is not rolled yet.
+--   * maintain_events (pg_cron, hourly at :17) rolls at most one day and 24 hours, and prunes at most 50k rows of each
+--     table, per run (new traffic is ~10k events an hour). On the free plan's smallest machine (224 MB shared buffers,
+--     2 MB work_mem) a big sort spills to a throttled disk and starves the API (2026-11-12 15:38-16:31, from
+--     refresh_admin_stats), so runs stay small, and the rollups and the stats run with work_mem 16 MB, which keeps one
+--     day's sorts in memory. The admin ranges read raw events for whatever is not rolled yet.
 --
 -- Moving to Eastern days. The UTC-day rollups are copied to overflight_private.event_days_utc (drop it when you no longer
 -- want it), then event_days and event_rolled are emptied, and the next maintain_events runs rebuild every day from the
@@ -207,11 +210,12 @@ $$;
 -- Every closed hour after the last one in event_hours (or from the first raw event's hour), at most p_max of them; hours
 -- with no events get a row of zeros, so max(hour) is how far the rollup has got. An hour is closed 15 minutes after it
 -- ends (events are back-dated by at most 10 minutes). Returns the number of hours written.
-create or replace function overflight_private.roll_event_hours(p_max int default 48)
+create or replace function overflight_private.roll_event_hours(p_max int default 24)
 returns int
 language plpgsql
 set search_path = public
 set timezone = 'UTC'
+set work_mem = '16MB'
 as $$
 declare
   v_from timestamptz;
@@ -266,6 +270,7 @@ returns void
 language plpgsql
 set search_path = public
 set timezone = 'UTC'
+set work_mem = '16MB'
 as $$
 declare
   v_from timestamptz := p_day::timestamp at time zone overflight_private.admin_tz();
@@ -338,7 +343,7 @@ declare
 begin
   if not pg_try_advisory_xact_lock(hashtext('overflight.events.maintain')) then return; end if;
 
-  perform overflight_private.roll_event_hours(48);
+  perform overflight_private.roll_event_hours(24);
 
   -- One day per run, walking forward from the day after the last rolled one (or the first event's day), so event_rolled
   -- stays contiguous. Days are rolled once a day; more than one is only ever catching up.
@@ -355,22 +360,22 @@ begin
   delete from public.event_days_rest where day < v_closed - 31;
   delete from public.event_dists where day < v_closed - 31;
 
-  -- Raw events, tabs and lookups past 48 hours, in batches of 10k (at most 20 batches each a run).
+  -- Raw events, tabs and lookups past 48 hours, in batches of 10k (at most 5 batches each a run).
   v_keep := overflight_private.event_raw_cutoff();
-  for i in 1 .. 20 loop
+  for i in 1 .. 5 loop
     delete from public.events where id in (
       select id from public.events where created_at < v_keep order by created_at limit 10000);
     get diagnostics v_gone = row_count;
     exit when v_gone < 10000;
   end loop;
   -- A tab last seen before the cutoff has every event before it (created_at <= the insert time <= last_at).
-  for i in 1 .. 20 loop
+  for i in 1 .. 5 loop
     delete from public.event_sessions where sid in (
       select sid from public.event_sessions where first_at < v_keep and last_at < v_keep limit 10000);
     get diagnostics v_gone = row_count;
     exit when v_gone < 10000;
   end loop;
-  for i in 1 .. 20 loop
+  for i in 1 .. 5 loop
     delete from public.lookups where id in (
       select id from public.lookups where created_at < now() - interval '48 hours' order by created_at limit 10000);
     get diagnostics v_gone = row_count;
@@ -391,6 +396,7 @@ create or replace function overflight_private.admin_stats_compute(p_range text D
  LANGUAGE plpgsql
  SET search_path TO 'public'
  SET "TimeZone" TO 'UTC'
+ SET work_mem TO '16MB'
 AS $function$
 declare
   v_tz     text := overflight_private.admin_tz();

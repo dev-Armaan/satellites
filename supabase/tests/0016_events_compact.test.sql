@@ -89,7 +89,7 @@ declare
   v_n bigint;
 begin
   -- Hours: the first roll starts at the first raw event's hour (the test's, in 2001).
-  perform overflight_private.roll_event_hours(48);
+  perform overflight_private.roll_event_hours(48);  -- 48 so the whole test day is in one call
   if (select searches from public.event_hours where hour = '2001-02-03 10:00 America/New_York') <> 10
      or (select searches from public.event_hours where hour = '2001-02-03 11:00 America/New_York') <> 205
      or (select active from public.event_hours where hour = '2001-02-03 12:00 America/New_York') <> 1

@@ -24,7 +24,7 @@ import { handleEvents } from '../api/e.ts'
 import { handleOg } from '../api/og.tsx'
 import { handlePan } from '../api/pan.ts'
 import { handleSharePage } from '../api/s.ts'
-import { route, type Routes } from './router.ts'
+import { route, type EdgeCache, type Routes } from './router.ts'
 
 registerBundled({
   'wasm/yoga': yoga,
@@ -45,8 +45,23 @@ interface Env {
   ASSETS: Routes['assets']
 }
 
+interface Context {
+  waitUntil(work: Promise<unknown>): void
+}
+
+/** Cloudflare's own cache (per data centre); not part of the standard CacheStorage type. */
+const edgeCache = (caches as unknown as { default: EdgeCache }).default
+
 export default {
-  fetch(request: Request, env: Env): Promise<Response> {
-    return route(request, { assets: env.ASSETS, og: handleOg, share: handleSharePage, events: handleEvents, pan: handlePan })
+  fetch(request: Request, env: Env, ctx: Context): Promise<Response> {
+    return route(request, {
+      assets: env.ASSETS,
+      og: handleOg,
+      share: handleSharePage,
+      events: handleEvents,
+      pan: handlePan,
+      cache: edgeCache,
+      waitUntil: (work) => ctx.waitUntil(work),
+    })
   },
 }

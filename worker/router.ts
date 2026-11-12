@@ -8,8 +8,9 @@
  *   - `/s/<id>` → the stored share's page; `/api/og`, `/api/s`, `/api/e`, `/api/pan` → their handlers;
  *   - a path with no dot outside `/api/` and `/s/` → the app's index.html, which routes it itself;
  *   - anything else → 404.
- * Static files get their headers from public/_headers, which does not reach responses built here, so this adds
- * the same security headers. Every host outside PRODUCTION_HOSTS (the staging copy, branch previews) is marked
+ * Cards, share pages and pan crops are kept in Cloudflare's cache when they say `s-maxage`, as Vercel's CDN kept
+ * them: Cloudflare caches nothing a Worker builds unless the Worker stores it (`cached`). Static files get their
+ * headers from public/_headers, which does not reach responses built here, so this adds the same security headers. Every host outside PRODUCTION_HOSTS (the staging copy, branch previews) is marked
  * noindex, so search engines only ever index the real site.
  *
  * The handlers and the static files are passed in, which keeps this module free of the bundled fonts and
@@ -36,6 +37,12 @@ const SHARE_PATH = /^\/s\/([^/]+)$/
 
 export type Handler = (request: Request) => Promise<Response>
 
+/** The parts of Cloudflare's Cache API (`caches.default`) the router uses. */
+export interface EdgeCache {
+  match(key: Request): Promise<Response | undefined>
+  put(key: Request, response: Response): Promise<void>
+}
+
 export interface Routes {
   /** The static files (the Worker's ASSETS binding). */
   assets: { fetch(request: Request): Promise<Response> }
@@ -43,11 +50,42 @@ export interface Routes {
   share: Handler
   events: Handler
   pan: Handler
+  /** Cloudflare's cache, and the Worker's `ctx.waitUntil` to store into it after answering. None: no caching. */
+  cache?: EdgeCache
+  waitUntil?: (work: Promise<unknown>) => void
 }
 
 /** The same request at another path on the same host: a rewrite, so the visitor's address does not change. */
 function rewrite(request: Request, url: URL): Request {
   return new Request(url, request)
+}
+
+/**
+ * Whether Vercel's CDN would have kept this response: a 200 or 404 that says `s-maxage` and is not private.
+ * Errors and anything without `s-maxage` (the pan band's 400s, a card's 500) always reach the handler again.
+ */
+export function edgeCacheable(res: Response): boolean {
+  const cc = res.headers.get('cache-control') ?? ''
+  return (res.status === 200 || res.status === 404) && /\bs-maxage=[1-9]/.test(cc) && !/\b(no-store|private)\b/.test(cc)
+}
+
+/**
+ * A GET answered from the cache when it holds this URL, else by the handler (then stored, after answering). The key
+ * is the URL the handler sees, nothing else: every one of these responses depends on its URL alone.
+ */
+async function cached(request: Request, handler: Handler, routes: Routes): Promise<Response> {
+  const cache = routes.cache
+  if (!cache || request.method !== 'GET') return handler(request)
+  const key = new Request(request.url)
+  const hit = await cache.match(key)
+  if (hit) return hit
+  const res = await handler(request)
+  if (edgeCacheable(res)) {
+    const store = cache.put(key, res.clone()).catch((err: unknown) => console.error('[worker] cache put failed', err))
+    if (routes.waitUntil) routes.waitUntil(store)
+    else await store
+  }
+  return res
 }
 
 const notFound = () => new Response('Not found', { status: 404, headers: { 'content-type': 'text/plain; charset=utf-8' } })
@@ -56,7 +94,7 @@ async function dispatch(request: Request, url: URL, routes: Routes): Promise<Res
   const path = url.pathname
   if (path === '/') {
     if (url.searchParams.has('q') && UNFURLER.test(request.headers.get('user-agent') ?? '')) {
-      return routes.share(rewrite(request, new URL(`/api/s${url.search}`, url)))
+      return cached(rewrite(request, new URL(`/api/s${url.search}`, url)), routes.share, routes)
     }
     return routes.assets.fetch(request)
   }
@@ -66,17 +104,17 @@ async function dispatch(request: Request, url: URL, routes: Routes): Promise<Res
     const to = new URL('/api/s', url)
     to.search = url.search
     to.searchParams.set('id', share[1])
-    return routes.share(rewrite(request, to))
+    return cached(rewrite(request, to), routes.share, routes)
   }
   switch (path) {
     case '/api/og':
-      return routes.og(request)
+      return cached(request, routes.og, routes)
     case '/api/s':
-      return routes.share(request)
+      return cached(request, routes.share, routes)
     case '/api/e':
       return routes.events(request)
     case '/api/pan':
-      return routes.pan(request)
+      return cached(request, routes.pan, routes)
   }
   if (APP_PATH.test(path)) return routes.assets.fetch(rewrite(request, new URL('/', url)))
   return notFound()

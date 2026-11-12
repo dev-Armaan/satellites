@@ -85,3 +85,64 @@ describe('parity with vercel.json', () => {
     expect(rest).toEqual(all)
   })
 })
+
+describe('edge cache', () => {
+  /** A cache keyed by URL, as Cloudflare's is for these requests, counting each handler's calls. */
+  function cachedRoutes(answers: Record<string, () => Response>) {
+    const store = new Map<string, Response>()
+    const calls: string[] = []
+    const stored: Promise<unknown>[] = []
+    const handler = (name: string) => async (r: Request) => {
+      calls.push(`${name} ${new URL(r.url).pathname}${new URL(r.url).search}`)
+      return answers[name]()
+    }
+    const r: Routes = {
+      ...routes(),
+      og: handler('og'),
+      share: handler('share'),
+      pan: handler('pan'),
+      cache: {
+        match: async (key) => store.get(key.url)?.clone(),
+        put: async (key, res) => void store.set(key.url, res),
+      },
+      waitUntil: (work) => void stored.push(work),
+    }
+    const get = async (path: string, ua = PERSON) => {
+      const res = await route(new Request(`https://www.watched.earth${path}`, { headers: { 'user-agent': ua } }), r)
+      await Promise.all(stored)
+      return res
+    }
+    return { get, calls, store }
+  }
+  const respond = (status: number, cc: string) => () => new Response('x', { status, headers: { 'cache-control': cc } })
+
+  it('renders a card once, then answers from the cache', async () => {
+    const { get, calls } = cachedRoutes({ og: respond(200, 'public, max-age=86400, s-maxage=31536000') })
+    expect((await get('/api/og?id=ab3d5f7h')).status).toBe(200)
+    const again = await get('/api/og?id=ab3d5f7h')
+    expect(again.status).toBe(200)
+    expect(again.headers.get('x-content-type-options')).toBe('nosniff') // headers added on the way out, hits too
+    expect(calls).toEqual(['og /api/og?id=ab3d5f7h'])
+  })
+
+  it('keeps only what Vercel would keep: 200 or 404 with s-maxage, never no-store or an error', async () => {
+    const { get, store } = cachedRoutes({
+      og: respond(500, 'public, s-maxage=300'),
+      pan: respond(400, 'public, max-age=86400'),
+      share: respond(404, 'public, max-age=60, s-maxage=600'),
+    })
+    await get('/api/og?id=x')
+    await get('/api/pan?bbox=1')
+    await get('/s/missing1')
+    expect([...store.keys()]).toEqual(['https://www.watched.earth/api/s?id=missing1'])
+  })
+
+  it('keys a rewritten request by the URL its handler sees', async () => {
+    const { get, calls, store } = cachedRoutes({ share: respond(200, 'public, max-age=300, s-maxage=86400') })
+    await get('/?q=43.47,-80.54&n=Waterloo', BOT)
+    await get('/?q=43.47,-80.54&n=Waterloo', BOT)
+    await get('/?q=43.47,-80.54&n=Waterloo') // a person: the app, never the cached share page
+    expect(calls).toEqual(['share /api/s?q=43.47,-80.54&n=Waterloo'])
+    expect([...store.keys()]).toEqual(['https://www.watched.earth/api/s?q=43.47,-80.54&n=Waterloo'])
+  })
+})

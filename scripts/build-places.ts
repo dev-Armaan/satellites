@@ -6,6 +6,8 @@
  *                                        holds more than 800 places, so a typed search fetches one of ~1–20 kB
  *                                        (placeKey.ts shardFor). A split group's `<ab>_.txt` holds its largest.
  *   public/places/<version>/t/<i>.txt    naming a spot: the towns and cities in one 5° tile (placeKey.ts tileIndex).
+ *   public/places/<version>/l.txt        landmarks (scripts/landmarks.ts, and the landing's Surprise me and example
+ *                                        places): `name|lat|lon|cc|where|alias;alias`, one small file for every search.
  *   src/imagery/localPlaces.gen.ts       the version, which shards exist and a bitmap of which tiles exist, so the
  *                                        app never asks for a file that isn't there (a 404 is not cached).
  *
@@ -28,6 +30,8 @@ import { spawn } from 'node:child_process'
 import { existsSync, mkdirSync, readFileSync, readdirSync, rmSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
 import { createInterface } from 'node:readline'
+import { EXAMPLE_PLACES, SURPRISE_PLACES } from '../src/ui/landing/places'
+import { LANDMARKS } from './landmarks'
 import { compactKey, placeKey, SHARD_HEAD_PLACES, SHARD_MAX_PLACES, SHARD_MAX_PREFIX, shardOf, TILE_COLS, TILE_ROWS, tileAt, tileIndex } from '../src/imagery/placeKey'
 
 const SRC = process.argv[2]
@@ -200,12 +204,29 @@ async function main() {
     list.push(line(e, false))
   }
 
+  // Landmarks: the curated list, then the landing's own places, except those that are just a city in the list
+  // already ("Paris", "Tokyo"), which would otherwise come back with the chip's sublabel.
+  const cityNear = (name: string, lat: number, lon: number) =>
+    entries.some((e) => !e.kind && Math.abs(e.lat - lat) < 0.3 && Math.abs(e.lon - lon) < 0.3 && placeKey(e.name) === placeKey(name))
+  const landmarks = new Map<string, string>()
+  const addLandmark = (name: string, where: string, lat: number, lon: number, cc: string, aliases: string[] = []) => {
+    const k = placeKey(name)
+    if (landmarks.has(k) || /[|;\n]/.test(name + where + aliases.join(''))) return
+    landmarks.set(k, [name, lat.toFixed(4), lon.toFixed(4), cc.toUpperCase(), where, aliases.join(';')].join('|').replace(/\|+$/, ''))
+  }
+  for (const [name, where, lat, lon, cc, aliases] of LANDMARKS) addLandmark(name, where, lat, lon, cc, aliases)
+  for (const p of [...EXAMPLE_PLACES, ...SURPRISE_PLACES]) {
+    if (!p.countryCode || cityNear(p.label, p.lat, p.lon)) continue
+    addLandmark(p.label, p.sublabel ?? '', p.lat, p.lon, p.countryCode, 'chip' in p && p.chip !== p.label ? [String(p.chip)] : [])
+  }
+
   const version = new Date().toISOString().slice(0, 10).replace(/-/g, '')
   if (existsSync(OUT)) for (const d of readdirSync(OUT)) rmSync(join(OUT, d), { recursive: true })
   mkdirSync(join(OUT, version, 's'), { recursive: true })
   mkdirSync(join(OUT, version, 't'), { recursive: true })
   for (const [k, v] of shards) writeFileSync(join(OUT, version, 's', `${k}.txt`), v.join('\n') + '\n')
   for (const [k, v] of tiles) writeFileSync(join(OUT, version, 't', `${k}.txt`), v.join('\n') + '\n')
+  writeFileSync(join(OUT, version, 'l.txt'), [...landmarks.values()].join('\n') + '\n')
 
   const bits = new Uint8Array(Math.ceil((TILE_ROWS * TILE_COLS) / 8))
   for (const i of tiles.keys()) bits[i >> 3] |= 1 << (i & 7)
@@ -224,7 +245,7 @@ export const PLACE_SPLIT = '${[...shards.keys()].filter((k) => k.endsWith('_')).
 export const PLACE_TILES = '${Buffer.from(bits).toString('base64')}'
 `,
   )
-  console.log(`${entries.length} places, ${shards.size} shards, ${tiles.size} tiles → ${OUT}/${version}`)
+  console.log(`${entries.length} places, ${landmarks.size} landmarks, ${shards.size} shards, ${tiles.size} tiles → ${OUT}/${version}`)
 }
 
 void main()

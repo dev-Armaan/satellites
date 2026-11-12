@@ -2,7 +2,8 @@
 -- Row writes only: test tabs and events on an Eastern day in 2001, a real rollup of yesterday, rollup rows. No DDL on an
 -- existing table. maintain_events is not called: its prune would delete the real old events inside the test.
 -- Holds the maintenance lock throughout (the :17 cron run skips if it lands meanwhile) and reads yesterday's and today's
--- raw events a few times: run it clear of :07, :17 and :37.
+-- raw events a few times: run it clear of :07, :17 and :37. Only before 0016 is applied: its move to Eastern days runs
+-- once, and these checks expect the rollups it has just emptied.
 
 -- ── Grants: nothing new is reachable by anon or authenticated ───────────────────────────────
 do $$

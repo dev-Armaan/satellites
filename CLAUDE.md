@@ -30,7 +30,10 @@
   (`POST https://api.supabase.com/v1/projects/etiebfmgepkcewkkbxwi/database/query`; the session proxy adds the token).
   Do NOT use the Supabase MCP connector: it points at an unrelated project (`xcinlndzgpzjmvmeujor`).
 - There is no migration-history table. A migration is applied by running its file, and only after the owner says
-  "apply 000N". Never run `supabase/tests/0004_*` against production (its DDL deadlocks against live traffic). Never
+  "apply 000N": `scripts/backend-sql.sh etiebfmgepkcewkkbxwi supabase/migrations/000N_*.sql`, after its checks pass with
+  `scripts/backend-sql.sh etiebfmgepkcewkkbxwi --rollback <migration> <its test>` (both allowed by
+  `.claude/settings.json`, so no prompt). Every production write goes through that script, and only for what the owner
+  asked. Never run `supabase/tests/0004_*` against production (its DDL deadlocks against live traffic). Never
   delete real data, and never use a service-role or secret key; only the publishable key, which is public.
 - Analytics props are allow-listed in SQL (`overflight_private.event_props`, latest definition in
   `supabase/migrations/0013_*`). A new enum value (a search source, an action) is silently stored as null until a

@@ -29,6 +29,7 @@
       "continue": true
     },
     { "src": "/assets/(.*)", "headers": { "Cache-Control": "public, max-age=31536000, immutable" }, "continue": true },
+    { "src": "/places/(.*)", "headers": { "Cache-Control": "public, max-age=31536000, immutable" }, "continue": true },
     { "src": "/textures/(.*)", "headers": { "Cache-Control": "public, max-age=86400, stale-while-revalidate=604800" }, "continue": true },
     { "src": "/data/catalog\\.json", "headers": { "Cache-Control": "public, max-age=600, s-maxage=3600, stale-while-revalidate=86400" }, "continue": true },
     { "src": "/data/catalog-names\\.json", "headers": { "Cache-Control": "public, max-age=600, s-maxage=3600, stale-while-revalidate=86400" }, "continue": true },

@@ -214,6 +214,9 @@ describe('time zones', () => {
   })
 })
 
+/** The URLs a fetch mock was called with that went to Photon (the offline place files are fetched too). */
+const photonCalls = (f: { mock: { calls: unknown[][] } }) => f.mock.calls.map((c) => String(c[0])).filter((u) => u.startsWith('https://photon.komoot.io/'))
+
 describe('network', () => {
   afterEach(() => vi.unstubAllGlobals())
 
@@ -222,9 +225,9 @@ describe('network', () => {
     vi.stubGlobal('fetch', f)
     const r = await searchPlaces('  Waterloo ')
     expect(r).toHaveLength(4)
-    expect(String((f.mock.calls[0] as unknown[])[0])).toBe('https://photon.komoot.io/api/?q=Waterloo&limit=10&lang=en')
+    expect(photonCalls(f)).toEqual(['https://photon.komoot.io/api/?q=Waterloo&limit=10&lang=en'])
     await searchPlaces('a&b=c/d?e#f 東京')
-    expect(String((f.mock.calls[1] as unknown[])[0])).toBe('https://photon.komoot.io/api/?q=a%26b%3Dc%2Fd%3Fe%23f%20%E6%9D%B1%E4%BA%AC&limit=10&lang=en')
+    expect(photonCalls(f)[1]).toBe('https://photon.komoot.io/api/?q=a%26b%3Dc%2Fd%3Fe%23f%20%E6%9D%B1%E4%BA%AC&limit=10&lang=en')
     f.mockClear()
     await searchPlaces('waterloo')
     expect(f).toHaveBeenCalledTimes(0)
@@ -236,7 +239,7 @@ describe('network', () => {
     vi.stubGlobal('fetch', f)
     const r = await searchPlaces('43.4723, -80.5449')
     expect(r).toEqual([{ lat: 43.4723, lon: -80.5449, label: 'Waterloo', sublabel: 'Ontario, Canada', countryCode: 'ca', source: 'search' }])
-    expect(String((f.mock.calls[0] as unknown[])[0])).toContain('/reverse?lat=43.472300&lon=-80.544900&lang=en&limit=1')
+    expect(photonCalls(f)[0]).toContain('/reverse?lat=43.472300&lon=-80.544900&lang=en&limit=1')
   })
 
   it('reversePlace falls back to a coordinate label at sea or offline', async () => {

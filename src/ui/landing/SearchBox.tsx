@@ -1,6 +1,7 @@
 /**
- * Place search: a combobox over `imagery.searchPlaces` (Photon / OSM, Open-Meteo when Photon is slow; coordinates
- * are accepted too).
+ * Place search: a combobox over `imagery.searchPlaces` (Photon / OSM, the offline place list and Open-Meteo when
+ * Photon is slow; coordinates are accepted too). Offline rows can show before the search is done; later rows only
+ * ever join below them.
  *
  *   typing      debounced 220 ms, previous request aborted
  *   ↑ / ↓       move through suggestions (wraps through "none")
@@ -103,7 +104,15 @@ export function SearchBox({
     const c = new AbortController()
     ctrl.current = c
     setStatus('searching')
-    return searchPlaces(trimmed, c.signal).then(
+    // The offline list's rows, while the network is still out: shown at once (still "searching"); the final answer
+    // keeps them in place and only adds below them.
+    const early = (found: Place[]) => {
+      if (c.signal.aborted) return
+      setResult({ q: trimmed, places: found })
+      setActive((a) => clampActive(a, found.length))
+      setOpen(true)
+    }
+    return searchPlaces(trimmed, c.signal, early).then(
       (found) => {
         if (c.signal.aborted) return []
         setResult({ q: trimmed, places: found })

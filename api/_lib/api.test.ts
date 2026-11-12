@@ -447,7 +447,7 @@ describe('share page', () => {
 
 describe('og card', () => {
   it('renders the default card as a 1200×630 JPEG under 250 KB with no network (R2SH4)', async () => {
-    // Pass-through spy: @vercel/og may load its own wasm via fetch; the card itself must not
+    // Pass-through spy: the renderer reads its WebAssembly from node_modules, and the card itself must not
     // reach any remote host.
     const fetch = vi.spyOn(globalThis, 'fetch')
     const { handleOg } = (await import('../og.tsx' as string)) as { handleOg: (r: Request) => Promise<Response> }

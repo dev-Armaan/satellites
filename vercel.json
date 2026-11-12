@@ -6,7 +6,7 @@
   "functions": {
     "api/og.tsx": {
       "maxDuration": 20,
-      "includeFiles": "{api/_fonts/**,api/_assets/**,node_modules/harfbuzzjs/hb.wasm}"
+      "includeFiles": "{api/_fonts/**,api/_assets/**,node_modules/harfbuzzjs/hb.wasm,node_modules/satori/yoga.wasm,node_modules/@resvg/resvg-wasm/index_bg.wasm}"
     },
     "api/s.ts": {
       "maxDuration": 10

@@ -23,6 +23,8 @@ export interface SatoriFont {
   data: ArrayBuffer
   weight: Weight
   style: 'normal' | 'italic'
+  /** satori's script code, for a fallback font that draws one script (fallbackFonts.ts). */
+  lang?: string
 }
 
 const FILES: { stem: string; name: string; weight: Weight; style: 'normal' | 'italic' }[] = [

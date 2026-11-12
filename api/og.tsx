@@ -21,7 +21,7 @@ import { CARD_H, CARD_W, PLATE, defaultCard, defaultPlateDataUri, shareCard } fr
 import { buildCardSpec, buildSummarySpec, type CardSpec } from './_lib/cardSpec.js'
 import { displayHost, siteOrigin } from './_lib/env.js'
 import { loadFonts } from './_lib/fonts.js'
-import { loadOg } from './_lib/og-runtime.js'
+import { renderCardPng } from './_lib/ogRender.js'
 import { cropPlan, fetchCropPicture } from './_lib/imagery.js'
 import { SHARE_ID_RE, cardInputFromShare, fetchShare, shareFromParams, shareTimeZone, summaryFromParams, type ShareRecord } from './_lib/share.js'
 
@@ -46,7 +46,7 @@ const JPEG_QUALITY = [80, 70] as const
  * 100 %). Measured: Sentinel-2 over a city 208 KB, clouded 133 KB, Landsat 158 KB, MODIS 83 KB, the
  * default card 153 KB; the step adds ~100–150 ms to a render.
  */
-export function pngToJpeg(png: ArrayBuffer | Uint8Array): Uint8Array {
+export function pngToJpeg(png: ArrayBuffer | Uint8Array): Uint8Array<ArrayBuffer> {
   const img = decodePng(png instanceof Uint8Array ? png : new Uint8Array(png))
   const { width, height } = img
   const px = width * height
@@ -84,19 +84,16 @@ export function pngToJpeg(png: ArrayBuffer | Uint8Array): Uint8Array {
   }
   let jpeg = encodeJpeg({ data: rgba, width, height }, JPEG_QUALITY[0]).data
   if (jpeg.byteLength >= OG_MAX_BYTES) jpeg = encodeJpeg({ data: rgba, width, height }, JPEG_QUALITY[1]).data
-  return new Uint8Array(jpeg.buffer, jpeg.byteOffset, jpeg.byteLength)
+  return new Uint8Array(jpeg.buffer as ArrayBuffer, jpeg.byteOffset, jpeg.byteLength)
 }
 
-/** Satori's lossless PNG of a card (the JPEG's source; also what scripts/backend-render-og.ts bakes og-default.png from). */
-async function renderPng(element: ReturnType<typeof defaultCard>, status = 200): Promise<ArrayBuffer> {
-  const [{ ImageResponse }, fonts] = await Promise.all([loadOg(), loadFonts()])
-  const img = new ImageResponse(element, { width: CARD_W, height: CARD_H, fonts, status })
-  // ImageResponse streams; buffer it so errors surface here (and the response has a length).
-  return img.arrayBuffer()
+/** The lossless PNG of a card (the JPEG's source; also what scripts/backend-render-og.ts bakes og-default.png from). */
+async function renderPng(element: ReturnType<typeof defaultCard>): Promise<Uint8Array> {
+  return renderCardPng(element, { width: CARD_W, height: CARD_H, fonts: await loadFonts() })
 }
 
 async function render(element: ReturnType<typeof defaultCard>, cacheControl: string, status = 200): Promise<Response> {
-  const jpeg = pngToJpeg(await renderPng(element, status))
+  const jpeg = pngToJpeg(await renderPng(element))
   return new Response(jpeg, {
     status,
     headers: {
@@ -112,7 +109,7 @@ async function render(element: ReturnType<typeof defaultCard>, cacheControl: str
  * from satori's own pixels, not from the JPEG /api/og serves.
  */
 export async function defaultCardPng(host: string): Promise<Uint8Array> {
-  return new Uint8Array(await renderPng(defaultCard({ host, plateDataUri: await defaultPlateDataUri() })))
+  return renderPng(defaultCard({ host, plateDataUri: await defaultPlateDataUri() }))
 }
 
 type CardImage =

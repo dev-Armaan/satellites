@@ -185,11 +185,11 @@ Watched's database never stores exact coordinates, IP addresses, cookies or full
 never reads the IP. The app never sends street-level place names. Vercel and Supabase see IP addresses in transit and
 in their own request logs, like any host.
 
-Other services see the place too. [Photon](https://photon.komoot.io) sees what you type. A spot you pick on the
-globe, or your own location, is named from a list of places that ships with the site, so it leaves your browser
-only when no town is near it: then Photon sees the coordinates, and so does
-[Nominatim](https://nominatim.openstreetmap.org) if Photon is slow. When Photon is slow to search,
-[Open-Meteo](https://open-meteo.com/en/docs/geocoding-api) sees what you type. Planetary Computer and NASA GIBS see the point and the area around it, to send the photos, and so
+Other services see the place too, but less often than you might think: names come from a list of towns,
+countries and landmarks that ships with the site, so most searches, and any spot near a town, never leave your
+browser. A search the list can't answer goes to [Open-Meteo](https://open-meteo.com/en/docs/geocoding-api), and to
+[Photon](https://photon.komoot.io) if Open-Meteo has nothing; a spot far from any town goes to Photon, and to
+[Nominatim](https://nominatim.openstreetmap.org) if Photon is slow. Planetary Computer and NASA GIBS see the point and the area around it, to send the photos, and so
 does EUMETSAT where a Meteosat watches the place.
 Element 84 sees it only when Planetary Computer is down. Vercel Web Analytics receives the page address, which for a
 place link includes its coordinates and name.

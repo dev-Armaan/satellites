@@ -11,6 +11,7 @@
     "preview": "vite preview --host 0.0.0.0",
     "test": "vitest run",
     "data:celestrak": "tsx scripts/fetch-catalog.ts",
+    "data:places": "tsx scripts/build-places.ts",
     "textures": "python3 scripts/build-textures.py",
     "test:backend": "vitest run --config scripts/backend-vitest.config.ts"
   },

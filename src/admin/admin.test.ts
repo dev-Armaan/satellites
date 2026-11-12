@@ -47,7 +47,18 @@ describe('formats', () => {
     expect(fmtBucket(Date.UTC(2026, 10, 8, 14), 'hour')).toBe('NOV 08 09:00') // EST = UTC-5
     expect(fmtBucket(Date.UTC(2026, 10, 8, 5), 'hour', true)).toBe('NOV 08') // ET midnight
     expect(fmtBucket(Date.UTC(2026, 6, 8, 14), 'hour')).toBe('JUL 08 10:00') // EDT = UTC-4
-    expect(fmtBucket(Date.UTC(2026, 10, 8), 'day')).toBe('NOV 08')
+    expect(fmtBucket(Date.UTC(2026, 10, 8), 'day')).toBe('NOV 08') // a UTC day (before 0016)
+    expect(fmtBucket(Date.UTC(2026, 10, 8, 5), 'day')).toBe('NOV 08') // an Eastern day: midnight EST
+    expect(fmtBucket(Date.UTC(2026, 6, 8, 4), 'day')).toBe('JUL 08') // midnight EDT
+  })
+})
+
+describe('range start (0016)', () => {
+  it('parses from, null from a database before 0016', () => {
+    const from = Date.UTC(2026, 10, 6, 5)
+    expect(parseStats({ range: '7d', from })!.from).toBe(from)
+    expect(parseStats({ range: '7d' })!.from).toBeNull()
+    expect(parseStats({ range: '7d', from: 'x' })!.from).toBeNull()
   })
 })
 
@@ -67,6 +78,19 @@ describe('admin_stats retry', () => {
     expect(isTimeout({ code: '57014', message: 'canceling statement due to statement timeout' })).toBe(true)
     expect(isTimeout({ message: 'canceling statement due to statement timeout' })).toBe(true)
     expect(isTimeout({ code: '42501', message: 'not allowed' })).toBe(false)
+  })
+})
+
+describe('recorded counts (0015)', () => {
+  it('keeps the counts without rebuilt hours apart from the totals', () => {
+    const s = parseStats({ range: '7d', totals: { search: 1894 + 100, session: 1217 + 50 }, recorded: { search: 100, session: 50 } })!
+    expect(s.totals).toMatchObject({ search: 1994, session: 1267 })
+    expect(s.recorded).toEqual({ search: 100, session: 50 })
+  })
+  it('falls back to the totals from a database before 0015, or on junk', () => {
+    expect(parseStats({ range: '7d', totals: { search: 9, session: 4 } })!.recorded).toEqual({ search: 9, session: 4 })
+    expect(parseStats({ range: '7d', totals: { search: 9 }, recorded: { search: 'x' } })!.recorded).toEqual({ search: 9, session: 0 })
+    expect(parseStats({ range: '7d' })!.recorded).toEqual({ search: 0, session: 0 })
   })
 })
 

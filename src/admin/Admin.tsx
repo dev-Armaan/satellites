@@ -306,6 +306,8 @@ function Dashboard({ s, busy, onRefresh }: { s: AdminStats; busy: boolean; onRef
   const f = s.funnel
   const sessions = t.session ?? 0
   const searches = t.search ?? 0
+  // Ratios and shares divide by what was recorded: an outage's rebuilt hours (0015) have counts but no breakdowns.
+  const rec = s.recorded
   const shares = t.share_action ?? 0
   const conv = f.search ? (f.share_action ?? 0) / f.search : null
   const stages = [
@@ -319,6 +321,8 @@ function Dashboard({ s, busy, onRefresh }: { s: AdminStats; busy: boolean; onRef
   const r = s.results
   const v = s.vitals
   const now = useNow(30e3)
+  // A database from 0016 on says where the range starts, and its days are US Eastern; before, they were UTC.
+  const etDays = s.from != null
 
   return (
     <div className={busy ? 'a-dash a-busy' : 'a-dash'}>
@@ -331,6 +335,7 @@ function Dashboard({ s, busy, onRefresh }: { s: AdminStats; busy: boolean; onRef
       )}
       <p className="a-status">
         <span>{RANGE_WORDS[s.range].toUpperCase()}</span>
+        {s.from != null && <span className="a-dim">FROM {fmtStamp(s.from)}</span>}
         <span className="a-dim">GENERATED {fmtStamp(s.generatedAt)}</span>
         {s.cachedAt != null && <span className="a-dim">{fmtUpdated(s.cachedAt, now)}</span>}
         <button type="button" className="a-link" onClick={onRefresh} disabled={busy}>
@@ -341,15 +346,15 @@ function Dashboard({ s, busy, onRefresh }: { s: AdminStats; busy: boolean; onRef
       <Section n={1} title="OVERVIEW">
         <div className="a-kpis">
           <Kpi label="SESSIONS" value={fmtInt(sessions)} sub={t.view ? `${fmtInt(t.view)} page loads` : undefined} />
-          <Kpi label="SEARCHES" value={fmtInt(searches)} sub={sessions ? `${(searches / sessions).toFixed(2)} per session` : undefined} />
-          <Kpi label="RESULTS" value={fmtInt(t.results)} sub={searches ? `${fmtPct((t.results ?? 0) / searches)} of searches` : undefined} />
+          <Kpi label="SEARCHES" value={fmtInt(searches)} sub={rec.session ? `${(rec.search / rec.session).toFixed(2)} per session` : undefined} />
+          <Kpi label="RESULTS" value={fmtInt(t.results)} sub={rec.search ? `${fmtPct((t.results ?? 0) / rec.search)} of searches` : undefined} />
           <Kpi label="PASS OPENS" value={fmtInt(t.pass_open)} sub={t.lightbox_open ? `${fmtInt(t.lightbox_open)} photo expands` : undefined} />
           <Kpi label="SHARES" value={fmtInt(shares)} sub={t.share_open ? `${fmtInt(t.share_open)} sheet opens` : undefined} signal />
           <Kpi label="SEARCH → SHARE" value={fmtPct(conv)} sub="of searching sessions" signal />
         </div>
       </Section>
 
-      <Section n={2} title={s.bucket === 'hour' ? 'ACTIVITY · HOURLY ET' : 'ACTIVITY · DAILY (UTC DAYS)'}>
+      <Section n={2} title={s.bucket === 'hour' ? 'ACTIVITY · HOURLY ET' : etDays ? 'ACTIVITY · DAILY ET' : 'ACTIVITY · DAILY (UTC DAYS)'}>
         <ActivityChart series={s.series} bucket={s.bucket} />
       </Section>
 
@@ -359,7 +364,7 @@ function Dashboard({ s, busy, onRefresh }: { s: AdminStats; busy: boolean; onRef
           <p className="a-note">Sessions that reached each step. The last column is the share of the step before.</p>
         </Section>
         <Section n={4} title="HOW PEOPLE SEARCH">
-          <RankList rows={s.top['search.source']} total={t.search} label={(x) => SOURCE_NAMES[x] ?? x} />
+          <RankList rows={s.top['search.source']} total={rec.search} label={(x) => SOURCE_NAMES[x] ?? x} />
         </Section>
       </div>
 
@@ -368,10 +373,10 @@ function Dashboard({ s, busy, onRefresh }: { s: AdminStats; busy: boolean; onRef
           <WorldMap cells={s.top['search.cell']} />
           <div className="a-places-lists">
             <Panel title="TOP PLACES">
-              <RankList rows={s.top['search.label']} total={t.search} max={10} accent />
+              <RankList rows={s.top['search.label']} total={rec.search} max={10} accent />
             </Panel>
             <Panel title="TOP COUNTRIES SEARCHED">
-              <RankList rows={s.top['search.country']} total={t.search} max={8} label={countryName} />
+              <RankList rows={s.top['search.country']} total={rec.search} max={8} label={countryName} />
             </Panel>
           </div>
         </div>
@@ -397,16 +402,16 @@ function Dashboard({ s, busy, onRefresh }: { s: AdminStats; busy: boolean; onRef
             <Split rows={s.top['share_action.action']} total={t.share_action} names={ACTION_NAMES} />
           </Panel>
           <Panel title="DEVICES">
-            <Split rows={s.top['session.device']} total={t.session} names={DEVICE_NAMES} />
+            <Split rows={s.top['session.device']} total={rec.session} names={DEVICE_NAMES} />
           </Panel>
           <Panel title="VISITOR COUNTRIES" note="From Vercel's edge; the IP itself is never stored.">
-            <RankList rows={s.top['session.country']} total={t.session} max={6} label={countryName} />
+            <RankList rows={s.top['session.country']} total={rec.session} max={6} label={countryName} />
           </Panel>
           <Panel title="REFERRERS">
-            <RankList rows={s.top['session.ref']} total={t.session} max={6} empty="No referrers yet" />
+            <RankList rows={s.top['session.ref']} total={rec.session} max={6} empty="No referrers yet" />
           </Panel>
           <Panel title="UTM · SOURCE / MEDIUM / CAMPAIGN">
-            <RankList rows={s.top['session.utm']} total={t.session} max={6} empty="No tagged links yet" />
+            <RankList rows={s.top['session.utm']} total={rec.session} max={6} empty="No tagged links yet" />
           </Panel>
           <Panel title="SPEED">
             <dl className="a-facts">
@@ -467,7 +472,10 @@ function Dashboard({ s, busy, onRefresh }: { s: AdminStats; busy: boolean; onRef
       </div>
 
       <p className="a-foot">
-        Counted per browser tab: no cookies, no IPs, places at city level and 0.1° cells. Raw events are kept 90 days; daily totals after that. Times are US Eastern; daily totals are UTC days.
+        Counted per browser tab: no cookies, no IPs, places at city level and 0.1° cells.{' '}
+        {etDays
+          ? 'Raw events are kept 48 hours, then hourly and daily totals. Each hour and day keeps its top 3,000 map cells and top 200 of every other list, so the tail of a long list (and the map’s smallest dots) can come up a little short; totals and percentages count everything. A tab counts once a day. Times and days are US Eastern; 24H starts on the hour, 7D and 30D at midnight.'
+          : 'Raw events are kept 90 days; daily totals after that. Times are US Eastern; daily totals are UTC days.'}
       </p>
     </div>
   )

@@ -1,0 +1,1783 @@
+Barcelona|41.389|2.159|ES|Catalonia|125
+Toulouse|43.604|1.444|FR|Occitanie|114
+L'Hospitalet de Llobregat|41.360|2.100|ES|Catalonia|108
+Montpellier|43.611|3.876|FR|Occitanie|108
+Terrassa|41.567|2.017|ES|Catalonia|107
+Badalona|41.450|2.247|ES|Catalonia|107
+Sabadell|41.543|2.109|ES|Catalonia|107
+Nîmes|43.837|4.358|FR|Occitanie|103
+Tarragona|41.119|1.245|ES|Catalonia|103
+Lleida|41.617|0.622|ES|Catalonia|103
+Mataró|41.542|2.445|ES|Catalonia|102
+Santa Coloma de Gramenet|41.452|2.208|ES|Catalonia|101
+Perpignan|42.698|2.895|FR|Occitanie|101
+Reus|41.156|1.107|ES|Catalonia|100
+Girona|41.983|2.825|ES|Catalonia|100
+Avignon|43.948|4.809|FR|Provence-Alpes-Côte d'Azur|99
+Cornellà de Llobregat|41.350|2.083|ES|Catalonia|99
+Sant Boi de Llobregat|41.344|2.037|ES|Catalonia|98
+Sant Cugat del Vallès|41.471|2.086|ES|Catalonia|98
+Manresa|41.728|1.824|ES|Catalonia|98
+Béziers|43.341|3.214|FR|Occitanie|97
+Rubí|41.492|2.033|ES|Catalonia|97
+Castelldefels|41.278|1.970|ES|Catalonia|96
+Viladecans|41.314|2.014|ES|Catalonia|96
+Vilanova i la Geltrú|41.224|1.725|ES|Catalonia|96
+Valence|44.926|4.910|FR|Auvergne-Rhône-Alpes|96
+El Prat de Llobregat|41.328|2.095|ES|Catalonia|96
+Granollers|41.608|2.288|ES|Catalonia|96
+Cerdanyola del Vallès|41.491|2.141|ES|Catalonia|95
+Arles|43.677|4.630|FR|Provence-Alpes-Côte d'Azur|95
+Mollet del Vallès|41.540|2.213|ES|Catalonia|94
+Montauban|44.018|1.354|FR|Occitanie|94
+Albi|43.930|2.148|FR|Occitanie|94
+Tarbes|43.234|0.071|FR|Occitanie|94
+Narbonne|43.184|3.001|FR|Occitanie|94
+Carcassonne|43.216|2.349|FR|Occitanie|94
+Castres|43.605|2.241|FR|Occitanie|93
+Figueres|42.266|2.962|ES|Catalonia|93
+Esplugues de Llobregat|41.377|2.088|ES|Catalonia|93
+Gavà|41.306|2.001|ES|Catalonia|93
+Istres|43.513|4.987|FR|Provence-Alpes-Côte d'Azur|93
+Llefià|41.438|2.220|ES|Catalonia|93
+Sant Feliu de Llobregat|41.383|2.050|ES|Catalonia|93
+Alès|44.125|4.081|FR|Occitanie|93
+Sète|43.403|3.693|FR|Occitanie|92
+Blanes|41.674|2.790|ES|Catalonia|92
+Vic|41.930|2.255|ES|Catalonia|92
+Igualada|41.581|1.617|ES|Catalonia|92
+Vilafranca del Penedès|41.346|1.697|ES|Catalonia|92
+Ripollet|41.497|2.157|ES|Catalonia|92
+Lloret de Mar|41.700|2.846|ES|Catalonia|91
+Sant Adrià de Besòs|41.431|2.219|ES|Catalonia|91
+El Vendrell|41.217|1.533|ES|Catalonia|91
+Montélimar|44.555|4.755|FR|Auvergne-Rhône-Alpes|91
+Tortosa|40.812|0.522|ES|Catalonia|91
+Aurillac|44.925|2.440|FR|Auvergne-Rhône-Alpes|91
+Agen|44.202|0.621|FR|New Aquitaine|91
+Olot|42.181|2.490|ES|Catalonia|91
+Montcada i Reixac|41.483|2.183|ES|Catalonia|90
+Cambrils|41.070|1.059|ES|Catalonia|90
+Sant Joan Despí|41.367|2.057|ES|Catalonia|90
+Colomiers|43.611|1.335|FR|Occitanie|90
+Barberà del Vallès|41.516|2.125|ES|Catalonia|90
+Salt|41.975|2.793|ES|Catalonia|90
+Orange|44.138|4.810|FR|Provence-Alpes-Côte d'Azur|90
+Ciutadella|40.001|3.841|ES|Balearic Islands|89
+Tournefeuille|43.589|1.319|FR|Occitanie|89
+Sant Pere de Ribes|41.260|1.774|ES|Catalonia|89
+Rodez|44.353|2.573|FR|Occitanie|89
+Bergerac|44.852|0.482|FR|New Aquitaine|89
+Vinaròs|40.470|0.476|ES|Valencia|89
+Sant Vicenç dels Horts|41.393|2.007|ES|Catalonia|89
+Martorell|41.474|1.931|ES|Catalonia|89
+Sitges|41.235|1.812|ES|Catalonia|89
+Premià de Mar|41.492|2.365|ES|Catalonia|89
+Salou|41.077|1.142|ES|Catalonia|89
+Pineda de Mar|41.628|2.689|ES|Catalonia|89
+Benicarló|40.416|0.427|ES|Valencia|89
+Lunel|43.678|4.136|FR|Occitanie|88
+Villeneuve-sur-Lot|44.409|0.704|FR|New Aquitaine|88
+Valls|41.286|1.250|ES|Catalonia|88
+Santa Perpètua de Mogoda|41.533|2.183|ES|Catalonia|88
+Auch|43.646|0.589|FR|Occitanie|88
+Muret|43.460|1.325|FR|Occitanie|88
+Calafell|41.200|1.568|ES|Catalonia|88
+Blagnac|43.637|1.390|FR|Occitanie|88
+Molins de Rei|41.417|2.017|ES|Catalonia|88
+Castellar del Vallès|41.617|2.083|ES|Catalonia|88
+El Masnou|41.480|2.319|ES|Catalonia|87
+Cahors|44.449|1.437|FR|Occitanie|87
+Millau|44.100|3.078|FR|Occitanie|87
+Olesa de Montserrat|41.544|1.894|ES|Catalonia|87
+Agde|43.311|3.476|FR|Occitanie|87
+Palafrugell|41.917|3.163|ES|Catalonia|87
+Frontignan|43.448|3.755|FR|Occitanie|87
+Sant Feliu de Guíxols|41.783|3.033|ES|Catalonia|87
+Esparreguera|41.538|1.870|ES|Catalonia|87
+Amposta|40.710|0.579|ES|Catalonia|87
+Vila-seca|41.111|1.148|ES|Catalonia|86
+Vilassar de Mar|41.505|2.392|ES|Catalonia|86
+Manlleu|42.002|2.285|ES|Catalonia|86
+Andorra la Vella|42.508|1.521|AD|Andorra la Vella|86
+Bourg-lès-Valence|44.947|4.895|FR|Auvergne-Rhône-Alpes|86
+Bagnols-sur-Cèze|44.163|4.620|FR|Occitanie|86
+Banyoles|42.117|2.767|ES|Catalonia|86
+Roses|42.262|3.177|ES|Catalonia|86
+Marmande|44.504|0.165|FR|New Aquitaine|86
+Calella|41.614|2.654|ES|Catalonia|85
+Sorgues|44.010|4.874|FR|Provence-Alpes-Côte d'Azur|85
+Plaisance-du-Touch|43.566|1.296|FR|Occitanie|85
+Malgrat de Mar|41.647|2.741|ES|Catalonia|85
+Sant Quirze del Vallès|41.533|2.083|ES|Catalonia|85
+Mauguio|43.617|4.007|FR|Occitanie|85
+Benicàssim|40.050|0.067|ES|Valencia|85
+Castelnau-le-Lez|43.636|3.901|FR|Occitanie|85
+Palamós|41.848|3.129|ES|Catalonia|85
+Parets del Vallès|41.575|2.233|ES|Catalonia|85
+Lattes|43.568|3.903|FR|Occitanie|85
+Fos-sur-Mer|43.438|4.945|FR|Provence-Alpes-Côte d'Azur|85
+La Pineda|41.077|1.179|ES|Catalonia|85
+Berga|42.104|1.846|ES|Catalonia|85
+Monzón|41.911|0.194|ES|Aragon|85
+Pamiers|43.117|1.611|FR|Occitanie|85
+Barbastro|42.036|0.127|ES|Aragon|85
+Caldes de Montbui|41.633|2.167|ES|Catalonia|85
+Sant Celoni|41.689|2.490|ES|Catalonia|85
+Balaguer|41.791|0.811|ES|Catalonia|85
+Cardedeu|41.640|2.357|ES|Catalonia|84
+Tàrrega|41.647|1.140|ES|Catalonia|84
+Le Pontet|43.961|4.860|FR|Provence-Alpes-Côte d'Azur|84
+Canovelles|41.617|2.283|ES|Catalonia|84
+Port-de-Bouc|43.407|4.981|FR|Provence-Alpes-Côte d'Azur|84
+les Escaldes|42.507|1.534|AD|Escaldes-Engordany|84
+Sant Just Desvern|41.384|2.068|ES|Catalonia|84
+Balma|43.611|1.499|FR|Occitanie|84
+Sant Carles de la Ràpita|40.617|0.600|ES|Catalonia|84
+Montornès del Vallès|41.542|2.267|ES|Catalonia|84
+Cugnaux|43.536|1.344|FR|Occitanie|84
+Piera|41.522|1.751|ES|Catalonia|84
+Tordera|41.699|2.719|ES|Catalonia|84
+Arenys de Mar|41.582|2.549|ES|Catalonia|84
+Torredembarra|41.145|1.399|ES|Catalonia|84
+la Garriga|41.683|2.283|ES|Catalonia|84
+Mende|44.522|3.500|FR|Occitanie|83
+Beaucaire|43.808|4.644|FR|Occitanie|83
+Tarascon|43.806|4.660|FR|Provence-Alpes-Côte d'Azur|83
+Bollène|44.281|4.749|FR|Provence-Alpes-Côte d'Azur|83
+Mollerussa|41.633|0.900|ES|Catalonia|83
+Fraga|41.523|0.349|ES|Aragon|83
+Châteaurenard|43.882|4.855|FR|Provence-Alpes-Côte d'Azur|83
+Torelló|42.046|2.267|ES|Catalonia|83
+Lliçà d'Amunt|41.617|2.233|ES|Catalonia|83
+Canet de Mar|41.591|2.581|ES|Catalonia|83
+Vallirana|41.387|1.932|ES|Catalonia|83
+Villefranche-de-Rouergue|44.352|2.037|FR|Occitanie|83
+Corbera de Llobregat|41.417|1.920|ES|Catalonia|83
+La Llagosta|41.514|2.193|ES|Catalonia|83
+Cubelles|41.208|1.673|ES|Catalonia|83
+Moissac|44.105|1.085|FR|Occitanie|83
+Villeneuve-lès-Avignon|43.968|4.793|FR|Occitanie|83
+Castelsarrasin|44.040|1.107|FR|Occitanie|82
+Saint-Gilles|43.677|4.430|FR|Occitanie|82
+Aubenas|44.620|4.390|FR|Auvergne-Rhône-Alpes|82
+Graulhet|43.767|1.989|FR|Occitanie|82
+Mont-roig del Camp|41.087|0.959|ES|Catalonia|82
+Juvignac|43.614|3.811|FR|Occitanie|82
+Pierrelatte|44.375|4.703|FR|Auvergne-Rhône-Alpes|82
+Vilanova del Camí|41.572|1.638|ES|Catalonia|82
+Gaillac|43.902|1.897|FR|Occitanie|82
+Saint-Orens-de-Gameville|43.552|1.534|FR|Occitanie|82
+Ramonville-Saint-Agne|43.546|1.475|FR|Occitanie|82
+Castelnaudary|43.318|1.953|FR|Occitanie|82
+Cunit|41.198|1.636|ES|Catalonia|82
+Sant Sadurní d'Anoia|41.426|1.785|ES|Catalonia|82
+Saint-Gaudens|43.108|0.723|FR|Occitanie|82
+L'Union|43.660|1.483|FR|Occitanie|82
+Castelló d'Empúries|42.257|3.074|ES|Catalonia|82
+La Seu d'Urgell|42.359|1.461|ES|Catalonia|82
+Castellbisbal|41.475|1.982|ES|Catalonia|82
+Abrera|41.517|1.901|ES|Catalonia|81
+Deltebre|40.719|0.708|ES|Catalonia|81
+Santa Coloma de Farners|41.867|2.667|ES|Catalonia|81
+Argentona|41.553|2.401|ES|Catalonia|81
+Torroella de Montgrí|42.043|3.127|ES|Catalonia|81
+Castanet-Tolosan|43.516|1.499|FR|Occitanie|81
+Saint-Martin-de-Crau|43.640|4.813|FR|Provence-Alpes-Côte d'Azur|81
+Figeac|44.609|2.032|FR|Occitanie|81
+Mazamet|43.493|2.374|FR|Occitanie|81
+Guilherand-Granges|44.933|4.874|FR|Auvergne-Rhône-Alpes|81
+Encamp|42.535|1.580|AD|Encamp|81
+Canet-en-Roussillon|42.700|3.017|FR|Occitanie|81
+Pallejà|41.424|1.995|ES|Catalonia|81
+Sarlat-la-Canéda|44.889|1.217|FR|New Aquitaine|81
+Ripoll|42.201|2.190|ES|Catalonia|81
+Sant Andreu de Llavaneres|41.567|2.483|ES|Catalonia|81
+Limoux|43.055|2.222|FR|Occitanie|81
+Monteux|44.036|4.996|FR|Provence-Alpes-Côte d'Azur|81
+Vauvert|43.694|4.276|FR|Occitanie|81
+Sant Joan de Vilatorrada|41.745|1.805|ES|Catalonia|81
+Calonge|41.859|3.079|ES|Catalonia|81
+Saint-Rémy-de-Provence|43.788|4.832|FR|Provence-Alpes-Côte d'Azur|80
+Premià de Dalt|41.500|2.350|ES|Catalonia|80
+l'Escala|42.126|3.133|ES|Catalonia|80
+Carmaux|44.050|2.158|FR|Occitanie|80
+Saint-Estève|42.713|2.842|FR|Occitanie|80
+la Bisbal d'Empordà|41.950|3.050|ES|Catalonia|80
+Castell-Platja d'Aro|41.818|3.067|ES|Catalonia|80
+Montgat|41.469|2.280|ES|Catalonia|80
+La Roca del Vallès|41.583|2.333|ES|Catalonia|80
+Valréas|44.385|4.991|FR|Provence-Alpes-Côte d'Azur|80
+Lavaur|43.699|1.812|FR|Occitanie|80
+Argeles|42.547|3.023|FR|Occitanie|80
+Pont-Saint-Esprit|44.257|4.648|FR|Occitanie|80
+Foix|42.965|1.607|FR|Occitanie|80
+Tonneins|44.395|0.310|FR|New Aquitaine|80
+Portet-sur-Garonne|43.523|1.405|FR|Occitanie|80
+Privas|44.735|4.599|FR|Auvergne-Rhône-Alpes|80
+Vedène|43.977|4.904|FR|Provence-Alpes-Côte d'Azur|80
+Le Passage|44.201|0.603|FR|New Aquitaine|79
+Alcanar|40.543|0.481|ES|Catalonia|79
+Saint-Cyprien-Plage|42.632|3.033|FR|Occitanie|79
+Villeneuve-Tolosane|43.523|1.341|FR|Occitanie|79
+Saint-Jean|43.665|1.505|FR|Occitanie|79
+Saint-Jean-de-Védas|43.578|3.826|FR|Occitanie|79
+Cabestany|42.681|2.941|FR|Occitanie|79
+Lézignan-Corbières|43.201|2.757|FR|Occitanie|79
+Marguerittes|43.860|4.445|FR|Occitanie|79
+Bagnères-de-Bigorre|43.065|0.149|FR|Occitanie|79
+Binéfar|41.851|0.294|ES|Aragon|79
+Alella|41.494|2.295|ES|Catalonia|79
+Puigcerdà|42.432|1.928|ES|Catalonia|79
+Arenys de Munt|41.614|2.540|ES|Catalonia|79
+Rivesaltes|42.769|2.874|FR|Occitanie|79
+Oropesa del Mar|40.091|0.141|ES|Valencia|79
+Sant Cristòfol de les Fonts|42.170|2.499|ES|Catalonia|79
+Montmeló|41.550|2.242|ES|Catalonia|79
+Pérols|43.565|3.950|FR|Occitanie|79
+L'Isle-Jourdain|43.612|1.087|FR|Occitanie|79
+Cervera|41.670|1.272|ES|Catalonia|79
+Revel|43.459|2.004|FR|Occitanie|79
+Castelginest|43.694|1.434|FR|Occitanie|79
+Portes-lès-Valence|44.876|4.874|FR|Auvergne-Rhône-Alpes|79
+Pézenas|43.460|3.423|FR|Occitanie|79
+Le Teil|44.545|4.682|FR|Auvergne-Rhône-Alpes|79
+Saint-Gély-du-Fesc|43.693|3.806|FR|Occitanie|79
+Mèze|43.427|3.605|FR|Occitanie|79
+Saint-Affrique|43.956|2.889|FR|Occitanie|79
+Cassà de la Selva|41.888|2.875|ES|Catalonia|79
+Port-Saint-Louis-du-Rhône|43.388|4.804|FR|Provence-Alpes-Côte d'Azur|79
+Livron-sur-Drôme|44.777|4.842|FR|Auvergne-Rhône-Alpes|79
+Pibrac|43.620|1.285|FR|Occitanie|78
+Solsona|41.994|1.517|ES|Catalonia|78
+Villeneuve-lès-Maguelone|43.532|3.860|FR|Occitanie|78
+Les Angles|43.955|4.766|FR|Occitanie|78
+Bourg-Saint-Andéol|44.373|4.644|FR|Auvergne-Rhône-Alpes|78
+Saint-Laurent-de-la-Salanque|42.774|2.990|FR|Occitanie|78
+Ceret|42.485|2.748|FR|Occitanie|78
+Sant Vicenç de Castellet|41.667|1.867|ES|Catalonia|78
+Saint-Paul-Trois-Châteaux|44.346|4.764|FR|Auvergne-Rhône-Alpes|78
+Sant Julià de Lòria|42.464|1.491|AD|Sant Julià de Loria|78
+Empuriabrava|42.247|3.121|ES|Catalonia|78
+Matadepera|41.599|2.026|ES|Catalonia|78
+Thuir|42.632|2.756|FR|Occitanie|78
+Aureilhan|43.244|0.096|FR|Occitanie|78
+Uzès|44.013|4.420|FR|Occitanie|78
+Fonsorbes|43.539|1.229|FR|Occitanie|78
+Santa Maria de Palautordera|41.694|2.446|ES|Catalonia|78
+Condom|43.958|0.372|FR|Occitanie|78
+Castellet|41.263|1.634|ES|Catalonia|78
+Nérac|44.136|0.338|FR|New Aquitaine|78
+Sentmenat|41.609|2.135|ES|Catalonia|78
+Le Crès|43.648|3.939|FR|Occitanie|78
+Bompas|42.731|2.933|FR|Occitanie|78
+Lodève|43.732|3.320|FR|Occitanie|78
+Peníscola|40.357|0.407|ES|Valencia|77
+Centelles|41.797|2.219|ES|Catalonia|77
+Guissona|41.783|1.300|ES|Catalonia|77
+Lavelanet|42.933|1.848|FR|Occitanie|77
+Auterive|43.351|1.475|FR|Occitanie|77
+Cabrils|41.528|2.370|ES|Catalonia|77
+La Grande-Motte|43.561|4.085|FR|Occitanie|77
+L'Ametlla del Vallès|41.667|2.267|ES|Catalonia|77
+Aussillon|43.499|2.363|FR|Occitanie|77
+Decazeville|44.560|2.251|FR|Occitanie|77
+la Massana|42.545|1.515|AD|La Massana|77
+Entraigues-sur-la-Sorgue|44.003|4.927|FR|Provence-Alpes-Côte d'Azur|77
+Bigues i Riells|41.683|2.233|ES|Catalonia|77
+Cervelló|41.396|1.959|ES|Catalonia|77
+Masquefa|41.504|1.811|ES|Catalonia|77
+Sallent|41.826|1.895|ES|Catalonia|77
+Santa Coloma de Cervelló|41.367|2.014|ES|Catalonia|77
+Le Thor|43.929|4.995|FR|Provence-Alpes-Côte d'Azur|77
+Tiana|41.482|2.267|ES|Catalonia|77
+Elne|42.604|2.972|FR|Occitanie|77
+Saint-Girons|42.985|1.146|FR|Occitanie|77
+Morières-lès-Avignon|43.940|4.901|FR|Provence-Alpes-Côte d'Azur|77
+Saint-Juéry|43.948|2.209|FR|Occitanie|77
+Marseillan|43.357|3.528|FR|Occitanie|77
+Léguevin|43.600|1.232|FR|Occitanie|77
+Tona|41.848|2.228|ES|Catalonia|77
+Sérignan|43.279|3.277|FR|Occitanie|77
+Saint-Péray|44.949|4.845|FR|Auvergne-Rhône-Alpes|77
+Bédarieux|43.616|3.159|FR|Occitanie|77
+Prades|42.618|2.422|FR|Occitanie|77
+Saint-Sulpice-la-Pointe|43.775|1.685|FR|Occitanie|77
+Llagostera|41.827|2.894|ES|Catalonia|77
+Montblanc|41.376|1.162|ES|Catalonia|76
+Alcalà de Xivert|40.300|0.233|ES|Valencia|76
+Fabrègues|43.551|3.776|FR|Occitanie|76
+Lannemezan|43.125|0.384|FR|Occitanie|76
+Baillargues|43.661|4.013|FR|Occitanie|76
+Fleurance|43.849|0.663|FR|Occitanie|76
+Aigues-Mortes|43.567|4.191|FR|Occitanie|76
+Grenade|43.771|1.293|FR|Occitanie|76
+Seysses|43.498|1.311|FR|Occitanie|76
+Sainte-Livrade-sur-Lot|44.398|0.589|FR|New Aquitaine|76
+Frouzins|43.515|1.325|FR|Occitanie|76
+Balaruc-les-Bains|43.442|3.678|FR|Occitanie|76
+Le Soler|42.682|2.793|FR|Occitanie|76
+Le Grau-du-Roi|43.539|4.136|FR|Occitanie|76
+Pignan|43.584|3.759|FR|Occitanie|76
+Caussade|44.161|1.537|FR|Occitanie|76
+Rochefort-du-Gard|43.975|4.690|FR|Occitanie|76
+La Salvetat-Saint-Gilles|43.576|1.272|FR|Occitanie|76
+Ulldecona|40.597|0.447|ES|Catalonia|76
+Manduel|43.819|4.472|FR|Occitanie|76
+Alpicat|41.666|0.556|ES|Catalonia|76
+Súria|41.833|1.750|ES|Catalonia|76
+Aucamville|43.671|1.428|FR|Occitanie|76
+Polinyà|41.550|2.150|ES|Catalonia|76
+Escalquens|43.518|1.561|FR|Occitanie|76
+Saint-Lys|43.514|1.177|FR|Occitanie|76
+Saint-Christol-les-Alès|44.084|4.077|FR|Occitanie|76
+Grabels|43.648|3.801|FR|Occitanie|76
+Marvejols|44.554|3.290|FR|Occitanie|76
+Bon-Encontre|44.186|0.671|FR|New Aquitaine|76
+Palavas-les-Flots|43.530|3.930|FR|Occitanie|76
+Beauzelle|43.667|1.375|FR|Occitanie|76
+Sant Vicenç de Montalt|41.579|2.509|ES|Catalonia|76
+Port-La Nouvelle|43.018|3.050|FR|Occitanie|76
+Marsillargues|43.665|4.177|FR|Occitanie|76
+Trèbes|43.210|2.442|FR|Occitanie|76
+Torrelles de Llobregat|41.350|1.983|ES|Catalonia|75
+Vendargues|43.658|3.970|FR|Occitanie|75
+Labruguière|43.539|2.263|FR|Occitanie|75
+La Canonja|41.121|1.181|ES|Catalonia|75
+Toulouges|42.671|2.832|FR|Occitanie|75
+Sarrians|44.083|4.971|FR|Provence-Alpes-Côte d'Azur|75
+Fumel|44.499|0.967|FR|New Aquitaine|75
+Santa Eulàlia de Ronçana|41.650|2.233|ES|Catalonia|75
+Teià|41.498|2.322|ES|Catalonia|75
+Loriol-sur-Drôme|44.747|4.817|FR|Auvergne-Rhône-Alpes|75
+Castries|43.680|3.982|FR|Occitanie|75
+Gelida|41.433|1.867|ES|Catalonia|75
+Arpajon-sur-Cère|44.904|2.457|FR|Auvergne-Rhône-Alpes|75
+Courthézon|44.088|4.884|FR|Provence-Alpes-Côte d'Azur|75
+Bouillargues|43.800|4.428|FR|Occitanie|75
+Launaguet|43.678|1.456|FR|Occitanie|75
+Navàs|41.900|1.878|ES|Catalonia|75
+Cournonterral|43.559|3.720|FR|Occitanie|75
+Riudoms|41.133|1.050|ES|Catalonia|75
+Móra d'Ebre|41.083|0.633|ES|Catalonia|75
+Artés|41.798|1.954|ES|Catalonia|75
+Pia|42.745|2.920|FR|Occitanie|75
+Tremp|42.167|0.895|ES|Catalonia|75
+Coursan|43.234|3.057|FR|Occitanie|75
+Torreblanca|40.220|0.197|ES|Valencia|75
+Almacelles|41.732|0.437|ES|Catalonia|75
+Laudun-l'Ardoise|44.105|4.657|FR|Occitanie|75
+Constantí|41.154|1.213|ES|Catalonia|75
+Villemur-sur-Tarn|43.867|1.503|FR|Occitanie|75
+Taradell|41.875|2.287|ES|Catalonia|75
+Navarcles|41.752|1.904|ES|Catalonia|75
+Begues|41.333|1.933|ES|Catalonia|75
+Anglès|41.956|2.636|ES|Catalonia|75
+Ille-sur-Têt|42.671|2.621|FR|Occitanie|75
+Roques|43.501|1.371|FR|Occitanie|75
+Vielha|42.702|0.796|ES|Catalonia|75
+Saint-Alban|43.693|1.410|FR|Occitanie|75
+Vic-en-Bigorre|43.387|0.055|FR|Occitanie|75
+Agramunt|41.787|1.097|ES|Catalonia|75
+Gourdon|44.736|1.381|FR|Occitanie|75
+Bellegarde|43.754|4.514|FR|Occitanie|75
+Milhaud|43.790|4.307|FR|Occitanie|75
+Roquemaure|44.052|4.778|FR|Occitanie|74
+Dosrius|41.583|2.417|ES|Catalonia|74
+Luc-la-Primaube|44.314|2.536|FR|Occitanie|74
+Cornebarrieu|43.650|1.326|FR|Occitanie|74
+Clapiers|43.658|3.889|FR|Occitanie|74
+Cardona|41.914|1.679|ES|Catalonia|74
+Saint-Clément-de-Rivière|43.683|3.833|FR|Occitanie|74
+Labarthe-sur-Lèze|43.452|1.400|FR|Occitanie|74
+Capellades|41.530|1.687|ES|Catalonia|74
+Alcarràs|41.567|0.517|ES|Catalonia|74
+Jacou|43.661|3.912|FR|Occitanie|74
+La Voulte-sur-Rhône|44.800|4.779|FR|Auvergne-Rhône-Alpes|74
+Santa Cristina d'Aro|41.817|3.000|ES|Catalonia|74
+Moià|41.811|2.098|ES|Catalonia|74
+Sant Pol de Mar|41.602|2.617|ES|Catalonia|74
+Casteljaloux|44.315|0.088|FR|New Aquitaine|74
+Foulayronnes|44.240|0.645|FR|New Aquitaine|74
+Valence|44.108|0.891|FR|Occitanie|74
+Gignac|43.652|3.551|FR|Occitanie|74
+Bédarrides|44.040|4.898|FR|Provence-Alpes-Côte d'Azur|74
+Banyuls de la Marenda|42.484|3.129|FR|Occitanie|74
+Tossa de Mar|41.717|2.933|ES|Catalonia|74
+Alcocéber|40.251|0.284|ES|Valencia|74
+Séméac|43.228|0.105|FR|Occitanie|74
+Le Boulou|42.524|2.833|FR|Occitanie|74
+Vias|43.312|3.418|FR|Occitanie|74
+Prades-le-Lez|43.699|3.865|FR|Occitanie|74
+Llançà|42.362|3.152|ES|Catalonia|74
+Gironella|42.034|1.880|ES|Catalonia|74
+Vilafant|42.247|2.938|ES|Catalonia|74
+Canohès|42.652|2.834|FR|Occitanie|74
+Teyran|43.685|3.929|FR|Occitanie|74
+Aussonne|43.684|1.319|FR|Occitanie|74
+Boé|44.160|0.628|FR|New Aquitaine|74
+La Selva del Camp|41.215|1.139|ES|Catalonia|74
+Aubin|44.528|2.244|FR|Occitanie|74
+Rabastens|43.825|1.724|FR|Occitanie|73
+Donzère|44.442|4.711|FR|Auvergne-Rhône-Alpes|73
+Saint-Martin-de-Valgalgues|44.163|4.082|FR|Occitanie|73
+Espalion|44.522|2.763|FR|Occitanie|73
+Noves|43.877|4.902|FR|Provence-Alpes-Côte d'Azur|73
+Piolenc|44.178|4.762|FR|Provence-Alpes-Côte d'Azur|73
+Le Cap d'Agde|43.278|3.514|FR|Occitanie|73
+Aiguillon|44.299|0.339|FR|New Aquitaine|73
+Poussan|43.489|3.671|FR|Occitanie|73
+Saint-Jory|43.741|1.371|FR|Occitanie|73
+Lectoure|43.934|0.621|FR|Occitanie|73
+Bessan|43.361|3.422|FR|Occitanie|73
+Fenouillet|43.680|1.392|FR|Occitanie|73
+Saint-Privat-des-Vieux|44.144|4.129|FR|Occitanie|73
+Saint-Mathieu-de-Tréviers|43.769|3.858|FR|Occitanie|73
+Portvendres|42.518|3.106|FR|Occitanie|73
+Caumont-sur-Durance|43.894|4.947|FR|Provence-Alpes-Côte d'Azur|73
+Roda de Barà|41.186|1.459|ES|Catalonia|73
+Collbató|41.570|1.827|ES|Catalonia|73
+Pont-du-Casse|44.230|0.677|FR|New Aquitaine|73
+Alcover|41.263|1.170|ES|Catalonia|73
+Florensac|43.384|3.467|FR|Occitanie|73
+Saint-Marcel-lès-Valence|44.971|4.953|FR|Auvergne-Rhône-Alpes|73
+Fronton|43.840|1.389|FR|Occitanie|73
+Sigean|43.028|2.978|FR|Occitanie|73
+Étoile-sur-Rhône|44.839|4.891|FR|Auvergne-Rhône-Alpes|73
+Bruguières|43.727|1.408|FR|Occitanie|73
+Cabannes|43.860|4.952|FR|Provence-Alpes-Côte d'Azur|73
+Saint-André-de-Sangonis|43.650|3.503|FR|Occitanie|73
+Bellpuig|41.626|1.011|ES|Catalonia|73
+Saleilles|42.654|2.952|FR|Occitanie|73
+Aimargues|43.685|4.208|FR|Occitanie|73
+Prigonrieux|44.855|0.403|FR|New Aquitaine|73
+Carbonne|43.297|1.219|FR|Occitanie|72
+Jonquières|44.116|4.900|FR|Provence-Alpes-Côte d'Azur|72
+Saint-Chély-d'Apcher|44.803|3.276|FR|Occitanie|72
+Eyragues|43.841|4.842|FR|Provence-Alpes-Côte d'Azur|72
+Mirande|43.514|0.404|FR|Occitanie|72
+Aramon|43.891|4.681|FR|Occitanie|72
+Saint-Saturnin-lès-Avignon|43.955|4.925|FR|Provence-Alpes-Côte d'Azur|72
+Valras-Plage|43.248|3.290|FR|Occitanie|72
+Coma-ruga|41.180|1.525|ES|Catalonia|72
+Eauze|43.861|0.101|FR|Occitanie|72
+Sauvian|43.293|3.258|FR|Occitanie|72
+Cabrera de Mar|41.517|2.400|ES|Catalonia|72
+Garons|43.768|4.428|FR|Occitanie|72
+Sommières|43.785|4.090|FR|Occitanie|72
+Sarrià de Ter|42.017|2.833|ES|Catalonia|72
+Ganges|43.934|3.708|FR|Occitanie|72
+Saint-Hilaire-de-Brethmas|44.081|4.125|FR|Occitanie|72
+els Pallaresos|41.175|1.271|ES|Catalonia|72
+Beaumont-lès-Valence|44.862|4.943|FR|Auvergne-Rhône-Alpes|72
+Begur|41.950|3.217|ES|Catalonia|72
+Gigean|43.500|3.712|FR|Occitanie|72
+Altafulla|41.143|1.373|ES|Catalonia|72
+Flix|41.231|0.550|ES|Catalonia|72
+Villeneuve-de-la-Raho|42.637|2.917|FR|Occitanie|72
+Pujols|44.394|0.688|FR|New Aquitaine|72
+Pollestres|42.638|2.867|FR|Occitanie|72
+Vergèze|43.744|4.220|FR|Occitanie|72
+Poulx|43.909|4.417|FR|Occitanie|72
+Souillac|44.898|1.474|FR|Occitanie|72
+Sainte-Marie-Plage|42.725|3.038|FR|Occitanie|72
+Barbentane|43.899|4.748|FR|Provence-Alpes-Côte d'Azur|72
+Saverdun|43.235|1.574|FR|Occitanie|72
+Quillan|42.875|2.181|FR|Occitanie|72
+Gramat|44.779|1.725|FR|Occitanie|72
+Calvisson|43.787|4.196|FR|Occitanie|72
+Saint-Céré|44.859|1.891|FR|Occitanie|72
+Lisle-sur-Tarn|43.853|1.810|FR|Occitanie|72
+Sils|41.808|2.745|ES|Catalonia|72
+Caissargues|43.796|4.378|FR|Occitanie|72
+Cazouls-lès-Béziers|43.392|3.101|FR|Occitanie|72
+Eaunes|43.425|1.353|FR|Occitanie|72
+Le Barcarès|42.788|3.037|FR|Occitanie|72
+els Banys d'Arles|42.473|2.669|FR|Occitanie|72
+Pujaut|44.005|4.775|FR|Occitanie|72
+Vic-Fezensac|43.759|0.303|FR|Occitanie|72
+Millas|42.692|2.695|FR|Occitanie|72
+Camaret-sur-Aigues|44.164|4.873|FR|Provence-Alpes-Côte d'Azur|72
+Servian|43.427|3.302|FR|Occitanie|72
+Vals-les-Bains|44.666|4.366|FR|Auvergne-Rhône-Alpes|72
+Le Cheylard|44.906|4.424|FR|Auvergne-Rhône-Alpes|72
+Cazères|43.207|1.086|FR|Occitanie|72
+Bescanó|41.966|2.739|ES|Catalonia|72
+Juillan|43.201|0.023|FR|Occitanie|72
+Rognonas|43.900|4.804|FR|Provence-Alpes-Côte d'Azur|71
+Montech|43.957|1.230|FR|Occitanie|71
+Saint-Hippolyte-du-Fort|43.966|3.856|FR|Occitanie|71
+Nègrepelisse|44.075|1.521|FR|Occitanie|71
+Roquettes|43.497|1.368|FR|Occitanie|71
+Villefranche-de-Lauragais|43.400|1.717|FR|Occitanie|71
+Labège|43.529|1.530|FR|Occitanie|71
+Santa Bárbara|40.715|0.493|ES|Catalonia|71
+Artesa de Segre|41.895|1.046|ES|Catalonia|71
+Beaumont-de-Lomagne|43.883|0.988|FR|Occitanie|71
+Tamarit de Llitera / Tamarite de Litera|41.869|0.422|ES|Aragon|71
+Tarascon-sur-Ariège|42.847|1.606|FR|Occitanie|71
+Quart d'Onyar|41.940|2.841|ES|Catalonia|71
+Bages|42.606|2.893|FR|Occitanie|71
+Viviers|44.483|4.689|FR|Auvergne-Rhône-Alpes|71
+Montrabé|43.645|1.524|FR|Occitanie|71
+Villeneuve-lès-Béziers|43.315|3.280|FR|Occitanie|71
+Breda|41.748|2.560|ES|Catalonia|71
+Sant Joan de les Abadesses|42.233|2.285|ES|Catalonia|71
+Mondragon|44.238|4.713|FR|Provence-Alpes-Côte d'Azur|71
+Uchaud|43.757|4.269|FR|Occitanie|71
+Saint-Ambroix|44.261|4.198|FR|Occitanie|71
+Almenar|41.796|0.568|ES|Catalonia|71
+Leucate|42.911|3.029|FR|Occitanie|71
+Saïx|43.581|2.183|FR|Occitanie|71
+Caveirac|43.824|4.267|FR|Occitanie|71
+Lapalud|44.308|4.689|FR|Provence-Alpes-Côte d'Azur|71
+Langogne|44.727|3.855|FR|Occitanie|71
+Générac|43.728|4.348|FR|Occitanie|71
+Montferrier-sur-Lez|43.668|3.857|FR|Occitanie|71
+Seva|41.838|2.280|ES|Catalonia|71
+Odos|43.196|0.057|FR|Occitanie|71
+Hostalric|41.750|2.633|ES|Catalonia|71
+Graus|42.189|0.337|ES|Aragon|71
+Beauvoisin|43.719|4.323|FR|Occitanie|71
+Ytrac|44.912|2.362|FR|Auvergne-Rhône-Alpes|71
+Mireval|43.509|3.802|FR|Occitanie|71
+Bessèges|44.292|4.100|FR|Occitanie|71
+Gratentour|43.724|1.432|FR|Occitanie|71
+Layrac|44.134|0.660|FR|New Aquitaine|71
+Barbazan-Debat|43.196|0.121|FR|Occitanie|71
+Capestang|43.329|3.045|FR|Occitanie|71
+Clarensac|43.825|4.220|FR|Occitanie|71
+Bagnères-de-Luchon|42.791|0.593|FR|Occitanie|71
+Celrà|42.033|2.883|ES|Catalonia|71
+Montagnac|43.481|3.482|FR|Occitanie|71
+Pechbonnieu|43.704|1.467|FR|Occitanie|71
+Salindres|44.172|4.158|FR|Occitanie|71
+Campdevànol|42.224|2.169|ES|Catalonia|70
+Alfarràs|41.817|0.583|ES|Catalonia|70
+Fontvieille|43.728|4.710|FR|Provence-Alpes-Côte d'Azur|70
+Graveson|43.851|4.774|FR|Provence-Alpes-Côte d'Azur|70
+Rousson|44.197|4.145|FR|Occitanie|70
+Calaf|41.733|1.514|ES|Catalonia|70
+Nissan-lez-Enserune|43.288|3.128|FR|Occitanie|70
+Anduze|44.055|3.985|FR|Occitanie|70
+Canillo|42.568|1.598|AD|Canillo|70
+Blaye-les-Mines|44.031|2.131|FR|Occitanie|70
+Bouloc|43.782|1.405|FR|Occitanie|70
+Rosselló|41.694|0.595|ES|Catalonia|70
+Gruissan|43.108|3.087|FR|Occitanie|70
+Verdun-sur-Garonne|43.854|1.234|FR|Occitanie|70
+Fontenilles|43.553|1.191|FR|Occitanie|70
+Castelmaurou|43.678|1.532|FR|Occitanie|70
+Bram|43.244|2.113|FR|Occitanie|70
+Labastide-Saint-Pierre|43.919|1.367|FR|Occitanie|70
+Miramont-de-Guyenne|44.602|0.361|FR|New Aquitaine|70
+Santa Coloma|42.495|1.499|AD|Andorra la Vella|70
+Balsareny|41.863|1.874|ES|Catalonia|70
+Lignan-sur-Orb|43.384|3.170|FR|Occitanie|70
+Paulhan|43.540|3.460|FR|Occitanie|70
+Olemps|44.346|2.551|FR|Occitanie|70
+Sainte-Foy-la-Grande|44.841|0.217|FR|New Aquitaine|70
+Soues|43.207|0.099|FR|Occitanie|70
+Montfrin|43.876|4.593|FR|Occitanie|70
+Maraussan|43.367|3.158|FR|Occitanie|70
+Collioure|42.525|3.082|FR|Occitanie|70
+Pradines|44.479|1.404|FR|Occitanie|70
+Saint-Aunès|43.641|3.966|FR|Occitanie|70
+Castelnau-d'Estrétefonds|43.784|1.359|FR|Occitanie|70
+Lalinde|44.837|0.738|FR|New Aquitaine|70
+Merville|43.724|1.297|FR|Occitanie|70
+Sant Salvador de Guardiola|41.683|1.767|ES|Catalonia|70
+Sant Martí Sarroca|41.386|1.611|ES|Catalonia|70
+Réalmont|43.778|2.189|FR|Occitanie|70
+Grisolles|43.829|1.297|FR|Occitanie|70
+Montayral|44.480|0.984|FR|New Aquitaine|70
+Redessan|43.831|4.496|FR|Occitanie|70
+Montastruc-la-Conseillère|43.720|1.590|FR|Occitanie|70
+Bias|44.416|0.669|FR|New Aquitaine|70
+Malissard|44.900|4.954|FR|Auvergne-Rhône-Alpes|70
+Ordino|42.556|1.533|AD|Ordino|70
+Mirepoix|43.088|1.874|FR|Occitanie|70
+Juneda|41.548|0.825|ES|Catalonia|70
+Châteauneuf-de-Gadagne|43.927|4.945|FR|Provence-Alpes-Côte d'Azur|70
+Arles|42.457|2.635|FR|Occitanie|70
+Monistrol de Montserrat|41.617|1.850|ES|Catalonia|70
+Santa Susanna|41.633|2.717|ES|Catalonia|70
+Boujan-sur-Libron|43.371|3.247|FR|Occitanie|70
+Mazères|43.252|1.678|FR|Occitanie|70
+Pézilla-la-Rivière|42.695|2.770|FR|Occitanie|70
+Pas de la Casa|42.543|1.734|AD|Encamp|70
+Saint-Quentin-la-Poterie|44.045|4.441|FR|Occitanie|70
+Rieumes|43.412|1.118|FR|Occitanie|69
+l'Estartit|42.053|3.198|ES|Catalonia|69
+Gandesa|41.054|0.439|ES|Catalonia|69
+Villemoustaussou|43.253|2.364|FR|Occitanie|69
+Sorède|42.531|2.957|FR|Occitanie|69
+Rodilhan|43.827|4.431|FR|Occitanie|69
+Alguaire|41.737|0.585|ES|Catalonia|69
+Auzeville-Tolosane|43.528|1.483|FR|Occitanie|69
+Jonquières-Saint-Vincent|43.828|4.563|FR|Occitanie|69
+Montréjeau|43.086|0.568|FR|Occitanie|69
+Le Bugue|44.918|0.927|FR|New Aquitaine|69
+Saint-Jean-du-Gard|44.105|3.886|FR|Occitanie|69
+Fonbeauzard|43.678|1.434|FR|Occitanie|69
+Pont-de-Larn|43.504|2.406|FR|Occitanie|69
+Òdena|41.600|1.650|ES|Catalonia|69
+Puygouzon|43.899|2.170|FR|Occitanie|69
+Mouriès|43.690|4.871|FR|Provence-Alpes-Côte d'Azur|69
+El Perelló|40.874|0.711|ES|Catalonia|69
+Lespignan|43.274|3.172|FR|Occitanie|69
+Cadaqués|42.289|3.277|ES|Catalonia|69
+Drémil-Lafage|43.596|1.601|FR|Occitanie|69
+Varilhes|43.046|1.628|FR|Occitanie|69
+Montady|43.335|3.127|FR|Occitanie|69
+Puylaurens|43.572|2.011|FR|Occitanie|69
+Lherm|43.430|1.222|FR|Occitanie|69
+Sainte-Bazeille|44.531|0.094|FR|New Aquitaine|69
+Bernis|43.766|4.286|FR|Occitanie|69
+Coubon|44.997|3.918|FR|Auvergne-Rhône-Alpes|69
+Sébazac-Concourès|44.405|2.603|FR|Occitanie|69
+Colayrac-Saint-Cirq|44.220|0.553|FR|New Aquitaine|69
+Claira|42.760|2.956|FR|Occitanie|69
+Bressols|43.968|1.338|FR|Occitanie|69
+Vallgorguina|41.648|2.510|ES|Catalonia|69
+Gimont|43.626|0.876|FR|Occitanie|69
+Le Pouzin|44.752|4.748|FR|Auvergne-Rhône-Alpes|69
+Montmeyran|44.834|4.972|FR|Auvergne-Rhône-Alpes|69
+Lacaune|43.709|2.692|FR|Occitanie|69
+Verfeil|43.658|1.663|FR|Occitanie|69
+Saint-Brès|43.667|4.029|FR|Occitanie|69
+Saint-Just|43.658|4.115|FR|Occitanie|69
+Subirats|41.400|1.833|ES|Catalonia|69
+Lafrançaise|44.128|1.240|FR|Occitanie|69
+Murviel-lès-Béziers|43.433|3.133|FR|Occitanie|69
+Saint-Pons-de-Thomières|43.483|2.767|FR|Occitanie|69
+Fourques|43.694|4.609|FR|Occitanie|69
+Les Salles-du-Gardon|44.207|4.035|FR|Occitanie|69
+Aiguefonde|43.494|2.317|FR|Occitanie|69
+Baraqueville|44.277|2.432|FR|Occitanie|69
+Santa Oliva|41.254|1.551|ES|Catalonia|69
+Lavérune|43.586|3.806|FR|Occitanie|69
+Vic-la-Gardiole|43.491|3.797|FR|Occitanie|69
+Sant Andreu de Sureda|42.552|2.971|FR|Occitanie|69
+Les Vans|44.405|4.132|FR|Auvergne-Rhône-Alpes|69
+Salses-le-Château|42.833|2.917|FR|Occitanie|69
+Saint-Etienne-de-Tulmont|44.050|1.467|FR|Occitanie|69
+Baho|42.701|2.822|FR|Occitanie|69
+Saint-Andiol|43.835|4.945|FR|Provence-Alpes-Côte d'Azur|69
+Eymet|44.667|0.399|FR|New Aquitaine|69
+Fleury|43.231|3.137|FR|Occitanie|69
+Laroque-d'Olmes|42.970|1.871|FR|Occitanie|69
+Chomérac|44.708|4.662|FR|Auvergne-Rhône-Alpes|69
+Villeneuve-de-Berg|44.557|4.502|FR|Auvergne-Rhône-Alpes|69
+Villelongue-de-la-Salanque|42.727|2.982|FR|Occitanie|69
+Bessières|43.799|1.606|FR|Occitanie|69
+Saint-Julien-les-Rosiers|44.174|4.108|FR|Occitanie|69
+Firmi|44.541|2.308|FR|Occitanie|69
+Lavernose-Lacasse|43.397|1.262|FR|Occitanie|69
+Lamastre|44.987|4.580|FR|Auvergne-Rhône-Alpes|69
+Puisserguier|43.368|3.041|FR|Occitanie|69
+Caderousse|44.103|4.757|FR|Provence-Alpes-Côte d'Azur|69
+Falset|41.146|0.820|ES|Catalonia|69
+Ibos|43.233|0.001|FR|Occitanie|68
+Saint-Génis-des-Fontaines|42.543|2.921|FR|Occitanie|68
+Montesquieu-Volvestre|43.208|1.230|FR|Occitanie|68
+Venerque|43.434|1.443|FR|Occitanie|68
+Lansargues|43.652|4.072|FR|Occitanie|68
+Montarnaud|43.649|3.698|FR|Occitanie|68
+Montberon|43.716|1.480|FR|Occitanie|68
+Sant Joan les Fonts|42.212|2.513|ES|Catalonia|68
+Saint-Nazaire|42.667|2.991|FR|Occitanie|68
+Cabanes|40.156|0.043|ES|Valencia|68
+Pinsaguel|43.510|1.388|FR|Occitanie|68
+Port-Sainte-Foy-et-Ponchapt|44.844|0.210|FR|New Aquitaine|68
+Linyola|41.700|0.917|ES|Catalonia|68
+Portiragnes|43.305|3.335|FR|Occitanie|68
+Sévérac-le-Château|44.322|3.071|FR|Occitanie|68
+Prayssac|44.504|1.188|FR|Occitanie|68
+Saint-Étienne-de-Fontbellon|44.601|4.386|FR|Auvergne-Rhône-Alpes|68
+Alénya|42.640|2.981|FR|Occitanie|68
+Clairac|44.360|0.378|FR|New Aquitaine|68
+Marssac-sur-Tarn|43.918|2.029|FR|Occitanie|68
+Albias|44.090|1.449|FR|Occitanie|68
+Gallargues-le-Montueux|43.717|4.167|FR|Occitanie|68
+Cruas|44.657|4.763|FR|Auvergne-Rhône-Alpes|68
+Aigues-Vives|43.740|4.180|FR|Occitanie|68
+Le Cailar|43.676|4.236|FR|Occitanie|68
+Cintegabelle|43.314|1.531|FR|Occitanie|68
+Creixell|41.166|1.440|ES|Catalonia|68
+La Force|44.869|0.375|FR|New Aquitaine|68
+Mudaison|43.646|4.039|FR|Occitanie|68
+Villeveyrac|43.501|3.606|FR|Occitanie|68
+Maubourguet|43.468|0.035|FR|Occitanie|68
+Maureillas-las-Illas|42.490|2.808|FR|Occitanie|68
+Montbazin|43.517|3.697|FR|Occitanie|68
+Saint-Thibéry|43.396|3.418|FR|Occitanie|68
+Mequinensa / Mequinenza|41.372|0.302|ES|Aragon|68
+Quissac|43.911|4.001|FR|Occitanie|68
+Casseneuil|44.443|0.621|FR|New Aquitaine|68
+Baziège|43.455|1.614|FR|Occitanie|68
+Lamalou-les-Bains|43.598|3.080|FR|Occitanie|68
+Lagardelle-sur-Lèze|43.412|1.388|FR|Occitanie|68
+Saint-Féliu-d'Avall|42.682|2.738|FR|Occitanie|68
+L'Ampolla|40.812|0.710|ES|Catalonia|68
+Thézan-lès-Béziers|43.422|3.169|FR|Occitanie|68
+Camprodon|42.312|2.365|ES|Catalonia|68
+Lespinasse|43.712|1.385|FR|Occitanie|68
+Sorèze|43.453|2.067|FR|Occitanie|68
+Bozouls|44.472|2.725|FR|Occitanie|68
+Baixas|42.750|2.809|FR|Occitanie|68
+Saint-Jean-du-Falga|43.086|1.628|FR|Occitanie|68
+Pennautier|43.246|2.319|FR|Occitanie|68
+Montblanc|43.396|3.367|FR|Occitanie|68
+Noé|43.354|1.274|FR|Occitanie|68
+Seilh|43.695|1.355|FR|Occitanie|68
+Saint-Marcel-d'Ardèche|44.327|4.618|FR|Auvergne-Rhône-Alpes|68
+Creysse|44.855|0.566|FR|New Aquitaine|68
+Sérignan-du-Comtat|44.189|4.844|FR|Provence-Alpes-Côte d'Azur|68
+Lavardac|44.180|0.298|FR|New Aquitaine|68
+Charmes-sur-Rhône|44.864|4.835|FR|Auvergne-Rhône-Alpes|68
+Cànoves i Samalús|41.683|2.350|ES|Catalonia|68
+Monflanquin|44.531|0.767|FR|New Aquitaine|68
+El Pla de Santa Maria|41.363|1.292|ES|Catalonia|67
+Saint-Benoît-de-Carmaux|44.052|2.129|FR|Occitanie|67
+Mornas|44.202|4.728|FR|Provence-Alpes-Côte d'Azur|67
+Pals|41.971|3.148|ES|Catalonia|67
+Aniane|43.686|3.586|FR|Occitanie|67
+Ponts|41.916|1.185|ES|Catalonia|67
+Lacasse|43.399|1.270|FR|Occitanie|67
+Pavie|43.610|0.589|FR|Occitanie|67
+Colombiers|43.313|3.140|FR|Occitanie|67
+Saintes-Maries-de-la-Mer|43.452|4.429|FR|Provence-Alpes-Côte d'Azur|67
+Vallon-Pont-d'Arc|44.407|4.394|FR|Auvergne-Rhône-Alpes|67
+Sussargues|43.712|4.003|FR|Occitanie|67
+Palau-del-Vidre|42.572|2.961|FR|Occitanie|67
+Brax|43.618|1.240|FR|Occitanie|67
+Roquecourbe|43.665|2.291|FR|Occitanie|67
+Aiguafreda|41.768|2.251|ES|Catalonia|67
+Lapeyrouse-Fossat|43.700|1.510|FR|Occitanie|67
+Montbeton|44.011|1.285|FR|Occitanie|67
+Arthès|43.956|2.208|FR|Occitanie|67
+Mollégès|43.807|4.949|FR|Provence-Alpes-Côte d'Azur|67
+Aitona|41.483|0.467|ES|Catalonia|67
+Sainte-Cécile-les-Vignes|44.245|4.886|FR|Provence-Alpes-Côte d'Azur|67
+Monsempron|44.491|0.941|FR|New Aquitaine|67
+Sant Pere de Torelló|42.083|2.300|ES|Catalonia|67
+Torrefarrera|41.673|0.607|ES|Catalonia|67
+Maurs|44.711|2.198|FR|Auvergne-Rhône-Alpes|67
+Olivella|41.317|1.817|ES|Catalonia|67
+Bellvís|41.673|0.818|ES|Catalonia|67
+Châteauneuf-du-Rhône|44.489|4.717|FR|Auvergne-Rhône-Alpes|67
+Salies-du-Salat|43.102|0.958|FR|Occitanie|67
+Torreilles|42.755|2.994|FR|Occitanie|67
+Saugues|44.960|3.547|FR|Auvergne-Rhône-Alpes|67
+Allex|44.768|4.898|FR|Auvergne-Rhône-Alpes|67
+Ruoms|44.453|4.342|FR|Auvergne-Rhône-Alpes|67
+Saint-Étienne-du-Grès|43.780|4.725|FR|Provence-Alpes-Côte d'Azur|67
+Lézat-sur-Lèze|43.276|1.347|FR|Occitanie|67
+Benasque|42.605|0.523|ES|Aragon|67
+Conques-sur-Orbiel|43.267|2.417|FR|Occitanie|67
+Cornas|44.964|4.848|FR|Auvergne-Rhône-Alpes|67
+Rieux-Minervois|43.282|2.587|FR|Occitanie|67
+el Pont de Suert|42.408|0.742|ES|Catalonia|67
+Besalú|42.199|2.700|ES|Catalonia|67
+La Tour-du-Crieu|43.104|1.654|FR|Occitanie|67
+Châteauneuf-du-Pape|44.056|4.832|FR|Provence-Alpes-Côte d'Azur|67
+Caux|43.508|3.368|FR|Occitanie|67
+Montgiscard|43.458|1.573|FR|Occitanie|67
+Cournonsec|43.549|3.706|FR|Occitanie|67
+Bagard|44.073|4.051|FR|Occitanie|67
+Maussane-les-Alpilles|43.722|4.805|FR|Provence-Alpes-Côte d'Azur|67
+Gurb|41.954|2.235|ES|Catalonia|67
+Cagnac-les-Mines|43.985|2.141|FR|Occitanie|67
+Caraman|43.530|1.758|FR|Occitanie|67
+Vilablareix|41.957|2.774|ES|Catalonia|67
+Lamonzie|44.847|0.391|FR|New Aquitaine|67
+Boisset|44.048|4.009|FR|Occitanie|67
+Saint-Sylvestre-sur-Lot|44.399|0.805|FR|New Aquitaine|67
+Bagà|42.253|1.861|ES|Catalonia|67
+La Pobla de Claramunt|41.554|1.677|ES|Catalonia|67
+Espéraza|42.935|2.221|FR|Occitanie|67
+Aubais|43.755|4.147|FR|Occitanie|67
+Biars-sur-Cère|44.928|1.847|FR|Occitanie|67
+L'Esquirol|42.033|2.367|ES|Catalonia|67
+Remoulins|43.940|4.566|FR|Occitanie|67
+Sort|42.413|1.130|ES|Catalonia|67
+Vernet|43.433|1.417|FR|Occitanie|67
+Puy-l'Évêque|44.505|1.138|FR|Occitanie|67
+Cendras|44.150|4.067|FR|Occitanie|67
+Boisseron|43.758|4.080|FR|Occitanie|67
+Vinassan|43.204|3.075|FR|Occitanie|67
+Saint-Nicolas-de-la-Grave|44.064|1.023|FR|Occitanie|67
+Le Buisson-de-Cadouin|44.850|0.917|FR|New Aquitaine|67
+Longages|43.355|1.240|FR|Occitanie|67
+Verniolle|43.082|1.648|FR|Occitanie|67
+Naucelle|44.198|2.342|FR|Occitanie|67
+Montredon-Labessonnié|43.720|2.326|FR|Occitanie|67
+Coufouleux|43.817|1.731|FR|Occitanie|67
+Mondonville|43.673|1.286|FR|Occitanie|67
+Meynes|43.883|4.561|FR|Occitanie|67
+Rieux-Volvestre|43.258|1.196|FR|Occitanie|67
+Vailhauquès|43.672|3.718|FR|Occitanie|67
+Estagel|42.773|2.698|FR|Occitanie|67
+La Canourgue|44.433|3.214|FR|Occitanie|67
+Largentière|44.543|4.293|FR|Auvergne-Rhône-Alpes|67
+Althen-des-Paluds|44.004|4.959|FR|Provence-Alpes-Côte d'Azur|67
+Payrin-Augmontel|43.544|2.354|FR|Occitanie|67
+Saint-Martin-de-Londres|43.791|3.731|FR|Occitanie|67
+Bezouce|43.882|4.490|FR|Occitanie|67
+Sant Pere de Riudebitlles|41.450|1.700|ES|Catalonia|66
+Réquista|44.033|2.535|FR|Occitanie|66
+Codognan|43.732|4.220|FR|Occitanie|66
+Soual|43.556|2.117|FR|Occitanie|66
+Villeneuve|44.437|2.031|FR|Occitanie|66
+Avinyó|41.864|1.971|ES|Catalonia|66
+Aubord|43.757|4.313|FR|Occitanie|66
+Batea|41.094|0.311|ES|Catalonia|66
+Laroque-des-Albères|42.521|2.934|FR|Occitanie|66
+Valderrobres|40.872|0.154|ES|Aragon|66
+Saint-Geniez-d'Olt|44.466|2.974|FR|Occitanie|66
+Magalas|43.472|3.222|FR|Occitanie|66
+Samatan|43.493|0.931|FR|Occitanie|66
+Arbeca|41.542|0.925|ES|Catalonia|66
+Saint-Paul-de-Fenouillet|42.811|2.504|FR|Occitanie|66
+Alcoletge|41.648|0.694|ES|Catalonia|66
+Maillane|43.833|4.782|FR|Provence-Alpes-Côte d'Azur|66
+Ouveillan|43.289|2.970|FR|Occitanie|66
+Cers|43.323|3.305|FR|Occitanie|66
+Santa Eugènia de Berga|41.900|2.283|ES|Catalonia|66
+L'Isle-en-Dodon|43.382|0.835|FR|Occitanie|66
+Ribes de Freser|42.304|2.168|ES|Catalonia|66
+Ayguesvives|43.437|1.598|FR|Occitanie|66
+Rieupeyroux|44.308|2.236|FR|Occitanie|66
+Saint-Hippolyte|42.785|2.967|FR|Occitanie|66
+Palaja|43.173|2.388|FR|Occitanie|66
+Astaffort|44.063|0.651|FR|New Aquitaine|66
+Flavin|44.289|2.605|FR|Occitanie|66
+Balaruc-le-Vieux|43.461|3.685|FR|Occitanie|66
+Langlade|43.805|4.250|FR|Occitanie|66
+Sémalens|43.591|2.110|FR|Occitanie|66
+Saint-Chinian|43.422|2.947|FR|Occitanie|66
+Saint-Geniès-de-Malgoirès|43.946|4.216|FR|Occitanie|66
+Ponteilla|42.627|2.814|FR|Occitanie|66
+Maella|41.123|0.139|ES|Aragon|66
+Saint-Geniès-Bellevue|43.683|1.486|FR|Occitanie|66
+Rochemaure|44.587|4.704|FR|Auvergne-Rhône-Alpes|66
+Septfonds|44.178|1.618|FR|Occitanie|66
+Torres de Segre|41.534|0.514|ES|Catalonia|66
+Saint-Drézéry|43.732|3.978|FR|Occitanie|66
+Latour-Bas-Elne|42.607|3.002|FR|Occitanie|66
+Cessenon-sur-Orb|43.450|3.052|FR|Occitanie|66
+Saint-Antoine-de-Breuilh|44.844|0.154|FR|New Aquitaine|66
+Sant Joan de Mediona|41.479|1.612|ES|Catalonia|66
+St. Jean-Pla-de-Corts|42.511|2.791|FR|Occitanie|66
+Valergues|43.668|4.061|FR|Occitanie|66
+Burlats|43.636|2.318|FR|Occitanie|66
+Tresques|44.107|4.587|FR|Occitanie|66
+Vic-sur-Cère|44.980|2.625|FR|Auvergne-Rhône-Alpes|66
+Salles-la-Source|44.436|2.515|FR|Occitanie|66
+Montréal|43.200|2.141|FR|Occitanie|66
+Port-Sainte-Marie|44.251|0.393|FR|New Aquitaine|66
+Martres-Tolosane|43.199|1.011|FR|Occitanie|66
+Saint-Loup-Cammas|43.698|1.481|FR|Occitanie|66
+Florac|44.326|3.593|FR|Occitanie|66
+Rignac|44.409|2.290|FR|Occitanie|66
+Eygalières|43.761|4.950|FR|Provence-Alpes-Côte d'Azur|66
+Pomérols|43.391|3.499|FR|Occitanie|66
+Saint-Laurent-des-Arbres|44.055|4.700|FR|Occitanie|66
+Le Monastère|44.342|2.580|FR|Occitanie|66
+Mauvezin|43.730|0.878|FR|Occitanie|66
+Llupia|42.621|2.769|FR|Occitanie|66
+Font-Romeu-Odeillo-Via|42.506|2.040|FR|Occitanie|66
+Vallfogona de Balaguer|41.752|0.814|ES|Catalonia|66
+Seròs|41.467|0.417|ES|Catalonia|65
+Castelnau-Montratier|44.269|1.353|FR|Occitanie|65
+Mediona|41.478|1.612|ES|Catalonia|65
+Vernoux-en-Vivarais|44.896|4.645|FR|Auvergne-Rhône-Alpes|65
+Saint-Nazaire-d'Aude|43.245|2.894|FR|Occitanie|65
+les Borges del Camp|41.167|1.017|ES|Catalonia|65
+Sabran|44.151|4.548|FR|Occitanie|65
+Saint-Sulpice-sur-Lèze|43.329|1.322|FR|Occitanie|65
+Sauve|43.942|3.949|FR|Occitanie|65
+Sauveterre|44.023|4.793|FR|Occitanie|65
+Saint-Amans-Soult|43.477|2.487|FR|Occitanie|65
+Le Monastier-sur-Gazeille|44.933|4.000|FR|Auvergne-Rhône-Alpes|65
+Saint-Geniès-de-Comolas|44.065|4.722|FR|Occitanie|65
+Gagnac-sur-Garonne|43.700|1.375|FR|Occitanie|65
+Labastide-Rouairoux|43.476|2.639|FR|Occitanie|65
+Saint-Georges-les-Bains|44.861|4.809|FR|Auvergne-Rhône-Alpes|65
+Jussac|44.988|2.423|FR|Auvergne-Rhône-Alpes|65
+Lévignac|43.666|1.194|FR|Occitanie|65
+Grillon|44.395|4.930|FR|Provence-Alpes-Côte d'Azur|65
+Soyons|44.889|4.850|FR|Auvergne-Rhône-Alpes|65
+Tulette|44.287|4.931|FR|Auvergne-Rhône-Alpes|65
+Vinça|42.645|2.528|FR|Occitanie|65
+Fornells de la Selva|41.932|2.809|ES|Catalonia|65
+Cuevas de Vinromá|40.310|0.121|ES|Valencia|65
+Buzet-sur-Tarn|43.780|1.633|FR|Occitanie|65
+Sauzet|44.604|4.821|FR|Auvergne-Rhône-Alpes|65
+Beauvallon|44.856|4.908|FR|Auvergne-Rhône-Alpes|65
+Naucelles|44.959|2.419|FR|Auvergne-Rhône-Alpes|65
+Lacrouzette|43.663|2.348|FR|Occitanie|65
+Calmont|43.287|1.633|FR|Occitanie|65
+Bellver de Cerdanya|42.367|1.783|ES|Catalonia|65
+La Calmette|43.924|4.263|FR|Occitanie|65
+Canet|43.228|2.847|FR|Occitanie|65
+les Planes d'Hostoles|42.057|2.541|ES|Catalonia|65
+Castelculier|44.176|0.691|FR|New Aquitaine|65
+Calmont|44.249|2.512|FR|Occitanie|65
+Oliana|42.069|1.314|ES|Catalonia|65
+Brens|43.887|1.907|FR|Occitanie|65
+Connaux|44.091|4.594|FR|Occitanie|65
+Druelle|44.360|2.505|FR|Occitanie|65
+Zaidín|41.604|0.264|ES|Aragon|65
+Riudellots de la Selva|41.893|2.805|ES|Catalonia|65
+Briatexte|43.752|1.909|FR|Occitanie|65
+Luzech|44.478|1.287|FR|Occitanie|65
+Castelmoron-sur-Lot|44.397|0.495|FR|New Aquitaine|65
+Auzielle|43.542|1.566|FR|Occitanie|65
+Gourdan-Polignan|43.071|0.575|FR|Occitanie|65
+Orleix|43.279|0.120|FR|Occitanie|65
+Lagarrigue|43.577|2.276|FR|Occitanie|65
+Corneilhan|43.400|3.192|FR|Occitanie|65
+Saint-Paulet-de-Caisson|44.263|4.597|FR|Occitanie|65
+Vendres|43.270|3.224|FR|Occitanie|65
+Viviers-lès-Montagnes|43.555|2.177|FR|Occitanie|65
+Les Mages|44.229|4.166|FR|Occitanie|65
+Visan|44.315|4.950|FR|Provence-Alpes-Côte d'Azur|65
+Alp|42.373|1.887|ES|Catalonia|65
+Cransac-les-Thermes|44.524|2.284|FR|Occitanie|65
+Saulce-sur-Rhône|44.704|4.801|FR|Auvergne-Rhône-Alpes|65
+Flourens|43.593|1.563|FR|Occitanie|65
+Montéléger|44.853|4.936|FR|Auvergne-Rhône-Alpes|65
+Saint-Geniès-des-Mourgues|43.698|4.036|FR|Occitanie|65
+Saint-Lizier|43.002|1.137|FR|Occitanie|65
+Vers-Pont-du-Gard|43.967|4.533|FR|Occitanie|65
+Brax|44.203|0.551|FR|New Aquitaine|65
+Grane|44.733|4.922|FR|Auvergne-Rhône-Alpes|65
+Taulignan|44.444|4.971|FR|Auvergne-Rhône-Alpes|65
+Roujan|43.505|3.311|FR|Occitanie|65
+Lacroix-Falgarde|43.500|1.410|FR|Occitanie|64
+Suze-la-Rousse|44.288|4.842|FR|Auvergne-Rhône-Alpes|64
+Osséja|42.414|1.982|FR|Occitanie|64
+Lavit|43.957|0.920|FR|Occitanie|64
+Tavel|44.012|4.700|FR|Occitanie|64
+Loupian|43.450|3.613|FR|Occitanie|64
+Réalville|44.115|1.480|FR|Occitanie|64
+Càlig|40.463|0.355|ES|Valencia|64
+Saint-Victor-la-Coste|44.062|4.642|FR|Occitanie|64
+Boulogne-sur-Gesse|43.288|0.648|FR|Occitanie|64
+Bassan|43.411|3.253|FR|Occitanie|64
+Violès|44.162|4.955|FR|Provence-Alpes-Côte d'Azur|64
+Tourbes|43.446|3.378|FR|Occitanie|64
+Corneilla-del-Vercol|42.625|2.952|FR|Occitanie|64
+Lautrec|43.706|2.138|FR|Occitanie|64
+Le Fousseret|43.282|1.066|FR|Occitanie|64
+Saint-Cyprien|44.869|1.042|FR|New Aquitaine|64
+Marcillac-Vallon|44.475|2.465|FR|Occitanie|64
+Olonzac|43.284|2.730|FR|Occitanie|64
+Cervera de la Marenda|42.441|3.165|FR|Occitanie|64
+Gontaud-de-Nogaret|44.450|0.300|FR|New Aquitaine|64
+Ascó|41.183|0.567|ES|Catalonia|64
+Saussan|43.572|3.775|FR|Occitanie|64
+Sumène|43.981|3.716|FR|Occitanie|64
+Vézénobres|44.053|4.136|FR|Occitanie|64
+Comps|43.853|4.606|FR|Occitanie|64
+Miremont|43.370|1.417|FR|Occitanie|64
+Gragnague|43.681|1.585|FR|Occitanie|64
+Martel|44.937|1.609|FR|Occitanie|64
+Sainte-Foy-de-Peyrolières|43.493|1.146|FR|Occitanie|64
+Beauchastel|44.826|4.803|FR|Auvergne-Rhône-Alpes|64
+Les Matelles|43.730|3.809|FR|Occitanie|64
+Maureilhan|43.358|3.120|FR|Occitanie|64
+Binaced|41.826|0.201|ES|Aragon|64
+Barbaste|44.169|0.286|FR|New Aquitaine|64
+Lablachère|44.464|4.214|FR|Auvergne-Rhône-Alpes|64
+Le Bousquet-d'Orb|43.693|3.166|FR|Occitanie|64
+Caunes-Minervois|43.328|2.527|FR|Occitanie|64
+Lauzerte|44.256|1.138|FR|Occitanie|64
+Beaumont-sur-Lèze|43.381|1.357|FR|Occitanie|64
+Rouffiac-Tolosan|43.666|1.525|FR|Occitanie|64
+Saze|43.941|4.682|FR|Occitanie|64
+Bérat|43.378|1.176|FR|Occitanie|64
+Montescot|42.608|2.932|FR|Occitanie|64
+Veyras|44.735|4.563|FR|Auvergne-Rhône-Alpes|64
+Boulbon|43.862|4.694|FR|Provence-Alpes-Côte d'Azur|64
+Campan|43.017|0.177|FR|Occitanie|64
+Soses|41.533|0.483|ES|Catalonia|64
+Viviez|44.557|2.216|FR|Occitanie|64
+Coux|44.735|4.621|FR|Auvergne-Rhône-Alpes|64
+Toulaud|44.898|4.816|FR|Auvergne-Rhône-Alpes|64
+Saint-Gervasy|43.878|4.468|FR|Occitanie|64
+Uchaux|44.217|4.800|FR|Provence-Alpes-Côte d'Azur|64
+Beaulieu|43.729|4.022|FR|Occitanie|64
+Montoison|44.796|4.941|FR|Auvergne-Rhône-Alpes|64
+Creissels|44.086|3.062|FR|Occitanie|64
+La Granada|41.378|1.719|ES|Catalonia|64
+Bagnac-sur-Célé|44.667|2.167|FR|Occitanie|64
+Llívia|42.465|1.981|ES|Catalonia|64
+Peyrestortes|42.754|2.851|FR|Occitanie|64
+Plaisance|43.606|0.046|FR|Occitanie|64
+Joyeuse|44.480|4.238|FR|Auvergne-Rhône-Alpes|64
+Gabarret|43.986|0.011|FR|New Aquitaine|64
+Monségur|44.651|0.081|FR|New Aquitaine|64
+Virazeil|44.507|0.220|FR|New Aquitaine|64
+Restinclières|43.723|4.037|FR|Occitanie|64
+Molières-sur-Cèze|44.260|4.159|FR|Occitanie|64
+Trouillas|42.611|2.808|FR|Occitanie|64
+Villeneuve-de-Rivière|43.121|0.666|FR|Occitanie|64
+Caylus|44.236|1.771|FR|Occitanie|64
+Hérépian|43.594|3.114|FR|Occitanie|64
+Cazilhac|43.184|2.362|FR|Occitanie|64
+Laissac|44.381|2.823|FR|Occitanie|64
+Santa Pau|42.144|2.571|ES|Catalonia|64
+Albesa|41.753|0.659|ES|Catalonia|64
+Montaigu-de-Quercy|44.340|1.018|FR|Occitanie|64
+Corneilla-la-Rivière|42.697|2.730|FR|Occitanie|64
+Éller|42.416|1.792|ES|Catalonia|64
+Saint-Alban-sur-Limagnole|44.781|3.388|FR|Occitanie|64
+Montboucher-sur-Jabron|44.550|4.802|FR|Auvergne-Rhône-Alpes|64
+Traiguera|40.525|0.290|ES|Valencia|64
+Les Cases d'Alcanar|40.554|0.530|ES|Catalonia|64
+Saint-Pargoire|43.528|3.520|FR|Occitanie|64
+Castillonnès|44.653|0.592|FR|New Aquitaine|64
+Capendu|43.187|2.556|FR|Occitanie|64
+Lavilledieu|44.575|4.453|FR|Auvergne-Rhône-Alpes|64
+Le Pouget|43.592|3.525|FR|Occitanie|64
+Mézin|44.057|0.259|FR|New Aquitaine|64
+Masseube|43.430|0.579|FR|Occitanie|64
+Allan|44.497|4.791|FR|Auvergne-Rhône-Alpes|64
+Villegailhenc|43.269|2.355|FR|Occitanie|64
+Malataverne|44.485|4.753|FR|Auvergne-Rhône-Alpes|64
+Pont-de-Salars|44.281|2.727|FR|Occitanie|64
+Saint-Sauveur|43.749|1.400|FR|Occitanie|64
+Ax-les-Thermes|42.720|1.839|FR|Occitanie|64
+Saint-Privat|44.629|4.415|FR|Auvergne-Rhône-Alpes|64
+Barjac|44.308|4.348|FR|Occitanie|64
+Gardonne|44.836|0.333|FR|New Aquitaine|64
+Labastidette|43.461|1.246|FR|Occitanie|64
+Aínsa|42.415|0.140|ES|Aragon|64
+Labastide-Saint-Sernin|43.737|1.470|FR|Occitanie|64
+Castelnau-de-Lévis|43.940|2.085|FR|Occitanie|63
+Saint-Félix-Lauragais|43.449|1.888|FR|Occitanie|63
+Belvès|44.776|1.007|FR|New Aquitaine|63
+Alforja|41.211|0.975|ES|Catalonia|63
+Vernet-les-Bains|42.549|2.387|FR|Occitanie|63
+Mons|44.116|4.172|FR|Occitanie|63
+Quarante|43.347|2.963|FR|Occitanie|63
+Le Fleix|44.875|0.251|FR|New Aquitaine|63
+Le Fauga|43.397|1.294|FR|Occitanie|63
+Assas|43.703|3.900|FR|Occitanie|63
+Cépet|43.750|1.431|FR|Occitanie|63
+Cussac-sur-Loire|44.988|3.884|FR|Auvergne-Rhône-Alpes|63
+Térmens|41.717|0.767|ES|Catalonia|63
+Ullastrell|41.526|1.955|ES|Catalonia|63
+Saubens|43.478|1.354|FR|Occitanie|63
+el Torricó / Altorricon|41.803|0.414|ES|Aragon|63
+Montpezat-de-Quercy|44.239|1.477|FR|Occitanie|63
+Péchabou|43.501|1.508|FR|Occitanie|63
+Golmés|41.634|0.931|ES|Catalonia|63
+Carsac-Aillac|44.840|1.275|FR|New Aquitaine|63
+Lombez|43.475|0.910|FR|Occitanie|63
+Meilhan-sur-Garonne|44.521|0.033|FR|New Aquitaine|63
+Sant Esteve d'en Bas|42.118|2.457|ES|Catalonia|63
+Laloubère|43.204|0.073|FR|Occitanie|63
+Combaillaux|43.677|3.766|FR|Occitanie|63
+Grignan|44.420|4.908|FR|Auvergne-Rhône-Alpes|63
+Aureille|43.708|4.947|FR|Provence-Alpes-Côte d'Azur|63
+Bordils|42.043|2.911|ES|Catalonia|63
+Monestiés|44.071|2.097|FR|Occitanie|63
+Sainte-Radegonde|44.338|2.627|FR|Occitanie|63
+Brassac|43.630|2.498|FR|Occitanie|63
+Corbins|41.683|0.700|ES|Catalonia|63
+Le Mas-d'Agenais|44.411|0.217|FR|New Aquitaine|63
+Vestric-et-Candiac|43.741|4.259|FR|Occitanie|63
+Arinsal|42.572|1.485|AD|La Massana|63
+Vila|42.532|1.567|AD|Encamp|63
+Entraygues-sur-Truyère|44.646|2.567|FR|Occitanie|63
+Vallmoll|41.243|1.249|ES|Catalonia|63
+Nages-et-Solorgues|43.791|4.230|FR|Occitanie|63
+Montgaillard|42.935|1.634|FR|Occitanie|63
+Sainte-Colombe-en-Bruilhois|44.178|0.515|FR|New Aquitaine|63
+la Pobla de Mafumet|41.183|1.217|ES|Catalonia|63
+Laroque-Timbaut|44.284|0.762|FR|New Aquitaine|63
+Daux|43.695|1.269|FR|Occitanie|63
+Montbazens|44.478|2.230|FR|Occitanie|63
+Montcuq|44.339|1.209|FR|Occitanie|63
+Olesa de Bonesvalls|41.354|1.849|ES|Catalonia|63
+Cours-de-Pile|44.841|0.545|FR|New Aquitaine|63
+Labégude|44.645|4.369|FR|Auvergne-Rhône-Alpes|63
+Branoux-les-Taillades|44.221|3.990|FR|Occitanie|63
+Rabastens-de-Bigorre|43.388|0.151|FR|Occitanie|63
+Damazan|44.291|0.275|FR|New Aquitaine|63
+Nailloux|43.356|1.623|FR|Occitanie|63
+Théza|42.639|2.951|FR|Occitanie|63
+Belver de Cinca|41.693|0.178|ES|Aragon|63
+Saint-Martin-de-Valamas|44.937|4.369|FR|Auvergne-Rhône-Alpes|63
+Estillac|44.157|0.564|FR|New Aquitaine|63
+Lanta|43.561|1.655|FR|Occitanie|63
+Pezens|43.254|2.269|FR|Occitanie|63
+Saint-Hilaire|44.533|0.717|FR|New Aquitaine|63
+Saint-Laurent-du-Pape|44.823|4.767|FR|Auvergne-Rhône-Alpes|63
+Saint-Christol|43.728|4.080|FR|Occitanie|63
+Saint-Marcel-sur-Aude|43.250|2.933|FR|Occitanie|63
+Valady|44.456|2.427|FR|Occitanie|63
+Lacapelle-Marival|44.729|1.925|FR|Occitanie|63
+Miélan|43.429|0.308|FR|Occitanie|63
+Montaigut-sur-Save|43.689|1.231|FR|Occitanie|63
+Ribaute-les-Tavernes|44.037|4.080|FR|Occitanie|63
+Pompertuzat|43.491|1.517|FR|Occitanie|63
+Saint-Georges-de-Luzençon|44.065|2.985|FR|Occitanie|63
+Cancon|44.536|0.625|FR|New Aquitaine|63
+Montaren-et-Saint-Médiers|44.029|4.380|FR|Occitanie|63
+Saint-Mamet-la-Salvetat|44.858|2.307|FR|Auvergne-Rhône-Alpes|63
+Bouzigues|43.448|3.658|FR|Occitanie|63
+Murviel-lès-Montpellier|43.605|3.737|FR|Occitanie|63
+Saint-Geniès-de-Fontedit|43.469|3.179|FR|Occitanie|63
+Lachapelle-sous-Aubenas|44.564|4.364|FR|Auvergne-Rhône-Alpes|63
+Vesseaux|44.652|4.440|FR|Auvergne-Rhône-Alpes|63
+Corbarieu|43.944|1.368|FR|Occitanie|63
+Bretenoux|44.915|1.838|FR|Occitanie|63
+Monclar-de-Quercy|43.966|1.585|FR|Occitanie|63
+Le Sequestre|43.911|2.118|FR|Occitanie|63
+Saint-Restitut|44.324|4.793|FR|Auvergne-Rhône-Alpes|62
+Saint-Sauveur-de-Montagut|44.821|4.580|FR|Auvergne-Rhône-Alpes|62
+Bazet|43.291|0.071|FR|Occitanie|62
+Sernhac|43.911|4.552|FR|Occitanie|62
+Beaulieu-sur-Dordogne|44.978|1.838|FR|New Aquitaine|62
+Jonquerettes|43.947|4.933|FR|Provence-Alpes-Côte d'Azur|62
+Claret|43.862|3.905|FR|Occitanie|62
+Rochegude|44.244|4.827|FR|Auvergne-Rhône-Alpes|62
+Argeliers|43.312|2.910|FR|Occitanie|62
+Castellví de Rosanes|41.450|1.900|ES|Catalonia|62
+Cazes-Mondenard|44.227|1.202|FR|Occitanie|62
+Laguiole|44.684|2.847|FR|Occitanie|62
+La Bégude-de-Mazenc|44.543|4.934|FR|Auvergne-Rhône-Alpes|62
+Lagrave|43.898|1.993|FR|Occitanie|62
+Saint-Nauphary|43.965|1.428|FR|Occitanie|62
+Anglesola|41.656|1.083|ES|Catalonia|62
+Labastide-Saint-Georges|43.700|1.846|FR|Occitanie|62
+Aspiran|43.566|3.450|FR|Occitanie|62
+Armissan|43.188|3.097|FR|Occitanie|62
+Lembras|44.885|0.524|FR|New Aquitaine|62
+Alzonne|43.254|2.176|FR|Occitanie|62
+Saint-Vite|44.473|0.940|FR|New Aquitaine|62
+Buzet-sur-Baïse|44.258|0.299|FR|New Aquitaine|62
+Miralcamp|41.605|0.880|ES|Catalonia|62
+Vallabrègues|43.853|4.627|FR|Occitanie|62
+Villevieille|43.788|4.098|FR|Occitanie|62
+Montréal|43.950|0.202|FR|Occitanie|62
+Saint-Paul-de-Jarrat|42.914|1.660|FR|Occitanie|62
+Lamothe-Montravel|44.852|0.025|FR|New Aquitaine|62
+Montfaucon|44.074|4.754|FR|Occitanie|62
+Saint-Jean-de-Fos|43.701|3.551|FR|Occitanie|62
+Valence-d'Albigeois|44.020|2.404|FR|Occitanie|62
+Alignan-du-Vent|43.470|3.341|FR|Occitanie|62
+Dourgne|43.485|2.138|FR|Occitanie|62
+Villeréal|44.637|0.743|FR|New Aquitaine|62
+Andrest|43.317|0.061|FR|Occitanie|62
+Saint-Bauzille-de-Putois|43.896|3.736|FR|Occitanie|62
+Saint-Chaptes|43.972|4.278|FR|Occitanie|62
+Couiza|42.943|2.256|FR|Occitanie|62
+Montcaret|44.859|0.064|FR|New Aquitaine|62
+Vianne|44.197|0.321|FR|New Aquitaine|62
+Sant Llorenç de Cerdans|42.385|2.613|FR|Occitanie|62
+Le Vigan-en-Quercy|44.741|1.439|FR|Occitanie|62
+Valros|43.420|3.366|FR|Occitanie|62
+Candillargues|43.620|4.068|FR|Occitanie|62
+Belberaud|43.508|1.569|FR|Occitanie|62
+Reynès|42.477|2.707|FR|Occitanie|62
+La Salvetat-sur-Agout|43.600|2.703|FR|Occitanie|62
+Saint-Pardoux-Isaac|44.612|0.373|FR|New Aquitaine|62
+Laplume|44.113|0.530|FR|New Aquitaine|62
+Vayrac|44.953|1.703|FR|Occitanie|62
+Cadalen|43.850|1.981|FR|Occitanie|62
+Laroque|43.922|3.724|FR|Occitanie|62
+Vilallonga dels Monts|42.526|2.904|FR|Occitanie|62
+Lamagistère|44.125|0.824|FR|Occitanie|62
+Roquefort|44.174|0.559|FR|New Aquitaine|62
+Marciac|43.524|0.161|FR|Occitanie|62
+Cazilhac|43.924|3.701|FR|Occitanie|62
+Moussan|43.232|2.949|FR|Occitanie|62
+Alcolea de Cinca|41.719|0.117|ES|Aragon|62
+Fourques-sur-Garonne|44.449|0.158|FR|New Aquitaine|62
+Chalabre|42.984|2.006|FR|Occitanie|62
+Oursbelille|43.287|0.037|FR|Occitanie|62
+Villaudric|43.830|1.432|FR|Occitanie|62
+Labarthe-Rivière|43.080|0.672|FR|Occitanie|62
+Ria-Sirach|42.617|2.400|FR|Occitanie|62
+Torà de Riubregós|41.817|1.400|ES|Catalonia|62
+Fonollosa|41.763|1.669|ES|Catalonia|62
+Upie|44.803|4.977|FR|Auvergne-Rhône-Alpes|62
+La Fuliola|41.714|1.017|ES|Catalonia|62
+Saint-Just-d'Ardèche|44.304|4.611|FR|Auvergne-Rhône-Alpes|62
+Bélesta|42.904|1.934|FR|Occitanie|62
+Belpech|43.198|1.752|FR|Occitanie|62
+S'Agaró|41.794|3.054|ES|Catalonia|62
+La Loubière|44.371|2.667|FR|Occitanie|62
+Albocàsser|40.350|0.033|ES|Valencia|62
+Cruïlles|41.950|3.017|ES|Catalonia|62
+Montans|43.867|1.886|FR|Occitanie|62
+Paradou|43.717|4.786|FR|Provence-Alpes-Côte d'Azur|62
+Beaupuy|43.647|1.555|FR|Occitanie|62
+Cunac|43.928|2.221|FR|Occitanie|62
+Lédenon|43.916|4.510|FR|Occitanie|62
+Saint-Florent-sur-Auzonnet|44.242|4.112|FR|Occitanie|62
+Mons|43.612|1.572|FR|Occitanie|62
+Saint-Sernin|44.571|4.392|FR|Auvergne-Rhône-Alpes|62
+Beaumont-du-Périgord|44.770|0.767|FR|New Aquitaine|62
+Montpeyroux|43.696|3.505|FR|Occitanie|62
+Saint-Nazaire|44.198|4.624|FR|Occitanie|62
+Cajarc|44.485|1.843|FR|Occitanie|62
+Bellcaire d'Urgell|41.750|0.917|ES|Catalonia|62
+Pujaudran|43.591|1.149|FR|Occitanie|62
+Cabrières|43.904|4.472|FR|Occitanie|62
+Villepinte|43.282|2.087|FR|Occitanie|62
+Chanac|44.466|3.343|FR|Occitanie|62
+Sant Julià de Cerdanyola|42.224|1.893|ES|Catalonia|62
+Aurignac|43.217|0.882|FR|Occitanie|62
+Fabrezan|43.136|2.697|FR|Occitanie|62
+la Guingueta d'Ix|42.434|1.944|FR|Occitanie|62
+Saint-Julien-de-Peyrolas|44.288|4.565|FR|Occitanie|62
+Abeilhan|43.450|3.295|FR|Occitanie|62
+Avignonet-Lauragais|43.367|1.786|FR|Occitanie|62
+Valence-sur-Baïse|43.882|0.381|FR|Occitanie|62
+Duras|44.676|0.182|FR|New Aquitaine|62
+Alba-la-Romaine|44.555|4.598|FR|Auvergne-Rhône-Alpes|62
+La Tour-sur-Orb|43.653|3.149|FR|Occitanie|62
+Ortaffa|42.580|2.925|FR|Occitanie|62
+Tournay|43.185|0.245|FR|Occitanie|62
+Prats de Molló|42.404|2.479|FR|Occitanie|62
+Saint-Mamert-du-Gard|43.888|4.189|FR|Occitanie|62
+Fabara|41.178|0.169|ES|Aragon|61
+Le Garric|44.010|2.162|FR|Occitanie|61
+Olost|41.985|2.095|ES|Catalonia|61
+Saint-Marcel-lès-Sauzet|44.598|4.805|FR|Auvergne-Rhône-Alpes|61
+Albalate de Cinca|41.725|0.152|ES|Aragon|61
+Monteils|44.169|1.576|FR|Occitanie|61
+Polminhac|44.952|2.578|FR|Auvergne-Rhône-Alpes|61
+Livinhac-le-Haut|44.592|2.231|FR|Occitanie|61
+Savasse|44.604|4.777|FR|Auvergne-Rhône-Alpes|61
+Saint-Priest|44.716|4.546|FR|Auvergne-Rhône-Alpes|61
+La Secuita|41.205|1.280|ES|Catalonia|61
+La Barthe-de-Neste|43.080|0.384|FR|Occitanie|61
+Laure-Minervois|43.271|2.520|FR|Occitanie|61
+Les Bons|42.539|1.586|AD|Encamp|61
+Gerde|43.055|0.167|FR|Occitanie|61
+La Garde-Adhémar|44.397|4.758|FR|Auvergne-Rhône-Alpes|61
+Congénies|43.778|4.160|FR|Occitanie|61
+Vélines|44.859|0.107|FR|New Aquitaine|61
+Verges|42.063|3.046|ES|Catalonia|61
+Eyvigues-et-Eybènes|44.933|1.350|FR|New Aquitaine|61
+Launac|43.744|1.182|FR|Occitanie|61
+Vacquiers|43.777|1.481|FR|Occitanie|61
+Nébian|43.606|3.431|FR|Occitanie|61
+Névian|43.212|2.902|FR|Occitanie|61
+Villeneuve-d'Olmes|42.908|1.821|FR|Occitanie|61
+Bizanet|43.165|2.870|FR|Occitanie|61
+Salles-Curan|44.183|2.787|FR|Occitanie|61
+Lalevade-d'Ardèche|44.648|4.323|FR|Auvergne-Rhône-Alpes|61
+Aspet|43.015|0.801|FR|Occitanie|61
+Villeneuve-la-Rivière|42.694|2.801|FR|Occitanie|61
+Lavalette|43.184|2.268|FR|Occitanie|61
+Meysse|44.610|4.723|FR|Auvergne-Rhône-Alpes|61
+Salviac|44.681|1.265|FR|Occitanie|61
+Mus|43.740|4.201|FR|Occitanie|61
+Flaviac|44.748|4.674|FR|Auvergne-Rhône-Alpes|61
+Marcorignan|43.226|2.922|FR|Occitanie|61
+Moyrazès|44.343|2.439|FR|Occitanie|61
+Ornaisons|43.181|2.837|FR|Occitanie|61
+Montjoire|43.769|1.534|FR|Occitanie|61
+Vénéjan|44.197|4.657|FR|Occitanie|61
+Fréjairolles|43.881|2.232|FR|Occitanie|61
+Orsan|44.132|4.666|FR|Occitanie|61
+Lalbenque|44.338|1.545|FR|Occitanie|61
+Salignac-Eyvigues|44.975|1.324|FR|New Aquitaine|61
+Désaignes|44.995|4.517|FR|Auvergne-Rhône-Alpes|61
+Bout-du-Pont-de-Larn|43.501|2.404|FR|Occitanie|61
+Lézignan-la-Cèbe|43.494|3.437|FR|Occitanie|61
+Vacqueyras|44.138|4.983|FR|Provence-Alpes-Côte d'Azur|61
+Calaceite|41.016|0.189|ES|Aragon|61
+Cénac|44.800|1.204|FR|New Aquitaine|61
+Ginestas|43.268|2.872|FR|Occitanie|61
+Capvern|43.102|0.317|FR|Occitanie|61
+Llers|42.296|2.912|ES|Catalonia|61
+Jaujac|44.637|4.256|FR|Auvergne-Rhône-Alpes|61
+Pouzac|43.086|0.134|FR|Occitanie|61
+Saint-Paul-des-Landes|44.944|2.314|FR|Auvergne-Rhône-Alpes|61
+Gaillac-Toulza|43.255|1.471|FR|Occitanie|61
+Mouleydier|44.855|0.595|FR|New Aquitaine|61
+Villeneuve-la-Comptal|43.287|1.921|FR|Occitanie|61
+Vilanova de Bellpuig|41.614|0.964|ES|Catalonia|61
+Portel-des-Corbières|43.050|2.917|FR|Occitanie|61
+Avèze|43.972|3.600|FR|Occitanie|61
+Lasalle|44.046|3.852|FR|Occitanie|61
+Castellserà|41.750|1.000|ES|Catalonia|61
+Sansac-de-Marmiesse|44.884|2.348|FR|Auvergne-Rhône-Alpes|61
+Alàs i Cerc|42.350|1.517|ES|Catalonia|61
+Capdenac|44.581|2.070|FR|Occitanie|61
+Molières|44.193|1.364|FR|Occitanie|61
+Vielmur-sur-Agout|43.617|2.100|FR|Occitanie|61
+Gardouch|43.391|1.684|FR|Occitanie|61
+Benavarri / Benabarre|42.106|0.482|ES|Aragon|61
+Pinet|43.406|3.510|FR|Occitanie|61
+La Salvetat-Peyralès|44.220|2.203|FR|Occitanie|61
+Moussac|43.982|4.229|FR|Occitanie|61
+Solignac-sur-Loire|44.968|3.886|FR|Auvergne-Rhône-Alpes|61
+Aumont-Aubrac|44.722|3.284|FR|Occitanie|61
+Puichéric|43.224|2.624|FR|Occitanie|61
+Creissan|43.375|3.011|FR|Occitanie|61
+Alissas|44.713|4.629|FR|Auvergne-Rhône-Alpes|61
+Banyuls-dels-Aspres|42.566|2.866|FR|Occitanie|61
+La Fouillade|44.231|2.042|FR|Occitanie|61
+Villefranche-d'Albigeois|43.896|2.330|FR|Occitanie|61
+Beaupuy|44.535|0.149|FR|New Aquitaine|61
+Chirac|44.523|3.267|FR|Occitanie|61
+Montesquiu d'Albera|42.518|2.882|FR|Occitanie|61
+Saint-Porquier|44.005|1.177|FR|Occitanie|61
+Riudecols|41.169|0.976|ES|Catalonia|61
+Valleraugue|44.081|3.642|FR|Occitanie|61
+Laroquebrou|44.969|2.192|FR|Auvergne-Rhône-Alpes|61
+Lédignan|43.989|4.107|FR|Occitanie|61
+Giroussens|43.762|1.776|FR|Occitanie|61
+Eurre|44.758|4.988|FR|Auvergne-Rhône-Alpes|61
+Almoster|41.198|1.112|ES|Catalonia|61
+Azille|43.278|2.659|FR|Occitanie|61
+Cahuzac-sur-Vère|43.983|1.910|FR|Occitanie|61
+Meyrueis|44.179|3.429|FR|Occitanie|61
+Villeneuve-lès-Bouloc|43.769|1.426|FR|Occitanie|61
+Auriac-sur-Vendinelle|43.524|1.827|FR|Occitanie|61
+Monbazillac|44.794|0.491|FR|New Aquitaine|61
+Cordes-sur-Ciel|44.067|1.950|FR|Occitanie|61
+Castillon-du-Gard|43.970|4.554|FR|Occitanie|61
+Saint-Julien-en-Saint-Alban|44.754|4.697|FR|Auvergne-Rhône-Alpes|61
+Portbou|42.426|3.158|ES|Catalonia|61
+Pompignan|43.818|1.312|FR|Occitanie|61
+Laval-Pradel|44.207|4.066|FR|Occitanie|61
+Pellegrue|44.743|0.075|FR|New Aquitaine|61
+Arzens|43.199|2.210|FR|Occitanie|61
+Lézan|44.013|4.051|FR|Occitanie|61
+Garidech|43.711|1.560|FR|Occitanie|61
+Pépieux|43.298|2.678|FR|Occitanie|61
+Trie-sur-Baïse|43.321|0.371|FR|Occitanie|61
+Ferrals-les-Corbières|43.148|2.728|FR|Occitanie|61
+Peyriac-Minervois|43.291|2.566|FR|Occitanie|61
+Montrodat|44.551|3.329|FR|Occitanie|61
+Saint-Lary-Soulan|42.817|0.322|FR|Occitanie|61
+Mirandol-Bourgnounac|44.142|2.167|FR|Occitanie|61
+Saint-Alexandre|44.228|4.622|FR|Occitanie|61
+Marsanne|44.642|4.875|FR|Auvergne-Rhône-Alpes|61
+Jegun|43.757|0.459|FR|Occitanie|61
+Saint-Christophe-Vallon|44.471|2.412|FR|Occitanie|61
+Camarès|43.822|2.880|FR|Occitanie|60
+Thueyts|44.676|4.221|FR|Auvergne-Rhône-Alpes|60
+Verdú|41.611|1.143|ES|Catalonia|60
+Vilajuïga|42.325|3.093|ES|Catalonia|60
+Mercus-Garrabet|42.878|1.629|FR|Occitanie|60
+Bize-Minervois|43.318|2.871|FR|Occitanie|60
+Lieuran-lès-Béziers|43.419|3.237|FR|Occitanie|60
+Montségur-sur-Lauzon|44.361|4.855|FR|Auvergne-Rhône-Alpes|60
+Fonz|42.010|0.259|ES|Aragon|60
+Villenouvelle|43.436|1.663|FR|Occitanie|60
+Gondrin|43.885|0.237|FR|Occitanie|60
+Orgueil|43.906|1.411|FR|Occitanie|60
+La Cavalerie|44.010|3.158|FR|Occitanie|60
+Laurens|43.523|3.197|FR|Occitanie|60
+Seissan|43.492|0.592|FR|Occitanie|60
+Aubiet|43.646|0.784|FR|Occitanie|60
+Montricoux|44.076|1.620|FR|Occitanie|60
+Rosières|44.483|4.258|FR|Auvergne-Rhône-Alpes|60
+Santa Maria d'Oló|41.867|2.033|ES|Catalonia|60
+Campsas|43.896|1.327|FR|Occitanie|60
+Nohic|43.890|1.438|FR|Occitanie|60
+Ancône|44.581|4.727|FR|Auvergne-Rhône-Alpes|60
+Laussonne|44.970|4.052|FR|Auvergne-Rhône-Alpes|60
+Aixirivall|42.462|1.502|AD|Sant Julià de Loria|60
+Belmont-sur-Rance|43.818|2.754|FR|Occitanie|60
+Nonaspe|41.209|0.248|ES|Aragon|60
+Horgues|43.188|0.088|FR|Occitanie|60
+Montjoie-en-Couserans|43.002|1.160|FR|Occitanie|60
+Neuvéglise|44.928|2.983|FR|Auvergne-Rhône-Alpes|60
+Saint-Simon|44.963|2.490|FR|Auvergne-Rhône-Alpes|60
+Puissalicon|43.458|3.236|FR|Occitanie|60
+Villetelle|43.732|4.137|FR|Occitanie|60
+Cassagnes-Bégonhès|44.169|2.530|FR|Occitanie|60
+Marquefave|43.317|1.246|FR|Occitanie|60
+Paulhac|43.756|1.557|FR|Occitanie|60
+Peyriac-de-Mer|43.087|2.957|FR|Occitanie|60
+Blauzac|43.963|4.367|FR|Occitanie|60
+Goudargues|44.215|4.466|FR|Occitanie|60
+Vimbodí|41.401|1.051|ES|Catalonia|60
+Saint-Amans-Valtoret|43.482|2.491|FR|Occitanie|60
+Saint-Martin-Lalande|43.300|2.018|FR|Occitanie|60
+Colombiès|44.344|2.337|FR|Occitanie|60
+Le Malzieu-Ville|44.856|3.330|FR|Occitanie|60
+Ballobar|41.621|0.192|ES|Aragon|60
+Figaró|41.721|2.273|ES|Catalonia|60
+Ondes|43.782|1.308|FR|Occitanie|60
+Vieille-Toulouse|43.524|1.442|FR|Occitanie|60
+Auvillar|44.069|0.900|FR|Occitanie|60
+Sainte-Geneviève-sur-Argence|44.803|2.758|FR|Occitanie|60
+Cuxac-Cabardès|43.371|2.283|FR|Occitanie|60
+Labastide-Beauvoir|43.482|1.665|FR|Occitanie|60
+Saint-Paul-Cap-de-Joux|43.647|1.975|FR|Occitanie|60
+Masdenverge|40.716|0.530|ES|Catalonia|60
+Pierrefort|44.922|2.838|FR|Auvergne-Rhône-Alpes|60
+Castelnau-de-Guers|43.435|3.438|FR|Occitanie|60
+Domme|44.802|1.215|FR|New Aquitaine|60
+Leyme|44.785|1.900|FR|Occitanie|60
+Chaudes-Aigues|44.855|3.004|FR|Auvergne-Rhône-Alpes|60
+Toloriu|42.362|1.628|ES|Catalonia|60
+Villemolaque|42.589|2.838|FR|Occitanie|60
+Anyós|42.535|1.525|AD|La Massana|60
+Finhan|43.913|1.221|FR|Occitanie|60
+Viladrau|41.847|2.390|ES|Catalonia|60
+El Tarter|42.580|1.654|AD|Canillo|60
+Le Poujol-sur-Orb|43.580|3.060|FR|Occitanie|60
+Montlaur|43.489|1.568|FR|Occitanie|60
+Preignan|43.713|0.628|FR|Occitanie|60
+Ginestar|41.042|0.633|ES|Catalonia|60
+Ullà|42.050|3.108|ES|Catalonia|59
+Botarell|41.136|0.989|ES|Catalonia|59
+Camarasa|41.875|0.878|ES|Catalonia|59
+Canet lo Roig|40.551|0.243|ES|Valencia|59
+Sant Martí de Centelles|41.766|2.206|ES|Catalonia|59
+Boltaña|42.446|0.068|ES|Aragon|59
+Bàscara|42.160|2.910|ES|Catalonia|59
+Chert/Xert|40.519|0.158|ES|Valencia|59
+Vilamalla|42.217|2.970|ES|Catalonia|59
+Albelda|41.865|0.460|ES|Aragon|59
+Rasquera|41.003|0.600|ES|Catalonia|59
+Tivenys|40.908|0.512|ES|Catalonia|59
+Navata|42.224|2.861|ES|Catalonia|59
+Catí|40.472|0.023|ES|Valencia|59
+Vilabertran|42.283|2.981|ES|Catalonia|59
+Benlloch|40.211|0.027|ES|Valencia|58
+Santa Magdalena de Pulpis|40.356|0.303|ES|Valencia|58
+Estadilla|42.057|0.243|ES|Aragon|58
+Tornabous|41.701|1.054|ES|Catalonia|58
+Benifallet|40.974|0.518|ES|Catalonia|58
+Os de Balaguer|41.873|0.720|ES|Catalonia|58
+Miravet|41.039|0.597|ES|Catalonia|58
+la Granadella|41.350|0.667|ES|Catalonia|58
+Castejón de Sos|42.512|0.492|ES|Aragon|58
+Vilabella|41.248|1.330|ES|Catalonia|58
+Vilademuls|42.139|2.888|ES|Catalonia|58
+Agullana|42.394|2.847|ES|Catalonia|58
+Bot|41.009|0.384|ES|Catalonia|58
+Puigpelat|41.279|1.297|ES|Catalonia|58
+Cervià de Ter|42.066|2.907|ES|Catalonia|58
+Les|42.811|0.711|ES|Catalonia|58
+Esplús|41.799|0.276|ES|Aragon|57
+Garriguella|42.344|3.065|ES|Catalonia|57
+Castellnou de Seana|41.648|0.971|ES|Catalonia|57
+Colera|42.404|3.152|ES|Catalonia|57
+Mas de Barberans|40.733|0.367|ES|Catalonia|57
+Ventalló|42.149|3.026|ES|Catalonia|57
+Jorba|41.602|1.548|ES|Catalonia|56
+Camós|42.088|2.763|ES|Catalonia|56
+Sant Jordi|40.510|0.332|ES|Valencia|56
+Olius|42.010|1.565|ES|Catalonia|56
+Cervera del Maestre|40.454|0.277|ES|Valencia|56
+Ontiñena|41.677|0.089|ES|Aragon|56
+Aiguaviva|41.938|2.762|ES|Catalonia|56
+Coll de Nargó|42.175|1.317|ES|Catalonia|56
+Oristà|41.933|2.067|ES|Catalonia|55
+Borrassà|42.223|2.926|ES|Catalonia|55
+Lladó|42.248|2.814|ES|Catalonia|55
+Mazaleón|41.051|0.103|ES|Aragon|55
+Vinaixa|41.433|0.983|ES|Catalonia|55
+Vilaplana|41.228|1.033|ES|Catalonia|55
+Albons|42.104|3.084|ES|Catalonia|55
+Fortià|42.243|3.039|ES|Catalonia|55
+Castellcir|41.761|2.161|ES|Catalonia|55
+Darnius|42.367|2.833|ES|Catalonia|54
+Àger|42.000|0.767|ES|Catalonia|54
+Rajadell|41.728|1.706|ES|Catalonia|54
+Garcia|41.133|0.650|ES|Catalonia|54
+Algerri|41.815|0.636|ES|Catalonia|54
+Capmany|42.374|2.920|ES|Catalonia|54
+Ulldemolins|41.322|0.876|ES|Catalonia|53
+Bielsa|42.633|0.219|ES|Aragon|53
+Castellolí|41.598|1.701|ES|Catalonia|53
+Bonastre|41.220|1.439|ES|Catalonia|53
+Candasnos|41.502|0.064|ES|Aragon|53
+Torroella de Fluvià|42.175|3.040|ES|Catalonia|53
+Vinebre|41.185|0.589|ES|Catalonia|53
+Castejón del Puente|41.962|0.159|ES|Aragon|53
+Pau|42.316|3.116|ES|Catalonia|53
+Pont de Molins|42.314|2.930|ES|Catalonia|53
+Esponellà|42.167|2.800|ES|Catalonia|53
+Valjunquera|40.953|0.026|ES|Aragon|52
+Fayón|41.239|0.333|ES|Aragon|52
+Alió|41.294|1.306|ES|Catalonia|52
+Cubells|41.851|0.959|ES|Catalonia|52
+Espot|42.578|1.087|ES|Catalonia|52
+Capella|42.196|0.396|ES|Aragon|52
+Espolla|42.391|3.001|ES|Catalonia|52
+Fuentespalda|40.807|0.065|ES|Aragon|52
+Argelaguer|42.216|2.642|ES|Catalonia|51
+Guimerà|41.565|1.185|ES|Catalonia|51
+Jafre|42.073|3.011|ES|Catalonia|51
+Salas Altas|42.114|0.068|ES|Aragon|51
+Campins|41.717|2.467|ES|Catalonia|51
+Valdeltormo|40.987|0.083|ES|Aragon|51
+Vilanova de Sau|41.947|2.384|ES|Catalonia|51
+Salomó|41.230|1.374|ES|Catalonia|51
+Gualta|42.030|3.103|ES|Catalonia|51
+Foixà|42.036|3.000|ES|Catalonia|50
+Ordis|42.218|2.907|ES|Catalonia|50
+Garrigàs|42.193|2.954|ES|Catalonia|50
+Querol|41.423|1.397|ES|Catalonia|50
+Vilanant|42.255|2.889|ES|Catalonia|50
+Pueyo de Santa Cruz|41.858|0.157|ES|Aragon|50
+Sahún|42.576|0.465|ES|Aragon|50
+Regencós|41.953|3.170|ES|Catalonia|50
+Alfés|41.521|0.621|ES|Catalonia|50
+Plan|42.581|0.337|ES|Aragon|50
+Collsuspina|41.826|2.175|ES|Catalonia|50
+Alquézar|42.173|0.026|ES|Aragon|50
+Òrrius|41.550|2.350|ES|Catalonia|50
+Vilamacolum|42.196|3.057|ES|Catalonia|50
+Naval|42.195|0.152|ES|Aragon|49
+Palau-sator|41.989|3.110|ES|Catalonia|49
+Aspa|41.495|0.673|ES|Catalonia|49
+Laspaúles|42.471|0.597|ES|Aragon|49
+Laspuña|42.504|0.154|ES|Aragon|49
+Cantallops|42.422|2.925|ES|Catalonia|49
+Tagamanent|41.737|2.267|ES|Catalonia|48
+Bisaurri|42.497|0.506|ES|Aragon|48
+Ilche|41.957|0.057|ES|Aragon|48
+Ciutadilla|41.561|1.139|ES|Catalonia|48
+Alcanó|41.481|0.617|ES|Catalonia|48
+Pozán de Vero|42.082|0.031|ES|Aragon|48
+Montferri|41.265|1.365|ES|Catalonia|48
+Lles de Cerdanya|42.390|1.687|ES|Catalonia|47
+Aguilar de Segarra|41.748|1.629|ES|Catalonia|47
+Castillazuelo|42.068|0.065|ES|Aragon|47
+Cistella|42.269|2.848|ES|Catalonia|47
+Puértolas|42.547|0.132|ES|Aragon|47
+Arenys de Lledó / Arens de Lledó|40.992|0.271|ES|Aragon|47
+Crespià|42.183|2.800|ES|Catalonia|47
+Camporrells|41.959|0.521|ES|Aragon|47
+Gósol|42.237|1.660|ES|Catalonia|47
+Ossó de Sió|41.755|1.159|ES|Catalonia|47
+Gallifa|41.692|2.113|ES|Catalonia|47
+Rupià|42.017|3.017|ES|Catalonia|46
+Pontós|42.187|2.917|ES|Catalonia|46
+Santa Cecília de Voltregà|42.000|2.233|ES|Catalonia|46
+Mura|41.699|1.976|ES|Catalonia|46
+Orpí|41.519|1.575|ES|Catalonia|46
+Estada|42.072|0.232|ES|Aragon|46
+Pujalt|41.717|1.421|ES|Catalonia|46
+Colldejou|41.100|0.887|ES|Catalonia|46
+Ultramort|42.036|3.035|ES|Catalonia|46
+Abella de la Conca|42.162|1.092|ES|Catalonia|46
+Lledó|40.955|0.277|ES|Aragon|45
+Vilopriu|42.100|3.000|ES|Catalonia|45
+Serra de Daró|42.029|3.072|ES|Catalonia|45
+Llimiana|42.075|0.916|ES|Catalonia|45
+Rabós|42.379|3.028|ES|Catalonia|45
+Torrent|41.952|3.127|ES|Catalonia|45
+Ráfales|40.838|0.019|ES|Aragon|45
+Mollet de Peralada|42.360|3.000|ES|Catalonia|45
+Vilamaniscle|42.375|3.068|ES|Catalonia|45
+Seira|42.477|0.431|ES|Aragon|44
+Vilanova de Prades|41.349|0.957|ES|Catalonia|44
+Torre del Compte|40.936|0.109|ES|Aragon|44
+Vidrà|42.123|2.310|ES|Catalonia|44
+Labuerda|42.452|0.136|ES|Aragon|44
+la Morera de Montsant|41.265|0.842|ES|Catalonia|44
+Salas Bajas|42.100|0.083|ES|Aragon|44
+Gistaín|42.591|0.335|ES|Aragon|44
+Chalamera|41.666|0.163|ES|Aragon|44
+Siurana|42.209|2.994|ES|Catalonia|44
+Riumors|42.227|3.042|ES|Catalonia|44
+Tavertet|41.996|2.419|ES|Catalonia|44
+Lascuarre|42.196|0.520|ES|Aragon|43
+Secastilla|42.181|0.267|ES|Aragon|43
+Sagàs|42.050|1.967|ES|Catalonia|43
+Colungo|42.171|0.068|ES|Aragon|42
+Abizanda|42.242|0.197|ES|Aragon|42
+Sesué|42.551|0.472|ES|Aragon|42
+Margalef|41.285|0.753|ES|Catalonia|42
+Alfántega|41.828|0.148|ES|Aragon|41
+Castigaleu|42.204|0.579|ES|Aragon|41
+Talamanca|41.737|1.978|ES|Catalonia|41
+Susqueda|41.978|2.517|ES|Catalonia|41
+Chía|42.521|0.466|ES|Aragon|41
+Fulleda|41.463|1.024|ES|Catalonia|41
+Vallclara|41.380|0.983|ES|Catalonia|41
+Bonansa|42.427|0.667|ES|Aragon|41
+Farrera|42.497|1.272|ES|Catalonia|40
+Renau|41.224|1.311|ES|Catalonia|40
+Bárcabo|42.242|0.069|ES|Aragon|40
+Sarratella|40.313|0.032|ES|Valencia|39
+Sales de Llierca|42.233|2.650|ES|Catalonia|39
+Bellprat|41.517|1.433|ES|Catalonia|39
+Vallibona|40.603|0.046|ES|Valencia|38
+Granera|41.727|2.059|ES|Catalonia|38
+Beuda|42.237|2.709|ES|Catalonia|38
+Sant Ferriol|42.200|2.667|ES|Catalonia|36
+Tiurana|41.975|1.256|ES|Catalonia|32
+Palo|42.323|0.244|ES|Aragon|29
+Castell de Cabres|40.661|0.042|ES|Valencia|26
+Albinyana|41.250|1.483|ES|Catalonia|0
+Alpens|42.119|2.101|ES|Catalonia|0
+Arbúcies|41.817|2.517|ES|Catalonia|0
+Areny de Noguera / Arén|42.258|0.721|ES|Aragon|0
+Argensola|41.598|1.445|ES|Catalonia|0
+Avià|42.067|1.850|ES|Catalonia|0
+Avinyonet de Puigventós|42.250|2.915|ES|Catalonia|0
+Avinyonet del Penedès|41.350|1.783|ES|Catalonia|0
+Baells|41.953|0.460|ES|Aragon|0
+Beranuy|42.367|0.594|ES|Aragon|0
+Biure|42.337|2.895|ES|Catalonia|0
+Blancafort|41.437|1.160|ES|Catalonia|0
+Bolvir|42.418|1.880|ES|Catalonia|0
+Borredà|42.136|1.994|ES|Catalonia|0
+Bovera|41.317|0.650|ES|Catalonia|0
+Brunyola|41.900|2.683|ES|Catalonia|0
+Cabanelles|42.231|2.820|ES|Catalonia|0
+Cabanes|42.308|2.978|ES|Catalonia|0
+Cabra del Camp|41.400|1.283|ES|Catalonia|0
+Caldes d'Estrac|41.567|2.533|ES|Catalonia|0
+Caldes de Malavella|41.833|2.817|ES|Catalonia|0
+Callús|41.781|1.784|ES|Catalonia|0
+Camarles|40.782|0.655|ES|Catalonia|0
+Campo|42.410|0.396|ES|Aragon|0
+Capafonts|41.300|1.033|ES|Catalonia|0
+Capolat|42.077|1.754|ES|Catalonia|0
+Caseres|41.033|0.250|ES|Catalonia|0
+Castellar del Riu|42.123|1.774|ES|Catalonia|0
+Castellfollit de Riubregós|41.767|1.433|ES|Catalonia|0
+Castellfollit del Boix|41.667|1.700|ES|Catalonia|0
+Castellnou de Bages|41.834|1.837|ES|Catalonia|0
+Castelló de Farfanya|41.817|0.733|ES|Catalonia|0
+Castellterçol|41.750|2.117|ES|Catalonia|0
+Colomers|42.083|2.983|ES|Catalonia|0
+Conesa|41.517|1.300|ES|Catalonia|0
+Corçà|41.983|3.017|ES|Catalonia|0
+Cornellà del Terri|42.083|2.817|ES|Catalonia|0
+Das|42.361|1.871|ES|Catalonia|0
+Duesaigües|41.150|0.933|ES|Catalonia|0
+el Catllar|41.167|1.317|ES|Catalonia|0
+el Cogul|41.467|0.683|ES|Catalonia|0
+el Masroig|41.133|0.733|ES|Catalonia|0
+el Pla del Penedès|41.417|1.717|ES|Catalonia|0
+el Poal|41.683|0.867|ES|Catalonia|0
+el Pont de Bar|42.371|1.605|ES|Catalonia|0
+Flaçà|42.067|2.967|ES|Catalonia|0
+Fogars de Montclús|41.733|2.450|ES|Catalonia|0
+Font-Rubí|41.434|1.591|ES|Catalonia|0
+Fontanilles|42.011|3.108|ES|Catalonia|0
+Fontcoberta|42.133|2.800|ES|Catalonia|0
+Fontscaldes|41.332|1.232|ES|Catalonia|0
+Forès|41.483|1.233|ES|Catalonia|0
+Garrigoles|42.100|3.033|ES|Catalonia|0
+Ger|42.411|1.845|ES|Catalonia|0
+Guardiola de Berguedà|42.235|1.877|ES|Catalonia|0
+Guils de Cerdanya|42.447|1.880|ES|Catalonia|0
+Horta de Sant Joan|40.950|0.317|ES|Catalonia|0
+Isòvol|42.378|1.818|ES|Catalonia|0
+Ivars d'Urgell|41.680|0.987|ES|Catalonia|0
+Ivorra|41.767|1.400|ES|Catalonia|0
+Juià|42.017|2.917|ES|Catalonia|0
+Juncosa|41.370|0.776|ES|Catalonia|0
+l'Ametlla de Mar|40.900|0.800|ES|Catalonia|0
+la Bisbal del Penedès|41.283|1.483|ES|Catalonia|0
+la Cellera de Ter|41.969|2.624|ES|Catalonia|0
+la Fatarella|41.167|0.483|ES|Catalonia|0
+la Granja d'Escarp|41.417|0.367|ES|Catalonia|0
+la Jonquera|42.417|2.874|ES|Catalonia|0
+la Pobla de Massaluca|41.183|0.350|ES|Catalonia|0
+la Tallada d'Empordà|42.080|3.056|ES|Catalonia|0
+Le Vigan|43.991|3.606|FR|Occitanie|0
+Les Franqueses del Vallès|41.619|2.298|ES|Catalonia|0
+les Llosses|42.150|2.117|ES|Catalonia|0
+Llambilles|41.921|2.851|ES|Catalonia|0
+Lliçà de Vall|41.591|2.241|ES|Catalonia|0
+Llinars del Vallès|41.633|2.400|ES|Catalonia|0
+Maçanet de Cabrenys|42.386|2.748|ES|Catalonia|0
+Maçanet de la Selva|41.783|2.733|ES|Catalonia|0
+Madremanya|41.983|2.967|ES|Catalonia|0
+Maials|41.367|0.500|ES|Catalonia|0
+Masarac|42.351|2.973|ES|Catalonia|0
+Massanes|41.765|2.653|ES|Catalonia|0
+Meranges|42.445|1.788|ES|Catalonia|0
+Mieres|42.122|2.639|ES|Catalonia|0
+Mont-ral|41.283|1.100|ES|Catalonia|0
+Montesquiu|42.117|2.217|ES|Catalonia|0
+Muntanyola|41.883|2.183|ES|Catalonia|0
+Nalec|41.550|1.117|ES|Catalonia|0
+Olvan|42.067|1.900|ES|Catalonia|0
+Orís|42.060|2.221|ES|Catalonia|0
+Palafolls|41.667|2.750|ES|Catalonia|0
+Palol de Revardit|42.067|2.800|ES|Catalonia|0
+Parlavà|42.022|3.032|ES|Catalonia|0
+Penelles|41.750|0.967|ES|Catalonia|0
+Peralada|42.308|3.009|ES|Catalonia|0
+Planoles|42.317|2.100|ES|Catalonia|0
+Pontils|41.477|1.388|ES|Catalonia|0
+Porqueres|42.117|2.741|ES|Catalonia|0
+Prades|41.310|0.989|ES|Catalonia|0
+Prats de Lluçanès|42.017|2.033|ES|Catalonia|0
+Puig-reig|41.967|1.883|ES|Catalonia|0
+Riells i Viabrea|41.783|2.517|ES|Catalonia|0
+Riu de Cerdanya|42.345|1.826|ES|Catalonia|0
+Riudarenes|41.817|2.717|ES|Catalonia|0
+Riudecanyes|41.133|0.967|ES|Catalonia|0
+Saldes|42.233|1.733|ES|Catalonia|0
+Sant Andreu Salou|41.867|2.833|ES|Catalonia|0
+Sant Aniol de Finestres|42.090|2.587|ES|Catalonia|0
+Sant Boi de Lluçanès|42.050|2.150|ES|Catalonia|0
+Sant Feliu de Codines|41.700|2.167|ES|Catalonia|0
+Sant Feliu de Pallerols|42.077|2.509|ES|Catalonia|0
+Sant Feliu Sasserra|41.950|2.033|ES|Catalonia|0
+Sant Fruitós de Bages|41.750|1.867|ES|Catalonia|0
+Sant Gregori|41.983|2.733|ES|Catalonia|0
+Sant Guim de Freixenet|41.656|1.420|ES|Catalonia|0
+Sant Hilari Sacalm|41.883|2.517|ES|Catalonia|0
+Sant Iscle de Vallalta|41.617|2.567|ES|Catalonia|0
+Sant Jaume dels Domenys|41.300|1.567|ES|Catalonia|0
+Sant Joan de Mollet|42.050|2.950|ES|Catalonia|0
+Sant Jordi Desvalls|42.067|2.950|ES|Catalonia|0
+Sant Julià de Ramis|42.029|2.853|ES|Catalonia|0
+Sant Julià de Vilatorta|41.922|2.324|ES|Catalonia|0
+Sant Llorenç d'Hortons|41.467|1.833|ES|Catalonia|0
+Sant Llorenç de la Muga|42.320|2.789|ES|Catalonia|0
+Sant Martí de Tous|41.550|1.517|ES|Catalonia|0
+Sant Martí Vell|42.017|2.933|ES|Catalonia|0
+Sant Miquel de Campmajor|42.133|2.683|ES|Catalonia|0
+Sant Miquel de Fluvià|42.172|2.993|ES|Catalonia|0
+Sant Mori|42.156|2.989|ES|Catalonia|0
+Sant Pere de Vilamajor|41.683|2.383|ES|Catalonia|0
+Sant Pere Pescador|42.188|3.082|ES|Catalonia|0
+Sant Quirze Safaja|41.733|2.150|ES|Catalonia|0
+Santa Coloma de Queralt|41.533|1.383|ES|Catalonia|0
+Santpedor|41.783|1.847|ES|Catalonia|0
+Senan|41.470|1.085|ES|Catalonia|0
+Senterada|42.325|0.936|ES|Catalonia|0
+Sidamon|41.633|0.833|ES|Catalonia|0
+Sopeira|42.316|0.746|ES|Aragon|0
+Sora|42.112|2.161|ES|Catalonia|0
+Sunyer|41.523|0.592|ES|Catalonia|0
+Terrades|42.310|2.839|ES|Catalonia|0
+Tivissa|41.033|0.733|ES|Catalonia|0
+Torrebesses|41.433|0.600|ES|Catalonia|0
+Toses|42.322|2.016|ES|Catalonia|0
+Ullastret|42.000|3.067|ES|Catalonia|0
+Urús|42.351|1.853|ES|Catalonia|0
+Vallbona de les Monges|41.526|1.089|ES|Catalonia|0
+Vallcebre|42.203|1.818|ES|Catalonia|0
+Vallfogona de Riucorb|41.563|1.237|ES|Catalonia|0
+Vallromanes|41.533|2.300|ES|Catalonia|0
+Vidreres|41.783|2.783|ES|Catalonia|0
+Vila-sacra|42.266|3.018|ES|Catalonia|0
+Vilada|42.137|1.932|ES|Catalonia|0
+Viladasens|42.083|2.933|ES|Catalonia|0
+Viladecavalls|41.550|1.950|ES|Catalonia|0
+Vilalba dels Arcs|41.117|0.417|ES|Catalonia|0
+Vilanova d'Escornalbou|41.117|0.933|ES|Catalonia|0
+Villanova|42.547|0.462|ES|Aragon|0
+Vilobí d'Onyar|41.883|2.750|ES|Catalonia|0
+Vilobí del Penedès|41.383|1.650|ES|Catalonia|0

@@ -1,0 +1,576 @@
+Memphis|35.150|-90.049|US|Tennessee|116
+Kansas City|39.100|-94.579|US|Missouri|114
+St. Louis|38.627|-90.198|US|Missouri|109
+Overland Park|38.982|-94.671|US|Kansas|105
+Springfield|37.215|-93.298|US|Missouri|105
+Kansas City|39.114|-94.627|US|Kansas|104
+Olathe|38.881|-94.819|US|Kansas|103
+Columbia|38.952|-92.334|US|Missouri|102
+Independence|39.091|-94.416|US|Missouri|101
+Lee's Summit|38.911|-94.382|US|Missouri|100
+Fort Smith|35.386|-94.399|US|Arkansas|99
+O'Fallon|38.811|-90.700|US|Missouri|99
+Fayetteville|36.063|-94.157|US|Arkansas|98
+Springdale|36.187|-94.129|US|Arkansas|98
+Saint Joseph|39.769|-94.847|US|Missouri|98
+Jonesboro|35.842|-90.704|US|Arkansas|97
+Saint Charles|38.784|-90.481|US|Missouri|96
+Shawnee|39.042|-94.720|US|Kansas|96
+Conway|35.089|-92.442|US|Arkansas|96
+Rogers|36.332|-94.119|US|Arkansas|96
+Blue Springs|39.017|-94.282|US|Missouri|95
+Saint Peters|38.800|-90.627|US|Missouri|94
+Lenexa|38.954|-94.734|US|Kansas|94
+Florissant|38.789|-90.323|US|Missouri|94
+Joplin|37.084|-94.513|US|Missouri|94
+Chesterfield|38.663|-90.577|US|Missouri|94
+Bentonville|36.373|-94.209|US|Arkansas|93
+Jefferson City|38.577|-92.174|US|Missouri|93
+Quincy|39.936|-91.410|US|Illinois|92
+Oakville|38.470|-90.305|US|Missouri|91
+Leavenworth|39.311|-94.922|US|Kansas|91
+Wildwood|38.583|-90.663|US|Missouri|91
+Wentzville|38.811|-90.853|US|Missouri|91
+University City|38.656|-90.309|US|Missouri|91
+Leawood|38.967|-94.617|US|Kansas|91
+Ballwin|38.595|-90.546|US|Missouri|90
+Liberty|39.246|-94.419|US|Missouri|90
+Raytown|39.009|-94.464|US|Missouri|89
+Upper Alton|38.911|-90.151|US|Illinois|89
+Russellville|35.278|-93.134|US|Arkansas|89
+Granite City|38.701|-90.149|US|Illinois|89
+Mehlville|38.508|-90.323|US|Missouri|89
+Bella Vista|36.481|-94.271|US|Arkansas|89
+Paragould|36.058|-90.497|US|Arkansas|89
+Kirkwood|38.583|-90.407|US|Missouri|89
+Maryland Heights|38.713|-90.430|US|Missouri|89
+East Saint Louis|38.624|-90.151|US|Illinois|89
+Alton|38.891|-90.184|US|Illinois|89
+Gladstone|39.204|-94.555|US|Missouri|89
+Hazelwood|38.771|-90.371|US|Missouri|88
+Grandview|38.886|-94.533|US|Missouri|88
+West Memphis|35.146|-90.185|US|Arkansas|88
+Searcy|35.251|-91.736|US|Arkansas|88
+Webster Groves|38.593|-90.357|US|Missouri|87
+Van Buren|35.437|-94.348|US|Arkansas|87
+Prairie Village|38.992|-94.634|US|Kansas|87
+Sedalia|38.704|-93.228|US|Missouri|87
+Arnold|38.433|-90.378|US|Missouri|87
+Ferguson|38.744|-90.305|US|Missouri|86
+Nixa|37.043|-93.294|US|Missouri|86
+Gardner|38.811|-94.927|US|Kansas|86
+Pittsburg|37.411|-94.705|US|Kansas|86
+Raymore|38.802|-94.453|US|Missouri|86
+Affton|38.551|-90.333|US|Missouri|86
+Rolla|37.951|-91.771|US|Missouri|86
+Warrensburg|38.763|-93.736|US|Missouri|86
+Spanish Lake|38.788|-90.216|US|Missouri|86
+Old Jamestown|38.835|-90.285|US|Missouri|86
+Ozark|37.021|-93.206|US|Missouri|86
+Jacksonville|39.734|-90.229|US|Illinois|86
+Creve Coeur|38.661|-90.423|US|Missouri|85
+Manchester|38.597|-90.509|US|Missouri|85
+Farmington|37.781|-90.422|US|Missouri|85
+Hannibal|39.708|-91.358|US|Missouri|85
+Godfrey|38.956|-90.187|US|Illinois|85
+Poplar Bluff|36.757|-90.393|US|Missouri|85
+Lemay|38.533|-90.279|US|Missouri|84
+Tahlequah|35.915|-94.970|US|Oklahoma|84
+Concord|38.525|-90.357|US|Missouri|84
+Siloam Springs|36.188|-94.540|US|Arkansas|84
+Republic|37.120|-93.480|US|Missouri|84
+Overland|38.701|-90.362|US|Missouri|84
+Clayton|38.643|-90.324|US|Missouri|84
+Fort Leonard Wood|37.706|-92.157|US|Missouri|84
+Jennings|38.719|-90.260|US|Missouri|83
+Lebanon|37.681|-92.664|US|Missouri|83
+Forrest City|35.008|-90.790|US|Arkansas|83
+Lake Saint Louis|38.798|-90.786|US|Missouri|83
+Cahokia|38.571|-90.190|US|Illinois|83
+Carthage|37.176|-94.310|US|Missouri|83
+Washington|38.558|-91.012|US|Missouri|83
+Moberly|39.418|-92.438|US|Missouri|83
+Miami|36.875|-94.877|US|Oklahoma|83
+Grain Valley|39.015|-94.199|US|Missouri|83
+Harrison|36.230|-93.108|US|Arkansas|82
+Marshall|39.123|-93.197|US|Missouri|82
+Saint Ann|38.727|-90.383|US|Missouri|82
+Fulton|38.847|-91.948|US|Missouri|82
+Dardenne Prairie|38.770|-90.729|US|Missouri|82
+Mountain Home|36.335|-92.385|US|Arkansas|82
+Marion|35.215|-90.196|US|Arkansas|82
+West Plains|36.728|-91.852|US|Missouri|82
+Neosho|36.869|-94.368|US|Missouri|82
+Festus|38.221|-90.396|US|Missouri|82
+Centerton|36.360|-94.285|US|Arkansas|82
+Crestwood|38.557|-90.382|US|Missouri|82
+Bridgeton|38.767|-90.412|US|Missouri|81
+Lansing|39.249|-94.900|US|Kansas|81
+Mexico|39.170|-91.883|US|Missouri|81
+Troy|38.979|-90.981|US|Missouri|81
+Excelsior Springs|39.339|-94.226|US|Missouri|81
+Branson|36.644|-93.219|US|Missouri|81
+Merriam|39.024|-94.694|US|Kansas|81
+Webb City|37.146|-94.463|US|Missouri|81
+Town and Country|38.612|-90.463|US|Missouri|81
+Union|38.450|-91.008|US|Missouri|81
+Bellefontaine Neighbors|38.740|-90.227|US|Missouri|81
+Bolivar|37.614|-93.410|US|Missouri|81
+Batesville|35.770|-91.641|US|Arkansas|81
+Kennett|36.236|-90.056|US|Missouri|81
+Eureka|38.503|-90.628|US|Missouri|81
+Wood River|38.861|-90.098|US|Illinois|80
+Waterloo|38.336|-90.150|US|Illinois|80
+Columbia|38.444|-90.201|US|Illinois|80
+Harrisonville|38.653|-94.349|US|Missouri|80
+Cameron|39.740|-94.241|US|Missouri|80
+Mission|39.028|-94.656|US|Kansas|80
+Chillicothe|39.795|-93.552|US|Missouri|80
+Clarksville|35.471|-93.467|US|Arkansas|79
+Kearney|39.368|-94.362|US|Missouri|79
+Bethalto|38.909|-90.041|US|Illinois|79
+Greenwood|35.216|-94.256|US|Arkansas|79
+Ellisville|38.593|-90.587|US|Missouri|79
+Smithville|39.387|-94.581|US|Missouri|79
+Berkeley|38.755|-90.331|US|Missouri|79
+Monett|36.929|-93.928|US|Missouri|79
+Clinton|38.369|-93.778|US|Missouri|79
+Poteau|35.054|-94.624|US|Oklahoma|79
+Park Hills|37.854|-90.518|US|Missouri|79
+Murphy|38.490|-90.487|US|Missouri|79
+Ladue|38.650|-90.381|US|Missouri|79
+Sallisaw|35.460|-94.787|US|Oklahoma|79
+Des Peres|38.601|-90.433|US|Missouri|79
+Lowell|36.255|-94.131|US|Arkansas|79
+Sunset Hills|38.539|-90.407|US|Missouri|79
+Richmond Heights|38.629|-90.320|US|Missouri|79
+Jerseyville|39.120|-90.328|US|Illinois|79
+Boonville|38.974|-92.743|US|Missouri|78
+Pleasant Hill|38.788|-94.269|US|Missouri|78
+Nevada|37.839|-94.355|US|Missouri|78
+Wynne|35.225|-90.787|US|Arkansas|78
+Beebe|35.071|-91.880|US|Arkansas|78
+Warrenton|38.811|-91.142|US|Missouri|78
+Brentwood|38.618|-90.349|US|Missouri|78
+Maplewood|38.613|-90.325|US|Missouri|78
+Oak Grove|39.005|-94.129|US|Missouri|78
+Olivette|38.665|-90.376|US|Missouri|78
+Fort Scott|37.840|-94.708|US|Kansas|78
+Newport|35.605|-91.282|US|Arkansas|78
+Carl Junction|37.177|-94.566|US|Missouri|78
+Saint Johns|38.713|-90.343|US|Missouri|78
+Bonner Springs|39.060|-94.884|US|Kansas|78
+Sappington|38.537|-90.380|US|Missouri|78
+Aurora|36.971|-93.718|US|Missouri|77
+Pacific|38.482|-90.742|US|Missouri|77
+Heber Springs|35.491|-92.031|US|Arkansas|77
+Trumann|35.674|-90.507|US|Arkansas|77
+Marshfield|37.339|-92.907|US|Missouri|77
+Sullivan|38.208|-91.160|US|Missouri|77
+Bonne Terre|37.923|-90.555|US|Missouri|77
+Valley Park|38.549|-90.493|US|Missouri|77
+Black Jack|38.793|-90.267|US|Missouri|77
+Roeland Park|39.038|-94.632|US|Kansas|77
+Grove|36.594|-94.769|US|Oklahoma|77
+Morrilton|35.151|-92.744|US|Arkansas|77
+Farmington|36.042|-94.247|US|Arkansas|77
+Saint John|38.715|-90.346|US|Missouri|76
+De Soto|38.139|-90.555|US|Missouri|76
+Pocahontas|36.261|-90.971|US|Arkansas|76
+Parkville|39.195|-94.682|US|Missouri|76
+Shrewsbury|38.590|-90.337|US|Missouri|76
+East Alton|38.880|-90.111|US|Illinois|76
+De Soto|38.979|-94.969|US|Kansas|76
+Battlefield|37.116|-93.370|US|Missouri|76
+Spring Hill|38.743|-94.826|US|Kansas|76
+Glendale|38.596|-90.377|US|Missouri|75
+Barnhart|38.344|-90.393|US|Missouri|75
+Pevely|38.283|-90.395|US|Missouri|75
+Pontoon Beach|38.732|-90.080|US|Illinois|75
+Richmond|39.279|-93.977|US|Missouri|75
+Alma|35.478|-94.222|US|Arkansas|75
+Weldon Spring|38.713|-90.689|US|Missouri|75
+Greenwood|38.852|-94.344|US|Missouri|75
+Paola|38.572|-94.879|US|Kansas|75
+Willard|37.305|-93.429|US|Missouri|75
+Macon|39.742|-92.473|US|Missouri|75
+Glasgow Village|38.754|-90.198|US|Missouri|75
+Basehor|39.142|-94.939|US|Kansas|75
+Bowling Green|39.342|-91.195|US|Missouri|75
+Waynesville|37.829|-92.201|US|Missouri|75
+Berryville|36.365|-93.568|US|Arkansas|75
+Greenbrier|35.234|-92.388|US|Arkansas|74
+Pea Ridge|36.454|-94.115|US|Arkansas|74
+Prairie Grove|35.976|-94.318|US|Arkansas|74
+Odessa|38.999|-93.954|US|Missouri|74
+Flat River|37.850|-90.517|US|Missouri|74
+Savannah|39.942|-94.830|US|Missouri|74
+Centreville|38.583|-90.125|US|Illinois|74
+Dellwood|38.749|-90.286|US|Missouri|74
+Salem|37.646|-91.536|US|Missouri|74
+Normandy|38.721|-90.297|US|Missouri|74
+Desloge|37.871|-90.527|US|Missouri|74
+Peculiar|38.719|-94.459|US|Missouri|74
+Crystal City|38.221|-90.379|US|Missouri|74
+Platte City|39.370|-94.782|US|Missouri|74
+Barling|35.326|-94.302|US|Arkansas|74
+Saint Clair|38.345|-90.981|US|Missouri|73
+Cottleville|38.746|-90.654|US|Missouri|73
+Breckenridge Hills|38.715|-90.367|US|Missouri|73
+Imperial|38.370|-90.378|US|Missouri|73
+Ward|35.030|-91.950|US|Arkansas|73
+Mountain Grove|37.131|-92.263|US|Missouri|73
+Walnut Ridge|36.068|-90.956|US|Arkansas|73
+Higginsville|39.073|-93.717|US|Missouri|73
+Dardanelle|35.223|-93.158|US|Arkansas|73
+Rock Hill|38.608|-90.378|US|Missouri|73
+Eldon|38.348|-92.582|US|Missouri|73
+Cherokee Village|36.298|-91.516|US|Arkansas|73
+Lexington|39.185|-93.880|US|Missouri|73
+Mount Vernon|37.104|-93.819|US|Missouri|73
+Hollister|36.621|-93.215|US|Missouri|73
+Pittsfield|39.608|-90.805|US|Illinois|73
+Vilonia|35.084|-92.208|US|Arkansas|73
+Osage Beach|38.130|-92.653|US|Missouri|73
+Sainte Genevieve|37.981|-90.042|US|Missouri|73
+California|38.628|-92.567|US|Missouri|73
+Edwardsville|39.061|-94.820|US|Kansas|73
+Lamar|37.495|-94.277|US|Missouri|73
+Brookfield|39.784|-93.074|US|Missouri|73
+North Kansas City|39.130|-94.562|US|Missouri|73
+Vandalia|39.311|-91.488|US|Missouri|73
+Saint Robert|37.828|-92.178|US|Missouri|73
+High Ridge|38.459|-90.537|US|Missouri|73
+Osawatomie|38.497|-94.951|US|Kansas|73
+Louisburg|38.619|-94.681|US|Kansas|73
+Saint James|37.997|-91.614|US|Missouri|72
+Centralia|39.210|-92.138|US|Missouri|72
+Northwoods|38.704|-90.283|US|Missouri|72
+Butler|38.259|-94.331|US|Missouri|72
+Fredericktown|37.560|-90.294|US|Missouri|72
+Woodson Terrace|38.725|-90.358|US|Missouri|72
+Fenton|38.513|-90.436|US|Missouri|72
+Caseyville|38.637|-90.026|US|Illinois|72
+Rosewood Heights|38.888|-90.085|US|Illinois|72
+Pocola|35.231|-94.478|US|Oklahoma|72
+Baxter Springs|37.024|-94.736|US|Kansas|72
+Stilwell|35.815|-94.629|US|Oklahoma|72
+Washington Park|38.635|-90.093|US|Illinois|72
+Fairway|39.022|-94.632|US|Kansas|72
+Castle Point|38.758|-90.248|US|Missouri|72
+Herculaneum|38.268|-90.380|US|Missouri|72
+Dupo|38.516|-90.210|US|Illinois|72
+Park Hill|35.861|-94.959|US|Oklahoma|72
+Millstadt|38.461|-90.092|US|Illinois|72
+Booneville|35.140|-93.922|US|Arkansas|72
+Camdenton|38.008|-92.745|US|Missouri|72
+Madison|38.683|-90.157|US|Illinois|72
+Ashland|38.774|-92.257|US|Missouri|72
+Manila|35.880|-90.167|US|Arkansas|71
+Piggott|36.383|-90.191|US|Arkansas|71
+Carrollton|39.358|-93.496|US|Missouri|71
+Johnson|36.133|-94.165|US|Arkansas|71
+Palmyra|39.794|-91.523|US|Missouri|71
+Holts Summit|38.640|-92.122|US|Missouri|71
+Ozark|35.487|-93.828|US|Arkansas|71
+Frontenac|38.636|-90.415|US|Missouri|71
+El Dorado Springs|37.877|-94.021|US|Missouri|71
+Roland|35.421|-94.515|US|Oklahoma|71
+Wright City|38.828|-91.020|US|Missouri|71
+Paris|35.292|-93.730|US|Arkansas|71
+Frontenac|37.456|-94.689|US|Kansas|71
+Pine Lawn|38.696|-90.275|US|Missouri|71
+Gentry|36.268|-94.485|US|Arkansas|71
+Tipton|38.656|-92.780|US|Missouri|71
+Cuba|38.063|-91.403|US|Missouri|71
+Rogersville|37.117|-93.056|US|Missouri|71
+Sugar Creek|39.110|-94.445|US|Missouri|70
+Pagedale|38.683|-90.308|US|Missouri|70
+Cassville|36.677|-93.869|US|Missouri|70
+Louisiana|39.449|-91.052|US|Missouri|70
+Muldrow|35.406|-94.599|US|Oklahoma|70
+South Jacksonville|39.709|-90.228|US|Illinois|70
+Gravette|36.422|-94.454|US|Arkansas|70
+Corning|36.408|-90.580|US|Arkansas|70
+Riverside|39.178|-94.613|US|Missouri|70
+Columbus|37.169|-94.844|US|Kansas|70
+Licking|37.499|-91.857|US|Missouri|70
+Pottsville|35.248|-93.049|US|Arkansas|70
+Cave Springs|36.263|-94.232|US|Arkansas|70
+Hillsboro|38.232|-90.563|US|Missouri|70
+Buckner|39.133|-94.199|US|Missouri|70
+Pleasant Valley|39.216|-94.484|US|Missouri|70
+Atkins|35.246|-92.937|US|Arkansas|70
+Buffalo|37.644|-93.092|US|Missouri|70
+Riverview|38.276|-93.070|US|Missouri|70
+Brookland|35.900|-90.582|US|Arkansas|69
+Elkins|36.001|-94.008|US|Arkansas|69
+Riverside|38.287|-90.380|US|Missouri|69
+Ava|36.952|-92.660|US|Missouri|69
+Galena|37.076|-94.640|US|Kansas|69
+Bald Knob|35.310|-91.568|US|Arkansas|69
+Byrnes Mill|38.438|-90.582|US|Missouri|69
+Mountain View|35.868|-92.118|US|Arkansas|69
+Riverview|38.748|-90.212|US|Missouri|69
+Tontitown|36.178|-94.234|US|Arkansas|69
+Windsor|38.532|-93.522|US|Missouri|69
+Green Forest|36.335|-93.436|US|Arkansas|69
+Knob Noster|38.767|-93.559|US|Missouri|69
+Girard|37.511|-94.838|US|Kansas|69
+Little Flock|36.386|-94.135|US|Arkansas|69
+Montgomery City|38.978|-91.505|US|Missouri|69
+Bel-Ridge|38.709|-90.325|US|Missouri|69
+Fayette|39.146|-92.684|US|Missouri|69
+Gray Summit|38.490|-90.817|US|Missouri|69
+Hoxie|36.050|-90.975|US|Arkansas|69
+Mountain View|36.995|-91.704|US|Missouri|69
+Clarkson Valley|38.618|-90.589|US|Missouri|68
+Green Park|38.524|-90.338|US|Missouri|68
+Potosi|37.936|-90.788|US|Missouri|68
+Villa Ridge|38.473|-90.887|US|Missouri|68
+Owensville|38.346|-91.502|US|Missouri|68
+Moscow Mills|38.948|-90.918|US|Missouri|68
+Whiteman Air Force Base|38.730|-93.559|US|Missouri|68
+West Fork|35.924|-94.189|US|Arkansas|68
+Clinton|35.591|-92.460|US|Arkansas|68
+Clever|37.030|-93.473|US|Missouri|68
+Fairmont City|38.650|-90.093|US|Illinois|68
+Marked Tree|35.533|-90.421|US|Arkansas|68
+Bethel Heights|36.214|-94.129|US|Arkansas|68
+Charleston|35.297|-94.036|US|Arkansas|68
+Commerce|36.933|-94.873|US|Oklahoma|68
+Jay|36.421|-94.797|US|Oklahoma|68
+Country Club Village|39.832|-94.822|US|Missouri|68
+Monroe City|39.654|-91.735|US|Missouri|68
+Versailles|38.431|-92.841|US|Missouri|68
+Forsyth|36.685|-93.120|US|Missouri|68
+Lincoln|35.950|-94.424|US|Arkansas|68
+Moline Acres|38.747|-90.240|US|Missouri|68
+Carrollton|39.302|-90.407|US|Illinois|68
+Oronogo|37.188|-94.470|US|Missouri|68
+White Hall|39.437|-90.403|US|Illinois|68
+Lawson|39.438|-94.204|US|Missouri|68
+Lavaca|35.336|-94.173|US|Arkansas|68
+Seneca|36.841|-94.611|US|Missouri|68
+Concordia|38.983|-93.569|US|Missouri|68
+Huntsville|36.086|-93.741|US|Arkansas|68
+Hermann|38.704|-91.437|US|Missouri|68
+Holiday Island|36.485|-93.732|US|Arkansas|68
+Strafford|37.268|-93.117|US|Missouri|67
+Danville|35.054|-93.394|US|Arkansas|67
+Lake City|35.816|-90.434|US|Arkansas|67
+Wellston|38.673|-90.299|US|Missouri|67
+Terre du Lac|37.912|-90.625|US|Missouri|67
+Kimberling City|36.633|-93.417|US|Missouri|67
+Harrisburg|35.564|-90.717|US|Arkansas|67
+Plattsburg|39.566|-94.448|US|Missouri|67
+Earle|35.275|-90.467|US|Arkansas|67
+Fairfield Bay|35.594|-92.278|US|Arkansas|67
+Holden|38.714|-93.991|US|Missouri|67
+Thayer|36.525|-91.538|US|Missouri|67
+Bono|35.909|-90.803|US|Arkansas|67
+Southside|35.698|-91.623|US|Arkansas|67
+Four Seasons|38.198|-92.711|US|Missouri|67
+Brighton|39.040|-90.141|US|Illinois|67
+Marlborough|38.570|-90.337|US|Missouri|67
+Marionville|37.003|-93.637|US|Missouri|67
+Spiro|35.241|-94.620|US|Oklahoma|67
+Marceline|39.712|-92.948|US|Missouri|67
+Willow Springs|36.992|-91.970|US|Missouri|67
+Elm Springs|36.206|-94.234|US|Arkansas|67
+Gassville|36.283|-92.494|US|Arkansas|67
+Cabool|37.124|-92.101|US|Missouri|67
+Granby|36.919|-94.255|US|Missouri|67
+Hanley Hills|38.686|-90.324|US|Missouri|67
+Warsaw|38.243|-93.382|US|Missouri|66
+New Haven|38.608|-91.219|US|Missouri|66
+Horseshoe Bend|36.229|-91.764|US|Arkansas|66
+Eureka Springs|36.401|-93.738|US|Arkansas|66
+Houston|37.326|-91.956|US|Missouri|66
+Prairie Creek|36.342|-94.062|US|Arkansas|66
+Augusta|35.282|-91.365|US|Arkansas|66
+Lathrop|39.548|-94.330|US|Missouri|66
+Judsonia|35.270|-91.640|US|Arkansas|66
+Lake Lotawana|38.923|-94.244|US|Missouri|66
+South Roxana|38.829|-90.063|US|Illinois|66
+Doniphan|36.621|-90.823|US|Missouri|66
+Elsberry|39.167|-90.781|US|Missouri|66
+Anderson|36.651|-94.444|US|Missouri|66
+Piedmont|37.154|-90.696|US|Missouri|66
+Mount Sterling|39.987|-90.763|US|Illinois|66
+Seymour|37.146|-92.769|US|Missouri|66
+Warson Woods|38.607|-90.383|US|Missouri|66
+Alorton|38.590|-90.120|US|Illinois|66
+Bull Shoals|36.384|-92.582|US|Arkansas|66
+Arkoma|35.355|-94.434|US|Oklahoma|66
+Campbell|36.493|-90.075|US|Missouri|66
+Venice|38.672|-90.170|US|Illinois|66
+Vinita Park|38.690|-90.343|US|Missouri|66
+Cave City|35.942|-91.548|US|Arkansas|65
+Leachville|35.936|-90.258|US|Arkansas|65
+Stockton|37.699|-93.796|US|Missouri|65
+Carterville|37.149|-94.443|US|Missouri|65
+Weatherby Lake|39.238|-94.696|US|Missouri|65
+Rector|36.263|-90.293|US|Arkansas|65
+Lepanto|35.611|-90.330|US|Arkansas|65
+Slater|39.218|-93.069|US|Missouri|65
+Saint Paul|38.861|-90.742|US|Missouri|65
+Richland|37.857|-92.404|US|Missouri|65
+Noel|36.546|-94.485|US|Missouri|65
+Bay|35.742|-90.562|US|Arkansas|65
+Sparta|37.001|-93.082|US|Missouri|65
+Albany|39.223|-94.113|US|Missouri|65
+Melbourne|36.060|-91.908|US|Arkansas|65
+Decatur|36.336|-94.461|US|Arkansas|65
+Merriam Woods|36.714|-93.162|US|Missouri|65
+Lake Ozark|38.199|-92.639|US|Missouri|65
+Tuckerman|35.731|-91.198|US|Arkansas|65
+Gallatin|39.914|-93.962|US|Missouri|65
+Duquesne|37.077|-94.459|US|Missouri|65
+Calico Rock|36.120|-92.136|US|Arkansas|65
+Roodhouse|39.484|-90.372|US|Illinois|65
+Weston|39.411|-94.902|US|Missouri|65
+Cedar Hill|38.353|-90.641|US|Missouri|65
+Westwood|39.041|-94.617|US|Kansas|65
+Hamilton|39.744|-93.998|US|Missouri|65
+Senath|36.134|-90.160|US|Missouri|65
+Steelville|37.968|-91.355|US|Missouri|65
+Lamar|35.441|-93.388|US|Arkansas|64
+Kensett|35.232|-91.668|US|Arkansas|64
+Shelbina|39.694|-92.043|US|Missouri|64
+Mulberry|35.501|-94.052|US|Arkansas|64
+Salem|36.371|-91.823|US|Arkansas|64
+Copeland|36.656|-94.828|US|Oklahoma|64
+Garden City|38.561|-94.191|US|Missouri|64
+Adrian|38.398|-94.352|US|Missouri|64
+Bourbon|38.155|-91.244|US|Missouri|64
+McCrory|35.256|-91.200|US|Arkansas|64
+Goshen|36.101|-93.991|US|Arkansas|64
+Westville|35.993|-94.568|US|Oklahoma|64
+Salisbury|39.424|-92.802|US|Missouri|64
+LaBarque Creek|38.417|-90.680|US|Missouri|64
+Hallsville|39.117|-92.221|US|Missouri|64
+Wardsville|38.489|-92.174|US|Missouri|64
+Winchester|38.590|-90.528|US|Missouri|64
+Belle|38.286|-91.720|US|Missouri|64
+Monette|35.891|-90.344|US|Arkansas|64
+Huntsville|39.441|-92.545|US|Missouri|64
+Virginia|39.951|-90.212|US|Illinois|64
+Hillsdale|38.683|-90.284|US|Missouri|64
+Winchester|39.630|-90.456|US|Illinois|64
+Gower|39.611|-94.599|US|Missouri|64
+Bismarck|37.769|-90.625|US|Missouri|64
+Dixon|37.992|-92.094|US|Missouri|64
+Roxana|38.848|-90.076|US|Illinois|63
+Bel-Nor|38.702|-90.317|US|Missouri|63
+Elvins|37.837|-90.533|US|Missouri|63
+Claycomo|39.203|-94.492|US|Missouri|63
+Sweet Springs|38.964|-93.415|US|Missouri|63
+Ash Grove|37.315|-93.585|US|Missouri|63
+Cleora|36.579|-94.971|US|Oklahoma|63
+Fair Grove|37.384|-93.151|US|Missouri|63
+Arma|37.544|-94.700|US|Kansas|63
+Winfield|38.997|-90.738|US|Missouri|63
+Perryville|35.005|-92.803|US|Arkansas|63
+Linn|38.486|-91.850|US|Missouri|63
+Lakeshire|38.539|-90.335|US|Missouri|63
+Velda Village|38.690|-90.294|US|Missouri|63
+Dover|35.401|-93.114|US|Arkansas|63
+Vian|35.498|-94.970|US|Oklahoma|63
+Ironton|37.597|-90.627|US|Missouri|63
+Greenland|35.994|-94.175|US|Arkansas|63
+Hartford|38.833|-90.096|US|Illinois|63
+Oakland|38.576|-90.386|US|Missouri|63
+Shell Knob|36.632|-93.634|US|Missouri|63
+Charlack|38.703|-90.343|US|Missouri|63
+Panama|35.167|-94.672|US|Oklahoma|63
+Cedarville|35.570|-94.367|US|Arkansas|63
+Mitchell|38.762|-90.085|US|Illinois|63
+Crane|36.905|-93.572|US|Missouri|63
+Saint George|38.537|-90.315|US|Missouri|63
+Rich Hill|38.096|-94.361|US|Missouri|63
+Wathena|39.759|-94.950|US|Kansas|63
+Flippin|36.279|-92.597|US|Arkansas|63
+Gerald|38.400|-91.331|US|Missouri|62
+Greenfield|37.415|-93.841|US|Missouri|62
+Winona|37.010|-91.323|US|Missouri|62
+Duenweg|37.084|-94.414|US|Missouri|62
+Sarcoxie|37.069|-94.117|US|Missouri|62
+Marshall|35.909|-92.631|US|Arkansas|62
+Calverton Park|38.765|-90.314|US|Missouri|62
+Pierce City|36.946|-94.000|US|Missouri|62
+Barry|39.694|-91.039|US|Illinois|62
+Country Club Hills|38.721|-90.275|US|Missouri|62
+Caraway|35.758|-90.322|US|Arkansas|62
+Valmeyer|38.306|-90.277|US|Illinois|62
+Mansfield|37.107|-92.581|US|Missouri|62
+Ashland|39.888|-90.008|US|Illinois|62
+Ola|35.032|-93.223|US|Arkansas|62
+Diaz|35.638|-91.265|US|Arkansas|62
+Goodman|36.742|-94.399|US|Missouri|62
+Leadwood|37.867|-90.593|US|Missouri|62
+Kenwood|36.315|-94.986|US|Oklahoma|62
+Marmaduke|36.187|-90.383|US|Arkansas|62
+Archie|38.482|-94.354|US|Missouri|62
+Elwood|39.756|-94.872|US|Kansas|61
+Cool Valley|38.728|-90.310|US|Missouri|61
+Newark|35.702|-91.442|US|Arkansas|61
+Griggsville|39.709|-90.725|US|Illinois|61
+Paris|39.481|-92.001|US|Missouri|61
+Pleasanton|38.178|-94.711|US|Kansas|61
+Lincoln|38.391|-93.335|US|Missouri|61
+Yellville|36.226|-92.685|US|Arkansas|61
+Esther|37.850|-90.499|US|Missouri|61
+Marthasville|38.628|-91.058|US|Missouri|61
+Wellsville|39.072|-91.570|US|Missouri|61
+Lake Winnebago|38.831|-94.359|US|Missouri|61
+Saint Martins|38.594|-92.337|US|Missouri|61
+La Monte|38.774|-93.425|US|Missouri|61
+Taos|38.506|-92.071|US|Missouri|61
+Lone Jack|38.871|-94.174|US|Missouri|61
+La Cygne|38.350|-94.761|US|Kansas|61
+Kissee Mills|36.684|-93.050|US|Missouri|61
+Cole Camp|38.460|-93.203|US|Missouri|61
+Parkin|35.263|-90.571|US|Arkansas|61
+Glasgow|39.227|-92.847|US|Missouri|61
+Purdy|36.817|-93.921|US|Missouri|61
+Mansfield|35.060|-94.253|US|Arkansas|61
+Maysville|39.889|-94.362|US|Missouri|61
+Appleton City|38.191|-94.029|US|Missouri|61
+Midway|36.385|-92.462|US|Arkansas|61
+Billings|37.068|-93.552|US|Missouri|61
+New Franklin|39.017|-92.737|US|Missouri|61
+Stover|38.441|-92.992|US|Missouri|61
+New Century|38.823|-94.900|US|Kansas|61
+Crocker|37.949|-92.264|US|Missouri|61
+Ash Flat|36.224|-91.608|US|Arkansas|61
+Fairland|36.751|-94.847|US|Oklahoma|61
+Highland|36.276|-91.524|US|Arkansas|60
+Afton|36.694|-94.963|US|Oklahoma|60
+London|35.329|-93.253|US|Arkansas|60
+Humansville|37.794|-93.578|US|Missouri|60
+Coal Hill|35.437|-93.673|US|Arkansas|60
+Greenfield|39.344|-90.213|US|Illinois|60
+Meredosia|39.831|-90.560|US|Illinois|60
+Payson|39.817|-91.242|US|Illinois|60
+New London|39.585|-91.401|US|Missouri|60
+Hardin|39.157|-90.618|US|Illinois|59
+Osceola|38.047|-93.704|US|Missouri|59
+Alton|36.694|-91.399|US|Missouri|59
+Van Buren|36.996|-91.015|US|Missouri|58
+Pineville|36.595|-94.384|US|Missouri|58
+Gainesville|36.603|-92.428|US|Missouri|58
+Mound City|38.143|-94.814|US|Kansas|57
+Vienna|38.187|-91.947|US|Missouri|56
+Hartville|37.251|-92.510|US|Missouri|56
+Eminence|37.151|-91.358|US|Missouri|55
+Shelbyville|39.806|-92.042|US|Missouri|54
+Greenville|37.127|-90.450|US|Missouri|54
+Hermitage|37.941|-93.316|US|Missouri|53
+Keytesville|39.434|-92.938|US|Missouri|53
+Jasper|36.008|-93.187|US|Arkansas|53
+Galena|36.805|-93.467|US|Missouri|52
+Kingston|39.644|-94.039|US|Missouri|51
+Linneus|39.879|-93.189|US|Missouri|49
+Tuscumbia|38.233|-92.459|US|Missouri|46
+Centerville|37.435|-90.958|US|Missouri|45

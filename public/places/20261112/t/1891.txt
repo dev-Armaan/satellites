@@ -1,0 +1,915 @@
+Detroit|42.331|-83.046|US|Michigan|116
+London|42.983|-81.233|CA|Ontario|113
+Cleveland|41.499|-81.695|US|Ohio|111
+Toledo|41.664|-83.555|US|Ohio|108
+Kitchener|43.425|-80.511|CA|Ontario|108
+Windsor|42.300|-83.017|CA|Ontario|107
+Akron|41.081|-81.519|US|Ohio|106
+Guelph|43.546|-80.256|CA|Ontario|103
+Warren|42.490|-83.013|US|Michigan|103
+Sterling Heights|42.580|-83.030|US|Michigan|102
+Cambridge|43.360|-80.313|CA|Ontario|102
+Ann Arbor|42.278|-83.741|US|Michigan|101
+Lansing|42.733|-84.556|US|Michigan|101
+Waterloo|43.467|-80.516|CA|Ontario|100
+Brantford|43.133|-80.266|CA|Ontario|100
+Clinton Township|42.587|-82.920|US|Michigan|100
+Erie|42.129|-80.085|US|Pennsylvania|100
+Flint|43.013|-83.687|US|Michigan|100
+Dearborn|42.322|-83.176|US|Michigan|100
+Livonia|42.368|-83.353|US|Michigan|100
+Canton|42.309|-83.482|US|Michigan|99
+Troy|42.606|-83.150|US|Michigan|98
+Westland|42.324|-83.400|US|Michigan|98
+Farmington Hills|42.485|-83.377|US|Michigan|98
+Parma|41.405|-81.723|US|Ohio|98
+Waterford|42.693|-83.412|US|Michigan|98
+Shelby|42.671|-83.033|US|Michigan|97
+Rochester Hills|42.658|-83.150|US|Michigan|97
+Southfield|42.473|-83.222|US|Michigan|97
+Sarnia|42.979|-82.404|CA|Ontario|97
+Canton|40.799|-81.378|US|Ohio|97
+West Bloomfield Township|42.569|-83.384|US|Michigan|96
+Youngstown|41.100|-80.650|US|Ohio|96
+Lorain|41.453|-82.182|US|Ohio|96
+Taylor|42.241|-83.270|US|Michigan|96
+Norfolk County|42.833|-80.383|CA|Ontario|96
+Pontiac|42.639|-83.291|US|Michigan|96
+Saint Clair Shores|42.497|-82.889|US|Michigan|96
+Royal Oak|42.489|-83.145|US|Michigan|95
+Novi|42.481|-83.475|US|Michigan|95
+Elyria|41.368|-82.108|US|Ohio|95
+Lakewood|41.482|-81.798|US|Ohio|94
+Redford|42.383|-83.297|US|Michigan|94
+Saginaw|43.419|-83.951|US|Michigan|94
+Cuyahoga Falls|41.134|-81.485|US|Ohio|94
+East Lansing|42.737|-84.484|US|Michigan|94
+Newark|40.058|-82.401|US|Ohio|94
+Euclid|41.593|-81.527|US|Ohio|94
+Roseville|42.497|-82.937|US|Michigan|94
+Mentor|41.666|-81.340|US|Ohio|93
+Mansfield|40.758|-82.515|US|Ohio|93
+Dublin|40.099|-83.114|US|Ohio|93
+Strongsville|41.315|-81.836|US|Ohio|93
+Chatham|42.412|-82.185|CA|Ontario|93
+Midland|43.616|-84.247|US|Michigan|93
+Findlay|41.044|-83.650|US|Ohio|92
+Woodstock|43.133|-80.750|CA|Ontario|92
+Warren|41.238|-80.818|US|Ohio|92
+St. Thomas|42.774|-81.180|CA|Ontario|92
+Westerville|40.126|-82.929|US|Ohio|92
+Delaware|40.299|-83.068|US|Ohio|92
+Lima|40.743|-84.105|US|Ohio|92
+Lincoln Park|42.251|-83.179|US|Michigan|91
+Marion|40.589|-83.129|US|Ohio|91
+Leamington|42.050|-82.600|CA|Ontario|91
+Boardman|41.024|-80.663|US|Ohio|91
+Stow|41.160|-81.440|US|Ohio|91
+Brunswick|41.238|-81.842|US|Ohio|91
+Gahanna|40.019|-82.879|US|Ohio|91
+Brant|43.133|-80.350|CA|Ontario|91
+Collinwood|41.558|-81.569|US|Ohio|91
+Bay City|43.594|-83.889|US|Michigan|91
+Hilliard|40.033|-83.158|US|Ohio|91
+Jackson|42.246|-84.401|US|Michigan|90
+Mount Lebanon|40.355|-80.049|US|Pennsylvania|90
+LaSalle|42.245|-83.061|CA|Ontario|90
+Eastpointe|42.468|-82.955|US|Michigan|90
+North Ridgeville|41.389|-82.019|US|Ohio|90
+Westlake|41.455|-81.918|US|Ohio|90
+Massillon|40.797|-81.522|US|Ohio|90
+Bethel Park|40.328|-80.040|US|Pennsylvania|90
+North Olmsted|41.416|-81.923|US|Ohio|90
+Stratford|43.367|-80.950|CA|Ontario|90
+Bowling Green|41.375|-83.651|US|Ohio|90
+Orangeville|43.917|-80.100|CA|Ontario|90
+North Royalton|41.314|-81.725|US|Ohio|90
+Madison Heights|42.486|-83.105|US|Michigan|90
+Kent|41.154|-81.358|US|Ohio|89
+Oak Park|42.459|-83.183|US|Michigan|89
+Austintown|41.102|-80.765|US|Ohio|89
+Port Huron|42.971|-82.425|US|Michigan|89
+Southgate|42.214|-83.194|US|Michigan|89
+Burton|42.999|-83.616|US|Michigan|89
+Cranberry Township|40.685|-80.107|US|Pennsylvania|89
+Garfield Heights|41.417|-81.606|US|Ohio|89
+Wheeling|40.064|-80.721|US|West Virginia|89
+Shaker Heights|41.474|-81.537|US|Ohio|89
+Allen Park|42.258|-83.211|US|Michigan|89
+Garden City|42.326|-83.331|US|Michigan|89
+Wooster|40.805|-81.936|US|Ohio|89
+Medina|41.138|-81.864|US|Ohio|88
+Barberton|41.013|-81.605|US|Ohio|88
+Mount Pleasant|43.598|-84.768|US|Michigan|88
+Green|40.946|-81.483|US|Ohio|88
+Troy|40.039|-84.203|US|Ohio|88
+Sandusky|41.449|-82.708|US|Ohio|88
+Wyandotte|42.214|-83.150|US|Michigan|88
+Inkster|42.294|-83.310|US|Michigan|88
+Holt|42.641|-84.515|US|Michigan|88
+Waverly|42.739|-84.621|US|Michigan|88
+Strathroy|42.955|-81.622|CA|Ontario|88
+Glenville|41.533|-81.617|US|Ohio|87
+Avon Lake|41.505|-82.028|US|Ohio|87
+Romulus|42.222|-83.397|US|Michigan|87
+Tecumseh|42.316|-82.884|CA|Ontario|87
+Solon|41.390|-81.441|US|Ohio|87
+Marysville|40.236|-83.367|US|Ohio|87
+Auburn Hills|42.688|-83.234|US|Michigan|87
+Maple Heights|41.415|-81.566|US|Ohio|87
+Willoughby|41.640|-81.406|US|Ohio|87
+Avon|41.452|-82.035|US|Ohio|87
+Hudson|41.240|-81.441|US|Ohio|87
+New Castle|41.004|-80.347|US|Pennsylvania|87
+Kingsville|42.100|-82.733|CA|Ontario|87
+Alliance|40.915|-81.106|US|Ohio|87
+Hamtramck|42.393|-83.050|US|Michigan|87
+Wadsworth|41.026|-81.730|US|Ohio|87
+South Euclid|41.523|-81.518|US|Ohio|87
+Collingwood|44.483|-80.216|CA|Ontario|87
+Perrysburg|41.557|-83.627|US|Ohio|87
+Okemos|42.722|-84.427|US|Michigan|87
+Owen Sound|44.567|-80.943|CA|Ontario|87
+Sidney|40.284|-84.156|US|Ohio|86
+Birmingham|42.547|-83.211|US|Michigan|86
+Piqua|40.145|-84.242|US|Ohio|86
+Fergus|43.706|-80.378|CA|Ontario|86
+Adrian|41.898|-84.037|US|Michigan|86
+Wasaga Beach|44.517|-80.016|CA|Ontario|86
+Rocky River|41.476|-81.839|US|Ohio|86
+Ashland|40.869|-82.318|US|Ohio|86
+Ferndale|42.461|-83.135|US|Michigan|86
+Oregon|41.644|-83.487|US|Ohio|86
+Monroe|41.916|-83.398|US|Michigan|86
+Ypsilanti|42.241|-83.613|US|Michigan|86
+Painesville|41.724|-81.246|US|Ohio|86
+Weirton Heights|40.408|-80.539|US|West Virginia|86
+Broadview Heights|41.314|-81.685|US|Ohio|86
+Upper Saint Clair|40.336|-80.083|US|Pennsylvania|86
+Haslett|42.747|-84.401|US|Michigan|86
+Weirton|40.419|-80.590|US|West Virginia|86
+Sylvania|41.719|-83.713|US|Ohio|86
+Berea|41.366|-81.854|US|Ohio|86
+Twinsburg|41.313|-81.440|US|Ohio|86
+Mayfield Heights|41.519|-81.458|US|Ohio|86
+Brook Park|41.398|-81.805|US|Ohio|85
+Niles|41.183|-80.765|US|Ohio|85
+Tillsonburg|42.860|-80.726|CA|Ontario|85
+Trenton|42.139|-83.178|US|Michigan|85
+Ashtabula|41.865|-80.790|US|Ohio|85
+Eastlake|41.654|-81.450|US|Ohio|85
+Steubenville|40.370|-80.634|US|Ohio|85
+Clark-Fulton|41.464|-81.710|US|Ohio|85
+Tiffin|41.114|-83.178|US|Ohio|85
+Tallmadge|41.101|-81.442|US|Ohio|85
+New Philadelphia|40.490|-81.446|US|Ohio|85
+North Canton|40.876|-81.402|US|Ohio|85
+Detroit-Shoreway|41.478|-81.730|US|Ohio|85
+East Cleveland|41.533|-81.579|US|Ohio|85
+Wayne|42.281|-83.386|US|Michigan|85
+Norwalk|41.243|-82.616|US|Ohio|85
+Defiance|41.284|-84.356|US|Ohio|84
+Mount Vernon|40.393|-82.486|US|Ohio|84
+Hazel Park|42.463|-83.104|US|Michigan|84
+Fairview Park|41.441|-81.864|US|Ohio|84
+Mount Clemens|42.597|-82.878|US|Michigan|84
+Hough|41.512|-81.637|US|Ohio|84
+Streetsboro|41.239|-81.346|US|Ohio|84
+Fremont|41.350|-83.122|US|Ohio|84
+Hermitage|41.233|-80.449|US|Pennsylvania|84
+Aurora|41.318|-81.345|US|Ohio|84
+Grosse Pointe Woods|42.444|-82.907|US|Michigan|84
+Middleburg Heights|41.361|-81.813|US|Ohio|84
+Bay Village|41.485|-81.922|US|Ohio|84
+Berkley|42.503|-83.184|US|Michigan|84
+Owosso|42.998|-84.177|US|Michigan|83
+Fraser|42.539|-82.949|US|Michigan|83
+Worthington|40.093|-83.018|US|Ohio|83
+Franklin Park|40.583|-80.088|US|Pennsylvania|83
+New Franklin|40.942|-81.542|US|Ohio|83
+Willowick|41.633|-81.469|US|Ohio|83
+Maumee|41.563|-83.654|US|Ohio|83
+Simcoe|42.833|-80.300|CA|Ontario|83
+Amherstburg|42.100|-83.100|CA|Ontario|83
+Harper Woods|42.433|-82.924|US|Michigan|83
+Wixom|42.525|-83.536|US|Michigan|83
+Ingersoll|43.033|-80.883|CA|Ontario|83
+Lyndhurst|41.520|-81.489|US|Ohio|83
+Copley|41.099|-81.645|US|Ohio|83
+New Hamburg|43.383|-80.700|CA|Ontario|83
+Sharon|41.233|-80.493|US|Pennsylvania|83
+Warrensville Heights|41.435|-81.536|US|Ohio|83
+Washington|40.174|-80.246|US|Pennsylvania|83
+Brecksville|41.320|-81.627|US|Ohio|83
+University Heights|41.498|-81.537|US|Ohio|82
+Fostoria|41.157|-83.417|US|Ohio|82
+North Perth|43.725|-80.967|CA|Ontario|82
+Bellefontaine|40.361|-83.760|US|Ohio|82
+Meadville|41.641|-80.151|US|Pennsylvania|82
+Greenville|40.103|-84.633|US|Ohio|82
+Rochester|42.681|-83.134|US|Michigan|82
+Powell|40.158|-83.075|US|Ohio|82
+Dover|40.521|-81.474|US|Ohio|82
+Bedford|41.393|-81.537|US|Ohio|82
+Conneaut|41.948|-80.554|US|Ohio|82
+Wickliffe|41.605|-81.453|US|Ohio|82
+Woodhaven|42.139|-83.242|US|Michigan|82
+Fernway|40.695|-80.131|US|Pennsylvania|82
+New Baltimore|42.681|-82.737|US|Michigan|82
+Paris|43.200|-80.383|CA|Ontario|82
+Riverview|42.174|-83.179|US|Michigan|82
+Amherst|41.398|-82.222|US|Ohio|82
+Norton|41.029|-81.638|US|Ohio|82
+Clawson|42.533|-83.146|US|Michigan|82
+Salem|40.901|-80.857|US|Ohio|82
+Erin|43.773|-80.064|CA|Ontario|82
+Bucyrus|40.808|-82.975|US|Ohio|82
+Beachwood|41.465|-81.509|US|Ohio|81
+South Lyon|42.461|-83.652|US|Michigan|81
+Seven Hills|41.395|-81.676|US|Ohio|81
+Macedonia|41.314|-81.508|US|Ohio|81
+Ravenna|41.158|-81.242|US|Ohio|81
+Urbana|40.108|-83.752|US|Ohio|81
+Fenton|42.798|-83.705|US|Michigan|81
+Carnot-Moon|40.519|-80.217|US|Pennsylvania|81
+Grosse Ile|42.129|-83.144|US|Michigan|81
+Lewis Center|40.198|-83.010|US|Ohio|81
+Grosse Pointe Park|42.376|-82.937|US|Michigan|81
+Coshocton|40.272|-81.860|US|Ohio|81
+Vermilion-on-the-Lake|41.428|-82.324|US|Ohio|81
+Highland Park|42.406|-83.097|US|Michigan|81
+Brooklyn|41.440|-81.735|US|Ohio|81
+East Liverpool|40.619|-80.577|US|Ohio|81
+Van Wert|40.869|-84.584|US|Ohio|81
+Elmira|43.600|-80.550|CA|Ontario|81
+Lambton Shores|43.167|-81.933|CA|Ontario|81
+Farmington|42.464|-83.376|US|Michigan|80
+Heath|40.023|-82.445|US|Ohio|80
+Richmond Heights|41.553|-81.510|US|Ohio|80
+Vermilion|41.422|-82.365|US|Ohio|80
+Melvindale|42.283|-83.175|US|Michigan|80
+Cambridge|40.031|-81.588|US|Ohio|80
+Celina|40.549|-84.570|US|Ohio|80
+Struthers|41.053|-80.608|US|Ohio|80
+Wallaceburg|42.593|-82.389|CA|Ontario|80
+Beverly Hills|42.524|-83.223|US|Michigan|80
+Beecher|43.090|-83.694|US|Michigan|80
+Galion|40.734|-82.790|US|Ohio|80
+South Huron|43.317|-81.516|CA|Ontario|80
+Lambertville|41.766|-83.628|US|Michigan|80
+Flat Rock|42.096|-83.292|US|Michigan|80
+New Albany|40.081|-82.809|US|Ohio|80
+Wapakoneta|40.568|-84.194|US|Ohio|80
+Marysville|42.913|-82.487|US|Michigan|80
+Belle River|42.293|-82.712|CA|Ontario|80
+Girard|41.154|-80.701|US|Ohio|80
+Howell|42.607|-83.929|US|Michigan|80
+Decatur|40.831|-84.929|US|Indiana|80
+The Blue Mountains|44.558|-80.458|CA|Ontario|79
+Acton|43.630|-80.041|CA|Ontario|79
+Economy|40.600|-80.225|US|Pennsylvania|79
+Dorchester|42.983|-81.066|CA|Ontario|79
+Huron East|43.617|-81.300|CA|Ontario|79
+Ecorse|42.244|-83.146|US|Michigan|79
+Grosse Pointe Farms|42.409|-82.892|US|Michigan|79
+Aliquippa|40.637|-80.240|US|Pennsylvania|79
+Alma|43.379|-84.660|US|Michigan|79
+Louisville|40.837|-81.260|US|Ohio|79
+Saline|42.167|-83.782|US|Michigan|79
+Shelby|40.881|-82.662|US|Ohio|79
+Charlotte|42.564|-84.836|US|Michigan|79
+Sheffield Lake|41.488|-82.102|US|Ohio|79
+Canonsburg|40.263|-80.187|US|Pennsylvania|79
+Plymouth|42.371|-83.470|US|Michigan|79
+Olmsted Falls|41.375|-81.908|US|Ohio|79
+Lapeer|43.051|-83.319|US|Michigan|79
+Kennedy Township|40.478|-80.103|US|Pennsylvania|79
+Beaver Falls|40.752|-80.319|US|Pennsylvania|79
+Angola|41.635|-84.999|US|Indiana|79
+Napoleon|41.392|-84.125|US|Ohio|79
+North Madison|41.825|-81.056|US|Ohio|79
+Temperance|41.779|-83.569|US|Michigan|79
+Orrville|40.844|-81.764|US|Ohio|79
+Dormont|40.396|-80.033|US|Pennsylvania|79
+Perry Heights|40.795|-81.473|US|Ohio|79
+Bryan|41.475|-84.552|US|Ohio|79
+Mason|42.579|-84.444|US|Michigan|79
+Highland Heights|41.552|-81.478|US|Ohio|78
+Tecumseh|42.004|-83.945|US|Michigan|78
+Oberlin|41.294|-82.217|US|Ohio|78
+Saint Marys|40.542|-84.389|US|Ohio|78
+Center Line|42.485|-83.028|US|Michigan|78
+Bellevue|40.494|-80.052|US|Pennsylvania|78
+Castle Shannon|40.365|-80.022|US|Pennsylvania|78
+Essex|42.175|-82.825|CA|Ontario|78
+Albion|42.243|-84.753|US|Michigan|78
+Kenton|40.647|-83.610|US|Ohio|78
+Grove City|41.158|-80.089|US|Pennsylvania|78
+Hillsdale|41.920|-84.631|US|Michigan|78
+Shelburne|44.079|-80.204|CA|Ontario|78
+Flushing|43.063|-83.851|US|Michigan|78
+Bellevue|41.274|-82.842|US|Ohio|78
+Grand Blanc|42.928|-83.630|US|Michigan|78
+Campbell|41.078|-80.599|US|Ohio|78
+Carnegie|40.409|-80.083|US|Pennsylvania|78
+Saint Johns|43.001|-84.559|US|Michigan|78
+Port Elgin|44.436|-81.390|CA|Ontario|78
+Elora|43.683|-80.433|CA|Ontario|78
+Grand Ledge|42.753|-84.746|US|Michigan|78
+Hanover|44.150|-81.033|CA|Ontario|78
+Hubbard|41.156|-80.569|US|Ohio|78
+Goderich|43.742|-81.713|CA|Ontario|78
+Ellwood City|40.862|-80.286|US|Pennsylvania|78
+Brighton|42.529|-83.780|US|Michigan|78
+River Rouge|42.273|-83.134|US|Michigan|78
+Listowel|43.733|-80.950|CA|Ontario|78
+Camlachie|43.036|-82.162|CA|Ontario|78
+Aylmer|42.767|-80.983|CA|Ontario|77
+Saint Louis|43.408|-84.607|US|Michigan|77
+Fairlawn|41.128|-81.610|US|Ohio|77
+St. Marys|43.250|-81.133|CA|Ontario|77
+Canfield|41.025|-80.761|US|Ohio|77
+Wauseon|41.549|-84.142|US|Ohio|77
+Independence|41.369|-81.638|US|Ohio|77
+Walled Lake|42.538|-83.481|US|Michigan|77
+Marshall|42.272|-84.963|US|Michigan|77
+Bluewater|43.467|-81.600|CA|Ontario|77
+Delphos|40.843|-84.342|US|Ohio|77
+Huron|41.395|-82.555|US|Ohio|77
+Freeland|43.525|-84.123|US|Michigan|77
+Portage Lakes|41.007|-81.527|US|Ohio|77
+Bridgeport|43.359|-83.882|US|Michigan|77
+Cortland|41.330|-80.725|US|Ohio|77
+Ambridge|40.589|-80.225|US|Pennsylvania|77
+Buena Vista|43.420|-83.899|US|Michigan|77
+Kirtland|41.629|-81.362|US|Ohio|77
+Martins Ferry|40.096|-80.725|US|Ohio|77
+Kincardine|44.183|-81.633|CA|Ontario|77
+West View|40.522|-80.034|US|Pennsylvania|77
+Shields|43.415|-84.056|US|Michigan|76
+Carrollton|43.459|-83.930|US|Michigan|76
+Rittman|40.978|-81.782|US|Ohio|76
+Upper Sandusky|40.827|-83.281|US|Ohio|76
+Rossford|41.610|-83.564|US|Ohio|76
+Champion Heights|41.290|-80.846|US|Ohio|76
+Milford|42.594|-83.599|US|Michigan|76
+South Monroe|41.896|-83.418|US|Michigan|76
+Whitmore Lake|42.440|-83.745|US|Michigan|76
+Howland Center|41.251|-80.745|US|Ohio|76
+Huntington Woods|42.481|-83.167|US|Michigan|76
+Edinboro|41.874|-80.132|US|Pennsylvania|76
+Columbiana|40.888|-80.694|US|Ohio|76
+Clyde|41.304|-82.975|US|Ohio|76
+Pepper Pike|41.478|-81.464|US|Ohio|76
+Portland|40.434|-84.978|US|Indiana|76
+Holly|42.792|-83.628|US|Michigan|76
+Grafton|41.273|-82.055|US|Ohio|76
+Ontario|40.760|-82.590|US|Ohio|76
+Willard|41.053|-82.726|US|Ohio|76
+Geneva|41.805|-80.948|US|Ohio|76
+McKees Rocks|40.466|-80.066|US|Pennsylvania|76
+Northville|42.431|-83.483|US|Michigan|76
+Milan|42.085|-83.682|US|Michigan|76
+Port Clinton|41.512|-82.938|US|Ohio|76
+New Brighton|40.730|-80.310|US|Pennsylvania|75
+Crafton|40.435|-80.066|US|Pennsylvania|75
+Richmond|42.809|-82.756|US|Michigan|75
+Greenville|41.404|-80.391|US|Pennsylvania|75
+Ada|40.770|-83.823|US|Ohio|75
+Granville|40.068|-82.520|US|Ohio|75
+Corunna|42.883|-82.433|CA|Ontario|75
+Monaca|40.687|-80.271|US|Pennsylvania|75
+Petrolia|42.882|-82.152|CA|Ontario|75
+Coraopolis|40.518|-80.167|US|Pennsylvania|75
+Swartz Creek|42.957|-83.831|US|Michigan|75
+Lake Fenton|42.846|-83.708|US|Michigan|75
+Waterville|41.501|-83.718|US|Ohio|75
+Canal Fulton|40.890|-81.598|US|Ohio|75
+Saint Clair|42.821|-82.486|US|Michigan|75
+Northwood|40.473|-83.732|US|Ohio|75
+Uhrichsville|40.393|-81.347|US|Ohio|75
+Ayr|43.283|-80.450|CA|Ontario|75
+Northwood|41.607|-83.469|US|Ohio|75
+Delhi|42.850|-80.500|CA|Ontario|75
+Grosse Pointe|42.386|-82.912|US|Michigan|74
+Eaton Rapids|42.509|-84.656|US|Michigan|74
+Chelsea|42.318|-84.022|US|Michigan|74
+Saint Clairsville|40.081|-80.900|US|Ohio|74
+Montrose-Ghent|41.154|-81.644|US|Ohio|74
+Chardon|41.614|-81.149|US|Ohio|74
+New Haven|43.094|-84.153|US|Michigan|74
+Sunbury|40.243|-82.859|US|Ohio|74
+Bridgeville|40.356|-80.110|US|Pennsylvania|74
+Apple Valley|40.439|-82.354|US|Ohio|74
+Breslau|43.467|-80.416|CA|Ontario|74
+Mount Forest|43.979|-80.722|CA|Ontario|74
+Frankenmuth|43.332|-83.738|US|Michigan|74
+Munroe Falls|41.145|-81.440|US|Ohio|74
+Bryn Mawr|40.304|-80.087|US|Pennsylvania|74
+Green Tree|40.412|-80.046|US|Pennsylvania|74
+Davison|43.035|-83.518|US|Michigan|74
+Utica|42.626|-83.034|US|Michigan|74
+Baden|43.400|-80.650|CA|Ontario|74
+Johnstown|40.154|-82.685|US|Ohio|74
+Meaford|44.607|-80.611|CA|Ontario|74
+Toronto|40.464|-80.601|US|Ohio|74
+Exeter|43.344|-81.479|CA|Ontario|74
+Wellington|41.169|-82.218|US|Ohio|74
+Farrell|41.212|-80.497|US|Pennsylvania|74
+Winchester|40.172|-84.981|US|Indiana|74
+Lexington|40.679|-82.582|US|Ohio|73
+Walkerton|44.130|-81.153|CA|Ontario|73
+Vandercook Lake|42.193|-84.391|US|Michigan|73
+New Haven|42.729|-82.801|US|Michigan|73
+Tilbury|42.267|-82.433|CA|Ontario|73
+Michigan Center|42.233|-84.327|US|Michigan|73
+DeWitt|42.842|-84.569|US|Michigan|73
+Newton Falls|41.188|-80.978|US|Ohio|73
+McMurray|40.278|-80.084|US|Pennsylvania|73
+Avalon|40.501|-80.068|US|Pennsylvania|73
+Rockwood|43.619|-80.144|CA|Ontario|73
+Huber Ridge|40.089|-82.917|US|Ohio|73
+East Palestine|40.834|-80.540|US|Ohio|73
+Gibraltar|42.095|-83.190|US|Michigan|73
+Coldwater|40.480|-84.628|US|Ohio|73
+Whitehouse|41.519|-83.804|US|Ohio|73
+Ottawa Hills|41.664|-83.643|US|Ohio|73
+Crestline|40.788|-82.737|US|Ohio|73
+Edgewood|41.873|-80.773|US|Ohio|73
+Beaver|40.695|-80.305|US|Pennsylvania|73
+Ottawa|41.019|-84.047|US|Ohio|73
+Archbold|41.521|-84.307|US|Ohio|73
+Wolverine Lake|42.557|-83.474|US|Michigan|73
+Plain City|40.108|-83.267|US|Ohio|73
+Sharpsville|41.259|-80.472|US|Pennsylvania|73
+Sebring|40.923|-81.019|US|Ohio|73
+Mount Carmel|41.271|-82.937|US|Ohio|72
+Bellaire|40.016|-80.742|US|Ohio|72
+Bluffton|40.895|-83.889|US|Ohio|72
+Marine City|42.719|-82.492|US|Michigan|72
+Lathrup Village|42.496|-83.223|US|Michigan|72
+Caro|43.491|-83.399|US|Michigan|72
+Berne|40.658|-84.952|US|Indiana|72
+Dexter|42.338|-83.890|US|Michigan|72
+Algonac|42.619|-82.532|US|Michigan|72
+Baden|40.635|-80.228|US|Pennsylvania|72
+Chagrin Falls|41.436|-81.386|US|Ohio|72
+Bloomfield Hills|42.584|-83.245|US|Michigan|72
+Dundee|41.957|-83.660|US|Michigan|72
+Montpelier|41.584|-84.606|US|Ohio|72
+Lawrence Park|42.152|-80.023|US|Pennsylvania|72
+Sheffield|41.421|-82.096|US|Ohio|72
+Reminderville|41.346|-81.395|US|Ohio|72
+Portland|42.869|-84.903|US|Michigan|72
+Mogadore|41.046|-81.398|US|Ohio|72
+Mineral Ridge|41.140|-80.769|US|Ohio|72
+Swanton|41.589|-83.891|US|Ohio|72
+Williamston|42.689|-84.283|US|Michigan|72
+Belleville|42.205|-83.485|US|Michigan|72
+Linden|42.814|-83.782|US|Michigan|72
+Lincoln Heights|40.771|-82.484|US|Ohio|72
+Sewickley|40.536|-80.184|US|Pennsylvania|72
+South Russell|41.431|-81.365|US|Ohio|72
+Greentown|40.928|-81.403|US|Ohio|72
+Wintersville|40.375|-80.704|US|Ohio|72
+Newcomerstown|40.272|-81.606|US|Ohio|72
+Calcutta|40.673|-80.576|US|Ohio|71
+Fort Shawnee|40.687|-84.138|US|Ohio|71
+Zelienople|40.795|-80.137|US|Pennsylvania|71
+Richfield|41.240|-81.638|US|Ohio|71
+Oakwood|41.365|-81.508|US|Ohio|71
+Minerva|40.730|-81.105|US|Ohio|71
+Mount Gilead|40.549|-82.827|US|Ohio|71
+Northfield|41.345|-81.528|US|Ohio|71
+Romeo|42.803|-83.013|US|Michigan|71
+Slippery Rock|41.064|-80.056|US|Pennsylvania|71
+Carey|40.953|-83.382|US|Ohio|71
+Imlay City|43.025|-83.078|US|Michigan|71
+Rochester|40.702|-80.286|US|Pennsylvania|71
+North Baltimore|41.183|-83.678|US|Ohio|71
+Oxford|42.825|-83.265|US|Michigan|71
+Thompsonville|40.291|-80.108|US|Pennsylvania|71
+West Monroe|41.914|-83.432|US|Michigan|71
+Paulding|41.138|-84.581|US|Ohio|71
+Ohioville|40.679|-80.495|US|Pennsylvania|71
+Hicksville|41.293|-84.762|US|Ohio|71
+Union City|40.202|-84.809|US|Indiana|71
+Houghton Lake|44.315|-84.765|US|Michigan|71
+Wellsville|40.603|-80.649|US|Ohio|71
+Corunna|42.982|-84.118|US|Michigan|71
+Mayfield|41.552|-81.439|US|Ohio|71
+Essexville|43.615|-83.842|US|Michigan|71
+Skidway Lake|44.183|-84.035|US|Michigan|71
+Brimfield|41.100|-81.347|US|Ohio|70
+Durand|42.912|-83.985|US|Michigan|70
+Mingo Junction|40.322|-80.610|US|Ohio|70
+Richville|40.751|-81.478|US|Ohio|70
+Uniontown|40.975|-81.408|US|Ohio|70
+Moreland Hills|41.448|-81.428|US|Ohio|70
+Greensburg|40.932|-81.465|US|Ohio|70
+Lordstown|41.166|-80.858|US|Ohio|70
+Fox Run|40.702|-80.083|US|Pennsylvania|70
+Ingram|40.446|-80.068|US|Pennsylvania|70
+Orange|41.450|-81.481|US|Ohio|70
+Cadiz|40.273|-80.997|US|Ohio|70
+Bainbridge|41.386|-81.340|US|Ohio|70
+Blissfield|41.833|-83.862|US|Michigan|70
+St. George|43.245|-80.251|CA|Ontario|70
+Sydenham|44.567|-80.800|CA|Ontario|70
+Wellesley|43.477|-80.762|CA|Ontario|70
+Franklin|42.522|-83.306|US|Michigan|70
+Wesleyville|42.140|-80.015|US|Pennsylvania|70
+Rockwood|42.071|-83.247|US|Michigan|70
+Madison|41.771|-81.050|US|Ohio|70
+McDonald|41.164|-80.724|US|Ohio|70
+Millersburg|40.555|-81.918|US|Ohio|70
+Carrollton|40.573|-81.086|US|Ohio|70
+Waterford|42.933|-80.283|CA|Ontario|70
+Delta|41.574|-84.005|US|Ohio|70
+Clinton|43.617|-81.533|CA|Ontario|70
+Walbridge|41.588|-83.493|US|Ohio|70
+Fairport Harbor|41.750|-81.274|US|Ohio|70
+Clare|43.819|-84.769|US|Michigan|70
+Doylestown|40.970|-81.697|US|Ohio|70
+Lake Orion|42.784|-83.240|US|Michigan|70
+Lakemore|41.021|-81.436|US|Ohio|70
+Jefferson|41.739|-80.770|US|Ohio|70
+Grand Bend|43.317|-81.750|CA|Ontario|70
+Keego Harbor|42.608|-83.344|US|Michigan|70
+Girard|42.000|-80.318|US|Pennsylvania|70
+Beechwood Trails|40.024|-82.651|US|Ohio|70
+Bad Axe|43.802|-83.001|US|Michigan|70
+Ridgetown|42.435|-81.887|CA|Ontario|70
+Ballville|41.328|-83.132|US|Ohio|69
+Hartville|40.964|-81.331|US|Ohio|69
+Lake City|42.014|-80.345|US|Pennsylvania|69
+Mount Morris|43.119|-83.695|US|Michigan|69
+New Bremen|40.437|-84.380|US|Ohio|69
+Tavistock|43.317|-80.833|CA|Ontario|69
+Kilmanagh|43.756|-83.357|US|Michigan|69
+Midland|40.259|-80.218|US|Pennsylvania|69
+Wingham|43.888|-81.311|CA|Ontario|69
+Fowlerville|42.661|-84.073|US|Michigan|69
+Wolfdale|40.193|-80.288|US|Pennsylvania|69
+Follansbee|40.328|-80.596|US|West Virginia|69
+Spring Arbor|42.205|-84.553|US|Michigan|69
+Gladwin|43.981|-84.486|US|Michigan|69
+Seven Fields|40.692|-80.063|US|Pennsylvania|69
+Minster|40.393|-84.376|US|Ohio|69
+North Kingsville|41.906|-80.690|US|Ohio|69
+Ithaca|43.292|-84.608|US|Michigan|69
+Pearl Beach|42.627|-82.598|US|Michigan|69
+Dundalk|44.168|-80.394|CA|Ontario|69
+Lodi|41.033|-82.012|US|Ohio|69
+East Tawas|44.279|-83.490|US|Michigan|69
+McGovern|40.229|-80.216|US|Pennsylvania|69
+Lisbon|40.772|-80.768|US|Ohio|69
+Almont|42.921|-83.045|US|Michigan|69
+Oak Harbor|41.507|-83.147|US|Ohio|69
+Wellsburg|40.272|-80.610|US|West Virginia|69
+Butler|41.430|-84.871|US|Indiana|69
+Middlefield|41.462|-81.074|US|Ohio|69
+Seaforth|43.550|-81.400|CA|Ontario|69
+Strasburg|40.595|-81.527|US|Ohio|69
+Burlington|41.572|-84.308|US|Ohio|69
+Saint Helen|44.364|-84.410|US|Michigan|69
+Mount Brydges|42.900|-81.483|CA|Ontario|68
+Versailles|40.223|-84.484|US|Ohio|68
+Dennison|40.393|-81.334|US|Ohio|68
+Covington|40.117|-84.354|US|Ohio|68
+Loudonville|40.635|-82.233|US|Ohio|68
+Thamesford|43.057|-80.999|CA|Ontario|68
+Vassar|43.372|-83.583|US|Michigan|68
+Potterville|42.629|-84.739|US|Michigan|68
+Sandusky|43.420|-82.830|US|Michigan|68
+Hooverson Heights|40.325|-80.578|US|West Virginia|68
+Midland|40.633|-80.446|US|Pennsylvania|68
+Gibsonburg|41.385|-83.320|US|Ohio|68
+Harrow|42.033|-82.917|CA|Ontario|68
+Pleasant Ridge|42.471|-83.142|US|Michigan|68
+Imperial|40.450|-80.245|US|Pennsylvania|68
+Lucan|43.183|-81.400|CA|Ontario|68
+Cambridge Springs|41.804|-80.056|US|Pennsylvania|68
+Clio|43.178|-83.734|US|Michigan|68
+Argentine|42.791|-83.846|US|Michigan|68
+Bentleyville|40.117|-80.008|US|Pennsylvania|68
+Silver Lake|41.159|-81.454|US|Ohio|68
+Chesterland|41.522|-81.338|US|Ohio|68
+Delaware|42.917|-81.416|CA|Ontario|68
+Muse|40.293|-80.200|US|Pennsylvania|68
+Chester|40.613|-80.563|US|West Virginia|68
+Fredericktown|40.481|-82.541|US|Ohio|68
+Poland|41.024|-80.615|US|Ohio|68
+Cecil-Bishop|40.318|-80.193|US|Pennsylvania|68
+Gambier|40.376|-82.397|US|Ohio|68
+Pinckney|42.457|-83.948|US|Michigan|68
+Forest|43.100|-82.000|CA|Ontario|68
+Saint Henry|40.418|-84.640|US|Ohio|68
+Bethlehem|40.044|-80.691|US|West Virginia|68
+Emsworth|40.510|-80.094|US|Pennsylvania|68
+Conneaut Lakeshore|41.627|-80.310|US|Pennsylvania|68
+New London|41.085|-82.400|US|Ohio|68
+Edgemont Park|42.747|-84.594|US|Michigan|67
+Cass City|43.601|-83.175|US|Michigan|67
+Fairview|42.031|-80.255|US|Pennsylvania|67
+Wyoming|42.950|-82.117|CA|Ontario|67
+Seville|41.010|-81.862|US|Ohio|67
+Carleton|42.059|-83.391|US|Michigan|67
+Croswell|43.276|-82.621|US|Michigan|67
+Colchester|41.983|-82.933|CA|Ontario|67
+Genoa|40.783|-81.467|US|Ohio|67
+Garrettsville|41.284|-81.096|US|Ohio|67
+Genoa|41.518|-83.359|US|Ohio|67
+Chesaning|43.185|-84.115|US|Michigan|67
+West Lafayette|40.275|-81.751|US|Ohio|67
+Camden|41.238|-82.306|US|Ohio|67
+Richwood|40.426|-83.297|US|Ohio|67
+West Hill|41.233|-80.519|US|Ohio|67
+Clinton|42.072|-83.972|US|Michigan|67
+Oakwood|41.011|-80.380|US|Pennsylvania|67
+Pymatuning Central|41.585|-80.480|US|Pennsylvania|67
+Ilderton|43.079|-81.381|CA|Ontario|67
+Orchard Lake|42.583|-83.359|US|Michigan|67
+Walton Hills|41.366|-81.561|US|Ohio|67
+Hudson|41.855|-84.354|US|Michigan|67
+Gates Mills|41.518|-81.403|US|Ohio|67
+Sugarcreek|40.503|-81.641|US|Ohio|67
+New Wilmington|41.122|-80.333|US|Pennsylvania|67
+Jonesville|41.984|-84.662|US|Michigan|67
+Windham|41.235|-81.049|US|Ohio|67
+Spencerville|40.709|-84.354|US|Ohio|67
+Utica|40.234|-82.451|US|Ohio|67
+Morenci|41.719|-84.218|US|Michigan|67
+Creston|40.987|-81.894|US|Ohio|67
+Brewster|40.707|-81.598|US|Ohio|67
+Glendale|41.397|-81.542|US|Ohio|67
+Fremont|41.731|-84.933|US|Indiana|67
+Conway|40.660|-80.239|US|Pennsylvania|67
+Churchill|41.162|-80.665|US|Ohio|67
+Port Stanley|42.667|-81.216|CA|Ontario|67
+Manchester|42.150|-84.038|US|Michigan|67
+Glencoe|42.750|-81.716|CA|Ontario|67
+Auburn|43.603|-84.070|US|Michigan|66
+Harrison|44.019|-84.799|US|Michigan|66
+Lagrange|41.237|-82.120|US|Ohio|66
+Perry|42.826|-84.219|US|Michigan|66
+Newburgh Heights|41.450|-81.663|US|Ohio|66
+McDonald|40.371|-80.235|US|Pennsylvania|66
+Bolindale|41.207|-80.778|US|Ohio|66
+Saint Paris|40.128|-83.960|US|Ohio|66
+Detroit Beach|41.931|-83.327|US|Michigan|66
+Bath|42.819|-84.449|US|Michigan|66
+Woodville|41.451|-83.366|US|Ohio|66
+West Branch|44.276|-84.239|US|Michigan|66
+Masury|41.211|-80.538|US|Ohio|66
+Columbus Grove|40.919|-84.057|US|Ohio|66
+Reynolds Heights|41.345|-80.394|US|Pennsylvania|66
+Saint Charles|43.297|-84.141|US|Michigan|66
+Centerburg|40.305|-82.696|US|Ohio|66
+Woodland Beach|41.940|-83.313|US|Michigan|66
+Manchester|40.937|-81.569|US|Ohio|66
+Cardington|40.501|-82.894|US|Ohio|66
+Leipsic|41.098|-83.985|US|Ohio|66
+Manitou Beach-Devils Lake|41.976|-84.286|US|Michigan|66
+Valley View|41.388|-81.605|US|Ohio|66
+Wiarton|44.742|-81.140|CA|Ontario|66
+Glenmoor|40.666|-80.623|US|Ohio|66
+Edgerton|41.449|-84.748|US|Ohio|66
+Leavittsburg|41.248|-80.877|US|Ohio|66
+East Washington|40.174|-80.238|US|Pennsylvania|66
+St. Jacobs|43.532|-80.557|CA|Ontario|66
+Mercer|41.227|-80.240|US|Pennsylvania|66
+Big Beaver|40.825|-80.363|US|Pennsylvania|66
+Navarre|40.724|-81.522|US|Ohio|66
+Yale|43.130|-82.798|US|Michigan|66
+Leetonia|40.877|-80.755|US|Ohio|66
+Walpole Island|42.615|-82.514|CA|Ontario|65
+Bellville|40.620|-82.511|US|Ohio|65
+Leslie|42.451|-84.432|US|Michigan|65
+Elida|40.789|-84.204|US|Ohio|65
+Dalton|40.799|-81.695|US|Ohio|65
+Capac|43.013|-82.928|US|Michigan|65
+Bradford|40.132|-84.431|US|Ohio|65
+Grayling|44.661|-84.715|US|Michigan|65
+Goodrich|42.917|-83.506|US|Michigan|65
+Cridersville|40.654|-84.151|US|Ohio|65
+Mio|44.652|-84.130|US|Michigan|65
+Plymouth|40.996|-82.667|US|Ohio|65
+Marlette|43.327|-83.080|US|Michigan|65
+Harriston|43.912|-80.872|CA|Ontario|65
+Bridgeport|40.070|-80.740|US|Ohio|65
+Industry|40.645|-80.416|US|Pennsylvania|65
+Tawas City|44.269|-83.515|US|Michigan|65
+Sylvan Lake|42.611|-83.329|US|Michigan|65
+Deshler|41.208|-83.899|US|Ohio|65
+Ben Avon|40.508|-80.083|US|Pennsylvania|65
+West Liberty|40.252|-83.756|US|Ohio|65
+Evans City|40.769|-80.063|US|Pennsylvania|65
+Armada|42.844|-82.884|US|Michigan|65
+Parkhill|43.160|-81.685|CA|Ontario|65
+Stony Point|41.941|-83.265|US|Michigan|65
+Sturgeon|40.385|-80.211|US|Pennsylvania|65
+Dresden|40.121|-82.011|US|Ohio|65
+Holland|41.622|-83.712|US|Ohio|65
+Antwerp|41.181|-84.741|US|Ohio|65
+Sebewaing|43.732|-83.451|US|Michigan|65
+Prudenville|44.298|-84.652|US|Michigan|65
+Edgeworth|40.551|-80.193|US|Pennsylvania|64
+South Amherst|41.356|-82.254|US|Ohio|64
+Mars|40.696|-80.012|US|Pennsylvania|64
+Lake Isabella|43.644|-84.997|US|Michigan|64
+Lake Mohawk|40.667|-81.199|US|Ohio|64
+West Unity|41.586|-84.435|US|Ohio|64
+McComb|41.108|-83.793|US|Ohio|64
+Oak Hill|40.414|-82.241|US|Ohio|64
+South Rockwood|42.064|-83.261|US|Michigan|64
+Quincy|41.944|-84.884|US|Michigan|64
+Weston|41.345|-83.797|US|Ohio|64
+Harbor Beach|43.845|-82.651|US|Michigan|64
+Harlan|41.196|-84.920|US|Indiana|64
+Homer|42.146|-84.809|US|Michigan|64
+Perry|41.760|-81.141|US|Ohio|64
+Union City|40.199|-84.804|US|Ohio|64
+Burford|43.103|-80.429|CA|Ontario|64
+Ovid|43.006|-84.372|US|Michigan|64
+Woodburn|41.125|-84.853|US|Indiana|64
+Olivet|42.441|-84.924|US|Michigan|64
+Orwell|41.535|-80.868|US|Ohio|64
+East Canton|40.787|-81.283|US|Ohio|64
+Mechanicsburg|40.072|-83.556|US|Ohio|64
+West Liberty|40.170|-80.594|US|West Virginia|64
+Montrose|43.177|-83.893|US|Michigan|64
+Zilwaukee|43.476|-83.921|US|Michigan|64
+New Middletown|40.961|-80.558|US|Ohio|64
+Oakland|40.990|-80.370|US|Pennsylvania|64
+Kalida|40.983|-84.199|US|Ohio|64
+Anna|40.394|-84.173|US|Ohio|64
+Hamilton|41.534|-84.913|US|Indiana|64
+Sawyerwood|41.038|-81.441|US|Ohio|64
+McGregor|42.150|-82.967|CA|Ontario|64
+Watford|42.950|-81.883|CA|Ontario|64
+Freedom|40.686|-80.252|US|Pennsylvania|64
+Curtice|41.618|-83.368|US|Ohio|64
+Shepherd|43.524|-84.695|US|Michigan|64
+Ohsweken|43.067|-80.116|CA|Ontario|64
+Shreve|40.681|-82.022|US|Ohio|64
+Fort Loramie|40.351|-84.374|US|Ohio|63
+West Salem|40.971|-82.110|US|Ohio|63
+Brilliant|40.265|-80.626|US|Ohio|63
+Birch Run|43.251|-83.794|US|Michigan|63
+Roaming Shores|41.643|-80.823|US|Ohio|63
+Oakdale|40.398|-80.186|US|Pennsylvania|63
+Albion|41.891|-80.366|US|Pennsylvania|63
+Hemlock|43.415|-84.231|US|Michigan|63
+Ortonville|42.852|-83.443|US|Michigan|63
+Burton|41.471|-81.145|US|Ohio|63
+Arlington|40.894|-83.650|US|Ohio|63
+Jackson Center|40.439|-84.040|US|Ohio|63
+Standish|43.983|-83.959|US|Michigan|63
+New Beaver|40.876|-80.371|US|Pennsylvania|63
+North Lewisburg|40.223|-83.557|US|Ohio|63
+Forest|40.802|-83.510|US|Ohio|63
+Wacousta|42.828|-84.701|US|Michigan|63
+Fort Recovery|40.413|-84.776|US|Ohio|63
+Greenwich|41.030|-82.516|US|Ohio|63
+Pemberville|41.411|-83.461|US|Ohio|63
+Sand Lake|44.319|-83.685|US|Michigan|63
+New California|40.156|-83.237|US|Ohio|63
+Reese|43.451|-83.696|US|Michigan|63
+Au Sable|44.411|-83.332|US|Michigan|63
+Pioneer|41.680|-84.553|US|Ohio|63
+Bell Acres|40.590|-80.166|US|Pennsylvania|63
+Stoney Point/Pointe-aux-Roches|42.305|-82.549|CA|Ontario|63
+Elmore|41.476|-83.296|US|Ohio|63
+Lewiston|44.884|-84.306|US|Michigan|63
+Luna Pier|41.807|-83.442|US|Michigan|63
+Newell|40.618|-80.604|US|West Virginia|63
+Monroeville|41.244|-82.696|US|Ohio|63
+Plattsville|43.308|-80.616|CA|Ontario|63
+Ashley|40.409|-82.955|US|Ohio|63
+Benwood|40.018|-80.734|US|West Virginia|63
+Russells Point|40.471|-83.893|US|Ohio|63
+Burgettstown|40.382|-80.393|US|Pennsylvania|63
+Litchfield|42.044|-84.757|US|Michigan|63
+Milan|41.298|-82.605|US|Ohio|63
+West Lorne|42.600|-81.600|CA|Ontario|63
+Green Springs|41.256|-83.052|US|Ohio|62
+Monroeville|40.975|-84.868|US|Indiana|62
+Frazeysburg|40.117|-82.119|US|Ohio|62
+Geneva|40.592|-84.957|US|Indiana|62
+Tiltonsville|40.167|-80.700|US|Ohio|62
+Minerva Park|40.076|-82.944|US|Ohio|62
+Stryker|41.504|-84.414|US|Ohio|62
+Breckenridge|43.408|-84.475|US|Michigan|62
+Boston Heights|41.265|-81.513|US|Ohio|62
+Gnadenhutten|40.358|-81.434|US|Ohio|62
+Stony Prairie|41.345|-83.141|US|Ohio|62
+Laingsburg|42.890|-84.351|US|Michigan|62
+Brown City|43.212|-82.990|US|Michigan|62
+Webberville|42.667|-84.174|US|Michigan|62
+Salineville|40.623|-80.838|US|Ohio|62
+Pinconning|43.854|-83.965|US|Michigan|62
+Smithville|40.862|-81.862|US|Ohio|62
+Fayette|41.673|-84.327|US|Ohio|62
+Houston|40.246|-80.211|US|Pennsylvania|62
+De Graff|40.312|-83.916|US|Ohio|62
+Hiram|41.313|-81.144|US|Ohio|62
+Napoleon|42.161|-84.246|US|Michigan|62
+Millbury|41.566|-83.425|US|Ohio|62
+Bethesda|40.016|-81.073|US|Ohio|62
+Dimondale|42.646|-84.649|US|Michigan|62
+St. Clements|43.517|-80.650|CA|Ontario|62
+Wolfhurst|40.069|-80.784|US|Ohio|62
+Haskins|41.465|-83.706|US|Ohio|62
+Stockbridge|42.451|-84.181|US|Michigan|62
+Heidelberg|40.392|-80.091|US|Pennsylvania|62
+Burt|43.237|-83.906|US|Michigan|62
+Fowler|43.002|-84.740|US|Michigan|62
+Morgandale|41.266|-80.783|US|Ohio|62
+Eaton Estates|41.309|-82.006|US|Ohio|62
+Mildmay|44.043|-81.119|CA|Ontario|62
+Pleasant Hill|40.052|-84.344|US|Ohio|62
+Markdale|44.317|-80.650|CA|Ontario|62
+Clinton|40.927|-81.630|US|Ohio|62
+West Mayfield|40.780|-80.338|US|Pennsylvania|62
+Brookfield Center|41.241|-80.558|US|Ohio|62
+Avonia|42.046|-80.270|US|Pennsylvania|62
+Coleman|43.757|-84.586|US|Michigan|62
+New Waterford|40.845|-80.615|US|Ohio|62
+Avoca|43.062|-82.691|US|Michigan|62
+Leetsdale|40.563|-80.208|US|Pennsylvania|62
+Brooklyn|42.106|-84.248|US|Michigan|62
+Apple Creek|40.752|-81.839|US|Ohio|61
+Memphis|42.896|-82.769|US|Michigan|61
+New Dundee|43.351|-80.537|CA|Ontario|61
+Bradford Woods|40.638|-80.082|US|Pennsylvania|61
+Bratenahl|41.543|-81.626|US|Ohio|61
+Grass Lake|42.251|-84.213|US|Michigan|61
+Pigeon|43.830|-83.270|US|Michigan|61
+Brussels|43.743|-81.250|CA|Ontario|61
+Malvern|40.692|-81.181|US|Ohio|61
+Payne|41.078|-84.727|US|Ohio|61
+Liberty Center|41.443|-84.009|US|Ohio|61
+Lucknow|43.961|-81.513|CA|Ontario|61
+Botkins|40.468|-84.180|US|Ohio|61
+Ansonia|40.214|-84.637|US|Ohio|61
+Rennerdale|40.398|-80.141|US|Pennsylvania|61
+Pandora|40.948|-83.961|US|Ohio|61
+La Croft|40.646|-80.598|US|Ohio|61
+Craig Beach|41.117|-80.983|US|Ohio|61
+Ellport|40.864|-80.259|US|Pennsylvania|61
+Belmont|42.883|-81.083|CA|Ontario|61
+Prospect|40.905|-80.046|US|Pennsylvania|61
+Westfield Center|41.026|-81.933|US|Ohio|61
+Bingham Farms|42.516|-83.273|US|Michigan|61
+Hanover|40.080|-82.261|US|Ohio|61
+Petersburg|41.901|-83.715|US|Michigan|61
+Lexington|43.268|-82.531|US|Michigan|61
+Grabill|41.211|-84.967|US|Indiana|61
+Hensall|43.433|-81.500|CA|Ontario|61
+Andover|41.607|-80.572|US|Ohio|61
+Continental|41.100|-84.266|US|Ohio|61
+Cochranton|41.520|-80.048|US|Pennsylvania|61
+Lowellville|41.035|-80.536|US|Ohio|61
+Rockford|40.688|-84.647|US|Ohio|61
+Port Rowan|42.617|-80.466|CA|Ontario|61
+Rockford|40.477|-81.308|US|Ohio|61
+South Canal|41.177|-80.987|US|Ohio|61
+Holgate|41.249|-84.133|US|Ohio|61
+Barnes Lake-Millers Lake|43.180|-83.312|US|Michigan|61
+Carson City|43.177|-84.846|US|Michigan|61
+Bessemer|40.975|-80.494|US|Pennsylvania|61
+Prospect|40.450|-83.189|US|Ohio|61
+Convoy|40.917|-84.703|US|Ohio|61
+New Cumberland|40.497|-80.607|US|West Virginia|61
+Roscommon|44.498|-84.592|US|Michigan|61
+McKinley Heights|41.184|-80.717|US|Ohio|61
+Reading|41.839|-84.748|US|Michigan|60
+Tuscarawas|40.395|-81.407|US|Ohio|60
+Lynn|40.050|-84.940|US|Indiana|60
+Concord|42.178|-84.643|US|Michigan|60
+Luckey|41.451|-83.487|US|Ohio|60
+Beaverton|43.882|-84.485|US|Michigan|60
+Lakeview|40.485|-83.923|US|Ohio|60
+Paisley|44.306|-81.273|CA|Ontario|60
+Yorkville|40.155|-80.710|US|Ohio|60
+Jarvis|42.886|-80.112|CA|Ontario|60
+Millington|43.281|-83.530|US|Michigan|60
+Clarkston|42.736|-83.419|US|Michigan|60
+Heidelberg|43.517|-80.616|CA|Ontario|60
+Wakeman|41.255|-82.400|US|Ohio|60
+Bethany|40.206|-80.557|US|West Virginia|60
+North Branch|43.229|-83.197|US|Michigan|60
+Mantua|41.284|-81.224|US|Ohio|60
+Bradner|41.324|-83.439|US|Ohio|60
+Danville|40.448|-82.260|US|Ohio|60
+Stoneboro|41.339|-80.105|US|Pennsylvania|60
+Enlow|40.454|-80.233|US|Pennsylvania|60
+Lake Latonka|41.290|-80.181|US|Pennsylvania|60
+Beach City|40.653|-81.581|US|Ohio|60
+Mantua|40.078|-81.679|US|Ohio|60
+North Randall|41.435|-81.526|US|Ohio|60
+Glandorf|41.029|-84.079|US|Ohio|60
+Hubbard Lake|44.760|-83.544|US|Michigan|60
+Mannheim|43.398|-80.545|CA|Ontario|60
+Harrisville|44.656|-83.295|US|Michigan|53

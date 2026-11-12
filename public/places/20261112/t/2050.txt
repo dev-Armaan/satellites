@@ -1,0 +1,474 @@
+Dublin|53.333|-6.249|IE|Leinster|120
+Belfast|54.597|-5.925|GB|Northern Ireland|111
+Cork|51.898|-8.471|IE|Munster|107
+Limerick|52.665|-8.623|IE|Munster|100
+Galway|53.272|-9.051|IE|Connacht|99
+Derry|54.998|-7.309|GB|Northern Ireland|98
+Tallaght|53.286|-6.373|IE|Leinster|98
+Lisburn|54.523|-6.035|GB|Northern Ireland|98
+Newtownabbey|54.660|-5.909|GB|Northern Ireland|96
+Bangor|54.661|-5.668|GB|Northern Ireland|96
+Waterford|52.258|-7.112|IE|Munster|96
+Craigavon|54.447|-6.387|GB|Northern Ireland|95
+Castlereagh|54.574|-5.885|GB|Northern Ireland|95
+Drogheda|53.719|-6.348|IE|Leinster|93
+Dundalk|54.000|-6.417|IE|Leinster|93
+Redruth|50.233|-5.224|GB|England|93
+Swords|53.460|-6.218|IE|Leinster|92
+Navan|53.653|-6.681|IE|Leinster|91
+Bray|53.203|-6.098|IE|Leinster|91
+Portadown|54.423|-6.444|GB|Northern Ireland|90
+Falmouth|50.154|-5.071|GB|England|90
+Dún Laoghaire|53.294|-6.136|IE|Leinster|90
+Newtownards|54.592|-5.691|GB|Northern Ireland|89
+Carrickfergus|54.716|-5.806|GB|Northern Ireland|89
+Ballymena|54.864|-6.276|GB|Northern Ireland|89
+Ennis|52.844|-8.986|IE|Munster|89
+Newry|54.178|-6.337|GB|Northern Ireland|89
+Carlow|52.841|-6.926|IE|Leinster|89
+Douglas|51.874|-8.435|IE|Munster|89
+Tralee|52.270|-9.703|IE|Munster|88
+Portlaoise|53.034|-7.300|IE|Leinster|87
+Truro|50.265|-5.054|GB|England|87
+Athlone|53.423|-7.937|IE|Leinster|87
+Droichead Nua|53.182|-6.797|IE|Leinster|87
+An Muileann gCearr|53.525|-7.338|IE|Leinster|87
+Letterkenny|54.950|-7.733|IE|Ulster|87
+Sandyford|53.275|-6.225|IE|Leinster|87
+Greystones|53.141|-6.063|IE|Leinster|87
+Balbriggan|53.608|-6.183|IE|Leinster|87
+Kilkenny|52.654|-7.252|IE|Leinster|87
+Wexford|52.334|-6.457|IE|Leinster|87
+Omagh|54.600|-7.300|GB|Northern Ireland|86
+Naas|53.216|-6.667|IE|Leinster|86
+Sligo|54.270|-8.469|IE|Connacht|86
+Camborne|50.213|-5.297|GB|England|86
+Celbridge|53.342|-6.544|IE|Leinster|86
+Newquay|50.416|-5.073|GB|England|86
+Penzance|50.119|-5.537|GB|England|86
+Finglas|53.389|-6.297|IE|Leinster|86
+Antrim|54.718|-6.211|GB|Northern Ireland|86
+Ballincollig|51.883|-8.583|IE|Munster|85
+Larne|54.850|-5.817|GB|Northern Ireland|85
+Cluain Meala|52.355|-7.704|IE|Munster|85
+Carrigaline|51.812|-8.399|IE|Munster|85
+Rathfarnham|53.301|-6.283|IE|Leinster|85
+Maynooth|53.385|-6.594|IE|Leinster|85
+Malahide|53.451|-6.154|IE|Leinster|84
+Blanchardstown|53.388|-6.376|IE|Leinster|84
+Banbridge|54.350|-6.283|GB|Northern Ireland|84
+Tullamore|53.274|-7.489|IE|Leinster|84
+Leixlip|53.366|-6.496|IE|Leinster|84
+Lucan|53.357|-6.449|IE|Leinster|84
+Kilquade|53.097|-6.084|IE|Leinster|83
+Armagh|54.350|-6.667|GB|Northern Ireland|83
+Castletroy|52.673|-8.553|IE|Munster|83
+Knocklyon|53.280|-6.331|IE|Leinster|83
+Clondalkin|53.324|-6.397|IE|Leinster|83
+Killarney|52.060|-9.509|IE|Munster|83
+Enniskillen|54.346|-7.641|GB|Northern Ireland|83
+Shankill|53.226|-6.124|IE|Leinster|83
+Strabane|54.824|-7.469|GB|Northern Ireland|83
+Cobh|51.850|-8.295|IE|Munster|83
+Dundonald|54.592|-5.798|GB|Northern Ireland|83
+Milford Haven|51.713|-5.034|GB|Wales|83
+Mallow|52.133|-8.633|IE|Munster|83
+Arklow|52.794|-6.150|IE|Leinster|83
+Holywood|54.639|-5.825|GB|Northern Ireland|82
+Castlebar|53.850|-9.300|IE|Connacht|82
+Wicklow|52.975|-6.049|IE|Leinster|82
+Foxrock|53.267|-6.174|IE|Leinster|82
+Ashbourne|53.512|-6.398|IE|Leinster|82
+Midleton|51.915|-8.181|IE|Munster|82
+Dundrum|53.291|-6.257|IE|Leinster|82
+Dungannon|54.503|-6.767|GB|Northern Ireland|82
+Cavan|53.991|-7.361|IE|Ulster|81
+Helston|50.103|-5.270|GB|England|81
+Crumlin|53.322|-6.314|IE|Leinster|81
+Palmerstown|53.350|-6.378|IE|Leinster|81
+Cookstown|54.643|-6.746|GB|Northern Ireland|81
+Longford|53.725|-7.798|IE|Leinster|81
+Laytown|53.682|-6.239|IE|Leinster|81
+Jobstown|53.279|-6.408|IE|Leinster|81
+Donnybrook|53.314|-6.223|IE|Leinster|81
+Ballina|54.117|-9.167|IE|Connacht|80
+Stranraer|54.902|-5.027|GB|Scotland|80
+Downpatrick|54.328|-5.715|GB|Northern Ireland|80
+Trá Mhór|52.162|-7.152|IE|Munster|80
+Shannon|52.704|-8.864|IE|Munster|80
+Skerries|53.581|-6.107|IE|Leinster|80
+Cabinteely|53.270|-6.161|IE|Leinster|80
+Nenagh|52.863|-8.200|IE|Munster|80
+Gorey|52.675|-6.293|IE|Leinster|80
+Oldbawn|53.276|-6.367|IE|Leinster|80
+Enniscorthy|52.501|-6.558|IE|Leinster|80
+Athy|52.991|-6.980|IE|Leinster|80
+Tuam|53.517|-8.850|IE|Connacht|80
+Ballyboden|53.281|-6.316|IE|Leinster|80
+Trim|53.555|-6.792|IE|Leinster|80
+Ballyclare|54.751|-5.999|GB|Northern Ireland|80
+Portmarnock|53.423|-6.138|IE|Leinster|79
+An Ros|53.524|-6.105|IE|Leinster|79
+Comber|54.549|-5.744|GB|Northern Ireland|79
+Magherafelt|54.754|-6.607|GB|Northern Ireland|79
+Balally|53.275|-6.236|IE|Leinster|79
+Ratoath|53.508|-6.463|IE|Leinster|79
+Sandymount|53.328|-6.222|IE|Leinster|79
+Glanmire|51.916|-8.400|IE|Munster|79
+Blackrock|53.301|-6.178|IE|Leinster|79
+Kildare|53.156|-6.914|IE|Leinster|79
+Beaumont|53.387|-6.227|IE|Leinster|79
+Ballyfermot|53.343|-6.355|IE|Leinster|79
+Rathgar|53.315|-6.275|IE|Leinster|78
+Castleknock|53.375|-6.363|IE|Leinster|78
+Howth|53.388|-6.065|IE|Leinster|78
+Hayle|50.184|-5.421|GB|England|78
+Baldoyle|53.396|-6.128|IE|Leinster|78
+New Ross|52.397|-6.937|IE|Leinster|78
+Youghal|51.950|-7.851|IE|Munster|78
+Thurles|52.682|-7.802|IE|Munster|78
+Monaghan|54.246|-6.971|IE|Ulster|78
+Carryduff|54.518|-5.887|GB|Northern Ireland|78
+Portarlington|53.162|-7.191|IE|Leinster|78
+Lusk|53.527|-6.164|IE|Leinster|78
+Terenure|53.310|-6.285|IE|Leinster|78
+Warrenpoint|54.101|-6.257|GB|Northern Ireland|78
+Dungarvan|52.088|-7.625|IE|Munster|78
+Newcastle|54.218|-5.890|GB|Northern Ireland|77
+Donabate|53.487|-6.152|IE|Leinster|77
+Donaghadee|54.641|-5.536|GB|Northern Ireland|77
+Edenderry|53.339|-7.048|IE|Leinster|77
+Penryn|50.168|-5.104|GB|England|77
+Clane|53.291|-6.689|IE|Leinster|77
+Dunboyne|53.419|-6.474|IE|Leinster|77
+Raheny|53.387|-6.181|IE|Leinster|77
+Bandon|51.747|-8.742|IE|Munster|77
+Sallynoggin|53.279|-6.141|IE|Leinster|77
+Firhouse|53.282|-6.339|IE|Leinster|77
+Walkinstown|53.330|-6.340|IE|Leinster|77
+Ballinasloe|53.328|-8.219|IE|Connacht|76
+Dalkey|53.278|-6.100|IE|Leinster|76
+Newcastle West|52.449|-9.061|IE|Munster|76
+Fermoy|52.136|-8.276|IE|Munster|76
+Roscommon|53.633|-8.183|IE|Connacht|76
+Dromore|54.414|-6.149|GB|Northern Ireland|76
+Kilkeel|54.062|-6.003|GB|Northern Ireland|76
+Cherryville|53.157|-6.967|IE|Leinster|76
+Coalisland|54.542|-6.702|GB|Northern Ireland|76
+Ballymun|53.398|-6.267|IE|Leinster|76
+Westport|53.800|-9.517|IE|Connacht|76
+Hartstown|53.393|-6.427|IE|Leinster|75
+Passage West|51.871|-8.335|IE|Munster|75
+Kinsealy-Drinan|53.444|-6.203|IE|Leinster|75
+Carrick-on-Suir|52.349|-7.413|IE|Munster|75
+Birr|53.091|-7.913|IE|Leinster|75
+Ballynahinch|54.402|-5.897|GB|Northern Ireland|75
+Sutton|53.389|-6.111|IE|Leinster|75
+Dromore|54.513|-7.459|GB|Northern Ireland|75
+Loughrea|53.197|-8.567|IE|Connacht|75
+Monkstown|53.293|-6.153|IE|Leinster|75
+Kilcock|53.402|-6.671|IE|Leinster|75
+Blessington|53.170|-6.532|IE|Leinster|75
+Jordanstown|54.683|-5.900|GB|Northern Ireland|75
+Roscrea|52.951|-7.802|IE|Munster|75
+St Ives|50.209|-5.487|GB|England|75
+Confey|53.379|-6.491|IE|Leinster|75
+Randalstown|54.750|-6.300|GB|Northern Ireland|75
+Eadestown|53.203|-6.578|IE|Leinster|75
+Artane|53.387|-6.214|IE|Leinster|75
+Chapelizod|53.348|-6.343|IE|Leinster|74
+Sallins|53.249|-6.666|IE|Leinster|74
+Kinsale|51.708|-8.531|IE|Munster|74
+Crumlin|54.621|-6.214|GB|Northern Ireland|74
+Killester|53.373|-6.204|IE|Leinster|74
+Carrigtwohill|51.908|-8.263|IE|Munster|74
+Greenisland|54.701|-5.875|GB|Northern Ireland|74
+Dollymount|53.365|-6.180|IE|Leinster|74
+Carrickmacross|53.973|-6.719|IE|Ulster|74
+Blackrock|53.964|-6.365|IE|Leinster|74
+Oranmore|53.268|-8.920|IE|Connacht|74
+Tipperary|52.473|-8.156|IE|Munster|74
+Ardee|53.860|-6.541|IE|Leinster|74
+Ballybofey|54.800|-7.783|IE|Ulster|74
+Kells|53.726|-6.879|IE|Leinster|74
+Listowel|52.446|-9.485|IE|Munster|74
+Carrick-on-Shannon|53.947|-8.090|IE|Connacht|74
+Tullow|52.800|-6.737|IE|Leinster|73
+Clonakilty|51.623|-8.871|IE|Munster|73
+Bayside|53.389|-6.140|IE|Leinster|73
+Drumcondra|53.371|-6.253|IE|Leinster|73
+Moyross|52.682|-8.640|IE|Munster|73
+Athenry|53.296|-8.743|IE|Connacht|73
+Cashel|52.516|-7.886|IE|Munster|73
+Cabra|53.367|-6.294|IE|Leinster|73
+Monasterevin|53.141|-7.066|IE|Leinster|73
+Kilcoole|53.103|-6.065|IE|Leinster|73
+Duleek|53.657|-6.419|IE|Leinster|73
+Moira|54.480|-6.228|GB|Northern Ireland|72
+Maghera|54.844|-6.671|GB|Northern Ireland|72
+Dunshaughlin|53.513|-6.540|IE|Leinster|72
+Charleville|52.350|-8.683|IE|Munster|72
+Hillsborough|54.463|-6.077|GB|Northern Ireland|72
+Mulhuddart|53.404|-6.401|IE|Leinster|72
+Fairview|53.366|-6.240|IE|Leinster|72
+Macroom|51.907|-8.970|IE|Munster|72
+Cairnryan|54.971|-5.020|GB|Scotland|71
+Mitchelstown|52.266|-8.268|IE|Munster|71
+Kilcullen|53.130|-6.744|IE|Leinster|71
+Whitehead|54.754|-5.709|GB|Northern Ireland|71
+Claremorris|53.717|-9.000|IE|Connacht|71
+Loughlinstown|53.244|-6.133|IE|Leinster|71
+Ahoghill|54.867|-6.367|GB|Northern Ireland|71
+Glasnevin|53.379|-6.280|IE|Leinster|71
+Castleblayney|54.117|-6.733|IE|Ulster|71
+Cahir|52.377|-7.922|IE|Munster|71
+Courtown|52.644|-6.229|IE|Leinster|71
+Mountmellick|53.114|-7.320|IE|Leinster|71
+Rathcoole|53.283|-6.473|IE|Leinster|71
+Tower|51.926|-8.607|IE|Munster|71
+New Buildings|54.960|-7.356|GB|Northern Ireland|71
+Stamullin|53.629|-6.268|IE|Leinster|71
+Kill|53.251|-6.592|IE|Leinster|70
+Dungiven|54.933|-6.917|GB|Northern Ireland|70
+Saintfield|54.460|-5.831|GB|Northern Ireland|70
+Clara|53.343|-7.614|IE|Leinster|70
+Enfield|53.414|-6.832|IE|Leinster|70
+Perranporth|50.344|-5.156|GB|England|70
+Keady|54.250|-6.700|GB|Northern Ireland|70
+Saggart|53.280|-6.444|IE|Leinster|70
+Tandragee|54.355|-6.414|GB|Northern Ireland|70
+Porthleven|50.086|-5.315|GB|England|70
+Steynton|51.729|-5.017|GB|Wales|70
+Gort|53.066|-8.817|IE|Connacht|70
+Rathnew|52.991|-6.085|IE|Leinster|69
+Annacotty|52.668|-8.531|IE|Munster|69
+Lisnaskea|54.250|-7.450|GB|Northern Ireland|69
+Waringstown|54.434|-6.299|GB|Northern Ireland|69
+Bagenalstown|52.700|-6.962|IE|Leinster|69
+Newtownhamilton|54.191|-6.576|GB|Northern Ireland|69
+Newtownmountkennedy|53.091|-6.111|IE|Leinster|69
+Ballygowan|54.502|-5.792|GB|Northern Ireland|69
+Castlederg|54.707|-7.593|GB|Northern Ireland|69
+Saint Agnes|50.313|-5.205|GB|England|69
+Ballinrobe|53.633|-9.233|IE|Connacht|69
+Skibbereen|51.550|-9.267|IE|Munster|69
+Carnmoney|54.683|-5.950|GB|Northern Ireland|69
+Moate|53.550|-7.717|IE|Leinster|69
+Moate|53.394|-7.717|IE|Leinster|69
+Bantry|51.680|-9.453|IE|Munster|69
+Kilrush|52.640|-9.485|IE|Munster|69
+Bailieborough|53.917|-6.967|IE|Ulster|69
+Kinnegad|53.452|-7.100|IE|Leinster|69
+Ballyjamesduff|53.865|-7.203|IE|Ulster|69
+Newcastle|53.301|-6.502|IE|Leinster|68
+Virginia|53.834|-7.076|IE|Ulster|68
+Sixmilebridge|52.741|-8.774|IE|Munster|68
+Donegal|54.654|-8.111|IE|Ulster|68
+Killyleagh|54.401|-5.648|GB|Northern Ireland|68
+Broughshane|54.893|-6.209|GB|Northern Ireland|68
+Crosshaven|51.798|-8.301|IE|Munster|68
+Boyle|53.967|-8.300|IE|Connacht|68
+Blarney|51.933|-8.567|IE|Munster|68
+Portaferry|54.381|-5.546|GB|Northern Ireland|68
+Rostrevor|54.100|-6.200|GB|Northern Ireland|68
+Cullybackey|54.889|-6.347|GB|Northern Ireland|68
+Castlewellan|54.257|-5.944|GB|Northern Ireland|68
+Kingscourt|53.908|-6.806|IE|Ulster|68
+Castleisland|52.233|-9.467|IE|Munster|68
+Callan|52.545|-7.391|IE|Leinster|68
+Thomastown|52.527|-7.137|IE|Leinster|68
+Ballina|52.808|-8.436|IE|Munster|68
+Athboy|53.623|-6.914|IE|Leinster|68
+Rathangan|53.221|-6.995|IE|Leinster|68
+Ballyhaunis|53.767|-8.767|IE|Connacht|67
+Kanturk|52.167|-8.900|IE|Munster|67
+Ballyshannon|54.500|-8.183|IE|Ulster|67
+Castledawson|54.777|-6.562|GB|Northern Ireland|67
+Prosperous|53.290|-6.754|IE|Leinster|67
+Sion Mills|54.788|-7.473|GB|Northern Ireland|67
+Killorglin|52.100|-9.783|IE|Munster|67
+Kenmare|51.883|-9.583|IE|Munster|67
+Clogherhead|53.794|-6.237|IE|Leinster|67
+Baltinglass|52.937|-6.709|IE|Leinster|67
+Old Kilcullen|53.106|-6.765|IE|Leinster|66
+Castleconnell|52.714|-8.499|IE|Munster|66
+Edgeworthstown|53.700|-7.617|IE|Leinster|66
+Rathfriland|54.250|-6.167|GB|Northern Ireland|66
+Abbeyfeale|52.381|-9.303|IE|Munster|66
+Balrothery|53.588|-6.187|IE|Leinster|66
+Bearna|53.252|-9.150|IE|Connacht|66
+Castlerea|53.773|-8.503|IE|Connacht|66
+Tobercurry|54.050|-8.733|IE|Connacht|66
+Bunclody|52.655|-6.654|IE|Leinster|66
+Donaghcloney|54.419|-6.258|GB|Northern Ireland|66
+Bundoran|54.478|-8.281|IE|Ulster|66
+St Just|50.124|-5.681|GB|England|66
+Mullion|50.027|-5.242|GB|England|66
+Templemore|52.795|-7.834|IE|Munster|66
+Millisle|54.606|-5.530|GB|Northern Ireland|66
+Enniskerry|53.193|-6.169|IE|Leinster|66
+Clones|54.183|-7.233|IE|Ulster|66
+Ballymahon|53.567|-7.767|IE|Leinster|65
+Cootehill|54.072|-7.082|IE|Ulster|65
+Castlebridge|52.386|-6.449|IE|Leinster|65
+Ballaghaderreen|53.901|-8.575|IE|Connacht|65
+Dunleer|53.835|-6.396|IE|Leinster|65
+Ballivor|53.532|-6.961|IE|Leinster|65
+Dunmore East|52.151|-6.999|IE|Munster|65
+Newport|52.711|-8.410|IE|Munster|65
+Cloyne|51.863|-8.124|IE|Munster|65
+Charlesland|53.128|-6.063|IE|Leinster|65
+Connor|54.800|-6.200|GB|Northern Ireland|65
+Newmarket on Fergus|52.760|-8.896|IE|Munster|65
+Abbeyleix|52.913|-7.345|IE|Leinster|65
+Irvinestown|54.467|-7.633|GB|Northern Ireland|65
+Rathcormac|52.077|-8.282|IE|Munster|65
+Annalong|54.108|-5.900|GB|Northern Ireland|65
+Banagher|53.189|-7.987|IE|Leinster|65
+Valleymount|53.104|-6.554|IE|Leinster|65
+Strandhill|54.272|-8.593|IE|Connacht|65
+Saint Davids|51.881|-5.266|GB|Wales|65
+Draperstown|54.800|-6.767|GB|Northern Ireland|65
+Moycullen|53.338|-9.180|IE|Connacht|65
+Portlaw|52.288|-7.321|IE|Munster|65
+Kilmallock|52.400|-8.577|IE|Munster|65
+Ardglass|54.263|-5.610|GB|Northern Ireland|64
+Crossgar|54.397|-5.761|GB|Northern Ireland|64
+Mountrath|52.999|-7.473|IE|Leinster|64
+Dunmanway|51.717|-9.117|IE|Munster|64
+Portavogie|54.459|-5.443|GB|Northern Ireland|64
+Templepatrick|54.683|-6.083|GB|Northern Ireland|64
+Kilrea|54.951|-6.557|GB|Northern Ireland|64
+Leifear|54.832|-7.484|IE|Ulster|64
+Collooney|54.184|-8.489|IE|Connacht|64
+Derrinturn|53.342|-6.941|IE|Leinster|64
+Rathdrum|52.932|-6.229|IE|Leinster|64
+Gilford|54.373|-6.361|GB|Northern Ireland|64
+Longwood|53.454|-6.922|IE|Leinster|64
+Termonfeckin|53.763|-6.268|IE|Leinster|64
+Ballywalter|54.543|-5.485|GB|Northern Ireland|64
+Millstreet|52.059|-9.060|IE|Munster|64
+Rathkeale|52.524|-8.938|IE|Munster|64
+Ballymote|54.083|-8.517|IE|Connacht|64
+Rosslare|52.272|-6.390|IE|Leinster|64
+Tullyallen|53.736|-6.423|IE|Leinster|64
+Fethard|52.467|-7.691|IE|Munster|64
+Convoy|54.861|-7.666|IE|Ulster|64
+Mount Hawke|50.282|-5.209|GB|England|64
+Castlecomer|52.806|-7.211|IE|Leinster|64
+Rochfortbridge|53.414|-7.296|IE|Leinster|63
+Killaloe|52.807|-8.444|IE|Munster|63
+Caherconlish|52.594|-8.470|IE|Munster|63
+Castledermot|52.909|-6.842|IE|Leinster|63
+Graiguenamanagh|52.540|-6.955|IE|Leinster|63
+Manorhamilton|54.306|-8.176|IE|Connacht|63
+Newtownstewart|54.718|-7.379|GB|Northern Ireland|63
+Stithians|50.189|-5.178|GB|England|63
+Lanesborough|53.667|-7.983|IE|Leinster|63
+Portumna|53.089|-8.219|IE|Connacht|63
+Carlingford|54.040|-6.188|IE|Leinster|63
+Mylor Bridge|50.185|-5.080|GB|England|63
+Aughrim|52.853|-6.327|IE|Leinster|63
+Carnlough|54.992|-5.990|GB|Northern Ireland|63
+Moneymore|54.692|-6.670|GB|Northern Ireland|63
+Ashford|53.008|-6.111|IE|Leinster|63
+Four Lanes|50.202|-5.240|GB|England|63
+Crossmaglen|54.083|-6.600|GB|Northern Ireland|63
+Ferns|52.588|-6.500|IE|Leinster|63
+Ardnacrusha|52.709|-8.614|IE|Munster|63
+Swinford|53.939|-8.943|IE|Connacht|63
+Oldcastle|53.766|-7.163|IE|Leinster|63
+Moroe|52.651|-8.396|IE|Munster|63
+Fintona|54.500|-7.317|GB|Northern Ireland|63
+Garvagh|54.983|-6.667|GB|Northern Ireland|63
+Portraine|53.497|-6.111|IE|Leinster|63
+Killucan|53.514|-7.142|IE|Leinster|63
+Belturbet|54.100|-7.450|IE|Ulster|63
+Slane|53.710|-6.543|IE|Leinster|63
+Ballinamallard|54.400|-7.583|GB|Northern Ireland|63
+Ballybunnion|52.511|-9.671|IE|Munster|63
+Ballysadare|54.212|-8.509|IE|Connacht|63
+Stradbally|53.016|-7.153|IE|Leinster|63
+Lismore|52.137|-7.931|IE|Munster|63
+Watergrasshill|52.011|-8.344|IE|Munster|63
+Ballygar|53.522|-8.327|IE|Connacht|63
+Ballisodare|54.211|-8.509|IE|Connacht|63
+Ballybay|54.126|-6.901|IE|Ulster|62
+Marazion|50.126|-5.475|GB|England|62
+Oughterard|53.417|-9.333|IE|Connacht|62
+Oughterard|53.278|-6.564|IE|Leinster|62
+Foxford|53.981|-9.116|IE|Connacht|62
+Dromiskin|53.925|-6.403|IE|Leinster|62
+Kilbeggan|53.369|-7.503|IE|Leinster|62
+Kilpedder|53.109|-6.107|IE|Leinster|62
+Castlemartyr|51.910|-8.054|IE|Munster|62
+Claregalway|53.339|-8.945|IE|Connacht|62
+Kircubbin|54.487|-5.534|GB|Northern Ireland|62
+Killybegs|54.633|-8.450|IE|Ulster|62
+Moy|54.450|-6.667|GB|Northern Ireland|62
+Portglenone|54.871|-6.471|GB|Northern Ireland|62
+Chacewater|50.257|-5.158|GB|England|62
+Rathwire|53.508|-7.135|IE|Leinster|62
+Kilkee|52.680|-9.643|IE|Munster|62
+Rathdowney|52.855|-7.580|IE|Leinster|62
+Perranwell|50.213|-5.121|GB|England|62
+Castletown|52.722|-6.189|IE|Leinster|62
+Moone|52.976|-6.815|IE|Leinster|62
+Piltown|52.353|-7.340|IE|Leinster|61
+Kentstown|53.628|-6.527|IE|Leinster|61
+Athgarvan|53.152|-6.782|IE|Leinster|61
+Mooncoin|52.289|-7.248|IE|Leinster|61
+Magheralin|54.467|-6.260|GB|Northern Ireland|61
+Annahilt|54.433|-6.000|GB|Northern Ireland|61
+Ferbane|53.269|-7.827|IE|Leinster|61
+Dungloe|54.951|-8.359|IE|Ulster|61
+Castlepollard|53.679|-7.297|IE|Leinster|61
+Ballinroad|52.518|-6.406|IE|Leinster|61
+Croom|52.519|-8.718|IE|Munster|61
+Raphoe|54.875|-7.598|IE|Ulster|61
+Inishcrone|54.216|-9.092|IE|Connacht|61
+Whitegate|51.831|-8.230|IE|Munster|61
+Doagh|54.750|-6.083|GB|Northern Ireland|61
+Askeaton|52.600|-8.976|IE|Munster|61
+Mullagh|53.813|-6.951|IE|Ulster|61
+Killumney|51.872|-8.648|IE|Munster|61
+Adare|52.562|-8.796|IE|Munster|61
+Castlebellingham|53.901|-6.390|IE|Leinster|61
+Fivemiletown|54.383|-7.300|GB|Northern Ireland|61
+Ballyconnell|54.117|-7.583|IE|Ulster|61
+Dundrum|54.258|-5.845|GB|Northern Ireland|61
+Glenavy|54.592|-6.214|GB|Northern Ireland|61
+Ballylinan|52.945|-7.041|IE|Leinster|61
+Ballyragget|52.789|-7.330|IE|Leinster|61
+Bellaghy|54.809|-6.519|GB|Northern Ireland|61
+Kiltamagh|53.850|-9.000|IE|Connacht|61
+Newtown Cunningham|54.996|-7.519|IE|Ulster|61
+Uny Lelant|50.183|-5.440|GB|England|60
+Kilworth|52.176|-8.244|IE|Munster|60
+Carnew|52.708|-6.494|IE|Leinster|60
+Aughnacloy|54.414|-6.976|GB|Northern Ireland|60
+Ennistimon|52.945|-9.292|IE|Munster|60
+Crossmolina|54.100|-9.317|IE|Connacht|60
+Urlingford|52.721|-7.582|IE|Leinster|60
+Daingean|53.296|-7.289|IE|Leinster|60
+Charlestown|53.964|-8.794|IE|Connacht|60
+Kinlough|54.450|-8.283|IE|Connacht|60
+Aghada|51.839|-8.212|IE|Munster|60
+Greyabbey|54.535|-5.560|GB|Northern Ireland|60
+Kilmacanoge|53.167|-6.134|IE|Leinster|60
+Belmullet|54.225|-9.991|IE|Connacht|60
+Toormakeady|53.650|-9.367|IE|Connacht|60
+Johnstown|53.238|-6.622|IE|Leinster|60
+St. Day|50.240|-5.186|GB|England|57
+Germoe|50.115|-5.379|GB|England|45
+Camrose|51.841|-5.010|GB|Wales|0
+Castlemartin|51.645|-5.017|GB|Wales|0
+Courtbrack|51.967|-8.646|IE|Munster|0
+Dale|51.709|-5.173|GB|Wales|0
+Herbrandston|51.726|-5.087|GB|Wales|0
+Llanrhian|51.938|-5.174|GB|Wales|0
+Mathry|51.946|-5.087|GB|Wales|0
+Perranarworthal|50.206|-5.120|GB|England|0
+Sennen|50.078|-5.701|GB|England|0
+St. Buryan|50.074|-5.623|GB|England|0
+Wendron|50.133|-5.250|GB|England|0

@@ -65,6 +65,7 @@ export function mockStats(range: Range, now = Date.now()): AdminStats {
   const out: AdminStats = {
     range,
     generatedAt: now,
+    from: range === '24h' ? now - 86400e3 : series[0][0],
     dimTotals: {},
     maintLastAt: now - 20 * 60e3,
     cachedAt: now - 3 * 60e3,
@@ -84,6 +85,7 @@ export function mockStats(range: Range, now = Date.now()): AdminStats {
       error: k(6),
       vitals: Math.round(sessions * 0.6),
     },
+    recorded: { search: searches, session: sessions },
     funnel,
     series,
     top: {

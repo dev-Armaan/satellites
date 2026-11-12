@@ -1,6 +1,7 @@
 /**
  * Number and time formats for the admin page. Times are US Eastern (the owner's clock, EST/EDT handled by Intl).
- * Daily buckets are the database's UTC days, so they keep their UTC date.
+ * A daily bucket starts at Eastern midnight (from 0016) or UTC midnight (before): Eastern midnight is 04:00 or 05:00 UTC
+ * the same date, so either way the bucket's UTC date is the day it counts, and it is labelled by that.
  */
 
 const INT = new Intl.NumberFormat('en-US', { maximumFractionDigits: 0 })
@@ -35,7 +36,7 @@ export function etZone(t: number): string {
 /** "NOV 08 14:00" (hour buckets) / "NOV 08" (days); `short` drops the date on hour ticks except at midnight. */
 export function fmtBucket(t: number, bucket: 'hour' | 'day', short = false): string {
   if (bucket === 'day') {
-    const d = new Date(t) // a UTC day from the rollup: keep its date
+    const d = new Date(t) // the day's own date, whether it began at Eastern or UTC midnight (see top)
     return `${MON[d.getUTCMonth()]} ${pad(d.getUTCDate())}`
   }
   const e = etParts(t)

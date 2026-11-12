@@ -15,9 +15,16 @@ export type Ranked = [string, number][]
 export interface AdminStats {
   range: Range
   generatedAt: number
+  /** Where the range starts, ms: the hour 24 hours before this one for 24h (0019; now - 24 h before); Eastern midnight
+   *  6 or 29 days before today for 7d and 30d; the first day for all. Null from a database before 0016, whose 7d and 30d
+   *  ran back from now and whose days were UTC. */
+  from: number | null
   bucket: 'hour' | 'day'
-  /** Event counts by type, plus `session` (tabs) */
+  /** Event counts by type, plus `session` (tabs). `search` and `session` include hours rebuilt after an outage (0015) */
   totals: Record<string, number>
+  /** `search` and `session` as the database recorded them, without the rebuilt hours: the denominators for ratios and
+   *  shares, whose numerators (results, devices, places…) only exist for recorded events. Equal to totals before 0015. */
+  recorded: { search: number; session: number }
   /** Sum over every value of each top-list dimension ('search.label' → searches with a label), for percentages */
   dimTotals: Record<string, number>
   /** Distinct tabs (per day, summed) that reached each stage */
@@ -33,9 +40,9 @@ export interface AdminStats {
   recentErrors: { t: number; where?: string; msg?: string }[]
   /** When the hourly maintenance (rollup + prune, pg_cron) last ran, ms; null if it never has */
   maintLastAt: number | null
-  /** The last UTC day rolled into the daily totals, 'YYYY-MM-DD' */
+  /** The last day rolled into the daily totals, 'YYYY-MM-DD' (a US Eastern day from 0016, UTC before) */
   rolledThrough: string | null
-  /** When these stats were computed (the 5-minute cache, 0009), ms; null from a database before 0009 */
+  /** When these stats were computed (the cache, 0009; refreshed hourly at :00 since 0019), ms; null before 0009 */
   cachedAt: number | null
 }
 
@@ -126,11 +133,16 @@ export function parseStats(v: unknown): AdminStats | null {
       if (Array.isArray(rows)) top[k] = rows.filter((r): r is [string, number] => Array.isArray(r) && typeof r[0] === 'string').map((r) => [r[0], num(r[1])])
   const r = isObj(v.results) ? v.results : {}
   const vi = isObj(v.vitals) ? v.vitals : {}
+  const totals = rec(v.totals)
+  const rd = isObj(v.recorded) ? v.recorded : {}
+  const recorded = (k: 'search' | 'session') => (typeof rd[k] === 'number' ? num(rd[k]) : (totals[k] ?? 0))
   return {
     range: v.range as Range,
     generatedAt: num(v.generatedAt),
+    from: numOrNull(v.from),
     bucket: v.bucket === 'day' ? 'day' : 'hour',
-    totals: rec(v.totals),
+    totals,
+    recorded: { search: recorded('search'), session: recorded('session') },
     dimTotals: rec(v.dimTotals),
     funnel: rec(v.funnel),
     series: Array.isArray(v.series) ? v.series.filter(Array.isArray).map((s) => [num(s[0]), num(s[1]), num(s[2]), num(s[3])] as [number, number, number, number]) : [],

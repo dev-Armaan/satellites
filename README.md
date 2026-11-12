@@ -178,7 +178,8 @@ The orbit maths runs in your browser. The site counts how it is used; it does no
 | Share | The town-level place name, a point rounded to about 1 km (0.01°), the pass and its photos, and a view count. |
 | Visit | What happened (searches, results, passes and photos opened, shares, errors, page speed), tied to a random ID that lives only as long as the browser tab, with the device class, your country (from Vercel's edge), the referring site, any UTM tags and the app version. |
 
-Raw events and visits are deleted after 90 days. Daily usage totals, lookups and shares are kept.
+Raw events, visits and single lookups are deleted after 48 hours. What stays is counts: usage per hour and per day,
+and lookups per cell. Shares are kept.
 
 Watched's database never stores exact coordinates, IP addresses, cookies or full referrer URLs, and the event relay
 never reads the IP. The app never sends street-level place names. Vercel and Supabase see IP addresses in transit and

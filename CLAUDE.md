@@ -39,7 +39,11 @@
   `supabase/migrations/0012_*`, which adds Sentinel-1 radar); an unknown collection is dropped and the share made
   without its image. The collection lists in `api/_lib/share.ts` and `src/lib/backend.ts` must match it.
 - Admin stats are precomputed every 30 minutes by pg_cron (`admin_stats_cache`, migration 0009; 0014 moved it from every 5, which overloaded the free database). Admin times are US
-  Eastern.
+  Eastern, and so are its days (0016).
+- Raw events, tabs and lookups are kept 48 hours (0016; the free plan's 500 MB). Admin ranges past 24h read rollups made
+  by `roll_event_day` / `roll_event_hours` (`event_days`, `event_hours`, `event_dists`, `event_alltime*`): a new number
+  on the admin page that only reads `public.events` covers 48 hours at most, so roll it up there too. Each day keeps
+  its top 3000 cells / 200 values per breakdown (`event_keep`).
 - `VITE_*` env vars are bundled into the browser. Server secrets (`CDSE_CLIENT_ID` / `CDSE_CLIENT_SECRET`) are only
   read in `api/`. Never print env values.
 - Cloud sessions cannot delete GitHub branches, change repo settings or use GitHub GraphQL (`gh` REST only). The

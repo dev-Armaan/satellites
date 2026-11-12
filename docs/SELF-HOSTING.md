@@ -28,7 +28,7 @@ With the Supabase variables unset:
    ```
 
    (Or paste each `supabase/migrations/*.sql` into the SQL editor, in order.)
-   - The migrations enable `pgcrypto` and `pg_cron`. pg_cron runs the hourly event rollup and the 90-day prune.
+   - The migrations enable `pgcrypto` and `pg_cron`. pg_cron runs the hourly event rollup and the 48-hour prune.
    - They create the `overflight_private` schema.
    - Browsers can only call RPC functions. No table is readable or writable directly.
 3. Make yourself the admin of `/admin`. No admin is seeded by the migrations.

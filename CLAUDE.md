@@ -122,7 +122,10 @@
   `isRadarUrl`). The radar search must never be awaited by the report: it is used only if it has already answered.
   The second line counts every image in one number ("N images were made public"; owner).
 - Geostationary images: each public watcher's newest frame is a capture plus a pass flagged `geostationary`
-  (`engine/geostationary.ts geoScanPass`: its track, heading and speed are the SCAN LINE's, not the satellite's). It
+  (`engine/geostationary.ts geoScanPass`: its track, heading and speed are the SCAN LINE's, not the satellite's). The
+  line is where the plane the mirror sweeps cuts the Earth (`scanLine`: a circle the width of the disc, straight seen
+  from the spacecraft), never a great circle around the track: the globe draws it with `swath.ts buildScanRibbon` and
+  the curtain's foot, and a place at the disc's edge must be on it (Abidjan from GOES-19 was not, 2026-11-12). It
   can be selected, replayed and shared like a pass, but must stay out of everything that counts passes or satellites
   (filter on `pass.geostationary`). The images line counts the watchers' frames from `report.geo`, never from these
   captures, so the number is final before a frame loads. The engine never waits for a frame. Ask EUMETSAT only for

@@ -60,6 +60,16 @@ describe('withRetry / fetchJson', () => {
     expect(attempt).toHaveBeenCalledTimes(2)
   })
 
+  it('does not ask again after a timeout when told not to, but still retries other failures', async () => {
+    const slow = vi.fn((s: AbortSignal) => new Promise<never>((_, rej) => s.addEventListener('abort', () => rej(new DOMException('aborted', 'AbortError')))))
+    const err: unknown = await withRetry(slow, { timeoutMs: 20, retryDelayMs: 1, retryTimeouts: false, label: 'https://slow.example/x' }).catch((e: unknown) => e)
+    expect(err).toBeInstanceOf(TimeoutError)
+    expect(slow).toHaveBeenCalledTimes(1)
+    const flaky = vi.fn().mockRejectedValueOnce(new TypeError('Failed to fetch')).mockResolvedValueOnce('ok')
+    expect(await withRetry(flaky, { retryDelayMs: 1, retryTimeouts: false })).toBe('ok')
+    expect(flaky).toHaveBeenCalledTimes(2)
+  })
+
   it('stops immediately when the caller aborts', async () => {
     const ctrl = new AbortController()
     const attempt = vi.fn((s: AbortSignal) => new Promise<never>((_, rej) => s.addEventListener('abort', () => rej(new DOMException('aborted', 'AbortError')))))

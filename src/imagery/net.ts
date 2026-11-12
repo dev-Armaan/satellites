@@ -44,6 +44,12 @@ export interface RetryOptions {
   retries?: number
   /** Base pause before a retry; jittered ×[1, 1.6). Default 600 ms. */
   retryDelayMs?: number
+  /**
+   * False: an attempt that timed out is not tried again (other transient failures still are). For requests made
+   * by the dozen per search: a service too slow to answer inside the timeout is overloaded, and asking again
+   * doubles what it is asked (2026-11-12: the retries took NASA GIBS from 9,000 renders a minute to 17,000).
+   */
+  retryTimeouts?: boolean
   signal?: AbortSignal
   /** Used in error messages only. */
   label?: string
@@ -130,7 +136,7 @@ function isRetryable(err: unknown): boolean {
  * The signal handed to `attempt` aborts on timeout OR when the caller's signal aborts.
  */
 export async function withRetry<T>(attempt: (signal: AbortSignal) => Promise<T>, opts: RetryOptions = {}): Promise<T> {
-  const { timeoutMs = DEFAULT_TIMEOUT_MS, retries = 1, retryDelayMs = 600, signal, label = 'request' } = opts
+  const { timeoutMs = DEFAULT_TIMEOUT_MS, retries = 1, retryDelayMs = 600, retryTimeouts = true, signal, label = 'request' } = opts
   let lastErr: unknown
   for (let i = 0; i <= retries; i++) {
     throwIfAborted(signal)
@@ -147,7 +153,7 @@ export async function withRetry<T>(attempt: (signal: AbortSignal) => Promise<T>,
     } catch (err) {
       if (signal?.aborted) throw abortReason(signal)
       lastErr = timedOut ? new TimeoutError(label, timeoutMs) : err
-      if (!isRetryable(lastErr) || i === retries) break
+      if (!isRetryable(lastErr) || i === retries || (timedOut && !retryTimeouts)) break
     } finally {
       clearTimeout(timer)
       signal?.removeEventListener('abort', onAbort)

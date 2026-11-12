@@ -229,5 +229,5 @@ function resetAcq(acq: AcqState, pass: Pass | undefined, report: Report | undefi
   acq.focusOk = !!focus
   acq.focusLat = focus?.lat ?? 0
   acq.focusLon = focus?.lon ?? 0
-  scanFrame(pass, acq.p0, acq.t0)
+  scanFrame(pass, acq.p0, acq.t0, place)
 }

@@ -152,13 +152,36 @@ describe('decal and scan geometry', () => {
     const track = [-60, -30, 0, 30, 60].map((s) => ({ t: TC + s * 1000, lat: 44 - (s * 6.8) / 111.2, lon: -80, altKm: 786 }))
     const p0 = new Vector3()
     const t0 = new Vector3()
-    scanFrame({ track, tClosest: TC }, p0, t0)
+    scanFrame({ track, tClosest: TC, headingDeg: 180 }, p0, t0)
     expect(p0.distanceTo(latLonToWorld(44, -80, 1))).toBeLessThan(1e-6)
     expect(Math.abs(t0.dot(p0))).toBeLessThan(1e-9)
     // Moving south: t0 points to lower latitudes.
     expect(t0.dot(latLonToWorld(43, -80, 1).sub(latLonToWorld(44, -80, 1)))).toBeGreaterThan(0)
     // The scan line moves at ground speed.
     expect(scanAt(TC + 10_000, TC, 6.8) * EARTH_RADIUS_KM).toBeCloseTo(68, 6)
+  })
+
+  it('a geostationary scan’s frame sits on the place, pointing the way its line travels there, not on the meridian under the spacecraft', () => {
+    // GOES-19's line through Abidjan: its path on the spacecraft's meridian is 71° of longitude away.
+    const abidjan = { lat: 5.38, lon: -3.94 }
+    const track = [-60, 0, 60].map((s) => ({ t: TC + s * 1000, lat: 4.8 - s * 0.16, lon: -75.2, altKm: 35_786 }))
+    const p0 = new Vector3()
+    const t0 = new Vector3()
+    scanFrame({ track, tClosest: TC, headingDeg: 180.7, geostationary: true }, p0, t0, abidjan)
+    expect(p0.distanceTo(latLonToWorld(abidjan.lat, abidjan.lon, 1))).toBeLessThan(1e-9)
+    expect(Math.abs(t0.dot(p0))).toBeLessThan(1e-9)
+    expect(t0.length()).toBeCloseTo(1, 9)
+    // South, and a touch west of it: the place 100 km on along heading 180.7° is the furthest along t0.
+    const south = latLonToWorld(abidjan.lat - 0.9, abidjan.lon, 1).sub(p0)
+    const east = latLonToWorld(abidjan.lat, abidjan.lon + 0.9, 1).sub(p0)
+    expect(t0.dot(south)).toBeGreaterThan(0.015)
+    expect(t0.dot(east)).toBeLessThan(0)
+    expect(Math.abs(t0.dot(east))).toBeLessThan(t0.dot(south) * 0.02)
+    // At tc the image's development front (the points with N · t0 = 0) is on the place, so it paints as the line arrives.
+    expect(scanAt(TC, TC, 20)).toBe(0)
+    // Without a place (a pass that is not a scan, or none known) the track decides, as before.
+    scanFrame({ track, tClosest: TC, headingDeg: 180.7, geostationary: true }, p0, t0)
+    expect(p0.distanceTo(latLonToWorld(4.8, -75.2, 1))).toBeLessThan(1e-6)
   })
 
   it('prefetches the cover the panel leads with: the most zoomed-in CLEAR capture, not the sharpest clouded one (R3-17)', () => {

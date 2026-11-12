@@ -19,7 +19,7 @@
  */
 import { pickLead } from '@/lib/clarity'
 import { Vector3 } from 'three'
-import { bboxAround, clamp, EARTH_RADIUS_KM, latLonToWorld } from '@/lib/geo'
+import { bboxAround, clamp, DEG, EARTH_RADIUS_KM, latLonToWorld } from '@/lib/geo'
 import type { Capture, CaptureCollection, Pass, Report } from '@/types'
 
 /** Real seconds the approach should take at least (before the capture moment): ~1 s of the wide chase, ~1 s of the
@@ -308,8 +308,24 @@ const _b = new Vector3()
 /**
  * The sub-satellite point at tc and the unit ground-track direction there (from the pass's sampled track), into
  * p0 / t0. Along-track positions are then asin(N · t0) radians: the cross-track great circle through p0 is s = 0.
+ *
+ * A geostationary scan has no ground track to take them from: its line crosses `place` at tc, travelling along the
+ * pass's heading there (engine geostationary.ts). So p0 is the place and t0 that heading: the great circle across it
+ * is the scan line where the image is, which is all the image's development needs (the line's own curve, a circle the
+ * width of the disc, parts from it by under a kilometre across an 800 km frame).
  */
-export function scanFrame(pass: Pick<Pass, 'track' | 'tClosest'>, p0: Vector3, t0: Vector3): void {
+export function scanFrame(pass: Pick<Pass, 'track' | 'tClosest' | 'geostationary' | 'headingDeg'>, p0: Vector3, t0: Vector3, place?: { lat: number; lon: number }): void {
+  if (pass.geostationary && place) {
+    const lat = place.lat * DEG
+    const lon = place.lon * DEG
+    const h = pass.headingDeg * DEG
+    latLonToWorld(place.lat, place.lon, 1, p0)
+    // North and east at the place, in world axes (y north, x to 0°E, −z to 90°E).
+    _a.set(-Math.sin(lat) * Math.cos(lon), Math.cos(lat), Math.sin(lat) * Math.sin(lon))
+    _b.set(-Math.sin(lon), 0, -Math.cos(lon))
+    t0.copy(_a).multiplyScalar(Math.cos(h)).addScaledVector(_b, Math.sin(h)).normalize()
+    return
+  }
   const tr = pass.track
   if (tr.length < 2) return
   let i = 0

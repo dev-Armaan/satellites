@@ -54,6 +54,18 @@ export class EmptyImageError extends Error {
   }
 }
 
+/**
+ * A weather picture did not arrive in time. Not retried either: NASA GIBS renders each one on demand, so one that
+ * takes this long means the service is overloaded, and a second request adds to that for a picture nobody is still
+ * waiting for (2026-11-12). Callers move on, as they do from an empty frame.
+ */
+export class ImageTimeoutError extends Error {
+  constructor(timeoutMs: number) {
+    super(`Image timed out after ${Math.round(timeoutMs / 1000)} s`)
+    this.name = 'ImageTimeoutError'
+  }
+}
+
 /** Share of no-data pixels at which a weather image counts as empty (a real frame is never this black). */
 const EMPTY_NO_DATA = 0.98
 
@@ -74,7 +86,7 @@ async function loadGibs(url: string, timeoutMs: number): Promise<HTMLImageElemen
   try {
     checked = await fetchCheckedImage(url, ctl.signal)
   } catch (err) {
-    throw ctl.signal.aborted ? new Error(`Image timed out after ${Math.round(timeoutMs / 1000)} s`) : err
+    throw ctl.signal.aborted ? new ImageTimeoutError(timeoutMs) : err
   } finally {
     clearTimeout(timer)
   }
@@ -200,7 +212,7 @@ function loadOnce(url: string, timeoutMs: number): Promise<HTMLImageElement> {
  * Sentinel-2 / Landsat crops are toned first (see the header), so the element's `src` is a blob: URL too.
  * NASA GIBS images are also checked (in the pixels worker, I-1): an all-black response is GIBS saying
  * "no data" with a 200, so it rejects with `EmptyImageError` (no retry, see there) rather than resolving a
- * black square. Show the resolved element (or a clone: same `src`), never a fresh `<img src={url}>`: a
+ * black square; one that times out rejects with `ImageTimeoutError`, not retried either. Show the resolved element (or a clone: same `src`), never a fresh `<img src={url}>`: a
  * Sentinel-2 / Landsat crop would be a cache hit (Chromium reuses the document's loaded image for the same URL
  * and CORS mode), but a GIBS element's `src` is the blob: URL of the bytes that were checked, so `url` itself
  * was never loaded as an image (GIBS sends `no-store`: a fresh `<img>` would download it again).
@@ -220,7 +232,7 @@ export function preloadImage(url: string, opts: { signal?: AbortSignal; timeoutM
     try {
       return await load()
     } catch (err) {
-      if (err instanceof EmptyImageError) throw err
+      if (err instanceof EmptyImageError || err instanceof ImageTimeoutError) throw err
       await sleep(700 + Math.random() * 500)
       return load()
     }

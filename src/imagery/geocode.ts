@@ -8,13 +8,18 @@
  * answer wins. Nominatim's usage policy allows about one request a second and no autocomplete, so it is never used
  * for search-as-you-type, is asked only when Photon is slow, and its requests are spaced NOMINATIM_GAP_MS apart.
  *
+ * Typed searches are hedged the same way, to Open-Meteo's place search (GeoNames, made for type-ahead). It knows
+ * settlements and natural features but no landmarks, and it matches old and alternate names ("waterloo" → Austin,
+ * Texas, once called Waterloo), so only results whose own name matches the query are kept, an empty answer counts as
+ * none (Photon is still waited for), and its answers are never cached.
+ *
  * Labels are built for a two-line display: `label` is the thing itself ("Waterloo"),
  * `sublabel` is where it is ("Ontario, Canada"), with no part repeated.
  */
 import { haversineKm } from '@/lib/geo'
 import type { LatLon, Place } from '@/types'
 import { fmtLat, fmtLon } from '@/ui/system/format'
-import { NOMINATIM, PHOTON } from './endpoints'
+import { NOMINATIM, OPEN_METEO_GEOCODE, PHOTON } from './endpoints'
 import { Lru } from './lru'
 import { fetchJson, hedge, HttpError, isAbortError, sleep, throwIfAborted } from './net'
 
@@ -266,25 +271,51 @@ const searchCache = /* @__PURE__ */ new Lru<string, Place[]>(48)
 const MAX_RESULTS = 6
 const PHOTON_LIMIT = 10
 
+/** How long Photon has to answer a typed search before Open-Meteo is asked as well. */
+export const SEARCH_HEDGE_MS = 1_200
+
+/** One Open-Meteo search result (the fields used). */
+export interface OpenMeteoPlace {
+  name?: string
+  latitude?: number
+  longitude?: number
+  country_code?: string
+  country?: string
+  admin1?: string
+  population?: number
+}
+
+const words = (s: string) => textKey(s).split(/[^\p{L}\p{N}]+/u).filter(Boolean)
+
 /**
- * Up to 6 places matching `q`, best first, in English where OSM has it. Coordinates are accepted
- * and reverse-geocoded. Resolves [] for queries under 2 characters, with no letters or digits, or
- * that Photon rejects. Rejects on network failure (show "search unavailable") and on abort.
+ * Open-Meteo results → Places, keeping only those the query actually names: the query's first word starts a word
+ * of the place's own name, and every other word starts a word of its name, region or country ("paris, france").
+ * Largest first: its own order puts Waterloo, Iowa above Waterloo, Ontario, which has more people.
  */
-export async function searchPlaces(q: string, signal?: AbortSignal): Promise<Place[]> {
-  throwIfAborted(signal)
-  const query = q.trim().replace(/\s+/g, ' ')
-  if (query.length < 2 || !hasText(query)) return []
-  const key = textKey(query)
-  const hit = searchCache.get(key)
-  if (hit) return hit
-
-  const coords = parseCoordinates(query)
-  if (coords) {
-    const place = { ...(await reversePlace(coords.lat, coords.lon, signal)), source: 'search' as const }
-    return [place]
+export function openMeteoToPlaces(results: OpenMeteoPlace[] | undefined, query: string): Place[] {
+  const [first, ...rest] = words(query)
+  if (!first) return []
+  const out: Place[] = []
+  const byPopulation = [...(results ?? [])].sort((a, b) => (b.population ?? 0) - (a.population ?? 0))
+  for (const r of byPopulation) {
+    if (!hasText(r.name) || !finite(r.latitude) || !finite(r.longitude)) continue
+    const own = words(r.name)
+    const all = [...own, ...words(r.admin1 ?? ''), ...words(r.country ?? '')]
+    if (!own.some((w) => w.startsWith(first)) || !rest.every((q) => all.some((w) => w.startsWith(q)))) continue
+    const label = r.name.trim()
+    out.push({
+      lat: r.latitude,
+      lon: r.longitude,
+      label,
+      sublabel: sublabelOf(label, [r.admin1, r.country]),
+      countryCode: r.country_code?.toLowerCase() || undefined,
+      source: 'search',
+    })
   }
+  return out
+}
 
+async function photonSearch(query: string, signal: AbortSignal): Promise<Place[]> {
   let res: PhotonResponse
   try {
     res = await fetchJson<PhotonResponse>(`${PHOTON}/api/?q=${encodeURIComponent(query)}&limit=${PHOTON_LIMIT}&lang=en`, {
@@ -303,8 +334,46 @@ export async function searchPlaces(q: string, signal?: AbortSignal): Promise<Pla
   const ranked = preferSettlements(hits)
   const distinct = distinctIndexes(ranked.map((h) => h.place)).map((i) => ranked[i])
   const places = disambiguate(distinct).slice(0, MAX_RESULTS)
-  searchCache.set(key, places)
+  searchCache.set(textKey(query), places)
   return places
+}
+
+async function openMeteoSearch(query: string, signal: AbortSignal): Promise<Place[]> {
+  const res = await fetchJson<{ results?: OpenMeteoPlace[] }>(
+    `${OPEN_METEO_GEOCODE}?name=${encodeURIComponent(query)}&count=${PHOTON_LIMIT}&language=en&format=json`,
+    { signal, timeoutMs: PHOTON_TIMEOUT_MS, retries: 0 },
+  )
+  const places = dedupePlaces(openMeteoToPlaces(res.results, query)).slice(0, MAX_RESULTS)
+  // Nothing it can name (a landmark, a street): leave the answer to Photon.
+  if (!places.length) throw new Error('Open-Meteo has no match')
+  return places
+}
+
+/**
+ * Up to 6 places matching `q`, best first, in English where OSM has it. Coordinates are accepted
+ * and reverse-geocoded. Resolves [] for queries under 2 characters, with no letters or digits, or
+ * that Photon rejects. Rejects on network failure (show "search unavailable") and on abort.
+ * Photon is asked first; if it is slow, Open-Meteo too (see the top of this module).
+ */
+export async function searchPlaces(q: string, signal?: AbortSignal): Promise<Place[]> {
+  throwIfAborted(signal)
+  const query = q.trim().replace(/\s+/g, ' ')
+  if (query.length < 2 || !hasText(query)) return []
+  const hit = searchCache.get(textKey(query))
+  if (hit) return hit
+
+  const coords = parseCoordinates(query)
+  if (coords) {
+    const place = { ...(await reversePlace(coords.lat, coords.lon, signal)), source: 'search' as const }
+    return [place]
+  }
+
+  return hedge(
+    (s) => photonSearch(query, s),
+    (s) => openMeteoSearch(query, s),
+    SEARCH_HEDGE_MS,
+    signal,
+  )
 }
 
 /** Photon's budget for one reverse lookup: no retry, since Nominatim is already being asked by then. */

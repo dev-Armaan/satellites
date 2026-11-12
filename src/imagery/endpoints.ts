@@ -17,6 +17,8 @@ export const WORLDVIEW = 'https://worldview.earthdata.nasa.gov/'
 export const EUMETSAT_GEOSERVER = 'https://view.eumetsat.int/geoserver'
 export const EUMETSAT_WMS = `${EUMETSAT_GEOSERVER}/ows`
 export const PHOTON = 'https://photon.komoot.io'
+/** Open-Meteo's place search (GeoNames): Photon's backup for typed searches (./geocode.ts searchPlaces). */
+export const OPEN_METEO_GEOCODE = 'https://geocoding-api.open-meteo.com/v1/search'
 /** OSM's own geocoder: reverse lookups only, as Photon's backup (./geocode.ts reversePlace). */
 export const NOMINATIM = 'https://nominatim.openstreetmap.org'
 

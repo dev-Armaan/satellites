@@ -20,6 +20,8 @@ import {
   photonReverseToPlace,
   photonToPlace,
   nominatimToPhoton,
+  openMeteoToPlaces,
+  SEARCH_HEDGE_MS,
   reversePlace,
   REVERSE_HEDGE_MS,
   searchPlaces,
@@ -308,5 +310,59 @@ describe('Nominatim reverse labels', () => {
 
   it('has nothing at sea', () => {
     expect(nominatimToPhoton({ error: 'Unable to geocode' }, 1, 2)).toBeNull()
+  })
+})
+
+/** Open-Meteo search results (abridged from live answers, 2026-11-12). */
+const omWaterloo = [
+  { name: 'Austin', latitude: 30.26715, longitude: -97.74306, country_code: 'US', country: 'United States', admin1: 'Texas' },
+  { name: 'Waterloo', latitude: 42.49276, longitude: -92.34296, country_code: 'US', country: 'United States', admin1: 'Iowa', population: 68460 },
+  { name: 'Waterloo', latitude: 43.4668, longitude: -80.51639, country_code: 'CA', country: 'Canada', admin1: 'Ontario', population: 104986 },
+]
+
+describe('Open-Meteo search results', () => {
+  it('keeps only places the query names (not an old name: Austin was once Waterloo), largest first', () => {
+    const r = openMeteoToPlaces(omWaterloo, 'waterl')
+    expect(r.map((p) => `${p.label} · ${p.sublabel}`)).toEqual(['Waterloo · Ontario, Canada', 'Waterloo · Iowa, United States'])
+    expect(r[0]).toMatchObject({ lat: 43.4668, lon: -80.51639, countryCode: 'ca', source: 'search' })
+  })
+
+  it('matches later words against the region or country', () => {
+    expect(openMeteoToPlaces(omWaterloo, 'waterloo, canada').map((p) => p.sublabel)).toEqual(['Ontario, Canada'])
+    expect(openMeteoToPlaces([{ name: 'Florence', latitude: 1, longitude: 2, admin1: 'Indiana' }], 'new york')).toEqual([])
+  })
+})
+
+describe('searchPlaces while Photon stalls', () => {
+  afterEach(() => vi.unstubAllGlobals())
+  const stalledPhoton = (other: () => Response) =>
+    vi.fn((url: string, init?: RequestInit) =>
+      url.startsWith('https://photon.komoot.io/')
+        ? new Promise<Response>((_, rej) => init?.signal?.addEventListener('abort', () => rej(new DOMException('aborted', 'AbortError'))))
+        : Promise.resolve(other()),
+    )
+
+  it('answers from Open-Meteo, and does not cache that answer', async () => {
+    const f = stalledPhoton(() => Response.json({ results: omWaterloo }))
+    vi.stubGlobal('fetch', f)
+    const t0 = Date.now()
+    const r2 = await searchPlaces('Waterlo')
+    expect(Date.now() - t0).toBeLessThan(SEARCH_HEDGE_MS + 1_000)
+    expect(r2.map((p) => p.sublabel)).toEqual(['Ontario, Canada', 'Iowa, United States'])
+    expect(String((f.mock.calls.at(-1) as unknown[])[0])).toBe('https://geocoding-api.open-meteo.com/v1/search?name=Waterlo&count=10&language=en&format=json')
+    vi.stubGlobal('fetch', vi.fn(async () => Response.json(waterloo)))
+    expect((await searchPlaces('waterlo')).length).toBeGreaterThan(0)
+  })
+
+  it('still waits for Photon when Open-Meteo has no match', async () => {
+    const ctrl = new AbortController()
+    vi.stubGlobal('fetch', stalledPhoton(() => Response.json({})))
+    const p = searchPlaces('CN Tower stalled', ctrl.signal)
+    let settled = false
+    void p.then(() => (settled = true), () => (settled = true))
+    await new Promise((r) => setTimeout(r, SEARCH_HEDGE_MS + 300))
+    expect(settled).toBe(false)
+    ctrl.abort()
+    await expect(p).rejects.toMatchObject({ name: 'AbortError' })
   })
 })

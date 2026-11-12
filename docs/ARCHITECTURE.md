@@ -23,7 +23,7 @@ Read first: `docs/DESIGN.md` (non-negotiable art direction), `src/types.ts` (sha
 | Fallback S2 search | `GET https://earth-search.aws.element84.com/v1/search?…` (same transport), collection `sentinel-2-c1-l2a` | assets `visual` = 8-bit RGB COG (range requests OK) |
 | Weather imagery | NASA GIBS WMS `https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?SERVICE=WMS&REQUEST=GetMap&VERSION=1.3.0&LAYERS={layer}&STYLES=&FORMAT=image/jpeg&CRS=EPSG:4326&BBOX={minLat},{minLon},{maxLat},{maxLon}&WIDTH=&HEIGHT=&TIME={YYYY-MM-DD or ISO}` | layers: `VIIRS_NOAA20_CorrectedReflectance_TrueColor`, `VIIRS_NOAA21_…`, `VIIRS_SNPP_…`, `MODIS_Terra_…`, `MODIS_Aqua_…` (daily); `GOES-East_ABI_GeoColor`, `GOES-West_ABI_GeoColor` (10 min), `Himawari_AHI_Band3_Red_Visible_1km`, and at night `Himawari_AHI_Band13_Clean_Infrared` (its colour-coded cold tops redrawn in grey, `src/imagery/infrared.ts`). **Note the BBOX axis order for EPSG:4326 in WMS 1.3.0 is lat,lon** |
 | Meteosat frames | EUMETSAT EUMETView WMS `https://view.eumetsat.int/geoserver/ows?service=WMS&version=1.3.0&request=GetMap&layers={layer}&styles=&format=image/jpeg&crs=EPSG:4326&bbox={minLat},{minLon},{maxLat},{maxLon}&width=&height=&bgcolor=0x000000&time={ISO}`; frame list from `…/geoserver/{workspace}/{layer}/ows?service=WMS&version=1.3.0&request=GetCapabilities` | layers: `mtg_fd:rgb_geocolour` (Meteosat-12, 10 min), `msg_iodc:rgb_naturalenhncd` and `msg_iodc:ir108` (Meteosat-9, 15 min). A TIME between frames is answered with the nearest one, so only listed times are asked for; no data is asked for in black (`src/imagery/eumetsat.ts`) |
-| Geocoding | `https://photon.komoot.io/api/?q=…&limit=6` and `/reverse?lat=&lon=` | GeoJSON; properties `name, city, state, country, countrycode, osm_value` |
+| Geocoding | `https://photon.komoot.io/api/?q=…&limit=6` and `/reverse?lat=&lon=`; reverse only, when Photon has not answered in 1.2 s: `https://nominatim.openstreetmap.org/reverse?…&format=geocodejson&zoom=10` (≤ 1 request/s) | GeoJSON; properties `name, city, state, country, countrycode, osm_value` (Nominatim's under `properties.geocoding`) |
 | Time zone | `@photostructure/tz-lookup` (installed) | `tzlookup(lat, lon)` → IANA tz |
 
 ## Module ownership (parallel build: only touch files you own)
@@ -134,7 +134,7 @@ Earth (real sun), clouds, atmosphere, stars, the whole catalog as GPU points, th
 (ground track, swath ribbon, satellite with callout, replay-synced), plus a camera director for `store.camera` intents.
 Dropped pins (`src/globe/pin.ts`, `PinMarker.tsx`, `PinOverlay.tsx`): a click on the planet (mouse) or a finger held still
 for 450 ms (touch, pen; a quick tap stays the satellite pick) drops a bone reticle at that spot in `store.pin`, with a card
-that names it (Photon reverse geocoding) and an orange arrow that calls `onPinSearch` with a `source: 'pin'` place. Pins
+that names it (Photon reverse geocoding, hedged to Nominatim when Photon is slow) and an orange arrow that calls `onPinSearch` with a `source: 'pin'` place. Pins
 exist in `idle`, `results` and `error`; any search starting clears them; while one is down the overview drift holds still.
 `store.dropPinAtCentre()` (the landing's touch chip) drops one at the middle of the planet's disc.
 Store writes: `globeReady`, `hoveredNorad`, `simTime`, `cameraFlight`, `dayMapSharp`, `pin`, `pinReady`. It sets `globeReady` once first textures are on screen, and

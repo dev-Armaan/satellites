@@ -15,6 +15,9 @@ export type Ranked = [string, number][]
 export interface AdminStats {
   range: Range
   generatedAt: number
+  /** Where the range starts, ms: now - 24 h for 24h; Eastern midnight 6 or 29 days before today for 7d and 30d; the
+   *  first day for all. Null from a database before 0016, whose 7d and 30d ran back from now and whose days were UTC. */
+  from: number | null
   bucket: 'hour' | 'day'
   /** Event counts by type, plus `session` (tabs). `search` and `session` include hours rebuilt after an outage (0015) */
   totals: Record<string, number>
@@ -36,9 +39,9 @@ export interface AdminStats {
   recentErrors: { t: number; where?: string; msg?: string }[]
   /** When the hourly maintenance (rollup + prune, pg_cron) last ran, ms; null if it never has */
   maintLastAt: number | null
-  /** The last UTC day rolled into the daily totals, 'YYYY-MM-DD' */
+  /** The last day rolled into the daily totals, 'YYYY-MM-DD' (a US Eastern day from 0016, UTC before) */
   rolledThrough: string | null
-  /** When these stats were computed (the 5-minute cache, 0009), ms; null from a database before 0009 */
+  /** When these stats were computed (the cache, 0009; refreshed every 30 minutes since 0014), ms; null before 0009 */
   cachedAt: number | null
 }
 
@@ -135,6 +138,7 @@ export function parseStats(v: unknown): AdminStats | null {
   return {
     range: v.range as Range,
     generatedAt: num(v.generatedAt),
+    from: numOrNull(v.from),
     bucket: v.bucket === 'day' ? 'day' : 'hour',
     totals,
     recorded: { search: recorded('search'), session: recorded('session') },

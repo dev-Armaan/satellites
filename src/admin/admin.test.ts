@@ -47,7 +47,18 @@ describe('formats', () => {
     expect(fmtBucket(Date.UTC(2026, 10, 8, 14), 'hour')).toBe('NOV 08 09:00') // EST = UTC-5
     expect(fmtBucket(Date.UTC(2026, 10, 8, 5), 'hour', true)).toBe('NOV 08') // ET midnight
     expect(fmtBucket(Date.UTC(2026, 6, 8, 14), 'hour')).toBe('JUL 08 10:00') // EDT = UTC-4
-    expect(fmtBucket(Date.UTC(2026, 10, 8), 'day')).toBe('NOV 08')
+    expect(fmtBucket(Date.UTC(2026, 10, 8), 'day')).toBe('NOV 08') // a UTC day (before 0016)
+    expect(fmtBucket(Date.UTC(2026, 10, 8, 5), 'day')).toBe('NOV 08') // an Eastern day: midnight EST
+    expect(fmtBucket(Date.UTC(2026, 6, 8, 4), 'day')).toBe('JUL 08') // midnight EDT
+  })
+})
+
+describe('range start (0016)', () => {
+  it('parses from, null from a database before 0016', () => {
+    const from = Date.UTC(2026, 10, 6, 5)
+    expect(parseStats({ range: '7d', from })!.from).toBe(from)
+    expect(parseStats({ range: '7d' })!.from).toBeNull()
+    expect(parseStats({ range: '7d', from: 'x' })!.from).toBeNull()
   })
 })
 

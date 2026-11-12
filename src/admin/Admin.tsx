@@ -321,6 +321,8 @@ function Dashboard({ s, busy, onRefresh }: { s: AdminStats; busy: boolean; onRef
   const r = s.results
   const v = s.vitals
   const now = useNow(30e3)
+  // A database from 0016 on says where the range starts, and its days are US Eastern; before, they were UTC.
+  const etDays = s.from != null
 
   return (
     <div className={busy ? 'a-dash a-busy' : 'a-dash'}>
@@ -333,6 +335,7 @@ function Dashboard({ s, busy, onRefresh }: { s: AdminStats; busy: boolean; onRef
       )}
       <p className="a-status">
         <span>{RANGE_WORDS[s.range].toUpperCase()}</span>
+        {s.from != null && <span className="a-dim">FROM {fmtStamp(s.from)}</span>}
         <span className="a-dim">GENERATED {fmtStamp(s.generatedAt)}</span>
         {s.cachedAt != null && <span className="a-dim">{fmtUpdated(s.cachedAt, now)}</span>}
         <button type="button" className="a-link" onClick={onRefresh} disabled={busy}>
@@ -351,7 +354,7 @@ function Dashboard({ s, busy, onRefresh }: { s: AdminStats; busy: boolean; onRef
         </div>
       </Section>
 
-      <Section n={2} title={s.bucket === 'hour' ? 'ACTIVITY · HOURLY ET' : 'ACTIVITY · DAILY (UTC DAYS)'}>
+      <Section n={2} title={s.bucket === 'hour' ? 'ACTIVITY · HOURLY ET' : etDays ? 'ACTIVITY · DAILY ET' : 'ACTIVITY · DAILY (UTC DAYS)'}>
         <ActivityChart series={s.series} bucket={s.bucket} />
       </Section>
 
@@ -469,7 +472,10 @@ function Dashboard({ s, busy, onRefresh }: { s: AdminStats; busy: boolean; onRef
       </div>
 
       <p className="a-foot">
-        Counted per browser tab: no cookies, no IPs, places at city level and 0.1° cells. Raw events are kept 90 days; daily totals after that. Times are US Eastern; daily totals are UTC days.
+        Counted per browser tab: no cookies, no IPs, places at city level and 0.1° cells.{' '}
+        {etDays
+          ? 'Raw events are kept 48 hours, then hourly and daily totals. Past 24 hours, each day keeps its top 3,000 map cells and top 200 of every other list, so the tail of a long list (and the map’s smallest dots) can come up a little short; totals and percentages count everything. Times and days are US Eastern; 7D and 30D start at midnight.'
+          : 'Raw events are kept 90 days; daily totals after that. Times are US Eastern; daily totals are UTC days.'}
       </p>
     </div>
   )

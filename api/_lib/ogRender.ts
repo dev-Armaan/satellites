@@ -4,18 +4,25 @@
  *
  * Why not @vercel/og's `ImageResponse`, which did this before: it only runs on Node (its bundled HarfBuzz looks
  * for hb.wasm through `fs` and `__dirname`), and it switches to sharp whenever sharp is installed, so the pixels
- * depended on the host. Calling satori and resvg directly lets a Cloudflare Worker draw the same cards, and resvg
- * draws every card, so the bytes no longer depend on the host. satori and resvg are pinned to the versions
+ * depended on the host. A Cloudflare Worker may only run WebAssembly it bundled at deploy time, so the WebAssembly
+ * comes from `bundled()` when the host registered it (the Worker) and from `node_modules` otherwise, and resvg
+ * draws every card: Vercel and Cloudflare produce the same bytes. satori and resvg are pinned to the versions
  * @vercel/og 1.0.3 shipped, so the layout of every card stays as it was.
  */
 import type { ReactElement } from 'react'
 import satori, { init as initSatori } from 'satori/standalone'
 import { Resvg, initWasm as initResvg } from '@resvg/resvg-wasm'
+import { bundled } from './bundled.js'
 import { loadFallbackAsset } from './fallbackFonts.js'
 import type { SatoriFont } from './fonts.js'
 
-/** A .wasm file from node_modules; else the copy vercel.json ships (`includeFiles`) where the function runs. */
-async function wasm(specifier: string): Promise<Uint8Array> {
+/**
+ * The host's registered copy (a Worker, compiled), else a .wasm file from node_modules, else the copy vercel.json
+ * ships (`includeFiles`) where the function runs.
+ */
+async function wasm(key: string, specifier: string): Promise<WebAssembly.Module | Uint8Array | ArrayBuffer> {
+  const registered = bundled(key)
+  if (registered) return registered
   const [{ readFile }, { createRequire }, { default: path }] = await Promise.all([import('node:fs/promises'), import('node:module'), import('node:path')])
   let file: string
   try {
@@ -28,10 +35,10 @@ async function wasm(specifier: string): Promise<Uint8Array> {
 
 let ready: Promise<void> | null = null
 
-/** Once per instance, on the first card. */
+/** Once per instance, on the first card (not at startup: a Worker has one second to start). */
 function init(): Promise<void> {
   ready ??= (async () => {
-    const [yoga, resvg] = await Promise.all([wasm('satori/yoga.wasm'), wasm('@resvg/resvg-wasm/index_bg.wasm')])
+    const [yoga, resvg] = await Promise.all([wasm('wasm/yoga', 'satori/yoga.wasm'), wasm('wasm/resvg', '@resvg/resvg-wasm/index_bg.wasm')])
     await Promise.all([initSatori(yoga), initResvg(resvg)])
   })().catch((err: unknown) => {
     ready = null

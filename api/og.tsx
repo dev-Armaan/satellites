@@ -13,7 +13,8 @@
  * NASA GIBS and embedded. If the archive is slow or has nothing, the card draws the pass geometry
  * instead and is cached briefly so a later request can pick the image up.
  *
- * Runs on the Node.js runtime (fonts and the default plate are read from api/_fonts, api/_assets).
+ * Runs on Node (Vercel; fonts and the default plate are read from api/_fonts, api/_assets) and in the Cloudflare
+ * Worker, which registers its bundled copies of them (api/_lib/bundled.ts).
  */
 import { decode as decodePng } from 'fast-png'
 import { encode as encodeJpeg } from 'jpeg-js'

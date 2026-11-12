@@ -39,6 +39,7 @@ import {
   type ScaleBar,
   type Tone,
 } from './cardSpec.js'
+import { bundled } from './bundled.js'
 import { FONT } from './fonts.js'
 import { WORDMARK_ASPECT, wordmarkSvg } from './wordmark.js'
 import { box, h, type Child } from './h.js'
@@ -294,6 +295,8 @@ let plateUri: Promise<string | null> | null = null
 /** The bundled plate as a data URI (null if it can't be read: the card then draws without it). */
 export function defaultPlateDataUri(): Promise<string | null> {
   plateUri ??= (async () => {
+    const registered = bundled(`_assets/${DEFAULT_PLATE.file}`) // a Worker's copy (bundled.ts)
+    if (registered instanceof ArrayBuffer) return `data:image/jpeg;base64,${Buffer.from(registered).toString('base64')}`
     let buf: Buffer
     try {
       buf = await readFile(fileURLToPath(new URL(`../_assets/${DEFAULT_PLATE.file}`, import.meta.url)))

@@ -322,7 +322,7 @@ function Geometry({ pass: p, meta, tz, model, entering }: { pass: Pass; meta: Sa
       { label: 'Scan line here · local', value: `≈ ${t.time}`, unit: `${t.day} ${t.zone}` },
       { label: 'Above the equator at', value: fmtLon(p.track[0]?.lon ?? 0, 1) },
       { label: 'In your sky', value: `${dec1(p.elevationDeg)}°`, unit: `up · ${compassAbbr(p.azimuthDeg)}` },
-      { label: 'Scan direction', value: p.headingDeg === 180 ? 'North → south' : 'South → north' },
+      { label: 'Scan direction', value: p.node === 'descending' ? 'North → south' : 'South → north' },
       { label: 'Line speed here', value: dec1(p.groundSpeedKmS), unit: 'km/s' },
       { label: 'Sun elevation', value: `${dec1(p.sunElevationDeg)}°`, unit: p.sunElevationDeg >= 0 ? 'Day' : p.sunElevationDeg >= -6 ? 'Twilight' : 'Night' },
       { label: 'Coverage', value: 'Full disc', unit: prof?.cadenceMin ? `every ${int(prof.cadenceMin)} min` : undefined },

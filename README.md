@@ -186,7 +186,9 @@ never reads the IP. The app never sends street-level place names. Vercel and Sup
 in their own request logs, like any host.
 
 Other services see the place too. [Photon](https://photon.komoot.io) sees what you type, or your coordinates if you
-use your location. Planetary Computer and NASA GIBS see the point and the area around it, to send the photos, and so
+use your location or drop a pin; when Photon is slow to name a spot,
+[Nominatim](https://nominatim.openstreetmap.org) sees those coordinates too, and when Photon is slow to search,
+[Open-Meteo](https://open-meteo.com/en/docs/geocoding-api) sees what you type. Planetary Computer and NASA GIBS see the point and the area around it, to send the photos, and so
 does EUMETSAT where a Meteosat watches the place.
 Element 84 sees it only when Planetary Computer is down. Vercel Web Analytics receives the page address, which for a
 place link includes its coordinates and name.
@@ -308,7 +310,7 @@ docs/                 DESIGN.md, ARCHITECTURE.md, SELF-HOSTING.md
 | NASA&nbsp;GIBS | Imagery from NASA's GIBS, part of EOSDIS. GOES via NOAA and CIRA, Himawari via JMA. |
 | Meteosat | Contains modified EUMETSAT Meteosat data, followed by the year, from [EUMETSAT's map service](https://view.eumetsat.int). |
 | Archives | [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com) and [Element 84 Earth Search](https://element84.com/earth-search/); Landsat's 15 m band from the [Copernicus Data Space Ecosystem](https://dataspace.copernicus.eu). |
-| Places | [Photon](https://photon.komoot.io) by komoot. Map data © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright) (ODbL). |
+| Places | [Photon](https://photon.komoot.io) by komoot, and [Nominatim](https://nominatim.org) (OpenStreetMap Foundation) for naming a spot when Photon is slow; [Open-Meteo](https://open-meteo.com) ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), from [GeoNames](https://www.geonames.org)) for searching when Photon is slow. Map data © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright) (ODbL). |
 | Textures | [Solar System Scope](https://www.solarsystemscope.com/textures/) ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)), from NASA Blue Marble and Black Marble, partly by way of the three.js examples. Resized, re-encoded and repacked for this project. |
 | Fonts | Instrument Sans and Serif by Instrument, Martian Mono by Evil Martians (SIL OFL 1.1). |
 

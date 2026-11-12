@@ -19,7 +19,11 @@ import {
   parseCoordinates,
   photonReverseToPlace,
   photonToPlace,
+  nominatimToPhoton,
+  openMeteoToPlaces,
+  SEARCH_HEDGE_MS,
   reversePlace,
+  REVERSE_HEDGE_MS,
   searchPlaces,
   sublabelOf,
   timeZoneAt,
@@ -240,5 +244,125 @@ describe('network', () => {
     expect(await reversePlace(30, -40)).toEqual({ lat: 30, lon: -40, label: '30.0000°N 40.0000°W', source: 'geolocation' })
     vi.stubGlobal('fetch', vi.fn(async () => Promise.reject(new TypeError('Failed to fetch'))))
     expect((await reversePlace(43.4723, -80.5449)).label).toBe('43.4723°N 80.5449°W')
+  })
+
+  it('reversePlace asks Nominatim when Photon stalls, and names the spot from its reply', async () => {
+    const urls: string[] = []
+    const f = vi.fn((url: string, init?: RequestInit) => {
+      urls.push(url)
+      if (url.startsWith('https://photon.komoot.io/')) {
+        return new Promise<Response>((_, rej) => init?.signal?.addEventListener('abort', () => rej(new DOMException('aborted', 'AbortError'))))
+      }
+      return Promise.resolve(Response.json(nominatimWaterloo))
+    })
+    vi.stubGlobal('fetch', f)
+    const t0 = Date.now()
+    const place = await reversePlace(43.4723, -80.5449)
+    expect(Date.now() - t0).toBeLessThan(REVERSE_HEDGE_MS + 1_000)
+    expect(place).toEqual({ lat: 43.4723, lon: -80.5449, label: 'Waterloo', sublabel: 'Ontario, Canada', countryCode: 'ca', source: 'geolocation' })
+    expect(urls[1]).toBe('https://nominatim.openstreetmap.org/reverse?lat=43.472300&lon=-80.544900&format=geocodejson&zoom=10&accept-language=en')
+  })
+})
+
+/** Nominatim GeoCodeJSON replies (abridged from live answers, 2026-11-12). */
+const nominatimWaterloo = {
+  type: 'FeatureCollection',
+  features: [
+    {
+      type: 'Feature',
+      properties: {
+        geocoding: {
+          osm_key: 'boundary',
+          osm_value: 'administrative',
+          type: 'city',
+          name: 'Waterloo',
+          county: 'Region of Waterloo',
+          state: 'Ontario',
+          country: 'Canada',
+          country_code: 'ca',
+        },
+      },
+      geometry: { type: 'Point', coordinates: [-80.5222961, 43.4652699] },
+    },
+  ],
+}
+const geocoding = (g: Record<string, string>) => ({ features: [{ properties: { geocoding: g } }] })
+
+describe('Nominatim reverse labels', () => {
+  const label = (res: Parameters<typeof nominatimToPhoton>[0]) => {
+    const f = nominatimToPhoton(res, 1, 2)
+    return f && photonReverseToPlace(f, 1, 2)
+  }
+
+  it('names a city by the city, not its county', () => {
+    expect(label(nominatimWaterloo)).toMatchObject({ label: 'Waterloo', sublabel: 'Ontario, Canada', countryCode: 'ca' })
+  })
+
+  it('prefers the city over its district, as Photon does', () => {
+    const r = geocoding({ osm_key: 'boundary', type: 'district', name: 'Suginami', city: 'Tokyo', country: 'Japan', country_code: 'jp' })
+    expect(label(r)).toMatchObject({ label: 'Tokyo', sublabel: 'Japan' })
+  })
+
+  it('falls back to the region in open country', () => {
+    const r = geocoding({ osm_key: 'boundary', type: 'state', name: 'Matruh', country: 'Egypt', country_code: 'eg' })
+    expect(label(r)).toMatchObject({ label: 'Matruh', sublabel: 'Egypt' })
+  })
+
+  it('has nothing at sea', () => {
+    expect(nominatimToPhoton({ error: 'Unable to geocode' }, 1, 2)).toBeNull()
+  })
+})
+
+/** Open-Meteo search results (abridged from live answers, 2026-11-12). */
+const omWaterloo = [
+  { name: 'Austin', latitude: 30.26715, longitude: -97.74306, country_code: 'US', country: 'United States', admin1: 'Texas' },
+  { name: 'Waterloo', latitude: 42.49276, longitude: -92.34296, country_code: 'US', country: 'United States', admin1: 'Iowa', population: 68460 },
+  { name: 'Waterloo', latitude: 43.4668, longitude: -80.51639, country_code: 'CA', country: 'Canada', admin1: 'Ontario', population: 104986 },
+]
+
+describe('Open-Meteo search results', () => {
+  it('keeps only places the query names (not an old name: Austin was once Waterloo), largest first', () => {
+    const r = openMeteoToPlaces(omWaterloo, 'waterl')
+    expect(r.map((p) => `${p.label} · ${p.sublabel}`)).toEqual(['Waterloo · Ontario, Canada', 'Waterloo · Iowa, United States'])
+    expect(r[0]).toMatchObject({ lat: 43.4668, lon: -80.51639, countryCode: 'ca', source: 'search' })
+  })
+
+  it('matches later words against the region or country', () => {
+    expect(openMeteoToPlaces(omWaterloo, 'waterloo, canada').map((p) => p.sublabel)).toEqual(['Ontario, Canada'])
+    expect(openMeteoToPlaces([{ name: 'Florence', latitude: 1, longitude: 2, admin1: 'Indiana' }], 'new york')).toEqual([])
+  })
+})
+
+describe('searchPlaces while Photon stalls', () => {
+  afterEach(() => vi.unstubAllGlobals())
+  const stalledPhoton = (other: () => Response) =>
+    vi.fn((url: string, init?: RequestInit) =>
+      url.startsWith('https://photon.komoot.io/')
+        ? new Promise<Response>((_, rej) => init?.signal?.addEventListener('abort', () => rej(new DOMException('aborted', 'AbortError'))))
+        : Promise.resolve(other()),
+    )
+
+  it('answers from Open-Meteo, and does not cache that answer', async () => {
+    const f = stalledPhoton(() => Response.json({ results: omWaterloo }))
+    vi.stubGlobal('fetch', f)
+    const t0 = Date.now()
+    const r2 = await searchPlaces('Waterlo')
+    expect(Date.now() - t0).toBeLessThan(SEARCH_HEDGE_MS + 1_000)
+    expect(r2.map((p) => p.sublabel)).toEqual(['Ontario, Canada', 'Iowa, United States'])
+    expect(String((f.mock.calls.at(-1) as unknown[])[0])).toBe('https://geocoding-api.open-meteo.com/v1/search?name=Waterlo&count=10&language=en&format=json')
+    vi.stubGlobal('fetch', vi.fn(async () => Response.json(waterloo)))
+    expect((await searchPlaces('waterlo')).length).toBeGreaterThan(0)
+  })
+
+  it('still waits for Photon when Open-Meteo has no match', async () => {
+    const ctrl = new AbortController()
+    vi.stubGlobal('fetch', stalledPhoton(() => Response.json({})))
+    const p = searchPlaces('CN Tower stalled', ctrl.signal)
+    let settled = false
+    void p.then(() => (settled = true), () => (settled = true))
+    await new Promise((r) => setTimeout(r, SEARCH_HEDGE_MS + 300))
+    expect(settled).toBe(false)
+    ctrl.abort()
+    await expect(p).rejects.toMatchObject({ name: 'AbortError' })
   })
 })

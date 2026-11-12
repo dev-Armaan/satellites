@@ -1,5 +1,6 @@
 /**
- * Place search: a combobox over `imagery.searchPlaces` (Photon / OSM; coordinates are accepted too).
+ * Place search: a combobox over `imagery.searchPlaces` (Photon / OSM, Open-Meteo when Photon is slow; coordinates
+ * are accepted too).
  *
  *   typing      debounced 220 ms, previous request aborted
  *   ↑ / ↓       move through suggestions (wraps through "none")

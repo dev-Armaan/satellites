@@ -183,6 +183,55 @@ export function fetchJson<T>(url: string, opts: FetchJsonOptions = {}): Promise<
   )
 }
 
+/**
+ * A hedged request: runs `primary`, and starts `backup` too if `primary` has not answered within `hedgeMs` (or at
+ * once, if `primary` fails first). Resolves with whichever answers first; rejects with `primary`'s error only when
+ * both fail. Both share a signal that is aborted as soon as there is an answer, so the loser is cancelled. For free
+ * public services that are usually fast but can stall for tens of seconds: the user waits for the faster one, and the
+ * backup is only asked when it is needed.
+ */
+export function hedge<T>(primary: (signal: AbortSignal) => Promise<T>, backup: (signal: AbortSignal) => Promise<T>, hedgeMs: number, signal?: AbortSignal): Promise<T> {
+  if (signal?.aborted) return Promise.reject(abortReason(signal))
+  const ctl = new AbortController()
+  const onAbort = () => ctl.abort(signal?.reason)
+  signal?.addEventListener('abort', onAbort, { once: true })
+  return new Promise<T>((resolve, reject) => {
+    let settled = false
+    let backupStarted = false
+    let failures = 0
+    let primaryErr: unknown
+    const finish = (fn: () => void) => {
+      if (settled) return
+      settled = true
+      clearTimeout(timer)
+      signal?.removeEventListener('abort', onAbort)
+      fn()
+      ctl.abort()
+    }
+    const failed = (err: unknown) => {
+      if (signal?.aborted) return finish(() => reject(abortReason(signal)))
+      if (++failures === 2) finish(() => reject(primaryErr ?? err))
+    }
+    const startBackup = () => {
+      if (backupStarted || settled) return
+      backupStarted = true
+      backup(ctl.signal).then((v) => finish(() => resolve(v)), failed)
+    }
+    const timer = setTimeout(startBackup, hedgeMs)
+    ctl.signal.addEventListener('abort', () => {
+      if (signal?.aborted) finish(() => reject(abortReason(signal)))
+    })
+    primary(ctl.signal).then(
+      (v) => finish(() => resolve(v)),
+      (err: unknown) => {
+        primaryErr = err
+        failed(err)
+        startBackup()
+      },
+    )
+  })
+}
+
 export function hostOf(url: string): string {
   try {
     return new URL(url).host

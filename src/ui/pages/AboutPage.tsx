@@ -380,10 +380,10 @@ export function AboutPage({ onClose }: { onClose: () => void }) {
               <Facts
                 rows={[
                   ['Where it runs', 'The orbit maths happens in your browser.'],
-                  ['What we keep', 'We count searches by town and a rough 10 km area, never your exact spot, and keep a tally of what gets opened and shared. No IP addresses, no cookies, nothing that follows you between visits.'],
+                  ['What we keep', 'We count searches by town and a rough 10 km area, never your exact spot, and keep a tally of what gets opened and shared. No IP addresses, no cookies of our own, nothing that ties one visit to the next.'],
                   [
                     'Who else sees it',
-                    'Most place names come from a list built into the site. Other searches go to Open-Meteo, Photon or Nominatim. Photos load straight from the archives. Our host counts page views and speed, without cookies.',
+                    'Most place names come from a list built into the site. Other searches go to Open-Meteo, Photon or Nominatim. Photos load straight from the archives. Our host counts page views and speed, without cookies, and may set one security cookie to tell people from bots. We never read it.',
                   ],
                   [
                     'Share links',

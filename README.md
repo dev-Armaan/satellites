@@ -198,6 +198,10 @@ The host also counts page views and page speed, with no cookies or local storage
 on Vercel, Cloudflare Web Analytics once it is on Cloudflare. Both receive the page address, which for a place link can
 include its coordinates and name.
 
+On Cloudflare, every page also gets a script Cloudflare adds to tell people from bots (JavaScript detections, which
+the free plan cannot turn off). It sets one security cookie, `cf_clearance`, on watched.earth for up to a year. Watched
+never reads it, and it is not used for analytics. It is the only cookie the site's visitors get.
+
 Usage events are sent only from watched.earth, and never from a development build, an automated browser or a tab
 opened with `?noanalytics=1` (for as long as that tab stays open). The flag doesn't stop lookups and shares being
 counted: any build with Supabase configured counts them, development included. The host's web analytics ignores the

@@ -12,7 +12,7 @@ export {
   type ElementBuffer,
 } from './elements'
 export type { EngineReport, ReportOptions, ReportTimings } from './report'
-export { geoWatchers } from './geostationary'
+export { geoWatchers, scanAngleAt, scanLine, scanSeatOf, type ScanLine, type ScanSeat } from './geostationary'
 export { PROFILES } from './profiles'
 
 import type { Place, SatProfile } from '@/types'

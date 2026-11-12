@@ -22,6 +22,7 @@ vi.mock('@/imagery', async () => {
 })
 
 import { getRow, getSatInfo } from './catalog'
+import { scanAngleAt, scanAngleOf, scanSeatOf } from './geostationary'
 import { satrecFor } from './sgp4'
 import { findPassesForSat, passTargetFor } from './passes'
 import { computeReport, OCEAN_NOTE } from './report'
@@ -710,7 +711,13 @@ describe('computeReport', () => {
       expect(scan.tEnd - scan.tStart).toBe(600_000)
       expect(scan.tClosest).toBeGreaterThan(frameTime + 30_000)
       expect(scan.tClosest).toBeLessThan(frameTime + 300_000)
-      expect(scan.headingDeg).toBe(180)
+      // South, give or take the line's slight tilt away from the meridian under the spacecraft (Waterloo is 5° off it).
+      expect(Math.abs(scan.headingDeg - 180)).toBeLessThan(2)
+      expect(scan.node).toBe('descending')
+      // The crossing is the moment the line is at the angle GOES-19 sees Waterloo at.
+      const seat = scanSeatOf(scan)!
+      expect(Math.abs(seat.lon + 75)).toBeLessThan(3)
+      expect(scanAngleAt(scan, scan.tClosest)).toBeCloseTo(scanAngleOf(seat, waterloo), 4)
       expect(scan.altitudeKm).toBeGreaterThan(35_000)
       expect(scan.elevationDeg).toBeGreaterThan(30)
       for (let i = 1; i < scan.track.length; i++) expect(scan.track[i].lat).toBeLessThan(scan.track[i - 1].lat)

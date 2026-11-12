@@ -38,12 +38,16 @@
 - Shares keep a capture only from an allow-list of collections in `create_share` (latest definition in
   `supabase/migrations/0012_*`, which adds Sentinel-1 radar); an unknown collection is dropped and the share made
   without its image. The collection lists in `api/_lib/share.ts` and `src/lib/backend.ts` must match it.
-- Admin stats are precomputed every 30 minutes by pg_cron (`admin_stats_cache`, migration 0009; 0014 moved it from every 5, which overloaded the free database). Admin times are US
-  Eastern, and so are its days (0016).
-- Raw events, tabs and lookups are kept 48 hours (0016; the free plan's 500 MB). Admin ranges past 24h read rollups made
-  by `roll_event_day` / `roll_event_hours` (`event_days`, `event_hours`, `event_dists`, `event_alltime*`): a new number
-  on the admin page that only reads `public.events` covers 48 hours at most, so roll it up there too. Each day keeps
-  its top 3000 cells / 200 values per breakdown (`event_keep`).
+- Admin stats are precomputed hourly at :00 by pg_cron (`admin_stats_cache`, migration 0009; 0019), and the refresh
+  skips itself while the rollups are behind. Every 5 or 30 minutes over raw events overloaded the database twice
+  (2026-11-11, 2026-11-12). Admin times are US Eastern, and so are its days (0016).
+- Raw events, tabs and lookups are kept 48 hours (0016). Every admin range reads rollups (0019): hourly ones
+  (`roll_event_hour_dims`: `event_hour_dims`, `event_hour_dists`, `event_tab_days` so a tab counts once a day) and daily
+  ones (`roll_event_day`: `event_days`, `event_dists`, `event_alltime*`), and raw events only for the hour or so not
+  rolled yet. A new number on the admin page must be rolled up there too, never computed over `public.events` (that is
+  what overloaded the database). Each hour and day keeps its top 3000 cells / 200 values per breakdown (`event_keep`).
+- Ad-hoc queries on production: at most an hour or two of `public.events` at a time. A 12-hour scan on 2026-11-12
+  stalled the API on the small machine.
 - `VITE_*` env vars are bundled into the browser. Server secrets (`CDSE_CLIENT_ID` / `CDSE_CLIENT_SECRET`) are only
   read in `api/`. Never print env values.
 - Cloud sessions cannot delete GitHub branches, change repo settings or use GitHub GraphQL (`gh` REST only). The

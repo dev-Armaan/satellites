@@ -15,8 +15,9 @@ export type Ranked = [string, number][]
 export interface AdminStats {
   range: Range
   generatedAt: number
-  /** Where the range starts, ms: now - 24 h for 24h; Eastern midnight 6 or 29 days before today for 7d and 30d; the
-   *  first day for all. Null from a database before 0016, whose 7d and 30d ran back from now and whose days were UTC. */
+  /** Where the range starts, ms: the hour 24 hours before this one for 24h (0019; now - 24 h before); Eastern midnight
+   *  6 or 29 days before today for 7d and 30d; the first day for all. Null from a database before 0016, whose 7d and 30d
+   *  ran back from now and whose days were UTC. */
   from: number | null
   bucket: 'hour' | 'day'
   /** Event counts by type, plus `session` (tabs). `search` and `session` include hours rebuilt after an outage (0015) */
@@ -41,7 +42,7 @@ export interface AdminStats {
   maintLastAt: number | null
   /** The last day rolled into the daily totals, 'YYYY-MM-DD' (a US Eastern day from 0016, UTC before) */
   rolledThrough: string | null
-  /** When these stats were computed (the cache, 0009; refreshed every 30 minutes since 0014), ms; null before 0009 */
+  /** When these stats were computed (the cache, 0009; refreshed hourly at :00 since 0019), ms; null before 0009 */
   cachedAt: number | null
 }
 

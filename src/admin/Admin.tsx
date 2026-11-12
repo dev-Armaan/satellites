@@ -474,7 +474,7 @@ function Dashboard({ s, busy, onRefresh }: { s: AdminStats; busy: boolean; onRef
       <p className="a-foot">
         Counted per browser tab: no cookies, no IPs, places at city level and 0.1° cells.{' '}
         {etDays
-          ? 'Raw events are kept 48 hours, then hourly and daily totals. Past 24 hours, each day keeps its top 3,000 map cells and top 200 of every other list, so the tail of a long list (and the map’s smallest dots) can come up a little short; totals and percentages count everything. Times and days are US Eastern; 7D and 30D start at midnight.'
+          ? 'Raw events are kept 48 hours, then hourly and daily totals. Each hour and day keeps its top 3,000 map cells and top 200 of every other list, so the tail of a long list (and the map’s smallest dots) can come up a little short; totals and percentages count everything. A tab counts once a day. Times and days are US Eastern; 24H starts on the hour, 7D and 30D at midnight.'
           : 'Raw events are kept 90 days; daily totals after that. Times are US Eastern; daily totals are UTC days.'}
       </p>
     </div>

@@ -92,7 +92,9 @@ function overflightHtml(): Plugin {
  * the shell and the results panel again with not a line of them changed. index.html is revalidated on every visit anyway.
  */
 function appVersion(): string {
-  const v = process.env.VITE_APP_VERSION || (process.env.VERCEL_GIT_COMMIT_SHA ?? '').slice(0, 7) || process.env.npm_package_version || 'dev'
+  // The commit as each host's build names it: Vercel, then Cloudflare Workers Builds.
+  const sha = process.env.VERCEL_GIT_COMMIT_SHA || process.env.WORKERS_CI_COMMIT_SHA || ''
+  const v = process.env.VITE_APP_VERSION || sha.slice(0, 7) || process.env.npm_package_version || 'dev'
   return /^[A-Za-z0-9._-]{1,24}$/.test(v) ? v : 'dev'
 }
 

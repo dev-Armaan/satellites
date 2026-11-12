@@ -63,7 +63,7 @@
 
 **Testing against the live site** (www.watched.earth)
 - Any probe must block writes so it doesn't pollute analytics: requests matching `rpc/(create_share|record_lookup|log_events)`,
-  `/api/e` and `/_vercel/insights`, plus any non-GET to watched.earth or Supabase. Also add `?noanalytics=1`.
+  `/api/e`, `/_vercel/insights` and `/cdn-cgi/rum` (Cloudflare Web Analytics), plus any non-GET to watched.earth or Supabase. Also add `?noanalytics=1`.
   Planetary Computer's STAC search must NOT be blocked, or no photos load: it is a GET (no CORS preflight, see
   `src/imagery/stac.ts searchPage`) that falls back to a POST if the archive refuses the GET form.
 - Time a search with User Timing marks: `performance.getEntriesByName('overflight:<name>')`, for `run-report`,

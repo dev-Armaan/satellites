@@ -1,6 +1,7 @@
 /**
- * Image → RGBA pixels, for the checks that read pixels back: GIBS "no data" probes (24 px renders) and the
- * Sentinel-2 SCL box at the place (10 px). Worker-safe: OffscreenCanvas when available, DOM canvas otherwise.
+ * Image → RGBA pixels, for the checks that read pixels back: GIBS "no data" probes (24 px: a window of a map tile,
+ * ./gibsTiles.ts, or a small render) and the Sentinel-2 SCL box at the place (10 px). Worker-safe: OffscreenCanvas
+ * when available, DOM canvas otherwise.
  *
  * pixels.worker.ts runs `fetchPixelsHere` off the main thread (K8: a report reads ~40 probes during the
  * camera flight; fetch → blob → decode → draw → read back was ~200 ms of main-thread work on a 4×-throttled
@@ -25,6 +26,7 @@
  * measured on the image itself; no mask, no curve to share).
  */
 import { PHOTO_PX, canShareCurve, isMagnifiedView, maskFromResponse, toneCropAsync, tonePlanForUrl, type ToneMask, type ToneParams, type TonePlan } from '../../api/_lib/tone'
+import { tileWindowOf, type TileWindow } from './gibsTiles'
 import { frameRedrawFor } from './infrared'
 import { HttpError } from './net'
 import { panSharpen } from './panSharpen'
@@ -75,32 +77,44 @@ export function readbackContext(w: number, h: number): Readback | null {
 
 /**
  * Decode an image blob to RGBA. With `size`, the decoder scales it (createImageBitmap resize) and only the
- * small bitmap is drawn for read-back. Colour management and premultiplication are off, so class rasters
- * (SCL) read back their exact values.
+ * small bitmap is drawn for read-back. With `win` as well, only that rectangle of the image is read, drawn to
+ * `size`×`size` (a plain drawImage of the source rectangle: every engine has it, where createImageBitmap's own crop
+ * with options is uneven). Colour management and premultiplication are off, so class rasters (SCL) read back their
+ * exact values.
  */
-export async function decodeImagePixels(blob: Blob, size?: number): Promise<Pixels> {
+export async function decodeImagePixels(blob: Blob, size?: number, win?: TileWindow): Promise<Pixels> {
   const opts: ImageBitmapOptions = { colorSpaceConversion: 'none', premultiplyAlpha: 'none' }
-  if (size) Object.assign(opts, { resizeWidth: size, resizeHeight: size, resizeQuality: 'low' })
+  if (size && !win) Object.assign(opts, { resizeWidth: size, resizeHeight: size, resizeQuality: 'low' })
   const bmp = await createImageBitmap(blob, opts)
   try {
-    const { width, height } = bmp
+    const width = win && size ? size : bmp.width
+    const height = win && size ? size : bmp.height
     const ctx = readbackContext(width, height)
     if (!ctx) throw new Error('2D canvas unavailable')
-    ctx.drawImage(bmp, 0, 0)
+    if (win && size) ctx.drawImage(bmp, win.x, win.y, win.w, win.h, 0, 0, size, size)
+    else ctx.drawImage(bmp, 0, 0)
     return { data: ctx.getImageData(0, 0, width, height).data, width, height }
   } finally {
     bmp.close()
   }
 }
 
-/** Fetch `url` and decode it to pixels in this thread (the worker's job, and the fallback without one). */
+/** Side of the read-back of a probe tile's window: what the WMS probe rendered. */
+export const WINDOW_PX = 24
+
+/**
+ * Fetch `url` and decode it to pixels in this thread (the worker's job, and the fallback without one). A probe
+ * tile's URL names the window to read (./gibsTiles.ts): only that comes back, at `WINDOW_PX`.
+ */
 export async function fetchPixelsHere(url: string, signal?: AbortSignal): Promise<PixelFetch> {
-  const res = await fetch(url, { signal })
+  const win = tileWindowOf(url)
+  const res = await fetch(win ? url.slice(0, url.indexOf('#')) : url, { signal })
   const contentType = res.headers.get('content-type') ?? ''
   if (!res.ok) return { status: res.status, contentType, body: await res.text().catch(() => undefined) }
   // WMS reports errors as 200 + XML: no pixels then.
   if (!contentType.startsWith('image/')) return { status: res.status, contentType }
-  return { status: res.status, contentType, pixels: await decodeImagePixels(await res.blob()) }
+  const blob = await res.blob()
+  return { status: res.status, contentType, pixels: await (win ? decodeImagePixels(blob, WINDOW_PX, win) : decodeImagePixels(blob)) }
 }
 
 /** Pixel counts as no-data when it's transparent or every channel is within JPEG noise of 0. */

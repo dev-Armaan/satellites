@@ -1,0 +1,511 @@
+Seattle|47.606|-122.332|US|Washington|118
+Vancouver|49.250|-123.119|CA|British Columbia|116
+Portland|45.523|-122.676|US|Oregon|116
+Surrey|49.106|-122.825|CA|British Columbia|115
+Victoria|48.436|-123.352|CA|British Columbia|109
+Burnaby|49.266|-122.953|CA|British Columbia|108
+Tacoma|47.253|-122.444|US|Washington|107
+Richmond|49.170|-123.137|CA|British Columbia|106
+Vancouver|45.639|-122.661|US|Washington|106
+Coquitlam|49.285|-122.782|CA|British Columbia|103
+Abbotsford|49.058|-122.253|CA|British Columbia|103
+Bellevue|47.610|-122.201|US|Washington|103
+Langley|49.101|-122.659|CA|British Columbia|102
+Kent|47.381|-122.235|US|Washington|102
+Saanich|48.550|-123.369|CA|British Columbia|101
+Gresham|45.498|-122.431|US|Oregon|101
+Everett|47.979|-122.202|US|Washington|101
+Hillsboro|45.523|-122.990|US|Oregon|100
+Delta|49.089|-123.053|CA|British Columbia|100
+Chilliwack|49.166|-121.953|CA|British Columbia|100
+Renton|47.483|-122.217|US|Washington|100
+Beaverton|45.487|-122.804|US|Oregon|100
+Federal Way|47.322|-122.313|US|Washington|100
+Yakima|46.602|-120.506|US|Washington|99
+Nanaimo|49.166|-123.940|CA|British Columbia|99
+North Vancouver|49.316|-123.069|CA|British Columbia|99
+Kirkland|47.681|-122.209|US|Washington|99
+Bellingham|48.760|-122.488|US|Washington|99
+Maple Ridge|49.219|-122.602|CA|British Columbia|98
+New Westminster|49.207|-122.911|CA|British Columbia|98
+Auburn|47.307|-122.228|US|Washington|98
+Marysville|48.052|-122.177|US|Washington|96
+Fleetwood|49.167|-122.800|CA|British Columbia|96
+Redmond|47.674|-122.122|US|Washington|96
+Lakewood|47.172|-122.518|US|Washington|96
+Port Coquitlam|49.266|-122.769|CA|British Columbia|95
+Olympia|47.045|-122.902|US|Washington|95
+Shoreline|47.756|-122.342|US|Washington|95
+South Hill|47.141|-122.270|US|Washington|94
+Sammamish|47.642|-122.080|US|Washington|94
+Tigard|45.431|-122.771|US|Oregon|94
+Burien|47.470|-122.347|US|Washington|94
+Aloha|45.494|-122.867|US|Oregon|94
+Langford|48.450|-123.503|CA|British Columbia|93
+Lacey|47.034|-122.823|US|Washington|93
+City of Sammamish|47.604|-122.038|US|Washington|93
+West Vancouver|49.329|-123.160|CA|British Columbia|93
+Bothell|47.762|-122.205|US|Washington|93
+Mission|49.133|-122.303|CA|British Columbia|92
+Edmonds|47.811|-122.377|US|Washington|92
+Strawberry Hill|49.133|-122.883|CA|British Columbia|92
+Puyallup|47.185|-122.293|US|Washington|92
+Bremerton|47.567|-122.633|US|Washington|92
+Lake Oswego|45.421|-122.671|US|Oregon|92
+Lynnwood|47.821|-122.315|US|Washington|91
+Longview|46.138|-122.938|US|Washington|91
+Issaquah|47.530|-122.033|US|Washington|91
+Oregon City|45.357|-122.607|US|Oregon|91
+Parkland|47.155|-122.434|US|Washington|91
+Mount Vernon|48.421|-122.334|US|Washington|91
+West Lake Sammamish|47.578|-122.101|US|Washington|91
+McMinnville|45.210|-123.199|US|Oregon|91
+Wenatchee|47.423|-120.310|US|Washington|91
+University Place|47.236|-122.550|US|Washington|90
+Des Moines|47.402|-122.324|US|Washington|90
+Victoria-Fraserview|49.217|-123.067|CA|British Columbia|90
+Lake Stevens|48.015|-122.064|US|Washington|90
+East Hill-Meridian|47.411|-122.174|US|Washington|90
+North Cowichan|48.841|-123.686|CA|British Columbia|89
+Courtenay|49.687|-124.994|CA|British Columbia|89
+SeaTac|47.448|-122.292|US|Washington|89
+Port Moody|49.281|-122.825|CA|British Columbia|89
+Spanaway|47.104|-122.435|US|Washington|89
+Tualatin|45.384|-122.764|US|Oregon|89
+West Linn|45.366|-122.612|US|Oregon|88
+North Creek|47.820|-122.176|US|Washington|88
+Maple Valley|47.393|-122.046|US|Washington|88
+Woodburn|45.144|-122.855|US|Oregon|88
+Mercer Island|47.571|-122.222|US|Washington|88
+Forest Grove|45.520|-123.111|US|Oregon|88
+Bainbridge Island|47.626|-122.521|US|Washington|88
+Squamish|49.699|-123.156|CA|British Columbia|88
+White Rock|49.020|-122.795|CA|British Columbia|87
+Graham|47.053|-122.294|US|Washington|87
+Picnic Point-North Lynnwood|47.863|-122.295|US|Washington|87
+Newberg|45.300|-122.973|US|Oregon|87
+Wilsonville|45.300|-122.774|US|Oregon|87
+Inglewood-Finn Hill|47.720|-122.232|US|Washington|87
+Oak Harbor|48.293|-122.643|US|Washington|87
+Riley Park|49.243|-123.093|CA|British Columbia|87
+Cottage Lake|47.744|-122.077|US|Washington|87
+Duncan|48.783|-123.703|CA|British Columbia|87
+Kenmore|47.757|-122.244|US|Washington|87
+Camas|45.587|-122.400|US|Washington|87
+Mukilteo|47.945|-122.305|US|Washington|87
+West Lake Stevens|47.993|-122.102|US|Washington|86
+Mountlake Terrace|47.788|-122.309|US|Washington|86
+Silver Firs|47.866|-122.155|US|Washington|86
+Milwaukie|45.446|-122.639|US|Oregon|86
+Port Alberni|49.241|-124.803|CA|British Columbia|86
+Bethany|45.558|-122.868|US|Oregon|86
+Eastmont|47.897|-122.182|US|Washington|86
+Mill Creek|47.860|-122.204|US|Washington|86
+Tukwila|47.474|-122.261|US|Washington|86
+Bonney Lake|47.177|-122.187|US|Washington|86
+Salmon Creek|45.711|-122.649|US|Washington|86
+Orchards|45.667|-122.561|US|Washington|86
+Port Angeles|48.118|-123.431|US|Washington|86
+Hazel Dell|45.672|-122.663|US|Washington|86
+Battle Ground|45.781|-122.533|US|Washington|86
+Sherwood|45.357|-122.840|US|Oregon|86
+Silverdale|47.645|-122.695|US|Washington|86
+Covington|47.358|-122.122|US|Washington|86
+Tumwater|47.007|-122.909|US|Washington|86
+Fairwood|47.448|-122.157|US|Washington|86
+Ellensburg|46.997|-120.548|US|Washington|86
+Columbia City|47.564|-122.275|US|Washington|86
+Arlington|48.199|-122.125|US|Washington|86
+Union Hill-Novelty Hill|47.679|-122.028|US|Washington|85
+Frederickson|47.096|-122.359|US|Washington|85
+Pitt Meadows|49.221|-122.690|CA|British Columbia|85
+Happy Valley|45.447|-122.530|US|Oregon|85
+Five Corners|45.685|-122.575|US|Washington|85
+Anacortes|48.513|-122.613|US|Washington|85
+Monroe|47.855|-121.971|US|Washington|85
+Oak Bay|48.450|-123.303|CA|British Columbia|85
+Esquimalt|48.436|-123.412|CA|British Columbia|85
+Central Saanich|48.566|-123.419|CA|British Columbia|85
+Canby|45.263|-122.693|US|Oregon|85
+Colwood|48.433|-123.486|CA|British Columbia|85
+Centralia|46.716|-122.954|US|Washington|84
+Troutdale|45.539|-122.387|US|Oregon|84
+Oak Grove|45.417|-122.640|US|Oregon|84
+Sunnyside|46.324|-120.009|US|Washington|84
+Aberdeen|46.975|-123.816|US|Washington|84
+Bryn Mawr-Skyway|47.494|-122.241|US|Washington|84
+Martha Lake|47.851|-122.239|US|Washington|84
+The Dalles|45.595|-121.179|US|Oregon|84
+Washougal|45.583|-122.353|US|Washington|84
+Sooke|48.375|-123.728|CA|British Columbia|84
+Burquitlam|49.267|-122.883|CA|British Columbia|83
+Comox|49.683|-124.936|CA|British Columbia|83
+Cedar Mill|45.525|-122.811|US|Oregon|83
+Elk Plain|47.053|-122.398|US|Washington|83
+Camano|48.174|-122.528|US|Washington|83
+East Wenatchee|47.416|-120.293|US|Washington|83
+Port Orchard|47.540|-122.636|US|Washington|83
+Lynden|48.947|-122.452|US|Washington|83
+White Center|47.517|-122.355|US|Washington|83
+Oatfield|45.414|-122.600|US|Oregon|83
+Lake Forest Park|47.757|-122.281|US|Washington|82
+Lea Hill|47.326|-122.182|US|Washington|82
+Snoqualmie|47.529|-121.825|US|Washington|82
+Powell River|49.833|-124.524|CA|British Columbia|82
+Ferndale|48.846|-122.591|US|Washington|82
+Lakeland North|47.333|-122.277|US|Washington|82
+Saint Helens|45.864|-122.806|US|Oregon|82
+West Valley|46.592|-120.605|US|Washington|82
+Artondale|47.300|-122.621|US|Washington|82
+Aldergrove|49.058|-122.471|CA|British Columbia|82
+Sidney|48.650|-123.403|CA|British Columbia|82
+Cornelius|45.520|-123.060|US|Oregon|82
+Parksville|49.319|-124.316|CA|British Columbia|82
+Gladstone|45.381|-122.595|US|Oregon|82
+Kelso|46.147|-122.908|US|Washington|82
+Woodinville|47.754|-122.163|US|Washington|81
+Clayburn|49.069|-122.262|CA|British Columbia|81
+Enumclaw|47.204|-121.992|US|Washington|81
+View Royal|48.458|-123.453|CA|British Columbia|81
+Lakeland South|47.278|-122.283|US|Washington|81
+Prairie Ridge|47.138|-122.149|US|Washington|81
+Newcastle|47.539|-122.156|US|Washington|81
+Oak Hills|45.541|-122.841|US|Oregon|81
+East Renton Highlands|47.485|-122.112|US|Washington|81
+North Saanich|48.666|-123.419|CA|British Columbia|81
+Joint Base Lewis McChord|47.108|-122.577|US|Washington|81
+Damascus|45.418|-122.459|US|Oregon|81
+Maltby|47.805|-122.113|US|Washington|81
+Sedro-Woolley|48.504|-122.236|US|Washington|81
+Klahanie|47.571|-122.008|US|Washington|81
+Sandy|45.397|-122.261|US|Oregon|81
+Vashon|47.447|-122.460|US|Washington|81
+Lake Morton-Berrydale|47.333|-122.103|US|Washington|80
+Tillicum|48.450|-123.400|CA|British Columbia|80
+Poulsbo|47.736|-122.647|US|Washington|80
+Fife|47.239|-122.357|US|Washington|80
+Shelton|47.215|-123.101|US|Washington|80
+Edgewood|47.250|-122.294|US|Washington|80
+Walnut Grove|45.668|-122.599|US|Washington|80
+Minnehaha|45.659|-122.627|US|Washington|80
+Silverton|45.005|-122.783|US|Oregon|80
+Sumner|47.203|-122.240|US|Washington|80
+Snohomish|47.913|-122.098|US|Washington|80
+Astoria|46.188|-123.831|US|Oregon|80
+DuPont|47.097|-122.631|US|Washington|79
+Port Townsend|48.117|-122.761|US|Washington|79
+Rockcreek|45.550|-122.877|US|Oregon|79
+Qualicum Beach|49.348|-124.442|CA|British Columbia|79
+Fairview|45.538|-122.434|US|Oregon|79
+Tulalip|48.068|-122.292|US|Washington|79
+Toppenish|46.377|-120.309|US|Washington|79
+Molalla|45.147|-122.577|US|Oregon|79
+Midland|47.167|-122.405|US|Washington|79
+Sechelt|49.475|-123.759|CA|British Columbia|79
+Picnic Point|47.881|-122.328|US|Washington|79
+Harewood|49.147|-123.947|CA|British Columbia|79
+Gig Harbor|47.329|-122.580|US|Washington|79
+Milton|47.248|-122.313|US|Washington|79
+Burlington|48.476|-122.325|US|Washington|79
+Ladysmith|48.990|-123.817|CA|British Columbia|79
+Alderwood Manor|47.808|-122.261|US|Washington|79
+Yelm|46.942|-122.606|US|Washington|79
+Birch Bay|48.918|-122.745|US|Washington|78
+Hoquiam|46.981|-123.889|US|Washington|78
+Cedar Hills|45.505|-122.798|US|Oregon|78
+West Haven-Sylvan|45.516|-122.768|US|Oregon|78
+Summit|47.162|-122.357|US|Washington|78
+Waller|47.201|-122.369|US|Washington|78
+Mill Plain|45.643|-122.494|US|Washington|78
+Mount Vista|45.734|-122.633|US|Washington|78
+Lake Stickney|47.877|-122.262|US|Washington|78
+Selah|46.654|-120.530|US|Washington|78
+Duvall|47.742|-121.986|US|Washington|78
+Hood River|45.705|-121.521|US|Oregon|78
+Brentwood Bay|48.583|-123.453|CA|British Columbia|78
+Orting|47.098|-122.204|US|Washington|77
+Chehalis|46.662|-122.964|US|Washington|77
+Felida|45.710|-122.707|US|Washington|77
+Jennings Lodge|45.391|-122.613|US|Oregon|77
+Mill Bay|48.650|-123.550|CA|British Columbia|77
+Parkwood|47.533|-122.610|US|Washington|77
+Pacific|47.265|-122.250|US|Washington|77
+North Portland|45.610|-122.703|US|Oregon|77
+Scappoose|45.754|-122.878|US|Oregon|77
+Terrace Heights|46.606|-120.440|US|Washington|77
+Sequim|48.080|-123.102|US|Washington|77
+Gibsons|49.395|-123.506|CA|British Columbia|77
+Stanwood|48.241|-122.371|US|Washington|77
+Clackamas|45.408|-122.570|US|Oregon|77
+Fircrest|47.240|-122.516|US|Washington|77
+Hope|49.383|-121.441|CA|British Columbia|77
+North Bend|47.496|-121.787|US|Washington|76
+Garden Home-Whitford|45.464|-122.759|US|Oregon|76
+Normandy Park|47.436|-122.341|US|Washington|76
+Brier|47.785|-122.274|US|Washington|76
+Wollochet|47.269|-122.584|US|Washington|76
+Lake Shore|45.691|-122.691|US|Washington|76
+Nanoose Bay|49.272|-124.193|CA|British Columbia|76
+Seaside|45.993|-123.923|US|Oregon|76
+Ridgefield|45.815|-122.743|US|Washington|76
+Sudden Valley|48.723|-122.347|US|Washington|76
+Riverton|47.484|-122.295|US|Washington|76
+Agassiz|49.233|-121.769|CA|British Columbia|76
+Hobart|47.422|-121.973|US|Washington|76
+Steilacoom|47.170|-122.603|US|Washington|76
+Sheridan|45.099|-123.395|US|Oregon|76
+Bangor Trident Base|47.723|-122.714|US|Washington|76
+Union Gap|46.557|-120.475|US|Washington|76
+Ganges|48.853|-123.500|CA|British Columbia|76
+East Port Orchard|47.523|-122.624|US|Washington|75
+Raleigh Hills|45.481|-122.762|US|Oregon|75
+Tanglewilde|47.051|-122.782|US|Washington|75
+Tanglewilde-Thompson Place|47.051|-122.781|US|Washington|75
+Woodland|45.905|-122.744|US|Washington|75
+Ocean Shores|46.974|-124.156|US|Washington|75
+Barberton|45.693|-122.599|US|Washington|75
+Woods Creek|47.879|-121.898|US|Washington|75
+West Side Highway|46.184|-122.917|US|Washington|75
+Manchester|47.556|-122.545|US|Washington|75
+Boulevard Park|47.513|-122.317|US|Washington|74
+Warrenton|46.165|-123.924|US|Oregon|74
+Tracyton|47.609|-122.655|US|Washington|74
+Maplewood|47.402|-122.557|US|Washington|74
+Wapato|46.448|-120.420|US|Washington|74
+Metchosin|48.383|-123.536|CA|British Columbia|74
+Blaine|48.994|-122.747|US|Washington|74
+Tillamook|45.456|-123.846|US|Oregon|74
+Eastgate|47.573|-122.146|US|Washington|74
+Mount Hood Village|45.355|-121.981|US|Oregon|74
+Greektown|49.264|-123.176|CA|British Columbia|74
+Sultan|47.863|-121.817|US|Washington|74
+Hockinson|45.738|-122.487|US|Washington|74
+Buckley|47.163|-122.027|US|Washington|73
+Gabriola|49.170|-123.850|CA|British Columbia|73
+Beavercreek|45.288|-122.536|US|Oregon|73
+Prairie Heights|47.149|-122.105|US|Washington|73
+Black Diamond|47.309|-122.003|US|Washington|73
+Bowen Island|49.385|-123.336|CA|British Columbia|73
+Wauna|47.379|-122.643|US|Washington|72
+Suquamish|47.731|-122.552|US|Washington|72
+Chelan|47.841|-120.016|US|Washington|72
+Rosedale|47.331|-122.652|US|Washington|72
+Wood Village|45.534|-122.419|US|Oregon|72
+Koksilah|48.767|-123.683|CA|British Columbia|72
+Lafayette|45.244|-123.115|US|Oregon|72
+Belfair|47.451|-122.827|US|Washington|72
+Shawnigan Lake|48.651|-123.645|CA|British Columbia|72
+Marietta-Alderwood|48.790|-122.554|US|Washington|72
+Montesano|46.981|-123.603|US|Washington|72
+Lantzville|49.245|-124.075|CA|British Columbia|72
+Longbranch|47.209|-122.757|US|Washington|72
+Metzger|45.447|-122.759|US|Oregon|72
+Forks|47.950|-124.385|US|Washington|71
+Venersborg|45.774|-122.425|US|Washington|71
+Bethel|47.494|-122.631|US|Washington|71
+Granger|46.342|-120.187|US|Washington|71
+Key Center|47.341|-122.745|US|Washington|71
+King City|45.391|-122.816|US|Oregon|71
+Mirrormont|47.462|-121.996|US|Washington|71
+Fox Island|47.251|-122.629|US|Washington|71
+Ahtanum|46.560|-120.622|US|Washington|71
+Esperance|47.789|-122.355|US|Washington|71
+West End|49.200|-122.933|CA|British Columbia|71
+Port Hadlock-Irondale|48.033|-122.785|US|Washington|71
+Bunk Foss|47.962|-122.094|US|Washington|71
+Indianola|47.747|-122.526|US|Washington|71
+Granite Falls|48.084|-121.969|US|Washington|71
+Mount Angel|45.068|-122.800|US|Oregon|71
+Goldendale|45.821|-120.822|US|Washington|71
+Yarrow|49.082|-122.050|CA|British Columbia|70
+Clearview|47.834|-122.126|US|Washington|70
+Peaceful Valley|48.938|-122.147|US|Washington|70
+Larch Way|47.843|-122.253|US|Washington|70
+Hubbard|45.182|-122.808|US|Oregon|70
+Sunnyslope|47.473|-120.337|US|Washington|70
+Clyde Hill|47.632|-122.218|US|Washington|70
+Lake Cowichan|48.825|-124.055|CA|British Columbia|70
+Medina|47.621|-122.228|US|Washington|70
+Bradner|49.100|-122.417|CA|British Columbia|70
+Dundee|45.278|-123.011|US|Oregon|70
+Three Lakes|47.945|-122.012|US|Washington|70
+Cashmere|47.522|-120.470|US|Washington|70
+Estacada|45.290|-122.334|US|Oregon|70
+Maple Heights-Lake Desire|47.444|-122.097|US|Washington|70
+Algona|47.279|-122.252|US|Washington|70
+Zillah|46.402|-120.262|US|Washington|70
+La Center|45.862|-122.670|US|Washington|70
+Hansville|47.919|-122.554|US|Washington|70
+Canterwood|47.375|-122.589|US|Washington|70
+Madeira Park|49.620|-124.023|CA|British Columbia|70
+Elma|47.003|-123.409|US|Washington|70
+Chemainus|48.916|-123.719|CA|British Columbia|70
+Grand Mound|46.788|-123.011|US|Washington|69
+Erlands Point-Kitsap Lake|47.597|-122.702|US|Washington|69
+Gleed|46.658|-120.613|US|Washington|69
+North Yelm|46.963|-122.603|US|Washington|69
+Eatonville|46.867|-122.266|US|Washington|69
+Alderton|47.170|-122.229|US|Washington|69
+Granite Falls|47.890|-120.214|US|Washington|69
+Cedar|49.116|-123.853|CA|British Columbia|69
+Princeton|49.458|-120.511|CA|British Columbia|69
+Meadowdale|47.858|-122.313|US|Washington|69
+Raymond|46.686|-123.733|US|Washington|69
+Halfmoon Bay|49.513|-123.909|CA|British Columbia|69
+Cowichan Bay|48.734|-123.617|CA|British Columbia|69
+Marietta|48.787|-122.580|US|Washington|69
+North Fort Lewis|47.121|-122.595|US|Washington|69
+West Longview|46.168|-122.999|US|Washington|69
+Sisco Heights|48.115|-122.097|US|Washington|69
+Central Park|46.973|-123.692|US|Washington|69
+Brush Prairie|45.733|-122.546|US|Washington|68
+Maple Bay|48.816|-123.619|CA|British Columbia|68
+Gervais|45.108|-122.898|US|Oregon|68
+Port Ludlow|47.925|-122.683|US|Washington|68
+Everson|48.920|-122.343|US|Washington|68
+Dayton|45.221|-123.076|US|Oregon|68
+Meadow Glade|45.758|-122.560|US|Washington|68
+Lochsloy|48.051|-122.032|US|Washington|68
+Westridge|49.283|-122.950|CA|British Columbia|68
+McChord Air Force Base|47.134|-122.492|US|Washington|68
+Navy Yard City|47.553|-122.665|US|Washington|68
+Cathcart|47.848|-122.099|US|Washington|68
+Warm Beach|48.171|-122.365|US|Washington|68
+Fobes Hill|47.949|-122.120|US|Washington|68
+Langdale|49.434|-123.480|CA|British Columbia|68
+Kalama|46.008|-122.844|US|Washington|68
+Rochester|46.822|-123.096|US|Washington|68
+White Salmon|45.728|-121.486|US|Washington|67
+Friday Harbor|48.534|-123.017|US|Washington|67
+River Springs|49.283|-122.767|CA|British Columbia|67
+Geneva|48.746|-122.402|US|Washington|67
+Lofall|47.812|-122.658|US|Washington|67
+Enetai|47.585|-122.599|US|Washington|67
+Carson|45.725|-121.819|US|Washington|67
+Chico|47.611|-122.710|US|Washington|67
+Odell|45.627|-121.543|US|Oregon|67
+Highlands|48.516|-123.503|CA|British Columbia|67
+Newport|47.571|-122.181|US|Washington|67
+Anmore|49.316|-122.853|CA|British Columbia|67
+Southworth|47.512|-122.502|US|Washington|67
+Castle Rock|46.275|-122.908|US|Washington|67
+Vernonia|45.859|-123.193|US|Oregon|67
+Riverbend|47.466|-121.750|US|Washington|67
+Gold Bar|47.857|-121.697|US|Washington|66
+Willamina|45.079|-123.486|US|Oregon|66
+Mulino|45.222|-122.582|US|Oregon|66
+North Plains|45.597|-122.993|US|Oregon|66
+Kingston|47.798|-122.498|US|Washington|66
+Pemberton Heights|49.331|-123.108|CA|British Columbia|66
+Saltair|48.950|-123.769|CA|British Columbia|66
+Carlton|45.294|-123.176|US|Oregon|66
+Burley|47.418|-122.631|US|Washington|66
+Freeland|48.010|-122.526|US|Washington|66
+Westport|46.890|-124.104|US|Washington|66
+Leavenworth|47.596|-120.661|US|Washington|66
+Fall City|47.567|-121.889|US|Washington|66
+Rainier|46.888|-122.688|US|Washington|66
+Allyn|47.386|-122.828|US|Washington|66
+Fords Prairie|46.741|-122.995|US|Washington|66
+Columbia City|45.890|-122.807|US|Oregon|66
+Roberts Creek|49.424|-123.648|CA|British Columbia|66
+Durham|45.402|-122.753|US|Oregon|66
+Banks|45.619|-123.114|US|Oregon|66
+Rainier|46.089|-122.936|US|Oregon|66
+Harrison Hot Springs|49.300|-121.786|CA|British Columbia|66
+Cle Elum|47.195|-120.939|US|Washington|66
+Rose Lodge|45.010|-123.880|US|Oregon|66
+Coupeville|48.220|-122.686|US|Washington|66
+Fern Prairie|45.637|-122.399|US|Washington|66
+Carnation|47.648|-121.914|US|Washington|65
+Bryant|48.239|-122.158|US|Washington|65
+Chenoweth|45.628|-121.243|US|Oregon|65
+Big Lake|48.403|-122.241|US|Washington|65
+Napavine|46.575|-122.908|US|Washington|65
+Warren|45.819|-122.849|US|Oregon|65
+Clatskanie|46.101|-123.207|US|Oregon|65
+Tenino|46.857|-122.853|US|Washington|65
+North Puyallup|47.207|-122.282|US|Washington|65
+Bowser|49.445|-124.689|CA|British Columbia|65
+Lewisville|45.810|-122.523|US|Washington|65
+Popkum|49.204|-121.738|CA|British Columbia|65
+Cannon Beach|45.892|-123.962|US|Oregon|65
+Yacolt|45.866|-122.406|US|Washington|65
+Grand Ronde|45.060|-123.609|US|Oregon|64
+Amity|45.116|-123.207|US|Oregon|64
+McCleary|47.053|-123.265|US|Washington|64
+Royston|49.647|-124.947|CA|British Columbia|64
+Coombs|49.300|-124.419|CA|British Columbia|64
+South Bend|46.663|-123.805|US|Washington|64
+Amboy|45.910|-122.446|US|Washington|64
+Cosmopolis|46.955|-123.774|US|Washington|64
+Stafford|45.381|-122.704|US|Oregon|64
+Ocean Park|46.492|-124.052|US|Washington|64
+Smokey Point|48.152|-122.183|US|Washington|64
+Saanichton|48.600|-123.417|CA|British Columbia|64
+West Wenatchee|47.444|-120.353|US|Washington|64
+Rocky Point|47.593|-122.668|US|Washington|64
+Mount Lehman|49.117|-122.383|CA|British Columbia|64
+South Wenatchee|47.390|-120.290|US|Washington|64
+McMillin|47.140|-122.237|US|Washington|64
+Purdy|47.389|-122.625|US|Washington|64
+Ault Field|48.338|-122.674|US|Washington|64
+Gearhart|46.024|-123.911|US|Oregon|64
+Wilderness Rim|47.447|-121.769|US|Washington|64
+East Sooke|48.366|-123.684|CA|British Columbia|64
+Stevenson|45.696|-121.885|US|Washington|64
+Ames Lake|47.633|-121.966|US|Washington|63
+Nooksack|48.928|-122.322|US|Washington|63
+Manson|47.885|-120.158|US|Washington|63
+Crofton|48.866|-123.653|CA|British Columbia|63
+East Wellington|49.174|-124.017|CA|British Columbia|63
+Kittitas|46.983|-120.417|US|Washington|63
+Keating|48.567|-123.400|CA|British Columbia|63
+Home|47.275|-122.764|US|Washington|63
+Darrington|48.255|-121.602|US|Washington|63
+Sumas|49.000|-122.265|US|Washington|63
+Long Beach|46.352|-124.054|US|Washington|63
+Woodway|47.796|-122.383|US|Washington|63
+Rockaway Beach|45.613|-123.943|US|Oregon|63
+Lions Bay|49.452|-123.238|CA|British Columbia|63
+Bay City|45.523|-123.889|US|Oregon|62
+North Oyster/Yellow Point|49.048|-123.834|CA|British Columbia|62
+Winlock|46.491|-122.938|US|Washington|62
+Point Roberts|48.985|-123.078|US|Washington|62
+Youbou|48.866|-124.203|CA|British Columbia|62
+Lake Marcel-Stillwater|47.693|-121.915|US|Washington|62
+Crocker|47.081|-122.104|US|Washington|62
+Tieton|46.702|-120.755|US|Washington|62
+Dallesport|45.617|-121.180|US|Washington|62
+Union Bay|49.584|-124.886|CA|British Columbia|62
+Browns Point|47.300|-122.441|US|Washington|62
+South Pender Harbour|49.622|-124.025|CA|British Columbia|61
+Entiat|47.676|-120.208|US|Washington|61
+Machias|47.981|-122.046|US|Washington|61
+Deep Cove|48.683|-123.467|CA|British Columbia|61
+Waterville|47.647|-120.071|US|Washington|61
+Denman Island Trust Area|49.552|-124.799|CA|British Columbia|61
+Cultus Lake|49.067|-121.967|CA|British Columbia|61
+Cascade Locks|45.670|-121.891|US|Oregon|61
+Fairwinds|49.276|-124.128|CA|British Columbia|61
+Morton|46.558|-122.275|US|Washington|61
+Welcome Beach|49.480|-123.892|CA|British Columbia|61
+Essondale|49.230|-122.811|CA|British Columbia|61
+Dollar Corner|45.780|-122.600|US|Washington|61
+Seabeck|47.640|-122.828|US|Washington|61
+Ravensdale|47.352|-121.984|US|Washington|61
+Hornby Island|49.534|-124.669|CA|British Columbia|61
+Yamhill|45.342|-123.187|US|Oregon|61
+Yarrow Point|47.646|-122.217|US|Washington|61
+Langley|48.040|-122.406|US|Washington|61
+Pacific City|45.202|-123.963|US|Oregon|60
+Six Mile|48.458|-123.461|CA|British Columbia|60
+French Creek|49.341|-124.355|CA|British Columbia|60
+Denman Island|49.533|-124.820|CA|British Columbia|60
+Tanner|47.475|-121.746|US|Washington|60
+Ardmore|48.639|-123.469|CA|British Columbia|60
+Clear Lake|48.464|-122.234|US|Washington|60
+Donald|45.222|-122.839|US|Oregon|60
+Condon|45.234|-120.185|US|Oregon|57
+Cathlamet|46.203|-123.383|US|Washington|55
+Moro|45.484|-120.731|US|Oregon|50

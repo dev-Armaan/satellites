@@ -1,0 +1,3076 @@
+Paris|48.853|2.349|FR|Île-de-France|127
+Lyon|45.749|4.848|FR|Auvergne-Rhône-Alpes|114
+Marne La Vallée|48.836|2.642|FR|Île-de-France|110
+Reims|49.265|4.029|FR|Grand Est|106
+Le Havre|49.493|0.108|FR|Normandy|105
+Cergy-Pontoise|49.039|2.078|FR|Île-de-France|105
+Saint-Étienne|45.434|4.390|FR|Auvergne-Rhône-Alpes|105
+Clermont-Ferrand|45.780|3.087|FR|Auvergne-Rhône-Alpes|103
+Saint-Quentin-en-Yvelines|48.772|2.019|FR|Île-de-France|103
+Le Mans|48.002|0.203|FR|Pays de la Loire|103
+Amiens|49.900|2.300|FR|Hauts-de-France|103
+Tours|47.395|0.704|FR|Centre-Val de Loire|103
+Limoges|45.834|1.248|FR|New Aquitaine|103
+Villeurbanne|45.766|4.880|FR|Auvergne-Rhône-Alpes|102
+Orléans|47.902|1.904|FR|Centre-Val de Loire|101
+Rouen|49.443|1.099|FR|Normandy|101
+Montreuil|48.864|2.443|FR|Île-de-France|101
+Boulogne-Billancourt|48.835|2.241|FR|Île-de-France|101
+Argenteuil|48.948|2.247|FR|Île-de-France|100
+Saint-Denis|48.936|2.354|FR|Île-de-France|100
+Asnières-sur-Seine|48.917|2.283|FR|Île-de-France|99
+Nanterre|48.892|2.207|FR|Île-de-France|99
+Poitiers|46.583|0.343|FR|New Aquitaine|99
+Versailles|48.804|2.134|FR|Île-de-France|99
+Courbevoie|48.897|2.257|FR|Île-de-France|99
+Créteil|48.793|2.466|FR|Île-de-France|99
+Colombes|48.919|2.254|FR|Île-de-France|98
+Vitry-sur-Seine|48.787|2.403|FR|Île-de-France|98
+Aulnay-sous-Bois|48.938|2.494|FR|Île-de-France|98
+Champigny-sur-Marne|48.816|2.494|FR|Île-de-France|98
+Rueil-Malmaison|48.877|2.190|FR|Île-de-France|98
+Gare|48.833|2.375|FR|Île-de-France|98
+Saint-Maur-des-Fossés|48.794|2.493|FR|Île-de-France|98
+Aubervilliers|48.917|2.383|FR|Île-de-France|97
+Bourges|47.083|2.400|FR|Centre-Val de Loire|97
+Maison Blanche|48.826|2.351|FR|Île-de-France|96
+Drancy|48.926|2.445|FR|Île-de-France|96
+Noisy-le-Grand|48.850|2.563|FR|Île-de-France|96
+Levallois-Perret|48.894|2.289|FR|Île-de-France|96
+Issy-les-Moulineaux|48.821|2.277|FR|Île-de-France|96
+Neuilly-sur-Seine|48.885|2.270|FR|Île-de-France|96
+Troyes|48.301|4.085|FR|Grand Est|96
+Antony|48.753|2.297|FR|Île-de-France|96
+Sarcelles|48.997|2.378|FR|Île-de-France|95
+Ivry-sur-Seine|48.816|2.385|FR|Île-de-France|95
+Évreux|49.024|1.151|FR|Normandy|95
+Vénissieux|45.697|4.886|FR|Auvergne-Rhône-Alpes|95
+Cergy|49.036|2.076|FR|Île-de-France|95
+Clichy|48.900|2.310|FR|Île-de-France|95
+Saint-Quentin|49.849|3.288|FR|Hauts-de-France|95
+Sartrouville|48.948|2.192|FR|Île-de-France|95
+Maisons-Alfort|48.812|2.439|FR|Île-de-France|95
+Meaux|48.960|2.879|FR|Île-de-France|95
+Blois|47.594|1.329|FR|Centre-Val de Loire|95
+Brive-la-Gaillarde|45.159|1.533|FR|New Aquitaine|95
+Beauvais|49.433|2.083|FR|Hauts-de-France|95
+Châteauroux|46.812|1.694|FR|Centre-Val de Loire|95
+Pantin|48.894|2.409|FR|Île-de-France|94
+Charleville-Mézières|49.769|4.725|FR|Grand Est|94
+Fontenay-sous-Bois|48.854|2.483|FR|Île-de-France|94
+Évry|48.633|2.440|FR|Île-de-France|94
+Clamart|48.803|2.267|FR|Île-de-France|94
+Châlons-en-Champagne|48.954|4.367|FR|Grand Est|94
+Angoulême|45.650|0.153|FR|New Aquitaine|94
+Bondy|48.902|2.489|FR|Île-de-France|94
+Le Blanc-Mesnil|48.939|2.461|FR|Île-de-France|94
+Villejuif|48.794|2.360|FR|Île-de-France|94
+Sevran|48.945|2.527|FR|Île-de-France|94
+Chalon-sur-Saône|46.781|4.854|FR|Bourgogne-Franche-Comté|93
+Chelles|48.881|2.593|FR|Île-de-France|93
+Épinay-sur-Seine|48.953|2.315|FR|Île-de-France|93
+Vincennes|48.849|2.438|FR|Île-de-France|93
+Bobigny|48.910|2.450|FR|Île-de-France|93
+Montluçon|46.340|2.603|FR|Auvergne-Rhône-Alpes|93
+Suresnes|48.871|2.229|FR|Île-de-France|93
+Meudon|48.814|2.235|FR|Île-de-France|93
+Mantes-la-Jolie|48.990|1.717|FR|Île-de-France|93
+Compiègne|49.418|2.826|FR|Hauts-de-France|93
+Nevers|46.990|3.159|FR|Bourgogne-Franche-Comté|93
+Chartres|48.447|1.489|FR|Centre-Val de Loire|93
+Caluire-et-Cuire|45.795|4.846|FR|Auvergne-Rhône-Alpes|93
+Gennevilliers|48.933|2.300|FR|Île-de-France|93
+Saint-Priest|45.697|4.944|FR|Auvergne-Rhône-Alpes|92
+Rosny-sous-Bois|48.870|2.499|FR|Île-de-France|92
+Auxerre|47.800|3.570|FR|Bourgogne-Franche-Comté|92
+Saint-Germain-en-Laye|48.896|2.090|FR|Île-de-France|92
+Puteaux|48.883|2.239|FR|Île-de-France|92
+Corbeil-Essonnes|48.606|2.488|FR|Île-de-France|92
+Garges-lès-Gonesse|48.968|2.398|FR|Île-de-France|92
+Roanne|46.036|4.068|FR|Auvergne-Rhône-Alpes|92
+Savigny-sur-Orge|48.677|2.348|FR|Île-de-France|92
+Livry-Gargan|48.919|2.543|FR|Île-de-France|92
+Saint-Ouen|48.907|2.333|FR|Île-de-France|92
+Montigny-le-Bretonneux|48.766|2.034|FR|Île-de-France|92
+Noisy-le-Sec|48.891|2.465|FR|Île-de-France|92
+Melun|48.546|2.654|FR|Île-de-France|92
+Bagneux|48.796|2.308|FR|Île-de-France|92
+Massy|48.727|2.283|FR|Île-de-France|92
+Montrouge|48.816|2.314|FR|Île-de-France|92
+Gagny|48.883|2.533|FR|Île-de-France|92
+Saint-Chamond|45.476|4.513|FR|Auvergne-Rhône-Alpes|92
+Bron|45.739|4.913|FR|Auvergne-Rhône-Alpes|92
+Vaulx-en-Velin|45.787|4.925|FR|Auvergne-Rhône-Alpes|91
+Joué-lès-Tours|47.349|0.665|FR|Centre-Val de Loire|91
+Alfortville|48.806|2.420|FR|Île-de-France|91
+La Courneuve|48.928|2.396|FR|Île-de-France|91
+Châtellerault|46.817|0.545|FR|New Aquitaine|91
+Villepinte|48.962|2.533|FR|Île-de-France|91
+Poissy|48.929|2.050|FR|Île-de-France|91
+Conflans-Sainte-Honorine|49.002|2.097|FR|Île-de-France|91
+Plaisir|48.823|1.954|FR|Île-de-France|91
+Dieppe|49.922|1.078|FR|Normandy|91
+Tremblay-en-France|48.950|2.568|FR|Île-de-France|91
+Choisy-le-Roi|48.768|2.419|FR|Île-de-France|91
+Mâcon|46.314|4.828|FR|Bourgogne-Franche-Comté|91
+Pontault-Combault|48.798|2.607|FR|Île-de-France|91
+Périgueux|45.187|0.714|FR|New Aquitaine|91
+Neuilly-sur-Marne|48.854|2.549|FR|Île-de-France|91
+Franconville|48.983|2.233|FR|Île-de-France|91
+Sainte-Geneviève-des-Bois|48.647|2.320|FR|Île-de-France|91
+Bagnolet|48.867|2.417|FR|Île-de-France|91
+Villefranche-sur-Saône|45.990|4.720|FR|Auvergne-Rhône-Alpes|90
+Châtenay-Malabry|48.765|2.267|FR|Île-de-France|90
+Stains|48.950|2.383|FR|Île-de-France|90
+Châtillon|48.802|2.293|FR|Île-de-France|90
+Vienne|45.526|4.875|FR|Auvergne-Rhône-Alpes|90
+Les Mureaux|48.992|1.910|FR|Île-de-France|90
+Le Perreux-sur-Marne|48.850|2.500|FR|Île-de-France|90
+Guyancourt|48.773|2.074|FR|Île-de-France|90
+Palaiseau|48.718|2.250|FR|Île-de-France|90
+Saint-Dizier|48.638|4.949|FR|Grand Est|90
+Creil|49.257|2.485|FR|Hauts-de-France|90
+Nogent-sur-Marne|48.837|2.483|FR|Île-de-France|90
+Athis-Mons|48.705|2.391|FR|Île-de-France|90
+Viry-Châtillon|48.672|2.393|FR|Île-de-France|90
+Houilles|48.922|2.193|FR|Île-de-France|90
+Soissons|49.382|3.324|FR|Hauts-de-France|90
+Dreux|48.736|1.366|FR|Centre-Val de Loire|90
+Charenton-le-Pont|48.822|2.412|FR|Île-de-France|90
+Villeneuve-Saint-Georges|48.732|2.449|FR|Île-de-France|90
+Élancourt|48.784|1.955|FR|Île-de-France|90
+Alençon|48.435|0.093|FR|Normandy|90
+Sotteville-lès-Rouen|49.410|1.090|FR|Normandy|90
+Pontoise|49.050|2.100|FR|Île-de-France|90
+Villiers-sur-Marne|48.831|2.548|FR|Île-de-France|90
+Chatou|48.890|2.159|FR|Île-de-France|90
+Goussainville|49.014|2.466|FR|Île-de-France|90
+Vierzon|47.222|2.068|FR|Centre-Val de Loire|90
+Thiais|48.765|2.396|FR|Île-de-France|89
+L'Haÿ-les-Roses|48.779|2.337|FR|Île-de-France|89
+Malakoff|48.820|2.300|FR|Île-de-France|89
+Draveil|48.685|2.414|FR|Île-de-France|89
+Saint-Leu|46.731|4.501|FR|Bourgogne-Franche-Comté|89
+Le Chesnay|48.822|2.122|FR|Île-de-France|89
+Saint-Étienne-du-Rouvray|49.378|1.105|FR|Normandy|89
+Yerres|48.718|2.493|FR|Île-de-France|89
+Saint-Cloud|48.846|2.203|FR|Île-de-France|89
+Sens|48.197|3.283|FR|Bourgogne-Franche-Comté|89
+Laon|49.563|3.627|FR|Hauts-de-France|89
+Trappes|48.774|2.018|FR|Île-de-France|89
+Ermont|48.990|2.258|FR|Île-de-France|89
+Rillieux-la-Pape|45.817|4.900|FR|Auvergne-Rhône-Alpes|89
+Villemomble|48.883|2.500|FR|Île-de-France|89
+Pierrefitte-sur-Seine|48.967|2.361|FR|Île-de-France|89
+Le Kremlin-Bicêtre|48.815|2.361|FR|Île-de-France|89
+Champs-sur-Marne|48.850|2.600|FR|Île-de-France|89
+Bezons|48.924|2.213|FR|Île-de-France|89
+Taverny|49.025|2.217|FR|Île-de-France|89
+Épernay|49.040|3.959|FR|Grand Est|89
+Villiers-le-Bel|49.009|2.398|FR|Île-de-France|89
+Vichy|46.127|3.426|FR|Auvergne-Rhône-Alpes|89
+Sannois|48.967|2.250|FR|Île-de-France|89
+Gonesse|48.987|2.449|FR|Île-de-France|89
+Vigneux-sur-Seine|48.703|2.414|FR|Île-de-France|89
+Rambouillet|48.644|1.830|FR|Île-de-France|89
+Cachan|48.796|2.337|FR|Île-de-France|88
+Le Grand-Quevilly|49.401|1.046|FR|Normandy|88
+La Garenne-Colombes|48.905|2.247|FR|Île-de-France|88
+Quinze-Vingts|48.847|2.374|FR|Île-de-France|88
+Vanves|48.823|2.290|FR|Île-de-France|88
+Vernon|49.093|1.463|FR|Normandy|88
+Savigny-le-Temple|48.574|2.583|FR|Île-de-France|88
+Les Ulis|48.682|2.169|FR|Île-de-France|88
+Oullins|45.714|4.808|FR|Auvergne-Rhône-Alpes|88
+Le Creusot|46.807|4.416|FR|Bourgogne-Franche-Comté|88
+Herblay-sur-Seine|48.990|2.170|FR|Île-de-France|88
+Ris-Orangis|48.651|2.414|FR|Île-de-France|88
+Sucy-en-Brie|48.769|2.535|FR|Île-de-France|88
+Grigny|48.654|2.393|FR|Île-de-France|88
+Fresnes|48.756|2.322|FR|Île-de-France|88
+Romainville|48.885|2.435|FR|Île-de-France|88
+Fontenay-aux-Roses|48.793|2.293|FR|Île-de-France|88
+Décines-Charpieu|45.769|4.959|FR|Auvergne-Rhône-Alpes|88
+Lisieux|49.147|0.229|FR|Normandy|88
+Torcy|48.851|2.651|FR|Île-de-France|88
+Brétigny-sur-Orge|48.611|2.306|FR|Île-de-France|88
+Bois-Colombes|48.919|2.275|FR|Île-de-France|88
+Beaune|47.024|4.839|FR|Bourgogne-Franche-Comté|88
+Brunoy|48.694|2.492|FR|Île-de-France|88
+Eaubonne|48.997|2.282|FR|Île-de-France|88
+Villeparisis|48.942|2.615|FR|Île-de-France|88
+Montfermeil|48.898|2.579|FR|Île-de-France|88
+Sèvres|48.823|2.218|FR|Île-de-France|88
+Gif-sur-Yvette|48.683|2.133|FR|Île-de-France|87
+Moulins|46.565|3.332|FR|Auvergne-Rhône-Alpes|87
+Mont-Saint-Aignan|49.463|1.094|FR|Normandy|87
+Étampes|48.435|2.162|FR|Île-de-France|87
+Saint-Ouen-l'Aumône|49.044|2.121|FR|Île-de-France|87
+Montgeron|48.705|2.450|FR|Île-de-France|87
+Maisons-Laffitte|48.953|2.145|FR|Île-de-France|87
+Le Puy-en-Velay|45.044|3.885|FR|Auvergne-Rhône-Alpes|87
+Le Petit-Quevilly|49.413|1.062|FR|Normandy|87
+Olivet|47.862|1.899|FR|Centre-Val de Loire|87
+Ozoir-la-Ferrière|48.767|2.669|FR|Île-de-France|87
+Le Plessis-Robinson|48.789|2.271|FR|Île-de-France|87
+Combs-la-Ville|48.665|2.570|FR|Île-de-France|87
+Le Mée-sur-Seine|48.532|2.628|FR|Île-de-France|87
+Villeneuve-la-Garenne|48.939|2.315|FR|Île-de-France|87
+Fécamp|49.758|0.375|FR|Normandy|87
+Cormeilles-en-Parisis|48.971|2.205|FR|Île-de-France|87
+Sainte-Foy-lès-Lyon|45.734|4.803|FR|Auvergne-Rhône-Alpes|87
+Vélizy-Villacoublay|48.782|2.194|FR|Île-de-France|87
+Achères|48.961|2.069|FR|Île-de-France|87
+Deuil-la-Barre|48.977|2.327|FR|Île-de-France|87
+La Celle-Saint-Cloud|48.850|2.145|FR|Île-de-France|87
+Sceaux|48.776|2.290|FR|Île-de-France|87
+Saint-Mandé|48.839|2.416|FR|Île-de-France|87
+Montmorency|48.988|2.343|FR|Île-de-France|87
+Les Lilas|48.880|2.421|FR|Île-de-France|86
+Fleury-les-Aubrais|47.933|1.918|FR|Centre-Val de Loire|86
+Dammarie-les-Lys|48.517|2.650|FR|Île-de-France|86
+Roissy-en-Brie|48.792|2.647|FR|Île-de-France|86
+Saint-Genis-Laval|45.695|4.793|FR|Auvergne-Rhône-Alpes|86
+Saint-Michel-sur-Orge|48.635|2.308|FR|Île-de-France|86
+Longjumeau|48.693|2.294|FR|Île-de-France|86
+Vauréal|49.033|2.033|FR|Île-de-France|86
+Lagny-sur-Marne|48.867|2.717|FR|Île-de-France|86
+Sedan|49.702|4.940|FR|Grand Est|86
+Orly|48.748|2.393|FR|Île-de-France|86
+Chamalières|45.774|3.067|FR|Auvergne-Rhône-Alpes|86
+Montceau-les-Mines|46.667|4.367|FR|Bourgogne-Franche-Comté|86
+Riom|45.894|3.113|FR|Auvergne-Rhône-Alpes|86
+Chevilly-Larue|48.765|2.350|FR|Île-de-France|86
+Croulebarbe|48.810|2.354|FR|Île-de-France|86
+Romorantin-Lanthenay|47.367|1.750|FR|Centre-Val de Loire|86
+Mantes-la-Ville|48.974|1.703|FR|Île-de-France|86
+Morsang-sur-Orge|48.662|2.353|FR|Île-de-France|86
+Saint-Jean-de-Braye|47.913|1.977|FR|Centre-Val de Loire|86
+Saint-Gratien|48.974|2.287|FR|Île-de-France|86
+Les Pavillons-sous-Bois|48.907|2.506|FR|Île-de-France|86
+Fontainebleau|48.409|2.702|FR|Île-de-France|86
+Nogent-sur-Oise|49.272|2.471|FR|Hauts-de-France|86
+Écully|45.774|4.778|FR|Auvergne-Rhône-Alpes|86
+Vendôme|47.793|1.066|FR|Centre-Val de Loire|86
+Louviers|49.217|1.167|FR|Normandy|86
+Senlis|49.207|2.587|FR|Hauts-de-France|86
+Limeil-Brévannes|48.745|2.487|FR|Île-de-France|86
+Jouy-le-Moutier|49.011|2.040|FR|Île-de-France|86
+Maurepas|48.765|1.929|FR|Île-de-France|86
+Garches|48.842|2.182|FR|Île-de-France|86
+Bourg-la-Reine|48.779|2.318|FR|Île-de-France|86
+Chilly-Mazarin|48.715|2.316|FR|Île-de-France|86
+Cournon-d'Auvergne|45.741|3.196|FR|Auvergne-Rhône-Alpes|86
+Chaville|48.806|2.189|FR|Île-de-France|85
+Neuilly-Plaisance|48.863|2.506|FR|Île-de-France|85
+Bonneuil-sur-Marne|48.770|2.479|FR|Île-de-France|85
+Le Plessis-Trévise|48.811|2.574|FR|Île-de-France|85
+Mitry-Mory|48.983|2.617|FR|Île-de-France|85
+Limay|48.996|1.741|FR|Île-de-France|85
+Annonay|45.240|4.671|FR|Auvergne-Rhône-Alpes|85
+Chennevières-sur-Marne|48.797|2.540|FR|Île-de-France|85
+Autun|46.951|4.299|FR|Bourgogne-Franche-Comté|85
+Givors|45.591|4.769|FR|Auvergne-Rhône-Alpes|85
+Joinville-le-Pont|48.825|2.475|FR|Île-de-France|85
+Montigny-lès-Cormeilles|48.982|2.200|FR|Île-de-France|85
+Firminy|45.390|4.289|FR|Auvergne-Rhône-Alpes|85
+Orsay|48.696|2.187|FR|Île-de-France|85
+Le Pré-Saint-Gervais|48.885|2.404|FR|Île-de-France|85
+Lucé|48.437|1.464|FR|Centre-Val de Loire|85
+Les Clayes-sous-Bois|48.822|1.987|FR|Île-de-France|85
+Salpêtrière|48.837|2.358|FR|Île-de-France|85
+Villeneuve-le-Roi|48.737|2.401|FR|Île-de-France|85
+Saint-Jean-de-la-Ruelle|47.911|1.865|FR|Centre-Val de Loire|85
+Montargis|47.997|2.733|FR|Centre-Val de Loire|85
+Soisy-sous-Montmorency|48.988|2.302|FR|Île-de-France|85
+Marly-le-Roi|48.867|2.083|FR|Île-de-France|85
+Saint-Cyr-sur-Loire|47.400|0.667|FR|Centre-Val de Loire|85
+Arcueil|48.800|2.333|FR|Île-de-France|85
+Vitry-le-François|48.725|4.584|FR|Grand Est|85
+Elbeuf|49.287|1.003|FR|Normandy|85
+Montereau-Fault-Yonne|48.383|2.950|FR|Île-de-France|85
+Tulle|45.266|1.772|FR|New Aquitaine|85
+Tassin-la-Demi-Lune|45.755|4.788|FR|Auvergne-Rhône-Alpes|85
+Verneuil-sur-Seine|48.974|1.965|FR|Île-de-France|85
+Verrières-le-Buisson|48.746|2.268|FR|Île-de-France|85
+Le Vésinet|48.893|2.133|FR|Île-de-France|84
+Montivilliers|49.545|0.188|FR|Normandy|84
+Domont|49.028|2.326|FR|Île-de-France|84
+Osny|49.070|2.063|FR|Île-de-France|84
+Le Pecq|48.893|2.104|FR|Île-de-France|84
+Saint-Cyr-l'École|48.799|2.068|FR|Île-de-France|84
+Moissy-Cramayel|48.626|2.601|FR|Île-de-France|84
+Saran|47.950|1.876|FR|Centre-Val de Loire|84
+Bry-sur-Marne|48.838|2.525|FR|Île-de-France|84
+Montbrison|45.608|4.065|FR|Auvergne-Rhône-Alpes|84
+Viroflay|48.801|2.162|FR|Île-de-France|84
+Saint-Leu-la-Forêt|49.017|2.250|FR|Île-de-France|84
+Saint-Fons|45.709|4.853|FR|Auvergne-Rhône-Alpes|84
+Saint-Avertin|47.364|0.740|FR|Centre-Val de Loire|84
+Châteaudun|48.071|1.338|FR|Centre-Val de Loire|84
+Issoire|45.544|3.249|FR|Auvergne-Rhône-Alpes|84
+Gien|47.693|2.631|FR|Centre-Val de Loire|84
+Gentilly|48.813|2.342|FR|Île-de-France|84
+Château-Thierry|49.046|3.403|FR|Hauts-de-France|84
+Brie-Comte-Robert|48.692|2.611|FR|Île-de-France|84
+Boissy-Saint-Léger|48.751|2.512|FR|Île-de-France|84
+Guéret|46.172|1.872|FR|New Aquitaine|84
+Canteleu|49.441|1.025|FR|Normandy|84
+Crépy-en-Valois|49.234|2.888|FR|Hauts-de-France|84
+Lognes|48.835|2.630|FR|Île-de-France|84
+Tergnier|49.656|3.301|FR|Hauts-de-France|84
+Carrières-sous-Poissy|48.950|2.041|FR|Île-de-France|84
+Éragny|49.017|2.100|FR|Île-de-France|84
+Noisiel|48.849|2.624|FR|Île-de-France|84
+Saint-Pierre-des-Corps|47.386|0.748|FR|Centre-Val de Loire|84
+Coulommiers|48.815|3.085|FR|Île-de-France|84
+Montesson|48.909|2.138|FR|Île-de-France|84
+Noyon|49.583|3.000|FR|Hauts-de-France|84
+Avon|48.402|2.720|FR|Île-de-France|84
+Courcouronnes|48.614|2.408|FR|Île-de-France|83
+Rive-de-Gier|45.528|4.616|FR|Auvergne-Rhône-Alpes|83
+Montmagny|48.973|2.347|FR|Île-de-France|83
+Mennecy|48.569|2.444|FR|Île-de-France|83
+La Chapelle-Saint-Luc|48.317|4.040|FR|Grand Est|83
+Romilly-sur-Seine|48.511|3.726|FR|Grand Est|83
+Cusset|46.135|3.456|FR|Auvergne-Rhône-Alpes|83
+Issoudun|46.948|1.994|FR|Centre-Val de Loire|83
+Saint-Just-Saint-Rambert|45.500|4.241|FR|Auvergne-Rhône-Alpes|83
+Saint-Maurice|48.822|2.427|FR|Île-de-France|83
+Châlette-sur-Loing|48.013|2.736|FR|Centre-Val de Loire|83
+Nemours|48.275|2.691|FR|Île-de-France|83
+Val-de-Reuil|49.274|1.210|FR|Normandy|83
+Thiers|45.857|3.548|FR|Auvergne-Rhône-Alpes|83
+Pont-Sainte-Maxence|49.302|2.605|FR|Hauts-de-France|83
+Bois-Guillaume|49.460|1.122|FR|Normandy|83
+Saint-Brice-sous-Forêt|49.001|2.354|FR|Île-de-France|83
+Saint-François|46.415|3.905|FR|Auvergne-Rhône-Alpes|83
+Méru|49.233|2.133|FR|Hauts-de-France|83
+Voisins-le-Bretonneux|48.758|2.051|FR|Île-de-France|83
+Bois-d'Arcy|48.800|2.023|FR|Île-de-France|83
+Barentin|49.545|0.955|FR|Normandy|83
+Yzeure|46.566|3.354|FR|Auvergne-Rhône-Alpes|83
+Le Chambon-Feugerolles|45.391|4.321|FR|Auvergne-Rhône-Alpes|83
+Le Raincy|48.899|2.523|FR|Île-de-France|82
+Chauny|49.615|3.219|FR|Hauts-de-France|82
+Bolbec|49.573|0.473|FR|Normandy|82
+Nogent-le-Rotrou|48.322|0.822|FR|Centre-Val de Loire|82
+Amilly|47.973|2.772|FR|Centre-Val de Loire|82
+Andrésy|48.982|2.057|FR|Île-de-France|82
+Carrières-sur-Seine|48.907|2.179|FR|Île-de-France|82
+Épinay-sous-Sénart|48.690|2.512|FR|Île-de-France|82
+Arnouville|48.983|2.417|FR|Île-de-France|82
+Le Bourget|48.934|2.436|FR|Île-de-France|82
+Amboise|47.412|0.983|FR|Centre-Val de Loire|82
+Provins|48.559|3.299|FR|Île-de-France|82
+Fontenay-le-Fleury|48.813|2.049|FR|Île-de-France|82
+Triel-sur-Seine|48.978|2.007|FR|Île-de-France|82
+Vaires-sur-Marne|48.876|2.640|FR|Île-de-France|82
+Brignais|45.674|4.754|FR|Auvergne-Rhône-Alpes|82
+Maromme|49.479|1.024|FR|Normandy|82
+Bernay|49.089|0.599|FR|Normandy|82
+Juvisy-sur-Orge|48.683|2.383|FR|Île-de-France|82
+Gisors|49.282|1.780|FR|Normandy|82
+Beaumont|45.752|3.083|FR|Auvergne-Rhône-Alpes|82
+Ponthierry|48.534|2.544|FR|Île-de-France|82
+Saint-Fargeau-Ponthierry|48.557|2.528|FR|Île-de-France|82
+Francheville|45.736|4.764|FR|Auvergne-Rhône-Alpes|82
+Montataire|49.259|2.438|FR|Hauts-de-France|82
+Villetaneuse|48.958|2.342|FR|Île-de-France|82
+Saint-Amand-Montrond|46.723|2.505|FR|Centre-Val de Loire|82
+Valenton|48.745|2.465|FR|Île-de-France|82
+Allonnes|47.967|0.160|FR|Pays de la Loire|82
+Aubergenville|48.960|1.855|FR|Île-de-France|82
+La Queue-en-Brie|48.785|2.581|FR|Île-de-France|81
+Vernouillet|48.721|1.370|FR|Centre-Val de Loire|81
+Vaux-le-Pénil|48.528|2.692|FR|Île-de-France|81
+Cosne-Cours-sur-Loire|47.411|2.925|FR|Bourgogne-Franche-Comté|81
+Saint-Junien|45.887|0.902|FR|New Aquitaine|81
+Joigny|47.983|3.401|FR|Bourgogne-Franche-Comté|81
+Oissel-sur-Seine|49.333|1.094|FR|Normandy|81
+Ville-d'Avray|48.824|2.193|FR|Île-de-France|81
+Mions|45.663|4.953|FR|Auvergne-Rhône-Alpes|81
+Ussel|45.548|2.309|FR|New Aquitaine|81
+Morangis|48.704|2.339|FR|Île-de-France|81
+Yvetot|49.617|0.758|FR|Normandy|81
+Soyaux|45.641|0.198|FR|New Aquitaine|81
+Saint-André-les-Vergers|48.285|4.052|FR|Grand Est|81
+Sainte-Savine|48.296|4.046|FR|Grand Est|81
+L'Isle-Adam|49.107|2.228|FR|Île-de-France|81
+Hirson|49.923|4.083|FR|Hauts-de-France|81
+Chantilly|49.195|2.471|FR|Hauts-de-France|81
+Claye-Souilly|48.945|2.686|FR|Île-de-France|81
+Aubière|45.751|3.111|FR|Auvergne-Rhône-Alpes|81
+Clermont|49.379|2.413|FR|Hauts-de-France|81
+Enghien-les-Bains|48.967|2.317|FR|Île-de-France|81
+Chambray-lès-Tours|47.335|0.703|FR|Centre-Val de Loire|81
+Tarare|45.896|4.433|FR|Auvergne-Rhône-Alpes|81
+Riorges|46.044|4.043|FR|Auvergne-Rhône-Alpes|81
+Croissy-sur-Seine|48.879|2.138|FR|Île-de-France|81
+Dugny|48.954|2.417|FR|Île-de-France|81
+Tournon-sur-Rhône|45.067|4.833|FR|Auvergne-Rhône-Alpes|80
+Déville-lès-Rouen|49.469|1.052|FR|Normandy|80
+Fosses|49.098|2.510|FR|Île-de-France|80
+Mainvilliers|48.450|1.456|FR|Centre-Val de Loire|80
+Varennes-Vauzelles|47.017|3.140|FR|Bourgogne-Franche-Comté|80
+Bures-sur-Yvette|48.700|2.171|FR|Île-de-France|80
+Roche-la-Molière|45.431|4.328|FR|Auvergne-Rhône-Alpes|80
+Dourdan|48.528|2.011|FR|Île-de-France|80
+La Ferté-Bernard|48.187|0.652|FR|Pays de la Loire|80
+Tinqueux|49.250|3.983|FR|Grand Est|80
+Montlouis-sur-Loire|47.388|0.832|FR|Centre-Val de Loire|80
+Caudebec-lès-Elbeuf|49.281|1.022|FR|Normandy|80
+Villers-Cotterêts|49.253|3.090|FR|Hauts-de-France|80
+Panazol|45.839|1.310|FR|New Aquitaine|80
+Bussy-Saint-Georges|48.841|2.702|FR|Île-de-France|80
+Villebon-sur-Yvette|48.706|2.240|FR|Île-de-France|80
+Pierre-Bénite|45.704|4.824|FR|Auvergne-Rhône-Alpes|80
+Igny|48.744|2.224|FR|Île-de-France|80
+Vernouillet|48.971|1.981|FR|Île-de-France|80
+Ormesson-sur-Marne|48.786|2.545|FR|Île-de-France|80
+Villepreux|48.828|1.998|FR|Île-de-France|80
+Thorigny-sur-Marne|48.887|2.718|FR|Île-de-France|80
+Paray-le-Monial|46.455|4.116|FR|Bourgogne-Franche-Comté|80
+Lillebonne|49.520|0.536|FR|Normandy|80
+Corbas|45.668|4.902|FR|Auvergne-Rhône-Alpes|80
+Arpajon|48.589|2.247|FR|Île-de-France|80
+Fondettes|47.404|0.597|FR|Centre-Val de Loire|80
+Saint-Vallier|46.641|4.371|FR|Bourgogne-Franche-Comté|80
+Pont-Audemer|49.350|0.517|FR|Normandy|80
+Pithiviers|48.172|2.252|FR|Centre-Val de Loire|80
+Les Andelys|49.246|1.412|FR|Normandy|80
+Bondoufle|48.613|2.378|FR|Île-de-France|80
+Grand-Couronne|49.356|1.006|FR|Normandy|80
+Feyzin|45.673|4.859|FR|Auvergne-Rhône-Alpes|80
+Beauchamp|49.017|2.200|FR|Île-de-France|80
+La Chapelle-Saint-Mesmin|47.886|1.835|FR|Centre-Val de Loire|80
+Gouvieux|49.187|2.414|FR|Hauts-de-France|80
+Chanteloup-les-Vignes|48.976|2.033|FR|Île-de-France|80
+Épinay-sur-Orge|48.673|2.311|FR|Île-de-France|80
+Chambly|49.167|2.250|FR|Hauts-de-France|80
+Méry-sur-Oise|49.059|2.191|FR|Île-de-France|80
+Pont-du-Château|45.798|3.248|FR|Auvergne-Rhône-Alpes|80
+Andrézieux-Bouthéon|45.526|4.260|FR|Auvergne-Rhône-Alpes|80
+La Ferté-sous-Jouarre|48.951|3.127|FR|Île-de-France|80
+Saint-Doulchard|47.104|2.352|FR|Centre-Val de Loire|79
+Buxerolles|46.617|0.483|FR|New Aquitaine|79
+Chassieu|45.746|4.971|FR|Auvergne-Rhône-Alpes|79
+Chinon|47.167|0.243|FR|Centre-Val de Loire|79
+Gerzat|45.826|3.145|FR|Auvergne-Rhône-Alpes|79
+Louvres|49.045|2.505|FR|Île-de-France|79
+Persan|49.153|2.272|FR|Île-de-France|79
+Miribel|45.826|4.954|FR|Auvergne-Rhône-Alpes|79
+Fleury-Mérogis|48.637|2.364|FR|Île-de-France|79
+Magny-les-Hameaux|48.743|2.062|FR|Île-de-France|79
+Coulounieix-Chamiers|45.158|0.688|FR|New Aquitaine|79
+Darnétal|49.445|1.151|FR|Normandy|79
+Saint-Jean-le-Blanc|47.893|1.915|FR|Centre-Val de Loire|79
+Domérat|46.360|2.535|FR|Auvergne-Rhône-Alpes|79
+Beaumont-sur-Oise|49.142|2.287|FR|Île-de-France|79
+Péronne|49.932|2.936|FR|Hauts-de-France|79
+Villecresnes|48.720|2.539|FR|Île-de-France|79
+Ézanville|49.028|2.368|FR|Île-de-France|79
+Digoin|46.481|3.979|FR|Bourgogne-Franche-Comté|79
+La Riche|47.390|0.671|FR|Centre-Val de Loire|79
+Bougival|48.862|2.141|FR|Île-de-France|79
+Irigny|45.673|4.822|FR|Auvergne-Rhône-Alpes|79
+Bellerive-sur-Allier|46.117|3.404|FR|Auvergne-Rhône-Alpes|79
+Notre-Dame-de-Gravenchon|49.489|0.572|FR|Normandy|79
+Meulan-en-Yvelines|49.008|1.906|FR|Île-de-France|79
+Romagnat|45.730|3.101|FR|Auvergne-Rhône-Alpes|79
+Petit-Couronne|49.383|1.017|FR|Normandy|79
+Gleizé|45.989|4.697|FR|Auvergne-Rhône-Alpes|79
+Avallon|47.490|3.908|FR|Bourgogne-Franche-Comté|79
+Villars|45.468|4.355|FR|Auvergne-Rhône-Alpes|79
+Saint-Germain-lès-Arpajon|48.597|2.265|FR|Île-de-France|79
+Vaucresson|48.841|2.157|FR|Île-de-France|79
+Migennes|47.965|3.518|FR|Bourgogne-Franche-Comté|79
+Déols|46.829|1.704|FR|Centre-Val de Loire|79
+Dardilly|45.806|4.753|FR|Auvergne-Rhône-Alpes|79
+Saint-Pierre-lès-Elbeuf|49.279|1.043|FR|Normandy|79
+Crosne|48.719|2.457|FR|Île-de-France|79
+Bihorel|49.455|1.122|FR|Normandy|79
+Dammartin-en-Goële|49.054|2.678|FR|Île-de-France|79
+Lamorlaye|49.162|2.447|FR|Hauts-de-France|79
+Loudun|47.008|0.083|FR|New Aquitaine|79
+Rethel|49.510|4.367|FR|Grand Est|79
+Gueugnon|46.604|4.063|FR|Bourgogne-Franche-Comté|79
+Saint-Aubin-lès-Elbeuf|49.304|1.011|FR|Normandy|79
+Craponne|45.745|4.723|FR|Auvergne-Rhône-Alpes|79
+Unieux|45.404|4.271|FR|Auvergne-Rhône-Alpes|79
+Lésigny|48.744|2.615|FR|Île-de-France|79
+Jouy-en-Josas|48.759|2.170|FR|Île-de-France|78
+Grigny-sur-Rhône|45.608|4.790|FR|Auvergne-Rhône-Alpes|78
+Lempdes|45.771|3.194|FR|Auvergne-Rhône-Alpes|78
+Sainte-Adresse|49.509|0.084|FR|Normandy|78
+Tournan-en-Brie|48.741|2.772|FR|Île-de-France|78
+Chaponost|45.710|4.742|FR|Auvergne-Rhône-Alpes|78
+Harfleur|49.507|0.198|FR|Normandy|78
+Vert-Saint-Denis|48.568|2.620|FR|Île-de-France|78
+Nangis|48.555|3.013|FR|Île-de-France|78
+Noisy-le-Roi|48.844|2.063|FR|Île-de-France|78
+Veauche|45.563|4.292|FR|Auvergne-Rhône-Alpes|78
+Honfleur|49.420|0.233|FR|Normandy|78
+Cébazat|45.831|3.100|FR|Auvergne-Rhône-Alpes|78
+Isle|45.805|1.226|FR|New Aquitaine|78
+Roussillon|45.374|4.815|FR|Auvergne-Rhône-Alpes|78
+Saint-Rémy-lès-Chevreuse|48.707|2.077|FR|Île-de-France|78
+Monistrol-sur-Loire|45.293|4.172|FR|Auvergne-Rhône-Alpes|78
+Bessancourt|49.038|2.209|FR|Île-de-France|78
+Ingré|47.920|1.828|FR|Centre-Val de Loire|78
+La Ricamarie|45.405|4.369|FR|Auvergne-Rhône-Alpes|78
+Montmorillon|46.426|0.870|FR|New Aquitaine|78
+Revin|49.940|4.635|FR|Grand Est|78
+Beynes|48.856|1.873|FR|Île-de-France|78
+Coulaines|48.024|0.204|FR|Pays de la Loire|78
+Groslay|48.986|2.347|FR|Île-de-France|78
+Ambert|45.549|3.742|FR|Auvergne-Rhône-Alpes|78
+Feurs|45.733|4.228|FR|Auvergne-Rhône-Alpes|78
+Saint-Yrieix-la-Perche|45.514|1.203|FR|New Aquitaine|78
+Gretz-Armainvilliers|48.741|2.731|FR|Île-de-France|78
+Mably|46.065|4.060|FR|Auvergne-Rhône-Alpes|78
+Notre-Dame-de-Bondeville|49.483|1.050|FR|Normandy|78
+Quincy-sous-Sénart|48.673|2.534|FR|Île-de-France|78
+Marcoussis|48.640|2.239|FR|Île-de-France|78
+Breuillet|48.571|2.174|FR|Île-de-France|78
+Beaugency|47.780|1.627|FR|Centre-Val de Loire|78
+Chécy|47.894|2.023|FR|Centre-Val de Loire|78
+Saint-Denis-en-Val|47.873|1.966|FR|Centre-Val de Loire|78
+Lisses|48.602|2.422|FR|Île-de-France|78
+Saint-Benoît|46.550|0.342|FR|New Aquitaine|78
+Ruelle-sur-Touvre|45.680|0.229|FR|New Aquitaine|78
+La Couronne|45.611|0.099|FR|New Aquitaine|78
+Écouen|49.021|2.383|FR|Île-de-France|78
+Le Coteau|46.019|4.092|FR|Auvergne-Rhône-Alpes|78
+Paray-Vieille-Poste|48.714|2.363|FR|Île-de-France|78
+Cesson|48.562|2.608|FR|Île-de-France|78
+Soisy-sur-Seine|48.649|2.452|FR|Île-de-France|78
+Sorbiers|45.491|4.442|FR|Auvergne-Rhône-Alpes|78
+Chauvigny|46.570|0.643|FR|New Aquitaine|78
+Louveciennes|48.861|2.115|FR|Île-de-France|78
+Saint-Flour|45.034|3.093|FR|Auvergne-Rhône-Alpes|78
+Saint-Germain-lès-Corbeil|48.622|2.488|FR|Île-de-France|77
+Commentry|46.289|2.742|FR|Auvergne-Rhône-Alpes|77
+Neuville-sur-Saône|45.876|4.841|FR|Auvergne-Rhône-Alpes|77
+Brioude|45.294|3.384|FR|Auvergne-Rhône-Alpes|77
+Châteauneuf-sur-Loire|47.866|2.219|FR|Centre-Val de Loire|77
+Le Plessis-Bouchard|49.000|2.233|FR|Île-de-France|77
+Ballan-Miré|47.341|0.615|FR|Centre-Val de Loire|77
+Blanzy|46.700|4.388|FR|Bourgogne-Franche-Comté|77
+Pierrelaye|49.021|2.155|FR|Île-de-France|77
+Yssingeaux|45.143|4.124|FR|Auvergne-Rhône-Alpes|77
+Mehun-sur-Yèvre|47.138|2.211|FR|Centre-Val de Loire|77
+Villemoisson-sur-Orge|48.666|2.337|FR|Île-de-France|77
+Verneuil-sur-Avre|48.739|0.927|FR|Normandy|77
+Saint-Prix|49.017|2.267|FR|Île-de-France|77
+La Mulatière|45.728|4.812|FR|Auvergne-Rhône-Alpes|77
+La Ferté-Saint-Aubin|47.717|1.939|FR|Centre-Val de Loire|77
+Loches|47.129|0.995|FR|Centre-Val de Loire|77
+Fontaines-sur-Saône|45.836|4.845|FR|Auvergne-Rhône-Alpes|77
+Malemort-sur-Corrèze|45.171|1.564|FR|New Aquitaine|77
+Othis|49.074|2.675|FR|Île-de-France|77
+Saint-Florent-sur-Cher|46.996|2.251|FR|Centre-Val de Loire|77
+L'Île-Saint-Denis|48.937|2.339|FR|Île-de-France|77
+Monts|47.277|0.625|FR|Centre-Val de Loire|77
+Luisant|48.429|1.474|FR|Centre-Val de Loire|77
+Le Blanc|46.634|1.063|FR|Centre-Val de Loire|77
+Charnay-lès-Mâcon|46.308|4.785|FR|Bourgogne-Franche-Comté|77
+Lieusaint|48.635|2.548|FR|Île-de-France|77
+Margny-lès-Compiègne|49.426|2.818|FR|Hauts-de-France|77
+Émerainville|48.813|2.621|FR|Île-de-France|77
+Ballancourt-sur-Essonne|48.525|2.386|FR|Île-de-France|77
+Auvers-sur-Oise|49.072|2.170|FR|Île-de-France|77
+Trévoux|45.943|4.771|FR|Auvergne-Rhône-Alpes|77
+Gargenville|48.988|1.812|FR|Île-de-France|77
+Vineuil|47.584|1.376|FR|Centre-Val de Loire|77
+Couzeix|45.876|1.238|FR|New Aquitaine|77
+Châtillon-sur-Seine|47.859|4.574|FR|Bourgogne-Franche-Comté|77
+Le Mesnil-Saint-Denis|48.745|1.956|FR|Île-de-France|77
+Le Péage-de-Roussillon|45.374|4.797|FR|Auvergne-Rhône-Alpes|77
+Trélissac|45.196|0.783|FR|New Aquitaine|77
+Saint-Yrieix-sur-Charente|45.675|0.127|FR|New Aquitaine|77
+Gaillon|49.161|1.340|FR|Normandy|77
+Nouzonville|49.814|4.747|FR|Grand Est|77
+La Talaudière|45.476|4.426|FR|Auvergne-Rhône-Alpes|77
+Boussy-Saint-Antoine|48.691|2.531|FR|Île-de-France|77
+Épône|48.955|1.822|FR|Île-de-France|77
+Liancourt|49.330|2.466|FR|Hauts-de-France|77
+Nandy|48.583|2.563|FR|Île-de-France|77
+Meung-sur-Loire|47.831|1.696|FR|Centre-Val de Loire|76
+Roye|49.700|2.790|FR|Hauts-de-France|76
+Courtry|48.919|2.604|FR|Île-de-France|76
+Champagne-sur-Seine|48.398|2.798|FR|Île-de-France|76
+Decize|46.829|3.462|FR|Bourgogne-Franche-Comté|76
+Mamers|48.350|0.369|FR|Pays de la Loire|76
+Montdidier|49.648|2.570|FR|Hauts-de-France|76
+Saint-Thibault-des-Vignes|48.871|2.680|FR|Île-de-France|76
+Saint-Julien-les-Villas|48.271|4.099|FR|Grand Est|76
+Le Mesnil-le-Roi|48.938|2.126|FR|Île-de-France|76
+Villemandeur|47.987|2.718|FR|Centre-Val de Loire|76
+Corbie|49.907|2.507|FR|Hauts-de-France|76
+Cormontreuil|49.217|4.050|FR|Grand Est|76
+Étréchy|48.495|2.195|FR|Île-de-France|76
+Briare|47.633|2.744|FR|Centre-Val de Loire|76
+Gournay-en-Bray|49.483|1.725|FR|Normandy|76
+Saint-Pierre-lès-Nemours|48.267|2.680|FR|Île-de-France|76
+La Verrière|48.752|1.946|FR|Île-de-France|76
+Limours|48.646|2.077|FR|Île-de-France|76
+L'Arbresle|45.836|4.617|FR|Auvergne-Rhône-Alpes|76
+Le Mesnil-Esnard|49.413|1.145|FR|Normandy|76
+Terrasson-Lavilledieu|45.130|1.301|FR|New Aquitaine|76
+Montlhéry|48.640|2.275|FR|Île-de-France|76
+Malesherbes|48.296|2.409|FR|Centre-Val de Loire|76
+Belleville|46.109|4.749|FR|Auvergne-Rhône-Alpes|76
+Bohain-en-Vermandois|49.987|3.453|FR|Hauts-de-France|76
+Sully-sur-Loire|47.764|2.372|FR|Centre-Val de Loire|76
+Maule|48.911|1.853|FR|Île-de-France|76
+Courdimanche|49.035|2.001|FR|Île-de-France|76
+Pavilly|49.567|0.954|FR|Normandy|76
+La Ville-du-Bois|48.655|2.268|FR|Île-de-France|76
+Gond-Pontouvre|45.683|0.167|FR|New Aquitaine|76
+Villers-Saint-Paul|49.289|2.490|FR|Hauts-de-France|76
+Les Essarts-le-Roi|48.717|1.901|FR|Île-de-France|76
+Le Perray-en-Yvelines|48.694|1.856|FR|Île-de-France|76
+Cléon|49.312|1.030|FR|Normandy|76
+Migné|46.628|0.315|FR|New Aquitaine|76
+Longpont-sur-Orge|48.642|2.293|FR|Île-de-France|76
+Saint-Pierre-du-Perray|48.611|2.494|FR|Île-de-France|76
+Buc|48.776|2.126|FR|Île-de-France|76
+Jaunay-Clan|46.685|0.372|FR|New Aquitaine|76
+Gannat|46.100|3.198|FR|Auvergne-Rhône-Alpes|76
+Saint-Jean-Bonnefonds|45.456|4.442|FR|Auvergne-Rhône-Alpes|76
+Gournay-sur-Marne|48.862|2.585|FR|Île-de-France|76
+Nogent-sur-Seine|48.494|3.503|FR|Grand Est|76
+Tournus|46.568|4.906|FR|Bourgogne-Franche-Comté|76
+Châtenoy-le-Royal|46.798|4.812|FR|Bourgogne-Franche-Comté|76
+Linas|48.630|2.263|FR|Île-de-France|76
+Saint-Rémy|46.763|4.839|FR|Bourgogne-Franche-Comté|76
+Marly-la-Ville|49.082|2.503|FR|Île-de-France|76
+Guise|49.901|3.628|FR|Hauts-de-France|76
+Bétheny|49.285|4.055|FR|Grand Est|76
+Souppes-sur-Loing|48.183|2.735|FR|Île-de-France|76
+Saint-Florentin|48.001|3.725|FR|Bourgogne-Franche-Comté|76
+Arnage|47.926|0.187|FR|Pays de la Loire|76
+Aubigny-sur-Nère|47.488|2.439|FR|Centre-Val de Loire|76
+Le Palais-sur-Vienne|45.864|1.323|FR|New Aquitaine|75
+Malaunay|49.527|1.043|FR|Normandy|75
+Saint-Priest-en-Jarez|45.474|4.377|FR|Auvergne-Rhône-Alpes|75
+Tain-l'Hermitage|45.067|4.856|FR|Auvergne-Rhône-Alpes|75
+Vaujours|48.930|2.571|FR|Île-de-France|75
+Ablon-sur-Seine|48.727|2.427|FR|Île-de-France|75
+Bois-le-Roi|48.473|2.705|FR|Île-de-France|75
+Ceyrat|45.733|3.063|FR|Auvergne-Rhône-Alpes|75
+Jassans-Riottier|45.981|4.761|FR|Auvergne-Rhône-Alpes|75
+Saint-Memmie|48.952|4.384|FR|Grand Est|75
+Mer|47.706|1.506|FR|Centre-Val de Loire|75
+Mourmelon-le-Grand|49.133|4.364|FR|Grand Est|75
+Salbris|47.424|2.051|FR|Centre-Val de Loire|75
+Saint-Genest-Lerpt|45.443|4.340|FR|Auvergne-Rhône-Alpes|75
+Château-Renault|47.592|0.911|FR|Centre-Val de Loire|75
+Veigné|47.286|0.741|FR|Centre-Val de Loire|75
+Saint-Just-en-Chaussée|49.505|2.433|FR|Hauts-de-France|75
+Trouville-sur-Mer|49.366|0.080|FR|Normandy|75
+Sézanne|48.720|3.723|FR|Grand Est|75
+Montbard|47.623|4.337|FR|Bourgogne-Franche-Comté|75
+Sainte-Sigolène|45.243|4.233|FR|Auvergne-Rhône-Alpes|75
+Ham|49.747|3.073|FR|Hauts-de-France|75
+Saint-Arnoult-en-Yvelines|48.571|1.940|FR|Île-de-France|75
+Chevreuse|48.707|2.033|FR|Île-de-France|75
+Chagny|46.910|4.752|FR|Bourgogne-Franche-Comté|75
+Champagne-au-Mont-d'Or|45.795|4.791|FR|Auvergne-Rhône-Alpes|75
+Châtel-Guyon|45.923|3.064|FR|Auvergne-Rhône-Alpes|75
+Gauchy|49.828|3.274|FR|Hauts-de-France|75
+Aixe-sur-Vienne|45.797|1.136|FR|New Aquitaine|75
+Montpon-Ménestérol|45.010|0.159|FR|New Aquitaine|75
+Bouffémont|49.044|2.298|FR|Île-de-France|75
+Itteville|48.515|2.344|FR|Île-de-France|75
+Naintré|46.763|0.483|FR|New Aquitaine|75
+Parmain|49.112|2.215|FR|Île-de-France|75
+Villeneuve-sur-Yonne|48.082|3.297|FR|Bourgogne-Franche-Comté|75
+Montchanin|46.750|4.471|FR|Bourgogne-Franche-Comté|75
+Esbly|48.905|2.812|FR|Île-de-France|75
+Mouy|49.315|2.320|FR|Hauts-de-France|75
+Rungis|48.746|2.353|FR|Île-de-France|75
+Thourotte|49.476|2.882|FR|Hauts-de-France|75
+Château-du-Loir|47.694|0.418|FR|Pays de la Loire|75
+Changé|47.987|0.283|FR|Pays de la Loire|75
+Magnanville|48.968|1.678|FR|Île-de-France|75
+Le Trait|49.469|0.816|FR|Normandy|75
+Nanteuil-lès-Meaux|48.929|2.896|FR|Île-de-France|75
+Saint-Galmier|45.598|4.311|FR|Auvergne-Rhône-Alpes|75
+Bourbon-Lancy|46.622|3.770|FR|Bourgogne-Franche-Comté|75
+Saint-Pourçain-sur-Sioule|46.307|3.289|FR|Auvergne-Rhône-Alpes|75
+Pont-Évêque|45.532|4.909|FR|Auvergne-Rhône-Alpes|75
+La Charité-sur-Loire|47.183|3.017|FR|Bourgogne-Franche-Comté|75
+Magny-en-Vexin|49.155|1.787|FR|Île-de-France|75
+Feytiat|45.810|1.331|FR|New Aquitaine|75
+Neufchâtel-en-Bray|49.733|1.440|FR|Normandy|75
+Fismes|49.308|3.686|FR|Grand Est|75
+Bar-sur-Aube|48.233|4.706|FR|Grand Est|75
+Menucourt|49.028|1.980|FR|Île-de-France|75
+Saint-Pryvé-Saint-Mesmin|47.882|1.869|FR|Centre-Val de Loire|75
+Chambourcy|48.907|2.041|FR|Île-de-France|75
+Tonnerre|47.856|3.974|FR|Bourgogne-Franche-Comté|75
+Argenton-sur-Creuse|46.590|1.520|FR|Centre-Val de Loire|75
+Égletons|45.406|2.045|FR|New Aquitaine|75
+La Souterraine|46.238|1.486|FR|New Aquitaine|75
+Saintry-sur-Seine|48.596|2.495|FR|Île-de-France|74
+Nuits-Saint-Georges|47.137|4.949|FR|Bourgogne-Franche-Comté|74
+Saint-Pathus|49.071|2.799|FR|Île-de-France|74
+Saint-Marcel|49.100|1.450|FR|Normandy|74
+Épernon|48.610|1.672|FR|Centre-Val de Loire|74
+Amplepuis|45.973|4.330|FR|Auvergne-Rhône-Alpes|74
+Égly|48.578|2.224|FR|Île-de-France|74
+Saulx-les-Chartreux|48.691|2.267|FR|Île-de-France|74
+Sainte-Menehould|49.090|4.897|FR|Grand Est|74
+Chasse-sur-Rhône|45.578|4.810|FR|Auvergne-Rhône-Alpes|74
+Aurec-sur-Loire|45.369|4.202|FR|Auvergne-Rhône-Alpes|74
+Monéteau|47.849|3.582|FR|Bourgogne-Franche-Comté|74
+Pacy-sur-Eure|49.017|1.383|FR|Normandy|74
+Beynost|45.836|4.999|FR|Auvergne-Rhône-Alpes|74
+Marsannay-la-Côte|47.271|4.989|FR|Bourgogne-Franche-Comté|74
+Longueau|49.872|2.359|FR|Hauts-de-France|74
+Lezoux|45.827|3.379|FR|Auvergne-Rhône-Alpes|74
+Pont-Sainte-Marie|48.318|4.094|FR|Grand Est|74
+Semur-en-Auxois|47.483|4.333|FR|Bourgogne-Franche-Comté|74
+Le Poinçonnet|46.764|1.718|FR|Centre-Val de Loire|74
+Anse|45.936|4.719|FR|Auvergne-Rhône-Alpes|74
+Veneux-les-Sablons|48.379|2.795|FR|Île-de-France|74
+Villabé|48.589|2.451|FR|Île-de-France|74
+Orgeval|48.922|1.978|FR|Île-de-France|74
+Trilport|48.957|2.951|FR|Île-de-France|74
+Lentilly|45.819|4.663|FR|Auvergne-Rhône-Alpes|74
+Le Cendre|45.722|3.187|FR|Auvergne-Rhône-Alpes|74
+Villennes-sur-Seine|48.941|1.991|FR|Île-de-France|74
+Saint-Germain-du-Puy|47.100|2.483|FR|Centre-Val de Loire|74
+Mornant|45.619|4.672|FR|Auvergne-Rhône-Alpes|74
+Fontenay-Trésigny|48.706|2.870|FR|Île-de-France|74
+Sury-le-Comtal|45.537|4.186|FR|Auvergne-Rhône-Alpes|74
+La Grand-Croix|45.504|4.559|FR|Auvergne-Rhône-Alpes|74
+Luynes|47.384|0.555|FR|Centre-Val de Loire|74
+Saint-Genis-les-Ollières|45.757|4.726|FR|Auvergne-Rhône-Alpes|74
+Quincy-Voisins|48.901|2.876|FR|Île-de-France|74
+Saint-Valery-en-Caux|49.867|0.733|FR|Normandy|74
+Jouars-Pontchartrain|48.789|1.899|FR|Île-de-France|74
+Ambazac|45.957|1.400|FR|New Aquitaine|74
+Champniers|45.715|0.204|FR|New Aquitaine|74
+Sées|48.604|0.172|FR|Normandy|74
+Bellac|46.122|1.049|FR|New Aquitaine|74
+Le Châtelet-en-Brie|48.507|2.792|FR|Île-de-France|74
+Viarmes|49.131|2.371|FR|Île-de-France|74
+Octeville-sur-Mer|49.555|0.117|FR|Normandy|74
+Vouziers|49.398|4.701|FR|Grand Est|74
+Rosny-sur-Seine|48.998|1.631|FR|Île-de-France|74
+Selles-sur-Cher|47.279|1.554|FR|Centre-Val de Loire|74
+La Ville-aux-Dames|47.396|0.768|FR|Centre-Val de Loire|74
+Marolles-en-Hurepoix|48.562|2.299|FR|Île-de-France|74
+Courpière|45.757|3.542|FR|Auvergne-Rhône-Alpes|74
+Saint-Astier|45.145|0.527|FR|New Aquitaine|74
+Chazelles-sur-Lyon|45.638|4.389|FR|Auvergne-Rhône-Alpes|74
+Aubusson|45.955|2.167|FR|New Aquitaine|74
+Mortagne-au-Perche|48.520|0.547|FR|Normandy|74
+Ollainville|48.591|2.219|FR|Île-de-France|74
+Fourchambault|47.017|3.083|FR|Bourgogne-Franche-Comté|74
+Ternay|45.602|4.811|FR|Auvergne-Rhône-Alpes|74
+Moret-sur-Loing|48.372|2.817|FR|Île-de-France|74
+Milly-la-Forêt|48.404|2.470|FR|Île-de-France|74
+Brindas|45.721|4.693|FR|Auvergne-Rhône-Alpes|74
+Saint-Marcel|46.774|4.892|FR|Bourgogne-Franche-Comté|74
+Nozay|48.659|2.242|FR|Île-de-France|74
+Royat|45.765|3.050|FR|Auvergne-Rhône-Alpes|74
+Saint-Nom-la-Bretêche|48.859|2.022|FR|Île-de-France|74
+Bléré|47.327|0.992|FR|Centre-Val de Loire|74
+Mulsanne|47.912|0.248|FR|Pays de la Loire|74
+Fagnières|48.964|4.317|FR|Grand Est|74
+Mormant|48.609|2.890|FR|Île-de-France|74
+Wissous|48.734|2.323|FR|Île-de-France|74
+Désertines|46.355|2.619|FR|Auvergne-Rhône-Alpes|74
+Pont-l'Évêque|49.289|0.192|FR|Normandy|74
+Coubron|48.917|2.583|FR|Île-de-France|74
+Genay|45.897|4.841|FR|Auvergne-Rhône-Alpes|73
+Sathonay-Camp|45.825|4.875|FR|Auvergne-Rhône-Alpes|73
+Brives-Charensac|45.048|3.929|FR|Auvergne-Rhône-Alpes|73
+Saint-Chéron|48.554|2.124|FR|Île-de-France|73
+La Châtre|46.582|1.987|FR|Centre-Val de Loire|73
+Brou-sur-Chantereine|48.883|2.633|FR|Île-de-France|73
+Deauville|49.357|0.070|FR|Normandy|73
+Witry-lès-Reims|49.292|4.119|FR|Grand Est|73
+Aulnat|45.799|3.167|FR|Auvergne-Rhône-Alpes|73
+Châtillon-sur-Chalaronne|46.118|4.957|FR|Auvergne-Rhône-Alpes|73
+Saint-Léonard-de-Noblat|45.837|1.490|FR|New Aquitaine|73
+Fumay|49.991|4.708|FR|Grand Est|73
+La Frette-sur-Seine|48.981|2.179|FR|Île-de-France|73
+Lacroix-Saint-Ouen|49.357|2.788|FR|Hauts-de-France|73
+L'Étang-la-Ville|48.870|2.057|FR|Île-de-France|73
+Le Port-Marly|48.890|2.111|FR|Île-de-France|73
+Lardy|48.518|2.274|FR|Île-de-France|73
+Mouroux|48.823|3.039|FR|Île-de-France|73
+Buzançais|46.889|1.419|FR|Centre-Val de Loire|73
+Vaux-sur-Seine|49.013|1.969|FR|Île-de-France|73
+Vic-le-Comte|45.643|3.246|FR|Auvergne-Rhône-Alpes|73
+Cluny|46.433|4.658|FR|Bourgogne-Franche-Comté|73
+Charbonnières-les-Bains|45.781|4.746|FR|Auvergne-Rhône-Alpes|73
+Lèves|48.471|1.482|FR|Centre-Val de Loire|73
+La Ferté-Gaucher|48.783|3.307|FR|Île-de-France|73
+Saint-Éloy-les-Mines|46.161|2.834|FR|Auvergne-Rhône-Alpes|73
+Paron|48.179|3.251|FR|Bourgogne-Franche-Comté|73
+Écommoy|47.828|0.273|FR|Pays de la Loire|73
+Clamecy|47.460|3.519|FR|Bourgogne-Franche-Comté|73
+Saint-Lubin-des-Joncherets|48.767|1.217|FR|Centre-Val de Loire|73
+Conches-en-Ouche|48.958|0.941|FR|Normandy|73
+Cours-la-Ville|46.100|4.317|FR|Auvergne-Rhône-Alpes|73
+Esvres|47.285|0.786|FR|Centre-Val de Loire|73
+Maintenon|48.587|1.578|FR|Centre-Val de Loire|73
+Issou|48.990|1.793|FR|Île-de-France|73
+Le Houlme|49.510|1.035|FR|Normandy|73
+Billom|45.723|3.339|FR|Auvergne-Rhône-Alpes|73
+Le Lude|47.646|0.157|FR|Pays de la Loire|73
+Volvic|45.872|3.038|FR|Auvergne-Rhône-Alpes|73
+Vaugneray|45.738|4.656|FR|Auvergne-Rhône-Alpes|73
+Coignières|48.750|1.921|FR|Île-de-France|73
+Breteuil|49.634|2.295|FR|Hauts-de-France|73
+Limas|45.976|4.705|FR|Auvergne-Rhône-Alpes|73
+Fourqueux|48.887|2.064|FR|Île-de-France|73
+Lamotte-Beuvron|47.602|2.028|FR|Centre-Val de Loire|73
+Gedinne|49.980|4.937|BE|Wallonia|73
+Camon|49.888|2.345|FR|Hauts-de-France|73
+Chazay-d'Azergues|45.876|4.713|FR|Auvergne-Rhône-Alpes|73
+Villerest|45.995|4.035|FR|Auvergne-Rhône-Alpes|73
+Dreslincourt|49.528|2.927|FR|Hauts-de-France|73
+Vouneuil-sous-Biard|46.573|0.270|FR|New Aquitaine|73
+Saint-Maurice-de-Beynost|45.834|4.978|FR|Auvergne-Rhône-Alpes|73
+Condat-sur-Vienne|45.793|1.232|FR|New Aquitaine|73
+Grézieu-la-Varenne|45.747|4.690|FR|Auvergne-Rhône-Alpes|73
+Ay|49.055|4.003|FR|Grand Est|73
+Bourgueil|47.283|0.166|FR|Centre-Val de Loire|73
+Sanvignes-les-Mines|46.664|4.292|FR|Bourgogne-Franche-Comté|73
+Neuville-de-Poitou|46.685|0.245|FR|New Aquitaine|73
+La Fouillouse|45.505|4.315|FR|Auvergne-Rhône-Alpes|73
+Ribérac|45.248|0.338|FR|New Aquitaine|73
+Mériel|49.076|2.211|FR|Île-de-France|73
+Varennes-sur-Allier|46.313|3.401|FR|Auvergne-Rhône-Alpes|73
+Bièvres|48.758|2.219|FR|Île-de-France|73
+Chasseneuil-du-Poitou|46.651|0.372|FR|New Aquitaine|73
+Bailly|48.842|2.077|FR|Île-de-France|73
+Saint-Sébastien-de-Morsent|49.011|1.087|FR|Normandy|73
+Brionne|49.196|0.715|FR|Normandy|73
+Verneuil-en-Halatte|49.279|2.524|FR|Hauts-de-France|73
+La Chaussée-Saint-Victor|47.616|1.368|FR|Centre-Val de Loire|73
+La Chapelle-sur-Crécy|48.859|2.926|FR|Île-de-France|73
+Duclair|49.484|0.876|FR|Normandy|73
+Mandres-les-Roses|48.702|2.547|FR|Île-de-France|73
+Suippes|49.129|4.534|FR|Grand Est|73
+Jargeau|47.863|2.126|FR|Centre-Val de Loire|73
+Salouël|49.870|2.243|FR|Hauts-de-France|73
+Vernaison|45.648|4.811|FR|Auvergne-Rhône-Alpes|73
+Bonneval|48.183|1.385|FR|Centre-Val de Loire|72
+Saint-Germain-du-Corbéis|48.422|0.062|FR|Normandy|72
+Morigny-Champigny|48.447|2.184|FR|Île-de-France|72
+Bonnétable|48.179|0.426|FR|Pays de la Loire|72
+La Norville|48.582|2.262|FR|Île-de-France|72
+Bonnières-sur-Seine|49.035|1.578|FR|Île-de-France|72
+Chauffailles|46.207|4.339|FR|Bourgogne-Franche-Comté|72
+Montoire-sur-le-Loir|47.753|0.865|FR|Centre-Val de Loire|72
+Ecquevilly|48.952|1.923|FR|Île-de-France|72
+Moreuil|49.775|2.483|FR|Hauts-de-France|72
+Luzarches|49.113|2.422|FR|Île-de-France|72
+Chancelade|45.206|0.665|FR|New Aquitaine|72
+Neuville-aux-Bois|48.068|2.054|FR|Centre-Val de Loire|72
+Montrond-les-Bains|45.644|4.238|FR|Auvergne-Rhône-Alpes|72
+Saint-Just-Malmont|45.339|4.313|FR|Auvergne-Rhône-Alpes|72
+Champagne-sur-Oise|49.141|2.242|FR|Île-de-France|72
+Saint-Calais|47.920|0.744|FR|Pays de la Loire|72
+Communay|45.604|4.835|FR|Auvergne-Rhône-Alpes|72
+Blanzat|45.830|3.078|FR|Auvergne-Rhône-Alpes|72
+Noiseau|48.776|2.549|FR|Île-de-France|72
+Sainte-Maure-de-Touraine|47.111|0.622|FR|Centre-Val de Loire|72
+Belleu|49.359|3.336|FR|Hauts-de-France|72
+Crégy-lès-Meaux|48.976|2.875|FR|Île-de-France|72
+Magny-le-Hongre|48.863|2.815|FR|Île-de-France|72
+Nogent-le-Roi|48.648|1.529|FR|Centre-Val de Loire|72
+Saint-Romain-de-Colbosc|49.531|0.357|FR|Normandy|72
+La Ferté-Alais|48.483|2.348|FR|Île-de-France|72
+Ruffec|46.029|0.198|FR|New Aquitaine|72
+Saint-Nicolas-d'Aliermont|49.879|1.225|FR|Normandy|72
+Charly|45.649|4.795|FR|Auvergne-Rhône-Alpes|72
+Saint-Vallier|45.172|4.818|FR|Auvergne-Rhône-Alpes|72
+Langeais|47.326|0.401|FR|Centre-Val de Loire|72
+Le Plessis-Pâté|48.611|2.323|FR|Île-de-France|72
+Aubevoye|49.171|1.335|FR|Normandy|72
+Boissise-le-Roi|48.525|2.570|FR|Île-de-France|72
+Reyrieux|45.936|4.815|FR|Auvergne-Rhône-Alpes|72
+Auneau|48.464|1.773|FR|Centre-Val de Loire|72
+Saint-Georges-de-Reneins|46.062|4.722|FR|Auvergne-Rhône-Alpes|72
+Langeac|45.100|3.494|FR|Auvergne-Rhône-Alpes|72
+Villers-Bretonneux|49.868|2.517|FR|Hauts-de-France|72
+Fraisses|45.388|4.264|FR|Auvergne-Rhône-Alpes|72
+Salaise-sur-Sanne|45.351|4.811|FR|Auvergne-Rhône-Alpes|72
+Saint-Paul-en-Jarez|45.485|4.571|FR|Auvergne-Rhône-Alpes|72
+Espaly-Saint-Marcel|45.048|3.866|FR|Auvergne-Rhône-Alpes|72
+Laigneville|49.291|2.446|FR|Hauts-de-France|72
+Vimoutiers|48.928|0.198|FR|Normandy|72
+Villiers-sur-Orge|48.660|2.300|FR|Île-de-France|72
+Mauriac|45.219|2.334|FR|Auvergne-Rhône-Alpes|72
+Gravigny|49.053|1.170|FR|Normandy|72
+Leuville-sur-Orge|48.617|2.267|FR|Île-de-France|72
+Le Neubourg|49.150|0.910|FR|Normandy|72
+Bresles|49.410|2.250|FR|Hauts-de-France|72
+La Loupe|48.473|1.016|FR|Centre-Val de Loire|72
+Coye-la-Forêt|49.142|2.470|FR|Hauts-de-France|72
+Saint-Clair-du-Rhône|45.442|4.771|FR|Auvergne-Rhône-Alpes|72
+Garchizy|47.048|3.096|FR|Bourgogne-Franche-Comté|72
+Le Thillay|49.007|2.472|FR|Île-de-France|72
+Villenoy|48.941|2.860|FR|Île-de-France|72
+Bonson|45.523|4.213|FR|Auvergne-Rhône-Alpes|72
+Descartes|46.967|0.700|FR|Centre-Val de Loire|72
+Survilliers|49.097|2.544|FR|Île-de-France|72
+Rochechouart|45.823|0.821|FR|New Aquitaine|72
+Saint-Pantaléon-de-Larche|45.141|1.447|FR|New Aquitaine|72
+Brou|48.217|1.165|FR|Centre-Val de Loire|72
+Offranville|49.872|1.048|FR|Normandy|72
+Choisy-au-Bac|49.438|2.877|FR|Hauts-de-France|72
+Bar-sur-Seine|48.113|4.377|FR|Grand Est|72
+Avermes|46.588|3.307|FR|Auvergne-Rhône-Alpes|72
+Nazelles-Négron|47.433|0.950|FR|Centre-Val de Loire|72
+Saint-Laurent-Nouan|47.717|1.600|FR|Centre-Val de Loire|72
+Dun-sur-Auron|46.885|2.573|FR|Centre-Val de Loire|72
+Imphy|46.936|3.260|FR|Bourgogne-Franche-Comté|72
+Lizy-sur-Ourcq|49.025|3.022|FR|Île-de-France|72
+Mignaloux-Beauvoir|46.543|0.414|FR|New Aquitaine|72
+Saint-Héand|45.527|4.371|FR|Auvergne-Rhône-Alpes|72
+Nontron|45.530|0.662|FR|New Aquitaine|72
+Montbazon|47.283|0.700|FR|Centre-Val de Loire|72
+Forges-les-Eaux|49.614|1.544|FR|Normandy|72
+Estrées-Saint-Denis|49.426|2.643|FR|Hauts-de-France|72
+La Suze-sur-Sarthe|47.890|0.025|FR|Pays de la Loire|72
+Château-Landon|48.147|2.698|FR|Île-de-France|72
+Boissy-sous-Saint-Yon|48.554|2.212|FR|Île-de-France|72
+Étrépagny|49.306|1.611|FR|Normandy|72
+Saint-Mard|49.037|2.696|FR|Île-de-France|72
+Charlieu|46.162|4.172|FR|Auvergne-Rhône-Alpes|71
+Vals-près-le-Puy|45.032|3.878|FR|Auvergne-Rhône-Alpes|71
+Thiviers|45.418|0.921|FR|New Aquitaine|71
+Saint-Aignan|47.269|1.376|FR|Centre-Val de Loire|71
+Rilhac-Rancon|45.898|1.318|FR|New Aquitaine|71
+Saint-Germain-des-Fossés|46.207|3.434|FR|Auvergne-Rhône-Alpes|71
+Montrichard|47.343|1.187|FR|Centre-Val de Loire|71
+Jouarre|48.927|3.132|FR|Île-de-France|71
+Montmirail|48.872|3.538|FR|Grand Est|71
+Givry|46.782|4.743|FR|Bourgogne-Franche-Comté|71
+Revigny-sur-Ornain|48.830|4.986|FR|Grand Est|71
+Breteuil|48.833|0.917|FR|Normandy|71
+Bort-les-Orgues|45.400|2.496|FR|New Aquitaine|71
+Anneyron|45.272|4.886|FR|Auvergne-Rhône-Alpes|71
+Saint-Rémy-sur-Avre|48.761|1.245|FR|Centre-Val de Loire|71
+Forges-les-Bains|48.629|2.103|FR|Île-de-France|71
+Bailly-Romainvilliers|48.847|2.824|FR|Île-de-France|71
+Saint-Martin-en-Haut|45.660|4.562|FR|Auvergne-Rhône-Alpes|71
+Courtenay|48.039|3.059|FR|Centre-Val de Loire|71
+Touques|49.344|0.102|FR|Normandy|71
+Maurecourt|48.996|2.062|FR|Île-de-France|71
+Sargé-lès-le-Mans|48.035|0.240|FR|Pays de la Loire|71
+Châteauneuf-sur-Isère|45.017|4.933|FR|Auvergne-Rhône-Alpes|71
+Roullet-Saint-Estèphe|45.583|0.050|FR|New Aquitaine|71
+Vrigne-aux-Bois|49.737|4.856|FR|Grand Est|71
+La Machine|46.892|3.464|FR|Bourgogne-Franche-Comté|71
+Freneuse|49.048|1.602|FR|Île-de-France|71
+Gallardon|48.526|1.693|FR|Centre-Val de Loire|71
+La Tour-de-Salvagny|45.814|4.717|FR|Auvergne-Rhône-Alpes|71
+Bruyères-sur-Oise|49.158|2.326|FR|Île-de-France|71
+Condrieu|45.463|4.768|FR|Auvergne-Rhône-Alpes|71
+Le Vaudreuil|49.254|1.210|FR|Normandy|71
+Sandillon|47.845|2.032|FR|Centre-Val de Loire|71
+Coulanges-lès-Nevers|47.005|3.188|FR|Bourgogne-Franche-Comté|71
+Veyre-Monton|45.669|3.171|FR|Auvergne-Rhône-Alpes|71
+Millery|45.632|4.782|FR|Auvergne-Rhône-Alpes|71
+Verneuil-sur-Vienne|45.849|1.127|FR|New Aquitaine|71
+Dompierre-sur-Besbre|46.522|3.681|FR|Auvergne-Rhône-Alpes|71
+Sancoins|46.833|2.922|FR|Centre-Val de Loire|71
+Chevry-Cossigny|48.725|2.661|FR|Île-de-France|71
+Brassac-les-Mines|45.414|3.329|FR|Auvergne-Rhône-Alpes|71
+Saint-Brice-Courcelles|49.267|3.983|FR|Grand Est|71
+Villers-Semeuse|49.742|4.747|FR|Grand Est|71
+Juziers|48.991|1.848|FR|Île-de-France|71
+Mézières-sur-Seine|48.961|1.792|FR|Île-de-France|71
+Cires-lès-Mello|49.272|2.358|FR|Hauts-de-France|71
+Neuvic|45.101|0.469|FR|New Aquitaine|71
+Montsoult|49.069|2.320|FR|Île-de-France|71
+Le Breuil|46.807|4.470|FR|Bourgogne-Franche-Comté|71
+Blangy-sur-Bresle|49.932|1.625|FR|Normandy|71
+Saint-Michel|49.920|4.133|FR|Hauts-de-France|71
+Lapalisse|46.248|3.636|FR|Auvergne-Rhône-Alpes|71
+Mozac|45.894|3.095|FR|Auvergne-Rhône-Alpes|71
+Bas-en-Basset|45.306|4.109|FR|Auvergne-Rhône-Alpes|71
+Les Noës-près-Troyes|48.304|4.046|FR|Grand Est|71
+Chaponnay|45.628|4.936|FR|Auvergne-Rhône-Alpes|71
+Varennes-sur-Seine|48.373|2.926|FR|Île-de-France|71
+Estrablin|45.515|4.962|FR|Auvergne-Rhône-Alpes|71
+Brie|45.738|0.241|FR|New Aquitaine|71
+Saint-Gervais-la-Forêt|47.567|1.355|FR|Centre-Val de Loire|71
+Orry-la-Ville|49.133|2.511|FR|Hauts-de-France|71
+Saint-Martin-la-Plaine|45.546|4.597|FR|Auvergne-Rhône-Alpes|71
+Allassac|45.258|1.476|FR|New Aquitaine|71
+Champagné|48.022|0.331|FR|Pays de la Loire|71
+Brienne-le-Château|48.393|4.526|FR|Grand Est|71
+Cany-Barville|49.789|0.637|FR|Normandy|71
+Saint-Cyr-en-Val|47.832|1.967|FR|Centre-Val de Loire|71
+Angerville|48.314|1.999|FR|Île-de-France|71
+Rivery|49.903|2.322|FR|Hauts-de-France|71
+Objat|45.263|1.408|FR|New Aquitaine|71
+Venarey-les-Laumes|47.542|4.460|FR|Bourgogne-Franche-Comté|71
+Monnaie|47.502|0.789|FR|Centre-Val de Loire|71
+Montévrain|48.874|2.751|FR|Île-de-France|71
+Pélussin|45.420|4.684|FR|Auvergne-Rhône-Alpes|71
+Saint-Marcellin-en-Forez|45.497|4.172|FR|Auvergne-Rhône-Alpes|71
+Montry|48.884|2.829|FR|Île-de-France|71
+Bornel|49.198|2.209|FR|Hauts-de-France|71
+Saint-Mammès|48.385|2.816|FR|Île-de-France|71
+Wassy|48.498|4.948|FR|Grand Est|71
+La Rochefoucauld|45.741|0.386|FR|New Aquitaine|71
+Verberie|49.311|2.732|FR|Hauts-de-France|71
+Bourganeuf|45.954|1.756|FR|New Aquitaine|71
+Contres|47.418|1.428|FR|Centre-Val de Loire|71
+Soucieu-en-Jarrest|45.678|4.704|FR|Auvergne-Rhône-Alpes|71
+Briis-sous-Forges|48.624|2.121|FR|Île-de-France|71
+Rocquencourt|48.838|2.102|FR|Île-de-France|71
+Mareil-Marly|48.882|2.074|FR|Île-de-France|71
+Saint-Georges-sur-Baulche|47.800|3.531|FR|Bourgogne-Franche-Comté|71
+Dangé-Saint-Romain|46.933|0.600|FR|New Aquitaine|71
+Saint-André-de-Corcy|45.926|4.952|FR|Auvergne-Rhône-Alpes|71
+Fère-en-Tardenois|49.200|3.517|FR|Hauts-de-France|71
+Brienon-sur-Armançon|47.990|3.616|FR|Bourgogne-Franche-Comté|71
+Cerny|48.478|2.328|FR|Île-de-France|71
+Ussac|45.194|1.513|FR|New Aquitaine|71
+Saint-Georges-lès-Baillargeaux|46.671|0.398|FR|New Aquitaine|71
+Ailly-sur-Somme|49.929|2.196|FR|Hauts-de-France|71
+Nanteuil-le-Haudouin|49.141|2.811|FR|Hauts-de-France|71
+Vivier-au-Court|49.733|4.829|FR|Grand Est|71
+Ardentes|46.742|1.834|FR|Centre-Val de Loire|71
+Gevrey-Chambertin|47.226|4.968|FR|Bourgogne-Franche-Comté|71
+Onzain|47.500|1.177|FR|Centre-Val de Loire|71
+Saint-Maur|46.807|1.639|FR|Centre-Val de Loire|71
+Arnas|46.024|4.708|FR|Auvergne-Rhône-Alpes|70
+Pomponne|48.881|2.682|FR|Île-de-France|70
+Charolles|46.435|4.275|FR|Bourgogne-Franche-Comté|70
+Fontaine-le-Comte|46.531|0.262|FR|New Aquitaine|70
+Saint-Soupplets|49.039|2.807|FR|Île-de-France|70
+Saint-Germain-Laprade|45.039|3.970|FR|Auvergne-Rhône-Alpes|70
+Thomery|48.407|2.789|FR|Île-de-France|70
+Sainte-Florine|45.405|3.317|FR|Auvergne-Rhône-Alpes|70
+Saint-Symphorien-sur-Coise|45.632|4.457|FR|Auvergne-Rhône-Alpes|70
+Chaumontel|49.125|2.432|FR|Île-de-France|70
+Azay-le-Rideau|47.264|0.471|FR|Centre-Val de Loire|70
+Béthisy-Saint-Pierre|49.305|2.796|FR|Hauts-de-France|70
+Pont-sur-Yonne|48.283|3.202|FR|Bourgogne-Franche-Comté|70
+Santeny|48.727|2.573|FR|Île-de-France|70
+Collégien|48.836|2.674|FR|Île-de-France|70
+Précy-sur-Oise|49.208|2.373|FR|Hauts-de-France|70
+Beuzeville|49.345|0.343|FR|Normandy|70
+Orcines|45.782|3.012|FR|Auvergne-Rhône-Alpes|70
+Méréville|48.315|2.086|FR|Île-de-France|70
+Ézy-sur-Eure|48.867|1.417|FR|Normandy|70
+Senonches|48.560|1.031|FR|Centre-Val de Loire|70
+La Chapelle-Saint-Ursin|47.062|2.324|FR|Centre-Val de Loire|70
+Marzy|46.981|3.094|FR|Bourgogne-Franche-Comté|70
+Puiseaux|48.092|2.060|FR|Centre-Val de Loire|70
+Véretz|47.357|0.806|FR|Centre-Val de Loire|70
+Chadrac|45.062|3.903|FR|Auvergne-Rhône-Alpes|70
+Ormes|47.942|1.818|FR|Centre-Val de Loire|70
+Montignac|45.066|1.161|FR|New Aquitaine|70
+Vouvray|47.411|0.799|FR|Centre-Val de Loire|70
+Lorette|45.511|4.582|FR|Auvergne-Rhône-Alpes|70
+Saint-Ouen|47.814|1.081|FR|Centre-Val de Loire|70
+Anor|49.990|4.100|FR|Hauts-de-France|70
+Neuilly-en-Thelle|49.224|2.285|FR|Hauts-de-France|70
+Saint-Léger-du-Bourg-Denis|49.433|1.158|FR|Normandy|70
+Bruyères-le-Châtel|48.589|2.190|FR|Île-de-France|70
+Dormans|49.074|3.638|FR|Grand Est|70
+Crèvecœur-le-Grand|49.600|2.083|FR|Hauts-de-France|70
+Boutigny-sur-Essonne|48.433|2.383|FR|Île-de-France|70
+Boën-sur-Lignon|45.751|4.007|FR|Auvergne-Rhône-Alpes|70
+Chasseneuil-sur-Bonnieure|45.817|0.450|FR|New Aquitaine|70
+Le Bosc-Roger-en-Roumois|49.283|0.933|FR|Normandy|70
+Houdan|48.790|1.600|FR|Île-de-France|70
+Mont-près-Chambord|47.562|1.457|FR|Centre-Val de Loire|70
+Saint-Michel|45.642|0.106|FR|New Aquitaine|70
+Saint-Didier-en-Velay|45.303|4.275|FR|Auvergne-Rhône-Alpes|70
+Uzerche|45.425|1.563|FR|New Aquitaine|70
+Pannes|48.019|2.668|FR|Centre-Val de Loire|70
+La Rivière-de-Corps|48.288|4.019|FR|Grand Est|70
+Châteaugay|45.851|3.085|FR|Auvergne-Rhône-Alpes|70
+Appoigny|47.875|3.525|FR|Bourgogne-Franche-Comté|70
+Gamaches|49.986|1.556|FR|Hauts-de-France|70
+Lissieu|45.865|4.742|FR|Auvergne-Rhône-Alpes|70
+Marines|49.145|1.982|FR|Île-de-France|70
+Replonges|46.301|4.883|FR|Auvergne-Rhône-Alpes|70
+Rochecorbon|47.417|0.755|FR|Centre-Val de Loire|70
+Le Plessis-Belleville|49.095|2.756|FR|Hauts-de-France|70
+Andeville|49.261|2.164|FR|Hauts-de-France|70
+Argentat|45.093|1.938|FR|New Aquitaine|70
+Confolens|46.013|0.672|FR|New Aquitaine|70
+Montmerle-sur-Saône|46.083|4.767|FR|Auvergne-Rhône-Alpes|70
+Chaumes-en-Brie|48.669|2.840|FR|Île-de-France|70
+Creuzier-le-Vieux|46.163|3.433|FR|Auvergne-Rhône-Alpes|70
+Puiseux-en-France|49.056|2.500|FR|Île-de-France|70
+Gasny|49.092|1.603|FR|Normandy|70
+Champhol|48.468|1.503|FR|Centre-Val de Loire|70
+Chaumont-en-Vexin|49.266|1.886|FR|Hauts-de-France|70
+La Membrolle-sur-Choisille|47.437|0.632|FR|Centre-Val de Loire|70
+Fay-aux-Loges|47.927|2.140|FR|Centre-Val de Loire|70
+Fléac|45.665|0.093|FR|New Aquitaine|70
+Chaingy|47.883|1.771|FR|Centre-Val de Loire|70
+Breuil-le-Vert|49.362|2.436|FR|Hauts-de-France|70
+La Rochette|48.509|2.664|FR|Île-de-France|70
+Torcy|46.769|4.453|FR|Bourgogne-Franche-Comté|70
+Bourron-Marlotte|48.341|2.700|FR|Île-de-France|70
+Messimy|45.698|4.674|FR|Auvergne-Rhône-Alpes|70
+Civray|46.148|0.295|FR|New Aquitaine|70
+Semoy|47.933|1.950|FR|Centre-Val de Loire|70
+Vivonne|46.430|0.264|FR|New Aquitaine|70
+La Roche-Blanche|45.701|3.126|FR|Auvergne-Rhône-Alpes|70
+Mayet|47.759|0.275|FR|Pays de la Loire|70
+Meymac|45.536|2.147|FR|New Aquitaine|70
+Saclay|48.733|2.169|FR|Île-de-France|70
+Tence|45.114|4.291|FR|Auvergne-Rhône-Alpes|70
+Épouville|49.563|0.224|FR|Normandy|70
+Le Coudray|48.421|1.501|FR|Centre-Val de Loire|70
+La Chapelle-la-Reine|48.318|2.572|FR|Île-de-France|70
+Voves|48.271|1.626|FR|Centre-Val de Loire|70
+Saulieu|47.280|4.229|FR|Bourgogne-Franche-Comté|70
+Montfort-le-Gesnois|48.048|0.403|FR|Pays de la Loire|70
+Saint-Ay|47.859|1.751|FR|Centre-Val de Loire|70
+Trouy|47.012|2.360|FR|Centre-Val de Loire|70
+Boos|49.388|1.203|FR|Normandy|70
+Bury|49.313|2.344|FR|Hauts-de-France|70
+Saint-Germain-sur-Morin|48.883|2.851|FR|Île-de-France|70
+Damigny|48.450|0.067|FR|Normandy|70
+Dunières|45.216|4.345|FR|Auvergne-Rhône-Alpes|70
+Saint-Clément|48.217|3.296|FR|Bourgogne-Franche-Comté|70
+Feillens|46.334|4.891|FR|Auvergne-Rhône-Alpes|70
+Fresnoy-le-Grand|49.948|3.418|FR|Hauts-de-France|70
+Grandvilliers|49.665|1.941|FR|Hauts-de-France|70
+Dampmart|48.889|2.741|FR|Île-de-France|70
+Beautor|49.652|3.345|FR|Hauts-de-France|70
+Rosières-en-Santerre|49.814|2.701|FR|Hauts-de-France|70
+Iteuil|46.488|0.311|FR|New Aquitaine|70
+La Bazoge|48.099|0.155|FR|Pays de la Loire|70
+Rosières-près-Troyes|48.262|4.074|FR|Grand Est|70
+Ruaudin|47.945|0.266|FR|Pays de la Loire|70
+Mussidan|45.035|0.365|FR|New Aquitaine|70
+Sennecey-le-Grand|46.641|4.867|FR|Bourgogne-Franche-Comté|70
+Vouillé|46.641|0.168|FR|New Aquitaine|70
+Limonest|45.837|4.772|FR|Auvergne-Rhône-Alpes|69
+Saint-Germain-Laval|48.400|2.998|FR|Île-de-France|69
+Beaumont-le-Roger|49.078|0.781|FR|Normandy|69
+Feucherolles|48.870|1.974|FR|Île-de-France|69
+Cléry-Saint-André|47.822|1.751|FR|Centre-Val de Loire|69
+Bourgtheroulde-Infreville|49.300|0.883|FR|Normandy|69
+Coupvray|48.893|2.797|FR|Île-de-France|69
+Traînou|47.974|2.104|FR|Centre-Val de Loire|69
+Avord|47.035|2.653|FR|Centre-Val de Loire|69
+La Roche-de-Glun|45.013|4.845|FR|Auvergne-Rhône-Alpes|69
+Le Coudray-Montceaux|48.564|2.500|FR|Île-de-France|69
+Arcis-sur-Aube|48.534|4.141|FR|Grand Est|69
+Chanceaux-sur-Choisille|47.471|0.705|FR|Centre-Val de Loire|69
+Magnac-sur-Touvre|45.666|0.237|FR|New Aquitaine|69
+Pontpoint|49.300|2.650|FR|Hauts-de-France|69
+Beaumont-en-Véron|47.194|0.184|FR|Centre-Val de Loire|69
+Neauphle-le-Château|48.814|1.906|FR|Île-de-France|69
+Amfreville-la-Mi-Voie|49.408|1.139|FR|Normandy|69
+Boissy-le-Châtel|48.821|3.137|FR|Île-de-France|69
+Le Chambon-sur-Lignon|45.061|4.302|FR|Auvergne-Rhône-Alpes|69
+Levroux|46.979|1.612|FR|Centre-Val de Loire|69
+Ballainvilliers|48.675|2.301|FR|Île-de-France|69
+Saint-Genès-Champanelle|45.720|3.019|FR|Auvergne-Rhône-Alpes|69
+Vourles|45.659|4.773|FR|Auvergne-Rhône-Alpes|69
+Saint-Genest-Malifaux|45.341|4.417|FR|Auvergne-Rhône-Alpes|69
+Riom-ès-Montagnes|45.282|2.660|FR|Auvergne-Rhône-Alpes|69
+Valençay|47.162|1.569|FR|Centre-Val de Loire|69
+Saint-Yorre|46.066|3.464|FR|Auvergne-Rhône-Alpes|69
+Auneuil|49.370|1.997|FR|Hauts-de-France|69
+Rozay-en-Brie|48.683|2.958|FR|Île-de-France|69
+Lorris|47.889|2.515|FR|Centre-Val de Loire|69
+Venette|49.417|2.803|FR|Hauts-de-France|69
+Servon|48.717|2.587|FR|Île-de-France|69
+La Fère|49.663|3.366|FR|Hauts-de-France|69
+Donnemarie-Dontilly|48.477|3.132|FR|Île-de-France|69
+Cinq-Mars-la-Pile|47.346|0.459|FR|Centre-Val de Loire|69
+Azay-sur-Cher|47.350|0.846|FR|Centre-Val de Loire|69
+Châtillon-sur-Indre|46.987|1.172|FR|Centre-Val de Loire|69
+Fontaines-Saint-Martin|45.844|4.853|FR|Auvergne-Rhône-Alpes|69
+Lusignan|46.435|0.122|FR|New Aquitaine|69
+Loubert|45.914|0.586|FR|New Aquitaine|69
+Commelle|46.001|4.058|FR|Auvergne-Rhône-Alpes|69
+Bourg-de-Thizy|46.034|4.299|FR|Auvergne-Rhône-Alpes|69
+Saint-Romain-le-Puy|45.558|4.123|FR|Auvergne-Rhône-Alpes|69
+Panissières|45.792|4.342|FR|Auvergne-Rhône-Alpes|69
+Vervins|49.835|3.909|FR|Hauts-de-France|69
+Ablis|48.517|1.836|FR|Île-de-France|69
+Cannes-Écluse|48.363|2.987|FR|Île-de-France|69
+Héricy|48.448|2.764|FR|Île-de-France|69
+Agnetz|49.381|2.386|FR|Hauts-de-France|69
+Thuré|46.832|0.459|FR|New Aquitaine|69
+Bessines-sur-Gartempe|46.109|1.368|FR|New Aquitaine|69
+Bourg-Argental|45.299|4.568|FR|Auvergne-Rhône-Alpes|69
+Saint-Agrève|45.010|4.396|FR|Auvergne-Rhône-Alpes|69
+Anet|48.856|1.440|FR|Centre-Val de Loire|69
+Quincieux|45.914|4.777|FR|Auvergne-Rhône-Alpes|69
+Renaison|46.050|3.924|FR|Auvergne-Rhône-Alpes|69
+Boves|49.846|2.396|FR|Hauts-de-France|69
+Courville-sur-Eure|48.449|1.241|FR|Centre-Val de Loire|69
+Néris-les-Bains|46.287|2.659|FR|Auvergne-Rhône-Alpes|69
+Saint-Vrain|48.543|2.333|FR|Île-de-France|69
+Écuelles|48.356|2.823|FR|Île-de-France|69
+Albigny-sur-Saône|45.867|4.833|FR|Auvergne-Rhône-Alpes|69
+Toucy|47.736|3.295|FR|Bourgogne-Franche-Comté|69
+Davézieux|45.255|4.707|FR|Auvergne-Rhône-Alpes|69
+Dissay|46.701|0.432|FR|New Aquitaine|69
+Ligugé|46.520|0.327|FR|New Aquitaine|69
+Monthermé|49.885|4.730|FR|Grand Est|69
+Orcet|45.704|3.169|FR|Auvergne-Rhône-Alpes|69
+Craponne-sur-Arzon|45.331|3.848|FR|Auvergne-Rhône-Alpes|69
+Crêches-sur-Saône|46.245|4.787|FR|Bourgogne-Franche-Comté|69
+Montamisé|46.622|0.425|FR|New Aquitaine|69
+Noailles|49.329|2.200|FR|Hauts-de-France|69
+Romilly-sur-Andelle|49.332|1.261|FR|Normandy|69
+Étiolles|48.632|2.482|FR|Île-de-France|69
+Gruchet-le-Valasse|49.555|0.487|FR|Normandy|69
+Teloché|47.888|0.271|FR|Pays de la Loire|69
+Pouilly-sous-Charlieu|46.146|4.113|FR|Auvergne-Rhône-Alpes|69
+Pierres|48.592|1.564|FR|Centre-Val de Loire|69
+La Roche-Chalais|45.152|0.008|FR|New Aquitaine|69
+Quincampoix|49.527|1.188|FR|Normandy|69
+Maisse|48.395|2.379|FR|Île-de-France|69
+Noyers-sur-Cher|47.277|1.403|FR|Centre-Val de Loire|69
+Toury|48.194|1.935|FR|Centre-Val de Loire|69
+Allonnes|47.293|0.023|FR|Pays de la Loire|69
+Polignac|45.071|3.860|FR|Auvergne-Rhône-Alpes|69
+Annet-sur-Marne|48.927|2.720|FR|Île-de-France|69
+Chablis|47.814|3.798|FR|Bourgogne-Franche-Comté|69
+Champcueil|48.516|2.447|FR|Île-de-France|69
+Charly-sur-Marne|48.977|3.285|FR|Hauts-de-France|69
+Puy-Guillaume|45.960|3.474|FR|Auvergne-Rhône-Alpes|69
+Margency|49.000|2.300|FR|Île-de-France|69
+Dordives|48.143|2.768|FR|Centre-Val de Loire|69
+Montigny-sur-Loing|48.336|2.744|FR|Île-de-France|69
+Notre-Dame-de-Sanilhac|45.121|0.717|FR|New Aquitaine|69
+Chasselay|45.874|4.772|FR|Auvergne-Rhône-Alpes|69
+Bessé-sur-Braye|47.834|0.750|FR|Pays de la Loire|69
+Sérifontaine|49.354|1.769|FR|Hauts-de-France|69
+Vernou-la-Celle-sur-Seine|48.388|2.847|FR|Île-de-France|69
+Cloyes-sur-le-Loir|47.997|1.237|FR|Centre-Val de Loire|69
+Pommeuse|48.817|3.017|FR|Île-de-France|69
+Guécélard|47.876|0.129|FR|Pays de la Loire|69
+Saint-Lyé|48.365|3.999|FR|Grand Est|69
+Connerré|48.060|0.492|FR|Pays de la Loire|69
+Thizy-les-Bourgs|46.030|4.313|FR|Auvergne-Rhône-Alpes|69
+Lussac-les-Châteaux|46.403|0.723|FR|New Aquitaine|69
+Vibraye|48.060|0.735|FR|Pays de la Loire|69
+Aumale|49.770|1.756|FR|Normandy|69
+Orbec|49.017|0.417|FR|Normandy|69
+Vendeuvre-sur-Barse|48.238|4.469|FR|Grand Est|69
+Rugles|48.822|0.710|FR|Normandy|69
+Villenauxe-la-Grande|48.583|3.550|FR|Grand Est|69
+Ailly-sur-Noye|49.757|2.364|FR|Hauts-de-France|69
+Plombières-lès-Dijon|47.333|4.967|FR|Bourgogne-Franche-Comté|69
+Savonnières|47.348|0.550|FR|Centre-Val de Loire|69
+Saint-Maximin|49.222|2.454|FR|Hauts-de-France|69
+Villeneuve-la-Guyard|48.341|3.062|FR|Bourgogne-Franche-Comté|69
+Sainte-Geneviève|49.289|2.199|FR|Hauts-de-France|69
+Saint-Priest-Taurion|45.887|1.400|FR|New Aquitaine|69
+Ouzouer-sur-Loire|47.766|2.480|FR|Centre-Val de Loire|69
+Cour-Cheverny|47.510|1.456|FR|Centre-Val de Loire|69
+Montlignon|49.006|2.287|FR|Île-de-France|69
+Château-Chinon(Ville)|47.067|3.933|FR|Bourgogne-Franche-Comté|69
+Vonnas|46.217|4.992|FR|Auvergne-Rhône-Alpes|69
+Chabris|47.253|1.652|FR|Centre-Val de Loire|69
+Saint-Parres-aux-Tertres|48.298|4.118|FR|Grand Est|69
+Ivry-la-Bataille|48.883|1.459|FR|Normandy|69
+Livarot|49.005|0.150|FR|Normandy|68
+Bourg-Achard|49.353|0.816|FR|Normandy|68
+Roissy-en-France|49.004|2.517|FR|Île-de-France|68
+Chartrettes|48.488|2.701|FR|Île-de-France|68
+Cheny|47.952|3.533|FR|Bourgogne-Franche-Comté|68
+Courtisols|48.987|4.517|FR|Grand Est|68
+Crouy|49.403|3.358|FR|Hauts-de-France|68
+L'Étrat|45.486|4.376|FR|Auvergne-Rhône-Alpes|68
+Rouillé|46.420|0.040|FR|New Aquitaine|68
+Fontaine-la-Mallet|49.536|0.146|FR|Normandy|68
+Guignes|48.633|2.800|FR|Île-de-France|68
+Rantigny|49.328|2.442|FR|Hauts-de-France|68
+Asnières-sur-Oise|49.134|2.356|FR|Île-de-France|68
+Porcheville|48.973|1.780|FR|Île-de-France|68
+Maringues|45.922|3.330|FR|Auvergne-Rhône-Alpes|68
+La Chapelle-de-Guinchay|46.208|4.762|FR|Bourgogne-Franche-Comté|68
+Roézé-sur-Sarthe|47.896|0.067|FR|Pays de la Loire|68
+Savigneux|45.617|4.083|FR|Auvergne-Rhône-Alpes|68
+Villers-sur-Mer|49.323|0.000|FR|Normandy|68
+Vertus|48.906|4.002|FR|Grand Est|68
+Aigueperse|46.023|3.202|FR|Auvergne-Rhône-Alpes|68
+Saint-Saëns|49.673|1.285|FR|Normandy|68
+Doudeville|49.723|0.785|FR|Normandy|68
+Maignelay-Montigny|49.550|2.517|FR|Hauts-de-France|68
+Moussy-le-Neuf|49.064|2.603|FR|Île-de-France|68
+Champlan|48.708|2.280|FR|Île-de-France|68
+Roiffieux|45.227|4.654|FR|Auvergne-Rhône-Alpes|68
+Sérézin-du-Rhône|45.629|4.824|FR|Auvergne-Rhône-Alpes|68
+Arques-la-Bataille|49.881|1.129|FR|Normandy|68
+Saint-Martin-le-Beau|47.356|0.910|FR|Centre-Val de Loire|68
+La Chapelle-en-Serval|49.128|2.534|FR|Hauts-de-France|68
+Thurins|45.682|4.641|FR|Auvergne-Rhône-Alpes|68
+Retournac|45.204|4.033|FR|Auvergne-Rhône-Alpes|68
+Villiers-Saint-Fréderic|48.817|1.883|FR|Île-de-France|68
+Moncé-en-Belin|47.895|0.199|FR|Pays de la Loire|68
+Balbigny|45.819|4.190|FR|Auvergne-Rhône-Alpes|68
+Hanches|48.601|1.651|FR|Centre-Val de Loire|68
+Chessy|48.883|2.767|FR|Île-de-France|68
+Puymoyen|45.615|0.180|FR|New Aquitaine|68
+Saint-Hilaire-Saint-Mesmin|47.866|1.834|FR|Centre-Val de Loire|68
+Bâgé-la-Ville|46.316|4.941|FR|Auvergne-Rhône-Alpes|68
+Vendeuvre-du-Poitou|46.736|0.309|FR|New Aquitaine|68
+Pringy|48.518|2.563|FR|Île-de-France|68
+Nouaillé-Maupertuis|46.508|0.414|FR|New Aquitaine|68
+Sissonne|49.571|3.894|FR|Hauts-de-France|68
+Nogent-sur-Vernisson|47.846|2.743|FR|Centre-Val de Loire|68
+Cérans-Foulletourte|47.827|0.075|FR|Pays de la Loire|68
+Marle|49.740|3.771|FR|Hauts-de-France|68
+Vert-le-Petit|48.552|2.365|FR|Île-de-France|68
+Bourbon-l'Archambault|46.583|3.057|FR|Auvergne-Rhône-Alpes|68
+Saint-Georges-sur-Eure|48.419|1.355|FR|Centre-Val de Loire|68
+Villefranche-sur-Cher|47.300|1.767|FR|Centre-Val de Loire|68
+Nesle|49.759|2.911|FR|Hauts-de-France|68
+Vernou-sur-Brenne|47.419|0.848|FR|Centre-Val de Loire|68
+Montanay|45.879|4.863|FR|Auvergne-Rhône-Alpes|68
+Saint-Jacques-sur-Darnétal|49.440|1.204|FR|Normandy|68
+Couzon-au-Mont-d'Or|45.844|4.829|FR|Auvergne-Rhône-Alpes|68
+Spay|47.924|0.151|FR|Pays de la Loire|68
+Fitz-James|49.391|2.431|FR|Hauts-de-France|68
+Épinac|46.983|4.517|FR|Bourgogne-Franche-Comté|68
+Serris|48.845|2.786|FR|Île-de-France|68
+Faremoutiers|48.800|2.996|FR|Île-de-France|68
+Saint-Jean-de-Muzols|45.082|4.814|FR|Auvergne-Rhône-Alpes|68
+Argent-sur-Sauldre|47.558|2.444|FR|Centre-Val de Loire|68
+Champcevinel|45.216|0.726|FR|New Aquitaine|68
+Saint-Didier-sur-Chalaronne|46.177|4.816|FR|Auvergne-Rhône-Alpes|68
+Chevilly|48.030|1.874|FR|Centre-Val de Loire|68
+Ouroux-sur-Saône|46.721|4.953|FR|Bourgogne-Franche-Comté|68
+Nonancourt|48.771|1.198|FR|Normandy|68
+Châteauneuf-en-Thymerais|48.581|1.241|FR|Centre-Val de Loire|68
+Ciry-le-Noble|46.606|4.299|FR|Bourgogne-Franche-Comté|68
+Mardié|47.886|2.057|FR|Centre-Val de Loire|68
+Abrest|46.099|3.445|FR|Auvergne-Rhône-Alpes|68
+Pougues-les-Eaux|47.075|3.102|FR|Bourgogne-Franche-Comté|68
+Saint-Martin-du-Tertre|49.107|2.345|FR|Île-de-France|68
+Guérigny|47.087|3.202|FR|Bourgogne-Franche-Comté|68
+Essômes-sur-Marne|49.029|3.376|FR|Hauts-de-France|68
+Moncourt-Fromonville|48.307|2.705|FR|Île-de-France|68
+Cuise-la-Motte|49.386|3.006|FR|Hauts-de-France|68
+La Grande-Paroisse|48.387|2.902|FR|Île-de-France|68
+Guichainville|49.001|1.193|FR|Normandy|68
+Houppeville|49.513|1.080|FR|Normandy|68
+Razac-sur-l'Isle|45.164|0.600|FR|New Aquitaine|68
+Nouan-le-Fuzelier|47.536|2.036|FR|Centre-Val de Loire|68
+Nersac|45.626|0.051|FR|New Aquitaine|68
+Beaune-la-Rolande|48.071|2.431|FR|Centre-Val de Loire|68
+Floing|49.722|4.929|FR|Grand Est|68
+Gergy|46.876|4.945|FR|Bourgogne-Franche-Comté|68
+Rouillon|48.006|0.135|FR|Pays de la Loire|68
+Montagny|45.628|4.748|FR|Auvergne-Rhône-Alpes|68
+Longueil-Annel|49.469|2.865|FR|Hauts-de-France|68
+Roumazières-Loubert|45.887|0.581|FR|New Aquitaine|68
+Saleux|49.856|2.237|FR|Hauts-de-France|68
+Saint-Mars-la-Brière|48.030|0.373|FR|Pays de la Loire|68
+Huriel|46.373|2.477|FR|Auvergne-Rhône-Alpes|68
+Perreux|46.040|4.127|FR|Auvergne-Rhône-Alpes|68
+Fresnay-sur-Sarthe|48.282|0.021|FR|Pays de la Loire|68
+Naves|45.314|1.767|FR|New Aquitaine|68
+Coullons|47.621|2.493|FR|Centre-Val de Loire|68
+Saint-Just-Chaleyssin|45.594|4.999|FR|Auvergne-Rhône-Alpes|68
+Gainneville|49.518|0.262|FR|Normandy|68
+Bernes-sur-Oise|49.161|2.300|FR|Île-de-France|68
+Cosnac|45.134|1.585|FR|New Aquitaine|68
+Caudebec-en-Caux|49.526|0.726|FR|Normandy|68
+Mirebeau|46.785|0.182|FR|New Aquitaine|68
+Hermes|49.360|2.245|FR|Hauts-de-France|68
+Nexon|45.680|1.185|FR|New Aquitaine|68
+Villedieu-sur-Indre|46.846|1.540|FR|Centre-Val de Loire|68
+Frépillon|49.052|2.205|FR|Île-de-France|68
+Vertaizon|45.770|3.287|FR|Auvergne-Rhône-Alpes|68
+Lencloître|46.814|0.328|FR|New Aquitaine|68
+Solaize|45.640|4.840|FR|Auvergne-Rhône-Alpes|68
+Lailly-en-Val|47.770|1.687|FR|Centre-Val de Loire|68
+Saint-Julien-du-Sault|48.032|3.296|FR|Bourgogne-Franche-Comté|68
+Saint-Prest|48.491|1.530|FR|Centre-Val de Loire|68
+Garancières|48.823|1.755|FR|Île-de-France|68
+Saint-Georges-de-Mons|45.939|2.839|FR|Auvergne-Rhône-Alpes|68
+Isneauville|49.498|1.154|FR|Normandy|68
+Rocroi|49.926|4.522|FR|Grand Est|68
+Châteauponsac|46.134|1.275|FR|New Aquitaine|68
+La Milesse|48.065|0.136|FR|Pays de la Loire|68
+Samoreau|48.429|2.756|FR|Île-de-France|67
+Donchery|49.696|4.874|FR|Grand Est|67
+Orgerus|48.839|1.701|FR|Île-de-France|67
+La Ferté-Milon|49.175|3.129|FR|Hauts-de-France|67
+Sayat|45.826|3.053|FR|Auvergne-Rhône-Alpes|67
+Poilly-lez-Gien|47.677|2.597|FR|Centre-Val de Loire|67
+Saint-Witz|49.091|2.571|FR|Île-de-France|67
+Mouthiers-sur-Boëme|45.560|0.124|FR|New Aquitaine|67
+Saint-Gobain|49.596|3.377|FR|Hauts-de-France|67
+Villebarou|47.623|1.323|FR|Centre-Val de Loire|67
+Fère-Champenoise|48.754|3.991|FR|Grand Est|67
+Pîtres|49.317|1.233|FR|Normandy|67
+Poix-de-Picardie|49.783|1.983|FR|Hauts-de-France|67
+Tourville-la-Rivière|49.328|1.106|FR|Normandy|67
+Goderville|49.646|0.366|FR|Normandy|67
+Muizon|49.275|3.891|FR|Grand Est|67
+Chailly-en-Bière|48.467|2.608|FR|Île-de-France|67
+Felletin|45.884|2.173|FR|New Aquitaine|67
+Villeneuve-Saint-Germain|49.380|3.360|FR|Hauts-de-France|67
+Chavanay|45.416|4.726|FR|Auvergne-Rhône-Alpes|67
+Morainvilliers|48.929|1.936|FR|Île-de-France|67
+Flins-sur-Seine|48.965|1.873|FR|Île-de-France|67
+Sainte-Feyre|46.139|1.915|FR|New Aquitaine|67
+Buchelay|48.979|1.670|FR|Île-de-France|67
+Neuvic|45.381|2.271|FR|New Aquitaine|67
+Massieux|45.910|4.833|FR|Auvergne-Rhône-Alpes|67
+Montbron|45.667|0.500|FR|New Aquitaine|67
+Saint-Pierre-de-Varengeville|49.502|0.931|FR|Normandy|67
+Brenouille|49.306|2.544|FR|Hauts-de-France|67
+Murat|45.110|2.869|FR|Auvergne-Rhône-Alpes|67
+Ampuis|45.489|4.810|FR|Auvergne-Rhône-Alpes|67
+La Bonneville-sur-Iton|49.000|1.033|FR|Normandy|67
+Pérignat-lès-Sarliève|45.737|3.140|FR|Auvergne-Rhône-Alpes|67
+Saint-Branchs|47.227|0.773|FR|Centre-Val de Loire|67
+Parçay-Meslay|47.442|0.748|FR|Centre-Val de Loire|67
+Criquetot-l'Esneval|49.646|0.266|FR|Normandy|67
+Bosmie-l'Aiguille|45.750|1.200|FR|New Aquitaine|67
+Smarves|46.511|0.350|FR|New Aquitaine|67
+Saint-Germain|48.257|4.033|FR|Grand Est|67
+Château-Renard|47.933|2.933|FR|Centre-Val de Loire|67
+Mionnay|45.898|4.928|FR|Auvergne-Rhône-Alpes|67
+Condé-sur-Sarthe|48.432|0.034|FR|Normandy|67
+Scorbé-Clairvaux|46.813|0.413|FR|New Aquitaine|67
+Neuville-sur-Sarthe|48.076|0.193|FR|Pays de la Loire|67
+Savigny-sur-Braye|47.879|0.810|FR|Centre-Val de Loire|67
+Artannes-sur-Indre|47.275|0.600|FR|Centre-Val de Loire|67
+Saint-Saturnin|48.065|0.160|FR|Pays de la Loire|67
+Donzenac|45.227|1.524|FR|New Aquitaine|67
+Pruniers-en-Sologne|47.317|1.667|FR|Centre-Val de Loire|67
+Lozanne|45.857|4.681|FR|Auvergne-Rhône-Alpes|67
+Pontcharra-sur-Turdine|45.874|4.490|FR|Auvergne-Rhône-Alpes|67
+Vulaines-sur-Seine|48.432|2.765|FR|Île-de-France|67
+Corquilleroy|48.042|2.704|FR|Centre-Val de Loire|67
+Formerie|49.649|1.731|FR|Hauts-de-France|67
+Cailloux-sur-Fontaines|45.853|4.875|FR|Auvergne-Rhône-Alpes|67
+Richelieu|47.014|0.324|FR|Centre-Val de Loire|67
+Longperrier|49.048|2.666|FR|Île-de-France|67
+Luzy|46.790|3.970|FR|Bourgogne-Franche-Comté|67
+Cauffry|49.320|2.446|FR|Hauts-de-France|67
+Marolles-les-Braults|48.252|0.314|FR|Pays de la Loire|67
+Jaux|49.391|2.778|FR|Hauts-de-France|67
+Nouvion-sur-Meuse|49.699|4.796|FR|Grand Est|67
+Oissery|49.070|2.818|FR|Île-de-France|67
+Léry|49.286|1.208|FR|Normandy|67
+Loire-sur-Rhône|45.550|4.800|FR|Auvergne-Rhône-Alpes|67
+Saint-Georges-sur-Cher|47.330|1.133|FR|Centre-Val de Loire|67
+Cepoy|48.048|2.738|FR|Centre-Val de Loire|67
+Saint-Mars-d'Outillé|47.871|0.332|FR|Pays de la Loire|67
+Linars|45.658|0.087|FR|New Aquitaine|67
+Guignicourt|49.437|3.968|FR|Hauts-de-France|67
+Lubersac|45.445|1.405|FR|New Aquitaine|67
+Magnac-Laval|46.215|1.166|FR|New Aquitaine|67
+Boulieu-lès-Annonay|45.271|4.666|FR|Auvergne-Rhône-Alpes|67
+Yerville|49.667|0.896|FR|Normandy|67
+Envermeu|49.896|1.265|FR|Normandy|67
+Pierrefonds|49.349|2.978|FR|Hauts-de-France|67
+Serquigny|49.109|0.710|FR|Normandy|67
+Gièvres|47.278|1.669|FR|Centre-Val de Loire|67
+Septeuil|48.892|1.684|FR|Île-de-France|67
+Sermaize-les-Bains|48.785|4.912|FR|Grand Est|67
+Aubigné-Racan|47.691|0.267|FR|Pays de la Loire|67
+Champforgeuil|46.819|4.834|FR|Bourgogne-Franche-Comté|67
+Prémery|47.170|3.327|FR|Bourgogne-Franche-Comté|67
+Boran-sur-Oise|49.167|2.358|FR|Hauts-de-France|67
+La Chapelle-Saint-Aubin|48.036|0.160|FR|Pays de la Loire|67
+Grisy-Suisnes|48.685|2.668|FR|Île-de-France|67
+Cellettes|47.528|1.381|FR|Centre-Val de Loire|67
+Montcenis|46.788|4.387|FR|Bourgogne-Franche-Comté|67
+Pargny-sur-Saulx|48.769|4.838|FR|Grand Est|67
+Juilly|49.014|2.706|FR|Île-de-France|67
+Ennezat|45.898|3.223|FR|Auvergne-Rhône-Alpes|67
+Hautot-sur-Mer|49.898|1.029|FR|Normandy|67
+Chouzé-sur-Loire|47.237|0.124|FR|Centre-Val de Loire|67
+Eymoutiers|45.739|1.742|FR|New Aquitaine|67
+Ligueil|47.042|0.819|FR|Centre-Val de Loire|67
+Breuil-le-Sec|49.371|2.451|FR|Hauts-de-France|67
+Vémars|49.069|2.566|FR|Île-de-France|67
+Vauhallan|48.734|2.203|FR|Île-de-France|67
+Donnery|47.915|2.103|FR|Centre-Val de Loire|67
+Buxy|46.714|4.704|FR|Bourgogne-Franche-Comté|67
+Ennery|49.075|2.106|FR|Île-de-France|67
+Le Mesnil-en-Thelle|49.178|2.286|FR|Hauts-de-France|67
+Aix-en-Othe|48.224|3.734|FR|Grand Est|67
+Arçonnay|48.397|0.087|FR|Pays de la Loire|67
+Crissey|46.817|4.882|FR|Bourgogne-Franche-Comté|67
+Fontaines|46.849|4.770|FR|Bourgogne-Franche-Comté|67
+Gambais|48.774|1.672|FR|Île-de-France|67
+Taissy|49.215|4.094|FR|Grand Est|67
+Gacé|48.793|0.296|FR|Normandy|67
+Saint-Cyprien|45.535|4.234|FR|Auvergne-Rhône-Alpes|67
+Beauzac|45.259|4.099|FR|Auvergne-Rhône-Alpes|67
+La Bourboule|45.588|2.739|FR|Auvergne-Rhône-Alpes|67
+La Clayette|46.290|4.304|FR|Bourgogne-Franche-Comté|67
+Saint-Paulien|45.136|3.813|FR|Auvergne-Rhône-Alpes|67
+Le Bois-d'Oingt|45.917|4.583|FR|Auvergne-Rhône-Alpes|67
+Athies-sous-Laon|49.574|3.684|FR|Hauts-de-France|67
+Damville|48.869|1.075|FR|Normandy|67
+Brantôme|45.364|0.649|FR|New Aquitaine|67
+Sarry|48.919|4.406|FR|Grand Est|67
+Méreau|47.163|2.051|FR|Centre-Val de Loire|67
+Luzinay|45.590|4.959|FR|Auvergne-Rhône-Alpes|67
+Andilly|49.009|2.302|FR|Île-de-France|67
+Bessenay|45.777|4.554|FR|Auvergne-Rhône-Alpes|67
+Soignolles-en-Brie|48.654|2.700|FR|Île-de-France|67
+Patay|48.048|1.695|FR|Centre-Val de Loire|67
+Bray-sur-Seine|48.414|3.239|FR|Île-de-France|67
+Croissy-Beaubourg|48.828|2.670|FR|Île-de-France|67
+Larçay|47.366|0.781|FR|Centre-Val de Loire|67
+Ribemont|49.795|3.459|FR|Hauts-de-France|67
+Guérard|48.821|2.960|FR|Île-de-France|67
+Le Dorat|46.215|1.082|FR|New Aquitaine|67
+Warmeriville|49.352|4.219|FR|Grand Est|67
+Vailly-sur-Aisne|49.408|3.516|FR|Hauts-de-France|67
+Airaines|49.968|1.943|FR|Hauts-de-France|67
+Chabanière|45.582|4.631|FR|Auvergne-Rhône-Alpes|67
+Toussieu|45.654|4.985|FR|Auvergne-Rhône-Alpes|67
+Durtol|45.796|3.052|FR|Auvergne-Rhône-Alpes|67
+Jouy-sur-Morin|48.795|3.272|FR|Île-de-France|67
+Prémilhat|46.313|2.536|FR|Auvergne-Rhône-Alpes|67
+La Monnerie-le-Montel|45.871|3.601|FR|Auvergne-Rhône-Alpes|67
+Lurcy-Lévis|46.730|2.938|FR|Auvergne-Rhône-Alpes|67
+Saint-Martin-d'Auxigny|47.204|2.416|FR|Centre-Val de Loire|67
+Nogent-l'Artaud|48.966|3.322|FR|Hauts-de-France|67
+Vendat|46.164|3.354|FR|Auvergne-Rhône-Alpes|67
+Chuzelles|45.585|4.877|FR|Auvergne-Rhône-Alpes|67
+Bouafle|48.965|1.901|FR|Île-de-France|67
+Cissé|46.646|0.228|FR|New Aquitaine|67
+Athée-sur-Cher|47.320|0.917|FR|Centre-Val de Loire|67
+Loury|47.999|2.085|FR|Centre-Val de Loire|67
+Saint-Beauzire|45.850|3.179|FR|Auvergne-Rhône-Alpes|67
+Sinceny|49.596|3.247|FR|Hauts-de-France|66
+Cercy-la-Tour|46.862|3.647|FR|Bourgogne-Franche-Comté|66
+Saint-Pierre-la-Palud|45.791|4.612|FR|Auvergne-Rhône-Alpes|66
+Bazeilles|49.676|4.978|FR|Grand Est|66
+Butry-sur-Oise|49.088|2.199|FR|Île-de-France|66
+Eppeville|49.741|3.051|FR|Hauts-de-France|66
+Boigny-sur-Bionne|47.933|2.017|FR|Centre-Val de Loire|66
+La Capelle|49.978|3.918|FR|Hauts-de-France|66
+Chailles|47.542|1.312|FR|Centre-Val de Loire|66
+Sorigny|47.243|0.695|FR|Centre-Val de Loire|66
+Chanas|45.319|4.818|FR|Auvergne-Rhône-Alpes|66
+Neuilly-Saint-Front|49.170|3.264|FR|Hauts-de-France|66
+Braine|49.343|3.533|FR|Hauts-de-France|66
+La Croix-en-Touraine|47.340|0.990|FR|Centre-Val de Loire|66
+Orliénas|45.659|4.718|FR|Auvergne-Rhône-Alpes|66
+Bréviandes|48.257|4.095|FR|Grand Est|66
+Perthes|48.478|2.555|FR|Île-de-France|66
+Châteaumeillant|46.562|2.195|FR|Centre-Val de Loire|66
+Oradour-sur-Glane|45.933|1.031|FR|New Aquitaine|66
+Eyzin-Pinet|45.474|4.998|FR|Auvergne-Rhône-Alpes|66
+Luneray|49.828|0.916|FR|Normandy|66
+Mailly-le-Camp|48.665|4.213|FR|Grand Est|66
+Périgny|48.697|2.555|FR|Île-de-France|66
+Saint-Léger-des-Vignes|46.841|3.455|FR|Bourgogne-Franche-Comté|66
+Rebais|48.847|3.232|FR|Île-de-France|66
+Beaumont-sur-Sarthe|48.227|0.129|FR|Pays de la Loire|66
+Mornac|45.680|0.272|FR|New Aquitaine|66
+Belbeuf|49.388|1.142|FR|Normandy|66
+Clairoix|49.443|2.846|FR|Hauts-de-France|66
+Livry-sur-Seine|48.518|2.679|FR|Île-de-France|66
+Fauville-en-Caux|49.653|0.592|FR|Normandy|66
+Sours|48.410|1.599|FR|Centre-Val de Loire|66
+Tigy|47.794|2.198|FR|Centre-Val de Loire|66
+La Couture-Boussey|48.896|1.405|FR|Normandy|66
+Boisseuil|45.770|1.331|FR|New Aquitaine|66
+Monchy-Saint-Éloi|49.290|2.467|FR|Hauts-de-France|66
+Varennes-le-Grand|46.719|4.869|FR|Bourgogne-Franche-Comté|66
+Bonnelles|48.618|2.029|FR|Île-de-France|66
+Cambronne-lès-Ribécourt|49.507|2.898|FR|Hauts-de-France|66
+Peschadoires|45.826|3.493|FR|Auvergne-Rhône-Alpes|66
+La Saussaye|49.259|0.981|FR|Normandy|66
+Semblançay|47.500|0.583|FR|Centre-Val de Loire|66
+Pont-de-Vaux|46.433|4.945|FR|Auvergne-Rhône-Alpes|66
+Samois-sur-Seine|48.453|2.750|FR|Île-de-France|66
+Foëcy|47.176|2.163|FR|Centre-Val de Loire|66
+Bailleul-sur-Thérain|49.385|2.223|FR|Hauts-de-France|66
+Étival-lès-le-Mans|47.957|0.088|FR|Pays de la Loire|66
+Seyssuel|45.558|4.843|FR|Auvergne-Rhône-Alpes|66
+Laigné-en-Belin|47.878|0.228|FR|Pays de la Loire|66
+Montier-en-Der|48.478|4.771|FR|Grand Est|66
+Trosly-Breuil|49.400|2.967|FR|Hauts-de-France|66
+Auzat-la-Combelle|45.452|3.318|FR|Auvergne-Rhône-Alpes|66
+Champigny|48.317|3.133|FR|Bourgogne-Franche-Comté|66
+Bettancourt-la-Ferrée|48.649|4.970|FR|Grand Est|66
+Couilly-Pont-aux-Dames|48.885|2.857|FR|Île-de-France|66
+Bouloire|47.974|0.548|FR|Pays de la Loire|66
+Beaujeu|46.154|4.588|FR|Auvergne-Rhône-Alpes|66
+Bonny-sur-Loire|47.562|2.839|FR|Centre-Val de Loire|66
+Savigny|45.816|4.574|FR|Auvergne-Rhône-Alpes|66
+Frans|45.993|4.778|FR|Auvergne-Rhône-Alpes|66
+Le Grand-Lucé|47.865|0.469|FR|Pays de la Loire|66
+Saint-Pierre-le-Moûtier|46.793|3.117|FR|Bourgogne-Franche-Comté|66
+Roisel|49.948|3.100|FR|Hauts-de-France|66
+Sain-Bel|45.810|4.598|FR|Auvergne-Rhône-Alpes|66
+Châtillon|45.877|4.646|FR|Auvergne-Rhône-Alpes|66
+Follainville-Dennemont|49.022|1.713|FR|Île-de-France|66
+Égreville|48.176|2.873|FR|Île-de-France|66
+Villers-sous-Saint-Leu|49.212|2.395|FR|Hauts-de-France|66
+Jardin|45.496|4.908|FR|Auvergne-Rhône-Alpes|66
+Varennes-Jarcy|48.679|2.562|FR|Île-de-France|66
+Saint-Vaury|46.204|1.756|FR|New Aquitaine|66
+Dadonville|48.158|2.272|FR|Centre-Val de Loire|66
+Vert-le-Grand|48.572|2.358|FR|Île-de-France|66
+Saint-Just-le-Martel|45.863|1.387|FR|New Aquitaine|66
+Saint-Léon-sur-l'Isle|45.115|0.504|FR|New Aquitaine|66
+Celles-sur-Durolle|45.858|3.635|FR|Auvergne-Rhône-Alpes|66
+Congis-sur-Thérouanne|49.000|2.983|FR|Île-de-France|66
+Orval|46.726|2.471|FR|Centre-Val de Loire|66
+Cosne-d'Allier|46.475|2.831|FR|Auvergne-Rhône-Alpes|66
+Marcilly-en-Villette|47.765|2.023|FR|Centre-Val de Loire|66
+Vernantes|47.393|0.052|FR|Pays de la Loire|66
+Saint-Victor|46.395|2.608|FR|Auvergne-Rhône-Alpes|66
+Bucy-le-Long|49.391|3.396|FR|Hauts-de-France|66
+Fleury-sur-Andelle|49.362|1.356|FR|Normandy|66
+Varreddes|49.003|2.928|FR|Île-de-France|66
+Guerville|48.944|1.734|FR|Île-de-France|66
+Huisseau-sur-Cosson|47.593|1.453|FR|Centre-Val de Loire|66
+Souvigny|46.535|3.192|FR|Auvergne-Rhône-Alpes|66
+Arnay-le-Duc|47.132|4.486|FR|Bourgogne-Franche-Comté|66
+Chalais|45.273|0.039|FR|New Aquitaine|66
+Saint-Gaultier|46.635|1.413|FR|Centre-Val de Loire|66
+Auffargis|48.700|1.887|FR|Île-de-France|66
+Taluyers|45.640|4.722|FR|Auvergne-Rhône-Alpes|66
+Pontcarré|48.798|2.705|FR|Île-de-France|66
+Ydes|45.347|2.437|FR|Auvergne-Rhône-Alpes|66
+Fussy|47.144|2.430|FR|Centre-Val de Loire|66
+Noyant|47.512|0.116|FR|Pays de la Loire|66
+Saint-Benoît-sur-Loire|47.806|2.313|FR|Centre-Val de Loire|66
+Varetz|45.194|1.451|FR|New Aquitaine|66
+Combronde|45.981|3.088|FR|Auvergne-Rhône-Alpes|66
+Viry-Noureuil|49.632|3.243|FR|Hauts-de-France|66
+Vouneuil-sur-Vienne|46.718|0.540|FR|New Aquitaine|66
+Vatan|47.074|1.810|FR|Centre-Val de Loire|66
+Charleval|49.373|1.384|FR|Normandy|66
+Couhé|46.300|0.182|FR|New Aquitaine|66
+Les Roches-de-Condrieu|45.453|4.767|FR|Auvergne-Rhône-Alpes|66
+Misérieux|45.974|4.813|FR|Auvergne-Rhône-Alpes|66
+Remy|49.433|2.717|FR|Hauts-de-France|66
+Clérieux|45.076|4.960|FR|Auvergne-Rhône-Alpes|66
+Janville-sur-Juine|48.514|2.271|FR|Île-de-France|66
+Reuilly|47.085|2.043|FR|Centre-Val de Loire|66
+Saint-Sulpice-de-Pommeray|47.600|1.267|FR|Centre-Val de Loire|66
+Saint-Cosme-en-Vairais|48.274|0.460|FR|Pays de la Loire|66
+Chaulnes|49.817|2.801|FR|Hauts-de-France|66
+Sèvres-Anxaumont|46.569|0.465|FR|New Aquitaine|66
+Ceton|48.226|0.750|FR|Normandy|66
+Attichy|49.411|3.049|FR|Hauts-de-France|66
+Bazancourt|49.366|4.171|FR|Grand Est|66
+Gometz-le-Châtel|48.678|2.138|FR|Île-de-France|66
+Varennes-sur-Loire|47.239|0.053|FR|Pays de la Loire|66
+Les Martres-d'Artière|45.833|3.267|FR|Auvergne-Rhône-Alpes|66
+Marmagne|47.100|2.283|FR|Centre-Val de Loire|66
+Bouray-sur-Juine|48.520|2.300|FR|Île-de-France|66
+Nesles-la-Vallée|49.132|2.171|FR|Île-de-France|66
+Les Hautes-Rivières|49.886|4.842|FR|Grand Est|66
+Chanteloup-en-Brie|48.855|2.739|FR|Île-de-France|66
+Amilly|48.443|1.393|FR|Centre-Val de Loire|66
+Châtillon-Coligny|47.823|2.846|FR|Centre-Val de Loire|66
+Châteauneuf-de-Galaure|45.230|4.958|FR|Auvergne-Rhône-Alpes|66
+Hardricourt|49.008|1.894|FR|Île-de-France|66
+Sainte-Colombe|45.525|4.867|FR|Auvergne-Rhône-Alpes|66
+La Queue-les-Yvelines|48.800|1.767|FR|Île-de-France|66
+Saint-Éloi|46.973|3.222|FR|Bourgogne-Franche-Comté|66
+Seine-Port|48.557|2.553|FR|Île-de-France|66
+Magenta|49.049|3.969|FR|Grand Est|66
+Pommiers|45.955|4.693|FR|Auvergne-Rhône-Alpes|66
+Saint-Sulpice-le-Guérétois|46.200|1.829|FR|New Aquitaine|66
+Bullion|48.623|1.990|FR|Île-de-France|66
+Étang-sur-Arroux|46.866|4.190|FR|Bourgogne-Franche-Comté|66
+Jonchery-sur-Vesle|49.290|3.813|FR|Grand Est|66
+Bonneuil-Matours|46.682|0.570|FR|New Aquitaine|66
+Les Côtes-d'Arey|45.456|4.867|FR|Auvergne-Rhône-Alpes|66
+Marcigny|46.276|4.040|FR|Bourgogne-Franche-Comté|66
+Venoy|47.805|3.637|FR|Bourgogne-Franche-Comté|66
+Les Aix-d'Angillon|47.197|2.565|FR|Centre-Val de Loire|66
+Sarras|45.187|4.800|FR|Auvergne-Rhône-Alpes|66
+Anizy-le-Château|49.507|3.451|FR|Hauts-de-France|66
+Lombron|48.078|0.418|FR|Pays de la Loire|66
+La Mailleraye-sur-Seine|49.483|0.770|FR|Normandy|66
+Vignoux-sur-Barangeon|47.201|2.173|FR|Centre-Val de Loire|66
+Mettray|47.453|0.649|FR|Centre-Val de Loire|66
+Naveil|47.796|1.032|FR|Centre-Val de Loire|66
+Maincy|48.550|2.700|FR|Île-de-France|66
+Bully|45.851|4.583|FR|Auvergne-Rhône-Alpes|66
+Le Pêchereau|46.577|1.547|FR|Centre-Val de Loire|66
+Rivières|45.753|0.361|FR|New Aquitaine|66
+Saint-Julien-Chapteuil|45.035|4.061|FR|Auvergne-Rhône-Alpes|66
+Saint-Laurent-de-Chamousset|45.738|4.464|FR|Auvergne-Rhône-Alpes|66
+Fleurines|49.259|2.584|FR|Hauts-de-France|66
+Le Lardin-Saint-Lazare|45.133|1.217|FR|New Aquitaine|66
+Veyrac|45.897|1.106|FR|New Aquitaine|66
+Presles-en-Brie|48.715|2.741|FR|Île-de-France|66
+Saint-Maurice-de-Lignon|45.224|4.139|FR|Auvergne-Rhône-Alpes|66
+Arlanc|45.414|3.725|FR|Auvergne-Rhône-Alpes|66
+Ully-Saint-Georges|49.279|2.281|FR|Hauts-de-France|66
+Mézy-sur-Seine|49.000|1.883|FR|Île-de-France|66
+Chabanais|45.876|0.720|FR|New Aquitaine|66
+Mirefleurs|45.693|3.224|FR|Auvergne-Rhône-Alpes|66
+Avoine|47.205|0.183|FR|Centre-Val de Loire|66
+Conches-sur-Gondoire|48.856|2.718|FR|Île-de-France|66
+Noisy-sur-École|48.367|2.508|FR|Île-de-France|66
+Saint-Erme-Outre-et-Ramecourt|49.515|3.841|FR|Hauts-de-France|66
+Jouy|48.510|1.545|FR|Centre-Val de Loire|66
+Lagny-le-Sec|49.087|2.745|FR|Hauts-de-France|65
+Mareil-sur-Mauldre|48.895|1.869|FR|Île-de-France|65
+Corbigny|47.257|3.683|FR|Bourgogne-Franche-Comté|65
+Bennecourt|49.041|1.555|FR|Île-de-France|65
+Bassillac|45.191|0.813|FR|New Aquitaine|65
+Le Thuit-Signol|49.265|0.939|FR|Normandy|65
+Nohanent|45.808|3.055|FR|Auvergne-Rhône-Alpes|65
+Châlus|45.655|0.980|FR|New Aquitaine|65
+Saâcy-sur-Marne|48.962|3.211|FR|Île-de-France|65
+Sourcieux-les-Mines|45.806|4.623|FR|Auvergne-Rhône-Alpes|65
+Perriers-sur-Andelle|49.415|1.371|FR|Normandy|65
+Fareins|46.019|4.761|FR|Auvergne-Rhône-Alpes|65
+Longueville|48.515|3.247|FR|Île-de-France|65
+Urzy|47.049|3.203|FR|Bourgogne-Franche-Comté|65
+Le Meux|49.367|2.744|FR|Hauts-de-France|65
+Les Grandes-Ventes|49.785|1.229|FR|Normandy|65
+Sainte-Colombe|48.530|3.255|FR|Île-de-France|65
+Dizy|49.067|3.967|FR|Grand Est|65
+Artenay|48.082|1.881|FR|Centre-Val de Loire|65
+Neuvy|46.562|3.290|FR|Auvergne-Rhône-Alpes|65
+Chavenay|48.854|1.992|FR|Île-de-France|65
+Avize|48.974|4.014|FR|Grand Est|65
+Henrichemont|47.303|2.525|FR|Centre-Val de Loire|65
+Saint-Georges-du-Bois|47.973|0.100|FR|Pays de la Loire|65
+Cherisy|48.750|1.433|FR|Centre-Val de Loire|65
+Rouxmesnil-Bouteilles|49.906|1.080|FR|Normandy|65
+Sancé|46.339|4.830|FR|Bourgogne-Franche-Comté|65
+Cernay-la-Ville|48.673|1.974|FR|Île-de-France|65
+Harly|49.838|3.310|FR|Hauts-de-France|65
+Sancerre|47.329|2.834|FR|Centre-Val de Loire|65
+Limetz-Villez|49.067|1.550|FR|Île-de-France|65
+Neuillé-Pont-Pierre|47.548|0.550|FR|Centre-Val de Loire|65
+Pleaux|45.135|2.227|FR|Auvergne-Rhône-Alpes|65
+Rubelles|48.553|2.676|FR|Île-de-France|65
+Cenon-sur-Vienne|46.774|0.537|FR|New Aquitaine|65
+Massiac|45.251|3.197|FR|Auvergne-Rhône-Alpes|65
+Saint-Gervais-en-Belin|47.878|0.218|FR|Pays de la Loire|65
+Attainville|49.058|2.345|FR|Île-de-France|65
+Saint-Germer-de-Fly|49.443|1.780|FR|Hauts-de-France|65
+Saint-Étienne-des-Oullières|46.067|4.649|FR|Auvergne-Rhône-Alpes|65
+Saclas|48.358|2.123|FR|Île-de-France|65
+Arrou|48.098|1.129|FR|Centre-Val de Loire|65
+Saint-Germain-de-la-Grange|48.834|1.899|FR|Île-de-France|65
+Auffay|49.719|1.099|FR|Normandy|65
+Brain-sur-Allonnes|47.303|0.066|FR|Pays de la Loire|65
+Lévis-Saint-Nom|48.717|1.950|FR|Île-de-France|65
+Darvoy|47.858|2.100|FR|Centre-Val de Loire|65
+Garennes-sur-Eure|48.911|1.438|FR|Normandy|65
+Beaulieu-lès-Loches|47.125|1.016|FR|Centre-Val de Loire|65
+Vic-sur-Aisne|49.406|3.112|FR|Hauts-de-France|65
+Saint-Pal-de-Mons|45.246|4.274|FR|Auvergne-Rhône-Alpes|65
+Sault-lès-Rethel|49.500|4.362|FR|Grand Est|65
+Saint-Germain-du-Plain|46.699|4.985|FR|Bourgogne-Franche-Comté|65
+Les Ancizes|45.925|2.813|FR|Auvergne-Rhône-Alpes|65
+Vitry-aux-Loges|47.933|2.267|FR|Centre-Val de Loire|65
+Villers-Écalles|49.541|0.919|FR|Normandy|65
+Orléat|45.861|3.421|FR|Auvergne-Rhône-Alpes|65
+Saint-Germain-des-Prés|47.954|2.848|FR|Centre-Val de Loire|65
+Héry|47.901|3.629|FR|Bourgogne-Franche-Comté|65
+Chilleurs-aux-Bois|48.072|2.135|FR|Centre-Val de Loire|65
+Ferrières-en-Brie|48.824|2.707|FR|Île-de-France|65
+Mercurol-Veaunes|45.074|4.893|FR|Auvergne-Rhône-Alpes|65
+Sainte-Fortunade|45.207|1.771|FR|New Aquitaine|65
+Truyes|47.273|0.852|FR|Centre-Val de Loire|65
+Abondant|48.786|1.440|FR|Centre-Val de Loire|65
+Charmes|49.653|3.379|FR|Hauts-de-France|65
+Fontenay-en-Parisis|49.054|2.452|FR|Île-de-France|65
+Baillet-en-France|49.062|2.299|FR|Île-de-France|65
+Saint-Rémy-sur-Durolle|45.888|3.593|FR|Auvergne-Rhône-Alpes|65
+Bellême|48.373|0.570|FR|Normandy|65
+Baule|47.811|1.673|FR|Centre-Val de Loire|65
+Guiscard|49.657|3.051|FR|Hauts-de-France|65
+Saint-Ouen-de-Thouberville|49.357|0.888|FR|Normandy|65
+Bacqueville-en-Caux|49.788|0.999|FR|Normandy|65
+Chouzy-sur-Cisse|47.526|1.247|FR|Centre-Val de Loire|65
+Saint-Cyr-sur-Morin|48.907|3.180|FR|Île-de-France|65
+Saint-Laurent-sur-Saône|46.305|4.841|FR|Auvergne-Rhône-Alpes|65
+Fontenay-lès-Briis|48.620|2.153|FR|Île-de-France|65
+Charny|47.887|3.096|FR|Bourgogne-Franche-Comté|65
+Sainte-Consorce|45.776|4.690|FR|Auvergne-Rhône-Alpes|65
+Bû|48.797|1.497|FR|Centre-Val de Loire|65
+Rai|48.751|0.582|FR|Normandy|65
+Méré|48.784|1.812|FR|Île-de-France|65
+Saint-Satur|47.339|2.837|FR|Centre-Val de Loire|65
+Mont-Dore|45.576|2.809|FR|Auvergne-Rhône-Alpes|65
+Morancé|45.898|4.701|FR|Auvergne-Rhône-Alpes|65
+Sathonay-Village|45.833|4.878|FR|Auvergne-Rhône-Alpes|65
+Grièges|46.256|4.849|FR|Auvergne-Rhône-Alpes|65
+Peaugres|45.287|4.728|FR|Auvergne-Rhône-Alpes|65
+Saint-Amant-Tallende|45.669|3.108|FR|Auvergne-Rhône-Alpes|65
+Origny-Sainte-Benoite|49.833|3.500|FR|Hauts-de-France|65
+Vernosc-lès-Annonay|45.216|4.713|FR|Auvergne-Rhône-Alpes|65
+Frignicourt|48.700|4.592|FR|Grand Est|65
+Yèvres|48.211|1.187|FR|Centre-Val de Loire|65
+Vergongheon|45.371|3.320|FR|Auvergne-Rhône-Alpes|65
+Ladoix-Serrigny|47.067|4.883|FR|Bourgogne-Franche-Comté|65
+Saint-Joseph|45.558|4.621|FR|Auvergne-Rhône-Alpes|65
+Tracy-le-Mont|49.472|3.009|FR|Hauts-de-France|65
+Voulx|48.282|2.967|FR|Île-de-France|65
+Chauconin-Neufmontiers|48.967|2.850|FR|Île-de-France|65
+Saint-Désir|49.141|0.214|FR|Normandy|65
+Ambierle|46.106|3.893|FR|Auvergne-Rhône-Alpes|65
+Neuilly-sous-Clermont|49.344|2.410|FR|Hauts-de-France|65
+Villeneuve-le-Comte|48.814|2.830|FR|Île-de-France|65
+Chevrières|49.346|2.682|FR|Hauts-de-France|65
+Saint-Sauveur|49.319|2.783|FR|Hauts-de-France|65
+Brezolles|48.690|1.074|FR|Centre-Val de Loire|65
+Mareuil-lès-Meaux|48.926|2.861|FR|Île-de-France|65
+Villevaudé|48.918|2.652|FR|Île-de-France|65
+Manziat|46.361|4.906|FR|Auvergne-Rhône-Alpes|65
+Ménétrol|45.872|3.124|FR|Auvergne-Rhône-Alpes|65
+Amblainville|49.204|2.122|FR|Hauts-de-France|65
+Janville|48.203|1.880|FR|Centre-Val de Loire|65
+Montierchaume|46.864|1.772|FR|Centre-Val de Loire|65
+Les Molières|48.673|2.070|FR|Île-de-France|65
+Verrières|48.233|4.149|FR|Grand Est|65
+L'Île-Bouchard|47.117|0.417|FR|Centre-Val de Loire|65
+Vallon-en-Sully|46.536|2.608|FR|Auvergne-Rhône-Alpes|65
+Pouilly-sur-Loire|47.284|2.954|FR|Bourgogne-Franche-Comté|65
+Saint-Sernin-du-Bois|46.841|4.433|FR|Bourgogne-Franche-Comté|65
+Jumièges|49.433|0.819|FR|Normandy|65
+Le Vigen|45.752|1.289|FR|New Aquitaine|65
+Villié-Morgon|46.162|4.681|FR|Auvergne-Rhône-Alpes|65
+Noirétable|45.817|3.762|FR|Auvergne-Rhône-Alpes|65
+Yvré-le-Pôlin|47.820|0.153|FR|Pays de la Loire|65
+Estissac|48.269|3.805|FR|Grand Est|65
+Huisseau-sur-Mauves|47.893|1.703|FR|Centre-Val de Loire|65
+Seilhac|45.367|1.714|FR|New Aquitaine|65
+Romanèche-Thorins|46.184|4.742|FR|Bourgogne-Franche-Comté|65
+Sainte-Jamme-sur-Sarthe|48.142|0.167|FR|Pays de la Loire|65
+Villejust|48.683|2.236|FR|Île-de-France|65
+Crépy|49.600|3.517|FR|Hauts-de-France|65
+Saint-Léonard|49.743|0.359|FR|Normandy|65
+Bréval|48.945|1.533|FR|Île-de-France|65
+Perrecy-les-Forges|46.615|4.214|FR|Bourgogne-Franche-Comté|65
+Pussay|48.349|1.992|FR|Île-de-France|65
+Reventin-Vaugris|45.466|4.842|FR|Auvergne-Rhône-Alpes|65
+Saint-Barthélemy-de-Vals|45.169|4.872|FR|Auvergne-Rhône-Alpes|65
+Conty|49.741|2.151|FR|Hauts-de-France|65
+Pinon|49.489|3.447|FR|Hauts-de-France|65
+Prissé|46.321|4.745|FR|Bourgogne-Franche-Comté|65
+Aiglemont|49.780|4.765|FR|Grand Est|65
+Pont-Salomon|45.338|4.248|FR|Auvergne-Rhône-Alpes|65
+Vaas|47.669|0.312|FR|Pays de la Loire|65
+Véron|48.129|3.308|FR|Bourgogne-Franche-Comté|65
+Gurgy|47.867|3.563|FR|Bourgogne-Franche-Comté|65
+Chars|49.160|1.937|FR|Île-de-France|65
+Aydat|45.660|2.973|FR|Auvergne-Rhône-Alpes|65
+Montcornet|49.695|4.017|FR|Hauts-de-France|65
+Oradour-sur-Vayres|45.732|0.867|FR|New Aquitaine|65
+Luçay-le-Mâle|47.130|1.442|FR|Centre-Val de Loire|65
+Briennon|46.151|4.077|FR|Auvergne-Rhône-Alpes|65
+Montgivray|46.603|1.982|FR|Centre-Val de Loire|65
+Menetou-Salon|47.232|2.487|FR|Centre-Val de Loire|65
+Saint-Germain-Lembron|45.458|3.240|FR|Auvergne-Rhône-Alpes|65
+Bellegarde|47.983|2.433|FR|Centre-Val de Loire|65
+Sillery|49.198|4.132|FR|Grand Est|65
+Montmarault|46.317|2.955|FR|Auvergne-Rhône-Alpes|65
+Saint-Didier-de-Formans|45.960|4.784|FR|Auvergne-Rhône-Alpes|65
+Mondoubleau|47.981|0.898|FR|Centre-Val de Loire|65
+Pont-de-Veyle|46.262|4.886|FR|Auvergne-Rhône-Alpes|65
+Saint-Uze|45.184|4.860|FR|Auvergne-Rhône-Alpes|65
+Nantiat|46.009|1.173|FR|New Aquitaine|65
+Sablons|45.321|4.774|FR|Auvergne-Rhône-Alpes|65
+Aigurande|46.434|1.830|FR|Centre-Val de Loire|65
+Châteauvillain|48.037|4.918|FR|Grand Est|65
+Donzy|47.371|3.125|FR|Bourgogne-Franche-Comté|65
+Morancez|48.401|1.494|FR|Centre-Val de Loire|65
+Écuisses|46.756|4.538|FR|Bourgogne-Franche-Comté|65
+Saint-Trivier-sur-Moignans|46.072|4.897|FR|Auvergne-Rhône-Alpes|65
+Couvron-et-Aumencourt|49.645|3.519|FR|Hauts-de-France|65
+Pont-de-Metz|49.878|2.243|FR|Hauts-de-France|65
+Crouy-sur-Ourcq|49.090|3.075|FR|Île-de-France|65
+Sermaises|48.297|2.205|FR|Centre-Val de Loire|65
+Lantriac|45.001|4.004|FR|Auvergne-Rhône-Alpes|65
+Saint-Marcel|46.602|1.513|FR|Centre-Val de Loire|64
+Rieux|49.300|2.517|FR|Hauts-de-France|64
+Biard|46.577|0.306|FR|New Aquitaine|64
+Challuy|46.950|3.148|FR|Bourgogne-Franche-Comté|64
+Saint-Fargeau|47.641|3.071|FR|Bourgogne-Franche-Comté|64
+Préaux|49.491|1.216|FR|Normandy|64
+Saint-Bonnet-près-Riom|45.930|3.113|FR|Auvergne-Rhône-Alpes|64
+Villiers-sur-Morin|48.861|2.878|FR|Île-de-France|64
+Châteauneuf-la-Forêt|45.713|1.605|FR|New Aquitaine|64
+Courmelles|49.346|3.312|FR|Hauts-de-France|64
+Pollionnay|45.765|4.661|FR|Auvergne-Rhône-Alpes|64
+Plaimpied-Givaudins|46.998|2.454|FR|Centre-Val de Loire|64
+Saint-Sorlin-en-Valloire|45.288|4.949|FR|Auvergne-Rhône-Alpes|64
+Maffliers|49.078|2.308|FR|Île-de-France|64
+Tourouvre|48.590|0.653|FR|Normandy|64
+La Rivière-Saint-Sauveur|49.408|0.270|FR|Normandy|64
+Tramoyes|45.876|4.965|FR|Auvergne-Rhône-Alpes|64
+Plailly|49.103|2.585|FR|Hauts-de-France|64
+Étretat|49.707|0.205|FR|Normandy|64
+Mansle|45.876|0.178|FR|New Aquitaine|64
+Pouilly-les-Nonains|46.045|3.982|FR|Auvergne-Rhône-Alpes|64
+Meursault|46.978|4.770|FR|Bourgogne-Franche-Comté|64
+Toulon-sur-Arroux|46.693|4.139|FR|Bourgogne-Franche-Comté|64
+Thiberville|49.138|0.455|FR|Normandy|64
+Saint-Paterne|48.417|0.111|FR|Pays de la Loire|64
+Cuffies|49.404|3.321|FR|Hauts-de-France|64
+Sainte-Maure|48.347|4.060|FR|Grand Est|64
+Étreux|49.983|3.650|FR|Hauts-de-France|64
+Régny|45.991|4.217|FR|Auvergne-Rhône-Alpes|64
+Vienne-en-Val|47.800|2.135|FR|Centre-Val de Loire|64
+Sauzé-Vaussais|46.134|0.107|FR|New Aquitaine|64
+Esternay|48.732|3.562|FR|Grand Est|64
+Cuisery|46.557|4.998|FR|Bourgogne-Franche-Comté|64
+Feuquières|49.647|1.848|FR|Hauts-de-France|64
+Lignières|46.752|2.174|FR|Centre-Val de Loire|64
+Saint-Claude-de-Diray|47.617|1.418|FR|Centre-Val de Loire|64
+Beaumont|46.737|0.430|FR|New Aquitaine|64
+Besse-et-Saint-Anastaise|45.517|2.933|FR|Auvergne-Rhône-Alpes|64
+Sainte-Féréole|45.229|1.582|FR|New Aquitaine|64
+Villeblevin|48.324|3.080|FR|Bourgogne-Franche-Comté|64
+Ouzouer-le-Marché|47.911|1.526|FR|Centre-Val de Loire|64
+Vars|45.762|0.124|FR|New Aquitaine|64
+La Chartre-sur-le-Loir|47.729|0.574|FR|Pays de la Loire|64
+Saint-Nizier-sous-Charlieu|46.153|4.124|FR|Auvergne-Rhône-Alpes|64
+Longny-au-Perche|48.530|0.752|FR|Normandy|64
+Saint-Bonnet-le-Château|45.424|4.067|FR|Auvergne-Rhône-Alpes|64
+Barbizon|48.443|2.603|FR|Île-de-France|64
+Belloy-en-France|49.088|2.372|FR|Île-de-France|64
+Crottet|46.276|4.894|FR|Auvergne-Rhône-Alpes|64
+Aube-sur-Rîle|48.739|0.552|FR|Normandy|64
+Châteauneuf-sur-Cher|46.858|2.317|FR|Centre-Val de Loire|64
+Niherne|46.828|1.564|FR|Centre-Val de Loire|64
+Saint-Denis-les-Ponts|48.067|1.298|FR|Centre-Val de Loire|64
+Neuvy-Saint-Sépulchre|46.598|1.806|FR|Centre-Val de Loire|64
+Sonchamp|48.576|1.878|FR|Île-de-France|64
+Cinqueux|49.317|2.530|FR|Hauts-de-France|64
+Balan|49.689|4.965|FR|Grand Est|64
+Brette-les-Pins|47.912|0.336|FR|Pays de la Loire|64
+Ozouer-le-Voulgis|48.660|2.774|FR|Île-de-France|64
+Saint-Germain-Village|49.349|0.503|FR|Normandy|64
+Saint-Jouin-Bruneval|49.643|0.164|FR|Normandy|64
+Château-la-Vallière|47.547|0.325|FR|Centre-Val de Loire|64
+Milly-sur-Thérain|49.502|1.996|FR|Hauts-de-France|64
+Nérondes|46.998|2.818|FR|Centre-Val de Loire|64
+Lachapelle-aux-Pots|49.449|1.902|FR|Hauts-de-France|64
+Vergt|45.027|0.718|FR|New Aquitaine|64
+Luché-Pringé|47.703|0.075|FR|Pays de la Loire|64
+Bazemont|48.927|1.867|FR|Île-de-France|64
+Saint-Germain-Laval|45.832|4.014|FR|Auvergne-Rhône-Alpes|64
+Seignelay|47.905|3.601|FR|Bourgogne-Franche-Comté|64
+Malay-le-Grand|48.176|3.342|FR|Bourgogne-Franche-Comté|64
+Séreilhac|45.769|1.082|FR|New Aquitaine|64
+Arnières-sur-Iton|48.997|1.104|FR|Normandy|64
+Cormery|47.268|0.836|FR|Centre-Val de Loire|64
+Pontlevoy|47.390|1.255|FR|Centre-Val de Loire|64
+Saint-Valérien|48.178|3.095|FR|Bourgogne-Franche-Comté|64
+Chameyrat|45.234|1.698|FR|New Aquitaine|64
+Roches-Prémarie-Andillé|46.485|0.370|FR|New Aquitaine|64
+Angicourt|49.312|2.504|FR|Hauts-de-France|64
+Courcelles-sur-Seine|49.183|1.360|FR|Normandy|64
+Satillieu|45.150|4.614|FR|Auvergne-Rhône-Alpes|64
+Cérilly|46.618|2.821|FR|Auvergne-Rhône-Alpes|64
+Marnes-la-Coquette|48.827|2.172|FR|Île-de-France|64
+Sermoise-sur-Loire|46.950|3.183|FR|Bourgogne-Franche-Comté|64
+Diou|46.534|3.745|FR|Auvergne-Rhône-Alpes|64
+Champs-sur-Yonne|47.733|3.600|FR|Bourgogne-Franche-Comté|64
+Évaux-les-Bains|46.175|2.485|FR|New Aquitaine|64
+Saint-Médard-de-Mussidan|45.044|0.346|FR|New Aquitaine|64
+Civray-de-Touraine|47.333|1.050|FR|Centre-Val de Loire|64
+La Houssaye-en-Brie|48.754|2.866|FR|Île-de-France|64
+Atur|45.141|0.747|FR|New Aquitaine|64
+Saint-Paterne-Racan|47.602|0.485|FR|Centre-Val de Loire|64
+La Francheville|49.729|4.713|FR|Grand Est|64
+Villemeux-sur-Eure|48.673|1.465|FR|Centre-Val de Loire|64
+Marigné-Laillé|47.819|0.340|FR|Pays de la Loire|64
+Ahun|46.086|2.045|FR|New Aquitaine|64
+Velars-sur-Ouche|47.320|4.906|FR|Bourgogne-Franche-Comté|64
+Gouaix|48.485|3.293|FR|Île-de-France|64
+Beaulon|46.602|3.673|FR|Auvergne-Rhône-Alpes|64
+Crécy-sur-Serre|49.696|3.625|FR|Hauts-de-France|64
+Gidy|47.985|1.838|FR|Centre-Val de Loire|64
+Moulins-Engilbert|46.988|3.811|FR|Bourgogne-Franche-Comté|64
+Agonac|45.293|0.750|FR|New Aquitaine|64
+Corbreuse|48.501|1.959|FR|Île-de-France|64
+Vougy|46.104|4.118|FR|Auvergne-Rhône-Alpes|64
+Bonnes|46.605|0.595|FR|New Aquitaine|64
+Vergigny|47.971|3.719|FR|Bourgogne-Franche-Comté|64
+Charbuy|47.823|3.466|FR|Bourgogne-Franche-Comté|64
+Larajasse|45.614|4.501|FR|Auvergne-Rhône-Alpes|64
+Tuffé|48.113|0.514|FR|Pays de la Loire|64
+Bagneaux-sur-Loing|48.233|2.707|FR|Île-de-France|64
+Le Plessis-Brion|49.464|2.891|FR|Hauts-de-France|64
+Ressons-sur-Matz|49.539|2.744|FR|Hauts-de-France|64
+Mours|49.131|2.268|FR|Île-de-France|64
+Marennes|45.621|4.912|FR|Auvergne-Rhône-Alpes|64
+Sainte-Marie-des-Champs|49.621|0.779|FR|Normandy|64
+Thorigné-sur-Dué|48.039|0.536|FR|Pays de la Loire|64
+Mezel|45.755|3.242|FR|Auvergne-Rhône-Alpes|64
+Saint-Sulpice-sur-Risle|48.781|0.657|FR|Normandy|64
+Bruyères-et-Montbérault|49.525|3.664|FR|Hauts-de-France|64
+Montcy-Notre-Dame|49.775|4.742|FR|Grand Est|64
+Graçay|47.144|1.847|FR|Centre-Val de Loire|64
+Crespières|48.883|1.922|FR|Île-de-France|64
+Marigny-le-Châtel|48.403|3.736|FR|Grand Est|64
+Sainte-Marguerite-sur-Duclair|49.509|0.844|FR|Normandy|64
+La Roche-Posay|46.786|0.812|FR|New Aquitaine|64
+Demigny|46.930|4.834|FR|Bourgogne-Franche-Comté|64
+Creney-près-Troyes|48.333|4.133|FR|Grand Est|64
+Valframbert|48.465|0.108|FR|Normandy|64
+Yzeures-sur-Creuse|46.786|0.872|FR|Centre-Val de Loire|64
+Igoville|49.320|1.148|FR|Normandy|64
+Maizières-la-Grande-Paroisse|48.510|3.786|FR|Grand Est|64
+Garat|45.626|0.263|FR|New Aquitaine|64
+Rully|46.875|4.743|FR|Bourgogne-Franche-Comté|64
+Lunery|46.936|2.269|FR|Centre-Val de Loire|64
+Saint-Romain-en-Gal|45.533|4.862|FR|Auvergne-Rhône-Alpes|64
+Laguenne|45.242|1.781|FR|New Aquitaine|64
+Saint-Augustin|48.783|3.030|FR|Île-de-France|64
+Vineuil-Saint-Firmin|49.200|2.496|FR|Hauts-de-France|64
+Acquigny|49.173|1.177|FR|Normandy|64
+Châteaufort|48.736|2.091|FR|Île-de-France|64
+Cheptainville|48.551|2.277|FR|Île-de-France|64
+Montescourt-Lizerolles|49.738|3.257|FR|Hauts-de-France|64
+Saint-Victurnien|45.878|1.013|FR|New Aquitaine|64
+Tricot|49.561|2.588|FR|Hauts-de-France|64
+Saint-Sauveur|49.938|2.212|FR|Hauts-de-France|64
+Cublac|45.145|1.306|FR|New Aquitaine|64
+Les Loges-en-Josas|48.764|2.140|FR|Île-de-France|64
+Saint-Martin-de-Boscherville|49.444|0.963|FR|Normandy|64
+Trie-Château|49.285|1.821|FR|Hauts-de-France|64
+Châtillon-sur-Cher|47.276|1.494|FR|Centre-Val de Loire|64
+Grandfresnoy|49.372|2.652|FR|Hauts-de-France|64
+Guermantes|48.853|2.705|FR|Île-de-France|64
+Les Ormes|46.972|0.606|FR|New Aquitaine|64
+Mardeuil|49.054|3.930|FR|Grand Est|64
+Hurigny|46.347|4.797|FR|Bourgogne-Franche-Comté|64
+Saint-Gence|45.922|1.138|FR|New Aquitaine|64
+Aillant-sur-Tholon|47.874|3.350|FR|Bourgogne-Franche-Comté|64
+Liesse-Notre-Dame|49.617|3.800|FR|Hauts-de-France|64
+Saint-Laurent-de-Brévedent|49.526|0.255|FR|Normandy|64
+Saint-Martin-du-Vivier|49.467|1.167|FR|Normandy|64
+Ambérieux-en-Dombes|45.999|4.901|FR|Auvergne-Rhône-Alpes|64
+Flavy-le-Martel|49.713|3.192|FR|Hauts-de-France|64
+Fontenay-sur-Loing|48.104|2.775|FR|Centre-Val de Loire|64
+La Chapelle-sur-Loire|47.251|0.219|FR|Centre-Val de Loire|64
+Belmont-de-la-Loire|46.166|4.347|FR|Auvergne-Rhône-Alpes|64
+Sauvigny-les-Bois|46.967|3.272|FR|Bourgogne-Franche-Comté|64
+Tocane-Saint-Apre|45.254|0.494|FR|New Aquitaine|64
+Genillé|47.183|1.100|FR|Centre-Val de Loire|64
+Sorel-Moussel|48.834|1.367|FR|Centre-Val de Loire|64
+Jouy-le-Châtel|48.667|3.130|FR|Île-de-France|64
+Sourdun|48.537|3.352|FR|Île-de-France|64
+Palinges|46.554|4.220|FR|Bourgogne-Franche-Comté|64
+Marolles-sur-Seine|48.387|3.036|FR|Île-de-France|64
+Outarville|48.214|2.022|FR|Centre-Val de Loire|64
+Saint-Priest-sous-Aixe|45.817|1.100|FR|New Aquitaine|64
+Vorey|45.186|3.910|FR|Auvergne-Rhône-Alpes|64
+La Haye-Malherbe|49.226|1.068|FR|Normandy|64
+Jouet-sur-l'Aubois|47.046|2.987|FR|Centre-Val de Loire|64
+Longueil-Sainte-Marie|49.357|2.718|FR|Hauts-de-France|64
+Pocé-sur-Cisse|47.443|0.991|FR|Centre-Val de Loire|64
+Cellieu|45.519|4.543|FR|Auvergne-Rhône-Alpes|64
+Champdieu|45.645|4.047|FR|Auvergne-Rhône-Alpes|64
+Le Val-Saint-Germain|48.566|2.065|FR|Île-de-France|64
+Saint-Laurent-sur-Gorre|45.770|0.958|FR|New Aquitaine|64
+Saint-Gervais-d'Auvergne|46.029|2.819|FR|Auvergne-Rhône-Alpes|64
+Beaurevoir|49.997|3.309|FR|Hauts-de-France|64
+Perrusson|47.099|1.014|FR|Centre-Val de Loire|64
+Chessy|45.887|4.623|FR|Auvergne-Rhône-Alpes|64
+Saint-Paul|49.430|2.008|FR|Hauts-de-France|64
+Bailleau-le-Pin|48.367|1.329|FR|Centre-Val de Loire|64
+Rouffignac-Saint-Cernin-de-Reilhac|45.050|0.967|FR|New Aquitaine|64
+Chaptelat|45.910|1.258|FR|New Aquitaine|64
+Vœuil-et-Giget|45.583|0.150|FR|New Aquitaine|64
+Avanton|46.663|0.303|FR|New Aquitaine|64
+Magny-Cours|46.883|3.150|FR|Bourgogne-Franche-Comté|64
+Bléneau|47.700|2.950|FR|Bourgogne-Franche-Comté|64
+Folembray|49.543|3.291|FR|Hauts-de-France|64
+Treignac|45.537|1.795|FR|New Aquitaine|64
+Les Montils|47.495|1.298|FR|Centre-Val de Loire|64
+Fontevraud-l'Abbaye|47.183|0.049|FR|Pays de la Loire|64
+Gaillefontaine|49.654|1.615|FR|Normandy|63
+Liergues|45.971|4.662|FR|Auvergne-Rhône-Alpes|63
+Dreuil-lès-Amiens|49.915|2.229|FR|Hauts-de-France|63
+Homblières|49.850|3.365|FR|Hauts-de-France|63
+Thoissey|46.172|4.803|FR|Auvergne-Rhône-Alpes|63
+Balagny-sur-Thérain|49.296|2.336|FR|Hauts-de-France|63
+Compreignac|45.992|1.275|FR|New Aquitaine|63
+Fontaine-le-Bourg|49.565|1.164|FR|Normandy|63
+Saint-Aubin-sur-Gaillon|49.147|1.329|FR|Normandy|63
+Saint-Aulaye|45.203|0.135|FR|New Aquitaine|63
+Saint-Martin-du-Tertre|48.217|3.262|FR|Bourgogne-Franche-Comté|63
+Mareuil-sur-Ourcq|49.138|3.078|FR|Hauts-de-France|63
+Bellegarde-en-Forez|45.645|4.297|FR|Auvergne-Rhône-Alpes|63
+Bailleval|49.346|2.457|FR|Hauts-de-France|63
+Hornoy-le-Bourg|49.850|1.900|FR|Hauts-de-France|63
+Neuville-sur-Oise|49.017|2.067|FR|Île-de-France|63
+Chanonat|45.693|3.094|FR|Auvergne-Rhône-Alpes|63
+Saint-Ouen-du-Tilleul|49.297|0.948|FR|Normandy|63
+Ercuis|49.235|2.304|FR|Hauts-de-France|63
+Reugny|47.482|0.885|FR|Centre-Val de Loire|63
+Chailly-en-Brie|48.790|3.125|FR|Île-de-France|63
+Saint-Rémy-en-Rollat|46.183|3.391|FR|Auvergne-Rhône-Alpes|63
+Nolay|46.952|4.634|FR|Bourgogne-Franche-Comté|63
+Bueil|48.932|1.443|FR|Normandy|63
+Montrottier|45.790|4.467|FR|Auvergne-Rhône-Alpes|63
+Randan|46.018|3.355|FR|Auvergne-Rhône-Alpes|63
+Épervans|46.752|4.899|FR|Bourgogne-Franche-Comté|63
+Saint-Épain|47.145|0.537|FR|Centre-Val de Loire|63
+Chevannes|48.533|2.444|FR|Île-de-France|63
+Condé-Sainte-Libiaire|48.897|2.839|FR|Île-de-France|63
+Doingt|49.921|2.968|FR|Hauts-de-France|63
+Corbeilles|48.072|2.550|FR|Centre-Val de Loire|63
+Lusigny|46.588|3.491|FR|Auvergne-Rhône-Alpes|63
+Marles-en-Brie|48.728|2.880|FR|Île-de-France|63
+Saint-Martin-Longueau|49.343|2.603|FR|Hauts-de-France|63
+Barjouville|48.410|1.476|FR|Centre-Val de Loire|63
+Varzy|47.358|3.386|FR|Bourgogne-Franche-Comté|63
+Châteauneuf|45.525|4.640|FR|Auvergne-Rhône-Alpes|63
+Venizel|49.366|3.393|FR|Hauts-de-France|63
+Larche|45.120|1.416|FR|New Aquitaine|63
+Nassandres|49.126|0.736|FR|Normandy|63
+Ménestreau-en-Villette|47.700|2.023|FR|Centre-Val de Loire|63
+Lusigny-sur-Barse|48.255|4.269|FR|Grand Est|63
+Sassenay|46.831|4.925|FR|Bourgogne-Franche-Comté|63
+Médan|48.955|1.995|FR|Île-de-France|63
+Chéroy|48.201|3.000|FR|Bourgogne-Franche-Comté|63
+Marlhes|45.283|4.396|FR|Auvergne-Rhône-Alpes|63
+Chaudon|48.663|1.497|FR|Centre-Val de Loire|63
+Saint-Martin-du-Manoir|49.532|0.238|FR|Normandy|63
+Auzouer-en-Touraine|47.542|0.921|FR|Centre-Val de Loire|63
+Coubert|48.672|2.697|FR|Île-de-France|63
+Monthyon|49.008|2.826|FR|Île-de-France|63
+Angervilliers|48.593|2.065|FR|Île-de-France|63
+Chauriat|45.751|3.279|FR|Auvergne-Rhône-Alpes|63
+Le Mayet-de-Montagne|46.071|3.667|FR|Auvergne-Rhône-Alpes|63
+Ménilles|49.033|1.367|FR|Normandy|63
+Villers-Bocage|49.998|2.317|FR|Hauts-de-France|63
+Huismes|47.233|0.251|FR|Centre-Val de Loire|63
+Origny-en-Thiérache|49.893|4.016|FR|Hauts-de-France|63
+Usson-du-Poitou|46.278|0.528|FR|New Aquitaine|63
+Lucenay|45.913|4.703|FR|Auvergne-Rhône-Alpes|63
+Baulne|48.493|2.362|FR|Île-de-France|63
+Courcy|49.324|4.003|FR|Grand Est|63
+Gueux|49.250|3.910|FR|Grand Est|63
+Saint-Viance|45.218|1.453|FR|New Aquitaine|63
+Latillé|46.619|0.075|FR|New Aquitaine|63
+Saint-Cyr-sur-Menthon|46.275|4.972|FR|Auvergne-Rhône-Alpes|63
+Angerville-l'Orcher|49.588|0.282|FR|Normandy|63
+Saint-Andéol-le-Château|45.586|4.695|FR|Auvergne-Rhône-Alpes|63
+Warcq|49.775|4.682|FR|Grand Est|63
+Lempdes-sur-Allagnon|45.383|3.283|FR|Auvergne-Rhône-Alpes|63
+Saint-Symphorien-de-Lay|45.948|4.213|FR|Auvergne-Rhône-Alpes|63
+Savigné|46.159|0.321|FR|New Aquitaine|63
+Cherré|48.173|0.658|FR|Pays de la Loire|63
+Lumigny-Nesles-Ormeaux|48.733|2.950|FR|Île-de-France|63
+Villiers-en-Lieu|48.668|4.898|FR|Grand Est|63
+Ballon|48.175|0.235|FR|Pays de la Loire|63
+Bosc-le-Hard|49.627|1.175|FR|Normandy|63
+Saint-Brice-sur-Vienne|45.880|0.954|FR|New Aquitaine|63
+Excideuil|45.337|1.049|FR|New Aquitaine|63
+Montmain|49.410|1.237|FR|Normandy|63
+Lanobre|45.439|2.534|FR|Auvergne-Rhône-Alpes|63
+Génelard|46.581|4.236|FR|Bourgogne-Franche-Comté|63
+Moislains|49.988|2.964|FR|Hauts-de-France|63
+Chazelles|45.647|0.367|FR|New Aquitaine|63
+Saint-Maurice-Montcouronne|48.583|2.125|FR|Île-de-France|63
+Pierry|49.020|3.941|FR|Grand Est|63
+Prix-lès-Mézières|49.755|4.691|FR|Grand Est|63
+Carlepont|49.514|3.023|FR|Hauts-de-France|63
+Mogneville|49.315|2.472|FR|Hauts-de-France|63
+Saint-Forgeux|45.859|4.475|FR|Auvergne-Rhône-Alpes|63
+Saint-Just-la-Pendue|45.894|4.241|FR|Auvergne-Rhône-Alpes|63
+Auzances|46.029|2.501|FR|New Aquitaine|63
+Longnes|48.920|1.587|FR|Île-de-France|63
+Trévol|46.629|3.306|FR|Auvergne-Rhône-Alpes|63
+Changy-les-Bois|47.858|2.685|FR|Centre-Val de Loire|63
+Suèvres|47.667|1.462|FR|Centre-Val de Loire|63
+Dammarie|48.343|1.494|FR|Centre-Val de Loire|63
+Menneval|49.100|0.617|FR|Normandy|63
+Eslettes|49.548|1.055|FR|Normandy|63
+Lormaison|49.256|2.106|FR|Hauts-de-France|63
+Paslières|45.929|3.497|FR|Auvergne-Rhône-Alpes|63
+Saint-Romain-la-Motte|46.081|3.991|FR|Auvergne-Rhône-Alpes|63
+Coursac|45.129|0.638|FR|New Aquitaine|63
+Laroche-Saint-Cydroine|47.968|3.485|FR|Bourgogne-Franche-Comté|63
+Marsac-en-Livradois|45.479|3.728|FR|Auvergne-Rhône-Alpes|63
+Pouilly-en-Auxois|47.262|4.556|FR|Bourgogne-Franche-Comté|63
+Bazoches-les-Gallerandes|48.165|2.043|FR|Centre-Val de Loire|63
+Renwez|49.838|4.603|FR|Grand Est|63
+Cagny|49.862|2.343|FR|Hauts-de-France|63
+Mortcerf|48.789|2.917|FR|Île-de-France|63
+Nanteuil-en-Vallée|46.001|0.322|FR|New Aquitaine|63
+Saint-Jouvent|45.957|1.205|FR|New Aquitaine|63
+Bussière-Galant|45.627|1.036|FR|New Aquitaine|63
+Saint-Ours|45.850|2.892|FR|Auvergne-Rhône-Alpes|63
+Coussac-Bonneval|45.511|1.324|FR|New Aquitaine|63
+Saint-Just-Sauvage|48.555|3.784|FR|Grand Est|63
+Boulleret|47.424|2.873|FR|Centre-Val de Loire|63
+Couches|46.867|4.567|FR|Bourgogne-Franche-Comté|63
+Enval|45.899|3.050|FR|Auvergne-Rhône-Alpes|63
+Cunlhat|45.632|3.559|FR|Auvergne-Rhône-Alpes|63
+Solignac|45.755|1.275|FR|New Aquitaine|63
+Berthecourt|49.351|2.225|FR|Hauts-de-France|63
+Soucy|48.250|3.324|FR|Bourgogne-Franche-Comté|63
+Bessay-sur-Allier|46.442|3.363|FR|Auvergne-Rhône-Alpes|63
+La Villedieu-du-Clain|46.455|0.370|FR|New Aquitaine|63
+Chandon|46.149|4.214|FR|Auvergne-Rhône-Alpes|63
+Charroux|46.144|0.403|FR|New Aquitaine|63
+Blonville-sur-Mer|49.337|0.027|FR|Normandy|63
+Saint-Pierre-du-Vauvray|49.232|1.221|FR|Normandy|63
+Aigné|48.067|0.119|FR|Pays de la Loire|63
+Beaucamps-le-Vieux|49.846|1.783|FR|Hauts-de-France|63
+Blavozy|45.057|3.980|FR|Auvergne-Rhône-Alpes|63
+Mansigné|47.748|0.135|FR|Pays de la Loire|63
+Gouzon|46.192|2.239|FR|New Aquitaine|63
+Saint-Jean-de-Sauves|46.841|0.092|FR|New Aquitaine|63
+Tigery|48.643|2.508|FR|Île-de-France|63
+Limésy|49.613|0.925|FR|Normandy|63
+Voulangis|48.853|2.896|FR|Île-de-France|63
+Jouy-le-Potier|47.746|1.811|FR|Centre-Val de Loire|63
+Rimogne|49.841|4.539|FR|Grand Est|63
+Cuzieu|45.608|4.258|FR|Auvergne-Rhône-Alpes|63
+Savigny-lès-Beaune|47.064|4.818|FR|Bourgogne-Franche-Comté|63
+Les Riceys|47.994|4.370|FR|Grand Est|63
+Picquigny|49.944|2.144|FR|Hauts-de-France|63
+Availles-Limouzine|46.121|0.655|FR|New Aquitaine|63
+Chappes|45.868|3.221|FR|Auvergne-Rhône-Alpes|63
+Pontfaverger-Moronvilliers|49.297|4.317|FR|Grand Est|63
+Saint-Amand-en-Puisaye|47.529|3.074|FR|Bourgogne-Franche-Comté|63
+Piégut-Pluviers|45.623|0.690|FR|New Aquitaine|63
+Saint-Léger-en-Yvelines|48.722|1.766|FR|Île-de-France|63
+Soisy-sur-École|48.476|2.493|FR|Île-de-France|63
+Saint-Christo-en-Jarez|45.545|4.488|FR|Auvergne-Rhône-Alpes|63
+Auberives-sur-Varèze|45.421|4.819|FR|Auvergne-Rhône-Alpes|63
+La Coquille|45.542|0.976|FR|New Aquitaine|63
+Cornil|45.211|1.692|FR|New Aquitaine|63
+La Roche-Vineuse|46.345|4.720|FR|Bourgogne-Franche-Comté|63
+Saint-Éloy-de-Gy|47.156|2.343|FR|Centre-Val de Loire|63
+Courpalay|48.649|2.961|FR|Île-de-France|63
+Lorrez-le-Bocage-Préaux|48.233|2.900|FR|Île-de-France|63
+Saint-Just|49.109|1.441|FR|Normandy|63
+Damery|49.072|3.880|FR|Grand Est|63
+Dirac|45.604|0.248|FR|New Aquitaine|63
+Lormes|47.290|3.817|FR|Bourgogne-Franche-Comté|63
+Béville-le-Comte|48.436|1.713|FR|Centre-Val de Loire|63
+Lentigny|45.994|3.979|FR|Auvergne-Rhône-Alpes|63
+Seraincourt|49.036|1.867|FR|Île-de-France|63
+Clonas-sur-Varèze|45.414|4.791|FR|Auvergne-Rhône-Alpes|63
+Nieul|45.927|1.175|FR|New Aquitaine|63
+Voutezac|45.292|1.437|FR|New Aquitaine|63
+Chambœuf|45.578|4.320|FR|Auvergne-Rhône-Alpes|63
+Saint-Étienne-de-Chigny|47.383|0.533|FR|Centre-Val de Loire|63
+Martin-Église|49.902|1.141|FR|Normandy|63
+Boussac|46.348|2.220|FR|New Aquitaine|63
+Méry-sur-Seine|48.509|3.891|FR|Grand Est|63
+Aunay-sous-Auneau|48.441|1.811|FR|Centre-Val de Loire|63
+Houlbec-Cocherel|49.074|1.366|FR|Normandy|63
+Manzat|45.962|2.941|FR|Auvergne-Rhône-Alpes|63
+Vennecy|47.955|2.055|FR|Centre-Val de Loire|63
+Villers-sur-Coudun|49.483|2.805|FR|Hauts-de-France|63
+Colombiers|46.772|0.425|FR|New Aquitaine|63
+Rosières|45.133|3.988|FR|Auvergne-Rhône-Alpes|63
+Sacy-le-Grand|49.355|2.545|FR|Hauts-de-France|63
+Buchères|48.235|4.113|FR|Grand Est|63
+Yébleron|49.633|0.537|FR|Normandy|63
+Poulainville|49.947|2.314|FR|Hauts-de-France|63
+Bonnac-la-Côte|45.941|1.285|FR|New Aquitaine|63
+Chantôme|46.411|1.556|FR|Centre-Val de Loire|63
+Hallencourt|49.992|1.876|FR|Hauts-de-France|63
+Neuvy-sur-Loire|47.523|2.883|FR|Bourgogne-Franche-Comté|63
+Oucques|47.823|1.294|FR|Centre-Val de Loire|63
+Ruillé-sur-Loir|47.751|0.621|FR|Pays de la Loire|63
+Bretoncelles|48.431|0.888|FR|Normandy|63
+Routot|49.378|0.733|FR|Normandy|63
+Boult-sur-Suippe|49.371|4.146|FR|Grand Est|63
+Saint-Sauvant|46.361|0.056|FR|New Aquitaine|63
+Violay|45.853|4.360|FR|Auvergne-Rhône-Alpes|63
+Ménesplet|45.017|0.107|FR|New Aquitaine|63
+Pourrain|47.756|3.412|FR|Bourgogne-Franche-Comté|63
+Éguzon-Chantôme|46.450|1.583|FR|Centre-Val de Loire|63
+Chézy-sur-Marne|48.989|3.368|FR|Hauts-de-France|63
+Fleurieu-sur-Saône|45.861|4.846|FR|Auvergne-Rhône-Alpes|63
+Bray-sur-Somme|49.941|2.718|FR|Hauts-de-France|63
+Cauville-sur-Mer|49.600|0.133|FR|Normandy|63
+Luray|48.720|1.399|FR|Centre-Val de Loire|63
+Ambillou|47.451|0.447|FR|Centre-Val de Loire|63
+Bouleurs|48.882|2.907|FR|Île-de-France|63
+La Chapelle-Gauthier|48.549|2.898|FR|Île-de-France|63
+Lathus-Saint-Rémy|46.334|0.958|FR|New Aquitaine|63
+Moigny-sur-École|48.433|2.458|FR|Île-de-France|63
+Soings-en-Sologne|47.413|1.525|FR|Centre-Val de Loire|63
+Solers|48.659|2.716|FR|Île-de-France|63
+Montcresson|47.906|2.808|FR|Centre-Val de Loire|63
+Denicé|46.002|4.646|FR|Auvergne-Rhône-Alpes|63
+Saint-Paul|45.398|4.226|FR|Auvergne-Rhône-Alpes|63
+Turretot|49.609|0.234|FR|Normandy|63
+Montigny-Lencoup|48.452|3.065|FR|Île-de-France|63
+Serpaize|45.558|4.918|FR|Auvergne-Rhône-Alpes|63
+Cheillé|47.261|0.406|FR|Centre-Val de Loire|63
+Pontvallain|47.751|0.192|FR|Pays de la Loire|63
+Virey-le-Grand|46.833|4.867|FR|Bourgogne-Franche-Comté|63
+Annesse-et-Beaulieu|45.164|0.572|FR|New Aquitaine|63
+Holnon|49.861|3.215|FR|Hauts-de-France|63
+Grez-sur-Loing|48.318|2.688|FR|Île-de-France|63
+Massay|47.153|1.993|FR|Centre-Val de Loire|63
+Saint-Just-en-Chevalet|45.915|3.842|FR|Auvergne-Rhône-Alpes|63
+Theillay|47.314|2.040|FR|Centre-Val de Loire|63
+Trun|48.843|0.033|FR|Normandy|63
+Jumilhac-le-Grand|45.495|1.064|FR|New Aquitaine|63
+Les Alluets-le-Roi|48.914|1.918|FR|Île-de-France|63
+Lunay|47.809|0.915|FR|Centre-Val de Loire|63
+Marmagne|46.837|4.359|FR|Bourgogne-Franche-Comté|63
+Saint-Jean-les-Deux-Jumeaux|48.951|3.020|FR|Île-de-France|63
+Écueillé|47.085|1.347|FR|Centre-Val de Loire|63
+Saint-Romain-sur-Cher|47.319|1.400|FR|Centre-Val de Loire|63
+Charbonnières-les-Varennes|45.908|3.000|FR|Auvergne-Rhône-Alpes|63
+Ons-en-Bray|49.416|1.923|FR|Hauts-de-France|63
+Ligny-le-Châtel|47.900|3.758|FR|Bourgogne-Franche-Comté|63
+Mansac|45.168|1.383|FR|New Aquitaine|63
+Quintenas|45.189|4.687|FR|Auvergne-Rhône-Alpes|63
+Civrieux|45.921|4.882|FR|Auvergne-Rhône-Alpes|63
+Mareuil-le-Port|49.082|3.760|FR|Grand Est|63
+Rozier-en-Donzy|45.801|4.277|FR|Auvergne-Rhône-Alpes|63
+Allonne|49.409|2.114|FR|Hauts-de-France|62
+Normanville|49.079|1.159|FR|Normandy|62
+Chamberet|45.583|1.720|FR|New Aquitaine|62
+Lapte|45.186|4.217|FR|Auvergne-Rhône-Alpes|62
+Saint-Pierre-des-Fleurs|49.250|0.967|FR|Normandy|62
+Croth|48.846|1.379|FR|Normandy|62
+Neuilly-le-Réal|46.464|3.432|FR|Auvergne-Rhône-Alpes|62
+Oisemont|49.956|1.767|FR|Hauts-de-France|62
+Saint-Jean-du-Cardonnay|49.505|1.011|FR|Normandy|62
+Sainte-Solange|47.136|2.550|FR|Centre-Val de Loire|62
+Alizay|49.322|1.179|FR|Normandy|62
+Bussières|45.836|4.271|FR|Auvergne-Rhône-Alpes|62
+Chamigny|48.972|3.152|FR|Île-de-France|62
+Maclas|45.363|4.682|FR|Auvergne-Rhône-Alpes|62
+Saint-Pierre-de-Bœuf|45.384|4.746|FR|Auvergne-Rhône-Alpes|62
+Harbonnières|49.850|2.668|FR|Hauts-de-France|62
+Saint-Romain-de-Popey|45.847|4.531|FR|Auvergne-Rhône-Alpes|62
+Étampes-sur-Marne|49.035|3.419|FR|Hauts-de-France|62
+Saint-Denis-de-Cabanne|46.172|4.214|FR|Auvergne-Rhône-Alpes|62
+Simandres|45.620|4.873|FR|Auvergne-Rhône-Alpes|62
+Armentières-en-Brie|48.978|3.021|FR|Île-de-France|62
+Aulnois-sous-Laon|49.614|3.605|FR|Hauts-de-France|62
+Coulombs|48.653|1.546|FR|Centre-Val de Loire|62
+Villefranche-d'Allier|46.397|2.857|FR|Auvergne-Rhône-Alpes|62
+Lassigny|49.588|2.843|FR|Hauts-de-France|62
+Saint-Léger-sur-Dheune|46.845|4.636|FR|Bourgogne-Franche-Comté|62
+Coulans-sur-Gée|48.021|0.011|FR|Pays de la Loire|62
+Chabreloche|45.879|3.697|FR|Auvergne-Rhône-Alpes|62
+Le Grand-Bourg|46.160|1.645|FR|New Aquitaine|62
+Ormoy|48.575|2.452|FR|Île-de-France|62
+Mercurey|46.840|4.717|FR|Bourgogne-Franche-Comté|62
+Laboissière-en-Thelle|49.293|2.162|FR|Hauts-de-France|62
+Fontannes|45.301|3.764|FR|Auvergne-Rhône-Alpes|62
+Mussy-sur-Seine|47.978|4.497|FR|Grand Est|62
+Thorigny-sur-Oreuse|48.293|3.401|FR|Bourgogne-Franche-Comté|62
+Saint-Parize-le-Châtel|46.854|3.183|FR|Bourgogne-Franche-Comté|62
+Beaufay|48.147|0.362|FR|Pays de la Loire|62
+Bazainville|48.804|1.667|FR|Île-de-France|62
+Pérignat-sur-Allier|45.728|3.232|FR|Auvergne-Rhône-Alpes|62
+Marcilly-sur-Eure|48.826|1.347|FR|Normandy|62
+Saint-Arnoult|49.527|0.671|FR|Normandy|62
+Villedômer|47.547|0.888|FR|Centre-Val de Loire|62
+Jussy|49.720|3.233|FR|Hauts-de-France|62
+Clères|49.600|1.117|FR|Normandy|62
+Fleurey-sur-Ouche|47.312|4.859|FR|Bourgogne-Franche-Comté|62
+Saint-Maurice-en-Gourgois|45.401|4.183|FR|Auvergne-Rhône-Alpes|62
+Saint-Germain-Nuelles|45.852|4.612|FR|Auvergne-Rhône-Alpes|62
+Dhuizon|47.587|1.658|FR|Centre-Val de Loire|62
+Dignac|45.556|0.279|FR|New Aquitaine|62
+Moyaux|49.195|0.356|FR|Normandy|62
+Saint-Bonnet-les-Oules|45.549|4.325|FR|Auvergne-Rhône-Alpes|62
+Bonnat|46.328|1.904|FR|New Aquitaine|62
+Cormeray|47.492|1.406|FR|Centre-Val de Loire|62
+Ville-sous-la-Ferté|48.121|4.790|FR|Grand Est|62
+Aveizieux|45.565|4.371|FR|Auvergne-Rhône-Alpes|62
+Dollon|48.040|0.587|FR|Pays de la Loire|62
+Margon|48.336|0.835|FR|Centre-Val de Loire|62
+Pissy-Pôville|49.530|0.993|FR|Normandy|62
+Saint-Étienne-sur-Chalaronne|46.148|4.871|FR|Auvergne-Rhône-Alpes|62
+Blacé|46.032|4.644|FR|Auvergne-Rhône-Alpes|62
+Léré|47.469|2.870|FR|Centre-Val de Loire|62
+Valmondois|49.097|2.190|FR|Île-de-France|62
+Méaulte|49.982|2.661|FR|Hauts-de-France|62
+Neuvy-Pailloux|46.885|1.862|FR|Centre-Val de Loire|62
+Signy-le-Petit|49.903|4.280|FR|Grand Est|62
+Tavers|47.759|1.613|FR|Centre-Val de Loire|62
+Bezannes|49.223|3.989|FR|Grand Est|62
+La Bazoche-Gouet|48.140|0.982|FR|Centre-Val de Loire|62
+Saints|48.761|3.046|FR|Île-de-France|62
+Simandre|46.624|4.988|FR|Bourgogne-Franche-Comté|62
+Tréon|48.677|1.327|FR|Centre-Val de Loire|62
+Vernoil-le-Fourrier|47.387|0.079|FR|Pays de la Loire|62
+Balzac|45.709|0.146|FR|New Aquitaine|62
+Château-Porcien|49.527|4.245|FR|Grand Est|62
+Levet|46.926|2.407|FR|Centre-Val de Loire|62
+Pruillé-le-Chétif|47.994|0.107|FR|Pays de la Loire|62
+Rogerville|49.503|0.265|FR|Normandy|62
+Saint-Antoine-du-Rocher|47.497|0.630|FR|Centre-Val de Loire|62
+Aviron|49.050|1.117|FR|Normandy|62
+Moisenay|48.563|2.735|FR|Île-de-France|62
+Thenon|45.137|1.071|FR|New Aquitaine|62
+Luant|46.733|1.558|FR|Centre-Val de Loire|62
+Ouzouer-sur-Trézée|47.673|2.808|FR|Centre-Val de Loire|62
+Équemauville|49.394|0.208|FR|Normandy|62
+Saint-Benin-d'Azy|46.999|3.393|FR|Bourgogne-Franche-Comté|62
+Arnac-Pompadour|45.410|1.370|FR|New Aquitaine|62
+Chaulgnes|47.129|3.103|FR|Bourgogne-Franche-Comté|62
+Choisy-en-Brie|48.759|3.217|FR|Île-de-France|62
+Cormeilles|49.248|0.377|FR|Normandy|62
+Mensignac|45.225|0.561|FR|New Aquitaine|62
+Charny|48.971|2.761|FR|Île-de-France|62
+Flize|49.699|4.772|FR|Grand Est|62
+Savigny-en-Véron|47.201|0.145|FR|Centre-Val de Loire|62
+Bretteville-du-Grand-Caux|49.667|0.400|FR|Normandy|62
+Brugheas|46.077|3.368|FR|Auvergne-Rhône-Alpes|62
+Villiers-le-Morhier|48.620|1.563|FR|Centre-Val de Loire|62
+Saint-Ouen-en-Belin|47.833|0.210|FR|Pays de la Loire|62
+Authon-du-Perche|48.196|0.892|FR|Centre-Val de Loire|62
+Chanteau|47.967|1.971|FR|Centre-Val de Loire|62
+Rémalard|48.429|0.772|FR|Normandy|62
+Songeons|49.549|1.854|FR|Hauts-de-France|62
+Buchy|49.585|1.359|FR|Normandy|62
+Dury|49.847|2.271|FR|Hauts-de-France|62
+Tancarville|49.486|0.458|FR|Normandy|62
+Fleurie|46.192|4.697|FR|Auvergne-Rhône-Alpes|62
+Mary-sur-Marne|49.016|3.028|FR|Île-de-France|62
+Sainte-Foy-l'Argentière|45.708|4.470|FR|Auvergne-Rhône-Alpes|62
+Jonzieux|45.314|4.362|FR|Auvergne-Rhône-Alpes|62
+Sainte-Gauburge-Sainte-Colombe|48.717|0.431|FR|Normandy|62
+Villette-de-Vienne|45.590|4.915|FR|Auvergne-Rhône-Alpes|62
+Saint-Gervais-les-Trois-Clochers|46.901|0.408|FR|New Aquitaine|62
+Saint-Sulpice-les-Feuilles|46.318|1.368|FR|New Aquitaine|62
+Usson-en-Forez|45.392|3.941|FR|Auvergne-Rhône-Alpes|62
+Taponnat|45.779|0.409|FR|New Aquitaine|62
+Sains-en-Amiénois|49.817|2.319|FR|Hauts-de-France|62
+Saint-Aubin-sur-Scie|49.872|1.068|FR|Normandy|62
+Boissy-le-Cutté|48.470|2.283|FR|Île-de-France|62
+Candé-sur-Beuvron|47.495|1.259|FR|Centre-Val de Loire|62
+La Chapelle-du-Noyer|48.032|1.310|FR|Centre-Val de Loire|62
+Blérancourt|49.517|3.150|FR|Hauts-de-France|62
+Chambourg-sur-Indre|47.182|0.969|FR|Centre-Val de Loire|62
+Chaunay|46.207|0.164|FR|New Aquitaine|62
+Chiry-Ourscamp|49.544|2.947|FR|Hauts-de-France|62
+Crézancy|49.048|3.510|FR|Hauts-de-France|62
+Vermenton|47.665|3.735|FR|Bourgogne-Franche-Comté|62
+Bains|45.010|3.775|FR|Auvergne-Rhône-Alpes|62
+Dracy-le-Fort|46.797|4.762|FR|Bourgogne-Franche-Comté|62
+Dry|47.796|1.713|FR|Centre-Val de Loire|62
+Leudeville|48.566|2.327|FR|Île-de-France|62
+Marcilly-le-Châtel|45.696|4.031|FR|Auvergne-Rhône-Alpes|62
+Brasles|49.048|3.430|FR|Hauts-de-France|62
+Lieurey|49.230|0.499|FR|Normandy|62
+Saint-Félicien|45.086|4.627|FR|Auvergne-Rhône-Alpes|62
+Champeix|45.589|3.129|FR|Auvergne-Rhône-Alpes|62
+Piney|48.364|4.333|FR|Grand Est|62
+Tillières-sur-Avre|48.756|1.054|FR|Normandy|62
+Cauvigny|49.302|2.248|FR|Hauts-de-France|62
+Vinneuf|48.348|3.140|FR|Bourgogne-Franche-Comté|62
+Hermonville|49.337|3.910|FR|Grand Est|62
+Montlivault|47.640|1.445|FR|Centre-Val de Loire|62
+Périgneux|45.441|4.156|FR|Auvergne-Rhône-Alpes|62
+Saint-Omer-en-Chaussée|49.531|2.003|FR|Hauts-de-France|62
+Vouzon|47.645|2.056|FR|Centre-Val de Loire|62
+Us|49.100|1.967|FR|Île-de-France|62
+Hénouville|49.479|0.964|FR|Normandy|62
+Nogent-le-Phaye|48.445|1.578|FR|Centre-Val de Loire|62
+Beausemblant|45.217|4.832|FR|Auvergne-Rhône-Alpes|62
+Ébreuil|46.115|3.087|FR|Auvergne-Rhône-Alpes|62
+Haute-Rivoire|45.716|4.396|FR|Auvergne-Rhône-Alpes|62
+Hautefort|45.259|1.148|FR|New Aquitaine|62
+Port à Binson|49.082|3.760|FR|Grand Est|62
+Saint-Nicolas-de-Bourgueil|47.285|0.127|FR|Centre-Val de Loire|62
+Voisenon|48.572|2.665|FR|Île-de-France|62
+Auzebosc|49.596|0.729|FR|Normandy|62
+Selles-Saint-Denis|47.387|1.923|FR|Centre-Val de Loire|62
+Mur-de-Sologne|47.412|1.608|FR|Centre-Val de Loire|62
+Saint-Paër|49.515|0.879|FR|Normandy|62
+Chenoise|48.615|3.195|FR|Île-de-France|62
+Faverolles-sur-Cher|47.317|1.190|FR|Centre-Val de Loire|62
+Francheville|48.786|0.850|FR|Normandy|62
+Sevrey|46.738|4.840|FR|Bourgogne-Franche-Comté|62
+La Ville-aux-Clercs|47.918|1.085|FR|Centre-Val de Loire|62
+Mareuil-sur-Ay|49.046|4.036|FR|Grand Est|62
+Rebréchien|47.987|2.044|FR|Centre-Val de Loire|62
+Lumes|49.735|4.786|FR|Grand Est|62
+Cussac|45.707|0.850|FR|New Aquitaine|62
+Marigny-les-Usages|47.958|2.015|FR|Centre-Val de Loire|62
+Beynat|45.124|1.723|FR|New Aquitaine|62
+Cernay-lès-Reims|49.264|4.102|FR|Grand Est|62
+Gron|48.160|3.263|FR|Bourgogne-Franche-Comté|62
+Nouzilly|47.545|0.746|FR|Centre-Val de Loire|62
+Saint-Marcel-lès-Annonay|45.286|4.626|FR|Auvergne-Rhône-Alpes|62
+Bligny-lès-Beaune|46.986|4.826|FR|Bourgogne-Franche-Comté|62
+Saint-Gatien-des-Bois|49.350|0.183|FR|Normandy|62
+Warluis|49.389|2.142|FR|Hauts-de-France|62
+Andancette|45.249|4.809|FR|Auvergne-Rhône-Alpes|62
+Angy|49.330|2.329|FR|Hauts-de-France|62
+Blaincourt-lès-Précy|49.233|2.350|FR|Hauts-de-France|62
+Dallet|45.770|3.239|FR|Auvergne-Rhône-Alpes|62
+Armenonville-les-Gâtineaux|48.544|1.647|FR|Centre-Val de Loire|62
+Épaignes|49.279|0.440|FR|Normandy|62
+Bézu-Saint-Éloi|49.295|1.704|FR|Normandy|62
+Saint-Martin-sur-Ocre|47.659|2.658|FR|Centre-Val de Loire|62
+Thésée|47.323|1.309|FR|Centre-Val de Loire|62
+Tours-sur-Marne|49.049|4.121|FR|Grand Est|62
+Couchey|47.260|4.983|FR|Bourgogne-Franche-Comté|62
+Mareau-aux-Prés|47.867|1.783|FR|Centre-Val de Loire|62
+Varengeville-sur-Mer|49.905|0.995|FR|Normandy|62
+Tallende|45.670|3.125|FR|Auvergne-Rhône-Alpes|62
+Vigeois|45.379|1.517|FR|New Aquitaine|62
+Esquéhéries|49.984|3.747|FR|Hauts-de-France|62
+Sainte-Euphémie|45.971|4.799|FR|Auvergne-Rhône-Alpes|62
+Dornes|46.716|3.353|FR|Bourgogne-Franche-Comté|62
+Mesnières-en-Bray|49.762|1.382|FR|Normandy|62
+Bourth|48.768|0.809|FR|Normandy|62
+Gazeran|48.633|1.771|FR|Île-de-France|62
+Saint-André-le-Puy|45.648|4.259|FR|Auvergne-Rhône-Alpes|62
+Tournon-Saint-Martin|46.734|0.955|FR|Centre-Val de Loire|62
+Échalas|45.552|4.715|FR|Auvergne-Rhône-Alpes|62
+Essigny-le-Grand|49.779|3.278|FR|Hauts-de-France|62
+Villiers-sur-Loir|47.805|0.998|FR|Centre-Val de Loire|62
+Saint-Didier-sous-Riverie|45.596|4.606|FR|Auvergne-Rhône-Alpes|62
+La Celle-sur-Morin|48.811|2.969|FR|Île-de-France|62
+Les Ageux|49.317|2.600|FR|Hauts-de-France|62
+Neuvy-sur-Barangeon|47.315|2.253|FR|Centre-Val de Loire|62
+Riotord|45.232|4.402|FR|Auvergne-Rhône-Alpes|62
+Saint-Eustache-la-Forêt|49.551|0.456|FR|Normandy|62
+Triguères|47.940|2.986|FR|Centre-Val de Loire|62
+Ars-sur-Formans|45.995|4.820|FR|Auvergne-Rhône-Alpes|62
+Buironfosse|49.967|3.836|FR|Hauts-de-France|62
+Ambleny|49.381|3.184|FR|Hauts-de-France|62
+Montbizot|48.148|0.182|FR|Pays de la Loire|62
+Valliquerville|49.614|0.687|FR|Normandy|62
+La Remuée|49.528|0.403|FR|Normandy|62
+Attigny|49.478|4.578|FR|Grand Est|62
+Sireuil|45.616|0.009|FR|New Aquitaine|62
+Courzieu|45.743|4.571|FR|Auvergne-Rhône-Alpes|62
+Larequille|46.252|2.702|FR|Auvergne-Rhône-Alpes|62
+Billy-sur-Aisne|49.356|3.384|FR|Hauts-de-France|62
+Bracieux|47.549|1.541|FR|Centre-Val de Loire|62
+La Motte-Saint-Jean|46.496|3.964|FR|Bourgogne-Franche-Comté|62
+Ladon|48.003|2.537|FR|Centre-Val de Loire|62
+Les Authieux-sur-le-Port-Saint-Ouen|49.341|1.135|FR|Normandy|62
+Marsat|45.876|3.082|FR|Auvergne-Rhône-Alpes|62
+Montaigut|45.615|3.449|FR|Auvergne-Rhône-Alpes|62
+Muides-sur-Loire|47.670|1.527|FR|Centre-Val de Loire|62
+Condé-sur-Huisne|48.381|0.851|FR|Normandy|62
+Neufmanil|49.811|4.797|FR|Grand Est|62
+Quincié-en-Beaujolais|46.119|4.616|FR|Auvergne-Rhône-Alpes|62
+Champagnac|45.357|2.399|FR|Auvergne-Rhône-Alpes|62
+Chevillon-sur-Huillard|47.962|2.626|FR|Centre-Val de Loire|62
+Escoutoux|45.819|3.563|FR|Auvergne-Rhône-Alpes|62
+Montreuil-aux-Lions|49.021|3.195|FR|Hauts-de-France|62
+Buxières-les-Mines|46.468|2.960|FR|Auvergne-Rhône-Alpes|62
+Ervy-le-Châtel|48.041|3.910|FR|Grand Est|62
+Lavault-Sainte-Anne|46.310|2.600|FR|Auvergne-Rhône-Alpes|62
+La Pacaudière|46.179|3.863|FR|Auvergne-Rhône-Alpes|62
+Ligny-le-Ribault|47.684|1.782|FR|Centre-Val de Loire|62
+Saint-Saturnin|45.661|0.044|FR|New Aquitaine|62
+Coincy|49.160|3.422|FR|Hauts-de-France|62
+Férolles|47.835|2.111|FR|Centre-Val de Loire|62
+Manthelan|47.136|0.793|FR|Centre-Val de Loire|62
+Troissereux|49.480|2.045|FR|Hauts-de-France|62
+Mellecey|46.811|4.728|FR|Bourgogne-Franche-Comté|62
+Saint-Sauveur-en-Rue|45.270|4.495|FR|Auvergne-Rhône-Alpes|62
+Cerelles|47.502|0.683|FR|Centre-Val de Loire|62
+Goincourt|49.426|2.036|FR|Hauts-de-France|62
+Pleumartin|46.738|0.766|FR|New Aquitaine|62
+Londinières|49.832|1.402|FR|Normandy|62
+Meyssac|45.055|1.674|FR|New Aquitaine|62
+Rochetaillée-sur-Saône|45.850|4.850|FR|Auvergne-Rhône-Alpes|62
+Saint-Wandrille-Rançon|49.527|0.765|FR|Normandy|62
+Champfleur|48.387|0.127|FR|Pays de la Loire|62
+La Cerlangue|49.506|0.413|FR|Normandy|62
+Saint-Viâtre|47.524|1.933|FR|Centre-Val de Loire|62
+Saint-Martin-de-Nigelles|48.612|1.609|FR|Centre-Val de Loire|62
+Ainay-le-Château|46.711|2.692|FR|Auvergne-Rhône-Alpes|62
+Le Donjon|46.351|3.793|FR|Auvergne-Rhône-Alpes|62
+Broglie|49.009|0.529|FR|Normandy|62
+Chantenay-Saint-Imbert|46.733|3.183|FR|Bourgogne-Franche-Comté|62
+Doyet|46.336|2.797|FR|Auvergne-Rhône-Alpes|62
+Montmoreau-Saint-Cybard|45.400|0.133|FR|New Aquitaine|62
+Neuvy-le-Roi|47.604|0.595|FR|Centre-Val de Loire|62
+Chapet|48.967|1.933|FR|Île-de-France|62
+Gasville-Oisème|48.470|1.538|FR|Centre-Val de Loire|62
+Sagy|49.050|1.952|FR|Île-de-France|62
+La Tour-en-Jarez|45.483|4.391|FR|Auvergne-Rhône-Alpes|61
+Saint-Germain-sur-Avre|48.765|1.268|FR|Normandy|61
+Béthisy-Saint-Martin|49.295|2.817|FR|Hauts-de-France|61
+Oinville-sur-Montcient|49.027|1.849|FR|Île-de-France|61
+Villeneuve-sur-Bellot|48.862|3.341|FR|Île-de-France|61
+Augy|47.766|3.611|FR|Bourgogne-Franche-Comté|61
+Le Breil-sur-Mérize|48.008|0.477|FR|Pays de la Loire|61
+Saint-Mathieu|45.706|0.759|FR|New Aquitaine|61
+Aigre|45.892|0.008|FR|New Aquitaine|61
+Saint-Laurent|49.764|4.772|FR|Grand Est|61
+Le Crest|45.687|3.127|FR|Auvergne-Rhône-Alpes|61
+Molinet|46.466|3.936|FR|Auvergne-Rhône-Alpes|61
+Béruges|46.567|0.207|FR|New Aquitaine|61
+Corneville-sur-Risle|49.341|0.586|FR|Normandy|61
+Neulise|45.898|4.181|FR|Auvergne-Rhône-Alpes|61
+Corrèze|45.372|1.875|FR|New Aquitaine|61
+Nargis|48.111|2.756|FR|Centre-Val de Loire|61
+Thilouze|47.224|0.580|FR|Centre-Val de Loire|61
+Herbault|47.605|1.139|FR|Centre-Val de Loire|61
+Lézigneux|45.566|4.065|FR|Auvergne-Rhône-Alpes|61
+Mareuil|45.451|0.452|FR|New Aquitaine|61
+Saint-Martin-Belle-Roche|46.383|4.855|FR|Bourgogne-Franche-Comté|61
+Breuilpont|48.964|1.429|FR|Normandy|61
+Châtres-sur-Cher|47.265|1.906|FR|Centre-Val de Loire|61
+Dampierre-en-Burly|47.761|2.520|FR|Centre-Val de Loire|61
+Épinouze|45.310|4.929|FR|Auvergne-Rhône-Alpes|61
+Sainte-Lizaigne|47.007|2.023|FR|Centre-Val de Loire|61
+Catenoy|49.368|2.511|FR|Hauts-de-France|61
+Chaillac|46.434|1.299|FR|Centre-Val de Loire|61
+Hauville|49.396|0.772|FR|Normandy|61
+Manéglise|49.566|0.256|FR|Normandy|61
+Sonzay|47.527|0.462|FR|Centre-Val de Loire|61
+Civens|45.780|4.252|FR|Auvergne-Rhône-Alpes|61
+Deville|49.879|4.706|FR|Grand Est|61
+Saint-Cyr|45.252|4.730|FR|Auvergne-Rhône-Alpes|61
+Serrières|45.318|4.763|FR|Auvergne-Rhône-Alpes|61
+La Madeleine-de-Nonancourt|48.773|1.203|FR|Normandy|61
+Chamboulive|45.432|1.704|FR|New Aquitaine|61
+Peyrat-de-Bellac|46.142|1.037|FR|New Aquitaine|61
+Félines|45.317|4.728|FR|Auvergne-Rhône-Alpes|61
+Aschères-le-Marché|48.110|2.007|FR|Centre-Val de Loire|61
+Saint-Paul|45.751|1.432|FR|New Aquitaine|61
+Cambremer|49.152|0.048|FR|Normandy|61
+Farnay|45.496|4.583|FR|Auvergne-Rhône-Alpes|61
+Gonneville-la-Mallet|49.639|0.222|FR|Normandy|61
+Guéreins|46.103|4.773|FR|Auvergne-Rhône-Alpes|61
+Marboué|48.114|1.332|FR|Centre-Val de Loire|61
+Sorges|45.307|0.874|FR|New Aquitaine|61
+Rolleville|49.582|0.212|FR|Normandy|61
+Saint-Amant-de-Boixe|45.798|0.134|FR|New Aquitaine|61
+Chalo-Saint-Mars|48.423|2.065|FR|Île-de-France|61
+Poses|49.305|1.244|FR|Normandy|61
+Montmacq|49.482|2.903|FR|Hauts-de-France|61
+Vitteaux|47.397|4.542|FR|Bourgogne-Franche-Comté|61
+Aulnay-sur-Mauldre|48.929|1.841|FR|Île-de-France|61
+Saint-Georges-Haute-Ville|45.557|4.098|FR|Auvergne-Rhône-Alpes|61
+Abilly|46.933|0.733|FR|Centre-Val de Loire|61
+Cléré-les-Pins|47.425|0.390|FR|Centre-Val de Loire|61
+Droue-sur-Drouette|48.601|1.701|FR|Centre-Val de Loire|61
+Flogny-la-Chapelle|47.950|3.867|FR|Bourgogne-Franche-Comté|61
+Mézières-en-Brenne|46.820|1.211|FR|Centre-Val de Loire|61
+Tôtes|49.681|1.046|FR|Normandy|61
+Chalifert|48.890|2.773|FR|Île-de-France|61
+Thiron Gardais|48.317|0.983|FR|Centre-Val de Loire|61
+Vieille-Brioude|45.265|3.405|FR|Auvergne-Rhône-Alpes|61
+Le Pizou|45.025|0.062|FR|New Aquitaine|61
+Maillot|48.176|3.308|FR|Bourgogne-Franche-Comté|61
+Clion|46.941|1.232|FR|Centre-Val de Loire|61
+Silly-le-Long|49.107|2.792|FR|Hauts-de-France|61
+Souesmes|47.456|2.175|FR|Centre-Val de Loire|61
+Villiers-le-Bâcle|48.728|2.119|FR|Île-de-France|61
+La Séauve-sur-Semène|45.296|4.250|FR|Auvergne-Rhône-Alpes|61
+Neung-sur-Beuvron|47.535|1.805|FR|Centre-Val de Loire|61
+Saint-Germain-les-Belles|45.615|1.495|FR|New Aquitaine|61
+Saint-Julien-Molin-Molette|45.321|4.617|FR|Auvergne-Rhône-Alpes|61
+Saint-Sauveur-sur-École|48.498|2.547|FR|Île-de-France|61
+Antonne|45.213|0.830|FR|New Aquitaine|61
+Messeix|45.617|2.542|FR|Auvergne-Rhône-Alpes|61
+Saint-Aubin-Routot|49.523|0.326|FR|Normandy|61
+Yainville|49.454|0.829|FR|Normandy|61
+Achères-la-Forêt|48.355|2.570|FR|Île-de-France|61
+Challes|47.931|0.414|FR|Pays de la Loire|61
+Connantre|48.727|3.924|FR|Grand Est|61
+Curgy|46.987|4.385|FR|Bourgogne-Franche-Comté|61
+Montigny|49.460|1.002|FR|Normandy|61
+Vineuil|46.900|1.635|FR|Centre-Val de Loire|61
+Restigné|47.282|0.228|FR|Centre-Val de Loire|61
+Allouville-Bellefosse|49.597|0.677|FR|Normandy|61
+Le Châtelet|46.642|2.282|FR|Centre-Val de Loire|61
+Saint-Germain-Lespinasse|46.103|3.965|FR|Auvergne-Rhône-Alpes|61
+Montfaucon-en-Velay|45.186|4.314|FR|Auvergne-Rhône-Alpes|61
+Baugy|47.082|2.728|FR|Centre-Val de Loire|61
+Dampierre-en-Yvelines|48.700|1.983|FR|Île-de-France|61
+Liverdy-en-Brie|48.700|2.776|FR|Île-de-France|61
+Tauxigny|47.213|0.835|FR|Centre-Val de Loire|61
+Bouilly|48.197|4.000|FR|Grand Est|61
+Saint-Pardoux-la-Rivière|45.494|0.746|FR|New Aquitaine|61
+Saint-Sulpice|49.350|2.123|FR|Hauts-de-France|61
+Blainville-Crevon|49.504|1.300|FR|Normandy|61
+Condat|45.341|2.758|FR|Auvergne-Rhône-Alpes|61
+Droué|48.040|1.075|FR|Centre-Val de Loire|61
+Ouches|46.016|3.988|FR|Auvergne-Rhône-Alpes|61
+Tanlay|47.845|4.085|FR|Bourgogne-Franche-Comté|61
+Cours-les-Barres|47.025|3.032|FR|Centre-Val de Loire|61
+Sahurs|49.359|0.943|FR|Normandy|61
+Vaugrigneuse|48.603|2.122|FR|Île-de-France|61
+Peyrat-le-Château|45.814|1.773|FR|New Aquitaine|61
+Celle-Lévescault|46.424|0.187|FR|New Aquitaine|61
+Le Pin|48.915|2.628|FR|Île-de-France|61
+Néville|49.825|0.709|FR|Normandy|61
+Saint-Cernin|45.059|2.421|FR|Auvergne-Rhône-Alpes|61
+Saint-Cyr-sur-le-Rhône|45.516|4.853|FR|Auvergne-Rhône-Alpes|61
+Fillé|47.899|0.125|FR|Pays de la Loire|61
+Thiverny|49.252|2.436|FR|Hauts-de-France|61
+Saint-Aubin-en-Bray|49.421|1.878|FR|Hauts-de-France|61
+Antran|46.855|0.541|FR|New Aquitaine|61
+Les Chères|45.890|4.743|FR|Auvergne-Rhône-Alpes|61
+Seigy|47.257|1.400|FR|Centre-Val de Loire|61
+Gouvernes|48.860|2.691|FR|Île-de-France|61
+Chancenay|48.670|4.987|FR|Grand Est|61
+Les Loges|49.699|0.284|FR|Normandy|61
+Pragoulin|46.054|3.393|FR|Auvergne-Rhône-Alpes|61
+Roumare|49.510|0.974|FR|Normandy|61
+Beuvillers|49.130|0.255|FR|Normandy|61
+Juillac|45.318|1.323|FR|New Aquitaine|61
+La Courtine|45.701|2.263|FR|New Aquitaine|61
+Pierre-Buffière|45.695|1.359|FR|New Aquitaine|61
+Villeneuve-les-Sablons|49.238|2.078|FR|Hauts-de-France|61
+Férolles-Attilly|48.732|2.631|FR|Île-de-France|61
+Linards|45.701|1.531|FR|New Aquitaine|61
+Villiers-Saint-Georges|48.650|3.408|FR|Île-de-France|61
+Montaure|49.234|1.088|FR|Normandy|61
+Coutouvre|46.073|4.205|FR|Auvergne-Rhône-Alpes|61
+La Celle-Saint-Avant|47.022|0.605|FR|Centre-Val de Loire|61
+Bréauté|49.628|0.400|FR|Normandy|61
+Dun-le-Palestel|46.306|1.665|FR|New Aquitaine|61
+Marigny-Brizay|46.747|0.377|FR|New Aquitaine|61
+Broût-Vernet|46.188|3.273|FR|Auvergne-Rhône-Alpes|61
+La Feuillie|49.464|1.515|FR|Normandy|61
+Reignac-sur-Indre|47.227|0.916|FR|Centre-Val de Loire|61
+Vasselay|47.157|2.390|FR|Centre-Val de Loire|61
+Allanche|45.229|2.934|FR|Auvergne-Rhône-Alpes|61
+Charentay|46.089|4.679|FR|Auvergne-Rhône-Alpes|61
+Chassagny|45.607|4.732|FR|Auvergne-Rhône-Alpes|61
+Preuilly-sur-Claise|46.854|0.930|FR|Centre-Val de Loire|61
+Sergines|48.342|3.262|FR|Bourgogne-Franche-Comté|61
+Hauteville-lès-Dijon|47.366|4.994|FR|Bourgogne-Franche-Comté|61
+Saint-Privat|45.138|2.099|FR|New Aquitaine|61
+Villandry|47.340|0.510|FR|Centre-Val de Loire|61
+Fublaines|48.938|2.937|FR|Île-de-France|61
+Seboncourt|49.953|3.476|FR|Hauts-de-France|61
+Villevocance|45.225|4.588|FR|Auvergne-Rhône-Alpes|61
+Auvers-Saint-Georges|48.493|2.220|FR|Île-de-France|61
+Ladignac-le-Long|45.583|1.114|FR|New Aquitaine|61
+Sauxillanges|45.551|3.371|FR|Auvergne-Rhône-Alpes|61
+Tourville-sur-Arques|49.859|1.102|FR|Normandy|61
+Vicq-sur-Breuilh|45.646|1.382|FR|New Aquitaine|61
+Gespunsart|49.821|4.829|FR|Grand Est|61
+Saint-Piat|48.547|1.584|FR|Centre-Val de Loire|61
+Chaleins|46.032|4.808|FR|Auvergne-Rhône-Alpes|61
+Esches|49.221|2.166|FR|Hauts-de-France|61
+Mauves|45.038|4.829|FR|Auvergne-Rhône-Alpes|61
+Nointot|49.598|0.477|FR|Normandy|61
+Avrechy|49.448|2.427|FR|Hauts-de-France|61
+Cublize|46.018|4.377|FR|Auvergne-Rhône-Alpes|61
+Joux-la-Ville|47.622|3.862|FR|Bourgogne-Franche-Comté|61
+Saint-Yan|46.411|4.039|FR|Bourgogne-Franche-Comté|61
+Ognes|49.612|3.193|FR|Hauts-de-France|61
+Theizé|45.940|4.616|FR|Auvergne-Rhône-Alpes|61
+Chaource|48.059|4.137|FR|Grand Est|61
+Chaumont-sur-Tharonne|47.610|1.905|FR|Centre-Val de Loire|61
+Seugy|49.122|2.394|FR|Île-de-France|61
+Cuffy|46.963|3.052|FR|Centre-Val de Loire|61
+Toulon-sur-Allier|46.518|3.360|FR|Auvergne-Rhône-Alpes|61
+Vigny|49.079|1.928|FR|Île-de-France|61
+Ville-sous-Anjou|45.373|4.851|FR|Auvergne-Rhône-Alpes|61
+Loivre|49.346|3.980|FR|Grand Est|61
+Montrem|45.134|0.590|FR|New Aquitaine|61
+Peyrilhac|45.951|1.134|FR|New Aquitaine|61
+Boiscommun|48.036|2.383|FR|Centre-Val de Loire|61
+Saint-Claud|45.895|0.465|FR|New Aquitaine|61
+Saint-Sauves-d'Auvergne|45.607|2.688|FR|Auvergne-Rhône-Alpes|61
+Bailleau-l'Évêque|48.490|1.397|FR|Centre-Val de Loire|61
+Diges|47.729|3.398|FR|Bourgogne-Franche-Comté|61
+Ver-sur-Launette|49.105|2.684|FR|Hauts-de-France|61
+Bray-en-Val|47.829|2.366|FR|Centre-Val de Loire|61
+Moussy-le-Vieux|49.047|2.625|FR|Île-de-France|61
+Verzenay|49.159|4.145|FR|Grand Est|61
+Charenton-du-Cher|46.730|2.644|FR|Centre-Val de Loire|61
+Épieds-en-Beauce|47.951|1.617|FR|Centre-Val de Loire|61
+Luceau|47.711|0.397|FR|Pays de la Loire|61
+Rozoy-sur-Serre|49.710|4.129|FR|Hauts-de-France|61
+Cul-des-Sarts|49.962|4.454|BE|Wallonia|61
+Fontaine-la-Guyon|48.473|1.314|FR|Centre-Val de Loire|61
+Nevoy|47.716|2.578|FR|Centre-Val de Loire|61
+Payzac|45.401|1.217|FR|New Aquitaine|61
+Savigné-sur-Lathan|47.445|0.321|FR|Centre-Val de Loire|61
+Galluis|48.797|1.794|FR|Île-de-France|61
+Ansauvillers|49.565|2.387|FR|Hauts-de-France|61
+Boynes|48.118|2.360|FR|Centre-Val de Loire|61
+Saint-Agnant-de-Versillat|46.279|1.510|FR|New Aquitaine|61
+Saint-Bris-le-Vineux|47.744|3.649|FR|Bourgogne-Franche-Comté|61
+Touquin|48.735|3.012|FR|Île-de-France|61
+Mézières-en-Drouais|48.724|1.424|FR|Centre-Val de Loire|61
+Neaufles-Saint-Martin|49.276|1.728|FR|Normandy|61
+Vermand|49.876|3.150|FR|Hauts-de-France|61
+Bussière-Dunoise|46.258|1.762|FR|New Aquitaine|61
+Condé-sur-Vesgre|48.742|1.661|FR|Île-de-France|61
+Ablon|49.392|0.296|FR|Normandy|61
+Belleville-sur-Loire|47.500|2.850|FR|Centre-Val de Loire|61
+Brinon-sur-Sauldre|47.566|2.256|FR|Centre-Val de Loire|61
+Le Mesnil-sur-Oger|48.947|4.023|FR|Grand Est|61
+Morienval|49.298|2.921|FR|Hauts-de-France|61
+Saint-Maurice-sur-Fessard|47.992|2.622|FR|Centre-Val de Loire|61
+Autry-le-Châtel|47.599|2.602|FR|Centre-Val de Loire|61
+Le Luart|48.070|0.587|FR|Pays de la Loire|61
+Thilay|49.873|4.808|FR|Grand Est|61
+Pont-Saint-Pierre|49.336|1.276|FR|Normandy|61
+Mortrée|48.639|0.079|FR|Normandy|61
+Noizay|47.422|0.892|FR|Centre-Val de Loire|61
+Trangé|48.026|0.110|FR|Pays de la Loire|61
+Francheleins|46.074|4.809|FR|Auvergne-Rhône-Alpes|61
+Grandris|46.038|4.475|FR|Auvergne-Rhône-Alpes|61
+Laiz|46.251|4.890|FR|Auvergne-Rhône-Alpes|61
+Ancy-le-Franc|47.776|4.164|FR|Bourgogne-Franche-Comté|61
+Berneval-le-Grand|49.953|1.188|FR|Normandy|61
+Cézy|47.993|3.341|FR|Bourgogne-Franche-Comté|61
+Manneville-sur-Risle|49.352|0.545|FR|Normandy|61
+Saint-Dyé-sur-Loire|47.656|1.488|FR|Centre-Val de Loire|61
+Beaumont-du-Gâtinais|48.139|2.479|FR|Île-de-France|61
+Orival|49.724|1.205|FR|Normandy|61
+Sainte-Geneviève-des-Bois|47.818|2.817|FR|Centre-Val de Loire|61
+Cély|48.460|2.532|FR|Île-de-France|61
+Criquebeuf-sur-Seine|49.306|1.100|FR|Normandy|61
+Le Perréon|46.063|4.600|FR|Auvergne-Rhône-Alpes|61
+Nesles-la-Montagne|49.020|3.426|FR|Hauts-de-France|61
+Ponchon|49.347|2.197|FR|Hauts-de-France|61
+Rouziers-de-Touraine|47.517|0.648|FR|Centre-Val de Loire|61
+Sauviat-sur-Vige|45.907|1.607|FR|New Aquitaine|61
+Saint-Amand-Longpré|47.683|1.017|FR|Centre-Val de Loire|61
+Bricy|47.998|1.779|FR|Centre-Val de Loire|61
+Coucy-le-Château-Auffrique|49.521|3.324|FR|Hauts-de-France|61
+Sourzac|45.050|0.396|FR|New Aquitaine|61
+Chârost|46.994|2.116|FR|Centre-Val de Loire|61
+Mazet-Saint-Voy|45.047|4.244|FR|Auvergne-Rhône-Alpes|61
+Rilly-la-Montagne|49.166|4.046|FR|Grand Est|61
+Saint-Eusèbe|46.713|4.462|FR|Bourgogne-Franche-Comté|61
+Saint-Maurice-la-Clouère|46.380|0.412|FR|New Aquitaine|61
+Coulombiers|46.486|0.187|FR|New Aquitaine|61
+Le Grand-Pressigny|46.920|0.804|FR|Centre-Val de Loire|61
+Tournes|49.797|4.639|FR|Grand Est|61
+Saint-Saturnin|45.660|3.092|FR|Auvergne-Rhône-Alpes|61
+Vimory|47.948|2.687|FR|Centre-Val de Loire|61
+Omissy|49.878|3.312|FR|Hauts-de-France|61
+Tercé|46.517|0.564|FR|New Aquitaine|61
+Saint-Brisson-sur-Loire|47.647|2.682|FR|Centre-Val de Loire|61
+Villefagnan|46.013|0.079|FR|New Aquitaine|61
+Roncherolles-sur-le-Vivier|49.467|1.183|FR|Normandy|61
+Saint-Crépin-Ibouvillers|49.263|2.078|FR|Hauts-de-France|61
+Saint-Pouange|48.227|4.040|FR|Grand Est|61
+Vert-en-Drouais|48.760|1.295|FR|Centre-Val de Loire|61
+Chamarande|48.517|2.217|FR|Île-de-France|61
+Champignelles|47.780|3.075|FR|Bourgogne-Franche-Comté|61
+Saulgé|46.378|0.876|FR|New Aquitaine|61
+Vernioz|45.427|4.883|FR|Auvergne-Rhône-Alpes|61
+Savigny-en-Sancerre|47.441|2.810|FR|Centre-Val de Loire|61
+Touvre|45.661|0.259|FR|New Aquitaine|61
+Foucarmont|49.847|1.569|FR|Normandy|61
+Hauterive|46.088|3.446|FR|Auvergne-Rhône-Alpes|61
+La Ferté-Imbault|47.385|1.953|FR|Centre-Val de Loire|61
+Mareuil-sur-Cher|47.293|1.329|FR|Centre-Val de Loire|61
+Orgères-en-Beauce|48.146|1.684|FR|Centre-Val de Loire|61
+Cormicy|49.371|3.896|FR|Grand Est|61
+Allègre|45.200|3.712|FR|Auvergne-Rhône-Alpes|61
+Châtillon-en-Bazois|47.055|3.659|FR|Bourgogne-Franche-Comté|61
+Saint-Mexant|45.285|1.658|FR|New Aquitaine|61
+Saint-Savin|46.566|0.864|FR|New Aquitaine|61
+Fontenay|49.560|0.184|FR|Normandy|61
+Lavoux|46.596|0.530|FR|New Aquitaine|61
+Parçay-les-Pins|47.437|0.163|FR|Pays de la Loire|61
+Saint-Nicolas-de-la-Taille|49.511|0.474|FR|Normandy|61
+Verzy|49.146|4.164|FR|Grand Est|61
+Cerdon|47.636|2.363|FR|Centre-Val de Loire|61
+Grainville-la-Teinturière|49.748|0.640|FR|Normandy|61
+Beuzeville-la-Grenier|49.592|0.427|FR|Normandy|61
+La Chapelle-Réanville|49.098|1.382|FR|Normandy|61
+Requeil|47.785|0.162|FR|Pays de la Loire|61
+Saint-Jean-sur-Veyle|46.259|4.917|FR|Auvergne-Rhône-Alpes|61
+Neuvy-Sautour|48.042|3.795|FR|Bourgogne-Franche-Comté|61
+Ravenel|49.515|2.502|FR|Hauts-de-France|61
+Toutainville|49.365|0.465|FR|Normandy|61
+Chaumont-sur-Loire|47.481|1.189|FR|Centre-Val de Loire|61
+Mazières-de-Touraine|47.383|0.425|FR|Centre-Val de Loire|61
+Martizay|46.808|1.043|FR|Centre-Val de Loire|61
+Saint-Père-sur-Loire|47.767|2.367|FR|Centre-Val de Loire|61
+Champs-sur-Tarentaine-Marchal|45.400|2.567|FR|Auvergne-Rhône-Alpes|61
+Ourville-en-Caux|49.729|0.605|FR|Normandy|61
+Souligné-sous-Ballon|48.140|0.236|FR|Pays de la Loire|61
+Ymare|49.351|1.179|FR|Normandy|61
+Auxy|46.949|4.404|FR|Bourgogne-Franche-Comté|60
+Bouzy-la-Forêt|47.851|2.378|FR|Centre-Val de Loire|60
+Neuvic-Entier|45.723|1.612|FR|New Aquitaine|60
+Quillebeuf-sur-Seine|49.469|0.528|FR|Normandy|60
+Saint-Gengoux-le-National|46.615|4.663|FR|Bourgogne-Franche-Comté|60
+Estivareilles|46.425|2.619|FR|Auvergne-Rhône-Alpes|60
+Job|45.616|3.745|FR|Auvergne-Rhône-Alpes|60
+Saint-Martin-Osmonville|49.639|1.300|FR|Normandy|60
+Malintrat|45.815|3.186|FR|Auvergne-Rhône-Alpes|60
+Thiverval-Grignon|48.850|1.917|FR|Île-de-France|60
+Chantelle|46.238|3.153|FR|Auvergne-Rhône-Alpes|60
+Cognac-la-Forêt|45.833|1.010|FR|New Aquitaine|60
+Exideuil-sur-Vienne|45.886|0.674|FR|New Aquitaine|60
+Itancourt|49.807|3.344|FR|Hauts-de-France|60
+Archigny|46.673|0.652|FR|New Aquitaine|60
+Payns|48.383|3.978|FR|Grand Est|60
+Fleury-la-Vallée|47.867|3.449|FR|Bourgogne-Franche-Comté|60
+Gometz-la-Ville|48.672|2.129|FR|Île-de-France|60
+Asnières-sur-Nouère|45.711|0.047|FR|New Aquitaine|60
+Bignoux|46.600|0.469|FR|New Aquitaine|60
+Lamure-sur-Azergues|46.063|4.492|FR|Auvergne-Rhône-Alpes|60
+Compertrix|48.942|4.346|FR|Grand Est|60
+Le Manoir|49.314|1.205|FR|Normandy|60
+Saint-Maurice-la-Souterraine|46.214|1.430|FR|New Aquitaine|60
+Lucenay-lès-Aix|46.703|3.483|FR|Bourgogne-Franche-Comté|60
+Corpeau|46.929|4.752|FR|Bourgogne-Franche-Comté|60
+Neussargues|45.128|2.976|FR|Auvergne-Rhône-Alpes|60
+Pionsat|46.110|2.693|FR|Auvergne-Rhône-Alpes|60
+Douchy|47.943|3.054|FR|Centre-Val de Loire|60
+Étreillers|49.831|3.160|FR|Hauts-de-France|60
+Chierry|49.039|3.430|FR|Hauts-de-France|60
+Montaigut|46.179|2.809|FR|Auvergne-Rhône-Alpes|60
+Saint-Vérand|45.919|4.528|FR|Auvergne-Rhône-Alpes|60
+Dom-le-Mesnil|49.690|4.804|FR|Grand Est|60
+Saché|47.247|0.545|FR|Centre-Val de Loire|60
+La Vaupalière|49.488|0.996|FR|Normandy|60
+Nogentel|49.017|3.402|FR|Hauts-de-France|60
+Bailly-Carrois|48.580|2.990|FR|Île-de-France|60
+Brigueuil|45.953|0.860|FR|New Aquitaine|60
+Sammeron|48.947|3.083|FR|Île-de-France|60
+Villebret|46.267|2.639|FR|Auvergne-Rhône-Alpes|60
+Andé|49.232|1.241|FR|Normandy|60
+Caumont|49.366|0.896|FR|Normandy|60
+Hombleux|49.739|2.986|FR|Hauts-de-France|60
+Bélâbre|46.551|1.158|FR|Centre-Val de Loire|60
+Châtenay-sur-Seine|48.418|3.095|FR|Île-de-France|60
+Péroy-les-Gombries|49.162|2.846|FR|Hauts-de-France|60
+Saint-Gérand-le-Puy|46.258|3.512|FR|Auvergne-Rhône-Alpes|60
+Morée|47.904|1.234|FR|Centre-Val de Loire|60
+Tillé|49.464|2.110|FR|Hauts-de-France|60
+Yport|49.737|0.315|FR|Normandy|60
+Cluis|46.545|1.749|FR|Centre-Val de Loire|60
+Heudreville-sur-Eure|49.141|1.188|FR|Normandy|60
+Paulhaguet|45.208|3.513|FR|Auvergne-Rhône-Alpes|60
+Saint-Menges|49.739|4.926|FR|Grand Est|60
+Youx|46.145|2.799|FR|Auvergne-Rhône-Alpes|60
+Charentilly|47.470|0.609|FR|Centre-Val de Loire|60
+Quiers-sur-Bézonde|47.996|2.441|FR|Centre-Val de Loire|60
+Changis-sur-Marne|48.958|3.022|FR|Île-de-France|60
+Quinssaines|46.327|2.510|FR|Auvergne-Rhône-Alpes|60
+Saint-Georges-sur-Allier|45.710|3.243|FR|Auvergne-Rhône-Alpes|60
+Hiersac|45.669|0.004|FR|New Aquitaine|60
+Saint-Clément|45.342|1.685|FR|New Aquitaine|60
+Saint-Projet|45.738|0.361|FR|New Aquitaine|60
+Andance|45.241|4.799|FR|Auvergne-Rhône-Alpes|60
+Arbonne-la-Forêt|48.414|2.567|FR|Île-de-France|60
+Bouttencourt|49.937|1.634|FR|Hauts-de-France|60
+Courlon-sur-Yonne|48.339|3.167|FR|Bourgogne-Franche-Comté|60
+Quevauvillers|49.824|2.084|FR|Hauts-de-France|60
+Radon|48.502|0.103|FR|Normandy|60
+Sonnay|45.358|4.905|FR|Auvergne-Rhône-Alpes|60
+Beaumont-la-Ronce|47.569|0.670|FR|Centre-Val de Loire|60
+Cambronne-lès-Clermont|49.330|2.399|FR|Hauts-de-France|60
+Cangey|47.467|1.061|FR|Centre-Val de Loire|60
+Coudun|49.461|2.812|FR|Hauts-de-France|60
+Lanquetot|49.585|0.526|FR|Normandy|60
+Oulins|48.865|1.470|FR|Centre-Val de Loire|60
+Razès|46.033|1.344|FR|New Aquitaine|60
+Ajain|46.207|1.997|FR|New Aquitaine|60
+Neufmoutiers-en-Brie|48.769|2.832|FR|Île-de-France|60
+Claville|49.048|1.020|FR|Normandy|60
+Gelles|45.769|2.763|FR|Auvergne-Rhône-Alpes|60
+Plauzat|45.622|3.149|FR|Auvergne-Rhône-Alpes|60
+Doue|48.866|3.163|FR|Île-de-France|60
+Saint-Aubin-des-Bois|48.465|1.358|FR|Centre-Val de Loire|60
+Saint-Martin-en-Campagne|49.956|1.222|FR|Normandy|60
+Garnay|48.705|1.337|FR|Centre-Val de Loire|60
+Parigné-le-Pôlin|47.850|0.108|FR|Pays de la Loire|60
+Bellenaves|46.200|3.080|FR|Auvergne-Rhône-Alpes|60
+Étainhus|49.566|0.313|FR|Normandy|60
+Marçon|47.710|0.510|FR|Pays de la Loire|60
+Crisolles|49.623|3.015|FR|Hauts-de-France|60
+Herry|47.217|2.954|FR|Centre-Val de Loire|60
+Chissay-en-Touraine|47.337|1.134|FR|Centre-Val de Loire|60
+Favières|48.763|2.775|FR|Île-de-France|60
+Fontaine-le-Dun|49.812|0.851|FR|Normandy|60
+Saint-Berain-sous-Sanvignes|46.707|4.294|FR|Bourgogne-Franche-Comté|60
+Ableiges|49.089|1.982|FR|Île-de-France|60
+Blancafort|47.532|2.530|FR|Centre-Val de Loire|60
+Culhat|45.863|3.337|FR|Auvergne-Rhône-Alpes|60
+Villeneuve|46.021|4.836|FR|Auvergne-Rhône-Alpes|60
+Chamant|49.220|2.612|FR|Hauts-de-France|60
+Crouy-en-Thelle|49.215|2.321|FR|Hauts-de-France|60
+Azé|47.851|0.998|FR|Centre-Val de Loire|60
+Arnac-la-Poste|46.266|1.373|FR|New Aquitaine|60
+Lanouaille|45.392|1.138|FR|New Aquitaine|60
+Pasly|49.402|3.296|FR|Hauts-de-France|60
+Le Breuil-sur-Couze|45.469|3.263|FR|Auvergne-Rhône-Alpes|60
+Rians|47.179|2.614|FR|Centre-Val de Loire|60
+Cheverny|47.501|1.460|FR|Centre-Val de Loire|60
+Saint-Sauveur|46.808|0.623|FR|New Aquitaine|60
+Thiers-sur-Thève|49.153|2.571|FR|Hauts-de-France|60
+Unverre|48.198|1.092|FR|Centre-Val de Loire|60
+Wavignies|49.547|2.360|FR|Hauts-de-France|60
+Bourgogne|49.350|4.071|FR|Grand Est|60
+Bouville|49.562|0.895|FR|Normandy|60
+Chanos-Curson|45.061|4.924|FR|Auvergne-Rhône-Alpes|60
+Charnay|45.891|4.668|FR|Auvergne-Rhône-Alpes|60
+Vendœuvres|46.800|1.350|FR|Centre-Val de Loire|60
+Avilly-Saint-Léonard|49.194|2.541|FR|Hauts-de-France|60
+Beaumont-Monteux|45.020|4.919|FR|Auvergne-Rhône-Alpes|60
+Bournoncle-Saint-Pierre|45.344|3.318|FR|Auvergne-Rhône-Alpes|60
+La Vespière|49.020|0.412|FR|Normandy|60
+Moisselles|49.050|2.336|FR|Île-de-France|60
+Serqueux|49.632|1.540|FR|Normandy|60
+Pouilly-lès-Feurs|45.798|4.233|FR|Auvergne-Rhône-Alpes|60
+Thoiry|48.867|1.798|FR|Île-de-France|60
+Ayron|46.660|0.075|FR|New Aquitaine|60
+Betz|49.156|2.956|FR|Hauts-de-France|60
+Bugeat|45.598|1.927|FR|New Aquitaine|60
+Matour|46.307|4.482|FR|Bourgogne-Franche-Comté|60
+Petiville|49.461|0.587|FR|Normandy|60
+Champagne-Mouton|45.992|0.411|FR|New Aquitaine|60
+Précieux|45.587|4.152|FR|Auvergne-Rhône-Alpes|60
+Saussay|48.856|1.409|FR|Centre-Val de Loire|60
+Étagnac|45.895|0.779|FR|New Aquitaine|60
+Sargé-sur-Braye|47.924|0.853|FR|Centre-Val de Loire|60
+Ligré|47.112|0.276|FR|Centre-Val de Loire|60
+Ravières|47.735|4.228|FR|Bourgogne-Franche-Comté|60
+Pouligny-Saint-Pierre|46.681|1.039|FR|Centre-Val de Loire|60
+Châtillon-sur-Marne|49.100|3.760|FR|Grand Est|60
+Sail-sous-Couzan|45.735|3.969|FR|Auvergne-Rhône-Alpes|60
+Saint-Léger-sur-Roanne|46.042|3.996|FR|Auvergne-Rhône-Alpes|60
+Chapdes-Beaufort|45.893|2.864|FR|Auvergne-Rhône-Alpes|60
+Salins|48.422|3.021|FR|Île-de-France|60
+Vaumoise|49.235|2.981|FR|Hauts-de-France|60
+Bussière-Poitevine|46.235|0.905|FR|New Aquitaine|60
+Chambon-sur-Voueize|46.190|2.425|FR|New Aquitaine|60
+Savigny-Lévescault|46.536|0.477|FR|New Aquitaine|60
+Écrainville|49.649|0.325|FR|Normandy|60
+Aveize|45.682|4.478|FR|Auvergne-Rhône-Alpes|60
+Chargé|47.433|1.030|FR|Centre-Val de Loire|60
+Saint-Cyr-sous-Dourdan|48.567|2.033|FR|Île-de-France|60
+Chitenay|47.498|1.371|FR|Centre-Val de Loire|60
+Cogny|45.987|4.625|FR|Auvergne-Rhône-Alpes|60
+Saint-Christophe-sur-le-Nais|47.617|0.478|FR|Centre-Val de Loire|60
+Tacoignières|48.836|1.675|FR|Île-de-France|60
+Arthon|46.694|1.699|FR|Centre-Val de Loire|60
+Azay-le-Ferron|46.851|1.071|FR|Centre-Val de Loire|60
+Égriselles-le-Bocage|48.121|3.182|FR|Bourgogne-Franche-Comté|60

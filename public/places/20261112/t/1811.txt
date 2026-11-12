@@ -1,0 +1,460 @@
+San Jose|37.339|-121.895|US|California|120
+San Francisco|37.775|-122.419|US|California|118
+Sacramento|38.582|-121.494|US|California|114
+Oakland|37.804|-122.271|US|California|112
+Stockton|37.958|-121.291|US|California|110
+Fremont|37.548|-121.989|US|California|107
+Modesto|37.639|-120.997|US|California|106
+Santa Rosa|38.440|-122.714|US|California|105
+Elk Grove|38.409|-121.372|US|California|104
+Hayward|37.669|-122.081|US|California|104
+Salinas|36.678|-121.656|US|California|104
+Sunnyvale|37.369|-122.036|US|California|104
+Roseville|38.752|-121.288|US|California|102
+Concord|37.978|-122.031|US|California|102
+Santa Clara|37.354|-121.955|US|California|102
+Vallejo|38.104|-122.257|US|California|102
+Chico|39.728|-121.837|US|California|102
+Berkeley|37.872|-122.273|US|California|102
+Fairfield|38.249|-122.040|US|California|101
+Antioch|38.005|-121.806|US|California|101
+Richmond|37.936|-122.348|US|California|101
+Daly City|37.706|-122.462|US|California|101
+San Mateo|37.563|-122.326|US|California|100
+Vacaville|38.357|-121.988|US|California|100
+Arden-Arcade|38.602|-121.379|US|California|99
+San Leandro|37.725|-122.156|US|California|99
+Livermore|37.682|-121.768|US|California|99
+Tracy|37.740|-121.426|US|California|99
+Citrus Heights|38.707|-121.281|US|California|99
+Redwood City|37.485|-122.236|US|California|99
+Merced|37.302|-120.483|US|California|98
+Mountain View|37.386|-122.084|US|California|98
+Napa|38.297|-122.286|US|California|98
+Pleasanton|37.662|-121.875|US|California|98
+Alameda|37.771|-122.261|US|California|98
+Milpitas|37.428|-121.907|US|California|98
+Folsom|38.678|-121.176|US|California|98
+San Ramon|37.780|-121.978|US|California|98
+Manteca|37.797|-121.216|US|California|98
+Union City|37.596|-122.019|US|California|97
+Turlock|37.495|-120.847|US|California|97
+Rancho Cordova|38.589|-121.303|US|California|97
+Pittsburg|38.028|-121.885|US|California|97
+Walnut Creek|37.906|-122.065|US|California|97
+Davis|38.545|-121.741|US|California|97
+South San Francisco|37.655|-122.408|US|California|97
+Yuba City|39.140|-121.617|US|California|97
+Palo Alto|37.442|-122.143|US|California|97
+Lodi|38.130|-121.272|US|California|96
+Santa Cruz|36.974|-122.031|US|California|96
+Madera|36.961|-120.061|US|California|96
+Carmichael|38.617|-121.328|US|California|96
+Castro Valley|37.694|-122.086|US|California|96
+Rocklin|38.791|-121.236|US|California|96
+Cupertino|37.323|-122.032|US|California|96
+Petaluma|38.232|-122.637|US|California|96
+San Rafael|37.974|-122.531|US|California|95
+Brentwood|37.932|-121.696|US|California|95
+Woodland|38.679|-121.773|US|California|95
+Dublin|37.702|-121.936|US|California|95
+Novato|38.107|-122.570|US|California|95
+Watsonville|36.910|-121.757|US|California|95
+Gilroy|37.006|-121.568|US|California|95
+West Sacramento|38.580|-121.530|US|California|94
+Lincoln|38.892|-121.293|US|California|94
+Ceres|37.595|-120.958|US|California|94
+Florin|38.496|-121.409|US|California|94
+San Luis Obispo|35.283|-120.660|US|California|94
+Antelope|38.708|-121.330|US|California|93
+Newark|37.530|-122.040|US|California|93
+Danville|37.822|-122.000|US|California|93
+San Bruno|37.630|-122.411|US|California|93
+Morgan Hill|37.130|-121.654|US|California|93
+North Highlands|38.686|-121.372|US|California|93
+Rohnert Park|38.340|-122.701|US|California|93
+El Dorado Hills|38.686|-121.082|US|California|92
+Campbell|37.287|-121.950|US|California|92
+Oakley|37.997|-121.712|US|California|92
+Pacifica|37.614|-122.487|US|California|92
+Martinez|38.019|-122.134|US|California|92
+Hollister|36.852|-121.402|US|California|91
+Los Banos|37.058|-120.850|US|California|91
+Bayview-Hunters Point|37.729|-122.381|US|California|91
+Pleasant Hill|37.948|-122.061|US|California|91
+Orangevale|38.679|-121.226|US|California|91
+Foster City|37.559|-122.271|US|California|90
+Menlo Park|37.454|-122.182|US|California|90
+Foothill Farms|38.679|-121.351|US|California|90
+Seaside|36.611|-121.852|US|California|90
+Saratoga|37.264|-122.023|US|California|90
+Fair Oaks|38.645|-121.272|US|California|90
+Los Gatos|37.227|-121.975|US|California|90
+Los Altos|37.385|-122.114|US|California|90
+Burlingame|37.584|-122.366|US|California|90
+San Pablo|37.962|-122.346|US|California|90
+San Carlos|37.507|-122.261|US|California|90
+Atascadero|35.489|-120.671|US|California|89
+East Palo Alto|37.469|-122.141|US|California|89
+Atwater|37.348|-120.609|US|California|89
+Monterey|36.600|-121.895|US|California|89
+Benicia|38.049|-122.159|US|California|89
+Suisun|38.238|-122.040|US|California|89
+Windsor|38.547|-122.816|US|California|89
+Belmont|37.520|-122.276|US|California|89
+Paso Robles|35.627|-120.691|US|California|89
+Agua Caliente|38.324|-122.488|US|California|89
+Paradise|39.760|-121.622|US|California|88
+Lafayette|37.886|-122.118|US|California|88
+Hercules|38.017|-122.289|US|California|88
+Galt|38.255|-121.300|US|California|88
+Soledad|36.425|-121.326|US|California|88
+Vineyard|38.464|-121.347|US|California|88
+Riverbank|37.736|-120.935|US|California|88
+El Cerrito|37.916|-122.312|US|California|87
+San Lorenzo|37.674|-122.133|US|California|87
+Millbrae|37.599|-122.387|US|California|87
+Rosemont|38.552|-121.365|US|California|87
+Oakdale|37.767|-120.847|US|California|87
+Ashland|37.695|-122.114|US|California|87
+Bay Point|38.029|-121.962|US|California|87
+Patterson|37.472|-121.130|US|California|87
+Marina|36.684|-121.802|US|California|87
+Lathrop|37.823|-121.277|US|California|86
+American Canyon|38.175|-122.261|US|California|86
+Granite Bay|38.763|-121.164|US|California|86
+Albany|37.887|-122.298|US|California|86
+Dixon|38.445|-121.823|US|California|86
+Orinda|37.877|-122.180|US|California|86
+Pinole|38.004|-122.299|US|California|86
+Chowchilla|37.123|-120.260|US|California|85
+Cameron Park|38.669|-120.987|US|California|85
+Arroyo Grande|35.119|-120.591|US|California|85
+Linda|39.128|-121.551|US|California|85
+Prunedale|36.776|-121.670|US|California|85
+Moraga|37.835|-122.130|US|California|85
+Greenfield|36.321|-121.244|US|California|85
+Live Oak|36.984|-121.981|US|California|85
+Nipomo|35.043|-120.476|US|California|84
+Coalinga|36.140|-120.360|US|California|84
+Truckee|39.328|-120.183|US|California|84
+Oroville|39.514|-121.558|US|California|84
+Ukiah|39.150|-123.208|US|California|84
+Pacific Grove|36.618|-121.917|US|California|84
+South Yuba City|39.117|-121.639|US|California|84
+Clearlake|38.958|-122.626|US|California|84
+Ripon|37.742|-121.124|US|California|84
+Rio Linda|38.691|-121.449|US|California|84
+Cherryland|37.679|-122.103|US|California|83
+Parkway|38.496|-121.459|US|California|83
+Alamo|37.850|-122.032|US|California|83
+Kerman|36.724|-120.060|US|California|83
+Mill Valley|37.906|-122.545|US|California|83
+Los Osos|35.311|-120.832|US|California|83
+King City|36.213|-121.126|US|California|83
+Livingston|37.387|-120.724|US|California|83
+Stanford|37.424|-122.166|US|California|83
+Auburn|38.897|-121.077|US|California|83
+Salida|37.706|-121.085|US|California|83
+Olivehurst|39.095|-121.552|US|California|83
+Grover Beach|35.122|-120.621|US|California|83
+Discovery Bay|37.909|-121.600|US|California|83
+Avenal|36.004|-120.129|US|California|82
+North Auburn|38.931|-121.082|US|California|82
+Grass Valley|39.219|-121.061|US|California|82
+El Sobrante|37.977|-122.295|US|California|82
+Half Moon Bay|37.464|-122.429|US|California|82
+San Anselmo|37.975|-122.562|US|California|82
+Larkspur|37.934|-122.535|US|California|82
+Marysville|39.146|-121.591|US|California|82
+Scotts Valley|37.051|-122.015|US|California|82
+Clayton|37.941|-121.936|US|California|81
+Healdsburg|38.610|-122.869|US|California|81
+Emeryville|37.831|-122.285|US|California|81
+Hillsborough|37.574|-122.379|US|California|81
+Mendota|36.754|-120.382|US|California|81
+Piedmont|37.824|-122.232|US|California|81
+Magalia|39.812|-121.578|US|California|81
+Diamond Springs|38.695|-120.815|US|California|81
+Sonoma|38.292|-122.458|US|California|81
+Newman|37.314|-121.021|US|California|81
+La Riviera|38.567|-121.357|US|California|81
+Delhi|37.432|-120.779|US|California|81
+Tamalpais-Homestead Valley|37.878|-122.536|US|California|81
+Placerville|38.730|-120.799|US|California|81
+Garden Acres|37.964|-121.229|US|California|81
+Morro Bay|35.366|-120.850|US|California|81
+Winton|37.389|-120.613|US|California|81
+Capitola|36.975|-121.953|US|California|80
+Fairview|37.679|-122.046|US|California|80
+Corte Madera|37.925|-122.527|US|California|80
+Mountain House|37.783|-121.543|US|California|80
+Soquel|36.988|-121.957|US|California|80
+Blackhawk|37.821|-121.908|US|California|79
+Rio Del Mar|36.968|-121.900|US|California|79
+Tiburon|37.874|-122.457|US|California|79
+Larkfield-Wikiup|38.513|-122.751|US|California|79
+Waterford|37.641|-120.760|US|California|79
+Cloverdale|38.805|-123.017|US|California|79
+Rodeo|38.033|-122.267|US|California|79
+Live Oak|39.276|-121.660|US|California|79
+Gonzales|36.507|-121.444|US|California|79
+August|37.979|-121.262|US|California|78
+Rio Vista|38.164|-121.696|US|California|78
+Firebaugh|36.859|-120.456|US|California|78
+East Foothills|37.381|-121.817|US|California|78
+Pismo Beach|35.143|-120.641|US|California|78
+Gold River|38.626|-121.247|US|California|78
+Sebastopol|38.402|-122.824|US|California|78
+Templeton|35.550|-120.706|US|California|78
+Fairfax|37.987|-122.589|US|California|78
+Orland|39.747|-122.196|US|California|78
+Corning|39.928|-122.179|US|California|78
+Escalon|37.798|-120.998|US|California|78
+Cotati|38.327|-122.707|US|California|77
+Hughson|37.597|-120.866|US|California|77
+Interlaken|36.951|-121.734|US|California|77
+Fort Bragg|39.446|-123.805|US|California|77
+Oceano|35.099|-120.612|US|California|77
+Atherton|37.461|-122.198|US|California|77
+Sausalito|37.859|-122.485|US|California|77
+Winters|38.525|-121.971|US|California|77
+San Martin|37.085|-121.610|US|California|77
+Ione|38.353|-120.933|US|California|77
+Tamalpais Valley|37.880|-122.546|US|California|77
+Alta Sierra|39.142|-121.054|US|California|77
+Pollock Pines|38.762|-120.586|US|California|77
+Huron|36.203|-120.103|US|California|77
+Loomis|38.821|-121.193|US|California|77
+Boyes Hot Springs|38.314|-122.482|US|California|76
+Thermalito|39.511|-121.587|US|California|76
+Gridley|39.364|-121.694|US|California|76
+Kentfield|37.952|-122.557|US|California|76
+Castroville|36.766|-121.758|US|California|76
+Ben Lomond|37.089|-122.086|US|California|76
+Aptos|36.977|-121.899|US|California|76
+Lucas Valley-Marinwood|38.040|-122.576|US|California|76
+Willows|39.524|-122.194|US|California|76
+Cambria|35.564|-121.081|US|California|76
+Colusa|39.214|-122.009|US|California|75
+Plumas Lake|39.021|-121.558|US|California|75
+Saint Helena|38.505|-122.470|US|California|75
+Fruitridge Pocket|38.533|-121.456|US|California|75
+Gustine|37.258|-120.999|US|California|75
+South Oroville|39.481|-121.536|US|California|75
+West Modesto|37.618|-121.039|US|California|75
+Keyes|37.557|-120.915|US|California|75
+Hidden Valley Lake|38.808|-122.558|US|California|75
+Woodside|37.430|-122.254|US|California|75
+Durham|39.646|-121.800|US|California|75
+Elverta|38.714|-121.463|US|California|75
+Rancho Murieta|38.502|-121.095|US|California|75
+El Granada|37.503|-122.469|US|California|75
+Strawberry|37.897|-122.509|US|California|75
+Palermo|39.435|-121.538|US|California|75
+Contra Costa Centre|37.928|-122.058|US|California|75
+Waldon|37.926|-122.056|US|California|75
+Wilton|38.412|-121.272|US|California|75
+Calistoga|38.579|-122.580|US|California|75
+Saranap|37.885|-122.076|US|California|74
+Hilmar-Irwin|37.405|-120.850|US|California|74
+Williams|39.155|-122.149|US|California|74
+Tara Hills|37.994|-122.316|US|California|74
+Dos Palos|36.986|-120.627|US|California|74
+Kensington|37.910|-122.280|US|California|74
+Lake Wildwood|39.233|-121.201|US|California|74
+Boulder Creek|37.126|-122.122|US|California|74
+Twin Lakes|36.967|-121.998|US|California|74
+Willits|39.410|-123.356|US|California|74
+Sonora|37.984|-120.382|US|California|74
+Lakeport|39.043|-122.916|US|California|74
+Brisbane|37.681|-122.400|US|California|73
+Jackson|38.349|-120.774|US|California|73
+Portola Valley|37.384|-122.235|US|California|73
+Planada|37.291|-120.319|US|California|73
+Guerneville|38.502|-122.996|US|California|73
+Del Monte Forest|36.586|-121.947|US|California|73
+Rancho Calaveras|38.127|-120.858|US|California|73
+Shingle Springs|38.666|-120.926|US|California|73
+Carmel Valley Village|36.506|-121.766|US|California|73
+Denair|37.526|-120.797|US|California|73
+Santa Venetia|37.999|-122.525|US|California|73
+Emerald Lake Hills|37.465|-122.268|US|California|73
+Phoenix Lake|38.006|-120.307|US|California|73
+Empire|37.638|-120.902|US|California|72
+Broadmoor|37.687|-122.483|US|California|72
+Fetters Hot Springs-Agua Caliente|38.321|-122.487|US|California|72
+El Verano|38.298|-122.492|US|California|72
+Cool|38.887|-121.015|US|California|72
+Felton|37.051|-122.073|US|California|72
+Highlands-Baywood Park|37.523|-122.345|US|California|72
+San Joaquin|36.607|-120.189|US|California|72
+Bystrom|37.621|-120.986|US|California|72
+Woodbridge|38.154|-121.301|US|California|72
+Lake of the Pines|39.040|-121.057|US|California|72
+Carmel-by-the-Sea|36.555|-121.923|US|California|72
+Cottonwood|38.658|-121.971|US|California|72
+Arnold|38.255|-120.351|US|California|72
+Morada|38.039|-121.246|US|California|72
+Kings Beach|39.238|-120.027|US|California|72
+Vine Hill|38.009|-122.096|US|California|72
+Wheatland|39.010|-121.423|US|California|71
+North Richmond|37.959|-122.367|US|California|71
+Pacheco|37.984|-122.075|US|California|71
+Copperopolis|37.981|-120.642|US|California|71
+West Menlo Park|37.434|-122.203|US|California|71
+Somerset|38.648|-120.686|US|California|71
+Monte Sereno|37.236|-121.992|US|California|71
+Valley Springs|38.192|-120.829|US|California|71
+Amesti|36.964|-121.779|US|California|71
+Jamestown|37.953|-120.423|US|California|71
+Day Valley|37.036|-121.862|US|California|71
+French Camp|37.884|-121.271|US|California|71
+Kelseyville|38.978|-122.839|US|California|71
+North Lakeport|39.088|-122.905|US|California|70
+Forestville|38.474|-122.890|US|California|70
+East Richmond Heights|37.945|-122.314|US|California|70
+Seacliff|36.974|-121.916|US|California|70
+Loyola|37.351|-122.101|US|California|70
+Kennedy|37.930|-121.253|US|California|70
+Brooktrails|39.444|-123.385|US|California|70
+Lockeford|38.164|-121.150|US|California|70
+Meadow Vista|39.001|-121.022|US|California|70
+Nevada City|39.262|-121.018|US|California|70
+Mono Vista|37.998|-120.270|US|California|70
+Esparto|38.692|-122.017|US|California|70
+Moss Beach|37.527|-122.513|US|California|70
+Crockett|38.052|-122.213|US|California|70
+Clear Lake Riviera|38.954|-122.721|US|California|70
+Pajaro|36.904|-121.749|US|California|70
+Lucerne|39.090|-122.796|US|California|70
+Angwin|38.576|-122.450|US|California|70
+Arbuckle|39.017|-122.058|US|California|70
+Las Lomas|36.865|-121.735|US|California|70
+Yountville|38.402|-122.361|US|California|70
+Ridgemark|36.812|-121.366|US|California|70
+Rollingwood|37.965|-122.330|US|California|69
+Montara|37.542|-122.516|US|California|69
+Sutter|39.160|-121.753|US|California|69
+Montalvin|37.995|-122.333|US|California|69
+La Selva Beach|36.937|-121.865|US|California|69
+San Andreas|38.196|-120.680|US|California|69
+East Oakdale|37.788|-120.804|US|California|69
+Nice|39.123|-122.848|US|California|69
+Bonny Doon|37.042|-122.151|US|California|69
+Angels Camp|38.068|-120.540|US|California|69
+Marin City|37.869|-122.509|US|California|69
+Aromas|36.889|-121.643|US|California|68
+Parksdale|36.947|-120.023|US|California|68
+Cayucos|35.443|-120.892|US|California|68
+Penngrove|38.300|-122.667|US|California|68
+Hartley|38.417|-121.947|US|California|68
+Dogtown|38.214|-121.089|US|California|68
+East Quincy|39.934|-120.898|US|California|68
+Sutter Creek|38.393|-120.802|US|California|68
+Ross|37.962|-122.555|US|California|68
+Camp Meeker|38.425|-122.959|US|California|68
+Buckhorn|38.452|-120.529|US|California|68
+Lexington Hills|37.165|-121.973|US|California|68
+Lake Nacimiento|35.728|-120.880|US|California|68
+Sleepy Hollow|38.010|-122.584|US|California|68
+Mountain View|38.009|-122.117|US|California|68
+Loma Rica|39.312|-121.418|US|California|67
+Georgetown|38.907|-120.839|US|California|67
+San Miguel|35.752|-120.696|US|California|67
+Corralitos|36.989|-121.806|US|California|67
+Columbia|38.036|-120.401|US|California|67
+Parkwood|36.927|-120.045|US|California|67
+East Sonora|37.978|-120.361|US|California|67
+Twain Harte|38.040|-120.233|US|California|67
+Pine Grove|38.413|-120.659|US|California|67
+Soulsbyville|37.985|-120.264|US|California|67
+Murphys|38.138|-120.461|US|California|67
+Bethel Island|38.015|-121.641|US|California|67
+Belvedere|37.873|-122.464|US|California|67
+Colfax|39.101|-120.953|US|California|66
+Brookdale|37.106|-122.106|US|California|66
+San Juan Bautista|36.846|-121.538|US|California|66
+Collierville|38.215|-121.269|US|California|66
+Portola|39.810|-120.469|US|California|66
+Lagunitas-Forest Knolls|38.018|-122.691|US|California|65
+Linden|38.021|-121.084|US|California|65
+Tuolumne City|37.963|-120.241|US|California|65
+Cobb|38.822|-122.723|US|California|65
+Hamilton City|39.743|-122.014|US|California|65
+Bayview|38.007|-122.319|US|California|65
+Camino|38.738|-120.675|US|California|65
+Redwood Valley|39.265|-123.204|US|California|65
+Quincy|39.937|-120.946|US|California|65
+Boronda|36.699|-121.675|US|California|65
+Graton|38.436|-122.870|US|California|65
+Biggs|39.412|-121.713|US|California|65
+Del Rey Oaks|36.593|-121.835|US|California|65
+Le Grand|37.229|-120.248|US|California|64
+Mountain Ranch|38.228|-120.541|US|California|64
+Avila Beach|35.180|-120.732|US|California|64
+Green Valley|38.253|-122.162|US|California|64
+Biola|36.802|-120.016|US|California|64
+Penn Valley|39.196|-121.191|US|California|64
+Bolinas|37.909|-122.686|US|California|64
+South Dos Palos|36.964|-120.653|US|California|64
+Knightsen|37.969|-121.668|US|California|64
+Elkhorn|36.824|-121.740|US|California|64
+Sunnyside-Tahoe City|39.150|-120.161|US|California|64
+Monument Hills|38.664|-121.876|US|California|64
+Walnut Grove|38.242|-121.512|US|California|64
+Colma|37.677|-122.460|US|California|64
+Allendale|38.445|-121.943|US|California|64
+Foresthill|39.020|-120.818|US|California|63
+Fairmead|37.076|-120.193|US|California|63
+Temelec|38.267|-122.493|US|California|63
+Tahoe Vista|39.240|-120.051|US|California|63
+Ladera|37.400|-122.198|US|California|63
+Berry Creek|39.645|-121.403|US|California|63
+Dunnigan|38.885|-121.970|US|California|63
+Red Corral|38.412|-120.606|US|California|63
+Woodacre|38.013|-122.645|US|California|63
+Middletown|38.752|-122.615|US|California|62
+Beale Air Force Base|39.109|-121.354|US|California|62
+Black Point-Green Point|38.115|-122.513|US|California|62
+Sea Ranch|38.715|-123.454|US|California|62
+Inverness|38.101|-122.857|US|California|62
+Shandon|35.655|-120.375|US|California|62
+Lower Lake|38.910|-122.610|US|California|62
+Byron|37.867|-121.638|US|California|62
+Del Rio|37.744|-121.012|US|California|62
+Deer Park|38.533|-122.470|US|California|62
+Callender|35.053|-120.596|US|California|62
+Santa Margarita|35.390|-120.609|US|California|62
+Covelo|39.793|-123.249|US|California|62
+Forest Meadows|38.169|-120.407|US|California|62
+Sheridan|38.980|-121.376|US|California|62
+Eldridge|38.340|-122.509|US|California|62
+Laytonville|39.688|-123.483|US|California|62
+Newcastle|38.874|-121.133|US|California|62
+Dollar Point|39.188|-120.100|US|California|62
+Clay|38.336|-121.159|US|California|62
+Tahoma|39.067|-120.128|US|California|62
+Chualar|36.571|-121.519|US|California|62
+Forest Ranch|39.882|-121.673|US|California|61
+Herald|38.296|-121.244|US|California|61
+Diablo|37.835|-121.958|US|California|61
+Monte Rio|38.465|-123.009|US|California|61
+Challenge-Brownsville|39.464|-121.263|US|California|61
+Acalanes Ridge|37.905|-122.079|US|California|61
+Lompico|37.105|-122.053|US|California|61
+Cedar Ridge|38.066|-120.277|US|California|61
+Thornton|38.226|-121.425|US|California|61
+Talmage|39.133|-123.168|US|California|61
+Riverdale Park|37.610|-121.041|US|California|61
+Occidental|38.407|-122.948|US|California|61
+Maxwell|39.276|-122.191|US|California|61
+Pioneer|38.432|-120.572|US|California|61
+Bodega Bay|38.333|-123.048|US|California|61
+Upper Lake|39.165|-122.911|US|California|60
+Pasatiempo|37.004|-122.026|US|California|60
+Mount Hermon|37.051|-122.059|US|California|60
+Boonville|39.009|-123.366|US|California|60
+Kenwood|38.414|-122.546|US|California|60
+Soda Bay|39.001|-122.789|US|California|60
+Downieville|39.559|-120.827|US|California|49

@@ -1,0 +1,539 @@
+Guangzhou|23.117|113.250|CN|Guangdong|145
+Shenzhen|22.546|114.068|CN|Guangdong|145
+Dongguan|23.018|113.749|CN|Guangdong|140
+Foshan|23.027|113.131|CN|Guangdong|139
+Hong Kong|22.278|114.175|HK||137
+Bao'an|22.552|113.883|CN|Guangdong|133
+Zhongshan|22.523|113.379|CN|Guangdong|132
+Haikou|20.034|110.347|CN|Hainan|130
+Huizhou|23.111|114.415|CN|Guangdong|129
+Yunfu|22.928|112.038|CN|Guangdong|128
+Zhuhai|22.277|113.568|CN|Guangdong|127
+Jiangmen|22.583|113.083|CN|Guangdong|125
+Qingyuan|23.700|113.033|CN|Guangdong|125
+Zhaoqing|23.049|112.461|CN|Guangdong|124
+Zhanjiang|21.234|110.387|CN|Guangdong|123
+Lianjiang|21.647|110.282|CN|Guangdong|123
+Maoming|21.666|110.914|CN|Guangdong|122
+Yangjiang|21.856|111.963|CN|Guangdong|122
+Yulin|22.631|110.147|CN|Guangxi|120
+Shaoguan|24.800|113.583|CN|Guangdong|120
+Xinyi|22.373|110.947|CN|Guangdong|120
+Hezhou|24.404|111.567|CN|Guangxi|120
+Victoria|22.288|114.144|HK|Central and Western|120
+Wuchuan|21.457|110.766|CN|Guangdong|119
+Wuzhou|23.481|111.288|CN|Guangxi|118
+Changsha|22.381|112.685|CN|Guangdong|117
+Macau|22.201|113.546|MO||116
+Tuen Mun|22.392|113.972|HK|Tuen Mun|114
+Sha Tin|22.383|114.183|HK|Sha Tin|114
+Heyuan|23.733|114.683|CN|Guangdong|113
+Sham Shui Po|22.330|114.159|HK|Sham Shui Po District|113
+Wong Tai Sin|22.350|114.183|HK|Wong Tai Sin District|113
+Tseung Kwan O|22.328|114.250|HK|Sai Kung District|112
+Tanzhou|22.255|113.467|CN|Guangdong|112
+Kwai Chung|22.368|114.139|HK|Kwai Tsing District|110
+Tantou|22.751|113.835|CN|Guangdong|110
+Tsuen Wan|22.371|114.113|HK|Tsuen Wan|110
+Yangshuo|24.781|110.490|CN|Guangxi|110
+Gaozhou|21.920|110.857|CN|Guangdong|109
+Xiuying|20.001|110.294|CN|Hainan|109
+Tin Shui Wai|22.457|114.002|HK|Yuen Long|109
+Tai Po|22.450|114.169|HK|Tai Po|109
+Fanling|22.495|114.139|HK|North District|108
+Shijie|23.095|113.792|CN|Guangdong|108
+Longgang|22.723|114.263|CN|Guangdong|107
+Ma On Shan|22.406|114.241|HK|Sha Tin|107
+Daliang|22.841|113.250|CN|Guangdong|106
+Gongheyong|22.759|113.795|CN|Guangdong|106
+Yuen Long|22.445|114.026|HK|Yuen Long|106
+Yuen Long San Hui|22.433|114.033|HK|Yuen Long|106
+Beiliu|22.707|110.349|CN|Guangxi|106
+Humen|22.819|113.673|CN|Guangdong|106
+Jing’an|22.211|113.292|CN|Guangdong|105
+Tsing Yi Town|22.350|114.100|HK|Kwai Tsing District|105
+Licheng|23.295|113.825|CN|Guangdong|105
+Wan Chai|22.281|114.173|HK|Wan Chai|104
+Aberdeen|22.248|114.153|HK|Southern District|104
+Sanshui|23.155|112.892|CN|Guangdong|104
+Yangchun|22.167|111.783|CN|Guangdong|104
+Taishan|22.251|112.780|CN|Guangdong|103
+Shiqiao|22.946|113.358|CN|Guangdong|103
+Nantou|22.722|113.293|CN|Guangdong|102
+Santo António|22.202|113.544|CN|Guangdong|102
+Shajing|22.746|113.819|CN|Guangdong|102
+Danshui|22.798|114.467|CN|Guangdong|102
+Nossa Senhora de Fátima|22.208|113.548|CN|Guangdong|102
+Luoyang|23.162|114.273|CN|Guangdong|102
+Dasha|23.110|113.442|CN|Guangdong|101
+San Tung Chung Hang|22.279|113.943|HK|Islands|101
+Tung Chung|22.288|113.942|HK|Islands|101
+Pingshan|22.994|114.713|CN|Guangdong|101
+Maba|24.684|113.598|CN|Guangdong|101
+Taipa|22.156|113.557|MO|Our Lady of Carmo|101
+Encheng|22.187|112.304|CN|Guangdong|101
+Shilong|23.114|113.847|CN|Guangdong|101
+Shaping|22.770|112.958|CN|Guangdong|101
+Lubu|23.172|112.283|CN|Guangdong|100
+Ducheng|23.242|111.528|CN|Guangdong|100
+Lianzhou|24.782|112.371|CN|Guangdong|99
+Huazhou|21.633|110.583|CN|Guangdong|99
+Huaicheng|23.920|112.176|CN|Guangdong|99
+Qiongshan|20.009|110.354|CN|Hainan|99
+Nanfeng|23.727|111.797|CN|Guangdong|99
+Xucheng|20.330|110.166|CN|Guangdong|98
+Shiwan|23.001|113.077|CN|Guangdong|98
+Tangping|22.032|111.935|CN|Guangdong|98
+Xixiang|22.593|113.889|CN|Guangdong|98
+Shap Pat Heung|22.425|114.036|HK|Yuen Long|98
+Pok Fu Lam|22.269|114.129|HK|Southern District|98
+Maozhou|22.764|113.813|CN|Guangdong|97
+Nam Cheong|22.328|114.154|HK|Sham Shui Po District|97
+Shixing|24.948|114.066|CN|Guangdong|97
+Guiping|23.395|110.074|CN|Guangxi|97
+Babu|24.417|111.517|CN|Guangxi|96
+Mong Kok|22.319|114.171|HK|Yau Tsim Mong District|96
+Pingnan|23.542|110.389|CN|Guangxi|96
+Nandu|22.852|110.823|CN|Guangxi|96
+Siu Lek Yuen|22.382|114.213|HK|Sha Tin|95
+Jinji|23.228|110.826|CN|Guangxi|95
+Sau Mau Ping|22.320|114.235|HK|Kwun Tong District|95
+Sé|22.191|113.547|MO||94
+Tiu Keng Leng|22.299|114.251|HK|Kwun Tong District|94
+São Lourenço|22.189|113.535|CN|Guangdong|94
+LOHAS Park|22.293|114.272|HK|Sai Kung District|94
+Mei Foo|22.337|114.139|HK|Sham Shui Po District|93
+Ping Shan|22.441|114.006|HK|Yuen Long|93
+Kai Tak|22.324|114.197|HK|Kowloon City|93
+Jordan|22.305|114.170|HK|Yau Tsim Mong District|92
+Xili|22.588|113.948|CN|Guangdong|92
+Pat Heung|22.446|114.092|HK|Yuen Long|92
+Whampoa|22.305|114.190|HK|Kowloon City|92
+Choi Wan|22.334|114.214|HK|Wong Tai Sin District|92
+Kennedy Town|22.283|114.130|HK|Central and Western|92
+Shahe|22.552|113.979|CN|Guangdong|92
+Tsz Wan Shan|22.352|114.200|HK|Wong Tai Sin District|91
+Hang Hau|22.318|114.270|HK|Sai Kung District|91
+Luhuan|22.118|113.552|MO|Saint Francis Xavier|91
+Sai Kung|22.383|114.267|HK|Sai Kung District|91
+Tai Koo|22.284|114.216|HK|Eastern District|91
+Taikoo Shing|22.286|114.219|HK|Eastern District|91
+Yau Tong|22.296|114.236|HK|Kwun Tong District|91
+Tai Kok Tsui|22.321|114.163|HK|Yau Tsim Mong District|91
+São Lázaro|22.200|113.549|CN|Guangdong|90
+Shawei|22.520|114.034|CN|Guangdong|90
+Shek Lei|22.366|114.140|HK|Kwai Tsing District|90
+Yau Ma Tei|22.314|114.169|HK|Yau Tsim Mong District|89
+Nalong|22.037|112.209|CN|Guangdong|89
+Lower Wong Tai Sin Estate (I & II)|22.339|114.194|HK|Wong Tai Sin District|89
+South Horizons|22.244|114.148|HK|Southern District|89
+Leighton Hill|22.276|114.184|HK|Wan Chai|89
+Chuk Yuen|22.345|114.193|HK|Wong Tai Sin District|89
+Gangxia|22.540|114.061|CN|Guangdong|89
+Lei Tung|22.241|114.158|HK|Southern District|88
+Wah Fu|22.255|114.136|HK|Southern District|88
+Sham Tseng|22.367|114.050|HK|Tsuen Wan|88
+Shek Kip Mei Estate|22.334|114.165|HK|Sham Shui Po District|88
+Nantou|22.536|113.916|CN|Guangdong|88
+Tsim Sha Tsui|22.300|114.167|HK|Kowloon City|88
+Songgang|22.779|113.845|CN|Guangdong|88
+Zhuojiacun|22.161|113.556|MO|Our Lady of Carmo|88
+Wu Kai Sha|22.430|114.242|HK|Sha Tin|87
+Guanlong|22.588|113.944|CN|Guangdong|87
+Laguna City|22.306|114.229|HK|Kwun Tong District|87
+Shuen Wan|22.468|114.208|HK|Tai Po|87
+Fo Tan|22.398|114.193|HK|Sha Tin|87
+Lai Chi Van|22.120|113.551|MO|Saint Francis Xavier|87
+Kam Tin|22.441|114.060|HK|Yuen Long|87
+Tsz Ching Estate|22.351|114.201|HK|Wong Tai Sin District|87
+Ha Tsuen|22.447|113.992|HK|Yuen Long|86
+Sanjianzai|22.729|113.776|CN|Guangdong|86
+Tai Wo Hau|22.367|114.123|HK|Kwai Tsing District|86
+Chek Chue|22.218|114.212|HK|Southern District|86
+Shek O|22.233|114.251|HK|Southern District|86
+Sheung Shui|22.517|114.117|HK|North District|86
+Hong Lok Yuen|22.463|114.155|HK|Tai Po|86
+Fairview Park|22.467|114.048|HK|Yuen Long|86
+Ma Tau Wai|22.321|114.187|HK|Kowloon City|86
+Tai Wai|22.373|114.179|HK|Sha Tin|86
+Ho Man Tin|22.316|114.182|HK|Kowloon City|86
+Cheung Chau|22.211|114.028|HK|Islands|86
+Shui Chuen O|22.372|114.198|HK|Sha Tin|86
+San Tin|22.502|114.069|HK|Yuen Long|86
+Olympic|22.319|114.157|HK|Yau Tsim Mong District|86
+Discovery Bay|22.300|114.017|HK|Islands|86
+The Peak|22.262|114.156|HK|Central and Western|86
+Sung Wong Toi|22.325|114.191|HK|Kowloon City|86
+So Uk|22.341|114.157|HK|Sham Shui Po District|86
+Siu Sai Wan Estate|22.262|114.249|HK|Eastern District|85
+Sai Wan Ho|22.284|114.223|HK|Eastern District|85
+Shekou|22.494|113.916|CN|Guangdong|85
+Tak Long Estate|22.330|114.203|HK|Kowloon City|85
+Keng Hau|22.365|114.175|HK|Sha Tin|85
+Un Chau Estate|22.336|114.156|HK|Sham Shui Po District|85
+Lam Tin|22.309|114.236|HK|Kwun Tong District|85
+Wushipai|22.524|113.910|CN|Guangdong|85
+San Po Kong|22.335|114.197|HK|Wong Tai Sin District|85
+Hok Yuen|22.310|114.188|HK|Kowloon City|85
+Laguna Verde|22.307|114.191|HK|Kowloon City|85
+Shek Kip Mei|22.331|114.168|HK|Sham Shui Po District|85
+Heng Fa Chuen|22.277|114.241|HK|Eastern District|85
+Aldrich Bay|22.282|114.225|HK|Eastern District|85
+Choi Hung Estate|22.336|114.206|HK|Wong Tai Sin District|85
+Tai Shui Hang|22.406|114.224|HK|Sha Tin|85
+Wo Che|22.390|114.192|HK|Sha Tin|85
+Tai Mei Tuk|22.474|114.235|HK|Tai Po|85
+Kadoorie|22.322|114.176|HK|Kowloon City|85
+Oi Man Estate|22.312|114.179|HK|Kowloon City|85
+Discovery Park|22.376|114.111|HK|Tsuen Wan|85
+Fuyong|22.672|113.815|CN|Guangdong|85
+Ting Kau|22.370|114.079|HK|Tsuen Wan|85
+Wang Tau Hom|22.340|114.187|HK|Kowloon City|85
+Shenzhenwan|22.487|113.940|CN||85
+Pak Tin Estate|22.337|114.167|HK|Sham Shui Po District|85
+Tin Wan|22.251|114.147|HK|Southern District|85
+Zhuzilin|22.538|114.015|CN|Guangdong|85
+Kwun Tong|22.312|114.222|HK|Kwun Tong District|84
+Kam Ying|22.423|114.237|HK|Sha Tin|84
+San Tin|22.372|114.184|HK|Sha Tin|84
+Sun Tin Wai|22.371|114.187|HK|Sha Tin|84
+Sam Shing|22.381|113.979|HK|Tuen Mun|84
+Wong Chuk Hang|22.240|114.170|HK|Southern District|84
+Yeung Uk Tsuen|22.450|114.017|HK|Tsuen Wan|84
+Braemar Hill|22.283|114.200|HK|Eastern District|84
+Hoi Lai Estate|22.332|114.147|HK|Sham Shui Po District|84
+Mount Davis|22.279|114.118|HK|Central and Western|84
+Pok Hong|22.376|114.196|HK|Sha Tin|84
+Fu Cheong Estate|22.329|114.154|HK|Sham Shui Po District|84
+To Kwa Wan|22.317|114.191|HK|Kowloon City|84
+Lee On|22.426|114.241|HK|Sha Tin|84
+Butterfly|22.376|113.963|HK|Tuen Mun|84
+Prince Edward|22.324|114.179|HK|Kowloon City|84
+Fortress Hill|22.289|114.194|HK|Eastern District|84
+Mid Levels|22.284|114.150|HK|Central and Western|84
+Tung Tau Estate|22.332|114.193|HK|Wong Tai Sin District|84
+City One|22.387|114.203|HK|Sha Tin|84
+Houhai|22.512|113.925|CN|Guangdong|84
+City Garden|22.290|114.193|HK|Eastern District|84
+Yiu Tung Estate|22.278|114.223|HK|Eastern District|84
+Cheung Sha Wan|22.334|114.156|HK|Sham Shui Po District|84
+Yu Chui|22.381|114.205|HK|Sha Tin|83
+Shek Pai Wan Estate|22.249|114.158|HK|Southern District|83
+Ma’anshan|22.721|113.811|CN|Guangdong|83
+Choi Hung|22.335|114.206|HK|Wong Tai Sin District|83
+Che Ha|22.430|114.263|HK|Tai Po|83
+Sai Wan|22.281|114.126|HK|Central and Western|83
+So Kwun Wat|22.376|114.007|HK|Tuen Mun|83
+Jardine's Lookout|22.269|114.193|HK|Wan Chai|83
+Ma Wan|22.352|114.060|HK|Islands|83
+Ma Tau Kok|22.322|114.191|HK|Kowloon City|83
+Hing Wah Estate (I & II)|22.263|114.235|HK|Eastern District|83
+Kau Wa Keng|22.346|114.137|HK|Kwai Tsing District|83
+Qianhai Bay Area|22.536|113.887|CN|Guangdong|83
+Lok Fu|22.337|114.187|HK|Wong Tai Sin District|83
+Luk Yeung|22.374|114.119|HK|Tsuen Wan|83
+Yau Yat Chuen|22.331|114.174|HK|Sham Shui Po District|83
+Tung Tau Tsuen|22.453|114.029|HK|Yuen Long|83
+Hung Hom|22.307|114.185|HK|Kowloon City|83
+Tai Yuen Estate|22.456|114.170|HK|Tai Po|83
+Sai Ying Pun|22.290|114.142|HK|Central and Western|83
+Tin Hau|22.281|114.192|HK|Eastern District|83
+Fuk Loi|22.374|114.114|HK|Tsuen Wan|83
+Shau Kei Wan|22.278|114.229|HK|Eastern District|83
+Wah Kwai|22.251|114.140|HK|Southern District|82
+Happy Valley|22.269|114.186|HK|Wan Chai|82
+Kornhill|22.282|114.216|HK|Eastern District|82
+Wu King|22.376|113.965|HK|Tuen Mun|82
+Shuangjinhui|22.686|113.793|CN|Guangdong|82
+Causeway Bay|22.282|114.185|HK|Eastern District|82
+Tai Wo|22.452|114.161|HK|Tai Po|82
+Yuet Wu|22.375|113.968|HK|Tuen Mun|82
+Gushu|22.594|113.839|CN|Guangdong|82
+Mount Parker|22.266|114.218|HK|Eastern District|82
+Fangda Town|22.556|113.973|CN|Guangdong|82
+Siu Hei|22.374|113.967|HK|Tuen Mun|82
+Shek Wai Kok|22.375|114.124|HK|Tsuen Wan|82
+Upper Wong Tai Sin Estate|22.343|114.192|HK|Wong Tai Sin District|82
+Fung Tak Estate|22.344|114.201|HK|Wong Tai Sin District|82
+Lingxia|22.694|113.836|CN|Guangdong|82
+Wanfeng|22.723|113.826|CN|Guangdong|82
+Pak Shek Kok|22.427|114.204|HK|Sha Tin|82
+Ap Lei Chau Estate|22.245|114.151|HK|Southern District|82
+Kai Ching Estate|22.333|114.203|HK|Kowloon City|81
+Hung Shui Kiu|22.432|113.988|HK|Yuen Long|81
+Shatou Residential|22.528|114.043|CN|Guangdong|81
+Kwong Yuen|22.380|114.214|HK|Sha Tin|81
+Tai Mong Tsai|22.400|114.302|HK|Sai Kung District|81
+Tai Hang|22.279|114.192|HK|Eastern District|81
+Nanshan|22.538|113.939|CN|Guangdong|81
+Charming Garden|22.314|114.165|HK|Yau Tsim Mong District|81
+Lei Cheng Uk Estate|22.339|114.159|HK|Sham Shui Po District|81
+Quarry Bay|22.288|114.213|HK|Eastern District|81
+Central|22.283|114.158|HK|Central and Western|81
+Benggang|22.754|113.846|CN|Guangdong|81
+Botuofeinuochunshuian|22.546|113.974|CN|Guangdong|80
+Lai Tsui Court|22.334|114.155|HK|Sham Shui Po District|80
+Hongfa Centre|22.555|113.889|CN|Guangdong|80
+Tsui Chuk Garden|22.346|114.188|HK|Wong Tai Sin District|80
+Chi Fu Fa Yuen|22.256|114.139|HK|Southern District|80
+Yanhanshan|22.537|113.982|CN|Guangdong|80
+Yuehai Residential|22.514|113.929|CN|Guangdong|80
+Taoyuan|22.580|113.961|CN|Guangdong|80
+Baishizhou|22.537|113.962|CN|Guangdong|80
+Hoi Fu Court|22.316|114.165|HK|Yau Tsim Mong District|80
+Wan Tsui Estate|22.261|114.237|HK|Eastern District|80
+Jat Min Chuen|22.376|114.191|HK|Sha Tin|79
+Nanyuan Residential|22.541|114.095|CN|Guangdong|79
+Nanyou, Shenzhen|22.500|113.923|CN||79
+Gaoxin|22.548|113.941|CN|Guangdong|79
+Fullview Garden|22.263|114.252|HK|Eastern District|79
+Oi Tung Estate|22.282|114.228|HK|Eastern District|79
+Jiajinlong|22.547|113.906|CN|Guangdong|79
+Aojingchong|22.683|113.787|CN|Guangdong|79
+Island Resort|22.267|114.251|HK|Eastern District|79
+Anle Garden|22.582|113.899|CN|Guangdong|79
+Rhythm Garden|22.336|114.203|HK|Wong Tai Sin District|79
+Zaoxia|22.688|113.801|CN|Guangdong|79
+Caowei|22.623|113.840|CN|Guangdong|79
+Residence Bel-air|22.255|114.133|HK|Southern District|79
+Yuehai|22.548|113.947|CN|Guangdong|79
+Lok Man Sun Chuen|22.316|114.186|HK|Kowloon City|79
+Aldrich Garden|22.281|114.229|HK|Eastern District|79
+Kaiping|22.572|113.886|CN|Guangdong|79
+Gangsha|22.536|114.066|CN|Guangdong|79
+Lei Yue Mun|22.519|113.897|CN|Guangdong|78
+Dalingxia|22.543|114.004|CN|Guangdong|78
+Keji yuan|22.541|113.948|CN|Guangdong|78
+Nandong|22.718|113.834|CN|Guangdong|78
+Yue Wan Estate|22.266|114.241|HK|Eastern District|78
+Metro Harbour|22.324|114.160|HK|Yau Tsim Mong District|78
+Huangtian|22.629|113.839|CN|Guangdong|78
+Peng Chau|22.283|114.033|HK|Islands|78
+Changlingpi|22.601|114.007|CN|Guangdong|78
+Beizhoushan|22.526|113.976|CN|Guangdong|77
+Liuxiangdong|22.585|113.930|CN|Guangdong|77
+Minzhu|22.721|113.777|CN|Guangdong|77
+The Belcher's|22.285|114.133|HK|Central and Western|77
+Hoi Lok Court|22.328|114.149|HK|Sham Shui Po District|77
+Xinwucun|22.570|113.967|CN|Guangdong|77
+Niuwan|22.581|113.854|CN|Guangdong|77
+Fuhua|22.588|113.891|CN|Guangdong|77
+Ouzhou chengshi|22.556|113.965|CN|Guangdong|77
+Tsz Hong Estate|22.347|114.203|HK|Wong Tai Sin District|77
+Shangxing|22.732|113.830|CN|Guangdong|77
+Yuzaixue|22.497|113.872|CN|Guangdong|77
+Jiazhou|22.571|113.895|CN|Guangdong|77
+Nam Fung Sun Chuen|22.282|114.215|HK|Eastern District|77
+Tiegang|22.604|113.882|CN|Guangdong|77
+Chong Chien Court - Wyler Gardens|22.318|114.192|HK|Kowloon City|77
+Harbour Place|22.303|114.186|HK|Kowloon City|77
+Harmony Garden|22.266|114.249|HK|Eastern District|77
+Ka Wai Chuen|22.308|114.186|HK|Kowloon City|76
+Grand View Garden|22.341|114.208|HK|Wong Tai Sin District|76
+Lung Poon Court|22.342|114.200|HK|Wong Tai Sin District|76
+Banyan Garden|22.335|114.148|HK|Sham Shui Po District|76
+Lei King Wan|22.284|114.223|HK|Eastern District|76
+Zhuyuan|22.538|114.015|CN|Guangdong|76
+Zhongshan|22.547|113.918|CN|Guangdong|76
+Tsui Wan Estate|22.268|114.240|HK|Eastern District|76
+Tung Hei Court|22.280|114.219|HK|Eastern District|76
+Island Harbourview|22.318|114.157|HK|Yau Tsim Mong District|76
+Zhongxing|22.577|113.939|CN|Guangdong|76
+Lai Tak Tsuen|22.278|114.195|HK|Eastern District|76
+Nam Shan Estate|22.335|114.172|HK|Sham Shui Po District|76
+Chiwan|22.482|113.885|CN|Guangdong|76
+Lai Kok Estate|22.332|114.157|HK|Sham Shui Po District|76
+Kwun Lung Lau|22.280|114.128|HK|Central and Western|76
+Hing Tung Estate|22.282|114.219|HK|Eastern District|76
+Greenwood Terrace|22.267|114.235|HK|Eastern District|76
+Tin Ma Court|22.343|114.187|HK|Wong Tai Sin District|76
+Happy Harbour|22.547|113.887|CN|Guangdong|76
+Qiaotou Community|22.687|113.805|CN|Guangdong|76
+Pingzhou|22.566|113.847|CN|Guangdong|76
+Liberte|22.335|114.149|HK|Sham Shui Po District|76
+Siu Chik Sha|22.301|114.275|HK|Sai Kung District|76
+Yung Shue Wan|22.226|114.112|HK|Islands|76
+Hing Man Estate|22.267|114.233|HK|Eastern District|76
+Tangwei|22.704|113.804|CN|Guangdong|76
+Galaxia|22.341|114.202|HK|Wong Tai Sin District|76
+Tsz Man Estate|22.348|114.203|HK|Wong Tai Sin District|75
+Sorrento|22.306|114.162|HK|Yau Tsim Mong District|75
+Xiasha|22.654|113.817|CN|Guangdong|75
+Bitou|22.784|113.808|CN|Guangdong|75
+Kingsford Terrace|22.340|114.211|HK|Wong Tai Sin District|75
+Sky Tower|22.323|114.190|HK|Kowloon City|75
+Wuwu|22.545|113.957|CN|Guangdong|75
+The Pacifica|22.334|114.150|HK|Sham Shui Po District|75
+Fu Shan Estate|22.343|114.209|HK|Wong Tai Sin District|75
+Mui Wo Kau Tsuen|22.269|113.986|HK|Islands|75
+Cheerful Garden|22.263|114.251|HK|Eastern District|75
+Baguio Villa|22.262|114.134|HK|Southern District|75
+Ming Wah Dai Ha|22.278|114.231|HK|Eastern District|74
+Tung Wui Estate|22.332|114.194|HK|Wong Tai Sin District|74
+Healthy Village|22.291|114.206|HK|Eastern District|74
+Cullinan West|22.327|114.154|HK|Sham Shui Po District|74
+Yue On Court|22.243|114.157|HK|Southern District|74
+Sok Kwu Wan|22.205|114.132|HK|Islands|74
+Shazui|22.519|114.033|CN|Guangdong|74
+Heyi|22.714|113.785|CN|Guangdong|74
+Tung Yuk Court|22.282|114.227|HK|Eastern District|74
+Cosmopolitan Estate|22.322|114.162|HK|Yau Tsim Mong District|74
+Shenzhen|22.182|111.118|CN|Guangdong|74
+Yu'hu Bay|22.574|113.854|CN|Guangdong|74
+Parc Oasis|22.333|114.175|HK|Sham Shui Po District|74
+Huanggang|22.518|114.058|CN|Guangdong|74
+Jiuxiangling|22.588|113.951|CN|Guangdong|74
+Nai Chung|22.431|114.258|HK|Sha Tin|74
+Ngong Ping|22.256|113.904|HK|Islands|74
+Pui O|22.246|113.978|HK|Islands|74
+Sha Tau Kok|22.546|114.224|HK|North District|74
+Hailianting|22.534|114.001|CN|Guangdong|74
+Hongtianxin|22.708|113.849|CN|Guangdong|74
+Huangpu|22.715|113.839|CN|Guangdong|74
+Lougang|22.770|113.849|CN|Guangdong|74
+Mangrove Bay|22.528|113.964|CN|Guangdong|74
+Samsung Renjia|22.571|113.883|CN|Guangdong|74
+Sports Square|22.724|113.831|CN|Guangdong|74
+Weisi Science & Technology Garden|22.685|113.782|CN|Guangdong|74
+Chun Man Court|22.315|114.179|HK|Kowloon City|74
+Heping|22.694|113.791|CN|Guangdong|74
+Tangbian|22.616|113.840|CN|Guangdong|74
+Provident Centre|22.292|114.196|HK|Eastern District|74
+Baishixia|22.677|113.817|CN|Guangdong|74
+Grand Promenade|22.285|114.225|HK|Eastern District|74
+Park Avenue|22.316|114.163|HK|Yau Tsim Mong District|73
+Fortune Estate|22.336|114.154|HK|Sham Shui Po District|73
+Tai On Lau|22.283|114.222|HK|Eastern District|73
+The Long Beach|22.319|114.156|HK|Yau Tsim Mong District|73
+New Jade Garden|22.264|114.237|HK|Eastern District|73
+Lok Hin Terrace|22.264|114.241|HK|Eastern District|73
+Mei Tung Estate|22.333|114.190|HK|Wong Tai Sin District|73
+Grand Waterfront|22.319|114.194|HK|Kowloon City|73
+Royal Peninsula|22.305|114.185|HK|Kowloon City|73
+Aqua Marine|22.333|114.149|HK|Sham Shui Po District|73
+Buxin|22.586|113.895|CN|Guangdong|73
+Prosperous Garden|22.310|114.168|HK|Yau Tsim Mong District|72
+Broadview Court|22.243|114.166|HK|Southern District|72
+Defengwei|22.744|113.774|CN|Guangdong|72
+Zhongwu|22.626|113.840|CN|Guangdong|72
+Longjing|22.564|113.968|CN|Guangdong|72
+Shangwei Yuanxin|22.603|113.854|CN|Guangdong|72
+The Waterfront|22.305|114.163|HK|Yau Tsim Mong District|72
+King Shan Court|22.342|114.210|HK|Wong Tai Sin District|72
+Bedford Garden|22.290|114.205|HK|Eastern District|72
+Choi Fai Estate|22.335|114.218|HK|Wong Tai Sin District|72
+Xintian|22.558|113.940|CN|Guangdong|72
+Chak On Estate|22.340|114.165|HK|Sham Shui Po District|72
+Ka Lung Court|22.249|114.139|HK|Southern District|72
+The Central Park|22.317|114.162|HK|Yau Tsim Mong District|72
+Fortress Garden|22.287|114.194|HK|Eastern District|72
+Wing Cheong Estate|22.329|114.155|HK|Sham Shui Po District|71
+Chai Wan Estate|22.264|114.242|HK|Eastern District|71
+Fu Keung Court|22.340|114.185|HK|Wong Tai Sin District|71
+Lai On Estate|22.331|114.159|HK|Sham Shui Po District|71
+Tung Tao Court|22.282|114.225|HK|Eastern District|71
+Hoi Ying Estate|22.329|114.148|HK|Sham Shui Po District|71
+Mei King Mansion|22.316|114.190|HK|Kowloon City|71
+Hoi Tat Estate|22.330|114.149|HK|Sham Shui Po District|71
+Kai Tsui Court|22.262|114.251|HK|Eastern District|71
+Harbour Green|22.321|114.159|HK|Yau Tsim Mong District|70
+Shapu|22.781|113.825|CN|Guangdong|70
+Fung Wah Estate|22.261|114.231|HK|Eastern District|70
+Tai O|22.255|113.863|HK|Islands|70
+Celestial Heights|22.319|114.186|HK|Kowloon City|70
+The Latitude|22.333|114.197|HK|Wong Tai Sin District|70
+Tung Chun Court|22.278|114.222|HK|Eastern District|70
+Xin’an|22.573|113.916|CN|Guangdong|70
+Shabian|22.596|113.845|CN|Guangdong|70
+Mantin Heights|22.319|114.182|HK|Kowloon City|70
+Manhattan Hill|22.335|114.142|HK|Sham Shui Po District|70
+Yue Fai Court|22.250|114.157|HK|Southern District|70
+Huaqingbei|22.547|114.087|CN|Guangdong|70
+Tanglang|22.591|113.984|CN|Guangdong|70
+Pokfulam Gardens|22.258|114.138|HK|Southern District|70
+Metropole Building|22.291|114.199|HK|Eastern District|69
+Jiangbian|22.775|113.810|CN|Guangdong|69
+South Wave Court|22.245|114.166|HK|Southern District|69
+On Wo Yuen|22.317|114.191|HK|Kowloon City|69
+One Kai Tak|22.330|114.200|HK|Kowloon City|69
+Baimang|22.626|113.937|CN|Guangdong|69
+Cunzai|22.526|114.025|CN|Guangdong|69
+Yue Kwong Chuen|22.252|114.158|HK|Southern District|69
+Queen's Terrace|22.287|114.147|HK|Central and Western|68
+Healthy Gardens|22.292|114.204|HK|Eastern District|68
+The Merton|22.283|114.126|HK|Central and Western|68
+Qigang|22.640|113.826|CN|Guangdong|68
+Xiasha|22.529|114.021|CN|Guangdong|67
+Yuhexin|22.565|113.879|CN|Guangdong|67
+Lau Fau Shan|22.283|113.934|HK|Islands|67
+Huafu|22.555|114.065|CN|Guangdong|66
+Haikuotiankong|22.529|113.940|CN|Guangdong|66
+Jiuwei|22.650|113.857|CN|Guangdong|66
+Yabian|22.742|113.812|CN|Guangdong|66
+Ting Kok|22.473|114.220|HK|Tai Po|66
+Shouson Hill|22.248|114.180|HK|Southern District|65
+Qilong|22.601|113.896|CN|Guangdong|62
+Sanweicun|22.614|113.849|CN|Guangdong|62
+Zhongshang Garden|22.555|113.900|CN|Guangdong|62
+Zhuguang|22.574|113.956|CN|Guangdong|60
+Fozi'ao|22.649|113.832|CN|Guangdong|60
+Haihua Park (Southwest gate)|22.564|113.887|CN|Guangdong|60
+Niulanwo|22.634|113.953|CN|Guangdong|60
+Cotai|22.141|113.563|MO||50
+Babu|24.335|111.655|CN|Guangxi|0
+Cangwu|23.848|111.539|CN|Guangxi|0
+Cenxi|22.923|110.984|CN|Guangxi|0
+Chang’an|22.806|113.803|CN|Guangdong|0
+Changzhou|23.485|111.274|CN|Guangxi|0
+Chengxiang|24.747|114.525|CN|Jiangxi|0
+Chikan|21.271|110.359|CN|Guangdong|0
+Decheng|23.143|111.780|CN|Guangdong|0
+Dongcheng|21.882|112.010|CN|Guangdong|0
+Dongzhen|22.380|110.939|CN|Guangdong|0
+Fuchuan|24.814|111.291|CN|Guangxi|0
+Gaoyao|23.024|112.446|CN|Guangdong|0
+Gongcheng|24.834|110.824|CN|Guangxi|0
+Hexi|21.687|110.634|CN|Guangdong|0
+Huangpu|23.109|113.457|CN|Guangdong|0
+Jianghai|22.575|113.119|CN|Guangdong|0
+Jiangkou|23.439|111.497|CN|Guangdong|0
+Jiekou|23.550|113.581|CN|Guangdong|0
+Jinxiu|24.133|110.185|CN|Guangxi|0
+Leicheng|20.916|110.084|CN|Guangdong|0
+Leizhou|20.919|110.079|CN|Guangdong|0
+Lengshui|24.326|111.178|CN|Guangxi|0
+Lianjiang|22.590|113.076|CN|Guangdong|0
+Lipu|24.499|110.393|CN|Guangxi|0
+Longnan|24.905|114.797|CN|Jiangxi|0
+Longxu|23.417|111.233|CN|Guangxi|0
+Luocheng|22.770|111.569|CN|Guangdong|0
+Luogang|23.178|113.501|CN|Guangdong|0
+Luolun|24.322|111.068|CN|Guangxi|0
+Luozhou|21.606|110.277|CN|Guangdong|0
+Mazhang|21.276|110.322|CN|Guangdong|0
+Meilu|21.434|110.776|CN|Guangdong|0
+Mengshan|24.196|110.521|CN|Guangxi|0
+Nan’an|23.031|112.451|CN|Guangdong|0
+Nanhai|21.473|111.027|CN|Guangdong|0
+Nanjie|23.634|112.435|CN|Guangdong|0
+Pinggui|24.456|111.474|CN|Guangxi|0
+Pingle|24.636|110.638|CN|Guangxi|0
+Potou|21.268|110.435|CN|Guangdong|0
+Rongxian|22.858|110.551|CN|Guangxi|0
+Sanjiang|24.721|112.294|CN|Guangdong|0
+Shijiao|23.869|113.528|CN|Guangdong|0
+Shuidong|21.513|111.002|CN|Guangdong|0
+Shunde|22.801|113.292|CN|Guangdong|0
+Suicheng|21.380|110.251|CN|Guangdong|0
+Taihe|23.735|112.978|CN|Guangdong|0
+Tengzhou|23.380|110.934|CN|Guangxi|0
+Wanxiu|23.476|111.311|CN|Guangxi|0
+Wenquan|22.325|110.256|CN|Guangxi|0
+Wuzhi|24.322|111.233|CN|Guangxi|0
+Xinan|23.154|112.893|CN|Guangdong|0
+Xincheng|22.702|112.225|CN|Guangdong|0
+Yingcheng|24.166|113.413|CN|Guangdong|0
+Yuanshan|24.370|114.490|CN|Guangdong|0
+Yulin|22.655|110.178|CN|Guangxi|0
+Zhize|21.755|111.614|CN|Guangdong|0
+Zhongshan|24.529|111.297|CN|Guangxi|0

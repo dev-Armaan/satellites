@@ -1,0 +1,904 @@
+Columbus|39.961|-82.999|US|Ohio|119
+Charlotte|35.227|-80.843|US|North Carolina|119
+Lexington|37.989|-84.478|US|Kentucky|110
+Cincinnati|39.127|-84.514|US|Ohio|110
+Meads|38.413|-82.709|US|Kentucky|109
+Winston-Salem|36.100|-80.244|US|North Carolina|108
+Knoxville|35.961|-83.921|US|Tennessee|106
+Dayton|39.759|-84.192|US|Ohio|103
+High Point|35.956|-80.005|US|North Carolina|101
+Asheville|35.601|-82.554|US|North Carolina|100
+Concord|35.409|-80.582|US|North Carolina|99
+Gastonia|35.262|-81.187|US|North Carolina|97
+Johnson City|36.313|-82.353|US|Tennessee|96
+Hamilton|39.400|-84.561|US|Ohio|96
+Springfield|39.924|-83.809|US|Ohio|96
+Kettering|39.690|-84.169|US|Ohio|95
+Kingsport|36.548|-82.562|US|Tennessee|94
+Huntersville|35.411|-80.843|US|North Carolina|94
+Middletown|39.515|-84.398|US|Ohio|94
+Huntington|38.419|-82.445|US|West Virginia|94
+Charleston|38.350|-81.633|US|West Virginia|93
+Beavercreek|39.709|-84.063|US|Ohio|93
+Kannapolis|35.487|-80.622|US|North Carolina|93
+Blacksburg|37.230|-80.414|US|Virginia|93
+Cleveland|35.160|-84.877|US|Tennessee|93
+Fairfield|39.346|-84.561|US|Ohio|93
+Covington|39.084|-84.509|US|Kentucky|92
+Hickory|35.733|-81.341|US|North Carolina|92
+Lancaster|39.714|-82.599|US|Ohio|92
+Grove City|39.881|-83.093|US|Ohio|92
+Huber Heights|39.844|-84.125|US|Ohio|92
+Reynoldsburg|39.955|-82.812|US|Ohio|91
+Indian Trail|35.077|-80.669|US|North Carolina|91
+Mooresville|35.585|-80.810|US|North Carolina|91
+Richmond|39.829|-84.890|US|Indiana|91
+Upper Arlington|39.995|-83.062|US|Ohio|91
+Salisbury|35.671|-80.474|US|North Carolina|91
+Richmond|37.748|-84.295|US|Kentucky|91
+Fairborn|39.821|-84.019|US|Ohio|90
+Mason|39.360|-84.310|US|Ohio|90
+Georgetown|38.210|-84.559|US|Kentucky|90
+Florence|38.999|-84.627|US|Kentucky|90
+Parkersburg|39.267|-81.562|US|West Virginia|90
+Matthews|35.117|-80.724|US|North Carolina|90
+Nicholasville|37.881|-84.573|US|Kentucky|89
+Morristown|36.214|-83.295|US|Tennessee|89
+Oak Ridge|36.010|-84.270|US|Tennessee|89
+Maryville|35.756|-83.970|US|Tennessee|89
+Frankfort|38.201|-84.873|US|Kentucky|89
+Cornelius|35.487|-80.860|US|North Carolina|89
+Thomasville|35.883|-80.082|US|North Carolina|89
+Independence|38.943|-84.544|US|Kentucky|89
+Bristol|36.595|-82.189|US|Tennessee|89
+Statesville|35.783|-80.887|US|North Carolina|88
+Xenia|39.685|-83.930|US|Ohio|88
+Mint Hill|35.180|-80.647|US|North Carolina|88
+Zanesville|39.940|-82.013|US|Ohio|88
+Salem|37.293|-80.055|US|Virginia|88
+Athens|39.329|-82.101|US|Ohio|88
+Riverside|39.780|-84.124|US|Ohio|88
+Cave Spring|37.228|-80.013|US|Virginia|88
+Trotwood|39.797|-84.311|US|Ohio|88
+Centerville|39.628|-84.159|US|Ohio|88
+Kernersville|36.120|-80.074|US|North Carolina|88
+Oxford|39.507|-84.745|US|Ohio|87
+Christiansburg|37.130|-80.409|US|Virginia|87
+Farragut|35.885|-84.154|US|Tennessee|87
+Chillicothe|39.333|-82.982|US|Ohio|87
+Ashland|38.478|-82.638|US|Kentucky|86
+Lebanon|39.435|-84.203|US|Ohio|86
+Portsmouth|38.732|-82.998|US|Ohio|86
+Shelby|35.292|-81.536|US|North Carolina|86
+Miamisburg|39.643|-84.287|US|Ohio|86
+Norwood|39.156|-84.460|US|Ohio|86
+Clemmons|36.022|-80.382|US|North Carolina|86
+Pickerington|39.884|-82.754|US|Ohio|86
+Lexington|35.824|-80.253|US|North Carolina|86
+White Oak|39.213|-84.599|US|Ohio|86
+Erlanger|39.017|-84.601|US|Kentucky|85
+Fairmont|39.485|-80.143|US|West Virginia|85
+Whitehall|39.967|-82.885|US|Ohio|85
+Forest Park|39.290|-84.504|US|Ohio|85
+Winchester|37.990|-84.180|US|Kentucky|85
+Springboro|39.552|-84.233|US|Ohio|85
+Boone|36.217|-81.675|US|North Carolina|85
+Lenoir|35.914|-81.539|US|North Carolina|85
+Radford|37.132|-80.576|US|Virginia|85
+Bristol|36.596|-82.188|US|Virginia|85
+Beckley|37.778|-81.188|US|West Virginia|85
+Morganton|35.745|-81.685|US|North Carolina|84
+Danville|37.646|-84.772|US|Kentucky|84
+Sevierville|35.868|-83.562|US|Tennessee|84
+Fort Thomas|39.075|-84.447|US|Kentucky|84
+Clarksburg|39.281|-80.345|US|West Virginia|84
+Albemarle|35.350|-80.200|US|North Carolina|84
+Burlington|39.028|-84.724|US|Kentucky|84
+Newport|39.091|-84.496|US|Kentucky|84
+Stallings|35.091|-80.686|US|North Carolina|84
+Pataskala|39.996|-82.674|US|Ohio|84
+Vandalia|39.891|-84.199|US|Ohio|84
+Greeneville|36.163|-82.831|US|Tennessee|84
+Berea|37.569|-84.296|US|Kentucky|83
+Harrisburg|35.324|-80.658|US|North Carolina|83
+Bridgetown|39.153|-84.637|US|Ohio|83
+Mount Holly|35.298|-81.016|US|North Carolina|83
+Washington Court House|39.536|-83.439|US|Ohio|83
+Marietta|39.415|-81.455|US|Ohio|83
+Circleville|39.601|-82.946|US|Ohio|83
+Hendersonville|35.319|-82.461|US|North Carolina|83
+Sharonville|39.268|-84.413|US|Ohio|83
+Elizabethton|36.349|-82.211|US|Tennessee|83
+Athens|35.443|-84.593|US|Tennessee|83
+Fort Mill|35.007|-80.945|US|South Carolina|83
+Bexley|39.969|-82.938|US|Ohio|83
+Lewisville|36.097|-80.419|US|North Carolina|83
+Englewood|39.878|-84.302|US|Ohio|83
+Monroe|39.440|-84.362|US|Ohio|83
+West Carrollton City|39.672|-84.252|US|Ohio|82
+Teays Valley|38.450|-81.929|US|West Virginia|82
+Clayton|39.863|-84.361|US|Ohio|82
+South Charleston|38.368|-81.700|US|West Virginia|82
+Newton|35.670|-81.221|US|North Carolina|82
+Finneytown|39.200|-84.520|US|Ohio|82
+Loveland|39.269|-84.264|US|Ohio|82
+Gaffney|35.072|-81.650|US|South Carolina|82
+Wilmington|39.445|-83.829|US|Ohio|82
+Trenton|39.481|-84.458|US|Ohio|82
+Davidson|35.502|-80.839|US|North Carolina|82
+Blue Ash|39.232|-84.378|US|Ohio|82
+Monfort Heights|39.188|-84.595|US|Ohio|82
+Franklin|39.559|-84.304|US|Ohio|81
+Goshen|39.233|-84.161|US|Ohio|81
+Mack|39.158|-84.650|US|Ohio|81
+Somerset|37.092|-84.604|US|Kentucky|81
+Shiloh|39.819|-84.229|US|Ohio|81
+Springdale|39.287|-84.485|US|Ohio|81
+Lawrenceburg|38.037|-84.897|US|Kentucky|81
+Saint Albans|38.386|-81.836|US|West Virginia|81
+Seymour|35.891|-83.725|US|Tennessee|81
+Ironton|38.537|-82.683|US|Ohio|81
+Lincolnton|35.474|-81.255|US|North Carolina|81
+Kings Mountain|35.245|-81.341|US|North Carolina|81
+Middlesboro|36.608|-83.717|US|Kentucky|81
+Northbrook|39.246|-84.584|US|Ohio|81
+Vienna|39.327|-81.548|US|West Virginia|80
+Belmont|35.243|-81.037|US|North Carolina|80
+Forestville|39.075|-84.345|US|Ohio|80
+Weddington|35.022|-80.761|US|North Carolina|80
+Montgomery|39.228|-84.354|US|Ohio|80
+Dent|39.186|-84.651|US|Ohio|80
+Mount Airy|36.499|-80.607|US|North Carolina|80
+Reading|39.224|-84.442|US|Ohio|80
+Bluefield|37.270|-81.222|US|West Virginia|80
+London|39.886|-83.448|US|Ohio|80
+Clinton|36.103|-84.132|US|Tennessee|80
+Cross Lanes|38.420|-81.791|US|West Virginia|80
+Tipp City|39.958|-84.172|US|Ohio|80
+Harrison|39.262|-84.820|US|Ohio|80
+Bloomingdale|36.585|-82.489|US|Tennessee|80
+Paris|38.210|-84.253|US|Kentucky|80
+Waynesville|35.489|-82.989|US|North Carolina|80
+Tega Cay|35.024|-81.028|US|South Carolina|80
+Chuckey|36.216|-82.688|US|Tennessee|80
+North College Hill|39.218|-84.551|US|Ohio|79
+Alcoa|35.790|-83.974|US|Tennessee|79
+Beckett Ridge|39.347|-84.435|US|Ohio|79
+Versailles|38.053|-84.730|US|Kentucky|79
+Lenoir City|35.797|-84.256|US|Tennessee|79
+Oakwood|39.725|-84.174|US|Ohio|79
+Oakbrook|39.000|-84.685|US|Kentucky|79
+Lincoln Village|39.955|-83.131|US|Ohio|79
+Alexandria|38.960|-84.388|US|Kentucky|79
+Madeira|39.191|-84.364|US|Ohio|79
+Pulaski|37.048|-80.780|US|Virginia|79
+Lake Wylie|35.108|-81.043|US|South Carolina|79
+Maysville|38.641|-83.744|US|Kentucky|79
+Edgewood|39.019|-84.582|US|Kentucky|79
+Saint Stephens|35.765|-81.273|US|North Carolina|79
+Moundsville|39.920|-80.743|US|West Virginia|79
+Blacklick Estates|39.905|-82.864|US|Ohio|79
+Elsmere|39.013|-84.605|US|Kentucky|79
+Jefferson City|36.122|-83.492|US|Tennessee|79
+Northridge|39.808|-84.197|US|Ohio|79
+Pineville|35.083|-80.892|US|North Carolina|79
+Wyoming|39.231|-84.466|US|Ohio|78
+Harrodsburg|37.762|-84.843|US|Kentucky|78
+Bridgeport|39.286|-80.256|US|West Virginia|78
+Wesley Chapel|35.007|-80.675|US|North Carolina|78
+Fort Mitchell|39.059|-84.547|US|Kentucky|78
+Cheviot|39.157|-84.613|US|Ohio|78
+Black Mountain|35.618|-82.321|US|North Carolina|78
+Conover|35.707|-81.219|US|North Carolina|78
+Boiling Springs|35.047|-81.982|US|South Carolina|78
+Eaton|39.744|-84.637|US|Ohio|78
+Oak Hill|37.972|-81.149|US|West Virginia|78
+London|37.129|-84.083|US|Kentucky|78
+Abingdon|36.710|-81.977|US|Virginia|78
+Wytheville|36.948|-81.085|US|Virginia|78
+Francisville|39.105|-84.724|US|Kentucky|78
+Marion|35.684|-82.009|US|North Carolina|78
+Canal Winchester|39.843|-82.805|US|Ohio|78
+Brevard|35.233|-82.734|US|North Carolina|78
+Dunbar|38.361|-81.737|US|West Virginia|78
+Fletcher|35.431|-82.501|US|North Carolina|78
+Northridge|39.992|-83.779|US|Ohio|78
+Villa Hills|39.063|-84.593|US|Kentucky|77
+LaFollette|36.383|-84.120|US|Tennessee|77
+Corbin|36.949|-84.097|US|Kentucky|77
+Northgate|39.253|-84.592|US|Ohio|77
+Flatwoods|38.523|-82.717|US|Kentucky|77
+Grandview Heights|39.980|-83.041|US|Ohio|77
+Forest City|35.334|-81.865|US|North Carolina|77
+Dry Run|39.104|-84.330|US|Ohio|77
+Mount Sterling|38.056|-83.943|US|Kentucky|77
+Highland Heights|39.033|-84.452|US|Kentucky|77
+Mills River|35.388|-82.567|US|North Carolina|77
+Logan|39.540|-82.407|US|Ohio|77
+King|36.281|-80.359|US|North Carolina|77
+Bellbrook|39.636|-84.071|US|Ohio|77
+Morehead|38.184|-83.433|US|Kentucky|77
+Withamsville|39.062|-84.288|US|Ohio|77
+Pikeville|37.479|-82.519|US|Kentucky|77
+Fairfield Glade|36.000|-84.886|US|Tennessee|77
+Kenwood|39.211|-84.367|US|Ohio|77
+Etowah|35.318|-82.594|US|North Carolina|77
+Colonial Heights|36.485|-82.503|US|Tennessee|77
+Galax|36.661|-80.924|US|Virginia|77
+South Cleveland|35.106|-84.890|US|Tennessee|77
+Milford|39.175|-84.294|US|Ohio|77
+Newport|35.967|-83.188|US|Tennessee|77
+Groesbeck|39.223|-84.587|US|Ohio|77
+Landen|39.312|-84.283|US|Ohio|77
+Taylor Mill|38.998|-84.496|US|Kentucky|77
+Nitro|38.415|-81.844|US|West Virginia|77
+Church Hill|36.522|-82.713|US|Tennessee|77
+Pea Ridge|38.414|-82.320|US|West Virginia|76
+Hillsboro|39.202|-83.612|US|Ohio|76
+Unionville|35.087|-80.509|US|North Carolina|76
+Hurricane|38.433|-82.020|US|West Virginia|76
+Belpre|39.274|-81.573|US|Ohio|76
+Union|39.898|-84.306|US|Ohio|76
+Covedale|39.121|-84.606|US|Ohio|76
+Geneva|39.662|-82.433|US|Ohio|76
+Wheelersburg|38.730|-82.855|US|Ohio|76
+Cynthiana|38.390|-84.294|US|Kentucky|76
+Moraine|39.706|-84.219|US|Ohio|76
+Woodfin|35.633|-82.582|US|North Carolina|76
+Walnut Hills|39.127|-84.484|US|Ohio|76
+Valley Falls|35.016|-81.975|US|South Carolina|76
+Wilmore|37.862|-84.662|US|Kentucky|76
+Jackson|39.052|-82.637|US|Ohio|76
+Cullowhee|35.314|-83.177|US|North Carolina|76
+Harriman|35.934|-84.552|US|Tennessee|76
+Pigeon Forge|35.788|-83.554|US|Tennessee|76
+Cold Spring|39.022|-84.440|US|Kentucky|76
+Monticello|36.830|-84.849|US|Kentucky|76
+Mount Healthy|39.234|-84.546|US|Ohio|76
+Princeton|37.366|-81.103|US|West Virginia|76
+Erwin|36.145|-82.417|US|Tennessee|76
+Cherryville|35.379|-81.379|US|North Carolina|76
+Marion|36.835|-81.515|US|Virginia|76
+Sweetwater|35.601|-84.461|US|Tennessee|75
+Hebron|39.066|-84.701|US|Kentucky|75
+Brookville|39.837|-84.411|US|Ohio|75
+Bellevue|39.106|-84.479|US|Kentucky|75
+Kingston|35.881|-84.509|US|Tennessee|75
+The Village of Indian Hill|39.179|-84.335|US|Ohio|75
+Union|38.946|-84.680|US|Kentucky|75
+Tellico Village|35.683|-84.255|US|Tennessee|75
+Fort Wright|39.052|-84.534|US|Kentucky|75
+Clover|35.111|-81.226|US|South Carolina|75
+Groveport|39.878|-82.884|US|Ohio|75
+Loudon|35.733|-84.334|US|Tennessee|75
+Bright|39.218|-84.856|US|Indiana|75
+New Carlisle|39.936|-84.025|US|Ohio|75
+Deer Park|39.205|-84.395|US|Ohio|75
+Buckhannon|38.994|-80.232|US|West Virginia|75
+Big Stone Gap|36.882|-82.747|US|Virginia|75
+Bessemer City|35.285|-81.284|US|North Carolina|75
+Richlands|37.093|-81.794|US|Virginia|75
+Germantown|39.626|-84.369|US|Ohio|75
+Wellston|39.123|-82.533|US|Ohio|75
+Dayton|39.113|-84.473|US|Kentucky|75
+Mount Carmel|36.545|-82.661|US|Tennessee|75
+Rockwood|35.866|-84.685|US|Tennessee|75
+Hidden Valley|39.162|-84.843|US|Indiana|75
+Hazard|37.250|-83.193|US|Kentucky|75
+South Gastonia|35.219|-81.206|US|North Carolina|75
+Williamsburg|36.743|-84.160|US|Kentucky|74
+Jonesborough|36.294|-82.473|US|Tennessee|74
+Bluefield|37.253|-81.271|US|Virginia|74
+Carlisle|39.582|-84.320|US|Ohio|74
+Delhi Hills|39.093|-84.613|US|Ohio|74
+New Martinsville|39.645|-80.858|US|West Virginia|74
+Nelsonville|39.459|-82.232|US|Ohio|74
+Mocksville|35.894|-80.561|US|North Carolina|74
+Grafton|39.341|-80.019|US|West Virginia|74
+Sawmills|35.825|-81.475|US|North Carolina|74
+Turpin Hills|39.110|-84.380|US|Ohio|74
+Summerside|39.105|-84.288|US|Ohio|74
+Lake Norman of Catawba|35.587|-80.960|US|North Carolina|74
+New Burlington|39.260|-84.557|US|Ohio|74
+Eagleton Village|35.795|-83.932|US|Tennessee|74
+East Flat Rock|35.280|-82.422|US|North Carolina|74
+Walkertown|36.175|-80.153|US|North Carolina|74
+Lawrenceburg|39.091|-84.850|US|Indiana|74
+Pleasant Run|39.300|-84.564|US|Ohio|74
+Amelia|39.028|-84.218|US|Ohio|74
+Longview|35.729|-81.383|US|North Carolina|74
+Madisonville|35.520|-84.364|US|Tennessee|74
+Silverton|39.193|-84.400|US|Ohio|74
+Obetz|39.879|-82.951|US|Ohio|74
+Westwood|38.483|-82.670|US|Kentucky|74
+Midway|35.953|-80.218|US|North Carolina|74
+Mount Carmel|39.106|-84.304|US|Ohio|74
+Miami Heights|39.165|-84.721|US|Ohio|73
+New Lexington|39.714|-82.208|US|Ohio|73
+West Milton|39.963|-84.328|US|Ohio|73
+Boiling Springs|35.254|-81.667|US|North Carolina|73
+Mount Repose|39.201|-84.224|US|Ohio|73
+Granite Falls|35.797|-81.431|US|North Carolina|73
+Dallas|35.317|-81.176|US|North Carolina|73
+Lake Darby|39.957|-83.229|US|Ohio|73
+Swannanoa|35.598|-82.400|US|North Carolina|73
+Greenfield|39.352|-83.383|US|Ohio|73
+Ludlow|39.093|-84.547|US|Kentucky|73
+Valdese|35.741|-81.563|US|North Carolina|73
+Georgetown|38.865|-83.904|US|Ohio|73
+Greendale|39.113|-84.864|US|Indiana|73
+Oak Grove|36.412|-82.425|US|Tennessee|73
+Tazewell|37.115|-81.520|US|Virginia|73
+Harrogate|36.582|-83.657|US|Tennessee|73
+Rogersville|36.407|-83.005|US|Tennessee|73
+Cherry Grove|39.073|-84.322|US|Ohio|73
+Saint Bernard|39.167|-84.499|US|Ohio|73
+South Lebanon|39.371|-84.213|US|Ohio|73
+Park Layne|39.886|-84.040|US|Ohio|73
+Cramerton|35.239|-81.075|US|North Carolina|73
+West Jefferson|39.945|-83.269|US|Ohio|73
+Speedwell|36.459|-83.872|US|Tennessee|73
+Point Pleasant|38.845|-82.137|US|West Virginia|73
+Waverly|39.127|-82.985|US|Ohio|73
+Royal Pines|35.475|-82.516|US|North Carolina|73
+Spindale|35.360|-81.929|US|North Carolina|73
+Paintsville|37.815|-82.807|US|Kentucky|73
+Blanchester|39.293|-83.989|US|Ohio|73
+North Wilkesboro|36.158|-81.148|US|North Carolina|73
+Bethlehem|35.826|-81.307|US|North Carolina|72
+Ashville|39.716|-82.953|US|Ohio|72
+Canton|35.533|-82.837|US|North Carolina|72
+Gatlinburg|35.715|-83.512|US|Tennessee|72
+China Grove|35.569|-80.582|US|North Carolina|72
+Rutherfordton|35.369|-81.957|US|North Carolina|72
+Cedarville|39.744|-83.809|US|Ohio|72
+Welcome|35.903|-80.257|US|North Carolina|72
+Barnesville|39.988|-81.177|US|Ohio|72
+Louisville|35.822|-84.048|US|Tennessee|72
+Weston|39.038|-80.467|US|West Virginia|72
+Barboursville|38.410|-82.295|US|West Virginia|72
+Elkin|36.244|-80.848|US|North Carolina|72
+Grayson|38.333|-82.948|US|Kentucky|72
+Waynesburg|39.896|-80.179|US|Pennsylvania|72
+Sissonville|38.528|-81.631|US|West Virginia|72
+Westport|35.501|-80.979|US|North Carolina|72
+Crescent Springs|39.051|-84.582|US|Kentucky|72
+New Lebanon|39.745|-84.385|US|Ohio|72
+Fort McKinley|39.798|-84.254|US|Ohio|72
+Gamewell|35.869|-81.596|US|North Carolina|72
+Spurgeon|36.440|-82.456|US|Tennessee|72
+Lewisburg|37.802|-80.446|US|West Virginia|72
+Williamstown|38.638|-84.561|US|Kentucky|72
+Franklin|35.182|-83.382|US|North Carolina|72
+Norton|36.933|-82.629|US|Virginia|72
+Weaverville|35.697|-82.561|US|North Carolina|72
+South Point|38.418|-82.586|US|Ohio|72
+Walton|38.876|-84.610|US|Kentucky|72
+Tyro|35.809|-80.373|US|North Carolina|72
+Lancaster|37.620|-84.578|US|Kentucky|72
+Southgate|39.072|-84.473|US|Kentucky|72
+Crittenden|38.783|-84.605|US|Kentucky|72
+Ravenswood|38.948|-81.761|US|West Virginia|72
+Salem Heights|39.072|-84.378|US|Ohio|72
+Yellow Springs|39.806|-83.887|US|Ohio|72
+Lake Park|35.086|-80.635|US|North Carolina|72
+Fruit Hill|39.076|-84.364|US|Ohio|71
+Hudson|35.848|-81.496|US|North Carolina|71
+Sherwood|39.085|-84.361|US|Ohio|71
+Shadyside|39.971|-80.751|US|Ohio|71
+Oneida|36.498|-84.513|US|Tennessee|71
+Aurora|39.057|-84.901|US|Indiana|71
+Stanley|35.359|-81.097|US|North Carolina|71
+Fairview|35.138|-80.538|US|North Carolina|71
+Stanford|37.531|-84.662|US|Kentucky|71
+Mount Orab|39.028|-83.920|US|Ohio|71
+Lowell|35.268|-81.103|US|North Carolina|71
+Mountain Home|35.370|-82.493|US|North Carolina|71
+Franklin|35.721|-80.499|US|North Carolina|71
+Greenhills|39.268|-84.523|US|Ohio|71
+Amberley|39.205|-84.428|US|Ohio|71
+Golf Manor|39.187|-84.446|US|Ohio|71
+Unicoi|36.195|-82.350|US|Tennessee|71
+Ranlo|35.286|-81.130|US|North Carolina|71
+Mountain View|35.683|-81.369|US|North Carolina|71
+Wilkesboro|36.146|-81.161|US|North Carolina|71
+Etowah|35.323|-84.525|US|Tennessee|71
+Polkton|35.008|-80.201|US|North Carolina|71
+Summersville|38.281|-80.853|US|West Virginia|71
+Dillonvale|39.218|-84.402|US|Ohio|71
+Gallipolis|38.810|-82.202|US|Ohio|71
+Lockland|39.229|-84.458|US|Ohio|71
+Mariemont|39.145|-84.374|US|Ohio|71
+Ross|39.312|-84.650|US|Ohio|71
+Cleves|39.162|-84.749|US|Ohio|71
+Lake Lakengren|39.688|-84.693|US|Ohio|71
+Midland|35.227|-80.501|US|North Carolina|71
+Maiden|35.576|-81.212|US|North Carolina|71
+Lincoln Heights|39.239|-84.456|US|Ohio|71
+Prestonsburg|37.666|-82.772|US|Kentucky|70
+Lebanon|36.901|-82.080|US|Virginia|70
+Crestview Hills|39.027|-84.585|US|Kentucky|70
+West Liberty|37.921|-83.260|US|Kentucky|70
+Dana|35.329|-82.375|US|North Carolina|70
+India Hook|35.007|-81.022|US|South Carolina|70
+Mulberry|39.193|-84.242|US|Ohio|70
+Flat Rock|35.271|-82.442|US|North Carolina|70
+Mayfield|39.495|-84.373|US|Ohio|70
+Woodlawn|39.252|-84.470|US|Ohio|70
+Spencer|35.692|-80.435|US|North Carolina|70
+Pinch|38.409|-81.482|US|West Virginia|70
+Russell|38.517|-82.698|US|Kentucky|70
+Philippi|39.152|-80.040|US|West Virginia|70
+Ripley|38.819|-81.711|US|West Virginia|70
+Oliver Springs|36.045|-84.344|US|Tennessee|70
+Pleasant Valley|39.455|-80.142|US|West Virginia|70
+West Union|38.795|-83.545|US|Ohio|70
+Barbourville|36.866|-83.889|US|Kentucky|70
+West Portsmouth|38.758|-83.029|US|Ohio|70
+Rural Hall|36.240|-80.293|US|North Carolina|70
+Wildwood Lake|35.092|-84.854|US|Tennessee|70
+Wise|36.976|-82.576|US|Virginia|70
+Landis|35.546|-80.611|US|North Carolina|70
+Bean Station|36.344|-83.284|US|Tennessee|70
+Blennerhassett|39.264|-81.629|US|West Virginia|70
+Wilder|39.056|-84.487|US|Kentucky|70
+East Gaffney|35.080|-81.633|US|South Carolina|70
+Kenova|38.399|-82.578|US|West Virginia|70
+The Plains|39.369|-82.132|US|Ohio|70
+Wallburg|36.010|-80.139|US|North Carolina|70
+Blountville|36.533|-82.327|US|Tennessee|70
+Culloden|38.420|-82.055|US|West Virginia|70
+Pannill Fork|36.709|-80.013|US|Virginia|70
+Park Hills|39.071|-84.532|US|Kentucky|70
+Williamson|37.674|-82.277|US|West Virginia|70
+Waynesville|39.530|-84.087|US|Ohio|70
+Shady Spring|37.706|-81.098|US|West Virginia|70
+Granite Quarry|35.612|-80.447|US|North Carolina|70
+Baltimore|39.845|-82.601|US|Ohio|69
+Locust|35.260|-80.425|US|North Carolina|69
+Williamstown|39.401|-81.448|US|West Virginia|69
+New Tazewell|36.443|-83.600|US|Tennessee|69
+Lowesville|35.417|-81.011|US|North Carolina|69
+Madison|38.067|-81.819|US|West Virginia|69
+Sixteen Mile Stand|39.273|-84.327|US|Ohio|69
+Yadkinville|36.135|-80.660|US|North Carolina|69
+Enochville|35.530|-80.668|US|North Carolina|69
+Dandridge|36.015|-83.415|US|Tennessee|69
+Flemingsburg|38.422|-83.734|US|Kentucky|69
+Fayetteville|38.053|-81.104|US|West Virginia|69
+Lisbon|39.861|-83.635|US|Ohio|69
+Cajahs Mountain|35.835|-81.541|US|North Carolina|69
+North Zanesville|39.979|-82.003|US|Ohio|69
+Dry Ridge|39.259|-84.619|US|Ohio|69
+Lakeside Park|39.036|-84.569|US|Kentucky|69
+Bethel|38.964|-84.081|US|Ohio|69
+Evendale|39.256|-84.418|US|Ohio|69
+Buckeye Lake|39.934|-82.472|US|Ohio|69
+Lucasville|38.880|-82.997|US|Ohio|69
+Lake Junaluska|35.528|-82.960|US|North Carolina|69
+Dublin|37.106|-80.685|US|Virginia|69
+Crab Orchard|37.741|-81.231|US|West Virginia|69
+Fairview|35.514|-82.396|US|North Carolina|69
+Pearisburg|37.327|-80.737|US|Virginia|69
+Hillsville|36.763|-80.735|US|Virginia|69
+Burlington|38.407|-82.536|US|Ohio|69
+Stanton|37.846|-83.858|US|Kentucky|69
+Tusculum|36.175|-82.759|US|Tennessee|69
+Icard|35.727|-81.471|US|North Carolina|69
+Newtown|39.124|-84.362|US|Ohio|69
+Devola|39.474|-81.479|US|Ohio|68
+New Richmond|38.949|-84.280|US|Ohio|68
+Milton|38.435|-82.132|US|West Virginia|68
+Pine Crest|36.276|-84.129|US|Tennessee|68
+Day Heights|39.174|-84.226|US|Ohio|68
+Sylva|35.374|-83.226|US|North Carolina|68
+Fairmount|36.585|-82.171|US|Tennessee|68
+Bethlehem|39.392|-80.281|US|West Virginia|68
+Tobaccoville|36.238|-80.371|US|North Carolina|68
+Mount Vernon|38.026|-84.495|US|Kentucky|68
+Centerville|39.818|-84.996|US|Indiana|68
+Bermuda Run|36.004|-80.422|US|North Carolina|68
+Williamsburg|39.054|-84.053|US|Ohio|68
+Troutman|35.701|-80.888|US|North Carolina|68
+Sabina|39.489|-83.637|US|Ohio|68
+Bethel|39.730|-83.394|US|Ohio|68
+Hinton|37.674|-80.889|US|West Virginia|68
+Paden City|39.603|-80.937|US|West Virginia|68
+Mount Vernon|37.353|-84.340|US|Kentucky|68
+Crooksville|39.769|-82.092|US|Ohio|68
+Landrum|35.175|-82.189|US|South Carolina|68
+Midway|36.300|-82.424|US|Tennessee|68
+Mountain City|36.475|-81.805|US|Tennessee|68
+Middleport|39.002|-82.049|US|Ohio|68
+Coalfield|36.029|-84.421|US|Tennessee|68
+Louisa|38.114|-82.603|US|Kentucky|68
+White Sulphur Springs|37.797|-80.298|US|West Virginia|68
+Irvine|37.701|-83.974|US|Kentucky|68
+Mascot|36.061|-83.746|US|Tennessee|68
+Hebron|39.962|-82.491|US|Ohio|68
+Norwood|35.220|-80.119|US|North Carolina|68
+Walnut Hill|36.570|-82.257|US|Tennessee|68
+Enon|39.878|-83.937|US|Ohio|68
+Pine Crest|36.299|-82.318|US|Tennessee|68
+Raceland|38.540|-82.728|US|Kentucky|68
+Byesville|39.970|-81.537|US|Ohio|68
+Edneyville|35.394|-82.341|US|North Carolina|67
+Fairlawn|37.148|-80.578|US|Virginia|67
+Jackson|37.825|-84.871|US|Kentucky|67
+Claryville|38.919|-84.395|US|Kentucky|67
+Maynardville|36.251|-83.797|US|Tennessee|67
+Winfield|38.533|-81.893|US|West Virginia|67
+Horse Shoe|35.343|-82.557|US|North Carolina|67
+Woodsfield|39.763|-81.115|US|Ohio|67
+Mosheim|36.190|-82.958|US|Tennessee|67
+New Concord|39.994|-81.734|US|Ohio|67
+Woodlawn|36.722|-80.823|US|Virginia|67
+Mulberry|36.240|-81.181|US|North Carolina|67
+Green Meadows|39.869|-83.944|US|Ohio|67
+New Miami|39.435|-84.537|US|Ohio|67
+Laurel Park|35.314|-82.493|US|North Carolina|67
+Denver|35.531|-81.030|US|North Carolina|67
+Tazewell|36.454|-83.569|US|Tennessee|67
+Junction City|37.587|-84.794|US|Kentucky|67
+Central|36.326|-82.290|US|Tennessee|67
+Inman|35.047|-82.090|US|South Carolina|67
+Wilberforce|39.716|-83.878|US|Ohio|67
+Raven|37.087|-81.855|US|Virginia|67
+Cowpens|35.017|-81.804|US|South Carolina|67
+Jellico|36.588|-84.127|US|Tennessee|67
+Jonesville|36.239|-80.845|US|North Carolina|67
+Mars Hill|35.827|-82.549|US|North Carolina|67
+Terrace Park|39.159|-84.307|US|Ohio|67
+White Pine|36.108|-83.287|US|Tennessee|67
+Rossmoyne|39.214|-84.387|US|Ohio|67
+Salem|35.699|-81.697|US|North Carolina|67
+Craigsville|38.331|-80.653|US|West Virginia|67
+Dry Ridge|38.682|-84.590|US|Kentucky|67
+Rising Sun|38.950|-84.854|US|Indiana|67
+Caryville|36.299|-84.223|US|Tennessee|67
+Spencer|38.802|-81.351|US|West Virginia|67
+Bluewell|37.313|-81.260|US|West Virginia|67
+Slater-Marietta|35.035|-82.493|US|South Carolina|67
+New Boston|38.752|-82.937|US|Ohio|67
+Shawnee Hills|39.653|-83.787|US|Ohio|67
+Shinnston|39.396|-80.300|US|West Virginia|67
+Elmwood Place|39.187|-84.488|US|Ohio|67
+Liberty|37.318|-84.939|US|Kentucky|67
+Glendale|39.271|-84.459|US|Ohio|67
+Jackson|37.553|-83.384|US|Kentucky|67
+Piketon|39.068|-83.014|US|Ohio|67
+Rockwell|35.551|-80.406|US|North Carolina|67
+Coal Grove|38.503|-82.647|US|Ohio|67
+Cherokee|35.474|-83.315|US|North Carolina|67
+Spruce Pine|35.915|-82.065|US|North Carolina|67
+Merrimac|37.190|-80.426|US|Virginia|67
+Falmouth|38.677|-84.330|US|Kentucky|67
+Fairplains|36.198|-81.153|US|North Carolina|67
+Millers Creek|36.189|-81.238|US|North Carolina|66
+Rosemount|38.786|-82.979|US|Ohio|66
+Pumpkin Center|35.519|-81.141|US|North Carolina|66
+Cumberland|36.978|-82.989|US|Kentucky|66
+Jenkins|37.173|-82.631|US|Kentucky|66
+Hunter|39.493|-84.290|US|Ohio|66
+Arcanum|39.990|-84.553|US|Ohio|66
+Taylorsville|35.922|-81.176|US|North Carolina|66
+Mannington|39.531|-80.343|US|West Virginia|66
+Drexel|39.746|-84.287|US|Ohio|66
+Valley Hill|35.298|-82.483|US|North Carolina|66
+Plainview|36.177|-83.795|US|Tennessee|66
+Castlewood|36.890|-82.280|US|Virginia|66
+Ferrum|36.923|-80.013|US|Virginia|66
+Bradley|37.865|-81.194|US|West Virginia|66
+Liberty|39.636|-84.931|US|Indiana|66
+Fruitland|35.397|-82.393|US|North Carolina|66
+Saltville|36.882|-81.762|US|Virginia|66
+Jamestown|39.658|-83.735|US|Ohio|66
+Carlisle|38.312|-84.027|US|Kentucky|66
+Whitesburg|37.118|-82.827|US|Kentucky|66
+Hildebran|35.714|-81.422|US|North Carolina|66
+Coeburn|36.944|-82.464|US|Virginia|66
+Spring City|35.692|-84.861|US|Tennessee|66
+North Fork Village|39.336|-83.029|US|Ohio|66
+South Zanesville|39.899|-82.006|US|Ohio|66
+Badin|35.406|-80.117|US|North Carolina|66
+Richwood|38.225|-80.533|US|West Virginia|66
+Manchester|38.688|-83.609|US|Ohio|66
+Welch|37.433|-81.585|US|West Virginia|66
+Camden|39.629|-84.649|US|Ohio|66
+Gate City|36.638|-82.581|US|Virginia|66
+Narrows|37.332|-80.811|US|Virginia|66
+Jacksboro|36.330|-84.184|US|Tennessee|66
+Avery Creek|35.463|-82.583|US|North Carolina|66
+Mineral Wells|39.178|-81.512|US|West Virginia|66
+Jamestown|36.428|-84.932|US|Tennessee|66
+Moravian Falls|36.097|-81.182|US|North Carolina|66
+Blacksburg|35.121|-81.516|US|South Carolina|65
+Daniels|37.743|-81.124|US|West Virginia|65
+Hopewell|35.235|-84.888|US|Tennessee|65
+Oakboro|35.226|-80.329|US|North Carolina|65
+Blaine|36.154|-83.704|US|Tennessee|65
+Condon|36.181|-83.794|US|Tennessee|65
+Drexel|35.758|-81.604|US|North Carolina|65
+Saint Marys|39.392|-81.205|US|West Virginia|65
+Cricket|36.172|-81.194|US|North Carolina|65
+Hunter|36.372|-82.159|US|Tennessee|65
+Roseville|39.807|-82.071|US|Ohio|65
+Hays|36.250|-81.116|US|North Carolina|65
+South Bloomfield|39.718|-82.987|US|Ohio|65
+Patrick Springs|36.642|-80.195|US|Virginia|65
+McMechen|39.988|-80.731|US|West Virginia|65
+Five Points|39.569|-84.193|US|Ohio|65
+Mount Pleasant|35.399|-80.436|US|North Carolina|65
+Pomeroy|39.028|-82.034|US|Ohio|65
+Wright-Patterson AFB|39.811|-84.057|US|Ohio|65
+Salyersville|37.753|-83.069|US|Kentucky|65
+Coal City|37.679|-81.210|US|West Virginia|65
+Catlettsburg|38.405|-82.600|US|Kentucky|65
+Pennington Gap|36.758|-83.027|US|Virginia|65
+Glouster|39.503|-82.085|US|Ohio|65
+McConnelsville|39.649|-81.853|US|Ohio|65
+Surgoinsville|36.471|-82.852|US|Tennessee|65
+Rocky Top|36.218|-84.155|US|Tennessee|65
+Mount Gay-Shamrock|37.839|-82.030|US|West Virginia|65
+Claypool Hill|37.063|-81.752|US|Virginia|65
+Harrisville|39.210|-81.052|US|West Virginia|65
+North Corbin|36.961|-84.093|US|Kentucky|65
+Lewisburg|39.846|-84.540|US|Ohio|65
+Stonewood|39.251|-80.312|US|West Virginia|65
+Peebles|38.949|-83.406|US|Ohio|65
+Pineville|36.762|-83.695|US|Kentucky|65
+Andrews|35.202|-83.824|US|North Carolina|65
+Ronceverte|37.750|-80.463|US|West Virginia|65
+Alum Creek|38.286|-81.811|US|West Virginia|65
+Fairlea|37.781|-80.457|US|West Virginia|65
+Mount Sterling|39.720|-83.265|US|Ohio|65
+Pleasant Grove|39.952|-81.959|US|Ohio|65
+Chilhowie|36.798|-81.682|US|Virginia|65
+Sparta|36.505|-81.121|US|North Carolina|65
+Bluff City|36.474|-82.261|US|Tennessee|65
+Ripley|38.746|-83.845|US|Ohio|65
+Tryon|35.340|-81.322|US|North Carolina|65
+Dunlap|39.292|-84.618|US|Ohio|65
+Skyline Acres|39.229|-84.567|US|Ohio|65
+Jeffersonville|37.974|-83.842|US|Kentucky|65
+Fairfax|39.145|-84.393|US|Ohio|65
+Midway|38.151|-84.684|US|Kentucky|65
+Hunter|36.362|-84.140|US|Tennessee|65
+Warsaw|38.783|-84.902|US|Kentucky|65
+Caldwell|39.748|-81.517|US|Ohio|65
+Hemby Bridge|35.104|-80.628|US|North Carolina|64
+Appalachia|36.907|-82.782|US|Virginia|64
+McArthur|39.246|-82.478|US|Ohio|64
+South Charleston|39.825|-83.634|US|Ohio|64
+Burnsville|35.917|-82.301|US|North Carolina|64
+Franklin Furnace|38.626|-82.847|US|Ohio|64
+Denton|35.633|-80.116|US|North Carolina|64
+Hazelwood|35.469|-83.004|US|North Carolina|64
+Mallory|37.731|-81.838|US|West Virginia|64
+Norris|36.196|-84.068|US|Tennessee|64
+Logan|37.849|-81.993|US|West Virginia|64
+Batavia|39.077|-84.177|US|Ohio|64
+Burnsville|35.112|-80.245|US|North Carolina|64
+Harlan|36.843|-83.322|US|Kentucky|64
+Connelly Springs|35.743|-81.513|US|North Carolina|64
+Tryon|35.208|-82.238|US|North Carolina|64
+Rand|38.283|-81.562|US|West Virginia|64
+Pine Knot|36.651|-84.439|US|Kentucky|64
+Fincastle|36.410|-84.048|US|Tennessee|64
+Murphy|35.088|-84.035|US|North Carolina|64
+Commercial Point|39.768|-83.057|US|Ohio|64
+Thurmond|36.367|-80.928|US|North Carolina|64
+East Cleveland|35.161|-84.858|US|Tennessee|64
+Aberdeen|38.656|-83.761|US|Ohio|64
+Jefferson|36.420|-81.473|US|North Carolina|64
+Coal Run Village|37.513|-82.558|US|Kentucky|64
+Olive Hill|38.300|-83.174|US|Kentucky|64
+Montgomery|38.180|-81.328|US|West Virginia|64
+Mayo|35.084|-81.860|US|South Carolina|64
+Eleanor|38.538|-81.932|US|West Virginia|64
+Owingsville|38.145|-83.764|US|Kentucky|64
+New Paris|39.857|-84.793|US|Ohio|64
+Worthington|38.548|-82.724|US|Kentucky|64
+Decatur|35.515|-84.790|US|Tennessee|64
+Nutter Fort|39.263|-80.320|US|West Virginia|64
+Dobson|36.396|-80.723|US|North Carolina|64
+Powhatan Point|39.860|-80.815|US|Ohio|64
+Flat Rock|36.512|-80.570|US|North Carolina|64
+Salem|39.283|-80.559|US|West Virginia|64
+Owenton|38.537|-84.843|US|Kentucky|64
+East Spencer|35.682|-80.432|US|North Carolina|64
+Choctaw Lake|39.960|-83.485|US|Ohio|64
+Glenville|38.934|-80.838|US|West Virginia|64
+Elkfork|37.965|-83.133|US|Kentucky|64
+Northlakes|35.782|-81.375|US|North Carolina|64
+New Haven|38.986|-81.973|US|West Virginia|64
+Adwolf|36.789|-81.582|US|Virginia|64
+Englewood|35.425|-84.487|US|Tennessee|64
+Glendale|39.949|-80.754|US|West Virginia|64
+Plum Creek|37.130|-80.501|US|Virginia|64
+Holiday Valley|39.856|-83.969|US|Ohio|64
+Harbor Hills|39.937|-82.435|US|Ohio|64
+Highpoint|39.288|-84.350|US|Ohio|64
+Chesapeake|38.223|-81.536|US|West Virginia|64
+Glen Alpine|35.729|-81.779|US|North Carolina|64
+MacArthur|37.758|-81.213|US|West Virginia|64
+Oak Hill|38.894|-82.573|US|Ohio|64
+Prosperity|37.837|-81.202|US|West Virginia|64
+Banner Hill|36.131|-82.425|US|Tennessee|64
+Vonore|35.590|-84.242|US|Tennessee|63
+Stanfield|35.233|-80.427|US|North Carolina|63
+Lynchburg|39.242|-83.791|US|Ohio|63
+Rural Retreat|36.894|-81.276|US|Virginia|63
+Crystal Lakes|39.889|-84.027|US|Ohio|63
+Rainelle|37.969|-80.767|US|West Virginia|63
+Southmont|35.668|-80.267|US|North Carolina|63
+Grandview|39.194|-84.724|US|Ohio|63
+Pilot Mountain|36.387|-80.469|US|North Carolina|63
+Mullens|37.583|-81.380|US|West Virginia|63
+Somerset|39.807|-82.297|US|Ohio|63
+Bryson City|35.431|-83.449|US|North Carolina|63
+Verona|38.818|-84.661|US|Kentucky|63
+Glade Spring|36.791|-81.771|US|Virginia|63
+Marmet|38.245|-81.567|US|West Virginia|63
+Toast|36.500|-80.626|US|North Carolina|63
+Vanceburg|38.599|-83.319|US|Kentucky|63
+Stuart|36.641|-80.266|US|Virginia|63
+Biltmore Forest|35.534|-82.528|US|North Carolina|63
+Bremen|39.702|-82.427|US|Ohio|63
+Stearns|36.699|-84.477|US|Kentucky|63
+Walnut Cove|36.295|-80.142|US|North Carolina|63
+Manchester|37.154|-83.762|US|Kentucky|63
+Ansted|38.136|-81.100|US|West Virginia|63
+Honaker|37.016|-81.974|US|Virginia|63
+Ceredo|38.396|-82.559|US|West Virginia|63
+Wayne|38.221|-82.442|US|West Virginia|63
+Mount Hope|37.895|-81.164|US|West Virginia|63
+Mabscott|37.771|-81.208|US|West Virginia|63
+Springville|37.197|-81.403|US|Virginia|63
+Foscoe|36.162|-81.766|US|North Carolina|63
+Sistersville|39.564|-80.996|US|West Virginia|63
+Claremont|35.715|-81.146|US|North Carolina|63
+New Market|36.104|-83.553|US|Tennessee|63
+Midtown|35.880|-84.564|US|Tennessee|63
+Roan Mountain|36.196|-82.070|US|Tennessee|63
+Lesage|38.506|-82.298|US|West Virginia|63
+Lithopolis|39.803|-82.806|US|Ohio|63
+Stanaford|37.816|-81.152|US|West Virginia|63
+West Marion|35.658|-82.025|US|North Carolina|63
+Sneedville|36.530|-83.217|US|Tennessee|63
+Rutherford College|35.748|-81.523|US|North Carolina|63
+West Alexandria|39.745|-84.532|US|Ohio|63
+Clintwood|37.150|-82.456|US|Virginia|62
+Barrackville|39.504|-80.167|US|West Virginia|62
+Kings Mills|39.356|-84.249|US|Ohio|62
+Sophia|37.708|-81.251|US|West Virginia|62
+Stony Point|35.863|-81.047|US|North Carolina|62
+Tigerville|35.068|-82.368|US|South Carolina|62
+Lubeck|39.235|-81.631|US|West Virginia|62
+Shawsville|37.168|-80.255|US|Virginia|62
+Beaver|37.748|-81.144|US|West Virginia|62
+Beverly|39.548|-81.640|US|Ohio|62
+West Jefferson|36.404|-81.493|US|North Carolina|62
+Oceana|37.692|-81.624|US|West Virginia|62
+Wetherington|39.364|-84.377|US|Ohio|62
+Boaz|39.361|-81.502|US|West Virginia|62
+Leesburg|39.345|-83.553|US|Ohio|62
+Reno|39.373|-81.396|US|Ohio|62
+Benton|35.174|-84.654|US|Tennessee|62
+Blowing Rock|36.135|-81.678|US|North Carolina|62
+Fairfield Beach|39.916|-82.475|US|Ohio|62
+Fall Branch|36.418|-82.624|US|Tennessee|62
+Bent Creek|35.509|-82.608|US|North Carolina|62
+Morrow|39.355|-84.127|US|Ohio|62
+Morrisville|39.895|-80.162|US|Pennsylvania|62
+Weber City|36.623|-82.562|US|Virginia|62
+Miamitown|39.216|-84.704|US|Ohio|62
+Barker Heights|35.311|-82.444|US|North Carolina|62
+Cana|36.590|-80.672|US|Virginia|62
+Buffalo|38.618|-81.982|US|West Virginia|62
+Emory|36.773|-81.836|US|Virginia|62
+Maggie Valley|35.518|-83.098|US|North Carolina|62
+West Canton|35.538|-82.858|US|North Carolina|62
+Beattyville|37.572|-83.707|US|Kentucky|62
+Clyde|35.533|-82.911|US|North Carolina|62
+Coal Fork|38.318|-81.521|US|West Virginia|62
+Huntsville|36.410|-84.490|US|Tennessee|62
+Elkview|38.443|-81.480|US|West Virginia|62
+Gray|36.420|-82.477|US|Tennessee|62
+Etna|39.957|-82.682|US|Ohio|62
+Belle|38.232|-81.538|US|West Virginia|62
+Dryden|36.778|-82.942|US|Virginia|62
+Boonville|36.233|-80.708|US|North Carolina|62
+Brodhead|37.404|-84.414|US|Kentucky|62
+Chapmanville|37.974|-82.017|US|West Virginia|62
+New Vienna|39.324|-83.691|US|Ohio|62
+Brush Fork|37.281|-81.256|US|West Virginia|62
+Jeffersonville|39.654|-83.564|US|Ohio|62
+Balfour|35.347|-82.472|US|North Carolina|61
+Clendenin|38.489|-81.348|US|West Virginia|61
+Rutledge|36.281|-83.515|US|Tennessee|61
+Lake Lure|35.428|-82.205|US|North Carolina|61
+Alderson|37.726|-80.642|US|West Virginia|61
+Mount Gilead|35.215|-80.002|US|North Carolina|61
+Washington|39.261|-81.672|US|West Virginia|61
+Cove Creek|35.606|-83.011|US|North Carolina|61
+Whitley City|36.723|-84.470|US|Kentucky|61
+Grimsley|36.267|-84.984|US|Tennessee|61
+Augusta|38.772|-84.006|US|Kentucky|61
+Greenup|38.573|-82.830|US|Kentucky|61
+Atkins|36.867|-81.423|US|Virginia|61
+Advance|35.941|-80.409|US|North Carolina|61
+Banner Elk|36.163|-81.871|US|North Carolina|61
+New Matamoras|39.525|-81.067|US|Ohio|61
+Camargo|37.994|-83.888|US|Kentucky|61
+Hamlin|38.279|-82.103|US|West Virginia|61
+Silver Grove|39.035|-84.390|US|Kentucky|61
+Logan Elm Village|39.570|-82.952|US|Ohio|61
+Greenback|35.661|-84.172|US|Tennessee|61
+South Shore|38.721|-82.958|US|Kentucky|61
+Wildwood|35.804|-83.871|US|Tennessee|61
+Annville|37.319|-83.970|US|Kentucky|61
+Clay City|37.859|-83.919|US|Kentucky|61
+Monongah|39.463|-80.218|US|West Virginia|61
+Gilbert Creek|37.576|-81.895|US|West Virginia|61
+Luttrell|36.200|-83.742|US|Tennessee|61
+Pembroke|37.320|-80.639|US|Virginia|61
+Sciotodale|38.755|-82.869|US|Ohio|61
+Tornado|38.343|-81.844|US|West Virginia|61
+Pennsboro|39.285|-80.968|US|West Virginia|61
+Van Lear|37.771|-82.758|US|Kentucky|61
+Cedar Bluff|37.088|-81.759|US|Virginia|61
+White Plains|36.446|-80.633|US|North Carolina|61
+Lavalette|38.323|-82.447|US|West Virginia|61
+Prices Fork|37.210|-80.490|US|Virginia|61
+Frankfort|39.401|-83.181|US|Ohio|61
+Hoopers Creek|35.439|-82.467|US|North Carolina|60
+Williamsport|39.586|-83.120|US|Ohio|60
+Millersport|39.900|-82.534|US|Ohio|60
+Rhodhiss|35.774|-81.431|US|North Carolina|60
+Wurtland|38.550|-82.778|US|Kentucky|60
+Ryland Heights|38.958|-84.463|US|Kentucky|60
+White Plains|35.234|-81.398|US|North Carolina|60
+Chauncey|39.398|-82.129|US|Ohio|60
+Winchester|38.942|-83.651|US|Ohio|60
+Urbancrest|39.898|-83.087|US|Ohio|60
+Marlinton|38.223|-80.095|US|West Virginia|60
+Kingston|39.474|-82.911|US|Ohio|60
+Webster Springs|38.479|-80.413|US|West Virginia|60
+Sherrills Ford|35.620|-80.986|US|North Carolina|60
+Farmersville|39.679|-84.429|US|Ohio|60
+Despard|39.289|-80.306|US|West Virginia|60
+Thornport|39.913|-82.411|US|Ohio|60
+Newport|39.391|-81.227|US|Ohio|60
+Columbus|35.253|-82.197|US|North Carolina|60
+Sutton|38.665|-80.710|US|West Virginia|60
+Grundy|37.278|-82.099|US|Virginia|60
+Jonesville|36.689|-83.111|US|Virginia|60
+Independence|36.622|-81.153|US|Virginia|59
+Wartburg|36.105|-84.597|US|Tennessee|59
+Marshall|35.797|-82.684|US|North Carolina|59
+Elizabeth|39.063|-81.395|US|West Virginia|58
+West Union|39.296|-80.777|US|West Virginia|58
+Middlebourne|39.492|-80.904|US|West Virginia|58
+McKee|37.430|-83.998|US|Kentucky|58
+Hindman|37.336|-82.980|US|Kentucky|57
+Newland|36.087|-81.927|US|North Carolina|57
+Inez|37.866|-82.539|US|Kentucky|57
+Brooksville|38.683|-84.066|US|Kentucky|56
+Sandy Hook|38.086|-83.126|US|Kentucky|56
+Pineville|37.583|-81.537|US|West Virginia|56
+Robbinsville|35.323|-83.807|US|North Carolina|56
+Union|37.592|-80.544|US|West Virginia|55
+Grantsville|38.923|-81.096|US|West Virginia|55
+Frenchburg|37.951|-83.626|US|Kentucky|55
+Clay|38.460|-81.085|US|West Virginia|53
+Bakersville|36.016|-82.159|US|North Carolina|53
+Floyd|36.911|-80.320|US|Virginia|53
+Campton|37.734|-83.547|US|Kentucky|53
+Bland|37.102|-81.116|US|Virginia|52
+Hayesville|35.046|-83.818|US|North Carolina|51
+Hyden|37.161|-83.373|US|Kentucky|51
+Mount Olivet|38.531|-84.037|US|Kentucky|51
+Danbury|36.409|-80.206|US|North Carolina|45
+New Castle|37.500|-80.111|US|Virginia|44
+Booneville|37.476|-83.675|US|Kentucky|38

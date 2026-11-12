@@ -1,0 +1,704 @@
+Copenhagen|55.676|12.566|DK|Capital Region|121
+Oslo|59.913|10.746|NO|Oslo|121
+Gothenburg|57.707|11.967|SE|Västra Götaland|116
+Malmö|55.606|13.001|SE|Skåne|111
+Århus|56.157|10.211|DK|Central Jutland|109
+Odense|55.396|10.388|DK|South Denmark|105
+Jönköping|57.781|14.156|SE|Jönköping|101
+Drammen|59.744|10.204|NO|Buskerud|101
+Helsingborg|56.047|12.694|SE|Skåne|100
+Frederiksberg|55.679|12.535|DK|Capital Region|100
+Lillestrøm|59.956|11.049|NO|Akershus|99
+Lund|55.706|13.193|SE|Skåne|99
+Fredrikstad|59.218|10.930|NO|Østfold|98
+Borås|57.721|12.940|SE|Västra Götaland|97
+Växjö|56.878|14.809|SE|Kronoberg|97
+Halmstad|56.674|12.857|SE|Halland|97
+Sandefjord|59.131|10.217|NO|Vestfold|96
+Randers|56.461|10.036|DK|Central Jutland|96
+Asker|59.833|10.437|NO|Akershus|96
+Karlstad|59.379|13.504|SE|Värmland|96
+Mölndal|57.655|12.014|SE|Västra Götaland|95
+Sarpsborg|59.284|11.110|NO|Østfold|95
+Tønsberg|59.268|10.408|NO|Vestfold|95
+Hvidovre|55.643|12.477|DK|Capital Region|95
+Avedøre|55.627|12.456|DK|Capital Region|95
+Klinteby Frihed|55.197|11.596|DK|Zealand|95
+Roskilde|55.642|12.080|DK|Zealand|94
+Moss|59.434|10.658|NO|Østfold|94
+Trollhättan|58.284|12.289|SE|Västra Götaland|94
+Hørsholm|55.881|12.501|DK|Capital Region|94
+Greve|55.583|12.300|DK|Zealand|94
+Næstved|55.230|11.761|DK|Zealand|93
+Rødovre|55.681|12.454|DK|Capital Region|92
+Ballerup|55.732|12.363|DK|Capital Region|92
+Charlottenlund|55.752|12.575|DK|Capital Region|92
+Kristianstad|56.031|14.152|SE|Skåne|92
+Køge|55.458|12.182|DK|Zealand|92
+Skövde|58.391|13.845|SE|Västra Götaland|91
+Hillerød|55.928|12.301|DK|Capital Region|91
+Taastrup|55.650|12.302|DK|Capital Region|91
+Helsingør|56.036|12.614|DK|Capital Region|91
+Uddevalla|58.348|11.942|SE|Västra Götaland|91
+Varberg|57.106|12.251|SE|Halland|91
+Landskrona|55.871|12.830|SE|Skåne|90
+Slagelse|55.403|11.355|DK|Zealand|90
+Viby|56.123|10.151|DK|Central Jutland|90
+Albertslund|55.657|12.364|DK|Capital Region|90
+Holbæk|55.718|11.713|DK|Zealand|89
+Trelleborg|55.375|13.157|SE|Skåne|89
+Partille|57.739|12.106|SE|Västra Götaland|89
+Karlskoga|59.327|14.524|SE|Örebro|89
+Svendborg|55.060|10.607|DK|South Denmark|89
+Horten|59.417|10.483|NO|Vestfold|89
+Lerum|57.771|12.269|SE|Västra Götaland|89
+Alingsås|57.930|12.533|SE|Västra Götaland|88
+Allerød|55.870|12.357|DK|Capital Region|88
+Kungälv|57.871|11.981|SE|Västra Götaland|88
+Falkenberg|56.906|12.491|SE|Halland|88
+Ängelholm|56.243|12.862|SE|Skåne|87
+Glostrup|55.667|12.404|DK|Capital Region|87
+Vänersborg|58.381|12.323|SE|Västra Götaland|87
+Larvik|59.053|10.035|NO|Vestfold|87
+Björlanda|57.767|11.833|SE|Västra Götaland|87
+Ringsted|55.443|11.790|DK|Zealand|87
+Lidköping|58.505|13.158|SE|Västra Götaland|87
+Frederikshavn|57.441|10.537|DK|North Denmark|87
+Halden|59.125|11.388|NO|Østfold|87
+Huskvarna|57.786|14.302|SE|Jönköping|87
+Birkerød|55.848|12.428|DK|Capital Region|87
+Farum|55.809|12.361|DK|Capital Region|86
+Karlshamn|56.171|14.862|SE|Blekinge|86
+Brøndbyvester|55.645|12.410|DK|Capital Region|86
+Limhamn|55.583|12.950|SE|Skåne|86
+Stenløse|55.768|12.197|DK|Capital Region|86
+Ishøj|55.615|12.352|DK|Capital Region|86
+Hässleholm|56.159|13.766|SE|Skåne|86
+Karlebo|55.919|12.410|DK|Capital Region|86
+Värnamo|57.186|14.040|SE|Jönköping|86
+Ystad|55.430|13.820|SE|Skåne|85
+Kungsbacka|57.487|12.076|SE|Halland|85
+Eslöv|55.839|13.304|SE|Skåne|85
+Kristinehamn|59.310|14.108|SE|Värmland|85
+Hedehusene|55.650|12.198|DK|Capital Region|85
+Vordingborg|55.008|11.911|DK|Zealand|85
+Nässjö|57.653|14.697|SE|Jönköping|85
+Mölnlycke|57.659|12.118|SE|Västra Götaland|85
+Nyborg|55.313|10.790|DK|South Denmark|85
+Falköping|58.173|13.551|SE|Västra Götaland|85
+Frederikssund|55.840|12.069|DK|Capital Region|85
+Lillerød|55.875|12.346|DK|Capital Region|84
+Vallensbæk|55.622|12.385|DK|Capital Region|84
+Kalundborg|55.680|11.089|DK|Zealand|84
+Mariestad|58.710|13.824|SE|Västra Götaland|84
+Västra Frölunda|57.647|11.929|SE|Västra Götaland|84
+Ljungby|56.833|13.941|SE|Kronoberg|84
+Tilst|56.194|10.113|DK|Central Jutland|84
+Staffanstorp|55.643|13.206|SE|Skåne|84
+Virum|55.795|12.451|DK|Capital Region|84
+Kinna|57.507|12.695|SE|Västra Götaland|84
+Gammel Virum|55.790|12.470|DK|Capital Region|84
+Höllviken|55.410|12.956|SE|Skåne|83
+Billdal|57.567|11.933|SE|Västra Götaland|83
+Höganäs|56.200|12.558|SE|Skåne|83
+Skovlunde|55.716|12.398|DK|Capital Region|83
+Tranås|58.037|14.978|SE|Jönköping|83
+Korsør|55.330|11.139|DK|Zealand|83
+Grenaa|56.416|10.878|DK|Central Jutland|83
+Arvika|59.655|12.585|SE|Värmland|83
+Rønne|55.101|14.707|DK|Capital Region|83
+Skoghall|59.323|13.466|SE|Värmland|83
+Værløse|55.783|12.369|DK|Capital Region|82
+Stenungsund|58.070|11.818|SE|Västra Götaland|82
+Bunkeflostrand|55.545|12.924|SE|Skåne|82
+Frederiksværk|55.971|12.023|DK|Capital Region|82
+Oxie|55.540|13.096|SE|Skåne|82
+Ski|59.719|10.836|NO|Akershus|82
+Askim|59.583|11.163|NO|Østfold|82
+Odder|55.973|10.153|DK|Central Jutland|82
+Dragør|55.593|12.672|DK|Capital Region|82
+Lomma|55.672|13.068|SE|Skåne|82
+Onsala|57.425|12.029|SE|Halland|82
+Höör|55.934|13.539|SE|Skåne|82
+Haslev|55.323|11.964|DK|Zealand|82
+Brøndby Strand|55.618|12.422|DK|Capital Region|82
+Svedala|55.508|13.235|SE|Skåne|81
+Stokke|59.223|10.301|NO|Vestfold|81
+Espergærde|55.995|12.547|DK|Capital Region|81
+Skara|58.387|13.438|SE|Västra Götaland|81
+Strømmen|59.951|11.010|NO|Akershus|81
+Gjellerup|56.157|10.130|DK|Central Jutland|81
+Drøbak|59.662|10.628|NO|Akershus|81
+Fløng|55.662|12.187|DK|Capital Region|81
+Lindome|57.567|12.083|SE|Västra Götaland|81
+Jyllinge|55.753|12.103|DK|Zealand|81
+Nesoddtangen|59.862|10.663|NO|Akershus|81
+Ulricehamn|57.792|13.414|SE|Västra Götaland|81
+Bjuv|56.084|12.919|SE|Skåne|81
+Kongens Lyngby|55.770|12.504|DK|Capital Region|81
+Gislaved|57.304|13.541|SE|Jönköping|80
+Eksjö|57.666|14.972|SE|Jönköping|80
+Torslanda|57.724|11.770|SE|Västra Götaland|80
+Lystrup|56.498|10.469|DK|Central Jutland|80
+Lystrup|56.237|10.238|DK|Central Jutland|80
+Mørkhøj|55.726|12.470|DK|Capital Region|80
+Skødstrup|56.263|10.304|DK|Central Jutland|80
+Tårnby|55.630|12.600|DK|Capital Region|80
+Bjärred|55.717|13.017|SE|Skåne|80
+Åhus|55.917|14.283|SE|Skåne|80
+Smørumnedre|55.742|12.303|DK|Capital Region|80
+Älmhult|56.551|14.138|SE|Kronoberg|80
+Beder|56.060|10.212|DK|Central Jutland|79
+Åmål|59.051|12.705|SE|Västra Götaland|79
+Kävlinge|55.792|13.110|SE|Skåne|79
+Åstorp|56.136|12.944|SE|Skåne|79
+Säffle|59.132|12.929|SE|Värmland|79
+Arlöv|55.632|13.071|SE|Skåne|79
+Sæby|57.332|10.523|DK|North Denmark|79
+Sölvesborg|56.052|14.575|SE|Blekinge|79
+Humlebæk|55.962|12.534|DK|Capital Region|79
+Fredensborg|55.976|12.403|DK|Capital Region|79
+Landvetter|57.687|12.212|SE|Västra Götaland|79
+Måløv|55.755|12.323|DK|Capital Region|79
+Alvesta|56.899|14.556|SE|Kronoberg|79
+Løgten|56.275|10.312|DK|Central Jutland|79
+Helsinge|56.023|12.198|DK|Capital Region|79
+Hundested|55.964|11.850|DK|Capital Region|79
+Trørød|55.839|12.544|DK|Capital Region|79
+Hørning|56.087|10.037|DK|Central Jutland|79
+Bankeryd|57.860|14.124|SE|Jönköping|79
+Klippan|56.136|13.131|SE|Skåne|78
+Tibro|58.425|14.162|SE|Västra Götaland|78
+Hørning|56.412|10.200|DK|Central Jutland|78
+Hadsten|56.328|10.049|DK|Central Jutland|78
+Tidaholm|58.180|13.958|SE|Västra Götaland|78
+Hinnerup|56.266|10.063|DK|Central Jutland|78
+Skurup|55.478|13.502|SE|Skåne|78
+Gårdsten|57.805|12.029|SE|Västra Götaland|78
+Sorø|55.432|11.555|DK|Zealand|78
+Nivå|55.934|12.505|DK|Capital Region|78
+Ås|59.665|10.795|NO|Akershus|78
+Hammarkullen|57.780|12.036|SE|Västra Götaland|78
+Sjöbo|55.631|13.706|SE|Skåne|78
+Bromölla|56.076|14.470|SE|Skåne|78
+Habo|57.912|14.074|SE|Jönköping|78
+Lysekil|58.274|11.436|SE|Västra Götaland|78
+Kil|59.502|13.313|SE|Värmland|78
+Osby|56.382|13.994|SE|Skåne|78
+Olofström|56.277|14.534|SE|Blekinge|78
+Hörby|55.852|13.661|SE|Skåne|77
+Ebeltoft|56.194|10.682|DK|Central Jutland|77
+Hasselager|56.106|10.100|DK|Central Jutland|77
+Tranbjerg|56.095|10.136|DK|Central Jutland|77
+Skagen|57.721|10.584|DK|North Denmark|77
+Degerfors|59.238|14.431|SE|Örebro|77
+Strömstad|58.939|11.171|SE|Västra Götaland|77
+Lövgärdet|57.816|12.039|SE|Västra Götaland|77
+Skanör med Falsterbo|55.400|12.850|SE|Skåne|77
+Slangerup|55.850|12.183|DK|Capital Region|77
+Tomelilla|55.543|13.955|SE|Skåne|77
+Faaborg|55.095|10.242|DK|South Denmark|77
+Kållered|57.610|12.051|SE|Västra Götaland|77
+Simrishamn|55.557|14.350|SE|Skåne|77
+Gilleleje|56.122|12.311|DK|Capital Region|76
+Svinninge|55.721|11.465|DK|Zealand|76
+Laholm|56.512|13.044|SE|Halland|76
+Vellinge|55.471|13.020|SE|Skåne|76
+Löddeköpinge|55.767|13.017|SE|Skåne|76
+Ringe|55.238|10.479|DK|South Denmark|76
+Hornslet|56.316|10.320|DK|Central Jutland|76
+Fetsund|59.925|11.157|NO|Akershus|76
+Forshaga|59.525|13.481|SE|Värmland|76
+Skælskør|55.251|11.294|DK|Zealand|76
+Södra Sandby|55.717|13.347|SE|Skåne|76
+Dalby|55.667|13.350|SE|Skåne|76
+Hjo|58.301|14.288|SE|Västra Götaland|76
+Malling|56.036|10.196|DK|Central Jutland|76
+Holmestrand|59.488|10.318|NO|Vestfold|76
+Filipstad|59.712|14.168|SE|Värmland|76
+Åsa|57.350|12.117|SE|Halland|76
+Gråbo|57.836|12.300|SE|Västra Götaland|76
+Surte|57.825|12.016|SE|Västra Götaland|76
+Åkarp|55.654|13.111|SE|Skåne|76
+Rydebäck|55.967|12.767|SE|Skåne|75
+Stavern|59.000|10.033|NO|Vestfold|75
+Bellinge|55.335|10.320|DK|South Denmark|75
+Sørumsand|59.986|11.242|NO|Akershus|75
+Perstorp|56.138|13.395|SE|Skåne|75
+Hellebæk|56.068|12.558|DK|Capital Region|75
+Ålsgårde|56.076|12.540|DK|Capital Region|75
+Kerteminde|55.449|10.658|DK|South Denmark|75
+Klarup|57.012|10.056|DK|North Denmark|75
+Tune|55.593|12.170|DK|Zealand|75
+Vadstena|58.449|14.890|SE|Östergötland|75
+Stavnsholt|55.815|12.405|DK|Capital Region|75
+Neder Holluf|55.365|10.448|DK|South Denmark|75
+Viken|56.151|12.574|SE|Skåne|75
+Mullsjö|57.917|13.878|SE|Jönköping|75
+Munkebo|55.456|10.554|DK|South Denmark|75
+Mysen|59.554|11.326|NO|Østfold|75
+Skåre|59.433|13.433|SE|Värmland|75
+Fristad|57.825|13.011|SE|Västra Götaland|75
+Åkarp|58.233|13.650|SE|Västra Götaland|75
+Vårgårda|58.037|12.809|SE|Västra Götaland|75
+Sävsjö|57.403|14.662|SE|Jönköping|75
+Ølstykke|55.796|12.155|DK|Capital Region|75
+Vestby|59.605|10.752|NO|Akershus|75
+Tranby|59.809|10.261|NO|Buskerud|75
+Hönö|57.690|11.650|SE|Västra Götaland|74
+Otterup|55.515|10.398|DK|South Denmark|74
+Ödåkra|56.104|12.748|SE|Skåne|74
+Viby|55.549|12.024|DK|Zealand|74
+Örkelljunga|56.283|13.278|SE|Skåne|74
+Mårslet|56.067|10.161|DK|Central Jutland|74
+Skåre|55.383|13.050|SE|Skåne|74
+Båstad|56.427|12.853|SE|Skåne|74
+Vaggeryd|57.498|14.148|SE|Jönköping|74
+Anderstorp|57.283|13.633|SE|Jönköping|74
+Hadsund|56.715|10.117|DK|North Denmark|74
+Borup|55.694|11.634|DK|Zealand|74
+Borup|55.495|11.976|DK|Zealand|74
+Kolt|56.108|10.070|DK|Central Jutland|74
+Grums|59.351|13.111|SE|Värmland|74
+Götene|58.528|13.495|SE|Västra Götaland|74
+Sunne|59.838|13.143|SE|Värmland|74
+Nykøbing Sjælland|55.925|11.671|DK|Zealand|74
+Anderstorp|58.883|14.283|SE|Västra Götaland|74
+Vargön|58.356|12.391|SE|Västra Götaland|74
+Tjøme|59.111|10.393|NO|Vestfold|74
+Veberöd|55.633|13.483|SE|Skåne|74
+Solbjerg|56.043|10.086|DK|Central Jutland|74
+Vodskov|57.109|10.022|DK|North Denmark|74
+Älvängen|57.959|12.123|SE|Västra Götaland|74
+Hjärup|55.669|13.139|SE|Skåne|74
+Tyringe|56.160|13.598|SE|Skåne|73
+Markaryd|56.461|13.596|SE|Kronoberg|73
+Töreboda|58.707|14.126|SE|Västra Götaland|73
+Havdrup|55.545|12.124|DK|Zealand|73
+Smålandsstenar|57.162|13.412|SE|Jönköping|73
+Hittarp|56.100|12.633|SE|Skåne|73
+Gnosjö|57.358|13.737|SE|Jönköping|73
+Greverud|59.773|10.804|NO|Akershus|73
+Hjallerup|57.165|10.146|DK|North Denmark|73
+Taberg|57.677|14.089|SE|Jönköping|73
+Langeskov|55.357|10.584|DK|South Denmark|73
+Hällefors|59.784|14.522|SE|Örebro|73
+Årslev|55.304|10.464|DK|South Denmark|73
+Lynge|55.839|12.277|DK|Capital Region|73
+Højby|55.332|10.437|DK|South Denmark|73
+Öjersjö|57.699|12.134|SE|Västra Götaland|73
+Rannebergen|57.802|12.071|SE|Västra Götaland|73
+Furulund|55.774|13.090|SE|Skåne|73
+Høng|55.507|11.289|DK|Zealand|73
+Svogerslev|55.634|12.015|DK|Zealand|73
+Kirke Hvalsø|55.592|11.863|DK|Zealand|73
+Sålanda|57.983|12.217|SE|Västra Götaland|73
+Jyderup|55.837|11.553|DK|Zealand|72
+Jyderup|55.664|11.420|DK|Zealand|72
+Faxe|55.256|12.119|DK|Zealand|72
+Fensmark|55.279|11.804|DK|Zealand|72
+Oskarström|56.800|12.967|SE|Halland|72
+Jægerspris|55.852|11.986|DK|Capital Region|72
+Bogense|55.567|10.089|DK|South Denmark|72
+Vara|58.262|12.954|SE|Västra Götaland|72
+Præstø|55.124|12.045|DK|Zealand|72
+Tølløse|55.612|11.770|DK|Zealand|72
+Askersund|58.880|14.902|SE|Örebro|72
+Hyltebruk|56.999|13.240|SE|Halland|72
+Vinslöv|56.100|13.917|SE|Skåne|72
+Assentoft|56.442|10.152|DK|Central Jutland|72
+Herrljunga|58.077|13.027|SE|Västra Götaland|72
+Skillingaryd|57.430|14.094|SE|Jönköping|72
+Vallda|57.477|12.001|SE|Halland|72
+Svelvik|59.614|10.409|NO|Buskerud|72
+Munkedal|58.466|11.673|SE|Västra Götaland|72
+Mörrum|56.193|14.747|SE|Blekinge|72
+Furulund|57.717|12.133|SE|Västra Götaland|72
+Bollebygd|57.669|12.573|SE|Västra Götaland|72
+Svalöv|55.913|13.108|SE|Skåne|72
+Hittarp|56.283|14.117|SE|Skåne|72
+Hofterup|55.805|12.980|SE|Skåne|72
+Mellerud|58.700|12.453|SE|Västra Götaland|72
+Rakkestad|59.425|11.345|NO|Østfold|72
+Lilla Edet|58.133|12.133|SE|Västra Götaland|72
+Dronninglund|57.160|10.293|DK|North Denmark|72
+Hjuvik|57.702|11.716|SE|Västra Götaland|71
+Olofstorp|57.804|12.171|SE|Västra Götaland|71
+Bara|55.582|13.179|SE|Skåne|71
+Seden|55.426|10.443|DK|South Denmark|71
+Viskafors|57.629|12.849|SE|Västra Götaland|71
+Ljungskile|58.225|11.920|SE|Västra Götaland|71
+Store Heddinge|55.310|12.389|DK|Zealand|71
+Juelsminde|55.709|10.017|DK|Central Jutland|71
+Kungshamn|58.363|11.259|SE|Västra Götaland|71
+Skultorp|58.350|13.833|SE|Västra Götaland|71
+Karlsborg|58.537|14.505|SE|Västra Götaland|71
+Dalsjöfors|57.717|13.083|SE|Västra Götaland|71
+Dianalund|55.531|11.492|DK|Zealand|71
+Hornbæk|56.090|12.457|DK|Capital Region|71
+Græsted|56.066|12.285|DK|Capital Region|71
+Svenljunga|57.496|13.111|SE|Västra Götaland|71
+Hjortshøj|56.248|10.265|DK|Central Jutland|71
+Öckerö|57.708|11.656|SE|Västra Götaland|71
+Sabro|56.213|10.034|DK|Central Jutland|71
+Stavtrup|56.131|10.120|DK|Central Jutland|71
+Aneby|57.839|14.810|SE|Jönköping|71
+Skärhamn|57.987|11.557|SE|Västra Götaland|71
+Storvorde|57.004|10.101|DK|North Denmark|71
+Skui|59.927|10.447|NO|Akershus|71
+Trige|56.253|10.148|DK|Central Jutland|71
+Lysaker|59.910|10.635|NO|Akershus|71
+Lejre|55.605|11.975|DK|Zealand|71
+Tygelsjö|55.517|13.000|SE|Skåne|71
+Mellbystrand|56.486|12.940|SE|Halland|71
+Tollarp|55.933|13.983|SE|Skåne|71
+Auning|56.431|10.378|DK|Central Jutland|71
+Søndersø|55.485|10.255|DK|South Denmark|71
+Thurø By|55.047|10.664|DK|South Denmark|71
+Hammar|56.017|14.217|SE|Skåne|70
+Glamsbjerg|55.272|10.105|DK|South Denmark|70
+Årjäng|59.392|12.133|SE|Värmland|70
+Flateby|59.830|11.153|NO|Akershus|70
+Ekeby|56.000|12.967|SE|Skåne|70
+Bjæverskov|55.458|12.037|DK|Zealand|70
+Vissenbjerg|55.385|10.138|DK|South Denmark|70
+Årup|55.373|10.041|DK|South Denmark|70
+Tranemo|57.483|13.350|SE|Västra Götaland|70
+Vindinge|55.623|12.139|DK|Zealand|70
+Skibby|55.751|11.961|DK|Capital Region|70
+Rønde|56.301|10.475|DK|Central Jutland|70
+Tollarp1|56.167|14.283|SE|Skåne|70
+Søften|56.238|10.085|DK|Central Jutland|70
+Spydeberg|59.617|11.086|NO|Østfold|70
+Munka-Ljungby|56.250|12.967|SE|Skåne|70
+Knislinge|56.183|14.083|SE|Skåne|70
+Frederiksberg|55.416|11.569|DK|Zealand|70
+Häljarp|55.850|12.917|SE|Skåne|70
+Ejby|55.486|12.082|DK|Zealand|70
+Bengtsfors|59.029|12.232|SE|Västra Götaland|70
+Laxå|58.986|14.619|SE|Örebro|70
+Tenhult|57.708|14.322|SE|Jönköping|70
+Tofte|59.543|10.561|NO|Akershus|70
+Broby|56.255|14.078|SE|Skåne|70
+Tingsryd|56.525|14.979|SE|Kronoberg|70
+Framlev|56.157|10.013|DK|Central Jutland|70
+Kopparberg|59.876|14.994|SE|Örebro|70
+Asnæs|55.812|11.501|DK|Zealand|70
+Sindal|57.471|10.203|DK|North Denmark|70
+Blovstrød|55.870|12.386|DK|Capital Region|70
+Sætre|59.681|10.527|NO|Akershus|70
+Ed|58.912|11.933|SE|Västra Götaland|70
+Sandared|57.710|12.792|SE|Västra Götaland|70
+Bullerup|55.427|10.471|DK|South Denmark|69
+Särö|57.506|11.932|SE|Halland|69
+Skævinge|55.908|12.150|DK|Capital Region|69
+Genarp|55.599|13.398|SE|Skåne|69
+Åsgårdstrand|59.349|10.469|NO|Vestfold|69
+Hårlev|55.349|12.234|DK|Zealand|69
+Grästorp|58.332|12.681|SE|Västra Götaland|69
+Påarp|56.033|12.817|SE|Skåne|69
+Hindås|57.703|12.447|SE|Västra Götaland|69
+Svinninge|55.883|11.610|DK|Zealand|69
+Gundsømagle|55.736|12.152|DK|Zealand|69
+Vålberg|59.391|13.186|SE|Värmland|69
+Stora Höga|58.017|11.833|SE|Västra Götaland|69
+Ganløse|55.791|12.264|DK|Capital Region|69
+Munkfors|59.839|13.544|SE|Värmland|69
+Frillesås|57.317|12.167|SE|Halland|69
+Fyllinge|56.650|12.917|SE|Halland|69
+Billesholm|56.050|13.000|SE|Skåne|69
+Olofstorp|58.250|14.000|SE|Västra Götaland|69
+Ryomgård|56.384|10.503|DK|Central Jutland|69
+Røyken|59.747|10.388|NO|Akershus|69
+Vejbystrand|56.318|12.767|SE|Skåne|69
+Bjärnum|56.290|13.711|SE|Skåne|69
+Bårslöv|56.009|12.806|SE|Skåne|69
+Rønnede|55.257|12.021|DK|Zealand|69
+Ullerslev|55.362|10.652|DK|South Denmark|69
+Gränna|58.017|14.467|SE|Jönköping|69
+Deje|59.603|13.472|SE|Värmland|69
+Strøby Egede|55.414|12.245|DK|Zealand|69
+Odensjö|57.717|14.167|SE|Jönköping|68
+Tvååker|57.041|12.399|SE|Halland|68
+Vester Hassing|57.068|10.126|DK|North Denmark|68
+Gullhaug|59.501|10.252|NO|Vestfold|68
+Sjömarken|57.715|12.835|SE|Västra Götaland|68
+Rygge|59.378|10.750|NO|Østfold|68
+Eriksbo|57.771|12.042|SE|Västra Götaland|68
+Ödeshög|58.229|14.653|SE|Östergötland|68
+Gånghester|57.700|13.017|SE|Västra Götaland|68
+Strandby|57.492|10.496|DK|North Denmark|68
+Tommerup Stationsby|55.345|10.176|DK|South Denmark|68
+Ljunghusen|55.398|12.925|SE|Skåne|68
+Karise|55.307|12.197|DK|Zealand|68
+Ryggebyen|59.375|10.750|NO|Østfold|68
+Herrestad|58.383|14.800|SE|Östergötland|68
+Gørlev|55.539|11.227|DK|Zealand|68
+Haarby|55.224|10.123|DK|South Denmark|68
+Rottne|57.017|14.900|SE|Kronoberg|68
+Liseleje|56.013|11.965|DK|Capital Region|68
+Hals|56.996|10.308|DK|North Denmark|68
+Förslöv|56.350|12.817|SE|Skåne|68
+Fjärås kyrkby|57.459|12.175|SE|Halland|68
+Hørve|55.753|11.453|DK|Zealand|68
+Charlottenberg|59.884|12.304|SE|Värmland|67
+Vindeby|55.045|10.613|DK|South Denmark|67
+Billingstad|59.875|10.482|NO|Akershus|67
+Osted|55.562|11.958|DK|Zealand|67
+Bjørkelangen|59.884|11.564|NO|Akershus|67
+Vipperød|55.668|11.740|DK|Zealand|67
+Lervik|59.271|10.746|NO|Østfold|67
+Fuglebjerg|55.306|11.548|DK|Zealand|67
+Fritsla|57.557|12.785|SE|Västra Götaland|67
+Frösakull|56.683|12.733|SE|Halland|67
+Brastad|58.383|11.483|SE|Västra Götaland|67
+Hyllinge|56.100|12.850|SE|Skåne|67
+Vintrosa|59.250|14.950|SE|Örebro|67
+Glumsø|55.357|11.686|DK|Zealand|67
+Veddige|57.266|12.332|SE|Halland|67
+Strömsnäsbruk|56.550|13.717|SE|Kronoberg|67
+Henån|58.238|11.676|SE|Västra Götaland|67
+Nyråd|55.005|11.961|DK|Zealand|67
+Storfors|59.532|14.272|SE|Värmland|67
+Sjuntorp|58.200|12.217|SE|Västra Götaland|67
+Tomter|59.659|10.995|NO|Østfold|67
+Svebølle|55.652|11.287|DK|Zealand|67
+Stige|55.439|10.409|DK|South Denmark|67
+Aursmoen|59.928|11.443|NO|Akershus|67
+Fjugesta|59.174|14.872|SE|Örebro|67
+Spentrup|56.537|10.038|DK|Central Jutland|67
+Ljungbyhed|56.074|13.240|SE|Skåne|67
+Åkirkeby|55.071|14.920|DK|Capital Region|66
+Lisbjerg|56.221|10.169|DK|Central Jutland|66
+Glumslöv|55.941|12.809|SE|Skåne|66
+Forserum|57.700|14.467|SE|Jönköping|66
+Melsomvik|59.224|10.336|NO|Vestfold|66
+Forlev|55.374|11.260|DK|Zealand|66
+Nødebo|55.979|12.347|DK|Capital Region|66
+Hunnebostrand|58.441|11.303|SE|Västra Götaland|66
+Årøysund|59.183|10.457|NO|Vestfold|66
+Gadstrup|55.569|12.095|DK|Zealand|66
+Ryslinge|55.242|10.537|DK|South Denmark|66
+Solrød|55.536|12.183|DK|Zealand|66
+Stenkullen|57.795|12.317|SE|Västra Götaland|66
+Fagerstrand|59.737|10.594|NO|Akershus|66
+Färgelanda|58.568|11.992|SE|Västra Götaland|66
+Lönsboda|56.400|14.317|SE|Skåne|66
+Träslövsläge|57.054|12.279|SE|Halland|66
+Skattkärr|59.412|13.671|SE|Värmland|66
+Ejby|55.689|11.847|DK|Zealand|66
+Jonstorp|56.234|12.672|SE|Skåne|66
+Morud|55.448|10.190|DK|South Denmark|66
+Anderslöv|55.438|13.320|SE|Skåne|66
+Bodafors|57.500|14.700|SE|Jönköping|66
+Ølsted|55.923|12.071|DK|Capital Region|66
+Svanesund|58.143|11.818|SE|Västra Götaland|66
+Stångby|55.750|13.198|SE|Skåne|66
+Klågerup|55.594|13.246|SE|Skåne|66
+Mörarp|56.057|12.880|SE|Skåne|66
+Skårup|55.091|10.690|DK|South Denmark|66
+Getinge|56.817|12.733|SE|Halland|66
+Stenlille|55.539|11.591|DK|Zealand|66
+Svängsta|56.267|14.767|SE|Blekinge|66
+Neder Vindinge|55.032|11.884|DK|Zealand|66
+Blakstad|59.819|10.464|NO|Akershus|66
+Andalen|57.700|11.761|SE|Västra Götaland|66
+Molkom|59.601|13.721|SE|Värmland|66
+Nossebro|58.188|12.716|SE|Västra Götaland|66
+Moheda|57.000|14.567|SE|Kronoberg|65
+Grebbestad|58.702|11.257|SE|Västra Götaland|65
+Mørkøv|55.652|11.501|DK|Zealand|65
+Skjeberg|59.211|11.190|NO|Østfold|65
+Skrea|56.883|12.567|SE|Halland|65
+Allingåbro|56.464|10.320|DK|Central Jutland|65
+Fjälkinge|56.044|14.276|SE|Skåne|65
+Selvik|59.566|10.260|NO|Vestfold|65
+Sem|59.282|10.330|NO|Vestfold|65
+Tårs|57.383|10.117|DK|North Denmark|65
+Kvidinge|56.134|13.047|SE|Skåne|65
+Stenstorp|58.273|13.715|SE|Västra Götaland|65
+Skepplanda|57.983|12.200|SE|Västra Götaland|65
+Vislanda|56.783|14.450|SE|Kronoberg|65
+Sösdala|56.040|13.678|SE|Skåne|65
+Karlshus|59.352|10.872|NO|Østfold|65
+Ørslev|55.044|11.968|DK|Zealand|65
+Bua|57.238|12.122|SE|Halland|65
+Vittsjö|56.344|13.661|SE|Skåne|65
+Veksø|55.755|12.238|DK|Capital Region|65
+Rødvig|55.255|12.379|DK|Zealand|65
+Tanumshede|58.724|11.326|SE|Västra Götaland|65
+Søvang|55.569|12.616|DK|Capital Region|65
+Jonstorp|58.000|12.717|SE|Västra Götaland|65
+Ingelstad|56.750|14.917|SE|Kronoberg|65
+Höviksnäs|58.033|11.767|SE|Västra Götaland|65
+Ørbæk|55.258|10.671|DK|South Denmark|65
+Hillerstorp|57.313|13.884|SE|Jönköping|65
+Östra Ljungby|56.196|13.092|SE|Skåne|65
+Källby|58.510|13.306|SE|Västra Götaland|65
+Ørje|59.480|11.660|NO|Østfold|65
+Skoppum|59.386|10.411|NO|Vestfold|65
+Ingared|57.860|12.452|SE|Västra Götaland|65
+Teckomatorp|55.867|13.083|SE|Skåne|65
+Lille Skensved|55.510|12.135|DK|Zealand|65
+Lammhult|57.167|14.583|SE|Kronoberg|65
+Hästveda|56.285|13.935|SE|Skåne|65
+Åled|56.750|12.933|SE|Halland|65
+Haverdal|56.722|12.672|SE|Halland|65
+Kværndrup|55.178|10.525|DK|South Denmark|64
+Ruds-Vedby|55.541|11.380|DK|Zealand|64
+Gullbrandstorp|56.700|12.733|SE|Halland|64
+Gevninge|55.645|11.957|DK|Zealand|64
+Hasle|55.182|14.711|DK|Capital Region|64
+Garphyttan|59.304|14.946|SE|Örebro|64
+Jämshög|56.233|14.517|SE|Blekinge|64
+Kode|57.943|11.851|SE|Västra Götaland|64
+Marieholm|55.867|13.150|SE|Skåne|64
+Rydaholm|56.984|14.308|SE|Jönköping|64
+Marieholm|57.383|13.850|SE|Jönköping|64
+Gandrup|57.057|10.181|DK|North Denmark|64
+Trönninge|56.617|12.933|SE|Halland|64
+Gullspång|58.986|14.096|SE|Västra Götaland|64
+Asmundtorp|55.883|12.933|SE|Skåne|64
+Floby|58.133|13.333|SE|Västra Götaland|64
+Kaxholmen|57.853|14.305|SE|Jönköping|64
+Ramløse|56.014|12.116|DK|Capital Region|64
+Rönnäng|57.933|11.583|SE|Västra Götaland|64
+Lagan|56.917|13.983|SE|Kronoberg|64
+Bredaryd|57.173|13.738|SE|Jönköping|64
+Hällevik|56.017|14.700|SE|Blekinge|64
+Tommerup|55.320|10.207|DK|South Denmark|64
+Lödöse|58.030|12.159|SE|Västra Götaland|64
+Rävlanda|57.653|12.498|SE|Västra Götaland|64
+Brålanda|58.563|12.349|SE|Västra Götaland|64
+Kågeröd|56.000|13.088|SE|Skåne|64
+Forsheda|57.164|13.830|SE|Jönköping|64
+Over Holluf|55.358|10.470|DK|South Denmark|64
+Harplinge|56.745|12.728|SE|Halland|64
+Björkö|57.732|11.679|SE|Västra Götaland|63
+Sollebrunn|58.117|12.533|SE|Västra Götaland|63
+Ryd|56.467|14.683|SE|Kronoberg|63
+Glimåkra|56.300|14.133|SE|Skåne|63
+Jörlanda|57.986|11.829|SE|Västra Götaland|63
+Gemla|56.868|14.644|SE|Kronoberg|63
+Vrigstad|57.350|14.467|SE|Jönköping|63
+Dronningmølle|56.095|12.385|DK|Capital Region|63
+Myggenäs|58.062|11.749|SE|Västra Götaland|63
+Blentarp|55.583|13.600|SE|Skåne|63
+Allinge|55.276|14.802|DK|Capital Region|63
+Donsö|57.600|11.799|SE|Västra Götaland|63
+Nørre Broby|55.252|10.230|DK|South Denmark|63
+Troense|55.033|10.644|DK|South Denmark|63
+Landsbro|57.367|14.900|SE|Jönköping|63
+Limmared|57.536|13.356|SE|Västra Götaland|63
+Sibbhult|56.267|14.200|SE|Skåne|63
+Assens|56.676|10.062|DK|North Denmark|63
+Højby|55.911|11.598|DK|Zealand|63
+Veinge|56.550|13.067|SE|Halland|63
+Ödsmål|58.100|11.850|SE|Västra Götaland|63
+Dals Långed|58.926|12.309|SE|Västra Götaland|63
+Önnestad|56.057|14.022|SE|Skåne|63
+Sande|59.587|10.208|NO|Vestfold|63
+Hanaskog|56.161|14.093|SE|Skåne|63
+Rydsgård|55.473|13.588|SE|Skåne|63
+Ålbæk|57.593|10.405|DK|North Denmark|63
+Larkollen|59.332|10.667|NO|Østfold|63
+Nolvik|57.775|11.833|SE|Västra Götaland|63
+Stöpen|58.478|13.866|SE|Västra Götaland|63
+Skotterud|59.983|12.128|NO|Innlandet|63
+Åmotfors|59.762|12.362|SE|Värmland|63
+Tisvilde|56.057|12.098|DK|Capital Region|63
+Degeberga|55.833|14.083|SE|Skåne|62
+Diseröd|57.926|12.026|SE|Västra Götaland|62
+Hestra|57.442|13.596|SE|Jönköping|62
+Hestra|57.917|14.583|SE|Jönköping|62
+Styrsö|57.616|11.786|SE|Västra Götaland|62
+Gantofta|55.987|12.805|SE|Skåne|62
+Mjällby|56.050|14.683|SE|Blekinge|62
+Västra Hagen|57.424|11.936|SE|Halland|62
+Vester-Skerninge|55.073|10.455|DK|South Denmark|62
+Näsum|56.177|14.497|SE|Skåne|62
+Smygehamn|55.343|13.370|SE|Skåne|62
+Smögen|58.356|11.224|SE|Västra Götaland|62
+Reftele|57.175|13.595|SE|Jönköping|62
+Kvänum|58.300|13.183|SE|Västra Götaland|62
+Mjällby|56.683|12.767|SE|Halland|62
+Bor|57.117|14.167|SE|Jönköping|62
+Skivarp|55.417|13.567|SE|Skåne|62
+Hova|58.854|14.219|SE|Västra Götaland|62
+Köpingebro|55.455|13.935|SE|Skåne|62
+Löberöd|55.776|13.524|SE|Skåne|62
+Norra Åsum|55.983|14.150|SE|Skåne|62
+Torup|56.957|13.077|SE|Halland|62
+Barkåker|59.319|10.390|NO|Vestfold|62
+Björneborg|59.241|14.249|SE|Värmland|62
+Kvistgård|55.993|12.504|DK|Capital Region|62
+Skodsborg|55.822|12.573|DK|Capital Region|62
+Annelund|57.988|13.075|SE|Västra Götaland|62
+Gustav Adolf|56.017|14.250|SE|Skåne|62
+Töcksfors|59.508|11.844|SE|Värmland|62
+Knäred|56.519|13.324|SE|Halland|62
+Sätila|57.542|12.434|SE|Västra Götaland|62
+Strövelstorp|56.170|12.839|SE|Skåne|62
+Skoger|59.713|10.254|NO|Buskerud|62
+Horred|57.355|12.478|SE|Västra Götaland|62
+Stehag|55.902|13.396|SE|Skåne|62
+Kirke-Esbønderup|56.050|12.346|DK|Capital Region|62
+Store Merløse|55.544|11.713|DK|Zealand|61
+Leirsund|59.997|11.087|NO|Akershus|61
+Saxtorpsskogen|55.832|12.944|SE|Skåne|61
+Axvall|58.383|13.567|SE|Västra Götaland|61
+Hököpinge|55.494|13.008|SE|Skåne|61
+Sätofta|55.917|13.550|SE|Skåne|61
+Skegrie|55.406|13.077|SE|Skåne|61
+Åros|59.706|10.511|NO|Akershus|61
+Knappstad|59.624|11.033|NO|Østfold|61
+Berger|59.550|10.386|NO|Buskerud|61
+Steninge|56.769|12.630|SE|Halland|61
+Billingsfors|58.983|12.250|SE|Västra Götaland|61
+Knabstrup|55.664|11.551|DK|Zealand|61
+Undløse|55.605|11.588|DK|Zealand|61
+Hjärnarp|56.317|12.917|SE|Skåne|61
+Gärsnäs|55.549|14.179|SE|Skåne|61
+Malmbäck|57.577|14.462|SE|Jönköping|61
+Länghem|57.600|13.233|SE|Västra Götaland|61
+Glommen|56.933|12.350|SE|Halland|61
+Elling|57.477|10.480|DK|North Denmark|61
+Torekov|56.425|12.633|SE|Skåne|61
+Valje|56.063|14.544|SE|Skåne|61
+Angered|57.786|12.099|SE|Västra Götaland|61
+Billeberga|55.883|13.000|SE|Skåne|60
+Mölltorp|58.500|14.400|SE|Västra Götaland|60
+Tormestorp|56.114|13.745|SE|Skåne|60
+Björboholm|57.871|12.325|SE|Västra Götaland|60
+Ellös|58.183|11.467|SE|Västra Götaland|60
+Vinninga|58.450|13.267|SE|Västra Götaland|60
+Stockaryd|57.317|14.593|SE|Jönköping|60
+Olstorp|57.823|12.277|SE|Västra Götaland|60
+Färlöv|56.067|14.083|SE|Skåne|60
+Hvittingfoss|59.486|10.012|NO|Buskerud|60
+Tjuvkil|57.900|11.733|SE|Västra Götaland|60
+Slottsbron|59.323|13.103|SE|Värmland|60
+Göta|58.106|12.153|SE|Västra Götaland|60
+Tranebjerg|55.833|10.597|DK|Central Jutland|58
+Skjærhalden|59.025|11.037|NO|Østfold|56
+Byrum|57.257|10.997|DK|North Denmark|53
+Fossby|59.222|11.699|NO|Østfold|50
+Alafors|57.926|12.078|SE|Västra Götaland|0
+Borgheim|59.226|10.407|NO|Vestfold|0
+Buddinge|55.748|12.495|DK|Capital Region|0
+Elvestad|59.624|10.951|NO|Østfold|0
+Fjerdingby|59.926|11.065|NO|Akershus|0
+Herlev|55.724|12.440|DK|Capital Region|0
+Holte|55.817|12.467|DK|Capital Region|0
+Kirkebygda|59.492|10.874|NO|Østfold|0
+Kirkebygda|59.765|11.145|NO|Akershus|0
+Kjenn|59.931|10.954|NO|Akershus|0
+Kokkedal|55.912|12.500|DK|Capital Region|0
+Kolbotn|59.811|10.804|NO|Akershus|0
+Lierbyen|59.787|10.244|NO|Buskerud|0
+Meieribyen|59.475|11.161|NO|Østfold|0
+Mjøndalen|59.751|10.025|NO|Buskerud|0
+Revetal|59.372|10.263|NO|Vestfold|0
+Sandvika|59.891|10.528|NO|Akershus|0
+Skjønhaug|59.641|11.316|NO|Østfold|0
+St Lars|55.686|13.181|SE|Skåne|0

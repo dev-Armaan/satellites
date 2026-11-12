@@ -1,0 +1,513 @@
+Minneapolis|44.980|-93.264|US|Minnesota|112
+Saint Paul|44.944|-93.093|US|Minnesota|110
+Des Moines|41.601|-93.609|US|Iowa|107
+Cedar Rapids|42.008|-91.644|US|Iowa|102
+Rochester|44.022|-92.470|US|Minnesota|101
+Davenport|41.524|-90.578|US|Iowa|100
+Bloomington|44.841|-93.298|US|Minnesota|99
+Iowa City|41.661|-91.530|US|Iowa|97
+Waterloo|42.493|-92.343|US|Iowa|97
+Woodbury|44.924|-92.959|US|Minnesota|97
+Eau Claire|44.811|-91.498|US|Wisconsin|97
+Eagan|44.804|-93.167|US|Minnesota|96
+Ames|42.035|-93.620|US|Iowa|96
+West Des Moines|41.577|-93.711|US|Iowa|96
+Eden Prairie|44.855|-93.471|US|Minnesota|96
+Burnsville|44.768|-93.278|US|Minnesota|96
+Lakeville|44.650|-93.243|US|Minnesota|96
+Dubuque|42.501|-90.665|US|Iowa|95
+Ankeny|41.730|-93.606|US|Iowa|95
+La Crosse|43.801|-91.240|US|Wisconsin|94
+Minnetonka|44.913|-93.503|US|Minnesota|94
+Apple Valley|44.732|-93.218|US|Minnesota|94
+North La Crosse|43.846|-91.248|US|Wisconsin|94
+Edina|44.890|-93.350|US|Minnesota|94
+Saint Louis Park|44.948|-93.348|US|Minnesota|93
+Urbandale|41.627|-93.712|US|Iowa|93
+Moline|41.507|-90.515|US|Illinois|93
+Cedar Falls|42.528|-92.445|US|Iowa|92
+Mankato|44.159|-94.009|US|Minnesota|92
+Maplewood|44.953|-92.995|US|Minnesota|92
+Shakopee|44.798|-93.527|US|Minnesota|92
+Rock Island|41.509|-90.579|US|Illinois|92
+Marion|42.034|-91.598|US|Iowa|91
+Richfield|44.883|-93.283|US|Minnesota|91
+Cottage Grove|44.828|-92.944|US|Minnesota|91
+Bettendorf|41.524|-90.516|US|Iowa|91
+Inver Grove Heights|44.848|-93.043|US|Minnesota|91
+Galesburg|40.948|-90.371|US|Illinois|90
+Savage|44.779|-93.336|US|Minnesota|90
+Longfellow Community|44.943|-93.226|US|Minnesota|89
+Oakdale|44.963|-92.965|US|Minnesota|89
+Marshalltown|42.049|-92.908|US|Iowa|89
+Mason City|43.154|-93.201|US|Iowa|89
+Winona|44.050|-91.639|US|Minnesota|89
+Clinton|41.844|-90.189|US|Iowa|88
+Owatonna|44.084|-93.226|US|Minnesota|88
+Burlington|40.808|-91.113|US|Iowa|88
+Chanhassen|44.862|-93.531|US|Minnesota|88
+Prior Lake|44.713|-93.423|US|Minnesota|88
+Chaska|44.789|-93.602|US|Minnesota|88
+Fort Dodge|42.497|-94.168|US|Iowa|88
+Ottumwa|41.020|-92.411|US|Iowa|88
+Austin|43.667|-92.975|US|Minnesota|88
+Muscatine|41.424|-91.043|US|Iowa|88
+Faribault|44.295|-93.269|US|Minnesota|87
+Rosemount|44.739|-93.126|US|Minnesota|87
+Farmington|44.640|-93.144|US|Minnesota|87
+Hastings|44.743|-92.852|US|Minnesota|87
+East Moline|41.501|-90.444|US|Illinois|87
+Johnston|41.673|-93.698|US|Iowa|86
+Coralville|41.676|-91.580|US|Iowa|86
+Northfield|44.458|-93.162|US|Minnesota|86
+South Saint Paul|44.893|-93.035|US|Minnesota|86
+West Saint Paul|44.916|-93.102|US|Minnesota|86
+Waukee|41.612|-93.885|US|Iowa|86
+Marshfield|44.669|-90.172|US|Wisconsin|85
+Macomb|40.459|-90.672|US|Illinois|85
+Onalaska|43.884|-91.235|US|Wisconsin|85
+Albert Lea|43.648|-93.368|US|Minnesota|85
+Hopkins|44.925|-93.463|US|Minnesota|85
+Kirksville|40.195|-92.583|US|Missouri|85
+Altoona|41.644|-93.465|US|Iowa|85
+Red Wing|44.562|-92.534|US|Minnesota|84
+Menomonie|44.876|-91.919|US|Wisconsin|84
+North Liberty|41.749|-91.598|US|Iowa|84
+Indianola|41.358|-93.557|US|Iowa|84
+Clive|41.603|-93.724|US|Iowa|84
+River Falls|44.861|-92.624|US|Wisconsin|84
+Newton|41.700|-93.048|US|Iowa|84
+Canton|40.558|-90.035|US|Illinois|83
+Chippewa Falls|44.937|-91.393|US|Wisconsin|83
+Hutchinson|44.888|-94.370|US|Minnesota|83
+Hudson|44.975|-92.757|US|Wisconsin|83
+North Mankato|44.173|-94.034|US|Minnesota|83
+New Ulm|44.312|-94.461|US|Minnesota|82
+Boone|42.060|-93.880|US|Iowa|82
+Platteville|42.734|-90.478|US|Wisconsin|82
+Waconia|44.851|-93.787|US|Minnesota|82
+Maryville|40.346|-94.872|US|Missouri|81
+Oskaloosa|41.296|-92.644|US|Iowa|81
+Mendota Heights|44.884|-93.138|US|Minnesota|81
+Saint Peter|44.324|-93.958|US|Minnesota|81
+Fort Madison|40.630|-91.315|US|Iowa|81
+Grimes|41.688|-93.791|US|Iowa|81
+Keokuk|40.397|-91.385|US|Iowa|81
+Pella|41.408|-92.916|US|Iowa|80
+Fairmont|43.652|-94.461|US|Minnesota|80
+Norwalk|41.476|-93.679|US|Iowa|80
+Waverly|42.726|-92.475|US|Iowa|80
+Carroll|42.066|-94.867|US|Iowa|80
+Fairfield|41.009|-91.963|US|Iowa|80
+Sparta|43.944|-90.813|US|Wisconsin|80
+Holmen|43.963|-91.256|US|Wisconsin|80
+Reedsburg|43.532|-90.003|US|Wisconsin|80
+Tomah|43.979|-90.504|US|Wisconsin|79
+Mound|44.937|-93.666|US|Minnesota|79
+Pleasant Hill|41.584|-93.520|US|Iowa|79
+Monmouth|40.911|-90.647|US|Illinois|79
+Waseca|44.078|-93.507|US|Minnesota|79
+Grinnell|41.743|-92.722|US|Iowa|79
+Victoria|44.859|-93.662|US|Minnesota|79
+Mount Pleasant|40.964|-91.558|US|Iowa|79
+Lake Elmo|44.996|-92.879|US|Minnesota|78
+Perry|41.839|-94.107|US|Iowa|78
+Orono|44.971|-93.604|US|Minnesota|78
+Decorah|43.303|-91.786|US|Iowa|78
+Creston|41.059|-94.361|US|Iowa|78
+Webster City|42.469|-93.816|US|Iowa|78
+Shorewood|44.901|-93.589|US|Minnesota|78
+Clear Lake|43.138|-93.379|US|Iowa|78
+New Prague|44.543|-93.576|US|Minnesota|78
+Silvis|41.512|-90.415|US|Illinois|77
+Charles City|43.066|-92.672|US|Iowa|77
+Washington|41.299|-91.693|US|Iowa|77
+Altoona|44.805|-91.443|US|Wisconsin|77
+Knoxville|41.321|-93.109|US|Iowa|77
+Hiawatha|42.036|-91.682|US|Iowa|77
+Minnetrista|44.938|-93.718|US|Minnesota|77
+Belle Plaine|44.623|-93.769|US|Minnesota|77
+Nevada|42.023|-93.452|US|Iowa|77
+Geneseo|41.448|-90.154|US|Illinois|76
+Lake Hallie|44.876|-91.441|US|Wisconsin|76
+Eldridge|41.658|-90.585|US|Iowa|76
+Oelwein|42.673|-91.913|US|Iowa|76
+Kasson|44.030|-92.751|US|Minnesota|76
+Jordan|44.667|-93.627|US|Minnesota|76
+Stewartville|43.856|-92.489|US|Minnesota|76
+Independence|42.469|-91.889|US|Iowa|76
+Estherville|43.402|-94.833|US|Iowa|76
+Maquoketa|42.069|-90.666|US|Iowa|76
+Trenton|40.079|-93.617|US|Missouri|75
+Prairie du Chien|43.052|-91.141|US|Wisconsin|75
+Centerville|42.093|-93.936|US|Iowa|75
+Beardstown|40.018|-90.424|US|Illinois|75
+Falcon Heights|44.992|-93.166|US|Minnesota|75
+Glencoe|44.769|-94.152|US|Minnesota|75
+Algona|43.070|-94.233|US|Iowa|75
+Anamosa|42.108|-91.285|US|Iowa|75
+Centerville|40.734|-92.874|US|Iowa|75
+Byron|44.033|-92.645|US|Minnesota|75
+Asbury|42.514|-90.752|US|Iowa|74
+De Witt|41.823|-90.538|US|Iowa|74
+Iowa Falls|42.522|-93.251|US|Iowa|74
+Winterset|41.331|-94.014|US|Iowa|74
+Vinton|42.169|-92.024|US|Iowa|74
+Colona|41.484|-90.353|US|Illinois|74
+Milan|41.453|-90.572|US|Illinois|74
+Manchester|42.484|-91.455|US|Iowa|74
+Lake City|44.450|-92.268|US|Minnesota|74
+West Salem|43.899|-91.081|US|Wisconsin|74
+Richland Center|43.335|-90.387|US|Wisconsin|74
+Bondurant|41.701|-93.462|US|Iowa|74
+Osceola|41.034|-93.766|US|Iowa|74
+Windsor Heights|41.598|-93.708|US|Iowa|74
+La Crescent|43.828|-91.304|US|Minnesota|74
+Evansdale|42.469|-92.281|US|Iowa|74
+Elko New Market|44.565|-93.327|US|Minnesota|73
+Dodgeville|42.960|-90.130|US|Wisconsin|73
+Wayzata|44.974|-93.507|US|Minnesota|73
+Saint James|43.982|-94.627|US|Minnesota|73
+Humboldt|42.721|-94.215|US|Iowa|73
+Mount Vernon|41.922|-91.417|US|Iowa|73
+Mauston|43.797|-90.077|US|Wisconsin|73
+Viroqua|43.557|-90.889|US|Wisconsin|73
+Camanche|41.788|-90.256|US|Iowa|73
+Polk City|41.771|-93.713|US|Iowa|73
+Carver|44.764|-93.626|US|Minnesota|73
+Hampton|42.742|-93.202|US|Iowa|73
+Watertown|44.964|-93.847|US|Minnesota|73
+Adel|41.614|-94.017|US|Iowa|73
+Chariton|41.014|-93.307|US|Iowa|72
+Prescott|44.749|-92.802|US|Wisconsin|72
+French Island|43.858|-91.260|US|Wisconsin|72
+Dyersville|42.484|-91.123|US|Iowa|72
+Jefferson|42.015|-94.377|US|Iowa|72
+Carlisle|41.501|-93.491|US|Iowa|72
+Goodview|44.062|-91.696|US|Minnesota|72
+Cannon Falls|44.507|-92.905|US|Minnesota|72
+Forest City|43.262|-93.637|US|Iowa|72
+Le Sueur|44.461|-93.915|US|Minnesota|72
+Le Claire|41.599|-90.343|US|Iowa|72
+Baldwin|44.967|-92.374|US|Wisconsin|72
+Deephaven|44.930|-93.522|US|Minnesota|72
+Lonsdale|44.480|-93.429|US|Minnesota|72
+Cresco|43.381|-92.114|US|Iowa|72
+Albia|41.027|-92.806|US|Iowa|72
+Monticello|42.238|-91.187|US|Iowa|72
+North Hudson|44.993|-92.757|US|Wisconsin|72
+Emmetsburg|43.113|-94.683|US|Iowa|72
+Lancaster|42.847|-90.711|US|Wisconsin|72
+Coal Valley|41.429|-90.461|US|Illinois|71
+Waukon|43.269|-91.476|US|Iowa|71
+Saint Charles|43.969|-92.064|US|Minnesota|71
+West Liberty|41.570|-91.264|US|Iowa|71
+Norwood Young America|44.774|-93.922|US|Minnesota|71
+Osage|43.284|-92.811|US|Iowa|71
+Stanley|44.960|-90.937|US|Wisconsin|71
+Aledo|41.200|-90.749|US|Illinois|71
+Black River Falls|44.295|-90.852|US|Wisconsin|71
+Huxley|41.895|-93.601|US|Iowa|71
+Newport|44.866|-93.000|US|Minnesota|71
+Robins|42.071|-91.667|US|Iowa|71
+New Hampton|43.059|-92.318|US|Iowa|71
+Sleepy Eye|44.297|-94.724|US|Minnesota|71
+Story City|42.187|-93.596|US|Iowa|71
+Eagle Grove|42.664|-93.904|US|Iowa|71
+Fulton|41.867|-90.160|US|Illinois|71
+Zumbrota|44.294|-92.669|US|Minnesota|71
+Pine Island|44.201|-92.646|US|Minnesota|70
+Saylorville|41.679|-93.630|US|Iowa|70
+Galena|42.417|-90.429|US|Illinois|70
+Plainview|44.165|-92.172|US|Minnesota|70
+Blue Earth|43.637|-94.102|US|Minnesota|70
+Jackson|43.621|-94.989|US|Minnesota|70
+Tipton|41.770|-91.128|US|Iowa|70
+Ellsworth|44.732|-92.487|US|Wisconsin|70
+Williamsburg|41.661|-92.009|US|Iowa|70
+Boscobel|43.134|-90.705|US|Wisconsin|70
+Abingdon|40.804|-90.402|US|Illinois|70
+Bethany|40.268|-94.028|US|Missouri|70
+Garner|43.102|-93.602|US|Iowa|70
+Havana|40.300|-90.061|US|Illinois|70
+West Burlington|40.825|-91.157|US|Iowa|70
+Arcadia|44.253|-91.502|US|Wisconsin|70
+Bushnell|40.553|-90.506|US|Illinois|69
+Rushville|40.121|-90.563|US|Illinois|69
+Green Rock|41.473|-90.358|US|Illinois|69
+Afton|44.903|-92.784|US|Minnesota|69
+Montgomery|44.439|-93.581|US|Minnesota|69
+Savanna|42.094|-90.157|US|Illinois|69
+Hamilton|40.396|-91.339|US|Illinois|69
+Eagle Lake|44.165|-93.881|US|Minnesota|69
+Knoxville|40.908|-90.285|US|Illinois|69
+Tama|41.967|-92.577|US|Iowa|69
+Wilton|41.589|-91.017|US|Iowa|69
+Chatfield|43.846|-92.189|US|Minnesota|69
+Caledonia|43.635|-91.497|US|Minnesota|69
+Clarion|42.732|-93.733|US|Iowa|69
+Lake Wissota|44.926|-91.301|US|Wisconsin|69
+Grundy Center|42.362|-92.769|US|Iowa|69
+Eldora|42.361|-93.100|US|Iowa|69
+Dodge Center|44.028|-92.855|US|Minnesota|69
+Jesup|42.476|-92.064|US|Iowa|69
+Tiffin|41.706|-91.663|US|Iowa|68
+Mondovi|44.568|-91.671|US|Wisconsin|68
+Bloomfield|40.752|-92.415|US|Iowa|68
+Madrid|41.877|-93.823|US|Iowa|68
+Carthage|40.416|-91.136|US|Illinois|68
+Solon|41.807|-91.494|US|Iowa|68
+Lake Crystal|44.106|-94.219|US|Minnesota|68
+Center Point|42.191|-91.785|US|Iowa|68
+Galva|41.168|-90.043|US|Illinois|68
+Marengo|41.798|-92.071|US|Iowa|68
+Kalona|41.483|-91.706|US|Iowa|68
+Lauderdale|44.999|-93.206|US|Minnesota|68
+Fairfax|41.919|-91.781|US|Iowa|68
+Mineral Point|42.860|-90.180|US|Wisconsin|68
+Fennimore|42.984|-90.655|US|Wisconsin|68
+New Lisbon|43.879|-90.165|US|Wisconsin|68
+Belle Plaine|41.897|-92.278|US|Iowa|68
+Le Center|44.389|-93.730|US|Minnesota|68
+Wabasha|44.384|-92.033|US|Minnesota|68
+Spring Valley|43.687|-92.389|US|Minnesota|68
+Neillsville|44.560|-90.596|US|Wisconsin|68
+West Union|42.963|-91.808|US|Iowa|68
+Darlington|42.683|-90.118|US|Wisconsin|68
+Park View|41.694|-90.546|US|Iowa|68
+Hudson|42.407|-92.455|US|Iowa|68
+Canton|40.130|-91.519|US|Missouri|68
+Lamoni|40.623|-93.934|US|Iowa|68
+Olivia|44.776|-94.990|US|Minnesota|67
+West Branch|41.671|-91.347|US|Iowa|67
+Farmington|40.698|-90.006|US|Illinois|67
+Terre Haute|40.439|-93.234|US|Missouri|67
+Belmond|42.846|-93.614|US|Iowa|67
+Mitchellville|41.669|-93.358|US|Iowa|67
+Winsted|44.964|-94.047|US|Minnesota|67
+La Porte City|42.315|-92.192|US|Iowa|67
+Saint Bonifacius|44.906|-93.747|US|Minnesota|67
+Excelsior|44.903|-93.566|US|Minnesota|67
+Cascade|42.299|-91.015|US|Iowa|67
+Abbotsford|44.946|-90.316|US|Wisconsin|67
+Westby|43.657|-90.854|US|Wisconsin|67
+Lewistown|40.393|-90.155|US|Illinois|67
+Janesville|44.116|-93.708|US|Minnesota|67
+Madelia|44.051|-94.418|US|Minnesota|67
+Wells|43.746|-93.729|US|Minnesota|67
+Gaylord|44.553|-94.221|US|Minnesota|67
+Tainter Lake|44.989|-91.848|US|Wisconsin|67
+Lisbon|41.921|-91.385|US|Iowa|67
+Toledo|41.996|-92.577|US|Iowa|67
+Bellevue|42.259|-90.423|US|Iowa|67
+Arlington|44.608|-94.081|US|Minnesota|67
+Sac City|42.422|-94.990|US|Iowa|67
+Rockwell City|42.395|-94.634|US|Iowa|67
+Postville|43.085|-91.568|US|Iowa|67
+Mountain Lake|43.939|-94.930|US|Minnesota|67
+Cambridge|41.304|-90.193|US|Illinois|66
+Ely|41.874|-91.585|US|Iowa|66
+Springfield|44.239|-94.976|US|Minnesota|66
+Lake Mills|43.419|-93.533|US|Iowa|66
+Cuba City|42.606|-90.430|US|Wisconsin|66
+Colfax|41.678|-93.245|US|Iowa|66
+Ogden|42.039|-94.028|US|Iowa|66
+Wapello|41.181|-91.185|US|Iowa|66
+Carbon Cliff|41.495|-90.391|US|Illinois|66
+Eyota|43.988|-92.228|US|Minnesota|66
+Kahoka|40.420|-91.720|US|Missouri|66
+Audubon|41.718|-94.932|US|Iowa|66
+Sumner|42.847|-92.092|US|Iowa|66
+Sigourney|41.333|-92.205|US|Iowa|66
+Northwood|43.444|-93.221|US|Iowa|66
+Blooming Prairie|43.867|-93.051|US|Minnesota|66
+Britt|43.098|-93.802|US|Iowa|66
+Parkersburg|42.577|-92.787|US|Iowa|66
+Epworth|42.445|-90.932|US|Iowa|66
+Spencer|44.758|-90.297|US|Wisconsin|66
+Leon|40.740|-93.748|US|Iowa|66
+Mayer|44.885|-93.888|US|Minnesota|66
+Hammond|44.979|-92.436|US|Wisconsin|66
+Brice Prairie|43.939|-91.300|US|Wisconsin|66
+Greenfield|41.305|-94.461|US|Iowa|65
+New London|40.927|-91.400|US|Iowa|65
+Guttenberg|42.786|-91.100|US|Iowa|65
+Columbus Junction|41.280|-91.361|US|Iowa|65
+Milan|40.202|-93.125|US|Missouri|65
+Waterville|44.219|-93.568|US|Minnesota|65
+Durand|44.626|-91.966|US|Wisconsin|65
+Hampton|41.556|-90.409|US|Illinois|65
+Lakeland|44.956|-92.766|US|Minnesota|65
+Denver|42.671|-92.337|US|Iowa|65
+Monroe|41.522|-93.102|US|Iowa|65
+Memphis|40.458|-92.171|US|Missouri|65
+Colby|44.910|-90.316|US|Wisconsin|65
+Orion|41.355|-90.382|US|Illinois|65
+Durant|41.600|-90.911|US|Iowa|65
+Unionville|40.477|-93.003|US|Missouri|65
+Kenyon|44.272|-92.985|US|Minnesota|65
+Long Lake|44.987|-93.572|US|Minnesota|65
+Atkins|41.997|-91.862|US|Iowa|65
+Dallas Center|41.684|-93.961|US|Iowa|65
+Stockton|42.350|-90.007|US|Illinois|65
+Pocahontas|42.736|-94.669|US|Iowa|65
+Mapleton|43.929|-93.956|US|Minnesota|65
+Rushford|43.808|-91.753|US|Minnesota|65
+Albany|40.249|-94.331|US|Missouri|65
+Prairie City|41.599|-93.235|US|Iowa|65
+Spring Park|44.935|-93.632|US|Minnesota|65
+Osseo|44.572|-91.227|US|Wisconsin|65
+Farley|42.443|-91.006|US|Iowa|65
+Lester Prairie|44.884|-94.042|US|Minnesota|65
+Mount Ayr|40.715|-94.235|US|Iowa|65
+Blue Grass|41.509|-90.766|US|Iowa|64
+Lake City|42.267|-94.734|US|Iowa|64
+Pleasantville|41.386|-93.269|US|Iowa|64
+East Dubuque|42.492|-90.643|US|Illinois|64
+Traer|42.194|-92.465|US|Iowa|64
+Port Byron|41.606|-90.335|US|Illinois|64
+Spring Green|43.175|-90.068|US|Wisconsin|64
+Reinbeck|42.324|-92.599|US|Iowa|64
+Roberts|44.984|-92.556|US|Wisconsin|64
+Walcott|41.585|-90.772|US|Iowa|64
+Thorp|44.961|-90.800|US|Wisconsin|64
+Nashua|42.953|-92.536|US|Iowa|64
+Peosta|42.451|-90.850|US|Iowa|64
+Manson|42.529|-94.534|US|Iowa|64
+Trempealeau|44.006|-91.442|US|Wisconsin|64
+Cologne|44.772|-93.781|US|Minnesota|64
+Stuart|41.503|-94.319|US|Iowa|64
+Corydon|40.757|-93.319|US|Iowa|64
+Stratford|44.801|-90.079|US|Wisconsin|64
+Mediapolis|41.008|-91.164|US|Iowa|64
+Lewiston|43.984|-91.869|US|Minnesota|64
+Whitehall|44.367|-91.317|US|Wisconsin|64
+Ackley|42.554|-93.053|US|Iowa|64
+Erie|41.656|-90.079|US|Illinois|64
+Galesville|44.082|-91.349|US|Wisconsin|64
+Warsaw|40.359|-91.435|US|Illinois|64
+Corning|40.990|-94.741|US|Iowa|64
+Tonka Bay|44.909|-93.593|US|Minnesota|64
+Augusta|44.680|-91.120|US|Wisconsin|64
+Guthrie Center|41.677|-94.503|US|Iowa|64
+Slater|41.878|-93.679|US|Iowa|64
+Woodward|41.857|-93.922|US|Iowa|64
+Monona|43.052|-91.389|US|Iowa|64
+Bangor|43.893|-90.990|US|Wisconsin|63
+Fayette|42.842|-91.802|US|Iowa|63
+Dundas|44.429|-93.202|US|Minnesota|63
+State Center|42.017|-93.164|US|Iowa|63
+Urbana|42.224|-91.874|US|Iowa|63
+Walford|41.878|-91.835|US|Iowa|63
+Oronoco|44.166|-92.535|US|Minnesota|63
+Oakland|42.581|-93.443|US|Iowa|63
+Granger|41.761|-93.824|US|Iowa|63
+Wellman|41.464|-91.838|US|Iowa|63
+Cadott|44.948|-91.151|US|Wisconsin|63
+Brooklyn|41.734|-92.445|US|Iowa|63
+Hillsboro|43.652|-90.344|US|Wisconsin|63
+Seymour|44.827|-91.431|US|Wisconsin|63
+Bedford|40.667|-94.721|US|Iowa|63
+Lone Tree|41.488|-91.426|US|Iowa|63
+Montezuma|41.586|-92.527|US|Iowa|63
+Clarksville|42.785|-92.668|US|Iowa|63
+Earlham|41.492|-94.124|US|Iowa|63
+Nora Springs|43.143|-93.004|US|Iowa|63
+Lenox|40.882|-94.562|US|Iowa|63
+Winnebago|43.768|-94.166|US|Minnesota|63
+Elroy|43.741|-90.272|US|Wisconsin|63
+Winthrop|44.543|-94.366|US|Minnesota|63
+Dysart|42.172|-92.306|US|Iowa|63
+Blair|44.294|-91.235|US|Wisconsin|63
+Spring Valley|44.845|-92.239|US|Wisconsin|63
+Tripoli|42.808|-92.258|US|Iowa|63
+Independence|44.357|-91.420|US|Wisconsin|63
+Woodville|44.953|-92.291|US|Wisconsin|63
+Colchester|40.426|-90.793|US|Illinois|63
+La Plata|40.023|-92.492|US|Missouri|63
+Shell Rock|42.710|-92.583|US|Iowa|62
+Hayfield|43.891|-92.848|US|Minnesota|62
+Fall Creek|44.764|-91.277|US|Wisconsin|62
+Oquawka|40.932|-90.947|US|Illinois|62
+Manly|43.287|-93.202|US|Iowa|62
+Lake Panorama|41.711|-94.391|US|Iowa|62
+Roland|42.166|-93.502|US|Iowa|62
+Buffalo|41.456|-90.723|US|Iowa|62
+Maharishi Vedic City|41.053|-91.995|US|Iowa|62
+Preston|43.670|-92.083|US|Minnesota|62
+Spring Grove|43.561|-91.636|US|Minnesota|62
+New Sharon|41.470|-92.651|US|Iowa|62
+Dike|42.464|-92.628|US|Iowa|62
+Central City|42.204|-91.524|US|Iowa|62
+Coon Rapids|41.871|-94.677|US|Iowa|62
+Muscoda|43.185|-90.443|US|Wisconsin|62
+Melcher-Dallas|41.225|-93.241|US|Iowa|62
+Medford|44.174|-93.246|US|Minnesota|62
+Hazel Green|42.533|-90.435|US|Wisconsin|62
+Loyal|44.737|-90.496|US|Wisconsin|62
+Strawberry Point|42.684|-91.534|US|Iowa|62
+Cuba|40.493|-90.191|US|Illinois|62
+Elkader|42.854|-91.405|US|Iowa|62
+Shullsburg|42.573|-90.231|US|Wisconsin|62
+Mantorville|44.069|-92.756|US|Minnesota|62
+La Harpe|40.583|-90.969|US|Illinois|62
+Villisca|40.930|-94.976|US|Iowa|62
+Jewell|42.307|-93.640|US|Iowa|61
+New Richland|43.894|-93.494|US|Minnesota|61
+Stanberry|40.218|-94.538|US|Missouri|61
+Andalusia|41.439|-90.718|US|Illinois|61
+Laurens|42.847|-94.852|US|Iowa|61
+Goodhue|44.401|-92.624|US|Minnesota|61
+Fairfax|44.529|-94.721|US|Minnesota|61
+Colfax|44.997|-91.727|US|Wisconsin|61
+Grand Meadow|43.706|-92.572|US|Minnesota|61
+Van Meter|41.532|-93.954|US|Iowa|61
+Winfield|41.123|-91.441|US|Iowa|61
+Sheffield|42.893|-93.215|US|Iowa|61
+Springville|42.059|-91.443|US|Iowa|61
+Nicollet|44.276|-94.187|US|Minnesota|61
+Elk Run Heights|42.467|-92.257|US|Iowa|61
+Princeton|40.401|-93.581|US|Missouri|61
+Glidden|42.057|-94.729|US|Iowa|61
+Camp Point|40.039|-91.069|US|Illinois|61
+Strum|44.550|-91.393|US|Wisconsin|61
+Greene|42.896|-92.802|US|Iowa|61
+University Heights|41.655|-91.557|US|Iowa|61
+Fairbank|42.639|-92.047|US|Iowa|61
+Gilbert|42.107|-93.650|US|Iowa|61
+Edina|40.168|-92.173|US|Missouri|61
+Mechanicsville|41.904|-91.255|US|Iowa|61
+Nauvoo|40.550|-91.385|US|Illinois|61
+Saint Ansgar|43.378|-92.919|US|Iowa|61
+Baxter|41.826|-93.152|US|Iowa|61
+Conrad|42.225|-92.875|US|Iowa|61
+Cashton|43.742|-90.779|US|Wisconsin|61
+Madison Lake|44.204|-93.816|US|Minnesota|61
+De Soto|41.532|-94.010|US|Iowa|61
+Sherburn|43.652|-94.727|US|Minnesota|61
+Astoria|40.228|-90.360|US|Illinois|61
+Panora|41.692|-94.363|US|Iowa|61
+Wanamingo|44.304|-92.790|US|Minnesota|61
+Aplington|42.584|-92.884|US|Iowa|61
+Hector|44.744|-94.716|US|Minnesota|61
+Truman|43.828|-94.437|US|Minnesota|61
+Portland|43.769|-90.858|US|Wisconsin|61
+The Galena Territory|42.393|-90.326|US|Illinois|60
+Elgin|44.130|-92.252|US|Minnesota|60
+Palo|42.066|-91.795|US|Iowa|60
+Lake Saint Croix Beach|44.921|-92.767|US|Minnesota|60
+Riverside|41.480|-91.581|US|Iowa|60
+Dickeyville|42.627|-90.592|US|Wisconsin|60
+Allison|42.753|-92.795|US|Iowa|60
+North English|41.514|-92.076|US|Iowa|60
+Rockwell|42.985|-93.192|US|Iowa|60
+Greenwood|44.770|-90.599|US|Wisconsin|60
+Eddyville|41.157|-92.637|US|Iowa|60
+Preston|42.050|-90.414|US|Iowa|60
+King City|40.051|-94.524|US|Missouri|60
+Keosauqua|40.730|-91.962|US|Iowa|60
+Dakota City|42.722|-94.197|US|Iowa|58
+Grant City|40.487|-94.411|US|Missouri|58
+Alma|44.320|-91.915|US|Wisconsin|57
+Lancaster|40.521|-92.528|US|Missouri|57
+Monticello|40.118|-91.712|US|Missouri|40

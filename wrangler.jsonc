@@ -1,0 +1,13 @@
+// Cloudflare Worker for www.watched.earth (migration spike: share cards only; see worker/index.ts).
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "watched",
+  "main": "worker/index.ts",
+  "compatibility_date": "2026-10-20",
+  "compatibility_flags": ["nodejs_compat"],
+  // satori imports harfbuzzjs; the package's own loader compiles WebAssembly at runtime, which Workers refuse.
+  "alias": { "harfbuzzjs": "./worker/harfbuzz.ts" },
+  // Fonts and the default plate arrive as bytes; .wasm files are compiled at deploy time by wrangler's default rule.
+  "rules": [{ "type": "Data", "globs": ["**/*.ttf", "**/*.jpg"], "fallthrough": true }],
+  "vars": { "SITE_URL": "https://www.watched.earth" },
+}

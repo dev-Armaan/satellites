@@ -1,6 +1,6 @@
 /**
  * In-app event telemetry: a small queue that batches events and sends them to the same-origin relay
- * (`/api/e`, which forwards them to the `log_events` RPC with the visitor's country from Vercel's edge).
+ * (`/api/e`, which forwards them to the `log_events` RPC with the visitor's country from the host's edge: Vercel's or Cloudflare's header).
  *
  * Privacy (README, About page):
  *  - No cookies, nothing persistent: the session id is random per TAB, in sessionStorage.

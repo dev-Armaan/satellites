@@ -404,7 +404,7 @@ function Dashboard({ s, busy, onRefresh }: { s: AdminStats; busy: boolean; onRef
           <Panel title="DEVICES">
             <Split rows={s.top['session.device']} total={rec.session} names={DEVICE_NAMES} />
           </Panel>
-          <Panel title="VISITOR COUNTRIES" note="From Vercel's edge; the IP itself is never stored.">
+          <Panel title="VISITOR COUNTRIES" note="From the host's edge; the IP itself is never stored.">
             <RankList rows={s.top['session.country']} total={rec.session} max={6} label={countryName} />
           </Panel>
           <Panel title="REFERRERS">

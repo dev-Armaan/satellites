@@ -85,6 +85,12 @@
 - Planetary Computer renders every crop on demand (1–2 s, no cache on its side). The results screen deliberately
   waits for the final report and the hero photo before it appears (R-M1, `controller.ts showFirst`). Don't "speed it
   up" by painting earlier: the headline would change after it is shown.
+- NASA GIBS: the ~35 "is there an image of this place that day" checks a search makes read GIBS's pre-cut tiles
+  (`src/imagery/gibsTiles.ts`), never WMS. GIBS renders every WMS request on demand with no cache: on 2026-11-12, at
+  250 searches a minute, the checks alone were 9,000–17,000 renders a minute, WMS answers went from 0.5 s to 5–45 s
+  and a search's weather photos from 32 to 4. WMS is only for pictures that are shown (a few per search). Anything
+  new that is asked once per search or more goes to the tiles, and a timed-out request to a public archive is not
+  asked again (`retryTimeouts: false`).
 - Globe: React Three Fiber with a manual camera (`cameraMath.ts` applies an off-axis lens shift). DOM labels follow
   scene points every frame through `runtime.anchors` and `anchorListeners`, never React state. The globe chunk is
   lazy and must not import `src/app/*`: pass callbacks in through `GlobeCanvas` props.

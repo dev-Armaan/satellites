@@ -10,6 +10,7 @@ const PATHS = [
   '/',
   '/index.html',
   '/assets/index-abc123.js',
+  '/places/20261112/s/sa.txt',
   '/textures/earth-day-4k.webp',
   '/data/catalog.json',
   '/data/catalog-names.json',
@@ -22,10 +23,18 @@ const PATHS = [
 type Headers = Record<string, string>
 const lower = (h: Headers) => Object.fromEntries(Object.entries(h).map(([k, v]) => [k.toLowerCase(), v]))
 
+interface VercelRoute {
+  src?: string
+  headers?: Headers
+  handle?: string
+  has?: unknown[]
+}
+
+const vercelRoutes = async () =>
+  (JSON.parse(await readFile(new URL('../vercel.json', import.meta.url), 'utf8')) as { routes: VercelRoute[] }).routes
+
 async function vercelHeaders(path: string): Promise<Headers> {
-  const { routes } = JSON.parse(await readFile(new URL('../vercel.json', import.meta.url), 'utf8')) as {
-    routes: { src?: string; headers?: Headers; handle?: string; has?: unknown[] }[]
-  }
+  const routes = await vercelRoutes()
   const out: Headers = {}
   for (const r of routes) {
     if (r.handle) break
@@ -53,10 +62,30 @@ async function cloudflareHeaders(path: string): Promise<Headers> {
   return out
 }
 
+async function expectSameHeaders(path: string) {
+  const { 'strict-transport-security': hsts, ...cf } = await cloudflareHeaders(path)
+  expect(hsts).toBe('max-age=63072000') // Vercel adds this one on its own
+  expect(cf, path).toEqual(await vercelHeaders(path))
+}
+
+/** A path each header rule of vercel.json matches: `/places/(.*)` → `/places/x`, `/admin(?:\.html)?/?` → `/admin`. */
+const sampleOf = (src: string) =>
+  src
+    .replace(/\(\.\*\)/g, 'x')
+    .replace(/\(\?:[^)]*\)\?/g, '')
+    .replace(/\/\?$/, '')
+    .replace(/\\\./g, '.')
+
 describe('public/_headers', () => {
-  it.each(PATHS)('gives %s the headers vercel.json gives it', async (path) => {
-    const { 'strict-transport-security': hsts, ...cf } = await cloudflareHeaders(path)
-    expect(hsts).toBe('max-age=63072000') // Vercel adds this one on its own
-    expect(cf).toEqual(await vercelHeaders(path))
+  it.each(PATHS)('gives %s the headers vercel.json gives it', expectSameHeaders)
+
+  it('covers every header rule vercel.json has, including ones added later', async () => {
+    const routes = await vercelRoutes()
+    const samples = routes
+      .slice(0, routes.findIndex((r) => r.handle))
+      .filter((r) => r.src && r.headers && !r.has)
+      .map((r) => sampleOf(r.src!))
+    expect(samples).toContain('/places/x')
+    for (const path of samples) await expectSameHeaders(path)
   })
 })

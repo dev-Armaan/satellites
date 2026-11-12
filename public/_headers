@@ -1,0 +1,38 @@
+# Response headers for static files on Cloudflare: vercel.json's `routes` headers, path for path
+# (worker/headers.test.ts keeps the two equal). Cloudflare reads this file and does not serve it. Responses the
+# Worker builds itself get their headers from worker/router.ts, because this file does not reach them.
+# A header named by two matching rules would be joined with a comma, so each path names Cache-Control once.
+
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=(self), camera=(), microphone=(), payment=(), usb=()
+  Strict-Transport-Security: max-age=63072000
+
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/places/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/textures/*
+  Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+
+/data/catalog.json
+  Cache-Control: public, max-age=600, s-maxage=3600, stale-while-revalidate=86400
+
+/data/catalog-names.json
+  Cache-Control: public, max-age=600, s-maxage=3600, stale-while-revalidate=86400
+
+/og-default.png
+  Cache-Control: public, max-age=86400, s-maxage=604800
+
+/admin
+  X-Robots-Tag: noindex, nofollow
+  X-Frame-Options: DENY
+  Cache-Control: no-cache
+
+/admin.html
+  X-Robots-Tag: noindex, nofollow
+  X-Frame-Options: DENY
+  Cache-Control: no-cache

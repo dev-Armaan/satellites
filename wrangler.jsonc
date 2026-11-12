@@ -1,0 +1,26 @@
+// Cloudflare Worker for www.watched.earth: the static app from dist/ plus the api/ handlers (worker/index.ts).
+//
+// Site settings that name a database or a domain (VITE_SUPABASE_URL, VITE_SUPABASE_PUBLISHABLE_KEY, SITE_URL,
+// and the CDSE secrets) are set in the Cloudflare dashboard, not here, so a fork never points at this site's
+// database; `keep_vars` stops a deploy from wiping them. For `wrangler dev`, put them in .dev.vars.
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "watched",
+  "main": "worker/index.ts",
+  "compatibility_date": "2026-10-20",
+  "compatibility_flags": ["nodejs_compat"],
+  "keep_vars": true,
+  // Only these hosts write analytics and get indexed (api/_lib/env.ts isProductionHost).
+  "vars": { "PRODUCTION_HOSTS": "www.watched.earth,watched.earth" },
+  "assets": {
+    "directory": "./dist",
+    "binding": "ASSETS",
+    // The router (worker/router.ts) decides these; every other static file is served without running the Worker,
+    // and a request no file matches reaches the Worker too (the app fallback and 404s, as on Vercel).
+    "run_worker_first": ["/", "/s/*", "/api/*"],
+  },
+  // satori imports harfbuzzjs; the package's own loader compiles WebAssembly at runtime, which Workers refuse.
+  "alias": { "harfbuzzjs": "./worker/harfbuzz.ts" },
+  // Fonts and the default plate arrive as bytes; .wasm files are compiled at deploy time by wrangler's default rule.
+  "rules": [{ "type": "Data", "globs": ["**/*.ttf", "**/*.jpg"], "fallthrough": true }],
+}

@@ -37,6 +37,19 @@ export function siteOrigin(request: Request): string {
   return new URL(request.url).origin
 }
 
+/**
+ * Whether a hostname serves the real site: listed in PRODUCTION_HOSTS (comma-separated, e.g.
+ * `www.watched.earth,watched.earth`). Unset means every host (Vercel, which says it with VERCEL_ENV, and local
+ * checks). The Cloudflare Worker sets it, because one Worker answers production, the staging copy and previews alike.
+ */
+export function isProductionHost(hostname: string): boolean {
+  const hosts = env('PRODUCTION_HOSTS')
+    ?.split(',')
+    .map((h) => h.trim().toLowerCase())
+    .filter(Boolean)
+  return !hosts?.length || hosts.includes(hostname.toLowerCase())
+}
+
 /** Bare host for the card footer ("overflight.app"); empty for local/dev hosts, which are hidden. */
 export function displayHost(origin: string): string {
   try {

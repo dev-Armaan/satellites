@@ -9,6 +9,7 @@
     "build": "tsc -b && vite build && vite build -c vite.admin.config.ts",
     "typecheck": "tsc -b --pretty",
     "preview": "vite preview --host 0.0.0.0",
+    "dev:worker": "wrangler dev",
     "test": "vitest run",
     "data:celestrak": "tsx scripts/fetch-catalog.ts",
     "data:places": "tsx scripts/build-places.ts",
@@ -23,9 +24,9 @@
     "@react-three/drei": "^10.7.9",
     "@react-three/fiber": "^9.8.2",
     "@react-three/postprocessing": "^3.2.2",
+    "@resvg/resvg-wasm": "2.4.1",
     "@supabase/supabase-js": "^2.119.0",
     "@vercel/analytics": "2.0.1",
-    "@vercel/og": "^1.0.3",
     "fast-png": "8.0.0",
     "geotiff": "^3.0.5",
     "gsap": "^3.15.1",
@@ -37,6 +38,7 @@
     "react-dom": "^19.3.1",
     "react-router-dom": "^7.18.5",
     "satellite.js": "^7.1.0",
+    "satori": "0.33.5",
     "three": "^0.187.0",
     "zustand": "^5.1.0"
   },
@@ -52,6 +54,7 @@
     "tsx": "^4.23.15",
     "typescript": "^7.0.2",
     "vite": "^8.3.6",
-    "vitest": "^5.1.0"
+    "vitest": "^5.1.0",
+    "wrangler": "4.155.0"
   }
 }

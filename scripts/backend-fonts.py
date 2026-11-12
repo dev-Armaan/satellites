@@ -12,7 +12,7 @@ exact axis positions the design system uses on the web, and write plain TTFs:
 
 Each comes in two files, `latin` and `latin-ext`, mirroring fontsource's subsets; satori falls back
 per glyph across all registered fonts, so "São Paulo" and "Łódź" render with the right face.
-Non-Latin scripts fall through to @vercel/og's dynamic Noto loader.
+Non-Latin scripts fall through to the dynamic Noto loader (api/_lib/fallbackFonts.ts).
 
 Usage:  python3 scripts/backend-fonts.py        (writes api/_fonts/*.ttf)
 """

@@ -8,6 +8,7 @@
 import { readFile } from 'node:fs/promises'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
+import { bundled } from './bundled.js'
 
 export const FONT = {
   display: 'Overflight Display', // Instrument Sans, wdth 75 / wght 560
@@ -23,6 +24,8 @@ export interface SatoriFont {
   data: ArrayBuffer
   weight: Weight
   style: 'normal' | 'italic'
+  /** satori's script code, for a fallback font that draws one script (fallbackFonts.ts). */
+  lang?: string
 }
 
 const FILES: { stem: string; name: string; weight: Weight; style: 'normal' | 'italic' }[] = [
@@ -41,6 +44,8 @@ const EXTRA: { file: string; name: string; weight: Weight; style: 'normal' | 'it
 ]
 
 async function readFont(file: string): Promise<ArrayBuffer> {
+  const registered = bundled(`_fonts/${file}`) // a Worker's copy (bundled.ts)
+  if (registered instanceof ArrayBuffer) return registered
   let buf: Buffer
   try {
     buf = await readFile(fileURLToPath(new URL(`../_fonts/${file}`, import.meta.url)))

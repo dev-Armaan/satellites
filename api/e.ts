@@ -4,15 +4,15 @@
  * Why a relay: the browser sends events with `navigator.sendBeacon` when the tab is hidden, which can only make
  * a same-origin "simple" request (no custom headers, so it cannot carry the Supabase apikey or pass a CORS
  * preflight). This function adds the key server-side (the publishable one: it can only call anon RPCs) and the
- * visitor's country from Vercel's `x-vercel-ip-country` header.
+ * visitor's country from the edge: Vercel's `x-vercel-ip-country` or Cloudflare's `cf-ipcountry` header.
  *
- * Privacy: the IP address is never read, logged or forwarded; only the two-letter country Vercel derives from it.
+ * Privacy: the IP address is never read, logged or forwarded; only the two-letter country the edge derives from it.
  * The body is parsed and re-serialised (sid, ctx, events), never forwarded as raw bytes; the database validates
  * every field again against its allow-list.
  *
  * Always answers 204 (fire-and-forget; the browser never retries), except 405 for non-POST and 413 for > 16 KB.
  */
-import { supabaseConfig } from './_lib/env.js'
+import { isProductionHost, supabaseConfig } from './_lib/env.js'
 
 const MAX_BYTES = 16_384
 
@@ -36,15 +36,17 @@ export function relayBody(raw: string, country: string | null): string | null {
 export async function handleEvents(request: Request): Promise<Response> {
   if (request.method !== 'POST') return new Response(null, { status: 405, headers: { allow: 'POST' } })
   const done = (status = 204) => new Response(null, { status, headers: { 'cache-control': 'no-store' } })
-  // Preview deployments share the production database: only production writes (the client also sends nothing
-  // off the production hosts). Outside Vercel (VERCEL_ENV unset: local checks) the relay works as configured.
+  // Preview deployments and the staging copy share the production database: only production writes (the client
+  // also sends nothing off the production hosts). On Vercel that is VERCEL_ENV; on Cloudflare, where one Worker
+  // serves every hostname, it is the request's host (PRODUCTION_HOSTS). With neither set (local checks) the relay
+  // works as configured.
   const env = process.env.VERCEL_ENV
-  if (env && env !== 'production') return done()
+  if ((env && env !== 'production') || !isProductionHost(new URL(request.url).hostname)) return done()
   const len = Number(request.headers.get('content-length') ?? 0)
   if (len > MAX_BYTES) return done(413)
   const raw = await request.text().catch(() => '')
   if (!raw || raw.length > MAX_BYTES) return done(raw ? 413 : 204)
-  const body = relayBody(raw, request.headers.get('x-vercel-ip-country'))
+  const body = relayBody(raw, request.headers.get('x-vercel-ip-country') ?? request.headers.get('cf-ipcountry'))
   const cfg = supabaseConfig()
   if (!body || !cfg) return done()
   try {

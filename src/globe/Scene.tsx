@@ -243,7 +243,7 @@ function ShaderWarmup({ composer }: { composer: EffectComposer }) {
  * `document.documentElement.dataset.overlay` to its name, and deletes it as it starts closing (results: the
  * lightbox; shell: About; share: the share sheet on stacked layouts). The globe owns the reader.
  */
-const COVERING_OVERLAYS = new Set(['lightbox', 'about', 'share'])
+const COVERING_OVERLAYS = new Set(['lightbox', 'about', 'share', 'timelapse'])
 export const overlayCovers = (doc: Document | undefined = typeof document === 'undefined' ? undefined : document) =>
   !!doc && COVERING_OVERLAYS.has(doc.documentElement.dataset.overlay ?? '')
 /**

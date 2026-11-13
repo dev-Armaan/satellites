@@ -1,0 +1,603 @@
+/* The time-lapse player (Timelapse.tsx). Tokens only (docs/DESIGN.md): flat ink, hairlines, no radius, one signal. */
+.overlay {
+  --bar-h: calc(var(--bezel-inset) + 60px);
+  --pad: calc(var(--bezel-inset) + var(--margin));
+  --log-w: 248px;
+  /* The picture's side: what the height leaves under the bar and over the controls, what the width leaves beside
+     the frame list, and never more than the scene's own 1000 pixels shown one to one. */
+  --side: min(calc(100dvh - var(--bar-h) - 148px), calc(100vw - 2 * var(--pad) - var(--log-w) - var(--s-7)), 1000px);
+  position: fixed;
+  inset: 0;
+  z-index: var(--z-overlay);
+  display: flex;
+  flex-direction: column;
+  background: var(--ink-0);
+  color: var(--bone);
+  outline: none;
+  animation: tl-in var(--d-sm) var(--ease-out) both;
+}
+@keyframes tl-in {
+  from {
+    opacity: 0;
+  }
+}
+.mobile {
+  --pad: max(16px, env(safe-area-inset-left, 0px), env(safe-area-inset-right, 0px));
+  --bar-h: calc(56px + env(safe-area-inset-top, 0px));
+  --side: min(100vw, calc(100dvh - var(--bar-h) - 170px));
+}
+
+/* ── bar ── */
+.bar {
+  position: relative;
+  flex: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--s-4);
+  height: var(--bar-h);
+  padding: var(--bezel-inset) calc(var(--pad) + env(safe-area-inset-right, 0px)) 0 calc(var(--pad) + env(safe-area-inset-left, 0px));
+  font-family: var(--font-mono);
+  font-stretch: 87.5%;
+  font-size: var(--fs-label);
+  letter-spacing: var(--track-label);
+  text-transform: uppercase;
+}
+.mobile .bar {
+  padding: env(safe-area-inset-top, 0px) var(--pad) 0;
+}
+.bar::after {
+  content: '';
+  position: absolute;
+  left: var(--bezel-inset);
+  right: var(--bezel-inset);
+  bottom: 0;
+  height: 1px;
+  background: var(--line);
+}
+.mobile .bar::after {
+  left: 0;
+  right: 0;
+}
+.barLabel {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  color: var(--bone);
+}
+.dim {
+  color: var(--bone-3);
+}
+.place {
+  color: var(--bone-2);
+}
+.close {
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  height: 36px;
+  padding: 0 12px;
+  margin-right: -12px;
+  border: 1px solid transparent;
+  font: inherit;
+  letter-spacing: inherit;
+  text-transform: inherit;
+  color: var(--bone-2);
+  transition:
+    color var(--d-hover) var(--ease-out),
+    border-color var(--d-hover) var(--ease-out);
+}
+@media (hover: hover) {
+  .close:hover {
+    color: var(--bone);
+    border-color: var(--line-strong);
+  }
+}
+.close:active {
+  color: var(--bone);
+  border-color: var(--line-strong);
+  transition-duration: 0ms;
+}
+.close:focus-visible,
+.play:focus-visible,
+.mode:focus-visible,
+.logRow:focus-visible,
+.scrub:focus-visible {
+  outline: 1px solid var(--signal);
+  outline-offset: 2px;
+}
+@media (pointer: coarse) {
+  .close {
+    justify-content: center;
+    min-width: 44px;
+    height: 44px;
+    margin-right: -14px;
+  }
+  .closeText,
+  .closeKbd {
+    display: none;
+  }
+}
+
+/* ── layout ── */
+.body {
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: var(--s-7);
+  padding: var(--s-5) var(--pad) var(--s-5);
+  overflow-y: auto;
+  overscroll-behavior: contain;
+}
+.mobile .body {
+  display: block;
+  padding: 0 0 max(var(--s-5), env(safe-area-inset-bottom, 0px));
+}
+.main {
+  flex: none;
+  width: var(--side);
+  min-width: 280px;
+  display: flex;
+  flex-direction: column;
+}
+.mobile .main {
+  width: auto;
+  min-width: 0;
+}
+
+/* ── the picture ── */
+.stage {
+  position: relative;
+  width: var(--side);
+  min-width: 280px;
+  aspect-ratio: 1;
+  background: var(--ink-1);
+  box-shadow: inset 0 0 0 1px var(--line);
+  overflow: hidden;
+  user-select: none;
+  -webkit-user-select: none;
+}
+.mobile .stage {
+  min-width: 0;
+  margin: 0 auto;
+}
+.live {
+  cursor: ew-resize;
+  /* a drag across scrubs; a vertical one still scrolls the page on a short phone */
+  touch-action: pan-y;
+  box-shadow: none;
+}
+.frame {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0;
+  pointer-events: none;
+}
+/* The frame before stays whole under the new one, which dissolves in over it: the picture never dips to ink. */
+.below {
+  opacity: 1;
+  z-index: 1;
+}
+.on {
+  opacity: 1;
+  z-index: 2;
+  animation: tl-frame var(--d-md) var(--ease-in-out) both;
+}
+.scrubbing .on {
+  animation-duration: var(--d-hover);
+}
+.reduced .on {
+  animation: none;
+}
+@keyframes tl-frame {
+  from {
+    opacity: 0;
+  }
+}
+.reticle {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  z-index: 3;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+}
+.readout {
+  position: absolute;
+  left: var(--s-3);
+  bottom: var(--s-3);
+  z-index: 3;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 9px 11px 8px;
+  background: color-mix(in srgb, var(--ink-0) 82%, transparent);
+  font-family: var(--font-mono);
+  font-stretch: 87.5%;
+  font-variant-numeric: tabular-nums;
+  pointer-events: none;
+}
+.big {
+  font-size: var(--fs-panel-h);
+  font-weight: 400;
+  line-height: 0.9;
+  letter-spacing: var(--track-display);
+  text-transform: uppercase;
+  color: var(--bone);
+}
+.small {
+  font-size: var(--fs-micro);
+  letter-spacing: var(--track-label);
+  text-transform: uppercase;
+  color: var(--bone-2);
+  white-space: nowrap;
+}
+.count {
+  position: absolute;
+  right: var(--s-3);
+  top: var(--s-3);
+  z-index: 3;
+  padding: 4px 7px;
+  background: color-mix(in srgb, var(--ink-0) 82%, transparent);
+  font-family: var(--font-mono);
+  font-stretch: 87.5%;
+  font-size: var(--fs-micro);
+  letter-spacing: var(--track-label);
+  font-variant-numeric: tabular-nums;
+  color: var(--bone-2);
+  pointer-events: none;
+}
+.countLead {
+  color: var(--bone);
+}
+.srOnly {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+/* ── waiting ── */
+.wait {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  gap: var(--s-3);
+  padding: var(--s-5);
+  /* lines waiting to be read: the raster the pushbroom reveal leaves ahead of its front */
+  background: repeating-linear-gradient(to bottom, transparent 0 3px, color-mix(in srgb, var(--line) 55%, transparent) 3px 4px);
+}
+.steps {
+  margin: 0;
+  width: min(100%, 320px);
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  padding: 12px 14px 14px;
+  background: var(--ink-0);
+  box-shadow: 0 0 0 1px var(--line);
+  font-family: var(--font-mono);
+  font-stretch: 87.5%;
+  font-size: var(--fs-readout);
+  letter-spacing: var(--track-label);
+  text-transform: uppercase;
+  font-variant-numeric: tabular-nums;
+}
+.stepRow {
+  display: flex;
+  justify-content: space-between;
+  gap: var(--s-4);
+  color: var(--bone-3);
+}
+.stepRow dt,
+.stepRow dd {
+  margin: 0;
+}
+.stepNow {
+  color: var(--bone);
+}
+.stepLater {
+  color: var(--bone-3);
+}
+.progress {
+  display: block;
+  width: min(100%, 320px);
+  height: 1px;
+  margin-top: calc(-1 * var(--s-3) - 1px);
+  background: var(--line-strong);
+}
+.progressFill {
+  display: block;
+  height: 100%;
+  background: var(--bone);
+  transform-origin: 0 50%;
+  transition: transform var(--d-sm) var(--ease-out);
+}
+.waitHead {
+  margin: 0;
+  width: fit-content;
+  padding: 2px 6px;
+  margin-left: -6px;
+  background: var(--ink-1);
+  font-size: var(--fs-h3);
+  font-stretch: 75%;
+  font-weight: 560;
+  letter-spacing: var(--track-display);
+  color: var(--bone);
+}
+.waitLine {
+  margin: 0;
+  width: fit-content;
+  padding: 2px 6px;
+  margin-left: -6px;
+  background: var(--ink-1);
+  font-family: var(--font-mono);
+  font-stretch: 87.5%;
+  font-size: var(--fs-label);
+  letter-spacing: var(--track-label);
+  text-transform: uppercase;
+  font-variant-numeric: tabular-nums;
+  color: var(--bone-3);
+}
+.retry {
+  align-self: flex-start;
+  background: var(--ink-1);
+}
+
+/* ── controls ── */
+.controls {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--s-4);
+  margin-top: var(--s-4);
+}
+.mobile .controls,
+.mobile .caption,
+.mobile .tools,
+.mobile .note {
+  padding-left: var(--pad);
+  padding-right: var(--pad);
+}
+.play {
+  flex: none;
+  width: 44px;
+  height: 44px;
+  display: grid;
+  place-items: center;
+  border: 1px solid var(--line-strong);
+  color: var(--signal);
+  transition:
+    border-color var(--d-hover) var(--ease-out),
+    background-color var(--d-hover) var(--ease-out);
+}
+@media (hover: hover) {
+  .play:hover:not(:disabled) {
+    border-color: var(--bone-3);
+  }
+}
+.play:active:not(:disabled) {
+  background: var(--ink-3);
+}
+.play:disabled {
+  color: var(--bone-3-mark);
+}
+.scrubWrap {
+  flex: 1;
+  min-width: 0;
+}
+.scrub {
+  position: relative;
+  height: 44px;
+  /* the first and last ticks sit inside the track, clear of its ends */
+  margin: 0 6px;
+  touch-action: none;
+}
+.scrubLive {
+  cursor: pointer;
+}
+.rail {
+  position: absolute;
+  left: -6px;
+  right: -6px;
+  top: 21px;
+  height: 1px;
+  background: var(--line-strong);
+}
+.tick {
+  position: absolute;
+  top: 16px;
+  width: 1px;
+  height: 11px;
+  background: var(--bone-4);
+  transition: background-color var(--d-sm) var(--ease-out);
+  animation: tl-in var(--d-sm) var(--ease-out) both;
+}
+.tickLit {
+  background: var(--bone-3);
+}
+.tickOn {
+  top: 11px;
+  width: 3px;
+  height: 21px;
+  margin-left: -1px;
+  background: var(--signal);
+  transition: none;
+}
+.tickLabel {
+  position: absolute;
+  top: 16px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-family: var(--font-mono);
+  font-stretch: 87.5%;
+  font-size: var(--fs-micro);
+  font-variant-numeric: tabular-nums;
+  color: var(--bone-3);
+}
+.tickOn .tickLabel {
+  top: 21px;
+  color: var(--bone);
+}
+.ends {
+  display: flex;
+  justify-content: space-between;
+  margin-top: -6px;
+  font-family: var(--font-mono);
+  font-stretch: 87.5%;
+  font-size: var(--fs-micro);
+  letter-spacing: var(--track-label);
+  text-transform: uppercase;
+  font-variant-numeric: tabular-nums;
+  color: var(--bone-3);
+}
+
+/* ── under the time line ── */
+.caption {
+  margin: var(--s-3) 0 0;
+  min-width: 0;
+  font-family: var(--font-mono);
+  font-stretch: 87.5%;
+  font-size: var(--fs-label);
+  letter-spacing: var(--track-label);
+  text-transform: uppercase;
+  font-variant-numeric: tabular-nums;
+  color: var(--bone);
+}
+.tools {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--s-3);
+  margin-top: var(--s-4);
+}
+.modes {
+  display: inline-flex;
+  border: 1px solid var(--line-strong);
+}
+.mode {
+  height: 30px;
+  padding: 0 11px;
+  font-family: var(--font-mono);
+  font-stretch: 87.5%;
+  font-size: var(--fs-label);
+  letter-spacing: var(--track-label);
+  text-transform: uppercase;
+  color: var(--bone-3);
+  transition:
+    color var(--d-hover) var(--ease-out),
+    background-color var(--d-hover) var(--ease-out);
+}
+.mode + .mode {
+  border-left: 1px solid var(--line-strong);
+}
+.mode[aria-pressed='true'] {
+  color: var(--bone);
+  background: var(--ink-2);
+}
+@media (hover: hover) {
+  .mode:hover {
+    color: var(--bone);
+  }
+}
+.copy {
+  flex: none;
+}
+.note {
+  margin: var(--s-3) 0 0;
+  max-width: 62ch;
+  font-size: var(--fs-small);
+  line-height: 1.5;
+  color: var(--bone-2);
+}
+.credit {
+  display: block;
+  margin-top: var(--s-2);
+  font-family: var(--font-mono);
+  font-stretch: 87.5%;
+  font-size: var(--fs-micro);
+  letter-spacing: var(--track-label);
+  text-transform: uppercase;
+  color: var(--bone-3);
+}
+
+/* ── beside the picture (laptops): the frame list, the tools, the note ── */
+.side {
+  flex: none;
+  width: var(--log-w);
+  max-height: var(--side);
+  display: flex;
+  flex-direction: column;
+}
+.log,
+.logEmpty {
+  flex: 0 1 auto;
+  min-height: 0;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  overflow-y: auto;
+  border-top: 1px solid var(--line);
+}
+.side .tools {
+  margin: 0 0 var(--s-4);
+}
+.side .note {
+  margin-top: var(--s-4);
+}
+.logRow {
+  display: grid;
+  grid-template-columns: 5ch 1fr auto;
+  align-items: baseline;
+  gap: var(--s-3);
+  width: 100%;
+  padding: 9px 2px 9px 10px;
+  border-bottom: 1px solid var(--line);
+  box-shadow: inset 2px 0 0 transparent;
+  font-family: var(--font-mono);
+  font-stretch: 87.5%;
+  font-size: var(--fs-readout);
+  letter-spacing: var(--track-label);
+  text-transform: uppercase;
+  font-variant-numeric: tabular-nums;
+  text-align: left;
+  color: var(--bone-3);
+  transition: color var(--d-hover) var(--ease-out);
+}
+.logYear {
+  color: var(--bone-2);
+}
+.logSat {
+  font-size: var(--fs-micro);
+}
+.logRow[aria-current='true'] {
+  color: var(--bone-2);
+  box-shadow: inset 2px 0 0 var(--signal);
+}
+.logRow[aria-current='true'] .logYear {
+  color: var(--bone);
+}
+@media (hover: hover) {
+  .logRow:hover .logYear {
+    color: var(--bone);
+  }
+}
+/* A narrow laptop window: the list gives its width to the picture. */
+@media (max-width: 900px) {
+  .overlay:not(.mobile) {
+    --log-w: 0px;
+  }
+  .overlay:not(.mobile) .side {
+    display: none;
+  }
+}

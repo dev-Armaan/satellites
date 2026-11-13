@@ -29,6 +29,8 @@ export type EventType =
   | 'about_open'
   | 'share_open'
   | 'share_action'
+  | 'timelapse_open'
+  | 'timelapse_share'
   | 'error'
   | 'vitals'
 

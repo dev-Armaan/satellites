@@ -82,7 +82,7 @@ export const MOVE_TIMEOUT_MS = 1000
 const LATE_FORGET_MS = 10_000
 
 /** Drawn order of the layers, bottom first: a layer opens beneath any open layer drawn above it. Unknown names go on top. */
-export const LAYER_RANK: Readonly<Record<string, number>> = { results: 0, pass: 1, search: 2, lightbox: 3, share: 4, about: 5 }
+export const LAYER_RANK: Readonly<Record<string, number>> = { results: 0, pass: 1, search: 2, lightbox: 3, timelapse: 4, share: 5, about: 6 }
 const rankOf = (name: string) => LAYER_RANK[name] ?? Number.MAX_SAFE_INTEGER
 type Stamp = { s: string; d: number }
 

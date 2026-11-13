@@ -4,6 +4,7 @@ import type { Place } from '@/types'
 import { isTimeout, parseStats, RANGES } from './api'
 import { mockStats } from './fixture'
 import { fmtBucket, fmtPct, niceMax, SOURCE_NAMES } from './format'
+import { dotRadius, GRID_STEP, legendCounts, placeGrid } from './placeGrid'
 
 describe('admin_stats parsing', () => {
   it('accepts the fixture for every range', () => {
@@ -108,5 +109,34 @@ describe('cached stats', () => {
     expect(fmtUpdated(now - 20e3, now)).toBe('UPDATED JUST NOW')
     expect(fmtUpdated(now - 4 * 60e3, now)).toBe('UPDATED 4 MIN AGO')
     expect(fmtUpdated(now - 16 * 60e3, now)).toBe('UPDATED 16 MIN AGO')
+  })
+})
+
+describe('places map grid', () => {
+  it('gathers cells into grid squares, largest first, and skips junk', () => {
+    const g = placeGrid([['37.2,-115.8', 10], ['37.4,-115.1', 5], ['51.5,-0.1', 40], ['nope', 3], ['95.0,10.0', 2], ['10.0,10.0', 0]])
+    expect(g.cells).toBe(3)
+    expect(g.dots.map((d) => d.n)).toEqual([40, 15])
+    expect(g.max).toBe(40)
+    // 51.5°N 0.1°W sits in the square 50–52.5°N, 2.5–0°W
+    expect(g.dots[0]).toMatchObject({ x: 178.75, y: 38.75 })
+  })
+  it('keeps the poles and the date line inside the map', () => {
+    const g = placeGrid([['-90.0,180.0', 1], ['90.0,-180.0', 1]])
+    expect(g.dots).toHaveLength(2)
+    for (const d of g.dots) {
+      expect(d.x).toBeGreaterThan(0)
+      expect(d.x).toBeLessThan(360)
+    }
+    expect([g.top, g.bottom]).toEqual([0, 180])
+    expect(placeGrid(undefined)).toMatchObject({ dots: [], max: 1, top: 10, bottom: 150 })
+  })
+  it('sizes dots on a log scale that never overflows a square', () => {
+    expect(dotRadius(13654, 13654)).toBeCloseTo(GRID_STEP / 2)
+    expect(dotRadius(1, 13654)).toBeGreaterThan(GRID_STEP * 0.12)
+    expect(dotRadius(100, 13654)).toBeGreaterThan(dotRadius(10, 13654))
+    expect(dotRadius(1, 1)).toBeCloseTo(GRID_STEP / 2)
+    expect(legendCounts(13654)).toEqual([1, 100, 13654])
+    expect(legendCounts(2)).toEqual([2])
   })
 })

@@ -5,6 +5,7 @@
 import { useLayoutEffect, useRef, useState, type ReactNode } from 'react'
 import type { Ranked } from './api'
 import { etParts, fmtBucket, fmtInt, fmtPct, niceMax } from './format'
+import { dotLevel, dotRadius, GRID_STEP, legendCounts, placeGrid } from './placeGrid'
 
 function useWidth<T extends HTMLElement>(): [React.RefObject<T | null>, number] {
   const ref = useRef<T>(null)
@@ -176,35 +177,42 @@ export function Funnel({ stages }: { stages: { key: string; label: string; n: nu
   )
 }
 
-// ── World map of 0.1° cells ─────────────────────────────────────────────────────────────────
+// ── World map: searched cells on a 2.5° grid, no base map (placeGrid.ts) ────────────────────────
+
+const fmtKey = (n: number) => (n >= 1000 && n % 1000 === 0 ? `${n / 1000}K` : fmtInt(n))
 
 export function WorldMap({ cells }: { cells: Ranked | undefined }) {
-  const pts = (cells ?? [])
-    .map(([c, n]) => {
-      const [lat, lon] = c.split(',').map(Number)
-      return Number.isFinite(lat) && Number.isFinite(lon) ? { lat, lon, n } : null
-    })
-    .filter((p): p is { lat: number; lon: number; n: number } => !!p)
-    .sort((a, b) => a.n - b.n)
-  const max = Math.max(1, ...pts.map((p) => p.n))
+  const [ref, w] = useWidth<HTMLDivElement>()
+  const g = placeGrid(cells)
+  const px = w / 360 // the legend's dots are drawn at the map's own scale
+  const keyBox = Math.max(2, Math.ceil(GRID_STEP * px))
   return (
-    <div className="a-map">
-      <svg viewBox="0 0 360 180" role="img" aria-label={`Map of ${pts.length} searched cells`}>
-        <image href="/textures/earth-night-1k.webp" x={0} y={0} width={360} height={180} preserveAspectRatio="none" className="a-map-img" />
-        {[-60, -30, 0, 30, 60].map((lat) => (
-          <line key={`p${lat}`} x1={0} x2={360} y1={90 - lat} y2={90 - lat} className={lat === 0 ? 'a-map-eq' : 'a-map-grat'} />
+    <div className="a-map" ref={ref}>
+      <svg viewBox={`0 ${g.top} 360 ${g.bottom - g.top}`} role="img" aria-label={`Map of ${g.cells} searched cells`}>
+        {g.dots.map((d) => (
+          <circle key={`${d.x},${d.y}`} cx={d.x} cy={d.y} r={dotRadius(d.n, g.max)} fillOpacity={0.55 + 0.45 * dotLevel(d.n, g.max)} className="a-map-dot">
+            <title>{`${fmtInt(d.n)} searches`}</title>
+          </circle>
         ))}
-        {[-150, -120, -90, -60, -30, 0, 30, 60, 90, 120, 150].map((lon) => (
-          <line key={`m${lon}`} y1={0} y2={180} x1={lon + 180} x2={lon + 180} className="a-map-grat" />
-        ))}
-        {pts.map((p) => {
-          const r = 0.7 + Math.sqrt(p.n / max) * 4.2
-          return <circle key={`${p.lat},${p.lon}`} cx={p.lon + 180} cy={90 - p.lat} r={r} className="a-map-dot" />
-        })}
       </svg>
       <div className="a-map-legend">
-        <span>{fmtInt(pts.length)} CELLS · 0.1° ≈ 10 KM</span>
-        <span>MAX {fmtInt(max)}</span>
+        <span>
+          {fmtInt(g.dots.length)} DOTS · {GRID_STEP}° GRID · {fmtInt(g.cells)} CELLS
+        </span>
+        {g.dots.length > 0 && w > 0 && (
+          <span className="a-map-key" aria-label="Dot size by searches, log scale">
+            <span>SEARCHES</span>
+            {legendCounts(g.max).map((n) => (
+              <span key={n} className="a-map-key-i">
+                <svg width={keyBox} height={keyBox} viewBox={`0 0 ${GRID_STEP} ${GRID_STEP}`} aria-hidden="true">
+                  <circle cx={GRID_STEP / 2} cy={GRID_STEP / 2} r={dotRadius(n, g.max)} fillOpacity={0.55 + 0.45 * dotLevel(n, g.max)} className="a-map-dot" />
+                </svg>
+                {fmtKey(n)}
+              </span>
+            ))}
+            <span>LOG</span>
+          </span>
+        )}
       </div>
     </div>
   )

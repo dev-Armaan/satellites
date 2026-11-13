@@ -1,12 +1,12 @@
 -- 0022: two new events, for the time-lapse (the place's clear Sentinel-2 looks, year by year, played as a loop).
 --
---   timelapse_open   { mode: 'years' | 'seasons', from: 'results' | 'viewer' | 'link' }   the player was opened
---   timelapse_share  { mode }                                                            its link was shared or copied
+--   timelapse_open   { from: 'results' | 'viewer' | 'link' }   the player was opened
+--   timelapse_share  { action: 'link' | 'video' }             its link was shared or copied, or its video saved
 --
 -- event_props drops an event whose type it does not know (it answers null), so until this is applied the client's
 -- two events are simply not recorded; nothing else is affected. They need no rollup of their own: the hourly and
 -- daily rollups count every type (the admin page's totals), and neither is a funnel stage or has a breakdown.
---   select type, props ->> 'from', count(*) from events where type like 'timelapse%' group by 1, 2;   -- (last 48 h)
+--   select type, coalesce(props ->> 'from', props ->> 'action'), count(*) from events where type like 'timelapse%' group by 1, 2;   -- (last 48 h)
 --
 -- event_props as in 0013, with the two types added; nothing else changes. No data is rewritten.
 
@@ -58,11 +58,10 @@ begin
     when 'about_open' then
       v := '{}'::jsonb;
     when 'timelapse_open' then
-      v := jsonb_build_object(
-        'mode', overflight_private.jenum(p, 'mode', array['years', 'seasons']),
-        'from', overflight_private.jenum(p, 'from', array['results', 'viewer', 'link']));
+      v := jsonb_build_object('from', overflight_private.jenum(p, 'from', array['results', 'viewer', 'link']));
     when 'timelapse_share' then
-      v := jsonb_build_object('mode', overflight_private.jenum(p, 'mode', array['years', 'seasons']));
+      v := jsonb_build_object('action', overflight_private.jenum(p, 'action', array['link', 'video']));
+      if v ->> 'action' is null then return null; end if;
     when 'error' then
       v := jsonb_build_object(
         'where', overflight_private.jenum(p, 'where', array['phase', 'window', 'promise']),

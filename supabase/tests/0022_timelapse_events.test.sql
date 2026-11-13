@@ -9,17 +9,18 @@ begin
       raise exception 'grants: % can call event_props', r;
     end if;
   end loop;
-  if overflight_private.event_props('timelapse_open', '{"mode": "years", "from": "viewer"}') is distinct from '{"mode": "years", "from": "viewer"}'::jsonb then
-    raise exception 'event_props: timelapse_open not kept';
+  if overflight_private.event_props('timelapse_open', '{"from": "viewer", "place": "Dubai"}') is distinct from '{"from": "viewer"}'::jsonb then
+    raise exception 'event_props: timelapse_open is not its from alone';
   end if;
-  if overflight_private.event_props('timelapse_open', '{"mode": "seasons", "from": "link", "place": "Dubai"}') is distinct from '{"mode": "seasons", "from": "link"}'::jsonb then
-    raise exception 'event_props: timelapse_open kept a key it does not list';
+  if overflight_private.event_props('timelapse_open', '{"from": "banner"}') is distinct from '{}'::jsonb then
+    raise exception 'event_props: an unknown timelapse_open from was kept';
   end if;
-  if overflight_private.event_props('timelapse_open', '{"mode": "decade", "from": "banner"}') is distinct from '{}'::jsonb then
-    raise exception 'event_props: unknown timelapse_open values were kept';
+  if overflight_private.event_props('timelapse_share', '{"action": "video", "from": "viewer"}') is distinct from '{"action": "video"}'::jsonb
+     or overflight_private.event_props('timelapse_share', '{"action": "link"}') is distinct from '{"action": "link"}'::jsonb then
+    raise exception 'event_props: timelapse_share is not its action alone';
   end if;
-  if overflight_private.event_props('timelapse_share', '{"mode": "years", "from": "viewer"}') is distinct from '{"mode": "years"}'::jsonb then
-    raise exception 'event_props: timelapse_share is not its mode alone';
+  if overflight_private.event_props('timelapse_share', '{"action": "gif"}') is not null then
+    raise exception 'event_props: a timelapse_share without a known action was kept';
   end if;
   -- the events 0013 knew are untouched
   if overflight_private.event_props('share_open', '{"kind": "summary", "from": "headline"}') is distinct from '{"kind": "summary", "from": "headline"}'::jsonb then

@@ -48,7 +48,9 @@
 - The admin page's sessions, searches and shares are the stored totals plus what was counted since (0023): `log_events`
   adds each batch's searches, shares and tabs to the `event_rate` row it already writes, and `admin_live` sums them since
   the stored stats' `computed_at` (read on every load, Refresh, and every 30 s). Another live number goes there too, as
-  one more counter column: never a read of `public.events`. The counters are kept 6 hours.
+  one more counter column: never a read of `public.events`. The counters are kept 6 hours. 0024 (not applied yet) gives
+  the counts hour by hour, with the tabs active in each hour, and the page adds them to the activity chart's bars
+  (`src/admin/live.ts`); until it is applied the chart stays hourly.
 - Raw events, tabs and lookups are kept 48 hours (0016). Every admin range reads rollups (0019): hourly ones
   (`roll_event_hour_dims`: `event_hour_dims`, `event_hour_dists`, `event_tab_days` so a tab counts once a day) and daily
   ones (`roll_event_day`: `event_days`, `event_dists`, `event_alltime*`), and raw events only for the hour or so not

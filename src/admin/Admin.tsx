@@ -1,15 +1,16 @@
 /**
  * /admin: what people do in Watched, at a glance. Sign-in is a Supabase email magic link; the stats come from
  * the admin_stats RPC, which only answers for the admin's email (checked in the database).
- * The stats are computed hourly. Sessions, searches and shares also add what was counted since (admin_live), read
- * with every load and Refresh and every 30 s while the page is in view; the rest of the page waits for the hour, and
- * the note under the totals says so.
+ * The stats are computed hourly. Sessions, searches and shares, and the activity chart's bars, also add what was
+ * counted since (admin_live), read with every load and Refresh and every 30 s while the page is in view; the rest of
+ * the page waits for the hour, and the note under the totals says so.
  * DEV only: /admin?mock=1 renders a fixture without signing in (src/admin/fixture.ts).
  */
 import { useCallback, useEffect, useRef, useState, type FormEvent, type ReactNode } from 'react'
 import { Wordmark } from '@/ui/system/Wordmark'
 import { RANGES, currentSession, fetchLive, fetchStats, liveFor, sendMagicLink, signOut, supabase, takeAuthError, verifyCode, type AdminStats, type LiveCounts, type Range } from './api'
 import { ActivityChart, Funnel, RankList, Split, WorldMap } from './charts'
+import { liveSeries } from './live'
 import { ACTION_NAMES, DEVICE_NAMES, SOURCE_NAMES, VERDICT_NAMES, countryName, fmtAgo, fmtClock, fmtInt, fmtUpdated, fmtPct, fmtSec, fmtStamp, maintBehind } from './format'
 
 type View =
@@ -393,7 +394,7 @@ function Dashboard({ s, live, busy, onRefresh }: { s: AdminStats; live: LiveCoun
         </div>
         {live && (
           <p className="a-note">
-            Sessions, searches and shares are counted to {fmtClock(live.at)}: they include {count(live.session, 'session', 'sessions')},{' '}
+            Sessions, searches and shares{live.hours ? ', and the activity chart,' : ''} are counted to {fmtClock(live.at)}: they include {count(live.session, 'session', 'sessions')},{' '}
             {count(live.search, 'search', 'searches')} and {count(live.share_action, 'share', 'shares')} since the hourly update. Everything
             else on this page, the lines under these three too, is as of that update.
           </p>
@@ -401,7 +402,7 @@ function Dashboard({ s, live, busy, onRefresh }: { s: AdminStats; live: LiveCoun
       </Section>
 
       <Section n={2} title={s.bucket === 'hour' ? 'ACTIVITY · HOURLY ET' : etDays ? 'ACTIVITY · DAILY ET' : 'ACTIVITY · DAILY (UTC DAYS)'}>
-        <ActivityChart series={s.series} bucket={s.bucket} />
+        <ActivityChart series={liveSeries(s.series, s.bucket, live?.hours ?? null)} bucket={s.bucket} />
       </Section>
 
       <div className="a-cols">

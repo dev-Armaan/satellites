@@ -198,4 +198,6 @@ Wide chase alongside a small spacecraft model (true SGP4 position, nadir-pointin
 sensor's light curtain sweeps the ground with a bright scan line → ~1 s dive onto the place → the real image
 develops onto the globe line by line → capture shockwave at the reticle + "ACQUIRED 11:21:21 EST · 10 M" →
 1.2 s settle to a near top-down view where the globe photo and the panel photo line up. Replay is explicit;
-gallery swipes only re-frame quietly. Reduced motion: final painted state.
+gallery swipes only re-frame quietly: no clock runs and no camera chases, but the image never pops. The one on the
+ground stays until the next has loaded, then that one develops over it in a single 0.9 s sweep along its pass's
+direction. Reduced motion: final painted state.

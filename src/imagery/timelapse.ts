@@ -22,6 +22,8 @@
  *  - Haze passes the cloud mask and turns a frame milky (Toronto 2017, 2019, 2025). A 64 px render of the square
  *    tells: haze lifts the darkest blue (clean ≤ 0.025 of reflectance, hazy ≥ 0.047). A frame much hazier than the
  *    place's own median gives way to another clear scene of its slot, when there is one.
+ *  - A scene can be listed, cloudless on paper and empty (isBlank): the same small render catches it, and the next
+ *    scene of the year is asked instead.
  *  - Each frame is toned like every other photo (the pixels worker, one curve per photo), so a frame here is the
  *    picture the gallery would show for that day. Its bytes stay out of the photo cache (image.ts keeps 96 pictures
  *    for the session: a dozen frames would push the gallery's own photos out, and they would reload).
@@ -289,6 +291,23 @@ export function blueFloor(rgba: ArrayLike<number>): number {
   return blue[Math.floor(blue.length * 0.02)]
 }
 
+/** What `haze` answers for a scene with no picture in it. */
+export const BLANK = -1
+/** Mean of each pixel's brightest channel (encoded, 0–255) under which a render is empty: open water is 40 or more. */
+const BLANK_BELOW = 14
+
+/**
+ * Is there a picture in this render? A few scenes in the archive are listed, cloud-free by their own metadata and
+ * all but empty (Groom Lake, 9 Sep 2015, from the satellite's first weeks: mean values 6, 2, 2 of 255). Toned, the
+ * noise in them stretches to a red and black frame, which opened the loop and the exported video.
+ */
+export function isBlank(rgba: ArrayLike<number>): boolean {
+  let sum = 0
+  let n = 0
+  for (let i = 0; i + 2 < rgba.length; i += 4, n++) sum += Math.max(rgba[i], rgba[i + 1], rgba[i + 2])
+  return n === 0 || sum / n < BLANK_BELOW
+}
+
 const median = (xs: number[]) => {
   const s = [...xs].sort((a, b) => a - b)
   return s.length ? s[s.length >> 1] : 0
@@ -304,7 +323,7 @@ export interface TimelapseDeps {
    * whole square (a tile or a swath that ends inside it leaves a black strip)
    */
   clear: (scene: Scene, place: LatLon, signal?: AbortSignal) => Promise<number | undefined>
-  /** The blue floor of a small render, or undefined when it can't be read */
+  /** The blue floor of a small render; BLANK when the render holds no picture; undefined when it can't be read */
   haze: (scene: Scene, place: LatLon, signal?: AbortSignal) => Promise<number | undefined>
   /** The toned frame, as a blob: URL */
   frame: (scene: Scene, place: LatLon, px: number, signal?: AbortSignal) => Promise<string>
@@ -334,7 +353,7 @@ const realDeps: TimelapseDeps = {
   clear: async (scene, place, signal) => (await squareOf(scene, place, signal))?.clear,
   haze: async (scene, place, signal) => {
     const r = await fetchPixels(cropUrl(scene, place, 64), signal)
-    return r.pixels ? blueFloor(r.pixels.data) : undefined
+    return r.pixels ? (isBlank(r.pixels.data) ? BLANK : blueFloor(r.pixels.data)) : undefined
   },
   frame: async (scene, place, px, signal) => URL.createObjectURL(await tonedImageBlob(cropUrl(scene, place, px), { signal, timeoutMs: 20_000 })),
 }
@@ -372,25 +391,30 @@ async function ask<T>(fn: (signal: AbortSignal) => Promise<T | undefined>, signa
  * (within SAME_GROUND), that share is the ground's, and the least cloudy of them is taken.
  */
 async function firstClear(slot: Slot, from: number, tries: number, place: LatLon, deps: TimelapseDeps, signal?: AbortSignal): Promise<{ pick: Pick; index: number } | undefined> {
+  const end = Math.min(slot.candidates.length, from + tries)
+  /** The scene as a pick, unless its small render shows it holds no picture (BLANK): then it is nobody's frame. */
+  const take = async (index: number, clear: number): Promise<{ pick: Pick; index: number } | undefined> => {
+    const scene = slot.candidates[index]
+    const haze = await ask((s) => deps.haze(scene, place, s), signal)
+    return haze === BLANK ? undefined : { pick: { scene, clear, haze }, index }
+  }
   const seen: { index: number; clear: number }[] = []
-  let found: { index: number; clear: number } | undefined
-  for (let i = from; i < Math.min(slot.candidates.length, from + tries) && !found; i++) {
+  for (let i = from; i < end; i++) {
     const clear = await ask((s) => deps.clear(slot.candidates[i], place, s), signal)
     if (clear === undefined) continue
-    if (clear >= MIN_CLEAR) found = { index: i, clear }
-    else seen.push({ index: i, clear })
-  }
-  if (!found) {
-    for (const a of seen) {
-      if (a.clear >= MIN_GROUND_CLEAR && seen.filter((b) => Math.abs(b.clear - a.clear) <= SAME_GROUND).length >= 3) {
-        found = a
-        break
-      }
+    if (clear < MIN_CLEAR) {
+      seen.push({ index: i, clear })
+      continue
     }
+    const got = await take(i, clear)
+    if (got) return got
   }
-  if (!found) return undefined
-  const scene = slot.candidates[found.index]
-  return { pick: { scene, clear: found.clear, haze: await ask((s) => deps.haze(scene, place, s), signal) }, index: found.index }
+  for (const a of seen) {
+    if (a.clear < MIN_GROUND_CLEAR || seen.filter((b) => Math.abs(b.clear - a.clear) <= SAME_GROUND).length < 3) continue
+    const got = await take(a.index, a.clear)
+    if (got) return got
+  }
+  return undefined
 }
 
 export interface TimelapseOptions {

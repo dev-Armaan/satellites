@@ -1,5 +1,5 @@
 import { describe, expect, it, vi } from 'vitest'
-import { blueFloor, buildTimelapse, commonGeometry, MIN_FRAMES, noDataShare, oneGeometry, planTimelapse, probeUrl, rankGeometries, sceneOf, sceneSearchUrl, seasonDayOf, type Scene, type TimelapseDeps, type TimelapseProgress } from './timelapse'
+import { BLANK, blueFloor, buildTimelapse, commonGeometry, isBlank, MIN_FRAMES, noDataShare, oneGeometry, planTimelapse, probeUrl, rankGeometries, sceneOf, sceneSearchUrl, seasonDayOf, type Scene, type TimelapseDeps, type TimelapseProgress } from './timelapse'
 
 const TORONTO = { lat: 43.653, lon: -79.384 }
 const SINGAPORE = { lat: 1.352, lon: 103.82 }
@@ -147,6 +147,18 @@ describe('building', () => {
     expect(years).toContain('2019')
     expect(t.frames.find((f) => f.date.startsWith('2019'))).toMatchObject({ date: '2019-08-10', clear: 0.82 })
     expect(years).not.toContain('2020') // two scenes that disagree are cloud
+  })
+
+  it('passes over a scene that is listed but holds no picture', async () => {
+    const px = (v: number) => Uint8Array.from({ length: 64 * 4 }, (_, i) => (i % 4 === 3 ? 255 : v))
+    expect(isBlank(px(4))).toBe(true)
+    expect(isBlank(px(60))).toBe(false) // dark water is a picture
+    expect(isBlank([])).toBe(true)
+    const scenes = yearly()
+    const empty = scenes.find((s) => s.cloud === 2 && new Date(s.t).getUTCFullYear() === 2018)!
+    const t = await buildTimelapse(TORONTO, { px: 640, now: NOW, deps: deps({ scenes, haze: async (s) => (s.id === empty.id ? BLANK : 0.015) }) })
+    expect(t.frames[0].date).toBe('2018-08-20')
+    expect(t.frames).toHaveLength(9)
   })
 
   it('leaves a year out when nothing asked about is clear, and plays on when a frame does not come', async () => {

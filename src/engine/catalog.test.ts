@@ -98,7 +98,9 @@ describe('catalog', () => {
     const s = propagate(25544, Date.parse(cat.fetchedAt))!
     expect(s.altKm).toBeGreaterThan(380)
     expect(s.altKm).toBeLessThan(460)
-    expect(Math.abs(s.lat)).toBeLessThanOrEqual(51.7)
+    // Its inclination is 51.64°, and that is geocentric: the geodetic latitude at the top of an orbit is 51.8°. A
+    // catalog fetched at that moment (2026-11-13) read 51.78° and failed the 51.7 this used to allow.
+    expect(Math.abs(s.lat)).toBeLessThanOrEqual(51.9)
     expect(s.velKmS).toBeGreaterThan(7.5)
     expect(s.velKmS).toBeLessThan(7.8)
     expect(Math.hypot(...s.ecef)).toBeCloseTo(6371 + s.altKm, -2)

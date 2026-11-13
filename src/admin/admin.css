@@ -481,36 +481,36 @@ a {
   border: 1px solid var(--line);
   background: var(--ink-1);
 }
-.a-map svg {
+.a-map > svg {
   display: block;
   width: 100%;
   height: auto;
 }
-.a-map-img {
-  opacity: 0.38;
-}
-.a-map-grat {
-  stroke: var(--line);
-  stroke-width: 0.25;
-}
-.a-map-eq {
-  stroke: var(--bone-4);
-  stroke-width: 0.25;
-}
 .a-map-dot {
-  fill: var(--signal-2);
-  stroke: var(--signal);
-  stroke-width: 0.35;
+  fill: var(--signal);
 }
 .a-map-legend {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
-  gap: var(--s-3);
+  gap: var(--s-2) var(--s-3);
   padding: var(--s-2) var(--s-3);
   border-top: 1px solid var(--line);
   font-size: var(--fs-meta);
   letter-spacing: 0.04em;
   color: var(--bone-3);
+}
+.a-map-key,
+.a-map-key-i {
+  display: inline-flex;
+  align-items: center;
+}
+.a-map-key {
+  gap: var(--s-3);
+  white-space: nowrap;
+}
+.a-map-key-i {
+  gap: var(--s-1);
 }
 
 /* ── split bars ── */

@@ -43,6 +43,12 @@ const yearOf = (date: string) => date.slice(0, 4)
 const monthOf = (date: string) => MONTHS[Number(date.slice(5, 7)) - 1]
 const fmtDate = (date: string) => `${Number(date.slice(8, 10))} ${monthOf(date)} ${yearOf(date)}`
 const pad2 = (n: number) => String(n).padStart(2, '0')
+/** "2015–2026", or the one year when every frame is from it. */
+const yearSpan = (frames: readonly Frame[]) => {
+  const a = yearOf(frames[0].date)
+  const b = yearOf(frames[frames.length - 1].date)
+  return a === b ? a : `${a}–${b}`
+}
 
 export interface TimelapseProps {
   place: { label: string; lat: number; lon: number }
@@ -209,7 +215,7 @@ function Player({ place, mode, from, mobile, onMode, onClose }: TimelapseProps) 
           {mode === 'years' ? 'A year with no clear look is left out.' : 'Weeks with no clear look are left out.'}
         </>
       ) : null}
-      <span className={s.credit}>{frames?.length ? `Contains modified Copernicus Sentinel data ${yearOf(frames[0].date)}–${yearOf(frames[frames.length - 1].date)}` : 'Copernicus Sentinel-2, via Planetary Computer'}</span>
+      <span className={s.credit}>{frames?.length ? `Contains modified Copernicus Sentinel data ${yearSpan(frames)}` : 'Copernicus Sentinel-2, via Planetary Computer'}</span>
     </p>
   )
   return (

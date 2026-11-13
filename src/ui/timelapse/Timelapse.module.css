@@ -324,12 +324,18 @@
   transform-origin: 0 50%;
   transition: transform var(--d-sm) var(--ease-out);
 }
+.waitPanel {
+  width: fit-content;
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-2);
+  padding: 14px 16px;
+  background: var(--ink-0);
+  box-shadow: 0 0 0 1px var(--line);
+}
 .waitHead {
   margin: 0;
-  width: fit-content;
-  padding: 2px 6px;
-  margin-left: -6px;
-  background: var(--ink-1);
   font-size: var(--fs-h3);
   font-stretch: 75%;
   font-weight: 560;
@@ -338,10 +344,6 @@
 }
 .waitLine {
   margin: 0;
-  width: fit-content;
-  padding: 2px 6px;
-  margin-left: -6px;
-  background: var(--ink-1);
   font-family: var(--font-mono);
   font-stretch: 87.5%;
   font-size: var(--fs-label);
@@ -352,7 +354,7 @@
 }
 .retry {
   align-self: flex-start;
-  background: var(--ink-1);
+  margin-top: var(--s-2);
 }
 
 /* ── controls ── */

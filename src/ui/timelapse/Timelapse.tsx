@@ -198,7 +198,7 @@ function Player({ place, mode, from, mobile, onMode, onClose }: TimelapseProps) 
           </button>
         </span>
       ) : null}
-      <CopyLink place={place} mode={mode} />
+      <CopyLink place={place} mode={mode} ready={!!data} />
     </div>
   )
   const note = (
@@ -277,7 +277,7 @@ function caption(run: RunState, mode: TimelapseMode, data: TimelapseData | undef
     if (mode === 'seasons') return `${n} clear looks · last twelve months`
     return data.seasonDay !== undefined ? `${n} clear looks · one a year · same season` : `${n} clear looks · one a year`
   }
-  if (run.phase === 'short') return 'Not enough clear looks for a time-lapse'
+  if (run.phase === 'short') return 'No time-lapse for this place'
   if (run.phase === 'error') return 'The archive did not answer'
   return mode === 'years' ? 'One clear look a year · since 2015' : 'The last twelve months'
 }
@@ -368,21 +368,25 @@ function Waiting({ run, mode, onRetry }: { run: RunState; mode: TimelapseMode; o
   if (run.phase === 'short') {
     return (
       <div className={s.wait}>
-        <p className={s.waitHead}>Too cloudy here for a time-lapse.</p>
-        <p className={s.waitLine}>
+        <div className={s.waitPanel}>
+          <p className={s.waitHead}>Too cloudy here for a time-lapse.</p>
+          <p className={s.waitLine}>
           {run.frames === 0 ? 'No clear look' : run.frames === 1 ? '1 clear look' : `${run.frames} clear looks`} {mode === 'years' ? 'since 2015' : 'in the last twelve months'} · 3 needed
-        </p>
+          </p>
+        </div>
       </div>
     )
   }
   if (run.phase === 'error') {
     return (
       <div className={s.wait}>
-        <p className={s.waitHead}>The archive did not answer.</p>
-        <p className={s.waitLine}>Planetary Computer could not be reached</p>
-        <Button size="sm" onClick={onRetry} onPointerDown={(e) => e.stopPropagation()} className={s.retry}>
-          Try again
-        </Button>
+        <div className={s.waitPanel}>
+          <p className={s.waitHead}>The archive did not answer.</p>
+          <p className={s.waitLine}>Planetary Computer could not be reached</p>
+          <Button size="sm" onClick={onRetry} onPointerDown={(e) => e.stopPropagation()} className={s.retry}>
+            Try again
+          </Button>
+        </div>
       </div>
     )
   }
@@ -496,7 +500,7 @@ function Scrubber({ run, i, mode, onJump, onScrub }: { run: RunState; i: number;
 
 // ── The link ───────────────────────────────────────────────────────────────────────────────
 
-function CopyLink({ place, mode }: { place: TimelapseProps['place']; mode: TimelapseMode }) {
+function CopyLink({ place, mode, ready }: { place: TimelapseProps['place']; mode: TimelapseMode; ready: boolean }) {
   const [copied, setCopied] = useState(false)
   useEffect(() => {
     if (!copied) return
@@ -516,7 +520,7 @@ function CopyLink({ place, mode }: { place: TimelapseProps['place']; mode: Timel
     if (navigator.clipboard?.writeText) navigator.clipboard.writeText(url).then(done, () => undefined)
   }
   return (
-    <Button size="sm" onClick={press} aria-live="polite" className={s.copy}>
+    <Button size="sm" onClick={press} disabled={!ready} aria-live="polite" className={s.copy}>
       <Glyph name="share" size={11} />
       {copied ? 'Link copied' : 'Share'}
     </Button>

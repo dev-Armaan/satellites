@@ -524,3 +524,12 @@
     bottom: -6px;
   }
 }
+/* Touch: the time-lapse button's 32 px takes a 44 px tap. */
+.mobile .lapse {
+  position: relative;
+}
+.mobile .lapse::after {
+  content: '';
+  position: absolute;
+  inset: -6px 0;
+}

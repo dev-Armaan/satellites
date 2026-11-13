@@ -60,8 +60,8 @@ export function TimelapseLayer({ model, mobile }: { model: ResultsModel | undefi
   useEffect(() => {
     if (!pending || !model) return
     // The link's request belongs to the first report after it; a place with nothing to play just drops it.
-    if (hasTimelapse(model)) useTimelapseUi.getState().show('link', pending)
-    else useTimelapseUi.getState().request(null)
+    if (hasTimelapse(model)) useTimelapseUi.getState().show('link')
+    else useTimelapseUi.getState().request(false)
   }, [pending, model])
 
   // A new place closes it: the frames on screen would be the last place's.
@@ -82,5 +82,5 @@ export function TimelapseLayer({ model, mobile }: { model: ResultsModel | undefi
 
   if (!open || !model || !Player) return null
   const { place } = model.report
-  return <Player place={{ label: place.label, lat: place.lat, lon: place.lon }} mode={open.mode} from={open.from} mobile={mobile} onMode={useTimelapseUi.getState().setMode} onClose={useTimelapseUi.getState().close} />
+  return <Player place={{ label: place.label, lat: place.lat, lon: place.lon }} from={open.from} mobile={mobile} onClose={useTimelapseUi.getState().close} />
 }

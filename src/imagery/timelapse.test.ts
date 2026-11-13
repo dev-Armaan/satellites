@@ -35,15 +35,15 @@ describe('the two searches', () => {
     expect(noDataShare([])).toBe(1)
   })
 
-  it('then asks for a few fields of every scene of that one geometry, since the archive begins or for twelve months', () => {
-    const years = new URL(sceneSearchUrl(TORONTO, 'years', NOW, { tile: '17TPJ', orbit: 140 })).searchParams
+  it('then asks for a few fields of every scene of that one geometry, since the archive begins', () => {
+    const years = new URL(sceneSearchUrl(TORONTO, NOW, { tile: '17TPJ', orbit: 140 })).searchParams
     expect(years.get('collections')).toBe('sentinel-2-l2a')
     expect(years.get('datetime')).toBe('2015-06-23T00:00:00Z/2026-11-13T02:00:00Z')
     expect(JSON.parse(years.get('intersects')!)).toEqual({ type: 'Point', coordinates: [-79.384, 43.653] })
     expect(JSON.parse(years.get('query')!)).toEqual({ 'eo:cloud_cover': { lt: 50 }, 's2:mgrs_tile': { eq: '17TPJ' }, 'sat:relative_orbit': { eq: 140 } })
     expect(years.get('fields')).toContain('properties.eo:cloud_cover')
     expect(years.get('fields')).toContain('-assets')
-    expect(new URL(sceneSearchUrl(TORONTO, 'seasons', NOW)).searchParams.get('datetime')).toBe('2025-11-13T02:00:00Z/2026-11-13T02:00:00Z')
+    expect(new URL(sceneSearchUrl(TORONTO, NOW)).searchParams.get('query')).toBe('{"eo:cloud_cover":{"lt":50}}')
   })
 
   it('reads a light item, and drops one it cannot place', () => {
@@ -72,7 +72,7 @@ describe('planning', () => {
     const day = seasonDay(all, TORONTO)!
     expect(day).toBeGreaterThan(180)
     expect(day).toBeLessThan(260)
-    const plan = planTimelapse(all, TORONTO, 'years', NOW)
+    const plan = planTimelapse(all, TORONTO)
     expect(plan.slots.map((s) => s.key)).toEqual(['2018', '2019', '2020', '2021', '2022', '2023', '2024', '2025', '2026'])
     for (const s of plan.slots) expect(s.candidates.map((c) => c.cloud)).toEqual([2, 8]) // February is another season
   })
@@ -87,17 +87,10 @@ describe('planning', () => {
   it('has no season in the tropics: any day of the year counts', () => {
     const all = [scene('2024-01-05', 20), scene('2024-07-19', 4), scene('2025-10-02', 9)]
     expect(seasonDay(all, SINGAPORE)).toBeUndefined()
-    expect(planTimelapse(all, SINGAPORE, 'years', NOW).slots.map((s) => [s.key, s.candidates.map((c) => c.cloud)])).toEqual([
+    expect(planTimelapse(all, SINGAPORE).slots.map((s) => [s.key, s.candidates.map((c) => c.cloud)])).toEqual([
       ['2024', [4, 20]],
       ['2025', [9]],
     ])
-  })
-
-  it('cuts the last twelve months into stretches of about twenty days, oldest first', () => {
-    const all = [scene('2025-12-01', 3), scene('2026-02-04', 24), scene('2026-02-06', 10), scene('2026-11-01', 4), scene('2024-06-01', 0)]
-    const plan = planTimelapse(all, TORONTO, 'seasons', NOW)
-    expect(plan.seasonDay).toBeUndefined()
-    expect(plan.slots.map((s) => s.candidates.map((c) => c.cloud))).toEqual([[3], [10, 24], [4]])
   })
 })
 
@@ -116,7 +109,7 @@ describe('building', () => {
     const cloudy = new Set(scenes.filter((s) => s.cloud === 2 && new Date(s.t).getUTCFullYear() === 2020).map((s) => s.id))
     const asked: string[] = []
     const seen: TimelapseProgress[] = []
-    const t = await buildTimelapse(TORONTO, 'years', {
+    const t = await buildTimelapse(TORONTO, {
       px: 640,
       now: NOW,
       onProgress: (p) => seen.push(p),
@@ -138,14 +131,14 @@ describe('building', () => {
   it('swaps a milky frame for a cleaner clear scene of the same year', async () => {
     const scenes = yearly()
     const milky = scenes.find((s) => s.cloud === 2 && new Date(s.t).getUTCFullYear() === 2019)!
-    const t = await buildTimelapse(TORONTO, 'years', { px: 640, now: NOW, deps: deps({ scenes, haze: async (s) => (s.id === milky.id ? 0.11 : 0.015) }) })
+    const t = await buildTimelapse(TORONTO, { px: 640, now: NOW, deps: deps({ scenes, haze: async (s) => (s.id === milky.id ? 0.11 : 0.015) }) })
     expect(t.frames.map((f) => f.date)[1]).toBe('2019-08-20')
   })
 
   it('takes bright ground the archive calls cloud for what it is: the same share in scene after scene', async () => {
     // 2019 has four scenes; the dry lake bed reads as cloud over 18 % of the square in each of them.
     const scenes = [...yearly(), scene('2019-08-25', 12), scene('2019-08-30', 20)]
-    const t = await buildTimelapse(TORONTO, 'years', {
+    const t = await buildTimelapse(TORONTO, {
       px: 640,
       now: NOW,
       deps: deps({ scenes, clear: async (s) => (new Date(s.t).getUTCFullYear() === 2019 ? 0.82 + (s.cloud > 10 ? 0.01 : 0) : new Date(s.t).getUTCFullYear() === 2020 ? [0.4, 0.7][s.cloud === 2 ? 0 : 1] : 1) }),
@@ -159,7 +152,7 @@ describe('building', () => {
   it('leaves a year out when nothing asked about is clear, and plays on when a frame does not come', async () => {
     const scenes = yearly()
     const year = (s: Scene) => new Date(s.t).getUTCFullYear()
-    const t = await buildTimelapse(TORONTO, 'years', {
+    const t = await buildTimelapse(TORONTO, {
       px: 640,
       now: NOW,
       deps: deps({
@@ -180,7 +173,7 @@ describe('building', () => {
     const revoke = vi.spyOn(URL, 'revokeObjectURL').mockImplementation(() => undefined)
     const ctl = new AbortController()
     let made = 0
-    const p = buildTimelapse(TORONTO, 'years', {
+    const p = buildTimelapse(TORONTO, {
       px: 640,
       now: NOW,
       signal: ctl.signal,
@@ -198,6 +191,6 @@ describe('building', () => {
   })
 
   it('rejects when the archive cannot be listed', async () => {
-    await expect(buildTimelapse(TORONTO, 'years', { px: 640, now: NOW, deps: { list: async () => Promise.reject(new Error('down')) } })).rejects.toThrow('down')
+    await expect(buildTimelapse(TORONTO, { px: 640, now: NOW, deps: { list: async () => Promise.reject(new Error('down')) } })).rejects.toThrow('down')
   })
 })

@@ -102,7 +102,6 @@
 }
 .close:focus-visible,
 .play:focus-visible,
-.mode:focus-visible,
 .logRow:focus-visible,
 .scrub:focus-visible {
   outline: 1px solid var(--signal);
@@ -482,35 +481,6 @@
   justify-content: space-between;
   gap: var(--s-3);
   margin-top: var(--s-4);
-}
-.modes {
-  display: inline-flex;
-  border: 1px solid var(--line-strong);
-}
-.mode {
-  height: 30px;
-  padding: 0 11px;
-  font-family: var(--font-mono);
-  font-stretch: 87.5%;
-  font-size: var(--fs-label);
-  letter-spacing: var(--track-label);
-  text-transform: uppercase;
-  color: var(--bone-3);
-  transition:
-    color var(--d-hover) var(--ease-out),
-    background-color var(--d-hover) var(--ease-out);
-}
-.mode + .mode {
-  border-left: 1px solid var(--line-strong);
-}
-.mode[aria-pressed='true'] {
-  color: var(--bone);
-  background: var(--ink-2);
-}
-@media (hover: hover) {
-  .mode:hover {
-    color: var(--bone);
-  }
 }
 .copy {
   flex: none;

@@ -102,9 +102,9 @@
   checked coordinates, and rebuild). A search asks the network only when the list has < 3 matches and none exact
   (~2% of searches): Open-Meteo first (free tier ~10,000 requests a day), Photon if Open-Meteo is slow or empty;
   later rows only ever join below the offline ones. Pins far from a town ask Photon, then Nominatim.
-- Time-lapse (`src/imagery/timelapse.ts`, `src/ui/timelapse/`): the place's clear Sentinel-2 looks, one a year (or the
-  last twelve months), as a loop. Nothing of it loads or is asked until someone opens it (its own chunk; the row under
-  the photos, the viewer's button, or a `?tl=years|seasons` link), and every request goes from the browser to Planetary
+- Time-lapse (`src/imagery/timelapse.ts`, `src/ui/timelapse/`): the place's clear Sentinel-2 looks, one a year, as a
+  loop. Nothing of it loads or is asked until someone opens it (its own chunk; the row under
+  the photos, the viewer's button, or a `?tl=1` link), and every request goes from the browser to Planetary
   Computer: keep both true. Frames need no alignment because every crop is on the place's grid, and they come from ONE
   tile and orbit (two light searches: which geometry, then its scenes; all geometries at once overflow the archive's
   1000-scene page over deserts). Its pictures stay out of the photo cache (they are released when it is dropped), and

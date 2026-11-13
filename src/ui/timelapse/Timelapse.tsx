@@ -1,6 +1,5 @@
 /**
- * The time-lapse: the same ten kilometres around the place, one clear Sentinel-2 photo a year (or the last twelve
- * months, a few weeks apart), played as a loop. A full-viewport ink layer over the results and the photo viewer,
+ * The time-lapse: the same ten kilometres around the place, one clear Sentinel-2 photo a year, played as a loop. A full-viewport ink layer over the results and the photo viewer,
  * a portal on <body> like them.
  *
  * Why it looks the way it does:
@@ -12,7 +11,7 @@
  *  - A step is a dissolve of the new frame OVER the last one (which stays opaque under it), so the picture never
  *    dips toward the ink between two frames. Opacity only, on the compositor.
  *  - The time line is true to scale: each tick sits at its frame's real date, so a year with no clear look is a
- *    visible gap, not a hidden one. The big readout is the frame's own year (or month), with its date and satellite.
+ *    visible gap, not a hidden one. The big readout is the frame's own year, with its date and satellite.
  *  - Drag across the picture to scrub (right is later, as on the time line under it), tap to play or pause; the
  *    keys do the same (Space, ← →, Home, End). Reduced motion: nothing plays by itself and steps are cuts.
  *
@@ -21,7 +20,7 @@
  */
 import { useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState } from 'react'
 import { createPortal } from 'react-dom'
-import { FRAME_HALF_KM, type Frame, type Timelapse as TimelapseData, type TimelapseMode } from '@/imagery/timelapse'
+import { FRAME_HALF_KM, type Frame, type Timelapse as TimelapseData } from '@/imagery/timelapse'
 import { useBackLayer } from '@/lib/backStack'
 import { track } from '@/lib/telemetry'
 import type { TimelapseFrom } from '@/state/timelapse'
@@ -32,12 +31,11 @@ import { useTimelapseRun, type RunState } from './run'
 import s from './Timelapse.module.css'
 
 /** How long a frame is held before the next one starts to dissolve in, ms; the last frame of a loop rests longer. */
-const HOLD_MS: Record<TimelapseMode, number> = { years: 1250, seasons: 1000 }
+const HOLD_MS = 1250
 const LAST_HOLD_MS = 2800
 /** A press that moves less than this is a tap (play / pause), not a scrub. */
 const TAP_SLOP_PX = 8
 const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
-const TROPIC_LAT = 23.5
 
 const yearOf = (date: string) => date.slice(0, 4)
 const monthOf = (date: string) => MONTHS[Number(date.slice(5, 7)) - 1]
@@ -52,10 +50,8 @@ const yearSpan = (frames: readonly Frame[]) => {
 
 export interface TimelapseProps {
   place: { label: string; lat: number; lon: number }
-  mode: TimelapseMode
   from: TimelapseFrom
   mobile: boolean
-  onMode: (mode: TimelapseMode) => void
   onClose: () => void
 }
 
@@ -63,14 +59,14 @@ export function Timelapse(props: TimelapseProps) {
   return createPortal(<Player {...props} />, document.body)
 }
 
-function Player({ place, mode, from, mobile, onMode, onClose }: TimelapseProps) {
+function Player({ place, from, mobile, onClose }: TimelapseProps) {
   const rootRef = useRef<HTMLDivElement>(null)
   const onCloseRef = useRef(onClose)
   onCloseRef.current = onClose
   const reduced = useReducedMotion()
   const [attempt, setAttempt] = useState(0)
   // Phones play 640 px frames (1.3 MB a loop); a laptop's larger picture takes the scene's own 10 m pixels.
-  const run = useTimelapseRun(place, mode, mobile ? 640 : 1000, attempt)
+  const run = useTimelapseRun(place, mobile ? 640 : 1000, attempt)
   const data = run.phase === 'ready' ? run.timelapse : undefined
   const frames = data?.frames
   const n = frames?.length ?? 0
@@ -96,9 +92,9 @@ function Player({ place, mode, from, mobile, onMode, onClose }: TimelapseProps) 
   // The loop: hold, step, and rest on the last frame before starting again.
   useEffect(() => {
     if (!playing || n < 2 || scrubbing) return
-    const timer = setTimeout(() => go((cur) => (cur + 1) % n), i === n - 1 ? LAST_HOLD_MS : HOLD_MS[mode])
+    const timer = setTimeout(() => go((cur) => (cur + 1) % n), i === n - 1 ? LAST_HOLD_MS : HOLD_MS)
     return () => clearTimeout(timer)
-  }, [playing, scrubbing, i, n, mode, go])
+  }, [playing, scrubbing, i, n, go])
 
   const step = useCallback(
     (d: number) => {
@@ -117,7 +113,7 @@ function Player({ place, mode, from, mobile, onMode, onClose }: TimelapseProps) 
 
   useBackLayer('timelapse', true, () => onCloseRef.current())
 
-  useEffect(() => track('timelapse_open', { mode, from }), []) // eslint-disable-line react-hooks/exhaustive-deps
+  useEffect(() => track('timelapse_open', { from }), []) // eslint-disable-line react-hooks/exhaustive-deps
 
   // The overlay contract: the globe rests while this covers it; a layer that was already up gets its value back.
   useLayoutEffect(() => {
@@ -190,21 +186,10 @@ function Player({ place, mode, from, mobile, onMode, onClose }: TimelapseProps) 
   }, [n, step, jump])
 
   const frame = frames?.[i]
-  const seasons = Math.abs(place.lat) >= TROPIC_LAT
 
   const tools = (
     <div className={s.tools}>
-      {seasons ? (
-        <span className={s.modes} role="group" aria-label="Which time-lapse">
-          <button type="button" className={s.mode} aria-pressed={mode === 'years'} onClick={() => onMode('years')}>
-            Years
-          </button>
-          <button type="button" className={s.mode} aria-pressed={mode === 'seasons'} onClick={() => onMode('seasons')}>
-            Seasons
-          </button>
-        </span>
-      ) : null}
-      <CopyLink place={place} mode={mode} ready={!!data} />
+      <CopyLink place={place} ready={!!data} />
     </div>
   )
   const note = (
@@ -212,7 +197,7 @@ function Player({ place, mode, from, mobile, onMode, onClose }: TimelapseProps) 
       {frame ? (
         <>
           Each frame is the same {FRAME_HALF_KM * 2} km square, taken by Sentinel-2 and toned like every photo here.{' '}
-          {mode === 'years' ? 'A year with no clear look is left out.' : 'Weeks with no clear look are left out.'}
+          A year with no clear look is left out.
         </>
       ) : null}
       <span className={s.credit}>{frames?.length ? `Contains modified Copernicus Sentinel data ${yearSpan(frames)}` : 'Copernicus Sentinel-2, via Planetary Computer'}</span>
@@ -234,17 +219,17 @@ function Player({ place, mode, from, mobile, onMode, onClose }: TimelapseProps) 
 
       <div className={s.body}>
         <div className={s.main}>
-          <Stage frames={frames} i={i} under={at.under} mode={mode} run={run} scrubbing={scrubbing} onScrub={setScrubbing} onTap={() => n > 1 && setPlaying((p) => !p)} onJump={jump} onRetry={() => setAttempt((a) => a + 1)} />
+          <Stage frames={frames} i={i} under={at.under} run={run} scrubbing={scrubbing} onScrub={setScrubbing} onTap={() => n > 1 && setPlaying((p) => !p)} onJump={jump} onRetry={() => setAttempt((a) => a + 1)} />
 
           <div className={s.controls}>
             <button type="button" className={s.play} onClick={() => setPlaying((p) => !p)} disabled={n < 2} aria-label={playing ? 'Pause' : 'Play'} aria-keyshortcuts="Space">
               <Glyph name={playing && n > 1 ? 'pause' : 'play'} size={14} />
             </button>
-            <Scrubber run={run} i={i} mode={mode} onJump={jump} onScrub={setScrubbing} />
+            <Scrubber run={run} i={i} onJump={jump} onScrub={setScrubbing} />
           </div>
 
           <p className={s.caption} aria-live="polite">
-            {caption(run, mode, data)}
+            {caption(run, data)}
           </p>
           {mobile ? tools : null}
           {mobile ? note : null}
@@ -258,8 +243,8 @@ function Player({ place, mode, from, mobile, onMode, onClose }: TimelapseProps) 
                 {frames.map((f, k) => (
                   <li key={f.scene.id}>
                     <button type="button" className={s.logRow} aria-current={k === i || undefined} onClick={() => jump(k)}>
-                      <span className={s.logYear}>{mode === 'years' ? yearOf(f.date) : monthOf(f.date)}</span>
-                      <span className={s.logDate}>{mode === 'years' ? `${Number(f.date.slice(8, 10))} ${monthOf(f.date)}` : `${Number(f.date.slice(8, 10))} ${monthOf(f.date)} ${yearOf(f.date)}`}</span>
+                      <span className={s.logYear}>{yearOf(f.date)}</span>
+                      <span className={s.logDate}>{`${Number(f.date.slice(8, 10))} ${monthOf(f.date)}`}</span>
                       <span className={s.logSat}>{f.scene.platform.replace('Sentinel-', 'S')}</span>
                     </button>
                   </li>
@@ -277,15 +262,14 @@ function Player({ place, mode, from, mobile, onMode, onClose }: TimelapseProps) 
 }
 
 /** One line under the time line: what is on screen, or what the instrument is doing. */
-function caption(run: RunState, mode: TimelapseMode, data: TimelapseData | undefined): string {
+function caption(run: RunState, data: TimelapseData | undefined): string {
   if (data) {
     const n = data.frames.length
-    if (mode === 'seasons') return `${n} clear looks · last twelve months`
     return data.seasonDay !== undefined ? `${n} clear looks · one a year · same season` : `${n} clear looks · one a year`
   }
   if (run.phase === 'short') return 'No time-lapse for this place'
   if (run.phase === 'error') return 'The archive did not answer'
-  return mode === 'years' ? 'One clear look a year · since 2015' : 'The last twelve months'
+  return 'One clear look a year · since 2015'
 }
 
 // ── The picture ────────────────────────────────────────────────────────────────────────────
@@ -294,7 +278,6 @@ interface StageProps {
   frames: Frame[] | undefined
   i: number
   under: number
-  mode: TimelapseMode
   run: RunState
   scrubbing: boolean
   onScrub: (on: boolean) => void
@@ -303,7 +286,7 @@ interface StageProps {
   onRetry: () => void
 }
 
-function Stage({ frames, i, under, mode, run, scrubbing, onScrub, onTap, onJump, onRetry }: StageProps) {
+function Stage({ frames, i, under, run, scrubbing, onScrub, onTap, onJump, onRetry }: StageProps) {
   const drag = useRef<{ x: number; from: number; moved: boolean; id: number } | null>(null)
   const n = frames?.length ?? 0
   const frame = frames?.[i]
@@ -349,7 +332,7 @@ function Stage({ frames, i, under, mode, run, scrubbing, onScrub, onTap, onJump,
         <>
           <Reticle size={34} className={s.reticle} />
           <div className={s.readout} aria-live="off">
-            <span className={s.big}>{mode === 'years' ? yearOf(frame.date) : monthOf(frame.date)}</span>
+            <span className={s.big}>{yearOf(frame.date)}</span>
             <span className={s.small}>
               {fmtDate(frame.date)} · {frame.scene.platform}
             </span>
@@ -363,21 +346,21 @@ function Stage({ frames, i, under, mode, run, scrubbing, onScrub, onTap, onJump,
           </span>
         </>
       ) : (
-        <Waiting run={run} mode={mode} onRetry={onRetry} />
+        <Waiting run={run} onRetry={onRetry} />
       )}
     </div>
   )
 }
 
 /** The stage before there is a picture: what is being done, in counts, with a hairline bar; or why there is none. */
-function Waiting({ run, mode, onRetry }: { run: RunState; mode: TimelapseMode; onRetry: () => void }) {
+function Waiting({ run, onRetry }: { run: RunState; onRetry: () => void }) {
   if (run.phase === 'short') {
     return (
       <div className={s.wait}>
         <div className={s.waitPanel}>
           <p className={s.waitHead}>Too cloudy here for a time-lapse.</p>
           <p className={s.waitLine}>
-          {run.frames === 0 ? 'No clear look' : run.frames === 1 ? '1 clear look' : `${run.frames} clear looks`} {mode === 'years' ? 'since 2015' : 'in the last twelve months'} · 3 needed
+          {run.frames === 0 ? 'No clear look' : run.frames === 1 ? '1 clear look' : `${run.frames} clear looks`} since 2015 · 3 needed
           </p>
         </div>
       </div>
@@ -430,7 +413,7 @@ interface Tick {
   lit: boolean
 }
 
-function Scrubber({ run, i, mode, onJump, onScrub }: { run: RunState; i: number; mode: TimelapseMode; onJump: (to: number) => void; onScrub: (on: boolean) => void }) {
+function Scrubber({ run, i, onJump, onScrub }: { run: RunState; i: number; onJump: (to: number) => void; onScrub: (on: boolean) => void }) {
   const ref = useRef<HTMLDivElement>(null)
   const dragging = useRef(false)
   const ticks = useMemo<Tick[]>(() => {
@@ -456,7 +439,7 @@ function Scrubber({ run, i, mode, onJump, onScrub }: { run: RunState; i: number;
   }
 
   // Years get their two digits under each tick while there is room for them.
-  const labelled = mode === 'years' && ticks.length <= 14
+  const labelled = ticks.length <= 14
   return (
     <div className={s.scrubWrap}>
       <div
@@ -506,7 +489,7 @@ function Scrubber({ run, i, mode, onJump, onScrub }: { run: RunState; i: number;
 
 // ── The link ───────────────────────────────────────────────────────────────────────────────
 
-function CopyLink({ place, mode, ready }: { place: TimelapseProps['place']; mode: TimelapseMode; ready: boolean }) {
+function CopyLink({ place, ready }: { place: TimelapseProps['place']; ready: boolean }) {
   const [copied, setCopied] = useState(false)
   useEffect(() => {
     if (!copied) return
@@ -514,8 +497,8 @@ function CopyLink({ place, mode, ready }: { place: TimelapseProps['place']; mode
     return () => clearTimeout(timer)
   }, [copied])
   const press = () => {
-    const url = timelapseLink(location.origin, place, mode)
-    track('timelapse_share', { mode })
+    const url = timelapseLink(location.origin, place)
+    track('timelapse_share', { action: 'link' })
     // A phone's own share sheet when it has one (called inside the press, as Safari requires); else the clipboard.
     const coarse = window.matchMedia?.('(pointer: coarse)').matches
     if (coarse && typeof navigator.share === 'function') {

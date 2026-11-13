@@ -1,6 +1,6 @@
 /**
  * The time-lapse's frames: the same ten kilometres around a place, one clear Sentinel-2 photo a year since the
- * archive begins (`years`), or one every few weeks of the last twelve months (`seasons`).
+ * archive begins.
  *
  * Why it works the way it does (measured on nine places, 2026-11-13):
  *
@@ -12,7 +12,7 @@
  *    placeGrid), so the same ground is under the same pixel in every year. They are taken from ONE tile and ONE
  *    relative orbit (the pair with the most scenes), so the satellite looks from the same side every time and tall
  *    buildings do not lean back and forth.
- *  - `years` keeps to one season where there are seasons (the same ±45 days of every year, the stretch with a nearly
+ *  - It keeps to one season where there are seasons (the same ±45 days of every year, the stretch with a nearly
  *    cloud-free scene in the most years), so what changes between frames is the place, not the leaves or the snow.
  *    Inside the tropics there is no such season and far fewer clear days: any day of the year counts (Singapore: 2
  *    frames with a season, 10 of 10 years without).
@@ -37,8 +37,6 @@ import { pcCropUrl, pcMaskUrl } from './pcCrop'
 import { fetchMask, fetchPixels } from './pixelsClient'
 import { clearFraction } from '../../api/_lib/tone'
 
-export type TimelapseMode = 'years' | 'seasons'
-
 const COLLECTION = 'sentinel-2-l2a'
 const DAY = 86_400_000
 /** Sentinel-2A's first public scenes. */
@@ -52,15 +50,13 @@ const MIN_CLEAR = 0.95
 /** Scenes of one slot whose clear shares are this close show the same ground (firstClear), if it is at least this much. */
 const SAME_GROUND = 0.03
 const MIN_GROUND_CLEAR = 0.6
-/** `years`: a scene counts toward a season when it is within this of the season's middle day. */
+/** A scene counts toward a season when it is within this of the season's middle day. */
 const SEASON_HALF_DAYS = 45
-/** `seasons`: slots across the last twelve months (about 20 days each). */
-const SEASON_SLOTS = 18
 /** Scenes asked about per slot before giving the slot up, and how many more a hazy pick may try. */
-const TRIES: Record<TimelapseMode, number> = { years: 5, seasons: 3 }
+const TRIES = 5
 const HAZE_RETRIES = 2
 /** Scene cloud above which a scene is not listed at all. */
-const MAX_SCENE_CLOUD: Record<TimelapseMode, number> = { years: 50, seasons: 70 }
+const MAX_SCENE_CLOUD = 50
 /** Between the tropics there is no season to keep to. */
 const TROPIC_LAT = 23.5
 /** A pick is hazy when its blue floor is this far above the place's median. */
@@ -86,7 +82,6 @@ export interface Slot {
 }
 
 export interface TimelapsePlan {
-  mode: TimelapseMode
   /** Middle day of the season kept to (day of the year, 0-based); undefined when any day counts */
   seasonDay?: number
   slots: Slot[]
@@ -108,9 +103,8 @@ export type TimelapseProgress =
   | { phase: 'loading'; frames: Omit<Frame, 'src'>[]; loaded: number }
 
 export interface Timelapse {
-  mode: TimelapseMode
   frames: Frame[]
-  /** Slots that had scenes to ask about (a year, or a stretch of the year) */
+  /** Years that had scenes to ask about */
   slots: number
   seasonDay?: number
 }
@@ -156,14 +150,14 @@ export function probeUrl(place: LatLon, now: number): string {
 }
 
 /**
- * The second search: every scene of ONE tile and orbit since `start` under the mode's cloud limit, a few fields each.
+ * The second search: every scene of ONE tile and orbit since `start` under the cloud limit, a few fields each.
  * One geometry is at most a scene every five days (about 800 since 2015), so it fits the archive's 1000 a page: asked
  * for every geometry at once, a desert under four overlapping tiles and orbits (Groom Lake) filled the page with its
  * last year alone and the time-lapse lost the years before.
  */
-export function sceneSearchUrl(place: LatLon, mode: TimelapseMode, now: number, geometry?: Geometry): string {
-  const start = mode === 'years' ? ARCHIVE_START : now - 365 * DAY
-  const query: Record<string, unknown> = { 'eo:cloud_cover': { lt: MAX_SCENE_CLOUD[mode] } }
+export function sceneSearchUrl(place: LatLon, now: number, geometry?: Geometry): string {
+  const start = ARCHIVE_START
+  const query: Record<string, unknown> = { 'eo:cloud_cover': { lt: MAX_SCENE_CLOUD } }
   if (geometry) {
     query['s2:mgrs_tile'] = { eq: geometry.tile }
     query['sat:relative_orbit'] = { eq: geometry.orbit }
@@ -231,10 +225,10 @@ async function chooseGeometry(recent: readonly Scene[], place: LatLon, signal?: 
   return ranked[0]
 }
 
-async function listScenes(place: LatLon, mode: TimelapseMode, now: number, signal?: AbortSignal): Promise<Scene[]> {
+async function listScenes(place: LatLon, now: number, signal?: AbortSignal): Promise<Scene[]> {
   // A place nothing has photographed in four months (no geometry) is asked about without one.
   const geometry = await chooseGeometry(await searchScenes(probeUrl(place, now), signal), place, signal)
-  return searchScenes(sceneSearchUrl(place, mode, now, geometry), signal)
+  return searchScenes(sceneSearchUrl(place, now, geometry), signal)
 }
 
 // ── Planning (pure) ────────────────────────────────────────────────────────────────────────
@@ -256,7 +250,7 @@ export function oneGeometry(scenes: readonly Scene[], lon: number): Scene[] {
 }
 
 /**
- * The season `years` keeps to: the middle day (of ten, mid-February to mid-November) whose ±45 days hold a scene under 10 % cloud in the
+ * The season the frames keep to: the middle day (of ten, mid-February to mid-November) whose ±45 days hold a scene under 10 % cloud in the
  * most years; ties go to the higher sun. Windows that straddle New Year are left out, so a frame's year is the year
  * it was taken. Undefined in the tropics.
  */
@@ -278,7 +272,7 @@ export function seasonDay(scenes: readonly Scene[], place: LatLon): number | und
 }
 
 /** Which scenes to ask about, slot by slot (oldest slot first), best candidate first. */
-export function planTimelapse(all: readonly Scene[], place: LatLon, mode: TimelapseMode, now: number): TimelapsePlan {
+export function planTimelapse(all: readonly Scene[], place: LatLon): TimelapsePlan {
   const scenes = oneGeometry(all, place.lon)
   const slots = new Map<string, Scene[]>()
   const put = (key: string, s: Scene) => {
@@ -286,25 +280,15 @@ export function planTimelapse(all: readonly Scene[], place: LatLon, mode: Timela
     if (list) list.push(s)
     else slots.set(key, [s])
   }
-  let season: number | undefined
-  if (mode === 'years') {
-    season = seasonDay(scenes, place)
-    for (const s of scenes) {
-      const d = mosaicDate(s.t, place.lon)
-      if (season !== undefined && Math.abs(dayOfYear(d) - season) > SEASON_HALF_DAYS) continue
-      put(d.slice(0, 4), s)
-    }
-  } else {
-    const span = (365 * DAY) / SEASON_SLOTS
-    for (const s of scenes) {
-      const i = SEASON_SLOTS - 1 - Math.floor((now - s.t) / span)
-      if (i >= 0 && i < SEASON_SLOTS) put(String(i).padStart(2, '0'), s)
-    }
+  const season = seasonDay(scenes, place)
+  for (const s of scenes) {
+    const d = mosaicDate(s.t, place.lon)
+    if (season !== undefined && Math.abs(dayOfYear(d) - season) > SEASON_HALF_DAYS) continue
+    put(d.slice(0, 4), s)
   }
   return {
-    mode,
     seasonDay: season,
-    slots: [...slots.entries()].sort((a, b) => (a[0] < b[0] ? -1 : 1)).map(([key, list]) => ({ key, candidates: list.sort(byCloud).slice(0, TRIES[mode] + HAZE_RETRIES) })),
+    slots: [...slots.entries()].sort((a, b) => (a[0] < b[0] ? -1 : 1)).map(([key, list]) => ({ key, candidates: list.sort(byCloud).slice(0, TRIES + HAZE_RETRIES) })),
   }
 }
 
@@ -326,7 +310,7 @@ const median = (xs: number[]) => {
 
 /** What the choice asks the archive, replaceable in tests. */
 export interface TimelapseDeps {
-  list: (place: LatLon, mode: TimelapseMode, now: number, signal?: AbortSignal) => Promise<Scene[]>
+  list: (place: LatLon, now: number, signal?: AbortSignal) => Promise<Scene[]>
   /**
    * Share of the square showing the ground, or undefined when the mask can't be read or the scene does not cover the
    * whole square (a tile or a swath that ends inside it leaves a black strip)
@@ -435,19 +419,19 @@ export interface TimelapseOptions {
  * MIN_FRAMES: the caller says so); rejects when the archive can't be listed, and on abort (every blob made so far is
  * released first).
  */
-export async function buildTimelapse(place: LatLon, mode: TimelapseMode, opts: TimelapseOptions): Promise<Timelapse> {
+export async function buildTimelapse(place: LatLon, opts: TimelapseOptions): Promise<Timelapse> {
   const { signal, onProgress } = opts
   const now = opts.now ?? Date.now()
   const deps = { ...realDeps, ...opts.deps }
   onProgress?.({ phase: 'listing' })
-  const plan = planTimelapse(await deps.list(place, mode, now, signal), place, mode, now)
+  const plan = planTimelapse(await deps.list(place, now, signal), place)
   throwIfAborted(signal)
 
   // The clear look of each slot, six slots at a time (a slot asks one thing at a time).
   let done = 0
   onProgress?.({ phase: 'choosing', done, total: plan.slots.length })
   const first = await mapLimit(plan.slots, 6, async (slot) => {
-    const r = await firstClear(slot, 0, TRIES[mode], place, deps, signal)
+    const r = await firstClear(slot, 0, TRIES, place, deps, signal)
     onProgress?.({ phase: 'choosing', done: ++done, total: plan.slots.length })
     return r
   })
@@ -481,7 +465,7 @@ export async function buildTimelapse(place: LatLon, mode: TimelapseMode, opts: T
     })
     throwIfAborted(signal)
     const frames = meta.flatMap((m, i) => (srcs[i] ? [{ ...m, src: srcs[i] }] : []))
-    return { mode, frames, slots: plan.slots.length, seasonDay: plan.seasonDay }
+    return { frames, slots: plan.slots.length, seasonDay: plan.seasonDay }
   } catch (err) {
     for (const src of made) URL.revokeObjectURL(src)
     throw err

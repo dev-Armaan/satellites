@@ -1,19 +1,18 @@
 /**
  * One run of the time-lapse for the player: its progress as React state, and the last few finished ones kept.
  *
- * A finished time-lapse is kept while its place is on screen (at most KEEP of them, e.g. the years and the seasons
- * of one place), so closing and reopening it, or switching back to a tab, plays at once with nothing asked again.
+ * A finished time-lapse is kept while its place is on screen (at most KEEP of them), so closing and reopening it, or switching back to a tab, plays at once with nothing asked again.
  * One that falls out gives its pictures back (releaseTimelapse): they are a dozen decoded photos, and nothing else
  * holds them. Closing the player while a run is still under way aborts it; the engine releases what it had made.
  */
 import { useEffect, useState } from 'react'
-import { buildTimelapse, MIN_FRAMES, releaseTimelapse, type Frame, type Timelapse, type TimelapseMode } from '@/imagery/timelapse'
+import { buildTimelapse, MIN_FRAMES, releaseTimelapse, type Frame, type Timelapse } from '@/imagery/timelapse'
 import type { LatLon } from '@/types'
 
 const KEEP = 2
 const kept = new Map<string, Timelapse>()
 
-const keyOf = (place: LatLon, mode: TimelapseMode, px: number) => `${mode}|${place.lat.toFixed(4)},${place.lon.toFixed(4)}|${px}`
+const keyOf = (place: LatLon, px: number) => `${place.lat.toFixed(4)},${place.lon.toFixed(4)}|${px}`
 
 function keep(key: string, t: Timelapse) {
   kept.delete(key)
@@ -52,8 +51,8 @@ async function decodeAll(frames: readonly Frame[]): Promise<void> {
   )
 }
 
-export function useTimelapseRun(place: LatLon, mode: TimelapseMode, px: number, attempt: number): RunState {
-  const key = keyOf(place, mode, px)
+export function useTimelapseRun(place: LatLon, px: number, attempt: number): RunState {
+  const key = keyOf(place, px)
   const [state, setState] = useState<{ key: string; attempt: number; run: RunState }>(() => {
     const t = kept.get(key)
     return { key, attempt, run: t ? { phase: 'ready', timelapse: t } : { phase: 'listing' } }
@@ -68,7 +67,7 @@ export function useTimelapseRun(place: LatLon, mode: TimelapseMode, px: number, 
     const ctl = new AbortController()
     const set = (run: RunState) => !ctl.signal.aborted && setState({ key, attempt, run })
     set({ phase: 'listing' })
-    buildTimelapse(place, mode, {
+    buildTimelapse(place, {
       px,
       signal: ctl.signal,
       onProgress: (p) => {

@@ -375,6 +375,33 @@ export function geoDiveAt(t: number, tc: number): number {
   return Math.min(1, u * u * u * (u * (6 * u - 15) + 10))
 }
 
+/**
+ * A QUIET ARRIVAL: an image that reaches the ground with no replay running (a gallery step, a parked link, a pass
+ * opened while scrubbing). It used to fade in over a quarter second wherever it was when its download ended, and the
+ * image before it had already faded out when the step was taken: 1–2 s of bare ground, then a picture out of nowhere
+ * (owner, 2026-11-12, stepping through daily mosaics). Now the image before it stays until this one is on the GPU
+ * (at most ARRIVAL_HOLD_MS: a slow archive must not leave the wrong pass's image under this pass's label), and this
+ * one develops over it in one sweep along the pass's own direction, as an acquisition paints it, in ARRIVAL_SWEEP_MS.
+ * No clock runs and nothing else moves: it is still a quiet selection (DESIGN: "gallery swipes only re-frame quietly").
+ */
+export const ARRIVAL_SWEEP_MS = 900
+export const ARRIVAL_HOLD_MS = 2500
+/** The fresh-exposure band behind the arrival sweep's line, as a share of the image's side. */
+const ARRIVAL_FRESH = 0.07
+
+/**
+ * The arrival sweep `k` (0..1) of the way through, for an image of half-size `halfKm`: where its line stands along
+ * the pass's direction (radians from the place; the shader's uScanS) and how deep the fresh band behind it is
+ * (radians; uFreshRad). It starts before the image's first corner and ends with the band clear of its last, whatever
+ * the heading, eased at both ends so it neither jumps in nor stops dead.
+ */
+export function arrivalSweep(k: number, halfKm: number): { s: number; fresh: number } {
+  const fresh = (ARRIVAL_FRESH * 2 * halfKm) / EARTH_RADIUS_KM
+  const reach = (halfKm * Math.SQRT2) / EARTH_RADIUS_KM + fresh
+  const u = clamp(k, 0, 1)
+  return { s: -reach + 2 * reach * (u * u * (3 - 2 * u)), fresh }
+}
+
 /** Format a countdown to tc in sim time: "T−00:01:12" / "T+00:00:03". */
 export function fmtCountdown(simTime: number, tc: number): string {
   const d = Math.round((simTime - tc) / 1000)

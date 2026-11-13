@@ -18,8 +18,7 @@ import {
   scanAt,
   scanFrame,
   slowFactor,
-  slowWindowS,
-} from './acquisition'
+  slowWindowS, ARRIVAL_HOLD_MS, ARRIVAL_SWEEP_MS, arrivalSweep } from './acquisition'
 import { acquiredPose, chasePose, DIVE_TILT, freeRect, rangeForGroundKm } from './framing'
 import { pickBestLook } from '@/ui/results/lib/bestLook'
 
@@ -182,6 +181,39 @@ describe('decal and scan geometry', () => {
     // Without a place (a pass that is not a scan, or none known) the track decides, as before.
     scanFrame({ track, tClosest: TC, headingDeg: 180.7, geostationary: true }, p0, t0)
     expect(p0.distanceTo(latLonToWorld(4.8, -75.2, 1))).toBeLessThan(1e-6)
+  })
+
+  it('a quiet arrival sweeps the whole image, corner to corner, with its fresh band clear of both ends', () => {
+    // A daily mosaic's globe image: 600 km square around the place.
+    const half = 300
+    const fresh = (0.07 * 2 * half) / EARTH_RADIUS_KM
+    const corner = (half * Math.SQRT2) / EARTH_RADIUS_KM
+    const start = arrivalSweep(0, half)
+    const end = arrivalSweep(1, half)
+    // Before the first corner along any heading (nothing developed yet), and past the last by the band's depth.
+    expect(start.s).toBeLessThan(-corner)
+    expect(end.s - fresh).toBeGreaterThanOrEqual(corner - 1e-12)
+    expect(start.s).toBeCloseTo(-end.s, 12)
+    expect(start.fresh).toBeCloseTo(fresh, 12)
+    // On the place half way, moving the same way throughout, and eased at both ends (no jump in, no dead stop).
+    expect(arrivalSweep(0.5, half).s).toBeCloseTo(0, 12)
+    let prev = start.s
+    for (let k = 0.05; k <= 1.0001; k += 0.05) {
+      const s = arrivalSweep(k, half).s
+      expect(s).toBeGreaterThan(prev)
+      prev = s
+    }
+    const first = arrivalSweep(0.05, half).s - start.s
+    const middle = arrivalSweep(0.525, half).s - arrivalSweep(0.475, half).s
+    expect(first).toBeLessThan(middle / 5)
+    // Out of range it holds its ends, and a small image (a Sentinel-2 strip) gets a proportionally small sweep.
+    expect(arrivalSweep(-1, half).s).toBe(start.s)
+    expect(arrivalSweep(7, half).s).toBe(end.s)
+    expect(arrivalSweep(1, 40).s).toBeCloseTo((end.s * 40) / half, 12)
+    // About a second of development; the image before it is never kept for long.
+    expect(ARRIVAL_SWEEP_MS).toBeGreaterThanOrEqual(600)
+    expect(ARRIVAL_SWEEP_MS).toBeLessThanOrEqual(1200)
+    expect(ARRIVAL_HOLD_MS).toBeLessThanOrEqual(3000)
   })
 
   it('prefetches the cover the panel leads with: the most zoomed-in CLEAR capture, not the sharpest clouded one (R3-17)', () => {

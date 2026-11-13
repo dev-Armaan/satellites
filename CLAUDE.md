@@ -103,13 +103,16 @@
   (~2% of searches): Open-Meteo first (free tier ~10,000 requests a day), Photon if Open-Meteo is slow or empty;
   later rows only ever join below the offline ones. Pins far from a town ask Photon, then Nominatim.
 - Time-lapse (`src/imagery/timelapse.ts`, `src/ui/timelapse/`): the place's clear Sentinel-2 looks, one a year, as a
-  loop. Nothing of it loads or is asked until someone opens it (its own chunk; the row under
-  the photos, the viewer's button, or a `?tl=1` link), and every request goes from the browser to Planetary
-  Computer: keep both true. Frames need no alignment because every crop is on the place's grid, and they come from ONE
-  tile and orbit (two light searches: which geometry, then its scenes; all geometries at once overflow the archive's
-  1000-scene page over deserts). Its pictures stay out of the photo cache (they are released when it is dropped), and
-  no picture shows until all are in. Its events (`timelapse_open`, `timelapse_share`) are recorded only once 0022 is
-  applied.
+  loop. Nothing of it loads or is asked until someone opens it (its own chunk; the row under the photos, the viewer's
+  button, or a `?tl=1` link), and every request goes from the browser to Planetary Computer: keep both true. Frames
+  need no alignment because every crop is on the place's grid, and they come from ONE tile and orbit that covers the
+  whole square (two light searches: which geometry, then its scenes; all geometries at once overflow the archive's
+  1000-scene page over deserts). The years turn through the seasons (each aims for the next quarter of the calendar,
+  and falls back to any clear date; owner). Its pictures stay out of the photo cache (released when it is dropped);
+  the waiting screen develops a small one per year, the big picture shows only when all are in. `Video` renders the
+  loop to an MP4 in the browser (`video.ts`: WebCodecs + `mp4-muxer`, a chunk fetched on that press; H.264 first), in
+  two presses, because a share sheet or a download only opens inside a press. Its events (`timelapse_open`,
+  `timelapse_share`) are recorded only once 0022 is applied.
 - Back button: layers register with `src/lib/backStack.ts`. Never call `history.pushState` directly.
 - Share has three entry points, each tagged `from` in its events: the headline's second line (the week's summary;
   nothing is stored), the photo viewer, and the pass view (plus the laptop lead photo's icon). The sheet and the

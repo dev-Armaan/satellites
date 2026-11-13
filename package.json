@@ -32,6 +32,7 @@
     "gsap": "^3.15.1",
     "harfbuzzjs": "^0.10.0",
     "jpeg-js": "0.4.4",
+    "mp4-muxer": "5.2.2",
     "nanoid": "^6.0.2",
     "postprocessing": "^6.39.6",
     "react": "^19.3.1",

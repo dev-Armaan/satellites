@@ -3,7 +3,7 @@
  * `import.meta.env.DEV`, so production builds never contain it. Numbers are invented but shaped like the
  * real RPC output (see supabase/migrations/0004_events_admin.sql, admin_stats).
  */
-import type { AdminStats, Range } from './api'
+import type { AdminStats, LiveCounts, Range } from './api'
 
 function rng(seed: number) {
   let s = seed >>> 0
@@ -27,6 +27,13 @@ const PLACES: [string, string, string, number][] = [
   ['Lagos, Nigeria', 'ng', '6.5,3.4', 11],
   ['Reykjavík, Iceland', 'is', '64.1,-21.9', 9],
 ]
+
+/** What admin_live would say a few minutes after `stats` were computed. */
+export function mockLive(stats: AdminStats, now = Date.now()): LiveCounts | null {
+  if (stats.cachedAt == null) return null
+  const mins = Math.max(0, (now - stats.cachedAt) / 60e3)
+  return { range: stats.range, since: stats.cachedAt, at: now, search: Math.round(mins * 9), session: Math.round(mins * 7), share_action: Math.round(mins * 0.4) }
+}
 
 export function mockStats(range: Range, now = Date.now()): AdminStats {
   const r = rng(range.length * 7919 + 17)

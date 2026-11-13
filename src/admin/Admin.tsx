@@ -1,13 +1,16 @@
 /**
  * /admin: what people do in Watched, at a glance. Sign-in is a Supabase email magic link; the stats come from
  * the admin_stats RPC, which only answers for the admin's email (checked in the database).
+ * The stats are computed hourly. Sessions, searches and shares also add what was counted since (admin_live), read
+ * with every load and Refresh and every 30 s while the page is in view; the rest of the page waits for the hour, and
+ * the note under the totals says so.
  * DEV only: /admin?mock=1 renders a fixture without signing in (src/admin/fixture.ts).
  */
 import { useCallback, useEffect, useRef, useState, type FormEvent, type ReactNode } from 'react'
 import { Wordmark } from '@/ui/system/Wordmark'
-import { RANGES, currentSession, fetchStats, sendMagicLink, signOut, supabase, takeAuthError, verifyCode, type AdminStats, type Range } from './api'
+import { RANGES, currentSession, fetchLive, fetchStats, liveFor, sendMagicLink, signOut, supabase, takeAuthError, verifyCode, type AdminStats, type LiveCounts, type Range } from './api'
 import { ActivityChart, Funnel, RankList, Split, WorldMap } from './charts'
-import { ACTION_NAMES, DEVICE_NAMES, SOURCE_NAMES, VERDICT_NAMES, countryName, fmtAgo, fmtInt, fmtUpdated, fmtPct, fmtSec, fmtStamp, maintBehind } from './format'
+import { ACTION_NAMES, DEVICE_NAMES, SOURCE_NAMES, VERDICT_NAMES, countryName, fmtAgo, fmtClock, fmtInt, fmtUpdated, fmtPct, fmtSec, fmtStamp, maintBehind } from './format'
 
 type View =
   | { kind: 'loading' }
@@ -17,6 +20,8 @@ type View =
 
 const MOCK = import.meta.env.DEV ? new URLSearchParams(location.search).has('mock') : false
 const RANGE_KEY = 'watched-admin.range'
+/** How often the live counts are read while the page is in view. One small indexed read each. */
+const LIVE_EVERY_MS = 30e3
 /** A used or expired link comes back with an error in the URL: read once, before the auth client starts, and shown
  *  instead of a blank form. */
 const LINK_ERROR = takeAuthError() ?? undefined
@@ -35,6 +40,7 @@ export function Admin() {
   const [view, setView] = useState<View>({ kind: 'loading' })
   const [range, setRange] = useState<Range>(initialRange)
   const [stats, setStats] = useState<AdminStats | null>(null)
+  const [live, setLive] = useState<LiveCounts | null>(null)
   const [busy, setBusy] = useState(false)
   const [err, setErr] = useState<string | null>(null)
 
@@ -64,15 +70,18 @@ export function Admin() {
       setBusy(true)
       setErr(null)
       if (import.meta.env.DEV && MOCK) {
-        const { mockStats } = await import('./fixture')
+        const { mockLive, mockStats } = await import('./fixture')
         if (id !== latest.current) return
-        setStats(mockStats(r))
+        const s = mockStats(r)
+        setStats(s)
+        setLive(mockLive(s))
         setBusy(false)
         return
       }
-      const res = await fetchStats(r)
+      const [res, lv] = await Promise.all([fetchStats(r), fetchLive(r)])
       if (id !== latest.current) return
       setBusy(false)
+      if (lv !== undefined) setLive(lv)
       if (res.ok) setStats(res.stats)
       else if (res.denied) setView((v) => ({ kind: 'denied', email: v.kind === 'ready' ? v.email : undefined, message: res.message }))
       else setErr(res.message)
@@ -89,6 +98,32 @@ export function Admin() {
       /* per-viewer convenience only */
     }
   }, [view.kind, range, load])
+
+  // The live counts alone, every 30 s while the page is in view and when it comes back into view.
+  useEffect(() => {
+    if (view.kind !== 'ready' || (import.meta.env.DEV && MOCK)) return
+    const poll = async () => {
+      if (document.visibilityState !== 'visible') return
+      const id = latest.current
+      const lv = await fetchLive(range)
+      if (id === latest.current && lv !== undefined) setLive(lv) // a load that started meanwhile brings newer counts
+    }
+    const timer = setInterval(() => void poll(), LIVE_EVERY_MS)
+    document.addEventListener('visibilitychange', poll)
+    return () => {
+      clearInterval(timer)
+      document.removeEventListener('visibilitychange', poll)
+    }
+  }, [view.kind, range])
+
+  // Counts that continue newer stats than the page has: the hourly refresh has run. Load them, once for each.
+  const reloadedFor = useRef(0)
+  useEffect(() => {
+    if (!live || !stats || stats.cachedAt == null || live.range !== stats.range || live.since <= stats.cachedAt) return
+    if (reloadedFor.current === live.since) return
+    reloadedFor.current = live.since
+    void load(stats.range)
+  }, [live, stats, load])
 
   if (view.kind === 'loading') return <Shell />
   if (view.kind === 'signed-out')
@@ -143,7 +178,7 @@ export function Admin() {
         </p>
       )}
       {stats ? (
-        <Dashboard s={stats} busy={busy} onRefresh={() => void load(range)} />
+        <Dashboard s={stats} live={liveFor(stats, live)} busy={busy} onRefresh={() => void load(range)} />
       ) : (
         !err && <p className="a-empty a-pad">Loading…</p>
       )}
@@ -287,6 +322,9 @@ function Kpi({ label, value, sub, signal }: { label: string; value: string; sub?
   )
 }
 
+/** '1 share', '2,345 searches' */
+const count = (n: number, one: string, many: string): string => `${fmtInt(n)} ${n === 1 ? one : many}`
+
 /** The clock, re-read every `ms` so relative times ('updated 3 min ago') keep up while the page stays open. */
 function useNow(ms: number): number {
   const [now, setNow] = useState(Date.now)
@@ -301,14 +339,15 @@ function useNow(ms: number): number {
 
 const RANGE_WORDS: Record<Range, string> = { '24h': 'last 24 hours', '7d': 'last 7 days', '30d': 'last 30 days', all: 'all time' }
 
-function Dashboard({ s, busy, onRefresh }: { s: AdminStats; busy: boolean; onRefresh: () => void }) {
+/** `live`: what was counted since `s` was computed (already matched to it, liveFor), added to the three totals. */
+function Dashboard({ s, live, busy, onRefresh }: { s: AdminStats; live: LiveCounts | null; busy: boolean; onRefresh: () => void }) {
   const t = s.totals
   const f = s.funnel
-  const sessions = t.session ?? 0
-  const searches = t.search ?? 0
+  const sessions = (t.session ?? 0) + (live?.session ?? 0)
+  const searches = (t.search ?? 0) + (live?.search ?? 0)
   // Ratios and shares divide by what was recorded: an outage's rebuilt hours (0015) have counts but no breakdowns.
   const rec = s.recorded
-  const shares = t.share_action ?? 0
+  const shares = (t.share_action ?? 0) + (live?.share_action ?? 0)
   const conv = f.search ? (f.share_action ?? 0) / f.search : null
   const stages = [
     { key: 'search', label: 'Searched', n: f.search ?? 0 },
@@ -352,6 +391,13 @@ function Dashboard({ s, busy, onRefresh }: { s: AdminStats; busy: boolean; onRef
           <Kpi label="SHARES" value={fmtInt(shares)} sub={t.share_open ? `${fmtInt(t.share_open)} sheet opens` : undefined} signal />
           <Kpi label="SEARCH → SHARE" value={fmtPct(conv)} sub="of searching sessions" signal />
         </div>
+        {live && (
+          <p className="a-note">
+            Sessions, searches and shares are counted to {fmtClock(live.at)}: they include {count(live.session, 'session', 'sessions')},{' '}
+            {count(live.search, 'search', 'searches')} and {count(live.share_action, 'share', 'shares')} since the hourly update. Everything
+            else on this page, the lines under these three too, is as of that update.
+          </p>
+        )}
       </Section>
 
       <Section n={2} title={s.bucket === 'hour' ? 'ACTIVITY · HOURLY ET' : etDays ? 'ACTIVITY · DAILY ET' : 'ACTIVITY · DAILY (UTC DAYS)'}>

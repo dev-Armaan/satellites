@@ -45,6 +45,10 @@
 - Admin stats are precomputed hourly at :00 by pg_cron (`admin_stats_cache`, migration 0009; 0019), and the refresh
   skips itself while the rollups are behind. The page reads the stored row whatever its age and never recomputes
   (0021). Every 5 or 30 minutes over raw events overloaded the database twice (2026-11-11, 2026-11-12). Admin times are US Eastern, and so are its days (0016).
+- The admin page's sessions, searches and shares are the stored totals plus what was counted since (0023): `log_events`
+  adds each batch's searches, shares and tabs to the `event_rate` row it already writes, and `admin_live` sums them since
+  the stored stats' `computed_at` (read on every load, Refresh, and every 30 s). Another live number goes there too, as
+  one more counter column: never a read of `public.events`. The counters are kept 6 hours.
 - Raw events, tabs and lookups are kept 48 hours (0016). Every admin range reads rollups (0019): hourly ones
   (`roll_event_hour_dims`: `event_hour_dims`, `event_hour_dists`, `event_tab_days` so a tab counts once a day) and daily
   ones (`roll_event_day`: `event_days`, `event_dists`, `event_alltime*`), and raw events only for the hour or so not

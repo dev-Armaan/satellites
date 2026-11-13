@@ -15,9 +15,10 @@
  * chosen frames: prefetches and the context patch only through the texture upload gate (textures.ts canUpload:
  * nothing choreographed moving); the selected pass's image as soon as no camera flight is past its first few
  * percent and no UI entrance runs (store.motionBusyUntil), or at once while the replay stands still waiting for it
- * on arrival (it must be on the GPU before its scan line arrives). Patches fade in and out (never pop); a pass switch
- * fades the old image out before the new one comes in. Uploaded images stay cached (a few), so swiping back and
- * forth never re-fetches or re-uploads.
+ * on arrival (it must be on the GPU before its scan line arrives). Patches fade in and out (never pop). With no replay
+ * running (a gallery step), the image on the ground stays until the next one is ready, and that one develops over it
+ * in one sweep (acquisition.ts, "a quiet arrival"); a replay fades the old image out and paints the new one at its
+ * scan line. Uploaded images stay cached (a few), so swiping back and forth never re-fetches or re-uploads.
  */
 import { useFrame, useThree } from '@react-three/fiber'
 import { useEffect, useMemo } from 'react'
@@ -25,7 +26,7 @@ import { DataTexture, LinearFilter, LinearMipmapLinearFilter, RGBAFormat, SRGBCo
 import { gibsWmsUrl } from '@/imagery'
 import { EARTH_RADIUS_KM } from '@/lib/geo'
 import { selectSelectedPass, useApp } from '@/state/store'
-import { captureOf, coverPass, decalLitFor, decalSpecFor, decalUrl } from './acquisition'
+import { ARRIVAL_HOLD_MS, ARRIVAL_SWEEP_MS, arrivalSweep, captureOf, coverPass, decalLitFor, decalSpecFor, decalUrl } from './acquisition'
 import { kmPerTexel } from './framing'
 import { panelHalfKm, panelPhotoUrl, panelTurn, patchUv } from './panel'
 import { FRAME, useRuntime, type GlobeRuntime } from './runtime'
@@ -220,6 +221,10 @@ export function Imagery() {
       decal: null as Entry | null, // bound decal (slot A, on top)
       prev: null as Entry | null, // the previous one (slot B), held under A while A fades in
       wantDecal: null as Entry | null,
+      // A quiet arrival (acquisition.ts): when the bound image's sweep began, and since when the one before it has
+      // been held for an image still on its way (−1: not held).
+      sweepAt: -Infinity,
+      heldSince: -1,
       prefetch: null as Entry | null,
       prefetchKey: '',
       // The cover pass of the last final report seen (computed once per report, not per frame).
@@ -345,10 +350,12 @@ export function Imagery() {
     }
     acq.decalReady = !!want && want.state === 'ready'
 
-    // Crossfade between passes: the bound image moves to slot B (fully developed, underneath) and the new one fades
+    // Crossfade between passes: the bound image moves to slot B (fully developed, underneath) and the new one comes
     // in on top; B leaves once A is in. With nothing to show, A fades out.
     const target = want && want.state === 'ready' ? want : null
     const step = (ms: number) => (rt.reducedMotion ? 1 : (dt * 1000) / ms)
+    // No replay is running or armed: the selection is a quiet one (a gallery step, a scrub, a parked link).
+    const quietNow = !acq.armed && st.timeMode !== 'replay'
     if (target && state.decal !== target) {
       if (state.decal && p.uDecalOn.value > 0.02) {
         state.prev = state.decal
@@ -359,16 +366,30 @@ export function Imagery() {
       }
       state.decal = target
       p.uDecalLit.value = decalLitFor(target.url)
-      p.uDecalOn.value = 0
+      // A quiet arrival develops in under its own sweep, at full weight; in a replay the scan line develops it.
+      const sweep = quietNow && !rt.reducedMotion
+      state.sweepAt = sweep ? now : -Infinity
+      p.uDecalOn.value = sweep ? 1 : 0
       p.uDecalMap.value = target.tex!
       p.uDecalUv.value.copy(target.uv)
       p.uPanelHalf.value = target.panelHalf
       p.uPanelTurn.value.set(target.panelTurn[0], target.panelTurn[1])
     }
+    // A replay that starts mid-sweep takes the image over: its scan line develops it from here.
+    if (!quietNow) state.sweepAt = -Infinity
+    const sweepK = target && target === state.decal ? (now - state.sweepAt) / ARRIVAL_SWEEP_MS : 1
+    const sweeping = sweepK < 1
+    // The image on the ground waits for a quiet selection's image that is still on its way (never for long).
+    const coming = !!want && want.state !== 'ready' && want.state !== 'error'
+    if (!target && coming && quietNow && state.decal) {
+      if (state.heldSince < 0) state.heldSince = now
+    } else state.heldSince = -1
+    const held = state.heldSince >= 0 && now - state.heldSince < ARRIVAL_HOLD_MS
     if (target) {
       p.uDecalOn.value = Math.min(1, p.uDecalOn.value + step(DECAL_FADE_IN))
-      if (p.uDecalOn.value >= 1 && p.uDecal2On.value > 0) p.uDecal2On.value = Math.max(0, p.uDecal2On.value - step(DECAL_FADE_OUT))
-    } else {
+      // The image underneath leaves once this one is in: after its sweep has crossed it, on a quiet arrival.
+      if (p.uDecalOn.value >= 1 && !sweeping && p.uDecal2On.value > 0) p.uDecal2On.value = Math.max(0, p.uDecal2On.value - step(DECAL_FADE_OUT))
+    } else if (!held) {
       p.uDecalOn.value = Math.max(0, p.uDecalOn.value - step(DECAL_FADE_OUT))
       p.uDecal2On.value = Math.max(0, p.uDecal2On.value - step(DECAL_FADE_OUT))
       if (p.uDecalOn.value <= 0) {
@@ -387,9 +408,17 @@ export function Imagery() {
 
     // Scan line and development.
     p.uScanT0.value.copy(acq.t0)
-    p.uScanS.value = acq.scanS
-    p.uFull.value = acq.full
-    p.uFreshRad.value = Math.max(FRESH_MIN_KM, FRESH_S * acq.speedKmS * acq.rate) / EARTH_RADIUS_KM
+    if (sweeping && acq.halfKm > 0) {
+      // A quiet arrival: the image develops under a line of its own, along the pass's direction (the clock is parked).
+      const a = arrivalSweep(sweepK, acq.halfKm)
+      p.uScanS.value = a.s
+      p.uFull.value = 0
+      p.uFreshRad.value = a.fresh
+    } else {
+      p.uScanS.value = acq.scanS
+      p.uFull.value = acq.full
+      p.uFreshRad.value = Math.max(FRESH_MIN_KM, FRESH_S * acq.speedKmS * acq.rate) / EARTH_RADIUS_KM
+    }
     // The global weather layer steps aside for the close views (its texels would be blobs there).
     const altR = rt.camera.altitudeKm / EARTH_RADIUS_KM
     const x = Math.min(1, Math.max(0, (altR - 0.05) / 0.13))

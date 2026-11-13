@@ -534,6 +534,12 @@
   top: 21px;
   color: var(--bone);
 }
+/* A year with no room under the line sits over its tick. */
+.tickLabelUp,
+.tickOn .tickLabelUp {
+  top: auto;
+  bottom: calc(100% + 4px);
+}
 .ends {
   display: flex;
   justify-content: space-between;

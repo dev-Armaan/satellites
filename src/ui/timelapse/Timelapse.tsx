@@ -454,17 +454,21 @@ function Scrubber({ run, i, onJump, onScrub }: { run: RunState; i: number; onJum
     return best
   }
 
-  // Years get their two digits under each tick while there is room for them. The frames turn through the seasons, so
-  // two can sit a few weeks apart across New Year: a label too close to the one before it gives way (the frame on
-  // view always keeps its own).
+  // Years get their two digits under each tick. The frames turn through the seasons, so two can sit a few weeks
+  // apart across New Year: a year that would run into the one before it goes above the line instead (owner,
+  // 2026-11-13: never left out), and only one that fits on neither side is dropped.
   const labelled = ticks.length <= 14
-  const shown = new Set<number>()
-  let last = -1
+  const side = new Map<number, 'below' | 'above'>()
+  let below = -1
+  let above = -1
   ticks.forEach((tk, k) => {
     const at = pos(tk.t)
-    if (last < 0 || at - last >= MIN_LABEL_GAP) {
-      shown.add(k)
-      last = at
+    if (below < 0 || at - below >= MIN_LABEL_GAP) {
+      side.set(k, 'below')
+      below = at
+    } else if (above < 0 || at - above >= MIN_LABEL_GAP) {
+      side.set(k, 'above')
+      above = at
     }
   })
   return (
@@ -500,7 +504,7 @@ function Scrubber({ run, i, onJump, onScrub }: { run: RunState; i: number; onJum
         <span className={s.rail} />
         {ticks.map((tk, k) => (
           <span key={tk.key} className={cx(s.tick, tk.lit && s.tickLit, live && k === i && s.tickOn)} style={{ left: `${pos(tk.t) * 100}%` }}>
-            {labelled && (shown.has(k) || (live && k === i)) && !(live && k !== i && Math.abs(pos(tk.t) - pos(ticks[i].t)) < MIN_LABEL_GAP) ? <span className={s.tickLabel}>{tk.date.slice(2, 4)}</span> : null}
+            {labelled && side.has(k) ? <span className={cx(s.tickLabel, side.get(k) === 'above' && s.tickLabelUp)}>{tk.date.slice(2, 4)}</span> : null}
           </span>
         ))}
       </div>

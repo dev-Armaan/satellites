@@ -78,7 +78,7 @@ names.
 2. Set the env vars above for **Production**.
    - Preview deployments share whatever database you give them.
    - `api/e` (the event relay) only writes when `VERCEL_ENV` is `production`.
-3. Optional: enable Vercel Web Analytics. The app loads it in production builds; without it, nothing is sent.
+3. The app loads no analytics script of its own. Vercel Web Analytics would need `@vercel/analytics` added back.
 
 ### Usage telemetry
 

@@ -1,5 +1,6 @@
 /**
- * The admin page's data: Supabase Auth (email magic link) and the `admin_stats` RPC.
+ * The admin page's data: Supabase Auth (email magic link), the `admin_stats` RPC (stats computed hourly and stored)
+ * and `admin_live` (what was counted since: sessions, searches and shares only, cheap enough to ask for at any time).
  * supabase-js lives only in this chunk (the app talks to PostgREST with fetch, src/lib/backend.ts).
  *
  * The page is not the security boundary: admin_stats checks the signed-in email against a private
@@ -29,11 +30,11 @@ export interface AdminStats {
   dimTotals: Record<string, number>
   /** Distinct tabs (per day, summed) that reached each stage */
   funnel: Record<string, number>
-  /** [bucket start ms, searches, shares, sessions, time-lapse opens (0 from a database before 0023)] */
+  /** [bucket start ms, searches, shares, sessions, time-lapse opens (0 from a database before 0024)] */
   series: [number, number, number, number, number][]
   /** 'search.label', 'search.country', 'search.source', 'search.cell', 'session.device', 'session.country',
    *  'session.ref', 'session.utm', 'pass_open.sat', 'pass_open.verdict', 'share_action.sat', 'share_action.action',
-   *  'timelapse_open.from', 'timelapse_share.action' (0023) */
+   *  'timelapse_open.from', 'timelapse_share.action' (0024) */
   top: Record<string, Ranked>
   results: { n: number; p50Ms: number | null; p90Ms: number | null; partial: number; archiveFailed: number }
   vitals: { n: number; lcp: number | null; inp: number | null; cls: number | null }
@@ -103,6 +104,22 @@ export async function signOut(): Promise<void> {
   await supabase()?.auth.signOut()
 }
 
+/**
+ * Sessions, searches and shares counted as their events arrived, since the stored stats of `range` were computed
+ * (admin_live, 0023), under the totals' keys. The stats cost seconds of database work, so they are computed hourly;
+ * these come from counters and cost the same at any traffic.
+ */
+export interface LiveCounts {
+  range: Range
+  /** The stored stats these continue: their cachedAt, ms */
+  since: number
+  /** When they were read, ms (the database's clock) */
+  at: number
+  search: number
+  session: number
+  share_action: number
+}
+
 export type StatsResult = { ok: true; stats: AdminStats } | { ok: false; denied: boolean; message: string }
 
 export async function fetchStats(range: Range): Promise<StatsResult> {
@@ -115,6 +132,19 @@ export async function fetchStats(range: Range): Promise<StatsResult> {
   if (error) return { ok: false, denied: error.code === '42501' || /not allowed|permission/i.test(error.message), message: error.message }
   const stats = parseStats(data)
   return stats ? { ok: true, stats } : { ok: false, denied: false, message: 'Unexpected response.' }
+}
+
+/**
+ * The live counts for a range. Null when the database has none to give: its counters do not cover the whole time since
+ * the stored stats (the first hour after 0023, or stats over 5 hours old), or it is from before 0023. Undefined when
+ * the request failed: the page keeps what it has.
+ */
+export async function fetchLive(range: Range): Promise<LiveCounts | null | undefined> {
+  const sb = supabase()
+  if (!sb) return null
+  const { data, error } = await sb.rpc('admin_live', { p_range: range })
+  if (error) return error.code === 'PGRST202' || error.code === '42883' ? null : undefined // no such function: before 0023
+  return parseLive(data)
 }
 
 /** Postgres query_canceled: the authenticated role's statement_timeout (exported for tests). */
@@ -156,4 +186,21 @@ export function parseStats(v: unknown): AdminStats | null {
     cachedAt: numOrNull(v.cachedAt),
     recentErrors: Array.isArray(v.recentErrors) ? (v.recentErrors.filter(isObj) as AdminStats['recentErrors']) : [],
   }
+}
+
+/** Defensive parse of admin_live's JSON (exported for tests): null unless it carries all three counts. */
+export function parseLive(v: unknown): LiveCounts | null {
+  if (!isObj(v) || !RANGES.includes(v.range as Range)) return null
+  const n = (k: string): number | null => (typeof v[k] === 'number' && Number.isFinite(v[k]) && (v[k] as number) >= 0 ? (v[k] as number) : null)
+  const [since, at, search, session, share] = [n('since'), n('at'), n('search'), n('session'), n('share_action')]
+  if (since == null || at == null || search == null || session == null || share == null) return null
+  return { range: v.range as Range, since, at, search, session, share_action: share }
+}
+
+/**
+ * The live counts, if they continue exactly these stats: the same range, counted from the moment these were computed.
+ * Anything else (the hourly refresh landed in between, another range's answer) would count events twice or not at all.
+ */
+export function liveFor(stats: Pick<AdminStats, 'range' | 'cachedAt'>, live: LiveCounts | null): LiveCounts | null {
+  return live && live.range === stats.range && stats.cachedAt != null && live.since === stats.cachedAt ? live : null
 }

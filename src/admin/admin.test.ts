@@ -1,8 +1,8 @@
 import { describe, expect, it } from 'vitest'
 import { searchSource } from '@/app/telemetry'
 import type { Place } from '@/types'
-import { isTimeout, parseStats, RANGES } from './api'
-import { mockStats } from './fixture'
+import { isTimeout, liveFor, parseLive, parseStats, RANGES } from './api'
+import { mockLive, mockStats } from './fixture'
 import { fmtBucket, fmtPct, niceMax, SOURCE_NAMES } from './format'
 import { dotRadius, GRID_STEP, legendCounts, placeGrid } from './placeGrid'
 
@@ -95,7 +95,7 @@ describe('recorded counts (0015)', () => {
   })
 })
 
-describe('the time-lapse in the stats (0023)', () => {
+describe('the time-lapse in the stats (0024)', () => {
   it('reads a fifth number from each point of the series, and 0 from a database before it', () => {
     const s = parseStats({ range: '24h', series: [[1, 10, 2, 8, 3], [2, 5, 0, 4]] })!
     expect(s.series).toEqual([[1, 10, 2, 8, 3], [2, 5, 0, 4, 0]])
@@ -126,6 +126,40 @@ describe('cached stats', () => {
     expect(fmtUpdated(now - 20e3, now)).toBe('UPDATED JUST NOW')
     expect(fmtUpdated(now - 4 * 60e3, now)).toBe('UPDATED 4 MIN AGO')
     expect(fmtUpdated(now - 16 * 60e3, now)).toBe('UPDATED 16 MIN AGO')
+  })
+})
+
+describe('live counts (0023)', () => {
+  const now = Date.UTC(2026, 10, 13, 8, 30)
+  const answer = { range: '7d', since: now - 30 * 60e3, at: now, search: 35, share_action: 4, session: 17 }
+  it('parses the counts, and none when the database gives none', () => {
+    expect(parseLive(answer)).toEqual(answer)
+    // counters that do not cover the whole time since the stored stats: since and at, no counts
+    expect(parseLive({ range: '7d', since: now - 6 * 3600e3, at: now })).toBeNull()
+    expect(parseLive({ range: '24h', since: null, at: now })).toBeNull()
+    expect(parseLive({ ...answer, search: '35' })).toBeNull()
+    expect(parseLive({ ...answer, session: -1 })).toBeNull()
+    expect(parseLive({ ...answer, range: 'forever' })).toBeNull()
+    expect(parseLive(null)).toBeNull()
+  })
+  it('adds them only to the stats they continue', () => {
+    const live = parseLive(answer)!
+    expect(liveFor({ range: '7d', cachedAt: answer.since }, live)).toBe(live)
+    // the hourly refresh landed between the two answers: these counts start an hour too late, or too early
+    expect(liveFor({ range: '7d', cachedAt: answer.since - 3600e3 }, live)).toBeNull()
+    expect(liveFor({ range: '7d', cachedAt: answer.since + 3600e3 }, live)).toBeNull()
+    expect(liveFor({ range: '30d', cachedAt: answer.since }, live)).toBeNull()
+    expect(liveFor({ range: '7d', cachedAt: null }, live)).toBeNull()
+    expect(liveFor({ range: '7d', cachedAt: answer.since }, null)).toBeNull()
+  })
+  it('the fixture continues its own stats', () => {
+    const s = mockStats('7d', now)
+    expect(liveFor(s, mockLive(s, now))?.search).toBeGreaterThan(0)
+  })
+  it('shows the moment they were read, to the second, on the admin clock', async () => {
+    const { fmtClock } = await import('./format')
+    expect(fmtClock(Date.UTC(2026, 10, 13, 8, 30, 7))).toBe('03:30:07 EST')
+    expect(fmtClock(Date.UTC(2026, 6, 1, 4, 0, 59))).toBe('00:00:59 EDT')
   })
 })
 

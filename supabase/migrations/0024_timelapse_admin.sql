@@ -1,4 +1,4 @@
--- 0023: the time-lapse on the admin page: opens over time (the activity chart's fourth series), and two breakdowns.
+-- 0024: the time-lapse on the admin page: opens over time (the activity chart's fourth series), and two breakdowns.
 --
 -- The time-lapse's events (0022) were counted in the totals from the start (every rollup counts every type), but the
 -- admin page could not chart them or say where they were opened from, or how they were shared:

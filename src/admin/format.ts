@@ -107,6 +107,12 @@ export const DEVICE_NAMES: Record<string, string> = { desktop: 'Desktop', phone:
 
 export const VERDICT_NAMES: Record<string, string> = { imaged: 'Watched', likely: 'Likely watched', could: 'Could have pointed here', overhead: 'Passed overhead' }
 
+const ET_CLOCK = new Intl.DateTimeFormat('en-US', { timeZone: ADMIN_TZ, hour: '2-digit', minute: '2-digit', second: '2-digit', hourCycle: 'h23' })
+/** "14:03:27 EST": a moment to the second on the admin clock, for counts that change by the minute. */
+export function fmtClock(t: number): string {
+  return `${ET_CLOCK.format(new Date(t))} ${etZone(t)}`
+}
+
 /** How old the cached stats are: 'UPDATED JUST NOW' under a minute, else 'UPDATED 3 MIN AGO' (fmtAgo). */
 export function fmtUpdated(cachedAt: number, now = Date.now()): string {
   return now - cachedAt < 60e3 ? 'UPDATED JUST NOW' : `UPDATED ${fmtAgo(cachedAt, now)}`

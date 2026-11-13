@@ -193,7 +193,7 @@ describe('published time domains', () => {
 })
 
 describe('weather candidates', () => {
-  it('keeps daytime, in-swath passes of GIBS-served imagers, one per layer per UTC day', () => {
+  it('keeps daytime, in-swath passes of GIBS-served imagers, one per layer per mosaic day', () => {
     const passes = [
       pass({ id: 'a', norad: 43013, groundDistanceKm: 400 }),
       pass({ id: 'b', norad: 43013, groundDistanceKm: 90, tClosest: Date.parse('2026-11-07T19:58:00Z') }), // same day, nearer nadir
@@ -222,6 +222,25 @@ describe('weather candidates', () => {
     expect(crop.get('TIME')).toBe('2026-11-07')
     expect(crop.get('WIDTH')).toBe('640')
     expect(n20.sourceUrl).toContain('worldview.earthdata.nasa.gov')
+  })
+
+  it('dates a mosaic by the day on the ground, not the UTC day of the pass', () => {
+    // Terra over Tokyo late on the 12th (UTC) is the morning of the 13th there: NASA files it under the 13th.
+    const terra = weatherCandidates(TOKYO, [pass({ norad: 25994, tClosest: Date.parse('2026-11-12T23:27:00Z') })])[0]
+    expect(terra.itemId).toBe('MODIS_Terra_CorrectedReflectance_TrueColor@2026-11-13')
+    expect(new URL(terra.cropUrl({ halfSizeKm: 100, px: 640 })).searchParams.get('TIME')).toBe('2026-11-13')
+    expect(terra.sourceUrl).toContain('2026-11-13')
+    // NOAA-20 over Honolulu just after midnight UTC on the 12th is the afternoon of the 11th there.
+    const honolulu = { lat: 21.3069, lon: -157.8583 }
+    const n20 = weatherCandidates(honolulu, [pass({ tClosest: Date.parse('2026-11-12T00:17:00Z') })])[0]
+    expect(n20.itemId).toBe('VIIRS_NOAA20_CorrectedReflectance_TrueColor@2026-11-11')
+    // Two passes either side of midnight UTC on one afternoon there are one mosaic, not two.
+    const two = weatherCandidates(honolulu, [
+      pass({ id: 'a', tClosest: Date.parse('2026-11-11T23:20:00Z'), groundDistanceKm: 900 }),
+      pass({ id: 'b', tClosest: Date.parse('2026-11-12T01:00:00Z'), groundDistanceKm: 300 }),
+    ])
+    expect(two.map((c) => c.itemId)).toEqual(['VIIRS_NOAA20_CorrectedReflectance_TrueColor@2026-11-11'])
+    expect(two[0].datetime).toBe(Date.parse('2026-11-12T01:00:00Z'))
   })
 })
 

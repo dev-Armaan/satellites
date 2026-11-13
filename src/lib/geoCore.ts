@@ -97,5 +97,16 @@ export function bboxAround(lat: number, lon: number, halfKm: number): [number, n
   return [lon - dLon, lat - dLat, lon + dLon, lat + dLat]
 }
 
+/**
+ * The date ("YYYY-MM-DD") a daily mosaic files a daytime look at longitude `lon` under. NASA's daily layers start
+ * each day at the antimeridian and fill westward with the daylight, so a mosaic's day is the local solar date on
+ * the ground, not the UTC date of the pass: Terra over Tokyo at 23:27Z on the 12th is in the mosaic of the 13th,
+ * and NOAA-20 over Honolulu at 00:17Z on the 12th is in the mosaic of the 11th (checked against GIBS, 2026-11-13).
+ * Daytime passes are hours from local midnight, so mean solar time is exact enough.
+ */
+export function mosaicDate(ms: number, lon: number): string {
+  return new Date(ms + (lon / 15) * 3_600_000).toISOString().slice(0, 10)
+}
+
 export const clamp = (x: number, a: number, b: number) => Math.min(b, Math.max(a, x))
 export const lerp = (a: number, b: number, t: number) => a + (b - a) * t

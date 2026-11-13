@@ -16,7 +16,7 @@
  *    between real and black (every response is a CDN miss with `no-store`); from ~75 min old they
  *    were stable. Hence the 70-minute hold-back, on top of the published list.
  */
-import { sunElevationDeg } from '@/lib/geo'
+import { mosaicDate, sunElevationDeg } from '@/lib/geo'
 import type { Capture, CaptureCollection, LatLon, Pass } from '@/types'
 import { gibsDomainsUrl, gibsWmsUrl, worldviewUrl, type CropOpts } from './endpoints'
 import { gibsProbeTileUrl } from './gibsTiles'
@@ -90,7 +90,7 @@ export function isGibsCollection(c: string): c is GibsCollection {
 
 const pad = (n: number) => String(n).padStart(2, '0')
 
-/** "YYYY-MM-DD" of an instant, in UTC (GIBS daily layers are UTC days). */
+/** "YYYY-MM-DD" of an instant, in UTC. A daily mosaic's date is `mosaicDate` (the day on the ground), not this. */
 export function utcDate(ms: number): string {
   const d = new Date(ms)
   return `${d.getUTCFullYear()}-${pad(d.getUTCMonth() + 1)}-${pad(d.getUTCDate())}`
@@ -213,9 +213,9 @@ function snapToKnownFrame(collection: GibsCollection, t: number, now: number): n
   return known.frames.find((f) => f <= t) ?? t
 }
 
-/** WMS TIME value for a collection: a UTC date for daily mosaics, an ISO instant for frames. */
-export function gibsTime(collection: GibsCollection, ms: number, now = Date.now()): string {
-  if (GIBS_LAYERS[collection].kind === 'daily') return utcDate(ms)
+/** WMS TIME value for a collection: the mosaic's date at `lon` for daily mosaics, an ISO instant for frames. */
+export function gibsTime(collection: GibsCollection, ms: number, now = Date.now(), lon = 0): string {
+  if (GIBS_LAYERS[collection].kind === 'daily') return mosaicDate(ms, lon)
   return isoSeconds(snapToKnownFrame(collection, geoFrameTime(ms, now), now))
 }
 
@@ -223,12 +223,12 @@ export function gibsTime(collection: GibsCollection, ms: number, now = Date.now(
  * A square GIBS image centred on `place` at instant `ms`. For GOES-East/West and Himawari this is
  * the 10-minute frame at (or just before) `ms`, held back 70 min from now, and, once
  * `geoFrames`/`latestGeoImage` has fetched the layer's published frame list, snapped to a frame
- * that is actually listed (gaps skipped). For the daily layers, that UTC day's mosaic.
+ * that is actually listed (gaps skipped). For the daily layers, the mosaic of that day at the place.
  * Synchronous and unverified: prefer `latestGeoImage` for "the newest frame".
  */
 export function geoImageUrl(collection: CaptureCollection, place: LatLon, ms: number, opts: CropOpts): string {
   if (!isGibsCollection(collection)) throw new TypeError(`${collection} is not served by NASA GIBS`)
-  return gibsWmsUrl(GIBS_LAYERS[collection].layer, gibsTime(collection, ms), place, opts)
+  return gibsWmsUrl(GIBS_LAYERS[collection].layer, gibsTime(collection, ms, Date.now(), place.lon), place, opts)
 }
 
 // ── Pixel probe ────────────────────────────────────────────────────────────────────────────
@@ -259,22 +259,22 @@ export function dailyProbeUrl(layer: string, date: string, place: LatLon): strin
 /** Minimum sun elevation at the place for a true-colour daily mosaic to be worth showing. */
 export const MIN_SUN_ELEVATION_DEG = 5
 
-/** Pure part of `weatherCaptures`: which passes qualify, one per (layer, UTC day), as Captures. */
+/** Pure part of `weatherCaptures`: which passes qualify, one per (layer, mosaic day at the place), as Captures. */
 export function weatherCandidates(place: LatLon, passes: readonly Pass[]): Capture[] {
   const best = new Map<string, Pass>()
   for (const p of passes) {
     const collection = GIBS_DAILY_BY_NORAD[p.norad]
     if (!collection || !p.inSwath || !(p.sunElevationDeg >= MIN_SUN_ELEVATION_DEG)) continue
-    // A daily mosaic is one image per UTC day: keep the pass closest to nadir (the one most
-    // likely to have been used for that pixel), so two daytime passes don't produce two copies.
-    const key = `${collection}@${utcDate(p.tClosest)}`
+    // A daily mosaic is one image per day on the ground (mosaicDate): keep the pass closest to nadir (the one
+    // most likely to have been used for that pixel), so two daytime passes don't produce two copies.
+    const key = `${collection}@${mosaicDate(p.tClosest, place.lon)}`
     const prev = best.get(key)
     if (!prev || p.groundDistanceKm < prev.groundDistanceKm) best.set(key, p)
   }
   const out: Capture[] = []
   for (const p of best.values()) {
     const info = GIBS_LAYERS[GIBS_DAILY_BY_NORAD[p.norad]]
-    const date = utcDate(p.tClosest)
+    const date = mosaicDate(p.tClosest, place.lon)
     const itemId = `${info.layer}@${date}`
     out.push({
       id: itemId,

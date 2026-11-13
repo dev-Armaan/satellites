@@ -64,7 +64,8 @@
 .filter {
   display: inline-flex;
   border: 1px solid var(--line-strong);
-  min-width: 0;
+  /* Never narrower than its segments: squeezed, the last one's word left its box (the bar's rules below make room). */
+  flex: none;
 }
 .seg {
   height: 26px;
@@ -162,20 +163,35 @@
   .bar {
     gap: 8px;
   }
+  /* Four segments (with Radar) beside the longest counter ("33 this week") need 408 px at the 6 px padding this
+     had; the laptop dock gives 382 and 350. Measured 2026-11-13 at Abidjan: "Radar" ran out of its box and under
+     the counter at every desktop width. */
   .seg {
-    padding: 0 6px;
+    padding: 0 4px;
   }
   .nav {
     gap: 2px;
+  }
+  .navBtn {
+    width: 28px;
   }
   .counter {
     margin-right: 2px;
   }
 }
 @container gallery (max-width: 360px) {
+  .bar {
+    gap: 6px;
+  }
+  .seg {
+    padding: 0 3px;
+  }
   .seg,
   .counter {
-    letter-spacing: 0.04em;
+    letter-spacing: 0.02em;
+  }
+  .navBtn {
+    width: 26px;
   }
 }
 /* The short-landscape dock's half column (263 px): the words stay inside their segments (PH-14). */

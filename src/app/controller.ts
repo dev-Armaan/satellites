@@ -24,6 +24,7 @@
  *  - The submit and handoff frames carry only what they must (R2K3): the address bar and the lookup count
  *    are written in idle time, and the results model is built in idle time before the report lands.
  */
+import { timelapseParam, useTimelapseUi } from '@/state/timelapse'
 import { useApp } from '@/state/store'
 import type { Capture, Place, ProgressEvent, Report } from '@/types'
 import type { EngineReport } from '@/engine/report'
@@ -129,6 +130,8 @@ export async function boot() {
   const bootStart = performance.now()
   mark('boot')
   const target = readUrlTarget(location.search)
+  // A place link that carries `tl` opens the time-lapse over its results (ui/results/TimelapseEntry.tsx).
+  if (target?.kind === 'q') useTimelapseUi.getState().request(timelapseParam(location.search))
   // Everything that can overlap does: the share lookup, the catalog, the globe's first light, the fonts.
   const shareP: Promise<Share | null> | null = target?.kind === 'share' ? getShare(target.id).catch(() => null) : null
   let shareSettled = false

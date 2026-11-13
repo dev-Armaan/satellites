@@ -56,6 +56,14 @@
 .counterLead.warn {
   color: var(--warn);
 }
+/* The time-lapse's way in: on the right, before the zoom control (laptops) or the close button (phones). */
+.lapse {
+  flex: none;
+  margin-left: auto;
+}
+.lapse + .zoomCtl {
+  margin-left: 0;
+}
 .zoomCtl {
   display: inline-flex;
   align-items: center;

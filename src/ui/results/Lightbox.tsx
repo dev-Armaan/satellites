@@ -30,8 +30,10 @@ import { PushbroomReveal } from './PushbroomReveal'
 import { Reticle } from './Reticle'
 import { coordsOf, seenKeyOf } from './PhotoFrame'
 import { selectQuietly } from './actions'
+import { hasTimelapse, loadTimelapse } from './TimelapseEntry'
 import { useBackLayer } from '@/lib/backStack'
 import { useApp } from '@/state/store'
+import { useTimelapseUi } from '@/state/timelapse'
 import { coverPinKey, pinnedOrder, useGallery } from './gallery'
 import { decodedPhoto, hasPhotoElement, loadPhoto } from './images'
 import { Img } from './Img'
@@ -42,6 +44,8 @@ import { fmtLocalDay, fmtLocalTime, zoneAbbr } from './lib/time'
 import type { ResultsModel } from './model'
 import { wasSeen } from './once'
 import s from './Lightbox.module.css'
+
+const warmTimelapse = () => void loadTimelapse().catch(() => undefined)
 
 const MAX_ZOOM = 6
 const DOUBLE_ZOOM = 2.5
@@ -608,6 +612,8 @@ function Viewer({ id, model, mobile, startKey, from, onReplay, onShare, covered 
     if (el) chromeRef.current[i] = el
   }
 
+  // The place's time-lapse, from the viewer's bar: where people are already looking at its photos.
+  const timelapse = hasTimelapse(model)
   return (
     <div ref={rootRef} className={cx(s.root, mobile && s.mobile, closing && s.closing)} role="dialog" aria-modal="true" aria-label="Photos" tabIndex={-1}>
       <div ref={scrimRef} className={s.scrim} onClick={close} />
@@ -620,6 +626,11 @@ function Viewer({ id, model, mobile, startKey, from, onReplay, onShare, covered 
             {spoken}
           </span>
         </span>
+        {timelapse ? (
+          <Button size="sm" className={s.lapse} onClick={() => useTimelapseUi.getState().show('viewer')} onPointerEnter={warmTimelapse} onPointerDown={warmTimelapse} aria-label="Time-lapse of this place, year by year">
+            Time-lapse
+          </Button>
+        ) : null}
         {!mobile ? (
           <span className={s.zoomCtl}>
             <button type="button" className={s.ctl} onClick={() => tweenZoom(z.current.s / 1.6)} aria-label="Zoom out" title="Zoom out (−)">

@@ -1,0 +1,74 @@
+/* The results' way into the time-lapse (TimelapseEntry.tsx): one hairline row under the photos. */
+.row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  min-height: 44px;
+  padding: 9px 12px;
+  border: 1px solid var(--line-strong);
+  text-align: left;
+  color: var(--bone-2);
+  transition:
+    border-color var(--d-hover) var(--ease-out),
+    background-color var(--d-hover) var(--ease-out);
+}
+@media (hover: hover) {
+  .row:hover {
+    border-color: var(--bone-3);
+  }
+  .row:hover .arrow {
+    color: var(--signal);
+    transform: translateX(2px);
+  }
+}
+.row:active {
+  background: var(--ink-3);
+  transition-duration: 0ms;
+}
+.row:focus-visible {
+  outline: 1px solid var(--signal);
+  outline-offset: 2px;
+}
+/* Five frames of a strip, the last one lit: what the row opens. */
+.mark {
+  flex: none;
+  display: inline-flex;
+  gap: 2px;
+}
+.mark i {
+  width: 5px;
+  height: 14px;
+  border: 1px solid var(--bone-3-mark);
+}
+.mark i:last-child {
+  border-color: var(--signal);
+  background: var(--signal);
+}
+.text {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 2px 10px;
+}
+.title {
+  font-family: var(--font-mono);
+  font-stretch: 87.5%;
+  font-size: var(--fs-label);
+  letter-spacing: var(--track-label);
+  text-transform: uppercase;
+  color: var(--bone);
+}
+.sub {
+  font-size: var(--fs-small);
+  color: var(--bone-2);
+}
+.arrow {
+  flex: none;
+  color: var(--bone-3);
+  transition:
+    color var(--d-hover) var(--ease-out),
+    transform var(--d-hover) var(--ease-out);
+}

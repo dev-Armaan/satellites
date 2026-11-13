@@ -25,6 +25,7 @@ import { SHORT_LANDSCAPE_QUERY } from '@/lib/layout'
 import { announceUiEntrance } from '@/lib/uiEvents'
 import type { ShareFrom } from '@/lib/telemetry'
 import { useApp } from '@/state/store'
+import { useTimelapseUi } from '@/state/timelapse'
 import type { Pass, Place } from '@/types'
 import { ShareSheet } from '@/ui/share'
 import { Button, Glyph, Rule, Sheet, cx, safeAreaTop, useIsMobile, useMediaQuery, useReducedMotion, useViewportHeight } from '@/ui/system'
@@ -37,6 +38,7 @@ import { PassDetail, PhotoPassView } from './PassDetail'
 import { PassList } from './PassList'
 import { Headline, MoreLine, Notes, Verdicts, enterStyle } from './Summary'
 import { Timeline } from './Timeline'
+import { TimelapseLayer, TimelapseRow } from './TimelapseEntry'
 import { clearPass, focusPass, quiet, startReplay, togglePlay } from './actions'
 import { crossed, onSceneFrame } from './capture'
 import { useGallery } from './gallery'
@@ -301,6 +303,7 @@ export function ResultsView({ onBack, onRetry, onSearch }: ResultsViewProps) {
   useReplayGuard(selected, () => mobile && setSnap(1))
   useDeselectCleanup()
   useKeys(model, selected, select, !!sharing || searching)
+  const timelapseOpen = useTimelapseUi((t) => !!t.open)
   const closeShare = useCallback(() => setSharing(null), [])
   const shareWeek = useCallback(() => setSharing({ from: 'headline' }), [])
   const shareHero = useCallback((pass: Pass) => setSharing({ pass, from: 'hero' }), [])
@@ -781,7 +784,8 @@ export function ResultsView({ onBack, onRetry, onSearch }: ResultsViewProps) {
         </TimelineDock>
       ) : null}
 
-      {model ? <Lightbox model={model} mobile={mobile} onReplay={replayShown} onShare={shareViewed} covered={!!sharing} /> : null}
+      {model ? <Lightbox model={model} mobile={mobile} onReplay={replayShown} onShare={shareViewed} covered={!!sharing || timelapseOpen} /> : null}
+      <TimelapseLayer model={model} mobile={mobile} />
       {/* On <body>, beside the photo viewer (itself a portal there): the app root is position: fixed, a stacking
           context of its own, so a sheet inside it could never paint over the viewer its Share was pressed in. */}
       {sharing && model ? createPortal(<ShareFor pass={sharing.pass} from={sharing.from} model={model} onClose={closeShare} />, document.body) : null}
@@ -868,6 +872,7 @@ function Overview({ model, mobile, compactTimeline, noSummaryRule = false, wide 
       <Gallery model={model} context="hero" mobile={mobile} onReplay={onSelect} onShare={onShare} />
     </div>
   ) : null
+  const timelapse = hero ? <TimelapseRow model={model} /> : null
   const inviteBar = invite ? (
     <div className={s.invite}>
       <p className={s.inviteText}>Something watched you this week too.</p>
@@ -888,6 +893,7 @@ function Overview({ model, mobile, compactTimeline, noSummaryRule = false, wide 
       {mobile ? (
         <section className={s.section} aria-label="Summary">
           {hero}
+          {timelapse}
           <div data-peek-end={hero ? undefined : ''}>
             <Verdicts model={model} enter={enter} />
           </div>
@@ -911,6 +917,7 @@ function Overview({ model, mobile, compactTimeline, noSummaryRule = false, wide 
             <MoreLine model={model} enter={enter} onRetry={onRetry} onShare={onShareWeek} />
           </div>
           {hero}
+          {timelapse}
           <Verdicts model={model} enter={enter} />
           {compactTimeline ? (
             <div className={s.mTimeline}>{full ? <Timeline model={model} selectedId={selectedId} onSelect={onSelect} compact /> : null}</div>

@@ -1,5 +1,5 @@
 import { describe, expect, it, vi } from 'vitest'
-import { blueFloor, buildTimelapse, commonGeometry, MIN_FRAMES, oneGeometry, planTimelapse, probeUrl, sceneOf, sceneSearchUrl, seasonDay, type Scene, type TimelapseDeps, type TimelapseProgress } from './timelapse'
+import { blueFloor, buildTimelapse, commonGeometry, MIN_FRAMES, noDataShare, oneGeometry, planTimelapse, probeUrl, rankGeometries, sceneOf, sceneSearchUrl, seasonDay, type Scene, type TimelapseDeps, type TimelapseProgress } from './timelapse'
 
 const TORONTO = { lat: 43.653, lon: -79.384 }
 const SINGAPORE = { lat: 1.352, lon: 103.82 }
@@ -28,6 +28,11 @@ describe('the two searches', () => {
     expect(probe.get('query')).toBeNull()
     expect(commonGeometry([{ tile: 'B', orbit: 1 }, { tile: 'A', orbit: 2 }, { tile: 'B', orbit: 1 }, { tile: 'A', orbit: 2 }, { tile: 'C', orbit: 3 }])).toEqual({ tile: 'A', orbit: 2 })
     expect(commonGeometry([])).toBeUndefined()
+    expect(rankGeometries([{ tile: 'B', orbit: 1 }, { tile: 'A', orbit: 2 }, { tile: 'B', orbit: 1 }])).toEqual([{ tile: 'B', orbit: 1 }, { tile: 'A', orbit: 2 }])
+    // a tile that ends inside the square leaves cells with no data
+    expect(noDataShare([0, 5, 5, 5])).toBe(0.25)
+    expect(noDataShare([4, 5, 9])).toBe(0)
+    expect(noDataShare([])).toBe(1)
   })
 
   it('then asks for a few fields of every scene of that one geometry, since the archive begins or for twelve months', () => {

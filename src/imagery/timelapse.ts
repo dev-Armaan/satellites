@@ -171,8 +171,8 @@ export function sceneSearchUrl(place: LatLon, mode: TimelapseMode, now: number, 
   return searchUrl(place, start, now, 1000, query)
 }
 
-/** The tile and orbit with the most scenes (ties: the first by name, so every visitor gets the same one). */
-export function commonGeometry(scenes: readonly Geometry[]): Geometry | undefined {
+/** The tiles and orbits of `scenes`, the one with the most scenes first (ties: by name, the same for every visitor). */
+export function rankGeometries(scenes: readonly Geometry[]): Geometry[] {
   const count = new Map<string, { g: Geometry; n: number }>()
   for (const s of scenes) {
     const k = `${s.tile}/${s.orbit}`
@@ -180,9 +180,12 @@ export function commonGeometry(scenes: readonly Geometry[]): Geometry | undefine
     if (c) c.n++
     else count.set(k, { g: { tile: s.tile, orbit: s.orbit }, n: 1 })
   }
-  let best: { k: string; g: Geometry; n: number } | undefined
-  for (const [k, c] of count) if (!best || c.n > best.n || (c.n === best.n && k < best.k)) best = { k, ...c }
-  return best?.g
+  return [...count.entries()].sort((a, b) => b[1].n - a[1].n || (a[0] < b[0] ? -1 : 1)).map(([, c]) => c.g)
+}
+
+/** The tile and orbit with the most scenes (ties: the first by name, so every visitor gets the same one). */
+export function commonGeometry(scenes: readonly Geometry[]): Geometry | undefined {
+  return rankGeometries(scenes)[0]
 }
 
 const platformName = (p: unknown) => (typeof p === 'string' && /^sentinel-2[a-d]$/i.test(p) ? `Sentinel-2${p.slice(-1).toUpperCase()}` : 'Sentinel-2')
@@ -212,9 +215,25 @@ async function searchScenes(url: string, signal?: AbortSignal): Promise<Scene[]>
   return out
 }
 
+/**
+ * The geometry to take the frames from: the commonest one whose newest scene covers the whole square. A place near a
+ * tile's edge is inside two tiles, and the one that ends inside the square would put a black strip in every frame
+ * (Groom Lake, tile 11SNB). With no geometry that covers it, the commonest.
+ */
+async function chooseGeometry(recent: readonly Scene[], place: LatLon, signal?: AbortSignal): Promise<Geometry | undefined> {
+  const ranked = rankGeometries(recent)
+  for (const g of ranked.slice(0, 4)) {
+    const newest = recent.filter((s) => s.tile === g.tile && s.orbit === g.orbit).sort((a, b) => b.t - a.t)[0]
+    const r = await fetchMask(pcMaskUrl(COLLECTION, newest.id, place), signal).catch(() => undefined)
+    throwIfAborted(signal)
+    if (r?.mask && noDataShare(r.mask.cls) <= MAX_NO_DATA) return g
+  }
+  return ranked[0]
+}
+
 async function listScenes(place: LatLon, mode: TimelapseMode, now: number, signal?: AbortSignal): Promise<Scene[]> {
   // A place nothing has photographed in four months (no geometry) is asked about without one.
-  const geometry = commonGeometry(await searchScenes(probeUrl(place, now), signal))
+  const geometry = await chooseGeometry(await searchScenes(probeUrl(place, now), signal), place, signal)
   return searchScenes(sceneSearchUrl(place, mode, now, geometry), signal)
 }
 
@@ -308,7 +327,10 @@ const median = (xs: number[]) => {
 /** What the choice asks the archive, replaceable in tests. */
 export interface TimelapseDeps {
   list: (place: LatLon, mode: TimelapseMode, now: number, signal?: AbortSignal) => Promise<Scene[]>
-  /** Share of the square showing the ground, or undefined when the mask can't be read */
+  /**
+   * Share of the square showing the ground, or undefined when the mask can't be read or the scene does not cover the
+   * whole square (a tile or a swath that ends inside it leaves a black strip)
+   */
   clear: (scene: Scene, place: LatLon, signal?: AbortSignal) => Promise<number | undefined>
   /** The blue floor of a small render, or undefined when it can't be read */
   haze: (scene: Scene, place: LatLon, signal?: AbortSignal) => Promise<number | undefined>
@@ -318,12 +340,26 @@ export interface TimelapseDeps {
 
 const cropUrl = (scene: Scene, place: LatLon, px: number) => pcCropUrl(COLLECTION, scene.id, place, { halfSizeKm: FRAME_HALF_KM, px }).replace(/\.png\?/, '.jpg?')
 
+/** Cells of the mask with no data, as a share: above this the scene does not cover the square. */
+const MAX_NO_DATA = 0.02
+
+export function noDataShare(cls: ArrayLike<number>): number {
+  let n = 0
+  for (let i = 0; i < cls.length; i++) if (cls[i] === 0) n++
+  return cls.length ? n / cls.length : 1
+}
+
+/** The scene's mask over the square: how much of it shows the ground; undefined if unreadable or not fully covered. */
+async function squareOf(scene: Scene, place: LatLon, signal?: AbortSignal): Promise<{ clear: number } | undefined> {
+  const r = await fetchMask(pcMaskUrl(COLLECTION, scene.id, place), signal)
+  if (!r.mask || noDataShare(r.mask.cls) > MAX_NO_DATA) return undefined
+  const clear = clearFraction(r.mask)
+  return clear === undefined ? undefined : { clear }
+}
+
 const realDeps: TimelapseDeps = {
   list: listScenes,
-  clear: async (scene, place, signal) => {
-    const r = await fetchMask(pcMaskUrl(COLLECTION, scene.id, place), signal)
-    return r.mask ? clearFraction(r.mask) : undefined
-  },
+  clear: async (scene, place, signal) => (await squareOf(scene, place, signal))?.clear,
   haze: async (scene, place, signal) => {
     const r = await fetchPixels(cropUrl(scene, place, 64), signal)
     return r.pixels ? blueFloor(r.pixels.data) : undefined

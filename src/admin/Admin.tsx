@@ -361,7 +361,9 @@ function Dashboard({ s, live, busy, onRefresh }: { s: AdminStats; live: LiveCoun
   const r = s.results
   const v = s.vitals
   // The time-lapse (0022's events; its lists from 0024).
+  // Its opens are counted live too (0026); the ratios below stay on the hourly numbers, like the tiles' sub-lines.
   const lapseOpens = t.timelapse_open ?? 0
+  const lapseLive = live?.timelapse_open ?? null
   const lapseShared = (action: string) => s.top['timelapse_share.action']?.find((x) => x[0] === action)?.[1] ?? 0
   const lapseVideos = lapseShared('video')
   const lapseLinks = lapseShared('link')
@@ -400,8 +402,9 @@ function Dashboard({ s, live, busy, onRefresh }: { s: AdminStats; live: LiveCoun
         {live && (
           <p className="a-note">
             Sessions, searches and shares{live.hours ? ', here and in the activity chart,' : ''} are counted to {fmtClock(live.at)}: they include {count(live.session, 'session', 'sessions')},{' '}
-            {count(live.search, 'search', 'searches')} and {count(live.share_action, 'share', 'shares')} since the hourly update. Everything
-            else on this page, the lines under these three too, is as of that update.
+            {count(live.search, 'search', 'searches')} and {count(live.share_action, 'share', 'shares')} since the hourly update.
+            {lapseLive != null ? ` So are time-lapse opens${live.hours ? ', in the chart and in section 08' : ' in section 08'} (${fmtInt(lapseLive)} since).` : ''}{' '}
+            Everything else on this page, the lines under these three too, is as of that update.
           </p>
         )}
       </Section>
@@ -493,7 +496,7 @@ function Dashboard({ s, live, busy, onRefresh }: { s: AdminStats; live: LiveCoun
           <Panel title="USE" note="Opens are counted each time; a person can open several places.">
             <dl className="a-facts">
               <dt>OPENS</dt>
-              <dd>{fmtInt(lapseOpens)}</dd>
+              <dd>{fmtInt(lapseOpens + (lapseLive ?? 0))}</dd>
               <dt>PER RESULTS SHOWN</dt>
               <dd>{t.results ? fmtPct(lapseOpens / t.results) : '—'}</dd>
               <dt>VIDEOS SAVED · LINKS SHARED</dt>

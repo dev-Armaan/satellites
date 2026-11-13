@@ -109,8 +109,9 @@ export async function signOut(): Promise<void> {
  * (admin_live, 0023), under the totals' keys. The stats cost seconds of database work, so they are computed hourly;
  * these come from counters and cost the same at any traffic.
  */
-/** [hour start ms, searches, shares, tabs new that Eastern day, tabs active in the hour] */
-export type LiveHour = [number, number, number, number, number]
+/** [hour start ms, searches, shares, tabs new that Eastern day, tabs active in the hour, time-lapse opens (0026;
+ *  null from a database before it, and until the first hourly refresh after it)] */
+export type LiveHour = [number, number, number, number, number, number | null]
 
 export interface LiveCounts {
   range: Range
@@ -121,6 +122,8 @@ export interface LiveCounts {
   search: number
   session: number
   share_action: number
+  /** Time-lapse opens (0026). Null when the database does not count them for the whole time since the stats. */
+  timelapse_open: number | null
   /** The same counts hour by hour, for the activity chart (0025). Null from a database before 0025, and until the
    *  first hourly refresh after it: the chart then stays as the stats have it. */
   hours: LiveHour[] | null
@@ -201,8 +204,12 @@ export function parseLive(v: unknown): LiveCounts | null {
   const [since, at, search, session, share] = [n('since'), n('at'), n('search'), n('session'), n('share_action')]
   if (since == null || at == null || search == null || session == null || share == null) return null
   const fin = (x: unknown): x is number => typeof x === 'number' && Number.isFinite(x)
-  const hours = Array.isArray(v.hours) && v.hours.every((h) => Array.isArray(h) && h.length === 5 && h.every(fin)) ? (v.hours as LiveHour[]) : null
-  return { range: v.range as Range, since, at, search, session, share_action: share, hours }
+  // Five numbers an hour, and from 0026 a sixth (time-lapse opens, or null). Anything after that is a later database's.
+  const hours =
+    Array.isArray(v.hours) && v.hours.every((h) => Array.isArray(h) && h.length >= 5 && h.slice(0, 5).every(fin))
+      ? v.hours.map((h: unknown[]) => [...h.slice(0, 5), fin(h[5]) ? h[5] : null] as LiveHour)
+      : null
+  return { range: v.range as Range, since, at, search, session, share_action: share, timelapse_open: n('timelapse_open'), hours }
 }
 
 /**

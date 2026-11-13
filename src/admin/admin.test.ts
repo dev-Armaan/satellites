@@ -134,10 +134,14 @@ describe('live counts (0023)', () => {
   const now = Date.UTC(2026, 10, 13, 8, 30)
   const answer = { range: '7d', since: now - 30 * 60e3, at: now, search: 35, share_action: 4, session: 17 }
   it('parses the counts, and none when the database gives none', () => {
-    expect(parseLive(answer)).toEqual({ ...answer, hours: null })
+    expect(parseLive(answer)).toEqual({ ...answer, timelapse_open: null, hours: null })
     // 0025: the same counts hour by hour, or none of them if any is not five numbers
     const hours = [[now - 30 * 60e3, 35, 4, 17, 20]]
-    expect(parseLive({ ...answer, hours })?.hours).toEqual(hours)
+    expect(parseLive({ ...answer, hours })?.hours).toEqual([[now - 30 * 60e3, 35, 4, 17, 20, null]])
+    // 0026: time-lapse opens, a total and each hour's sixth number; null where the database does not count them
+    const lapsed = parseLive({ ...answer, timelapse_open: 6, hours: [[now, 35, 4, 17, 20, 6], [now + 3600e3, 1, 0, 1, 1, null]] })
+    expect(lapsed?.timelapse_open).toBe(6)
+    expect(lapsed?.hours).toEqual([[now, 35, 4, 17, 20, 6], [now + 3600e3, 1, 0, 1, 1, null]])
     expect(parseLive({ ...answer, hours: [[now, 1, 2, 3]] })?.hours).toBeNull()
     expect(parseLive({ ...answer, hours: [[now, 1, 2, 3, null]] })?.hours).toBeNull()
     // counters that do not cover the whole time since the stored stats: since and at, no counts
@@ -174,29 +178,31 @@ describe('activity chart with the live counts (0025)', () => {
   const h8 = Date.UTC(2026, 10, 13, 8) // 03:00 EST
   it('hourly: adds an hour to its bar, with the tabs active in it, and adds bars past the last one', () => {
     const series: [number, number, number, number, number][] = [[h8 - H, 900, 9, 700, 12], [h8, 4, 0, 3, 1]]
-    const out = liveSeries(series, 'hour', [[h8, 100, 2, 60, 80], [h8 + 2 * H, 10, 1, 5, 7]])
-    // time-lapse opens (the fifth number) are not counted live: kept as they are, none in a new bar
+    const out = liveSeries(series, 'hour', [[h8, 100, 2, 60, 80, null], [h8 + 2 * H, 10, 1, 5, 7, null]])
+    // time-lapse opens (the fifth number) from a database that does not count them live: kept as they are
     expect(out).toEqual([[h8 - H, 900, 9, 700, 12], [h8, 104, 2, 83, 1], [h8 + H, 0, 0, 0, 0], [h8 + 2 * H, 10, 1, 7, 0]])
     expect(series[1]).toEqual([h8, 4, 0, 3, 1]) // the stats' own series is not touched
+    // 0026: the hour's time-lapse opens join its bar
+    expect(liveSeries(series, 'hour', [[h8, 100, 2, 60, 80, 9], [h8 + H, 10, 1, 5, 7, 2]]).slice(1)).toEqual([[h8, 104, 2, 83, 10], [h8 + H, 10, 1, 7, 2]])
   })
   it('daily: adds each hour to its Eastern day, with the tabs new that day, and starts a day after midnight', () => {
     const nov12 = Date.UTC(2026, 10, 12, 5) // 00:00 EST
     const nov13 = Date.UTC(2026, 10, 13, 5)
     const series: [number, number, number, number, number][] = [[nov12 - 24 * H, 500, 5, 400, 0], [nov12, 800, 8, 600, 7]]
     // 23:00 EST on the 12th, then 00:00 and 03:00 EST on the 13th
-    const out = liveSeries(series, 'day', [[nov13 - H, 10, 1, 6, 9], [nov13, 20, 0, 15, 15], [h8, 30, 2, 20, 25]])
-    expect(out).toEqual([[nov12 - 24 * H, 500, 5, 400, 0], [nov12, 810, 9, 606, 7], [nov13, 50, 2, 35, 0]])
+    const out = liveSeries(series, 'day', [[nov13 - H, 10, 1, 6, 9, 1], [nov13, 20, 0, 15, 15, 2], [h8, 30, 2, 20, 25, 3]])
+    expect(out).toEqual([[nov12 - 24 * H, 500, 5, 400, 0], [nov12, 810, 9, 606, 8], [nov13, 50, 2, 35, 5]])
   })
   it('daily: finds midnight on the day the clocks go back', () => {
     const nov1 = Date.UTC(2026, 10, 1, 4) // 00:00 EDT; the day is 25 hours long
-    const out = liveSeries([[nov1, 1, 0, 1, 0]], 'day', [[nov1 + 24 * H, 5, 0, 2, 3]]) // 23:00 EST, still Nov 1
+    const out = liveSeries([[nov1, 1, 0, 1, 0]], 'day', [[nov1 + 24 * H, 5, 0, 2, 3, null]]) // 23:00 EST, still Nov 1
     expect(out).toEqual([[nov1, 6, 0, 3, 0]])
   })
   it('leaves the chart alone without hours', () => {
     const series: [number, number, number, number, number][] = [[h8, 4, 0, 3, 0]]
     expect(liveSeries(series, 'hour', null)).toBe(series)
     expect(liveSeries(series, 'hour', [])).toBe(series)
-    expect(liveSeries([], 'hour', [[h8, 1, 0, 1, 1]])).toEqual([])
+    expect(liveSeries([], 'hour', [[h8, 1, 0, 1, 1, null]])).toEqual([])
   })
 })
 

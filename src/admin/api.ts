@@ -108,6 +108,9 @@ export async function signOut(): Promise<void> {
  * (admin_live, 0023), under the totals' keys. The stats cost seconds of database work, so they are computed hourly;
  * these come from counters and cost the same at any traffic.
  */
+/** [hour start ms, searches, shares, tabs new that Eastern day, tabs active in the hour] */
+export type LiveHour = [number, number, number, number, number]
+
 export interface LiveCounts {
   range: Range
   /** The stored stats these continue: their cachedAt, ms */
@@ -117,6 +120,9 @@ export interface LiveCounts {
   search: number
   session: number
   share_action: number
+  /** The same counts hour by hour, for the activity chart (0024). Null from a database before 0024, and until the
+   *  first hourly refresh after it: the chart then stays as the stats have it. */
+  hours: LiveHour[] | null
 }
 
 export type StatsResult = { ok: true; stats: AdminStats } | { ok: false; denied: boolean; message: string }
@@ -193,7 +199,9 @@ export function parseLive(v: unknown): LiveCounts | null {
   const n = (k: string): number | null => (typeof v[k] === 'number' && Number.isFinite(v[k]) && (v[k] as number) >= 0 ? (v[k] as number) : null)
   const [since, at, search, session, share] = [n('since'), n('at'), n('search'), n('session'), n('share_action')]
   if (since == null || at == null || search == null || session == null || share == null) return null
-  return { range: v.range as Range, since, at, search, session, share_action: share }
+  const fin = (x: unknown): x is number => typeof x === 'number' && Number.isFinite(x)
+  const hours = Array.isArray(v.hours) && v.hours.every((h) => Array.isArray(h) && h.length === 5 && h.every(fin)) ? (v.hours as LiveHour[]) : null
+  return { range: v.range as Range, since, at, search, session, share_action: share, hours }
 }
 
 /**

@@ -32,7 +32,9 @@ const PLACES: [string, string, string, number][] = [
 export function mockLive(stats: AdminStats, now = Date.now()): LiveCounts | null {
   if (stats.cachedAt == null) return null
   const mins = Math.max(0, (now - stats.cachedAt) / 60e3)
-  return { range: stats.range, since: stats.cachedAt, at: now, search: Math.round(mins * 9), session: Math.round(mins * 7), share_action: Math.round(mins * 0.4) }
+  const [search, session, share] = [Math.round(mins * 9), Math.round(mins * 7), Math.round(mins * 0.4)]
+  const hours: LiveCounts['hours'] = [[Math.floor(stats.cachedAt / 3600e3) * 3600e3, search, share, session, Math.round(session * 1.3)]]
+  return { range: stats.range, since: stats.cachedAt, at: now, search, session, share_action: share, hours }
 }
 
 export function mockStats(range: Range, now = Date.now()): AdminStats {

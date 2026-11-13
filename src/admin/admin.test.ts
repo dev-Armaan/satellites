@@ -4,6 +4,7 @@ import type { Place } from '@/types'
 import { isTimeout, liveFor, parseLive, parseStats, RANGES } from './api'
 import { mockLive, mockStats } from './fixture'
 import { fmtBucket, fmtPct, niceMax, SOURCE_NAMES } from './format'
+import { liveSeries } from './live'
 import { dotRadius, GRID_STEP, legendCounts, placeGrid } from './placeGrid'
 
 describe('admin_stats parsing', () => {
@@ -116,7 +117,12 @@ describe('live counts (0023)', () => {
   const now = Date.UTC(2026, 10, 13, 8, 30)
   const answer = { range: '7d', since: now - 30 * 60e3, at: now, search: 35, share_action: 4, session: 17 }
   it('parses the counts, and none when the database gives none', () => {
-    expect(parseLive(answer)).toEqual(answer)
+    expect(parseLive(answer)).toEqual({ ...answer, hours: null })
+    // 0024: the same counts hour by hour, or none of them if any is not five numbers
+    const hours = [[now - 30 * 60e3, 35, 4, 17, 20]]
+    expect(parseLive({ ...answer, hours })?.hours).toEqual(hours)
+    expect(parseLive({ ...answer, hours: [[now, 1, 2, 3]] })?.hours).toBeNull()
+    expect(parseLive({ ...answer, hours: [[now, 1, 2, 3, null]] })?.hours).toBeNull()
     // counters that do not cover the whole time since the stored stats: since and at, no counts
     expect(parseLive({ range: '7d', since: now - 6 * 3600e3, at: now })).toBeNull()
     expect(parseLive({ range: '24h', since: null, at: now })).toBeNull()
@@ -143,6 +149,36 @@ describe('live counts (0023)', () => {
     const { fmtClock } = await import('./format')
     expect(fmtClock(Date.UTC(2026, 10, 13, 8, 30, 7))).toBe('03:30:07 EST')
     expect(fmtClock(Date.UTC(2026, 6, 1, 4, 0, 59))).toBe('00:00:59 EDT')
+  })
+})
+
+describe('activity chart with the live counts (0024)', () => {
+  const H = 3600e3
+  const h8 = Date.UTC(2026, 10, 13, 8) // 03:00 EST
+  it('hourly: adds an hour to its bar, with the tabs active in it, and adds bars past the last one', () => {
+    const series: [number, number, number, number][] = [[h8 - H, 900, 9, 700], [h8, 4, 0, 3]]
+    const out = liveSeries(series, 'hour', [[h8, 100, 2, 60, 80], [h8 + 2 * H, 10, 1, 5, 7]])
+    expect(out).toEqual([[h8 - H, 900, 9, 700], [h8, 104, 2, 83], [h8 + H, 0, 0, 0], [h8 + 2 * H, 10, 1, 7]])
+    expect(series[1]).toEqual([h8, 4, 0, 3]) // the stats' own series is not touched
+  })
+  it('daily: adds each hour to its Eastern day, with the tabs new that day, and starts a day after midnight', () => {
+    const nov12 = Date.UTC(2026, 10, 12, 5) // 00:00 EST
+    const nov13 = Date.UTC(2026, 10, 13, 5)
+    const series: [number, number, number, number][] = [[nov12 - 24 * H, 500, 5, 400], [nov12, 800, 8, 600]]
+    // 23:00 EST on the 12th, then 00:00 and 03:00 EST on the 13th
+    const out = liveSeries(series, 'day', [[nov13 - H, 10, 1, 6, 9], [nov13, 20, 0, 15, 15], [h8, 30, 2, 20, 25]])
+    expect(out).toEqual([[nov12 - 24 * H, 500, 5, 400], [nov12, 810, 9, 606], [nov13, 50, 2, 35]])
+  })
+  it('daily: finds midnight on the day the clocks go back', () => {
+    const nov1 = Date.UTC(2026, 10, 1, 4) // 00:00 EDT; the day is 25 hours long
+    const out = liveSeries([[nov1, 1, 0, 1]], 'day', [[nov1 + 24 * H, 5, 0, 2, 3]]) // 23:00 EST, still Nov 1
+    expect(out).toEqual([[nov1, 6, 0, 3]])
+  })
+  it('leaves the chart alone without hours', () => {
+    const series: [number, number, number, number][] = [[h8, 4, 0, 3]]
+    expect(liveSeries(series, 'hour', null)).toBe(series)
+    expect(liveSeries(series, 'hour', [])).toBe(series)
+    expect(liveSeries([], 'hour', [[h8, 1, 0, 1, 1]])).toEqual([])
   })
 })
 

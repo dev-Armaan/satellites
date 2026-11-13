@@ -5,8 +5,9 @@
  * Why it works the way it does (measured on nine places, 2026-11-13):
  *
  *  - Nothing here runs unless someone opens the time-lapse. A search costs what it did before.
- *  - ONE light search lists every scene of the place (the STAC `fields` extension: 20–130 kB for eleven years,
- *    where the full items are megabytes).
+ *  - Two light searches list the place's scenes (the STAC `fields` extension: 20–160 kB for eleven years, where the
+ *    full items are megabytes): a small one to learn which tile and orbit see the place most, then every scene of
+ *    that one geometry.
  *  - Frames need no alignment: every crop is cut on the place's own grid at whole native pixels (toneRender
  *    placeGrid), so the same ground is under the same pixel in every year. They are taken from ONE tile and ONE
  *    relative orbit (the pair with the most scenes), so the satellite looks from the same side every time and tall
@@ -48,6 +49,9 @@ export const FRAME_HALF_KM = 5
 export const MIN_FRAMES = 3
 /** The square must show at least this much ground (cloud and shadow 0, thin cirrus ½: tone.ts clearFraction). */
 const MIN_CLEAR = 0.95
+/** Scenes of one slot whose clear shares are this close show the same ground (firstClear), if it is at least this much. */
+const SAME_GROUND = 0.03
+const MIN_GROUND_CLEAR = 0.6
 /** `years`: a scene counts toward a season when it is within this of the season's middle day. */
 const SEASON_HALF_DAYS = 45
 /** `seasons`: slots across the last twelve months (about 20 days each). */
@@ -126,18 +130,59 @@ const FIELDS = ['id', 'properties.datetime', 'properties.eo:cloud_cover', 'prope
 const iso = (ms: number) => new Date(ms).toISOString().slice(0, 19) + 'Z'
 const round6 = (n: number) => Math.round(n * 1e6) / 1e6
 
-/** The one search: every scene over the place since `start` under the mode's cloud limit, a few fields each. */
-export function sceneSearchUrl(place: LatLon, mode: TimelapseMode, now: number): string {
-  const start = mode === 'years' ? ARCHIVE_START : now - 365 * DAY
+/** How far back the first, small search looks to learn which tiles and orbits see the place. */
+const PROBE_DAYS = 120
+
+export interface Geometry {
+  tile: string
+  orbit: number
+}
+
+function searchUrl(place: LatLon, start: number, end: number, limit: number, query?: Record<string, unknown>): string {
   const q = new URLSearchParams({
     collections: COLLECTION,
     intersects: JSON.stringify({ type: 'Point', coordinates: [round6(place.lon), round6(place.lat)] }),
-    datetime: `${iso(start)}/${iso(now)}`,
-    limit: '1000',
-    query: JSON.stringify({ 'eo:cloud_cover': { lt: MAX_SCENE_CLOUD[mode] } }),
+    datetime: `${iso(start)}/${iso(end)}`,
+    limit: String(limit),
     fields: FIELDS,
   })
+  if (query) q.set('query', JSON.stringify(query))
   return `${PC_STAC_SEARCH}?${q}`
+}
+
+/** The first search: every recent scene of the place, whatever its cloud, to see which tiles and orbits cover it. */
+export function probeUrl(place: LatLon, now: number): string {
+  return searchUrl(place, now - PROBE_DAYS * DAY, now, 200)
+}
+
+/**
+ * The second search: every scene of ONE tile and orbit since `start` under the mode's cloud limit, a few fields each.
+ * One geometry is at most a scene every five days (about 800 since 2015), so it fits the archive's 1000 a page: asked
+ * for every geometry at once, a desert under four overlapping tiles and orbits (Groom Lake) filled the page with its
+ * last year alone and the time-lapse lost the years before.
+ */
+export function sceneSearchUrl(place: LatLon, mode: TimelapseMode, now: number, geometry?: Geometry): string {
+  const start = mode === 'years' ? ARCHIVE_START : now - 365 * DAY
+  const query: Record<string, unknown> = { 'eo:cloud_cover': { lt: MAX_SCENE_CLOUD[mode] } }
+  if (geometry) {
+    query['s2:mgrs_tile'] = { eq: geometry.tile }
+    query['sat:relative_orbit'] = { eq: geometry.orbit }
+  }
+  return searchUrl(place, start, now, 1000, query)
+}
+
+/** The tile and orbit with the most scenes (ties: the first by name, so every visitor gets the same one). */
+export function commonGeometry(scenes: readonly Geometry[]): Geometry | undefined {
+  const count = new Map<string, { g: Geometry; n: number }>()
+  for (const s of scenes) {
+    const k = `${s.tile}/${s.orbit}`
+    const c = count.get(k)
+    if (c) c.n++
+    else count.set(k, { g: { tile: s.tile, orbit: s.orbit }, n: 1 })
+  }
+  let best: { k: string; g: Geometry; n: number } | undefined
+  for (const [k, c] of count) if (!best || c.n > best.n || (c.n === best.n && k < best.k)) best = { k, ...c }
+  return best?.g
 }
 
 const platformName = (p: unknown) => (typeof p === 'string' && /^sentinel-2[a-d]$/i.test(p) ? `Sentinel-2${p.slice(-1).toUpperCase()}` : 'Sentinel-2')
@@ -152,20 +197,25 @@ export function sceneOf(item: LightItem): Scene | null {
   return { id: item.id, t, cloud, tile, orbit, platform: platformName(p.platform) }
 }
 
-async function listScenes(place: LatLon, mode: TimelapseMode, now: number, signal?: AbortSignal): Promise<Scene[]> {
+async function searchScenes(url: string, signal?: AbortSignal): Promise<Scene[]> {
   const out: Scene[] = []
-  let url: string | undefined = sceneSearchUrl(place, mode, now)
-  // 1000 a page: a second page only where two orbits and two tiles overlap over a desert.
-  for (let page = 0; url && page < 3; page++) {
-    const r: LightPage = await fetchJson<LightPage>(url, { signal, timeoutMs: 12_000, retries: 1, retryTimeouts: false })
+  let next: string | undefined = url
+  for (let page = 0; next && page < 2; page++) {
+    const r: LightPage = await fetchJson<LightPage>(next, { signal, timeoutMs: 12_000, retries: 1, retryTimeouts: false })
     for (const f of r.features ?? []) {
       const s = sceneOf(f)
       if (s) out.push(s)
     }
-    const next = r.links?.find((l) => l.rel === 'next' && (l.method ?? 'GET').toUpperCase() === 'GET')
-    url = r.features?.length ? next?.href : undefined
+    const link = r.links?.find((l) => l.rel === 'next' && (l.method ?? 'GET').toUpperCase() === 'GET')
+    next = r.features?.length ? link?.href : undefined
   }
   return out
+}
+
+async function listScenes(place: LatLon, mode: TimelapseMode, now: number, signal?: AbortSignal): Promise<Scene[]> {
+  // A place nothing has photographed in four months (no geometry) is asked about without one.
+  const geometry = commonGeometry(await searchScenes(probeUrl(place, now), signal))
+  return searchScenes(sceneSearchUrl(place, mode, now, geometry), signal)
 }
 
 // ── Planning (pure) ────────────────────────────────────────────────────────────────────────
@@ -175,13 +225,10 @@ const byCloud = (a: Scene, b: Scene) => a.cloud - b.cloud || b.t - a.t
 
 /** The scenes of the tile and orbit with the most of them, one per day. */
 export function oneGeometry(scenes: readonly Scene[], lon: number): Scene[] {
-  const count = new Map<string, number>()
-  for (const s of scenes) count.set(`${s.tile}/${s.orbit}`, (count.get(`${s.tile}/${s.orbit}`) ?? 0) + 1)
-  let best = ''
-  for (const [k, n] of count) if (!best || n > count.get(best)! || (n === count.get(best) && k < best)) best = k
+  const g = commonGeometry(scenes)
   const days = new Map<string, Scene>()
   for (const s of scenes) {
-    if (`${s.tile}/${s.orbit}` !== best) continue
+    if (!g || s.tile !== g.tile || s.orbit !== g.orbit) continue
     const d = mosaicDate(s.t, lon)
     const prev = days.get(d)
     if (!prev || byCloud(s, prev) < 0) days.set(d, s)
@@ -308,15 +355,34 @@ async function ask<T>(fn: (signal: AbortSignal) => Promise<T | undefined>, signa
   }
 }
 
-/** The first candidate from `from` on (at most `tries`) that is clear at the place, with its haze measured. */
+/**
+ * The first candidate from `from` on (at most `tries`) that is clear at the place, with its haze measured.
+ *
+ * Bright ground reads as cloud in the archive's older classifications: Groom Lake's dry lake bed is "cloud" over 18 %
+ * of the square in every scene before 2022, so no scene of those years reached 95 % and the years were left out.
+ * Cloud moves and ground does not: when nothing is clear enough but three scenes of the slot agree on the same share
+ * (within SAME_GROUND), that share is the ground's, and the least cloudy of them is taken.
+ */
 async function firstClear(slot: Slot, from: number, tries: number, place: LatLon, deps: TimelapseDeps, signal?: AbortSignal): Promise<{ pick: Pick; index: number } | undefined> {
-  for (let i = from; i < Math.min(slot.candidates.length, from + tries); i++) {
-    const scene = slot.candidates[i]
-    const clear = await ask((s) => deps.clear(scene, place, s), signal)
-    if (clear === undefined || clear < MIN_CLEAR) continue
-    return { pick: { scene, clear, haze: await ask((s) => deps.haze(scene, place, s), signal) }, index: i }
+  const seen: { index: number; clear: number }[] = []
+  let found: { index: number; clear: number } | undefined
+  for (let i = from; i < Math.min(slot.candidates.length, from + tries) && !found; i++) {
+    const clear = await ask((s) => deps.clear(slot.candidates[i], place, s), signal)
+    if (clear === undefined) continue
+    if (clear >= MIN_CLEAR) found = { index: i, clear }
+    else seen.push({ index: i, clear })
   }
-  return undefined
+  if (!found) {
+    for (const a of seen) {
+      if (a.clear >= MIN_GROUND_CLEAR && seen.filter((b) => Math.abs(b.clear - a.clear) <= SAME_GROUND).length >= 3) {
+        found = a
+        break
+      }
+    }
+  }
+  if (!found) return undefined
+  const scene = slot.candidates[found.index]
+  return { pick: { scene, clear: found.clear, haze: await ask((s) => deps.haze(scene, place, s), signal) }, index: found.index }
 }
 
 export interface TimelapseOptions {
@@ -341,10 +407,10 @@ export async function buildTimelapse(place: LatLon, mode: TimelapseMode, opts: T
   const plan = planTimelapse(await deps.list(place, mode, now, signal), place, mode, now)
   throwIfAborted(signal)
 
-  // The clear look of each slot, three slots at a time (a slot asks one thing at a time).
+  // The clear look of each slot, six slots at a time (a slot asks one thing at a time).
   let done = 0
   onProgress?.({ phase: 'choosing', done, total: plan.slots.length })
-  const first = await mapLimit(plan.slots, 3, async (slot) => {
+  const first = await mapLimit(plan.slots, 6, async (slot) => {
     const r = await firstClear(slot, 0, TRIES[mode], place, deps, signal)
     onProgress?.({ phase: 'choosing', done: ++done, total: plan.slots.length })
     return r
@@ -352,7 +418,7 @@ export async function buildTimelapse(place: LatLon, mode: TimelapseMode, opts: T
   // A pick much hazier than the place usually is gives way to a cleaner clear scene of its slot, if one is found.
   const usual = median(first.flatMap((r) => (r?.pick.haze !== undefined ? [r.pick.haze] : [])))
   const hazy = (h: number | undefined) => h !== undefined && h > Math.max(usual * HAZE_RATIO, usual + HAZE_MARGIN)
-  const picks = await mapLimit(plan.slots, 3, async (slot, i) => {
+  const picks = await mapLimit(plan.slots, 6, async (slot, i) => {
     const got = first[i]
     if (!got || !hazy(got.pick.haze)) return got?.pick
     const other = await firstClear(slot, got.index + 1, HAZE_RETRIES, place, deps, signal)
@@ -366,7 +432,7 @@ export async function buildTimelapse(place: LatLon, mode: TimelapseMode, opts: T
   onProgress?.({ phase: 'loading', frames: meta, loaded })
   const made: string[] = []
   try {
-    const srcs = await mapLimit(chosen, 4, async (p) => {
+    const srcs = await mapLimit(chosen, 6, async (p) => {
       try {
         const src = await deps.frame(p.scene, place, opts.px, signal)
         made.push(src)

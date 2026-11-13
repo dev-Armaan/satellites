@@ -1,5 +1,5 @@
 import { describe, expect, it, vi } from 'vitest'
-import { blueFloor, buildTimelapse, MIN_FRAMES, oneGeometry, planTimelapse, sceneOf, sceneSearchUrl, seasonDay, type Scene, type TimelapseDeps, type TimelapseProgress } from './timelapse'
+import { blueFloor, buildTimelapse, commonGeometry, MIN_FRAMES, oneGeometry, planTimelapse, probeUrl, sceneOf, sceneSearchUrl, seasonDay, type Scene, type TimelapseDeps, type TimelapseProgress } from './timelapse'
 
 const TORONTO = { lat: 43.653, lon: -79.384 }
 const SINGAPORE = { lat: 1.352, lon: 103.82 }
@@ -21,12 +21,21 @@ function deps(over: Partial<TimelapseDeps> & { scenes: Scene[] }): Partial<Timel
   }
 }
 
-describe('the one search', () => {
-  it('asks for a few fields of every scene since the archive begins, or of the last twelve months', () => {
-    const years = new URL(sceneSearchUrl(TORONTO, 'years', NOW)).searchParams
+describe('the two searches', () => {
+  it('first asks which tiles and orbits saw the place lately, whatever the cloud', () => {
+    const probe = new URL(probeUrl(TORONTO, NOW)).searchParams
+    expect(probe.get('datetime')).toBe('2026-07-16T02:00:00Z/2026-11-13T02:00:00Z')
+    expect(probe.get('query')).toBeNull()
+    expect(commonGeometry([{ tile: 'B', orbit: 1 }, { tile: 'A', orbit: 2 }, { tile: 'B', orbit: 1 }, { tile: 'A', orbit: 2 }, { tile: 'C', orbit: 3 }])).toEqual({ tile: 'A', orbit: 2 })
+    expect(commonGeometry([])).toBeUndefined()
+  })
+
+  it('then asks for a few fields of every scene of that one geometry, since the archive begins or for twelve months', () => {
+    const years = new URL(sceneSearchUrl(TORONTO, 'years', NOW, { tile: '17TPJ', orbit: 140 })).searchParams
     expect(years.get('collections')).toBe('sentinel-2-l2a')
     expect(years.get('datetime')).toBe('2015-06-23T00:00:00Z/2026-11-13T02:00:00Z')
     expect(JSON.parse(years.get('intersects')!)).toEqual({ type: 'Point', coordinates: [-79.384, 43.653] })
+    expect(JSON.parse(years.get('query')!)).toEqual({ 'eo:cloud_cover': { lt: 50 }, 's2:mgrs_tile': { eq: '17TPJ' }, 'sat:relative_orbit': { eq: 140 } })
     expect(years.get('fields')).toContain('properties.eo:cloud_cover')
     expect(years.get('fields')).toContain('-assets')
     expect(new URL(sceneSearchUrl(TORONTO, 'seasons', NOW)).searchParams.get('datetime')).toBe('2025-11-13T02:00:00Z/2026-11-13T02:00:00Z')
@@ -126,6 +135,20 @@ describe('building', () => {
     const milky = scenes.find((s) => s.cloud === 2 && new Date(s.t).getUTCFullYear() === 2019)!
     const t = await buildTimelapse(TORONTO, 'years', { px: 640, now: NOW, deps: deps({ scenes, haze: async (s) => (s.id === milky.id ? 0.11 : 0.015) }) })
     expect(t.frames.map((f) => f.date)[1]).toBe('2019-08-20')
+  })
+
+  it('takes bright ground the archive calls cloud for what it is: the same share in scene after scene', async () => {
+    // 2019 has four scenes; the dry lake bed reads as cloud over 18 % of the square in each of them.
+    const scenes = [...yearly(), scene('2019-08-25', 12), scene('2019-08-30', 20)]
+    const t = await buildTimelapse(TORONTO, 'years', {
+      px: 640,
+      now: NOW,
+      deps: deps({ scenes, clear: async (s) => (new Date(s.t).getUTCFullYear() === 2019 ? 0.82 + (s.cloud > 10 ? 0.01 : 0) : new Date(s.t).getUTCFullYear() === 2020 ? [0.4, 0.7][s.cloud === 2 ? 0 : 1] : 1) }),
+    })
+    const years = t.frames.map((f) => f.date.slice(0, 4))
+    expect(years).toContain('2019')
+    expect(t.frames.find((f) => f.date.startsWith('2019'))).toMatchObject({ date: '2019-08-10', clear: 0.82 })
+    expect(years).not.toContain('2020') // two scenes that disagree are cloud
   })
 
   it('leaves a year out when nothing asked about is clear, and plays on when a frame does not come', async () => {

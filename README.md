@@ -194,9 +194,9 @@ browser. A search the list can't answer goes to [Open-Meteo](https://open-meteo.
 does EUMETSAT where a Meteosat watches the place.
 Element 84 sees it only when Planetary Computer is down.
 
-The host also counts page views and page speed, with no cookies or local storage: Vercel Web Analytics while the site is
-on Vercel, Cloudflare Web Analytics once it is on Cloudflare. Both receive the page address, which for a place link can
-include its coordinates and name.
+The host, Cloudflare, also counts page views and page speed with Cloudflare Web Analytics, with no cookies or local
+storage (until November 2026 the site ran on Vercel, which counted them with Vercel Web Analytics). It receives the
+page address, which for a place link can include its coordinates and name.
 
 On Cloudflare, every page also gets a script Cloudflare adds to tell people from bots (JavaScript detections, which
 the free plan cannot turn off). It sets one security cookie, `cf_clearance`, on watched.earth for up to a year. Watched

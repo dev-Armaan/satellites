@@ -5,7 +5,8 @@
  * happened before the top of the hour. The database also counts searches, shares and tabs as their events arrive, hour
  * by hour; this adds those hours to the bars they belong to, and adds a bar when the clock has moved past the last one.
  * A bar's sessions keep their meaning: tabs active in the hour in the hourly chart, tabs new that Eastern day in the
- * daily one (a tab counts once a day), which is why the database sends both.
+ * daily one (a tab counts once a day), which is why the database sends both. Time-lapse opens (the row's fifth
+ * number) are not counted live: a bar keeps the ones it has, and a bar added here has none until the hourly update.
  */
 import type { AdminStats, LiveHour } from './api'
 import { etParts } from './format'
@@ -31,8 +32,8 @@ export function liveSeries(series: Row[], bucket: 'hour' | 'day', hours: LiveHou
       const last = out[out.length - 1]
       if (start < last[0]) continue // before the chart's last bar and not one of its bars: not this range's to show
       // Past the last bar: the bars up to this one (hours in between had nothing counted).
-      if (bucket === 'hour') for (let t = last[0] + HOUR; t <= start; t += HOUR) out.push([t, 0, 0, 0])
-      else out.push([start, 0, 0, 0])
+      if (bucket === 'hour') for (let t = last[0] + HOUR; t <= start; t += HOUR) out.push([t, 0, 0, 0, 0])
+      else out.push([start, 0, 0, 0, 0])
       row = out[out.length - 1]
     }
     row[1] += searches

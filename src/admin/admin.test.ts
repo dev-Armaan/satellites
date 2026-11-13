@@ -96,6 +96,23 @@ describe('recorded counts (0015)', () => {
   })
 })
 
+describe('the time-lapse in the stats (0024)', () => {
+  it('reads a fifth number from each point of the series, and 0 from a database before it', () => {
+    const s = parseStats({ range: '24h', series: [[1, 10, 2, 8, 3], [2, 5, 0, 4]] })!
+    expect(s.series).toEqual([[1, 10, 2, 8, 3], [2, 5, 0, 4, 0]])
+  })
+  it('has a name for every way in and every way of sharing the client reports', async () => {
+    const { TIMELAPSE_ACTION_NAMES, TIMELAPSE_FROM_NAMES } = await import('./format')
+    for (const from of ['results', 'viewer', 'link']) expect(TIMELAPSE_FROM_NAMES[from]).toBeTruthy()
+    for (const action of ['video', 'link']) expect(TIMELAPSE_ACTION_NAMES[action]).toBeTruthy()
+  })
+  it('is in the fixture, so the page can be looked at without a database', () => {
+    const m = mockStats('7d', Date.UTC(2026, 10, 13, 12))
+    expect(m.totals.timelapse_open).toBe(m.series.reduce((a, p) => a + p[4], 0))
+    expect(m.top['timelapse_open.from'].map((r) => r[0])).toEqual(['results', 'viewer', 'link'])
+  })
+})
+
 describe('cached stats', () => {
   it('parses cachedAt, null from a database before 0009', () => {
     const now = Date.UTC(2026, 10, 10, 12)
@@ -156,26 +173,27 @@ describe('activity chart with the live counts (0025)', () => {
   const H = 3600e3
   const h8 = Date.UTC(2026, 10, 13, 8) // 03:00 EST
   it('hourly: adds an hour to its bar, with the tabs active in it, and adds bars past the last one', () => {
-    const series: [number, number, number, number][] = [[h8 - H, 900, 9, 700], [h8, 4, 0, 3]]
+    const series: [number, number, number, number, number][] = [[h8 - H, 900, 9, 700, 12], [h8, 4, 0, 3, 1]]
     const out = liveSeries(series, 'hour', [[h8, 100, 2, 60, 80], [h8 + 2 * H, 10, 1, 5, 7]])
-    expect(out).toEqual([[h8 - H, 900, 9, 700], [h8, 104, 2, 83], [h8 + H, 0, 0, 0], [h8 + 2 * H, 10, 1, 7]])
-    expect(series[1]).toEqual([h8, 4, 0, 3]) // the stats' own series is not touched
+    // time-lapse opens (the fifth number) are not counted live: kept as they are, none in a new bar
+    expect(out).toEqual([[h8 - H, 900, 9, 700, 12], [h8, 104, 2, 83, 1], [h8 + H, 0, 0, 0, 0], [h8 + 2 * H, 10, 1, 7, 0]])
+    expect(series[1]).toEqual([h8, 4, 0, 3, 1]) // the stats' own series is not touched
   })
   it('daily: adds each hour to its Eastern day, with the tabs new that day, and starts a day after midnight', () => {
     const nov12 = Date.UTC(2026, 10, 12, 5) // 00:00 EST
     const nov13 = Date.UTC(2026, 10, 13, 5)
-    const series: [number, number, number, number][] = [[nov12 - 24 * H, 500, 5, 400], [nov12, 800, 8, 600]]
+    const series: [number, number, number, number, number][] = [[nov12 - 24 * H, 500, 5, 400, 0], [nov12, 800, 8, 600, 7]]
     // 23:00 EST on the 12th, then 00:00 and 03:00 EST on the 13th
     const out = liveSeries(series, 'day', [[nov13 - H, 10, 1, 6, 9], [nov13, 20, 0, 15, 15], [h8, 30, 2, 20, 25]])
-    expect(out).toEqual([[nov12 - 24 * H, 500, 5, 400], [nov12, 810, 9, 606], [nov13, 50, 2, 35]])
+    expect(out).toEqual([[nov12 - 24 * H, 500, 5, 400, 0], [nov12, 810, 9, 606, 7], [nov13, 50, 2, 35, 0]])
   })
   it('daily: finds midnight on the day the clocks go back', () => {
     const nov1 = Date.UTC(2026, 10, 1, 4) // 00:00 EDT; the day is 25 hours long
-    const out = liveSeries([[nov1, 1, 0, 1]], 'day', [[nov1 + 24 * H, 5, 0, 2, 3]]) // 23:00 EST, still Nov 1
-    expect(out).toEqual([[nov1, 6, 0, 3]])
+    const out = liveSeries([[nov1, 1, 0, 1, 0]], 'day', [[nov1 + 24 * H, 5, 0, 2, 3]]) // 23:00 EST, still Nov 1
+    expect(out).toEqual([[nov1, 6, 0, 3, 0]])
   })
   it('leaves the chart alone without hours', () => {
-    const series: [number, number, number, number][] = [[h8, 4, 0, 3]]
+    const series: [number, number, number, number, number][] = [[h8, 4, 0, 3, 0]]
     expect(liveSeries(series, 'hour', null)).toBe(series)
     expect(liveSeries(series, 'hour', [])).toBe(series)
     expect(liveSeries([], 'hour', [[h8, 1, 0, 1, 1]])).toEqual([])

@@ -348,6 +348,9 @@ a {
 .a-chart-readout .a-signal-text b {
   color: var(--signal);
 }
+.a-chart-readout .a-ice-text b {
+  color: var(--ice);
+}
 .a-grid {
   stroke: var(--line);
   stroke-width: 1;
@@ -370,6 +373,11 @@ a {
 }
 .a-bar-signal {
   fill: var(--signal);
+}
+/* time-lapse opens: the secondary colour, between the searches' bar and the shares' */
+.a-bar-ice {
+  fill: var(--ice);
+  opacity: 0.72;
 }
 .a-line {
   fill: none;

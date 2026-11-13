@@ -37,7 +37,7 @@
   asked. Never run `supabase/tests/0004_*` against production (its DDL deadlocks against live traffic). Never
   delete real data, and never use a service-role or secret key; only the publishable key, which is public.
 - Analytics props are allow-listed in SQL (`overflight_private.event_props`, latest definition in
-  `supabase/migrations/0013_*`; 0022, not applied yet, adds the time-lapse's events). A new enum value (a search source, an action) is silently stored as null until a
+  `supabase/migrations/0022_*`, which adds the time-lapse's events). A new enum value (a search source, an action) is silently stored as null until a
   migration adds it.
 - Shares keep a capture only from an allow-list of collections in `create_share` (latest definition in
   `supabase/migrations/0012_*`, which adds Sentinel-1 radar); an unknown collection is dropped and the share made
@@ -118,7 +118,8 @@
   the waiting screen develops a small one per year, the big picture shows only when all are in. `Video` renders the
   loop to an MP4 in the browser (`video.ts`: WebCodecs + `mp4-muxer`, a chunk fetched on that press; H.264 first), in
   two presses, because a share sheet or a download only opens inside a press. Its events (`timelapse_open`,
-  `timelapse_share`) are recorded only once 0022 is applied.
+  `timelapse_share`) are allow-listed in 0022 and charted on the admin page by 0024 (a fifth number in the series,
+  `event_hours.timelapse`, and two breakdowns).
 - Back button: layers register with `src/lib/backStack.ts`. Never call `history.pushState` directly.
 - Share has three entry points, each tagged `from` in its events: the headline's second line (the week's summary;
   nothing is stored), the photo viewer, and the pass view (plus the laptop lead photo's icon). The sheet and the

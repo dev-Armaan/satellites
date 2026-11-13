@@ -30,10 +30,11 @@ export interface AdminStats {
   dimTotals: Record<string, number>
   /** Distinct tabs (per day, summed) that reached each stage */
   funnel: Record<string, number>
-  /** [bucket start ms, searches, shares, sessions] */
-  series: [number, number, number, number][]
+  /** [bucket start ms, searches, shares, sessions, time-lapse opens (0 from a database before 0024)] */
+  series: [number, number, number, number, number][]
   /** 'search.label', 'search.country', 'search.source', 'search.cell', 'session.device', 'session.country',
-   *  'session.ref', 'session.utm', 'pass_open.sat', 'pass_open.verdict', 'share_action.sat', 'share_action.action' */
+   *  'session.ref', 'session.utm', 'pass_open.sat', 'pass_open.verdict', 'share_action.sat', 'share_action.action',
+   *  'timelapse_open.from', 'timelapse_share.action' (0024) */
   top: Record<string, Ranked>
   results: { n: number; p50Ms: number | null; p90Ms: number | null; partial: number; archiveFailed: number }
   vitals: { n: number; lcp: number | null; inp: number | null; cls: number | null }
@@ -181,7 +182,7 @@ export function parseStats(v: unknown): AdminStats | null {
     recorded: { search: recorded('search'), session: recorded('session') },
     dimTotals: rec(v.dimTotals),
     funnel: rec(v.funnel),
-    series: Array.isArray(v.series) ? v.series.filter(Array.isArray).map((s) => [num(s[0]), num(s[1]), num(s[2]), num(s[3])] as [number, number, number, number]) : [],
+    series: Array.isArray(v.series) ? v.series.filter(Array.isArray).map((s) => [num(s[0]), num(s[1]), num(s[2]), num(s[3]), num(s[4])] as [number, number, number, number, number]) : [],
     top,
     results: { n: num(r.n), p50Ms: numOrNull(r.p50Ms), p90Ms: numOrNull(r.p90Ms), partial: num(r.partial), archiveFailed: num(r.archiveFailed) },
     vitals: { n: num(vi.n), lcp: numOrNull(vi.lcp), inp: numOrNull(vi.inp), cls: numOrNull(vi.cls) },

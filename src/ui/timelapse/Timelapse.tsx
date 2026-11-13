@@ -14,13 +14,15 @@
  *    dips toward the ink between two frames. Opacity only, on the compositor.
  *  - The time line is true to scale: each tick sits at its frame's real date, so a year with no clear look is a
  *    visible gap, not a hidden one. The big readout is the frame's own year, with its date and satellite.
+ *  - The loop can be kept: `Video` renders it to an MP4 in the browser (./video.ts, fetched on that press) and a
+ *    second press saves or shares the file.
  *  - Drag across the picture to scrub (right is later, as on the time line under it), tap to play or pause; the
  *    keys do the same (Space, ← →, Home, End). Reduced motion: nothing plays by itself and steps are cuts.
  *
  * It owns Esc (capture phase, preventDefault) and a back-stack layer, and follows the overlay contract
  * (<html data-overlay="timelapse">) so the globe rests under it.
  */
-import { useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState } from 'react'
+import { useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState, type CSSProperties } from 'react'
 import { createPortal } from 'react-dom'
 import { FRAME_HALF_KM, type Frame, type Timelapse as TimelapseData } from '@/imagery/timelapse'
 import { useBackLayer } from '@/lib/backStack'
@@ -39,7 +41,7 @@ const LAST_HOLD_MS = 2800
 /** A press that moves less than this is a tap (play / pause), not a scrub. */
 const TAP_SLOP_PX = 8
 /** Two year labels on the time line closer than this share of its width would run into each other. */
-const MIN_LABEL_GAP = 0.07
+const MIN_LABEL_GAP = 0.1
 const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
 
 const yearOf = (date: string) => date.slice(0, 4)
@@ -195,15 +197,16 @@ function Player({ place, from, mobile, onClose }: TimelapseProps) {
   const tools = (
     <div className={s.tools}>
       <CopyLink place={place} ready={!!data} />
+      {frames && canEncodeVideo() ? <VideoButton key={frames[0].src} frames={frames} place={place} mobile={mobile} onStart={() => setPlaying(false)} /> : null}
     </div>
   )
   const note = (
     <p className={s.note}>
       {frame ? (
-        <>
-          Each frame is the same {FRAME_HALF_KM * 2} km square, taken by Sentinel-2 and toned like every photo here. Each
-          year aims for a different season; a year with no clear look is left out.
-        </>
+        <span className={s.noteText}>
+          Each frame is the same {FRAME_HALF_KM * 2} km square, taken by Sentinel-2 and toned like every photo here. Each year aims for a different season; a
+          year with no clear look is left out.
+        </span>
       ) : null}
       <span className={s.credit}>{frames?.length ? `Contains modified Copernicus Sentinel data ${yearSpan(frames)}` : 'Copernicus Sentinel-2, via Planetary Computer'}</span>
     </p>
@@ -268,7 +271,7 @@ function Player({ place, from, mobile, onClose }: TimelapseProps) {
 
 /** One line under the time line: what is on screen, or what the instrument is doing. */
 function caption(run: RunState, data: TimelapseData | undefined): string {
-  if (data) return `${data.frames.length} clear looks · one a year · through the seasons`
+  if (data) return `${data.frames.length} clear looks · one a year`
   if (run.phase === 'short') return 'No time-lapse for this place'
   if (run.phase === 'error') return 'The archive did not answer'
   return 'One clear look a year · since 2015'
@@ -536,6 +539,86 @@ function CopyLink({ place, ready }: { place: TimelapseProps['place']; ready: boo
     <Button size="sm" onClick={press} disabled={!ready} aria-live="polite" className={s.copy}>
       <Glyph name="share" size={11} />
       {copied ? 'Link copied' : 'Share'}
+    </Button>
+  )
+}
+
+// ── The video ──────────────────────────────────────────────────────────────────────────────
+
+/** Is there an encoder to ask? (Which codec it takes is settled when the video is made: ./video.ts.) */
+const canEncodeVideo = () => typeof VideoEncoder === 'function' && typeof VideoFrame === 'function'
+
+type VideoState = { phase: 'idle' } | { phase: 'busy'; done: number } | { phase: 'ready'; file: File; everywhere: boolean } | { phase: 'failed' }
+
+/**
+ * The loop as a file. Two presses on purpose: the first makes it (a few seconds, with its progress on the button),
+ * the second saves or shares it. A browser only lets a page open the share sheet or start a download inside a press,
+ * and the press that started the rendering is long over by the time the file exists.
+ */
+function VideoButton({ frames, place, mobile, onStart }: { frames: Frame[]; place: TimelapseProps['place']; mobile: boolean; onStart: () => void }) {
+  const [state, setState] = useState<VideoState>({ phase: 'idle' })
+  const abort = useRef<AbortController | null>(null)
+  useEffect(() => () => abort.current?.abort(), [])
+  useEffect(() => {
+    if (state.phase !== 'failed') return
+    const timer = setTimeout(() => setState({ phase: 'idle' }), 2400)
+    return () => clearTimeout(timer)
+  }, [state.phase])
+
+  const make = async () => {
+    onStart()
+    const ctl = new AbortController()
+    abort.current = ctl
+    setState({ phase: 'busy', done: 0 })
+    try {
+      const { renderVideo, videoFileName } = await import('./video')
+      // A phone's frames are 640 px: 720 keeps them honest. A laptop's are the scene's own 1000.
+      const v = await renderVideo(frames, { side: mobile ? 720 : 1080, place: place.label, signal: ctl.signal, onProgress: (done) => !ctl.signal.aborted && setState({ phase: 'busy', done }) })
+      if (ctl.signal.aborted) return
+      setState({ phase: 'ready', file: new File([v.blob], videoFileName(place.label, frames), { type: 'video/mp4' }), everywhere: v.codec === 'avc' })
+    } catch (err) {
+      if (ctl.signal.aborted) return
+      console.error(err)
+      setState({ phase: 'failed' })
+    }
+  }
+
+  const save = (file: File) => {
+    track('timelapse_share', { action: 'video' })
+    const coarse = window.matchMedia?.('(pointer: coarse)').matches
+    if (coarse && navigator.canShare?.({ files: [file] })) {
+      navigator.share({ files: [file], title: `${place.label}, year by year` }).catch(() => undefined)
+      return
+    }
+    const url = URL.createObjectURL(file)
+    const a = document.createElement('a')
+    a.href = url
+    a.download = file.name
+    document.body.appendChild(a)
+    a.click()
+    a.remove()
+    setTimeout(() => URL.revokeObjectURL(url), 60_000)
+  }
+
+  if (state.phase === 'ready') {
+    return (
+      <Button size="sm" variant="primary" onClick={() => save(state.file)} className={s.video} title={state.everywhere ? undefined : 'This browser has no H.264 encoder: the file plays in Chrome and Firefox'}>
+        <Glyph name="download" size={11} />
+        Save video
+      </Button>
+    )
+  }
+  const busy = state.phase === 'busy'
+  return (
+    <Button size="sm" onClick={make} disabled={busy} aria-live="polite" className={cx(s.video, busy && s.videoBusy)} style={busy ? ({ '--done': state.done } as CSSProperties) : undefined}>
+      {busy ? (
+        <span className={s.videoPct}>Rendering {pad2(Math.min(99, Math.round(state.done * 100)))}%</span>
+      ) : (
+        <>
+          <Glyph name="play" size={10} />
+          {state.phase === 'failed' ? 'Video failed' : 'Video'}
+        </>
+      )}
     </Button>
   )
 }

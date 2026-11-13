@@ -562,12 +562,36 @@
 .tools {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-start;
   gap: var(--s-3);
   margin-top: var(--s-4);
 }
 .copy {
   flex: none;
+}
+.video {
+  flex: none;
+  position: relative;
+  min-width: 132px;
+  overflow: hidden;
+}
+/* Rendering: the button is its own hairline bar, filling left to right. */
+.videoBusy:disabled {
+  opacity: 1;
+  color: var(--bone);
+}
+.videoBusy::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: var(--ink-3);
+  transform-origin: 0 50%;
+  transform: scaleX(var(--done, 0));
+  transition: transform var(--d-sm) linear;
+}
+.videoPct {
+  position: relative;
+  font-variant-numeric: tabular-nums;
 }
 .note {
   margin: var(--s-3) 0 0;
@@ -655,5 +679,54 @@
   }
   .overlay:not(.mobile) .side {
     display: none;
+  }
+}
+
+/* A phone held sideways: the picture takes the height, and the time line, the tools and the note sit beside it. */
+@media (orientation: landscape) and (max-height: 520px) {
+  .mobile {
+    --bar-h: calc(44px + env(safe-area-inset-top, 0px));
+    --side: min(calc(100dvh - var(--bar-h) - 16px), 46vw);
+  }
+  .mobile .body {
+    padding: var(--s-2) var(--pad) var(--s-2);
+  }
+  .mobile .main {
+    display: grid;
+    grid-template-columns: var(--side) minmax(0, 1fr);
+    column-gap: var(--s-5);
+    align-content: start;
+  }
+  .mobile .stage {
+    grid-row: 1 / span 4;
+    margin: 0;
+  }
+  .mobile .controls,
+  .mobile .caption,
+  .mobile .tools,
+  .mobile .note {
+    grid-column: 2;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .mobile .controls {
+    margin-top: 0;
+  }
+  .mobile .big {
+    font-size: var(--fs-panel-sub);
+  }
+}
+
+/* A short laptop window: the frame list keeps every year in view; the sentence under it gives way (the credit stays). */
+@media (max-height: 840px) {
+  .side .noteText {
+    display: none;
+  }
+  .side .logRow {
+    padding-top: 6px;
+    padding-bottom: 6px;
+  }
+  .side .credit {
+    margin-top: 0;
   }
 }

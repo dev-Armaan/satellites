@@ -4,10 +4,12 @@
  *
  * Why it looks the way it does:
  *
- *  - It is opened on purpose and takes 8–10 s to gather (imagery/timelapse.ts), so the wait is the instrument at
- *    work: what it is doing in words and counts, and the time line's ticks arriving as each frame is chosen and
- *    lighting as its picture lands. No picture shows until all are in and decoded: frames arriving out of order
- *    would be a slideshow of flashes, and a photo never flickers here.
+ *  - It is opened on purpose and takes 8–12 s to gather (imagery/timelapse.ts), so the wait is a screen of its own
+ *    (owner, 2026-11-13: not a dead panel): the Watched wordmark with its full stop breathing, as on the boot
+ *    screen; a scan line sweeping the frame, the way the sensor reads the ground; what is being done, with its
+ *    count; and a strip with a cell for every year, each developing its own small picture the moment it lands.
+ *    The big picture waits until all are in and decoded: frames arriving out of order at full size would be a
+ *    slideshow of flashes, and a photo never flickers here. Each small one appears once and stays.
  *  - A step is a dissolve of the new frame OVER the last one (which stays opaque under it), so the picture never
  *    dips toward the ink between two frames. Opacity only, on the compositor.
  *  - The time line is true to scale: each tick sits at its frame's real date, so a year with no clear look is a
@@ -26,6 +28,7 @@ import { track } from '@/lib/telemetry'
 import type { TimelapseFrom } from '@/state/timelapse'
 import { Reticle } from '@/ui/results/Reticle'
 import { Button, Glyph, Kbd, cx, useReducedMotion } from '@/ui/system'
+import { WORDMARK_BOX, WORDMARK_DOT, WORDMARK_PATH } from '../../../api/_lib/wordmark'
 import { timelapseLink } from './link'
 import { useTimelapseRun, type RunState } from './run'
 import s from './Timelapse.module.css'
@@ -35,6 +38,8 @@ const HOLD_MS = 1250
 const LAST_HOLD_MS = 2800
 /** A press that moves less than this is a tap (play / pause), not a scrub. */
 const TAP_SLOP_PX = 8
+/** Two year labels on the time line closer than this share of its width would run into each other. */
+const MIN_LABEL_GAP = 0.07
 const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
 
 const yearOf = (date: string) => date.slice(0, 4)
@@ -196,8 +201,8 @@ function Player({ place, from, mobile, onClose }: TimelapseProps) {
     <p className={s.note}>
       {frame ? (
         <>
-          Each frame is the same {FRAME_HALF_KM * 2} km square, taken by Sentinel-2 and toned like every photo here.{' '}
-          A year with no clear look is left out.
+          Each frame is the same {FRAME_HALF_KM * 2} km square, taken by Sentinel-2 and toned like every photo here. Each
+          year aims for a different season; a year with no clear look is left out.
         </>
       ) : null}
       <span className={s.credit}>{frames?.length ? `Contains modified Copernicus Sentinel data ${yearSpan(frames)}` : 'Copernicus Sentinel-2, via Planetary Computer'}</span>
@@ -263,10 +268,7 @@ function Player({ place, from, mobile, onClose }: TimelapseProps) {
 
 /** One line under the time line: what is on screen, or what the instrument is doing. */
 function caption(run: RunState, data: TimelapseData | undefined): string {
-  if (data) {
-    const n = data.frames.length
-    return data.seasonDay !== undefined ? `${n} clear looks · one a year · same season` : `${n} clear looks · one a year`
-  }
+  if (data) return `${data.frames.length} clear looks · one a year · through the seasons`
   if (run.phase === 'short') return 'No time-lapse for this place'
   if (run.phase === 'error') return 'The archive did not answer'
   return 'One clear look a year · since 2015'
@@ -382,24 +384,35 @@ function Waiting({ run, onRetry }: { run: RunState; onRetry: () => void }) {
   // Three steps; the bar fills across all of them.
   const step = run.phase === 'listing' ? 0 : run.phase === 'choosing' ? 1 : 2
   const part = run.phase === 'choosing' ? run.done / Math.max(1, run.total) : run.phase === 'loading' ? run.loaded / Math.max(1, run.dates.length) : 0
-  const lines: [string, string][] = [
-    ['Listing the archive', step > 0 ? 'Done' : '…'],
-    ['Choosing clear looks', run.phase === 'choosing' ? `${pad2(run.done)} / ${pad2(run.total)}` : step > 1 ? 'Done' : '—'],
-    ['Acquiring frames', run.phase === 'loading' ? `${pad2(run.loaded)} / ${pad2(run.dates.length)}` : '—'],
-  ]
+  const status = run.phase === 'listing' ? 'Listing the archive' : run.phase === 'choosing' ? 'Choosing clear looks' : 'Developing frames'
+  const count = run.phase === 'choosing' ? `${pad2(run.done)} / ${pad2(run.total)}` : run.phase === 'loading' ? `${pad2(run.loaded)} / ${pad2(run.dates.length)}` : ''
+  // The strip: a cell for every year asked about, then for every frame chosen, each taking its picture as it lands.
+  const cells: { key: string; year?: string; src?: string }[] =
+    run.phase === 'loading' ? run.dates.map((d) => ({ key: `f${d.t}`, year: d.date.slice(2, 4), src: d.src })) : run.phase === 'choosing' ? Array.from({ length: run.total }, (_, k) => ({ key: `s${k}` })) : []
   return (
-    <div className={s.wait} role="status">
-      <dl className={s.steps}>
-        {lines.map(([label, value], k) => (
-          <div key={label} className={cx(s.stepRow, k === step && s.stepNow, k > step && s.stepLater)}>
-            <dt>{label}</dt>
-            <dd>{value}</dd>
-          </div>
+    <div className={s.wait} role="status" aria-label={`${status}${count ? `, ${count.replace(' / ', ' of ')}` : ''}`}>
+      <span className={s.scan} aria-hidden />
+      <div className={s.mark}>
+        <svg className={s.word} viewBox={WORDMARK_BOX.join(' ')} aria-hidden focusable="false">
+          <path d={WORDMARK_PATH} fill="currentColor" />
+          <circle className={s.wordDot} cx={WORDMARK_DOT.cx} cy={WORDMARK_DOT.cy} r={WORDMARK_DOT.r} />
+        </svg>
+        <span className={s.status}>
+          <span>{status}</span>
+          <span className={s.statusCount}>{count}</span>
+        </span>
+        <span className={s.progress} aria-hidden>
+          <span className={s.progressFill} style={{ transform: `scaleX(${(step + part) / 3})` }} />
+        </span>
+      </div>
+      <div className={s.strip} aria-hidden style={{ gridTemplateColumns: `repeat(${Math.max(1, cells.length)}, minmax(0, 1fr))` }}>
+        {cells.map((c) => (
+          <span key={c.key} className={s.cell}>
+            <span className={s.cellBox}>{c.src ? <img className={s.cellImg} src={c.src} alt="" draggable={false} decoding="async" /> : null}</span>
+            <span className={cx(s.cellYear, c.src && s.cellYearLit)}>{c.year ?? ''}</span>
+          </span>
         ))}
-      </dl>
-      <span className={s.progress} aria-hidden>
-        <span className={s.progressFill} style={{ transform: `scaleX(${(step + part) / 3})` }} />
-      </span>
+      </div>
     </div>
   )
 }
@@ -438,8 +451,19 @@ function Scrubber({ run, i, onJump, onScrub }: { run: RunState; i: number; onJum
     return best
   }
 
-  // Years get their two digits under each tick while there is room for them.
+  // Years get their two digits under each tick while there is room for them. The frames turn through the seasons, so
+  // two can sit a few weeks apart across New Year: a label too close to the one before it gives way (the frame on
+  // view always keeps its own).
   const labelled = ticks.length <= 14
+  const shown = new Set<number>()
+  let last = -1
+  ticks.forEach((tk, k) => {
+    const at = pos(tk.t)
+    if (last < 0 || at - last >= MIN_LABEL_GAP) {
+      shown.add(k)
+      last = at
+    }
+  })
   return (
     <div className={s.scrubWrap}>
       <div
@@ -473,7 +497,7 @@ function Scrubber({ run, i, onJump, onScrub }: { run: RunState; i: number; onJum
         <span className={s.rail} />
         {ticks.map((tk, k) => (
           <span key={tk.key} className={cx(s.tick, tk.lit && s.tickLit, live && k === i && s.tickOn)} style={{ left: `${pos(tk.t) * 100}%` }}>
-            {labelled ? <span className={s.tickLabel}>{tk.date.slice(2, 4)}</span> : null}
+            {labelled && (shown.has(k) || (live && k === i)) && !(live && k !== i && Math.abs(pos(tk.t) - pos(ticks[i].t)) < MIN_LABEL_GAP) ? <span className={s.tickLabel}>{tk.date.slice(2, 4)}</span> : null}
           </span>
         ))}
       </div>

@@ -271,49 +271,87 @@
   inset: 0;
   display: flex;
   flex-direction: column;
-  justify-content: flex-end;
-  gap: var(--s-3);
-  padding: var(--s-5);
+  align-items: center;
+  justify-content: center;
   /* lines waiting to be read: the raster the pushbroom reveal leaves ahead of its front */
-  background: repeating-linear-gradient(to bottom, transparent 0 3px, color-mix(in srgb, var(--line) 55%, transparent) 3px 4px);
+  background: repeating-linear-gradient(to bottom, transparent 0 3px, color-mix(in srgb, var(--line) 45%, transparent) 3px 4px);
+  overflow: hidden;
 }
-.steps {
-  margin: 0;
-  width: min(100%, 320px);
+/* The sensor's line, sweeping the frame top to bottom: a bone core in a signal front, a short trail behind it. */
+.scan {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: -72px;
+  height: 72px;
+  background: linear-gradient(to bottom, transparent, color-mix(in srgb, var(--signal) 9%, transparent));
+  border-bottom: 1px solid color-mix(in srgb, var(--signal) 78%, transparent);
+  animation: tl-scan 3200ms linear infinite;
+  will-change: transform;
+}
+@keyframes tl-scan {
+  to {
+    transform: translateY(calc(var(--side) + 72px));
+  }
+}
+.reduced .scan {
+  display: none;
+}
+.mark {
+  position: relative;
   display: flex;
   flex-direction: column;
-  gap: 7px;
-  padding: 12px 14px 14px;
-  background: var(--ink-0);
-  box-shadow: 0 0 0 1px var(--line);
+  align-items: center;
+  gap: var(--s-4);
+  padding: var(--s-5) var(--s-6);
+  /* a clear field for the mark, fading into the raster */
+  background: radial-gradient(closest-side, var(--ink-1) 62%, transparent);
+}
+.word {
+  display: block;
+  height: clamp(30px, calc(var(--side) * 0.085), 52px);
+  width: auto;
+  color: var(--bone);
+  overflow: visible;
+}
+.wordDot {
+  fill: var(--signal);
+  animation: tl-breathe 2400ms ease-in-out infinite;
+}
+@keyframes tl-breathe {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.28;
+  }
+}
+.reduced .wordDot {
+  animation: none;
+}
+.status {
+  display: flex;
+  gap: var(--s-3);
   font-family: var(--font-mono);
   font-stretch: 87.5%;
-  font-size: var(--fs-readout);
+  font-size: var(--fs-label);
   letter-spacing: var(--track-label);
   text-transform: uppercase;
   font-variant-numeric: tabular-nums;
+  color: var(--bone-2);
+  white-space: nowrap;
 }
-.stepRow {
-  display: flex;
-  justify-content: space-between;
-  gap: var(--s-4);
-  color: var(--bone-3);
-}
-.stepRow dt,
-.stepRow dd {
-  margin: 0;
-}
-.stepNow {
+.statusCount {
   color: var(--bone);
 }
-.stepLater {
-  color: var(--bone-3);
+.statusCount:empty {
+  display: none;
 }
 .progress {
   display: block;
-  width: min(100%, 320px);
+  width: clamp(140px, calc(var(--side) * 0.36), 240px);
   height: 1px;
-  margin-top: calc(-1 * var(--s-3) - 1px);
   background: var(--line-strong);
 }
 .progressFill {
@@ -321,9 +359,55 @@
   height: 100%;
   background: var(--bone);
   transform-origin: 0 50%;
-  transition: transform var(--d-sm) var(--ease-out);
+  transition: transform var(--d-md) var(--ease-out);
+}
+/* The strip: one cell a year along the foot of the frame, each developing its picture as it lands. */
+.strip {
+  position: absolute;
+  left: var(--s-4);
+  right: var(--s-4);
+  bottom: var(--s-4);
+  display: grid;
+  gap: clamp(3px, calc(var(--side) * 0.012), 8px);
+}
+.cell {
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  animation: tl-in var(--d-sm) var(--ease-out) both;
+}
+.cellBox {
+  position: relative;
+  aspect-ratio: 1;
+  background: var(--ink-0);
+  box-shadow: inset 0 0 0 1px var(--line-strong);
+  overflow: hidden;
+}
+.cellImg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  animation: tl-frame var(--d-md) var(--ease-out) both;
+}
+.cellYear {
+  height: 1em;
+  font-family: var(--font-mono);
+  font-stretch: 87.5%;
+  font-size: var(--fs-micro);
+  line-height: 1;
+  font-variant-numeric: tabular-nums;
+  text-align: center;
+  color: var(--bone-3);
+  transition: color var(--d-sm) var(--ease-out);
+}
+.cellYearLit {
+  color: var(--bone);
 }
 .waitPanel {
+  position: relative;
   width: fit-content;
   max-width: 100%;
   display: flex;

@@ -33,8 +33,8 @@ export function forgetTimelapses(): void {
 export type RunState =
   | { phase: 'listing' }
   | { phase: 'choosing'; done: number; total: number }
-  /** `dates`: the frames chosen, oldest first; `loaded` of them have their picture */
-  | { phase: 'loading'; dates: { date: string; t: number }[]; loaded: number }
+  /** `dates`: the frames chosen, oldest first; `loaded` of them have their picture (`src`) */
+  | { phase: 'loading'; dates: { date: string; t: number; src?: string }[]; loaded: number }
   | { phase: 'ready'; timelapse: Timelapse }
   /** Fewer than MIN_FRAMES clear looks: not a time-lapse */
   | { phase: 'short'; frames: number; slots: number }
@@ -71,7 +71,7 @@ export function useTimelapseRun(place: LatLon, px: number, attempt: number): Run
       px,
       signal: ctl.signal,
       onProgress: (p) => {
-        if (p.phase === 'loading') set({ phase: 'loading', dates: p.frames.map((f) => ({ date: f.date, t: f.scene.t })), loaded: p.loaded })
+        if (p.phase === 'loading') set({ phase: 'loading', dates: p.frames.map((f) => ({ date: f.date, t: f.scene.t, src: f.src })), loaded: p.loaded })
         else set(p)
       },
     })

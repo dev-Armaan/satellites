@@ -99,6 +99,10 @@ export const ACTION_NAMES: Record<string, string> = {
   copy_image: 'Copy image',
 }
 
+/** Where a time-lapse was opened from, and how it was shared (0022's events). */
+export const TIMELAPSE_FROM_NAMES: Record<string, string> = { results: 'Row under the photos', viewer: 'Photo viewer', link: 'A shared link' }
+export const TIMELAPSE_ACTION_NAMES: Record<string, string> = { video: 'Video saved', link: 'Link shared' }
+
 export const DEVICE_NAMES: Record<string, string> = { desktop: 'Desktop', phone: 'Phone', tablet: 'Tablet' }
 
 export const VERDICT_NAMES: Record<string, string> = { imaged: 'Watched', likely: 'Likely watched', could: 'Could have pointed here', overhead: 'Passed overhead' }

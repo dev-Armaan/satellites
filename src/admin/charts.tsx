@@ -21,9 +21,9 @@ function useWidth<T extends HTMLElement>(): [React.RefObject<T | null>, number] 
   return [ref, w]
 }
 
-// ── Activity: searches (bars), shares (signal, inside the bars), sessions (step line) ─────────
+// ── Activity: searches (bars), time-lapse opens (ice) and shares (signal) inside them, sessions (step line) ──
 
-export function ActivityChart({ series, bucket }: { series: [number, number, number, number][]; bucket: 'hour' | 'day' }) {
+export function ActivityChart({ series, bucket }: { series: [number, number, number, number, number][]; bucket: 'hour' | 'day' }) {
   const [ref, w] = useWidth<HTMLDivElement>()
   const [hover, setHover] = useState<number | null>(null)
   const H = 188
@@ -33,7 +33,9 @@ export function ActivityChart({ series, bucket }: { series: [number, number, num
   const plotW = Math.max(0, w - right)
   const plotH = H - top - bottom
   const n = series.length
-  const max = niceMax(Math.max(1, ...series.map((s) => Math.max(s[1], s[2], s[3]))))
+  const max = niceMax(Math.max(1, ...series.map((s) => Math.max(s[1], s[2], s[3], s[4]))))
+  // Shown once the range has any (the time-lapse went live on 2026-11-13): before that the readout would be a row of zeros.
+  const lapses = series.some((s) => s[4] > 0)
   const bw = n ? plotW / n : 0
   const gap = bw > 6 ? 1.5 : bw > 3 ? 1 : 0
   const y = (v: number) => top + plotH - (v / max) * plotH
@@ -58,6 +60,11 @@ export function ActivityChart({ series, bucket }: { series: [number, number, num
             <span className="a-signal-text">
               <b>{fmtInt(cur[2])}</b> {cur[2] === 1 ? 'SHARE' : 'SHARES'}
             </span>
+            {lapses ? (
+              <span className="a-ice-text">
+                <b>{fmtInt(cur[4])}</b> {cur[4] === 1 ? 'TIME-LAPSE' : 'TIME-LAPSES'}
+              </span>
+            ) : null}
             <span className="a-dim">
               <b>{fmtInt(cur[3])}</b> {cur[3] === 1 ? 'SESSION' : 'SESSIONS'}
             </span>
@@ -71,7 +78,7 @@ export function ActivityChart({ series, bucket }: { series: [number, number, num
           width={w}
           height={H}
           role="img"
-          aria-label="Searches, shares and sessions over time"
+          aria-label="Searches, time-lapse opens, shares and sessions over time"
           onPointerMove={(e) => {
             const x = e.clientX - e.currentTarget.getBoundingClientRect().left
             setHover(x >= 0 && x < plotW && bw ? Math.min(n - 1, Math.floor(x / bw)) : null)
@@ -92,6 +99,7 @@ export function ActivityChart({ series, bucket }: { series: [number, number, num
             return (
               <g key={s[0]}>
                 {s[1] > 0 && <rect x={x} y={y(s[1])} width={bwi} height={y(0) - y(s[1])} className={i === sel ? 'a-bar a-bar-on' : 'a-bar'} />}
+                {s[4] > 0 && <rect x={x} y={y(s[4])} width={bwi} height={y(0) - y(s[4])} className="a-bar-ice" />}
                 {s[2] > 0 && <rect x={x} y={y(s[2])} width={bwi} height={y(0) - y(s[2])} className="a-bar-signal" />}
               </g>
             )

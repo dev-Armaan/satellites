@@ -7,7 +7,7 @@ import { useCallback, useEffect, useRef, useState, type FormEvent, type ReactNod
 import { Wordmark } from '@/ui/system/Wordmark'
 import { RANGES, currentSession, fetchStats, sendMagicLink, signOut, supabase, takeAuthError, verifyCode, type AdminStats, type Range } from './api'
 import { ActivityChart, Funnel, RankList, Split, WorldMap } from './charts'
-import { ACTION_NAMES, DEVICE_NAMES, SOURCE_NAMES, VERDICT_NAMES, countryName, fmtAgo, fmtInt, fmtUpdated, fmtPct, fmtSec, fmtStamp, maintBehind } from './format'
+import { ACTION_NAMES, DEVICE_NAMES, SOURCE_NAMES, TIMELAPSE_ACTION_NAMES, TIMELAPSE_FROM_NAMES, VERDICT_NAMES, countryName, fmtAgo, fmtInt, fmtUpdated, fmtPct, fmtSec, fmtStamp, maintBehind } from './format'
 
 type View =
   | { kind: 'loading' }
@@ -320,6 +320,11 @@ function Dashboard({ s, busy, onRefresh }: { s: AdminStats; busy: boolean; onRef
   ]
   const r = s.results
   const v = s.vitals
+  // The time-lapse (0022's events; its lists from 0023).
+  const lapseOpens = t.timelapse_open ?? 0
+  const lapseShared = (action: string) => s.top['timelapse_share.action']?.find((x) => x[0] === action)?.[1] ?? 0
+  const lapseVideos = lapseShared('video')
+  const lapseLinks = lapseShared('link')
   const now = useNow(30e3)
   // A database from 0016 on says where the range starts, and its days are US Eastern; before, they were UTC.
   const etDays = s.from != null
@@ -436,8 +441,33 @@ function Dashboard({ s, busy, onRefresh }: { s: AdminStats; busy: boolean; onRef
         </div>
       </Section>
 
+      <Section n={8} title="TIME-LAPSE">
+        <div className="a-grid3">
+          <Panel title="USE" note="Opens are counted each time; a person can open several places.">
+            <dl className="a-facts">
+              <dt>OPENS</dt>
+              <dd>{fmtInt(lapseOpens)}</dd>
+              <dt>PER RESULTS SHOWN</dt>
+              <dd>{t.results ? fmtPct(lapseOpens / t.results) : '—'}</dd>
+              <dt>VIDEOS SAVED · LINKS SHARED</dt>
+              <dd>
+                {fmtInt(lapseVideos)} · {fmtInt(lapseLinks)}
+              </dd>
+              <dt>SHARED PER OPEN</dt>
+              <dd>{lapseOpens ? fmtPct((t.timelapse_share ?? 0) / lapseOpens) : '—'}</dd>
+            </dl>
+          </Panel>
+          <Panel title="OPENED FROM">
+            <Split rows={s.top['timelapse_open.from']} total={s.dimTotals['timelapse_open.from'] ?? lapseOpens} names={TIMELAPSE_FROM_NAMES} />
+          </Panel>
+          <Panel title="SHARED AS">
+            <Split rows={s.top['timelapse_share.action']} total={s.dimTotals['timelapse_share.action'] ?? t.timelapse_share} names={TIMELAPSE_ACTION_NAMES} />
+          </Panel>
+        </div>
+      </Section>
+
       <div className="a-cols">
-        <Section n={8} title="RECENT SEARCHES">
+        <Section n={9} title="RECENT SEARCHES">
           {s.recentSearches.length ? (
             <ul className="a-feed">
               {s.recentSearches.map((x, i) => (
@@ -454,7 +484,7 @@ function Dashboard({ s, busy, onRefresh }: { s: AdminStats; busy: boolean; onRef
             <p className="a-empty">No searches in this range.</p>
           )}
         </Section>
-        <Section n={9} title="RECENT ERRORS">
+        <Section n={10} title="RECENT ERRORS">
           {s.recentErrors.length ? (
             <ul className="a-feed">
               {s.recentErrors.map((x, i) => (

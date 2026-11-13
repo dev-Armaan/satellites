@@ -95,6 +95,23 @@ describe('recorded counts (0015)', () => {
   })
 })
 
+describe('the time-lapse in the stats (0023)', () => {
+  it('reads a fifth number from each point of the series, and 0 from a database before it', () => {
+    const s = parseStats({ range: '24h', series: [[1, 10, 2, 8, 3], [2, 5, 0, 4]] })!
+    expect(s.series).toEqual([[1, 10, 2, 8, 3], [2, 5, 0, 4, 0]])
+  })
+  it('has a name for every way in and every way of sharing the client reports', async () => {
+    const { TIMELAPSE_ACTION_NAMES, TIMELAPSE_FROM_NAMES } = await import('./format')
+    for (const from of ['results', 'viewer', 'link']) expect(TIMELAPSE_FROM_NAMES[from]).toBeTruthy()
+    for (const action of ['video', 'link']) expect(TIMELAPSE_ACTION_NAMES[action]).toBeTruthy()
+  })
+  it('is in the fixture, so the page can be looked at without a database', () => {
+    const m = mockStats('7d', Date.UTC(2026, 10, 13, 12))
+    expect(m.totals.timelapse_open).toBe(m.series.reduce((a, p) => a + p[4], 0))
+    expect(m.top['timelapse_open.from'].map((r) => r[0])).toEqual(['results', 'viewer', 'link'])
+  })
+})
+
 describe('cached stats', () => {
   it('parses cachedAt, null from a database before 0009', () => {
     const now = Date.UTC(2026, 10, 10, 12)

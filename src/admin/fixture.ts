@@ -45,11 +45,12 @@ export function mockStats(range: Range, now = Date.now()): AdminStats {
     const s = Math.round(base * (0.55 + r() * 0.9))
     let sh = 0
     for (let j = 0; j < s; j++) if (r() < 0.07) sh++
-    series.push([t, s, sh, Math.round(s * (0.7 + r() * 0.25))])
+    series.push([t, s, sh, Math.round(s * (0.7 + r() * 0.25)), Math.round(s * (0.05 + r() * 0.06))])
   }
   const searches = series.reduce((a, s) => a + s[1], 0)
   const shares = series.reduce((a, s) => a + s[2], 0)
   const sessions = Math.round(searches * 0.83)
+  const lapses = series.reduce((a, s) => a + s[4], 0)
   const k = (x: number) => Math.max(1, Math.round(x * scale))
   const places = PLACES.map(([l, , , c]) => [l, k(c)] as [string, number])
   const countries: Record<string, number> = {}
@@ -82,6 +83,8 @@ export function mockStats(range: Range, now = Date.now()): AdminStats {
       about_open: Math.round(sessions * 0.07),
       share_open: Math.round(shares * 1.6),
       share_action: shares,
+      timelapse_open: lapses,
+      timelapse_share: Math.round(lapses * 0.075),
       error: k(6),
       vitals: Math.round(sessions * 0.6),
     },
@@ -93,6 +96,8 @@ export function mockStats(range: Range, now = Date.now()): AdminStats {
       'search.country': Object.entries(countries).sort((a, b) => b[1] - a[1]),
       'search.source': [['search', k(310)], ['example', k(96)], ['share_link', k(64)], ['near_me', k(41)], ['surprise', k(26)], ['deep_link', k(23)], ['pin', k(19)], ['retry', k(4)]],
       'search.cell': cells,
+      'timelapse_open.from': [['results', Math.round(lapses * 0.68)], ['viewer', Math.round(lapses * 0.31)], ['link', Math.max(1, Math.round(lapses * 0.01))]],
+      'timelapse_share.action': [['video', Math.round(lapses * 0.061)], ['link', Math.round(lapses * 0.014)]],
       'session.device': [['desktop', k(298)], ['phone', k(251)], ['tablet', k(19)]],
       'session.country': [['ca', k(150)], ['us', k(131)], ['gb', k(66)], ['de', k(31)], ['in', k(28)], ['jp', k(19)], ['au', k(15)], ['fr', k(12)]],
       'session.ref': [['t.co', k(140)], ['news.ycombinator.com', k(88)], ['reddit.com', k(41)], ['linkedin.com', k(17)], ['google.com', k(12)], ['bsky.app', k(9)]],

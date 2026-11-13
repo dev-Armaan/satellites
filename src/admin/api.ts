@@ -120,7 +120,7 @@ export interface LiveCounts {
   search: number
   session: number
   share_action: number
-  /** The same counts hour by hour, for the activity chart (0024). Null from a database before 0024, and until the
+  /** The same counts hour by hour, for the activity chart (0025). Null from a database before 0025, and until the
    *  first hourly refresh after it: the chart then stays as the stats have it. */
   hours: LiveHour[] | null
 }

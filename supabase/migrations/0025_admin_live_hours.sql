@@ -1,4 +1,5 @@
--- 0024: the admin page's activity chart is current too: the live counts come hour by hour.
+-- 0025: the admin page's activity chart is current too: the live counts come hour by hour.
+-- (Applied to production on 2026-11-13 as 0024_admin_live_hours.sql, before the time-lapse's 0024 took the number.)
 --
 -- 0023 gave the page three totals counted since the stored stats. The chart (searches, shares and sessions per hour, or
 -- per day in 30d and all) still waited for the hourly refresh, so its last bar stood near zero for most of each hour.
@@ -136,7 +137,7 @@ begin
 
   -- Count them (and a new tab) for the overall limit. 16 rows a minute, by tab, so concurrent batches rarely wait on
   -- the same row. The same row counts the batch's searches, shares and tabs for admin_live (0023), and the tabs active
-  -- this hour (0024). A row an earlier log_events made has nulls there, and stays null: that minute was not counted in
+  -- this hour (0025). A row an earlier log_events made has nulls there, and stays null: that minute was not counted in
   -- full.
   insert into overflight_private.event_rate as r (minute, shard, n, searches, shares, tabs, active)
   values (v_minute, hashtext(v_sid) & 15, v_take + case when v_known then 0 else 1 end, v_searches, v_shares, v_tabs, v_active)

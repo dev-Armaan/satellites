@@ -1,4 +1,4 @@
--- Checks for 0024_admin_live_hours.sql. Run as begin; <0024>; <this file>; rollback.  Nothing survives.
+-- Checks for 0025_admin_live_hours.sql. Run as begin; <0025>; <this file>; rollback.  Nothing survives.
 -- Row writes only (test tabs and their events, counter rows, a test admin, the stored stats' rows), all rolled back.
 -- Quick: nothing is computed. As 0023's test: the test tabs share one of this minute's counter rows, and admin_live is
 -- tested on hours a day ahead, which live traffic never writes.
@@ -14,7 +14,7 @@ declare
     jsonb_build_object('type', 'search', 'p', jsonb_build_object('source', 'search')));
 begin
   select array_agg(s) into v_sid from (
-    select s from (select 'test24_sid_' || lpad(g::text, 8, '0') s from generate_series(1, 400) g) x
+    select s from (select 'test25_sid_' || lpad(g::text, 8, '0') s from generate_series(1, 400) g) x
     where hashtext(s) & 15 = 5 limit 4) y;
   if cardinality(v_sid) <> 4 then raise exception 'test: no four tabs on one counter row'; end if;
 
@@ -52,7 +52,7 @@ begin
   update overflight_private.event_rate set active = null where minute = v_min and shard = 5;
   perform public.log_events(jsonb_build_object('sid', v_sid[4], 'events', batch));
   select tabs t, active a, searches s into v_a from overflight_private.event_rate where minute = v_min and shard = 5;
-  if v_a.a is not null or v_a.t <> v_b.t + 1 or v_a.s <> v_b.s + 1 then raise exception 'row from before 0024: active % tabs % searches %', v_a.a, v_a.t - v_b.t, v_a.s - v_b.s; end if;
+  if v_a.a is not null or v_a.t <> v_b.t + 1 or v_a.s <> v_b.s + 1 then raise exception 'row from before 0025: active % tabs % searches %', v_a.a, v_a.t - v_b.t, v_a.s - v_b.s; end if;
 
   if has_function_privilege('anon', 'public.admin_live(text)', 'execute') then raise exception 'grants: anon can call admin_live'; end if;
   if not has_function_privilege('authenticated', 'public.admin_live(text)', 'execute') then raise exception 'grants: authenticated cannot call admin_live'; end if;
@@ -118,7 +118,7 @@ begin
   if v ? 'hours' or (v ->> 'search') <> '48' or (v ->> 'session') <> '21' then raise exception 'a minute without active counts: %', v; end if;
   v := public.admin_live('all');
   if v -> 'hours' <> '[]'::jsonb or (v ->> 'search') <> '0' or (v ->> 'session') <> '0' then raise exception 'nothing since the stats: %', v; end if;
-  raise notice '0024 checks passed';
+  raise notice '0025 checks passed';
 end
 $$;
 reset role;

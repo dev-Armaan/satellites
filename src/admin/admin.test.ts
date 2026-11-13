@@ -118,7 +118,7 @@ describe('live counts (0023)', () => {
   const answer = { range: '7d', since: now - 30 * 60e3, at: now, search: 35, share_action: 4, session: 17 }
   it('parses the counts, and none when the database gives none', () => {
     expect(parseLive(answer)).toEqual({ ...answer, hours: null })
-    // 0024: the same counts hour by hour, or none of them if any is not five numbers
+    // 0025: the same counts hour by hour, or none of them if any is not five numbers
     const hours = [[now - 30 * 60e3, 35, 4, 17, 20]]
     expect(parseLive({ ...answer, hours })?.hours).toEqual(hours)
     expect(parseLive({ ...answer, hours: [[now, 1, 2, 3]] })?.hours).toBeNull()
@@ -152,7 +152,7 @@ describe('live counts (0023)', () => {
   })
 })
 
-describe('activity chart with the live counts (0024)', () => {
+describe('activity chart with the live counts (0025)', () => {
   const H = 3600e3
   const h8 = Date.UTC(2026, 10, 13, 8) // 03:00 EST
   it('hourly: adds an hour to its bar, with the tabs active in it, and adds bars past the last one', () => {

@@ -1,5 +1,5 @@
 /**
- * The activity chart with the live counts in it (admin_live's `hours`, 0024).
+ * The activity chart with the live counts in it (admin_live's `hours`, 0025).
  *
  * The chart's series is computed hourly with the rest of the stats, so on its own the newest bar holds only what
  * happened before the top of the hour. The database also counts searches, shares and tabs as their events arrive, hour

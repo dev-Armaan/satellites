@@ -37,7 +37,7 @@
   asked. Never run `supabase/tests/0004_*` against production (its DDL deadlocks against live traffic). Never
   delete real data, and never use a service-role or secret key; only the publishable key, which is public.
 - Analytics props are allow-listed in SQL (`overflight_private.event_props`, latest definition in
-  `supabase/migrations/0013_*`). A new enum value (a search source, an action) is silently stored as null until a
+  `supabase/migrations/0013_*`; 0022, not applied yet, adds the time-lapse's events). A new enum value (a search source, an action) is silently stored as null until a
   migration adds it.
 - Shares keep a capture only from an allow-list of collections in `create_share` (latest definition in
   `supabase/migrations/0012_*`, which adds Sentinel-1 radar); an unknown collection is dropped and the share made
@@ -102,6 +102,14 @@
   checked coordinates, and rebuild). A search asks the network only when the list has < 3 matches and none exact
   (~2% of searches): Open-Meteo first (free tier ~10,000 requests a day), Photon if Open-Meteo is slow or empty;
   later rows only ever join below the offline ones. Pins far from a town ask Photon, then Nominatim.
+- Time-lapse (`src/imagery/timelapse.ts`, `src/ui/timelapse/`): the place's clear Sentinel-2 looks, one a year (or the
+  last twelve months), as a loop. Nothing of it loads or is asked until someone opens it (its own chunk; the row under
+  the photos, the viewer's button, or a `?tl=years|seasons` link), and every request goes from the browser to Planetary
+  Computer: keep both true. Frames need no alignment because every crop is on the place's grid, and they come from ONE
+  tile and orbit (two light searches: which geometry, then its scenes; all geometries at once overflow the archive's
+  1000-scene page over deserts). Its pictures stay out of the photo cache (they are released when it is dropped), and
+  no picture shows until all are in. Its events (`timelapse_open`, `timelapse_share`) are recorded only once 0022 is
+  applied.
 - Back button: layers register with `src/lib/backStack.ts`. Never call `history.pushState` directly.
 - Share has three entry points, each tagged `from` in its events: the headline's second line (the week's summary;
   nothing is stored), the photo viewer, and the pass view (plus the laptop lead photo's icon). The sheet and the

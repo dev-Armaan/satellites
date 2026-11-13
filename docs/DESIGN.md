@@ -161,7 +161,7 @@ Source of truth: `VERDICT_META` in `src/ui/results/lib/meta.ts` (the share cards
   - **Phones** (stacked layout or the mobile tier): 1k at first light → the **2k day + night pair in ONE swap**, and 2k is
     final (no 4k / 8k on phones). Clouds stay 1k, and go to 2k only after the camera has rested zoomed in for ~1.5 s.
     At most one visible sharpening, ideally before the landing's entrance ends.
-- Overlays that cover the globe (`<html data-overlay="lightbox|about|share">`, see ARCHITECTURE.md) pause or throttle it.
+- Overlays that cover the globe (`<html data-overlay="lightbox|about|share|timelapse">`, see ARCHITECTURE.md) pause or throttle it.
 
 ## 10. The loading screen
 

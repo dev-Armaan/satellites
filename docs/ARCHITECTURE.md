@@ -168,11 +168,11 @@ full stop, painted before any script runs (DESIGN §10). React never renders a b
   share links wait up to 1.2 s more for the sharp day map (R2K2).
 
 ### Overlays over the globe: `<html data-overlay>`
-A full-screen overlay that covers the globe sets `document.documentElement.dataset.overlay` to `'lightbox'`, `'about'`
-or `'share'` while it is open, and deletes it as soon as its close animation STARTS (so the globe renders a fresh frame
+A full-screen overlay that covers the globe sets `document.documentElement.dataset.overlay` to `'lightbox'`, `'about'`,
+`'share'` or `'timelapse'` while it is open, and deletes it as soon as its close animation STARTS (so the globe renders a fresh frame
 behind the exit). The globe owns the reader (R3-16): while the attribute is set it pauses (or drops to ≤ 2 fps), and it
 renders a fresh frame in the same frame the attribute goes, with no stale frame or flash. Writers: the Lightbox, the
-About page (it restores an earlier `'lightbox'` value on close), and the share sheet on stacked layouts only (the
+About page and the time-lapse (each restores an earlier `'lightbox'` value on close), and the share sheet on stacked layouts only (the
 desktop and landscape-phone share dialogs leave the globe visible around them, so they don't set it).
 
 ### UI entrance → globe frame: `watched:ui-entrance` (`src/lib/uiEvents.ts`)

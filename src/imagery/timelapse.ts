@@ -12,10 +12,10 @@
  *    placeGrid), so the same ground is under the same pixel in every year. They are taken from ONE tile and ONE
  *    relative orbit (the pair with the most scenes), so the satellite looks from the same side every time and tall
  *    buildings do not lean back and forth.
- *  - It keeps to one season where there are seasons (the same ±45 days of every year, the stretch with a nearly
- *    cloud-free scene in the most years), so what changes between frames is the place, not the leaves or the snow.
- *    Inside the tropics there is no such season and far fewer clear days: any day of the year counts (Singapore: 2
- *    frames with a season, 10 of 10 years without).
+ *  - The years turn through the seasons (owner, 2026-11-13): each year aims for the next quarter of the calendar
+ *    (January, April, July, October, by the year's number), so a loop shows the place under snow, in leaf and dry,
+ *    not eleven of the same afternoon. It is an aim, not a rule: a year whose quarter has no clear look takes its
+ *    least cloudy scene of any date (Singapore gets 10 of 10 years that way, 2 if a season were required).
  *  - A scene's cloud percentage is for its whole 110 km tile. Each slot's least cloudy scenes are checked at the
  *    place itself (the cloud mask the photos already use), least cloudy first, and the first that shows at least
  *    95 % of the square is kept: usually the first one asked.
@@ -50,15 +50,17 @@ const MIN_CLEAR = 0.95
 /** Scenes of one slot whose clear shares are this close show the same ground (firstClear), if it is at least this much. */
 const SAME_GROUND = 0.03
 const MIN_GROUND_CLEAR = 0.6
-/** A scene counts toward a season when it is within this of the season's middle day. */
+/** A scene is of the aimed-for quarter when it is within this many days of its middle. */
 const SEASON_HALF_DAYS = 45
+/** The middle day of each quarter a year can aim for (mid-January, mid-April, mid-July, mid-October). */
+export const SEASON_DAYS = [15, 105, 196, 288] as const
+/** Scenes of the aimed-for quarter asked about before any other date of the year gets a turn. */
+const SEASON_TRIES = 3
 /** Scenes asked about per slot before giving the slot up, and how many more a hazy pick may try. */
 const TRIES = 5
 const HAZE_RETRIES = 2
 /** Scene cloud above which a scene is not listed at all. */
 const MAX_SCENE_CLOUD = 50
-/** Between the tropics there is no season to keep to. */
-const TROPIC_LAT = 23.5
 /** A pick is hazy when its blue floor is this far above the place's median. */
 const HAZE_RATIO = 1.7
 const HAZE_MARGIN = 0.012
@@ -76,14 +78,15 @@ export interface Scene {
 }
 
 export interface Slot {
+  /** The year */
   key: string
-  /** Scenes to ask about, best first */
+  /** Scenes to ask about, best first: the aimed-for quarter's, then the rest of the year's */
   candidates: Scene[]
+  /** How many of them, at the front, are of the aimed-for quarter */
+  inSeason: number
 }
 
 export interface TimelapsePlan {
-  /** Middle day of the season kept to (day of the year, 0-based); undefined when any day counts */
-  seasonDay?: number
   slots: Slot[]
 }
 
@@ -100,13 +103,13 @@ export interface Frame {
 export type TimelapseProgress =
   | { phase: 'listing' }
   | { phase: 'choosing'; done: number; total: number }
-  | { phase: 'loading'; frames: Omit<Frame, 'src'>[]; loaded: number }
+  /** `src` is set on a frame once its picture is in */
+  | { phase: 'loading'; frames: (Omit<Frame, 'src'> & { src?: string })[]; loaded: number }
 
 export interface Timelapse {
   frames: Frame[]
   /** Years that had scenes to ask about */
   slots: number
-  seasonDay?: number
 }
 
 // ── Listing ────────────────────────────────────────────────────────────────────────────────
@@ -249,46 +252,31 @@ export function oneGeometry(scenes: readonly Scene[], lon: number): Scene[] {
   return [...days.values()]
 }
 
-/**
- * The season the frames keep to: the middle day (of ten, mid-February to mid-November) whose ±45 days hold a scene under 10 % cloud in the
- * most years; ties go to the higher sun. Windows that straddle New Year are left out, so a frame's year is the year
- * it was taken. Undefined in the tropics.
- */
-export function seasonDay(scenes: readonly Scene[], place: LatLon): number | undefined {
-  if (Math.abs(place.lat) < TROPIC_LAT) return undefined
-  const solstice = place.lat >= 0 ? 172 : 355
-  let best: { day: number; years: number; off: number } | undefined
-  for (let m = 1; m <= 10; m++) {
-    const day = m * 30.4 + 15
-    const years = new Set<string>()
-    for (const s of scenes) {
-      const d = mosaicDate(s.t, place.lon)
-      if (s.cloud < 10 && Math.abs(dayOfYear(d) - day) <= SEASON_HALF_DAYS) years.add(d.slice(0, 4))
-    }
-    const off = Math.min(Math.abs(day - solstice), 365 - Math.abs(day - solstice))
-    if (!best || years.size > best.years || (years.size === best.years && off < best.off)) best = { day, years: years.size, off }
-  }
-  return best && best.years > 0 ? best.day : undefined
-}
+/** The middle day of the quarter a year aims for: the quarters in turn, by the year's number. */
+export const seasonDayOf = (year: number): number => SEASON_DAYS[((year % 4) + 4) % 4]
 
-/** Which scenes to ask about, slot by slot (oldest slot first), best candidate first. */
+/** Days between two days of the year, the short way round New Year. */
+const dayGap = (a: number, b: number) => Math.min(Math.abs(a - b), 365 - Math.abs(a - b))
+
+/** Which scenes to ask about, year by year (oldest first): the aimed-for quarter's least cloudy, then any date's. */
 export function planTimelapse(all: readonly Scene[], place: LatLon): TimelapsePlan {
-  const scenes = oneGeometry(all, place.lon)
-  const slots = new Map<string, Scene[]>()
-  const put = (key: string, s: Scene) => {
-    const list = slots.get(key)
+  const years = new Map<string, Scene[]>()
+  for (const s of oneGeometry(all, place.lon)) {
+    const y = mosaicDate(s.t, place.lon).slice(0, 4)
+    const list = years.get(y)
     if (list) list.push(s)
-    else slots.set(key, [s])
-  }
-  const season = seasonDay(scenes, place)
-  for (const s of scenes) {
-    const d = mosaicDate(s.t, place.lon)
-    if (season !== undefined && Math.abs(dayOfYear(d) - season) > SEASON_HALF_DAYS) continue
-    put(d.slice(0, 4), s)
+    else years.set(y, [s])
   }
   return {
-    seasonDay: season,
-    slots: [...slots.entries()].sort((a, b) => (a[0] < b[0] ? -1 : 1)).map(([key, list]) => ({ key, candidates: list.sort(byCloud).slice(0, TRIES + HAZE_RETRIES) })),
+    slots: [...years.entries()]
+      .sort((a, b) => (a[0] < b[0] ? -1 : 1))
+      .map(([key, list]) => {
+        const aim = seasonDayOf(Number(key))
+        const near = (s: Scene) => dayGap(dayOfYear(mosaicDate(s.t, place.lon)), aim) <= SEASON_HALF_DAYS
+        const season = list.filter(near).sort(byCloud).slice(0, SEASON_TRIES)
+        const rest = list.filter((s) => !season.includes(s)).sort(byCloud)
+        return { key, candidates: [...season, ...rest].slice(0, TRIES + HAZE_RETRIES), inSeason: season.length }
+      }),
   }
 }
 
@@ -441,22 +429,27 @@ export async function buildTimelapse(place: LatLon, opts: TimelapseOptions): Pro
   const picks = await mapLimit(plan.slots, 6, async (slot, i) => {
     const got = first[i]
     if (!got || !hazy(got.pick.haze)) return got?.pick
-    const other = await firstClear(slot, got.index + 1, HAZE_RETRIES, place, deps, signal)
+    // Only another scene of the same quarter can stand in: snow lifts the blue floor too, and a winter frame must
+    // not lose its place to a summer one for being white.
+    const tries = Math.min(HAZE_RETRIES, slot.inSeason - (got.index + 1))
+    if (tries <= 0) return got.pick
+    const other = await firstClear(slot, got.index + 1, tries, place, deps, signal)
     return other && (other.pick.haze ?? Infinity) < got.pick.haze! ? other.pick : got.pick
   })
   throwIfAborted(signal)
 
   const chosen = picks.filter((p): p is Pick => !!p).sort((a, b) => a.scene.t - b.scene.t)
-  const meta = chosen.map((p) => ({ scene: p.scene, date: mosaicDate(p.scene.t, place.lon), clear: p.clear }))
+  const meta: (Omit<Frame, 'src'> & { src?: string })[] = chosen.map((p) => ({ scene: p.scene, date: mosaicDate(p.scene.t, place.lon), clear: p.clear }))
   let loaded = 0
   onProgress?.({ phase: 'loading', frames: meta, loaded })
   const made: string[] = []
   try {
-    const srcs = await mapLimit(chosen, 6, async (p) => {
+    const srcs = await mapLimit(chosen, 6, async (p, k) => {
       try {
         const src = await deps.frame(p.scene, place, opts.px, signal)
         made.push(src)
-        onProgress?.({ phase: 'loading', frames: meta, loaded: ++loaded })
+        meta[k] = { ...meta[k], src }
+        onProgress?.({ phase: 'loading', frames: [...meta], loaded: ++loaded })
         return src
       } catch (err) {
         if (isAbortError(err) || signal?.aborted) throw err
@@ -464,8 +457,8 @@ export async function buildTimelapse(place: LatLon, opts: TimelapseOptions): Pro
       }
     })
     throwIfAborted(signal)
-    const frames = meta.flatMap((m, i) => (srcs[i] ? [{ ...m, src: srcs[i] }] : []))
-    return { frames, slots: plan.slots.length, seasonDay: plan.seasonDay }
+    const frames = meta.flatMap((m, i) => (srcs[i] ? [{ ...m, src: srcs[i]! }] : []))
+    return { frames, slots: plan.slots.length }
   } catch (err) {
     for (const src of made) URL.revokeObjectURL(src)
     throw err

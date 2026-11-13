@@ -1,5 +1,5 @@
 import { describe, expect, it, vi } from 'vitest'
-import { blueFloor, buildTimelapse, commonGeometry, MIN_FRAMES, noDataShare, oneGeometry, planTimelapse, probeUrl, rankGeometries, sceneOf, sceneSearchUrl, seasonDay, type Scene, type TimelapseDeps, type TimelapseProgress } from './timelapse'
+import { blueFloor, buildTimelapse, commonGeometry, MIN_FRAMES, noDataShare, oneGeometry, planTimelapse, probeUrl, rankGeometries, sceneOf, sceneSearchUrl, seasonDayOf, type Scene, type TimelapseDeps, type TimelapseProgress } from './timelapse'
 
 const TORONTO = { lat: 43.653, lon: -79.384 }
 const SINGAPORE = { lat: 1.352, lon: 103.82 }
@@ -67,30 +67,25 @@ describe('planning', () => {
     expect(kept.find((s) => s.t === Date.parse('2026-08-01T16:10:00Z'))?.cloud).toBe(2)
   })
 
-  it('keeps to the season with a clear scene in the most years, and gives each year its least cloudy scenes first', () => {
-    const all = yearly()
-    const day = seasonDay(all, TORONTO)!
-    expect(day).toBeGreaterThan(180)
-    expect(day).toBeLessThan(260)
-    const plan = planTimelapse(all, TORONTO)
+  it('aims each year at the next quarter of the calendar, in turn', () => {
+    expect([2016, 2017, 2018, 2019, 2020].map(seasonDayOf)).toEqual([15, 105, 196, 288, 15])
+  })
+
+  it('asks about the aimed-for quarter first, then the rest of the year, least cloudy first', () => {
+    const plan = planTimelapse(yearly(), TORONTO)
     expect(plan.slots.map((s) => s.key)).toEqual(['2018', '2019', '2020', '2021', '2022', '2023', '2024', '2025', '2026'])
-    for (const s of plan.slots) expect(s.candidates.map((c) => c.cloud)).toEqual([2, 8]) // February is another season
+    const of = (y: string) => plan.slots.find((s) => s.key === y)!
+    // 2018 aims at July: both August scenes are within 45 days of it; February waits its turn.
+    expect([of('2018').candidates.map((c) => c.cloud), of('2018').inSeason]).toEqual([[2, 8, 30], 2])
+    // 2020 aims at January: the February scene leads although it is the cloudiest.
+    expect([of('2020').candidates.map((c) => c.cloud), of('2020').inSeason]).toEqual([[30, 2, 8], 1])
+    // 2019 aims at October and has nothing near it: any date, least cloudy first.
+    expect([of('2019').candidates.map((c) => c.cloud), of('2019').inSeason]).toEqual([[2, 8, 30], 0])
   })
 
-  it('never picks a season that straddles New Year: a frame’s year is the year it was taken', () => {
-    const winters = [2019, 2020, 2021, 2022].flatMap((y) => [scene(`${y}-12-28`, 1), scene(`${y}-01-05`, 1)])
-    const day = seasonDay(winters, { lat: 25.2, lon: 55.27 })!
-    expect(day - 45).toBeGreaterThanOrEqual(0)
-    expect(day + 45).toBeLessThanOrEqual(365)
-  })
-
-  it('has no season in the tropics: any day of the year counts', () => {
-    const all = [scene('2024-01-05', 20), scene('2024-07-19', 4), scene('2025-10-02', 9)]
-    expect(seasonDay(all, SINGAPORE)).toBeUndefined()
-    expect(planTimelapse(all, SINGAPORE).slots.map((s) => [s.key, s.candidates.map((c) => c.cloud)])).toEqual([
-      ['2024', [4, 20]],
-      ['2025', [9]],
-    ])
+  it('counts December toward the January a year aims at, the short way round New Year', () => {
+    const plan = planTimelapse([scene('2020-12-20', 40), scene('2020-06-01', 1)], SINGAPORE)
+    expect(plan.slots[0].candidates.map((c) => c.cloud)).toEqual([40, 1])
   })
 })
 
@@ -106,7 +101,7 @@ describe('haze', () => {
 describe('building', () => {
   it('takes the least cloudy scene that is clear at the place, one a year, oldest first', async () => {
     const scenes = yearly()
-    const cloudy = new Set(scenes.filter((s) => s.cloud === 2 && new Date(s.t).getUTCFullYear() === 2020).map((s) => s.id))
+    const cloudy = new Set(scenes.filter((s) => s.cloud !== 8 && new Date(s.t).getUTCFullYear() === 2020).map((s) => s.id))
     const asked: string[] = []
     const seen: TimelapseProgress[] = []
     const t = await buildTimelapse(TORONTO, {
@@ -121,18 +116,23 @@ describe('building', () => {
         },
       }),
     })
-    expect(t.frames.map((f) => f.date)).toEqual(['2018-08-10', '2019-08-10', '2020-08-20', '2021-08-10', '2022-08-10', '2023-08-10', '2024-08-10', '2025-08-10', '2026-08-10'])
+    // 2020 and 2024 aim at January and take their February scene; 2020's is cloudy at the place, so August stands in.
+    expect(t.frames.map((f) => f.date)).toEqual(['2018-08-10', '2019-08-10', '2020-08-20', '2021-08-10', '2022-08-10', '2023-08-10', '2024-02-10', '2025-08-10', '2026-08-10'])
     expect(t.frames.every((f) => f.src.startsWith('blob:') && f.clear === 0.99)).toBe(true)
-    expect(asked).toHaveLength(10) // one question a year, two in 2020
+    expect(asked).toHaveLength(11) // one question a year, three in 2020
     expect(seen[0]).toEqual({ phase: 'listing' })
     expect(seen.at(-1)).toMatchObject({ phase: 'loading', loaded: 9 })
   })
 
-  it('swaps a milky frame for a cleaner clear scene of the same year', async () => {
+  it('swaps a milky frame for a cleaner clear scene of the same quarter, never for another season’s', async () => {
     const scenes = yearly()
-    const milky = scenes.find((s) => s.cloud === 2 && new Date(s.t).getUTCFullYear() === 2019)!
-    const t = await buildTimelapse(TORONTO, { px: 640, now: NOW, deps: deps({ scenes, haze: async (s) => (s.id === milky.id ? 0.11 : 0.015) }) })
-    expect(t.frames.map((f) => f.date)[1]).toBe('2019-08-20')
+    const year = (s: Scene) => new Date(s.t).getUTCFullYear()
+    // 2018 aims at July and has two August scenes; 2024 aims at January and has one February scene.
+    const milky = scenes.find((s) => s.cloud === 2 && year(s) === 2018)!
+    const white = scenes.find((s) => s.cloud === 30 && year(s) === 2024)!
+    const both = await buildTimelapse(TORONTO, { px: 640, now: NOW, deps: deps({ scenes, haze: async (s) => (s.id === milky.id || s.id === white.id ? 0.11 : 0.015) }) })
+    expect(both.frames.map((f) => f.date)[0]).toBe('2018-08-20')
+    expect(both.frames.map((f) => f.date)[6]).toBe('2024-02-10') // snow is bright too: it keeps its place
   })
 
   it('takes bright ground the archive calls cloud for what it is: the same share in scene after scene', async () => {

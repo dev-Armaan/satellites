@@ -50,7 +50,7 @@
   the stored stats' `computed_at` (read on every load, Refresh, and every 30 s). Another live number goes there too, as
   one more counter column: never a read of `public.events`. The counters are kept 6 hours. 0025 gives the counts
   hour by hour, with the tabs active in each hour, and the page adds them to the activity chart's bars
-  (`src/admin/live.ts`). 0026 (not applied yet; deploy the page before it) counts time-lapse opens the same way.
+  (`src/admin/live.ts`). 0026 counts time-lapse opens the same way.
   A `--rollback` run of one of these migrations with its test holds `event_rate` for the whole run, and `log_events`
   calls that wait over 3 s are lost (two runs took 5–7 s on 2026-11-13): run such a test once, at a quiet time.
 - Raw events, tabs and lookups are kept 48 hours (0016). Every admin range reads rollups (0019): hourly ones

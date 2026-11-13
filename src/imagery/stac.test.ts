@@ -351,6 +351,62 @@ describe('search', () => {
     expect(r.captures.some((c) => c.collection === 'landsat-c2-l2')).toBe(true)
   })
 
+  /** A request the archive never answers: it ends only when its signal aborts (the timeout, or the caller). */
+  const hang = (init: RequestInit) =>
+    new Promise<Response>((_, reject) => init.signal?.addEventListener('abort', () => reject(new DOMException('aborted', 'AbortError')), { once: true }))
+
+  it('gives a silent Landsat search up after one 8 s attempt and keeps Sentinel-2’s scenes', async () => {
+    vi.useFakeTimers()
+    try {
+      const asked: string[] = []
+      vi.stubGlobal(
+        'fetch',
+        vi.fn(async (url: string, init: RequestInit) => {
+          const collection = askedFor(url, init).collections[0]
+          asked.push(collection)
+          return collection === 'landsat-c2-l2' ? hang(init) : Response.json({ features: s2Items, links: [] })
+        }),
+      )
+      let r: Awaited<ReturnType<typeof searchCapturesDetailed>> | undefined
+      void searchCapturesDetailed(WATERLOO, Date.parse('2026-10-01T00:00:00Z'), Date.parse('2026-11-08T00:00:00Z')).then((v) => (r = v))
+      await vi.advanceTimersByTimeAsync(7_900)
+      expect(r).toBeUndefined()
+      await vi.advanceTimersByTimeAsync(200)
+      // Well inside the report's 20 s: the scenes that did answer are used, with a note about the other archive.
+      expect(r?.captures.length).toBeGreaterThan(0)
+      expect(r?.captures.every((c) => c.collection === 'sentinel-2-l2a')).toBe(true)
+      expect(r?.degraded.join(' ')).toMatch(/Landsat archive unreachable/)
+      expect(asked.filter((c) => c === 'landsat-c2-l2')).toHaveLength(1) // not asked again
+    } finally {
+      vi.useRealTimers()
+    }
+  })
+
+  it('asks Earth Search 8 s into a silent Planetary Computer, in time for the report', async () => {
+    vi.useFakeTimers()
+    try {
+      const t0 = Date.now()
+      let earthSearchAt = -1
+      vi.stubGlobal(
+        'fetch',
+        vi.fn(async (url: string, init: RequestInit) => {
+          if (url.includes('planetarycomputer')) return hang(init)
+          earthSearchAt = Date.now() - t0
+          return Response.json({ features: esItems, links: [] })
+        }),
+      )
+      let r: Awaited<ReturnType<typeof searchCapturesDetailed>> | undefined
+      void searchCapturesDetailed(WATERLOO, Date.parse('2026-10-01T00:00:00Z'), Date.parse('2026-11-08T00:00:00Z')).then((v) => (r = v))
+      await vi.advanceTimersByTimeAsync(8_100)
+      expect(earthSearchAt).toBeGreaterThanOrEqual(8_000)
+      expect(earthSearchAt).toBeLessThan(8_100)
+      expect(r?.captures).toHaveLength(esItems.length)
+      expect(r?.degraded.join(' ')).toMatch(/Earth Search/)
+    } finally {
+      vi.useRealTimers()
+    }
+  })
+
   it('throws only when every archive fails; aborts propagate', async () => {
     vi.stubGlobal('fetch', vi.fn(async () => new Response('down', { status: 503 })))
     await expect(searchCapturesDetailed(WATERLOO, 0, 1e12)).rejects.toThrow(/unreachable/)

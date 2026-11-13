@@ -16,7 +16,7 @@
 import type { Capture, LatLon } from '@/types'
 import { ES_STAC_SEARCH, PC_STAC_SEARCH, type CropOpts, type StacCollection } from './endpoints'
 import { pcCropUrl } from './pcCrop'
-import { fetchJson, HttpError, isAbortError, throwIfAborted } from './net'
+import { fetchJson, HttpError, isAbortError, throwIfAborted, type RetryOptions } from './net'
 import { CROP_HALF_KM, s2EpsgFromItemId, sceneEpsgFromStac, sceneOnPlaceGrid } from '../../api/_lib/toneRender'
 import { RADAR_COLLECTION, RADAR_GSD_M, RADAR_HALF_KM, radarCropUrl, type RadarPol } from './radar'
 
@@ -359,6 +359,19 @@ export function dedupeCandidates(cands: Candidate[], place: LatLon): Candidate[]
 // ── Search ─────────────────────────────────────────────────────────────────────────────────
 
 const SEARCH_TIMEOUT_MS = 12_000
+/**
+ * The week's photo searches (searchCapturesDetailed) get one attempt of this long when the archive is silent. The
+ * report gives the whole leg 20 s (report.ts ARCHIVE_TIMEOUT_MS) and throws everything away at that point, so a
+ * search has to give up early enough for what did answer to be used: with 12 s and a second try, one stalled
+ * collection (24.7 s) cost the report the other collection's scenes, and Earth Search was first asked after the
+ * cap. Now a stalled collection is given up at 8 s and Earth Search has answered or failed by 16 s. Planetary
+ * Computer answers a week's search in about a second; errors that come back quickly are still retried once.
+ */
+const WEEK_SEARCH_TIMEOUT_MS = 8_000
+const WEEK_SEARCH: SearchOptions = { timeoutMs: WEEK_SEARCH_TIMEOUT_MS, retryTimeouts: false }
+
+/** Per-request limits of a search: `timeoutMs` for each page, and whether a page that timed out is asked again. */
+type SearchOptions = Pick<RetryOptions, 'timeoutMs' | 'retryTimeouts'>
 const MAX_PAGES = 10
 
 /** ISO-8601 without milliseconds (what every STAC server accepts). */
@@ -440,9 +453,9 @@ export function _resetSearchTransport(): void {
 }
 
 /** Run a STAC search (GET, see searchPage) and follow `next` links (plain GET, or POST with body/merge). */
-export async function stacSearchAll(url: string, body: Record<string, unknown>, signal?: AbortSignal): Promise<StacItem[]> {
+export async function stacSearchAll(url: string, body: Record<string, unknown>, signal?: AbortSignal, limits: SearchOptions = {}): Promise<StacItem[]> {
   const items = new Map<string, StacItem>()
-  const opts = { signal, timeoutMs: SEARCH_TIMEOUT_MS, retries: 1 }
+  const opts = { signal, timeoutMs: SEARCH_TIMEOUT_MS, retries: 1, ...limits }
   let page = await searchPage(url, body, opts)
   let lastBody = body
   for (let i = 0; ; i++) {
@@ -462,12 +475,12 @@ export async function stacSearchAll(url: string, body: Record<string, unknown>, 
 }
 
 async function searchPcCollection(collection: StacCollection, place: LatLon, start: number, end: number, signal?: AbortSignal) {
-  const items = await stacSearchAll(PC_STAC_SEARCH, searchBody(collection, place, start, end), signal)
+  const items = await stacSearchAll(PC_STAC_SEARCH, searchBody(collection, place, start, end), signal, WEEK_SEARCH)
   return items.map((it) => pcItemToCandidate({ ...it, collection: it.collection ?? collection }, place)).filter((c): c is Candidate => !!c)
 }
 
 async function searchEarthSearchS2(place: LatLon, start: number, end: number, signal?: AbortSignal) {
-  const items = await stacSearchAll(ES_STAC_SEARCH, searchBody('sentinel-2-c1-l2a', place, start, end), signal)
+  const items = await stacSearchAll(ES_STAC_SEARCH, searchBody('sentinel-2-c1-l2a', place, start, end), signal, WEEK_SEARCH)
   return items.map((it) => earthSearchItemToCandidate(it, place)).filter((c): c is Candidate => !!c)
 }
 

@@ -9,15 +9,15 @@
  * (imagery/gibsTiles.ts), which answer in about 0.3 s each. The budget and the rules below stay: a slow
  * connection or a bad day at NASA still leaves stragglers.
  *
- * So verification is issued one mosaic per call (one `weatherCaptures` call per satellite and UTC day,
- * which is exactly one candidate, since daily mosaics are one image per layer per UTC day), results
+ * So verification is issued one mosaic per call (one `weatherCaptures` call per satellite and mosaic day,
+ * which is exactly one candidate, since a daily mosaic is one image per layer per day on the ground), results
  * are collected as they land, and the report can `stop()` at its time budget: everything verified by
  * then is kept, and the stragglers are handled so the headline count doesn't depend on GIBS's speed:
  *
  *  - VIIRS (NOAA-20, NOAA-21, Suomi NPP): the CorrectedReflectance product is global and daily with no
  *    gaps between swaths, so a daylight in-swath pass whose probe is still out at the budget counts as
  *    imaged BY RULE (`byRule()`), but only with evidence that the instrument was producing data and the
- *    day is fully processed: the same satellite has a verified mosaic on a LATER UTC day in this report,
+ *    day is fully processed: the same satellite has a verified mosaic on a LATER mosaic day in this report,
  *    and the pass is over a day old. Measured 2026-11-08 at Waterloo: Suomi NPP's mosaics were empty from
  *    2 Nov (instrument outage) and today's were not processed yet, so an unconditional rule claimed six
  *    photographs that do not exist (and named a satellite in the headline that took none). An explicit
@@ -27,9 +27,9 @@
  *    comes back with pixels is reported through `onLate`, so the report can be patched upward only.
  */
 import { weatherCandidates, weatherCaptures } from '@/imagery'
+import { mosaicDate } from '@/lib/geoCore'
 import type { Capture, LatLon, Pass } from '@/types'
 import { getSatInfo } from './catalog'
-import { utcDay } from './match'
 
 export interface WeatherLeg {
   /** Resolves once every verification has settled, or the leg was stopped. Never rejects. */
@@ -75,15 +75,15 @@ export interface WeatherLegOptions {
 }
 
 const LATE_MS = 20_000
-/** A daily mosaic is complete once its UTC day is this far behind (GIBS near-real-time latency is hours). */
+/** A daily mosaic is complete once its pass is this far behind (GIBS near-real-time latency is hours). */
 const PROCESSED_AFTER_MS = 24 * 3_600_000
 
-/** Passes of satellites whose daily mosaics GIBS serves, grouped by (satellite, UTC day). */
-export function mosaicGroups(passes: readonly Pass[]): Pass[][] {
+/** Passes of satellites whose daily mosaics GIBS serves, grouped by (satellite, mosaic day at longitude `lon`). */
+export function mosaicGroups(passes: readonly Pass[], lon: number): Pass[][] {
   const groups = new Map<string, Pass[]>()
   for (const p of passes) {
     if (getSatInfo(p.norad)?.profile?.gibs?.kind !== 'daily') continue
-    const key = `${p.norad}@${utcDay(p.tClosest)}`
+    const key = `${p.norad}@${mosaicDate(p.tClosest, lon)}`
     const g = groups.get(key)
     if (g) g.push(p)
     else groups.set(key, [p])
@@ -127,7 +127,7 @@ export function startWeatherLeg(place: LatLon, passes: Promise<Pass[]>, opts: We
   const work = passes
     .then(async (list) => {
       if (stopped || ctl.signal.aborted) return
-      const groups = mosaicGroups(list)
+      const groups = mosaicGroups(list, place.lon)
       total = groups.length
       if (!total) return
       startedAt = performance.now()
@@ -190,8 +190,8 @@ export function startWeatherLeg(place: LatLon, passes: Promise<Pass[]>, opts: We
           if (group.length && isGapFreeMosaic(group[0].norad)) {
             for (const c of weatherCandidates(place, group)) {
               if (now - c.datetime < PROCESSED_AFTER_MS) continue
-              const day = utcDay(c.datetime)
-              if (!found.some((f) => f.norad === c.norad && utcDay(f.datetime) > day)) continue
+              const day = mosaicDate(c.datetime, place.lon)
+              if (!found.some((f) => f.norad === c.norad && mosaicDate(f.datetime, place.lon) > day)) continue
               rule.push(c)
               counted.add(c.id)
               byRule = true

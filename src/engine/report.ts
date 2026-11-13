@@ -703,7 +703,7 @@ export async function computeReport(place: Place, opts: ReportOptions = {}): Pro
     return out
   }
   weatherNotes = gibsNotes()
-  const weatherMatched = attachDailyCaptures(passes, [...weather.verified(), ...rule])
+  const weatherMatched = attachDailyCaptures(passes, [...weather.verified(), ...rule], place.lon)
   const firstMs = firstResultMs || performance.now() - tStart
   // Nobody to hand a late cover to: give it a short wait (a retry of the same report is a cache hit).
   if (coverP && !clearCover && !opts.onUpdate) await waitAtMost(coverP, COVER_WAIT_MS, signal)
@@ -741,7 +741,7 @@ export async function computeReport(place: Place, opts: ReportOptions = {}): Pro
       }
       // Only the upgraded pass is a new object; the others are shared with the delivered report (never
       // mutated after delivery), so a patch costs one copy, not ~2,000.
-      const target = dailyCaptureTarget(current, c)
+      const target = dailyCaptureTarget(current, c, place.lon)
       if (!target) return
       const upgraded = Object.assign(clonePass(target), { verdict: 'imaged' as const, captureId: c.id })
       current = current.map((p) => (p === target ? upgraded : p))

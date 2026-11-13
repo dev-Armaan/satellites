@@ -11,6 +11,7 @@
  * orbit, so a datatake cannot start much more than 50 min before it reaches any place; and one satellite
  * cannot pass the same place twice within ~95 min (one orbit), so the window is unambiguous.
  */
+import { mosaicDate } from '@/lib/geoCore'
 import type { Capture, Pass } from '@/types'
 import { noradForGibsCollection, noradForPlatform } from './profiles'
 
@@ -66,43 +67,38 @@ export function attachCaptures(passes: Pass[], captures: readonly Capture[]): Ca
   return unmatched
 }
 
-/** UTC calendar date "YYYY-MM-DD". */
-export function utcDay(ms: number): string {
-  return new Date(ms).toISOString().slice(0, 10)
-}
-
 /**
  * The pass a GIBS daily mosaic illustrates (pure: nothing is changed): exact time match first (the imagery
- * module stamps the pass time), else the same UTC day's daytime pass closest to nadir. Passes already
+ * module stamps the pass time), else the daytime pass of the same mosaic day at the place (`lon`) closest to nadir. Passes already
  * imaged are skipped.
  */
-export function dailyCaptureTarget(passes: readonly Pass[], c: Capture): Pass | undefined {
+export function dailyCaptureTarget(passes: readonly Pass[], c: Capture, lon: number): Pass | undefined {
   const norad = captureNorad(c)
   if (norad === undefined) return undefined
-  const day = utcDay(c.datetime)
+  const day = mosaicDate(c.datetime, lon)
   let best: Pass | undefined
   for (const p of passes) {
     if (p.norad !== norad || p.verdict === 'imaged') continue
     if (Math.abs(p.tClosest - c.datetime) < MATCH_BEFORE_MS) return p
-    if (utcDay(p.tClosest) !== day || p.sunElevationDeg <= 0) continue
+    if (mosaicDate(p.tClosest, lon) !== day || p.sunElevationDeg <= 0) continue
     if (!best || p.groundDistanceKm < best.groundDistanceKm) best = p
   }
   return best
 }
 
 /**
- * GIBS daily mosaics: the image for (satellite, UTC day) shows the place as seen on that day's daytime
+ * GIBS daily mosaics: the image for (satellite, mosaic day at the place) shows the place as seen on that day's daytime
  * pass (see dailyCaptureTarget). One pass per capture. Mutates the matched passes; returns the captures
  * that matched.
  */
-export function attachDailyCaptures(passes: Pass[], captures: readonly Capture[]): Capture[] {
+export function attachDailyCaptures(passes: Pass[], captures: readonly Capture[], lon: number): Capture[] {
   const matched: Capture[] = []
   const seen = new Set<string>()
   for (const c of captures) {
     // A capture id is one image: it may illustrate one pass only, even if a source repeats it.
     if (seen.has(c.id)) continue
     seen.add(c.id)
-    const best = dailyCaptureTarget(passes, c)
+    const best = dailyCaptureTarget(passes, c, lon)
     if (!best) continue
     best.verdict = 'imaged'
     best.captureId = c.id

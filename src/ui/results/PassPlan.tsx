@@ -1,6 +1,7 @@
 /**
  * Plan view of a pass that has no image: the place at the centre, the real ground track, the band the
- * instrument could see (swath, or field of regard for agile imagers), the closest-approach line, and the
+ * instrument could see (swath, or field of regard for agile imagers, split by a radar's blind strip under its
+ * track), the closest-approach line, and the
  * satellite riding the track in sync with replay time. North up, local equirectangular projection.
  * Doubles as the left half of the share card for passes without a picture.
  */
@@ -79,6 +80,13 @@ export function PassPlan({ pass: p, meta, lat, lon, live = true, className, labe
               <polygon points={pts(g.band)} className={s.band} />
               <line x1={g.band[0].x} y1={g.band[0].y} x2={g.band[1].x} y2={g.band[1].y} className={s.bandEdge} />
               <line x1={g.band[3].x} y1={g.band[3].y} x2={g.band[2].x} y2={g.band[2].y} className={s.bandEdge} />
+            </>
+          ) : null}
+          {g.blind ? (
+            <>
+              <polygon points={pts(g.blind)} className={s.blind} />
+              <line x1={g.blind[0].x} y1={g.blind[0].y} x2={g.blind[1].x} y2={g.blind[1].y} className={s.bandEdge} />
+              <line x1={g.blind[3].x} y1={g.blind[3].y} x2={g.blind[2].x} y2={g.blind[2].y} className={s.bandEdge} />
             </>
           ) : null}
           <polyline points={pts(g.track)} className={s.track} />

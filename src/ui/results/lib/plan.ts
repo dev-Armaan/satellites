@@ -1,6 +1,7 @@
 /**
  * Plan-view geometry for a pass (pure): local equirectangular projection around the place (km, x east,
- * y south so it maps straight to screen space), the ground track, and the band the instrument could see.
+ * y south so it maps straight to screen space), the ground track, and the band the instrument could see, less the
+ * strip under the track that a side-looking radar cannot (profile minOffNadirDeg, as the engine's verdicts use it).
  */
 import { DEG, EARTH_RADIUS_KM } from '@/lib/geo'
 import type { Pass } from '@/types'
@@ -28,6 +29,12 @@ export function fieldHalfWidthKm(p: Pick<Pass, 'altitudeKm'>, meta: Pick<SatMeta
   return undefined
 }
 
+/** Half-width (km) of the strip under the track that a side-looking radar cannot see, if it has one. */
+export function blindHalfWidthKm(p: Pick<Pass, 'altitudeKm'>, meta: Pick<SatMeta, 'profile'>): number | undefined {
+  const prof = meta.profile
+  return prof?.maxOffNadirDeg && prof.minOffNadirDeg ? groundRangeAtOffNadirKm(prof.minOffNadirDeg, p.altitudeKm) : undefined
+}
+
 export function projector(lat0: number, lon0: number) {
   const kx = Math.cos(lat0 * DEG) * EARTH_RADIUS_KM * DEG
   const ky = EARTH_RADIUS_KM * DEG
@@ -52,6 +59,8 @@ export interface PlanGeometry {
   track: Pt[]
   /** band polygon (4 points) when the field is known */
   band?: Pt[]
+  /** the blind strip's polygon (4 points) inside the band, for a side-looking radar */
+  blind?: Pt[]
 }
 
 export function planGeometry(p: Pass, meta: Pick<SatMeta, 'profile'>, lat: number, lon: number): PlanGeometry {
@@ -69,15 +78,14 @@ export function planGeometry(p: Pass, meta: Pick<SatMeta, 'profile'>, lat: numbe
   const track: Pt[] =
     p.track.length >= 2 ? p.track.map((t) => proj(t.lat, t.lon)) : [-1, 1].map((k) => ({ x: sub.x + dir.x * extent * 2 * k, y: sub.y + dir.y * extent * 2 * k }))
   const L = extent * 3
-  const band = half
-    ? [
-        { x: sub.x - dir.x * L + n.x * half, y: sub.y - dir.y * L + n.y * half },
-        { x: sub.x + dir.x * L + n.x * half, y: sub.y + dir.y * L + n.y * half },
-        { x: sub.x + dir.x * L - n.x * half, y: sub.y + dir.y * L - n.y * half },
-        { x: sub.x - dir.x * L - n.x * half, y: sub.y - dir.y * L - n.y * half },
-      ]
-    : undefined
-  return { sub, dir, n, half, extent, track, band }
+  const strip = (w: number): Pt[] => [
+    { x: sub.x - dir.x * L + n.x * w, y: sub.y - dir.y * L + n.y * w },
+    { x: sub.x + dir.x * L + n.x * w, y: sub.y + dir.y * L + n.y * w },
+    { x: sub.x + dir.x * L - n.x * w, y: sub.y + dir.y * L - n.y * w },
+    { x: sub.x - dir.x * L - n.x * w, y: sub.y - dir.y * L - n.y * w },
+  ]
+  const inner = half ? blindHalfWidthKm(p, meta) : undefined
+  return { sub, dir, n, half, extent, track, band: half ? strip(half) : undefined, blind: inner ? strip(inner) : undefined }
 }
 
 /** Satellite position at time t: along the sampled track, or along the synthesized line. */

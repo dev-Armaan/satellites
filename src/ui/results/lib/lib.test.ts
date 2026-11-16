@@ -11,6 +11,7 @@ import { parsePanQuery } from '../../../../api/_lib/pan'
 import { groupPasses, visibleCount } from './groups'
 import { glyphForPass, markColorVar, VERDICT_META, VERDICT_TAG, VERDICT_TITLE, verdictUnit, type SatMeta } from './meta'
 import { frontLine, motionVector, revealProgress, scannedPolygon, sweepRange } from './pushbroom'
+import { groundRangeAtOffNadirKm, planGeometry } from './plan'
 import { replayWindow, windowFraction } from './replay'
 import { fmtDayMonth, fmtDuration, fmtLocalDay, fmtLocalStamp, fmtLocalTime, fmtRelative, fmtSpokenDay, fmtTMinus, localParts, partsAtOffset, spokenRelative, utcLabel, utcOffsetMin, windowOffset, zoneAbbr, zoneLabel } from './time'
 import { dayBoundaries, daylight, hitTest, hourMarks, indexLanes, nearestIndex, stepPass, sunSamples } from './timeline'
@@ -941,5 +942,24 @@ describe('Sentinel-1 radar images: real images, never photographs', () => {
     const could = plain(passSentences({ pass: { ...p, verdict: 'could', captureId: undefined }, meta: S1, timeZone: TZ, placeLabel: 'Waterloo' }))
     expect(could).toContain('We found no published image of it from this pass.')
     expect(plain(passSentences({ pass: { ...p, norad: 40697, verdict: 'could', captureId: undefined }, meta: meta(40697), timeZone: TZ, placeLabel: 'Waterloo' }))).toContain('We can’t know whether it did.')
+  })
+})
+
+describe('plan view', () => {
+  const radar = (min?: number): SatMeta => ({ norad: 1, name: 'R', category: 'radar', profile: { operator: 'X', category: 'radar', maxOffNadirDeg: 35, minOffNadirDeg: min, blurb: '' } })
+  it('splits a radar\'s field of regard around the strip under its track that it cannot see', () => {
+    const p = pass({ verdict: 'could', inSwath: false, altitudeKm: 590, headingDeg: 0, azimuthDeg: 270, groundDistanceKm: 100 })
+    const g = planGeometry(p, radar(4.5), 0, 0)
+    const half = groundRangeAtOffNadirKm(35, 590)
+    const blind = groundRangeAtOffNadirKm(4.5, 590)
+    expect(blind).toBeGreaterThan(40)
+    expect(blind).toBeLessThan(55)
+    // Heading north: the band's and the strip's edges sit their half-widths either side of the track (x = −100 km).
+    const xs = (q: { x: number }[]) => [Math.min(...q.map((v) => v.x)), Math.max(...q.map((v) => v.x))]
+    expect(xs(g.band!)[0]).toBeCloseTo(-100 - half, 6)
+    expect(xs(g.band!)[1]).toBeCloseTo(-100 + half, 6)
+    expect(xs(g.blind!)[0]).toBeCloseTo(-100 - blind, 6)
+    expect(xs(g.blind!)[1]).toBeCloseTo(-100 + blind, 6)
+    expect(planGeometry(p, radar(undefined), 0, 0).blind).toBeUndefined()
   })
 })

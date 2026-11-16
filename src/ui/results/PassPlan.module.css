@@ -24,6 +24,11 @@
   fill: color-mix(in srgb, var(--bone) 4.5%, transparent);
   stroke: none;
 }
+/* A radar's blind strip: the plan's own ground, so the field reads as two bands either side of the track. */
+.blind {
+  fill: var(--ink-0);
+  stroke: none;
+}
 .bandEdge {
   stroke: var(--bone-4);
   stroke-width: 1;

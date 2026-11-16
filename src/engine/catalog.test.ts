@@ -110,6 +110,16 @@ describe('catalog', () => {
 })
 
 describe('profiles', () => {
+  it('every pointable radar has a blind strip under its track, inside its field of regard', () => {
+    // A side-looking radar never images straight down: without minOffNadirDeg its passes overhead would read as
+    // chances to image the place (ICEYE-X73 over Jayanagar, 0.06° off nadir, 2026-11-16).
+    for (const p of PROFILES.filter((x) => x.category === 'radar' && x.maxOffNadirDeg)) {
+      const name = p.displayName ?? p.namePattern
+      expect(p.minOffNadirDeg, name).toBeGreaterThanOrEqual(4.5)
+      expect(p.minOffNadirDeg!, name).toBeLessThan(p.maxOffNadirDeg!)
+    }
+    expect(PROFILES.filter((x) => x.minOffNadirDeg !== undefined && x.category !== 'radar')).toEqual([])
+  })
   const cat = loadTestCatalog()
 
   it('every exact NORAD id exists in the catalog under the expected name', () => {

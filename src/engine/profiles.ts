@@ -626,6 +626,9 @@ export const PROFILES: readonly SatProfile[] = [
   },
 
   // ───────────────────────────── radar (SAR): sees through cloud and at night ─────────────────────────────
+  // minOffNadirDeg is the strip under the track that a side-looking radar cannot image (src/engine/passes.ts): the
+  // operator's smallest published angle in any mode, extended ranges included. An incidence angle is converted to
+  // off-nadir at the family's highest altitude in the catalog and rounded down, so no pass it could image is dropped.
   {
     norad: [39634, 62261, 66315],
     namePattern: '^SENTINEL-1[A-Z]$',
@@ -635,6 +638,7 @@ export const PROFILES: readonly SatProfile[] = [
     // Its IW images as published (GRD: 20 × 22 m); the 5 m is single-look range only, never shown here.
     resolutionM: 20,
     maxOffNadirDeg: 40,
+    minOffNadirDeg: 16.3, // 18.3° incidence (beam S1; IW starts at 29.1°), ESA SentiWiki
     blurb: 'Copernicus C-band radar that publishes every image: a 250 km swath to one side at 20 m, through cloud, day or night.',
     openArchive: true,
   },
@@ -644,6 +648,7 @@ export const PROFILES: readonly SatProfile[] = [
     category: 'radar',
     resolutionM: 0.5,
     maxOffNadirDeg: 35,
+    minOffNadirDeg: 4.5, // 5° incidence, ICEYE's 'time dominant' range (best from 15–20°), product spec 6.0.7
     blurb: 'Small X-band radar satellite that can be tasked to image through cloud, day or night.',
   },
   {
@@ -652,6 +657,7 @@ export const PROFILES: readonly SatProfile[] = [
     category: 'radar',
     resolutionM: 0.5,
     maxOffNadirDeg: 45,
+    minOffNadirDeg: 5, // 5° look angle, its full accessible range (standard from 15°), Capella support
     blurb: 'X-band radar satellite with roughly 50 cm spotlight imagery, day or night.',
   },
   {
@@ -660,6 +666,7 @@ export const PROFILES: readonly SatProfile[] = [
     category: 'radar',
     resolutionM: 0.25,
     maxOffNadirDeg: 45,
+    minOffNadirDeg: 9.1, // 10° incidence (80° grazing, 1 m spotlight), Umbra Canopy docs
     blurb: 'X-band radar satellite with spotlight imagery down to about 25 cm.',
   },
   {
@@ -668,6 +675,7 @@ export const PROFILES: readonly SatProfile[] = [
     category: 'radar',
     resolutionM: 1,
     maxOffNadirDeg: 40,
+    minOffNadirDeg: 15, // 15° off nadir, Synspective SAR data product guide
     blurb: 'Japanese small X-band radar satellite.',
   },
   {
@@ -676,6 +684,7 @@ export const PROFILES: readonly SatProfile[] = [
     category: 'radar',
     resolutionM: 0.5,
     maxOffNadirDeg: 40,
+    minOffNadirDeg: 15, // 15° off nadir, iQPS
     blurb: 'Japanese small X-band radar satellite.',
   },
   {
@@ -685,6 +694,7 @@ export const PROFILES: readonly SatProfile[] = [
     category: 'radar',
     resolutionM: 1,
     maxOffNadirDeg: 40,
+    minOffNadirDeg: 18.2, // 20° incidence, KARI / SIIS product spec
     blurb: 'Korean X-band radar satellite with 1 m spotlight imagery.',
   },
   {
@@ -694,6 +704,7 @@ export const PROFILES: readonly SatProfile[] = [
     category: 'radar',
     resolutionM: 1,
     maxOffNadirDeg: 40,
+    minOffNadirDeg: 13.8, // 15° incidence (data access range), Airbus product guide
     blurb: 'German X-band radar satellite, imaging since 2007.',
   },
   {
@@ -703,6 +714,7 @@ export const PROFILES: readonly SatProfile[] = [
     category: 'radar',
     resolutionM: 1,
     maxOffNadirDeg: 40,
+    minOffNadirDeg: 13.8, // 15° incidence (data access range), DLR
     blurb: 'Flies in close formation with TerraSAR-X to map Earth’s topography by radar.',
   },
   {
@@ -711,6 +723,7 @@ export const PROFILES: readonly SatProfile[] = [
     category: 'radar',
     resolutionM: 1,
     maxOffNadirDeg: 40,
+    minOffNadirDeg: 16.2, // 18° incidence (first generation; CSG's beams start 16.4° off nadir), ASI
     blurb: 'Italian X-band radar satellite of the COSMO-SkyMed system.',
   },
   {
@@ -720,6 +733,7 @@ export const PROFILES: readonly SatProfile[] = [
     category: 'radar',
     resolutionM: 1,
     maxOffNadirDeg: 40,
+    minOffNadirDeg: 13.8, // 15° incidence (data access range), Hisdesat PAZ products guide
     blurb: 'Spanish X-band radar satellite.',
   },
   {
@@ -729,6 +743,7 @@ export const PROFILES: readonly SatProfile[] = [
     category: 'radar',
     resolutionM: 1,
     maxOffNadirDeg: 45,
+    minOffNadirDeg: 8.8, // 10° incidence (Extended Low beam), MDA product description
     blurb: 'Canadian C-band radar satellite, imaging since 2007.',
   },
   {
@@ -737,6 +752,7 @@ export const PROFILES: readonly SatProfile[] = [
     category: 'radar',
     resolutionM: 3,
     maxOffNadirDeg: 40,
+    minOffNadirDeg: 15.7, // 17.3° incidence (a 30 m ScanSAR beam's near edge), CSA
     blurb: 'One of three satellites of the Canadian RADARSAT Constellation Mission.',
   },
   {
@@ -746,6 +762,7 @@ export const PROFILES: readonly SatProfile[] = [
     category: 'radar',
     resolutionM: 10,
     maxOffNadirDeg: 40,
+    minOffNadirDeg: 15.9, // 17.6° incidence (quad-pol beam S1), CONAE
     blurb: 'Argentine L-band radar satellite that also measures soil moisture.',
   },
   {
@@ -755,6 +772,7 @@ export const PROFILES: readonly SatProfile[] = [
     category: 'radar',
     resolutionM: 3,
     maxOffNadirDeg: 40,
+    minOffNadirDeg: 7.2, // 8° incidence, JAXA
     blurb: 'Japanese L-band radar satellite, imaging since 2014.',
   },
   {
@@ -764,6 +782,7 @@ export const PROFILES: readonly SatProfile[] = [
     category: 'radar',
     resolutionM: 3,
     maxOffNadirDeg: 40,
+    minOffNadirDeg: 7.2, // 8° incidence, JAXA
     blurb: 'Japanese L-band radar satellite, successor to ALOS-2.',
   },
   {
@@ -773,6 +792,7 @@ export const PROFILES: readonly SatProfile[] = [
     category: 'radar',
     swathKm: 242,
     maxOffNadirDeg: 40,
+    minOffNadirDeg: 28.2, // 32° incidence: a fixed swath, ~34–47°, NISAR handbook
     blurb: 'Dual-band radar that maps a 242 km swath to measure how the ground moves.',
   },
   {
@@ -780,6 +800,7 @@ export const PROFILES: readonly SatProfile[] = [
     operator: 'Siwei',
     category: 'radar',
     maxOffNadirDeg: 40,
+    minOffNadirDeg: 4.5, // not published: the smallest any radar here publishes (ICEYE's)
     blurb: 'Chinese commercial X-band radar satellite.',
   },
   {
@@ -788,6 +809,7 @@ export const PROFILES: readonly SatProfile[] = [
     category: 'radar',
     resolutionM: 1,
     maxOffNadirDeg: 45,
+    minOffNadirDeg: 8.9, // 10° incidence (extended low beam), Sun et al. 2017 via eoPortal
     blurb: 'Chinese government C-band radar satellite.',
   },
   {
@@ -795,6 +817,7 @@ export const PROFILES: readonly SatProfile[] = [
     operator: 'CNSA',
     category: 'radar',
     maxOffNadirDeg: 40,
+    minOffNadirDeg: 4.5, // not published: the smallest any radar here publishes (ICEYE's)
     blurb: 'Chinese government radar satellite; its specifications are not published.',
   },
 

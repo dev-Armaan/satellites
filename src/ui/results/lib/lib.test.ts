@@ -203,7 +203,7 @@ describe('copy', () => {
     expect(w).toContain('VIIRS imager')
     expect(w).toContain('daily true-colour mosaic at 375 m per pixel')
     const c = plain(passSentences({ pass: pass({ norad: 59625, verdict: 'could', offNadirDeg: 22.4 }), meta: meta(59625), timeZone: TZ, placeLabel: 'Waterloo' }))
-    expect(c).toContain('Legion 1 passed within view at 11:21 EST')
+    expect(c).toContain('Legion 1 passed within view at 11:21 EST, 786 km up, 61 km to the west.')
     expect(c).toContain('We can’t know whether it did.')
     const r = plain(passSentences({ pass: pass({ norad: 40697, verdict: 'could' }), meta: meta(40697), timeZone: TZ, placeLabel: 'Waterloo' }))
     expect(r).toContain('Radar sees through cloud and darkness')
@@ -437,9 +437,9 @@ describe('pushbroom: a descending Sentinel-2 pass (heading 194.6°, SSW)', () =>
 })
 
 describe('copy: degenerate geometry reads like a person wrote it', () => {
-  it('a commercial pass straight over the place says "directly overhead", not "0 km to the west"', () => {
+  it('a commercial pass straight over the place says "786 km overhead", not "0 km to the west"', () => {
     const text = plain(passSentences({ pass: pass({ norad: 59625, verdict: 'could', inSwath: false, groundDistanceKm: 0.4, offNadirDeg: 0.04 }), meta: meta(59625), timeZone: TZ, placeLabel: 'Waterloo' }))
-    expect(text).toContain('passed within view at 11:21 EST, directly overhead.')
+    expect(text).toContain('passed within view at 11:21 EST, 786 km overhead.')
     expect(text).toContain('Looking straight down, it could have watched Waterloo.')
     expect(text).not.toMatch(/\b0 km|0\.0°/)
   })

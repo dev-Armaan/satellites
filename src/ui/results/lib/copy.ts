@@ -291,12 +291,6 @@ function where(p: Pass): Part[] {
   return [num(int(p.altitudeKm), 'km'), ' up, ', num(int(p.groundDistanceKm), 'km'), ` to the ${compassWord(p.azimuthDeg)}`]
 }
 
-/** ", directly overhead." or ", 61 km to the west." */
-function offset(p: Pass): Part[] {
-  if (p.groundDistanceKm < OVERHEAD_KM) return [', directly overhead.']
-  return [', ', num(int(p.groundDistanceKm), 'km'), ` to the ${compassWord(p.azimuthDeg)}.`]
-}
-
 function looking(off: number): Sentence {
   if (off < NADIR_DEG) return ['It was looking straight down.']
   return ['It was looking ', num(dec1(off), '°'), ' off straight down.']
@@ -376,7 +370,8 @@ export function passSentences({ pass: p, meta, capture, timeZone: tz, placeLabel
       break
     }
     case 'could': {
-      out.push([`${name} passed within view at `, localClock(p.tClosest, tz, false), ...offset(p)])
+      // Always the height: "0.6 km" alone reads as how far away the satellite was (a reader, 2026-11-16).
+      out.push([`${name} passed within view at `, localClock(p.tClosest, tz, false), ', ', ...where(p), '.'])
       const swath = meta.profile?.swathKm
       const nadir = p.offNadirDeg < NADIR_DEG
       if (p.inSwath && swath && !meta.profile?.maxOffNadirDeg) {

@@ -141,6 +141,11 @@
   never lead or get a cloud check, and their crops are toned by `radarTone.ts` (route new radar URLs through
   `isRadarUrl`). The radar search must never be awaited by the report: it is used only if it has already answered.
   The second line counts every image in one number ("N images were made public"; owner).
+- Radar passes: a side-looking radar cannot image the strip under its own track. Each radar profile's
+  `minOffNadirDeg` (its operator's smallest published angle in any mode, as off-nadir, rounded down) keeps passes
+  inside that strip out of `could` (`passes.ts geometryAt`), and the plan view leaves the strip blank. A new radar
+  profile needs one (`catalog.test.ts`). A pass sentence always gives the satellite's height: "0.6 km" alone was read
+  as a satellite 600 m away (a reader in Bengaluru, 2026-11-16).
 - Geostationary images: each public watcher's newest frame is a capture plus a pass flagged `geostationary`
   (`engine/geostationary.ts geoScanPass`: its track, heading and speed are the SCAN LINE's, not the satellite's). The
   line is where the plane the mirror sweeps cuts the Earth (`scanLine`: a circle the width of the disc, straight seen

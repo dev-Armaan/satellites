@@ -129,6 +129,31 @@ describe('pass records', () => {
     }
   })
 
+  it('keeps a side-looking radar out of the strip under its track', () => {
+    // Every ICEYE approach over Jayanagar, Bengaluru in a week: with a 10° blind strip, exactly those closer to the
+    // track than 10° off nadir lose their verdict; with none, every approach in the field of regard is a 'could'.
+    const q = { place: { lat: 12.928, lon: 77.589 }, t0: tEnd - 7 * 86_400_000, t1: tEnd }
+    let seen = 0
+    let blind = 0
+    for (const s of cat.sats.filter((x) => /^ICEYE-/.test(x.name))) {
+      const satrec = satrecFor(s.norad)!
+      const open = { ...targetFor(s.norad), minOffNadirDeg: 0 }
+      const strip = { ...open, minOffNadirDeg: 10 }
+      const approaches = findApproaches(satrec, open, q)
+      expect(findPassesForSat(satrec, open, q).map((p) => p.tClosest)).toEqual(approaches.map((a) => a.tClosest))
+      const passes = findPassesForSat(satrec, strip, q)
+      expect(passes.map((p) => p.tClosest)).toEqual(approaches.filter((a) => a.geometry.offNadirDeg >= 10).map((a) => a.tClosest))
+      for (const p of passes) {
+        expect(p.verdict).toBe('could')
+        expect(p.inFieldOfRegard).toBe(true)
+      }
+      seen += approaches.length
+      blind += approaches.length - passes.length
+    }
+    expect(blind).toBeGreaterThan(0)
+    expect(blind).toBeLessThan(seen)
+  })
+
   it('reports ISS passes as overhead only at ≥ 10° elevation', () => {
     const t0 = tEnd - 7 * 86_400_000
     const passes = findPassesForSat(satrecFor(25544)!, targetFor(25544), { place: WATERLOO, t0, t1: tEnd })

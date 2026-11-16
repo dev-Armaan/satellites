@@ -87,6 +87,11 @@ export interface SatProfile {
   swathKm?: number
   /** Max off-nadir pointing angle for agile/pointable imagers, degrees */
   maxOffNadirDeg?: number
+  /**
+   * Min off-nadir angle a side-looking radar can image at, degrees: the strip under its track that it cannot see
+   * (a radar ranges its echoes, so it must look to one side). From the operator's smallest published incidence angle.
+   */
+  minOffNadirDeg?: number
   /** Best ground sample distance, metres */
   resolutionM?: number
   /** Only acquires in daylight (optical) */

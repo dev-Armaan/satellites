@@ -9,6 +9,9 @@
  *           'regard'     ground range at maxOffNadirDeg      (agile commercial imagers, SAR)
  *           'elevation'  ground range where elevation ≥ 10°  (crewed stations, "overhead")
  *  A pass is a contiguous interval with d(t) ≤ R_f.
+ *  A side-looking radar also has a blind strip: it cannot image a place whose off-nadir angle at closest approach is
+ *  below its minOffNadirDeg (the place stays that far across track for the whole pass), so such a pass is found but
+ *  is not in its field of regard, and gets no verdict.
  *
  * ── Search (two stages, provably complete) ───────────────────────────────────────────────────────────
  *  1. Coarse: θ(t) is the angle at Earth's centre between the satellite and the place (cheap: one SGP4
@@ -45,6 +48,8 @@ export interface PassTarget {
   mode: FieldMode
   swathKm?: number
   maxOffNadirDeg?: number
+  /** Side-looking radars: the blind strip under the track (see the definitions above) */
+  minOffNadirDeg?: number
   minElevationDeg?: number
 }
 
@@ -92,7 +97,8 @@ export function passTargetFor(info: SatInfo, row: CatalogRow): PassTarget | null
       return p?.swathKm ? { ...base, mode: 'swath', swathKm: p.swathKm } : null
     case 'commercial-optical':
     case 'radar':
-      if (p?.maxOffNadirDeg) return { ...base, mode: 'regard', maxOffNadirDeg: p.maxOffNadirDeg, swathKm: p.swathKm }
+      if (p?.maxOffNadirDeg)
+        return { ...base, mode: 'regard', maxOffNadirDeg: p.maxOffNadirDeg, minOffNadirDeg: p.minOffNadirDeg, swathKm: p.swathKm }
       if (p?.swathKm) return { ...base, mode: 'swath', swathKm: p.swathKm }
       return null
   }
@@ -227,14 +233,15 @@ function geometryAt(satrec: SatRec, target: PassTarget, place: LatLon, t: number
   if (!sub || !before || !after) return null
   const d = haversineKm(place, sub)
   const fieldKm = fieldRadiusKm(target, sub.altKm)
+  const off = offNadirDeg(d, sub.altKm)
   // inSwath is only meaningful for fixed nadir-centred sensors; for those the swath IS the field of regard.
   // Side-looking radars carry a swath width in their profile, but it never contains the ground track.
   const inSwath = target.mode === 'swath' && d <= fieldKm
-  const inFieldOfRegard = target.mode === 'regard' ? d <= fieldKm : inSwath
+  const inFieldOfRegard = target.mode === 'regard' ? d <= fieldKm && off >= (target.minOffNadirDeg ?? 0) : inSwath
   return {
     sub,
     groundDistanceKm: d,
-    offNadirDeg: offNadirDeg(d, sub.altKm),
+    offNadirDeg: off,
     elevationDeg: elevationDeg(d, sub.altKm),
     azimuthDeg: bearingDeg(place, sub),
     headingDeg: bearingDeg(before, after),

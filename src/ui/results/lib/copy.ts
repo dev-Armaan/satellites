@@ -30,6 +30,14 @@ const nf2 = new Intl.NumberFormat('en-US', { minimumFractionDigits: 2, maximumFr
 export const int = (n: number) => nf0.format(Math.round(n))
 export const dec1 = (n: number) => nf1.format(n)
 export const dec2 = (n: number) => nf2.format(n)
+/**
+ * How far the ground track passed from the place, as the lists print it: whole kilometres, and "< 1" under one, so
+ * no list says "1 km" where the pass says 0.6 (a reader read the two as a mistake, 2026-11-16).
+ */
+export const trackKm = (km: number) => (km < 1 ? '< 1' : int(km))
+/** A pointable imager's field of regard: "±35°", or "5–35°" for a radar, blind under its own track. */
+export const fieldAngles = (prof: { minOffNadirDeg?: number; maxOffNadirDeg?: number }) =>
+  prof.minOffNadirDeg ? `${prof.minOffNadirDeg}–${prof.maxOffNadirDeg}°` : `±${prof.maxOffNadirDeg}°`
 
 // ── compass ───────────────────────────────────────────────────────────────────────────────
 

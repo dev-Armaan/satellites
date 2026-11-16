@@ -24,7 +24,7 @@ import { PassPlan } from './PassPlan'
 import { ReplayControls } from './ReplayControls'
 import { Paragraph } from './Text'
 import { archiveName, cropSpec, downloadUrl, isDailyMosaic, isGeoFrame, isRadar, pixelLabel, slug, captureFor } from './lib/captures'
-import { compassAbbr, dec1, dec2, int, passSentences } from './lib/copy'
+import { compassAbbr, dec1, dec2, fieldAngles, int, passSentences } from './lib/copy'
 import type { SatMeta } from './lib/meta'
 import { replayWindow } from './lib/replay'
 import { fmtDuration } from './lib/time'
@@ -342,13 +342,14 @@ function Geometry({ pass: p, meta, tz, model, entering }: { pass: Pass; meta: Sa
   const cells: { label: string; value: ReactNode; unit?: string; wide?: boolean }[] = [
     { label: 'Closest · UTC', value: utcTime, unit: utcDate },
     { label: 'Closest · local', value: t.timeS, unit: `${t.day} ${t.zone}` },
-    { label: 'Ground distance', value: dec1(p.groundDistanceKm), unit: 'km' },
+    // The track, not the satellite: "Ground distance 0.6 km" read as a satellite 600 m away (a reader, 2026-11-16).
+    { label: 'Ground track', value: dec1(p.groundDistanceKm), unit: 'km from you' },
     { label: 'Elevation from you', value: `${dec1(p.elevationDeg)}°`, unit: compassAbbr(p.azimuthDeg) },
     { label: 'Ground speed', value: dec2(p.groundSpeedKmS), unit: 'km/s' },
     { label: 'Heading', value: `${dec1(p.headingDeg)}°`, unit: `${compassAbbr(p.headingDeg)} · ${p.node === 'ascending' ? 'Asc' : 'Desc'}` },
     { label: 'Sun elevation', value: `${dec1(p.sunElevationDeg)}°`, unit: p.sunElevationDeg >= 0 ? 'Day' : p.sunElevationDeg >= -6 ? 'Twilight' : 'Night' },
     prof?.maxOffNadirDeg
-      ? { label: 'Field of regard', value: `±${int(prof.maxOffNadirDeg)}°` }
+      ? { label: 'Field of regard', value: fieldAngles(prof), unit: prof.minOffNadirDeg ? 'either side' : undefined }
       : { label: 'Swath', value: prof?.swathKm ? int(prof.swathKm) : '—', unit: prof?.swathKm ? 'km' : undefined },
     {
       label: p.tEnd > p.tStart ? (p.inSwath ? 'In swath' : 'In view') : 'Window',

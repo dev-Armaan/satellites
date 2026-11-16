@@ -22,7 +22,7 @@ import { thumbUrl } from './lib/photos'
 import { useGallery } from './gallery'
 import { decodedPhoto, hasPhotoElement, loadPhoto } from './images'
 import { Img } from './Img'
-import { int } from './lib/copy'
+import { int, trackKm } from './lib/copy'
 import { visibleCount, type ListItem, type PassGroup, type PassItem, type SatItem } from './lib/groups'
 import { glyphForPass, markColorVar, VERDICT_GLYPH, VERDICT_META, VERDICT_TITLE, verdictUnit, type Verdict } from './lib/meta'
 import { fmtSpokenDay, spokenRelative } from './lib/time'
@@ -210,7 +210,7 @@ const PassRow = memo(function PassRow({
           <span className={s.metaLine}>
             {p.offNadirDeg.toFixed(1)}° off-nadir
             {/* …and the ground distance before the cloud, which is what a photograph is judged by. */}
-            <span className={capture?.cloudCoverPct !== undefined ? s.km : undefined}> · {int(p.groundDistanceKm)} km</span>
+            <span className={capture?.cloudCoverPct !== undefined ? s.km : undefined}> · {trackKm(p.groundDistanceKm)} km from track</span>
             {capture?.cloudCoverPct !== undefined ? <span className={s.dim}> · cloud {int(capture.cloudCoverPct)}%</span> : null}
           </span>
         </span>
@@ -283,7 +283,7 @@ const SatRow = memo(function SatRow({
           </span>
           <span className={s.metaLine}>
             <span className={s.giveWay}>Closest </span>
-            {closest.offNadirDeg.toFixed(1)}° off-nadir · {int(closest.groundDistanceKm)} km
+            {closest.offNadirDeg.toFixed(1)}° off-nadir · {trackKm(closest.groundDistanceKm)} km from track
           </span>
         </span>
         <span className={s.count}>
@@ -319,7 +319,7 @@ const SatRow = memo(function SatRow({
                   </span>
                 </span>
                 <span className={s.subGeo}>
-                  {p.offNadirDeg.toFixed(1)}° · {int(p.groundDistanceKm)} km
+                  {p.offNadirDeg.toFixed(1)}° · {trackKm(p.groundDistanceKm)} km from track
                 </span>
               </button>
             </li>

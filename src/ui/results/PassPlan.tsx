@@ -11,7 +11,7 @@ import { useApp } from '@/state/store'
 import type { Pass } from '@/types'
 import { cx } from '@/ui/system'
 import { scaleBarKm } from './lib/captures'
-import { int } from './lib/copy'
+import { fieldAngles, int, trackKm } from './lib/copy'
 import type { SatMeta } from './lib/meta'
 import { planGeometry, satPosition, type Pt } from './lib/plan'
 import s from './PassPlan.module.css'
@@ -60,7 +60,7 @@ export function PassPlan({ pass: p, meta, lat, lon, live = true, className, labe
         viewBox={`${-R} ${-R} ${2 * R} ${2 * R}`}
         className={s.svg}
         role="img"
-        aria-label={`Plan view: ${meta.name} ground track, ${int(p.groundDistanceKm)} km from the place at closest approach.`}
+        aria-label={`Plan view: ${meta.name} ground track, ${trackKm(p.groundDistanceKm)} km from the place at closest approach.`}
       >
         <defs>
           <clipPath id={clipId}>
@@ -106,13 +106,13 @@ export function PassPlan({ pass: p, meta, lat, lon, live = true, className, labe
         <>
           <span className={cx(s.label, s.tl)}>Plan · north up</span>
           <span className={cx(s.label, s.tr)}>
-            {g.half ? (prof?.maxOffNadirDeg ? `Field of regard ±${prof.maxOffNadirDeg}°` : `Swath ${int(prof?.swathKm ?? 0)} km`) : 'Ground track'}
+            {g.half ? (prof?.maxOffNadirDeg ? `Field of regard ${fieldAngles(prof)}` : `Swath ${int(prof?.swathKm ?? 0)} km`) : 'Ground track'}
           </span>
           <span className={s.scale} style={{ width: `${(bar / (2 * R)) * 100}%` }}>
             <span className={s.bar} />
             <span className={s.scaleText}>{bar >= 1 ? int(bar) : bar} km</span>
           </span>
-          <span className={cx(s.label, s.br)}>Closest {p.groundDistanceKm < 1 ? "< 1" : int(p.groundDistanceKm)} km</span>
+          <span className={cx(s.label, s.br)}>Closest {trackKm(p.groundDistanceKm)} km</span>
         </>
       ) : null}
     </div>

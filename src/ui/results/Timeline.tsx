@@ -23,7 +23,7 @@ import type { Pass } from '@/types'
 import { Glyph, cx, palette, useReducedMotion } from '@/ui/system'
 import { Mark } from './Mark'
 import { isDailyMosaic, isRadar } from './lib/captures'
-import { int } from './lib/copy'
+import { int, trackKm } from './lib/copy'
 import { glyphForPass, markColorVar, VERDICT_GLYPH, VERDICT_META, VERDICT_TAG, type Verdict } from './lib/meta'
 import { daylight, hitTest, SUN_SAMPLE_MS } from './lib/timeline'
 import { fmtLocalDay, fmtLocalTime, zoneAbbr } from './lib/time'
@@ -507,7 +507,7 @@ function Tooltip({ pass, x, w, model }: { pass: Pass; x: number; w: number; mode
         {fmtLocalDay(pass.tClosest, model.tz)} · {fmtLocalTime(pass.tClosest, model.tz, true)} {zoneAbbr(pass.tClosest, model.tz)}
       </div>
       <div className={s.tipLine}>
-        {pass.offNadirDeg.toFixed(1)}° off-nadir · {int(pass.groundDistanceKm)} km
+        {pass.offNadirDeg.toFixed(1)}° off-nadir · {trackKm(pass.groundDistanceKm)} km from track
       </div>
       <div className={cx(s.tipLine, pass.verdict === 'imaged' && markColorVar(pass.verdict, m.category) === 'var(--signal)' && s.signal)}>{markWords(pass, model)}</div>
     </div>

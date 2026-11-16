@@ -2,7 +2,7 @@ import { describe, expect, it } from 'vitest'
 import type { Capture, GeoWatcher, Pass } from '@/types'
 import { byClarity, isClouded, pickBestLook } from './bestLook'
 import { captureFor, cropSpec, displayUrl, isDailyMosaic, productLabel, scaleBarKm, slug } from './captures'
-import { ARCHIVE_DOWN_LINE, archiveDown, compassAbbr, compassWord, darkSentences, geoImageCount, headline, passSentences, photosLine, placeInProse, placeParts, plain, radarSentence, shareHeadline, watchedPhrase } from './copy'
+import { ARCHIVE_DOWN_LINE, archiveDown, compassAbbr, compassWord, darkSentences, fieldAngles, geoImageCount, headline, passSentences, photosLine, placeInProse, placeParts, plain, radarSentence, shareHeadline, trackKm, watchedPhrase } from './copy'
 import { cardUrl, filterCounts, filterPhotos, hiResHelps, hiResUrl, orderPhotos, photoHeadingDeg, placeOffset, thumbUrl } from './photos'
 import { isMagnifiedView, placeInCrop, tonePlanForUrl } from '../../../../api/_lib/toneRender'
 import { pcCropUrl, type CropOpts } from '@/imagery'
@@ -437,6 +437,16 @@ describe('pushbroom: a descending Sentinel-2 pass (heading 194.6°, SSW)', () =>
 })
 
 describe('copy: degenerate geometry reads like a person wrote it', () => {
+  it('a track under a kilometre away is "< 1 km" in the lists, never "1 km" beside the pass\'s 0.6', () => {
+    expect(trackKm(0.57)).toBe('< 1')
+    expect(trackKm(0)).toBe('< 1')
+    expect(trackKm(1)).toBe('1')
+    expect(trackKm(61.2)).toBe('61')
+  })
+  it('a radar\'s field of regard starts outside its blind strip', () => {
+    expect(fieldAngles({ maxOffNadirDeg: 30 })).toBe('±30°')
+    expect(fieldAngles({ minOffNadirDeg: 4.5, maxOffNadirDeg: 35 })).toBe('4.5–35°')
+  })
   it('a commercial pass straight over the place says "786 km overhead", not "0 km to the west"', () => {
     const text = plain(passSentences({ pass: pass({ norad: 59625, verdict: 'could', inSwath: false, groundDistanceKm: 0.4, offNadirDeg: 0.04 }), meta: meta(59625), timeZone: TZ, placeLabel: 'Waterloo' }))
     expect(text).toContain('passed within view at 11:21 EST, 786 km overhead.')

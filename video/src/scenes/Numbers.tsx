@@ -2,8 +2,8 @@
  * The numbers, as the owner words them: a million users in under seven days, a million searches, and every country
  * and territory they came from. "1,000,000+" is simply there on the downbeat the song sings "Don't stop me now" on
  * (it used to count up; a number that lands with the music hits harder), with no exact figure shown
- * (src/data/stats.ts says what is behind the claim); then one word changes under the same number. The country codes
- * are the real list, lighting in order of visits.
+ * (src/data/stats.ts says what is behind the claim); then one word changes under the same number. The flags are
+ * the real list of countries and territories, going up in order of visits.
  */
 import { fitText } from '@remotion/layout-utils'
 import type { FC } from 'react'
@@ -12,7 +12,7 @@ import { Frame } from '../components/Frame'
 import { COUNTRIES, STATS } from '../data/stats'
 import { punch } from '../motion'
 import type { Cue } from '../sound'
-import { MARGIN, MEASURE, PALETTE, SANS, accent, display, label, type Tone } from '../theme'
+import { FLAGS, MARGIN, MEASURE, PALETTE, SANS, accent, display, type Tone } from '../theme'
 import { T } from '../timing'
 
 const fmt = (n: number) => Math.round(n).toLocaleString('en-US')
@@ -36,15 +36,8 @@ const FLASH = 3
 const SEARCHES_AT = 8 * T
 const COUNTRIES_AT = 16 * T
 
-/**
- * The second (and middle) of the video's three low hits, on the million; a tick as the word changes; a rising swish
- * as the country codes light.
- */
-export const NUMBERS_CUES: Cue[] = [
-  { at: 0, sound: 'boom', volume: 0.9 },
-  { at: SEARCHES_AT, sound: 'tick', volume: 0.7 },
-  { at: COUNTRIES_AT, sound: 'sweep', volume: 0.7 },
-]
+/** The first of the video's two low hits, on the million. The word change and the flags need none. */
+export const NUMBERS_CUES: Cue[] = [{ at: 0, sound: 'boom', volume: 0.9 }]
 
 const SECTION = 'the numbers'
 const READOUT = `Since ${STATS.since}`
@@ -71,27 +64,41 @@ const Million: FC<{ frame: number }> = ({ frame }) => {
   )
 }
 
-const COLS = 14
-/** How many of the newest codes are in signal. */
-const TRAIL = 12
+const COLS = 16
+/** A flag takes this many frames to settle once it is up. */
+const SETTLE = 5
+
+/** A two-letter region code as its flag: the pair of regional-indicator letters an emoji font draws as one flag. */
+const flag = (code: string) => String.fromCodePoint(...[...code].map((c) => 0x1f1e6 + c.charCodeAt(0) - 65))
+
 const Countries: FC<{ frame: number }> = ({ frame }) => {
   const p = PALETTE.ink
   const f = frame - COUNTRIES_AT
-  // Every code is lit three beats in; the newest few are in signal.
-  const lit = interpolate(f, [1, 12 * T], [0, COUNTRIES.length + TRAIL], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' })
+  // Flags go up in order of visits (owner: flags, not the codes), the last of them three beats in.
+  const up = interpolate(f, [1, 12 * T], [0, COUNTRIES.length], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' })
+  const every = (12 * T) / COUNTRIES.length
   return (
     <Frame section={SECTION} readout={READOUT}>
-      <AbsoluteFill style={{ flexDirection: 'row', alignItems: 'center', padding: `60px ${MARGIN}px 40px`, gap: 70 }}>
-        <div style={{ flex: 'none', width: 900, scale: punch(f), transformOrigin: 'left center' }}>
+      <AbsoluteFill style={{ flexDirection: 'row', alignItems: 'center', padding: `60px ${MARGIN}px 40px`, gap: 60 }}>
+        <div style={{ flex: 'none', width: 860, scale: punch(f), transformOrigin: 'left center' }}>
           <div style={{ ...display(600), color: p.fg, marginLeft: -18 }}>{COUNTRIES.length}</div>
           <div style={{ ...display(132), color: p.fg, marginTop: 4 }}>
             countries <span style={{ color: p.fg2 }}>and territories.</span>
           </div>
         </div>
-        <div style={{ flex: 1, display: 'grid', gridTemplateColumns: `repeat(${COLS}, 1fr)`, rowGap: 17 }}>
+        <div style={{ flex: 1, display: 'grid', gridTemplateColumns: `repeat(${COLS}, 1fr)`, rowGap: 9, justifyItems: 'center' }}>
           {COUNTRIES.map((code, i) => (
-            <div key={code} style={{ ...label(23), letterSpacing: '0.04em', color: i >= lit ? p.line : i >= lit - TRAIL ? p.accent : p.fg2 }}>
-              {code}
+            <div
+              key={code}
+              style={{
+                fontFamily: FLAGS,
+                fontSize: 40,
+                lineHeight: 1.1,
+                visibility: i < up ? 'visible' : 'hidden',
+                scale: interpolate(f - (1 + i * every), [0, SETTLE], [1.5, 1], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' }),
+              }}
+            >
+              {flag(code)}
             </div>
           ))}
         </div>

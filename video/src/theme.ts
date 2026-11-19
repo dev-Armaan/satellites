@@ -40,6 +40,11 @@ export const PALETTE: Record<Tone, Palette> = {
 export const SANS = 'Instrument Sans Variable'
 export const MONO = 'Martian Mono Variable'
 export const SERIF = 'Instrument Serif'
+/**
+ * Flags are emoji, and the site ships no emoji face, so they are drawn in whichever the rendering machine has (Noto
+ * Color Emoji in a cloud session, Apple's on a Mac). The one place the video uses a face that is not the site's.
+ */
+export const FLAGS = "'Noto Color Emoji', 'Apple Color Emoji', 'Segoe UI Emoji', sans-serif"
 
 /** The page's left and right margin (the landing's hero starts on it), in video pixels. */
 export const MARGIN = 72

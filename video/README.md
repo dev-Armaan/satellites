@@ -1,16 +1,18 @@
 # The Watched promo
 
-A short announcement video (about 18 seconds, 1920 × 1080, 60 fps) made with [Remotion](https://www.remotion.dev):
-the post that asked who made the site, the numbers, the press, a flood of real comments, and the app in its new
-languages. It lives here, outside the app's build and tests, with its own `package.json`.
+A short announcement video (about 17 seconds, 1920 × 1080, 60 fps) made with [Remotion](https://www.remotion.dev):
+the two posts that carried the site and their view counts, the numbers, the press, a flood of real comments, and the
+app in its new languages. It lives here, outside the app's build and tests, with its own `package.json`.
 
 ## The rules it follows
 
-- **Proof is shown as screenshots** (owner): the articles, the Show HN thread, each comment, the posts on X. They are
-  captured from the live pages and only ever cropped; nothing in a capture is rewritten. The few lines set in the
+- **Proof is shown as screenshots** (owner): the articles, the Show HN thread, each comment, the posts on X and
+  Reddit. They are captured from the live pages, or are the owner's own screenshots, and are only ever cropped;
+  nothing in a capture is rewritten. The few lines set in the
   video's own type are pulled from those screenshots, verbatim, with their authors (`src/data/comments.ts`).
 - **The numbers are the owner's wording**: "1,000,000+ users in under 7 days", "1,000,000+ searches", no exact
-  figures. `src/data/stats.ts` records what is behind them (visits, which are browser tabs, and searches).
+  figures (`src/data/stats.ts` records what is behind them: visits, which are browser tabs, and searches), and
+  "500+ points" on Hacker News, which stood at 499 on 19 November: check it before posting.
 - **It looks like the product.** Same ink, bone and signal orange, same three faces, same bezel at the same pixels as
   the landing page (`src/theme.ts`, `src/components/Frame.tsx`).
 - **Hard cuts on a grid of a tenth of a second** (`src/timing.ts`). No fades, no wipes, nothing bounces.
@@ -53,23 +55,33 @@ npm run render
 In a cloud session, pass the pre-installed browser to either command:
 `--browser-executable=/opt/pw-browsers/chromium_headless_shell-*/chrome-headless-shell-linux64/chrome-headless-shell`.
 
-## Screenshots that cannot be captured
+## Screenshots added by hand
 
-CBC and Reddit refuse cloud addresses. Add those by hand as PNGs in `public/proof/`, then run the proof capture again
-(it records every PNG's size, which the flood's layout reads):
+CBC, Reddit and x.com's own post pages (the only place a post's view count shows) refuse cloud addresses, and the
+owner's screenshot of the Waterloo article has its photo. Those are cropped by hand into `public/proof/` as PNGs:
 
-- CBC's two pages: `press-cbc.png` and `press-cbc-radio.png`. Until they exist, those two press cards set the
-  headline in type.
-- A Reddit post or comment: any name, then a line in `src/data/proof.json`'s `flood`, `{ "file": "<name>", "author": "u/…" }`.
-- A post on X needs no screenshot: add `{ "x": "<the post's id>", "author": "@…" }` and the capture reads X's public embed.
+- `press-cbc.png` and `press-waterloo.png` (named in `proof.json`'s `byHand`, so the capture never overwrites them;
+  without them a card sets the outlet's headline in type).
+- The two opening posts, `proof.json`'s `opening`: `{ "file": "<name>", "author": "@…", "views": "3.2M" }`. The view
+  count set in type must be the one in the screenshot.
+- A Reddit comment, in `flood`: `{ "file": "<name>", "author": "u/…", "dark": true }`.
+
+After adding a file, re-read the sizes (the flood's layout needs every capture's):
+
+```bash
+node scripts/capture-proof.cjs --sizes
+```
+
+A post on X that only needs to be in the flood needs no screenshot: `{ "x": "<the post's id>", "author": "@…" }` is
+read through X's public embed.
 
 ## Change it
 
 | To change | Edit |
 |---|---|
 | A number, or its wording | `src/data/stats.ts`, `src/scenes/Numbers.tsx` |
-| The comments and posts in the flood, the opening post, the comment under the big sentence | `src/data/proof.json`, then re-run the proof capture |
-| The phrases in the strobe, the big sentence, the reply | `src/data/comments.ts` |
+| The opening posts, the comments and posts in the flood, the comment under the big sentence | `src/data/proof.json`, then re-run the proof capture |
+| The phrases in the strobe, the big sentence | `src/data/comments.ts` |
 | The press cards | `src/data/press.ts` |
 | The languages and their order | `src/data/languages.ts`, then re-run the product capture |
 | How long a scene runs | `SCENES` in `src/timing.ts` (in tenths of a second) |

@@ -1,21 +1,21 @@
 /**
- * The numbers: visits, then where they came from, then what they asked. Each is the exact production figure
- * (src/data/stats.ts), set as large as the frame allows, with the real data behind it as texture: every country code
- * that sent a visit lights up in order, and the most searched places flick past under the search count.
+ * The numbers, as the owner words them: a million users in under seven days, a million searches, and every country
+ * and territory they came from. The count runs up to a round million and a plus sign lands on it (no exact figure is
+ * shown; src/data/stats.ts says what is behind the claim), then one word changes under the same number. The country
+ * codes are the real list, lighting in order of visits.
  */
 import { fitText } from '@remotion/layout-utils'
 import type { FC } from 'react'
 import { AbsoluteFill, Easing, interpolate, useCurrentFrame } from 'remotion'
 import { Frame } from '../components/Frame'
-import { COUNTRIES, STATS, TOP_SEARCHES } from '../data/stats'
-import { fitAccent } from '../fit'
+import { COUNTRIES, STATS } from '../data/stats'
 import { punch } from '../motion'
 import { MARGIN, MEASURE, PALETTE, SANS, accent, display, label, type Tone } from '../theme'
 import { T } from '../timing'
 
 const fmt = (n: number) => Math.round(n).toLocaleString('en-US')
 
-/** A number set as display type across the measure. Tabular, so a count that is still running does not shiver. */
+/** A number set as display type across a width. Tabular, so a count that is still running does not shiver. */
 function fitNumber(text: string, width: number, max: number): number {
   const { fontSize } = fitText({
     text,
@@ -29,33 +29,35 @@ function fitNumber(text: string, width: number, max: number): number {
   return Math.min(fontSize, max)
 }
 
-/** The count lands here, flashes for three frames, and the line under it cuts in. */
-const LANDS = 8 * T
+/** The count lands here: the plus arrives, the frame flashes for three frames, and the line under it cuts in. */
+const LANDS = 7 * T
 const FLASH = 3
-const COUNTRIES_AT = 14 * T
-const SEARCHES_AT = 21 * T
+/** "users" becomes "searches" under the same number. */
+const SEARCHES_AT = 13 * T
+const COUNTRIES_AT = 19 * T
 
 const SECTION = 'the numbers'
-const READOUT = `${STATS.since.slice(0, -5)} → ${STATS.asOf}`
+const READOUT = `Since ${STATS.since}`
 
-const Visits: FC<{ frame: number }> = ({ frame }) => {
+const Million: FC<{ frame: number }> = ({ frame }) => {
   const tone: Tone = frame >= LANDS && frame < LANDS + FLASH ? 'signal' : 'ink'
   const p = PALETTE[tone]
   const landed = frame >= LANDS
-  const size = fitNumber(fmt(STATS.visits), MEASURE, 400)
+  const searches = frame >= SEARCHES_AT
+  const size = fitNumber(`${fmt(STATS.million)}+`, MEASURE * 0.9, 520)
   return (
     <Frame tone={tone} section={SECTION} readout={READOUT}>
-      <AbsoluteFill style={{ justifyContent: 'center', padding: `0 ${MARGIN}px 40px`, scale: punch(frame, LANDS, 0.03) }}>
-        <div style={{ ...label(26), color: p.dim, marginBottom: 30 }}>Visits since {STATS.since}</div>
-        <div style={{ ...display(size), fontVariantNumeric: 'tabular-nums', color: p.fg, marginLeft: -size * 0.03 }}>
+      <AbsoluteFill style={{ justifyContent: 'center', padding: `0 ${MARGIN}px 20px`, scale: punch(frame, LANDS, 0.03) }}>
+        <div style={{ ...display(size), fontVariantNumeric: 'tabular-nums', color: p.fg, marginLeft: -size * 0.03, whiteSpace: 'nowrap' }}>
           {fmt(
-            interpolate(frame, [0, LANDS], [0, STATS.visits], {
+            interpolate(frame, [0, LANDS], [0, STATS.million], {
               extrapolateRight: 'clamp',
               easing: Easing.out(Easing.poly(4)),
             }),
           )}
+          <span style={{ color: p.accent, visibility: landed ? 'visible' : 'hidden' }}>+</span>
         </div>
-        <div style={{ position: 'relative', height: 2, marginTop: 34, backgroundColor: p.line }}>
+        <div style={{ position: 'relative', height: 2, marginTop: 30, backgroundColor: p.line }}>
           <div
             style={{
               position: 'absolute',
@@ -66,15 +68,16 @@ const Visits: FC<{ frame: number }> = ({ frame }) => {
             }}
           />
         </div>
-        <div style={{ ...display(168), color: p.fg, marginTop: 44, visibility: landed ? 'visible' : 'hidden' }}>
-          visits in <span style={{ ...accent(), fontSize: '1.08em', color: p.accent }}>{STATS.days} days.</span>
+        <div style={{ ...display(184), color: p.fg, marginTop: 40, visibility: landed ? 'visible' : 'hidden', whiteSpace: 'nowrap' }}>
+          <span style={{ display: 'inline-block', scale: punch(frame, SEARCHES_AT, 0.06), transformOrigin: 'left bottom' }}>{searches ? 'searches' : 'users'}</span>{' '}
+          <span style={{ ...accent(), fontSize: '1.08em', color: p.accent }}>in under {STATS.days} days.</span>
         </div>
       </AbsoluteFill>
     </Frame>
   )
 }
 
-const COLS = 19
+const COLS = 14
 /** How many of the newest codes are in signal. */
 const TRAIL = 12
 const Countries: FC<{ frame: number }> = ({ frame }) => {
@@ -84,16 +87,16 @@ const Countries: FC<{ frame: number }> = ({ frame }) => {
   const lit = interpolate(f, [1, 5 * T], [0, COUNTRIES.length + TRAIL], { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' })
   return (
     <Frame section={SECTION} readout={READOUT}>
-      <AbsoluteFill style={{ padding: `210px ${MARGIN}px 0` }}>
-        <div style={{ scale: punch(f), transformOrigin: 'left center' }}>
-          <div style={{ ...display(500), color: p.fg, marginLeft: -14 }}>{COUNTRIES.length}</div>
-          <div style={{ ...display(118), color: p.fg, marginTop: 6 }}>
+      <AbsoluteFill style={{ flexDirection: 'row', alignItems: 'center', padding: `60px ${MARGIN}px 40px`, gap: 70 }}>
+        <div style={{ flex: 'none', width: 900, scale: punch(f), transformOrigin: 'left center' }}>
+          <div style={{ ...display(600), color: p.fg, marginLeft: -18 }}>{COUNTRIES.length}</div>
+          <div style={{ ...display(132), color: p.fg, marginTop: 4 }}>
             countries <span style={{ color: p.fg2 }}>and territories.</span>
           </div>
         </div>
-        <div style={{ display: 'grid', gridTemplateColumns: `repeat(${COLS}, 1fr)`, rowGap: 15, marginTop: 56 }}>
+        <div style={{ flex: 1, display: 'grid', gridTemplateColumns: `repeat(${COLS}, 1fr)`, rowGap: 17 }}>
           {COUNTRIES.map((code, i) => (
-            <div key={code} style={{ ...label(21), letterSpacing: '0.04em', color: i >= lit ? p.line : i >= lit - TRAIL ? p.accent : p.fg2 }}>
+            <div key={code} style={{ ...label(23), letterSpacing: '0.04em', color: i >= lit ? p.line : i >= lit - TRAIL ? p.accent : p.fg2 }}>
               {code}
             </div>
           ))}
@@ -103,30 +106,7 @@ const Countries: FC<{ frame: number }> = ({ frame }) => {
   )
 }
 
-/** A place is on screen for this many frames. */
-const PLACE_EVERY = 5
-const Searches: FC<{ frame: number }> = ({ frame }) => {
-  const p = PALETTE.ink
-  const f = frame - SEARCHES_AT
-  const place = TOP_SEARCHES[Math.min(TOP_SEARCHES.length - 1, Math.floor(f / PLACE_EVERY))]
-  const size = fitNumber(fmt(STATS.searches), MEASURE, 400)
-  return (
-    <Frame section={SECTION} readout={READOUT}>
-      <AbsoluteFill style={{ justifyContent: 'center', padding: `0 ${MARGIN}px 40px` }}>
-        <div style={{ scale: punch(f), transformOrigin: 'left center' }}>
-          <div style={{ ...display(size), fontVariantNumeric: 'tabular-nums', color: p.fg, marginLeft: -size * 0.03 }}>{fmt(STATS.searches)}</div>
-          <div style={{ ...display(168), color: p.fg, marginTop: 20 }}>searches.</div>
-        </div>
-        <div style={{ ...label(26), color: p.dim, marginTop: 70 }}>Most searched</div>
-        <div style={{ ...accent(), fontSize: fitAccent(place, MEASURE, 150), lineHeight: 1.05, color: p.accent, marginTop: 14, whiteSpace: 'nowrap' }}>{place}</div>
-      </AbsoluteFill>
-    </Frame>
-  )
-}
-
 export const Numbers: FC = () => {
   const frame = useCurrentFrame()
-  if (frame >= SEARCHES_AT) return <Searches frame={frame} />
-  if (frame >= COUNTRIES_AT) return <Countries frame={frame} />
-  return <Visits frame={frame} />
+  return frame >= COUNTRIES_AT ? <Countries frame={frame} /> : <Million frame={frame} />
 }

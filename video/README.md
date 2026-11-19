@@ -19,11 +19,11 @@ and comments, and the app in its new languages. It lives here, outside the app's
   (`src/timing.ts` says which bar carries what). No fades, no wipes, nothing bounces.
 - **The product appears once**, in the last beat, as full-frame captures of the real landing page in each language.
 - **The music is one unbroken excerpt** of Queen's "Don't Stop Me Now" (owner's choice), cut by
-  `scripts/cut-music.py` from a copy of the song: the end of the first chorus into "I am a satellite, I'm out of
+  `scripts/cut-music.py` from a copy of the song, fading in over half a second: the end of the first chorus into "I am a satellite, I'm out of
   control", which is sung over the globe. Neither the song nor the excerpt is in the repository.
-- **The effects only mark the cuts**: ticks, a shutter, swishes of air, and one low hit used three times, all
-  synthesised by `scripts/make-sfx.cjs` (committed in `public/sfx/`). Nothing depends on being heard: most people see
-  it muted first.
+- **Few effects, each for a reason** (owner: none just to have one): a low hit on the million and on the wordmark, a
+  riser under the flood, and the keys of the address being typed once the music has stopped. All synthesised by
+  `scripts/make-sfx.cjs` (committed in `public/sfx/`). Nothing depends on being heard: most people see it muted first.
 
 ## Run it
 

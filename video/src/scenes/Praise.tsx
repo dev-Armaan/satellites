@@ -1,21 +1,25 @@
 /**
  * What the flood said, twice: first as a strobe (one phrase a tenth of a second, each somebody's own words, each set
- * from margin to margin), then as the one sentence worth holding on. The strobe is the fastest thing in the video
- * and the sentence is the only thing in it that is given time, so the sentence lands.
+ * from margin to margin), then as the one sentence worth holding on, with the screenshot of the comment it comes
+ * from under it. The strobe is the fastest thing in the video and the sentence is the only thing in it that is given
+ * time, so the sentence lands.
  */
 import type { FC } from 'react'
-import { AbsoluteFill, useCurrentFrame } from 'remotion'
+import { AbsoluteFill, Img, useCurrentFrame } from 'remotion'
 import { Frame } from '../components/Frame'
 import { HERO, STROBE } from '../data/comments'
+import proof from '../data/proof.json'
 import { fitDisplay } from '../fit'
 import { drift, punch } from '../motion'
+import { shot } from '../proof'
 import { MARGIN, MEASURE, PALETTE, accent, display, label } from '../theme'
 import { HEIGHT, SCENES, T, WIDTH } from '../timing'
 
 /** Each phrase holds a tenth of a second. */
 const STROBE_LENGTH = STROBE.length * T
-/** Where every strobe phrase stands, from the top of the frame. */
-const BASELINE = 810
+/** Where every strobe phrase stands, from the top of the frame, and the tallest it may be set. */
+const BASELINE = 690
+const TALLEST = 520
 /** The sentence arrives a word every 3 frames. */
 const WORD_EVERY = 3
 
@@ -31,7 +35,7 @@ export const Praise: FC = () => {
   if (frame < STROBE_LENGTH) {
     const index = Math.floor(frame / T)
     const item = STROBE[index]
-    const size = fitDisplay(item.text, MEASURE, 560)
+    const size = fitDisplay(item.text, MEASURE, TALLEST)
     return (
       <Frame section="the people" readout={`${String(index + 1).padStart(2, '0')} / ${STROBE.length}`}>
         {/* SVG text, because it is placed by its baseline: phrases of every size stand on the same line. */}
@@ -44,7 +48,7 @@ export const Praise: FC = () => {
             {item.text}
           </text>
         </svg>
-        <div style={{ ...label(24), position: 'absolute', left: MARGIN + 2, top: BASELINE + 56, color: p.dim }}>
+        <div style={{ ...label(28), position: 'absolute', left: MARGIN + 2, top: BASELINE + 150, color: p.dim }}>
           <span style={{ textTransform: 'none', color: p.fg2 }}>{item.author}</span> · {item.source}
         </div>
       </Frame>
@@ -54,17 +58,16 @@ export const Praise: FC = () => {
   const said = Math.floor(f / WORD_EVERY) + 1
   return (
     <Frame section="the people" readout={HERO.source}>
-      <AbsoluteFill style={{ justifyContent: 'center', padding: `0 ${MARGIN}px 30px`, scale: drift(f, 0, SCENES.praise - STROBE_LENGTH) }}>
-        <div style={{ ...display(148), lineHeight: 0.96, color: p.fg }}>
+      <AbsoluteFill style={{ justifyContent: 'center', padding: `50px ${MARGIN}px 0`, scale: drift(f, 0, SCENES.praise - STROBE_LENGTH) }}>
+        <div style={{ ...display(176), lineHeight: 0.95, color: p.fg }}>
           {WORDS.map(({ w, accent: on }, i) => (
             <span key={i} style={{ visibility: i < said ? 'visible' : 'hidden' }}>
               <span style={on ? { ...accent(), fontSize: '1.08em', color: p.accent } : undefined}>{w}</span>{' '}
             </span>
           ))}
         </div>
-        <div style={{ ...label(26), color: p.dim, marginTop: 46, visibility: said > WORDS.length ? 'visible' : 'hidden' }}>
-          <span style={{ textTransform: 'none', color: p.fg2 }}>{HERO.author}</span> · {HERO.source}
-        </div>
+        {/* The comment itself, as Hacker News shows it. */}
+        <Img src={shot(`hn-${proof.hero.id}`)} style={{ width: 760, marginTop: 54, outline: `2px solid ${p.mark}` }} />
       </AbsoluteFill>
     </Frame>
   )

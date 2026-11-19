@@ -2,12 +2,10 @@
   "thread": 50428907,
   "hero": { "id": 50431721, "author": "HoldOnAMinute" },
   "byHand": ["press-cbc", "press-waterloo"],
-  "opening": [
-    { "file": "x-ankan", "author": "@AnkanXplorer", "views": "3.2M" },
-    { "file": "x-kano", "author": "@kano955", "views": "3.6M" }
-  ],
   "flood": [
+    { "file": "x-ankan", "author": "@AnkanXplorer", "dark": true },
     { "file": "reddit-calico", "author": "u/calico_cut_pants", "dark": true },
+    { "file": "x-kano", "author": "@kano955", "dark": true },
     { "hn": 50430963, "author": "Zeetah" },
     { "file": "reddit-leedsdaddy", "author": "u/leedsdaddy", "dark": true },
     { "hn": 50428983, "author": "sixtyj" },

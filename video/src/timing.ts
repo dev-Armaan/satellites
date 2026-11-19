@@ -12,9 +12,9 @@ export const T = FPS / 10
 
 /** Scene lengths in frames, in running order. The sum is the video's length (under 25 s by a wide margin). */
 export const SCENES = {
-  hook: 15 * T,
-  numbers: 26 * T,
+  intro: 8 * T,
   press: 25 * T,
+  numbers: 26 * T,
   flood: 28 * T,
   praise: 27 * T,
   languages: 36 * T,
@@ -24,3 +24,13 @@ export const SCENES = {
 export type SceneName = keyof typeof SCENES
 
 export const TOTAL = Object.values(SCENES).reduce((a, b) => a + b, 0)
+
+/** The frame a scene starts on. */
+export function startOf(name: SceneName): number {
+  let at = 0
+  for (const [key, length] of Object.entries(SCENES)) {
+    if (key === name) return at
+    at += length
+  }
+  return at
+}

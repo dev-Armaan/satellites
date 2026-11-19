@@ -8,7 +8,7 @@ import { Promo } from './Promo'
 import { withProof, type ProofProps } from './proof'
 import { End } from './scenes/End'
 import { Flood } from './scenes/Flood'
-import { Hook } from './scenes/Hook'
+import { Intro } from './scenes/Intro'
 import { Languages } from './scenes/Languages'
 import { Numbers } from './scenes/Numbers'
 import { Praise } from './scenes/Praise'
@@ -22,9 +22,9 @@ export const Root: FC = () => (
   <>
     <Composition id="Promo" component={Promo} durationInFrames={TOTAL} {...size} {...proof} />
     <Folder name="Scenes">
-      <Composition id="Hook" component={Hook} durationInFrames={SCENES.hook} {...size} />
-      <Composition id="Numbers" component={Numbers} durationInFrames={SCENES.numbers} {...size} />
+      <Composition id="Intro" component={Intro} durationInFrames={SCENES.intro} {...size} />
       <Composition id="Press" component={Press} durationInFrames={SCENES.press} {...size} {...proof} />
+      <Composition id="Numbers" component={Numbers} durationInFrames={SCENES.numbers} {...size} />
       <Composition id="Flood" component={Flood} durationInFrames={SCENES.flood} {...size} {...proof} />
       <Composition id="Praise" component={Praise} durationInFrames={SCENES.praise} {...size} />
       <Composition id="Languages" component={Languages} durationInFrames={SCENES.languages} {...size} />

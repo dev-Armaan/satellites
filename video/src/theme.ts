@@ -42,9 +42,9 @@ export const MONO = 'Martian Mono Variable'
 export const SERIF = 'Instrument Serif'
 
 /** The page's left and right margin (the landing's hero starts on it), in video pixels. */
-export const MARGIN = 56
+export const MARGIN = 72
 /** The width type can fill. */
-export const MEASURE = 1080 - 2 * MARGIN
+export const MEASURE = 1920 - 2 * MARGIN
 
 /** Display: the condensed sans, tight, as the landing's headline is set. */
 export const display = (size: number): CSSProperties => ({

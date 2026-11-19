@@ -23,13 +23,12 @@ export const Languages: FC = () => {
   const frame = useCurrentFrame()
   const p = PALETTE.ink
   if (frame < INTRO) {
+    const line = `Now in ${LANGUAGE_COUNT} languages.`
     return (
       <Frame section="what is new" readout={`${LANGUAGE_COUNT} languages`}>
-        <AbsoluteFill style={{ justifyContent: 'center', padding: `0 ${MARGIN}px 40px`, scale: punch(frame) }}>
-          <div style={{ ...display(fitDisplay('languages.', MEASURE)), color: p.fg }}>
-            <div>Now in</div>
-            <div style={{ ...accent(), fontSize: '1.12em', lineHeight: 0.82, color: p.accent, marginLeft: '0.04em' }}>{LANGUAGE_COUNT}</div>
-            <div>languages.</div>
+        <AbsoluteFill style={{ justifyContent: 'center', padding: `0 ${MARGIN}px 20px`, scale: punch(frame) }}>
+          <div style={{ ...display(fitDisplay(line, MEASURE * 0.96)), color: p.fg, whiteSpace: 'nowrap' }}>
+            Now in <span style={{ ...accent(), fontSize: '1.08em', color: p.accent }}>{LANGUAGE_COUNT}</span> languages.
           </div>
         </AbsoluteFill>
       </Frame>

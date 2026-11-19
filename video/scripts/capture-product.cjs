@@ -1,6 +1,6 @@
 /**
  * Captures the product shots the video's last beat cuts through: the real landing page, once per language, at the
- * video's own frame (540 × 675 CSS px at 2×, so 1080 × 1350 with nothing scaled).
+ * video's own frame (1280 × 720 CSS px at 1.5×, so 1920 × 1080 with nothing scaled, and the page's desktop layout).
  *
  * Why captures and not a rebuild of the page in Remotion: the beat says "this is the product, and it now speaks your
  * language", so every pixel of it has to be the app's own (its copy, its line breaks, its right-to-left layout). The
@@ -23,7 +23,7 @@ const APP = process.argv[2] || 'http://127.0.0.1:5173'
 const OUT = path.join(__dirname, '..', 'public', 'product')
 // Kept in step with src/data/languages.ts (the order they are cut in does not matter here).
 const LOCALES = ['en', 'es', 'fr', 'de', 'pt-BR', 'it', 'nl', 'pl', 'tr', 'id', 'uk', 'ja', 'ko', 'zh-Hans', 'zh-Hant', 'ar']
-const VIEW = { width: 540, height: 675 }
+const VIEW = { width: 1280, height: 720 }
 
 ;(async () => {
   fs.mkdirSync(OUT, { recursive: true })
@@ -32,7 +32,7 @@ const VIEW = { width: 540, height: 675 }
     args: ['--use-gl=angle', '--use-angle=swiftshader', '--enable-unsafe-swiftshader', '--ignore-gpu-blocklist'],
   })
   for (const locale of LOCALES) {
-    const ctx = await browser.newContext({ viewport: VIEW, deviceScaleFactor: 2, isMobile: true, hasTouch: true })
+    const ctx = await browser.newContext({ viewport: VIEW, deviceScaleFactor: 1.5 })
     const page = await ctx.newPage()
     await page.route('**/*', (r) => (new URL(r.request().url()).hostname === host ? r.continue() : r.abort()))
     await page.goto(`${APP}/?hl=${locale}&noanalytics=1`, { waitUntil: 'load' })

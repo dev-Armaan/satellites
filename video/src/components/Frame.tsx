@@ -1,7 +1,8 @@
 /**
  * The instrument bezel every type scene sits in: the hairline frame, the corner ticks, the wordmark and the corner
- * readouts, at the same pixels as the landing page's own (measured from a 540 × 675 capture at 2×). The last beat cuts
- * to the real page, and because the chrome never moves, that cut reads as the page arriving inside the same instrument.
+ * readouts, at the same pixels as the landing page's own (measured from a 1280 × 720 capture at 1.5×). The last beat
+ * cuts to the real page, and because the chrome never moves, that cut reads as the page arriving inside the same
+ * instrument.
  */
 import type { FC, ReactNode } from 'react'
 import { AbsoluteFill } from 'remotion'
@@ -9,10 +10,12 @@ import { MARGIN, PALETTE, label, type Palette, type Tone } from '../theme'
 import { Wordmark } from './Wordmark'
 
 /** Where the page draws its frame, from the edge of the picture. */
-export const BEZEL = 20
+export const BEZEL = 24
 const HAIR = 2
-const TICK_W = 40
-const TICK_H = 30
+const TICK_W = 36
+const TICK_H = 24
+/** The page's own label size at this capture scale. */
+const CHROME = 16
 
 const Tick: FC<{ p: Palette; h: 'left' | 'right'; v: 'top' | 'bottom' }> = ({ p, h, v }) => (
   <>
@@ -31,13 +34,12 @@ export const Frame: FC<{ tone?: Tone; section: string; readout?: string; childre
       <Tick p={p} h="right" v="top" />
       <Tick p={p} h="left" v="bottom" />
       <Tick p={p} h="right" v="bottom" />
-      <div style={{ position: 'absolute', left: MARGIN, top: 44 }}>
-        <Wordmark height={34} fill={p.fg} dot={p.accent} />
+      <div style={{ position: 'absolute', left: MARGIN, top: 45 }}>
+        <Wordmark height={25} fill={p.fg} dot={p.accent} />
       </div>
-      <div style={{ ...label(), position: 'absolute', left: MARGIN + 2, top: 88, color: p.dim }}>{section}</div>
-      {/* Top right: the scene's readout over the address; with no readout the address takes its line. */}
-      <div style={{ ...label(), position: 'absolute', right: MARGIN + 2, top: 48, color: p.fg }}>{readout ?? 'watched.earth'}</div>
-      {readout ? <div style={{ ...label(), position: 'absolute', right: MARGIN + 2, top: 84, color: p.dim }}>watched.earth</div> : null}
+      <div style={{ ...label(CHROME), position: 'absolute', left: MARGIN + 1, top: 81, color: p.dim }}>{section}</div>
+      {readout ? <div style={{ ...label(CHROME), position: 'absolute', right: MARGIN + 2, top: 47, color: p.fg }}>{readout}</div> : null}
+      <div style={{ ...label(CHROME), position: 'absolute', left: MARGIN + 1, top: 1014, color: p.fg }}>watched.earth</div>
     </AbsoluteFill>
   )
 }

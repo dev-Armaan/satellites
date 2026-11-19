@@ -69,7 +69,7 @@ const Million: FC<{ frame: number }> = ({ frame }) => {
           />
         </div>
         <div style={{ ...display(184), color: p.fg, marginTop: 40, visibility: landed ? 'visible' : 'hidden', whiteSpace: 'nowrap' }}>
-          <span style={{ display: 'inline-block', scale: punch(frame, SEARCHES_AT, 0.06), transformOrigin: 'left bottom' }}>{searches ? 'searches' : 'users'}</span>{' '}
+          <span style={{ display: 'inline-block', scale: punch(frame, SEARCHES_AT, 0.025), transformOrigin: 'left bottom' }}>{searches ? 'searches' : 'users'}</span>{' '}
           <span style={{ ...accent(), fontSize: '1.08em', color: p.accent }}>in under {STATS.days} days.</span>
         </div>
       </AbsoluteFill>

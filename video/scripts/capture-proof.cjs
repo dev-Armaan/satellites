@@ -1,6 +1,6 @@
 /**
- * Captures the proof the video shows: screenshots of the articles, the Show HN thread, each comment in the flood and
- * the posts on X, all listed in src/data/proof.json.
+ * Captures the proof the video shows: screenshots of the articles, the Show HN thread and each comment in the flood,
+ * all listed in src/data/proof.json.
  *
  * Why screenshots (owner): a quote set in the video's own type is a claim, a screenshot is the thing itself. So the
  * pages are captured as they are served and are only ever cropped: nothing in a capture is rewritten. What the script

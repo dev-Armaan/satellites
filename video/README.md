@@ -1,8 +1,8 @@
 # The Watched promo
 
-A short announcement video (about 17 seconds, 1920 × 1080, 60 fps) made with [Remotion](https://www.remotion.dev):
-the two posts that carried the site and their view counts, the numbers, the press, a flood of real comments, and the
-app in its new languages. It lives here, outside the app's build and tests, with its own `package.json`.
+A short announcement video (about 16 seconds, 1920 × 1080, 60 fps, with sound effects) made with
+[Remotion](https://www.remotion.dev): "Featured in international news", the press, the numbers, a flood of real posts
+and comments, and the app in its new languages. It lives here, outside the app's build and tests, with its own `package.json`.
 
 ## The rules it follows
 
@@ -17,6 +17,8 @@ app in its new languages. It lives here, outside the app's build and tests, with
   the landing page (`src/theme.ts`, `src/components/Frame.tsx`).
 - **Hard cuts on a grid of a tenth of a second** (`src/timing.ts`). No fades, no wipes, nothing bounces.
 - **The product appears once**, in the last beat, as full-frame captures of the real landing page in each language.
+- **The sound is an instrument's**: ticks, a shutter, a low hit under the big numbers, all synthesised by
+  `scripts/make-sfx.cjs` (committed in `public/sfx/`). Nothing depends on being heard: most people see it muted first.
 
 ## Run it
 
@@ -62,9 +64,8 @@ owner's screenshot of the Waterloo article has its photo. Those are cropped by h
 
 - `press-cbc.png` and `press-waterloo.png` (named in `proof.json`'s `byHand`, so the capture never overwrites them;
   without them a card sets the outlet's headline in type).
-- The two opening posts, `proof.json`'s `opening`: `{ "file": "<name>", "author": "@…", "views": "3.2M" }`. The view
-  count set in type must be the one in the screenshot.
-- A Reddit comment, in `flood`: `{ "file": "<name>", "author": "u/…", "dark": true }`.
+- A post from X with its view count, or a Reddit comment, in `flood`: `{ "file": "<name>", "author": "@…", "dark": true }`
+  (`dark` for a capture of a dark page). The flood lands them in the order they are listed.
 
 After adding a file, re-read the sizes (the flood's layout needs every capture's):
 
@@ -80,8 +81,10 @@ read through X's public embed.
 | To change | Edit |
 |---|---|
 | A number, or its wording | `src/data/stats.ts`, `src/scenes/Numbers.tsx` |
-| The opening posts, the comments and posts in the flood, the comment under the big sentence | `src/data/proof.json`, then re-run the proof capture |
+| The posts and comments in the flood, the comment under the big sentence | `src/data/proof.json`, then re-run the proof capture |
 | The phrases in the strobe, the big sentence | `src/data/comments.ts` |
 | The press cards | `src/data/press.ts` |
 | The languages and their order | `src/data/languages.ts`, then re-run the product capture |
 | How long a scene runs | `SCENES` in `src/timing.ts` (in tenths of a second) |
+| When a sound plays, or how loud | the scene's `…_CUES` (beside the picture it belongs to); the overall level is `MASTER` in `src/sound.tsx` |
+| What a sound is | `scripts/make-sfx.cjs`, then run it |

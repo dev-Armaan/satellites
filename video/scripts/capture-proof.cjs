@@ -11,9 +11,12 @@
  *   node scripts/capture-proof.cjs
  *
  * The captures and their sizes (public/proof/sizes.json, which the flood's layout reads) are generated, never
- * committed: they are other people's pages and words, and megabytes. CBC's pages refuse cloud addresses, so their two
- * cards have no screenshot until one is added by hand as public/proof/press-cbc.png / press-cbc-radio.png.
- * X is read through its public embed (platform.twitter.com), which needs no account.
+ * committed: they are other people's pages and words, and megabytes.
+ *
+ * Some proof is added by hand, as PNGs in public/proof: CBC, Reddit and x.com's own post pages (the only place a
+ * post's view count shows) all refuse cloud addresses, and the owner's screenshot of the Waterloo article has its
+ * photo. A capture named in proof.json's `byHand` is never overwritten once it exists, and `--sizes` only re-reads the
+ * folder (run it after adding a file). A post given by id (`{ "x": "<id>" }`) is read through X's public embed.
  * Playwright is not a dependency of this folder (see capture-product.cjs).
  */
 const { chromium } = require('playwright')
@@ -35,9 +38,10 @@ async function save(name, shot) {
   console.log('captured', name, sizes[name].join('×'))
 }
 
-/** An article's top: masthead, headline, the first lines. `prepare` clears whatever covers it. */
-async function article(browser, name, url, prepare, clip) {
-  const ctx = await browser.newContext({ viewport: { width: 600, height: 1000 }, deviceScaleFactor: SCALE, locale: 'en-CA', timezoneId: ZONE })
+/** An article's top: masthead, headline, the first lines. `prepare` clears whatever covers it; `view` is the browser it is read in. */
+async function article(browser, name, url, prepare, clip, view = { viewport: { width: 600, height: 1000 }, deviceScaleFactor: SCALE, locale: 'en-CA' }) {
+  if (proof.byHand.includes(name) && sizes[name]) return console.log('kept', name, '(added by hand)')
+  const ctx = await browser.newContext({ ...view, timezoneId: ZONE })
   const page = await ctx.newPage()
   try {
     await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 })
@@ -95,7 +99,7 @@ async function comments(browser) {
 }
 
 async function posts(browser) {
-  const ids = [proof.hook.id, ...proof.flood.filter((c) => c.x).map((c) => c.x)]
+  const ids = proof.flood.filter((c) => c.x).map((c) => c.x)
   for (const id of ids) {
     const ctx = await browser.newContext({ viewport: { width: 560, height: 1000 }, deviceScaleFactor: SCALE, locale: 'en-CA', timezoneId: ZONE })
     const page = await ctx.newPage()
@@ -120,6 +124,7 @@ async function posts(browser) {
     const b = fs.readFileSync(path.join(OUT, file))
     sizes[file.slice(0, -4)] = [b.readUInt32BE(16), b.readUInt32BE(20)]
   }
+  if (process.argv.includes('--sizes')) return fs.writeFileSync(path.join(OUT, 'sizes.json'), JSON.stringify(sizes, null, 1))
   const browser = await chromium.launch(process.env.HTTPS_PROXY ? { proxy: { server: process.env.HTTPS_PROXY } } : {})
   await article(
     browser,
@@ -135,12 +140,14 @@ async function posts(browser) {
     browser,
     'press-sapo',
     'https://tek.sapo.pt/extras/site-do-dia/artigos/watched-earth-mostra-que-satelites-passaram-sobre-qualquer-local-e-as-imagens-que-captaram/',
-    null,
-    // From SAPO's own bar down: above it is an ad slot. The headline sits about 226 px under that bar.
+    // As the owner sees it: desktop width, dark. Ad slots are emptied, not removed, so the layout does not move.
+    (page) => page.addStyleTag({ content: 'iframe, ins, [id*="pub" i], [class*="pub-" i], [class*="publicidade" i] { visibility: hidden !important; }' }),
+    // From Tek's own bar (about 171 px above the headline) down to the article's picture of the site.
     async (page) => {
       const h1 = await page.locator('h1').first().boundingBox()
-      return { x: 0, y: Math.max(0, h1.y - 226), width: 600, height: 500 }
+      return { x: 0, y: Math.max(0, h1.y - 171), width: 1400, height: 720 }
     },
+    { viewport: { width: 1400, height: 1100 }, deviceScaleFactor: 2, locale: 'pt-PT', colorScheme: 'dark' },
   )
   await threadHead(browser)
   await comments(browser)

@@ -1,14 +1,22 @@
 {
   "thread": 50428907,
   "hero": { "id": 50431721, "author": "HoldOnAMinute" },
-  "hook": { "id": "2120825299697017214", "author": "@AnkanXplorer" },
+  "byHand": ["press-cbc", "press-waterloo"],
+  "opening": [
+    { "file": "x-ankan", "author": "@AnkanXplorer", "views": "3.2M" },
+    { "file": "x-kano", "author": "@kano955", "views": "3.6M" }
+  ],
   "flood": [
+    { "file": "reddit-calico", "author": "u/calico_cut_pants", "dark": true },
     { "hn": 50430963, "author": "Zeetah" },
+    { "file": "reddit-leedsdaddy", "author": "u/leedsdaddy", "dark": true },
     { "hn": 50428983, "author": "sixtyj" },
+    { "file": "reddit-max326", "author": "u/Max326", "dark": true },
     { "hn": 50432081, "author": "award_" },
-    { "x": "2120955254707794143", "author": "@kano955" },
+    { "file": "reddit-lazar988", "author": "u/Lazar988", "dark": true },
     { "hn": 50431193, "author": "jfsebastian" },
     { "hn": 50430479, "author": "wnissen" },
+    { "file": "reddit-nodraft585", "author": "u/No_Draft585", "dark": true },
     { "hn": 50437858, "author": "trizoza" },
     { "hn": 50430964, "author": "gizajob" },
     { "hn": 50429972, "author": "jttnr" },

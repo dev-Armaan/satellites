@@ -12,12 +12,12 @@ export const T = FPS / 10
 
 /** Scene lengths in frames, in running order. The sum is the video's length (under 25 s by a wide margin). */
 export const SCENES = {
-  hook: 18 * T,
+  hook: 15 * T,
   numbers: 26 * T,
-  press: 31 * T,
+  press: 25 * T,
   flood: 28 * T,
   praise: 27 * T,
-  languages: 39 * T,
+  languages: 36 * T,
   end: 14 * T,
 } as const
 

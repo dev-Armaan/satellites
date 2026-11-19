@@ -18,6 +18,9 @@ const FIELD = { left: BEZEL + 2, top: 112, right: WIDTH - BEZEL - 2, bottom: HEI
 const FIELD_W = FIELD.right - FIELD.left
 const FIELD_H = FIELD.bottom - FIELD.top
 
+/** The edge of a dark card once it has cooled. */
+const EDGE = '#3a3d40'
+
 /** This many cards land whole, inside the field: they are the ones that get read. */
 const WHOLE = 7
 /** How wide a card is shown: the first, the last of the whole ones, the last of all. */
@@ -33,6 +36,8 @@ interface Entry {
   hn?: number
   x?: string
   file?: string
+  /** a capture on a dark page (Reddit), which needs a light edge to stand off the ink and off its neighbours */
+  dark?: boolean
   author: string
 }
 
@@ -43,8 +48,9 @@ interface Card {
   top: number
   width: number
   height: number
-  /** a post from X: its capture has rounded, transparent corners, so it takes no outline */
+  /** a post from X's embed: its capture has rounded, transparent corners, so it takes no outline */
   post: boolean
+  dark: boolean
 }
 
 /** A 4 × 3 lattice of landing zones, visited so that consecutive cards land far apart (the eye has to jump). */
@@ -73,7 +79,7 @@ function layOut(sizes: Sizes): Card[] {
     const air = i < WHOLE ? 26 : 0
     const left = i === 0 ? (FIELD_W - width) / 2 : Math.max(air - width * over, Math.min(FIELD_W - air - width * (1 - over), cx * FIELD_W - width / 2))
     const top = i === 0 ? (FIELD_H - height) / 2 - 30 : Math.max(air - height * over, Math.min(FIELD_H - air - height * (1 - over), cy * FIELD_H - height / 2))
-    cards.push({ name, at: Math.round(at), left, top, width, height, post })
+    cards.push({ name, at: Math.round(at), left, top, width, height, post, dark: !!entry.dark })
     at += gap
     gap = Math.max(GAP_FLOOR, gap * GAP_DECAY)
   })
@@ -95,7 +101,7 @@ const CardView: FC<{ card: Card; frame: number }> = ({ card, frame }) => {
         width: card.width,
         height: card.height,
         filter: `brightness(${light})`,
-        outline: card.post ? undefined : `3px solid ${fresh ? SIGNAL : INK}`,
+        outline: card.post ? undefined : `3px solid ${fresh ? SIGNAL : card.dark ? EDGE : INK}`,
         scale: interpolate(age, [0, 5], [1.07, 1], {
           extrapolateLeft: 'clamp',
           extrapolateRight: 'clamp',

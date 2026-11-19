@@ -11,9 +11,6 @@ export interface Comment {
 
 const hn = (author: string, text: string): Comment => ({ source: 'Hacker News', author, text })
 
-/** The maker's reply to the post the video opens on (the post itself is a screenshot). */
-export const REPLY: Comment = { source: 'X', author: '@armaangupt0', text: 'was me' }
-
 /** The one comment the flood resolves into, with the phrase that takes the accent. */
 export const HERO: Comment & { before: string; phrase: string; after: string } = {
   ...hn('HoldOnAMinute', 'This may be the best combination of style and substance I have ever seen.'),

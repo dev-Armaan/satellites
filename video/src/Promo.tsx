@@ -13,10 +13,11 @@ import { Languages } from './scenes/Languages'
 import { Numbers } from './scenes/Numbers'
 import { Praise } from './scenes/Praise'
 import { Press } from './scenes/Press'
+import type { ProofProps } from './proof'
 import { SIGNAL } from './theme'
 import { SCENES, TOTAL, WIDTH } from './timing'
 
-export const Promo: FC = () => {
+export const Promo: FC<ProofProps> = ({ sizes }) => {
   const frame = useCurrentFrame()
   return (
     <AbsoluteFill>
@@ -28,10 +29,10 @@ export const Promo: FC = () => {
           <Numbers />
         </Series.Sequence>
         <Series.Sequence name="Press" durationInFrames={SCENES.press}>
-          <Press />
+          <Press sizes={sizes} />
         </Series.Sequence>
         <Series.Sequence name="Flood" durationInFrames={SCENES.flood}>
-          <Flood />
+          <Flood sizes={sizes} />
         </Series.Sequence>
         <Series.Sequence name="Praise" durationInFrames={SCENES.praise}>
           <Praise />

@@ -1,31 +1,44 @@
 /**
- * Coverage, as each outlet titled it. Outlets are named in type and never by logo, and no footage or audio of theirs
- * is used: both would need the outlet's permission.
+ * Coverage, one card an outlet: its name in type, and a screenshot of its own page where one can be captured
+ * (scripts/capture-proof.cjs). CBC's pages refuse cloud addresses, so until a screenshot of each is added by hand
+ * those two cards set the outlet's own headline in type instead.
  *
  * Sources: CBC's video page (cbc.ca/player/play/video/9.7426784) and radio clip (The Morning Edition, K-W, clip
  * 16249864); cs.uwaterloo.ca/news/waterloo-computer-science-students-satellite-platform (18 Nov 2026); the Show HN
- * thread (news.ycombinator.com/item?id=50428907, 499 points); tek.sapo.pt's "Site do dia" of 10 Nov 2026;
- * madethismonth.com/p/watched.
+ * thread (news.ycombinator.com/item?id=50428907, 499 points); tek.sapo.pt's "Site do dia" of 10 Nov 2026.
  */
 export interface PressItem {
   outlet: string
+  /** the outlet's name, broken where it reads best when stacked */
+  lines: string[]
   /** the mono line above: what kind of piece, where, when */
   kicker: string
-  /** the outlet's own headline, or the one fact worth the frame */
-  headline: string
-  /** set the headline as a number readout instead of a quoted title */
-  readout?: boolean
+  /** the capture's name in public/proof */
+  shot: string
+  /** the outlet's own headline, set in type when there is no capture */
+  headline?: string
+  /** the one fact worth a line of its own under the name */
+  readout?: string
+  /** one inversion in the run */
+  inverted?: boolean
 }
 
 export const PRESS: PressItem[] = [
-  { outlet: 'CBC', kicker: 'Video · Nov 2026', headline: 'UW student creates website that shows time-lapse satellite images' },
-  { outlet: 'CBC Radio', kicker: 'The Morning Edition · K-W', headline: 'UW student develops website showing satellite photos' },
   {
-    outlet: 'University of Waterloo',
-    kicker: 'Cheriton School of Computer Science · 18 Nov 2026',
-    headline: 'Waterloo computer science student’s satellite platform attracts global audience',
+    outlet: 'CBC',
+    lines: ['CBC'],
+    kicker: 'Video · Nov 2026',
+    shot: 'press-cbc',
+    headline: 'UW student creates website that shows time-lapse satellite images',
   },
-  { outlet: 'Hacker News', kicker: 'Show HN · 9 Nov 2026', headline: '499 points', readout: true },
-  { outlet: 'SAPO Tek', kicker: 'Portugal · 10 Nov 2026', headline: 'Site do dia', readout: true },
-  { outlet: 'Made This Month', kicker: 'November 2026', headline: 'Featured', readout: true },
+  {
+    outlet: 'CBC Radio',
+    lines: ['CBC', 'Radio'],
+    kicker: 'The Morning Edition · K-W',
+    shot: 'press-cbc-radio',
+    headline: 'UW student develops website showing satellite photos',
+  },
+  { outlet: 'University of Waterloo', lines: ['University', 'of Waterloo'], kicker: 'Cheriton School of Computer Science · 18 Nov 2026', shot: 'press-waterloo' },
+  { outlet: 'Hacker News', lines: ['Hacker', 'News'], kicker: 'Show HN · 9 Nov 2026', shot: 'press-hn', readout: '499 points', inverted: true },
+  { outlet: 'SAPO Tek', lines: ['SAPO', 'Tek'], kicker: 'Portugal · 10 Nov 2026', shot: 'press-sapo', readout: 'Site do dia' },
 ]

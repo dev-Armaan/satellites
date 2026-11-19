@@ -1,11 +1,9 @@
 /**
- * The promo's running order. Scenes butt against each other with no transition between them (every change is a hard
- * cut); the one thing that runs through all of them is the signal hairline along the bottom of the bezel, which
- * fills as the video plays so that even a held frame is moving.
+ * The promo's running order. Scenes butt against each other with no transition between them: every change is a hard
+ * cut, and nothing is laid over the scenes (a progress line along the bezel was tried and removed: owner).
  */
 import type { FC } from 'react'
-import { AbsoluteFill, Series, interpolate, useCurrentFrame } from 'remotion'
-import { BEZEL } from './components/Frame'
+import { AbsoluteFill, Series } from 'remotion'
 import { End } from './scenes/End'
 import { Flood } from './scenes/Flood'
 import { Hook } from './scenes/Hook'
@@ -14,11 +12,9 @@ import { Numbers } from './scenes/Numbers'
 import { Praise } from './scenes/Praise'
 import { Press } from './scenes/Press'
 import type { ProofProps } from './proof'
-import { SIGNAL } from './theme'
-import { SCENES, TOTAL, WIDTH } from './timing'
+import { SCENES } from './timing'
 
 export const Promo: FC<ProofProps> = ({ sizes }) => {
-  const frame = useCurrentFrame()
   return (
     <AbsoluteFill>
       <Series>
@@ -44,16 +40,6 @@ export const Promo: FC<ProofProps> = ({ sizes }) => {
           <End />
         </Series.Sequence>
       </Series>
-      <div
-        style={{
-          position: 'absolute',
-          left: BEZEL,
-          bottom: BEZEL,
-          height: 2,
-          width: interpolate(frame, [0, TOTAL - 1], [0, WIDTH - 2 * BEZEL]),
-          backgroundColor: SIGNAL,
-        }}
-      />
     </AbsoluteFill>
   )
 }

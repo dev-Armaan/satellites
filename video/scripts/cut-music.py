@@ -31,6 +31,8 @@ BEAT = 0.38207
 # 12 ms before the downbeat, so the first consonant is whole and frame 0 is on the beat.
 DOWNBEAT = 83.969
 START = DOWNBEAT - 0.012
+# The song comes up over half a second (owner), not in at full level on the first frame.
+FADE_IN = 0.5
 # Beat 43 of the excerpt is the bar's last hit; the next line's pickup comes half a beat later. Cut between them.
 CUT = DOWNBEAT + 43.5 * BEAT - 0.035
 TAIL = 1.17
@@ -95,7 +97,7 @@ def main():
     song = decode(sys.argv[1])
     dry = song[int(START * RATE):int(CUT * RATE)].copy()
     ramp = lambda n: np.linspace(0, 1, n)[:, None]
-    dry[:int(0.006 * RATE)] *= ramp(int(0.006 * RATE))
+    dry[:int(FADE_IN * RATE)] *= ramp(int(FADE_IN * RATE))
 
     # The tail: the last half second, fading in, through the impulse; it is already swelling under the dry signal
     # when that stops.

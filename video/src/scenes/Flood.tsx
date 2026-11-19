@@ -13,7 +13,7 @@ import proof from '../data/proof.json'
 import { shot, type ProofProps, type Sizes } from '../proof'
 import type { Cue } from '../sound'
 import { INK, PALETTE, SIGNAL } from '../theme'
-import { HEIGHT, SCENES, WIDTH } from '../timing'
+import { HEIGHT, SCENES, T, WIDTH } from '../timing'
 
 /**
  * Where the pile may be: inside the bezel, between the header row and the address in the bottom corner (the chrome is
@@ -31,10 +31,13 @@ const WHOLE = 7
 /** How wide a card is shown: the first, the last of the whole ones, the last of all. */
 const WIDTHS = [1120, 800, 520]
 
-/** The first card has the frame to itself for this long; each gap after it is this much shorter, down to the floor. */
-const FIRST_GAP = 18
-const GAP_DECAY = 0.87
-const GAP_FLOOR = 1.5
+/**
+ * When the cards land, in sixteenths. The first bar (the band has just come back in) takes eight, on the grid and
+ * closing up; the second bar, which opens on the song's biggest hit, takes all the rest, evenly, faster than a frame
+ * or two each, and the last lands half a beat before the scene ends.
+ */
+const OPENING = [0, 4, 8, 10, 12, 13, 14, 15]
+const POUR = { from: 16, to: 30 }
 
 /** A line of proof.json's flood: a Hacker News comment, a post on X, or a screenshot added by hand (Reddit). */
 interface Entry {
@@ -63,17 +66,19 @@ const COLS = 4
 const ROWS = 3
 const ZONES = [5, 2, 8, 7, 0, 10, 3, 9, 4, 11, 1, 6]
 
+const nameOf = (entry: Entry) => (entry.x ? `x-${entry.x}` : entry.hn ? `hn-${entry.hn}` : (entry.file ?? ''))
+
 function layOut(sizes: Sizes): Card[] {
   const cards: Card[] = []
-  let at = 0
-  let gap = FIRST_GAP
-  const last = proof.flood.length - 1
-  ;(proof.flood as Entry[]).forEach((entry, i) => {
+  // A capture that is missing is skipped, and takes no time: the flood closes up around it.
+  const entries = (proof.flood as Entry[]).filter((entry) => sizes[nameOf(entry)])
+  const last = entries.length - 1
+  const poured = Math.max(1, entries.length - OPENING.length)
+  entries.forEach((entry, i) => {
     const post = !!entry.x
-    const name = entry.x ? `x-${entry.x}` : entry.hn ? `hn-${entry.hn}` : (entry.file ?? '')
+    const name = nameOf(entry)
     const size = sizes[name]
-    // A capture that is missing is skipped, and takes no time: the flood closes up around it.
-    if (!size) return
+    const at = (i < OPENING.length ? OPENING[i] : POUR.from + ((i - OPENING.length) * (POUR.to - POUR.from)) / poured) * T
     const width = interpolate(i, [0, WHOLE, last], WIDTHS) * (post ? 0.86 : 1)
     const height = (width * size[1]) / size[0]
     const zone = ZONES[i % ZONES.length]
@@ -85,8 +90,6 @@ function layOut(sizes: Sizes): Card[] {
     const left = i === 0 ? (FIELD_W - width) / 2 : Math.max(air - width * over, Math.min(FIELD_W - air - width * (1 - over), cx * FIELD_W - width / 2))
     const top = i === 0 ? (FIELD_H - height) / 2 - 30 : Math.max(air - height * over, Math.min(FIELD_H - air - height * (1 - over), cy * FIELD_H - height / 2))
     cards.push({ name, at: Math.round(at), left, top, width, height, post, dark: !!entry.dark })
-    at += gap
-    gap = Math.max(GAP_FLOOR, gap * GAP_DECAY)
   })
   return cards
 }
@@ -98,11 +101,11 @@ function layOut(sizes: Sizes): Card[] {
 export function floodCues(sizes: Sizes): Cue[] {
   const cards = layOut(sizes)
   return [
-    { at: 0, sound: 'riser', volume: 0.5, length: SCENES.flood },
+    { at: 0, sound: 'riser', volume: 0.55, length: SCENES.flood },
     ...cards.map((card, i) => ({
       at: card.at,
       sound: 'tock' as const,
-      volume: interpolate(i, [0, cards.length - 1], [0.6, 0.3]),
+      volume: interpolate(i, [0, cards.length - 1], [0.7, 0.3]),
       rate: 0.85 + 0.4 * random(`pitch${i}`),
     })),
   ]

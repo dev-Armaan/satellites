@@ -16,7 +16,7 @@ import { PRESS_CUES, Press } from './scenes/Press'
 import { Soundtrack, shift } from './sound'
 import { SCENES, startOf } from './timing'
 
-export const Promo: FC<ProofProps> = ({ sizes }) => {
+export const Promo: FC<ProofProps> = ({ sizes, music }) => {
   const cues = [
     ...shift(INTRO_CUES, startOf('intro')),
     ...shift(PRESS_CUES, startOf('press')),
@@ -33,13 +33,13 @@ export const Promo: FC<ProofProps> = ({ sizes }) => {
           <Intro />
         </Series.Sequence>
         <Series.Sequence name="Press" durationInFrames={SCENES.press}>
-          <Press sizes={sizes} />
+          <Press sizes={sizes} music={music} />
         </Series.Sequence>
         <Series.Sequence name="Numbers" durationInFrames={SCENES.numbers}>
           <Numbers />
         </Series.Sequence>
         <Series.Sequence name="Flood" durationInFrames={SCENES.flood}>
-          <Flood sizes={sizes} />
+          <Flood sizes={sizes} music={music} />
         </Series.Sequence>
         <Series.Sequence name="Praise" durationInFrames={SCENES.praise}>
           <Praise />
@@ -51,7 +51,7 @@ export const Promo: FC<ProofProps> = ({ sizes }) => {
           <End />
         </Series.Sequence>
       </Series>
-      <Soundtrack cues={cues} />
+      <Soundtrack cues={cues} music={music} />
     </AbsoluteFill>
   )
 }

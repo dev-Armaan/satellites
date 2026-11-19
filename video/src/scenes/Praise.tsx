@@ -1,5 +1,5 @@
 /**
- * What the flood said, twice: first as a strobe (one phrase a tenth of a second, each somebody's own words, each set
+ * What the flood said, twice: first as a strobe (one phrase an eighth note, each somebody's own words, each set
  * from margin to margin), then as the one sentence worth holding on, with the screenshot of the comment it comes
  * from under it. The strobe is the fastest thing in the video and the sentence is the only thing in it that is given
  * time, so the sentence lands.
@@ -16,8 +16,9 @@ import type { Cue } from '../sound'
 import { MARGIN, MEASURE, PALETTE, accent, display, label } from '../theme'
 import { HEIGHT, SCENES, T, WIDTH } from '../timing'
 
-/** Each phrase holds a tenth of a second. */
-const STROBE_LENGTH = STROBE.length * T
+/** Each phrase holds an eighth note, so the eight of them fill the bar of the drum fill. */
+const PHRASE = 2 * T
+const STROBE_LENGTH = STROBE.length * PHRASE
 /** Where every strobe phrase stands, from the top of the frame, and the tallest it may be set. */
 const BASELINE = 690
 const TALLEST = 520
@@ -30,19 +31,18 @@ const WORDS = [
   ...HERO.after.split(' ').map((w) => ({ w, accent: false })),
 ]
 
-/** A tick on every phrase of the strobe (a hit under the first), then the sentence lands and its words are typed in. */
+/** A tick on every phrase of the strobe, rising, then a swish as the sentence lands and a key for each of its words. */
 export const PRAISE_CUES: Cue[] = [
-  { at: 0, sound: 'thump', volume: 0.7 },
-  ...STROBE.map((_, i) => ({ at: i * T, sound: 'tick' as const, volume: 0.6, rate: 0.9 + 0.02 * i })),
-  { at: STROBE_LENGTH, sound: 'boom' },
-  ...WORDS.slice(1).map((_, i) => ({ at: STROBE_LENGTH + (i + 1) * WORD_EVERY, sound: 'key' as const, volume: 0.22 })),
+  ...STROBE.map((_, i) => ({ at: i * PHRASE, sound: 'tick' as const, volume: 0.7, rate: 0.9 + 0.04 * i })),
+  { at: STROBE_LENGTH, sound: 'whip', volume: 0.8, rate: 0.85 },
+  ...WORDS.slice(1).map((_, i) => ({ at: STROBE_LENGTH + (i + 1) * WORD_EVERY, sound: 'key' as const, volume: 0.25 })),
 ]
 
 export const Praise: FC = () => {
   const frame = useCurrentFrame()
   const p = PALETTE.ink
   if (frame < STROBE_LENGTH) {
-    const index = Math.floor(frame / T)
+    const index = Math.floor(frame / PHRASE)
     const item = STROBE[index]
     const size = fitDisplay(item.text, MEASURE, TALLEST)
     return (
@@ -52,7 +52,7 @@ export const Praise: FC = () => {
           <text
             x={MARGIN - size * 0.035}
             y={BASELINE}
-            style={{ ...display(size), fill: p.fg, scale: punch(frame, index * T, 0.03), transformOrigin: `${MARGIN}px ${BASELINE}px` }}
+            style={{ ...display(size), fill: p.fg, scale: punch(frame, index * PHRASE, 0.03), transformOrigin: `${MARGIN}px ${BASELINE}px` }}
           >
             {item.text}
           </text>

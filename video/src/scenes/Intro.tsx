@@ -15,7 +15,7 @@ import { SCENES } from '../timing'
 const FIRST = 'Featured in'
 const SECOND = 'international news.'
 
-export const INTRO_CUES: Cue[] = [{ at: 0, sound: 'boom', volume: 0.9 }]
+export const INTRO_CUES: Cue[] = [{ at: 0, sound: 'boom', volume: 0.8 }]
 
 export const Intro: FC = () => {
   const frame = useCurrentFrame()

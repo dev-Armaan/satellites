@@ -19,7 +19,7 @@ const LETTER_EVERY = 2
 
 /** The wordmark lands; the address is typed, a key a letter. */
 export const END_CUES: Cue[] = [
-  { at: 0, sound: 'boom', volume: 0.9, rate: 0.9 },
+  { at: 0, sound: 'boom', volume: 0.8, rate: 0.9 },
   ...ADDRESS.split('').map((_, i) => ({ at: TYPE_AT + i * LETTER_EVERY, sound: 'key' as const, volume: 0.6, rate: 0.92 + 0.16 * ((i * 5) % 7) / 6 })),
 ]
 

@@ -14,16 +14,16 @@ import type { Cue } from '../sound'
 import { MARGIN, MEASURE, PALETTE, accent, display } from '../theme'
 import { T } from '../timing'
 
-/** The line that sets it up. */
-const INTRO = 6 * T
-/** English first, long enough to be recognised as the page; then a language every tenth and a half. */
-const FIRST_HOLD = 4 * T
-const EVERY = 9
+/** The line that sets it up: two beats. */
+const INTRO = 8 * T
+/** English for two beats, long enough to be recognised as the page; then a language every sixteenth, through the bar that sings "I am a satellite". */
+const FIRST_HOLD = 8 * T
+const EVERY = T
 
-/** A hit on the line, another as the page arrives, and a shutter on every language. */
+/** A swish on the line, a tick as the page arrives, and a shutter on every language. */
 export const LANGUAGES_CUES: Cue[] = [
-  { at: 0, sound: 'thump', volume: 0.8 },
-  { at: INTRO, sound: 'thump', volume: 0.55, rate: 1.1 },
+  { at: 0, sound: 'whip', volume: 0.8 },
+  { at: INTRO, sound: 'tick', volume: 0.6 },
   ...LANGUAGES.map((_, i) => ({ at: INTRO + FIRST_HOLD + i * EVERY, sound: 'shutter' as const, volume: 0.6, rate: 0.94 + 0.12 * ((i * 7) % 5) / 4 })),
 ]
 

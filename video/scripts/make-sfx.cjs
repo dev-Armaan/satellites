@@ -1,9 +1,10 @@
 /**
  * Makes the video's sound effects (public/sfx/*.wav): eight short sounds, synthesised here from sines and noise.
  *
- * Why synthesised and not taken from a library: the video is cut like an instrument (hard cuts on a grid of tenths),
- * so its sounds are an instrument's too, ticks, a shutter, a low thump under the big numbers, and nothing recorded,
- * themed or funny. Made from arithmetic they are also the project's own (no licence to track), identical on every
+ * Why synthesised and not taken from a library: the video is cut like an instrument (hard cuts on the song's
+ * sixteenths), so its sounds are an instrument's too, ticks, a shutter, swishes of air, one low hit, and nothing
+ * recorded, themed or funny. The swishes are noise and not tones on purpose: a run of pitched ticks that slowed down
+ * (the first sound under the counting number) creaked like a door (owner). Made from arithmetic they are also the project's own (no licence to track), identical on every
  * run (the noise is seeded), and tuned by editing a number here.
  *
  *   node scripts/make-sfx.cjs
@@ -118,27 +119,37 @@ write('key', finish(click(0.04, [[1800, 0.8], [3600, 0.2]], 0.004, 0.6, 3)))
   write('shutter', finish(open.map((s, i) => s + (i >= gap ? 0.8 * close[i - gap] : 0))))
 }
 
-// thump: something large cuts in. boom: a number lands.
-write('thump', finish(hit(0.4, 150, 52, 0.03, 0.085, 1.5, 6), 0.9, 20))
+// boom: the low hit. Used three times in the video and no more.
 write('boom', finish(hit(0.75, 170, 44, 0.045, 0.16, 1.9, 7), 0.9, 30))
 
-// count: the number running up. A tick each time the count passes another fortieth, on the count's own curve
-// (1 − (1 − t)^4), so it rattles and then slows into the landing.
-{
-  const seconds = 0.7
-  const one = click(0.03, [[3200, 0.7], [5200, 0.3]], 0.003, 0.4, 8)
-  const out = new Float32Array(Math.round(seconds * RATE))
-  for (let k = 1; k <= 40; k++) {
-    const at = Math.round(seconds * (1 - Math.pow(1 - k / 41, 1 / 4)) * RATE)
-    for (let i = 0; i < one.length && at + i < out.length; i++) out[at + i] += one[i] * (0.5 + 0.5 * (k / 40))
-  }
-  write('count', finish(out))
+/**
+ * Air: noise through a band that slides from `from` to `to` hertz (one low-pass minus another a third as high),
+ * shaped by `envelope` (0–1 over its length).
+ */
+function air(seconds, from, to, envelope, seed) {
+  const noise = noiseSource(seed)
+  let high = 0
+  let low = 0
+  return render(seconds, (t) => {
+    const x = t / seconds
+    const centre = from * Math.pow(to / from, x)
+    const n = noise()
+    high += (1 - Math.exp((-TAU * centre) / RATE)) * (n - high)
+    low += (1 - Math.exp((-TAU * (centre / 3)) / RATE)) * (n - low)
+    return (high - low) * envelope(x)
+  })
 }
+
+// whip: a card cuts in. A sixth of a second of air, up and gone.
+write('whip', finish(air(0.16, 700, 6500, (x) => Math.pow(Math.sin(Math.PI * x), 1.5), 10), 0.9, 4))
+
+// sweep: the country codes light up. Half a second of air rising and swelling, then let go.
+write('sweep', finish(air(0.55, 300, 7000, (x) => Math.pow(x, 1.6) * Math.min(1, (1 - x) / 0.08), 11), 0.9, 4))
 
 // riser: under the flood. Noise whose low-pass opens from 200 Hz to 8 kHz while it swells, over a sine climbing
 // with it; it stops dead, because the picture cuts to black.
 {
-  const seconds = 2.8
+  const seconds = 3.06 // the flood's two bars
   const noise = noiseSource(9)
   let low = 0
   let phase = 0

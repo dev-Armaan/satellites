@@ -16,8 +16,8 @@ import type { Cue } from '../sound'
 import { MARGIN, PALETTE, SANS, accent, display, label, type Tone } from '../theme'
 import { T } from '../timing'
 
-/** How long each card holds, in tenths: the first has the longest. */
-const HOLDS = [7, 6, 6, 6].map((n) => n * T)
+/** How long each card holds: a beat and a half each (six sixteenths), so the four fill the bar and a half after the first two beats. */
+const HOLDS = [6, 6, 6, 6].map((n) => n * T)
 /** The widest a name may be set, the air between it and the proof, and the proof's top and height. */
 const NAME_W = 700
 const GAP = 84
@@ -32,12 +32,12 @@ const nameWidth = (lines: string[], size: number) =>
     ),
   )
 
-/** A hit and a tick on every card. */
+/** A swish and a tick on every card. */
 export const PRESS_CUES: Cue[] = HOLDS.flatMap((_, i) => {
   const at = HOLDS.slice(0, i).reduce((a, b) => a + b, 0)
   return [
-    { at, sound: 'thump' as const, volume: 0.65, rate: 1 + 0.04 * i },
-    { at, sound: 'tick' as const, volume: 0.55 },
+    { at, sound: 'whip' as const, volume: 0.7, rate: 0.94 + 0.05 * i },
+    { at, sound: 'tick' as const, volume: 0.5 },
   ]
 })
 

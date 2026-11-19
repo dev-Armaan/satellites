@@ -19,18 +19,14 @@ export const HERO: Comment & { before: string; phrase: string; after: string } =
   after: 'I have ever seen.',
 }
 
-/** After the flood: a phrase a tenth of a second, each one somebody's own words, each set as wide as the frame. */
+/** After the flood: a phrase an eighth note, each one somebody's own words, each set as wide as the frame. */
 export const STROBE: Comment[] = [
   hn('creeble', 'Um, wow.'),
   hn('Zeetah', 'Just beautiful.'),
   hn('trizoza', 'Absolutely brilliant'),
   hn('award_', 'fantastic execution'),
-  hn('jfsebastian', 'Pretty damn cool'),
   hn('timoshishi', 'This is incredible.'),
   hn('zenpositive', 'just amazing'),
-  hn('sixtyj', 'Well done.'),
   hn('gizajob', 'Awesome page.'),
-  hn('wpmaven', 'Very beautiful!'),
-  hn('chrischase011', 'Nicely done!'),
   hn('2hjaito', 'wow good job'),
 ]

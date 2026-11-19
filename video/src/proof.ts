@@ -12,16 +12,19 @@ export type Sizes = Record<string, [number, number]>
 
 export interface ProofProps extends Record<string, unknown> {
   sizes: Sizes
+  /** whether the song's excerpt has been cut (public/music/track.wav); without it the video has its effects only */
+  music: boolean
 }
 
 export const shot = (name: string) => staticFile(`proof/${name}.png`)
 
 /** Every composition takes the capture sizes as a prop, resolved once before rendering. */
 export const withProof: CalculateMetadataFunction<ProofProps> = async () => {
+  const music = await fetch(staticFile('music/track.wav'), { method: 'HEAD' }).then((r) => r.ok, () => false)
   try {
     const sizes = (await (await fetch(staticFile('proof/sizes.json'))).json()) as Sizes
-    return { props: { sizes } }
+    return { props: { sizes, music } }
   } catch {
-    return { props: { sizes: {} } }
+    return { props: { sizes: {}, music } }
   }
 }

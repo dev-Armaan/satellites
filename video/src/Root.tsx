@@ -16,7 +16,7 @@ import { Press } from './scenes/Press'
 import { FPS, HEIGHT, SCENES, TOTAL, WIDTH } from './timing'
 
 const size = { width: WIDTH, height: HEIGHT, fps: FPS }
-const proof = { defaultProps: { sizes: {} } satisfies ProofProps, calculateMetadata: withProof }
+const proof = { defaultProps: { sizes: {}, music: false } satisfies ProofProps, calculateMetadata: withProof }
 
 export const Root: FC = () => (
   <>

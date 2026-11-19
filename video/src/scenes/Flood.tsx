@@ -94,8 +94,20 @@ function layOut(sizes: Sizes): Card[] {
   return cards
 }
 
-/** A riser that swells through the scene and stops dead with it: the one thing the pile needs that the song lacks. */
-export const FLOOD_CUES: Cue[] = [{ at: 0, sound: 'riser', volume: 0.6, length: SCENES.flood }]
+/**
+ * A pop for every card, as it lands (owner: a sound that matches each comment arriving, in place of the riser that
+ * ran under them all). Each is pitched a little differently, so forty of them are a crowd and not a machine, and they
+ * get quieter as they crowd, so the pour is a patter and not a wall.
+ */
+export function floodCues(sizes: Sizes): Cue[] {
+  const cards = layOut(sizes)
+  return cards.map((card, i) => ({
+    at: card.at,
+    sound: 'pop' as const,
+    volume: interpolate(i, [0, OPENING.length, cards.length - 1], [1, 0.8, 0.42]),
+    rate: 0.82 + 0.5 * random(`pitch${i}`),
+  }))
+}
 
 const CardView: FC<{ card: Card; frame: number }> = ({ card, frame }) => {
   const age = frame - card.at

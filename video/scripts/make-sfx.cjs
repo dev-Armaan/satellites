@@ -2,9 +2,9 @@
  * Makes the video's sound effects (public/sfx/*.wav): three sounds, synthesised here from sines and noise.
  *
  * Why synthesised and not taken from a library: under a famous song an effect has to be plain to be tasteful, a low
- * hit, a swell of noise, a key, and nothing recorded, themed or funny. Made from arithmetic they are also the
+ * hit, a pop, a key, and nothing recorded, themed or funny. Made from arithmetic they are also the
  * project's own (no licence to track), identical on every run (the noise is seeded), and tuned by editing a number
- * here. There were more (ticks, a shutter, swishes, a rattle under the counting number that creaked like a door);
+ * here. There were more (ticks, a shutter, swishes, a riser, a rattle under the counting number that creaked like a door);
  * the owner cut every one that did not add something, and src/sound.tsx says what each survivor is for.
  *
  *   node scripts/make-sfx.cjs
@@ -112,25 +112,20 @@ write('key', finish(click(0.04, [[1800, 0.8], [3600, 0.2]], 0.004, 0.6, 3)))
 // boom: the low hit, on the million and on the wordmark.
 write('boom', finish(hit(0.75, 170, 44, 0.045, 0.16, 1.9, 7), 0.9, 30))
 
-// riser: under the flood. Noise whose low-pass opens from 200 Hz to 8 kHz while it swells, over a sine climbing
-// with it; it stops dead, because the picture cuts to black.
+// pop: a comment lands in the flood. A sine that jumps up an octave in a hundredth of a second and is gone in a
+// twentieth: the sound a message makes when it appears, with nothing to ring on under the forty that follow it.
 {
-  const seconds = 3.06 // the flood's two bars
-  const noise = noiseSource(9)
-  let low = 0
+  const noise = noiseSource(12)
   let phase = 0
   write(
-    'riser',
+    'pop',
     finish(
-      render(seconds, (t) => {
-        const x = t / seconds
-        const cutoff = 200 * Math.pow(40, x)
-        low += (1 - Math.exp((-TAU * cutoff) / RATE)) * (noise() - low)
-        phase += (TAU * (90 + 310 * x * x)) / RATE
-        return Math.pow(x, 2.2) * low * 1.6 + 0.3 * x * x * Math.sin(phase)
+      render(0.09, (t) => {
+        phase += (TAU * (520 + 520 * (1 - Math.exp(-t / 0.012)))) / RATE
+        return Math.sin(phase) * Math.exp(-t / 0.022) * (1 - Math.exp(-t / 0.0015)) + noise() * 0.12 * Math.exp(-t / 0.002)
       }),
       0.9,
-      4,
+      8,
     ),
   )
 }

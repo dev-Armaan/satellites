@@ -12,6 +12,7 @@ import { PRESS } from '../data/press'
 import { fitAccent, fitDisplay } from '../fit'
 import { drift, punch } from '../motion'
 import { shot, type ProofProps } from '../proof'
+import type { Cue } from '../sound'
 import { MARGIN, PALETTE, SANS, accent, display, label, type Tone } from '../theme'
 import { T } from '../timing'
 
@@ -30,6 +31,15 @@ const nameWidth = (lines: string[], size: number) =>
       (text) => measureText({ text, fontFamily: SANS, fontSize: size, fontWeight: 580, letterSpacing: '-0.02em', additionalStyles: { fontStretch: '75%' } }).width,
     ),
   )
+
+/** A hit and a tick on every card. */
+export const PRESS_CUES: Cue[] = HOLDS.flatMap((_, i) => {
+  const at = HOLDS.slice(0, i).reduce((a, b) => a + b, 0)
+  return [
+    { at, sound: 'thump' as const, volume: 0.65, rate: 1 + 0.04 * i },
+    { at, sound: 'tick' as const, volume: 0.55 },
+  ]
+})
 
 const pad = (n: number) => String(n).padStart(2, '0')
 

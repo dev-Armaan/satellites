@@ -8,6 +8,7 @@ import { AbsoluteFill, useCurrentFrame } from 'remotion'
 import { BEZEL } from '../components/Frame'
 import { Wordmark } from '../components/Wordmark'
 import { punch } from '../motion'
+import type { Cue } from '../sound'
 import { PALETTE, label } from '../theme'
 import { FPS, T } from '../timing'
 
@@ -15,6 +16,12 @@ const ADDRESS = 'watched.earth'
 /** Typing starts a tenth of a second in, a letter every 2 frames. */
 const TYPE_AT = T
 const LETTER_EVERY = 2
+
+/** The wordmark lands; the address is typed, a key a letter. */
+export const END_CUES: Cue[] = [
+  { at: 0, sound: 'boom', volume: 0.9, rate: 0.9 },
+  ...ADDRESS.split('').map((_, i) => ({ at: TYPE_AT + i * LETTER_EVERY, sound: 'key' as const, volume: 0.6, rate: 0.92 + 0.16 * ((i * 5) % 7) / 6 })),
+]
 
 export const End: FC = () => {
   const frame = useCurrentFrame()

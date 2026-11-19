@@ -10,6 +10,7 @@ import { AbsoluteFill, Easing, interpolate, useCurrentFrame } from 'remotion'
 import { Frame } from '../components/Frame'
 import { COUNTRIES, STATS } from '../data/stats'
 import { punch } from '../motion'
+import type { Cue } from '../sound'
 import { MARGIN, MEASURE, PALETTE, SANS, accent, display, label, type Tone } from '../theme'
 import { T } from '../timing'
 
@@ -35,6 +36,16 @@ const FLASH = 3
 /** "users" becomes "searches" under the same number. */
 const SEARCHES_AT = 13 * T
 const COUNTRIES_AT = 19 * T
+
+/** The count rattles up and lands; the word changes; the country codes rattle in. */
+export const NUMBERS_CUES: Cue[] = [
+  { at: 0, sound: 'count', volume: 0.55 },
+  { at: LANDS, sound: 'boom' },
+  { at: SEARCHES_AT, sound: 'thump', volume: 0.7 },
+  { at: SEARCHES_AT, sound: 'tick', volume: 0.5 },
+  { at: COUNTRIES_AT, sound: 'thump', volume: 0.8 },
+  { at: COUNTRIES_AT + 2, sound: 'count', volume: 0.3, rate: 1.35 },
+]
 
 const SECTION = 'the numbers'
 const READOUT = `Since ${STATS.since}`

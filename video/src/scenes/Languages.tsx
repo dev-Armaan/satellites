@@ -10,6 +10,7 @@ import { Frame } from '../components/Frame'
 import { LANGUAGES, LANGUAGE_COUNT } from '../data/languages'
 import { fitDisplay } from '../fit'
 import { punch } from '../motion'
+import type { Cue } from '../sound'
 import { MARGIN, MEASURE, PALETTE, accent, display } from '../theme'
 import { T } from '../timing'
 
@@ -18,6 +19,13 @@ const INTRO = 6 * T
 /** English first, long enough to be recognised as the page; then a language every tenth and a half. */
 const FIRST_HOLD = 4 * T
 const EVERY = 9
+
+/** A hit on the line, another as the page arrives, and a shutter on every language. */
+export const LANGUAGES_CUES: Cue[] = [
+  { at: 0, sound: 'thump', volume: 0.8 },
+  { at: INTRO, sound: 'thump', volume: 0.55, rate: 1.1 },
+  ...LANGUAGES.map((_, i) => ({ at: INTRO + FIRST_HOLD + i * EVERY, sound: 'shutter' as const, volume: 0.6, rate: 0.94 + 0.12 * ((i * 7) % 5) / 4 })),
+]
 
 export const Languages: FC = () => {
   const frame = useCurrentFrame()

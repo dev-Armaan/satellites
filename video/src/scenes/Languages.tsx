@@ -10,7 +10,6 @@ import { Frame } from '../components/Frame'
 import { LANGUAGES, LANGUAGE_COUNT } from '../data/languages'
 import { fitDisplay } from '../fit'
 import { punch } from '../motion'
-import type { Cue } from '../sound'
 import { MARGIN, MEASURE, PALETTE, accent, display } from '../theme'
 import { T } from '../timing'
 
@@ -19,13 +18,6 @@ const INTRO = 8 * T
 /** English for two beats, long enough to be recognised as the page; then a language every sixteenth, through the bar that sings "I am a satellite". */
 const FIRST_HOLD = 8 * T
 const EVERY = T
-
-/** A swish on the line, a tick as the page arrives, and a shutter on every language. */
-export const LANGUAGES_CUES: Cue[] = [
-  { at: 0, sound: 'whip', volume: 0.8 },
-  { at: INTRO, sound: 'tick', volume: 0.6 },
-  ...LANGUAGES.map((_, i) => ({ at: INTRO + FIRST_HOLD + i * EVERY, sound: 'shutter' as const, volume: 0.6, rate: 0.94 + 0.12 * ((i * 7) % 5) / 4 })),
-]
 
 export const Languages: FC = () => {
   const frame = useCurrentFrame()

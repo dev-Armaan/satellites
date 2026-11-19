@@ -4,15 +4,19 @@
  * one place on the video's timeline. Sounds are mounted here and never inside a scene, because scenes swap whole
  * trees between beats and a sound unmounted with its beat would be cut off mid-ring.
  *
- * The sounds themselves are made by scripts/make-sfx.cjs, and the song under them is cut by scripts/cut-music.py. The
- * low hit is used three times only (the first frame, the million, the wordmark): on every cut it wore out (owner).
- * Most people will first see the video muted, so nothing in it depends on being heard.
+ * The sounds themselves are made by scripts/make-sfx.cjs, and the song under them is cut by scripts/cut-music.py.
+ * There are few on purpose (owner: no effect just to have one; each has to add something the song does not). What is
+ * left: a low hit on the million and on the wordmark (not on the first frame: the song fades in there, and a hit
+ * would undo that); a riser that swells under the flood and stops with it; and the keys of the address being typed,
+ * after the music has stopped.
+ * Ticks on every cut, a swish on every card, a shutter on every language and a sweep on the countries were all tried
+ * and removed. Most people will first see the video muted, so nothing in it depends on being heard.
  */
 import { Audio } from '@remotion/media'
 import type { FC } from 'react'
 import { Sequence, staticFile } from 'remotion'
 
-export type Sound = 'tick' | 'tock' | 'key' | 'shutter' | 'whip' | 'sweep' | 'boom' | 'riser'
+export type Sound = 'boom' | 'riser' | 'key'
 
 export interface Cue {
   /** the frame it starts on, in its scene's own time */
@@ -20,7 +24,7 @@ export interface Cue {
   sound: Sound
   /** 0–1, before the master level */
   volume?: number
-  /** playback speed, which is also pitch: repeated sounds vary it so they do not machine-gun */
+  /** playback speed, which is also pitch: the keys vary it so they do not machine-gun */
   rate?: number
   /** cut it off after this many frames (a sound that must stop with its scene) */
   length?: number

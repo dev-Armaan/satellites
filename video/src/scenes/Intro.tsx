@@ -8,14 +8,11 @@ import { AbsoluteFill, useCurrentFrame } from 'remotion'
 import { Frame } from '../components/Frame'
 import { fitAccent, fitDisplay } from '../fit'
 import { drift, punch } from '../motion'
-import type { Cue } from '../sound'
 import { MARGIN, MEASURE, PALETTE, accent, display } from '../theme'
 import { SCENES } from '../timing'
 
 const FIRST = 'Featured in'
 const SECOND = 'international news.'
-
-export const INTRO_CUES: Cue[] = [{ at: 0, sound: 'boom', volume: 0.8 }]
 
 export const Intro: FC = () => {
   const frame = useCurrentFrame()

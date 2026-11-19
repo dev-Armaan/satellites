@@ -7,23 +7,19 @@ import type { FC } from 'react'
 import { AbsoluteFill, Series } from 'remotion'
 import type { ProofProps } from './proof'
 import { END_CUES, End } from './scenes/End'
-import { Flood, floodCues } from './scenes/Flood'
-import { INTRO_CUES, Intro } from './scenes/Intro'
-import { LANGUAGES_CUES, Languages } from './scenes/Languages'
+import { FLOOD_CUES, Flood } from './scenes/Flood'
+import { Intro } from './scenes/Intro'
+import { Languages } from './scenes/Languages'
 import { NUMBERS_CUES, Numbers } from './scenes/Numbers'
-import { PRAISE_CUES, Praise } from './scenes/Praise'
-import { PRESS_CUES, Press } from './scenes/Press'
+import { Praise } from './scenes/Praise'
+import { Press } from './scenes/Press'
 import { Soundtrack, shift } from './sound'
 import { SCENES, startOf } from './timing'
 
 export const Promo: FC<ProofProps> = ({ sizes, music }) => {
   const cues = [
-    ...shift(INTRO_CUES, startOf('intro')),
-    ...shift(PRESS_CUES, startOf('press')),
     ...shift(NUMBERS_CUES, startOf('numbers')),
-    ...shift(floodCues(sizes), startOf('flood')),
-    ...shift(PRAISE_CUES, startOf('praise')),
-    ...shift(LANGUAGES_CUES, startOf('languages')),
+    ...shift(FLOOD_CUES, startOf('flood')),
     ...shift(END_CUES, startOf('end')),
   ]
   return (

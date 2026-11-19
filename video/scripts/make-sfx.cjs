@@ -1,16 +1,16 @@
 /**
- * Makes the video's sound effects (public/sfx/*.wav): eight short sounds, synthesised here from sines and noise.
+ * Makes the video's sound effects (public/sfx/*.wav): three sounds, synthesised here from sines and noise.
  *
- * Why synthesised and not taken from a library: the video is cut like an instrument (hard cuts on the song's
- * sixteenths), so its sounds are an instrument's too, ticks, a shutter, swishes of air, one low hit, and nothing
- * recorded, themed or funny. The swishes are noise and not tones on purpose: a run of pitched ticks that slowed down
- * (the first sound under the counting number) creaked like a door (owner). Made from arithmetic they are also the project's own (no licence to track), identical on every
- * run (the noise is seeded), and tuned by editing a number here.
+ * Why synthesised and not taken from a library: under a famous song an effect has to be plain to be tasteful, a low
+ * hit, a swell of noise, a key, and nothing recorded, themed or funny. Made from arithmetic they are also the
+ * project's own (no licence to track), identical on every run (the noise is seeded), and tuned by editing a number
+ * here. There were more (ticks, a shutter, swishes, a rattle under the counting number that creaked like a door);
+ * the owner cut every one that did not add something, and src/sound.tsx says what each survivor is for.
  *
  *   node scripts/make-sfx.cjs
  *
  * The files are small and are committed, so a render needs no extra step. Where each one plays is decided next to the
- * picture it belongs to (each scene's `…_CUES`), and src/sound.tsx plays them.
+ * picture it belongs to (a scene's `…_CUES`), and src/sound.tsx plays them.
  */
 const fs = require('node:fs')
 const path = require('node:path')
@@ -106,45 +106,11 @@ function hit(seconds, from, to, fall, decay, drive, seed) {
 
 fs.mkdirSync(OUT, { recursive: true })
 
-// tick: a hard cut. tock: a card landing in the flood (lower, so forty of them do not hiss). key: a letter typed.
-write('tick', finish(click(0.05, [[2400, 0.7], [4100, 0.3]], 0.006, 0.5, 1)))
-write('tock', finish(click(0.09, [[880, 0.6], [1320, 0.3], [2640, 0.1]], 0.012, 0.25, 2)))
+// key: a letter of the address being typed.
 write('key', finish(click(0.04, [[1800, 0.8], [3600, 0.2]], 0.004, 0.6, 3)))
 
-// shutter: a language flips. Two clicks 22 ms apart, as a leaf shutter opens and closes.
-{
-  const open = click(0.08, [[3000, 0.6], [600, 0.3]], 0.004, 0.9, 4)
-  const close = click(0.08, [[2100, 0.6], [500, 0.3]], 0.005, 0.8, 5)
-  const gap = Math.round(0.022 * RATE)
-  write('shutter', finish(open.map((s, i) => s + (i >= gap ? 0.8 * close[i - gap] : 0))))
-}
-
-// boom: the low hit. Used three times in the video and no more.
+// boom: the low hit, on the million and on the wordmark.
 write('boom', finish(hit(0.75, 170, 44, 0.045, 0.16, 1.9, 7), 0.9, 30))
-
-/**
- * Air: noise through a band that slides from `from` to `to` hertz (one low-pass minus another a third as high),
- * shaped by `envelope` (0–1 over its length).
- */
-function air(seconds, from, to, envelope, seed) {
-  const noise = noiseSource(seed)
-  let high = 0
-  let low = 0
-  return render(seconds, (t) => {
-    const x = t / seconds
-    const centre = from * Math.pow(to / from, x)
-    const n = noise()
-    high += (1 - Math.exp((-TAU * centre) / RATE)) * (n - high)
-    low += (1 - Math.exp((-TAU * (centre / 3)) / RATE)) * (n - low)
-    return (high - low) * envelope(x)
-  })
-}
-
-// whip: a card cuts in. A sixth of a second of air, up and gone.
-write('whip', finish(air(0.16, 700, 6500, (x) => Math.pow(Math.sin(Math.PI * x), 1.5), 10), 0.9, 4))
-
-// sweep: the country codes light up. Half a second of air rising and swelling, then let go.
-write('sweep', finish(air(0.55, 300, 7000, (x) => Math.pow(x, 1.6) * Math.min(1, (1 - x) / 0.08), 11), 0.9, 4))
 
 // riser: under the flood. Noise whose low-pass opens from 200 Hz to 8 kHz while it swells, over a sine climbing
 // with it; it stops dead, because the picture cuts to black.

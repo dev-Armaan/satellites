@@ -12,7 +12,6 @@ import proof from '../data/proof.json'
 import { fitDisplay } from '../fit'
 import { drift, punch } from '../motion'
 import { shot } from '../proof'
-import type { Cue } from '../sound'
 import { MARGIN, MEASURE, PALETTE, accent, display, label } from '../theme'
 import { HEIGHT, SCENES, T, WIDTH } from '../timing'
 
@@ -29,13 +28,6 @@ const WORDS = [
   ...HERO.before.split(' ').map((w) => ({ w, accent: false })),
   ...HERO.phrase.split(' ').map((w) => ({ w, accent: true })),
   ...HERO.after.split(' ').map((w) => ({ w, accent: false })),
-]
-
-/** A tick on every phrase of the strobe, rising, then a swish as the sentence lands and a key for each of its words. */
-export const PRAISE_CUES: Cue[] = [
-  ...STROBE.map((_, i) => ({ at: i * PHRASE, sound: 'tick' as const, volume: 0.7, rate: 0.9 + 0.04 * i })),
-  { at: STROBE_LENGTH, sound: 'whip', volume: 0.8, rate: 0.85 },
-  ...WORDS.slice(1).map((_, i) => ({ at: STROBE_LENGTH + (i + 1) * WORD_EVERY, sound: 'key' as const, volume: 0.25 })),
 ]
 
 export const Praise: FC = () => {

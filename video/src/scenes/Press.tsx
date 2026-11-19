@@ -4,21 +4,32 @@
  * outlet with no capture yet gets its own headline in type in the same place. Every card has the same skeleton, so
  * across the cuts only the content moves.
  */
+import { measureText } from '@remotion/layout-utils'
 import type { FC } from 'react'
 import { AbsoluteFill, Img, useCurrentFrame } from 'remotion'
 import { Frame } from '../components/Frame'
 import { PRESS } from '../data/press'
-import { fitDisplay } from '../fit'
+import { fitAccent, fitDisplay } from '../fit'
 import { drift, punch } from '../motion'
 import { shot, type ProofProps } from '../proof'
-import { MARGIN, PALETTE, accent, display, label, type Tone } from '../theme'
+import { MARGIN, PALETTE, SANS, accent, display, label, type Tone } from '../theme'
 import { T } from '../timing'
 
 /** How long each card holds, in tenths: the first has the longest. */
-const HOLDS = [7, 6, 6, 6, 6].map((n) => n * T)
-/** The name's column, and the proof's. */
+const HOLDS = [7, 6, 6, 6].map((n) => n * T)
+/** The widest a name may be set, the air between it and the proof, and the proof's top and height. */
 const NAME_W = 700
-const SHOT = { left: 850, top: 124, width: 1920 - 850 - MARGIN, height: 1080 - 2 * 124 }
+const GAP = 84
+const SHOT_TOP = 124
+const SHOT_H = 1080 - 2 * SHOT_TOP
+
+/** How wide a name's widest line is at a size. */
+const nameWidth = (lines: string[], size: number) =>
+  Math.max(
+    ...lines.map(
+      (text) => measureText({ text, fontFamily: SANS, fontSize: size, fontWeight: 580, letterSpacing: '-0.02em', additionalStyles: { fontStretch: '75%' } }).width,
+    ),
+  )
 
 const pad = (n: number) => String(n).padStart(2, '0')
 
@@ -31,12 +42,15 @@ export const Press: FC<ProofProps> = ({ sizes }) => {
   const tone: Tone = item.inverted ? 'bone' : 'ink'
   const p = PALETTE[tone]
   const captured = sizes[item.shot]
-  // A capture is fitted inside the proof column, whatever its shape, and centred on it.
-  const fit = captured ? Math.min(SHOT.width / captured[0], SHOT.height / captured[1]) : 0
   // A capture that is only a strip (the thread's head) leaves room under it: the readout goes there, not under the name.
-  const strip = !!captured && captured[1] * fit < 320
+  const strip = !!captured && captured[0] / captured[1] > 3
   const readoutLeft = item.readout && !strip
   const size = Math.min(...item.lines.map((line) => fitDisplay(line, NAME_W, readoutLeft ? 280 : 330)))
+  // The proof takes everything to the right of the name (a short name leaves it more), and a capture is fitted
+  // inside that, whatever its shape.
+  const left = MARGIN + Math.max(nameWidth(item.lines, size), item.readout && readoutLeft ? 560 : 0) + GAP
+  const SHOT = { left, top: SHOT_TOP, width: 1920 - left - MARGIN, height: SHOT_H }
+  const fit = captured ? Math.min(SHOT.width / captured[0], SHOT.height / captured[1]) : 0
   return (
     <Frame tone={tone} section="the press" readout={`${pad(index + 1)} / ${pad(PRESS.length)}`}>
       <AbsoluteFill style={{ padding: `0 ${MARGIN}px 20px`, justifyContent: 'center' }}>
@@ -52,7 +66,7 @@ export const Press: FC<ProofProps> = ({ sizes }) => {
           {readoutLeft ? <div style={{ ...accent(), fontSize: 150, lineHeight: 1, color: p.accent, marginTop: 26, whiteSpace: 'nowrap' }}>{item.readout}</div> : null}
         </div>
       </AbsoluteFill>
-      <div style={{ position: 'absolute', ...SHOT, display: 'flex', flexDirection: 'column', alignItems: 'flex-start', justifyContent: 'center' }}>
+      <div style={{ position: 'absolute', ...SHOT, display: 'flex', flexDirection: 'column', alignItems: strip || !captured ? 'flex-start' : 'center', justifyContent: 'center' }}>
         {captured ? (
           <Img
             src={shot(item.shot)}
@@ -66,7 +80,9 @@ export const Press: FC<ProofProps> = ({ sizes }) => {
         ) : (
           <div style={{ ...display(118), lineHeight: 0.98, color: p.fg2, scale: punch(frame, from) }}>“{item.headline}”</div>
         )}
-        {strip ? <div style={{ ...accent(), fontSize: 250, lineHeight: 1, color: p.accent, marginTop: 44, whiteSpace: 'nowrap' }}>{item.readout}</div> : null}
+        {strip && item.readout ? (
+          <div style={{ ...accent(), fontSize: fitAccent(item.readout, SHOT.width - 20, 250), lineHeight: 1, color: p.accent, marginTop: 44, whiteSpace: 'nowrap' }}>{item.readout}</div>
+        ) : null}
       </div>
     </Frame>
   )

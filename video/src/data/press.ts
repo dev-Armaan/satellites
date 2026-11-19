@@ -1,11 +1,12 @@
 /**
- * Coverage, one card an outlet: its name in type, and a screenshot of its own page where one can be captured
- * (scripts/capture-proof.cjs). CBC's pages refuse cloud addresses, so until a screenshot of each is added by hand
- * those two cards set the outlet's own headline in type instead.
+ * Coverage, one card an outlet: its name in type, and a screenshot of its own page (scripts/capture-proof.cjs, or
+ * added by hand where the page refuses cloud addresses: see that script's header). A card whose screenshot is missing
+ * sets the outlet's own headline in type instead.
  *
- * Sources: CBC's video page (cbc.ca/player/play/video/9.7426784) and radio clip (The Morning Edition, K-W, clip
- * 16249864); cs.uwaterloo.ca/news/waterloo-computer-science-students-satellite-platform (18 Nov 2026); the Show HN
- * thread (news.ycombinator.com/item?id=50428907, 499 points); tek.sapo.pt's "Site do dia" of 10 Nov 2026.
+ * Sources: CBC's video page (cbc.ca/player/play/video/9.7426784); cs.uwaterloo.ca/news/
+ * waterloo-computer-science-students-satellite-platform (18 Nov 2026); the Show HN thread
+ * (news.ycombinator.com/item?id=50428907); tek.sapo.pt's "Site do dia" of 10 Nov 2026. CBC Radio's
+ * Morning Edition clip and Made This Month are left out (owner).
  */
 export interface PressItem {
   outlet: string
@@ -27,18 +28,18 @@ export const PRESS: PressItem[] = [
   {
     outlet: 'CBC',
     lines: ['CBC'],
-    kicker: 'Video · Nov 2026',
+    kicker: 'News · Video',
     shot: 'press-cbc',
     headline: 'UW student creates website that shows time-lapse satellite images',
   },
   {
-    outlet: 'CBC Radio',
-    lines: ['CBC', 'Radio'],
-    kicker: 'The Morning Edition · K-W',
-    shot: 'press-cbc-radio',
-    headline: 'UW student develops website showing satellite photos',
+    outlet: 'University of Waterloo',
+    lines: ['University', 'of Waterloo'],
+    kicker: 'Cheriton School of Computer Science · 18 Nov 2026',
+    shot: 'press-waterloo',
+    headline: 'Waterloo computer science student’s satellite platform attracts global audience',
   },
-  { outlet: 'University of Waterloo', lines: ['University', 'of Waterloo'], kicker: 'Cheriton School of Computer Science · 18 Nov 2026', shot: 'press-waterloo' },
-  { outlet: 'Hacker News', lines: ['Hacker', 'News'], kicker: 'Show HN · 9 Nov 2026', shot: 'press-hn', readout: '499 points', inverted: true },
+  // "500+" is the owner's wording, ahead of the count: the thread stood at 499 on 19 Nov 2026. Check it before posting.
+  { outlet: 'Hacker News', lines: ['Hacker', 'News'], kicker: 'Show HN · 9 Nov 2026', shot: 'press-hn', readout: '500+ points', inverted: true },
   { outlet: 'SAPO Tek', lines: ['SAPO', 'Tek'], kicker: 'Portugal · 10 Nov 2026', shot: 'press-sapo', readout: 'Site do dia' },
 ]

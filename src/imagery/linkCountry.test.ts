@@ -5,12 +5,14 @@
 import { afterEach, describe, expect, it, vi } from 'vitest'
 import { setBundleForTests } from '@/i18n/runtime'
 import deNames from '@/i18n/de/exonyms.gen'
+import hiNames from '@/i18n/hi/exonyms.gen'
 import itNames from '@/i18n/it/exonyms.gen'
 import koExonyms from '@/i18n/ko/exonyms'
 import ruNames from '@/i18n/ru/exonyms.gen'
 import type { Place } from '@/types'
 import { displayLabel } from './geocode'
 import { ensureExonyms, EXONYM_WAIT_MS } from './exonyms'
+import { shownCountryName } from './localPlaces'
 import { linkedForName, needsLinkCountry, resolveLinkCountry, waitForLinkCountry } from './linkCountry'
 
 const FILES = import.meta.glob<string>('/public/places/**/*.txt', { query: '?raw', import: 'default' })
@@ -45,6 +47,28 @@ describe('a linked place’s name', () => {
     expect(await shown(link('London', 51.509, -0.126))).toBe('Londra')
     expect(await shown(link('London', 42.984, -81.246))).toBe('London') // Ontario
     expect(await shown(link('Corso Buenos Aires 12', 45.48, 9.21))).toBe('Corso Buenos Aires 12') // unknown there
+  })
+
+  it('names a link to a country, a region or a feature as a search for it does: no tile holds them', async () => {
+    serveFiles()
+    // Each at the point a search for it writes in the address (the list's row): reloaded, or opened by a friend.
+    setBundleForTests('de', { exonyms: { names: deNames, countries: true } })
+    await ensureExonyms()
+    expect(await shown(link('Germany', 51.5, 10.5))).toBe('Deutschland')
+    expect(await shown(link('Palestinian Territory', 31.922, 35.203))).toBe('Palästinensische Autonomiegebiete')
+    expect(await shown(link('Falkland Islands', -51.75, -59.167))).toBe(shownCountryName('FK', 'de'))
+    expect(await shown(link('Bavaria', 49, 11.5))).toBe('Bayern')
+    expect(await shown(link('Gaza Strip', 31.417, 34.333))).toBe('Gazastreifen')
+    expect(await shown(link('Lake Starnberg', 47.903, 11.312))).toBe('Starnberger See')
+    // The point decides which: Georgia, the US state, is not the country (Georgien).
+    expect(await shown(link('Georgia', 32.75, -83.5))).not.toBe('Georgien')
+    setBundleForTests('ru', { exonyms: { names: ruNames, countries: true } })
+    await ensureExonyms()
+    expect(await shown(link('Kharkiv Oblast', 49.617, 36.5))).toBe('Харьковская область')
+    expect(await shown(link('Turkey', 39, 35))).toBe('Турция')
+    setBundleForTests('hi', { exonyms: { names: hiNames, countries: true } })
+    await ensureExonyms()
+    expect(await shown(link('Gaza Strip', 31.417, 34.333))).toBe('गाज़ा पट्टी')
   })
 
   it('fetches nothing in English, and leaves the place itself as it came', async () => {

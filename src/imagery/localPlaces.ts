@@ -457,15 +457,22 @@ function tilesAround(lat: number, lon: number): string[] {
 const NAMED_REACH = 0.3
 
 /**
- * The place of the offline list named `name` nearest (lat, lon), within NAMED_REACH: a town, region or feature in the
- * tiles around the point, or a landmark. What a link's place is (./linkCountry.ts). Undefined when the list has no
- * place of that name there. Rejects if a file can't be loaded.
+ * The place of the offline list named `name` nearest (lat, lon), within NAMED_REACH: a town in the tiles around the
+ * point, a landmark, or a region, a country or a feature, which no tile holds (towns only): those are in the name's
+ * own search file, the one a search for it reads (a link to Germany, Kharkiv Oblast, the Gaza Strip or Lake Starnberg
+ * is the point a search for it wrote). What a link's place is (./linkCountry.ts). Undefined when the list has no place
+ * of that name there. Rejects if a tile or the landmarks can't be loaded; a search file that can't be leaves only the
+ * places it alone holds out.
  */
 export async function localNamed(name: string, lat: number, lon: number, signal?: AbortSignal): Promise<LocalPlace | undefined> {
   throwIfAborted(signal)
   const key = placeKey(name)
   if (!key) return undefined
-  const lists = await Promise.all([...tilesAround(lat, lon).map((f) => load(`t/${f}.txt`, signal)), load(LANDMARKS, signal)])
+  const areas = searchFile(shardFor(key, GROUPS, SPLIT), signal).then(
+    (rows) => rows?.filter((r) => r.kind === 'r' || r.kind === 'c' || r.kind === 'f') ?? null,
+    () => null,
+  )
+  const lists = await Promise.all([...tilesAround(lat, lon).map((f) => load(`t/${f}.txt`, signal)), load(LANDMARKS, signal), areas])
   let best: LocalPlace | undefined
   let bestKm = Infinity
   for (const r of lists.flatMap((l) => l ?? [])) {

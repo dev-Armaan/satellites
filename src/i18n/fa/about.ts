@@ -158,7 +158,7 @@ const about: typeof en = {
     gibs: 'تصویرها از GIBS ناسا، که بخشی از EOSDIS است. تصویرهای GOES از طریق NOAA و CIRA و تصویرهای Himawari از طریق JMA.',
     archives: {
       who: 'آرشیوها',
-      text: `Microsoft${nb}Planetary${nb}Computer و Element${nb}84 Earth${nb}Search؛ باند 15${nb}متری Landsat از Copernicus${nb}Data${nb}Space${nb}Ecosystem.`,
+      text: `Microsoft${nb}Planetary${nb}Computer و Element${nb}84${nb}Earth${nb}Search؛ باند 15${nb}متری Landsat از Copernicus${nb}Data${nb}Space${nb}Ecosystem.`,
     },
     orbits: { who: 'مدارها', text: 'مجموعه‌عناصر مداری از CelesTrak. پیاده‌سازی SGP4 از satellite.js.' },
     // OpenStreetMap's own Persian attribution

@@ -309,7 +309,7 @@ The other sentences:
 |---|---|
 | `lookingDown` | `उसका कैमरा सीधे नीचे देख रहा था।` |
 | `lookingOff(deg)` | `उसका कैमरा सीधे नीचे से 5.4° हटकर देख रहा था।` |
-| `cloudCover(pct)` | `पूरे दृश्य के 25% हिस्से पर बादल थे।` |
+| `cloudCover(pct)` | `पूरे दृश्य के 25% हिस्से पर बादल थे।` At 0: `पूरे दृश्य में बादलों का हिस्सा 0% था।` |
 | `mosaic` | `उसके VIIRS इमेजर ने Waterloo को NASA के असली रंगों वाले दैनिक मोज़ेक में 375 मी प्रति पिक्सेल पर दर्ज किया।` |
 | `radarImaged` | `उसके रडार ने एक तरफ़ 38.2° के कोण पर देखते हुए अंधेरे में Waterloo की तस्वीर 20 मी प्रति पिक्सेल पर ली।` ("looking", as the English: Sentinel-1 looks sideways by design; `झुककर` would say it leaned) |
 | `likely.crossed` | `16:14 EST पर Landsat 9 ठीक ऊपर से गुज़रा। वह 705 किमी की ऊँचाई पर था, और यह जगह उसकी 185 किमी चौड़ी पट्टी के भीतर थी।` |
@@ -379,7 +379,7 @@ After `उसका संचालक`, name the camera or the satellite again 
 | `headlineBy.likely` | `*Waterloo के ऊपर से*` · `Sentinel-2C की पट्टी गुज़री।` |
 | `headlineBy.could` | `*Waterloo तक*` · `Sentinel-2C की पहुँच थी।` |
 | `headlineBy.overhead` | `*Waterloo के ऊपर से*` · `Sentinel-2C गुज़रा।` |
-| `headlineWeek(31)` | `*Waterloo को*` · `इस हफ़्ते 31 उपग्रहों ने देखा।` (the page title: `Waterloo को इस हफ़्ते 31 उपग्रहों ने देखा।`) |
+| `headlineWeek(31)` | `*Waterloo को*` · `इस हफ़्ते 31⍽उपग्रहों⍽ने⍽देखा।` (the page title: `Waterloo को इस हफ़्ते 31 उपग्रहों ने देखा।`). The count phrase is tied, so the lead breaks after `इस हफ़्ते`, never before a lone `देखा।` (§6.7). |
 | `headlineWeek(0)` | `*Waterloo को*` · `इस हफ़्ते हमारी सूची के किसी भी उपग्रह ने नहीं देखा।` (the results' words) |
 
 - The place leads, in the serif, with its postposition on its line: a line that started with `को` would look broken.
@@ -587,7 +587,9 @@ Rules:
    `तस्वीर`), `Waterloo के ऊपर`. Always safe.
 4. Point back with `यहाँ`, `इस जगह`, `यह जगह` (f, our noun), or `उसके` / `इसके` (no gender). Never `वह` as the place's
    subject.
-5. In display lines tie a short postposition to the name with a no-break space (`Waterloo\u00a0को`).
+5. In display lines tie a short postposition to the name with a no-break space (`Waterloo\u00a0को`). The results
+   headline also keeps a short name whole (≤ 20 characters, ≤ 3 words: `New\u00a0Delhi`, `-12.000,\u00a0-30.000`): it is
+   balanced, and a break inside the serif name (`पिछले 7 दिनों में New / Delhi को`) reads worse than one after `में`.
 6. English adds "the" before seas and deserts; Hindi has no article: `Pacific Ocean को`.
 
 ### 5.2 [SAT]: masculine, and `ने`
@@ -706,8 +708,11 @@ are, in Latin. A Devanagari word next to one is separated by a space.
 
 ### 6.3 Spaces
 
-- A no-break space (written `\u00a0`) between a number and its unit or noun in strings we build: `786\u00a0किमी`,
-  `7\u00a0दिनों`, `27\u00a0तस्वीरें`.
+- A no-break space (written `\u00a0`) between a number and its unit or noun, in strings we build and in fixed prose
+  alike (the satellite blurbs, About): `786\u00a0किमी`, `7\u00a0दिनों`, `27\u00a0तस्वीरें`, `15\u00a0मी`.
+- A word joiner (written `\u2060`) after the hyphen or dash of a name, range or stamp in running text that wraps
+  (`Sentinel-\u20601`, `2–\u20605`, `2026-\u206011-\u206019`): Chrome breaks after a hyphen, and the footnotes at 390 px
+  split `(Sentinel-` from `1, 20 मी)`.
 - Between `[PLACE]` and a short postposition in display lines (`Waterloo\u00a0को`).
 - No space before `।`, `?`, `,`, `:`, `%`, `°`.
 
@@ -749,8 +754,10 @@ says `स्थानीय समयानुसार 11:21 पर`. Durations
 ### 6.7 Line breaking
 
 Devanagari breaks at spaces. A postposition left at a line start (`को देखा।`) looks like a fragment; in display lines
-(the hero, the headline, the card) keep it with its noun by a no-break space, and in body text accept the break. Never
-break inside a word, and never hyphenate Hindi.
+(the hero, the headline, the card) keep it with its noun by a no-break space, and in body text accept the break. A lone
+verb on a display line's last line (`… उपग्रहों ने / देखा।`) is as bad: tie the phrase it ends where the width allows
+(measure: a tied run wider than its column overflows instead of wrapping). Never break inside a word, and never
+hyphenate Hindi.
 
 ### 6.8 Mono labels and the script
 
@@ -1058,3 +1065,27 @@ say why the self-name is `हिन्दी`.
 - **Kept as decided**, after both reviews: `उपग्रह`, `तस्वीर` / `फ़ोटो`, `उड़ान` and `बार`, the hero, `संभवतः`, `रीप्ले`,
   `NASA` in Latin, `आरोही / अवरोही`, `बारीक` as the filter chip, `लोकेशन`, the zero-takes-plural rule (the native reader
   confirmed it), Western digits with Indian grouping, full month names, and the danda.
+
+### Phone pass (2026-11-22)
+
+Every screen measured at 360, 390 and 430 px portrait, 844 × 390 and 1280 × 800, beside English (`getBoundingClientRect`,
+`scrollWidth`, line boxes per word). Changed:
+- Results headline: a short place stays whole (`New\u00a0Delhi`). The balanced headline broke the serif name at every
+  phone width (`पिछले 7 दिनों में New / Delhi को 262 उपग्रहों ने देखा।`); now it breaks after `को` (360–430 px) and keeps
+  `-12.000, -30.000 को` on one line at sea. Long names (`Thiruvananthapuram, Kerala, India`) keep their spaces.
+- Week card: `इस हफ़्ते 262 उपग्रहों ने / देखा।` (a lone verb) → the count phrase tied, `इस हफ़्ते / 262 उपग्रहों ने देखा।`
+  (380 px at 62 px in the 466 px column, 441 px at 72; a week's lead is never set at 84 px). Zero ties `किसी भी`,
+  `उपग्रह ने` and `नहीं देखा।` (`… के / किसी भी उपग्रह ने / नहीं देखा।`: untied it left `देखा।` alone, tied whole it opened
+  a line on `ने`). The pass card's `262 उपग्रहों ने / देखा।` and `Landsat 9 ने / देखा।` (84 px, 515 px wide) cannot be tied
+  without overflowing: reported.
+- Footnotes: `(Sentinel-` / `1, 20 मी)`, `2–` / `5 किमी` and `(प्राप्त 2026-` / `11-19 …)` split at 390 px; word joiners
+  after the hyphens and dashes (§6.3).
+- Blurbs and About: 61 numbers and units joined by a plain space (`30 मी के रंगीन और 15 / मी के` at 1280 px) → a
+  no-break space (§6.3).
+- `cloudCover(0)`: `पूरे दृश्य के 0% हिस्से पर बादल थे` ("clouds lay on 0 % of it") → `पूरे दृश्य में बादलों का हिस्सा
+  0% था।`; every other value keeps its sentence.
+- About `sgp4`: `उसकी नज़र के दायरे में` gave the satellite a gaze, which §3.6 rejected for the card → `उसके देखने के
+  दायरे में`, the glossary's field of regard (`देखने का दायरा`).
+
+Measured and kept: the imaged group's order note is cut at 360 px (18 px; English is cut at 390); `जगह पर / बादल` takes
+two lines as `CLOUD AT / SPOT` does; the lane words at 1280 px sit 12 px apart in 14 px line boxes, touching nothing.

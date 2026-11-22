@@ -8,10 +8,10 @@
  */
 
 /** U+2066 LEFT-TO-RIGHT ISOLATE … U+2069 POP DIRECTIONAL ISOLATE: one left-to-right run in a DOM-only string */
-export const ltr = (s: string) => `⁦${s}⁩`
+export const ltr = (s: string) => `\u2066${s}\u2069`
 
 /** Holds Arabic-script letters, or an isolate already (then the string places itself). */
-const RTL_OR_ISOLATED = /[\p{Script=Arabic}⁦-⁩]/u
+const RTL_OR_ISOLATED = /[\p{Script=Arabic}\u2066-\u2069]/u
 
 /** Isolate a Latin label (a zone, a place), but leave one with Arabic-script words or isolates of its own as it is. */
 export const isoUnlessRtl = (s: string) => (RTL_OR_ISOLATED.test(s) ? s : ltr(s))

@@ -10,10 +10,16 @@ import { isoUnlessRtl, ltr, whole } from './bidi'
 import faPass from './fa/pass'
 import faResults from './fa/results'
 
-const LRI = '⁦'
-const PDI = '⁩'
+const LRI = '\u2066'
+const PDI = '\u2069'
 const flat = (x: unknown): string =>
-  typeof x === 'string' ? x : Array.isArray(x) ? x.map(flat).join('') : x && typeof x === 'object' ? Object.values(x).map(flat).join('') : ''
+  typeof x === 'string'
+    ? x
+    : Array.isArray(x)
+      ? x.map(flat).join('')
+      : x && typeof x === 'object'
+        ? Object.values(x).map(flat).join('')
+        : ''
 
 // Arabic Supplement (U+0750), Extended-A (U+08A0), a presentation form (U+FB8E: KEHEH) and the base block (U+0628).
 const OUTSIDE = ['ݐبل', 'ࢠبل', 'ﮎرج', 'بلخ']
@@ -50,4 +56,3 @@ describe('isoUnlessRtl', () => {
     }
   })
 })
-

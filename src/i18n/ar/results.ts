@@ -42,7 +42,11 @@ type Forms = { one: string; two: string; few: string; many: string; other: strin
 
 /** U+2066 LEFT-TO-RIGHT ISOLATE … U+2069 POP DIRECTIONAL ISOLATE: one left-to-right run in a DOM-only string */
 const ltr = (s: string) => `\u2066${s}\u2069`
-/** Isolate a Latin label (a zone, a zone name), but leave one that holds Arabic words or isolates already as it is */
+/**
+ * Isolate a Latin label (a zone, a zone name, a place), but leave one that holds Arabic words or isolates already as it
+ * is. A place searched by coordinates needs it most: «23.5000°N 12.5000°E» at the end of the headline read
+ * «N 12.5000°E°23.5000.».
+ */
 const iso = (s: string) => (/[\u0600-\u06ff\u2066-\u2069]/.test(s) ? s : ltr(s))
 /** A whole count, or a fraction kept (its plural category is `other`) */
 const int = (n: number) => (Number.isInteger(n) ? f.int(n) : f.dec(n, 1))
@@ -170,11 +174,11 @@ const results: typeof en = {
         many: ['رصد ', num(int(n)), `${nb}قمرًا صناعيًا`],
         other: ['رصد ', num(int(n)), `${nb}قمر صناعي`],
       })
-      return [window, strong(...phrase), ' ', accent(place), stop(place)]
+      return [window, strong(...phrase), ' ', accent(iso(place)), stop(place)]
     },
     none: (place: string, past: boolean): Rich => [
       `${past ? 'في ذلك الأسبوع' : 'هذا الأسبوع'}، لم يرصد أي قمر صناعي نتتبّعه `,
-      accent(place),
+      accent(iso(place)),
       stop(place),
     ],
   },
@@ -258,7 +262,7 @@ const results: typeof en = {
     },
     checked: (passes: number, satellites: number) => checked(passes, satellites),
     passTimes: (place: string, fetched: string | undefined, zoneLabel: string) =>
-      `أوقات المرور هي اللحظات التي كان فيها كل قمر صناعي أقرب ما يكون إلى ${place}، محسوبة من عناصر مدارية عامة` +
+      `أوقات المرور هي اللحظات التي كان فيها كل قمر صناعي أقرب ما يكون إلى ${iso(place)}، محسوبة من عناصر مدارية عامة` +
       `${fetched ? ` (جُلبت ${ltr(fetched)})` : ''}. الأوقات المحلية بتوقيت ${zoneLabel}.`,
   },
 
@@ -307,7 +311,7 @@ const results: typeof en = {
     nextTitle: 'التالي (→)',
     allPassesTitle: 'كل مرات المرور (Esc)',
     // Nominal, so the satellite's name and the place never touch (ar.md §5.2); a shared ISS pass is the station's.
-    shared: (sat: string, place: string) => `تمت مشاركته معك · ${satWatched(sat)} ${place}`,
+    shared: (sat: string, place: string) => `تمت مشاركته معك · ${satWatched(sat)} ${iso(place)}`,
     passWhen: (ms: number, timeZone: string, p: DateFields, clock: string, zone: string, approx: boolean) =>
       // The clock and its zone are one left-to-right island (LRI…PDI), or they read «UTC-5 11:21» after the day.
       `${time.day(ms, timeZone, p)} · \u2066${approx ? `≈${nb}` : ''}${clock}${nb}${zone}\u2069`,
@@ -337,7 +341,7 @@ const results: typeof en = {
     sharedAlt: (sat: string | undefined, place: string) => `صورة ${place} من ${aSat(sat)}، تمت مشاركتها معك.`,
     sharedCaption: (sat: string | undefined, place: string, when?: PlaceWhen): Rich => [
       strong('تمت مشاركته معك'),
-      ` · ${sat ? `${satWatched(sat)} ${place}` : `رصد قمر صناعي ${place}`}${when ? ` · ${day(when.ms, when.timeZone)}، ${when.time}` : ''}`,
+      ` · ${sat ? `${satWatched(sat)} ${iso(place)}` : `رصد قمر صناعي ${iso(place)}`}${when ? ` · ${day(when.ms, when.timeZone)}، ${when.time}` : ''}`,
     ],
   },
 

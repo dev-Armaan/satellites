@@ -33,6 +33,8 @@ const f = fmt('ar')
 const nb = '\u00a0'
 /** U+2066 LEFT-TO-RIGHT ISOLATE … U+2069 POP DIRECTIONAL ISOLATE (DOM-only text) */
 const ltr = (s: string) => `\u2066${s}\u2069`
+/** The place, isolated unless it is Arabic: a place searched by coordinates would otherwise reorder its numbers */
+const at = (place: string) => (/[\u0600-\u06ff\u2066-\u2069]/.test(place) ? place : ltr(place))
 
 /** Moving (`heading`): «متجهًا نحو الجنوب» */
 const HEADING: Record<Compass8, string> = {
@@ -145,7 +147,7 @@ const pass: typeof en = {
       ...(o.cadenceMin ? [' ', ...everyMinutes(o.cadenceMin), '.'] : ['.']),
     ],
     reached: (o: { place: string; time: string; zone: string; heading: Compass8 }): Rich => [
-      `بلغ خط هذا المسح ${o.place} عند `,
+      `بلغ خط هذا المسح ${at(o.place)} عند `,
       clock(o.time, o.zone),
       ` تقريبًا، متجهًا ${HEADING[o.heading]}.`,
     ],
@@ -163,12 +165,12 @@ const pass: typeof en = {
   ],
   // The sensor and the place never touch: «صورة» stands between them (ar.md §5.2).
   mosaic: (o: { sensor: string; place: string; gsdM: number }): Rich => [
-    `ضمّ جهاز تصويره ${o.sensor} صورة ${o.place} إلى فسيفساء ناسا اليومية بالألوان الطبيعية، بدقة `,
+    `ضمّ جهاز تصويره ${o.sensor} صورة ${at(o.place)} إلى فسيفساء ناسا اليومية بالألوان الطبيعية، بدقة `,
     ...perPixel(o.gsdM),
     '.',
   ],
   radarImaged: (o: { deg: number; place: string; gsdM: number; dark: boolean }): Rich => [
-    `رصد راداره ${o.place} بدقة `,
+    `رصد راداره ${at(o.place)} بدقة `,
     ...perPixel(o.gsdM),
     '، ناظرًا بزاوية ',
     deg(o.deg),
@@ -207,19 +209,19 @@ const pass: typeof en = {
     insideSwath: (o: { place: string; swathKm: number }): Rich => [
       'كان نطاق مسحه بعرض ',
       ...km(o.swathKm),
-      ` يشمل ${o.place}${stop(o.place)} لا ينشر مشغّله أين التقط صوره، لذا لا يمكننا أن نعرف إن كان قد فعل.`,
+      ` يشمل ${at(o.place)}${stop(o.place)} لا ينشر مشغّله أين التقط صوره، لذا لا يمكننا أن نعرف إن كان قد فعل.`,
     ],
     radar: (o: { place: string; deg?: number; openArchive: boolean }): Rich => [
       'يرى الرادار عبر السحب والظلام. ',
       ...(o.deg === undefined
-        ? [`كان بإمكانه رصد ${o.place}${stop(o.place)}`]
-        : ['لو وجّه راداره بزاوية ', deg(o.deg), ` إلى الجانب، لأمكنه رصد ${o.place}${stop(o.place)}`]),
+        ? [`كان بإمكانه رصد ${at(o.place)}${stop(o.place)}`]
+        : ['لو وجّه راداره بزاوية ', deg(o.deg), ` إلى الجانب، لأمكنه رصد ${at(o.place)}${stop(o.place)}`]),
       o.openArchive ? ' لم نجد صورة منشورة من هذا المرور.' : ' لا يمكننا أن نعرف إن كان قد فعل.',
     ],
     camera: (o: { place: string; deg?: number }): Rich => [
       ...(o.deg === undefined
-        ? [`كان بإمكانه رصد ${o.place} وهو ينظر عموديًا إلى الأسفل.`]
-        : ['لو وجّه كاميرته بانحراف ', deg(o.deg), ` عن العمودي، لأمكنه رصد ${o.place}${stop(o.place)}`]),
+        ? [`كان بإمكانه رصد ${at(o.place)} وهو ينظر عموديًا إلى الأسفل.`]
+        : ['لو وجّه كاميرته بانحراف ', deg(o.deg), ` عن العمودي، لأمكنه رصد ${at(o.place)}${stop(o.place)}`]),
       ' لا يمكننا أن نعرف إن كان قد فعل.',
     ],
   },

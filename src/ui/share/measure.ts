@@ -18,14 +18,19 @@
  * view), so a press finds it in.
  */
 import { useEffect } from 'react'
+import { quietly } from '@/lib/staleBuild'
 import { hasCardMeasure, provideCardMeasure } from '../../../api/_lib/cardSpec'
 
 let chunk: Promise<void> | undefined
 
-/** The measure's chunk (asked for once; a failed download is asked for again next time). */
-export function loadCardMeasure(): Promise<void> {
+/**
+ * The measure's chunk (asked for once; a failed download is asked for again next time). `quiet`: a prefetch, whose
+ * failure must not reload the results (src/lib/staleBuild.ts); a press's load may, when the build is new.
+ */
+export function loadCardMeasure(quiet = false): Promise<void> {
   if (hasCardMeasure()) return Promise.resolve()
-  chunk ??= import('../../../api/_lib/cardMeasure').then(provideCardMeasure)
+  const load = () => import('../../../api/_lib/cardMeasure').then(provideCardMeasure)
+  chunk ??= quiet ? quietly(load) : load()
   chunk.catch(() => (chunk = undefined))
   return chunk
 }
@@ -33,7 +38,7 @@ export function loadCardMeasure(): Promise<void> {
 /** Installed: a card can be built now. */
 export const cardMeasureReady = hasCardMeasure
 
-const warm = () => void loadCardMeasure().catch(() => undefined)
+const warm = () => void loadCardMeasure(true).catch(() => undefined)
 
 /** How long after the final report the prefetch may wait for an idle main thread. */
 const IDLE_TIMEOUT_MS = 3000

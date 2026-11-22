@@ -56,3 +56,18 @@ describe('reloadForNewBuild', () => {
     expect(reloads).toBe(1)
   })
 })
+
+describe('quietly', () => {
+  it('marks a prefetch as running until it settles, whether it loads or fails', async () => {
+    const { quietly, prefetching } = await import('./staleBuild')
+    let fail!: (e: Error) => void
+    const failing = quietly(() => new Promise<void>((_, reject) => (fail = reject)))
+    const loading = quietly(() => Promise.resolve(1))
+    expect(prefetching()).toBe(true)
+    await loading
+    expect(prefetching()).toBe(true)
+    fail(new Error('Failed to fetch dynamically imported module'))
+    await failing.catch(() => undefined)
+    expect(prefetching()).toBe(false)
+  })
+})

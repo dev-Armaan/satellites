@@ -9,6 +9,12 @@
  * RELOAD_GUARD_MS, and none at all when sessionStorage is unavailable (no way to remember that we already tried).
  * Workers need nothing here: a worker that fails to load falls back to the main thread (engine/pool.ts,
  * imagery/pixelsClient.ts).
+ *
+ * A prefetch nobody is waiting for (`quietly`: the share card's measure, fetched at idle once results are final) never
+ * reloads: its failure is as likely a dropped connection as a new build, and reloading the results someone is reading
+ * for a chunk they may never use would be worse than the press that later asks for it again (and reloads then, if the
+ * build is new). Vite's event does not say which import failed, so while one runs no failure reloads; the imports
+ * themselves still reject as before.
  */
 
 const KEY = 'watched-stale-build-reload'
@@ -19,6 +25,28 @@ export interface StaleBuildDeps {
   reload: () => void
   now: () => number
 }
+
+let quiet = 0
+
+/** Run a prefetch that must not reload the page if it fails (see above). */
+export function quietly<T>(load: () => Promise<T>): Promise<T> {
+  quiet++
+  let p: Promise<T>
+  try {
+    p = load()
+  } catch (e) {
+    quiet--
+    throw e
+  }
+  p.then(
+    () => quiet--,
+    () => quiet--,
+  )
+  return p
+}
+
+/** Whether a quiet prefetch is running (a failure now may be its own: no reload). */
+export const prefetching = (): boolean => quiet > 0
 
 /** Reload once for a missing chunk. Returns true if a reload was started (the caller then swallows the error). */
 export function reloadForNewBuild(deps: StaleBuildDeps): boolean {
@@ -48,6 +76,7 @@ function sessionStore(): Storage | null {
 export function installStaleBuildReload(): void {
   if (typeof window === 'undefined') return
   window.addEventListener('vite:preloadError', (event) => {
+    if (prefetching()) return
     const started = reloadForNewBuild({ storage: sessionStore(), reload: () => window.location.reload(), now: () => Date.now() })
     // Swallow the error only when the page is about to reload; otherwise let the app's own error handling see it.
     if (started) event.preventDefault()

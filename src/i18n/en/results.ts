@@ -293,9 +293,10 @@ export default ns('results', {
   // ── the computing readout (between a search and its results) ──────────────────────────────────
   computing: {
     /**
-     * The four numbered rows, mono caps, one line each beside the row's number and duration (about 40 characters on a
-     * 390 px phone): `idle` before the step starts, `done` after (while it runs the engine writes its own line). The
-     * idle labels are also what screen readers hear as each step starts
+     * The four numbered rows, mono caps, beside the row's number and duration (about 40 characters a line on a 390 px
+     * phone; a longer one wraps to a second line, so keep them short): `idle` before the step starts, `done` after
+     * (while it runs the engine writes its own line). The idle labels are also what screen readers hear as each step
+     * starts
      */
     stages: {
       catalog: { idle: 'Orbital catalog', done: 'Catalog loaded' },

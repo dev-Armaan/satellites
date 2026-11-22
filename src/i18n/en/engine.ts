@@ -23,10 +23,11 @@ export default ns('engine', {
   /**
    * The computing readout (the screen between a search and its results): numbered rows that show what the engine is
    * doing. Mono, set in capitals by CSS (English happens to be written in capitals; a translation can use normal case),
-   * ONE line in a narrow column beside the row's number, its duration and a status mark, cut with an ellipsis: about
-   * 40 characters fit on a 390 px phone and the longest English row already takes them, so keep these short. The
-   * whole readout is hidden from screen readers (they hear a summary of their own). The ' · ' middle dot separates a
-   * phrase from its counter.
+   * in a narrow column beside the row's number, its duration and a status mark: about 40 characters fit a line on a
+   * 390 px phone, and a longer row wraps to a second line, so keep these short. The whole readout is hidden from
+   * screen readers (they hear a summary of their own). The ' · ' middle dot separates a phrase from its counter: what
+   * follows the LAST middle dot, when it is short (20 characters or fewer: "· 288 / 403", "· 7 days"), is never broken
+   * across lines, and the word before the dot moves down with it.
    */
   progress: {
     /** Row 1, while the orbit catalog (every tracked object's orbital elements) downloads */

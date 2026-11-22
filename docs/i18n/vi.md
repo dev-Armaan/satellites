@@ -1392,3 +1392,43 @@ was judged on its merits; where they disagreed, the choice and its reason are be
 - **Kept as they are:** the geostationary blurbs' *chụp toàn đĩa* (they describe imagers, as the Vietnamese weather press
   does; only radar and the note under a shown frame, which can be infrared, take *ghi*); every point A or B confirmed
   (*Quét qua*, *Nhiều khả năng đã quan sát* on two lines, CLDR's capitalised weekdays, *Kyiv*, *Khu vực 51*).
+
+## Review: phone-first visual pass (2026-11-22)
+
+Every state measured (`scrollWidth` against `clientWidth`, each text node's line boxes against the viewport and its
+element) at 360 × 780, 390 × 844, 430 × 932, 844 × 390 and 1280 × 800 against English at the same size, and looked at:
+the landing, search suggestions, computing, the results summary, the pass list, a pass view of each verdict with its
+replay, the geostationary rows, the photo viewer, both share sheets and every share card (rendered by `/api/og` with
+`l=vi`), About, the language menu, the time-lapse (waiting, playing, Video), the fault notice and the zero and empty
+results. Every letter is set in the Vietnamese faces (no fallback, no tofu), and no stacked mark is clipped by a line box.
+
+**Changed (copy)**
+
+- **Verdict titles** bind each phrase (*Đã quan sát*, *Có thể đã hướng về đây*,
+  *Nhiều khả năng đã quan sát*): the pass list's header set ĐÃ QUAN / SÁT at 360 and 390 px, and the
+  could tile ended a line on *đã* (CÓ THỂ ĐÃ / HƯỚNG VỀ ĐÂY); now ĐÃ QUAN SÁT, CÓ THỂ / ĐÃ HƯỚNG VỀ ĐÂY.
+- **Geostationary rows:** each fact held whole (*mỗi 10 / phút* at 360 px); *Hiện chưa có ảnh* as HIỆN CHƯA / CÓ ẢNH
+  (it took three lines with ẢNH alone).
+- **The zero second line:** *Tuần này / Tuần đó không ảnh nào được công bố* (the pattern of *Không vệ tinh nào*), one
+  line beside Share from 390 px; *không có bức ảnh nào* left *công bố.* alone on a second line at 390 and 1280 px. The
+  card keeps its longer sentence, which has room.
+- **The mostly-cloud chip:** *Tuần này hầu như chỉ thấy mây*, the passes as the understood subject; *Các lượt bay tuần
+  này chủ yếu chỉ thấy mây* set THẤY MÂY alone on a second line on every phone.
+- **Pass view:** *Góc ngẩng tại điểm* (the label form of the spot, as `MÂY TẠI ĐIỂM`; glossary §4.1 updated): *Góc
+  ngẩng từ chỗ bạn* took two lines at 390 px. The private-archive captions said *công khai* twice; the archives are
+  *không mở cho công chúng*.
+- **Lone syllables** at the end of short notes held to their word or unit: *lượt bay*, *gián đoạn*,
+  *còn đó*, *vài phút*, *tháng 11 năm 2000*, and the fault notice's compounds (*Kiểm / tra* at 360 px).
+  Long body text (About, pass sentences) keeps the browser's breaks, as §6.5 says.
+
+**Kept**
+
+- The computing readout's *Đang kiểm tra ảnh thời tiết NASA · N / M*: its counter is cut on phones in English too (the
+  row ellipsises as one string), so the layout is reported; dropping *thời tiết* would have hidden what is checked.
+- *LIÊN / KẾT* in the share sheet's 48 px column, *GẦN NHẤT · / ĐỊA PHƯƠNG* at 360 and 390 px, the pass strip's
+  two-line labels at 360 px (English wraps OFF- / NADIR there too): clean breaks between words, values aligned.
+
+**Reported, not fixable here:** Vietnamese place names (*Hanoi*, *Da Nang City*: no `vi` exonym table, and a search for
+*Hà Nội* finds a hamlet in Ninh Bình, not the capital); the geostationary frame time's live dot shrinking to 0 px when
+the relative time (*1 GIỜ TRƯỚC*) is wider than the thumbnail; *Asia/Bangkok* as Hanoi's zone in the computing readout;
+slash counters (*03 / 12*) that read as dates beside *20/12/2017*; the landscape headline column.

@@ -202,7 +202,11 @@ function SearchBar({ place, desk = false, onOpen }: { place: Place; desk?: boole
       <span className={s.searchBarGlyph} aria-hidden>
         <Glyph name="search" size={16} />
       </span>
-      <span className={s.searchBarPlace}>{placeName(place)}</span>
+      {/* Each place name is its own island (<bdi>): on a right-to-left page a place searched by coordinates read
+          «12.500 ,23.500» */}
+      <span className={s.searchBarPlace}>
+        <bdi>{placeName(place)}</bdi>
+      </span>
       <span className={s.searchBarAction} aria-hidden>
         {m.change}
       </span>
@@ -253,7 +257,9 @@ function PlaceRow({ place, tz }: { place: Place; tz?: string }) {
   }, [place, full, short])
   return (
     <div ref={ref} className={s.placeRow}>
-      <b>{placeName(place)}</b>
+      <b>
+        <bdi>{placeName(place)}</bdi>
+      </b>
       <span className={s.sep}>·</span>
       <Coords lat={place.lat} lon={place.lon} />
       {full ? (
@@ -326,7 +332,7 @@ function InlineSearch({ onSearch, onClose, current }: { onSearch?: (p: Place) =>
           <span className={s.recentLabel}>{m.head.recent}</span>
           {chips.map((p) => (
             <button key={`${p.lat},${p.lon}`} type="button" className={s.chip} onClick={() => submit(p)}>
-              {placeName(p)}
+              <bdi>{placeName(p)}</bdi>
             </button>
           ))}
         </div>

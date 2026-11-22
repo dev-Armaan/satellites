@@ -227,7 +227,10 @@ function Player({ place, from, mobile, onClose }: TimelapseProps) {
         <span className={s.barLabel}>
           {`${m.title} `}
           <span className={s.dim}>/ </span>
-          <span className={s.place}>{place.label}</span>
+          {/* Its own island (<bdi>): a place searched by coordinates would reorder its numbers on a right-to-left page */}
+          <span className={s.place}>
+            <bdi>{place.label}</bdi>
+          </span>
         </span>
         <button type="button" className={s.close} onClick={onClose} aria-label={m.close} aria-keyshortcuts="Escape">
           <span className={s.closeText}>{m.close}</span>

@@ -37,6 +37,7 @@ import { createInterface } from 'node:readline'
 import { EXAMPLE_PLACES, SURPRISE_PLACES } from '../src/ui/landing/places'
 import { FEATURES, featurePop } from './features'
 import { LANDMARKS } from './landmarks'
+import { listRegionName } from './regions'
 import { compactKey, placeKey, SHARD_HEAD_PLACES, SHARD_MAX_PLACES, SHARD_MAX_PREFIX, shardOf, TILE_COLS, TILE_MAX_PLACES, TILE_ROWS, tileAt, tileFile, tileIndex } from '../src/imagery/placeKey'
 
 const SRC = process.argv[2]
@@ -106,7 +107,8 @@ const tsv = (file: string) =>
 
 async function main() {
   const admin1 = new Map<string, { name: string; id: string }>()
-  for (const p of tsv('admin1CodesASCII.txt')) admin1.set(p[0], { name: p[1], id: p[3] })
+  // Ukraine's oblasts as "<name> Oblast" (./regions.ts), so one named like its capital is not taken for the city's state.
+  for (const p of tsv('admin1CodesASCII.txt')) admin1.set(p[0], { name: listRegionName(p[0], p[1]), id: p[3] })
   const countries = new Map<string, { name: string; pop: number; id: string }>()
   for (const p of tsv('countryInfo.txt')) countries.set(p[0], { name: p[4], pop: Number(p[7]) || 0, id: p[16] })
 

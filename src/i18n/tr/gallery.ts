@@ -50,7 +50,6 @@ const gallery: typeof en = {
     weather: 'Günlük meteoroloji mozaikleri, piksel başına 250 m ve üzeri',
     radar: 'Sentinel-1 radar görüntüleri, piksel başına 20 m: bulutun içinden, gece gündüz',
   },
-  position: (k: number, n: number) => `${f.int(k)} / ${f.int(n)}`,
   // The number last, so it never takes a suffix.
   photosThisWeek: (n: number) => `bu hafta ${f.int(n)}`,
   photosThatWeek: (n: number) => `o hafta ${f.int(n)}`,

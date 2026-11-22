@@ -6,10 +6,14 @@
  * folds away.
  */
 import type en from '../en/system'
+import { fmt } from '../../../api/_lib/i18n/format'
+
+const f = fmt('ko')
 
 const system: typeof en = {
   close: '닫기',
   expandPanel: '패널 펼치기',
   collapsePanel: '패널 접기',
+  counter: (k: number, n: number, digits = 1) => [f.int(k).padStart(digits, '0'), ` / ${f.int(n).padStart(digits, '0')}`] as const,
 }
 export default system

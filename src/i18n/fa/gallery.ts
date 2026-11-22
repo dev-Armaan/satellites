@@ -43,7 +43,6 @@ const gallery: typeof en = {
     weather: `موزاییک‌های هواشناسی روزانه، با پیکسل‌های 250${nb}متری و بزرگ‌تر`,
     radar: `تصویرهای راداری Sentinel-1 با 20${nb}متر در هر پیکسل: از پشت ابر، در روز یا شب`,
   },
-  position: (k: number, n: number) => `${f.int(k)} / ${f.int(n)}`,
   photosThisWeek: (n: number) => `این هفته: ${f.int(n)}`,
   photosThatWeek: (n: number) => `آن هفته: ${f.int(n)}`,
   prevPhoto: 'تصویر قبلی',

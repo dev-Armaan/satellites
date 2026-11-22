@@ -8,10 +8,14 @@
  * because it is a fixed word, not a runtime slot.
  */
 import type en from '../en/system'
+import { fmt } from '../../../api/_lib/i18n/format'
+
+const f = fmt('tr')
 
 const system: typeof en = {
   close: 'Kapat',
   expandPanel: 'Paneli genişlet',
   collapsePanel: 'Paneli daralt',
+  counter: (k: number, n: number, digits = 1) => [f.int(k).padStart(digits, '0'), ` / ${f.int(n).padStart(digits, '0')}`] as const,
 }
 export default system

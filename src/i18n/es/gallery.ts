@@ -33,7 +33,6 @@ const gallery: typeof en = {
     weather: 'Mosaicos meteorológicos diarios, 250 m por píxel o más',
     radar: 'Imágenes de radar de Sentinel-1, 20 m por píxel: a través de las nubes, de día o de noche',
   },
-  position: (k: number, n: number) => `${f.int(k)} / ${f.int(n)}`,
   photosThisWeek: (n: number) => `${f.int(n)} esta semana`,
   photosThatWeek: (n: number) => `${f.int(n)} esa semana`,
   prevPhoto: 'Imagen anterior',

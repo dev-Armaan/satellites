@@ -40,7 +40,6 @@ const gallery: typeof en = {
     weather: 'Добові мозаїки: від 250\u00a0м на піксель',
     radar: 'Радарні знімки Sentinel-1, 20\u00a0м на піксель: крізь хмари, удень і вночі',
   },
-  position: (k: number, n: number) => `${f.int(k)} / ${f.int(n)}`,
   photosThisWeek: (n: number) => `${count(n)} за 7\u00a0днів`,
   photosThatWeek: (n: number) => `${count(n)} за 7\u00a0днів`,
   prevPhoto: 'Попередній знімок',

@@ -35,7 +35,6 @@ const gallery: typeof en = {
     weather: 'Ảnh ghép thời tiết hằng ngày, điểm ảnh từ 250 m trở lên',
     radar: 'Ảnh radar Sentinel-1, điểm ảnh 20 m: xuyên mây, cả ngày lẫn đêm',
   },
-  position: (k: number, n: number) => `${f.int(k)} / ${f.int(n)}`,
   photosThisWeek: (n: number) => `Tuần này: ${f.int(n)}`,
   photosThatWeek: (n: number) => `Tuần đó: ${f.int(n)}`,
   prevPhoto: 'Ảnh trước',

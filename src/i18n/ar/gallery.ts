@@ -46,7 +46,6 @@ const gallery: typeof en = {
     weather: 'فسيفساء الطقس اليومية، 250\u00a0مترًا لكل بكسل فأكثر',
     radar: 'صور رادار Sentinel-1، بدقة 20\u00a0مترًا لكل بكسل: عبر السحب، ليلًا ونهارًا',
   },
-  position: (k: number, n: number) => `${f.int(k)} / ${f.int(n)}`,
   // A label and its value: the number needs no agreement, and the box has no room for a counted noun.
   photosThisWeek: (n: number) => `هذا الأسبوع: ${f.int(n)}`,
   photosThatWeek: (n: number) => `ذلك الأسبوع: ${f.int(n)}`,

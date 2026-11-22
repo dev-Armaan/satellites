@@ -7,10 +7,14 @@
  * *Panel* would be a needless Anglicism (§2.4). The ß stays ß; CSS and screen readers handle it (§6.5).
  */
 import type en from '../en/system'
+import { fmt } from '../../../api/_lib/i18n/format'
+
+const f = fmt('de')
 
 const system: typeof en = {
   close: 'Schließen',
   expandPanel: 'Bereich ausklappen',
   collapsePanel: 'Bereich einklappen',
+  counter: (k: number, n: number, digits = 1) => [f.int(k).padStart(digits, '0'), ` / ${f.int(n).padStart(digits, '0')}`] as const,
 }
 export default system

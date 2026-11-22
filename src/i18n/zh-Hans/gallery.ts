@@ -38,7 +38,6 @@ const gallery: typeof en = {
     weather: `每日气象拼接图，每像素 250${NB}m 及以上`,
     radar: `Sentinel-1 雷达图像，每像素 20${NB}m：能穿透云层，不分昼夜`,
   },
-  position: (k: number, n: number) => `${f.int(k)} / ${f.int(n)}`,
   photosThisWeek: (n: number) => `这一周 ${f.int(n)}${NB}张`,
   photosThatWeek: (n: number) => `那一周 ${f.int(n)}${NB}张`,
   prevPhoto: '上一张',

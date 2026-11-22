@@ -46,8 +46,6 @@ export default ns('gallery', {
     weather: 'Daily weather mosaics, 250 m per pixel and coarser',
     radar: 'Sentinel-1 radar images, 20 m per pixel: through cloud, day or night',
   },
-  /** The counter on a photo of the window: photo `k` of `n` ("3 / 27"; mono, tabular, read aloud as it changes) */
-  position: (k: number, n: number) => `${en.int(k)} / ${en.int(n)}`,
   /**
    * The counter on the last clear look (a photo from before the window, so it has no number): how many of the
    * window's photos follow it. Mono caps, nowrap, its box sized to about 12 characters.

@@ -21,6 +21,7 @@ import type { Pass } from '@/types'
 import { Glyph, cx, prefersReducedMotion } from '@/ui/system'
 import { msgs, useMsgs } from '@/i18n/runtime'
 import enGallery from '@/i18n/en/gallery'
+import enSystem from '@/i18n/en/system'
 import { Rich, withUnits } from '@/i18n/Rich'
 import { Ago } from './Ago'
 import { Mark } from './Mark'
@@ -112,6 +113,7 @@ export function Gallery({ model, context, mobile, selectedId, onReplay, onShare 
   const windowItems = useMemo(() => items.filter((p) => !!p.pass), [items])
   const oldWindow = isOldWindow(model)
   const m = useMsgs(enGallery)
+  const sys = useMsgs(enSystem)
   const counterText = useCallback(
     (i: number) => {
       const p = items[i]
@@ -119,9 +121,9 @@ export function Gallery({ model, context, mobile, selectedId, onReplay, onShare 
       // The last clear look from before the window is not one of the window's photos: the counter says how many
       // of those follow it ("27 this week"), never a placeholder.
       if (!p.pass) return windowItems.length ? (oldWindow ? m.photosThatWeek : m.photosThisWeek)(windowItems.length) : ''
-      return m.position(windowItems.indexOf(p) + 1, windowItems.length)
+      return sys.counter(windowItems.indexOf(p) + 1, windowItems.length).join('')
     },
-    [items, windowItems, oldWindow, m],
+    [items, windowItems, oldWindow, m, sys],
   )
 
   const paintChrome = useCallback(
@@ -387,7 +389,7 @@ export function Gallery({ model, context, mobile, selectedId, onReplay, onShare 
   // Hidden copies of the counter's widest forms in this language, in its grid cell: its room is theirs ("12 esta
   // semana", "この1週間に88枚"), and it never changes as the photo or the count does. Two-digit counts, with a few-
   // and a many-form (Polish, Ukrainian); English's all fit the min-width it always had.
-  const sizers = [m.position(88, 88), ...(hasLastClear ? [22, 88].map((k) => (oldWindow ? m.photosThatWeek : m.photosThisWeek)(k)) : [])]
+  const sizers = [sys.counter(88, 88).join(''), ...(hasLastClear ? [22, 88].map((k) => (oldWindow ? m.photosThatWeek : m.photosThisWeek)(k)) : [])]
   const hero = !detail
 
   return (

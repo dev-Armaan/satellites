@@ -26,6 +26,7 @@ import { Button, Glyph, cx, prefersReducedMotion, useMediaQuery } from '@/ui/sys
 import { msgs, useLocale, useMsgs } from '@/i18n/runtime'
 import enGallery from '@/i18n/en/gallery'
 import enLightbox from '@/i18n/en/lightbox'
+import enSystem from '@/i18n/en/system'
 import { withUnits, writeUnits } from '@/i18n/Rich'
 import { Ago } from './Ago'
 import { credit, galleryCtl, useClockFit } from './Gallery'
@@ -126,6 +127,7 @@ interface ViewerProps {
 function Viewer({ id, model, mobile, startKey, from, onReplay, onShare, covered }: ViewerProps) {
   const lm = useMsgs(enLightbox)
   const gm = useMsgs(enGallery)
+  const sys = useMsgs(enSystem)
   const coveredRef = useRef(covered)
   coveredRef.current = covered
   const filter = useGallery((g) => g.filter)
@@ -607,7 +609,7 @@ function Viewer({ id, model, mobile, startKey, from, onReplay, onShare, covered 
   const meta = model.meta(photo.pass?.norad ?? photo.capture.norad ?? 0)
   const windowItems = items.filter((p) => !!p.pass)
   const pos = photo.pass ? windowItems.indexOf(photo) + 1 : 0
-  const counter = photo.pass ? gm.position(pos, windowItems.length) : gm.lead.lastClear
+  const counter = photo.pass ? sys.counter(pos, windowItems.length).join('') : gm.lead.lastClear
   // Why the cover leads ("Closest look" / "Clouded over") rides on the counter, where there is room: in the metadata
   // strip it cut the first row short ("… 2 D…") whenever a Replay button and a status shared it.
   const why = model.cover?.photo.key === photo.key ? model.cover.why : undefined

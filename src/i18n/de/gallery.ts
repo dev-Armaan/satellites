@@ -39,7 +39,6 @@ const gallery: typeof en = {
     weather: 'Tägliche Wettermosaike, 250\u00a0m pro Pixel und gröber',
     radar: 'Radarbilder von Sentinel-1, 20\u00a0m pro Pixel: durch Wolken, bei Tag und Nacht',
   },
-  position: (k: number, n: number) => `${f.int(k)} / ${f.int(n)}`,
   // One form for this week and an older one (de.md §3.9): the photos of the window that follow the last clear look.
   photosThisWeek: (n: number) => f.plural(n, { one: `${f.int(n)} neueres`, other: `${f.int(n)} neuere` }),
   photosThatWeek: (n: number) => f.plural(n, { one: `${f.int(n)} neueres`, other: `${f.int(n)} neuere` }),

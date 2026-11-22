@@ -42,7 +42,6 @@ const gallery: typeof en = {
     weather: 'Mosaici meteo giornalieri, da 250 m per pixel in su',
     radar: 'Immagini radar di Sentinel-1, 20 m per pixel: attraverso le nuvole, di giorno e di notte',
   },
-  position: (k: number, n: number) => `${f.int(k)} / ${f.int(n)}`,
   // One form for both weeks: the label needs no demonstrative, and *Quella settimana: 12* is too wide (§7).
   photosThisWeek: (n: number) => `Settimana: ${f.int(n)}`,
   photosThatWeek: (n: number) => `Settimana: ${f.int(n)}`,

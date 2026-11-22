@@ -45,7 +45,6 @@ const gallery: typeof en = {
     // Radar is an image, never a photo: «obrazy radarowe».
     radar: 'Obrazy radarowe z\u00a0satelity Sentinel-1, 20\u00a0m na piksel: przez chmury, w\u00a0dzień i\u00a0w\u00a0nocy',
   },
-  position: (k: number, n: number) => `${f.int(k)} / ${f.int(n)}`,
   // «z tygodnia» needs no agreement with the count, so one form serves every number.
   photosThisWeek: (n: number) => `${count(n)} z\u00a0tygodnia`,
   photosThatWeek: (n: number) => `${count(n)} z\u00a0tygodnia`,

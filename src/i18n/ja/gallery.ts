@@ -36,7 +36,6 @@ const gallery: typeof en = {
     weather: '日別の気象画像。1ピクセル250 m以上',
     radar: 'Sentinel-1のレーダー画像。1ピクセル20 m。雲を通して、昼も夜も見える',
   },
-  position: (k: number, n: number) => `${f.int(k)} / ${f.int(n)}`,
   photosThisWeek: (n: number) => `この1週間に${f.int(n)}枚`,
   photosThatWeek: (n: number) => `その1週間に${f.int(n)}枚`,
   prevPhoto: '前の画像',

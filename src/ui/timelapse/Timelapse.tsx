@@ -28,6 +28,7 @@
 import { useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState, type CSSProperties } from 'react'
 import { createPortal } from 'react-dom'
 import enTimelapse from '@/i18n/en/timelapse'
+import enSystem from '@/i18n/en/system'
 import { msgs, useMsgs } from '@/i18n/runtime'
 import { ARCHIVE_START, FRAME_HALF_KM, MIN_FRAMES, type Frame, type Timelapse as TimelapseData } from '@/imagery/timelapse'
 import { useBackLayer } from '@/lib/backStack'
@@ -56,7 +57,6 @@ const yearOf = (date: string) => date.slice(0, 4)
 /** A frame's local calendar day ("YYYY-MM-DD") as the catalog takes dates: its UTC midnight, ms (a date-only ISO
  * string parses as UTC). */
 const dayMs = (date: string) => Date.parse(date)
-const pad2 = (n: number) => String(n).padStart(2, '0')
 /** "2015–2026", or the one year when every frame is from it (the licence credit's years, which stays English). */
 const yearSpan = (frames: readonly Frame[]) => {
   const a = yearOf(frames[0].date)
@@ -305,9 +305,12 @@ interface StageProps {
 
 function Stage({ frames, i, under, run, scrubbing, onScrub, onTap, onJump, onRetry }: StageProps) {
   const m = useMsgs(enTimelapse)
+  const sys = useMsgs(enSystem)
   const drag = useRef<{ x: number; from: number; moved: boolean; id: number } | null>(null)
   const n = frames?.length ?? 0
   const frame = frames?.[i]
+  // The frame badge, "03 / 12" (its lead set brighter); in Vietnamese "3 trên 12", never date-like beside the day.
+  const [countLead, countTail] = sys.counter(i + 1, n, 2)
 
   const onPointerDown = (e: React.PointerEvent<HTMLDivElement>) => {
     if (!n || (e.pointerType === 'mouse' && e.button !== 0)) return
@@ -354,7 +357,8 @@ function Stage({ frames, i, under, run, scrubbing, onScrub, onTap, onJump, onRet
             <span className={s.small}>{m.readout(dayMs(frame.date), frame.scene.platform)}</span>
           </div>
           <span className={s.count}>
-            <span className={s.countLead}>{pad2(i + 1)}</span> / {pad2(n)}
+            <span className={s.countLead}>{countLead}</span>
+            {countTail}
           </span>
           {/* What a screen reader hears: the frame on view, when it changes by hand (not on every played step). */}
           <span className={s.srOnly} aria-live="polite">
@@ -371,6 +375,7 @@ function Stage({ frames, i, under, run, scrubbing, onScrub, onTap, onJump, onRet
 /** The stage before there is a picture: what is being done, in counts, with a hairline bar; or why there is none. */
 function Waiting({ run, onRetry }: { run: RunState; onRetry: () => void }) {
   const m = useMsgs(enTimelapse)
+  const sys = useMsgs(enSystem)
   if (run.phase === 'short') {
     return (
       <div className={s.wait}>
@@ -399,7 +404,7 @@ function Waiting({ run, onRetry }: { run: RunState; onRetry: () => void }) {
   const part = run.phase === 'choosing' ? run.done / Math.max(1, run.total) : run.phase === 'loading' ? run.loaded / Math.max(1, run.dates.length) : 0
   const status = run.phase === 'listing' ? m.listing : run.phase === 'choosing' ? m.choosing : m.developing
   const progress = run.phase === 'choosing' ? { done: run.done, total: run.total } : run.phase === 'loading' ? { done: run.loaded, total: run.dates.length } : undefined
-  const count = progress ? `${pad2(progress.done)} / ${pad2(progress.total)}` : ''
+  const count = progress ? sys.counter(progress.done, progress.total, 2).join('') : ''
   // What a screen reader hears: the step and its count as one sentence per step (each language says it whole).
   const name = !progress ? status : run.phase === 'choosing' ? m.choosingProgress(progress.done, progress.total) : m.developingProgress(progress.done, progress.total)
   // The strip: a cell for every year asked about, then for every frame chosen, each taking its picture as it lands.

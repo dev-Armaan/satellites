@@ -37,7 +37,6 @@ const gallery: typeof en = {
     weather: '일일 기상 합성 이미지, 픽셀당 250 m 이상',
     radar: 'Sentinel-1 레이더 이미지, 픽셀당 20 m. 구름을 뚫고, 밤낮없이',
   },
-  position: (k: number, n: number) => `${f.int(k)} / ${f.int(n)}`,
   /** 지난 일주일 / 그 일주일: a rolling week, never 이번 주 (the calendar week) */
   photosThisWeek: (n: number) => `지난 일주일 ${f.int(n)}장`,
   photosThatWeek: (n: number) => `그 일주일 ${f.int(n)}장`,

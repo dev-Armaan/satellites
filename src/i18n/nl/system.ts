@@ -7,10 +7,14 @@
  * the bottom sheet's grip, object first, as Dutch infinitive phrases put it.
  */
 import type en from '../en/system'
+import { fmt } from '../../../api/_lib/i18n/format'
+
+const f = fmt('nl')
 
 const system: typeof en = {
   close: 'Sluiten',
   expandPanel: 'Paneel vergroten',
   collapsePanel: 'Paneel verkleinen',
+  counter: (k: number, n: number, digits = 1) => [f.int(k).padStart(digits, '0'), ` / ${f.int(n).padStart(digits, '0')}`] as const,
 }
 export default system

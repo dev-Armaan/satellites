@@ -32,7 +32,6 @@ const gallery: typeof en = {
     weather: 'Mosaik cuaca harian, 250 m per piksel atau lebih kasar',
     radar: 'Citra radar Sentinel-1, 20 m per piksel: menembus awan, siang atau malam',
   },
-  position: (k: number, n: number) => `${f.int(k)} / ${f.int(n)}`,
   photosThisWeek: (n: number) => `Pekan ini: ${f.int(n)}`,
   photosThatWeek: (n: number) => `Pekan itu: ${f.int(n)}`,
   prevPhoto: 'Citra sebelumnya',

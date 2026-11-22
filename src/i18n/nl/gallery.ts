@@ -43,7 +43,6 @@ const gallery: typeof en = {
     weather: 'Dagelijkse weermozaïeken, 250 m per pixel en grover',
     radar: 'Radarbeelden van Sentinel-1, 20 m per pixel: door wolken heen, dag en nacht',
   },
-  position: (k: number, n: number) => `${f.int(k)} / ${f.int(n)}`,
   photosThisWeek: (n: number) => `${f.int(n)} deze week`,
   photosThatWeek: (n: number) => `${f.int(n)} die week`,
   prevPhoto: 'Vorig beeld',

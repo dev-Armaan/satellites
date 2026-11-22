@@ -38,7 +38,6 @@ const gallery: typeof en = {
     weather: 'दैनिक मौसम मोज़ेक, 250\u00a0मी प्रति पिक्सेल या उससे कम बारीक',
     radar: 'Sentinel-1 की रडार तस्वीरें, 20\u00a0मी प्रति पिक्सेल: बादलों के पार, दिन हो या रात',
   },
-  position: (k: number, n: number) => `${f.int(k)} / ${f.int(n)}`,
   photosThisWeek: (n: number) => `इस हफ़्ते ${f.int(n)}`,
   photosThatWeek: (n: number) => `उस हफ़्ते ${f.int(n)}`,
   prevPhoto: 'पिछली तस्वीर',

@@ -39,7 +39,6 @@ const gallery: typeof en = {
     weather: 'Mosaicos meteorológicos diários e imagens de disco completo, pixels de 250 m ou maiores',
     radar: 'Imagens de radar do Sentinel-1, 20 m por pixel: através das nuvens, de dia ou de noite',
   },
-  position: (k: number, n: number) => `${f.int(k)} / ${f.int(n)}`,
   // One form for both windows: "na semana" is true of this week and of an older one, and fits the ~12-character box.
   photosThisWeek: (n: number) => `${f.int(n)} na semana`,
   photosThatWeek: (n: number) => `${f.int(n)} na semana`,

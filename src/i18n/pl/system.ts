@@ -4,10 +4,14 @@
  * the older infinitive.
  */
 import type en from '../en/system'
+import { fmt } from '../../../api/_lib/i18n/format'
+
+const f = fmt('pl')
 
 const system: typeof en = {
   close: 'Zamknij',
   expandPanel: 'Rozwiń panel',
   collapsePanel: 'Zwiń panel',
+  counter: (k: number, n: number, digits = 1) => [f.int(k).padStart(digits, '0'), ` / ${f.int(n).padStart(digits, '0')}`] as const,
 }
 export default system

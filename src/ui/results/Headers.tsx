@@ -23,13 +23,13 @@
  */
 import { memo, useEffect, useLayoutEffect, useRef, type KeyboardEvent } from 'react'
 import enResults from '@/i18n/en/results'
-import { msgs, useLocale, useMsgs } from '@/i18n/runtime'
+import enSystem from '@/i18n/en/system'
+import { msgs, useMsgs } from '@/i18n/runtime'
 import { timeZoneAt } from '@/imagery'
 import { useApp } from '@/state/store'
 import type { Pass, Place } from '@/types'
 import { SearchBox } from '@/ui/landing/SearchBox'
 import { Glyph, Kbd, LiveDot, ScrambleOnce, cx, fmtLat, fmtLon, useMediaQuery } from '@/ui/system'
-import { fmt } from '../../../api/_lib/i18n/format'
 import { secs } from './ComputingBody'
 import { Mark } from './Mark'
 import { useOnce } from './once'
@@ -362,8 +362,8 @@ export function DetailHeader({ model, pass, mobile, onSelect, strip, photo, shar
     if (next && next.id !== pass.id) onSelect(next)
   }
   const r = useMsgs(enResults)
+  const sys = useMsgs(enSystem)
   const m = r.head
-  const f = fmt(useLocale())
   const t = model.times(pass)
   // Phones and short laptops: the name and the time on one line (R2R1: the pass photo gets the height).
   const oneLine = useMediaQuery(ONE_LINE_TITLE_QUERY) || mobile
@@ -383,13 +383,14 @@ export function DetailHeader({ model, pass, mobile, onSelect, strip, photo, shar
   const firstId = useRef(pass.id)
   const titleKey = photo ? pass.id : 'one'
   const titleCls = photo && pass.id !== firstId.current ? s.titleIn : undefined
+  const [posLead, posTail] = sys.counter(index + 1, lane.length)
   const stepper = (
     <span className={cx(s.stepper, photo && s.stepperOff)} aria-hidden={photo || undefined}>
       <span className={s.position} aria-label={m.position(index + 1, lane.length)}>
-        {/* Numbers as the language writes them, as the gallery's position does ("124 / 1,565", "124 / 1.565"). */}
-        {f.int(index + 1)}
+        {/* The counter as the language writes it, as the gallery's does ("124 / 1,565", "124 / 1.565", "124 trên 1.565"). */}
+        {posLead}
         {/* A big lane on a narrow phone (V1: "1350 / 1362" crowded the row): the position alone. */}
-        <span className={cx(lane.length >= 1000 && s.positionTotalLong)}> / {f.int(lane.length)}</span>
+        <span className={cx(lane.length >= 1000 && s.positionTotalLong)}>{posTail}</span>
       </span>
       <button type="button" className={s.stepBtn} onClick={() => step(-1)} disabled={index <= 0} aria-label={m.previous} aria-keyshortcuts="ArrowLeft" title={m.previousTitle}>
         <Mark name="chevron-left" size={12} />

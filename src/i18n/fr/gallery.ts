@@ -37,7 +37,6 @@ const gallery: typeof en = {
     weather: 'Mosaïques météo quotidiennes, de 250\u00a0m par pixel ou plus',
     radar: 'Images radar Sentinel-1, 20\u00a0m par pixel\u00a0: à travers les nuages, de jour comme de nuit',
   },
-  position: (k: number, n: number) => `${f.int(k)} / ${f.int(n)}`,
   // One form for this week and an older one (fr.md §3.9): the box is about 12 characters, this is 13 at "27".
   photosThisWeek: (n: number) => `${f.int(n)} en 7\u00a0jours`,
   photosThatWeek: (n: number) => `${f.int(n)} en 7\u00a0jours`,

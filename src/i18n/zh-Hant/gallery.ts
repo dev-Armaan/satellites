@@ -37,7 +37,6 @@ const gallery: typeof en = {
     weather: '每日氣象拼接影像，每像素 250 m 或更粗',
     radar: 'Sentinel-1 雷達影像，每像素 20 m：可穿透雲層，日夜皆可',
   },
-  position: (k: number, n: number) => `${f.int(k)} / ${f.int(n)}`,
   photosThisWeek: (n: number) => `這星期 ${f.int(n)} 張`,
   photosThatWeek: (n: number) => `那個星期 ${f.int(n)} 張`,
   prevPhoto: '上一張',

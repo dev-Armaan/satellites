@@ -7,15 +7,23 @@ import { afterEach, describe, expect, it } from 'vitest'
 import enGallery from '@/i18n/en/gallery'
 import enLightbox from '@/i18n/en/lightbox'
 import enPassView from '@/i18n/en/passView'
+import enSystem from '@/i18n/en/system'
 import { msgs, setBundleForTests } from '@/i18n/runtime'
 import { isStrong, plain } from '../../../api/_lib/i18n/parts'
 
 describe('gallery copy (English baseline)', () => {
   const m = enGallery
   it('counts photos the way the counter always has', () => {
-    expect(m.position(3, 27)).toBe('3 / 27')
+    expect(enSystem.counter(3, 27).join('')).toBe('3 / 27')
     expect(m.photosThisWeek(27)).toBe('27 this week')
     expect(m.photosThatWeek(1)).toBe('1 that week')
+  })
+
+  it('writes every visual counter as it always has: the gallery, the pass pager, the time-lapse', () => {
+    expect(enSystem.counter(1, 40)).toEqual(['1', ' / 40'])
+    expect(enSystem.counter(1350, 1362)).toEqual(['1,350', ' / 1,362'])
+    expect(enSystem.counter(3, 12, 2)).toEqual(['03', ' / 12'])
+    expect(enSystem.counter(12, 12, 2).join('')).toBe('12 / 12')
   })
 
   it('names a slide with its lead and its place among the photos, or without them', () => {

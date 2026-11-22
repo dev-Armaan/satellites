@@ -3,8 +3,8 @@
  *
  * Why: the card's size steps down until no word overflows its column, measured in the card's own faces
  * (api/_lib/cardMeasure.ts over cardWidths.gen.ts: per-font widths, Arabic and Devanagari forms, kerning; ~22 kB gzip).
- * Imported with cardSpec it rode in a chunk every first search loads (35.8 kB gzip where it had been 10.6), and only
- * a share needs it. So the measure is its own chunk, handed to cardSpec when it arrives, and the share sheet opens once it is in
+ * Imported with cardSpec it rode in a chunk every first search loads (35.8 kB gzip where it had been 10.6), and
+ * only a share needs it. So the measure is its own chunk, handed to cardSpec when it arrives, and the share sheet opens once it is in
  * (ShareSheet.tsx's gate); the server card imports it up front (api/og.tsx).
  *
  * Chosen over making the whole sheet lazy: that also moves the sheet, the card and its renderers out of the first
@@ -28,12 +28,14 @@ import { hasCardMeasure, provideCardMeasure } from '../../../api/_lib/cardSpec'
 let chunk: Promise<void> | undefined
 /** The download in flight is a prefetch's (its failure stays quiet). */
 let quiet = false
-/** A prefetch failed: intent stops asking (a press still does). */
-let prefetchFailed = false
+/** When a prefetch last failed: intent stops asking for a while (a press still asks). */
+let prefetchFailedAt = -Infinity
+const PREFETCH_RETRY_MS = 60_000
 
 /**
- * The measure's chunk (asked for once; a failed download is asked for again next time). `prefetch`: nobody waits for
- * it, so its failure must not reload the page; a press's load (the default) may, and never inherits a prefetch's failure.
+ * The measure's chunk (asked for once; a failed download is asked for again next time). `prefetch`: nobody waits
+ * for it, so its failure must not reload the page; a press's load (the default) may, and never inherits a
+ * prefetch's failure.
  */
 export function loadCardMeasure(prefetch = false): Promise<void> {
   if (hasCardMeasure()) return Promise.resolve()
@@ -45,7 +47,7 @@ export function loadCardMeasure(prefetch = false): Promise<void> {
       () => setQuiet(false),
       () => {
         if (chunk === q) chunk = undefined
-        if (quiet) prefetchFailed = true
+        if (quiet) prefetchFailedAt = Date.now()
         setQuiet(false)
       },
     )
@@ -63,16 +65,19 @@ export const cardMeasureReady = hasCardMeasure
  * names in this set (Symbol.for, shared without either module importing the other, which would move it to a chunk).
  */
 const QUIET = Symbol.for('watched.quietChunks')
+/** The built chunk's name starts so (vite.config.ts fails the build if no chunk does). */
+const CHUNK = 'cardMeasure-'
 function setQuiet(on: boolean) {
   quiet = on
   const g = globalThis as { [QUIET]?: Set<string> }
   const set = (g[QUIET] ??= new Set())
-  if (on) set.add('cardMeasure-')
-  else set.delete('cardMeasure-')
+  if (on) set.add(CHUNK)
+  else set.delete(CHUNK)
 }
 
 const warm = () => {
-  if (!prefetchFailed) void loadCardMeasure(true).catch(() => undefined)
+  if (hasCardMeasure() || Date.now() - prefetchFailedAt < PREFETCH_RETRY_MS) return
+  void loadCardMeasure(true).catch(() => undefined)
 }
 
 /** After the final report: the panel's entrance and its first photos go first. */

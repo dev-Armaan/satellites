@@ -92,8 +92,8 @@
     padding-inline-end: 0;
   }
 }
-/* As wide as the frame, whatever the line under it says ("31 min ago" runs a little into the gap), so every row's
-   text starts on one edge whether or not it has a picture. */
+/* As wide as the frame, whatever the line under it says (it wraps), so every row's text starts on one edge whether or
+   not it has a picture. */
 .frameCol {
   flex: none;
   width: 72px;
@@ -164,9 +164,12 @@
   line-height: 1.2;
   color: var(--ice);
 }
+/* The frame's age under it, inside the frame's width: where it is longer ("25 min ago", "1 giờ trước") it wraps in
+   two balanced lines rather than running into the name beside it, and the live dot keeps its size on the first line
+   (on one nowrap line it was the dot that gave way, to 0 px). */
 .frameTime {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   gap: 5px;
   font-family: var(--font-mono);
   font-stretch: 87.5%;
@@ -175,11 +178,13 @@
   text-transform: uppercase;
   font-variant-numeric: tabular-nums;
   color: var(--bone-3);
-  white-space: nowrap;
+  text-wrap: balance;
 }
 .dot {
+  flex: none;
   width: 4px;
   height: 4px;
+  margin-top: calc((1lh - 4px) / 2);
 }
 .info {
   flex: 1;

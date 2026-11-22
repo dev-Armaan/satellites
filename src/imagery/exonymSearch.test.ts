@@ -353,7 +353,7 @@ describe('searching in the visitor’s own names (real data)', () => {
     expect(rows).toEqual([['Джибути', '11.6'], ['Джибути', '11.8']])
     // English shows each row as it came.
     setBundleForTests('en', null)
-    expect(read(await searchPlaces('Zaporizhzhya'))).toEqual(Array(3).fill('Zaporizhzhya · Zaporizhzhia Oblast, Ukraine'))
+    expect(read(await searchPlaces('Zaporizhzhya'))).toEqual(Array(3).fill('Zaporizhzhya · Zaporizhzhia, Ukraine'))
   })
 
   it('finds every Ukrainian oblast offline, by its name in the language and in English', async () => {
@@ -376,6 +376,9 @@ describe('searching in the visitor’s own names (real data)', () => {
     setBundleForTests('en', null)
     expect(await first('Kharkiv Oblast')).toEqual(oblast(49.617))
     expect(await first('Kharkiv')).toMatchObject({ label: 'Kharkiv', lat: 49.982 })
+    // The oblasts the list always had keep their rows: what English finds for Mykolaiv (GeoNames' city is Mykolayiv).
+    for (const q of ['Mykolaiv', 'Vinnytsia', 'Zaporizhzhia', 'Kirovohrad']) expect((await first(q)).label).toBe(q)
+    expect(files.network()).toEqual([])
   })
 
   it('counts the places found, not the rows shown, before it asks the network', async () => {

@@ -91,7 +91,7 @@ const gallery: typeof en = {
   expandTitle: 'बड़ी करें (F)',
 
   // ── a photo developing ──
-  stillRendering: 'तस्वीर अब भी बन रही है। बड़े दृश्यों में 10 सेकंड या उससे ज़्यादा लग सकते हैं।',
+  stillRendering: 'तस्वीर अब भी बन रही है। बड़े दृश्यों में 10\u00a0सेकंड या उससे ज़्यादा लग सकते हैं।',
   cropMissing: 'संग्रह ने तस्वीर का यह हिस्सा नहीं भेजा। शायद वह व्यस्त है, पर तस्वीर अब भी मौजूद है।',
   scanLine: (line: string, lines: string): Rich => ['पंक्ति ', strong(line), ` → ${lines}`],
   awaiting: { pass: 'उड़ान का इंतज़ार', scan: 'स्कैन का इंतज़ार' },

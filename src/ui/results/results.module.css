@@ -1252,9 +1252,10 @@
   margin-top: 6px;
   font-size: 17px;
 }
-/* No photograph, no hero beside the words: they take the summary's whole width (its column alone was 196 px at
-   844 × 390 beside an empty one, the second line 86 px beside Share, in four lines in Vietnamese). */
-.summaryWide:not(:has(> [data-peek-end])) > .headBlock {
+/* No photograph, and none can still come (ResultsView `open`): the words take the summary's whole width (their
+   column alone was 196 px at 844 × 390 beside an empty one, the second line 86 px beside Share, in four lines in
+   Vietnamese). */
+.summaryOpen > .headBlock {
   grid-column: 1 / -1;
 }
 /* Beside the photo the column is narrow: where the second line and Share do not fit side by side, Share goes under

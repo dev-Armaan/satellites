@@ -41,7 +41,7 @@ import { GeoWatchers } from './GeoWatchers'
 import { DetailHeader, OverviewHeader, rememberPlace } from './Headers'
 import { PassDetail, PhotoPassView } from './PassDetail'
 import { PassList } from './PassList'
-import { Headline, MoreLine, Notes, Verdicts, enterStyle } from './Summary'
+import { Headline, MoreLine, Notes, Verdicts, countPending, enterStyle } from './Summary'
 import { Timeline } from './Timeline'
 import { TimelapseLayer, TimelapseRow } from './TimelapseEntry'
 import { clearPass, focusPass, quiet, startReplay, togglePlay } from './actions'
@@ -882,6 +882,15 @@ function Overview({ model, mobile, compactTimeline, noSummaryRule = false, wide 
     </div>
   ) : null
   const timelapse = hero ? <TimelapseRow model={model} /> : null
+  // Short landscape phones: with no photo the words take the summary's whole width (open), but only when none can
+  // still arrive (no partial report, no weather mosaic still being checked): a photo that came later would move the
+  // headline into its column after it was read. Decided when the place's summary first shows; a photo that arrives
+  // all the same closes it.
+  const openKey = `${report.place.lat},${report.place.lon},${report.windowStart}`
+  const opened = useRef<{ key: string; open: boolean } | undefined>(undefined)
+  if (opened.current?.key !== openKey) opened.current = { key: openKey, open: !hero && !countPending(report) }
+  else if (hero) opened.current.open = false
+  const open = wide && opened.current.open
   const inviteBar = invite ? (
     <div className={s.invite}>
       <p className={s.inviteText}>{m.invite.text}</p>
@@ -915,7 +924,7 @@ function Overview({ model, mobile, compactTimeline, noSummaryRule = false, wide 
           )}
         </section>
       ) : (
-        <section className={cx(s.section, wide && s.summaryWide)} aria-label={m.sections.summary}>
+        <section className={cx(s.section, wide && s.summaryWide, open && s.summaryOpen)} aria-label={m.sections.summary}>
           {noSummaryRule ? null : (
             <Rule index="01" className={s.rule}>
               {m.sections.summary}

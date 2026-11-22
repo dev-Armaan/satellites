@@ -96,7 +96,8 @@ The results headline integer is static: it does not count up. It counts the dist
   - BR: sub-solar point `SUN 12.4°S 118.2°E` plus scene FOV or camera altitude
   - Crowded corners give way in a set order, measured (src/ui/hud/Hud.tsx), and never by shortening the top left's
     words or showing a language as a code: on a phone, where the top right's second line would come within 14px of
-    `HOW THIS WORKS | ENGLISH`, the sun line hides and a replay's scene time takes the live clock's line in its place;
+    `HOW THIS WORKS | ENGLISH`, the sun line hides and a replay's scene time takes the live clock's line in its place
+    (and drops its tracking where that line would come within 14px of the wordmark, at 320px);
     beside a landscape phone's results panel, a language name that would come within 4px of the panel's edge steps
     down to a line of its own under `HOW THIS WORKS`.
 - **Stacked layout** (phone-like: bottom sheet, globe above) = width ≤ 760px, or portrait ≤ 1100px wide (portrait tablets). JS uses `src/lib/layout.ts`; CSS copies the query text.

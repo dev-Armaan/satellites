@@ -228,6 +228,8 @@
 .legendItem > i {
   display: inline-block;
   vertical-align: top;
+  /* The legend's line (a browser without the lh unit keeps this one) */
+  margin-block-start: calc((16.5px - var(--key-h)) / 2);
   margin-block-start: calc((1lh - var(--key-h)) / 2);
   margin-inline-end: 6px;
 }

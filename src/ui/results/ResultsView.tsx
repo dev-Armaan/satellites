@@ -32,7 +32,7 @@ import type { ShareFrom } from '@/lib/telemetry'
 import { useApp } from '@/state/store'
 import { useTimelapseUi } from '@/state/timelapse'
 import type { Pass, Place } from '@/types'
-import { ShareSheet } from '@/ui/share'
+import { ShareSheet, usePrefetchCardMeasure } from '@/ui/share'
 import { Button, Glyph, Rule, Sheet, cx, safeAreaTop, useIsMobile, useMediaQuery, useReducedMotion, useViewportHeight } from '@/ui/system'
 import { ComputingBody } from './ComputingBody'
 import { Gallery, galleryCtl } from './Gallery'
@@ -316,6 +316,8 @@ export function ResultsView({ onBack, onRetry, onSearch }: ResultsViewProps) {
   const shareHero = useCallback((pass: Pass) => setSharing({ pass, from: 'hero' }), [])
   const sharePass = useCallback((pass: Pass) => setSharing({ pass, from: 'pass' }), [])
   const shareViewed = useCallback((pass: Pass) => setSharing({ pass, from: 'viewer' }), [])
+  // The share card's headline measure is fetched once these results are final, ahead of any press (ui/share/measure.ts).
+  usePrefetchCardMeasure(!computing && !!model)
   // A selection that vanished (report replaced by the final one) falls back to the overview.
   useEffect(() => {
     if (selectedId && model && !model.passById.has(selectedId)) clearPass()

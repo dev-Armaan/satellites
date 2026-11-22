@@ -147,14 +147,16 @@
   flex-direction: column;
   gap: 4px;
 }
+/* The operator goes under the name where it does not fit beside it (PassList.tsx Operator), never cut. */
 .nameLine {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
-  gap: 10px;
+  gap: 3px 10px;
   min-width: 0;
 }
 .name {
-  /* The name gives way last: a long operator ("NASA / Roscosmos / ESA / JAXA / CSA") truncates first. */
+  /* Alone on its line, a name too long for it is cut (the operator has gone under it). */
   flex: 0 1 auto;
   min-width: 0;
   font-family: var(--font-sans);
@@ -169,7 +171,7 @@
   white-space: nowrap;
 }
 .operator {
-  flex: 0 1000 auto;
+  flex: 0 1 auto;
   min-width: 0;
   font-family: var(--font-mono);
   font-stretch: 87.5%;
@@ -177,9 +179,10 @@
   letter-spacing: var(--track-label);
   text-transform: uppercase;
   color: var(--bone-2);
+  overflow-wrap: anywhere;
+}
+.operatorPart {
   white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
 }
 .tag {
   flex: none;

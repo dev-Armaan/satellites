@@ -8,7 +8,7 @@
  * at all, except the two honest exceptions, 'Mosaic' (coarse daily weather picture) and
  * 'Clouded · 86%' (warn), whose thumbnail is dimmed and hatched instead of a bright white square.
  */
-import { memo, useEffect, useLayoutEffect, useRef, useState, type RefCallback, type RefObject } from 'react'
+import { Fragment, memo, useEffect, useLayoutEffect, useRef, useState, type RefCallback, type RefObject } from 'react'
 import { useApp } from '@/state/store'
 import type { Capture, Pass } from '@/types'
 import { Glyph, Tag, cx } from '@/ui/system'
@@ -249,6 +249,25 @@ const PassRow = memo(function PassRow({
   )
 })
 
+/**
+ * The operator beside the name: where all of it does not fit there (the ISS's "NASA / Roscosmos / ESA / JAXA / CSA"),
+ * it goes under the name (PassList.module.css) and breaks only after a slash, each agency's name whole. It was cut with
+ * an ellipsis, which hid agencies: a label says exactly who operates the satellite.
+ */
+function Operator({ text }: { text: string }) {
+  const parts = text.split(' / ')
+  return (
+    <span className={s.operator}>
+      {parts.map((part, i) => (
+        <Fragment key={i}>
+          {i ? ' ' : null}
+          <span className={s.operatorPart}>{i < parts.length - 1 ? `${part} /` : part}</span>
+        </Fragment>
+      ))}
+    </span>
+  )
+}
+
 const SatRow = memo(function SatRow({
   item,
   verdict,
@@ -299,7 +318,7 @@ const SatRow = memo(function SatRow({
         <span className={s.main} ref={fitMeta}>
           <span className={s.nameLine}>
             <span className={s.name}>{meta.name}</span>
-            {meta.operator ? <span className={s.operator}>{meta.operator}</span> : null}
+            {meta.operator ? <Operator text={meta.operator} /> : null}
           </span>
           <span className={s.metaLine}>
             <span className={s.giveWay} data-shed="1">

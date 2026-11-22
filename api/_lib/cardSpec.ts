@@ -520,9 +520,9 @@ function lonelyLast(lines: string[][]): boolean {
  * week's run (441 px at 72 px) would count as 559 px and be set needlessly small.
  */
 function widestRun(text: string): number {
-  // A hyphen breaks where the renderers break it («STARLINK-» / «31234 गुज़रा।»): the run is each part, its hyphen kept.
-  const parts = runs(text).flatMap((r) => r.replace(/-/g, '-\u0000').split('\u0000'))
-  return Math.max(0, ...parts.map((r) => r.replace(/\p{Mn}/gu, '').length))
+  // Whole, even across a hyphen: satori does not break after one inside a tied run («STARLINK-31234 गुज़रा।» ran out of
+  // the card at 84 px where the canvas broke it).
+  return Math.max(0, ...runs(text).map((r) => r.replace(/\p{Mn}/gu, '').length))
 }
 
 /**

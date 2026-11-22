@@ -31,6 +31,8 @@ const f = fmt('fa')
 const nb = '\u00a0'
 /** U+2066 LEFT-TO-RIGHT ISOLATE … U+2069 POP DIRECTIONAL ISOLATE (DOM-only text) */
 const ltr = (s: string) => `\u2066${s}\u2069`
+/** The place, isolated unless it is Persian: a place searched by coordinates would otherwise reorder its numbers */
+const at = (place: string) => (/[؀-ۿ\u2066-\u2069]/.test(place) ? place : ltr(place))
 
 /** Moving (`heading`): «رو به جنوب» */
 const HEADING: Record<Compass8, string> = {
@@ -124,7 +126,7 @@ const pass: typeof en = {
     reached: (o: { place: string; time: string; zone: string; heading: Compass8 }): Rich => [
       'خط این اسکن حدود ساعت ',
       clock(o.time, o.zone),
-      ` به ${o.place} رسید و ${HEADING[o.heading]} پیش می‌رفت.`,
+      ` به ${at(o.place)} رسید و ${HEADING[o.heading]} پیش می‌رفت.`,
     ],
     infrared: 'این‌جا تاریک بود، پس این تصویر فروسرخ است: دمای بالای ابرها؛ هرچه سردتر، روشن‌تر.',
   },
@@ -141,14 +143,14 @@ const pass: typeof en = {
   ],
   // «تصویر [PLACE]» stands between the sensor's name and the place, so the two never touch.
   mosaic: (o: { sensor: string; place: string; gsdM: number }): Rich => [
-    `تصویربردار ${o.sensor} این ماهواره تصویر ${o.place} را با دقت `,
+    `تصویربردار ${o.sensor} این ماهواره تصویر ${at(o.place)} را با دقت `,
     ...perPixel(o.gsdM),
     ' به موزاییک روزانهٔ رنگ طبیعی ناسا افزود.',
   ],
   radarImaged: (o: { deg: number; place: string; gsdM: number; dark: boolean }): Rich => [
     'رادار این ماهواره با زاویهٔ ',
     deg(o.deg),
-    ` به پهلو، ${o.place} را ${o.dark ? 'در تاریکی ' : ''}با دقت `,
+    ` به پهلو، ${at(o.place)} را ${o.dark ? 'در تاریکی ' : ''}با دقت `,
     ...perPixel(o.gsdM),
     ' رصد کرد.',
   ],
@@ -191,7 +193,7 @@ const pass: typeof en = {
     // Starts with the place, as the English does; «‌اش» (its) is the satellite of the sentence before. "Imaged" is
     // «تصویر گرفتن» («تصویر کردن» is "to depict").
     insideSwath: (o: { place: string; swathKm: number }): Rich => [
-      `${o.place} درون نوار `,
+      `${at(o.place)} درون نوار `,
       ...kmAdj(o.swathKm),
       '‌اش بود. اپراتورش اعلام نمی‌کند از کجا تصویر گرفته است، پس نمی‌توانیم بدانیم این‌جا را رصد کرد یا نه.',
     ],
@@ -199,14 +201,14 @@ const pass: typeof en = {
     radar: (o: { place: string; deg?: number; openArchive: boolean }): Rich => [
       'رادار از پشت ابر و در تاریکی هم می‌بیند. ',
       ...(o.deg === undefined
-        ? [`می‌توانست از ${o.place} تصویر راداری بگیرد.`]
-        : ['اگر ', deg(o.deg), ` به پهلو نگاه می‌کرد، می‌توانست از ${o.place} تصویر راداری بگیرد.`]),
+        ? [`می‌توانست از ${at(o.place)} تصویر راداری بگیرد.`]
+        : ['اگر ', deg(o.deg), ` به پهلو نگاه می‌کرد، می‌توانست از ${at(o.place)} تصویر راداری بگیرد.`]),
       o.openArchive ? ' در این گذر هیچ تصویر منتشرشده‌ای از این‌جا نیافتیم.' : ' نمی‌توانیم بدانیم چنین تصویری گرفت یا نه.',
     ],
     camera: (o: { place: string; deg?: number }): Rich => [
       ...(o.deg === undefined
-        ? [`با نگاهی درست رو به پایین، می‌توانست ${o.place} را رصد کند.`]
-        : ['اگر دوربینش را ', deg(o.deg), ` از راستای قائم می‌چرخاند، می‌توانست ${o.place} را رصد کند.`]),
+        ? [`با نگاهی درست رو به پایین، می‌توانست ${at(o.place)} را رصد کند.`]
+        : ['اگر دوربینش را ', deg(o.deg), ` از راستای قائم می‌چرخاند، می‌توانست ${at(o.place)} را رصد کند.`]),
       ' نمی‌توانیم بدانیم رصد کرد یا نه.',
     ],
   },

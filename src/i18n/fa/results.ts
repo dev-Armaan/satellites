@@ -37,7 +37,11 @@ type Verdict = Pass['verdict']
 
 /** U+2066 LEFT-TO-RIGHT ISOLATE … U+2069 POP DIRECTIONAL ISOLATE: one left-to-right run in a DOM-only string */
 const ltr = (s: string) => `\u2066${s}\u2069`
-/** Isolate a Latin label (a zone, a zone name), but leave one that holds Persian words or isolates already as it is */
+/**
+ * Isolate a Latin label (a zone, a zone name, a place), but leave one that holds Persian words or isolates already as it
+ * is. A place searched by coordinates needs it most: «23.5000°N 12.5000°E» after a Persian comma read
+ * «N 12.5000°E°23.5000» in the headline.
+ */
 const iso = (s: string) => (/[؀-ۿ\u2066-\u2069]/.test(s) ? s : ltr(s))
 /** A whole count, or a fraction kept */
 const int = (n: number) => (Number.isInteger(n) ? f.int(n) : f.dec(n, 1))
@@ -54,7 +58,7 @@ const CREWED = /^(ISS|Tiangong)\b/
 const theSat = (sat: string) => (CREWED.test(sat) ? `ایستگاه فضایی${nb}${ltr(sat)}` : `ماهوارهٔ${nb}${ltr(sat)}`)
 const aSat = (sat: string | undefined) => (sat ? theSat(sat) : 'یک ماهواره')
 /** "[SAT] watched [PLACE]", object first, so the place and the satellite's name never touch */
-const watchedBy = (sat: string | undefined, place: string) => `${place}${nb}را ${aSat(sat)} رصد کرد`
+const watchedBy = (sat: string | undefined, place: string) => `${iso(place)}${nb}را ${aSat(sat)} رصد کرد`
 
 /** «7 روز گذشته» (a one-day window is «24 ساعت»: «روز گذشته» alone means "yesterday") */
 const lastDays = (n: number) => (n === 1 ? `24${nb}ساعت گذشته` : `${int(n)}${nb}روز گذشته`)
@@ -93,11 +97,11 @@ const results: typeof en = {
       const phrase = n === 1 ? strong(`یک ماهواره رصد${nb}کرد`) : strong(num(int(n)), `${nb}ماهواره رصد${nb}کردند`)
       // A no-break space keeps «را» on its object's line: a line never starts with it. Another holds the compound verb
       // together («رصد کردند»): a line may break before it, never inside it.
-      return [window, accent(place), `${nb}را `, phrase, '.']
+      return [window, accent(iso(place)), `${nb}را `, phrase, '.']
     },
     none: (place: string, past: boolean): Rich => [
       `${past ? 'آن هفته' : 'این هفته'} هیچ‌یک از ماهواره‌هایی که ردیابی می‌کنیم `,
-      accent(place),
+      accent(iso(place)),
       `${nb}را رصد نکرد.`,
     ],
   },
@@ -167,7 +171,7 @@ const results: typeof en = {
     },
     checked: (passes: number, satellites: number) => checked(passes, satellites),
     passTimes: (place: string, fetched: string | undefined, zoneLabel: string) =>
-      `زمان هر گذر لحظه‌ای است که ماهواره در نزدیک‌ترین فاصله از ${place} بود و از عناصر مداری عمومی محاسبه شده است` +
+      `زمان هر گذر لحظه‌ای است که ماهواره در نزدیک‌ترین فاصله از ${iso(place)} بود و از عناصر مداری عمومی محاسبه شده است` +
       `${fetched ? ` (دریافت‌شده در ${ltr(fetched)})` : ''}. زمان‌های محلی به وقت ${iso(zoneLabel)} است.`,
   },
 

@@ -184,7 +184,9 @@ export function LanguageSwitcher({ className }: { className?: string }) {
           {SHORT[locale] ?? info.native}
         </span>
       </button>
-      {open
+      {/* The menu goes in the render that switches the language: closed after it (setLocale's finally), it showed
+          the new title, and a right-to-left page's mirrored columns at the old place, for a frame. */}
+      {open && !(busy && busy === locale)
         ? createPortal(
             <div
               ref={menu}

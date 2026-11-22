@@ -65,7 +65,9 @@ const gallery: typeof en = {
   view: 'Открыть',
   sharePass: 'Поделиться пролётом',
   radarTag: 'Радар',
-  noteMostlyCloud: 'На этой неделе на снимках в основном облака',
+  // 32 characters: one line on every screen, as the English; «На этой неделе на снимках в основном облака» (43) took
+  // two lines on phones and in landscape and left «облака» alone on the second.
+  noteMostlyCloud: 'Снимки недели: в основном облака',
   noteLastClear: 'Вот последний ясный кадр',
   clouded: {
     pct: (p: number) => `Под облаками · ${pct(p)}`,

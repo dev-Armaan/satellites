@@ -40,13 +40,6 @@ const windowWords = (when: WindowWhen) =>
     ? `पिछले ${count(when.lastDays, 'दिन', 'दिनों')} में`
     : `${dayMonth(when.fromMs, when.timeZone)} से ${dayMonth(when.toMs, when.timeZone)} के बीच`
 
-/**
- * The place in a headline, a short name kept whole: «New\u00a0Delhi», «Rio\u00a0de\u00a0Janeiro». The headline is
- * balanced, and it broke inside the serif name at every phone width («पिछले 7 दिनों में New / Delhi को»); kept whole,
- * it breaks after «को», before the count (measured at 360–430 px). A longer name keeps its spaces, so it can wrap.
- */
-const wholePlace = (place: string) => (place.length <= 20 && place.split(' ').length <= 3 ? place.replace(/ /g, '\u00a0') : place)
-
 /** A date stamp or a range that never breaks at its hyphen or dash («2026-11-19», «2–5»): a word joiner after each */
 const unbroken = (s: string) => s.replace(/([-–])/g, '$1\u2060')
 
@@ -70,14 +63,14 @@ const results: typeof en = {
   headline: {
     watched: (n: number, place: string, when: WindowWhen): Rich => [
       `${windowWords(when)} `,
-      accent(wholePlace(place)),
+      accent(place),
       '\u00a0को ',
       strong(num(f.int(n)), `\u00a0${pl(n, 'उपग्रह', 'उपग्रहों')} ने देखा`),
       '।',
     ],
     none: (place: string, past: boolean): Rich => [
       `${past ? 'उस' : 'इस'} हफ़्ते `,
-      accent(wholePlace(place)),
+      accent(place),
       '\u00a0को हमारी सूची के किसी भी उपग्रह ने नहीं देखा।',
     ],
   },

@@ -587,9 +587,10 @@ Rules:
    `तस्वीर`), `Waterloo के ऊपर`. Always safe.
 4. Point back with `यहाँ`, `इस जगह`, `यह जगह` (f, our noun), or `उसके` / `इसके` (no gender). Never `वह` as the place's
    subject.
-5. In display lines tie a short postposition to the name with a no-break space (`Waterloo\u00a0को`). The results
-   headline also keeps a short name whole (≤ 20 characters, ≤ 3 words: `New\u00a0Delhi`, `-12.000,\u00a0-30.000`): it is
-   balanced, and a break inside the serif name (`पिछले 7 दिनों में New / Delhi को`) reads worse than one after `में`.
+5. In display lines tie a short postposition to the name with a no-break space (`Waterloo\u00a0को`). Write the name
+   itself with its plain spaces: the results headline keeps a place whole wherever it fits one line, in every language
+   (`src/ui/results/wholePlace.ts`, measured, the tied `\u00a0को` included), so `पिछले 7 दिनों में New / Delhi को`
+   breaks after `में` instead, and a name too long for a line still wraps.
 6. English adds "the" before seas and deserts; Hindi has no article: `Pacific Ocean को`.
 
 ### 5.2 [SAT]: masculine, and `ने`

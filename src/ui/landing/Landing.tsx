@@ -29,7 +29,7 @@ import { Rich } from '@/i18n/Rich'
 import enLanding from '@/i18n/en/landing'
 import { useMsgs } from '@/i18n/runtime'
 import { DUR, EASE } from '@/lib/ease'
-import { SHORT_LANDSCAPE_QUERY, isStacked } from '@/lib/layout'
+import { INSET_CLEAR, SHORT_LANDSCAPE_QUERY, isStacked } from '@/lib/layout'
 import { useBackLayer } from '@/lib/backStack'
 import { useApp, type Phase } from '@/state/store'
 import type { Place } from '@/types'
@@ -71,8 +71,8 @@ useApp.subscribe((st, prev) => {
 
 /** Stacked: the ink panel starts this far above the column's first line (Landing.module.css .column::before). */
 const PANEL_PAD_TOP = 22
-/** Wide: the globe's point cloud keeps this much air from the end of the text. */
-const TEXT_CLEAR = 24
+/** Wide: the globe's point cloud keeps this much air from the end of the text (the same as beside any panel). */
+const TEXT_CLEAR = INSET_CLEAR
 /**
  * The chip row's trailing fade reaches back to the last whole chip once that ends further than this from the edge
  * (Landing.module.css `--chips-fade`, 28 px otherwise): past ~64 px the cut chip's words show beyond the 28 px fade.

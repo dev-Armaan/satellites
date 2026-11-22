@@ -1,7 +1,7 @@
 import { useEffect, useLayoutEffect, useRef, useState } from 'react'
 import enApp from '@/i18n/en/app'
 import { useLocale, useMsgs } from '@/i18n/runtime'
-import { isStacked } from '@/lib/layout'
+import { INSET_CLEAR, isStacked } from '@/lib/layout'
 import { useApp } from '@/state/store'
 import type { MessageRef } from '@/types'
 import { Button, Label } from '@/ui/system'
@@ -53,8 +53,8 @@ export function ErrorNotice({ message, onRetry, onBack }: { message?: MessageRef
       const h = window.innerHeight
       // Wide screens: the globe frames beside the card, on whichever side it docks (the left; the right if a
       // right-to-left layout mirrors it), read from where it is rather than from the language.
-      const beside = left + el.offsetWidth / 2 <= w / 2 ? { left: Math.ceil(right + 24), right: 0, bottom: 0 } : { right: Math.ceil(w - left + 24), left: 0, bottom: 0 }
-      useApp.getState().setUiInsets(isStacked(w, h) ? { bottom: Math.ceil(h - top + 24), left: 0, right: 0 } : beside)
+      const beside = left + el.offsetWidth / 2 <= w / 2 ? { left: Math.ceil(right + INSET_CLEAR), right: 0, bottom: 0 } : { right: Math.ceil(w - left + INSET_CLEAR), left: 0, bottom: 0 }
+      useApp.getState().setUiInsets(isStacked(w, h) ? { bottom: Math.ceil(h - top + INSET_CLEAR), left: 0, right: 0 } : beside)
     }
     publish()
     const ro = typeof ResizeObserver !== 'undefined' ? new ResizeObserver(publish) : undefined

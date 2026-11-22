@@ -24,7 +24,7 @@ import { Rich } from '@/i18n/Rich'
 import { currentLocale, useLocale, useMsgs } from '@/i18n/runtime'
 import { timeZoneAt, tzReady } from '@/imagery'
 import { subsolarPoint } from '@/lib/geo'
-import { isStacked } from '@/lib/layout'
+import { INSET_CLEAR, isStacked } from '@/lib/layout'
 import { sceneClock, useSceneFrame } from '@/state/sceneClock'
 import { useApp } from '@/state/store'
 import { Bezel, CornerReadout, Kbd, Reveal, ScrambleOnce, cx, fmtUtcDate, fmtUtcTime, useWallSecondSync, Wordmark } from '@/ui/system'
@@ -50,12 +50,6 @@ const TOP_GAP = 8
  * Turkish 13; the scene time overlapped them by 4 px in English at 390 px, by 17 at 360.
  */
 const MIN_ROW_GAP = 14
-
-/**
- * What every panel beside the HUD adds to the inset it publishes, between its edge and the free rect (results/shell.ts
- * useInsets, the landing's TEXT_CLEAR, ErrorNotice): the panel's own edge is that much inside its inset.
- */
-const PANEL_CLEAR = 24
 
 /**
  * Least clear space between the language's name and a panel's edge before the language steps down (useLanguageRoom).
@@ -377,7 +371,7 @@ function useCrowdedLine(topLeft: RefObject<HTMLDivElement | null>, topRight: Ref
  * there (the top inset grows, so the camera frames below it). A portrait phone has no room for a third line (the
  * results sheet's top snap), but nothing beside the row there either: its panels publish only a bottom inset.
  *
- * The panels publish what they cover (store.uiInsets, each PANEL_CLEAR wider than the panel), so this needs no panel's
+ * The panels publish what they cover (store.uiInsets, each INSET_CLEAR wider than the panel), so this needs no panel's
  * markup. The row's width is the About link's plus the language's as it sits in the row (its hairline included, read
  * while it is in the row), so it is the same on either layout and nothing flips back and forth. Right to left the
  * corners and the dock swap: the row is at the right, a panel's edge is its left inset. Written to the DOM like
@@ -419,8 +413,8 @@ function useLanguageRoom(topLeft: RefObject<HTMLDivElement | null>) {
       // phone turned upright keeps the landscape panel's side inset until its sheet publishes, and the language stood
       // stepped down in portrait for 12 frames meanwhile (Vietnamese, 844 × 390 to 390 × 844).
       const fits = isStacked(window.innerWidth, window.innerHeight) || (rtl
-        ? left <= 0 || r.right - need - PANEL_GAP >= left - PANEL_CLEAR
-        : right <= 0 || r.left + need + PANEL_GAP <= window.innerWidth - right + PANEL_CLEAR)
+        ? left <= 0 || r.right - need - PANEL_GAP >= left - INSET_CLEAR
+        : right <= 0 || r.left + need + PANEL_GAP <= window.innerWidth - right + INSET_CLEAR)
       flag.set(row, 'data-lang-below', !fits, inObserver)
     }
     const now = () => check(false)

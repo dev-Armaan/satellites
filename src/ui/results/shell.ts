@@ -12,6 +12,7 @@
  */
 import { startTransition, useCallback, useEffect, useLayoutEffect, useRef, useState, type RefObject } from 'react'
 import { DUR, EASE } from '@/lib/ease'
+import { INSET_CLEAR } from '@/lib/layout'
 import { useLocale } from '@/i18n/runtime'
 import { useApp } from '@/state/store'
 import { prefersReducedMotion } from '@/ui/system'
@@ -253,8 +254,8 @@ export function useInsets(sectionRef: RefObject<HTMLElement | null>, timelineRef
       const w = window.innerWidth
       const onLeft = dockedLeft(section)
       const side = onLeft
-        ? { left: Math.max(0, section.offsetLeft + section.offsetWidth + 24), right: 0 }
-        : { right: Math.max(0, w - section.offsetLeft + 24), left: 0 }
+        ? { left: Math.max(0, section.offsetLeft + section.offsetWidth + INSET_CLEAR), right: 0 }
+        : { right: Math.max(0, w - section.offsetLeft + INSET_CLEAR), left: 0 }
       const tl = timelineRef.current?.getBoundingClientRect()
       let bottom: number
       if (tl && tl.height) bottom = Math.max(0, window.innerHeight - tl.top)

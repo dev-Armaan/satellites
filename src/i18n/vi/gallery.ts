@@ -60,7 +60,9 @@ const gallery: typeof en = {
   view: 'Xem',
   sharePass: 'Chia sẻ lượt bay này',
   radarTag: 'Radar',
-  noteMostlyCloud: 'Các lượt bay tuần này chủ yếu chỉ thấy mây',
+  /** The passes are the understood subject, as Vietnamese drops it: *Các lượt bay tuần này chủ yếu chỉ thấy mây* set as
+   * two lines on every phone, THẤY MÂY alone on the second; this is one from 360 px up */
+  noteMostlyCloud: 'Tuần này hầu như chỉ thấy mây',
   noteLastClear: 'Đây là ảnh không mây mới nhất',
   clouded: {
     pct: (p: number) => `Mây che kín · ${pct(p)}`,
@@ -93,7 +95,7 @@ const gallery: typeof en = {
 
   // ── a photo developing (the pushbroom reveal) ────────────────────────────────────────────
   stillRendering: 'Vẫn đang tạo ảnh. Cảnh ảnh lớn có thể mất từ 10 giây trở lên.',
-  cropMissing: 'Kho lưu trữ không gửi phần ảnh cắt này. Có thể kho đang bận; bản thân bức ảnh vẫn còn đó.',
+  cropMissing: 'Kho lưu trữ không gửi phần ảnh cắt này. Có thể kho đang bận; bản thân bức ảnh vẫn còn\u00a0đó.',
   scanLine: (line: string, lines: string): Rich => ['Dòng ', strong(line), ` → ${lines}`],
   awaiting: { pass: 'Chờ lượt bay', scan: 'Chờ lần quét' },
 }

@@ -177,15 +177,19 @@ export function ReplayControls({ pass }: { pass: Pass }) {
       <Scrubber pass={pass} refs={refs} dragging={dragging} />
       <div className={s.legend}>
         <span>{fmtUtcTime(w[0])}</span>
-        {/* Each key with its words, as one group: on a narrow phone the middle wraps between the groups */}
+        {/* Each key with its words, as one group: on a narrow phone the middle wraps between the groups, and a group
+            wider than the middle on its own wraps its words, never inside its duration (a no-break space for each
+            space). The key touches its words: the gap is its margin, a space would widen it. */}
         <span className={s.legendMid}>
           {inField ? (
             <span className={s.legendItem}>
-              <i className={s.fieldKey} /> {m.inView(fmtDuration(pass.tEnd - pass.tStart))}
+              <i className={s.fieldKey} />
+              {m.inView(fmtDuration(pass.tEnd - pass.tStart).replace(/ /g, '\u00a0'))}
             </span>
           ) : null}
           <span className={s.legendItem}>
-            <i className={s.closestKey} /> {m.closest}
+            <i className={s.closestKey} />
+            {m.closest}
           </span>
         </span>
         <span>{fmtUtcTime(w[1])}</span>

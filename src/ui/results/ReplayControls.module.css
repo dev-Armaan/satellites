@@ -218,20 +218,29 @@
   min-width: 0;
 }
 .legendItem {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
+  display: inline-block;
+  white-space: normal;
+  text-align: center;
+}
+/* A group is one run of text, its key inline, so one wider than the middle on its own (Turkish «Görüş alanında 7 dk
+   37 sn», Russian, Vietnamese on a 360 px phone ran into the clocks) wraps as centred lines, the key on the first. The
+   key sits where a centred flex row put it: 6 px before its words, centred on the line. */
+.legendItem > i {
+  display: inline-block;
+  vertical-align: top;
+  margin-block-start: calc((1lh - var(--key-h)) / 2);
+  margin-inline-end: 6px;
 }
 .fieldKey {
-  display: inline-block;
+  --key-h: 7px;
   width: 12px;
-  height: 7px;
+  height: var(--key-h);
   background: var(--signal-2);
 }
 .closestKey {
-  display: inline-block;
+  --key-h: 9px;
   width: 1px;
-  height: 9px;
+  height: var(--key-h);
   margin-inline-start: 8px;
   background: var(--bone-2);
 }

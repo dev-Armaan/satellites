@@ -1,4 +1,5 @@
 import { describe, expect, it } from 'vitest'
+import { ensureTz } from '@/imagery/geocode'
 import { waterlooReport } from './__fixtures__/waterloo'
 import { buildResultsModel, getResultsModel, prewarmResultsModel } from './model'
 
@@ -30,5 +31,21 @@ describe('results model (R2R7)', () => {
     // After the cover: newest first.
     const rest = m.photos.slice(1).map((p) => p.pass!.tClosest)
     expect([...rest].sort((x, y) => y - x)).toEqual(rest)
+  })
+
+  it('names the zone as the place row does, everywhere the model is read (footnote, timeline)', async () => {
+    await ensureTz()
+    const report = await waterlooReport({ withTracks: false })
+    const at = (lat: number, lon: number, windowStart = report.windowStart, windowEnd = report.windowEnd) =>
+      buildResultsModel({ ...report, place: { ...report.place, lat, lon }, windowStart, windowEnd }).tzLabel
+    // Hanoi (tz-lookup: Asia/Bangkok) and Bangkok are named by their offset, never "Asia/Bangkok".
+    expect(at(21.03, 105.85)).toBe('UTC+7')
+    expect(at(13.75, 100.5)).toBe('UTC+7')
+    expect(at(43.46, -80.52)).toBe('America/Toronto')
+    expect(at(0, -140)).toBe('UTC−9 · at sea')
+    // Santiago has no abbreviation and moves to summer time on 2026-09-06: a window across it names both offsets.
+    const sep = Date.UTC(2026, 8, 3)
+    expect(at(-33.45, -70.66, sep, sep + 7 * 86_400_000)).toBe('UTC−4 → UTC−3')
+    expect(at(-33.45, -70.66, sep + 7 * 86_400_000, sep + 14 * 86_400_000)).toBe('UTC−3')
   })
 })

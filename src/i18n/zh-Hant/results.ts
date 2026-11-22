@@ -301,7 +301,7 @@ const results: typeof en = {
   timeline: {
     title: '時間軸',
     /** "7 天 · America/Toronto · EST". zh-Hant-HK overlay (§1.4): `${f.int(days)} 日 · ${zoneLabel} · ${zones}` */
-    meta: (days: number, zoneLabel: string, zones: string) => `${f.int(days)} 天 · ${zoneLabel} · ${zones}`,
+    meta: (days: number, zoneLabel: string, zones?: string) => `${f.int(days)} 天 · ${zoneLabel}${zones ? ` · ${zones}` : ''}`,
     zoneChange: (before: string, after: string) => `${before} → ${after}`,
     daylight: '當地白天',
     /**

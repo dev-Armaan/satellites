@@ -23,6 +23,7 @@ import {
   utcOffsetMin,
   zoneAbbr,
   zoneLabel,
+  zoneHasAbbr,
   zoneName,
 } from './time'
 
@@ -120,6 +121,13 @@ describe('time words in English', () => {
     expect(zoneName(T0, 'America/Toronto')).toBe('America/Toronto')
     expect(zoneName(T0, 'Europe/Paris')).toBe('Europe/Paris')
     expect(zoneName(T0, 'Etc/GMT+9')).toBe('UTC−9 · at sea')
+  })
+
+  it('knows which zones have an abbreviation of their own (the timeline names the others once)', () => {
+    expect(zoneHasAbbr(T0, 'America/Toronto')).toBe(true)
+    expect(zoneHasAbbr(T0, 'Europe/Paris')).toBe(true)
+    expect(zoneHasAbbr(T0, 'Asia/Bangkok')).toBe(false)
+    expect(zoneHasAbbr(T0, 'Etc/GMT+9')).toBe(false)
   })
 })
 

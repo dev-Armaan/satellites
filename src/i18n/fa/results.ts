@@ -275,7 +275,7 @@ const results: typeof en = {
   timeline: {
     title: 'خط زمانی',
     // Two Latin labels between neutrals would merge and read backwards: each is its own island.
-    meta: (n: number, zoneLabel: string, zones: string) => `${days(n)} · ${iso(zoneLabel)} · ${iso(zones)}`,
+    meta: (n: number, zoneLabel: string, zones?: string) => `${days(n)} · ${iso(zoneLabel)}${zones ? ` · ${iso(zones)}` : ''}`,
     zoneChange: (before: string, after: string) => `${iso(before)} ← ${iso(after)}`,
     daylight: 'روشنایی روز در این‌جا',
     // A verdict's name cannot follow a bare count in Persian, so each name is a label before its count, and «؛»

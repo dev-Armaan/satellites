@@ -257,7 +257,7 @@ const results: typeof en = {
   // ── 04 / 时间线 ─────────────────────────────────────────────────────────────────────────────
   timeline: {
     title: '时间线',
-    meta: (days: number, zoneLabel: string, zones: string) => `${count(days, '天')} · ${zoneLabel} · ${zones}`,
+    meta: (days: number, zoneLabel: string, zones?: string) => `${count(days, '天')} · ${zoneLabel}${zones ? ` · ${zones}` : ''}`,
     zoneChange: (before: string, after: string) => `${before} → ${after}`,
     daylight: '此处白天',
     /**

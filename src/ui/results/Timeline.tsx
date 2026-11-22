@@ -36,7 +36,7 @@ import { Mark } from './Mark'
 import { isDailyMosaic, isRadar } from './lib/captures'
 import { glyphForPass, markColorVar, VERDICT_GLYPH, type Verdict } from './lib/meta'
 import { daylight, hitTest, SUN_SAMPLE_MS, type DayMark } from './lib/timeline'
-import { fmtDayCompact, fmtLocalDay, fmtLocalStamp, fmtLocalTime, localDateKey, localParts, zoneAbbr } from './lib/time'
+import { fmtDayCompact, fmtLocalDay, fmtLocalStamp, fmtLocalTime, localDateKey, localParts, zoneAbbr, zoneHasAbbr } from './lib/time'
 import type { ResultsModel } from './model'
 import s from './Timeline.module.css'
 
@@ -396,9 +396,11 @@ export function Timeline({ model, selectedId, onSelect, compact = false, index =
   const nowish = Math.abs(Date.now() - t1) < 3_600_000
   const zoneA = zoneAbbr(t0, tz)
   const zoneB = zoneAbbr(t1, tz)
-  const tzLabel = zoneA === zoneB ? zoneA : m.zoneChange(zoneA, zoneB)
+  const zones = zoneA === zoneB ? zoneA : m.zoneChange(zoneA, zoneB)
   const geoNames = report.geo.slice(0, 3).map((g) => g.name)
   const daysN = Math.round(span / 86_400_000)
+  // A zone named by its offset ("UTC+7", "UTC−9 · at sea") is named once: its abbreviation would say it again.
+  const metaText = zoneHasAbbr(t0, tz) ? m.meta(daysN, model.tzLabel, zones) : m.meta(daysN, model.tzLabel)
 
   const laneCount = (v: Verdict) => lanes[v].passes.length
   const dayW = (86_400_000 / span) * size.w
@@ -428,7 +430,7 @@ export function Timeline({ model, selectedId, onSelect, compact = false, index =
             <span className={s.idx}>{index}</span>
             <span className={s.sep}>/</span>
             {m.title}
-            <span className={s.meta}>{m.meta(daysN, model.tzLabel, tzLabel)}</span>
+            <span className={s.meta}>{metaText}</span>
           </span>
           <span className={s.legend} aria-hidden>
             <span className={s.dayKey}>

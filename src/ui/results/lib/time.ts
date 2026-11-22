@@ -232,9 +232,16 @@ export function zoneLabel(ms: number, timeZone: string): string {
  * the offset is what the rest of the page says.
  */
 export function zoneName(ms: number, timeZone: string): string {
-  if (timeZone.startsWith('Etc/')) return zoneLabel(ms, timeZone)
-  const abbr = zoneAbbr(ms, timeZone)
-  return abbr.startsWith('UTC') ? abbr : zoneLabel(ms, timeZone)
+  return timeZone.startsWith('Etc/') || zoneHasAbbr(ms, timeZone) ? zoneLabel(ms, timeZone) : zoneAbbr(ms, timeZone)
+}
+
+/**
+ * Whether the zone has an abbreviation of its own ("EST"), so its name and its abbreviation say different things. A
+ * zone named by its offset ("UTC+7", "UTC−9 · at sea") already says what its abbreviation would: a label that gives
+ * both says it once.
+ */
+export function zoneHasAbbr(ms: number, timeZone: string): boolean {
+  return !timeZone.startsWith('Etc/') && !zoneAbbr(ms, timeZone).startsWith('UTC')
 }
 
 const clock = (p: DateFields, seconds: boolean) => `${pad2(p.hour)}:${pad2(p.minute)}${seconds ? `:${pad2(p.second)}` : ''}`

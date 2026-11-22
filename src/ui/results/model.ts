@@ -21,9 +21,10 @@ import { groupPasses, type PassGroup } from './lib/groups'
 import { orderPhotos, type CoverKind, type Photo } from './lib/photos'
 import type { MetaFn, Verdict } from './lib/meta'
 import { dayBoundaries, hourMarks, indexLanes, sunSamples, type DayMark, type LaneIndex } from './lib/timeline'
+import enResults from '@/i18n/en/results'
 import enTime from '@/i18n/en/time'
 import { currentLocale, msgs } from '@/i18n/runtime'
-import { fmtLocalDay, fmtLocalTime, localParts, zoneAbbr, zoneLabel, type DateFields } from './lib/time'
+import { fmtLocalDay, fmtLocalTime, localParts, zoneAbbr, zoneName, type DateFields } from './lib/time'
 import { satMeta } from './sats'
 
 /** Local time strings of one pass at the place, formatted once per language. */
@@ -53,7 +54,10 @@ export interface ReportClock {
 export interface ResultsModel {
   report: Report
   tz: string
-  /** "America/Toronto", or "UTC−9 · at sea" for nautical zones (worded in the active language when read) */
+  /**
+   * The zone as the place row names it: "America/Toronto" (a zone with an abbreviation), "UTC+7" (one without),
+   * "UTC−9 · at sea" for nautical zones (worded in the active language when read)
+   */
   readonly tzLabel: string
   meta: MetaFn
   passById: Map<string, Pass>
@@ -168,7 +172,11 @@ export function buildResultsModel(report: Report, place = cachedPlace(report.pla
     report,
     ...placeParts,
     get tzLabel() {
-      return zoneLabel(tzAt, tz)
+      // Named as the place row names it (zoneName). A zone named by its offset whose offset changes inside the window
+      // names both ("UTC−3 → UTC−4"): one offset would be wrong for half the rows.
+      const a = zoneName(report.windowStart, tz)
+      const b = zoneName(tzAt, tz)
+      return a === b ? b : msgs(enResults).timeline.zoneChange(a, b)
     },
     meta: satMeta,
     passById: new Map(report.passes.map((p) => [p.id, p])),

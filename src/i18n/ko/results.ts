@@ -261,7 +261,7 @@ const results: typeof en = {
   // ── 04 / timeline ────────────────────────────────────────────────────────────────────────
   timeline: {
     title: '타임라인',
-    meta: (days: number, zoneLabel: string, zones: string) => `${f.int(days)}일 · ${zoneLabel} · ${zones}`,
+    meta: (days: number, zoneLabel: string, zones?: string) => `${f.int(days)}일 · ${zoneLabel}${zones ? ` · ${zones}` : ''}`,
     zoneChange: (before: string, after: string) => `${before} → ${after}`,
     daylight: '이곳의 낮',
     /**

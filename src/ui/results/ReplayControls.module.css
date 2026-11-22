@@ -216,6 +216,8 @@
   align-items: center;
   gap: 3px 6px;
   min-width: 0;
+  /* 2 px of each 8 px gap to the clocks, so a group a fraction too wide (Turkish at 390 px: 0.2 px) keeps one line */
+  margin-inline: -2px;
 }
 .legendItem {
   display: inline-block;

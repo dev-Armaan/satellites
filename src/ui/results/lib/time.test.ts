@@ -23,6 +23,7 @@ import {
   utcOffsetMin,
   zoneAbbr,
   zoneLabel,
+  zoneName,
 } from './time'
 
 // ── The English baseline: what time.ts printed before the catalog ──────────────────────────
@@ -109,6 +110,16 @@ describe('time words in English', () => {
   it('names a zone at sea', () => {
     expect(zoneLabel(T0, 'Etc/GMT+9')).toBe('UTC−9 · at sea')
     expect(zoneLabel(T0, 'America/St_Johns')).toBe('America/St Johns')
+  })
+
+  it('names the place row\'s zone by its offset where it has no abbreviation, as the pass rows do', () => {
+    // tz-lookup gives Hanoi Asia/Bangkok: the rows say UTC+7, and the place row must not name Thailand.
+    expect(zoneName(T0, 'Asia/Bangkok')).toBe('UTC+7')
+    expect(zoneName(T0, 'Asia/Bangkok')).toBe(zoneAbbr(T0, 'Asia/Bangkok'))
+    expect(zoneName(T0, 'Asia/Kathmandu')).toBe('UTC+5:45')
+    expect(zoneName(T0, 'America/Toronto')).toBe('America/Toronto')
+    expect(zoneName(T0, 'Europe/Paris')).toBe('Europe/Paris')
+    expect(zoneName(T0, 'Etc/GMT+9')).toBe('UTC−9 · at sea')
   })
 })
 

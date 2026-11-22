@@ -39,7 +39,7 @@ import { clearPass } from './actions'
 import { ONE_LINE_TITLE_QUERY, SHORT_DESK_QUERY } from './shell'
 import { glyphForPass, markColorVar } from './lib/meta'
 import { stepPass } from './lib/timeline'
-import { utcLabel, utcOffsetMin, zoneLabel } from './lib/time'
+import { utcLabel, utcOffsetMin, zoneName } from './lib/time'
 import type { ResultsModel } from './model'
 import { placeName } from './placeName'
 import s from './results.module.css'
@@ -219,7 +219,7 @@ function SearchBar({ place, desk = false, onOpen }: { place: Place; desk?: boole
 function PlaceRow({ place, tz }: { place: Place; tz?: string }) {
   const ref = useRef<HTMLDivElement>(null)
   const now = Date.now()
-  const full = tz ? zoneLabel(now, tz) : undefined
+  const full = tz ? zoneName(now, tz) : undefined
   const short = tz?.startsWith('Etc/') ? utcLabel(utcOffsetMin(now, tz)) : undefined
   useLayoutEffect(() => {
     const row = ref.current

@@ -566,7 +566,7 @@ the display title has room for the spoken phrase. *Enter* is the common name of 
 | note | Jedes Bild zeigt dasselbe Quadrat von 10 km Seitenlänge, aufgenommen von Sentinel-2 und farblich so abgestimmt wie jedes Foto hier. Jedes Jahr zielt auf eine andere Jahreszeit; ein Jahr ohne klaren Blick fällt weg. |
 | noteOneSeason | Jedes Bild zeigt dasselbe Quadrat von 10 km Seitenlänge, aufgenommen von Sentinel-2 und farblich so abgestimmt wie jedes Foto hier. Alle Bilder stammen aus derselben Jahreszeit; ein Jahr ohne klaren Blick in dieser Jahreszeit fällt weg. |
 | source | Copernicus Sentinel-2, über Planetary Computer |
-| listing / choosing / developing | Archivsuche · 03 / 12 / Auswahl klarer Blicke · 03 / 12 / Entwicklung der Bilder · 03 / 12 |
+| listing / choosing / developing | Archivsuche · 03 / 12 / Auswahl klarer Blicke · 03 / 12 / Entwicklung der Bilder · 03 / 12 (the counters, `system.counter`, keep the slash: German dates take dots, *20.12.2017*, *Mi 28.10.*, so `03 / 12` beside them reads as a count, never a day; checked 2026-11-22, when Vietnamese, whose dates are d/m, dropped it) |
 | choosingProgress / developingProgress (aria) | Auswahl klarer Blicke, 3 von 12 / Entwicklung der Bilder, 3 von 12 |
 | tooCloudy / tooFew | Zu bewölkt für einen Zeitraffer. / Kein klarer Blick seit 2015 · 3 nötig (`2 klare Blicke seit 2015 · 3 nötig`) |
 | noAnswer / unreachable / retry | Das Archiv hat nicht geantwortet. / Planetary Computer war nicht erreichbar / Erneut versuchen |

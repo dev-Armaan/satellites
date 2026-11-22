@@ -1018,7 +1018,7 @@ mean a hoax, so the label says what they are (円形農地). Gibraltar keeps the
 | Dash | none in prose | — only as the "unknown value" readout. Never ― or ー as a dash. |
 | Range | 〜 (U+301C) in prose; – (en dash) in mono; → in the kicker and day ranges | 10〜30 m · 10–30 m · 2026/11/12 → 11/19 UTC. Never ～ (U+FF5E), which formatRange emits. |
 | Middle dot | · (U+00B7) between fields in mono and chips; ・ (U+30FB) inside katakana names and fixed noun pairs (昼・夜) | Never ・ as a list separator for Latin names. |
-| Slash | " / " with spaces | 02 / 通過 · 3 / 27 |
+| Slash | " / " with spaces | 02 / 通過 · 3 / 27. Checked against the dates beside the counters (2026-11-22; Vietnamese had to drop its slash, where d/m is a date): a Japanese mono date is never bare, always a weekday or a year and no spaces (11/1(日), 2017/12/20), and "3 / 27" is the image viewer's count readers know, so the counters (`system.counter`, the time-lapse's 03 / 12 included) keep it. |
 | Arrow | → | 北 → 南 · ライン 0412 → 1024 |
 | Note marks | the product's superscripts ¹ ² ³ | Never ※ or 注). |
 | Spaces | Prose: none typed between Japanese and Latin or digits (CSS spaces them, §6.6); one between a number and an SI unit. Mono readouts: a space separates fields (取得 11:21:21 EST · 10 m, 物体数 16,893, 傾き 8.9°). Never U+3000. |

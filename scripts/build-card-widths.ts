@@ -140,6 +140,17 @@ function devanagariTable(f: HbFont): { base: string; half: string; ru: string } 
   return { base, half, ru: em36(f.width('\u0930\u0941') - ra) + em36(f.width('\u0930\u0942') - ra) }
 }
 
+/** Which file of `stack` draws each code point over RANGES: its index, `-` for none (kerning never crosses two files). */
+function files(stack: HbFont[]): string {
+  let out = ''
+  for (const [a, z] of RANGES)
+    for (let cp = a; cp <= z; cp++) {
+      const i = stack.findIndex((f) => f.has(cp))
+      out += i < 0 ? '-' : String(i)
+    }
+  return out
+}
+
 /** One table: each code point's advance in the first file of `stack` that has it. */
 function table(stack: HbFont[]): string {
   let out = ''
@@ -152,11 +163,11 @@ function table(stack: HbFont[]): string {
 }
 
 /** The letters, digits and marks of punctuation kerned (a place's or a satellite's name, the copy's words). */
-const KERN_LATIN = [...'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789.,:;-()\'\u2019 ']
-const KERN_CYRILLIC = [...'АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяІЇЄҐіїєґ.,:;-() ']
+const KERN_LATIN = [...'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789.,:;-()/&!?\'\u2018\u2019\u201c\u201d ']
+const KERN_CYRILLIC = [...'АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяІЇЄҐіїєґ.,:;-()/&!? ']
 
 /**
- * A face's kerning: each pair of `chars` whose shaped width differs from its two advances by 0.01 em or more, as the
+ * A face's kerning: each pair of `chars` whose shaped width differs from its two advances by 0.002 em or more, as the
  * pair then the difference in thousandths of an em plus 648, in two base-36 digits. Pairs across two files (a Latin
  * letter beside a Cyrillic one) are never kerned, by any renderer.
  */
@@ -166,7 +177,7 @@ function kerning(f: HbFont, chars: string[]): string {
   for (const a of chars)
     for (const b of chars) {
       const k = f.width(a + b) - alone.get(a)! - alone.get(b)!
-      if (Math.abs(k) >= 0.01) out += a + b + Math.round(k * 1000 + 648).toString(36).padStart(2, '0')
+      if (Math.abs(k) >= 0.002) out += a + b + Math.round(k * 1000 + 648).toString(36).padStart(2, '0')
     }
   return out
 }
@@ -203,6 +214,9 @@ export const WIDTHS = {
   display: { brand: '${table(displayBrand)}', vi: '${table(displayVi)}' },
   serif: { brand: '${table(serifBrand)}', vi: '${table(serifVi)}' },
 } as const
+
+/** The brand stack's file for each code point (0 latin, 1 latin-ext, 2 Cyrillic), as WIDTHS: a pair across two is not kerned. */
+export const BRAND_FILES = '${files(displayBrand)}'
 
 /** Kerning: a pair, then its difference in thousandths of an em plus 648, two base-36 digits (four characters a pair). */
 export const KERNING = {

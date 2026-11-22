@@ -7,8 +7,9 @@
  * real advance widths (cardWidths.gen.ts, measured from the card's own font files by scripts/build-card-widths.ts) the
  * sizing passes over a size at which a piece would not fit, and leaves every card whose pieces fit as it was.
  *
- * The numbers err wide, never narrow: Latin, Cyrillic and Vietnamese are the faces' advances and kerning (a pair the
- * table leaves out is kerned by less than 0.01 em); Arabic and Devanagari are rebuilt from their letters' forms in the widest of the renderers' faces (satori's);
+ * Latin, Cyrillic and Vietnamese are the faces' advances and kerning (a pair the table leaves out is kerned by less
+ * than 0.002 em; an accented letter is kerned as its base letter), within a pixel of what the renderers set either
+ * way; Arabic and Devanagari are rebuilt from their letters' forms in the widest of the renderers' faces (satori's);
  * Han, kana and hangul are a full em; any other script 0.6 em a letter.
  *
  * The pieces are what no renderer breaks: words between breaking spaces (a no-break space ties its words), split after
@@ -16,7 +17,7 @@
  * «2-02A» whole, so satori and the browser do, and the canvas's wrap breaks nowhere else), and between characters of
  * Chinese and Japanese.
  */
-import { ARABIC_FROM, ARABIC_WIDTHS, DEVANAGARI_FROM, DEVANAGARI_WIDTHS, KERNING, WIDTHS, WIDTH_RANGES } from './cardWidths.gen.js'
+import { ARABIC_FROM, ARABIC_WIDTHS, BRAND_FILES, DEVANAGARI_FROM, DEVANAGARI_WIDTHS, KERNING, WIDTHS, WIDTH_RANGES } from './cardWidths.gen.js'
 import type { Locale } from './i18n/locales.js'
 
 /** The headline's two faces: the condensed display (its text parts) and the serif italic (its accent, the place). */
@@ -69,8 +70,17 @@ function kern(a: string, b: string, role: HeadRole, locale: Locale): number {
     for (let i = 0; i + 4 <= t.length; i += 4) map.set(t.slice(i, i + 2), (parseInt(t.slice(i + 2, i + 4), 36) - 648) / 1000)
     kernMaps.set(id, map)
   }
-  return map.get(a + b) ?? 0
+  const direct = map.get(a + b)
+  if (direct !== undefined) return direct
+  // An accented letter is kerned as its base letter (the faces kern «Ké» as «Ke», −0.04 em; a name full of them
+  // measured up to 3.5 px wide without it), but only in the stack's one file: no renderer kerns a pair across two
+  // (Instrument's «a» and its latin-ext «ā»), and kerning them so measured «Channarāyapatna.» 3 px narrow.
+  const file = (ch: string) => (stack === 'vi' ? '0' : BRAND_FILES[latinIndex(ch.codePointAt(0)!)])
+  return file(a) !== undefined && file(a) === '0' && file(b) === '0' ? (map.get(baseLetter(a) + baseLetter(b)) ?? 0) : 0
 }
+
+/** A letter without its accents («é» → «e»; «Ł» has none to drop). */
+const baseLetter = (ch: string) => ch.normalize('NFD').replace(/\p{M}/gu, '').slice(0, 1) || ch
 
 /** An Arabic run's width: each letter in the form its neighbours give it. */
 function arabicEm(chars: string[], role: HeadRole): number {

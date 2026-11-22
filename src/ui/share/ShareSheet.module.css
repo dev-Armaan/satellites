@@ -192,13 +192,29 @@
 }
 
 /* Present from the first frame (it enters with the dialog): nothing moves when the link is made. The label
-   column matches the post's (48px + 12px), so the link and the post text start on one line. */
+   column matches the post's (+ 12px), so the link and the post text start on one line: at least 48px, else as wide as
+   the wider of the two labels set whole (Vietnamese «LIÊN KẾT» split over two lines in a fixed 48px). Each label
+   cell also holds the other label, invisible (`.labelGhost`), so both columns take the same width with no script. */
 .linkRow {
   display: grid;
-  grid-template-columns: 48px minmax(0, 1fr);
+  grid-template-columns: auto minmax(0, 1fr);
   align-items: center;
   gap: 12px;
   border-bottom: 1px solid var(--line-strong);
+}
+.linkLabel,
+.textLabel {
+  display: grid;
+  min-width: 48px;
+  white-space: nowrap;
+}
+.linkLabel > *,
+.textLabel > * {
+  grid-area: 1 / 1;
+}
+.labelGhost {
+  height: 0;
+  visibility: hidden;
 }
 .linkLabel {
   font-family: var(--font-mono);
@@ -246,7 +262,7 @@
 .text {
   margin: 0;
   display: grid;
-  grid-template-columns: 48px 1fr;
+  grid-template-columns: auto 1fr;
   gap: 12px;
   font-size: var(--fs-small);
   line-height: 1.5;

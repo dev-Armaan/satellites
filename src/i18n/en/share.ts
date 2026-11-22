@@ -73,7 +73,7 @@ export default ns('share', {
 
   // ── The link and the post preview ─────────────────────────────────────────────────────────────────────────────────
 
-  /** The link field's label (mono caps by CSS, a 48 px column: keep it to about 5 characters) */
+  /** The link field's label (mono caps by CSS; its column is at least 48 px, else the wider of this and `postLabel`) */
   linkLabel: 'Link',
   /** The field's tooltip when it holds the long direct link (the short /s/ link could not be made) */
   directLink: 'Direct link: the short link could not be made right now',
@@ -81,7 +81,7 @@ export default ns('share', {
   creatingLink: 'Creating link…',
   /** The field before the first share (the link is made on the first press) */
   linkLater: 'Made when you share',
-  /** The post preview's label (mono caps by CSS, the same 48 px column as `linkLabel`) */
+  /** The post preview's label (mono caps by CSS, the same column as `linkLabel`) */
   postLabel: 'Post',
   /** Under the buttons when the card could not be drawn in this browser */
   renderFailed: 'The card could not be rendered here; the link still works.',

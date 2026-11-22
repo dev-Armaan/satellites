@@ -707,7 +707,10 @@ export function ShareSheet({ pass, report, onClose, clouded, kind = 'pass', from
           phone sheet) under the pointer, by 20–27 px, so the click landed beside the button and was lost. */}
       <div className={s.linkRow} data-link={link.kind}>
         <label htmlFor="share-link" className={s.linkLabel}>
-          {m.linkLabel}
+          <span>{m.linkLabel}</span>
+          <span className={s.labelGhost} aria-hidden>
+            {m.postLabel}
+          </span>
         </label>
         <input
           id="share-link"
@@ -722,7 +725,12 @@ export function ShareSheet({ pass, report, onClose, clouded, kind = 'pass', from
         />
       </div>
       <p className={s.text}>
-        <span className={s.textLabel}>{m.postLabel}</span>
+        <span className={s.textLabel}>
+          <span>{m.postLabel}</span>
+          <span className={s.labelGhost} aria-hidden>
+            {m.linkLabel}
+          </span>
+        </span>
         {/* Paragraphs as the post will have them (a blank line on X), set a little tighter here. */}
         <span className={s.textBody}>
           {text.split('\n\n').map((para, i) => (

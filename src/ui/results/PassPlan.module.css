@@ -89,10 +89,12 @@
   bottom: 10px;
   display: flex;
   flex-direction: column;
+  align-items: flex-start;
   gap: 4px;
 }
 .bar {
   display: block;
+  align-self: stretch;
   height: 5px;
   border: 1px solid var(--bone-2);
   border-top: 0;
@@ -107,10 +109,16 @@
   color: var(--bone-2);
   white-space: nowrap;
 }
+/* The label is as wide as its words, under the bar's start (stretched, as wide as the bar, a longer label spilled
+   past the bar's start in right to left: Persian «50 کیلومتر», 51 px under a 44 px bar, came 4 px from the frame). */
+.scaleText {
+  width: max-content;
+}
 
 /* Right to left: the plan is a map, north up and west on the left, so nothing on it mirrors: the corner labels keep
    their corners and the scale bar starts at the left. Only the words read right to left, inside their chips; the
-   scale's number sits under the bar's start, where it is measured from. */
-:root[dir='rtl'] .scaleText {
-  text-align: left;
+   scale's label starts under the bar's start (flex-end is the left there) and runs on to the right, away from the
+   frame. Its words read right to left inside it, so the unit is under the bar's start and the number at its right. */
+:root[dir='rtl'] .scale {
+  align-items: flex-end;
 }

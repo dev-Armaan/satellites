@@ -26,13 +26,12 @@ import type { Offset } from '../en/pass'
 import { fmt } from '../../../api/_lib/i18n/format'
 import { num, type Part, type Rich } from '../../../api/_lib/i18n/parts'
 import type { Compass8 } from '@/ui/results/lib/copy'
+import { isoUnlessRtl, ltr } from '../bidi'
 
 const f = fmt('fa')
 const nb = '\u00a0'
-/** U+2066 LEFT-TO-RIGHT ISOLATE … U+2069 POP DIRECTIONAL ISOLATE (DOM-only text) */
-const ltr = (s: string) => `\u2066${s}\u2069`
 /** The place, isolated unless it is Persian: a place searched by coordinates would otherwise reorder its numbers */
-const at = (place: string) => (/[؀-ۿ\u2066-\u2069]/.test(place) ? place : ltr(place))
+const at = isoUnlessRtl
 
 /** Moving (`heading`): «رو به جنوب» */
 const HEADING: Record<Compass8, string> = {

@@ -34,20 +34,19 @@ import { accent, num, strong, type Part, type Rich } from '../../../api/_lib/i18
 import type { Pass, SatCategory } from '@/types'
 import { localParts, type DateFields } from '@/ui/results/lib/time'
 import time from './time'
+import { isoUnlessRtl, ltr } from '../bidi'
 
 const f = fmt('ar')
 const nb = '\u00a0'
 type Verdict = Pass['verdict']
 type Forms = { one: string; two: string; few: string; many: string; other: string }
 
-/** U+2066 LEFT-TO-RIGHT ISOLATE … U+2069 POP DIRECTIONAL ISOLATE: one left-to-right run in a DOM-only string */
-const ltr = (s: string) => `\u2066${s}\u2069`
 /**
  * Isolate a Latin label (a zone, a zone name, a place), but leave one that holds Arabic words or isolates already as it
  * is. A place searched by coordinates needs it most: «23.5000°N 12.5000°E» at the end of the headline read
  * «N 12.5000°E°23.5000.».
  */
-const iso = (s: string) => (/[\p{Script=Arabic}\u2066-\u2069]/u.test(s) ? s : ltr(s))
+const iso = isoUnlessRtl
 /**
  * A place that ends a sentence, isolated, and the full stop after it. A Latin name's own final dot («Washington, D.C.»)
  * comes out of its island, or it is drawn against the Arabic and nothing ends the sentence.

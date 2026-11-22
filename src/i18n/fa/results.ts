@@ -30,19 +30,18 @@ import { accent, num, strong, type Part, type Rich } from '../../../api/_lib/i18
 import type { Pass, SatCategory } from '@/types'
 import { localParts, type DateFields } from '@/ui/results/lib/time'
 import time from './time'
+import { isoUnlessRtl, ltr } from '../bidi'
 
 const f = fmt('fa')
 const nb = '\u00a0'
 type Verdict = Pass['verdict']
 
-/** U+2066 LEFT-TO-RIGHT ISOLATE … U+2069 POP DIRECTIONAL ISOLATE: one left-to-right run in a DOM-only string */
-const ltr = (s: string) => `\u2066${s}\u2069`
 /**
  * Isolate a Latin label (a zone, a zone name, a place), but leave one that holds Persian words or isolates already as it
  * is. A place searched by coordinates needs it most: «23.5000°N 12.5000°E» after a Persian comma read
  * «N 12.5000°E°23.5000» in the headline.
  */
-const iso = (s: string) => (/[؀-ۿ\u2066-\u2069]/.test(s) ? s : ltr(s))
+const iso = isoUnlessRtl
 /** A whole count, or a fraction kept */
 const int = (n: number) => (Number.isInteger(n) ? f.int(n) : f.dec(n, 1))
 /** "A، B و C": Persian lists, no comma before «و» */

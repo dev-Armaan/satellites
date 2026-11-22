@@ -90,8 +90,9 @@ const results: typeof en = {
         'lastDays' in when
           ? `در ${lastDays(when.lastDays)}، `
           : `از ${dayMonth(when.fromMs, when.timeZone)} تا ${dayMonth(when.toMs, when.timeZone)}، `
-      const phrase = n === 1 ? strong('یک ماهواره رصد کرد') : strong(num(int(n)), `${nb}ماهواره رصد کردند`)
-      // A no-break space keeps «را» on its object's line: a line never starts with it.
+      const phrase = n === 1 ? strong(`یک ماهواره رصد${nb}کرد`) : strong(num(int(n)), `${nb}ماهواره رصد${nb}کردند`)
+      // A no-break space keeps «را» on its object's line: a line never starts with it. Another holds the compound verb
+      // together («رصد کردند»): a line may break before it, never inside it.
       return [window, accent(place), `${nb}را `, phrase, '.']
     },
     none: (place: string, past: boolean): Rich => [

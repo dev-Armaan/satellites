@@ -42,8 +42,11 @@ const dayMonth = (ms: number, timeZone: string) => formatDate('fa', ms, timeZone
 
 // ── Pieces the sentences share ──────────────────────────────────────────────────────────────────────────────────────
 
-/** «31 ماهواره رصد کردند.» · «یک ماهواره رصد کرد.» */
-const watched = (n: number) => (n === 1 ? 'یک ماهواره رصد کرد.' : `${f.int(n)}${nb}ماهواره رصد کردند.`)
+/**
+ * «31 ماهواره رصد کردند.» · «یک ماهواره رصد کرد.» A no-break space holds the compound verb together: at the card's size
+ * the block wraps, and «256 ماهواره رصد | کردند.» split the verb; now it breaks «256 ماهواره | رصد کردند.».
+ */
+const watched = (n: number) => (n === 1 ? `یک ماهواره رصد${nb}کرد.` : `${f.int(n)}${nb}ماهواره رصد${nb}کردند.`)
 /** The serif block: the place and its object marker («Waterloo را»), the words on its line */
 const object = (place: string) => accent(place, `${nb}را`)
 /** The week's headline: «این هفته | *Waterloo را* | 31 ماهواره رصد کردند.»; zero puts its negative subject first */

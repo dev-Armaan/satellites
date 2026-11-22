@@ -517,23 +517,47 @@ export function headlineSizeCjk(head: Rich, sub?: string, locale?: Locale): numb
 }
 
 /**
- * Width in em of a Hindi card's text, per UTF-16 unit: the widest of the Hindi card's lines measured in each face
- * (HarfBuzz, 2026-11-21: the condensed display 0.37, the serif place 0.39 with a Latin name, the sans 0.40). A vowel
- * sign, a virama or a nukta is a unit that adds little or no width, so a count of units errs wide, never narrow.
+ * Width in em of a Hindi card's sub-line, per UTF-16 unit: the widest of the Hindi card's lines measured in the sans
+ * (HarfBuzz, 2026-11-21). A vowel sign, a virama or a nukta is a unit that adds little or no width, so a count of
+ * units errs wide, never narrow.
  */
-const DEVANAGARI_EM = { lead: 0.37, place: 0.4, sub: 0.41 } as const
+const DEVANAGARI_EM = { sub: 0.41 } as const
 
 /** The words of `text` as the renderers break it: at breaking spaces only (a no-break space ties its words into one). */
 const runs = (text: string) => text.split(/[^\S\u00a0]+/).filter(Boolean)
 
-/** The lines `text` takes in `width` px when each UTF-16 unit is `unit` px wide (greedy, by word), each its words. */
-function linesOfUnits(text: string, unit: number, width: number): string[][] {
-  const lines: string[][] = []
+/** How many lines `text` takes in `width` px when each UTF-16 unit is `unit` px wide (greedy, by word). */
+function linesByUnits(text: string, unit: number, width: number): number {
+  let lines = 0
   let w = 0
   for (const word of runs(text)) {
     const ww = word.length * unit
-    if (lines.length && w + unit + ww <= width) {
-      w += unit + ww
+    if (lines && w + unit + ww <= width) w += unit + ww
+    else {
+      lines++
+      w = ww
+    }
+  }
+  return lines
+}
+
+/**
+ * The lines a headline block takes in the column (greedy, by word), each its words, measured in its face at its size
+ * (cardMeasure.ts): Latin by the face's advances, so a name in capitals (PROTOMETHEE, 0.47 em a letter) is as wide
+ * as it is set, and Devanagari by its letters' forms, so a vowel sign or a nukta adds nothing. Counting 0.37 em a UTF-16
+ * unit had both wrong: capitals too narrow (PROTOMETHEE / गुज़रा। left the verb alone) and «गुज़रा।» too wide by its
+ * two marks (ISS (ZARYA) गुज़रा। then broke at 72 px where it is one line).
+ */
+function linesOf(text: string, role: 'display' | 'serif', size: number, locale: Locale): string[][] {
+  const track = headTracking(locale)[role === 'display' ? 'lead' : 'place']
+  const px = (t: string) => textPx(t, role, size, track, locale)
+  const space = px(' ')
+  const lines: string[][] = []
+  let w = 0
+  for (const word of runs(text)) {
+    const ww = px(word)
+    if (lines.length && w + space + ww <= PANEL.w) {
+      w += space + ww
       lines[lines.length - 1].push(word)
     } else {
       lines.push([word])
@@ -541,11 +565,6 @@ function linesOfUnits(text: string, unit: number, width: number): string[][] {
     }
   }
   return lines
-}
-
-/** How many lines `text` takes in `width` px when each UTF-16 unit is `unit` px wide (greedy, by word). */
-function linesByUnits(text: string, unit: number, width: number): number {
-  return linesOfUnits(text, unit, width).length
 }
 
 /**
@@ -558,35 +577,22 @@ function lonelyLast(lines: string[][]): boolean {
 }
 
 /**
- * Units of the widest run of `text` that no renderer may break (a word, or words tied by no-break spaces), its
- * nonspacing marks left out: a vowel sign above or below, a virama, a nukta or an anusvara has no advance of its own.
- * Counted so, the card's tied runs («262 उपग्रहों ने देखा।», «पट्टी गुज़री।») measure 0.34 to 0.37 em a unit in the
- * display face (Chromium, 2026-11-22), so DEVANAGARI_EM.lead still errs wide on them; with the marks counted, the
- * week's run (441 px at 72 px) would count as 559 px and be set needlessly small.
- */
-function widestRun(text: string): number {
-  // Whole, even across a hyphen: satori does not break after one inside a tied run («STARLINK-31234 गुज़रा।» ran out of
-  // the card at 84 px where the canvas broke it).
-  return Math.max(0, ...runs(text).map((r) => r.replace(/\p{Mn}/gu, '').length))
-}
-
-/**
  * A Hindi headline's size: at most headlineSize's (the lead in three lines, the place in two), and small enough that
  * the whole block, at HEAD_DEVANAGARI's taller leading and with its sub-line, fits its band. At HEAD's sizes a
- * two-line place, a two-line lead and a sub-line ran into the readouts. A size is also passed over when a run the
- * copy ties is wider than the column (the renderers never break it, so it would overflow: linesByUnits counts it as
- * one line whatever its width), or when a block's last line would hold one word alone: the copy ties the words that
- * must not part (hi.ts), and this keeps a size from leaving an untied one alone.
+ * two-line place, a two-line lead and a sub-line ran into the readouts. A size is also passed over when a word or a
+ * run the copy ties is wider than the column (headlineFits: the renderers never break it, so it would overflow), or
+ * when a block's last line would hold one word alone: the copy ties the words that must not part (hi.ts), and this
+ * keeps a size from leaving an untied one alone.
  */
-export function headlineSizeDevanagari(head: Rich, lead: string, place: string, sub?: string): number {
+export function headlineSizeDevanagari(head: Rich, lead: string, place: string, sub?: string, locale: Locale = 'hi'): number {
   const leads = head.filter((p) => !isAccent(p)).map((p) => plain([p]).trim()).filter(Boolean)
   const places = head.filter(isAccent).map((p) => plain(p.accent).trim())
   const subH = sub ? HEAD.subGap + linesByUnits(sub, DEVANAGARI_EM.sub * CARD_FS.sub, PANEL.w) * CARD_FS.sub * HEAD.subLH : 0
-  for (let S = headlineSize(lead, place); S > 36; S -= 2) {
+  for (let S = headlineSize(lead, place); S > HEAD_MIN; S -= 2) {
     const P = S * HEAD.placeScale
-    if (leads.some((t) => widestRun(t) * DEVANAGARI_EM.lead * S > PANEL.w)) continue
-    const leadSets = leads.map((t) => linesOfUnits(t, DEVANAGARI_EM.lead * S, PANEL.w))
-    const placeSets = places.map((t) => linesOfUnits(t, DEVANAGARI_EM.place * P, PANEL.w))
+    if (!headlineFits(head, locale, S)) continue
+    const leadSets = leads.map((t) => linesOf(t, 'display', S, locale))
+    const placeSets = places.map((t) => linesOf(t, 'serif', P, locale))
     if ([...leadSets, ...placeSets].some(lonelyLast)) continue
     const leadLines = leadSets.reduce((n, l) => n + l.length, 0)
     const placeLines = placeSets.map((l) => l.length)
@@ -596,14 +602,14 @@ export function headlineSizeDevanagari(head: Rich, lead: string, place: string, 
       leadLines * S * HEAD_DEVANAGARI.leadLH + placeLines.reduce((a, n) => a + n * P * HEAD_DEVANAGARI.placeLH, 0) + Math.max(0, blocks - 1) * P * HEAD.placeGap + subH
     if (h <= PANEL.headBottom - PANEL.headTop - 8) return S
   }
-  return 36
+  return HEAD_MIN
 }
 
 /** The headline's size and script flags for a card in `locale` (English and every other script: headlineSize). */
 function headSizing(locale: Locale, head: Rich, lead: string, sub?: string): { size: number; cjk?: true } {
   const script = LOCALE_INFO[locale].script
   if (script === 'cjk') return { size: headlineSizeCjk(head, sub, locale), cjk: true }
-  if (script === 'devanagari') return { size: headlineSizeDevanagari(head, lead, accentText(head, locale), sub) }
+  if (script === 'devanagari') return { size: headlineSizeDevanagari(head, lead, accentText(head, locale), sub, locale) }
   // A word wider than the column steps the size down until it fits (2 px at a time, so it stays as large as it can).
   let S = headlineSize(lead, accentText(head, locale))
   while (S > HEAD_MIN && !headlineFits(head, locale, S)) S -= 2

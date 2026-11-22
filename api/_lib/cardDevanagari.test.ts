@@ -144,7 +144,8 @@ describe('the Hindi headline’s size', () => {
   })
 
   it('steps down until a long place, a long lead and a sub-line fit the band', () => {
-    const head: Rich = [accent('क्षत्रिय त्र्यंबकेश्वर धर्मशाला के ऊपर से'), 'Sentinel-2C की नज़र पहुँच सकती थी।']
+    // measured by its letters' forms (cardMeasure.ts), the place without «महाविद्यालय» fits at the ladder's 54 px
+    const head: Rich = [accent('क्षत्रिय त्र्यंबकेश्वर धर्मशाला महाविद्यालय\u00a0के ऊपर से'), 'Sentinel-2C की नज़र पहुँच सकती थी।']
     const sub = 'दृश्य के 81% हिस्से पर बादल। उसे ज़्यादातर बादल दिखे।'
     const { S, latin } = size(head, sub)
     expect(S).toBeLessThan(latin)

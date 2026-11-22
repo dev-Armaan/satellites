@@ -24,6 +24,7 @@ import { Rich } from '@/i18n/Rich'
 import { currentLocale, useLocale, useMsgs } from '@/i18n/runtime'
 import { timeZoneAt, tzReady } from '@/imagery'
 import { subsolarPoint } from '@/lib/geo'
+import { isStacked } from '@/lib/layout'
 import { sceneClock, useSceneFrame } from '@/state/sceneClock'
 import { useApp } from '@/state/store'
 import { Bezel, CornerReadout, Kbd, Reveal, ScrambleOnce, cx, fmtUtcDate, fmtUtcTime, useWallSecondSync, Wordmark } from '@/ui/system'
@@ -414,9 +415,12 @@ function useLanguageRoom(topLeft: RefObject<HTMLDivElement | null>) {
       if (!r.width) return
       const { left, right } = useApp.getState().uiInsets
       const rtl = getComputedStyle(tl).direction === 'rtl'
-      const fits = rtl
+      // A stacked layout has nothing beside the row (its panels are bottom sheets), whatever the insets still say: a
+      // phone turned upright keeps the landscape panel's side inset until its sheet publishes, and the language stood
+      // stepped down in portrait for 12 frames meanwhile (Vietnamese, 844 × 390 to 390 × 844).
+      const fits = isStacked(window.innerWidth, window.innerHeight) || (rtl
         ? left <= 0 || r.right - need - PANEL_GAP >= left - PANEL_CLEAR
-        : right <= 0 || r.left + need + PANEL_GAP <= window.innerWidth - right + PANEL_CLEAR
+        : right <= 0 || r.left + need + PANEL_GAP <= window.innerWidth - right + PANEL_CLEAR)
       flag.set(row, 'data-lang-below', !fits, inObserver)
     }
     const now = () => check(false)

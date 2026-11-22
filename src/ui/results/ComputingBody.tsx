@@ -17,13 +17,13 @@
  * store as MessageRefs ('engine.progress.*', 'app.progress.*'). The fold keeps the ref, never its text: each row is
  * worded when it is painted (refText, both namespaces), so a language switch mid-search rewords the rows.
  */
-import { useEffect, useRef, useState } from 'react'
+import { useEffect, useLayoutEffect, useRef, useState } from 'react'
 import { Rich } from '@/i18n/Rich'
 import enApp from '@/i18n/en/app'
 import enEngine from '@/i18n/en/engine'
 import enResults, { type UtcWhen } from '@/i18n/en/results'
 import { refText } from '@/i18n/messageRef'
-import { msgs, useMsgs } from '@/i18n/runtime'
+import { msgs, useLocale, useMsgs } from '@/i18n/runtime'
 import { gibsWmsUrl, pcCropUrl } from '@/imagery'
 import { northInCropDeg } from '../../../api/_lib/toneRender'
 import type { Share } from '@/lib/backend'
@@ -135,6 +135,32 @@ export function ComputingBody({ t0, tz }: { t0: number; tz?: string }) {
     }
   }, [])
 
+  // A row's height never shrinks while the search runs: its words wrap to a second line where they must (rowText), and
+  // a row that flipped between one and two lines as its counter ticked ("· 9 / 403" → "· 288 / 403") or its line
+  // changed moved the bar and everything under it. Each row keeps the tallest it has been, for this search and
+  // language; a row that never wraps keeps its own height, to the fraction of a pixel.
+  const list = useRef<HTMLOListElement>(null)
+  const locale = useLocale()
+  const tallest = useRef({ key: '', h: [] as number[] })
+  useLayoutEffect(() => {
+    const rows = list.current?.children
+    if (!rows) return
+    const key = `${t0}|${locale}`
+    if (tallest.current.key !== key) {
+      tallest.current = { key, h: [] }
+      for (const row of rows) (row as HTMLElement).style.minHeight = ''
+    }
+    const h = tallest.current.h
+    for (let i = 0; i < rows.length; i++) {
+      const row = rows[i] as HTMLElement
+      const now = row.getBoundingClientRect().height
+      if (now > (h[i] ?? 0)) {
+        h[i] = now
+        row.style.minHeight = `${now}px`
+      }
+    }
+  })
+
   const { lines, current } = hist.current
   const progress = hist.current.last
   const elapsed = now - t0
@@ -149,7 +175,7 @@ export function ComputingBody({ t0, tz }: { t0: number; tz?: string }) {
       <p className="sr-only">{announce === 'start' ? m.computingPasses : announce === 'done' ? c.ready : idleLabel(announce)}</p>
       {shared ? <SharedPicture tz={tz} /> : null}
       <div aria-hidden className={s.readout} data-readout>
-        <ol className={s.lines}>
+        <ol ref={list} className={s.lines}>
           {STAGES.map((stage, i) => {
             const l = lines[stage]
             const state = i < curIdx ? 'done' : i === curIdx ? 'run' : 'idle'

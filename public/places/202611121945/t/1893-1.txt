@@ -1,0 +1,429 @@
+Boston|42.358|-71.060|US|Massachusetts|116
+Worcester|42.263|-71.802|US|Massachusetts|106
+Providence|41.824|-71.413|US|Rhode Island|106
+Cambridge|42.375|-71.106|US|Massachusetts|101
+New Bedford|41.635|-70.927|US|Massachusetts|100
+Dorchester|42.297|-71.075|US|Massachusetts|100
+Brockton|42.083|-71.018|US|Massachusetts|100
+Fall River|41.701|-71.155|US|Massachusetts|99
+Quincy|42.253|-71.002|US|Massachusetts|99
+Lynn|42.467|-70.949|US|Massachusetts|99
+Newton|42.337|-71.209|US|Massachusetts|99
+Warwick|41.700|-71.416|US|Rhode Island|98
+Cranston|41.780|-71.437|US|Rhode Island|98
+Somerville|42.388|-71.100|US|Massachusetts|98
+Pawtucket|41.879|-71.383|US|Rhode Island|97
+Framingham|42.279|-71.416|US|Massachusetts|97
+Waltham|42.376|-71.236|US|Massachusetts|96
+Malden|42.425|-71.066|US|Massachusetts|96
+Brookline|42.332|-71.121|US|Massachusetts|95
+Medford|42.418|-71.106|US|Massachusetts|95
+Taunton|41.900|-71.090|US|Massachusetts|95
+Weymouth|42.221|-70.940|US|Massachusetts|95
+Revere|42.408|-71.012|US|Massachusetts|95
+Barnstable|41.700|-70.299|US|Massachusetts|94
+East Providence|41.814|-71.370|US|Rhode Island|94
+Everett|42.408|-71.054|US|Massachusetts|93
+Brighton|42.350|-71.156|US|Massachusetts|93
+Attleboro|41.945|-71.286|US|Massachusetts|93
+East Boston|42.375|-71.039|US|Massachusetts|93
+Arlington|42.415|-71.156|US|Massachusetts|93
+Woonsocket|42.003|-71.515|US|Rhode Island|92
+Norwich|41.524|-72.076|US|Connecticut|92
+Marlborough|42.346|-71.552|US|Massachusetts|92
+Woburn|42.479|-71.152|US|Massachusetts|92
+Chelsea|42.392|-71.033|US|Massachusetts|92
+Braintree|42.204|-71.002|US|Massachusetts|91
+Mattapan|42.272|-71.087|US|Massachusetts|91
+Coventry|41.700|-71.683|US|Rhode Island|91
+Cumberland|41.967|-71.433|US|Rhode Island|91
+Shrewsbury|42.296|-71.713|US|Massachusetts|91
+North Providence|41.850|-71.466|US|Rhode Island|91
+Natick|42.283|-71.350|US|Massachusetts|90
+Randolph|42.163|-71.041|US|Massachusetts|90
+Watertown|42.371|-71.183|US|Massachusetts|90
+Hyde Park|42.256|-71.124|US|Massachusetts|90
+Lexington|42.447|-71.225|US|Massachusetts|90
+South Kingstown|41.447|-71.525|US|Rhode Island|90
+Franklin|42.083|-71.397|US|Massachusetts|90
+West Roxbury|42.279|-71.150|US|Massachusetts|90
+West Warwick|41.697|-71.522|US|Rhode Island|90
+Ashmont|42.283|-71.069|US|Massachusetts|90
+Johnston|41.822|-71.507|US|Rhode Island|89
+Needham|42.283|-71.233|US|Massachusetts|89
+Allston|42.358|-71.126|US|Massachusetts|89
+Norwood|42.195|-71.200|US|Massachusetts|89
+North Kingstown|41.550|-71.466|US|Rhode Island|89
+Melrose|42.458|-71.066|US|Massachusetts|89
+Wellesley|42.296|-71.293|US|Massachusetts|89
+Roslindale|42.291|-71.124|US|Massachusetts|89
+New London|41.356|-72.100|US|Connecticut|89
+Milton|42.250|-71.066|US|Massachusetts|89
+Stoughton|42.125|-71.102|US|Massachusetts|89
+Saugus|42.465|-71.010|US|Massachusetts|89
+Mansfield City|41.766|-72.234|US|Connecticut|88
+Yarmouth|41.706|-70.229|US|Massachusetts|88
+Milford|42.140|-71.516|US|Massachusetts|88
+Belmont|42.396|-71.179|US|Massachusetts|88
+Dedham|42.242|-71.166|US|Massachusetts|88
+Newport|41.490|-71.313|US|Rhode Island|88
+Chestnut Hill|42.331|-71.166|US|Massachusetts|87
+Easton|42.025|-71.129|US|Massachusetts|87
+Mansfield|42.033|-71.219|US|Massachusetts|87
+Middleborough|41.893|-70.911|US|Massachusetts|87
+Windham|41.700|-72.157|US|Connecticut|87
+Bristol|41.677|-71.266|US|Rhode Island|87
+Ludlow|42.160|-72.476|US|Massachusetts|87
+Smithfield|41.922|-71.550|US|Rhode Island|87
+Canton|42.158|-71.145|US|Massachusetts|87
+Lincoln|41.921|-71.435|US|Rhode Island|87
+Stoneham|42.480|-71.100|US|Massachusetts|87
+Winchester|42.452|-71.137|US|Massachusetts|87
+Acton|42.485|-71.433|US|Massachusetts|86
+Charlestown|42.378|-71.062|US|Massachusetts|86
+Montville Center|41.479|-72.151|US|Connecticut|86
+Norton|41.967|-71.187|US|Massachusetts|86
+Central Falls|41.891|-71.392|US|Rhode Island|86
+Waterford|41.342|-72.136|US|Connecticut|86
+Southbridge|42.075|-72.033|US|Massachusetts|86
+Mission Hill|42.334|-71.108|US|Massachusetts|85
+Palmer|42.158|-72.329|US|Massachusetts|85
+Somerset|41.770|-71.129|US|Massachusetts|85
+Rockland|42.131|-70.916|US|Massachusetts|85
+Westerly|41.378|-71.827|US|Rhode Island|85
+Portsmouth|41.602|-71.250|US|Rhode Island|85
+Willimantic|41.711|-72.208|US|Connecticut|85
+Winthrop|42.375|-70.983|US|Massachusetts|85
+Back Bay|42.350|-71.087|US|Massachusetts|85
+Sudbury|42.383|-71.416|US|Massachusetts|85
+Middletown|41.546|-71.291|US|Rhode Island|85
+Killingly Center|41.839|-71.869|US|Connecticut|85
+Holden|42.352|-71.863|US|Massachusetts|85
+Hanover|42.113|-70.812|US|Massachusetts|85
+Concord|42.460|-71.349|US|Massachusetts|85
+North Attleborough Center|41.973|-71.325|US|Massachusetts|85
+Auburn|42.195|-71.836|US|Massachusetts|84
+Barrington|41.741|-71.309|US|Rhode Island|84
+Grafton|42.207|-71.686|US|Massachusetts|84
+Swansea|41.748|-71.190|US|Massachusetts|84
+Fairhaven|41.638|-70.904|US|Massachusetts|84
+Abington|42.105|-70.945|US|Massachusetts|84
+Narragansett|41.450|-71.450|US|Rhode Island|84
+Ashland|42.261|-71.463|US|Massachusetts|84
+Orient Heights|42.388|-71.004|US|Massachusetts|84
+Plainfield|41.676|-71.915|US|Connecticut|84
+Storrs|41.808|-72.250|US|Connecticut|84
+Roxbury Crossing|42.331|-71.091|US|Massachusetts|84
+Ledyard|41.440|-72.014|US|Connecticut|84
+Duxbury|42.042|-70.672|US|Massachusetts|84
+Suffolk Downs Station|42.390|-70.998|US|Massachusetts|84
+Hudson|42.392|-71.566|US|Massachusetts|83
+Tolland|41.871|-72.369|US|Connecticut|83
+Mashpee|41.648|-70.481|US|Massachusetts|83
+Head of Westport|41.621|-71.062|US|Massachusetts|83
+Ellington|41.904|-72.470|US|Connecticut|83
+Whitman|42.081|-70.936|US|Massachusetts|83
+Hyannis|41.653|-70.283|US|Massachusetts|83
+Northbridge|42.151|-71.650|US|Massachusetts|83
+Westwood|42.214|-71.225|US|Massachusetts|83
+East Bridgewater|42.033|-70.959|US|Massachusetts|83
+Holliston|42.200|-71.424|US|Massachusetts|83
+Seekonk|41.808|-71.337|US|Massachusetts|83
+Swampscott|42.471|-70.918|US|Massachusetts|83
+East Greenwich|41.660|-71.456|US|Rhode Island|83
+Millbury|42.194|-71.760|US|Massachusetts|83
+Wayland|42.363|-71.361|US|Massachusetts|82
+Raynham|41.949|-71.073|US|Massachusetts|82
+East Cambridge|42.367|-71.080|US|Massachusetts|82
+Harwich|41.686|-70.076|US|Massachusetts|82
+Medway|42.142|-71.397|US|Massachusetts|82
+Charlton|42.136|-71.970|US|Massachusetts|82
+Uxbridge|42.077|-71.630|US|Massachusetts|82
+Winter Hill|42.396|-71.099|US|Massachusetts|82
+Bedford|42.491|-71.276|US|Massachusetts|82
+Kingston|41.995|-70.724|US|Massachusetts|82
+Stafford|41.985|-72.289|US|Connecticut|82
+Carver|41.883|-70.763|US|Massachusetts|81
+Weston|42.367|-71.303|US|Massachusetts|81
+Valley Falls|41.907|-71.391|US|Rhode Island|81
+Rehoboth|41.840|-71.249|US|Massachusetts|81
+Webster|42.050|-71.880|US|Massachusetts|81
+Warren|41.730|-71.283|US|Rhode Island|81
+Newtonville|42.350|-71.204|US|Massachusetts|81
+Wrentham|42.067|-71.328|US|Massachusetts|81
+North Smithfield|41.967|-71.550|US|Rhode Island|81
+North Scituate|41.832|-71.587|US|Rhode Island|81
+Dudley|42.045|-71.930|US|Massachusetts|81
+South Yarmouth|41.667|-70.185|US|Massachusetts|81
+Leicester|42.246|-71.909|US|Massachusetts|81
+Acushnet|41.681|-70.908|US|Massachusetts|81
+Holbrook|42.155|-71.009|US|Massachusetts|81
+Old Saybrook|41.292|-72.376|US|Connecticut|81
+Norwell|42.162|-70.794|US|Massachusetts|80
+Norfolk|42.120|-71.325|US|Massachusetts|80
+Hull|42.302|-70.908|US|Massachusetts|80
+Hanson|42.075|-70.880|US|Massachusetts|80
+Maynard|42.433|-71.450|US|Massachusetts|80
+Kendall Square|42.365|-71.086|US|Massachusetts|80
+Southborough|42.306|-71.525|US|Massachusetts|80
+Nonantum|42.363|-71.202|US|Massachusetts|80
+Thompson|41.959|-71.863|US|Connecticut|79
+West Newton|42.350|-71.233|US|Massachusetts|79
+Beacon Hill|42.359|-71.068|US|Massachusetts|79
+Hebron|41.658|-72.366|US|Connecticut|79
+Groton|41.350|-72.078|US|Connecticut|79
+Sutton|42.150|-71.763|US|Massachusetts|79
+Centerville|41.649|-70.348|US|Massachusetts|79
+Blackstone|42.018|-71.541|US|Massachusetts|79
+East Haddam|41.453|-72.461|US|Connecticut|79
+Clarendon Hills|42.275|-71.124|US|Massachusetts|79
+Conning Towers-Nautilus Park|41.385|-72.069|US|Connecticut|79
+Jeffries Point|42.365|-71.033|US|Massachusetts|79
+Greenville|41.871|-71.552|US|Rhode Island|79
+Monson|42.104|-72.319|US|Massachusetts|79
+Wakefield-Peacedale|41.446|-71.500|US|Rhode Island|79
+Freetown|41.767|-71.033|US|Massachusetts|79
+Hamilton Worcester|42.256|-71.768|US|Massachusetts|79
+Charlestown|41.383|-71.642|US|Rhode Island|79
+Hopkinton|41.461|-71.778|US|Rhode Island|78
+Lincoln|42.426|-71.304|US|Massachusetts|78
+East Somerville|42.387|-71.084|US|Massachusetts|78
+Millis|42.168|-71.358|US|Massachusetts|78
+West Cambridge/Harvard Square|42.372|-71.119|US|Massachusetts|78
+Marstons Mills|41.656|-70.416|US|Massachusetts|78
+Bridgewater|41.990|-70.975|US|Massachusetts|78
+Plainville|42.004|-71.333|US|Massachusetts|78
+Halifax|41.991|-70.862|US|Massachusetts|78
+West Boylston|42.367|-71.786|US|Massachusetts|78
+Tiverton|41.626|-71.213|US|Rhode Island|78
+Lancaster|42.456|-71.673|US|Massachusetts|78
+Plymouth|41.958|-70.667|US|Massachusetts|77
+Rockville|41.867|-72.450|US|Connecticut|77
+Bemis|42.369|-71.204|US|Massachusetts|77
+Nantucket|41.283|-70.099|US|Massachusetts|77
+Clinton|42.417|-71.683|US|Massachusetts|77
+Cohasset|42.242|-70.804|US|Massachusetts|77
+Sterling|42.438|-71.761|US|Massachusetts|77
+Putnam|41.915|-71.909|US|Connecticut|77
+Beaconsfield|42.337|-71.141|US|Massachusetts|77
+Douglas|42.054|-71.740|US|Massachusetts|77
+Ten Hills|42.397|-71.087|US|Massachusetts|77
+Oak Hill Park|42.295|-71.186|US|Massachusetts|77
+Kingston|41.480|-71.523|US|Rhode Island|77
+Auburndale|42.347|-71.249|US|Massachusetts|77
+Tufts University|42.407|-71.119|US|Massachusetts|77
+West Bridgewater|42.019|-71.008|US|Massachusetts|77
+Whitinsville|42.111|-71.666|US|Massachusetts|77
+Springs|41.016|-72.159|US|New York|76
+Lower Allston|42.365|-71.126|US|Massachusetts|76
+Cochituate|42.321|-71.364|US|Massachusetts|76
+Brook Farm|42.289|-71.163|US|Massachusetts|76
+West Fens|42.343|-71.098|US|Massachusetts|76
+North Brighton|42.358|-71.138|US|Massachusetts|76
+Medfield|42.188|-71.306|US|Massachusetts|76
+Exeter|41.578|-71.538|US|Rhode Island|76
+West Somerville/Davis Square|42.396|-71.123|US|Massachusetts|76
+Mattapoisett|41.658|-70.816|US|Massachusetts|76
+Dighton|41.814|-71.120|US|Massachusetts|76
+Fairmount|42.251|-71.115|US|Massachusetts|76
+Back of the Hill|42.329|-71.111|US|Massachusetts|76
+Ware|42.260|-72.240|US|Massachusetts|76
+Northborough|42.320|-71.641|US|Massachusetts|76
+West Greenwich|41.637|-71.660|US|Rhode Island|76
+Oxford|42.117|-71.865|US|Massachusetts|76
+East Falmouth|41.578|-70.559|US|Massachusetts|76
+West Concord|42.458|-71.395|US|Massachusetts|76
+West Yarmouth|41.650|-70.241|US|Massachusetts|76
+Stow|42.437|-71.506|US|Massachusetts|76
+Walpole|42.142|-71.249|US|Massachusetts|75
+Reservoir|42.335|-71.148|US|Massachusetts|75
+Berkley|41.846|-71.083|US|Massachusetts|75
+Jamestown|41.497|-71.367|US|Rhode Island|75
+Southold|41.065|-72.426|US|New York|75
+Spencer|42.244|-71.992|US|Massachusetts|75
+Sharon|42.124|-71.179|US|Massachusetts|75
+Hingham|42.242|-70.890|US|Massachusetts|75
+Foxborough|42.065|-71.248|US|Massachusetts|75
+Pawcatuck|41.377|-71.834|US|Connecticut|75
+VA Boston Healthcare System, Brockton Campus|42.366|-71.059|US|Massachusetts|75
+Mendon|42.106|-71.552|US|Massachusetts|75
+Savin Hill|42.313|-71.058|US|Massachusetts|75
+Bliss Corner|41.612|-70.938|US|Massachusetts|74
+Bellevue|42.288|-71.145|US|Massachusetts|74
+Hampden|42.064|-72.413|US|Massachusetts|74
+Grove Hall|42.311|-71.075|US|Massachusetts|74
+Scituate|42.196|-70.726|US|Massachusetts|74
+Marion|41.700|-70.763|US|Massachusetts|74
+Coolidge Corner|42.346|-71.124|US|Massachusetts|74
+North Scituate|42.219|-70.786|US|Massachusetts|74
+Readville|42.240|-71.137|US|Massachusetts|74
+Highland|42.285|-71.157|US|Massachusetts|74
+Preston City|41.529|-71.974|US|Connecticut|74
+Boxborough|42.491|-71.529|US|Massachusetts|74
+Ocean Bluff-Brant Rock|42.102|-70.657|US|Massachusetts|74
+East Harwich|41.700|-70.027|US|Massachusetts|74
+Bellingham|42.087|-71.475|US|Massachusetts|74
+Colchester|41.576|-72.332|US|Connecticut|74
+Smith Mills|41.639|-70.991|US|Massachusetts|74
+Rochester|41.732|-70.820|US|Massachusetts|73
+Foster|41.854|-71.758|US|Rhode Island|73
+Pascoag|41.956|-71.702|US|Rhode Island|73
+North Westport|41.660|-71.088|US|Massachusetts|73
+Uphams Corner|42.317|-71.061|US|Massachusetts|73
+Avon|42.131|-71.041|US|Massachusetts|73
+Paxton|42.311|-71.928|US|Massachusetts|73
+North Sea|40.933|-72.414|US|New York|73
+Marshfield|42.092|-70.706|US|Massachusetts|73
+Edgartown|41.389|-70.513|US|Massachusetts|73
+Sherborn|42.239|-71.370|US|Massachusetts|73
+Lisbon|41.604|-72.012|US|Connecticut|73
+Bolton|42.433|-71.608|US|Massachusetts|73
+Long Hill|41.354|-72.052|US|Connecticut|72
+Mystic|41.354|-71.966|US|Connecticut|72
+Salem|41.490|-72.275|US|Connecticut|72
+East Hampton North|40.973|-72.189|US|New York|72
+Forestdale|41.692|-70.499|US|Massachusetts|72
+Assonet|41.796|-71.068|US|Massachusetts|72
+Boylston|42.392|-71.704|US|Massachusetts|72
+Westborough|42.270|-71.616|US|Massachusetts|72
+Danielson|41.803|-71.886|US|Connecticut|72
+Hubbardston|42.474|-72.006|US|Massachusetts|72
+East Sandwich|41.742|-70.452|US|Massachusetts|72
+Northwest Harwich|41.690|-70.103|US|Massachusetts|72
+Wilbraham|42.124|-72.431|US|Massachusetts|72
+Buzzards Bay|41.745|-70.618|US|Massachusetts|72
+Sunderland|42.245|-71.772|US|Massachusetts|72
+Falmouth|41.551|-70.615|US|Massachusetts|72
+Oak Bluffs|41.456|-70.568|US|Massachusetts|72
+Hopedale|42.131|-71.541|US|Massachusetts|71
+South Dennis|41.690|-70.156|US|Massachusetts|71
+Sagamore|41.770|-70.528|US|Massachusetts|71
+Thompsonville|42.315|-71.184|US|Massachusetts|71
+North Plymouth|41.971|-70.683|US|Massachusetts|71
+Aberdeen|42.345|-71.150|US|Massachusetts|71
+Noyack|40.996|-72.341|US|New York|71
+Old Mystic|41.391|-71.962|US|Connecticut|71
+Jewett City|41.607|-71.981|US|Connecticut|71
+Princeton|42.449|-71.877|US|Massachusetts|71
+Nahant|42.426|-70.919|US|Massachusetts|71
+Brimfield|42.123|-72.201|US|Massachusetts|71
+South Duxbury|42.023|-70.683|US|Massachusetts|71
+Cutchogue|41.011|-72.485|US|New York|70
+Montauk|41.036|-71.955|US|New York|70
+Northwest Harbor|41.010|-72.221|US|New York|70
+North Pembroke|42.093|-70.793|US|Massachusetts|70
+Southampton|40.884|-72.390|US|New York|70
+Moosup|41.713|-71.881|US|Connecticut|70
+Oxoboxo River|41.444|-72.125|US|Connecticut|70
+Dennis Port|41.658|-70.129|US|Massachusetts|70
+Niantic|41.325|-72.193|US|Connecticut|70
+North Falmouth|41.646|-70.618|US|Massachusetts|70
+Upton|42.175|-71.602|US|Massachusetts|70
+Coventry Lake|41.772|-72.333|US|Connecticut|70
+Sandwich|41.759|-70.494|US|Massachusetts|69
+Osterville|41.628|-70.387|US|Massachusetts|69
+Belchertown|42.277|-72.401|US|Massachusetts|69
+Wareham Center|41.767|-70.726|US|Massachusetts|69
+Three Rivers|42.181|-72.361|US|Massachusetts|69
+Central Waterford|41.345|-72.129|US|Connecticut|69
+Pocasset|41.686|-70.616|US|Massachusetts|69
+Ocean Grove|41.729|-71.209|US|Massachusetts|69
+Wellfleet|41.938|-70.033|US|Massachusetts|69
+Monument Beach|41.720|-70.612|US|Massachusetts|69
+Millville|42.028|-71.581|US|Massachusetts|69
+East Dennis|41.743|-70.162|US|Massachusetts|69
+Plympton|41.953|-70.814|US|Massachusetts|69
+Hardwick|42.350|-72.200|US|Massachusetts|69
+Cordaville|42.269|-71.524|US|Massachusetts|68
+North Seekonk|41.889|-71.330|US|Massachusetts|68
+Provincetown|42.053|-70.186|US|Massachusetts|68
+North Lakeville|41.858|-70.942|US|Massachusetts|68
+Green Harbor-Cedar Crest|42.075|-70.658|US|Massachusetts|68
+Faneuil|42.356|-71.163|US|Massachusetts|68
+Fiskdale|42.116|-72.113|US|Massachusetts|68
+East Douglas|42.072|-71.713|US|Massachusetts|68
+Hopkinton|42.229|-71.523|US|Massachusetts|68
+West Tisbury|41.381|-70.674|US|Massachusetts|68
+Essex Village|41.355|-72.391|US|Connecticut|68
+Deep River Center|41.382|-72.439|US|Connecticut|68
+Berlin|42.381|-71.637|US|Massachusetts|68
+Westbrook Center|41.280|-72.443|US|Connecticut|68
+Cotuit|41.617|-70.437|US|Massachusetts|67
+Sag Harbor|40.998|-72.293|US|New York|67
+Dover|42.246|-71.283|US|Massachusetts|67
+North Brookfield|42.267|-72.083|US|Massachusetts|67
+Sturbridge|42.108|-72.079|US|Massachusetts|67
+West Dennis|41.665|-70.173|US|Massachusetts|67
+Greenport|41.103|-72.359|US|New York|67
+Shinnecock Hills|40.891|-72.464|US|New York|67
+Truro|41.993|-70.050|US|Massachusetts|67
+Vineyard Haven|41.454|-70.601|US|Massachusetts|67
+Rutland|42.370|-71.948|US|Massachusetts|66
+White Island Shores|41.800|-70.635|US|Massachusetts|66
+Weweantic|41.735|-70.732|US|Massachusetts|66
+West Wareham|41.790|-70.760|US|Massachusetts|66
+Brewster|41.760|-70.083|US|Massachusetts|66
+Crystal Lake|41.932|-72.378|US|Connecticut|66
+South Lancaster|42.445|-71.687|US|Massachusetts|66
+Shutesbury|42.456|-72.410|US|Massachusetts|65
+Bondsville|42.213|-72.345|US|Massachusetts|65
+Noank|41.328|-71.991|US|Connecticut|65
+Somers|41.985|-72.446|US|Connecticut|65
+Wales|42.070|-72.222|US|Massachusetts|65
+Bridgehampton|40.938|-72.301|US|New York|65
+West Falmouth|41.604|-70.634|US|Massachusetts|65
+Poquonock Bridge|41.345|-72.025|US|Connecticut|65
+Oakham|42.353|-72.045|US|Massachusetts|65
+Teaticket|41.565|-70.596|US|Massachusetts|65
+Chepachet|41.915|-71.671|US|Rhode Island|64
+East Brooklyn|41.797|-71.897|US|Connecticut|64
+Hope Valley|41.508|-71.716|US|Rhode Island|64
+Harrisville|41.966|-71.675|US|Rhode Island|64
+Onset|41.742|-70.658|US|Massachusetts|64
+Water Mill|40.920|-72.343|US|New York|64
+Chester Center|41.401|-72.453|US|Connecticut|64
+North Grosvenor Dale|41.986|-71.899|US|Connecticut|64
+West Barnstable|41.706|-70.374|US|Massachusetts|64
+Uncasville|41.435|-72.110|US|Connecticut|64
+Ashaway|41.423|-71.786|US|Rhode Island|63
+South Coventry|41.770|-72.305|US|Connecticut|63
+Holland|42.064|-72.157|US|Massachusetts|63
+Pelham|42.393|-72.404|US|Massachusetts|63
+South Windham|41.680|-72.170|US|Connecticut|63
+Bourne|41.741|-70.599|US|Massachusetts|63
+Moodus|41.503|-72.450|US|Connecticut|63
+West Brookfield|42.235|-72.141|US|Massachusetts|63
+Bradford|41.399|-71.737|US|Rhode Island|63
+Warren|42.213|-72.191|US|Massachusetts|63
+Tuckahoe|40.899|-72.411|US|New York|63
+Shelter Island|41.068|-72.339|US|New York|62
+East Brookfield|42.228|-72.047|US|Massachusetts|62
+Melville|41.587|-71.283|US|Rhode Island|62
+South Woodstock|41.939|-71.960|US|Connecticut|62
+Baltic|41.617|-72.085|US|Connecticut|62
+Wauregan|41.744|-71.909|US|Connecticut|62
+Amagansett|40.974|-72.144|US|New York|61
+Gales Ferry|41.430|-72.082|US|Connecticut|61
+Quinebaug|42.024|-71.950|US|Connecticut|61
+East Hampton|40.963|-72.185|US|New York|61
+Saybrook Manor|41.285|-72.399|US|Connecticut|60
+New Shoreham|41.172|-71.558|US|Rhode Island|60
+Terramuggus|41.635|-72.470|US|Connecticut|60
+Barre|42.423|-72.105|US|Massachusetts|60
+Harmony|41.888|-71.597|US|Rhode Island|60
+Brooklyn|41.788|-71.950|US|Connecticut|60
+Carolina|41.457|-71.663|US|Rhode Island|60
+The Pinehills|41.888|-70.600|US|Massachusetts|60
+Mansfield Center|41.765|-72.198|US|Connecticut|60
+New Braintree|42.317|-72.126|US|Massachusetts|59
+East Marion|41.128|-72.340|US|New York|59
+Stonington|41.336|-71.906|US|Connecticut|59
+Greene|41.691|-71.746|US|Rhode Island|59
+North Haven|41.013|-72.313|US|New York|59
+Chilmark|41.343|-70.745|US|Massachusetts|59
+Brookfield|42.214|-72.102|US|Massachusetts|58
+Union|41.991|-72.157|US|Connecticut|58
+Orient|41.139|-72.303|US|New York|57
+New Seabury|41.572|-70.475|US|Massachusetts|57
+Peconic|41.048|-72.463|US|New York|57
+Wainscott|40.937|-72.243|US|New York|56

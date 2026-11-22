@@ -1,0 +1,862 @@
+Montpellier|43.611|3.876|FR|Occitanie|108
+Nîmes|43.837|4.358|FR|Occitanie|103
+Perpignan|42.698|2.895|FR|Occitanie|101
+Avignon|43.948|4.809|FR|Provence-Alpes-Côte d'Azur|99
+Béziers|43.341|3.214|FR|Occitanie|97
+Valence|44.926|4.910|FR|Auvergne-Rhône-Alpes|96
+Arles|43.677|4.630|FR|Provence-Alpes-Côte d'Azur|95
+Narbonne|43.184|3.001|FR|Occitanie|94
+Istres|43.513|4.987|FR|Provence-Alpes-Côte d'Azur|93
+Alès|44.125|4.081|FR|Occitanie|93
+Sète|43.403|3.693|FR|Occitanie|92
+Montélimar|44.555|4.755|FR|Auvergne-Rhône-Alpes|91
+Orange|44.138|4.810|FR|Provence-Alpes-Côte d'Azur|90
+Rodez|44.353|2.573|FR|Occitanie|89
+Lunel|43.678|4.136|FR|Occitanie|88
+Millau|44.100|3.078|FR|Occitanie|87
+Agde|43.311|3.476|FR|Occitanie|87
+Frontignan|43.448|3.755|FR|Occitanie|87
+Bourg-lès-Valence|44.947|4.895|FR|Auvergne-Rhône-Alpes|86
+Bagnols-sur-Cèze|44.163|4.620|FR|Occitanie|86
+Sorgues|44.010|4.874|FR|Provence-Alpes-Côte d'Azur|85
+Mauguio|43.617|4.007|FR|Occitanie|85
+Castelnau-le-Lez|43.636|3.901|FR|Occitanie|85
+Lattes|43.568|3.903|FR|Occitanie|85
+Fos-sur-Mer|43.438|4.945|FR|Provence-Alpes-Côte d'Azur|85
+Le Pontet|43.961|4.860|FR|Provence-Alpes-Côte d'Azur|84
+Port-de-Bouc|43.407|4.981|FR|Provence-Alpes-Côte d'Azur|84
+Mende|44.522|3.500|FR|Occitanie|83
+Beaucaire|43.808|4.644|FR|Occitanie|83
+Tarascon|43.806|4.660|FR|Provence-Alpes-Côte d'Azur|83
+Bollène|44.281|4.749|FR|Provence-Alpes-Côte d'Azur|83
+Châteaurenard|43.882|4.855|FR|Provence-Alpes-Côte d'Azur|83
+Villeneuve-lès-Avignon|43.968|4.793|FR|Occitanie|83
+Saint-Gilles|43.677|4.430|FR|Occitanie|82
+Aubenas|44.620|4.390|FR|Auvergne-Rhône-Alpes|82
+Juvignac|43.614|3.811|FR|Occitanie|82
+Pierrelatte|44.375|4.703|FR|Auvergne-Rhône-Alpes|82
+Saint-Martin-de-Crau|43.640|4.813|FR|Provence-Alpes-Côte d'Azur|81
+Guilherand-Granges|44.933|4.874|FR|Auvergne-Rhône-Alpes|81
+Canet-en-Roussillon|42.700|3.017|FR|Occitanie|81
+Monteux|44.036|4.996|FR|Provence-Alpes-Côte d'Azur|81
+Vauvert|43.694|4.276|FR|Occitanie|81
+Saint-Rémy-de-Provence|43.788|4.832|FR|Provence-Alpes-Côte d'Azur|80
+Saint-Estève|42.713|2.842|FR|Occitanie|80
+Valréas|44.385|4.991|FR|Provence-Alpes-Côte d'Azur|80
+Argeles|42.547|3.023|FR|Occitanie|80
+Pont-Saint-Esprit|44.257|4.648|FR|Occitanie|80
+Privas|44.735|4.599|FR|Auvergne-Rhône-Alpes|80
+Vedène|43.977|4.904|FR|Provence-Alpes-Côte d'Azur|80
+Saint-Cyprien-Plage|42.632|3.033|FR|Occitanie|79
+Saint-Jean-de-Védas|43.578|3.826|FR|Occitanie|79
+Cabestany|42.681|2.941|FR|Occitanie|79
+Lézignan-Corbières|43.201|2.757|FR|Occitanie|79
+Marguerittes|43.860|4.445|FR|Occitanie|79
+Rivesaltes|42.769|2.874|FR|Occitanie|79
+Pérols|43.565|3.950|FR|Occitanie|79
+Portes-lès-Valence|44.876|4.874|FR|Auvergne-Rhône-Alpes|79
+Pézenas|43.460|3.423|FR|Occitanie|79
+Le Teil|44.545|4.682|FR|Auvergne-Rhône-Alpes|79
+Saint-Gély-du-Fesc|43.693|3.806|FR|Occitanie|79
+Mèze|43.427|3.605|FR|Occitanie|79
+Saint-Affrique|43.956|2.889|FR|Occitanie|79
+Port-Saint-Louis-du-Rhône|43.388|4.804|FR|Provence-Alpes-Côte d'Azur|79
+Livron-sur-Drôme|44.777|4.842|FR|Auvergne-Rhône-Alpes|79
+Villeneuve-lès-Maguelone|43.532|3.860|FR|Occitanie|78
+Les Angles|43.955|4.766|FR|Occitanie|78
+Bourg-Saint-Andéol|44.373|4.644|FR|Auvergne-Rhône-Alpes|78
+Saint-Laurent-de-la-Salanque|42.774|2.990|FR|Occitanie|78
+Saint-Paul-Trois-Châteaux|44.346|4.764|FR|Auvergne-Rhône-Alpes|78
+Thuir|42.632|2.756|FR|Occitanie|78
+Uzès|44.013|4.420|FR|Occitanie|78
+Le Crès|43.648|3.939|FR|Occitanie|78
+Bompas|42.731|2.933|FR|Occitanie|78
+Lodève|43.732|3.320|FR|Occitanie|78
+La Grande-Motte|43.561|4.085|FR|Occitanie|77
+Entraigues-sur-la-Sorgue|44.003|4.927|FR|Provence-Alpes-Côte d'Azur|77
+Le Thor|43.929|4.995|FR|Provence-Alpes-Côte d'Azur|77
+Elne|42.604|2.972|FR|Occitanie|77
+Morières-lès-Avignon|43.940|4.901|FR|Provence-Alpes-Côte d'Azur|77
+Marseillan|43.357|3.528|FR|Occitanie|77
+Sérignan|43.279|3.277|FR|Occitanie|77
+Saint-Péray|44.949|4.845|FR|Auvergne-Rhône-Alpes|77
+Bédarieux|43.616|3.159|FR|Occitanie|77
+Fabrègues|43.551|3.776|FR|Occitanie|76
+Baillargues|43.661|4.013|FR|Occitanie|76
+Aigues-Mortes|43.567|4.191|FR|Occitanie|76
+Balaruc-les-Bains|43.442|3.678|FR|Occitanie|76
+Le Soler|42.682|2.793|FR|Occitanie|76
+Le Grau-du-Roi|43.539|4.136|FR|Occitanie|76
+Pignan|43.584|3.759|FR|Occitanie|76
+Rochefort-du-Gard|43.975|4.690|FR|Occitanie|76
+Manduel|43.819|4.472|FR|Occitanie|76
+Saint-Christol-les-Alès|44.084|4.077|FR|Occitanie|76
+Grabels|43.648|3.801|FR|Occitanie|76
+Marvejols|44.554|3.290|FR|Occitanie|76
+Palavas-les-Flots|43.530|3.930|FR|Occitanie|76
+Port-La Nouvelle|43.018|3.050|FR|Occitanie|76
+Marsillargues|43.665|4.177|FR|Occitanie|76
+Vendargues|43.658|3.970|FR|Occitanie|75
+Toulouges|42.671|2.832|FR|Occitanie|75
+Sarrians|44.083|4.971|FR|Provence-Alpes-Côte d'Azur|75
+Loriol-sur-Drôme|44.747|4.817|FR|Auvergne-Rhône-Alpes|75
+Castries|43.680|3.982|FR|Occitanie|75
+Courthézon|44.088|4.884|FR|Provence-Alpes-Côte d'Azur|75
+Bouillargues|43.800|4.428|FR|Occitanie|75
+Cournonterral|43.559|3.720|FR|Occitanie|75
+Pia|42.745|2.920|FR|Occitanie|75
+Coursan|43.234|3.057|FR|Occitanie|75
+Laudun-l'Ardoise|44.105|4.657|FR|Occitanie|75
+Ille-sur-Têt|42.671|2.621|FR|Occitanie|75
+Bellegarde|43.754|4.514|FR|Occitanie|75
+Milhaud|43.790|4.307|FR|Occitanie|75
+Roquemaure|44.052|4.778|FR|Occitanie|74
+Luc-la-Primaube|44.314|2.536|FR|Occitanie|74
+Clapiers|43.658|3.889|FR|Occitanie|74
+Saint-Clément-de-Rivière|43.683|3.833|FR|Occitanie|74
+Jacou|43.661|3.912|FR|Occitanie|74
+La Voulte-sur-Rhône|44.800|4.779|FR|Auvergne-Rhône-Alpes|74
+Gignac|43.652|3.551|FR|Occitanie|74
+Bédarrides|44.040|4.898|FR|Provence-Alpes-Côte d'Azur|74
+Le Boulou|42.524|2.833|FR|Occitanie|74
+Vias|43.312|3.418|FR|Occitanie|74
+Prades-le-Lez|43.699|3.865|FR|Occitanie|74
+Canohès|42.652|2.834|FR|Occitanie|74
+Teyran|43.685|3.929|FR|Occitanie|74
+Donzère|44.442|4.711|FR|Auvergne-Rhône-Alpes|73
+Saint-Martin-de-Valgalgues|44.163|4.082|FR|Occitanie|73
+Espalion|44.522|2.763|FR|Occitanie|73
+Noves|43.877|4.902|FR|Provence-Alpes-Côte d'Azur|73
+Piolenc|44.178|4.762|FR|Provence-Alpes-Côte d'Azur|73
+Le Cap d'Agde|43.278|3.514|FR|Occitanie|73
+Poussan|43.489|3.671|FR|Occitanie|73
+Bessan|43.361|3.422|FR|Occitanie|73
+Saint-Privat-des-Vieux|44.144|4.129|FR|Occitanie|73
+Saint-Mathieu-de-Tréviers|43.769|3.858|FR|Occitanie|73
+Portvendres|42.518|3.106|FR|Occitanie|73
+Caumont-sur-Durance|43.894|4.947|FR|Provence-Alpes-Côte d'Azur|73
+Florensac|43.384|3.467|FR|Occitanie|73
+Saint-Marcel-lès-Valence|44.971|4.953|FR|Auvergne-Rhône-Alpes|73
+Sigean|43.028|2.978|FR|Occitanie|73
+Étoile-sur-Rhône|44.839|4.891|FR|Auvergne-Rhône-Alpes|73
+Cabannes|43.860|4.952|FR|Provence-Alpes-Côte d'Azur|73
+Saint-André-de-Sangonis|43.650|3.503|FR|Occitanie|73
+Saleilles|42.654|2.952|FR|Occitanie|73
+Aimargues|43.685|4.208|FR|Occitanie|73
+Jonquières|44.116|4.900|FR|Provence-Alpes-Côte d'Azur|72
+Saint-Chély-d'Apcher|44.803|3.276|FR|Occitanie|72
+Eyragues|43.841|4.842|FR|Provence-Alpes-Côte d'Azur|72
+Aramon|43.891|4.681|FR|Occitanie|72
+Saint-Saturnin-lès-Avignon|43.955|4.925|FR|Provence-Alpes-Côte d'Azur|72
+Valras-Plage|43.248|3.290|FR|Occitanie|72
+Sauvian|43.293|3.258|FR|Occitanie|72
+Garons|43.768|4.428|FR|Occitanie|72
+Sommières|43.785|4.090|FR|Occitanie|72
+Ganges|43.934|3.708|FR|Occitanie|72
+Saint-Hilaire-de-Brethmas|44.081|4.125|FR|Occitanie|72
+Beaumont-lès-Valence|44.862|4.943|FR|Auvergne-Rhône-Alpes|72
+Gigean|43.500|3.712|FR|Occitanie|72
+Villeneuve-de-la-Raho|42.637|2.917|FR|Occitanie|72
+Pollestres|42.638|2.867|FR|Occitanie|72
+Vergèze|43.744|4.220|FR|Occitanie|72
+Poulx|43.909|4.417|FR|Occitanie|72
+Sainte-Marie-Plage|42.725|3.038|FR|Occitanie|72
+Barbentane|43.899|4.748|FR|Provence-Alpes-Côte d'Azur|72
+Calvisson|43.787|4.196|FR|Occitanie|72
+Caissargues|43.796|4.378|FR|Occitanie|72
+Cazouls-lès-Béziers|43.392|3.101|FR|Occitanie|72
+Le Barcarès|42.788|3.037|FR|Occitanie|72
+Pujaut|44.005|4.775|FR|Occitanie|72
+Millas|42.692|2.695|FR|Occitanie|72
+Camaret-sur-Aigues|44.164|4.873|FR|Provence-Alpes-Côte d'Azur|72
+Servian|43.427|3.302|FR|Occitanie|72
+Vals-les-Bains|44.666|4.366|FR|Auvergne-Rhône-Alpes|72
+Le Cheylard|44.906|4.424|FR|Auvergne-Rhône-Alpes|72
+Rognonas|43.900|4.804|FR|Provence-Alpes-Côte d'Azur|71
+Saint-Hippolyte-du-Fort|43.966|3.856|FR|Occitanie|71
+Bages|42.606|2.893|FR|Occitanie|71
+Viviers|44.483|4.689|FR|Auvergne-Rhône-Alpes|71
+Villeneuve-lès-Béziers|43.315|3.280|FR|Occitanie|71
+Mondragon|44.238|4.713|FR|Provence-Alpes-Côte d'Azur|71
+Uchaud|43.757|4.269|FR|Occitanie|71
+Saint-Ambroix|44.261|4.198|FR|Occitanie|71
+Leucate|42.911|3.029|FR|Occitanie|71
+Caveirac|43.824|4.267|FR|Occitanie|71
+Lapalud|44.308|4.689|FR|Provence-Alpes-Côte d'Azur|71
+Langogne|44.727|3.855|FR|Occitanie|71
+Générac|43.728|4.348|FR|Occitanie|71
+Montferrier-sur-Lez|43.668|3.857|FR|Occitanie|71
+Beauvoisin|43.719|4.323|FR|Occitanie|71
+Mireval|43.509|3.802|FR|Occitanie|71
+Bessèges|44.292|4.100|FR|Occitanie|71
+Capestang|43.329|3.045|FR|Occitanie|71
+Clarensac|43.825|4.220|FR|Occitanie|71
+Montagnac|43.481|3.482|FR|Occitanie|71
+Salindres|44.172|4.158|FR|Occitanie|71
+Fontvieille|43.728|4.710|FR|Provence-Alpes-Côte d'Azur|70
+Graveson|43.851|4.774|FR|Provence-Alpes-Côte d'Azur|70
+Rousson|44.197|4.145|FR|Occitanie|70
+Nissan-lez-Enserune|43.288|3.128|FR|Occitanie|70
+Anduze|44.055|3.985|FR|Occitanie|70
+Gruissan|43.108|3.087|FR|Occitanie|70
+Lignan-sur-Orb|43.384|3.170|FR|Occitanie|70
+Paulhan|43.540|3.460|FR|Occitanie|70
+Olemps|44.346|2.551|FR|Occitanie|70
+Montfrin|43.876|4.593|FR|Occitanie|70
+Maraussan|43.367|3.158|FR|Occitanie|70
+Collioure|42.525|3.082|FR|Occitanie|70
+Saint-Aunès|43.641|3.966|FR|Occitanie|70
+Redessan|43.831|4.496|FR|Occitanie|70
+Malissard|44.900|4.954|FR|Auvergne-Rhône-Alpes|70
+Châteauneuf-de-Gadagne|43.927|4.945|FR|Provence-Alpes-Côte d'Azur|70
+Boujan-sur-Libron|43.371|3.247|FR|Occitanie|70
+Pézilla-la-Rivière|42.695|2.770|FR|Occitanie|70
+Saint-Quentin-la-Poterie|44.045|4.441|FR|Occitanie|70
+Sorède|42.531|2.957|FR|Occitanie|69
+Rodilhan|43.827|4.431|FR|Occitanie|69
+Jonquières-Saint-Vincent|43.828|4.563|FR|Occitanie|69
+Saint-Jean-du-Gard|44.105|3.886|FR|Occitanie|69
+Mouriès|43.690|4.871|FR|Provence-Alpes-Côte d'Azur|69
+Lespignan|43.274|3.172|FR|Occitanie|69
+Montady|43.335|3.127|FR|Occitanie|69
+Bernis|43.766|4.286|FR|Occitanie|69
+Coubon|44.997|3.918|FR|Auvergne-Rhône-Alpes|69
+Sébazac-Concourès|44.405|2.603|FR|Occitanie|69
+Claira|42.760|2.956|FR|Occitanie|69
+Le Pouzin|44.752|4.748|FR|Auvergne-Rhône-Alpes|69
+Montmeyran|44.834|4.972|FR|Auvergne-Rhône-Alpes|69
+Lacaune|43.709|2.692|FR|Occitanie|69
+Saint-Brès|43.667|4.029|FR|Occitanie|69
+Saint-Just|43.658|4.115|FR|Occitanie|69
+Murviel-lès-Béziers|43.433|3.133|FR|Occitanie|69
+Saint-Pons-de-Thomières|43.483|2.767|FR|Occitanie|69
+Fourques|43.694|4.609|FR|Occitanie|69
+Les Salles-du-Gardon|44.207|4.035|FR|Occitanie|69
+Lavérune|43.586|3.806|FR|Occitanie|69
+Vic-la-Gardiole|43.491|3.797|FR|Occitanie|69
+Sant Andreu de Sureda|42.552|2.971|FR|Occitanie|69
+Les Vans|44.405|4.132|FR|Auvergne-Rhône-Alpes|69
+Salses-le-Château|42.833|2.917|FR|Occitanie|69
+Baho|42.701|2.822|FR|Occitanie|69
+Saint-Andiol|43.835|4.945|FR|Provence-Alpes-Côte d'Azur|69
+Fleury|43.231|3.137|FR|Occitanie|69
+Chomérac|44.708|4.662|FR|Auvergne-Rhône-Alpes|69
+Villeneuve-de-Berg|44.557|4.502|FR|Auvergne-Rhône-Alpes|69
+Villelongue-de-la-Salanque|42.727|2.982|FR|Occitanie|69
+Saint-Julien-les-Rosiers|44.174|4.108|FR|Occitanie|69
+Lamastre|44.987|4.580|FR|Auvergne-Rhône-Alpes|69
+Puisserguier|43.368|3.041|FR|Occitanie|69
+Caderousse|44.103|4.757|FR|Provence-Alpes-Côte d'Azur|69
+Saint-Génis-des-Fontaines|42.543|2.921|FR|Occitanie|68
+Lansargues|43.652|4.072|FR|Occitanie|68
+Montarnaud|43.649|3.698|FR|Occitanie|68
+Saint-Nazaire|42.667|2.991|FR|Occitanie|68
+Portiragnes|43.305|3.335|FR|Occitanie|68
+Sévérac-le-Château|44.322|3.071|FR|Occitanie|68
+Saint-Étienne-de-Fontbellon|44.601|4.386|FR|Auvergne-Rhône-Alpes|68
+Alénya|42.640|2.981|FR|Occitanie|68
+Gallargues-le-Montueux|43.717|4.167|FR|Occitanie|68
+Cruas|44.657|4.763|FR|Auvergne-Rhône-Alpes|68
+Aigues-Vives|43.740|4.180|FR|Occitanie|68
+Le Cailar|43.676|4.236|FR|Occitanie|68
+Mudaison|43.646|4.039|FR|Occitanie|68
+Villeveyrac|43.501|3.606|FR|Occitanie|68
+Montbazin|43.517|3.697|FR|Occitanie|68
+Saint-Thibéry|43.396|3.418|FR|Occitanie|68
+Quissac|43.911|4.001|FR|Occitanie|68
+Lamalou-les-Bains|43.598|3.080|FR|Occitanie|68
+Saint-Féliu-d'Avall|42.682|2.738|FR|Occitanie|68
+Thézan-lès-Béziers|43.422|3.169|FR|Occitanie|68
+Bozouls|44.472|2.725|FR|Occitanie|68
+Baixas|42.750|2.809|FR|Occitanie|68
+Montblanc|43.396|3.367|FR|Occitanie|68
+Saint-Marcel-d'Ardèche|44.327|4.618|FR|Auvergne-Rhône-Alpes|68
+Sérignan-du-Comtat|44.189|4.844|FR|Provence-Alpes-Côte d'Azur|68
+Charmes-sur-Rhône|44.864|4.835|FR|Auvergne-Rhône-Alpes|68
+Mornas|44.202|4.728|FR|Provence-Alpes-Côte d'Azur|67
+Aniane|43.686|3.586|FR|Occitanie|67
+Colombiers|43.313|3.140|FR|Occitanie|67
+Saintes-Maries-de-la-Mer|43.452|4.429|FR|Provence-Alpes-Côte d'Azur|67
+Vallon-Pont-d'Arc|44.407|4.394|FR|Auvergne-Rhône-Alpes|67
+Sussargues|43.712|4.003|FR|Occitanie|67
+Palau-del-Vidre|42.572|2.961|FR|Occitanie|67
+Mollégès|43.807|4.949|FR|Provence-Alpes-Côte d'Azur|67
+Sainte-Cécile-les-Vignes|44.245|4.886|FR|Provence-Alpes-Côte d'Azur|67
+Châteauneuf-du-Rhône|44.489|4.717|FR|Auvergne-Rhône-Alpes|67
+Torreilles|42.755|2.994|FR|Occitanie|67
+Saugues|44.960|3.547|FR|Auvergne-Rhône-Alpes|67
+Allex|44.768|4.898|FR|Auvergne-Rhône-Alpes|67
+Ruoms|44.453|4.342|FR|Auvergne-Rhône-Alpes|67
+Saint-Étienne-du-Grès|43.780|4.725|FR|Provence-Alpes-Côte d'Azur|67
+Cornas|44.964|4.848|FR|Auvergne-Rhône-Alpes|67
+Rieux-Minervois|43.282|2.587|FR|Occitanie|67
+Châteauneuf-du-Pape|44.056|4.832|FR|Provence-Alpes-Côte d'Azur|67
+Caux|43.508|3.368|FR|Occitanie|67
+Cournonsec|43.549|3.706|FR|Occitanie|67
+Bagard|44.073|4.051|FR|Occitanie|67
+Maussane-les-Alpilles|43.722|4.805|FR|Provence-Alpes-Côte d'Azur|67
+Boisset|44.048|4.009|FR|Occitanie|67
+Aubais|43.755|4.147|FR|Occitanie|67
+Remoulins|43.940|4.566|FR|Occitanie|67
+Cendras|44.150|4.067|FR|Occitanie|67
+Boisseron|43.758|4.080|FR|Occitanie|67
+Vinassan|43.204|3.075|FR|Occitanie|67
+Meynes|43.883|4.561|FR|Occitanie|67
+Vailhauquès|43.672|3.718|FR|Occitanie|67
+Estagel|42.773|2.698|FR|Occitanie|67
+La Canourgue|44.433|3.214|FR|Occitanie|67
+Largentière|44.543|4.293|FR|Auvergne-Rhône-Alpes|67
+Althen-des-Paluds|44.004|4.959|FR|Provence-Alpes-Côte d'Azur|67
+Saint-Martin-de-Londres|43.791|3.731|FR|Occitanie|67
+Bezouce|43.882|4.490|FR|Occitanie|67
+Réquista|44.033|2.535|FR|Occitanie|66
+Codognan|43.732|4.220|FR|Occitanie|66
+Aubord|43.757|4.313|FR|Occitanie|66
+Laroque-des-Albères|42.521|2.934|FR|Occitanie|66
+Saint-Geniez-d'Olt|44.466|2.974|FR|Occitanie|66
+Magalas|43.472|3.222|FR|Occitanie|66
+Saint-Paul-de-Fenouillet|42.811|2.504|FR|Occitanie|66
+Maillane|43.833|4.782|FR|Provence-Alpes-Côte d'Azur|66
+Ouveillan|43.289|2.970|FR|Occitanie|66
+Cers|43.323|3.305|FR|Occitanie|66
+Saint-Hippolyte|42.785|2.967|FR|Occitanie|66
+Flavin|44.289|2.605|FR|Occitanie|66
+Balaruc-le-Vieux|43.461|3.685|FR|Occitanie|66
+Langlade|43.805|4.250|FR|Occitanie|66
+Saint-Chinian|43.422|2.947|FR|Occitanie|66
+Saint-Geniès-de-Malgoirès|43.946|4.216|FR|Occitanie|66
+Ponteilla|42.627|2.814|FR|Occitanie|66
+Rochemaure|44.587|4.704|FR|Auvergne-Rhône-Alpes|66
+Saint-Drézéry|43.732|3.978|FR|Occitanie|66
+Latour-Bas-Elne|42.607|3.002|FR|Occitanie|66
+Cessenon-sur-Orb|43.450|3.052|FR|Occitanie|66
+St. Jean-Pla-de-Corts|42.511|2.791|FR|Occitanie|66
+Valergues|43.668|4.061|FR|Occitanie|66
+Tresques|44.107|4.587|FR|Occitanie|66
+Vic-sur-Cère|44.980|2.625|FR|Auvergne-Rhône-Alpes|66
+Salles-la-Source|44.436|2.515|FR|Occitanie|66
+Florac|44.326|3.593|FR|Occitanie|66
+Eygalières|43.761|4.950|FR|Provence-Alpes-Côte d'Azur|66
+Pomérols|43.391|3.499|FR|Occitanie|66
+Saint-Laurent-des-Arbres|44.055|4.700|FR|Occitanie|66
+Le Monastère|44.342|2.580|FR|Occitanie|66
+Llupia|42.621|2.769|FR|Occitanie|66
+Vernoux-en-Vivarais|44.896|4.645|FR|Auvergne-Rhône-Alpes|65
+Saint-Nazaire-d'Aude|43.245|2.894|FR|Occitanie|65
+Sabran|44.151|4.548|FR|Occitanie|65
+Sauve|43.942|3.949|FR|Occitanie|65
+Sauveterre|44.023|4.793|FR|Occitanie|65
+Le Monastier-sur-Gazeille|44.933|4.000|FR|Auvergne-Rhône-Alpes|65
+Saint-Geniès-de-Comolas|44.065|4.722|FR|Occitanie|65
+Labastide-Rouairoux|43.476|2.639|FR|Occitanie|65
+Saint-Georges-les-Bains|44.861|4.809|FR|Auvergne-Rhône-Alpes|65
+Grillon|44.395|4.930|FR|Provence-Alpes-Côte d'Azur|65
+Soyons|44.889|4.850|FR|Auvergne-Rhône-Alpes|65
+Tulette|44.287|4.931|FR|Auvergne-Rhône-Alpes|65
+Vinça|42.645|2.528|FR|Occitanie|65
+Sauzet|44.604|4.821|FR|Auvergne-Rhône-Alpes|65
+Beauvallon|44.856|4.908|FR|Auvergne-Rhône-Alpes|65
+La Calmette|43.924|4.263|FR|Occitanie|65
+Canet|43.228|2.847|FR|Occitanie|65
+Calmont|44.249|2.512|FR|Occitanie|65
+Connaux|44.091|4.594|FR|Occitanie|65
+Druelle|44.360|2.505|FR|Occitanie|65
+Corneilhan|43.400|3.192|FR|Occitanie|65
+Saint-Paulet-de-Caisson|44.263|4.597|FR|Occitanie|65
+Vendres|43.270|3.224|FR|Occitanie|65
+Les Mages|44.229|4.166|FR|Occitanie|65
+Visan|44.315|4.950|FR|Provence-Alpes-Côte d'Azur|65
+Saulce-sur-Rhône|44.704|4.801|FR|Auvergne-Rhône-Alpes|65
+Montéléger|44.853|4.936|FR|Auvergne-Rhône-Alpes|65
+Saint-Geniès-des-Mourgues|43.698|4.036|FR|Occitanie|65
+Vers-Pont-du-Gard|43.967|4.533|FR|Occitanie|65
+Grane|44.733|4.922|FR|Auvergne-Rhône-Alpes|65
+Taulignan|44.444|4.971|FR|Auvergne-Rhône-Alpes|65
+Roujan|43.505|3.311|FR|Occitanie|65
+Suze-la-Rousse|44.288|4.842|FR|Auvergne-Rhône-Alpes|64
+Tavel|44.012|4.700|FR|Occitanie|64
+Loupian|43.450|3.613|FR|Occitanie|64
+Saint-Victor-la-Coste|44.062|4.642|FR|Occitanie|64
+Bassan|43.411|3.253|FR|Occitanie|64
+Violès|44.162|4.955|FR|Provence-Alpes-Côte d'Azur|64
+Tourbes|43.446|3.378|FR|Occitanie|64
+Corneilla-del-Vercol|42.625|2.952|FR|Occitanie|64
+Olonzac|43.284|2.730|FR|Occitanie|64
+Saussan|43.572|3.775|FR|Occitanie|64
+Sumène|43.981|3.716|FR|Occitanie|64
+Vézénobres|44.053|4.136|FR|Occitanie|64
+Comps|43.853|4.606|FR|Occitanie|64
+Beauchastel|44.826|4.803|FR|Auvergne-Rhône-Alpes|64
+Les Matelles|43.730|3.809|FR|Occitanie|64
+Maureilhan|43.358|3.120|FR|Occitanie|64
+Lablachère|44.464|4.214|FR|Auvergne-Rhône-Alpes|64
+Le Bousquet-d'Orb|43.693|3.166|FR|Occitanie|64
+Caunes-Minervois|43.328|2.527|FR|Occitanie|64
+Saze|43.941|4.682|FR|Occitanie|64
+Montescot|42.608|2.932|FR|Occitanie|64
+Veyras|44.735|4.563|FR|Auvergne-Rhône-Alpes|64
+Boulbon|43.862|4.694|FR|Provence-Alpes-Côte d'Azur|64
+Coux|44.735|4.621|FR|Auvergne-Rhône-Alpes|64
+Toulaud|44.898|4.816|FR|Auvergne-Rhône-Alpes|64
+Saint-Gervasy|43.878|4.468|FR|Occitanie|64
+Uchaux|44.217|4.800|FR|Provence-Alpes-Côte d'Azur|64
+Beaulieu|43.729|4.022|FR|Occitanie|64
+Montoison|44.796|4.941|FR|Auvergne-Rhône-Alpes|64
+Creissels|44.086|3.062|FR|Occitanie|64
+Peyrestortes|42.754|2.851|FR|Occitanie|64
+Joyeuse|44.480|4.238|FR|Auvergne-Rhône-Alpes|64
+Restinclières|43.723|4.037|FR|Occitanie|64
+Molières-sur-Cèze|44.260|4.159|FR|Occitanie|64
+Trouillas|42.611|2.808|FR|Occitanie|64
+Hérépian|43.594|3.114|FR|Occitanie|64
+Laissac|44.381|2.823|FR|Occitanie|64
+Corneilla-la-Rivière|42.697|2.730|FR|Occitanie|64
+Saint-Alban-sur-Limagnole|44.781|3.388|FR|Occitanie|64
+Montboucher-sur-Jabron|44.550|4.802|FR|Auvergne-Rhône-Alpes|64
+Saint-Pargoire|43.528|3.520|FR|Occitanie|64
+Capendu|43.187|2.556|FR|Occitanie|64
+Lavilledieu|44.575|4.453|FR|Auvergne-Rhône-Alpes|64
+Le Pouget|43.592|3.525|FR|Occitanie|64
+Allan|44.497|4.791|FR|Auvergne-Rhône-Alpes|64
+Malataverne|44.485|4.753|FR|Auvergne-Rhône-Alpes|64
+Pont-de-Salars|44.281|2.727|FR|Occitanie|64
+Saint-Privat|44.629|4.415|FR|Auvergne-Rhône-Alpes|64
+Barjac|44.308|4.348|FR|Occitanie|64
+Mons|44.116|4.172|FR|Occitanie|63
+Quarante|43.347|2.963|FR|Occitanie|63
+Assas|43.703|3.900|FR|Occitanie|63
+Cussac-sur-Loire|44.988|3.884|FR|Auvergne-Rhône-Alpes|63
+Combaillaux|43.677|3.766|FR|Occitanie|63
+Grignan|44.420|4.908|FR|Auvergne-Rhône-Alpes|63
+Aureille|43.708|4.947|FR|Provence-Alpes-Côte d'Azur|63
+Sainte-Radegonde|44.338|2.627|FR|Occitanie|63
+Vestric-et-Candiac|43.741|4.259|FR|Occitanie|63
+Entraygues-sur-Truyère|44.646|2.567|FR|Occitanie|63
+Nages-et-Solorgues|43.791|4.230|FR|Occitanie|63
+Labégude|44.645|4.369|FR|Auvergne-Rhône-Alpes|63
+Branoux-les-Taillades|44.221|3.990|FR|Occitanie|63
+Théza|42.639|2.951|FR|Occitanie|63
+Saint-Martin-de-Valamas|44.937|4.369|FR|Auvergne-Rhône-Alpes|63
+Saint-Laurent-du-Pape|44.823|4.767|FR|Auvergne-Rhône-Alpes|63
+Saint-Christol|43.728|4.080|FR|Occitanie|63
+Saint-Marcel-sur-Aude|43.250|2.933|FR|Occitanie|63
+Ribaute-les-Tavernes|44.037|4.080|FR|Occitanie|63
+Saint-Georges-de-Luzençon|44.065|2.985|FR|Occitanie|63
+Montaren-et-Saint-Médiers|44.029|4.380|FR|Occitanie|63
+Bouzigues|43.448|3.658|FR|Occitanie|63
+Murviel-lès-Montpellier|43.605|3.737|FR|Occitanie|63
+Saint-Geniès-de-Fontedit|43.469|3.179|FR|Occitanie|63
+Lachapelle-sous-Aubenas|44.564|4.364|FR|Auvergne-Rhône-Alpes|63
+Vesseaux|44.652|4.440|FR|Auvergne-Rhône-Alpes|63
+Saint-Restitut|44.324|4.793|FR|Auvergne-Rhône-Alpes|62
+Saint-Sauveur-de-Montagut|44.821|4.580|FR|Auvergne-Rhône-Alpes|62
+Sernhac|43.911|4.552|FR|Occitanie|62
+Jonquerettes|43.947|4.933|FR|Provence-Alpes-Côte d'Azur|62
+Claret|43.862|3.905|FR|Occitanie|62
+Rochegude|44.244|4.827|FR|Auvergne-Rhône-Alpes|62
+Argeliers|43.312|2.910|FR|Occitanie|62
+Laguiole|44.684|2.847|FR|Occitanie|62
+La Bégude-de-Mazenc|44.543|4.934|FR|Auvergne-Rhône-Alpes|62
+Aspiran|43.566|3.450|FR|Occitanie|62
+Armissan|43.188|3.097|FR|Occitanie|62
+Vallabrègues|43.853|4.627|FR|Occitanie|62
+Villevieille|43.788|4.098|FR|Occitanie|62
+Montfaucon|44.074|4.754|FR|Occitanie|62
+Saint-Jean-de-Fos|43.701|3.551|FR|Occitanie|62
+Alignan-du-Vent|43.470|3.341|FR|Occitanie|62
+Saint-Bauzille-de-Putois|43.896|3.736|FR|Occitanie|62
+Saint-Chaptes|43.972|4.278|FR|Occitanie|62
+Valros|43.420|3.366|FR|Occitanie|62
+Candillargues|43.620|4.068|FR|Occitanie|62
+La Salvetat-sur-Agout|43.600|2.703|FR|Occitanie|62
+Laroque|43.922|3.724|FR|Occitanie|62
+Vilallonga dels Monts|42.526|2.904|FR|Occitanie|62
+Cazilhac|43.924|3.701|FR|Occitanie|62
+Moussan|43.232|2.949|FR|Occitanie|62
+Upie|44.803|4.977|FR|Auvergne-Rhône-Alpes|62
+Saint-Just-d'Ardèche|44.304|4.611|FR|Auvergne-Rhône-Alpes|62
+La Loubière|44.371|2.667|FR|Occitanie|62
+Paradou|43.717|4.786|FR|Provence-Alpes-Côte d'Azur|62
+Lédenon|43.916|4.510|FR|Occitanie|62
+Saint-Florent-sur-Auzonnet|44.242|4.112|FR|Occitanie|62
+Saint-Sernin|44.571|4.392|FR|Auvergne-Rhône-Alpes|62
+Montpeyroux|43.696|3.505|FR|Occitanie|62
+Saint-Nazaire|44.198|4.624|FR|Occitanie|62
+Cabrières|43.904|4.472|FR|Occitanie|62
+Chanac|44.466|3.343|FR|Occitanie|62
+Fabrezan|43.136|2.697|FR|Occitanie|62
+Saint-Julien-de-Peyrolas|44.288|4.565|FR|Occitanie|62
+Abeilhan|43.450|3.295|FR|Occitanie|62
+Alba-la-Romaine|44.555|4.598|FR|Auvergne-Rhône-Alpes|62
+La Tour-sur-Orb|43.653|3.149|FR|Occitanie|62
+Ortaffa|42.580|2.925|FR|Occitanie|62
+Saint-Mamert-du-Gard|43.888|4.189|FR|Occitanie|62
+Saint-Marcel-lès-Sauzet|44.598|4.805|FR|Auvergne-Rhône-Alpes|61
+Polminhac|44.952|2.578|FR|Auvergne-Rhône-Alpes|61
+Savasse|44.604|4.777|FR|Auvergne-Rhône-Alpes|61
+Saint-Priest|44.716|4.546|FR|Auvergne-Rhône-Alpes|61
+Laure-Minervois|43.271|2.520|FR|Occitanie|61
+La Garde-Adhémar|44.397|4.758|FR|Auvergne-Rhône-Alpes|61
+Congénies|43.778|4.160|FR|Occitanie|61
+Nébian|43.606|3.431|FR|Occitanie|61
+Névian|43.212|2.902|FR|Occitanie|61
+Bizanet|43.165|2.870|FR|Occitanie|61
+Salles-Curan|44.183|2.787|FR|Occitanie|61
+Lalevade-d'Ardèche|44.648|4.323|FR|Auvergne-Rhône-Alpes|61
+Villeneuve-la-Rivière|42.694|2.801|FR|Occitanie|61
+Meysse|44.610|4.723|FR|Auvergne-Rhône-Alpes|61
+Mus|43.740|4.201|FR|Occitanie|61
+Flaviac|44.748|4.674|FR|Auvergne-Rhône-Alpes|61
+Marcorignan|43.226|2.922|FR|Occitanie|61
+Ornaisons|43.181|2.837|FR|Occitanie|61
+Vénéjan|44.197|4.657|FR|Occitanie|61
+Orsan|44.132|4.666|FR|Occitanie|61
+Désaignes|44.995|4.517|FR|Auvergne-Rhône-Alpes|61
+Lézignan-la-Cèbe|43.494|3.437|FR|Occitanie|61
+Vacqueyras|44.138|4.983|FR|Provence-Alpes-Côte d'Azur|61
+Ginestas|43.268|2.872|FR|Occitanie|61
+Jaujac|44.637|4.256|FR|Auvergne-Rhône-Alpes|61
+Portel-des-Corbières|43.050|2.917|FR|Occitanie|61
+Avèze|43.972|3.600|FR|Occitanie|61
+Lasalle|44.046|3.852|FR|Occitanie|61
+Pinet|43.406|3.510|FR|Occitanie|61
+Moussac|43.982|4.229|FR|Occitanie|61
+Solignac-sur-Loire|44.968|3.886|FR|Auvergne-Rhône-Alpes|61
+Aumont-Aubrac|44.722|3.284|FR|Occitanie|61
+Puichéric|43.224|2.624|FR|Occitanie|61
+Creissan|43.375|3.011|FR|Occitanie|61
+Alissas|44.713|4.629|FR|Auvergne-Rhône-Alpes|61
+Banyuls-dels-Aspres|42.566|2.866|FR|Occitanie|61
+Chirac|44.523|3.267|FR|Occitanie|61
+Montesquiu d'Albera|42.518|2.882|FR|Occitanie|61
+Valleraugue|44.081|3.642|FR|Occitanie|61
+Lédignan|43.989|4.107|FR|Occitanie|61
+Eurre|44.758|4.988|FR|Auvergne-Rhône-Alpes|61
+Azille|43.278|2.659|FR|Occitanie|61
+Meyrueis|44.179|3.429|FR|Occitanie|61
+Castillon-du-Gard|43.970|4.554|FR|Occitanie|61
+Saint-Julien-en-Saint-Alban|44.754|4.697|FR|Auvergne-Rhône-Alpes|61
+Laval-Pradel|44.207|4.066|FR|Occitanie|61
+Lézan|44.013|4.051|FR|Occitanie|61
+Pépieux|43.298|2.678|FR|Occitanie|61
+Ferrals-les-Corbières|43.148|2.728|FR|Occitanie|61
+Peyriac-Minervois|43.291|2.566|FR|Occitanie|61
+Montrodat|44.551|3.329|FR|Occitanie|61
+Saint-Alexandre|44.228|4.622|FR|Occitanie|61
+Marsanne|44.642|4.875|FR|Auvergne-Rhône-Alpes|61
+Camarès|43.822|2.880|FR|Occitanie|60
+Thueyts|44.676|4.221|FR|Auvergne-Rhône-Alpes|60
+Bize-Minervois|43.318|2.871|FR|Occitanie|60
+Lieuran-lès-Béziers|43.419|3.237|FR|Occitanie|60
+Montségur-sur-Lauzon|44.361|4.855|FR|Auvergne-Rhône-Alpes|60
+La Cavalerie|44.010|3.158|FR|Occitanie|60
+Laurens|43.523|3.197|FR|Occitanie|60
+Rosières|44.483|4.258|FR|Auvergne-Rhône-Alpes|60
+Ancône|44.581|4.727|FR|Auvergne-Rhône-Alpes|60
+Laussonne|44.970|4.052|FR|Auvergne-Rhône-Alpes|60
+Belmont-sur-Rance|43.818|2.754|FR|Occitanie|60
+Neuvéglise|44.928|2.983|FR|Auvergne-Rhône-Alpes|60
+Puissalicon|43.458|3.236|FR|Occitanie|60
+Villetelle|43.732|4.137|FR|Occitanie|60
+Cassagnes-Bégonhès|44.169|2.530|FR|Occitanie|60
+Peyriac-de-Mer|43.087|2.957|FR|Occitanie|60
+Blauzac|43.963|4.367|FR|Occitanie|60
+Goudargues|44.215|4.466|FR|Occitanie|60
+Le Malzieu-Ville|44.856|3.330|FR|Occitanie|60
+Sainte-Geneviève-sur-Argence|44.803|2.758|FR|Occitanie|60
+Pierrefort|44.922|2.838|FR|Auvergne-Rhône-Alpes|60
+Castelnau-de-Guers|43.435|3.438|FR|Occitanie|60
+Chaudes-Aigues|44.855|3.004|FR|Auvergne-Rhône-Alpes|60
+Villemolaque|42.589|2.838|FR|Occitanie|60
+Le Poujol-sur-Orb|43.580|3.060|FR|Occitanie|60
+Montpezat|43.852|4.157|FR|Occitanie|60
+Chassiers|44.551|4.297|FR|Auvergne-Rhône-Alpes|60
+Gagnières|44.307|4.129|FR|Occitanie|60
+Chusclan|44.149|4.683|FR|Occitanie|60
+Rivière-sur-Tarn|44.188|3.130|FR|Occitanie|60
+Méjannes-lès-Alès|44.101|4.154|FR|Occitanie|60
+Saint-André-de-Roquelongue|43.114|2.837|FR|Occitanie|60
+Arsac-en-Velay|44.991|3.943|FR|Auvergne-Rhône-Alpes|60
+Bertholène|44.394|2.778|FR|Occitanie|60
+Latour-de-France|42.769|2.653|FR|Occitanie|60
+Montredon-des-Corbières|43.183|2.933|FR|Occitanie|60
+Théziers|43.900|4.621|FR|Occitanie|60
+Viols-le-Fort|43.743|3.704|FR|Occitanie|60
+Saint-Christophe-sur-Dolaizon|44.996|3.820|FR|Auvergne-Rhône-Alpes|60
+Fourques|42.582|2.779|FR|Occitanie|60
+Landos|44.843|3.832|FR|Auvergne-Rhône-Alpes|60
+Molières-Cavaillac|43.975|3.576|FR|Occitanie|60
+Maury|42.812|2.593|FR|Occitanie|59
+Cruzy|43.355|2.941|FR|Occitanie|59
+Arvieu|44.191|2.662|FR|Occitanie|59
+Prades|44.638|4.314|FR|Auvergne-Rhône-Alpes|59
+Tautavel|42.814|2.746|FR|Occitanie|59
+Rodelle|44.491|2.627|FR|Occitanie|59
+Génolhac|44.350|3.950|FR|Occitanie|59
+Corbère-les-Cabanes|42.658|2.675|FR|Occitanie|59
+Collias|43.954|4.477|FR|Occitanie|59
+Badaroux|44.537|3.549|FR|Occitanie|59
+Cairanne|44.233|4.933|FR|Provence-Alpes-Côte d'Azur|59
+Rompon|44.775|4.733|FR|Auvergne-Rhône-Alpes|59
+Gaujac|44.079|4.579|FR|Occitanie|59
+Montsalvy|44.707|2.501|FR|Auvergne-Rhône-Alpes|59
+Sagriès|43.980|4.420|FR|Occitanie|59
+Cléon-d'Andran|44.611|4.935|FR|Auvergne-Rhône-Alpes|59
+Roquefort-des-Corbières|42.992|2.952|FR|Occitanie|59
+Pouzolles|43.484|3.280|FR|Occitanie|59
+Vendémian|43.582|3.561|FR|Occitanie|59
+Puimisson|43.440|3.207|FR|Occitanie|59
+Fontès|43.540|3.379|FR|Occitanie|59
+Saint-Gervais-sur-Mare|43.654|3.042|FR|Occitanie|59
+Nant|44.022|3.301|FR|Occitanie|59
+Plaissan|43.558|3.526|FR|Occitanie|59
+Aguessac|44.157|3.098|FR|Occitanie|59
+Saussines|43.762|4.056|FR|Occitanie|59
+Saint-Siffret|44.017|4.466|FR|Occitanie|59
+Robiac-Rochessadoule|44.267|4.133|FR|Occitanie|59
+Banassac|44.436|3.200|FR|Occitanie|59
+La Bâtie-Rolland|44.554|4.865|FR|Auvergne-Rhône-Alpes|59
+Néfiach|42.693|2.666|FR|Occitanie|59
+Baix|44.712|4.764|FR|Auvergne-Rhône-Alpes|59
+Laurac-en-Vivarais|44.509|4.290|FR|Auvergne-Rhône-Alpes|59
+Arpaillargues-et-Aureillac|44.001|4.372|FR|Occitanie|59
+Murat-sur-Vèbre|43.685|2.855|FR|Occitanie|59
+Saint-Germain-du-Teil|44.478|3.172|FR|Occitanie|59
+Tuchan|42.889|2.720|FR|Occitanie|59
+Meyrannes|44.271|4.168|FR|Occitanie|59
+Saint-Paul-et-Valmalle|43.627|3.676|FR|Occitanie|59
+Les Ollières-sur-Eyrieux|44.804|4.614|FR|Auvergne-Rhône-Alpes|59
+Castelnau-de-Brassac|43.649|2.514|FR|Occitanie|59
+Verquières|43.840|4.919|FR|Provence-Alpes-Côte d'Azur|59
+Luc-sur-Orbieu|43.177|2.786|FR|Occitanie|58
+Saint-Félix-de-Lodez|43.663|3.459|FR|Occitanie|58
+Le Bosc|43.710|3.385|FR|Occitanie|58
+Domazan|43.930|4.650|FR|Occitanie|58
+Autignac|43.499|3.169|FR|Occitanie|58
+La Baume-de-Transit|44.337|4.866|FR|Auvergne-Rhône-Alpes|58
+Mur-de-Barrez|44.843|2.661|FR|Occitanie|58
+Le Martinet|44.254|4.084|FR|Occitanie|58
+Saint-Jean-de-Maruéjols-et-Avéjan|44.257|4.293|FR|Occitanie|58
+Adissan|43.535|3.428|FR|Occitanie|58
+Saint-Bauzille-de-Montmel|43.770|3.955|FR|Occitanie|58
+Lussas|44.612|4.473|FR|Auvergne-Rhône-Alpes|58
+Saint-Bauzille-de-la-Sylve|43.617|3.546|FR|Occitanie|58
+Saint-Rome-de-Cernon|44.013|2.964|FR|Occitanie|58
+Grandrieu|44.784|3.633|FR|Occitanie|58
+Ispagnac|44.371|3.535|FR|Occitanie|58
+Brommat|44.830|2.685|FR|Occitanie|58
+Meyras|44.682|4.267|FR|Auvergne-Rhône-Alpes|58
+Saint-Amans-des-Cots|44.689|2.659|FR|Occitanie|58
+Fournès|43.929|4.601|FR|Occitanie|58
+Lirac|44.036|4.690|FR|Occitanie|58
+Soubès|43.768|3.347|FR|Occitanie|58
+Alboussière|44.944|4.729|FR|Auvergne-Rhône-Alpes|58
+Espeluche|44.517|4.821|FR|Auvergne-Rhône-Alpes|58
+Bages|43.123|2.991|FR|Occitanie|58
+Chamborigaud|44.302|3.977|FR|Occitanie|58
+Saint-Paul-le-Jeune|44.340|4.154|FR|Auvergne-Rhône-Alpes|58
+Villefranche-de-Panat|44.089|2.705|FR|Occitanie|58
+La Coucourde|44.649|4.783|FR|Auvergne-Rhône-Alpes|58
+Neffiès|43.534|3.330|FR|Occitanie|58
+Aujargues|43.790|4.122|FR|Occitanie|58
+Argelliers|43.698|3.673|FR|Occitanie|58
+Mariac|44.888|4.373|FR|Auvergne-Rhône-Alpes|58
+Junas|43.771|4.121|FR|Occitanie|58
+Tornac|44.023|3.997|FR|Occitanie|58
+Saint-Jean-de-Valériscle|44.233|4.142|FR|Occitanie|58
+Badens|43.219|2.508|FR|Occitanie|58
+Riols|43.506|2.793|FR|Occitanie|58
+Le Monastier-Pin-Moriès|44.517|3.250|FR|Occitanie|58
+Saint-Gervais-sur-Roubion|44.582|4.888|FR|Auvergne-Rhône-Alpes|58
+Salmiech|44.182|2.571|FR|Occitanie|58
+Vogüé|44.551|4.414|FR|Auvergne-Rhône-Alpes|58
+Saint-Julien-du-Serre|44.657|4.411|FR|Auvergne-Rhône-Alpes|58
+Cornillon|44.225|4.489|FR|Occitanie|58
+Gabian|43.513|3.272|FR|Occitanie|57
+Coucouron|44.803|3.971|FR|Auvergne-Rhône-Alpes|57
+Mirepeisset|43.284|2.897|FR|Occitanie|57
+Valflaunès|43.801|3.872|FR|Occitanie|57
+Saint-Rome-de-Tarn|44.048|2.896|FR|Occitanie|57
+Saint-Féliu-d'Amont|42.686|2.722|FR|Occitanie|57
+Lagorce|44.448|4.417|FR|Auvergne-Rhône-Alpes|57
+Bouchet|44.299|4.874|FR|Auvergne-Rhône-Alpes|57
+La Selve|44.112|2.535|FR|Occitanie|57
+Saint-Symphorien-sous-Chomérac|44.719|4.704|FR|Auvergne-Rhône-Alpes|57
+Saint-Laurent-de-la-Cabrerisse|43.085|2.699|FR|Occitanie|57
+Marseillette|43.203|2.542|FR|Occitanie|57
+Saint-Gervais|44.185|4.574|FR|Occitanie|57
+Lapanouse|44.337|3.031|FR|Occitanie|57
+Rasteau|44.231|4.987|FR|Provence-Alpes-Côte d'Azur|57
+Saint-Didier-sous-Aubenas|44.607|4.415|FR|Auvergne-Rhône-Alpes|57
+Lunas|43.708|3.194|FR|Occitanie|57
+Brignon|43.989|4.213|FR|Occitanie|57
+Graissessac|43.681|3.092|FR|Occitanie|57
+Fitou|42.893|2.977|FR|Occitanie|57
+Cavillargues|44.115|4.522|FR|Occitanie|57
+Roquefort-sur-Soulzon|43.976|2.991|FR|Occitanie|57
+Allègre-les-Fumades|44.200|4.245|FR|Occitanie|57
+Broquiès|44.005|2.696|FR|Occitanie|57
+Le Collet-de-Dèze|44.245|3.922|FR|Occitanie|57
+Giou-de-Mamou|44.932|2.514|FR|Auvergne-Rhône-Alpes|57
+Pompignan|43.895|3.856|FR|Occitanie|57
+Pouzols|43.618|3.513|FR|Occitanie|57
+Saint-Sernin-sur-Rance|43.885|2.604|FR|Occitanie|57
+Saint-Lager-Bressac|44.692|4.710|FR|Auvergne-Rhône-Alpes|57
+Espondeilhan|43.441|3.263|FR|Occitanie|57
+Bouleternère|42.650|2.587|FR|Occitanie|57
+Cardet|44.026|4.080|FR|Occitanie|57
+Générargues|44.082|3.983|FR|Occitanie|57
+Montaud|43.751|3.956|FR|Occitanie|57
+Tresserre|42.564|2.830|FR|Occitanie|57
+Puy-Saint-Martin|44.629|4.973|FR|Auvergne-Rhône-Alpes|57
+Cliousclat|44.717|4.832|FR|Auvergne-Rhône-Alpes|57
+Courniou|43.474|2.711|FR|Occitanie|57
+Montpezat-sous-Bauzon|44.712|4.207|FR|Auvergne-Rhône-Alpes|57
+Saint-Dionisy|43.805|4.228|FR|Occitanie|57
+Brouilla|42.567|2.903|FR|Occitanie|57
+Gajan|43.897|4.215|FR|Occitanie|57
+Massillargues-Attuech|44.015|4.024|FR|Occitanie|57
+Rieutort-de-Randon|44.634|3.478|FR|Occitanie|57
+Chastel-Nouvel|44.559|3.502|FR|Occitanie|57
+Domessargues|43.977|4.169|FR|Occitanie|57
+Saint-Marcel-de-Careiret|44.143|4.488|FR|Occitanie|57
+Richerenches|44.360|4.912|FR|Provence-Alpes-Côte d'Azur|57
+Lagrasse|43.091|2.619|FR|Occitanie|57
+Boucoiran|43.995|4.186|FR|Occitanie|57
+Saint-Paul-les-Fonts|44.082|4.614|FR|Occitanie|57
+Saturargues|43.723|4.113|FR|Occitanie|56
+Ners|44.027|4.159|FR|Occitanie|56
+La Livinière|43.316|2.637|FR|Occitanie|56
+Saint-Jean-du-Bruel|44.023|3.360|FR|Occitanie|56
+Grospierres|44.401|4.289|FR|Auvergne-Rhône-Alpes|56
+Vézins-de-Lévézou|44.279|2.953|FR|Occitanie|56
+Villefort|44.440|3.932|FR|Occitanie|56
+Pradelles|44.770|3.882|FR|Auvergne-Rhône-Alpes|56
+Viane|43.737|2.584|FR|Occitanie|56
+Caves|42.932|2.975|FR|Occitanie|56
+Durban-Corbières|42.996|2.817|FR|Occitanie|56
+Codolet|44.126|4.702|FR|Occitanie|56
+Ségur|44.293|2.834|FR|Occitanie|56
+Chabrillan|44.723|4.940|FR|Auvergne-Rhône-Alpes|56
+Roquebrun|43.501|3.030|FR|Occitanie|56
+Durfort-et-Saint-Martin-de-Sossenac|43.990|3.955|FR|Occitanie|56
+Saint-Sériès|43.732|4.106|FR|Occitanie|56
+Estaing|44.555|2.672|FR|Occitanie|56
+Opoul-Périllos|42.867|2.883|FR|Occitanie|56
+Saint-Vincent-de-Barbeyrargues|43.707|3.878|FR|Occitanie|56
+Boutenac|43.148|2.791|FR|Occitanie|56
+Conilhac-Corbières|43.189|2.715|FR|Occitanie|56
+Travaillan|44.183|4.901|FR|Provence-Alpes-Côte d'Azur|56
+Siran|43.314|2.661|FR|Occitanie|56
+Cayres|44.925|3.807|FR|Auvergne-Rhône-Alpes|56
+Olargues|43.556|2.914|FR|Occitanie|56
+Saint-Laurent-la-Vernède|44.106|4.458|FR|Occitanie|56
+Souvignargues|43.813|4.123|FR|Occitanie|56
+Douzens|43.186|2.598|FR|Occitanie|56
+Homps|43.268|2.720|FR|Occitanie|56
+Carsan|44.237|4.594|FR|Occitanie|56
+Péret|43.575|3.398|FR|Occitanie|56
+Saint-Vincent-de-Barrès|44.662|4.709|FR|Auvergne-Rhône-Alpes|56
+Monoblet|44.001|3.887|FR|Occitanie|56
+Saint-Bonnet-du-Gard|43.927|4.544|FR|Occitanie|56
+Barjac|44.504|3.410|FR|Occitanie|56
+La Laupie|44.602|4.846|FR|Auvergne-Rhône-Alpes|56
+Passa|42.579|2.812|FR|Occitanie|56
+Saint-Jean-Lasseille|42.581|2.867|FR|Occitanie|56
+Saint-Côme-et-Maruéjols|43.826|4.203|FR|Occitanie|56
+Causses-et-Veyran|43.474|3.086|FR|Occitanie|56
+Les Aires|43.582|3.104|FR|Occitanie|56
+Parignargues|43.873|4.208|FR|Occitanie|56
+Saint-Maximin|43.994|4.451|FR|Occitanie|56
+Cases-de-Pène|42.779|2.786|FR|Occitanie|56
+Montlaur|43.881|2.833|FR|Occitanie|56
+Saint-Jean-le-Centenier|44.591|4.535|FR|Auvergne-Rhône-Alpes|56
+Saint-Nazaire-de-Pézan|43.644|4.120|FR|Occitanie|56
+Saint-André-de-Majencoules|44.028|3.674|FR|Occitanie|56
+Sauzet|43.961|4.211|FR|Occitanie|56
+Vérargues|43.716|4.100|FR|Occitanie|56
+Berrias-et-Casteljau|44.367|4.200|FR|Auvergne-Rhône-Alpes|56
+Barbaira|43.185|2.512|FR|Occitanie|56
+Corbère|42.653|2.661|FR|Occitanie|56
+Saint-Victor-de-Malcap|44.248|4.221|FR|Occitanie|55
+Les Granges-Gontardes|44.417|4.764|FR|Auvergne-Rhône-Alpes|55
+Anglès|43.564|2.561|FR|Occitanie|55
+Chambonas|44.417|4.129|FR|Auvergne-Rhône-Alpes|55
+Le Nayrac|44.613|2.663|FR|Occitanie|55
+Gubby Town|44.367|4.156|FR|Auvergne-Rhône-Alpes|55
+Saint-Remèze|44.392|4.502|FR|Auvergne-Rhône-Alpes|55
+Mialet|44.111|3.943|FR|Occitanie|55
+Sainte-Croix-de-Quintillargues|43.773|3.909|FR|Occitanie|55
+Les Assions|44.421|4.174|FR|Auvergne-Rhône-Alpes|55
+Brissac|43.879|3.702|FR|Occitanie|55
+Galargues|43.771|4.022|FR|Occitanie|55
+Costaros|44.895|3.850|FR|Auvergne-Rhône-Alpes|55
+Terrats|42.609|2.772|FR|Occitanie|55
+Mons|43.572|2.956|FR|Occitanie|55
+Saint-Romain-de-Lerps|44.979|4.797|FR|Auvergne-Rhône-Alpes|55
+Lacroix-Barrez|44.778|2.636|FR|Occitanie|55
+Montpeyroux|44.642|2.824|FR|Occitanie|55
+Le Brignon|44.935|3.880|FR|Auvergne-Rhône-Alpes|55
+Saint-Fortunat-sur-Eyrieux|44.830|4.676|FR|Auvergne-Rhône-Alpes|55
+Saint-Julien-de-Cassagnas|44.212|4.198|FR|Occitanie|55
+Castelnau-de-Mandailles|44.536|2.886|FR|Occitanie|55
+Saint-Pons-de-Mauchiens|43.513|3.514|FR|Occitanie|55
+Durenque|44.110|2.617|FR|Occitanie|55
+Cruviers-Lascours|44.004|4.204|FR|Occitanie|55
+Sainte-Enimie|44.366|3.411|FR|Occitanie|55
+Garrigues-Sainte-Eulalie|43.983|4.317|FR|Occitanie|55
+Montlaur|43.130|2.558|FR|Occitanie|55
+Nizas|43.513|3.408|FR|Occitanie|55
+Rodès|42.657|2.562|FR|Occitanie|55
+Saint-Beauzély|44.166|2.958|FR|Occitanie|55
+Taussac|44.829|2.642|FR|Occitanie|55
+Thézan-des-Corbières|43.100|2.767|FR|Occitanie|55
+Mirmande|44.699|4.835|FR|Auvergne-Rhône-Alpes|55
+Paziols|42.859|2.719|FR|Occitanie|55
+Coupiac|43.954|2.582|FR|Occitanie|55
+Valaurie|44.424|4.811|FR|Auvergne-Rhône-Alpes|55
+Viala-du-Tarn|44.072|2.877|FR|Occitanie|55
+Lyas|44.757|4.599|FR|Auvergne-Rhône-Alpes|55
+Balsièges|44.481|3.458|FR|Occitanie|55
+Moux|43.181|2.650|FR|Occitanie|55
+Rimeize|44.765|3.324|FR|Occitanie|55
+Saint-Étienne-Vallée-Française|44.167|3.841|FR|Occitanie|55
+Dions|43.931|4.297|FR|Occitanie|55
+Albine|43.459|2.539|FR|Occitanie|55
+Saint-Germain|44.555|4.450|FR|Auvergne-Rhône-Alpes|55
+La Rouvière|43.931|4.235|FR|Occitanie|55
+Salavas|44.394|4.379|FR|Auvergne-Rhône-Alpes|55
+Boffres|44.921|4.703|FR|Auvergne-Rhône-Alpes|55
+Brouzet-lès-Alès|44.137|4.246|FR|Occitanie|55
+Saint-Front|44.976|4.143|FR|Auvergne-Rhône-Alpes|55
+Charols|44.590|4.952|FR|Auvergne-Rhône-Alpes|55
+Saint-Jean-de-Cornies|43.745|4.002|FR|Occitanie|55
+Saint-Pierreville|44.816|4.487|FR|Auvergne-Rhône-Alpes|55
+Sainte-Valière|43.273|2.842|FR|Occitanie|55
+Saint-Urcize|44.697|3.004|FR|Auvergne-Rhône-Alpes|55
+Trémouilles|44.245|2.644|FR|Occitanie|54
+Villedieu|44.999|3.064|FR|Auvergne-Rhône-Alpes|54
+Chamaret|44.397|4.881|FR|Auvergne-Rhône-Alpes|54
+Saint-Maurice-de-Cazevieille|44.031|4.233|FR|Occitanie|54
+Corconne|43.872|3.940|FR|Occitanie|54
+Pailhès|43.431|3.186|FR|Occitanie|54
+Ventenac-en-Minervois|43.249|2.859|FR|Occitanie|54
+Antraigues-sur-Volane|44.718|4.358|FR|Auvergne-Rhône-Alpes|54
+Coubisou|44.553|2.731|FR|Occitanie|54
+Saint-Sauveur-de-Cruzières|44.300|4.254|FR|Auvergne-Rhône-Alpes|54
+Châteauneuf-de-Randon|44.641|3.675|FR|Occitanie|54
+Saint-Étienne-du-Valdonnez|44.456|3.562|FR|Occitanie|54
+Boissières|43.775|4.234|FR|Occitanie|54
+Curvalle|43.927|2.545|FR|Occitanie|54
+Saint-André-de-Cruzières|44.315|4.217|FR|Auvergne-Rhône-Alpes|54
+Burzet|44.740|4.244|FR|Auvergne-Rhône-Alpes|54
+Deaux|44.068|4.150|FR|Occitanie|54
+Vialas|44.334|3.896|FR|Occitanie|54
+Vingrau|42.849|2.778|FR|Occitanie|54
+Compeyre|44.161|3.102|FR|Occitanie|54
+Pont-de-Labeaume|44.667|4.290|FR|Auvergne-Rhône-Alpes|54
+Saint-Étienne-des-Sorts|44.188|4.706|FR|Occitanie|54
+Nasbinals|44.662|3.046|FR|Occitanie|54
+Pierrerue|43.428|2.977|FR|Occitanie|50
+Le Chambon|44.867|4.283|FR|Auvergne-Rhône-Alpes|35
+Le Vigan|43.991|3.606|FR|Occitanie|0

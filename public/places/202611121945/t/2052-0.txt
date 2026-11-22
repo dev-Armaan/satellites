@@ -1,0 +1,941 @@
+Southend-on-Sea|51.538|0.714|GB|England|109
+Bexley|51.442|0.149|GB|England|107
+Barking|51.533|0.083|GB|England|107
+Ipswich|52.059|1.155|GB|England|105
+Ilford|51.558|0.073|GB|England|105
+Cambridge|52.200|0.117|GB|England|103
+Basildon|51.568|0.458|GB|England|103
+Colchester|51.889|0.904|GB|England|102
+Saint Peters|51.367|1.417|GB|England|102
+Chelmsford|51.736|0.470|GB|England|101
+Dagenham|51.550|0.167|GB|England|101
+Maidstone|51.267|0.517|GB|England|101
+Eastbourne|50.769|0.285|GB|England|100
+Gillingham|51.389|0.549|GB|England|100
+Romford|51.575|0.186|GB|England|100
+Harlow|51.777|0.112|GB|England|99
+Hastings|50.856|0.580|GB|England|99
+Grays|51.476|0.325|GB|England|99
+Dunkirk|51.034|2.377|FR|Hauts-de-France|99
+Chatham|51.379|0.528|GB|England|98
+Calais|50.952|1.856|FR|Hauts-de-France|97
+Lowestoft|52.475|1.752|GB|England|97
+Chingford|51.630|0.001|GB|England|97
+Royal Tunbridge Wells|51.133|0.263|GB|England|97
+Folkestone|51.082|1.167|GB|England|96
+Margate|51.381|1.386|GB|England|96
+Ashford|51.146|0.874|GB|England|96
+Canterbury|51.279|1.080|GB|England|95
+Sittingbourne|51.341|0.733|GB|England|95
+Gravesend|51.442|0.371|GB|England|95
+Braintree|51.878|0.553|GB|England|95
+Brentwood|51.621|0.306|GB|England|94
+Dartford|51.447|0.214|GB|England|94
+Clacton-on-Sea|51.790|1.156|GB|England|94
+Eltham|51.451|0.052|GB|England|94
+South Benfleet|51.553|0.560|GB|England|94
+Boulogne-sur-Mer|50.725|1.614|FR|Hauts-de-France|93
+Bexhill-on-Sea|50.850|0.471|GB|England|93
+Canning Town|51.514|0.019|GB|England|93
+Ramsgate|51.336|1.418|GB|England|92
+Dover|51.126|1.313|GB|England|92
+Bury St Edmunds|52.246|0.711|GB|England|92
+Welling|51.462|0.108|GB|England|92
+Bishops Stortford|51.871|0.159|GB|England|92
+Canvey Island|51.522|0.581|GB|England|92
+Stratford|51.533|0.000|GB|England|91
+Billericay|51.629|0.420|GB|England|91
+Tonbridge|51.195|0.274|GB|England|91
+Rayleigh|51.586|0.605|GB|England|90
+Whitstable|51.361|1.026|GB|England|90
+Thamesmead|51.504|0.120|GB|England|90
+Deal|51.223|1.403|GB|England|90
+Stanford-le-Hope|51.523|0.434|GB|England|89
+Sevenoaks|51.273|0.189|GB|England|89
+Rochester|51.388|0.505|GB|England|89
+Wickford|51.611|0.523|GB|England|89
+Haverhill|52.082|0.439|GB|England|89
+Abbeville|50.105|1.835|FR|Hauts-de-France|88
+Witham|51.800|0.640|GB|England|88
+Coudekerque-Branche|51.023|2.394|FR|Hauts-de-France|88
+Blackheath|51.465|0.008|GB|England|88
+Pitsea|51.564|0.509|GB|England|88
+Herne Bay|51.373|1.129|GB|England|88
+Thetford|52.417|0.750|GB|England|88
+Felixstowe|51.964|1.351|GB|England|88
+Sudbury|52.039|0.731|GB|England|88
+Saint-Pol-sur-Mer|51.031|2.340|FR|Hauts-de-France|87
+Hailsham|50.862|0.258|GB|England|87
+Maldon|51.731|0.675|GB|England|87
+Broadstairs|51.358|1.442|GB|England|87
+Grande-Synthe|51.015|2.300|FR|Hauts-de-France|87
+Faversham|51.315|0.889|GB|England|87
+Woodford Green|51.609|0.023|GB|England|87
+Seaford|50.771|0.103|GB|England|87
+South Ockendon|51.508|0.283|GB|England|87
+Swanley|51.397|0.173|GB|England|87
+Crowborough|51.061|0.163|GB|England|87
+Stowmarket|52.189|0.998|GB|England|86
+Harwich|51.942|1.284|GB|England|86
+Ely|52.400|0.262|GB|England|86
+Newmarket|52.245|0.404|GB|England|86
+Uckfield|50.969|0.096|GB|England|85
+Hadleigh|51.553|0.610|GB|England|85
+Saint-Omer|50.748|2.261|FR|Hauts-de-France|85
+Abbey Wood|51.487|0.107|GB|England|85
+Walton-on-the-Naze|51.848|1.267|GB|England|85
+Lewes|50.874|0.009|GB|England|85
+Frinton-on-Sea|51.831|1.244|GB|England|85
+Longfield|51.397|0.302|GB|England|85
+Rochford|51.582|0.707|GB|England|84
+Plumstead|51.483|0.083|GB|England|84
+Saffron Walden|52.023|0.242|GB|England|84
+Hartley|51.387|0.304|GB|England|84
+Hayes|51.378|0.017|GB|England|84
+Swanscombe|51.447|0.310|GB|England|84
+Berck-Plage|50.407|1.564|FR|Hauts-de-France|84
+Outreau|50.705|1.590|FR|Hauts-de-France|84
+Berck|50.400|1.600|FR|Hauts-de-France|84
+Chislehurst|51.417|0.069|GB|England|84
+West Ham|51.533|0.017|GB|England|84
+Manor Park|51.549|0.049|GB|England|84
+Orpington|51.375|0.098|GB|England|84
+Hythe|51.072|1.084|GB|England|83
+Lee|51.456|0.005|GB|England|83
+Chelsfield|51.358|0.128|GB|England|83
+Charlton|51.485|0.040|GB|England|83
+Mildenhall|52.344|0.511|GB|England|83
+Kidbrooke|51.467|0.027|GB|England|83
+Tilbury|51.462|0.359|GB|England|83
+Bickley|51.401|0.046|GB|England|83
+Beccles|52.459|1.565|GB|England|83
+Longuenesse|50.734|2.235|FR|Hauts-de-France|83
+Sheerness|51.440|0.763|GB|England|82
+Gravelines|50.987|2.128|FR|Hauts-de-France|82
+Goodmayes|51.563|0.111|GB|England|82
+Newhaven|50.797|0.055|GB|England|82
+Rainham|51.517|0.194|GB|England|82
+Saint-Martin-Boulogne|50.727|1.619|FR|Hauts-de-France|82
+Chigwell|51.620|0.076|GB|England|82
+Halstead|51.945|0.639|GB|England|82
+Snaresbrook|51.584|0.019|GB|England|81
+Buckhurst Hill|51.624|0.033|GB|England|81
+Wanstead|51.577|0.025|GB|England|81
+Auchel|50.503|2.473|FR|Hauts-de-France|81
+Étaples|50.522|1.633|FR|Hauts-de-France|81
+Woodbridge|52.093|1.320|GB|England|81
+Le Portel|50.706|1.576|FR|Hauts-de-France|81
+Kesgrave|52.062|1.236|GB|England|81
+Biggin Hill|51.313|0.034|GB|England|81
+Diss|52.377|1.109|GB|England|81
+Epping|51.698|0.111|GB|England|81
+Sidcup|51.426|0.104|GB|England|80
+Aire-sur-la-Lys|50.639|2.399|FR|Hauts-de-France|80
+Chatteris|52.456|0.052|GB|England|80
+Snodland|51.330|0.443|GB|England|80
+Lillers|50.563|2.480|FR|Hauts-de-France|80
+Isbergues|50.623|2.459|FR|Hauts-de-France|80
+Saint Leonards-on-Sea|50.856|0.545|GB|England|80
+Upminster|51.556|0.256|GB|England|80
+Mottingham|51.453|0.039|GB|England|80
+Soham|52.335|0.337|GB|England|80
+Birchington-on-Sea|51.376|1.305|GB|England|80
+Erith|51.483|0.175|GB|England|80
+New Romney|50.986|0.941|GB|England|80
+Wivenhoe|51.856|0.958|GB|England|80
+Arques|50.734|2.302|FR|Hauts-de-France|80
+Shortlands|51.399|0.004|GB|England|79
+Tiptree|51.812|0.745|GB|England|79
+Marck|50.949|1.943|FR|Hauts-de-France|79
+Rye|50.951|0.734|GB|England|79
+Farnborough|51.359|0.069|GB|England|79
+Newbury Park|51.578|0.093|GB|England|79
+Eu|50.046|1.421|FR|Normandy|79
+Sawbridgeworth|51.817|0.150|GB|England|78
+Cappelle-la-Grande|51.000|2.358|FR|Hauts-de-France|78
+Edenbridge|51.192|0.067|GB|England|78
+Hadleigh|52.045|0.953|GB|England|78
+Brightlingsea|51.812|1.023|GB|England|78
+Hawkinge|51.113|1.162|GB|England|78
+Aveley|51.500|0.252|GB|England|78
+Littleport|52.458|0.306|GB|England|78
+Paddock Wood|51.182|0.382|GB|England|78
+West Thurrock|51.478|0.277|GB|England|78
+Great Dunmow|51.872|0.363|GB|England|78
+Wimereux|50.770|1.611|FR|Hauts-de-France|78
+Grange Hill|51.612|0.086|GB|England|78
+Histon|52.252|0.106|GB|England|78
+Burnham-on-Crouch|51.633|0.815|GB|England|78
+Téteghem|51.019|2.445|FR|Hauts-de-France|77
+Sturry|51.301|1.122|GB|England|77
+Sawston|52.121|0.169|GB|England|77
+Otford|51.313|0.190|GB|England|77
+Tenterden|51.068|0.688|GB|England|77
+Bourbourg|50.948|2.196|FR|Hauts-de-France|77
+West Mersea|51.778|0.919|GB|England|77
+Larkfield|51.301|0.449|GB|England|77
+Old Harlow|51.784|0.134|GB|England|77
+Kemsing|51.306|0.229|GB|England|77
+Battle|50.917|0.484|GB|England|77
+Danbury|51.716|0.582|GB|England|76
+Loon-Plage|50.996|2.218|FR|Hauts-de-France|76
+Westgate on Sea|51.382|1.337|GB|England|76
+Greenhithe|51.450|0.285|GB|England|76
+Leiston|52.206|1.578|GB|England|76
+Rainham|51.363|0.609|GB|England|76
+Burwell|52.276|0.327|GB|England|76
+Doullens|50.157|2.340|FR|Hauts-de-France|76
+Grand-Fort-Philippe|51.000|2.108|FR|Hauts-de-France|76
+Pembury|51.143|0.322|GB|England|76
+Stone|51.450|0.265|GB|England|76
+Stone|51.000|0.767|GB|England|76
+Calonne-Ricouart|50.485|2.473|FR|Hauts-de-France|76
+Le Tréport|50.060|1.376|FR|Normandy|76
+Coulogne|50.925|1.881|FR|Hauts-de-France|76
+Cottenham|52.287|0.125|GB|England|75
+Purfleet-on-Thames|51.484|0.242|GB|England|75
+Waterbeach|52.266|0.191|GB|England|75
+Le Touquet-Paris-Plage|50.524|1.586|FR|Hauts-de-France|75
+Manningtree|51.945|1.061|GB|England|75
+Oye-Plage|50.977|2.043|FR|Hauts-de-France|75
+Ingatestone|51.670|0.384|GB|England|75
+Saint-Pol-sur-Ternoise|50.381|2.334|FR|Hauts-de-France|75
+Halesworth|52.346|1.503|GB|England|75
+West Kingsdown|51.343|0.261|GB|England|75
+East Tilbury|51.481|0.417|GB|England|75
+Shenfield|51.632|0.332|GB|England|75
+Stansted Mountfitchet|51.900|0.200|GB|England|75
+Great Wakering|51.552|0.804|GB|England|75
+Hoo|51.420|0.563|GB|England|75
+Guînes|50.867|1.870|FR|Hauts-de-France|75
+Blendecques|50.718|2.286|FR|Hauts-de-France|75
+Kelvedon|51.840|0.706|GB|England|75
+Wormhout|50.881|2.469|FR|Hauts-de-France|74
+Bungay|52.454|1.438|GB|England|74
+Desvres|50.669|1.835|FR|Hauts-de-France|74
+Leffrinckoucke|51.035|2.465|FR|Hauts-de-France|74
+Saint-Étienne-au-Mont|50.678|1.631|FR|Hauts-de-France|74
+Staplehurst|51.161|0.552|GB|England|74
+Cucq|50.477|1.620|FR|Hauts-de-France|74
+Rusthall|51.136|0.229|GB|England|74
+Tankerton|51.364|1.049|GB|England|74
+Friville-Escarbotin|50.086|1.546|FR|Hauts-de-France|74
+Sandwich|51.272|1.338|GB|England|74
+Writtle|51.729|0.429|GB|England|74
+Wimille|50.764|1.631|FR|Hauts-de-France|74
+Coggeshall|51.871|0.685|GB|England|73
+Melbourn|52.081|0.015|GB|England|73
+Audruicq|50.878|2.080|FR|Hauts-de-France|73
+Marquise|50.813|1.708|FR|Hauts-de-France|73
+Little Clacton|51.826|1.142|GB|England|73
+Aylesford|51.304|0.479|GB|England|73
+Needham Market|52.156|1.052|GB|England|73
+Linton|52.098|0.277|GB|England|73
+Claydon|52.107|1.111|GB|England|73
+Wootton|51.174|1.179|GB|England|73
+Harleston|52.403|1.297|GB|England|73
+Cuxton|51.374|0.457|GB|England|73
+Long Stratton|52.488|1.235|GB|England|73
+Lakenheath|52.418|0.522|GB|England|73
+Cranbrook|51.097|0.536|GB|England|73
+Meopham|51.368|0.360|GB|England|73
+Bergues|50.969|2.432|FR|Hauts-de-France|73
+Borough Green|51.292|0.305|GB|England|73
+Kessingland|52.420|1.709|GB|England|73
+Ardres|50.858|1.982|FR|Hauts-de-France|73
+Saxmundham|52.215|1.488|GB|England|73
+Kennington|51.167|0.885|GB|England|72
+Sangatte|50.946|1.753|FR|Hauts-de-France|72
+Lumbres|50.707|2.121|FR|Hauts-de-France|72
+Frévent|50.276|2.287|FR|Hauts-de-France|72
+Saint-Léonard|50.691|1.625|FR|Hauts-de-France|72
+Wadhurst|51.062|0.339|GB|England|72
+Bar Hill|52.249|0.029|GB|England|72
+Southminster|51.662|0.830|GB|England|72
+Willingham|52.314|0.058|GB|England|72
+Chipping Ongar|51.704|0.245|GB|England|72
+Hawkhurst|51.048|0.511|GB|England|72
+Elmswell|52.236|0.912|GB|England|72
+Hatfield Peverel|51.776|0.595|GB|England|72
+Lydd|50.951|0.907|GB|England|72
+Saint-Martin-au-Laërt|50.752|2.241|FR|Hauts-de-France|72
+Earls Colne|51.927|0.701|GB|England|72
+Silver End|51.847|0.624|GB|England|72
+Rang-du-Fliers|50.417|1.644|FR|Hauts-de-France|72
+Fort-Mardyck|51.029|2.307|FR|Hauts-de-France|72
+Girton|52.233|0.083|GB|England|72
+Theydon Bois|51.674|0.098|GB|England|72
+Sutton|52.388|0.119|GB|England|72
+Aylesham|51.225|1.202|GB|England|72
+Wickham Bishops|51.778|0.668|GB|England|72
+Newick|50.975|0.016|GB|England|71
+Fulbourn|52.183|0.220|GB|England|71
+Mayland|51.680|0.767|GB|England|71
+Forest Row|51.096|0.033|GB|England|71
+Sible Hedingham|51.978|0.593|GB|England|71
+Neufchâtel-Hardelot|50.620|1.642|FR|Hauts-de-France|71
+Southwold|52.327|1.680|GB|England|71
+Marks Tey|51.876|0.764|GB|England|71
+Puckeridge|51.890|0.013|GB|England|71
+Queenborough|51.418|0.744|GB|England|71
+Wizernes|50.712|2.243|FR|Hauts-de-France|71
+Somersham|52.383|0.000|GB|England|71
+Mers-les-Bains|50.065|1.388|FR|Hauts-de-France|71
+Istead Rise|51.406|0.351|GB|England|71
+Takeley|51.871|0.266|GB|England|71
+Glemsford|52.104|0.669|GB|England|71
+Westerham|51.266|0.069|GB|England|70
+Hoymille|50.972|2.447|FR|Hauts-de-France|70
+Samer|50.638|1.746|FR|Hauts-de-France|70
+Dymchurch|51.025|0.994|GB|England|70
+Boreham|51.760|0.541|GB|England|70
+Doddington|52.497|0.060|GB|England|70
+Rue|50.272|1.672|FR|Hauts-de-France|70
+West Bergholt|51.912|0.850|GB|England|70
+Ringmer|50.893|0.055|GB|England|70
+Pevensey|50.820|0.340|GB|England|70
+Flixecourt|50.015|2.081|FR|Hauts-de-France|70
+Iwade|51.378|0.729|GB|England|70
+Framlingham|52.221|1.342|GB|England|70
+St Mary's Bay|51.010|0.977|GB|England|70
+Leysdown-on-Sea|51.397|0.922|GB|England|70
+Rendlesham|52.127|1.415|GB|England|70
+Watten|50.837|2.213|FR|Hauts-de-France|70
+Équihen-Plage|50.676|1.572|FR|Hauts-de-France|70
+Auxi-le-Château|50.231|2.116|FR|Hauts-de-France|69
+Éperlecques|50.806|2.152|FR|Hauts-de-France|69
+Merlimont|50.456|1.613|FR|Hauts-de-France|69
+Thurston|52.252|0.807|GB|England|69
+Capel Saint Mary|52.004|1.045|GB|England|69
+Haddenham|52.358|0.148|GB|England|69
+Cauchy-à-la-Tour|50.504|2.446|FR|Hauts-de-France|69
+Burbure|50.537|2.469|FR|Hauts-de-France|69
+Long Melford|52.075|0.716|GB|England|69
+Bicknacre|51.694|0.585|GB|England|69
+Bluntisham|52.355|0.009|GB|England|69
+Fruges|50.515|2.133|FR|Hauts-de-France|69
+Over|52.317|0.017|GB|England|69
+Hadlow|51.224|0.339|GB|England|69
+Rinxent|50.807|1.729|FR|Hauts-de-France|69
+Chartham|51.256|1.018|GB|England|69
+Cayeux-sur-Mer|50.182|1.494|FR|Hauts-de-France|69
+Criel-sur-Mer|50.015|1.315|FR|Normandy|69
+Eynsford|51.368|0.211|GB|England|69
+Hesdin|50.373|2.038|FR|Hauts-de-France|69
+Ash|51.279|1.280|GB|England|69
+Condette|50.658|1.634|FR|Hauts-de-France|69
+Armbouts-Cappel|50.977|2.354|FR|Hauts-de-France|69
+Saint-Valery-sur-Somme|50.183|1.633|FR|Hauts-de-France|69
+Montreuil|50.464|1.763|FR|Hauts-de-France|69
+Fordham|52.311|0.391|GB|England|69
+Great Leighs|51.828|0.506|GB|England|69
+Teynham|51.330|0.805|GB|England|69
+Kings Hill|51.274|0.402|GB|England|68
+Feltwell|52.486|0.519|GB|England|68
+Tollesbury|51.759|0.835|GB|England|68
+Dormansland|51.160|0.006|GB|England|68
+Thaxted|51.953|0.345|GB|England|68
+Headcorn|51.170|0.624|GB|England|68
+Eastry|51.246|1.308|GB|England|68
+East Peckham|51.212|0.386|GB|England|68
+Darenth|51.421|0.258|GB|England|68
+Le Crotoy|50.216|1.625|FR|Hauts-de-France|68
+Great Horkesley|51.938|0.876|GB|England|68
+Marden|51.175|0.489|GB|England|68
+Coquelles|50.935|1.799|FR|Hauts-de-France|68
+Cassel|50.801|2.485|FR|Hauts-de-France|68
+Feuquières-en-Vimeu|50.060|1.605|FR|Hauts-de-France|68
+Cliffe|51.462|0.498|GB|England|68
+Fressenneville|50.068|1.578|FR|Hauts-de-France|68
+Kelvedon Hatch|51.667|0.268|GB|England|68
+Wateringbury|51.255|0.423|GB|England|68
+Witchford|52.387|0.206|GB|England|68
+Ixworth|52.299|0.834|GB|England|67
+Newport|51.984|0.214|GB|England|67
+Comberton|52.187|0.019|GB|England|67
+Aldeburgh|52.155|1.602|GB|England|67
+Camiers|50.572|1.613|FR|Hauts-de-France|67
+Longstanton|52.281|0.046|GB|England|67
+Romney Marsh|51.023|0.915|GB|England|67
+Beauval|50.108|2.333|FR|Hauts-de-France|67
+Elsenham|51.914|0.229|GB|England|67
+West Malling|51.293|0.409|GB|England|67
+East Bergholt|51.978|1.018|GB|England|67
+Saint-Ouen|50.038|2.121|FR|Hauts-de-France|67
+Isleham|52.343|0.412|GB|England|67
+Vignacourt|50.012|2.197|FR|Hauts-de-France|67
+Debenham|52.224|1.182|GB|England|67
+Eye|52.321|1.146|GB|England|67
+Bottisham|52.223|0.259|GB|England|67
+Lenham|51.237|0.719|GB|England|67
+Little Dunmow|51.861|0.415|GB|England|67
+Horam|50.935|0.244|GB|England|67
+Verton|50.402|1.648|FR|Hauts-de-France|67
+Esquelbecq|50.887|2.432|FR|Hauts-de-France|67
+Flesselles|50.002|2.261|FR|Hauts-de-France|67
+Renescure|50.728|2.368|FR|Hauts-de-France|67
+Newington|51.352|0.668|GB|England|67
+Wickham Market|52.153|1.363|GB|England|67
+East Harling|52.438|0.934|GB|England|67
+Racquinghem|50.692|2.357|FR|Hauts-de-France|67
+Saint-Folquin|50.945|2.124|FR|Hauts-de-France|67
+Duxford|52.094|0.159|GB|England|66
+Saint Osyth|51.800|1.083|GB|England|66
+Manea|52.485|0.179|GB|England|66
+Rickinghall|52.336|0.993|GB|England|66
+Blaringhem|50.691|2.403|FR|Hauts-de-France|66
+Beaurainville|50.424|1.899|FR|Hauts-de-France|66
+Robertsbridge|50.986|0.473|GB|England|66
+Clare|52.079|0.582|GB|England|66
+Ambleteuse|50.810|1.609|FR|Hauts-de-France|66
+Rayne|51.867|0.583|GB|England|66
+Alresford|51.854|1.002|GB|England|66
+Southchurch Village|51.540|0.729|GB|England|66
+Much Hadham|51.854|0.072|GB|England|66
+Black Notley|51.853|0.568|GB|England|66
+Rety|50.800|1.767|FR|Hauts-de-France|66
+Lyminge|51.130|1.089|GB|England|66
+Wrotham|51.309|0.309|GB|England|66
+Wye|51.182|0.937|GB|England|66
+Ault|50.104|1.450|FR|Hauts-de-France|66
+Warhem|50.976|2.493|FR|Hauts-de-France|66
+Bramford|52.076|1.097|GB|England|66
+Ditchingham|52.467|1.444|GB|England|66
+Les Attaques|50.910|1.930|FR|Hauts-de-France|65
+Kedington|52.093|0.487|GB|England|65
+Halling|51.351|0.445|GB|England|65
+Ingrave|51.604|0.341|GB|England|65
+Great Yeldham|52.013|0.565|GB|England|65
+Charing|51.211|0.795|GB|England|65
+Weeting|52.464|0.615|GB|England|65
+Ecques|50.670|2.286|FR|Hauts-de-France|65
+Ferques|50.830|1.760|FR|Hauts-de-France|65
+Buxted|50.990|0.134|GB|England|65
+Stretham|52.347|0.219|GB|England|65
+Auchy-lès-Hesdin|50.401|2.101|FR|Hauts-de-France|65
+Tatinghem|50.743|2.207|FR|Hauts-de-France|65
+Northiam|50.994|0.600|GB|England|65
+Meldreth|52.094|0.008|GB|England|65
+Bierne|50.962|2.410|FR|Hauts-de-France|65
+Saint-Léger-lès-Domart|50.052|2.141|FR|Hauts-de-France|65
+Mametz|50.635|2.325|FR|Hauts-de-France|65
+Woolpit|52.225|0.888|GB|England|65
+Zutkerque|50.853|2.068|FR|Hauts-de-France|65
+Helfaut|50.698|2.242|FR|Hauts-de-France|65
+Botesdale|52.342|1.004|GB|England|65
+Campagne-lès-Hesdin|50.397|1.875|FR|Hauts-de-France|65
+Harston|52.137|0.080|GB|England|65
+Hatfield Heath|51.812|0.212|GB|England|65
+Ticehurst|51.047|0.409|GB|England|65
+Lympne|51.078|1.028|GB|England|65
+Mistley|51.943|1.083|GB|England|65
+Exning|52.266|0.374|GB|England|65
+Allhallows|51.469|0.637|GB|England|65
+Steenbecque|50.674|2.484|FR|Hauts-de-France|64
+Pernes|50.484|2.413|FR|Hauts-de-France|64
+High Halstow|51.448|0.556|GB|England|64
+Zuydcoote|51.061|2.493|FR|Hauts-de-France|64
+Layer de la Haye|51.846|0.857|GB|England|64
+West Horndon|51.570|0.340|GB|England|64
+Grain|51.456|0.711|GB|England|64
+Elmstead Market|51.882|0.995|GB|England|64
+Roquetoire|50.670|2.343|FR|Hauts-de-France|64
+Cookley|52.317|1.450|GB|England|64
+Shepherdswell|51.187|1.230|GB|England|64
+Rowhedge|51.857|0.945|GB|England|64
+Nortkerque|50.875|2.025|FR|Hauts-de-France|64
+Friston|50.764|0.199|GB|England|64
+Horsmonden|51.139|0.429|GB|England|64
+Camblain-Châtelain|50.484|2.455|FR|Hauts-de-France|64
+Abridge|51.650|0.120|GB|England|64
+Earith|52.354|0.031|GB|England|64
+Great Barton|52.273|0.767|GB|England|64
+Horndon on the Hill|51.524|0.405|GB|England|64
+Balsham|52.132|0.316|GB|England|64
+La Capelle-lès-Boulogne|50.733|1.701|FR|Hauts-de-France|64
+Longpré-les-Corps-Saints|50.012|1.993|FR|Hauts-de-France|64
+Roydon|51.772|0.040|GB|England|64
+Stock|51.664|0.443|GB|England|64
+Bridge|51.245|1.126|GB|England|64
+Woincourt|50.066|1.537|FR|Hauts-de-France|64
+Crécy-en-Ponthieu|50.252|1.881|FR|Hauts-de-France|64
+Great Bentley|51.853|1.064|GB|England|64
+Five Oak Green|51.183|0.355|GB|England|64
+Wattisham|52.125|0.939|GB|England|64
+Blean|51.307|1.043|GB|England|64
+Whittlesford|52.113|0.150|GB|England|64
+Pont-Remy|50.050|1.917|FR|Hauts-de-France|64
+Littlebourne|51.274|1.167|GB|England|64
+Oakington|52.260|0.068|GB|England|64
+Eythorne|51.197|1.266|GB|England|64
+Arnèke|50.832|2.409|FR|Hauts-de-France|64
+Fairlight|50.878|0.657|GB|England|64
+Shotley Gate|51.958|1.269|GB|England|64
+Haslingfield|52.150|0.056|GB|England|64
+Esquerdes|50.704|2.189|FR|Hauts-de-France|64
+Great Chesterford|52.064|0.197|GB|England|63
+Norrent-Fontes|50.583|2.400|FR|Hauts-de-France|63
+Andres|50.866|1.921|FR|Hauts-de-France|63
+Incheville|50.012|1.494|FR|Normandy|63
+Licques|50.784|1.938|FR|Hauts-de-France|63
+Groffliers|50.384|1.615|FR|Hauts-de-France|63
+Sainte-Marie-Kerque|50.899|2.137|FR|Hauts-de-France|63
+Harrietsham|51.243|0.671|GB|England|63
+Hallines|50.711|2.226|FR|Hauts-de-France|63
+Speldhurst|51.151|0.219|GB|England|63
+Bures Saint Mary|51.972|0.775|GB|England|63
+Steeple Bumpstead|52.043|0.448|GB|England|63
+Lavenham|52.109|0.796|GB|England|63
+Thorpe le Soken|51.856|1.166|GB|England|63
+Capel le Ferne|51.103|1.212|GB|England|63
+Sundridge|51.278|0.122|GB|England|63
+Bollezeele|50.867|2.348|FR|Hauts-de-France|63
+Grundisburgh|52.112|1.246|GB|England|63
+Yalding|51.224|0.429|GB|England|63
+Dargnies|50.041|1.525|FR|Hauts-de-France|63
+Winchelsea Beach|50.917|0.722|GB|England|63
+Bodle Street|50.913|0.343|GB|England|63
+Brêmes|50.855|1.977|FR|Hauts-de-France|63
+Little Hallingbury|51.833|0.182|GB|England|63
+Spycker|50.969|2.322|FR|Hauts-de-France|63
+Baincthun|50.710|1.681|FR|Hauts-de-France|63
+Upchurch|51.376|0.648|GB|England|63
+Heuringhem|50.696|2.283|FR|Hauts-de-France|62
+Bacton|52.267|1.017|GB|England|62
+Chépy|50.064|1.647|FR|Hauts-de-France|62
+Burwash|50.998|0.385|GB|England|62
+Marconne|50.371|2.047|FR|Hauts-de-France|62
+Ninfield|50.886|0.425|GB|England|62
+Biddenden|51.115|0.638|GB|England|62
+Wingham|51.272|1.215|GB|England|62
+Guarbecque|50.612|2.489|FR|Hauts-de-France|62
+Marconnelle|50.376|2.011|FR|Hauts-de-France|62
+Shadoxhurst|51.108|0.819|GB|England|62
+Dannes|50.588|1.614|FR|Hauts-de-France|62
+Haughley|52.219|0.968|GB|England|62
+Beauquesne|50.085|2.393|FR|Hauts-de-France|62
+Orsett|51.512|0.368|GB|England|62
+Camber|50.935|0.798|GB|England|62
+Great Waldingfield|52.055|0.774|GB|England|62
+Wouldham|51.350|0.458|GB|England|62
+Nouvion|50.200|1.783|FR|Hauts-de-France|62
+Longfossé|50.652|1.807|FR|Hauts-de-France|62
+Horton Kirby|51.395|0.245|GB|England|62
+Quend|50.316|1.636|FR|Hauts-de-France|62
+Fréthun|50.917|1.825|FR|Hauts-de-France|62
+Tournehem-sur-la-Hem|50.800|2.050|FR|Hauts-de-France|62
+Zegerscappel|50.883|2.400|FR|Hauts-de-France|62
+Great Bardfield|51.948|0.436|GB|England|62
+Hames-Boucres|50.882|1.843|FR|Hauts-de-France|62
+Saint-Riquier|50.132|1.948|FR|Hauts-de-France|62
+Looberghe|50.917|2.274|FR|Hauts-de-France|62
+Steene|50.952|2.368|FR|Hauts-de-France|62
+Brouckerque|50.955|2.294|FR|Hauts-de-France|62
+Fowlmere|52.093|0.074|GB|England|62
+Ruminghem|50.859|2.158|FR|Hauts-de-France|62
+Burham|51.332|0.478|GB|England|62
+Hockwold cum Wilton|52.464|0.546|GB|England|62
+Latchingdon and Snoreham|51.672|0.726|GB|England|61
+Lower Halstow|51.374|0.668|GB|England|61
+Brenchley|51.151|0.398|GB|England|61
+High Ongar|51.710|0.262|GB|England|61
+Isques|50.674|1.654|FR|Hauts-de-France|61
+Vieille-Église|50.928|2.077|FR|Hauts-de-France|61
+Banham|52.452|1.037|GB|England|61
+High Halden|51.103|0.714|GB|England|61
+Fort-Mahon-Plage|50.340|1.560|FR|Hauts-de-France|61
+Coudekerque-Village|51.000|2.417|FR|Hauts-de-France|61
+Lamberhurst|51.100|0.390|GB|England|61
+Goudhurst|51.113|0.456|GB|England|61
+Domart-en-Ponthieu|50.074|2.126|FR|Hauts-de-France|61
+Gosfield|51.937|0.592|GB|England|61
+Naours|50.037|2.277|FR|Hauts-de-France|61
+Eastchurch|51.407|0.858|GB|England|61
+Herstmonceux|50.890|0.323|GB|England|61
+Quaëdypre|50.935|2.454|FR|Hauts-de-France|61
+Berteaucourt-les-Dames|50.047|2.158|FR|Hauts-de-France|61
+Groombridge|51.115|0.183|GB|England|61
+Barham|51.206|1.157|GB|England|61
+Uxem|51.022|2.484|FR|Hauts-de-France|61
+Eight Ash Green|51.896|0.823|GB|England|61
+Flimwell|51.055|0.445|GB|England|61
+Cold Norton|51.672|0.670|GB|England|61
+Wardrecques|50.711|2.345|FR|Hauts-de-France|61
+Dickleburgh|52.397|1.185|GB|England|61
+Holbrook|51.983|1.159|GB|England|61
+Nesles|50.626|1.656|FR|Hauts-de-France|61
+Stradbroke|52.318|1.273|GB|England|61
+Saint-Josse|50.468|1.662|FR|Hauts-de-France|61
+Thérouanne|50.637|2.258|FR|Hauts-de-France|61
+Woodchurch|51.076|0.773|GB|England|61
+Canewdon|51.618|0.745|GB|England|61
+Sissinghurst|51.109|0.560|GB|England|61
+Talmas|50.030|2.326|FR|Hauts-de-France|61
+Castle Hedingham|51.990|0.599|GB|England|61
+Serques|50.793|2.201|FR|Hauts-de-France|61
+Bildeston|52.107|0.909|GB|England|60
+Saint-Pierre-en-Val|50.022|1.447|FR|Normandy|60
+Wissant|50.885|1.663|FR|Hauts-de-France|60
+Socx|50.936|2.424|FR|Hauts-de-France|60
+Moulton|52.252|0.483|GB|England|60
+Bulphan|51.546|0.361|GB|England|60
+Althorne|51.657|0.761|GB|England|60
+Hardinghen|50.804|1.821|FR|Hauts-de-France|60
+Tolleshunt Knights|51.799|0.777|GB|England|60
+Scole|52.367|1.157|GB|England|60
+Beauchamps|50.012|1.518|FR|Hauts-de-France|60
+Béthencourt-sur-Mer|50.078|1.503|FR|Hauts-de-France|60
+Dedham|51.959|0.993|GB|England|60
+Wilburton|52.352|0.177|GB|England|60
+Bernaville|50.132|2.163|FR|Hauts-de-France|60
+Wailly|50.523|2.068|FR|Hauts-de-France|60
+Sailly-Flibeaucourt|50.184|1.772|FR|Hauts-de-France|60
+Boxted|51.949|0.910|GB|England|60
+Tilques|50.777|2.199|FR|Hauts-de-France|60
+Pendé|50.161|1.585|FR|Hauts-de-France|60
+Dovercourt|51.936|1.278|GB|England|60
+Heathfield|50.967|0.256|GB|England|60
+Boxford|52.029|0.859|GB|England|60
+Huby-Saint-Leu|50.382|2.038|FR|Hauts-de-France|60
+Campagne-lès-Wardrecques|50.719|2.334|FR|Hauts-de-France|60
+Aldington|51.092|0.945|GB|England|60
+Upper Hartfield|51.093|0.091|GB|England|60
+Bavinchove|50.786|2.457|FR|Hauts-de-France|60
+Mepal|52.404|0.115|GB|England|60
+Saint-Blimont|50.120|1.574|FR|Hauts-de-France|60
+East Hanningfield|51.683|0.559|GB|England|60
+Ham-en-Artois|50.589|2.458|FR|Hauts-de-France|60
+Sole Street|51.386|0.378|GB|England|60
+Chattenden|51.418|0.529|GB|England|60
+Pas-en-Artois|50.153|2.490|FR|Hauts-de-France|60
+Nieurlet|50.789|2.282|FR|Hauts-de-France|60
+Offekerque|50.942|2.020|FR|Hauts-de-France|60
+Lambres|50.618|2.396|FR|Hauts-de-France|60
+Barningham|52.354|0.887|GB|England|60
+Pitgam|50.927|2.330|FR|Hauts-de-France|60
+Houlle|50.795|2.173|FR|Hauts-de-France|59
+Enquin-les-Mines|50.587|2.283|FR|Hauts-de-France|59
+Icklesham|50.916|0.668|GB|England|59
+Saint-Omer-Capelle|50.939|2.102|FR|Hauts-de-France|59
+Chelmondiston|51.989|1.211|GB|England|59
+Nayland|51.972|0.871|GB|England|59
+Densole|51.130|1.158|GB|England|59
+Delettes|50.618|2.212|FR|Hauts-de-France|59
+Barnby|52.448|1.642|GB|England|59
+Henham|51.933|0.248|GB|England|59
+Stebbing|51.891|0.414|GB|England|59
+Landrethun-le-Nord|50.847|1.784|FR|Hauts-de-France|59
+Moulle|50.789|2.178|FR|Hauts-de-France|59
+Pihem|50.683|2.214|FR|Hauts-de-France|59
+Great Chishill|52.030|0.072|GB|England|59
+Estrée-Blanche|50.594|2.320|FR|Hauts-de-France|59
+Southfleet|51.416|0.320|GB|England|59
+Hatfield Broad Oak|51.827|0.247|GB|England|59
+Holque|50.855|2.203|FR|Hauts-de-France|59
+Mareuil-Caubert|50.068|1.831|FR|Hauts-de-France|59
+Ardleigh|51.926|0.985|GB|England|59
+Elham|51.152|1.111|GB|England|59
+Coton|52.211|0.061|GB|England|59
+Laxfield|52.302|1.366|GB|England|59
+Guemps|50.916|1.998|FR|Hauts-de-France|59
+Tillingham|51.697|0.882|GB|England|59
+Bayenghem-lès-Éperlecques|50.808|2.121|FR|Hauts-de-France|59
+Candas|50.107|2.259|FR|Hauts-de-France|59
+Ferfay|50.519|2.425|FR|Hauts-de-France|59
+East Hoathly|50.925|0.163|GB|England|59
+Fauquembergues|50.601|2.099|FR|Hauts-de-France|59
+Crowhurst|50.885|0.495|GB|England|59
+Sedlescombe|50.934|0.534|GB|England|59
+Sheering|51.804|0.185|GB|England|59
+Drucat|50.145|1.872|FR|Hauts-de-France|59
+Cheveley|52.220|0.464|GB|England|59
+Mendlesham|52.250|1.081|GB|England|59
+Clavering|51.965|0.143|GB|England|59
+Earsham|52.452|1.419|GB|England|59
+Bethersden|51.129|0.753|GB|England|59
+Cavendish|52.087|0.634|GB|England|59
+Thiennes|50.651|2.467|FR|Hauts-de-France|59
+Écuires|50.449|1.763|FR|Hauts-de-France|59
+Barton Mills|52.335|0.521|GB|England|59
+Risby|52.264|0.633|GB|England|59
+Ailly-le-Haut-Clocher|50.079|1.994|FR|Hauts-de-France|59
+Addington|51.307|0.374|GB|England|59
+Wallon-Cappel|50.727|2.474|FR|Hauts-de-France|59
+Vauchelles-les-Quesnoy|50.100|1.883|FR|Hauts-de-France|59
+Braughing|51.907|0.028|GB|England|59
+Gauchin-Verloingt|50.396|2.312|FR|Hauts-de-France|59
+Lanchères|50.159|1.555|FR|Hauts-de-France|59
+Ecquemicourt|50.402|1.950|FR|Hauts-de-France|59
+Great Waltham|51.794|0.457|GB|England|59
+Brasted|51.277|0.111|GB|England|59
+Arrest|50.131|1.615|FR|Hauts-de-France|58
+Panfield|51.899|0.521|GB|England|58
+Swaffham Prior|52.254|0.296|GB|England|58
+Alquines|50.741|1.993|FR|Hauts-de-France|58
+Balinghem|50.861|1.944|FR|Hauts-de-France|58
+North Fambridge|51.643|0.675|GB|England|58
+Saint-Pierre-Brouck|50.896|2.187|FR|Hauts-de-France|58
+Abberton|51.834|0.911|GB|England|58
+Shotley|51.969|1.250|GB|England|58
+Wrentham|52.384|1.667|GB|England|58
+Alfriston|50.808|0.157|GB|England|58
+Blackmore|51.693|0.319|GB|England|58
+Fiennes|50.827|1.825|FR|Hauts-de-France|58
+Tincques|50.359|2.493|FR|Hauts-de-France|58
+Condé-Folie|50.009|2.012|FR|Hauts-de-France|58
+Old Newton|52.223|1.000|GB|England|58
+Great Finborough|52.181|0.943|GB|England|58
+Nielles-lès-Bléquin|50.674|2.031|FR|Hauts-de-France|58
+Mersham|51.119|0.933|GB|England|58
+Conchil-le-Temple|50.369|1.664|FR|Hauts-de-France|58
+Buire-le-Sec|50.384|1.833|FR|Hauts-de-France|58
+Wailly-Beaucamp|50.411|1.726|FR|Hauts-de-France|58
+Worlingworth|52.269|1.254|GB|England|58
+Belloy|50.095|1.540|FR|Hauts-de-France|58
+Shoreham|51.333|0.178|GB|England|58
+La Comté|50.426|2.492|FR|Hauts-de-France|58
+Fyfield|51.741|0.270|GB|England|58
+Rubrouck|50.839|2.357|FR|Hauts-de-France|58
+Old Buckenham|52.481|1.041|GB|England|58
+Fressingfield|52.347|1.318|GB|England|58
+Benenden|51.067|0.581|GB|England|58
+Frant|51.098|0.272|GB|England|58
+Horringer|52.224|0.673|GB|England|58
+Wittersham|51.014|0.708|GB|England|58
+Barkway|52.002|0.015|GB|England|58
+Aubin-Saint-Vaast|50.395|1.973|FR|Hauts-de-France|58
+Hitcham|52.124|0.894|GB|England|58
+Neuville-sous-Montreuil|50.475|1.777|FR|Hauts-de-France|58
+Wierre-Effroy|50.778|1.737|FR|Hauts-de-France|58
+Sproughton|52.062|1.095|GB|England|58
+Badwell Ash|52.283|0.917|GB|England|58
+Nibas|50.102|1.589|FR|Hauts-de-France|58
+Pulham St Mary|52.423|1.249|GB|England|58
+Floringhem|50.496|2.425|FR|Hauts-de-France|58
+Lower Stoke|51.453|0.635|GB|England|58
+Blangy-sur-Ternoise|50.422|2.169|FR|Hauts-de-France|58
+Noyelles-sur-Mer|50.186|1.707|FR|Hauts-de-France|58
+Staplecross|50.974|0.536|GB|England|58
+Anvin|50.446|2.254|FR|Hauts-de-France|58
+Sellindge|51.103|1.005|GB|England|58
+Hundon|52.110|0.536|GB|England|58
+Louches|50.830|2.006|FR|Hauts-de-France|58
+High Easter|51.808|0.349|GB|England|58
+Saint-Hilaire-Cottes|50.571|2.413|FR|Hauts-de-France|58
+Ashley|52.226|0.484|GB|England|57
+Woignarue|50.110|1.495|FR|Hauts-de-France|57
+Borden|51.334|0.700|GB|England|57
+Tours-en-Vimeu|50.035|1.684|FR|Hauts-de-France|57
+Elnes|50.689|2.126|FR|Hauts-de-France|57
+Great Totham|51.786|0.711|GB|England|57
+Dohem|50.639|2.186|FR|Hauts-de-France|57
+Vron|50.315|1.755|FR|Hauts-de-France|57
+Le Parcq|50.379|2.098|FR|Hauts-de-France|57
+Yoxford|52.268|1.507|GB|England|57
+Cambron|50.111|1.770|FR|Hauts-de-France|57
+Frencq|50.561|1.699|FR|Hauts-de-France|57
+Bourseville|50.106|1.526|FR|Hauts-de-France|57
+Pulham Market|52.430|1.230|GB|England|57
+Ourton|50.457|2.481|FR|Hauts-de-France|57
+Brimeux|50.443|1.835|FR|Hauts-de-France|57
+Kenninghall|52.435|0.997|GB|England|57
+Beyton|52.234|0.830|GB|England|57
+Orford|52.096|1.534|GB|England|57
+Wittes|50.670|2.391|FR|Hauts-de-France|57
+Finchingfield|51.968|0.451|GB|England|57
+Huppy|50.025|1.764|FR|Hauts-de-France|57
+Ickleton|52.072|0.177|GB|England|57
+Attin|50.487|1.746|FR|Hauts-de-France|57
+Penshurst|51.173|0.183|GB|England|57
+Swaffham Bulbeck|52.238|0.277|GB|England|57
+Bouvaincourt-sur-Bresle|50.030|1.492|FR|Hauts-de-France|57
+Lode|52.241|0.244|GB|England|57
+Stetchworth|52.200|0.400|GB|England|57
+Woodton|52.495|1.376|GB|England|57
+Colembert|50.745|1.844|FR|Hauts-de-France|57
+Great Oakley|51.903|1.188|GB|England|57
+Hastingwood|51.748|0.151|GB|England|57
+Wicken|52.313|0.297|GB|England|57
+Mondicourt|50.172|2.462|FR|Hauts-de-France|57
+Audresselles|50.825|1.594|FR|Hauts-de-France|57
+Noordpeene|50.807|2.400|FR|Hauts-de-France|57
+Rolvenden|51.051|0.631|GB|England|57
+Wethersfield|51.954|0.489|GB|England|57
+Friaucourt|50.089|1.476|FR|Hauts-de-France|57
+Wirwignes|50.685|1.761|FR|Hauts-de-France|57
+Gazeley|52.249|0.518|GB|England|57
+Ford End|51.825|0.431|GB|England|57
+Castle Camps|52.063|0.380|GB|England|57
+Rubempré|50.019|2.385|FR|Hauts-de-France|57
+Ellingham|52.481|1.488|GB|England|57
+Diéval|50.435|2.450|FR|Hauts-de-France|57
+Huchenneville|50.051|1.800|FR|Hauts-de-France|57
+Valines|50.076|1.623|FR|Hauts-de-France|57
+Crémarest|50.700|1.785|FR|Hauts-de-France|57
+Manuden|51.919|0.167|GB|England|57
+Otley|52.151|1.220|GB|England|57
+Aigneville|50.035|1.621|FR|Hauts-de-France|57
+Hauxton|52.149|0.102|GB|England|57
+Lydden|51.163|1.235|GB|England|57
+Clairmarais|50.774|2.300|FR|Hauts-de-France|57
+Tully|50.086|1.518|FR|Hauts-de-France|57
+Gislingham|52.304|1.042|GB|England|57
+Lawshall|52.155|0.728|GB|England|57
+Millam|50.855|2.249|FR|Hauts-de-France|56
+Framfield|50.963|0.128|GB|England|56
+Barley|52.026|0.039|GB|England|56
+Detling|51.295|0.570|GB|England|56
+Goldhanger|51.748|0.752|GB|England|56
+Great Wilbraham|52.193|0.267|GB|England|56
+Pernois|50.053|2.187|FR|Hauts-de-France|56
+Quiestède|50.681|2.333|FR|Hauts-de-France|56
+Blessy|50.616|2.332|FR|Hauts-de-France|56
+Hopton|52.373|0.927|GB|England|56
+Hesdigneul-lès-Boulogne|50.661|1.662|FR|Hauts-de-France|56
+Thorndon|52.283|1.133|GB|England|56
+Nordausques|50.818|2.081|FR|Hauts-de-France|56
+Setques|50.712|2.159|FR|Hauts-de-France|56
+Menneville|50.679|1.866|FR|Hauts-de-France|56
+Acquin-Westbécourt|50.728|2.090|FR|Hauts-de-France|56
+Bardwell|52.326|0.848|GB|England|56
+Dry Drayton|52.242|0.018|GB|England|56
+Woodham Mortimer|51.709|0.623|GB|England|56
+Catsfield|50.897|0.452|GB|England|56
+Long|50.041|1.979|FR|Hauts-de-France|56
+Moyenneville|50.071|1.750|FR|Hauts-de-France|56
+Thiembronne|50.621|2.059|FR|Hauts-de-France|56
+Worth|51.256|1.348|GB|England|56
+Saint-Tricat|50.893|1.831|FR|Hauts-de-France|56
+Zudausques|50.749|2.148|FR|Hauts-de-France|56
+Staple|50.749|2.454|FR|Hauts-de-France|56
+Bouquehault|50.826|1.903|FR|Hauts-de-France|56
+Lynde|50.713|2.421|FR|Hauts-de-France|56
+Bonnières|50.243|2.261|FR|Hauts-de-France|56
+Boubers-sur-Canche|50.290|2.236|FR|Hauts-de-France|56
+North Lopham|52.404|0.992|GB|England|56
+Bomy|50.574|2.235|FR|Hauts-de-France|56
+Coddenham|52.146|1.117|GB|England|56
+Great Tey|51.899|0.749|GB|England|56
+Caours|50.130|1.887|FR|Hauts-de-France|56
+Lynsted|51.312|0.786|GB|England|56
+Lucheux|50.197|2.413|FR|Hauts-de-France|56
+Roëllecourt|50.368|2.387|FR|Hauts-de-France|56
+Landrethun-lès-Ardres|50.825|1.960|FR|Hauts-de-France|56
+Gouy-Saint-André|50.375|1.899|FR|Hauts-de-France|56
+Smarden|51.149|0.687|GB|England|56
+Bonningues-lès-Ardres|50.793|2.015|FR|Hauts-de-France|56
+Canaples|50.056|2.219|FR|Hauts-de-France|56
+Upstreet|51.325|1.194|GB|England|56
+Plaxtol|51.258|0.296|GB|England|56
+Lisbourg|50.507|2.217|FR|Hauts-de-France|56
+Stutton|51.970|1.132|GB|England|56
+Bréxent-Énocq|50.510|1.731|FR|Hauts-de-France|56
+Miannay|50.097|1.719|FR|Hauts-de-France|56
+Chedburgh|52.190|0.617|GB|England|56
+Peuplingues|50.914|1.765|FR|Hauts-de-France|56
+Birchanger|51.884|0.192|GB|England|56
+Crochte|50.935|2.387|FR|Hauts-de-France|56
+Shepreth|52.112|0.033|GB|England|55
+Littlebury|52.035|0.210|GB|England|55
+Pakenham|52.271|0.821|GB|England|55
+Audincthun|50.583|2.133|FR|Hauts-de-France|55
+Fienvillers|50.118|2.229|FR|Hauts-de-France|55
+Rickling Green|51.947|0.195|GB|England|55
+Great Sampford|51.992|0.391|GB|England|55
+Courset|50.646|1.842|FR|Hauts-de-France|55
+Bonningues-lès-Calais|50.890|1.774|FR|Hauts-de-France|55
+Embreville|50.029|1.542|FR|Hauts-de-France|55
+Hollesley|52.050|1.431|GB|England|55
+Lederzeele|50.820|2.302|FR|Hauts-de-France|55
+Campagne-lès-Boulonnais|50.613|1.995|FR|Hauts-de-France|55
+Fressin|50.450|2.050|FR|Hauts-de-France|55
+Coyecques|50.604|2.183|FR|Hauts-de-France|55
+Merckeghem|50.861|2.297|FR|Hauts-de-France|55
+Créquy|50.494|2.055|FR|Hauts-de-France|55
+Épagne-Épagnette|50.072|1.873|FR|Hauts-de-France|55
+Hildenborough|51.229|0.244|GB|England|55
+Ulcombe|51.211|0.645|GB|England|55
+La Calotterie|50.475|1.727|FR|Hauts-de-France|55
+Quesques|50.704|1.933|FR|Hauts-de-France|55
+Henley|52.118|1.150|GB|England|55
+Polincove|50.848|2.091|FR|Hauts-de-France|55
+Burston|52.405|1.141|GB|England|55
+Hucqueliers|50.568|1.906|FR|Hauts-de-France|55
+Quesnoy-le-Montant|50.111|1.689|FR|Hauts-de-France|55
+Witternesse|50.609|2.361|FR|Hauts-de-France|55
+Peldon|51.813|0.886|GB|England|55
+Audinghen|50.852|1.613|FR|Hauts-de-France|55
+Ponthoile|50.214|1.711|FR|Hauts-de-France|55
+Chrishall|52.034|0.106|GB|England|55
+Yzengremer|50.061|1.522|FR|Hauts-de-France|55
+Wickhambrook|52.171|0.548|GB|England|55
+Ashdon|52.055|0.313|GB|England|55
+Bourthes|50.606|1.934|FR|Hauts-de-France|55
+Furneux Pelham|51.931|0.081|GB|England|55
+Saint-Inglevert|50.875|1.745|FR|Hauts-de-France|55
+Seninghem|50.702|2.032|FR|Hauts-de-France|55
+Belle-et-Houllefort|50.744|1.759|FR|Hauts-de-France|55
+Stow cum Quy|52.223|0.225|GB|England|55
+Garboldisham|52.395|0.947|GB|England|55
+Grantchester|52.181|0.091|GB|England|55
+Campigneulles-les-Petites|50.444|1.735|FR|Hauts-de-France|55
+Verchocq|50.564|2.041|FR|Hauts-de-France|55
+Ebblinghem|50.732|2.410|FR|Hauts-de-France|55
+Hepworth|52.333|0.913|GB|England|55
+Carly|50.652|1.703|FR|Hauts-de-France|55
+Cléty|50.653|2.186|FR|Hauts-de-France|55
+Heuchin|50.475|2.270|FR|Hauts-de-France|55
+Buigny-Saint-Maclou|50.155|1.813|FR|Hauts-de-France|55
+Widford|51.823|0.059|GB|England|55
+Ames|50.541|2.415|FR|Hauts-de-France|55
+Franleu|50.099|1.641|FR|Hauts-de-France|55
+Wismes|50.654|2.071|FR|Hauts-de-France|55
+Mentque-Nortbécourt|50.783|2.086|FR|Hauts-de-France|55
+Bourecq|50.572|2.432|FR|Hauts-de-France|54
+Margaretting|51.690|0.415|GB|England|54
+Rodmell|50.839|0.016|GB|England|54
+Bucklesham|52.030|1.269|GB|England|54
+Ledringhem|50.856|2.442|FR|Hauts-de-France|54
+Purleigh|51.687|0.658|GB|England|54
+Worlington|52.335|0.487|GB|England|54
+Valhuon|50.434|2.378|FR|Hauts-de-France|54
+Bouin-Plumoison|50.383|1.983|FR|Hauts-de-France|54
+Avroult|50.633|2.147|FR|Hauts-de-France|54
+Mellis|52.330|1.080|GB|England|54
+Occold|52.293|1.159|GB|England|54
+Bours|50.454|2.409|FR|Hauts-de-France|54
+Chippenham|52.302|0.436|GB|England|54
+Ligny-lès-Aire|50.557|2.349|FR|Hauts-de-France|54
+Merck-Saint-Liévin|50.625|2.116|FR|Hauts-de-France|54
+Peasenhall|52.271|1.451|GB|England|54
+Recques-sur-Hem|50.834|2.088|FR|Hauts-de-France|54
+Fillièvres|50.317|2.158|FR|Hauts-de-France|54
+Maisnières|50.015|1.618|FR|Hauts-de-France|54
+Acheux-en-Vimeu|50.065|1.676|FR|Hauts-de-France|54
+Coupelle-Vieille|50.524|2.100|FR|Hauts-de-France|54
+Stoke by Clare|52.062|0.538|GB|England|54
+Boismont|50.152|1.685|FR|Hauts-de-France|54
+Ridgewell|52.039|0.532|GB|England|54
+Febvin-Palfart|50.538|2.315|FR|Hauts-de-France|54
+Ouve-Wirquin|50.648|2.137|FR|Hauts-de-France|54
+Monks Eleigh|52.092|0.868|GB|England|54
+Preures|50.573|1.880|FR|Hauts-de-France|54
+Widdington|51.961|0.237|GB|England|54
+Hérissart|50.027|2.416|FR|Hauts-de-France|54
+Volckerinckhove|50.839|2.305|FR|Hauts-de-France|54
+Winfarthing|52.431|1.098|GB|England|54
+West Wratting|52.143|0.347|GB|England|54
+Salperwick|50.774|2.232|FR|Hauts-de-France|54
+Barton|52.183|0.058|GB|England|0
+Bexleyheath|51.463|0.139|GB|England|0
+Boxley|51.302|0.542|GB|England|0
+Brockley|52.160|0.668|GB|England|0
+Bromley|51.406|0.015|GB|England|0
+Cooling|51.455|0.524|GB|England|0
+East Ham|51.533|0.050|GB|England|0
+Ivychurch|51.013|0.889|GB|England|0
+Leigh-on-Sea|51.543|0.649|GB|England|0
+Snetterton|52.476|0.929|GB|England|0
+Upper Stoke|51.447|0.618|GB|England|0
+Wentworth|52.385|0.175|GB|England|0
+Woolwich|51.491|0.065|GB|England|0

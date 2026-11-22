@@ -1,0 +1,630 @@
+Marseille|43.297|5.381|FR|Provence-Alpes-Côte d'Azur|119
+Nice|43.703|7.266|FR|Provence-Alpes-Côte d'Azur|111
+Toulon|43.124|5.928|FR|Provence-Alpes-Côte d'Azur|105
+Aix-en-Provence|43.528|5.450|FR|Provence-Alpes-Côte d'Azur|103
+Antibes|43.581|7.125|FR|Provence-Alpes-Côte d'Azur|98
+Cannes|43.551|7.013|FR|Provence-Alpes-Côte d'Azur|97
+La Seyne-sur-Mer|43.103|5.878|FR|Provence-Alpes-Côte d'Azur|96
+Juan-les-Pins|43.569|7.113|FR|Provence-Alpes-Côte d'Azur|96
+Fréjus|43.433|6.736|FR|Provence-Alpes-Côte d'Azur|95
+Hyères|43.120|6.129|FR|Provence-Alpes-Côte d'Azur|94
+Grasse|43.658|6.925|FR|Provence-Alpes-Côte d'Azur|94
+Cagnes-sur-Mer|43.664|7.148|FR|Provence-Alpes-Côte d'Azur|93
+Martigues|43.407|5.055|FR|Provence-Alpes-Côte d'Azur|93
+Aubagne|43.293|5.571|FR|Provence-Alpes-Côte d'Azur|93
+Le Cannet|43.577|7.019|FR|Provence-Alpes-Côte d'Azur|93
+Gap|44.559|6.079|FR|Provence-Alpes-Côte d'Azur|93
+Salon-de-Provence|43.642|5.095|FR|Provence-Alpes-Côte d'Azur|92
+Vitrolles|43.460|5.249|FR|Provence-Alpes-Côte d'Azur|92
+Draguignan|43.537|6.465|FR|Provence-Alpes-Côte d'Azur|92
+Marignane|43.417|5.215|FR|Provence-Alpes-Côte d'Azur|91
+Saint-Raphaël|43.423|6.774|FR|Provence-Alpes-Côte d'Azur|91
+Six-Fours-les-Plages|43.092|5.825|FR|Provence-Alpes-Côte d'Azur|91
+La Ciotat|43.175|5.604|FR|Provence-Alpes-Côte d'Azur|90
+Monaco|43.737|7.421|MC|Municipality of Monaco|90
+Pinerolo|44.885|7.331|IT|Piedmont|90
+Carpentras|44.055|5.048|FR|Provence-Alpes-Côte d'Azur|89
+Saint-Laurent-du-Var|43.673|7.190|FR|Provence-Alpes-Côte d'Azur|89
+La Garde|43.125|6.010|FR|Provence-Alpes-Côte d'Azur|89
+Vallauris|43.578|7.055|FR|Provence-Alpes-Côte d'Azur|89
+Cavaillon|43.831|5.036|FR|Provence-Alpes-Côte d'Azur|89
+Miramas|43.585|5.003|FR|Provence-Alpes-Côte d'Azur|88
+La Valette-du-Var|43.138|5.983|FR|Provence-Alpes-Côte d'Azur|87
+Allauch|43.336|5.482|FR|Provence-Alpes-Côte d'Azur|87
+Manosque|43.829|5.787|FR|Provence-Alpes-Côte d'Azur|87
+Gardanne|43.455|5.469|FR|Provence-Alpes-Côte d'Azur|87
+Pertuis|43.694|5.503|FR|Provence-Alpes-Côte d'Azur|86
+Les Pennes-Mirabeau|43.410|5.308|FR|Provence-Alpes-Côte d'Azur|86
+Mandelieu-la-Napoule|43.546|6.937|FR|Provence-Alpes-Côte d'Azur|86
+Sanary-sur-Mer|43.120|5.802|FR|Provence-Alpes-Côte d'Azur|86
+Digne-les-Bains|44.093|6.232|FR|Provence-Alpes-Côte d'Azur|86
+Mougins|43.601|6.995|FR|Provence-Alpes-Côte d'Azur|86
+Vence|43.723|7.112|FR|Provence-Alpes-Côte d'Azur|85
+La Crau|43.150|6.074|FR|Provence-Alpes-Côte d'Azur|85
+L'Isle-sur-la-Sorgue|43.920|5.051|FR|Provence-Alpes-Côte d'Azur|85
+Piossasco|44.988|7.460|IT|Piedmont|85
+Saluzzo|44.647|7.493|IT|Piedmont|84
+Saint-Maximin-la-Sainte-Baume|43.448|5.861|FR|Provence-Alpes-Côte d'Azur|84
+Brignoles|43.406|6.062|FR|Provence-Alpes-Côte d'Azur|84
+Villeneuve-Loubet|43.658|7.122|FR|Provence-Alpes-Côte d'Azur|83
+Berre-l'Étang|43.478|5.170|FR|Provence-Alpes-Côte d'Azur|83
+Ollioules|43.140|5.848|FR|Provence-Alpes-Côte d'Azur|83
+Sainte-Maxime|43.309|6.638|FR|Provence-Alpes-Côte d'Azur|83
+Pasteur|43.721|7.283|FR|Provence-Alpes-Côte d'Azur|83
+Beausoleil|43.743|7.423|FR|Provence-Alpes-Côte d'Azur|83
+Bouc-Bel-Air|43.452|5.413|FR|Provence-Alpes-Côte d'Azur|82
+Valbonne|43.633|6.999|FR|Provence-Alpes-Côte d'Azur|82
+Roquebrune-sur-Argens|43.443|6.638|FR|Provence-Alpes-Côte d'Azur|82
+Le Pradet|43.105|6.024|FR|Provence-Alpes-Côte d'Azur|82
+Rognac|43.488|5.234|FR|Provence-Alpes-Côte d'Azur|82
+Saint-Cyr-sur-Mer|43.180|5.701|FR|Provence-Alpes-Côte d'Azur|82
+Solliès-Pont|43.190|6.041|FR|Provence-Alpes-Côte d'Azur|82
+Roquebrune-Cap-Martin|43.764|7.482|FR|Provence-Alpes-Côte d'Azur|81
+Apt|43.876|5.396|FR|Provence-Alpes-Côte d'Azur|81
+Briançon|44.900|6.642|FR|Provence-Alpes-Côte d'Azur|81
+Châteauneuf-les-Martigues|43.384|5.164|FR|Provence-Alpes-Côte d'Azur|81
+Borgo San Dalmazzo|44.338|7.493|IT|Piedmont|81
+Plan-de-Cuques|43.348|5.464|FR|Provence-Alpes-Côte d'Azur|81
+Carros|43.792|7.187|FR|Provence-Alpes-Côte d'Azur|81
+Pernes-les-Fontaines|43.998|5.059|FR|Provence-Alpes-Côte d'Azur|81
+Septèmes-les-Vallons|43.398|5.366|FR|Provence-Alpes-Côte d'Azur|80
+La Trinité|43.740|7.314|FR|Provence-Alpes-Côte d'Azur|80
+Carabacel|43.708|7.279|FR|Provence-Alpes-Côte d'Azur|80
+Auriol|43.372|5.634|FR|Provence-Alpes-Côte d'Azur|80
+Cogolin|43.253|6.530|FR|Provence-Alpes-Côte d'Azur|80
+Trets|43.448|5.683|FR|Provence-Alpes-Côte d'Azur|80
+La Londe-les-Maures|43.138|6.234|FR|Provence-Alpes-Côte d'Azur|80
+Mouans-Sartoux|43.621|6.971|FR|Provence-Alpes-Côte d'Azur|79
+Carqueiranne|43.095|6.073|FR|Provence-Alpes-Côte d'Azur|79
+Gignac-la-Nerthe|43.393|5.236|FR|Provence-Alpes-Côte d'Azur|79
+Sophia Antipolis|43.622|7.047|FR|Provence-Alpes-Côte d'Azur|79
+Pélissanne|43.633|5.152|FR|Provence-Alpes-Côte d'Azur|79
+Cuers|43.238|6.072|FR|Provence-Alpes-Côte d'Azur|79
+Le Beausset|43.198|5.803|FR|Provence-Alpes-Côte d'Azur|79
+Bandol|43.142|5.747|FR|Provence-Alpes-Côte d'Azur|79
+Crest|44.726|5.015|FR|Auvergne-Rhône-Alpes|79
+Le Muy|43.473|6.566|FR|Provence-Alpes-Côte d'Azur|79
+Cassis|43.216|5.539|FR|Provence-Alpes-Côte d'Azur|78
+Lorgues|43.493|6.362|FR|Provence-Alpes-Côte d'Azur|78
+Roquevaire|43.350|5.604|FR|Provence-Alpes-Côte d'Azur|78
+Cabriès|43.441|5.379|FR|Provence-Alpes-Côte d'Azur|78
+Lambesc|43.654|5.262|FR|Provence-Alpes-Côte d'Azur|78
+Velaux|43.528|5.257|FR|Provence-Alpes-Côte d'Azur|78
+Le Luc|43.395|6.313|FR|Provence-Alpes-Côte d'Azur|78
+Vidauban|43.427|6.432|FR|Provence-Alpes-Côte d'Azur|78
+Venelles|43.599|5.480|FR|Provence-Alpes-Côte d'Azur|78
+Fuveau|43.456|5.561|FR|Provence-Alpes-Côte d'Azur|78
+Biot|43.629|7.095|FR|Provence-Alpes-Côte d'Azur|78
+Libération|43.712|7.262|FR|Provence-Alpes-Côte d'Azur|78
+Sausset-les-Pins|43.331|5.104|FR|Provence-Alpes-Côte d'Azur|78
+Sisteron|44.190|5.946|FR|Provence-Alpes-Côte d'Azur|78
+Éguilles|43.569|5.356|FR|Provence-Alpes-Côte d'Azur|77
+Peymeinade|43.642|6.876|FR|Provence-Alpes-Côte d'Azur|77
+Nyons|44.361|5.141|FR|Auvergne-Rhône-Alpes|77
+Villefranche-sur-Mer|43.704|7.311|FR|Provence-Alpes-Côte d'Azur|77
+Saint-Victoret|43.420|5.234|FR|Provence-Alpes-Côte d'Azur|77
+Embrun|44.564|6.495|FR|Provence-Alpes-Côte d'Azur|77
+Carnoux-en-Provence|43.256|5.564|FR|Provence-Alpes-Côte d'Azur|77
+Lançon-Provence|43.593|5.128|FR|Provence-Alpes-Côte d'Azur|77
+La Colle-sur-Loup|43.686|7.104|FR|Provence-Alpes-Côte d'Azur|77
+Saint-Mandrier-sur-Mer|43.078|5.929|FR|Provence-Alpes-Côte d'Azur|77
+Puget-sur-Argens|43.456|6.685|FR|Provence-Alpes-Côte d'Azur|77
+La Farlède|43.169|6.043|FR|Provence-Alpes-Côte d'Azur|77
+Saint-Chamas|43.550|5.035|FR|Provence-Alpes-Côte d'Azur|77
+Contes|43.813|7.314|FR|Provence-Alpes-Côte d'Azur|77
+Bormes-les-Mimosas|43.152|6.342|FR|Provence-Alpes-Côte d'Azur|77
+La Fare-les-Oliviers|43.551|5.194|FR|Provence-Alpes-Côte d'Azur|76
+La Gaude|43.722|7.153|FR|Provence-Alpes-Côte d'Azur|76
+Eyguières|43.695|5.031|FR|Provence-Alpes-Côte d'Azur|76
+Carry-le-Rouet|43.331|5.152|FR|Provence-Alpes-Côte d'Azur|76
+Chabeuil|44.898|5.014|FR|Auvergne-Rhône-Alpes|76
+La Penne-sur-Huveaune|43.282|5.516|FR|Provence-Alpes-Côte d'Azur|76
+Vaison-la-Romaine|44.239|5.075|FR|Provence-Alpes-Côte d'Azur|76
+Sénas|43.744|5.078|FR|Provence-Alpes-Côte d'Azur|76
+Pégomas|43.597|6.932|FR|Provence-Alpes-Côte d'Azur|76
+Saint-Tropez|43.268|6.640|FR|Provence-Alpes-Côte d'Azur|75
+Les Arcs|43.463|6.479|FR|Provence-Alpes-Côte d'Azur|75
+Le Lavandou|43.137|6.366|FR|Provence-Alpes-Côte d'Azur|75
+Saint-Mitre-les-Remparts|43.455|5.014|FR|Provence-Alpes-Côte d'Azur|75
+Gémenos|43.298|5.628|FR|Provence-Alpes-Côte d'Azur|75
+Cavalaire-sur-Mer|43.173|6.530|FR|Provence-Alpes-Côte d'Azur|75
+Airali|44.817|7.252|IT|Piedmont|75
+Busca|44.516|7.477|IT|Piedmont|75
+Simiane-Collongue|43.431|5.435|FR|Provence-Alpes-Côte d'Azur|75
+Cumiana|44.976|7.378|IT|Piedmont|75
+La Roque-d'Anthéron|43.715|5.310|FR|Provence-Alpes-Côte d'Azur|75
+Dronero|44.465|7.362|IT|Piedmont|75
+Mazan|44.057|5.127|FR|Provence-Alpes-Côte d'Azur|74
+Mallemort|43.732|5.179|FR|Provence-Alpes-Côte d'Azur|74
+Garéoult|43.328|6.046|FR|Provence-Alpes-Côte d'Azur|74
+Trans-en-Provence|43.503|6.486|FR|Provence-Alpes-Côte d'Azur|74
+La Mure|44.901|5.789|FR|Auvergne-Rhône-Alpes|74
+Peypin|43.385|5.578|FR|Provence-Alpes-Côte d'Azur|74
+La Bouilladisse|43.396|5.593|FR|Provence-Alpes-Côte d'Azur|74
+Le Puy-Sainte-Réparade|43.664|5.435|FR|Provence-Alpes-Côte d'Azur|74
+Cap-d'Ail|43.721|7.406|FR|Provence-Alpes-Côte d'Azur|74
+Roquefort-la-Bédoule|43.249|5.590|FR|Provence-Alpes-Côte d'Azur|74
+Verzuolo|44.593|7.482|IT|Piedmont|74
+Die|44.754|5.370|FR|Auvergne-Rhône-Alpes|74
+Saint-Cannat|43.621|5.298|FR|Provence-Alpes-Côte d'Azur|74
+Pierrefeu-du-Var|43.224|6.145|FR|Provence-Alpes-Côte d'Azur|74
+Ventabren|43.538|5.295|FR|Provence-Alpes-Côte d'Azur|74
+Solliès-Toucas|43.206|6.025|FR|Provence-Alpes-Côte d'Azur|74
+Ensuès-la-Redonne|43.355|5.204|FR|Provence-Alpes-Côte d'Azur|74
+Forcalquier|43.959|5.779|FR|Provence-Alpes-Côte d'Azur|73
+Montauroux|43.618|6.765|FR|Provence-Alpes-Côte d'Azur|73
+La Roquette-sur-Siagne|43.599|6.957|FR|Provence-Alpes-Côte d'Azur|73
+Meyreuil|43.488|5.496|FR|Provence-Alpes-Côte d'Azur|73
+Fayence|43.626|6.695|FR|Provence-Alpes-Côte d'Azur|73
+Saint-Zacharie|43.385|5.708|FR|Provence-Alpes-Côte d'Azur|73
+Mimet|43.414|5.506|FR|Provence-Alpes-Côte d'Azur|73
+Drap|43.755|7.322|FR|Provence-Alpes-Côte d'Azur|73
+Rognes|43.664|5.347|FR|Provence-Alpes-Côte d'Azur|73
+Oraison|43.917|5.918|FR|Provence-Alpes-Côte d'Azur|73
+Aubignan|44.100|5.025|FR|Provence-Alpes-Côte d'Azur|73
+Saint-André-de-la-Roche|43.733|7.283|FR|Provence-Alpes-Côte d'Azur|73
+Pourrières|43.506|5.735|FR|Provence-Alpes-Côte d'Azur|73
+Flayosc|43.534|6.397|FR|Provence-Alpes-Côte d'Azur|73
+Tourrette-Levens|43.786|7.276|FR|Provence-Alpes-Côte d'Azur|73
+Caraglio|44.417|7.433|IT|Piedmont|73
+Cadenet|43.735|5.373|FR|Provence-Alpes-Côte d'Azur|72
+Grimaud|43.273|6.522|FR|Provence-Alpes-Côte d'Azur|72
+Robion|43.847|5.110|FR|Provence-Alpes-Côte d'Azur|72
+Rousset|43.483|5.620|FR|Provence-Alpes-Côte d'Azur|72
+Le Castellet|43.203|5.777|FR|Provence-Alpes-Côte d'Azur|72
+Le Rove|43.370|5.251|FR|Provence-Alpes-Côte d'Azur|72
+Peyrolles-en-Provence|43.645|5.585|FR|Provence-Alpes-Côte d'Azur|72
+Tourrettes-sur-Loup|43.716|7.059|FR|Provence-Alpes-Côte d'Azur|72
+Torre Pellice|44.821|7.217|IT|Piedmont|72
+Grans|43.609|5.063|FR|Provence-Alpes-Côte d'Azur|72
+Le Cannet-des-Maures|43.392|6.340|FR|Provence-Alpes-Côte d'Azur|72
+Barge|44.728|7.323|IT|Piedmont|72
+Villar Perosa|44.918|7.248|IT|Piedmont|72
+Rians|43.607|5.757|FR|Provence-Alpes-Côte d'Azur|72
+Cuges-les-Pins|43.276|5.700|FR|Provence-Alpes-Côte d'Azur|72
+Vigone|44.842|7.498|IT|Piedmont|72
+Le Val|43.439|6.073|FR|Provence-Alpes-Côte d'Azur|72
+Levens|43.859|7.226|FR|Provence-Alpes-Côte d'Azur|72
+Beaulieu-sur-Mer|43.707|7.331|FR|Provence-Alpes-Côte d'Azur|72
+Ceyreste|43.214|5.629|FR|Provence-Alpes-Côte d'Azur|72
+Cheval-Blanc|43.802|5.062|FR|Provence-Alpes-Côte d'Azur|72
+Saint-Jeannet|43.747|7.143|FR|Provence-Alpes-Côte d'Azur|72
+Gréasque|43.433|5.544|FR|Provence-Alpes-Côte d'Azur|71
+Le Revest-les-Eaux|43.176|5.927|FR|Provence-Alpes-Côte d'Azur|71
+Gattières|43.760|7.176|FR|Provence-Alpes-Côte d'Azur|71
+Tourves|43.408|5.924|FR|Provence-Alpes-Côte d'Azur|71
+Salernes|43.563|6.234|FR|Provence-Alpes-Côte d'Azur|71
+Gonfaron|43.320|6.289|FR|Provence-Alpes-Côte d'Azur|71
+Airasca|44.917|7.483|IT|Piedmont|71
+Le Rouret|43.679|7.015|FR|Provence-Alpes-Côte d'Azur|71
+Pierrevert|43.811|5.750|FR|Provence-Alpes-Côte d'Azur|71
+Laragne-Montéglin|44.317|5.817|FR|Provence-Alpes-Côte d'Azur|71
+Jouques|43.637|5.637|FR|Provence-Alpes-Côte d'Azur|71
+Barcelonnette|44.387|6.652|FR|Provence-Alpes-Côte d'Azur|71
+Villeneuve|44.945|6.565|FR|Provence-Alpes-Côte d'Azur|71
+Meyrargues|43.637|5.527|FR|Provence-Alpes-Côte d'Azur|71
+Nans-les-Pins|43.371|5.782|FR|Provence-Alpes-Côte d'Azur|71
+Sainte-Tulle|43.786|5.765|FR|Provence-Alpes-Côte d'Azur|71
+Saint-Cézaire-sur-Siagne|43.650|6.792|FR|Provence-Alpes-Côte d'Azur|71
+Manta|44.616|7.487|IT|Piedmont|71
+Puget-Ville|43.290|6.136|FR|Provence-Alpes-Côte d'Azur|70
+Lauris|43.747|5.313|FR|Provence-Alpes-Côte d'Azur|70
+Caromb|44.111|5.107|FR|Provence-Alpes-Côte d'Azur|70
+Villeneuve|43.894|5.863|FR|Provence-Alpes-Côte d'Azur|70
+Vinon-sur-Verdon|43.725|5.812|FR|Provence-Alpes-Côte d'Azur|70
+Veynes|44.534|5.823|FR|Provence-Alpes-Côte d'Azur|70
+Rocbaron|43.309|6.079|FR|Provence-Alpes-Côte d'Azur|70
+Dieulefit|44.526|5.062|FR|Auvergne-Rhône-Alpes|70
+La Turbie|43.745|7.400|FR|Provence-Alpes-Côte d'Azur|70
+Montélier|44.934|5.031|FR|Auvergne-Rhône-Alpes|70
+Colomars|43.763|7.222|FR|Provence-Alpes-Côte d'Azur|70
+Gargas|43.902|5.358|FR|Provence-Alpes-Côte d'Azur|70
+Châteauneuf-Grasse|43.667|6.983|FR|Provence-Alpes-Côte d'Azur|70
+Villelaure|43.711|5.434|FR|Provence-Alpes-Côte d'Azur|70
+Les Mées|44.030|5.976|FR|Provence-Alpes-Côte d'Azur|70
+Peynier|43.448|5.641|FR|Provence-Alpes-Côte d'Azur|70
+La Croix-Valmer|43.208|6.568|FR|Provence-Alpes-Côte d'Azur|70
+Sospel|43.878|7.448|FR|Provence-Alpes-Côte d'Azur|70
+Velleron|43.957|5.029|FR|Provence-Alpes-Côte d'Azur|70
+Coudoux|43.558|5.249|FR|Provence-Alpes-Côte d'Azur|70
+Bédoin|44.124|5.180|FR|Provence-Alpes-Côte d'Azur|70
+Pignans|43.301|6.226|FR|Provence-Alpes-Côte d'Azur|70
+Saint-Paul-de-Vence|43.700|7.117|FR|Provence-Alpes-Côte d'Azur|69
+Orgon|43.791|5.039|FR|Provence-Alpes-Côte d'Azur|69
+Cavour|44.793|7.374|IT|Piedmont|69
+Gassin|43.229|6.585|FR|Provence-Alpes-Côte d'Azur|69
+Perosa Argentina|44.959|7.192|IT|Piedmont|69
+Le Tignet|43.640|6.846|FR|Provence-Alpes-Côte d'Azur|69
+Volx|43.878|5.841|FR|Provence-Alpes-Côte d'Azur|69
+Carnoules|43.302|6.187|FR|Provence-Alpes-Côte d'Azur|69
+Le Bar-sur-Loup|43.700|6.983|FR|Provence-Alpes-Côte d'Azur|69
+Carcès|43.476|6.183|FR|Provence-Alpes-Côte d'Azur|69
+Auribeau-sur-Siagne|43.601|6.910|FR|Provence-Alpes-Côte d'Azur|69
+Malaucène|44.174|5.132|FR|Provence-Alpes-Côte d'Azur|69
+Piscina|44.919|7.425|IT|Piedmont|69
+Bagnolo Piemonte|44.760|7.314|IT|Piedmont|69
+Bricherasio|44.823|7.303|IT|Piedmont|69
+Costigliole Saluzzo|44.565|7.485|IT|Piedmont|69
+Flassans-sur-Issole|43.369|6.222|FR|Provence-Alpes-Côte d'Azur|69
+Saint-Savournin|43.408|5.527|FR|Provence-Alpes-Côte d'Azur|69
+Callian|43.622|6.753|FR|Provence-Alpes-Côte d'Azur|68
+Barjols|43.558|6.008|FR|Provence-Alpes-Côte d'Azur|68
+Èze|43.728|7.362|FR|Provence-Alpes-Côte d'Azur|68
+La Destrousse|43.375|5.606|FR|Provence-Alpes-Côte d'Azur|68
+Le Plan-de-la-Tour|43.333|6.550|FR|Provence-Alpes-Côte d'Azur|68
+La Motte|43.494|6.535|FR|Provence-Alpes-Côte d'Azur|68
+Piasco|44.561|7.444|IT|Piedmont|68
+Saint-Saturnin-lès-Apt|43.933|5.383|FR|Provence-Alpes-Côte d'Azur|68
+Buis-les-Baronnies|44.276|5.272|FR|Auvergne-Rhône-Alpes|68
+Valensole|43.838|5.984|FR|Provence-Alpes-Côte d'Azur|68
+Frossasco|44.922|7.371|IT|Piedmont|68
+Roccavione|44.314|7.478|IT|Piedmont|68
+Figanières|43.569|6.497|FR|Provence-Alpes-Côte d'Azur|68
+Guillestre|44.660|6.649|FR|Provence-Alpes-Côte d'Azur|68
+L'Escarène|43.835|7.355|FR|Provence-Alpes-Côte d'Azur|68
+Le Tholonet|43.522|5.511|FR|Provence-Alpes-Côte d'Azur|68
+Peyruis|44.029|5.940|FR|Provence-Alpes-Côte d'Azur|68
+Bibiana|44.799|7.288|IT|Piedmont|67
+Saint-Vallier-de-Thiey|43.698|6.848|FR|Provence-Alpes-Côte d'Azur|67
+Ramatuelle|43.216|6.612|FR|Provence-Alpes-Côte d'Azur|67
+Seillans|43.636|6.643|FR|Provence-Alpes-Côte d'Azur|67
+Saint-Martin-du-Var|43.818|7.191|FR|Provence-Alpes-Côte d'Azur|67
+Montferrat|43.612|6.481|FR|Provence-Alpes-Côte d'Azur|67
+Gordes|43.913|5.199|FR|Provence-Alpes-Côte d'Azur|67
+Alixan|44.974|5.029|FR|Auvergne-Rhône-Alpes|67
+Solliès-Ville|43.183|6.038|FR|Provence-Alpes-Côte d'Azur|67
+Signes|43.291|5.863|FR|Provence-Alpes-Côte d'Azur|67
+Cotignac|43.529|6.150|FR|Provence-Alpes-Côte d'Azur|67
+Revello|44.655|7.390|IT|Piedmont|67
+Charleval|43.719|5.245|FR|Provence-Alpes-Côte d'Azur|67
+Beaumes-de-Venise|44.122|5.031|FR|Provence-Alpes-Côte d'Azur|67
+Alleins|43.704|5.162|FR|Provence-Alpes-Côte d'Azur|67
+Cadolive|43.397|5.545|FR|Provence-Alpes-Côte d'Azur|67
+Saint-Jean-Cap-Ferrat|43.688|7.334|FR|Provence-Alpes-Côte d'Azur|67
+Aouste-sur-Sye|44.718|5.054|FR|Auvergne-Rhône-Alpes|67
+Peille|43.803|7.402|FR|Provence-Alpes-Côte d'Azur|67
+Châteauneuf-le-Rouge|43.489|5.569|FR|Provence-Alpes-Côte d'Azur|67
+Aups|43.628|6.225|FR|Provence-Alpes-Côte d'Azur|66
+Opio|43.669|6.982|FR|Provence-Alpes-Côte d'Azur|66
+Cantalupa|44.946|7.330|IT|Piedmont|66
+Aspremont|43.783|7.244|FR|Provence-Alpes-Côte d'Azur|66
+Pinasca-Dubbione|44.943|7.229|IT|Piedmont|66
+Évenos|43.164|5.846|FR|Provence-Alpes-Côte d'Azur|66
+Gréoux-les-Bains|43.758|5.884|FR|Provence-Alpes-Côte d'Azur|66
+La Roquebrussanne|43.340|5.976|FR|Provence-Alpes-Côte d'Azur|66
+Chorges|44.549|6.277|FR|Provence-Alpes-Côte d'Azur|66
+Loriol-du-Comtat|44.077|5.001|FR|Provence-Alpes-Côte d'Azur|66
+Saint-Didier|44.004|5.111|FR|Provence-Alpes-Côte d'Azur|66
+Cucuron|43.773|5.439|FR|Provence-Alpes-Côte d'Azur|66
+Mérindol|43.755|5.204|FR|Provence-Alpes-Côte d'Azur|66
+Besse-sur-Issole|43.349|6.177|FR|Provence-Alpes-Côte d'Azur|66
+Taillades|43.838|5.090|FR|Provence-Alpes-Côte d'Azur|66
+Paesana|44.683|7.276|IT|Piedmont|66
+Bras|43.472|5.955|FR|Provence-Alpes-Côte d'Azur|66
+Belgentier|43.245|5.999|FR|Provence-Alpes-Côte d'Azur|65
+Puget-Théniers|43.956|6.894|FR|Provence-Alpes-Côte d'Azur|65
+Tallard|44.462|6.052|FR|Provence-Alpes-Côte d'Azur|65
+La Bâtie-Neuve|44.567|6.196|FR|Provence-Alpes-Côte d'Azur|65
+Lamanon|43.700|5.089|FR|Provence-Alpes-Côte d'Azur|65
+Bagnols-en-Forêt|43.538|6.698|FR|Provence-Alpes-Côte d'Azur|65
+La Motte-d'Aveillans|44.960|5.744|FR|Auvergne-Rhône-Alpes|65
+Forcalqueiret|43.336|6.083|FR|Provence-Alpes-Côte d'Azur|65
+Cercenasco|44.862|7.498|IT|Piedmont|65
+Riez|43.818|6.093|FR|Provence-Alpes-Côte d'Azur|65
+La Garde-Freinet|43.317|6.469|FR|Provence-Alpes-Côte d'Azur|65
+Taradeau|43.454|6.427|FR|Provence-Alpes-Côte d'Azur|65
+Néoules|43.308|6.008|FR|Provence-Alpes-Côte d'Azur|65
+Malijai|44.046|6.030|FR|Provence-Alpes-Côte d'Azur|65
+Saint-Chaffrey|44.926|6.608|FR|Provence-Alpes-Côte d'Azur|65
+Falicon|43.749|7.279|FR|Provence-Alpes-Côte d'Azur|65
+Maubec|43.844|5.139|FR|Provence-Alpes-Côte d'Azur|65
+Mormoiron|44.068|5.183|FR|Provence-Alpes-Côte d'Azur|64
+Sainte-Anastasie-sur-Issole|43.343|6.125|FR|Provence-Alpes-Côte d'Azur|64
+Puyloubier|43.525|5.676|FR|Provence-Alpes-Côte d'Azur|64
+Bernezzo|44.385|7.436|IT|Piedmont|64
+Collobrières|43.237|6.309|FR|Provence-Alpes-Côte d'Azur|64
+Le Thoronet|43.452|6.304|FR|Provence-Alpes-Côte d'Azur|64
+La Motte-Saint-Martin|44.951|5.718|FR|Auvergne-Rhône-Alpes|64
+Saint-Julien|43.691|5.907|FR|Provence-Alpes-Côte d'Azur|64
+Castellane|43.847|6.513|FR|Provence-Alpes-Côte d'Azur|64
+Volonne|44.110|6.014|FR|Provence-Alpes-Côte d'Azur|64
+Saint-Bonnet-en-Champsaur|44.683|6.083|FR|Provence-Alpes-Côte d'Azur|64
+Lagnes|43.893|5.115|FR|Provence-Alpes-Côte d'Azur|64
+Roquebillière|44.012|7.307|FR|Provence-Alpes-Côte d'Azur|64
+Cabris|43.656|6.874|FR|Provence-Alpes-Côte d'Azur|64
+Belcodène|43.426|5.589|FR|Provence-Alpes-Côte d'Azur|64
+Villar-Saint-Pancrace|44.873|6.627|FR|Provence-Alpes-Côte d'Azur|64
+Scalenghe|44.890|7.494|IT|Piedmont|64
+Callas|43.593|6.538|FR|Provence-Alpes-Côte d'Azur|64
+Riva|44.893|7.382|IT|Piedmont|63
+San Germano Chisone|44.902|7.237|IT|Piedmont|63
+Roccabruna|44.475|7.344|IT|Piedmont|63
+Vignolo|44.364|7.472|IT|Piedmont|63
+San Secondo di Pinerolo|44.866|7.298|IT|Piedmont|63
+Mirabel-aux-Baronnies|44.310|5.100|FR|Auvergne-Rhône-Alpes|63
+Seyne-les-Alpes|44.350|6.356|FR|Provence-Alpes-Côte d'Azur|63
+Reillanne|43.879|5.659|FR|Provence-Alpes-Côte d'Azur|63
+Tanneron|43.591|6.875|FR|Provence-Alpes-Côte d'Azur|63
+Castagniers|43.791|7.232|FR|Provence-Alpes-Côte d'Azur|63
+Cabasse|43.426|6.219|FR|Provence-Alpes-Côte d'Azur|63
+Camps-la-Source|43.386|6.096|FR|Provence-Alpes-Côte d'Azur|63
+Goult|43.863|5.244|FR|Provence-Alpes-Côte d'Azur|63
+Sablet|44.193|5.006|FR|Provence-Alpes-Côte d'Azur|63
+Bonnieux|43.824|5.308|FR|Provence-Alpes-Côte d'Azur|63
+Méounes-lès-Montrieux|43.281|5.970|FR|Provence-Alpes-Côte d'Azur|63
+Théoule-sur-Mer|43.508|6.941|FR|Provence-Alpes-Côte d'Azur|63
+Saint-Martin-Vésubie|44.069|7.256|FR|Provence-Alpes-Côte d'Azur|63
+Mens|44.816|5.751|FR|Auvergne-Rhône-Alpes|62
+Vernègues|43.686|5.172|FR|Provence-Alpes-Côte d'Azur|62
+Bargemon|43.619|6.550|FR|Provence-Alpes-Côte d'Azur|62
+Oppède le Vieux|43.828|5.161|FR|Provence-Alpes-Côte d'Azur|62
+Saint-Étienne-de-Tinée|44.256|6.925|FR|Provence-Alpes-Côte d'Azur|62
+Cantaron|43.762|7.318|FR|Provence-Alpes-Côte d'Azur|62
+Blausasc|43.806|7.365|FR|Provence-Alpes-Côte d'Azur|62
+Gilette|43.850|7.163|FR|Provence-Alpes-Côte d'Azur|62
+Prarostino|44.866|7.268|IT|Piedmont|62
+Pierre-Châtel|44.957|5.775|FR|Auvergne-Rhône-Alpes|62
+Serres|44.428|5.715|FR|Provence-Alpes-Côte d'Azur|62
+Berre-les-Alpes|43.831|7.329|FR|Provence-Alpes-Côte d'Azur|62
+L'Escale|44.082|6.024|FR|Provence-Alpes-Côte d'Azur|62
+Malemort-du-Comtat|44.021|5.160|FR|Provence-Alpes-Côte d'Azur|62
+Peillon|43.779|7.383|FR|Provence-Alpes-Côte d'Azur|62
+Roussillon|43.902|5.293|FR|Provence-Alpes-Côte d'Azur|62
+Sault|44.090|5.408|FR|Provence-Alpes-Côte d'Azur|62
+San Pietro Val Lemina|44.907|7.311|IT|Piedmont|62
+Mane|43.938|5.767|FR|Provence-Alpes-Côte d'Azur|62
+Cornillon-Confoux|43.563|5.072|FR|Provence-Alpes-Côte d'Azur|62
+Saint-Paul-en-Forêt|43.567|6.692|FR|Provence-Alpes-Côte d'Azur|62
+La Celle|43.395|6.037|FR|Provence-Alpes-Côte d'Azur|62
+Régusse|43.655|6.132|FR|Provence-Alpes-Côte d'Azur|62
+Venasca|44.561|7.397|IT|Piedmont|62
+Céreste|43.856|5.587|FR|Provence-Alpes-Côte d'Azur|62
+San Rocco|44.397|7.472|IT|Piedmont|62
+Gorbio|43.787|7.444|FR|Provence-Alpes-Côte d'Azur|62
+Sanfront|44.647|7.322|IT|Piedmont|62
+Lourmarin|43.764|5.363|FR|Provence-Alpes-Côte d'Azur|61
+Demonte|44.316|7.298|IT|Piedmont|61
+Villecroze|43.582|6.276|FR|Provence-Alpes-Côte d'Azur|61
+Plan-d'Aups-Sainte-Baume|43.333|5.717|FR|Provence-Alpes-Côte d'Azur|61
+Grambois|43.762|5.589|FR|Provence-Alpes-Côte d'Azur|61
+Rougiers|43.392|5.851|FR|Provence-Alpes-Côte d'Azur|61
+Peipin|44.138|5.957|FR|Provence-Alpes-Côte d'Azur|61
+Saint-Michel-l'Observatoire|43.910|5.716|FR|Provence-Alpes-Côte d'Azur|61
+Sainte-Agnès|43.801|7.462|FR|Provence-Alpes-Côte d'Azur|61
+Cervasca|44.381|7.471|IT|Piedmont|61
+Saint-Marc-Jaumegarde|43.547|5.523|FR|Provence-Alpes-Côte d'Azur|61
+Ansouis|43.738|5.464|FR|Provence-Alpes-Côte d'Azur|61
+San Defendente|44.391|7.491|IT|Piedmont|61
+La Bastide-des-Jourdans|43.785|5.634|FR|Provence-Alpes-Côte d'Azur|61
+Le Monêtier-les-Bains|44.976|6.509|FR|Provence-Alpes-Côte d'Azur|61
+Villes-sur-Auzon|44.057|5.234|FR|Provence-Alpes-Côte d'Azur|61
+Lucéram|43.883|7.360|FR|Provence-Alpes-Côte d'Azur|61
+Annot|43.965|6.669|FR|Provence-Alpes-Côte d'Azur|61
+Vinsobres|44.333|5.062|FR|Auvergne-Rhône-Alpes|61
+Ginasservis|43.671|5.849|FR|Provence-Alpes-Côte d'Azur|61
+Lantosque|43.974|7.312|FR|Provence-Alpes-Côte d'Azur|61
+Le Broc|43.809|7.169|FR|Provence-Alpes-Côte d'Azur|61
+Ménerbes|43.832|5.206|FR|Provence-Alpes-Côte d'Azur|61
+Mallemoisson|44.047|6.126|FR|Provence-Alpes-Côte d'Azur|60
+Luserna|44.807|7.246|IT|Piedmont|60
+Venasque|43.996|5.147|FR|Provence-Alpes-Côte d'Azur|60
+Jausiers|44.417|6.729|FR|Provence-Alpes-Côte d'Azur|60
+La Roche-des-Arnauds|44.562|5.955|FR|Provence-Alpes-Côte d'Azur|60
+Saignon|43.863|5.428|FR|Provence-Alpes-Côte d'Azur|60
+Beaumont-de-Pertuis|43.737|5.690|FR|Provence-Alpes-Côte d'Azur|60
+Saint-Martin-de-Queyrières|44.823|6.579|FR|Provence-Alpes-Côte d'Azur|60
+Spéracèdes|43.648|6.859|FR|Provence-Alpes-Côte d'Azur|60
+Le Brusquet|44.161|6.309|FR|Provence-Alpes-Côte d'Azur|60
+Monestier-de-Clermont|44.919|5.635|FR|Auvergne-Rhône-Alpes|60
+Châteauroux-les-Alpes|44.615|6.521|FR|Provence-Alpes-Côte d'Azur|60
+Pourcieux|43.471|5.785|FR|Provence-Alpes-Côte d'Azur|60
+Bésayes|44.966|5.076|FR|Auvergne-Rhône-Alpes|60
+Tavernes|43.594|6.017|FR|Provence-Alpes-Côte d'Azur|60
+La Saulce|44.425|6.007|FR|Provence-Alpes-Côte d'Azur|60
+Pomaretto|44.956|7.181|IT|Piedmont|60
+Mirabeau|43.704|5.656|FR|Provence-Alpes-Côte d'Azur|60
+Mollans-sur-Ouvèze|44.237|5.190|FR|Auvergne-Rhône-Alpes|60
+Châteauneuf-Villevieille|43.808|7.297|FR|Provence-Alpes-Côte d'Azur|60
+Saillans|44.695|5.183|FR|Auvergne-Rhône-Alpes|60
+Charpey|44.938|5.094|FR|Auvergne-Rhône-Alpes|60
+Séguret|44.206|5.023|FR|Provence-Alpes-Côte d'Azur|60
+Brue-Auriac|43.529|5.943|FR|Provence-Alpes-Côte d'Azur|60
+Varages|43.597|5.960|FR|Provence-Alpes-Côte d'Azur|60
+Tettorosso|44.473|7.343|IT|Piedmont|60
+Montfort-sur-Argens|43.473|6.120|FR|Provence-Alpes-Côte d'Azur|59
+Saint-Jean|44.670|6.217|FR|Provence-Alpes-Côte d'Azur|59
+Brossasco|44.568|7.365|IT|Piedmont|59
+Banon|44.038|5.628|FR|Provence-Alpes-Côte d'Azur|59
+Vénosc|44.990|6.116|FR|Auvergne-Rhône-Alpes|59
+Entrecasteaux|43.516|6.242|FR|Provence-Alpes-Côte d'Azur|59
+Saint-Blaise|43.822|7.238|FR|Provence-Alpes-Côte d'Azur|59
+Saint-Étienne-les-Orgues|44.045|5.780|FR|Provence-Alpes-Côte d'Azur|59
+Entrechaux|44.218|5.138|FR|Provence-Alpes-Côte d'Azur|59
+Montvendre|44.871|5.025|FR|Auvergne-Rhône-Alpes|59
+Savines-le-Lac|44.526|6.404|FR|Provence-Alpes-Côte d'Azur|59
+Mison|44.265|5.840|FR|Provence-Alpes-Côte d'Azur|59
+Entrevaux|43.950|6.810|FR|Provence-Alpes-Côte d'Azur|59
+Le Poët-Laval|44.537|5.015|FR|Auvergne-Rhône-Alpes|59
+Bendejun|43.836|7.294|FR|Provence-Alpes-Côte d'Azur|59
+Saint-André-les-Alpes|43.968|6.508|FR|Provence-Alpes-Côte d'Azur|59
+Saint-Barthélemy|45.000|5.629|FR|Auvergne-Rhône-Alpes|59
+Saint-Antonin-du-Var|43.507|6.287|FR|Provence-Alpes-Côte d'Azur|59
+Orcières|44.685|6.325|FR|Provence-Alpes-Côte d'Azur|59
+Castellar|43.804|7.497|FR|Provence-Alpes-Côte d'Azur|59
+Mirabel-et-Blacons|44.713|5.108|FR|Auvergne-Rhône-Alpes|59
+Dauphin|43.898|5.782|FR|Provence-Alpes-Côte d'Azur|59
+La Roquette-sur-Var|43.828|7.199|FR|Provence-Alpes-Côte d'Azur|59
+Corbières-en-Provence|43.761|5.751|FR|Provence-Alpes-Côte d'Azur|59
+La Verdière|43.639|5.935|FR|Provence-Alpes-Côte d'Azur|59
+Saint-Honoré|44.943|5.816|FR|Auvergne-Rhône-Alpes|59
+Sestriere|44.959|6.878|IT|Piedmont|58
+La Brillanne|43.927|5.891|FR|Provence-Alpes-Côte d'Azur|58
+Valdeblore|44.071|7.172|FR|Provence-Alpes-Côte d'Azur|58
+Ampus|43.607|6.382|FR|Provence-Alpes-Côte d'Azur|58
+Saint-Paul-lès-Durance|43.685|5.708|FR|Provence-Alpes-Côte d'Azur|58
+Rochefort-Samson|44.971|5.151|FR|Auvergne-Rhône-Alpes|58
+La Môle|43.207|6.467|FR|Provence-Alpes-Côte d'Azur|58
+Villar Pellice|44.809|7.160|IT|Piedmont|58
+La Chapelle-en-Vercors|44.967|5.418|FR|Auvergne-Rhône-Alpes|58
+Piégros-la-Clastre|44.681|5.099|FR|Auvergne-Rhône-Alpes|58
+Cardè|44.744|7.478|IT|Piedmont|58
+Saint-Romain-en-Viennois|44.258|5.109|FR|Provence-Alpes-Côte d'Azur|58
+Martiniana Po|44.627|7.363|IT|Piedmont|58
+Envie|44.682|7.372|IT|Piedmont|58
+Rifreddo|44.651|7.346|IT|Piedmont|58
+Saint-Christol|44.029|5.492|FR|Provence-Alpes-Côte d'Azur|58
+Vauvenargues|43.555|5.599|FR|Provence-Alpes-Côte d'Azur|58
+Champtercier|44.095|6.161|FR|Provence-Alpes-Côte d'Azur|57
+Inverso Pinasca|44.946|7.218|IT|Piedmont|57
+Buriasco|44.872|7.412|IT|Piedmont|57
+Roletto|44.924|7.332|IT|Piedmont|57
+La Roche-de-Rame|44.750|6.580|FR|Provence-Alpes-Côte d'Azur|57
+Mons|43.691|6.714|FR|Provence-Alpes-Côte d'Azur|57
+La Bastidonne|43.701|5.567|FR|Provence-Alpes-Côte d'Azur|57
+Ribiers|44.231|5.857|FR|Provence-Alpes-Côte d'Azur|57
+Saumane-de-Vaucluse|43.936|5.106|FR|Provence-Alpes-Côte d'Azur|57
+Correns|43.488|6.080|FR|Provence-Alpes-Côte d'Azur|57
+Entracque|44.240|7.398|IT|Piedmont|57
+Aspres-sur-Buëch|44.522|5.753|FR|Provence-Alpes-Côte d'Azur|57
+Thoard|44.150|6.148|FR|Provence-Alpes-Côte d'Azur|57
+Claviers|43.602|6.564|FR|Provence-Alpes-Côte d'Azur|57
+Péone|44.117|6.906|FR|Provence-Alpes-Côte d'Azur|57
+Saint-Maime|43.904|5.792|FR|Provence-Alpes-Côte d'Azur|57
+Villars|43.923|5.406|FR|Provence-Alpes-Côte d'Azur|57
+Barbières|44.958|5.139|FR|Auvergne-Rhône-Alpes|57
+Saint-Martin-de-la-Brasque|43.770|5.537|FR|Provence-Alpes-Côte d'Azur|57
+Neffes|44.505|6.022|FR|Provence-Alpes-Côte d'Azur|57
+Marches|44.975|5.108|FR|Auvergne-Rhône-Alpes|57
+Vallouise|44.846|6.489|FR|Provence-Alpes-Côte d'Azur|57
+Coaraze|43.864|7.295|FR|Provence-Alpes-Côte d'Azur|57
+Allos|44.241|6.629|FR|Provence-Alpes-Côte d'Azur|57
+Vars|44.598|6.692|FR|Provence-Alpes-Côte d'Azur|57
+Venterol|44.389|5.101|FR|Auvergne-Rhône-Alpes|57
+Roumoules|43.826|6.130|FR|Provence-Alpes-Côte d'Azur|57
+Risoul|44.648|6.639|FR|Provence-Alpes-Côte d'Azur|57
+La Barben|43.630|5.176|FR|Provence-Alpes-Côte d'Azur|57
+Moustiers-Sainte-Marie|43.846|6.222|FR|Provence-Alpes-Côte d'Azur|56
+Puimoisson|43.863|6.127|FR|Provence-Alpes-Côte d'Azur|56
+Ancelle|44.623|6.206|FR|Provence-Alpes-Côte d'Azur|56
+Haut Divajeu|44.704|5.017|FR|Auvergne-Rhône-Alpes|56
+Miradolo|44.874|7.304|IT|Piedmont|56
+Chabottes|44.655|6.176|FR|Provence-Alpes-Côte d'Azur|56
+Rustrel|43.924|5.485|FR|Provence-Alpes-Côte d'Azur|56
+Viotto|44.903|7.439|IT|Piedmont|56
+Saint-Martin-de-Castillon|43.860|5.511|FR|Provence-Alpes-Côte d'Azur|56
+Osasco|44.849|7.343|IT|Piedmont|56
+Sigoyer|44.478|5.976|FR|Provence-Alpes-Côte d'Azur|56
+Fontaine-de-Vaucluse|43.922|5.127|FR|Provence-Alpes-Côte d'Azur|56
+Mazaugues|43.348|5.922|FR|Provence-Alpes-Côte d'Azur|56
+Espinasses|44.466|6.230|FR|Provence-Alpes-Côte d'Azur|56
+Sinard|44.945|5.658|FR|Auvergne-Rhône-Alpes|56
+Roaix|44.246|5.017|FR|Provence-Alpes-Côte d'Azur|56
+Puget|43.755|5.269|FR|Provence-Alpes-Côte d'Azur|56
+Les Mayons|43.313|6.358|FR|Provence-Alpes-Côte d'Azur|56
+Rossana|44.545|7.432|IT|Piedmont|56
+Pontevès|43.554|6.029|FR|Provence-Alpes-Côte d'Azur|56
+Bonson|43.863|7.190|FR|Provence-Alpes-Côte d'Azur|56
+Cesana Torinese|44.953|6.792|IT|Piedmont|56
+Guillaumes|44.090|6.853|FR|Provence-Alpes-Côte d'Azur|56
+Porte|44.887|7.270|IT|Piedmont|56
+Vins-sur-Caramy|43.434|6.142|FR|Provence-Alpes-Côte d'Azur|56
+Le Barroux|44.136|5.100|FR|Provence-Alpes-Côte d'Azur|56
+Puyméras|44.271|5.128|FR|Provence-Alpes-Côte d'Azur|56
+Villars-sur-Var|43.937|7.097|FR|Provence-Alpes-Côte d'Azur|56
+Bourdeaux|44.586|5.136|FR|Auvergne-Rhône-Alpes|56
+Beaurecueil|43.512|5.546|FR|Provence-Alpes-Côte d'Azur|56
+Cruis|44.062|5.836|FR|Provence-Alpes-Côte d'Azur|56
+Isola|44.186|7.053|FR|Provence-Alpes-Côte d'Azur|55
+Châtillon-en-Diois|44.692|5.475|FR|Auvergne-Rhône-Alpes|55
+Beauregard|44.997|5.187|FR|Auvergne-Rhône-Alpes|55
+Vaunaveys-la-Rochette|44.767|5.033|FR|Auvergne-Rhône-Alpes|55
+Saint-Maurice-sur-Eygues|44.300|5.011|FR|Auvergne-Rhône-Alpes|55
+Gigondas|44.164|5.005|FR|Provence-Alpes-Côte d'Azur|55
+Mézel|43.996|6.196|FR|Provence-Alpes-Côte d'Azur|55
+Saint-Crépin|44.706|6.607|FR|Provence-Alpes-Côte d'Azur|55
+Bras-d'Asse|43.925|6.125|FR|Provence-Alpes-Côte d'Azur|55
+Revest-du-Bion|44.083|5.548|FR|Provence-Alpes-Côte d'Azur|55
+Puyvert|43.760|5.341|FR|Provence-Alpes-Côte d'Azur|55
+Simiane-la-Rotonde|43.981|5.563|FR|Provence-Alpes-Côte d'Azur|55
+Sampeyre|44.578|7.190|IT|Piedmont|55
+Campiglione|44.803|7.324|IT|Piedmont|55
+Ventavon|44.371|5.906|FR|Provence-Alpes-Côte d'Azur|55
+Aubignosc|44.130|5.969|FR|Provence-Alpes-Côte d'Azur|55
+Clans|43.996|7.148|FR|Provence-Alpes-Côte d'Azur|55
+Villedieu|44.284|5.035|FR|Provence-Alpes-Côte d'Azur|55
+Aurons|43.665|5.157|FR|Provence-Alpes-Côte d'Azur|55
+Montgenèvre|44.932|6.722|FR|Provence-Alpes-Côte d'Azur|55
+Le Dévoluy|44.694|5.941|FR|Provence-Alpes-Côte d'Azur|55
+Luc-en-Diois|44.615|5.452|FR|Auvergne-Rhône-Alpes|55
+Enchastrayes|44.367|6.695|FR|Provence-Alpes-Côte d'Azur|55
+Rosans|44.393|5.471|FR|Provence-Alpes-Côte d'Azur|54
+Viens|43.895|5.565|FR|Provence-Alpes-Côte d'Azur|54
+Peyrus|44.912|5.104|FR|Auvergne-Rhône-Alpes|54
+Belvédère|44.015|7.321|FR|Provence-Alpes-Côte d'Azur|54
+Pierrerue|43.956|5.833|FR|Provence-Alpes-Côte d'Azur|54
+La Motte-du-Caire|44.344|6.028|FR|Provence-Alpes-Côte d'Azur|54
+Tourtour|43.589|6.302|FR|Provence-Alpes-Côte d'Azur|54
+Macello|44.851|7.398|IT|Piedmont|54
+Saou|44.646|5.063|FR|Auvergne-Rhône-Alpes|54
+Sillans-la-Cascade|43.568|6.180|FR|Provence-Alpes-Côte d'Azur|54
+Roquesteron|43.867|7.000|FR|Provence-Alpes-Côte d'Azur|54
+Barrême|43.953|6.368|FR|Provence-Alpes-Côte d'Azur|54
+Châteaudouble|44.899|5.093|FR|Auvergne-Rhône-Alpes|54
+Utelle|43.917|7.247|FR|Provence-Alpes-Côte d'Azur|54
+Val-des-Prés|44.949|6.678|FR|Provence-Alpes-Côte d'Azur|54
+Valdieri|44.278|7.398|IT|Piedmont|54
+Gaiola|44.336|7.409|IT|Piedmont|54
+Villar San Costanzo|44.485|7.382|IT|Piedmont|54
+Roccasparvera|44.342|7.442|IT|Piedmont|52
+Bobbio Pellice|44.809|7.117|IT|Piedmont|52
+Vinadio|44.308|7.176|IT|Piedmont|52
+Pagno|44.612|7.426|IT|Piedmont|52
+Valgrana|44.412|7.381|IT|Piedmont|51
+Fleccia-Chianavasso|44.947|7.215|IT|Piedmont|51
+Lusernetta|44.803|7.247|IT|Piedmont|49
+San Damiano Macra|44.488|7.256|IT|Piedmont|49
+Garzigliana|44.837|7.374|IT|Piedmont|49
+Prali|44.889|7.051|IT|Piedmont|48
+Monterosso Grana|44.408|7.323|IT|Piedmont|48
+Pramollo|44.908|7.191|IT|Piedmont|48
+Perrero|44.938|7.113|IT|Piedmont|48
+Pradleves|44.418|7.281|IT|Piedmont|47
+Aisone|44.314|7.220|IT|Piedmont|47
+Moiola|44.321|7.390|IT|Piedmont|47
+Crissolo|44.700|7.156|IT|Piedmont|46
+Pontechianale|44.621|7.030|IT|Piedmont|46
+Melle|44.562|7.319|IT|Piedmont|46
+Frassino|44.572|7.275|IT|Piedmont|45
+Cartignano|44.478|7.286|IT|Piedmont|45
+Valloriate|44.338|7.374|IT|Piedmont|44
+Claviere|44.939|6.752|IT|Piedmont|44
+Rittana|44.351|7.398|IT|Piedmont|43
+Gambasca|44.630|7.347|IT|Piedmont|43
+Roaschia|44.270|7.456|IT|Piedmont|42
+Stroppo|44.507|7.127|IT|Piedmont|41
+Rorà|44.792|7.199|IT|Piedmont|40
+Castellar|44.621|7.437|IT|Piedmont|40
+Brondello|44.601|7.406|IT|Piedmont|40
+Casteldelfino|44.590|7.070|IT|Piedmont|39
+Sambuco|44.335|7.079|IT|Piedmont|39
+Pietraporzio|44.344|7.034|IT|Piedmont|38
+Ostana|44.693|7.189|IT|Piedmont|38
+Salza di Pinerolo|44.940|7.052|IT|Piedmont|38
+Massello|44.959|7.057|IT|Piedmont|37
+Acceglio|44.475|6.991|IT|Piedmont|37
+Bersezio|44.380|6.969|IT|Piedmont|36
+Sauze di Cesana|44.941|6.860|IT|Piedmont|36
+Isasca|44.588|7.382|IT|Piedmont|36
+Prazzo Superiore|44.483|7.055|IT|Piedmont|36
+Canosio|44.456|7.083|IT|Piedmont|32
+Macra|44.500|7.180|IT|Piedmont|31
+Montemale di Cuneo|44.437|7.375|IT|Piedmont|31
+Angrogna|44.844|7.224|IT|Piedmont|29
+Marmora|44.458|7.094|IT|Piedmont|28
+Oncino|44.677|7.190|IT|Piedmont|28
+Campomolino|44.409|7.212|IT|Piedmont|28
+Pleyne|44.581|7.017|IT|Piedmont|22
+Valmala|44.544|7.346|IT|Piedmont|22
+Serre|44.540|7.090|IT|Piedmont|21
+Chiesa di Macra|44.483|7.181|IT|Piedmont|19
+Condorcet|44.407|5.199|FR|Auvergne-Rhône-Alpes|0

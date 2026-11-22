@@ -29,9 +29,14 @@
  *   The dir must hold cities500.zip, admin1CodesASCII.txt, countryInfo.txt, allCountries.zip and
  *   alternateNamesV2.zip from https://download.geonames.org/export/dump/ (~650 MB; needs `unzip` on the PATH).
  *   Takes ~2 minutes and ~4 GB of memory.
+ *
+ *   With --add-regions, the list stays as it is and only gains the oblast rows it lacks (addRegions, ./regions.ts):
+ *   the way to add them without taking GeoNames' other edits since the last build, which a full build takes and which
+ *   have to be looked at first (see BAD_EDITS). --check-rewrite writes nothing and says
+ *   whether reading the list back and writing it again gives the same files, as --add-regions relies on.
  */
 import { spawn } from 'node:child_process'
-import { existsSync, mkdirSync, readFileSync, readdirSync, rmSync, writeFileSync } from 'node:fs'
+import { cpSync, existsSync, mkdirSync, readFileSync, readdirSync, rmSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
 import { createInterface } from 'node:readline'
 import { EXAMPLE_PLACES, SURPRISE_PLACES } from '../src/ui/landing/places'
@@ -41,7 +46,9 @@ import { oblastName } from './regions'
 import { compactKey, placeKey, SHARD_HEAD_PLACES, SHARD_MAX_PLACES, SHARD_MAX_PREFIX, shardOf, TILE_COLS, TILE_MAX_PLACES, TILE_ROWS, tileAt, tileFile, tileIndex } from '../src/imagery/placeKey'
 
 const SRC = process.argv[2]
-if (!SRC) throw new Error('usage: tsx scripts/build-places.ts <geonames dir>')
+if (!SRC) throw new Error('usage: tsx scripts/build-places.ts <geonames dir> [--add-regions | --check-rewrite]')
+const ADD_REGIONS = process.argv.includes('--add-regions')
+const CHECK_REWRITE = process.argv.includes('--check-rewrite')
 const OUT = 'public/places'
 const GEN = 'src/imagery/localPlaces.gen.ts'
 
@@ -55,6 +62,11 @@ const SKIP = new Set(['PPLH', 'PPLQ', 'PPLW', 'PPLCH', 'PPLR'])
  *   - the city districts added on 2026-11-14/16 with 10,000 people or more, Milan's and Kiel's Döse: named like
  *     better-known places (Washington, Padova, Corsica, Loreto, Isola, Selinunte), they took those places' searches
  *     (an Italian "Washington" opened a Milan neighbourhood, an English "Padova" one in place of Padua).
+ * A full build from GeoNames of 2026-11-19 would also take these, found harmful in review on 2026-11-22 (so the list
+ * took only its oblasts, with --add-regions): about 60 quarters of Erfurt, Weimar and Saalfeld given people and coded
+ * as towns (they named pins inside those cities, and "Marbach" opened one); wartime cuts to Kramatorsk, Slovyansk and
+ * Druzhkivka's people (pins in them went to the network); Eft, Saarland, given 9,405 people; and Monowitz recoded a
+ * historical site (it left the list). Look at each before the next full build.
  */
 const BAD_EDITS = new Set([
   '2338612',
@@ -82,6 +94,8 @@ interface Entry {
   pop: number
   kind: '' | 'r' | 'c' | 'f'
   section: boolean
+  /** A region kept under a name of its own where GeoNames' would have left it out (./regions.ts oblastName) */
+  oblast?: boolean
 }
 
 /**
@@ -125,6 +139,129 @@ const tsv = (file: string) =>
     .split('\n')
     .filter((l) => l && !l.startsWith('#'))
     .map((l) => l.split('\t'))
+
+interface Keyed {
+  /** The place's search key, compacted (placeKey.ts compactKey): which file it goes in */
+  key: string
+  line: string
+}
+
+/** A group's places as search files: one, or while larger than SHARD_MAX_PLACES its head and longer prefixes. */
+function emitShard(shards: Map<string, string[]>, prefix: string, list: Keyed[]) {
+  if (list.length <= SHARD_MAX_PLACES || prefix.length >= SHARD_MAX_PREFIX) {
+    shards.set(prefix, list.map((x) => x.line))
+    return
+  }
+  const short = list.filter((x) => x.key.length <= prefix.length)
+  const head = [...new Set([...list.slice(0, SHARD_HEAD_PLACES), ...short])].sort((a, b) => list.indexOf(a) - list.indexOf(b))
+  shards.set(`${prefix}_`, head.map((x) => x.line))
+  const next = new Map<string, Keyed[]>()
+  for (const x of list) {
+    if (x.key.length <= prefix.length) continue
+    const k = x.key.slice(0, prefix.length + 1)
+    const l = next.get(k) ?? []
+    l.push(x)
+    next.set(k, l)
+  }
+  for (const [k, l] of next) emitShard(shards, k, l)
+}
+
+/** A search file's line with its key, as the build gave it: by its name, or its ASCII name where that has none. */
+function keyedLine(line: string): Keyed {
+  const f = line.split('|')
+  const key = shardOf(placeKey(f[0])) ? placeKey(f[0]) : placeKey(f[7] ?? '')
+  return { key: compactKey(key), line }
+}
+
+const lineP = (x: Keyed) => Number(x.line.split('|')[5]) || 0
+
+/**
+ * A group's places in the order the build wrote them, read back from its files: a whole file, or a head file and the
+ * longer prefixes' (each in that order, the head's places first, the largest), merged by size.
+ */
+function readGroup(files: Map<string, string[]>, prefix: string): Keyed[] {
+  const whole = files.get(prefix)
+  if (whole) return whole.map(keyedLine)
+  const head = (files.get(`${prefix}_`) ?? []).map(keyedLine)
+  const subs = new Set(
+    [...files.keys()].filter((f) => f.startsWith(prefix) && f !== `${prefix}_`).map((f) => f.slice(0, prefix.length + 1)),
+  )
+  const inHead = new Set(head.map((x) => x.line))
+  const rest = [...subs].sort().flatMap((p) => readGroup(files, p).filter((x) => !inHead.has(x.line)))
+  return [...head, ...rest].map((x, i) => ({ x, i })).sort((a, b) => lineP(b.x) - lineP(a.x) || a.i - b.i).map((a) => a.x)
+}
+
+/**
+ * --add-regions: the list as it is (public/places/<its version>), with the oblast rows it lacks (Ukraine's oblasts
+ * GeoNames names after their capitals, ./regions.ts), each ranked below its capital as the list has it. Only
+ * the groups that take a row are written again, from their own rows in their own order; every other search file, the
+ * tiles and the landmarks are copied as they are, so nothing else a search, a pin or a link finds changes.
+ * --check-rewrite: write nothing; read every group back and write it again in memory, and say which files differ.
+ */
+function addRegions(regions: Entry[], line: (e: Entry, withAscii: boolean) => string) {
+  const [prevVersion, ...more] = readdirSync(OUT)
+  if (!prevVersion || more.length) throw new Error(`expected one list in ${OUT}`)
+  const prevDir = join(OUT, prevVersion)
+  const files = new Map<string, string[]>()
+  for (const f of readdirSync(join(prevDir, 's')))
+    files.set(f.replace(/\.txt$/, ''), readFileSync(join(prevDir, 's', f), 'utf8').split('\n').filter(Boolean))
+  const groupsOf = new Set([...files.keys()].map((f) => f.slice(0, 2)))
+  if (CHECK_REWRITE) {
+    const again = new Map<string, string[]>()
+    for (const g of groupsOf) emitShard(again, g, readGroup(files, g))
+    const differ = [...new Set([...files.keys(), ...again.keys()])].filter((f) => files.get(f)?.join('\n') !== again.get(f)?.join('\n'))
+    console.log(`${files.size} search files read back; ${differ.length} would differ${differ.length ? `: ${differ.join(' ')}` : ''}`)
+    return
+  }
+  const rows = [...files.values()].flat().map((l) => l.split('|'))
+  const had = new Set(rows.filter((f) => f[6] === 'r').map((f) => `${f[3]}|${f[0]}`))
+  const towns = rows.filter((f) => !f[6])
+  const added: Entry[] = []
+  for (const r of regions) {
+    if (had.has(`${r.cc}|${r.name}`)) continue
+    // An oblast named after its capital ranks below the capital as this list has it.
+    const bare = placeKey(r.name.replace(/ Oblast$/, ''))
+    const caps = towns.filter((f) => f[3] === r.cc && placeKey(f[0]) === bare && Math.abs(+f[1] - r.lat) < 0.9 && Math.abs(+f[2] - r.lon) < 1.5)
+    const p = caps.length ? Math.max(...caps.map((f) => Number(f[5]) || 0)) - 2 : undefined
+    added.push(p === undefined ? r : { ...r, pop: 10 ** (p / 20) })
+  }
+  const shards = new Map<string, string[]>()
+  const into = new Map<string, Keyed[]>()
+  for (const r of added) {
+    const x = keyedLine(line(r, false))
+    const g = x.key.slice(0, 2)
+    into.set(g, [...(into.get(g) ?? []), x])
+  }
+  for (const [f, l] of files) if (!into.has(f.slice(0, 2))) shards.set(f, l)
+  for (const [g, xs] of into) {
+    const list = readGroup(files, g)
+    for (const x of xs) {
+      const at = list.findIndex((y) => lineP(y) < lineP(x))
+      list.splice(at < 0 ? list.length : at, 0, x)
+    }
+    emitShard(shards, g, list)
+  }
+  const version = new Date().toISOString().slice(0, 16).replace(/[-:T]/g, '')
+  if (version === prevVersion) throw new Error('a list of this minute exists already')
+  mkdirSync(join(OUT, version, 's'), { recursive: true })
+  for (const [k, v] of shards) writeFileSync(join(OUT, version, 's', `${k}.txt`), v.join('\n') + '\n')
+  cpSync(join(prevDir, 't'), join(OUT, version, 't'), { recursive: true })
+  cpSync(join(prevDir, 'l.txt'), join(OUT, version, 'l.txt'))
+  rmSync(prevDir, { recursive: true })
+  const gen = readFileSync(GEN, 'utf8')
+  const count = Number(/(\d+) places in/.exec(gen)?.[1]) + added.length
+  const groups = [...shards.keys()].map((k) => k.slice(0, 2)).filter((k, i, a) => a.indexOf(k) === i).sort().join('')
+  const split = [...shards.keys()].filter((k) => k.endsWith('_')).map((k) => k.slice(0, -1)).sort().join(',')
+  writeFileSync(
+    GEN,
+    gen
+      .replace(/\d+ places in \d+ search files/, `${count} places in ${shards.size} search files`)
+      .replace(/PLACES_VERSION = '\d+'/, `PLACES_VERSION = '${version}'`)
+      .replace(/PLACE_GROUPS = '[a-z]*'/, `PLACE_GROUPS = '${groups}'`)
+      .replace(/PLACE_SPLIT = '[^']*'/, `PLACE_SPLIT = '${split}'`),
+  )
+  console.log(`${added.length} regions added (${added.map((r) => r.name).join(', ')}): ${into.size} groups written again → ${OUT}/${version}`)
+}
 
 async function main() {
   const admin1 = new Map<string, { name: string; id: string }>()
@@ -205,7 +342,7 @@ async function main() {
     // in part (Kherso) still finds the city first, which a row on its spot and larger would hide (geocode.ts dedupe).
     const below = capitals.length ? 0.8 * Math.max(...capitals.map((p) => p[2])) : Infinity
     const pop = Math.min(regionPop.get(code) ?? 0, below)
-    entries.push({ name, ascii: name, lat: c[0], lon: c[1], cc, admin1: '', pop, kind: 'r', section: false })
+    entries.push({ name, ascii: name, lat: c[0], lon: c[1], cc, admin1: '', pop, kind: 'r', section: false, oblast: name !== a.name })
   }
   for (const [cc, k] of countries) {
     const c = coords.get(k.id)
@@ -243,26 +380,9 @@ async function main() {
     list.push({ key: compactKey(key), line: line(e, withAscii) })
     groups.set(shard, list)
   }
+  if (ADD_REGIONS || CHECK_REWRITE) return addRegions(entries.filter((e) => e.oblast), line)
   const shards = new Map<string, string[]>()
-  const emit = (prefix: string, list: { key: string; line: string }[]) => {
-    if (list.length <= SHARD_MAX_PLACES || prefix.length >= SHARD_MAX_PREFIX) {
-      shards.set(prefix, list.map((x) => x.line))
-      return
-    }
-    const short = list.filter((x) => x.key.length <= prefix.length)
-    const head = [...new Set([...list.slice(0, SHARD_HEAD_PLACES), ...short])].sort((a, b) => list.indexOf(a) - list.indexOf(b))
-    shards.set(`${prefix}_`, head.map((x) => x.line))
-    const next = new Map<string, { key: string; line: string }[]>()
-    for (const x of list) {
-      if (x.key.length <= prefix.length) continue
-      const k = x.key.slice(0, prefix.length + 1)
-      const l = next.get(k) ?? []
-      l.push(x)
-      next.set(k, l)
-    }
-    for (const [k, l] of next) emit(k, l)
-  }
-  for (const [k, list] of groups) emit(k, list)
+  for (const [k, list] of groups) emitShard(shards, k, list)
   // Pin tiles: towns only. A tile with more than TILE_MAX_PLACES is written as its four quarters (placeKey.ts tileFile).
   const byTile = new Map<number, Entry[]>()
   for (const e of entries) {

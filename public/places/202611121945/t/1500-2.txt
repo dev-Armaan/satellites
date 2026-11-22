@@ -1,0 +1,647 @@
+Quezon City|14.649|121.051|PH|National Capital Region|130
+Caloocan|14.650|120.968|PH|National Capital Region|125
+Manila|14.604|120.982|PH|National Capital Region|124
+Taguig|14.524|121.079|PH|National Capital Region|122
+Antipolo|14.626|121.123|PH|Calabarzon|119
+Pasig City|14.587|121.061|PH|National Capital Region|119
+Valenzuela|14.700|120.967|PH|National Capital Region|117
+Paranaque City|14.482|121.017|PH|National Capital Region|117
+Las Piñas|14.451|120.983|PH|National Capital Region|116
+Calamba|14.212|121.165|PH|Calabarzon|115
+Muntinlupa|14.390|121.047|PH|Calabarzon|115
+Makati City|14.550|121.033|PH|National Capital Region|114
+Imus|14.430|120.937|PH|Calabarzon|114
+Marikina City|14.648|121.113|PH|National Capital Region|113
+Mandaluyong City|14.583|121.041|PH|National Capital Region|113
+Dasmariñas|14.329|120.937|PH|Calabarzon|113
+Mandaluyong|14.578|121.035|PH|National Capital Region|113
+Pasay|14.537|121.001|PH|National Capital Region|112
+Malabon|14.673|120.940|PH|National Capital Region|111
+San Jose del Monte|14.814|121.045|PH|Central Luzon|111
+Bacoor|14.459|120.939|PH|Calabarzon|111
+San Pedro|14.360|121.047|PH|Calabarzon|111
+Cabuyao|14.273|121.126|PH|Calabarzon|110
+San Pablo|14.068|121.326|PH|Calabarzon|110
+Biñan|14.343|121.081|PH|Calabarzon|110
+Cainta|14.579|121.122|PH|Calabarzon|109
+Malolos|14.844|120.810|PH|Central Luzon|109
+Bagong Silang|14.778|121.045|PH|National Capital Region|108
+Navotas|14.667|120.950|PH|National Capital Region|108
+Batangas|13.757|121.058|PH|Calabarzon|108
+Taytay|14.559|121.133|PH|Calabarzon|107
+Lucena|13.931|121.617|PH|Calabarzon|107
+Meycauayan|14.737|120.961|PH|Central Luzon|107
+Olongapo|14.829|120.283|PH|Central Luzon|107
+Binangonan|14.465|121.193|PH|Calabarzon|107
+Santa Rosa|14.312|121.111|PH|Calabarzon|107
+Commonwealth|14.697|121.080|PH|National Capital Region|107
+Lipa City|13.941|121.163|PH|Calabarzon|107
+Pandi|14.865|120.957|PH|Central Luzon|104
+Mariveles|14.434|120.486|PH|Central Luzon|104
+Guyong|14.836|120.978|PH|Central Luzon|104
+Norzagaray|14.911|121.049|PH|Central Luzon|103
+Candelaria|13.931|121.423|PH|Calabarzon|103
+Baliuag|14.955|120.897|PH|Central Luzon|103
+Angono|14.527|121.154|PH|Calabarzon|103
+Rodriguez|14.760|121.200|PH|Calabarzon|103
+San Mateo|14.698|121.124|PH|Calabarzon|103
+San Juan|14.600|121.033|PH|National Capital Region|103
+Rosario|13.632|121.221|PH|Calabarzon|102
+Pulong Santa Cruz|14.273|121.076|PH|Calabarzon|102
+Poblacion|14.379|121.025|PH|National Capital Region|102
+Hagonoy|14.834|120.733|PH|Central Luzon|102
+Calumpit|14.916|120.766|PH|Central Luzon|102
+Apalit|14.953|120.770|PH|Central Luzon|102
+Plaridel|14.887|120.857|PH|Central Luzon|102
+Silang|14.216|120.971|PH|Calabarzon|102
+Guiguinto|14.833|120.883|PH|Central Luzon|101
+Los Baños|14.170|121.242|PH|Calabarzon|101
+Cavite City|14.484|120.899|PH|Calabarzon|101
+Tayabas|14.026|121.593|PH|Calabarzon|101
+Carmona|14.313|121.058|PH|Calabarzon|101
+Pulilan|14.902|120.849|PH|Central Luzon|101
+Santa Cruz|14.281|121.416|PH|Calabarzon|101
+Bagong Silangan|14.706|121.108|PH|National Capital Region|101
+Tanza|14.675|120.939|PH|National Capital Region|100
+Bocaue|14.798|120.926|PH|Central Luzon|100
+General Trias|14.387|120.882|PH|Calabarzon|100
+Sablayan|12.835|120.769|PH|Mimaropa|99
+Calauan|14.150|121.315|PH|Calabarzon|99
+Tagaytay|14.095|120.934|PH|Calabarzon|99
+Marilao|14.758|120.948|PH|Central Luzon|98
+Bulacan|14.793|120.879|PH|Central Luzon|98
+Pagbilao|13.967|121.698|PH|Calabarzon|98
+Limay|14.562|120.598|PH|Central Luzon|98
+Bustos|14.958|120.918|PH|Central Luzon|98
+Bagong Barrio|14.666|120.993|PH|National Capital Region|98
+Kawit|14.444|120.902|PH|Calabarzon|97
+Balanga|14.676|120.536|PH|Central Luzon|97
+Mauban|14.191|121.731|PH|Calabarzon|97
+Indang|14.195|120.877|PH|Calabarzon|97
+Calauag|13.957|122.288|PH|Calabarzon|97
+Tanauan|14.086|121.150|PH|Calabarzon|97
+Angat|14.928|121.030|PH|Central Luzon|97
+Subic|14.879|120.232|PH|Central Luzon|97
+Dinalupihan|14.878|120.452|PH|Central Luzon|96
+Calapan|13.412|121.180|PH|Mimaropa|96
+Pateros|14.539|121.073|PH|National Capital Region|96
+Orion|14.621|120.582|PH|Central Luzon|96
+Nasugbu|14.067|120.632|PH|Calabarzon|96
+Tunasan|14.379|121.052|PH|Calabarzon|96
+Tanay|14.497|121.285|PH|Calabarzon|96
+Obando|14.710|120.936|PH|Central Luzon|96
+Balagtas|14.817|120.867|PH|Central Luzon|96
+Paombong|14.831|120.789|PH|Central Luzon|95
+Santo Tomas|14.108|121.141|PH|Calabarzon|95
+Lubao|14.941|120.601|PH|Central Luzon|95
+Naic|14.318|120.766|PH|Calabarzon|95
+Patuto|14.117|120.967|PH|Calabarzon|94
+Victoria|13.177|121.278|PH|Mimaropa|94
+Cardona|14.486|121.228|PH|Calabarzon|94
+Balayan|13.937|120.732|PH|Calabarzon|94
+Morong|14.518|121.238|PH|Calabarzon|94
+Upper Bicutan|14.500|121.051|PH|National Capital Region|94
+Noveleta|14.429|120.880|PH|Calabarzon|93
+Sariaya|13.962|121.526|PH|Calabarzon|93
+Orani|14.801|120.537|PH|Central Luzon|93
+Amadeo|14.171|120.924|PH|Calabarzon|93
+Pinamalayan|13.046|121.462|PH|Mimaropa|93
+Maragondon|14.273|120.738|PH|Calabarzon|92
+Masantol|14.896|120.709|PH|Central Luzon|92
+Samal|14.768|120.543|PH|Central Luzon|92
+Mamatid|14.235|121.159|PH|Calabarzon|92
+Taal|13.880|120.923|PH|Calabarzon|92
+San Pascual|13.810|121.022|PH|Calabarzon|92
+Pantubig|14.968|120.955|PH|Central Luzon|92
+Talipapa|14.686|121.027|PH|National Capital Region|92
+San Antonio|14.947|120.087|PH|Central Luzon|92
+Calaca|13.932|120.813|PH|Calabarzon|91
+Mendez-Nuñez|14.129|120.906|PH|Calabarzon|91
+Bel Air|14.559|121.026|PH|National Capital Region|91
+Abucay|14.733|120.534|PH|Central Luzon|91
+Jalajala|14.353|121.323|PH|Calabarzon|91
+Teresa|14.561|121.219|PH|Calabarzon|91
+Pila|14.232|121.365|PH|Calabarzon|91
+Baclaran|14.532|120.994|PH|Calabarzon|91
+Hermosa|14.831|120.508|PH|Central Luzon|91
+Bauan|13.792|121.008|PH|Calabarzon|91
+Bay|14.184|121.286|PH|Calabarzon|91
+Alaminos|14.064|121.246|PH|Calabarzon|90
+Lucban|14.114|121.556|PH|Calabarzon|90
+Pililla|14.485|121.306|PH|Calabarzon|90
+Lumbang|14.297|121.460|PH|Calabarzon|90
+Malvar|14.045|121.159|PH|Calabarzon|90
+Bagong Pagasa|14.663|121.033|PH|National Capital Region|89
+Atimonan|14.003|121.921|PH|Calabarzon|89
+San Simon|15.000|120.781|PH|Central Luzon|89
+Majayjay|14.146|121.473|PH|Calabarzon|89
+Castillejos|14.934|120.198|PH|Central Luzon|89
+Paete|14.365|121.483|PH|Calabarzon|89
+Catanauan|13.593|122.322|PH|Calabarzon|89
+Lopez|13.884|122.260|PH|Calabarzon|88
+Concepcion Ibaba|13.923|121.461|PH|Calabarzon|88
+Pangil|14.403|121.465|PH|Calabarzon|88
+Talisay|14.092|121.022|PH|Calabarzon|88
+Nagcarlan|14.136|121.416|PH|Calabarzon|88
+Victoria|14.228|121.329|PH|Calabarzon|88
+General Emilio Aguinaldo|14.184|120.796|PH|Calabarzon|88
+Mamburao|13.223|120.596|PH|Mimaropa|88
+Mansalay|12.520|121.439|PH|Mimaropa|87
+Gumaca|13.921|122.100|PH|Calabarzon|87
+Bignay Uno|13.864|121.488|PH|Calabarzon|87
+Loma de Gato|14.789|120.999|PH|Central Luzon|87
+Malanday|14.707|121.131|PH|Calabarzon|87
+Cuenca|13.902|121.052|PH|Calabarzon|87
+Sasmuan|14.944|120.623|PH|Central Luzon|86
+Baras|14.517|121.266|PH|Calabarzon|86
+Sampaloc|14.540|121.360|PH|Calabarzon|86
+Ternate|14.290|120.717|PH|Calabarzon|86
+Malabanban Norte|13.945|121.431|PH|Calabarzon|86
+Malanday|14.717|120.958|PH|Central Luzon|86
+San Marcelino|14.974|120.157|PH|Central Luzon|85
+Del Remedio|14.087|121.312|PH|Calabarzon|85
+Pilar|14.660|120.565|PH|Central Luzon|85
+Morong|14.679|120.266|PH|Central Luzon|84
+Calatagan|13.832|120.632|PH|Calabarzon|84
+Novaliches Proper|14.723|121.046|PH|National Capital Region|84
+Calumpang|14.623|121.090|PH|National Capital Region|84
+Santa Cruz|14.913|120.567|PH|Central Luzon|84
+Romblon|12.575|122.271|PH|Mimaropa|84
+Lilio|14.131|121.436|PH|Calabarzon|84
+Lusacan|13.955|121.345|PH|Calabarzon|83
+Lalig|13.983|121.326|PH|Calabarzon|83
+Santa Elena|14.170|122.382|PH|Bicol Region|83
+Roxas|12.584|121.518|PH|Mimaropa|83
+Bulihan|14.278|120.995|PH|Calabarzon|83
+Manggahan|14.292|120.901|PH|Calabarzon|83
+Bansud|12.865|121.456|PH|Mimaropa|83
+Minalin|14.968|120.683|PH|Central Luzon|83
+Buco|14.083|120.990|PH|Calabarzon|82
+Project 6|14.659|121.040|PH|National Capital Region|82
+Mabitac|14.426|121.429|PH|Calabarzon|82
+Mariana|14.617|121.036|PH|Calabarzon|82
+Calintaan|12.567|120.933|PH|Mimaropa|81
+Malaya|14.397|121.338|PH|Calabarzon|81
+Bilog-Bilog|14.114|121.089|PH|Calabarzon|81
+Lourdes|14.967|120.683|PH|Central Luzon|81
+Del Monte|14.642|121.018|PH|Calabarzon|81
+Quisao|14.435|121.334|PH|Calabarzon|81
+Pakil|14.383|121.479|PH|Calabarzon|81
+Masalukot Uno|13.955|121.419|PH|Calabarzon|81
+Halayhay|14.374|120.813|PH|Calabarzon|81
+Cagsiay|14.217|121.750|PH|Calabarzon|80
+Santa Cruz|13.476|122.028|PH|Mimaropa|80
+Santa Cruz|13.074|120.723|PH|Mimaropa|80
+Cavinti|14.245|121.508|PH|Calabarzon|80
+Laurel|14.055|120.919|PH|Calabarzon|80
+San Roque Dau First|14.977|120.577|PH|Central Luzon|80
+Canubing No 2|13.350|121.133|PH|Mimaropa|80
+Palangue|14.284|120.811|PH|Calabarzon|80
+Guagua|14.965|120.632|PH|Central Luzon|80
+Alfonso|14.141|120.854|PH|Calabarzon|80
+Ibaan|13.818|121.133|PH|Calabarzon|79
+Balucuc|14.953|120.815|PH|Central Luzon|79
+Lambakin|14.750|120.867|PH|Central Luzon|79
+General Luna|13.687|122.171|PH|Calabarzon|79
+Real|14.664|121.604|PH|Calabarzon|79
+Ambulong|14.088|121.061|PH|Calabarzon|79
+Castañas|13.874|121.553|PH|Calabarzon|79
+Paradahan|14.321|120.861|PH|Calabarzon|79
+Subic|13.949|120.940|PH|Calabarzon|79
+Balete|14.020|121.095|PH|Calabarzon|79
+Tuy|14.018|120.730|PH|Calabarzon|79
+Ligaya|12.660|120.892|PH|Mimaropa|79
+Bolo|13.790|120.982|PH|Calabarzon|78
+Banaybanay|13.933|121.115|PH|Calabarzon|78
+Bulacnin|13.990|121.139|PH|Calabarzon|78
+Alabat|14.101|122.013|PH|Calabarzon|78
+Pitogo|13.784|122.090|PH|Calabarzon|78
+Namayan|14.578|121.023|PH|National Capital Region|78
+Mulanay|13.522|122.404|PH|Calabarzon|78
+Dolores|14.023|121.410|PH|Calabarzon|78
+Culianin|14.915|120.898|PH|Central Luzon|78
+Malinao Ilaya|13.996|121.836|PH|Calabarzon|78
+Laiya|13.680|121.401|PH|Calabarzon|78
+Lian|14.034|120.649|PH|Calabarzon|77
+Balite Segundo|14.183|120.974|PH|Calabarzon|77
+Mamala|14.017|121.517|PH|Calabarzon|77
+Kalayaan|14.350|121.567|PH|Calabarzon|77
+Quilo-quilo|13.864|121.221|PH|Calabarzon|77
+Lumbangan|14.052|120.667|PH|Calabarzon|77
+Dinahican|14.717|121.717|PH|Calabarzon|77
+Pasong Kawayan Primero|14.343|120.882|PH|Calabarzon|77
+Malabag|14.155|120.965|PH|Calabarzon|77
+Bungad|14.648|121.024|PH|National Capital Region|77
+Patnanungan|14.783|122.183|PH|Calabarzon|77
+Maulawin|14.267|121.433|PH|Calabarzon|77
+Quezon|14.006|122.184|PH|Calabarzon|77
+Sampaloc|14.163|121.640|PH|Calabarzon|77
+Binubusan|13.969|120.636|PH|Calabarzon|77
+Santa Maria|14.472|121.429|PH|Calabarzon|76
+Boac|13.446|121.840|PH|Mimaropa|76
+Balele|14.065|121.094|PH|Calabarzon|76
+Bagong Bayan II-A|14.068|121.319|PH|Calabarzon|76
+San Vicente|14.946|120.749|PH|Central Luzon|76
+Cambuga|13.617|122.450|PH|Calabarzon|76
+Barahan|13.012|120.762|PH|Mimaropa|76
+Pansol|13.887|121.243|PH|Calabarzon|76
+Malicboy|13.982|121.789|PH|Calabarzon|76
+Santa Catalina Sur|13.874|121.431|PH|Calabarzon|76
+Gloria|12.983|121.467|PH|Mimaropa|76
+Macalelon|13.747|122.139|PH|Calabarzon|76
+Santiago|14.904|120.511|PH|Central Luzon|76
+Cabcaben|14.454|120.591|PH|Central Luzon|75
+Pantay Na Matanda|14.117|121.121|PH|Calabarzon|75
+Gulod|14.345|121.218|PH|Calabarzon|75
+Lubang|13.858|120.124|PH|Mimaropa|75
+Guisguis|13.874|121.519|PH|Calabarzon|75
+Yuni|13.412|122.485|PH|Calabarzon|75
+Sulucan|14.794|120.926|PH|Central Luzon|75
+Pinugay|14.597|121.262|PH|Calabarzon|75
+Balsic|14.859|120.482|PH|Central Luzon|75
+Rosario|13.864|122.273|PH|Calabarzon|75
+Socorro|13.067|121.399|PH|Mimaropa|75
+San Andres|14.050|121.217|PH|Calabarzon|75
+Polillo|14.717|121.949|PH|Calabarzon|75
+Santa Catalina Norte|13.871|121.358|PH|Calabarzon|75
+Maguyam|14.263|121.005|PH|Calabarzon|75
+Bantilan|14.758|121.669|PH|Calabarzon|75
+Putol|13.992|120.728|PH|Calabarzon|75
+Infanta|14.745|121.650|PH|Calabarzon|75
+Janopol|14.086|121.095|PH|Calabarzon|74
+Taysan|13.870|121.097|PH|Calabarzon|74
+Aga|14.097|120.802|PH|Calabarzon|74
+Pantijan No 2|14.233|120.801|PH|Calabarzon|74
+Janagdong|13.903|121.513|PH|Calabarzon|74
+Sabang|14.695|120.251|PH|Central Luzon|74
+Tayaman|13.229|120.573|PH|Mimaropa|74
+Santo Domingo|14.991|120.743|PH|Central Luzon|74
+Tiaong|13.964|121.321|PH|Calabarzon|74
+Calubcub Dos|13.739|121.422|PH|Calabarzon|74
+Santa Rita|14.999|120.612|PH|Central Luzon|74
+Rizal|14.109|121.394|PH|Calabarzon|74
+Santiago|14.021|121.279|PH|Calabarzon|74
+Mangas|14.118|120.867|PH|Calabarzon|74
+Boot|14.046|121.077|PH|Calabarzon|74
+Santa Teresa First|14.927|120.558|PH|Central Luzon|74
+Wawa|13.463|120.744|PH|Mimaropa|74
+Bulihan|14.876|120.896|PH|Central Luzon|74
+Binahaan|13.992|121.754|PH|Calabarzon|74
+Tagbacan Ibaba|13.603|122.369|PH|Calabarzon|74
+San Teodoro|13.438|121.020|PH|Mimaropa|74
+Perez|14.195|121.926|PH|Calabarzon|74
+San Mariano|12.641|121.438|PH|Mimaropa|74
+Balasing|14.854|121.013|PH|Central Luzon|74
+Unisan|13.841|121.975|PH|Calabarzon|74
+Batasan|12.767|120.783|PH|Mimaropa|74
+Bituñgol|14.883|121.033|PH|Central Luzon|74
+Palali|14.306|122.486|PH|Bicol Region|73
+Pulong Gubat|14.859|120.906|PH|Central Luzon|73
+Talisay|13.971|121.205|PH|Calabarzon|73
+San Carlos|13.842|121.242|PH|Calabarzon|73
+Salcedo|12.811|121.467|PH|Mimaropa|73
+Luksuhin|14.097|120.881|PH|Calabarzon|73
+Kaytitinga|14.107|120.829|PH|Calabarzon|73
+Hondagua|13.945|122.242|PH|Calabarzon|73
+Pinagsabangan|13.266|121.268|PH|Mimaropa|73
+Masapang|14.197|121.342|PH|Calabarzon|73
+Bilaran|14.035|120.710|PH|Calabarzon|73
+Luisiana|14.185|121.511|PH|Calabarzon|73
+Paluan|13.416|120.462|PH|Mimaropa|73
+Burdeos|14.843|121.969|PH|Calabarzon|73
+Mataas Na Lupa|14.227|120.883|PH|Calabarzon|73
+Cabacao|13.336|120.659|PH|Mimaropa|73
+Talipan|13.933|121.683|PH|Calabarzon|73
+Cabanbanan|14.240|121.434|PH|Calabarzon|73
+Santa Clara|13.754|121.061|PH|Calabarzon|73
+Wawa|13.740|121.053|PH|Calabarzon|73
+Banaba|14.217|120.850|PH|Calabarzon|73
+Camohaguin|13.909|122.167|PH|Calabarzon|73
+Payapa|13.998|120.892|PH|Calabarzon|73
+Padre Garcia|13.879|121.214|PH|Calabarzon|73
+Mozon|13.853|120.989|PH|Calabarzon|73
+Pagsanjan|14.273|121.455|PH|Calabarzon|73
+Paiisa|13.926|121.354|PH|Calabarzon|73
+San Agustin|12.569|122.131|PH|Mimaropa|73
+Lucsuhin|13.882|120.641|PH|Calabarzon|73
+Biga|14.258|120.972|PH|Calabarzon|73
+Santa Cecilia|14.105|122.202|PH|Calabarzon|73
+Santa Lucia|14.035|121.431|PH|Calabarzon|73
+Labasan|12.777|121.469|PH|Mimaropa|73
+Plaridel|13.955|122.021|PH|Calabarzon|72
+Cabatang|13.967|121.367|PH|Calabarzon|72
+Bagong Barrio|14.890|120.941|PH|Central Luzon|72
+Santisimo Rosario|13.997|121.309|PH|Calabarzon|72
+Tignoan|14.565|121.618|PH|Calabarzon|72
+Tagbak|13.842|120.089|PH|Mimaropa|72
+Matingain|13.913|120.880|PH|Calabarzon|72
+Balagtasin|13.902|121.089|PH|Calabarzon|72
+Puting Kahoy|14.216|121.031|PH|Calabarzon|72
+Banilad|14.067|120.735|PH|Calabarzon|72
+Niugan|14.946|120.967|PH|Central Luzon|72
+San Pedro One|14.053|121.145|PH|Calabarzon|72
+Niugan|14.664|120.955|PH|National Capital Region|72
+Dulangan|13.305|121.113|PH|Mimaropa|72
+Liciada|14.915|120.932|PH|Central Luzon|72
+Alupay|13.847|121.307|PH|Calabarzon|72
+Bagac|14.596|120.393|PH|Central Luzon|72
+Alitagtag|13.864|121.004|PH|Calabarzon|72
+San Francisco|14.962|120.545|PH|Central Luzon|72
+Irirum|12.616|120.931|PH|Mimaropa|72
+Sico Uno|13.830|121.371|PH|Calabarzon|72
+Agdangan|13.877|121.913|PH|Calabarzon|72
+San Agustin|14.933|120.150|PH|Central Luzon|72
+Bugaan|14.040|120.936|PH|Calabarzon|72
+Anuling|14.124|120.892|PH|Calabarzon|72
+Capalonga|14.331|122.494|PH|Bicol Region|72
+Santa Rosa|13.559|122.378|PH|Calabarzon|72
+Halayhayin|14.189|121.407|PH|Calabarzon|72
+Libato|13.815|121.335|PH|Calabarzon|72
+Kabulusan|14.361|121.400|PH|Calabarzon|72
+Leuteboro|13.061|121.375|PH|Mimaropa|72
+San Rafael|14.128|121.415|PH|Calabarzon|72
+Famy|14.438|121.448|PH|Calabarzon|71
+Balatero|13.502|120.924|PH|Mimaropa|71
+Daraitan|14.603|121.432|PH|Calabarzon|71
+Malabanan|14.000|121.133|PH|Calabarzon|71
+Prinza|13.997|120.654|PH|Calabarzon|71
+Ayusan Uno|13.956|121.308|PH|Calabarzon|71
+Sinisian|13.916|120.844|PH|Calabarzon|71
+Gumian|14.710|121.619|PH|Calabarzon|71
+Tumalim|14.080|120.723|PH|Calabarzon|71
+Sibulan|14.750|121.933|PH|Calabarzon|71
+Lapolapo|13.834|121.138|PH|Calabarzon|71
+Paagahan|14.445|121.401|PH|Calabarzon|71
+Quipot|13.956|121.319|PH|Calabarzon|71
+Bungoy|13.998|121.366|PH|Calabarzon|71
+Prado Siongco|14.879|120.513|PH|Central Luzon|71
+Bayanan|13.359|121.170|PH|Central Luzon|71
+Maasim|14.996|121.031|PH|Central Luzon|71
+Balanacan|13.529|121.868|PH|Mimaropa|71
+Ilihan|13.631|121.071|PH|Calabarzon|71
+General Nakar|14.764|121.636|PH|Calabarzon|71
+San Joaquin|14.047|121.219|PH|Calabarzon|71
+Isabang|13.957|121.571|PH|Calabarzon|71
+Sumagui|12.795|121.474|PH|Mimaropa|71
+Aurora|13.232|121.120|PH|Mimaropa|71
+Sabang|14.306|120.804|PH|Calabarzon|71
+San Isidro|13.633|122.243|PH|Calabarzon|71
+San Diego|14.042|120.626|PH|Calabarzon|71
+Santor|14.095|121.109|PH|Calabarzon|71
+Aplaya|14.321|121.114|PH|Calabarzon|71
+Balibago|13.926|120.626|PH|Calabarzon|71
+Javalera|14.258|120.916|PH|Calabarzon|71
+Pili|13.066|121.520|PH|Mimaropa|71
+Palahanan Uno|13.831|121.356|PH|Calabarzon|71
+Calumpang|14.197|121.402|PH|Calabarzon|71
+Magallanes|14.188|120.757|PH|Calabarzon|71
+Talahiban I|13.806|121.381|PH|Calabarzon|71
+Madulao|13.568|122.341|PH|Calabarzon|71
+San Isidro|14.034|121.109|PH|Calabarzon|71
+Bulihan|13.809|121.249|PH|Calabarzon|71
+Odiong|12.593|121.503|PH|Mimaropa|70
+Bungahan|13.943|120.662|PH|Calabarzon|70
+Tangal|13.845|120.101|PH|Mimaropa|70
+Tulay|14.270|120.769|PH|Calabarzon|70
+Montecillo|13.891|121.476|PH|Calabarzon|70
+San Agustin|14.990|120.606|PH|Central Luzon|70
+Bitangan|14.254|120.878|PH|Calabarzon|70
+Cabay|13.871|121.380|PH|Calabarzon|70
+Puerto Galera|13.502|120.952|PH|Mimaropa|70
+Cabra|13.888|120.049|PH|Mimaropa|70
+Bukal|13.913|121.526|PH|Calabarzon|70
+Bukal|13.836|121.094|PH|Calabarzon|70
+Talaga|13.736|120.936|PH|Calabarzon|70
+Navotas|14.417|121.227|PH|Calabarzon|70
+Sabang|13.509|120.974|PH|Mimaropa|70
+San Juan|14.057|121.229|PH|Calabarzon|70
+San Isidro|14.209|121.398|PH|Calabarzon|70
+Mogpog|13.474|121.861|PH|Mimaropa|70
+Malaruhatan|14.031|120.680|PH|Calabarzon|70
+Magdalena|14.200|121.429|PH|Calabarzon|70
+San Vicente|13.897|122.205|PH|Calabarzon|70
+Pulo|14.962|121.015|PH|Central Luzon|70
+San Aquilino|12.597|121.487|PH|Mimaropa|70
+Patabog|13.443|122.456|PH|Calabarzon|70
+Malitbog|12.752|121.466|PH|Mimaropa|70
+Balibago|13.609|121.297|PH|Calabarzon|70
+Balitoc|13.863|120.636|PH|Calabarzon|70
+Talahib Payap|13.661|121.136|PH|Calabarzon|70
+Maluanluan|13.097|121.424|PH|Mimaropa|70
+Tangob|13.887|121.253|PH|Calabarzon|70
+Progreso|13.908|122.091|PH|Calabarzon|70
+San Agustin|13.277|121.305|PH|Mimaropa|70
+Biga|13.904|120.649|PH|Calabarzon|70
+Taywanak Ilaya|14.158|120.847|PH|Calabarzon|70
+Looc|14.165|120.629|PH|Calabarzon|70
+Malibago|13.278|122.023|PH|Mimaropa|70
+Padre Burgos|13.923|121.812|PH|Calabarzon|70
+Bayuin|13.041|121.389|PH|Mimaropa|70
+San Gregorio|14.030|121.264|PH|Calabarzon|70
+Solo|13.747|120.901|PH|Calabarzon|70
+Santo Niño|13.849|121.133|PH|Calabarzon|70
+Lobo|13.648|121.211|PH|Calabarzon|70
+Guyam Malaki|14.152|120.861|PH|Calabarzon|70
+Odala|13.478|120.822|PH|Mimaropa|70
+Sampaloc|14.088|120.971|PH|Calabarzon|70
+Tiguion|13.335|121.861|PH|Mimaropa|70
+San Francisco|13.791|122.288|PH|Calabarzon|70
+Torrijos|13.317|122.082|PH|Mimaropa|70
+Mabunga|13.863|122.068|PH|Calabarzon|70
+San Miguel|13.874|121.198|PH|Calabarzon|70
+Buyabod|13.467|122.053|PH|Mimaropa|70
+Bagombong|14.341|121.377|PH|Calabarzon|69
+San Isidro|13.769|121.231|PH|Calabarzon|69
+Abra de Ilog|13.444|120.729|PH|Mimaropa|69
+Dagatan|14.002|121.377|PH|Calabarzon|69
+Santa Maria|12.579|121.460|PH|Mimaropa|69
+Macalamcam A|13.857|121.328|PH|Calabarzon|69
+San Antonio|14.200|121.500|PH|Calabarzon|69
+Aya|13.895|121.114|PH|Calabarzon|69
+Prinza|14.196|121.137|PH|Calabarzon|69
+Baco|13.357|121.098|PH|Mimaropa|69
+Matagbak|14.131|120.835|PH|Calabarzon|69
+Cawayan|12.656|121.546|PH|Mimaropa|69
+Wawa|14.302|121.460|PH|Calabarzon|69
+Rizal|13.950|122.283|PH|Calabarzon|69
+San Andres|14.004|121.151|PH|Calabarzon|69
+Basiad|14.156|122.337|PH|Bicol Region|69
+Pamatawan|14.928|120.214|PH|Central Luzon|69
+Santa Teresita|13.866|120.981|PH|Calabarzon|69
+Santo Domingo|14.965|120.557|PH|Central Luzon|69
+Pambisan|13.014|121.413|PH|Mimaropa|69
+San Nicolas|14.949|120.077|PH|Central Luzon|69
+Mabayo|14.732|120.278|PH|Central Luzon|69
+Sapol|13.365|121.189|PH|Central Luzon|69
+Maliig|13.846|120.150|PH|Mimaropa|69
+Panukulan|14.934|121.817|PH|Calabarzon|69
+Mapulo|13.732|121.184|PH|Calabarzon|69
+Malamig|12.950|121.367|PH|Mimaropa|69
+Talaibon|13.838|121.140|PH|Calabarzon|69
+Yook|13.226|121.964|PH|Mimaropa|69
+Malainen Luma|14.270|120.788|PH|Calabarzon|69
+Tigbinan|14.186|122.469|PH|Bicol Region|69
+Sinala|13.806|120.975|PH|Calabarzon|69
+Dampol|14.901|120.822|PH|Central Luzon|69
+Rizal|13.877|121.159|PH|Calabarzon|69
+Banugao|14.748|121.618|PH|Calabarzon|69
+Naujan|13.323|121.303|PH|Mimaropa|69
+Mahabang Parang|13.983|121.083|PH|Calabarzon|69
+Banaba|13.897|121.210|PH|Calabarzon|69
+San Rafael|14.899|120.694|PH|Central Luzon|69
+Cigaras|14.227|121.430|PH|Calabarzon|69
+Communal|13.255|121.137|PH|Central Luzon|69
+Camachile|14.644|120.581|PH|Central Luzon|69
+Mabini|13.753|120.940|PH|Calabarzon|69
+Luntal|14.029|120.717|PH|Calabarzon|69
+Quipot|13.779|121.397|PH|Calabarzon|69
+Calabaca|14.300|122.434|PH|Bicol Region|69
+Buenavista|13.255|121.941|PH|Mimaropa|69
+Cajimos|12.595|122.275|PH|Mimaropa|69
+Pangulayan|13.040|121.448|PH|Mimaropa|69
+Guinayangan, Fourth District of Quezon|13.900|122.448|PH|Calabarzon|69
+Parang|14.633|120.449|PH|Central Luzon|69
+Kapatalan|14.474|121.490|PH|Calabarzon|69
+Daykitin|13.271|121.911|PH|Mimaropa|69
+Laylay|13.439|121.820|PH|Mimaropa|69
+San Vincente|13.407|121.175|PH|Central Luzon|69
+Santa Rosa|14.426|120.879|PH|Calabarzon|69
+Calilayan|13.850|121.930|PH|Calabarzon|69
+Gulod|13.875|120.634|PH|Calabarzon|69
+Kinatakutan|13.955|122.468|PH|Calabarzon|69
+Toong|14.071|120.763|PH|Calabarzon|69
+Manogpi|13.311|121.204|PH|Central Luzon|69
+Saysain|14.561|120.392|PH|Central Luzon|69
+Anilao|12.714|121.512|PH|Mimaropa|69
+Carmen|12.617|122.121|PH|Mimaropa|69
+Pinagsibaan|13.835|121.321|PH|Calabarzon|69
+Taytay|14.126|121.404|PH|Calabarzon|69
+Masiga|13.361|121.828|PH|Mimaropa|69
+Balugo|12.579|121.439|PH|Mimaropa|69
+Dulangan|13.469|120.980|PH|Mimaropa|69
+Cantel|12.618|121.514|PH|Mimaropa|68
+Tingloy|13.661|120.871|PH|Calabarzon|68
+Tuhian|13.622|122.218|PH|Calabarzon|68
+Pitogo|12.507|121.090|PH|Mimaropa|68
+Aliang|14.283|120.883|PH|Calabarzon|68
+Santa Cruz|13.865|121.189|PH|Calabarzon|68
+Mulauin|13.867|121.017|PH|Calabarzon|68
+Looc|13.720|120.250|PH|Mimaropa|68
+Gutad|14.927|120.489|PH|Central Luzon|68
+Dagatan|13.739|121.199|PH|Calabarzon|68
+Estrella|13.329|121.311|PH|Mimaropa|68
+Maugat West|13.861|121.283|PH|Calabarzon|68
+Haligue|13.667|121.117|PH|Calabarzon|68
+San Antonio|14.967|120.612|PH|Central Luzon|68
+San Miguel|14.201|121.373|PH|Calabarzon|68
+Matala|13.829|121.155|PH|Calabarzon|68
+Tipaz|13.829|121.425|PH|Calabarzon|68
+Bintacay|13.499|121.877|PH|Mimaropa|68
+Tacligan|13.398|121.063|PH|Mimaropa|68
+Batas|14.200|120.817|PH|Calabarzon|68
+Evangelista|13.334|121.097|PH|Mimaropa|68
+Bagupaye|13.565|122.390|PH|Calabarzon|68
+Punta|14.291|121.307|PH|Calabarzon|68
+Putingkahoy|13.830|121.328|PH|Calabarzon|68
+Quinabigan|12.994|121.478|PH|Mimaropa|68
+Inicbulan|13.820|120.983|PH|Calabarzon|68
+Magsaysay|14.339|121.034|PH|Calabarzon|68
+Beddeng|14.977|120.085|PH|Central Luzon|68
+Balite|14.895|120.787|PH|Central Luzon|68
+Calantas|13.972|120.775|PH|Calabarzon|68
+Sabang|14.063|120.711|PH|Calabarzon|68
+Karligan|14.976|122.043|PH|Calabarzon|68
+Lumangbayan|13.048|121.499|PH|Mimaropa|68
+San Benito|14.852|120.427|PH|Central Luzon|68
+Alad|12.617|122.248|PH|Mimaropa|68
+Tigui|13.268|122.041|PH|Mimaropa|68
+Santa Brigida|12.568|121.489|PH|Mimaropa|68
+San Francisco|13.898|121.248|PH|Calabarzon|68
+Saaban|13.130|121.369|PH|Mimaropa|68
+Calangain|14.898|120.559|PH|Central Luzon|68
+Tabinay|13.487|120.957|PH|Mimaropa|68
+Lumil|14.181|121.010|PH|Calabarzon|68
+Tambong|12.964|121.485|PH|Mimaropa|68
+Calamundingan|12.931|121.471|PH|Mimaropa|68
+Bulihan|14.156|120.644|PH|Calabarzon|68
+Calumpang|13.990|121.549|PH|Calabarzon|68
+San Diego|14.187|121.487|PH|Calabarzon|68
+Tiguisan|12.839|121.461|PH|Mimaropa|68
+Kiloloran|14.636|121.606|PH|Calabarzon|68
+Vigo|13.827|120.179|PH|Mimaropa|68
+Masaguisi|12.755|121.448|PH|Mimaropa|68
+Bodega|14.923|120.480|PH|Central Luzon|68
+Ipil|13.513|121.984|PH|Mimaropa|68
+Sampiro|13.784|121.384|PH|Calabarzon|68
+Bautista|13.994|121.278|PH|Calabarzon|68
+Pangil|14.201|120.908|PH|Calabarzon|68
+Baybayin|13.821|121.270|PH|Calabarzon|68
+Santo Tomas|14.183|121.500|PH|Calabarzon|68
+Tranca|14.118|121.057|PH|Calabarzon|68
+Mainit Norte|14.165|121.985|PH|Calabarzon|68
+Bolboc|14.021|120.756|PH|Calabarzon|68
+Panikihan|13.908|122.131|PH|Calabarzon|68
+Calumpang|13.842|120.976|PH|Calabarzon|68
+Apitong|13.239|121.207|PH|Mimaropa|68
+Tuban|12.812|120.832|PH|Mimaropa|68
+Kinalaglagan|14.001|121.098|PH|Calabarzon|68
+Dayapan|13.937|120.916|PH|Calabarzon|68
+Mataywanac|14.031|120.730|PH|Calabarzon|68
+Nagiba|13.330|121.274|PH|Mimaropa|67
+Biga|13.311|121.161|PH|Central Luzon|67
+Talisay|13.915|120.623|PH|Calabarzon|67
+Tilik|13.814|120.200|PH|Mimaropa|67
+Harrison|13.450|120.433|PH|Mimaropa|67
+Balut|14.683|120.550|PH|Central Luzon|67
+Banos|12.646|120.910|PH|Mimaropa|67
+San Nicolas|13.928|120.951|PH|Calabarzon|67
+Pulong Sampalok|14.961|121.061|PH|Central Luzon|67
+Santa Cruz|14.117|121.283|PH|Calabarzon|67
+Pulangbato|13.754|121.393|PH|Calabarzon|67
+Pangao|13.917|121.126|PH|Calabarzon|67
+Kanluran|14.417|120.850|PH|Calabarzon|67
+San Jose|13.852|120.950|PH|Calabarzon|67
+Banalo|13.646|121.182|PH|Calabarzon|67
+Maquiapo|14.986|120.559|PH|Central Luzon|67
+Banawang|14.612|120.390|PH|Central Luzon|67
+Sagana|12.723|121.487|PH|Mimaropa|67
+Binulasan|14.732|121.698|PH|Calabarzon|67
+Manatal|14.877|120.916|PH|Central Luzon|67
+Caigangan|13.258|121.934|PH|Mimaropa|67
+Santa Catalina|14.121|121.342|PH|Calabarzon|67
+Dobdoban|12.575|122.114|PH|Mimaropa|67
+Casuguran|14.717|122.374|PH|Calabarzon|67
+Pulo|14.715|121.633|PH|Calabarzon|67
+San Antonio|13.897|121.290|PH|Calabarzon|67
+Libas|13.242|121.956|PH|Mimaropa|67
+Santo Niño|13.702|121.095|PH|Calabarzon|67
+Marao|13.914|121.824|PH|Calabarzon|67
+Poctol|13.821|121.442|PH|Calabarzon|67
+Hukay|13.845|120.703|PH|Calabarzon|67
+Gasan|13.324|121.847|PH|Mimaropa|67
+Tayabas Ibaba|13.622|122.281|PH|Calabarzon|67
+Lumangbayan|13.419|121.035|PH|Mimaropa|67
+Calatrava|12.620|122.071|PH|Mimaropa|67
+San Celestio|13.926|121.235|PH|Calabarzon|67
+Malusac|14.858|120.621|PH|Central Luzon|67
+Centro1, Santa. Rosa 1, Baco, Oriental Mindoro|13.374|121.063|PH|Mimaropa|67
+Agoncillo|13.936|120.933|PH|Calabarzon|0
+Barangay of Poblacion|13.318|122.079|PH|Mimaropa|0
+Corcuera|12.783|122.049|PH|Mimaropa|0
+Floridablanca|14.977|120.528|PH|Central Luzon|0
+Hanggan|14.189|121.300|PH|Calabarzon|0
+Lemery|13.881|120.914|PH|Calabarzon|0
+Macabebe|14.909|120.716|PH|Central Luzon|0
+Mataas Na Kahoy|13.959|121.114|PH|Calabarzon|0
+Pola|13.144|121.442|PH|Mimaropa|0
+Rosario|14.418|120.858|PH|Calabarzon|0
+Rosario|13.845|121.205|PH|Calabarzon|0
+San Jose|13.878|121.105|PH|Calabarzon|0
+San Juan|13.834|121.398|PH|Calabarzon|0
+San Luis|13.855|120.917|PH|Calabarzon|0
+San Rafael|14.948|120.962|PH|Central Luzon|0
+Santa Cruz|14.021|121.357|PH|Calabarzon|0
+Santa Maria|14.821|120.964|PH|Central Luzon|0
+Siniloan|14.422|121.446|PH|Calabarzon|0
+Tanza|14.398|120.855|PH|Calabarzon|0
+Taysan|13.798|121.190|PH|Calabarzon|0

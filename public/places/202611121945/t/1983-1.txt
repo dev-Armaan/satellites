@@ -1,0 +1,670 @@
+Budapest|47.498|19.040|HU|Budapest|125
+Novi Sad|45.252|19.837|RS|Vojvodina|107
+Pécs|46.076|18.228|HU|Baranya|103
+Kecskemét|46.906|19.691|HU|Bács-Kiskun|101
+Székesfehérvár|47.190|18.410|HU|Fejér|100
+Subotica|46.100|19.667|RS|Vojvodina|100
+Osijek|45.551|18.694|HR|County of Osijek-Baranja|98
+Kaposvár|46.367|17.800|HU|Somogy County|96
+Érd|47.395|18.914|HU|Pest County|96
+Veszprém|47.093|17.911|HU|Veszprém|95
+Dunaújváros|46.965|18.940|HU|Fejér|94
+Sombor|45.774|19.112|RS|Vojvodina|94
+Slavonski Brod|45.162|18.016|HR|Brod-Posavina|93
+Cegléd|47.173|19.800|HU|Pest County|92
+Baja|46.183|18.953|HU|Bács-Kiskun|92
+Szekszárd|46.347|18.712|HU|Tolna County|91
+Ruma|45.008|19.822|RS|Vojvodina|90
+Kiskunfélegyháza|46.712|19.845|HU|Bács-Kiskun|90
+Ajka|47.102|17.559|HU|Veszprém|90
+Bačka Palanka|45.250|19.397|RS|Vojvodina|89
+Kiskunhalas|46.434|19.485|HU|Bács-Kiskun|89
+Vinkovci|45.288|18.805|HR|Vukovar-Srijem|89
+Komló|46.193|18.265|HU|Baranya|89
+Vrbas|45.571|19.641|RS|Vojvodina|88
+Budaörs|47.462|18.958|HU|Pest County|88
+Szigetszentmiklós|47.344|19.043|HU|Pest County|88
+Nagykőrös|47.034|19.779|HU|Pest County|87
+Siófok|46.904|18.058|HU|Somogy County|87
+Vukovar|45.352|19.002|HR|Vukovar-Srijem|87
+Gyál|47.384|19.221|HU|Pest County|87
+Monor|47.351|19.447|HU|Pest County|87
+Várpalota|47.199|18.140|HU|Veszprém|87
+Dombóvár|46.377|18.137|HU|Tolna County|86
+Paks|46.622|18.856|HU|Tolna County|86
+Oroszlány|47.487|18.312|HU|Komárom-Esztergom|86
+Vecsés|47.407|19.286|HU|Pest County|86
+Mohács|45.990|18.686|HU|Baranya|85
+Apatin|45.673|18.978|RS|Vojvodina|85
+Kalocsa|46.530|18.973|HU|Bács-Kiskun|85
+Futog|45.239|19.714|RS|Vojvodina|85
+Százhalombatta|47.329|18.939|HU|Pest County|85
+Dunaharaszti|47.355|19.098|HU|Pest County|85
+Đakovo|45.308|18.411|HR|County of Osijek-Baranja|85
+Požega|45.340|17.685|HR|Požega-Slavonia|85
+Dabas|47.186|19.311|HU|Pest County|84
+Bačka Topola|45.815|19.632|RS|Vojvodina|84
+Kiskőrös|46.621|19.285|HU|Bács-Kiskun|84
+Mór|47.378|18.204|HU|Fejér|83
+Sremska Kamenica|45.223|19.843|RS|Vojvodina|83
+Bonyhád|46.299|18.530|HU|Tolna County|83
+Gyömrő|47.427|19.401|HU|Pest County|83
+Petrovaradin|45.247|19.879|RS|Vojvodina|83
+Sárbogárd|46.887|18.620|HU|Fejér|83
+Nagykáta|47.415|19.744|HU|Pest County|82
+Pécel|47.490|19.342|HU|Pest County|82
+Balatonfüred|46.962|17.872|HU|Veszprém|82
+Szigethalom|47.322|19.003|HU|Pest County|82
+Üllő|47.388|19.355|HU|Pest County|82
+Tolna|46.427|18.782|HU|Tolna County|82
+Kiskunmajsa|46.490|19.740|HU|Bács-Kiskun|82
+Albertirsa|47.243|19.617|HU|Pest County|81
+Törökbálint|47.429|18.914|HU|Pest County|81
+Odžak|45.025|18.321|BA|Federation of B&H|81
+Szigetvár|46.049|17.806|HU|Baranya|81
+Pilis|47.289|19.548|HU|Pest County|81
+Bicske|47.484|18.644|HU|Fejér|81
+Kać|45.304|19.943|RS|Vojvodina|81
+Lajosmizse|47.021|19.562|HU|Bács-Kiskun|81
+Veternik|45.254|19.759|RS|Vojvodina|80
+Siklós|45.855|18.298|HU|Baranya|80
+Tököl|47.322|18.962|HU|Pest County|80
+Maglód|47.443|19.364|HU|Pest County|80
+Jánoshalma|46.299|19.326|HU|Bács-Kiskun|80
+Tamási|46.633|18.283|HU|Tolna County|80
+Brod|45.137|17.987|BA|Srpska|79
+Ráckeve|47.161|18.945|HU|Pest County|79
+Kecel|46.525|19.252|HU|Bács-Kiskun|79
+Županja|45.078|18.698|HR|Vukovar-Srijem|79
+Ócsa|47.300|19.231|HU|Pest County|79
+Dunaföldvár|46.807|18.928|HU|Tolna County|79
+Kiskunlacháza|47.188|19.009|HU|Pest County|79
+Kunszentmiklós|47.027|19.126|HU|Bács-Kiskun|79
+Sremski Karlovci|45.203|19.934|RS|Vojvodina|79
+Slatina|45.703|17.703|HR|Virovitica-Podravina|79
+Biatorbágy|47.471|18.819|HU|Pest County|79
+Crvenka|45.661|19.454|RS|Vojvodina|79
+Ercsi|47.252|18.896|HU|Fejér|78
+Balatonalmádi|47.035|18.021|HU|Veszprém|78
+Dunavarsány|47.279|19.066|HU|Pest County|78
+Sülysáp|47.452|19.534|HU|Pest County|78
+Gárdony|47.209|18.636|HU|Fejér|78
+Čepin|45.524|18.578|HR|County of Osijek-Baranja|78
+Tárnok|47.373|18.846|HU|Pest County|78
+Soltvadkert|46.579|19.394|HU|Bács-Kiskun|78
+Bácsalmás|46.126|19.333|HU|Bács-Kiskun|78
+Kistelek|46.472|19.980|HU|Csongrád|77
+Srbac|45.097|17.523|BA|Srpska|77
+Zirc|47.264|17.874|HU|Veszprém|77
+Našice|45.489|18.088|HR|County of Osijek-Baranja|77
+Halásztelek|47.362|18.981|HU|Pest County|77
+Bački Petrovac|45.361|19.592|RS|Vojvodina|77
+Enying|46.930|18.242|HU|Fejér|77
+Szentlőrinc|46.040|17.987|HU|Baranya|77
+Solt|46.801|19.001|HU|Bács-Kiskun|77
+Sivac|45.704|19.383|RS|Vojvodina|77
+Bátaszék|46.194|18.723|HU|Tolna County|77
+Tápiószecső|47.450|19.609|HU|Pest County|76
+Szabadszállás|46.876|19.223|HU|Bács-Kiskun|76
+Polgárdi|47.061|18.302|HU|Fejér|76
+Pusztaszabolcs|47.137|18.767|HU|Fejér|76
+Valpovo|45.661|18.419|HR|County of Osijek-Baranja|76
+Beli Manastir|45.770|18.604|HR|County of Osijek-Baranja|76
+Tenja|45.498|18.747|HR|County of Osijek-Baranja|76
+Tápiószele|47.336|19.877|HU|Pest County|76
+Diósd|47.410|18.949|HU|Pest County|76
+Taksony|47.330|19.067|HU|Pest County|76
+Izsák|46.805|19.352|HU|Bács-Kiskun|76
+Sonta|45.594|19.097|RS|Vojvodina|76
+Kerekegyháza|46.937|19.478|HU|Bács-Kiskun|76
+Balatonboglár|46.775|17.644|HU|Somogy County|76
+Dömsöd|47.090|19.011|HU|Pest County|75
+Višnjevac|45.569|18.614|HR|County of Osijek-Baranja|75
+Berhida|47.111|18.129|HU|Veszprém|75
+Mélykút|46.215|19.381|HU|Bács-Kiskun|75
+Tápiószentmárton|47.340|19.746|HU|Pest County|75
+Donja Mahala|45.043|18.670|BA|Federation of B&H|75
+Palić|46.106|19.756|RS|Vojvodina|75
+Stanišić|45.939|19.167|RS|Vojvodina|75
+Mórahalom|46.218|19.885|HU|Csongrád|75
+Bugyi|47.227|19.147|HU|Pest County|75
+Belišće|45.680|18.406|HR|County of Osijek-Baranja|75
+Donji Miholjac|45.761|18.167|HR|County of Osijek-Baranja|75
+Csákvár|47.392|18.465|HU|Fejér|74
+Fonyód|46.743|17.558|HU|Somogy County|74
+Martonvásár|47.316|18.790|HU|Fejér|74
+Örkény|47.130|19.433|HU|Pest County|74
+Ivankovo|45.289|18.684|HR|Vukovar-Srijem|74
+Tiszaalpár|46.813|19.998|HU|Bács-Kiskun|74
+Prigrevica|45.676|19.088|RS|Vojvodina|74
+Čelarevo|45.270|19.525|RS|Vojvodina|74
+Alsónémedi|47.315|19.158|HU|Pest County|74
+Balatonlelle|46.783|17.695|HU|Somogy County|74
+Mezőfalva|46.932|18.772|HU|Fejér|74
+Pétfürdő|47.167|18.117|HU|Veszprém|74
+Szentmártonkáta|47.454|19.701|HU|Pest County|74
+Irig|45.052|19.844|RS|Vojvodina|74
+Tompa|46.206|19.539|HU|Bács-Kiskun|74
+Velence|47.239|18.655|HU|Fejér|74
+Tab|46.731|18.032|HU|Somogy County|74
+Törtel|47.122|19.937|HU|Pest County|74
+Ceglédbercel|47.224|19.668|HU|Pest County|73
+Ruski Krstur|45.564|19.420|RS|Vojvodina|73
+Aba|47.029|18.522|HU|Fejér|73
+Zmajevo|45.454|19.691|RS|Vojvodina|73
+Seregélyes|47.111|18.565|HU|Fejér|73
+Simontornya|46.755|18.555|HU|Tolna County|73
+Szabadbattyán|47.119|18.368|HU|Fejér|73
+Fadd|46.465|18.819|HU|Tolna County|73
+Lakitelek|46.876|19.995|HU|Bács-Kiskun|73
+Agárd|47.191|18.594|HU|Fejér|73
+Csemő|47.118|19.691|HU|Pest County|73
+Kóka|47.486|19.579|HU|Pest County|73
+Rumenka|45.294|19.743|RS|Vojvodina|73
+Inárcs|47.262|19.327|HU|Pest County|73
+Mende|47.431|19.456|HU|Pest County|73
+Decs|46.284|18.760|HU|Tolna County|72
+Dunavecse|46.915|18.971|HU|Bács-Kiskun|72
+Perkáta|47.047|18.787|HU|Fejér|72
+Darda|45.628|18.700|HR|County of Osijek-Baranja|72
+Rácalmás|47.023|18.941|HU|Fejér|72
+Ásotthalom|46.199|19.783|HU|Csongrád|72
+Kozármisleny|46.030|18.292|HU|Baranya|72
+Bodajk|47.324|18.233|HU|Fejér|72
+Pécsvárad|46.160|18.423|HU|Baranya|72
+Nagyvenyim|46.958|18.864|HU|Fejér|72
+Sükösd|46.282|18.995|HU|Bács-Kiskun|72
+Feketić|45.664|19.700|RS|Vojvodina|72
+Helvécia|46.837|19.623|HU|Bács-Kiskun|72
+Ilok|45.222|19.377|HR|Vukovar-Srijem|72
+Tápiógyörgye|47.335|19.953|HU|Pest County|72
+Adony|47.119|18.865|HU|Fejér|72
+Farmos|47.361|19.846|HU|Pest County|72
+Felsőpakony|47.343|19.237|HU|Pest County|72
+Nyáregyháza|47.262|19.501|HU|Pest County|72
+Harta|46.698|19.031|HU|Bács-Kiskun|71
+Vrdnik|45.122|19.792|RS|Vojvodina|71
+Dunapataj|46.644|18.996|HU|Bács-Kiskun|71
+Hernád|47.162|19.433|HU|Pest County|71
+Bóly|45.967|18.518|HU|Baranya|71
+Etyek|47.448|18.753|HU|Fejér|71
+Orašje|45.034|18.693|BA|Federation of B&H|71
+Vaskút|46.108|18.985|HU|Bács-Kiskun|71
+Josipovac|45.583|18.581|HR|County of Osijek-Baranja|71
+Šamac|45.060|18.468|BA|Srpska|71
+Ravno Selo|45.450|19.621|RS|Vojvodina|71
+Otok|45.147|18.884|HR|Vukovar-Srijem|71
+Borovo|45.405|18.976|HR|Vukovar-Srijem|71
+Nagybajom|46.392|17.511|HU|Somogy County|71
+Hajós|46.399|19.121|HU|Bács-Kiskun|71
+Tápióbicske|47.361|19.686|HU|Pest County|71
+Táborfalva|47.099|19.478|HU|Pest County|71
+Sásd|46.255|18.108|HU|Baranya|71
+Donja Dubica|45.076|18.410|BA|Federation of B&H|71
+Akasztó|46.692|19.204|HU|Bács-Kiskun|71
+Sárosd|47.043|18.644|HU|Fejér|71
+Orgovány|46.751|19.473|HU|Bács-Kiskun|71
+Harkány|45.850|18.237|HU|Baranya|71
+Ratkovo|45.456|19.337|RS|Vojvodina|71
+Herend|47.133|17.750|HU|Veszprém|71
+Orahovica|45.530|17.880|HR|Virovitica-Podravina|71
+Lengyeltóti|46.670|17.644|HU|Somogy County|71
+Ecser|47.444|19.325|HU|Pest County|70
+Balatonkenese|47.040|18.107|HU|Veszprém|70
+Hosszúhetény|46.164|18.351|HU|Baranya|70
+Baracs|46.882|18.907|HU|Fejér|70
+Dusnok|46.391|18.963|HU|Bács-Kiskun|70
+Zsombó|46.326|19.975|HU|Csongrád|70
+Madaras|46.059|19.261|HU|Bács-Kiskun|70
+Kápolnásnyék|47.240|18.676|HU|Fejér|70
+Lepsény|46.990|18.244|HU|Fejér|70
+Kulpin|45.402|19.588|RS|Vojvodina|70
+Riđica|45.991|19.106|RS|Vojvodina|70
+Sellye|45.872|17.847|HU|Baranya|70
+Bakonycsernye|47.324|18.075|HU|Fejér|70
+Obrovac|45.321|19.350|RS|Vojvodina|70
+Bilje|45.607|18.744|HR|County of Osijek-Baranja|70
+Lovćenac|45.682|19.692|RS|Vojvodina|70
+Tápiószőlős|47.302|19.851|HU|Pest County|70
+Üllés|46.336|19.845|HU|Csongrád|70
+Nuštar|45.333|18.841|HR|Vukovar-Srijem|70
+Ráckeresztúr|47.274|18.833|HU|Fejér|70
+Bordány|46.318|19.923|HU|Csongrád|70
+Lakihegy|47.378|19.010|HU|Pest County|70
+Bácsbokod|46.125|19.156|HU|Bács-Kiskun|70
+Bugac|46.687|19.681|HU|Bács-Kiskun|70
+Podvinje|45.190|18.027|HR|Brod-Posavina|70
+Hőgyész|46.497|18.418|HU|Tolna County|70
+Cerna|45.182|18.689|HR|Vukovar-Srijem|70
+Sóskút|47.407|18.822|HU|Pest County|70
+Kelebia|46.197|19.617|HU|Bács-Kiskun|69
+Szalkszentmárton|46.976|19.012|HU|Bács-Kiskun|69
+Tass|47.021|19.030|HU|Bács-Kiskun|69
+Bölcske|46.741|18.967|HU|Tolna County|69
+Pleternica|45.289|17.806|HR|Požega-Slavonia|69
+Dalj|45.484|18.986|HR|County of Osijek-Baranja|69
+Bošnjaci|45.050|18.756|HR|Vukovar-Srijem|69
+Érsekcsanád|46.254|18.985|HU|Bács-Kiskun|69
+Gomba|47.371|19.531|HU|Pest County|69
+Újhartyán|47.220|19.386|HU|Pest County|69
+Kisszállás|46.280|19.490|HU|Bács-Kiskun|69
+Cece|46.771|18.628|HU|Fejér|69
+Balatonszabadi|46.894|18.137|HU|Somogy County|69
+Dánszentmiklós|47.215|19.547|HU|Pest County|69
+Sárszentmihály|47.153|18.339|HU|Fejér|69
+Iváncsa|47.157|18.820|HU|Fejér|69
+Hajmáskér|47.145|18.020|HU|Veszprém|69
+Nagydorog|46.627|18.656|HU|Tolna County|69
+Beremend|45.791|18.433|HU|Baranya|69
+Iregszemcse|46.693|18.186|HU|Tolna County|69
+Ruzsa|46.288|19.747|HU|Csongrád|69
+Babina Greda|45.117|18.537|HR|Vukovar-Srijem|69
+Tápióság|47.402|19.630|HU|Pest County|69
+Ballószög|46.862|19.571|HU|Bács-Kiskun|69
+Zákányszék|46.275|19.890|HU|Csongrád|69
+Kadarkút|46.236|17.620|HU|Somogy County|69
+Villány|45.869|18.454|HU|Baranya|69
+Erdevik|45.117|19.409|RS|Vojvodina|69
+Maglić|45.362|19.532|RS|Vojvodina|69
+Mirkovci|45.270|18.851|HR|Vukovar-Srijem|69
+Újszilvás|47.275|19.925|HU|Pest County|69
+Pákozd|47.214|18.533|HU|Fejér|69
+Úri|47.414|19.528|HU|Pest County|69
+Kakucs|47.242|19.365|HU|Pest County|69
+Lánycsók|46.005|18.625|HU|Baranya|69
+Baracska|47.282|18.759|HU|Fejér|69
+Kupusina|45.738|19.011|RS|Vojvodina|69
+Szászvár|46.277|18.376|HU|Baranya|69
+Lovasberény|47.310|18.552|HU|Fejér|69
+Gara|46.032|19.043|HU|Bács-Kiskun|68
+Mágocs|46.350|18.232|HU|Baranya|68
+Császártöltés|46.422|19.184|HU|Bács-Kiskun|68
+Kisláng|46.957|18.388|HU|Fejér|68
+Jakabszállás|46.760|19.607|HU|Bács-Kiskun|68
+Dunaszentgyörgy|46.529|18.818|HU|Tolna County|68
+Jászszentlászló|46.567|19.761|HU|Bács-Kiskun|68
+Előszállás|46.831|18.835|HU|Fejér|68
+Pincehely|46.681|18.439|HU|Tolna County|68
+Őcsény|46.314|18.757|HU|Tolna County|68
+Káloz|46.955|18.483|HU|Fejér|68
+Pusztavám|47.429|18.226|HU|Fejér|68
+Nemesvámos|47.055|17.875|HU|Veszprém|68
+Délegyháza|47.241|19.090|HU|Pest County|68
+Kaposmérő|46.362|17.704|HU|Somogy County|68
+Szank|46.557|19.661|HU|Bács-Kiskun|68
+Nagymányok|46.279|18.455|HU|Tolna County|68
+Fülöpszállás|46.821|19.237|HU|Bács-Kiskun|68
+Gložan|45.280|19.568|RS|Vojvodina|68
+Szedres|46.476|18.683|HU|Tolna County|68
+Szigetcsép|47.265|18.970|HU|Pest County|68
+Nagybaracska|46.042|18.906|HU|Bács-Kiskun|68
+Tengelic|46.529|18.711|HU|Tolna County|68
+Sárkeresztúr|47.005|18.544|HU|Fejér|68
+Nyárlőrinc|46.860|19.878|HU|Bács-Kiskun|68
+Novi Žednik|45.941|19.671|RS|Vojvodina|68
+Katymár|46.034|19.209|HU|Bács-Kiskun|68
+Lajoskomárom|46.842|18.338|HU|Fejér|67
+Dég|46.868|18.450|HU|Fejér|67
+Bogyiszló|46.386|18.830|HU|Tolna County|67
+Vál|47.363|18.679|HU|Fejér|67
+Ðurđenovac|45.543|18.046|HR|County of Osijek-Baranja|67
+Bogojevo|45.530|19.130|RS|Vojvodina|67
+Mezőszilas|46.811|18.478|HU|Fejér|67
+Hercegszántó|45.950|18.939|HU|Bács-Kiskun|67
+Ádánd|46.859|18.164|HU|Somogy County|67
+Csengőd|46.715|19.268|HU|Bács-Kiskun|67
+Forráskút|46.365|19.910|HU|Csongrád|67
+Zomba|46.411|18.566|HU|Tolna County|67
+Kunfehértó|46.361|19.415|HU|Bács-Kiskun|67
+Hidas|46.257|18.495|HU|Baranya|67
+Badacsonytomaj|46.807|17.514|HU|Veszprém|67
+Városföld|46.817|19.757|HU|Bács-Kiskun|67
+Dávod|45.995|18.917|HU|Bács-Kiskun|67
+Bokod|47.492|18.247|HU|Komárom-Esztergom|67
+Gradište|45.148|18.707|HR|Vukovar-Srijem|67
+Zamárdi|46.885|17.954|HU|Somogy County|67
+Zámoly|47.317|18.408|HU|Fejér|67
+Privlaka|45.195|18.837|HR|Vukovar-Srijem|67
+Bátya|46.488|18.954|HU|Bács-Kiskun|67
+Úrkút|47.085|17.644|HU|Veszprém|67
+Szigetújfalu|47.234|18.927|HU|Pest County|67
+Dunaszekcső|46.087|18.759|HU|Baranya|67
+Alap|46.799|18.689|HU|Fejér|67
+Gyönk|46.556|18.477|HU|Tolna County|67
+Ősi|47.147|18.188|HU|Veszprém|67
+Doroslovo|45.607|19.189|RS|Vojvodina|67
+Čenej|45.368|19.804|RS|Vojvodina|67
+Gakovo|45.901|19.061|RS|Vojvodina|67
+Döbrököz|46.422|18.240|HU|Tolna County|67
+Apostag|46.882|18.962|HU|Bács-Kiskun|66
+Donji Andrijevci|45.188|18.300|HR|Brod-Posavina|66
+Kocsér|47.002|19.921|HU|Pest County|66
+Sibinj|45.192|17.908|HR|Brod-Posavina|66
+Csávoly|46.189|19.147|HU|Bács-Kiskun|66
+Despotovo|45.460|19.527|RS|Vojvodina|66
+Balatonföldvár|46.853|17.881|HU|Somogy County|66
+Pálmonostora|46.624|19.952|HU|Bács-Kiskun|66
+Szentkirályszabadja|47.058|17.971|HU|Veszprém|66
+Nemesnádudvar|46.341|19.051|HU|Bács-Kiskun|66
+Pánd|47.353|19.636|HU|Pest County|66
+Csetény|47.318|17.992|HU|Veszprém|66
+Antunovac|45.491|18.675|HR|County of Osijek-Baranja|66
+Strizivojna|45.226|18.424|HR|County of Osijek-Baranja|66
+Davor|45.115|17.516|HR|Brod-Posavina|66
+Somogyvár|46.581|17.663|HU|Somogy County|66
+Jarmina|45.318|18.729|HR|Vukovar-Srijem|66
+Taszár|46.375|17.906|HU|Somogy County|66
+Litér|47.101|18.005|HU|Veszprém|66
+Csengele|46.542|19.864|HU|Csongrád|66
+Stepanovićevo|45.414|19.700|RS|Vojvodina|66
+Felsőszentiván|46.197|19.187|HU|Bács-Kiskun|66
+Soponya|47.015|18.453|HU|Fejér|66
+Balatonszárszó|46.829|17.824|HU|Somogy County|66
+Pázmánd|47.288|18.654|HU|Fejér|66
+Tázlár|46.548|19.514|HU|Bács-Kiskun|66
+Péteri|47.391|19.410|HU|Pest County|66
+Szentkirály|46.919|19.918|HU|Bács-Kiskun|66
+Csór|47.206|18.257|HU|Fejér|66
+Petrijevci|45.613|18.535|HR|County of Osijek-Baranja|66
+Stari Žednik|45.949|19.630|RS|Vojvodina|66
+Kutjevo|45.426|17.883|HR|Požega-Slavonia|66
+Madocsa|46.688|18.958|HU|Tolna County|66
+Császár|47.498|18.143|HU|Komárom-Esztergom|66
+Bakonyszentlászló|47.389|17.803|HU|Győr-Moson-Sopron|66
+Ledinci|45.187|19.806|RS|Vojvodina|66
+Németkér|46.716|18.763|HU|Tolna County|66
+Ágasegyháza|46.840|19.452|HU|Bács-Kiskun|66
+Báta|46.129|18.770|HU|Tolna County|66
+Vajszló|45.860|17.984|HU|Baranya|66
+Fehérvárcsurgó|47.293|18.265|HU|Fejér|66
+Kolut|45.893|18.928|RS|Vojvodina|66
+Stari Mikanovci|45.287|18.559|HR|Vukovar-Srijem|65
+Pellérd|46.034|18.154|HU|Baranya|65
+Nádasdladány|47.138|18.240|HU|Fejér|65
+Brodski Varoš|45.181|17.979|HR|Brod-Posavina|65
+Kunbaja|46.084|19.421|HU|Bács-Kiskun|65
+Bócsa|46.610|19.484|HU|Bács-Kiskun|65
+Bački Breg|45.920|18.929|RS|Vojvodina|65
+Andrijaševci|45.225|18.738|HR|Vukovar-Srijem|65
+Ozora|46.751|18.400|HU|Tolna County|65
+Bukovlje|45.185|18.070|HR|Brod-Posavina|65
+Karád|46.691|17.841|HU|Somogy County|65
+Csólyospálos|46.418|19.840|HU|Bács-Kiskun|65
+Čačinci|45.604|17.870|HR|Virovitica-Podravina|65
+Bizovac|45.593|18.459|HR|County of Osijek-Baranja|65
+Rokovci|45.231|18.744|HR|Vukovar-Srijem|65
+Kunszállás|46.763|19.754|HU|Bács-Kiskun|65
+Fajsz|46.417|18.919|HU|Bács-Kiskun|65
+Mecseknádasd|46.225|18.471|HU|Baranya|64
+Ugod|47.321|17.600|HU|Veszprém|64
+Sarvaš|45.527|18.837|HR|County of Osijek-Baranja|64
+Balotaszállás|46.351|19.540|HU|Bács-Kiskun|64
+Gornja Vrba|45.155|18.066|HR|Brod-Posavina|64
+Velika|45.454|17.661|HR|Požega-Slavonia|64
+Balatonszemes|46.810|17.780|HU|Somogy County|64
+Pusztaszer|46.551|19.988|HU|Csongrád|64
+Vođinci|45.276|18.610|HR|Vukovar-Srijem|64
+Miske|46.446|19.033|HU|Bács-Kiskun|64
+Gundinci|45.158|18.491|HR|Brod-Posavina|64
+Csopak|46.977|17.918|HU|Veszprém|64
+Foktő|46.528|18.919|HU|Bács-Kiskun|64
+Korenica|45.225|18.166|HR|Brod-Posavina|64
+Jakšić|45.358|17.764|HR|Požega-Slavonia|64
+Ladánybene|47.034|19.456|HU|Bács-Kiskun|64
+Štitar|45.096|18.640|HR|Vukovar-Srijem|64
+Kisač|45.354|19.730|RS|Vojvodina|64
+Homokmégy|46.490|19.073|HU|Bács-Kiskun|64
+Kunadacs|46.956|19.289|HU|Bács-Kiskun|64
+Réde|47.430|17.914|HU|Komárom-Esztergom|64
+Bijelo Brdo|45.517|18.871|HR|County of Osijek-Baranja|64
+Bátmonostor|46.102|18.928|HU|Bács-Kiskun|64
+Kincsesbánya|47.264|18.278|HU|Fejér|64
+Oriovac|45.166|17.760|HR|Brod-Posavina|63
+Sikirevci|45.109|18.464|HR|Brod-Posavina|63
+Petőfiszállás|46.622|19.862|HU|Bács-Kiskun|63
+Tihany|46.914|17.889|HU|Veszprém|63
+Csátalja|46.037|18.947|HU|Bács-Kiskun|63
+Piškorevci|45.255|18.404|HR|County of Osijek-Baranja|63
+Balatonvilágos|46.963|18.160|HU|Somogy County|63
+Alcsútdoboz|47.428|18.604|HU|Fejér|63
+Szeremle|46.144|18.881|HU|Bács-Kiskun|63
+Bácsszőlős|46.150|19.450|HU|Bács-Kiskun|63
+Selci Ðakovački|45.309|18.350|HR|County of Osijek-Baranja|63
+Velika Kopanica|45.156|18.393|HR|Brod-Posavina|63
+Markovac Našički|45.500|18.120|HR|County of Osijek-Baranja|63
+Vrpolje|45.211|18.406|HR|Brod-Posavina|63
+Dunaegyháza|46.838|18.954|HU|Bács-Kiskun|63
+Tovarnik|45.165|19.152|HR|Vukovar-Srijem|63
+Ivanovac|45.486|18.637|HR|County of Osijek-Baranja|63
+Nagykarácsony|46.871|18.772|HU|Fejér|63
+Alsóörs|46.991|17.976|HU|Veszprém|63
+Feričanci|45.529|17.976|HR|County of Osijek-Baranja|62
+Kneževi Vinogradi|45.750|18.733|HR|County of Osijek-Baranja|62
+Nijemci|45.140|19.036|HR|Vukovar-Srijem|62
+Komletinci|45.150|18.949|HR|Vukovar-Srijem|62
+Súr|47.369|18.030|HU|Komárom-Esztergom|62
+Slobodnica|45.162|17.933|HR|Brod-Posavina|62
+Borota|46.266|19.223|HU|Bács-Kiskun|62
+Bistrinci|45.692|18.399|HR|County of Osijek-Baranja|62
+Cerić|45.311|18.856|HR|Vukovar-Srijem|62
+Ladimirevci|45.626|18.449|HR|County of Osijek-Baranja|62
+Apaj|47.113|19.088|HU|Pest County|62
+Brodski Stupnik|45.168|17.804|HR|Brod-Posavina|62
+Staro Petrovo Selo|45.231|17.520|HR|Brod-Posavina|62
+Sióagárd|46.393|18.653|HU|Tolna County|62
+Vidovci|45.333|17.715|HR|Požega-Slavonia|62
+Soltszentimre|46.771|19.287|HU|Bács-Kiskun|62
+Bácsborsód|46.099|19.158|HU|Bács-Kiskun|62
+Koška|45.545|18.286|HR|County of Osijek-Baranja|62
+Rém|46.247|19.141|HU|Bács-Kiskun|62
+Páhi|46.713|19.387|HU|Bács-Kiskun|62
+Satnica Ðakovačka|45.356|18.378|HR|County of Osijek-Baranja|62
+Bobota|45.421|18.854|HR|Vukovar-Srijem|62
+Tabdi|46.682|19.326|HU|Bács-Kiskun|62
+Szakmár|46.555|19.075|HU|Bács-Kiskun|62
+Andocs|46.648|17.928|HU|Somogy County|62
+Koraće|45.067|17.935|BA|Srpska|61
+Fülöpjakab|46.742|19.721|HU|Bács-Kiskun|61
+Aparhant|46.329|18.449|HU|Tolna County|61
+Briješće|45.524|18.627|HR|County of Osijek-Baranja|61
+Tataháza|46.174|19.300|HU|Bács-Kiskun|61
+Áporka|47.233|19.017|HU|Pest County|61
+Bükkösd|46.108|17.988|HU|Baranya|61
+Trpinja|45.419|18.899|HR|Vukovar-Srijem|61
+Révfülöp|46.826|17.620|HU|Veszprém|61
+Stari Jankovci|45.262|18.914|HR|Vukovar-Srijem|61
+Alsószentmárton|45.790|18.306|HU|Baranya|61
+Budrovci|45.271|18.449|HR|County of Osijek-Baranja|61
+Beloiannisz|47.182|18.824|HU|Fejér|61
+Pusztahencse|46.600|18.717|HU|Tolna County|61
+Kaptol|45.435|17.726|HR|Požega-Slavonia|60
+Slavonski Kobaš|45.106|17.746|HR|Brod-Posavina|60
+Semeljci|45.361|18.544|HR|County of Osijek-Baranja|60
+Jelisavac|45.529|18.156|HR|County of Osijek-Baranja|60
+Retkovci|45.233|18.653|HR|Vukovar-Srijem|60
+Ruščica|45.147|18.079|HR|Brod-Posavina|60
+Brijest|45.521|18.672|HR|County of Osijek-Baranja|60
+Zánka|46.871|17.685|HU|Veszprém|60
+Kaskantyú|46.672|19.387|HU|Bács-Kiskun|60
+Uszód|46.570|18.901|HU|Bács-Kiskun|60
+Géderlak|46.607|18.914|HU|Bács-Kiskun|60
+Ernestinovo|45.452|18.659|HR|County of Osijek-Baranja|60
+Pirtó|46.514|19.432|HU|Bács-Kiskun|60
+Donja Motičina|45.495|18.024|HR|County of Osijek-Baranja|60
+Jagodnjak|45.699|18.577|HR|County of Osijek-Baranja|60
+Viljevo|45.751|18.063|HR|County of Osijek-Baranja|60
+Negoslavci|45.279|18.997|HR|Vukovar-Srijem|60
+Dunaszentbenedek|46.593|18.894|HU|Bács-Kiskun|60
+Stari Slatnik|45.179|17.847|HR|Brod-Posavina|60
+Gödre|46.286|17.973|HU|Baranya|60
+Voćin|45.618|17.548|HR|Virovitica-Podravina|60
+Szakcs|46.539|18.110|HU|Tolna County|60
+Himesháza|46.088|18.570|HU|Baranya|60
+Velimirovac|45.524|18.109|HR|County of Osijek-Baranja|60
+Martin|45.492|18.067|HR|County of Osijek-Baranja|60
+Csikéria|46.129|19.471|HU|Bács-Kiskun|59
+Bršadin|45.363|18.911|HR|Vukovar-Srijem|59
+Stari Perkovci|45.218|18.349|HR|Brod-Posavina|59
+Viškovci|45.345|18.462|HR|County of Osijek-Baranja|59
+Vladislavci|45.459|18.574|HR|County of Osijek-Baranja|59
+Bábonymegyer|46.754|18.095|HU|Somogy County|59
+Zichyújfalu|47.133|18.683|HU|Fejér|59
+Laslovo|45.415|18.696|HR|County of Osijek-Baranja|59
+Isztimér|47.279|18.195|HU|Fejér|59
+Kuševac|45.348|18.429|HR|County of Osijek-Baranja|59
+Trstenci|45.049|17.797|BA|Srpska|59
+Attala|46.378|18.064|HU|Somogy County|59
+Bosanski Kobaš|45.096|17.726|BA|Srpska|59
+Zsana|46.406|19.681|HU|Bács-Kiskun|59
+Adásztevel|47.303|17.541|HU|Veszprém|59
+Čeminac|45.686|18.668|HR|County of Osijek-Baranja|59
+Felsőlajos|47.067|19.497|HU|Bács-Kiskun|59
+Batrina|45.189|17.666|HR|Brod-Posavina|59
+Lužani|45.168|17.707|HR|Brod-Posavina|59
+Imrehegy|46.477|19.312|HU|Bács-Kiskun|59
+Bešenovo|45.084|19.704|RS|Vojvodina|58
+Fülöpháza|46.883|19.417|HU|Bács-Kiskun|58
+Alsónyék|46.202|18.734|HU|Tolna County|58
+Kruševica|45.078|18.483|HR|Brod-Posavina|58
+Kömpöc|46.464|19.867|HU|Bács-Kiskun|58
+Široko Polje|45.405|18.473|HR|County of Osijek-Baranja|58
+Gorjani|45.399|18.372|HR|County of Osijek-Baranja|58
+Gradac|45.310|17.810|HR|Požega-Slavonia|58
+Lužani Bosanski|45.018|17.986|BA|Srpska|58
+Podgorač|45.459|18.223|HR|County of Osijek-Baranja|58
+Miškovci|45.003|17.797|BA|Srpska|58
+Nova Kapela|45.199|17.639|HR|Brod-Posavina|58
+Ácsteszér|47.405|18.006|HU|Komárom-Esztergom|58
+Slavonski Šamac|45.067|18.489|HR|Brod-Posavina|58
+Koritna|45.384|18.566|HR|County of Osijek-Baranja|58
+Branjin Vrh|45.796|18.610|HR|County of Osijek-Baranja|58
+Vuka|45.434|18.505|HR|County of Osijek-Baranja|58
+Mece|45.619|18.721|HR|County of Osijek-Baranja|58
+Öregcsertő|46.518|19.115|HU|Bács-Kiskun|58
+Vetovo|45.416|17.794|HR|Požega-Slavonia|58
+Zadubravlje|45.164|18.154|HR|Brod-Posavina|58
+Popovac|45.809|18.658|HR|County of Osijek-Baranja|57
+Zdenci|45.589|17.950|HR|Virovitica-Podravina|57
+Grabovac|45.697|18.740|HR|County of Osijek-Baranja|57
+Garčin|45.183|18.183|HR|Brod-Posavina|57
+Markušica|45.374|18.706|HR|Vukovar-Srijem|57
+Dervišaga|45.330|17.728|HR|Požega-Slavonia|57
+Gradina|45.855|17.507|HR|Virovitica-Podravina|57
+Alsónána|46.252|18.657|HU|Tolna County|57
+Lovas|45.226|19.171|HR|Vukovar-Srijem|57
+Somogyszil|46.519|17.998|HU|Somogy County|57
+Babarc|46.004|18.552|HU|Baranya|57
+Rakitovica|45.716|18.192|HR|County of Osijek-Baranja|57
+Oprisavci|45.146|18.216|HR|Brod-Posavina|57
+Vukojevci|45.478|18.156|HR|County of Osijek-Baranja|57
+Harkakötöny|46.463|19.608|HU|Bács-Kiskun|57
+Kaniža|45.108|17.886|HR|Brod-Posavina|57
+Sveti Ðurađ|45.739|18.246|HR|County of Osijek-Baranja|57
+Slakovci|45.225|18.950|HR|Vukovar-Srijem|57
+Nagydobsza|46.033|17.667|HU|Baranya|57
+Trnjani|45.188|18.142|HR|Brod-Posavina|57
+Josipovac Punitovački|45.424|18.418|HR|County of Osijek-Baranja|57
+Novi Jankovci|45.240|18.896|HR|Vukovar-Srijem|57
+Šiškovci|45.199|18.647|HR|Vukovar-Srijem|57
+Sárpilis|46.249|18.742|HU|Tolna County|57
+Vrbova|45.219|17.578|HR|Brod-Posavina|57
+Alsószentiván|46.787|18.730|HU|Fejér|57
+Ilača|45.181|19.096|HR|Vukovar-Srijem|57
+Kunpeszér|47.059|19.276|HU|Bács-Kiskun|57
+Marjanci|45.667|18.292|HR|County of Osijek-Baranja|57
+Sot|45.161|19.318|RS|Vojvodina|57
+Trenkovo|45.403|17.663|HR|Požega-Slavonia|57
+Értény|46.611|18.133|HU|Tolna County|57
+Hárskút|47.188|17.817|HU|Veszprém|56
+Bapska|45.197|19.260|HR|Vukovar-Srijem|56
+Karanac|45.761|18.684|HR|County of Osijek-Baranja|56
+Podravska Moslavina|45.786|17.983|HR|County of Osijek-Baranja|56
+Lengyel|46.372|18.368|HU|Tolna County|56
+Kešinci|45.351|18.559|HR|County of Osijek-Baranja|56
+Mikleuš|45.619|17.804|HR|Virovitica-Podravina|56
+Petrovcy|45.289|18.944|HR|Vukovar-Srijem|56
+Sladojevci|45.724|17.659|HR|Virovitica-Podravina|56
+Bánd|47.122|17.781|HU|Veszprém|56
+Nova Bukovica|45.665|17.767|HR|Virovitica-Podravina|56
+Abaliget|46.143|18.117|HU|Baranya|56
+Bartolovci|45.183|17.931|HR|Brod-Posavina|56
+Zoljan|45.475|18.057|HR|County of Osijek-Baranja|56
+Črnkovci|45.708|18.295|HR|County of Osijek-Baranja|56
+Mihaljevci|45.383|17.674|HR|Požega-Slavonia|56
+Kunbaracs|46.989|19.403|HU|Bács-Kiskun|56
+Kozarac|45.719|18.676|HR|County of Osijek-Baranja|56
+Bogdanovci|45.341|18.931|HR|Vukovar-Srijem|56
+Vrbica|45.306|18.558|HR|County of Osijek-Baranja|56
+Beravci|45.151|18.430|HR|Brod-Posavina|56
+Gat|45.706|18.326|HR|County of Osijek-Baranja|56
+Cabuna|45.754|17.578|HR|Virovitica-Podravina|56
+Antin|45.382|18.751|HR|Vukovar-Srijem|56
+Lug|45.662|18.776|HR|County of Osijek-Baranja|56
+Brestovac|45.331|17.597|HR|Požega-Slavonia|56
+Sotin|45.298|19.095|HR|Vukovar-Srijem|56
+Szálka|46.275|18.638|HU|Tolna County|56
+Beljevina|45.564|18.014|HR|County of Osijek-Baranja|55
+Batina|45.846|18.850|HR|County of Osijek-Baranja|55
+Medina|46.475|18.643|HU|Tolna County|55
+Tordinci|45.370|18.795|HR|Vukovar-Srijem|55
+Ivanovci Gorjanski|45.366|18.417|HR|County of Osijek-Baranja|55
+Ćeralije|45.619|17.686|HR|Virovitica-Podravina|55
+Staro Topolje|45.190|18.248|HR|Brod-Posavina|55
+Vranovci|45.184|18.091|HR|Brod-Posavina|55
+Čađavica|45.744|17.855|HR|Virovitica-Podravina|55
+Punitovci|45.433|18.416|HR|County of Osijek-Baranja|55
+Tvrđavica|45.571|18.676|HR|County of Osijek-Baranja|55
+Eminovci|45.357|17.731|HR|Požega-Slavonia|55
+Erdut|45.526|19.060|HR|County of Osijek-Baranja|55
+Veliškovci|45.691|18.322|HR|County of Osijek-Baranja|55
+Lipovac|45.055|19.071|HR|Vukovar-Srijem|55
+Gašinci|45.335|18.316|HR|County of Osijek-Baranja|55
+Istvándi|46.018|17.623|HU|Somogy County|55
+Zmajevac|45.802|18.809|HR|County of Osijek-Baranja|55
+Podgajci Podravski|45.729|18.271|HR|County of Osijek-Baranja|55
+Jaruge|45.116|18.420|HR|Brod-Posavina|55
+Satnica|45.614|18.490|HR|County of Osijek-Baranja|55
+Budimci|45.465|18.323|HR|County of Osijek-Baranja|55
+Novi Mikanovci|45.287|18.591|HR|Vukovar-Srijem|55
+Korovi|45.070|17.766|BA|Srpska|55
+Lovas|46.994|17.957|HU|Veszprém|55
+Drenovac|45.223|17.754|HR|Požega-Slavonia|55
+Érsekhalma|46.349|19.122|HU|Bács-Kiskun|55
+Petlovac|45.758|18.528|HR|County of Osijek-Baranja|55
+Šumeće|45.076|17.878|HR|Brod-Posavina|54
+Dunatetétlen|46.757|19.095|HU|Bács-Kiskun|54
+Čepinski Martinci|45.511|18.469|HR|County of Osijek-Baranja|54
+Trnava|45.261|18.253|HR|County of Osijek-Baranja|54
+Breznica Našička|45.537|18.206|HR|County of Osijek-Baranja|54
+Donja Vrba|45.166|18.107|HR|Brod-Posavina|54
+Samatovci|45.596|18.504|HR|County of Osijek-Baranja|54
+Livana|45.530|18.616|HR|County of Osijek-Baranja|54
+Beketinci|45.455|18.477|HR|County of Osijek-Baranja|54
+Mrzović|45.326|18.593|HR|County of Osijek-Baranja|54
+Vardarac|45.627|18.771|HR|County of Osijek-Baranja|54
+Ivanovci Đakovački|45.370|18.409|HR|County of Osijek-Baranja|54
+Ordas|46.636|18.946|HU|Bács-Kiskun|54
+Ábrahámhegy|46.810|17.556|HU|Veszprém|54
+Čaglin|45.350|17.990|HR|Požega-Slavonia|54
+Drenje|45.381|18.282|HR|County of Osijek-Baranja|53
+Sopje|45.801|17.742|HR|Virovitica-Podravina|53
+Crnac|45.696|17.937|HR|Virovitica-Podravina|52
+Podcrkavlje|45.224|18.010|HR|Brod-Posavina|51
+Bebrina|45.098|17.834|HR|Brod-Posavina|51
+Draž|45.842|18.789|HR|County of Osijek-Baranja|51
+Šodolovci|45.400|18.620|HR|County of Osijek-Baranja|49
+Klakar|45.099|18.132|HR|Brod-Posavina|48
+Tompojevci|45.233|19.092|HR|Vukovar-Srijem|47
+Levanjska Varoš|45.316|18.184|HR|County of Osijek-Baranja|47
+Magadenovac|45.662|18.187|HR|County of Osijek-Baranja|40
+Liberpolis|45.775|18.880|HR|County of Osijek-Baranja|36
+Domaljevac|45.061|18.586|BA|Federation of B&H|12
+Bač|45.392|19.237|RS|Vojvodina|0
+Beočin|45.208|19.721|RS|Vojvodina|0
+Irig|45.101|19.858|RS|Vojvodina|0
+Kula|45.609|19.526|RS|Vojvodina|0
+Mali Iđoš|45.708|19.665|RS|Vojvodina|0
+Odžaci|45.507|19.261|RS|Vojvodina|0
+Šid|45.128|19.226|RS|Vojvodina|0
+Srbobran|45.554|19.803|RS|Vojvodina|0
+Temerin|45.409|19.889|RS|Vojvodina|0

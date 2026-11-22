@@ -1,0 +1,911 @@
+Zaragoza|41.656|-0.877|ES|Aragon|117
+Logroño|42.466|-2.451|ES|La Rioja|104
+Cuenca|40.067|-2.133|ES|Castille-La Mancha|95
+Huesca|42.136|-0.409|ES|Aragon|95
+Soria|41.764|-2.469|ES|Castille and León|92
+Teruel|40.346|-1.106|ES|Aragon|91
+Tudela|42.062|-1.605|ES|Navarre|91
+Calahorra|42.305|-1.965|ES|La Rioja|88
+Calatayud|41.354|-1.643|ES|Aragon|86
+Utebo|41.708|-0.999|ES|Aragon|85
+Ejea de los Caballeros|42.126|-1.137|ES|Aragon|85
+Alcañiz|41.050|-0.133|ES|Aragon|84
+Arnedo|42.228|-2.101|ES|La Rioja|83
+Tarazona|41.905|-1.727|ES|Aragon|81
+l'Alcora|40.067|-0.200|ES|Valencia|80
+Alfaro|42.180|-1.750|ES|La Rioja|80
+Caspe|41.234|-0.039|ES|Aragon|78
+Andorra|40.977|-0.447|ES|Aragon|78
+La Almunia de Doña Godina|41.477|-1.375|ES|Aragon|78
+Corella|42.115|-1.786|ES|Navarre|78
+Tauste|41.918|-1.253|ES|Aragon|77
+Cintruénigo|42.079|-1.805|ES|Navarre|77
+Lardero|42.427|-2.462|ES|La Rioja|76
+Alagón|41.770|-1.119|ES|Aragon|76
+Zuera|41.868|-0.790|ES|Aragon|76
+San Adrián|42.334|-1.935|ES|Navarre|76
+Peralta|42.338|-1.800|ES|Navarre|75
+La Muela|41.580|-1.117|ES|Aragon|75
+Lodosa|42.423|-2.077|ES|Navarre|73
+Borja|41.834|-1.533|ES|Aragon|73
+Borriol|40.042|-0.070|ES|Valencia|73
+Calamocha|40.919|-1.298|ES|Aragon|73
+Fuentes de Ebro|41.513|-0.632|ES|Aragon|72
+Épila|41.600|-1.280|ES|Aragon|72
+Castejón|42.169|-1.690|ES|Navarre|72
+Sariñena|41.791|-0.158|ES|Aragon|72
+Autol|42.217|-2.005|ES|La Rioja|72
+Villanueva de Gállego|41.769|-0.824|ES|Aragon|72
+Villamediana de Iregua|42.427|-2.419|ES|La Rioja|72
+Azagra|42.300|-1.900|ES|Navarre|71
+Mendavia|42.443|-2.201|ES|Navarre|71
+Calanda|40.942|-0.232|ES|Aragon|71
+Cariñena|41.337|-1.224|ES|Aragon|71
+Alcorisa|40.892|-0.381|ES|Aragon|71
+Puebla de Alfindén|41.632|-0.752|ES|Aragon|71
+Pradejón|42.334|-2.069|ES|La Rioja|71
+Rincón de Soto|42.235|-1.852|ES|La Rioja|71
+Molina de Aragón|40.844|-1.888|ES|Castille-La Mancha|71
+Olite-Erriberri|42.480|-1.652|ES|Navarre|71
+Ribaforada|41.998|-1.513|ES|Navarre|71
+Illueca|41.538|-1.627|ES|Aragon|71
+Mallén|41.901|-1.420|ES|Aragon|71
+Olvega|41.779|-1.984|ES|Castille and León|70
+Murchante|42.032|-1.656|ES|Navarre|70
+Utrillas|40.813|-0.845|ES|Aragon|70
+Ágreda|41.856|-1.922|ES|Castille and León|70
+Cervera del Río Alhama|42.005|-1.955|ES|La Rioja|70
+Calatorao|41.522|-1.347|ES|Aragon|70
+Milagro|42.242|-1.766|ES|Navarre|70
+Pedrola|41.791|-1.214|ES|Aragon|69
+Gallur|41.868|-1.316|ES|Aragon|69
+Cuarte de Huerva|41.595|-0.933|ES|Aragon|69
+Cella|40.453|-1.288|ES|Aragon|69
+Villamayor de Gállego|41.686|-0.772|ES|Aragon|69
+Morella|40.620|-0.099|ES|Valencia|69
+Villafranca|42.279|-1.746|ES|Navarre|69
+Andosilla|42.381|-1.673|ES|Navarre|69
+Carcastillo|42.379|-1.444|ES|Navarre|68
+Albelda de Iregua|42.358|-2.473|ES|La Rioja|68
+Marcilla|42.328|-1.737|ES|Navarre|68
+Ricla|41.506|-1.405|ES|Aragon|68
+Falces|42.390|-1.793|ES|Navarre|68
+María de Huerva|41.539|-0.996|ES|Aragon|68
+Aldeanueva de Ebro|42.229|-1.887|ES|La Rioja|68
+Fustiñana|42.021|-1.485|ES|Navarre|68
+Caparroso|42.341|-1.650|ES|Navarre|68
+San Mateo de Gállego|41.830|-0.766|ES|Aragon|68
+Valtierra|42.197|-1.635|ES|Navarre|68
+El Burgo de Ebro|41.572|-0.741|ES|Aragon|68
+Funes|42.316|-1.800|ES|Navarre|68
+Buñuel|41.980|-1.445|ES|Navarre|68
+Almudévar|42.043|-0.581|ES|Aragon|68
+Monreal del Campo|40.788|-1.355|ES|Aragon|68
+Arguedas|42.178|-1.597|ES|Navarre|68
+Pina de Ebro|41.488|-0.531|ES|Aragon|68
+Pinseque|41.737|-1.100|ES|Aragon|67
+Cadrete|41.556|-0.960|ES|Aragon|67
+Alberite|42.407|-2.439|ES|La Rioja|67
+Villafranca del Cid|40.429|-0.258|ES|Valencia|67
+Fitero|42.058|-1.858|ES|Navarre|67
+Cadreita|42.217|-1.683|ES|Navarre|67
+Daroca|41.115|-1.415|ES|Aragon|67
+Albalate del Arzobispo|41.122|-0.511|ES|Aragon|67
+Ateca|41.331|-1.794|ES|Aragon|66
+Brea de Aragón|41.524|-1.603|ES|Aragon|66
+Quinto|41.424|-0.496|ES|Aragon|66
+Quel|42.230|-2.052|ES|La Rioja|66
+Grañén|41.941|-0.369|ES|Aragon|66
+San Juan de Moró|40.060|-0.137|ES|Valencia|66
+Híjar|41.174|-0.451|ES|Aragon|66
+Sádaba|42.282|-1.270|ES|Aragon|66
+Arcos de Jalón|41.216|-2.275|ES|Castille and León|65
+Alfajarín|41.614|-0.704|ES|Aragon|65
+Lerín|42.483|-1.972|ES|Navarre|65
+Gurrea de Gállego|42.015|-0.761|ES|Aragon|65
+Villafamés|40.117|-0.050|ES|Valencia|64
+Lucena del Cid|40.133|-0.283|ES|Valencia|64
+Belchite|41.306|-0.754|ES|Aragon|64
+Alfamén|41.439|-1.245|ES|Aragon|64
+Montalbán|40.833|-0.802|ES|Aragon|63
+Mora de Rubielos|40.250|-0.752|ES|Aragon|63
+Lanaja|41.771|-0.331|ES|Aragon|63
+Adzaneta|40.216|-0.170|ES|Valencia|63
+Torres de Berrellén|41.758|-1.065|ES|Aragon|63
+Mas de las Matas|40.834|-0.243|ES|Aragon|63
+Sesma|42.477|-2.084|ES|Navarre|63
+Morata de Jalón|41.473|-1.476|ES|Aragon|63
+Sartaguda|42.383|-2.057|ES|Navarre|63
+Benassal|40.377|-0.140|ES|Valencia|62
+Ribesalbes|40.017|-0.267|ES|Valencia|62
+Ariza|41.314|-2.053|ES|Aragon|62
+Sástago|41.322|-0.351|ES|Aragon|62
+Leciñena|41.799|-0.612|ES|Aragon|62
+Ainzón|41.816|-1.520|ES|Aragon|62
+Murillo de Río Leza|42.401|-2.325|ES|La Rioja|62
+Gelsa|41.408|-0.462|ES|Aragon|62
+Remolinos|41.839|-1.178|ES|Aragon|61
+Biota|42.262|-1.187|ES|Aragon|61
+Santa Eulalia|40.567|-1.314|ES|Aragon|61
+Alhama de Aragón|41.297|-1.894|ES|Aragon|61
+Muel|41.466|-1.085|ES|Aragon|61
+Escatrón|41.291|-0.323|ES|Aragon|61
+Magallón|41.832|-1.460|ES|Aragon|61
+Ademuz|40.061|-1.287|ES|Valencia|61
+Figueruelas|41.767|-1.175|ES|Aragon|61
+Escucha|40.795|-0.810|ES|Aragon|61
+Sierra-Engarcerán|40.269|-0.019|ES|Valencia|61
+Sarrión|40.142|-0.815|ES|Aragon|61
+Tardienta|41.978|-0.537|ES|Aragon|61
+Cárcar|42.393|-1.979|ES|Navarre|60
+Priego|40.449|-2.314|ES|Castille-La Mancha|60
+Luceni|41.829|-1.239|ES|Aragon|60
+Ayerbe|42.273|-0.688|ES|Aragon|60
+Villar de Olalla|40.015|-2.196|ES|Castille-La Mancha|60
+Boquiñeni|41.848|-1.252|ES|Aragon|60
+Maluenda|41.288|-1.616|ES|Aragon|60
+Santacara|42.375|-1.548|ES|Navarre|60
+Albarracín|40.408|-1.444|ES|Aragon|60
+Ribafrecha|42.355|-2.390|ES|La Rioja|60
+Bujaraloz|41.498|-0.153|ES|Aragon|60
+La Puebla de Híjar|41.222|-0.441|ES|Aragon|60
+Miranda de Arga|42.483|-1.828|ES|Navarre|60
+Useras|40.158|-0.165|ES|Valencia|60
+Samper de Calanda|41.189|-0.389|ES|Aragon|60
+Agoncillo|42.447|-2.290|ES|La Rioja|60
+Nalda|42.335|-2.487|ES|La Rioja|60
+Villarquemado|40.517|-1.265|ES|Aragon|59
+Almonacid de la Sierra|41.398|-1.324|ES|Aragon|59
+Ariño|41.030|-0.592|ES|Aragon|59
+Luna|42.168|-0.933|ES|Aragon|59
+Ausejo|42.342|-2.167|ES|La Rioja|59
+Cañete|40.050|-1.650|ES|Castille-La Mancha|59
+Lumpiaque|41.630|-1.302|ES|Aragon|59
+Uncastillo|42.360|-1.128|ES|Aragon|59
+Longares|41.403|-1.169|ES|Aragon|59
+Aniñon|41.445|-1.704|ES|Aragon|58
+Fontellas|42.027|-1.576|ES|Navarre|58
+Castelserás|40.981|-0.147|ES|Aragon|58
+Novallas|41.950|-1.700|ES|Aragon|58
+Aguarón|41.339|-1.271|ES|Aragon|58
+Castellote|40.800|-0.320|ES|Aragon|58
+Ontinar de Salz|41.935|-0.757|ES|Aragon|58
+Lécera|41.205|-0.711|ES|Aragon|58
+Mélida|42.359|-1.549|ES|Navarre|58
+Caminreal|40.839|-1.324|ES|Aragon|58
+Alcanadre|42.405|-2.121|ES|La Rioja|58
+Sobradiel|41.739|-1.038|ES|Aragon|58
+Cantavieja|40.526|-0.406|ES|Aragon|58
+Fuendejalón|41.761|-1.472|ES|Aragon|58
+Murillo el Fruto|42.393|-1.460|ES|Navarre|57
+Sos del Rey Católico|42.497|-1.215|ES|Aragon|57
+Valdealgorfa|40.991|-0.034|ES|Aragon|57
+Mosqueruela|40.361|-0.449|ES|Aragon|57
+Paniza|41.284|-1.212|ES|Aragon|57
+Igea|42.068|-2.011|ES|La Rioja|57
+Peñalba|41.501|-0.038|ES|Aragon|57
+Muniesa|41.033|-0.811|ES|Aragon|57
+Cetina|41.292|-1.963|ES|Aragon|57
+Puebla Tornesa|40.103|-0.001|ES|Valencia|57
+Aguilar del Río Alhama|41.962|-1.993|ES|La Rioja|57
+Villafranca de Ebro|41.575|-0.650|ES|Aragon|57
+Alloza|40.969|-0.529|ES|Aragon|57
+Culla|40.337|-0.166|ES|Valencia|57
+Castejón de Monegros|41.618|-0.240|ES|Aragon|57
+Medinaceli|41.172|-2.435|ES|Castille and León|57
+Azuara|41.258|-0.871|ES|Aragon|57
+Aguaviva|40.822|-0.195|ES|Aragon|56
+Novillas|41.933|-1.394|ES|Aragon|56
+Robres|41.867|-0.461|ES|Aragon|56
+Peralta de Alcofea|41.932|-0.068|ES|Aragon|56
+Murillo el Cuende|42.396|-1.630|ES|Navarre|56
+Rubielos de Mora|40.189|-0.653|ES|Aragon|56
+Villalba de la Sierra|40.234|-2.089|ES|Castille-La Mancha|56
+La Almolda|41.553|-0.212|ES|Aragon|56
+Alfambra|40.546|-1.033|ES|Aragon|56
+Herrera de los Navarros|41.210|-1.083|ES|Aragon|56
+Pradilla de Ebro|41.861|-1.263|ES|Aragon|56
+El Villar de Arnedo|42.321|-2.095|ES|La Rioja|56
+Nuez de Ebro|41.590|-0.668|ES|Aragon|56
+Pitillas|42.422|-1.620|ES|Navarre|56
+Cañamares|40.452|-2.240|ES|Castille-La Mancha|56
+Almarza|41.947|-2.469|ES|Castille and León|56
+Villarroya de la Sierra|41.463|-1.784|ES|Aragon|56
+Perdiguera|41.755|-0.631|ES|Aragon|56
+Alpartir|41.423|-1.381|ES|Aragon|56
+Cañizares|40.519|-2.192|ES|Castille-La Mancha|55
+Orihuela del Tremedal|40.550|-1.650|ES|Aragon|55
+Lagunilla del Jubera|42.334|-2.321|ES|La Rioja|55
+Almuniente|41.949|-0.412|ES|Aragon|55
+Villanueva del Huerva|41.353|-1.036|ES|Aragon|55
+Jarque|41.556|-1.676|ES|Aragon|55
+Fuentes Claras|40.864|-1.323|ES|Aragon|55
+Ibdes|41.217|-1.833|ES|Aragon|55
+La Zaida|41.328|-0.429|ES|Aragon|55
+Figueroles|40.117|-0.233|ES|Valencia|55
+Torrijo del Campo|40.826|-1.338|ES|Aragon|55
+San Pedro Manrique|42.029|-2.231|ES|Castille and León|55
+Cornago|42.064|-2.095|ES|La Rioja|55
+Sena|41.716|-0.042|ES|Aragon|55
+Villanueva de Sigena|41.716|-0.009|ES|Aragon|55
+Forcall|40.645|-0.200|ES|Valencia|55
+Loporzano|42.161|-0.323|ES|Aragon|54
+Ojos Negros|40.737|-1.499|ES|Aragon|54
+Moros|41.398|-1.828|ES|Aragon|54
+El Frasno|41.414|-1.496|ES|Aragon|54
+Cabañas de Ebro|41.800|-1.200|ES|Aragon|54
+Alcalá de la Selva|40.372|-0.720|ES|Aragon|54
+Siétamo|42.124|-0.281|ES|Aragon|54
+Monegrillo|41.639|-0.416|ES|Aragon|54
+Cedrillas|40.437|-0.852|ES|Aragon|54
+Terrer|41.328|-1.713|ES|Aragon|54
+Paracuellos de Jiloca|41.314|-1.640|ES|Aragon|54
+La Iglesuela del Cid|40.483|-0.319|ES|Aragon|54
+La Puebla de Valverde|40.224|-0.928|ES|Aragon|54
+Cinctorres|40.583|-0.217|ES|Valencia|54
+Garray|41.816|-2.446|ES|Castille and León|54
+Villastar|40.281|-1.151|ES|Aragon|54
+Arrúbal|42.435|-2.251|ES|La Rioja|54
+Mediana|41.467|-0.706|ES|Aragon|54
+Montanejos|40.067|-0.517|ES|Valencia|54
+Villaconejos de Trabaque|40.401|-2.320|ES|Castille-La Mancha|54
+Arnedillo|42.212|-2.236|ES|La Rioja|54
+Arándiga|41.509|-1.501|ES|Aragon|54
+Grisén|41.745|-1.163|ES|Aragon|54
+Botorrita|41.507|-1.031|ES|Aragon|54
+Chillarón de Cuenca|40.105|-2.222|ES|Castille-La Mancha|54
+Costur|40.120|-0.174|ES|Valencia|54
+Oliete|40.998|-0.674|ES|Aragon|54
+Torrecilla de Alcañiz|40.961|-0.091|ES|Aragon|54
+Martín del Río|40.845|-0.895|ES|Aragon|53
+Sestrica|41.486|-1.595|ES|Aragon|53
+Manzanera|40.050|-0.833|ES|Aragon|53
+Berbegal|41.960|-0.003|ES|Aragon|53
+Bronchales|40.512|-1.588|ES|Aragon|53
+Nueno|42.267|-0.439|ES|Aragon|53
+Tabuenca|41.695|-1.543|ES|Aragon|53
+Farlete|41.681|-0.507|ES|Aragon|53
+Munébrega|41.252|-1.706|ES|Aragon|53
+Alacón|41.026|-0.698|ES|Aragon|53
+Alcubierre|41.808|-0.453|ES|Aragon|53
+Erla|42.117|-0.950|ES|Aragon|53
+Villahermosa del Río|40.203|-0.420|ES|Valencia|53
+Gea de Albarracín|40.411|-1.348|ES|Aragon|53
+Alcolea del Pinar|41.036|-2.466|ES|Castille-La Mancha|53
+Malón|41.952|-1.672|ES|Aragon|53
+Corduente|40.843|-1.978|ES|Castille-La Mancha|52
+Angüés|42.111|-0.153|ES|Aragon|52
+Vera de Moncayo|41.824|-1.688|ES|Aragon|52
+Gómara|41.623|-2.225|ES|Castille and León|52
+Letux|41.255|-0.803|ES|Aragon|52
+Vistabella del Maestrazgo|40.296|-0.294|ES|Valencia|52
+Morés|41.473|-1.565|ES|Aragon|52
+Loarre|42.314|-0.626|ES|Aragon|52
+Santa María de Huerta|41.267|-2.167|ES|Castille and León|52
+Beteta|40.572|-2.076|ES|Castille-La Mancha|52
+Castiliscar|42.377|-1.273|ES|Aragon|52
+Ocón|42.299|-2.240|ES|La Rioja|52
+Canalejas del Arroyo|40.368|-2.494|ES|Castille-La Mancha|52
+Cañaveras|40.360|-2.396|ES|Castille-La Mancha|52
+Igriés|42.214|-0.432|ES|Aragon|52
+Báguena|41.042|-1.358|ES|Aragon|52
+Cortes de Arenoso|40.188|-0.542|ES|Valencia|52
+Aliaga|40.674|-0.703|ES|Aragon|52
+Villalengua|41.435|-1.841|ES|Aragon|52
+Cosuenda|41.366|-1.299|ES|Aragon|52
+Nuévalos|41.212|-1.790|ES|Aragon|52
+Gotor|41.546|-1.649|ES|Aragon|52
+Albalate de las Nogueras|40.366|-2.277|ES|Castille-La Mancha|52
+Tudelilla|42.300|-2.117|ES|La Rioja|52
+Alberuela de Tubo|41.908|-0.214|ES|Aragon|52
+Luesia|42.370|-1.024|ES|Aragon|51
+Alcalá del Obispo|42.077|-0.291|ES|Aragon|51
+Plasencia de Jalón|41.682|-1.230|ES|Aragon|51
+Villafranca del Campo|40.695|-1.347|ES|Aragon|51
+Villel|40.235|-1.186|ES|Aragon|51
+Herce|42.214|-2.165|ES|La Rioja|51
+Chiprana|41.263|-0.127|ES|Aragon|51
+Used|41.056|-1.560|ES|Aragon|51
+Checa|40.586|-1.791|ES|Castille-La Mancha|51
+Bello|40.923|-1.498|ES|Aragon|51
+Deza|41.464|-2.020|ES|Castille and León|51
+Urrea de Jalón|41.667|-1.234|ES|Aragon|51
+Salillas de Jalón|41.568|-1.323|ES|Aragon|51
+Borobia|41.665|-1.896|ES|Castille and León|51
+Almenar de Soria|41.682|-2.201|ES|Castille and León|51
+Torrijo de la Cañada|41.473|-1.874|ES|Aragon|51
+Salvacañete|40.100|-1.500|ES|Castille-La Mancha|51
+Linares de Mora|40.322|-0.575|ES|Aragon|51
+Burbáguena|41.018|-1.338|ES|Aragon|50
+Mesones de Isuela|41.551|-1.539|ES|Aragon|50
+Ambel|41.795|-1.615|ES|Aragon|50
+Montán|40.033|-0.550|ES|Valencia|50
+Pozuelo de Aragón|41.764|-1.423|ES|Aragon|50
+Torres de Barbués|41.961|-0.433|ES|Aragon|50
+Cervera de la Cañada|41.433|-1.736|ES|Aragon|50
+Jaulín|41.452|-0.993|ES|Aragon|50
+Beire|42.454|-1.621|ES|Navarre|50
+Molinos|40.821|-0.450|ES|Aragon|50
+Monroyo|40.788|-0.035|ES|Aragon|50
+Torrellas|41.894|-1.771|ES|Aragon|50
+Tierz|42.134|-0.355|ES|Aragon|50
+Bárboles|41.709|-1.186|ES|Aragon|50
+Castejón de Valdejasa|41.982|-0.994|ES|Aragon|50
+Estercuel|40.855|-0.632|ES|Aragon|50
+Jaraba|41.191|-1.884|ES|Aragon|50
+Chimillas|42.170|-0.452|ES|Aragon|50
+Moyuela|41.128|-0.922|ES|Aragon|50
+Fiscal|42.496|-0.121|ES|Aragon|50
+Galilea|42.347|-2.236|ES|La Rioja|50
+Mariana|40.167|-2.146|ES|Castille-La Mancha|50
+Cirat|40.050|-0.450|ES|Valencia|50
+Perales del Alfambra|40.634|-1.002|ES|Aragon|50
+Almonacid de la Cuba|41.281|-0.793|ES|Aragon|50
+Fuentes de Jiloca|41.229|-1.536|ES|Aragon|50
+Bureta|41.816|-1.488|ES|Aragon|49
+Casbas de Huesca|42.156|-0.140|ES|Aragon|49
+Morata de Jiloca|41.248|-1.587|ES|Aragon|49
+Villanueva de Alcorón|40.680|-2.251|ES|Castille-La Mancha|49
+Alcalá de Gurrea|42.067|-0.685|ES|Aragon|49
+Abiego|42.121|-0.069|ES|Aragon|49
+Foz-Calanda|40.922|-0.265|ES|Aragon|49
+Aguilón|41.295|-1.046|ES|Aragon|49
+Mezalocha|41.426|-1.083|ES|Aragon|49
+Sierra de Luna|42.048|-0.910|ES|Aragon|49
+Castielfabib|40.131|-1.304|ES|Valencia|49
+Maleján|41.828|-1.549|ES|Aragon|49
+Encinacorba|41.285|-1.275|ES|Aragon|49
+Alustante|40.614|-1.659|ES|Castille-La Mancha|49
+Sangarrén|42.019|-0.433|ES|Aragon|49
+Castilruiz|41.877|-2.059|ES|Castille and León|49
+Codos|41.293|-1.374|ES|Aragon|49
+Fanzara|40.017|-0.317|ES|Valencia|49
+Guadalaviar|40.388|-1.718|ES|Aragon|49
+Villar de Domingo García|40.237|-2.291|ES|Castille-La Mancha|49
+Quicena|42.148|-0.360|ES|Aragon|49
+Bardallur|41.684|-1.212|ES|Aragon|49
+Alcalá de Ebro|41.815|-1.194|ES|Aragon|49
+Valdeolivas|40.506|-2.445|ES|Castille-La Mancha|49
+Clavijo|42.349|-2.427|ES|La Rioja|48
+Orea|40.557|-1.727|ES|Castille-La Mancha|48
+Monteagudo de las Vicarías|41.365|-2.170|ES|Castille and León|48
+Zarzuela|40.259|-2.110|ES|Castille-La Mancha|48
+Banastás|42.181|-0.452|ES|Aragon|48
+Corera|42.343|-2.220|ES|La Rioja|48
+Velilla de Ebro|41.374|-0.435|ES|Aragon|48
+Albalatillo|41.735|-0.151|ES|Aragon|48
+Lucena de Jalón|41.553|-1.313|ES|Aragon|48
+Huerto|41.931|-0.167|ES|Aragon|48
+Odón|40.884|-1.568|ES|Aragon|48
+Anguita|41.027|-2.368|ES|Castille-La Mancha|48
+Argente|40.688|-1.162|ES|Aragon|48
+Poleñino|41.870|-0.310|ES|Aragon|48
+Alba|40.618|-1.347|ES|Aragon|48
+Tobed|41.339|-1.400|ES|Aragon|48
+Monreal de Ariza|41.292|-2.105|ES|Aragon|48
+San Martín del Río|41.066|-1.387|ES|Aragon|48
+Berge|40.858|-0.427|ES|Aragon|48
+Bierge|42.162|-0.083|ES|Aragon|48
+Laluenga|42.007|-0.047|ES|Aragon|48
+Morón de Almazán|41.414|-2.413|ES|Castille and León|48
+Portell de Morella|40.533|-0.262|ES|Valencia|48
+Carenas|41.278|-1.798|ES|Aragon|48
+Maranchón|41.048|-2.205|ES|Castille-La Mancha|48
+Almaluez|41.289|-2.269|ES|Castille and León|48
+Casas Bajas|40.017|-1.267|ES|Valencia|48
+Olba|40.133|-0.617|ES|Aragon|48
+Sesa|41.995|-0.245|ES|Aragon|48
+Huerta del Marquesado|40.150|-1.683|ES|Castille-La Mancha|47
+Tornos|40.962|-1.434|ES|Aragon|47
+Grávalos|42.108|-1.999|ES|La Rioja|47
+La Ginebrosa|40.870|-0.135|ES|Aragon|47
+Fréscano|41.883|-1.450|ES|Aragon|47
+Monterde|41.174|-1.735|ES|Aragon|47
+Alerre|42.165|-0.464|ES|Aragon|47
+Biscarrués|42.229|-0.750|ES|Aragon|47
+Bulbuente|41.820|-1.602|ES|Aragon|47
+Nogueruelas|40.236|-0.636|ES|Aragon|47
+Ejulve|40.776|-0.553|ES|Aragon|47
+Ares del Maestre|40.457|-0.133|ES|Valencia|47
+Ayódar|40.000|-0.367|ES|Valencia|47
+Cubo de la Solana|41.602|-2.422|ES|Castille and León|47
+Tosos|41.315|-1.073|ES|Aragon|47
+Villar del Cobo|40.395|-1.673|ES|Aragon|47
+Paracuellos de la Ribera|41.423|-1.562|ES|Aragon|47
+Royuela|40.378|-1.513|ES|Aragon|47
+Tortuera|40.972|-1.798|ES|Castille-La Mancha|47
+Villel de Mesa|41.126|-1.991|ES|Castille-La Mancha|47
+Valbona|40.229|-0.811|ES|Aragon|47
+Villafeliche|41.195|-1.510|ES|Aragon|47
+Palomar de Arroyos|40.779|-0.751|ES|Aragon|47
+Salmerón|40.545|-2.493|ES|Castille-La Mancha|47
+Castellfort|40.502|-0.191|ES|Valencia|47
+Biel|42.388|-0.942|ES|Aragon|47
+Fortanete|40.505|-0.523|ES|Aragon|47
+Aranda de Moncayo|41.577|-1.792|ES|Aragon|47
+Torralba de los Sisones|40.891|-1.459|ES|Aragon|47
+Santa Cruz de Grío|41.370|-1.430|ES|Aragon|47
+Barillas|41.967|-1.633|ES|Navarre|47
+Noviercas|41.712|-2.034|ES|Castille and León|47
+Villarluengo|40.648|-0.531|ES|Aragon|47
+Lazagurría|42.493|-2.240|ES|Navarre|46
+La Frontera|40.402|-2.217|ES|Castille-La Mancha|46
+Ludiente|40.083|-0.367|ES|Valencia|46
+Anento|41.070|-1.334|ES|Aragon|46
+Escorihuela|40.544|-0.971|ES|Aragon|46
+Candilichera|41.704|-2.301|ES|Castille and León|46
+Novales|42.032|-0.287|ES|Aragon|46
+Puertomingalvo|40.264|-0.458|ES|Aragon|46
+Villarreal de Huerva|41.190|-1.290|ES|Aragon|46
+Zucaina|40.117|-0.417|ES|Valencia|46
+Zaorejas|40.762|-2.201|ES|Castille-La Mancha|46
+Azara|42.070|-0.029|ES|Aragon|46
+Mara|41.289|-1.518|ES|Aragon|46
+Riodeva|40.117|-1.150|ES|Aragon|46
+Torrevelilla|40.902|-0.110|ES|Aragon|46
+Litago|41.814|-1.753|ES|Aragon|46
+Agón|41.856|-1.452|ES|Aragon|46
+Cubel|41.096|-1.637|ES|Aragon|46
+Préjano|42.186|-2.180|ES|La Rioja|46
+Terriente|40.297|-1.504|ES|Aragon|46
+Vallanca|40.067|-1.333|ES|Valencia|46
+Arañuel|40.067|-0.483|ES|Valencia|45
+Villarroya de los Pinares|40.529|-0.669|ES|Aragon|45
+Formiche Alto|40.324|-0.892|ES|Aragon|45
+Visiedo|40.686|-1.097|ES|Aragon|45
+Almajano|41.851|-2.338|ES|Castille and León|45
+Tejado|41.589|-2.267|ES|Castille and León|45
+Torralba de Ribota|41.418|-1.684|ES|Aragon|45
+Alconaba|41.724|-2.385|ES|Castille and León|45
+Barracas|40.017|-0.683|ES|Valencia|45
+Peraltilla|42.054|-0.018|ES|Aragon|45
+Torralba|40.303|-2.285|ES|Castille-La Mancha|45
+Benafigos|40.276|-0.208|ES|Valencia|45
+Bañón|40.838|-1.191|ES|Aragon|45
+Loscos|41.081|-1.044|ES|Aragon|45
+Orrios|40.589|-0.986|ES|Aragon|45
+Langa del Castillo|41.212|-1.399|ES|Aragon|45
+Riba de Saelices|40.911|-2.297|ES|Castille-La Mancha|45
+Tejadillos|40.133|-1.633|ES|Castille-La Mancha|45
+Fuendetodos|41.342|-0.960|ES|Aragon|45
+Trasobares|41.643|-1.642|ES|Aragon|45
+Villar del Río|42.076|-2.351|ES|Castille and León|45
+Soto en Cameros|42.286|-2.426|ES|La Rioja|45
+Poveda de la Sierra|40.643|-2.029|ES|Castille-La Mancha|45
+Torrecilla del Rebollar|40.910|-1.072|ES|Aragon|45
+Tartanedo|40.993|-1.925|ES|Castille-La Mancha|45
+Atea|41.161|-1.555|ES|Aragon|45
+Barrachina|40.897|-1.139|ES|Aragon|45
+Cuevas Labradas|40.453|-1.050|ES|Aragon|45
+Frías de Albarracín|40.338|-1.615|ES|Aragon|45
+Adahuesca|42.146|-0.008|ES|Aragon|45
+Campillo de Aragón|41.126|-1.844|ES|Aragon|45
+Antillón|42.036|-0.162|ES|Aragon|45
+Valdemoro-Sierra|40.100|-1.767|ES|Castille-La Mancha|45
+Alcoroches|40.627|-1.746|ES|Castille-La Mancha|44
+Peralejos de las Truchas|40.593|-1.910|ES|Castille-La Mancha|44
+Camarena de la Sierra|40.150|-1.033|ES|Aragon|44
+Piedratajada|42.121|-0.804|ES|Aragon|44
+Valpalmas|42.158|-0.855|ES|Aragon|44
+Blancas|40.814|-1.482|ES|Aragon|44
+Yebra de Basa|42.486|-0.282|ES|Aragon|44
+Mainar|41.193|-1.303|ES|Aragon|44
+Albeta|41.826|-1.499|ES|Aragon|44
+Albendea|40.488|-2.417|ES|Castille-La Mancha|44
+Casas Altas|40.033|-1.267|ES|Valencia|44
+Tordesilos|40.671|-1.594|ES|Castille-La Mancha|44
+Chodes|41.487|-1.480|ES|Aragon|44
+Capdesaso|41.843|-0.183|ES|Aragon|44
+Montón|41.207|-1.516|ES|Aragon|44
+Puebla de Arenoso|40.100|-0.583|ES|Valencia|44
+Agüero|42.355|-0.793|ES|Aragon|44
+Alcalá de la Vega|40.033|-1.517|ES|Castille-La Mancha|44
+San Román de Cameros|42.233|-2.474|ES|La Rioja|44
+Sacecorbo|40.833|-2.418|ES|Castille-La Mancha|44
+Abanto|41.138|-1.698|ES|Aragon|44
+Alcalá de Moncayo|41.786|-1.695|ES|Aragon|44
+Camañas|40.643|-1.138|ES|Aragon|44
+Hinojosa de Jarque|40.690|-0.785|ES|Aragon|44
+Allepuz|40.493|-0.725|ES|Aragon|44
+Azlor|42.094|-0.046|ES|Aragon|44
+Bergasa|42.253|-2.132|ES|La Rioja|44
+Enciso|42.149|-2.270|ES|La Rioja|44
+Puebla de Albortón|41.385|-0.856|ES|Aragon|44
+Prados Redondos|40.785|-1.793|ES|Castille-La Mancha|43
+Setiles|40.734|-1.617|ES|Castille-La Mancha|43
+Valdelinares|40.391|-0.606|ES|Aragon|43
+Gallocanta|40.996|-1.508|ES|Aragon|43
+Libros|40.163|-1.234|ES|Aragon|43
+Manchones|41.150|-1.467|ES|Aragon|43
+Pina de Montalgrao|40.017|-0.650|ES|Valencia|43
+Villar de los Navarros|41.159|-1.042|ES|Aragon|43
+Blesa|41.051|-0.885|ES|Aragon|43
+Castel de Cabra|40.803|-0.696|ES|Aragon|43
+Bordón|40.687|-0.322|ES|Aragon|43
+Alarba|41.205|-1.613|ES|Aragon|43
+Torres de Albarracín|40.427|-1.532|ES|Aragon|43
+Griegos|40.427|-1.712|ES|Aragon|43
+Murero|41.160|-1.483|ES|Aragon|43
+Ablanque|40.898|-2.225|ES|Castille-La Mancha|43
+Uña|40.224|-1.978|ES|Castille-La Mancha|43
+Almazul|41.574|-2.146|ES|Castille and León|43
+Galve|40.656|-0.882|ES|Aragon|43
+Tramacastilla|40.431|-1.575|ES|Aragon|43
+Cimballa|41.101|-1.774|ES|Aragon|43
+Santa Eulalia de Gállego|42.287|-0.761|ES|Aragon|42
+Todolella|40.647|-0.247|ES|Valencia|42
+Fuentes Calientes|40.700|-0.967|ES|Aragon|42
+Mirambel|40.587|-0.343|ES|Aragon|42
+Olocau del Rey|40.638|-0.340|ES|Valencia|42
+Orera|41.298|-1.478|ES|Aragon|42
+Zorita del Maestrazgo|40.728|-0.167|ES|Valencia|42
+Lagunaseca|40.531|-2.020|ES|Castille-La Mancha|42
+Malanquilla|41.569|-1.875|ES|Aragon|42
+Olvés|41.240|-1.646|ES|Aragon|42
+Santa Eulalia Bajera|42.210|-2.192|ES|La Rioja|42
+Villalba de Perejil|41.327|-1.548|ES|Aragon|42
+Fuentes de Rubielos|40.167|-0.617|ES|Aragon|42
+Yanguas|42.102|-2.340|ES|Castille and León|42
+Alborge|41.334|-0.357|ES|Aragon|42
+Coscurita|41.435|-2.476|ES|Castille and León|42
+Pertusa|42.002|-0.127|ES|Aragon|42
+Plenas|41.112|-0.964|ES|Aragon|42
+Cabra de Mora|40.317|-0.807|ES|Aragon|42
+Fuertescusa|40.476|-2.176|ES|Castille-La Mancha|42
+Samper del Salz|41.235|-0.825|ES|Aragon|42
+Zafrilla|40.200|-1.617|ES|Castille-La Mancha|42
+Argavieso|42.053|-0.278|ES|Aragon|42
+Huélamo|40.277|-1.810|ES|Castille-La Mancha|42
+Pancrudo|40.762|-1.030|ES|Aragon|42
+Peñalén|40.666|-2.070|ES|Castille-La Mancha|42
+Alconchel de Ariza|41.204|-2.122|ES|Aragon|42
+Castelflorite|41.803|-0.022|ES|Aragon|42
+Lagata|41.240|-0.805|ES|Aragon|42
+Lituénigo|41.835|-1.762|ES|Aragon|42
+Munilla|42.189|-2.295|ES|La Rioja|42
+Cuevas de Almudén|40.713|-0.830|ES|Aragon|42
+Torres de Alcanadre|41.967|-0.111|ES|Aragon|42
+Aldealafuente|41.672|-2.325|ES|Castille and León|42
+Cinco Olivas|41.340|-0.371|ES|Aragon|42
+Mozota|41.484|-1.068|ES|Aragon|42
+Renieblas|41.820|-2.372|ES|Castille and León|42
+Rillo|40.722|-0.996|ES|Aragon|42
+Argelita|40.050|-0.350|ES|Valencia|42
+Canredondo|40.813|-2.494|ES|Castille-La Mancha|42
+Ibieca|42.161|-0.209|ES|Aragon|42
+Albero Alto|42.050|-0.337|ES|Aragon|42
+San Agustín|40.059|-0.693|ES|Aragon|42
+Mezquita de Jarque|40.721|-0.867|ES|Aragon|41
+Pitarque|40.648|-0.593|ES|Aragon|41
+Barbuñales|42.026|-0.087|ES|Aragon|41
+Valtorres|41.299|-1.741|ES|Aragon|41
+Fuentelsaz|41.074|-1.831|ES|Castille-La Mancha|41
+Masegosa|40.547|-2.026|ES|Castille-La Mancha|41
+Matalebreras|41.841|-2.046|ES|Castille and León|41
+Milmarcos|41.086|-1.877|ES|Castille-La Mancha|41
+Tramaced|41.973|-0.298|ES|Aragon|41
+Bisimbre|41.856|-1.443|ES|Aragon|41
+Layana|42.295|-1.245|ES|Aragon|41
+Moneva|41.128|-0.836|ES|Aragon|41
+Tramacastiel|40.188|-1.241|ES|Aragon|41
+Romanos|41.126|-1.275|ES|Aragon|41
+Carrascosa|40.591|-2.163|ES|Castille-La Mancha|41
+Loscorrales|42.255|-0.643|ES|Aragon|41
+Salillas|41.995|-0.223|ES|Aragon|41
+Torralba de Aragón|41.935|-0.511|ES|Aragon|41
+Olmeda de Cobeta|40.860|-2.183|ES|Castille-La Mancha|41
+Santa Cruz de Moncayo|41.882|-1.756|ES|Aragon|41
+Castillo de Villamalefa|40.133|-0.383|ES|Valencia|41
+Cobeta|40.866|-2.142|ES|Castille-La Mancha|41
+Pozuel del Campo|40.771|-1.506|ES|Aragon|41
+Velilla de Jiloca|41.275|-1.604|ES|Aragon|41
+Cañizar del Olivar|40.816|-0.646|ES|Aragon|41
+Castelnou|41.229|-0.364|ES|Aragon|41
+Crivillén|40.883|-0.577|ES|Aragon|41
+Arcos de la Sierra|40.347|-2.113|ES|Castille-La Mancha|41
+Arancón|41.800|-2.281|ES|Castille and León|41
+Campillo de Dueñas|40.884|-1.685|ES|Castille-La Mancha|41
+Peracense|40.641|-1.471|ES|Aragon|41
+Tronchón|40.621|-0.398|ES|Aragon|41
+Cortes de Aragón|40.974|-0.836|ES|Aragon|41
+Gargallo|40.836|-0.584|ES|Aragon|41
+Huesa del Común|41.011|-0.919|ES|Aragon|41
+Oncala|41.970|-2.315|ES|Castille and León|41
+Salinas del Manzano|40.083|-1.550|ES|Castille-La Mancha|41
+Villahermosa del Campo|41.109|-1.247|ES|Aragon|41
+Abánades|40.893|-2.485|ES|Castille-La Mancha|41
+Marracos|42.088|-0.776|ES|Aragon|41
+Tulebras|41.977|-1.676|ES|Navarre|41
+Badules|41.139|-1.254|ES|Aragon|40
+Barbués|41.981|-0.419|ES|Aragon|40
+Fórnoles|40.894|-0.004|ES|Aragon|40
+Luzaga|40.973|-2.445|ES|Castille-La Mancha|40
+Magaña|41.901|-2.163|ES|Castille and León|40
+Retascón|41.144|-1.384|ES|Aragon|40
+Alberite de San Juan|41.820|-1.471|ES|Aragon|40
+Laperdiguera|41.991|-0.047|ES|Aragon|40
+Orés|42.278|-1.002|ES|Aragon|40
+Piracés|42.004|-0.318|ES|Aragon|40
+Cueva de Ágreda|41.763|-1.888|ES|Castille and León|40
+Valmadrid|41.444|-0.885|ES|Aragon|40
+Villar del Salz|40.682|-1.500|ES|Aragon|40
+Camarillas|40.612|-0.754|ES|Aragon|40
+Peralveche|40.611|-2.450|ES|Castille-La Mancha|40
+Portilla|40.290|-2.082|ES|Castille-La Mancha|40
+Pozalmuro|41.774|-2.102|ES|Castille and León|40
+Ciria|41.618|-1.966|ES|Castille and León|40
+Pozondón|40.561|-1.470|ES|Aragon|40
+Torrechiva|40.050|-0.400|ES|Valencia|40
+Bijuesca|41.541|-1.920|ES|Aragon|40
+Clarés de Ribota|41.530|-1.838|ES|Aragon|40
+Alcantud|40.548|-2.333|ES|Castille-La Mancha|40
+Cosa|40.834|-1.137|ES|Aragon|40
+Torrehermosa|41.238|-2.128|ES|Aragon|40
+Singra|40.655|-1.312|ES|Aragon|40
+Torre los Negros|40.853|-1.098|ES|Aragon|40
+Cascante del Río|40.197|-1.114|ES|Aragon|40
+Castejón de Alarba|41.184|-1.636|ES|Aragon|40
+Fuentes de Ayódar|40.033|-0.417|ES|Valencia|40
+Santa María del Val|40.504|-2.041|ES|Castille-La Mancha|40
+Torre de Arcas|40.751|-0.069|ES|Aragon|40
+Valdemeca|40.224|-1.744|ES|Castille-La Mancha|40
+Arévalo de la Sierra|41.947|-2.400|ES|Castille and León|40
+Villadoz|41.162|-1.288|ES|Aragon|40
+Beamud|40.186|-1.829|ES|Castille-La Mancha|39
+Castejón de las Armas|41.310|-1.811|ES|Aragon|39
+Huérguina|40.033|-1.600|ES|Castille-La Mancha|39
+Jarque de la Val|40.703|-0.801|ES|Aragon|39
+Vierlas|41.927|-1.681|ES|Aragon|39
+Torlengua|41.455|-2.162|ES|Castille and León|39
+Ababuj|40.549|-0.808|ES|Aragon|39
+Bordalba|41.417|-2.067|ES|Aragon|39
+Nigüella|41.536|-1.524|ES|Aragon|39
+San Pedro Palmiches|40.430|-2.406|ES|Castille-La Mancha|39
+Bubierca|41.315|-1.854|ES|Aragon|39
+Castejón de Tornos|40.997|-1.428|ES|Aragon|39
+Ródenas|40.641|-1.516|ES|Aragon|39
+Toga|40.050|-0.367|ES|Valencia|39
+Albero Bajo|42.024|-0.380|ES|Aragon|39
+Cucalón|41.086|-1.215|ES|Aragon|39
+Nolay|41.527|-2.351|ES|Castille and León|39
+Sediles|41.346|-1.532|ES|Aragon|39
+Anquela del Ducado|40.971|-2.131|ES|Castille-La Mancha|39
+Fuentestrún|41.875|-2.083|ES|Castille and León|39
+Peralejos|40.484|-1.034|ES|Aragon|39
+Alobras|40.182|-1.387|ES|Aragon|39
+Corbalán|40.403|-0.985|ES|Aragon|39
+Mochales|41.096|-2.016|ES|Castille-La Mancha|39
+Valfarta|41.557|-0.133|ES|Aragon|39
+Ruesca|41.283|-1.481|ES|Aragon|39
+Torrijas|40.017|-0.950|ES|Aragon|39
+Adradas|41.351|-2.474|ES|Castille and León|38
+Torralba de los Frailes|41.036|-1.660|ES|Aragon|38
+Vivel del Río Martín|40.871|-0.939|ES|Aragon|38
+Ajamil|42.167|-2.488|ES|La Rioja|38
+Val de San Martín|41.058|-1.449|ES|Aragon|38
+Alforque|41.329|-0.385|ES|Aragon|38
+Nepas|41.526|-2.399|ES|Castille and León|38
+Villarroya del Campo|41.143|-1.324|ES|Aragon|38
+Herbés|40.721|-0.004|ES|Valencia|38
+Jabaloyas|40.240|-1.409|ES|Aragon|38
+Cihuela|41.407|-2.000|ES|Castille and León|38
+Fuentes de Magaña|41.935|-2.179|ES|Castille and León|38
+Gúdar|40.441|-0.720|ES|Aragon|38
+Luzón|41.027|-2.277|ES|Castille-La Mancha|38
+Villanueva de Jiloca|41.076|-1.390|ES|Aragon|38
+Valdemorillo de la Sierra|40.033|-1.783|ES|Castille-La Mancha|38
+Bezas|40.331|-1.325|ES|Aragon|38
+Cabrejas del Campo|41.681|-2.270|ES|Castille and León|38
+Calmarza|41.158|-1.912|ES|Aragon|38
+Lidón|40.717|-1.113|ES|Aragon|38
+Aguilar del Alfambra|40.590|-0.796|ES|Aragon|38
+Campillos-Sierra|40.100|-1.700|ES|Castille-La Mancha|38
+Monforte de Moyuela|41.055|-1.014|ES|Aragon|38
+Embid de Ariza|41.378|-1.974|ES|Aragon|38
+Santed|41.032|-1.510|ES|Aragon|38
+Taroda|41.348|-2.433|ES|Castille and León|38
+Torrubia de Soria|41.630|-2.092|ES|Castille and León|38
+Ferreruela de Huerva|41.063|-1.234|ES|Aragon|37
+Laguna del Marquesado|40.177|-1.672|ES|Castille-La Mancha|37
+Adobes|40.676|-1.679|ES|Castille-La Mancha|37
+Bueña|40.709|-1.267|ES|Aragon|37
+Calomarde|40.373|-1.574|ES|Aragon|37
+Fresneda de la Sierra|40.391|-2.142|ES|Castille-La Mancha|37
+Rillo de Gallo|40.866|-1.937|ES|Castille-La Mancha|37
+Viana de Duero|41.534|-2.461|ES|Castille and León|37
+Algar de Mesa|41.135|-1.960|ES|Castille-La Mancha|37
+Jatiel|41.220|-0.382|ES|Aragon|37
+Aladrén|41.249|-1.156|ES|Aragon|37
+Obón|40.904|-0.723|ES|Aragon|37
+Saelices de la Sal|40.907|-2.323|ES|Castille-La Mancha|37
+Talamantes|41.731|-1.679|ES|Aragon|37
+Torralbilla|41.210|-1.338|ES|Aragon|37
+Leza de Río Leza|42.330|-2.406|ES|La Rioja|37
+Monteagudo del Castillo|40.457|-0.818|ES|Aragon|37
+Berdejo|41.561|-1.944|ES|Aragon|37
+Puebla de San Miguel|40.050|-1.133|ES|Valencia|37
+Villanueva de Viver|40.050|-0.650|ES|Valencia|37
+Cañada de Benatanduz|40.579|-0.537|ES|Aragon|37
+Sotodosos|40.921|-2.392|ES|Castille-La Mancha|37
+Cabolafuente|41.211|-2.041|ES|Aragon|36
+Calcena|41.655|-1.718|ES|Aragon|36
+Huertahernando|40.823|-2.287|ES|Castille-La Mancha|36
+Lobera de Onsella|42.478|-1.022|ES|Aragon|36
+Mazarete|41.001|-2.159|ES|Castille-La Mancha|36
+Ausejo de la Sierra|41.895|-2.374|ES|Castille and León|36
+Trasmoz|41.826|-1.723|ES|Aragon|36
+Valsalobre|40.617|-2.093|ES|Castille-La Mancha|36
+Rubiales|40.276|-1.272|ES|Aragon|36
+Selas|40.952|-2.102|ES|Castille-La Mancha|36
+Piqueras|40.664|-1.722|ES|Castille-La Mancha|36
+Santa Cruz de Yanguas|42.063|-2.449|ES|Castille and León|36
+Taravilla|40.697|-1.968|ES|Castille-La Mancha|36
+Alcaine|40.953|-0.706|ES|Aragon|36
+Buciegas|40.336|-2.462|ES|Castille-La Mancha|36
+Pleitas|41.711|-1.203|ES|Aragon|36
+Arguis|42.315|-0.440|ES|Aragon|36
+Armallones|40.736|-2.303|ES|Castille-La Mancha|36
+Purujosa|41.683|-1.765|ES|Aragon|36
+Arbeteta|40.670|-2.402|ES|Castille-La Mancha|35
+Embid|40.973|-1.712|ES|Castille-La Mancha|35
+Grisel|41.871|-1.728|ES|Aragon|35
+Muro de Aguas|42.134|-2.112|ES|La Rioja|35
+Tordellego|40.722|-1.670|ES|Castille-La Mancha|35
+Espadilla|40.033|-0.350|ES|Valencia|35
+Lechón|41.086|-1.285|ES|Aragon|35
+Longás|42.481|-0.934|ES|Aragon|35
+Monterde de Albarracín|40.497|-1.492|ES|Aragon|35
+Borjabad|41.552|-2.366|ES|Castille and León|35
+Fuentecantos|41.849|-2.428|ES|Castille and León|35
+Oseja|41.596|-1.700|ES|Aragon|35
+Sisamón|41.171|-2.004|ES|Aragon|35
+Torremocha del Pinar|40.890|-2.045|ES|Castille-La Mancha|35
+Buitrago|41.847|-2.409|ES|Castille and León|35
+Godojos|41.268|-1.864|ES|Aragon|35
+Rueda de la Sierra|40.918|-1.854|ES|Castille-La Mancha|35
+Cigudosa|41.933|-2.050|ES|Castille and León|35
+Lagueruela|41.042|-1.193|ES|Aragon|35
+Megina|40.639|-1.870|ES|Castille-La Mancha|35
+Rubielos de la Cérida|40.771|-1.213|ES|Aragon|34
+Castilforte|40.557|-2.432|ES|Castille-La Mancha|34
+Esplegares|40.856|-2.371|ES|Castille-La Mancha|34
+Establés|41.008|-2.024|ES|Castille-La Mancha|34
+Narros|41.849|-2.295|ES|Castille and León|34
+Villores|40.675|-0.200|ES|Valencia|34
+Isuerre|42.487|-1.054|ES|Aragon|34
+Morenilla|40.787|-1.707|ES|Castille-La Mancha|34
+Villanueva del Rebollar de la Sierra|40.891|-1.008|ES|Aragon|34
+Cañada Vellida|40.708|-0.915|ES|Aragon|34
+Cueva del Hierro|40.583|-2.036|ES|Castille-La Mancha|34
+Fuentelsaz de Soria|41.866|-2.415|ES|Castille and León|34
+Tierzo|40.749|-1.931|ES|Castille-La Mancha|34
+Villar del Infantado|40.455|-2.479|ES|Castille-La Mancha|34
+Almochuel|41.280|-0.551|ES|Aragon|34
+Cubla|40.210|-1.079|ES|Aragon|34
+Moscardón|40.333|-1.537|ES|Aragon|34
+Plou|40.993|-0.854|ES|Aragon|34
+Valdehorna|41.073|-1.424|ES|Aragon|34
+Senés de Alcubierre|41.907|-0.489|ES|Aragon|34
+Valdecuenca|40.298|-1.408|ES|Aragon|34
+Aldealseñor|41.879|-2.316|ES|Castille and León|33
+Alentisque|41.421|-2.332|ES|Castille and León|33
+Beratón|41.717|-1.811|ES|Castille and León|33
+Contamina|41.305|-1.917|ES|Aragon|33
+Hombrados|40.801|-1.686|ES|Castille-La Mancha|33
+Nombrevilla|41.107|-1.359|ES|Aragon|33
+Fuenferrada|40.869|-1.012|ES|Aragon|33
+Jalón de Cameros|42.218|-2.490|ES|La Rioja|33
+Seno|40.812|-0.338|ES|Aragon|33
+Cerbón|41.929|-2.169|ES|Castille and León|33
+Castillejo-Sierra|40.375|-2.140|ES|Castille-La Mancha|33
+Vozmediano|41.838|-1.856|ES|Castille and León|33
+Buberos|41.647|-2.194|ES|Castille and León|33
+Cañamaque|41.445|-2.238|ES|Castille and León|33
+Olmeda de la Cuesta|40.311|-2.476|ES|Castille-La Mancha|33
+Valhermoso|40.786|-1.961|ES|Castille-La Mancha|33
+Bliecos|41.528|-2.271|ES|Castille and León|32
+Fuente la Reina|40.067|-0.600|ES|Valencia|32
+Reznos|41.591|-2.028|ES|Castille and León|32
+Torrelapaja|41.581|-1.952|ES|Aragon|32
+Castellar de la Muela|40.819|-1.759|ES|Castille-La Mancha|32
+Luesma|41.166|-1.146|ES|Aragon|32
+Tormón|40.203|-1.354|ES|Aragon|32
+Cirujales del Río|41.867|-2.325|ES|Castille and León|32
+Hinojosa del Campo|41.738|-2.099|ES|Castille and León|32
+Velilla de los Ajos|41.491|-2.256|ES|Castille and León|32
+Arrancacepas|40.303|-2.359|ES|Castille-La Mancha|32
+Bea|41.036|-1.147|ES|Aragon|32
+Maicas|40.967|-0.890|ES|Aragon|32
+Robres del Castillo|42.276|-2.292|ES|La Rioja|32
+Torrubia|40.966|-1.901|ES|Castille-La Mancha|32
+Villaseca de Arciel|41.624|-2.162|ES|Castille and León|32
+Jorcas|40.543|-0.753|ES|Aragon|32
+Rabanera|42.190|-2.487|ES|La Rioja|32
+Soliedra|41.469|-2.382|ES|Castille and León|32
+Algarra|40.000|-1.433|ES|Castille-La Mancha|31
+Tajahuerce|41.740|-2.151|ES|Castille and León|31
+Torre de las Arcas|40.842|-0.718|ES|Aragon|31
+Arandilla del Arroyo|40.511|-2.384|ES|Castille-La Mancha|31
+Bascuñana de San Pedro|40.213|-2.228|ES|Castille-La Mancha|31
+Escobosa de Almazán|41.486|-2.371|ES|Castille and León|31
+Momblona|41.444|-2.347|ES|Castille and León|31
+Ocentejo|40.772|-2.398|ES|Castille-La Mancha|31
+Orcajo|41.110|-1.489|ES|Aragon|31
+Segura de los Baños|40.941|-0.951|ES|Aragon|31
+Villar del Campo|41.789|-2.150|ES|Castille and León|31
+Vizmanos|42.023|-2.409|ES|Castille and León|31
+Casas de Garcimolina|40.000|-1.417|ES|Castille-La Mancha|31
+Pomer|41.638|-1.841|ES|Aragon|31
+Saldón|40.325|-1.428|ES|Aragon|31
+Villarejo de la Peñuela|40.087|-2.410|ES|Castille-La Mancha|31
+Herrería|40.888|-1.960|ES|Castille-La Mancha|30
+Vistabella|41.218|-1.154|ES|Aragon|30
+Cerveruela|41.216|-1.215|ES|Aragon|30
+Petilla de Aragón|42.450|-1.117|ES|Navarre|30
+Aldehuela de Liestos|41.064|-1.701|ES|Aragon|30
+Aliud|41.654|-2.253|ES|Castille and León|30
+Bergasillas Bajera|42.245|-2.158|ES|La Rioja|30
+Carabantes|41.552|-1.998|ES|Castille and León|30
+Pozuel de Ariza|41.350|-2.150|ES|Aragon|30
+Baños de Tajo|40.717|-1.967|ES|Castille-La Mancha|30
+Olmedilla de Eliz|40.302|-2.420|ES|Castille-La Mancha|30
+Santa Cruz de Nogueras|41.115|-1.089|ES|Aragon|30
+Suellacabras|41.853|-2.224|ES|Castille and León|30
+Vindel|40.587|-2.381|ES|Castille-La Mancha|30
+Fonfría|40.996|-1.085|ES|Aragon|29
+Lanzuela|41.099|-1.206|ES|Aragon|29
+Palanques|40.718|-0.179|ES|Valencia|29
+Terroba|42.258|-2.444|ES|La Rioja|29
+Josa|40.956|-0.767|ES|Aragon|29
+Valtajeros|41.938|-2.223|ES|Castille and León|29
+Terzaga|40.695|-1.904|ES|Castille-La Mancha|29
+Aldealpozo|41.783|-2.204|ES|Castille and León|28
+Almohaja|40.605|-1.438|ES|Aragon|28
+Alpeñés|40.800|-1.066|ES|Aragon|28
+Castilfrío de la Sierra|41.919|-2.305|ES|Castille and León|28
+Pinilla de Molina|40.680|-1.880|ES|Castille-La Mancha|28
+Valacloche|40.191|-1.091|ES|Aragon|28
+Torrecuadrada de Molina|40.749|-1.807|ES|Castille-La Mancha|28
+Aguatón|40.672|-1.235|ES|Aragon|27
+Castillo-Albaráñez|40.299|-2.393|ES|Castille-La Mancha|27
+Veguillas de la Sierra|40.150|-1.400|ES|Aragon|27
+Anquela del Pedregal|40.743|-1.737|ES|Castille-La Mancha|26
+Pinilla del Campo|41.717|-2.083|ES|Castille and León|26
+Valdeprado|41.938|-2.109|ES|Castille and León|26
+Bádenas|41.092|-1.122|ES|Aragon|26
+Valtablado del Río|40.714|-2.402|ES|Castille-La Mancha|26
+Anadón|40.982|-0.984|ES|Aragon|26
+Chequilla|40.606|-1.828|ES|Castille-La Mancha|26
+Torremochuela|40.765|-1.842|ES|Castille-La Mancha|26
+Navajún|41.967|-2.100|ES|La Rioja|25
+Nogueras|41.135|-1.067|ES|Aragon|25
+Portillo de Soria|41.635|-2.121|ES|Castille and León|25
+Iniéstola|40.994|-2.371|ES|Castille-La Mancha|24
+Balconchán|41.087|-1.460|ES|Aragon|24
+Hornillos de Cameros|42.210|-2.420|ES|La Rioja|24
+Maján|41.469|-2.303|ES|Castille and León|24
+Valdelagua del Cerro|41.888|-2.115|ES|Castille and León|24
+Carrascosa de la Sierra|41.895|-2.280|ES|Castille and León|23
+Fuembellida|40.756|-1.999|ES|Castille-La Mancha|23
+Zarzosa|42.183|-2.343|ES|La Rioja|23
+Fombuena|41.144|-1.193|ES|Aragon|22
+Allueva|40.985|-1.043|ES|Aragon|22
+Castilnuevo|40.814|-1.858|ES|Castille-La Mancha|21
+Estepa de San Juan|41.927|-2.333|ES|Castille and León|21
+Valdemadera|41.984|-2.074|ES|La Rioja|20
+Villarroya|42.131|-2.069|ES|La Rioja|19
+Salcedillo|40.962|-1.004|ES|Aragon|18
+Ablitas|41.974|-1.641|ES|Navarre|0
+Acered|41.171|-1.604|ES|Aragon|0
+Albentosa|40.103|-0.768|ES|Aragon|0
+Andosilla|42.377|-1.943|ES|Navarre|0
+Asin|42.283|-1.047|ES|Aragon|0
+Cabanillas|42.032|-1.526|ES|Navarre|0
+Cascante|41.998|-1.681|ES|Navarre|0
+Cortes|41.923|-1.420|ES|Navarre|0
+El Castellar|40.365|-0.817|ES|Aragon|0
+Lalueza|41.840|-0.255|ES|Aragon|0
+Monteagudo|41.967|-1.683|ES|Navarre|0
+Pardos|40.948|-1.926|ES|Castille-La Mancha|0
+San Felices|41.937|-2.026|ES|Castille and León|0
+Vega del Codorno|40.425|-1.913|ES|Castille-La Mancha|0

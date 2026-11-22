@@ -1,0 +1,2352 @@
+Köln|50.933|6.950|DE|North Rhine-Westphalia|120
+Düsseldorf|51.223|6.779|DE|North Rhine-Westphalia|116
+Essen|51.457|7.012|DE|North Rhine-Westphalia|115
+Dortmund|51.515|7.466|DE|North Rhine-Westphalia|115
+Duisburg|51.432|6.765|DE|North Rhine-Westphalia|114
+Bochum|51.482|7.216|DE|North Rhine-Westphalia|112
+Utrecht|52.091|5.122|NL|Utrecht|112
+Wuppertal|51.256|7.148|DE|North Rhine-Westphalia|111
+Bonn|50.734|7.095|DE|North Rhine-Westphalia|110
+Gelsenkirchen|51.505|7.097|DE|North Rhine-Westphalia|109
+Aachen|50.777|6.083|DE|North Rhine-Westphalia|108
+Mönchengladbach|51.185|6.442|DE|North Rhine-Westphalia|108
+Krefeld|51.336|6.554|DE|North Rhine-Westphalia|108
+Eindhoven|51.441|5.478|NL|North Brabant|107
+Tilburg|51.556|5.091|NL|North Brabant|107
+Oberhausen|51.478|6.862|DE|North Rhine-Westphalia|107
+Hagen|51.361|7.472|DE|North Rhine-Westphalia|106
+Liège|50.634|5.567|BE|Wallonia|106
+Nijmegen|51.843|5.853|NL|Gelderland|105
+Almere Stad|52.370|5.214|NL|Flevoland|105
+Mülheim|51.432|6.880|DE|North Rhine-Westphalia|105
+Herne|51.539|7.226|DE|North Rhine-Westphalia|105
+Solingen|51.173|7.085|DE|North Rhine-Westphalia|104
+Leverkusen|51.030|6.984|DE|North Rhine-Westphalia|104
+Arnhem|51.980|5.911|NL|Gelderland|104
+'s-Hertogenbosch|51.699|5.304|NL|North Brabant|104
+Enschede|52.218|6.896|NL|Overijssel|104
+Neuss|51.198|6.685|DE|North Rhine-Westphalia|104
+Amersfoort|52.155|5.388|NL|Utrecht|103
+Apeldoorn|52.210|5.969|NL|Gelderland|103
+Recklinghausen|51.614|7.197|DE|North Rhine-Westphalia|102
+Maastricht|50.848|5.689|NL|Limburg|102
+Bottrop|51.524|6.928|DE|North Rhine-Westphalia|102
+Remscheid|51.180|7.192|DE|North Rhine-Westphalia|101
+Bergisch Gladbach|50.986|7.133|DE|North Rhine-Westphalia|101
+Moers|51.453|6.633|DE|North Rhine-Westphalia|100
+Venlo|51.370|6.168|NL|Limburg|100
+Deventer|52.255|6.164|NL|Overijssel|100
+Düren|50.804|6.493|DE|North Rhine-Westphalia|99
+Heerlen|50.884|5.982|NL|Limburg|99
+Witten|51.444|7.353|DE|North Rhine-Westphalia|99
+Ratingen|51.297|6.849|DE|North Rhine-Westphalia|99
+Marl|51.657|7.090|DE|North Rhine-Westphalia|99
+Velbert|51.335|7.043|DE|North Rhine-Westphalia|99
+Hilversum|52.223|5.176|NL|North Holland|98
+Hengelo|52.266|6.793|NL|Overijssel|98
+Dorsten|51.662|6.965|DE|North Rhine-Westphalia|98
+Castrop-Rauxel|51.557|7.312|DE|North Rhine-Westphalia|98
+Hasselt|50.931|5.338|BE|Flanders|98
+Rheine|52.282|7.441|DE|North Rhine-Westphalia|98
+Oss|51.765|5.518|NL|North Brabant|98
+Viersen|51.254|6.394|DE|North Rhine-Westphalia|98
+Gladbeck|51.571|6.986|DE|North Rhine-Westphalia|98
+Troisdorf|50.809|7.150|DE|North Rhine-Westphalia|97
+Helmond|51.482|5.661|NL|North Brabant|97
+Wattenscheid|51.481|7.143|DE|North Rhine-Westphalia|97
+Bocholt|51.839|6.615|DE|North Rhine-Westphalia|97
+Almelo|52.357|6.662|NL|Overijssel|97
+Ede|52.033|5.658|NL|Gelderland|97
+Dinslaken|51.562|6.743|DE|North Rhine-Westphalia|97
+Neuwied|50.434|7.471|DE|Rheinland-Pfalz|96
+Herten|51.596|7.144|DE|North Rhine-Westphalia|96
+Grevenbroich|51.091|6.583|DE|North Rhine-Westphalia|96
+Kerpen|50.870|6.697|DE|North Rhine-Westphalia|96
+Genk|50.965|5.501|BE|Flanders|96
+Dormagen|51.097|6.832|DE|North Rhine-Westphalia|96
+Bergheim|50.956|6.640|DE|North Rhine-Westphalia|96
+Wesel|51.667|6.620|DE|North Rhine-Westphalia|96
+Nieuwegein|52.029|5.081|NL|Utrecht|96
+Veenendaal|52.029|5.559|NL|Utrecht|96
+Zeist|52.090|5.233|NL|Utrecht|96
+Seraing|50.584|5.501|BE|Wallonia|96
+Langenfeld|51.108|6.948|DE|North Rhine-Westphalia|95
+Stolberg|50.774|6.226|DE|North Rhine-Westphalia|95
+Hattingen|51.399|7.186|DE|North Rhine-Westphalia|95
+Hilden|51.168|6.931|DE|North Rhine-Westphalia|95
+Sankt Augustin|50.775|7.197|DE|North Rhine-Westphalia|95
+Eschweiler|50.819|6.272|DE|North Rhine-Westphalia|95
+Euskirchen|50.661|6.787|DE|North Rhine-Westphalia|95
+Meerbusch|51.253|6.688|DE|North Rhine-Westphalia|95
+Hürth|50.871|6.868|DE|North Rhine-Westphalia|95
+Pulheim|51.000|6.806|DE|North Rhine-Westphalia|95
+Verviers|50.589|5.862|BE|Wallonia|94
+Nordhorn|52.431|7.068|DE|Lower Saxony|94
+Frechen|50.915|6.812|DE|North Rhine-Westphalia|94
+Willich|51.264|6.547|DE|North Rhine-Westphalia|94
+Erftstadt|50.815|6.794|DE|North Rhine-Westphalia|94
+Neubrück|51.134|6.639|DE|North Rhine-Westphalia|94
+Gronau|52.212|7.024|DE|North Rhine-Westphalia|94
+Doetinchem|51.965|6.289|NL|Gelderland|94
+Kerkrade|50.866|6.063|NL|Limburg|94
+Kleve|51.788|6.139|DE|North Rhine-Westphalia|94
+Weert|51.252|5.707|NL|Limburg|94
+Bornheim|50.763|6.991|DE|North Rhine-Westphalia|94
+Sittard|50.998|5.869|NL|Limburg|94
+Hennef (Sieg)|50.776|7.283|DE|North Rhine-Westphalia|94
+Erkrath|51.222|6.908|DE|North Rhine-Westphalia|94
+Dülmen|51.831|7.281|DE|North Rhine-Westphalia|94
+Herzogenrath|50.869|6.093|DE|North Rhine-Westphalia|94
+Alsdorf|50.877|6.164|DE|North Rhine-Westphalia|93
+Waalwijk|51.682|5.071|NL|North Brabant|93
+Soest|52.173|5.292|NL|Utrecht|93
+Roermond|51.194|5.987|NL|Limburg|93
+Erkelenz|51.079|6.315|DE|North Rhine-Westphalia|93
+Brühl|50.829|6.905|DE|North Rhine-Westphalia|93
+Monheim am Rhein|51.092|6.892|DE|North Rhine-Westphalia|93
+Nettetal|51.317|6.283|DE|North Rhine-Westphalia|93
+Kaarst|51.229|6.619|DE|North Rhine-Westphalia|92
+Heinsberg|51.064|6.100|DE|North Rhine-Westphalia|92
+Huizen|52.299|5.242|NL|North Holland|92
+Königswinter|50.677|7.192|DE|North Rhine-Westphalia|92
+Beringen|51.050|5.226|BE|Flanders|92
+Borken|51.844|6.858|DE|North Rhine-Westphalia|92
+Tiel|51.887|5.429|NL|Gelderland|92
+Harderwijk|52.342|5.621|NL|Gelderland|92
+Hückelhoven|51.056|6.227|DE|North Rhine-Westphalia|92
+Maarssen|52.139|5.042|NL|Utrecht|92
+Mettmann|51.250|6.975|DE|North Rhine-Westphalia|92
+Kamp-Lintfort|51.505|6.546|DE|North Rhine-Westphalia|92
+Siegburg|50.800|7.208|DE|North Rhine-Westphalia|92
+Venray|51.525|5.975|NL|Limburg|92
+Nijkerk|52.220|5.486|NL|Gelderland|92
+Ahaus|52.079|7.013|DE|North Rhine-Westphalia|92
+Haltern am See|51.743|7.182|DE|North Rhine-Westphalia|92
+Sint-Truiden|50.817|5.186|BE|Flanders|92
+Würselen|50.818|6.135|DE|North Rhine-Westphalia|91
+Wermelskirchen|51.140|7.216|DE|North Rhine-Westphalia|91
+Coesfeld|51.943|7.168|DE|North Rhine-Westphalia|91
+Herstal|50.664|5.623|BE|Wallonia|91
+Niederkassel|50.815|7.038|DE|North Rhine-Westphalia|91
+Datteln|51.656|7.345|DE|North Rhine-Westphalia|91
+Maasmechelen|50.965|5.695|BE|Flanders|91
+Zutphen|52.138|6.201|NL|Gelderland|91
+Wesseling|50.827|6.975|DE|North Rhine-Westphalia|91
+Voerde|51.597|6.686|DE|North Rhine-Westphalia|91
+Wageningen|51.970|5.667|NL|Gelderland|91
+Barneveld|52.140|5.585|NL|Gelderland|91
+Steinfurt|52.150|7.337|DE|North Rhine-Westphalia|91
+Uden|51.661|5.619|NL|North Brabant|91
+Kempen|51.364|6.419|DE|North Rhine-Westphalia|91
+Geldern|51.519|6.324|DE|North Rhine-Westphalia|91
+Jülich|50.921|6.363|DE|North Rhine-Westphalia|91
+IJsselstein|52.020|5.043|NL|Utrecht|91
+Goch|51.679|6.159|DE|North Rhine-Westphalia|91
+Korschenbroich|51.191|6.514|DE|North Rhine-Westphalia|90
+Epe|52.347|5.983|NL|Gelderland|90
+Geleen|50.974|5.829|NL|Limburg|90
+Wijchen|51.809|5.725|NL|Gelderland|90
+Gevelsberg|51.320|7.339|DE|North Rhine-Westphalia|90
+Mol|51.192|5.117|BE|Flanders|90
+Ennepetal|51.298|7.363|DE|North Rhine-Westphalia|90
+Rheinberg|51.546|6.595|DE|North Rhine-Westphalia|90
+Lommel|51.231|5.313|BE|Flanders|90
+Emmerich|51.839|6.248|DE|North Rhine-Westphalia|90
+Oldenzaal|52.313|6.929|NL|Overijssel|90
+Lohmar|50.839|7.214|DE|North Rhine-Westphalia|90
+Bussum|52.273|5.161|NL|North Holland|90
+Valkenswaard|51.351|5.460|NL|North Brabant|90
+Heusden|51.037|5.280|BE|Flanders|90
+Oer-Erkenschwick|51.642|7.265|DE|North Rhine-Westphalia|90
+Andernach|50.431|7.404|DE|Rheinland-Pfalz|90
+Tönisvorst|51.321|6.494|DE|North Rhine-Westphalia|90
+Schwelm|51.286|7.294|DE|North Rhine-Westphalia|90
+Waltrop|51.621|7.402|DE|North Rhine-Westphalia|90
+Helchteren|51.056|5.382|BE|Flanders|90
+Houthalen|51.034|5.374|BE|Flanders|90
+Tongeren|50.781|5.465|BE|Flanders|89
+Winterswijk|51.972|6.719|NL|Gelderland|89
+Bilzen|50.873|5.518|BE|Flanders|89
+Boxtel|51.591|5.329|NL|North Brabant|89
+Haan|51.194|7.013|DE|North Rhine-Westphalia|89
+Brunssum|50.947|5.971|NL|Limburg|89
+Leusden|52.133|5.432|NL|Utrecht|89
+Wetter|51.387|7.393|DE|North Rhine-Westphalia|89
+Best|51.508|5.390|NL|North Brabant|89
+Geilenkirchen|50.967|6.118|DE|North Rhine-Westphalia|89
+Neukirchen-Vluyn|51.447|6.552|DE|North Rhine-Westphalia|89
+Wegberg|51.142|6.284|DE|North Rhine-Westphalia|89
+Leichlingen|51.106|7.019|DE|North Rhine-Westphalia|89
+Kevelaer|51.582|6.246|DE|North Rhine-Westphalia|89
+Geldrop|51.422|5.560|NL|North Brabant|89
+Baesweiler|50.910|6.189|DE|North Rhine-Westphalia|89
+Bad Neuenahr-Ahrweiler|50.543|7.111|DE|Rheinland-Pfalz|89
+Rijssen|52.307|6.518|NL|Overijssel|89
+Heiligenhaus|51.327|6.971|DE|North Rhine-Westphalia|89
+Dorstfeld|51.501|7.411|DE|North Rhine-Westphalia|89
+Selm|51.697|7.468|DE|North Rhine-Westphalia|89
+Mechernich|50.593|6.652|DE|North Rhine-Westphalia|89
+Hamminkeln|51.733|6.590|DE|North Rhine-Westphalia|89
+Ans|50.662|5.520|BE|Wallonia|89
+Overath|50.933|7.284|DE|North Rhine-Westphalia|89
+Rösrath|50.896|7.182|DE|North Rhine-Westphalia|89
+Culemborg|51.955|5.228|NL|Gelderland|89
+Sprockhövel|51.347|7.243|DE|North Rhine-Westphalia|88
+Zaltbommel|51.810|5.244|NL|Gelderland|88
+Rheinbach|50.626|6.949|DE|North Rhine-Westphalia|88
+Zevenaar|51.930|6.071|NL|Gelderland|88
+Oisterwijk|51.579|5.189|NL|North Brabant|88
+Geldermalsen|51.881|5.289|NL|Gelderland|88
+Herdecke|51.400|7.436|DE|North Rhine-Westphalia|88
+Beuningen|51.861|5.767|NL|Gelderland|88
+Übach-Palenberg|50.918|6.123|DE|North Rhine-Westphalia|88
+Meckenheim|50.624|7.029|DE|North Rhine-Westphalia|88
+Duiven|51.947|6.014|NL|Gelderland|88
+Veghel|51.617|5.549|NL|North Brabant|88
+Bad Honnef|50.643|7.228|DE|North Rhine-Westphalia|88
+Wierden|52.359|6.593|NL|Overijssel|88
+Maaseik|51.098|5.784|BE|Flanders|88
+Flémalle-Haute|50.600|5.445|BE|Wallonia|88
+Vught|51.653|5.287|NL|North Brabant|88
+Hoensbroek|50.924|5.925|NL|Limburg|88
+Nijverdal|52.360|6.468|NL|Overijssel|88
+Bedburg|50.993|6.571|DE|North Rhine-Westphalia|88
+Lanaken|50.893|5.647|BE|Flanders|88
+Baarn|52.212|5.287|NL|Utrecht|88
+Haaksbergen|52.157|6.739|NL|Overijssel|88
+Radevormwald|51.202|7.360|DE|North Rhine-Westphalia|88
+Lüdinghausen|51.768|7.444|DE|North Rhine-Westphalia|88
+Andenne|50.489|5.095|BE|Wallonia|88
+Borne|52.301|6.748|NL|Overijssel|88
+Wipperfürth|51.116|7.399|DE|North Rhine-Westphalia|88
+Oupeye|50.712|5.647|BE|Wallonia|87
+Bilthoven|52.130|5.201|NL|Utrecht|87
+Schijndel|51.623|5.432|NL|North Brabant|87
+Nuenen|51.470|5.553|NL|North Brabant|87
+Putten|52.259|5.607|NL|Gelderland|87
+Lütgendortmund|51.499|7.348|DE|North Rhine-Westphalia|87
+Loon op Zand|51.627|5.075|NL|North Brabant|87
+Opladen|51.069|7.004|DE|North Rhine-Westphalia|87
+Kapellen|51.571|6.367|DE|North Rhine-Westphalia|87
+Goirle|51.521|5.067|NL|North Brabant|87
+Saint-Nicolas|50.628|5.532|BE|Wallonia|87
+Jüchen|51.100|6.500|DE|North Rhine-Westphalia|87
+Rees|51.763|6.398|DE|North Rhine-Westphalia|87
+Diest|50.989|5.051|BE|Flanders|87
+Losser|52.261|7.004|NL|Overijssel|87
+Vreden|52.038|6.828|DE|North Rhine-Westphalia|87
+De Meern|52.082|5.036|NL|Utrecht|87
+Volendam|52.495|5.071|NL|North Holland|87
+Elsdorf|50.937|6.568|DE|North Rhine-Westphalia|87
+Elburg|52.447|5.843|NL|Gelderland|87
+Alfter|50.733|7.017|DE|North Rhine-Westphalia|87
+Lindlar|51.020|7.378|DE|North Rhine-Westphalia|87
+Xanten|51.659|6.453|DE|North Rhine-Westphalia|87
+Brummen|52.090|6.156|NL|Gelderland|87
+Grivegnée|50.621|5.611|BE|Wallonia|86
+Chaudfontaine|50.583|5.634|BE|Wallonia|86
+Engelskirchen|50.989|7.414|DE|North Rhine-Westphalia|86
+Leerdam|51.893|5.092|NL|Utrecht|86
+Wülfrath|51.282|7.038|DE|North Rhine-Westphalia|86
+Stadtlohn|51.994|6.919|DE|North Rhine-Westphalia|86
+Elst|51.919|5.842|NL|Gelderland|86
+Nottuln|51.933|7.350|DE|North Rhine-Westphalia|86
+Senden|51.856|7.483|DE|North Rhine-Westphalia|86
+Tubbergen|52.407|6.785|NL|Overijssel|86
+Zülpich|50.694|6.654|DE|North Rhine-Westphalia|86
+Tegelen|51.344|6.136|NL|Limburg|86
+Kürten|51.050|7.267|DE|North Rhine-Westphalia|86
+Wachtberg|50.633|7.100|DE|North Rhine-Westphalia|86
+Raalte|52.386|6.275|NL|Overijssel|86
+Balen|51.168|5.170|BE|Flanders|86
+Huy|50.519|5.233|BE|Wallonia|86
+Cranendonck|51.304|5.589|NL|North Brabant|86
+Vianen|51.992|5.092|NL|Utrecht|86
+Zonhoven|50.991|5.368|BE|Flanders|86
+Eitorf|50.767|7.450|DE|North Rhine-Westphalia|86
+Huissen|51.938|5.933|NL|Gelderland|86
+Lichtenvoorde|51.987|6.567|NL|Gelderland|86
+Nunspeet|52.379|5.786|NL|Gelderland|86
+Wisch|51.926|6.417|NL|Gelderland|86
+Ochtrup|52.211|7.190|DE|North Rhine-Westphalia|86
+Schwalmtal|51.217|6.267|DE|North Rhine-Westphalia|86
+Mayen|50.328|7.223|DE|Rheinland-Pfalz|86
+Burscheid|51.085|7.114|DE|North Rhine-Westphalia|86
+Aalten|51.925|6.581|NL|Gelderland|86
+Rhede|51.835|6.696|DE|North Rhine-Westphalia|86
+Zeewolde|52.330|5.542|NL|Flevoland|86
+Groesbeek|51.777|5.936|NL|Gelderland|85
+Driebergen-Rijsenburg|52.053|5.281|NL|Utrecht|85
+Naarden|52.296|5.162|NL|North Holland|85
+Drunen|51.686|5.133|NL|North Brabant|85
+Eersel|51.358|5.318|NL|North Brabant|85
+Bergeijk|51.319|5.358|NL|North Brabant|85
+Koersel|51.059|5.271|BE|Flanders|85
+Rhenen|51.959|5.568|NL|Utrecht|85
+Eupen|50.628|6.036|BE|Wallonia|85
+Sinzig|50.544|7.246|DE|Rheinland-Pfalz|85
+Didam|51.941|6.132|NL|Gelderland|85
+Weesp|52.307|5.042|NL|North Holland|85
+Diepenbeek|50.908|5.419|BE|Flanders|85
+Velp|51.995|5.974|NL|Gelderland|85
+Halver|51.186|7.498|DE|North Rhine-Westphalia|85
+Wijk bij Duurstede|51.974|5.342|NL|Utrecht|85
+Zolder|51.025|5.310|BE|Flanders|85
+Glanerbrug|52.216|6.971|NL|Overijssel|85
+Gescher|51.954|7.005|DE|North Rhine-Westphalia|85
+Visé|50.738|5.699|BE|Wallonia|85
+Sint-Oedenrode|51.568|5.460|NL|North Brabant|85
+Marche-en-Famenne|50.227|5.344|BE|Wallonia|85
+Gennep|51.698|5.974|NL|Limburg|84
+Wassenberg|51.100|6.155|DE|North Rhine-Westphalia|84
+Tessenderlo|51.065|5.089|BE|Flanders|84
+Herve|50.641|5.794|BE|Wallonia|84
+Eibergen|52.100|6.649|NL|Gelderland|84
+Hückeswagen|51.150|7.345|DE|North Rhine-Westphalia|84
+Weilerswist|50.753|6.846|DE|North Rhine-Westphalia|84
+Remagen|50.579|7.227|DE|Rheinland-Pfalz|84
+Neerpelt|51.228|5.443|BE|Flanders|84
+Brüggen|51.241|6.184|DE|North Rhine-Westphalia|84
+Grefrath|51.336|6.341|DE|North Rhine-Westphalia|84
+Gemert|51.556|5.690|NL|North Brabant|84
+Fléron|50.615|5.681|BE|Wallonia|84
+Blerick|51.372|6.149|NL|Limburg|84
+Riemst|50.810|5.601|BE|Flanders|84
+Odenthal|51.033|7.117|DE|North Rhine-Westphalia|84
+Peer|51.130|5.460|BE|Flanders|84
+Bad Bentheim|52.301|7.158|DE|Lower Saxony|84
+Niederkrüchten|51.200|6.217|DE|North Rhine-Westphalia|84
+Heusy|50.575|5.866|BE|Wallonia|84
+Mechelen-aan-de-Maas|50.966|5.691|BE|Flanders|84
+Straelen|51.442|6.266|DE|North Rhine-Westphalia|84
+Soumagne|50.614|5.747|BE|Wallonia|84
+Much|50.904|7.403|DE|North Rhine-Westphalia|84
+Bennekom|51.998|5.676|NL|Gelderland|84
+Hollogne-aux-Pierres|50.641|5.472|BE|Wallonia|83
+Dieren|52.051|6.103|NL|Gelderland|83
+Ciney|50.294|5.100|BE|Wallonia|83
+Kalkar|51.739|6.291|DE|North Rhine-Westphalia|83
+Breukelen|52.174|5.001|NL|Utrecht|83
+Landen|50.753|5.082|BE|Flanders|83
+Bastogne|50.003|5.718|BE|Wallonia|83
+Bree|51.142|5.597|BE|Flanders|83
+Niederzier|50.883|6.467|DE|North Rhine-Westphalia|83
+Schleiden|50.529|6.477|DE|North Rhine-Westphalia|83
+Leopoldsburg|51.117|5.250|BE|Flanders|83
+Hannut|50.671|5.079|BE|Wallonia|83
+Langerwehe|50.817|6.350|DE|North Rhine-Westphalia|83
+Neuenkirchen|52.245|7.372|DE|North Rhine-Westphalia|83
+Wezep|52.462|5.999|NL|Gelderland|83
+Linnich|50.980|6.270|DE|North Rhine-Westphalia|83
+Flémalle-Grande|50.609|5.477|BE|Wallonia|83
+Waremme|50.698|5.255|BE|Wallonia|83
+Hünxe|51.634|6.697|DE|North Rhine-Westphalia|83
+Lummen|50.988|5.191|BE|Flanders|83
+Schermbeck|51.683|6.867|DE|North Rhine-Westphalia|83
+Dison|50.610|5.853|BE|Wallonia|83
+Twello|52.237|6.103|NL|Gelderland|83
+Esneux|50.536|5.568|BE|Wallonia|83
+Horst|51.454|6.051|NL|Limburg|83
+Overpelt|51.210|5.416|BE|Flanders|83
+Amay|50.548|5.310|BE|Wallonia|82
+Velen|51.894|6.988|DE|North Rhine-Westphalia|82
+Grave|51.759|5.739|NL|North Brabant|82
+Monschau|50.555|6.240|DE|North Rhine-Westphalia|82
+Sprimont|50.509|5.660|BE|Wallonia|82
+Blaricum|52.273|5.242|NL|North Holland|82
+Wanze|50.539|5.208|BE|Wallonia|82
+Alpen|51.583|6.517|DE|North Rhine-Westphalia|82
+Heesch|51.734|5.527|NL|North Brabant|82
+Blégny|50.673|5.725|BE|Wallonia|82
+Vaassen|52.286|5.967|NL|Gelderland|82
+Malmédy|50.427|6.028|BE|Wallonia|82
+Bressoux|50.640|5.606|BE|Wallonia|82
+Lunteren|52.085|5.622|NL|Gelderland|82
+Mengede|51.572|7.384|DE|North Rhine-Westphalia|82
+Boxmeer|51.647|5.947|NL|North Brabant|82
+Lochem|52.159|6.411|NL|Gelderland|82
+Bocholt|51.173|5.580|BE|Flanders|82
+Vriezenveen|52.408|6.622|NL|Overijssel|82
+Arendonk|51.323|5.083|BE|Flanders|82
+Olfen|51.708|7.379|DE|North Rhine-Westphalia|82
+Havixbeck|51.983|7.417|DE|North Rhine-Westphalia|82
+Bemmel|51.892|5.899|NL|Gelderland|82
+Rochefort|50.163|5.222|BE|Wallonia|82
+Ougrée|50.601|5.544|BE|Wallonia|82
+Kinrooi|51.145|5.742|BE|Flanders|82
+Paal|51.040|5.172|BE|Flanders|82
+Kall|50.542|6.563|DE|North Rhine-Westphalia|82
+Hattem|52.475|6.064|NL|Gelderland|81
+Eijsden|50.780|5.718|NL|Limburg|81
+Billerbeck|51.978|7.293|DE|North Rhine-Westphalia|81
+Zündorf|50.868|7.047|DE|North Rhine-Westphalia|81
+Beyne-Heusay|50.623|5.665|BE|Wallonia|81
+Theux|50.533|5.812|BE|Wallonia|81
+Herk-de-Stad|50.940|5.166|BE|Flanders|81
+Laren|52.257|5.228|NL|North Holland|81
+Gangelt|50.992|5.998|DE|North Rhine-Westphalia|81
+Nörvenich|50.806|6.640|DE|North Rhine-Westphalia|81
+Doesburg|52.013|6.139|NL|Gelderland|81
+Schüttorf|52.322|7.225|DE|Lower Saxony|81
+Goor|52.233|6.586|NL|Overijssel|81
+Montegnée|50.646|5.514|BE|Wallonia|81
+Kuringen|50.944|5.299|BE|Flanders|81
+Jemeppe-sur-Meuse|50.617|5.498|BE|Wallonia|81
+Woudenberg|52.081|5.417|NL|Utrecht|81
+Stein|50.969|5.767|NL|Limburg|81
+Isselburg|51.832|6.464|DE|North Rhine-Westphalia|81
+Raesfeld|51.767|6.850|DE|North Rhine-Westphalia|81
+Kirchlinde|51.526|7.367|DE|North Rhine-Westphalia|81
+Oosterbeek|51.986|5.846|NL|Gelderland|81
+Alken|50.876|5.306|BE|Flanders|81
+Grâce-Berleur|50.640|5.503|BE|Wallonia|81
+Spa|50.484|5.867|BE|Wallonia|81
+Ruppichteroth|50.844|7.484|DE|North Rhine-Westphalia|81
+Neuenhaus|52.497|6.967|DE|Lower Saxony|81
+Nideggen|50.693|6.484|DE|North Rhine-Westphalia|81
+Someren|51.385|5.711|NL|North Brabant|81
+Angleur|50.611|5.599|BE|Wallonia|81
+Aywaille|50.474|5.677|BE|Wallonia|81
+Jupille-sur-Meuse|50.646|5.633|BE|Wallonia|81
+Hoogland|52.182|5.374|NL|Utrecht|80
+Mülheim-Kärlich|50.385|7.499|DE|Rheinland-Pfalz|80
+Ulft|51.890|6.378|NL|Gelderland|80
+Oirschot|51.505|5.314|NL|North Brabant|80
+Borculo|52.116|6.522|NL|Gelderland|80
+Doorn|52.033|5.346|NL|Utrecht|80
+Ermelo|52.298|5.622|NL|Gelderland|80
+Durbuy|50.353|5.456|BE|Wallonia|80
+La Calamine|50.718|6.011|BE|Wallonia|80
+Eisden|50.985|5.714|BE|Flanders|80
+Weeze|51.627|6.198|DE|North Rhine-Westphalia|80
+Eerbeek|52.105|6.058|NL|Gelderland|80
+Kaldenkirchen|51.320|6.198|DE|North Rhine-Westphalia|80
+Groenlo|52.042|6.611|NL|Gelderland|80
+Borgloon|50.805|5.344|BE|Flanders|80
+Heeze|51.383|5.571|NL|North Brabant|80
+Haelen|51.236|5.957|NL|Limburg|80
+Raeren|50.667|6.115|BE|Wallonia|80
+Hoevelaken|52.175|5.458|NL|Gelderland|80
+Altenberge|52.050|7.467|DE|North Rhine-Westphalia|80
+Bladel|51.368|5.221|NL|North Brabant|80
+Alleur|50.675|5.513|BE|Wallonia|80
+Neeroeteren|51.092|5.699|BE|Flanders|80
+Marten|51.513|7.377|DE|North Rhine-Westphalia|80
+Voorthuizen|52.187|5.606|NL|Gelderland|80
+Brechten|51.576|7.467|DE|North Rhine-Westphalia|80
+Emsbüren|52.394|7.304|DE|Lower Saxony|80
+Plombières|50.737|5.959|BE|Wallonia|80
+Asten|51.404|5.749|NL|North Brabant|80
+Pepinster|50.566|5.804|BE|Wallonia|80
+Veldhuizen|52.075|5.012|NL|Utrecht|80
+Nordwalde|52.083|7.483|DE|North Rhine-Westphalia|80
+Opglabbeek|51.043|5.583|BE|Flanders|80
+Renkum|51.977|5.733|NL|Gelderland|79
+Loosdrecht|52.207|5.071|NL|North Holland|79
+Mierlo|51.440|5.619|NL|North Brabant|79
+Meerhout|51.132|5.078|BE|Flanders|79
+Waldfeucht|51.066|5.988|DE|North Rhine-Westphalia|79
+Hoeselt|50.847|5.488|BE|Flanders|79
+Breckerfeld|51.259|7.468|DE|North Rhine-Westphalia|79
+Warnsveld|52.138|6.231|NL|Gelderland|79
+Chênée|50.612|5.614|BE|Wallonia|79
+Lent|51.862|5.867|NL|Gelderland|79
+Saint-Vith|50.281|6.127|BE|Wallonia|79
+Denekamp|52.377|7.007|NL|Overijssel|79
+Vettweiß|50.733|6.600|DE|North Rhine-Westphalia|79
+Südlohn|51.945|6.867|DE|North Rhine-Westphalia|79
+Welkenraedt|50.660|5.970|BE|Wallonia|79
+Hamont|51.253|5.547|BE|Flanders|79
+Bad Breisig|50.505|7.289|DE|Rheinland-Pfalz|79
+De Bilt|52.110|5.181|NL|Utrecht|79
+Heerde|52.387|6.040|NL|Gelderland|79
+Eil|50.894|7.080|DE|North Rhine-Westphalia|79
+Scherpenzeel|52.080|5.489|NL|Gelderland|79
+Mendig|50.367|7.283|DE|Rheinland-Pfalz|79
+Arcen|51.477|6.181|NL|Limburg|79
+Blankenheim|50.433|6.650|DE|North Rhine-Westphalia|79
+Stembert|50.591|5.894|BE|Wallonia|79
+Beverlo|51.086|5.219|BE|Flanders|79
+Uedem|51.665|6.274|DE|North Rhine-Westphalia|79
+Awans|50.668|5.463|BE|Wallonia|79
+Hellenthal|50.483|6.433|DE|North Rhine-Westphalia|79
+Halen|50.948|5.111|BE|Flanders|79
+Daun|50.197|6.829|DE|Rheinland-Pfalz|79
+Vroomshoop|52.461|6.565|NL|Overijssel|79
+Titz|51.006|6.425|DE|North Rhine-Westphalia|79
+Beek|50.941|5.797|NL|Limburg|79
+Juprelle|50.708|5.531|BE|Wallonia|78
+Spelle|52.364|7.474|DE|Lower Saxony|78
+Heek|52.117|7.100|DE|North Rhine-Westphalia|78
+Dinxperlo|51.864|6.487|NL|Gelderland|78
+Loenen aan de Vecht|52.210|5.022|NL|Utrecht|78
+Roetgen|50.650|6.200|DE|North Rhine-Westphalia|78
+Barop|51.482|7.432|DE|North Rhine-Westphalia|78
+Eichlinghofen|51.479|7.409|DE|North Rhine-Westphalia|78
+Schöppingen|52.100|7.233|DE|North Rhine-Westphalia|78
+Bassenge|50.759|5.610|BE|Wallonia|78
+Heiden|51.828|6.933|DE|North Rhine-Westphalia|78
+Kortessem|50.859|5.390|BE|Flanders|78
+Lindenheuvel|50.985|5.817|NL|Limburg|78
+Retie|51.267|5.082|BE|Flanders|78
+Heeswijk-Dinther|51.651|5.475|NL|North Brabant|78
+Gingelom|50.748|5.134|BE|Flanders|78
+Nettersheim|50.494|6.629|DE|North Rhine-Westphalia|78
+Wettringen|52.209|7.319|DE|North Rhine-Westphalia|78
+Zoutleeuw|50.833|5.104|BE|Flanders|78
+Budel|51.272|5.575|NL|North Brabant|78
+Hilvarenbeek|51.486|5.138|NL|North Brabant|78
+Wachtendonk|51.409|6.339|DE|North Rhine-Westphalia|78
+Echt|51.106|5.874|NL|Limburg|78
+Neede|52.134|6.614|NL|Gelderland|78
+Wahn-Heide|50.859|7.107|DE|North Rhine-Westphalia|78
+Jalhay|50.559|5.968|BE|Wallonia|78
+Inden|50.843|6.360|DE|North Rhine-Westphalia|78
+Gerolstein|50.222|6.660|DE|Rheinland-Pfalz|78
+Udenhout|51.609|5.143|NL|North Brabant|78
+Weißenthurm|50.417|7.451|DE|Rheinland-Pfalz|78
+Salzbergen|52.322|7.346|DE|Lower Saxony|78
+Trooz|50.570|5.695|BE|Wallonia|78
+Enter|52.294|6.578|NL|Overijssel|78
+Soesterberg|52.118|5.286|NL|Utrecht|78
+Vottem|50.672|5.577|BE|Wallonia|77
+Rheden|52.005|6.029|NL|Gelderland|77
+Kortenaken|50.909|5.060|BE|Flanders|77
+Aldenhoven|50.900|6.283|DE|North Rhine-Westphalia|77
+Muiden|52.330|5.069|NL|North Holland|77
+Vielsalm|50.284|5.915|BE|Wallonia|77
+As|51.008|5.585|BE|Flanders|77
+Elsloo|50.949|5.771|NL|Limburg|77
+Nederweert|51.286|5.749|NL|Limburg|77
+Wellinghofen|51.469|7.490|DE|North Rhine-Westphalia|77
+Andrimont|50.613|5.883|BE|Wallonia|77
+Asbach|50.667|7.417|DE|Rheinland-Pfalz|77
+Reusel|51.362|5.165|NL|North Brabant|77
+Wehl|51.961|6.211|NL|Gelderland|77
+Rocourt|50.676|5.546|BE|Wallonia|77
+Oberkassel|50.714|7.166|DE|North Rhine-Westphalia|77
+Vaals|50.771|6.018|NL|Limburg|77
+Westerfilde|51.544|7.374|DE|North Rhine-Westphalia|77
+Zutendaal|50.933|5.575|BE|Flanders|77
+Vleuten|52.106|5.015|NL|Utrecht|77
+Beneden-Leeuwen|51.883|5.515|NL|Gelderland|77
+Delden|52.260|6.711|NL|Overijssel|77
+Vorst|51.080|5.020|BE|Flanders|77
+Horstmar|52.081|7.305|DE|North Rhine-Westphalia|77
+Rahm|51.524|7.387|DE|North Rhine-Westphalia|77
+Wellen|50.841|5.339|BE|Flanders|77
+Saint-Georges-sur-Meuse|50.600|5.357|BE|Wallonia|77
+Neue Kolonie Westhausen|51.550|7.367|DE|North Rhine-Westphalia|77
+Legden|52.033|7.100|DE|North Rhine-Westphalia|77
+Panningen|51.327|5.979|NL|Limburg|77
+Heers|50.754|5.302|BE|Flanders|77
+t Harde|52.416|5.879|NL|Gelderland|77
+Rheurdt|51.467|6.467|DE|North Rhine-Westphalia|76
+Hamois|50.340|5.156|BE|Wallonia|76
+Waimes|50.415|6.112|BE|Wallonia|76
+Stavelot|50.395|5.931|BE|Wallonia|76
+Hechtel|51.125|5.368|BE|Flanders|76
+Polch|50.300|7.313|DE|Rheinland-Pfalz|76
+Aalburg|51.755|5.132|NL|North Brabant|76
+Kerkdriel|51.772|5.335|NL|Gelderland|76
+Kortenhoef|52.239|5.107|NL|North Holland|76
+Amby|50.862|5.732|NL|Limburg|76
+Vaux-sous-Chèvremont|50.603|5.633|BE|Wallonia|76
+Berghem|51.770|5.568|NL|North Brabant|76
+Metelen|52.144|7.213|DE|North Rhine-Westphalia|76
+Nieuwerkerken|50.864|5.195|BE|Flanders|76
+Heino|52.437|6.233|NL|Overijssel|76
+Waalre|51.387|5.444|NL|North Brabant|76
+Heythuysen|51.250|5.899|NL|Limburg|76
+Dalhem|50.713|5.728|BE|Wallonia|76
+Leersum|52.012|5.428|NL|Utrecht|76
+Nette|51.561|7.390|DE|North Rhine-Westphalia|76
+Bunnik|52.067|5.199|NL|Utrecht|76
+Mill|51.688|5.779|NL|North Brabant|76
+Assesse|50.369|5.022|BE|Wallonia|76
+Druten|51.888|5.606|NL|Gelderland|76
+Oestrich|51.564|7.371|DE|North Rhine-Westphalia|76
+Gesves|50.401|5.075|BE|Wallonia|76
+Reuver|51.284|6.078|NL|Limburg|76
+Embourg|50.590|5.607|BE|Wallonia|76
+Dilsen|51.037|5.721|BE|Flanders|76
+Nistelrode|51.704|5.563|NL|North Brabant|76
+Wandre|50.668|5.660|BE|Wallonia|76
+Villers-le-Bouillet|50.577|5.259|BE|Wallonia|76
+Linz am Rhein|50.569|7.284|DE|Rheinland-Pfalz|76
+Lindenhorst|51.547|7.450|DE|North Rhine-Westphalia|76
+Nieuw-Loosdrecht|52.199|5.139|NL|North Holland|76
+Schaijk|51.746|5.632|NL|North Brabant|76
+Ruurlo|52.088|6.450|NL|Gelderland|75
+Rombergpark-Lücklemberg|51.463|7.470|DE|North Rhine-Westphalia|75
+Seilles|50.501|5.093|BE|Wallonia|75
+Bathmen|52.250|6.287|NL|Overijssel|75
+Geetbets|50.894|5.112|BE|Flanders|75
+Eksel|51.152|5.391|BE|Flanders|75
+Plaidt|50.393|7.393|DE|Rheinland-Pfalz|75
+Bad Hönningen|50.517|7.312|DE|Rheinland-Pfalz|75
+Zelhem|52.007|6.349|NL|Gelderland|75
+Engis|50.582|5.399|BE|Wallonia|75
+Battice|50.647|5.821|BE|Wallonia|75
+Laer|52.056|7.358|DE|North Rhine-Westphalia|75
+Sinnersdorf|51.024|6.818|DE|North Rhine-Westphalia|75
+Maasbracht|51.139|5.886|NL|Limburg|75
+Braives|50.628|5.148|BE|Wallonia|75
+Ivoz-Ramet|50.588|5.466|BE|Wallonia|75
+Vorst|51.215|6.584|DE|North Rhine-Westphalia|75
+Meeuwen|51.099|5.521|BE|Flanders|75
+Meerssen|50.888|5.750|NL|Limburg|75
+Wijhe|52.387|6.135|NL|Overijssel|75
+Westervoort|51.956|5.972|NL|Gelderland|75
+Limbourg|50.612|5.941|BE|Wallonia|75
+Gendt|51.877|5.971|NL|Gelderland|75
+Issum|51.533|6.433|DE|North Rhine-Westphalia|75
+Boncelles|50.571|5.536|BE|Wallonia|75
+Belfeld|51.313|6.115|NL|Limburg|75
+Gaanderen|51.929|6.346|NL|Gelderland|75
+Kwaadmechelen|51.101|5.145|BE|Flanders|75
+Generalenbuurt|51.462|5.481|NL|North Brabant|75
+Saint-Hubert|50.027|5.374|BE|Wallonia|75
+Velden|51.412|6.168|NL|Limburg|75
+Helden|51.319|6.000|NL|Limburg|75
+Neersen|51.254|6.477|DE|North Rhine-Westphalia|75
+Glessen|50.967|6.749|DE|North Rhine-Westphalia|75
+Butgenbach|50.427|6.205|BE|Wallonia|75
+Bunde|50.897|5.732|NL|Limburg|75
+Beaufays|50.559|5.639|BE|Wallonia|75
+Beverst|50.891|5.475|BE|Flanders|75
+Boekel|51.603|5.675|NL|North Brabant|75
+Odijk|52.053|5.236|NL|Utrecht|75
+Prüm|50.208|6.420|DE|Rheinland-Pfalz|75
+Opheusden|51.932|5.632|NL|Gelderland|75
+Tilff|50.564|5.576|BE|Wallonia|75
+Varsseveld|51.943|6.458|NL|Gelderland|75
+Sonsbeck|51.607|6.379|DE|North Rhine-Westphalia|75
+Stockum|51.470|7.368|DE|North Rhine-Westphalia|75
+Grafenwald|51.570|6.912|DE|North Rhine-Westphalia|75
+Rhade|51.752|6.936|DE|North Rhine-Westphalia|75
+Doornsteeg|52.230|5.454|NL|Gelderland|75
+Mehrhoog|51.738|6.512|DE|North Rhine-Westphalia|75
+Achel|51.253|5.480|BE|Flanders|75
+Bullange|50.407|6.257|BE|Wallonia|75
+Veldhoven|51.418|5.403|NL|North Brabant|75
+Oostham|51.104|5.179|BE|Flanders|75
+Röttgen|50.678|7.071|DE|North Rhine-Westphalia|75
+Elmpt|51.210|6.153|DE|North Rhine-Westphalia|75
+Kreuzau|50.747|6.491|DE|North Rhine-Westphalia|75
+Comblain-au-Pont|50.475|5.577|BE|Wallonia|74
+Kastellaun|50.069|7.442|DE|Rheinland-Pfalz|74
+Reken|51.830|7.045|DE|North Rhine-Westphalia|74
+Walheim - Hahn|50.707|6.178|DE|North Rhine-Westphalia|74
+Nieuw-Bergen|51.603|6.054|NL|Limburg|74
+Gruiten|51.218|7.011|DE|North Rhine-Westphalia|74
+Forêt|50.584|5.700|BE|Wallonia|74
+Prayon|50.578|5.675|BE|Wallonia|74
+Buldern|51.866|7.367|DE|North Rhine-Westphalia|74
+Amblève|50.354|6.170|BE|Wallonia|74
+Dingden|51.770|6.613|DE|North Rhine-Westphalia|74
+Baarlo|51.331|6.094|NL|Limburg|74
+Cochem|50.145|7.164|DE|Rheinland-Pfalz|74
+Rommerskirchen|51.033|6.683|DE|North Rhine-Westphalia|74
+Ochtendung|50.350|7.383|DE|Rheinland-Pfalz|74
+Niederwenigern|51.404|7.139|DE|North Rhine-Westphalia|74
+Vaartbroek|51.480|5.498|NL|North Brabant|74
+Beek|51.529|5.634|NL|North Brabant|74
+Meijel|51.344|5.885|NL|Limburg|74
+Zons|51.124|6.845|DE|North Rhine-Westphalia|74
+Uelsen|52.494|6.883|DE|Lower Saxony|74
+Simmerath|50.600|6.300|DE|North Rhine-Westphalia|74
+Bad Münstereifel|50.557|6.764|DE|North Rhine-Westphalia|74
+Aarle-Rixtel|51.510|5.638|NL|North Brabant|74
+Pfalzdorf|51.708|6.164|DE|North Rhine-Westphalia|74
+Kranenburg|51.783|6.017|DE|North Rhine-Westphalia|74
+Amerongen|52.002|5.460|NL|Utrecht|74
+Nassogne|50.128|5.343|BE|Wallonia|74
+Marchin|50.467|5.243|BE|Wallonia|74
+Remicourt|50.681|5.328|BE|Wallonia|74
+Maasbree|51.358|6.049|NL|Limburg|74
+Hilgen - Dünweg|51.102|7.152|DE|North Rhine-Westphalia|74
+Sevenum|51.413|6.037|NL|Limburg|74
+Biddinghuizen|52.455|5.693|NL|Flevoland|74
+Sechtem|50.791|6.953|DE|North Rhine-Westphalia|74
+Hotton|50.267|5.446|BE|Wallonia|74
+Hapert|51.368|5.257|NL|North Brabant|74
+Schaffen|51.000|5.087|BE|Flanders|74
+Unkel|50.597|7.219|DE|Rheinland-Pfalz|74
+Mons-lez-Liège|50.623|5.456|BE|Wallonia|74
+Son|51.511|5.493|NL|North Brabant|74
+Maartensdijk|52.155|5.175|NL|Utrecht|74
+Waha|50.209|5.342|BE|Wallonia|74
+Vorden|52.105|6.310|NL|Gelderland|74
+Grubbenvorst|51.420|6.146|NL|Limburg|74
+Lontzen|50.681|6.007|BE|Wallonia|74
+Silvolde|51.909|6.388|NL|Gelderland|74
+Heppen|51.109|5.229|BE|Flanders|74
+Heteren|51.957|5.756|NL|Gelderland|74
+Havelange|50.389|5.238|BE|Wallonia|74
+Olst|52.337|6.110|NL|Overijssel|74
+Soestdijk|52.191|5.285|NL|Utrecht|74
+Saive|50.653|5.685|BE|Wallonia|74
+Zeeland|51.697|5.676|NL|North Brabant|74
+'s-Heerenberg|51.877|6.259|NL|Gelderland|73
+Maarheeze|51.312|5.617|NL|North Brabant|73
+Gouvy|50.186|5.939|BE|Wallonia|73
+Ensival|50.581|5.849|BE|Wallonia|73
+Cheratte|50.682|5.670|BE|Wallonia|73
+Schinveld|50.969|5.979|NL|Limburg|73
+Sint-Lambrechts-Herk|50.899|5.308|BE|Flanders|73
+Woudrichem|51.815|5.001|NL|North Brabant|73
+Offenbeek|51.282|6.095|NL|Limburg|73
+Heimbach|50.637|6.469|DE|North Rhine-Westphalia|73
+Frohnen|50.631|7.344|DE|Rheinland-Pfalz|73
+Maarn|52.064|5.371|NL|Utrecht|73
+Houffalize|50.132|5.790|BE|Wallonia|73
+Schalkhaar|52.268|6.194|NL|Overijssel|73
+Rheinbreitbach|50.617|7.233|DE|Rheinland-Pfalz|73
+Nuth|50.917|5.886|NL|Limburg|73
+Munstergeleen|50.975|5.864|NL|Limburg|73
+Kaulille|51.188|5.524|BE|Flanders|73
+Nuland|51.726|5.435|NL|North Brabant|73
+Retinne|50.631|5.698|BE|Wallonia|73
+Bévercé|50.441|6.035|BE|Wallonia|73
+Kermt|50.948|5.248|BE|Flanders|73
+Somme-Leuze|50.337|5.367|BE|Wallonia|73
+Hengelo|52.051|6.310|NL|Gelderland|73
+Stramproy|51.194|5.719|NL|Limburg|73
+Houyet|50.186|5.008|BE|Wallonia|73
+Munsterbilzen|50.889|5.526|BE|Flanders|73
+Rekem|50.922|5.694|BE|Flanders|73
+Westerhaar-Vriezenveensewijk|52.456|6.624|NL|Overijssel|73
+Dodewaard|51.913|5.656|NL|Gelderland|73
+Keent|51.242|5.701|NL|Limburg|73
+Kesteren|51.935|5.569|NL|Gelderland|73
+Lanklaar|51.019|5.725|BE|Flanders|73
+Ootmarsum|52.408|6.901|NL|Overijssel|73
+Antheit|50.549|5.240|BE|Wallonia|73
+Vliedberg|51.690|5.190|NL|North Brabant|73
+Sougné-Remouchamps|50.482|5.708|BE|Wallonia|73
+Ferrières|50.402|5.611|BE|Wallonia|73
+Windhagen|50.641|7.354|DE|Rheinland-Pfalz|73
+Ven|51.640|5.550|NL|North Brabant|73
+Terborg|51.920|6.354|NL|Gelderland|73
+Den Dolder|52.139|5.239|NL|Utrecht|73
+Zell|50.029|7.182|DE|Rheinland-Pfalz|73
+Spakenburg|52.250|5.367|NL|Utrecht|73
+Doorwerth|51.979|5.797|NL|Gelderland|73
+Vredenburg|51.954|5.903|NL|Gelderland|73
+Vivegnis|50.692|5.648|BE|Wallonia|73
+Hedel|51.748|5.261|NL|Gelderland|73
+Bocholtz|50.818|6.006|NL|Limburg|73
+Opoeteren|51.069|5.656|BE|Flanders|73
+Ohey|50.436|5.124|BE|Wallonia|73
+Héron|50.547|5.098|BE|Wallonia|73
+Oberpleis|50.707|7.274|DE|North Rhine-Westphalia|73
+Niederbachem|50.646|7.180|DE|North Rhine-Westphalia|73
+Neuville-en-Condroz|50.553|5.451|BE|Wallonia|73
+Oespel|51.486|7.383|DE|North Rhine-Westphalia|73
+Romsée|50.611|5.665|BE|Wallonia|73
+Louveigné|50.530|5.715|BE|Wallonia|73
+Berlicum|51.678|5.400|NL|North Brabant|73
+Sint-Pieters-Voeren|50.739|5.822|BE|Flanders|73
+Melle|51.662|5.634|NL|North Brabant|73
+Dahlem|50.386|6.548|DE|North Rhine-Westphalia|73
+La Roche-en-Ardenne|50.184|5.575|BE|Wallonia|72
+Tilleur|50.619|5.530|BE|Wallonia|72
+Ochten|51.910|5.569|NL|Gelderland|72
+Liempde|51.569|5.372|NL|North Brabant|72
+Bakel|51.503|5.740|NL|North Brabant|72
+Aubel|50.702|5.858|BE|Wallonia|72
+Anthisnes|50.483|5.519|BE|Wallonia|72
+Kettenis|50.648|6.047|BE|Wallonia|72
+Clavier|50.401|5.352|BE|Wallonia|72
+Brünninghausen|51.476|7.458|DE|North Rhine-Westphalia|72
+Theereheide|51.638|5.337|NL|North Brabant|72
+Bitswijk|51.669|5.609|NL|North Brabant|72
+Poppel|51.446|5.043|BE|Flanders|72
+Rheinbrohl|50.500|7.333|DE|Rheinland-Pfalz|72
+Wapenveld|52.429|6.074|NL|Gelderland|72
+Heel|51.179|5.894|NL|Limburg|72
+Ekenrooi|51.397|5.486|NL|North Brabant|72
+Zuid-Berghuizen|52.301|6.933|NL|Overijssel|72
+Herkenbosch|51.153|6.064|NL|Limburg|72
+Hermée|50.709|5.618|BE|Wallonia|72
+Baelen|50.631|5.974|BE|Wallonia|72
+Gendringen|51.873|6.376|NL|Gelderland|72
+Geffen|51.740|5.464|NL|North Brabant|72
+Enschot|51.578|5.139|NL|North Brabant|72
+Veldwezelt|50.868|5.631|BE|Flanders|72
+Meteren|51.865|5.283|NL|Gelderland|72
+Kruft|50.383|7.333|DE|Rheinland-Pfalz|72
+Haccourt|50.731|5.670|BE|Wallonia|72
+Olne|50.590|5.747|BE|Wallonia|72
+Haaren|51.602|5.222|NL|North Brabant|72
+Modave|50.446|5.295|BE|Wallonia|72
+Terwinselen|50.867|6.025|NL|Limburg|72
+Eynatten|50.692|6.084|BE|Wallonia|72
+Genoenhuis|51.409|5.539|NL|North Brabant|72
+Leuken|51.253|5.735|NL|Limburg|72
+Hunnerberg|51.842|5.879|NL|Gelderland|72
+Markelo|52.235|6.499|NL|Overijssel|72
+Olmen|51.142|5.150|BE|Flanders|72
+Molenhoek|51.711|5.368|NL|North Brabant|71
+Stokkem|51.023|5.745|BE|Flanders|71
+Stevoort|50.919|5.253|BE|Flanders|71
+Rotem|51.053|5.741|BE|Flanders|71
+Steyl|51.332|6.119|NL|Limburg|71
+Gruitrode|51.089|5.588|BE|Flanders|71
+Ben-Ahin|50.504|5.187|BE|Wallonia|71
+Melick|51.159|6.017|NL|Limburg|71
+Linne|51.155|5.939|NL|Limburg|71
+Overloon|51.572|5.947|NL|North Brabant|71
+Helvoirt|51.632|5.231|NL|North Brabant|71
+Cuijk|51.731|5.879|NL|North Brabant|71
+Walsbets|50.738|5.084|BE|Flanders|71
+Erp|51.600|5.607|NL|North Brabant|71
+Oirsbeek|50.951|5.908|NL|Limburg|71
+Verlaine|50.607|5.317|BE|Wallonia|71
+Buren|51.912|5.332|NL|Gelderland|71
+Nickenich|50.414|7.327|DE|Rheinland-Pfalz|71
+Donk|51.538|5.629|NL|North Brabant|71
+Zepperen|50.821|5.248|BE|Flanders|71
+Ampsin|50.542|5.278|BE|Wallonia|71
+Vlokhoven|51.472|5.483|NL|North Brabant|71
+Gulpen|50.816|5.889|NL|Limburg|71
+Opgrimbie|50.942|5.680|BE|Flanders|71
+Urmond|50.991|5.772|NL|Limburg|71
+Volkel|51.642|5.654|NL|North Brabant|71
+Molenbeersel|51.170|5.738|BE|Flanders|71
+Posterholt|51.123|6.035|NL|Limburg|71
+Sankt Katharinen|50.583|7.383|DE|Rheinland-Pfalz|71
+Gorssel|52.202|6.201|NL|Gelderland|71
+Lieshout|51.520|5.595|NL|North Brabant|71
+Petit-Rechain|50.615|5.834|BE|Wallonia|71
+Dreumel|51.849|5.433|NL|Gelderland|71
+Vettelschoß|50.617|7.350|DE|Rheinland-Pfalz|71
+Hamoir|50.427|5.533|BE|Wallonia|71
+Montzen|50.708|5.962|BE|Wallonia|71
+Leende|51.351|5.554|NL|North Brabant|71
+Schutsboom|51.462|5.623|NL|North Brabant|71
+Ugchelen|52.185|5.932|NL|Gelderland|71
+Lienden|51.948|5.518|NL|Gelderland|71
+Trembleur|50.695|5.726|BE|Wallonia|71
+Zesgehuchten|51.417|5.550|NL|North Brabant|71
+Den Dungen|51.665|5.372|NL|North Brabant|71
+Harskamp|52.130|5.753|NL|Gelderland|71
+Kley|51.486|7.362|DE|North Rhine-Westphalia|71
+Münstermaifeld|50.246|7.362|DE|Rheinland-Pfalz|71
+Renswoude|52.073|5.540|NL|Utrecht|71
+Vucht|50.978|5.711|BE|Flanders|71
+Kunrade|50.878|5.931|NL|Limburg|71
+Valkenburg|50.865|5.832|NL|Limburg|71
+Türnich|50.859|6.755|DE|North Rhine-Westphalia|71
+Wegnez|50.579|5.817|BE|Wallonia|71
+Molenstede|51.004|5.013|BE|Flanders|71
+Oreye|50.732|5.358|BE|Wallonia|71
+Uckerath|50.730|7.369|DE|North Rhine-Westphalia|71
+Spaubeek|50.940|5.843|NL|Limburg|71
+Sint-Huibrechts-Lille|51.223|5.494|BE|Flanders|71
+Faimes|50.663|5.260|BE|Wallonia|70
+Sint Anthonis|51.627|5.882|NL|North Brabant|70
+Burgbrohl|50.455|7.277|DE|Rheinland-Pfalz|70
+Lierneux|50.285|5.792|BE|Wallonia|70
+Kettig|50.400|7.467|DE|Rheinland-Pfalz|70
+Margraten|50.821|5.821|NL|Limburg|70
+Kobern-Gondorf|50.302|7.456|DE|Rheinland-Pfalz|70
+Herten|51.181|5.963|NL|Limburg|70
+Eefde|52.167|6.225|NL|Gelderland|70
+Oldebroek|52.445|5.901|NL|Gelderland|70
+Maurik|51.961|5.422|NL|Gelderland|70
+Ulmen|50.209|6.979|DE|Rheinland-Pfalz|70
+Thimister|50.655|5.864|BE|Wallonia|70
+Zichen-Zussen-Bolder|50.794|5.625|BE|Flanders|70
+Hierden|52.358|5.678|NL|Gelderland|70
+Hulsberg|50.889|5.856|NL|Limburg|70
+Hillesheim|50.292|6.670|DE|Rheinland-Pfalz|70
+Lambermont|50.590|5.832|BE|Wallonia|70
+Berg|50.862|5.783|NL|Limburg|70
+Heelsum|51.984|5.758|NL|Gelderland|70
+Spekholzerheide|50.856|6.025|NL|Limburg|70
+Melen|50.646|5.736|BE|Wallonia|70
+Chevremont|50.876|6.060|NL|Limburg|70
+Tihange|50.530|5.262|BE|Wallonia|70
+Manhay|50.292|5.676|BE|Wallonia|70
+Loncin|50.667|5.505|BE|Wallonia|70
+Ophoven|51.126|5.802|BE|Flanders|70
+Beeckerheide|51.138|6.288|DE|North Rhine-Westphalia|70
+Ederveen|52.063|5.578|NL|Gelderland|70
+Fexhe-le-Haut-Clocher|50.665|5.400|BE|Wallonia|70
+Gemmenich|50.746|5.995|BE|Wallonia|70
+Lobith|51.862|6.118|NL|Gelderland|70
+Wijchmaal|51.135|5.413|BE|Flanders|70
+Ammerzoden|51.749|5.221|NL|Gelderland|70
+Voerendaal|50.883|5.930|NL|Limburg|70
+Kessel|51.292|6.054|NL|Limburg|70
+Bunschoten|52.243|5.379|NL|Utrecht|70
+Kaisersesch|50.231|7.139|DE|Rheinland-Pfalz|70
+Adenau|50.382|6.933|DE|Rheinland-Pfalz|70
+Veen|51.778|5.108|NL|North Brabant|70
+Andelst|51.908|5.729|NL|Gelderland|70
+Oostendorp|52.447|5.854|NL|Gelderland|69
+Zetten|51.928|5.714|NL|Gelderland|69
+Beesd|51.888|5.192|NL|Gelderland|69
+Stoumont|50.407|5.808|BE|Wallonia|69
+Raam|51.660|5.636|NL|North Brabant|69
+Driel|51.959|5.814|NL|Gelderland|69
+Wellin|50.081|5.114|BE|Wallonia|69
+Gremberghoven|50.905|7.055|DE|North Rhine-Westphalia|69
+Barvaux|50.348|5.491|BE|Wallonia|69
+Érezée|50.293|5.558|BE|Wallonia|69
+Schulen|50.960|5.190|BE|Flanders|69
+Zelem|50.977|5.107|BE|Flanders|69
+Waubach|50.918|6.050|NL|Limburg|69
+Glain|50.648|5.544|BE|Wallonia|69
+Nijkerkerveen|52.195|5.467|NL|Gelderland|69
+Rotheux-Rimière|50.534|5.481|BE|Wallonia|69
+Lith|51.806|5.439|NL|North Brabant|69
+Hout-Blerick|51.358|6.131|NL|Limburg|69
+Lincent|50.712|5.037|BE|Wallonia|69
+Almere Duin|52.342|5.141|NL|Flevoland|69
+La Reid|50.489|5.791|BE|Wallonia|69
+Bertogne|50.084|5.667|BE|Wallonia|69
+Ettringen|50.350|7.217|DE|Rheinland-Pfalz|69
+Kaalheide|50.865|6.036|NL|Limburg|69
+Leest|51.610|5.543|NL|North Brabant|69
+Couthuin|50.532|5.123|BE|Wallonia|69
+Grote-Brogel|51.153|5.506|BE|Flanders|69
+Diessen|51.476|5.175|NL|North Brabant|69
+Montfort|51.126|5.949|NL|Limburg|69
+Aye|50.225|5.301|BE|Wallonia|69
+Elspeet|52.292|5.789|NL|Gelderland|69
+Sint Odiliënberg|51.143|6.000|NL|Limburg|69
+Neu-Moresnet|50.716|6.021|BE|Wallonia|69
+Burdinne|50.585|5.077|BE|Wallonia|69
+Niederzissen|50.459|7.218|DE|Rheinland-Pfalz|69
+Bassenheim|50.358|7.460|DE|Rheinland-Pfalz|69
+Mariaveen|51.838|7.091|DE|North Rhine-Westphalia|69
+Voldijn|51.401|5.472|NL|North Brabant|69
+Kottenheim|50.350|7.250|DE|Rheinland-Pfalz|69
+Berloz|50.698|5.212|BE|Wallonia|69
+Siersdorf|50.898|6.227|DE|North Rhine-Westphalia|69
+Cothen|51.997|5.308|NL|Utrecht|69
+Beusichem|51.950|5.292|NL|Gelderland|69
+Giesbeek|51.993|6.067|NL|Gelderland|69
+Hergenrath|50.709|6.031|BE|Wallonia|69
+Middelbeers|51.467|5.250|NL|North Brabant|69
+Mook|51.752|5.882|NL|Limburg|69
+Donceel|50.648|5.320|BE|Wallonia|69
+Pech|50.653|7.112|DE|North Rhine-Westphalia|69
+Brustem|50.805|5.223|BE|Flanders|69
+Geer|50.670|5.174|BE|Wallonia|69
+Bittermark|51.445|7.463|DE|North Rhine-Westphalia|69
+Brohl-Lützing|50.483|7.329|DE|Rheinland-Pfalz|68
+Achterveld|52.136|5.497|NL|Utrecht|68
+Vlijtingen|50.832|5.584|BE|Flanders|68
+Henri-Chapelle|50.677|5.930|BE|Wallonia|68
+Glons|50.753|5.546|BE|Wallonia|68
+Gellik|50.885|5.610|BE|Flanders|68
+Erpel|50.583|7.233|DE|Rheinland-Pfalz|68
+Robertville|50.454|6.122|BE|Wallonia|68
+Arsbeck|51.143|6.212|DE|North Rhine-Westphalia|68
+Klein Reken|51.787|7.044|DE|North Rhine-Westphalia|68
+Elen|51.066|5.751|BE|Flanders|68
+Hermalle-sous-Argenteau|50.712|5.678|BE|Wallonia|68
+Ulestraten|50.906|5.782|NL|Limburg|68
+Crisnée|50.717|5.398|BE|Wallonia|68
+Sint-Michielsgestel|51.642|5.353|NL|North Brabant|68
+Velm|50.779|5.131|BE|Flanders|68
+Limbricht|51.012|5.838|NL|Limburg|68
+Westrich|51.518|7.353|DE|North Rhine-Westphalia|68
+Budingen|50.865|5.098|BE|Flanders|68
+Meldert|51.000|5.142|BE|Flanders|68
+Brakel|51.818|5.090|NL|Gelderland|68
+Dessel|51.239|5.114|BE|Flanders|68
+Beekbergen|52.160|5.964|NL|Gelderland|68
+Landenne|50.515|5.067|BE|Wallonia|68
+Opitter|51.117|5.647|BE|Flanders|68
+Wekerom|52.112|5.714|NL|Gelderland|68
+Niel-bij-As|51.019|5.605|BE|Flanders|68
+Polleur|50.539|5.881|BE|Wallonia|68
+Andel|51.783|5.058|NL|North Brabant|68
+Trois-Ponts|50.371|5.871|BE|Wallonia|68
+Lens-sur-Geer|50.722|5.351|BE|Wallonia|68
+Riethoven|51.354|5.388|NL|North Brabant|68
+Tenneville|50.095|5.529|BE|Wallonia|68
+Plainevaux|50.546|5.523|BE|Wallonia|68
+Milmort|50.690|5.593|BE|Wallonia|68
+Ospel|51.297|5.785|NL|Limburg|68
+Bredeweg|51.760|5.942|NL|Gelderland|68
+Well|51.550|6.089|NL|Limburg|68
+Geyen|50.983|6.785|DE|North Rhine-Westphalia|68
+Webbekom|50.974|5.040|BE|Flanders|68
+Dieblich|50.314|7.472|DE|Rheinland-Pfalz|68
+Crombach|50.260|6.067|BE|Wallonia|68
+Neerbeek|50.950|5.815|NL|Limburg|68
+Ouffet|50.439|5.466|BE|Wallonia|68
+Wasseiges|50.622|5.005|BE|Wallonia|68
+Luyksgestel|51.289|5.324|NL|North Brabant|68
+Queue-du-Bois|50.638|5.680|BE|Wallonia|68
+Clermont|50.659|5.885|BE|Wallonia|68
+Berkum|50.623|7.134|DE|North Rhine-Westphalia|68
+Born|51.032|5.810|NL|Limburg|68
+Tolkamer|51.855|6.103|NL|Gelderland|68
+Ayeneux|50.608|5.716|BE|Wallonia|68
+Simpelveld|50.834|5.982|NL|Limburg|68
+Sint-Joris|50.871|5.272|BE|Flanders|68
+Heksenberg|50.921|5.974|NL|Limburg|68
+Liessel|51.413|5.821|NL|North Brabant|68
+Wichlinghofen|51.453|7.491|DE|North Rhine-Westphalia|68
+Gronsveld|50.811|5.731|NL|Limburg|68
+Het Oostrik|52.250|6.217|NL|Overijssel|68
+Otterlo|52.100|5.772|NL|Gelderland|68
+Oostrum|51.529|6.017|NL|Limburg|68
+Haaften|51.816|5.211|NL|Gelderland|67
+Herpen|51.772|5.642|NL|North Brabant|67
+Grevenbicht|51.038|5.775|NL|Limburg|67
+Fexhe-Slins|50.720|5.570|BE|Wallonia|67
+Tellin|50.080|5.216|BE|Wallonia|67
+Terkoest|50.898|5.276|BE|Flanders|67
+Thommen|50.219|6.074|BE|Wallonia|67
+Vezin|50.496|5.009|BE|Wallonia|67
+Oosterhout|51.880|5.826|NL|Gelderland|67
+Wanroij|51.657|5.818|NL|North Brabant|67
+Kaggevinne|50.980|5.019|BE|Flanders|67
+Treis-Karden|50.172|7.302|DE|Rheinland-Pfalz|67
+Beeck|51.134|6.306|DE|North Rhine-Westphalia|67
+Bahnhof Reken|51.804|7.044|DE|North Rhine-Westphalia|67
+Rendeux|50.234|5.504|BE|Wallonia|67
+Sainte-Ode|50.017|5.519|BE|Wallonia|67
+Schimmert|50.907|5.824|NL|Limburg|67
+Herwijnen|51.827|5.129|NL|Gelderland|67
+Ooyerhoek|52.128|6.223|NL|Gelderland|67
+Zeddam|51.903|6.260|NL|Gelderland|67
+Elden|51.958|5.882|NL|Gelderland|67
+Thorn|51.162|5.842|NL|Limburg|67
+Beek|51.155|5.603|BE|Flanders|67
+Angeren|51.916|5.958|NL|Gelderland|67
+Leunen|51.510|5.979|NL|Limburg|67
+Hoepertingen|50.812|5.284|BE|Flanders|67
+Eigenbilzen|50.875|5.576|BE|Flanders|67
+Boorsem|50.942|5.719|BE|Flanders|67
+Ysselsteyn|51.490|5.897|NL|Limburg|67
+Boven-Leeuwen|51.885|5.553|NL|Gelderland|67
+Hopel|50.892|6.050|NL|Limburg|67
+Tinlot|50.475|5.378|BE|Wallonia|67
+Vessem|51.421|5.289|NL|North Brabant|67
+Eerschot|51.568|5.474|NL|North Brabant|67
+Leignon|50.269|5.110|BE|Wallonia|67
+Gameren|51.801|5.204|NL|Gelderland|67
+Rossum|51.801|5.333|NL|Gelderland|67
+Saffig|50.383|7.417|DE|Rheinland-Pfalz|67
+Deurne|51.039|5.097|BE|Flanders|67
+Rummen|50.889|5.165|BE|Flanders|67
+Haps|51.689|5.861|NL|North Brabant|67
+Merum|51.173|5.960|NL|Limburg|67
+Vreren|50.752|5.496|BE|Flanders|67
+Nieuwkuijk|51.690|5.182|NL|North Brabant|67
+Melsbach|50.483|7.483|DE|Rheinland-Pfalz|67
+Loenen|52.117|6.019|NL|Gelderland|67
+Spalbeek|50.949|5.224|BE|Flanders|67
+Wintelre|51.444|5.340|NL|North Brabant|67
+Heure-le-Romain|50.732|5.633|BE|Wallonia|67
+Haarsteeg|51.712|5.199|NL|North Brabant|66
+Noville|50.064|5.761|BE|Wallonia|66
+Beesel|51.268|6.039|NL|Limburg|66
+Ooij|51.855|5.939|NL|Gelderland|66
+Pannerden|51.891|6.039|NL|Gelderland|66
+Gracht|50.852|6.028|NL|Limburg|66
+Beltheim|50.106|7.462|DE|Rheinland-Pfalz|66
+Doornenburg|51.890|6.000|NL|Gelderland|66
+Milsbeek|51.725|5.949|NL|Limburg|66
+Jemelle|50.163|5.267|BE|Wallonia|66
+Wessem|51.160|5.881|NL|Limburg|66
+Stokrooie|50.966|5.281|BE|Flanders|66
+Fraipont|50.565|5.722|BE|Wallonia|66
+Oud-Loosdrecht|52.207|5.081|NL|North Holland|66
+Kelberg|50.292|6.920|DE|Rheinland-Pfalz|66
+Harzé|50.441|5.667|BE|Wallonia|66
+Francorchamps|50.454|5.953|BE|Wallonia|66
+Linkhout|50.968|5.137|BE|Flanders|66
+Buchten|51.043|5.810|NL|Limburg|66
+Haanrade|50.880|6.074|NL|Limburg|66
+Monnickendam|52.458|5.037|NL|North Holland|66
+Hausen|50.542|7.407|DE|Rheinland-Pfalz|66
+Stepekolk|51.455|5.613|NL|North Brabant|66
+Oerle|51.423|5.372|NL|North Brabant|66
+Puth|50.954|5.874|NL|Limburg|66
+Werkhoven|52.025|5.244|NL|Utrecht|66
+Berg|51.004|5.771|NL|Limburg|66
+Halle-Booienhoven|50.805|5.112|BE|Flanders|66
+Houtain-Saint-Siméon|50.740|5.612|BE|Wallonia|66
+Elsenborn|50.458|6.219|BE|Wallonia|66
+Hauset|50.711|6.070|BE|Wallonia|66
+Thuine|52.498|7.490|DE|Lower Saxony|66
+Vliermaal|50.841|5.429|BE|Flanders|66
+Broekhem|50.871|5.821|NL|Limburg|66
+Hoeven|51.672|5.634|NL|North Brabant|66
+Wijlre|50.833|5.896|NL|Limburg|66
+Waldbreitbach|50.550|7.417|DE|Rheinland-Pfalz|66
+Groessen|51.932|6.026|NL|Gelderland|66
+Steenderen|52.064|6.188|NL|Gelderland|66
+Berg en Dal|51.822|5.917|NL|Gelderland|66
+Moresnet|50.721|5.990|BE|Wallonia|66
+Beringe|51.337|5.949|NL|Limburg|66
+Heisterbacherrott|50.696|7.234|DE|North Rhine-Westphalia|66
+Horion-Hozémont|50.626|5.388|BE|Wallonia|66
+Waanrode|50.916|5.005|BE|Flanders|66
+Kessenich|51.151|5.823|BE|Flanders|66
+Lonneker|52.251|6.911|NL|Overijssel|66
+Dernau|50.533|7.050|DE|Rheinland-Pfalz|66
+Wanssum|51.536|6.076|NL|Limburg|66
+Kempenich|50.420|7.117|DE|Rheinland-Pfalz|66
+Diepenheim|52.200|6.556|NL|Overijssel|66
+Obbicht|51.028|5.781|NL|Limburg|66
+Leutesdorf|50.450|7.383|DE|Rheinland-Pfalz|66
+Deil|51.884|5.243|NL|Gelderland|65
+Vuren|51.825|5.046|NL|Gelderland|65
+Uddel|52.259|5.781|NL|Gelderland|65
+Rijswijk|51.797|5.025|NL|North Brabant|65
+Villers-l'Évêque|50.705|5.440|BE|Wallonia|65
+Vlodrop|51.133|6.076|NL|Limburg|65
+Limerlé|50.158|5.924|BE|Wallonia|65
+Bellevaux-Ligneuville|50.389|6.011|BE|Wallonia|65
+Haalderen|51.888|5.929|NL|Gelderland|65
+Tricht|51.891|5.268|NL|Gelderland|65
+Marken|52.458|5.103|NL|North Holland|65
+Liers|50.694|5.565|BE|Wallonia|65
+Lünne|52.430|7.427|DE|Lower Saxony|65
+Den Ham|52.466|6.496|NL|Overijssel|65
+Poulseur|50.509|5.579|BE|Wallonia|65
+Esch|51.611|5.290|NL|North Brabant|65
+Blankenrath|50.039|7.302|DE|Rheinland-Pfalz|65
+Kleine-Brogel|51.173|5.451|BE|Flanders|65
+Jünkerath|50.344|6.581|DE|Rheinland-Pfalz|65
+Donk|50.939|5.137|BE|Flanders|65
+Wommersom|50.813|5.018|BE|Flanders|65
+Hoogeloon|51.398|5.268|NL|North Brabant|65
+Natoye|50.343|5.058|BE|Wallonia|65
+Attenhoven|50.766|5.093|BE|Flanders|65
+Klimmen|50.876|5.881|NL|Limburg|65
+Faulx-Les Tombes|50.427|5.021|BE|Wallonia|65
+Rouvreux|50.490|5.650|BE|Wallonia|65
+Val-Meer|50.787|5.596|BE|Flanders|65
+On|50.172|5.289|BE|Wallonia|65
+Beegden|51.189|5.919|NL|Limburg|65
+Walhorn|50.675|6.046|BE|Wallonia|65
+Warsage|50.735|5.769|BE|Wallonia|65
+Jüngersdorf|50.812|6.373|DE|North Rhine-Westphalia|65
+Amstenrade|50.939|5.924|NL|Limburg|65
+Waardenburg|51.833|5.257|NL|Gelderland|65
+Stoßdorf|50.782|7.251|DE|North Rhine-Westphalia|65
+Comblain-Fairon|50.446|5.545|BE|Wallonia|65
+Borgharen|50.877|5.688|NL|Limburg|65
+Deusen|51.544|7.429|DE|North Rhine-Westphalia|65
+Gerwen|51.490|5.563|NL|North Brabant|65
+Genderen|51.736|5.088|NL|North Brabant|65
+Laren|52.194|6.365|NL|Gelderland|65
+Muiderberg|52.326|5.121|NL|North Holland|65
+Xhendelesse|50.605|5.778|BE|Wallonia|65
+Leubsdorf|50.550|7.300|DE|Rheinland-Pfalz|65
+Merkelbeek|50.954|5.941|NL|Limburg|65
+Neerharen|50.910|5.680|BE|Flanders|65
+Overasselt|51.760|5.789|NL|Gelderland|65
+Altenahr|50.517|6.992|DE|Rheinland-Pfalz|65
+Hombourg|50.723|5.921|BE|Wallonia|65
+Langenoord|52.188|5.380|NL|Utrecht|65
+Kootwijkerbroek|52.151|5.669|NL|Gelderland|65
+Brabander|51.536|5.968|NL|Limburg|65
+Driemond|52.306|5.017|NL|North Holland|65
+Alphen|51.822|5.471|NL|Gelderland|64
+Bosch en Duin|52.117|5.242|NL|Utrecht|64
+Bas-Oha|50.527|5.192|BE|Wallonia|64
+Woolde|52.272|6.759|NL|Overijssel|64
+Bellaire|50.645|5.666|BE|Wallonia|64
+Sclayn|50.490|5.028|BE|Wallonia|64
+Xhendremael|50.705|5.480|BE|Wallonia|64
+Soerendonk|51.301|5.575|NL|North Brabant|64
+Valburg|51.912|5.790|NL|Gelderland|64
+Moha|50.548|5.186|BE|Wallonia|64
+Eben-Emael|50.794|5.667|BE|Wallonia|64
+Deest|51.890|5.667|NL|Gelderland|64
+Elshout|51.701|5.142|NL|North Brabant|64
+Wijshagen|51.105|5.558|BE|Flanders|64
+Grand-Hallet|50.695|5.036|BE|Wallonia|64
+Berbroek|50.950|5.209|BE|Flanders|64
+Xhoris|50.446|5.604|BE|Wallonia|64
+Giessen|51.790|5.031|NL|North Brabant|64
+Westerhoven|51.333|5.396|NL|North Brabant|64
+Kozen|50.875|5.240|BE|Flanders|64
+Othée|50.716|5.467|BE|Wallonia|64
+Vorstenbosch|51.653|5.550|NL|North Brabant|64
+Lixhe|50.754|5.680|BE|Wallonia|64
+Schönecken|50.159|6.468|DE|Rheinland-Pfalz|64
+Dolembreux|50.538|5.626|BE|Wallonia|64
+Herderen|50.807|5.574|BE|Flanders|64
+Rath-Anhoven|51.111|6.334|DE|North Rhine-Westphalia|64
+Ließem|50.648|7.159|DE|North Rhine-Westphalia|64
+Heijen|51.675|5.981|NL|Limburg|64
+Maaskantje|51.658|5.371|NL|North Brabant|64
+Nederwoud|52.101|5.571|NL|Gelderland|64
+Meerlo|51.513|6.085|NL|Limburg|64
+Millen|50.786|5.556|BE|Flanders|64
+Charneux|50.669|5.805|BE|Wallonia|64
+Stadtkyll|50.350|6.533|DE|Rheinland-Pfalz|64
+Leut|50.991|5.736|BE|Flanders|64
+Alverna|51.804|5.760|NL|Gelderland|64
+Leuth|51.839|5.992|NL|Gelderland|64
+Schoonrewoerd|51.921|5.117|NL|Utrecht|64
+Grandhan|50.329|5.410|BE|Wallonia|64
+Reuland|50.196|6.135|BE|Wallonia|64
+Rothem|50.877|5.739|NL|Limburg|64
+Ottersum|51.703|5.983|NL|Limburg|64
+Weibern|50.408|7.147|DE|Rheinland-Pfalz|64
+Vroenhoven|50.826|5.640|BE|Flanders|64
+Aalst|51.782|5.128|NL|Gelderland|64
+Dattenberg|50.554|7.294|DE|Rheinland-Pfalz|64
+Neerlinter|50.840|5.023|BE|Flanders|64
+Serinchamps|50.231|5.230|BE|Wallonia|64
+Groenekan|52.123|5.153|NL|Utrecht|64
+Hacheney|51.479|7.490|DE|North Rhine-Westphalia|64
+Bihain|50.239|5.808|BE|Wallonia|64
+Drieslinter|50.846|5.050|BE|Flanders|64
+Doornspijk|52.418|5.818|NL|Gelderland|64
+Richelle|50.714|5.696|BE|Wallonia|64
+Broeksittard|51.003|5.895|NL|Limburg|64
+Budschop|51.285|5.759|NL|Limburg|64
+Schinnen|50.943|5.889|NL|Limburg|64
+Neuerburg|50.001|6.948|DE|Rheinland-Pfalz|64
+Jeuk|50.735|5.210|BE|Flanders|64
+Koningsbosch|51.052|5.958|NL|Limburg|64
+Mechelen-Bovelingen|50.741|5.263|BE|Flanders|64
+Bell|50.383|7.233|DE|Rheinland-Pfalz|64
+Mertloch|50.269|7.308|DE|Rheinland-Pfalz|64
+Bullay|50.054|7.137|DE|Rheinland-Pfalz|64
+Berg|50.555|6.949|DE|Rheinland-Pfalz|64
+Bell|50.061|7.415|DE|Rheinland-Pfalz|64
+Haillot|50.442|5.154|BE|Wallonia|64
+Megen|51.822|5.563|NL|North Brabant|64
+Löf|50.233|7.433|DE|Rheinland-Pfalz|64
+Noville|50.660|5.382|BE|Wallonia|64
+Hengevelde|52.199|6.636|NL|Overijssel|64
+Ankeveen|52.265|5.099|NL|North Holland|64
+Voorst|52.170|6.142|NL|Gelderland|64
+Wolfheze|52.003|5.790|NL|Gelderland|64
+Assent|50.952|5.015|BE|Flanders|64
+Micheroux|50.625|5.718|BE|Wallonia|64
+Nederhemert|51.765|5.168|NL|Gelderland|63
+Reek|51.746|5.682|NL|North Brabant|63
+Hermalle-sous-Huy|50.559|5.364|BE|Wallonia|63
+Gillenfeld|50.128|6.904|DE|Rheinland-Pfalz|63
+Gemonde|51.618|5.357|NL|North Brabant|63
+Holthausen|51.566|7.440|DE|North Rhine-Westphalia|63
+Rozendaal|52.006|5.963|NL|Gelderland|63
+Gelinden|50.766|5.261|BE|Flanders|63
+Terschuur|52.165|5.517|NL|Gelderland|63
+Montenaken|50.721|5.129|BE|Flanders|63
+Epse|52.225|6.200|NL|Gelderland|63
+Etten|51.917|6.336|NL|Gelderland|63
+Houthem|50.873|5.793|NL|Limburg|63
+Lehmen|50.283|7.450|DE|Rheinland-Pfalz|63
+Wonck|50.767|5.636|BE|Wallonia|63
+Bierset|50.655|5.451|BE|Wallonia|63
+Chaineux|50.632|5.835|BE|Wallonia|63
+Middelrode|51.664|5.419|NL|North Brabant|63
+Ravenstein|51.797|5.650|NL|North Brabant|63
+Lutzerath|50.127|7.007|DE|Rheinland-Pfalz|63
+Thisnes|50.666|5.044|BE|Wallonia|63
+Duizel|51.368|5.297|NL|North Brabant|63
+Lierop|51.419|5.679|NL|North Brabant|63
+Tohogne|50.380|5.479|BE|Wallonia|63
+Niederbreitbach|50.531|7.421|DE|Rheinland-Pfalz|63
+Bilstain|50.622|5.921|BE|Wallonia|63
+Troisvierges|50.121|6.000|LU|Clervaux|63
+'s-Gravenvoeren|50.759|5.761|BE|Flanders|63
+Hagestein|51.981|5.122|NL|Utrecht|63
+Thür|50.357|7.277|DE|Rheinland-Pfalz|63
+Babberich|51.907|6.111|NL|Gelderland|63
+Austerlitz|52.080|5.315|NL|Utrecht|63
+Momalle|50.686|5.376|BE|Wallonia|63
+Bomal|50.376|5.524|BE|Wallonia|63
+Knegsel|51.399|5.346|NL|North Brabant|63
+Vierset-Barse|50.484|5.298|BE|Wallonia|63
+Grand-Rechain|50.608|5.811|BE|Wallonia|63
+Longvilly|50.026|5.838|BE|Wallonia|63
+Villers-le-Temple|50.509|5.371|BE|Wallonia|63
+Housse|50.678|5.691|BE|Wallonia|63
+Ophemert|51.845|5.388|NL|Gelderland|63
+Strée-lez-Huy|50.490|5.323|BE|Wallonia|63
+Ubachsberg|50.853|5.949|NL|Limburg|63
+Vinalmont|50.563|5.232|BE|Wallonia|63
+Heusden|51.384|5.764|NL|North Brabant|63
+Wilderen|50.815|5.142|BE|Flanders|63
+Soy|50.286|5.512|BE|Wallonia|63
+Houtain-l'Évêque|50.717|5.083|BE|Wallonia|63
+Kasbach-Ohlenberg|50.583|7.267|DE|Rheinland-Pfalz|63
+Afferden|51.880|5.635|NL|Gelderland|63
+Bredevoort|51.942|6.621|NL|Gelderland|63
+Lage Mierde|51.406|5.147|NL|North Brabant|63
+Nijnsel|51.551|5.483|NL|North Brabant|63
+Jehay|50.573|5.324|BE|Wallonia|63
+Magnée|50.600|5.688|BE|Wallonia|63
+Klotten|50.167|7.200|DE|Rheinland-Pfalz|63
+Oleye|50.714|5.281|BE|Wallonia|63
+Grote-Spouwen|50.833|5.554|BE|Flanders|63
+Langenboom|51.704|5.731|NL|North Brabant|63
+Milheeze|51.502|5.779|NL|North Brabant|63
+Nieuwland|51.902|5.014|NL|Utrecht|63
+Üxheim|50.350|6.750|DE|Rheinland-Pfalz|63
+Longchamps|50.053|5.690|BE|Wallonia|63
+`s-Graveland|52.238|5.122|NL|North Holland|63
+Odiliapeel|51.643|5.706|NL|North Brabant|63
+Syburg|51.425|7.489|DE|North Rhine-Westphalia|63
+Mehren|50.183|6.883|DE|Rheinland-Pfalz|63
+Husken|50.896|5.956|NL|Limburg|63
+Overberg|52.040|5.494|NL|Utrecht|63
+Mechelen|50.796|5.926|NL|Limburg|63
+Bergharen|51.851|5.669|NL|Gelderland|63
+Bruchem|51.787|5.236|NL|Gelderland|63
+Wijbosch|51.617|5.468|NL|North Brabant|63
+Wijnandsrade|50.906|5.883|NL|Limburg|63
+Düngenheim|50.261|7.165|DE|Rheinland-Pfalz|63
+Grashoek|51.361|5.943|NL|Limburg|63
+Rossum|52.352|6.922|NL|Overijssel|63
+Fosse|50.340|5.841|BE|Wallonia|63
+Rijkhoven|50.833|5.515|BE|Flanders|63
+Forrières|50.131|5.283|BE|Wallonia|63
+Maasbommel|51.822|5.536|NL|Gelderland|63
+Bonneville|50.473|5.039|BE|Wallonia|63
+Einighausen|51.002|5.828|NL|Limburg|63
+Rocherath|50.437|6.300|BE|Wallonia|63
+Bausendorf|50.017|7.000|DE|Rheinland-Pfalz|63
+Koninksem|50.765|5.439|BE|Flanders|63
+Houten|52.028|5.168|NL|Utrecht|63
+Mortier|50.684|5.743|BE|Wallonia|62
+t Loo|52.444|5.951|NL|Gelderland|62
+Grand-Halleux|50.326|5.907|BE|Wallonia|62
+Abcoven|51.528|5.083|NL|North Brabant|62
+Hollandsche Rading|52.175|5.178|NL|Utrecht|62
+Neerkant|51.368|5.867|NL|North Brabant|62
+Manderscheid|50.097|6.810|DE|Rheinland-Pfalz|62
+Vliermaalroot|50.865|5.426|BE|Flanders|62
+Garderen|52.231|5.714|NL|Gelderland|62
+Westeneng|52.127|5.715|NL|Gelderland|62
+Beek gem Montferland|51.907|6.188|NL|Gelderland|62
+Emst|52.316|5.974|NL|Gelderland|62
+Handel|51.580|5.710|NL|North Brabant|62
+Hooge Mierde|51.388|5.129|NL|North Brabant|62
+Sint Joost|51.117|5.899|NL|Limburg|62
+Awirs|50.600|5.406|BE|Wallonia|62
+Rieden|50.400|7.183|DE|Rheinland-Pfalz|62
+Rittersdorf|50.000|6.500|DE|Rheinland-Pfalz|62
+Recht|50.338|6.049|BE|Wallonia|62
+Slins|50.728|5.563|BE|Wallonia|62
+Heusden|51.734|5.139|NL|North Brabant|62
+Nieuw-Wehl|51.968|6.174|NL|Gelderland|62
+Birresborn|50.183|6.633|DE|Rheinland-Pfalz|62
+Daverdisse|50.022|5.118|BE|Wallonia|62
+Hognoul|50.682|5.454|BE|Wallonia|62
+Loosbroek|51.678|5.507|NL|North Brabant|62
+Vijlen|50.788|5.965|NL|Limburg|62
+Beltrum|52.067|6.564|NL|Gelderland|62
+Huis ter Heide|52.112|5.256|NL|Utrecht|62
+Steensel|51.377|5.353|NL|North Brabant|62
+Arzfeld|50.090|6.271|DE|Rheinland-Pfalz|62
+Beers|51.726|5.828|NL|North Brabant|62
+Brand|51.458|5.624|NL|North Brabant|62
+Koningslust|51.358|5.993|NL|Limburg|62
+Nieuwoord|52.467|6.550|NL|Overijssel|62
+Guttecoven|51.015|5.818|NL|Limburg|62
+Wijer|50.899|5.224|BE|Flanders|62
+Argenteau|50.702|5.684|BE|Wallonia|62
+Tongerlo|51.128|5.661|BE|Flanders|62
+Celles|50.654|5.247|BE|Wallonia|62
+Zuilichem|51.809|5.136|NL|Gelderland|62
+Waltwilder|50.866|5.544|BE|Flanders|62
+Mopertingen|50.861|5.576|BE|Flanders|62
+Ehlscheid|50.514|7.467|DE|Rheinland-Pfalz|62
+Oirlo|51.512|6.037|NL|Limburg|62
+Ahrbrück|50.482|6.988|DE|Rheinland-Pfalz|62
+Wellerlooi|51.534|6.136|NL|Limburg|62
+Neu-Pattern|50.889|6.277|DE|North Rhine-Westphalia|62
+Brachterbeek|51.147|5.904|NL|Limburg|62
+Dommelen|51.346|5.434|NL|North Brabant|62
+Lommersweiler|50.240|6.165|BE|Wallonia|62
+La Gleize|50.411|5.847|BE|Wallonia|62
+Bovigny|50.224|5.917|BE|Wallonia|62
+Wihogne|50.729|5.505|BE|Wallonia|62
+Bruttig-Fankel|50.133|7.233|DE|Rheinland-Pfalz|62
+Lens-Saint-Remy|50.651|5.132|BE|Wallonia|62
+Roclenge-sur-Geer|50.757|5.594|BE|Wallonia|62
+Flamierge|50.033|5.603|BE|Wallonia|62
+Mastershausen|50.067|7.350|DE|Rheinland-Pfalz|62
+Everdingen|51.965|5.156|NL|Utrecht|62
+Noiseux|50.300|5.375|BE|Wallonia|62
+Uikhoven|50.924|5.719|BE|Flanders|62
+Westbroek|52.150|5.125|NL|Utrecht|62
+Cerexhe-Heuseux|50.654|5.726|BE|Wallonia|62
+Heppenbach|50.363|6.218|BE|Wallonia|62
+Kanne|50.813|5.669|BE|Flanders|61
+Hegelsom|51.439|6.039|NL|Limburg|61
+Ellikom|51.128|5.524|BE|Flanders|61
+Bleialf|50.233|6.283|DE|Rheinland-Pfalz|61
+Barchon|50.669|5.700|BE|Wallonia|61
+Üdersdorf|50.150|6.800|DE|Rheinland-Pfalz|61
+America|51.437|5.979|NL|Limburg|61
+Melderslo|51.462|6.086|NL|Limburg|61
+Wassenach|50.433|7.283|DE|Rheinland-Pfalz|61
+Tavier|50.496|5.471|BE|Wallonia|61
+Holtum|51.047|5.822|NL|Limburg|61
+Kelpen-Oler|51.218|5.826|NL|Limburg|61
+Lonnig|50.310|7.405|DE|Rheinland-Pfalz|61
+Lottum|51.462|6.161|NL|Limburg|61
+Neerwinden|50.768|5.040|BE|Flanders|61
+Oberfell|50.260|7.445|DE|Rheinland-Pfalz|61
+Meyerode|50.328|6.188|BE|Wallonia|61
+Dommershausen|50.150|7.400|DE|Rheinland-Pfalz|61
+Mal|50.769|5.520|BE|Flanders|61
+Racour|50.739|5.028|BE|Wallonia|61
+Wehr|50.417|7.217|DE|Rheinland-Pfalz|61
+Boskamp|52.331|6.128|NL|Overijssel|61
+Manderfeld|50.331|6.339|BE|Wallonia|61
+Champlon|50.108|5.502|BE|Wallonia|61
+Nörtershausen|50.217|7.483|DE|Rheinland-Pfalz|61
+Büchel|50.173|7.083|DE|Rheinland-Pfalz|61
+Faid|50.145|7.120|DE|Rheinland-Pfalz|61
+Ciplet|50.618|5.090|BE|Wallonia|61
+Doenrade|50.968|5.907|NL|Limburg|61
+Kehrig|50.283|7.217|DE|Rheinland-Pfalz|61
+Badem|50.000|6.617|DE|Rheinland-Pfalz|61
+Opijnen|51.829|5.299|NL|Gelderland|61
+Messingen|52.466|7.459|DE|Lower Saxony|61
+Angerlo|51.996|6.135|NL|Gelderland|61
+Lissendorf|50.317|6.600|DE|Rheinland-Pfalz|61
+Mariahout|51.541|5.572|NL|North Brabant|61
+Schaltin|50.360|5.125|BE|Wallonia|61
+Membach|50.619|5.995|BE|Wallonia|61
+Waxweiler|50.093|6.363|DE|Rheinland-Pfalz|61
+Reil|50.017|7.117|DE|Rheinland-Pfalz|61
+Roosteren|51.083|5.818|NL|Limburg|61
+Merselo|51.530|5.928|NL|Limburg|61
+Terwolde|52.283|6.100|NL|Gelderland|61
+Dalheim|51.150|6.183|DE|North Rhine-Westphalia|61
+Kinderbeuern|50.009|7.024|DE|Rheinland-Pfalz|61
+Saint-Remy|50.696|5.704|BE|Wallonia|61
+Egchel|51.314|5.972|NL|Limburg|61
+Oostelbeers|51.472|5.269|NL|North Brabant|61
+Vlierden|51.445|5.758|NL|North Brabant|61
+Achêne|50.267|5.045|BE|Wallonia|61
+Blitterswijck|51.531|6.108|NL|Limburg|61
+Puiflijk|51.878|5.590|NL|Gelderland|61
+Clervaux|50.055|6.031|LU|Clervaux|61
+Ockenfels|50.576|7.275|DE|Rheinland-Pfalz|61
+Saeffelen|51.037|5.960|DE|North Rhine-Westphalia|61
+Haltinne|50.451|5.077|BE|Wallonia|61
+Horssen|51.856|5.610|NL|Gelderland|61
+Wolken|50.333|7.467|DE|Rheinland-Pfalz|61
+Niederfell|50.283|7.467|DE|Rheinland-Pfalz|61
+Reppel|51.154|5.562|BE|Flanders|61
+Suddendorf|52.301|7.226|DE|Lower Saxony|61
+Corswarem|50.711|5.214|BE|Wallonia|61
+Marenne|50.241|5.415|BE|Wallonia|61
+Buissonville|50.217|5.200|BE|Wallonia|61
+Voroux-lez-Liers|50.687|5.554|BE|Wallonia|61
+Ingen|51.959|5.485|NL|Gelderland|61
+Ediger-Eller|50.117|7.150|DE|Rheinland-Pfalz|61
+Clermont-sous-Huy|50.570|5.392|BE|Wallonia|61
+Leeuwen|51.210|5.999|NL|Limburg|61
+Laubach|50.233|7.073|DE|Rheinland-Pfalz|61
+Ooy|51.919|6.058|NL|Gelderland|61
+Oberzissen|50.450|7.200|DE|Rheinland-Pfalz|61
+Eerde|51.604|5.499|NL|North Brabant|61
+Hodeige|50.696|5.342|BE|Wallonia|61
+Han-sur-Lesse|50.127|5.186|BE|Wallonia|61
+Briedel|50.017|7.150|DE|Rheinland-Pfalz|60
+Niederdürenbach|50.450|7.183|DE|Rheinland-Pfalz|60
+Breugel|51.517|5.511|NL|North Brabant|60
+Lomm|51.448|6.172|NL|Limburg|60
+Pondrôme|50.099|5.010|BE|Wallonia|60
+Waret-l'Évêque|50.557|5.068|BE|Wallonia|60
+Zijtaart|51.593|5.542|NL|North Brabant|60
+Kyllburg|50.039|6.595|DE|Rheinland-Pfalz|60
+Bonefeld|50.524|7.489|DE|Rheinland-Pfalz|60
+Doesburg|52.067|5.617|NL|Gelderland|60
+Keijenborg|52.029|6.294|NL|Gelderland|60
+Venhorst|51.608|5.737|NL|North Brabant|60
+Guigoven|50.839|5.400|BE|Flanders|60
+Mielen-boven-Aalst|50.756|5.214|BE|Flanders|60
+Pelm|50.232|6.691|DE|Rheinland-Pfalz|60
+Weinsheim|50.233|6.467|DE|Rheinland-Pfalz|60
+Haarle|52.359|6.381|NL|Overijssel|60
+Kedichem|51.860|5.050|NL|Utrecht|60
+Kirchwald|50.367|7.150|DE|Rheinland-Pfalz|60
+Heide|51.068|5.872|NL|Limburg|60
+Tienray|51.495|6.093|NL|Limburg|60
+Odeur|50.706|5.416|BE|Wallonia|60
+Masburg|50.241|7.117|DE|Rheinland-Pfalz|60
+Haneffe|50.638|5.320|BE|Wallonia|60
+Kleine-Spouwen|50.838|5.550|BE|Flanders|60
+Großlittgen|50.028|6.799|DE|Rheinland-Pfalz|60
+Lauw|50.739|5.413|BE|Flanders|60
+Doonheide|51.567|5.694|NL|North Brabant|60
+Vaux-et-Borset|50.614|5.234|BE|Wallonia|60
+Wavreille|50.121|5.248|BE|Wallonia|60
+Hattemerbroek|52.474|6.022|NL|Gelderland|60
+Gleixhe|50.614|5.390|BE|Wallonia|60
+Magele|52.469|6.521|NL|Overijssel|60
+Arville|50.032|5.317|BE|Wallonia|60
+Ellecom|52.032|6.088|NL|Gelderland|60
+Sibbe|50.844|5.826|NL|Limburg|60
+Niedermerz|50.882|6.267|DE|North Rhine-Westphalia|60
+Heumen|51.765|5.844|NL|Gelderland|60
+Hummelo|52.004|6.233|NL|Gelderland|60
+Zoelen|51.913|5.403|NL|Gelderland|60
+Banholt|50.790|5.808|NL|Limburg|60
+Heerewaarden|51.818|5.393|NL|Gelderland|60
+Beemte-Broekland|52.256|5.990|NL|Gelderland|60
+Hei- en Boeicop|51.945|5.082|NL|Utrecht|60
+Mariaheide|51.633|5.581|NL|North Brabant|60
+Wemb|51.586|6.176|DE|North Rhine-Westphalia|60
+Freialdenhoven|50.928|6.249|DE|North Rhine-Westphalia|60
+Oosterwolde|52.466|5.892|NL|Gelderland|60
+Sint Hubert|51.678|5.808|NL|North Brabant|60
+Loksbergen|50.934|5.070|BE|Flanders|60
+Harre|50.352|5.657|BE|Wallonia|60
+Casteren|51.397|5.237|NL|North Brabant|60
+De Steeg|52.020|6.061|NL|Gelderland|60
+Riksingen|50.804|5.463|BE|Flanders|60
+Emptinne|50.325|5.121|BE|Wallonia|60
+Huccorgne|50.567|5.160|BE|Wallonia|60
+Heyd|50.346|5.563|BE|Wallonia|60
+Kilder|51.938|6.232|NL|Gelderland|60
+Zenderen|52.324|6.724|NL|Overijssel|60
+Les Waleffes|50.637|5.224|BE|Wallonia|60
+Oploo|51.608|5.874|NL|North Brabant|60
+Vaesrade|50.929|5.907|NL|Limburg|60
+Neroth|50.196|6.747|DE|Rheinland-Pfalz|60
+Breinigerberg|50.737|6.239|DE|North Rhine-Westphalia|60
+Mayschoß|50.521|7.017|DE|Rheinland-Pfalz|60
+Bornerbroek|52.309|6.654|NL|Overijssel|60
+Heihoek|51.759|5.498|NL|North Brabant|60
+Wilp|52.218|6.150|NL|Gelderland|60
+Drempt|52.008|6.175|NL|Gelderland|60
+Goé|50.607|5.956|BE|Wallonia|60
+Pronsfeld|50.160|6.340|DE|Rheinland-Pfalz|60
+Bad Bertrich|50.067|7.033|DE|Rheinland-Pfalz|60
+Eck en Wiel|51.969|5.457|NL|Gelderland|60
+Coutisse|50.463|5.117|BE|Wallonia|60
+Bolland|50.662|5.760|BE|Wallonia|60
+Kurtscheid|50.533|7.467|DE|Rheinland-Pfalz|60
+Mont|50.153|5.769|BE|Wallonia|60
+Pünderich|50.040|7.128|DE|Rheinland-Pfalz|60
+Laag-Soeren|52.081|6.078|NL|Gelderland|60
+Vianen|51.718|5.857|NL|North Brabant|60
+Sankt Johann|50.350|7.200|DE|Rheinland-Pfalz|60
+Waldorf|50.483|7.233|DE|Rheinland-Pfalz|60
+Meeswijk|51.000|5.748|BE|Flanders|60
+Buch|50.076|7.389|DE|Rheinland-Pfalz|59
+Tavigny|50.108|5.838|BE|Wallonia|59
+Ortho|50.125|5.613|BE|Wallonia|59
+Ordingen|50.813|5.235|BE|Flanders|59
+Roßbach|50.575|7.416|DE|Rheinland-Pfalz|59
+Boukoul|51.216|6.047|NL|Limburg|59
+Mheer|50.780|5.792|NL|Limburg|59
+Randwijk|51.953|5.708|NL|Gelderland|59
+Sint Geertruid|50.797|5.765|NL|Limburg|59
+Waasmont|50.728|5.063|BE|Flanders|59
+Faymonville|50.403|6.141|BE|Wallonia|59
+Itteren|50.898|5.703|NL|Limburg|59
+Bruchhausen|50.600|7.250|DE|Rheinland-Pfalz|59
+Amberloup|50.031|5.530|BE|Wallonia|59
+Martenslinde|50.856|5.534|BE|Flanders|59
+Pousset|50.695|5.304|BE|Wallonia|59
+Rurberg|50.614|6.382|DE|North Rhine-Westphalia|59
+Dreis-Brück|50.266|6.792|DE|Rheinland-Pfalz|59
+Orsmaal-Gussenhoven|50.805|5.062|BE|Flanders|59
+Alf|50.055|7.123|DE|Rheinland-Pfalz|59
+Piringen|50.787|5.418|BE|Flanders|59
+Neidenbach|50.100|6.550|DE|Rheinland-Pfalz|59
+Voroux-Goreux|50.655|5.429|BE|Wallonia|59
+Gomzé-Andoumont|50.544|5.689|BE|Wallonia|59
+Rosmeer|50.846|5.578|BE|Flanders|59
+Nerem|50.763|5.510|BE|Flanders|59
+Sint-Huibrechts-Hern|50.830|5.449|BE|Flanders|59
+Nessonvaux|50.573|5.736|BE|Wallonia|59
+Tillet|50.010|5.529|BE|Wallonia|59
+Barchem|52.124|6.443|NL|Gelderland|59
+Ransdaal|50.865|5.892|NL|Limburg|59
+Sterksel|51.352|5.611|NL|North Brabant|59
+De Mortel|51.540|5.708|NL|North Brabant|59
+Welling|50.333|7.317|DE|Rheinland-Pfalz|59
+Wershofen|50.445|6.813|DE|Rheinland-Pfalz|59
+Boekend|51.378|6.117|NL|Limburg|59
+Marneffe|50.581|5.145|BE|Wallonia|59
+Neufchâteau|50.720|5.776|BE|Wallonia|59
+Viemme|50.647|5.272|BE|Wallonia|59
+Vilt|50.858|5.808|NL|Limburg|59
+Moxhe|50.631|5.083|BE|Wallonia|59
+Warnant-Dreye|50.595|5.226|BE|Wallonia|59
+Dalem|51.828|5.010|NL|South Holland|59
+Hoge Enk|52.430|5.842|NL|Gelderland|59
+Varik|51.823|5.371|NL|Gelderland|59
+Bengel|50.017|7.067|DE|Rheinland-Pfalz|59
+Boirs|50.753|5.579|BE|Wallonia|59
+Daleiden|50.070|6.184|DE|Rheinland-Pfalz|59
+Eethen|51.733|5.053|NL|North Brabant|59
+Neerglabbeek|51.089|5.616|BE|Flanders|59
+Berneau|50.742|5.731|BE|Wallonia|59
+Bois-et-Borsu|50.398|5.336|BE|Wallonia|59
+Ulbeek|50.844|5.305|BE|Flanders|59
+Bommershoven|50.787|5.379|BE|Flanders|59
+Schalkenbach|50.495|7.146|DE|Rheinland-Pfalz|59
+Rüber|50.300|7.367|DE|Rheinland-Pfalz|59
+Walsdorf|50.283|6.717|DE|Rheinland-Pfalz|59
+De Rips|51.550|5.810|NL|North Brabant|59
+Broekhuizenvorst|51.495|6.157|NL|Limburg|59
+Meers|50.962|5.742|NL|Limburg|59
+Swolgen|51.492|6.118|NL|Limburg|59
+Soiron|50.591|5.791|BE|Wallonia|59
+Henis|50.800|5.470|BE|Flanders|59
+Darscheid|50.217|6.883|DE|Rheinland-Pfalz|59
+Monreal|50.300|7.167|DE|Rheinland-Pfalz|59
+Spontin|50.323|5.006|BE|Wallonia|59
+Ombret|50.542|5.334|BE|Wallonia|59
+Évegnée-Tignée|50.646|5.708|BE|Wallonia|59
+Hommert|50.936|5.915|NL|Limburg|59
+Schleiden|50.884|6.243|DE|North Rhine-Westphalia|59
+Ellenz-Poltersdorf|50.100|7.233|DE|Rheinland-Pfalz|59
+Daarle|52.434|6.537|NL|Overijssel|59
+Lennisheuvel|51.572|5.315|NL|North Brabant|59
+Meeffe|50.607|5.018|BE|Wallonia|59
+Werbomont|50.381|5.682|BE|Wallonia|59
+Gimmersdorf|50.636|7.145|DE|North Rhine-Westphalia|59
+Bremm|50.100|7.117|DE|Rheinland-Pfalz|59
+Landkern|50.194|7.154|DE|Rheinland-Pfalz|59
+Rutten|50.748|5.444|BE|Flanders|59
+Alflen|50.177|7.040|DE|Rheinland-Pfalz|59
+Moelingen|50.757|5.714|BE|Flanders|59
+Oosterhuizen|52.157|6.006|NL|Gelderland|59
+Membruggen|50.815|5.534|BE|Flanders|59
+Schuld|50.448|6.889|DE|Rheinland-Pfalz|59
+Eemdijk|52.255|5.331|NL|Utrecht|59
+Sterrenberg|52.114|5.282|NL|Utrecht|59
+Thon|50.464|5.014|BE|Wallonia|59
+Hingeon|50.526|5.007|BE|Wallonia|59
+Beho|50.221|5.998|BE|Wallonia|59
+Weris|50.326|5.531|BE|Wallonia|59
+Niel-bij-Sint-Truiden|50.740|5.142|BE|Flanders|59
+Loil|51.953|6.142|NL|Gelderland|58
+Nieuw-Dijk|51.933|6.156|NL|Gelderland|58
+Achet|50.333|5.175|BE|Wallonia|58
+Bombaye|50.730|5.745|BE|Wallonia|58
+Crehen|50.660|5.063|BE|Wallonia|58
+Kaifenheim|50.245|7.226|DE|Rheinland-Pfalz|58
+Spijk|51.769|5.121|NL|North Brabant|58
+Burgen|50.211|7.390|DE|Rheinland-Pfalz|58
+Limont|50.662|5.312|BE|Wallonia|58
+Winterspelt|50.217|6.217|DE|Rheinland-Pfalz|58
+Bingelrade|50.976|5.927|NL|Limburg|58
+Broekdijk|52.450|5.933|NL|Gelderland|58
+Esbeek|51.462|5.138|NL|North Brabant|58
+Yernée-Fraineux|50.528|5.382|BE|Wallonia|58
+Hontheim|50.067|6.983|DE|Rheinland-Pfalz|58
+Velddriel|51.769|5.303|NL|Gelderland|58
+Sint-Martens-Voeren|50.748|5.813|BE|Flanders|58
+Romershoven|50.856|5.460|BE|Flanders|58
+Maarsbergen|52.058|5.406|NL|Utrecht|58
+Fize-Fontaine|50.585|5.284|BE|Wallonia|58
+Hollogne-sur-Geer|50.677|5.204|BE|Wallonia|58
+Hosingen|50.012|6.091|LU|Clervaux|58
+Haut-Fays|50.002|5.018|BE|Wallonia|58
+Peterswald-Löffelscheid|50.000|7.300|DE|Rheinland-Pfalz|58
+Zijderveld|51.942|5.140|NL|Utrecht|58
+Villers-aux-Tours|50.498|5.516|BE|Wallonia|58
+Jeneffe|50.651|5.354|BE|Wallonia|58
+Appeltern|51.833|5.586|NL|Gelderland|58
+Hees|50.847|5.608|BE|Flanders|58
+Bande|50.166|5.414|BE|Wallonia|58
+Villers-le-Peuplier|50.657|5.094|BE|Wallonia|58
+Avin|50.622|5.069|BE|Wallonia|58
+Boskant|51.550|5.421|NL|North Brabant|58
+Hellouw|51.827|5.176|NL|Gelderland|58
+IJzendoorn|51.906|5.533|NL|Gelderland|58
+Wilbertoord|51.656|5.775|NL|North Brabant|58
+Kretz|50.396|7.362|DE|Rheinland-Pfalz|58
+Spessart|50.440|7.110|DE|Rheinland-Pfalz|58
+Amsteleind|51.767|5.500|NL|North Brabant|58
+Latinne|50.625|5.165|BE|Wallonia|58
+Oteppe|50.580|5.126|BE|Wallonia|58
+Castenray|51.489|6.035|NL|Limburg|58
+Hulshorst|52.363|5.732|NL|Gelderland|58
+Spankeren|52.058|6.112|NL|Gelderland|58
+Zwartebroek|52.179|5.504|NL|Gelderland|58
+Leveroy|51.249|5.847|NL|Limburg|58
+Hargimont|50.188|5.308|BE|Wallonia|58
+Horstermeer|52.250|5.078|NL|North Holland|58
+Netersel|51.403|5.208|NL|North Brabant|58
+Saint-Séverin-en Condroz|50.530|5.411|BE|Wallonia|58
+Chevron|50.381|5.731|BE|Wallonia|58
+Dormaal|50.808|5.099|BE|Flanders|58
+Langenfeld|50.377|7.092|DE|Rheinland-Pfalz|58
+Elsen|52.270|6.539|NL|Overijssel|58
+Marnach|50.053|6.062|LU|Clervaux|58
+Schoenberg|50.289|6.265|BE|Wallonia|58
+Illerich|50.200|7.183|DE|Rheinland-Pfalz|58
+Rijkel|50.809|5.261|BE|Flanders|58
+Hogne|50.249|5.280|BE|Wallonia|58
+Asenray|51.193|6.049|NL|Limburg|58
+Evelette|50.412|5.174|BE|Wallonia|58
+Harfsen|52.208|6.297|NL|Gelderland|58
+Grandmenil|50.292|5.659|BE|Wallonia|58
+Wallersheim|50.203|6.528|DE|Rheinland-Pfalz|58
+Achterberg|51.972|5.588|NL|Utrecht|58
+Biest-Houtakker|51.507|5.158|NL|North Brabant|58
+De Horst|51.774|5.968|NL|Gelderland|58
+Elshof|52.393|6.200|NL|Overijssel|58
+Herwen|51.885|6.100|NL|Gelderland|58
+Heveadorp|51.975|5.813|NL|Gelderland|58
+Noorbeek|50.769|5.813|NL|Limburg|58
+Aalst|50.782|5.209|BE|Flanders|57
+Jesseren|50.806|5.392|BE|Flanders|57
+Cherain|50.180|5.865|BE|Wallonia|57
+Dieteren|51.077|5.846|NL|Limburg|57
+Lithoijen|51.803|5.464|NL|North Brabant|57
+Oijen|51.824|5.503|NL|North Brabant|57
+Schwieringhausen|51.585|7.399|DE|North Rhine-Westphalia|57
+Avernas-le-Bauduin|50.694|5.079|BE|Wallonia|57
+Fraiture|50.479|5.419|BE|Wallonia|57
+Houverath|50.542|6.902|DE|North Rhine-Westphalia|57
+Bettenfeld|50.085|6.760|DE|Rheinland-Pfalz|57
+Tilligte|52.406|6.951|NL|Overijssel|57
+Ville-en-Hesbaye|50.617|5.117|BE|Wallonia|57
+Greimersburg|50.183|7.133|DE|Rheinland-Pfalz|57
+Hülsten|51.810|7.092|DE|North Rhine-Westphalia|57
+Wanne|50.355|5.921|BE|Wallonia|57
+Lantin|50.689|5.525|BE|Wallonia|57
+Chapon-Seraing|50.609|5.269|BE|Wallonia|57
+Nijswiller|50.809|5.957|NL|Limburg|57
+Bentelo|52.224|6.683|NL|Overijssel|57
+Hoenderloo|52.117|5.879|NL|Gelderland|57
+Papenhoven|51.043|5.776|NL|Limburg|57
+Stokkum|52.212|6.507|NL|Overijssel|57
+Termaar|50.868|5.889|NL|Limburg|57
+Sovet|50.297|5.035|BE|Wallonia|57
+Pessoux|50.283|5.170|BE|Wallonia|57
+Eeneind|51.452|5.547|NL|North Brabant|57
+Epen|50.776|5.911|NL|Limburg|57
+Halle|51.989|6.429|NL|Gelderland|57
+Keldonk|51.587|5.585|NL|North Brabant|57
+Schin op Geul|50.854|5.869|NL|Limburg|57
+Miécret|50.367|5.252|BE|Wallonia|57
+Samern|52.298|7.257|DE|Lower Saxony|57
+Celles|50.230|5.007|BE|Wallonia|57
+Gastel|51.286|5.556|NL|North Brabant|57
+Herpt|51.729|5.156|NL|North Brabant|57
+Lemiers|50.786|5.993|NL|Limburg|57
+Wadenoijen|51.874|5.372|NL|Gelderland|57
+Oberbettingen|50.283|6.633|DE|Rheinland-Pfalz|57
+Uersfeld|50.250|7.017|DE|Rheinland-Pfalz|57
+Ambresin|50.631|5.031|BE|Wallonia|57
+Lavacherie|50.053|5.511|BE|Wallonia|57
+Biezenmortel|51.624|5.178|NL|North Brabant|57
+Kalenborn|50.615|7.315|DE|Rheinland-Pfalz|57
+Kesseleik|51.278|6.024|NL|Limburg|57
+Overrepen|50.808|5.431|BE|Flanders|57
+Rosoux-Crenwick|50.707|5.190|BE|Wallonia|57
+Kerniel|50.817|5.365|BE|Flanders|57
+Lamine|50.689|5.335|BE|Wallonia|57
+Meeuwen|51.729|5.011|NL|North Brabant|57
+Almen|52.158|6.300|NL|Gelderland|57
+Stokkum|51.877|6.221|NL|Gelderland|57
+Tungelroy|51.212|5.731|NL|Limburg|57
+Warken|52.140|6.268|NL|Gelderland|57
+Gevenich|50.150|7.083|DE|Rheinland-Pfalz|57
+Empe|52.156|6.139|NL|Gelderland|57
+Samrée|50.210|5.634|BE|Wallonia|57
+Meterik|51.455|6.025|NL|Limburg|57
+Moselkern|50.194|7.371|DE|Rheinland-Pfalz|57
+Oost|50.796|5.710|NL|Limburg|57
+Driesch|50.676|6.111|BE|Wallonia|57
+Müllenbach|50.221|7.066|DE|Rheinland-Pfalz|57
+Cromvoirt|51.661|5.232|NL|North Brabant|57
+Hernen|51.834|5.681|NL|Gelderland|57
+Jabeek|50.981|5.942|NL|Limburg|57
+Nederwetten|51.492|5.524|NL|North Brabant|57
+Weerselo|52.352|6.857|NL|Overijssel|57
+Werm|50.833|5.480|BE|Flanders|57
+Minderlittgen|50.017|6.833|DE|Rheinland-Pfalz|57
+Mörsdorf|50.100|7.350|DE|Rheinland-Pfalz|57
+Brodenbach|50.233|7.450|DE|Rheinland-Pfalz|57
+Ocquier|50.396|5.394|BE|Wallonia|57
+Fronville|50.294|5.422|BE|Wallonia|57
+Roy|50.185|5.406|BE|Wallonia|57
+Heilig Landstichting|51.819|5.883|NL|Gelderland|57
+Stroe|52.186|5.692|NL|Gelderland|57
+Dümpelfeld|50.433|6.950|DE|Rheinland-Pfalz|57
+Harsin|50.173|5.348|BE|Wallonia|57
+Binningen|50.206|7.246|DE|Rheinland-Pfalz|57
+Weiswampach|50.137|6.075|LU|Clervaux|57
+Haren|51.802|5.585|NL|North Brabant|57
+Heure|50.294|5.297|BE|Wallonia|57
+Müden|50.185|7.339|DE|Rheinland-Pfalz|57
+Dohr|50.129|7.122|DE|Rheinland-Pfalz|57
+Sankt Aldegund|50.083|7.133|DE|Rheinland-Pfalz|57
+Alken|50.250|7.450|DE|Rheinland-Pfalz|57
+Buurmalsen|51.892|5.294|NL|Gelderland|57
+Steffeln|50.283|6.567|DE|Rheinland-Pfalz|57
+Avennes|50.629|5.117|BE|Wallonia|57
+Fließem|50.023|6.542|DE|Rheinland-Pfalz|57
+Hambuch|50.225|7.182|DE|Rheinland-Pfalz|57
+Hulsen|52.379|6.474|NL|Overijssel|57
+Laar|51.276|5.706|NL|Limburg|57
+Loo|52.252|6.339|NL|Overijssel|57
+Heinerscheid|50.096|6.088|LU|Clervaux|57
+Auw|50.301|6.339|DE|Rheinland-Pfalz|57
+Getelo|52.469|6.841|DE|Lower Saxony|57
+Appel|52.188|5.540|NL|Gelderland|57
+Braamt|51.923|6.265|NL|Gelderland|57
+Dürboslar|50.905|6.255|DE|North Rhine-Westphalia|57
+Hatzenport|50.233|7.417|DE|Rheinland-Pfalz|57
+Borlo|50.742|5.181|BE|Flanders|57
+Hurwenen|51.811|5.317|NL|Gelderland|57
+Kronenberg|51.416|6.000|NL|Limburg|57
+Veessen|52.377|6.090|NL|Gelderland|57
+Helenaveen|51.390|5.917|NL|North Brabant|56
+Plein|50.033|6.867|DE|Rheinland-Pfalz|56
+Rijckholt|50.799|5.732|NL|Limburg|56
+Spoordonk|51.517|5.271|NL|North Brabant|56
+Mabompré|50.099|5.740|BE|Wallonia|56
+Hellendoorn|52.388|6.451|NL|Overijssel|56
+Saasveld|52.332|6.807|NL|Overijssel|56
+Mont-Gauthier|50.210|5.121|BE|Wallonia|56
+Trimbs|50.317|7.300|DE|Rheinland-Pfalz|56
+Braibant|50.313|5.061|BE|Wallonia|56
+Fooz|50.675|5.436|BE|Wallonia|56
+Sluizen|50.765|5.531|BE|Flanders|56
+Gönnersdorf|50.483|7.267|DE|Rheinland-Pfalz|56
+Fallais|50.610|5.171|BE|Wallonia|56
+Oberstadtfeld|50.176|6.769|DE|Rheinland-Pfalz|56
+Maren-Kessel|51.796|5.393|NL|North Brabant|56
+Nederasselt|51.772|5.744|NL|Gelderland|56
+Boos|50.317|7.017|DE|Rheinland-Pfalz|56
+Dockweiler|50.250|6.783|DE|Rheinland-Pfalz|56
+Sinsin|50.275|5.255|BE|Wallonia|56
+Binderveld|50.861|5.165|BE|Flanders|56
+Bleret|50.690|5.288|BE|Wallonia|56
+Büdesheim|50.217|6.550|DE|Rheinland-Pfalz|56
+Kerkom-bij-Sint-Truiden|50.774|5.178|BE|Flanders|56
+Kesseling|50.483|7.017|DE|Rheinland-Pfalz|56
+Bure|50.089|5.260|BE|Wallonia|56
+Les Avins|50.416|5.300|BE|Wallonia|56
+Montleban|50.190|5.835|BE|Wallonia|56
+Auderath|50.183|7.000|DE|Rheinland-Pfalz|56
+Einruhr|50.584|6.381|DE|North Rhine-Westphalia|56
+Mürlenbach|50.150|6.600|DE|Rheinland-Pfalz|56
+Eemnes|52.254|5.261|NL|Utrecht|56
+Eikenheuvel|51.639|5.611|NL|North Brabant|56
+Oene|52.344|6.049|NL|Gelderland|56
+Poederoijen|51.787|5.081|NL|Gelderland|56
+Rimburg|50.916|6.085|NL|Limburg|56
+Oberdürenbach|50.467|7.167|DE|Rheinland-Pfalz|56
+Ransberg|50.875|5.040|BE|Flanders|56
+Warzée|50.450|5.426|BE|Wallonia|56
+Beausaint|50.168|5.549|BE|Wallonia|56
+Ernst|50.150|7.233|DE|Rheinland-Pfalz|56
+Hingen|51.105|5.899|NL|Limburg|56
+Macharen|51.806|5.544|NL|North Brabant|56
+Malberg|50.050|6.583|DE|Rheinland-Pfalz|56
+Wijthmen|52.487|6.171|NL|Overijssel|56
+Königsfeld|50.498|7.177|DE|Rheinland-Pfalz|56
+Burbach|50.108|6.518|DE|Rheinland-Pfalz|56
+Petit-Thier|50.307|5.968|BE|Wallonia|56
+Vaux-Chavanne|50.305|5.692|BE|Wallonia|56
+Kemexhe|50.698|5.409|BE|Wallonia|56
+Rommersheim|50.200|6.450|DE|Rheinland-Pfalz|56
+Soheit-Tinlot|50.484|5.389|BE|Wallonia|56
+Megchelen|51.838|6.393|NL|Gelderland|56
+Resteigne|50.083|5.177|BE|Wallonia|56
+Groot-Gelmen|50.784|5.264|BE|Flanders|56
+Hatrival|50.006|5.348|BE|Wallonia|56
+Vechmaal|50.762|5.375|BE|Flanders|56
+Broekhuizen|51.486|6.164|NL|Limburg|56
+Ven-Zelderheide|51.712|6.024|NL|Limburg|56
+Oberkail|50.033|6.683|DE|Rheinland-Pfalz|56
+Reifferscheid|50.405|6.885|DE|Rheinland-Pfalz|56
+Cras-Avernas|50.697|5.124|BE|Wallonia|56
+Nachtsheim|50.317|7.067|DE|Rheinland-Pfalz|56
+Schalkenmehren|50.165|6.861|DE|Rheinland-Pfalz|56
+Senheim|50.083|7.217|DE|Rheinland-Pfalz|56
+Isterberg|52.353|7.146|DE|Lower Saxony|56
+Abée|50.473|5.356|BE|Wallonia|56
+Overhespen|50.796|5.036|BE|Flanders|56
+Densborn|50.122|6.601|DE|Rheinland-Pfalz|56
+Feusdorf|50.350|6.617|DE|Rheinland-Pfalz|56
+Wiesbaum|50.341|6.673|DE|Rheinland-Pfalz|56
+Wintershoven|50.852|5.420|BE|Flanders|56
+Fumal|50.587|5.183|BE|Wallonia|56
+Cornesse|50.573|5.796|BE|Wallonia|56
+Septon|50.356|5.423|BE|Wallonia|56
+Hallschlag|50.354|6.438|DE|Rheinland-Pfalz|56
+Grazen|50.874|5.131|BE|Flanders|56
+Hupperath|50.000|6.833|DE|Rheinland-Pfalz|56
+Altweerterheide|51.221|5.679|NL|Limburg|55
+Borkel|51.297|5.440|NL|North Brabant|55
+Chevetogne|50.224|5.121|BE|Wallonia|55
+Pontillas|50.549|5.021|BE|Wallonia|55
+Acquoy|51.879|5.136|NL|Gelderland|55
+Lanaye|50.779|5.696|BE|Wallonia|55
+Bra|50.324|5.732|BE|Wallonia|55
+Nadrin|50.164|5.678|BE|Wallonia|55
+Omal|50.656|5.200|BE|Wallonia|55
+Ligney|50.662|5.182|BE|Wallonia|55
+Quendorf|52.337|7.185|DE|Lower Saxony|55
+Altforst|51.849|5.565|NL|Gelderland|55
+De Klomp|52.047|5.572|NL|Gelderland|55
+Maarsseveen|52.141|5.073|NL|Utrecht|55
+Olland|51.581|5.407|NL|North Brabant|55
+Rech|50.517|7.033|DE|Rheinland-Pfalz|55
+Lantremange|50.712|5.296|BE|Wallonia|55
+Baak|52.078|6.228|NL|Gelderland|55
+Rumpt|51.884|5.176|NL|Gelderland|55
+Welsum|52.336|6.092|NL|Overijssel|55
+Baillonville|50.290|5.339|BE|Wallonia|55
+Roes|50.243|7.258|DE|Rheinland-Pfalz|55
+Wanlin|50.160|5.062|BE|Wallonia|55
+Antweiler|50.400|6.833|DE|Rheinland-Pfalz|55
+Lünebach|50.133|6.350|DE|Rheinland-Pfalz|55
+'s Herenelderen|50.809|5.501|BE|Flanders|55
+Hasborn|50.050|6.917|DE|Rheinland-Pfalz|55
+Eckelrade|50.807|5.765|NL|Limburg|55
+Heide|51.241|6.043|NL|Limburg|55
+Lieren|52.163|5.989|NL|Gelderland|55
+Ommel|51.424|5.749|NL|North Brabant|55
+Habscheid|50.183|6.267|DE|Rheinland-Pfalz|55
+Wansin|50.678|5.019|BE|Wallonia|55
+Ohne|52.272|7.278|DE|Lower Saxony|55
+Hulsel|51.388|5.178|NL|North Brabant|55
+Klarenbeek|52.167|6.063|NL|Gelderland|55
+Saint-André|50.695|5.753|BE|Wallonia|55
+Sweikhuizen|50.954|5.847|NL|Limburg|55
+Glees|50.433|7.250|DE|Rheinland-Pfalz|55
+Sorée|50.399|5.124|BE|Wallonia|55
+Villers-Saint-Siméon|50.711|5.539|BE|Wallonia|55
+Volkesfeld|50.400|7.150|DE|Rheinland-Pfalz|55
+Esch|50.367|6.617|DE|Rheinland-Pfalz|55
+Elsendorp|51.581|5.769|NL|North Brabant|55
+Oud-Zuilen|52.127|5.068|NL|Utrecht|55
+Mortroux|50.712|5.753|BE|Wallonia|55
+Nandrin|50.507|5.419|BE|Wallonia|55
+Chanly|50.080|5.153|BE|Wallonia|55
+Dochamps|50.234|5.623|BE|Wallonia|55
+Gamlen|50.233|7.200|DE|Rheinland-Pfalz|55
+Bertrée|50.695|5.091|BE|Wallonia|55
+Geesteren|52.139|6.526|NL|Gelderland|55
+Kircheib|50.709|7.460|DE|Rheinland-Pfalz|55
+Swartbroek|51.230|5.774|NL|Limburg|55
+Biersdorf|50.015|6.451|DE|Rheinland-Pfalz|55
+Hümmel|50.467|6.783|DE|Rheinland-Pfalz|55
+Overwinden|50.755|5.048|BE|Flanders|55
+Berg|50.791|5.493|BE|Flanders|55
+Alem|51.787|5.343|NL|Gelderland|55
+De Moer|51.624|5.013|NL|North Brabant|55
+Kruisstraat|51.732|5.394|NL|North Brabant|55
+Marle|52.424|6.481|NL|Overijssel|55
+Valkeveen|52.301|5.197|NL|North Holland|55
+Zoelmond|51.943|5.310|NL|Gelderland|55
+Gönnersdorf|50.333|6.600|DE|Rheinland-Pfalz|55
+Berndorf|50.305|6.697|DE|Rheinland-Pfalz|55
+Echteld|51.910|5.496|NL|Gelderland|55
+Feneur|50.704|5.715|BE|Wallonia|55
+Aerdt|51.894|6.085|NL|Gelderland|55
+Crailo|52.269|5.204|NL|North Holland|55
+Zondveld|51.574|5.557|NL|North Brabant|55
+Horpmaal|50.760|5.335|BE|Flanders|55
+Klein-Gelmen|50.771|5.276|BE|Flanders|55
+Burglahr|50.618|7.497|DE|Rheinland-Pfalz|55
+Hoelbeek|50.872|5.559|BE|Flanders|55
+Boerdonk|51.559|5.625|NL|North Brabant|55
+Bovenistier|50.668|5.284|BE|Wallonia|55
+Catsop|50.939|5.767|NL|Limburg|55
+t Goy|52.002|5.224|NL|Utrecht|55
+Utscheid|50.000|6.350|DE|Rheinland-Pfalz|55
+Weebosch|51.308|5.294|NL|North Brabant|55
+Genoelselderen|50.802|5.537|BE|Flanders|55
+Hour|50.161|5.039|BE|Wallonia|55
+Olzheim|50.272|6.455|DE|Rheinland-Pfalz|55
+Paifve|50.728|5.523|BE|Wallonia|55
+Kappel|50.000|7.367|DE|Rheinland-Pfalz|54
+Lathum|51.987|6.019|NL|Gelderland|54
+Lopikerkapel|51.992|5.046|NL|Utrecht|54
+Meddo|52.013|6.707|NL|Gelderland|54
+Spijk|51.849|6.154|NL|Gelderland|54
+Beulich|50.183|7.450|DE|Rheinland-Pfalz|54
+Weiler|50.317|7.117|DE|Rheinland-Pfalz|54
+Rietmolen|52.141|6.662|NL|Gelderland|54
+Uitweg|51.983|5.017|NL|Utrecht|54
+Bickendorf|50.033|6.500|DE|Rheinland-Pfalz|54
+Batenburg|51.824|5.629|NL|Gelderland|54
+Heeseind|51.736|5.422|NL|North Brabant|54
+Neef|50.092|7.138|DE|Rheinland-Pfalz|54
+Reijmerstok|50.799|5.838|NL|Limburg|54
+Veulen|51.483|5.953|NL|Limburg|54
+Wiene|52.235|6.651|NL|Overijssel|54
+Kalt|50.267|7.395|DE|Rheinland-Pfalz|54
+Bocholtzerheide|50.816|5.990|NL|Limburg|54
+Hampteau|50.258|5.472|BE|Wallonia|54
+Katwoude|52.468|5.046|NL|North Holland|54
+Nieuwaal|51.810|5.178|NL|Gelderland|54
+Rhenoy|51.883|5.153|NL|Gelderland|54
+Pellaines|50.727|5.007|BE|Wallonia|54
+Vyle-et-Tharoul|50.445|5.262|BE|Wallonia|54
+Arensgenhout|50.888|5.840|NL|Limburg|54
+Birgel|50.317|6.617|DE|Rheinland-Pfalz|54
+Zeldam|52.257|6.629|NL|Overijssel|54
+Helen-Bos|50.819|5.083|BE|Flanders|54
+Vesqueville|50.006|5.397|BE|Wallonia|54
+Eselborn|50.063|6.004|LU|Clervaux|54
+Izier|50.384|5.579|BE|Wallonia|54
+Gondenbrett|50.233|6.417|DE|Rheinland-Pfalz|54
+Hodister|50.201|5.495|BE|Wallonia|54
+Bonsin|50.373|5.381|BE|Wallonia|54
+Gödenroth|50.083|7.483|DE|Rheinland-Pfalz|54
+Pillig|50.239|7.312|DE|Rheinland-Pfalz|54
+Niederstadtfeld|50.161|6.760|DE|Rheinland-Pfalz|54
+Laufeld|50.083|6.867|DE|Rheinland-Pfalz|54
+Strohn|50.117|6.917|DE|Rheinland-Pfalz|54
+Urmersbach|50.250|7.133|DE|Rheinland-Pfalz|54
+Wallenborn|50.150|6.717|DE|Rheinland-Pfalz|54
+Kalenborn-Scheuern|50.250|6.600|DE|Rheinland-Pfalz|54
+Nattenheim|50.017|6.517|DE|Rheinland-Pfalz|54
+Herresbach|50.367|7.017|DE|Rheinland-Pfalz|54
+Barweiler|50.367|6.867|DE|Rheinland-Pfalz|54
+Pommern|50.167|7.283|DE|Rheinland-Pfalz|54
+Müllenbach|50.317|6.917|DE|Rheinland-Pfalz|54
+Flußbach|50.017|6.933|DE|Rheinland-Pfalz|54
+Wimbach|50.367|6.917|DE|Rheinland-Pfalz|54
+Insul|50.433|6.917|DE|Rheinland-Pfalz|53
+Kollig|50.267|7.283|DE|Rheinland-Pfalz|53
+Niederöfflingen|50.067|6.883|DE|Rheinland-Pfalz|53
+Engden|52.392|7.179|DE|Lower Saxony|53
+Ehlenz|50.040|6.471|DE|Rheinland-Pfalz|53
+Nohn|50.333|6.783|DE|Rheinland-Pfalz|53
+Watzerath|50.183|6.367|DE|Rheinland-Pfalz|53
+Alterkülz|50.033|7.467|DE|Rheinland-Pfalz|53
+Schwirzheim|50.233|6.533|DE|Rheinland-Pfalz|53
+Mittelstrimmig|50.083|7.283|DE|Rheinland-Pfalz|53
+Grenderich|50.067|7.233|DE|Rheinland-Pfalz|53
+Lieg|50.133|7.350|DE|Rheinland-Pfalz|53
+Valwig|50.150|7.217|DE|Rheinland-Pfalz|53
+Naunheim|50.250|7.317|DE|Rheinland-Pfalz|53
+Virneburg|50.350|7.083|DE|Rheinland-Pfalz|53
+Dedenbach|50.483|7.183|DE|Rheinland-Pfalz|53
+Reudelsterz|50.317|7.150|DE|Rheinland-Pfalz|53
+Kaltenborn|50.400|7.017|DE|Rheinland-Pfalz|52
+Bermel|50.283|7.083|DE|Rheinland-Pfalz|52
+Kerben|50.317|7.367|DE|Rheinland-Pfalz|52
+Höchstberg|50.250|7.000|DE|Rheinland-Pfalz|52
+Kirchweiler|50.230|6.745|DE|Rheinland-Pfalz|52
+Uhler|50.083|7.433|DE|Rheinland-Pfalz|52
+Malbergweich|50.055|6.554|DE|Rheinland-Pfalz|52
+Deudesfeld|50.103|6.731|DE|Rheinland-Pfalz|52
+Schauren|50.017|7.267|DE|Rheinland-Pfalz|52
+Lützkampen|50.150|6.183|DE|Rheinland-Pfalz|52
+Schleid|50.067|6.483|DE|Rheinland-Pfalz|52
+Lütz|50.167|7.350|DE|Rheinland-Pfalz|52
+Oberpierscheid|50.067|6.367|DE|Rheinland-Pfalz|52
+Hohenfels-Essingen|50.250|6.733|DE|Rheinland-Pfalz|52
+Gering|50.283|7.267|DE|Rheinland-Pfalz|52
+Ormont|50.326|6.442|DE|Rheinland-Pfalz|52
+Reich|50.000|7.433|DE|Rheinland-Pfalz|51
+Salm|50.153|6.691|DE|Rheinland-Pfalz|51
+Hohenleimbach|50.417|7.067|DE|Rheinland-Pfalz|51
+Strotzbüsch|50.110|6.967|DE|Rheinland-Pfalz|51
+Gappenach|50.273|7.345|DE|Rheinland-Pfalz|51
+Morshausen|50.200|7.433|DE|Rheinland-Pfalz|51
+Schüller|50.333|6.583|DE|Rheinland-Pfalz|51
+Wallscheid|50.100|6.883|DE|Rheinland-Pfalz|51
+Retterath|50.267|7.017|DE|Rheinland-Pfalz|51
+Lichtenborn|50.117|6.300|DE|Rheinland-Pfalz|51
+Liesenich|50.083|7.283|DE|Rheinland-Pfalz|51
+Briedern|50.100|7.200|DE|Rheinland-Pfalz|51
+Eckfeld|50.117|6.850|DE|Rheinland-Pfalz|51
+Dahnen|50.067|6.150|DE|Rheinland-Pfalz|51
+Oberehe-Stroheich|50.283|6.767|DE|Rheinland-Pfalz|51
+Lambertsberg|50.083|6.383|DE|Rheinland-Pfalz|51
+Hammerstein|50.483|7.350|DE|Rheinland-Pfalz|51
+Lasel|50.117|6.467|DE|Rheinland-Pfalz|51
+Meerfeld|50.094|6.757|DE|Rheinland-Pfalz|51
+Mesenich|50.100|7.200|DE|Rheinland-Pfalz|51
+Karlshausen|50.024|6.228|DE|Rheinland-Pfalz|51
+Feuerscheid|50.100|6.450|DE|Rheinland-Pfalz|51
+Altstrimmig|50.100|7.300|DE|Rheinland-Pfalz|51
+Brandscheid|50.220|6.308|DE|Rheinland-Pfalz|51
+Macken|50.183|7.400|DE|Rheinland-Pfalz|51
+Zilshausen|50.117|7.383|DE|Rheinland-Pfalz|51
+Sellerich|50.233|6.367|DE|Rheinland-Pfalz|51
+Hoffeld|50.367|6.817|DE|Rheinland-Pfalz|51
+Fleringen|50.217|6.500|DE|Rheinland-Pfalz|50
+Eisenschmitt|50.044|6.723|DE|Rheinland-Pfalz|50
+Bleckhausen|50.133|6.783|DE|Rheinland-Pfalz|50
+Peterslahr|50.613|7.483|DE|Rheinland-Pfalz|50
+Hausten|50.400|7.117|DE|Rheinland-Pfalz|50
+Wüschheim|50.017|7.417|DE|Rheinland-Pfalz|50
+Gransdorf|50.017|6.683|DE|Rheinland-Pfalz|50
+Wierschem|50.226|7.352|DE|Rheinland-Pfalz|50
+Sankt Thomas|50.067|6.600|DE|Rheinland-Pfalz|50
+Plütscheid|50.083|6.417|DE|Rheinland-Pfalz|50
+Demerath|50.183|6.950|DE|Rheinland-Pfalz|50
+Wawern|50.117|6.483|DE|Rheinland-Pfalz|50
+Seffern|50.067|6.500|DE|Rheinland-Pfalz|50
+Mermuth|50.167|7.483|DE|Rheinland-Pfalz|50
+Hirten|50.333|7.100|DE|Rheinland-Pfalz|50
+Udler|50.133|6.883|DE|Rheinland-Pfalz|50
+Tellig|50.033|7.250|DE|Rheinland-Pfalz|50
+Betteldorf|50.250|6.750|DE|Rheinland-Pfalz|50
+Gindorf|50.017|6.650|DE|Rheinland-Pfalz|50
+Quiddelbach|50.350|6.933|DE|Rheinland-Pfalz|50
+Gierschnach|50.267|7.350|DE|Rheinland-Pfalz|50
+Hirz-Maulsbach|50.683|7.483|DE|Rheinland-Pfalz|50
+Kail|50.183|7.233|DE|Rheinland-Pfalz|50
+Duppach|50.267|6.567|DE|Rheinland-Pfalz|50
+Oberöfflingen|50.067|6.867|DE|Rheinland-Pfalz|50
+Luxem|50.333|7.100|DE|Rheinland-Pfalz|49
+Arft|50.383|7.083|DE|Rheinland-Pfalz|49
+Dünfus|50.217|7.233|DE|Rheinland-Pfalz|49
+Hollnich|50.067|7.483|DE|Rheinland-Pfalz|49
+Herschbroich|50.367|6.967|DE|Rheinland-Pfalz|49
+Rockeskyll|50.250|6.700|DE|Rheinland-Pfalz|49
+Neuerkirch|50.017|7.483|DE|Rheinland-Pfalz|49
+Anschau|50.300|7.100|DE|Rheinland-Pfalz|49
+Hauroth|50.250|7.100|DE|Rheinland-Pfalz|49
+Nimshuscheid|50.100|6.483|DE|Rheinland-Pfalz|49
+Wiesemscheid|50.333|6.883|DE|Rheinland-Pfalz|49
+Schönbach|50.217|6.950|DE|Rheinland-Pfalz|49
+Urschmitt|50.117|7.067|DE|Rheinland-Pfalz|49
+Bongard|50.292|6.838|DE|Rheinland-Pfalz|49
+Dasburg|50.050|6.133|DE|Rheinland-Pfalz|49
+Weidenbach|50.133|6.717|DE|Rheinland-Pfalz|49
+Münk|50.300|7.033|DE|Rheinland-Pfalz|49
+Brachtendorf|50.233|7.233|DE|Rheinland-Pfalz|49
+Ellscheid|50.150|6.917|DE|Rheinland-Pfalz|49
+Buchet|50.233|6.317|DE|Rheinland-Pfalz|48
+Krautscheid|50.067|6.333|DE|Rheinland-Pfalz|48
+Gipperath|50.039|6.863|DE|Rheinland-Pfalz|48
+Immerath|50.133|6.950|DE|Rheinland-Pfalz|48
+Lirstal|50.250|7.033|DE|Rheinland-Pfalz|48
+Meisburg|50.117|6.683|DE|Rheinland-Pfalz|48
+Obersteinebach|50.591|7.498|DE|Rheinland-Pfalz|48
+Zettingen|50.233|7.200|DE|Rheinland-Pfalz|48
+Panzweiler|50.017|7.300|DE|Rheinland-Pfalz|48
+Aremberg|50.417|6.800|DE|Rheinland-Pfalz|48
+Niederscheidweiler|50.067|6.950|DE|Rheinland-Pfalz|48
+Neuheilenbach|50.117|6.567|DE|Rheinland-Pfalz|48
+Pantenburg|50.083|6.833|DE|Rheinland-Pfalz|48
+Steineberg|50.183|6.917|DE|Rheinland-Pfalz|48
+Ditscheid|50.300|7.067|DE|Rheinland-Pfalz|48
+Gillenbeuren|50.155|7.019|DE|Rheinland-Pfalz|48
+Heckenbach|50.467|7.050|DE|Rheinland-Pfalz|48
+Sefferweich|50.067|6.517|DE|Rheinland-Pfalz|48
+Kalenborn|50.267|7.083|DE|Rheinland-Pfalz|48
+Bodenbach|50.317|6.850|DE|Rheinland-Pfalz|48
+Eppenberg|50.250|7.067|DE|Rheinland-Pfalz|48
+Irrhausen|50.067|6.200|DE|Rheinland-Pfalz|48
+Steinborn|50.067|6.633|DE|Rheinland-Pfalz|47
+Datzeroth|50.517|7.417|DE|Rheinland-Pfalz|47
+Karl|50.050|6.800|DE|Rheinland-Pfalz|47
+Walhausen|50.033|7.283|DE|Rheinland-Pfalz|47
+Wollmerath|50.150|6.983|DE|Rheinland-Pfalz|47
+Hinterweiler|50.236|6.756|DE|Rheinland-Pfalz|47
+Orlenbach|50.167|6.383|DE|Rheinland-Pfalz|47
+Haserich|50.033|7.333|DE|Rheinland-Pfalz|47
+Mannebach|50.283|6.983|DE|Rheinland-Pfalz|47
+Reuth|50.300|6.483|DE|Rheinland-Pfalz|47
+Eulgem|50.233|7.167|DE|Rheinland-Pfalz|47
+Kliding|50.117|7.050|DE|Rheinland-Pfalz|47
+Nerdlen|50.233|6.867|DE|Rheinland-Pfalz|47
+Mückeln|50.083|6.917|DE|Rheinland-Pfalz|47
+Galenberg|50.433|7.200|DE|Rheinland-Pfalz|47
+Brockscheid|50.133|6.850|DE|Rheinland-Pfalz|47
+Balesfeld|50.100|6.533|DE|Rheinland-Pfalz|47
+Dorsel|50.383|6.800|DE|Rheinland-Pfalz|47
+Hütterscheid|50.000|6.383|DE|Rheinland-Pfalz|46
+Reidenhausen|50.050|7.317|DE|Rheinland-Pfalz|46
+Greimerath|50.033|6.900|DE|Rheinland-Pfalz|46
+Wincrange|50.053|5.919|LU|Clervaux|46
+Wiersdorf|50.000|6.450|DE|Rheinland-Pfalz|46
+Weidingen|50.017|6.383|DE|Rheinland-Pfalz|46
+Wirfus|50.200|7.200|DE|Rheinland-Pfalz|46
+Siebenbach|50.383|7.033|DE|Rheinland-Pfalz|46
+Brenk|50.433|7.183|DE|Rheinland-Pfalz|46
+Oberscheidweiler|50.083|6.933|DE|Rheinland-Pfalz|46
+Utzerath|50.217|6.933|DE|Rheinland-Pfalz|46
+Wilsecker|50.017|6.583|DE|Rheinland-Pfalz|46
+Winnerath|50.429|6.877|DE|Rheinland-Pfalz|46
+Sosberg|50.083|7.333|DE|Rheinland-Pfalz|46
+Kopp|50.183|6.583|DE|Rheinland-Pfalz|46
+Honerath|50.383|6.900|DE|Rheinland-Pfalz|46
+Kaperich|50.250|7.033|DE|Rheinland-Pfalz|46
+Pomster|50.353|6.843|DE|Rheinland-Pfalz|46
+Steiningen|50.183|6.917|DE|Rheinland-Pfalz|46
+Boxberg|50.267|6.883|DE|Rheinland-Pfalz|46
+Kerschenbach|50.350|6.500|DE|Rheinland-Pfalz|46
+Kottenborn|50.350|6.900|DE|Rheinland-Pfalz|46
+Michelbach|50.017|7.450|DE|Rheinland-Pfalz|46
+Sarmersbach|50.233|6.883|DE|Rheinland-Pfalz|45
+Dohm-Lammersdorf|50.267|6.667|DE|Rheinland-Pfalz|45
+Lahr|50.125|7.365|DE|Rheinland-Pfalz|45
+Berenbach|50.233|6.950|DE|Rheinland-Pfalz|45
+Hasselbach|50.033|7.450|DE|Rheinland-Pfalz|45
+Jucken|50.050|6.233|DE|Rheinland-Pfalz|45
+Hörschhausen|50.250|6.933|DE|Rheinland-Pfalz|45
+Moritzheim|50.050|7.267|DE|Rheinland-Pfalz|45
+Schmitt|50.167|7.017|DE|Rheinland-Pfalz|45
+Oberelz|50.267|7.050|DE|Rheinland-Pfalz|45
+Eschfeld|50.117|6.200|DE|Rheinland-Pfalz|45
+Rödelhausen|50.000|7.333|DE|Rheinland-Pfalz|45
+Mosbruch|50.267|6.950|DE|Rheinland-Pfalz|45
+Nürburg|50.333|6.950|DE|Rheinland-Pfalz|45
+Preischeid|50.033|6.150|DE|Rheinland-Pfalz|45
+Leidenborn|50.133|6.217|DE|Rheinland-Pfalz|44
+Spesenroth|50.050|7.450|DE|Rheinland-Pfalz|44
+Seinsfeld|50.050|6.650|DE|Rheinland-Pfalz|44
+Winterscheid|50.233|6.250|DE|Rheinland-Pfalz|44
+Olmscheid|50.067|6.217|DE|Rheinland-Pfalz|44
+Drees|50.350|7.000|DE|Rheinland-Pfalz|44
+Euscheid|50.133|6.300|DE|Rheinland-Pfalz|44
+Ohlenhard|50.450|6.767|DE|Rheinland-Pfalz|44
+Großkampenberg|50.150|6.200|DE|Rheinland-Pfalz|44
+Orsfeld|50.033|6.617|DE|Rheinland-Pfalz|44
+Schutz|50.133|6.750|DE|Rheinland-Pfalz|44
+Beilstein|50.117|7.250|DE|Rheinland-Pfalz|44
+Dackscheid|50.117|6.383|DE|Rheinland-Pfalz|44
+Harscheid|50.460|6.892|DE|Rheinland-Pfalz|44
+Arbach|50.283|7.050|DE|Rheinland-Pfalz|44
+Kleinlangenfeld|50.267|6.483|DE|Rheinland-Pfalz|44
+Wirft|50.367|6.867|DE|Rheinland-Pfalz|44
+Möntenich|50.221|7.299|DE|Rheinland-Pfalz|44
+Heckhuscheid|50.179|6.223|DE|Rheinland-Pfalz|44
+Meuspath|50.345|6.974|DE|Rheinland-Pfalz|44
+Neichen|50.267|6.867|DE|Rheinland-Pfalz|44
+Zendscheid|50.100|6.600|DE|Rheinland-Pfalz|44
+Hesweiler|50.050|7.283|DE|Rheinland-Pfalz|44
+Seiwerath|50.150|6.500|DE|Rheinland-Pfalz|44
+Großlangenfeld|50.217|6.250|DE|Rheinland-Pfalz|44
+Oberweiler|50.050|6.450|DE|Rheinland-Pfalz|43
+Einig|50.283|7.283|DE|Rheinland-Pfalz|43
+Kradenbach|50.250|6.850|DE|Rheinland-Pfalz|43
+Kolverath|50.267|6.967|DE|Rheinland-Pfalz|43
+Hörscheid|50.217|6.867|DE|Rheinland-Pfalz|43
+Kescheid|50.667|7.483|DE|Rheinland-Pfalz|43
+Oberlascheid|50.250|6.300|DE|Rheinland-Pfalz|43
+Katzwinkel|50.250|6.917|DE|Rheinland-Pfalz|43
+Giesdorf|50.183|6.450|DE|Rheinland-Pfalz|43
+Brieden|50.183|7.267|DE|Rheinland-Pfalz|43
+Horperath|50.250|6.950|DE|Rheinland-Pfalz|43
+Welcherath|50.317|6.967|DE|Rheinland-Pfalz|43
+Mützenich|50.250|6.267|DE|Rheinland-Pfalz|42
+Heilenbach|50.067|6.467|DE|Rheinland-Pfalz|42
+Heilbach|50.050|6.283|DE|Rheinland-Pfalz|42
+Bereborn|50.283|6.967|DE|Rheinland-Pfalz|42
+Schladt|50.033|6.833|DE|Rheinland-Pfalz|42
+Lauperath|50.083|6.333|DE|Rheinland-Pfalz|41
+Nimsreuland|50.133|6.450|DE|Rheinland-Pfalz|41
+Echtershausen|50.017|6.417|DE|Rheinland-Pfalz|41
+Scheid|50.359|6.422|DE|Rheinland-Pfalz|41
+Kötterichen|50.240|6.984|DE|Rheinland-Pfalz|41
+Gunderath|50.255|6.978|DE|Rheinland-Pfalz|41
+Heisdorf|50.133|6.433|DE|Rheinland-Pfalz|41
+Fuchshofen|50.428|6.851|DE|Rheinland-Pfalz|41
+Pittenbach|50.183|6.350|DE|Rheinland-Pfalz|41
+Kyllburgweiler|50.050|6.617|DE|Rheinland-Pfalz|41
+Acht|50.367|7.067|DE|Rheinland-Pfalz|41
+Dankerath|50.333|6.817|DE|Rheinland-Pfalz|40
+Sierscheid|50.457|6.917|DE|Rheinland-Pfalz|40
+Altscheid|50.017|6.400|DE|Rheinland-Pfalz|40
+Kesfeld|50.150|6.233|DE|Rheinland-Pfalz|40
+Nehren|50.083|7.200|DE|Rheinland-Pfalz|40
+Neuendorf|50.283|6.467|DE|Rheinland-Pfalz|40
+Berkoth|50.044|6.340|DE|Rheinland-Pfalz|40
+Ließem|50.033|6.483|DE|Rheinland-Pfalz|40
+Sassen|50.267|6.967|DE|Rheinland-Pfalz|40
+Brücktal|50.317|6.983|DE|Rheinland-Pfalz|40
+Langscheid|50.383|7.117|DE|Rheinland-Pfalz|40
+Dingdorf|50.150|6.433|DE|Rheinland-Pfalz|39
+Gefell|50.233|6.917|DE|Rheinland-Pfalz|39
+Senscheid|50.333|6.833|DE|Rheinland-Pfalz|39
+Hargarten|50.100|6.400|DE|Rheinland-Pfalz|39
+Borler|50.317|6.833|DE|Rheinland-Pfalz|39
+Filz|50.167|6.983|DE|Rheinland-Pfalz|39
+Kirsbach|50.326|6.993|DE|Rheinland-Pfalz|39
+Dauwelshausen|50.000|6.183|DE|Rheinland-Pfalz|39
+Gelenberg|50.300|6.867|DE|Rheinland-Pfalz|39
+Reipeldingen|50.083|6.183|DE|Rheinland-Pfalz|39
+Harspelt|50.133|6.167|DE|Rheinland-Pfalz|38
+Uppershausen|50.033|6.317|DE|Rheinland-Pfalz|38
+Beinhausen|50.267|6.883|DE|Rheinland-Pfalz|38
+Diefenbach|50.033|6.950|DE|Rheinland-Pfalz|38
+Saxler|50.133|6.900|DE|Rheinland-Pfalz|38
+Korweiler|50.100|7.417|DE|Rheinland-Pfalz|38
+Leimbach|50.017|6.250|DE|Rheinland-Pfalz|38
+Lierfeld|50.133|6.367|DE|Rheinland-Pfalz|38
+Usch|50.100|6.600|DE|Rheinland-Pfalz|38
+Lascheid|50.117|6.417|DE|Rheinland-Pfalz|37
+Mauel|50.067|6.400|DE|Rheinland-Pfalz|37
+Masthorn|50.150|6.300|DE|Rheinland-Pfalz|37
+Reimerath|50.300|6.967|DE|Rheinland-Pfalz|37
+Basberg|50.300|6.600|DE|Rheinland-Pfalz|37
+Roscheid|50.117|6.183|DE|Rheinland-Pfalz|37
+Winringen|50.150|6.417|DE|Rheinland-Pfalz|37
+Emmelbaum|50.050|6.267|DE|Rheinland-Pfalz|37
+Oberlauch|50.167|6.417|DE|Rheinland-Pfalz|37
+Plascheid|50.033|6.283|DE|Rheinland-Pfalz|37
+Musweiler|50.010|6.801|DE|Rheinland-Pfalz|36
+Eichenbach|50.433|6.817|DE|Rheinland-Pfalz|36
+Eulenberg|50.606|7.476|DE|Rheinland-Pfalz|36
+Trierscheid|50.350|6.817|DE|Rheinland-Pfalz|36
+Übereisenbach|50.000|6.150|DE|Rheinland-Pfalz|35
+Fischbach-Oberraden|50.000|6.333|DE|Rheinland-Pfalz|35
+Reiff|50.100|6.200|DE|Rheinland-Pfalz|35
+Wagenhausen|50.150|6.983|DE|Rheinland-Pfalz|35
+Welschenbach|50.367|7.067|DE|Rheinland-Pfalz|35
+Willwerscheid|50.033|6.933|DE|Rheinland-Pfalz|35
+Hütten|50.017|6.250|DE|Rheinland-Pfalz|35
+Matzerath|50.150|6.383|DE|Rheinland-Pfalz|35
+Niederlauch|50.167|6.433|DE|Rheinland-Pfalz|34
+Schwarzenborn|50.033|6.717|DE|Rheinland-Pfalz|34
+Niederpierscheid|50.083|6.367|DE|Rheinland-Pfalz|34
+Ueß|50.250|6.933|DE|Rheinland-Pfalz|34
+Lind|50.323|7.035|DE|Rheinland-Pfalz|33
+Manderscheid|50.100|6.350|DE|Rheinland-Pfalz|33
+Bauler|50.333|6.883|DE|Rheinland-Pfalz|33
+Nitz|50.333|7.017|DE|Rheinland-Pfalz|33
+Zweifelscheid|50.033|6.250|DE|Rheinland-Pfalz|33
+Herzfeld|50.133|6.217|DE|Rheinland-Pfalz|32
+Eilscheid|50.133|6.383|DE|Rheinland-Pfalz|32
+Pintesfeld|50.117|6.367|DE|Rheinland-Pfalz|32
+Kinzenburg|50.117|6.350|DE|Rheinland-Pfalz|31
+Strickscheid|50.133|6.317|DE|Rheinland-Pfalz|31
+Kickeshausen|50.067|6.250|DE|Rheinland-Pfalz|31
+Merlscheid|50.133|6.350|DE|Rheinland-Pfalz|31
+Etteldorf|50.033|6.567|DE|Rheinland-Pfalz|30
+Affler|50.017|6.150|DE|Rheinland-Pfalz|30
+Herbstmühle|50.000|6.217|DE|Rheinland-Pfalz|29
+Scheitenkorb|50.017|6.200|DE|Rheinland-Pfalz|28
+Sengerich|50.117|6.217|DE|Rheinland-Pfalz|25
+Dierfeld|50.083|6.883|DE|Rheinland-Pfalz|17
+Berlingen|50.239|6.719|DE|Rheinland-Pfalz|0
+Beuren|50.094|7.078|DE|Rheinland-Pfalz|0
+Breitscheid|50.582|7.444|DE|Rheinland-Pfalz|0
+Brohl|50.219|7.279|DE|Rheinland-Pfalz|0
+Halle|52.453|6.918|DE|Lower Saxony|0
+Hamm|50.017|6.417|DE|Rheinland-Pfalz|0
+Hönningen|50.467|6.950|DE|Rheinland-Pfalz|0
+Kalenborn|50.550|7.000|DE|Rheinland-Pfalz|0
+Kirchsahr|50.523|6.900|DE|Rheinland-Pfalz|0
+Laakdal|51.081|5.006|BE|Flanders|0
+Leienkaul|50.217|7.083|DE|Rheinland-Pfalz|0
+Leimbach|50.404|6.928|DE|Rheinland-Pfalz|0
+Lind|50.500|6.933|DE|Rheinland-Pfalz|0
+Merzenich|50.827|6.525|DE|North Rhine-Westphalia|0
+Müsch|50.383|6.833|DE|Rheinland-Pfalz|0
+Niederweiler|50.033|6.450|DE|Rheinland-Pfalz|0
+Scheuern|50.017|6.300|DE|Rheinland-Pfalz|0
+Selfkant|51.022|5.930|DE|North Rhine-Westphalia|0
+Weiler|50.150|7.083|DE|Rheinland-Pfalz|0

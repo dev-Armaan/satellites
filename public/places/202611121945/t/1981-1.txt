@@ -1,0 +1,3169 @@
+Milan|45.464|9.190|IT|Lombardy|123
+Turin|45.070|7.687|IT|Piedmont|119
+Zürich|47.367|8.550|CH|Zurich|112
+Monza|45.580|9.272|IT|Lombardy|102
+Bergamo|45.696|9.667|IT|Lombardy|102
+Piacenza|45.052|9.693|IT|Emilia-Romagna|100
+Novara|45.447|8.621|IT|Piedmont|100
+Como|45.808|9.083|IT|Lombardy|99
+Busto Arsizio|45.611|8.849|IT|Lombardy|98
+Sesto San Giovanni|45.533|9.226|IT|Lombardy|98
+Luzern|47.050|8.306|CH|Lucerne|98
+Varese|45.821|8.825|IT|Lombardy|98
+Cinisello Balsamo|45.558|9.215|IT|Lombardy|98
+Sankt Gallen|47.424|9.375|CH|Saint Gallen|98
+Pavia|45.192|9.159|IT|Lombardy|96
+Lugano|46.010|8.960|CH|Ticino|96
+Vigevano|45.314|8.854|IT|Lombardy|95
+Legnano|45.598|8.915|IT|Lombardy|95
+Gallarate|45.660|8.792|IT|Lombardy|94
+Dornbirn|47.414|9.742|AT|Vorarlberg|94
+Rivoli|45.071|7.515|IT|Piedmont|94
+Nichelino|45.000|7.653|IT|Piedmont|94
+Settimo Torinese|45.139|7.770|IT|Piedmont|94
+Rho|45.532|9.040|IT|Lombardy|93
+Lecco|45.856|9.397|IT|Lombardy|93
+Collegno|45.079|7.567|IT|Piedmont|93
+Paderno Dugnano|45.569|9.165|IT|Lombardy|93
+Vercelli|45.322|8.420|IT|Piedmont|93
+Cologno Monzese|45.530|9.278|IT|Lombardy|93
+Thun|46.751|7.622|CH|Bern|93
+Bellinzona|46.193|9.017|CH|Ticino|93
+Biella|45.563|8.058|IT|Piedmont|93
+Seregno|45.650|9.205|IT|Lombardy|93
+Desio|45.618|9.202|IT|Lombardy|92
+Lodi|45.310|9.501|IT|Lombardy|92
+Cantù|45.741|9.131|IT|Lombardy|92
+Rozzano|45.382|9.156|IT|Lombardy|92
+Saronno|45.625|9.035|IT|Lombardy|92
+Lissone|45.612|9.240|IT|Lombardy|91
+Cesano Maderno|45.629|9.152|IT|Lombardy|91
+Chieri|45.011|7.821|IT|Piedmont|91
+Grugliasco|45.065|7.580|IT|Piedmont|91
+Chur|46.850|9.533|CH|Grisons|91
+Bollate|45.546|9.121|IT|Lombardy|91
+Rapperswil|47.226|8.822|CH|Saint Gallen|91
+Uster|47.347|8.721|CH|Zurich|91
+Pioltello|45.501|9.331|IT|Lombardy|91
+Corsico|45.431|9.111|IT|Lombardy|91
+Venaria Reale|45.126|7.631|IT|Piedmont|91
+Feldkirch|47.236|9.597|AT|Vorarlberg|90
+Casale Monferrato|45.133|8.453|IT|Piedmont|90
+Brugherio|45.553|9.299|IT|Lombardy|90
+Abbiategrasso|45.398|8.917|IT|Lombardy|90
+Limbiate|45.600|9.125|IT|Lombardy|90
+Crema|45.363|9.682|IT|Lombardy|90
+Verbania|45.921|8.552|IT|Piedmont|90
+San Giuliano Milanese|45.394|9.291|IT|Lombardy|90
+Emmen|47.078|8.273|CH|Lucerne|90
+Zug|47.172|8.517|CH|Zug|90
+Cernusco sul Naviglio|45.525|9.333|IT|Lombardy|89
+Pallanza-Intra-Suna|45.938|8.571|IT|Piedmont|89
+San Donato Milanese|45.410|9.268|IT|Lombardy|89
+Segrate|45.492|9.298|IT|Lombardy|89
+Parabiago|45.560|8.945|IT|Lombardy|88
+Romano Banco|45.423|9.107|IT|Lombardy|88
+Garbagnate Milanese|45.574|9.075|IT|Lombardy|88
+Giussano|45.700|9.209|IT|Lombardy|88
+Bresso|45.538|9.189|IT|Lombardy|88
+Lainate|45.572|9.027|IT|Lombardy|88
+Kriens|47.031|8.285|CH|Lucerne|88
+Treviglio|45.521|9.591|IT|Lombardy|88
+Wetzikon|47.326|8.798|CH|Zurich|88
+Wil|47.462|9.046|CH|Saint Gallen|88
+Ivrea|45.467|7.876|IT|Piedmont|87
+Seriate|45.685|9.725|IT|Lombardy|87
+Cesano Boscone|45.442|9.094|IT|Lombardy|87
+Muggiò|45.589|9.228|IT|Lombardy|87
+Chivasso|45.191|7.890|IT|Piedmont|87
+Dalmine|45.649|9.606|IT|Lombardy|87
+Lustenau|47.426|9.659|AT|Vorarlberg|87
+Seveso|45.647|9.143|IT|Lombardy|87
+Vimercate|45.615|9.368|IT|Lombardy|87
+Meda|45.661|9.153|IT|Lombardy|87
+Horgen|47.260|8.598|CH|Zurich|87
+Mariano Comense|45.697|9.182|IT|Lombardy|87
+Magenta|45.465|8.885|IT|Lombardy|87
+Nova Milanese|45.589|9.198|IT|Lombardy|87
+Orbassano|45.005|7.538|IT|Piedmont|87
+Opfikon|47.432|8.576|CH|Zurich|87
+Aarau|47.393|8.044|CH|Aargau|87
+Cassano Magnago|45.672|8.827|IT|Lombardy|87
+Dietikon|47.402|8.400|CH|Zurich|86
+Senago|45.576|9.126|IT|Lombardy|86
+Baar|47.196|8.530|CH|Zug|86
+Borgomanero|45.699|8.462|IT|Piedmont|86
+Cornaredo|45.501|9.027|IT|Lombardy|86
+Cormano|45.549|9.160|IT|Lombardy|86
+Trezzano sul Naviglio|45.422|9.063|IT|Lombardy|86
+Dübendorf|47.397|8.619|CH|Zurich|86
+Novate Milanese|45.531|9.140|IT|Lombardy|86
+Trecate|45.434|8.736|IT|Piedmont|86
+Baden|47.473|8.306|CH|Aargau|86
+Reinach|47.497|7.592|CH|Basel-Landschaft|86
+Sondrio|46.169|9.871|IT|Lombardy|86
+Arese|45.550|9.077|IT|Lombardy|86
+Gorgonzola|45.531|9.405|IT|Lombardy|86
+Cusano|45.552|9.184|IT|Lombardy|86
+San Mauro Torinese|45.104|7.768|IT|Piedmont|85
+Olten|47.350|7.903|CH|Solothurn|85
+Wettingen|47.466|8.327|CH|Aargau|85
+Melzo|45.498|9.420|IT|Lombardy|85
+Palazzolo sull'Oglio|45.597|9.887|IT|Lombardy|85
+Domodossola|46.117|8.293|IT|Piedmont|85
+Jona|47.230|8.839|CH|Saint Gallen|85
+Romano di Lombardia|45.521|9.754|IT|Lombardy|85
+Ciriè|45.235|7.601|IT|Piedmont|85
+Valenza|45.012|8.644|IT|Piedmont|85
+Cassano d'Adda|45.526|9.515|IT|Lombardy|85
+Tradate|45.708|8.908|IT|Lombardy|85
+Vimodrone|45.515|9.288|IT|Lombardy|85
+Gossau|47.416|9.255|CH|Saint Gallen|85
+Nerviano|45.553|8.979|IT|Lombardy|85
+Sierre|46.292|7.536|CH|Valais|85
+Solothurn|47.208|7.537|CH|Solothurn|84
+Cham|47.182|8.464|CH|Zug|84
+Melegnano|45.358|9.324|IT|Lombardy|84
+Arcore|45.627|9.325|IT|Lombardy|84
+Alpignano|45.093|7.524|IT|Piedmont|84
+Bareggio|45.479|8.998|IT|Lombardy|84
+Bovisio-Masciago|45.610|9.153|IT|Lombardy|84
+Erba|45.809|9.226|IT|Lombardy|84
+Burgdorf|47.059|7.628|CH|Bern|84
+Caronno Pertusella|45.598|9.046|IT|Lombardy|84
+Hohenems|47.361|9.687|AT|Vorarlberg|84
+Kloten|47.452|8.585|CH|Zurich|84
+Stadt Winterthur (Kreis 1)|47.495|8.720|CH|Zurich|84
+Littau|47.050|8.263|CH|Lucerne|84
+Einsiedeln|47.128|8.747|CH|Schwyz|84
+Locarno|46.171|8.800|CH|Ticino|84
+Herisau|47.386|9.279|CH|Appenzell Ausserrhoden|84
+Steffisburg|46.778|7.632|CH|Bern|84
+Galliate|45.479|8.698|IT|Piedmont|84
+Chiari|45.538|9.927|IT|Lombardy|84
+Malnate|45.794|8.881|IT|Lombardy|84
+Seen (Kreis 3)|47.476|8.770|CH|Zurich|84
+Carate Brianza|45.676|9.237|IT|Lombardy|84
+Carugate|45.550|9.340|IT|Lombardy|84
+Adliswil|47.310|8.525|CH|Zurich|84
+Schwyz|47.021|8.654|CH|Schwyz|84
+Bludenz|47.155|9.823|AT|Vorarlberg|84
+Settimo Milanese|45.478|9.056|IT|Lombardy|83
+Mendrisio|45.870|8.982|CH|Ticino|83
+Concorezzo|45.589|9.334|IT|Lombardy|83
+Omegna|45.880|8.407|IT|Piedmont|83
+Somma Lombardo|45.682|8.708|IT|Lombardy|83
+Codogno|45.162|9.702|IT|Lombardy|83
+Agrate Brianza|45.574|9.348|IT|Lombardy|83
+Volpiano|45.199|7.775|IT|Piedmont|83
+Freienbach|47.205|8.758|CH|Schwyz|83
+Castellanza|45.611|8.896|IT|Lombardy|83
+Rescaldina|45.620|8.949|IT|Lombardy|83
+Meilen|47.272|8.646|CH|Zurich|83
+Langenthal|47.215|7.796|CH|Bern|83
+Samarate|45.624|8.785|IT|Lombardy|83
+Cardano al Campo|45.649|8.769|IT|Lombardy|83
+Mortara|45.249|8.733|IT|Lombardy|83
+Cossato|45.570|8.185|IT|Piedmont|83
+Wohlen|47.351|8.275|CH|Aargau|83
+Corbetta|45.467|8.919|IT|Lombardy|83
+Calolziocorte|45.795|9.438|IT|Lombardy|83
+Bettola-Zeloforomagno|45.431|9.309|IT|Lombardy|83
+Leini|45.183|7.714|IT|Piedmont|83
+Cesate|45.596|9.076|IT|Lombardy|83
+Hard|47.483|9.683|AT|Vorarlberg|83
+Villasanta|45.606|9.308|IT|Lombardy|83
+Busto Garolfo|45.548|8.883|IT|Lombardy|83
+Caravaggio|45.496|9.642|IT|Lombardy|83
+Thalwil|47.292|8.564|CH|Zurich|82
+Wädenswil|47.227|8.669|CH|Zurich|82
+Albino|45.764|9.799|IT|Lombardy|82
+Pianezza|45.104|7.550|IT|Piedmont|82
+Küssnacht|47.086|8.442|CH|Schwyz|82
+Merate|45.689|9.421|IT|Lombardy|82
+Arona|45.759|8.557|IT|Piedmont|82
+Uzwil|47.437|9.134|CH|Saint Gallen|82
+Liestal|47.485|7.734|CH|Basel-Landschaft|82
+Alzano Lombardo|45.737|9.726|IT|Lombardy|82
+Varedo|45.598|9.163|IT|Lombardy|82
+Schlieren|47.397|8.448|CH|Zurich|82
+Casalpusterlengo|45.179|9.648|IT|Lombardy|82
+Oleggio|45.597|8.642|IT|Piedmont|82
+Spiez|46.685|7.691|CH|Bern|82
+Glarus|47.041|9.068|CH|Glarus|82
+Horw|47.017|8.310|CH|Lucerne|82
+Canegrate|45.568|8.927|IT|Lombardy|82
+Stezzano|45.650|9.652|IT|Lombardy|82
+Affoltern am Albis|47.277|8.451|CH|Zurich|82
+Olgiate Olona|45.637|8.881|IT|Lombardy|82
+Luino|46.002|8.745|IT|Lombardy|82
+Solaro|45.614|9.083|IT|Lombardy|82
+Cerro Maggiore|45.594|8.954|IT|Lombardy|82
+Pfäffikon|47.365|8.792|CH|Zurich|82
+Fagnano Olona-Bergoro|45.670|8.860|IT|Lombardy|82
+Spreitenbach|47.423|8.368|CH|Aargau|81
+Rankweil|47.271|9.643|AT|Vorarlberg|81
+Caselle Torinese|45.175|7.643|IT|Piedmont|81
+Trezzo sull'Adda|45.605|9.514|IT|Lombardy|81
+Wallisellen|47.415|8.597|CH|Zurich|81
+Pieve Emanuele|45.351|9.203|IT|Lombardy|81
+Zofingen|47.288|7.946|CH|Aargau|81
+Valmadrera-Caserta|45.846|9.358|IT|Lombardy|81
+Küsnacht|47.318|8.584|CH|Zurich|81
+Sant'Angelo Lodigiano|45.235|9.407|IT|Lombardy|81
+Opera|45.374|9.211|IT|Lombardy|81
+Götzis|47.333|9.633|AT|Vorarlberg|81
+Ebikon|47.079|8.340|CH|Lucerne|81
+Castel San Giovanni|45.060|9.438|IT|Emilia-Romagna|81
+Borgaro Torinese|45.151|7.655|IT|Piedmont|81
+Ponte San Pietro|45.706|9.591|IT|Lombardy|81
+Baranzate|45.527|9.117|IT|Lombardy|81
+Osio Sotto|45.616|9.589|IT|Lombardy|81
+Brugg|47.481|8.209|CH|Aargau|81
+Cologno al Serio|45.576|9.709|IT|Lombardy|81
+Hinwil|47.294|8.844|CH|Zurich|81
+Worb|46.930|7.563|CH|Bern|81
+Cassina de' Pecchi|45.516|9.360|IT|Lombardy|81
+Lentate sul Seveso|45.676|9.118|IT|Lombardy|81
+Rivarolo Canavese|45.328|7.721|IT|Piedmont|81
+Borgosesia|45.720|8.275|IT|Piedmont|81
+Lonate Pozzolo|45.592|8.752|IT|Lombardy|81
+Münsingen|46.873|7.561|CH|Bern|81
+Davos|46.804|9.837|CH|Grisons|81
+Biassono|45.629|9.271|IT|Lombardy|81
+Paullo|45.418|9.400|IT|Lombardy|81
+Sedriano|45.491|8.972|IT|Lombardy|81
+Stradella|45.074|9.302|IT|Lombardy|81
+Olgiate Comasco|45.784|8.968|IT|Lombardy|81
+Altstätten|47.378|9.547|CH|Saint Gallen|80
+Lenzburg|47.389|8.175|CH|Aargau|80
+Castano Primo|45.552|8.776|IT|Lombardy|80
+Morbegno|46.137|9.574|IT|Lombardy|80
+Rotkreuz|47.143|8.431|CH|Zug|80
+Buchs|47.167|9.478|CH|Saint Gallen|80
+Rivalta di Torino|45.033|7.520|IT|Piedmont|80
+Oftringen|47.314|7.925|CH|Aargau|80
+Sarnen|46.896|8.245|CH|Obwalden|80
+Arluno|45.503|8.942|IT|Lombardy|80
+Cameri|45.502|8.662|IT|Piedmont|80
+Lauterach|47.476|9.729|AT|Vorarlberg|80
+Induno Olona|45.846|8.841|IT|Lombardy|80
+Mandello del Lario|45.922|9.320|IT|Lombardy|80
+Richterswil|47.206|8.697|CH|Zurich|80
+Aesch|47.471|7.597|CH|Basel-Landschaft|80
+Orzinuovi|45.402|9.923|IT|Lombardy|80
+Sursee|47.171|8.111|CH|Lucerne|80
+Arth|47.063|8.523|CH|Schwyz|80
+Gerenzano|45.640|9.001|IT|Lombardy|80
+Lurate Caccivio|45.767|8.999|IT|Lombardy|80
+Uboldo|45.615|9.004|IT|Lombardy|80
+Flawil|47.413|9.183|CH|Saint Gallen|80
+Pero|45.510|9.087|IT|Lombardy|80
+Nembro|45.744|9.761|IT|Lombardy|80
+Therwil|47.499|7.557|CH|Basel-Landschaft|80
+Rüti|47.256|8.856|CH|Zurich|80
+Castelli Calepio|45.613|9.885|IT|Lombardy|80
+Altdorf|46.880|8.644|CH|Uri|79
+Suhr|47.372|8.080|CH|Aargau|79
+Arlesheim|47.494|7.620|CH|Basel-Landschaft|79
+Zuchwil|47.202|7.566|CH|Solothurn|79
+Treviolo|45.674|9.612|IT|Lombardy|79
+Castelletto Sopra Ticino|45.720|8.634|IT|Piedmont|79
+Hombrechtikon|47.253|8.772|CH|Zurich|79
+Gavirate|45.837|8.726|IT|Lombardy|79
+Urdorf|47.385|8.426|CH|Zurich|79
+Eschenbach|47.240|8.922|CH|Saint Gallen|79
+Goldach|47.474|9.467|CH|Saint Gallen|79
+Bernareggio|45.648|9.405|IT|Lombardy|79
+Usmate-Velate|45.648|9.362|IT|Lombardy|79
+Hünenberg|47.175|8.425|CH|Zug|79
+Verano Brianza|45.689|9.225|IT|Lombardy|79
+Locate di Triulzi|45.357|9.225|IT|Lombardy|79
+Rorschach|47.478|9.490|CH|Saint Gallen|79
+Cislago|45.659|8.973|IT|Lombardy|79
+Cermenate|45.702|9.084|IT|Lombardy|79
+Bellinzago Novarese|45.569|8.643|IT|Piedmont|79
+Martinengo|45.572|9.768|IT|Lombardy|79
+Cornate d'Adda|45.628|9.474|IT|Lombardy|79
+Landquart|46.950|9.567|CH|Grisons|79
+Besozzo|45.849|8.665|IT|Lombardy|79
+Egg|47.300|8.690|CH|Zurich|79
+Capriolo|45.633|9.932|IT|Lombardy|79
+Vignate|45.499|9.377|IT|Lombardy|79
+Langnau|46.939|7.787|CH|Bern|79
+Lachen|47.192|8.853|CH|Schwyz|79
+Magnago|45.579|8.802|IT|Lombardy|79
+Soresina|45.288|9.859|IT|Lombardy|79
+San Maurizio|45.217|7.631|IT|Piedmont|79
+Sorisole|45.731|9.637|IT|Lombardy|79
+Garlasco|45.195|8.923|IT|Lombardy|79
+Cuorgnè|45.393|7.650|IT|Piedmont|79
+Turate|45.657|9.004|IT|Lombardy|79
+Wittenbach|47.461|9.386|CH|Saint Gallen|79
+Bussero|45.534|9.372|IT|Lombardy|79
+Pessano Con Bornago|45.549|9.381|IT|Lombardy|79
+Steinhausen|47.195|8.486|CH|Zug|79
+San Nicolò a Trebbia|45.057|9.605|IT|Emilia-Romagna|79
+Besana in Brianza|45.702|9.295|IT|Lombardy|79
+Trescore Balneario|45.694|9.842|IT|Lombardy|79
+Inverigo|45.738|9.218|IT|Lombardy|79
+Cogliate|45.646|9.079|IT|Lombardy|79
+Wolfurt|47.467|9.750|AT|Vorarlberg|79
+Sesto Calende|45.726|8.634|IT|Lombardy|79
+Casorate Primo|45.311|9.017|IT|Lombardy|79
+Broni|45.064|9.260|IT|Lombardy|79
+Gessate|45.548|9.438|IT|Lombardy|78
+Fino Mornasco|45.743|9.050|IT|Lombardy|78
+Stans|46.958|8.366|CH|Nidwalden|78
+Brandizzo|45.177|7.836|IT|Piedmont|78
+Gorla Minore|45.641|8.903|IT|Lombardy|78
+Druento|45.133|7.575|IT|Piedmont|78
+San Vittore Olona|45.586|8.941|IT|Lombardy|78
+Gassino Torinese|45.129|7.829|IT|Piedmont|78
+Mozzate|45.675|8.956|IT|Lombardy|78
+Castelleone|45.296|9.761|IT|Lombardy|78
+Hochdorf|47.168|8.292|CH|Lucerne|78
+Oggiono|45.791|9.348|IT|Lombardy|78
+Calusco d'Adda|45.688|9.471|IT|Lombardy|78
+Vittuone|45.488|8.951|IT|Lombardy|78
+Coccaglio|45.564|9.972|IT|Lombardy|78
+Laveno|45.909|8.620|IT|Lombardy|78
+Kirchberg|47.412|9.040|CH|Saint Gallen|78
+Torre Boldone|45.717|9.708|IT|Lombardy|78
+Wattwil|47.300|9.087|CH|Saint Gallen|78
+Santhià|45.368|8.170|IT|Piedmont|78
+Chiasso|45.832|9.031|CH|Ticino|78
+Pogliano Milanese|45.538|8.994|IT|Lombardy|78
+Clusone|45.887|9.946|IT|Lombardy|78
+Gattinara|45.613|8.365|IT|Piedmont|78
+Cuggiono|45.507|8.816|IT|Lombardy|78
+Höchst|47.459|9.640|AT|Vorarlberg|78
+Obersiggenthal|47.487|8.297|CH|Aargau|78
+Inzago|45.540|9.483|IT|Lombardy|78
+Unterägeri|47.136|8.585|CH|Zug|78
+Ingenbohl|46.999|8.615|CH|Schwyz|78
+Lesmo|45.649|9.307|IT|Lombardy|78
+Neuenhof|47.450|8.327|CH|Aargau|78
+Männedorf|47.257|8.699|CH|Zurich|78
+Visp|46.294|7.881|CH|Valais|78
+Gambolò|45.262|8.858|IT|Lombardy|78
+Assago|45.409|9.126|IT|Lombardy|78
+Urgnano|45.599|9.695|IT|Lombardy|78
+Vaprio d'Adda|45.576|9.524|IT|Lombardy|78
+Vigliano Biellese|45.563|8.105|IT|Piedmont|78
+Biberist|47.180|7.562|CH|Solothurn|78
+Reinach|47.257|8.181|CH|Aargau|78
+Willisau|47.122|7.994|CH|Lucerne|78
+Lomazzo|45.697|9.034|IT|Lombardy|78
+Giubiasco|46.172|9.008|CH|Ticino|78
+Candelo|45.541|8.107|IT|Piedmont|78
+Schübelbach|47.173|8.928|CH|Schwyz|78
+Capriate San Gervasio|45.613|9.530|IT|Lombardy|78
+Albano Sant'Alessandro|45.688|9.767|IT|Lombardy|78
+Oberriet|47.321|9.568|CH|Saint Gallen|78
+Arcisate|45.856|8.868|IT|Lombardy|78
+Verdellino|45.601|9.608|IT|Lombardy|78
+Brembate di Sopra|45.717|9.579|IT|Lombardy|78
+Sovico|45.646|9.263|IT|Lombardy|78
+Aadorf|47.492|8.901|CH|Thurgau|78
+Motta Visconti|45.288|8.993|IT|Lombardy|78
+Terno d'Isola|45.685|9.531|IT|Lombardy|78
+Curno|45.689|9.609|IT|Lombardy|78
+Lazzate|45.672|9.084|IT|Lombardy|78
+Oberentfelden|47.356|8.046|CH|Aargau|78
+Naters|46.325|7.989|CH|Valais|78
+Rovellasca|45.667|9.049|IT|Lombardy|78
+Regensdorf|47.434|8.469|CH|Zurich|78
+Lacchiarella|45.323|9.138|IT|Lombardy|78
+Villa Guardia|45.775|9.023|IT|Lombardy|77
+Mozzo|45.699|9.609|IT|Lombardy|77
+Villongo|45.669|9.931|IT|Lombardy|77
+Vedano al Lambro|45.609|9.268|IT|Lombardy|77
+Rothrist|47.305|7.892|CH|Aargau|77
+Verdello|45.604|9.629|IT|Lombardy|77
+Origgio|45.597|9.016|IT|Lombardy|77
+Cabiate|45.674|9.174|IT|Lombardy|77
+Basiglio|45.359|9.159|IT|Lombardy|77
+Inveruno|45.514|8.850|IT|Lombardy|77
+Pfäffikon|47.201|8.778|CH|Schwyz|77
+Mappano|45.148|7.708|IT|Piedmont|77
+Turbigo|45.531|8.737|IT|Lombardy|77
+Vanzago|45.526|8.991|IT|Lombardy|77
+Pandino|45.406|9.552|IT|Lombardy|77
+Marnate|45.629|8.909|IT|Lombardy|77
+Zanica|45.641|9.686|IT|Lombardy|77
+Chiavenna|46.321|9.398|IT|Lombardy|77
+Castellamonte|45.383|7.709|IT|Piedmont|77
+Colico Piano|46.132|9.377|IT|Lombardy|77
+Carnate|45.648|9.378|IT|Lombardy|77
+Rivolta d'Adda|45.470|9.513|IT|Lombardy|77
+Azzano San Paolo|45.658|9.673|IT|Lombardy|77
+Castiglione Olona|45.753|8.873|IT|Lombardy|77
+Siebnen|47.174|8.898|CH|Schwyz|77
+Binasco|45.331|9.094|IT|Lombardy|77
+Gravellona Toce|45.929|8.432|IT|Piedmont|77
+Bonate Sopra|45.682|9.560|IT|Lombardy|77
+Cologne|45.579|9.942|IT|Lombardy|77
+Bassersdorf|47.443|8.629|CH|Zurich|77
+Langnau am Albis|47.289|8.541|CH|Zurich|77
+Macherio|45.640|9.274|IT|Lombardy|77
+Olginate|45.791|9.419|IT|Lombardy|77
+Trino|45.195|8.296|IT|Piedmont|77
+Pino Torinese|45.040|7.777|IT|Piedmont|77
+Appiano Gentile|45.735|8.981|IT|Lombardy|77
+San Colombano al Lambro|45.183|9.490|IT|Lombardy|77
+Wollerau|47.195|8.719|CH|Schwyz|77
+Cavenago di Brianza|45.583|9.413|IT|Lombardy|77
+Gaggiano|45.405|9.035|IT|Lombardy|77
+Aarburg|47.321|7.900|CH|Aargau|77
+Igis|46.945|9.572|CH|Grisons|77
+Barlassina|45.656|9.129|IT|Lombardy|77
+Vedano Olona|45.776|8.888|IT|Lombardy|77
+Bellusco|45.620|9.419|IT|Lombardy|77
+Domat|46.835|9.451|CH|Grisons|77
+Cernobbio|45.843|9.072|IT|Lombardy|77
+Pregnana Milanese|45.516|9.007|IT|Lombardy|77
+San Giorgio Su Legnano|45.574|8.914|IT|Lombardy|77
+Windisch|47.479|8.218|CH|Aargau|77
+Au|47.431|9.634|CH|Saint Gallen|76
+Cassolnovo|45.361|8.812|IT|Lombardy|76
+Casatenovo|45.695|9.313|IT|Lombardy|76
+Frutigen|46.587|7.649|CH|Bern|76
+Mede|45.097|8.737|IT|Lombardy|76
+Minusio|46.178|8.815|CH|Ticino|76
+Villadossola|46.071|8.267|IT|Piedmont|76
+Zermatt|46.020|7.749|CH|Valais|76
+Altach|47.354|9.652|AT|Vorarlberg|76
+Buchs|47.394|8.082|CH|Aargau|76
+Spino d'Adda|45.401|9.487|IT|Lombardy|76
+Fara Gera d'Adda|45.557|9.537|IT|Lombardy|76
+Gränichen|47.359|8.102|CH|Aargau|76
+Bremgarten|47.351|8.342|CH|Aargau|76
+Meggen|47.047|8.375|CH|Lucerne|76
+Kilchberg|47.324|8.545|CH|Zurich|76
+Brembate|45.605|9.555|IT|Lombardy|76
+Cerano|45.409|8.784|IT|Piedmont|76
+Castrezzato|45.511|9.981|IT|Lombardy|76
+Arconate|45.541|8.849|IT|Lombardy|76
+Beinasco|45.025|7.586|IT|Piedmont|76
+Muri|47.274|8.339|CH|Aargau|76
+Ponteranica|45.732|9.652|IT|Lombardy|76
+Sirnach|47.462|8.998|CH|Thurgau|76
+Dornach|47.480|7.616|CH|Solothurn|76
+Gorle|45.701|9.714|IT|Lombardy|76
+Frastanz|47.217|9.630|AT|Vorarlberg|76
+Thal|47.467|9.566|CH|Saint Gallen|76
+Ruswil|47.084|8.126|CH|Lucerne|76
+Busnago|45.616|9.464|IT|Lombardy|76
+Villa di Serio|45.723|9.735|IT|Lombardy|76
+Venegono Superiore|45.752|8.897|IT|Lombardy|76
+Grabs|47.182|9.444|CH|Saint Gallen|76
+Casteggio|45.014|9.125|IT|Lombardy|76
+Olgiate Molgora|45.730|9.403|IT|Lombardy|76
+Corte Franca|45.630|9.988|IT|Lombardy|76
+Vill'Albese|45.797|9.189|IT|Lombardy|76
+Bonate Sotto|45.668|9.559|IT|Lombardy|76
+Grumello del Monte|45.635|9.875|IT|Lombardy|76
+Castelcovati|45.502|9.946|IT|Lombardy|76
+Trimbach|47.366|7.887|CH|Solothurn|76
+Belgioioso|45.159|9.313|IT|Lombardy|76
+Villa d'Almè|45.748|9.617|IT|Lombardy|76
+Scanzorosciate|45.711|9.735|IT|Lombardy|76
+Malters|47.036|8.182|CH|Lucerne|76
+Sarnico|45.671|9.962|IT|Lombardy|76
+Albiate|45.655|9.250|IT|Lombardy|76
+Pontoglio|45.569|9.853|IT|Lombardy|76
+Dietlikon / Dietlikon (Dorf)|47.418|8.619|CH|Zurich|76
+Villa Cortese|45.567|8.887|IT|Lombardy|76
+Zelo Buon Persico|45.412|9.432|IT|Lombardy|76
+Sargans|47.049|9.441|CH|Saint Gallen|76
+Cadorago-Caslino al Piano|45.727|9.038|IT|Lombardy|76
+Derendingen|47.199|7.588|CH|Solothurn|76
+Losone|46.169|8.759|CH|Ticino|76
+Venegono Inferiore|45.736|8.895|IT|Lombardy|76
+Rovello Porro|45.652|9.039|IT|Lombardy|76
+Ferno|45.615|8.757|IT|Lombardy|76
+Crescentino|45.199|8.086|IT|Piedmont|76
+Schaan|47.165|9.509|LI|Schaan|76
+Robbio|45.289|8.593|IT|Lombardy|76
+Robbiate|45.688|9.437|IT|Lombardy|76
+Neuenkirch|47.100|8.204|CH|Lucerne|76
+Albavilla|45.800|9.185|IT|Lombardy|75
+Grassobbio|45.657|9.726|IT|Lombardy|75
+Brignano Gera d'Adda|45.543|9.644|IT|Lombardy|75
+Ranica|45.723|9.713|IT|Lombardy|75
+Biasca|46.360|8.970|CH|Ticino|75
+Sissach|47.464|7.809|CH|Basel-Landschaft|75
+Gerbole|45.001|7.507|IT|Piedmont|75
+Balsthal|47.316|7.693|CH|Solothurn|75
+Pantigliate|45.435|9.352|IT|Lombardy|75
+Vergiate|45.722|8.695|IT|Lombardy|75
+Zollikon|47.340|8.574|CH|Zurich|75
+Oberengstringen|47.408|8.465|CH|Zurich|75
+Pedrengo|45.696|9.735|IT|Lombardy|75
+Ghisalba|45.594|9.758|IT|Lombardy|75
+Missaglia|45.707|9.335|IT|Lombardy|75
+Borgonovo Valtidone|45.014|9.443|IT|Emilia-Romagna|75
+Massagno|46.013|8.944|CH|Ticino|75
+Offanengo|45.379|9.742|IT|Lombardy|75
+Stäfa|47.243|8.723|CH|Zurich|75
+Gelterkinden|47.465|7.852|CH|Basel-Landschaft|75
+Casorate Sempione|45.671|8.745|IT|Lombardy|75
+Zogno|45.794|9.660|IT|Lombardy|75
+Teufen|47.391|9.386|CH|Appenzell Ausserrhoden|75
+Almenno San Salvatore|45.750|9.597|IT|Lombardy|75
+Ciserano|45.588|9.601|IT|Lombardy|75
+Almè|45.739|9.616|IT|Lombardy|75
+Sumirago|45.737|8.784|IT|Lombardy|75
+Uetendorf|46.774|7.573|CH|Bern|75
+Appenzell|47.331|9.410|CH|Appenzell Innerrhoden|75
+Cavaria Con Premezzo|45.692|8.803|IT|Lombardy|75
+Münchwilen|47.477|8.997|CH|Thurgau|75
+Oberuzwil|47.431|9.127|CH|Saint Gallen|75
+Cilavegna|45.311|8.745|IT|Lombardy|75
+Adligenswil|47.065|8.361|CH|Lucerne|75
+Tavernerio|45.801|9.141|IT|Lombardy|75
+Boltiere|45.601|9.578|IT|Lombardy|75
+Uznach|47.224|8.983|CH|Saint Gallen|75
+Spirano|45.581|9.669|IT|Lombardy|75
+Guanzate|45.728|9.020|IT|Lombardy|75
+Gandino|45.811|9.898|IT|Lombardy|75
+Adro|45.621|9.962|IT|Lombardy|75
+Buochs|46.974|8.423|CH|Nidwalden|75
+Herzogenbuchsee|47.188|7.706|CH|Bern|75
+Dairago|45.566|8.863|IT|Lombardy|75
+Lipomo|45.793|9.120|IT|Lombardy|75
+Heimberg|46.795|7.604|CH|Bern|75
+Würenlos|47.442|8.363|CH|Aargau|75
+Villmergen|47.350|8.248|CH|Aargau|75
+Carugo|45.708|9.197|IT|Lombardy|75
+Rudiano|45.490|9.886|IT|Lombardy|75
+Bolgare|45.632|9.814|IT|Lombardy|75
+Hergiswil|46.984|8.309|CH|Nidwalden|75
+Chiuduno|45.651|9.849|IT|Lombardy|75
+Varallo|45.814|8.258|IT|Piedmont|75
+Soncino|45.400|9.868|IT|Lombardy|75
+Menziken|47.240|8.190|CH|Aargau|75
+Diepoldsau|47.386|9.656|CH|Saint Gallen|75
+Sankt Margrethen|47.453|9.637|CH|Saint Gallen|75
+Solbiate Olona|45.650|8.882|IT|Lombardy|75
+Carnago|45.722|8.834|IT|Lombardy|75
+Buchrain|47.096|8.347|CH|Lucerne|75
+Kirchberg|47.085|7.583|CH|Bern|75
+Vanzaghello|45.580|8.782|IT|Lombardy|74
+Nole|45.242|7.570|IT|Piedmont|74
+Goldau|47.048|8.546|CH|Schwyz|74
+Cambiago|45.580|9.435|IT|Lombardy|74
+Altendorf|47.190|8.838|CH|Schwyz|74
+Besnate|45.699|8.767|IT|Lombardy|74
+Capiago-Intimiano-Olmeda|45.769|9.128|IT|Lombardy|74
+Lavena Ponte Tresa|45.967|8.857|IT|Lombardy|74
+Urtenen|47.027|7.501|CH|Bern|74
+Albizzate|45.727|8.803|IT|Lombardy|74
+Montanaro|45.233|7.855|IT|Piedmont|74
+Siziano|45.316|9.204|IT|Lombardy|74
+Küttigen|47.415|8.050|CH|Aargau|74
+Romentino|45.463|8.718|IT|Piedmont|74
+Palosco|45.589|9.836|IT|Lombardy|74
+Sannazzaro de' Burgondi|45.102|8.906|IT|Lombardy|74
+Triesen|47.108|9.528|LI|Triesen|74
+Alpnach|46.942|8.272|CH|Obwalden|74
+Kerns|46.901|8.275|CH|Obwalden|74
+San Benigno Canavese|45.226|7.784|IT|Piedmont|74
+Caluso|45.305|7.891|IT|Piedmont|74
+Vaduz|47.142|9.522|LI|Vaduz|74
+Tavazzano|45.328|9.405|IT|Lombardy|74
+Brusaporto|45.671|9.760|IT|Lombardy|74
+Casorezzo|45.523|8.902|IT|Lombardy|74
+Sumiswald|47.027|7.745|CH|Bern|74
+Rosate|45.350|9.017|IT|Lombardy|74
+Calcinate|45.620|9.798|IT|Lombardy|74
+Unterseen|46.685|7.847|CH|Bern|74
+Ceriano Laghetto|45.629|9.080|IT|Lombardy|74
+Rümlang|47.450|8.530|CH|Zurich|74
+Cosio Valtellino|46.135|9.552|IT|Lombardy|74
+Castiglione Torinese|45.119|7.807|IT|Piedmont|74
+Bottanuco|45.639|9.509|IT|Lombardy|74
+Barzanò|45.733|9.314|IT|Lombardy|74
+Bregnano|45.698|9.059|IT|Lombardy|74
+Canzo|45.849|9.271|IT|Lombardy|74
+Ascona|46.155|8.773|CH|Ticino|74
+Interlaken|46.684|7.866|CH|Bern|74
+Bad Ragaz|47.006|9.503|CH|Saint Gallen|74
+Pozzuolo Martesana|45.514|9.456|IT|Lombardy|74
+Gorla Maggiore|45.664|8.895|IT|Lombardy|74
+Greifensee|47.367|8.681|CH|Zurich|74
+Caponago|45.566|9.376|IT|Lombardy|74
+Herrliberg|47.291|8.615|CH|Zurich|74
+Brig|46.317|7.983|CH|Valais|74
+Walenstadt|47.124|9.312|CH|Saint Gallen|74
+Landriano|45.312|9.260|IT|Lombardy|74
+Cividate al Piano|45.555|9.830|IT|Lombardy|74
+Ettingen|47.482|7.547|CH|Basel-Landschaft|74
+Nüziders|47.167|9.800|AT|Vorarlberg|74
+Arosio|45.719|9.208|IT|Lombardy|74
+St. Moritz|46.499|9.843|CH|Grisons|74
+Osio Sopra|45.629|9.585|IT|Lombardy|74
+Oetwil|47.270|8.720|CH|Zurich|74
+Presezzo|45.692|9.570|IT|Lombardy|74
+Canova-San Zeno|45.721|9.400|IT|Lombardy|74
+Jerago Con Orago|45.705|8.796|IT|Lombardy|74
+Gorlago|45.674|9.823|IT|Lombardy|74
+Lausen|47.471|7.760|CH|Basel-Landschaft|74
+Lurago d'Erba|45.751|9.218|IT|Lombardy|74
+Mapello|45.713|9.554|IT|Lombardy|74
+Caronno Varesino|45.736|8.832|IT|Lombardy|74
+Gerlafingen|47.171|7.572|CH|Solothurn|74
+Santa Margherita|45.634|9.230|IT|Lombardy|74
+Schattdorf|46.865|8.655|CH|Uri|74
+Ebnat-Kappel|47.262|9.125|CH|Saint Gallen|74
+Flums|47.091|9.343|CH|Saint Gallen|74
+Au|47.242|8.644|CH|Zurich|74
+Cisano Bergamasco|45.742|9.471|IT|Lombardy|74
+Birmensdorf|47.355|8.443|CH|Zurich|74
+Calcio|45.508|9.849|IT|Lombardy|74
+Sennwald|47.261|9.503|CH|Saint Gallen|74
+Talamona|46.138|9.613|IT|Lombardy|74
+San Paolo d'Argon|45.688|9.802|IT|Lombardy|74
+Vidigulfo|45.292|9.235|IT|Lombardy|74
+Schönenwerd|47.369|8.002|CH|Solothurn|74
+Angera|45.776|8.579|IT|Lombardy|73
+Telgate|45.628|9.849|IT|Lombardy|73
+Vertova|45.810|9.849|IT|Lombardy|73
+Wangen|47.344|7.870|CH|Solothurn|73
+Strambino|45.380|7.890|IT|Piedmont|73
+Dielsdorf|47.481|8.459|CH|Zurich|73
+Arsago Seprio|45.688|8.735|IT|Lombardy|73
+Santo Stefano Ticino|45.486|8.916|IT|Lombardy|73
+Buscate|45.544|8.813|IT|Lombardy|73
+Serravalle Sesia|45.685|8.309|IT|Piedmont|73
+Marcallo|45.483|8.872|IT|Lombardy|73
+Rüschlikon|47.307|8.551|CH|Zurich|73
+Meiringen|46.727|8.187|CH|Bern|73
+Huttwil|47.115|7.862|CH|Bern|73
+Robecchetto Con Induno|45.528|8.771|IT|Lombardy|73
+Trezzano Rosa|45.582|9.486|IT|Lombardy|73
+Brivio|45.737|9.442|IT|Lombardy|73
+Favria|45.331|7.688|IT|Piedmont|73
+Balzers|47.067|9.504|LI|Balzers|73
+Regoledo|46.133|9.546|IT|Lombardy|73
+Vechigen|46.946|7.561|CH|Bern|73
+Carvico|45.702|9.486|IT|Lombardy|73
+Figino Serenza|45.710|9.131|IT|Lombardy|73
+Oensingen|47.288|7.716|CH|Solothurn|73
+Castiglione d'Adda|45.217|9.693|IT|Lombardy|73
+Gozzano|45.743|8.437|IT|Piedmont|73
+Bagnolo Cremasco|45.361|9.613|IT|Lombardy|73
+Casnate Con Bernate|45.756|9.073|IT|Lombardy|73
+Koblach|47.333|9.600|AT|Vorarlberg|73
+Konolfingen|46.879|7.620|CH|Bern|73
+Arcene|45.577|9.615|IT|Lombardy|73
+Binago|45.782|8.922|IT|Lombardy|73
+Civesio|45.396|9.267|IT|Lombardy|73
+Pradalunga|45.746|9.782|IT|Lombardy|73
+Bubendorf|47.446|7.738|CH|Basel-Landschaft|73
+Varallo Pombia|45.668|8.629|IT|Piedmont|73
+Villa d'Adda|45.714|9.462|IT|Lombardy|73
+Berikon|47.352|8.372|CH|Aargau|73
+Erlenbach|47.303|8.597|CH|Zurich|73
+Galbiate|45.816|9.379|IT|Lombardy|73
+Sachseln|46.867|8.233|CH|Obwalden|73
+Ispra|45.815|8.613|IT|Lombardy|73
+Lomagna|45.666|9.377|IT|Lombardy|73
+Bronschhofen|47.478|9.035|CH|Saint Gallen|73
+Osnago|45.675|9.392|IT|Lombardy|73
+Dorno|45.154|8.951|IT|Lombardy|73
+Leffe|45.798|9.884|IT|Lombardy|73
+Mozzanica|45.477|9.688|IT|Lombardy|73
+Stansstad|46.977|8.336|CH|Nidwalden|73
+Ornago|45.600|9.421|IT|Lombardy|73
+Eschen|47.211|9.522|LI|Eschen|73
+Azzate|45.778|8.794|IT|Lombardy|73
+Gazzada Schianno|45.780|8.833|IT|Lombardy|73
+Cannobio|46.062|8.696|IT|Piedmont|73
+Pontirolo Nuovo|45.569|9.569|IT|Lombardy|73
+Zumikon|47.332|8.623|CH|Zurich|73
+Almenno San Bartolomeo|45.739|9.581|IT|Lombardy|73
+Colombaro-Timoline|45.644|9.994|IT|Lombardy|73
+Oberrieden|47.274|8.578|CH|Zurich|73
+Seon|47.348|8.161|CH|Aargau|73
+Lonate Ceppino|45.709|8.879|IT|Lombardy|73
+Mauren|47.218|9.544|LI|Mauren|73
+Sevelen|47.122|9.486|CH|Saint Gallen|73
+Gropello Cairoli|45.177|8.994|IT|Lombardy|73
+Paratico|45.659|9.958|IT|Lombardy|73
+San Francesco al Campo|45.227|7.655|IT|Piedmont|73
+Nenzing|47.184|9.705|AT|Vorarlberg|73
+Vailate|45.462|9.603|IT|Lombardy|73
+Strengelbach|47.279|7.929|CH|Aargau|73
+Sigriswil|46.717|7.713|CH|Bern|73
+Hägendorf|47.335|7.841|CH|Solothurn|73
+Chatillon|45.750|7.617|IT|Aosta Valley|73
+Morbio Inferiore|45.849|9.019|CH|Ticino|73
+Rogoredo-Valaperta-Rimoldo|45.677|9.333|IT|Lombardy|73
+Veduggio Con Colzano|45.734|9.270|IT|Lombardy|73
+Cassago Brianza|45.738|9.293|IT|Lombardy|73
+Montano Lucino|45.784|9.042|IT|Lombardy|73
+Castelvetro Piacentino|45.102|9.990|IT|Emilia-Romagna|73
+Oggiona con Santo Stefano|45.704|8.817|IT|Lombardy|73
+Gossau|47.305|8.758|CH|Zurich|73
+Porlezza|46.037|9.129|IT|Lombardy|73
+Ponte Lambro|45.825|9.225|IT|Lombardy|73
+Bariano|45.513|9.704|IT|Lombardy|73
+Carobbio|45.664|9.830|IT|Lombardy|73
+Riviera|46.131|8.717|CH|Ticino|73
+Misinto|45.661|9.081|IT|Lombardy|73
+Ennetbürgen|46.984|8.410|CH|Nidwalden|73
+Triuggio|45.661|9.267|IT|Lombardy|73
+Zuzwil|47.475|9.112|CH|Saint Gallen|73
+Mellingen|47.419|8.273|CH|Aargau|73
+Burago di Molgora|45.596|9.382|IT|Lombardy|73
+Crevoladossola|46.149|8.297|IT|Piedmont|72
+Malgrate|45.849|9.376|IT|Lombardy|72
+Feusisberg|47.187|8.747|CH|Schwyz|72
+Pizzighettone|45.187|9.788|IT|Lombardy|72
+Triengen|47.236|8.077|CH|Lucerne|72
+Zollikerberg|47.345|8.601|CH|Zurich|72
+Monticello Brianza|45.709|9.316|IT|Lombardy|72
+Engelberg|46.821|8.401|CH|Obwalden|72
+Schwerzenbach|47.382|8.657|CH|Zurich|72
+Renate|45.724|9.280|IT|Lombardy|72
+Robecco sul Naviglio|45.437|8.886|IT|Lombardy|72
+San Fermo della Battaglia|45.809|9.047|IT|Lombardy|72
+Aarwangen|47.238|7.769|CH|Bern|72
+Morazzone|45.764|8.828|IT|Lombardy|72
+Rebstein|47.398|9.585|CH|Saint Gallen|72
+Rupperswil|47.401|8.129|CH|Aargau|72
+Ossona|45.507|8.893|IT|Lombardy|72
+Vighignolo|45.495|9.043|IT|Lombardy|72
+Albese Con Cassano|45.795|9.164|IT|Lombardy|72
+Lallio|45.663|9.629|IT|Lombardy|72
+Locate Varesino|45.690|8.930|IT|Lombardy|72
+Merone|45.787|9.244|IT|Lombardy|72
+Mezzago|45.629|9.445|IT|Lombardy|72
+Gebenstorf|47.481|8.239|CH|Aargau|72
+Canonica d'Adda|45.576|9.542|IT|Lombardy|72
+Comun Nuovo|45.623|9.662|IT|Lombardy|72
+San Martino Siccomario|45.163|9.141|IT|Lombardy|72
+Kölliken|47.333|8.022|CH|Aargau|72
+Bisuschio|45.871|8.868|IT|Lombardy|72
+Wängi|47.497|8.953|CH|Thurgau|72
+Wolhusen|47.060|8.074|CH|Lucerne|72
+Albairate|45.420|8.937|IT|Lombardy|72
+Klosters Serneus|46.889|9.838|CH|Grisons|72
+Obfelden|47.264|8.421|CH|Zurich|72
+Lützelflüh|47.008|7.692|CH|Bern|72
+Mäder|47.350|9.617|AT|Vorarlberg|72
+Fontanella|45.469|9.802|IT|Lombardy|72
+Jegenstorf|47.048|7.508|CH|Bern|72
+Mongrando|45.528|8.007|IT|Piedmont|72
+Niederlenz|47.401|8.176|CH|Aargau|72
+Sulbiate|45.640|9.428|IT|Lombardy|72
+Balgach|47.406|9.607|CH|Saint Gallen|72
+Massalengo-Motta Vigana|45.265|9.490|IT|Lombardy|72
+Civate|45.828|9.343|IT|Lombardy|72
+Oberrohrdorf|47.418|8.320|CH|Aargau|72
+Heiden|47.443|9.533|CH|Appenzell Ausserrhoden|72
+Borgo Ticino|45.689|8.604|IT|Piedmont|72
+Bürglen|46.876|8.665|CH|Uri|72
+Boffalora Sopra Ticino|45.467|8.831|IT|Lombardy|72
+Casazza|45.749|9.906|IT|Lombardy|72
+Speicher|47.411|9.443|CH|Appenzell Ausserrhoden|72
+Stresa|45.882|8.538|IT|Piedmont|72
+Paladina|45.731|9.606|IT|Lombardy|72
+Näfels|47.098|9.064|CH|Glarus|72
+Castronno|45.748|8.814|IT|Lombardy|72
+Gordola|46.183|8.867|CH|Ticino|72
+Trivero-Prativero-Ponzone|45.660|8.174|IT|Piedmont|72
+Saint-Vincent|45.751|7.648|IT|Aosta Valley|72
+Grignasco|45.680|8.344|IT|Piedmont|72
+San Bovio-San Felice|45.463|9.313|IT|Lombardy|72
+Schwarzach|47.449|9.762|AT|Vorarlberg|72
+Ballabio|45.896|9.423|IT|Lombardy|72
+Reiden|47.247|7.971|CH|Lucerne|72
+Livorno Ferraris|45.283|8.078|IT|Piedmont|72
+Madone|45.650|9.550|IT|Lombardy|72
+Baveno|45.908|8.500|IT|Piedmont|72
+Stabio|45.848|8.936|CH|Ticino|72
+Calvenzano|45.496|9.600|IT|Lombardy|72
+Vertemate Con Minoprio|45.725|9.073|IT|Lombardy|72
+Occhieppo Inferiore|45.550|8.021|IT|Piedmont|72
+Root|47.115|8.390|CH|Lucerne|72
+Bolladello-Peveranza|45.686|8.845|IT|Lombardy|72
+Birr|47.434|8.209|CH|Aargau|72
+Cocquio|45.863|8.688|IT|Lombardy|72
+Cigliano|45.308|8.023|IT|Piedmont|72
+Menzingen|47.178|8.592|CH|Zug|72
+Erstfeld|46.819|8.651|CH|Uri|72
+Fußach|47.479|9.663|AT|Vorarlberg|72
+Weggis|47.032|8.432|CH|Lucerne|72
+Niederbipp|47.272|7.696|CH|Bern|72
+Cittiglio|45.896|8.666|IT|Lombardy|72
+Niedergösgen|47.372|7.988|CH|Solothurn|72
+Cene|45.781|9.827|IT|Lombardy|72
+Wichtrach|46.850|7.577|CH|Bern|72
+Hilterfingen|46.735|7.662|CH|Bern|72
+Roncello|45.602|9.455|IT|Lombardy|72
+Suisio|45.657|9.502|IT|Lombardy|72
+Pont-Saint-Martin|45.595|7.795|IT|Aosta Valley|72
+San Pellegrino Terme|45.834|9.668|IT|Lombardy|72
+Schruns|47.080|9.919|AT|Vorarlberg|72
+Casciago|45.832|8.783|IT|Lombardy|72
+Casarile|45.317|9.104|IT|Lombardy|72
+Kaltbrunn|47.214|9.026|CH|Saint Gallen|72
+Liscate|45.483|9.410|IT|Lombardy|72
+Degersheim|47.374|9.200|CH|Saint Gallen|72
+Rudolfstetten|47.371|8.381|CH|Aargau|72
+Vaiano Cremasco|45.371|9.588|IT|Lombardy|72
+Bulgarograsso|45.747|9.006|IT|Lombardy|72
+Mesero|45.502|8.855|IT|Lombardy|72
+Paderno d'Adda|45.679|9.445|IT|Lombardy|72
+Cernusco Lombardone|45.691|9.399|IT|Lombardy|72
+Gazzaniga|45.793|9.830|IT|Lombardy|72
+Costa Masnaga|45.770|9.276|IT|Lombardy|72
+Fehraltorf|47.388|8.751|CH|Zurich|72
+Sempach|47.136|8.191|CH|Lucerne|71
+Lostorf|47.384|7.947|CH|Solothurn|71
+Borgo San Giacomo|45.348|9.968|IT|Lombardy|71
+Brittnau|47.260|7.947|CH|Aargau|71
+Feldmeilen|47.279|8.622|CH|Zurich|71
+Grindelwald|46.624|8.036|CH|Bern|71
+Schüpfheim|46.952|8.017|CH|Lucerne|71
+Bellinzago Lombardo|45.542|9.446|IT|Lombardy|71
+Cantello|45.822|8.896|IT|Lombardy|71
+Taino|45.762|8.617|IT|Lombardy|71
+Zibido San Giacomo|45.360|9.111|IT|Lombardy|71
+Brüttisellen|47.422|8.633|CH|Zurich|71
+Germignaga|45.991|8.724|IT|Lombardy|71
+Gravedona-San Gregorio|46.146|9.301|IT|Lombardy|71
+Alzate Brianza|45.770|9.182|IT|Lombardy|71
+Vermezzo|45.396|8.979|IT|Lombardy|71
+Covo|45.499|9.771|IT|Lombardy|71
+Geroldswil|47.422|8.411|CH|Zurich|71
+Matten|46.678|7.869|CH|Bern|71
+Roggwil|47.241|7.821|CH|Bern|71
+Uggiate Trevano|45.823|8.960|IT|Lombardy|71
+Dovera|45.364|9.544|IT|Lombardy|71
+Niederurnen|47.126|9.054|CH|Glarus|71
+Caslano|45.974|8.877|CH|Ticino|71
+Mathi|45.255|7.542|IT|Piedmont|71
+Casalbuttano|45.252|9.962|IT|Lombardy|71
+Agno|45.999|8.900|CH|Ticino|71
+Basiano|45.582|9.463|IT|Lombardy|71
+Niederglatt|47.491|8.500|CH|Zurich|71
+Utzenstorf|47.132|7.554|CH|Bern|71
+Ponderano|45.538|8.056|IT|Piedmont|71
+Agnadello|45.445|9.554|IT|Lombardy|71
+Sins|47.193|8.394|CH|Aargau|71
+Romagnano Sesia|45.633|8.387|IT|Piedmont|71
+Bagnatica|45.661|9.781|IT|Lombardy|71
+Oberglatt|47.476|8.519|CH|Zurich|71
+Giswil|46.833|8.181|CH|Obwalden|71
+Quarona|45.760|8.267|IT|Piedmont|71
+Gaglianico|45.537|8.078|IT|Piedmont|71
+Muotathal|46.977|8.765|CH|Schwyz|71
+Casirate d'Adda|45.495|9.569|IT|Lombardy|71
+Gossolengo|45.002|9.618|IT|Emilia-Romagna|71
+Adelboden|46.491|7.560|CH|Bern|71
+Piazza Caduti|45.705|9.503|IT|Lombardy|71
+Cava Manara|45.140|9.108|IT|Lombardy|71
+Langendorf|47.220|7.515|CH|Solothurn|71
+Invorio|45.757|8.487|IT|Piedmont|71
+Urago d'Oglio|45.516|9.870|IT|Lombardy|71
+Dättwil|47.455|8.285|CH|Aargau|71
+Ibach|47.011|8.645|CH|Schwyz|71
+Ghemme|45.599|8.420|IT|Piedmont|71
+Mörschwil|47.471|9.423|CH|Saint Gallen|71
+Sergnano|45.428|9.701|IT|Lombardy|71
+Cizzago-Comezzano|45.469|9.958|IT|Lombardy|71
+Scano al Brembo|45.719|9.609|IT|Lombardy|71
+Balerna|45.846|9.007|CH|Ticino|71
+Faloppio|45.810|8.964|IT|Lombardy|71
+Monticelli d'Ongina|45.089|9.934|IT|Emilia-Romagna|71
+Forno Canavese|45.343|7.590|IT|Piedmont|71
+Mombretto|45.424|9.365|IT|Lombardy|71
+Uetikon|47.264|8.679|CH|Zurich|71
+Eschlikon|47.464|8.964|CH|Thurgau|71
+Muhen|47.336|8.055|CH|Aargau|71
+Dubino|46.167|9.430|IT|Lombardy|71
+Dongo|46.130|9.282|IT|Lombardy|71
+Schänis|47.160|9.045|CH|Saint Gallen|71
+Cisliano|45.444|8.987|IT|Lombardy|71
+Cucciago|45.739|9.093|IT|Lombardy|71
+Bütschwil|47.360|9.072|CH|Saint Gallen|71
+Tromello|45.209|8.871|IT|Lombardy|71
+Montalto Dora|45.490|7.863|IT|Piedmont|71
+Pernate|45.460|8.678|IT|Piedmont|71
+Leuk|46.317|7.634|CH|Valais|71
+San Giusto Canavese|45.315|7.810|IT|Piedmont|71
+Ludesch|47.200|9.783|AT|Vorarlberg|71
+Caorso|45.049|9.875|IT|Emilia-Romagna|71
+Ronco Briantino|45.666|9.405|IT|Lombardy|71
+Pavone Canavese|45.442|7.853|IT|Piedmont|71
+San Martino in Strada|45.275|9.526|IT|Lombardy|71
+Berbenno di Valtellina|46.166|9.747|IT|Lombardy|71
+Cairate|45.688|8.868|IT|Lombardy|71
+Carpiano|45.340|9.274|IT|Lombardy|71
+Asso|45.861|9.267|IT|Lombardy|70
+Marchirolo|45.948|8.833|IT|Lombardy|70
+Certosa di Pavia|45.254|9.133|IT|Lombardy|70
+Borghetto Lodigiano|45.213|9.499|IT|Lombardy|70
+Göfis|47.234|9.635|AT|Vorarlberg|70
+Schöftland|47.306|8.051|CH|Aargau|70
+Pompiano|45.431|9.989|IT|Lombardy|70
+Schmerikon|47.225|8.948|CH|Saint Gallen|70
+Maslianico|45.843|9.048|IT|Lombardy|70
+Sotto il Monte Giovanni XXIII|45.706|9.503|IT|Lombardy|70
+Dagmersellen|47.214|7.985|CH|Lucerne|70
+Rheineck|47.466|9.590|CH|Saint Gallen|70
+Masate|45.567|9.464|IT|Lombardy|70
+Entlebuch|46.996|8.064|CH|Lucerne|70
+Luterbach|47.214|7.585|CH|Solothurn|70
+Seengen|47.325|8.207|CH|Aargau|70
+Elgg|47.497|8.865|CH|Zurich|70
+Uitikon|47.369|8.457|CH|Zurich|70
+Bürs|47.150|9.800|AT|Vorarlberg|70
+Banchette|45.454|7.856|IT|Piedmont|70
+Walchwil|47.102|8.517|CH|Zug|70
+Biandronno|45.813|8.709|IT|Lombardy|70
+Vigliano-Bettolino|45.433|9.344|IT|Lombardy|70
+Pont Canavese|45.421|7.600|IT|Piedmont|70
+Torre del Mangano|45.252|9.130|IT|Lombardy|70
+Hausen am Albis / Hausen (Dorf)|47.245|8.533|CH|Zurich|70
+Levate|45.625|9.624|IT|Lombardy|70
+Delebio|46.136|9.462|IT|Lombardy|70
+Alberschwende|47.450|9.832|AT|Vorarlberg|70
+Breitenbach|47.407|7.546|CH|Solothurn|70
+Roccafranca|45.464|9.913|IT|Lombardy|70
+Schötz|47.169|7.989|CH|Lucerne|70
+Oberkirch|47.156|8.116|CH|Lucerne|70
+Bosisio Parini|45.801|9.290|IT|Lombardy|70
+Travedona Monate|45.804|8.671|IT|Lombardy|70
+Jonschwil|47.424|9.087|CH|Saint Gallen|70
+San Zenone al Lambro|45.327|9.356|IT|Lombardy|70
+Safenwil|47.322|7.983|CH|Aargau|70
+Escholzmatt|46.913|7.934|CH|Lucerne|70
+Sant'Omobono Terme|45.808|9.536|IT|Lombardy|70
+Menaggio|46.021|9.239|IT|Lombardy|70
+Schindellegi|47.175|8.713|CH|Schwyz|70
+Samstagern|47.192|8.682|CH|Zurich|70
+Randogne|46.310|7.501|CH|Valais|70
+Montello|45.672|9.806|IT|Lombardy|70
+Sordio|45.342|9.364|IT|Lombardy|70
+Mulazzano|45.372|9.398|IT|Lombardy|70
+Waldkirch|47.469|9.287|CH|Saint Gallen|70
+Dottikon|47.384|8.240|CH|Aargau|70
+Klaus|47.309|9.647|AT|Vorarlberg|70
+Vizzolo Predabissi|45.356|9.348|IT|Lombardy|70
+Fenegrò|45.702|9.000|IT|Lombardy|70
+Turbenthal|47.436|8.846|CH|Zurich|70
+Valgreghentino|45.779|9.413|IT|Lombardy|70
+Gipf-Oberfrick|47.499|8.005|CH|Aargau|70
+Unterkulm|47.310|8.114|CH|Aargau|70
+Tribiano|45.413|9.377|IT|Lombardy|70
+Buguggiate|45.782|8.811|IT|Lombardy|70
+Viggiù|45.871|8.909|IT|Lombardy|70
+Brienz|46.755|8.038|CH|Bern|70
+Monticello|45.712|9.315|IT|Lombardy|70
+Brebbia|45.830|8.650|IT|Lombardy|70
+Wald|47.276|8.914|CH|Zurich|70
+Chiesa|45.690|9.913|IT|Lombardy|70
+Fiorano al Serio|45.800|9.843|IT|Lombardy|70
+Ornavasso|45.968|8.416|IT|Piedmont|70
+Ardenno|46.167|9.647|IT|Lombardy|70
+Beckenried|46.967|8.476|CH|Nidwalden|70
+Bellano|46.044|9.307|IT|Lombardy|70
+Casnigo|45.813|9.869|IT|Lombardy|70
+Fizzonasco|45.372|9.191|IT|Lombardy|70
+Murgenthal|47.271|7.839|CH|Aargau|70
+Steinen|47.050|8.612|CH|Schwyz|70
+Cuveglio|45.906|8.733|IT|Lombardy|70
+Mezzate|45.444|9.295|IT|Lombardy|70
+Tann|47.269|8.850|CH|Zurich|70
+Calco|45.724|9.413|IT|Lombardy|70
+Caleppio|45.434|9.383|IT|Lombardy|70
+Andorno Cacciorna|45.611|8.056|IT|Piedmont|70
+Ceresane-Curanuova|45.524|8.007|IT|Piedmont|70
+Leggiuno|45.876|8.621|IT|Lombardy|70
+Solbiate Arno|45.720|8.814|IT|Lombardy|70
+Mollis|47.089|9.072|CH|Glarus|70
+San Carlo Canavese|45.245|7.606|IT|Piedmont|70
+Briga Novarese|45.729|8.456|IT|Piedmont|70
+Zizers|46.936|9.565|CH|Grisons|70
+San Genesio ed Uniti|45.234|9.180|IT|Lombardy|70
+Tronzano Vercellese|45.342|8.174|IT|Piedmont|70
+Daverio|45.778|8.773|IT|Lombardy|70
+Saluggia|45.237|8.015|IT|Piedmont|70
+Costa di Mezzate|45.663|9.796|IT|Lombardy|70
+Turgi|47.492|8.254|CH|Aargau|69
+Gattico|45.707|8.520|IT|Piedmont|69
+Gams|47.204|9.442|CH|Saint Gallen|69
+Dresano|45.373|9.358|IT|Lombardy|69
+Illnau|47.411|8.721|CH|Zurich|69
+Fornovo San Giovanni|45.497|9.677|IT|Lombardy|69
+Chignolo d'Isola|45.668|9.528|IT|Lombardy|69
+Grosswangen|47.133|8.050|CH|Lucerne|69
+Mosnang|47.363|9.043|CH|Saint Gallen|69
+Villanterio|45.218|9.361|IT|Lombardy|69
+Egerkingen|47.320|7.784|CH|Solothurn|69
+Romanengo|45.378|9.788|IT|Lombardy|69
+Borgofranco d'Ivrea|45.516|7.859|IT|Piedmont|69
+Porto Ceresio|45.913|8.897|IT|Lombardy|69
+Cura Carpignano|45.212|9.256|IT|Lombardy|69
+Antegnate|45.486|9.791|IT|Lombardy|69
+Nottwil|47.135|8.138|CH|Lucerne|69
+Briosco|45.710|9.241|IT|Lombardy|69
+Castelverde|45.188|9.997|IT|Lombardy|69
+Oberburg|47.037|7.627|CH|Bern|69
+Netstal|47.063|9.057|CH|Glarus|69
+Buttisholz|47.114|8.094|CH|Lucerne|69
+Stettlen|46.958|7.525|CH|Bern|69
+Cavallasca|45.810|9.033|IT|Lombardy|69
+San Rocco al Porto|45.082|9.697|IT|Lombardy|69
+Hausen|47.464|8.210|CH|Aargau|69
+Beromünster|47.206|8.193|CH|Lucerne|69
+Reichenburg|47.171|8.977|CH|Schwyz|69
+Veniano|45.716|8.985|IT|Lombardy|69
+Cugliate-Fabiasco|45.946|8.819|IT|Lombardy|69
+Carlazzo|46.042|9.165|IT|Lombardy|69
+Novedrate|45.698|9.121|IT|Lombardy|69
+Obermeilen|47.266|8.656|CH|Zurich|69
+Saltrio|45.873|8.924|IT|Lombardy|69
+Balangero|45.270|7.519|IT|Piedmont|69
+Maleo|45.166|9.762|IT|Lombardy|69
+Erbusco|45.599|9.972|IT|Lombardy|69
+Oberdiessbach|46.841|7.617|CH|Bern|69
+Subingen|47.199|7.619|CH|Solothurn|69
+Rohr|47.410|7.953|CH|Solothurn|69
+Niederhasli|47.480|8.486|CH|Zurich|69
+Foresto Sparso|45.691|9.920|IT|Lombardy|69
+Bulciago|45.751|9.285|IT|Lombardy|69
+San Giovanni Bianco|45.873|9.654|IT|Lombardy|69
+Hedingen|47.298|8.448|CH|Zurich|69
+Trimmis|46.901|9.561|CH|Grisons|69
+Samolaco|46.242|9.394|IT|Lombardy|69
+Trescore Cremasco|45.403|9.623|IT|Lombardy|69
+Castel Rozzone|45.552|9.620|IT|Lombardy|69
+Bellagio|45.988|9.262|IT|Lombardy|69
+Carbonate|45.685|8.938|IT|Lombardy|69
+Signau|46.919|7.724|CH|Bern|69
+Muralto|46.173|8.802|CH|Ticino|69
+Torchione-Moia|46.155|9.860|IT|Lombardy|69
+San Raffaele Cimena|45.147|7.849|IT|Piedmont|69
+Pozzo d'Adda|45.573|9.503|IT|Lombardy|69
+Sesto ed Uniti|45.176|9.914|IT|Lombardy|69
+Misano di Gera d'Adda|45.469|9.621|IT|Lombardy|69
+Grezzago|45.591|9.497|IT|Lombardy|69
+Vercurago|45.809|9.422|IT|Lombardy|69
+Rogeno|45.782|9.274|IT|Lombardy|69
+Romano Canavese|45.399|7.869|IT|Piedmont|69
+Wattenwil|46.770|7.508|CH|Bern|69
+Bosconero|45.266|7.766|IT|Piedmont|69
+Niederrohrdorf|47.424|8.304|CH|Aargau|69
+Gommiswald|47.231|9.024|CH|Saint Gallen|69
+Mönchaltorf|47.310|8.720|CH|Zurich|69
+Gais|47.361|9.454|CH|Appenzell Ausserrhoden|69
+Somaglia|45.149|9.633|IT|Lombardy|69
+Airuno|45.754|9.428|IT|Lombardy|69
+Schafisheim|47.377|8.143|CH|Aargau|69
+Limido Comasco|45.689|8.980|IT|Lombardy|69
+Bätterkinden|47.132|7.538|CH|Bern|69
+Cavaglià|45.406|8.092|IT|Piedmont|69
+Torrazza Piemonte|45.215|7.977|IT|Piedmont|69
+Mornico al Serio|45.591|9.809|IT|Lombardy|69
+Prata Camportaccio|46.307|9.395|IT|Lombardy|69
+Volketswil / Volketswil (Dorf)|47.390|8.691|CH|Zurich|69
+Bressana|45.078|9.131|IT|Lombardy|69
+Quarten|47.107|9.242|CH|Saint Gallen|69
+Rickenbach bei Wil|47.449|9.049|CH|Thurgau|69
+Grandate|45.767|9.053|IT|Lombardy|69
+Trecella|45.515|9.479|IT|Lombardy|69
+Satteins|47.217|9.667|AT|Vorarlberg|69
+Miradolo Terme|45.171|9.444|IT|Lombardy|69
+Lauperswil|46.966|7.742|CH|Bern|69
+Samedan|46.534|9.873|CH|Grisons|69
+Ennenda|47.034|9.079|CH|Glarus|69
+Sementina|46.184|8.992|CH|Ticino|69
+Verderio Inferiore|45.666|9.433|IT|Lombardy|69
+Cenate di Sotto|45.699|9.826|IT|Lombardy|69
+Passirana|45.548|9.044|IT|Lombardy|69
+Dervio|46.077|9.307|IT|Lombardy|69
+Luisago|45.763|9.035|IT|Lombardy|69
+Unterengstringen|47.414|8.448|CH|Zurich|69
+Tuggen|47.203|8.949|CH|Schwyz|69
+Niederhelfenschwil|47.475|9.185|CH|Saint Gallen|69
+Cantalupo|45.578|8.983|IT|Lombardy|69
+Sarmato|45.057|9.497|IT|Emilia-Romagna|69
+Chalais|46.268|7.511|CH|Valais|69
+San Maurizio D'Opaglio|45.773|8.396|IT|Piedmont|69
+Gemonio|45.879|8.675|IT|Lombardy|69
+Bonaduz|46.811|9.398|CH|Grisons|68
+Cunardo|45.934|8.808|IT|Lombardy|68
+Parre|45.875|9.891|IT|Lombardy|68
+Lauterbrunnen|46.593|7.909|CH|Bern|68
+Triesenberg|47.118|9.542|LI|Triesenberg|68
+Vandans|47.096|9.865|AT|Vorarlberg|68
+Albignano|45.501|9.493|IT|Lombardy|68
+Zunzgen|47.449|7.808|CH|Basel-Landschaft|68
+San Gillio|45.141|7.533|IT|Piedmont|68
+Menznau|47.084|8.040|CH|Lucerne|68
+Schenkon|47.178|8.132|CH|Lucerne|68
+Arzago d'Adda|45.481|9.564|IT|Lombardy|68
+Dormelletto|45.736|8.567|IT|Piedmont|68
+Abbadia Lariana|45.899|9.335|IT|Lombardy|68
+Lenzerheide|46.722|9.559|CH|Grisons|68
+Salerano sul Lambro|45.297|9.385|IT|Lombardy|68
+Garlate|45.812|9.400|IT|Lombardy|68
+Correzzana|45.667|9.308|IT|Lombardy|68
+Filago|45.638|9.556|IT|Lombardy|68
+Verolengo|45.190|7.971|IT|Piedmont|68
+Madignano|45.345|9.723|IT|Lombardy|68
+Thusis|46.697|9.439|CH|Grisons|68
+Andelsbuch|47.412|9.893|AT|Vorarlberg|68
+Cassina Rizzardi|45.752|9.025|IT|Lombardy|68
+Gallo-Tre Re-Mezzana Corti|45.126|9.122|IT|Lombardy|68
+Carpignano Sesia|45.533|8.417|IT|Piedmont|68
+Muzza di Cornegliano Laudense|45.285|9.472|IT|Lombardy|68
+Osigo|45.875|9.296|IT|Lombardy|68
+Eggiwil|46.876|7.796|CH|Bern|68
+Pontida|45.731|9.511|IT|Lombardy|68
+Fischingen|47.414|8.969|CH|Thurgau|68
+Pianengo|45.402|9.695|IT|Lombardy|68
+Valperga|45.370|7.661|IT|Piedmont|68
+Verderio Superiore|45.668|9.440|IT|Lombardy|68
+Montodine|45.284|9.709|IT|Lombardy|68
+Schwanden|46.995|9.070|CH|Glarus|68
+Poasco-Sorigherio|45.403|9.231|IT|Lombardy|68
+Flims|46.837|9.285|CH|Grisons|68
+Rovetta|45.892|9.982|IT|Lombardy|68
+Gaggino|45.808|8.964|IT|Lombardy|68
+Montorfano|45.786|9.144|IT|Lombardy|68
+Caravate|45.879|8.654|IT|Lombardy|68
+Sulz|47.287|9.652|AT|Vorarlberg|68
+Molteno|45.778|9.304|IT|Lombardy|68
+Ringgenberg|46.701|7.894|CH|Bern|68
+Albiolo|45.806|8.939|IT|Lombardy|68
+Riozzo|45.346|9.322|IT|Lombardy|68
+Fornaci|45.028|7.599|IT|Piedmont|68
+Roggwil|47.500|9.396|CH|Thurgau|68
+Vidardo|45.257|9.402|IT|Lombardy|68
+Morengo|45.531|9.706|IT|Lombardy|68
+Verres|45.667|7.689|IT|Aosta Valley|68
+Lurano|45.566|9.640|IT|Lombardy|68
+Borgarello|45.241|9.141|IT|Lombardy|68
+Merenschwand|47.259|8.376|CH|Aargau|68
+Tollegno|45.591|8.051|IT|Piedmont|68
+Valmorea|45.815|8.931|IT|Lombardy|68
+Birmenstorf|47.462|8.248|CH|Aargau|68
+Roasio|45.605|8.285|IT|Piedmont|68
+Meisterschwanden|47.295|8.229|CH|Aargau|68
+Lambrugo|45.759|9.240|IT|Lombardy|68
+Valbrona|45.877|9.299|IT|Lombardy|68
+Occhieppo Superiore|45.564|8.006|IT|Piedmont|68
+Lucino|45.783|9.043|IT|Lombardy|68
+Traona|46.147|9.533|IT|Lombardy|68
+Maienfeld|47.005|9.531|CH|Grisons|68
+Lurago Marinone|45.705|8.983|IT|Lombardy|68
+Rubigen|46.899|7.545|CH|Bern|68
+Scannabue-Cascine Capri|45.393|9.593|IT|Lombardy|68
+Staufen|47.382|8.167|CH|Aargau|68
+Schiers|46.970|9.687|CH|Grisons|68
+Egg|47.432|9.898|AT|Vorarlberg|68
+Benken|47.199|9.007|CH|Saint Gallen|68
+Varano Borghi|45.774|8.704|IT|Lombardy|68
+Villa Pedergnano|45.585|9.994|IT|Lombardy|68
+Gravellona|45.328|8.764|IT|Lombardy|68
+Russikon|47.397|8.775|CH|Zurich|68
+Golasecca|45.698|8.661|IT|Lombardy|68
+Schlins|47.200|9.700|AT|Vorarlberg|68
+Graffignana|45.206|9.454|IT|Lombardy|68
+Wolfhausen|47.256|8.799|CH|Zurich|68
+Rütihof|47.440|8.271|CH|Aargau|68
+Novazzano|45.841|8.982|CH|Ticino|68
+Guardamiglio|45.107|9.685|IT|Lombardy|68
+Lotzwil|47.191|7.791|CH|Bern|68
+Riva San Vitale|45.901|8.972|CH|Ticino|68
+Bludesch|47.200|9.733|AT|Vorarlberg|68
+Settala|45.454|9.387|IT|Lombardy|68
+Cusago|45.450|9.037|IT|Lombardy|68
+Cerro al Lambro|45.330|9.339|IT|Lombardy|68
+Lungavilla|45.042|9.078|IT|Lombardy|67
+Brembio|45.212|9.572|IT|Lombardy|67
+Camorino|46.165|9.005|CH|Ticino|67
+Orzivecchi|45.421|9.963|IT|Lombardy|67
+Monte Cremasco|45.372|9.573|IT|Lombardy|67
+Sankt Niklaus|46.177|7.803|CH|Valais|67
+Besano|45.889|8.891|IT|Lombardy|67
+Porto Valtravaglia|45.961|8.681|IT|Lombardy|67
+Comerio|45.842|8.742|IT|Lombardy|67
+Bartholomäberg|47.092|9.908|AT|Vorarlberg|67
+Krauchthal|47.010|7.566|CH|Bern|67
+Monte Carasso|46.186|8.999|CH|Ticino|67
+Cavernago|45.625|9.766|IT|Lombardy|67
+Gerbido|45.044|7.614|IT|Piedmont|67
+Rüderswil|46.984|7.722|CH|Bern|67
+Selino Basso|45.810|9.535|IT|Lombardy|67
+Cafasse|45.249|7.519|IT|Piedmont|67
+Caselle Lurani|45.280|9.360|IT|Lombardy|67
+Pecetto|45.018|7.751|IT|Piedmont|67
+Sarmenstorf|47.311|8.249|CH|Aargau|67
+Ilanz|46.774|9.205|CH|Grisons|67
+Ardesio|45.936|9.930|IT|Lombardy|67
+Beregazzo con Figliaro|45.781|8.944|IT|Lombardy|67
+Nürensdorf|47.448|8.649|CH|Zurich|67
+Arosa|46.778|9.676|CH|Grisons|67
+Unteriberg|47.063|8.805|CH|Schwyz|67
+Caprino|45.749|9.492|IT|Lombardy|67
+Urnäsch|47.317|9.280|CH|Appenzell Ausserrhoden|67
+Untervaz|46.928|9.534|CH|Grisons|67
+Wilderswil|46.664|7.862|CH|Bern|67
+Robassomero|45.198|7.568|IT|Piedmont|67
+Borgo d'Ale|45.350|8.052|IT|Piedmont|67
+Montagnola|45.983|8.918|CH|Ticino|67
+Capriano|45.723|9.255|IT|Lombardy|67
+Claro|46.258|9.023|CH|Ticino|67
+Medolago|45.671|9.498|IT|Lombardy|67
+Ruggell|47.238|9.525|LI|Ruggell|67
+Ternate|45.787|8.699|IT|Lombardy|67
+Casalmaiocco|45.352|9.371|IT|Lombardy|67
+Ballwil|47.154|8.322|CH|Lucerne|67
+Cavagnolo|45.152|8.049|IT|Piedmont|67
+Dolzago|45.767|9.339|IT|Lombardy|67
+Ebmatingen|47.350|8.640|CH|Zurich|67
+Foglizzo|45.274|7.821|IT|Piedmont|67
+Gragnano Trebbiense|45.012|9.571|IT|Emilia-Romagna|67
+Horn|47.494|9.462|CH|Thurgau|67
+Othmarsingen|47.401|8.214|CH|Aargau|67
+Revigliasco|45.016|7.733|IT|Piedmont|67
+Bonstetten|47.315|8.468|CH|Zurich|67
+Erlinsbach|47.398|8.008|CH|Solothurn|67
+Udligenswil|47.090|8.403|CH|Lucerne|67
+Credaro|45.661|9.931|IT|Lombardy|67
+Hölstein|47.423|7.770|CH|Basel-Landschaft|67
+Oberdorf|47.394|7.752|CH|Basel-Landschaft|67
+Meiningen|47.299|9.579|AT|Vorarlberg|67
+Annone di Brianza|45.802|9.331|IT|Lombardy|67
+Silenen|46.789|8.673|CH|Uri|67
+Ghiffa|45.953|8.604|IT|Piedmont|67
+Nebikon|47.192|7.978|CH|Lucerne|67
+Wimmis|46.676|7.640|CH|Bern|67
+Barzago|45.755|9.314|IT|Lombardy|67
+Bönigen|46.687|7.894|CH|Bern|67
+Lierna|45.958|9.305|IT|Lombardy|67
+Brembilla|45.822|9.597|IT|Lombardy|67
+Chignolo Po|45.148|9.482|IT|Lombardy|67
+Albuzzano|45.187|9.274|IT|Lombardy|67
+Imbersago|45.706|9.444|IT|Lombardy|67
+Pieve Porto Morone|45.110|9.440|IT|Lombardy|67
+Thüringen|47.200|9.767|AT|Vorarlberg|67
+Cesana Brianza|45.817|9.300|IT|Lombardy|67
+San Giorgio Canavese|45.336|7.798|IT|Piedmont|67
+Mogelsberg|47.362|9.135|CH|Saint Gallen|67
+Wiedlisbach|47.252|7.646|CH|Bern|67
+Eggersriet|47.442|9.469|CH|Saint Gallen|67
+Premana|46.052|9.421|IT|Lombardy|67
+Chiesa in Valmalenco|46.267|9.849|IT|Lombardy|67
+Oltrona di San Mamette|45.756|8.977|IT|Lombardy|67
+Pfeffingen|47.460|7.590|CH|Basel-Landschaft|67
+Castello di Brianza|45.759|9.345|IT|Lombardy|67
+Chieve|45.340|9.616|IT|Lombardy|67
+Valtournenche|45.876|7.624|IT|Aosta Valley|67
+Tschagguns|47.074|9.903|AT|Vorarlberg|67
+Villa Raverio|45.692|9.262|IT|Lombardy|67
+Disentis|46.703|8.851|CH|Grisons|67
+Alice Castello|45.369|8.073|IT|Piedmont|67
+Waltenschwil|47.333|8.298|CH|Aargau|67
+Bubbiano|45.327|9.015|IT|Lombardy|67
+Pescate|45.833|9.394|IT|Lombardy|67
+Garbagnate Monastero|45.773|9.301|IT|Lombardy|67
+Hägglingen|47.389|8.253|CH|Aargau|67
+Feletto|45.303|7.745|IT|Piedmont|67
+Geuensee|47.200|8.107|CH|Lucerne|67
+Hitzkirch|47.224|8.264|CH|Lucerne|67
+Inwil|47.125|8.349|CH|Lucerne|67
+Casei|45.008|8.927|IT|Lombardy|67
+Zwingen|47.438|7.530|CH|Basel-Landschaft|67
+Castel San Pietro|45.862|9.008|CH|Ticino|67
+Torre de' Roveri|45.697|9.763|IT|Lombardy|67
+Bereguardo|45.257|9.027|IT|Lombardy|67
+Gattikon|47.284|8.548|CH|Zurich|67
+Deitingen|47.215|7.619|CH|Solothurn|67
+Orsenigo|45.778|9.180|IT|Lombardy|67
+Sirone|45.773|9.322|IT|Lombardy|67
+Livraga|45.192|9.546|IT|Lombardy|67
+Primaluna|45.984|9.438|IT|Lombardy|67
+Walzenhausen|47.449|9.605|CH|Appenzell Ausserrhoden|67
+Campione|45.968|8.972|IT|Lombardy|67
+Rivara|45.330|7.649|IT|Piedmont|67
+Zoccorino-Vergo|45.697|9.254|IT|Lombardy|67
+Borgo Vercelli|45.357|8.465|IT|Piedmont|66
+Donnas|45.603|7.775|IT|Aosta Valley|66
+Fara Novarese|45.554|8.457|IT|Piedmont|66
+Fällanden|47.372|8.639|CH|Zurich|66
+Millepini|45.470|9.338|IT|Lombardy|66
+Rothenthurm|47.104|8.676|CH|Schwyz|66
+Nobile-Monguzzo|45.780|9.230|IT|Lombardy|66
+Hohenrain|47.181|8.318|CH|Lucerne|66
+Wynigen|47.106|7.667|CH|Bern|66
+Zandobbio|45.686|9.858|IT|Lombardy|66
+Felsberg|46.846|9.476|CH|Grisons|66
+Cenate Sopra|45.713|9.822|IT|Lombardy|66
+Lucino-Rodano|45.476|9.353|IT|Lombardy|66
+Moncalvo|45.051|8.263|IT|Piedmont|66
+Wolfenschiessen|46.903|8.394|CH|Nidwalden|66
+Valle Mosso|45.631|8.148|IT|Piedmont|66
+Wolfwil|47.269|7.797|CH|Solothurn|66
+Obergösgen|47.365|7.952|CH|Solothurn|66
+Weiler|47.300|9.650|AT|Vorarlberg|66
+Bodio|45.790|8.751|IT|Lombardy|66
+Cervignano d'Adda|45.374|9.424|IT|Lombardy|66
+Crugnola|45.730|8.745|IT|Lombardy|66
+Aicurzio|45.640|9.415|IT|Lombardy|66
+Gontenschwil|47.272|8.144|CH|Aargau|66
+Valle Lomellina|45.151|8.670|IT|Lombardy|66
+Lomello|45.120|8.796|IT|Lombardy|66
+San Bassano|45.244|9.810|IT|Lombardy|66
+Sant'Agata Martesana|45.522|9.384|IT|Lombardy|66
+Borgo San Giovanni|45.278|9.435|IT|Lombardy|66
+Bubikon|47.267|8.818|CH|Zurich|66
+Malans|46.981|9.575|CH|Grisons|66
+Pomaretto|45.152|8.047|IT|Piedmont|66
+Pfaffnau|47.228|7.897|CH|Lucerne|66
+Borgolavezzaro|45.319|8.699|IT|Piedmont|66
+Thierachern|46.753|7.574|CH|Bern|66
+Ottenbach|47.282|8.404|CH|Zurich|66
+Lesa|45.821|8.560|IT|Piedmont|66
+Geromina|45.536|9.575|IT|Lombardy|66
+Arizzano|45.957|8.583|IT|Piedmont|66
+Carimate|45.707|9.108|IT|Lombardy|66
+Hittisau|47.458|9.960|AT|Vorarlberg|66
+Cirimido|45.700|9.013|IT|Lombardy|66
+Diemtigen|46.649|7.565|CH|Bern|66
+Corteolona|45.158|9.372|IT|Lombardy|66
+Besate|45.313|8.970|IT|Lombardy|66
+Trivolzio|45.258|9.043|IT|Lombardy|66
+Castelnuovo Don Bosco|45.041|7.964|IT|Piedmont|66
+Wangen|47.412|8.645|CH|Zurich|66
+Seftigen|46.788|7.539|CH|Bern|66
+Lezzeno|45.944|9.185|IT|Lombardy|66
+Bilten|47.150|9.026|CH|Glarus|66
+Vespolate|45.350|8.669|IT|Piedmont|66
+Crespiatica|45.351|9.577|IT|Lombardy|66
+Camparada|45.655|9.323|IT|Lombardy|66
+Cagno|45.811|8.917|IT|Lombardy|66
+Bezau|47.385|9.901|AT|Vorarlberg|66
+Aeschi b. Spiez|46.658|7.697|CH|Bern|66
+Flüelen|46.905|8.624|CH|Uri|66
+Paruzzaro|45.748|8.515|IT|Piedmont|66
+Orio Litta|45.162|9.554|IT|Lombardy|66
+Hindelbank|47.043|7.541|CH|Bern|66
+Madiswil|47.165|7.799|CH|Bern|66
+Mairano|45.310|9.359|IT|Lombardy|66
+Tonengo-Casale|45.286|7.940|IT|Piedmont|66
+Pasta|45.011|7.552|IT|Piedmont|66
+Valdengo|45.567|8.138|IT|Piedmont|66
+Viganò|45.725|9.325|IT|Lombardy|66
+Selvino|45.785|9.753|IT|Lombardy|66
+Sonnhalde|47.453|8.461|CH|Zurich|66
+Gersau|46.994|8.525|CH|Schwyz|66
+Koppigen|47.131|7.605|CH|Bern|66
+Weisslingen|47.431|8.768|CH|Zurich|66
+Montagna in Valtellina|46.178|9.903|IT|Lombardy|66
+Izano|45.356|9.751|IT|Lombardy|66
+Brusnengo|45.590|8.252|IT|Piedmont|66
+Momo|45.574|8.554|IT|Piedmont|66
+Piana San Raffaele|45.153|7.850|IT|Piedmont|66
+Casco|45.711|9.825|IT|Lombardy|66
+Rovagnate|45.737|9.371|IT|Lombardy|66
+Castelveccana|45.948|8.666|IT|Lombardy|66
+Solza|45.679|9.491|IT|Lombardy|66
+Introbio|45.974|9.450|IT|Lombardy|66
+Sirtori|45.737|9.331|IT|Lombardy|66
+Büron|47.212|8.094|CH|Lucerne|66
+Pagazzano|45.534|9.671|IT|Lombardy|66
+Travacò Siccomario|45.149|9.160|IT|Lombardy|66
+Corneno-Galliano-Carella Mariaga|45.817|9.267|IT|Lombardy|66
+Rüthi|47.295|9.539|CH|Saint Gallen|66
+Kennelbach|47.483|9.767|AT|Vorarlberg|66
+Raron|46.312|7.800|CH|Valais|66
+Wangen an der Aare|47.232|7.653|CH|Bern|66
+Zell|47.137|7.925|CH|Lucerne|66
+Röthis|47.293|9.655|AT|Vorarlberg|66
+Capralba|45.444|9.644|IT|Lombardy|66
+Nunningen|47.394|7.620|CH|Solothurn|66
+Santa Maria Hoè|45.744|9.374|IT|Lombardy|66
+Benglen|47.361|8.637|CH|Zurich|66
+Flühli|46.884|8.016|CH|Lucerne|66
+Tregasio|45.678|9.288|IT|Lombardy|66
+Villa d'Ogna|45.905|9.931|IT|Lombardy|66
+Oberurnen|47.114|9.059|CH|Glarus|66
+Palazzago|45.753|9.534|IT|Lombardy|66
+Gabbio-Cereda-Ramate|45.910|8.421|IT|Piedmont|66
+Pombia|45.656|8.628|IT|Piedmont|66
+Gunzwil|47.211|8.179|CH|Lucerne|66
+Lungern|46.786|8.160|CH|Obwalden|66
+Piuro|46.330|9.421|IT|Lombardy|66
+Pasturo|45.952|9.444|IT|Lombardy|66
+Werthenstein|47.056|8.102|CH|Lucerne|66
+Cadenazzo|46.152|8.947|CH|Ticino|66
+Quattro Strade|45.696|9.377|IT|Lombardy|66
+Ponte Nossa|45.866|9.884|IT|Lombardy|66
+Savonera|45.114|7.615|IT|Piedmont|66
+Marcignago|45.253|9.079|IT|Lombardy|66
+Fiano|45.216|7.526|IT|Piedmont|66
+Pieve Vergonte|46.013|8.261|IT|Piedmont|66
+Castello|45.950|8.676|IT|Lombardy|66
+Montano|45.794|9.022|IT|Lombardy|65
+Hildisrieden|47.151|8.226|CH|Lucerne|65
+Römerswil|47.169|8.245|CH|Lucerne|65
+Baldissero Torinese|45.068|7.813|IT|Piedmont|65
+Oberlunkhofen|47.312|8.392|CH|Aargau|65
+Senna Comasco|45.763|9.111|IT|Lombardy|65
+Ambivere|45.720|9.550|IT|Lombardy|65
+Tresivio|46.176|9.943|IT|Lombardy|65
+Lichtensteig|47.324|9.088|CH|Saint Gallen|65
+Canobbio|46.036|8.966|CH|Ticino|65
+Gargallo|45.729|8.425|IT|Piedmont|65
+Rottofreno|45.055|9.550|IT|Emilia-Romagna|65
+Linarolo|45.162|9.270|IT|Lombardy|65
+Pralungo|45.590|8.040|IT|Piedmont|65
+Truccazzano|45.485|9.470|IT|Lombardy|65
+Büsserach|47.394|7.541|CH|Solothurn|65
+Monvalle|45.858|8.631|IT|Lombardy|65
+Pontresina|46.495|9.901|CH|Grisons|65
+Peia|45.799|9.899|IT|Lombardy|65
+Secugnago|45.231|9.594|IT|Lombardy|65
+Canonica|45.656|9.287|IT|Lombardy|65
+Sala al Barro|45.821|9.362|IT|Lombardy|65
+Schwarzenberg|47.414|9.852|AT|Vorarlberg|65
+Kollbrunn|47.458|8.783|CH|Zurich|65
+Cevio|46.315|8.603|CH|Ticino|65
+Varzo|46.207|8.253|IT|Piedmont|65
+Palestro|45.303|8.533|IT|Lombardy|65
+Cassinetta di Lugagnano|45.422|8.906|IT|Lombardy|65
+Lenno|45.973|9.191|IT|Lombardy|65
+Mediglia|45.395|9.332|IT|Lombardy|65
+Brissago|46.120|8.712|CH|Ticino|65
+Ceranova|45.260|9.243|IT|Lombardy|65
+Ripalta Nuova|45.332|9.692|IT|Lombardy|65
+Gaißau|47.467|9.600|AT|Vorarlberg|65
+Oberegg|47.425|9.551|CH|Appenzell Innerrhoden|65
+Pieve del Cairo|45.049|8.803|IT|Lombardy|65
+Walkringen|46.949|7.620|CH|Bern|65
+Sankt Gallenkappel|47.244|8.964|CH|Saint Gallen|65
+Montanaso Lombardo|45.335|9.466|IT|Lombardy|65
+Acquarossa|46.455|8.943|CH|Ticino|65
+Brenno Useria|45.861|8.878|IT|Lombardy|65
+Ospedaletto Lodigiano|45.169|9.579|IT|Lombardy|65
+Otelfingen|47.461|8.391|CH|Zurich|65
+Oberbuchsiten|47.313|7.768|CH|Solothurn|65
+Torrion Quartara|45.418|8.615|IT|Piedmont|65
+Ormalingen|47.469|7.872|CH|Basel-Landschaft|65
+Mosso|45.650|8.138|IT|Piedmont|65
+Santa Cristina|45.158|9.400|IT|Lombardy|65
+Ettiswil|47.150|8.018|CH|Lucerne|65
+Brenta|45.894|8.684|IT|Lombardy|65
+Borgo Melano|45.016|7.577|IT|Piedmont|65
+Copiano|45.197|9.325|IT|Lombardy|65
+Uerikon|47.237|8.757|CH|Zurich|65
+Bioggio|46.014|8.911|CH|Ticino|65
+Mercallo|45.748|8.670|IT|Lombardy|65
+Killwangen|47.432|8.351|CH|Aargau|65
+Rehetobel|47.426|9.483|CH|Appenzell Ausserrhoden|65
+Gorno|45.862|9.842|IT|Lombardy|65
+Bianzè|45.308|8.122|IT|Piedmont|65
+Parona|45.282|8.751|IT|Lombardy|65
+Grellingen|47.442|7.589|CH|Basel-Landschaft|65
+Salassa|45.362|7.683|IT|Piedmont|65
+Gironico al Piano|45.801|9.003|IT|Lombardy|65
+Biglen|46.926|7.625|CH|Bern|65
+Longone al Segrino|45.814|9.251|IT|Lombardy|65
+Sesto Cremonese|45.176|9.914|IT|Lombardy|65
+Weiningen|47.420|8.436|CH|Zurich|65
+Maresso|45.688|9.356|IT|Lombardy|65
+Noviglio|45.359|9.052|IT|Lombardy|65
+Itingen|47.467|7.785|CH|Basel-Landschaft|65
+Andezeno|45.034|7.866|IT|Piedmont|65
+Caltignaga|45.521|8.586|IT|Piedmont|65
+Montjovet|45.708|7.674|IT|Aosta Valley|65
+Dallenwil|46.924|8.388|CH|Nidwalden|65
+Andwil|47.439|9.274|CH|Saint Gallen|65
+Schinznach Dorf|47.447|8.141|CH|Aargau|65
+Entratico|45.708|9.873|IT|Lombardy|65
+Künten|47.389|8.330|CH|Aargau|65
+Chiuro|46.167|9.986|IT|Lombardy|65
+Erlenbach im Simmental|46.660|7.554|CH|Bern|65
+Ponte in Valtellina|46.175|9.978|IT|Lombardy|65
+Casaletto Vaprio|45.408|9.629|IT|Lombardy|65
+Comano|46.036|8.955|CH|Ticino|65
+Cuasso al Piano|45.895|8.880|IT|Lombardy|65
+Hasle|46.978|8.053|CH|Lucerne|65
+Bernate Ticino|45.479|8.818|IT|Lombardy|65
+Knutwil|47.200|8.073|CH|Lucerne|65
+Waldstatt|47.356|9.283|CH|Appenzell Ausserrhoden|65
+Aesch|47.330|8.654|CH|Zurich|65
+Villanova Monferrato|45.181|8.478|IT|Piedmont|65
+Tabiago-Cibrone|45.756|9.267|IT|Lombardy|65
+Gavarno-Tribulina|45.717|9.775|IT|Lombardy|65
+San Siro|46.066|9.269|IT|Lombardy|65
+Grignano|45.618|9.542|IT|Lombardy|65
+Velasca|45.632|9.355|IT|Lombardy|65
+Maccagno|46.044|8.734|IT|Lombardy|65
+Cremella|45.739|9.301|IT|Lombardy|65
+Suno|45.631|8.544|IT|Piedmont|65
+Mornago|45.745|8.750|IT|Lombardy|65
+Barzana|45.733|9.568|IT|Lombardy|65
+Pfaffhausen|47.365|8.624|CH|Zurich|65
+Zorlesco|45.200|9.616|IT|Lombardy|65
+Boffalora d'Adda|45.359|9.496|IT|Lombardy|65
+Jonen|47.297|8.393|CH|Aargau|65
+Magherno|45.224|9.329|IT|Lombardy|65
+Dänikon|47.447|8.406|CH|Zurich|65
+Cavenago d'Adda|45.283|9.599|IT|Lombardy|65
+Brunate|45.821|9.099|IT|Lombardy|65
+Buttigliera d'Asti|45.022|7.951|IT|Piedmont|64
+Trigolo|45.330|9.814|IT|Lombardy|64
+Solbiate|45.790|8.933|IT|Lombardy|64
+Uttigen|46.794|7.578|CH|Bern|64
+San Fedele Intelvi|45.968|9.081|IT|Lombardy|64
+Sartirana Lomellina|45.114|8.667|IT|Lombardy|64
+Suello|45.817|9.312|IT|Lombardy|64
+Laupersdorf|47.313|7.655|CH|Solothurn|64
+San Vittore|46.308|9.383|IT|Lombardy|64
+Rondissone|45.246|7.964|IT|Piedmont|64
+Teufenthal|47.329|8.118|CH|Aargau|64
+Bendern|47.212|9.507|LI|Gamprin|64
+Gamprin|47.220|9.509|LI|Gamprin|64
+Pollone|45.580|8.006|IT|Piedmont|64
+Orio al Serio|45.675|9.691|IT|Lombardy|64
+Vordemwald|47.276|7.901|CH|Aargau|64
+Wauwil|47.185|8.021|CH|Lucerne|64
+Maggiora|45.689|8.422|IT|Piedmont|64
+Monte Marenzo|45.772|9.455|IT|Lombardy|64
+Vellezzo Bellini|45.269|9.101|IT|Lombardy|64
+Sandigliano|45.522|8.077|IT|Piedmont|64
+San Fedele Superiore|45.967|9.067|IT|Lombardy|64
+Cazis|46.719|9.433|CH|Grisons|64
+Gornate Olona|45.742|8.860|IT|Lombardy|64
+Gudo Visconti|45.374|9.000|IT|Lombardy|64
+Adrara San Martino|45.702|9.949|IT|Lombardy|64
+Cadrezzate|45.799|8.643|IT|Lombardy|64
+Castiraga Vidardo|45.257|9.405|IT|Lombardy|64
+Diegten|47.414|7.811|CH|Basel-Landschaft|64
+Lumellogno|45.408|8.588|IT|Piedmont|64
+Cureggio|45.675|8.460|IT|Piedmont|64
+Sorengo|45.998|8.938|CH|Ticino|64
+Armeno|45.821|8.446|IT|Piedmont|64
+Eich|47.151|8.167|CH|Lucerne|64
+San Fiorano|45.138|9.721|IT|Lombardy|64
+Moltrasio|45.860|9.098|IT|Lombardy|64
+Capergnanica|45.339|9.645|IT|Lombardy|64
+Confienza|45.331|8.559|IT|Lombardy|64
+Barasso|45.840|8.757|IT|Lombardy|64
+Ghiaie|45.682|9.581|IT|Lombardy|64
+Montesolaro|45.721|9.118|IT|Lombardy|64
+Mese|46.304|9.378|IT|Lombardy|64
+Trogen|47.408|9.465|CH|Appenzell Ausserrhoden|64
+Anzano del Parco|45.770|9.198|IT|Lombardy|64
+Fraubrunnen|47.086|7.527|CH|Bern|64
+Muntlix|47.283|9.659|AT|Vorarlberg|64
+Samone|45.449|7.842|IT|Piedmont|64
+Bühler|47.373|9.425|CH|Appenzell Ausserrhoden|64
+Cadegliano-Viconago|45.959|8.843|IT|Lombardy|64
+Coggiola|45.686|8.183|IT|Piedmont|64
+Saas-Fee|46.108|7.927|CH|Valais|64
+Auw|47.211|8.366|CH|Aargau|64
+Casalmorano|45.288|9.899|IT|Lombardy|64
+Wynau|47.256|7.816|CH|Bern|64
+Vergnasco|45.488|8.086|IT|Piedmont|64
+Agliè|45.368|7.768|IT|Piedmont|64
+Clivio|45.863|8.931|IT|Lombardy|64
+Tagelswangen|47.431|8.673|CH|Zurich|64
+Gunzgen|47.314|7.831|CH|Solothurn|64
+Meina|45.791|8.538|IT|Piedmont|64
+Binz|47.356|8.627|CH|Zurich|64
+San Germano Vercellese|45.351|8.247|IT|Piedmont|64
+Pettinengo|45.613|8.104|IT|Piedmont|64
+Sattel|47.082|8.636|CH|Schwyz|64
+Cadro|46.046|8.987|CH|Ticino|64
+Caslino d'Erba|45.839|9.226|IT|Lombardy|64
+Cologna-Caraverio|45.756|9.346|IT|Lombardy|64
+Schwarzenberg|47.017|8.173|CH|Lucerne|64
+Villata|45.386|8.433|IT|Piedmont|64
+Premenugo|45.468|9.385|IT|Lombardy|64
+Prato Sesia|45.651|8.373|IT|Piedmont|64
+Melide|45.955|8.947|CH|Ticino|64
+Riedholz|47.232|7.568|CH|Solothurn|64
+Abbazia|45.748|9.842|IT|Lombardy|64
+Heimiswil|47.068|7.667|CH|Bern|64
+Zeccone|45.258|9.201|IT|Lombardy|64
+Grüt|47.312|8.783|CH|Zurich|64
+Baraggia|45.855|8.909|IT|Lombardy|64
+Valera Fratta|45.257|9.336|IT|Lombardy|64
+Nänikon|47.370|8.689|CH|Zurich|64
+Airolo|46.529|8.612|CH|Ticino|64
+Albiano d'Ivrea|45.434|7.948|IT|Piedmont|64
+Amden|47.149|9.142|CH|Saint Gallen|64
+Brütten|47.473|8.676|CH|Zurich|64
+Chippis|46.280|7.540|CH|Valais|64
+Piangaiano|45.789|9.995|IT|Lombardy|64
+Castione Andevenno|46.173|9.800|IT|Lombardy|64
+Cazzano Sant'Andrea|45.811|9.885|IT|Lombardy|64
+Parè|45.811|9.009|IT|Lombardy|64
+Marudo|45.253|9.377|IT|Lombardy|64
+Magadino|46.149|8.856|CH|Ticino|64
+Sangiano|45.875|8.633|IT|Lombardy|64
+Zäziwil|46.902|7.662|CH|Bern|64
+Tesserete|46.068|8.965|CH|Ticino|64
+Trubschachen|46.922|7.845|CH|Bern|64
+Spinadesco|45.149|9.926|IT|Lombardy|64
+Masserano|45.595|8.222|IT|Piedmont|64
+Fulenbach|47.271|7.831|CH|Solothurn|64
+Lodrino|46.300|8.980|CH|Ticino|64
+Ligornetto|45.862|8.952|CH|Ticino|64
+Seedorf|46.882|8.616|CH|Uri|64
+Schwellbrunn|47.353|9.249|CH|Appenzell Ausserrhoden|64
+Attinghausen|46.863|8.630|CH|Uri|64
+Faido|46.477|8.801|CH|Ticino|64
+Mergozzo|45.962|8.454|IT|Piedmont|64
+Reigoldswil|47.398|7.687|CH|Basel-Landschaft|64
+Camnago-Boscone|45.805|8.979|IT|Lombardy|64
+Ersigen|47.094|7.595|CH|Bern|64
+Torrevecchia Pia|45.282|9.296|IT|Lombardy|64
+Candia Lomellina|45.177|8.595|IT|Lombardy|64
+Trub|46.942|7.880|CH|Bern|64
+Marano Ticino|45.628|8.632|IT|Piedmont|64
+Annicco|45.243|9.879|IT|Lombardy|64
+Buchholterberg|46.814|7.675|CH|Bern|64
+Vitznau|47.010|8.484|CH|Lucerne|63
+Brislach|47.418|7.543|CH|Basel-Landschaft|63
+Cremosano|45.395|9.638|IT|Lombardy|63
+Corio|45.312|7.534|IT|Piedmont|63
+Moncucco|45.310|9.039|IT|Lombardy|63
+Santo Stefano Lodigiano|45.119|9.735|IT|Lombardy|63
+Bäch|47.204|8.732|CH|Schwyz|63
+Mantegazza|45.509|8.973|IT|Lombardy|63
+Verrua Savoia|45.157|8.092|IT|Piedmont|63
+Villaggio del Sole|45.614|9.107|IT|Lombardy|63
+Lütisburg|47.395|9.083|CH|Saint Gallen|63
+Villnachern|47.471|8.160|CH|Aargau|63
+Arlate|45.724|9.442|IT|Lombardy|63
+Pognano|45.586|9.640|IT|Lombardy|63
+Cuvio|45.896|8.734|IT|Lombardy|63
+Busano|45.331|7.657|IT|Piedmont|63
+Crevacuore|45.685|8.244|IT|Piedmont|63
+Melchnau|47.182|7.851|CH|Bern|63
+Lingenau|47.450|9.922|AT|Vorarlberg|63
+Sankt Gallenkirch|47.021|9.973|AT|Vorarlberg|63
+Colle Brianza|45.762|9.364|IT|Lombardy|63
+Valganna|45.902|8.823|IT|Lombardy|63
+Cascinette d'Ivrea|45.480|7.906|IT|Piedmont|63
+Portalbera|45.098|9.318|IT|Lombardy|63
+Villanova|45.640|9.392|IT|Lombardy|63
+Krummenau|47.248|9.171|CH|Saint Gallen|63
+Sagliano Micca|45.626|8.043|IT|Piedmont|63
+Figliaro|45.780|8.945|IT|Lombardy|63
+Colzate|45.817|9.856|IT|Lombardy|63
+Grumello Cremonese|45.194|9.864|IT|Lombardy|63
+Lessolo|45.478|7.816|IT|Piedmont|63
+Mesenzana|45.952|8.765|IT|Lombardy|63
+Zelo Surrigone|45.388|8.985|IT|Lombardy|63
+Oberbipp|47.261|7.664|CH|Bern|63
+Visperterminen|46.259|7.902|CH|Valais|63
+Gromlongo|45.729|9.541|IT|Lombardy|63
+Steinmaur|47.497|8.452|CH|Zurich|63
+Boniswil|47.317|8.190|CH|Aargau|63
+Vall'Alta|45.761|9.826|IT|Lombardy|63
+Vogogna|46.010|8.291|IT|Piedmont|63
+Castelnuovo Bocca d'Adda|45.111|9.864|IT|Lombardy|63
+Pogno|45.758|8.386|IT|Piedmont|63
+Sciolze|45.095|7.878|IT|Piedmont|63
+Borgo San Martino|45.093|8.524|IT|Piedmont|63
+Bascapè|45.306|9.314|IT|Lombardy|63
+Costa Sant'Abramo|45.167|9.967|IT|Lombardy|63
+Giussago|45.284|9.140|IT|Lombardy|63
+Leukerbad|46.379|7.627|CH|Valais|63
+Negrone|45.710|9.758|IT|Lombardy|63
+Gordona|46.292|9.367|IT|Lombardy|63
+Brenna|45.743|9.187|IT|Lombardy|63
+Niederbüren|47.465|9.206|CH|Saint Gallen|63
+Bowil|46.893|7.698|CH|Bern|63
+Eriswil|47.078|7.851|CH|Bern|63
+Serina|45.871|9.731|IT|Lombardy|63
+Seltisberg|47.462|7.720|CH|Basel-Landschaft|63
+Gockhausen|47.381|8.600|CH|Zurich|63
+Pray|45.675|8.210|IT|Piedmont|63
+Divignano|45.662|8.600|IT|Piedmont|63
+Nendeln|47.198|9.543|LI|Eschen|63
+Gonten|47.327|9.347|CH|Appenzell Innerrhoden|63
+Weesen|47.134|9.096|CH|Saint Gallen|63
+Egliswil|47.349|8.186|CH|Aargau|63
+Chiaverano|45.499|7.903|IT|Piedmont|63
+Lessona|45.587|8.194|IT|Piedmont|63
+Luthern|47.058|7.917|CH|Lucerne|63
+Carenno|45.802|9.463|IT|Lombardy|63
+Endine|45.790|9.976|IT|Lombardy|63
+Attiswil|47.247|7.614|CH|Bern|63
+Quartiano|45.358|9.418|IT|Lombardy|63
+Wila|47.419|8.845|CH|Zurich|63
+Gampel|46.316|7.742|CH|Valais|63
+Rohrbach|47.135|7.813|CH|Bern|63
+Domaso|46.153|9.332|IT|Lombardy|63
+Wahlen|47.402|7.515|CH|Basel-Landschaft|63
+Nigoline-Bonomelli|45.629|9.987|IT|Lombardy|63
+San Lorenzo di Rovetta|45.880|9.975|IT|Lombardy|63
+Bardello|45.836|8.697|IT|Lombardy|63
+Novate Mezzola|46.219|9.450|IT|Lombardy|63
+Caspoggio|46.264|9.862|IT|Lombardy|63
+Lyssach|47.064|7.582|CH|Bern|63
+Veltheim|47.438|8.147|CH|Aargau|63
+Bornasco|45.267|9.218|IT|Lombardy|63
+Villapinta|46.175|9.680|IT|Lombardy|63
+San Cassiano|46.277|9.397|IT|Lombardy|63
+Comazzo|45.442|9.463|IT|Lombardy|63
+Altishofen|47.199|7.970|CH|Lucerne|63
+Cortenuova|45.539|9.788|IT|Lombardy|63
+Gerenzago|45.206|9.361|IT|Lombardy|63
+Bassignana|45.001|8.733|IT|Piedmont|63
+Lanzada|46.269|9.869|IT|Lombardy|63
+Balzola|45.184|8.403|IT|Piedmont|63
+Grächen|46.195|7.837|CH|Valais|63
+Pinarolo Po|45.070|9.167|IT|Lombardy|63
+Tetti Neirotti|45.053|7.541|IT|Piedmont|63
+Grandola ed Uniti|46.025|9.213|IT|Lombardy|63
+Frassineto Po|45.133|8.535|IT|Piedmont|63
+Asigliano Vercellese|45.261|8.409|IT|Piedmont|63
+Cadempino|46.037|8.934|CH|Ticino|63
+Mäls|47.061|9.496|LI|Balzers|63
+Masera|46.139|8.325|IT|Piedmont|63
+Cerello-Battuello|45.447|8.931|IT|Lombardy|63
+Issogne|45.655|7.686|IT|Aosta Valley|63
+Breíl|46.770|9.060|CH|Grisons|63
+Ticineto|45.096|8.553|IT|Piedmont|63
+Sairano|45.137|9.052|IT|Lombardy|63
+Lanzo d'Intelvi|45.979|9.022|IT|Lombardy|63
+Canneto Pavese|45.050|9.279|IT|Lombardy|63
+Manera|45.673|9.041|IT|Lombardy|63
+Roggione|45.184|9.807|IT|Lombardy|63
+Giovenzano|45.273|9.116|IT|Lombardy|63
+Bizzarone|45.834|8.943|IT|Lombardy|63
+Pusiano|45.815|9.282|IT|Lombardy|62
+Schinznach Bad|47.450|8.168|CH|Aargau|62
+Carbonara al Ticino|45.164|9.065|IT|Lombardy|62
+Casale Cremasco|45.432|9.714|IT|Lombardy|62
+Mazze|45.300|7.933|IT|Piedmont|62
+Roncaro|45.228|9.275|IT|Lombardy|62
+Hadlikon|47.288|8.857|CH|Zurich|62
+Seeberg|47.156|7.666|CH|Bern|62
+Villaggio Residenziale|45.528|9.467|IT|Lombardy|62
+Oberhelfenschwil|47.357|9.111|CH|Saint Gallen|62
+Corgeno|45.746|8.688|IT|Lombardy|62
+Linden|46.847|7.678|CH|Bern|62
+Aristau|47.287|8.364|CH|Aargau|62
+Bäretswil|47.337|8.856|CH|Zurich|62
+La Cassa|45.180|7.516|IT|Piedmont|62
+Berbenno|45.815|9.571|IT|Lombardy|62
+Guinzano|45.257|9.159|IT|Lombardy|62
+Lombardore|45.236|7.737|IT|Piedmont|62
+Sizzano|45.577|8.436|IT|Piedmont|62
+Campofiorenzo-California|45.668|9.317|IT|Lombardy|62
+Verrua Po|45.107|9.175|IT|Lombardy|62
+Uerkheim|47.304|8.023|CH|Aargau|62
+Mellau|47.350|9.881|AT|Vorarlberg|62
+Ossago Lodigiano|45.242|9.537|IT|Lombardy|62
+Barzio|45.943|9.467|IT|Lombardy|62
+Malvaglia|46.406|8.982|CH|Ticino|62
+Garbagna Novarese|45.389|8.661|IT|Piedmont|62
+Malesco|46.128|8.498|IT|Piedmont|62
+Palazzolo Vercellese|45.186|8.233|IT|Piedmont|62
+Matzendorf|47.304|7.628|CH|Solothurn|62
+Pezzana|45.262|8.484|IT|Piedmont|62
+Bollengo|45.472|7.941|IT|Piedmont|62
+Perego|45.738|9.363|IT|Lombardy|62
+San Giorgio Monferrato|45.107|8.416|IT|Piedmont|62
+Rotta|45.162|9.146|IT|Lombardy|62
+Schachen|47.324|8.473|CH|Zurich|62
+Quaregna|45.581|8.164|IT|Piedmont|62
+Sedrina|45.781|9.624|IT|Lombardy|62
+Cavaglio D'Agogna|45.613|8.486|IT|Piedmont|62
+Ubiale Clanezzo|45.784|9.619|IT|Lombardy|62
+Läufelfingen|47.395|7.856|CH|Basel-Landschaft|62
+Premosello-Chiovenda|46.004|8.330|IT|Piedmont|62
+Valstrona|45.908|8.343|IT|Piedmont|62
+Santa Giuletta|45.034|9.181|IT|Lombardy|62
+Ayas|45.815|7.689|IT|Aosta Valley|62
+Oberrüti|47.167|8.394|CH|Aargau|62
+Mühlethurnen|46.813|7.509|CH|Bern|62
+Santa Maria Maggiore|46.137|8.461|IT|Piedmont|62
+Unterlunkhofen|47.321|8.381|CH|Aargau|62
+Mesocco|46.394|9.233|CH|Grisons|62
+Eichberg|47.344|9.531|CH|Saint Gallen|62
+Andermatt|46.636|8.594|CH|Uri|62
+Rhäzüns|46.799|9.398|CH|Grisons|62
+Valduggia|45.727|8.327|IT|Piedmont|62
+Hochwald|47.454|7.645|CH|Solothurn|62
+Castelseprio|45.714|8.862|IT|Lombardy|62
+Laax|46.805|9.258|CH|Grisons|62
+Pumenengo|45.480|9.868|IT|Lombardy|62
+Grantola|45.949|8.774|IT|Lombardy|62
+Ronago|45.832|8.984|IT|Lombardy|62
+Wyssachen|47.079|7.829|CH|Bern|62
+Stroppiana|45.230|8.455|IT|Piedmont|62
+Monte|45.715|8.822|IT|Lombardy|62
+Tremezzo|45.984|9.216|IT|Lombardy|62
+Sordevolo|45.573|7.973|IT|Piedmont|62
+Grüsch|46.980|9.646|CH|Grisons|62
+Trun|46.743|8.987|CH|Grisons|62
+Morano sul Po|45.166|8.367|IT|Piedmont|62
+Celerina|46.512|9.858|CH|Grisons|62
+Salgesch|46.312|7.571|CH|Valais|62
+Mirabello Monferrato|45.035|8.524|IT|Piedmont|62
+Cortenova|46.000|9.385|IT|Lombardy|62
+Piantedo|46.137|9.428|IT|Lombardy|62
+Senna Lodigiana|45.150|9.594|IT|Lombardy|62
+Lozza|45.776|8.858|IT|Lombardy|62
+Emmetten|46.957|8.515|CH|Nidwalden|62
+Stalden|46.233|7.873|CH|Valais|62
+Piedimulera|46.024|8.259|IT|Piedmont|62
+Fombio|45.141|9.680|IT|Lombardy|62
+Turano Lodigiano|45.248|9.622|IT|Lombardy|62
+Casone|45.498|8.876|IT|Lombardy|62
+Dorf|47.239|8.736|CH|Zurich|62
+Prata Centro|46.308|9.396|IT|Lombardy|62
+Wildhaus|47.206|9.354|CH|Saint Gallen|62
+Mühlehalde|47.283|8.534|CH|Zurich|62
+Merlischachen|47.066|8.405|CH|Schwyz|62
+Occimiano|45.060|8.507|IT|Piedmont|62
+Piazza Brembana|45.948|9.673|IT|Lombardy|62
+Wikon|47.263|7.968|CH|Lucerne|62
+Luvinate|45.840|8.772|IT|Lombardy|62
+Carate Urio|45.872|9.122|IT|Lombardy|62
+Granozzo con Monticello|45.360|8.573|IT|Piedmont|62
+Häggenschwil|47.495|9.345|CH|Saint Gallen|62
+Ozzero|45.368|8.924|IT|Lombardy|62
+Churwalden|46.781|9.544|CH|Grisons|62
+Berzo San Fermo|45.719|9.903|IT|Lombardy|62
+Vistarino|45.211|9.308|IT|Lombardy|62
+Zuoz|46.602|9.960|CH|Grisons|62
+Sankt Peterzell|47.318|9.176|CH|Saint Gallen|62
+Merlino|45.433|9.430|IT|Lombardy|62
+Fontaneto D'Agogna|45.643|8.479|IT|Piedmont|62
+Esslingen|47.283|8.710|CH|Zurich|62
+Varen|46.319|7.607|CH|Valais|62
+Cugnasco|46.175|8.917|CH|Ticino|62
+Mauensee|47.167|8.068|CH|Lucerne|62
+Torno|45.856|9.117|IT|Lombardy|62
+Badile|45.351|9.127|IT|Lombardy|62
+Casale Corte Cerro|45.915|8.414|IT|Piedmont|62
+Lumino|46.230|9.064|CH|Ticino|62
+Arzo|45.876|8.941|CH|Ticino|61
+Beatenberg|46.699|7.794|CH|Bern|61
+Dürrenäsch|47.321|8.159|CH|Aargau|61
+Ello|45.786|9.365|IT|Lombardy|61
+Furato|45.515|8.881|IT|Lombardy|61
+Lardirago|45.236|9.233|IT|Lombardy|61
+Buttwil|47.268|8.311|CH|Aargau|61
+Casalzuigno|45.905|8.709|IT|Lombardy|61
+Agrate Conturbia|45.675|8.560|IT|Piedmont|61
+Palazzo Pignano|45.390|9.570|IT|Lombardy|61
+Blevio|45.842|9.105|IT|Lombardy|61
+Batschuns|47.276|9.672|AT|Vorarlberg|61
+Fontanetto Po|45.194|8.192|IT|Piedmont|61
+Ronco Biellese|45.578|8.091|IT|Piedmont|61
+Haag (Rheintal)|47.210|9.489|CH|Saint Gallen|61
+Welschenrohr|47.281|7.527|CH|Solothurn|61
+Pallanzeno|46.042|8.259|IT|Piedmont|61
+Consiglio di Rumo|46.143|9.293|IT|Lombardy|61
+Faggeto Lario|45.859|9.159|IT|Lombardy|61
+Montechiaro d'Asti|45.007|8.113|IT|Piedmont|61
+Garbagnate|45.770|9.298|IT|Lombardy|61
+Lavertezzo|46.259|8.838|CH|Ticino|61
+Nibionno|45.746|9.269|IT|Lombardy|61
+Brongio|45.765|9.313|IT|Lombardy|61
+Verrone|45.508|8.115|IT|Piedmont|61
+Candia Canavese|45.327|7.884|IT|Piedmont|61
+Gavarno Rinnovata|45.725|9.763|IT|Lombardy|61
+Biandrate|45.453|8.464|IT|Piedmont|61
+Brusasco|45.155|8.061|IT|Piedmont|61
+Tamins|46.830|9.406|CH|Grisons|61
+Baltschieder|46.309|7.866|CH|Valais|61
+Benna|45.515|8.124|IT|Piedmont|61
+Blumenstein|46.742|7.521|CH|Bern|61
+Casate|45.492|8.828|IT|Lombardy|61
+Ludriano|45.448|9.933|IT|Lombardy|61
+Luzein|46.920|9.761|CH|Grisons|61
+Triginto|45.402|9.325|IT|Lombardy|61
+San Bernardino Verbano|45.956|8.519|IT|Piedmont|61
+Cambiasca|45.962|8.545|IT|Piedmont|61
+Poggiridenti Piano|46.170|9.927|IT|Lombardy|61
+Costa Lambro|45.685|9.247|IT|Lombardy|61
+Ganterschwil|47.381|9.092|CH|Saint Gallen|61
+Calò|45.679|9.263|IT|Lombardy|61
+Camisano|45.445|9.745|IT|Lombardy|61
+Lambrinia|45.158|9.527|IT|Lombardy|61
+Langenegg|47.469|9.897|AT|Vorarlberg|61
+Melano|45.922|8.984|CH|Ticino|61
+Pettenasco|45.817|8.407|IT|Piedmont|61
+Pieve Fissiraga|45.263|9.458|IT|Lombardy|61
+Jenaz|46.929|9.713|CH|Grisons|61
+Mezzomerico|45.620|8.606|IT|Piedmont|61
+Ozzano Monferrato|45.106|8.372|IT|Piedmont|61
+Meierskappel|47.125|8.443|CH|Lucerne|61
+Fino del Monte|45.893|9.994|IT|Lombardy|61
+Großdorf|47.434|9.915|AT|Vorarlberg|61
+Kandersteg|46.495|7.673|CH|Bern|61
+Puginate|45.711|9.058|IT|Lombardy|61
+Luchsingen|46.966|9.037|CH|Glarus|61
+Premolo|45.870|9.875|IT|Lombardy|61
+Salvirola|45.356|9.779|IT|Lombardy|61
+Kriegstetten|47.174|7.598|CH|Solothurn|61
+Saas-Grund|46.123|7.937|CH|Valais|61
+San Giorgio di Lomellina|45.175|8.790|IT|Lombardy|61
+Villa di Chiavenna|46.331|9.481|IT|Lombardy|61
+Caresanablot|45.357|8.392|IT|Piedmont|61
+Cavallirio|45.662|8.397|IT|Piedmont|61
+Hofstetten|47.478|8.506|CH|Zurich|61
+Hone|45.614|7.739|IT|Aosta Valley|61
+Ronco|45.527|9.359|IT|Lombardy|61
+Frascarolo|45.047|8.682|IT|Lombardy|61
+Viverone|45.427|8.049|IT|Piedmont|61
+Piario|45.896|9.927|IT|Lombardy|61
+Nosadello|45.403|9.530|IT|Lombardy|61
+Bizau|47.369|9.928|AT|Vorarlberg|61
+Alserio|45.779|9.200|IT|Lombardy|61
+Ozegna|45.348|7.745|IT|Piedmont|61
+Comabbio|45.774|8.678|IT|Lombardy|61
+Rodero|45.824|8.915|IT|Lombardy|61
+Villassio|45.863|9.845|IT|Lombardy|61
+Santa Corinna|45.340|9.089|IT|Lombardy|61
+Fiesco|45.337|9.778|IT|Lombardy|61
+Corvino San Quirico|45.011|9.162|IT|Lombardy|61
+Nesso|45.912|9.157|IT|Lombardy|61
+Schellenberg|47.231|9.547|LI|Schellenberg|61
+Ottobiano|45.154|8.832|IT|Lombardy|61
+Verceia|46.199|9.455|IT|Lombardy|61
+Vergano-Villa|45.794|9.375|IT|Lombardy|61
+Bargano|45.240|9.447|IT|Lombardy|61
+Pieranica|45.426|9.610|IT|Lombardy|61
+Vidalengo|45.522|9.641|IT|Lombardy|61
+Casaletto Ceredano|45.318|9.617|IT|Lombardy|61
+Vigonzone|45.273|9.310|IT|Lombardy|61
+Waldenburg|47.383|7.750|CH|Basel-Landschaft|61
+Linate|45.447|9.272|IT|Lombardy|61
+Linthal|46.921|8.998|CH|Glarus|61
+Wegenstetten|47.498|7.931|CH|Aargau|61
+Galgagnano|45.358|9.445|IT|Lombardy|61
+Badalasco|45.542|9.555|IT|Lombardy|61
+Knonau|47.224|8.462|CH|Zurich|61
+Grossacker/Opfikon|47.427|8.579|CH|Zurich|61
+Au|47.322|9.981|AT|Vorarlberg|61
+Inverno e Monteleone|45.198|9.385|IT|Lombardy|61
+Pura|45.986|8.869|CH|Ticino|61
+Castello d'Agogna|45.235|8.687|IT|Lombardy|61
+Lisanza|45.739|8.599|IT|Lombardy|61
+Neudorf|47.177|8.209|CH|Lucerne|61
+Trachselwald|47.017|7.736|CH|Bern|61
+Villachiara|45.354|9.931|IT|Lombardy|61
+Birchwil|47.454|8.635|CH|Zurich|61
+Genivolta|45.333|9.877|IT|Lombardy|61
+Ricengo|45.406|9.724|IT|Lombardy|61
+Torre Pallavicina|45.446|9.877|IT|Lombardy|61
+Gravesano|46.042|8.918|CH|Ticino|61
+Wittnau|47.481|7.976|CH|Aargau|61
+Staffelbach|47.284|8.042|CH|Aargau|60
+Vische|45.336|7.945|IT|Piedmont|60
+Bettola|45.332|9.021|IT|Lombardy|60
+Porto d'Adda|45.662|9.476|IT|Lombardy|60
+Langenbruck|47.349|7.768|CH|Basel-Landschaft|60
+Cassino d'Alberi|45.392|9.391|IT|Lombardy|60
+Cimbro|45.736|8.720|IT|Lombardy|60
+Monasterolo|45.235|7.508|IT|Piedmont|60
+Borgo di Terzo|45.721|9.891|IT|Lombardy|60
+Torrazza dei Mandelli|45.566|9.399|IT|Lombardy|60
+Bulgorello|45.724|9.055|IT|Lombardy|60
+Cascina Elisa|45.604|8.800|IT|Lombardy|60
+Krumbach|47.483|9.936|AT|Vorarlberg|60
+Corno Giovine|45.134|9.758|IT|Lombardy|60
+Ferrera Erbognone|45.115|8.865|IT|Lombardy|60
+Inarzo|45.786|8.736|IT|Lombardy|60
+Dürrenroth|47.090|7.792|CH|Bern|60
+Bäriswil|47.019|7.527|CH|Bern|60
+Quincinetto|45.562|7.808|IT|Piedmont|60
+Agrate|45.675|8.561|IT|Piedmont|60
+Colturano|45.382|9.334|IT|Lombardy|60
+Dürnten|47.279|8.842|CH|Zurich|60
+Laxolo|45.809|9.600|IT|Lombardy|60
+San Maurizio|45.603|8.287|IT|Piedmont|60
+Pianello del Lario|46.103|9.277|IT|Lombardy|60
+Azeglio|45.423|7.992|IT|Piedmont|60
+Bauma|47.367|8.879|CH|Zurich|60
+Doren|47.493|9.880|AT|Vorarlberg|60
+Calozzo|46.101|9.275|IT|Lombardy|60
+Caselle Landi|45.103|9.796|IT|Lombardy|60
+Piateda Centro|46.160|9.935|IT|Lombardy|60
+La Place|45.654|7.684|IT|Aosta Valley|60
+Turtmann|46.300|7.702|CH|Valais|60
+Veruno|45.689|8.529|IT|Piedmont|60
+Castelletto di Branduzzo|45.069|9.098|IT|Lombardy|60
+Cervesina|45.061|9.017|IT|Lombardy|60
+Zeme|45.197|8.667|IT|Lombardy|60
+Desana|45.269|8.358|IT|Piedmont|60
+Ripalta Arpina|45.302|9.729|IT|Lombardy|60
+Briona|45.542|8.480|IT|Piedmont|60
+Redavalle|45.038|9.202|IT|Lombardy|60
+Azzano|45.981|9.203|IT|Lombardy|60
+Goldingen|47.265|8.962|CH|Saint Gallen|60
+Moncrivello|45.332|7.996|IT|Piedmont|60
+Cadenabbia|45.989|9.236|IT|Lombardy|60
+Musso|46.113|9.274|IT|Lombardy|60
+Verscio|46.185|8.732|CH|Ticino|60
+Vals Platz|46.616|9.180|CH|Grisons|60
+Vorderthal|47.122|8.902|CH|Schwyz|60
+Ausserbraz|47.149|9.901|AT|Vorarlberg|60
+Beregazzo|45.770|8.959|IT|Lombardy|60
+Navedano|45.755|9.095|IT|Lombardy|60
+Vigano San Martino|45.726|9.896|IT|Lombardy|60
+Fiesch|46.400|8.135|CH|Valais|60
+Himmelried|47.421|7.600|CH|Solothurn|60
+Bodio|46.378|8.910|CH|Ticino|60
+Villanova Canavese|45.244|7.552|IT|Piedmont|60
+Villanova|45.026|9.999|IT|Emilia-Romagna|60
+Bastida Pancarana|45.086|9.085|IT|Lombardy|60
+Pellio Intelvi|45.980|9.059|IT|Lombardy|60
+Prosto|46.329|9.421|IT|Lombardy|60
+Kandergrund|46.562|7.659|CH|Bern|60
+Paquier|45.879|7.626|IT|Aosta Valley|60
+Innerbraz|47.150|9.917|AT|Vorarlberg|60
+Osogna|46.312|8.986|CH|Ticino|60
+Zeihen|47.476|8.085|CH|Aargau|60
+Basella|45.614|9.729|IT|Lombardy|60
+Campospinoso|45.094|9.246|IT|Lombardy|60
+Mezzanino|45.125|9.205|IT|Lombardy|60
+Zinasco Vecchio|45.128|9.030|IT|Lombardy|60
+Montalenghe|45.337|7.838|IT|Piedmont|60
+Dalaas|47.124|9.991|AT|Vorarlberg|60
+Sant'Andrea|45.543|9.994|IT|Lombardy|60
+Bogogno|45.663|8.535|IT|Piedmont|60
+Nebbiuno|45.808|8.526|IT|Piedmont|60
+Robbiano|45.418|9.310|IT|Lombardy|60
+Arnad|45.647|7.717|IT|Aosta Valley|60
+Hundwil|47.365|9.318|CH|Appenzell Ausserrhoden|60
+Caresana|45.221|8.505|IT|Piedmont|60
+Oglianico|45.342|7.692|IT|Piedmont|60
+Silvaplana|46.458|9.795|CH|Grisons|60
+Spiringen|46.873|8.730|CH|Uri|60
+Morschach|46.983|8.618|CH|Schwyz|60
+Ossuccio|45.970|9.180|IT|Lombardy|60
+Adlikon|47.447|8.466|CH|Zurich|60
+Reutigen|46.694|7.621|CH|Bern|60
+Arogno|45.959|8.984|CH|Ticino|60
+Mühlau|47.229|8.389|CH|Aargau|60
+Castelmarte|45.832|9.233|IT|Lombardy|60
+Gettnau|47.141|7.970|CH|Lucerne|60
+Rovate|45.710|8.846|IT|Lombardy|60
+Giornico|46.401|8.874|CH|Ticino|60
+Masano|45.514|9.676|IT|Lombardy|60
+Arni|46.935|7.665|CH|Bern|60
+Val Masino|46.215|9.638|IT|Lombardy|60
+Colorina|46.154|9.729|IT|Lombardy|60
+Gerzensee|46.840|7.545|CH|Bern|60
+Savognin|46.597|9.598|CH|Grisons|60
+Drezzo|45.815|8.995|IT|Lombardy|60
+Retegno|45.149|9.699|IT|Lombardy|60
+Cuceglio|45.359|7.816|IT|Piedmont|60
+Massino Visconti|45.824|8.541|IT|Piedmont|60
+Calcinate del Pesce|45.816|8.763|IT|Lombardy|60
+Casalbeltrame|45.438|8.467|IT|Piedmont|60
+Beinwil|47.261|8.205|CH|Aargau|60
+Wuppenau|47.496|9.109|CH|Thurgau|60
+Brusimpiano|45.945|8.890|IT|Lombardy|60
+Mittelberg|47.206|9.643|AT|Vorarlberg|60
+Birrwil|47.291|8.197|CH|Aargau|60
+Mezzegra|45.982|9.205|IT|Lombardy|60
+Brezzo di Bedero|45.978|8.717|IT|Lombardy|60
+Dietwil|47.147|8.394|CH|Aargau|60
+Nava|45.762|9.363|IT|Lombardy|60
+Niederbuchsiten|47.296|7.772|CH|Solothurn|60
+Spinone al Lago|45.765|9.922|IT|Lombardy|60
+Villadosia|45.750|8.728|IT|Lombardy|60
+Galliate Lombardo|45.785|8.770|IT|Lombardy|60
+Gsteig|46.665|7.873|CH|Bern|60
+Castagneto Po|45.159|7.886|IT|Piedmont|59
+Haldenstein|46.879|9.526|CH|Grisons|59
+San Bartolomeo Val Cavargna|46.083|9.149|IT|Lombardy|59
+Livera|45.612|8.106|IT|Piedmont|59
+Bertonico|45.233|9.668|IT|Lombardy|59
+Sozzago|45.398|8.723|IT|Piedmont|59
+Gallignano|45.438|9.838|IT|Lombardy|59
+Monasterolo del Castello|45.763|9.932|IT|Lombardy|59
+Casale Litta|45.768|8.741|IT|Lombardy|59
+Scaldasole|45.125|8.910|IT|Lombardy|59
+Cameriano|45.397|8.537|IT|Piedmont|59
+Casanova del Morbasco|45.163|9.963|IT|Lombardy|59
+Schignano|45.930|9.102|IT|Lombardy|59
+Sommo|45.133|9.087|IT|Lombardy|59
+Hendschiken|47.386|8.218|CH|Aargau|59
+Erschwil|47.374|7.541|CH|Solothurn|59
+Miège|46.311|7.547|CH|Valais|59
+Casalborgone|45.130|7.940|IT|Piedmont|59
+Cascine San Pietro|45.506|9.532|IT|Lombardy|59
+Hemberg|47.301|9.175|CH|Saint Gallen|59
+Rivarossa|45.250|7.720|IT|Piedmont|59
+Vignone|45.961|8.564|IT|Piedmont|59
+Cannero Riviera|46.022|8.679|IT|Piedmont|59
+Crocemosso|45.644|8.154|IT|Piedmont|59
+Laglio|45.881|9.137|IT|Lombardy|59
+Roncola|45.673|9.593|IT|Lombardy|59
+Casaleggio Novara|45.488|8.493|IT|Piedmont|59
+Lu|45.002|8.486|IT|Piedmont|59
+Caravino|45.400|7.960|IT|Piedmont|59
+Lauerz|47.033|8.583|CH|Schwyz|59
+Bolzano Novarese|45.763|8.442|IT|Piedmont|59
+Brunnadern|47.336|9.130|CH|Saint Gallen|59
+Schangnau|46.828|7.860|CH|Bern|59
+Aesch|47.256|8.241|CH|Lucerne|59
+Wölflinswil|47.461|7.998|CH|Aargau|59
+Gualdrasco|45.280|9.204|IT|Lombardy|59
+Piverone|45.446|8.007|IT|Piedmont|59
+Cascina Nuova|45.653|9.064|IT|Lombardy|59
+San Pietro|46.258|9.385|IT|Lombardy|59
+Quintano|45.420|9.619|IT|Lombardy|59
+Quartiere Sarmazzano|45.366|9.339|IT|Lombardy|59
+Torriano|45.262|9.120|IT|Lombardy|59
+Vaprio D'Agogna|45.603|8.554|IT|Piedmont|59
+Cerete Basso|45.860|9.993|IT|Lombardy|59
+Greppen|47.054|8.430|CH|Lucerne|59
+Oberkempten|47.329|8.820|CH|Zurich|59
+Vauda Canavese Superiore|45.279|7.619|IT|Piedmont|59
+Steinerberg|47.055|8.586|CH|Schwyz|59
+Rebwies|47.347|8.586|CH|Zurich|59
+Grono|46.248|9.148|CH|Grisons|59
+Cocconato|45.086|8.040|IT|Piedmont|59
+Ranco|45.797|8.571|IT|Lombardy|59
+Boppelsen|47.469|8.406|CH|Zurich|59
+Andrate-Molinetto|45.744|9.076|IT|Lombardy|59
+Codogna-Cardano|46.028|9.210|IT|Lombardy|59
+Krattigen|46.661|7.728|CH|Bern|59
+Monzoro|45.459|9.043|IT|Lombardy|59
+Fabbrica Durini|45.751|9.196|IT|Lombardy|59
+Feriolo|45.930|8.479|IT|Piedmont|59
+Massina|45.645|8.974|IT|Lombardy|59
+Era|46.244|9.395|IT|Lombardy|59
+Lauriano|45.160|7.995|IT|Piedmont|59
+Torre d'Arese|45.243|9.317|IT|Lombardy|59
+Ursenbach|47.137|7.772|CH|Bern|59
+Paderno Ponchielli|45.238|9.929|IT|Lombardy|59
+Cascina Restelli|45.681|8.989|IT|Lombardy|59
+Cerone|45.399|7.892|IT|Piedmont|59
+Malgesso|45.828|8.676|IT|Lombardy|59
+San Pietro|45.005|7.765|IT|Piedmont|59
+Dumenza|46.021|8.787|IT|Lombardy|59
+Ufhusen|47.117|7.896|CH|Lucerne|59
+Aesch|47.337|8.441|CH|Zurich|59
+Oberönz|47.178|7.695|CH|Bern|59
+Sand|47.441|8.478|CH|Zurich|59
+Trovo|45.283|9.035|IT|Lombardy|59
+Casterno|45.430|8.870|IT|Lombardy|59
+Genestrerio|45.853|8.961|CH|Ticino|59
+Barbania|45.291|7.635|IT|Piedmont|59
+Forcola|46.159|9.660|IT|Lombardy|59
+Leissigen|46.655|7.775|CH|Bern|59
+Burolo|45.481|7.934|IT|Piedmont|59
+Crodo|46.217|8.322|IT|Piedmont|59
+Brinzio|45.889|8.787|IT|Lombardy|59
+Winkel|47.492|8.554|CH|Zurich|59
+Agliate|45.685|9.238|IT|Lombardy|59
+Scharans|46.718|9.459|CH|Grisons|59
+Castelnuovo Bozzente|45.765|8.944|IT|Lombardy|59
+Intragna|46.178|8.700|CH|Ticino|59
+Brunello|45.765|8.795|IT|Lombardy|59
+Mercenasco|45.360|7.880|IT|Piedmont|59
+Zerbolò|45.207|9.014|IT|Lombardy|59
+Castiglione d'Intelvi|45.958|9.090|IT|Lombardy|59
+Rota d'Imagna|45.831|9.512|IT|Lombardy|59
+Tecknau|47.449|7.885|CH|Basel-Landschaft|59
+Occagno|45.929|9.099|IT|Lombardy|59
+Rovescala|45.007|9.346|IT|Lombardy|59
+Caiolo|46.150|9.815|IT|Lombardy|59
+Vigano|45.382|9.029|IT|Lombardy|59
+Schlossrued|47.292|8.088|CH|Aargau|59
+Calchera-Frontale|45.834|9.512|IT|Lombardy|59
+Pieve Albignola|45.113|8.960|IT|Lombardy|59
+Ambria-Spino|45.809|9.681|IT|Lombardy|59
+Sparone|45.414|7.545|IT|Piedmont|59
+Alagna|45.169|8.889|IT|Lombardy|59
+San Vito|45.417|9.014|IT|Lombardy|59
+Cavaione|45.479|9.445|IT|Lombardy|58
+Gromo|45.962|9.926|IT|Lombardy|58
+Pairana|45.320|9.287|IT|Lombardy|58
+Recetto|45.460|8.435|IT|Piedmont|58
+Montonate|45.747|8.773|IT|Lombardy|58
+Bregano|45.826|8.688|IT|Lombardy|58
+Küblis|46.914|9.779|CH|Grisons|58
+Oggebbio|45.991|8.647|IT|Piedmont|58
+Schibler|47.488|8.451|CH|Zurich|58
+Soprana|45.639|8.199|IT|Piedmont|58
+Mello|46.155|9.547|IT|Lombardy|58
+Silbertal|47.094|9.983|AT|Vorarlberg|58
+Sils im Domleschg|46.700|9.454|CH|Grisons|58
+Cascine Maggio|45.759|8.812|IT|Lombardy|58
+Pontestura|45.142|8.333|IT|Piedmont|58
+Täsch|46.068|7.778|CH|Valais|58
+Arborio|45.496|8.388|IT|Piedmont|58
+Fiorano Canavese|45.468|7.834|IT|Piedmont|58
+Rogorotto|45.506|8.969|IT|Lombardy|58
+Calliano|45.008|8.257|IT|Piedmont|58
+Olimpia|45.126|7.730|IT|Piedmont|58
+Fahrweid (nördl. Teil)|47.414|8.415|CH|Zurich|58
+Proserpio|45.828|9.246|IT|Lombardy|58
+Gordevio|46.226|8.743|CH|Ticino|58
+Grosso|45.256|7.557|IT|Piedmont|58
+Lenta|45.557|8.384|IT|Piedmont|58
+Rodallo|45.281|7.875|IT|Piedmont|58
+Viadanica|45.685|9.961|IT|Lombardy|58
+Casalvolone|45.400|8.465|IT|Piedmont|58
+Settimo Vittone|45.549|7.833|IT|Piedmont|58
+Villareggia|45.309|7.977|IT|Piedmont|58
+Breme|45.128|8.626|IT|Lombardy|58
+Corrido|46.048|9.136|IT|Lombardy|58
+Loranzè|45.443|7.813|IT|Piedmont|58
+Tavigliano|45.622|8.052|IT|Piedmont|58
+Gelfingen|47.214|8.265|CH|Lucerne|58
+Thalheim|47.435|8.100|CH|Aargau|58
+Sant'Angelo Lomellina|45.247|8.643|IT|Lombardy|58
+Bitsch|46.338|8.011|CH|Valais|58
+Andeer|46.603|9.426|CH|Grisons|58
+Bottenwil|47.285|8.006|CH|Aargau|58
+Castellazzo|45.474|8.944|IT|Lombardy|58
+Orio Canavese|45.329|7.860|IT|Piedmont|58
+Pittolo|45.014|9.664|IT|Emilia-Romagna|58
+Adrara San Rocco|45.716|9.959|IT|Lombardy|58
+Costanzana|45.237|8.369|IT|Piedmont|58
+Schnifis|47.217|9.733|AT|Vorarlberg|58
+Mairano|45.358|9.069|IT|Lombardy|58
+Remondò|45.240|8.804|IT|Lombardy|58
+Tavagnasco|45.544|7.823|IT|Piedmont|58
+Novaggio|46.010|8.856|CH|Ticino|58
+Termen|46.327|8.021|CH|Valais|58
+Ubiale|45.783|9.617|IT|Lombardy|58
+Cavacurta|45.190|9.742|IT|Lombardy|58
+Gaggiolo|45.838|8.910|IT|Lombardy|58
+Tornaco|45.357|8.717|IT|Piedmont|58
+Vicolungo|45.475|8.461|IT|Piedmont|58
+Contone|46.151|8.926|CH|Ticino|58
+Oberiberg|47.038|8.779|CH|Schwyz|58
+Calendasco|45.087|9.596|IT|Emilia-Romagna|58
+Ghislarengo|45.529|8.385|IT|Piedmont|58
+Poppino|46.014|8.765|IT|Lombardy|58
+Bivio Cava Manara|45.142|9.121|IT|Lombardy|58
+Marzano|45.248|9.295|IT|Lombardy|58
+Coniolo|45.383|9.976|IT|Lombardy|58
+Ghirla|45.925|8.822|IT|Lombardy|58
+Boca|45.679|8.409|IT|Piedmont|58
+San Pietro Mosezzo|45.455|8.544|IT|Piedmont|58
+Amsoldingen|46.728|7.582|CH|Bern|58
+Filighera|45.175|9.316|IT|Lombardy|58
+Kirchdorf|46.821|7.548|CH|Bern|58
+Maddalena|45.662|8.684|IT|Lombardy|58
+Motta Dè Conti|45.194|8.521|IT|Piedmont|58
+Wermatswil|47.364|8.742|CH|Zurich|58
+Cazzago Brabbia|45.796|8.735|IT|Lombardy|58
+Villa|46.331|9.484|IT|Lombardy|58
+Osmate|45.789|8.655|IT|Lombardy|58
+Richenthal|47.218|7.945|CH|Lucerne|58
+Tonco|45.023|8.189|IT|Piedmont|58
+Cremenaga|45.989|8.803|IT|Lombardy|58
+Baraggione|45.648|8.499|IT|Piedmont|58
+Bildstein|47.450|9.767|AT|Vorarlberg|58
+Calasca-Castiglione|46.021|8.215|IT|Piedmont|58
+Azzio|45.885|8.709|IT|Lombardy|58
+Pognana Lario|45.880|9.158|IT|Lombardy|58
+Varenna|46.011|9.285|IT|Lombardy|58
+Pontetto-Roldo|46.152|8.321|IT|Piedmont|58
+Boffetto|46.160|9.956|IT|Lombardy|58
+Luzzana|45.715|9.881|IT|Lombardy|58
+Rünenberg|47.433|7.883|CH|Basel-Landschaft|58
+Cremia|46.086|9.271|IT|Lombardy|58
+Rietgrabenhang|47.424|8.577|CH|Zurich|58
+Barengo|45.576|8.514|IT|Piedmont|58
+Gondiswil|47.147|7.871|CH|Bern|58
+Unterschächen|46.863|8.769|CH|Uri|58
+Densbüren|47.453|8.053|CH|Aargau|58
+Obersaxen|46.750|9.100|CH|Grisons|58
+Madonnina e Cologno|45.364|9.361|IT|Lombardy|58
+Borriana|45.508|8.039|IT|Piedmont|58
+Caldana|45.871|8.692|IT|Lombardy|58
+Nibbiola|45.372|8.657|IT|Piedmont|58
+Strozza|45.773|9.579|IT|Lombardy|58
+Castione|46.173|9.800|IT|Lombardy|58
+Celatica-Tolari|45.665|9.902|IT|Lombardy|58
+Marentino|45.054|7.876|IT|Piedmont|58
+Agarn|46.297|7.663|CH|Valais|58
+Botta|45.768|9.614|IT|Lombardy|58
+Breuil-Cervinia|45.934|7.632|IT|Aosta Valley|58
+Kiesen|46.820|7.584|CH|Bern|58
+Murisengo|45.082|8.136|IT|Piedmont|58
+San Macario|45.609|8.774|IT|Lombardy|58
+Comignago|45.715|8.564|IT|Piedmont|58
+Illgau|46.988|8.725|CH|Schwyz|58
+Botta|45.832|9.533|IT|Lombardy|58
+Capovilla-Castello|45.595|8.197|IT|Piedmont|58
+Formigara|45.223|9.771|IT|Lombardy|58
+San Nazzaro|45.076|9.899|IT|Emilia-Romagna|58
+Buronzo|45.480|8.266|IT|Piedmont|57
+Lozzolo|45.619|8.323|IT|Piedmont|57
+Leutwil|47.310|8.173|CH|Aargau|57
+Bretzwil|47.398|7.652|CH|Basel-Landschaft|57
+Beura|46.080|8.298|IT|Piedmont|57
+Jenins|47.001|9.557|CH|Grisons|57
+Olevano di Lomellina|45.213|8.717|IT|Lombardy|57
+Toceno|46.145|8.469|IT|Piedmont|57
+Sant'Antonino|45.252|8.049|IT|Piedmont|57
+Erve|45.822|9.453|IT|Lombardy|57
+Locatello|45.835|9.534|IT|Lombardy|57
+Ronchetto Delle Rane|45.401|9.182|IT|Lombardy|57
+Borgomasino|45.362|7.988|IT|Piedmont|57
+Cortenuova|45.716|9.298|IT|Lombardy|57
+Favirano|45.782|9.454|IT|Lombardy|57
+Sils-Segl Maria|46.429|9.764|CH|Grisons|57
+Orino|45.881|8.716|IT|Lombardy|57
+San Vittore|46.237|9.107|CH|Grisons|57
+Elm|46.919|9.172|CH|Glarus|57
+Penzano|45.810|9.258|IT|Lombardy|57
+Rovio|45.933|8.987|CH|Ticino|57
+Mornico Losana|45.010|9.206|IT|Lombardy|57
+Casatisma|45.046|9.131|IT|Lombardy|57
+Croppo|46.114|8.309|IT|Piedmont|57
+Dal Pozzo|45.631|9.055|IT|Lombardy|57
+Acquanegra Cremonese|45.169|9.891|IT|Lombardy|57
+Maggio|45.926|9.459|IT|Lombardy|57
+Saas im Prättigau|46.910|9.809|CH|Grisons|57
+Terraverde-Corte Palasio|45.316|9.562|IT|Lombardy|57
+Fahrni|46.794|7.655|CH|Bern|57
+Gempen|47.476|7.660|CH|Solothurn|57
+Rovasenda|45.539|8.316|IT|Piedmont|57
+Buglio in Monte|46.183|9.675|IT|Lombardy|57
+Maggia|46.247|8.706|CH|Ticino|57
+Brand|47.101|9.737|AT|Vorarlberg|57
+Ponchiera|46.181|9.872|IT|Lombardy|57
+Abtwil|47.424|9.321|CH|Saint Gallen|57
+Cergnago|45.198|8.772|IT|Lombardy|57
+Concagno|45.799|8.910|IT|Lombardy|57
+Credera|45.303|9.655|IT|Lombardy|57
+Vercana|46.159|9.335|IT|Lombardy|57
+Graglia|45.558|7.979|IT|Piedmont|57
+Valmacca|45.101|8.584|IT|Piedmont|57
+Adetswil|47.340|8.840|CH|Zurich|57
+Villanova d'Ardenghi|45.170|9.041|IT|Lombardy|57
+Sankt Anton im Montafon|47.117|9.867|AT|Vorarlberg|57
+Borgo San Siro|45.235|8.913|IT|Lombardy|57
+Oneta|45.871|9.819|IT|Lombardy|57
+Thüringerberg|47.214|9.785|AT|Vorarlberg|57
+Terranova dei Passerini|45.215|9.662|IT|Lombardy|57
+Bedulita|45.791|9.552|IT|Lombardy|57
+Lindau|47.443|8.674|CH|Zurich|57
+Malix|46.812|9.532|CH|Grisons|57
+Front|45.279|7.664|IT|Piedmont|57
+Palazzo Canavese|45.460|7.978|IT|Piedmont|57
+Pontey|45.739|7.588|IT|Aosta Valley|57
+Cornale|45.043|8.911|IT|Lombardy|57
+Scheuren|47.322|8.658|CH|Zurich|57
+Morcote|45.925|8.916|CH|Ticino|57
+Bürchen|46.281|7.815|CH|Valais|57
+Pasturago|45.327|9.077|IT|Lombardy|57
+Widum|47.328|8.792|CH|Zurich|57
+Borgo Revel|45.193|8.022|IT|Piedmont|57
+Soriso|45.740|8.410|IT|Piedmont|57
+Morbio Superiore|45.860|9.023|CH|Ticino|57
+Giarole|45.061|8.567|IT|Piedmont|57
+Fraxern|47.315|9.674|AT|Vorarlberg|57
+Olcenengo|45.363|8.310|IT|Piedmont|57
+Scanfs|46.612|9.985|CH|Grisons|57
+Fumo|45.023|9.153|IT|Lombardy|57
+Moscazzano|45.294|9.681|IT|Lombardy|57
+Pisano|45.796|8.515|IT|Piedmont|57
+Are|45.285|7.893|IT|Piedmont|57
+Carema|45.584|7.809|IT|Piedmont|57
+Esino Lario|45.994|9.334|IT|Lombardy|57
+Sologno|45.537|8.573|IT|Piedmont|57
+Lalden|46.300|7.902|CH|Valais|57
+Oberembrach|47.488|8.618|CH|Zurich|57
+Winterberg|47.457|8.694|CH|Zurich|57
+Mairago|45.252|9.578|IT|Lombardy|57
+Balbiano|45.382|9.357|IT|Lombardy|57
+Camoneone|45.785|9.569|IT|Lombardy|57
+Holderbank|47.333|7.753|CH|Solothurn|57
+Lostallo|46.313|9.197|CH|Grisons|57
+Tricerro|45.236|8.327|IT|Piedmont|57
+Zumaglia|45.594|8.089|IT|Piedmont|57
+Cimnago|45.689|9.128|IT|Lombardy|57
+Capolago|45.904|8.979|CH|Ticino|57
+Doppleschwand|47.018|8.055|CH|Lucerne|57
+Uffikon|47.211|8.018|CH|Lucerne|57
+Challand-Saint-Anselme|45.715|7.735|IT|Aosta Valley|57
+Unterwasser|47.197|9.309|CH|Saint Gallen|57
+Winikon|47.236|8.048|CH|Lucerne|57
+Agrano|45.846|8.415|IT|Piedmont|57
+Baraggia|45.619|8.519|IT|Piedmont|57
+Santo Stefano in Vairano|45.378|9.676|IT|Lombardy|57
+Ayer|46.181|7.601|CH|Valais|57
+Terruggia|45.082|8.444|IT|Piedmont|57
+Pfeffikon|47.248|8.178|CH|Lucerne|57
+Orta San Giulio|45.797|8.414|IT|Piedmont|57
+Blauen|47.450|7.519|CH|Basel-Landschaft|57
+Azzanello|45.313|9.920|IT|Lombardy|57
+Regona|45.205|9.819|IT|Lombardy|57
+Heiligenschwendi|46.751|7.684|CH|Bern|57
+Raggal|47.211|9.837|AT|Vorarlberg|57
+Borgonuovo|46.329|9.438|IT|Lombardy|57
+Cascina Valle-Stazione di Carimate|45.695|9.111|IT|Lombardy|57
+Coarezza|45.681|8.645|IT|Lombardy|57
+Gorduno|46.216|9.031|CH|Ticino|57
+Ronco sopra Ascona|46.146|8.728|CH|Ticino|57
+Arignano|45.040|7.902|IT|Piedmont|56
+Calvenzano|45.269|9.380|IT|Lombardy|56
+Songavazzo|45.879|9.990|IT|Lombardy|56
+Gera Lario|46.170|9.367|IT|Lombardy|56
+San Nazzaro Sesia|45.438|8.425|IT|Piedmont|56
+Gurtnellen|46.738|8.628|CH|Uri|56
+Habkern|46.726|7.863|CH|Bern|56
+Pavarolo|45.067|7.839|IT|Piedmont|56
+Rehmen|47.322|9.998|AT|Vorarlberg|56
+Camisasca|45.767|9.256|IT|Lombardy|56
+Bedero Valcuvia|45.911|8.796|IT|Lombardy|56
+Cremeno|45.935|9.471|IT|Lombardy|56
+Civenna|45.940|9.271|IT|Lombardy|56
+Engi|46.982|9.153|CH|Glarus|56
+Tal|47.267|9.700|AT|Vorarlberg|56
+Castelletto Po|45.069|9.101|IT|Lombardy|56
+Ganna|45.902|8.826|IT|Lombardy|56
+Valtrighe|45.696|9.537|IT|Lombardy|56
+Buckten|47.410|7.845|CH|Basel-Landschaft|56
+Cressa|45.648|8.509|IT|Piedmont|56
+Veglio|45.641|8.114|IT|Piedmont|56
+Cadilana|45.330|9.545|IT|Lombardy|56
+Garzeno|46.134|9.250|IT|Lombardy|56
+Reuthe|47.371|9.895|AT|Vorarlberg|56
+San Pietro|45.381|9.098|IT|Lombardy|56
+Schottikon|47.499|8.815|CH|Zurich|56
+Somaggia|46.254|9.421|IT|Lombardy|56
+Bustighera|45.400|9.343|IT|Lombardy|56
+Calignano|45.213|9.282|IT|Lombardy|56
+Gortipohl|47.011|9.999|AT|Vorarlberg|56
+Superga|45.077|7.770|IT|Piedmont|56
+San Nazzaro|46.132|8.803|CH|Ticino|56
+Bannwil|47.240|7.736|CH|Bern|56
+Landiswil|46.958|7.680|CH|Bern|56
+Macugnaga|45.969|7.968|IT|Piedmont|56
+Moirago|45.370|9.137|IT|Lombardy|56
+Suardi|45.032|8.741|IT|Lombardy|56
+Breitenmatt|47.277|8.875|CH|Zurich|56
+Casargo|46.039|9.387|IT|Lombardy|56
+Inverno|45.199|9.384|IT|Lombardy|56
+Mezzana Mortigliengo|45.627|8.190|IT|Piedmont|56
+Nosate|45.551|8.725|IT|Lombardy|56
+Vira|46.143|8.842|CH|Ticino|56
+Campodolcino|46.403|9.352|IT|Lombardy|56
+Magreglio|45.921|9.263|IT|Lombardy|56
+Masserini|45.803|9.831|IT|Lombardy|56
+Sessa|45.999|8.820|CH|Ticino|56
+Ochlenberg|47.150|7.736|CH|Bern|56
+Silvano Pietra|45.039|8.946|IT|Lombardy|56
+Zibido al Lambro|45.279|9.274|IT|Lombardy|56
+Bedero|45.978|8.719|IT|Lombardy|56
+Vignale Monferrato|45.010|8.397|IT|Piedmont|56
+Walterswil|47.112|7.778|CH|Bern|56
+Haslen|47.369|9.368|CH|Appenzell Innerrhoden|56
+Santa Brigida|45.985|9.621|IT|Lombardy|56
+Stazzona|46.139|9.275|IT|Lombardy|56
+Camporinaldo|45.164|9.470|IT|Lombardy|56
+Fondotoce|45.946|8.492|IT|Piedmont|56
+Campovico|46.146|9.590|IT|Lombardy|56
+Fahrweid (südl. Teil)|47.408|8.414|CH|Zurich|56
+Montù Beccaria|45.036|9.313|IT|Lombardy|56
+Übersaxen|47.253|9.671|AT|Vorarlberg|56
+Miagliano|45.613|8.045|IT|Piedmont|56
+Seelisberg|46.973|8.587|CH|Uri|56
+Camerata Cornello|45.900|9.656|IT|Lombardy|56
+Cascinazza|45.417|8.885|IT|Lombardy|56
+Fläsch|47.026|9.514|CH|Grisons|56
+Colla|46.092|9.054|CH|Ticino|56
+Cresciano|46.279|9.003|CH|Ticino|56
+Fontana Pradosa|45.062|9.463|IT|Emilia-Romagna|56
+Mantello|46.152|9.489|IT|Lombardy|56
+Bordolano|45.292|9.987|IT|Lombardy|56
+Poggiridenti Alto|46.175|9.926|IT|Lombardy|56
+Salussola|45.447|8.111|IT|Piedmont|56
+Zwillikon|47.288|8.431|CH|Zurich|56
+San Martino Pizzolano|45.164|9.621|IT|Lombardy|56
+Casorzo|45.022|8.338|IT|Piedmont|56
+Laubisser|47.448|8.477|CH|Zurich|56
+Griante|45.995|9.236|IT|Lombardy|56
+Niedergesteln|46.312|7.784|CH|Valais|56
+Basiasco|45.265|9.590|IT|Lombardy|56
+Sala Comacina|45.964|9.166|IT|Lombardy|56
+Sostegno|45.653|8.270|IT|Piedmont|56
+Argegno|45.942|9.126|IT|Lombardy|56
+Case Manzoni-Pascolo-Coroldo|45.789|9.307|IT|Lombardy|56
+Cataeggio|46.214|9.638|IT|Lombardy|56
+Benne|45.290|7.552|IT|Piedmont|56
+Sormano|45.878|9.246|IT|Lombardy|56
+Perledo|46.015|9.296|IT|Lombardy|56
+Lavagna|45.462|9.444|IT|Lombardy|56
+Bözen|47.496|8.085|CH|Aargau|56
+Crosio della Valle|45.760|8.770|IT|Lombardy|56
+Molino dei Torti|45.024|8.894|IT|Piedmont|56
+Monteu da Po|45.150|8.014|IT|Piedmont|56
+Rocca Canavese|45.309|7.579|IT|Piedmont|56
+Fornaci|45.199|9.678|IT|Lombardy|56
+Rifferswil|47.244|8.497|CH|Zurich|56
+Effingen|47.489|8.103|CH|Aargau|56
+Cignone|45.269|9.985|IT|Lombardy|56
+Giardino-Botto|45.654|8.161|IT|Piedmont|56
+Zinasco Nuovo|45.122|9.001|IT|Lombardy|56
+Cassina Fra Martino|45.718|9.433|IT|Lombardy|56
+Portula|45.675|8.172|IT|Piedmont|56
+Sorico|46.173|9.384|IT|Lombardy|56
+Grone|45.727|9.909|IT|Lombardy|56
+Turago Bordone|45.293|9.168|IT|Lombardy|56
+Branzi|46.002|9.759|IT|Lombardy|56
+Buch|47.486|9.821|AT|Vorarlberg|56
+Kehlhof|47.235|8.739|CH|Zurich|56
+Lassolaz|45.739|7.589|IT|Aosta Valley|56
+Mortizza|45.077|9.756|IT|Emilia-Romagna|56
+Bolzone|45.334|9.662|IT|Lombardy|55
+Poscante|45.784|9.688|IT|Lombardy|55
+San Giorgio|45.108|8.414|IT|Piedmont|55
+San Zenone al Po|45.109|9.362|IT|Lombardy|55
+Capolago|45.794|8.810|IT|Lombardy|55
+Mezzana Bigli|45.060|8.847|IT|Lombardy|55
+Staldenried|46.229|7.883|CH|Valais|55
+Monteleone|45.194|9.409|IT|Lombardy|55
+Stampa|46.343|9.591|CH|Grisons|55
+Zullwil|47.391|7.600|CH|Solothurn|55
+Barbata|45.475|9.777|IT|Lombardy|55
+Challand-Saint-Victor|45.690|7.705|IT|Aosta Valley|55
+Ferrera di Varese|45.933|8.789|IT|Lombardy|55
+Bee|45.963|8.575|IT|Piedmont|55
+Gornate Superiore|45.754|8.861|IT|Lombardy|55
+Sant'Antonio|45.757|9.485|IT|Lombardy|55
+Berriat|45.707|7.676|IT|Aosta Valley|55
+Taleggio|45.893|9.565|IT|Lombardy|55
+Herbetswil|47.296|7.593|CH|Solothurn|55
+Brienzwiler|46.751|8.101|CH|Bern|55
+Mund|46.315|7.941|CH|Valais|55
+Fideris|46.916|9.741|CH|Grisons|55
+Barni|45.911|9.266|IT|Lombardy|55
+Gombito|45.262|9.729|IT|Lombardy|55
+Revislate|45.693|8.553|IT|Piedmont|55
+Fusine|46.149|9.750|IT|Lombardy|55
+Weid (bei Adetswil)|47.340|8.849|CH|Zurich|55
+Landiona|45.497|8.422|IT|Piedmont|55
+Laupen|47.265|8.929|CH|Zurich|55
+Malanghero|45.201|7.662|IT|Piedmont|55
+Pizzale|45.039|9.050|IT|Lombardy|55
+Bürserberg|47.146|9.777|AT|Vorarlberg|55
+Gnosca|46.234|9.022|CH|Ticino|55
+Wernetshausen|47.299|8.865|CH|Zurich|55
+Sant'Alessio Con Vialone|45.222|9.226|IT|Lombardy|55
+Bairo|45.386|7.755|IT|Piedmont|55
+Cerreto Castello|45.564|8.161|IT|Piedmont|55
+Druogno|46.134|8.433|IT|Piedmont|55
+Marne|45.624|9.558|IT|Lombardy|55
+Vallescuropasso-Località Stefano|45.052|9.245|IT|Lombardy|55
+Camairago|45.205|9.727|IT|Lombardy|55
+Fornaci|45.726|9.241|IT|Lombardy|55
+Casottole|45.228|9.068|IT|Lombardy|55
+Torbiato|45.612|9.984|IT|Lombardy|55
+Tornavento|45.583|8.715|IT|Lombardy|55
+Cavagnano|45.905|8.871|IT|Lombardy|55
+Barbianello|45.076|9.206|IT|Lombardy|55
+San Damiano al Colle|45.027|9.349|IT|Lombardy|55
+Alpthal|47.070|8.716|CH|Schwyz|55
+Bottaiano|45.416|9.742|IT|Lombardy|55
+Falera|46.801|9.231|CH|Grisons|55
+Mastrils|46.970|9.545|CH|Grisons|55
+Valle Cerrina|45.115|8.212|IT|Piedmont|55
+Albonese|45.293|8.706|IT|Lombardy|55
+Cagiallo|46.067|8.973|CH|Ticino|55
+Isenthal|46.911|8.561|CH|Uri|55
+Zappello|45.333|9.673|IT|Lombardy|55
+Rueglio|45.468|7.755|IT|Piedmont|55
+Alberswil|47.150|8.003|CH|Lucerne|55
+Fornaci|45.595|8.609|IT|Piedmont|55
+Rogolo|46.137|9.485|IT|Lombardy|55
+Arena Po|45.094|9.363|IT|Lombardy|55
+Osteno|46.007|9.084|IT|Lombardy|55
+Andalo Valtellino|46.136|9.474|IT|Lombardy|55
+Pilgerhof|47.266|8.867|CH|Zurich|55
+Oberhittnau|47.359|8.824|CH|Zurich|55
+Plesio|46.047|9.229|IT|Lombardy|55
+Olza-Fogarole|45.106|9.963|IT|Emilia-Romagna|55
+Orezzo|45.805|9.822|IT|Lombardy|55
+Piussogno|46.152|9.507|IT|Lombardy|55
+San Sebastiano da Po|45.168|7.957|IT|Piedmont|55
+Aedermannsdorf|47.304|7.611|CH|Solothurn|55
+Farfengo|45.368|9.979|IT|Lombardy|55
+Rancio Valcuvia|45.916|8.772|IT|Lombardy|55
+Barone Canavese|45.326|7.873|IT|Piedmont|55
+Carisio|45.410|8.200|IT|Piedmont|55
+Rosasco|45.250|8.579|IT|Lombardy|55
+Brovello-Carpugnino|45.842|8.532|IT|Piedmont|55
+Crotta d'Adda|45.159|9.857|IT|Lombardy|55
+Antrona Schieranco|46.060|8.115|IT|Piedmont|55
+Castelnovetto|45.254|8.611|IT|Lombardy|55
+Fossarmato|45.194|9.220|IT|Lombardy|55
+Mossini|46.179|9.864|IT|Lombardy|55
+Colleretto Giacosa|45.433|7.799|IT|Piedmont|55
+Filzbach|47.119|9.132|CH|Glarus|55
+Wiler|46.403|7.782|CH|Valais|55
+Faedo Valtellino|46.153|9.906|IT|Lombardy|55
+Pianezzo|46.170|9.025|CH|Ticino|55
+Madonna|45.152|9.125|IT|Lombardy|55
+Bironico|46.114|8.933|CH|Ticino|55
+Casabianca|45.221|7.946|IT|Piedmont|55
+Fengo|45.184|9.887|IT|Lombardy|55
+Bertschikon|47.320|8.758|CH|Zurich|55
+Boschetto|45.234|7.905|IT|Piedmont|55
+Cappella Cantone|45.247|9.838|IT|Lombardy|55
+Monasterolo|45.763|9.931|IT|Lombardy|55
+Oberdürnten|47.279|8.862|CH|Zurich|55
+Campagnola Cremasca|45.398|9.669|IT|Lombardy|55
+San Mamete|46.025|9.054|IT|Lombardy|55
+Vestignè|45.387|7.953|IT|Piedmont|55
+Colmegna|46.027|8.756|IT|Lombardy|54
+Roppolo|45.421|8.070|IT|Piedmont|54
+Colonno|45.958|9.153|IT|Lombardy|54
+San Giuliano|45.069|9.994|IT|Emilia-Romagna|54
+Alchenstorf|47.125|7.636|CH|Bern|54
+Lusigliè|45.318|7.765|IT|Piedmont|54
+Bergün|46.629|9.748|CH|Grisons|54
+Pertusio|45.356|7.642|IT|Piedmont|54
+Saland|47.391|8.853|CH|Zurich|54
+Zeglingen|47.417|7.906|CH|Basel-Landschaft|54
+Cuasso al Monte|45.915|8.879|IT|Lombardy|54
+Lamporo|45.231|8.098|IT|Piedmont|54
+Gaggio|45.745|9.256|IT|Lombardy|54
+Vigalfo|45.196|9.282|IT|Lombardy|54
+Colla-Muggiasca|45.983|9.623|IT|Lombardy|54
+Vigellio|45.461|8.115|IT|Piedmont|54
+Vignola|46.088|9.275|IT|Lombardy|54
+Lignana|45.286|8.344|IT|Piedmont|54
+Vallo|45.267|7.879|IT|Piedmont|54
+Avegno|46.205|8.745|CH|Ticino|54
+Dagnente|45.782|8.535|IT|Piedmont|54
+Lomaniga|45.703|9.358|IT|Lombardy|54
+Altlandenberg|47.372|8.868|CH|Zurich|54
+Crebbio|45.913|9.334|IT|Lombardy|54
+Pratolongo|45.709|9.514|IT|Lombardy|54
+Bieno|45.952|8.512|IT|Piedmont|54
+Iragna|46.326|8.967|CH|Ticino|54
+Lenna|45.943|9.679|IT|Lombardy|54
+Riedikon|47.332|8.713|CH|Zurich|54
+Sant'Eusebio|45.593|8.274|IT|Piedmont|54
+Eischoll|46.294|7.780|CH|Valais|54
+Oetwil / Oetwil an der Limmat|47.428|8.395|CH|Zurich|54
+Piano|45.964|8.753|IT|Lombardy|54
+Kleindietwil|47.146|7.790|CH|Bern|54
+Beschling|47.192|9.681|AT|Vorarlberg|54
+Netro|45.540|7.947|IT|Piedmont|54
+Törbel|46.238|7.852|CH|Valais|54
+Torre Canavese|45.392|7.760|IT|Piedmont|54
+Arboldswil|47.414|7.718|CH|Basel-Landschaft|54
+Ripalta Guerina|45.306|9.704|IT|Lombardy|54
+Mirabello|45.150|9.614|IT|Lombardy|54
+Pella|45.797|8.384|IT|Piedmont|54
+Taceno|46.023|9.364|IT|Lombardy|54
+Ghevio|45.782|8.503|IT|Piedmont|54
+Laino|45.984|9.075|IT|Lombardy|54
+Dossena|45.880|9.697|IT|Lombardy|54
+Mottalciata|45.500|8.211|IT|Piedmont|54
+Rämismühle|47.439|8.822|CH|Zurich|54
+Rueun|46.778|9.148|CH|Grisons|54
+Bioglio-Portula-Andrè|45.615|8.136|IT|Piedmont|54
+Eriz|46.788|7.771|CH|Bern|54
+Oltre Il Colle|45.889|9.769|IT|Lombardy|54
+Ronsecco|45.253|8.277|IT|Piedmont|54
+Cascine Calderari|45.231|9.127|IT|Lombardy|54
+Filisur|46.673|9.686|CH|Grisons|54
+Re|46.131|8.546|IT|Piedmont|54
+Costa Valle Imagna|45.803|9.504|IT|Lombardy|54
+Gonte|45.995|8.650|IT|Piedmont|54
+Grafstal|47.443|8.700|CH|Zurich|54
+Mignete|45.394|9.431|IT|Lombardy|54
+Cossogno|45.964|8.510|IT|Piedmont|54
+Torgnon|45.806|7.570|IT|Aosta Valley|54
+Gandosso|45.659|9.889|IT|Lombardy|54
+Villanuova|45.442|9.867|IT|Lombardy|54
+Moggio|45.932|9.486|IT|Lombardy|54
+Ameno|45.789|8.440|IT|Piedmont|54
+Camburzano|45.544|8.002|IT|Piedmont|54
+Craveggia|46.141|8.489|IT|Piedmont|54
+Moriondo Torinese|45.039|7.941|IT|Piedmont|54
+Perosa Canavese|45.397|7.831|IT|Piedmont|54
+San Martino Canavese|45.395|7.816|IT|Piedmont|54
+Terdobbiate|45.376|8.695|IT|Piedmont|54
+Torre Beretti|45.060|8.671|IT|Lombardy|54
+Planken|47.185|9.544|LI|Planken|54
+Curino|45.627|8.236|IT|Piedmont|54
+Settimo Rottaro|45.408|7.994|IT|Piedmont|53
+Muzzano|45.561|7.989|IT|Piedmont|53
+Castelletto Merli|45.074|8.240|IT|Piedmont|53
+Rive|45.214|8.417|IT|Piedmont|53
+Premeno|45.978|8.596|IT|Piedmont|53
+Bianzano|45.773|9.918|IT|Lombardy|53
+Trontano|46.122|8.333|IT|Piedmont|53
+Gandellino|45.991|9.946|IT|Lombardy|53
+Lasnigo|45.882|9.266|IT|Lombardy|53
+Montiglio|45.065|8.099|IT|Piedmont|53
+Ranzanico|45.788|9.935|IT|Lombardy|53
+Villanova del Sillaro|45.238|9.482|IT|Lombardy|53
+Grazzano Badoglio|45.040|8.311|IT|Piedmont|53
+Monticelli Pavese|45.111|9.513|IT|Lombardy|53
+Gignese|45.864|8.509|IT|Piedmont|53
+Cassina Valsassina|45.932|9.479|IT|Lombardy|53
+Passerano Marmorito|45.056|8.019|IT|Piedmont|53
+Ottiglio|45.054|8.340|IT|Piedmont|53
+Sillavengo|45.521|8.441|IT|Piedmont|53
+Formazza|46.377|8.426|IT|Piedmont|53
+Madonna del Sasso|45.792|8.370|IT|Piedmont|53
+Salerano Canavese|45.458|7.851|IT|Piedmont|53
+Cesara|45.834|8.368|IT|Piedmont|53
+Frassinello Monferrato|45.033|8.387|IT|Piedmont|53
+Fontanella-Ozino|45.620|8.169|IT|Piedmont|53
+Vistrorio|45.441|7.768|IT|Piedmont|53
+Montescheno|46.067|8.232|IT|Piedmont|53
+Nonio|45.846|8.378|IT|Piedmont|53
+Anzola d'Ossola|45.989|8.345|IT|Piedmont|53
+Sirta|46.158|9.661|IT|Lombardy|53
+Piazzatorre|45.993|9.689|IT|Lombardy|53
+Brozolo|45.117|8.072|IT|Piedmont|53
+Morimondo|45.354|8.956|IT|Lombardy|53
+Zerbo|45.110|9.396|IT|Lombardy|53
+Colazza|45.793|8.500|IT|Piedmont|53
+Vico Canavese|45.493|7.779|IT|Piedmont|53
+Maglione|45.347|8.013|IT|Piedmont|53
+Piovà Massaia|45.055|8.050|IT|Piedmont|53
+Rea|45.113|9.155|IT|Lombardy|53
+Zimone|45.449|8.037|IT|Piedmont|53
+Caglio|45.871|9.237|IT|Lombardy|53
+Casaletto di Sopra|45.419|9.783|IT|Lombardy|53
+Champorcher|45.624|7.622|IT|Aosta Valley|53
+Cedrasco|46.149|9.768|IT|Lombardy|53
+Baceno|46.261|8.319|IT|Piedmont|52
+Dorzano|45.426|8.099|IT|Piedmont|52
+Quarna Sotto|45.869|8.363|IT|Piedmont|52
+Brusson|45.759|7.729|IT|Aosta Valley|52
+Casapinta|45.616|8.196|IT|Piedmont|52
+Levone|45.317|7.606|IT|Piedmont|52
+Postua|45.714|8.229|IT|Piedmont|52
+Cumignano sul Naviglio|45.355|9.836|IT|Lombardy|52
+Cerete Alto|45.867|9.995|IT|Lombardy|52
+Isola Sant'Antonio|45.030|8.849|IT|Piedmont|52
+Dazio|46.161|9.601|IT|Lombardy|52
+Düns|47.224|9.717|AT|Vorarlberg|52
+Viktorsberg|47.301|9.675|AT|Vorarlberg|52
+Brosso|45.492|7.802|IT|Piedmont|52
+Parella|45.430|7.791|IT|Piedmont|52
+Cerrione|45.469|8.068|IT|Piedmont|52
+Casasco Intelvi|45.944|9.076|IT|Lombardy|52
+Montaldo Torinese|45.065|7.850|IT|Piedmont|52
+Vernate|45.316|9.060|IT|Lombardy|52
+Camagna Monferrato|45.018|8.430|IT|Piedmont|52
+Cassano Valcuvia|45.932|8.768|IT|Lombardy|52
+Casalino|45.358|8.524|IT|Piedmont|52
+Olmo al Brembo|45.970|9.650|IT|Lombardy|52
+San Cipriano Po|45.109|9.281|IT|Lombardy|52
+Brienno|45.912|9.131|IT|Lombardy|52
+Pagnona|46.060|9.403|IT|Lombardy|52
+Piatto|45.590|8.135|IT|Piedmont|52
+Camandona|45.644|8.100|IT|Piedmont|52
+Gressoney-Saint-Jean|45.773|7.828|IT|Aosta Valley|52
+Rosignano Monferrato|45.081|8.400|IT|Piedmont|52
+Valle Salimbene|45.172|9.234|IT|Lombardy|52
+Sala Biellese|45.509|7.958|IT|Piedmont|52
+Miasino|45.802|8.430|IT|Piedmont|52
+Cerano d'Intelvi|45.944|9.088|IT|Lombardy|52
+Torre di Santa Maria|46.234|9.852|IT|Lombardy|52
+Canneto|45.051|9.281|IT|Lombardy|52
+Antronapiana|46.061|8.115|IT|Piedmont|52
+Därligen|46.662|7.808|CH|Bern|52
+Chambave|45.744|7.549|IT|Aosta Valley|52
+Andrate|45.526|7.881|IT|Piedmont|52
+Belgirate|45.841|8.571|IT|Piedmont|52
+Donato|45.526|7.910|IT|Piedmont|52
+Fara Olivana|45.495|9.749|IT|Lombardy|52
+Meleti|45.120|9.836|IT|Lombardy|52
+Scarmagno|45.385|7.841|IT|Piedmont|52
+Casaletto Lodigiano|45.293|9.362|IT|Lombardy|52
+Gaby|45.713|7.882|IT|Aosta Valley|52
+Casanova Lonati|45.094|9.213|IT|Lombardy|52
+Premia|46.268|8.338|IT|Piedmont|52
+Ticengo|45.369|9.828|IT|Lombardy|51
+Dizzasco-Biazzeno|45.944|9.100|IT|Lombardy|51
+Formigliana|45.429|8.292|IT|Piedmont|51
+Crova|45.331|8.211|IT|Piedmont|51
+Lillianes|45.629|7.841|IT|Aosta Valley|51
+Miazzina|45.976|8.523|IT|Piedmont|51
+Quinto Vercellese|45.379|8.362|IT|Piedmont|51
+Castel Gabbiano|45.468|9.718|IT|Lombardy|51
+Margno|46.031|9.382|IT|Lombardy|51
+Torre de' Busi|45.774|9.480|IT|Lombardy|51
+Cunico|45.041|8.096|IT|Piedmont|51
+Mornico|45.011|9.209|IT|Lombardy|51
+Cino|46.158|9.485|IT|Lombardy|51
+Vassena|45.930|9.284|IT|Lombardy|51
+Cella Monte|45.074|8.392|IT|Piedmont|51
+Gaverina Terme|45.756|9.887|IT|Lombardy|51
+Genzone|45.180|9.348|IT|Lombardy|51
+Ciconio|45.330|7.759|IT|Piedmont|51
+Corana|45.063|8.970|IT|Lombardy|51
+Alice Superiore|45.461|7.779|IT|Piedmont|51
+Röns|47.217|9.700|AT|Vorarlberg|51
+Quassolo|45.523|7.833|IT|Piedmont|51
+Santa Maria dei Sabbioni|45.244|9.839|IT|Lombardy|51
+Albaredo|46.103|9.590|IT|Lombardy|51
+Blons|47.223|9.834|AT|Vorarlberg|51
+Carona|46.021|9.785|IT|Lombardy|51
+Torricella Verzate|45.020|9.174|IT|Lombardy|51
+Rognano|45.288|9.090|IT|Lombardy|51
+Veddasca|46.071|8.799|IT|Lombardy|51
+Valgoglio|45.975|9.914|IT|Lombardy|51
+Zubiena|45.493|7.996|IT|Piedmont|51
+Verretto|45.040|9.113|IT|Lombardy|51
+Nicorvo|45.286|8.668|IT|Lombardy|51
+Badia Pavese|45.121|9.469|IT|Lombardy|51
+Montegrino Valtravaglia|45.974|8.767|IT|Lombardy|51
+Sala Monferrato|45.075|8.361|IT|Piedmont|51
+Corna Imagna|45.831|9.545|IT|Lombardy|51
+Gabiano|45.157|8.195|IT|Piedmont|51
+Issiglio|45.446|7.753|IT|Piedmont|51
+Cossano Canavese|45.388|7.992|IT|Piedmont|51
+Rivalba|45.117|7.888|IT|Piedmont|50
+Camino|45.157|8.294|IT|Piedmont|50
+Costa di Serina|45.833|9.742|IT|Lombardy|50
+Bozzole|45.069|8.606|IT|Piedmont|50
+Langosco|45.215|8.564|IT|Lombardy|50
+Alzano Scrivia|45.018|8.881|IT|Piedmont|50
+Battuda|45.275|9.078|IT|Lombardy|50
+Dorio|46.100|9.319|IT|Lombardy|50
+Lanvario|45.640|8.199|IT|Piedmont|50
+Pratiglione|45.353|7.596|IT|Piedmont|50
+Spessa|45.114|9.349|IT|Lombardy|50
+Vidracco|45.431|7.757|IT|Piedmont|50
+Cavaglietto|45.602|8.502|IT|Piedmont|50
+Agra|46.037|8.768|IT|Lombardy|50
+Greggio|45.451|8.385|IT|Piedmont|50
+Prarolo|45.281|8.478|IT|Piedmont|50
+Torre de' Negri|45.150|9.335|IT|Lombardy|50
+Cerrina|45.121|8.214|IT|Piedmont|50
+Coniolo Bricco|45.148|8.371|IT|Piedmont|50
+Damüls|47.280|9.892|AT|Vorarlberg|50
+Santino|45.956|8.519|IT|Piedmont|50
+Cavaglio-Spoccia|46.071|8.631|IT|Piedmont|50
+Scopello|45.774|8.094|IT|Piedmont|50
+Guazzora|45.014|8.848|IT|Piedmont|50
+Guardabosone|45.702|8.249|IT|Piedmont|50
+Postalesio|46.174|9.777|IT|Lombardy|50
+Rezzago|45.867|9.249|IT|Lombardy|50
+Ramponio Verna|45.997|9.066|IT|Lombardy|50
+Pertengo|45.236|8.417|IT|Piedmont|50
+Cellio|45.755|8.312|IT|Piedmont|50
+Villa d'Oneta|45.871|9.819|IT|Lombardy|50
+Villa del Bosco|45.617|8.278|IT|Piedmont|50
+Alagna Valsesia|45.852|7.938|IT|Piedmont|50
+Cozzo|45.192|8.611|IT|Lombardy|50
+Castelvisconti|45.305|9.941|IT|Lombardy|50
+Pomaro Monferrato|45.062|8.596|IT|Piedmont|49
+Costa de' Nobili|45.132|9.379|IT|Lombardy|49
+Villarboit|45.438|8.337|IT|Piedmont|49
+Lorüns|47.133|9.850|AT|Vorarlberg|49
+Piea|45.027|8.071|IT|Piedmont|49
+Bene Lario|46.029|9.184|IT|Lombardy|49
+Pietra de' Giorgi|45.021|9.230|IT|Lombardy|49
+Marzio|45.938|8.858|IT|Lombardy|49
+Nomaglio|45.536|7.860|IT|Piedmont|49
+Aviatico|45.798|9.771|IT|Lombardy|49
+Quarna Sopra|45.873|8.374|IT|Piedmont|49
+Stallehr|47.140|9.856|AT|Vorarlberg|49
+Montemezzo|46.179|9.371|IT|Lombardy|49
+Isso|45.477|9.759|IT|Lombardy|49
+San Nazzaro Val Cavargna|46.089|9.127|IT|Lombardy|49
+Lemna|45.858|9.160|IT|Lombardy|49
+Albano Vercellese|45.426|8.381|IT|Piedmont|49
+Villa-Nabian|45.690|7.705|IT|Aosta Valley|49
+Cereseto|45.087|8.318|IT|Piedmont|49
+Conzano|45.020|8.456|IT|Piedmont|49
+Mombello di Torino|45.046|7.921|IT|Piedmont|49
+Quincod|45.715|7.735|IT|Aosta Valley|49
+Rasura|46.101|9.553|IT|Lombardy|49
+Dosso del Liro|46.164|9.273|IT|Lombardy|49
+Canischio|45.375|7.596|IT|Piedmont|49
+Odalengo Piccolo|45.072|8.206|IT|Piedmont|49
+Moncucco Torinese|45.067|7.932|IT|Piedmont|49
+Schnepfau|47.352|9.945|AT|Vorarlberg|49
+Colleretto Castelnuovo|45.422|7.680|IT|Piedmont|49
+Pancarana|45.075|9.051|IT|Lombardy|49
+Roncola|45.769|9.561|IT|Lombardy|49
+Pigra|45.957|9.126|IT|Lombardy|48
+Lugnacco|45.445|7.782|IT|Piedmont|48
+Torlino Vimercati|45.417|9.595|IT|Lombardy|48
+Villette|46.132|8.534|IT|Piedmont|48
+Berzano di San Pietro|45.094|7.954|IT|Piedmont|48
+San Rocco|45.009|9.162|IT|Lombardy|48
+Prascorsano|45.367|7.617|IT|Piedmont|48
+San Giacomo Vercellese|45.498|8.327|IT|Piedmont|48
+Cortanze|45.014|8.089|IT|Piedmont|48
+Robecco Pavese|45.048|9.150|IT|Lombardy|48
+Scopa|45.793|8.114|IT|Piedmont|48
+Mezzana Rabattone|45.095|9.032|IT|Lombardy|48
+Gerosa|45.850|9.572|IT|Lombardy|48
+San Pietro in Cerro|45.021|9.950|IT|Emilia-Romagna|48
+Staffa|45.969|7.967|IT|Piedmont|48
+Crandola Valsassina|46.023|9.379|IT|Lombardy|48
+Cusio|45.991|9.602|IT|Lombardy|48
+Cornalba|45.849|9.746|IT|Lombardy|48
+Ternengo|45.589|8.114|IT|Piedmont|48
+Ceppo Morelli|45.971|8.067|IT|Piedmont|48
+Vallanzengo|45.603|8.150|IT|Piedmont|48
+Antey-Saint-Andrè|45.806|7.587|IT|Aosta Valley|48
+Bannio|45.984|8.146|IT|Piedmont|48
+Pino sulla Sponda del Lago Maggiore|46.101|8.739|IT|Lombardy|48
+Roncobello|45.956|9.752|IT|Lombardy|48
+Masciago Primo|45.918|8.781|IT|Lombardy|48
+Quagliuzzo|45.427|7.781|IT|Piedmont|48
+Tiefencastel|46.660|9.579|CH|Grisons|48
+Antagnod|45.815|7.689|IT|Aosta Valley|48
+Castellazzo Novarese|45.513|8.487|IT|Piedmont|48
+Vanzone|45.978|8.108|IT|Piedmont|48
+San Ponso|45.351|7.671|IT|Piedmont|48
+Alpette|45.409|7.578|IT|Piedmont|48
+Semiana|45.137|8.730|IT|Lombardy|48
+Cusino|46.075|9.153|IT|Lombardy|48
+Massazza|45.492|8.165|IT|Piedmont|48
+Villa San Secondo|45.005|8.135|IT|Piedmont|47
+Alfiano Natta|45.049|8.207|IT|Piedmont|47
+Arola|45.809|8.358|IT|Piedmont|47
+Casanova Elvo|45.400|8.294|IT|Piedmont|47
+Cavargna|46.091|9.112|IT|Lombardy|47
+Maglione-Crosa|45.603|8.149|IT|Piedmont|47
+Abbadia Cerreto|45.312|9.594|IT|Lombardy|47
+Civiasco|45.808|8.294|IT|Piedmont|47
+Borgiallo|45.418|7.670|IT|Piedmont|47
+Gurro|46.085|8.568|IT|Piedmont|47
+Vinzaglio|45.323|8.520|IT|Piedmont|47
+Vestreno|46.083|9.325|IT|Lombardy|47
+Viale|45.000|8.050|IT|Piedmont|47
+Albugnano|45.078|7.971|IT|Piedmont|47
+Valentino|45.156|8.094|IT|Piedmont|47
+Vialfrè|45.381|7.818|IT|Piedmont|47
+Oldenico|45.403|8.381|IT|Piedmont|47
+Aurogna|46.171|9.355|IT|Lombardy|47
+Mandello Vitta|45.496|8.460|IT|Piedmont|47
+Castelletto Cervo|45.521|8.225|IT|Piedmont|47
+Veleso|45.909|9.181|IT|Lombardy|47
+Strambinello|45.423|7.770|IT|Piedmont|47
+Cigognola|45.033|9.245|IT|Lombardy|47
+Moio de' Calvi|45.952|9.701|IT|Lombardy|47
+Traversella|45.509|7.749|IT|Piedmont|47
+Borgo|45.639|8.115|IT|Piedmont|46
+Pino d'Asti|45.057|7.986|IT|Piedmont|46
+San Giacomo Filippo|46.338|9.371|IT|Lombardy|46
+Ornica|45.989|9.578|IT|Lombardy|46
+Livo|46.168|9.304|IT|Lombardy|46
+Mongnod|45.805|7.568|IT|Aosta Valley|46
+Galliavola|45.098|8.819|IT|Lombardy|46
+Valnegra|45.949|9.689|IT|Lombardy|46
+Bauen|46.936|8.578|CH|Uri|46
+Fuipiano Valle Imagna|45.854|9.528|IT|Lombardy|46
+Ponna Superiore|45.990|9.094|IT|Lombardy|46
+Brovello|45.842|8.532|IT|Piedmont|46
+Pecco|45.452|7.777|IT|Piedmont|46
+Trezzone|46.172|9.352|IT|Lombardy|46
+Baldissero Canavese|45.410|7.744|IT|Piedmont|46
+Bastida de' Dossi|45.040|8.922|IT|Lombardy|46
+Foppolo|46.043|9.758|IT|Lombardy|46
+Peglio|46.160|9.295|IT|Lombardy|46
+Trarego|46.034|8.670|IT|Piedmont|46
+Gambarana|45.029|8.763|IT|Lombardy|46
+Oltressenda Alta|45.915|9.945|IT|Lombardy|46
+Albosaggia|46.147|9.854|IT|Lombardy|46
+Germagno|45.893|8.388|IT|Piedmont|46
+Valeggio|45.151|8.861|IT|Lombardy|46
+Vedeseta|45.891|9.539|IT|Lombardy|46
+Villadeati|45.072|8.168|IT|Piedmont|45
+Falmenta|46.073|8.589|IT|Piedmont|45
+Isola di Fondra|45.979|9.747|IT|Lombardy|45
+Frinco|45.004|8.172|IT|Piedmont|45
+Penango|45.033|8.252|IT|Piedmont|45
+Val Rezzo|46.073|9.112|IT|Lombardy|45
+Mombello Monferrato|45.133|8.250|IT|Piedmont|45
+Zelbio|45.905|9.181|IT|Lombardy|45
+Blessagno|45.959|9.098|IT|Lombardy|45
+Ceretto Lomellina|45.245|8.672|IT|Lombardy|45
+Treville|45.097|8.360|IT|Piedmont|45
+Ronco Canavese|45.501|7.547|IT|Piedmont|45
+Tremenico|46.076|9.366|IT|Lombardy|45
+Caprezzo|45.982|8.563|IT|Piedmont|45
+Salasco|45.326|8.264|IT|Piedmont|45
+Tronzano Lago Maggiore|46.089|8.733|IT|Lombardy|45
+Sueglio|46.086|9.334|IT|Lombardy|44
+Averara|45.988|9.632|IT|Lombardy|44
+Mezzoldo|46.013|9.666|IT|Lombardy|44
+Castana|45.027|9.272|IT|Lombardy|44
+Ponzano Monferrato|45.085|8.266|IT|Piedmont|44
+Gressoney-La-Trinitè|45.830|7.823|IT|Aosta Valley|44
+Cornovecchio|45.137|9.799|IT|Lombardy|44
+Torrazzo|45.499|7.954|IT|Piedmont|44
+Curiglia|46.061|8.805|IT|Lombardy|44
+Cerreto d'Asti|45.052|8.035|IT|Piedmont|44
+Verrayes|45.763|7.535|IT|Aosta Valley|44
+Gerola Alta|46.060|9.550|IT|Lombardy|44
+Cinzano|45.095|7.924|IT|Piedmont|43
+Trasquera|46.213|8.213|IT|Piedmont|43
+Duno|45.914|8.738|IT|Lombardy|43
+Riva Valdobbia|45.831|7.957|IT|Piedmont|43
+Seppiana|46.058|8.217|IT|Piedmont|43
+Issime|45.685|7.854|IT|Aosta Valley|43
+Frassinetto|45.438|7.609|IT|Piedmont|43
+Zenevredo|45.054|9.327|IT|Lombardy|43
+Magnano|45.463|8.003|IT|Piedmont|43
+Barquedo|45.743|8.496|IT|Piedmont|43
+San Colombano Belmonte|45.382|7.621|IT|Piedmont|43
+Cercino|46.158|9.508|IT|Lombardy|43
+Introzzo|46.081|9.341|IT|Lombardy|43
+Bema|46.108|9.564|IT|Lombardy|43
+Bracca|45.823|9.708|IT|Lombardy|43
+Bard|45.609|7.745|IT|Aosta Valley|43
+Parlasco|46.018|9.345|IT|Lombardy|42
+Vendrogno|46.034|9.329|IT|Lombardy|42
+Loreglia|45.907|8.371|IT|Piedmont|42
+Campertogno|45.799|8.032|IT|Piedmont|42
+Valleve|46.028|9.744|IT|Lombardy|42
+Corsione|45.001|8.145|IT|Piedmont|42
+Castelnuovo Nigra|45.438|7.695|IT|Piedmont|42
+Piedicavallo|45.690|7.955|IT|Piedmont|42
+Cintano|45.428|7.688|IT|Piedmont|42
+Fontainemore|45.647|7.860|IT|Aosta Valley|42
+Intragna|45.995|8.574|IT|Piedmont|42
+Massiola|45.912|8.320|IT|Piedmont|42
+Montevecchia|45.705|9.381|IT|Lombardy|41
+Rossa|45.833|8.124|IT|Piedmont|41
+Valtorta|45.977|9.535|IT|Lombardy|41
+Calvignasco|45.326|9.028|IT|Lombardy|41
+Serralunga di Crea|45.101|8.281|IT|Piedmont|41
+Aramengo|45.101|8.000|IT|Piedmont|41
+Sali Vercellese|45.310|8.329|IT|Piedmont|41
+Robella|45.102|8.102|IT|Piedmont|40
+Selve Marcone|45.620|8.087|IT|Piedmont|40
+Viganella|46.052|8.194|IT|Piedmont|40
+Capriglio|45.004|8.009|IT|Piedmont|40
+Campiglia Cervo|45.663|8.000|IT|Piedmont|40
+Valle San Nicolao|45.607|8.141|IT|Piedmont|40
+Cassiglio|45.967|9.612|IT|Lombardy|40
+Champdepraz|45.685|7.657|IT|Aosta Valley|40
+Boccioleto|45.830|8.113|IT|Piedmont|40
+Piazzolo|45.980|9.671|IT|Lombardy|40
+Balmuccia|45.819|8.141|IT|Piedmont|40
+Balocco|45.456|8.281|IT|Piedmont|40
+Collobiano|45.397|8.348|IT|Piedmont|40
+Saint-Denis|45.753|7.555|IT|Aosta Valley|39
+Torre d'Isola|45.218|9.077|IT|Lombardy|39
+Chamois|45.839|7.619|IT|Aosta Valley|39
+Arvigo|46.302|9.113|CH|Grisons|39
+Olivola|45.037|8.368|IT|Piedmont|39
+La Magdeleine|45.810|7.619|IT|Aosta Valley|39
+Piode|45.771|8.053|IT|Piedmont|39
+Buseno|46.274|9.107|CH|Grisons|39
+Aurano|46.000|8.588|IT|Piedmont|39
+Pont-Bozet|45.607|7.686|IT|Aosta Valley|39
+Solonghello|45.129|8.283|IT|Piedmont|39
+Rosazza|45.676|7.977|IT|Piedmont|39
+Spriana|46.220|9.864|IT|Lombardy|39
+Trausella|45.490|7.763|IT|Piedmont|39
+Rimasco|45.860|8.064|IT|Piedmont|39
+San Lorenzo|46.127|8.201|IT|Piedmont|39
+Dünserberg|47.228|9.724|AT|Vorarlberg|38
+Perloz|45.614|7.808|IT|Aosta Valley|38
+Villanova Biellese|45.482|8.194|IT|Piedmont|38
+Buccinasco|45.407|9.108|IT|Lombardy|38
+Bosnasco|45.064|9.357|IT|Lombardy|38
+Breia|45.765|8.306|IT|Piedmont|38
+Carcoforo|45.909|8.050|IT|Piedmont|37
+Villa Biscossi|45.091|8.787|IT|Lombardy|37
+Brumano|45.855|9.501|IT|Lombardy|37
+Serone|46.156|9.582|IT|Lombardy|37
+Moransengo|45.115|8.025|IT|Piedmont|37
+Ailoche|45.698|8.221|IT|Piedmont|37
+Pianazzo|46.428|9.344|IT|Lombardy|37
+Tonengo|45.118|8.002|IT|Piedmont|37
+Moncestino|45.155|8.161|IT|Piedmont|36
+Sabbia|45.857|8.236|IT|Piedmont|36
+Hinterrhein|46.533|9.200|CH|Grisons|36
+Meugliano|45.490|7.779|IT|Piedmont|36
+Chiesanuova|45.417|7.656|IT|Piedmont|36
+Fobello|45.890|8.158|IT|Piedmont|36
+Montescano|45.032|9.284|IT|Lombardy|36
+Rassa|45.768|8.012|IT|Piedmont|35
+Velezzo Lomellina|45.163|8.737|IT|Lombardy|35
+Vocca|45.833|8.196|IT|Piedmont|34
+Pila|45.770|8.081|IT|Piedmont|34
+Cravagliana|45.848|8.202|IT|Piedmont|34
+Mollia|45.817|8.030|IT|Piedmont|34
+Villamiroglio|45.135|8.171|IT|Piedmont|33
+Cursolo|46.099|8.568|IT|Piedmont|33
+Montecrestese|46.164|8.326|IT|Piedmont|33
+Odalengo Grande|45.109|8.167|IT|Piedmont|33
+Callabiana - Chiesa|45.631|8.097|IT|Piedmont|33
+Frazione Chiesa|45.694|8.212|IT|Piedmont|33
+Menarola|46.299|9.361|IT|Lombardy|33
+Valprato Soana|45.522|7.549|IT|Piedmont|32
+Emarese|45.725|7.690|IT|Aosta Valley|32
+Cauco|46.335|9.121|CH|Grisons|31
+Pedesina|46.082|9.549|IT|Lombardy|31
+Rima|45.885|7.999|IT|Piedmont|30
+Tartano|46.106|9.679|IT|Lombardy|29
+Maccastorna|45.147|9.855|IT|Lombardy|28
+Vizzola Ticino|45.626|8.697|IT|Lombardy|27
+Cervatto|45.883|8.162|IT|Piedmont|27
+Gifflenga|45.493|8.232|IT|Piedmont|27
+Oliva Gessi|45.006|9.173|IT|Lombardy|26
+Algua|45.826|9.722|IT|Lombardy|24
+Ribordone|45.433|7.502|IT|Piedmont|24
+Rimella|45.908|8.182|IT|Piedmont|24
+Ingria|45.467|7.571|IT|Piedmont|21
+Blello|45.838|9.571|IT|Lombardy|17
+Morterone|45.875|9.482|IT|Lombardy|6
+Aeugst am Albis|47.267|8.485|CH|Zurich|0
+Auswil|47.136|7.832|CH|Bern|0
+Bedigliora|46.003|8.841|CH|Ticino|0
+Besenbüren|47.314|8.346|CH|Aargau|0
+Biberstein|47.416|8.085|CH|Aargau|0
+Braggio|46.303|9.124|CH|Grisons|0
+Bünzen|47.310|8.324|CH|Aargau|0
+Busswil bei Melchnau|47.186|7.832|CH|Bern|0
+Campo dei Fiori|45.551|9.199|IT|Lombardy|0
+Cizzago|45.471|9.950|IT|Lombardy|0
+Donat|46.628|9.430|CH|Grisons|0
+Känerkinden|47.412|7.837|CH|Basel-Landschaft|0
+Kirchleerau|47.276|8.066|CH|Aargau|0
+La Punt Chamues-ch|46.579|9.920|CH|Grisons|0
+Nofels|47.255|9.578|AT|Vorarlberg|0
+Oberhof|47.449|8.003|CH|Aargau|0
+Oberhünigen|46.880|7.657|CH|Bern|0
+Oberkulm|47.299|8.122|CH|Aargau|0
+Promontogno|46.339|9.558|CH|Grisons|0
+Röfels|47.010|9.545|CH|Grisons|0
+Rottenschwil|47.314|8.361|CH|Aargau|0
+Rüegsau|47.025|7.674|CH|Bern|0
+Rüti bei Lyssach|47.057|7.577|CH|Bern|0
+Santa Maria in Calanca|46.263|9.145|CH|Grisons|0
+Savosa|46.019|8.942|CH|Ticino|0
+Sonntag|47.239|9.898|AT|Vorarlberg|0
+Tägertschi|46.875|7.585|CH|Bern|0
+Tagliuno|45.643|9.909|IT|Lombardy|0
+Tenniken|47.437|7.811|CH|Basel-Landschaft|0
+Uebeschi|46.738|7.556|CH|Bern|0
+Veyras|46.302|7.536|CH|Valais|0
+Walliswil bei Niederbipp|47.236|7.690|CH|Bern|0
+Wettswil|47.337|8.475|CH|Zurich|0

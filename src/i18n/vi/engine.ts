@@ -2,10 +2,12 @@
  * Vietnamese copy the report engine emits (see src/i18n/en/engine.ts; docs/i18n/vi.md §3.8): the computing readout's
  * progress lines and the report's footnotes about degraded data.
  *
- * Why it reads this way: the readout's rows are one mono line of about 40 characters on a phone, so each is a short
- * status with *Đang* ("now doing"), the count word after the number and no plural (*16.893 vật thể*, *31 lượt*, *12
- * ảnh*). "Propagate" is said as what it does, *tính quỹ đạo* (compute the orbits), never *lan truyền*. "Scenes" are
- * matched as *ảnh* to stay inside the line; the weather row says *ảnh thời tiết NASA* so its counter is not cut off.
+ * Why it reads this way: the readout's rows are one mono line of about 30 characters on a 390 px phone (26 at 360),
+ * so each is a short status with *Đang* ("now doing"), the count word after the number and no plural (*16.893 vật
+ * thể*, *31 lượt*, *12 ảnh*). "Propagate" is said as what it does, *tính quỹ đạo* (compute the orbits), never *lan
+ * truyền*. "Scenes" are matched as *ảnh* to stay inside the line. The weather row's counter is cut off on phones in
+ * every language (English too: the row ellipsises as one string); that is the readout's layout to fix, reported, not
+ * a reason to drop *thời tiết*.
  * Footnotes say what failed and what that means, and quote the verdicts in their own words (*“nhiều khả năng đã quan
  * sát”*, *“đã quan sát”*, §3.7). "N of M" is *N trong số M* (§5.3 rule 4).
  */

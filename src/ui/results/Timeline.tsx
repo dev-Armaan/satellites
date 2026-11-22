@@ -80,7 +80,7 @@ function laneMinOf(el: HTMLElement | null): number {
   return el ? parseFloat(getComputedStyle(el).getPropertyValue('--lane-min')) || 0 : 0
 }
 
-function layoutFor(w: number, h: number, compact: boolean, hasGeo: boolean, laneMin = 0): Layout {
+export function layoutFor(w: number, h: number, compact: boolean, hasGeo: boolean, laneMin = 0): Layout {
   // Compact (phone body): photographs, then one density strip of everything else.
   const lanes: Lane[] = compact ? ['imaged', 'rest'] : ['imaged', 'likely', 'could', 'overhead']
   const shares = compact ? SHARES_COMPACT : SHARES_FULL
@@ -145,7 +145,10 @@ export function Timeline({ model, selectedId, onSelect, compact = false, index =
   const hasGeo = report.geo.length > 0
   // The script follows the language: read the lanes' least height again when either changes.
   const laneMin = useMemo(() => (size.h ? laneMinOf(plotRef.current) : 0), [size.h, locale])
-  const L = useMemo(() => layoutFor(size.w, size.h, compact, hasGeo, laneMin), [size.w, size.h, compact, hasGeo, laneMin])
+  const L = useMemo(
+    () => layoutFor(size.w, size.h, compact, hasGeo, laneMin),
+    [size.w, size.h, compact, hasGeo, laneMin],
+  )
   const xOf = useCallback((t: number) => ((t - t0) / span) * size.w, [t0, span, size.w])
   const captureById = useMemo(() => new Map(report.captures.map((c) => [c.id, c])), [report.captures])
 

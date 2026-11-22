@@ -16,13 +16,13 @@ import { num, type NumPart } from '../../../api/_lib/i18n/parts'
 const f = fmt('vi')
 const PASS = 'lượt'
 /** The plan view's caption, after each reason there is no picture */
-const PLAN = 'Hình trên là sơ đồ lượt bay.'
+const PLAN = 'Hình trên là sơ đồ lượt\u00a0bay.'
 
 const passView: typeof en = {
   // ── the list ─────────────────────────────────────────────────────────────────────────────
   /** "We track" is *trong danh mục của chúng tôi*, and a negated past takes no *đã* (as the headline's zero) */
   empty:
-    'Trong khoảng thời gian này, không vệ tinh nào trong danh mục của chúng tôi bay qua nơi này. Điều đó hiếm khi xảy ra; ghi chú phía trên sẽ cho biết nếu có nguồn dữ liệu bị gián đoạn.',
+    'Trong khoảng thời gian này, không vệ tinh nào trong danh mục của chúng tôi bay qua nơi này. Điều đó hiếm khi xảy ra; ghi chú phía trên sẽ cho biết nếu có nguồn dữ liệu bị gián\u00a0đoạn.',
   imagedOrder: 'chi tiết nhất, rồi mới nhất',
   count: (n: number, _verdict: Verdict) => `${f.int(n)} ${PASS}`,
   countStack: (n: number, _verdict: Verdict): NumPart => num(f.int(n), PASS),
@@ -80,10 +80,11 @@ const passView: typeof en = {
     `Ảnh ghép hằng ngày: NASA ghép các dải quét trong ngày thành một bức ảnh, mỗi điểm ảnh rộng ${f.int(gsdM)}\u00a0m. Ảnh thô nhưng là ảnh thật, và là ảnh của đúng ngày có lượt bay này.`,
   radarNote:
     'Ảnh radar, không phải ảnh chụp: Sentinel-1 phát sóng vi ba và ghi lại sóng phản xạ, nên mây và bóng tối không cản được. Độ sáng cho biết mặt đất phản xạ sóng mạnh đến đâu: nhà cửa và địa hình gồ ghề thì sáng, mặt nước lặng thì tối.',
+  /** "Private" archives are *không mở cho công chúng*: *không công khai* after *Không có ảnh công khai* read the word twice */
   noImage: {
     openArchive: (sat: string) => `Không có ảnh ${sat} nào của điểm này từ lượt bay này. ${PLAN}`,
-    radarPrivate: `Không có ảnh công khai: kho lưu trữ của nhà vận hành radar này không công khai. ${PLAN}`,
-    commercialPrivate: `Không có ảnh công khai: kho lưu trữ thương mại không công khai. ${PLAN}`,
+    radarPrivate: `Không có ảnh công khai: kho lưu trữ của nhà vận hành radar này không mở cho công chúng. ${PLAN}`,
+    commercialPrivate: `Không có ảnh công khai: kho lưu trữ thương mại không mở cho công chúng. ${PLAN}`,
     noneToShow: `Không có ảnh để hiển thị cho lượt bay này. ${PLAN}`,
     archiveDown: `Hiện chưa tra cứu được kho lưu trữ. ${PLAN}`,
     noScene: `Không có cảnh ảnh nào từ lượt bay này. ${PLAN}`,
@@ -136,7 +137,8 @@ const passView: typeof en = {
     closestUtc: 'Gần nhất · UTC',
     closestLocal: 'Gần nhất · địa phương',
     groundDistance: 'Khoảng cách mặt đất',
-    elevationFromYou: 'Góc ngẩng từ chỗ bạn',
+    /** The label form of the spot, *điểm* (as `MÂY TẠI ĐIỂM`): *Góc ngẩng từ chỗ bạn* took two lines on phones */
+    elevationFromYou: 'Góc ngẩng tại điểm',
     groundSpeed: 'Tốc độ mặt đất',
     heading: 'Hướng bay',
     sunElevation: 'Góc ngẩng Mặt Trời',

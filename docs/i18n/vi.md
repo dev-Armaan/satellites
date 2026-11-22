@@ -711,7 +711,7 @@ Vietnamese has no inflection, no grammatical gender and no plural form. "Notes" 
 | catalog | danh mục | *danh mục quỹ đạo*. "Satellites we track" is *vệ tinh … trong danh mục của chúng tôi*. |
 | objects (HUD) | vật thể | |
 | altitude | độ cao | Label `ĐỘ CAO`; prose *ở độ cao 786 km*. Reserved for kilometres. |
-| elevation (an angle above the horizon) | góc ngẩng | Label `GÓC NGẨNG`; *Góc ngẩng từ chỗ bạn*, *Góc ngẩng Mặt Trời*. Never *độ cao* (the astronomers' word, but it is the altitude's in this product). In a sentence: *cao 64° trên đường chân trời*. |
+| elevation (an angle above the horizon) | góc ngẩng | Label `GÓC NGẨNG`; *Góc ngẩng tại điểm* (the spot in a label is *điểm*, §1.2), *Góc ngẩng Mặt Trời*. Never *độ cao* (the astronomers' word, but it is the altitude's in this product). In a sentence: *cao 64° trên đường chân trời*. |
 | up (unit after degrees) | cao | `64° CAO · TB`. |
 | horizon / sky | đường chân trời / bầu trời | |
 | almost straight up | gần như ngay trên đầu | |

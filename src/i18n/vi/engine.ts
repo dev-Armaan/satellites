@@ -9,7 +9,10 @@
  * every language (English too: the row ellipsises as one string); that is the readout's layout to fix, reported, not
  * a reason to drop *thời tiết*.
  * Footnotes say what failed and what that means, and quote the verdicts in their own words (*“nhiều khả năng đã quan
- * sát”*, *“đã quan sát”*, §3.7). "N of M" is *N trong số M* (§5.3 rule 4).
+ * sát”*, *“đã quan sát”*, §3.7). "N of M" is *N trong số M* (§5.3 rule 4). The weather row's counter is *3 trên 12*,
+ * as every visual counter is (`system.counter`): «3 / 12» under the window's «15/11 → 22/11» reads as a date. The
+ * orbit row keeps «288 / 403»: hundreds and thousands are never a day and a month, and *trên* would cut that row on a
+ * 430 px phone.
  */
 import type en from '../en/engine'
 import { fmt } from '../../../api/_lib/i18n/format'
@@ -26,7 +29,7 @@ const engine: typeof en = {
     matching: ({ scenes, passes }: { scenes: number; passes: number }) => `Đang đối chiếu ${f.int(scenes)} ảnh với ${f.int(passes)} lượt bay`,
     verifyingWeatherStart: 'Đang kiểm tra ảnh thời tiết NASA',
     verifyingWeather: ({ settled, total }: { settled: number; total: number }) =>
-      `Đang kiểm tra ảnh thời tiết NASA · ${f.int(settled)} / ${f.int(total)}`,
+      `Đang kiểm tra ảnh thời tiết NASA · ${f.int(settled)}\u00a0trên\u00a0${f.int(total)}`,
     done: ({ passes, images }: { passes: number; images: number }) => `${f.int(passes)} lượt · ${f.int(images)} ảnh`,
   },
 

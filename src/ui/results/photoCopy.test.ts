@@ -26,6 +26,12 @@ describe('gallery copy (English baseline)', () => {
     expect(enSystem.counter(12, 12, 2).join('')).toBe('12 / 12')
   })
 
+  it('never writes a Vietnamese counter as a slash, which reads as a date there', async () => {
+    const vi = (await import('@/i18n/vi/system')).default
+    expect(vi.counter(3, 12, 2)).toEqual(['3', '\u00a0trên\u00a012'])
+    expect(vi.counter(1350, 1362).join('')).toBe('1.350\u00a0trên\u00a01.362')
+  })
+
   it('names a slide with its lead and its place among the photos, or without them', () => {
     expect(m.slideLabel('closest', 'Sentinel-2C', 'Sun 1 Nov', '11:14', { k: 1, n: 40 })).toBe('Closest look: Sentinel-2C, Sun 1 Nov 11:14, photo 1 of 40')
     expect(m.slideLabel('lastClear', 'Landsat 9', 'Sat 31 Oct', '11:21')).toBe('Last clear look: Landsat 9, Sat 31 Oct 11:21')

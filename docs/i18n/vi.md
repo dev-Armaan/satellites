@@ -39,6 +39,7 @@ glyph check. Run `node -e` with `s.normalize('NFC') === s` over a file before co
 | Coordinates | International, as the app writes them: `16.2°S 063.0°E`, `0.2°W`. A translator never reformats them; their N (north) beside the compass's N (*nam*) is an open owner question (§4.2). |
 | Compass | Prose words *bắc … tây bắc*; readouts the 16 Vietnamese abbreviations `B … BTB` (§4.2). North is **B**, never N (N is *nam*, south). |
 | Dates | Day/month in digits, the Vietnamese way: *CN, 1/11* · *Chủ Nhật, 1/11* · `1 → 8/11/2026`; spoken *Chủ Nhật, ngày 1 tháng 11*. Never CLDR's *thg*. |
+| Counters | Every visual "k / n" counter is **`3 trên 12`** (`system.counter`: the gallery, the photo viewer, the pass pager, the time-lapse's frame badge and waiting line, the mosaics row), never `3 / 12` or `03 / 12`: beside *20/12/2017* a slash pair of small numbers is a date (§3.8). Spoken: *3 trong số 12*. |
 | Zones | Arrive formatted; a translator never writes or changes one. |
 | Time-lapse | The loan **time-lapse** (upright, hyphenated), as Vietnamese photographers and the press write it. |
 | Tone marks | The new placement (*hòa*, *thủy*, *hủy*, *khỏe*), and *y* in *kỹ*, *Mỹ*, *lý* (§6.1). |
@@ -555,7 +556,7 @@ The ladder reads image > swept over > maybe > passed, in titles and lanes alike.
 | PROPAGATING 9,120 ORBITS · 7 DAYS / PROPAGATING ORBITS · 3,000 / 9,120 | `ĐANG TÍNH 9.120 QUỸ ĐẠO · 7 NGÀY` / `ĐANG TÍNH QUỸ ĐẠO · 3.000 / 9.120` (never *lan truyền*) |
 | SEARCHING SENTINEL-2 + LANDSAT ARCHIVES | `ĐANG TRA KHO SENTINEL-2 + LANDSAT` |
 | MATCHING 12 SCENES TO 31 PASSES | `ĐANG ĐỐI CHIẾU 12 ẢNH VỚI 31 LƯỢT BAY` |
-| VERIFYING NASA WEATHER MOSAICS · 3 / 12 | `ĐANG KIỂM TRA ẢNH THỜI TIẾT NASA · 3 / 12` |
+| VERIFYING NASA WEATHER MOSAICS · 3 / 12 | `ĐANG KIỂM TRA ẢNH THỜI TIẾT NASA · 3 TRÊN 12` (the counter form below; the orbit row keeps `3.000 / 9.120`, which no date has, and *trên* would cut it at 430 px) |
 | 31 PASSES · 12 IMAGES | `31 LƯỢT · 12 ẢNH` |
 
 **Pass detail**
@@ -610,7 +611,14 @@ The ladder reads image > swept over > maybe > passed, in titles and lanes alike.
 - "Developing" is the photo lab's metaphor, and Vietnamese says it with *rửa ảnh* (*tiệm rửa ảnh*), which every reader
   knows. *tráng* goes with film (*tráng phim*): *tráng khung hình* is no collocation, and younger readers miss it.
 - "N of M" is *N trong số M*, never *N/M*: a slash between two small numbers reads as a date here (*3/11* is 3
-  November). The gallery's visual counter keeps the spaced `3 / 27`, which no date has.
+  November). The visual counters are *3 trên 27* (`system.counter`), not the spaced `3 / 27` this guide first kept:
+  phone review (2026-11-22) read the time-lapse's `03 / 12` beside *20/12/2017* as a second date, spaces or not, and
+  its zero-padded lead (`03`) is a day's form. *trên* is the everyday "out of" (*8 trên 10 điểm*, *9 trên 10 người*),
+  four letters where *trong số* is eight; it is joined by no-break spaces and set as its element is (lower case in the
+  badge and the pass pager, `1 TRÊN 40` in the gallery's and the viewer's caps). Measured, it fits everywhere: the
+  badge 68 → 83 px (one line, clear of the readout at every size), the pager 64 → 88 px (8 px from *Tất cả lượt
+  bay* at 360 px, the row's minimum gap, which French and Spanish already sit at), the gallery and the viewer
+  46–49 → 69–74 px, the waiting line 252 → 268 px at 360 px. No zero padding: `1 trên 12`.
 
 **HUD** (corner lines, mono caps, nowrap)
 
@@ -937,7 +945,8 @@ CLDR `vi` cardinal plural: **`other` only** (ordinal has `one` for *thứ nhất
 
    *bức* (pictures) in prose, never *tấm* (a print, a sheet: colloquial) or *chiếc*. The mono labels drop *bức*: a
    counter reads as a counter (*31 ẢNH*), as Vietnamese gallery apps print it.
-4. **"N of M" is *N trong số M*** in words, never *N/M* (a date, §3.8); "at least" *ít nhất*; "about" *khoảng* (prose) or
+4. **"N of M" is *N trong số M*** in words, never *N/M* (a date, §3.8); on screen, where a counter has a few
+   characters, *3 trên 12* (`system.counter`); "at least" *ít nhất*; "about" *khoảng* (prose) or
    `≈` (readouts); "every N minutes" *mỗi N phút*.
 5. **A count never stands bare before *tuần*, *ngày* or *năm* unless it counts them:** *12 tuần này* reads "these 12
    weeks". Put the noun or a label first: *Tuần này: 12*, *12 ảnh tuần này*.
@@ -1331,6 +1340,7 @@ what they did before.
 | 17 | Last clear look | *Không mây mới nhất*: *gần nhất* stays "closest" (§4.1, review). |
 | 18 | "We track" | *trong danh mục của chúng tôi*; *theo dõi* only for tracking data (§3.3, review). |
 | 19 | Crimea | *Crimea*, places in it *…, Ukraina* by the owner's override; no qualifier (§8, review). |
+| 20 | Visual counters | *3 trên 12*, never `3 / 12` or `03 / 12` (phone review, 2026-11-22): a slash pair of small numbers beside *20/12/2017* is a date. One formatter, `system.counter`, so every counter changes together (§3.8). |
 
 ---
 
@@ -1423,7 +1433,7 @@ results. Every letter is set in the Vietnamese faces (no fallback, no tofu), and
 
 **Kept**
 
-- The computing readout's *Đang kiểm tra ảnh thời tiết NASA · N / M*: its counter is cut on phones in English too (the
+- The computing readout's *Đang kiểm tra ảnh thời tiết NASA · N trên M*: its counter is cut on phones in English too (the
   row ellipsises as one string), so the layout is reported; dropping *thời tiết* would have hidden what is checked.
 - *LIÊN / KẾT* in the share sheet's 48 px column, *GẦN NHẤT · / ĐỊA PHƯƠNG* at 360 and 390 px, the pass strip's
   two-line labels at 360 px (English wraps OFF- / NADIR there too): clean breaks between words, values aligned.
@@ -1431,4 +1441,5 @@ results. Every letter is set in the Vietnamese faces (no fallback, no tofu), and
 **Reported, not fixable here:** Vietnamese place names (*Hanoi*, *Da Nang City*: no `vi` exonym table, and a search for
 *Hà Nội* finds a hamlet in Ninh Bình, not the capital); the geostationary frame time's live dot shrinking to 0 px when
 the relative time (*1 GIỜ TRƯỚC*) is wider than the thumbnail; *Asia/Bangkok* as Hanoi's zone in the computing readout;
-slash counters (*03 / 12*) that read as dates beside *20/12/2017*; the landscape headline column.
+slash counters (*03 / 12*) that read as dates beside *20/12/2017* (since fixed: *3 trên 12*, decision 20); the
+landscape headline column.

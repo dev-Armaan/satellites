@@ -12,39 +12,82 @@
  * their own (store helpers, the bottom Sheet, the copy, the GIBS and Meteosat endpoints, ...): seven more files on the
  * first search. The measure imports nothing but its tables, so the chunk graph stays as it was.
  *
- * Why the sheet still opens at once: the chunk is fetched once the report is final, when the main thread is next idle
- * (the panel's entrance and its photos come first), and at the first sign of intent anywhere on the page (a
- * pointerdown, a key, a focus: every Share is pressed with one of those, in the panel, the photo viewer or the pass
- * view), so a press finds it in.
+ * Why the sheet still opens at once: the chunk is fetched a few seconds after the report is final, when the main
+ * thread is next idle (the panel's entrance and its first photos come first; not at all on Save-Data or a 2G link,
+ * where only intent fetches it), and at the first sign of intent anywhere on the page (a pointerdown, a key, a focus:
+ * every Share is pressed with one of those, in the panel, the photo viewer or the pass view), so a press finds it in.
+ *
+ * A prefetch nobody waits for must not reload the results someone is reading when it fails (a dropped connection is
+ * as likely as a new build): src/lib/staleBuild.ts reloads the tab for any failed lazy import, but not, while a
+ * prefetch runs, for one that names this chunk (or names no module, as Safari's does). A press never
+ * rides on a failed prefetch: its own load asks again, loudly, so a new build reloads the tab as for any other chunk.
  */
 import { useEffect } from 'react'
-import { quietly } from '@/lib/staleBuild'
 import { hasCardMeasure, provideCardMeasure } from '../../../api/_lib/cardSpec'
 
 let chunk: Promise<void> | undefined
+/** The download in flight is a prefetch's (its failure stays quiet). */
+let quiet = false
+/** A prefetch failed: intent stops asking (a press still does). */
+let prefetchFailed = false
 
 /**
- * The measure's chunk (asked for once; a failed download is asked for again next time). `quiet`: a prefetch, whose
- * failure must not reload the results (src/lib/staleBuild.ts); a press's load may, when the build is new.
+ * The measure's chunk (asked for once; a failed download is asked for again next time). `prefetch`: nobody waits for
+ * it, so its failure must not reload the page; a press's load (the default) may, and never inherits a prefetch's failure.
  */
-export function loadCardMeasure(quiet = false): Promise<void> {
+export function loadCardMeasure(prefetch = false): Promise<void> {
   if (hasCardMeasure()) return Promise.resolve()
-  const load = () => import('../../../api/_lib/cardMeasure').then(provideCardMeasure)
-  chunk ??= quiet ? quietly(load) : load()
-  chunk.catch(() => (chunk = undefined))
-  return chunk
+  if (!chunk) {
+    setQuiet(prefetch)
+    const q = import('../../../api/_lib/cardMeasure').then(provideCardMeasure)
+    chunk = q
+    q.then(
+      () => setQuiet(false),
+      () => {
+        if (chunk === q) chunk = undefined
+        if (quiet) prefetchFailed = true
+        setQuiet(false)
+      },
+    )
+  }
+  const p = chunk
+  // A press on a prefetch's download asks once more itself if that fails (loudly), never twice.
+  return prefetch || !quiet ? p : p.catch(() => loadCardMeasure())
 }
 
 /** Installed: a card can be built now. */
 export const cardMeasureReady = hasCardMeasure
 
-const warm = () => void loadCardMeasure(true).catch(() => undefined)
+/**
+ * While a prefetch downloads, src/lib/staleBuild.ts lets its failure through without a reload: it reads the chunk
+ * names in this set (Symbol.for, shared without either module importing the other, which would move it to a chunk).
+ */
+const QUIET = Symbol.for('watched.quietChunks')
+function setQuiet(on: boolean) {
+  quiet = on
+  const g = globalThis as { [QUIET]?: Set<string> }
+  const set = (g[QUIET] ??= new Set())
+  if (on) set.add('cardMeasure-')
+  else set.delete('cardMeasure-')
+}
 
-/** How long after the final report the prefetch may wait for an idle main thread. */
+const warm = () => {
+  if (!prefetchFailed) void loadCardMeasure(true).catch(() => undefined)
+}
+
+/** After the final report: the panel's entrance and its first photos go first. */
+const PREFETCH_DELAY_MS = 4000
+/** How long after that the prefetch may wait for an idle main thread. */
 const IDLE_TIMEOUT_MS = 3000
 const INTENT = ['pointerdown', 'keydown', 'focusin'] as const
 
-/** Fetch the measure once a share is possible (`active`: the final report is on screen): at idle, or at intent. */
+/** A connection where nothing is fetched ahead (Save-Data, 2G): only intent fetches the measure. */
+function frugal(): boolean {
+  const c = (navigator as { connection?: { saveData?: boolean; effectiveType?: string } }).connection
+  return !!c && (!!c.saveData || /2g/.test(c.effectiveType ?? ''))
+}
+
+/** Fetch the measure once a share is possible (`active`: the final report is on screen): soon at idle, or at intent. */
 export function usePrefetchCardMeasure(active: boolean): void {
   useEffect(() => {
     if (!active || hasCardMeasure()) return
@@ -52,13 +95,18 @@ export function usePrefetchCardMeasure(active: boolean): void {
       requestIdleCallback?: (cb: () => void, o?: { timeout: number }) => number
       cancelIdleCallback?: (id: number) => void
     }
-    const ric = w.requestIdleCallback
-    const id = ric ? ric(warm, { timeout: IDLE_TIMEOUT_MS }) : window.setTimeout(warm, 1500)
+    let idle = 0
+    const timer = frugal()
+      ? 0
+      : window.setTimeout(() => {
+          if (w.requestIdleCallback) idle = w.requestIdleCallback(warm, { timeout: IDLE_TIMEOUT_MS })
+          else warm()
+        }, PREFETCH_DELAY_MS)
     // Capture phase on window: a press anywhere (the panel, the photo viewer's portal) is seen before it is handled.
     for (const t of INTENT) window.addEventListener(t, warm, { capture: true, passive: true })
     return () => {
-      if (ric) w.cancelIdleCallback?.(id)
-      else window.clearTimeout(id)
+      window.clearTimeout(timer)
+      if (idle) w.cancelIdleCallback?.(idle)
       for (const t of INTENT) window.removeEventListener(t, warm, { capture: true })
     }
   }, [active])

@@ -10,11 +10,11 @@
  * Workers need nothing here: a worker that fails to load falls back to the main thread (engine/pool.ts,
  * imagery/pixelsClient.ts).
  *
- * A prefetch nobody is waiting for (`quietly`: the share card's measure, fetched at idle once results are final) never
- * reloads: its failure is as likely a dropped connection as a new build, and reloading the results someone is reading
- * for a chunk they may never use would be worse than the press that later asks for it again (and reloads then, if the
- * build is new). Vite's event does not say which import failed, so while one runs no failure reloads; the imports
- * themselves still reject as before.
+ * A prefetch nobody waits for (the share card's measure, src/ui/share/measure.ts) does not reload either: its failure
+ * is as likely a dropped connection as a new build, and reloading the results someone is reading for a chunk they may
+ * never use is worse than letting the press that needs it ask again (and reload then). Such a prefetch puts its chunk's
+ * name in QUIET_CHUNKS while it runs; a failure that names it, or names no module (Safari's), is let through. A shared
+ * set on globalThis, not an import: either module importing the other would move it into another chunk.
  */
 
 const KEY = 'watched-stale-build-reload'
@@ -26,27 +26,17 @@ export interface StaleBuildDeps {
   now: () => number
 }
 
-let quiet = 0
+/** Chunk names ('cardMeasure-') of the prefetches running now, whose failure must not reload (see above). */
+export const QUIET_CHUNKS = Symbol.for('watched.quietChunks')
 
-/** Run a prefetch that must not reload the page if it fails (see above). */
-export function quietly<T>(load: () => Promise<T>): Promise<T> {
-  quiet++
-  let p: Promise<T>
-  try {
-    p = load()
-  } catch (e) {
-    quiet--
-    throw e
-  }
-  p.then(
-    () => quiet--,
-    () => quiet--,
-  )
-  return p
+/** A failed import that may be a running prefetch's own: no reload for it. */
+export function isQuietFailure(payload: unknown, quiet: ReadonlySet<string> | undefined): boolean {
+  if (!quiet?.size) return false
+  const msg = String(payload ?? '')
+  if (!/https?:\/\//.test(msg)) return true
+  for (const name of quiet) if (msg.includes(`/${name}`)) return true
+  return false
 }
-
-/** Whether a quiet prefetch is running (a failure now may be its own: no reload). */
-export const prefetching = (): boolean => quiet > 0
 
 /** Reload once for a missing chunk. Returns true if a reload was started (the caller then swallows the error). */
 export function reloadForNewBuild(deps: StaleBuildDeps): boolean {
@@ -76,7 +66,8 @@ function sessionStore(): Storage | null {
 export function installStaleBuildReload(): void {
   if (typeof window === 'undefined') return
   window.addEventListener('vite:preloadError', (event) => {
-    if (prefetching()) return
+    const quiet = (globalThis as { [QUIET_CHUNKS]?: Set<string> })[QUIET_CHUNKS]
+    if (isQuietFailure((event as Event & { payload?: unknown }).payload, quiet)) return
     const started = reloadForNewBuild({ storage: sessionStore(), reload: () => window.location.reload(), now: () => Date.now() })
     // Swallow the error only when the page is about to reload; otherwise let the app's own error handling see it.
     if (started) event.preventDefault()

@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { RELOAD_GUARD_MS, reloadForNewBuild } from './staleBuild'
+import { RELOAD_GUARD_MS, isQuietFailure, reloadForNewBuild } from './staleBuild'
 
 function memoryStorage() {
   const m = new Map<string, string>()
@@ -57,17 +57,16 @@ describe('reloadForNewBuild', () => {
   })
 })
 
-describe('quietly', () => {
-  it('marks a prefetch as running until it settles, whether it loads or fails', async () => {
-    const { quietly, prefetching } = await import('./staleBuild')
-    let fail!: (e: Error) => void
-    const failing = quietly(() => new Promise<void>((_, reject) => (fail = reject)))
-    const loading = quietly(() => Promise.resolve(1))
-    expect(prefetching()).toBe(true)
-    await loading
-    expect(prefetching()).toBe(true)
-    fail(new Error('Failed to fetch dynamically imported module'))
-    await failing.catch(() => undefined)
-    expect(prefetching()).toBe(false)
+describe('isQuietFailure', () => {
+  const chromium = 'TypeError: Failed to fetch dynamically imported module: https://www.watched.earth/assets/cardMeasure-SbtlgQhk.js'
+  it('lets a running prefetch fail without a reload, and only it', () => {
+    expect(isQuietFailure(chromium, new Set(['cardMeasure-']))).toBe(true)
+    expect(isQuietFailure(chromium.replace('cardMeasure', 'timelapse'), new Set(['cardMeasure-']))).toBe(false)
+    expect(isQuietFailure(chromium, new Set())).toBe(false)
+    expect(isQuietFailure(chromium, undefined)).toBe(false)
+  })
+  it("takes a failure that names no module (Safari's) as the prefetch's while one runs", () => {
+    expect(isQuietFailure('TypeError: Importing a module script failed.', new Set(['cardMeasure-']))).toBe(true)
+    expect(isQuietFailure('TypeError: Importing a module script failed.', new Set())).toBe(false)
   })
 })

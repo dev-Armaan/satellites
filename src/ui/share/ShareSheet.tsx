@@ -51,7 +51,7 @@ import { satMeta } from '../results/sats'
 import { createShareSafe, peekShare, type CreateShareInput } from './backend'
 import { cardSpec, publicLabelOf, renderCardPng, summaryCardSpec, summaryFacts, weekSatellites, type CardSpec } from './card'
 import { deepLink, postText, roundedPlace, shareLink, summaryLink, summaryPostText, xIntentUrl } from './links'
-import { cardMeasureReady, loadCardMeasure } from './measure'
+import { cardMeasureReady, loadCardMeasureForPress } from './measure'
 import { ShareCard } from './ShareCard'
 import { useBackLayer } from '@/lib/backStack'
 import s from './ShareSheet.module.css'
@@ -359,8 +359,10 @@ function useOverlayAttr(on: boolean) {
  * in the press's own commit). A press before it opens the sheet as soon as it arrives: the card is built only then,
  * so its preview is final at its first paint. Meanwhile the press already holds the share layer for Back and Esc
  * (either drops it, as either would close the sheet), and the sheet takes the layer over in the commit that mounts
- * it, so the history moves exactly as when it opened at once. A failed download drops the press (the Share button
- * stays live: the next press asks again).
+ * it, so the history moves exactly as when it opened at once. A failed download is asked for again (after 1.5 s,
+ * then 4 s, as the app's chunks are); if none works the press is dropped and the Share button stays live (the next
+ * press asks again). Not the fault notice the results' own chunk ends in: that would take away the results, which
+ * are fine.
  */
 export function ShareSheet(props: ShareSheetProps) {
   const [ready, setReady] = useState(cardMeasureReady)
@@ -370,7 +372,7 @@ export function ShareSheet(props: ShareSheetProps) {
   useEffect(() => {
     if (ready) return
     let alive = true
-    loadCardMeasure().then(
+    loadCardMeasureForPress(() => alive).then(
       () => alive && setReady(true),
       () => alive && closeRef.current(),
     )

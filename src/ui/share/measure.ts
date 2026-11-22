@@ -41,7 +41,12 @@ export function loadCardMeasure(prefetch = false): Promise<void> {
   if (hasCardMeasure()) return Promise.resolve()
   if (!chunk) {
     setQuiet(prefetch)
-    const q = import('../../../api/_lib/cardMeasure').then(provideCardMeasure)
+    // An import that resolves with nothing failed too: Vite does that when its vite:preloadError was cancelled
+    // (staleBuild.ts, as it starts a reload), as src/app/chunks.ts says.
+    const q = import('../../../api/_lib/cardMeasure').then((m) => {
+      if (!m?.textPx) throw new Error('card measure did not load')
+      provideCardMeasure(m)
+    })
     chunk = q
     q.then(
       () => setQuiet(false),
@@ -55,6 +60,24 @@ export function loadCardMeasure(prefetch = false): Promise<void> {
   const p = chunk
   // A press on a prefetch's download asks once more itself if that fails (loudly), never twice.
   return prefetch || !quiet ? p : p.catch(() => loadCardMeasure())
+}
+
+/** Pauses before a press asks again for a measure that failed (as src/app/chunks.ts CHUNK_RETRY_MS). */
+export const PRESS_RETRY_MS: readonly number[] = [1500, 4000]
+
+/**
+ * A press's load: asked again after each of PRESS_RETRY_MS (a dropped connection is usually back within seconds)
+ * while `alive()`, rejecting only when none worked.
+ */
+export async function loadCardMeasureForPress(alive: () => boolean): Promise<void> {
+  for (let attempt = 0; ; attempt++) {
+    try {
+      return await loadCardMeasure()
+    } catch (err) {
+      if (!alive() || attempt >= PRESS_RETRY_MS.length) throw err
+      await new Promise((r) => setTimeout(r, PRESS_RETRY_MS[attempt]))
+    }
+  }
 }
 
 /** Installed: a card can be built now. */

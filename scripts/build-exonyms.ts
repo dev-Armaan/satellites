@@ -27,7 +27,6 @@ import { createInterface } from 'node:readline'
 import { gzipSync } from 'node:zlib'
 import { FEATURES, featurePop } from './features'
 import { LANDMARKS } from './landmarks'
-import { listRegionName } from './regions'
 import { CURATED_NAMES } from '../src/i18n/en/plain/placeNames'
 import { EXAMPLE_PLACES, SURPRISE_PLACES } from '../src/ui/landing/places'
 import dePlaces from '../src/i18n/de/places'
@@ -171,13 +170,7 @@ const tsv = (file: string) =>
 async function main() {
   const started = Date.now()
   const regions = new Map<string, { code: string; name: string; cc: string }>()
-  /** A region's GeoNames name where the list names it otherwise (./regions.ts): Open-Meteo's where lines still say it. */
-  const geonamesName = new Map<string, string>()
-  for (const p of tsv('admin1CodesASCII.txt')) {
-    const name = listRegionName(p[0], p[1])
-    regions.set(p[3], { code: p[0], name, cc: p[0].split('.')[0] })
-    if (name !== p[1]) geonamesName.set(p[3], p[1])
-  }
+  for (const p of tsv('admin1CodesASCII.txt')) regions.set(p[3], { code: p[0], name: p[1], cc: p[0].split('.')[0] })
 
   const towns: Town[] = []
   const regionPop = new Map<string, number>()
@@ -282,8 +275,7 @@ async function main() {
    */
   const englishOf = (id: string, name: string, both: boolean) => {
     const en = both ? pickName(alts.get(id)?.get('en'), (n) => !!placeKey(n)) : undefined
-    const all = [name, ...(geonamesName.has(id) ? [geonamesName.get(id)!] : []), ...(en ? [en] : [])]
-    return all.filter((n, i) => all.findIndex((m) => placeKey(m) === placeKey(n)) === i)
+    return en && en !== name ? [name, en] : [name]
   }
   /**
    * Each region's own name in the data, by country and key: another region's English spelling never takes it. A city
@@ -307,7 +299,6 @@ async function main() {
     const others = (e: string) => (regionNamed.get(`${cc}|${placeKey(e)}`) ?? id) !== id
     const all = [
       name,
-      ...(geonamesName.has(id) ? [geonamesName.get(id)!] : []),
       ...(cityRegions.has(id) ? [cityRegions.get(id)!] : []),
       ...(alts.get(id)?.get('en') ?? [])
         // Not a transliteration or a description (Kharkivs’ka Oblast’, Rostovskaya Oblast, The 10th Province).

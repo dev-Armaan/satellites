@@ -37,7 +37,7 @@ import { createInterface } from 'node:readline'
 import { EXAMPLE_PLACES, SURPRISE_PLACES } from '../src/ui/landing/places'
 import { FEATURES, featurePop } from './features'
 import { LANDMARKS } from './landmarks'
-import { listRegionName } from './regions'
+import { oblastName } from './regions'
 import { compactKey, placeKey, SHARD_HEAD_PLACES, SHARD_MAX_PLACES, SHARD_MAX_PREFIX, shardOf, TILE_COLS, TILE_MAX_PLACES, TILE_ROWS, tileAt, tileFile, tileIndex } from '../src/imagery/placeKey'
 
 const SRC = process.argv[2]
@@ -112,8 +112,7 @@ const tsv = (file: string) =>
 
 async function main() {
   const admin1 = new Map<string, { name: string; id: string }>()
-  // Ukraine's oblasts as "<name> Oblast" (./regions.ts), so one named like its capital is not taken for the city's state.
-  for (const p of tsv('admin1CodesASCII.txt')) admin1.set(p[0], { name: listRegionName(p[0], p[1]), id: p[3] })
+  for (const p of tsv('admin1CodesASCII.txt')) admin1.set(p[0], { name: p[1], id: p[3] })
   const countries = new Map<string, { name: string; pop: number; id: string }>()
   for (const p of tsv('countryInfo.txt')) countries.set(p[0], { name: p[4], pop: Number(p[7]) || 0, id: p[16] })
 
@@ -168,7 +167,7 @@ async function main() {
     entries.push({ name: p[1], ascii: p[2], lat: Number(p[4]), lon: Number(p[5]), cc: p[8], admin1: admin1.get(code)?.name ?? '', pop, kind: '', section })
   }
   // A state named like a city at the same spot ("Tokyo", "Kyiv City") would be a second row for the same thing: keep
-  // the city.
+  // the city. Not a Ukrainian oblast GeoNames names after its capital (Kharkiv): it is kept as "Kharkiv Oblast".
   const cityAt = new Map<string, [number, number][]>()
   for (const e of entries) {
     const k = `${e.cc}|${placeKey(e.name)}`
@@ -182,8 +181,10 @@ async function main() {
     if (!c) continue
     const cc = code.split('.')[0]
     const key = placeKey(a.name).replace(/ (city|municipality)$/, '')
-    if (cityAt.get(`${cc}|${key}`)?.some((p) => near(p, c))) continue
-    entries.push({ name: a.name, ascii: a.name, lat: c[0], lon: c[1], cc: code.split('.')[0], admin1: '', pop: regionPop.get(code) ?? 0, kind: 'r', section: false })
+    const asCity = cityAt.get(`${cc}|${key}`)?.some((p) => near(p, c))
+    const name = asCity ? oblastName(code, a.name) : a.name
+    if (!name) continue
+    entries.push({ name, ascii: name, lat: c[0], lon: c[1], cc: code.split('.')[0], admin1: '', pop: regionPop.get(code) ?? 0, kind: 'r', section: false })
   }
   for (const [cc, k] of countries) {
     const c = coords.get(k.id)

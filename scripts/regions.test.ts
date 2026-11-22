@@ -1,19 +1,19 @@
-/** Ukraine's oblasts take "Oblast" where GeoNames names them after their capitals; nothing else is renamed. */
+/** A Ukrainian oblast named after its capital is kept as "<name> Oblast"; no other region gets a name of its own. */
 import { describe, expect, it } from 'vitest'
-import { listRegionName } from './regions'
+import { oblastName } from './regions'
 
-describe('listRegionName', () => {
-  it('names each Ukrainian oblast "<name> Oblast", once', () => {
-    expect(listRegionName('UA.07', 'Kharkiv')).toBe('Kharkiv Oblast')
-    expect(listRegionName('UA.17', 'Odesa')).toBe('Odesa Oblast')
-    expect(listRegionName('UA.13', 'Kyiv Oblast')).toBe('Kyiv Oblast')
+describe('oblastName', () => {
+  it('names an oblast GeoNames names after its capital "<name> Oblast"', () => {
+    expect(oblastName('UA.07', 'Kharkiv')).toBe('Kharkiv Oblast')
+    expect(oblastName('UA.17', 'Odesa')).toBe('Odesa Oblast')
   })
 
-  it('keeps Crimea, the two cities and every other country’s regions as GeoNames names them', () => {
-    expect(listRegionName('UA.11', 'Crimea')).toBe('Crimea')
-    expect(listRegionName('UA.12', 'Kyiv City')).toBe('Kyiv City')
-    expect(listRegionName('UA.20', 'Sevastopol City')).toBe('Sevastopol City')
-    expect(listRegionName('RU.48', 'Moscow')).toBe('Moscow')
-    expect(listRegionName('DE.16', 'Berlin')).toBe('Berlin')
+  it('gives none to an oblast already so named, Crimea, the two cities or any other country’s region', () => {
+    expect(oblastName('UA.13', 'Kyiv Oblast')).toBeUndefined()
+    expect(oblastName('UA.11', 'Crimea')).toBeUndefined()
+    expect(oblastName('UA.12', 'Kyiv City')).toBeUndefined()
+    expect(oblastName('UA.20', 'Sevastopol City')).toBeUndefined()
+    expect(oblastName('RU.48', 'Moscow')).toBeUndefined()
+    expect(oblastName('DE.16', 'Berlin')).toBeUndefined()
   })
 })

@@ -18,13 +18,19 @@ import { jaFields } from '../../../api/_lib/i18n/card/ja'
 const f = fmt('ja')
 const pad2 = (n: number) => String(n).padStart(2, '0')
 
-/** "10/22": the frame's day, read at 'UTC' */
+/**
+ * "10月22日": the frame's day in the frame list, read at 'UTC'. Never the bare "10/22": beside the badge's "02 / 12"
+ * (a count) a slash day without a weekday or a year reads as one more date, and the badge as 2月12日 (docs/i18n/ja.md).
+ */
 const dayMonth = (ms: number) => {
   const d = jaFields(ms, 'UTC')
-  return `${d.month}/${d.day}`
+  return `${d.month}月${d.day}日`
 }
 /** "2015/10/22" (mono) */
-const day = (ms: number) => `${jaFields(ms, 'UTC').year}/${dayMonth(ms)}`
+const day = (ms: number) => {
+  const d = jaFields(ms, 'UTC')
+  return `${d.year}/${d.month}/${d.day}`
+}
 /** "2015年10月22日" (spoken) */
 const daySpoken = (ms: number) => {
   const d = jaFields(ms, 'UTC')

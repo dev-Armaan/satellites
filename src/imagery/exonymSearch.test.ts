@@ -353,7 +353,29 @@ describe('searching in the visitor’s own names (real data)', () => {
     expect(rows).toEqual([['Джибути', '11.6'], ['Джибути', '11.8']])
     // English shows each row as it came.
     setBundleForTests('en', null)
-    expect(read(await searchPlaces('Zaporizhzhya'))).toEqual(Array(3).fill('Zaporizhzhya · Zaporizhzhia, Ukraine'))
+    expect(read(await searchPlaces('Zaporizhzhya'))).toEqual(Array(3).fill('Zaporizhzhya · Zaporizhzhia Oblast, Ukraine'))
+  })
+
+  it('finds every Ukrainian oblast offline, by its name in the language and in English', async () => {
+    const files = serveFiles()
+    const first = async (q: string) => (await searchPlaces(q))[0]
+    const oblast = (lat: number) => expect.objectContaining({ kind: 'region', countryCode: 'ua', lat })
+    // Named after their capitals in GeoNames, these had no row (scripts/regions.ts): the network answered, or streets.
+    const asks = [
+      ['uk', ukNames, ['Харківська область', 'Одеська область', 'Херсонська область']],
+      ['ru', ruNames, ['Харьковская область', 'Одесская область', 'Херсонская область']],
+    ] as const
+    for (const [lang, names, qs] of asks) {
+      await as(lang, names)
+      for (const [q, lat] of qs.map((q, i) => [q, [49.617, 46.458, 46.641][i]] as const))
+        expect([q, await first(q)]).toEqual([q, oblast(lat)])
+    }
+    expect(displayLabel(await first('Луганская область'))).toBe('Луганская область')
+    expect(files.network()).toEqual([])
+    // English finds them by name, and its city first by the city's.
+    setBundleForTests('en', null)
+    expect(await first('Kharkiv Oblast')).toEqual(oblast(49.617))
+    expect(await first('Kharkiv')).toMatchObject({ label: 'Kharkiv', lat: 49.982 })
   })
 
   it('counts the places found, not the rows shown, before it asks the network', async () => {

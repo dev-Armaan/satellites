@@ -8,7 +8,7 @@
  * at all, except the two honest exceptions, 'Mosaic' (coarse daily weather picture) and
  * 'Clouded · 86%' (warn), whose thumbnail is dimmed and hatched instead of a bright white square.
  */
-import { Fragment, memo, useEffect, useLayoutEffect, useRef, useState, type RefCallback, type RefObject } from 'react'
+import { memo, useEffect, useLayoutEffect, useRef, useState, type RefCallback, type RefObject } from 'react'
 import { useApp } from '@/state/store'
 import type { Capture, Pass } from '@/types'
 import { Glyph, Tag, cx } from '@/ui/system'
@@ -252,20 +252,11 @@ const PassRow = memo(function PassRow({
 /**
  * The operator beside the name: where all of it does not fit there (the ISS's "NASA / Roscosmos / ESA / JAXA / CSA"),
  * it goes under the name (PassList.module.css) and breaks only after a slash, each agency's name whole. It was cut with
- * an ellipsis, which hid agencies: a label says exactly who operates the satellite.
+ * an ellipsis, which hid agencies: a label says exactly who operates the satellite. One text node, as before (spans
+ * moved the glyphs a quarter pixel): a word joiner after every space but those that follow a slash.
  */
-function Operator({ text }: { text: string }) {
-  const parts = text.split(' / ')
-  return (
-    <span className={s.operator}>
-      {parts.map((part, i) => (
-        <Fragment key={i}>
-          {i ? ' ' : null}
-          <span className={s.operatorPart}>{i < parts.length - 1 ? `${part} /` : part}</span>
-        </Fragment>
-      ))}
-    </span>
-  )
+export function operatorText(text: string): string {
+  return text.replace(/ /g, (sp, at: number) => (text[at - 1] === '/' ? sp : ' \u2060'))
 }
 
 const SatRow = memo(function SatRow({
@@ -318,7 +309,7 @@ const SatRow = memo(function SatRow({
         <span className={s.main} ref={fitMeta}>
           <span className={s.nameLine}>
             <span className={s.name}>{meta.name}</span>
-            {meta.operator ? <Operator text={meta.operator} /> : null}
+            {meta.operator ? <span className={s.operator}>{operatorText(meta.operator)}</span> : null}
           </span>
           <span className={s.metaLine}>
             <span className={s.giveWay} data-shed="1">

@@ -147,16 +147,14 @@
   flex-direction: column;
   gap: 4px;
 }
-/* The operator goes under the name where it does not fit beside it (PassList.tsx Operator), never cut. */
 .nameLine {
   display: flex;
-  flex-wrap: wrap;
   align-items: center;
   gap: 3px 10px;
   min-width: 0;
 }
 .name {
-  /* Alone on its line, a name too long for it is cut (the operator has gone under it). */
+  /* Cut only where it must: beside a pass row's tag, or alone on its line (a satellite's operator goes under it). */
   flex: 0 1 auto;
   min-width: 0;
   font-family: var(--font-sans);
@@ -180,9 +178,12 @@
   text-transform: uppercase;
   color: var(--bone-2);
   overflow-wrap: anywhere;
+  text-wrap: balance;
 }
-.operatorPart {
-  white-space: nowrap;
+/* A satellite's row: the operator goes under the name where it does not fit beside it (PassList.tsx operatorText),
+   never cut. A pass row's tag stays beside its name. */
+.nameLine:has(> .operator) {
+  flex-wrap: wrap;
 }
 .tag {
   flex: none;

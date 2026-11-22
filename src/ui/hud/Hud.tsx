@@ -46,8 +46,10 @@ const TOP_GAP = 8
 
 /**
  * Least clear space between "How this works · language" and the sun or scene line beside it on a phone. Less, and that
- * line makes room (useCrowdedLine): at 320 px the sun overlapped them in English, at 360 px German and Polish left 6 px,
- * Turkish 13; the scene time overlapped them by 4 px in English at 390 px, by 17 at 360.
+ * line makes room (useCrowdedLine): at 320 px the sun overlapped them in English, at 360 px German and Polish left 6
+ * px, Turkish 13; the scene time overlapped them by 4 px in English at 390 px, by 17 at 360 (and by 32 at 402 with a
+ * long zone, "UTC+5:45"). It is the house's measure of crowded, so a scene line that would leave 2–13 px moves too
+ * (English at 396–407 px with a short zone: "SCENE 11:54:08 EST" 8 px from "ENGLISH" at 402).
  */
 const MIN_ROW_GAP = 14
 
@@ -330,14 +332,16 @@ function useCrowdedLine(topLeft: RefObject<HTMLDivElement | null>, topRight: Ref
       // The line's extent at the corner's tracking: while it is tightened (below) it is narrower by its tracking, and
       // both decisions are made on the untightened line, so tightening it never undoes either.
       const tight = line.hasAttribute('data-tight')
-      const width = b.width + (tight ? [...line.innerText].length * (parseFloat(getComputedStyle(tr).letterSpacing) || 0) : 0)
+      const track = tight ? [...line.innerText].length * (parseFloat(getComputedStyle(tr).letterSpacing) || 0) : 0
+      const width = b.width + track
       const [start, end] = rtl ? [b.left, b.left + width] : [b.right - width, b.right]
       const crowded = (rtl ? a.left - end : start - a.right) < MIN_ROW_GAP
       flag.set(line, 'data-crowded', crowded, inObserver)
       // Moved up, the scene time is beside the wordmark: on the narrowest phones (320 px) and in the longer languages
       // it came within 4 px of it (Polish, Indonesian: "POWTÓRKA 10:41:54 UTC+5:45"). There it drops its tracking,
       // which keeps every word of it (the label and the zone say what the time is) and clears the wordmark by 7 px.
-      const mark = line.matches(`.${s.sceneLine}`) ? tl.querySelector('[data-hud-wordmark]')?.getBoundingClientRect() : undefined
+      const scene = line.matches(`.${s.sceneLine}`)
+      const mark = scene ? tl.querySelector('[data-hud-wordmark]')?.getBoundingClientRect() : undefined
       const nearMark = !!mark && crowded && (rtl ? mark.left - end : start - mark.right) < MIN_ROW_GAP
       flag.set(line, 'data-tight', nearMark, inObserver)
     }
@@ -363,13 +367,16 @@ function useCrowdedLine(topLeft: RefObject<HTMLDivElement | null>, topRight: Ref
 }
 
 /**
- * Landscape phones: the results panel docks beside the top-left readout and reaches up to the bezel, and "How this
- * works | language" ran under its edge in the longer languages (at 844 × 390 Dutch and Russian by 10 px, Vietnamese
- * by 16; at 812 × 375 and 800 × 360 English too, by 6 and 10). Where the row would come closer than PANEL_GAP to a panel's edge,
- * the language steps down to a line of its own under "How this works", which stays whole on its line: every word on
- * the left is needed (the language's full name, never a code, owner 2026-11-19), and a third line costs only some globe
- * there (the top inset grows, so the camera frames below it). A portrait phone has no room for a third line (the
- * results sheet's top snap), but nothing beside the row there either: its panels publish only a bottom inset.
+ * Landscape phones: the results panel (and the search's, while it locates and computes) docks beside the top-left
+ * readout and reaches up to the bezel, and "How this works | language" ran under its edge in the longer languages (at
+ * 844 × 390 Russian by 10 px, Vietnamese by 18, Dutch 1 px short of it; at 812 × 375 and 800 × 360 English too, by 6
+ * and 10). Where the row would come closer than PANEL_GAP to a panel's edge, the language steps down to a line of its
+ * own under "How this works", which stays whole on its line: every word on the left is needed (the language's full
+ * name, never a code, owner 2026-11-19), and a third line costs only some globe there (the top inset grows, so the
+ * camera frames below it). The step comes with the panel, when a search starts, and goes with it on a new search: the
+ * landing beside it is the full view, where the row has the room (a step decided there would move English on a
+ * screen where nothing covers it). A stacked layout (a portrait phone) has no room for a third line (the results
+ * sheet's top snap), and nothing beside the row: its panels are bottom sheets.
  *
  * The panels publish what they cover (store.uiInsets, each INSET_CLEAR wider than the panel), so this needs no panel's
  * markup. The row's width is the About link's plus the language's as it sits in the row (its hairline included, read

@@ -47,9 +47,11 @@
   display: none;
 }
 /* Stepped down, the tall touch box reaches down into the free view instead of up over "How this works" just above,
-   whose own box then ends where this one starts (Hud.module.css): each keeps 44 px of its own (U-6). The button keeps
-   its usual 8 px under the words and the rest of the reach is its ::after, outside its box: the menu is placed from
-   the box's bottom (LanguageSwitcher.tsx), so it opens the same 18 px under the name as on its usual line, not 40. */
+   whose own box then ends where this one starts (Hud.module.css). The language keeps 44 px of its own (U-6); so does
+   "How this works" right of the wordmark, while under it the wordmark's link (the way home) keeps its box and About has
+   the 17 px between the two (23 px on its usual line). The button keeps its usual 8 px under the words and the rest of
+   the reach is its ::after, outside its box: the menu is placed from the box's bottom (LanguageSwitcher.tsx), so it
+   opens the same 18 px under the name as on its usual line, not 40. */
 @media (pointer: coarse) {
   [data-lang-below] > .trigger {
     position: relative;

@@ -384,13 +384,17 @@ export function DetailHeader({ model, pass, mobile, onSelect, strip, photo, shar
   const titleKey = photo ? pass.id : 'one'
   const titleCls = photo && pass.id !== firstId.current ? s.titleIn : undefined
   const [posLead, posTail] = sys.counter(index + 1, lane.length)
+  // Longer than any English counter under 1000 ("999 / 999", 9 characters), the row runs out of room on a phone:
+  // past 11 characters under 400 px ("155 trên 210"), past 9 under 370 px ("55 trên 210", measured).
+  const posChars = posLead.length + posTail.length
   const stepper = (
     <span className={cx(s.stepper, photo && s.stepperOff)} aria-hidden={photo || undefined}>
       <span className={s.position} aria-label={m.position(index + 1, lane.length)}>
         {/* The counter as the language writes it, as the gallery's does ("124 / 1,565", "124 / 1.565", "124 trên 1.565"). */}
         {posLead}
-        {/* A big lane on a narrow phone (V1: "1350 / 1362" crowded the row): the position alone. */}
-        <span className={cx(lane.length >= 1000 && s.positionTotalLong)}>{posTail}</span>
+        {/* A big lane on a narrow phone (V1: "1350 / 1362" crowded the row), or a counter its language writes long
+            ("55 trên 210" pushed Next past a 360 px phone's gutter): the position alone. */}
+        <span className={cx((lane.length >= 1000 || posChars > 11) && s.positionTotalLong, posChars > 9 && s.positionTotalWide)}>{posTail}</span>
       </span>
       <button type="button" className={s.stepBtn} onClick={() => step(-1)} disabled={index <= 0} aria-label={m.previous} aria-keyshortcuts="ArrowLeft" title={m.previousTitle}>
         <Mark name="chevron-left" size={12} />

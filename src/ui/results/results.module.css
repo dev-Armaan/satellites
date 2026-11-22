@@ -649,10 +649,18 @@
 .position {
   margin-inline-end: 6px;
   white-space: nowrap;
+  /* A counter is a mono label: its words (Vietnamese "trên") in capitals, as the gallery's */
+  text-transform: uppercase;
 }
-/* Narrow phones: a four-digit total goes (V1); the search icon beside the stepper keeps its 44 px. */
+/* Narrow phones: a four-digit total, or a counter its language writes long, goes (V1); the search icon beside the
+   stepper keeps its 44 px. */
 @media (max-width: 400px) {
   .positionTotalLong {
+    display: none;
+  }
+}
+@media (max-width: 370px) {
+  .positionTotalWide {
     display: none;
   }
 }

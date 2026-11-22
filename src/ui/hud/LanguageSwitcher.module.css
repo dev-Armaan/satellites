@@ -1,5 +1,7 @@
 /* The language switcher (LanguageSwitcher.tsx): the trigger sits on the HUD's "How this works" line and inherits its
-   mono caps; the menu is a flat ink panel with a hairline, two columns of language names (DESIGN §1, §4). */
+   mono caps; the menu is a flat ink panel with a hairline, columns of language names (DESIGN §1, §4). The menu is as
+   wide as its columns need (max-content), never wider than the screen; the columns are equal (1fr of a max-content
+   grid is its widest name) and never narrower than a name's longest word, so a name wraps before it is cut. */
 
 .trigger {
   display: inline-flex;
@@ -53,8 +55,11 @@
 .menu {
   position: fixed;
   z-index: var(--z-overlay);
-  min-width: 296px;
+  width: max-content;
+  min-width: min(296px, calc(100vw - 24px));
+  max-width: calc(100vw - 24px);
   overflow: auto;
+  overscroll-behavior: contain;
   padding: 12px 0 8px;
   background: var(--ink-1);
   border: 1px solid var(--line-strong);
@@ -90,8 +95,9 @@
 
 .grid {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  grid-template-rows: repeat(8, auto);
+  /* --cols and --rows are set by the component (two columns on an upright phone, four with room across) */
+  grid-template-columns: repeat(var(--cols, 2), minmax(min-content, 1fr));
+  grid-template-rows: repeat(var(--rows, 10), auto);
   grid-auto-flow: column;
   column-gap: 4px;
   padding: 6px 6px 0;
@@ -156,5 +162,8 @@
 
 .name {
   min-width: 0;
-  white-space: nowrap;
+  /* one line wherever the menu has room (it is sized to the longest name); only on a screen too narrow for that does
+     a two-word name ("Bahasa Indonesia") take a second line */
+  white-space: normal;
+  text-wrap: balance;
 }

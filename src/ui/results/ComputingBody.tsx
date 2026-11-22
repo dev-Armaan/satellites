@@ -159,7 +159,9 @@ export function ComputingBody({ t0, tz }: { t0: number; tz?: string }) {
             return (
               <li key={stage} className={cx(s.line, s[state])}>
                 <span className={s.idx}>{pad2(i + 1)}</span>
-                <RowText text={written ?? (state === 'done' ? c.stages[stage].done : idleLabel(stage))} />
+                <span className={s.msg}>
+                  {rowText(written ?? (state === 'done' ? c.stages[stage].done : idleLabel(stage)))}
+                </span>
                 <span className={s.dur}>{dur !== undefined && state !== 'idle' ? secs(dur) : '—'}</span>
                 <span className={s.status}>{state === 'done' ? c.ok : state === 'run' ? <span className={s.caret} /> : ''}</span>
               </li>
@@ -194,17 +196,13 @@ const COUNTER_MAX = 20
 /**
  * A row's words, then its counter, unbroken. The words wrap (a second line rather than an ellipsis, which cut the
  * counter first: "VERIFYING NASA WEATHER MOSAICS · 12 / 3…"); the counter never breaks, so the numbers that tick stay
- * whole. The space before its dot is inside it, so no line starts with the dot: the last word comes down with it.
+ * whole, and no line starts with its dot: the last word comes down with it. A word joiner after each of the counter's
+ * spaces does it in the one text node the row always was (a span of its own moved its glyphs a quarter pixel).
  */
-function RowText({ text }: { text: string }) {
+export function rowText(text: string): string {
   const at = text.lastIndexOf(COUNTER_SEP)
-  if (at <= 0 || text.length - at > COUNTER_MAX) return <span className={s.msg}>{text}</span>
-  return (
-    <span className={s.msg}>
-      {text.slice(0, at)}
-      <span className={s.counter}>{text.slice(at)}</span>
-    </span>
-  )
+  if (at <= 0 || text.length - at > COUNTER_MAX) return text
+  return text.slice(0, at) + text.slice(at).replace(/ /g, ' \u2060')
 }
 
 /**

@@ -91,8 +91,9 @@ export function Headline({ model, compact = false, enter = false }: { model: Res
  * with Try again.
  *
  * `onShare`: Share rides at the end of this line (the week's summary: the headline's own numbers and the gallery's
- * first image). It is where the finding is read, on every layout, and takes no row of its own: a hairline button at
- * the summary's right edge, level with the line. Not offered when nothing watched the place, or while the archives
+ * first image). It is where the finding is read, on every layout: a hairline button at the summary's right edge, level
+ * with the line, and in the landscape column under it, at the same edge, where the line set on one line and the
+ * button do not fit side by side (`.summaryWide .moreRow`). Not offered when nothing watched the place, or while the archives
  * are down (Try again is the action then).
  */
 export function MoreLine({

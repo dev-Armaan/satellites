@@ -30,7 +30,7 @@ import { accent, num, strong, type Part, type Rich } from '../../../api/_lib/i18
 import type { Pass, SatCategory } from '@/types'
 import { localParts, type DateFields } from '@/ui/results/lib/time'
 import time from './time'
-import { isoUnlessRtl, ltr } from '../bidi'
+import { isoUnlessRtl, ltr, whole } from '../bidi'
 
 const f = fmt('fa')
 const nb = '\u00a0'
@@ -171,7 +171,7 @@ const results: typeof en = {
     checked: (passes: number, satellites: number) => checked(passes, satellites),
     passTimes: (place: string, fetched: string | undefined, zoneLabel: string) =>
       `زمان هر گذر لحظه‌ای است که ماهواره در نزدیک‌ترین فاصله از ${iso(place)} بود و از عناصر مداری عمومی محاسبه شده است` +
-      `${fetched ? ` (دریافت‌شده در ${ltr(fetched)})` : ''}. زمان‌های محلی به وقت ${iso(zoneLabel)} است.`,
+      `${fetched ? ` (دریافت‌شده در ${ltr(whole(fetched))})` : ''}. زمان‌های محلی به وقت ${iso(whole(zoneLabel))} است.`,
   },
 
   // ── the panel ────────────────────────────────────────────────────────────────────────────

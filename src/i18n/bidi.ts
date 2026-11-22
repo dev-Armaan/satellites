@@ -15,3 +15,10 @@ const RTL_OR_ISOLATED = /[\p{Script=Arabic}⁦-⁩]/u
 
 /** Isolate a Latin label (a zone, a place), but leave one with Arabic-script words or isolates of its own as it is. */
 export const isoUnlessRtl = (s: string) => (RTL_OR_ISOLATED.test(s) ? s : ltr(s))
+
+/**
+ * A stamp or a zone kept on one line ("2026-11-19 07:34Z", "Africa/Niamey", "America/Port of Spain"). An isolate keeps
+ * its run's order but not its line: Chrome broke «2026-» from «11-19 07:34Z», and the two halves then read in the
+ * wrong order across the lines. No-break spaces, and a word joiner (U+2060) after each hyphen and slash.
+ */
+export const whole = (s: string) => s.replace(/[-/]/g, '$&\u2060').replace(/ /g, '\u00a0')

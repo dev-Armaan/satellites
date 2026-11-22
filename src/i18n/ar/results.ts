@@ -34,7 +34,7 @@ import { accent, num, strong, type Part, type Rich } from '../../../api/_lib/i18
 import type { Pass, SatCategory } from '@/types'
 import { localParts, type DateFields } from '@/ui/results/lib/time'
 import time from './time'
-import { isoUnlessRtl, ltr } from '../bidi'
+import { isoUnlessRtl, ltr, whole } from '../bidi'
 
 const f = fmt('ar')
 const nb = '\u00a0'
@@ -269,7 +269,7 @@ const results: typeof en = {
     checked: (passes: number, satellites: number) => checked(passes, satellites),
     passTimes: (place: string, fetched: string | undefined, zoneLabel: string) =>
       `أوقات المرور هي اللحظات التي كان فيها كل قمر صناعي أقرب ما يكون إلى ${iso(place)}، محسوبة من عناصر مدارية عامة` +
-      `${fetched ? ` (جُلبت ${ltr(fetched)})` : ''}. الأوقات المحلية بتوقيت ${zoneLabel}.`,
+      `${fetched ? ` (جُلبت ${ltr(whole(fetched))})` : ''}. الأوقات المحلية بتوقيت ${iso(whole(zoneLabel))}.`,
   },
 
   // ── the panel ────────────────────────────────────────────────────────────────────────────

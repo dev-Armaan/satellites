@@ -6,7 +6,7 @@
 import { describe, expect, it } from 'vitest'
 import arPass from './ar/pass'
 import arResults from './ar/results'
-import { isoUnlessRtl, ltr } from './bidi'
+import { isoUnlessRtl, ltr, whole } from './bidi'
 import faPass from './fa/pass'
 import faResults from './fa/results'
 
@@ -39,4 +39,15 @@ describe('isoUnlessRtl', () => {
       expect(flat(pass.could.camera({ place: 'Paris' }))).toContain(`${LRI}Paris${PDI}`)
     }
   })
+
+  it('keeps the pass-times stamp and zone whole and isolated in both catalogs', () => {
+    expect(whole('2026-11-19 07:34Z')).toBe('2026-\u206011-\u206019\u00a007:34Z')
+    for (const results of [arResults, faResults]) {
+      const s = results.notes.passTimes('Niamey', '2026-11-19 07:34Z', 'Africa/Niamey')
+      expect(s).toContain(ltr(whole('2026-11-19 07:34Z')))
+      expect(s).toContain(ltr(whole('Africa/Niamey')))
+      expect(results.notes.passTimes('Niamey', undefined, 'UTC+1')).toContain(ltr('UTC+1'))
+    }
+  })
 })
+

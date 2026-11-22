@@ -47,6 +47,9 @@ const windowWords = (when: WindowWhen) =>
  */
 const wholePlace = (place: string) => (place.length <= 20 && place.split(' ').length <= 3 ? place.replace(/ /g, '\u00a0') : place)
 
+/** A date stamp or a range that never breaks at its hyphen or dash («2026-11-19», «2–5»): a word joiner after each */
+const unbroken = (s: string) => s.replace(/([-–])/g, '$1\u2060')
+
 /** «तस्वीरें लेने वाले और मानवयुक्त 250 उपग्रहों की 1,234 उड़ानें जाँची गईं।» */
 const checked = (passes: number, sats: number) =>
   `तस्वीरें लेने वाले और मानवयुक्त ${count(sats, 'उपग्रह', 'उपग्रहों')} की ${count(passes, 'उड़ान', 'उड़ानें')} ${pl(passes, 'जाँची गई', 'जाँची गईं')}।`
@@ -124,14 +127,14 @@ const results: typeof en = {
       // «बारीक ब्योरे वाली»: a bare «बारीक तस्वीरें» reads "thin pictures". «दैनिक मौसम मोज़ेक» is the same for 1 and 3.
       // Each count is followed by its own noun, its sources in brackets: «1 भूस्थिर मौसम उपग्रहों से» read
       // "1 satellites".
-      const out: Part[] = [strong(f.int(o.detailed)), `\u00a0बारीक ब्योरे वाली ${pl(o.detailed, 'तस्वीर', 'तस्वीरें')} (Sentinel-2, Landsat, 10–30\u00a0मी)`]
-      if (o.mosaics) out.push(' · ', strong(f.int(o.mosaics)), '\u00a0दैनिक मौसम मोज़ेक (250–375\u00a0मी)')
-      if (o.radar) out.push(' · ', strong(f.int(o.radar)), `\u00a0रडार ${pl(o.radar, 'तस्वीर', 'तस्वीरें')} (Sentinel-1, 20\u00a0मी)`)
+      const out: Part[] = [strong(f.int(o.detailed)), `\u00a0बारीक ब्योरे वाली ${pl(o.detailed, 'तस्वीर', 'तस्वीरें')} (${unbroken('Sentinel-2')}, Landsat, ${unbroken('10–30')}\u00a0मी)`]
+      if (o.mosaics) out.push(' · ', strong(f.int(o.mosaics)), `\u00a0दैनिक मौसम मोज़ेक (${unbroken('250–375')}\u00a0मी)`)
+      if (o.radar) out.push(' · ', strong(f.int(o.radar)), `\u00a0रडार ${pl(o.radar, 'तस्वीर', 'तस्वीरें')} (${unbroken('Sentinel-1')}, 20\u00a0मी)`)
       if (o.geo)
         out.push(
           ' · ',
           strong(f.int(o.geo)),
-          `\u00a0पूरी डिस्क की ${pl(o.geo, 'तस्वीर', 'तस्वीरें')} (भूस्थिर मौसम उपग्रहों से, 2–5\u00a0किमी, हर एक की सबसे नई दिखाई गई है)`,
+          `\u00a0पूरी डिस्क की ${pl(o.geo, 'तस्वीर', 'तस्वीरें')} (भूस्थिर मौसम उपग्रहों से, ${unbroken('2–5')}\u00a0किमी, हर एक की सबसे नई दिखाई गई है)`,
         )
       out.push(`। ${checked(o.passes, o.satellites)}`)
       return out
@@ -140,7 +143,7 @@ const results: typeof en = {
     passTimes: (place: string, fetched: string | undefined, zoneLabel: string) =>
       // The zone is a label after a colon: it can be «UTC−9 · समुद्र में», which takes no postposition.
       `उड़ानों का समय वह पल है जब हर उपग्रह ${place} के सबसे नज़दीक था। इसकी गणना कक्षा के सार्वजनिक आँकड़ों से की गई है` +
-      `${fetched ? ` (प्राप्त ${fetched})` : ''}। स्थानीय समय: ${zoneLabel}।`,
+      `${fetched ? ` (प्राप्त ${unbroken(fetched)})` : ''}। स्थानीय समय: ${zoneLabel}।`,
   },
 
   // ── the panel ──

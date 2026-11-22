@@ -878,13 +878,9 @@
   text-wrap: balance;
 }
 /* The second line with the week's Share at its end: one baseline, no row of its own. The row takes the line's top
-   margin (.moreInRow drops it), and the word never wraps or shrinks; the sentence wraps beside it if it must.
-   The sentence is never narrower than its longest unbreakable run, so in a column too narrow for that run and the
-   word side by side (a 180 px landscape column: «Опубликовано», «1 713 снимков.») the word goes under the sentence,
-   at its end, instead of over it. English's runs always fit beside it: its row is as it was. */
+   margin (.moreInRow drops it), and the word never wraps or shrinks; the sentence wraps beside it if it must. */
 .moreRow {
   display: flex;
-  flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
   gap: 16px;
@@ -895,11 +891,7 @@
 }
 .moreRow > .moreInRow {
   margin: 0;
-  flex: 1 1 0;
-  min-width: min-content;
-}
-.moreRow > .weekShare {
-  margin-inline-start: auto;
+  min-width: 0;
 }
 /* A hairline button (as the gallery's filter and the search bar's Change are drawn), level with the line it ends: an
    intended action at the summary's right edge, not a stray word. */

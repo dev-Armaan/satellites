@@ -40,6 +40,13 @@ const windowWords = (when: WindowWhen) =>
     ? `पिछले ${count(when.lastDays, 'दिन', 'दिनों')} में`
     : `${dayMonth(when.fromMs, when.timeZone)} से ${dayMonth(when.toMs, when.timeZone)} के बीच`
 
+/**
+ * The place in a headline, a short name kept whole: «New\u00a0Delhi», «Rio\u00a0de\u00a0Janeiro». The headline is
+ * balanced, and it broke inside the serif name at every phone width («पिछले 7 दिनों में New / Delhi को»); kept whole,
+ * it breaks after «को», before the count (measured at 360–430 px). A longer name keeps its spaces, so it can wrap.
+ */
+const wholePlace = (place: string) => (place.length <= 20 && place.split(' ').length <= 3 ? place.replace(/ /g, '\u00a0') : place)
+
 /** «तस्वीरें लेने वाले और मानवयुक्त 250 उपग्रहों की 1,234 उड़ानें जाँची गईं।» */
 const checked = (passes: number, sats: number) =>
   `तस्वीरें लेने वाले और मानवयुक्त ${count(sats, 'उपग्रह', 'उपग्रहों')} की ${count(passes, 'उड़ान', 'उड़ानें')} ${pl(passes, 'जाँची गई', 'जाँची गईं')}।`
@@ -60,14 +67,14 @@ const results: typeof en = {
   headline: {
     watched: (n: number, place: string, when: WindowWhen): Rich => [
       `${windowWords(when)} `,
-      accent(place),
+      accent(wholePlace(place)),
       '\u00a0को ',
       strong(num(f.int(n)), `\u00a0${pl(n, 'उपग्रह', 'उपग्रहों')} ने देखा`),
       '।',
     ],
     none: (place: string, past: boolean): Rich => [
       `${past ? 'उस' : 'इस'} हफ़्ते `,
-      accent(place),
+      accent(wholePlace(place)),
       '\u00a0को हमारी सूची के किसी भी उपग्रह ने नहीं देखा।',
     ],
   },

@@ -53,6 +53,8 @@ export function LanguageSwitcher({ className }: { className?: string }) {
   const [open, setOpen] = useState(false)
   const [busy, setBusy] = useState<Locale | null>(null)
   const [at, setAt] = useState<{ left: number; top: number; maxHeight: number } | null>(null)
+  // Bumped on a resize or a rotation while the menu is open, which places it again (and picks its columns again).
+  const [viewport, setViewport] = useState(0)
   const trigger = useRef<HTMLButtonElement>(null)
   const menu = useRef<HTMLDivElement>(null)
   const listed = ORDER.filter((l) => LOCALE_INFO[l].listed || l === locale)
@@ -77,6 +79,12 @@ export function LanguageSwitcher({ className }: { className?: string }) {
     const want = rtl ? r.right + 16 - w : r.left - 16
     const left = Math.round(Math.max(EDGE, Math.min(want, window.innerWidth - w - EDGE)))
     setAt({ left, top, maxHeight: Math.max(160, window.innerHeight - top - EDGE) })
+  }, [open, viewport])
+  useEffect(() => {
+    if (!open) return
+    const onResize = () => setViewport((v) => v + 1)
+    window.addEventListener('resize', onResize)
+    return () => window.removeEventListener('resize', onResize)
   }, [open])
 
   // Focus the current language once the menu is placed and shown: it is measured under visibility: hidden first, and

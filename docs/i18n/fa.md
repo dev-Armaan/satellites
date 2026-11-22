@@ -651,6 +651,11 @@ Persian letters have the bidi class AL, as Arabic's do, so every rule of the Ara
 7. **Ranges** in prose use `تا` (`10 تا 30 متر`): a dash between two numbers after Persian letters is reordered.
    Arrows that mean "then" in mono rows point along the reading: `←` (`EST ← EDT`، the scan line `0412 ← 1024`), each
    end isolated.
+8. **The place** is a slot like any other: in DOM sentences a label without Persian letters is isolated (`iso` in
+   `results.ts`, `at` in `pass.ts`). A place searched by coordinates showed why: `در 7 روز گذشته، 23.5000°N 12.5000°E
+   را` was drawn `N 12.5000°E°23.5000 را`. Plain text (post, card) keeps it bare, as rule 5 says.
+9. **A Latin name followed by a number** joins it into one left-to-right run (`Copernicus: 13 باند` read
+   `13 :Copernicus`): isolate the name, or put a Persian word between them, as `why.unpublished` does.
 
 ### 6.3 Digits: Western for now, Persian digits recommended
 
@@ -726,7 +731,13 @@ missing ZWNJ visibly joins two words.
 
 Persian breaks at spaces; the half-space never breaks. Keep a number with its unit (no-break space), a day's number
 with its month (`time.ts` glues Intl's `2 نوامبر`), and `را` with its object, where a break would strand one at the
-start or end of a line.
+start or end of a line. Two more, from the visual pass:
+
+- **A compound verb stays whole** in display type: `رصد\u00a0کردند` in the results headline and on the card, so the
+  card's block breaks `256 ماهواره | رصد کردند.`, never `256 ماهواره رصد | کردند.`.
+- **A Latin name of several words stays whole** where it sits in Persian prose (About's credits and archives:
+  `Copernicus\u00a0Data\u00a0Space\u00a0Ecosystem`). In a right-to-left line a name broken in two reads from the left end
+  of one line to the right start of the next.
 
 ### 6.8 Type
 
@@ -929,6 +940,23 @@ stay Western until the product changes (§6.3).
 - **The guide.** The time-lapse rule in sentences (§4.1), the date-range fact (§5.6: CLDR repeats the month without
   a year, so `time.ts` writes it once), punctuation (§6.5), Azerbaijan, Crimea and Ukrainian names (§8.8, §8.9), the
   CLDR exception for `افریقای جنوبی` (§4.3), the traps (§9.1), decisions 14–17.
+
+### Visual pass, 2026-11-22
+
+Every screen measured at 360, 390 and 430 px portrait, 844×390 and 1280×800 (`getBoundingClientRect`, `scrollWidth`,
+and the x position of each glyph for bidi order), beside English and Arabic.
+
+- **`sats.blurb.sentinel2`**: `Copernicus` isolated and `13` tied to `باند`. The line read «تصویربردار چندطیفی 13
+  :Copernicus باند» (§6.2.9).
+- **The headline's place** (`results.headline.watched` and `none`, `notes.passTimes`, `watchedBy` for the shared
+  caption and label) and **the pass sentences' place** (`pass.ts`, eight slots): isolated unless Persian (§6.2.8).
+- **`رصد کردند` held together** in the results headline and the card headline (§6.7). The card's last block wrapped
+  `256 ماهواره رصد | کردند.` at 72 px; it now breaks before the verb (measured at 256 and 263 satellites, in the preview and on phone landscape).
+- **About's credits and archives sentence**: multi-word Latin names tied with no-break spaces (§6.7). At 390 px
+  `Element 84 Earth | Search` and `Copernicus Data | Space Ecosystem` were split across lines.
+- **Kept, measured**: the replay legend's `در میدان دید: 7 دقیقه و 15 ثانیه` overflows 30 px at 390 and 60 px at 360
+  (English overflows too: the shared layout is being fixed). `در دیدرس` would save 13 px and still overflow, so the
+  reviewed label stays. The percent in `cloudCover` and the clocks were checked glyph by glyph and are in order.
 
 ### Rejected, and why
 

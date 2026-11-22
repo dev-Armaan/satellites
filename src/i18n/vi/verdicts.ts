@@ -16,14 +16,16 @@ const passes = (_n: number) => 'lượt'
 
 const verdicts: typeof en = {
   imaged: {
-    title: 'Đã quan sát',
+    // No-break spaces hold each title's phrases whole where a header or tile wraps it (vi.md §6.5): never *ĐÃ QUAN /
+    // SÁT* (the pass list's header at 390 px), never a line ending on *đã*.
+    title: 'Đã\u00a0quan\u00a0sát',
     short: 'Ảnh',
     unit: passes,
     definition: 'Có ảnh thật của nơi này trong một kho lưu trữ công khai.',
     verb: 'đã quan sát',
   },
   likely: {
-    title: 'Nhiều khả năng đã quan sát',
+    title: 'Nhiều\u00a0khả\u00a0năng đã\u00a0quan\u00a0sát',
     short: 'Quét qua',
     unit: passes,
     /** *camera hướng cố định*: a camera whose pointing is fixed (*camera cố định* would be a CCTV) */
@@ -31,8 +33,8 @@ const verdicts: typeof en = {
     verb: 'đã quét qua',
   },
   could: {
-    // The no-break space keeps *về đây* together where the tile wraps (phones: never *ĐÂY* alone on a line).
-    title: 'Có thể đã hướng về\u00a0đây',
+    // Two phrases, so the tile wraps as CÓ THỂ / ĐÃ HƯỚNG VỀ ĐÂY (phones), never with *đã* or *ĐÂY* alone at a line end.
+    title: 'Có\u00a0thể đã\u00a0hướng\u00a0về\u00a0đây',
     short: 'Có thể',
     unit: passes,
     /** "In range" of a camera that can turn is *trong tầm với* (reach), as About explains the same verdict */

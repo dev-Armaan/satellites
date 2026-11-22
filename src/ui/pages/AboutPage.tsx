@@ -341,11 +341,18 @@ export function AboutPage({ onClose }: { onClose: () => void }) {
                 <Credit who={m.credits.madeBy.who}>
                   <AboutText parts={m.credits.madeBy.text(MAKER_HANDLE)} href={MAKER_URL} />
                 </Credit>
-                {/* The data licences' attribution lines, in the wording they prescribe: English in every language. */}
-                <Credit who="Sentinel-1 / 2">Contains modified Copernicus Sentinel data {years}, processed by ESA.</Credit>
-                <Credit who="Landsat 8 / 9">Landsat imagery courtesy of the U.S. Geological Survey and NASA.</Credit>
+                {/* The data licences' attribution lines, in the wording they prescribe: English in every language, each its
+                    own left-to-right island, or a right-to-left page puts the full stop at the line's start. */}
+                <Credit who="Sentinel-1 / 2">
+                  <bdi lang="en">Contains modified Copernicus Sentinel data {years}, processed by ESA.</bdi>
+                </Credit>
+                <Credit who="Landsat 8 / 9">
+                  <bdi lang="en">Landsat imagery courtesy of the U.S. Geological Survey and NASA.</bdi>
+                </Credit>
                 <Credit who="NASA GIBS">{m.credits.gibs}</Credit>
-                <Credit who="Meteosat">Contains modified EUMETSAT Meteosat data {new Date().getUTCFullYear()}, from EUMETSAT’s map service.</Credit>
+                <Credit who="Meteosat">
+                  <bdi lang="en">Contains modified EUMETSAT Meteosat data {new Date().getUTCFullYear()}, from EUMETSAT’s map service.</bdi>
+                </Credit>
                 <Credit who={m.credits.archives.who}>{m.credits.archives.text}</Credit>
                 <Credit who={m.credits.orbits.who}>{m.credits.orbits.text}</Credit>
                 <Credit who={m.credits.placeNames.who}>{m.credits.placeNames.text}</Credit>

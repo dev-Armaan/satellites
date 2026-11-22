@@ -379,6 +379,18 @@ describe('searching in the visitor’s own names (real data)', () => {
     // The oblasts the list always had keep their rows: what English finds for Mykolaiv (GeoNames' city is Mykolayiv).
     for (const q of ['Mykolaiv', 'Vinnytsia', 'Zaporizhzhia', 'Kirovohrad']) expect((await first(q)).label).toBe(q)
     expect(files.network()).toEqual([])
+    // A city's name typed in part still finds the city first, its oblast at its very point ranking below it.
+    for (const q of ['Kherso', 'Poltav', 'Cherkas', 'Ternopi', 'Khark', 'Odes'])
+      expect([q, (await first(q)).kind]).toEqual([q, undefined])
+  })
+
+  it('leaves out the city districts GeoNames added on 2026-11-14/16, named like better-known places', async () => {
+    serveFiles()
+    const rows = async (q: string) => (await searchLocal(q)).map((r) => `${r.name}|${r.cc}|${r.admin1}`)
+    for (const q of ['Washington', 'Padova', 'Corsica', 'Loreto', 'Selinunte', 'Navigli'])
+      expect([q, (await rows(q)).filter((r) => r === `${q}|IT|Lombardy`)]).toEqual([q, []])
+    await as('it', itNames)
+    expect((await searchPlaces('Washington'))[0]).toMatchObject({ countryCode: 'us', lat: 38.895 })
   })
 
   it('counts the places found, not the rows shown, before it asks the network', async () => {

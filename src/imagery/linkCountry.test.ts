@@ -9,6 +9,7 @@ import hiNames from '@/i18n/hi/exonyms.gen'
 import itNames from '@/i18n/it/exonyms.gen'
 import koExonyms from '@/i18n/ko/exonyms'
 import ruNames from '@/i18n/ru/exonyms.gen'
+import ukNames from '@/i18n/uk/exonyms.gen'
 import type { Place } from '@/types'
 import { displayLabel } from './geocode'
 import { ensureExonyms, EXONYM_WAIT_MS } from './exonyms'
@@ -90,6 +91,10 @@ describe('a linked place’s name', () => {
     setBundleForTests('ru', { exonyms: { names: ruNames, countries: true } })
     await ensureExonyms()
     expect(await shown(link('Mexico City', 19.29, -99.295))).toBe('Мехико')
+    // A town a GeoNames edit recoded as a city's section is a town still, in the tiles (Kadiyivka, 73,000 people).
+    setBundleForTests('uk', { exonyms: { names: ukNames, countries: true } })
+    await ensureExonyms()
+    expect(await shown(link('Kadiyivka', 48.568, 38.644))).toBe('Кадіївка')
   })
 
   it('fetches nothing in English, and leaves the place itself as it came', async () => {

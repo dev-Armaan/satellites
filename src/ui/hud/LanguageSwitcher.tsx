@@ -128,7 +128,12 @@ export function LanguageSwitcher({ className }: { className?: string }) {
   const onMenuKey = (e: KeyboardEvent<HTMLDivElement>) => {
     const items = [...(menu.current?.querySelectorAll<HTMLElement>('[role="menuitemradio"]') ?? [])]
     const i = items.indexOf(document.activeElement as HTMLElement)
-    const go = (j: number) => items[(j + items.length) % items.length]?.focus({ preventScroll: true })
+    const go = (j: number) => {
+      const item = items[(j + items.length) % items.length]
+      item?.focus({ preventScroll: true })
+      // A short landscape screen can scroll the menu: keep the focused name in view, without moving the page.
+      item?.scrollIntoView({ block: 'nearest', inline: 'nearest' })
+    }
     // The names run down the columns: Up/Down move in that reading order, Left/Right a column across (a whole
     // column's worth of names), staying put at the edge. Right to left, the first column is the right one, so the
     // keys that go to the next column swap.

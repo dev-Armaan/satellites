@@ -83,7 +83,15 @@ const hi: CardMessages = {
     could: (s: SatName, place: string, _cut: boolean): Rich => [head(place, 'तक'), `${satObl(s)} की पहुँच थी।`],
     overhead: (s: SatName, place: string, _cut: boolean): Rich => [head(place, 'के ऊपर से'), `${sat(s)} गुज़रा।`],
   },
-  headlineWeek: (satellites: number, place: string, _cut: boolean): Rich => [head(place, 'को'), `इस हफ़्ते ${watched(satellites)}`],
+  // The count, its verb and the danda are tied (no-break spaces), so the lead breaks after «इस हफ़्ते» and never leaves
+  // «देखा।» alone on a line: «262 उपग्रहों ने देखा।» is 380 px at the week card's 62 px (441 px at 72) in the 466 px
+  // column, measured 2026-11-22. A week's lead is always over 24 units, so it is never set at 84 px. Zero is too long
+  // to tie whole: «किसी भी», «उपग्रह ने» and «नहीं देखा।» are tied, so it breaks «… के / किसी भी उपग्रह ने / नहीं
+  // देखा।» (no lone verb, no line that opens on «ने»), checked in satori with a short and a 33-letter place.
+  headlineWeek: (satellites: number, place: string, _cut: boolean): Rich => [
+    head(place, 'को'),
+    `इस हफ़्ते ${satellites > 0 ? watched(satellites).replace(/ /g, '\u00a0') : watched(0).replace('किसी भी उपग्रह ने नहीं देखा।', 'किसी\u00a0भी उपग्रह\u00a0ने नहीं\u00a0देखा।')}`,
+  ],
 
   // ── The line under the headline ───────────────────────────────────────────────────────────────────────────────────
 

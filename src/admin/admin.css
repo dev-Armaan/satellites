@@ -565,50 +565,148 @@ a {
 }
 
 /* ── places ── */
+/* The map takes the section's whole width (a world is 2.5 times as wide as it is tall, and Europe needs the pixels);
+   its two lists sit under it, side by side. */
 .a-places {
   display: grid;
-  grid-template-columns: minmax(0, 1.55fr) minmax(0, 1fr);
+  grid-template-columns: minmax(0, 1fr);
   gap: var(--s-6);
-  align-items: start;
 }
 .a-places-lists {
   display: grid;
-  gap: var(--s-5);
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: var(--s-6);
+  align-items: start;
 }
 .a-map {
   border: 1px solid var(--line);
   background: var(--ink-1);
 }
-.a-map > svg {
+.a-map-view {
+  position: relative;
+  overflow: hidden;
+}
+.a-map-view > svg {
   display: block;
-  width: 100%;
-  height: auto;
+  touch-action: pan-y;
+}
+/* The ground: land a shade above the sea, borders and lakes cut back out of it. Nothing here is a line of its own. */
+.a-map-land {
+  fill: var(--ink-2);
+}
+.a-map-sea {
+  fill: var(--ink-1);
+}
+.a-map-border {
+  fill: none;
+  stroke: var(--ink-1);
+  stroke-width: 1;
+  vector-effect: non-scaling-stroke;
+}
+.a-map-lattice {
+  stroke: var(--line);
+  stroke-width: 1;
+  opacity: 0.6;
 }
 .a-map-dot {
   fill: var(--signal);
+}
+.a-map-dust {
+  fill: var(--bone);
+  fill-opacity: 0.5;
+}
+.a-map-disc {
+  stroke: var(--ink-1);
+  stroke-width: 0.8;
+}
+.a-map-ring {
+  fill: var(--signal);
+  fill-opacity: 0.14;
+  stroke: var(--signal);
+  stroke-width: 1;
+}
+.a-map-tag {
+  font-family: var(--font-mono);
+  font-stretch: 87.5%;
+  font-variant-numeric: tabular-nums;
+  font-size: var(--fs-meta);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  fill: var(--bone-2);
+  /* A halo in the panel's ink, so a name stays readable over the points it crosses */
+  paint-order: stroke;
+  stroke: var(--ink-1);
+  stroke-width: 3px;
+  stroke-linejoin: round;
+  pointer-events: none;
+}
+.a-map-measure {
+  position: absolute;
+  visibility: hidden;
+  white-space: pre;
+}
+.a-map-key {
+  pointer-events: none;
+}
+.a-map-key-ring {
+  fill: none;
+  stroke: var(--bone-3-mark);
+  stroke-width: 1;
+}
+.a-map-leader {
+  stroke: var(--bone-3-mark);
+  stroke-width: 1;
+}
+.a-map-key-n {
+  fill: var(--bone-2);
+}
+.a-map-reticle {
+  pointer-events: none;
+}
+.a-map-reticle circle {
+  fill: none;
+  stroke: var(--bone);
+  stroke-width: 1;
+}
+.a-map-reticle line {
+  stroke: var(--bone);
+  stroke-width: 1;
+}
+.a-map-plate {
+  position: absolute;
+  display: grid;
+  gap: 2px;
+  padding: var(--s-2) var(--s-3);
+  border: 1px solid var(--bone-4);
+  background: var(--ink-1);
+  font-family: var(--font-mono);
+  font-stretch: 87.5%;
+  font-variant-numeric: tabular-nums;
+  font-size: var(--fs-meta);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  white-space: nowrap;
+  color: var(--bone-2);
+  pointer-events: none;
+}
+.a-map-plate b {
+  font-weight: 400;
+  color: var(--signal);
+}
+.a-map-plate-name {
+  color: var(--bone);
 }
 .a-map-legend {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  gap: var(--s-2) var(--s-3);
+  gap: var(--s-1) var(--s-4);
   padding: var(--s-2) var(--s-3);
   border-top: 1px solid var(--line);
   font-size: var(--fs-meta);
   letter-spacing: 0.04em;
+  text-transform: uppercase;
   color: var(--bone-3);
-}
-.a-map-key,
-.a-map-key-i {
-  display: inline-flex;
-  align-items: center;
-}
-.a-map-key {
-  gap: var(--s-3);
-  white-space: nowrap;
-}
-.a-map-key-i {
-  gap: var(--s-1);
 }
 
 /* ── split bars ── */
@@ -801,13 +899,6 @@ a {
   }
   .a-grid3 {
     grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-  .a-places {
-    grid-template-columns: minmax(0, 1fr);
-  }
-  .a-places-lists {
-    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
-    gap: var(--s-6);
   }
 }
 @media (max-width: 760px) {

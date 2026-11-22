@@ -548,78 +548,6 @@ describe('og card', () => {
   })
 })
 
-/**
- * vercel.json `routes` (share SH7), simulated: `vercel dev` can't evaluate `has`, so this walks the
- * route list the way the edge does (src anchored, `has` conditions as anchored regexes, `continue`
- * routes collect headers, the first other match wins, `handle: filesystem` marks where static files
- * and functions are served) for the requests that matter.
- */
-describe('vercel.json routes', () => {
-  interface Route {
-    src?: string
-    dest?: string
-    headers?: Record<string, string>
-    continue?: boolean
-    handle?: string
-    has?: { type: string; key: string; value?: string }[]
-  }
-  const routes = async (): Promise<Route[]> => {
-    const { readFile } = await import('node:fs/promises')
-    return (JSON.parse(await readFile(new URL('../../vercel.json', import.meta.url), 'utf8')) as { routes: Route[] }).routes
-  }
-  const anchored = (re: string) => new RegExp(`^${re.replace(/^\^/, '').replace(/\$$/, '')}$`)
-  /** Where a request lands before the filesystem phase ('filesystem' if no route claims it), and the headers it collected. */
-  async function resolve(url: string, ua: string, phase: 'before' | 'after' = 'before') {
-    const u = new URL(url, 'https://overflight.app')
-    const list = await routes()
-    const fsAt = list.findIndex((r) => r.handle === 'filesystem')
-    const scope = phase === 'before' ? list.slice(0, fsAt) : list.slice(fsAt + 1)
-    const headers: Record<string, string> = {}
-    for (const r of scope) {
-      const m = r.src ? anchored(r.src).exec(u.pathname) : null
-      if (!m) continue
-      const ok = (r.has ?? []).every((c) => {
-        const v = c.type === 'query' ? u.searchParams.get(c.key) : c.type === 'header' && c.key === 'user-agent' ? ua : null
-        return v !== null && (c.value === undefined || anchored(c.value).test(v))
-      })
-      if (!ok) continue
-      Object.assign(headers, r.headers)
-      if (r.continue) continue
-      // Named and numbered groups substitute into dest ($id, $1), as on the edge.
-      const dest = r.dest?.replace(/\$(\w+)/g, (_, k: string) => (/^\d+$/.test(k) ? m[Number(k)] : m.groups?.[k]) ?? '') ?? null
-      return { dest, headers }
-    }
-    return { dest: 'filesystem', headers }
-  }
-  const BOT = 'Mozilla/5.0 (compatible; Twitterbot/1.0)'
-  const IMESSAGE = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebookexternalhit/1.1 Facebot Twitterbot/1.0'
-  const PERSON = 'Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1'
-
-  it('sends link unfurlers of an address-bar link to the place page, and people to the app', async () => {
-    expect((await resolve('/?q=43.472,-80.545&n=Waterloo', BOT)).dest).toBe('/api/s')
-    expect((await resolve('/?q=43.472,-80.545&n=Waterloo', IMESSAGE)).dest).toBe('/api/s')
-    expect((await resolve('/?q=43.472,-80.545&n=Waterloo', PERSON)).dest).toBe('filesystem')
-    expect((await resolve('/', BOT)).dest).toBe('filesystem') // the root card: static index.html + og-default.png
-    expect((await resolve('/s/ab3d5f7h', PERSON)).dest).toBe('/api/s?id=ab3d5f7h')
-  })
-
-  it('falls back to the SPA for app paths only, after the filesystem', async () => {
-    expect((await resolve('/about', PERSON, 'after')).dest).toBe('/index.html')
-    expect((await resolve('/api/og', PERSON, 'after')).dest).toBe('filesystem')
-    expect((await resolve('/missing.png', PERSON, 'after')).dest).toBe('filesystem')
-  })
-
-  it('keeps the security headers and never marks unhashed textures immutable', async () => {
-    const page = await resolve('/', PERSON)
-    expect(page.headers['X-Content-Type-Options']).toBe('nosniff')
-    expect(page.headers['Referrer-Policy']).toBeTruthy()
-    expect((await resolve('/assets/index-abc123.js', PERSON)).headers['Cache-Control']).toContain('immutable')
-    const tex = (await resolve('/textures/earth-day-4k.webp', PERSON)).headers['Cache-Control']
-    expect(tex).toContain('max-age=86400')
-    expect(tex).not.toContain('immutable')
-  })
-})
-
 describe('a shared Sentinel-1 radar image (migration 0012)', () => {
   const ID = 'S1D_IW_GRDH_1SDV_20261110T170617_20261110T170642_005408_00A516_rtc'
   afterEach(() => vi.unstubAllGlobals())
@@ -686,6 +614,86 @@ describe('a shared geostationary image (migration 0014 for the Meteosats)', () =
     expect(ir.url).toContain('LAYERS=Himawari_AHI_Band13_Clean_Infrared')
     expect(cropPlan({ collection: 'eumetsat-meteosat-0deg', itemId: `msg_fes:rgb_dust@${AT}` }, 48.86, 2.35, 630)).toBeNull()
     expect(cropPlan({ collection: 'gibs-goes-east', itemId: 'GOES-East_ABI_GeoColor@2026-11-11' }, 43.47, -80.54, 630)).toBeNull()
+  })
+
+  describe('the card and EUMETSAT’s map service', () => {
+    type Og = (r: Request) => Promise<Response>
+    const og = async () => ((await import('../og.tsx' as string)) as { handleOg: Og }).handleOg
+    const FRAME = { collection: 'eumetsat-meteosat-0deg', itemId: `mtg_fd:rgb_geocolour@${AT}`, provider: 'eumetsat', gsdM: 2000, datetime: Date.parse(AT) }
+    const stored = (capture: Record<string, unknown>) => ({ ...ROW, placeLabel: 'Paris', lat: 48.86, lon: 2.35, satName: 'Meteosat-12', norad: 54743, tClosest: Date.parse(AT), capture })
+    /** A database holding one share, and a map service answering `eumetsat()`; which hosts were asked. */
+    const world = (share: unknown, eumetsat: () => Response) => {
+      const asked: string[] = []
+      vi.stubGlobal('fetch', vi.fn(async (u: string | Request) => {
+        const url = new URL(u instanceof Request ? u.url : String(u))
+        asked.push(url.host)
+        return url.host === 'example-ref.supabase.co' ? new Response(JSON.stringify(share)) : eumetsat()
+      }))
+      return asked
+    }
+    beforeEach(() => {
+      vi.useFakeTimers({ now: Date.parse(AT) + 3_600_000, toFake: ['Date'] })
+      vi.stubEnv('VITE_SUPABASE_URL', 'https://example-ref.supabase.co')
+      vi.stubEnv('VITE_SUPABASE_PUBLISHABLE_KEY', 'sb_publishable_test')
+    })
+    afterEach(() => {
+      vi.useRealTimers()
+      vi.unstubAllEnvs()
+    })
+
+    it('never asks it for a card drawn from an address alone, whatever frame the address names', async () => {
+      const asked = world(null, () => new Response('', { status: 500 }))
+      const handleOg = await og()
+      const pass = `place=Paris&lat=48.86&lon=2.35&verdict=imaged&sat=Meteosat-12&norad=54743&collection=eumetsat-meteosat-0deg&item=${encodeURIComponent(FRAME.itemId)}`
+      const summary = `kind=summary&q=48.86,2.35&n=Paris&sv=200&sc=31,220,1544,66&bc=eumetsat-meteosat-iodc&bi=${encodeURIComponent(`msg_iodc:ir108@${AT}`)}&bs=Meteosat-9`
+      for (const q of [pass, `${pass}&x=1`, summary]) {
+        const res = await handleOg(new Request(`https://www.watched.earth/api/og?${q}`))
+        expect(res.status).toBe(200)
+        // Final: there is no picture to come back for.
+        expect(res.headers.get('cache-control')).toContain('s-maxage=31536000')
+      }
+      expect(asked).toEqual([])
+    })
+
+    it('asks it once for a stored share’s frame, and takes an answer that is no picture as final', async () => {
+      const handleOg = await og()
+      const asked = world(stored(FRAME), () => new Response('', { status: 502 }))
+      const res = await handleOg(new Request('https://www.watched.earth/api/og?id=ab3d5f7h&v=5'))
+      expect(res.status).toBe(200)
+      expect(asked).toEqual(['example-ref.supabase.co', 'view.eumetsat.int'])
+      expect(res.headers.get('cache-control')).toContain('s-maxage=31536000')
+    })
+
+    it('asks nothing for a stored frame time no frame can have: off the cadence, or still to come', async () => {
+      const handleOg = await og()
+      for (const at of ['2026-11-11T06:53:00Z', '2026-11-11T09:00:00Z']) {
+        const asked = world(stored({ ...FRAME, itemId: `mtg_fd:rgb_geocolour@${at}` }), () => new Response('', { status: 502 }))
+        const res = await handleOg(new Request('https://www.watched.earth/api/og?id=ab3d5f7h'))
+        expect(res.status).toBe(200)
+        expect(asked).toEqual(['example-ref.supabase.co'])
+      }
+    })
+
+    it('keeps every parameter a card reads in its cache key (a new one left out would share another card’s entry)', async () => {
+      const { cardCacheQuery, CARD_VERSION } = await import('./share.js')
+      const { readFileSync } = await import('node:fs')
+      const read = [...(readFileSync('api/_lib/share.ts', 'utf8') + readFileSync('api/og.tsx', 'utf8')).matchAll(/(?:\bq|searchParams)\.get\('([a-z]+)'\)/g)].map((m) => m[1])
+      expect(new Set(read).size).toBeGreaterThan(30)
+      for (const name of new Set(read)) {
+        // The version and the language are kept in their own form (the current version; a language we speak).
+        const value = name === 'v' ? CARD_VERSION : name === 'l' ? 'ja' : 'x'
+        expect(cardCacheQuery(new URLSearchParams({ [name]: value })), name).toBe(`${name}=${value}`)
+      }
+      // A stored share's card is its id, whatever else its address says.
+      expect(cardCacheQuery(new URLSearchParams('place=Elsewhere&id=ab3d5f7h&x=1&v=4&l=ar'))).toBe('id=ab3d5f7h')
+    })
+
+    it('is read, not posted to', async () => {
+      const asked = world(stored(FRAME), () => new Response('', { status: 502 }))
+      const res = await (await og())(new Request('https://www.watched.earth/api/og?id=ab3d5f7h', { method: 'POST' }))
+      expect(res.status).toBe(405)
+      expect(asked).toEqual([])
+    })
   })
 
   it('says its pixel in km on the card, names the imager and credits EUMETSAT as its policy asks', () => {

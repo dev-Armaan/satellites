@@ -1,5 +1,5 @@
 /**
- * GET /s/:id  (vercel.json rewrites it to /api/s?id=:id)
+ * GET /s/:id  (worker/router.ts rewrites it to /api/s?id=:id)
  *
  * The URL people paste into X / iMessage / Slack. Unfurlers get real Open Graph tags for the
  * shared pass, with og:image pointing at the /api/og card; people are sent straight on to the
@@ -10,7 +10,7 @@
  *   db unreachable → 200, generic tags but the card URL still names the share, cached briefly
  *
  * Place mode (share SH7): an address-bar link, /?q=43.47,-80.54&n=Waterloo, fetched by a link
- * unfurler (vercel.json sends only bot user agents here; people get the SPA). Title "What
+ * unfurler (worker/router.ts sends only bot user agents here; people get the app). Title "What
  * watched Waterloo this week", the card at /api/og?kind=place…, coordinates coarsened to 0.01°,
  * and people who land here anyway are handed to the same address in the app.
  *
@@ -34,6 +34,7 @@ import { sharePageHtml } from './_lib/html.js'
 import { cardMessages } from './_lib/i18n/card/index.js'
 import { DEFAULT_LOCALE, type Locale } from './_lib/i18n/locales.js'
 import {
+  CARD_VERSION,
   DEEP_LINK_PASS_KEYS,
   SHARE_ID_RE,
   SUMMARY_KEYS,
@@ -51,12 +52,8 @@ import {
   summaryTitle,
 } from './_lib/share.js'
 
-/**
- * Bump when the card design changes so unfurler caches (which key on the URL) refetch.
- * 4 (round 3): "watched" vocabulary on pass cards, the summary card's N / K headline (R3-13).
- * 5: no verdict row or coordinates; pass cards lead with the week's N ("7 satellites watched Waterloo.", owner).
- */
-export const CARD_VERSION = '5'
+/** The card's version, written into every card address (api/_lib/share.ts, where the card's cache key reads it). */
+export { CARD_VERSION }
 
 /** `l=<locale>` for a URL this page writes: nothing for English, so English URLs never change. */
 function withLocale(p: URLSearchParams, locale: Locale): URLSearchParams {
@@ -74,6 +71,16 @@ function generic(origin: string, locale: Locale) {
       ? { image: `${origin}/og-default.png`, imageType: 'image/png' as const }
       : { image: `${origin}/api/og?${new URLSearchParams({ v: CARD_VERSION, l: locale }).toString()}`, imageType: 'image/jpeg' as const }
   return { title: m.page.title, description: m.page.description, imageAlt: m.defaultAlt, locale, ...image }
+}
+
+/**
+ * The card of a place with no pass named. An address-bar link to the place and the place's own page (/place/<slug>,
+ * scripts/build-seo.ts) both unfurl into it, so the two share one render in the edge cache. The spot is rounded to
+ * 0.01°, as every link's is, and the card speaks the page's language (English names none, so its URL never changes).
+ */
+export function placeCardUrl(origin: string, place: { label: string; lat: number; lon: number }, locale: Locale = DEFAULT_LOCALE): string {
+  const card = withLocale(new URLSearchParams({ kind: 'place', place: place.label, lat: place.lat.toFixed(2), lon: place.lon.toFixed(2), v: CARD_VERSION }), locale)
+  return `${origin}/api/og?${card.toString()}`
 }
 
 function html(body: string, status: number, cacheControl: string): Response {
@@ -127,20 +134,15 @@ function placePage(q: URLSearchParams, origin: string): Response {
       'public, max-age=300, s-maxage=86400, stale-while-revalidate=604800',
     )
   }
-  const card = withLocale(
-    new URLSearchParams(
-      summary
-        ? { kind: 'summary', q: coords, n: place.label, ...Object.fromEntries(SUMMARY_KEYS.flatMap((k) => (q.get(k) ? [[k, q.get(k)!]] : []))), v: CARD_VERSION }
-        : { kind: 'place', place: place.label, lat: place.lat.toFixed(2), lon: place.lon.toFixed(2), v: CARD_VERSION },
-    ),
-    locale,
-  )
+  const card = summary
+    ? `${origin}/api/og?${withLocale(new URLSearchParams({ kind: 'summary', q: coords, n: place.label, ...Object.fromEntries(SUMMARY_KEYS.flatMap((k) => (q.get(k) ? [[k, q.get(k)!]] : []))), v: CARD_VERSION }), locale).toString()}`
+    : placeCardUrl(origin, place, locale)
   return html(
     sharePageHtml({
       title: summary ? summaryTitle(summary, locale) : placeTitle(place, locale),
       description: summary ? summaryDescription(summary, locale) : placeDescription(place, locale),
       canonical: `${origin}/?${withLocale(new URLSearchParams(app), locale).toString()}`,
-      image: `${origin}/api/og?${card.toString()}`,
+      image: card,
       imageType: 'image/jpeg',
       imageAlt: summary ? summaryAlt(summary, locale) : cardMessages(locale).defaultAlt,
       redirect: `/?${app.toString()}`,
@@ -195,8 +197,4 @@ export async function handleSharePage(request: Request): Promise<Response> {
     200,
     'public, max-age=60, s-maxage=60',
   )
-}
-
-export default {
-  fetch: handleSharePage,
 }

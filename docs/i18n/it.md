@@ -558,6 +558,7 @@ giorno, quindi quei passaggi contano come osservati.*
 | `requestingPosition` / `namingPlace` | Richiesta della posizione / Ricerca del nome |
 | `locatingNote` | La tua posizione va al geocoder Photon per dare un nome al luogo. Conserviamo solo una cella di circa 10&nbsp;km. |
 | `orTry` / `pinHint` / `dropPin` / `surprise` | Oppure prova / Oppure clicca sul globo per mettere un segnaposto / Metti un segnaposto / Sorprendimi |
+| `sourceLink` / `sourceLinkLabel` | Open source / Open source: il codice su GitHub |
 
 **Globe.** imaged *Ripresa 11:21:13 EST*, about *Ripresa ≈ 11:21 EST* · acquired *Acquisita 11:21:13 EST · 10 m* ·
 acquisitionOf *Acquisizione · SENTINEL-2C* · closestApproachOf *Massimo avvicinamento · ISS (ZARYA)* (right-aligned,

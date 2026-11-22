@@ -13,9 +13,8 @@
  */
 import { memo, useEffect, useLayoutEffect, useRef, useState, type ComponentType } from 'react'
 import { createPortal } from 'react-dom'
-import enApp from '@/i18n/en/app'
-import { useMsgs } from '@/i18n/runtime'
 import { backStack, onBackSettled, watchLayer } from '@/lib/backStack'
+import { homePath } from '@/lib/placePage'
 import { useApp, type Phase } from '@/state/store'
 import type { Place } from '@/types'
 import type { ResultsViewProps } from '@/ui/results'
@@ -23,50 +22,31 @@ import { Hud } from '@/ui/hud'
 import { Landing } from '@/ui/landing'
 import { prefersReducedMotion } from '@/ui/system'
 import { exitBootCurtain } from './bootCurtain'
-import { afterLandingEntrance, boot, isShareUnresolved, loadEngine, resetToLanding, retryReport, runReport, writeUrl } from './controller'
+import { chunk, requestChunk, type Chunk } from './chunks'
+import { afterLandingEntrance, boot, failPanel, isShareUnresolved, loadEngine, resetToLanding, retryReport, runReport, writeUrl } from './controller'
 import { ErrorNotice } from './ErrorNotice'
 import s from './App.module.css'
 
-// ── code-split chunks ──────────────────────────────────────────────────────────────────────────
-/**
- * A chunk loader that remembers its module once loaded, so a component from it renders synchronously in the
- * very commit that needs it. (React.lazy would suspend for a tick even when the chunk is already in, and the
- * Suspense retry runs at a low priority that a stream of store updates — progress, the clock — can starve
- * for seconds: measured 1.8 s of empty screen between boot and the computing panel.)
- */
-interface Chunk<T> {
-  (): Promise<T>
-  loaded?: T
-}
-const chunk = <T,>(load: () => Promise<T>): Chunk<T> => {
-  let p: Promise<T> | undefined
-  const get: Chunk<T> = () => {
-    p ??= load().then((m) => (get.loaded = m))
-    // A failed chunk load (flaky network) must not stick: the next call retries.
-    p.catch(() => (p = undefined))
-    return p
-  }
-  return get
-}
+// ── code-split chunks (./chunks.ts) ──────────────────────────────────────────────────────────────
 const loadGlobe = chunk(() => import('@/globe'))
 const loadResults = chunk(() => import('@/ui/results'))
 const loadAbout = chunk(() => import('@/ui/pages'))
 
-/** The module of `c` once loaded (requests it when `wanted`); undefined until then. */
-function useChunk<T>(c: Chunk<T>, wanted: boolean): T | undefined {
+/**
+ * The module of `c` once loaded; undefined until then. It is asked for while `wanted` (again after a failure:
+ * requestChunk), `onFail` hears when no attempt worked, and an arrival re-renders the caller whoever asked for it.
+ */
+function useChunk<T>(c: Chunk<T>, wanted: boolean, onFail?: (err: unknown) => void): T | undefined {
   const [, setTick] = useState(0)
   const loaded = c.loaded
   useEffect(() => {
-    if (!wanted || loaded) return
-    let alive = true
-    c().then(
-      () => alive && setTick((n) => n + 1),
-      () => undefined,
-    )
-    return () => {
-      alive = false
-    }
-  }, [c, wanted, loaded])
+    if (loaded) return
+    const arrived = () => setTick((n) => n + 1)
+    // It may have arrived between this render and this effect.
+    if (c.loaded) return arrived()
+    return c.onLoad(arrived)
+  }, [c, loaded])
+  useEffect(() => (wanted && !loaded ? requestChunk(c, { onFail }) : undefined), [c, wanted, loaded, onFail])
   return loaded
 }
 
@@ -145,7 +125,7 @@ function writeUrlNow() {
   if (st.place && (st.phase === 'results' || st.phase === 'computing' || st.phase === 'error')) writeUrl(st.place, st.phase === 'results' ? st.selectedPassId : undefined)
   // The landing: a clean address, except a share link the visitor hasn't moved on from (?s=: it may still open, or a
   // reload may find it). From the controller's state, not the address: after their own search the landing is clean.
-  else if (st.phase === 'idle' && !isShareUnresolved()) history.replaceState(history.state, '', location.pathname)
+  else if (st.phase === 'idle' && !isShareUnresolved()) history.replaceState(history.state, '', homePath(location.pathname))
 }
 /** Back out of a pass to the list (as the panel's "All passes"): live time, the camera back on the place. */
 function closePass() {
@@ -169,24 +149,10 @@ function enterDelayAfter(prev: Phase): number {
   return 160
 }
 
-/**
- * The tab's title in the page's language, following a switch: app.documentTitle, whose English is index.html's own
- * title, word for word (i18n.test.ts checks it). Never read back from document.title: before the app runs, the boot
- * words (src/i18n/bootText.ts) have already set the boot language's title there, so a German page switched to English,
- * or falling back to it when its chunk failed, kept the German title.
- */
-function useDocumentTitle() {
-  const m = useMsgs(enApp)
-  useEffect(() => {
-    if (document.title !== m.documentTitle) document.title = m.documentTitle
-  }, [m])
-}
-
 export default function Main() {
   const phase = useApp((st) => st.phase)
   const error = useApp((st) => st.error)
   const about = useApp((st) => st.aboutOpen)
-  useDocumentTitle()
 
   // The loading screen (index.html) leaves in the commit that mounts what boot led to, before its first paint.
   useLayoutEffect(() => {
@@ -298,7 +264,8 @@ export default function Main() {
     return () => cancelAnimationFrame(raf)
   }, [panel])
   const GlobeCanvas: GlobeView | undefined = useChunk(loadGlobe, true)?.GlobeCanvas
-  const ResultsView = useChunk(loadResults, panel)?.ResultsView
+  // The panel's own code could not be had: the fault notice, whose "Try again" runs the search and asks again.
+  const ResultsView = useChunk(loadResults, panel, failPanel)?.ResultsView
   const AboutPage = useChunk(loadAbout, about)?.AboutPage
 
   return (

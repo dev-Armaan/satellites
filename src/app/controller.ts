@@ -6,6 +6,7 @@
  *   /?q=<lat>,<lon>&n=<label>[&p=<passId>]   deep link straight to a report
  *   /?q=…&norad=<id>&t=<ms>                  share's fallback deep link: that satellite's pass nearest t
  *   /?s=<shareId>                            open a shared pass
+ *   /place/<slug>                            a place page: straight to that place's report (src/lib/placePage.ts)
  *
  * Timing contract (decision #10, one continuous instrument):
  *  - Boot waits only for the globe's first light and the fonts. The catalog loads in parallel (its points
@@ -29,12 +30,15 @@ import { useApp } from '@/state/store'
 import type { Capture, Place, ProgressEvent, Report } from '@/types'
 import type { EngineReport } from '@/engine/report'
 import { isCatalogLoadError, loadCatalog, loadCatalogNames } from '@/engine/catalog'
+import enApp from '@/i18n/en/app'
 import enPlaces from '@/i18n/en/places'
 import { msgs } from '@/i18n/runtime'
 import { ensureTz } from '@/imagery'
 import { getShare, recordLookup, type Share } from '@/lib/backend'
+import { addressOf, bootPlace, homePath, pagePlace } from '@/lib/placePage'
+import { installHeadSync } from './head'
 import { createLateShareGate } from './lateShare'
-import { linkPlaceIn, passLinkOpts, placeSearch, sharedGeoItem, pickPreselect, readUrlTarget, type RunOpts } from './links'
+import { linkPlaceIn, passLinkOpts, sharedGeoItem, pickPreselect, readUrlTarget, type RunOpts } from './links'
 import { CATALOG_FAULT, COMPUTE_FAULT, PROGRESS_CATALOG, PROGRESS_DONE } from './messageRefs'
 import { isSettled, raceTimeout, settleWaitMs, sleep } from './timing'
 
@@ -169,7 +173,8 @@ export async function boot() {
   booted = true
   const bootStart = performance.now()
   mark('boot')
-  const target = readUrlTarget(location.search)
+  installHeadSync()
+  const target = readUrlTarget(location.search, Date.now(), bootPlace())
   // A place link that carries `tl` opens the time-lapse over its results (ui/results/TimelapseEntry.tsx).
   if (target?.kind === 'q') useTimelapseUi.getState().request(timelapseParam(location.search))
   // Everything that can overlap does: the share lookup, the catalog, the globe's first light, the fonts.
@@ -203,7 +208,7 @@ export async function boot() {
     const share = await raceTimeout(shareP, Math.max(SHARE_MIN_AFTER_LIGHT_MS, SHARE_CAP_MS - (performance.now() - bootStart)))
     if (share) run = shareRun(share)
     // Unknown, expired or invalid share (settled with null): the landing, with a clean address bar.
-    else if (shareSettled) history.replaceState(history.state, '', location.pathname)
+    else if (shareSettled) history.replaceState(history.state, '', homePath(location.pathname))
     // Still pending: the landing, keeping ?s= — it opens when it answers, if the landing is untouched.
     else adoptLateShare(shareP, bootStart)
   }
@@ -242,9 +247,10 @@ async function loadFirstFonts(): Promise<void> {
     const root = document.documentElement
     const language = SCRIPT_FONTS[root.lang]
     const own = language ?? SCRIPT_FONTS[root.getAttribute('data-script') ?? ''] ?? []
-    // With the page's own words (the tab title is the hero line in the visitor's language: src/i18n/bootText.ts), so a
-    // latin-ext face (Polish ł, Turkish ş) is fetched before the hero shows, not swapped in under its wipe.
-    const words = `${document.title} `
+    // With the page's own words (the landing's title is the hero line in the visitor's language), so a latin-ext face
+    // (Polish ł, Turkish ş) is fetched before the hero shows, not swapped in under its wipe. From the catalog, not
+    // document.title: on a place page the tab names the place instead (src/app/head.ts).
+    const words = `${msgs(enApp).documentTitle} `
     await Promise.all([...(language ? [] : FIRST_FONTS).map((f) => fonts.load(f, words)), ...own.map(([f, text]) => fonts.load(f, text))])
     await fonts.ready
   } catch {
@@ -848,21 +854,38 @@ function waitForCamera(started: number, flightBefore: number, signal: AbortSigna
   })
 }
 
+/**
+ * The results panel's code could not be loaded (Main's chunk request, after its retries): the search has nowhere to
+ * show itself, so it ends in the fault notice instead of a globe with nothing beside it. The place stays in the
+ * store, so "Try again" runs it again, and the panel's chunk is asked for anew as the phase turns to computing.
+ */
+export function failPanel(cause: unknown) {
+  const st = useApp.getState()
+  if (st.phase !== 'computing' && st.phase !== 'results') return
+  inflight?.abort()
+  inflight = null
+  console.error(cause)
+  st.setPhase('error', COMPUTE_FAULT, `results chunk: ${causeOf(cause)}`)
+}
+
 export function resetToLanding() {
   inflight?.abort()
   inflight = null
   useApp.getState().reset()
   // history.state is kept: it carries the back stack's stamp for this entry (src/lib/backStack.ts).
-  history.replaceState(history.state, '', location.pathname)
+  history.replaceState(history.state, '', homePath(location.pathname))
 }
 
 /** Address-bar writes so far: a deferred write is skipped when a newer one has happened since (R2K3). */
 let urlWrites = 0
 
-/** Address-bar state (links.ts placeSearch: rounded coordinates, a curated place's English name). */
+/**
+ * Address-bar state (src/lib/placePage.ts addressOf): `?q=<lat>,<lon>&n=<label>`, the coordinates rounded to ~110 m
+ * and a curated place named in English, or a place page's own path while its place is the one on screen.
+ */
 export function writeUrl(place: Place, passId?: string) {
   urlWrites++
-  history.replaceState(history.state, '', `${location.pathname}?${placeSearch(place, passId)}`)
+  history.replaceState(history.state, '', addressOf(place, passId, pagePlace(), location.pathname))
 }
 
 // ───────────────────────────── helpers ─────────────────────────────

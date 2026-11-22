@@ -17,7 +17,7 @@
  *        EUMETSAT's own render of the same square, asked by that visitor's browser. Rare: the app asks only for
  *        frames the cache lists (api/geo-frames.ts).
  *   400  not an app picture · 404 a time that is not a frame's · 405
- *   503  the store is missing (Vercel, local dev without the Worker), unreadable, or lacks a tile it should have.
+ *   503  the store is missing (local dev without the Worker), unreadable, or lacks a tile it should have.
  *        Never a redirect then: a broken cache must not send every visitor to EUMETSAT.
  */
 import { cutSquare, tilesOf } from './_lib/geoCut.js'
@@ -77,6 +77,3 @@ export async function handleGeo(req: Request, deps: GeoServe | null): Promise<Re
     return plain(503, 'no-store')
   }
 }
-
-// Vercel has no store: the cache lives in the Cloudflare Worker (worker/index.ts).
-export default { fetch: (req: Request) => handleGeo(req, null) }

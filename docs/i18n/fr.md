@@ -458,7 +458,8 @@ neutral for war zones and glaciers (no *évolution*, no *transformation*).
   coordonnées telles que 43.47, −80.54 fonctionnent toujours.* (point and U+2212 minus kept exactly: the field parses
   them); `nothingMatches` *Rien ne correspond à « [query] ». Essayez une ville, un monument ou des coordonnées.*;
   `locating` *Localisation…*; `requestingPosition` *Demande de position*; `namingPlace` *Recherche du nom* (16, as English);
-  `elapsed` *04 s*; `builtBy` *Créé par [handle]*; `surpriseName` *Au hasard : un lieu célèbre tiré au sort*.
+  `elapsed` *04 s*; `builtBy` *Créé par [handle]*; `sourceLink` *Code source* (says what the link opens, without the anglicism; aria
+  *Code source : le projet sur GitHub*); `surpriseName` *Au hasard : un lieu célèbre tiré au sort*.
 - **Gallery and viewer chrome say *Images*:** they hold radar images and weather mosaics. `barLabel` *Images*;
   `filterLabel` *Afficher les images*; filter (≤ 8 characters each) *Toutes · Précises · Météo · Radar*; `prevPhoto` /
   `nextPhoto` *Image précédente* / *Image suivante*; `trackLabel` *Images de ce lieu, balayez pour en voir plus*;

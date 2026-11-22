@@ -59,6 +59,8 @@ const landing: typeof en = {
     `Wpisz dowolne miejsce na Ziemi. Zobacz wszystkie satelity, które przeleciały nad nim ${inLastDays(n)}, i\u00a0ich prawdziwe zdjęcia.`,
   ],
   builtBy: (handle: string) => `Autor: ${handle}`,
+  sourceLink: 'Kod źródłowy',
+  sourceLinkLabel: 'Kod źródłowy w serwisie GitHub',
 
   // ── The place search ──────────────────────────────────────────────────────────────────────
   searchPlaceholder: 'Szukaj miejsca',

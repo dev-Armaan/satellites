@@ -1,7 +1,7 @@
 /**
  * A tab opened on an earlier build asks the production domain for lazily loaded chunks (results, globe, About, …)
- * whose hashed names that build knew. Without Vercel's Skew Protection, the domain serves only the newest
- * deployment's files, so those imports fail after a deploy. Vite reports each failure as a cancellable
+ * whose hashed names that build knew. The domain serves only the newest deployment's files, so those imports
+ * fail after a deploy. Vite reports each failure as a cancellable
  * `vite:preloadError` event on window.
  *
  * The fix is one reload: the tab picks up the new build, and the address bar already carries the place and pass,

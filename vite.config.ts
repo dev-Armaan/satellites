@@ -4,18 +4,15 @@ import { fileURLToPath } from 'node:url'
 import { LOCALE_INFO } from './api/_lib/i18n/locales.ts'
 import { bootLocale, type BootData } from './src/i18n/boot.ts'
 import { BOOT_TEXT } from './src/i18n/bootText.ts'
+import { PLACE_PREFIX } from './src/lib/placePage.ts'
 
 /**
- * Production origin for absolute link-preview URLs (og:url, og:image): VITE_SITE_ORIGIN, else Vercel's
- * production host, else the current deployment.
+ * Production origin for the absolute URLs search engines and link previews read (canonical, og:url, og:image, the
+ * sitemap): VITE_SITE_ORIGIN, a build variable. Every build says the production origin, a preview's too, so a
+ * preview never presents itself as the site. A fork sets its own (docs/SELF-HOSTING.md).
  */
 function siteOrigin(env: Record<string, string>): string {
-  const raw =
-    env.VITE_SITE_ORIGIN ||
-    (env.VERCEL_PROJECT_PRODUCTION_URL && `https://${env.VERCEL_PROJECT_PRODUCTION_URL}`) ||
-    (env.VERCEL_URL && `https://${env.VERCEL_URL}`) ||
-    'https://www.watched.earth'
-  return raw.replace(/\/+$/, '')
+  return (env.VITE_SITE_ORIGIN || 'https://www.watched.earth').replace(/\/+$/, '')
 }
 
 /** SGP4 and the engine modules over it: needed by the globe and the report engine, never by the first screen. */
@@ -194,7 +191,8 @@ function withLocaleBoot(html: string, preload: Record<string, string[]> | undefi
   const words =
     `<script>(function(t){var e=t[document.documentElement.lang];if(!e)return;var b=document.getElementById('boot-static');` +
     `if(b){b.setAttribute('aria-label',e.loading);var n=b.querySelector('.bs-note');if(n)n.textContent=e.slow}` +
-    `document.title=e.title})(${json(text)})</script>`
+    // The title is the landing's: a place page keeps its own until the app names the place (src/app/head.ts).
+    `if(location.pathname.indexOf(${json(`${PLACE_PREFIX}/`)})!==0)document.title=e.title})(${json(text)})</script>`
   const charset = /<meta charset="UTF-8" \/>\n/
   if (!charset.test(html) || !html.includes('<!-- boot-text -->')) throw new Error('index.html: missing <meta charset> or <!-- boot-text -->')
   return html.replace(charset, (m) => `${m}    ${boot}\n`).replace('<!-- boot-text -->', words)
@@ -207,8 +205,8 @@ function withLocaleBoot(html: string, preload: Record<string, string[]> | undefi
  * the shell and the results panel again with not a line of them changed. index.html is revalidated on every visit anyway.
  */
 function appVersion(): string {
-  // The commit as each host's build names it: Vercel, then Cloudflare Workers Builds.
-  const sha = process.env.VERCEL_GIT_COMMIT_SHA || process.env.WORKERS_CI_COMMIT_SHA || ''
+  // The commit, as Cloudflare Workers Builds names it.
+  const sha = process.env.WORKERS_CI_COMMIT_SHA || ''
   const v = process.env.VITE_APP_VERSION || sha.slice(0, 7) || process.env.npm_package_version || 'dev'
   return /^[A-Za-z0-9._-]{1,24}$/.test(v) ? v : 'dev'
 }

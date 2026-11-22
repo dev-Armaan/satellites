@@ -220,7 +220,7 @@ describe('decal and scan geometry', () => {
     const pass = (id: string, t: number, captureId: string): Pass => ({ id, tClosest: t, verdict: 'imaged', captureId }) as unknown as Pass
     const cap = (id: string, collection: string, gsdM: number, spot?: string, cloudCoverPct?: number) => ({
       id,
-      provider: collection.startsWith('gibs') ? 'gibs' : 'planetary-computer',
+      provider: collection.startsWith('gibs') ? 'gibs' : collection.startsWith('eumetsat') ? 'eumetsat' : 'planetary-computer',
       collection,
       gsdM,
       spot,
@@ -241,11 +241,29 @@ describe('decal and scan geometry', () => {
     expect(coverPass(report([cap('ls', 'landsat-c2-l2', 30, 'clear')], true))).toBeUndefined()
   })
 
+  it('never fetches a Meteosat frame, a GOES frame or a radar image ahead: none of them leads the panel', () => {
+    const pass = (id: string, t: number, captureId: string): Pass => ({ id, tClosest: t, verdict: 'imaged', captureId }) as unknown as Pass
+    const cap = (id: string, provider: string, collection: string, gsdM: number, cloudCoverPct?: number) => ({ id, provider, collection, gsdM, cloudCoverPct })
+    const report = (captures: ReturnType<typeof cap>[]) => ({ partial: false, passes: captures.map((c, i) => pass(`p${c.id}`, i + 1, c.id)), captures, geo: [] }) as unknown as Report
+    const meteosat = cap('mtg', 'eumetsat', 'eumetsat-meteosat-0deg', 2000)
+    const iodc = cap('iodc', 'eumetsat', 'eumetsat-meteosat-iodc', 3000)
+    const goes = cap('goes', 'gibs', 'gibs-goes-east', 2000)
+    const radar = cap('s1', 'planetary-computer', 'sentinel-1-rtc', 20)
+    // A week with nothing but these (open sea, or the photo archive down): no cover, so nothing is asked of EUMETView.
+    expect(coverPass(report([meteosat]))).toBeUndefined()
+    expect(coverPass(report([meteosat, iodc, goes, radar]))).toBeUndefined()
+    // With the week's only photo clouded over, the photo still leads, as in the panel.
+    expect(coverPass(report([meteosat, radar, cap('s2', 'planetary-computer', 'sentinel-2-l2a', 10, 96)]))?.id).toBe('ps2')
+    // And a daily mosaic leads when there is no photo at all.
+    expect(coverPass(report([meteosat, radar, cap('m', 'gibs', 'gibs-viirs-noaa21', 375)]))?.id).toBe('pm')
+  })
+
   it('agrees with the results panel (lib/bestLook pickBestLook) on random reports', () => {
     let seed = 7
     const rnd = () => ((seed = (seed * 16807) % 2147483647) - 1) / 2147483646
-    const collections = ['sentinel-2-l2a', 'landsat-c2-l2', 'gibs-viirs-noaa20', 'gibs-modis-terra'] as const
-    const gsd: Record<string, number> = { 'sentinel-2-l2a': 10, 'landsat-c2-l2': 30, 'gibs-viirs-noaa20': 375, 'gibs-modis-terra': 250 }
+    const collections = ['sentinel-2-l2a', 'landsat-c2-l2', 'gibs-viirs-noaa20', 'gibs-modis-terra', 'sentinel-1-rtc', 'eumetsat-meteosat-0deg', 'gibs-goes-east'] as const
+    const gsd: Record<string, number> = { 'sentinel-2-l2a': 10, 'landsat-c2-l2': 30, 'gibs-viirs-noaa20': 375, 'gibs-modis-terra': 250, 'sentinel-1-rtc': 20, 'eumetsat-meteosat-0deg': 2000, 'gibs-goes-east': 2000 }
+    const photo = (c: string) => c === 'sentinel-2-l2a' || c === 'landsat-c2-l2'
     const spots = ['clear', 'cirrus', 'unknown', 'shadow', 'cloud', undefined]
     for (let k = 0; k < 400; k++) {
       const n = 1 + Math.floor(rnd() * 8)
@@ -253,12 +271,12 @@ describe('decal and scan geometry', () => {
         const collection = collections[Math.floor(rnd() * collections.length)]
         return {
           id: `c${i}`,
-          provider: collection.startsWith('gibs') ? 'gibs' : 'planetary-computer',
+          provider: collection.startsWith('gibs') ? 'gibs' : collection.startsWith('eumetsat') ? 'eumetsat' : 'planetary-computer',
           collection,
           gsdM: gsd[collection],
-          spot: collection.startsWith('gibs') ? undefined : spots[Math.floor(rnd() * spots.length)],
+          spot: photo(collection) ? spots[Math.floor(rnd() * spots.length)] : undefined,
           cloudCoverPct: rnd() < 0.2 ? undefined : Math.round(rnd() * 100),
-          clearFraction: collection.startsWith('gibs') || rnd() < 0.4 ? undefined : Math.round(rnd() * 100) / 100,
+          clearFraction: !photo(collection) || rnd() < 0.4 ? undefined : Math.round(rnd() * 100) / 100,
           sunElevationDeg: Math.round(rnd() * 50),
           datetime: 0,
         }

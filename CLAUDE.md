@@ -16,19 +16,26 @@
 ## Quirks that trip agents up
 
 **Checks and style**
-- `npm test` covers `src/**` only. The serverless functions in `api/` and the Cloudflare Worker in `worker/` have their
-  own suite: `npm run test:backend`.
-  Run both, plus `npm run build` (it runs `tsc -b` and two Vite builds: the app and `/admin`).
+- `npm test` covers `src/**` only. The serverless functions in `api/`, the Cloudflare Worker in `worker/` and the
+  scripts' tests (`scripts/**/*.test.ts`) have their own suite: `npm run test:backend`.
+  Run both, plus `npm run build` (it runs `tsc -b`, two Vite builds: the app and `/admin`, then
+  `scripts/build-seo.ts`, which writes the place pages, sitemap and robots.txt into `dist/`).
 - There is no Prettier or ESLint config. Never run `npx prettier`: it downloads Prettier and rewrites files in its
   defaults (double quotes, 80 columns). House style: single quotes, no semicolons, ~120 columns, and a doc comment at
   the top of each module saying *why* it works the way it does. Follow `docs/DESIGN.md` for UI: tokens only, no raw
   font sizes or colours.
 
 **Production, data and permissions**
-- The site is served by the Cloudflare Worker; Vercel no longer builds (it still receives each push and cancels the
-  deployment). Every branch push gets a Cloudflare Workers Builds preview, public, at
-  `https://<branch, non-alphanumerics as ->-watched.<account subdomain>.workers.dev` (the subdomain: Cloudflare API
-  `/accounts/<id>/workers/subdomain`). A push to `main` deploys production the same way.
+- Cloudflare is the only host (Workers Builds): a push to `main` runs `npm run build` and `wrangler deploy`; a push
+  to any other branch runs `npm run build` and `wrangler versions upload`, which gives that branch a preview at
+  `https://<branch, non-alphanumerics as ->-watched.<account subdomain>.workers.dev` (the subdomain: Cloudflare API,
+  `/accounts/<id>/workers/subdomain`; a build takes about two minutes:
+  `/accounts/<id>/builds/workers/<tag>/builds`). Previews are `noindex` and write no events. Vercel no longer builds:
+  `vercel.json` is only the switch that tells it not to. Don't delete the Vercel project: it is what redirects the
+  launch address (`overflight-psi.vercel.app`) to the site. `wrangler.jsonc` names the KV namespace by id on purpose:
+  without one a build takes the binding from the Worker's LAST UPLOADED version, and a branch from before the frame
+  cache uploads one that has none, after which every build fails ("a namespace with this account ID and title already
+  exists", 2026-11-21), production's too. A build that fails that way: merge `main` into the branch.
 - Supabase project `etiebfmgepkcewkkbxwi`: use the Management API
   (`POST https://api.supabase.com/v1/projects/etiebfmgepkcewkkbxwi/database/query`; the session proxy adds the token).
   Do NOT use the Supabase MCP connector: it points at an unrelated project (`xcinlndzgpzjmvmeujor`).
@@ -72,6 +79,10 @@
   every one of its catalog requests with a full 200 (zone analytics: GraphQL `httpRequestsAdaptiveGroups`).
 - Ad-hoc queries on production: at most an hour or two of `public.events` at a time. A 12-hour scan on 2026-11-12
   stalled the API on the small machine.
+- The orbit catalog bot (`.github/workflows/catalog.yml`, `scripts/fetch-catalog.ts`) asks CelesTrak through
+  `scripts/celestrak.ts`: any answer but 200 ends the run's asking (CelesTrak's usage policy; an address that keeps
+  asking goes to its firewall, and a runner's address is shared). Only a request with no answer is asked again. The
+  retry is the next slot: every 3 hours, skipped while the catalog is under 4 hours old. Never add fast retries.
 - `VITE_*` env vars are bundled into the browser. Server secrets (`CDSE_CLIENT_ID` / `CDSE_CLIENT_SECRET`) are only
   read in `api/`. Never print env values.
 - Cloud sessions cannot delete GitHub branches, change repo settings or use GitHub GraphQL (`gh` REST only). The
@@ -79,7 +90,7 @@
 
 **Testing against the live site** (www.watched.earth)
 - Any probe must block writes so it doesn't pollute analytics: requests matching `rpc/(create_share|record_lookup|log_events)`,
-  `/api/e`, `/_vercel/insights` and `/cdn-cgi/rum` (Cloudflare Web Analytics), plus any non-GET to watched.earth or Supabase. Also add `?noanalytics=1`.
+  `/api/e` and `/cdn-cgi/rum` (Cloudflare Web Analytics), plus any non-GET to watched.earth or Supabase. Also add `?noanalytics=1`.
   Planetary Computer's STAC search must NOT be blocked, or no photos load: it is a GET (no CORS preflight, see
   `src/imagery/stac.ts searchPage`) that falls back to a POST if the archive refuses the GET form.
 - Time a search with User Timing marks: `performance.getEntriesByName('overflight:<name>')`, for `run-report`,
@@ -109,7 +120,12 @@
   asked again (`retryTimeouts: false`).
 - Globe: React Three Fiber with a manual camera (`cameraMath.ts` applies an off-axis lens shift). DOM labels follow
   scene points every frame through `runtime.anchors` and `anchorListeners`, never React state. The globe chunk is
-  lazy and must not import `src/app/*`: pass callbacks in through `GlobeCanvas` props.
+  lazy and must not import `src/app/*`: pass callbacks in through `GlobeCanvas` props. A WebGL context the browser took
+  and gave back (a phone's background tab) gets a whole new canvas (`contextLoss.ts`: the sharper maps keep no pixels
+  to re-upload, so the Earth came back black); to see it, `WEBGL_lose_context` in the console.
+- Lazy chunks of the app shell go through `src/app/chunks.ts` (asked again after a failure, and the last failure
+  reported): a results panel that cannot load ends in the fault notice, never a globe with nothing beside it. A render
+  exception anywhere shows the same notice (`AppBoundary`).
 - Place names: towns (500+ people), states, countries and ~84,000 notable features (with an English Wikipedia
   article) come first from the offline list in `public/places/<version>/` (`src/imagery/localPlaces.ts`, ≤ 15 kB a
   search, one tile a pin), generated by `npm run data:places <GeoNames dir>` (`scripts/build-places.ts`, usage at its
@@ -134,7 +150,29 @@
   two presses, because a share sheet or a download only opens inside a press. Its events (`timelapse_open`,
   `timelapse_share`) are allow-listed in 0022 and charted on the admin page by 0024 (a fifth number in the series,
   `event_hours.timelapse`, and two breakdowns).
-- Back button: layers register with `src/lib/backStack.ts`. Never call `history.pushState` directly.
+- Search engines (`src/seo/`, `scripts/build-seo.ts`, `src/lib/placePage.ts`; docs/ARCHITECTURE.md has the rules):
+  the build writes ~2,100 place pages (`/place/<slug>`: the built index.html with that place's title, canonical,
+  card and the place in a JSON script), their list (`/place`), `sitemap.xml` and `robots.txt`. Keep these true: the
+  set is closed (`src/seo/places.ts` chooses it from the offline place list; never make a page from a typed address
+  or an `n=` label, which would put other people's words in titles here); a slug never changes once given; a place
+  page IS the app opened on that place, and its static text states no count; every `?q=` and `?s=` address is
+  canonical to `/`; the text under the app stays `display: none` while the loading screen is up, so it is never the
+  page's LCP; robots.txt never closes `/api/` (link previews fetch `/api/og`, and X's and Facebook's fetchers obey
+  it). index.html's head between the `seo:head` markers is `headTags(homeMeta())`: change the generator, then the
+  copy (a test compares them). Search engines and assistants never get the app (`src/lib/reader.ts`, by user
+  agent): the text under the app is their page, because a crawler's renderer does not wait for a search (Google's
+  live test pictured the computing panel at 4.4 s, 2026-11-21). So that text is what gets indexed: keep it true of
+  the page for anyone (no counts), and when the app gains something worth finding, say it there too. Page testers
+  (Lighthouse, headless Chrome, so Playwright) still get the app; the client sends no events for either
+  (`CRAWLER_RE`). To see a page as Google does, load it with a Googlebot user agent. `src/app/head.ts` is the only
+  writer of the tab title and the canonical link once the app runs: a place's title is the static page's sentence
+  in English (`pageTitle`) and "<place> · Watched" in any other language, and English's `app.documentTitle` must
+  stay index.html's title (`HOME_TITLE`; tests hold both). The pages themselves are English only (no `hreflang`:
+  a language is a preference, not an address). One page a point: a landmark listed twice at the same coordinates
+  gets the first name's page (`NAMED_TODAY` in `src/seo/places.ts` for the exceptions).
+- Back button: layers register with `src/lib/backStack.ts`. Never call `history.pushState` directly. The address is
+  written through `addressOf` / `homePath` (`src/lib/placePage.ts`): a place page keeps its own path only while its
+  place is on screen.
 - Share has three entry points, each tagged `from` in its events: the headline's second line (the week's summary;
   nothing is stored), the photo viewer, and the pass view (plus the laptop lead photo's icon). The sheet and the
   photo viewer are portals on `<body>`: the app root is `position: fixed`, so nothing inside it can paint over them.
@@ -142,12 +180,24 @@
   and calls `preventDefault()`.
 - iOS: tapping a non-input element blurs the focused field before `click` fires. Choose touch taps on `pointerup`
   (see `SearchBox.tsx`).
-- Vercel functions use the fetch-style handler (`export default { fetch }`) and are registered in `vercel.json`
-  (`maxDuration`). Vercel passes the query string percent-encoded in `req.url`.
-- The site runs on a Cloudflare Worker (`worker/`, `wrangler.jsonc`) with the same handlers as the Vercel functions. Its routes
-  (`worker/router.ts`) and static headers (`public/_headers`) mirror `vercel.json`, and tests keep them equal: change
-  both. Workers run only WebAssembly bundled at deploy time, so the card renderer takes its fonts and WebAssembly
-  from `api/_lib/bundled.ts` there. After `npm run build`, `npm run dev:worker` runs it locally.
+- The site is one Cloudflare Worker (`worker/`, `wrangler.jsonc`): `worker/router.ts` holds the routes and
+  `public/_headers` the static files' headers (a response the Worker builds itself never gets that file's headers:
+  the router adds them). The handlers in `api/` take a `Request` and return a `Response`; the Worker imports each by
+  name (`handleOg`, `handleSharePage`, …). The edge cache (`router.ts cached`) keeps a card and a pan crop under what
+  their handler reads, not the address as it came (`cardCacheQuery` in `api/_lib/share.ts`, `panCacheQuery`): a
+  parameter a card starts to read must be added there, or two cards share an entry (a test holds this). `/api/pan`
+  remembers a refusal from CDSE (403: the month's quota is spent, as from 2026-11-20; 429) for 15 minutes and asks
+  nothing meanwhile. Workers run only WebAssembly bundled at deploy time, so the card renderer
+  takes its fonts and WebAssembly from `api/_lib/bundled.ts` there, and reads them from disk under Node (tests,
+  scripts). After `npm run build`, `npm run dev:worker` runs it locally.
+- Admin map (`src/admin/WorldMap.tsx`, geometry in `placeMap.ts`): the searched 0.1° cells on a ground map. The
+  ground (`land.gen.ts`: land, large lakes, borders) is generated by `scripts/build-admin-land.py` from Natural Earth
+  (usage at its top; never edit it by hand, and only the admin bundle may import it). Keep these true: a circle's area
+  is its searches; signal is only on the circles, and the long tail is grey dust whose count the key states; names
+  come from the page's top places looked up in the offline list, never from the town nearest a cell (Central Park's
+  cell is nearest North Bergen); the line under the map says what share of all searches the kept cells are. To look at
+  it with real numbers, serve the stored stats in place of the fixture (`page.route` on `src/admin/fixture.ts`): the
+  fixture is shaped like them but far smaller.
 - Honest labelling is a product rule: a label (resolution, "watched", counts) must say exactly what is on screen.
 - Sentinel-1 radar images (`sentinel-1-rtc`) are real images but not photos: `isDetailed` is false for them, they
   never lead or get a cloud check, and their crops are toned by `radarTone.ts` (route new radar URLs through
@@ -169,8 +219,11 @@
   fetches each frame ONCE (four 2048 px JPEG pieces a layer), keeps it about an hour as raw 512 px tiles in Workers KV
   (`GEO_FRAMES`) and cuts every small picture (up to 176 px) itself; the app reads `/api/geo-frames` and `/api/geo`.
   Keep all of these true: nothing a visitor does may add a request to EUMETView except opening a frame (its 1024 px
-  card, still direct, to `/geoserver/wms`); the app NEVER falls back to EUMETView when the cache does not answer (a
-  broken cache would send everyone there at once), and a Meteosat picture is asked for once, never retried; the fill
+  card, still direct, to `/geoserver/wms`): the globe never fetches a Meteosat frame ahead (`acquisition.ts coverPass`
+  leads with a Sentinel-2 / Landsat photo or a daily mosaic, as the panel does; "not from GIBS" let Meteosat through),
+  and `/api/og` asks EUMETView only for a STORED share's frame, a card drawn from its address saying "Image opens in
+  the app"; the app NEVER falls back to EUMETView when the cache does not answer (a
+  broken cache would send everyone there at once), and a Meteosat picture is asked for once, never retried (the panel's loader, the globe's `textures.ts askedOnce`, and the card, for which no picture is final); the fill
   stays under one request a minute per layer (a new layer or a finer grid multiplies it: do the sum first). Pieces
   are JPEG because EUMETView's download speed is the limit (50–165 kB/s; the same piece as PNG is 7 MB). JPEG work
   in the Worker is MozJPEG in WebAssembly (`worker/jpegCodec.ts`): jpeg-js needs ~116 MB to decode a piece, against
@@ -178,7 +231,7 @@
   it is stored and the fill keeps its own state key. The Worker stores no logs (Workers Logs would bill every
   request): what the fill's last 40 working runs saw is in that state, KV key `fill`, field `log` (read it with the
   Cloudflare API: `…/storage/kv/namespaces/<id>/values/fill`). EUMETView publishes a frame 21–29 minutes after it
-  is taken, and its cached list can lag minutes more (seen in the log on 2026-11-17), so every second read asks its tile service. Vercel and `npm run dev` have no cache: the Meteosat rows say
+  is taken, and its cached list can lag minutes more (seen in the log on 2026-11-17), so every second read asks its tile service. `npm run dev` has no cache: the Meteosat rows say
   "No image just now" there; `npx wrangler dev --test-scheduled` has one (start a fill with `/__scheduled`, see
   docs/SELF-HOSTING.md). Cloud containers cannot reach EUMETView from `wrangler dev` (workerd ignores the proxy): set
   `GEO_UPSTREAM` to a local stand-in that serves downloaded pieces.

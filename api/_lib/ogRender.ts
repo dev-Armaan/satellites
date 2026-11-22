@@ -2,12 +2,12 @@
  * Draw a card as a PNG: satori lays the element out and turns its text into outlines (HarfBuzz shapes it), and
  * resvg rasterises that SVG at the card's width.
  *
- * Why not @vercel/og's `ImageResponse`, which did this before: it only runs on Node (its bundled HarfBuzz looks
- * for hb.wasm through `fs` and `__dirname`), and it switches to sharp whenever sharp is installed, so the pixels
- * depended on the host. A Cloudflare Worker may only run WebAssembly it bundled at deploy time, so the WebAssembly
- * comes from `bundled()` when the host registered it (the Worker) and from `node_modules` otherwise, and resvg
- * draws every card: Vercel and Cloudflare produce the same bytes. satori and resvg are pinned to the versions
- * @vercel/og 1.0.3 shipped, so the layout of every card stays as it was.
+ * Why not the `ImageResponse` of @vercel/og, which did this before: it only runs on Node (its bundled HarfBuzz
+ * looks for hb.wasm through `fs` and `__dirname`), and it switches to sharp whenever sharp is installed, so the
+ * pixels depended on the machine. A Cloudflare Worker may only run WebAssembly it bundled at deploy time, so the
+ * WebAssembly comes from `bundled()` when the Worker registered it and from `node_modules` otherwise (tests,
+ * scripts), and resvg draws every card: the Worker and a local run produce the same bytes. satori and resvg are
+ * pinned to the versions that package shipped at 1.0.3, so the layout of every card stays as it was.
  */
 import type { ReactElement } from 'react'
 import satori, { init as initSatori } from 'satori/standalone'
@@ -17,8 +17,8 @@ import { loadFallbackAsset, mergeShared } from './fallbackFonts.js'
 import type { SatoriFont } from './fonts.js'
 
 /**
- * The host's registered copy (a Worker, compiled), else a .wasm file from node_modules, else the copy vercel.json
- * ships (`includeFiles`) where the function runs.
+ * The Worker's registered copy (compiled at deploy time), else the .wasm file from node_modules: resolved from this
+ * module, or from the working directory when a test runner has moved the compiled module.
  */
 async function wasm(key: string, specifier: string): Promise<WebAssembly.Module | Uint8Array | ArrayBuffer> {
   const registered = bundled(key)

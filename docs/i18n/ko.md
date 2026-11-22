@@ -532,6 +532,7 @@ numbers with `fmt('ko')`. "(same)" means the English stays as it is.
 | hero | §3.1 |
 | sub | §3.2 |
 | builtBy | 만든 사람 [HANDLE] |
+| sourceLink / sourceLinkLabel | 오픈 소스 / 오픈 소스: GitHub의 코드 |
 | searchPlaceholder | 장소 검색 |
 | placeLabel | 장소 |
 | searching / searchUnavailable | 검색 중 / 검색 불가 |

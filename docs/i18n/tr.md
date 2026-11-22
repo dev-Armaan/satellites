@@ -474,6 +474,7 @@ Source of truth: `src/i18n/<tr>/verdicts.ts` (read through `VERDICT_META`); the 
 | `lastDays` | *Son 7 gün* (one day: *Son 24 saat*) |
 | `windowRange` | *12 → 19 Kas 2026 UTC · 29 Eki → 5 Kas 2026 UTC · 29 Ara 2026 → 5 Oca 2027 UTC* (`formatRangeToParts` at `UTC`, joined with ` → `) |
 | `builtBy` | *Yapan: @armaangupt0* |
+| `sourceLink` / `sourceLinkLabel` | *Açık kaynak* / *Açık kaynak: kodu GitHub’da* |
 | `searchPlaceholder` / `placeLabel` | *Bir yer ara* / *Yer* (rule: *01 / Yer*) |
 | `searching` / `searchUnavailable` / `matches` / `noMatch` | *Aranıyor* / *Arama kullanılamıyor* / *[N] sonuç* / *Sonuç yok* |
 | `searchHint` | *Ad, adres ya da 41.01, 28.98* (the field parses a decimal point only: show the form it accepts) |

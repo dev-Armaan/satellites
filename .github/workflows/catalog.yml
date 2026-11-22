@@ -2,8 +2,11 @@ name: Refresh orbit catalog
 
 on:
   schedule:
-    # every 6 hours, offset from the top of the hour (CelesTrak asks for ≥2h between downloads)
-    - cron: '17 */6 * * *'
+    # Every 3 hours, offset from the top of the hour. A scheduled run leaves a catalog fetched less than 4 hours ago
+    # (--if-older-than: it asks CelesTrak nothing), so the catalog is refreshed about every 6 hours, never twice within
+    # CelesTrak's 2, and a failed run is followed 3 hours later instead of at the next refresh. GitHub drops
+    # scheduled runs (in November 2026 it ran two of the four a day), which a slot every 3 hours absorbs.
+    - cron: '17 */3 * * *'
   workflow_dispatch:
 
 permissions:
@@ -25,7 +28,8 @@ jobs:
         with:
           node-version: 22
       - name: Fetch CelesTrak GP catalog
-        run: npx --yes tsx@4.23.15 scripts/fetch-catalog.ts public/data/catalog.json
+        # A run started by hand always asks.
+        run: npx --yes tsx@4.23.15 scripts/fetch-catalog.ts public/data/catalog.json ${{ github.event_name == 'schedule' && '--if-older-than 4' || '' }}
       - name: Commit catalog
         run: |
           git config user.name "overflight-bot"

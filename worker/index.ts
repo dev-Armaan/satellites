@@ -1,5 +1,5 @@
 /**
- * Cloudflare Worker entry: the whole site, as Vercel serves it from vercel.json and api/.
+ * Cloudflare Worker entry: the whole site.
  *
  * The handlers in api/ already take a Request and return a Response, so the Worker routes to them (router.ts) and
  * hands them the files Node would read from disk: the card fonts, the default plate and the WebAssembly the
@@ -7,7 +7,7 @@
  * compiled), and registered before the first request (api/_lib/bundled.ts). Static files come from `dist/`
  * through the ASSETS binding (wrangler.jsonc).
  *
- * The Worker also keeps the Meteosat frame cache, which Vercel cannot (it has no store and no timer): `scheduled`
+ * The Worker also keeps the Meteosat frame cache: `scheduled`
  * runs the fill once a minute (api/_lib/geoFill.ts), into the GEO_FRAMES KV namespace, and /api/geo and
  * /api/geo-frames read it. Without that binding (a fork that has not deployed yet) the two answer 503 and the fill
  * does nothing.
@@ -41,6 +41,8 @@ import { handleEvents } from '../api/e.ts'
 import { handleGeoFrames } from '../api/geo-frames.ts'
 import { handleGeo } from '../api/geo.ts'
 import { handleOg } from '../api/og.tsx'
+import { panCacheQuery } from '../api/_lib/pan.js'
+import { cardCacheQuery } from '../api/_lib/share.js'
 import { handlePan } from '../api/pan.ts'
 import { handleSharePage } from '../api/s.ts'
 import { jpegCodec } from './jpegCodec.ts'
@@ -120,11 +122,13 @@ export default {
       og: handleOg,
       share: handleSharePage,
       events: handleEvents,
-      pan: handlePan,
+      pan: (r) => handlePan(r, { cache: edgeCache, waitUntil }),
       geo: (r) => handleGeo(r, geo),
       geoFrames: (r) => handleGeoFrames(r, geo),
       cache: edgeCache,
       waitUntil,
+      cardKey: cardCacheQuery,
+      panKey: (q) => panCacheQuery(q, Date.now()),
     })
   },
 

@@ -14,8 +14,8 @@ acknowledgement through the advisory thread, and credit in the fix if you'd like
 
 ## Scope
 
-In scope: this repository's code, including the Vercel functions in `api/`, the Supabase migrations and RPCs in
-`supabase/`, the GitHub Actions workflow, and the web app.
+In scope: this repository's code, including the handlers in `api/` and the Cloudflare Worker in `worker/`, the
+Supabase migrations and RPCs in `supabase/`, the GitHub Actions workflow, and the web app.
 
 Out of scope: third-party services the app reads from (CelesTrak, Planetary Computer, Earth Search, NASA GIBS,
 EUMETSAT's map service, Photon), and denial of service by sheer request volume.

@@ -4,8 +4,8 @@
 images they took. A 3D globe shows the real sun, the real catalog (~17k objects), and each pass replayed.
 
 Stack: Vite 8 + React 19 + TypeScript 7 (`tsc -b`) + three.js 0.187 via @react-three/fiber 9 / drei 10 /
-postprocessing. State: zustand (`src/state/store.ts`). Orbits: satellite.js 7 (SGP4). Hosting: Vercel
-(static + `api/` functions). DB: Supabase (RPC-only access, publishable key).
+postprocessing. State: zustand (`src/state/store.ts`). Orbits: satellite.js 7 (SGP4). Hosting: a Cloudflare
+Worker (static files + the `api/` handlers). DB: Supabase (RPC-only access, publishable key).
 
 Read first: `docs/DESIGN.md` (non-negotiable art direction), `src/types.ts` (shared contracts),
 `src/lib/geo.ts` (frame conventions), `src/state/store.ts` (app state), `src/ui/system/*` (primitives).
@@ -23,7 +23,7 @@ Read first: `docs/DESIGN.md` (non-negotiable art direction), `src/types.ts` (sha
 | Fallback S2 search | `GET https://earth-search.aws.element84.com/v1/search?…` (same transport), collection `sentinel-2-c1-l2a` | assets `visual` = 8-bit RGB COG (range requests OK) |
 | Weather imagery | NASA GIBS WMS `https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?SERVICE=WMS&REQUEST=GetMap&VERSION=1.3.0&LAYERS={layer}&STYLES=&FORMAT=image/jpeg&CRS=EPSG:4326&BBOX={minLat},{minLon},{maxLat},{maxLon}&WIDTH=&HEIGHT=&TIME={YYYY-MM-DD or ISO}` | layers: `VIIRS_NOAA20_CorrectedReflectance_TrueColor`, `VIIRS_NOAA21_…`, `VIIRS_SNPP_…`, `MODIS_Terra_…`, `MODIS_Aqua_…` (daily); `GOES-East_ABI_GeoColor`, `GOES-West_ABI_GeoColor` (10 min), `Himawari_AHI_Band3_Red_Visible_1km`, and at night `Himawari_AHI_Band13_Clean_Infrared` (its colour-coded cold tops redrawn in grey, `src/imagery/infrared.ts`). **Note the BBOX axis order for EPSG:4326 in WMS 1.3.0 is lat,lon** |
 | Weather checks | NASA GIBS pre-cut tiles `https://gibs.earthdata.nasa.gov/wmts/epsg3857/best/{layer}/default/{YYYY-MM-DD}/GoogleMapsCompatible_Level9/{z}/{row}/{col}.jpg` (`src/imagery/gibsTiles.ts`) | "Does this daily mosaic have pixels at the place?", asked ~35 times a search: the one 256 px web-mercator tile that holds the place (zoom 4–6: a pixel of 1.25–2.5 km), read only in the window within 30 km of it. ~16 kB and ~0.3 s each; a day with no image is a 404, a tile empty at the place is black. Never a WMS render: GIBS renders those on demand and could not keep up with them (2026-11-12, 250 searches a minute: WMS answers went from 0.5 s to 5–45 s and a search's weather photos from 32 to 4). WMS is for the pictures that are shown, and for the probe past 85° of latitude, where the tile grid ends |
-| Meteosat frames | Small pictures (≤ 176 px) and the frame list: the site's own cache, `/api/geo?layer={layer}&time={ISO}&lat=&lon=&px=` and `/api/geo-frames` (`api/geo.ts`, `api/geo-frames.ts`). The Cloudflare Worker fetches each frame once from EUMETSAT, on a timer, as four 2048 px pieces (`api/_lib/geoFill.ts`: under one request a minute per layer, whatever the traffic; EUMETSAT asked for this on 2026-11-17) and keeps it an hour as raw tiles in Workers KV. Larger pictures (an opened frame's 1024 px card, the share card): EUMETSAT EUMETView WMS `https://view.eumetsat.int/geoserver/wms?service=WMS&version=1.3.0&request=GetMap&layers={layer}&styles=&format=image/jpeg&crs=EPSG:4326&bbox={minLat},{minLon},{maxLat},{maxLon}&width=&height=&bgcolor=0x000000&time={ISO}` | layers: `mtg_fd:rgb_geocolour` (Meteosat-12, 10 min), `msg_iodc:rgb_naturalenhncd` and `msg_iodc:ir108` (Meteosat-9, 15 min). Only listed frame times are asked for; no data is black from both; the app never turns to EUMETView when the cache does not answer (`src/imagery/eumetsat.ts`) |
+| Meteosat frames | Small pictures (≤ 176 px) and the frame list: the site's own cache, `/api/geo?layer={layer}&time={ISO}&lat=&lon=&px=` and `/api/geo-frames` (`api/geo.ts`, `api/geo-frames.ts`). The Cloudflare Worker fetches each frame once from EUMETSAT, on a timer, as four 2048 px pieces (`api/_lib/geoFill.ts`: under one request a minute per layer, whatever the traffic; EUMETSAT asked for this on 2026-11-17) and keeps it an hour as raw tiles in Workers KV. Larger pictures (an opened frame's 1024 px card, in the panel and on the globe, asked once; a STORED share's card, asked once per cache entry, `api/og.tsx`; a card drawn from its address alone never asks): EUMETSAT EUMETView WMS `https://view.eumetsat.int/geoserver/wms?service=WMS&version=1.3.0&request=GetMap&layers={layer}&styles=&format=image/jpeg&crs=EPSG:4326&bbox={minLat},{minLon},{maxLat},{maxLon}&width=&height=&bgcolor=0x000000&time={ISO}` | layers: `mtg_fd:rgb_geocolour` (Meteosat-12, 10 min), `msg_iodc:rgb_naturalenhncd` and `msg_iodc:ir108` (Meteosat-9, 15 min). Only listed frame times are asked for; no data is black from both; the app never turns to EUMETView when the cache does not answer (`src/imagery/eumetsat.ts`) |
 | Places, offline | ~316,000 places: towns of 500+, states, countries and notable features. `/places/<version>/s/<prefix>.txt` (search: names starting with those letters, ≤ 800 a file), `/l.txt` (landmarks, `scripts/landmarks.ts` plus the landing's places) and `/t/<tile>.txt` (towns in a 5° tile, or its quarters, for pins); a search goes to the network only with < 3 matches and none exact (~2% of searches), built from GeoNames by `scripts/build-places.ts`, cached as immutable | lines `name\|lat\|lon\|cc\|admin1\|p\|kind\|ascii` (`src/imagery/localPlaces.ts`) |
 | Geocoding | `https://photon.komoot.io/api/?q=…&limit=6` and `/reverse?lat=&lon=`; reverse only, when Photon has not answered in 1.2 s: `https://nominatim.openstreetmap.org/reverse?…&format=geocodejson&zoom=10` (≤ 1 request/s); search goes to Open-Meteo first, Photon when Open-Meteo is slow (1.2 s) or empty: `https://geocoding-api.open-meteo.com/v1/search?name=…` (GeoNames; only results whose name matches; free up to ~10,000 requests a day) | GeoJSON; properties `name, city, state, country, countrycode, osm_value` (Nominatim's under `properties.geocoding`) |
 | Time zone | `@photostructure/tz-lookup` (installed) | `tzlookup(lat, lon)` → IANA tz |
@@ -37,7 +37,7 @@ Read first: `docs/DESIGN.md` (non-negotiable art direction), `src/types.ts` (sha
 | **globe** | `src/globe/**`, `src/sandbox/globe.tsx` | `<GlobeCanvas/>` and the whole 3D scene |
 | **ui-shell** | `src/ui/hud/**`, `src/ui/landing/**`, `src/ui/pages/**`, `src/ui/system/**` (may ADD components), `src/sandbox/shell.tsx` | bezel, corner readouts, hero, search field, about page (the loading screen is index.html + `src/app/bootCurtain.ts`) |
 | **ui-results** | `src/ui/results/**`, `src/ui/share/**`, `src/sandbox/results.tsx` | progress readout, results panel, timeline, pass list and detail, pushbroom reveal, share |
-| **backend** | `api/**`, `worker/**`, `supabase/**`, `vercel.json`, `wrangler.jsonc`, `public/_headers`, `src/lib/backend.ts` | DB schema and RPCs, OG share images, share pages, stats, the Cloudflare Worker |
+| **backend** | `api/**`, `worker/**`, `supabase/**`, `wrangler.jsonc`, `public/_headers`, `src/lib/backend.ts` | DB schema and RPCs, OG share images, share pages, stats, the Cloudflare Worker |
 | integrator | `src/app/**`, `src/main.tsx`, `src/types.ts`, `src/state/**`, `src/lib/geo.ts`, `package.json`, `docs/**` | composition |
 
 Rules for parallel work:
@@ -119,7 +119,7 @@ card plate on the place's grid is sharpened the same, being the same pixels at t
 lon/lat plate is not). It is measured over the share card's square around the rounded place (which the server's card
 crop IS: on the grid, the same native pixels as that square of the app's photo before JPEG encoding; the two JPEGs
 differ by ~4/255 on average), on the first crop near native resolution measured WITH its mask, and
-reused by the capture's other sizes, so the photo, the lightbox's sharper layer (`lib/photos hiResUrl`: the photo's very box on the place's grid at 2000 px, Sentinel-2 2×, Landsat 4×, Lanczos on the grid; asked for once per photo, only where the photo is shown larger than 1000 device px — `devicePixelRatio` × side > 1100, e.g. a 3× phone or a Retina laptop — or zoomed past 1.3×, never by the gallery or the hero; it takes the curve the photo was shown with, `pixels.ts` magnified view, and crossfades in over it in register); for Landsat 8 / 9 it is instead the photo itself pan-sharpened with the capture's 15 m band: `imagery/panUrl.ts` names it `pansharp:<t>|<card>|<30 m fallback>`, the pixels worker (`fetchPanSharpHere`) tones the card's crop with its shown curve and applies `panSharpen.ts` (SFIM in linear light: colour × pan / pan at 30 m, gain clamped 0.6–1.7) with B08 from `GET /api/pan` (CDSE Sentinel Hub `landsat-ot-l1`, the card's box on its grid at 1000 px = 15 m, the capture's hour; only app-shaped crops accepted; a success is edge-cached for a year, so the free 10 000-request quota is spent once per crop); any failure loads the 30 m layer instead, and the lightbox labels say 15 m only while the pan layer shows, the DOM
+reused by the capture's other sizes, so the photo, the lightbox's sharper layer (`lib/photos hiResUrl`: the photo's very box on the place's grid at 2000 px, Sentinel-2 2×, Landsat 4×, Lanczos on the grid; asked for once per photo, only where the photo is shown larger than 1000 device px — `devicePixelRatio` × side > 1100, e.g. a 3× phone or a Retina laptop — or zoomed past 1.3×, never by the gallery or the hero; it takes the curve the photo was shown with, `pixels.ts` magnified view, and crossfades in over it in register); for Landsat 8 / 9 it is instead the photo itself pan-sharpened with the capture's 15 m band: `imagery/panUrl.ts` names it `pansharp:<t>|<card>|<30 m fallback>`, the pixels worker (`fetchPanSharpHere`) tones the card's crop with its shown curve and applies `panSharpen.ts` (SFIM in linear light: colour × pan / pan at 30 m, gain clamped 0.6–1.7) with B08 from `GET /api/pan` (CDSE Sentinel Hub `landsat-ot-l1`, the card's box on its grid at 1000 px = 15 m, the capture's hour; only app-shaped crops accepted, in the one spelling `panQuery` writes, which is also the crop's cache key; a success is edge-cached for a year, so the free 10 000-request quota is spent once per crop; after CDSE refuses, 403 or 429, nothing is asked for 15 minutes); any failure loads the 30 m layer instead, and the lightbox labels say 15 m only while the pan layer shows, the DOM
 share card, the downloaded PNG and the server's OG card (`api/_lib/imagery.ts fetchCropPicture`, the same module; a plate
 toned without its mask is cached briefly, not as final) agree. Thumbnails and globe decals never ask for a mask of their
 own (every crop of a capture at a place names the same lon/lat mask URL). The worker runs the
@@ -207,16 +207,75 @@ a swapped view is placed at once.
 - `supabase/migrations/*.sql`: tables `lookups`, `shares`; RLS on, no direct anon table access; `security definer` RPCs `record_lookup`, `create_share`, `get_share`, `get_stats`. `create_share` keeps a capture only from its collection allow-list (latest: 0012, which adds `sentinel-1-rtc`; a radar share's card is the same 12.6 km crop at 20 m, toned on the server with `api/_lib/radar.ts`, the app's tone).
 - `src/lib/backend.ts`: browser client wrappers (`recordLookup`, `createShare`, `getShare`, `getStats`) using `VITE_SUPABASE_URL` and `VITE_SUPABASE_PUBLISHABLE_KEY`. These must **no-op gracefully** when env vars are missing.
 - `api/og.tsx`: 1200×630 share card (satori lays it out, resvg rasterises it: `api/_lib/ogRender.ts`) in the Instrument style. Runtime cards are returned as `image/jpeg`
-  (under 250 KB; PNG decoded with `fast-png`, encoded with `jpeg-js`, both pure JS so `vercel.json` `includeFiles` is
-  unchanged). `public/og-default.png` stays PNG. `api/s.ts`: share page HTML with OG tags that boots the app at `/?s=<id>`. `vercel.json`: rewrites `/s/:id` and caching headers.
-- `worker/`: the same site as a Cloudflare Worker. `router.ts` is `vercel.json`'s routes as code, `public/_headers`
-  its static headers (tests keep both equal), and `index.ts` registers the fonts and WebAssembly the card renderer
+  (under 250 KB; PNG decoded with `fast-png`, encoded with `jpeg-js`, both pure JS). `public/og-default.png` stays PNG.
+  `api/s.ts`: share page HTML with OG tags that boots the app at `/?s=<id>`.
+- `worker/`: the Cloudflare Worker that serves the site. `router.ts` holds the routes (it rewrites `/s/:id`),
+  `public/_headers` the static files' headers, and `index.ts` registers the fonts and WebAssembly the card renderer
   needs (`api/_lib/bundled.ts`). Cards, share pages and pan crops are kept in Cloudflare's cache when they say
   `s-maxage`.
 - **Share fallback deep link** (used when a share row can't be created): `/?q=<lat>,<lon>&n=<label>&p=<passId>`, plus
   optional pass facts `sat`, `norad`, `verdict`, `t` (ms), `alt` (km), `off` (°), `hdg` (°), `collection`, `item`,
   `cloud` (%), `gsd` (m), `spot`. Coordinates are always rounded to 0.01°. `api/s.ts` unfurls it as the pass card.
   `controller.readUrlTarget` re-centres the 7-day window on `t` when `t` is more than 6 days old.
+
+### Search engines (`src/seo/`, `scripts/build-seo.ts`, `src/lib/placePage.ts`)
+
+The app is one page that computes everything in the browser, so on its own it gives a search engine one title for
+every place. `npm run build` therefore ends with `scripts/build-seo.ts`, which writes into `dist/`:
+
+- `place/<slug>.html`, served at `/place/<slug>`: one page for each of about 2,100 well-known places. It is the built
+  `index.html` with that place's title, description, canonical link, link-preview card and schema.org `Place` in the
+  head, the place itself in a JSON script, and plain text under the app. The app opens it straight on that place
+  (`src/app/links.ts`), and the address stays the page's own while that place is on screen.
+- `place.html`, served at `/place`: the list of those pages. A document of its own, with no app.
+- `sitemap.xml` and `robots.txt`.
+- `index.html` again, with the landing's own text under the app.
+
+The rules behind it:
+
+- **The set of pages is closed.** `src/seo/places.ts` chooses it from the offline place list: every curated landmark,
+  every city of about half a million people, cities down to about 100,000 in countries where an English page is what
+  a search shows, and each country's two largest towns. No page is ever made from a typed address or an `n=` label,
+  which would put other people's words in titles on this site.
+- **One page a point.** Where the list names one point twice ("Golden Gate Bridge" and the landing's "Golden Gate"),
+  the page is the first name's, the one people type (`NAMED_TODAY` holds the exceptions: Uluru, not Ayers Rock). Two
+  pages would show the same passes and pictures under two titles, and a search engine keeps one of its choosing.
+- **A slug never changes once given.** The largest place of a name keeps the bare slug (`london`); a namesake says
+  where it is (`london-ontario`, `valencia-spain`). Loosening a threshold adds pages and renames none.
+- **A place page is the app, not a door to it.** Its text says what the visitor is about to see and states no
+  count: the week's numbers exist only once the browser has computed them.
+- **One address a place.** `index.html` is canonical to `/`, so every `?q=` and `?s=` link points search engines at
+  the landing. A place page is canonical to itself, and `src/app/head.ts` keeps the title and the canonical link true
+  as the visitor moves on inside the app; it is their only writer once the app runs. In English the title is one
+  function (`pageTitle`) for the static page and the app, so a search engine that runs the app reads the sentence
+  the file carries.
+- **The pages are English; the app on them speaks the visitor's language.** The static head and text are English
+  (a crawler runs the app in English too). For a visitor in another language the app names the place and the brand
+  in the tab ("Pyramides de Gizeh · Watched": the English sentence is not translated), the landing's title is that
+  language's `app.documentTitle`, and a curated place keeps its page's address and canonical link under its
+  translated name (`isPagePlace` compares the English one, `canonicalLabel`). There are no per-language addresses
+  and so no `hreflang`: a language is a preference (`?hl=`, the switcher), not a page.
+- **Every view has one `<h1>`**: the landing's hero, the results headline, an open pass's satellite. A crawler that
+  runs the app on a place page reads "In the last 7 days, N satellites watched <place>." as its heading.
+- **The text under the app is the page for anyone who gets no app**: a browser with scripts off, and a search
+  engine or assistant, which is never given the app at all (`src/lib/reader.ts`, by user agent). A crawler's renderer
+  does not wait for a search to finish: Google's took its picture of `/place/paris` at 4.4 s, on the computing panel
+  (URL Inspection's live test, 2026-11-21), which has no heading, no sentence about the place and no link. The text
+  has all three, states no count, and says the page computes the week in the browser, so it is true whoever reads
+  it. For a visitor, React replaces it under the loading screen; `index.html` keeps it `display: none` until then,
+  so it is never the page's first content in the speed numbers. Page testers (Lighthouse, headless Chrome) get the
+  app: they are there to measure it.
+- **Previews are never indexed.** `/place` and `/place/*` go through the Worker (`worker/router.ts`), which marks
+  every host outside `PRODUCTION_HOSTS` noindex; a place with no page answers 404 with the app.
+- **`robots.txt` closes nothing.** Link previews fetch their cards from `/api/og`, and X's and Facebook's fetchers
+  obey it.
+- **A crawler is not a visitor.** The client sends no usage events when the browser names itself as a crawler or a
+  page tester (`CRAWLER_RE` in `src/lib/telemetry.ts`). A page tester's run is still a real search against the
+  archives; a search engine's no longer is, since it never starts the app.
+
+`index.html` carries the landing's head between `<!-- seo:head -->` markers; it is `headTags(homeMeta())` from
+`src/seo/pages.ts`, and a test keeps the two equal. Every deploy rewrites every place page, because each carries
+the build's version: about 40 MB of small files for Cloudflare to take.
 
 ## App flow (integrator)
 `boot` (the wordmark; textures, fonts; the catalog loads in parallel) → `idle` (hero + search over the spinning globe) → `locating` → `computing`

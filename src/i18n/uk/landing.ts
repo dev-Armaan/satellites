@@ -46,6 +46,8 @@ const landing: typeof en = {
     `Введи будь-яке місце на Землі. Побачиш усі супутники, що пролітали над ним за ${lastWord(n)} ${days(n)}, і\u00a0справжні знімки, які вони зробили.`,
   ],
   builtBy: (handle: string) => `Автор\u00a0— ${handle}`,
+  sourceLink: 'Відкритий код',
+  sourceLinkLabel: 'Відкритий код: проєкт на GitHub',
 
   // ── The place search ──────────────────────────────────────────────────────────────────────
   searchPlaceholder: 'Пошук місця',

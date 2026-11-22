@@ -1123,6 +1123,7 @@ programme in a blurb (§8).
 | The place search isn't answering. Coordinates such as 43.47, −80.54 still work. | 地点搜索没有响应。坐标仍然可用，例如 43.47, −80.54。 |
 | Surprise me · Drop a pin · Cancel | 随机一处 · 放置标记 · 取消 |
 | Built by @armaangupt0 | 由 @armaangupt0 制作 |
+| Open source / Open source: the code on GitHub | 开源 / 开源：GitHub 上的源代码 |
 | How this works | 工作原理 |
 | Slow connection, still loading | 网络较慢，仍在加载 |
 | 3D view unavailable · WebGL 2 is off in this browser | 3D 视图不可用 · 此浏览器未开启 WebGL 2 |

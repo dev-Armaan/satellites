@@ -1,5 +1,5 @@
 /**
- * Render share cards locally, without `vercel dev`: import the /api/og handler, call it with
+ * Render share cards locally, without a server: import the /api/og handler, call it with
  * Request objects and write the cards, each named by its response's content-type (R3-15: /api/og
  * answers JPEG since R2SH4, so the files are og-*.jpg; anything else keeps its own extension).
  *

@@ -7,9 +7,11 @@
  *  - no WebGL 2 → a static hairline globe figure with a plain note; globeReady is set.
  *  - a render-time error inside the scene → the same fallback (error boundary); globeReady is set.
  *  - textures fail → an ink graticule sphere (see Earth.tsx); catalog fails → the scene runs without points.
+ *  - the browser takes the GPU context away and gives it back (a phone's background tab) → the stage is mounted
+ *    again on a new canvas (contextLoss.ts): the restored context's textures would be empty.
  */
 import { Canvas } from '@react-three/fiber'
-import { Component, lazy, Suspense, useEffect, useState, type CSSProperties, type ReactNode } from 'react'
+import { Component, lazy, Suspense, useEffect, useRef, useState, type CSSProperties, type ReactNode } from 'react'
 import { Color, WebGLRenderer } from 'three'
 import enGlobe from '@/i18n/en/globe'
 import { useMsgs } from '@/i18n/runtime'
@@ -18,6 +20,7 @@ import type { Place } from '@/types'
 import { useApp } from '@/state/store'
 import { useMediaQuery } from '@/ui/system/media'
 import { palette } from '@/ui/system/palette'
+import { onContextRestored } from './contextLoss'
 import { activeGlSwitches, GL_DEBUG, GL_SWITCHES, glFixedDpr, glProbe, urlWithSwitches } from './debugGl'
 import { GlobeOverlay } from './GlobeOverlay'
 import { PinOverlay } from './PinOverlay'
@@ -71,16 +74,9 @@ function webgl2Available(): boolean {
 export function GlobeCanvas({ className, onPinSearch }: { className?: string; onPinSearch?: (place: Place) => void }) {
   const [supported] = useState(webgl2Available)
   const [failed, setFailed] = useState(false)
+  // Counts the contexts the browser has given back: each one mounts the stage afresh (contextLoss.ts).
+  const [restores, setRestores] = useState(0)
   const unavailable = !supported || failed
-  // Per-canvas runtime, shared by the scene (inside the R3F tree) and the DOM overlay (outside it). The tier is
-  // refined from the GL context's capabilities when the scene mounts.
-  const [runtime] = useState(() => {
-    const rt = createRuntime(provisionalTier(detectMobile()), prefersReducedMotion(), Date.now())
-    // One stable [d, d] tuple for the Canvas' dpr prop (see runtime.dprProp): AdaptiveDpr updates it in place.
-    const d = initialDpr(rt.tier.mobile)
-    rt.dprProp = [d, d]
-    return rt
-  })
 
   useEffect(() => {
     // No WebGL: no globe is coming, and no sharp day map either (INT-01 / PH-13: deep and share links held the logo
@@ -90,6 +86,40 @@ export function GlobeCanvas({ className, onPinSearch }: { className?: string; on
       useApp.getState().setDayMapSharp(true)
     }
   }, [unavailable])
+
+  return (
+    <div className={cx(s.root, className)}>
+      {unavailable ? (
+        <GlobeFallback />
+      ) : (
+        <SceneBoundary onError={() => setFailed(true)}>
+          <GlobeStage key={restores} onPinSearch={onPinSearch} onRestored={() => setRestores((n) => n + 1)} />
+          {GL_DEBUG && (
+            <Suspense fallback={null}>
+              <DebugGl probe={glProbe} switches={GL_SWITCHES} active={GL_ACTIVE} urlWith={urlWithSwitches} />
+            </Suspense>
+          )}
+        </SceneBoundary>
+      )}
+    </div>
+  )
+}
+
+/**
+ * One canvas with everything that belongs to it: its runtime, the scene and the DOM overlays that follow the scene.
+ * Keyed by GlobeCanvas, so a context the browser restored gets all of it new; the store (the place, the pass, the
+ * phase) is untouched, and the camera flies to where the app already is, as it does on a place page.
+ */
+function GlobeStage({ onPinSearch, onRestored }: { onPinSearch?: (place: Place) => void; onRestored: () => void }) {
+  // Per-canvas runtime, shared by the scene (inside the R3F tree) and the DOM overlay (outside it). The tier is
+  // refined from the GL context's capabilities when the scene mounts.
+  const [runtime] = useState(() => {
+    const rt = createRuntime(provisionalTier(detectMobile()), prefersReducedMotion(), Date.now())
+    // One stable [d, d] tuple for the Canvas' dpr prop (see runtime.dprProp): AdaptiveDpr updates it in place.
+    const d = initialDpr(rt.tier.mobile)
+    rt.dprProp = [d, d]
+    return rt
+  })
 
   // Follow the OS setting live: camera cuts, frozen cloud drift and instant reveals switch with it.
   useEffect(() => {
@@ -103,47 +133,42 @@ export function GlobeCanvas({ className, onPinSearch }: { className?: string; on
     return () => mql.removeEventListener('change', sync)
   }, [runtime])
 
+  const [canvas, setCanvas] = useState<HTMLCanvasElement | null>(null)
+  const restored = useRef(onRestored)
+  restored.current = onRestored
+  useEffect(() => (canvas ? onContextRestored(canvas, () => restored.current()) : undefined), [canvas])
+
   return (
-    <div className={cx(s.root, className)}>
-      {unavailable ? (
-        <GlobeFallback />
-      ) : (
-        <SceneBoundary onError={() => setFailed(true)}>
-          <Canvas
-            // DPR is managed by the scene (Scene.tsx AdaptiveDpr): phones start at 1.5, desktops at min(2, device).
-            dpr={runtime.dprProp}
-            gl={createRenderer}
-            camera={{ fov: 30, near: 0.01, far: 400, position: [0, 0, 6] }}
-            // Tone mapping happens in the post chain (Post.tsx); the renderer itself stays linear.
-            flat
-            onCreated={({ gl, camera }) => {
-              // The CameraDirector owns the projection (aspect + an off-axis lens shift) and rewrites it every frame.
-              // Without `manual`, R3F recomputes the projection synchronously whenever size or DPR changes, and an
-              // adaptive-DPR step taken mid-frame then renders ONE frame without the lens shift: the globe flashes
-              // to the centre of the screen and back. Manual cameras are never touched by R3F.
-              ;(camera as typeof camera & { manual?: boolean }).manual = true
-              gl.setClearColor(new Color(palette.ink0), 1)
-              // Program info-log round trips on every link are a development aid, not a production cost.
-              gl.debug.checkShaderErrors = import.meta.env.DEV || GL_DEBUG
-              if (GL_DEBUG) {
-                gl.domElement.addEventListener('webglcontextlost', () => glProbe.contextLost++)
-                gl.domElement.addEventListener('webglcontextrestored', () => glProbe.contextRestored++)
-              }
-            }}
-            aria-hidden
-          >
-            <GlobeScene runtime={runtime} />
-          </Canvas>
-          <GlobeOverlay runtime={runtime} />
-          <PinOverlay runtime={runtime} onSearch={onPinSearch} />
-          {GL_DEBUG && (
-            <Suspense fallback={null}>
-              <DebugGl probe={glProbe} switches={GL_SWITCHES} active={GL_ACTIVE} urlWith={urlWithSwitches} />
-            </Suspense>
-          )}
-        </SceneBoundary>
-      )}
-    </div>
+    <>
+      <Canvas
+        // DPR is managed by the scene (Scene.tsx AdaptiveDpr): phones start at 1.5, desktops at min(2, device).
+        dpr={runtime.dprProp}
+        gl={createRenderer}
+        camera={{ fov: 30, near: 0.01, far: 400, position: [0, 0, 6] }}
+        // Tone mapping happens in the post chain (Post.tsx); the renderer itself stays linear.
+        flat
+        onCreated={({ gl, camera }) => {
+          // The CameraDirector owns the projection (aspect + an off-axis lens shift) and rewrites it every frame.
+          // Without `manual`, R3F recomputes the projection synchronously whenever size or DPR changes, and an
+          // adaptive-DPR step taken mid-frame then renders ONE frame without the lens shift: the globe flashes
+          // to the centre of the screen and back. Manual cameras are never touched by R3F.
+          ;(camera as typeof camera & { manual?: boolean }).manual = true
+          gl.setClearColor(new Color(palette.ink0), 1)
+          // Program info-log round trips on every link are a development aid, not a production cost.
+          gl.debug.checkShaderErrors = import.meta.env.DEV || GL_DEBUG
+          if (GL_DEBUG) {
+            gl.domElement.addEventListener('webglcontextlost', () => glProbe.contextLost++)
+            gl.domElement.addEventListener('webglcontextrestored', () => glProbe.contextRestored++)
+          }
+          setCanvas(gl.domElement)
+        }}
+        aria-hidden
+      >
+        <GlobeScene runtime={runtime} />
+      </Canvas>
+      <GlobeOverlay runtime={runtime} />
+      <PinOverlay runtime={runtime} onSearch={onPinSearch} />
+    </>
   )
 }
 

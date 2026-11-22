@@ -10,7 +10,7 @@
  * still be cut for ten minutes more, so a listed frame is always one api/geo.ts can serve. A layer with nothing
  * stored lists nothing: the app then shows no frame for it, and asks nobody else.
  *
- *   200  application/json · 405 · 503 the store is missing (Vercel, local dev without the Worker) or unreadable
+ *   200  application/json · 405 · 503 the store is missing (local dev without the Worker) or unreadable
  */
 import { listedFrames } from './_lib/geoFill.js'
 import { CACHE_LAYERS } from './_lib/geoGrid.js'
@@ -29,6 +29,3 @@ export async function handleGeoFrames(req: Request, deps: GeoServe | null): Prom
     return plain(503, 'no-store')
   }
 }
-
-// Vercel has no store: the cache lives in the Cloudflare Worker (worker/index.ts).
-export default { fetch: (req: Request) => handleGeoFrames(req, null) }

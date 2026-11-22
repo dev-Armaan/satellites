@@ -1137,6 +1137,7 @@ Landing
 | Surprise me: a famous place picked at random (aria) | Навмання: відоме місце, вибране випадково |
 | Pin dropped: Waterloo. Press Enter or an arrow to see what passed over it. | Мітку поставлено: Waterloo. Натисни Enter або стрілку, щоб побачити, що пролітало тут. |
 | Built by @armaangupt0 | Автор — @armaangupt0 |
+| Open source / Open source: the code on GitHub (laptops only) | Відкритий код / Відкритий код: проєкт на GitHub |
 | Loading Watched · Slow connection, still loading | Завантаження Watched · Повільне з’єднання, ще завантажуємо |
 | Watched · Something watched you this week (tab) | Watched · Цього тижня щось дивилося на тебе |
 | 3D view unavailable · WebGL 2 is off in this browser | 3D-вигляд недоступний · У цьому браузері вимкнено WebGL 2 |

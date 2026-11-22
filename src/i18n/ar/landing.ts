@@ -53,6 +53,8 @@ const landing: typeof en = {
     `أي مكان على الأرض، نريك كل قمر صناعي مرّ فوقه خلال ${lastDays(days)}، والصور الحقيقية التي التقطها.`,
   ],
   builtBy: (handle: string) => `من صنع \u2066${handle}\u2069`,
+  sourceLink: 'مفتوح المصدر',
+  sourceLinkLabel: 'مفتوح المصدر: الشيفرة على GitHub',
 
   // ── The place search ──────────────────────────────────────────────────────────────────────
   searchPlaceholder: 'البحث عن مكان',

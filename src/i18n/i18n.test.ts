@@ -195,8 +195,8 @@ describe('a number set as a box of its own keeps the words tied to it (holdNum)'
 })
 
 describe('the tab title', () => {
-  // Main.tsx sets app.documentTitle in every language, English included: English must be index.html's title as it is,
-  // the one crawlers and link previews read.
+  // src/app/head.ts sets app.documentTitle on the landing in every language, English included: English must be
+  // index.html's title as it is, the one crawlers and link previews read.
   it('is index.html’s own in English', () => {
     const html = import.meta.glob<string>('../../index.html', { query: '?raw', import: 'default', eager: true })['../../index.html']
     expect(/<title>([^<]*)<\/title>/.exec(html)?.[1]).toBe(enApp.documentTitle)

@@ -11,7 +11,7 @@
  */
 export type Landmark = [name: string, where: string, lat: number, lon: number, cc: string, aliases?: string[]]
 
-export const LANDMARKS: Landmark[] = [
+const SIGHTS: Landmark[] = [
   // Monuments and buildings
   ['Eiffel Tower', 'Paris, France', 48.8584, 2.2945, 'fr', ['Tour Eiffel']],
   ['Statue of Liberty', 'New York, United States', 40.6892, -74.0445, 'us', ['Liberty Island']],
@@ -132,7 +132,13 @@ export const LANDMARKS: Landmark[] = [
   ['Cappadocia', 'Nevşehir, Türkiye', 38.6431, 34.8289, 'tr'],
   ['Milford Sound', 'Fiordland, New Zealand', -44.6414, 167.8974, 'nz', ['Fiordland']],
   ['Amazon River', 'Manaus, Brazil', -3.1, -59.95, 'br', ['Meeting of Waters']],
-  // City names people type that GeoNames files under another name
+]
+
+/**
+ * City names people type that GeoNames files under another name. Kept apart because each is a city, not a sight in
+ * one: the page generator (scripts/build-seo.ts) gives such a city one page, under GeoNames' name when it has one.
+ */
+export const CITY_NAMES: Landmark[] = [
   ['Ghent', 'East Flanders, Belgium', 51.0543, 3.7174, 'be'],
   ['Gurgaon', 'Haryana, India', 28.4595, 77.0266, 'in'],
   ['Constance', 'Baden-Württemberg, Germany', 47.6779, 9.1732, 'de'],
@@ -146,3 +152,6 @@ export const LANDMARKS: Landmark[] = [
   ['Frankfurt', 'Hesse, Germany', 50.1109, 8.6821, 'de'],
   ['Nizhny Novgorod', 'Nizhny Novgorod Oblast, Russia', 56.3269, 44.0059, 'ru'],
 ]
+
+/** Every entry of the landmark file, in its order: the sights, then the city names. */
+export const LANDMARKS: Landmark[] = [...SIGHTS, ...CITY_NAMES]

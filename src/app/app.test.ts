@@ -1,9 +1,11 @@
 import { afterEach, describe, expect, it } from 'vitest'
 import enPlaces from '@/i18n/en/places'
 import { msgs, setBundleForTests } from '@/i18n/runtime'
+import type { PagePlace } from '@/lib/placePage'
 import type { Pass, Place } from '@/types'
 import { localizedPlace } from '@/ui/landing/curated'
 import { EXAMPLE_PLACES } from '@/ui/landing/places'
+import { headFor } from './head'
 import { linkPlaceIn, passLinkOpts, pickPreselect, placeSearch, readUrlTarget } from './links'
 import { isSettled, raceTimeout, settleWaitMs } from './timing'
 
@@ -58,6 +60,16 @@ describe('readUrlTarget', () => {
     const t = NOW - 2 * DAY
     const target = readUrlTarget(`?q=43.47,-80.54&n=Waterloo&p=x&norad=60989&t=${t}`, NOW)
     expect(target?.kind === 'q' && target.opts).toEqual({ now: NOW, selectNorad: 60989, selectNear: t })
+  })
+
+  it('opens a place page on the place it was built for, unless the link names something else', () => {
+    const page: PagePlace = { path: '/place/paris', label: 'Paris', sublabel: 'Île-de-France, France', lat: 48.8566, lon: 2.3522, cc: 'fr' }
+    const place = { label: 'Paris', sublabel: 'Île-de-France, France', lat: 48.8566, lon: 2.3522, countryCode: 'fr', source: 'url' }
+    expect(readUrlTarget('', NOW, page)).toEqual({ kind: 'q', place, opts: { selectPassId: undefined } })
+    expect(readUrlTarget('?p=60989-29892501&utm_source=x', NOW, page)).toEqual({ kind: 'q', place, opts: { selectPassId: '60989-29892501' } })
+    expect(readUrlTarget('?s=abcd2345', NOW, page)).toEqual({ kind: 'share', id: 'abcd2345' })
+    expect(readUrlTarget('?q=43.47,-80.54&n=Waterloo', NOW, page)).toMatchObject({ kind: 'q', place: { label: 'Waterloo' } })
+    expect(readUrlTarget('?sandbox=globe', NOW, page)).toBeNull()
   })
 
   it('falls back to the pass id when t or norad is missing or invalid', () => {
@@ -145,5 +157,53 @@ describe('first results paint (R-M1)', () => {
     // Due too late (beyond the grace), or unknown: the race.
     expect(settleWaitMs(1000, 1500, 600, 4000)).toBe(1500)
     expect(settleWaitMs(1000, 1500, 600)).toBe(1500)
+  })
+})
+
+describe('headFor: the tab title and the canonical link', () => {
+  const page: PagePlace = { path: '/place/paris', label: 'Paris', lat: 48.8566, lon: 2.3522 }
+  const paris = { label: 'Paris', lat: 48.8566, lon: 2.3522 }
+  const tokyo = { label: 'Tokyo', lat: 35.6812, lon: 139.7671 }
+  const EN = { home: 'Watched · See every satellite that passed over you this week', english: true }
+  const DE = { home: 'Watched · Etwas hat dich diese Woche beobachtet', english: false }
+  const HOME = { title: EN.home, canonical: '/' }
+
+  it('names the place from the moment its search starts', () => {
+    for (const phase of ['computing', 'results', 'error'] as const) {
+      expect(headFor(phase, tokyo, undefined, EN)).toEqual({ title: 'Tokyo: this week’s satellite images and passes · Watched', canonical: '/' })
+    }
+  })
+
+  it('is the landing\'s everywhere else', () => {
+    expect(headFor('idle', undefined, undefined, EN)).toEqual(HOME)
+    expect(headFor('locating', undefined, page, EN)).toEqual(HOME)
+    expect(headFor('idle', paris, page, EN)).toEqual(HOME) // a place left in the store is not on screen
+    expect(headFor('error', undefined, undefined, EN)).toEqual(HOME) // the catalog failed: no place
+    expect(headFor('boot', undefined, undefined, EN)).toEqual(HOME)
+  })
+
+  it('calls a place page canonical only while its own place is on screen', () => {
+    expect(headFor('results', paris, page, EN).canonical).toBe('/place/paris')
+    expect(headFor('results', tokyo, page, EN).canonical).toBe('/')
+    expect(headFor('results', { ...paris, lat: 48.85 }, page, EN).canonical).toBe('/') // another Paris, or another spot in it
+    expect(headFor('results', paris, undefined, EN).canonical).toBe('/')
+  })
+
+  it('keeps a place page\'s own head while the app boots on it', () => {
+    expect(headFor('boot', undefined, page, EN, page)).toEqual({ title: 'Paris: this week’s satellite images and passes · Watched', canonical: '/place/paris' })
+    // A ?q= link opened on a place page's address asks for another place: the landing's head until its search starts.
+    expect(headFor('boot', undefined, page, EN, undefined)).toEqual(HOME)
+  })
+
+  it('speaks the page\'s language: the landing\'s own title, and a place by its name alone', () => {
+    expect(headFor('idle', undefined, undefined, DE)).toEqual({ title: DE.home, canonical: '/' })
+    expect(headFor('results', tokyo, undefined, DE)).toEqual({ title: 'Tokyo · Watched', canonical: '/' })
+    expect(headFor('boot', undefined, page, DE, page)).toEqual({ title: 'Paris · Watched', canonical: '/place/paris' })
+  })
+
+  it('knows a place page\'s place under the name another language gives it', () => {
+    const giza: PagePlace = { path: '/place/pyramids-of-giza', label: 'Pyramids of Giza', lat: 29.979, lon: 31.134 }
+    const shown = { label: 'Pyramides de Gizeh', canonicalLabel: 'Pyramids of Giza', lat: 29.979, lon: 31.134 }
+    expect(headFor('results', shown, giza, { home: 'x', english: false })).toEqual({ title: 'Pyramides de Gizeh · Watched', canonical: '/place/pyramids-of-giza' })
   })
 })

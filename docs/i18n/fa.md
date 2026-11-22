@@ -380,7 +380,7 @@ with a year, CLDR writes a shared month once);
 `جستجوی مکان پاسخ نمی‌دهد. مختصاتی مثل ⟨LRI⟩43.47, −80.54⟨PDI⟩ همچنان کار می‌کند.`; `nothingMatches`
 `هیچ نتیجه‌ای برای «⟨FSI⟩[QUERY]⟨PDI⟩» پیدا نشد. یک شهر، یک جای شناخته‌شده یا مختصات را امتحان کنید.`; `useMyLocation`
 `استفاده از موقعیت من`; `locateMe` `موقعیت من`; `nearMe` `نزدیک من`; `locating` `مکان‌یابی…`; `surprise`
-`غافلگیرم کن`; `orTry` `نمونه‌ها`; `dropPin` `گذاشتن سنجاق`; `builtBy` `ساختهٔ ⟨LRI⟩@armaangupt0⟨PDI⟩`.
+`غافلگیرم کن`; `orTry` `نمونه‌ها`; `dropPin` `گذاشتن سنجاق`; `builtBy` `ساختهٔ ⟨LRI⟩@armaangupt0⟨PDI⟩`. `sourceLink` `متن‌باز` (the ↗ after it mirrors to point left, as in Arabic); `sourceLinkLabel` `متن‌باز: کد پروژه در GitHub`.
 
 **`app` and boot**: notice label `خطا`; fallback `مشکلی پیش آمد.`; `تلاش دوباره`; `در حال تلاش…`; `بازگشت`.
 Faults: `کاتالوگ مداری بارگیری نشد. اتصالتان را بررسی کنید و دوباره امتحان کنید.` / `هنگام محاسبهٔ گذرها برای این

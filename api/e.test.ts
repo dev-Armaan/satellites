@@ -56,7 +56,7 @@ describe('handleEvents', () => {
     vi.stubEnv('VITE_SUPABASE_PUBLISHABLE_KEY', 'sb_publishable_test')
     const fetchMock = vi.fn(async () => new Response(null, { status: 204 }))
     vi.stubGlobal('fetch', fetchMock)
-    const res = await handleEvents(req(batch(), { 'x-vercel-ip-country': 'DE', 'x-forwarded-for': '1.2.3.4', 'x-real-ip': '1.2.3.4' }))
+    const res = await handleEvents(req(batch(), { 'cf-ipcountry': 'DE', 'x-forwarded-for': '1.2.3.4', 'x-real-ip': '1.2.3.4' }))
     expect(res.status).toBe(204)
     expect(fetchMock).toHaveBeenCalledOnce()
     const [url, init] = fetchMock.mock.calls[0] as unknown as [string, RequestInit]
@@ -79,20 +79,7 @@ describe('handleEvents', () => {
     expect((await handleEvents(req('', {}, 'GET'))).status).toBe(405)
     expect((await handleEvents(req('x'.repeat(17000)))).status).toBe(413)
   })
-  it('preview deployments write nothing', async () => {
-    vi.stubEnv('VITE_SUPABASE_URL', 'https://example.supabase.co')
-    vi.stubEnv('VITE_SUPABASE_PUBLISHABLE_KEY', 'k')
-    const fetchMock = vi.fn()
-    vi.stubGlobal('fetch', fetchMock)
-    vi.stubEnv('VERCEL_ENV', 'preview')
-    expect((await handleEvents(req(batch()))).status).toBe(204)
-    expect(fetchMock).not.toHaveBeenCalled()
-    vi.stubEnv('VERCEL_ENV', 'production')
-    fetchMock.mockResolvedValue(new Response(null, { status: 204 }))
-    await handleEvents(req(batch()))
-    expect(fetchMock).toHaveBeenCalledOnce()
-  })
-  it('on Cloudflare, writes only for the production hosts, with the country from cf-ipcountry', async () => {
+  it('writes only for the production hosts (a preview or the staging copy writes nothing), with the country from cf-ipcountry', async () => {
     vi.stubEnv('VITE_SUPABASE_URL', 'https://example.supabase.co')
     vi.stubEnv('VITE_SUPABASE_PUBLISHABLE_KEY', 'k')
     vi.stubEnv('PRODUCTION_HOSTS', 'www.watched.earth, watched.earth')

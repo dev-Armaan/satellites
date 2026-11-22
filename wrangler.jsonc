@@ -16,13 +16,19 @@
     "directory": "./dist",
     "binding": "ASSETS",
     // The router (worker/router.ts) decides these; every other static file is served without running the Worker,
-    // and a request no file matches reaches the Worker too (the app fallback and 404s, as on Vercel).
-    "run_worker_first": ["/", "/s/*", "/api/*"],
+    // and a request no file matches reaches the Worker too (the app fallback and 404s).
+    // The place pages (/place, /place/<slug>) are static too, but go through the Worker so that a preview host
+    // marks them noindex.
+    "run_worker_first": ["/", "/s/*", "/api/*", "/place", "/place/*"],
   },
   // The Meteosat frame cache (api/_lib/geoFill.ts): each frame is fetched from EUMETSAT once, by the timer below, and
-  // kept here as tiles that /api/geo cuts pictures from. No id: `wrangler deploy` creates the namespace the first
-  // time and keeps the Worker linked to it, so a fork gets its own.
-  "kv_namespaces": [{ "binding": "GEO_FRAMES" }],
+  // kept here as tiles that /api/geo cuts pictures from. The id is this site's namespace, named on purpose: without
+  // one, wrangler takes the binding from the Worker's last uploaded version, and a branch from before the cache
+  // uploads a version that has none. Every build after it then tried to create the namespace again and failed
+  // ("a namespace with this account ID and title already exists", two preview builds on 2026-11-21); a production
+  // deploy takes the same path. An id is not a secret and opens nothing outside this account. A fork removes the
+  // `id` for its first deploy, which creates its own namespace, then writes that id here (docs/SELF-HOSTING.md).
+  "kv_namespaces": [{ "binding": "GEO_FRAMES", "id": "850fcd2c858c4eaa806bd14401a57da5" }],
   // Every minute; a run with nothing due reads one key and stops.
   "triggers": { "crons": ["* * * * *"] },
   // satori imports harfbuzzjs; the package's own loader compiles WebAssembly at runtime, which Workers refuse.

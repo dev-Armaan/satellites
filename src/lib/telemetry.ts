@@ -1,11 +1,11 @@
 /**
  * In-app event telemetry: a small queue that batches events and sends them to the same-origin relay
- * (`/api/e`, which forwards them to the `log_events` RPC with the visitor's country from the host's edge: Vercel's or Cloudflare's header).
+ * (`/api/e`, which forwards them to the `log_events` RPC with the visitor's country from Cloudflare's edge header).
  *
  * Privacy (README, About page):
  *  - No cookies, nothing persistent: the session id is random per TAB, in sessionStorage.
  *  - Never coordinates: a search is a city-level label ("Waterloo, Ontario, Canada") and its 0.1° (~10 km) cell.
- *  - Never an IP (the relay reads only Vercel's derived country header), never a full referrer (host only).
+ *  - Never an IP (the relay reads only the country Cloudflare's edge derives from it), never a full referrer (host only).
  *  - Error messages lose URLs and decimal numbers before they leave the browser (the server masks them again).
  *  - Each batch says what the tab is (`ctx`): its device class, UTM tags, referrer host, the app's version, the
  *    language the app is showing (one of its locale codes), and the browser's first language, without its region
@@ -50,28 +50,37 @@ interface Queued {
 
 export interface TelemetryEnv {
   webdriver?: boolean
+  /** navigator.userAgent: a crawler that runs the app says who it is here */
+  userAgent?: string
   dev?: boolean
   hostname?: string
   search?: string
   /** `?noanalytics=1` was seen earlier in this tab (sessionStorage, written at boot) */
   optedOut?: boolean
-  /** Build-time VITE_TELEMETRY_E2E=1 (end-to-end checks of a local build only; never set on Vercel): ignore webdriver + host. */
+  /** Build-time VITE_TELEMETRY_E2E=1 (end-to-end checks of a local build only; never set for a deployed build): ignore webdriver + host. */
   e2e?: boolean
 }
 
 // ── Opt-outs ────────────────────────────────────────────────────────────────────────────────
 
-/** Only the production site counts: Vercel previews and local builds never write into the stats. */
+/** Only the production site counts: previews and local builds never write into the stats. */
 export const PRODUCTION_HOSTS: readonly string[] = ['www.watched.earth', 'watched.earth']
 export const OPT_OUT_KEY = 'watched.noanalytics'
 export const OPT_OUT_RE = /[?&]noanalytics=1(?:&|$)/
+
+/**
+ * Crawlers and page testers that run the app, by the name they give themselves: search engines render every place
+ * page (src/lib/placePage.ts), and each rendering would count as a visit and a search. "bot" only before `/`, `;` or
+ * `)`, as in "Googlebot/2.1": a phone maker's name ends in those letters.
+ */
+export const CRAWLER_RE = /bot[/;)]|spider|crawl|slurp|headlesschrome|lighthouse|inspectiontool|googleother|facebookexternalhit/i
 
 /** False for bots, dev builds, non-production hosts, and tabs opened with `?noanalytics=1`. */
 export function telemetryAllowed(env: TelemetryEnv = currentEnv()): boolean {
   if (env.dev) return false
   if (env.optedOut || OPT_OUT_RE.test(env.search ?? '')) return false // `search`: for tests and callers without a boot record
   if (env.e2e) return true
-  if (env.webdriver) return false
+  if (env.webdriver || CRAWLER_RE.test(env.userAgent ?? '')) return false
   return !!env.hostname && PRODUCTION_HOSTS.includes(env.hostname.toLowerCase())
 }
 
@@ -79,6 +88,7 @@ function currentEnv(): TelemetryEnv {
   if (typeof window === 'undefined') return { webdriver: true }
   return {
     webdriver: typeof navigator !== 'undefined' && navigator.webdriver === true,
+    userAgent: typeof navigator !== 'undefined' ? navigator.userAgent : undefined,
     dev: !!import.meta.env?.DEV,
     hostname: location.hostname,
     optedOut: !!arrival?.optedOut || readOptOut(),

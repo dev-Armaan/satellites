@@ -254,6 +254,8 @@ export function shareFromParams(q: URLSearchParams): ShareRecord | null {
 
 /** The pass keys a fallback deep link carries (src/ui/share/links.ts DEEP_LINK_PASS_KEYS). */
 export const DEEP_LINK_PASS_KEYS = ['sat', 'norad', 'verdict', 't', 'alt', 'off', 'hdg', 'collection', 'item', 'cloud', 'gsd', 'spot', 'sv'] as const
+/** The rest of what shareFromParams reads for a card drawn from its address alone. */
+const CARD_PLACE_KEYS = ['place', 'lat', 'lon', 'dist', 'az', 'el', 'spd'] as const
 
 /**
  * A pass from the app's fallback deep link (share R2SH2): the place link `/?q=lat,lon&n=label&p=passId`
@@ -281,6 +283,47 @@ export function shareFromDeepLink(q: URLSearchParams): ShareRecord | null {
 export function linkLocale(q: URLSearchParams): Locale {
   const l = q.get('l')
   return isLocale(l) ? l : DEFAULT_LOCALE
+}
+
+/**
+ * The language satori can draw a card in: the link's, or English for a right-to-left one (it shapes Arabic but has
+ * no bidirectional layout; see the top of api/og.tsx). The one place that decides it.
+ */
+export const cardLocale = (locale: Locale): Locale => (LOCALE_INFO[locale].dir === 'rtl' ? DEFAULT_LOCALE : locale)
+
+// ── The card's cache key ────────────────────────────────────────────────────────────────────
+
+/**
+ * Bump when the card design changes so unfurler caches (which key on the URL) refetch.
+ * 4 (round 3): "watched" vocabulary on pass cards, the summary card's N / K headline (R3-13).
+ * 5: no verdict row or coordinates; pass cards lead with the week's N ("7 satellites watched Waterloo.", owner).
+ */
+export const CARD_VERSION = '5'
+
+/**
+ * The query a card (GET /api/og) is kept under in Cloudflare's cache (worker/router.ts `cached`): what the card is
+ * drawn from, in one order, and nothing else.
+ *  - a stored share: its id (the handler reads nothing else of the address);
+ *  - any other card: the parameters shareFromParams, placeFromParams and summaryFromParams read, sorted;
+ *  - the language the card is drawn in (cardLocale: a right-to-left link's card is the English one), English unnamed;
+ *  - the card version, only when it is the current one: any other `v` is the same picture as none.
+ * Keyed on the whole address, each unknown parameter was a new card: `?id=…&x=1`, `&x=2`, … drew one share's card
+ * again each time and asked its archive for the photo again, which for a Meteosat frame is EUMETSAT's map service.
+ */
+export function cardCacheQuery(q: URLSearchParams): string {
+  const out = new URLSearchParams()
+  const id = q.get('id')
+  if (id !== null) out.set('id', id)
+  else {
+    for (const k of [...new Set<string>(['kind', 'q', 'n', ...CARD_PLACE_KEYS, ...DEEP_LINK_PASS_KEYS, ...SUMMARY_KEYS])].sort()) {
+      const v = q.get(k)
+      if (v !== null) out.set(k, v)
+    }
+  }
+  const locale = cardLocale(linkLocale(q))
+  if (locale !== DEFAULT_LOCALE) out.set('l', locale)
+  if (q.get('v') === CARD_VERSION) out.set('v', CARD_VERSION)
+  return out.toString()
 }
 
 // ── Places (address-bar links: /?q=lat,lon&n=label) ─────────────────────────────────────────

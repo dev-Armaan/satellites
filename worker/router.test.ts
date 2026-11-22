@@ -1,10 +1,10 @@
 /**
- * The Worker answers every path as vercel.json does (api/_lib/api.test.ts walks vercel.json for the same cases),
- * and its bot list and security headers stay equal to vercel.json's while both hosts run.
+ * Where the Worker sends every path, what it caches, and the headers it adds on the way out.
  */
-import { readFile } from 'node:fs/promises'
 import { afterEach, describe, expect, it, vi } from 'vitest'
-import { SECURITY_HEADERS, UNFURLER_UA, route, type Routes } from './router.ts'
+import { panCacheQuery, panQuery } from '../api/_lib/pan.js'
+import { cardCacheQuery } from '../api/_lib/share.js'
+import { SECURITY_HEADERS, route, type Routes } from './router.ts'
 
 const BOT = 'Mozilla/5.0 (compatible; Twitterbot/1.0)'
 const IMESSAGE =
@@ -54,8 +54,41 @@ describe('worker routes', () => {
 
   it('falls back to the app for app paths only', async () => {
     expect((await at('/about')).body).toBe('asset /')
-    expect((await at('/week/43.47,-80.54')).res.status).toBe(404) // a dot: never the app, as on Vercel
+    expect((await at('/week/43.47,-80.54')).res.status).toBe(404) // a dot: a file that is not there, never the app
     expect((await at('/missing.png')).res.status).toBe(404)
+  })
+
+  it('serves a place page as the file the build wrote, and the app as a 404 where there is none', async () => {
+    const pages = new Set(['/place', '/place/paris'])
+    const r: Routes = {
+      ...routes(),
+      assets: {
+        fetch: async (req) => {
+          const { pathname } = new URL(req.url)
+          if (pathname === '/') return new Response('the app', { headers: { 'cache-control': 'public, max-age=0, must-revalidate' } })
+          if (pathname === '/place/paris.html') return new Response(null, { status: 307, headers: { location: '/place/paris' } })
+          return pages.has(pathname) ? new Response(`page ${pathname}`) : new Response(null, { status: 404 })
+        },
+      },
+    }
+    const get = (path: string, host = 'https://www.watched.earth') => route(new Request(`${host}${path}`), r)
+    vi.stubEnv('PRODUCTION_HOSTS', 'www.watched.earth')
+    expect(await (await get('/place/paris')).text()).toBe('page /place/paris')
+    expect(await (await get('/place')).text()).toBe('page /place')
+    expect((await get('/place/paris')).headers.get('x-robots-tag')).toBeNull()
+    // The spelling Cloudflare redirects stays a redirect.
+    const dotted = await get('/place/paris.html')
+    expect([dotted.status, dotted.headers.get('location')]).toEqual([307, '/place/paris'])
+    // No such place: people can still search; search engines are told there is nothing here.
+    for (const path of ['/place/atlantis', '/place/paris/more']) {
+      const missing = await get(path)
+      expect([missing.status, await missing.text()], path).toEqual([404, 'the app'])
+    }
+    // A preview serves the same pages, marked so they are never indexed.
+    const preview = await get('/place/paris', 'https://abc12345-watched.example.workers.dev')
+    expect([preview.status, preview.headers.get('x-robots-tag')]).toEqual([200, 'noindex'])
+    // The offline place list's files are not place pages.
+    expect((await get('/places/20261112/s/zz.txt')).status).toBe(404)
   })
 
   it('adds the security headers, and marks hosts outside PRODUCTION_HOSTS noindex', async () => {
@@ -68,7 +101,7 @@ describe('worker routes', () => {
   })
 })
 
-describe('cache-control as browsers get it from Vercel', () => {
+describe('cache-control as browsers get it', () => {
   it('drops s-maxage and stale-while-revalidate from what handlers send, and fills in a missing header', async () => {
     const r: Routes = {
       ...routes(),
@@ -81,7 +114,7 @@ describe('cache-control as browsers get it from Vercel', () => {
     expect((await get('/api/nope')).headers.get('cache-control')).toBe('public, max-age=0, must-revalidate')
   })
 
-  it('remembers a missing file in a versioned directory, as Vercel does', async () => {
+  it('remembers a missing file in a versioned directory', async () => {
     const get = async (path: string) => (await route(new Request(`https://www.watched.earth${path}`), routes())).headers.get('cache-control')
     expect(await get('/places/20261112/s/zz.txt')).toBe('public, max-age=31536000, immutable')
     expect(await get('/assets/gone-abc123.js')).toBe('public, max-age=31536000, immutable')
@@ -95,34 +128,14 @@ describe('cache-control as browsers get it from Vercel', () => {
   })
 })
 
-describe('parity with vercel.json', () => {
-  interface Route {
-    src?: string
-    headers?: Record<string, string>
-    has?: { type: string; key: string; value?: string }[]
-  }
-  const vercel = async () => (JSON.parse(await readFile(new URL('../vercel.json', import.meta.url), 'utf8')) as { routes: Route[] }).routes
-
-  it('matches the same link unfurlers', async () => {
-    const ua = (await vercel()).flatMap((r) => r.has ?? []).find((c) => c.key === 'user-agent')
-    expect(ua?.value).toBe(UNFURLER_UA)
-  })
-
-  it('sends the same security headers on every path', async () => {
-    const all = (await vercel()).find((r) => r.src === '/(.*)')!.headers!
-    const { 'Strict-Transport-Security': _hsts, ...rest } = SECURITY_HEADERS // Vercel adds HSTS on its own
-    expect(rest).toEqual(all)
-  })
-})
-
 describe('edge cache', () => {
   /** A cache keyed by URL, as Cloudflare's is for these requests, counting each handler's calls. */
-  function cachedRoutes(answers: Record<string, () => Response>) {
+  function cachedRoutes(answers: Record<string, () => Response>, keys: Pick<Routes, 'cardKey' | 'panKey'> = {}) {
     const store = new Map<string, Response>()
     const calls: string[] = []
     const stored: Promise<unknown>[] = []
     const handler = (name: string) => async (r: Request) => {
-      calls.push(`${name} ${new URL(r.url).pathname}${new URL(r.url).search}`)
+      calls.push(`${name} ${new URL(r.url).pathname}${new URL(r.url).search}${method === 'GET' ? '' : ` ${r.method}`}`)
       return answers[name]()
     }
     const r: Routes = {
@@ -135,9 +148,13 @@ describe('edge cache', () => {
         put: async (key, res) => void store.set(key.url, res),
       },
       waitUntil: (work) => void stored.push(work),
+      ...keys,
     }
-    const get = async (path: string, ua = PERSON) => {
-      const res = await route(new Request(`https://www.watched.earth${path}`, { headers: { 'user-agent': ua } }), r)
+    // The method the visitor used (calls name the handler's own when it differs: a HEAD reaches it as a GET).
+    let method = 'GET'
+    const get = async (path: string, ua = PERSON, as = 'GET') => {
+      method = as
+      const res = await route(new Request(`https://www.watched.earth${path}`, { method: as, headers: { 'user-agent': ua } }), r)
       await Promise.all(stored)
       return res
     }
@@ -154,7 +171,7 @@ describe('edge cache', () => {
     expect(calls).toEqual(['og /api/og?id=ab3d5f7h'])
   })
 
-  it('keeps only what Vercel would keep: 200 or 404 with s-maxage, never no-store or an error', async () => {
+  it('keeps only a 200 or 404 that says s-maxage, never no-store or an error', async () => {
     const { get, store } = cachedRoutes({
       og: respond(500, 'public, s-maxage=300'),
       pan: respond(400, 'public, max-age=86400'),
@@ -164,6 +181,53 @@ describe('edge cache', () => {
     await get('/api/pan?bbox=1')
     await get('/s/missing1')
     expect([...store.keys()]).toEqual(['https://www.watched.earth/api/s?id=missing1'])
+  })
+
+  it('keeps one entry for a card or a pan crop however its address is spelled', async () => {
+    const T = Date.now() - 86_400_000
+    const crop = panQuery([304845, 2771175, 319845, 2786175], 32640, T)
+    const { get, calls, store } = cachedRoutes(
+      { og: respond(200, 'public, max-age=86400, s-maxage=31536000'), pan: respond(200, 'public, max-age=604800, s-maxage=31536000') },
+      { cardKey: cardCacheQuery, panKey: (q) => panCacheQuery(q, Date.now()) },
+    )
+    // A stored share's card: its id, its language and the current version are all it is drawn from.
+    for (const q of ['id=ab3d5f7h&v=5', 'v=5&id=ab3d5f7h', 'id=ab3d5f7h&v=5&x=1', 'id=ab3d5f7h&v=5&x=2&place=Elsewhere', 'id=ab3d5f7h&v=5&l=xx', 'id=ab3d5f7h&v=5&l=ar']) await get(`/api/og?${q}`)
+    expect(calls).toEqual(['og /api/og?id=ab3d5f7h&v=5'])
+    // Another language is another card; so is an out-of-date version (one entry for every such `v`).
+    await get('/api/og?id=ab3d5f7h&v=5&l=ja')
+    await get('/api/og?id=ab3d5f7h&v=4')
+    await get('/api/og?id=ab3d5f7h&v=999')
+    await get('/api/og?id=ab3d5f7h')
+    expect(calls.length).toBe(3)
+    // A card drawn from its address: the same parameters in any order, with anything else dropped.
+    calls.length = 0
+    await get('/api/og?place=Waterloo&lat=43.47&lon=-80.54&verdict=imaged&norad=60989')
+    await get('/api/og?norad=60989&verdict=imaged&lon=-80.54&lat=43.47&place=Waterloo&utm_source=x&fbclid=y')
+    expect(calls.length).toBe(1)
+    // A pan crop: panQuery's own string.
+    calls.length = 0
+    await get(`/api/pan?${crop}`)
+    await get(`/api/pan?x=1&t=${T}&crs=32640&bbox=304845,2771175,319845,2786175`)
+    expect(calls.length).toBe(1)
+    expect([...store.keys()].filter((k) => k.includes('/api/pan'))).toEqual([`https://www.watched.earth/api/pan?${crop}`])
+  })
+
+  it('answers a HEAD from the same entry as a GET, and the handler as a GET when there is none', async () => {
+    const seen: string[] = []
+    const { get, calls, store } = cachedRoutes({
+      og: () => {
+        seen.push('og')
+        return new Response('card', { headers: { 'cache-control': 'public, max-age=86400, s-maxage=31536000' } })
+      },
+    })
+    const head = await get('/api/og?id=ab3d5f7h', PERSON, 'HEAD')
+    expect(head.status).toBe(200)
+    expect(await head.text()).toBe('')
+    expect((await get('/api/og?id=ab3d5f7h')).status).toBe(200)
+    await get('/api/og?id=ab3d5f7h', PERSON, 'HEAD')
+    expect(calls).toEqual(['og /api/og?id=ab3d5f7h GET'])
+    expect(seen.length).toBe(1)
+    expect([...store.keys()]).toEqual(['https://www.watched.earth/api/og?id=ab3d5f7h'])
   })
 
   it('keys a rewritten request by the URL its handler sees', async () => {

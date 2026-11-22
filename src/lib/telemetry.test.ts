@@ -29,10 +29,30 @@ describe('opt-outs', () => {
   const live = { hostname: 'www.watched.earth', search: '' }
   it('sends from the live site', () => expect(telemetryAllowed(live)).toBe(true))
   it('never under automation (navigator.webdriver)', () => expect(telemetryAllowed({ ...live, webdriver: true })).toBe(false))
+  it('never from a crawler that runs the app, by the name it gives itself', () => {
+    for (const userAgent of [
+      'Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+      'Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36',
+      'Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.2; +https://openai.com/gptbot)',
+      'Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)',
+      'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+      'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.0.0 Safari/537.36',
+      'Mozilla/5.0 (compatible; Google-InspectionTool/1.0;)',
+      'Mozilla/5.0 (Linux; Android 11; moto g power) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36 Chrome-Lighthouse',
+    ])
+      expect(telemetryAllowed({ ...live, userAgent }), userAgent).toBe(false)
+    // People: a phone whose maker's name ends in "bot" is not one.
+    for (const userAgent of [
+      'Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1',
+      'Mozilla/5.0 (Linux; Android 13; CUBOT KINGKONG 9 Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36',
+      'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36',
+    ])
+      expect(telemetryAllowed({ ...live, userAgent }), userAgent).toBe(true)
+  })
   it('never on dev builds', () => expect(telemetryAllowed({ ...live, dev: true })).toBe(false))
-  it('only on the production hosts: never local builds or Vercel previews', () => {
+  it('only on the production hosts: never local builds or previews', () => {
     expect(telemetryAllowed({ ...live, hostname: 'watched.earth' })).toBe(true)
-    for (const hostname of ['localhost', '127.0.0.1', '[::1]', 'mac.local', 'overflight-git-x-dev-armaans-projects.vercel.app', 'evil.watched.earth.example'])
+    for (const hostname of ['localhost', '127.0.0.1', '[::1]', 'mac.local', 'abc12345-watched.example.workers.dev', 'next.watched.earth', 'evil.watched.earth.example'])
       expect(telemetryAllowed({ ...live, hostname })).toBe(false)
   })
   it('a tab opened with ?noanalytics=1 stays out after the URL changes', () => expect(telemetryAllowed({ ...live, search: '?q=1,2&n=x', optedOut: true })).toBe(false))

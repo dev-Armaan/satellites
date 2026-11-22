@@ -3,8 +3,8 @@ import { describe, expect, it } from 'vitest'
 import { FRAMES_KEY, LIST_DELAY_MS, type FramesDoc, type GeoStore, type StoredFrame } from './_lib/geoFill.js'
 import { NO_TILES, TILE_BYTES, tileKey, withTile } from './_lib/geoGrid.js'
 import type { GeoServe } from './_lib/geoServe.js'
-import geoFramesOnVercel, { handleGeoFrames } from './geo-frames.js'
-import geoOnVercel, { handleGeo } from './geo.js'
+import { handleGeoFrames } from './geo-frames.js'
+import { handleGeo } from './geo.js'
 
 const FCI = 'mtg_fd:rgb_geocolour'
 const IR = 'msg_iodc:ir108'
@@ -115,7 +115,6 @@ describe('GET /api/geo', () => {
   it('never redirects when the cache itself is broken: no store, a store that fails, a listed tile that is gone', async () => {
     const path = `/api/geo?layer=${encodeURIComponent(FCI)}&time=${AT}&${PARIS}&px=176`
     expect((await get(path, null)).status).toBe(503)
-    expect((await geoOnVercel.fetch(new Request(`https://x.vercel.app${path}`))).status).toBe(503)
     const down = cache()
     down.deps.store.getText = async () => {
       throw new Error('KV is down')
@@ -160,7 +159,6 @@ describe('GET /api/geo-frames', () => {
 
   it('says so when there is no store, rather than list nothing for a minute', async () => {
     expect((await frames(null)).status).toBe(503)
-    expect((await geoFramesOnVercel.fetch(new Request('https://x.vercel.app/api/geo-frames'))).status).toBe(503)
     const down = cache()
     down.deps.store.getText = async () => {
       throw new Error('KV is down')

@@ -1,7 +1,7 @@
 /**
  * <Landing onSubmit enterDelay/>: phases 'idle' and 'locating'. The hero, the place search, "Use my
- * location", curated example places, the maker's credit and a live stats footnote, laid out so the
- * globe stays the hero:
+ * location", curated example places and the maker's credit (on wide screens, a link to the code beside it), laid
+ * out so the globe stays the hero:
  *
  *   wide            a text column on the left of the 12-column grid; the globe frames to its right.
  *                   When suggestions open, the copy fades and the field lifts to the headline's place,
@@ -81,6 +81,8 @@ const FADE_REACH = 64
 /** The maker's credit under the example chips. */
 const CREDIT_HANDLE = '@armaangupt0'
 const CREDIT_URL = 'https://x.com/armaangupt0'
+/** Beside the credit on wide screens: the project's code, MIT licensed (README.md). */
+const SOURCE_URL = 'https://github.com/dev-Armaan/satellites'
 
 interface LandingProps {
   onSubmit: (place: Place) => void
@@ -396,13 +398,22 @@ function LandingImpl({ onSubmit: onSubmitProp, enterDelay = 0 }: LandingProps) {
           </div>
 
           <Examples onPick={submit} disabled={locating} locate={locate} />
-          {/* Under the chips: the maker's credit, and (tall wide screens) the live stats beside it. The row
-              is there from the first frame, so the stats arriving later never move the column. The stats
-              are a nicety: they step aside while a locate note needs the room. */}
+          {/* Under the chips: the maker's credit, then (wide screens only, Landing.module.css .source) the link to
+              the code. It shares the credit's line, so it adds no height to a column that must fit between the
+              corner readouts, and phones, where that line is the panel's last and the screen is full, never get it. */}
           <div className={cx(s.foot, s.rise, s.riseExamples)} data-hero-copy>
             <a className={s.credit} href={CREDIT_URL} target="_blank" rel="noreferrer">
               {m.builtBy(CREDIT_HANDLE)}
             </a>
+            <span className={s.source}>
+              <span className={s.footSep} aria-hidden>
+                ·
+              </span>
+              <a className={cx(s.credit, s.sourceLink)} href={SOURCE_URL} target="_blank" rel="noreferrer" aria-label={m.sourceLinkLabel}>
+                {m.sourceLink}
+                <Glyph name="arrow-up-right" size={10} />
+              </a>
+            </span>
           </div>
         </div>
       </section>

@@ -28,6 +28,18 @@ const PLACES: [string, string, string, number][] = [
   ['Reykjavík, Iceland', 'is', '64.1,-21.9', 9],
 ]
 
+/** Where the map's long tail gathers: lat, lon and a weight (searches in the middle cell, and how many cells around). */
+const CITIES: [number, number, number][] = [
+  [34.1, -118.2, 12], [41.9, -87.6, 9], [29.8, -95.4, 6], [47.6, -122.3, 7], [25.8, -80.2, 6], [45.5, -73.6, 8], [49.3, -123.1, 7], [51.0, -114.1, 5],
+  [19.4, -99.1, 8], [4.7, -74.1, 4], [-12.0, -77.0, 3], [-34.6, -58.4, 6], [-22.9, -43.2, 5], [-33.4, -70.7, 3],
+  [48.9, 2.3, 14], [40.4, -3.7, 9], [41.9, 12.5, 8], [52.4, 4.9, 9], [59.3, 18.1, 5], [50.1, 14.4, 5], [52.2, 21.0, 7], [48.2, 16.4, 5], [50.5, 30.5, 8],
+  [41.0, 29.0, 10], [55.8, 37.6, 6], [38.0, 23.7, 4], [53.3, -6.3, 4],
+  [30.0, 31.2, 6], [-1.3, 36.8, 3], [-26.2, 28.0, 4], [-33.9, 18.4, 4], [33.6, -7.6, 3],
+  [28.6, 77.2, 12], [12.9, 77.6, 9], [24.9, 67.0, 4], [23.8, 90.4, 3], [35.7, 51.4, 4], [24.7, 46.7, 4],
+  [39.9, 116.4, 6], [31.2, 121.5, 8], [22.3, 114.2, 6], [37.6, 127.0, 7], [1.3, 103.8, 6], [13.8, 100.5, 5], [-6.2, 106.8, 5], [14.6, 121.0, 4],
+  [-37.8, 145.0, 8], [-27.5, 153.0, 4], [-36.8, 174.8, 3], [21.3, -157.9, 2],
+]
+
 /** Each language's share of the tabs that named one (0027): every language has a few. */
 const LANGS: [string, number][] = [
   ['en', 0.58], ['es', 0.085], ['de', 0.062], ['fr', 0.053], ['pt-BR', 0.046], ['ja', 0.038], ['it', 0.025], ['nl', 0.02],
@@ -85,12 +97,19 @@ export function mockStats(range: Range, now = Date.now()): AdminStats {
   const places = PLACES.map(([l, , , c]) => [l, k(c)] as [string, number])
   const countries: Record<string, number> = {}
   for (const [, cc, , c] of PLACES) countries[cc] = (countries[cc] ?? 0) + k(c)
-  const cells: [string, number][] = PLACES.map(([, , cell, c]) => [cell, k(c)])
-  for (let i = 0; i < 160; i++) {
-    const lat = Math.round((r() * 120 - 50) * 10) / 10
-    const lon = Math.round((r() * 340 - 170) * 10) / 10
-    cells.push([`${lat.toFixed(1)},${lon.toFixed(1)}`, 1 + Math.floor(r() ** 3 * 8)])
+  // Shaped like the real list: a few places far ahead, then cities with their suburbs, then a long tail of ones and
+  // twos scattered around where people live (and a few in the open sea).
+  const cellCounts = new Map<string, number>(PLACES.map(([, , cell, c]) => [cell, k(c)]))
+  const addCell = (lat: number, lon: number, n: number) => {
+    const key = `${(Math.round(lat * 10) / 10 || 0).toFixed(1)},${(Math.round(lon * 10) / 10 || 0).toFixed(1)}`
+    cellCounts.set(key, (cellCounts.get(key) ?? 0) + n)
   }
+  for (const [lat, lon, weight] of CITIES) {
+    addCell(lat, lon, k(weight * (0.6 + r() * 0.8)))
+    for (let i = 0; i < 4 + weight; i++) addCell(lat + (r() - 0.5) * (r() < 0.6 ? 1.4 : 9), lon + (r() - 0.5) * (r() < 0.6 ? 1.8 : 12), 1 + Math.floor(r() ** 3 * 4 * scale))
+  }
+  for (let i = 0; i < 24; i++) addCell(r() * 120 - 50, r() * 340 - 170, 1)
+  const cells = [...cellCounts].sort((a, b) => b[1] - a[1])
   const funnel = { search: Math.round(sessions * 0.78), results: Math.round(sessions * 0.74), pass_open: Math.round(sessions * 0.41), lightbox_open: Math.round(sessions * 0.22), share_open: Math.round(shares * 1.2), share_action: Math.round(shares * 0.85) }
   const minsAgo = (m: number) => now - m * 60e3
   const weights = BROWSER_LANGS.reduce((a, l) => a + l[1], 0)

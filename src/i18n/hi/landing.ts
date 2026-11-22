@@ -48,6 +48,8 @@ const landing: typeof en = {
     `धरती की कोई भी जगह खोजें। पिछले ${f.int(days)}\u00a0${pl(days, 'दिन', 'दिनों')} में उसके ऊपर से गुज़रे सभी उपग्रह देखें, और उनकी ली हुई असली तस्वीरें भी।`,
   ],
   builtBy: (handle: string) => `${handle} ने बनाया`,
+  sourceLink: 'ओपन सोर्स',
+  sourceLinkLabel: 'ओपन सोर्स: GitHub पर प्रोजेक्ट का कोड',
 
   // ── The place search ──
   searchPlaceholder: 'कोई जगह खोजें',

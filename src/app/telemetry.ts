@@ -9,7 +9,7 @@
  * The share sheet reports its own open and actions (one-line `track` calls in src/ui/share/ShareSheet.tsx),
  * because its desktop dialog doesn't set the overlay attribute.
  *
- * Loaded by src/main.tsx after first paint (idle), like Vercel Analytics. Everything that leaves the browser
+ * Loaded by src/main.tsx after first paint (idle). Everything that leaves the browser
  * is coarsened in src/lib/telemetry.ts (city-level labels, 0.1° cells, no URLs or coordinates in messages).
  */
 import type { AppState } from '@/state/store'

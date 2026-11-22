@@ -462,6 +462,7 @@ The ladder reads image > covered > maybe > passed, in titles and lanes alike.
 | Or try / Or click the globe to drop a pin / Drop a pin | *Atau coba* / *Atau klik bola dunia untuk menaruh pin* / *Taruh pin* |
 | Surprise me / Surprise me: a famous place picked at random | *Pilih acak* / *Pilih acak: satu tempat terkenal, dipilihkan untukmu* (never *acak* twice) |
 | Built by @armaangupt0 | *Dibuat oleh @armaangupt0* |
+| Open source / Open source: the code on GitHub | *Sumber terbuka* / *Sumber terbuka: kodenya di GitHub* |
 
 **Results, notes and faults**
 

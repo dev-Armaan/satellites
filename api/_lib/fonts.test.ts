@@ -201,15 +201,13 @@ describe('card fonts', () => {
     }
   })
 
-  it('is registered for the Worker, and shipped with the Vercel function, file for file', async () => {
+  it('is registered for the Worker, file for file', async () => {
     const worker = await readFile(new URL('../../worker/index.ts', import.meta.url), 'utf8')
     for (const file of FONT_FILES) {
       expect((await fontFile(file)).byteLength).toBeGreaterThan(1000)
       expect(worker).toContain(`from '../api/_fonts/${file}'`)
       expect(worker).toMatch(new RegExp(`'_fonts/${file.replace(/\./g, '\\.')}': \\w+,`))
     }
-    const vercel = JSON.parse(await readFile(new URL('../../vercel.json', import.meta.url), 'utf8')) as { functions: Record<string, { includeFiles?: string }> }
-    expect(vercel.functions['api/og.tsx'].includeFiles).toContain('api/_fonts/**')
   })
 })
 

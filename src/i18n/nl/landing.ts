@@ -52,6 +52,8 @@ const landing: typeof en = {
     `Kies een plek op aarde. Je ziet welke satellieten er de afgelopen ${span(days)} overheen vlogen, en de echte beelden die ze maakten.`,
   ],
   builtBy: (handle: string) => `Gemaakt door ${handle}`,
+  sourceLink: 'Open source',
+  sourceLinkLabel: 'Open source: de code op GitHub',
 
   // ── The place search ──────────────────────────────────────────────────────────────────────
   searchPlaceholder: 'Zoek een plek',

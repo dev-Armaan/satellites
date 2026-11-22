@@ -2,22 +2,26 @@
 <html lang="en" data-boot>
   <head>
     <meta charset="UTF-8" />
-    <script>
-      // The old launch host forwards to www.watched.earth, keeping the path, query and hash (share links, deep links).
-      if (location.hostname === 'overflight-psi.vercel.app') location.replace('https://www.watched.earth' + location.pathname + location.search + location.hash)
-    </script>
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <meta name="theme-color" content="#07080A" />
     <!-- The build's version, read by src/lib/telemetry.ts. Here and not in a script, so a deploy that changes no code renames no file. -->
     <meta name="app-version" content="__APP_VERSION__" />
-    <title>Watched · Something watched you this week</title>
-    <meta name="description" content="Enter any place on Earth. See every satellite that passed over it this week, and the actual pictures they took." />
+    <!--
+      What search engines and link previews read. The landing's own, written by src/seo/pages.ts headTags (a test keeps
+      this copy equal to it); the build replaces everything between the markers on each place page (scripts/build-seo.ts).
+    -->
+    <!-- seo:head -->
+    <title>Watched · See every satellite that passed over you this week</title>
+    <meta name="description" content="Enter any place on Earth. See every satellite that passed over it in the last 7 days, and the actual pictures they took. Free, no sign-up." />
+    <link rel="canonical" href="__SITE_ORIGIN__/" />
+    <meta name="robots" content="max-image-preview:large" />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Watched" />
     <meta property="og:title" content="Something watched you this week." />
     <meta property="og:description" content="Enter any place on Earth. See every satellite that passed over it this week, and the actual pictures they took." />
     <meta property="og:url" content="__SITE_ORIGIN__/" />
     <meta property="og:image" content="__SITE_ORIGIN__/og-default.png" />
+    <meta property="og:image:type" content="image/png" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta property="og:image:alt" content="A real Sentinel-2 satellite photograph of Palm Jumeirah, Dubai, beside the line: Something watched you this week. Enter any place on Earth." />
@@ -26,6 +30,8 @@
     <meta name="twitter:description" content="Enter any place on Earth. See every satellite that passed over it this week, and the actual pictures they took." />
     <meta name="twitter:image" content="__SITE_ORIGIN__/og-default.png" />
     <meta name="twitter:image:alt" content="A real Sentinel-2 satellite photograph of Palm Jumeirah, Dubai, beside the line: Something watched you this week. Enter any place on Earth." />
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"__SITE_ORIGIN__/#site","url":"__SITE_ORIGIN__/","name":"Watched","description":"Enter any place on Earth. See every satellite that passed over it in the last 7 days, and the actual pictures they took. Free, no sign-up.","inLanguage":"en"},{"@type":"WebApplication","@id":"__SITE_ORIGIN__/#app","name":"Watched","url":"__SITE_ORIGIN__/","description":"Enter any place on Earth. See every satellite that passed over it in the last 7 days, and the actual pictures they took. Free, no sign-up.","applicationCategory":"EducationalApplication","operatingSystem":"Any","browserRequirements":"Requires JavaScript","isAccessibleForFree":true,"offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}]}</script>
+    <!-- /seo:head -->
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     <link rel="preconnect" href="https://planetarycomputer.microsoft.com" crossorigin />
     <link rel="preconnect" href="https://photon.komoot.io" crossorigin />
@@ -125,7 +131,20 @@
       @media (prefers-reduced-motion: reduce) {
         #boot-static .bs-dot { animation: none; }
       }
+      /*
+        The text under the app (the build writes it into #root: src/seo/pages.ts): the page for a reader that runs no
+        JavaScript. With scripts on it is never drawn, so it never counts as the page's first content: React replaces
+        it while this screen is still up.
+      */
+      html[data-boot] #root > .doc { display: none; }
     </style>
+    <!-- Without JavaScript there is no app to wait for: no loading screen, and the text is the page. -->
+    <noscript>
+      <style>
+        #boot-static { display: none; }
+        html[data-boot] #root > .doc { display: block; }
+      </style>
+    </noscript>
   </head>
   <body>
     <div id="boot-static" role="status" aria-label="Loading Watched">
@@ -134,7 +153,6 @@
     </div>
     <!-- boot-text -->
     <div id="root"></div>
-    <noscript><p style="position:relative;z-index:101;font-family:monospace;color:#ece8e0;background:#07080a;padding:24px">Watched needs JavaScript and WebGL to compute satellite passes in your browser.</p></noscript>
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>

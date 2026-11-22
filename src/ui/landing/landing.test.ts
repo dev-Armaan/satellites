@@ -1,4 +1,5 @@
 import { afterEach, describe, expect, it } from 'vitest'
+import { LOCALES } from '../../../api/_lib/i18n/locales'
 import { plain } from '../../../api/_lib/i18n/parts'
 import enLanding from '@/i18n/en/landing'
 import enPlaces from '@/i18n/en/places'
@@ -199,5 +200,16 @@ describe('landing copy', () => {
     expect(windowLabel(t)).toBe('1.–8. Nov. 2026 UTC')
     setBundleForTests('en', null)
     expect(windowLabel(t)).toBe('1 → 8 NOV 2026 UTC')
+  })
+
+  it('names the link to the code by its visible words, then where it goes, in every language', () => {
+    // WCAG 2.5.3 (label in name): a voice user says what they see ("Open source"), so the accessible name starts with it.
+    const catalogs = import.meta.glob<typeof enLanding>('../../i18n/*/landing.ts', { import: 'default', eager: true })
+    expect(Object.keys(catalogs)).toHaveLength(LOCALES.length)
+    for (const [file, c] of Object.entries(catalogs)) {
+      expect(c.sourceLink.trim(), file).not.toBe('')
+      expect(c.sourceLinkLabel.startsWith(c.sourceLink), file).toBe(true)
+      expect(c.sourceLinkLabel, file).toContain('GitHub')
+    }
   })
 })

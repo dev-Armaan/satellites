@@ -14,6 +14,11 @@
  *    into the same container: it plays in Chrome and Firefox, not on Apple devices, and the caller is told
  *    (`codec`) so it never claims otherwise. With no usable encoder at all, `canExportVideo` says so and the
  *    button is not offered.
+ *  - Taking a setting is not the same as making chunks the file can hold: some desktop encoders reorder frames
+ *    (B-frames) at High profile, and the muxer refuses chunks whose times go backwards. On 2026-11-21 that ended 2 of
+ *    the 7 exports in two hours with errors and no video. So a refused codec is dropped for the tab and the export
+ *    starts again on the next (`encodeFirstThatFits`); Constrained Baseline H.264 has no B-frames, so it still plays
+ *    everywhere.
  *  - The video says what it is on its own, away from the site: the year large, the frame's date and satellite, the
  *    place, the wordmark and the Copernicus credit, each on the same ink chip the player uses. Square, because the
  *    pictures are and every feed takes it.
@@ -58,7 +63,7 @@ function readMono() {
 
 type MuxCodec = 'avc' | 'vp9' | 'av1'
 /** Encoder settings to try, best supported first: H.264 High, Main and Baseline at level 4, then VP9, then AV1. */
-const CODECS: { codec: string; mux: MuxCodec }[] = [
+export const CODECS: readonly { codec: string; mux: MuxCodec }[] = [
   { codec: 'avc1.640028', mux: 'avc' },
   { codec: 'avc1.4d0028', mux: 'avc' },
   { codec: 'avc1.42e028', mux: 'avc' },
@@ -157,16 +162,116 @@ export function fitText(s: string, fits: (s: string) => boolean): string {
   return out
 }
 
-async function chooseCodec(side: number, bitrate: number): Promise<{ config: VideoEncoderConfig; mux: MuxCodec } | undefined> {
+export interface Chosen {
+  config: VideoEncoderConfig
+  mux: MuxCodec
+}
+
+/** The codecs whose chunks the file could not hold in this tab (`Unmuxable`): later exports start past them. */
+const REFUSED = new Set<string>()
+
+/** Every setting this browser's encoder takes, best first, less the ones already refused in this tab. */
+async function supportedCodecs(side: number, bitrate: number): Promise<Chosen[]> {
+  const out: Chosen[] = []
   for (const c of CODECS) {
+    if (REFUSED.has(c.codec)) continue
     const config: VideoEncoderConfig = { codec: c.codec, width: side, height: side, bitrate, framerate: VIDEO_FPS, latencyMode: 'quality', ...(c.mux === 'avc' ? { avc: { format: 'avc' as const } } : {}) }
     try {
-      if ((await VideoEncoder.isConfigSupported(config)).supported) return { config, mux: c.mux }
+      if ((await VideoEncoder.isConfigSupported(config)).supported) out.push({ config, mux: c.mux })
     } catch {
       /* this one is not known here: the next */
     }
   }
-  return undefined
+  return out
+}
+
+/**
+ * The file could not take this encoder's chunks: they came out of order (B-frames: the encoder hands frames over in
+ * decode order and WebCodecs gives only their presentation times, which then go backwards) or not starting at the
+ * loop's start. Another codec can do: the next one is tried.
+ */
+export class Unmuxable extends Error {
+  override name = 'Unmuxable'
+}
+
+const reason = (e: unknown) => (e instanceof Error ? e.message : String(e))
+
+/**
+ * `count` frames, each drawn by `frameAt` (which returns what to encode), as one MP4 with one codec. The muxer is fed
+ * from the encoder's output callback, so what it throws there is kept (an error thrown in that callback would be the
+ * page's, uncaught, and the export would go on to finalize a broken file) and ends the encode as `Unmuxable`.
+ */
+async function encodeWith(chosen: Chosen, count: number, frameAt: (n: number) => CanvasImageSource, opts: { signal?: AbortSignal; onProgress?: (done: number) => void }): Promise<ArrayBuffer> {
+  const { width = 2, height = 2 } = chosen.config
+  // 'offset': an encoder that starts its timestamps past zero (as one did, 2026-11-21) still makes a whole file; one
+  // whose chunks go backwards is still refused.
+  const muxer = new Muxer({ target: new ArrayBufferTarget(), video: { codec: chosen.mux, width, height, frameRate: VIDEO_FPS }, fastStart: 'in-memory', firstTimestampBehavior: 'offset' })
+  let failed: unknown
+  const encoder = new VideoEncoder({
+    output: (chunk, meta) => {
+      if (failed !== undefined) return
+      try {
+        muxer.addVideoChunk(chunk, meta)
+      } catch (e) {
+        failed = new Unmuxable(`${chosen.config.codec}: ${reason(e)}`)
+      }
+    },
+    error: (e) => (failed ??= e),
+  })
+  encoder.configure(chosen.config)
+
+  const micros = 1_000_000 / VIDEO_FPS
+  try {
+    for (let n = 0; n < count; n++) {
+      if (failed !== undefined) throw failed
+      opts.signal?.throwIfAborted()
+      const vf = new VideoFrame(frameAt(n), { timestamp: Math.round(n * micros), duration: Math.round(micros) })
+      encoder.encode(vf, { keyFrame: n % (VIDEO_FPS * 2) === 0 })
+      vf.close()
+      // Never far ahead of the encoder: wait while it has frames queued (and let the page breathe every few frames).
+      while (encoder.encodeQueueSize > 3) await new Promise((r) => setTimeout(r, 4))
+      if (n % 6 === 5) {
+        opts.onProgress?.((n + 1) / count)
+        await new Promise((r) => setTimeout(r, 0))
+      }
+    }
+    await encoder.flush()
+    if (failed !== undefined) throw failed
+    try {
+      muxer.finalize()
+    } catch (e) {
+      throw new Unmuxable(`${chosen.config.codec}: ${reason(e)}`)
+    }
+  } finally {
+    if (encoder.state !== 'closed') encoder.close()
+  }
+  return muxer.target.buffer
+}
+
+/**
+ * Encode with the first of `candidates` whose chunks the file takes. A refused codec is remembered in `refused` (the
+ * tab's, unless given) and the next is tried from the first frame: the refusal comes within the first few frames, so
+ * that costs a fraction of a second. Any other failure (the encoder's own error, an abort) ends the export as it is.
+ */
+export async function encodeFirstThatFits(
+  candidates: readonly Chosen[],
+  count: number,
+  frameAt: (n: number) => CanvasImageSource,
+  opts: { signal?: AbortSignal; onProgress?: (done: number) => void; refused?: Set<string> } = {},
+): Promise<{ buffer: ArrayBuffer; chosen: Chosen }> {
+  const refused = opts.refused ?? REFUSED
+  let last: unknown = new Error('No video encoder in this browser')
+  for (const chosen of candidates) {
+    try {
+      return { buffer: await encodeWith(chosen, count, frameAt, opts), chosen }
+    } catch (e) {
+      if (!(e instanceof Unmuxable)) throw e
+      refused.add(chosen.config.codec)
+      console.warn(`[video] ${e.message}; trying the next codec`)
+      last = e
+    }
+  }
+  throw last
 }
 
 async function loadImage(src: string): Promise<HTMLImageElement> {
@@ -321,8 +426,8 @@ export interface VideoFile {
 /** Render the loop to an MP4. Rejects when no encoder takes it, when encoding fails, and on abort. */
 export async function renderVideo(frames: readonly Frame[], opts: VideoOptions): Promise<VideoFile> {
   const side = Math.max(2, Math.round(opts.side / 2) * 2)
-  const chosen = canExportVideo() ? await chooseCodec(side, side >= 1000 ? 8_000_000 : 5_000_000) : undefined
-  if (!chosen) throw new Error('No video encoder in this browser')
+  const candidates = canExportVideo() ? await supportedCodecs(side, side >= 1000 ? 8_000_000 : 5_000_000) : []
+  if (!candidates.length) throw new Error('No video encoder in this browser')
 
   // The words, in the visitor's language and in capitals by its rules (a canvas has no CSS text-transform).
   const m = opts.words
@@ -366,49 +471,24 @@ export async function renderVideo(frames: readonly Frame[], opts: VideoOptions):
     wordmark: new Path2D(WORDMARK_PATH),
   }
 
-  const muxer = new Muxer({ target: new ArrayBufferTarget(), video: { codec: chosen.mux, width: side, height: side, frameRate: VIDEO_FPS }, fastStart: 'in-memory' })
-  let failed: unknown
-  const encoder = new VideoEncoder({
-    output: (chunk, meta) => muxer.addVideoChunk(chunk, meta),
-    error: (e) => (failed = e),
-  })
-  encoder.configure(chosen.config)
-
   const { steps } = planVideo(frames.length)
-  const micros = 1_000_000 / VIDEO_FPS
-  try {
-    for (let n = 0; n < steps.length; n++) {
-      if (failed) throw failed
-      opts.signal?.throwIfAborted()
-      const st = steps[n]
+  const frameAt = (n: number) => {
+    const st = steps[n]
+    ctx.globalAlpha = 1
+    ctx.fillStyle = INK
+    ctx.fillRect(0, 0, side, side)
+    ctx.drawImage(images[st.base], 0, 0, side, side)
+    if (st.over !== undefined) {
+      ctx.globalAlpha = st.alpha
+      ctx.drawImage(images[st.over], 0, 0, side, side)
       ctx.globalAlpha = 1
-      ctx.fillStyle = INK
-      ctx.fillRect(0, 0, side, side)
-      ctx.drawImage(images[st.base], 0, 0, side, side)
-      if (st.over !== undefined) {
-        ctx.globalAlpha = st.alpha
-        ctx.drawImage(images[st.over], 0, 0, side, side)
-        ctx.globalAlpha = 1
-      }
-      // The readout changes with the picture: the incoming frame's once it is more than half in.
-      const k = st.over !== undefined && st.alpha >= 0.5 ? st.over : st.base
-      drawChrome(art, frames[k], subs[k])
-      const vf = new VideoFrame(canvas, { timestamp: Math.round(n * micros), duration: Math.round(micros) })
-      encoder.encode(vf, { keyFrame: n % (VIDEO_FPS * 2) === 0 })
-      vf.close()
-      // Never far ahead of the encoder: wait while it has frames queued (and let the page breathe every few frames).
-      while (encoder.encodeQueueSize > 3) await new Promise((r) => setTimeout(r, 4))
-      if (n % 6 === 5) {
-        opts.onProgress?.((n + 1) / steps.length)
-        await new Promise((r) => setTimeout(r, 0))
-      }
     }
-    await encoder.flush()
-    if (failed) throw failed
-    muxer.finalize()
-  } finally {
-    if (encoder.state !== 'closed') encoder.close()
+    // The readout changes with the picture: the incoming frame's once it is more than half in.
+    const k = st.over !== undefined && st.alpha >= 0.5 ? st.over : st.base
+    drawChrome(art, frames[k], subs[k])
+    return canvas
   }
+  const { buffer, chosen } = await encodeFirstThatFits(candidates, steps.length, frameAt, opts)
   opts.onProgress?.(1)
-  return { blob: new Blob([muxer.target.buffer], { type: 'video/mp4' }), codec: chosen.mux, seconds: steps.length / VIDEO_FPS }
+  return { blob: new Blob([buffer], { type: 'video/mp4' }), codec: chosen.mux, seconds: steps.length / VIDEO_FPS }
 }

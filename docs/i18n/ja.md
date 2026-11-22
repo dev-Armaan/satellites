@@ -515,6 +515,7 @@ Translators copy these patterns; strings not listed follow the same rules.
 |---|---|
 | `lastDays` / `windowRange` | 過去7日間 / 2026/11/12 → 11/19 UTC (across months 2026/10/29 → 11/5 UTC; across years 2026/12/29 → 2027/1/5 UTC) |
 | `builtBy` | 制作 @armaangupt0 |
+| `sourceLink` / `sourceLinkLabel` | オープンソース / オープンソース：GitHubのコード |
 | `searchPlaceholder` / `placeLabel` | 場所を検索 / 場所 (01 / 場所) |
 | statuses | 検索中 · 検索不可 · 3件 · 該当なし · 地名、住所、緯度, 経度 |
 | `clearSearch` / `go` / `suggestions` | 検索をクリア / この場所の上空を通ったものを表示 / 場所 |

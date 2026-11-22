@@ -14,12 +14,14 @@ import { ns } from '../ns'
 
 export default ns('app', {
   /**
-   * The browser tab's title (also history and bookmarks): the brand, a middle dot, then the landing's hero line without
-   * its full stop. Tabs cut it after ~25–30 characters, so the brand comes first. "Watched" is the brand: never
-   * translated. index.html carries the English one (crawlers and link previews read that); the app sets this one once
-   * the page is in another language.
+   * The landing's title in the browser tab (also history, bookmarks and, in English, the search result): the brand, a
+   * middle dot, then one line. Tabs cut it after ~25–30 characters, so the brand comes first. "Watched" is the brand:
+   * never translated. The English line says what the site does, in the words people search with ("satellite"): it is
+   * index.html's own title, word for word (crawlers and link previews read that; src/lib/placePage.ts HOME_TITLE).
+   * Every other language keeps the landing's hero line without its full stop. src/app/head.ts sets it, and a place's
+   * title while one is on screen.
    */
-  documentTitle: 'Watched · Something watched you this week',
+  documentTitle: 'Watched · See every satellite that passed over you this week',
 
   /**
    * The fault notice (a search or the orbit catalog failed): a card over the globe, bottom left (420 px wide; full

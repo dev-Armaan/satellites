@@ -6,7 +6,7 @@ import { mockLive, mockStats } from './fixture'
 import { browserLangReach, browserLanguageName, fmtBucket, fmtPct, funnelShares, languageName, niceMax, SOURCE_NAMES, translationFor, type FunnelStage } from './format'
 import { LOCALE_INFO, LOCALES } from '../../api/_lib/i18n/locales'
 import { liveSeries } from './live'
-import { dotRadius, GRID_STEP, legendCounts, placeGrid } from './placeGrid'
+import { BAND, DUST_BELOW, cellKey, dustCount, fmtLatLon, fmtShort, keyCounts, maxCircles, nameSpots, placeMap, placeTags, spotRadius, type Found } from './placeMap'
 
 describe('admin_stats parsing', () => {
   it('accepts the fixture for every range', () => {
@@ -290,31 +290,93 @@ describe('activity chart with the live counts (0025)', () => {
   })
 })
 
-describe('places map grid', () => {
-  it('gathers cells into grid squares, largest first, and skips junk', () => {
-    const g = placeGrid([['37.2,-115.8', 10], ['37.4,-115.1', 5], ['51.5,-0.1', 40], ['nope', 3], ['95.0,10.0', 2], ['10.0,10.0', 0]])
-    expect(g.cells).toBe(3)
-    expect(g.dots.map((d) => d.n)).toEqual([40, 15])
-    expect(g.max).toBe(40)
-    // 51.5°N 0.1°W sits in the square 50–52.5°N, 2.5–0°W
-    expect(g.dots[0]).toMatchObject({ x: 178.75, y: 38.75 })
+describe('places map', () => {
+  it('gathers the cells of one place into a spot on its busiest cell, largest first, and skips junk', () => {
+    const m = placeMap([['40.7,-74.0', 60], ['40.8,-74.0', 170], ['40.9,-73.8', 5], ['51.5,-0.1', 40], ['nope', 3], ['95.0,10.0', 2], ['10.0,10.0', 0]])
+    expect(m.cells).toBe(4)
+    expect(m.searches).toBe(275)
+    expect(m.spots).toMatchObject([{ lat: 40.8, lon: -74.0, n: 235, cells: 3 }, { lat: 51.5, lon: -0.1, n: 40, cells: 1 }])
+    expect(m.max).toBe(235)
+    // every cell knows its spot, however its key was written
+    expect([m.at.get('40.7,-74.0'), m.at.get(cellKey(40.9, -73.8)), m.at.get(cellKey(51.5, -0.1))]).toEqual([0, 0, 1])
   })
-  it('keeps the poles and the date line inside the map', () => {
-    const g = placeGrid([['-90.0,180.0', 1], ['90.0,-180.0', 1]])
-    expect(g.dots).toHaveLength(2)
-    for (const d of g.dots) {
-      expect(d.x).toBeGreaterThan(0)
-      expect(d.x).toBeLessThan(360)
+  it('keeps places further apart than the reach apart, and orders spots by what they gathered', () => {
+    // 0.6° from the busier cell: its own spot, which then outgrows it
+    const m = placeMap([['10.0,10.0', 50], ['10.0,10.6', 40], ['10.0,10.9', 30]])
+    expect(m.spots.map((s) => [s.lon, s.n])).toEqual([[10.6, 70], [10.0, 50]])
+    expect(m.at.get('10.0,10.9')).toBe(0)
+    // across the date line the two sides are neighbours
+    expect(placeMap([['-17.0,180.0', 5], ['-17.0,-179.8', 3]]).spots).toHaveLength(1)
+  })
+  it('shows the inhabited band, and more only where there are searches', () => {
+    expect(placeMap(undefined)).toMatchObject({ spots: [], max: 1, north: BAND.north, south: BAND.south })
+    expect(placeMap([['51.5,-0.1', 1]])).toMatchObject({ north: BAND.north, south: BAND.south })
+    expect(placeMap([['-77.8,166.7', 1], ['90.0,0.0', 1]])).toMatchObject({ north: 90, south: -81.8 })
+  })
+  it('sizes a circle by area, and calls dust what is too small or too many', () => {
+    expect(spotRadius(40_000, 40_000, 20)).toBeCloseTo(20)
+    expect(spotRadius(10_000, 40_000, 20)).toBeCloseTo(10)
+    const spots = [900, 400, 100, 30, 30, 2].map((n) => ({ lat: 0, lon: 0, n, cells: 1 }))
+    // by size: 900 · (2.2 / 20)² = 10.9, so 10 and fewer are under DUST_BELOW
+    expect(dustCount(spots, 900, 20)).toBe(10)
+    expect(spotRadius(11, 900, 20)).toBeGreaterThanOrEqual(DUST_BELOW)
+    expect(spotRadius(10, 900, 20)).toBeLessThan(DUST_BELOW)
+    // by number: room for three circles, so the fourth spot's count and under is dust (ties with it too)
+    expect(dustCount(spots, 900, 20, 3)).toBe(30)
+    expect(dustCount([], 1, 20)).toBe(0)
+    expect(maxCircles(840)).toBe(120)
+  })
+  it('draws the key in round counts that are circles, not dust', () => {
+    expect(keyCounts(38_664, 28)).toEqual([20_000, 2000])
+    expect(keyCounts(38_664, 28, 2500)).toEqual([20_000])
+    expect(keyCounts(239, 18)).toEqual([200, 20])
+    // a range's first minutes: one search is a small circle, not the largest there is
+    expect(spotRadius(1, 1, 20)).toBeCloseTo(5)
+    expect(keyCounts(1, 18)).toEqual([1])
+    expect(fmtShort(950)).toBe('950')
+    expect(fmtShort(1200)).toBe('1.2K')
+    expect(fmtShort(20_000)).toBe('20K')
+    expect(fmtShort(1_139_538)).toBe('1.1M')
+    expect(fmtLatLon(37.2, -115.8)).toBe('37.2°N 115.8°W')
+    expect(fmtLatLon(-33.9, 151.2)).toBe('33.9°S 151.2°E')
+    expect(fmtLatLon(0, 0)).toBe('0.0° 0.0°')
+  })
+  it('names a spot after the top place found in it', () => {
+    const m = placeMap([['38.9,-77.0', 500], ['47.5,-120.5', 8], ['40.8,-74.0', 300], ['40.7,-74.0', 90], ['48.9,2.3', 50]])
+    const found: Record<string, Found[]> = {
+      // the state's middle comes first in the list; the capital has the searches
+      Washington: [{ lat: 47.5, lon: -120.5, exact: true }, { lat: 38.9, lon: -77.04, exact: true }],
+      'Central Park': [{ lat: 40.78, lon: -73.97, exact: true }],
+      // a longer name that starts with the query is not the place
+      Paris: [{ lat: 48.86, lon: 2.35 }],
+      Atlantis: [],
     }
-    expect([g.top, g.bottom]).toEqual([0, 180])
-    expect(placeGrid(undefined)).toMatchObject({ dots: [], max: 1, top: 10, bottom: 150 })
+    const names = nameSpots(m, [['Washington, United States', 9], ['Central Park, New York, United States', 8], ['New York City, New York', 7], ['Paris, France', 6], ['Atlantis', 5], ['', 4]], (n) => found[n])
+    expect([...names]).toEqual([[0, 'Washington'], [1, 'Central Park']])
   })
-  it('sizes dots on a log scale that never overflows a square', () => {
-    expect(dotRadius(13654, 13654)).toBeCloseTo(GRID_STEP / 2)
-    expect(dotRadius(1, 13654)).toBeGreaterThan(GRID_STEP * 0.12)
-    expect(dotRadius(100, 13654)).toBeGreaterThan(dotRadius(10, 13654))
-    expect(dotRadius(1, 1)).toBeCloseTo(GRID_STEP / 2)
-    expect(legendCounts(13654)).toEqual([1, 100, 13654])
-    expect(legendCounts(2)).toEqual([2])
+  it('puts a tag beside its circle, or where there is room, or nowhere', () => {
+    const frame = { x: 0, y: 0, w: 400, h: 200 }
+    const one = { spot: 0, cx: 100, cy: 100, r: 10, w: 60 }
+    expect(placeTags([one], [], frame)[0]).toMatchObject({ x: 115, y: 94, w: 60, h: 12, leader: undefined })
+    // something to the right: the left side
+    expect(placeTags([one], [{ x: 120, y: 90, w: 20, h: 20 }], frame)[0]).toMatchObject({ x: 25 })
+    // its own circle is not in its way
+    expect(placeTags([{ ...one, own: 0 }], [{ x: 90, y: 90, w: 20, h: 20 }], frame)[0]).toMatchObject({ x: 115 })
+    // against the right edge, with the left taken: above
+    expect(placeTags([{ ...one, cx: 360 }], [{ x: 280, y: 90, w: 60, h: 20 }], frame)[0]).toMatchObject({ x: 330, y: 73 })
+    // a later tag never takes an earlier one's place
+    const two = placeTags([one, { ...one, spot: 1, cx: 104 }], [], frame)
+    expect(two.map((t) => t.spot)).toEqual([0, 1])
+    expect(two[1].x + two[1].w).toBeLessThanOrEqual(two[0].x)
+    // boxed in on every side: further out, on a leader
+    const walls = [{ x: 112, y: 94, w: 20, h: 12 }, { x: 68, y: 94, w: 20, h: 12 }, { x: 70, y: 70, w: 60, h: 14 }, { x: 70, y: 116, w: 60, h: 14 }]
+    expect(placeTags([one], walls, frame)[0].leader).toBeDefined()
+    // no room at all
+    expect(placeTags([one], [{ x: 0, y: 0, w: 400, h: 200 }], frame)).toEqual([])
+  })
+  it('is in the fixture: a few places far ahead and a long tail', () => {
+    const m = placeMap(mockStats('7d').top['search.cell'])
+    expect(m.spots.length).toBeGreaterThan(200)
+    expect(m.spots[0].n).toBeGreaterThan(20 * m.spots[Math.floor(m.spots.length / 2)].n)
   })
 })

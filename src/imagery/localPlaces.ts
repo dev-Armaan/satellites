@@ -4,7 +4,7 @@
  *
  * It is split so nobody downloads the whole list: a search fetches the one file for its first letters (two, or more
  * where the group is large; at most 800 places, ~1–20 kB compressed), a pin the one 5° tile under it (plus a neighbour near an edge). Files sit under a versioned path that
- * vercel.json caches as immutable, so a returning visitor fetches nothing, and the generated manifest
+ * public/_headers caches as immutable, so a returning visitor fetches nothing, and the generated manifest
  * (localPlaces.gen.ts, ~1.5 kB) says which groups exist and which are split, so a request for a file that doesn't
  * exist is rare (a typo) and its 404 is remembered. Each file is fetched once per
  * page and kept in memory (a small LRU), shared by every caller: an abort only stops that caller waiting.

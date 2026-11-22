@@ -549,6 +549,7 @@ Where a wrong guess is likely, these are the Dutch strings. Every other key foll
 | `orTry` / `pinHint` / `dropPin` | `Of probeer` / `Of klik op de wereldbol voor een speld` / `Speld neerzetten` |
 | `examplesLabel` / `surprise` / `surpriseName` | `Voorbeeldplekken` / `Verras me` / `Verras me: een bekende plek, willekeurig gekozen` |
 | `builtBy` | `Gemaakt door @armaangupt0` (`Gebouwd door` is a calque) |
+| `sourceLink` / `sourceLinkLabel` | `Open source` / `Open source: de code op GitHub` |
 
 **Results, pass list and pass view**
 

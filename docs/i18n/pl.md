@@ -794,6 +794,7 @@ the season and nothing else (§8).
 | `about.credits.madeBy` | who *Autor* · text *Armaan, @armaangupt0 na X* |
 | `about.credits.placeNames` | *Photon od komoot. Dane mapy © autorzy OpenStreetMap (ODbL).* (OpenStreetMap's own Polish attribution) |
 | `about.builtBy`, `landing.builtBy` | `['Autor: ', link(handle)]` |
+| `landing.sourceLink` / `sourceLinkLabel` | *Kod źródłowy* / *Kod źródłowy w serwisie GitHub* (native, and no case for *GitHub* to take) |
 | `about.footerNote` | *Zbudowane z publicznych danych. Żadne z tych zdjęć nie jest nasze.* |
 | `about.keyNames` | *Enter* · *Spacja* · *Esc* |
 | `switcher` | title *Język* · trigger *Język: Polski. Zmień* |

@@ -3,7 +3,7 @@
  *
  * satori consumes React-element-shaped objects ({ type, props, key }); it never needs React's
  * runtime. Building them directly keeps the function bundle small and lets api/ compile without a
- * JSX setting in tsconfig.node.json (which `tsc -b` uses in the Vercel build).
+ * JSX setting in tsconfig.node.json (which `tsc -b` uses in the build).
  */
 import type { CSSProperties, ReactElement } from 'react'
 

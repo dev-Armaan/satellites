@@ -349,7 +349,7 @@ export function shareCard({ spec, image }: ShareCardInput): ReactElement {
 /**
  * The real photograph on the root card: Sentinel-2C over Palm Jumeirah, Dubai, 3 Nov 2026 (0.2 %
  * cloud), a 6.3 km square at 10 m per pixel from Planetary Computer (item below). Bundled with the
- * function (vercel.json includeFiles) so the card never waits on an archive.
+ * Worker (worker/index.ts) so the card never waits on an archive.
  */
 export const DEFAULT_PLATE = {
   file: 'og-default-plate.jpg',

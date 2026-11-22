@@ -1,30 +1,33 @@
 /**
- * The Worker's routes: vercel.json's `routes` written as code, so www.watched.earth answers the same from either
- * host while both run.
+ * The Worker's routes: which request goes where on www.watched.earth.
  *
- * wrangler.jsonc runs this for `/`, `/s/*` and `/api/*`, and for any request no static file matches; every other
- * file is served by Cloudflare without running it. In order, as on Vercel:
+ * wrangler.jsonc runs this for `/`, `/s/*`, `/api/*` and the place pages, and for any request no static file
+ * matches; every other file is served by Cloudflare without running it. In order:
  *   - `/?q=…` from a link unfurler → that place's share page (api/s.ts); people get the app;
  *   - `/s/<id>` → the stored share's page; `/api/og`, `/api/s`, `/api/e`, `/api/pan`, `/api/geo` and
  *     `/api/geo-frames` → their handlers;
+ *   - `/place` and `/place/<slug>` → the static page the build wrote (scripts/build-seo.ts); a place with no page
+ *     → the app, as a 404;
  *   - a path with no dot outside `/api/` and `/s/` → the app's index.html, which routes it itself;
  *   - anything else → 404.
  * Cards, share pages, pan crops and the Meteosat cuts and frame list are kept in Cloudflare's cache when they say
- * `s-maxage`, as Vercel's CDN kept them: Cloudflare caches nothing a Worker builds unless the Worker stores it (`cached`). Static files get their
- * headers from public/_headers, which does not reach responses built here, so this adds the same security headers. Every host outside PRODUCTION_HOSTS (the staging copy, branch previews) is marked
- * noindex, so search engines only ever index the real site.
+ * `s-maxage`: Cloudflare caches nothing a Worker builds unless the Worker stores it (`cached`). Static files get
+ * their headers from public/_headers, which does not reach responses built here, so this adds the same security
+ * headers. Every host outside PRODUCTION_HOSTS (the staging copy, branch previews) is marked noindex, so search
+ * engines only ever index the real site.
  *
  * The handlers and the static files are passed in, which keeps this module free of the bundled fonts and
  * WebAssembly, so worker/router.test.ts can run it under Node.
  */
 import { isProductionHost } from '../api/_lib/env.js'
+import { isPlacePath } from '../src/lib/placePage.ts'
 
-/** Link unfurlers, exactly as vercel.json's `has` matches them on an address-bar link (the test keeps them equal). */
+/** Link unfurlers: the fetchers that read a pasted link's Open Graph tags, by user agent. */
 export const UNFURLER_UA =
   '.*(Twitterbot|facebookexternalhit|Facebot|Slackbot|Discordbot|LinkedInBot|WhatsApp|TelegramBot|Applebot|redditbot|Bluesky|Mastodon|SkypeUriPreview|Embedly|Pinterestbot|vkShare).*'
 const UNFURLER = new RegExp(`^${UNFURLER_UA}$`)
 
-/** vercel.json's headers for every path, plus the HSTS header Vercel adds to its custom domains on its own. */
+/** The headers every response carries: public/_headers' `/*` rule (worker/headers.test.ts keeps the two equal). */
 export const SECURITY_HEADERS: Readonly<Record<string, string>> = {
   'X-Content-Type-Options': 'nosniff',
   'Referrer-Policy': 'strict-origin-when-cross-origin',
@@ -32,7 +35,7 @@ export const SECURITY_HEADERS: Readonly<Record<string, string>> = {
   'Strict-Transport-Security': 'max-age=63072000',
 }
 
-/** vercel.json's last route: app paths have no dot and are not under /api/ or /s/. */
+/** App paths have no dot and are not under /api/ or /s/. */
 const APP_PATH = /^\/(?!api\/|s\/)[^.]*$/
 const SHARE_PATH = /^\/s\/([^/]+)$/
 
@@ -57,6 +60,12 @@ export interface Routes {
   /** Cloudflare's cache, and the Worker's `ctx.waitUntil` to store into it after answering. None: no caching. */
   cache?: EdgeCache
   waitUntil?: (work: Promise<unknown>) => void
+  /**
+   * The query a card or a pan crop is cached under (`cached`): only what its handler reads, in one order
+   * (api/_lib/share.ts cardCacheQuery, api/_lib/pan.ts panCacheQuery). Null, or no function: the query as it came.
+   */
+  cardKey?: (query: URLSearchParams) => string | null
+  panKey?: (query: URLSearchParams) => string | null
 }
 
 /** The same request at another path on the same host: a rewrite, so the visitor's address does not change. */
@@ -65,7 +74,7 @@ function rewrite(request: Request, url: URL): Request {
 }
 
 /**
- * Whether Vercel's CDN would have kept this response: a 200 or 404 that says `s-maxage` and is not private.
+ * Whether the edge cache keeps this response: a 200 or 404 that says `s-maxage` and is not private.
  * Errors and anything without `s-maxage` (the pan band's 400s, a card's 500) always reach the handler again.
  */
 export function edgeCacheable(res: Response): boolean {
@@ -76,14 +85,25 @@ export function edgeCacheable(res: Response): boolean {
 /**
  * A GET answered from the cache when it holds this URL, else by the handler (then stored, after answering). The key
  * is the URL the handler sees, nothing else: every one of these responses depends on its URL alone.
+ *
+ * For a card and a pan crop the key is narrower still: `keyQuery` gives the part of the query the handler reads.
+ * Keyed on the whole address, `&x=1` (or the same parameters in another order) was a miss, so one address spelled
+ * a thousand ways drew a card a thousand times and asked its archive for the picture each time: EUMETSAT's map
+ * service for a Meteosat frame, CDSE's monthly quota for a pan crop.
+ *
+ * A HEAD is the same question as a GET (some unfurlers ask one first): it is answered from the same entry, by the
+ * handler as a GET when there is none, and it used to go to the handler uncached every time.
  */
-async function cached(request: Request, handler: Handler, routes: Routes): Promise<Response> {
+async function cached(request: Request, handler: Handler, routes: Routes, keyQuery?: (query: URLSearchParams) => string | null): Promise<Response> {
   const cache = routes.cache
-  if (!cache || request.method !== 'GET') return handler(request)
-  const key = new Request(request.url)
+  const head = request.method === 'HEAD'
+  if (!cache || (request.method !== 'GET' && !head)) return handler(request)
+  const url = new URL(request.url)
+  const query = keyQuery?.(url.searchParams) ?? null
+  const key = new Request(query === null ? request.url : `${url.origin}${url.pathname}${query ? `?${query}` : ''}`)
   const hit = await cache.match(key)
   if (hit) return hit
-  const res = await handler(request)
+  const res = await handler(head ? new Request(request.url, { method: 'GET', headers: request.headers }) : request)
   if (edgeCacheable(res)) {
     const store = cache.put(key, res.clone()).catch((err: unknown) => console.error('[worker] cache put failed', err))
     if (routes.waitUntil) routes.waitUntil(store)
@@ -93,7 +113,7 @@ async function cached(request: Request, handler: Handler, routes: Routes): Promi
 }
 
 /**
- * Vercel applies a path's header rules to its 404 as well. That matters for the two versioned directories: a hashed
+ * A missing file's 404 carries its directory's cache rule. That matters for the two versioned directories: a hashed
  * asset or a place-list file that does not exist never will, and the browser remembers so (localPlaces.ts relies on
  * it, for a typed name with no file).
  */
@@ -118,7 +138,7 @@ async function dispatch(request: Request, url: URL, routes: Routes): Promise<Res
   }
   const share = SHARE_PATH.exec(path)
   if (share) {
-    // Vercel keeps the visitor's query string on a rewrite and adds the destination's.
+    // The visitor's query string is kept on the rewrite, and the share's id added to it.
     const to = new URL('/api/s', url)
     to.search = url.search
     to.searchParams.set('id', share[1])
@@ -126,28 +146,43 @@ async function dispatch(request: Request, url: URL, routes: Routes): Promise<Res
   }
   switch (path) {
     case '/api/og':
-      return cached(request, routes.og, routes)
+      return cached(request, routes.og, routes, routes.cardKey)
     case '/api/s':
       return cached(request, routes.share, routes)
     case '/api/e':
       return routes.events(request)
     case '/api/pan':
-      return cached(request, routes.pan, routes)
+      return cached(request, routes.pan, routes, routes.panKey)
     case '/api/geo':
       return cached(request, routes.geo, routes)
     case '/api/geo-frames':
       return cached(request, routes.geoFrames, routes)
   }
+  if (isPlacePath(path)) return placePage(request, url, routes)
   if (APP_PATH.test(path)) return routes.assets.fetch(rewrite(request, new URL('/', url)))
   return notFound(path)
 }
 
-/** What Vercel sends when a response names no Cache-Control. */
+/**
+ * A place page or the list of them: the file itself (Cloudflare serves `place/<slug>.html` at `/place/<slug>` and
+ * redirects the `.html` and trailing-slash spellings to it). They come through the Worker, though they are static,
+ * so that a preview or the staging copy marks them noindex like everything else it serves.
+ * A place with no page gets the app, which opens on its landing, but as a 404: a visitor with a mistyped or retired
+ * address can still search, and a search engine drops the address instead of filing the landing under it.
+ */
+async function placePage(request: Request, url: URL, routes: Routes): Promise<Response> {
+  const res = await routes.assets.fetch(request)
+  if (res.status !== 404) return res
+  const app = await routes.assets.fetch(rewrite(request, new URL('/', url)))
+  return new Response(app.body, { status: 404, headers: app.headers })
+}
+
+/** What a response that names no Cache-Control is sent with: revalidate every time. */
 const NO_CACHE_CONTROL = 'public, max-age=0, must-revalidate'
 
 /**
- * A handler's Cache-Control as the browser gets it from Vercel: its CDN keeps `s-maxage` and
- * `stale-while-revalidate` for itself and removes them, so a browser never serves a card or share page stale.
+ * A handler's Cache-Control as the browser gets it: `s-maxage` and `stale-while-revalidate` are the edge cache's
+ * and are removed on the way out, so a browser never serves a card or share page stale.
  * The cache (above) still sees the full header.
  */
 export function browserCacheControl(cc: string | null): string {
@@ -169,8 +204,9 @@ export async function route(request: Request, routes: Routes): Promise<Response>
     },
   }
   const res = await dispatch(request, url, { ...routes, assets: files })
-  const out = new Response(res.body, res) // static-file responses have immutable headers
-  // Static files keep their headers (public/_headers), as on Vercel; everything built here gets Vercel's.
+  // static-file responses have immutable headers; a HEAD's answer (a card drawn or found for it) goes without its body
+  const out = new Response(request.method === 'HEAD' ? null : res.body, res)
+  // Static files keep their headers (public/_headers); everything built here gets the browser's form of its own.
   if (!fromFiles.has(res)) out.headers.set('Cache-Control', browserCacheControl(res.headers.get('cache-control')))
   for (const [name, value] of Object.entries(SECURITY_HEADERS)) if (!out.headers.has(name)) out.headers.set(name, value)
   if (!isProductionHost(url.hostname)) out.headers.set('X-Robots-Tag', 'noindex')

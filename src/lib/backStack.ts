@@ -21,13 +21,14 @@
  *    landing is read by its depth).
  * Layers stack in their drawn order (results < pass < search < lightbox < share < about), not in the order they opened:
  * a pass a share link selects while About is up goes under About, so Back closes what is on top.
- * A deep or share link opens straight onto results: when those results actually open, a landing entry is slipped in
- * under them, so Back from a shared link lands on Watched's landing instead of leaving (not on a reload: the history
- * already has its entries).
+ * A deep or share link, or a place page (src/lib/placePage.ts), opens straight onto results: when those results
+ * actually open, a landing entry is slipped in under them, so Back from a shared link lands on Watched's landing
+ * instead of leaving (not on a reload: the history already has its entries).
  *
  * Pure core (createBackStack) with the browser wiring around it; the rules are unit-tested (backStack.test.ts).
  */
 import { useEffect, useRef } from 'react'
+import { opensOnResults } from './placePage'
 
 export interface HistoryLike {
   pushState(data: unknown, unused: string, url?: string | null): void
@@ -394,7 +395,7 @@ function tabId(): string {
 /** The page's back stack (created on first use; inert outside a browser). */
 export function backStack(): BackStack | null {
   if (instance || typeof window === 'undefined' || typeof history === 'undefined') return instance
-  const deep = location.pathname === '/' && /[?&](q|s)=/.test(location.search)
+  const deep = opensOnResults(location.pathname, location.search)
   const h: HistoryLike = {
     pushState: (d, u, url) => history.pushState(d, u, url),
     replaceState: (d, u, url) => history.replaceState(d, u, url),

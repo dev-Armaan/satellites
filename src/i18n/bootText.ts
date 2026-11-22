@@ -4,7 +4,8 @@
  * screen, so the boot script's choice of language reaches these three strings in the same parse, before first paint.
  *
  * Keep each entry short (the slow line is one centred mono line under the wordmark, uppercase where the script has
- * case). The tab title holds until the app sets its own (Main.tsx useDocumentTitle keeps it in step afterwards).
+ * case). The tab title holds until the app sets its own (src/app/head.ts keeps it in step afterwards); a place page
+ * (/place/<slug>) keeps the title it was built with until then, since this one is the landing's.
  * A locale missing here keeps the English of index.html.
  */
 import type { Locale } from '../../api/_lib/i18n/locales.ts'
@@ -33,12 +34,12 @@ export interface BootText {
   loading: string
   /** the line that appears after 6 s: "Slow connection, still loading" */
   slow: string
-  /** the tab title: "Watched · Something watched you this week" */
+  /** the landing's tab title: the brand, then the hero line ("Watched · Etwas hat dich diese Woche beobachtet") */
   title: string
 }
 
 export const BOOT_TEXT: Partial<Record<Locale, BootText>> = {
-  en: { loading: 'Loading Watched', slow: 'Slow connection, still loading', title: 'Watched · Something watched you this week' },
+  en: { loading: 'Loading Watched', slow: 'Slow connection, still loading', title: 'Watched · See every satellite that passed over you this week' },
   es,
   fr,
   de,

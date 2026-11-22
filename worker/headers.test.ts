@@ -1,50 +1,15 @@
 /**
- * public/_headers gives every static file on Cloudflare the headers vercel.json gives it on Vercel, path for path.
- * Both files are read as their hosts read them: vercel.json's routes up to `handle: filesystem` (anchored patterns,
- * `continue` routes adding headers), and _headers' rules (one `*` splat, matching rules combined).
+ * public/_headers gives every static file its headers, and worker/router.ts gives the same security headers to what
+ * the Worker builds itself (the file does not reach those). The rules are read here as Cloudflare reads them: one `*`
+ * splat a pattern, every matching rule applied, a header named twice joined with a comma.
  */
 import { readFile } from 'node:fs/promises'
 import { describe, expect, it } from 'vitest'
-
-const PATHS = [
-  '/',
-  '/index.html',
-  '/assets/index-abc123.js',
-  '/places/20261112/s/sa.txt',
-  '/textures/earth-day-4k.webp',
-  '/data/catalog.json',
-  '/data/catalog-names.json',
-  '/og-default.png',
-  '/favicon.svg',
-  '/admin',
-  '/admin.html',
-]
+import { SECURITY_HEADERS } from './router.ts'
 
 type Headers = Record<string, string>
-const lower = (h: Headers) => Object.fromEntries(Object.entries(h).map(([k, v]) => [k.toLowerCase(), v]))
 
-interface VercelRoute {
-  src?: string
-  headers?: Headers
-  handle?: string
-  has?: unknown[]
-}
-
-const vercelRoutes = async () =>
-  (JSON.parse(await readFile(new URL('../vercel.json', import.meta.url), 'utf8')) as { routes: VercelRoute[] }).routes
-
-async function vercelHeaders(path: string): Promise<Headers> {
-  const routes = await vercelRoutes()
-  const out: Headers = {}
-  for (const r of routes) {
-    if (r.handle) break
-    if (!r.src || r.has || !new RegExp(`^${r.src.replace(/^\^/, '').replace(/\$$/, '')}$`).test(path)) continue
-    Object.assign(out, lower(r.headers ?? {}))
-  }
-  return out
-}
-
-async function cloudflareHeaders(path: string): Promise<Headers> {
+async function headersFor(path: string): Promise<Headers> {
   const text = await readFile(new URL('../public/_headers', import.meta.url), 'utf8')
   const out: Headers = {}
   let applies = false
@@ -62,30 +27,34 @@ async function cloudflareHeaders(path: string): Promise<Headers> {
   return out
 }
 
-async function expectSameHeaders(path: string) {
-  const { 'strict-transport-security': hsts, ...cf } = await cloudflareHeaders(path)
-  expect(hsts).toBe('max-age=63072000') // Vercel adds this one on its own
-  expect(cf, path).toEqual(await vercelHeaders(path))
-}
+const SECURITY = Object.fromEntries(Object.entries(SECURITY_HEADERS).map(([k, v]) => [k.toLowerCase(), v]))
+const IMMUTABLE = 'public, max-age=31536000, immutable'
+const CATALOG = 'public, max-age=600, s-maxage=3600, stale-while-revalidate=86400'
+const ADMIN = { 'x-robots-tag': 'noindex, nofollow', 'x-frame-options': 'DENY', 'cache-control': 'no-cache' }
 
-/** A path each header rule of vercel.json matches: `/places/(.*)` → `/places/x`, `/admin(?:\.html)?/?` → `/admin`. */
-const sampleOf = (src: string) =>
-  src
-    .replace(/\(\.\*\)/g, 'x')
-    .replace(/\(\?:[^)]*\)\?/g, '')
-    .replace(/\/\?$/, '')
-    .replace(/\\\./g, '.')
+/** What each kind of file is sent with, beyond the security headers every path gets. */
+const EXPECTED: [path: string, headers: Headers][] = [
+  ['/', {}],
+  ['/index.html', {}],
+  ['/favicon.svg', {}],
+  // Hashed names and the versioned place list never change under their address.
+  ['/assets/index-abc123.js', { 'cache-control': IMMUTABLE }],
+  ['/places/20261112/s/sa.txt', { 'cache-control': IMMUTABLE }],
+  // The Earth maps keep their names across rebuilds: a day, never immutable.
+  ['/textures/earth-day-4k.webp', { 'cache-control': 'public, max-age=86400, stale-while-revalidate=604800' }],
+  ['/data/catalog.json', { 'cache-control': CATALOG }],
+  ['/data/catalog-names.json', { 'cache-control': CATALOG }],
+  ['/og-default.png', { 'cache-control': 'public, max-age=86400, s-maxage=604800' }],
+  ['/admin', ADMIN],
+  ['/admin.html', ADMIN],
+]
 
 describe('public/_headers', () => {
-  it.each(PATHS)('gives %s the headers vercel.json gives it', expectSameHeaders)
+  it.each(EXPECTED)('sends %s its headers', async (path, headers) => {
+    expect(await headersFor(path)).toEqual({ ...SECURITY, ...headers })
+  })
 
-  it('covers every header rule vercel.json has, including ones added later', async () => {
-    const routes = await vercelRoutes()
-    const samples = routes
-      .slice(0, routes.findIndex((r) => r.handle))
-      .filter((r) => r.src && r.headers && !r.has)
-      .map((r) => sampleOf(r.src!))
-    expect(samples).toContain('/places/x')
-    for (const path of samples) await expectSameHeaders(path)
+  it('sends the security headers the Worker adds to its own responses', async () => {
+    expect(await headersFor('/anything/at/all.txt')).toEqual(SECURITY)
   })
 })

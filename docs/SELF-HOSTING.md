@@ -1,7 +1,7 @@
 # Self-hosting
 
-How to run your own copy of Watched: a static Vite app with a few small functions, on Vercel or on a Cloudflare
-Worker, an optional Supabase backend, and a GitHub Action that keeps the orbit catalog fresh.
+How to run your own copy of Watched: a static Vite app with a few small functions on a Cloudflare Worker, an
+optional Supabase backend, and a GitHub Action that keeps the orbit catalog fresh.
 
 ## What works without a backend
 
@@ -56,42 +56,23 @@ holding real visitors' data.
 
 ## 2. Environment variables
 
-Copy `.env.example` to `.env.local` for local development, and set the same names in your Vercel project (or your
-Cloudflare Worker: section 3b).
+Copy `.env.example` to `.env.local` for local development, and set the same names on your Cloudflare Worker
+(section 3 says which are build variables and which the Worker reads).
 
 | Variable | Where | What it does |
 | --- | --- | --- |
 | `VITE_SUPABASE_URL` | build + functions | `https://<ref>.supabase.co`. Unset: the backend is off. |
 | `VITE_SUPABASE_PUBLISHABLE_KEY` | build + functions | The **publishable** key (`sb_publishable_…`). It ships to every browser, so never use a secret or `service_role` key. Unset: the backend is off. |
 | `SITE_URL` | functions | Optional. The canonical origin for share pages and card URLs (`og:image`, canonical). Defaults to the request's own origin. |
-| `VITE_SITE_ORIGIN` | build | Optional. The origin written into `index.html`'s link-preview tags. Defaults to Vercel's production URL, then the deployment URL. A build outside Vercel with neither falls back to `https://www.watched.earth`, so set this for any other host. |
+| `VITE_SITE_ORIGIN` | build | The origin written into every page's canonical link and link-preview tags, and into the sitemap. Defaults to `https://www.watched.earth`, so set it to your own domain: a copy that leaves it tells search engines the official site is the real one. |
 
 The functions also accept `SUPABASE_URL` and `SUPABASE_PUBLISHABLE_KEY`, which take precedence over the `VITE_`
 names.
 
-## 3. Deploy to Vercel
+## 3. Deploy to Cloudflare Workers
 
-1. Import the repository in Vercel. `vercel.json` sets:
-   - the framework (Vite);
-   - the build command (`npm run build`) and output directory (`dist`);
-   - the functions and the routes.
-2. Set the env vars above for **Production**.
-   - Preview deployments share whatever database you give them.
-   - `api/e` (the event relay) only writes when `VERCEL_ENV` is `production`.
-3. The app loads no analytics script of its own. Vercel Web Analytics would need `@vercel/analytics` added back.
-
-### Usage telemetry
-
-In-app usage events are only sent from the hosts listed in `PRODUCTION_HOSTS` in `src/lib/telemetry.ts`, which is
-the official site by default. A fork therefore sends no usage events until you put your own domain in that list.
-
-Nothing in the code points at the official site's database: with no env vars, the backend is simply off.
-
-## 3b. Or deploy to Cloudflare Workers
-
-`wrangler.jsonc` serves `dist/` as static files and runs `worker/index.ts` for `/`, `/s/*` and `/api/*`. The Worker
-answers every path as `vercel.json` does: `worker/router.ts` holds the routes, and `public/_headers` the static files'
-headers. Tests keep both equal to `vercel.json`, so a route or header change goes in both places.
+`wrangler.jsonc` serves `dist/` as static files and runs `worker/index.ts` for `/`, `/s/*` and `/api/*`.
+`worker/router.ts` holds the routes, and `public/_headers` the static files' headers.
 
 1. Subscribe to Workers Paid. A share card takes far more than the free plan's 10 ms of CPU per request.
 2. Create a Worker from the repository (Workers Builds). Build command `npm run build`; deploy command
@@ -102,8 +83,9 @@ headers. Tests keep both equal to `vercel.json`, so a route or header change goe
    - **Variables** (read by the functions): `VITE_SUPABASE_URL`, `VITE_SUPABASE_PUBLISHABLE_KEY`, `SITE_URL`.
    - **Secrets**: `CDSE_CLIENT_ID` and `CDSE_CLIENT_SECRET`, for the Landsat pan band (`api/pan.ts`). Without them,
      photos keep the 30 m layer.
-4. Put your own domain in `PRODUCTION_HOSTS` in `wrangler.jsonc`. On Cloudflare one Worker answers your domain and
-   every preview URL, so the event relay writes only for those hosts, and every other host is marked `noindex`.
+4. Put your own domain in `PRODUCTION_HOSTS` in `wrangler.jsonc`. One Worker answers your domain and every preview
+   URL, so the event relay writes only for those hosts, and every other host is marked `noindex`. Previews share
+   whatever database you give the Worker.
 5. Serve the Worker on your domain: a Worker route (`www.example.org/*`) on a proxied DNS record, or a Custom Domain.
 6. Check what Cloudflare adds to a proxied domain's pages. **Web Analytics** may be on already (Web Analytics → your
    site → Manage site); it is cookieless. **JavaScript detections** adds a script and a `cf_clearance` cookie (kept up to a
@@ -113,14 +95,31 @@ headers. Tests keep both equal to `vercel.json`, so a route or header change goe
 Locally, after `npm run build`, `npm run dev:worker` runs the Worker in Cloudflare's runtime. Put its variables in
 `.dev.vars`.
 
+With Workers Builds, a second trigger for every branch but `main` (deploy command `npx wrangler versions upload`)
+gives each push a preview URL on `workers.dev`. Previews are marked `noindex` and write no usage events.
+
+`vercel.json` is not a deployment: the site ran on Vercel until November 2026, and the file's one setting tells
+Vercel's Git integration not to build this repository. A fork that never used Vercel can delete it.
+
+### Usage telemetry
+
+In-app usage events are only sent from the hosts listed in `PRODUCTION_HOSTS` in `src/lib/telemetry.ts`, which is
+the official site by default. A fork therefore sends no usage events until you put your own domain in that list.
+
+Nothing in the code points at the official site's database: with no env vars, the backend is simply off. The app
+loads no analytics script of its own.
+
 **Meteosat frames need the Worker.** EUMETSAT asks sites not to send each visitor's requests to its map service, so
 the Worker fetches each Meteosat frame once, on a timer (`triggers.crons` in `wrangler.jsonc`: every minute, most
 runs do nothing), keeps it about an hour in a Workers KV namespace and cuts every visitor's small picture from it
-(`api/_lib/geoFill.ts`, `api/geo.ts`). `wrangler.jsonc` names the namespace's binding (`GEO_FRAMES`) without an id:
-the first `wrangler deploy` creates it for your account. Nothing else is needed. The fill writes an estimated half
-a million tiles a month, whatever the traffic, against the million writes Workers Paid includes. On Vercel, which
-has no timer and no store here, the two endpoints answer 503 and the Meteosat rows say "No image just now"; the
-same is true of `npm run dev`. To see them locally, run `npx wrangler dev --test-scheduled` after a build and start a
+(`api/_lib/geoFill.ts`, `api/geo.ts`). `wrangler.jsonc` names the namespace's binding (`GEO_FRAMES`) with the official site's namespace id, which no other
+account can use: delete the `"id"` before your first `wrangler deploy`, which then creates a namespace for your
+account, and write that namespace's id in its place (`npx wrangler kv namespace list` prints it). With no id, a
+deploy takes the binding from the Worker's last uploaded version, and a branch that predates the cache leaves the
+next deploy without one. The fill writes an estimated half
+a million tiles a month, whatever the traffic, against the million writes Workers Paid includes. Under `npm run dev`,
+which has no timer and no store, the two endpoints answer 503 and the Meteosat rows say "No image just now". To see
+them locally, run `npx wrangler dev --test-scheduled` after a build and start a
 fill by hand: `curl "http://localhost:8787/__scheduled?cron=*+*+*+*+*"`. A frame is listed two minutes after that.
 
 Share cards render with satori and resvg (`api/_lib/ogRender.ts`). Workers run only WebAssembly bundled at deploy time,

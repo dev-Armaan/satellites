@@ -170,7 +170,17 @@ const byMosaic = (a: CoverCandidate, b: CoverCandidate) => {
  * capture of the clearest tier present (ties: clear spot, clearer square, higher sun, straighter view, newer); with
  * every detailed capture clouded, the least cloudy one; with none, the sharpest weather mosaic. Only images the globe
  * can paint count; partial reports wait for the final one (the cover can still change).
+ *
+ * "Detailed" is a Sentinel-2 or Landsat photo and nothing else, as in the panel (results lib/captures.ts isDetailed):
+ * a radar image and a geostationary frame are in the gallery but never lead, so neither is fetched ahead. The test
+ * here used to be "not from GIBS", written when GIBS was the only other provider. A Meteosat frame (provider
+ * 'eumetsat') passed it, and with no clear photo in the week it became the cover: its 1024 px picture was then asked
+ * of EUMETView about 1.5 s after the results, with nobody having opened it. Nothing a visitor does may add a request
+ * there except opening a frame (CLAUDE.md), and a week with no photo is every search in Meteosat's view whenever
+ * Planetary Computer is down.
  */
+const isPhoto = (c: Pick<Capture, 'collection'>) => c.collection === 'sentinel-2-l2a' || c.collection === 'landsat-c2-l2'
+
 export function coverPass(report: Report | undefined): Pass | undefined {
   if (!report || report.partial) return undefined
   const detailed: CoverCandidate[] = []
@@ -181,7 +191,7 @@ export function coverPass(report: Report | undefined): Pass | undefined {
     const c = captureOf(report, p)
     if (!c || seen.has(c.id)) continue
     seen.add(c.id)
-    if (c.provider !== 'gibs') detailed.push({ p, c })
+    if (isPhoto(c)) detailed.push({ p, c })
     else if (isDaily(c.collection)) mosaics.push({ p, c })
   }
   const lead = pickLead(detailed.map((x) => ({ x, capture: x.c, t: x.p.tClosest, sunDeg: x.p.sunElevationDeg, offNadirDeg: x.p.offNadirDeg })))

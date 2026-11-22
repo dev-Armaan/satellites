@@ -1323,6 +1323,7 @@ HK overlay forms in brackets where they differ.
 | Example places / Surprise me / Surprise me: a famous place picked at random | 範例地點 / 隨機地點 / 隨機地點：隨機挑選一個著名地點 |
 | [label], [sublabel] (chip name) | [label]，[sublabel] |
 | Built by @armaangupt0 | 由 @armaangupt0 製作 |
+| Open source / Open source: the code on GitHub | 開源 / 開源：GitHub 上的原始碼 (原始碼 reads in both regions) |
 | How this works / Watched, home | 運作原理 / Watched，首頁 |
 | Time / Orbit catalog / Sun (regions) | 時間 / 軌道目錄 / 太陽 |
 | Scene · … (during a replay) | 重播 · 11月1日 週日 11:21:13 EST |

@@ -1,15 +1,17 @@
-import { describe, expect, it } from 'vitest'
+import { afterEach, describe, expect, it, vi } from 'vitest'
 import { useApp } from '@/state/store'
 import { provisionalTier } from './quality'
 import { createRuntime } from './runtime'
 import { declineLevel, dprLevels } from './quality'
 import {
+  askedOnce,
   bitmapsSupportedFor,
   canUpload,
   CLOUD_ZOOM_REST_MS,
   cloudZoomWanted,
   createScheduler,
   criticalSteps,
+  decodeImageUrl,
   deepLinkPlace,
   firstDayStep,
   inDarkAt,
@@ -292,5 +294,42 @@ describe('bitmapsSupportedFor (which browsers take the sliced, bitmap-decoded up
   })
   it('never without createImageBitmap', () => {
     expect(bitmapsSupportedFor(ua.safari18, false)).toBe(false)
+  })
+})
+
+describe('decodeImageUrl: which archives are asked again', () => {
+  afterEach(() => {
+    vi.unstubAllGlobals()
+    vi.useRealTimers()
+  })
+  const failing = () => {
+    const asked: string[] = []
+    vi.stubGlobal('fetch', async (url: string) => {
+      asked.push(url)
+      return new Response(null, { status: 502 })
+    })
+    return asked
+  }
+
+  it('asks EUMETSAT once: a failed Meteosat picture stays failed', async () => {
+    vi.useFakeTimers()
+    const asked = failing()
+    const url = 'https://view.eumetsat.int/geoserver/wms?service=WMS&layers=mtg_fd%3Argb_geocolour&width=1024&height=1024'
+    expect(askedOnce(url)).toBe(true)
+    const load = decodeImageUrl(url).catch((e: Error) => e.message)
+    await vi.advanceTimersByTimeAsync(5000)
+    expect(await load).toContain('HTTP 502')
+    expect(asked).toHaveLength(1)
+  })
+
+  it('asks any other archive once more after a pause', async () => {
+    vi.useFakeTimers()
+    const asked = failing()
+    const url = 'https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi?LAYERS=BlueMarble_NextGeneration'
+    expect(askedOnce(url)).toBe(false)
+    const load = decodeImageUrl(url).catch((e: Error) => e.message)
+    await vi.advanceTimersByTimeAsync(5000)
+    expect(await load).toContain('HTTP 502')
+    expect(asked).toHaveLength(2)
   })
 })

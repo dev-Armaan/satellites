@@ -502,7 +502,8 @@ um ponto turístico ou coordenadas.*; *Usar meu local* / *Localizar* / *Perto de
 *Cancelar*, *Cancelar localização*; *Obtendo a posição*, *Identificando o lugar*, elapsed *04 s*; `locatingNote` *A sua
 posição vai para o geocodificador Photon para dar nome ao lugar. Guardamos apenas uma célula de cerca de 10 km.*;
 label *Localização*; *Fechar*; *Ou experimente*; *Ou clique no globo para marcar um ponto*; *Lugares de exemplo*;
-*Marcar ponto*; *Surpreenda-me* (aria *Surpreenda-me: um lugar famoso escolhido ao acaso*); *Feito por @armaangupt0*.
+*Marcar ponto*; *Surpreenda-me* (aria *Surpreenda-me: um lugar famoso escolhido ao acaso*); *Feito por @armaangupt0*; *Código aberto* (aria
+*Código aberto: o projeto no GitHub*).
 
 `locateErrors`: denied *O acesso à localização está bloqueado. Permita o acesso nas configurações do navegador ou
 busque um lugar.* · unavailable / other *A sua posição não está disponível agora. Busque um lugar.* · timeout

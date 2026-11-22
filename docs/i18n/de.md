@@ -598,6 +598,7 @@ words with `toLocaleUpperCase('de')`, which writes ß as SS: correct. The licenc
 | orTry / pinHint / dropPin | Oder / Oder klicke auf den Globus für einen Pin / Pin setzen |
 | surprise / surpriseName | Überrasch mich / Überrasch mich: ein bekannter Ort, zufällig gewählt |
 | builtBy | Von @armaangupt0 |
+| sourceLink / sourceLinkLabel | Open Source / Open Source: der Code auf GitHub (the established German term, Duden's spelling) |
 
 The example coordinates in `searchDown` keep the decimal point: they are input syntax, set as written (§6.2).
 

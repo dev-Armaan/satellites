@@ -30,7 +30,7 @@ import { ARRIVAL_HOLD_MS, ARRIVAL_SWEEP_MS, arrivalSweep, captureOf, coverPass, 
 import { kmPerTexel } from './framing'
 import { panelHalfKm, panelPhotoUrl, panelTurn, patchUv } from './panel'
 import { FRAME, useRuntime, type GlobeRuntime } from './runtime'
-import { canUpload, decodeImageBlob, decodeImageUrl, uploadStrip, type TexStrip } from './textures'
+import { askedOnce, canUpload, decodeImageBlob, decodeImageUrl, uploadStrip, type TexStrip } from './textures'
 
 /** The context basemap: half size (km) and the GIBS layer (static; any TIME answers the same composite). */
 const CTX_HALF_KM = 360
@@ -103,7 +103,8 @@ function createStore(gl: WebGLRenderer, rt: GlobeRuntime) {
     // the crops' grid arithmetic (pcCrop: which URL is toned, the panel photo's turn). One retry after a short pause, as
     // decodeImageUrl and the panel's preloadImage do (PC's tiler 5xxs on a cold scene).
     const toned = () => import('@/imagery/image').then((m) => m.tonedImageBlob(url))
-    const retried = (load: () => Promise<Blob>) => load().catch(() => new Promise<void>((r) => setTimeout(r, 700 + Math.random() * 500)).then(load))
+    // Never for a Meteosat picture (an opened frame's, redrawn or not): EUMETSAT's map service is asked once (CLAUDE.md).
+    const retried = (load: () => Promise<Blob>) => (askedOnce(url) ? load() : load().catch(() => new Promise<void>((r) => setTimeout(r, 700 + Math.random() * 500)).then(load)))
     const decoded = Promise.all([import('@/imagery/pcCrop'), import('@/imagery/radar'), import('@/imagery/image')]).then(([crops, radar, images]) => {
       // Set before the image can be ready (the square is only drawn over a ready decal).
       entry.panelTurn = panelTurn(panelUrl ? crops.northInCropDeg(panelUrl()) : 0)

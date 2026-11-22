@@ -527,6 +527,7 @@ The ladder reads image > swept over > maybe > passed, in titles and lanes alike.
 | Hold the globe anywhere to move it / No named place nearby | *Nhấn giữ quả địa cầu để dời ghim* (*Nhấn giữ* is press-and-hold; bare *Giữ* is "keep") / *Không có địa danh ở gần* (146 of 156 px; *gần đây* also reads "recently") |
 | Surprise me / Surprise me: a famous place picked at random | *Ngẫu nhiên* / *Ngẫu nhiên: một địa danh nổi tiếng bất kỳ* (never *Làm tôi bất ngờ*) |
 | Built by @armaangupt0 | *Do @armaangupt0 thực hiện* (never *Được xây dựng bởi*) |
+| Open source / Open source: the code on GitHub (laptops only) | *Mã nguồn mở* / *Mã nguồn mở: dự án trên GitHub* (credit and link 313 px of the 339 the line allows) |
 
 **Results, notes and faults**
 

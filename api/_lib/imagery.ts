@@ -13,6 +13,7 @@ import { maskFromResponse, pcCropUrlAt, toneCrop, tonePlanForUrl, type ToneMask 
 import { isRadarUrl, radarCropUrlAt, radarPolOfItemId, toneRadar } from './radar.js'
 import { frameRedrawFor } from './infrared.js'
 import { GEO_HALF_KM, isGeoCollection } from './cardSpec.js'
+import { CACHE_LAYERS } from './geoGrid.js'
 
 const GIBS_WMS = 'https://gibs.earthdata.nasa.gov/wms/epsg4326/best/wms.cgi'
 const EUMETSAT_WMS = 'https://view.eumetsat.int/geoserver/wms'
@@ -42,6 +43,20 @@ const GEO_LAYERS: Partial<Record<ShareCapture['collection'], readonly string[]>>
   'gibs-himawari': ['Himawari_AHI_Band3_Red_Visible_1km', 'Himawari_AHI_Band13_Clean_Infrared'],
   'eumetsat-meteosat-0deg': ['mtg_fd:rgb_geocolour'],
   'eumetsat-meteosat-iodc': ['msg_iodc:rgb_naturalenhncd', 'msg_iodc:ir108'],
+}
+
+/** The crop is EUMETSAT's own render: its map service, which the site must ask as little as it can (CLAUDE.md). */
+export const asksEumetsat = (plan: Pick<CropPlan, 'url'>) => plan.url.startsWith(EUMETSAT_WMS)
+
+/**
+ * A Meteosat frame's item id ("<layer>@<ISO time>") names a time a frame can have: one of the layers the app shows,
+ * on that layer's own cadence, not in the future. Anything else is no frame, so there is nothing to ask for.
+ */
+export function isMeteosatFrame(itemId: string, now: number): boolean {
+  const [layer, at] = itemId.split('@')
+  const l = CACHE_LAYERS[layer ?? '']
+  const t = Date.parse(at ?? '')
+  return !!l && Number.isFinite(t) && t <= now && t % (l.stepMin * 60_000) === 0
 }
 
 /** Native ground sample distance by collection, metres (used when the capture omits it). */

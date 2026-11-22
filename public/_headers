@@ -1,6 +1,6 @@
-# Response headers for static files on Cloudflare: vercel.json's `routes` headers, path for path
-# (worker/headers.test.ts keeps the two equal). Cloudflare reads this file and does not serve it. Responses the
-# Worker builds itself get their headers from worker/router.ts, because this file does not reach them.
+# Response headers for static files (worker/headers.test.ts says what each kind of file must be sent with).
+# Cloudflare reads this file and does not serve it. Responses the Worker builds itself get their headers from
+# worker/router.ts, because this file does not reach them.
 # A header named by two matching rules would be joined with a comma, so each path names Cache-Control once.
 
 /*

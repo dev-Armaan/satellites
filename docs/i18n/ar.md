@@ -468,6 +468,7 @@ These are the agreed forms. Write the rest of each namespace from them.
 | `lastDays(days)` | `آخر 7 أيام` (`آخر يوم`، `آخر يومين`، `آخر 11 يومًا`) |
 | `windowRange` | `1 ← 8 نوفمبر 2026 UTC`، `29 أكتوبر ← 5 نوفمبر 2026 UTC` (build it from `formatRangeToParts` and replace the separator with ` ← `) |
 | `builtBy(handle)` | `من صنع @armaangupt0` |
+| `sourceLink` · `sourceLinkLabel` | `مفتوح المصدر` · `مفتوح المصدر: الشيفرة على GitHub` (the ↗ after it mirrors to point left, away from the words) |
 | `searchPlaceholder` · `placeLabel` | `البحث عن مكان` · `المكان` |
 | `searching` · `searchUnavailable` · `noMatch` | `جارٍ البحث` · `البحث غير متاح` · `لا نتائج` |
 | `matches(n)` | `نتيجة واحدة` · `نتيجتان` · `3 نتائج` · `11 نتيجة` · `100 نتيجة` |

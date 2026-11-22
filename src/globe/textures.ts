@@ -53,6 +53,7 @@ import {
   type WebGLRenderer,
 } from 'three'
 import { latLonToWorld, sunDirectionWorld } from '@/lib/geo'
+import { bootPlace } from '@/lib/placePage'
 import { useApp } from '@/state/store'
 import { kmPerTexel, type TextureLevel } from './framing'
 import { glx } from './debugGl'
@@ -478,15 +479,19 @@ async function fetchDecode(url: string, signal?: AbortSignal): Promise<DecodedMa
   return decodeBlob(await res.blob())
 }
 
+/** An archive whose pictures are asked for once and never again, whatever the answer (CLAUDE.md: EUMETSAT's map service). */
+export const askedOnce = (url: string) => url.startsWith('https://view.eumetsat.int/')
+
 /**
  * Fetch (CORS) and decode any image for the GPU, off the main thread (Imagery's regional patches: globe-only URLs,
- * one request each per session). One retry after a short pause, as the panel's image loader does.
+ * one request each per session). One retry after a short pause, as the panel's image loader does, and like it never
+ * for a Meteosat picture (imagery/image.ts preloadImage): a failed one stays failed.
  */
 export async function decodeImageUrl(url: string, signal?: AbortSignal): Promise<DecodedMap> {
   try {
     return await fetchDecode(url, signal)
   } catch (e) {
-    if (signal?.aborted) throw e
+    if (signal?.aborted || askedOnce(url)) throw e
     await new Promise((r) => setTimeout(r, 700 + Math.random() * 500))
     return fetchDecode(url, signal)
   }
@@ -560,7 +565,9 @@ export function criticalSteps(plan: UpgradeStep[], dark: boolean): UpgradeStep[]
   return plan.filter((st) => core.includes(st) || (!!st.batch && batches.has(st.batch)))
 }
 
-const DEEP_LINK = typeof location !== 'undefined' ? deepLinkPlace(location.search) : undefined
+// A place page (/place/<slug>) opens on its place exactly as a `?q=` link does.
+const PAGE_PLACE = typeof location !== 'undefined' ? bootPlace() : undefined
+const DEEP_LINK = typeof location !== 'undefined' ? (deepLinkPlace(location.search) ?? PAGE_PLACE) : undefined
 const DEEP_DARK = !!DEEP_LINK && inDarkAt(DEEP_LINK, Date.now())
 
 // A deep link or share link goes from boot straight to a regional view: fetch the maps it needs now, while the boot
@@ -568,7 +575,7 @@ const DEEP_DARK = !!DEEP_LINK && inDarkAt(DEEP_LINK, Date.now())
 // do: their whole upgrade is this one batch, and the earlier it lands the likelier it lands under the boot curtain.
 if (typeof location !== 'undefined' && bitmapsSupported()) {
   const mobile = detectMobile()
-  const linked = /[?&](q|s)=/.test(location.search) || /^\/s\//.test(location.pathname)
+  const linked = /[?&](q|s)=/.test(location.search) || /^\/s\//.test(location.pathname) || !!PAGE_PLACE
   if (mobile || linked) for (const st of criticalSteps(upgradePlan(provisionalTier(mobile)), DEEP_DARK)) prefetchMap(st.map, st.res)
 }
 

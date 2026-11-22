@@ -60,6 +60,8 @@ const landing: typeof en = {
     `Choisissez un lieu, n’importe où sur Terre. Vous verrez tous les satellites qui l’ont survolé ces ${lastSpan(days)}, et les images qu’ils ont réellement prises.`,
   ],
   builtBy: (handle: string) => `Créé par ${handle}`,
+  sourceLink: 'Code source',
+  sourceLinkLabel: 'Code source\u00a0: le projet sur GitHub',
 
   // ── The place search ──────────────────────────────────────────────────────────────────────
   // *Chercher*: *Rechercher un lieu* ellipsised at 1024 px, beside the locate button.

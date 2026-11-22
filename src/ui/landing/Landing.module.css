@@ -446,13 +446,11 @@
   color: var(--bone-4);
 }
 
-/* Under the chips: the maker's credit. */
+/* Under the chips: the maker's credit, then (wide screens) the link to the code, one line. */
 .foot {
   container-type: inline-size;
   display: flex;
-  justify-content: space-between;
   align-items: baseline;
-  gap: 16px;
   width: var(--search-w);
   margin-top: var(--gap-stats);
 }
@@ -472,6 +470,33 @@
 .credit:active {
   color: var(--signal);
   transition-duration: 0ms;
+}
+/* The link to the code: the credit's own type and colours, and the external-link arrow after the words. Hidden on
+   stacked and short landscape layouts (below). */
+.source {
+  flex: none;
+  display: inline-flex;
+  align-items: baseline;
+}
+.footSep {
+  margin: 0 0.7em;
+  font-family: var(--font-mono);
+  font-size: var(--fs-label);
+  line-height: 1.4;
+  color: var(--bone-4);
+}
+.sourceLink {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+.sourceLink svg {
+  flex: none;
+}
+/* Right to left the arrow ends the line on the left, so it points up and out to the left, away from the words, as it
+   points away from them here (PassDetail's arrows lead their words, so they keep pointing right). */
+:root[dir='rtl'] .sourceLink svg {
+  scale: -1 1;
 }
 /* Touch (U-6): a 44 px tall target for the 15 px line, reaching mostly downward: the chips' own 44 px targets end
    ~6 px above it (10 px up took the bottom 3 px of the first chip's taps at 375 and 844 px wide). */
@@ -1083,5 +1108,22 @@
 @media (max-width: 760px), (orientation: portrait) and (max-width: 1100px), (orientation: landscape) and (max-height: 540px) {
   :root:is([data-script='cjk'], [data-script='devanagari']) .hl {
     font-size: calc(1em * var(--display-k));
+  }
+}
+
+/* The link to the code is for wide screens only: on phones and portrait tablets the credit is the ink panel's last line
+   on a full screen, and short landscape has no room beside it. */
+/* ...and only where the line holds it in every language: the longest pair, Indonesian's "Dibuat oleh @armaangupt0 ·
+   Sumber terbuka ↗", is 329 px (Spanish and Italian 322); the line is 321 px at a 761 px window, 340 at 800. Hidden
+   below that, never wrapped (a second line would push the column into the bottom readouts) or let past the search
+   line's edge. */
+@container (max-width: 339px) {
+  .source {
+    display: none;
+  }
+}
+@media (max-width: 760px), (orientation: portrait) and (max-width: 1100px), (orientation: landscape) and (max-height: 540px) {
+  .source {
+    display: none;
   }
 }

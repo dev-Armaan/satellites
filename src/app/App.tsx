@@ -6,6 +6,7 @@
  * Dev keeps it lazy so sandbox pages never import unfinished modules.
  */
 import { lazy, Suspense, useLayoutEffect, type ComponentType } from 'react'
+import { AppBoundary } from './AppBoundary'
 import { dropBootCurtain } from './bootCurtain'
 import MainStatic from './Main'
 
@@ -30,8 +31,10 @@ export function App() {
       </pre>
     )
   return (
-    <Suspense fallback={null}>
-      <Root />
-    </Suspense>
+    <AppBoundary>
+      <Suspense fallback={null}>
+        <Root />
+      </Suspense>
+    </AppBoundary>
   )
 }

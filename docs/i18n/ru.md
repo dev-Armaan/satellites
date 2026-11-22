@@ -1235,6 +1235,7 @@ Landing
 | Surprise me · Drop a pin · Cancel | Наугад · Поставить метку · Отмена (Surprise me's name: «Наугад: случайное известное место») |
 | Pin dropped: Waterloo. Press Enter or an arrow to see what passed over it. | Метка поставлена: Waterloo. Нажми Enter или стрелку, чтобы увидеть, что пролетало здесь. |
 | Built by @armaangupt0 | Автор: @armaangupt0 |
+| Open source / Open source: the code on GitHub (laptops only) | Открытый код / Открытый код: проект на GitHub |
 | Loading Watched · Slow connection, still loading | Загрузка Watched · Медленное соединение, ещё загружаем |
 | Watched · Something watched you this week (tab) | Watched · На этой неделе что-то смотрело на тебя |
 | 3D view unavailable · WebGL 2 is off in this browser | 3D-вид недоступен · В этом браузере отключён WebGL 2 |

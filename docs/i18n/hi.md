@@ -438,6 +438,7 @@ The globe's labels are instrument words: `तस्वीर ली 11:21:13 EST
 | watched (product verb) | देखना → `देखा`, `देखा गया` | | Never `निगरानी की`, `नज़र रखी`, `फ़ोटो खींची`. |
 | image, picture | तस्वीर | f | `तस्वीरें`, `तस्वीरों`. Any kind of image. |
 | photo, photograph | फ़ोटो | f | Optical photographs only (`Sentinel-2 और Landsat की फ़ोटो`). |
+| open source (the landing's code link) | ओपन सोर्स | | The term Hindi tech writing uses; `मुक्त स्रोत` reads as a translation. Label `ओपन सोर्स: GitHub पर प्रोजेक्ट का कोड`. |
 | pass (an overflight) | उड़ान | f | `उड़ानें`, `उड़ानों`. Never `पास` ("near"). |
 | (a count of) passes in a verdict | बार | f | Invariant: `1 बार`, `31 बार`. |
 | swath | पट्टी | f | "The strip of ground a fixed camera records": `290 किमी चौड़ी पट्टी`. It passes over a place (`पट्टी … के ऊपर से गुज़री`) or a place is inside it (`यह जगह … पट्टी के भीतर थी`); an imager scans one (`… चौड़ी पट्टी स्कैन करता है`). Never `ढकना` ("cover"). |

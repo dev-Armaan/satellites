@@ -6,7 +6,11 @@
  *
  * Only crops the app itself cuts are served (validated here), so the endpoint cannot be used as a general proxy for
  * the free CDSE quota: a 15 km square on the scene's UTM grid (whole 15 m pixels), 1000 px (its 15 m pixels 1:1),
- * within an hour of a capture from the last 120 days. The answer is an 8-bit grey PNG, square-root encoded
+ * within an hour of a capture from the last 120 days. And each crop has ONE spelling, the one `panQuery` writes
+ * (whole numbers in plain digits, coordinates a UTM zone can hold): `t=…000.25`, `bbox=534060.0,…` and a box 90,000 km
+ * north of the pole were all accepted once, each a new entry in the edge cache and a new request to CDSE for a
+ * picture already held. The router caches under `panCacheQuery`, so an added parameter or another order is the same
+ * entry too. The answer is an 8-bit grey PNG, square-root encoded
  * (v = 255·√(R / 0.64), R the top-of-atmosphere reflectance), so dark water keeps enough levels for the pan-sharpening
  * ratio; 0 is no data. Pure functions here; the handler (token, fetch, cache headers) is api/pan.ts.
  */
@@ -32,17 +36,40 @@ export function panQuery(box: readonly number[], crs: number, t: number): string
 
 const isUtm = (crs: number) => (crs >= 32601 && crs <= 32660) || (crs >= 32701 && crs <= 32760)
 
-/** The request, or why it is refused (an app crop only; see the header). */
+/** A whole number as `panQuery` writes it: plain digits, no exponent, no decimal point, no padding. */
+const WHOLE = /^-?(0|[1-9]\d{0,14})$/
+/**
+ * Where a Landsat scene's grid can be, metres: eastings a zone and its overlap with its neighbours hold (a zone is
+ * 100–900 km wide of its false easting's 500 km; scenes run past its edge), northings from pole to pole either side
+ * of the equator (Landsat keeps a southern scene in the northern zone, at negative northings).
+ */
+const EASTING = [-200_000, 1_200_000] as const
+const NORTHING = [-10_000_000, 10_000_000] as const
+
+/** The request, or why it is refused (an app crop only, in its one spelling; see the header). */
 export function parsePanQuery(q: URLSearchParams, now: number): PanRequest | string {
-  const box = (q.get('bbox') ?? '').split(',').map(Number)
-  if (box.length !== 4 || !box.every(Number.isInteger)) return 'bbox'
+  const parts = (q.get('bbox') ?? '').split(',')
+  if (parts.length !== 4 || !parts.every((v) => WHOLE.test(v))) return 'bbox'
+  const box = parts.map(Number)
   if (box[2] - box[0] !== PAN_SIDE_M || box[3] - box[1] !== PAN_SIDE_M) return 'bbox size'
   if (box.some((v) => v % PAN_GSD_M !== 0)) return 'bbox grid'
-  const crs = Number(q.get('crs'))
-  if (!Number.isInteger(crs) || !isUtm(crs)) return 'crs'
-  const t = Number(q.get('t'))
-  if (!Number.isFinite(t) || t > now + WINDOW_MS || t < now - MAX_AGE_MS) return 't'
+  if (box[0] < EASTING[0] || box[2] > EASTING[1] || box[1] < NORTHING[0] || box[3] > NORTHING[1]) return 'bbox place'
+  const crsRaw = q.get('crs') ?? ''
+  const crs = Number(crsRaw)
+  if (!WHOLE.test(crsRaw) || !isUtm(crs)) return 'crs'
+  const tRaw = q.get('t') ?? ''
+  const t = Number(tRaw)
+  if (!WHOLE.test(tRaw) || t > now + WINDOW_MS || t < now - MAX_AGE_MS) return 't'
   return { box: box as PanRequest['box'], crs, t }
+}
+
+/**
+ * The query one crop is cached under at the edge (worker/router.ts): `panQuery`'s own string, whatever order the
+ * parameters came in and whatever else came with them. Null for a request that is refused (never cached).
+ */
+export function panCacheQuery(q: URLSearchParams, now: number): string | null {
+  const r = parsePanQuery(q, now)
+  return typeof r === 'string' ? null : panQuery(r.box, r.crs, r.t)
 }
 
 const EVALSCRIPT = `//VERSION=3

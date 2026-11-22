@@ -1,0 +1,109 @@
+/*
+ * The text pages (src/seo/pages.ts): what a reader without JavaScript sees under the app, and the list of places at
+ * /place, which has no app at all. Plain reading pages in the instrument's type: a condensed headline, mono labels
+ * on hairlines, body text in bone-2. Tokens only (docs/DESIGN.md); the fonts and tokens come from the same
+ * stylesheet, which is why these rules live in the app's bundle and not in a file of their own.
+ */
+.doc {
+  height: 100%;
+  overflow-y: auto;
+  padding: var(--s-8) var(--margin) var(--s-9);
+}
+/* The list of places is a document: the page scrolls, not a pane inside the app's fixed frame. */
+.doc-page {
+  overflow: auto;
+  height: auto;
+}
+.doc-page .doc {
+  height: auto;
+  overflow: visible;
+}
+.doc-col {
+  max-width: 68ch;
+  margin: 0 auto;
+}
+.doc-wide {
+  max-width: 120ch;
+}
+.doc h1 {
+  margin: 0 0 var(--s-5);
+  font-stretch: 75%;
+  font-weight: 560;
+  font-size: var(--fs-h1);
+  letter-spacing: var(--track-display);
+  line-height: 0.95;
+}
+.doc h2 {
+  margin: var(--s-7) 0 var(--s-3);
+  padding-top: var(--s-3);
+  border-top: 1px solid var(--line);
+  font-family: var(--font-mono);
+  font-stretch: 87.5%;
+  font-weight: 400;
+  font-size: var(--fs-label);
+  letter-spacing: var(--track-label);
+  text-transform: uppercase;
+  line-height: 1.4;
+  color: var(--bone-3);
+}
+.doc p,
+.doc li,
+.doc dd {
+  max-width: 68ch;
+  color: var(--bone-2);
+}
+.doc p {
+  margin: 0 0 var(--s-4);
+}
+.doc ul {
+  margin: 0 0 var(--s-4);
+  padding-left: var(--s-5);
+}
+.doc li {
+  margin-bottom: var(--s-2);
+}
+.doc a {
+  color: var(--bone);
+}
+.doc-note {
+  padding: var(--s-3) var(--s-4);
+  border: 1px solid var(--line-strong);
+  color: var(--bone);
+}
+.doc-crumbs,
+.doc-meta {
+  font-family: var(--font-mono);
+  font-stretch: 87.5%;
+  font-size: var(--fs-readout);
+  letter-spacing: 0.01em;
+  font-variant-numeric: tabular-nums;
+  color: var(--bone-3);
+}
+.doc-crumbs a {
+  color: var(--bone-2);
+}
+.doc-terms {
+  margin: 0 0 var(--s-4);
+}
+.doc-terms dt {
+  margin-top: var(--s-3);
+  color: var(--bone);
+}
+.doc-terms dd {
+  margin: 0;
+}
+.doc ul.doc-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--s-2) var(--s-5);
+  padding: 0;
+  list-style: none;
+}
+.doc-links li {
+  margin: 0;
+  max-width: none;
+}
+.doc-links span {
+  color: var(--bone-3);
+  font-size: var(--fs-small);
+}

@@ -1,9 +1,9 @@
 /**
- * Server-side configuration for the Vercel functions in api/.
+ * Server-side configuration for the handlers in api/ (run by the Cloudflare Worker, worker/index.ts).
  *
- * Vercel exposes every project env var to functions at runtime, including the VITE_-prefixed ones
- * the browser build uses, so one pair of variables configures both sides. The publishable key is
- * public by design (it can only call the anon-granted RPCs); no secret key is ever used here.
+ * The Worker is given the same VITE_-prefixed variables the browser build uses (wrangler.jsonc says where they
+ * are set), so one pair of names configures both sides. The publishable key is public by design (it can only call
+ * the anon-granted RPCs); no secret key is ever used here.
  */
 
 export interface SupabaseConfig {
@@ -31,16 +31,16 @@ export function supabaseConfig(): SupabaseConfig | null {
 export function siteOrigin(request: Request): string {
   const configured = env('SITE_URL')
   if (configured && /^https?:\/\/[^/]+/.test(configured)) return configured.replace(/\/+$/, '')
-  // On Vercel request.url is absolute with the public host. Deliberately not reading
-  // X-Forwarded-Host: these responses are CDN-cached, and a forged header must not be able to
-  // plant another origin in a cached og:image.
+  // request.url is absolute with the public host. Deliberately not reading X-Forwarded-Host: these
+  // responses are kept in the edge cache, and a forged header must not be able to plant another origin
+  // in a cached og:image.
   return new URL(request.url).origin
 }
 
 /**
  * Whether a hostname serves the real site: listed in PRODUCTION_HOSTS (comma-separated, e.g.
- * `www.watched.earth,watched.earth`). Unset means every host (Vercel, which says it with VERCEL_ENV, and local
- * checks). The Cloudflare Worker sets it, because one Worker answers production, the staging copy and previews alike.
+ * `www.watched.earth,watched.earth`). Unset means every host (local checks). wrangler.jsonc sets it, because one
+ * Worker answers production, the staging copy and previews alike.
  */
 export function isProductionHost(hostname: string): boolean {
   const hosts = env('PRODUCTION_HOSTS')

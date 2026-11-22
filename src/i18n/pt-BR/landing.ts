@@ -52,6 +52,8 @@ const landing: typeof en = {
     }, e as imagens reais que captaram.`,
   ],
   builtBy: (handle: string) => `Feito por ${handle}`,
+  sourceLink: 'Código aberto',
+  sourceLinkLabel: 'Código aberto: o projeto no GitHub',
 
   // ── The place search ──────────────────────────────────────────────────────────────────────
   searchPlaceholder: 'Buscar um lugar',

@@ -453,6 +453,7 @@ uppercases it).
 | use my location / locate me / near me | usar mi ubicación / localízame / cerca de mí | Progress *Localizando…*; status *Pidiendo la ubicación*, *Poniendo nombre al lugar*. |
 | location | ubicación | f. Error label `UBICACIÓN`. |
 | surprise me | sorpréndeme | |
+| open source (the link to the code) | código abierto | |
 | how this works | cómo funciona | `CÓMO FUNCIONA`. |
 | last 7 days | últimos 7 días | `ÚLTIMOS 7 DÍAS`. |
 | this week / that week | esta semana / esa semana | |

@@ -70,10 +70,12 @@ export function Headline({ model, compact = false, enter = false }: { model: Res
   useMsgs(enResults)
   const cls = cx(compact ? s.mHeadline : s.headline, enter && s.enterWipe)
   return (
-    // Announced when it changes (the final report replacing the partial one), not on every render.
-    <h2 className={cls} aria-live="polite" style={enterStyle(0)}>
+    // The overview's one top heading, as the hero is the landing's and the satellite's name a pass's: the three never
+    // share the screen, so every view has one <h1> for a screen reader and a search engine to read it by. (Its looks
+    // are all the class's.) Announced when it changes (the final report replacing the partial one), not on every render.
+    <h1 className={cls} aria-live="polite" style={enterStyle(0)}>
       <Rich parts={headlineParts(model)} classes={HEADLINE} />
-    </h2>
+    </h1>
   )
 }
 

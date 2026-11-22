@@ -330,7 +330,9 @@ function useCrowdedLine(topLeft: RefObject<HTMLDivElement | null>, topRight: Ref
       // Right to left the corners swap: the language line is at the right, the sun or scene at the left.
       const rtl = getComputedStyle(tr).direction === 'rtl'
       // The line's extent at the corner's tracking: while it is tightened (below) it is narrower by its tracking, and
-      // both decisions are made on the untightened line, so tightening it never undoes either.
+      // both decisions are made on the untightened line, so tightening it never undoes either (the count is of code
+      // points, and innerText adds a line break between the line's parts: it can only overstate the width, by about a
+      // letter's tracking, which keeps the line where it is rather than send it back and forth).
       const tight = line.hasAttribute('data-tight')
       const track = tight ? [...line.innerText].length * (parseFloat(getComputedStyle(tr).letterSpacing) || 0) : 0
       const width = b.width + track
@@ -338,7 +340,7 @@ function useCrowdedLine(topLeft: RefObject<HTMLDivElement | null>, topRight: Ref
       const crowded = (rtl ? a.left - end : start - a.right) < MIN_ROW_GAP
       flag.set(line, 'data-crowded', crowded, inObserver)
       // Moved up, the scene time is beside the wordmark: on the narrowest phones (320 px) and in the longer languages
-      // it came within 4 px of it (Polish, Indonesian: "POWTÓRKA 10:41:54 UTC+5:45"). There it drops its tracking,
+      // it ran 4 px into it (Polish, Indonesian: "POWTÓRKA 10:41:54 UTC+5:45"). There it drops its tracking,
       // which keeps every word of it (the label and the zone say what the time is) and clears the wordmark by 7 px.
       const scene = line.matches(`.${s.sceneLine}`)
       const mark = scene ? tl.querySelector('[data-hud-wordmark]')?.getBoundingClientRect() : undefined
@@ -373,9 +375,9 @@ function useCrowdedLine(topLeft: RefObject<HTMLDivElement | null>, topRight: Ref
  * and 10). Where the row would come closer than PANEL_GAP to a panel's edge, the language steps down to a line of its
  * own under "How this works", which stays whole on its line: every word on the left is needed (the language's full
  * name, never a code, owner 2026-11-19), and a third line costs only some globe there (the top inset grows, so the
- * camera frames below it). The step comes with the panel, when a search starts, and goes with it on a new search: the
- * landing beside it is the full view, where the row has the room (a step decided there would move English on a
- * screen where nothing covers it). A stacked layout (a portrait phone) has no room for a third line (the results
+ * camera frames below it). The step is decided from whatever publishes a side inset, so it comes with the search's
+ * panel and goes on a new search: the landing's text inset (its TEXT_CLEAR) leaves the row 166 px or more at 800–844
+ * px wide, and nothing steps there. A stacked layout (a portrait phone) has no room for a third line (the results
  * sheet's top snap), and nothing beside the row: its panels are bottom sheets.
  *
  * The panels publish what they cover (store.uiInsets, each INSET_CLEAR wider than the panel), so this needs no panel's
@@ -393,6 +395,8 @@ function useLanguageRoom(topLeft: RefObject<HTMLDivElement | null>) {
     const flag = layoutFlag()
     // The switcher's hairline and its margins: in the row, it is what the trigger has beyond the name.
     let rule = 0
+    // The page's direction at the last check: a switch across directions moves the dock to the other side.
+    let wasRtl: boolean | undefined
     const watched = new WeakSet<Element>()
     const watch = (el: Element) => {
       if (watched.has(el)) return
@@ -414,8 +418,14 @@ function useLanguageRoom(topLeft: RefObject<HTMLDivElement | null>) {
       const need = (about?.getBoundingClientRect().width ?? 0) + rule + nameW
       const r = row.getBoundingClientRect()
       if (!r.width) return
-      const { left, right } = useApp.getState().uiInsets
+      let { left, right } = useApp.getState().uiInsets
       const rtl = getComputedStyle(tl).direction === 'rtl'
+      // Switched between a right-to-left and a left-to-right language, the dock has moved to the other side in the
+      // same commit, but its new inset comes from its observer, after layout: until then the old one is the dock's
+      // mirror image, so it is read on the new side (Arabic to English at 800 × 360 stepped down a frame late).
+      // Only while the inset is still on the old side: one already published from the new side is read as it is.
+      if (wasRtl !== undefined && wasRtl !== rtl && (rtl ? left <= 0 : right <= 0)) [left, right] = [right, left]
+      wasRtl = rtl
       // A stacked layout has nothing beside the row (its panels are bottom sheets), whatever the insets still say: a
       // phone turned upright keeps the landscape panel's side inset until its sheet publishes, and the language stood
       // stepped down in portrait for 12 frames meanwhile (Vietnamese, 844 × 390 to 390 × 844).

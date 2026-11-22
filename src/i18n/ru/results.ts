@@ -116,9 +116,10 @@ const results: typeof en = {
 
   // ── the second line ──────────────────────────────────────────────────────────────────────
   // The participle agrees with the count; «как минимум» governs nothing, so it can go without another word changing.
+  // Its two words are one phrase: a line never ends between them.
   imagesPublic: (k: number): Rich => [
     `${f.plural(k, { one: 'Опубликован', few: 'Опубликовано', many: 'Опубликовано', other: 'Опубликовано' })} `,
-    strong('как минимум '),
+    strong('как\u00a0минимум '),
     num(int(k)),
     `\u00a0${f.plural(k, IMAGES)}.`,
   ],

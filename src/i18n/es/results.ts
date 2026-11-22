@@ -94,9 +94,10 @@ const results: typeof en = {
   },
 
   // ── the second line ──────────────────────────────────────────────────────────────────────
+  // «al menos» is one phrase: a line never ends between its words.
   imagesPublic: (k: number): Rich => [
     pl(k, 'Se publicó ', 'Se publicaron '),
-    strong('al menos '),
+    strong('al\u00a0menos '),
     num(f.int(k)),
     pl(k, '\u00a0imagen.', '\u00a0imágenes.'),
   ],

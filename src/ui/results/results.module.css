@@ -449,6 +449,9 @@
 .searchBarPlace {
   flex: 1;
   min-width: 0;
+  /* Its own direction is the name's (dir="auto"); where it sits is the page's. Physical, because `start` would read
+     the name's direction (and Chrome has no `match-parent`). */
+  text-align: left;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
@@ -456,6 +459,9 @@
   font-stretch: 87.5%;
   font-weight: 300;
   font-size: 17px;
+}
+:root[dir='rtl'] .searchBarPlace {
+  text-align: right;
 }
 .searchBarAction {
   flex: none;

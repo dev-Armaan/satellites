@@ -202,10 +202,12 @@ function SearchBar({ place, desk = false, onOpen }: { place: Place; desk?: boole
       <span className={s.searchBarGlyph} aria-hidden>
         <Glyph name="search" size={16} />
       </span>
-      {/* Each place name is its own island (<bdi>): on a right-to-left page a place searched by coordinates read
-          «12.500 ,23.500» */}
-      <span className={s.searchBarPlace}>
-        <bdi>{placeName(place)}</bdi>
+      {/* The place takes its own direction (dir="auto", which isolates it too): on a right-to-left page a place searched
+          by coordinates read «12.500 ,23.500», and a long Latin name lost its start, not its end, to the ellipsis
+          («…ality, Ontario, Canada»), because the cut falls at the end of the box's direction. It still sits where the
+          page starts (results.module.css). */}
+      <span className={s.searchBarPlace} dir="auto">
+        {placeName(place)}
       </span>
       <span className={s.searchBarAction} aria-hidden>
         {m.change}

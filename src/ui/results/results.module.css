@@ -859,6 +859,16 @@
   font-size: calc(1.16em * var(--accent-k));
   color: var(--bone);
 }
+/* A place that fits the headline's line stays on one (wholePlace.ts): the balance never splits «New / York». */
+.headline .serif[data-whole],
+.mHeadline .serif[data-whole] {
+  white-space: nowrap;
+}
+/* The headline's width for wholePlace.ts to observe: an empty block whose size the place's wrapping never changes. */
+.ruler {
+  display: block;
+  height: 0;
+}
 /* Numbers inside display sentences: the display face, tabular (V19), so "7 days, 7 satellites" match. */
 .numDisplay {
   font-family: inherit;

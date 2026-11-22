@@ -11,7 +11,7 @@
  * Every word comes from the 'results' and 'verdicts' namespaces, read at render: the model they describe holds only
  * numbers and kinds, so a language switch rewords the summary without rebuilding it.
  */
-import { Fragment, type CSSProperties } from 'react'
+import { Fragment, useRef, type CSSProperties } from 'react'
 import { LOCALE_INFO } from '../../../api/_lib/i18n/locales'
 import { isNum, isStrong, plain, type Part } from '../../../api/_lib/i18n/parts'
 import enEngine from '@/i18n/en/engine'
@@ -27,6 +27,7 @@ import { darkSentences, photosLine, radarSentence, zeroSentence, type Sentence }
 import { VERDICTS, VERDICT_GLYPH, type Verdict } from './lib/meta'
 import type { ResultsModel } from './model'
 import { placeName } from './placeName'
+import { useWholePlace } from './wholePlace'
 import s from './results.module.css'
 
 /** A window that ended more than an hour ago is described by its dates, not as "the last 7 days". */
@@ -54,6 +55,8 @@ const ENGINE = { engine: enEngine }
 
 /** The headline's looks: its count in the display face's figures, the place in the serif. */
 const HEADLINE = { num: s.numDisplay, accent: s.serif }
+/** The headline's place, for useWholePlace. */
+const PLACE = `.${s.serif}`
 
 /** The headline's parts, in the active language (read at call time). */
 function headlineParts(model: ResultsModel) {
@@ -69,10 +72,15 @@ function headlineParts(model: ResultsModel) {
 export function Headline({ model, compact = false, enter = false }: { model: ResultsModel; compact?: boolean; enter?: boolean }) {
   useMsgs(enResults)
   const cls = cx(compact ? s.mHeadline : s.headline, enter && s.enterWipe)
+  const parts = headlineParts(model)
+  const ref = useRef<HTMLHeadingElement>(null)
+  const ruler = useRef<HTMLSpanElement>(null)
+  useWholePlace(ref, ruler, PLACE, `${compact}:${plain(parts)}`)
   return (
     // Announced when it changes (the final report replacing the partial one), not on every render.
-    <h2 className={cls} aria-live="polite" style={enterStyle(0)}>
-      <Rich parts={headlineParts(model)} classes={HEADLINE} />
+    <h2 ref={ref} className={cls} aria-live="polite" style={enterStyle(0)}>
+      <Rich parts={parts} classes={HEADLINE} />
+      <span ref={ruler} className={s.ruler} aria-hidden />
     </h2>
   )
 }

@@ -28,6 +28,7 @@ import type en from '../en/about'
 import type { AboutPart, LinkPart } from '../en/about'
 import { fmt } from '../../../api/_lib/i18n/format'
 import { accent, num, type Part, type Rich } from '../../../api/_lib/i18n/parts'
+import { whole } from '../bidi'
 
 const f = fmt('ar')
 const nb = '\u00a0'
@@ -43,7 +44,7 @@ const handleLink = (handle: string): LinkPart => link(`\u2066${handle}\u2069`)
  */
 const loaded = (count: number, stamp: string): AboutPart[] => {
   const n = Math.round(count)
-  const at = num(`\u2066${stamp}\u2069`)
+  const at = num(`\u2066${whole(stamp)}\u2069`)
   return f.plural(n, {
     zero: ['لم تحمّل هذه الصفحة أي جسم. جُلبت النسخة في ', at, '.'],
     one: ['حمّلت هذه الصفحة جسمًا واحدًا، جُلب في ', at, '.'],

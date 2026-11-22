@@ -22,6 +22,7 @@ import type en from '../en/about'
 import type { AboutPart, LinkPart } from '../en/about'
 import { fmt } from '../../../api/_lib/i18n/format'
 import { accent, num, type Part, type Rich } from '../../../api/_lib/i18n/parts'
+import { whole } from '../bidi'
 
 const f = fmt('fa')
 const nb = '\u00a0'
@@ -73,8 +74,8 @@ const about: typeof en = {
     // A relative clause, not English's trailing participle («…، دریافت‌شده در …»)
     loaded: (count: number, stamp: string): AboutPart[] =>
       count === 1
-        ? ['این صفحه یک جسم را بارگیری کرد که در ', num(`\u2066${stamp}\u2069`), ' دریافت شده بود.']
-        : ['این صفحه ', num(f.int(count)), `${nb}جسم را بارگیری کرد که در `, num(`\u2066${stamp}\u2069`), ' دریافت شده بودند.'],
+        ? ['این صفحه یک جسم را بارگیری کرد که در ', num(`\u2066${whole(stamp)}\u2069`), ' دریافت شده بود.']
+        : ['این صفحه ', num(f.int(count)), `${nb}جسم را بارگیری کرد که در `, num(`\u2066${whole(stamp)}\u2069`), ' دریافت شده بودند.'],
     sgp4: 'مسیر هر ماهواره را در هفت روز گذشته با SGP4، مدل استاندارد مدار، محاسبه می‌کنیم و هر باری را که نقطهٔ شما در گسترهٔ دیدش بود یادداشت می‌کنیم.',
     facts: {
       straightDown: {

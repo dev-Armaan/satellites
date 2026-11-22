@@ -14,6 +14,7 @@ import type en from '../en/hud'
 import { fmt } from '../../../api/_lib/i18n/format'
 import { num, type Rich } from '../../../api/_lib/i18n/parts'
 import type { AgeUnit } from '@/ui/hud/readouts'
+import { whole } from '../bidi'
 
 const f = fmt('ar')
 
@@ -62,7 +63,7 @@ const hud: typeof en = {
     }),
   objectsPending: (count: string): Rich => [num(count), '\u00a0أجسام'],
   catalog: 'الكتالوج',
-  fetched: (stamp: string) => `جُلب \u2066${stamp}\u2069`,
+  fetched: (stamp: string) => `جُلب \u2066${whole(stamp)}\u2069`,
   catalogAge: (unit: AgeUnit, n: number, stale: boolean) => `${stale ? 'قديم، ' : ''}${age(unit, n)}`,
   catalogUnavailable: 'الكتالوج غير متاح',
   catalogLoading: 'جارٍ تحميل الكتالوج',

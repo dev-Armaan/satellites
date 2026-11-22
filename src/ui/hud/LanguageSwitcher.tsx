@@ -55,6 +55,9 @@ export function LanguageSwitcher({ className }: { className?: string }) {
   const [at, setAt] = useState<{ left: number; top: number; maxHeight: number } | null>(null)
   // Bumped on a resize or a rotation while the menu is open, which places it again (and picks its columns again).
   const [viewport, setViewport] = useState(0)
+  // The current language takes focus once per opening, not again each time the menu is placed (a resize, which
+  // a phone's toolbar also fires, sent a keyboard user back to it).
+  const focused = useRef(false)
   const trigger = useRef<HTMLButtonElement>(null)
   const menu = useRef<HTMLDivElement>(null)
   const listed = ORDER.filter((l) => LOCALE_INFO[l].listed || l === locale)
@@ -69,16 +72,18 @@ export function LanguageSwitcher({ className }: { className?: string }) {
   // Place the menu under the trigger, kept inside the viewport (measured hidden first, then shown in place).
   useLayoutEffect(() => {
     if (!open) return setAt(null)
-    if (!trigger.current || !menu.current) return
+    const m = menu.current
+    if (!trigger.current || !m) return
     const r = trigger.current.getBoundingClientRect()
-    const w = menu.current.offsetWidth
     const top = Math.round(r.bottom + 10)
+    const room = window.innerHeight - top - EDGE
+    const w = m.offsetWidth
     // Its edge on the trigger's reading side: the left one, or the right one in a right-to-left page (the trigger
     // is then in the top-right corner).
     const rtl = getComputedStyle(trigger.current).direction === 'rtl'
     const want = rtl ? r.right + 16 - w : r.left - 16
     const left = Math.round(Math.max(EDGE, Math.min(want, window.innerWidth - w - EDGE)))
-    setAt({ left, top, maxHeight: Math.max(160, window.innerHeight - top - EDGE) })
+    setAt({ left, top, maxHeight: Math.max(160, room) })
   }, [open, viewport])
   useEffect(() => {
     if (!open) return
@@ -90,7 +95,16 @@ export function LanguageSwitcher({ className }: { className?: string }) {
   // Focus the current language once the menu is placed and shown: it is measured under visibility: hidden first, and
   // nothing under it takes focus (keyboard users were left on the trigger, the arrows doing nothing).
   useEffect(() => {
-    if (open && at) menu.current?.querySelector<HTMLElement>('[aria-checked="true"]')?.focus({ preventScroll: true })
+    if (!open) {
+      focused.current = false
+      return
+    }
+    if (!at || focused.current) return
+    focused.current = true
+    const current = menu.current?.querySelector<HTMLElement>('[aria-checked="true"]')
+    current?.focus({ preventScroll: true })
+    // In a menu that scrolls, the current language can sit below the cut.
+    current?.scrollIntoView({ block: 'nearest', inline: 'nearest' })
   }, [open, at])
   // Close on Esc (capture) and on a press outside.
   useEffect(() => {

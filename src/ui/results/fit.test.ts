@@ -51,7 +51,13 @@ describe('timeline lanes', () => {
     expect(L.laneOf(L.laneY('could'))).toBe('could')
   })
   it('never make the photographs\' lane smaller than the others', () => {
-    expect(layoutFor(800, 69, false, true, 20).heights).toEqual([14.75, 14.75, 14.75, 14.75])
+    expect(layoutFor(800, 69, false, true, 20).heights).toEqual([17, 14, 14, 14])
+    expect(layoutFor(800, 110, false, true, 30).heights).toEqual([25, 25, 25, 25])
+  })
+  it('keep the photographs\' lane at 17 px at least, and the label lanes at their share at least', () => {
+    // A 50 px plot (screens ≤ 720 px tall): 20 / 10 / 10 / 10 by the shares; the label lanes take only what leaves 17.
+    expect(layoutFor(800, 60, false, true, 14).heights).toEqual([17, 11, 11, 11])
+    expect(layoutFor(800, 40, false, true, 14).heights).toEqual(layoutFor(800, 40, false, true).heights)
   })
   it('leave the compact strip alone', () => {
     expect(layoutFor(300, 60, true, true, 14).heights).toEqual([54 * 0.55, 54 * 0.45])

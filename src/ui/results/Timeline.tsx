@@ -74,8 +74,12 @@ const SHARES_COMPACT = [0.55, 0.45]
  * The three label lanes' least height (`--lane-min` on the plot, Timeline.module.css): 0 in most scripts. Where a
  * script's marks rise and hang further (Devanagari's ँ over ु, Vietnamese's stacked Ể under a Q's tail), a short strip's
  * 20 % lanes (11.8 px at 1280 × 800) brought one label's ink to its neighbour's; those lanes take the room from the
- * photographs' lane, which never gets smaller than they are.
+ * photographs' lane, which never gets smaller than they are, nor than PHOTO_LANE_MIN: in a shorter strip (≤ 720 px
+ * tall screens) they get what that leaves, never less than their share.
  */
+/** The photographs' lane gives the label lanes room only down to this (its diamond is 10.8 px tall). */
+const PHOTO_LANE_MIN = 17
+
 function laneMinOf(el: HTMLElement | null): number {
   return el ? parseFloat(getComputedStyle(el).getPropertyValue('--lane-min')) || 0 : 0
 }
@@ -87,7 +91,8 @@ export function layoutFor(w: number, h: number, compact: boolean, hasGeo: boolea
   const geoH = hasGeo ? (compact ? 6 : 10) : 0
   const plotH = h - geoH
   // The shares as they are unless a least height applies (then the label lanes take it, the photographs the rest).
-  const small = compact ? 0 : Math.min(Math.max(plotH * SHARES_FULL[1], laneMin), plotH / 4)
+  const room = Math.min(laneMin, plotH / 4, (plotH - PHOTO_LANE_MIN) / 3)
+  const small = compact ? 0 : Math.max(plotH * SHARES_FULL[1], room)
   const shared = compact || small === plotH * SHARES_FULL[1]
   const tops: number[] = []
   const heights: number[] = []

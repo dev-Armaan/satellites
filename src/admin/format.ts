@@ -3,7 +3,7 @@
  * A daily bucket starts at Eastern midnight (from 0016) or UTC midnight (before): Eastern midnight is 04:00 or 05:00 UTC
  * the same date, so either way the bucket's UTC date is the day it counts, and it is labelled by that.
  */
-import { LOCALE_INFO, isLocale, localeForTag } from '../../api/_lib/i18n/locales'
+import { LOCALE_INFO, LOCALES, isLocale, localeForTag } from '../../api/_lib/i18n/locales'
 
 const INT = new Intl.NumberFormat('en-US', { maximumFractionDigits: 0 })
 const MON = ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC']
@@ -125,6 +125,17 @@ export const DEVICE_NAMES: Record<string, string> = { desktop: 'Desktop', phone:
 /** A tab's language (0027) by its English name: 'pt-BR' → 'Portuguese'; an unknown code as it is. */
 export function languageName(code: string): string {
   return isLocale(code) ? LOCALE_INFO[code].english : code
+}
+
+/**
+ * Tabs by language (session.lang, 0027) with every language the site speaks: one no tab showed in the range comes last,
+ * at 0 (Persian and Hindi, the day they were added), so the list never reads as if the site lacked it. As it came
+ * when nothing was recorded at all (the section says so).
+ */
+export function everyLanguage(rows: [string, number][] | undefined): [string, number][] | undefined {
+  if (!rows?.length) return rows
+  const seen = new Set(rows.map(([v]) => v))
+  return [...rows, ...LOCALES.filter((l) => !seen.has(l)).map((l): [string, number] => [l, 0])]
 }
 
 let languages: Intl.DisplayNames | null | undefined

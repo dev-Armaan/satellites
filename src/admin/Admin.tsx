@@ -12,7 +12,7 @@ import { RANGES, currentSession, fetchLive, fetchStats, liveFor, sendMagicLink, 
 import { ActivityChart, Funnel, RankList, ReachList, Split } from './charts'
 import { liveSeries } from './live'
 import { WorldMap } from './WorldMap'
-import { ACTION_NAMES, DEVICE_NAMES, SOURCE_NAMES, TIMELAPSE_ACTION_NAMES, TIMELAPSE_FROM_NAMES, VERDICT_NAMES, browserLangReach, browserLanguageName, countryName, fmtAgo, fmtClock, fmtInt, fmtUpdated, fmtPct, fmtSec, fmtStamp, languageName, maintBehind, type FunnelStage, type Reach } from './format'
+import { ACTION_NAMES, DEVICE_NAMES, SOURCE_NAMES, TIMELAPSE_ACTION_NAMES, TIMELAPSE_FROM_NAMES, VERDICT_NAMES, browserLangReach, browserLanguageName, countryName, everyLanguage, fmtAgo, fmtClock, fmtInt, fmtUpdated, fmtPct, fmtSec, fmtStamp, languageName, maintBehind, type FunnelStage, type Reach } from './format'
 import { LOCALE_INFO, LOCALES } from '../../api/_lib/i18n/locales'
 
 type View =
@@ -390,8 +390,9 @@ function Dashboard({ s, live, busy, onRefresh }: { s: AdminStats; live: LiveCoun
   const lapseVideos = lapseShared('video')
   const lapseLinks = lapseShared('link')
   // Tabs by language (0027). Only tabs whose app named one are in the list (none from before it did), so its shares
-  // are of those tabs (dimTotals), not of every session.
-  const langs = s.top['session.lang']
+  // are of those tabs (dimTotals), not of every session. Every language the site speaks is listed, those no tab showed
+  // at 0 (everyLanguage).
+  const langs = everyLanguage(s.top['session.lang'])
   const langTabs = s.dimTotals['session.lang'] ?? 0
   const langEnglish = langs?.find(([v]) => v === 'en')?.[1] ?? 0
   const langUsed = (langs ?? []).filter(([v, n]) => v && n > 0).length
@@ -545,7 +546,7 @@ function Dashboard({ s, live, busy, onRefresh }: { s: AdminStats; live: LiveCoun
 
       <Section n={9} title="LANGUAGES">
         <div className="a-grid3">
-          <Panel title="TABS BY LANGUAGE" wide note="A tab counts once a day, in the language it showed an hour or two after it first came that day; a later switch counts from the next day.">
+          <Panel title="TABS BY LANGUAGE" wide note="A tab counts once a day, in the language it showed an hour or two after it first came that day; a later switch counts from the next day. Every language the site speaks is listed: one no tab showed in this range is at 0.">
             <RankList rows={langs} total={langTabs} max={LOCALES.length} label={languageName} empty="No languages recorded yet" cols />
           </Panel>
           <Panel title="IN USE" note="Of the tabs that recorded a language: tabs from before the app sent one are not counted here.">

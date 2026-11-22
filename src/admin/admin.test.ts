@@ -3,7 +3,7 @@ import { searchSource } from '@/app/telemetry'
 import type { Place } from '@/types'
 import { isTimeout, liveFor, parseLive, parseStats, RANGES } from './api'
 import { mockLive, mockStats } from './fixture'
-import { browserLangReach, browserLanguageName, fmtBucket, fmtPct, funnelShares, languageName, niceMax, SOURCE_NAMES, translationFor, type FunnelStage } from './format'
+import { browserLangReach, browserLanguageName, everyLanguage, fmtBucket, fmtPct, funnelShares, languageName, niceMax, SOURCE_NAMES, translationFor, type FunnelStage } from './format'
 import { LOCALE_INFO, LOCALES } from '../../api/_lib/i18n/locales'
 import { liveSeries } from './live'
 import { BAND, DUST_BELOW, cellKey, dustCount, fmtLatLon, fmtShort, keyCounts, maxCircles, nameSpots, placeMap, placeTags, spotRadius, type Found } from './placeMap'
@@ -138,6 +138,15 @@ describe('languages (0027)', () => {
     for (const l of LOCALES) expect(languageName(l)).toBe(LOCALE_INFO[l].english)
     expect(languageName('pt-BR')).toBe('Portuguese')
     expect(languageName('xx')).toBe('xx')
+  })
+  it('lists every language the site speaks, those no tab showed at 0 after the others', () => {
+    const rows: [string, number][] = [['en', 900], ['fr', 40], ['ru', 3]]
+    const all = everyLanguage(rows)!
+    expect(all.slice(0, 3)).toEqual(rows)
+    expect(all.map((r) => r[0]).sort()).toEqual([...LOCALES].sort())
+    expect(all.filter((r) => r[1] === 0).map((r) => r[0])).toEqual(LOCALES.filter((l) => !['en', 'fr', 'ru'].includes(l)))
+    expect(everyLanguage([])).toEqual([]) // nothing recorded yet: the section says so
+    expect(everyLanguage(undefined)).toBeUndefined()
   })
   it('is in the fixture: every language, fewer tabs than sessions, nothing cut', () => {
     const m = mockStats('7d', Date.UTC(2026, 10, 19, 12))

@@ -351,7 +351,9 @@ export function AboutPage({ onClose }: { onClose: () => void }) {
                 </Credit>
                 <Credit who="NASA GIBS">{m.credits.gibs}</Credit>
                 <Credit who="Meteosat">
-                  <bdi lang="en">Contains modified EUMETSAT Meteosat data {new Date().getUTCFullYear()}, from EUMETSAT’s map service.</bdi>
+                  <bdi lang="en">
+                    Contains modified EUMETSAT Meteosat data {new Date().getUTCFullYear()}, from EUMETSAT’s map service.
+                  </bdi>
                 </Credit>
                 <Credit who={m.credits.archives.who}>{m.credits.archives.text}</Credit>
                 <Credit who={m.credits.orbits.who}>{m.credits.orbits.text}</Credit>

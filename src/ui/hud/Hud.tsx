@@ -180,8 +180,11 @@ function HudImpl({ onAbout, onHome }: { onAbout?: () => void; onHome?: () => voi
   const topLeft = useRef<HTMLDivElement>(null)
   const topRight = useRef<HTMLDivElement>(null)
   useTopInset(topLeft, topRight)
-  useCrowdedLine(topLeft, topRight)
+  // The language's line first: the crowded check measures the row as it is about to be (both run on a window resize,
+  // in this order; turned upright, the stepped-down language came back into the row a frame after the scene time was
+  // measured against it alone, and ran 44–76 px over it for 2 frames).
   useLanguageRoom(topLeft)
+  useCrowdedLine(topLeft, topRight)
   // The stacked sun line gives way to the scene time during a replay and comes back after it: its
   // wipe plays with the HUD's first entrance only, never again on its return (one entrance per element).
   // Set during the render that unmounts it, so its `skip` never changes while it is mounted.

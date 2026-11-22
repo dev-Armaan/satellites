@@ -28,6 +28,7 @@ import {
   type ReactNode,
 } from 'react'
 import { LOCALE_INFO } from '../../../api/_lib/i18n/locales'
+import { queryDir } from '@/i18n/bidi'
 import { useLocale } from '@/i18n/runtime'
 import { cx } from './primitives'
 import s from './Field.module.css'
@@ -102,11 +103,9 @@ export const Field = forwardRef<HTMLInputElement, FieldProps>(function Field(
   const boxW = useRef(0)
   const raf = useRef(0)
   const [focused, setFocused] = useState(false)
-  // Right to left, what is typed reads in its own direction (dir="auto"): a coordinate pair typed on an Arabic page
-  // read «23.500 ,12.500». Empty, the field stays right to left, so the placeholder (and its punctuation) reads as the
-  // page does. Left to right nothing changes: the block caret's arithmetic assumes a left-to-right line.
+  // Right to left, what is typed reads in its own direction (queryDir): a coordinate pair typed on an Arabic page
+  // read «23.500 ,12.500». Left to right nothing changes: the block caret's arithmetic assumes a left-to-right line.
   const rtlPage = LOCALE_INFO[useLocale()].dir === 'rtl'
-  const typed = rest.value !== undefined && rest.value !== ''
   useImperativeHandle(ref, () => inputRef.current as HTMLInputElement, [])
 
   const measureCell = useCallback(() => {
@@ -252,7 +251,7 @@ export const Field = forwardRef<HTMLInputElement, FieldProps>(function Field(
             autoCorrect="off"
             autoCapitalize="off"
             spellCheck={false}
-            dir={rtlPage ? (typed ? 'auto' : 'rtl') : undefined}
+            dir={rtlPage ? queryDir(String(rest.value ?? '')) : undefined}
             onFocus={(e) => {
               setFocused(true)
               onFocus?.(e)

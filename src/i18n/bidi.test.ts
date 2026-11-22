@@ -6,7 +6,7 @@
 import { describe, expect, it } from 'vitest'
 import arPass from './ar/pass'
 import arResults from './ar/results'
-import { isoUnlessRtl, ltr, whole } from './bidi'
+import { isoUnlessRtl, ltr, queryDir, whole } from './bidi'
 import faPass from './fa/pass'
 import faResults from './fa/results'
 
@@ -54,5 +54,19 @@ describe('isoUnlessRtl', () => {
       expect(s).toContain(ltr(whole('Africa/Niamey')))
       expect(results.notes.passTimes('Niamey', undefined, 'UTC+1')).toContain(ltr('UTC+1'))
     }
+  })
+
+  it('reads a query typed on a right-to-left page in its own direction', () => {
+    expect(queryDir('')).toBe('rtl')
+    expect(queryDir('12.500, 23.500')).toBe('ltr')
+    expect(queryDir('-33.4, 151.2')).toBe('ltr')
+    expect(queryDir('Paris')).toBe('ltr')
+    expect(queryDir('12 Main St')).toBe('ltr')
+    // Arabic and Persian words, and a number before them, as dir="auto" reads them
+    expect(queryDir('\u0627\u0644\u0642\u0627\u0647\u0631\u0629')).toBe('rtl')
+    expect(queryDir('12 \u062e\u06cc\u0627\u0628\u0627\u0646')).toBe('rtl')
+    // Persian and Arabic-Indic digits with no letter: right to left (dir="auto" would say left to right)
+    expect(queryDir('\u06f4\u06f3\u066b\u06f4\u06f7\u060c \u06f8\u06f0\u066b\u06f5\u06f4')).toBe('rtl')
+    expect(queryDir('\u0664\u0663\u066b\u0664\u0667\u060c -\u0668\u0660')).toBe('rtl')
   })
 })

@@ -252,6 +252,8 @@
   font-size: var(--fs-micro);
   letter-spacing: var(--track-label);
   font-variant-numeric: tabular-nums;
+  /* A counter is a mono label: its words (Vietnamese "trên") in capitals, as the gallery's */
+  text-transform: uppercase;
   color: var(--bone-2);
   pointer-events: none;
 }

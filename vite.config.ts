@@ -90,6 +90,11 @@ function overflightHtml(): Plugin {
         state.set(file, 'done')
       }
       for (const file of imports.keys()) visit(file, [])
+      // A failed prefetch of the card's measure stays quiet only while its chunk is named so (src/ui/share/measure.ts,
+      // src/lib/staleBuild.ts): renamed, every such failure would reload the results being read.
+      const app = Object.values(bundle).some((o) => o.type === 'chunk' && o.isEntry && /index/.test(o.name))
+      if (app && ![...imports.keys()].some((f) => /(^|\/)cardMeasure-[\w-]+\.js$/.test(f)))
+        this.error('no cardMeasure-*.js chunk: src/ui/share/measure.ts and src/lib/staleBuild.ts match that name')
     },
     configResolved(config) {
       origin = siteOrigin({ ...process.env, ...loadEnv(config.mode, config.root, '') } as Record<string, string>)

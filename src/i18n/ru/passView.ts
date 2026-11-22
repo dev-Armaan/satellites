@@ -158,8 +158,9 @@ const passView: typeof en = {
   // ── 01 / Geometry ───────────────────────────────────────────────────────────────────────
   geo: {
     closestUtc: 'Сближение · UTC',
-    // «местное» pairs with «UTC» in the cell beside it, as English "local" does («местное время»).
-    closestLocal: 'Сближение · местное',
+    // «Местное время» alone, as German has «Ortszeit»: it stands beside «Сближение · UTC» in the same row, so the moment
+    // is named once. «Сближение · местное» (19) wrapped in its 164 px cell on a 390 px phone while English set one line.
+    closestLocal: 'Местное время',
     // Nowrap labels in a ~153 px column (19 characters at most): «До трассы», as the share card says it.
     groundDistance: 'До трассы',
     elevationFromYou: 'Над горизонтом',
@@ -174,7 +175,8 @@ const passView: typeof en = {
     noradPass: 'NORAD · пролёт',
     // «Линия» alone, as in «Скорость линии» on the same screen: the full term would overflow its cell.
     scanUtc: 'Линия здесь · UTC',
-    scanLocal: 'Линия здесь · местное',
+    // The local clock beside «Линия здесь · UTC», as «Местное время» beside «Сближение · UTC».
+    scanLocal: 'Местное время',
     aboveEquator: 'Над экватором',
     inYourSky: 'В твоём небе',
     scanDirection: 'Направление линии',

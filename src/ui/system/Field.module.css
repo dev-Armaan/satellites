@@ -177,6 +177,9 @@
 }
 :root[dir='rtl'] .input {
   caret-color: var(--bone);
+  /* A Latin query takes its own direction (dir="auto", Field.tsx) but stays where the page starts, so the text never
+     jumps across the field at its first letter. Physical: `start` would read the query's direction. */
+  text-align: right;
 }
 
 /* Baseline: 1px hairline; on focus a 2px bone line wipes in from the left over it (from the right, right to left). */

@@ -240,6 +240,11 @@
 .clockLine:has(~ .sceneLine[data-crowded]) {
   visibility: hidden;
 }
+/* Up there and still too close to the wordmark (the narrowest phones, the longer languages: useCrowdedLine), the scene
+   time drops its tracking rather than a word. */
+.sceneLine[data-tight] {
+  letter-spacing: 0;
+}
 
 @media (max-width: 760px) {
   .desk {

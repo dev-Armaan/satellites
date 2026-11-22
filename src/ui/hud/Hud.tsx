@@ -331,8 +331,19 @@ function useCrowdedLine(topLeft: RefObject<HTMLDivElement | null>, topRight: Ref
       if (!a.width || !b.width) return // the sun line is not shown here (wide screens)
       // Right to left the corners swap: the language line is at the right, the sun or scene at the left.
       const rtl = getComputedStyle(tr).direction === 'rtl'
-      const gap = rtl ? a.left - b.right : b.left - a.right
-      flag.set(line, 'data-crowded', gap < MIN_ROW_GAP, inObserver)
+      // The line's extent at the corner's tracking: while it is tightened (below) it is narrower by its tracking, and
+      // both decisions are made on the untightened line, so tightening it never undoes either.
+      const tight = line.hasAttribute('data-tight')
+      const width = b.width + (tight ? [...line.innerText].length * (parseFloat(getComputedStyle(tr).letterSpacing) || 0) : 0)
+      const [start, end] = rtl ? [b.left, b.left + width] : [b.right - width, b.right]
+      const crowded = (rtl ? a.left - end : start - a.right) < MIN_ROW_GAP
+      flag.set(line, 'data-crowded', crowded, inObserver)
+      // Moved up, the scene time is beside the wordmark: on the narrowest phones (320 px) and in the longer languages
+      // it came within 4 px of it (Polish, Indonesian: "POWTÓRKA 10:41:54 UTC+5:45"). There it drops its tracking,
+      // which keeps every word of it (the label and the zone say what the time is) and clears the wordmark by 7 px.
+      const mark = line.matches(`.${s.sceneLine}`) ? tl.querySelector('[data-hud-wordmark]')?.getBoundingClientRect() : undefined
+      const nearMark = !!mark && crowded && (rtl ? mark.left - end : start - mark.right) < MIN_ROW_GAP
+      flag.set(line, 'data-tight', nearMark, inObserver)
     }
     const now = () => check(false)
     const ro = new ResizeObserver(() => check(true))
@@ -436,23 +447,36 @@ function useLanguageRoom(topLeft: RefObject<HTMLDivElement | null>) {
  * a replay). So there the write waits for the next frame, before its layout, which the observers then see like any
  * other change; the frame already laid out is painted as it was, one frame of the old layout (the same rule as
  * Sheet.tsx's footer padding, R3-12). Elsewhere it is written at once: at mount (before the first paint), from the
- * MutationObserver (a line just remounted) and on a window resize (before the frame's layout). A newer check drops a
- * write still waiting: the latest measurement decides.
+ * MutationObserver (a line just remounted) and on a window resize (before the frame's layout). A newer check drops a write still waiting: the latest measurement decides.
  */
 function layoutFlag() {
   let frame = 0
+  // The writes waiting for the next frame, one per attribute (the latest decision for each), made in one frame.
+  const pending = new Map<string, () => void>()
   const drop = () => {
     cancelAnimationFrame(frame)
     frame = 0
+    pending.clear()
   }
   const set = (el: Element, name: string, on: boolean, inObserver: boolean) => {
-    if (el.hasAttribute(name) === on) return
-    const write = () => {
-      frame = 0
-      el.toggleAttribute(name, on)
+    if (el.hasAttribute(name) === on) {
+      pending.delete(name)
+      return
     }
-    if (inObserver) frame = requestAnimationFrame(write)
-    else write()
+    const write = () => el.toggleAttribute(name, on)
+    if (!inObserver) {
+      pending.delete(name)
+      write()
+      return
+    }
+    pending.set(name, write)
+    if (!frame)
+      frame = requestAnimationFrame(() => {
+        frame = 0
+        const writes = [...pending.values()]
+        pending.clear()
+        writes.forEach((w) => w())
+      })
   }
   return { set, drop }
 }

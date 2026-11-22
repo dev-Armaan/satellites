@@ -72,8 +72,15 @@ const sat = (s: SatName) => s ?? 'एक उपग्रह'
 /** «Sentinel-2C» / «किसी उपग्रह» (before ने, की) */
 const satObl = (s: SatName) => s ?? 'किसी उपग्रह'
 
-/** The subject and the space after it, tied to the next word unless its last word is hyphenated («Sentinel-2C ») */
-const tieLast = (subject: string) => `${subject}${/-\S*$/.test(subject) ? ' ' : '\u00a0'}`
+/**
+ * The subject and the space after it, tied to the next word when its last word is Devanagari («उपग्रह») or at most five
+ * characters with no hyphen («60989»): a longer Latin word in capitals runs out of the card with the verb tied to it
+ * (PROTOMETHEE: 68 px past the column at 72 px, review 2026-11-22), and satori never breaks after a hyphen in a tied run.
+ */
+const tieLast = (subject: string) => {
+  const last = /\S*$/.exec(subject)![0]
+  return `${subject}${/[\u0900-\u097f]/.test(last) || (last.length <= 5 && !last.includes('-')) ? '\u00a0' : ' '}`
+}
 
 /** Where it moved, 0 north … 7 northwest («दक्षिण की ओर») */
 const COMPASS = ['उत्तर', 'उत्तर-पूर्व', 'पूर्व', 'दक्षिण-पूर्व', 'दक्षिण', 'दक्षिण-पश्चिम', 'पश्चिम', 'उत्तर-पश्चिम']
@@ -88,9 +95,8 @@ const hi: CardMessages = {
   headline: (satellites: number, place: string, _cut: boolean): Rich => [head(place, 'को'), watched(satellites)],
   // The verb is tied to the word before it («ने देखा।», «पट्टी गुज़री।», «पहुँच थी।»), and «ऊपर से» is tied, so no line
   // holds a lone «देखा।», «गुज़री।» or «से» (each did at 72–84 px, 2026-11-22). «गुज़रा।» takes the name's last word
-  // («60989 गुज़रा।», «(Zarya) गुज़रा।», «उपग्रह गुज़रा।»), never the whole name, and not a hyphenated word: satori does not
-  // break after a hyphen inside a tied run, so «STARLINK-31234 गुज़रा।» would run out of the card. Such a name is left
-  // to headlineSizeDevanagari's lone-word check.
+  // when that word is short (tieLast: «60989 गुज़रा।», «उपग्रह गुज़रा।»), never the whole name; any other name is left to
+  // headlineSizeDevanagari's lone-word check.
   headlineBy: {
     imaged: (s: SatName, place: string, _cut: boolean): Rich => [head(place, 'को'), `${satObl(s)} ने\u00a0देखा।`],
     likely: (s: SatName, place: string, _cut: boolean): Rich => [

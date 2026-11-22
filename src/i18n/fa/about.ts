@@ -97,7 +97,7 @@ const about: typeof en = {
       },
     },
     archives:
-      `بعد آرشیوهای تصویر (${ltr('Microsoft Planetary Computer')}، ${ltr('Element 84')} و ناسا) را جستجو می‌کنیم و هر تصویر را با گذری که آن را گرفت جفت می‌کنیم. هر تصویری که می‌بینید همان تصویر واقعی است، که پیرامون نقطهٔ شما بریده شده.`,
+      `بعد آرشیوهای تصویر (${ltr(`Microsoft${nb}Planetary${nb}Computer`)}، ${ltr(`Element${nb}84`)} و ناسا) را جستجو می‌کنیم و هر تصویر را با گذری که آن را گرفت جفت می‌کنیم. هر تصویری که می‌بینید همان تصویر واقعی است، که پیرامون نقطهٔ شما بریده شده.`,
     photoFacts: {
       touchUps: {
         // Never «دست‌کاری» (tampering, a doctored photo): the paragraph's point is that nothing is added or removed
@@ -150,23 +150,26 @@ const about: typeof en = {
   },
 
   credits: {
+    // Multi-word Latin names are tied with no-break spaces here and in the archives sentence: in a right-to-left line a
+    // name broken in two («Copernicus Data | Space Ecosystem») reads from the left end of one line to the right start of
+    // the next, mid-name.
     // A label on its own, so a noun («سازنده»), never «ساختهٔ», which ends on an ezafe with nothing after it
     madeBy: { who: 'سازنده', text: (handle: string): AboutPart[] => ['Armaan، ', handleLink(handle), ' در X'] },
     gibs: 'تصویرها از GIBS ناسا، که بخشی از EOSDIS است. تصویرهای GOES از طریق NOAA و CIRA و تصویرهای Himawari از طریق JMA.',
     archives: {
       who: 'آرشیوها',
-      text: 'Microsoft Planetary Computer و Element 84 Earth Search؛ باند 15 متری Landsat از Copernicus Data Space Ecosystem.',
+      text: `Microsoft${nb}Planetary${nb}Computer و Element${nb}84 Earth${nb}Search؛ باند 15${nb}متری Landsat از Copernicus${nb}Data${nb}Space${nb}Ecosystem.`,
     },
     orbits: { who: 'مدارها', text: 'مجموعه‌عناصر مداری از CelesTrak. پیاده‌سازی SGP4 از satellite.js.' },
     // OpenStreetMap's own Persian attribution
     placeNames: { who: 'نام مکان‌ها', text: 'Photon از komoot. داده‌های نقشه © مشارکت‌کنندگان OpenStreetMap (ODbL).' },
-    textures: { who: 'بافت‌های زمین', text: 'Solar System Scope (CC BY 4.0)، از Blue Marble و Black Marble ناسا.' },
+    textures: { who: 'بافت‌های زمین', text: `Solar${nb}System${nb}Scope (CC${nb}BY${nb}4.0)، از Blue${nb}Marble و Black${nb}Marble ناسا.` },
     // Names the faces the Persian page is set in too, so the credit says what is on screen
     // «قلم‌ها» (typefaces); «حروف» is "letters". «؛» is a strong right-to-left letter for the bidi algorithm, so it keeps
     // the Latin names on either side apart.
     type: {
       who: 'قلم‌ها',
-      text: 'Instrument Sans و Instrument Serif از Instrument؛ Martian Mono از Evil Martians؛ Noto Sans Arabic و Amiri برای فارسی (SIL OFL).',
+      text: `Instrument${nb}Sans و Instrument${nb}Serif از Instrument؛ Martian${nb}Mono از Evil${nb}Martians؛ Noto${nb}Sans${nb}Arabic و Amiri برای فارسی (SIL${nb}OFL).`,
     },
   },
 

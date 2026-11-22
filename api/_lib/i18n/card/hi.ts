@@ -84,14 +84,19 @@ const hi: CardMessages = {
 
   headline: (satellites: number, place: string, _cut: boolean): Rich => [head(place, 'को'), watched(satellites)],
   // The verb is tied to the word before it («ने देखा।», «पट्टी गुज़री।», «पहुँच थी।»), and «ऊपर से» is tied, so no line
-  // holds a lone «देखा।», «गुज़री।» or «से» (each did at 72–84 px, 2026-11-22). A satellite's name is never tied to the
-  // verb: a Latin name in capitals is wider a letter than headlineSizeDevanagari counts a tied run (STARLINK-31234);
-  // a lone «गुज़रा।» is left to its size check instead.
+  // holds a lone «देखा।», «गुज़री।» or «से» (each did at 72–84 px, 2026-11-22). «गुज़रा।» takes the name's last word
+  // («60989 गुज़रा।», «(Zarya) गुज़रा।»; a hyphen still breaks, «STARLINK- / 31234 गुज़रा।»), never the whole name.
   headlineBy: {
     imaged: (s: SatName, place: string, _cut: boolean): Rich => [head(place, 'को'), `${satObl(s)} ने\u00a0देखा।`],
-    likely: (s: SatName, place: string, _cut: boolean): Rich => [head(place, 'के ऊपर\u00a0से'), `${satObl(s)} की पट्टी\u00a0गुज़री।`],
+    likely: (s: SatName, place: string, _cut: boolean): Rich => [
+      head(place, 'के ऊपर\u00a0से'),
+      `${satObl(s)} की पट्टी\u00a0गुज़री।`,
+    ],
     could: (s: SatName, place: string, _cut: boolean): Rich => [head(place, 'तक'), `${satObl(s)} की पहुँच\u00a0थी।`],
-    overhead: (s: SatName, place: string, _cut: boolean): Rich => [head(place, 'के ऊपर\u00a0से'), `${sat(s)} गुज़रा।`],
+    overhead: (s: SatName, place: string, _cut: boolean): Rich => [
+      head(place, 'के ऊपर\u00a0से'),
+      `${sat(s)}\u00a0गुज़रा।`,
+    ],
   },
   // The count, its verb and the danda are tied (no-break spaces), so the lead breaks after «इस हफ़्ते» and never leaves
   // «देखा।» alone on a line: «262 उपग्रहों ने देखा।» is 380 px at the week card's 62 px (441 px at 72) in the 466 px

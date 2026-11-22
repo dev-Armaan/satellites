@@ -515,12 +515,14 @@ function lonelyLast(lines: string[][]): boolean {
 /**
  * Units of the widest run of `text` that no renderer may break (a word, or words tied by no-break spaces), its
  * nonspacing marks left out: a vowel sign above or below, a virama, a nukta or an anusvara has no advance of its own.
- * Counted so, the card's tied runs («262 उपग्रहों ने देखा।», «पट्टी गुज़री।») measure 0.34 to 0.37 em a unit in the display
- * face (Chromium, 2026-11-22), so DEVANAGARI_EM.lead still errs wide on them; with the marks counted, the week's run
- * (441 px at 72 px) would count as 559 px and be set needlessly small.
+ * Counted so, the card's tied runs («262 उपग्रहों ने देखा।», «पट्टी गुज़री।») measure 0.34 to 0.37 em a unit in the
+ * display face (Chromium, 2026-11-22), so DEVANAGARI_EM.lead still errs wide on them; with the marks counted, the
+ * week's run (441 px at 72 px) would count as 559 px and be set needlessly small.
  */
 function widestRun(text: string): number {
-  return Math.max(0, ...runs(text).map((r) => r.replace(/\p{Mn}/gu, '').length))
+  // A hyphen breaks where the renderers break it («STARLINK-» / «31234 गुज़रा।»): the run is each part, its hyphen kept.
+  const parts = runs(text).flatMap((r) => r.replace(/-/g, '-\u0000').split('\u0000'))
+  return Math.max(0, ...parts.map((r) => r.replace(/\p{Mn}/gu, '').length))
 }
 
 /**

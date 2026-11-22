@@ -137,7 +137,9 @@ describe('the Hindi headline’s size', () => {
     expect(S).toBeLessThan(84)
     expect(S).toBeGreaterThanOrEqual(36)
     // the marks above and below are not counted: the week's run (441 px at 72 px) keeps 72
-    const week = buildSummarySpec({ placeLabel: 'Waterloo', lat: 43.47, lon: -80.54, satellites: 262, counts: { imaged: 31, likely: 220, could: 1544, overhead: 66 }, host: 'watched.earth' }, 'hi')
+    const counts = { imaged: 31, likely: 220, could: 1544, overhead: 66 }
+    const input = { placeLabel: 'Waterloo', lat: 43.47, lon: -80.54, satellites: 262, counts, host: 'x' }
+    const week = buildSummarySpec(input, 'hi')
     expect(week.size).toBe(72)
   })
 

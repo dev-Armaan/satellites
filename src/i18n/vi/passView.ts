@@ -135,10 +135,11 @@ const passView: typeof en = {
   // ── 01 / Hình học ────────────────────────────────────────────────────────────────────────
   geo: {
     closestUtc: 'Gần nhất · UTC',
-    closestLocal: 'Gần nhất · địa phương',
+    closestLocal: 'Gần\u00a0nhất · địa\u00a0phương',
     groundDistance: 'Khoảng cách mặt đất',
-    /** The label form of the spot, *điểm* (as `MÂY TẠI ĐIỂM`): *Góc ngẩng từ chỗ bạn* took two lines on phones */
-    elevationFromYou: 'Góc ngẩng tại điểm',
+    /** The label form of the spot, *điểm* (as `MÂY TẠI ĐIỂM`): *Góc ngẩng từ chỗ bạn* took two lines on phones;
+     * at 360 px this one still wraps, held as GÓC NGẨNG / TẠI ĐIỂM (as the closest-local label, GẦN NHẤT · / ĐỊA PHƯƠNG) */
+    elevationFromYou: 'Góc\u00a0ngẩng tại\u00a0điểm',
     groundSpeed: 'Tốc độ mặt đất',
     heading: 'Hướng bay',
     sunElevation: 'Góc ngẩng Mặt Trời',

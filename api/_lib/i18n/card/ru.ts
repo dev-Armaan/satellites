@@ -78,16 +78,18 @@ const satGen = (s: SatName) => (s !== undefined ? `спутника ${s}` : 'н�
 
 /**
  * «сюда смотрел 21 спутник» · «сюда смотрели 22 спутника» · «…7 спутников» · «…1,5 спутника»; zero: «ни один известный
- * нам спутник сюда не смотрел», the negation last, which also sets the week card's lead in three lines, not four
+ * нам спутник сюда не смотрел», the negation last, which also sets the week card's lead in three lines, not four.
+ * «сюда» and its verb are tied: untied, the 466 px column set «На этой неделе сюда / смотрели / 219 спутников.», a verb
+ * alone on its line; tied, it sets «На этой неделе / сюда смотрели / 219 спутников.»
  */
 const watchedHere = (n: number) =>
   n <= 0
     ? 'ни один известный нам спутник сюда не смотрел'
     : f.plural(n, {
-        one: `сюда смотрел ${count(n)}\u00a0спутник`,
-        few: `сюда смотрели ${count(n)}\u00a0спутника`,
-        many: `сюда смотрели ${count(n)}\u00a0спутников`,
-        other: `сюда смотрели ${count(n)}\u00a0спутника`,
+        one: `сюда\u00a0смотрел ${count(n)}\u00a0спутник`,
+        few: `сюда\u00a0смотрели ${count(n)}\u00a0спутника`,
+        many: `сюда\u00a0смотрели ${count(n)}\u00a0спутников`,
+        other: `сюда\u00a0смотрели ${count(n)}\u00a0спутника`,
       })
 const cap = (s: string) => s.charAt(0).toLocaleUpperCase('ru') + s.slice(1)
 /** «снимок · снимка · снимков · снимка» */

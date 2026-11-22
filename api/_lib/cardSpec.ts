@@ -464,12 +464,22 @@ const accentFits = (head: Rich, locale: Locale, S: number) => headlineFits(head.
  */
 function fittedPlace(label: string, locale: Locale, build: (place: string) => Rich): string {
   let place = cardPlace(label)
-  let cps = Array.from(place.endsWith('…') ? place.slice(0, -1) : place)
-  while (cps.length > 1 && !accentFits(build(place), locale, HEAD_MIN)) {
-    cps = cps.slice(0, -1)
-    place = `${cps.join('').trimEnd()}…`
+  if (accentFits(build(place), locale, HEAD_MIN)) return place
+  // Cut between graphemes, so a conjunct («द्य»), a flag or an accented letter in NFD is never split, and drop a
+  // joiner left at the end
+  let parts = graphemes(place.endsWith('…') ? place.slice(0, -1) : place)
+  while (parts.length > 1) {
+    parts = parts.slice(0, -1)
+    place = `${parts.join('').replace(/[\s\u200c\u200d]+$/, '')}…`
+    if (accentFits(build(place), locale, HEAD_MIN)) break
   }
   return place
+}
+
+/** The user-perceived characters of `text` (Intl.Segmenter; code points where a runtime has none). */
+function graphemes(text: string): string[] {
+  const S = (Intl as { Segmenter?: new (l?: string, o?: { granularity: 'grapheme' }) => { segment(t: string): Iterable<{ segment: string }> } }).Segmenter
+  return S ? Array.from(new S(undefined, { granularity: 'grapheme' }).segment(text), (g) => g.segment) : Array.from(text)
 }
 
 /**

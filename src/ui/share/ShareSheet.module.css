@@ -274,6 +274,11 @@
   gap: 8px;
   white-space: pre-line;
 }
+/* A paragraph never ends on one word alone («image», «dipublikasikan», «हुईं» on a phone, «图像» split at 1280): the
+   preview takes a line from above instead. Only the wrap changes; the post is the same text. */
+.textBody > * {
+  text-wrap: pretty;
+}
 .textLabel {
   padding-top: 2px;
   font-family: var(--font-mono);

@@ -10,7 +10,8 @@
  * Latin, Cyrillic and Vietnamese are the faces' advances and kerning (a pair the table leaves out is kerned by less
  * than 0.002 em; an accented letter is kerned as its base letter), within a pixel of what the renderers set either
  * way; Arabic and Devanagari are rebuilt from their letters' forms in the widest of the renderers' faces (satori's);
- * Han, kana and hangul are a full em; any other script 0.6 em a letter.
+ * Han, kana and hangul are a full em; the other South and South-East Asian scripts 0.65 em a code point, their signs
+ * included (Thai 0.4); anything else 0.65 em a letter.
  *
  * The pieces are what no renderer breaks: words between breaking spaces (a no-break space ties its words), split after
  * a hyphen only where all three break, between a letter or digit and a letter (Unicode's line breaking keeps «-80» and
@@ -159,12 +160,31 @@ export function textEm(text: string, role: HeadRole, locale: Locale): number {
       continue
     }
     const cp = (SPACE_LIKE.test(ch) ? '\u00a0' : ch).codePointAt(0)!
-    w += latinEm(cp, role, locale) ?? (MARK.test(ch) || ch === '\u200c' || ch === '\u200d' ? 0 : WIDE.test(ch) ? 1 : 0.6)
+    w += latinEm(cp, role, locale) ?? otherEm(ch)
     if (prev) w += kern(prev, ch, role, locale)
     prev = ch
     i++
   }
   return w
+}
+
+/** Thai: its letters and signs measure about 0.35 em a code point in satori's Noto Sans Thai (Bangkok's full name). */
+const THAI = /[\u0e00-\u0e7f]/
+/**
+ * The other Indic scripts, Lao, Myanmar and Khmer: their vowel signs take room of their own, so every code point
+ * counts, at up to 0.64 em (satori's Noto faces, 2026-11-22: Tamil «விசாகப்பட்டினம்» 0.56, Malayalam 0.55, Myanmar
+ * 0.59, Lao 0.64).
+ */
+const SOUTH_ASIAN = /[\u0980-\u0dff\u0e80-\u0eff\u1000-\u109f\u1780-\u17ff]/
+
+/** A character none of the tables covers. */
+function otherEm(ch: string): number {
+  if (ch === '\u200c' || ch === '\u200d') return 0
+  if (THAI.test(ch)) return 0.4
+  if (SOUTH_ASIAN.test(ch)) return 0.65
+  if (MARK.test(ch)) return 0
+  // Han, kana, hangul; anything else (Greek capitals are 0.62 em, Latin Extended-B up to 0.9)
+  return WIDE.test(ch) ? 1 : 0.65
 }
 
 /** Shaped scripts take no tracking in any renderer (cardSpec.ts needsShaping): the same test, here for the width. */

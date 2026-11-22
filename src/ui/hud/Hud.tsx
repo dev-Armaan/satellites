@@ -24,7 +24,7 @@ import { Rich } from '@/i18n/Rich'
 import { currentLocale, useLocale, useMsgs } from '@/i18n/runtime'
 import { timeZoneAt, tzReady } from '@/imagery'
 import { subsolarPoint } from '@/lib/geo'
-import { INSET_CLEAR, isStacked } from '@/lib/layout'
+import { INSET_CLEAR, PANEL_EXIT_MS, isStacked } from '@/lib/layout'
 import { sceneClock, useSceneFrame } from '@/state/sceneClock'
 import { useApp } from '@/state/store'
 import { Bezel, CornerReadout, Kbd, Reveal, ScrambleOnce, cx, fmtUtcDate, fmtUtcTime, useWallSecondSync, Wordmark } from '@/ui/system'
@@ -400,6 +400,9 @@ function useLanguageRoom(topLeft: RefObject<HTMLDivElement | null>) {
     let rule = 0
     // The page's direction at the last check: a switch across directions moves the dock to the other side.
     let wasRtl: boolean | undefined
+    // When the results last gave way to the landing (a new search), and the check waiting for their panel's exit.
+    let leftResultsAt = -Infinity
+    let held = 0
     const watched = new WeakSet<Element>()
     const watch = (el: Element) => {
       if (watched.has(el)) return
@@ -435,6 +438,15 @@ function useLanguageRoom(topLeft: RefObject<HTMLDivElement | null>) {
       const fits = isStacked(window.innerWidth, window.innerHeight) || (rtl
         ? left <= 0 || r.right - need - PANEL_GAP >= left - INSET_CLEAR
         : right <= 0 || r.left + need + PANEL_GAP <= window.innerWidth - right + INSET_CLEAR)
+      // New search: the results panel leaves as a clone that clips away for PANEL_EXIT_MS (results/shell.ts), while the
+      // landing has already published its own inset. The language stays on its line until that has played, or it ran
+      // under the leaving panel for 19 frames (Russian at 812 × 375).
+      const wait = leftResultsAt + PANEL_EXIT_MS - performance.now()
+      if (fits && below && wait > 0) {
+        clearTimeout(held)
+        held = window.setTimeout(now, wait)
+        return
+      }
       flag.set(row, 'data-lang-below', !fits, inObserver)
     }
     const now = () => check(false)
@@ -443,6 +455,8 @@ function useLanguageRoom(topLeft: RefObject<HTMLDivElement | null>) {
     // A panel that arrives, leaves or moves publishes new insets, mostly from its own ResizeObserver (results/shell.ts
     // useInsets): taken as from inside one.
     const unsub = useApp.subscribe((st, prev) => {
+      const showing = (p: string) => p === 'computing' || p === 'results'
+      if (showing(prev.phase) && !showing(st.phase)) leftResultsAt = performance.now()
       if (st.uiInsets.left !== prev.uiInsets.left || st.uiInsets.right !== prev.uiInsets.right) check(true)
     })
     // A remounted line (the boot entrance) is a new element.
@@ -456,6 +470,7 @@ function useLanguageRoom(topLeft: RefObject<HTMLDivElement | null>) {
       ro.disconnect()
       mo.disconnect()
       unsub()
+      clearTimeout(held)
       flag.drop()
       window.removeEventListener('resize', now)
     }

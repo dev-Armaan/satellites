@@ -14,3 +14,9 @@ export const isStacked = (w: number, h: number) => w <= 760 || (h > w && w <= 11
  * because the HUD reads a panel's edge back from its inset (src/ui/hud/Hud.tsx useLanguageRoom).
  */
 export const INSET_CLEAR = 24
+
+/**
+ * How long the results panel takes to leave (results/shell.ts useShellExit: it clips away toward its edge). The HUD
+ * keeps its stepped-down language until then, so the name never runs under the panel on its way out.
+ */
+export const PANEL_EXIT_MS = 320

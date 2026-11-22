@@ -12,7 +12,7 @@
  */
 import { startTransition, useCallback, useEffect, useLayoutEffect, useRef, useState, type RefObject } from 'react'
 import { DUR, EASE } from '@/lib/ease'
-import { INSET_CLEAR } from '@/lib/layout'
+import { INSET_CLEAR, PANEL_EXIT_MS } from '@/lib/layout'
 import { useLocale } from '@/i18n/runtime'
 import { useApp } from '@/state/store'
 import { prefersReducedMotion } from '@/ui/system'
@@ -332,7 +332,7 @@ export function useShellExit(sectionRef: RefObject<HTMLElement | null>, timeline
                   { clipPath: 'inset(0 0 0 0)', translate: '0 0' },
                   { clipPath: 'inset(0 0 0 100%)', translate: '16px 0' },
                 ],
-        reduced ? 200 : 320,
+        reduced ? 200 : PANEL_EXIT_MS,
       )
       exitTimeline(timelineRef.current ?? timeline)
     }

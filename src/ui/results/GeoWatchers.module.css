@@ -166,7 +166,9 @@
 }
 /* The frame's age under it, inside the frame's width: where it is longer ("25 min ago", "1 giờ trước") it wraps in
    two balanced lines rather than running into the name beside it, and the live dot keeps its size on the first line
-   (on one nowrap line it was the dot that gave way, to 0 px). */
+   (on one nowrap line it was the dot that gave way, to 0 px). Two lines are kept in every state ("—" while the frame
+   loads, "1 h ago"), so a row never grows when its frame arrives and every row is as tall. A word longer than the
+   frame («À L’INSTANT») runs a few pixels into the gap rather than break. */
 .frameTime {
   display: flex;
   align-items: flex-start;
@@ -179,6 +181,7 @@
   font-variant-numeric: tabular-nums;
   color: var(--bone-3);
   text-wrap: balance;
+  min-height: 2lh;
 }
 .dot {
   flex: none;

@@ -1074,6 +1074,8 @@ Every screen measured at 360, 390 and 430 px portrait, 844 × 390 and 1280 × 80
 - Results headline: a short place stays whole (`New\u00a0Delhi`). The balanced headline broke the serif name at every
   phone width (`पिछले 7 दिनों में New / Delhi को 262 उपग्रहों ने देखा।`); now it breaks after `को` (360–430 px) and keeps
   `-12.000, -30.000 को` on one line at sea. Long names (`Thiruvananthapuram, Kerala, India`) keep their spaces.
+  (Since replaced by the shared rule for every language, `src/ui/results/wholePlace.ts`: the catalog writes plain
+  spaces, and the headline keeps the place whole wherever it fits one line.)
 - Week card: `इस हफ़्ते 262 उपग्रहों ने / देखा।` (a lone verb) → the count phrase tied, `इस हफ़्ते / 262 उपग्रहों ने देखा।`
   (380 px at 62 px in the 466 px column, 441 px at 72; a week's lead is never set at 84 px). Zero ties `किसी भी`,
   `उपग्रह ने` and `नहीं देखा।` (`… के / किसी भी उपग्रह ने / नहीं देखा।`: untied it left `देखा।` alone, tied whole it opened

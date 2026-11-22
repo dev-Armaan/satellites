@@ -48,10 +48,26 @@ const GEN = 'src/imagery/localPlaces.gen.ts'
 /** Feature codes left out: historical, abandoned or destroyed places, and religious centres. */
 const SKIP = new Set(['PPLH', 'PPLQ', 'PPLW', 'PPLCH', 'PPLR'])
 /**
- * GeoNames rows a bad edit made wrong, left out until GeoNames puts them right: 2338612, a village in Delta State that
- * an edit of 2026-11-16 gave 2,000,000 people, would have outranked real cities in a search and got a place page.
+ * GeoNames rows a recent edit made wrong for a search, left out until GeoNames is looked at again (each rebuild takes
+ * every edit since the last, so check what it changes against the list it replaces):
+ *   - 2338612, a village in Delta State that an edit of 2026-11-16 gave 2,000,000 people: it would have outranked real
+ *     cities and got a place page;
+ *   - the city districts added on 2026-11-14/16 with 10,000 people or more, Milan's and Kiel's Döse: named like
+ *     better-known places (Washington, Padova, Corsica, Loreto, Isola, Selinunte), they took those places' searches
+ *     (an Italian "Washington" opened a Milan neighbourhood, an English "Padova" one in place of Padua).
  */
-const BAD_EDITS = new Set(['2338612'])
+const BAD_EDITS = new Set([
+  '2338612',
+  ...'2935478 3169088 3181643 6693829 6693835 6693839 6693847 11288654 12022788 12022789 12022790 12022791'.split(' '),
+  ...'12022792 12022795 12022800 12022801 12022806 12022808 12022810 12022813 12022814 12022815 12022817'.split(' '),
+  ...'12022819 12022820 12022823 12022827 12022829 12022834 12022836 12022837 12022838 12022841 12022842'.split(' '),
+  ...'12022843 12022844 12022845 12022848'.split(' '),
+])
+/**
+ * Towns a recent edit recoded as a city's section, which no pin tile holds (so a pin or a link there lost its name):
+ * Kadiyivka, Luhansk Oblast, 73,000 people (2026-11-17).
+ */
+const STILL_TOWNS = new Set(['692975'])
 /** Sections of a city (neighbourhoods): searchable only if large, and never a pin's name (the city is). */
 const SECTION = 'PPLX'
 const SECTION_MIN_POP = 10_000
@@ -160,7 +176,7 @@ async function main() {
     const p = l.split('\t')
     if (p.length < 15 || SKIP.has(p[7]) || BAD_EDITS.has(p[0])) continue
     const pop = Number(p[14]) || 0
-    const section = p[7] === SECTION
+    const section = p[7] === SECTION && !STILL_TOWNS.has(p[0])
     if (section && pop < SECTION_MIN_POP) continue
     const code = `${p[8]}.${p[10]}`
     if (!section) regionPop.set(code, (regionPop.get(code) ?? 0) + pop)
@@ -168,23 +184,28 @@ async function main() {
   }
   // A state named like a city at the same spot ("Tokyo", "Kyiv City") would be a second row for the same thing: keep
   // the city. Not a Ukrainian oblast GeoNames names after its capital (Kharkiv): it is kept as "Kharkiv Oblast".
-  const cityAt = new Map<string, [number, number][]>()
+  const cityAt = new Map<string, [number, number, number][]>()
   for (const e of entries) {
     const k = `${e.cc}|${placeKey(e.name)}`
     const list = cityAt.get(k) ?? []
-    list.push([e.lat, e.lon])
+    list.push([e.lat, e.lon, e.pop])
     cityAt.set(k, list)
   }
-  const near = (a: [number, number], b: [number, number]) => Math.hypot(a[0] - b[0], (a[1] - b[1]) * Math.cos((a[0] * Math.PI) / 180)) < 0.9 // ~100 km
+  const near = (a: readonly number[], b: readonly number[]) =>
+    Math.hypot(a[0] - b[0], (a[1] - b[1]) * Math.cos((a[0] * Math.PI) / 180)) < 0.9 // ~100 km
   for (const [code, a] of admin1) {
     const c = coords.get(a.id)
     if (!c) continue
     const cc = code.split('.')[0]
     const key = placeKey(a.name).replace(/ (city|municipality)$/, '')
-    const asCity = cityAt.get(`${cc}|${key}`)?.some((p) => near(p, c))
-    const name = asCity ? oblastName(code, a.name) : a.name
+    const capitals = (cityAt.get(`${cc}|${key}`) ?? []).filter((p) => near(p, c))
+    const name = capitals.length ? oblastName(code, a.name) : a.name
     if (!name) continue
-    entries.push({ name, ascii: name, lat: c[0], lon: c[1], cc: code.split('.')[0], admin1: '', pop: regionPop.get(code) ?? 0, kind: 'r', section: false })
+    // Such an oblast ranks below its capital (GeoNames puts seven at the city's very point), so the city's name typed
+    // in part (Kherso) still finds the city first, which a row on its spot and larger would hide (geocode.ts dedupe).
+    const below = capitals.length ? 0.8 * Math.max(...capitals.map((p) => p[2])) : Infinity
+    const pop = Math.min(regionPop.get(code) ?? 0, below)
+    entries.push({ name, ascii: name, lat: c[0], lon: c[1], cc, admin1: '', pop, kind: 'r', section: false })
   }
   for (const [cc, k] of countries) {
     const c = coords.get(k.id)

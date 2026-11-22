@@ -14,6 +14,8 @@ const system: typeof en = {
   collapsePanel: 'Thu gọn bảng',
   // «3 trên 12», never «3 / 12»: beside «20/12/2017» a slash between two small numbers reads as a date (d/m), and a
   // zero-padded «03» more so (§3.8). *trên* is how Vietnamese says "out of" (*8 trên 10 điểm*); the spaces never break.
-  counter: (k: number, n: number) => [f.int(k), `\u00a0trên\u00a0${f.int(n)}`] as const,
+  // `digits` pads with figure spaces (a digit's width), so the time-lapse's badge never moves from 9 to 10.
+  counter: (k: number, n: number, digits = 1) =>
+    [f.int(k).padStart(digits, '\u2007'), `\u00a0trên\u00a0${f.int(n).padStart(digits, '\u2007')}`] as const,
 }
 export default system

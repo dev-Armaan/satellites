@@ -28,7 +28,8 @@ describe('gallery copy (English baseline)', () => {
 
   it('never writes a Vietnamese counter as a slash, which reads as a date there', async () => {
     const vi = (await import('@/i18n/vi/system')).default
-    expect(vi.counter(3, 12, 2)).toEqual(['3', '\u00a0trên\u00a012'])
+    expect(vi.counter(3, 12, 2)).toEqual(['\u20073', '\u00a0trên\u00a012'])
+    expect(vi.counter(3, 12)).toEqual(['3', '\u00a0trên\u00a012'])
     expect(vi.counter(1350, 1362).join('')).toBe('1.350\u00a0trên\u00a01.362')
   })
 

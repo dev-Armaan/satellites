@@ -115,7 +115,11 @@ const pass: typeof en = {
   ],
   lookingDown: 'उसका कैमरा सीधे नीचे देख रहा था।',
   lookingOff: (deg: number): Rich => ['उसका कैमरा सीधे नीचे से ', deg1(deg), ' हटकर देख रहा था।'],
-  cloudCover: (pct: number): Rich => ['पूरे दृश्य के ', num(f.int(pct), '%'), ' हिस्से पर बादल थे।'],
+  // At 0 %, «पूरे दृश्य के 0% हिस्से पर बादल थे» ("clouds lay on 0 % of it") reads oddly; the clouds' share is plain.
+  cloudCover: (pct: number): Rich =>
+    Math.round(pct) === 0
+      ? ['पूरे दृश्य में बादलों का हिस्सा ', num(f.int(pct), '%'), ' था।']
+      : ['पूरे दृश्य के ', num(f.int(pct), '%'), ' हिस्से पर बादल थे।'],
 
   // ── "Likely watched" ──
   likely: {

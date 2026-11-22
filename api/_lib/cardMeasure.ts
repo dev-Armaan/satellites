@@ -231,4 +231,3 @@ export function unbreakable(text: string): string[] {
 export function widestPiecePx(text: string, role: HeadRole, size: number, track: number, locale: Locale): number {
   return Math.max(0, ...unbreakable(text).map((p) => textPx(p, role, size, track, locale)))
 }
-

@@ -58,7 +58,8 @@ describe('reloadForNewBuild', () => {
 })
 
 describe('isQuietFailure', () => {
-  const chromium = 'TypeError: Failed to fetch dynamically imported module: https://www.watched.earth/assets/cardMeasure-SbtlgQhk.js'
+  const chromium =
+    'TypeError: Failed to fetch dynamically imported module: https://www.watched.earth/assets/cardMeasure-SbtlgQhk.js'
   it('lets a running prefetch fail without a reload, and only it', () => {
     expect(isQuietFailure(chromium, new Set(['cardMeasure-']))).toBe(true)
     expect(isQuietFailure(chromium.replace('cardMeasure', 'timelapse'), new Set(['cardMeasure-']))).toBe(false)

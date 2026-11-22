@@ -488,17 +488,14 @@ function spacelessPieces(text: string, locale: Locale): string[] {
  * without spaces. Exported for its tests.
  */
 export function wrap(ctx: Pick<Ctx, 'measureText'> & Partial<Ctx>, text: string, maxW: number, tracking: number, locale: Locale = 'en'): string[] {
-  // Words, each hyphenated part kept with its hyphen ("Saint-", "Jean-", "sur-", "Richelieu,"), split only before a
-  // letter, after a letter or a digit: Unicode's line breaking (satori's, the browser's) keeps «STARLINK-31234»,
-  // «2-02A» and «-80» whole, so the PNG keeps them whole too (it broke «STARLINK-» / «31234» where the preview and the
-  // server card did not). No regex lookbehind: Safari before 16.4 can't parse one, and this module ships to every
-  // browser. A part written without spaces is cut into its words; those join their neighbours without a space, as
-  // hyphenated parts do.
+  // Words, each hyphenated part kept with its hyphen ("Saint-", "Jean-", "sur-", "Richelieu,"). No
+  // regex lookbehind: Safari before 16.4 can't parse one, and this module ships to every browser. A part written
+  // without spaces is cut into its words; those join their neighbours without a space, as hyphenated parts do.
   const tokens: { text: string; spaced: boolean }[] = []
   // Split at breaking spaces only: a no-break space holds a count to its noun ("256 супутників", "1 565 m"), as
   // the browser and satori keep it, so the PNG breaks its lines where the preview does.
   for (const w of text.split(/[^\S\u00a0\u202f\u2007]+/).filter(Boolean)) {
-    w.replace(/([\p{L}\p{N}])-(?=\p{L})/gu, '$1-\u0000')
+    w.replace(/-/g, '-\u0000')
       .split('\u0000')
       .filter(Boolean)
       .forEach((part, i) => {

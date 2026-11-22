@@ -12,8 +12,8 @@
  * before, inside itself, and never overflows. A headline that does not split its place is not touched.
  *
  * Measured before the first paint (a layout effect) and again when the headline's width changes (a zero-height ruler
- * at its end is observed, so this change of the headline's height never re-enters the observer) or a web font
- * arrives. The flag is a data attribute React does not own, so a re-render never clears it.
+ * at its end is observed, so this change of the headline's height never re-enters the observer), when the window is
+ * resized (a media query can change the headline's size and not its width) or a web font arrives. The flag is a data attribute React does not own, so a re-render never clears it.
  */
 import { useLayoutEffect, type RefObject } from 'react'
 import { heldAfter, heldBefore } from '@/i18n/Rich'
@@ -88,9 +88,13 @@ export function useWholePlace(ref: RefObject<HTMLElement | null>, ruler: RefObje
     if (ro && ruler.current) ro.observe(ruler.current)
     const fonts = typeof document !== 'undefined' ? document.fonts : undefined
     fonts?.addEventListener?.('loadingdone', fit)
+    // The headline's size can change while its width does not (a laptop window crossing 860 px tall: 34 -> 28 px at the
+    // same 382 px line), and no observer sees that; the viewport's resize does, before the frame is painted.
+    window.addEventListener('resize', fit)
     return () => {
       ro?.disconnect()
       fonts?.removeEventListener?.('loadingdone', fit)
+      window.removeEventListener('resize', fit)
     }
   }, [ref, ruler, placeSelector, key])
 }

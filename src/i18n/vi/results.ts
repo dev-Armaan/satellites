@@ -220,9 +220,10 @@ const results: typeof en = {
   geo: {
     /** The elevation is the satellite's height in the place's sky, said as the pass sentences say it */
     none: 'Từ nơi này, không vệ tinh khí tượng địa tĩnh nào đang hoạt động nằm cao hơn 5° trên đường chân trời.',
-    /** *cao 34,5°*: the angle above the horizon, said as a person says it (§3.5) */
+    /** *cao 34,5°*: the angle above the horizon, said as a person says it (§3.5). Each fact is held whole, so a
+     * 360 px row wraps between facts, never as *mỗi 10 / phút* */
     facts: (lon: string, elevationDeg: number, cadenceMin: number) =>
-      `${lon} · cao ${f.dec(elevationDeg, 1)}° · mỗi ${f.int(cadenceMin)} phút`,
+      `${lon} · ${bind(`cao ${f.dec(elevationDeg, 1)}°`)} · ${bind(`mỗi ${f.int(cadenceMin)} phút`)}`,
     /** Mono caps: the bare count word *ảnh* (a counter), then the week (*12 ảnh tuần này*, never *12 tuần này*) */
     images: (n: number, days: number): Rich => [num(f.int(n)), days === 7 ? ' ảnh tuần này' : ` ảnh trong ${f.int(days)} ngày`],
     replay: 'Phát lại',
@@ -236,7 +237,8 @@ const results: typeof en = {
       probing: 'Đang dò…',
       noPublic: 'Không ảnh công\u00a0khai',
       poorQuality: 'Chất lượng kém',
-      noneNow: 'Hiện chưa có ảnh',
+      /** Two phrases, HIỆN CHƯA / CÓ ẢNH: unbound it set as HIỆN / CHƯA CÓ / ẢNH, three lines with *ẢNH* alone */
+      noneNow: 'Hiện\u00a0chưa có\u00a0ảnh',
       unavailable: 'Không tải được ảnh',
     },
     frameAlt: (sat: string, infrared: boolean) => `${sat}: ảnh ${infrared ? 'hồng ngoại ' : ''}mới nhất quanh nơi này`,

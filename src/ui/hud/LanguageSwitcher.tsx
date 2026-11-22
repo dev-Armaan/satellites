@@ -31,6 +31,13 @@ const WIDE = 600
 /** ...unless the viewport is shorter than this (a small phone on its side): ten rows would scroll there, five fit. */
 const SHORT_VIEW = 500
 
+/** Whether a name's text runs onto more than one line. */
+const wraps = (name: Element) => {
+  const range = document.createRange()
+  range.selectNodeContents(name)
+  return new Set([...range.getClientRects()].map((r) => Math.round(r.top))).size > 1
+}
+
 /** The columns for this viewport. */
 const columnsFor = (width: number, height: number) => (width >= WIDE || height < SHORT_VIEW ? 4 : 2)
 
@@ -55,13 +62,15 @@ export function LanguageSwitcher({ className }: { className?: string }) {
   const [at, setAt] = useState<{ left: number; top: number; maxHeight: number } | null>(null)
   // Bumped on a resize or a rotation while the menu is open, which places it again (and picks its columns again).
   const [viewport, setViewport] = useState(0)
+  // Four columns were tried and did not fit across (a name wrapped) while two fit the height: set two (600x900).
+  const [fallback, setFallback] = useState(false)
   // The current language takes focus once per opening, not again each time the menu is placed (a resize, which
   // a phone's toolbar also fires, sent a keyboard user back to it).
   const focused = useRef(false)
   const trigger = useRef<HTMLButtonElement>(null)
   const menu = useRef<HTMLDivElement>(null)
   const listed = ORDER.filter((l) => LOCALE_INFO[l].listed || l === locale)
-  const cols = open ? columnsFor(window.innerWidth, window.innerHeight) : 2
+  const cols = open && !fallback ? columnsFor(window.innerWidth, window.innerHeight) : 2
   const rows = Math.ceil(listed.length / cols)
   const close = (focus = true) => {
     setOpen(false)
@@ -77,6 +86,15 @@ export function LanguageSwitcher({ className }: { className?: string }) {
     const r = trigger.current.getBoundingClientRect()
     const top = Math.round(r.bottom + 10)
     const room = window.innerHeight - top - EDGE
+    const items = [...m.querySelectorAll<HTMLElement>('[role="menuitemradio"]')]
+    const rowH = Math.min(...items.map((i) => i.offsetHeight))
+    // Four columns too narrow for their names (a name on two lines): two instead, if their ten rows fit the height.
+    // Otherwise (a phone on its side) the four stay and the longest name wraps. Set before the first paint. Lines are
+    // counted on the text (a Range): the name is a flex item, one box however many lines it holds.
+    if (cols > 2 && [...m.querySelectorAll(`.${s.name}`)].some(wraps)) {
+      const twoHigh = m.scrollHeight + (Math.ceil(listed.length / 2) - rows) * rowH
+      if (twoHigh <= room) return setFallback(true)
+    }
     const w = m.offsetWidth
     // Its edge on the trigger's reading side: the left one, or the right one in a right-to-left page (the trigger
     // is then in the top-right corner).
@@ -84,10 +102,13 @@ export function LanguageSwitcher({ className }: { className?: string }) {
     const want = rtl ? r.right + 16 - w : r.left - 16
     const left = Math.round(Math.max(EDGE, Math.min(want, window.innerWidth - w - EDGE)))
     setAt({ left, top, maxHeight: Math.max(160, room) })
-  }, [open, viewport])
+  }, [open, viewport, fallback])
   useEffect(() => {
     if (!open) return
-    const onResize = () => setViewport((v) => v + 1)
+    const onResize = () => {
+      setFallback(false)
+      setViewport((v) => v + 1)
+    }
     window.addEventListener('resize', onResize)
     return () => window.removeEventListener('resize', onResize)
   }, [open])
@@ -97,6 +118,7 @@ export function LanguageSwitcher({ className }: { className?: string }) {
   useEffect(() => {
     if (!open) {
       focused.current = false
+      setFallback(false)
       return
     }
     if (!at || focused.current) return
@@ -199,7 +221,7 @@ export function LanguageSwitcher({ className }: { className?: string }) {
               <div className={s.title} aria-hidden="true">
                 {m.title}
               </div>
-              <div className={s.grid} style={{ '--cols': cols, '--rows': rows } as CSSProperties}>
+              <div className={s.grid} data-cols={cols} style={{ '--cols': cols, '--rows': rows } as CSSProperties}>
                 {listed.map((l) => {
                   const li = LOCALE_INFO[l]
                   return (

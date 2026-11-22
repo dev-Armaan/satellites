@@ -126,6 +126,13 @@
     font-size: var(--fs-body);
   }
 }
+/* Four columns of touch-sized names need 649 px; a phone on its side is often a little narrower (667x375 left 643),
+   so there the names give up some side padding before the longest one wraps. */
+@media (pointer: coarse) and (max-width: 699px) {
+  .grid[data-cols='4'] .item {
+    padding-inline: 8px;
+  }
+}
 @media (hover: hover) and (pointer: fine) {
   .item:hover {
     color: var(--bone);

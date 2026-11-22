@@ -614,11 +614,15 @@ The ladder reads image > swept over > maybe > passed, in titles and lanes alike.
   November). The visual counters are *3 trên 27* (`system.counter`), not the spaced `3 / 27` this guide first kept:
   phone review (2026-11-22) read the time-lapse's `03 / 12` beside *20/12/2017* as a second date, spaces or not, and
   its zero-padded lead (`03`) is a day's form. *trên* is the everyday "out of" (*8 trên 10 điểm*, *9 trên 10 người*),
-  four letters where *trong số* is eight; it is joined by no-break spaces and set as its element is (lower case in the
-  badge and the pass pager, `1 TRÊN 40` in the gallery's and the viewer's caps). Measured, it fits everywhere: the
-  badge 68 → 83 px (one line, clear of the readout at every size), the pager 64 → 88 px (8 px from *Tất cả lượt
-  bay* at 360 px, the row's minimum gap, which French and Spanish already sit at), the gallery and the viewer
-  46–49 → 69–74 px, the waiting line 252 → 268 px at 360 px. No zero padding: `1 trên 12`.
+  four letters where *trong số* is eight; it is joined by no-break spaces and set in capitals, as every mono counter
+  (`1 TRÊN 12`, `55 TRÊN 210`, `1 TRÊN 40`). No zero padding: where the time-lapse pads, a figure space takes the
+  digit's width, so the badge holds 90.6 px from `1 TRÊN 12` to `12 TRÊN 12` and never moves. Measured: the badge
+  68 → 91 px (one line, clear of the readout at every size); the gallery and the viewer 46–49 → 69–74 px; the waiting
+  line 252 → 277 px at 360 px. The pager is 88 px, so on a phone under 370 px it shows the position alone (`55`), as
+  every language does for a four-digit lane, and under 400 px past 11 characters (`155 TRÊN 210`): written whole it
+  pushed Next past the 360 px gutter (right edge 358, 366 with three digits; English 342). The viewer's lead and
+  counter (`CHI TIẾT NHẤT · 1 TRÊN 40`) share a line from 430 px; at 390 px the counter takes the second line, as
+  English's does at 360 px.
 
 **HUD** (corner lines, mono caps, nowrap)
 

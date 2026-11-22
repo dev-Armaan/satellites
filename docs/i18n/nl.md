@@ -594,7 +594,7 @@ Where a wrong guess is likely, these are the Dutch strings. Every other key foll
 | `barLabel` / `filterLabel` / `dialogLabel` | `Beelden` / `Beelden tonen` / `Beelden` |
 | `filter` (≤ 8 each) | `Alles` · `Detail` · `Weer` · `Radar` |
 | `filterTitle` | `Alle beelden: eerst het scherpste, dan de nieuwste` · `Sentinel-2 en Landsat, 10–30 m per pixel` · `Dagelijkse weermozaïeken, 250 m per pixel en grover` · `Radarbeelden van Sentinel-1, 20 m per pixel: door wolken heen, dag en nacht` |
-| `position` / `photosThisWeek` / `photosThatWeek` | `3 / 27` / `12 deze week` / `12 die week` |
+| `system.counter` / `photosThisWeek` / `photosThatWeek` | `3 / 27` / `12 deze week` / `12 die week` |
 | `prevPhoto` / `nextPhoto` | `Vorig beeld` / `Volgend beeld` |
 | lead tags (`LEAD`) | `Scherpst` · `Laatst helder` · `Dichtbewolkt` |
 | `slideLabel` | `Scherpst: Sentinel-2C, zo 1 nov 16:14, beeld 3 van 27` |

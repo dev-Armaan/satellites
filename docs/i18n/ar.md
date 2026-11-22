@@ -591,7 +591,7 @@ These are the agreed forms. Write the rest of each namespace from them.
 |---|---|
 | `barLabel` · `filterLabel` · `filter` | `الصور` · `عرض الصور` · `الكل` · `مفصّلة` · `الطقس` · `رادار` |
 | `filterTitle` | `كل الصور، الأحدث أولًا بعد أقرب نظرة` · `صور Sentinel-2 وLandsat، من 10 إلى 30 مترًا لكل بكسل` · `فسيفساء الطقس اليومية، 250 مترًا لكل بكسل فأكثر` · `صور رادار Sentinel-1، بدقة 20 مترًا لكل بكسل: عبر السحب، ليلًا ونهارًا` |
-| `position` · `photosThisWeek` · `photosThatWeek` | `3 / 27` · `هذا الأسبوع: 12` · `ذلك الأسبوع: 12` |
+| `system.counter` · `photosThisWeek` · `photosThatWeek` | `3 / 27` · `هذا الأسبوع: 12` · `ذلك الأسبوع: 12` |
 | `prevPhoto` · `prevTitle` · `nextPhoto` · `nextTitle` | `الصورة السابقة` · `السابق (←)` · `الصورة التالية` · `التالي (→)` |
 | `carousel` · `trackLabel` · `slide` | `شريط صور` · `صور هذا المكان، السحب يعرض المزيد` · `شريحة` |
 | `lead` | `أقرب نظرة` · `أحدث نظرة صافية` · `تحت السحب` |

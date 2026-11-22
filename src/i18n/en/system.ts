@@ -21,6 +21,7 @@ export default ns('system', {
    * is the shortest a number is written (the time-lapse's "03 / 12"); a language may ignore it. It is one formatter
    * because the form is the language's, not the screen's: where "3 / 12" reads as a date (Vietnamese, docs/i18n/vi.md
    * §3.8), every counter changes at once. What a screen reader hears is said in words by each screen's own copy.
+   * The split assumes k comes first, as it does in all 20 languages; a total-first language would need a new shape.
    */
   counter: (k: number, n: number, digits = 1): readonly [string, string] => [
     en.int(k).padStart(digits, '0'),

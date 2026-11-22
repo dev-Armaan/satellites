@@ -39,7 +39,7 @@ glyph check. Run `node -e` with `s.normalize('NFC') === s` over a file before co
 | Coordinates | International, as the app writes them: `16.2°S 063.0°E`, `0.2°W`. A translator never reformats them; their N (north) beside the compass's N (*nam*) is an open owner question (§4.2). |
 | Compass | Prose words *bắc … tây bắc*; readouts the 16 Vietnamese abbreviations `B … BTB` (§4.2). North is **B**, never N (N is *nam*, south). |
 | Dates | Day/month in digits, the Vietnamese way: *CN, 1/11* · *Chủ Nhật, 1/11* · `1 → 8/11/2026`; spoken *Chủ Nhật, ngày 1 tháng 11*. Never CLDR's *thg*. |
-| Counters | Every visual "k / n" counter is **`3 trên 12`** (`system.counter`: the gallery, the photo viewer, the pass pager, the time-lapse's frame badge and waiting line, the mosaics row), never `3 / 12` or `03 / 12`: beside *20/12/2017* a slash pair of small numbers is a date (§3.8). Spoken: *3 trong số 12*. |
+| Counters | Every visual "k / n" counter is **`3 trên 12`** (`system.counter`: the gallery, the photo viewer, the pass pager, the time-lapse's frame badge and waiting line; the computing readout's mosaics row writes the same form in `engine.ts`), never `3 / 12` or `03 / 12`: beside *20/12/2017* a slash pair of small numbers is a date (§3.8). Spoken: *3 trong số 12*. |
 | Zones | Arrive formatted; a translator never writes or changes one. |
 | Time-lapse | The loan **time-lapse** (upright, hyphenated), as Vietnamese photographers and the press write it. |
 | Tone marks | The new placement (*hòa*, *thủy*, *hủy*, *khỏe*), and *y* in *kỹ*, *Mỹ*, *lý* (§6.1). |

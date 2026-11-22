@@ -568,7 +568,7 @@ Source of truth: `src/i18n/<tr>/verdicts.ts` (read through `VERDICT_META`); the 
 | `gallery.barLabel` / `filterLabel` | *Görüntüler* / *Görüntüleri filtrele* |
 | `gallery.filter` | *Tümü · Ayrıntılı · Hava · Radar* (22 characters together, the English 23: *Ayrıntılı* is the footnote's word, so one term for "detailed" everywhere) |
 | `gallery.filterTitle` | *Tüm görüntüler: en net görüntüden sonra en yeniden eskiye* · *Sentinel-2 ve Landsat, piksel başına 10–30 m* · *Günlük meteoroloji mozaikleri, piksel başına 250 m ve üzeri* · *Sentinel-1 radar görüntüleri, piksel başına 20 m: bulutun içinden, gece gündüz* |
-| `position` / `photosThisWeek` / `photosThatWeek` | *3 / 27* / *bu hafta 12* / *o hafta 12* |
+| `system.counter` / `photosThisWeek` / `photosThatWeek` | *3 / 27* / *bu hafta 12* / *o hafta 12* |
 | `prevPhoto` / `nextPhoto` / titles | *Önceki görüntü* / *Sonraki görüntü* / *Önceki (←)* / *Sonraki (→)* |
 | `carousel` / `slide` / `trackLabel` | *karusel* / *slayt* / *Bu yerin görüntüleri; daha fazlası için kaydır* |
 | `lead` | *En net görüntü · Son bulutsuz görüntü · Tamamen bulutlu* |

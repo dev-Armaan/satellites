@@ -732,7 +732,7 @@ by code.
 | barLabel / filterLabel | 이미지 / 표시할 이미지 |
 | filter | 전체 · 상세 · 기상 · 레이더 |
 | filterTitle | 모든 이미지. 가장 자세한 모습 다음은 최신순 · Sentinel-2와 Landsat, 픽셀당 10~30 m · 일일 기상 합성 이미지, 픽셀당 250 m 이상 · Sentinel-1 레이더 이미지, 픽셀당 20 m. 구름을 뚫고, 밤낮없이 |
-| position | 3 / 27 (every visual counter, `system.counter`; no date here takes a slash, decision 23, so it never reads as one; checked 2026-11-22) |
+| system.counter | 3 / 27 (every visual counter; no date here takes a slash, decision 23, so it never reads as one; checked 2026-11-22) |
 | photosThisWeek / photosThatWeek | 지난 일주일 [N]장 / 그 일주일 [N]장 |
 | prevPhoto / prevTitle / nextPhoto / nextTitle | 이전 이미지 / 이전(←) / 다음 이미지 / 다음(→) |
 | carousel / trackLabel / slide | 캐러셀 / 이 장소의 이미지. 밀어서 더 보기 / 슬라이드 |

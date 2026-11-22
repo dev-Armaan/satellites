@@ -646,7 +646,7 @@ of a fault, never this one.
 | `barLabel` / `filterLabel` | 画像 / 画像を絞り込む |
 | `filter` | すべて · 詳細画像 · 気象 · レーダー |
 | `filterTitle` | すべての画像。最も詳細な画像のあとは新しい順 · Sentinel-2とLandsat。1ピクセル10〜30 m · 日別の気象画像。1ピクセル250 m以上 · Sentinel-1のレーダー画像。1ピクセル20 m。雲を通して、昼も夜も |
-| `position` / `photosThisWeek` / `photosThatWeek` | 3 / 27 / この1週間に12枚 / その1週間に12枚 |
+| `system.counter` / `photosThisWeek` / `photosThatWeek` | 3 / 27 / この1週間に12枚 / その1週間に12枚 |
 | prev / next | 前の画像 · 前へ(←) · 次の画像 · 次へ(→) |
 | `carousel` / `slide` / `trackLabel` | カルーセル / スライド / この場所の画像。スワイプで次へ |
 | `lead` | 最も詳細な画像 · 直近の晴天画像 · 雲に覆われた |

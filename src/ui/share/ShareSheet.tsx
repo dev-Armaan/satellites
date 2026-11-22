@@ -51,6 +51,7 @@ import { satMeta } from '../results/sats'
 import { createShareSafe, peekShare, type CreateShareInput } from './backend'
 import { cardSpec, publicLabelOf, renderCardPng, summaryCardSpec, summaryFacts, weekSatellites, type CardSpec } from './card'
 import { deepLink, postText, roundedPlace, shareLink, summaryLink, summaryPostText, xIntentUrl } from './links'
+import { cardMeasureReady, loadCardMeasure } from './measure'
 import { ShareCard } from './ShareCard'
 import { useBackLayer } from '@/lib/backStack'
 import s from './ShareSheet.module.css'
@@ -353,7 +354,53 @@ function useOverlayAttr(on: boolean) {
   }, [on])
 }
 
-export function ShareSheet({ pass, report, onClose, clouded, kind = 'pass', from }: ShareSheetProps) {
+/**
+ * The sheet once the card's headline measure is in (./measure.ts: fetched ahead of the press, so normally at once and
+ * in the press's own commit). A press before it opens the sheet as soon as it arrives: the card is built only then,
+ * so its preview is final at its first paint. Meanwhile the press already holds the share layer for Back and Esc
+ * (either drops it, as either would close the sheet), and the sheet takes the layer over in the commit that mounts
+ * it, so the history moves exactly as when it opened at once. A failed download drops the press (the Share button
+ * stays live: the next press asks again).
+ */
+export function ShareSheet(props: ShareSheetProps) {
+  const [ready, setReady] = useState(cardMeasureReady)
+  const { onClose } = props
+  const closeRef = useRef(onClose)
+  closeRef.current = onClose
+  useEffect(() => {
+    if (ready) return
+    let alive = true
+    loadCardMeasure().then(
+      () => alive && setReady(true),
+      () => alive && closeRef.current(),
+    )
+    return () => {
+      alive = false
+    }
+  }, [ready])
+  return ready ? <SheetBody {...props} /> : <SheetPending onClose={onClose} />
+}
+
+/** A press while the measure downloads: nothing on screen yet, but Back and Esc already close it as the sheet's would. */
+function SheetPending({ onClose }: { onClose: () => void }) {
+  const closeRef = useRef(onClose)
+  closeRef.current = onClose
+  useBackLayer('share', true, () => closeRef.current())
+  useEffect(() => {
+    const onKey = (e: KeyboardEvent) => {
+      // About over the results takes the Esc itself, as it does over the sheet.
+      if (e.key !== 'Escape' || useApp.getState().aboutOpen) return
+      e.stopPropagation()
+      e.preventDefault()
+      closeRef.current()
+    }
+    window.addEventListener('keydown', onKey, true)
+    return () => window.removeEventListener('keydown', onKey, true)
+  }, [])
+  return null
+}
+
+function SheetBody({ pass, report, onClose, clouded, kind = 'pass', from }: ShareSheetProps) {
   const m = useMsgs(enShare)
   // What is shared is in the app's language: a switch while the sheet is open rebuilds the model in the new one.
   const locale = useLocale()

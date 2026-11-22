@@ -11,6 +11,7 @@ export default defineConfig({
   test: {
     include: ['api/**/*.test.ts', 'worker/**/*.test.ts'],
     environment: 'node',
+    setupFiles: ['scripts/cardMeasure.setup.ts'],
     testTimeout: 30_000,
   },
 })

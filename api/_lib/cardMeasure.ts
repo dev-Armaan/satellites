@@ -17,6 +17,10 @@
  * a hyphen only where all three break, between a letter or digit and a letter (Unicode's line breaking keeps «-80» and
  * «2-02A» whole, so satori and the browser do, and the canvas's wrap breaks nowhere else), and between characters of
  * Chinese and Japanese.
+ *
+ * cardSpec.ts does not import this module: it is handed it (provideCardMeasure), by the server card up front
+ * (api/og.tsx) and by the app only with a share (src/ui/share/measure.ts), so a search never downloads the tables. It
+ * imports nothing but its tables, so the app's chunk of it is the two modules alone.
  */
 import { ARABIC_FROM, ARABIC_WIDTHS, BRAND_FILES, DEVANAGARI_FROM, DEVANAGARI_WIDTHS, KERNING, WIDTHS, WIDTH_RANGES } from './cardWidths.gen.js'
 import type { Locale } from './i18n/locales.js'
@@ -227,3 +231,4 @@ export function unbreakable(text: string): string[] {
 export function widestPiecePx(text: string, role: HeadRole, size: number, track: number, locale: Locale): number {
   return Math.max(0, ...unbreakable(text).map((p) => textPx(p, role, size, track, locale)))
 }
+

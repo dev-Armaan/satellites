@@ -27,7 +27,8 @@
 import { decode as decodePng } from 'fast-png'
 import { encode as encodeJpeg } from 'jpeg-js'
 import { CARD_H, CARD_W, PLATE, defaultCard, defaultPlateDataUri, shareCard } from './_lib/card.js'
-import { buildCardSpec, buildSummarySpec, type CardSpec, type Locale } from './_lib/cardSpec.js'
+import * as cardMeasure from './_lib/cardMeasure.js'
+import { buildCardSpec, buildSummarySpec, provideCardMeasure, type CardSpec, type Locale } from './_lib/cardSpec.js'
 import { displayHost, siteOrigin } from './_lib/env.js'
 import { cardFonts } from './_lib/fonts.js'
 import { textOf } from './_lib/h.js'
@@ -35,6 +36,9 @@ import { DEFAULT_LOCALE, LOCALE_INFO } from './_lib/i18n/locales.js'
 import { renderCardPng } from './_lib/ogRender.js'
 import { cropPlan, fetchCropPicture } from './_lib/imagery.js'
 import { SHARE_ID_RE, cardInputFromShare, fetchShare, linkLocale, shareFromParams, shareTimeZone, summaryFromParams, type ShareRecord } from './_lib/share.js'
+
+// The card's headline measure (its width tables), handed to cardSpec up front: the server card has it synchronously.
+provideCardMeasure(cardMeasure)
 
 /** PC renders a 630² crop in 1–3 s, occasionally much longer; stay well inside maxDuration. */
 const IMAGE_TIMEOUT_MS = 9000

@@ -31,7 +31,7 @@
  * except the licence credit, which is English and uppercased as English (Chip.lang). Units keep their case in every
  * renderer ("10 m", "1 km", a readout's "km": ./i18n/units.ts).
  */
-import { textPx, unbreakable, widestPiecePx } from './cardMeasure.js'
+import type * as Measure from './cardMeasure.js'
 import { cardMessages, type CardMessages } from './i18n/card/index.js'
 import { fmt } from './i18n/format.js'
 import { DEFAULT_LOCALE, LOCALE_INFO, type Locale } from './i18n/locales.js'
@@ -429,6 +429,27 @@ export function accentText(head: Rich, locale: Locale): string {
     .map((a) => plain(counted(a.accent)))
     .join(LOCALE_INFO[locale].sentenceGap)
 }
+
+/**
+ * The headline's measure (cardMeasure.ts: the faces' widths, ~22 kB gzip with its tables), handed in rather than
+ * imported: the app's first search loads this module with the share sheet, and only a share needs the measure, so the
+ * app fetches it ahead of a press (src/ui/share/measure.ts). The server card (api/og.tsx) and the tests (their setup
+ * file) hand it in up front.
+ */
+export type CardMeasure = Pick<typeof Measure, 'textPx' | 'unbreakable' | 'widestPiecePx'>
+let measure: CardMeasure | undefined
+export function provideCardMeasure(m: CardMeasure): void {
+  measure = m
+}
+/** Whether the headline's measure is installed (every card builder needs it; the post's words do not). */
+export const hasCardMeasure = (): boolean => measure !== undefined
+function measured(): CardMeasure {
+  if (!measure) throw new Error('cardSpec: the headline measure is not installed (provideCardMeasure)')
+  return measure
+}
+const textPx: CardMeasure['textPx'] = (...a) => measured().textPx(...a)
+const unbreakable: CardMeasure['unbreakable'] = (t) => measured().unbreakable(t)
+const widestPiecePx: CardMeasure['widestPiecePx'] = (...a) => measured().widestPiecePx(...a)
 
 /** The smallest headline: every size search stops here (a longer word is cut short instead: fittedPlace). */
 export const HEAD_MIN = 36

@@ -22,7 +22,8 @@ const cm = (n: string) => `${n}${nb}سانتی‌متر`
 const sats: typeof en = {
   blurb: {
     // ── Open photo archives ──
-    sentinel2: `تصویربردار چندطیفی Copernicus: 13 باند، پیکسل‌های ${m('10')}ی، نوار ${km('290')}ی.`,
+    // Copernicus is isolated: «Copernicus: 13» would otherwise be one left-to-right run, read «13 :Copernicus».
+    sentinel2: `تصویربردار چندطیفی \u2066Copernicus\u2069: 13${nb}باند، پیکسل‌های ${m('10')}ی، نوار ${km('290')}ی.`,
     landsat8: `Operational Land Imager: پیکسل‌های رنگی ${m('30')}ی و پانکروماتیک ${m('15')}ی در نواری به پهنای ${km('185')}.`,
     landsat9: `Operational Land Imager 2: پیکسل‌های رنگی ${m('30')}ی و پانکروماتیک ${m('15')}ی در نواری به پهنای ${km('185')}.`,
 

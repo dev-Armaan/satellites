@@ -101,7 +101,15 @@ export function LanguageSwitcher({ className }: { className?: string }) {
     const rtl = getComputedStyle(trigger.current).direction === 'rtl'
     const want = rtl ? r.right + 16 - w : r.left - 16
     const left = Math.round(Math.max(EDGE, Math.min(want, window.innerWidth - w - EDGE)))
-    setAt({ left, top, maxHeight: Math.max(160, room) })
+    // A menu taller than the screen scrolls; it stops half-way through a row, so the cut row says there is more (cut
+    // on a row's edge, the last row of four names was simply missing at 568x320, the menu looking complete).
+    // Rows are measured where they are, down the first column (a wrapped name makes its row taller).
+    let maxHeight = Math.max(160, room)
+    if (m.scrollHeight > room) {
+      const mids = items.slice(0, rows).map((i) => i.offsetTop + i.offsetHeight / 2)
+      maxHeight = Math.max(mids[0] ?? 0, ...mids.filter((y) => y <= room))
+    }
+    setAt({ left, top, maxHeight })
   }, [open, viewport, fallback])
   useEffect(() => {
     if (!open) return

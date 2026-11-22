@@ -47,6 +47,11 @@ const GEN = 'src/imagery/localPlaces.gen.ts'
 
 /** Feature codes left out: historical, abandoned or destroyed places, and religious centres. */
 const SKIP = new Set(['PPLH', 'PPLQ', 'PPLW', 'PPLCH', 'PPLR'])
+/**
+ * GeoNames rows a bad edit made wrong, left out until GeoNames puts them right: 2338612, a village in Delta State that
+ * an edit of 2026-11-16 gave 2,000,000 people, would have outranked real cities in a search and got a place page.
+ */
+const BAD_EDITS = new Set(['2338612'])
 /** Sections of a city (neighbourhoods): searchable only if large, and never a pin's name (the city is). */
 const SECTION = 'PPLX'
 const SECTION_MIN_POP = 10_000
@@ -154,7 +159,7 @@ async function main() {
   const regionPop = new Map<string, number>()
   for await (const l of unzipLines(join(SRC, 'cities500.zip'))) {
     const p = l.split('\t')
-    if (p.length < 15 || SKIP.has(p[7])) continue
+    if (p.length < 15 || SKIP.has(p[7]) || BAD_EDITS.has(p[0])) continue
     const pop = Number(p[14]) || 0
     const section = p[7] === SECTION
     if (section && pop < SECTION_MIN_POP) continue

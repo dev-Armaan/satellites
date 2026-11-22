@@ -478,25 +478,58 @@ export function headlineSizeCjk(head: Rich, sub?: string): number {
  */
 const DEVANAGARI_EM = { lead: 0.37, place: 0.4, sub: 0.41 } as const
 
-/** How many lines `text` takes in `width` px when each UTF-16 unit is `unit` px wide (greedy, by word). */
-function linesByUnits(text: string, unit: number, width: number): number {
-  let lines = 0
+/** The words of `text` as the renderers break it: at breaking spaces only (a no-break space ties its words into one). */
+const runs = (text: string) => text.split(/[^\S\u00a0]+/).filter(Boolean)
+
+/** The lines `text` takes in `width` px when each UTF-16 unit is `unit` px wide (greedy, by word), each its words. */
+function linesOfUnits(text: string, unit: number, width: number): string[][] {
+  const lines: string[][] = []
   let w = 0
-  for (const word of text.split(/[^\S\u00a0]+/).filter(Boolean)) {
+  for (const word of runs(text)) {
     const ww = word.length * unit
-    if (lines && w + unit + ww <= width) w += unit + ww
-    else {
-      lines++
+    if (lines.length && w + unit + ww <= width) {
+      w += unit + ww
+      lines[lines.length - 1].push(word)
+    } else {
+      lines.push([word])
       w = ww
     }
   }
   return lines
 }
 
+/** How many lines `text` takes in `width` px when each UTF-16 unit is `unit` px wide (greedy, by word). */
+function linesByUnits(text: string, unit: number, width: number): number {
+  return linesOfUnits(text, unit, width).length
+}
+
+/**
+ * One word alone on the last of two or more lines (a lone «देखा।» under «262 उपग्रहों ने»). A last line that is one
+ * run of words tied by no-break spaces («ने देखा।») is not alone.
+ */
+function lonelyLast(lines: string[][]): boolean {
+  const last = lines[lines.length - 1]
+  return lines.length > 1 && last.length === 1 && !last[0].includes('\u00a0')
+}
+
+/**
+ * Units of the widest run of `text` that no renderer may break (a word, or words tied by no-break spaces), its
+ * nonspacing marks left out: a vowel sign above or below, a virama, a nukta or an anusvara has no advance of its own.
+ * Counted so, the card's tied runs («262 उपग्रहों ने देखा।», «पट्टी गुज़री।») measure 0.34 to 0.37 em a unit in the display
+ * face (Chromium, 2026-11-22), so DEVANAGARI_EM.lead still errs wide on them; with the marks counted, the week's run
+ * (441 px at 72 px) would count as 559 px and be set needlessly small.
+ */
+function widestRun(text: string): number {
+  return Math.max(0, ...runs(text).map((r) => r.replace(/\p{Mn}/gu, '').length))
+}
+
 /**
  * A Hindi headline's size: at most headlineSize's (the lead in three lines, the place in two), and small enough that
  * the whole block, at HEAD_DEVANAGARI's taller leading and with its sub-line, fits its band. At HEAD's sizes a
- * two-line place, a two-line lead and a sub-line ran into the readouts.
+ * two-line place, a two-line lead and a sub-line ran into the readouts. A size is also passed over when a run the
+ * copy ties is wider than the column (the renderers never break it, so it would overflow: linesByUnits counts it as
+ * one line whatever its width), or when a block's last line would hold one word alone: the copy ties the words that
+ * must not part (hi.ts), and this keeps a size from leaving an untied one alone.
  */
 export function headlineSizeDevanagari(head: Rich, lead: string, place: string, sub?: string): number {
   const leads = head.filter((p) => !isAccent(p)).map((p) => plain([p]).trim()).filter(Boolean)
@@ -504,8 +537,12 @@ export function headlineSizeDevanagari(head: Rich, lead: string, place: string, 
   const subH = sub ? HEAD.subGap + linesByUnits(sub, DEVANAGARI_EM.sub * CARD_FS.sub, PANEL.w) * CARD_FS.sub * HEAD.subLH : 0
   for (let S = headlineSize(lead, place); S > 36; S -= 2) {
     const P = S * HEAD.placeScale
-    const leadLines = leads.reduce((n, t) => n + linesByUnits(t, DEVANAGARI_EM.lead * S, PANEL.w), 0)
-    const placeLines = places.map((t) => linesByUnits(t, DEVANAGARI_EM.place * P, PANEL.w))
+    if (leads.some((t) => widestRun(t) * DEVANAGARI_EM.lead * S > PANEL.w)) continue
+    const leadSets = leads.map((t) => linesOfUnits(t, DEVANAGARI_EM.lead * S, PANEL.w))
+    const placeSets = places.map((t) => linesOfUnits(t, DEVANAGARI_EM.place * P, PANEL.w))
+    if ([...leadSets, ...placeSets].some(lonelyLast)) continue
+    const leadLines = leadSets.reduce((n, l) => n + l.length, 0)
+    const placeLines = placeSets.map((l) => l.length)
     if (leadLines > 3 || placeLines.some((n) => n > 2)) continue
     const blocks = leads.length + places.length
     const h =

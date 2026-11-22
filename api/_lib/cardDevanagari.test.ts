@@ -13,6 +13,7 @@ import {
   HEAD_DEVANAGARI,
   TRACK,
   buildCardSpec,
+  buildSummarySpec,
   headLeading,
   headTracking,
   headlineSize,
@@ -25,6 +26,7 @@ import { CACHE_SIZE, loadFallbackAsset, mergeShared, scaledFont } from './fallba
 import { DEVANAGARI_NAME, FAMILY, FONT, type SatoriFont } from './fonts.js'
 import { LOCALES, LOCALE_INFO } from './i18n/locales.js'
 import { accent, plain, type Rich } from './i18n/parts.js'
+import './i18n/card/server.js'
 
 afterEach(() => vi.unstubAllGlobals())
 
@@ -112,9 +114,31 @@ describe('the Hindi headline’s size', () => {
   }
 
   it('is the Latin ladder’s when the block fits at it', () => {
-    const { S, latin } = size([accent('Waterloo को'), '256 उपग्रहों ने देखा।'])
+    const { S, latin } = size([accent('Waterloo\u00a0को'), '256\u00a0उपग्रहों ने\u00a0देखा।'])
     expect(S).toBe(latin)
     expect(S).toBe(84)
+  })
+
+  it('never leaves one word alone on a block’s last line', () => {
+    // untied, «Sentinel-2C ने / देखा।» at 84 px: a size that puts the verb on its own line is passed over; tied, the
+    // last line is «ने देखा।» and 84 px stays
+    const untied = size([accent('Waterloo\u00a0को'), 'Sentinel-2C ने देखा।']).S
+    expect(untied).toBeLessThan(84)
+    expect(untied).toBeGreaterThanOrEqual(36)
+    expect(size([accent('Waterloo\u00a0को'), 'Sentinel-2C ने\u00a0देखा।']).S).toBe(84)
+    // a lone «से» under the place is passed over too, and «ऊपर से» tied keeps the size
+    expect(size([accent('Waterloo\u00a0के ऊपर से'), 'MetOp-B की पट्टी\u00a0गुज़री।']).S).toBeLessThan(72)
+    expect(size([accent('Waterloo\u00a0के ऊपर\u00a0से'), 'MetOp-B की पट्टी\u00a0गुज़री।']).S).toBe(72)
+  })
+
+  it('sets a tied run no wider than the column', () => {
+    // a run the renderers cannot break would overflow the 466 px column at 84 px (515 px measured)
+    const S = size([accent('Waterloo\u00a0को'), '256\u00a0उपग्रहों\u00a0ने\u00a0देखा।']).S
+    expect(S).toBeLessThan(84)
+    expect(S).toBeGreaterThanOrEqual(36)
+    // the marks above and below are not counted: the week's run (441 px at 72 px) keeps 72
+    const week = buildSummarySpec({ placeLabel: 'Waterloo', lat: 43.47, lon: -80.54, satellites: 262, counts: { imaged: 31, likely: 220, could: 1544, overhead: 66 }, host: 'watched.earth' }, 'hi')
+    expect(week.size).toBe(72)
   })
 
   it('steps down until a long place, a long lead and a sub-line fit the band', () => {

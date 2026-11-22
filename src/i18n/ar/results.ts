@@ -47,7 +47,16 @@ const ltr = (s: string) => `\u2066${s}\u2069`
  * is. A place searched by coordinates needs it most: «23.5000°N 12.5000°E» at the end of the headline read
  * «N 12.5000°E°23.5000.».
  */
-const iso = (s: string) => (/[\u0600-\u06ff\u2066-\u2069]/.test(s) ? s : ltr(s))
+const iso = (s: string) => (/[\p{Script=Arabic}\u2066-\u2069]/u.test(s) ? s : ltr(s))
+/**
+ * A place that ends a sentence, isolated, and the full stop after it. A Latin name's own final dot («Washington, D.C.»)
+ * comes out of its island, or it is drawn against the Arabic and nothing ends the sentence.
+ */
+const placeEnd = (place: string): [string, string] => {
+  const own = /[.…!?؟]$/u.test(place)
+  if (!own) return [iso(place), '.']
+  return iso(place) === place ? [place, ''] : [iso(place.slice(0, -1)), place.slice(-1)]
+}
 /** A whole count, or a fraction kept (its plural category is `other`) */
 const int = (n: number) => (Number.isInteger(n) ? f.int(n) : f.dec(n, 1))
 /** A count and its noun: `one` and `two` hold the whole phrase (words, no digit), else the digit before the form */
@@ -94,8 +103,6 @@ const times = (n: number): Part[] =>
     other: [num(int(n)), `${nb}مرة`],
   })
 
-/** The full stop after a place that ends a sentence, unless the name already ends on one («D.C.») */
-const stop = (place: string) => (/[.…!?؟]$/u.test(place) ? '' : '.')
 /** «القمر الصناعي Sentinel-2C»: the head noun carries the gender; a nameless one is an indefinite «قمر صناعي» */
 const theSat = (sat: string) => `القمر الصناعي${nb}${sat}`
 const aSat = (sat: string | undefined) => (sat ? theSat(sat) : 'قمر صناعي')
@@ -174,13 +181,13 @@ const results: typeof en = {
         many: ['رصد ', num(int(n)), `${nb}قمرًا صناعيًا`],
         other: ['رصد ', num(int(n)), `${nb}قمر صناعي`],
       })
-      return [window, strong(...phrase), ' ', accent(iso(place)), stop(place)]
+      const [at, end] = placeEnd(place)
+      return [window, strong(...phrase), ' ', accent(at), end]
     },
-    none: (place: string, past: boolean): Rich => [
-      `${past ? 'في ذلك الأسبوع' : 'هذا الأسبوع'}، لم يرصد أي قمر صناعي نتتبّعه `,
-      accent(iso(place)),
-      stop(place),
-    ],
+    none: (place: string, past: boolean): Rich => {
+      const [at, end] = placeEnd(place)
+      return [`${past ? 'في ذلك الأسبوع' : 'هذا الأسبوع'}، لم يرصد أي قمر صناعي نتتبّعه `, accent(at), end]
+    },
   },
 
   // ── the second line ──────────────────────────────────────────────────────────────────────

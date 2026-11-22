@@ -34,7 +34,12 @@ const nb = '\u00a0'
 /** U+2066 LEFT-TO-RIGHT ISOLATE … U+2069 POP DIRECTIONAL ISOLATE (DOM-only text) */
 const ltr = (s: string) => `\u2066${s}\u2069`
 /** The place, isolated unless it is Arabic: a place searched by coordinates would otherwise reorder its numbers */
-const at = (place: string) => (/[\u0600-\u06ff\u2066-\u2069]/.test(place) ? place : ltr(place))
+const at = (place: string) => (/[\p{Script=Arabic}\u2066-\u2069]/u.test(place) ? place : ltr(place))
+/** The place isolated, then the full stop that ends its sentence: a Latin name's own final dot («D.C.») leaves the island */
+const atEnd = (place: string) => {
+  if (!/[.…!?؟]$/u.test(place)) return `${at(place)}.`
+  return at(place) === place ? place : `${at(place.slice(0, -1))}${place.slice(-1)}`
+}
 
 /** Moving (`heading`): «متجهًا نحو الجنوب» */
 const HEADING: Record<Compass8, string> = {
@@ -70,8 +75,6 @@ const TOWARD: Record<Compass8, string> = {
   nw: 'باتجاه الشمال الغربي',
 }
 
-/** The full stop after a place that ends a sentence, unless the name already ends on one («D.C.») */
-const stop = (place: string) => (/[.…!?؟]$/u.test(place) ? '' : '.')
 /** «القمر الصناعي Sentinel-2C»: the head noun carries the gender, the name stays as it came */
 const theSat = (sat: string) => `القمر الصناعي${nb}${sat}`
 /** Display names of the crewed stations (src/engine/profiles.ts: ISS, Tiangong): the messages carry no crewed flag */
@@ -209,19 +212,19 @@ const pass: typeof en = {
     insideSwath: (o: { place: string; swathKm: number }): Rich => [
       'كان نطاق مسحه بعرض ',
       ...km(o.swathKm),
-      ` يشمل ${at(o.place)}${stop(o.place)} لا ينشر مشغّله أين التقط صوره، لذا لا يمكننا أن نعرف إن كان قد فعل.`,
+      ` يشمل ${atEnd(o.place)} لا ينشر مشغّله أين التقط صوره، لذا لا يمكننا أن نعرف إن كان قد فعل.`,
     ],
     radar: (o: { place: string; deg?: number; openArchive: boolean }): Rich => [
       'يرى الرادار عبر السحب والظلام. ',
       ...(o.deg === undefined
-        ? [`كان بإمكانه رصد ${at(o.place)}${stop(o.place)}`]
-        : ['لو وجّه راداره بزاوية ', deg(o.deg), ` إلى الجانب، لأمكنه رصد ${at(o.place)}${stop(o.place)}`]),
+        ? [`كان بإمكانه رصد ${atEnd(o.place)}`]
+        : ['لو وجّه راداره بزاوية ', deg(o.deg), ` إلى الجانب، لأمكنه رصد ${atEnd(o.place)}`]),
       o.openArchive ? ' لم نجد صورة منشورة من هذا المرور.' : ' لا يمكننا أن نعرف إن كان قد فعل.',
     ],
     camera: (o: { place: string; deg?: number }): Rich => [
       ...(o.deg === undefined
         ? [`كان بإمكانه رصد ${at(o.place)} وهو ينظر عموديًا إلى الأسفل.`]
-        : ['لو وجّه كاميرته بانحراف ', deg(o.deg), ` عن العمودي، لأمكنه رصد ${at(o.place)}${stop(o.place)}`]),
+        : ['لو وجّه كاميرته بانحراف ', deg(o.deg), ` عن العمودي، لأمكنه رصد ${atEnd(o.place)}`]),
       ' لا يمكننا أن نعرف إن كان قد فعل.',
     ],
   },

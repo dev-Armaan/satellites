@@ -12,6 +12,9 @@
  * Both elements carry .vars so the numbers live in one place.
  */
 .vars {
+  /* The same at every desktop height. Shorter strips (112 px on screens ≤ 720 px tall) cut the three label lanes to
+     7.8 px and the labels' ink overlapped, in every script; on those screens the panel runs beside the strip (below),
+     so the strip's height takes nothing from it, only 20 px from the globe above. */
   --timeline-h: 132px;
   --timeline-gap: 16px;
   --timeline-bottom: 56px;
@@ -26,11 +29,6 @@
    * panel. The hero takes what is left (Gallery.module.css).
    */
   --hero-chrome: calc(2 * var(--bezel-inset) + var(--sheet-clear, 56px) + var(--below-panel) + 572px);
-}
-@media (max-height: 720px) {
-  .vars {
-    --timeline-h: 112px;
-  }
 }
 
 /*

@@ -74,8 +74,8 @@ const SHARES_COMPACT = [0.55, 0.45]
  * The three label lanes' least height (`--lane-min` on the plot, Timeline.module.css): 0 in most scripts. Where a
  * script's marks rise and hang further (Devanagari's ँ over ु, Vietnamese's stacked Ể under a Q's tail), a short strip's
  * 20 % lanes (11.8 px at 1280 × 800) brought one label's ink to its neighbour's; those lanes take the room from the
- * photographs' lane, which never gets smaller than they are, nor than PHOTO_LANE_MIN: in a shorter strip (≤ 720 px
- * tall screens) they get what that leaves, never less than their share.
+ * photographs' lane, which never gets smaller than they are, nor than PHOTO_LANE_MIN: in a shorter strip (no desktop
+ * has one: it keeps 132 px, results.module.css) they get what that leaves, never less than their share.
  */
 /** The photographs' lane gives the label lanes room only down to this (its diamond is 10.8 px tall). */
 const PHOTO_LANE_MIN = 17

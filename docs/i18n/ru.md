@@ -1010,6 +1010,8 @@ counts: **8.0 px a character at 11 px, 7.0 px at 9.5 px** (caps, +0.08em).
 | Thumbnail cloud chip (48 px on phones ≤ 360 px) | ≤ 5 characters | «Облака» (6) is clipped there, as Polish «Chmury» is: reported to the layout, no shorter honest word |
 | Pin move hint at 320 px | one mono line | «Зажми глобус, чтобы сдвинуть метку» (34, as English) |
 | HUD top-left at 375 px (beside the sun line) | about the English's 14 | «Как это работает» (16) |
+| Pass view time cells (164 px on a 390 px phone, 11 px mono caps) | ≤ 18 characters | «Сближение · UTC» · «Местное время» (13); «Сближение · местное» (19) wrapped |
+| Cover chip under the photo (285 px at 360, 293 px in landscape) | ≤ 33 characters, one line | «Снимки недели: в основном облака» (32) |
 
 Strategies, in order:
 1. A noun instead of a verb phrase in labels («Курс», «Высота», «Повтор»).
@@ -1255,7 +1257,7 @@ Results
 | 12 detailed images (…) · 3 daily weather mosaics (…) · 2 radar images (…) · 1,008 full-disc images (…). 1,204 passes from 412 imaging and crewed satellites checked. | 12 детальных снимков (Sentinel-2, Landsat, 10–30 м) · 3 суточные мозаики (250–375 м) · 2 радарных снимка (Sentinel-1, 20 м) · 1 008 снимков полного диска с геостационарных метеоспутников (2–5 км; показан самый свежий снимок каждого). Проверено 1 204 пролёта 412 съёмочных и пилотируемых спутников. |
 | Photos · All · Detailed · Weather · Radar | Снимки · Все · Детальные · Погода · Радар |
 | Closest look · Last clear look · Clouded over · Daily mosaic | Самый близкий кадр · Последний ясный кадр · Под облаками · Суточная мозаика |
-| This week's passes saw mostly cloud · Here's the last clear look | На этой неделе на снимках в основном облака · Вот последний ясный кадр |
+| This week's passes saw mostly cloud · Here's the last clear look | Снимки недели: в основном облака · Вот последний ясный кадр |
 | 12 this week / 12 that week | 12 за неделю |
 | Clear · Thin cirrus · Cloud shadow · Cloud at spot · Clouded · 93% · Cloud 25% | Ясно · Тонкие облака · Тень облаков · Облака в точке · Облачно · 93% · Облака 25% |
 | Reading the pixel at your spot… · Clear over your spot. · Your spot was in cloud shadow. | Читаем пиксель в твоей точке… · Над твоей точкой ясно. · Твоя точка была в тени от облаков. |
@@ -1274,7 +1276,7 @@ Pass detail readouts
 |---|---|
 | Altitude · Off-nadir · Pixel · Cloud (scene) · Cloud at spot | Высота · От надира · Пиксель · Облака (кадра) · Облака в точке |
 | Clear · Cirrus · Cloud · Shadow | Ясно · Тонкие · Облака · Тень |
-| Closest · UTC / Closest · local | Сближение · UTC / Сближение · местное |
+| Closest · UTC / Closest · local | Сближение · UTC / Местное время |
 | Ground distance · Elevation from you · Ground speed · Heading | До трассы · Над горизонтом · Путевая скорость · Курс |
 | SSW · Asc / Desc | SSW · восх. / нисх. |
 | Sun elevation (Day / Twilight / Night) | Высота Солнца (день / сумерки / ночь) |
@@ -1383,6 +1385,28 @@ Decided between the reviewers, or against both where the screen said so:
 Rejected: A's «Скан · UTC» for "Scan line here" («скан» drops "here", blurs with «Это сканирование» on the same grid,
 and «линия» is that screen's word: «Скорость линии», «Направление линии»); B's «Сентрал-парк» chip (§4.3). Copy link
 on laptops (A, B, the translator) is right, but no ru string can fix it: Appendix B, item 7.
+
+### Visual pass (2026-11-22)
+
+Every screen measured at 360×780, 390×844, 430×932, 844×390 and 1280×800 against English at the same size
+(`getBoundingClientRect` and `scrollWidth` over every visible text node, plus screenshots). Three strings changed:
+
+- **Pass view time cells**: «Сближение · местное» (19) wrapped to two lines in its 164 px cell on a 390 px phone and
+  pushed its value a line below its neighbour's; English sets one line. Now «Местное время» (13), as German has
+  «Ortszeit»: it stands in the same row as «Сближение · UTC», so the moment is named once. The geostationary row's
+  «Линия здесь · местное» gets the same «Местное время» beside «Линия здесь · UTC».
+- **The cloud chip on the last clear look**: «На этой неделе на снимках в основном облака» (43) took two lines at 360,
+  390 and 844 px and left «облака» (or «основном облака») alone below; English takes one line from 390 px. Now
+  «Снимки недели: в основном облака» (32), one line at every size, 360 px included.
+- **The week card's headline**: the 466 px column set «На этой неделе сюда / смотрели / 219 спутников.», a verb alone
+  on its line. «сюда» and its verb are now tied with a no-break space («На этой неделе / сюда смотрели / 219
+  спутников.»); the pass card («Сюда смотрели 219 спутников.») is unchanged on screen.
+
+Checked and kept: relative days stay spelled out (§6.6). On a 390 px phone the last clear look's caption drops its age
+(«21 день назад») by 5 px because «Открыть» is wider than "View"; «21 дн. назад» would win one character and fit only
+this case, so the fit rule's drop stands. Reported to the layout, not changed here: the HUD's replay clock over the
+language name, the results panel over it in landscape, and a count parted from its noun at a line end (the animated
+count is an atomic inline, so the no-break space after it does not hold).
 
 ## Decisions log
 

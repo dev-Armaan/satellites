@@ -31,7 +31,7 @@
  * except the licence credit, which is English and uppercased as English (Chip.lang). Units keep their case in every
  * renderer ("10 m", "1 km", a readout's "km": ./i18n/units.ts).
  */
-import { textPx, widestPiecePx } from './cardMeasure.js'
+import { textPx, unbreakable, widestPiecePx } from './cardMeasure.js'
 import { cardMessages, type CardMessages } from './i18n/card/index.js'
 import { fmt } from './i18n/format.js'
 import { DEFAULT_LOCALE, LOCALE_INFO, type Locale } from './i18n/locales.js'
@@ -555,14 +555,19 @@ function linesOf(text: string, role: 'display' | 'serif', size: number, locale: 
   const lines: string[][] = []
   let w = 0
   for (const word of runs(text)) {
-    const ww = px(word)
-    if (lines.length && w + space + ww <= PANEL.w) {
-      w += space + ww
-      lines[lines.length - 1].push(word)
-    } else {
-      lines.push([word])
-      w = ww
-    }
+    // a run breaks after its hyphens too («Baden-» / «Württemberg तक»): counted whole, a two-line place was one line
+    // and the block ran past the readouts' rule
+    unbreakable(word).forEach((piece, i) => {
+      const gap = i ? 0 : space
+      const ww = px(piece)
+      if (lines.length && w + gap + ww <= PANEL.w) {
+        w += gap + ww
+        lines[lines.length - 1].push(piece)
+      } else {
+        lines.push([piece])
+        w = ww
+      }
+    })
   }
   return lines
 }

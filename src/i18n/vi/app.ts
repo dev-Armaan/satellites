@@ -18,10 +18,13 @@ const app: typeof en = {
     back: 'Quay lại',
   },
 
-  /** "your connection" needs no *của bạn*: whose it is goes without saying (§1.2 rule 1) */
+  /**
+   * "your connection" needs no *của bạn*: whose it is goes without saying (§1.2 rule 1). The notice is a short block
+   * on a phone, so its compounds are held whole (at 360 px it set as *Kiểm / tra*).
+   */
   faults: {
-    catalog: 'Không tải được danh mục quỹ đạo. Kiểm tra kết nối rồi thử lại.',
-    compute: 'Đã xảy ra lỗi khi tính các lượt bay qua nơi này. Thử lại sau giây lát.',
+    catalog: 'Không tải được danh mục quỹ\u00a0đạo. Kiểm\u00a0tra kết\u00a0nối rồi thử\u00a0lại.',
+    compute: 'Đã xảy ra lỗi khi tính các lượt bay qua nơi này. Thử\u00a0lại sau giây\u00a0lát.',
   },
 
   progress: {

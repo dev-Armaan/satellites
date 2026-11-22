@@ -31,6 +31,7 @@
  * except the licence credit, which is English and uppercased as English (Chip.lang). Units keep their case in every
  * renderer ("10 m", "1 km", a readout's "km": ./i18n/units.ts).
  */
+import { textPx, widestPiecePx } from './cardMeasure.js'
 import { cardMessages, type CardMessages } from './i18n/card/index.js'
 import { fmt } from './i18n/format.js'
 import { DEFAULT_LOCALE, LOCALE_INFO, type Locale } from './i18n/locales.js'
@@ -429,6 +430,48 @@ export function accentText(head: Rich, locale: Locale): string {
     .join(LOCALE_INFO[locale].sentenceGap)
 }
 
+/** The smallest headline: every size search stops here (a longer word is cut short instead: fittedPlace). */
+export const HEAD_MIN = 36
+
+/** Letters and digits outside the full-width set (cjkEm's): a Latin name in a CJK text part. */
+const NARROW_LETTER = /(?![\u1100-\u11ff\u2e80-\u9fff\uac00-\ud7af\uf900-\ufaff\uff00-\uffef])[\p{L}\p{N}]/u
+
+/**
+ * Whether every piece of the headline that no renderer breaks fits the 466 px column at size S, in its face and
+ * tracking, measured with the faces' own widths (cardMeasure.ts). The browser, the canvas and satori all set a word
+ * wider than the column alone on its line and let it run out of the card («Visakhapatnam.» at 84 px, a satellite's
+ * name in capitals), whatever the line counts said. A CJK text part is one line whatever its length (HEAD_CJK): it is
+ * measured whole, when it holds a Latin name (cjkEm alone sizes the rest, as it always has).
+ */
+export function headlineFits(head: Rich, locale: Locale, S: number, cjk = false): boolean {
+  const P = S * HEAD.placeScale
+  const track = headTracking(locale)
+  return head.every((part) => {
+    if (isAccent(part)) return widestPiecePx(plain(part.accent), 'serif', P, track.place, locale) <= PANEL.w
+    const text = plain([part])
+    if (!cjk) return widestPiecePx(text, 'display', S, track.lead, locale) <= PANEL.w
+    return !NARROW_LETTER.test(text) || textPx(text.trim(), 'display', S, track.lead, locale) <= PANEL.w
+  })
+}
+
+/** Only the headline's serif blocks (the place and its words) fit at S: what a shorter place can mend. */
+const accentFits = (head: Rich, locale: Locale, S: number) => headlineFits(head.filter(isAccent), locale, S)
+
+/**
+ * The place as the card sets it: cardPlace's, cut shorter still (with an ellipsis, as a name over 48 code points is) when
+ * one of its words would be wider than the column even at HEAD_MIN: a 47-letter Welsh name, a run of coordinates with
+ * no space. `build` makes the headline around a place.
+ */
+function fittedPlace(label: string, locale: Locale, build: (place: string) => Rich): string {
+  let place = cardPlace(label)
+  let cps = Array.from(place.endsWith('…') ? place.slice(0, -1) : place)
+  while (cps.length > 1 && !accentFits(build(place), locale, HEAD_MIN)) {
+    cps = cps.slice(0, -1)
+    place = `${cps.join('').trimEnd()}…`
+  }
+  return place
+}
+
 /**
  * Headline size so the lead wraps to at most three condensed lines and the serif place to at most
  * two in the 466px column: the smaller of what the lead and the place (accentText) each allow.
@@ -450,9 +493,10 @@ export function cjkEm(text: string): number {
 
 /**
  * A Chinese, Japanese or Korean headline's size: the largest (84 px down, in 2 px steps) at which every text part
- * fits one line of the column, the place fits two, and the whole block, sub-line included, fits its band.
+ * fits one line of the column, the place fits two, and the whole block, sub-line included, fits its band. Given the
+ * card's `locale`, also one at which no word is wider than the column (headlineFits: a Latin place, a satellite's name).
  */
-export function headlineSizeCjk(head: Rich, sub?: string): number {
+export function headlineSizeCjk(head: Rich, sub?: string, locale?: Locale): number {
   const texts = head.filter((p): p is string => typeof p === 'string').map((t) => t.trim()).filter(Boolean)
   const places = head.filter(isAccent).map((p) => plain(p.accent))
   const widest = Math.max(0, ...texts.map(cjkEm))
@@ -460,6 +504,7 @@ export function headlineSizeCjk(head: Rich, sub?: string): number {
   for (let S = 84; S > 36; S -= 2) {
     const P = S * HEAD.placeScale
     if (widest * S * 0.98 > PANEL.w) continue
+    if (locale && !headlineFits(head, locale, S, true)) continue
     // Whole characters per line (a line never holds a fraction of one), so 11 at 78 px take three lines, not 1.85.
     const perLine = Math.max(1, Math.floor(PANEL.w / P))
     const placeLines = places.map((t) => Math.ceil(cjkEm(t) / perLine))
@@ -557,9 +602,12 @@ export function headlineSizeDevanagari(head: Rich, lead: string, place: string, 
 /** The headline's size and script flags for a card in `locale` (English and every other script: headlineSize). */
 function headSizing(locale: Locale, head: Rich, lead: string, sub?: string): { size: number; cjk?: true } {
   const script = LOCALE_INFO[locale].script
-  if (script === 'cjk') return { size: headlineSizeCjk(head, sub), cjk: true }
+  if (script === 'cjk') return { size: headlineSizeCjk(head, sub, locale), cjk: true }
   if (script === 'devanagari') return { size: headlineSizeDevanagari(head, lead, accentText(head, locale), sub) }
-  return { size: headlineSize(lead, accentText(head, locale)) }
+  // A word wider than the column steps the size down until it fits (2 px at a time, so it stays as large as it can).
+  let S = headlineSize(lead, accentText(head, locale))
+  while (S > HEAD_MIN && !headlineFits(head, locale, S)) S -= 2
+  return { size: S }
 }
 
 // ── Numbers and places ──────────────────────────────────────────────────────────────────────
@@ -1019,7 +1067,7 @@ function cardSpaces<T>(v: T): T {
 
 export function buildCardSpec(input: CardInput, locale: Locale = DEFAULT_LOCALE): CardSpec {
   const m = cardMessages(locale)
-  const place = cardPlace(input.placeLabel)
+  const place = fittedPlace(input.placeLabel, locale, (p) => passHeadline(m, input.verdict, input.satName, p, input.satellites))
   const head = passHeadline(m, input.verdict, input.satName, place, input.satellites)
   const pieces = headPieces(head, locale)
   const c = input.capture
@@ -1176,7 +1224,7 @@ export function buildSummarySpec(i: SummaryInput, locale: Locale = DEFAULT_LOCAL
   const m = cardMessages(locale)
   const int = fmt(locale).int
   const n = Math.max(0, Math.round(i.satellites))
-  const place = cardPlace(i.placeLabel)
+  const place = fittedPlace(i.placeLabel, locale, (p) => m.headlineWeek(n, p, isCut(p)))
   // The results headline, in the card's two type faces (R3-13): the condensed lead, then the serif place.
   const head = m.headlineWeek(n, place, isCut(place))
   const pieces = headPieces(head, locale)

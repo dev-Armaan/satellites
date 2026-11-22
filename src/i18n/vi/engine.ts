@@ -37,8 +37,8 @@ const engine: typeof en = {
     sentinel2Down: 'Không kết nối được kho Sentinel-2; có thể thiếu ảnh Sentinel-2.',
     landsatDown: 'Không kết nối được kho Landsat; có thể thiếu ảnh Landsat.',
     openOcean: 'Điểm này nằm ngoài kế hoạch thu ảnh của Sentinel-2 (biển khơi).',
-    elementsOld: ({ days }: { days: number }) => `Tham số quỹ đạo có từ ${f.int(days)} ngày trước, nên giờ bay qua có thể lệch vài phút.`,
-    elementsNewer: 'Các lượt bay này được dựng lại từ tham số quỹ đạo mới hơn, nên giờ bay qua có thể lệch vài phút.',
+    elementsOld: ({ days }: { days: number }) => `Tham số quỹ đạo có từ ${f.int(days)} ngày trước, nên giờ bay qua có thể lệch vài\u00a0phút.`,
+    elementsNewer: 'Các lượt bay này được dựng lại từ tham số quỹ đạo mới hơn, nên giờ bay qua có thể lệch vài\u00a0phút.',
     /** "VIIRS images the whole globe" is a verb: *chụp*; the demonstrative follows the count (*lượt bay đó* / *các lượt bay đó*) */
     gibsUnconfirmed: ({ n }: { n: number }) =>
       `NASA GIBS xác nhận chậm ${f.int(n)} ảnh VIIRS; VIIRS chụp toàn bộ Trái Đất mỗi ngày, nên ${

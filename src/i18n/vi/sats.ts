@@ -101,7 +101,7 @@ const sats: typeof en = {
     gaofen12: 'Vệ tinh radar của chính phủ Trung Quốc; thông số không được công bố.',
 
     // ── Crewed space stations ──
-    iss: 'Trạm Vũ trụ Quốc tế, có người ở liên tục từ tháng 11 năm 2000.',
+    iss: 'Trạm Vũ trụ Quốc tế, có người ở liên tục từ tháng\u00a011 năm\u00a02000.',
     tiangong: 'Trạm vũ trụ của Trung Quốc, xây quanh mô-đun lõi Tianhe phóng năm 2021.',
   },
 }

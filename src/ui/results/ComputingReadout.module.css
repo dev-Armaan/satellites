@@ -57,9 +57,14 @@
 .idx {
   color: var(--bone-3-mark, rgb(236 232 224 / 0.4));
 }
+/* A row's words wrap where they do not fit (ComputingBody RowText): the number, duration and mark stay on its first
+   line (baseline), and the counter at its end never breaks. */
 .msg {
-  overflow: hidden;
-  text-overflow: ellipsis;
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+.counter {
+  white-space: nowrap;
 }
 .dur {
   text-align: end;

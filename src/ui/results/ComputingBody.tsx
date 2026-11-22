@@ -159,7 +159,7 @@ export function ComputingBody({ t0, tz }: { t0: number; tz?: string }) {
             return (
               <li key={stage} className={cx(s.line, s[state])}>
                 <span className={s.idx}>{pad2(i + 1)}</span>
-                <span className={s.msg}>{written ?? (state === 'done' ? c.stages[stage].done : idleLabel(stage))}</span>
+                <RowText text={written ?? (state === 'done' ? c.stages[stage].done : idleLabel(stage))} />
                 <span className={s.dur}>{dur !== undefined && state !== 'idle' ? secs(dur) : '—'}</span>
                 <span className={s.status}>{state === 'done' ? c.ok : state === 'run' ? <span className={s.caret} /> : ''}</span>
               </li>
@@ -183,6 +183,27 @@ export function ComputingBody({ t0, tz }: { t0: number; tz?: string }) {
         <p className={s.note}>{verySlow ? c.verySlow : c.slow}</p>
       ) : null}
     </div>
+  )
+}
+
+/** Every progress line puts its counter after its last ' · ' ("PROPAGATING ORBITS · 288 / 403", engine.ts). */
+const COUNTER_SEP = ' · '
+/** Longer than this, what follows the dot is a phrase ("Abgleich · 120 Szenen mit 2.410 Überflügen"), and it wraps. */
+const COUNTER_MAX = 20
+
+/**
+ * A row's words, then its counter, unbroken. The words wrap (a second line rather than an ellipsis, which cut the
+ * counter first: "VERIFYING NASA WEATHER MOSAICS · 12 / 3…"); the counter never breaks, so the numbers that tick stay
+ * whole. The space before its dot is inside it, so no line starts with the dot: the last word comes down with it.
+ */
+function RowText({ text }: { text: string }) {
+  const at = text.lastIndexOf(COUNTER_SEP)
+  if (at <= 0 || text.length - at > COUNTER_MAX) return <span className={s.msg}>{text}</span>
+  return (
+    <span className={s.msg}>
+      {text.slice(0, at)}
+      <span className={s.counter}>{text.slice(at)}</span>
+    </span>
   )
 }
 

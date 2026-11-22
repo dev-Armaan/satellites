@@ -318,7 +318,8 @@ const results: typeof en = {
   // ── 04 / LINEA DEL TEMPO ──────────────────────────────────────────────────────────────────────
   timeline: {
     title: 'Linea del tempo',
-    meta: (n: number, zoneLabel: string, zones?: string) => `${days(n)} · ${zoneLabel}${zones ? ` · ${zones}` : ''}`,
+    meta: (n: number, zoneLabel: string, zones?: string) =>
+      `${days(n)} · ${zoneLabel}${zones ? ` · ${zones}` : ''}`,
     zoneChange: (before: string, after: string) => `${before} → ${after}`,
     daylight: 'Luce del giorno qui',
     /** *Linea del tempo, 7 giorni. Osservato: 12, probabilmente osservato: 3, poteva puntare qui: 0, nel tuo cielo: 5.* */

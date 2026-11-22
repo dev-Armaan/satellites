@@ -392,7 +392,8 @@ export default ns('results', {
      * Beside it: the window, the place's zone name, its abbreviation(s) (`zones`, "EST" or "EDT → EST"; mono caps).
      * A zone named by its offset ("UTC+7", "UTC−9 · at sea") comes without `zones`: they would say it again.
      */
-    meta: (days: number, zoneLabel: string, zones?: string) => `${count(days, 'day', 'days')} · ${zoneLabel}${zones ? ` · ${zones}` : ''}`,
+    meta: (days: number, zoneLabel: string, zones?: string) =>
+      `${count(days, 'day', 'days')} · ${zoneLabel}${zones ? ` · ${zones}` : ''}`,
     /** A daylight-saving change inside the window: the zone's abbreviation before and after */
     zoneChange: (before: string, after: string) => `${before} → ${after}`,
     /** The legend's key for the shaded day/night band */

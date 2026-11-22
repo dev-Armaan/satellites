@@ -255,7 +255,8 @@ const results: typeof en = {
   // ── 04 / TIJDLIJN ────────────────────────────────────────────────────────────────────────
   timeline: {
     title: 'Tijdlijn',
-    meta: (n: number, zoneLabel: string, zones?: string) => `${days(n)} · ${zoneLabel}${zones ? ` · ${zones}` : ''}`,
+    meta: (n: number, zoneLabel: string, zones?: string) =>
+      `${days(n)} · ${zoneLabel}${zones ? ` · ${zones}` : ''}`,
     zoneChange: (before: string, after: string) => `${before} → ${after}`,
     daylight: 'Daglicht hier',
     // Title first, then the count, so nothing has to agree (§5).

@@ -303,7 +303,8 @@ const results: typeof en = {
   // ── 04 / ШКАЛА ВРЕМЕНИ ───────────────────────────────────────────────────────────────────
   timeline: {
     title: 'Шкала времени',
-    meta: (days: number, zoneLabel: string, zones?: string) => `${count(days, DAYS)} · ${zoneLabel}${zones ? ` · ${zones}` : ''}`,
+    meta: (days: number, zoneLabel: string, zones?: string) =>
+      `${count(days, DAYS)} · ${zoneLabel}${zones ? ` · ${zones}` : ''}`,
     zoneChange: (before: string, after: string) => `${before} → ${after}`,
     daylight: 'Здесь день',
     // A verdict's name cannot follow a bare count in Russian («12 увидено»), so each count follows its name.

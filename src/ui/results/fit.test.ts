@@ -55,7 +55,8 @@ describe('timeline lanes', () => {
     expect(layoutFor(800, 110, false, true, 30).heights).toEqual([25, 25, 25, 25])
   })
   it('keep the photographs\' lane at 17 px at least, and the label lanes at their share at least', () => {
-    // A 50 px plot (shorter than any desktop strip): 20 / 10 / 10 / 10 by the shares; the label lanes take only what leaves 17.
+    // A 50 px plot (shorter than any desktop strip): 20 / 10 / 10 / 10 by the shares; the label lanes take only what
+    // leaves 17.
     expect(layoutFor(800, 60, false, true, 14).heights).toEqual([17, 11, 11, 11])
     expect(layoutFor(800, 40, false, true, 14).heights).toEqual(layoutFor(800, 40, false, true).heights)
   })

@@ -262,7 +262,8 @@ const results: typeof en = {
   // ── 04 / ZAMAN ÇİZELGESİ ─────────────────────────────────────────────────────────────────
   timeline: {
     title: 'Zaman çizelgesi',
-    meta: (n: number, zoneLabel: string, zones?: string) => `${days(n)} · ${zoneLabel}${zones ? ` · ${zones}` : ''}`,
+    meta: (n: number, zoneLabel: string, zones?: string) =>
+      `${days(n)} · ${zoneLabel}${zones ? ` · ${zones}` : ''}`,
     zoneChange: (before: string, after: string) => `${before} → ${after}`,
     daylight: 'Burada gündüz',
     // Title first, then the count, so no verdict name is ever put after a bare number (§3.6).

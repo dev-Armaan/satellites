@@ -331,7 +331,8 @@ const results: typeof en = {
   // ── 04 / CHRONOLOGIE ─────────────────────────────────────────────────────────────────────────
   timeline: {
     title: 'Chronologie',
-    meta: (days: number, zoneLabel: string, zones?: string) => `${dayCount(days)} · ${zoneLabel}${zones ? ` · ${zones}` : ''}`,
+    meta: (days: number, zoneLabel: string, zones?: string) =>
+      `${dayCount(days)} · ${zoneLabel}${zones ? ` · ${zones}` : ''}`,
     zoneChange: (before: string, after: string) => `${before} → ${after}`,
     daylight: 'Jour ici',
     // fr.md §3.6: each verdict's name as a label, then its count, so no title is lowercased or agreed.

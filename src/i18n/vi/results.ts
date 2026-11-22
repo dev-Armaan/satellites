@@ -254,7 +254,8 @@ const results: typeof en = {
   // ── 04 / DÒNG THỜI GIAN ──────────────────────────────────────────────────────────────────
   timeline: {
     title: 'Dòng thời gian',
-    meta: (days: number, zoneLabel: string, zones?: string) => `${f.int(days)} ngày · ${zoneLabel}${zones ? ` · ${zones}` : ''}`,
+    meta: (days: number, zoneLabel: string, zones?: string) =>
+      `${f.int(days)} ngày · ${zoneLabel}${zones ? ` · ${zones}` : ''}`,
     zoneChange: (before: string, after: string) => `${before} → ${after}`,
     daylight: 'Ban ngày ở đây',
     /**

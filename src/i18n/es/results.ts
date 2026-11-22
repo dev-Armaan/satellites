@@ -257,7 +257,8 @@ const results: typeof en = {
   // ── 04 / Cronología ──────────────────────────────────────────────────────────────────────
   timeline: {
     title: 'Cronología',
-    meta: (n: number, zoneLabel: string, zones?: string) => `${days(n)} · ${zoneLabel}${zones ? ` · ${zones}` : ''}`,
+    meta: (n: number, zoneLabel: string, zones?: string) =>
+      `${days(n)} · ${zoneLabel}${zones ? ` · ${zones}` : ''}`,
     zoneChange: (before: string, after: string) => `${before} → ${after}`,
     daylight: 'Luz del día aquí',
     // Never "12 observada": each verdict's name, then its count of passes (es.md §3.5).

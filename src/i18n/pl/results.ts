@@ -312,7 +312,8 @@ const results: typeof en = {
   // ── 04 / OŚ CZASU ────────────────────────────────────────────────────────────────────────
   timeline: {
     title: 'Oś czasu',
-    meta: (days: number, zoneLabel: string, zones?: string) => `${count(days, DAYS)} · ${zoneLabel}${zones ? ` · ${zones}` : ''}`,
+    meta: (days: number, zoneLabel: string, zones?: string) =>
+      `${count(days, DAYS)} · ${zoneLabel}${zones ? ` · ${zones}` : ''}`,
     zoneChange: (before: string, after: string) => `${before} → ${after}`,
     daylight: 'Dzień tutaj',
     // Label: value pairs: «12 zapewne pod okiem» would read as nonsense (§3.6).

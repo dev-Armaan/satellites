@@ -36,7 +36,16 @@ import { Mark } from './Mark'
 import { isDailyMosaic, isRadar } from './lib/captures'
 import { glyphForPass, markColorVar, VERDICT_GLYPH, type Verdict } from './lib/meta'
 import { daylight, hitTest, SUN_SAMPLE_MS, type DayMark } from './lib/timeline'
-import { fmtDayCompact, fmtLocalDay, fmtLocalStamp, fmtLocalTime, localDateKey, localParts, zoneAbbr, zoneHasAbbr } from './lib/time'
+import {
+  fmtDayCompact,
+  fmtLocalDay,
+  fmtLocalStamp,
+  fmtLocalTime,
+  localDateKey,
+  localParts,
+  zoneAbbr,
+  zoneHasAbbr,
+} from './lib/time'
 import type { ResultsModel } from './model'
 import s from './Timeline.module.css'
 

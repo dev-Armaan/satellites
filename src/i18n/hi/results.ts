@@ -244,7 +244,8 @@ const results: typeof en = {
   // ── 04 / Timeline ──
   timeline: {
     title: 'समयरेखा',
-    meta: (days: number, zoneLabel: string, zones?: string) => `${count(days, 'दिन', 'दिन')} · ${zoneLabel}${zones ? ` · ${zones}` : ''}`,
+    meta: (days: number, zoneLabel: string, zones?: string) =>
+      `${count(days, 'दिन', 'दिन')} · ${zoneLabel}${zones ? ` · ${zones}` : ''}`,
     zoneChange: (before: string, after: string) => `${before} → ${after}`,
     daylight: 'यहाँ दिन का उजाला',
     summary: (days: number, counts: Record<Verdict, number>, titles: Readonly<Record<Verdict, string>>) =>

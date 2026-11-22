@@ -307,6 +307,7 @@ function HudImpl({ onAbout, onHome }: { onAbout?: () => void; onHome?: () => voi
  * time's move changes the corner's height, so from the observer it waits for the next frame (layoutFlag).
  */
 function useCrowdedLine(topLeft: RefObject<HTMLDivElement | null>, topRight: RefObject<HTMLDivElement | null>) {
+  const recheck = useRelayoutOnLocale()
   useLayoutEffect(() => {
     const tl = topLeft.current
     const tr = topRight.current
@@ -355,7 +356,9 @@ function useCrowdedLine(topLeft: RefObject<HTMLDivElement | null>, topRight: Ref
     mo.observe(tl, { childList: true })
     window.addEventListener('resize', now)
     now()
+    recheck.current = now
     return () => {
+      recheck.current = undefined
       ro.disconnect()
       mo.disconnect()
       flag.drop()
@@ -381,6 +384,7 @@ function useCrowdedLine(topLeft: RefObject<HTMLDivElement | null>, topRight: Ref
  * observer, or from the insets the panels publish from theirs, it waits for the next frame (layoutFlag).
  */
 function useLanguageRoom(topLeft: RefObject<HTMLDivElement | null>) {
+  const recheck = useRelayoutOnLocale()
   useLayoutEffect(() => {
     const tl = topLeft.current
     if (!tl || typeof ResizeObserver === 'undefined') return
@@ -428,7 +432,9 @@ function useLanguageRoom(topLeft: RefObject<HTMLDivElement | null>) {
     mo.observe(tl, { childList: true })
     window.addEventListener('resize', now)
     now()
+    recheck.current = now
     return () => {
+      recheck.current = undefined
       ro.disconnect()
       mo.disconnect()
       unsub()
@@ -436,6 +442,20 @@ function useLanguageRoom(topLeft: RefObject<HTMLDivElement | null>) {
       window.removeEventListener('resize', now)
     }
   }, [topLeft])
+}
+
+/**
+ * A language switch changes the words both hooks above measure (the language's name, the scene's label), which their
+ * ResizeObservers would see only after layout, so the new words would be painted for a frame in the old arrangement
+ * (Russian's name under the panel's edge, 26 px of it at 800 × 360) before the step was written. The hook's check
+ * runs again in a layout effect when the language changes instead: the DOM already holds the new words, nothing has
+ * been painted yet, and it is not an observer's delivery, so the decision is written at once.
+ */
+function useRelayoutOnLocale() {
+  const recheck = useRef<(() => void) | undefined>(undefined)
+  const locale = useLocale()
+  useLayoutEffect(() => recheck.current?.(), [locale])
+  return recheck
 }
 
 /**
@@ -447,7 +467,8 @@ function useLanguageRoom(topLeft: RefObject<HTMLDivElement | null>) {
  * a replay). So there the write waits for the next frame, before its layout, which the observers then see like any
  * other change; the frame already laid out is painted as it was, one frame of the old layout (the same rule as
  * Sheet.tsx's footer padding, R3-12). Elsewhere it is written at once: at mount (before the first paint), from the
- * MutationObserver (a line just remounted) and on a window resize (before the frame's layout). A newer check drops a write still waiting: the latest measurement decides.
+ * MutationObserver (a line just remounted), on a language switch (useRelayoutOnLocale) and on a window resize (before
+ * the frame's layout). A newer check drops a write still waiting: the latest measurement decides.
  */
 function layoutFlag() {
   let frame = 0

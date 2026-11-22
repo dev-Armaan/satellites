@@ -77,9 +77,13 @@ const results: typeof en = {
   // ── the second line ──────────────────────────────────────────────────────────────────────
   /** *Ít nhất* is the strong part, outside the number: the sentence reads with and without it (§3.4) */
   imagesPublic: (k: number): Rich => [strong(`${bind('Ít nhất')} `), num(f.int(k)), `\u00a0${bind('bức ảnh')} đã được ${bind('công bố')}.`],
+  /**
+   * *không ảnh nào* (as *Không vệ tinh nào*), not *không có bức ảnh nào*: the longer form set *công bố.* alone on a
+   * second line beside the Share button at 390 and 1280 px; this one is one line from 390 px up.
+   */
   noImages: {
-    thisWeek: `${bind('Tuần này')} không có ${bind('bức ảnh')} nào được ${bind('công bố')}.`,
-    thatWeek: `${bind('Tuần đó')} không có ${bind('bức ảnh')} nào được ${bind('công bố')}.`,
+    thisWeek: `${bind('Tuần này')} không ảnh nào được ${bind('công bố')}.`,
+    thatWeek: `${bind('Tuần đó')} không ảnh nào được ${bind('công bố')}.`,
   },
   archiveDown: `Các kho ${bind('lưu trữ')} ảnh không ${bind('phản hồi')}, nên hiện ${bind('chúng tôi')} chưa thể đếm số ảnh ${bind('công khai')}.`,
   tryAgain: 'Thử lại',

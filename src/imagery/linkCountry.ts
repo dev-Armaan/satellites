@@ -4,9 +4,9 @@
  * table's countryless names (./exonyms.ts), so a German reader who searched München and reloaded, or opened a link a
  * friend sent, read Munich. A name alone cannot pick the country (London is Londra in Italian; London, Ontario is not):
  * the point can. The offline list's place of that name nearest the point (./localPlaces.ts localNamed: the tiles
- * around it, the landmarks, and the name's own search file, which alone holds the regions, countries and features)
- * gives its country and what it is (a town, a region, a feature): a German reader who searched Palästina and reloaded
- * reads Palästinensische Autonomiegebiete again, not Palestinian Territory.
+ * around it and the landmarks first, else the name's own search file, which alone holds the regions, countries and
+ * features) gives its country and what it is (a town, a region, a feature): a German reader who searched Palästina
+ * and reloaded reads Palästinensische Autonomiegebiete again, not Palestinian Territory.
  *
  * Display only: the Place keeps no country (the usage stats and the address bar see the link as it came), and a link
  * whose name the list does not know near its point (a street, a typed label) stays countryless. Resolved before the

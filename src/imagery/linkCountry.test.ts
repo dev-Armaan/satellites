@@ -71,6 +71,27 @@ describe('a linked place’s name', () => {
     expect(await shown(link('Gaza Strip', 31.417, 34.333))).toBe('गाज़ा पट्टी')
   })
 
+  it('lets the towns and landmarks decide first, and never waits for the search file when they match', async () => {
+    // The search file never answers: a town the tiles name is named at once, as before it was read at all.
+    vi.stubGlobal('fetch', async (input: string) => {
+      if (String(input).includes('/s/')) return new Promise<Response>(() => {})
+      const file = FILES[`/public${String(input)}`]
+      return file ? new Response(await file()) : new Response('', { status: 404 })
+    })
+    setBundleForTests('de', { exonyms: { names: deNames, countries: true } })
+    await ensureExonyms()
+    const nuremberg = link('Nuremberg', 49.454, 11.078) // no test before this one reads its search file (s/nur.txt)
+    let named = false
+    void resolveLinkCountry(nuremberg).then(() => (named = true))
+    await vi.waitFor(() => expect(named).toBe(true), { timeout: 1000 })
+    expect(displayLabel(linkedForName(nuremberg))).toBe('Nürnberg')
+    // And a town beats a region of its name nearer the point: Mexico City, the city, not the state 16 km off.
+    serveFiles()
+    setBundleForTests('ru', { exonyms: { names: ruNames, countries: true } })
+    await ensureExonyms()
+    expect(await shown(link('Mexico City', 19.29, -99.295))).toBe('Мехико')
+  })
+
   it('fetches nothing in English, and leaves the place itself as it came', async () => {
     const f = serveFiles()
     const p = link('Munich', 48.137, 11.575)

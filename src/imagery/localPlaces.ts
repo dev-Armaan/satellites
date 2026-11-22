@@ -458,11 +458,13 @@ const NAMED_REACH = 0.3
 
 /**
  * The place of the offline list named `name` nearest (lat, lon), within NAMED_REACH: a town in the tiles around the
- * point, a landmark, or a region, a country or a feature, which no tile holds (towns only): those are in the name's
- * own search file, the one a search for it reads (a link to Germany, Kharkiv Oblast, the Gaza Strip or Lake Starnberg
- * is the point a search for it wrote). What a link's place is (./linkCountry.ts). Undefined when the list has no place
- * of that name there. Rejects if a tile or the landmarks can't be loaded; a search file that can't be leaves only the
- * places it alone holds out.
+ * point or a landmark, as first; else a region, a country or a feature, which no tile holds (towns only) and which the
+ * name's own search file does, the one a search for it reads (a link to Germany, Kharkiv Oblast, the Gaza Strip or Lake
+ * Starnberg is the point a search for it wrote). The towns and landmarks decide whenever they match, so a link they
+ * name is named as before whatever the search file says or however long it takes (Mexico City, the city, beside the
+ * state of that name 16 km off); the file is fetched beside them and read only when they have nothing. What a link's
+ * place is (./linkCountry.ts). Undefined when the list has no place of that name there. Rejects if a tile or the
+ * landmarks can't be loaded; a search file that can't be leaves the regions, countries and features out.
  */
 export async function localNamed(name: string, lat: number, lon: number, signal?: AbortSignal): Promise<LocalPlace | undefined> {
   throwIfAborted(signal)
@@ -472,7 +474,12 @@ export async function localNamed(name: string, lat: number, lon: number, signal?
     (rows) => rows?.filter((r) => r.kind === 'r' || r.kind === 'c' || r.kind === 'f') ?? null,
     () => null,
   )
-  const lists = await Promise.all([...tilesAround(lat, lon).map((f) => load(`t/${f}.txt`, signal)), load(LANDMARKS, signal), areas])
+  const lists = await Promise.all([...tilesAround(lat, lon).map((f) => load(`t/${f}.txt`, signal)), load(LANDMARKS, signal)])
+  return nearestNamed(lists, key, lat, lon) ?? nearestNamed([await areas], key, lat, lon)
+}
+
+/** The row of `lists` with `key` (or an alias of it) nearest (lat, lon), within NAMED_REACH. */
+function nearestNamed(lists: (LocalPlace[] | null)[], key: string, lat: number, lon: number): LocalPlace | undefined {
   let best: LocalPlace | undefined
   let bestKm = Infinity
   for (const r of lists.flatMap((l) => l ?? [])) {

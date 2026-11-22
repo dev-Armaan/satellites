@@ -381,21 +381,34 @@ export function ShareSheet(props: ShareSheetProps) {
   return ready ? <SheetBody {...props} /> : <SheetPending onClose={onClose} />
 }
 
-/** A press while the measure downloads: nothing on screen yet, but Back and Esc already close it as the sheet's would. */
+/**
+ * A press while the measure downloads: nothing on screen yet, but Back and Esc already close it as the sheet's would.
+ * Whatever the person does next drops it too (a tap anywhere, About): a sheet that arrived later would open over what
+ * they turned to (over About, which must stay on top: drawn later, the sheet would cover it and take its Esc).
+ */
 function SheetPending({ onClose }: { onClose: () => void }) {
   const closeRef = useRef(onClose)
   closeRef.current = onClose
-  useBackLayer('share', true, () => closeRef.current())
+  const close = () => closeRef.current()
+  useBackLayer('share', true, close)
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
       // About over the results takes the Esc itself, as it does over the sheet.
       if (e.key !== 'Escape' || useApp.getState().aboutOpen) return
       e.stopPropagation()
       e.preventDefault()
-      closeRef.current()
+      close()
     }
     window.addEventListener('keydown', onKey, true)
-    return () => window.removeEventListener('keydown', onKey, true)
+    // Registered after the press's own pointerdown: only a later one drops it.
+    window.addEventListener('pointerdown', close, true)
+    const unsub = useApp.subscribe((s) => s.aboutOpen && close())
+    if (useApp.getState().aboutOpen) close()
+    return () => {
+      window.removeEventListener('keydown', onKey, true)
+      window.removeEventListener('pointerdown', close, true)
+      unsub()
+    }
   }, [])
   return null
 }

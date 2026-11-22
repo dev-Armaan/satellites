@@ -70,19 +70,33 @@ const SHARES_FULL = [0.4, 0.2, 0.2, 0.2]
 const LANE_WORD = { strong: s.laneWord }
 const SHARES_COMPACT = [0.55, 0.45]
 
-function layoutFor(w: number, h: number, compact: boolean, hasGeo: boolean): Layout {
+/**
+ * The three label lanes' least height (`--lane-min` on the plot, Timeline.module.css): 0 in most scripts. Where a
+ * script's marks rise and hang further (Devanagari's ँ over ु, Vietnamese's stacked Ể under a Q's tail), a short strip's
+ * 20 % lanes (11.8 px at 1280 × 800) brought one label's ink to its neighbour's; those lanes take the room from the
+ * photographs' lane, which never gets smaller than they are.
+ */
+function laneMinOf(el: HTMLElement | null): number {
+  return el ? parseFloat(getComputedStyle(el).getPropertyValue('--lane-min')) || 0 : 0
+}
+
+function layoutFor(w: number, h: number, compact: boolean, hasGeo: boolean, laneMin = 0): Layout {
   // Compact (phone body): photographs, then one density strip of everything else.
   const lanes: Lane[] = compact ? ['imaged', 'rest'] : ['imaged', 'likely', 'could', 'overhead']
   const shares = compact ? SHARES_COMPACT : SHARES_FULL
   const geoH = hasGeo ? (compact ? 6 : 10) : 0
   const plotH = h - geoH
+  // The shares as they are unless a least height applies (then the label lanes take it, the photographs the rest).
+  const small = compact ? 0 : Math.min(Math.max(plotH * SHARES_FULL[1], laneMin), plotH / 4)
+  const shared = compact || small === plotH * SHARES_FULL[1]
   const tops: number[] = []
   const heights: number[] = []
   let y = geoH
-  for (const sh of shares) {
+  for (let i = 0; i < shares.length; i++) {
+    const hh = shared ? plotH * shares[i] : i ? small : plotH - 3 * small
     tops.push(y)
-    heights.push(plotH * sh)
-    y += plotH * sh
+    heights.push(hh)
+    y += hh
   }
   const indexOf = (v: Verdict) => (compact ? (v === 'imaged' ? 0 : 1) : Math.max(0, lanes.indexOf(v)))
   return {
@@ -129,7 +143,9 @@ export function Timeline({ model, selectedId, onSelect, compact = false, index =
   const replaying = useApp((st) => st.timeMode !== 'live')
   const seeking = useApp((st) => st.timeMode === 'scrub')
   const hasGeo = report.geo.length > 0
-  const L = useMemo(() => layoutFor(size.w, size.h, compact, hasGeo), [size.w, size.h, compact, hasGeo])
+  // The script follows the language: read the lanes' least height again when either changes.
+  const laneMin = useMemo(() => (size.h ? laneMinOf(plotRef.current) : 0), [size.h, locale])
+  const L = useMemo(() => layoutFor(size.w, size.h, compact, hasGeo, laneMin), [size.w, size.h, compact, hasGeo, laneMin])
   const xOf = useCallback((t: number) => ((t - t0) / span) * size.w, [t0, span, size.w])
   const captureById = useMemo(() => new Map(report.captures.map((c) => [c.id, c])), [report.captures])
 

@@ -198,6 +198,16 @@
 .compact .plot {
   cursor: pointer;
 }
+/* The label lanes' least height (Timeline.tsx laneMinOf), only where a script's marks need it: at 1280 × 800 the
+   lanes are 11.8 px, and Hindi's «पहुँच में» came within 1.25 px of «ऊपर से» below it, Vietnamese's «QUÉT QUA» touched
+   «CÓ THỂ», Arabic's «مرجّح» 1.75 px from «ممكن». Latin, Cyrillic and CJK keep 3 px or more at the shares. */
+:root[data-script='devanagari'] .plot,
+:root:lang(vi) .plot {
+  --lane-min: 14px;
+}
+:root[data-script='arabic'] .plot {
+  --lane-min: 13px;
+}
 .canvas {
   position: absolute;
   inset: 0;

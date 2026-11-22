@@ -12,7 +12,7 @@
  * Pure: unit-tested in lib.test.ts; the controller calls it (via bestLookImageUrl) to preload the hero.
  */
 import type { Capture, Pass, Report, SpotCloud } from '@/types'
-import { isCloudedOver } from '@/lib/clarity'
+import { isCloudedOver } from '@/lib/clearness'
 import { orderPhotos, windowCover } from './photos'
 
 export type BestLook = { kind: 'detailed' | 'mosaic'; pass: Pass; capture: Capture }
@@ -20,8 +20,8 @@ export type BestLook = { kind: 'detailed' | 'mosaic'; pass: Pass; capture: Captu
 /** Primary clarity class of a capture's spot classification. */
 const SPOT_CLASS: Record<SpotCloud, number> = { clear: 0, cirrus: 0, unknown: 1, shadow: 2, cloud: 3 }
 
-/** Scene cloud cover ≥ this (or cloud at the spot) means the picture is mostly cloud (src/lib/clarity.ts). */
-export { CLOUDED_PCT } from '@/lib/clarity'
+/** Scene cloud cover ≥ this (or cloud at the spot) means the picture is mostly cloud (src/lib/clearness.ts). */
+export { CLOUDED_PCT } from '@/lib/clearness'
 
 /** The capture shows mostly cloud: label it honestly, never as a bright unexplained square (decision #2). */
 export function isClouded(c: Pick<Capture, 'spot' | 'cloudCoverPct'>): boolean {

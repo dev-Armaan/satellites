@@ -14,6 +14,7 @@
     "data:celestrak": "tsx scripts/fetch-catalog.ts",
     "data:places": "tsx scripts/build-places.ts",
     "data:exonyms": "tsx scripts/build-exonyms.ts",
+    "data:blocker-rules": "tsx scripts/build-blocker-rules.ts",
     "textures": "python3 scripts/build-textures.py",
     "test:backend": "vitest run --config scripts/backend-vitest.config.ts"
   },

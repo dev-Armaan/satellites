@@ -9,9 +9,10 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import { fileURLToPath } from 'node:url'
+import { blockerNames } from './scripts/blockerNames.ts'
 
 export default defineConfig({
-  plugins: [react()],
+  plugins: [react(), blockerNames()],
   resolve: { alias: { '@': fileURLToPath(new URL('./src', import.meta.url)) } },
   publicDir: false,
   build: {

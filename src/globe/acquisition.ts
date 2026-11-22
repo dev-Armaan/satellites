@@ -17,7 +17,7 @@
  * Around tc the replay slows (imaged passes only) so the image paints over ≈ PAINT_REAL_S instead of flashing past:
  * the clock multiplies its replay step by slowFactor().
  */
-import { pickLead } from '@/lib/clarity'
+import { pickLead } from '@/lib/clearness'
 import { Vector3 } from 'three'
 import { bboxAround, clamp, DEG, EARTH_RADIUS_KM, latLonToWorld } from '@/lib/geo'
 import type { Capture, CaptureCollection, Pass, Report } from '@/types'
@@ -165,7 +165,7 @@ const byMosaic = (a: CoverCandidate, b: CoverCandidate) => {
 
 /**
  * The pass whose image the results panel leads with (R3-17), so its decal is fetched before anyone opens it. The
- * same pick as results lib/photos.ts windowCover (both rank detailed photos with src/lib/clarity.ts pickLead;
+ * same pick as results lib/photos.ts windowCover (both rank detailed photos with src/lib/clearness.ts pickLead;
  * acquisition.test.ts checks the two agree): among the window's imaged passes, the most zoomed-in CLEAR detailed
  * capture of the clearest tier present (ties: clear spot, clearer square, higher sun, straighter view, newer); with
  * every detailed capture clouded, the least cloudy one; with none, the sharpest weather mosaic. Only images the globe

@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { byCloseness, clarityTier, clearShare, isCloudedOver, pickLead, type Ranked } from './clarity'
+import { byCloseness, clarityTier, clearShare, isCloudedOver, pickLead, type Ranked } from './clearness'
 
 const r = (over: Partial<Ranked['capture']> & { t?: number; sunDeg?: number; offNadirDeg?: number; id?: string } = {}) => {
   const { t = 0, sunDeg, offNadirDeg, id = '', ...capture } = over

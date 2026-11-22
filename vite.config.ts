@@ -5,6 +5,7 @@ import { LOCALE_INFO } from './api/_lib/i18n/locales.ts'
 import { bootLocale, type BootData } from './src/i18n/boot.ts'
 import { BOOT_TEXT } from './src/i18n/bootText.ts'
 import { PLACE_PREFIX } from './src/lib/placePage.ts'
+import { blockerNames } from './scripts/blockerNames.ts'
 
 /**
  * Production origin for the absolute URLs search engines and link previews read (canonical, og:url, og:image, the
@@ -214,9 +215,10 @@ function appVersion(): string {
 }
 
 export default defineConfig({
-  plugins: [react(), overflightHtml()],
+  plugins: [react(), overflightHtml(), blockerNames()],
   resolve: { alias: { '@': fileURLToPath(new URL('./src', import.meta.url)) } },
-  worker: { format: 'es' },
+  // The workers' own bundles (the pixels worker, the engine pool) get the same name check.
+  worker: { format: 'es', plugins: () => [blockerNames()] },
   build: {
     target: 'es2022',
     sourcemap: true,

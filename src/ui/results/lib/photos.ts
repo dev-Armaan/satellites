@@ -3,7 +3,7 @@
  *
  *   #1  the COVER ("Closest look"): the most zoomed-in CLEAR photo of the window (Sentinel-2 10 m beats Landsat
  *       30 m beats VIIRS 375 m). What counts as clear, and how equally zoomed-in photos are ranked, is
- *       src/lib/clarity.ts (shared with the globe's cover prefetch): not clouded over (spot ≠ cloud and scene
+ *       src/lib/clearness.ts (shared with the globe's cover prefetch): not clouded over (spot ≠ cloud and scene
  *       cloud < 70 %) and, where the archive's per-pixel mask was read, at least 60 % of the photo's square
  *       showing the ground; ties go to the clear spot, the clearer square, the higher sun, the straighter view,
  *       then the newest. With no clear photo, a partly clear one leads the same way.
@@ -24,7 +24,7 @@
  * Pure: unit-tested in lib.test.ts.
  */
 import type { Capture, Pass, Report, SpotCloud } from '@/types'
-import { pickLead, SPOT_RANK as CLARITY_SPOT_RANK, type Ranked } from '@/lib/clarity'
+import { pickLead, SPOT_RANK as CLARITY_SPOT_RANK, type Ranked } from '@/lib/clearness'
 import { isClouded } from './bestLook'
 import { northInCropDeg, placeInCrop } from '../../../../api/_lib/toneRender'
 import { panSharpUrl } from '@/imagery/panUrl'
@@ -72,7 +72,7 @@ function toPhoto(capture: Capture, pass?: Pass): Photo {
   return { key: capture.id, capture, pass, kind, clouded: kind === 'detailed' && isClouded(capture) }
 }
 
-/** A photo as the lead ranking (src/lib/clarity.ts) sees it. */
+/** A photo as the lead ranking (src/lib/clearness.ts) sees it. */
 const ranked = (p: Photo): Ranked & { photo: Photo } => ({
   photo: p,
   capture: p.capture,

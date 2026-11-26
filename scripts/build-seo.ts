@@ -25,6 +25,7 @@ import { PLACES_VERSION } from '../src/imagery/localPlaces.gen.ts'
 import { PLACE_PREFIX } from '../src/lib/placePage.ts'
 import { directoryPage, homePage, placePage, robotsTxt, sitemapXml } from '../src/seo/pages.ts'
 import { nearest, parseCityRows, parseLandmarkRows, selectPlaces, type SeoPlace } from '../src/seo/places.ts'
+import { isReaderPage, readerPage } from '../src/seo/readerPage.ts'
 import { CITY_NAMES } from './landmarks.ts'
 
 const DIST = process.argv[2] ?? 'dist'
@@ -57,12 +58,22 @@ const social = (p: SeoPlace) => ({ title: placeTitle(p), description: placeDescr
 const dir = join(DIST, PLACE_PREFIX.slice(1))
 rmSync(dir, { recursive: true, force: true })
 mkdirSync(dir, { recursive: true })
-for (const p of places) writeFileSync(join(dir, `${p.slug}.html`), placePage(template, origin, p, nearest(p, places, NEAR), social(p)))
+/**
+ * The Worker hands a search engine each of these without the app (worker/router.ts appPage). If index.html has
+ * changed so that the app can no longer be taken out of a page, stop here: served, such a page would be the
+ * loading screen for every search engine, and nothing would say so.
+ */
+function readable(html: string, what: string): string {
+  if (!isReaderPage(readerPage(html))) throw new Error(`${what}: the app cannot be taken out of this page for a search engine (src/seo/readerPage.ts)`)
+  return html
+}
+
+for (const p of places) writeFileSync(join(dir, `${p.slug}.html`), readable(placePage(template, origin, p, nearest(p, places, NEAR), social(p)), `place/${p.slug}.html`))
 
 // The built app's stylesheets carry the tokens, the fonts and the text pages' own rules (src/styles/static.css).
 const stylesheets = [...template.matchAll(/<link rel="stylesheet"[^>]*href="([^"]+)"/g)].map((m) => m[1])
 writeFileSync(`${dir}.html`, directoryPage({ origin, places, stylesheets, countryName }))
-writeFileSync(join(DIST, 'index.html'), homePage(template, origin, places.slice(0, FEATURED)))
+writeFileSync(join(DIST, 'index.html'), readable(homePage(template, origin, places.slice(0, FEATURED)), 'index.html'))
 writeFileSync(join(DIST, 'sitemap.xml'), sitemapXml(origin, places))
 writeFileSync(join(DIST, 'robots.txt'), robotsTxt(origin))
 

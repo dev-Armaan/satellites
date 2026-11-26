@@ -177,7 +177,11 @@
   it). index.html's head between the `seo:head` markers is `headTags(homeMeta())`: change the generator, then the
   copy (a test compares them). Search engines and assistants never get the app (`src/lib/reader.ts`, by user
   agent): the text under the app is their page, because a crawler's renderer does not wait for a search (Google's
-  live test pictured the computing panel at 4.4 s, 2026-11-21). So that text is what gets indexed: keep it true of
+  live test pictured the computing panel at 4.4 s, 2026-11-21). The Worker hands them the page with the app already
+  taken out (`worker/router.ts appPage`, `src/seo/readerPage.ts`: no loading screen, no script, no preloads), so the
+  text waits for nothing: left to the browser it showed only after the app's 28 scripts had loaded, over half of
+  Googlebot's fetches were those scripts, and Search Console listed each renamed one as "Crawled, currently not
+  indexed" (2026-11-26). The build fails if a page's app cannot be taken out. So that text is what gets indexed: keep it true of
   the page for anyone (no counts), and when the app gains something worth finding, say it there too. Page testers
   (Lighthouse, headless Chrome, so Playwright) still get the app; the client sends no events for either
   (`CRAWLER_RE`). To see a page as Google does, load it with a Googlebot user agent. `src/app/head.ts` is the only

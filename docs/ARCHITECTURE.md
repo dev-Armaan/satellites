@@ -265,6 +265,14 @@ The rules behind it:
   it. For a visitor, React replaces it under the loading screen; `index.html` keeps it `display: none` until then,
   so it is never the page's first content in the speed numbers. Page testers (Lighthouse, headless Chrome) get the
   app: they are there to measure it.
+- **A reader's page needs no script.** The Worker hands a search engine or an assistant the landing and each place
+  page with the app taken out (`worker/router.ts` `appPage`, `src/seo/readerPage.ts`): no `data-boot`, no loading
+  screen, no script but the JSON-LD, no preloads; the head and the text are the file's own. Left to the browser
+  (`src/main.tsx`), the text showed only once the app's 28 scripts had loaded. In the place pages' first week more
+  than half of what Googlebot fetched was those scripts (268 different ones, renamed by each deploy, and each an
+  address Search Console then lists as "Crawled, currently not indexed"), and a page rendered after a deploy that
+  removed its scripts was the loading screen (2026-11-23). The build makes a reader's copy of every page it writes
+  and fails if it cannot (`scripts/build-seo.ts`).
 - **Previews are never indexed.** `/place` and `/place/*` go through the Worker (`worker/router.ts`), which marks
   every host outside `PRODUCTION_HOSTS` noindex; a place with no page answers 404 with the app.
 - **`robots.txt` closes nothing.** Link previews fetch their cards from `/api/og`, and X's and Facebook's fetchers

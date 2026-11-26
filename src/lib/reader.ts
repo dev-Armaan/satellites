@@ -13,6 +13,11 @@
  * browser), so a reader is shown nothing a visitor is not told. A page with no text of its own (a dev build, a
  * build without scripts/build-seo.ts) starts the app for everyone.
  *
+ * On the site the Worker goes one step further and hands a reader the page with the app already taken out
+ * (worker/router.ts appPage, src/seo/readerPage.ts): the text then waits for no script. What is here still runs
+ * wherever a reader is given the file as it is: `npm run dev`, a host with no Worker in front, a page the Worker
+ * could not make a reader's copy of.
+ *
  * Page testers (Lighthouse, headless Chrome) are not readers: they measure the app, so they get the app. The usage
  * stats leave both out (src/lib/telemetry.ts CRAWLER_RE).
  */

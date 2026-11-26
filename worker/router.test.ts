@@ -91,6 +91,60 @@ describe('worker routes', () => {
     expect((await get('/places/20261112/s/zz.txt')).status).toBe(404)
   })
 
+  it('hands a search engine the landing and a place page without the app, and everyone else the file', async () => {
+    const page = (title: string) =>
+      `<!doctype html>\n<html lang="en" data-boot>\n<head><title>${title}</title>\n<link rel="modulepreload" href="/assets/react.js">\n<script type="module" src="/assets/index.js"></script>\n</head>\n` +
+      `<body>\n<div id="boot-static"><div class="bs-ink"><p>Slow connection, still loading</p></div></div>\n<div id="root"><main class="doc"><h1>${title}</h1></main></div>\n</body>\n</html>\n`
+    const files: Record<string, string> = { '/': page('Watched'), '/place/paris': page('Paris'), '/place': '<!doctype html>\n<html lang="en"><body class="doc-page"><main class="doc"><h1>Places</h1></main></body></html>' }
+    const asked: { path: string; conditional: boolean }[] = []
+    const r: Routes = {
+      ...routes(),
+      assets: {
+        fetch: async (req) => {
+          const { pathname } = new URL(req.url)
+          asked.push({ path: pathname, conditional: req.headers.has('if-none-match') || req.headers.has('if-modified-since') })
+          const html = files[pathname]
+          if (html === undefined) return new Response(null, { status: 404 })
+          if (req.headers.get('if-none-match') === '"file"') return new Response(null, { status: 304, headers: { etag: '"file"' } })
+          return new Response(html, { headers: { 'content-type': 'text/html; charset=utf-8', 'cache-control': 'public, max-age=0, must-revalidate', etag: '"file"', 'content-length': String(html.length) } })
+        },
+      },
+    }
+    const GOOGLEBOT = 'Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)'
+    const get = (path: string, ua: string, headers: Record<string, string> = {}, method = 'GET') => route(new Request(`https://www.watched.earth${path}`, { method, headers: { 'user-agent': ua, ...headers } }), r)
+    vi.stubEnv('PRODUCTION_HOSTS', 'www.watched.earth')
+
+    for (const [path, title] of [['/place/paris', 'Paris'], ['/', 'Watched'], ['/?q=48.85,2.35&n=Paris', 'Watched'], ['/about', 'Watched']] as const) {
+      const res = await get(path, GOOGLEBOT)
+      const body = await res.text()
+      expect(res.status, path).toBe(200)
+      expect(body, path).toBe(`<!doctype html>\n<html lang="en">\n<head><title>${title}</title>\n</head>\n<body class="doc-page">\n\n<div id="root"><main class="doc"><h1>${title}</h1></main></div>\n</body>\n</html>\n`)
+      // Its own bytes: none of the file's validators or its length, and the file's caching and the site's headers.
+      expect([res.headers.get('etag'), res.headers.get('content-length')], path).toEqual([null, null])
+      expect(res.headers.get('content-type'), path).toBe('text/html; charset=utf-8')
+      expect(res.headers.get('cache-control'), path).toBe('public, max-age=0, must-revalidate')
+      expect(res.headers.get('x-content-type-options'), path).toBe('nosniff')
+      expect(res.headers.get('x-robots-tag'), path).toBeNull()
+    }
+    // A reader that holds the file from before is sent its page, not a 304 for the file.
+    asked.length = 0
+    expect((await get('/place/paris', GOOGLEBOT, { 'if-none-match': '"file"' })).status).toBe(200)
+    expect(asked).toEqual([{ path: '/place/paris', conditional: false }])
+    // A visitor gets the file as it is, validators and all.
+    const person = await get('/place/paris', PERSON)
+    expect([await person.text(), person.headers.get('etag')]).toEqual([files['/place/paris'], '"file"'])
+    expect((await get('/place/paris', PERSON, { 'if-none-match': '"file"' })).status).toBe(304)
+    // The list of places has no app to take out, a place with no page is still a 404, a HEAD still has no body.
+    expect(await (await get('/place', GOOGLEBOT)).text()).toBe(files['/place'])
+    const missing = await get('/place/atlantis', GOOGLEBOT)
+    expect([missing.status, (await missing.text()).includes('<body class="doc-page">')]).toEqual([404, true])
+    const head = await get('/place/paris', GOOGLEBOT, {}, 'HEAD')
+    expect([head.status, await head.text()]).toEqual([200, ''])
+    // A preview's copy is marked like everything else it serves.
+    const preview = await route(new Request('https://abc12345-watched.example.workers.dev/place/paris', { headers: { 'user-agent': GOOGLEBOT } }), r)
+    expect(preview.headers.get('x-robots-tag')).toBe('noindex')
+  })
+
   it('adds the security headers, and marks hosts outside PRODUCTION_HOSTS noindex', async () => {
     vi.stubEnv('PRODUCTION_HOSTS', 'www.watched.earth,watched.earth')
     const live = (await at('/')).res.headers

@@ -10,6 +10,8 @@
  *     → the app, as a 404;
  *   - a path with no dot outside `/api/` and `/s/` → the app's index.html, which routes it itself;
  *   - anything else → 404.
+ * A search engine or an assistant gets the landing and the place pages without the app: the same file, its text
+ * shown and its scripts gone (`appPage`, src/seo/readerPage.ts).
  * Cards, share pages, pan crops and the Meteosat cuts and frame list are kept in Cloudflare's cache when they say
  * `s-maxage`: Cloudflare caches nothing a Worker builds unless the Worker stores it (`cached`). Static files get
  * their headers from public/_headers, which does not reach responses built here, so this adds the same security
@@ -21,6 +23,8 @@
  */
 import { isProductionHost } from '../api/_lib/env.js'
 import { isPlacePath } from '../src/lib/placePage.ts'
+import { isReader } from '../src/lib/reader.ts'
+import { readerPage } from '../src/seo/readerPage.ts'
 
 /** Link unfurlers: the fetchers that read a pasted link's Open Graph tags, by user agent. */
 export const UNFURLER_UA =
@@ -128,13 +132,40 @@ const notFound = (path: string) =>
     },
   })
 
+/** What a reader's copy of a page must not carry over from the file: they describe the file's own bytes. */
+const FILE_ONLY_HEADERS = ['content-length', 'content-encoding', 'etag', 'last-modified']
+
+/**
+ * A page that starts the app (index.html, a place page), as `file` names it among the static files. Everyone gets
+ * the file, except a reader (src/lib/reader.ts: search engines and assistants, by the name they give themselves),
+ * which gets it with the app taken out: the page's own text, shown, and no script (src/seo/readerPage.ts says why).
+ * In the browser the app steps aside for a reader anyway (src/main.tsx), so this changes what a reader has to fetch
+ * and wait for, not what it reads.
+ *
+ * A reader is always sent the whole page: its copy is made here, so the file's validators say nothing about it
+ * (and a search engine that held one from before would be answered 304 and keep the page with the app).
+ */
+async function appPage(request: Request, routes: Routes, file: Request = request): Promise<Response> {
+  if (request.method !== 'GET' || !isReader(request.headers.get('user-agent'))) return routes.assets.fetch(file)
+  const whole = new Request(file)
+  whole.headers.delete('if-none-match')
+  whole.headers.delete('if-modified-since')
+  const res = await routes.assets.fetch(whole)
+  if (res.status !== 200 || !(res.headers.get('content-type') ?? '').includes('text/html')) return res
+  const page = readerPage(await res.clone().text())
+  if (page === null) return res
+  const headers = new Headers(res.headers)
+  for (const name of FILE_ONLY_HEADERS) headers.delete(name)
+  return new Response(page, { status: 200, headers })
+}
+
 async function dispatch(request: Request, url: URL, routes: Routes): Promise<Response> {
   const path = url.pathname
   if (path === '/') {
     if (url.searchParams.has('q') && UNFURLER.test(request.headers.get('user-agent') ?? '')) {
       return cached(rewrite(request, new URL(`/api/s${url.search}`, url)), routes.share, routes)
     }
-    return routes.assets.fetch(request)
+    return appPage(request, routes)
   }
   const share = SHARE_PATH.exec(path)
   if (share) {
@@ -159,7 +190,7 @@ async function dispatch(request: Request, url: URL, routes: Routes): Promise<Res
       return cached(request, routes.geoFrames, routes)
   }
   if (isPlacePath(path)) return placePage(request, url, routes)
-  if (APP_PATH.test(path)) return routes.assets.fetch(rewrite(request, new URL('/', url)))
+  if (APP_PATH.test(path)) return appPage(request, routes, rewrite(request, new URL('/', url)))
   return notFound(path)
 }
 
@@ -171,9 +202,9 @@ async function dispatch(request: Request, url: URL, routes: Routes): Promise<Res
  * address can still search, and a search engine drops the address instead of filing the landing under it.
  */
 async function placePage(request: Request, url: URL, routes: Routes): Promise<Response> {
-  const res = await routes.assets.fetch(request)
+  const res = await appPage(request, routes)
   if (res.status !== 404) return res
-  const app = await routes.assets.fetch(rewrite(request, new URL('/', url)))
+  const app = await appPage(request, routes, rewrite(request, new URL('/', url)))
   return new Response(app.body, { status: 404, headers: app.headers })
 }
 

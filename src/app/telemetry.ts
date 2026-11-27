@@ -5,7 +5,8 @@
  *  - window errors, and a few web vitals sent once when the tab is hidden (from a quarter of tabs: VITALS_SAMPLE).
  *
  * One `results` event per search (when it first shows): the admin page reads it. There is no `results_final` any more
- * (nothing read it, and it doubled the rows of every search; the database's free tier is 500 MB).
+ * (nothing read it, and it doubled the rows of every search; the database's free tier is 500 MB). From a quarter of
+ * tabs it also says where the wait went (searchLegs).
  * The share sheet reports its own open and actions (one-line `track` calls in src/ui/share/ShareSheet.tsx),
  * because its desktop dialog doesn't set the overlay attribute.
  *
@@ -63,6 +64,52 @@ function lastMark(name: string): number | undefined {
   }
 }
 
+/**
+ * Share of tabs whose `results` events say where the wait went. The admin page shows each leg's median and 90th
+ * percentile, which a quarter of ~100 000 daily searches gives as well as all of them, for a quarter of the bytes.
+ */
+const LEGS_SAMPLE = 0.25
+
+/**
+ * Where a search's wait went, in ms, for its `results` event. The total alone (`ms`: median 2.8 s, 2026-11-27) could
+ * not say what to make faster: the archives, this device's own work, or the pauses the arrival is timed to.
+ *
+ * The four `t_` legs are the controller's waits in the order it makes them (showFirst), so they add up to `ms`:
+ *   t_report   until a report was in hand (the archive search and the pass search; 0 when a link's search, begun
+ *              under the loading screen, already had one)
+ *   t_camera   then for the readout's dwell and the camera's flight (1.8 s after the search at least)
+ *   t_settle   then for the final report and the clear cover (the weather checks' budget)
+ *   t_hero     then for the lead photo to be downloaded, toned and decoded
+ * The three `e_` are the engine's own clocks, each from its start: the orbit catalog's arrival (0 once it is loaded),
+ * the pass search, the archive's answer. `ahead`: how long before the search was on screen its engine had started
+ * (a link's). A leg whose mark is missing is left out; nothing here names a place.
+ *
+ * `markAt(name)`: when the controller last set its mark `overflight:<name>`. `t0`: when this search began on screen.
+ */
+export function searchLegs(t0: number, markAt: (name: string) => number | undefined, timings?: { catalogMs?: number; passesMs?: number; archiveMs?: number }): Props {
+  const ms = (v: number | undefined) => (v === undefined || !Number.isFinite(v) ? undefined : Math.min(600_000, Math.max(0, Math.round(v))))
+  /** This search's mark: one set before it began belongs to an earlier search. */
+  const own = (name: string) => {
+    const t = markAt(name)
+    return t !== undefined && t >= t0 ? t : undefined
+  }
+  const between = (a: number | undefined, b: number | undefined) => (a === undefined || b === undefined ? undefined : ms(b - a))
+  const report = own('partial-report') ?? own('final-report')
+  const camera = own('camera-window')
+  const settled = own('report-settled') ?? own('report-unsettled')
+  const begun = markAt('engine-run')
+  return {
+    t_report: between(t0, report),
+    t_camera: between(report, camera),
+    t_settle: between(camera, settled),
+    t_hero: between(settled, own('hero-ready')),
+    e_catalog: ms(timings?.catalogMs),
+    e_passes: ms(timings?.passesMs),
+    e_archive: ms(timings?.archiveMs),
+    ahead: begun !== undefined && begun < t0 ? ms(t0 - begun) : undefined,
+  }
+}
+
 function passProps(st: AppState): Props {
   const pass = st.report?.passes.find((p) => p.id === st.selectedPassId)
   if (!pass) return {}
@@ -106,6 +153,9 @@ export function initTelemetry({ useApp, getSatInfo, canonicalPlace, cityLevelLab
   // ── store ───────────────────────────────────────────────────────────────────────────────
   let search: { place: object; t0?: number; catchUp: boolean; first: boolean } | undefined
 
+  /** Decided once a tab, so a tab's searches are all in the sample or all out of it. */
+  const withLegs = Math.random() < LEGS_SAMPLE
+
   let lastSearchAt = -Infinity
   /** A retry is marked by the controller's retryReport ('overflight:retry') since the previous search started. */
   const onSearch = (st: AppState, t0: number | undefined, catchUp = false) => {
@@ -131,7 +181,8 @@ export function initTelemetry({ useApp, getSatInfo, canonicalPlace, cityLevelLab
     const now = performance.now()
     if (!search.first) {
       search.first = true
-      track('results', { ...reportCounts(r), ms: search.catchUp ? since(lastMark('results') ?? now) : since(now) })
+      const legs = withLegs && search.t0 !== undefined ? searchLegs(search.t0, lastMark, (r as { timings?: Parameters<typeof searchLegs>[2] }).timings) : {}
+      track('results', { ...reportCounts(r), ms: search.catchUp ? since(lastMark('results') ?? now) : since(now), ...legs })
     }
   }
 

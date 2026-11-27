@@ -38,7 +38,9 @@ export interface AdminStats {
    *  from 0028), 'session.browser_lang' and 'session.browser_lang_searched' (0028: tabs by the browser's first
    *  language, any language, and those of them that searched; every value) */
   top: Record<string, Ranked>
-  results: { n: number; p50Ms: number | null; p90Ms: number | null; partial: number; archiveFailed: number }
+  /** `legs` (0031): where a search's wait went, per leg (src/app/telemetry.ts searchLegs): how many searches said it,
+   *  its median and its 90th percentile in ms. Empty from a database before 0031, and until a search has said one. */
+  results: { n: number; p50Ms: number | null; p90Ms: number | null; partial: number; archiveFailed: number; legs: Record<string, Leg> }
   vitals: { n: number; lcp: number | null; inp: number | null; cls: number | null }
   recentSearches: { t: number; label?: string; country?: string; source?: string; cell?: string; device?: string }[]
   recentErrors: { t: number; where?: string; msg?: string }[]
@@ -165,6 +167,17 @@ const isObj =(v: unknown): v is Record<string, unknown> => !!v && typeof v === '
 const num = (v: unknown): number => (typeof v === 'number' && Number.isFinite(v) ? v : 0)
 const numOrNull = (v: unknown): number | null => (typeof v === 'number' && Number.isFinite(v) ? v : null)
 
+export interface Leg {
+  n: number
+  p50: number | null
+  p90: number | null
+}
+
+function legsOf(v: unknown): Record<string, Leg> {
+  if (!isObj(v)) return {}
+  return Object.fromEntries(Object.entries(v).filter(([, x]) => isObj(x)).map(([k, x]) => [k, { n: num((x as Record<string, unknown>).n), p50: numOrNull((x as Record<string, unknown>).p50), p90: numOrNull((x as Record<string, unknown>).p90) }]))
+}
+
 /** Defensive parse of the RPC's JSON (exported for tests). */
 export function parseStats(v: unknown): AdminStats | null {
   if (!isObj(v) || !RANGES.includes(v.range as Range)) return null
@@ -189,7 +202,7 @@ export function parseStats(v: unknown): AdminStats | null {
     funnel: rec(v.funnel),
     series: Array.isArray(v.series) ? v.series.filter(Array.isArray).map((s) => [num(s[0]), num(s[1]), num(s[2]), num(s[3]), num(s[4])] as [number, number, number, number, number]) : [],
     top,
-    results: { n: num(r.n), p50Ms: numOrNull(r.p50Ms), p90Ms: numOrNull(r.p90Ms), partial: num(r.partial), archiveFailed: num(r.archiveFailed) },
+    results: { n: num(r.n), p50Ms: numOrNull(r.p50Ms), p90Ms: numOrNull(r.p90Ms), partial: num(r.partial), archiveFailed: num(r.archiveFailed), legs: legsOf(r.legs) },
     vitals: { n: num(vi.n), lcp: numOrNull(vi.lcp), inp: numOrNull(vi.inp), cls: numOrNull(vi.cls) },
     recentSearches: Array.isArray(v.recentSearches) ? (v.recentSearches.filter(isObj) as AdminStats['recentSearches']) : [],
     maintLastAt: numOrNull(v.maintLastAt),

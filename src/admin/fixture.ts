@@ -166,7 +166,18 @@ export function mockStats(range: Range, now = Date.now()): AdminStats {
       'share_action.sat': [['Sentinel-2C', k(14)], ['Landsat 9', k(9)], ['ISS (ZARYA)', k(5)], ['NOAA-20', k(3)]],
       'share_action.action': [['copy_link', k(19)], ['x', k(12)], ['native', k(10)], ['save_png', k(6)], ['copy_image', k(3)]],
     },
-    results: { n: Math.round(searches * 0.96), p50Ms: 2140, p90Ms: 4870, partial: Math.round(searches * 0.21), archiveFailed: k(3) },
+    results: {
+      n: Math.round(searches * 0.96),
+      p50Ms: 2140,
+      p90Ms: 4870,
+      partial: Math.round(searches * 0.21),
+      archiveFailed: k(3),
+      legs: Object.fromEntries(
+        ([['t_report', 900, 1900], ['t_camera', 800, 1300], ['t_settle', 300, 1200], ['t_hero', 100, 900], ['e_catalog', 0, 400], ['e_passes', 500, 1600], ['e_archive', 800, 1500], ['ahead', 1400, 3100]] as const).map(
+          ([key, p50, p90]) => [key, { n: Math.round(searches * (key === 'ahead' ? 0.03 : 0.24)), p50, p90 }],
+        ),
+      ),
+    },
     vitals: { n: Math.round(sessions * 0.6), lcp: 1840, inp: 136, cls: 0.012 },
     recentSearches: PLACES.slice(0, 12).map(([label, country, cell], i) => ({
       t: minsAgo(i * 7 + Math.floor(r() * 5)),

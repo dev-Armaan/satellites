@@ -6,13 +6,13 @@
  * the page waits for the hour, and the note under the totals says so.
  * DEV only: /admin?mock=1 renders a fixture without signing in (src/admin/fixture.ts).
  */
-import { useCallback, useEffect, useRef, useState, type FormEvent, type ReactNode } from 'react'
+import { Fragment, useCallback, useEffect, useRef, useState, type FormEvent, type ReactNode } from 'react'
 import { Wordmark } from '@/ui/system/Wordmark'
 import { RANGES, currentSession, fetchLive, fetchStats, liveFor, sendMagicLink, signOut, supabase, takeAuthError, verifyCode, type AdminStats, type LiveCounts, type Range } from './api'
 import { ActivityChart, Funnel, RankList, ReachList, Split } from './charts'
 import { liveSeries } from './live'
 import { WorldMap } from './WorldMap'
-import { ACTION_NAMES, DEVICE_NAMES, SOURCE_NAMES, SUPPORT_FROM_NAMES, TIMELAPSE_ACTION_NAMES, TIMELAPSE_FROM_NAMES, VERDICT_NAMES, browserLangReach, browserLanguageName, countryName, fmtAgo, fmtClock, fmtInt, fmtUpdated, fmtPct, fmtSec, fmtStamp, languageName, maintBehind, type FunnelStage, type Reach } from './format'
+import { ACTION_NAMES, DEVICE_NAMES, LEG_NAMES, SOURCE_NAMES, SUPPORT_FROM_NAMES, TIMELAPSE_ACTION_NAMES, TIMELAPSE_FROM_NAMES, VERDICT_NAMES, browserLangReach, browserLanguageName, countryName, fmtAgo, fmtClock, fmtInt, fmtUpdated, fmtPct, fmtSec, fmtStamp, languageName, maintBehind, type FunnelStage, type Reach } from './format'
 import { LOCALE_INFO, LOCALES } from '../../api/_lib/i18n/locales'
 
 type View =
@@ -382,6 +382,8 @@ function Dashboard({ s, live, busy, onRefresh }: { s: AdminStats; live: LiveCoun
   ]
   const r = s.results
   const v = s.vitals
+  // Searches that said where their wait went (0031): every one of them says the first leg.
+  const legSearches = r.legs.t_report?.n ?? 0
   // The time-lapse (0022's events; its lists from 0024).
   // Its opens are counted live too (0026); the ratios below stay on the hourly numbers, like the tiles' sub-lines.
   const lapseOpens = t.timelapse_open ?? 0
@@ -517,6 +519,29 @@ function Dashboard({ s, live, busy, onRefresh }: { s: AdminStats; live: LiveCoun
                 {fmtSec(v.lcp)} <small>S</small> · {fmtInt(v.inp)} <small>MS</small> · {v.cls == null ? '—' : v.cls.toFixed(3)}
               </dd>
             </dl>
+          </Panel>
+          <Panel
+            title="WHERE A SEARCH'S WAIT GOES · P50 · P90"
+            note={
+              legSearches
+                ? `From ${fmtInt(legSearches)} searches (a quarter of tabs report it). The first four follow one another and add up to first results; the engine's three run side by side, each from its start.`
+                : undefined
+            }
+          >
+            {legSearches ? (
+              <dl className="a-facts">
+                {LEG_NAMES.filter(([key]) => r.legs[key]?.n).map(([key, name]) => (
+                  <Fragment key={key}>
+                    <dt>{name}</dt>
+                    <dd>
+                      {fmtSec(r.legs[key].p50)} · {fmtSec(r.legs[key].p90)} <small>S</small>
+                    </dd>
+                  </Fragment>
+                ))}
+              </dl>
+            ) : (
+              <p className="a-empty">Not recorded yet</p>
+            )}
           </Panel>
         </div>
       </Section>

@@ -132,6 +132,21 @@ export const SUPPORT_FROM_NAMES: Record<string, string> = {
   about_top: 'About · under the intro',
 }
 
+/**
+ * Where a search's wait went (0031's results.legs; src/app/telemetry.ts searchLegs), in the order the page lists them:
+ * the four waits a visitor sits through, which add up to first results, then the engine's own clocks, then links.
+ */
+export const LEG_NAMES: readonly [key: string, name: string][] = [
+  ['t_report', 'UNTIL A REPORT IS IN HAND'],
+  ['t_camera', 'THEN THE DWELL AND THE CAMERA'],
+  ['t_settle', 'THEN THE FINAL REPORT'],
+  ['t_hero', 'THEN THE LEAD PHOTO'],
+  ['e_catalog', 'ENGINE · ORBIT CATALOG ARRIVES'],
+  ['e_passes', 'ENGINE · PASS SEARCH'],
+  ['e_archive', 'ENGINE · ARCHIVE ANSWERS'],
+  ['ahead', 'LINKS · SEARCH BEGUN BEFORE THE SCREEN'],
+]
+
 export const DEVICE_NAMES: Record<string, string> = { desktop: 'Desktop', phone: 'Phone', tablet: 'Tablet' }
 
 /** A tab's language (0027) by its English name: 'pt-BR' → 'Portuguese'; an unknown code as it is. */

@@ -23,7 +23,7 @@ describe('admin_stats parsing', () => {
     const s = parseStats({ range: '7d', totals: { search: 'x', session: 3 }, top: { 'a.b': [['x', 1], 'junk', [2, 3]] }, results: null })!
     expect(s.totals).toEqual({ search: 0, session: 3 })
     expect(s.top['a.b']).toEqual([['x', 1]])
-    expect(s.results).toEqual({ n: 0, p50Ms: null, p90Ms: null, partial: 0, archiveFailed: 0 })
+    expect(s.results).toEqual({ n: 0, p50Ms: null, p90Ms: null, partial: 0, archiveFailed: 0, legs: {} })
     expect(s.series).toEqual([])
   })
 })
@@ -120,6 +120,19 @@ describe('the time-lapse in the stats (0024)', () => {
   it('reads a fifth number from each point of the series, and 0 from a database before it', () => {
     const s = parseStats({ range: '24h', series: [[1, 10, 2, 8, 3], [2, 5, 0, 4]] })!
     expect(s.series).toEqual([[1, 10, 2, 8, 3], [2, 5, 0, 4, 0]])
+  })
+  it("reads where a search's wait went, and nothing from a database before it was recorded (0031)", () => {
+    const s = parseStats({ range: '7d', results: { n: 9, legs: { t_hero: { n: 4, p50: 100, p90: 1320 }, t_report: { n: 4, p50: 'x' }, junk: 7 } } })!
+    expect(s.results.legs).toEqual({ t_hero: { n: 4, p50: 100, p90: 1320 }, t_report: { n: 4, p50: null, p90: null } })
+    expect(parseStats({ range: '7d', results: { n: 9, legs: [1, 2] } })!.results.legs).toEqual({})
+  })
+  it('has a name for every leg the app reports, and the fixture has them all', async () => {
+    const { LEG_NAMES } = await import('./format')
+    const { searchLegs } = await import('@/app/telemetry')
+    // Every key searchLegs can send, whether or not this call has a value for it.
+    const sent = Object.keys(searchLegs(0, () => undefined))
+    expect(LEG_NAMES.map(([key]) => key).sort()).toEqual([...sent].sort())
+    expect(Object.keys(mockStats('7d', Date.UTC(2026, 10, 13, 12)).results.legs).sort()).toEqual([...sent].sort())
   })
   it('has a name for every way in and every way of sharing the client reports', async () => {
     const { TIMELAPSE_ACTION_NAMES, TIMELAPSE_FROM_NAMES } = await import('./format')

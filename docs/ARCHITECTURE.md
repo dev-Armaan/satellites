@@ -289,6 +289,12 @@ the build's version: about 40 MB of small files for Cloudflare to take.
 `boot` (the wordmark; textures, fonts; the catalog loads in parallel) → `idle` (hero + search over the spinning globe) → `locating` → `computing`
 (camera flies to place; progress readouts) → `results` (panel + timeline; selecting a pass frames it and replays the
 swath sweep; captured images reveal pushbroom-style) → share.
+A link (`?q=`, `/place/<slug>`, `?s=`) goes from `boot` straight to `computing`, and its search does not wait for
+that: the engine starts under the loading screen as soon as the globe's code has arrived (a share's when its lookup
+has answered too), and `runReport` takes the run over when the curtain lifts (`src/app/engineRun.ts` keeps what it
+said meanwhile: the newest partial report, the newest report, each step's progress with its time, so the readout
+shows true durations and its clock counts from the search's real start). The dwell and the camera still set the
+earliest arrival of the results.
 URL state: `/?q=<lat>,<lon>&n=<label>` deep-links straight to results; adding `&p=<passId>` and the optional pass facts
 (`sat, norad, verdict, t, alt, off, hdg, collection, item, cloud, gsd, spot`; see the share fallback deep link under backend)
 opens that pass; `/?s=<shareId>` opens a shared pass.

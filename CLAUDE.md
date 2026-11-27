@@ -46,9 +46,15 @@
   asked. Never run `supabase/tests/0004_*` against production (its DDL deadlocks against live traffic). Never
   delete real data, and never use a service-role or secret key; only the publishable key, which is public.
 - Analytics props are allow-listed in SQL (`overflight_private.event_props`, latest definition in
-  `supabase/migrations/0030_*`: 0029 adds `support_click`, the Buy Me a Coffee link's presses by place, and 0030
-  two more places). A new enum value (a search source, an action) is silently stored as null until a
-  migration adds it.
+  `supabase/migrations/0031_*`: 0029 adds `support_click`, the Buy Me a Coffee link's presses by place, 0030
+  two more places, and 0031 where a search's wait went: eight numbers on `results`, from a quarter of tabs,
+  `searchLegs` in `src/app/telemetry.ts`, on the admin page beside SPEED). A new enum value (a search source, an
+  action) is silently stored as null until a migration adds it.
+- A migration can be tried without production: PostgreSQL 16 is in cloud containers (`/usr/lib/postgresql/16/bin`,
+  run as `postgres`, data outside `/tmp`). Every migration applies in order given roles `anon`, `authenticated`,
+  `service_role`, schema `extensions` with pgcrypto, an `auth` schema (`users`, `role()`, `uid()`, `jwt()`) and a
+  stand-in `cron` schema (`job`, `schedule`, `unschedule`, `alter_job`); `admin_stats_compute` then hashes the same as
+  production's, and the tests run as on production (`begin; <migration>; <test>; rollback`).
 - Shares keep a capture only from an allow-list of collections in `create_share` (latest definition in
   `supabase/migrations/0012_*`, which adds Sentinel-1 radar); an unknown collection is dropped and the share made
   without its image. The collection lists in `api/_lib/share.ts` and `src/lib/backend.ts` must match it.
@@ -94,7 +100,8 @@
   `/api/e` and `/cdn-cgi/rum` (Cloudflare Web Analytics), plus any non-GET to watched.earth or Supabase. Also add `?noanalytics=1`.
   Planetary Computer's STAC search must NOT be blocked, or no photos load: it is a GET (no CORS preflight, see
   `src/imagery/stac.ts searchPage`) that falls back to a POST if the archive refuses the GET form.
-- Time a search with User Timing marks: `performance.getEntriesByName('overflight:<name>')`, for `run-report`,
+- Time a search with User Timing marks: `performance.getEntriesByName('overflight:<name>')`, for `engine-run`
+  (the engine was started: for a link, before `run-report`), `run-report`,
   `engine-partial`, `engine-final`, `hero-ready`, `set-report` and `results`.
 - Results are a rolling 7-day window, so any place or scene picked for a test goes stale within days. Find current
   data first (Planetary Computer STAC). Its Landsat Level-2 archive lags a few days.
@@ -190,6 +197,12 @@
   stay index.html's title (`HOME_TITLE`; tests hold both). The pages themselves are English only (no `hreflang`:
   a language is a preference, not an address). One page a point: a landmark listed twice at the same coordinates
   gets the first name's page (`NAMED_TODAY` in `src/seo/places.ts` for the exceptions).
+- A link's search (`?q=`, a place page, a share) starts under the loading screen, once the globe's code is in
+  (`controller.ts startAhead`, `src/app/engineRun.ts`), and `runReport` takes it over when the curtain lifts: the
+  archives' waits overlap the globe's start-up. Keep both halves true: nothing of it reaches the store or the screen
+  before `runReport`, and it never starts before the globe's code (at 1.6 Mbit/s a search begun at the first moment
+  of boot pushed first light from 7.3 s to 10.2 s for no earlier results, 2026-11-27). On a slow connection a link's
+  results wait for the orbit catalog (0.5 MB, low priority behind the sharp day map), not for the archives.
 - Back button: layers register with `src/lib/backStack.ts`. Never call `history.pushState` directly. The address is
   written through `addressOf` / `homePath` (`src/lib/placePage.ts`): a place page keeps its own path only while its
   place is on screen.

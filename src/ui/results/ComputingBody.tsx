@@ -90,7 +90,8 @@ export function ComputingBody({ t0, tz }: { t0: number; tz?: string }) {
       const h = hist.current
       if (!e || e === h.last) return
       h.last = e
-      const at = performance.now()
+      // A line the engine said before this search was on screen carries its own time (store.progressBefore).
+      const at = e.at ?? performance.now()
       const idx = ORDER[e.stage]
       h.current = e.stage
       for (const stage of STAGES) {
@@ -106,6 +107,8 @@ export function ComputingBody({ t0, tz }: { t0: number; tz?: string }) {
       }
       if (e.fraction !== undefined) h.fraction = Math.max(h.fraction, e.fraction)
     }
+    // A link's search starts under the loading screen: what it said by then, in order, before its newest line.
+    for (const e of useApp.getState().progressBefore ?? []) fold(e)
     fold(useApp.getState().progress)
     // Once results land the readout freezes: a 10 Hz urgent re-render here would keep interrupting the
     // (transition) render of the results that replaces it.

@@ -328,4 +328,9 @@ export interface ProgressEvent {
   message: string | MessageRef
   /** 0..1 or undefined for indeterminate */
   fraction?: number
+  /**
+   * When it was said (performance.now()), on a line handed over after the fact: a link's search starts under the
+   * loading screen (src/app/engineRun.ts), and the readout times its steps from these. Absent: said just now.
+   */
+  at?: number
 }

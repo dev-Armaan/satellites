@@ -170,9 +170,12 @@ export function ResultsView({ onBack, onRetry, onSearch }: ResultsViewProps) {
   // When computing started (T+ readout): reset in the render that shows a new place, or a re-run of the same one
   // (LAP-02: a passive effect reset it after the first paint, so a New search first showed the last search's
   // elapsed time, 'T+50.93 S', for a few frames).
+  // A link's search began under the loading screen (store.progressBefore): the clock counts from its first line, so
+  // it never reads less than a step beneath it.
   const placeKey = place ? `${place.lat},${place.lon}` : ''
-  const runStart = useRef({ key: placeKey, computing, t: performance.now() })
-  if (runStart.current.key !== placeKey || (computing && !runStart.current.computing)) runStart.current = { key: placeKey, computing, t: performance.now() }
+  const startedAt = () => useApp.getState().progressBefore?.[0]?.at ?? performance.now()
+  const runStart = useRef<{ key: string; computing: boolean; t: number }>(undefined)
+  if (!runStart.current || runStart.current.key !== placeKey || (computing && !runStart.current.computing)) runStart.current = { key: placeKey, computing, t: startedAt() }
   else runStart.current.computing = computing
   const t0 = runStart.current.t
   const placeTz = useMemo(() => (place ? timeZoneAt(place.lat, place.lon) : undefined), [placeKey])

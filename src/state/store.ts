@@ -67,6 +67,12 @@ export interface AppState {
   /** The [start, end] window of the report being computed (ms). Set by the controller before computing. */
   pendingWindow?: [number, number]
   progress?: ProgressEvent
+  /**
+   * What this search's engine said before the search was on screen (a link's search starts under the loading screen:
+   * src/app/engineRun.ts): each step's first and newest line, with its time. The readout folds these first, so a step
+   * that ran early shows how long it took. Undefined for a search that started when it was asked for.
+   */
+  progressBefore?: ProgressEvent[]
   selectedPassId?: string
   hoveredNorad?: number
   /** Simulation clock. When `live`, the globe advances simTime with wall time. */
@@ -105,6 +111,7 @@ export interface AppState {
   setPendingWindow: (w?: [number, number]) => void
   setReport: (r?: Report) => void
   setProgress: (e?: ProgressEvent) => void
+  setProgressBefore: (lines?: ProgressEvent[]) => void
   selectPass: (id?: string) => void
   setHoveredNorad: (n?: number) => void
   setTimeMode: (m: AppState['timeMode']) => void
@@ -149,6 +156,7 @@ export const useApp = create<AppState>((set) => ({
   setPendingWindow: (pendingWindow) => set({ pendingWindow }),
   setReport: (report) => set({ report }),
   setProgress: (progress) => set({ progress }),
+  setProgressBefore: (progressBefore) => set({ progressBefore }),
   selectPass: (selectedPassId) => set({ selectedPassId }),
   setHoveredNorad: (hoveredNorad) => set({ hoveredNorad }),
   setTimeMode: (timeMode) => set({ timeMode }),
@@ -179,6 +187,7 @@ export const useApp = create<AppState>((set) => ({
       shared: undefined,
       pendingWindow: undefined,
       progress: undefined,
+      progressBefore: undefined,
       selectedPassId: undefined,
       timeMode: 'live',
       simTime: Date.now(),

@@ -23,7 +23,7 @@ import { Landing } from '@/ui/landing'
 import { prefersReducedMotion } from '@/ui/system'
 import { exitBootCurtain } from './bootCurtain'
 import { chunk, requestChunk, type Chunk } from './chunks'
-import { afterLandingEntrance, boot, failPanel, isShareUnresolved, loadEngine, resetToLanding, retryReport, runReport, writeUrl } from './controller'
+import { afterLandingEntrance, boot, failPanel, isShareUnresolved, loadEngine, noteGlobeCode, resetToLanding, retryReport, runReport, writeUrl } from './controller'
 import { ErrorNotice } from './ErrorNotice'
 import s from './App.module.css'
 
@@ -53,6 +53,8 @@ function useChunk<T>(c: Chunk<T>, wanted: boolean, onFail?: (err: unknown) => vo
 // Dev sandboxes import this module too (App.tsx imports it statically for production): no side effects there.
 const isApp = typeof location !== 'undefined' && !(import.meta.env.DEV && /[?&]sandbox=/.test(location.search))
 // The globe is on the critical path to first light: start it now, in parallel with the shell's first render.
+// The controller hears when it is in: a link's search starts then, under the loading screen (controller.ts startAhead).
+if (isApp) loadGlobe.onLoad(noteGlobeCode)
 if (isApp) void loadGlobe()
 // A deep link or share link goes from boot straight to computing: its panel must be ready by then.
 if (isApp && /[?&](q|s)=/.test(location.search)) void loadResults()

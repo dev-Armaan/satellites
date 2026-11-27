@@ -12,6 +12,14 @@
  *  - Boot waits only for the globe's first light and the fonts. The catalog loads in parallel (its points
  *    fade in on their own) and the share lookup starts at t=0, so a share link resolves while the boot log
  *    is still up and the curtain lifts straight onto the computing panel.
+ *  - A link's search starts under the loading screen (startAhead, src/app/engineRun.ts), as soon as the globe's code
+ *    has arrived (and, for a share, its lookup has answered). The archives' three waits in a row (scene search, cloud
+ *    masks, lead photo) then overlap the globe's start-up, the fonts and the sharp map's wait instead of following
+ *    them; runReport takes the run over when the curtain lifts, with whatever it has found by then. Nothing shows
+ *    sooner than before (the dwell and the camera still set the earliest arrival): the wait after the curtain is
+ *    what shrinks. Not from the first moment of boot: the search is about 1 MB of answers and pictures, and on a
+ *    slow connection that competed with the globe's code for the line. Measured at 1.6 Mbit/s (2026-11-27): first
+ *    light 7.3 s → 10.2 s, and the results no sooner, because there the orbit catalog's download is what they wait for.
  *  - Share links get at least 2.5 s after first light (a slow globe chunk must not eat their budget), and a
  *    share that answers later still opens if the landing is untouched (R2K1). Deep and share links wait up to
  *    1.2 s after first light for the sharp day map, so their flight is planned once, at the sharp range (R2K2).
@@ -38,6 +46,7 @@ import { placeNamesReady } from './namesReady'
 import { getShare, recordLookup, type Share } from '@/lib/backend'
 import { addressOf, bootPlace, homePath, pagePlace } from '@/lib/placePage'
 import { installHeadSync } from './head'
+import { engineRun, type EngineRun } from './engineRun'
 import { createLateShareGate } from './lateShare'
 import { linkPlaceIn, passLinkOpts, sharedGeoItem, pickPreselect, readUrlTarget, type RunOpts } from './links'
 import { CATALOG_FAULT, COMPUTE_FAULT, PROGRESS_CATALOG, PROGRESS_DONE } from './messageRefs'
@@ -187,6 +196,16 @@ export async function boot() {
   const shareP: Promise<Share | null> | null = target?.kind === 'share' ? getShare(target.id).catch(() => null) : null
   let shareSettled = false
   void shareP?.then(() => (shareSettled = true))
+  // The report this link opens. A plain link's is known now (a curated place shows its name in the reader's language;
+  // its English name stays the link's); a share's when its lookup answers.
+  let run: { place: Place; opts: RunOpts; share?: Share } | null = target?.kind === 'q' ? { place: linkPlaceIn(target.place, msgs(enPlaces)), opts: target.opts } : null
+  // Its search begins under the loading screen, once the globe's code is in (see the header) and while boot is still
+  // deciding what to open: a plain link's then, a share's when its lookup has answered too. A share that answers
+  // after the landing is up opens through adoptLateShare, with a search of its own.
+  let deciding = true
+  const beginAhead = (opened: { place: Place; opts: RunOpts }) => void globeCode.then(() => deciding && startAhead(opened.place, opened.opts))
+  if (run) beginAhead(run)
+  void shareP?.then((share) => share && deciding && beginAhead(shareRun(share)))
   // A deep link computes as soon as boot ends, so its engine and time-zone table load now (the landing
   // loads them at idle).
   if (target) {
@@ -211,11 +230,10 @@ export async function boot() {
   const sharp = target ? Promise.race([waitFor(() => useApp.getState().dayMapSharp), sleep(SHARP_MAP_WAIT_MS)]) : undefined
 
   // Resolve the URL target while the boot log is still up.
-  let run: { place: Place; opts: RunOpts; share?: Share } | null = null
-  // A link to a curated place shows its name in the reader's language (its English name stays the link's).
-  if (target?.kind === 'q') run = { place: linkPlaceIn(target.place, msgs(enPlaces)), opts: target.opts }
-  else if (shareP) {
+  if (!run && shareP) {
     const share = await raceTimeout(shareP, Math.max(SHARE_MIN_AFTER_LIGHT_MS, SHARE_CAP_MS - (performance.now() - bootStart)))
+    deciding = false
+    // The same place and options its search began with (shareRun keeps them per share), so runReport takes it over.
     if (share) run = shareRun(share)
     // Unknown, expired or invalid share (settled with null): the landing, with a clean address bar.
     else if (shareSettled) history.replaceState(history.state, '', homePath(location.pathname))
@@ -225,6 +243,8 @@ export async function boot() {
 
   if (run) {
     await sharp
+    // From here the search is runReport's: it takes over the one begun ahead, or starts it.
+    deciding = false
     mark(useApp.getState().dayMapSharp ? 'boot-run-sharp' : 'boot-run-unsharp')
     // Straight from boot to computing: runReport sets the phase, the curtain lifts onto the panel.
     if (run.share) useApp.getState().setShared(run.share)
@@ -272,10 +292,19 @@ async function loadFirstFonts(): Promise<void> {
   }
 }
 
-/** The report a share opens: its place, with the window centred on the pass when it is older than the default window. */
+/**
+ * The report a share opens: its place, with the window centred on the pass when it is older than the default window.
+ * One per share: a search begun ahead for it (startAhead) is recognised by these very objects.
+ */
+const shareRuns = new WeakMap<Share, { place: Place; opts: RunOpts; share: Share }>()
 function shareRun(share: Share): { place: Place; opts: RunOpts; share: Share } {
-  const place: Place = { label: share.placeLabel, lat: share.lat, lon: share.lon, source: 'url' }
-  return { place, opts: { ...passLinkOpts(share.tClosest ?? Date.now(), share.norad), geoItem: sharedGeoItem(share) }, share }
+  let opened = shareRuns.get(share)
+  if (!opened) {
+    const place: Place = { label: share.placeLabel, lat: share.lat, lon: share.lon, source: 'url' }
+    opened = { place, opts: { ...passLinkOpts(share.tClosest ?? Date.now(), share.norad), geoItem: sharedGeoItem(share) }, share }
+    shareRuns.set(share, opened)
+  }
+  return opened
 }
 
 /**
@@ -396,6 +425,82 @@ function retryCatalog(): Promise<void> {
   return catalogRetry
 }
 
+/**
+ * Start the engine on `place` (a run nobody need be listening to yet: src/app/engineRun.ts). `now` is the window's
+ * end, fixed here so the readout's window and the report's are one. `after`: what to wait for first (a search from
+ * the landing starts in the task after the next frame, R2K3 below). The lead photo is the engine's own business
+ * with the photo cache, whoever is listening: its crop goes out the moment its scene is known.
+ */
+function startEngine(place: Place, opts: RunOpts, ctrl: AbortController, now: number, after?: () => Promise<void>): EngineRun<EngineReport> {
+  mark('engine-run')
+  const stopped = () => {
+    if (ctrl.signal.aborted) throw new DOMException('Aborted', 'AbortError')
+  }
+  return engineRun<EngineReport>(async (cb) => {
+    await after?.()
+    stopped()
+    const { computeReport } = await loadEngine()
+    stopped()
+    return computeReport(place, {
+      now,
+      geoItem: opts.geoItem,
+      signal: ctrl.signal,
+      onProgress: cb.onProgress,
+      // The archive answers ~2 s before the partial report: start the likely hero's crop now (Planetary
+      // Computer renders it on demand, 1–2.5 s cold), so it is decoded by the time results land. Sentinel-2's scenes
+      // come first, alone, the moment that archive answers: a clear one leads whatever Landsat has, so its crop
+      // starts then (the second call, with every scene, finds the same URL in flight: one request).
+      onArchive: (caps) => {
+        if (!ctrl.signal.aborted) void warmLikelyHero(caps, opts)
+      },
+      // R-M1: the week has no clear photo and the last clear look is found (usually before the first report):
+      // its photo will lead the panel, so it downloads now, while the camera flies.
+      onCover: (c) => {
+        if (!ctrl.signal.aborted && !leadsWithPass(opts)) void warmPhoto(c)
+      },
+      onPartial: cb.onPartial,
+      onUpdate: cb.onUpdate,
+    })
+  })
+}
+
+/**
+ * The globe's code has arrived (Main says so: src/app/Main.tsx). It is the last large download first light waits
+ * for, so from here a link's search no longer competes with it for the connection.
+ */
+let globeCodeIn: () => void = () => undefined
+const globeCode = new Promise<void>((resolve) => (globeCodeIn = resolve))
+export const noteGlobeCode = () => globeCodeIn()
+
+/**
+ * A link's search, begun before anything can show it (boot). runReport takes it over when it is asked for that very
+ * place and options; anything else it is asked for stops it. Its controller is not `inflight` until then: nothing on
+ * screen belongs to it yet.
+ */
+let ahead: { place: Place; opts: RunOpts; ctrl: AbortController; now: number; run: EngineRun<EngineReport> } | null = null
+
+function startAhead(place: Place, opts: RunOpts) {
+  dropAhead()
+  const ctrl = new AbortController()
+  const now = opts.now ?? Date.now()
+  // The lead photo's URL builders and loader, for the engine's onArchive (S4 in runReport).
+  void loadHeroTools().catch(() => undefined)
+  ahead = { place, opts, ctrl, now, run: startEngine(place, opts, ctrl, now) }
+}
+
+function takeAhead(place: Place, opts: RunOpts) {
+  const begun = ahead
+  ahead = null
+  if (begun && begun.place === place && begun.opts === opts && !begun.ctrl.signal.aborted) return begun
+  begun?.ctrl.abort()
+  return null
+}
+
+function dropAhead() {
+  ahead?.ctrl.abort()
+  ahead = null
+}
+
 export async function runReport(place: Place, opts: RunOpts = {}) {
   // The place's name is on screen from the first frame of the search: in the visitor's language, never before it
   // (src/imagery/exonyms.ts). Its table is in by now (the search, the pin and the link wait for it), unless a language's
@@ -408,8 +513,10 @@ export async function runReport(place: Place, opts: RunOpts = {}) {
   // S4: the lead photo's crop goes out the moment its scene is known (onArchive, ~1–2 s from now): its URL builders and
   // loader (the results chunk) load now, alongside the archive search, not after it (measured: up to 0.8 s later).
   void loadHeroTools().catch(() => undefined)
+  // This very search, begun under the loading screen (a link): taken over as it stands. Any other is stopped.
+  const begun = takeAhead(place, opts)
   inflight?.abort()
-  const ctrl = new AbortController()
+  const ctrl = begun?.ctrl ?? new AbortController()
   inflight = ctrl
   lastRun = { place, opts }
   const s = useApp.getState()
@@ -418,9 +525,12 @@ export async function runReport(place: Place, opts: RunOpts = {}) {
   s.selectPass(undefined)
   s.setReport(undefined)
   s.setPlace(place)
-  const end = opts.now ?? Date.now()
+  const end = begun?.now ?? opts.now ?? Date.now()
   s.setPendingWindow([end - 7 * DAY, end])
-  s.setProgress({ stage: 'catalog', message: PROGRESS_CATALOG })
+  // What a search begun ahead has said so far, with its times: the readout shows how long each step really took.
+  const said = begun?.run.history() ?? []
+  s.setProgressBefore(said.length ? said : undefined)
+  s.setProgress(said.length ? said[said.length - 1] : { stage: 'catalog', message: PROGRESS_CATALOG })
   // The camera flight this search starts is the first one with an id above this.
   const flightBefore = s.cameraFlight.id
   s.setPhase('computing')
@@ -571,28 +681,11 @@ export async function runReport(place: Place, opts: RunOpts = {}) {
     // throttled phone) runs in the first task after the next frame, so the submit task carries only the phase
     // flip, and the first frame of the landing's exit and the camera's flight paints without it. That task is
     // queued from the frame's first rAF callback, ahead of the panel's mount (Main sets panelReady from a later
-    // one), so the archive requests never wait on the panel.
-    await afterNextFrame()
-    if (inflight !== ctrl) return
-    const { computeReport } = await loadEngine()
-    if (inflight !== ctrl) return
-    const report = await computeReport(place, {
-      now: opts.now,
-      geoItem: opts.geoItem,
-      signal: ctrl.signal,
+    // one), so the archive requests never wait on the panel. A search begun ahead (a link's) is long past that
+    // start: it is listened to from here, and hands over the partial report it has, if the final one is not in yet.
+    const run = begun?.run ?? startEngine(place, opts, ctrl, end, afterNextFrame)
+    run.attach({
       onProgress: progress.write,
-      // The archive answers ~2 s before the partial report: start the likely hero's crop now (Planetary
-      // Computer renders it on demand, 1–2.5 s cold), so it is decoded by the time results land. Sentinel-2's scenes
-      // come first, alone, the moment that archive answers: a clear one leads whatever Landsat has, so its crop
-      // starts then (the second call, with every scene, finds the same URL in flight: one request).
-      onArchive: (caps) => {
-        if (inflight === ctrl) void warmLikelyHero(caps, opts)
-      },
-      // R-M1: the week has no clear photo and the last clear look is found (usually before the first report):
-      // its photo will lead the panel, so it downloads now, while the camera flies.
-      onCover: (c) => {
-        if (inflight === ctrl && !leadsWithPass(opts)) void warmPhoto(c)
-      },
       onPartial: (r) => {
         if (inflight !== ctrl) return
         partialReport = r
@@ -608,19 +701,22 @@ export async function runReport(place: Place, opts: RunOpts = {}) {
         if (shown && updateTimer === undefined) updateTimer = setTimeout(flushUpdate, UPDATE_BATCH_MS)
       },
     })
+    const report = await run.done
     if (inflight !== ctrl) return
     // A report needs the catalog: if the boot-time load had failed, this one succeeded (the HUD re-reads it).
     if (!useApp.getState().catalogReady) useApp.getState().setCatalogReady(true)
-    finalReport = report
+    // The final report, or a background patch that is in already (a search begun ahead can be that far along).
+    const newest = run.latest() ?? report
+    finalReport = newest
     onNewer?.()
-    void prewarmModel(report)
+    void prewarmModel(newest)
     if (firstShow) {
       await firstShow
       // The final report after a partial one (a clear cover may have arrived with it) goes through the same
       // path as the background patches: after the results' entrance, ready (model built, new cover decoded),
       // then swapped in place; a newer patch supersedes it.
       if (updateTimer === undefined) flushUpdate()
-    } else await showFirst(report)
+    } else await showFirst(newest)
     if (inflight !== ctrl) return
     progress.cancel()
     useApp.getState().setProgress({ stage: 'done', message: PROGRESS_DONE })
@@ -881,6 +977,7 @@ function waitForCamera(started: number, flightBefore: number, signal: AbortSigna
 export function failPanel(cause: unknown) {
   const st = useApp.getState()
   if (st.phase !== 'computing' && st.phase !== 'results') return
+  dropAhead()
   inflight?.abort()
   inflight = null
   console.error(cause)
@@ -888,6 +985,7 @@ export function failPanel(cause: unknown) {
 }
 
 export function resetToLanding() {
+  dropAhead()
   inflight?.abort()
   inflight = null
   useApp.getState().reset()

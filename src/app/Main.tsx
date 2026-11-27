@@ -14,7 +14,7 @@
 import { memo, useEffect, useLayoutEffect, useRef, useState, type ComponentType } from 'react'
 import { createPortal } from 'react-dom'
 import { backStack, onBackSettled, watchLayer } from '@/lib/backStack'
-import { homePath } from '@/lib/placePage'
+import { bootPlace, homePath } from '@/lib/placePage'
 import { useApp, type Phase } from '@/state/store'
 import type { Place } from '@/types'
 import type { ResultsViewProps } from '@/ui/results'
@@ -56,8 +56,9 @@ const isApp = typeof location !== 'undefined' && !(import.meta.env.DEV && /[?&]s
 // The controller hears when it is in: a link's search starts then, under the loading screen (controller.ts startAhead).
 if (isApp) loadGlobe.onLoad(noteGlobeCode)
 if (isApp) void loadGlobe()
-// A deep link or share link goes from boot straight to computing: its panel must be ready by then.
-if (isApp && /[?&](q|s)=/.test(location.search)) void loadResults()
+// A deep link or share link goes from boot straight to computing: its panel must be ready by then. A place page
+// (/place/<slug>) is such a link with nothing in its query: it asked for the panel only once the curtain had lifted.
+if (isApp && (/[?&](q|s)=/.test(location.search) || bootPlace())) void loadResults()
 
 // Instrumentation for timing scripts: only in a `vite build --mode inspect` bundle (and dev), never in production.
 if (isApp && (import.meta.env.DEV || import.meta.env.MODE === 'inspect')) Object.assign(window, { __app: useApp })
